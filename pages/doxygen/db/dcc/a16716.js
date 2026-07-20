@@ -1,7 +1,7 @@
 var a16716 =
 [
-    [ "HandleEffectPeriodic", "db/dcc/a16716.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "db/dcc/a16716.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "db/dcc/a16716.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "db/dcc/a16716.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "HandleAfterEffectAbsorb", "db/dcc/a16716.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "db/dcc/a16716.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "db/dcc/a16716.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "db/dcc/a16716.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

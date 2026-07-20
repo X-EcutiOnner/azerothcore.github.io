@@ -1,6 +1,8 @@
 var a15648 =
 [
-    [ "HandleApply", "db/d71/a15648.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
-    [ "PrepareAuraScript", "db/d71/a15648.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
-    [ "Register", "db/d71/a15648.html#ade5c710416516760cc69f77750aa2a1f", null ]
+    [ "npc_ouro_spawner", "db/d71/a15648.html#acb18739e5a1734312ffdda35321e5f34", null ],
+    [ "JustSummoned", "db/d71/a15648.html#a722dada5bf97c730462a0de2b082d5ff", null ],
+    [ "MoveInLineOfSight", "db/d71/a15648.html#a83c0972db4435ccf1af069574e4056f4", null ],
+    [ "Reset", "db/d71/a15648.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
+    [ "hasSummoned", "db/d71/a15648.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
 ];

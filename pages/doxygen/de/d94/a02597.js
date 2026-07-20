@@ -1,4 +1,5 @@
 var a02597 =
 [
-    [ "UPDATE_TARGET", "de/d94/a02597.html#a7147e15125e75e9e1624cd480f4afb5f", null ]
+    [ "spellinfo_commandscript", "dd/d5f/a12540.html", "dd/d5f/a12540" ],
+    [ "AddSC_spellinfo_commandscript", "de/d94/a02597.html#ab9e45d5e5eb40c48734ab273bdb3be64", null ]
 ];

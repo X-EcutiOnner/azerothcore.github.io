@@ -1,9 +1,13 @@
 var a08536 =
 [
-    [ "artKits", "d6/d96/a08536.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
-    [ "entry", "d6/d96/a08536.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
-    [ "faction", "d6/d96/a08536.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
-    [ "flags", "d6/d96/a08536.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
-    [ "maxgold", "d6/d96/a08536.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
-    [ "mingold", "d6/d96/a08536.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
+    [ "AnimationInfo", "d6/d96/a08536.html#aa443028e95ae416e09f1acfef0575803", null ],
+    [ "Building", "d6/d96/a08536.html#a53c177a0b800f7e0952bff948fca636c", null ],
+    [ "CapturePoint", "d6/d96/a08536.html#a200f05ff1207f21ef67cb9c14d3a4767", null ],
+    [ "FishingHole", "d6/d96/a08536.html#a1ccae6fe25f6c9377c5c2933b6301254", null ],
+    [ "Health", "d6/d96/a08536.html#af70b72663064c9c4b88c93a824f1e14b", null ],
+    [ "MaxHealth", "d6/d96/a08536.html#ab606f11596c1dd3d1cf7588346338721", null ],
+    [ "MaxOpens", "d6/d96/a08536.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
+    [ "OPvPObj", "d6/d96/a08536.html#a565624b690fa7fabf21b175548765652", null ],
+    [ "PathProgress", "d6/d96/a08536.html#a9e07a147b2be08a78f052e0cdb817111", null ],
+    [ "Transport", "d6/d96/a08536.html#a0e552fe0bfca9c74cbe9c6f72fc044e5", null ]
 ];

@@ -1,11 +1,11 @@
 var a22960 =
 [
-    [ "boss_ahune", "df/d0c/a22960.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "df/d0c/a22960.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "df/d0c/a22960.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "df/d0c/a22960.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "df/d0c/a22960.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "df/d0c/a22960.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "df/d0c/a22960.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "df/d0c/a22960.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "boss_doomwalker", "df/d0c/a22960.html#a47811086ff98b1a09af5300af94b6c0e", null ],
+    [ "JustDied", "df/d0c/a22960.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
+    [ "JustEngagedWith", "df/d0c/a22960.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
+    [ "KilledUnit", "df/d0c/a22960.html#a2335eb642940397f73ee2a8051624e8e", null ],
+    [ "MoveInLineOfSight", "df/d0c/a22960.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
+    [ "Reset", "df/d0c/a22960.html#aba08b227d629c9f35e59f465e29c267b", null ],
+    [ "UpdateAI", "df/d0c/a22960.html#a3105c50e512c6f709985cece619b131f", null ],
+    [ "_inEnrage", "df/d0c/a22960.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
 ];

@@ -1,8 +1,25 @@
 var a29824 =
 [
-    [ "TileInfo", "dd/da3/a29824.html#af1a25ded4212f141ab4f32db95709210", null ],
-    [ "m_mapId", "dd/da3/a29824.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
-    [ "m_navMeshParams", "dd/da3/a29824.html#a9d7c909370359edafa8a9b6a91cef354", null ],
-    [ "m_tileX", "dd/da3/a29824.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
-    [ "m_tileY", "dd/da3/a29824.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
+    [ "AddsValueBeyondDBC", "dd/da3/a29824.html#ada68807ba3950313c5a7652a7fe85c40", null ],
+    [ "HasDBCData", "dd/da3/a29824.html#a70c20b8efd966a3051591e4292957f21", null ],
+    [ "ToSpellProcEntry", "dd/da3/a29824.html#a70ebb9c47633f6c55f863593d1f1b0d7", null ],
+    [ "AttributesMask", "dd/da3/a29824.html#a32a562ccd8812c33b385fb6a4812693f", null ],
+    [ "Chance", "dd/da3/a29824.html#a9e4e897bb784e63d991e76f8efd393ab", null ],
+    [ "Charges", "dd/da3/a29824.html#a1795067c9622f90fe10afaa9086729d2", null ],
+    [ "Cooldown", "dd/da3/a29824.html#a8ae054e7700edebf204b6b9d5285b570", null ],
+    [ "DBC_ProcChance", "dd/da3/a29824.html#a687725337f68ab28c9f862997666b979", null ],
+    [ "DBC_ProcCharges", "dd/da3/a29824.html#a674bdd693e94bea55c93985a04a3cde5", null ],
+    [ "DBC_ProcFlags", "dd/da3/a29824.html#aba345f90612d66a1ae8ff83b863c3752", null ],
+    [ "DisableEffectsMask", "dd/da3/a29824.html#a255f45e42d9ad7f4a1a71b12289f6280", null ],
+    [ "HitMask", "dd/da3/a29824.html#aac7528939d9f28432649a5e947cb112b", null ],
+    [ "ProcFlags", "dd/da3/a29824.html#ac62ba46b22a759991731a15b17ccf3d9", null ],
+    [ "ProcsPerMinute", "dd/da3/a29824.html#a1005dd21ca315c4ee18cc1f0b1147590", null ],
+    [ "SchoolMask", "dd/da3/a29824.html#ab76502dd0f6d6e9fa8608800547b097c", null ],
+    [ "SpellFamilyMask0", "dd/da3/a29824.html#a8b316b64763de61fabe8eee119a3c33b", null ],
+    [ "SpellFamilyMask1", "dd/da3/a29824.html#a0f2454783d5fcd2b751b40b8e32d8476", null ],
+    [ "SpellFamilyMask2", "dd/da3/a29824.html#a74093101a8fe41b8bb641da9957d6ef2", null ],
+    [ "SpellFamilyName", "dd/da3/a29824.html#a11a0c26f6d3e6f3b8e47e1c968841094", null ],
+    [ "SpellId", "dd/da3/a29824.html#ad78ff047d8971788febae990abc86698", null ],
+    [ "SpellPhaseMask", "dd/da3/a29824.html#ab2356da98d2b2c9d250d1c86056a427c", null ],
+    [ "SpellTypeMask", "dd/da3/a29824.html#a8ac8ca4ac8ed7eb60de720bb0bac36b1", null ]
 ];

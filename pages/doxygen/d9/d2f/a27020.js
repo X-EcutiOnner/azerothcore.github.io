@@ -1,6 +1,6 @@
 var a27020 =
 [
-    [ "CheckProc", "d9/d2f/a27020.html#a5e48b25b15b60aa284ca61e900e0f87e", null ],
-    [ "PrepareAuraScript", "d9/d2f/a27020.html#a13ccd1c89767d0dcf041217466390759", null ],
-    [ "Register", "d9/d2f/a27020.html#a4f29ca53813534b1af20e09281288e95", null ]
+    [ "HandleDummy", "d9/d2f/a27020.html#a73628636431d3549d6e3530c6ef23c08", null ],
+    [ "PrepareSpellScript", "d9/d2f/a27020.html#ab90d3031b356e8004fa62c9562f1ba1f", null ],
+    [ "Register", "d9/d2f/a27020.html#a7f42cf47831d3c8544453530a1454ddc", null ]
 ];

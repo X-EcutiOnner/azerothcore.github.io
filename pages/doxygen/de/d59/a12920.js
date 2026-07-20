@@ -1,9 +1,18 @@
 var a12920 =
 [
-    [ "npc_flamewaker_priest", "de/d59/a12920.html#aa0b872053b56d11077d2dbe25c1870d1", null ],
-    [ "JustDied", "de/d59/a12920.html#a87ebaf50263847a58c238ea2b7105b84", null ],
-    [ "JustEngagedWith", "de/d59/a12920.html#a5c539171b96fd5a98ce044c5d47ef815", null ],
-    [ "Reset", "de/d59/a12920.html#a168ff12b2a915358fb59b8ff255c697e", null ],
-    [ "UpdateAI", "de/d59/a12920.html#a0fce5f31e414f6e3fd140015b0b4524c", null ],
-    [ "events", "de/d59/a12920.html#a97c419bcf7fc02bfe792ed925f7857c2", null ]
+    [ "boss_vaelastrasz", "de/d59/a12920.html#a34f13f4de3f268c8fe034e8577186966", null ],
+    [ "BeginSpeech", "de/d59/a12920.html#aa6bbbbe76f890112fc1d2e4cd4159346", null ],
+    [ "Initialize", "de/d59/a12920.html#a8b3356d4fcc6c17c097890bbd98947d5", null ],
+    [ "JustEngagedWith", "de/d59/a12920.html#ac742f8acce5060e5496f43900b1e3cc0", null ],
+    [ "JustSummoned", "de/d59/a12920.html#a73f72d397a277301d1b5e2020f0f6146", null ],
+    [ "KilledUnit", "de/d59/a12920.html#abff4fd6f7f15771b8fccabf4f633c067", null ],
+    [ "Reset", "de/d59/a12920.html#ac496730fdeb5e55c125a1880626c76e4", null ],
+    [ "sGossipSelect", "de/d59/a12920.html#ae25b1d667393f9af0f3424137d78a9d0", null ],
+    [ "UpdateAI", "de/d59/a12920.html#a7a78dd37d5055212cc6d23dc3d831d6d", null ],
+    [ "_burningAdrenalineCast", "de/d59/a12920.html#acb5c8baf13a39d560447f3e16f07966c", null ],
+    [ "_eventsIntro", "de/d59/a12920.html#a7e3fb2f93d36789d1e123a73c619de23", null ],
+    [ "_introDone", "de/d59/a12920.html#a3d0d4ee1c9a47715e22f3567783dd11e", null ],
+    [ "HasYelled", "de/d59/a12920.html#aa73cdc2f26c0710d5d917c4f787a1793", null ],
+    [ "m_nefariusGuid", "de/d59/a12920.html#ae1a22491288380cb50264a51e0b624f6", null ],
+    [ "PlayerGUID", "de/d59/a12920.html#a8ba86f17a35448edd8d98f49c7d16fa6", null ]
 ];

@@ -1,7 +1,6 @@
 var a23660 =
 [
-    [ "npc_daranelleAI", "dc/dbf/a23660.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "dc/dbf/a23660.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "dc/dbf/a23660.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "dc/dbf/a23660.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "AfterRemove", "dc/dbf/a23660.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
+    [ "PrepareAuraScript", "dc/dbf/a23660.html#ad5871ce865820456177362c6b790778f", null ],
+    [ "Register", "dc/dbf/a23660.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
 ];

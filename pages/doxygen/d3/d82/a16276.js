@@ -1,5 +1,7 @@
 var a16276 =
 [
-    [ "achievement_hadronox_denied", "d3/d82/a16276.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
-    [ "OnCheck", "d3/d82/a16276.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
+    [ "npc_ahnkahar_nerubian", "d3/d82/a16276.html#ae18cdf09bae50751e266e95caf165f8e", null ],
+    [ "Reset", "d3/d82/a16276.html#a387831015ec8e4bc65cff8c8550bb176", null ],
+    [ "UpdateAI", "d3/d82/a16276.html#a9a773127e4f94bcdf142718355eae0e8", null ],
+    [ "uiSprintTimer", "d3/d82/a16276.html#a27a6f57a6b145cc595896d1ad453064f", null ]
 ];

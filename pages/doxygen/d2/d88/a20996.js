@@ -1,6 +1,13 @@
 var a20996 =
 [
-    [ "boss_svalaAI", "d3/dfd/a21000.html", "d3/dfd/a21000" ],
-    [ "boss_svala", "d2/d88/a20996.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
-    [ "GetAI", "d2/d88/a20996.html#a0c3b94635eca667a28496cf799efad25", null ]
+    [ "npc_ulduar_arachnopod_destroyer", "d2/d88/a20996.html#a13422abe59c4aa11bee16225d689c054", null ],
+    [ "AttackStart", "d2/d88/a20996.html#ac634717023bd5827e2b8b1f4c79c6084", null ],
+    [ "DamageTaken", "d2/d88/a20996.html#a80a63823a5ffb19fd84fe3da5e9e4659", null ],
+    [ "EnterEvadeMode", "d2/d88/a20996.html#acb089a5226af27005ac2356e84e976aa", null ],
+    [ "OnCharmed", "d2/d88/a20996.html#a3d24ff7efa6a822b5d5c6c762b026d75", null ],
+    [ "PassengerBoarded", "d2/d88/a20996.html#a1b15edb1527095dcac5f9c0ef183fb55", null ],
+    [ "Reset", "d2/d88/a20996.html#a7fa3aa16e4764b5ce4a93eef855010f8", null ],
+    [ "UpdateAI", "d2/d88/a20996.html#a87d4086066ac53697793152fdcebf841", null ],
+    [ "_spawnedMechanic", "d2/d88/a20996.html#ae781e2c258ac3ce268821b98ae310a0f", null ],
+    [ "events", "d2/d88/a20996.html#a7cb0d83e8b94808fa16539ea098e1a2f", null ]
 ];

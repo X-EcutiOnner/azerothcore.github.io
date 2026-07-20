@@ -1,11 +1,14 @@
 var a13128 =
 [
-    [ "npc_demon_chain", "d9/d59/a13128.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
-    [ "AttackStart", "d9/d59/a13128.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
-    [ "IsSummonedBy", "d9/d59/a13128.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
-    [ "JustDied", "d9/d59/a13128.html#a35d1b7de8612f11cdf61b9d663990686", null ],
-    [ "JustEngagedWith", "d9/d59/a13128.html#a9743ebc31c5159a03889bfd40b09d749", null ],
-    [ "MoveInLineOfSight", "d9/d59/a13128.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
-    [ "Reset", "d9/d59/a13128.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
-    [ "sacrificeGUID", "d9/d59/a13128.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
+    [ "boss_midnight", "d9/d59/a13128.html#aacf45b21a30d671d5e9720a30336f72c", null ],
+    [ "CanMeleeHit", "d9/d59/a13128.html#ad46a3726f398e5db56612d78d33fb13f", null ],
+    [ "DamageTaken", "d9/d59/a13128.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
+    [ "DoAction", "d9/d59/a13128.html#a6831149d56f432aa3116d4172ef95a18", null ],
+    [ "EnterEvadeMode", "d9/d59/a13128.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
+    [ "JustEngagedWith", "d9/d59/a13128.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
+    [ "JustSummoned", "d9/d59/a13128.html#a2644deaf0a2970835b0cd508565e7279", null ],
+    [ "KilledUnit", "d9/d59/a13128.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
+    [ "Reset", "d9/d59/a13128.html#a4f9cb414779705c179bc5447975b35e9", null ],
+    [ "UpdateAI", "d9/d59/a13128.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
+    [ "_phase", "d9/d59/a13128.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
 ];

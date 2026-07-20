@@ -1,5 +1,6 @@
 var a16392 =
 [
-    [ "at_baltharus_plateau", "d9/d7a/a16392.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
-    [ "OnTrigger", "d9/d7a/a16392.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
+    [ "FilterTargets", "d9/d7a/a16392.html#aff3223d9b3df91f9261aa2f45373f846", null ],
+    [ "PrepareSpellScript", "d9/d7a/a16392.html#a3ca9ba182a313fb741b15df63408a90e", null ],
+    [ "Register", "d9/d7a/a16392.html#af333c3c72251a2d1c0ee4effdbc0b155", null ]
 ];

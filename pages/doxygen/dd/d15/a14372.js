@@ -1,6 +1,8 @@
 var a14372 =
 [
-    [ "HandleOnHit", "dd/d15/a14372.html#a1f133ab9e85f80c225276bf744da6898", null ],
-    [ "PrepareSpellScript", "dd/d15/a14372.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
-    [ "Register", "dd/d15/a14372.html#a1063358ed71ded8454f35f43442354ab", null ]
+    [ "npc_zulaman_hostageAI", "de/d10/a14376.html", "de/d10/a14376" ],
+    [ "npc_zulaman_hostage", "dd/d15/a14372.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "dd/d15/a14372.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "dd/d15/a14372.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "dd/d15/a14372.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

@@ -1,7 +1,6 @@
 var a12568 =
 [
-    [ "boss_okthor", "d3/de1/a12568.html#a10c5868b555e6f7edc11de179eccb151", null ],
-    [ "JustEngagedWith", "d3/de1/a12568.html#a40909de030f186531a8cfe1993b6aa40", null ],
-    [ "UpdateAI", "d3/de1/a12568.html#ab63a797da2b3f93da32b078b9731b1de", null ],
-    [ "_nextArcaneExplosionTime", "d3/de1/a12568.html#aa7c9edda4aee7ed257b3cb1334c4e899", null ]
+    [ "npc_av_marshal_or_warmasterAI", "d2/db0/a12572.html", "d2/db0/a12572" ],
+    [ "npc_av_marshal_or_warmaster", "d3/de1/a12568.html#a7ffc93248d66d50d5d75d1fcf1f907ee", null ],
+    [ "GetAI", "d3/de1/a12568.html#a295eee4baef6a53cf291fdf155cfdf4a", null ]
 ];

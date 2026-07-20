@@ -1,6 +1,6 @@
 var a23680 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d0/da7/a23684.html", "d0/da7/a23684" ],
-    [ "npc_oscillating_frequency_scanner_master_bunny", "d8/da2/a23680.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
-    [ "GetAI", "d8/da2/a23680.html#a60d55e2eda4484ceea4e475ac8653977", null ]
+    [ "npc_capernian", "d8/da2/a23680.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "d8/da2/a23680.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "d8/da2/a23680.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

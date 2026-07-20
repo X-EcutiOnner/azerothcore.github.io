@@ -1,6 +1,7 @@
 var a11908 =
 [
-    [ "AuraDispelHandler", "d4/d20/a11908.html#ab6e675b4db931c601b3d6aef65ae0ff6", null ],
-    [ "Call", "d4/d20/a11908.html#a147d8a6d95f011f27600d052ef7b4000", null ],
-    [ "pHandlerScript", "d4/d20/a11908.html#ab7dd73a36aa517354a023deb7db0cf19", null ]
+    [ "ap_bonus", "d4/d20/a11908.html#a98410b8bb89434cd7e1747462f8039dc", null ],
+    [ "ap_dot_bonus", "d4/d20/a11908.html#a09caeec47b138d9eff3539795416a09a", null ],
+    [ "direct_damage", "d4/d20/a11908.html#abab1af227a6c8e592b8a9bd15589535d", null ],
+    [ "dot_damage", "d4/d20/a11908.html#a92491d8d1e61612d88c7c830d7912be5", null ]
 ];

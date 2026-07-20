@@ -1,6 +1,7 @@
 var a14592 =
 [
-    [ "CheckItem", "d6/d0f/a14592.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
-    [ "PrepareSpellScript", "d6/d0f/a14592.html#a0fa160f1218cf838444f894716cb8aed", null ],
-    [ "Register", "d6/d0f/a14592.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
+    [ "HandleApply", "d6/d0f/a14592.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
+    [ "HandleRemove", "d6/d0f/a14592.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
+    [ "PrepareAuraScript", "d6/d0f/a14592.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
+    [ "Register", "d6/d0f/a14592.html#af2343add2ed014832bd34d11519b391b", null ]
 ];

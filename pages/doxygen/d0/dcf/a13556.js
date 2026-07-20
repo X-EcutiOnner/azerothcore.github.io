@@ -1,6 +1,6 @@
 var a13556 =
 [
-    [ "boss_baroness_anastariAI", "d7/d28/a13560.html", "d7/d28/a13560" ],
-    [ "boss_baroness_anastari", "d0/dcf/a13556.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
-    [ "GetAI", "d0/dcf/a13556.html#a38073f80afbceb5535cc18ab524378a6", null ]
+    [ "boss_darkmaster_gandlingAI", "d7/d28/a13560.html", "d7/d28/a13560" ],
+    [ "boss_darkmaster_gandling", "d0/dcf/a13556.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
+    [ "GetAI", "d0/dcf/a13556.html#a21ea53862614303af31a517a53d1fbf6", null ]
 ];

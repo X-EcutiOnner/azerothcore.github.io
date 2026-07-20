@@ -1,6 +1,7 @@
 var a26296 =
 [
-    [ "CalculateAmount", "d5/d3a/a26296.html#acc2c4cea16dfa30c49387ac166cef560", null ],
-    [ "PrepareAuraScript", "d5/d3a/a26296.html#a8d7e840994ba5034a249171dbfc016a6", null ],
-    [ "Register", "d5/d3a/a26296.html#a018d2a8a106a621730fcaa1d500df7b1", null ]
+    [ "CalcPeriodic", "d5/d3a/a26296.html#a404e5309016cfcaa3071c0216978699e", null ],
+    [ "PrepareAuraScript", "d5/d3a/a26296.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
+    [ "Register", "d5/d3a/a26296.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
+    [ "AuraEffectHandleModes", "d5/d3a/a26296.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
 ];

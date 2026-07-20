@@ -1,12 +1,8 @@
 var a21140 =
 [
-    [ "npc_ichor_globule", "d6/d25/a21140.html#a59443a6748d81ef27a030f8656697fc1", null ],
-    [ "AttackStart", "d6/d25/a21140.html#a1e52599fab1b7e33d958f9815f73c6eb", null ],
-    [ "JustDied", "d6/d25/a21140.html#af740ee64b1f8510b0bacba4bcfe6d418", null ],
-    [ "MoveInLineOfSight", "d6/d25/a21140.html#af14fada689a1a6a780ae44865d16e465", null ],
-    [ "Reset", "d6/d25/a21140.html#a78030360fcd39754744384cdba17fd9e", null ],
-    [ "SpellHit", "d6/d25/a21140.html#a3d1e68f4b809286d57355de7d4482ae6", null ],
-    [ "UpdateAI", "d6/d25/a21140.html#acccc54db59a18e78330011465e109439", null ],
-    [ "_events", "d6/d25/a21140.html#a221c58177666ea1eb4a6b831916297eb", null ],
-    [ "_instance", "d6/d25/a21140.html#a5d56f5468b146ab2f8905b807bb22edc", null ]
+    [ "FilterTargets", "d6/d25/a21140.html#a028ef84c884536a28650ace1e56f8061", null ],
+    [ "HandleScript", "d6/d25/a21140.html#a16466b4c07c06c57493082b0e84b3c66", null ],
+    [ "PrepareSpellScript", "d6/d25/a21140.html#ad43892487ca38342a61522548b34cd2c", null ],
+    [ "Register", "d6/d25/a21140.html#a90470761baccdcf8c5430006004abf29", null ],
+    [ "Validate", "d6/d25/a21140.html#a1664dcb92887f6974e1750472c02d168", null ]
 ];

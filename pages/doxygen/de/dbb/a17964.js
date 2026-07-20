@@ -1,7 +1,6 @@
 var a17964 =
 [
-    [ "HandleDummy", "de/dbb/a17964.html#a6e5d70c35420384305d7faf991072b38", null ],
-    [ "PrepareSpellScript", "de/dbb/a17964.html#a64f912555853aab5693692b22eba52c4", null ],
-    [ "Register", "de/dbb/a17964.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
-    [ "Validate", "de/dbb/a17964.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
+    [ "npc_igb_ship_crewAI", "de/d77/a17968.html", "de/d77/a17968" ],
+    [ "npc_igb_ship_crew", "de/dbb/a17964.html#a5f4380aba94766a6a75b97026998b881", null ],
+    [ "GetAI", "de/dbb/a17964.html#a48955817e21a01a726b50685b467c229", null ]
 ];

@@ -1,10 +1,8 @@
 var a11848 =
 [
-    [ "EffectHook", "d0/d50/a11848.html#a4a197e061d918dfba2bc486f3393b00d", null ],
-    [ "~EffectHook", "d0/d50/a11848.html#aa234f63b530764d12064acbe3f5c9299", null ],
-    [ "CheckEffect", "d0/d50/a11848.html#ae8823c5d649d182f572818bf3db72902", null ],
-    [ "EffIndexToString", "d0/d50/a11848.html#ab818ed274cfd66ecc565b8535b751517", null ],
-    [ "GetAffectedEffectsMask", "d0/d50/a11848.html#a31faa86590e22f5ab3ca518f4df02840", null ],
-    [ "IsEffectAffected", "d0/d50/a11848.html#a697041ffa562bb6fff792beb159c7af2", null ],
-    [ "effIndex", "d0/d50/a11848.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
+    [ "WorldObjectSpellAreaTargetCheck", "d0/d50/a11848.html#a0a6275bc4d2bbf7da27e4b0df7245ec2", null ],
+    [ "operator()", "d0/d50/a11848.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
+    [ "_position", "d0/d50/a11848.html#a680c45dd148161657da011a1772375ca", null ],
+    [ "_range", "d0/d50/a11848.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ],
+    [ "_searchReason", "d0/d50/a11848.html#aad544cdfe9423a7967dfed64aeaed995", null ]
 ];

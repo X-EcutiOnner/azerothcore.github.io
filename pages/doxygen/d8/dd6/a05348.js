@@ -1,6 +1,5 @@
 var a05348 =
 [
-    [ "TriBoundFunc", "d8/dd6/a05348.html#a42711c10595c048420a09e35e3345229", null ],
-    [ "operator()", "d8/dd6/a05348.html#a026d443e9156f884a21351700b6c69dd", null ],
-    [ "vertices", "d8/dd6/a05348.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
+    [ "TileEntries", "d8/dd6/a05348.html#ac982af8210389fe769d161a12d4cdb5f", null ],
+    [ "UniqueEntries", "d8/dd6/a05348.html#a5ba6c948eedc6c070a7eb6aa3816d85c", null ]
 ];

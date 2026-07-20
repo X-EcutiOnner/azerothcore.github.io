@@ -1,13 +1,7 @@
 var a03314 =
 [
-    [ "SkillPerfectItemEntry", "da/d7e/a11727.html", "da/d7e/a11727" ],
-    [ "SkillExtraItemEntry", "d9/d53/a11731.html", "d9/d53/a11731" ],
-    [ "SkillExtraItemMap", "da/d6e/a03314.html#a9ba2d7d2e815aee57a701990b858db7b", null ],
-    [ "SkillPerfectItemMap", "da/d6e/a03314.html#ad732be66d93ed6e8f498077f27e2766b", null ],
-    [ "canCreateExtraItems", "da/d6e/a03314.html#a49687e255d65fa15dac5e6a428c5739d", null ],
-    [ "CanCreatePerfectItem", "da/d6e/a03314.html#a818c557864790091814604b6d2175e52", null ],
-    [ "LoadSkillExtraItemTable", "da/d6e/a03314.html#a3244d04018405bafe21acc8bc96cc743", null ],
-    [ "LoadSkillPerfectItemTable", "da/d6e/a03314.html#a121df170a82be5ab5b05999a6be27b69", null ],
-    [ "SkillExtraItemStore", "da/d6e/a03314.html#acc52416c05fbae29bcbfa9f0683485cd", null ],
-    [ "SkillPerfectItemStore", "da/d6e/a03314.html#ac676f0acbf782fa2d31bd66b8eaa8260", null ]
+    [ "instance_trial_of_the_crusader", "d2/d3b/a17104.html", "d2/d3b/a17104" ],
+    [ "instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript", "d7/d0d/a17108.html", "d7/d0d/a17108" ],
+    [ "AddSC_instance_trial_of_the_crusader", "da/d6e/a03314.html#af823cabf441f9e6a5443da42df4fda4f", null ],
+    [ "validDedicatedInsanityItems", "da/d6e/a03314.html#ad29a01125872f689fb9953e9b3beb8e8", null ]
 ];

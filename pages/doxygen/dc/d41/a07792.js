@@ -1,11 +1,9 @@
 var a07792 =
 [
-    [ "BattlegroundWGScore", "dc/d41/a07792.html#a43b7933c5e217376e5bb10e9b5bb208b", null ],
-    [ "BuildObjectivesBlock", "dc/d41/a07792.html#a804e56dbd666336d961cce2b0e4d6452", null ],
-    [ "GetAttr1", "dc/d41/a07792.html#aab49f39d88989b153f1eb979fbbfaeb3", null ],
-    [ "GetAttr2", "dc/d41/a07792.html#a191e205e08ef15cc36dabedc32614fd2", null ],
-    [ "UpdateScore", "dc/d41/a07792.html#aa560d7f5f13dd235d43a9e3571090055", null ],
-    [ "BattlegroundWS", "dc/d41/a07792.html#a4285b67c5d8593dce759422a4eb78c77", null ],
-    [ "FlagCaptures", "dc/d41/a07792.html#a23ff00f10d07c1a601e9e1d0eb05b1da", null ],
-    [ "FlagReturns", "dc/d41/a07792.html#ab400c9fb692ff157eb4809f0536c05f7", null ]
+    [ "entry", "dc/d41/a07792.html#a4c6980a035279ca45e88a2ddc0beb0b5", null ],
+    [ "o", "dc/d41/a07792.html#a785703f50dcafda5888fb76af82a09da", null ],
+    [ "type", "dc/d41/a07792.html#aa21624a51b1fbfc474d0c64f4996cb9b", null ],
+    [ "x", "dc/d41/a07792.html#a55bd18cb9ea27748a07dd91f6783de23", null ],
+    [ "y", "dc/d41/a07792.html#a908fbf198d908963e77630b42deea147", null ],
+    [ "z", "dc/d41/a07792.html#a4a49f5cbb58764ea9c137fc010e898c6", null ]
 ];

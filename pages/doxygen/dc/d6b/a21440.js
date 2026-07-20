@@ -1,8 +1,7 @@
 var a21440 =
 [
-    [ "npc_future_youAI", "dc/d6b/a21440.html#a7608c050dd198e3133050e222b42f62b", null ],
-    [ "EnterEvadeMode", "dc/d6b/a21440.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
-    [ "MoveInLineOfSight", "dc/d6b/a21440.html#a35b67f9e948f5ffbde8a423190ece603", null ],
-    [ "Reset", "dc/d6b/a21440.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
-    [ "UpdateAI", "dc/d6b/a21440.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
+    [ "npc_mootoo_the_youngerAI", "dc/dd7/a21444.html", "dc/dd7/a21444" ],
+    [ "npc_mootoo_the_younger", "dc/d6b/a21440.html#a91e10489ed6a98cfa764fd4de8448317", null ],
+    [ "GetAI", "dc/d6b/a21440.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
+    [ "OnQuestAccept", "dc/d6b/a21440.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
 ];

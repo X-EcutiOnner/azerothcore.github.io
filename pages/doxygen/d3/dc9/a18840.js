@@ -1,7 +1,7 @@
 var a18840 =
 [
-    [ "OnApply", "d3/dc9/a18840.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "d3/dc9/a18840.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "d3/dc9/a18840.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "d3/dc9/a18840.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "ValithriaDespawner", "d3/dc9/a18840.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "d3/dc9/a18840.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "d3/dc9/a18840.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "d3/dc9/a18840.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

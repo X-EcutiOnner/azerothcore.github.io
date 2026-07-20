@@ -1,8 +1,10 @@
 var a24596 =
 [
-    [ "CheckProc", "d2/dee/a24596.html#afb2da9368612d8baa7dddcd8232b61c3", null ],
-    [ "HandleProc", "d2/dee/a24596.html#a43272dc56e174c36c258086685f41fbc", null ],
-    [ "PrepareAuraScript", "d2/dee/a24596.html#a3bd510824be1f2ab6864036224dceed9", null ],
-    [ "Register", "d2/dee/a24596.html#a1dbe1956639a63950d9788d55e69fc2d", null ],
-    [ "Validate", "d2/dee/a24596.html#a5f35a7963129eb22708c9e102550de82", null ]
+    [ "CalculateAPAmount", "d2/dee/a24596.html#af1d4558f6132d3c2abc71ec1dabee2e8", null ],
+    [ "CalculateResistanceAmount", "d2/dee/a24596.html#a5d6e7b92f4335176388a877e72c0e92c", null ],
+    [ "CalculateSPAmount", "d2/dee/a24596.html#a40c96996d19b9f7eeed3fda4271b9f87", null ],
+    [ "CalculateStatAmount", "d2/dee/a24596.html#ae4f96de2c558a4b0fd7659442aa3d92b", null ],
+    [ "HandleEffectApply", "d2/dee/a24596.html#aeebb14424a6ae336edd4b66d824d648a", null ],
+    [ "PrepareAuraScript", "d2/dee/a24596.html#a7e3dc351574f6d6ad3424eb7df7092df", null ],
+    [ "Register", "d2/dee/a24596.html#ab5713a34ced4d2e2a67b43e98d7a55c0", null ]
 ];

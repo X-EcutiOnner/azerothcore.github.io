@@ -1,7 +1,5 @@
 var a11720 =
 [
-    [ "chance", "da/d4f/a11720.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
-    [ "triggeredByAura", "da/d4f/a11720.html#abb48d6093570ba9c5488f200544a1e83", null ],
-    [ "triggeredByEffIdx", "da/d4f/a11720.html#a82d752dedab39f417af225add6af1403", null ],
-    [ "triggeredSpell", "da/d4f/a11720.html#a02ac12119655f9ab82347d21cc68803a", null ]
+    [ "amountCounter", "da/d4f/a11720.html#af652ffc837bde625aa39e913ec2e2eec", null ],
+    [ "lastReceiveTime", "da/d4f/a11720.html#ae0f3f2a90a24b48d239e3df3525f8fdc", null ]
 ];

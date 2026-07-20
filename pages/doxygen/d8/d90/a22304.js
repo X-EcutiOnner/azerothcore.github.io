@@ -1,8 +1,6 @@
 var a22304 =
 [
-    [ "boss_pandemonius", "d8/d90/a22304.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
-    [ "JustDied", "d8/d90/a22304.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
-    [ "JustEngagedWith", "d8/d90/a22304.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
-    [ "KilledUnit", "d8/d90/a22304.html#a26a012afe8c418c8da283c7b9f983e89", null ],
-    [ "PullRoom", "d8/d90/a22304.html#a05011127290350f11cc1a333b23dbb04", null ]
+    [ "npc_released_offspring_harkoaAI", "d0/da2/a22308.html", "d0/da2/a22308" ],
+    [ "npc_released_offspring_harkoa", "d8/d90/a22304.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
+    [ "GetAI", "d8/d90/a22304.html#ae3d2a02c496be1b2606fce596625d12e", null ]
 ];

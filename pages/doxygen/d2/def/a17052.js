@@ -1,6 +1,6 @@
 var a17052 =
 [
-    [ "HandleScript", "d2/def/a17052.html#a4786e0c38f03f7e671174d0641526681", null ],
-    [ "PrepareSpellScript", "d2/def/a17052.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
-    [ "Register", "d2/def/a17052.html#a943117bfb56b846e99d04bd9a348af8d", null ]
+    [ "boss_icehowlAI", "d5/d09/a17056.html", "d5/d09/a17056" ],
+    [ "boss_icehowl", "d2/def/a17052.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
+    [ "GetAI", "d2/def/a17052.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
 ];

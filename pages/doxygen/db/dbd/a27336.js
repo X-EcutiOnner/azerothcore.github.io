@@ -1,6 +1,6 @@
 var a27336 =
 [
-    [ "HandleScriptEffect", "db/dbd/a27336.html#a3f8988017d088d08df08ba8b696b552b", null ],
-    [ "PrepareSpellScript", "db/dbd/a27336.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
-    [ "Register", "db/dbd/a27336.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
+    [ "CheckProc", "db/dbd/a27336.html#a3b98aef2d745773a55ac10daded629e7", null ],
+    [ "PrepareAuraScript", "db/dbd/a27336.html#ab49dc1c178c4089fe8f708da3cd22bf2", null ],
+    [ "Register", "db/dbd/a27336.html#a5c0c53a39fdc770f8c6e9a86cd87c74a", null ]
 ];

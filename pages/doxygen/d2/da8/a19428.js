@@ -1,6 +1,6 @@
 var a19428 =
 [
-    [ "FilterTargets", "d2/da8/a19428.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
-    [ "PrepareSpellScript", "d2/da8/a19428.html#a452937a4e95b40366f915213ec475a84", null ],
-    [ "Register", "d2/da8/a19428.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
+    [ "FilterTargets", "d2/da8/a19428.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
+    [ "PrepareSpellScript", "d2/da8/a19428.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
+    [ "Register", "d2/da8/a19428.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
 ];

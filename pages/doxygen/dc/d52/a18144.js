@@ -1,7 +1,6 @@
 var a18144 =
 [
-    [ "HandleTriggerSpell", "dc/d52/a18144.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "dc/d52/a18144.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "dc/d52/a18144.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "dc/d52/a18144.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "npc_vengeful_shadeAI", "d9/da4/a18148.html", "d9/da4/a18148" ],
+    [ "npc_vengeful_shade", "dc/d52/a18144.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
+    [ "GetAI", "dc/d52/a18144.html#afa2c672015b43d83bd55050ed020f7e5", null ]
 ];

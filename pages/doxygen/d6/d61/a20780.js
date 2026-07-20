@@ -1,6 +1,6 @@
 var a20780 =
 [
-    [ "CheckCast", "d6/d61/a20780.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "d6/d61/a20780.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "d6/d61/a20780.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "HandleScript", "d6/d61/a20780.html#aade3cab1f80d1762bfad48407f4b91cc", null ],
+    [ "PrepareSpellScript", "d6/d61/a20780.html#ab20e548d7c0a837ee4cb7198c09e53ee", null ],
+    [ "Register", "d6/d61/a20780.html#a48a0a37b8e6f799ee9035bb766fd6db2", null ]
 ];

@@ -1,7 +1,5 @@
 var a28200 =
 [
-    [ "npc_sayge", "d5/dad/a28200.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "d5/dad/a28200.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "d5/dad/a28200.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "d5/dad/a28200.html#aed1988335672423d024546654aa95298", null ]
+    [ "item_petrov_cluster_bombs", "d5/dad/a28200.html#a1a76760f7c4617a40d96b9833e7466df", null ],
+    [ "OnUse", "d5/dad/a28200.html#a14e8a00a532b5aebc8469ff538848f53", null ]
 ];

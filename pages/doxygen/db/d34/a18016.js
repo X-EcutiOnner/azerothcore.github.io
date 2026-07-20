@@ -1,6 +1,7 @@
 var a18016 =
 [
-    [ "npc_cult_adherentAI", "de/d41/a18020.html", "de/d41/a18020" ],
-    [ "npc_cult_adherent", "db/d34/a18016.html#a74496518cf30674044a4a8a166e4c345", null ],
-    [ "GetAI", "db/d34/a18016.html#a2bfe464c738c983b9539f9216cabd63a", null ]
+    [ "npc_gunship_rocketeerAI", "db/d34/a18016.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "db/d34/a18016.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "db/d34/a18016.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "db/d34/a18016.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

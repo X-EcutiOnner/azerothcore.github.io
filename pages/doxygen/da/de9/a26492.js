@@ -1,8 +1,7 @@
 var a26492 =
 [
-    [ "CheckProc", "da/de9/a26492.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
-    [ "HandleProc", "da/de9/a26492.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
-    [ "PrepareAuraScript", "da/de9/a26492.html#a876c1bda52c99c52249444414196b1d4", null ],
-    [ "Register", "da/de9/a26492.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
-    [ "Validate", "da/de9/a26492.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
+    [ "PeriodicTick", "da/de9/a26492.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
+    [ "PrepareAuraScript", "da/de9/a26492.html#ad332660b3b30ecb7b5c949c702574879", null ],
+    [ "Register", "da/de9/a26492.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
+    [ "Validate", "da/de9/a26492.html#a426b39c9733464c5d69d707d4e931f64", null ]
 ];

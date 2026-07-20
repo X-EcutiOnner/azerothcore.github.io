@@ -1,6 +1,6 @@
 var a17792 =
 [
-    [ "Cooldown", "dd/dd8/a17792.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
-    [ "Entry", "dd/dd8/a17792.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
-    [ "TargetPosition", "dd/dd8/a17792.html#ac47af49622012b4ad40357cadc5214b3", null ]
+    [ "FilterTargets", "dd/dd8/a17792.html#a59255a2cee0f9d8a75ca183647851779", null ],
+    [ "PrepareSpellScript", "dd/dd8/a17792.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
+    [ "Register", "dd/dd8/a17792.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
 ];

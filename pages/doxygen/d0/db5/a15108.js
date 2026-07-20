@@ -1,6 +1,9 @@
 var a15108 =
 [
-    [ "boss_meathookAI", "d6/d7b/a15112.html", "d6/d7b/a15112" ],
-    [ "boss_meathook", "d0/db5/a15108.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
-    [ "GetAI", "d0/db5/a15108.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
+    [ "npc_ancient_wisp", "d0/db5/a15108.html#a70e45e500b3490a034b058ca2ec16d39", null ],
+    [ "DamageTaken", "d0/db5/a15108.html#ad7d96e6b54cdc23a5101338474125e71", null ],
+    [ "JustEngagedWith", "d0/db5/a15108.html#a755ed852b3149ada65c5750410776fc8", null ],
+    [ "Reset", "d0/db5/a15108.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
+    [ "UpdateAI", "d0/db5/a15108.html#a51ca214de826d7126f32e49f6852bca3", null ],
+    [ "_instance", "d0/db5/a15108.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
 ];

@@ -1,6 +1,6 @@
 var a14564 =
 [
-    [ "HandleEffectApply", "d2/dfb/a14564.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
-    [ "PrepareAuraScript", "d2/dfb/a14564.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
-    [ "Register", "d2/dfb/a14564.html#a2b39daf6fe325cfa909b964da62c2571", null ]
+    [ "OnRemove", "d2/dfb/a14564.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
+    [ "PrepareAuraScript", "d2/dfb/a14564.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
+    [ "Register", "d2/dfb/a14564.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
 ];

@@ -1,12 +1,10 @@
 var a29220 =
 [
-    [ "HealInfoStubBuilder", "d7/dde/a29220.html#a57945de96ad065451cadb47edba287c8", null ],
-    [ "Build", "d7/dde/a29220.html#a291565d223df00ce9d09c0315e803448", null ],
-    [ "WithAbsorb", "d7/dde/a29220.html#aa09160afe48114a7a3566be328f64658", null ],
-    [ "WithEffectiveHeal", "d7/dde/a29220.html#a34a359322b018cffc5f54ca999c11b11", null ],
-    [ "WithHeal", "d7/dde/a29220.html#a812e06b07eeb18c1d379409b77a80b89", null ],
-    [ "WithHitMask", "d7/dde/a29220.html#ab788ddcc209140ed3c10b02785471dcb", null ],
-    [ "WithOverheal", "d7/dde/a29220.html#a89c12c30725eb2bdc3889005a38d54eb", null ],
-    [ "WithSpellInfo", "d7/dde/a29220.html#a4dc784241fbe998437cceb953fb83e1f", null ],
-    [ "_stub", "d7/dde/a29220.html#ad0da544c651e387d8c6e9b272aa3db7b", null ]
+    [ "ID", "d7/dde/a29220.html#a090069d13cbbcc5762ecca600c506492", null ],
+    [ "map_id", "d7/dde/a29220.html#a685931e2a361f9e0fc81c004c7467d19", null ],
+    [ "MountCreatureID", "d7/dde/a29220.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
+    [ "name", "d7/dde/a29220.html#ae00db3ea736c3a470f6f0690c178e758", null ],
+    [ "x", "d7/dde/a29220.html#a7cbd40848094fa367862d653b0f7170d", null ],
+    [ "y", "d7/dde/a29220.html#a9380befd45cab3104003b2487464bd71", null ],
+    [ "z", "d7/dde/a29220.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
 ];

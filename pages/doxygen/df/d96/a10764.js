@@ -1,7 +1,7 @@
 var a10764 =
 [
-    [ "SpellScriptLoader", "df/d96/a10764.html#a0ae97b8f3cf24f46b98a121d35bdeadf", null ],
-    [ "GetAuraScript", "df/d96/a10764.html#a9c60850e39ffe3d151a128b12777859d", null ],
-    [ "GetSpellScript", "df/d96/a10764.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
-    [ "IsDatabaseBound", "df/d96/a10764.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
+    [ "InstanceMapScript", "df/d96/a10764.html#a350d328f82cc5e7ea43f3c8779d25a67", null ],
+    [ "checkValidity", "df/d96/a10764.html#a221dd91e2d2f761e66d990a6cae42306", null ],
+    [ "GetInstanceScript", "df/d96/a10764.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
+    [ "IsDatabaseBound", "df/d96/a10764.html#ab77651bb427813a7e119057c3dc53ca8", null ]
 ];

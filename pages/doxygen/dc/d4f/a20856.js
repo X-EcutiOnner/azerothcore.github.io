@@ -1,18 +1,11 @@
 var a20856 =
 [
-    [ "boss_ingvar_the_plunderer", "dc/d4f/a20856.html#af37159882b0faabe46e6f7c26ea84913", null ],
-    [ "DamageTaken", "dc/d4f/a20856.html#a14ec746bb57e77373e4c3f924dd9f952", null ],
-    [ "EnterEvadeMode", "dc/d4f/a20856.html#a5bd8e575292b487a3381854f5ae87306", null ],
-    [ "FeignDeath", "dc/d4f/a20856.html#afb732c1e7c74e88f63b2c3eee5ba3dd3", null ],
-    [ "JustDied", "dc/d4f/a20856.html#ab3b0ea55dfb6bb90f7d60fec7f2ff8ff", null ],
-    [ "JustEngagedWith", "dc/d4f/a20856.html#aedd8ccb3ab3b89cae9d80443ffa3edaa", null ],
-    [ "JustSummoned", "dc/d4f/a20856.html#a9101d4c988585f221b503971df87621b", null ],
-    [ "KilledUnit", "dc/d4f/a20856.html#ae8d5a148c7089f644db8ee686a04a2a8", null ],
-    [ "Reset", "dc/d4f/a20856.html#a57ecf5f8008714c3f067afe5a2ec2ffe", null ],
-    [ "UpdateAI", "dc/d4f/a20856.html#a59ee4cc1cf9cfe95ac77bdb637d01f71", null ],
-    [ "events", "dc/d4f/a20856.html#ae2155e079dc748bfa1026a05916a8534", null ],
-    [ "pInstance", "dc/d4f/a20856.html#ad4855d14fe94168f454a6b77a1ce5fde", null ],
-    [ "summons", "dc/d4f/a20856.html#a687b5cd37794ff530180f6ba5c208162", null ],
-    [ "ThrowGUID", "dc/d4f/a20856.html#af3b3c0ff36d28a3a7151a27a13879fe2", null ],
-    [ "ValkyrGUID", "dc/d4f/a20856.html#a556e9720346ba84a858170bfd8e9f358", null ]
+    [ "boss_yoggsaron_lich_king", "dc/d4f/a20856.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
+    [ "NextStep", "dc/d4f/a20856.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
+    [ "Reset", "dc/d4f/a20856.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
+    [ "Say", "dc/d4f/a20856.html#ac7687fe1253701c702cf2c17986727ec", null ],
+    [ "UpdateAI", "dc/d4f/a20856.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
+    [ "_checkTimer", "dc/d4f/a20856.html#a196ffc443569494bed79f623dd9cdca3", null ],
+    [ "_running", "dc/d4f/a20856.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
+    [ "_step", "dc/d4f/a20856.html#a97244534b8c6a69807388b620df2263f", null ]
 ];

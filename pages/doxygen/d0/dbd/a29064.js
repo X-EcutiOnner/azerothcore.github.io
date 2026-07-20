@@ -1,8 +1,7 @@
 var a29064 =
 [
-    [ "TimeSeg", "d0/dbd/a29064.html#ab94639ba8e26b215ebd31163967574d3", null ],
-    [ "TransportEntry", "d0/dbd/a29064.html#a859d25b3c11839ad7e37facd40dc79df", null ],
-    [ "X", "d0/dbd/a29064.html#a8fbd166503396e33a4ad77448bf307ea", null ],
-    [ "Y", "d0/dbd/a29064.html#a67c279b26cebd8e5c81c36576b145af6", null ],
-    [ "Z", "d0/dbd/a29064.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
+    [ "Id", "d0/dbd/a29064.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
+    [ "SoundBank", "d0/dbd/a29064.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
+    [ "SpellId", "d0/dbd/a29064.html#aa010947f5fbec6867b005b25728e720b", null ],
+    [ "Type", "d0/dbd/a29064.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
 ];

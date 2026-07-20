@@ -1,17 +1,12 @@
 var a10692 =
 [
-    [ "GameObjectScript", "d9/dc6/a10692.html#a9d9cf73435a16d7fef450134c03980bb", null ],
-    [ "GetAI", "d9/dc6/a10692.html#a05492473fa28c0f7c80770aa3445ce4e", null ],
-    [ "GetDialogStatus", "d9/dc6/a10692.html#ac526fbe66b9b1e9edca51f9fd20a40b9", null ],
-    [ "IsDatabaseBound", "d9/dc6/a10692.html#a020e07dfd6e99b55bf5c8e56cfdd3948", null ],
-    [ "OnDamaged", "d9/dc6/a10692.html#a2fb7d0f8f01ce083643bc0cb810fc612", null ],
-    [ "OnDestroyed", "d9/dc6/a10692.html#a042676e98453494ab49bb90216755052", null ],
-    [ "OnGameObjectStateChanged", "d9/dc6/a10692.html#a4992d88f026bf906852f085db4e8768e", null ],
-    [ "OnGossipHello", "d9/dc6/a10692.html#a58b56fc92ae87aea0530eceba1f3088d", null ],
-    [ "OnGossipSelect", "d9/dc6/a10692.html#a612884c70eed9c56958ab49dc1e2bb1f", null ],
-    [ "OnGossipSelectCode", "d9/dc6/a10692.html#ac9c9feb4d08ea0e5ad202ada205a9772", null ],
-    [ "OnLootStateChanged", "d9/dc6/a10692.html#ab93c178f2137e92da28665d28bfec1d5", null ],
-    [ "OnModifyHealth", "d9/dc6/a10692.html#a1ff457beae2b6249a9d3ecd08fd1b5a4", null ],
-    [ "OnQuestAccept", "d9/dc6/a10692.html#afd22217feca39340d68b9c7fd6c1caa8", null ],
-    [ "OnQuestReward", "d9/dc6/a10692.html#a233712ff412081583a8295cf512da48d", null ]
+    [ "BattlefieldScript", "d9/dc6/a10692.html#a5d852a5ae3f62631280ca9f4b97b1734", null ],
+    [ "IsDatabaseBound", "d9/dc6/a10692.html#a3d02622460b0fcc0ae0d5d559fe5f436", null ],
+    [ "OnBattlefieldBeforeInvitePlayerToWar", "d9/dc6/a10692.html#ac0c199050fba1f6e991783bd2d2efdc2", null ],
+    [ "OnBattlefieldPlayerEnterZone", "d9/dc6/a10692.html#adf7c217eadc6106b1ce3c353a411edf8", null ],
+    [ "OnBattlefieldPlayerJoinWar", "d9/dc6/a10692.html#a2f2a9de94a8e8f60d04e956b4479cf16", null ],
+    [ "OnBattlefieldPlayerKill", "d9/dc6/a10692.html#a835001d04260cafe35021108e2ede851", null ],
+    [ "OnBattlefieldPlayerLeaveWar", "d9/dc6/a10692.html#a3e88ff9ad3772d558ab72123127a550e", null ],
+    [ "OnBattlefieldPlayerLeaveZone", "d9/dc6/a10692.html#a3b274755aaded2d99bcf5e12a2f2de4c", null ],
+    [ "OnBattlefieldWarEnd", "d9/dc6/a10692.html#ab4ed21627320723b18a09dbc4c7f6baa", null ]
 ];

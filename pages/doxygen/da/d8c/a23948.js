@@ -1,6 +1,6 @@
 var a23948 =
 [
-    [ "PrepareSpellScript", "da/d8c/a23948.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
-    [ "Register", "da/d8c/a23948.html#ac57aee08a131bcf7db11bc105f32242c", null ],
-    [ "SetDest", "da/d8c/a23948.html#a26362c4873890bb60c2526bf07058746", null ]
+    [ "npc_commander_dawnforgeAI", "d0/d9c/a23952.html", "d0/d9c/a23952" ],
+    [ "npc_commander_dawnforge", "da/d8c/a23948.html#ab4d430725f68f906e9c8def66b1d6646", null ],
+    [ "GetAI", "da/d8c/a23948.html#a6089b087b7c3b18659e23c677814318b", null ]
 ];

@@ -1,7 +1,8 @@
 var a06468 =
 [
-    [ "SpellTargetSelector", "dd/dad/a06468.html#a9f1f441e542500dc43c58b97729f7f51", null ],
-    [ "operator()", "dd/dad/a06468.html#a53c27c23f2d9846903e1ff9b479a36b1", null ],
-    [ "_caster", "dd/dad/a06468.html#ac5b0844c975a6b3ff3c14a843fd28fba", null ],
-    [ "_spellInfo", "dd/dad/a06468.html#a309ed04630cfb92810b7f51376b3917c", null ]
+    [ "GuardAI", "dd/dad/a06468.html#ac1f0ba47d8e32c65845808170330b7af", null ],
+    [ "EnterEvadeMode", "dd/dad/a06468.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
+    [ "JustDied", "dd/dad/a06468.html#a96820cdcb632d3a71f9deacf4998a774", null ],
+    [ "Permissible", "dd/dad/a06468.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
+    [ "Reset", "dd/dad/a06468.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
 ];

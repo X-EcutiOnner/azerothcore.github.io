@@ -1,6 +1,7 @@
 var a26416 =
 [
-    [ "CheckCast", "de/dc4/a26416.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "de/dc4/a26416.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "de/dc4/a26416.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "HandleProc", "de/dc4/a26416.html#a8ef5ced5c1078116dd4b4a1015798ccf", null ],
+    [ "PrepareAuraScript", "de/dc4/a26416.html#a4dccd6d5422fa64a52103dad76c99b6b", null ],
+    [ "Register", "de/dc4/a26416.html#a208025fdf008145564719bd3a0c35097", null ],
+    [ "Validate", "de/dc4/a26416.html#a8bf0bbc831bbd6c476fc8f018402ec3c", null ]
 ];

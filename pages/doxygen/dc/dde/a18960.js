@@ -1,8 +1,5 @@
 var a18960 =
 [
-    [ "npc_arthas_teleport_visualAI", "dc/dde/a18960.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "dc/dde/a18960.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "dc/dde/a18960.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "dc/dde/a18960.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "dc/dde/a18960.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "achievement_portal_jockey", "dc/dde/a18960.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
+    [ "OnCheck", "dc/dde/a18960.html#a2695b1fee353be7340f319c632a43efc", null ]
 ];

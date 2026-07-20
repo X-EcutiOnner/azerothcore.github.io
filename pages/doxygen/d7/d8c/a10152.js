@@ -1,7 +1,10 @@
 var a10152 =
 [
-    [ "ownerGUID", "d7/d8c/a10152.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
-    [ "script", "d7/d8c/a10152.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
-    [ "sourceGUID", "d7/d8c/a10152.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
-    [ "targetGUID", "d7/d8c/a10152.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
+    [ "DoublePosition", "df/d4c/a10156.html", "df/d4c/a10156" ],
+    [ "~AreaBoundary", "d7/d8c/a10152.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "d7/d8c/a10152.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "d7/d8c/a10152.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "d7/d8c/a10152.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "d7/d8c/a10152.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "d7/d8c/a10152.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

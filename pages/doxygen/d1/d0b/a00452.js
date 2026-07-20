@@ -1,21 +1,21 @@
 var a00452 =
 [
-    [ "npc_partygoer_pather", "dc/da3/a14041.html", "dc/da3/a14041" ],
-    [ "npc_partygoer", "db/da7/a14045.html", "db/da7/a14045" ],
-    [ "npc_lor_themar_theron", "d3/d05/a14049.html", "d3/d05/a14049" ],
-    [ "Partygoer", "d1/d0b/a00452.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
-      [ "EVENT_RANDOM_ACTION", "d1/d0b/a00452.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
-      [ "EVENT_REMOVE_EQUIPMENT", "d1/d0b/a00452.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],
-      [ "EVENT_STOP_DANCING", "d1/d0b/a00452.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacaad2f31616c81d6fa79aaad83b2fba4", null ],
-      [ "EVENT_THROW_FIREWORKS", "d1/d0b/a00452.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51", null ],
-      [ "EVENT_RESET_FACING", "d1/d0b/a00452.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9", null ],
-      [ "GO_FIREWORKS_LAUNCHER", "d1/d0b/a00452.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081", null ]
+    [ "TSpellSummary", "de/d24/a06568.html", "de/d24/a06568" ],
+    [ "eNPCs", "d1/d0b/a00452.html#abaecf87f40b40c4c71ec596a0b73e911", [
+      [ "NPC_BROODLORD", "d1/d0b/a00452.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],
+      [ "NPC_JAN_ALAI", "d1/d0b/a00452.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],
+      [ "NPC_SARTHARION", "d1/d0b/a00452.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10", null ],
+      [ "NPC_FREYA", "d1/d0b/a00452.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752", null ],
+      [ "NPC_INGVAR_UNDEAD", "dc/da7/a03404.html#abaecf87f40b40c4c71ec596a0b73e911ac5f7785a73b2ea4946e698f73996e906", null ],
+      [ "NPC_ANNHYLDE", "dc/da7/a03404.html#abaecf87f40b40c4c71ec596a0b73e911a244024200627132843a0b95f2fdefcb4", null ],
+      [ "NPC_THROW", "dc/da7/a03404.html#abaecf87f40b40c4c71ec596a0b73e911a5c7c851e12a8c23ef9569157753a2546", null ],
+      [ "NPC_FROST_TOMB", "d1/d35/a03398.html#abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76", null ],
+      [ "NPC_SKELETON", "d1/d35/a03398.html#abaecf87f40b40c4c71ec596a0b73e911ae6d4da6ba356104e95b11d5cd561d0f3", null ]
     ] ],
-    [ "Partygoer_Pather", "d1/d0b/a00452.html#a3222d14ce03d75912e65560ebf2a961b", [
-      [ "EVENT_PATH", "d1/d0b/a00452.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea", null ],
-      [ "EVENT_RANDOM_ACTION_PATHER", "d1/d0b/a00452.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b", null ],
-      [ "EVENT_REMOVE_EQUIPMENT_PATHER", "d1/d0b/a00452.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f", null ],
-      [ "EVENT_STOP_DANCING_PATHER", "d1/d0b/a00452.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292", null ]
-    ] ],
-    [ "AddSC_eversong_woods", "d1/d0b/a00452.html#a78299b9cdd3e783b3f231a9dda40a7b4", null ]
+    [ "GetClosestCreatureWithEntry", "d1/d0b/a00452.html#a136c0c059281a05f9cb91237ce55be7b", null ],
+    [ "GetClosestGameObjectWithEntry", "d1/d0b/a00452.html#a80b13d7c0fa3b835b0834955ed0f93d8", null ],
+    [ "GetCreatureListWithEntryInGrid", "d1/d0b/a00452.html#ab6a8246d473139627106be4651f6329d", null ],
+    [ "GetDeadCreatureListInGrid", "d1/d0b/a00452.html#a2e3edf6fd8a6865d815af4f8acb184af", null ],
+    [ "GetGameObjectListWithEntryInGrid", "d1/d0b/a00452.html#ae9abb80c4e811509bca88e65cf817276", null ],
+    [ "SpellSummary", "d1/d0b/a00452.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
 ];

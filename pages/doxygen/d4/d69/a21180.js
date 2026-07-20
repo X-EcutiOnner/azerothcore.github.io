@@ -1,19 +1,13 @@
 var a21180 =
 [
-    [ "violet_hold_trashAI", "d4/d69/a21180.html#a87011739810f39291655bc835f9995bd", null ],
-    [ "AttackStart", "d4/d69/a21180.html#ab2d2157977ae2482217fa8ac344b30af", null ],
-    [ "ClearDoorSealAura", "d4/d69/a21180.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
-    [ "CreatureStartAttackDoor", "d4/d69/a21180.html#a1e64a9f7c82275969e099b5012a32924", null ],
-    [ "EnterEvadeMode", "d4/d69/a21180.html#ab189607a468514d6c472ac40e6f3d85b", null ],
-    [ "JustDied", "d4/d69/a21180.html#acd512cd3722a2edf0ca539272ded3c79", null ],
-    [ "JustEngagedWith", "d4/d69/a21180.html#a16e7677aa9597dda938a67c51febde6c", null ],
-    [ "JustReachedHome", "d4/d69/a21180.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
-    [ "MoveInLineOfSight", "d4/d69/a21180.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
-    [ "UpdateAI", "d4/d69/a21180.html#a8647797343650fcd4f6304bce3742883", null ],
-    [ "WaypointReached", "d4/d69/a21180.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
-    [ "WaypointReached", "d4/d69/a21180.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "AddedWaypoints", "d4/d69/a21180.html#a726bade10ce5bc233864240fafa65fc1", null ],
-    [ "Instance", "d4/d69/a21180.html#a9ebdc7d8619de49dcd742a1c08005770", null ],
-    [ "PortalLoc", "d4/d69/a21180.html#a17d81d130cfeff5b5ae0ee30c594f5ca", null ],
-    [ "UseAlternate", "d4/d69/a21180.html#aa584f9f52bfc3e37a6d3a80958e51e48", null ]
+    [ "MoveX", "d4/d69/a21180.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
+    [ "MoveY", "d4/d69/a21180.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
+    [ "MoveZ", "d4/d69/a21180.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
+    [ "npc", "d4/d69/a21180.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
+    [ "say", "d4/d69/a21180.html#adcd8647fc0ee9799e24173780209f2d9", null ],
+    [ "SpawnO", "d4/d69/a21180.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
+    [ "SpawnX", "d4/d69/a21180.html#af3ae27adaecafe9a09802bc202973d68", null ],
+    [ "SpawnY", "d4/d69/a21180.html#a749e9c6edcc87f258f250344d652145c", null ],
+    [ "SpawnZ", "d4/d69/a21180.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
+    [ "trigger", "d4/d69/a21180.html#ad2291d89a874c79859b3140754594ed7", null ]
 ];

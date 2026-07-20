@@ -1,17 +1,15 @@
 var a15668 =
 [
-    [ "npc_muglashAI", "d7/d78/a15668.html#af1988703aaaac04e5853c33e5b915ca2", null ],
-    [ "DoAction", "d7/d78/a15668.html#afba6c4441ff4da54f89709b3c2bcd4d4", null ],
-    [ "DoWaveSummon", "d7/d78/a15668.html#aaf862468f5ba0c6f99056a81a472c6e2", null ],
-    [ "JustDied", "d7/d78/a15668.html#a5936dd183091c462e4835a00f81020f5", null ],
-    [ "JustEngagedWith", "d7/d78/a15668.html#a587c8cb4562e93cecccb20e93cabba05", null ],
-    [ "JustSummoned", "d7/d78/a15668.html#a07e451149dbf6b72e01f94dc8f07edf3", null ],
-    [ "Reset", "d7/d78/a15668.html#a98933c32f2550989356b3e876d302b88", null ],
-    [ "sQuestAccept", "d7/d78/a15668.html#a6c93a53a7b8bcd200ebca0e9d366f6fe", null ],
-    [ "UpdateAI", "d7/d78/a15668.html#a6b479f50428536997faef96e510dbd84", null ],
-    [ "WaypointReached", "d7/d78/a15668.html#a8f91b74c0d8778a73e0bc95dce339f2b", null ],
-    [ "WaypointReached", "d7/d78/a15668.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_isBrazierExtinguished", "d7/d78/a15668.html#aeec098d6a65b6852598a4e4b6888a410", null ],
-    [ "eventTimer", "d7/d78/a15668.html#a548e142bb509b4606b6fcf98d926cd44", null ],
-    [ "waveId", "d7/d78/a15668.html#a06c0af398e53b5ea6bfd6fa80256f845", null ]
+    [ "boss_skeram", "d7/d78/a15668.html#a293710a88c91a181ee1000939386e176", null ],
+    [ "DoTeleport", "d7/d78/a15668.html#a96166ddebd5906868b872c39a6755a70", null ],
+    [ "EnterEvadeMode", "d7/d78/a15668.html#ab050e31d661c8c089d175de231b0eeb2", null ],
+    [ "JustDied", "d7/d78/a15668.html#a6b30a6ca5167aae41ad70bd502265d2b", null ],
+    [ "JustEngagedWith", "d7/d78/a15668.html#a07bba9a1a62ad9ad15b9cd42b5d5b3d3", null ],
+    [ "JustSummoned", "d7/d78/a15668.html#a3e3d74bc646a96e20a88d3541f806c62", null ],
+    [ "KilledUnit", "d7/d78/a15668.html#a185cb6686d37e064278260ebe5fae13a", null ],
+    [ "Reset", "d7/d78/a15668.html#a08c9c2c577ef4b713594ca67f4c87a68", null ],
+    [ "UpdateAI", "d7/d78/a15668.html#aaf29331e0fac71479747d62fd9f1e301", null ],
+    [ "_copiesGUIDs", "d7/d78/a15668.html#a28f1465938dc2141779d5171ea09ecd0", null ],
+    [ "_flag", "d7/d78/a15668.html#a0abcf1e8721aa972be70774d5be7b53b", null ],
+    [ "_hpct", "d7/d78/a15668.html#a5c8760788264a9a04a28c05a0247676c", null ]
 ];

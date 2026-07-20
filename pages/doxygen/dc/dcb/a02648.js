@@ -1,21 +1,33 @@
 var a02648 =
 [
-    [ "CleaningFlags", "dc/dcb/a02648.html#ad8ba5c50a4cd2d5193e35ccc83798c67", [
-      [ "CLEANING_FLAG_ACHIEVEMENT_PROGRESS", "dc/dcb/a02648.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748", null ],
-      [ "CLEANING_FLAG_SKILLS", "dc/dcb/a02648.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714", null ],
-      [ "CLEANING_FLAG_SPELLS", "dc/dcb/a02648.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564", null ],
-      [ "CLEANING_FLAG_TALENTS", "dc/dcb/a02648.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550", null ],
-      [ "CLEANING_FLAG_QUESTSTATUS", "dc/dcb/a02648.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
+    [ "npc_belnistrasz", "db/d9f/a15420.html", "db/d9f/a15420" ],
+    [ "npc_belnistrasz::npc_belnistraszAI", "d9/da7/a15424.html", "d9/da7/a15424" ],
+    [ "npc_idol_room_spawner", "d5/dd1/a15428.html", "d5/dd1/a15428" ],
+    [ "npc_idol_room_spawner::npc_idol_room_spawnerAI", "d6/d10/a15432.html", "d6/d10/a15432" ],
+    [ "Belnistrasz", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afba", [
+      [ "EVENT_CHANNEL", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaa328cf2425c283ee53d5cb9d660a11034", null ],
+      [ "EVENT_IDOL_ROOM_SPAWNER", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaa1a8dd12063e47b2533422a696ec5fe63", null ],
+      [ "EVENT_PROGRESS", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaa9edbfcbbe26666eab8693f9b070f1635", null ],
+      [ "EVENT_COMPLETE", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaa277c4ceb154c858f20df1a3b2b9f23c0", null ],
+      [ "EVENT_FIREBALL", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaa2f41794aafc9d878c1d2e3aa735cbf44", null ],
+      [ "EVENT_FROST_NOVA", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaabdc6cc62f4c38145542e5be0485df2fc", null ],
+      [ "PATH_ESCORT", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaaad37e5267c61b3154576082cc5f0d943", null ],
+      [ "POINT_REACH_IDOL", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaac918f6177e0a19d346c351646dc8e53a", null ],
+      [ "QUEST_EXTINGUISHING_THE_IDOL", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaab86f59506288a17715a05dc6c3cc9c5e", null ],
+      [ "SAY_QUEST_ACCEPTED", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaaae4435ce02d8a471af2a02586524d6f5", null ],
+      [ "SAY_EVENT_START", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaa5b99398ffec3de91807ff5682f0a7478", null ],
+      [ "SAY_EVENT_THREE_MIN_LEFT", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaa1c27a8e990dc6e00c87e33609397f44a", null ],
+      [ "SAY_EVENT_TWO_MIN_LEFT", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaa083570db82270d8a62a772524057254f", null ],
+      [ "SAY_EVENT_ONE_MIN_LEFT", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaab32dce7b44868931f08d3604a802dd44", null ],
+      [ "SAY_EVENT_END", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaa5f86762aa27777e2322b2e11a3120364", null ],
+      [ "SAY_AGGRO", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaa47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_WATCH_OUT", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaaab3d1089e4f3d2693a0a9c5cdc810405", null ],
+      [ "SPELL_ARCANE_INTELLECT", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaa7f0e5071bc08579a814ae1cb62cc37e4", null ],
+      [ "SPELL_FIREBALL", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaa846055c995374082714483a6b39bc963", null ],
+      [ "SPELL_FROST_NOVA", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaab913503b67c5b8f901cfc4f207bcba03", null ],
+      [ "SPELL_IDOL_SHUTDOWN_VISUAL", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaa947ac08dacf61227418026a59dcab75e", null ],
+      [ "SPELL_IDOM_ROOM_CAMERA_SHAKE", "dc/dcb/a02648.html#ab761030cc73179b77506cee80e54afbaa767a89efdf4df9a9978449bdddd9be52", null ]
     ] ],
-    [ "AchievementProgressCheck", "dc/dcb/a02648.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
-    [ "CheckUnique", "dc/dcb/a02648.html#ab98182e5f92f72090600314cc41f0d39", null ],
-    [ "CleanCharacterAchievementProgress", "dc/dcb/a02648.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
-    [ "CleanCharacterQuestStatus", "dc/dcb/a02648.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
-    [ "CleanCharacterSkills", "dc/dcb/a02648.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],
-    [ "CleanCharacterSpell", "dc/dcb/a02648.html#aca5826d283031348e5d6ae6eb75ad605", null ],
-    [ "CleanCharacterTalent", "dc/dcb/a02648.html#a344f61fb209b507b775a0bbfb1315fac", null ],
-    [ "CleanDatabase", "dc/dcb/a02648.html#a357c8a07f912c6efb55a13cc9bc089b9", null ],
-    [ "SkillCheck", "dc/dcb/a02648.html#a0f72cf24646d1ece0eb793890840992d", null ],
-    [ "SpellCheck", "dc/dcb/a02648.html#a02688f57778d28a7bcc4ca6cee2074ad", null ],
-    [ "TalentCheck", "dc/dcb/a02648.html#aac707369555aa95807c11b1578ae80d2", null ]
+    [ "AddSC_razorfen_downs", "dc/dcb/a02648.html#aa1cc9839b8806bd940e01edfee8b8cee", null ],
+    [ "PosSummonSpawner", "dc/dcb/a02648.html#a72b7e5a7b680a19d8c3fe8378e61f1b9", null ]
 ];

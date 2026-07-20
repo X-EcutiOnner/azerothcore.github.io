@@ -1,8 +1,8 @@
 var a16480 =
 [
-    [ "Load", "d8/d4c/a16480.html#a55dc086667f0fe23e513608e951276ed", null ],
-    [ "Phase", "d8/d4c/a16480.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
-    [ "PrepareSpellScript", "d8/d4c/a16480.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
-    [ "Register", "d8/d4c/a16480.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
-    [ "Validate", "d8/d4c/a16480.html#a87192df547adaf3cb060155d9cf4da79", null ]
+    [ "RestoreFight", "d8/d4c/a16480.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "RestoreFight", "d8/d4c/a16480.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "Execute", "d8/d4c/a16480.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "Execute", "d8/d4c/a16480.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "_owner", "d8/d4c/a16480.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
 ];

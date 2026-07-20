@@ -1,12 +1,13 @@
 var a17696 =
 [
-    [ "npc_high_overlord_saurfangAI", "d2/d27/a17696.html#a5c31259d9eb26e09d2b645d826e75328", null ],
-    [ "DoAction", "d2/d27/a17696.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
-    [ "MovementInform", "d2/d27/a17696.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
-    [ "Reset", "d2/d27/a17696.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
-    [ "SpellHit", "d2/d27/a17696.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
-    [ "UpdateAI", "d2/d27/a17696.html#a92124e7490a066bf63836397a3bdc71b", null ],
-    [ "_events", "d2/d27/a17696.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
-    [ "_guardList", "d2/d27/a17696.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
-    [ "_instance", "d2/d27/a17696.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
+    [ "npc_kinetic_bombAI", "d2/d27/a17696.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
+    [ "DoAction", "d2/d27/a17696.html#a52e913b244e58f99745926d021dc0d95", null ],
+    [ "IsSummonedBy", "d2/d27/a17696.html#a03dc3870b23105bb1d0d207adefe2541", null ],
+    [ "Reset", "d2/d27/a17696.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
+    [ "UpdateAI", "d2/d27/a17696.html#a1ce9bf99879796652878990a773e6a2c", null ],
+    [ "_events", "d2/d27/a17696.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
+    [ "_groundZ", "d2/d27/a17696.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
+    [ "_x", "d2/d27/a17696.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
+    [ "_y", "d2/d27/a17696.html#a5d9f4039c87e1e57234af51cd4617022", null ],
+    [ "exploded", "d2/d27/a17696.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
 ];

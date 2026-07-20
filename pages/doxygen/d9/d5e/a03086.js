@@ -1,6 +1,36 @@
 var a03086 =
 [
-    [ "clearAcceptTradeMode", "d9/d5e/a03086.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
-    [ "clearAcceptTradeMode", "d9/d5e/a03086.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
-    [ "setAcceptTradeMode", "d9/d5e/a03086.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
+    [ "boss_high_king_maulgar", "df/d90/a23344.html", "df/d90/a23344" ],
+    [ "boss_olm_the_summoner", "d7/d57/a23348.html", "d7/d57/a23348" ],
+    [ "boss_kiggler_the_crazed", "d7/d93/a23352.html", "d7/d93/a23352" ],
+    [ "boss_blindeye_the_seer", "d8/de0/a23356.html", "d8/de0/a23356" ],
+    [ "boss_krosh_firehand", "d0/df0/a23360.html", "d0/df0/a23360" ],
+    [ "HighKingMaulgar", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00", [
+      [ "SAY_AGGRO", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_ENRAGE", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00ac90d9311ef3cf3f33564ce22ff904f54", null ],
+      [ "SAY_OGRE_DEATH", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a95b1d5ce0a72c3cd74ad2936384e0327", null ],
+      [ "SAY_SLAY", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a9e64f6e600dd42567d18006912811f75", null ],
+      [ "SAY_DEATH", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a04c962d9b6aaafde54ff92a54369135e", null ],
+      [ "SPELL_ARCING_SMASH", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00abfd4b3a49fefdc02e654db0e63326f1e", null ],
+      [ "SPELL_MIGHTY_BLOW", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00ae9c68ac99f2257b412925e1b55e98716", null ],
+      [ "SPELL_WHIRLWIND", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00aed3f27157e41ec7644a53b6f9a827801", null ],
+      [ "SPELL_BERSERKER_C", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a3310668bd975bc2e17281127230ab8c4", null ],
+      [ "SPELL_ROAR", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a2850de7b373712096ae835fe75a3632f", null ],
+      [ "SPELL_FLURRY", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a98984f299eb2988a14d18b17e10cae58", null ],
+      [ "SPELL_DARK_DECAY", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00af01fc976fe7d4ab3beae4c372bc5920c", null ],
+      [ "SPELL_DEATH_COIL", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a196972e452f4cb5df032e5119d25f163", null ],
+      [ "SPELL_SUMMON_WFH", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a2e3a5283de8e1145f42de375883b6112", null ],
+      [ "SPELL_GREATER_POLYMORPH", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a1dd7faa947ee359df60cc4dfc87aa9df", null ],
+      [ "SPELL_LIGHTNING_BOLT", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a920803a7ad734282762d93767b701526", null ],
+      [ "SPELL_ARCANE_SHOCK", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a70217cff0adeb1a0499b1651a82f03ef", null ],
+      [ "SPELL_ARCANE_EXPLOSION", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a6cef4c5e88133771f6b27aec8b8cfdce", null ],
+      [ "SPELL_GREATER_PW_SHIELD", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a55ae8f41cbf9520dcf85fbec5a89d7d0", null ],
+      [ "SPELL_HEAL", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a69fcca2d13e03c684fa0459f960ef9a7", null ],
+      [ "SPELL_PRAYER_OH", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a60e7f4938fc88cf1649f00a81e4ea95b", null ],
+      [ "SPELL_GREATER_FIREBALL", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00ab7f9ec669b70354ccaba25559dda41d7", null ],
+      [ "SPELL_SPELLSHIELD", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a37fcb71489a9591a31c6f74520ed175e", null ],
+      [ "SPELL_BLAST_WAVE", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a70309c041527816c73053b7d9b387f88", null ],
+      [ "ACTION_ADD_DEATH", "d9/d5e/a03086.html#a79b8e9b872a1c2b80ceefb2d55901a00a37c2463b1e6a48c0812bd3a0df718ffd", null ]
+    ] ],
+    [ "AddSC_boss_high_king_maulgar", "d9/d5e/a03086.html#a834deb3700299f1a26f70d1db3e7c804", null ]
 ];

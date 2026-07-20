@@ -1,6 +1,6 @@
 var a27924 =
 [
-    [ "go_fel_crystalforge", "d0/def/a27924.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "d0/def/a27924.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "d0/def/a27924.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "boss_lethonAI", "d3/df4/a27928.html", "d3/df4/a27928" ],
+    [ "boss_lethon", "d0/def/a27924.html#a5d758979b061646830373de64b2b3af4", null ],
+    [ "GetAI", "d0/def/a27924.html#a493baf37aac400635dd0409e79375a1c", null ]
 ];

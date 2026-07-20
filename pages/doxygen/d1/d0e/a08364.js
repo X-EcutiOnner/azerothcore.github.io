@@ -1,19 +1,9 @@
 var a08364 =
 [
-    [ "GenerateArmor", "d1/d0e/a08364.html#ad197fff9ab9cd6b45ca703d656d1d930", null ],
-    [ "GenerateBaseDamage", "d1/d0e/a08364.html#aa11e229aed1ba159219e6d1a291b1c80", null ],
-    [ "GenerateHealth", "d1/d0e/a08364.html#ac8ec122f7d16f89b50301a636ebade6e", null ],
-    [ "GenerateMana", "d1/d0e/a08364.html#aa6f523ebb8ef75db99db555547fd55d7", null ],
-    [ "GetBaseStats", "d1/d0e/a08364.html#a72249bb49bbcf08708bd30fc61e2cdea", null ],
-    [ "Agility", "d1/d0e/a08364.html#a22c916bab3e2833ffbb643cae7f36edd", null ],
-    [ "AttackPower", "d1/d0e/a08364.html#a8108d924e4de3ba741749e9386085e4f", null ],
-    [ "BaseArmor", "d1/d0e/a08364.html#a9fed8e3227aa2ad7b40579b0be615030", null ],
-    [ "BaseDamage", "d1/d0e/a08364.html#a40f54b64689ca8c3d2b0de81384dbea9", null ],
-    [ "BaseHealth", "d1/d0e/a08364.html#a83cee007ec623b19bb2b002d16180d2d", null ],
-    [ "BaseMana", "d1/d0e/a08364.html#a204af635372cb4a2c6ede1f79579385c", null ],
-    [ "Intellect", "d1/d0e/a08364.html#adb28470cabe897215c3888e72d238ddf", null ],
-    [ "RangedAttackPower", "d1/d0e/a08364.html#a684901a59108e94987c23ad5085e306a", null ],
-    [ "Spirit", "d1/d0e/a08364.html#ac77b82c063048b596f9ed3c74aeea63c", null ],
-    [ "Stamina", "d1/d0e/a08364.html#ac8c2f3b237e17577b416b9b83abe1306", null ],
-    [ "Strength", "d1/d0e/a08364.html#a9af752cb9fe9fbb64845cb7644e9b212", null ]
+    [ "LFGPlayerScript", "d1/d0e/a08364.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
+    [ "OnPlayerBindToInstance", "d1/d0e/a08364.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
+    [ "OnPlayerLevelChanged", "d1/d0e/a08364.html#afd530a2823a7187b49645c9d0625c8ba", null ],
+    [ "OnPlayerLogin", "d1/d0e/a08364.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
+    [ "OnPlayerLogout", "d1/d0e/a08364.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
+    [ "OnPlayerMapChanged", "d1/d0e/a08364.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
 ];

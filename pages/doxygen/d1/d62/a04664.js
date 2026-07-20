@@ -1,5 +1,4 @@
 var a04664 =
 [
-    [ "EventMap", "d6/d64/a05779.html", "d6/d64/a05779" ],
-    [ "EventMap::Event", "d6/d37/a05783.html", "d6/d37/a05783" ]
+    [ "Acore::String::Trim< std::string >", "d1/d62/a04664.html#a39e286b6ca47198eba4d5e31cef66aa5", null ]
 ];

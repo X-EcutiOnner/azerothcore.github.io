@@ -1,6 +1,6 @@
 var a21100 =
 [
-    [ "npc_frozen_orbAI", "d3/dea/a21104.html", "d3/dea/a21104" ],
-    [ "npc_frozen_orb", "d6/d6d/a21100.html#ac14966722e39b2b6b3a907756701ed98", null ],
-    [ "GetAI", "d6/d6d/a21100.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
+    [ "npc_frenzied_worgenAI", "d3/dea/a21104.html", "d3/dea/a21104" ],
+    [ "npc_frenzied_worgen", "d6/d6d/a21100.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
+    [ "GetAI", "d6/d6d/a21100.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
 ];

@@ -1,9 +1,8 @@
 var a24664 =
 [
-    [ "PrepareAuraScript", "dc/d39/a24664.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
-    [ "Register", "dc/d39/a24664.html#a04efbc64bfa0312bc1f372e403803c32", null ],
-    [ "Update", "dc/d39/a24664.html#aa463442b994b6275b2e12fe06ae7805c", null ],
-    [ "amplitude", "dc/d39/a24664.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
-    [ "amplitude", "dc/d39/a24664.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
-    [ "isPeriodic", "dc/d39/a24664.html#a0732bf60822bbb547be014566d0e092c", null ]
+    [ "AfterApply", "dc/d39/a24664.html#a4d2941ebb326d603ac08f428f811c29b", null ],
+    [ "AfterRemove", "dc/d39/a24664.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
+    [ "PrepareAuraScript", "dc/d39/a24664.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
+    [ "Register", "dc/d39/a24664.html#a78e30a950b9fc08dff5072028816b8b4", null ],
+    [ "Validate", "dc/d39/a24664.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
 ];

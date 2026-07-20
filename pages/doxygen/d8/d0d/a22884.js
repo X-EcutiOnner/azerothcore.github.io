@@ -1,7 +1,6 @@
 var a22884 =
 [
-    [ "HandleEffectApply", "d8/d0d/a22884.html#a3893fffea480b47d06c4903deb051aa9", null ],
-    [ "HandleEffectRemove", "d8/d0d/a22884.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
-    [ "PrepareAuraScript", "d8/d0d/a22884.html#a246c20ab26d1490fe38afd558a7ae406", null ],
-    [ "Register", "d8/d0d/a22884.html#aea639a3ae0f003c6213143427f3b1d23", null ]
+    [ "instance_black_temple_InstanceMapScript", "dd/d3f/a22888.html", "dd/d3f/a22888" ],
+    [ "instance_black_temple", "d8/d0d/a22884.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "d8/d0d/a22884.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

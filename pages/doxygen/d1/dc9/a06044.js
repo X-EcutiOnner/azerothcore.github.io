@@ -1,8 +1,6 @@
 var a06044 =
 [
-    [ "Statements", "d1/dc9/a06044.html#a6dc31cb64a22e90cc5275bf6fcaaf000", null ],
-    [ "LoginDatabaseConnection", "d1/dc9/a06044.html#aed22866380f9331ff73d4437a779206c", null ],
-    [ "LoginDatabaseConnection", "d1/dc9/a06044.html#a27fa1397706cf8b986fe0a05a82a910b", null ],
-    [ "~LoginDatabaseConnection", "d1/dc9/a06044.html#a7514a6e42889d5d75dcce2e804fff7b8", null ],
-    [ "DoPrepareStatements", "d1/dc9/a06044.html#a3f826d59e4efa55d7825f90f434ae889", null ]
+    [ "PreparedStatement", "d1/dc9/a06044.html#a4f689d37a5d174ade76e590379edc46a", null ],
+    [ "PreparedStatement", "d1/dc9/a06044.html#a8b0dccfd3e274bf55d8b161b1390b0d9", null ],
+    [ "operator=", "d1/dc9/a06044.html#a9ed475a188f208344cffd74058b749e2", null ]
 ];

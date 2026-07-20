@@ -1,6 +1,8 @@
 var a21828 =
 [
-    [ "npc_blessed_bannerAI", "d4/db8/a21832.html", "d4/db8/a21832" ],
-    [ "npc_blessed_banner", "d3/d09/a21828.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "d3/d09/a21828.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "HandleEffectApply", "d3/d09/a21828.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "d3/d09/a21828.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "d3/d09/a21828.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "d3/d09/a21828.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "d3/d09/a21828.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

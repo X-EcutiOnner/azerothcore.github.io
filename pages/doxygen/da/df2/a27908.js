@@ -1,5 +1,6 @@
 var a27908 =
 [
-    [ "go_sacred_fire_of_life", "da/df2/a27908.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "da/df2/a27908.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "npc_dream_fogAI", "de/d3a/a27912.html", "de/d3a/a27912" ],
+    [ "npc_dream_fog", "da/df2/a27908.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "da/df2/a27908.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

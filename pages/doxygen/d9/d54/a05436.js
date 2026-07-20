@@ -1,11 +1,7 @@
 var a05436 =
 [
-    [ "AuthCrypt", "d9/d54/a05436.html#a8c5239631bd6cf700059af31f04126a3", null ],
-    [ "DecryptRecv", "d9/d54/a05436.html#a552bd409afb5fcda8a11627ccb20e4b0", null ],
-    [ "EncryptSend", "d9/d54/a05436.html#a385fe62742cdbbf62725ace616a06b37", null ],
-    [ "Init", "d9/d54/a05436.html#ac76e9a59dc6bcef074e3213cecb4c7b8", null ],
-    [ "IsInitialized", "d9/d54/a05436.html#a911330ec40c0ca881af2f0c6fd6b0fef", null ],
-    [ "_clientDecrypt", "d9/d54/a05436.html#ae67fcb84288ebd120ad71bedc52086c2", null ],
-    [ "_initialized", "d9/d54/a05436.html#a99de2f8dd625cef94d70eeddefc9ac5c", null ],
-    [ "_serverEncrypt", "d9/d54/a05436.html#af30b0691f7089d52c2fbd9c5b9f52e68", null ]
+    [ "operator()", "d9/d54/a05436.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
+    [ "closestEntity", "d9/d54/a05436.html#ab377424b7edd0274f61967619700f841", null ],
+    [ "hitLocation", "d9/d54/a05436.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
+    [ "hitNormal", "d9/d54/a05436.html#a57f40f48c26829f7da9e48efd839d773", null ]
 ];

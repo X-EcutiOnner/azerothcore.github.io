@@ -1,7 +1,5 @@
 var a11752 =
 [
-    [ "SpellImmune", "d7/d74/a11752.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "d7/d74/a11752.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "d7/d74/a11752.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "d7/d74/a11752.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "SocketAdded", "d7/d74/a11752.html#a01090d6713f49dc026f77f8481b492cb", null ],
+    [ "SocketRemoved", "d7/d74/a11752.html#a4a978f9304e4aeabfb9ce1998b8a27cc", null ]
 ];

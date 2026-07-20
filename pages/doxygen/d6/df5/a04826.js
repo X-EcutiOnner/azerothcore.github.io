@@ -1,4 +1,4 @@
 var a04826 =
 [
-    [ "Acore::Crypto::ARC4", "df/d7d/a05461.html", "df/d7d/a05461" ]
+    [ "BigNumber", "db/da4/a05488.html", "db/da4/a05488" ]
 ];

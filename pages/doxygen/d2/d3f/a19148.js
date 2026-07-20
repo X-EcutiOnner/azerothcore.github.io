@@ -1,6 +1,7 @@
 var a19148 =
 [
-    [ "icecrown_citadel_teleport", "d2/d3f/a19148.html#ab74d5962073dcf3b4488c33aaa935377", null ],
-    [ "OnGossipHello", "d2/d3f/a19148.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
-    [ "OnGossipSelect", "d2/d3f/a19148.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
+    [ "HandleDummyLaunch", "d2/d3f/a19148.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
+    [ "PrepareSpellScript", "d2/d3f/a19148.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
+    [ "Register", "d2/d3f/a19148.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
+    [ "Validate", "d2/d3f/a19148.html#a577166695c1479e3730a70637bc18cf1", null ]
 ];

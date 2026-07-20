@@ -1,7 +1,19 @@
 var a22976 =
 [
-    [ "npc_ahune_ice_spear_bunny", "d3/d15/a22976.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
-    [ "InitializeAI", "d3/d15/a22976.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
-    [ "UpdateAI", "d3/d15/a22976.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
-    [ "_scheduler", "d3/d15/a22976.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
+    [ "boss_fathomguard_tidalvess", "d3/d15/a22976.html#aa4c3ac27c72e659bd87ad83bbadfb04c", null ],
+    [ "DoAction", "d3/d15/a22976.html#a909601091c25285e0a6c9773b61ff049", null ],
+    [ "EnterEvadeMode", "d3/d15/a22976.html#a8fe1a7a13b0d3d806edcfe8e9bf4ff33", null ],
+    [ "JustDied", "d3/d15/a22976.html#a7f79a16e0c186e97aeb7f16f3b7d45ea", null ],
+    [ "JustEngagedWith", "d3/d15/a22976.html#aa524d5c047b50df8d83b5faa3fd791fc", null ],
+    [ "JustSummoned", "d3/d15/a22976.html#a1dc16180610c742e98a93f87653e93e9", null ],
+    [ "Reset", "d3/d15/a22976.html#af218abccb0b61e483dcc6d7a3313d99d", null ],
+    [ "ScheduleRemoval", "d3/d15/a22976.html#a07c887552c8705b52caf9e102788a781", null ],
+    [ "SummonTotem", "d3/d15/a22976.html#adb4d877f50ba5653d699a0a123f5961c", null ],
+    [ "UpdateAI", "d3/d15/a22976.html#abce5d58fced89ecaac1d1f34989f0d9e", null ],
+    [ "_choice", "d3/d15/a22976.html#a0ced209c6f22a0bf435a0249a25b15c4", null ],
+    [ "_entryList", "d3/d15/a22976.html#a9eaeaf02dbe143d38ca857e5ae478aca", null ],
+    [ "_instance", "d3/d15/a22976.html#a958c76b6ad9d9713625b10baa0d6d992", null ],
+    [ "_scheduler", "d3/d15/a22976.html#ae1652d83938dc820255e383870b957a7", null ],
+    [ "_summons", "d3/d15/a22976.html#aea75646687854c08eaee75c55718376d", null ],
+    [ "_totemScheduler", "d3/d15/a22976.html#a1b4ace7575946c585cc63057e81a1529", null ]
 ];

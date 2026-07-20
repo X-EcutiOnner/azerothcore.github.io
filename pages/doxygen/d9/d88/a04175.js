@@ -1,88 +1,57 @@
 var a04175 =
 [
-    [ "Roll", "db/da5/a09863.html", "db/da5/a09863" ],
-    [ "Group", "dc/d66/a09867.html", "dc/d66/a09867" ],
-    [ "Group::MemberSlot", "d7/d03/a09871.html", "d7/d03/a09871" ],
-    [ "GROUP_UPDATE_FLAGS_COUNT", "d9/d88/a04175.html#ad409013260cb0aea80c911d24d7b5d00", null ],
-    [ "MAX_RAID_SUBGROUPS", "d9/d88/a04175.html#afb58b37bfbd0e4d75c26cc40d4066a43", null ],
-    [ "MAXGROUPSIZE", "d9/d88/a04175.html#a41ded42f25275d85cb15f89e0cb21745", null ],
-    [ "MAXRAIDSIZE", "d9/d88/a04175.html#abe79d73a0524988ef836a72c9fab0afc", null ],
-    [ "TARGETICONCOUNT", "d9/d88/a04175.html#a0b29644629b2e396bfc5582dd979a657", null ],
-    [ "DifficultyPreventionChangeType", "d9/d88/a04175.html#ac137f3554eda30ca651f91eec6e2f1ff", [
-      [ "DIFFICULTY_PREVENTION_CHANGE_NONE", "d9/d88/a04175.html#ac137f3554eda30ca651f91eec6e2f1ffa9510357088e05a0d39cc541ece12e19f", null ],
-      [ "DIFFICULTY_PREVENTION_CHANGE_RECENTLY_CHANGED", "d9/d88/a04175.html#ac137f3554eda30ca651f91eec6e2f1ffaaf1cf9fc0dc14727c5370fb741ed02be", null ],
-      [ "DIFFICULTY_PREVENTION_CHANGE_BOSS_KILLED", "d9/d88/a04175.html#ac137f3554eda30ca651f91eec6e2f1ffaf7daa8b9c866100c71f1ff356bca9d37", null ]
+    [ "npc_deathstalker_erland", "d6/da1/a14128.html", "d6/da1/a14128" ],
+    [ "npc_deathstalker_erland::npc_deathstalker_erlandAI", "d5/dde/a14132.html", "d5/dde/a14132" ],
+    [ "npc_deathstalker_fearleia", "d0/d4a/a14136.html", "d0/d4a/a14136" ],
+    [ "npc_ravenclaw_apparition", "df/d20/a14140.html", "df/d20/a14140" ],
+    [ "npc_ravenclaw_apparition::npc_ravenclaw_apparitionAI", "d4/d38/a14144.html", "d4/d38/a14144" ],
+    [ "ApparitionEvents", "d9/d88/a04175.html#ac7d12f884ef22dca36021fe54df83416", [
+      [ "EVENT_APPA_INTRO", "d9/d88/a04175.html#ac7d12f884ef22dca36021fe54df83416acb7d83e4f63d87d9e07acd3fe790cf3f", null ],
+      [ "EVENT_APPA_SAY_1", "d9/d88/a04175.html#ac7d12f884ef22dca36021fe54df83416a5a70df4d34c2d8566d6f1f2223da8358", null ],
+      [ "EVENT_APPA_SAY_2", "d9/d88/a04175.html#ac7d12f884ef22dca36021fe54df83416aef4150f2e8b273cda80a22afb309dcbd", null ],
+      [ "EVENT_APPA_SAY_3", "d9/d88/a04175.html#ac7d12f884ef22dca36021fe54df83416a50dff15dc08a087b69b6e1f3e759e873", null ],
+      [ "EVENT_APPA_SAY_4", "d9/d88/a04175.html#ac7d12f884ef22dca36021fe54df83416aef8c0d8bbd31ac1280da5e1d047b090c", null ],
+      [ "EVENT_APPA_OUTRO", "d9/d88/a04175.html#ac7d12f884ef22dca36021fe54df83416a282f4f3128aee30886a27079ebbadade", null ],
+      [ "EVENT_APPA_OUTRO_CROWD", "d9/d88/a04175.html#ac7d12f884ef22dca36021fe54df83416a43a816ba27d12306c8859a065298090a", null ],
+      [ "EVENT_APPA_OUTRO_END", "d9/d88/a04175.html#ac7d12f884ef22dca36021fe54df83416a67c26d38a1c04c6defc255ec84508341", null ]
     ] ],
-    [ "GroupMemberAssignment", "d9/d88/a04175.html#a265440bc60acb489a6d25239d788b783", [
-      [ "GROUP_ASSIGN_MAINTANK", "d9/d88/a04175.html#a265440bc60acb489a6d25239d788b783a81801fe8320b2182ad7c70d0d028d192", null ],
-      [ "GROUP_ASSIGN_MAINASSIST", "d9/d88/a04175.html#a265440bc60acb489a6d25239d788b783a365361d3311869df05371342f7082143", null ]
+    [ "ApparitionMisc", "d9/d88/a04175.html#a5909181236bb4736208a6dab8aa72de3", [
+      [ "NPC_GNOLL_RUNNER", "d9/d88/a04175.html#a5909181236bb4736208a6dab8aa72de3aa926c07b3e0e442ce56cd705d02adbb1", null ],
+      [ "NPC_GNOLL_MYSTIC", "d9/d88/a04175.html#a5909181236bb4736208a6dab8aa72de3acd80c1eed7ee155c06297c43fe4ded15", null ],
+      [ "EMOTE_CHEER", "d9/d88/a04175.html#a5909181236bb4736208a6dab8aa72de3a91a471fc43ea92dee1d1ab4ee7792204", null ],
+      [ "EMOTE_GNOLL_CHEER", "d9/d88/a04175.html#a5909181236bb4736208a6dab8aa72de3a989ea1d9c4ed491fb34d5c665e00cd07", null ],
+      [ "SAY_APPA_INTRO", "d9/d88/a04175.html#a5909181236bb4736208a6dab8aa72de3a48c8c5efde4afd1945ded15985be957e", null ],
+      [ "SAY_APPA_OUTRO", "d9/d88/a04175.html#a5909181236bb4736208a6dab8aa72de3aeaee8eb03b5ecc83ec4c4bce61234a14", null ],
+      [ "SAY_APPA_OPTION_1_1", "d9/d88/a04175.html#a5909181236bb4736208a6dab8aa72de3a7ce5157a61c4ae4a36c10e911838c759", null ],
+      [ "SAY_APPA_OPTION_1_2", "d9/d88/a04175.html#a5909181236bb4736208a6dab8aa72de3a09f22f871c7677ce21215036738e9599", null ],
+      [ "SAY_APPA_OPTION_1_3", "d9/d88/a04175.html#a5909181236bb4736208a6dab8aa72de3a7d6be30b7c3a5eaf04bb4faf64258f4c", null ],
+      [ "SAY_APPA_OPTION_1_4", "d9/d88/a04175.html#a5909181236bb4736208a6dab8aa72de3ac5f229a48574f471bef97c854953dd56", null ],
+      [ "SAY_APPA_OPTION_2_1", "d9/d88/a04175.html#a5909181236bb4736208a6dab8aa72de3ae47c4533188c68c14269a2ae1e03495a", null ],
+      [ "SAY_APPA_OPTION_2_2", "d9/d88/a04175.html#a5909181236bb4736208a6dab8aa72de3a906e509283cd756dd51d23385e635c52", null ],
+      [ "SAY_APPA_OPTION_2_3", "d9/d88/a04175.html#a5909181236bb4736208a6dab8aa72de3a500da27ff93fe5afe164b9cfadf8c97f", null ],
+      [ "SAY_APPA_OPTION_2_4", "d9/d88/a04175.html#a5909181236bb4736208a6dab8aa72de3a9c27b474b7cc468aa2d897347fb9ddab", null ]
     ] ],
-    [ "GroupMemberFlags", "d9/d88/a04175.html#a7199c0fc3344f944250290234c6110bd", [
-      [ "MEMBER_FLAG_ASSISTANT", "d9/d88/a04175.html#a7199c0fc3344f944250290234c6110bda0b79d2026cebf021e0df83bf82e1e3bf", null ],
-      [ "MEMBER_FLAG_MAINTANK", "d9/d88/a04175.html#a7199c0fc3344f944250290234c6110bdab4244bc75cc8b303dab133abe583dd7b", null ],
-      [ "MEMBER_FLAG_MAINASSIST", "d9/d88/a04175.html#a7199c0fc3344f944250290234c6110bda5977481471e2d61bda65201ddf3db54a", null ]
+    [ "Erland", "d9/d88/a04175.html#a17833146260016bd364b0aeabe951117", [
+      [ "SAY_QUESTACCEPT", "d9/d88/a04175.html#a17833146260016bd364b0aeabe951117ac55a400e0f3da4381ab1048e5115d2d7", null ],
+      [ "SAY_START", "d9/d88/a04175.html#a17833146260016bd364b0aeabe951117a2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_AGGRO", "d9/d88/a04175.html#a17833146260016bd364b0aeabe951117a47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_PROGRESS", "d9/d88/a04175.html#a17833146260016bd364b0aeabe951117a0a1c1c8ee2f4fb58f4e107f259c6a7a5", null ],
+      [ "SAY_LAST", "d9/d88/a04175.html#a17833146260016bd364b0aeabe951117a37a618ea7771d6b731851ae8b9a71789", null ],
+      [ "SAY_RANE", "d9/d88/a04175.html#a17833146260016bd364b0aeabe951117aa74f95bb40d8ed4f48055905dc06d093", null ],
+      [ "SAY_RANE_ANSWER", "d9/d88/a04175.html#a17833146260016bd364b0aeabe951117ab0a630e891967ea5f9e0b2b1d4ff8c7b", null ],
+      [ "SAY_MOVE_QUINN", "d9/d88/a04175.html#a17833146260016bd364b0aeabe951117a8b9954338ee30878ef14f9fb11ed1139", null ],
+      [ "SAY_QUINN", "d9/d88/a04175.html#a17833146260016bd364b0aeabe951117ac996a5c00ede30152bc87c96f2f29344", null ],
+      [ "SAY_QUINN_ANSWER", "d9/d88/a04175.html#a17833146260016bd364b0aeabe951117a5f9017092c9843fc6c48bd100c50f167", null ],
+      [ "SAY_BYE", "d9/d88/a04175.html#a17833146260016bd364b0aeabe951117abad8d0d4b1cbadaec38e64cea8c488c4", null ],
+      [ "QUEST_ESCORTING", "d9/d88/a04175.html#a17833146260016bd364b0aeabe951117a9dd84d8712737f5cf17048c4475c3c42", null ],
+      [ "NPC_RANE", "d9/d88/a04175.html#a17833146260016bd364b0aeabe951117ac32a913ef393de880014e21b55d9f566", null ],
+      [ "NPC_QUINN", "d9/d88/a04175.html#a17833146260016bd364b0aeabe951117aa0a34bb710b174abf06aa875f3a3e82e", null ]
     ] ],
-    [ "GroupMemberOnlineStatus", "d9/d88/a04175.html#a330da2ab05c167f677e54f82a222ef9d", [
-      [ "MEMBER_STATUS_OFFLINE", "d9/d88/a04175.html#a330da2ab05c167f677e54f82a222ef9da3d85c38ccfdc94eda5fe36f186dcb75c", null ],
-      [ "MEMBER_STATUS_ONLINE", "d9/d88/a04175.html#a330da2ab05c167f677e54f82a222ef9da5b80950bd3340d7de2b5a769001b9fec", null ],
-      [ "MEMBER_STATUS_PVP", "d9/d88/a04175.html#a330da2ab05c167f677e54f82a222ef9da56b0705f4b91684e2bc6536d45c628bd", null ],
-      [ "MEMBER_STATUS_DEAD", "d9/d88/a04175.html#a330da2ab05c167f677e54f82a222ef9da68c1ec7408566a34bc264bd9eca1cb53", null ],
-      [ "MEMBER_STATUS_GHOST", "d9/d88/a04175.html#a330da2ab05c167f677e54f82a222ef9daab8058da6edb35b7c3c459a000e9dd0c", null ],
-      [ "MEMBER_STATUS_PVP_FFA", "d9/d88/a04175.html#a330da2ab05c167f677e54f82a222ef9daff365b501c0206847eac2c3d02b21961", null ],
-      [ "MEMBER_STATUS_UNK3", "d9/d88/a04175.html#a330da2ab05c167f677e54f82a222ef9da795eafeca5cb33a35458e5d646975039", null ],
-      [ "MEMBER_STATUS_AFK", "d9/d88/a04175.html#a330da2ab05c167f677e54f82a222ef9da0fd180911ad96ed8d444b6dfc6fd8777", null ],
-      [ "MEMBER_STATUS_DND", "d9/d88/a04175.html#a330da2ab05c167f677e54f82a222ef9dacd9a792ab0f7517ea210ea164e3f8b9f", null ]
+    [ "PyrewoodAmbush", "d9/d88/a04175.html#a877721d69d53f57a970e68fafa98f026", [
+      [ "QUEST_PYREWOOD_AMBUSH", "d9/d88/a04175.html#a877721d69d53f57a970e68fafa98f026a92b54f289feb991fd918a0e654bd6c77", null ],
+      [ "NPCSAY_INIT", "d9/d88/a04175.html#a877721d69d53f57a970e68fafa98f026aaa92536cc818f1566c861be10809e186", null ],
+      [ "NPCSAY_END", "d9/d88/a04175.html#a877721d69d53f57a970e68fafa98f026a4cdea1fd3d42985ec1def690f032a68c", null ]
     ] ],
-    [ "GroupType", "d9/d88/a04175.html#a3de1267c3b87dda21863fd739439d918", [
-      [ "GROUPTYPE_NORMAL", "d9/d88/a04175.html#a3de1267c3b87dda21863fd739439d918a06d2671866631d30309707bd4a233b71", null ],
-      [ "GROUPTYPE_BG", "d9/d88/a04175.html#a3de1267c3b87dda21863fd739439d918aed783b5eaca8785fa2448debdec0b139", null ],
-      [ "GROUPTYPE_RAID", "d9/d88/a04175.html#a3de1267c3b87dda21863fd739439d918a1d64f52216490e026252bf5be0ce72ea", null ],
-      [ "GROUPTYPE_BGRAID", "d9/d88/a04175.html#a3de1267c3b87dda21863fd739439d918ae34858409fbfe501ddd8500da4154860", null ],
-      [ "GROUPTYPE_LFG_RESTRICTED", "d9/d88/a04175.html#a3de1267c3b87dda21863fd739439d918a071dd896c0ef9e458b00ceece61212dc", null ],
-      [ "GROUPTYPE_LFG", "d9/d88/a04175.html#a3de1267c3b87dda21863fd739439d918ab0ab78acc1d675d1a7b3285b29c92900", null ]
-    ] ],
-    [ "GroupUpdateFlags", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22", [
-      [ "GROUP_UPDATE_FLAG_NONE", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22aabf53171e29489386fb5f82c83b8291c", null ],
-      [ "GROUP_UPDATE_FLAG_STATUS", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22a84be5c25600d56528690fa6c4f693c39", null ],
-      [ "GROUP_UPDATE_FLAG_CUR_HP", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22a053bf2b40e15c99b4d87212b6224edf5", null ],
-      [ "GROUP_UPDATE_FLAG_MAX_HP", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22a51f854cd0a192b6a26f2ad93cb04f290", null ],
-      [ "GROUP_UPDATE_FLAG_POWER_TYPE", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22a18568d1a780d4ee8bd1261f04789ddec", null ],
-      [ "GROUP_UPDATE_FLAG_CUR_POWER", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22aff7d60d1b0cadfb6faf0a9cc0fb4c647", null ],
-      [ "GROUP_UPDATE_FLAG_MAX_POWER", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22a8e989903a18a03c2c1b04c93a6f7b806", null ],
-      [ "GROUP_UPDATE_FLAG_LEVEL", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22ac3d0e3f073f9bd3b10dfe6815879d721", null ],
-      [ "GROUP_UPDATE_FLAG_ZONE", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22a8ff7f1354cb854bfd7acc1a15572e1ec", null ],
-      [ "GROUP_UPDATE_FLAG_POSITION", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22ab08e141bb44f5282877077ceef93f4db", null ],
-      [ "GROUP_UPDATE_FLAG_AURAS", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22abfc7c4cf05e71e2c6a263d14c50c300e", null ],
-      [ "GROUP_UPDATE_FLAG_PET_GUID", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22ae059ba28d829c215698fb53fb9c46b81", null ],
-      [ "GROUP_UPDATE_FLAG_PET_NAME", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22ab34868446bbc6c7214746ae0ee07298e", null ],
-      [ "GROUP_UPDATE_FLAG_PET_MODEL_ID", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22ab29f0639aa4364f2937eafa3cf3c9bfd", null ],
-      [ "GROUP_UPDATE_FLAG_PET_CUR_HP", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22a0828c5fe18a98dcec2e52be5a6faf62a", null ],
-      [ "GROUP_UPDATE_FLAG_PET_MAX_HP", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22afc364631361127107eede68c44672067", null ],
-      [ "GROUP_UPDATE_FLAG_PET_POWER_TYPE", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22a8654981d5a32b737e43bb9f799891ab8", null ],
-      [ "GROUP_UPDATE_FLAG_PET_CUR_POWER", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22a356f93308e4e05d59544bb68adeff09e", null ],
-      [ "GROUP_UPDATE_FLAG_PET_MAX_POWER", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22a4110160e7fd5360f13bf4527effcf436", null ],
-      [ "GROUP_UPDATE_FLAG_PET_AURAS", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22abb4365d738698af44649fda4435825af", null ],
-      [ "GROUP_UPDATE_FLAG_VEHICLE_SEAT", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22a8055f4324e3e38e102f8ae430283f109", null ],
-      [ "GROUP_UPDATE_PET", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22ac4eec7ebcdd88fe72703af3fbcdeef65", null ],
-      [ "GROUP_UPDATE_FULL", "d9/d88/a04175.html#a914819bad74fbd5e30a14b5250e00e22a23d5a8a1b2b3ff72c3fc74d801590ef6", null ]
-    ] ],
-    [ "lfgGroupFlags", "d9/d88/a04175.html#a76b58859b594b12f70d10ee9ee17345f", [
-      [ "GROUP_LFG_FLAG_APPLY_RANDOM_BUFF", "d9/d88/a04175.html#a76b58859b594b12f70d10ee9ee17345fa7531c04c229a92e02108024d2d5e3590", null ],
-      [ "GROUP_LFG_FLAG_IS_RANDOM_INSTANCE", "d9/d88/a04175.html#a76b58859b594b12f70d10ee9ee17345faebe9e5142f049394b9311d27ab5d1f2e", null ],
-      [ "GROUP_LFG_FLAG_IS_HEROIC", "d9/d88/a04175.html#a76b58859b594b12f70d10ee9ee17345fa1ed91d7e1faa0986f9353cad3ddf1cfc", null ]
-    ] ],
-    [ "MailItemOnFullInventory", "d9/d88/a04175.html#a03a43c0c0b4b2582dc1ae0a28699e7e5", [
-      [ "MAIL_ITEM_ON_FULL_INVENTORY_DISABLED", "d9/d88/a04175.html#a03a43c0c0b4b2582dc1ae0a28699e7e5a6d8111c555b1d331ea0756e57d2efc90", null ],
-      [ "MAIL_ITEM_ON_FULL_INVENTORY_LFG_ONLY", "d9/d88/a04175.html#a03a43c0c0b4b2582dc1ae0a28699e7e5a22b822be00ad7f19f3700c3fe28d65db", null ],
-      [ "MAIL_ITEM_ON_FULL_INVENTORY_EVERYWHERE", "d9/d88/a04175.html#a03a43c0c0b4b2582dc1ae0a28699e7e5a5b29b0fb837a30794469c96d91fabcb1", null ]
-    ] ],
-    [ "RollVote", "d9/d88/a04175.html#a1cf1e13f9c5c24c7e321364f6d349d5f", [
-      [ "PASS", "d9/d88/a04175.html#a1cf1e13f9c5c24c7e321364f6d349d5fa0afa825567e442a46d131be6c71cb40f", null ],
-      [ "NEED", "d9/d88/a04175.html#a1cf1e13f9c5c24c7e321364f6d349d5fa79a6b7f188a0c6c0f32beb8d40d5804a", null ],
-      [ "GREED", "d9/d88/a04175.html#a1cf1e13f9c5c24c7e321364f6d349d5fac623c8a2364508457861e33034f25d10", null ],
-      [ "DISENCHANT", "d9/d88/a04175.html#a1cf1e13f9c5c24c7e321364f6d349d5fa899d0f089060a2adb6d35bde6c361d13", null ],
-      [ "NOT_EMITED_YET", "d9/d88/a04175.html#a1cf1e13f9c5c24c7e321364f6d349d5fa1b7e37d6dc247df81321e83d0ffe008a", null ],
-      [ "NOT_VALID", "d9/d88/a04175.html#a1cf1e13f9c5c24c7e321364f6d349d5fa7f1ec5eb59564ae05005b9260e1d974e", null ]
-    ] ],
-    [ "GroupUpdateLength", "d9/d88/a04175.html#a65e699af45b8fc9a4a8bac43fe403d5c", null ]
+    [ "AddSC_silverpine_forest", "d9/d88/a04175.html#a2ba39a6181a7eb3cea0c26335739a06c", null ],
+    [ "PyrewoodSpawnPoints", "d9/d88/a04175.html#aa6dde45459ce647040655253e287cd41", null ]
 ];

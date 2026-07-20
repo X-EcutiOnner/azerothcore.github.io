@@ -1,6 +1,7 @@
 var a28516 =
 [
-    [ "npc_steam_tonkAI", "d9/db1/a28520.html", "d9/db1/a28520" ],
-    [ "npc_steam_tonk", "d3/d92/a28516.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
-    [ "GetAI", "d3/d92/a28516.html#a38e51485a3610a204a45677fce15c943", null ]
+    [ "HandleDummy", "d3/d92/a28516.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "d3/d92/a28516.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "d3/d92/a28516.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "d3/d92/a28516.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

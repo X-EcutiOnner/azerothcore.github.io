@@ -1,12 +1,13 @@
 var a15892 =
 [
-    [ "npc_thrall_warchiefAI", "d4/de5/a15892.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
-    [ "DoAction", "d4/de5/a15892.html#a511da19703e30f6e82e59c5223bf2770", null ],
-    [ "JustDied", "d4/de5/a15892.html#a5e6da0a5f5190d7959faff60851e679a", null ],
-    [ "JustEngagedWith", "d4/de5/a15892.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
-    [ "Reset", "d4/de5/a15892.html#a920a29258228c9c2e7e0791d38b648e1", null ],
-    [ "sGossipSelect", "d4/de5/a15892.html#aaad63a0de8acfc17355b7a35de4cc164", null ],
-    [ "UpdateAI", "d4/de5/a15892.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
-    [ "ChainLightningTimer", "d4/de5/a15892.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
-    [ "ShockTimer", "d4/de5/a15892.html#aa8609f8824f68ce7259465284c01dd35", null ]
+    [ "npc_tharnarianAI", "d4/de5/a15892.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
+    [ "Initialize", "d4/de5/a15892.html#ad1d89491b42a56406273a04045e7e91d", null ],
+    [ "Reset", "d4/de5/a15892.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
+    [ "SetGUID", "d4/de5/a15892.html#a8717a30828b91853ceba1b5e62126f29", null ],
+    [ "sGossipSelect", "d4/de5/a15892.html#a33b5898def48e17ba27363b98f51849b", null ],
+    [ "UpdateAI", "d4/de5/a15892.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
+    [ "_bearGUID", "d4/de5/a15892.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
+    [ "_events", "d4/de5/a15892.html#aff73052a4b7407d760af3dde09fa8a07", null ],
+    [ "_facing", "d4/de5/a15892.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
+    [ "_scriptRunning", "d4/de5/a15892.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
 ];

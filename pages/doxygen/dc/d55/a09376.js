@@ -1,6 +1,5 @@
 var a09376 =
 [
-    [ "Conditions", "dc/d55/a09376.html#a93edc2f0d71164b683c844b713befa85", null ],
-    [ "MenuID", "dc/d55/a09376.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
-    [ "TextID", "dc/d55/a09376.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
+    [ "creatures", "dc/d55/a09376.html#a9ae0351e4964d22bcf7c454c8b1027fe", null ],
+    [ "gameobjects", "dc/d55/a09376.html#a14fee7108cb388abd1ec2057cc7ed2a1", null ]
 ];

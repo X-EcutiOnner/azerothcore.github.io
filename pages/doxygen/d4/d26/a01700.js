@@ -1,49 +1,53 @@
 var a01700 =
 [
-    [ "zm_beacon", "df/dff/a22401.html", "df/dff/a22401" ],
-    [ "OPvPCapturePointZM_Beacon", "dd/da7/a22405.html", "dd/da7/a22405" ],
-    [ "OPvPCapturePointZM_Graveyard", "d6/d5c/a22409.html", "d6/d5c/a22409" ],
-    [ "OutdoorPvPZM", "d1/d49/a22413.html", "d1/d49/a22413" ],
-    [ "OutdoorPvPZMSpells", "d4/d26/a01700.html#ac31cd7a23fe2f82e25ababd3a8b700a1", [
-      [ "ZM_CAPTURE_BUFF", "d4/d26/a01700.html#ac31cd7a23fe2f82e25ababd3a8b700a1a5039b0bd2a7689f857a4ecc871d5b16d", null ],
-      [ "ZM_BATTLE_STANDARD_A", "d4/d26/a01700.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5", null ],
-      [ "ZM_BATTLE_STANDARD_H", "d4/d26/a01700.html#ac31cd7a23fe2f82e25ababd3a8b700a1a0513ef6309adc490c793ee1dc5bc8614", null ],
-      [ "ZM_AlliancePlayerKillReward", "d4/d26/a01700.html#ac31cd7a23fe2f82e25ababd3a8b700a1a53fad383bb7058d8c1a272bd6d9523a3", null ],
-      [ "ZM_HordePlayerKillReward", "d4/d26/a01700.html#ac31cd7a23fe2f82e25ababd3a8b700a1a6f9de137a24ee5d457ee7e2c093b398b", null ]
+    [ "BattlegroundDS", "de/dbd/a07760.html", "de/dbd/a07760" ],
+    [ "BattlegroundDSCreatures", "d4/d26/a01700.html#a239235ff6a77dc70519faae59c868202", [
+      [ "BG_DS_NPC_TYPE_WATER_SPOUT", "d4/d26/a01700.html#a239235ff6a77dc70519faae59c868202ad40b08b0df1abb642f3f0caf18301171", null ]
     ] ],
-    [ "ZM_BeaconType", "d4/d26/a01700.html#a8493feec67db9c938c31465f24f60fe1", [
-      [ "ZM_BEACON_EAST", "d4/d26/a01700.html#a8493feec67db9c938c31465f24f60fe1a034b065f7219f5b4a6d983ed694e7a80", null ],
-      [ "ZM_BEACON_WEST", "d4/d26/a01700.html#a8493feec67db9c938c31465f24f60fe1a36b102e6d45f41b4db14e889ffac46e2", null ],
-      [ "ZM_NUM_BEACONS", "d4/d26/a01700.html#a8493feec67db9c938c31465f24f60fe1a9e566b7b7f64cae5ea6a37a289f16ce3", null ]
+    [ "BattlegroundDSCreatureTypes", "d4/d26/a01700.html#aca2990bbe9b2261c7f9f9761c063c3f4", [
+      [ "BG_DS_NPC_WATERFALL_KNOCKBACK", "d4/d26/a01700.html#aca2990bbe9b2261c7f9f9761c063c3f4a79cd4de05b72abd60374190c7802850a", null ],
+      [ "BG_DS_NPC_PIPE_KNOCKBACK_1", "d4/d26/a01700.html#aca2990bbe9b2261c7f9f9761c063c3f4a499e73119219ab047050066925863cbf", null ],
+      [ "BG_DS_NPC_PIPE_KNOCKBACK_2", "d4/d26/a01700.html#aca2990bbe9b2261c7f9f9761c063c3f4a0f7c473d66f71a2692f1a7b5e1c110b4", null ],
+      [ "BG_DS_NPC_MAX", "d4/d26/a01700.html#aca2990bbe9b2261c7f9f9761c063c3f4aea764dbeaf590cb06750d0b4146c581a", null ]
     ] ],
-    [ "Zm_GraveyardState", "d4/d26/a01700.html#ad13518df9718347908929a97748d3636", [
-      [ "ZM_GRAVEYARD_N", "d4/d26/a01700.html#ad13518df9718347908929a97748d3636a87f32a40b9ae4243e7977085b4dab7c0", null ],
-      [ "ZM_GRAVEYARD_A", "d4/d26/a01700.html#ad13518df9718347908929a97748d3636aef470c9322dded10641afcc6a153e329", null ],
-      [ "ZM_GRAVEYARD_H", "d4/d26/a01700.html#ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065", null ]
+    [ "BattlegroundDSData", "d4/d26/a01700.html#aa31b86760427e7e9348ef8bf69da141c", [
+      [ "BG_DS_PIPE_KNOCKBACK_FIRST_DELAY", "d4/d26/a01700.html#aa31b86760427e7e9348ef8bf69da141cabbf10d8eecab52ccb852376f82fd018d", null ],
+      [ "BG_DS_PIPE_KNOCKBACK_DELAY", "d4/d26/a01700.html#aa31b86760427e7e9348ef8bf69da141ca35f8577eea8f26daf33a3dd21e2231b5", null ],
+      [ "BG_DS_PIPE_KNOCKBACK_TOTAL_COUNT", "d4/d26/a01700.html#aa31b86760427e7e9348ef8bf69da141cafa0805e6bb3bad41fe68cd2697758704", null ]
     ] ],
-    [ "ZM_TowerStateMask", "d4/d26/a01700.html#a5d44e96b24b1f1215d1b3788b212f11c", [
-      [ "ZM_TOWERSTATE_N", "d4/d26/a01700.html#a5d44e96b24b1f1215d1b3788b212f11ca03d2918a6a9915b33da0f120feb7d5da", null ],
-      [ "ZM_TOWERSTATE_A", "d4/d26/a01700.html#a5d44e96b24b1f1215d1b3788b212f11cab51c5d640c62f5336ec7c5a1028f73d0", null ],
-      [ "ZM_TOWERSTATE_H", "d4/d26/a01700.html#a5d44e96b24b1f1215d1b3788b212f11ca206f55050d03bbc30f690c7e669e1831", null ]
+    [ "BattlegroundDSEvents", "d4/d26/a01700.html#a28c190d1bc1cda7ce04873badd8dd1b9", [
+      [ "BG_DS_EVENT_WATERFALL_WARNING", "d4/d26/a01700.html#a28c190d1bc1cda7ce04873badd8dd1b9a556b41865c0cb90edad807f781c04185", null ],
+      [ "BG_DS_EVENT_WATERFALL_ON", "d4/d26/a01700.html#a28c190d1bc1cda7ce04873badd8dd1b9a146cc864281f18ab4b717202919f44ce", null ],
+      [ "BG_DS_EVENT_WATERFALL_OFF", "d4/d26/a01700.html#a28c190d1bc1cda7ce04873badd8dd1b9adb0372ad161febcd2fb2b195e52da56d", null ],
+      [ "BG_DS_EVENT_WATERFALL_KNOCKBACK", "d4/d26/a01700.html#a28c190d1bc1cda7ce04873badd8dd1b9a90015d0b077cd7e296410208637e46b4", null ],
+      [ "BG_DS_EVENT_PIPE_KNOCKBACK", "d4/d26/a01700.html#a28c190d1bc1cda7ce04873badd8dd1b9a7fed7cfa0547c6e8ceeb5e3453fa6268", null ]
     ] ],
-    [ "ZMCreatureTypes", "d4/d26/a01700.html#aa6fc4a297b329d62073dd503d4f647c5", [
-      [ "ZM_ALLIANCE_FIELD_SCOUT", "d4/d26/a01700.html#aa6fc4a297b329d62073dd503d4f647c5ab0f9fb0eee307b47658f6742db0a4d82", null ],
-      [ "ZM_HORDE_FIELD_SCOUT", "d4/d26/a01700.html#aa6fc4a297b329d62073dd503d4f647c5a51001197c09a749a8d042df6fc5d0d62", null ],
-      [ "ZM_CREATURE_NUM", "d4/d26/a01700.html#aa6fc4a297b329d62073dd503d4f647c5a47e8909e9a6a41604775c672ec3587ae", null ]
+    [ "BattlegroundDSGameObjects", "d4/d26/a01700.html#a71d8aad7096e6f4e538eadab51fc76f8", [
+      [ "BG_DS_OBJECT_TYPE_DOOR_1", "d4/d26/a01700.html#a71d8aad7096e6f4e538eadab51fc76f8a8117a9fd3e3221f5980949e5150fe737", null ],
+      [ "BG_DS_OBJECT_TYPE_DOOR_2", "d4/d26/a01700.html#a71d8aad7096e6f4e538eadab51fc76f8a687d200b385c99eca799508a8a3da61d", null ],
+      [ "BG_DS_OBJECT_TYPE_WATER_1", "d4/d26/a01700.html#a71d8aad7096e6f4e538eadab51fc76f8ae42c0b118aa8e527eabad9d8302c86db", null ],
+      [ "BG_DS_OBJECT_TYPE_WATER_2", "d4/d26/a01700.html#a71d8aad7096e6f4e538eadab51fc76f8a90ec16bb076db4028cbf2a5dbb327f1d", null ],
+      [ "BG_DS_OBJECT_TYPE_BUFF_1", "d4/d26/a01700.html#a71d8aad7096e6f4e538eadab51fc76f8a141655234e2fa43143622578cf71ec71", null ],
+      [ "BG_DS_OBJECT_TYPE_BUFF_2", "d4/d26/a01700.html#a71d8aad7096e6f4e538eadab51fc76f8affd7ba30f4f2024dd6429f065d5edb9f", null ]
     ] ],
-    [ "OutdoorPvPZMBuffZones", "d4/d26/a01700.html#a42debbed89bc9a37f04d7da9f1ba5362", null ],
-    [ "OutdoorPvPZMBuffZonesNum", "d4/d26/a01700.html#afd164ef928ed19895648e76207433805", null ],
-    [ "ZM_AllianceFieldScout", "d4/d26/a01700.html#a308db265dfb26d8d04ea2b44077d3b42", null ],
-    [ "ZM_Banner_A", "d4/d26/a01700.html#a986fade5573769277e5c9e99dc243d78", null ],
-    [ "ZM_Banner_H", "d4/d26/a01700.html#a5eae372f5bc43c36af04c8833002ca79", null ],
-    [ "ZM_Banner_N", "d4/d26/a01700.html#a9bf0e9dee2e0ae4731dd302373e18542", null ],
-    [ "ZM_GRAVEYARD_ID", "d4/d26/a01700.html#adc060a8578a0685e98f94a0d51c3613b", null ],
-    [ "ZM_GRAVEYARD_ZONE", "d4/d26/a01700.html#a32c62572b4ea0ef1930cffc3e9e2c6fe", null ],
-    [ "ZM_HordeFieldScout", "d4/d26/a01700.html#aa18435dfdf68c3f5ac5218ce2e4909d0", null ],
-    [ "ZMBeaconCaptureA", "d4/d26/a01700.html#aefc7683d5c310d6513a4bc64e0562f24", null ],
-    [ "ZMBeaconCaptureH", "d4/d26/a01700.html#a3cf4b21d832f1993b7bbef74516f4690", null ],
-    [ "ZMBeaconInfo", "d4/d26/a01700.html#af392c2c0a8da38f6782ab0ed0501a448", null ],
-    [ "ZMBeaconLoseA", "d4/d26/a01700.html#ace5e051bf69a2b4be978b04c832c5592", null ],
-    [ "ZMBeaconLoseH", "d4/d26/a01700.html#a32e1a277d31ee3f4a23f291ccb4798e6", null ],
-    [ "ZMCapturePoints", "d4/d26/a01700.html#a397f5867c1a3f99cf044124a4a621324", null ]
+    [ "BattlegroundDSObjectTypes", "d4/d26/a01700.html#a8d5224d87e17a7242576ee301e628de6", [
+      [ "BG_DS_OBJECT_DOOR_1", "d4/d26/a01700.html#a8d5224d87e17a7242576ee301e628de6a8610bd7f4f1a8e7eb1e9f2429aac5b42", null ],
+      [ "BG_DS_OBJECT_DOOR_2", "d4/d26/a01700.html#a8d5224d87e17a7242576ee301e628de6a330db292ad2569c554efbb54f9683a65", null ],
+      [ "BG_DS_OBJECT_WATER_1", "d4/d26/a01700.html#a8d5224d87e17a7242576ee301e628de6ad7b7d41afc57c57dfb26c89c33cc6d30", null ],
+      [ "BG_DS_OBJECT_WATER_2", "d4/d26/a01700.html#a8d5224d87e17a7242576ee301e628de6a4afa2177f1262bb3fb3c015047d6c1f1", null ],
+      [ "BG_DS_OBJECT_BUFF_1", "d4/d26/a01700.html#a8d5224d87e17a7242576ee301e628de6ab65c1a961954720559d3b7d2114d0f1a", null ],
+      [ "BG_DS_OBJECT_BUFF_2", "d4/d26/a01700.html#a8d5224d87e17a7242576ee301e628de6aba69c00240803bc3130e93706ca3fd03", null ],
+      [ "BG_DS_OBJECT_MAX", "d4/d26/a01700.html#a8d5224d87e17a7242576ee301e628de6a6067df4d0384c2cbc7b6b11a0ad6abef", null ]
+    ] ],
+    [ "BattlegroundDSSpells", "d4/d26/a01700.html#a41065fade7598429191146de35f52e86", [
+      [ "BG_DS_SPELL_FLUSH", "d4/d26/a01700.html#a41065fade7598429191146de35f52e86a92b5731f68ff7782811d2ed6ecc27d50", null ],
+      [ "BG_DS_SPELL_FLUSH_KNOCKBACK", "d4/d26/a01700.html#a41065fade7598429191146de35f52e86a048190b79973e03b8a950faa2e702817", null ],
+      [ "BG_DS_SPELL_WATER_SPOUT", "d4/d26/a01700.html#a41065fade7598429191146de35f52e86a9fddcfba49dc5538f51c0d537c440f67", null ],
+      [ "SPELL_WARL_DEMONIC_CIRCLE", "d4/d26/a01700.html#a41065fade7598429191146de35f52e86ae21b8d7e5a28c9d4fac00f918d272f71", null ]
+    ] ],
+    [ "BG_DS_WATERFALL_DURATION", "d4/d26/a01700.html#a5ab9e4c80e884fe70b5ec7fa8a804467", null ],
+    [ "BG_DS_WATERFALL_KNOCKBACK_TIMER", "d4/d26/a01700.html#a1b36a98e6aeda4fffe6eb42b5b97d8b9", null ],
+    [ "BG_DS_WATERFALL_TIMER_MAX", "d4/d26/a01700.html#aa60e58163a826a5883866a7acc392a69", null ],
+    [ "BG_DS_WATERFALL_TIMER_MIN", "d4/d26/a01700.html#a42d81786420a8cf7be3391223230530a", null ],
+    [ "BG_DS_WATERFALL_WARNING_DURATION", "d4/d26/a01700.html#ad0d7dc59c1690e15c35f7ba622eb2fef", null ]
 ];

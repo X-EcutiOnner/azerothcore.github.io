@@ -1,6 +1,6 @@
 var a12080 =
 [
-    [ "Command", "d4/d1c/a12080.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
-    [ "Data", "d4/d1c/a12080.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
-    [ "DataSize", "d4/d1c/a12080.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
+    [ "AuraProcHandler", "d4/d1c/a12080.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
+    [ "Call", "d4/d1c/a12080.html#abc0c3be9dee08e995c282f20900f3c46", null ],
+    [ "_HandlerScript", "d4/d1c/a12080.html#ada8d7a5659598b0092739a91ba2653bd", null ]
 ];

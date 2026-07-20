@@ -1,14 +1,5 @@
 var a07648 =
 [
-    [ "IsArena", "db/d13/a07648.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
-    [ "BattlemasterEntry", "db/d13/a07648.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
-    [ "Id", "db/d13/a07648.html#a0fca37318585903f68695452a95011a9", null ],
-    [ "MaxLevel", "db/d13/a07648.html#a790f55d480d1454a5f6e5713c04314b7", null ],
-    [ "MaxPlayersPerTeam", "db/d13/a07648.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
-    [ "MaxStartDistSq", "db/d13/a07648.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
-    [ "MinLevel", "db/d13/a07648.html#a49fdf96a08376830a06956fd501cfa78", null ],
-    [ "MinPlayersPerTeam", "db/d13/a07648.html#ac1bea263b53de8573cdb8eb890175495", null ],
-    [ "ScriptId", "db/d13/a07648.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
-    [ "StartLocation", "db/d13/a07648.html#a8477d2156c8aa5bb89da038d1a779698", null ],
-    [ "Weight", "db/d13/a07648.html#aa7a051e8453599a7e82da763a6f91da2", null ]
+    [ "CreateFilterByUserInput", "db/d13/a07648.html#ae35ff456f56290032c4c62d252a83690", null ],
+    [ "ParseTypes", "db/d13/a07648.html#a79a78392d31f1fbf3d8475572d570c1c", null ]
 ];

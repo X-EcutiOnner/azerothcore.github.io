@@ -1,5 +1,6 @@
 var a01520 =
 [
-    [ "quest_commandscript", "dc/d4d/a12493.html", "dc/d4d/a12493" ],
-    [ "AddSC_quest_commandscript", "d4/d51/a01520.html#ae9edb5f21eaacbfd73cc01543cb2fcdd", null ]
+    [ "ConcatenateDungeons", "d4/d51/a01520.html#aeaebe53b818ad905c96d2cc56c18b7ca", null ],
+    [ "GetRolesString", "d4/d51/a01520.html#adc336ffd636b51b0052448739671d46b", null ],
+    [ "GetStateString", "d4/d51/a01520.html#a9d097d73fe8f096de2098ac74022b643", null ]
 ];

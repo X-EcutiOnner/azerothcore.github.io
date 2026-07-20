@@ -1,59 +1,53 @@
 var a02888 =
 [
-    [ "ObjectGuidTraits< high >", "d1/dca/a08785.html", "d1/dca/a08785" ],
-    [ "PackedGuidReader", "d1/d2c/a08789.html", "d1/d2c/a08789" ],
-    [ "ObjectGuid", "d7/d17/a08793.html", "d7/d17/a08793" ],
-    [ "PackedGuid", "d3/d0d/a08797.html", "d3/d0d/a08797" ],
-    [ "ObjectGuidGeneratorBase", "dc/dc6/a08801.html", "dc/dc6/a08801" ],
-    [ "ObjectGuidGenerator< high >", "db/d94/a08805.html", "db/d94/a08805" ],
-    [ "std::hash< ObjectGuid >", "db/d14/a08809.html", "db/d14/a08809" ],
-    [ "GUID_TRAIT_GLOBAL", "d4/d04/a02888.html#a4d3dbad84884c4977ba2be1ac82cc142", null ],
-    [ "GUID_TRAIT_MAP_SPECIFIC", "d4/d04/a02888.html#acdd3815893762a2491365b8fd25c7283", null ],
-    [ "NUM_CLIENT_OBJECT_TYPES", "d4/d04/a02888.html#ae616985e1e68f294e055e2bced156ada", null ],
-    [ "PACKED_GUID_MIN_BUFFER_SIZE", "d4/d04/a02888.html#ac7c846a04172e6d96c6096780b5d05b0", null ],
-    [ "GuidDeque", "d4/d04/a02888.html#a393d9824dfb17afe3b82652e89eccc68", null ],
-    [ "GuidList", "d4/d04/a02888.html#a5951d383f157ff0ed6d23ecef2213a4b", null ],
-    [ "GuidSet", "d4/d04/a02888.html#a62874da4f73709809fa3c7609d3e30af", null ],
-    [ "GuidUnorderedSet", "d4/d04/a02888.html#a407d39fdbc20e1e06960539245ee6a25", null ],
-    [ "GuidVector", "d4/d04/a02888.html#a173958393e55b3150391dfb3a6d387ed", null ],
-    [ "HighGuid", "d4/d04/a02888.html#abe8666ac87665ba963053cdd2b014750", [
-      [ "Item", "d4/d04/a02888.html#abe8666ac87665ba963053cdd2b014750a7d74f3b92b19da5e606d737d339a9679", null ],
-      [ "Container", "d4/d04/a02888.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2", null ],
-      [ "Player", "d4/d04/a02888.html#abe8666ac87665ba963053cdd2b014750a636da1d35e805b00eae0fcd8333f9234", null ],
-      [ "GameObject", "d4/d04/a02888.html#abe8666ac87665ba963053cdd2b014750a3d164a4fbbdd103bddb596268f741bae", null ],
-      [ "Transport", "d4/d04/a02888.html#abe8666ac87665ba963053cdd2b014750af5f0c488ed56cf789d19a13ffba8abe3", null ],
-      [ "Unit", "d4/d04/a02888.html#abe8666ac87665ba963053cdd2b014750a19c562a36aeb455d09534f93b4f5236f", null ],
-      [ "Pet", "d4/d04/a02888.html#abe8666ac87665ba963053cdd2b014750a7c986af4cf8f6e55a1f846dc498ce91d", null ],
-      [ "Vehicle", "d4/d04/a02888.html#abe8666ac87665ba963053cdd2b014750ad6af9c1eaff2a89ebd3f8d0c542be12b", null ],
-      [ "DynamicObject", "d4/d04/a02888.html#abe8666ac87665ba963053cdd2b014750a8e9e2acf3f592fab793f32c92fbf7bee", null ],
-      [ "Corpse", "d4/d04/a02888.html#abe8666ac87665ba963053cdd2b014750a417799dc63b3ebb2852970ae4b5c0f4a", null ],
-      [ "Mo_Transport", "d4/d04/a02888.html#abe8666ac87665ba963053cdd2b014750a50c0392a66a27a037ab10f870aa9b57a", null ],
-      [ "Instance", "d4/d04/a02888.html#abe8666ac87665ba963053cdd2b014750ad9a17c1c9e8ef6866e4dbeef41c741b2", null ],
-      [ "Group", "d4/d04/a02888.html#abe8666ac87665ba963053cdd2b014750a03937134cedab9078be39a77ee3a48a0", null ]
+    [ "spell_q10935_the_exorcism_of_colonel_jules", "d9/df3/a23864.html", "d9/df3/a23864" ],
+    [ "npc_aeranas", "d3/df5/a23868.html", "d3/df5/a23868" ],
+    [ "npc_aeranas::npc_aeranasAI", "d9/d18/a23872.html", "d9/d18/a23872" ],
+    [ "npc_ancestral_wolf", "d7/d7d/a23876.html", "d7/d7d/a23876" ],
+    [ "npc_ancestral_wolf::npc_ancestral_wolfAI", "d1/dee/a23880.html", "d1/dee/a23880" ],
+    [ "npc_wounded_blood_elf", "dd/d11/a23884.html", "dd/d11/a23884" ],
+    [ "npc_wounded_blood_elf::npc_wounded_blood_elfAI", "d2/daf/a23888.html", "d2/daf/a23888" ],
+    [ "npc_fel_guard_hound", "da/de4/a23892.html", "da/de4/a23892" ],
+    [ "npc_fel_guard_hound::npc_fel_guard_houndAI", "d6/d90/a23896.html", "d6/d90/a23896" ],
+    [ "go_beacon", "d6/d77/a23900.html", "d6/d77/a23900" ],
+    [ "go_beacon::go_beaconAI", "d0/d7c/a23904.html", "d0/d7c/a23904" ],
+    [ "go_magtheridons_head", "d7/d76/a23908.html", "d7/d76/a23908" ],
+    [ "Aeranas", "d4/d04/a02888.html#a35e86459585ec89189aab3acab8ed4ca", [
+      [ "SAY_SUMMON", "d4/d04/a02888.html#a35e86459585ec89189aab3acab8ed4caacebbfa1f13b8de4f039f5d550063c7bf", null ],
+      [ "SAY_FREE", "d4/d04/a02888.html#a35e86459585ec89189aab3acab8ed4caa27368277122194007f925387131a1eb9", null ],
+      [ "SPELL_ENVELOPING_WINDS", "d4/d04/a02888.html#a35e86459585ec89189aab3acab8ed4caacf98b779c795324d47e44b043eeacf92", null ],
+      [ "SPELL_SHOCK", "d4/d04/a02888.html#a35e86459585ec89189aab3acab8ed4caa30aa4cac2f70a310466b3fb0f2d10eab", null ]
     ] ],
-    [ "TypeID", "d4/d04/a02888.html#a183c40b2ba67065929d70b3987da4cc2", [
-      [ "TYPEID_OBJECT", "d4/d04/a02888.html#a183c40b2ba67065929d70b3987da4cc2a1f0252b8069f8868dfedfdb4fe45e30f", null ],
-      [ "TYPEID_ITEM", "d4/d04/a02888.html#a183c40b2ba67065929d70b3987da4cc2ab2bcf0ba3fcc0090223bf840eda90b28", null ],
-      [ "TYPEID_CONTAINER", "d4/d04/a02888.html#a183c40b2ba67065929d70b3987da4cc2afebf490e56b6f11276b1523008afa107", null ],
-      [ "TYPEID_UNIT", "d4/d04/a02888.html#a183c40b2ba67065929d70b3987da4cc2a93dfa528ffc48db4993fb7ac62696db9", null ],
-      [ "TYPEID_PLAYER", "d4/d04/a02888.html#a183c40b2ba67065929d70b3987da4cc2aca37d750899c40a5743285ccda2bba9c", null ],
-      [ "TYPEID_GAMEOBJECT", "d4/d04/a02888.html#a183c40b2ba67065929d70b3987da4cc2a91b74ac7ebfe7909332a6eec5054c60d", null ],
-      [ "TYPEID_DYNAMICOBJECT", "d4/d04/a02888.html#a183c40b2ba67065929d70b3987da4cc2a86e2d54e816ea646c9cda372df01dc68", null ],
-      [ "TYPEID_CORPSE", "d4/d04/a02888.html#a183c40b2ba67065929d70b3987da4cc2ab20e64ae3f5f5a5ecffa53fee57d7d2f", null ]
+    [ "AncestralWolf", "d4/d04/a02888.html#ae0ad636572003d2f340b9f5853329b31", [
+      [ "EMOTE_WOLF_LIFT_HEAD", "d4/d04/a02888.html#ae0ad636572003d2f340b9f5853329b31a3d71eb68225f60940079e2c6d5b848bb", null ],
+      [ "EMOTE_WOLF_HOWL", "d4/d04/a02888.html#ae0ad636572003d2f340b9f5853329b31a89cae72f3324d089afca2e6ec3bab2b0", null ],
+      [ "SAY_WOLF_WELCOME", "d4/d04/a02888.html#ae0ad636572003d2f340b9f5853329b31a129ec8cc004776adf7eede6faee16398", null ],
+      [ "SPELL_GUIDED_BY_THE_SPIRITS", "d4/d04/a02888.html#ae0ad636572003d2f340b9f5853329b31a49de5a0a57dffbeebdb91a8ad307328d", null ],
+      [ "NPC_RYGA", "d4/d04/a02888.html#ae0ad636572003d2f340b9f5853329b31a4c5c75439f08ad6a8f448db8931dd14d", null ]
     ] ],
-    [ "TypeMask", "d4/d04/a02888.html#acfe503ba26d8a881f16958aaafd431e1", [
-      [ "TYPEMASK_OBJECT", "d4/d04/a02888.html#acfe503ba26d8a881f16958aaafd431e1a15c6345df35def281fc22632f52bc6a2", null ],
-      [ "TYPEMASK_ITEM", "d4/d04/a02888.html#acfe503ba26d8a881f16958aaafd431e1a213c6f64ff343595c13d0e808b75297d", null ],
-      [ "TYPEMASK_CONTAINER", "d4/d04/a02888.html#acfe503ba26d8a881f16958aaafd431e1a8898075ddeb644fdaa32c88c818958dd", null ],
-      [ "TYPEMASK_UNIT", "d4/d04/a02888.html#acfe503ba26d8a881f16958aaafd431e1a611a6f19a7f885d824ea5be71ffca2de", null ],
-      [ "TYPEMASK_PLAYER", "d4/d04/a02888.html#acfe503ba26d8a881f16958aaafd431e1ac68cdbc5c42fc63c5df6b7b0dd69a739", null ],
-      [ "TYPEMASK_GAMEOBJECT", "d4/d04/a02888.html#acfe503ba26d8a881f16958aaafd431e1ab64731f0031a7f58c1a56cbf45d6f2f4", null ],
-      [ "TYPEMASK_DYNAMICOBJECT", "d4/d04/a02888.html#acfe503ba26d8a881f16958aaafd431e1a3a699b841ec20fb9c6d7b99e9bf88108", null ],
-      [ "TYPEMASK_CORPSE", "d4/d04/a02888.html#acfe503ba26d8a881f16958aaafd431e1a94570a20b0854337a5f22641c81a5be9", null ],
-      [ "TYPEMASK_SEER", "d4/d04/a02888.html#acfe503ba26d8a881f16958aaafd431e1a5db3f5013b522d453811f6a1e70d9e96", null ]
+    [ "Beacon", "d4/d04/a02888.html#aa0353d38e414033b4eac645836037a9c", [
+      [ "NPC_STONESCHYE_WHELP", "d4/d04/a02888.html#aa0353d38e414033b4eac645836037a9ca735f9b0923e7a2f2b40c91e7bfd5a6c8", null ]
     ] ],
-    [ "operator<<", "d4/d04/a02888.html#a039758f4b57c94c411a4c3882334ada8", null ],
-    [ "operator<<", "d4/d04/a02888.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
-    [ "operator>>", "d4/d04/a02888.html#a30aef535f2839648f0ae4648c746d3e2", null ],
-    [ "operator>>", "d4/d04/a02888.html#a95f3a6eef334b9fcdcaca879532c25d4", null ]
+    [ "FelGuard", "d4/d04/a02888.html#af0944e670cdc4872cb4e1de78159ef88", [
+      [ "SPELL_SUMMON_POO", "d4/d04/a02888.html#af0944e670cdc4872cb4e1de78159ef88acaf3b07d165603ce6a87d5e137c8bc6c", null ],
+      [ "NPC_DERANGED_HELBOAR", "d4/d04/a02888.html#af0944e670cdc4872cb4e1de78159ef88a74a22ffd9e172700137c4a85ec978333", null ],
+      [ "QUEST_SHIZZ_WORK", "d4/d04/a02888.html#af0944e670cdc4872cb4e1de78159ef88a22cc94ada0c254f3d3848e67f5701588", null ]
+    ] ],
+    [ "q10935Exorcism", "d4/d04/a02888.html#a2b917ea5e39342011ca6dcdac24e869e", [
+      [ "SPELL_HOLY_FIRE", "d4/d04/a02888.html#a2b917ea5e39342011ca6dcdac24e869eac3a4396238fbb11f537aa061424abe2b", null ],
+      [ "SPELL_HEAL_BARADA", "d4/d04/a02888.html#a2b917ea5e39342011ca6dcdac24e869eae33e5e18452ad49b09d4403d2b856efd", null ]
+    ] ],
+    [ "WoundedBloodElf", "d4/d04/a02888.html#a1b44ea4940860848073d89e7761e5d9e", [
+      [ "SAY_ELF_START", "d4/d04/a02888.html#a1b44ea4940860848073d89e7761e5d9ea52186d9cbaa4a5d1e385d2fe13503a97", null ],
+      [ "SAY_ELF_SUMMON1", "d4/d04/a02888.html#a1b44ea4940860848073d89e7761e5d9ea3b168b2787eb695fadbe796416731ba3", null ],
+      [ "SAY_ELF_RESTING", "d4/d04/a02888.html#a1b44ea4940860848073d89e7761e5d9ea6cd155f2503f730d0d12456613b29964", null ],
+      [ "SAY_ELF_SUMMON2", "d4/d04/a02888.html#a1b44ea4940860848073d89e7761e5d9ea678e628b153b8961e58fe7f936fd9c61", null ],
+      [ "SAY_ELF_COMPLETE", "d4/d04/a02888.html#a1b44ea4940860848073d89e7761e5d9eae06761dd5b07e038a394a2c7e72e93a7", null ],
+      [ "SAY_ELF_AGGRO", "d4/d04/a02888.html#a1b44ea4940860848073d89e7761e5d9eabfc964a1cc07a0fdf8782361353d8a5c", null ],
+      [ "QUEST_ROAD_TO_FALCON_WATCH", "d4/d04/a02888.html#a1b44ea4940860848073d89e7761e5d9eaaca23046d9ea87abc77d28689e3349ed", null ],
+      [ "NPC_HAALESHI_WINDWALKER", "d4/d04/a02888.html#a1b44ea4940860848073d89e7761e5d9eafbcba9ddc06cf15e740c08aa796f43ba", null ],
+      [ "NPC_HAALESHI_TALONGUARD", "d4/d04/a02888.html#a1b44ea4940860848073d89e7761e5d9ea338245af1e86a4794f18dc3072957088", null ],
+      [ "ARAKKOA_CAGE", "d4/d04/a02888.html#a1b44ea4940860848073d89e7761e5d9eafe47930a46107b8a21f186ef6f97ddf7", null ]
+    ] ],
+    [ "AddSC_hellfire_peninsula", "d4/d04/a02888.html#ae450311c68322300a0e6fb8091cd8936", null ]
 ];

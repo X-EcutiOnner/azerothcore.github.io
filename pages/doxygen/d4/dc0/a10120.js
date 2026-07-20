@@ -1,8 +1,10 @@
 var a10120 =
 [
-    [ "CircleBoundary", "d4/dc0/a10120.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
-    [ "CircleBoundary", "d4/dc0/a10120.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
-    [ "IsWithinBoundaryArea", "d4/dc0/a10120.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
-    [ "_center", "d4/dc0/a10120.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
-    [ "_radiusSq", "d4/dc0/a10120.html#acbb3cc0c546f0e557a48a45425355950", null ]
+    [ "MailReceiver", "d4/dc0/a10120.html#a6fba3ff0ab3167197f569631d766ce14", null ],
+    [ "MailReceiver", "d4/dc0/a10120.html#af0b094a704463ed76b1c08bc3cab0380", null ],
+    [ "MailReceiver", "d4/dc0/a10120.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
+    [ "GetPlayer", "d4/dc0/a10120.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
+    [ "GetPlayerGUIDLow", "d4/dc0/a10120.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
+    [ "m_receiver", "d4/dc0/a10120.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
+    [ "m_receiver_lowguid", "d4/dc0/a10120.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
 ];

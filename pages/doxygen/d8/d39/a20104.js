@@ -1,6 +1,11 @@
 var a20104 =
 [
-    [ "CheckCast", "d8/d39/a20104.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
-    [ "PrepareSpellScript", "d8/d39/a20104.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
-    [ "Register", "d8/d39/a20104.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
+    [ "npc_auriaya_feral_defender", "d8/d39/a20104.html#a84425204b0ad06789edb331ed8495774", null ],
+    [ "DoAction", "d8/d39/a20104.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
+    [ "JustDied", "d8/d39/a20104.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
+    [ "JustEngagedWith", "d8/d39/a20104.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
+    [ "Reset", "d8/d39/a20104.html#a02b09b7dfdd4036827bb474a57296491", null ],
+    [ "UpdateAI", "d8/d39/a20104.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
+    [ "_feralEssenceStack", "d8/d39/a20104.html#a1ffc377dbad787a5eb132758124df534", null ],
+    [ "_summons", "d8/d39/a20104.html#a0b7960f590ba76068c377cf08291ce35", null ]
 ];

@@ -1,8 +1,5 @@
 var a25364 =
 [
-    [ "CheckProc", "db/d64/a25364.html#ae0b0a45ddc782a523394e30414e0b2ba", null ],
-    [ "HandleProc", "db/d64/a25364.html#a9cb849a8ea8afb45cc1df4d260542937", null ],
-    [ "PrepareAuraScript", "db/d64/a25364.html#af65fc845e6625b1f0a4f4b88ba6db46e", null ],
-    [ "Register", "db/d64/a25364.html#acc5c7607ea7a23b66d1db6cb1a38833e", null ],
-    [ "Validate", "db/d64/a25364.html#a03621fd67cd9179ccc37a53c4d2056d9", null ]
+    [ "PrepareSpellScript", "db/d64/a25364.html#a2c88a98e1f76f62f745dbd83fa939506", null ],
+    [ "Register", "db/d64/a25364.html#a93dcf131a040c95ef1b8cc5ec1d3bc37", null ]
 ];

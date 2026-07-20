@@ -1,8 +1,12 @@
 var a18684 =
 [
-    [ "npc_lk_spirit_bombAI", "d9/d5a/a18684.html#a366fb54e68c0e603000183cd68daf6b7", null ],
-    [ "IsSummonedBy", "d9/d5a/a18684.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
-    [ "MovementInform", "d9/d5a/a18684.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
-    [ "UpdateAI", "d9/d5a/a18684.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
-    [ "timer", "d9/d5a/a18684.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
+    [ "npc_raging_spiritAI", "d9/d5a/a18684.html#a1c85351ae62d5f45381214373e64aec4", null ],
+    [ "AttackStart", "d9/d5a/a18684.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
+    [ "CanAIAttack", "d9/d5a/a18684.html#a64fa46f05861d8736d881aa3687f4320", null ],
+    [ "IsSummonedBy", "d9/d5a/a18684.html#a836d605f4320ba9fd49cb60d6a1e032d", null ],
+    [ "JustDied", "d9/d5a/a18684.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
+    [ "Reset", "d9/d5a/a18684.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
+    [ "UpdateAI", "d9/d5a/a18684.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
+    [ "_events", "d9/d5a/a18684.html#af5783316983b622f20d8c677f2858111", null ],
+    [ "_instance", "d9/d5a/a18684.html#aaa9b5728fcdb379849434385b3501251", null ]
 ];

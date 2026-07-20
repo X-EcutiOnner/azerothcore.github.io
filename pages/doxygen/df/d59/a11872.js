@@ -1,8 +1,7 @@
 var a11872 =
 [
-    [ "EffectHandler", "df/d59/a11872.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
-    [ "Call", "df/d59/a11872.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
-    [ "CheckEffect", "df/d59/a11872.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
-    [ "ToString", "df/d59/a11872.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
-    [ "pEffectHandlerScript", "df/d59/a11872.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
+    [ "DiminishDurationLimit", "df/d59/a11872.html#a18e94b40a8746c854b2fcca37ceb14f6", null ],
+    [ "DiminishGroup", "df/d59/a11872.html#ad48e4fbc6984602d0196accea51867de", null ],
+    [ "DiminishMaxLevel", "df/d59/a11872.html#a4b04f3f569b5b73d2f8a9eda429c3f5d", null ],
+    [ "DiminishReturnType", "df/d59/a11872.html#a64a6fc19521245f1145ab6c769175803", null ]
 ];

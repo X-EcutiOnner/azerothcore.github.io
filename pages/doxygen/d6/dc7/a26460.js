@@ -1,8 +1,7 @@
 var a26460 =
 [
-    [ "HandleProc", "d6/dc7/a26460.html#a95553bc0c973be3a2e3911602e4067c8", null ],
-    [ "PrepareAuraScript", "d6/dc7/a26460.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
-    [ "Register", "d6/dc7/a26460.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
-    [ "Validate", "d6/dc7/a26460.html#aad1324e94920136258c419094cfca4c3", null ],
-    [ "_cooldownEnd", "d6/dc7/a26460.html#a4f19a965ed8ddab712633abdb761d210", null ]
+    [ "CheckProc", "d6/dc7/a26460.html#a2052750b91de67b330a2ae6a190a5d4e", null ],
+    [ "HandleProc", "d6/dc7/a26460.html#a5b404a07ccb13cabf5fa6ab90db92129", null ],
+    [ "PrepareAuraScript", "d6/dc7/a26460.html#af16eec48ab0f469ca3cefd149bb0d925", null ],
+    [ "Register", "d6/dc7/a26460.html#a4f31c76184e4ae5bc03763e04cdac72e", null ]
 ];

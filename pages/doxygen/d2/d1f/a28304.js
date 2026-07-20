@@ -1,6 +1,7 @@
 var a28304 =
 [
-    [ "npc_necropolis_proxy", "d2/d1f/a28304.html#a73f92ee73673172989d48064e5984db0", null ],
-    [ "SpellHit", "d2/d1f/a28304.html#a90d1ab55683a6409403e24291643cca5", null ],
-    [ "SpellHitTarget", "d2/d1f/a28304.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
+    [ "npc_riggle_bassbaitAI", "d2/d1f/a28304.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "d2/d1f/a28304.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "d2/d1f/a28304.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "d2/d1f/a28304.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

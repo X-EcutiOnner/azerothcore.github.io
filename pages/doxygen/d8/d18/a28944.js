@@ -1,7 +1,5 @@
 var a28944 =
 [
-    [ "EpicPropertiesPoints", "d8/d18/a28944.html#a35dc60a15091357e03032226621340f7", null ],
-    [ "itemLevel", "d8/d18/a28944.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
-    [ "RarePropertiesPoints", "d8/d18/a28944.html#a9359171635ef3e9a0029820fad286368", null ],
-    [ "UncommonPropertiesPoints", "d8/d18/a28944.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
+    [ "Id", "d8/d18/a28944.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
+    [ "textid", "d8/d18/a28944.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
 ];

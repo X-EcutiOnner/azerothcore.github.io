@@ -1,7 +1,7 @@
 var a21944 =
 [
-    [ "HandleDummy", "d9/dcf/a21944.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "d9/dcf/a21944.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "d9/dcf/a21944.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "d9/dcf/a21944.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "Absorb", "d9/dcf/a21944.html#a784b48553696734abac77545df2fc045", null ],
+    [ "CalculateAmount", "d9/dcf/a21944.html#a456ee99a71062f6217bda7561e4e7766", null ],
+    [ "PrepareAuraScript", "d9/dcf/a21944.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
+    [ "Register", "d9/dcf/a21944.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
 ];

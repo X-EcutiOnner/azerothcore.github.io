@@ -1,7 +1,6 @@
 var a18044 =
 [
-    [ "OnPeriodic", "d0/d86/a18044.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
-    [ "PrepareAuraScript", "d0/d86/a18044.html#a0e87dae1be4f69e6412129f14056eb79", null ],
-    [ "Register", "d0/d86/a18044.html#a1b26d102252bf7e0fd480076820d343f", null ],
-    [ "Validate", "d0/d86/a18044.html#a211d52aa385a874730abc43b083f2d22", null ]
+    [ "IgbExplosionCheck", "d0/d86/a18044.html#ae67cca111f26a275614810cbe053bcd8", null ],
+    [ "operator()", "d0/d86/a18044.html#a28ce6685366e99db2aa1e4022012f943", null ],
+    [ "_source", "d0/d86/a18044.html#a413ee8f2218621d274d118aea967dc9b", null ]
 ];

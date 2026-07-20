@@ -1,6 +1,9 @@
 var a18920 =
 [
-    [ "npc_captain_grondelAI", "d7/d11/a18924.html", "d7/d11/a18924" ],
-    [ "npc_captain_grondel", "d1/d85/a18920.html#a54a53f8e3cde87405219c815a56d523c", null ],
-    [ "GetAI", "d1/d85/a18920.html#a2a7725e81294e80701b7742d2605ec00", null ]
+    [ "npc_gluttonous_abominationAI", "d1/d85/a18920.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
+    [ "JustDied", "d1/d85/a18920.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
+    [ "JustSummoned", "d1/d85/a18920.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
+    [ "Reset", "d1/d85/a18920.html#a45588181429a74ac024e0390c76fa57a", null ],
+    [ "UpdateAI", "d1/d85/a18920.html#a33ef03a9f005ff187493275a9c2683a7", null ],
+    [ "_events", "d1/d85/a18920.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
 ];

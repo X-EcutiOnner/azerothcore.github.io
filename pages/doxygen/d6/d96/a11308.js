@@ -1,7 +1,9 @@
 var a11308 =
 [
-    [ "MinimapPingClient", "d6/d96/a11308.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
-    [ "Read", "d6/d96/a11308.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
-    [ "MapX", "d6/d96/a11308.html#ad4ff3977c260035145d6acd00429d81e", null ],
-    [ "MapY", "d6/d96/a11308.html#abd8640cb98238f339218c3b945885c97", null ]
+    [ "WrapItem", "d6/d96/a11308.html#a7de705fe4ac1b4d71a6487533f40f2aa", null ],
+    [ "Read", "d6/d96/a11308.html#adcd87a65cc32bc0096b650a705de9a55", null ],
+    [ "GiftBag", "d6/d96/a11308.html#a45ebce1daa3de00eca9ff7fb352a9063", null ],
+    [ "GiftSlot", "d6/d96/a11308.html#acd6da351e2ad9108921e2d9c7b13e82b", null ],
+    [ "ItemBag", "d6/d96/a11308.html#a577a588900d74f22cfe67a1fbe82424b", null ],
+    [ "ItemSlot", "d6/d96/a11308.html#a6a4bd31c0d4b97a019caca716a79c073", null ]
 ];

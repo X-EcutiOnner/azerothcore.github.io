@@ -1,9 +1,5 @@
 var a22384 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "dc/d45/a22384.html#ada5f19c96bfe623b110389ede032ef53", null ],
-    [ "GetData", "dc/d45/a22384.html#ad876ebd581c470f5a3075129076bd1fb", null ],
-    [ "Initialize", "dc/d45/a22384.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
-    [ "OnCreatureCreate", "dc/d45/a22384.html#a118b4a7a7c872327ec2868c5b0417636", null ],
-    [ "OnUnitDeath", "dc/d45/a22384.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
-    [ "_ritualistsAliveCount", "dc/d45/a22384.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
+    [ "outdoorpvp_na_halaa_creatures", "dc/d45/a22384.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
+    [ "UpdateAI", "dc/d45/a22384.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
 ];

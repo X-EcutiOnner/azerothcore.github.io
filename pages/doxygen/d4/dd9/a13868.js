@@ -1,6 +1,6 @@
 var a13868 =
 [
-    [ "instance_uldaman_InstanceMapScript", "d6/d74/a13872.html", "d6/d74/a13872" ],
-    [ "instance_uldaman", "d4/dd9/a13868.html#a854807db729d15aa4a09aad051fe3bda", null ],
-    [ "GetInstanceScript", "d4/dd9/a13868.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
+    [ "HandlePeriodic", "d4/dd9/a13868.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
+    [ "PrepareAuraScript", "d4/dd9/a13868.html#a7ac99d626990f068a00f403847bfa6bc", null ],
+    [ "Register", "d4/dd9/a13868.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
 ];

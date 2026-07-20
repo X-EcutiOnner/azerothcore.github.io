@@ -1,7 +1,7 @@
 var a18460 =
 [
-    [ "TriggerWickedSpirit", "dc/d8d/a18460.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
-    [ "Execute", "dc/d8d/a18460.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
-    [ "_counter", "dc/d8d/a18460.html#a24b85a62208f881418f97b0a8cb10f27", null ],
-    [ "_owner", "dc/d8d/a18460.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
+    [ "HandleScript", "dc/d8d/a18460.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
+    [ "PrepareSpellScript", "dc/d8d/a18460.html#a7e6b56f426be7925255da3ebc239f909", null ],
+    [ "Register", "dc/d8d/a18460.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
+    [ "Validate", "dc/d8d/a18460.html#a86b4296eab73fc63b38558871f16a889", null ]
 ];

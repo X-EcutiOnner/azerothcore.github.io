@@ -1,5 +1,6 @@
 var a16956 =
 [
-    [ "boss_fjolaAI", "d9/d12/a16956.html#aa46fdff841d01f28ef50aa5363082f71", null ],
-    [ "JustSummoned", "d9/d12/a16956.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
+    [ "npc_toc_retro_paladinAI", "d4/da9/a16960.html", "d4/da9/a16960" ],
+    [ "npc_toc_retro_paladin", "d9/d12/a16956.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
+    [ "GetAI", "d9/d12/a16956.html#a1213c99792aa4362275bc827aa2f037e", null ]
 ];

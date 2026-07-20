@@ -1,13 +1,12 @@
 var a18864 =
 [
-    [ "npc_highlord_tirion_fordringAI", "df/d4f/a18864.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
-    [ "Reset", "df/d4f/a18864.html#a80051b1b2a663997304b1754a3f9ff25", null ],
-    [ "SetData", "df/d4f/a18864.html#a5642aab7afc50a7494c43ae7a130d571", null ],
-    [ "UpdateAI", "df/d4f/a18864.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
-    [ "_bolvarFordragon", "df/d4f/a18864.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
-    [ "_damnedKills", "df/d4f/a18864.html#a56e035884d2ab94629c133efc1fc8feb", null ],
-    [ "_events", "df/d4f/a18864.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
-    [ "_factionNPC", "df/d4f/a18864.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
-    [ "_instance", "df/d4f/a18864.html#acd16d6200b08df23576aa9ccbb060d31", null ],
-    [ "_theLichKing", "df/d4f/a18864.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
+    [ "npc_the_lich_king_controllerAI", "df/d4f/a18864.html#a211c370e9c370e00fba3c83e51738886", null ],
+    [ "AttackStart", "df/d4f/a18864.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
+    [ "DoAction", "df/d4f/a18864.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
+    [ "JustSummoned", "df/d4f/a18864.html#aa610e24316505165cbb826ff5bece5c5", null ],
+    [ "MoveInLineOfSight", "df/d4f/a18864.html#a0ee33ab5733c12163e92213376e893e4", null ],
+    [ "Reset", "df/d4f/a18864.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
+    [ "UpdateAI", "df/d4f/a18864.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
+    [ "_events", "df/d4f/a18864.html#a90c3d818318004c7c21ec66d4d080615", null ],
+    [ "_instance", "df/d4f/a18864.html#a480a284881ba5f56bc6222607bd01a76", null ]
 ];

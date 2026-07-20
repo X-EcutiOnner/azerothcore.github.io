@@ -1,14 +1,10 @@
 var a29320 =
 [
-    [ "SetUp", "d9/d87/a29320.html#a77eba369912e1969b3f049cb3a5c0ca4", null ],
-    [ "TearDown", "d9/d87/a29320.html#adc8da5178618fb9742ea60920560d6ff", null ],
-    [ "PERM_ADMIN_1", "d9/d87/a29320.html#afaa2c4b6a7112d04a95cd85143b0f4f0", null ],
-    [ "PERM_GM_1", "d9/d87/a29320.html#a378e309848a3ee8b3f0e610572ba6124", null ],
-    [ "PERM_MOD_1", "d9/d87/a29320.html#a05f115edd8aa321527de060f17c2e956", null ],
-    [ "PERM_PLAYER_1", "d9/d87/a29320.html#a2c61447c90608ed3b714ba4e28efca76", null ],
-    [ "PERM_PLAYER_2", "d9/d87/a29320.html#a31cc52a84454c48879c558f9698cd29b", null ],
-    [ "SEC_ADMINISTRATOR", "d9/d87/a29320.html#aaddb5fa0a6d385cda760eaf92a7f59b3", null ],
-    [ "SEC_GAMEMASTER", "d9/d87/a29320.html#ac922fc5904bb31a878f28a210b1a5740", null ],
-    [ "SEC_MODERATOR", "d9/d87/a29320.html#a82e9196ebe8fe4f4672abe9cfbc6f163", null ],
-    [ "SEC_PLAYER", "d9/d87/a29320.html#ad8c087c8b8503262387306039b44f09c", null ]
+    [ "BugfixVersion", "d9/d87/a29320.html#a461f8c749a874405584dc1fd3fe1d805", null ],
+    [ "Build", "d9/d87/a29320.html#a6cc7aff1b397df7333b9bb0003282abd", null ],
+    [ "HotfixVersion", "d9/d87/a29320.html#a0df61c036a57b8a3efde5d180dc38131", null ],
+    [ "MacHash", "d9/d87/a29320.html#ad59772e86371318fe975760e303fa7d9", null ],
+    [ "MajorVersion", "d9/d87/a29320.html#a0eb78564680f771e325536a0ab77382a", null ],
+    [ "MinorVersion", "d9/d87/a29320.html#a7140f7ef9540eff08fabf74ded68b9cc", null ],
+    [ "WindowsHash", "d9/d87/a29320.html#a96abd69a458dfc4363c4e545fc7fabab", null ]
 ];

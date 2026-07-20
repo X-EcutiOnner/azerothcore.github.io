@@ -1,6 +1,6 @@
 var a12580 =
 [
-    [ "RestoreAttack", "d5/dc3/a12580.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
-    [ "Execute", "d5/dc3/a12580.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
-    [ "_boss", "d5/dc3/a12580.html#a493ef909da834b0befd90f57f54fb10c", null ]
+    [ "boss_drektharAI", "d3/d39/a12584.html", "d3/d39/a12584" ],
+    [ "boss_drekthar", "d5/dc3/a12580.html#ac9296654b10191ac9d58219ba36f57b3", null ],
+    [ "GetAI", "d5/dc3/a12580.html#adeacbbc81ab675260c2cac1a6c76d3fe", null ]
 ];

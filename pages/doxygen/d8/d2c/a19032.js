@@ -1,7 +1,6 @@
 var a19032 =
 [
-    [ "HandleDummyLaunch", "d8/d2c/a19032.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
-    [ "PrepareSpellScript", "d8/d2c/a19032.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
-    [ "Register", "d8/d2c/a19032.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
-    [ "Validate", "d8/d2c/a19032.html#a577166695c1479e3730a70637bc18cf1", null ]
+    [ "npc_captain_brandonAI", "d8/d2c/a19032.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "d8/d2c/a19032.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "d8/d2c/a19032.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

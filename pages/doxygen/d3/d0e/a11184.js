@@ -1,8 +1,7 @@
 var a11184 =
 [
-    [ "SetRaidDifficulty", "d3/d0e/a11184.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
-    [ "Write", "d3/d0e/a11184.html#a3da812593b22ef506a9d61e16b5485d1", null ],
-    [ "Difficulty", "d3/d0e/a11184.html#a1952e2d54b77437731b693f4eace83ac", null ],
-    [ "IsInGroup", "d3/d0e/a11184.html#a8833543c4f179be97476a26152ec049b", null ],
-    [ "Unk", "d3/d0e/a11184.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
+    [ "GuildBankLogQueryResults", "d3/d0e/a11184.html#a878f9545b3141a327de85771de4f1779", null ],
+    [ "Write", "d3/d0e/a11184.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
+    [ "Entry", "d3/d0e/a11184.html#a5f3704df5311f06833c3243201d35930", null ],
+    [ "Tab", "d3/d0e/a11184.html#a214db612bb08e557dd41d3962c827dca", null ]
 ];

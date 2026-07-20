@@ -1,7 +1,6 @@
 var a17640 =
 [
-    [ "PeriodicTick", "d8/d6e/a17640.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
-    [ "PrepareAuraScript", "d8/d6e/a17640.html#ac1abcbe62887678adad0194fdf27825a", null ],
-    [ "Register", "d8/d6e/a17640.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
-    [ "Validate", "d8/d6e/a17640.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
+    [ "ShockVortexExplodeEvent", "d8/d6e/a17640.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "d8/d6e/a17640.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "d8/d6e/a17640.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

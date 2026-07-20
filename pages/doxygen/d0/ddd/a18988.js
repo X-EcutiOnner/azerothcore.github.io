@@ -1,7 +1,8 @@
 var a18988 =
 [
-    [ "Land", "d0/ddd/a18988.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
-    [ "PrepareSpellScript", "d0/ddd/a18988.html#a31e45adb87719c311fb5b94b2b744487", null ],
-    [ "Register", "d0/ddd/a18988.html#a652eca6ec8079b2835d911807857c8a8", null ],
-    [ "RemoveAliveTarget", "d0/ddd/a18988.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
+    [ "npc_rotting_frost_giantAI", "d0/ddd/a18988.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "d0/ddd/a18988.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "d0/ddd/a18988.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "d0/ddd/a18988.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "d0/ddd/a18988.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

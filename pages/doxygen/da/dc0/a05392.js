@@ -1,8 +1,8 @@
 var a05392 =
 [
-    [ "ComputeCell", "da/dc0/a05392.html#a32a8b5ab15a28fb06672fcf62ac63d1e", null ],
-    [ "isValid", "da/dc0/a05392.html#afe64d87e738675f1c8cb0fa6d440029c", null ],
-    [ "operator==", "da/dc0/a05392.html#a13e8b2fcda561f185777e4d8b48da3f5", null ],
-    [ "x", "da/dc0/a05392.html#a8435f7d7b8f529dfe397ada59e3405a1", null ],
-    [ "y", "da/dc0/a05392.html#af3d5ae020727d58286ef7725958063a9", null ]
+    [ "GModelRayCallback", "da/dc0/a05392.html#a39bc53ae3bf18800ea215a5a54568606", null ],
+    [ "operator()", "da/dc0/a05392.html#af0072bed861fb89a63c37fd72482ed42", null ],
+    [ "hit", "da/dc0/a05392.html#ad8861bd8f8c15ff9955c62f5cb1e13bf", null ],
+    [ "triangles", "da/dc0/a05392.html#a09ef515a1b16d184071e708ed9245b3d", null ],
+    [ "vertices", "da/dc0/a05392.html#af80815b123c6611f38e3d5b41e501546", null ]
 ];

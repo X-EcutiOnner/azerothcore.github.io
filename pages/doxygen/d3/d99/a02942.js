@@ -1,52 +1,36 @@
 var a02942 =
 [
-    [ "CharacterCustomizeFlags", "d3/d99/a02942.html#a3a8c2696b2e9a6bf9d90ce80438aa578", [
-      [ "CHAR_CUSTOMIZE_FLAG_NONE", "d3/d99/a02942.html#a3a8c2696b2e9a6bf9d90ce80438aa578a6f6dac768618381b22f3ab44ba494533", null ],
-      [ "CHAR_CUSTOMIZE_FLAG_CUSTOMIZE", "d3/d99/a02942.html#a3a8c2696b2e9a6bf9d90ce80438aa578aadb876a16cbe9fa5facd96601b6a4626", null ],
-      [ "CHAR_CUSTOMIZE_FLAG_FACTION", "d3/d99/a02942.html#a3a8c2696b2e9a6bf9d90ce80438aa578a70c1f08c7db8077b7cf4387b15320dbd", null ],
-      [ "CHAR_CUSTOMIZE_FLAG_RACE", "d3/d99/a02942.html#a3a8c2696b2e9a6bf9d90ce80438aa578a02cee8912e6f3e69aff23e8f2603dbd5", null ]
+    [ "DataHeaders", "d3/d99/a02942.html#a5b5ca0ae07e92e9cad54568049f06fce", null ],
+    [ "RegisterSethekkHallsCreatureAI", "d3/d99/a02942.html#a4d0e02e340e57e5ff9f0184f82b086d5", null ],
+    [ "SethekkHallsScriptName", "d3/d99/a02942.html#a96ebd14b5dafc2480cbdb13e0bc4b7ab", null ],
+    [ "eIds", "d3/d99/a02942.html#a69c4601e4dd1496f746404c6abe87291", [
+      [ "NPC_VOICE_OF_THE_RAVEN_GOD", "d3/d99/a02942.html#a69c4601e4dd1496f746404c6abe87291aad4ab883c15374d38bc38b0f71f0c86a", null ],
+      [ "NPC_ANZU", "d3/d99/a02942.html#a69c4601e4dd1496f746404c6abe87291af130c29d37cee0370ac78ac4be4e415f", null ],
+      [ "GO_IKISS_DOOR", "d3/d99/a02942.html#a69c4601e4dd1496f746404c6abe87291a7975fc4f8b3558e660375d98a9d0e54e", null ],
+      [ "GO_THE_TALON_KINGS_COFFER", "d3/d99/a02942.html#a69c4601e4dd1496f746404c6abe87291a7957c3a97be229f195e4375af7b06e2c", null ]
     ] ],
-    [ "CharacterFlags", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6de", [
-      [ "CHARACTER_FLAG_NONE", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dead5a7499a6c1f3eb27d35f01be67f400c", null ],
-      [ "CHARACTER_FLAG_UNK1", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea092d0044d3d9007a2b863daabc208179", null ],
-      [ "CHARACTER_FLAG_RESTING", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea267af6fcb89331e982cd0d210cb7686d", null ],
-      [ "CHARACTER_LOCKED_FOR_TRANSFER", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6deac53c54ed596141ee95313054fc0ef3e6", null ],
-      [ "CHARACTER_FLAG_UNK4", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea622731fb5fcaa439a008543afe91e0ae", null ],
-      [ "CHARACTER_FLAG_UNK5", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea657ec519983809e892b66a4bbcc420f9", null ],
-      [ "CHARACTER_FLAG_UNK6", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6deae7f3c8351b12fbd90cd6dd6b0070e3da", null ],
-      [ "CHARACTER_FLAG_UNK7", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dead47e923a1edb4d4671e9662a63d92994", null ],
-      [ "CHARACTER_FLAG_UNK8", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea7b52e8cea3f9c3167d92decd72098a3b", null ],
-      [ "CHARACTER_FLAG_UNK9", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6deab057f340ae5124c15001b623b6a394a6", null ],
-      [ "CHARACTER_FLAG_UNK10", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea498fa883ff24092e936e5177beebb785", null ],
-      [ "CHARACTER_FLAG_HIDE_HELM", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea66535a9bc1fcff584512d527a0e445ad", null ],
-      [ "CHARACTER_FLAG_HIDE_CLOAK", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea6cc2ad36253f710d071f6ac2f4d5d989", null ],
-      [ "CHARACTER_FLAG_UNK13", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dead6058e570765e54acdb0bad2ccc37cbe", null ],
-      [ "CHARACTER_FLAG_GHOST", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea5542926bc198b33f9a2bfa3f8e85f59f", null ],
-      [ "CHARACTER_FLAG_RENAME", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6deacb51a14db555ce9a87615b0aad13ea9c", null ],
-      [ "CHARACTER_FLAG_UNK16", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea8e36178c90ba01bda3e3cfb4f0acc26a", null ],
-      [ "CHARACTER_FLAG_UNK17", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dead045598a678f05d5a6e48657a2ff5454", null ],
-      [ "CHARACTER_FLAG_UNK18", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea52d3c6406ca1ca64d241da3aa0840494", null ],
-      [ "CHARACTER_FLAG_UNK19", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea20daaff29ba350494a4ac43cb371baa2", null ],
-      [ "CHARACTER_FLAG_UNK20", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea78d41c1489bfe1594e5b47b53f48dfcc", null ],
-      [ "CHARACTER_FLAG_UNK21", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6deaa040a897bd55c5a2bc0cbf54fa598bc0", null ],
-      [ "CHARACTER_FLAG_UNK22", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6deaefb3d9df73b012a574c9cd555df01617", null ],
-      [ "CHARACTER_FLAG_UNK23", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea93ff5e89a80da229bb8bb32c3347c1ec", null ],
-      [ "CHARACTER_FLAG_UNK24", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea493ef27dbee4dad8aa8d304ad45bff29", null ],
-      [ "CHARACTER_FLAG_LOCKED_BY_BILLING", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6deab0f9ad7514233fbaa1def50233bb8bfc", null ],
-      [ "CHARACTER_FLAG_DECLINED", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea6098faf3414ed441768bb232095b4d7e", null ],
-      [ "CHARACTER_FLAG_UNK27", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea3ffb56c9015b39dfd2c565a4959847aa", null ],
-      [ "CHARACTER_FLAG_UNK28", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dead435b5efb35339b5235a8122e465ef9e", null ],
-      [ "CHARACTER_FLAG_UNK29", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6deace4621701b17986236789bb2b7076e17", null ],
-      [ "CHARACTER_FLAG_UNK30", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea4403a51ec915d185419571435ae9d4ef", null ],
-      [ "CHARACTER_FLAG_UNK31", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6dea6dc33aaf3064bb368a764a60bcb4a6ba", null ],
-      [ "CHARACTER_FLAG_UNK32", "d3/d99/a02942.html#aaba5b1cb73e3834489f98e5f6f0fc6deaf4b59210a530d6a1c19fb816841c2258", null ]
+    [ "Encounters", "d3/d99/a02942.html#abf7d0c9385f088b09a017ee50e9db6ee", [
+      [ "DATA_DARKWEAVER_SYTH", "d3/d99/a02942.html#abf7d0c9385f088b09a017ee50e9db6eea6dbed6ec6697669d80047612efd58da9", null ],
+      [ "DATA_ANZU", "d3/d99/a02942.html#abf7d0c9385f088b09a017ee50e9db6eeac072367637c0d4080d6d25a349b54a54", null ],
+      [ "DATA_IKISS", "d3/d99/a02942.html#abf7d0c9385f088b09a017ee50e9db6eea354bfb39a3150d5f75a42abc68cbcc83", null ]
     ] ],
-    [ "GetAnyFactionTemplateForFaction", "d3/d99/a02942.html#aaf34abebbe803c845754a0b3d9d408f4", null ],
-    [ "copseReclaimDelay", "d3/d99/a02942.html#abc12a88106c15ea8ca079d4ddcf9c620", null ],
-    [ "FALL_DMG_EQU_INTERCEPT", "d3/d99/a02942.html#ac63379cd87b9dfd031f82a5dd4d8678d", null ],
-    [ "FALL_DMG_EQU_SLOPE", "d3/d99/a02942.html#ad4d1960f0531122cdfa132782de41164", null ],
-    [ "MIN_FALL_DMG_DIST", "d3/d99/a02942.html#ac6348ab1205dfbd9510236ae4f14d02e", null ],
-    [ "runeSlotTypes", "d3/d99/a02942.html#a3c9e0541a7758d9d6e543e883b89d62f", null ],
-    [ "SPELL_DIVINE_PROTECTION", "d3/d99/a02942.html#a1d068feb6f7e09d87a98c1eba867596e", null ],
-    [ "SPELL_GUST_OF_WIND", "d3/d99/a02942.html#a8f0bd87c555c2d2be08ec5d8d14bdfbd", null ]
+    [ "eTypes", "d3/d99/a02942.html#a31365a35c315c6cb485bcd31f5ba77fd", [
+      [ "DATA_MAGUS_TELESTRA_EVENT", "db/d49/a03737.html#a31365a35c315c6cb485bcd31f5ba77fda097adced7c95a2c9718c2c785bee7f83", null ],
+      [ "DATA_ANOMALUS_EVENT", "db/d49/a03737.html#a31365a35c315c6cb485bcd31f5ba77fdaaf86ee46d11b318ef5caffe5d123342a", null ],
+      [ "DATA_ORMOROK_EVENT", "db/d49/a03737.html#a31365a35c315c6cb485bcd31f5ba77fda521150b4f00d388d28870138ef89029a", null ],
+      [ "DATA_KERISTRASZA_EVENT", "db/d49/a03737.html#a31365a35c315c6cb485bcd31f5ba77fdacc731df49caf259ade6ae981d7b6fffa", null ],
+      [ "DATA_COMMANDER_EVENT", "db/d49/a03737.html#a31365a35c315c6cb485bcd31f5ba77fdaeec4cc47ddf1f8b45982ab9b09609204", null ],
+      [ "DATA_TELESTRA_ORB", "db/d49/a03737.html#a31365a35c315c6cb485bcd31f5ba77fda6070c92aa13cfc41ea707f2e4f317c49", null ],
+      [ "DATA_ANOMALUS_ORB", "db/d49/a03737.html#a31365a35c315c6cb485bcd31f5ba77fda7ca67e2df8f6c5ba3b64a58ffe838f79", null ],
+      [ "DATA_ORMOROK_ORB", "db/d49/a03737.html#a31365a35c315c6cb485bcd31f5ba77fda04925ab93b3def016402fa3d6c763cb8", null ],
+      [ "MAX_ENCOUNTERS", "db/d49/a03737.html#a31365a35c315c6cb485bcd31f5ba77fda9cfa5bdc17e1d5a590d300b530b36a25", null ],
+      [ "DATA_IKISSDOOREVENT", "d3/d99/a02942.html#a31365a35c315c6cb485bcd31f5ba77fda4254e5b20964fa4c45d7bed553c3cb95", null ],
+      [ "TYPE_ANZU_ENCOUNTER", "d3/d99/a02942.html#a31365a35c315c6cb485bcd31f5ba77fda7184f794bd903d92cba3eb6fa7297784", null ]
+    ] ],
+    [ "InstanceData", "d3/d99/a02942.html#a453c4190aaa5e59675ce6366d48c4778", [
+      [ "DATA_GO_TALON_KING_COFFER", "d3/d99/a02942.html#a453c4190aaa5e59675ce6366d48c4778a25477ff5678a4450f584b7e148c91101", null ],
+      [ "DATA_VOICE_OF_THE_RAVEN_GOD", "d3/d99/a02942.html#a453c4190aaa5e59675ce6366d48c4778a5c361f6d59a9c9ae12ada6ec074857c9", null ]
+    ] ],
+    [ "GetSethekkHallsAI", "d3/d99/a02942.html#a9b5213e8c6cd59c731bb4eaad803766d", null ],
+    [ "EncounterCount", "d3/d99/a02942.html#ae1fbcd81e7256d27efa0288994753839", null ]
 ];

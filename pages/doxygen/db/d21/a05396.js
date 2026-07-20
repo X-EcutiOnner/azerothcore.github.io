@@ -1,7 +1,7 @@
 var a05396 =
 [
-    [ "operator()", "db/d21/a05396.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
-    [ "closestEntity", "db/d21/a05396.html#ab377424b7edd0274f61967619700f841", null ],
-    [ "hitLocation", "db/d21/a05396.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
-    [ "hitNormal", "db/d21/a05396.html#a57f40f48c26829f7da9e48efd839d773", null ]
+    [ "WModelRayCallBack", "db/d21/a05396.html#ac234cf795a07aab6e456c608dd80bbea", null ],
+    [ "operator()", "db/d21/a05396.html#a8f658081b44bda2527aa568a139bfd14", null ],
+    [ "hit", "db/d21/a05396.html#a014e322fc087c2f07617361e0bc585e3", null ],
+    [ "models", "db/d21/a05396.html#aaad14391ed1379dc3c367e6e522b1150", null ]
 ];

@@ -1,6 +1,7 @@
 var a17620 =
 [
-    [ "PrepareSpellScript", "d7/d21/a17620.html#a37899f12707930d038de38bae92c9aff", null ],
-    [ "Register", "d7/d21/a17620.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
-    [ "SelectDest", "d7/d21/a17620.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
+    [ "HandlePeriodic", "d7/d21/a17620.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
+    [ "PrepareAuraScript", "d7/d21/a17620.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
+    [ "Register", "d7/d21/a17620.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
+    [ "Validate", "d7/d21/a17620.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
 ];

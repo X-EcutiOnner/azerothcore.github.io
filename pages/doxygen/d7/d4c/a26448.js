@@ -1,7 +1,6 @@
 var a26448 =
 [
-    [ "HandleProc", "d7/d4c/a26448.html#ac85ee0780894f16c8760ede0fa555bd8", null ],
-    [ "PrepareAuraScript", "d7/d4c/a26448.html#a6583928e441d418130df561962518deb", null ],
-    [ "Register", "d7/d4c/a26448.html#a9548fa0c523182c58e0dcc76b2db7f69", null ],
-    [ "Validate", "d7/d4c/a26448.html#a652e134d79d4e4a229b723c8d388cf5d", null ]
+    [ "CheckProc", "d7/d4c/a26448.html#a6d19e939f4145f4226f88777e37c7514", null ],
+    [ "PrepareAuraScript", "d7/d4c/a26448.html#a821456f72ba2f38ecc31040560ea155f", null ],
+    [ "Register", "d7/d4c/a26448.html#a63a0773da832d8490d952de35fe5a29d", null ]
 ];

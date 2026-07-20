@@ -1,6 +1,6 @@
 var a17968 =
 [
-    [ "IgbArtilleryCheck", "de/d77/a17968.html#a78b65928551ed799cf3f446f0603c50e", null ],
-    [ "operator()", "de/d77/a17968.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
-    [ "_entry", "de/d77/a17968.html#a98a6a0836414da82c288e372e982f69f", null ]
+    [ "npc_igb_ship_crewAI", "de/d77/a17968.html#a3ca741b305e3235b0521f094d7abe732", null ],
+    [ "CanAIAttack", "de/d77/a17968.html#a2c834dc151493957fc116865699ae7f5", null ],
+    [ "_instance", "de/d77/a17968.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
 ];

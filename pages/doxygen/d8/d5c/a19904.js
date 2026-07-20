@@ -1,6 +1,7 @@
 var a19904 =
 [
-    [ "HandlePeriodic", "d8/d5c/a19904.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "d8/d5c/a19904.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "d8/d5c/a19904.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "HandleScript", "d8/d5c/a19904.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
+    [ "PrepareSpellScript", "d8/d5c/a19904.html#a34337690029eedb60a17572dbbf1e1f9", null ],
+    [ "Register", "d8/d5c/a19904.html#ad554d79e1a98490085b22f5038d058da", null ],
+    [ "Validate", "d8/d5c/a19904.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
 ];

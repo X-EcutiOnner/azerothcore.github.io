@@ -1,7 +1,7 @@
 var a12848 =
 [
-    [ "HandleHit", "df/d4d/a12848.html#a18f86449945ade16140ee934a7d8703e", null ],
-    [ "PrepareSpellScript", "df/d4d/a12848.html#abaf09043858db27b05fbe544d7a15a8f", null ],
-    [ "Register", "df/d4d/a12848.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
-    [ "Validate", "df/d4d/a12848.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
+    [ "boss_ebonroc", "df/d4d/a12848.html#a74725561727d5bf0dd266f50d377c9c8", null ],
+    [ "JustEngagedWith", "df/d4d/a12848.html#a84250d1bc0986130404433c80162ecac", null ],
+    [ "MovementInform", "df/d4d/a12848.html#afa0e5ad6e2eb3d8df539266623dbffb4", null ],
+    [ "UpdateAI", "df/d4d/a12848.html#a8d7b9b681ae8c1e4102cb90456611732", null ]
 ];

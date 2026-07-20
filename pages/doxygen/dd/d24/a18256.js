@@ -1,7 +1,7 @@
 var a18256 =
 [
-    [ "HandleScript", "dd/d24/a18256.html#a37b261d0df2829788d8290a9194913f5", null ],
-    [ "PrepareSpellScript", "dd/d24/a18256.html#a69386dbef57322393a38eec90662135f", null ],
-    [ "Register", "dd/d24/a18256.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
-    [ "Validate", "dd/d24/a18256.html#a63c446574c700a895d7fbc5bb2b81508", null ]
+    [ "HandleScript", "dd/d24/a18256.html#afc76149cb44a4d2aab48350fb4392036", null ],
+    [ "PrepareSpellScript", "dd/d24/a18256.html#a8598de219c2402596fe97b5dd32c534e", null ],
+    [ "Register", "dd/d24/a18256.html#ac9d4842632431e52932f66d09042ea70", null ],
+    [ "ScaleRange", "dd/d24/a18256.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
 ];

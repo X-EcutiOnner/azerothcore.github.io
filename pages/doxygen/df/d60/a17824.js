@@ -1,20 +1,12 @@
 var a17824 =
 [
-    [ "npc_high_overlord_saurfang_igbAI", "df/d60/a17824.html#a1fce8cbcb5259774c0019c19bae334d0", null ],
-    [ "AttackStart", "df/d60/a17824.html#a7c04475d2de487a26aa3e7f58ad219e5", null ],
-    [ "CanAIAttack", "df/d60/a17824.html#a58b5476b42ea1d249cb3795da86509db", null ],
-    [ "DamageTaken", "df/d60/a17824.html#ae2715e5410ddf25734469594f72c7373", null ],
-    [ "DoAction", "df/d60/a17824.html#acf222bf3f1204215918e339d57e6ee37", null ],
-    [ "EnterEvadeMode", "df/d60/a17824.html#a8c66bcf54ba7d2c5a8d89a792e89fc8f", null ],
-    [ "JustEngagedWith", "df/d60/a17824.html#aa98690c2c7002915c72e68f9136a9ace", null ],
-    [ "SetData", "df/d60/a17824.html#ae3f9c7ef83cb3841f3081a5c8391ad85", null ],
-    [ "sGossipSelect", "df/d60/a17824.html#af3f71dfd8888a9d7eccdaff50315bea1", null ],
-    [ "UpdateAI", "df/d60/a17824.html#adf12312ee9a037b7cdbf384137a8ceb4", null ],
-    [ "_axethrowersYellCooldown", "df/d60/a17824.html#ad98e613c8d4625687f9ab16979d21707", null ],
-    [ "_controller", "df/d60/a17824.html#a259a8e82ed7a58f09d546fbcb317ea33", null ],
-    [ "_events", "df/d60/a17824.html#a132fc1f697d32c76c10766c71948fe01", null ],
-    [ "_firstMageCooldown", "df/d60/a17824.html#a984e2f3d3cf2b254717e2b4d1418216d", null ],
-    [ "_instance", "df/d60/a17824.html#aecb488fb2e2682c107072ea66d02ea8f", null ],
-    [ "_rocketeersYellCooldown", "df/d60/a17824.html#a0435dba6aff5287b1d10420a54a72d28", null ],
-    [ "checkTimer", "df/d60/a17824.html#a1c610a1cf0ba5a27aeb98d51dff916fa", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "df/d60/a17824.html#a4313164857ebd174fe33a9a16340b332", null ],
+    [ "DoAction", "df/d60/a17824.html#a16eeb7d0ed6c943c088285462131cd51", null ],
+    [ "MovementInform", "df/d60/a17824.html#a9a2e367f30ee16ca55e634de8e22551e", null ],
+    [ "Reset", "df/d60/a17824.html#ad5d5a9de05e472d24fe399b4de79a3d0", null ],
+    [ "SpellHit", "df/d60/a17824.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
+    [ "UpdateAI", "df/d60/a17824.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
+    [ "_events", "df/d60/a17824.html#ae7079b335373cc06a040756328e7f714", null ],
+    [ "_guardList", "df/d60/a17824.html#a1cbd87af34584979b37dfff8b29f9623", null ],
+    [ "_instance", "df/d60/a17824.html#af1d8694678b10e5393c658ba0b20f47a", null ]
 ];

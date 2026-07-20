@@ -1,5 +1,5 @@
 var a02561 =
 [
-    [ "SmartScript", "dc/d96/a06613.html", "dc/d96/a06613" ],
-    [ "SmartScript::SmartScriptFrame", "d5/d07/a06617.html", "d5/d07/a06617" ]
+    [ "ticket_commandscript", "dd/d28/a12548.html", "dd/d28/a12548" ],
+    [ "AddSC_ticket_commandscript", "d1/d67/a02561.html#ad71463f4442d2e022a92404a4d9dec76", null ]
 ];

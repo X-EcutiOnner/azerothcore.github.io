@@ -1,10 +1,6 @@
 var a12856 =
 [
-    [ "boss_golemagg", "d4/dde/a12856.html#ac7a23be0a51bd73b5c5b8215ba31412e", null ],
-    [ "DamageTaken", "d4/dde/a12856.html#acf0917a65764074ebb11d51cb537c2f5", null ],
-    [ "Reset", "d4/dde/a12856.html#ac663539bac3bcd858dfbfba6095172dd", null ],
-    [ "UpdateAI", "d4/dde/a12856.html#aa68a9ff1858591b65ad650c18954bdea", null ],
-    [ "earthquakeTimer", "d4/dde/a12856.html#ad581b8e54e08342041886b180c139db0", null ],
-    [ "enraged", "d4/dde/a12856.html#a27a5041fcf93a3da6fe2130af24de386", null ],
-    [ "pyroblastTimer", "d4/dde/a12856.html#aae54e1e74dd44329af4f66bf26b2e277", null ]
+    [ "boss_flamegor", "d4/dde/a12856.html#a721c23d631d305c102117566f609f10a", null ],
+    [ "JustEngagedWith", "d4/dde/a12856.html#aebbcd35868c64d2a0b1f660720f84575", null ],
+    [ "UpdateAI", "d4/dde/a12856.html#a086f8bd08ba22fff7e399bf9588cbffd", null ]
 ];

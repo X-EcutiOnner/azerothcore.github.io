@@ -1,7 +1,6 @@
 var a16552 =
 [
-    [ "CountAllies", "d9/d14/a16552.html#a207c1fd89fd726054a881e342391d2a0", null ],
-    [ "PrepareSpellScript", "d9/d14/a16552.html#ae1e230ad204a280a261ebe0f21c7f8a5", null ],
-    [ "Register", "d9/d14/a16552.html#a47574795b2a262625c65ab23a4179684", null ],
-    [ "Validate", "d9/d14/a16552.html#a0178e7c4f5509a4bb2c6ed3811fc9685", null ]
+    [ "npc_halion_controllerAI", "dd/dfd/a16556.html", "dd/dfd/a16556" ],
+    [ "npc_halion_controller", "d9/d14/a16552.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
+    [ "GetAI", "d9/d14/a16552.html#a3c5ea3f0597c070005744ea788a05383", null ]
 ];

@@ -1,5 +1,7 @@
 var a23308 =
 [
-    [ "spellId", "d7/d18/a23308.html#acc63d01d5095adef28b9746c520be973", null ],
-    [ "textId", "d7/d18/a23308.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
+    [ "OnApply", "d7/d18/a23308.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "d7/d18/a23308.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "d7/d18/a23308.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "d7/d18/a23308.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

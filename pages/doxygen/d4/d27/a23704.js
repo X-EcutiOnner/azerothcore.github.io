@@ -1,6 +1,6 @@
 var a23704 =
 [
-    [ "npc_ancestral_wolfAI", "d0/dd1/a23708.html", "d0/dd1/a23708" ],
-    [ "npc_ancestral_wolf", "d4/d27/a23704.html#a7cadf2848a086db63792f8068ee9463d", null ],
-    [ "GetAI", "d4/d27/a23704.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
+    [ "HandlePeriodic", "d4/d27/a23704.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
+    [ "PrepareAuraScript", "d4/d27/a23704.html#a75d72d196ded2ee109d0231d4342890a", null ],
+    [ "Register", "d4/d27/a23704.html#a148013ea68bbc573bddc1c3639dba019", null ]
 ];

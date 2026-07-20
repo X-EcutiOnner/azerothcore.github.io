@@ -1,6 +1,7 @@
 var a22596 =
 [
-    [ "boss_essence_of_angerAI", "d7/d40/a22600.html", "d7/d40/a22600" ],
-    [ "boss_essence_of_anger", "d4/dd5/a22596.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "d4/dd5/a22596.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "npc_blade_of_azzinoth", "d4/dd5/a22596.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d4/dd5/a22596.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d4/dd5/a22596.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d4/dd5/a22596.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

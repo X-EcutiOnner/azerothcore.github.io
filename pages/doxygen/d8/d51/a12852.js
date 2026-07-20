@@ -1,6 +1,6 @@
 var a12852 =
 [
-    [ "boss_gehennas", "d8/d51/a12852.html#ab533dfd33dfcc42b1c282340e77ed979", null ],
-    [ "ExecuteEvent", "d8/d51/a12852.html#aa11c5e8facc17b03220595a61045036f", null ],
-    [ "JustEngagedWith", "d8/d51/a12852.html#af4f3b198a1a606efe829376b4515c7bc", null ]
+    [ "boss_firemaw", "d8/d51/a12852.html#a2d2be691020b8aa81f82ffab91a86e42", null ],
+    [ "JustEngagedWith", "d8/d51/a12852.html#a63d0f449d04ad3d86f4ede9a0f9696a9", null ],
+    [ "UpdateAI", "d8/d51/a12852.html#a13a672cc37175615068429f9a3282e07", null ]
 ];

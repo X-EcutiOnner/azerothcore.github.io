@@ -1,4 +1,12 @@
 var a10680 =
 [
-    [ "DynamicObjectScript", "d2/ddd/a10680.html#a8bbdc4e8f2da8ab49b817ca5d7f89f6f", null ]
+    [ "ArenaScript", "d2/ddd/a10680.html#acba88d9008e08873f3f20b92d69e8912", null ],
+    [ "CanAddMember", "d2/ddd/a10680.html#aa85728dd471c2f4d58ed1794e741d060", null ],
+    [ "CanSaveArenaStatsForMember", "d2/ddd/a10680.html#a73719d3e62d1f7cf1f174292975f0f4f", null ],
+    [ "CanSaveToDB", "d2/ddd/a10680.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
+    [ "IsDatabaseBound", "d2/ddd/a10680.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
+    [ "OnArenaStart", "d2/ddd/a10680.html#ae67b000b16f56309da56f672a9f2b423", null ],
+    [ "OnBeforeArenaCheckWinConditions", "d2/ddd/a10680.html#a2b46190a3243f2306a74295975dca317", null ],
+    [ "OnBeforeArenaTeamMemberUpdate", "d2/ddd/a10680.html#a548ac21d5bd9be263935a298a3b5cd16", null ],
+    [ "OnGetPoints", "d2/ddd/a10680.html#a13b22ad00d3742589532e6e522258834", null ]
 ];

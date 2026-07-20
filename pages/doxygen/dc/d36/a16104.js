@@ -1,6 +1,6 @@
 var a16104 =
 [
-    [ "HandleSummon", "dc/d36/a16104.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "dc/d36/a16104.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "dc/d36/a16104.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "npc_tyrande_whisperwind", "dc/d36/a16104.html#af716e954e59221d26ee88032e895fa18", null ],
+    [ "JustDied", "dc/d36/a16104.html#a707f6167de4eafc6d81613d0edc29436", null ],
+    [ "UpdateAI", "dc/d36/a16104.html#a598bd2dec22715413dcbd7ed6ca3be3c", null ]
 ];

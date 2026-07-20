@@ -1,7 +1,6 @@
 var a18136 =
 [
-    [ "HandleScript", "d9/dd1/a18136.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "d9/dd1/a18136.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "d9/dd1/a18136.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "d9/dd1/a18136.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "npc_cult_adherentAI", "d3/dad/a18140.html", "d3/dad/a18140" ],
+    [ "npc_cult_adherent", "d9/dd1/a18136.html#a74496518cf30674044a4a8a166e4c345", null ],
+    [ "GetAI", "d9/dd1/a18136.html#a2bfe464c738c983b9539f9216cabd63a", null ]
 ];

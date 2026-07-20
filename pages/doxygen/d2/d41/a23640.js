@@ -1,6 +1,7 @@
 var a23640 =
 [
-    [ "npc_deaths_fel_cannonAI", "d2/d41/a23640.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
-    [ "Reset", "d2/d41/a23640.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
-    [ "UpdateAI", "d2/d41/a23640.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
+    [ "CastQuill", "d2/d41/a23640.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "d2/d41/a23640.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "d2/d41/a23640.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "d2/d41/a23640.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

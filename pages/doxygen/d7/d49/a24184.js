@@ -1,6 +1,8 @@
 var a24184 =
 [
-    [ "CheckProc", "d7/d49/a24184.html#afec3e119cb5ef12632b603225ccb5b8d", null ],
-    [ "PrepareAuraScript", "d7/d49/a24184.html#a2f42e70482f71a4c275f70897b90ed72", null ],
-    [ "Register", "d7/d49/a24184.html#a048f59b6b0d52232e3a953f173324fc2", null ]
+    [ "npc_pet_dk_ghoul", "d7/d49/a24184.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
+    [ "IsSummonedBy", "d7/d49/a24184.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
+    [ "JustDied", "d7/d49/a24184.html#a6095e3619b470283b9875b90e2805b54", null ],
+    [ "UpdateAI", "d7/d49/a24184.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
+    [ "_summonTargetGUID", "d7/d49/a24184.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
 ];

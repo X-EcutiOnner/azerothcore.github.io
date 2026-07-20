@@ -1,6 +1,6 @@
 var a14700 =
 [
-    [ "gameobjectId", "df/d50/a14700.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "df/d50/a14700.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "df/d50/a14700.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "HandleDummyEffect", "df/d50/a14700.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
+    [ "PrepareSpellScript", "df/d50/a14700.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
+    [ "Register", "df/d50/a14700.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
 ];

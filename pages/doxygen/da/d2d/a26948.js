@@ -1,11 +1,6 @@
 var a26948 =
 [
-    [ "AddTarget", "da/d2d/a26948.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
-    [ "HandleApply", "da/d2d/a26948.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
-    [ "HandleEffectPeriodic", "da/d2d/a26948.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
-    [ "HandleRemove", "da/d2d/a26948.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
-    [ "PrepareAuraScript", "da/d2d/a26948.html#abd535f756fae06c9fae613d69ef4e353", null ],
-    [ "Register", "da/d2d/a26948.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
-    [ "Validate", "da/d2d/a26948.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
-    [ "_targets", "da/d2d/a26948.html#ad2467bc150cb08766c57cca23d4d9843", null ]
+    [ "HandleDummy", "da/d2d/a26948.html#a39c913c3e3225a9b27d17d4ceadd3c70", null ],
+    [ "PrepareSpellScript", "da/d2d/a26948.html#a7936186af106ae3ddeec3bc9b39ff127", null ],
+    [ "Register", "da/d2d/a26948.html#aa8ce1f0413e19d8f6d403b220fc6749c", null ]
 ];

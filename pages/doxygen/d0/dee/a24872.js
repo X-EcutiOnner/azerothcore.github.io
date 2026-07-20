@@ -1,8 +1,9 @@
 var a24872 =
 [
-    [ "OnApply", "d0/dee/a24872.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
-    [ "OnRemove", "d0/dee/a24872.html#a3ced5941c25fce087699aa095cd487c9", null ],
-    [ "PrepareAuraScript", "d0/dee/a24872.html#a497776c6ffdda8670fa255b76057bf2c", null ],
-    [ "Register", "d0/dee/a24872.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
-    [ "Validate", "d0/dee/a24872.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
+    [ "spell_gen_select_target_count", "d0/dee/a24872.html#a65507c155a8746ff49c58c051b7868e4", null ],
+    [ "FilterTargets", "d0/dee/a24872.html#a5de89be9ce321a0f4ac49853a700b502", null ],
+    [ "PrepareSpellScript", "d0/dee/a24872.html#a42ddce15414dcdf495b572e0f75e9486", null ],
+    [ "Register", "d0/dee/a24872.html#a94f86992275123e2e3989655cf077efd", null ],
+    [ "_count", "d0/dee/a24872.html#acdf5daa848ae185b859c45a1271df68c", null ],
+    [ "_effTarget", "d0/dee/a24872.html#a9c54508790062277c8275d2466e93fb3", null ]
 ];

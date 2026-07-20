@@ -1,9 +1,6 @@
 var a12012 =
 [
-    [ "CreatureTextLocalizer", "d5/d54/a12012.html#a799f1007b9977224d71da1451c3454e1", null ],
-    [ "~CreatureTextLocalizer", "d5/d54/a12012.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
-    [ "operator()", "d5/d54/a12012.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
-    [ "_builder", "d5/d54/a12012.html#a1d8d97d3e423810d044a8155b182899d", null ],
-    [ "_msgType", "d5/d54/a12012.html#adf9260955b0141e85ff47c66350244e2", null ],
-    [ "_packetCache", "d5/d54/a12012.html#a660b352a1c1855f4b10a8aebef88133f", null ]
+    [ "DestinationTargetSelectHandler", "d5/d54/a12012.html#ab5ffcc89b7232afddd6bc47e7c347b79", null ],
+    [ "Call", "d5/d54/a12012.html#a81ae2eb856507ee22308ae2739854382", null ],
+    [ "DestinationTargetSelectHandlerScript", "d5/d54/a12012.html#a95e882b892a79b464a521a8367b2e9b7", null ]
 ];

@@ -1,9 +1,6 @@
 var a17904 =
 [
-    [ "CheckAreaTarget", "d1/d0e/a17904.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
-    [ "HandleApply", "d1/d0e/a17904.html#a9ce86d32957af07313af379b4176d0b3", null ],
-    [ "HandleRemove", "d1/d0e/a17904.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
-    [ "Load", "d1/d0e/a17904.html#aa10821981f3e80262850e5c46449d5d0", null ],
-    [ "PrepareAuraScript", "d1/d0e/a17904.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
-    [ "Register", "d1/d0e/a17904.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
+    [ "npc_stinky_iccAI", "d3/df6/a17908.html", "d3/df6/a17908" ],
+    [ "npc_stinky_icc", "d1/d0e/a17904.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
+    [ "GetAI", "d1/d0e/a17904.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
 ];

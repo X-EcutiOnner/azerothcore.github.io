@@ -1,7 +1,6 @@
 var a18188 =
 [
-    [ "CheckRequirement", "d3/d88/a18188.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
-    [ "CheckRequirementInternal", "d3/d88/a18188.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
-    [ "PrepareSpellScript", "d3/d88/a18188.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
-    [ "Register", "d3/d88/a18188.html#a95a250aeb3a41922c529f476d39f18e4", null ]
+    [ "npc_bone_spikeAI", "d4/d90/a18192.html", "d4/d90/a18192" ],
+    [ "npc_bone_spike", "d3/d88/a18188.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "d3/d88/a18188.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

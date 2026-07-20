@@ -1,7 +1,6 @@
 var a25988 =
 [
-    [ "HandleProc", "df/dfe/a25988.html#a7bf47ecb24b3427dda1980f68b41cfe8", null ],
-    [ "PrepareAuraScript", "df/dfe/a25988.html#a92468411049bd05eda99e676edefcf6e", null ],
-    [ "Register", "df/dfe/a25988.html#a32ca1fb3bb75fb98cb8aec38adf54325", null ],
-    [ "Validate", "df/dfe/a25988.html#a9a531733a3e7426a3bf6aa50ab86f4d9", null ]
+    [ "HandleDummy", "df/dfe/a25988.html#aeda7eba9ab0b80b549976a4db6e9712c", null ],
+    [ "PrepareSpellScript", "df/dfe/a25988.html#a251e93768ff684d1586286ce040a611b", null ],
+    [ "Register", "df/dfe/a25988.html#ad1d4fa3d7bda8f4354325cc4df623b65", null ]
 ];

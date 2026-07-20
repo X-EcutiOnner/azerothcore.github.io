@@ -1,13 +1,25 @@
 var a01724 =
 [
-    [ "OutdoorPvPGH", "d4/db8/a22333.html", "d4/db8/a22333" ],
-    [ "OPvPCapturePointGH", "d0/d75/a22337.html", "d0/d75/a22337" ],
-    [ "OutdoorPvPGHenum", "d3/d4c/a01724.html#a68fd4e51a6ab53a5f6bc93fe7800623b", [
-      [ "GH_ALLIANCE_DEFENSE_EVENT", "d3/d4c/a01724.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3", null ],
-      [ "GH_HORDE_DEFENSE_EVENT", "d3/d4c/a01724.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10", null ],
-      [ "GH_ZONE", "d3/d4c/a01724.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f", null ],
-      [ "GH_QUEST_KEEP_EM_ON_THEIR_HEELS", "d3/d4c/a01724.html#a68fd4e51a6ab53a5f6bc93fe7800623ba093fd7e4f043a87bac91a6d698f44b58", null ],
-      [ "GH_QUEST_KICK_EM_WHILE_THEYRE_DOWN", "d3/d4c/a01724.html#a68fd4e51a6ab53a5f6bc93fe7800623bab570a16e35f63643cd666e8e9c67dce6", null ],
-      [ "GH_CREATURE_QUEST_BUNNY", "d3/d4c/a01724.html#a68fd4e51a6ab53a5f6bc93fe7800623ba611910e455b02d10a37996956708a414", null ]
+    [ "PlayerDump", "d3/d78/a12176.html", "d3/d78/a12176" ],
+    [ "PlayerDumpWriter", "d5/de2/a12180.html", "d5/de2/a12180" ],
+    [ "PlayerDumpReader", "dd/d14/a12184.html", "dd/d14/a12184" ],
+    [ "DumpReturn", "d3/d4c/a01724.html#a4471667403db9bc7532f371d28743866", [
+      [ "DUMP_SUCCESS", "d3/d4c/a01724.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
+      [ "DUMP_FILE_OPEN_ERROR", "d3/d4c/a01724.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
+      [ "DUMP_TOO_MANY_CHARS", "d3/d4c/a01724.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
+      [ "DUMP_FILE_BROKEN", "d3/d4c/a01724.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
+      [ "DUMP_CHARACTER_DELETED", "d3/d4c/a01724.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ]
+    ] ],
+    [ "DumpTableType", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7ef", [
+      [ "DTT_CHARACTER", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
+      [ "DTT_CHAR_TABLE", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
+      [ "DTT_EQSET_TABLE", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
+      [ "DTT_INVENTORY", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
+      [ "DTT_MAIL", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
+      [ "DTT_MAIL_ITEM", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
+      [ "DTT_ITEM", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
+      [ "DTT_ITEM_GIFT", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
+      [ "DTT_PET", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
+      [ "DTT_PET_TABLE", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
     ] ]
 ];

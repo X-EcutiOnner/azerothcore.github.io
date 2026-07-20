@@ -1,6 +1,5 @@
 var a14904 =
 [
-    [ "HandleDummy", "da/d9c/a14904.html#aa75140309e66c28590a64e10676356da", null ],
-    [ "PrepareSpellScript", "da/d9c/a14904.html#a21c4872e16c18c2918dfbea366e61df3", null ],
-    [ "Register", "da/d9c/a14904.html#a841c9277224cbae878946deb288b87a1", null ]
+    [ "go_pumpkin_shrine", "da/d9c/a14904.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
+    [ "OnGossipSelect", "da/d9c/a14904.html#a35763a67d39c1d68974a9602ce26b699", null ]
 ];

@@ -1,9 +1,8 @@
 var a18616 =
 [
-    [ "HandleScript", "dd/d42/a18616.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
-    [ "Load", "dd/d42/a18616.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
-    [ "PrepareSpellScript", "dd/d42/a18616.html#a73931c9434114749b9db648665153083", null ],
-    [ "Register", "dd/d42/a18616.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
-    [ "SelectTarget", "dd/d42/a18616.html#a95be527c43ceeb4801f4e494753c1b59", null ],
-    [ "_target", "dd/d42/a18616.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
+    [ "FilterTargets", "dd/d42/a18616.html#a242fa53c2da9ac557623281bccf2af92", null ],
+    [ "HandleSendEvent", "dd/d42/a18616.html#a6120e057e2ee39d34eaeab79782add8d", null ],
+    [ "Load", "dd/d42/a18616.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
+    [ "PrepareSpellScript", "dd/d42/a18616.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
+    [ "Register", "dd/d42/a18616.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
 ];

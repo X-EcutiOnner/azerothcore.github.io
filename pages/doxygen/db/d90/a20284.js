@@ -1,6 +1,6 @@
 var a20284 =
 [
-    [ "HandleAfterEffectApply", "db/d90/a20284.html#af655bb31dc24a3cede08ca371f784913", null ],
-    [ "PrepareAuraScript", "db/d90/a20284.html#a1824853d0b369deac0745fabe2df657c", null ],
-    [ "Register", "db/d90/a20284.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
+    [ "FilterTargets", "db/d90/a20284.html#a977f0687005cdbd585be0704e5ce20d8", null ],
+    [ "PrepareSpellScript", "db/d90/a20284.html#a96f279fbc08f23f0b7e7f807dc0ddd7a", null ],
+    [ "Register", "db/d90/a20284.html#a1038ca2384a31671dab1d72e1232cfe1", null ]
 ];

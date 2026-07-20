@@ -1,8 +1,7 @@
 var a27784 =
 [
-    [ "FilterTargets", "db/dc3/a27784.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
-    [ "HandleEffect", "db/dc3/a27784.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
-    [ "PrepareSpellScript", "db/dc3/a27784.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
-    [ "Register", "db/dc3/a27784.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
-    [ "Validate", "db/dc3/a27784.html#aabc063155fad404ffd044c9f79b88051", null ]
+    [ "HandleDummy", "db/dc3/a27784.html#a120ae48454922c30b0df0a1caf464216", null ],
+    [ "PrepareSpellScript", "db/dc3/a27784.html#ad8cde850116b8d4beef798724c6e4283", null ],
+    [ "Register", "db/dc3/a27784.html#a516709e073a7cc84ada03058195da728", null ],
+    [ "Validate", "db/dc3/a27784.html#ad647af566f06c7e76ef573f670d514ca", null ]
 ];

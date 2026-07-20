@@ -1,10 +1,5 @@
 var a05292 =
 [
-    [ "AreaInfo", "dc/d2f/a05292.html#a1f45e5e030aaf5b16fb6c58097fa8b14", null ],
-    [ "adtId", "dc/d2f/a05292.html#a95c1c986b14dfeba867fa55e77553499", null ],
-    [ "flags", "dc/d2f/a05292.html#a780bdbb606fe694941d2105e14a29d70", null ],
-    [ "ground_Z", "dc/d2f/a05292.html#aca4fada3b2062f74cf66cd34a63c0c86", null ],
-    [ "groupId", "dc/d2f/a05292.html#a76ac6ccec6ff67f16689a6735e644e07", null ],
-    [ "result", "dc/d2f/a05292.html#ab9e9a7658d5fb76be208835f786036b0", null ],
-    [ "rootId", "dc/d2f/a05292.html#a6f60501d22be8c1d374a46e598d0f2e3", null ]
+    [ "clear", "dc/d2f/a05292.html#a69bc508845bc35319a6d8c51e562a5f9", null ],
+    [ "createOrGetVMapMgr", "dc/d2f/a05292.html#a80f01f24b27dd7a5a795c193d0816624", null ]
 ];

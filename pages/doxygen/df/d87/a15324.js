@@ -1,14 +1,10 @@
 var a15324 =
 [
-    [ "boss_ayamiss", "df/d87/a15324.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
-    [ "DoAction", "df/d87/a15324.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
-    [ "EnterEvadeMode", "df/d87/a15324.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
-    [ "JustDied", "df/d87/a15324.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
-    [ "JustEngagedWith", "df/d87/a15324.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
-    [ "JustSummoned", "df/d87/a15324.html#a4281f761256cd93c19aea0a76239512d", null ],
-    [ "MovementInform", "df/d87/a15324.html#a6bc1f0767785efb5a5fb005b49338032", null ],
-    [ "Reset", "df/d87/a15324.html#a10111f97236c2846181aa20f7d9b64fd", null ],
-    [ "ScheduleTasks", "df/d87/a15324.html#a166238b9395a426a7333cf71a38c6c5c", null ],
-    [ "_swarmers", "df/d87/a15324.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
-    [ "homePos", "df/d87/a15324.html#ab098ee0f8872d1cf9d34993c01971921", null ]
+    [ "boss_aeonus", "df/d87/a15324.html#af823ef2187b852dc72d2f63020e1701b", null ],
+    [ "IsSummonedBy", "df/d87/a15324.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
+    [ "JustDied", "df/d87/a15324.html#a649275c31e61f542a13fd791ee85277b", null ],
+    [ "JustEngagedWith", "df/d87/a15324.html#a5f193144e36a889630d5dbadb4aa665f", null ],
+    [ "JustReachedHome", "df/d87/a15324.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
+    [ "KilledUnit", "df/d87/a15324.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
+    [ "MoveInLineOfSight", "df/d87/a15324.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
 ];

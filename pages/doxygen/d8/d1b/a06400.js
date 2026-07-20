@@ -1,9 +1,10 @@
 var a06400 =
 [
-    [ "CasterAI", "d8/d1b/a06400.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
-    [ "AttackStart", "d8/d1b/a06400.html#a28386fd1a275c002445e5eaf90314a3d", null ],
-    [ "InitializeAI", "d8/d1b/a06400.html#a2a24cdc24b665c52363dae587572fc4d", null ],
-    [ "JustEngagedWith", "d8/d1b/a06400.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
-    [ "UpdateAI", "d8/d1b/a06400.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
-    [ "m_attackDist", "d8/d1b/a06400.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
+    [ "Storage", "d8/d1b/a06400.html#a49a70316b169e50ad64ff51d6a568bbc", null ],
+    [ "AchievementCriteriaDataSet", "d8/d1b/a06400.html#a5055f8710c48379035e132e8f20577dc", null ],
+    [ "Add", "d8/d1b/a06400.html#a297f02665679b19961998fb529d064e4", null ],
+    [ "Meets", "d8/d1b/a06400.html#a8edbe32d695308633fa7abfc91d2a1a1", null ],
+    [ "SetCriteriaId", "d8/d1b/a06400.html#addedfd39d9948923a2704b51eaacecbc", null ],
+    [ "_criteria_id", "d8/d1b/a06400.html#a0abc37729d2f3c400bb7cfde212f51c0", null ],
+    [ "_storage", "d8/d1b/a06400.html#a6abf189d95226b370cfcfe7b628ed7c0", null ]
 ];

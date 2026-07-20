@@ -1,10 +1,6 @@
 var a16468 =
 [
-    [ "spell_halion_marks_aura", "d1/dad/a16468.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
-    [ "BeforeDispel", "d1/dad/a16468.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
-    [ "OnRemove", "d1/dad/a16468.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
-    [ "PrepareAuraScript", "d1/dad/a16468.html#acd5285ea5c378b31526440d263c54770", null ],
-    [ "Register", "d1/dad/a16468.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
-    [ "_removeSpellId", "d1/dad/a16468.html#aeef9d928c6a8739337251e144558b169", null ],
-    [ "_summonSpellId", "d1/dad/a16468.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "da/d85/a16472.html", "da/d85/a16472" ],
+    [ "instance_obsidian_sanctum", "d1/dad/a16468.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "d1/dad/a16468.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

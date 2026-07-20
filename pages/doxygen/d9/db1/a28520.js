@@ -1,7 +1,6 @@
 var a28520 =
 [
-    [ "npc_steam_tonkAI", "d9/db1/a28520.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "d9/db1/a28520.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "d9/db1/a28520.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "d9/db1/a28520.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "CheckCast", "d9/db1/a28520.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
+    [ "PrepareSpellScript", "d9/db1/a28520.html#aa3c18907c79309a8924a98bce41e27f1", null ],
+    [ "Register", "d9/db1/a28520.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
 ];

@@ -1,4 +1,6 @@
 var a28288 =
 [
-    [ "go_necropolis", "d1/d0d/a28288.html#aef477499aefa5340db97538a8f3a3cca", null ]
+    [ "npc_taxi", "d1/d0d/a28288.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
+    [ "OnGossipHello", "d1/d0d/a28288.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
+    [ "OnGossipSelect", "d1/d0d/a28288.html#a5a7443abba8cf98a3073195177981edc", null ]
 ];

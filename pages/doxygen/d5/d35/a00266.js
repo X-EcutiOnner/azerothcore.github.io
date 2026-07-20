@@ -1,20 +1,20 @@
 var a00266 =
 [
-    [ "instance_blackwing_lair", "de/dca/a12913.html", "de/dca/a12913" ],
-    [ "spell_bwl_shadowflame", "d2/d46/a12917.html", "d2/d46/a12917" ],
-    [ "at_orb_of_command", "d2/dcd/a12921.html", "d2/dcd/a12921" ],
-    [ "orb_of_command_misc", "d5/d35/a00266.html#a5ddae3d5f11ae5a5d826e7e18d4cded5", [
-      [ "QUEST_BLACKHANDS_COMMAND", "d5/d35/a00266.html#a5ddae3d5f11ae5a5d826e7e18d4cded5ae1d5923d960c45957f7789ee3d943db5", null ]
-    ] ],
-    [ "ShadowFlame", "d5/d35/a00266.html#a18a82309d32c08f1de5944fde20789fa", [
-      [ "SPELL_ONYXIA_SCALE_CLOAK", "d5/d35/a00266.html#a18a82309d32c08f1de5944fde20789faa2f64e1a42a1d2fb4d6c849100de2c7d0", null ],
-      [ "SPELL_SHADOW_FLAME_DOT", "d5/d35/a00266.html#a18a82309d32c08f1de5944fde20789faaed2cf39ef97aea751e32c5249fc8fc3e", null ]
-    ] ],
-    [ "AddSC_instance_blackwing_lair", "d5/d35/a00266.html#a942a9ad3e1b872492dfc7d62615df103", null ],
-    [ "creatureData", "d5/d35/a00266.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d5/d35/a00266.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "Entry", "d5/d35/a00266.html#a79d118516d0621008a183666ffecc3ad", null ],
-    [ "objectData", "d5/d35/a00266.html#a59ddfa91084111da23b5d47482e4ff8d", null ],
-    [ "orbOfCommandTP", "d5/d35/a00266.html#a9ee49a7ad7d4b8e8f52533faa578370f", null ],
-    [ "SummonPosition", "d5/d35/a00266.html#a2c79c628fd8c60d02dc0b2368a70be04", null ]
+    [ "SpellProcDisableEffectsTest", "df/d20/a29780.html", "df/d20/a29780" ],
+    [ "TEST_F", "d5/d35/a00266.html#a83593ff4e5f0d4bbf17f3d89a11ad41b", null ],
+    [ "TEST_F", "d5/d35/a00266.html#ada6aa7946b5b1650643d1101a7b0a6a1", null ],
+    [ "TEST_F", "d5/d35/a00266.html#a209cf89313651785788473e379b84a84", null ],
+    [ "TEST_F", "d5/d35/a00266.html#ac0f559af209178724eb3126d61ad07d7", null ],
+    [ "TEST_F", "d5/d35/a00266.html#a1e3c33508c40282f4fc3283792e6e5a1", null ],
+    [ "TEST_F", "d5/d35/a00266.html#a69a9541f9f5c5bc76d328b5b496acea4", null ],
+    [ "TEST_F", "d5/d35/a00266.html#a82283c17501ab739171a9f29b6bfe746", null ],
+    [ "TEST_F", "d5/d35/a00266.html#a37a87cb84048c2080f4612acc24521b7", null ],
+    [ "TEST_F", "d5/d35/a00266.html#a168e46f935ad0b05479d64d810f07fac", null ],
+    [ "TEST_F", "d5/d35/a00266.html#a47cb30ee310f6abc71de51474bf4d02e", null ],
+    [ "TEST_F", "d5/d35/a00266.html#acf2364ee45cd14949ea8fa599d15207b", null ],
+    [ "TEST_F", "d5/d35/a00266.html#a6352b8a0e0c72a3f03d64c5faf35e62b", null ],
+    [ "TEST_F", "d5/d35/a00266.html#a8e4c6158dabe9042eea4f0aed6923dc7", null ],
+    [ "TEST_F", "d5/d35/a00266.html#a830a4559543ce06e92f37f1cfccea55e", null ],
+    [ "TEST_F", "d5/d35/a00266.html#a280de460557f0d5f4f03d2821c31ec8f", null ],
+    [ "TEST_F", "d5/d35/a00266.html#aca9a42766818ffc52919d66ab1017745", null ]
 ];

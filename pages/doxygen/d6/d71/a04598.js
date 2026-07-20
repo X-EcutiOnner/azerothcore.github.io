@@ -1,25 +1,16 @@
 var a04598 =
 [
-    [ "ABORT", "d6/d71/a04598.html#a5376571bbf4cdc9782683635f366f89a", null ],
-    [ "ASSERT", "d6/d71/a04598.html#af343b20373ba49a92fce523e948f2ab3", null ],
-    [ "ASSERT_NODEBUGINFO", "d6/d71/a04598.html#ae4aa5b88f8a0cd841e02343e63098f7a", null ],
-    [ "ASSERT_NOTNULL", "d6/d71/a04598.html#aee2b3b5656453513bc51a5979b247a67", null ],
-    [ "EXCEPTION_ASSERTION_FAILURE", "d6/d71/a04598.html#adb1e581c0b1db74338cf2892218ff23f", null ],
-    [ "WPAbort", "d6/d71/a04598.html#aab8761bc4b218ac84ad259cc6e0c1589", null ],
-    [ "WPAssert", "d6/d71/a04598.html#a6b3632c6657f3d1633b9a9707d9ede62", null ],
-    [ "WPAssert_NODEBUGINFO", "d6/d71/a04598.html#ab0566f9653ccc9fc0e174bda17fc5277", null ],
-    [ "WPError", "d6/d71/a04598.html#a7d9ea9088aab1556ba6739861998001a", null ],
-    [ "WPFatal", "d6/d71/a04598.html#a47d51826ca35c49a890b7bc2ad6818ea", null ],
-    [ "WPWarning", "d6/d71/a04598.html#afbbc90bf1881f7811a1022e7af350b47", null ],
-    [ "Abort", "d6/d71/a04598.html#a257b055b35d21943eb2a144cccd26429", null ],
-    [ "Abort", "d6/d71/a04598.html#af8c8ba5d8126e10ea9f5d86e8a9e742b", null ],
-    [ "AbortHandler", "d6/d71/a04598.html#ad49ea597ac6ffd8eb9ae06bab8c38b43", null ],
-    [ "Assert", "d6/d71/a04598.html#aaacb53f863e011c7d879e93567268109", null ],
-    [ "Assert", "d6/d71/a04598.html#a1990519ae97867f1a629699d00874fb2", null ],
-    [ "ASSERT_NOTNULL_IMPL", "d6/d71/a04598.html#aa8e391e13264a7b2f29f66832263afcf", null ],
-    [ "Error", "d6/d71/a04598.html#af222a0bd205c0bcecd8a7b6554137e33", null ],
-    [ "Fatal", "d6/d71/a04598.html#a07aa40e12479c740872d1ad7f55acbbc", null ],
-    [ "Fatal", "d6/d71/a04598.html#af4a5b364827068eb978fa1a1fff5770f", null ],
-    [ "GetDebugInfo", "d6/d71/a04598.html#a4dc49effc31d570798463c106549b1cb", null ],
-    [ "Warning", "d6/d71/a04598.html#ab1b23d9277c7dd8d381753ec943ad1bc", null ]
+    [ "DBCFileLoader", "db/d2d/a05520.html", "db/d2d/a05520" ],
+    [ "DBCFileLoader::Record", "d7/d66/a05524.html", "d7/d66/a05524" ],
+    [ "DbcFieldFormat", "d6/d71/a04598.html#a969264ba91452f632e809db524c68960", [
+      [ "FT_NA", "d6/d71/a04598.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c", null ],
+      [ "FT_NA_BYTE", "d6/d71/a04598.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c", null ],
+      [ "FT_STRING", "d6/d71/a04598.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29", null ],
+      [ "FT_FLOAT", "d6/d71/a04598.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a", null ],
+      [ "FT_INT", "d6/d71/a04598.html#a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a", null ],
+      [ "FT_BYTE", "d6/d71/a04598.html#a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095", null ],
+      [ "FT_SORT", "d6/d71/a04598.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642", null ],
+      [ "FT_IND", "d6/d71/a04598.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036", null ],
+      [ "FT_LOGIC", "d6/d71/a04598.html#a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc", null ]
+    ] ]
 ];

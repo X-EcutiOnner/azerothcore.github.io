@@ -1,9 +1,13 @@
 var a14552 =
 [
-    [ "HandleEffectPeriodic", "d2/d78/a14552.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
-    [ "HandleEffectRemove", "d2/d78/a14552.html#a96ed7366e568b70e82d622586740aa56", null ],
-    [ "Load", "d2/d78/a14552.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
-    [ "PrepareAuraScript", "d2/d78/a14552.html#abd1f851112a50b79e815cdd894275bab", null ],
-    [ "Register", "d2/d78/a14552.html#aa3cd85aed063017c4737e7660fa81f37", null ],
-    [ "questTick", "d2/d78/a14552.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
+    [ "npc_ohganAI", "d2/d78/a14552.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
+    [ "JustDied", "d2/d78/a14552.html#a89e506868e3191362545e34d21528b8f", null ],
+    [ "JustEngagedWith", "d2/d78/a14552.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
+    [ "KilledUnit", "d2/d78/a14552.html#a4e202eef928e54bd52160705bba5cc35", null ],
+    [ "Reset", "d2/d78/a14552.html#ac3e1bc9dc819138741eb3b4448051547", null ],
+    [ "SetGUID", "d2/d78/a14552.html#a575531a144c46ae3084e56e452125f16", null ],
+    [ "UpdateAI", "d2/d78/a14552.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
+    [ "_scheduler", "d2/d78/a14552.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
+    [ "instance", "d2/d78/a14552.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
+    [ "reviveGUID", "d2/d78/a14552.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
 ];

@@ -1,7 +1,5 @@
 var a13228 =
 [
-    [ "HandleDummy", "d1/dd7/a13228.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
-    [ "PrepareSpellScript", "d1/dd7/a13228.html#a5738144c85424e11f33aada38273e24e", null ],
-    [ "Register", "d1/dd7/a13228.html#a206a4d40e082246193ba36c9080cdac1", null ],
-    [ "Validate", "d1/dd7/a13228.html#a0718461731d563d2c948848f60101d49", null ]
+    [ "at_karazhan_mirkblood_entrance", "d1/dd7/a13228.html#aa5537dc8616c1f748b6be4b1e2870ca7", null ],
+    [ "OnTrigger", "d1/dd7/a13228.html#ad99c85de36a369752fa61bab761a402e", null ]
 ];

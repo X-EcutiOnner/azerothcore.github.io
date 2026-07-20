@@ -1,6 +1,5 @@
 var a15836 =
 [
-    [ "npcs_riverbreeze_and_silversky", "d7/db2/a15836.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
-    [ "OnGossipHello", "d7/db2/a15836.html#a7de032322a37f929c316aadfdadda768", null ],
-    [ "OnGossipSelect", "d7/db2/a15836.html#a93c7b159dda733da5030de747bad30b5", null ]
+    [ "go_bristlelimb_cage", "d7/db2/a15836.html#ab965b9c529577a5e58639285fa35d3d7", null ],
+    [ "OnGossipHello", "d7/db2/a15836.html#a6f29e07550767c1c0610f46e4921503f", null ]
 ];

@@ -1,8 +1,6 @@
 var a23768 =
 [
-    [ "npc_captain_saeedAI", "dc/d74/a23772.html", "dc/d74/a23772" ],
-    [ "npc_captain_saeed", "d4/d76/a23768.html#a8a5bee9f908b10451b8d4720dff85670", null ],
-    [ "GetAI", "d4/d76/a23768.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
-    [ "OnGossipHello", "d4/d76/a23768.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
-    [ "OnGossipSelect", "d4/d76/a23768.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
+    [ "HandleAfterRemove", "d4/d76/a23768.html#ac9756a8f206c114ff6443331ca266184", null ],
+    [ "PrepareAuraScript", "d4/d76/a23768.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
+    [ "Register", "d4/d76/a23768.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
 ];

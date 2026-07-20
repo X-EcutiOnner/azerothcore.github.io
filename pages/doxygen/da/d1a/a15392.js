@@ -1,6 +1,7 @@
 var a15392 =
 [
-    [ "go_ossirian_crystalAI", "d0/ddb/a15396.html", "d0/ddb/a15396" ],
-    [ "go_ossirian_crystal", "da/d1a/a15392.html#a783f0f0570ee0f667920e29613b565b2", null ],
-    [ "GetAI", "da/d1a/a15392.html#a2f7b12eddc6504917614913e347ec0a0", null ]
+    [ "npc_onyxian_lair_guard", "da/d1a/a15392.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "da/d1a/a15392.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "da/d1a/a15392.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "da/d1a/a15392.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

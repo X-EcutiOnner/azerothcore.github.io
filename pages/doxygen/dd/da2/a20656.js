@@ -1,15 +1,12 @@
 var a20656 =
 [
-    [ "boss_yoggsaron_cloud", "dd/da2/a20656.html#a4efbeab85d5770784f1474176a23fd74", null ],
-    [ "AttackStart", "dd/da2/a20656.html#a280ad77f30f06c01ee16434794814767", null ],
-    [ "DoAction", "dd/da2/a20656.html#ad7452d20420fc1fc30088e455a9cdfc3", null ],
-    [ "InitWaypoint", "dd/da2/a20656.html#a390c25b21c29aafb616bd2c827352ffe", null ],
-    [ "JustSummoned", "dd/da2/a20656.html#a2c321419548e8ce151d639c3fbd7b1b4", null ],
-    [ "MoveInLineOfSight", "dd/da2/a20656.html#a798009bca30677a645529b1313cc89ae", null ],
-    [ "Reset", "dd/da2/a20656.html#ad548ae65a05f600487a57899760ebab0", null ],
-    [ "UpdateEscortAI", "dd/da2/a20656.html#aba8043fca75864e583da9c5167efce3b", null ],
-    [ "WaypointReached", "dd/da2/a20656.html#aae9f3ac55a3008fcc88d78c907056827", null ],
+    [ "boss_thorim_lightning_orb", "dd/da2/a20656.html#a04d4de44a41e62d6c1c4c68d3064a861", null ],
+    [ "AttackStart", "dd/da2/a20656.html#a8e512ec039d93b1ceb7a2b8ee556fa56", null ],
+    [ "EnterEvadeMode", "dd/da2/a20656.html#a855df9994de0901e56ac6f84d71ab7e4", null ],
+    [ "InitWaypoint", "dd/da2/a20656.html#a46a7a73cb200d7bbaa7f38871c765254", null ],
+    [ "MoveInLineOfSight", "dd/da2/a20656.html#a3577618ff9d5bdea191d840b6c968fad", null ],
+    [ "Reset", "dd/da2/a20656.html#adeefc7cd014021305b77cc9c52102ce6", null ],
+    [ "WaypointReached", "dd/da2/a20656.html#a3948ca0a57befa16e15e0d6ab97a0cbe", null ],
     [ "WaypointReached", "dd/da2/a20656.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_checkTimer", "dd/da2/a20656.html#aa6fda2f2b1d3405bd1aca66e37abbcd8", null ],
-    [ "_isSummoning", "dd/da2/a20656.html#a339bf4c5ef6449d42aa3c36759a99aa4", null ]
+    [ "Timer", "dd/da2/a20656.html#a79c24c42364c9932199ece2775f7a7f2", null ]
 ];

@@ -1,6 +1,8 @@
 var a18944 =
 [
-    [ "npc_impaling_spearAI", "d7/de0/a18948.html", "d7/de0/a18948" ],
-    [ "npc_impaling_spear", "dd/dfe/a18944.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
-    [ "GetAI", "dd/dfe/a18944.html#aad49164a3e7541b755c1c622b996bb9a", null ]
+    [ "FilterTargets", "dd/dfe/a18944.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
+    [ "HandleForceCast", "dd/dfe/a18944.html#ae783cf255be823bf7c9125f288479e97", null ],
+    [ "Load", "dd/dfe/a18944.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
+    [ "PrepareSpellScript", "dd/dfe/a18944.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
+    [ "Register", "dd/dfe/a18944.html#a454a8909be4bb85f255ea696041ea447", null ]
 ];

@@ -1,7 +1,7 @@
 var a12904 =
 [
-    [ "HandleScript", "d0/de2/a12904.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
-    [ "PrepareSpellScript", "d0/de2/a12904.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
-    [ "Register", "d0/de2/a12904.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
-    [ "Validate", "d0/de2/a12904.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
+    [ "HandleDummy", "d0/de2/a12904.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
+    [ "PrepareSpellScript", "d0/de2/a12904.html#a5308de47023b89e4ff8680158a502ac0", null ],
+    [ "Register", "d0/de2/a12904.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
+    [ "Validate", "d0/de2/a12904.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
 ];

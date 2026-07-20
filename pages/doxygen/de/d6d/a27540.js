@@ -1,10 +1,9 @@
 var a27540 =
 [
-    [ "CheckProc", "de/d6d/a27540.html#a68a559c46266fc7337f7d56bb66af542", null ],
-    [ "HandleProc", "de/d6d/a27540.html#a69cdd92cea54ec5bf11f6011578b2338", null ],
-    [ "Load", "de/d6d/a27540.html#ad571b0d2f47cff037030d7a8184f60fd", null ],
-    [ "PrepareAuraScript", "de/d6d/a27540.html#aa20e2911e60f3ae7a9dcceee8f96b6ef", null ],
-    [ "Register", "de/d6d/a27540.html#a8af18925b317c717fcd6b2fae14a16e4", null ],
-    [ "Validate", "de/d6d/a27540.html#ac0cf25901d70e37bb887b3baa38790b5", null ],
-    [ "_procTarget", "de/d6d/a27540.html#ad48f21d3a45e97857265e6047f253910", null ]
+    [ "CheckCast", "de/d6d/a27540.html#a846862b62f5750801cd804133f290d5d", null ],
+    [ "HandleDummy", "de/d6d/a27540.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
+    [ "Load", "de/d6d/a27540.html#acec7437ba80e4ae491020448a36e4559", null ],
+    [ "PrepareSpellScript", "de/d6d/a27540.html#ab5e281028c009a4b317111de9a0a17e3", null ],
+    [ "Register", "de/d6d/a27540.html#a865fa526f2131703a668e113ba0d7849", null ],
+    [ "Validate", "de/d6d/a27540.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
 ];

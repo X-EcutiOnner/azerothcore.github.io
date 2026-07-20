@@ -1,8 +1,22 @@
 var a14364 =
 [
-    [ "FilterTargets", "df/dad/a14364.html#a28450a72f3d8510bdf35390f56a67f71", null ],
-    [ "HandleScriptEffect", "df/dad/a14364.html#af97c3c43da4b099bc37e2cf4f2733dce", null ],
-    [ "PrepareSpellScript", "df/dad/a14364.html#ac9298a59bc8b9735c210b630c68a536e", null ],
-    [ "Register", "df/dad/a14364.html#a3bfc71bb504a0eb0f63ff307c943c23e", null ],
-    [ "Validate", "df/dad/a14364.html#a41b2f12ebf919b781fdefab3a42bdb84", null ]
+    [ "instance_zulaman_InstanceMapScript", "df/dad/a14364.html#a55a0c486845dc63865cf557271304c20", null ],
+    [ "CheckInstanceStatus", "df/dad/a14364.html#a195e4175f943bfaf42ded378cde928e4", null ],
+    [ "DoAction", "df/dad/a14364.html#ad5eed417fb2a38a1b02bc6275e9f229a", null ],
+    [ "GetData", "df/dad/a14364.html#ad6c1123183e28dd91f78a993a79bf3e8", null ],
+    [ "Initialize", "df/dad/a14364.html#a070925eb76b8af866819844411da1beb", null ],
+    [ "OnCreatureCreate", "df/dad/a14364.html#a92d7ca86c2ecbad6a64a2bc7131b7260", null ],
+    [ "OnCreatureEvade", "df/dad/a14364.html#a654947f2b1dce457f56327e7dff8ccf4", null ],
+    [ "OnGameObjectCreate", "df/dad/a14364.html#a4545b6c8ff9e9908466ce105b484ef70", null ],
+    [ "OnPlayerEnter", "df/dad/a14364.html#a1cf2834e928692c69fdfcf7ae8910745", null ],
+    [ "OnUnitDeath", "df/dad/a14364.html#a5cb0702b7cad42f0760d360dfc3345f3", null ],
+    [ "ResetAkilzonGauntlet", "df/dad/a14364.html#a1623080f2466aeca03f048decc34bdb5", null ],
+    [ "SetBossState", "df/dad/a14364.html#a79b3f358115fecb63e1cfb45801fdffb", null ],
+    [ "SetData", "df/dad/a14364.html#a7381d84943028f66b339168724b467b8", null ],
+    [ "StartAkilzonGauntlet", "df/dad/a14364.html#a16b67dce6407db52ec7571c9bbc9f8c5", null ],
+    [ "SummonHostage", "df/dad/a14364.html#a907b3f4a59cbd366f702daeffe05d607", null ],
+    [ "Update", "df/dad/a14364.html#a826800c63083d2af31847118c8b05e57", null ],
+    [ "_akilzonGauntlet", "df/dad/a14364.html#a57cf874e315f0f9686b684151c37e740", null ],
+    [ "AkilzonTrash", "df/dad/a14364.html#a9f2fc91191dfaac5218f95fed71e2bcf", null ],
+    [ "RandVendor", "df/dad/a14364.html#ae1e7cad436566533b7673438884e6210", null ]
 ];

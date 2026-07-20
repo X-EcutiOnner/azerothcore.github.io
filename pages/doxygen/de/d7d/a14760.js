@@ -1,8 +1,8 @@
 var a14760 =
 [
-    [ "npc_hallows_end_train_fire", "de/d7d/a14760.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
-    [ "Reset", "de/d7d/a14760.html#afdda52e0adce23f56fa9d1357469a17d", null ],
-    [ "SpellHit", "de/d7d/a14760.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
-    [ "UpdateAI", "de/d7d/a14760.html#a686a565e1743c31166d8d57f67a0adce", null ],
-    [ "timer", "de/d7d/a14760.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
+    [ "OnApply", "de/d7d/a14760.html#a6f3f05316f025ef638672a82cc855136", null ],
+    [ "PeriodicTick", "de/d7d/a14760.html#a051d292f9483e6b82d773fba3ab52460", null ],
+    [ "PrepareAuraScript", "de/d7d/a14760.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
+    [ "Register", "de/d7d/a14760.html#a0004de73250b8523db2b9ab714c8a246", null ],
+    [ "Validate", "de/d7d/a14760.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
 ];

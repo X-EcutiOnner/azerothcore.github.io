@@ -1,6 +1,6 @@
 var a13452 =
 [
-    [ "boss_kirtonos_the_heraldAI", "db/dba/a13456.html", "db/dba/a13456" ],
-    [ "boss_kirtonos_the_herald", "d9/d20/a13452.html#a0e81153a0da7910cda4c9b6d32544318", null ],
-    [ "GetAI", "d9/d20/a13452.html#aa5e0fe2386aae52fd53ff309282db652", null ]
+    [ "HandleScriptEffect", "d9/d20/a13452.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
+    [ "PrepareSpellScript", "d9/d20/a13452.html#ad110e0dba330acde845c47501256cf5d", null ],
+    [ "Register", "d9/d20/a13452.html#ab6971aa466055a1280cd258e26645157", null ]
 ];

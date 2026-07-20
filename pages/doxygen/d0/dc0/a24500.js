@@ -1,7 +1,11 @@
 var a24500 =
 [
-    [ "FilterTargets", "d0/dc0/a24500.html#af6daf7022fc4cd18909056089c249c8a", null ],
-    [ "HandleDummy", "d0/dc0/a24500.html#ab8f8fec8c95f471a04d642fa0dcbe3e6", null ],
-    [ "PrepareSpellScript", "d0/dc0/a24500.html#a3ec1d43d3eb6ecca128ddda3c0f81efc", null ],
-    [ "Register", "d0/dc0/a24500.html#ae662a050ce4cac47b6bd0d0b0c5b1e16", null ]
+    [ "CalcPeriodic", "d0/dc0/a24500.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
+    [ "CalculateAPAmount", "d0/dc0/a24500.html#ab23f26c3470f629f0a20f28faf272a68", null ],
+    [ "CalculateHealthAmount", "d0/dc0/a24500.html#a4f827a906ac279e143ba8545545090ad", null ],
+    [ "CalculateSPAmount", "d0/dc0/a24500.html#ae94493ffed217a218e21c05e002cec00", null ],
+    [ "HandleEffectApply", "d0/dc0/a24500.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
+    [ "HandlePeriodic", "d0/dc0/a24500.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
+    [ "PrepareAuraScript", "d0/dc0/a24500.html#a5052689d815e0a0543693b39b7454deb", null ],
+    [ "Register", "d0/dc0/a24500.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
 ];

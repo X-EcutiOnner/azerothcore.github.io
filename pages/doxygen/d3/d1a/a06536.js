@@ -1,4 +1,5 @@
 var a06536 =
 [
-    [ "operator()", "d3/d1a/a06536.html#a0df1b4334b4be5fabe6bf0061b24e8f6", null ]
+    [ "SimpleCharmedAI", "d3/d1a/a06536.html#ada8d12d7df75dca5c87c633348d1b27b", null ],
+    [ "UpdateAI", "d3/d1a/a06536.html#a5e2c8ae6b601b7fcc36f8c2c49bcd9a6", null ]
 ];

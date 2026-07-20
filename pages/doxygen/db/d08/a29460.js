@@ -1,12 +1,21 @@
 var a29460 =
 [
-    [ "EnsureScriptRegistriesInitialized", "db/d08/a29460.html#a4238366c75dd8889993888e4e8bce5a2", null ],
-    [ "SetUp", "db/d08/a29460.html#a236c5547ff9855b39315642ec2e79c4e", null ],
-    [ "SimulateGmVisibleOff", "db/d08/a29460.html#a9276b43219f395a537a0ee51ab00905c", null ],
-    [ "SimulateGmVisibleOn", "db/d08/a29460.html#afc09b0c8806fbf445e25f8f194a8228b", null ],
-    [ "TearDown", "db/d08/a29460.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
-    [ "originalWorld", "db/d08/a29460.html#a8f7396466d2b20742f66e14462de96a4", null ],
-    [ "player", "db/d08/a29460.html#a97049ae029c9354fdf3194be77f36dfa", null ],
-    [ "session", "db/d08/a29460.html#a2f87ec522777defa8b023274b1d78c35", null ],
-    [ "worldMock", "db/d08/a29460.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
+    [ "TestSpellEntryHelper", "db/d08/a29460.html#a3f6b812ad6767cf68cf41653f29fa998", null ],
+    [ "Get", "db/d08/a29460.html#a43cc8638601f863dc0b55f7fee6a314a", null ],
+    [ "WithAttributes", "db/d08/a29460.html#a9461b84bb0ee2937a28727b1b79c9a30", null ],
+    [ "WithAttributesEx3", "db/d08/a29460.html#aa1538c2401ad99f7ee7b83dcc1acb86b", null ],
+    [ "WithDmgClass", "db/d08/a29460.html#af2f2490bfad43901e0c43c43a658b7b8", null ],
+    [ "WithEffect", "db/d08/a29460.html#a97111bde77ad15919433437546f141eb", null ],
+    [ "WithEffectBasePoints", "db/d08/a29460.html#ada34e949ac38e9b9e91110b1b559ab0e", null ],
+    [ "WithEffectDieSides", "db/d08/a29460.html#afe3e4ffa52e28004f851d8668cf8601f", null ],
+    [ "WithEffectMiscValue", "db/d08/a29460.html#a27786caa787a1340251c533bed06110a", null ],
+    [ "WithEffectTriggerSpell", "db/d08/a29460.html#a10af5cfe1d3e166c38b250c5043039e7", null ],
+    [ "WithId", "db/d08/a29460.html#ac469f44922b05f410d14e2dff045b9d9", null ],
+    [ "WithProcChance", "db/d08/a29460.html#a624882a20497cf5d1fd8ed2abd9421d0", null ],
+    [ "WithProcCharges", "db/d08/a29460.html#a88f8f08b3f6e6c81afdc47516798052d", null ],
+    [ "WithProcFlags", "db/d08/a29460.html#a639ff4b1423de03e6430d43c6097bef6", null ],
+    [ "WithSchoolMask", "db/d08/a29460.html#ac9fe293e3223a216131083e2a03d6a14", null ],
+    [ "WithSpellFamilyFlags", "db/d08/a29460.html#a43d22d9da0f5ad65a570e06c6d0879b6", null ],
+    [ "WithSpellFamilyName", "db/d08/a29460.html#a241f5b1cd4d2303e39ca65909a99312e", null ],
+    [ "_entry", "db/d08/a29460.html#a37bfa11482f013bdc5014dc11bd955df", null ]
 ];

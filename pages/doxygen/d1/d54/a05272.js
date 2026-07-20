@@ -1,9 +1,7 @@
 var a05272 =
 [
-    [ "MapRayCallback", "d1/d54/a05272.html#a1a4a654bc929dab5b5a2804c4b88389d", null ],
-    [ "didHit", "d1/d54/a05272.html#a9d9abb0a5ffff131d2c19e88c3c8b836", null ],
-    [ "operator()", "d1/d54/a05272.html#a0f218465b321da5f8289dfa815acbfd4", null ],
-    [ "flags", "d1/d54/a05272.html#a88d1e6d6fa43608bcee21a822488f061", null ],
-    [ "hit", "d1/d54/a05272.html#a6fc14ac7ae20effec9d2657a46b838fc", null ],
-    [ "prims", "d1/d54/a05272.html#a389d8ee31e0cb665bfd9084d786750c5", null ]
+    [ "LiquidInfo", "d1/d54/a05272.html#a0caefac43d2f5c59446e2a9f7e565c11", null ],
+    [ "LiquidInfo", "d1/d54/a05272.html#abfae4e75223a93b5b71840f60710afb9", null ],
+    [ "level", "d1/d54/a05272.html#ade8f31cc9adc77ff82724134b5ebba24", null ],
+    [ "type", "d1/d54/a05272.html#a46eda7aed64f2a5b0bd5ce1f88942c20", null ]
 ];

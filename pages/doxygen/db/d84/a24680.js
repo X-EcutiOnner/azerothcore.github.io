@@ -1,6 +1,8 @@
 var a24680 =
 [
-    [ "PrepareSpellScript", "db/d84/a24680.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
-    [ "Register", "db/d84/a24680.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
-    [ "SelectTarget", "db/d84/a24680.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
+    [ "AfterApply", "db/d84/a24680.html#a9c2591beacd941893338109719c03e3f", null ],
+    [ "AfterRemove", "db/d84/a24680.html#a0be2a66b615dd926de7073392a8e5062", null ],
+    [ "PrepareAuraScript", "db/d84/a24680.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
+    [ "Register", "db/d84/a24680.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
+    [ "Validate", "db/d84/a24680.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
 ];

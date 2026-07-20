@@ -1,7 +1,7 @@
 var a26080 =
 [
-    [ "HandleProc", "d3/dfb/a26080.html#a88510ad234c654bbe3316f6557742f77", null ],
-    [ "PrepareAuraScript", "d3/dfb/a26080.html#adff2a6b6161cc6fa6a49bd55c088394c", null ],
-    [ "Register", "d3/dfb/a26080.html#aeaae510592ba20f76e322701a9c30c17", null ],
-    [ "Validate", "d3/dfb/a26080.html#a1d9dc752bd385ff99ee4c39094c68d8a", null ]
+    [ "OnApply", "d3/dfb/a26080.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
+    [ "OnRemove", "d3/dfb/a26080.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
+    [ "PrepareAuraScript", "d3/dfb/a26080.html#aa93b45e31c33caf3ea51a26846566b34", null ],
+    [ "Register", "d3/dfb/a26080.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
 ];

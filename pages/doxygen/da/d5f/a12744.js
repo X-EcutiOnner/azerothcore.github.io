@@ -1,7 +1,11 @@
 var a12744 =
 [
-    [ "ClassCallSelector", "da/d5f/a12744.html#a223895c97121b0727aac258c12c89e0b", null ],
-    [ "operator()", "da/d5f/a12744.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
-    [ "_me", "da/d5f/a12744.html#a5347a24609a21ae0a342682104b1dc14", null ],
-    [ "_targetClass", "da/d5f/a12744.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
+    [ "boss_quartermaster_zigris", "da/d5f/a12744.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
+    [ "DamageTaken", "da/d5f/a12744.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
+    [ "JustDied", "da/d5f/a12744.html#a9295bbcffd7968051a789e8dfb634e23", null ],
+    [ "JustEngagedWith", "da/d5f/a12744.html#af482c06e00e7f6c15b290115998a27a9", null ],
+    [ "Reset", "da/d5f/a12744.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
+    [ "SpellHitTarget", "da/d5f/a12744.html#a38197746cc73ada1378e6e1a5555ef79", null ],
+    [ "UpdateAI", "da/d5f/a12744.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
+    [ "_hasDrunkPotion", "da/d5f/a12744.html#a25335533bc43171687e03f1ed22d4fb3", null ]
 ];

@@ -1,13 +1,5 @@
 var a05648 =
 [
-    [ "Logger", "dc/d02/a05648.html#a79033d763c69dbfb95b1c591f1cc680b", null ],
-    [ "addAppender", "dc/d02/a05648.html#aabacae0a84994e5567f9c87829909fdd", null ],
-    [ "delAppender", "dc/d02/a05648.html#a1fb8747bf7b652b9dfbf9ee830a82c8b", null ],
-    [ "getLogLevel", "dc/d02/a05648.html#aba945b0f037b7de27976d3a6e1a0fbbd", null ],
-    [ "getName", "dc/d02/a05648.html#ae95167d7bb330ecc0a49779a5635d1e2", null ],
-    [ "setLogLevel", "dc/d02/a05648.html#a00fdcdbeb39a2d5d4fb27cc36c35c101", null ],
-    [ "write", "dc/d02/a05648.html#a3627f98e8676ee7b68a34a4d9439082e", null ],
-    [ "appenders", "dc/d02/a05648.html#aa93931f2386ebc6dbf2464f536ed54f9", null ],
-    [ "level", "dc/d02/a05648.html#a3b1d9dd7bd391ac7bed560918f82a03b", null ],
-    [ "name", "dc/d02/a05648.html#ada299a7dd268085371557213e36695a9", null ]
+    [ "Decode", "dc/d02/a05648.html#a16eb5c0306f404a3be454430abd01610", null ],
+    [ "Encode", "dc/d02/a05648.html#a5c439d87d1532c68023e2d612d874e5f", null ]
 ];

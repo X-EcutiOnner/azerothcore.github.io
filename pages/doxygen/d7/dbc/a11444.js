@@ -1,6 +1,4 @@
 var a11444 =
 [
-    [ "PetStopAttack", "d7/dbc/a11444.html#a4a68127f3290d4f2e288600757dd3282", null ],
-    [ "Read", "d7/dbc/a11444.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
-    [ "PetGUID", "d7/dbc/a11444.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
+    [ "Validate", "d7/dbc/a11444.html#a25f2d2033711c905ed702d844416c250", null ]
 ];

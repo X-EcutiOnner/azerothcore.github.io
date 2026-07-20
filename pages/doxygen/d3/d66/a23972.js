@@ -1,7 +1,11 @@
 var a23972 =
 [
-    [ "HandlePeriodic", "d3/d66/a23972.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "d3/d66/a23972.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "d3/d66/a23972.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "d3/d66/a23972.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "npc_maxx_a_million_escortAI", "d3/d66/a23972.html#ab827933527ed7b4a04b162034876ced8", null ],
+    [ "JustDied", "d3/d66/a23972.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
+    [ "Reset", "d3/d66/a23972.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
+    [ "UpdateAI", "d3/d66/a23972.html#a3b022feb2303875d32ad981e84f66854", null ],
+    [ "WaypointReached", "d3/d66/a23972.html#acd6f45abb93f3f043cd85647405a50f6", null ],
+    [ "WaypointReached", "d3/d66/a23972.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "bTake", "d3/d66/a23972.html#ac697fc6cbc20c7f316845ed26436049b", null ],
+    [ "uiTakeTimer", "d3/d66/a23972.html#a5d4826dcf893f444a42dedba57460110", null ]
 ];

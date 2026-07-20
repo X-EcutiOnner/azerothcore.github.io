@@ -1,6 +1,7 @@
 var a15700 =
 [
-    [ "npc_death_ravagerAI", "d3/d6a/a15704.html", "d3/d6a/a15704" ],
-    [ "npc_death_ravager", "df/ddb/a15700.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
-    [ "GetAI", "df/ddb/a15700.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
+    [ "boss_glob_of_viscidus", "df/ddb/a15700.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "df/ddb/a15700.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "df/ddb/a15700.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "df/ddb/a15700.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

@@ -1,13 +1,20 @@
 var a13144 =
 [
-    [ "boss_roar", "dc/d4a/a13144.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
-    [ "DoAction", "dc/d4a/a13144.html#a9a2778a803d6d41b256759b29452cc51", null ],
-    [ "EnterEvadeMode", "dc/d4a/a13144.html#a198044653632b93838c0f79c06cb7640", null ],
-    [ "JustDied", "dc/d4a/a13144.html#a3c79bea69740601ad89f0765f3af99f2", null ],
-    [ "JustEngagedWith", "dc/d4a/a13144.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
-    [ "JustReachedHome", "dc/d4a/a13144.html#a632929b026815a524bd79748e768e3fc", null ],
-    [ "KilledUnit", "dc/d4a/a13144.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
-    [ "UpdateAI", "dc/d4a/a13144.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
-    [ "_scheduler", "dc/d4a/a13144.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
-    [ "instance", "dc/d4a/a13144.html#a67df04e89c877d565753ac077aa923c7", null ]
+    [ "boss_netherspite", "dc/d4a/a13144.html#a41665f388b5abcf6d64e6f58326fe0cc", null ],
+    [ "DestroyPortals", "dc/d4a/a13144.html#aef861122117f86230157dfba2aae4b84", null ],
+    [ "dist", "dc/d4a/a13144.html#a01862bcde441d4873e2f01d65726b7c7", null ],
+    [ "HandleDoors", "dc/d4a/a13144.html#ac5f2ddb87e93c3d85f7912132bbe5bfe", null ],
+    [ "IsBetween", "dc/d4a/a13144.html#ae3d1579bd742d2ac38dc47e529c047e1", null ],
+    [ "JustDied", "dc/d4a/a13144.html#abf986442648091792058cff6110bc670", null ],
+    [ "JustEngagedWith", "dc/d4a/a13144.html#a49a114ce9744c1758294f56088f91348", null ],
+    [ "Reset", "dc/d4a/a13144.html#a24b4282d0004fe07810f9210211a28f4", null ],
+    [ "SummonPortals", "dc/d4a/a13144.html#a98bbd9ae476eba086de3f70d4b5970e2", null ],
+    [ "SwitchToBanishPhase", "dc/d4a/a13144.html#ac049b2b76c796c3d7dd74e8df7fafb99", null ],
+    [ "SwitchToPortalPhase", "dc/d4a/a13144.html#ae347618233c5c15f73056629512fcdfa", null ],
+    [ "UpdateAI", "dc/d4a/a13144.html#a5610c1eb1e20fb09a0b4680b0170a691", null ],
+    [ "UpdatePortals", "dc/d4a/a13144.html#a16a028d881ad1439f699ca9e29c8ce11", null ],
+    [ "BeamerGUID", "dc/d4a/a13144.html#af0f9b48c0ef7af916d14681473681744", null ],
+    [ "BeamTarget", "dc/d4a/a13144.html#a61cf090860a7866ca0222dd79b697b13", null ],
+    [ "berserk", "dc/d4a/a13144.html#a3eab6bee2123d34e6d85fb519c047f00", null ],
+    [ "PortalGUID", "dc/d4a/a13144.html#a98824fb7502f2774fc8e5b2c63eeaa7f", null ]
 ];

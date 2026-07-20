@@ -1,6 +1,6 @@
 var a21480 =
 [
-    [ "npc_heated_battleAI", "de/d00/a21480.html#a2b73957d7890549f4b02488c5527fcef", null ],
-    [ "DamageTaken", "de/d00/a21480.html#a8422c157214195d7166ede35c9c05d19", null ],
-    [ "Reset", "de/d00/a21480.html#a11a4f3270ff260e30da89017dad38433", null ]
+    [ "HandleEffect", "de/d00/a21480.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
+    [ "PrepareSpellScript", "de/d00/a21480.html#aec199e9f9651267fac88bd86be326bb4", null ],
+    [ "Register", "de/d00/a21480.html#a14bd854db86750704c8377d457dea360", null ]
 ];

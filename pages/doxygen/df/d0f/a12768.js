@@ -1,7 +1,12 @@
 var a12768 =
 [
-    [ "HandlePeriodic", "df/d0f/a12768.html#a72e043202c587e6c12d0b36d679cd071", null ],
-    [ "PrepareAuraScript", "df/d0f/a12768.html#a7ca007283e34855ee825ae160653f4a3", null ],
-    [ "Register", "df/d0f/a12768.html#aebad39c65167042be8db3c3a1811a235", null ],
-    [ "Validate", "df/d0f/a12768.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
+    [ "boss_the_beast", "df/d0f/a12768.html#ab98bce804078b4184b1bf6e844db9c67", null ],
+    [ "FindNearbyOrcs", "df/d0f/a12768.html#a46da3f960ea3c38791c23a3e282db9c7", null ],
+    [ "JustEngagedWith", "df/d0f/a12768.html#a9740b134ce1b21c42c9082d9fdc97264", null ],
+    [ "Reset", "df/d0f/a12768.html#a7a72f5aeb54fe6de6c71dfac2c906881", null ],
+    [ "SetData", "df/d0f/a12768.html#a8ceb3a1c53c2c5385d4a779b2ac283da", null ],
+    [ "UpdateAI", "df/d0f/a12768.html#ad7db422aefc711b437176b729c6ac151", null ],
+    [ "_beastReached", "df/d0f/a12768.html#a7345b0091bcfd894ce8fdff9431254f6", null ],
+    [ "_nearbyOrcsGUIDs", "df/d0f/a12768.html#a20b867be394f3c5d9bbf851ba724ca3a", null ],
+    [ "_orcYelled", "df/d0f/a12768.html#a7079c59c50343f460e2aac2bcf19709c", null ]
 ];

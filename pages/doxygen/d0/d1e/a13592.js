@@ -1,7 +1,6 @@
 var a13592 =
 [
-    [ "OnRemove", "d0/d1e/a13592.html#a55460c6393c165e3096c967c81136032", null ],
-    [ "PrepareAuraScript", "d0/d1e/a13592.html#afd4e4483f704169e6d213ced134d4c62", null ],
-    [ "Register", "d0/d1e/a13592.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
-    [ "Validate", "d0/d1e/a13592.html#af580258d287f5db6103b89d3085669bc", null ]
+    [ "instance_scholomance_InstanceMapScript", "d8/d59/a13596.html", "d8/d59/a13596" ],
+    [ "instance_scholomance", "d0/d1e/a13592.html#ace7a781c45623419daad6143480d8fe2", null ],
+    [ "GetInstanceScript", "d0/d1e/a13592.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
 ];

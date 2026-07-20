@@ -1,7 +1,6 @@
 var a18992 =
 [
-    [ "HandleScript", "d2/d28/a18992.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "d2/d28/a18992.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "d2/d28/a18992.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "d2/d28/a18992.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "npc_frost_freeze_trapAI", "d4/d11/a18996.html", "d4/d11/a18996" ],
+    [ "npc_frost_freeze_trap", "d2/d28/a18992.html#ac58ed2598fd4250f220208a91343f9b8", null ],
+    [ "GetAI", "d2/d28/a18992.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
 ];

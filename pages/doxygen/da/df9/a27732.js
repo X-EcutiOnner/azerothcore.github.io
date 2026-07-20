@@ -1,6 +1,7 @@
 var a27732 =
 [
-    [ "boss_ysondreAI", "d4/df4/a27736.html", "d4/df4/a27736" ],
-    [ "boss_ysondre", "da/df9/a27732.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
-    [ "GetAI", "da/df9/a27732.html#a0da215d7bc8ee86216887e682b9335c3", null ]
+    [ "HandleGlyph", "da/df9/a27732.html#a9ec1133587bb6f0d7faa1beafc8415d9", null ],
+    [ "PrepareSpellScript", "da/df9/a27732.html#adffd8b39adef397a886a66465e09f68b", null ],
+    [ "Register", "da/df9/a27732.html#a77ff80bffd5c3f75dd60f2d901dfd84e", null ],
+    [ "Validate", "da/df9/a27732.html#aa8bf4fc8457d122e46d12bc6b1cc7586", null ]
 ];

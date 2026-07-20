@@ -1,10 +1,12 @@
 var a07712 =
 [
-    [ "BattlegroundBE", "de/dbe/a07712.html#a4b29ebe897de3109b165607de957fae2", null ],
-    [ "FillInitialWorldStates", "de/dbe/a07712.html#a15f4e4a79c5a1ee594811aa1cd1786f7", null ],
-    [ "HandleAreaTrigger", "de/dbe/a07712.html#a6216e25edd0057b9599efc787045505e", null ],
-    [ "HandlePlayerUnderMap", "de/dbe/a07712.html#ab004984d4b882e72471b0b5a8fca9632", null ],
-    [ "SetupBattleground", "de/dbe/a07712.html#a2eed1be4672539674e092edb6a6a9627", null ],
-    [ "StartingEventCloseDoors", "de/dbe/a07712.html#a2379fda6296fcdbde68fad362e858621", null ],
-    [ "StartingEventOpenDoors", "de/dbe/a07712.html#a09be55b7b6a1559a657bdfbd672021f0", null ]
+    [ "BGQueueInviteEvent", "de/dbe/a07712.html#acee27900339fdcebbfd21bb0e602654d", null ],
+    [ "~BGQueueInviteEvent", "de/dbe/a07712.html#a09f9f27ecbc273b25e5941966a4fa925", null ],
+    [ "Abort", "de/dbe/a07712.html#a07f5520ab61cdfd4eadc5d0815067135", null ],
+    [ "Execute", "de/dbe/a07712.html#a444aceb1c29c951271bab5186a7f3064", null ],
+    [ "m_ArenaType", "de/dbe/a07712.html#a1b7d1161d46578606396efd515ab1739", null ],
+    [ "m_BgInstanceGUID", "de/dbe/a07712.html#ad9adc44cc1cde3b0b820740852bdb3ce", null ],
+    [ "m_BgTypeId", "de/dbe/a07712.html#a608c24288f24bc4da77124257320c741", null ],
+    [ "m_PlayerGuid", "de/dbe/a07712.html#a200b4bcd336846df60ec11de8d829d7d", null ],
+    [ "m_RemoveTime", "de/dbe/a07712.html#a4c78e5a74eaf859db40772008557201f", null ]
 ];

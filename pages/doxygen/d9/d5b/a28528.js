@@ -1,7 +1,5 @@
 var a28528 =
 [
-    [ "npc_wormholeAI", "d9/d5b/a28528.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "d9/d5b/a28528.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "d9/d5b/a28528.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "d9/d5b/a28528.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "npc_suns_reach_reclamation", "d9/d5b/a28528.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
+    [ "OnQuestReward", "d9/d5b/a28528.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
 ];

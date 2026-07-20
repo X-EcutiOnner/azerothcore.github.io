@@ -1,6 +1,8 @@
 var a27308 =
 [
-    [ "HandleAuraApply", "d4/d44/a27308.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
-    [ "PrepareAuraScript", "d4/d44/a27308.html#a6eedadacba366104fdca2791862be216", null ],
-    [ "Register", "d4/d44/a27308.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
+    [ "CheckFireTotem", "d4/d44/a27308.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "d4/d44/a27308.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "d4/d44/a27308.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "d4/d44/a27308.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "d4/d44/a27308.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

@@ -1,7 +1,6 @@
 var a14104 =
 [
-    [ "HandleScript", "da/d31/a14104.html#acd4373ab762d00d262984c36190d6f93", null ],
-    [ "PrepareSpellScript", "da/d31/a14104.html#a113216b272d0386f248a75bfcf30c6a3", null ],
-    [ "Register", "da/d31/a14104.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
-    [ "Validate", "da/d31/a14104.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
+    [ "OnEffect", "da/d31/a14104.html#a41903586310ec274dd10537ccb8655f3", null ],
+    [ "PrepareSpellScript", "da/d31/a14104.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
+    [ "Register", "da/d31/a14104.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
 ];

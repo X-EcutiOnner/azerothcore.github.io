@@ -1,6 +1,7 @@
 var a16844 =
 [
-    [ "npc_toc_pet_warlockAI", "de/d38/a16848.html", "de/d38/a16848" ],
-    [ "npc_toc_pet_warlock", "d5/d88/a16844.html#a4703f506d677d7e490c6813c6d9b060b", null ],
-    [ "GetAI", "d5/d88/a16844.html#aebcaff82726508a14028cb22a1ef944b", null ]
+    [ "HandleAfterHit", "d5/d88/a16844.html#a6fc446385881ddb4c94de73199649816", null ],
+    [ "PrepareSpellScript", "d5/d88/a16844.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
+    [ "Register", "d5/d88/a16844.html#aaae368b2f647aa6a56827550e50dafe1", null ],
+    [ "Validate", "d5/d88/a16844.html#ad4c84071b538b657fa1302982f8799b4", null ]
 ];

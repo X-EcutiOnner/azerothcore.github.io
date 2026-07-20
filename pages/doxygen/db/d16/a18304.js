@@ -1,6 +1,6 @@
 var a18304 =
 [
-    [ "boss_sindragosaAI", "de/d68/a18308.html", "de/d68/a18308" ],
-    [ "boss_sindragosa", "db/d16/a18304.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
-    [ "GetAI", "db/d16/a18304.html#a005a6da9f4f9690416a108872b3c2b36", null ]
+    [ "HandleScript", "db/d16/a18304.html#abd766c298f8aa363d28198b6a5d7e374", null ],
+    [ "PrepareSpellScript", "db/d16/a18304.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
+    [ "Register", "db/d16/a18304.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
 ];

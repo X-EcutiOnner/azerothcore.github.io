@@ -1,9 +1,16 @@
 var a29400 =
 [
-    [ "SetUp", "dd/d11/a29400.html#aa0206c25468d92372594de8df9b9ac91", null ],
-    [ "TearDown", "dd/d11/a29400.html#ab004a4631e402c804c5cc030d3504bcf", null ],
-    [ "PERM_A", "dd/d11/a29400.html#a76b8ba9e8f97715e19f33400d5317470", null ],
-    [ "PERM_B", "dd/d11/a29400.html#aa7e5d5ee7cd27e5133328c20a8cbcab0", null ],
-    [ "ROLE_PLAYER", "dd/d11/a29400.html#a7a9fae5b7137ad90aed5b7f56b3328bf", null ],
-    [ "SEC_PLAYER", "dd/d11/a29400.html#a83a095f226d90a9990e90c0234dbb885", null ]
+    [ "CreateTestCreature", "dd/d11/a29400.html#a617fd4d9d90187bc2f73d4b3ae7fe2e9", null ],
+    [ "CreateTestPlayer", "dd/d11/a29400.html#a6419bf25da27ee490712daa877adbd72", null ],
+    [ "EnsureFactionTemplates", "dd/d11/a29400.html#a83a02366f7bf6726e14b9f3237e2b545", null ],
+    [ "GetTestMap", "dd/d11/a29400.html#ae4ec7240a978801c7b0e680bd8072289", null ],
+    [ "GetWorldMock", "dd/d11/a29400.html#af142aa528b5add94d80218bfb87673d2", null ],
+    [ "SetUp", "dd/d11/a29400.html#a8ae97cc2fe6cec6678fc68828bb78311", null ],
+    [ "TearDown", "dd/d11/a29400.html#abd9650e94915e9c9b2c00d0f5883012a", null ],
+    [ "_originalWorld", "dd/d11/a29400.html#a68d71c2f6f685757f78855a65dfea247", null ],
+    [ "_ownedCreatureTemplates", "dd/d11/a29400.html#a14a887c379c1bab8270e4e447d6d3710", null ],
+    [ "_testMap", "dd/d11/a29400.html#a71376b2bd9b26c15bdc5a377c918df4f", null ],
+    [ "_trackedCreatures", "dd/d11/a29400.html#ab782034dea584c12fcc6167f08cb1c2e", null ],
+    [ "_trackedPlayers", "dd/d11/a29400.html#abebf5ed00a2531d755c905b0fca011d6", null ],
+    [ "_worldMock", "dd/d11/a29400.html#a7cef42e42607cf7c562b20827a0df766", null ]
 ];

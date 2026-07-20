@@ -1,14 +1,8 @@
 var a24220 =
 [
-    [ "Absorb", "d8/d4b/a24220.html#a401274543919a81efea81008f8020ed1", null ],
-    [ "CalculateAmount", "d8/d4b/a24220.html#a837b0e3f0135f7b8393f1ee630d90c50", null ],
-    [ "HandleEffectApply", "d8/d4b/a24220.html#a0acb2be86ed6da238e8769d4871526d3", null ],
-    [ "HandleEffectRemove", "d8/d4b/a24220.html#a2b1e9dbb5d3543acd36f9253f224b9a7", null ],
-    [ "Load", "d8/d4b/a24220.html#ab22271735c240c0d375324f54efc8313", null ],
-    [ "PrepareAuraScript", "d8/d4b/a24220.html#af040fefa0f25f319f98340b9908bb85e", null ],
-    [ "Register", "d8/d4b/a24220.html#af89379413ea3b10477ea267ac8e51004", null ],
-    [ "Trigger", "d8/d4b/a24220.html#ae1704ed58255389c7483f75b5f0a227c", null ],
-    [ "Validate", "d8/d4b/a24220.html#a58faaf03fc6a0974049da2af0fc70825", null ],
-    [ "absorbPct", "d8/d4b/a24220.html#a3a9bd069cf4732f64990277227d71d0d", null ],
-    [ "hpPct", "d8/d4b/a24220.html#a83ef3e3f9534366c24311f3281a8d0b8", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "d8/d4b/a24220.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "d8/d4b/a24220.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "d8/d4b/a24220.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "d8/d4b/a24220.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "d8/d4b/a24220.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

@@ -1,14 +1,10 @@
 var a23632 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d8/d9f/a23632.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
-    [ "Initialize", "d8/d9f/a23632.html#a187340b00067f2f65a7e48845a6edaba", null ],
-    [ "JustSummoned", "d8/d9f/a23632.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
-    [ "Reset", "d8/d9f/a23632.html#a92a6cbe0515752440284d18bae0adf66", null ],
-    [ "SpellHit", "d8/d9f/a23632.html#a517f7412208de83604d0d6806fbc0b34", null ],
-    [ "UpdateAI", "d8/d9f/a23632.html#ab4fb75f1b84c2722f936387a6942028b", null ],
-    [ "CannonGUID", "d8/d9f/a23632.html#a220e111467cfb6f02e996f012123e09b", null ],
-    [ "count", "d8/d9f/a23632.html#ac78f94033239dcf247be9a48d0535081", null ],
-    [ "events", "d8/d9f/a23632.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
-    [ "PartyTime", "d8/d9f/a23632.html#a1780c656fb539be6dcd74e271cea4c53", null ],
-    [ "PlayerGUID", "d8/d9f/a23632.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
+    [ "CheckProc", "d8/d9f/a23632.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
+    [ "Load", "d8/d9f/a23632.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
+    [ "PrepareAuraScript", "d8/d9f/a23632.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
+    [ "Register", "d8/d9f/a23632.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
+    [ "_lastForm", "d8/d9f/a23632.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
+    [ "_lastSchool", "d8/d9f/a23632.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
+    [ "_swapTime", "d8/d9f/a23632.html#af832dc200e928df3849ab7d7f93cb412", null ]
 ];

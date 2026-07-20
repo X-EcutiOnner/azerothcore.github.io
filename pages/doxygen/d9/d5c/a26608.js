@@ -1,7 +1,9 @@
 var a26608 =
 [
-    [ "HandleProc", "d9/d5c/a26608.html#a512ec25fe649e42930d64effa4f7868b", null ],
-    [ "PrepareAuraScript", "d9/d5c/a26608.html#ac1c7dcf63d7c67ec5fad424531519b58", null ],
-    [ "Register", "d9/d5c/a26608.html#a6118148ac0e641a6c3e4490c2cdd86c0", null ],
-    [ "Validate", "d9/d5c/a26608.html#a22dea9fb57d89b1d4813722968b5429f", null ]
+    [ "CheckProc", "d9/d5c/a26608.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
+    [ "HandleProc", "d9/d5c/a26608.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
+    [ "PrepareAuraScript", "d9/d5c/a26608.html#a9585ecde57ccfa26f59174732e3132fc", null ],
+    [ "Register", "d9/d5c/a26608.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
+    [ "Validate", "d9/d5c/a26608.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
+    [ "_triggeredSpellId", "d9/d5c/a26608.html#a560ade778e046213f60f48364ea3800c", null ]
 ];

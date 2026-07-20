@@ -1,12 +1,12 @@
 var a10252 =
 [
-    [ "TransportTemplate", "d8/dd1/a10252.html#aef4781a37808827e3ceaffc782c3af1e", null ],
-    [ "~TransportTemplate", "d8/dd1/a10252.html#afc385d824c171d13a184bc0a16121110", null ],
-    [ "accelDist", "d8/dd1/a10252.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
-    [ "accelTime", "d8/dd1/a10252.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
-    [ "entry", "d8/dd1/a10252.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
-    [ "inInstance", "d8/dd1/a10252.html#a971c84762c229b01cab656945f0c16de", null ],
-    [ "keyFrames", "d8/dd1/a10252.html#ac714531f226ca06c3586cf3f6cc06808", null ],
-    [ "mapsUsed", "d8/dd1/a10252.html#a93899b0648871ed8ca32dfe8394347c1", null ],
-    [ "pathTime", "d8/dd1/a10252.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
+    [ "MapReference", "d8/dd1/a10252.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
+    [ "~MapReference", "d8/dd1/a10252.html#a1e93b44871737991140718322fd1cd69", null ],
+    [ "next", "d8/dd1/a10252.html#a352ef695a8968a17e921861b7d6242c1", null ],
+    [ "next", "d8/dd1/a10252.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
+    [ "nocheck_prev", "d8/dd1/a10252.html#a6cfff18295cf049ff554b0f140680890", null ],
+    [ "nockeck_prev", "d8/dd1/a10252.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
+    [ "sourceObjectDestroyLink", "d8/dd1/a10252.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
+    [ "targetObjectBuildLink", "d8/dd1/a10252.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
+    [ "targetObjectDestroyLink", "d8/dd1/a10252.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
 ];

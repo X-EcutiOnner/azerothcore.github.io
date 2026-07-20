@@ -1,6 +1,6 @@
 var a25908 =
 [
-    [ "OnRemove", "d9/dd8/a25908.html#a3803e6bbdb17e9a848376481581c993d", null ],
-    [ "PrepareAuraScript", "d9/dd8/a25908.html#a6f1340b824af4604e310666e89d05b7a", null ],
-    [ "Register", "d9/dd8/a25908.html#a3b361a478f1c035b706ac2e17499fb37", null ]
+    [ "HandleDummy", "d9/dd8/a25908.html#ab146c4026bc8ad129bb3d421891d344b", null ],
+    [ "PrepareSpellScript", "d9/dd8/a25908.html#aa9743f357b9800ab2990fb584011b0a6", null ],
+    [ "Register", "d9/dd8/a25908.html#a3ca7b1dd1187fd39e362b3451b246a4c", null ]
 ];

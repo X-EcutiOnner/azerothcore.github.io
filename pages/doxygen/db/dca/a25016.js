@@ -1,9 +1,6 @@
 var a25016 =
 [
-    [ "spell_gen_lifebloom", "db/dca/a25016.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
-    [ "AfterRemove", "db/dca/a25016.html#aea962f603e56c1bd33fccaef0c89d917", null ],
-    [ "PrepareAuraScript", "db/dca/a25016.html#ac11134bdc3588795ce6e256c5b02055f", null ],
-    [ "Register", "db/dca/a25016.html#ab4a552402ee9f90834320d6fc668cff3", null ],
-    [ "Validate", "db/dca/a25016.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
-    [ "_spellId", "db/dca/a25016.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
+    [ "HandleScript", "db/dca/a25016.html#a913c8c461f291ccaad2f48614c0146c6", null ],
+    [ "PrepareSpellScript", "db/dca/a25016.html#a18913a7455cf3f158136f2d3bb415779", null ],
+    [ "Register", "db/dca/a25016.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
 ];

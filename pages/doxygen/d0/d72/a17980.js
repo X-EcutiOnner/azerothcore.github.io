@@ -1,7 +1,6 @@
 var a17980 =
 [
-    [ "PrepareSpellScript", "d0/d72/a17980.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
-    [ "Register", "d0/d72/a17980.html#aff4f05a5a4742a408646000b7cece38c", null ],
-    [ "RemovePassengers", "d0/d72/a17980.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
-    [ "Validate", "d0/d72/a17980.html#a2a8da9d150804f979f2313f623ad7760", null ]
+    [ "npc_gunship_boarding_leaderAI", "d4/d15/a17984.html", "d4/d15/a17984" ],
+    [ "npc_gunship_boarding_leader", "d0/d72/a17980.html#a8390eadab34a89643252f573588b140a", null ],
+    [ "GetAI", "d0/d72/a17980.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
 ];

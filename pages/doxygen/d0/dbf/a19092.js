@@ -1,13 +1,8 @@
 var a19092 =
 [
-    [ "npc_icc_spire_frostwyrm", "d0/dbf/a19092.html#a8fdfc70108e3294e0fcc3c7ed895074e", null ],
-    [ "CanAIAttack", "d0/dbf/a19092.html#ab3364130aacf675602317651a244ae2c", null ],
-    [ "DoAction", "d0/dbf/a19092.html#a44edf33b25bdfce3b2bd3a8ec487fd9e", null ],
-    [ "JustEngagedWith", "d0/dbf/a19092.html#abfc762cea6b7e40aaaff50b933410127", null ],
-    [ "JustReachedHome", "d0/dbf/a19092.html#a144e8cafc020f5c43aae1fdc4a38a10d", null ],
-    [ "MovementInform", "d0/dbf/a19092.html#a8e7f148580d91d42959e972ef18b271b", null ],
-    [ "Reset", "d0/dbf/a19092.html#a572add30e78af15a8d5d6918169802da", null ],
-    [ "UpdateAI", "d0/dbf/a19092.html#ad193a9355e11ea25792e6285d375a488", null ],
-    [ "_canResetFlyingEffects", "d0/dbf/a19092.html#a262d843fcb13a444ae377729135ca14d", null ],
-    [ "_scheduler", "d0/dbf/a19092.html#a822096df7b1803d92e05ca27d544bd26", null ]
+    [ "CountTargets", "d0/dbf/a19092.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "d0/dbf/a19092.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "d0/dbf/a19092.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "d0/dbf/a19092.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "d0/dbf/a19092.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

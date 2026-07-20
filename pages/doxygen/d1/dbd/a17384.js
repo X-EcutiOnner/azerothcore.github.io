@@ -1,6 +1,9 @@
 var a17384 =
 [
-    [ "SlaveRunEvent", "d1/dbd/a17384.html#a4560b275b0870cdbd192b2610893b47c", null ],
-    [ "Execute", "d1/dbd/a17384.html#a81db67be136525dea5a9cd84180be165", null ],
-    [ "_owner", "d1/dbd/a17384.html#a33e2ce4cea1edf2e0967696c41667f15", null ]
+    [ "FilterTargets", "d1/dbd/a17384.html#aefebf504286394cf3caffa566543e4a4", null ],
+    [ "FilterTargetsNext", "d1/dbd/a17384.html#a356b6ace97d07df22a232d2287072b5e", null ],
+    [ "PrepareSpellScript", "d1/dbd/a17384.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
+    [ "Register", "d1/dbd/a17384.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
+    [ "Unload", "d1/dbd/a17384.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
+    [ "targetList", "d1/dbd/a17384.html#a3c839185938e0b67b97f652d1d15e213", null ]
 ];

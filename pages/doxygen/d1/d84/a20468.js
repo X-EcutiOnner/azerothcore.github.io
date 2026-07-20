@@ -1,5 +1,10 @@
 var a20468 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_12", "d1/d84/a20468.html#adc7f5769894c59710fa70604878b1e2c", null ],
-    [ "OnCheck", "d1/d84/a20468.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
+    [ "boss_kologarn_eyebeam", "d1/d84/a20468.html#ae51ea98b22b3a0734347825b3a0346be", null ],
+    [ "DamageDealt", "d1/d84/a20468.html#ab5dfd2cd38ee64a2cd94d8dec28ccc0d", null ],
+    [ "IsSummonedBy", "d1/d84/a20468.html#a1640ef2ca2a58803786a6c675191676c", null ],
+    [ "UpdateAI", "d1/d84/a20468.html#a7c64f096f0c9eb4c1bb9f63a0cf907a3", null ],
+    [ "_damaged", "d1/d84/a20468.html#a62d025ceaa080f78e587ee08c6f780ef", null ],
+    [ "_instance", "d1/d84/a20468.html#a600467b5bb551022d7e0b12ce739b672", null ],
+    [ "_timer", "d1/d84/a20468.html#a0d324467d4d02d7bd204f66fcadc52ea", null ]
 ];

@@ -1,5 +1,8 @@
 var a28924 =
 [
-    [ "Id", "d3/daf/a28924.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
-    [ "PowerType", "d3/daf/a28924.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
+    [ "DamagedDisplayId", "d3/daf/a28924.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
+    [ "DestroyedDisplayId", "d3/daf/a28924.html#afc891df0c9491a34f784e8f141434be5", null ],
+    [ "Id", "d3/daf/a28924.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
+    [ "RebuildingDisplayId", "d3/daf/a28924.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
+    [ "SmokeDisplayId", "d3/daf/a28924.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
 ];

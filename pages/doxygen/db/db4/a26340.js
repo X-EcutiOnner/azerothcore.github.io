@@ -1,6 +1,10 @@
 var a26340 =
 [
-    [ "HandleEffectCalcSpellMod", "db/db4/a26340.html#a81395c735b9546632af71319067b575b", null ],
-    [ "PrepareAuraScript", "db/db4/a26340.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
-    [ "Register", "db/db4/a26340.html#ae49a0ec525819981595c12839133a35b", null ]
+    [ "CheckProc", "db/db4/a26340.html#a787008462dce35eb27deda41301b146d", null ],
+    [ "HandleProc", "db/db4/a26340.html#a5b791c7cb8dae574fef801ce42dc6aa1", null ],
+    [ "Load", "db/db4/a26340.html#a9760351c28f5f9948f0b64ae2ca91c24", null ],
+    [ "PrepareAuraScript", "db/db4/a26340.html#ab3d5e71597c67ec0aed70f7e5d2319ac", null ],
+    [ "Register", "db/db4/a26340.html#aa4ef731870355dc386fcd07c5f19d090", null ],
+    [ "Validate", "db/db4/a26340.html#ad04864f0710262364cf40e071446d87c", null ],
+    [ "_procTarget", "db/db4/a26340.html#a9383231fc71c6239507fdf8765d63f3d", null ]
 ];

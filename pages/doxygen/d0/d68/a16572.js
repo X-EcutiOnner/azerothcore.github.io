@@ -1,6 +1,8 @@
 var a16572 =
 [
-    [ "npc_memoryAI", "db/d96/a16576.html", "db/d96/a16576" ],
-    [ "npc_memory", "d0/d68/a16572.html#acebf31813025d323f9486d6575a60483", null ],
-    [ "GetAI", "d0/d68/a16572.html#ad8e532d029217a06d11ae39810498976", null ]
+    [ "OnApply", "d0/d68/a16572.html#a96321003a002be0e4838901f03f8a5d8", null ],
+    [ "OnRemove", "d0/d68/a16572.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
+    [ "PrepareAuraScript", "d0/d68/a16572.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
+    [ "Register", "d0/d68/a16572.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
+    [ "Validate", "d0/d68/a16572.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
 ];

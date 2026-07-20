@@ -1,10 +1,14 @@
 var a13992 =
 [
-    [ "npc_grand_magister_rommathAI", "db/d8e/a13992.html#a5e9404dd8bf4b513e05daac53c076314", null ],
-    [ "DoAction", "db/d8e/a13992.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
-    [ "MoveInLineOfSight", "db/d8e/a13992.html#ad35b64b37915484b133bcd185a832011", null ],
-    [ "UpdateAI", "db/d8e/a13992.html#ac687bd20f0ae66b21ce52c21561af417", null ],
-    [ "announced", "db/d8e/a13992.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
-    [ "events", "db/d8e/a13992.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
-    [ "playerGUID", "db/d8e/a13992.html#ad0ac0647feb998e837a44b0a688694e9", null ]
+    [ "instance_uldaman_InstanceMapScript", "db/d8e/a13992.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "db/d8e/a13992.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "db/d8e/a13992.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "db/d8e/a13992.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "db/d8e/a13992.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "db/d8e/a13992.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "db/d8e/a13992.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "db/d8e/a13992.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "db/d8e/a13992.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "db/d8e/a13992.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "db/d8e/a13992.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

@@ -1,10 +1,7 @@
 var a28060 =
 [
-    [ "npc_prof_tailor", "d5/d5c/a28060.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "d5/d5c/a28060.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "d5/d5c/a28060.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "d5/d5c/a28060.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "d5/d5c/a28060.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "d5/d5c/a28060.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "d5/d5c/a28060.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "go_darkmoon_faire_musicAI", "d5/d5c/a28060.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
+    [ "UpdateAI", "d5/d5c/a28060.html#af3d802bd852fc0483f72781edb13b5d5", null ],
+    [ "_events", "d5/d5c/a28060.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
+    [ "rnd", "d5/d5c/a28060.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
 ];

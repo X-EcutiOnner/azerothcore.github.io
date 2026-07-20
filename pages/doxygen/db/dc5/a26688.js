@@ -1,6 +1,6 @@
 var a26688 =
 [
-    [ "HandleDummy", "db/dc5/a26688.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
-    [ "PrepareSpellScript", "db/dc5/a26688.html#a5efc666af2cb73c376706c20e41ace68", null ],
-    [ "Register", "db/dc5/a26688.html#a46e61697212a43532e148ccb12a7d8e5", null ]
+    [ "FilterTargets", "db/dc5/a26688.html#a17626abdbc4066956b76945b11b3f0c6", null ],
+    [ "PrepareSpellScript", "db/dc5/a26688.html#abfeb75060c1f930b33003dd1e458f882", null ],
+    [ "Register", "db/dc5/a26688.html#a8e5146a57f181b17280d198bcd2e216d", null ]
 ];

@@ -1,7 +1,11 @@
 var a16832 =
 [
-    [ "npc_toc_enh_shamanAI", "db/de4/a16832.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "db/de4/a16832.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "db/de4/a16832.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "db/de4/a16832.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "npc_anubarak_spikeAI", "db/de4/a16832.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
+    [ "DamageTaken", "db/de4/a16832.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
+    [ "DoAction", "db/de4/a16832.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
+    [ "Reset", "db/de4/a16832.html#af5b4a1227467d86d9dbba57362fdf360", null ],
+    [ "SelectNewTarget", "db/de4/a16832.html#ab9ed5d53703464c488267f578a214fb8", null ],
+    [ "UpdateAI", "db/de4/a16832.html#af8d6d840785c718d963c7b150cd12d9c", null ],
+    [ "events", "db/de4/a16832.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
+    [ "TargetGUID", "db/de4/a16832.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
 ];

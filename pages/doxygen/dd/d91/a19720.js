@@ -1,8 +1,12 @@
 var a19720 =
 [
-    [ "HandleEffectPeriodic", "dd/d91/a19720.html#abb453e3d38677be7082f2cd4e43134cc", null ],
-    [ "HandleOnEffectApply", "dd/d91/a19720.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
-    [ "PrepareAuraScript", "dd/d91/a19720.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
-    [ "Register", "dd/d91/a19720.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
-    [ "Validate", "dd/d91/a19720.html#a09481646f8ec90b0135d93d83cc18929", null ]
+    [ "instance_nexus_InstanceMapScript", "dd/d91/a19720.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "dd/d91/a19720.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "KillAllFrayers", "dd/d91/a19720.html#a7c696467deba7a2f15d5175e3427bd20", null ],
+    [ "OnCreatureCreate", "dd/d91/a19720.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "dd/d91/a19720.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "dd/d91/a19720.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "dd/d91/a19720.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "dd/d91/a19720.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
+    [ "_frayerGUIDs", "dd/d91/a19720.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
 ];

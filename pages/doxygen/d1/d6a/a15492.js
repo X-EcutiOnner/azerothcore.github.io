@@ -1,9 +1,7 @@
 var a15492 =
 [
-    [ "npc_giant_eye_tentacle", "d1/d6a/a15492.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
-    [ "JustDied", "d1/d6a/a15492.html#a72cac50a711868256a41c543d0cef3da", null ],
-    [ "JustEngagedWith", "d1/d6a/a15492.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
-    [ "Reset", "d1/d6a/a15492.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
-    [ "UpdateAI", "d1/d6a/a15492.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
-    [ "_portalGUID", "d1/d6a/a15492.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
+    [ "go_sand_trap", "d1/d6a/a15492.html#a58d45acac672cb05988ddca78185b469", null ],
+    [ "Reset", "d1/d6a/a15492.html#a7071a3e420e9137ca133b471bc217bf3", null ],
+    [ "UpdateAI", "d1/d6a/a15492.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
+    [ "_scheduler", "d1/d6a/a15492.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
 ];

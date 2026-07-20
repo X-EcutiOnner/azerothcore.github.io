@@ -1,6 +1,6 @@
 var a23712 =
 [
-    [ "npc_wounded_blood_elfAI", "dc/d52/a23716.html", "dc/d52/a23716" ],
-    [ "npc_wounded_blood_elf", "da/d89/a23712.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "da/d89/a23712.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "lapseTeleport", "da/d89/a23712.html#a55c4330397214bf3a43628b3067d4634", null ],
+    [ "Execute", "da/d89/a23712.html#a122023ed13fce2f5bb3721e459964443", null ],
+    [ "_owner", "da/d89/a23712.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
 ];

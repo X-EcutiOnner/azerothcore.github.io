@@ -1,7 +1,6 @@
 var a16484 =
 [
-    [ "OnApply", "d4/d37/a16484.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
-    [ "OnRemove", "d4/d37/a16484.html#a781994b0be4588f4df29399fc900ec69", null ],
-    [ "PrepareAuraScript", "d4/d37/a16484.html#aee648b80e7352edffb20fd60697e1d88", null ],
-    [ "Register", "d4/d37/a16484.html#a53c56711e31500f827123c08f44072cb", null ]
+    [ "boss_baltharus_the_warbornAI", "d6/d62/a16488.html", "d6/d62/a16488" ],
+    [ "boss_baltharus_the_warborn", "d4/d37/a16484.html#aababb8862273d60f140dce675131783d", null ],
+    [ "GetAI", "d4/d37/a16484.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
 ];

@@ -1,18 +1,9 @@
 var a21028 =
 [
-    [ "boss_ymironAI", "de/d03/a21028.html#a3a4d81b7a0f3f27f94fea60eff043696", null ],
-    [ "EnterEvadeMode", "de/d03/a21028.html#a8fbc8526e82efea3e2eddedc421b85a2", null ],
-    [ "JustDied", "de/d03/a21028.html#ad1da47485b8f17ea550a1b6bc943eb9a", null ],
-    [ "JustEngagedWith", "de/d03/a21028.html#aed0cc8f034454db0046a5adce7f9d8a0", null ],
-    [ "KilledUnit", "de/d03/a21028.html#ae1d69402520e1cf4d3a17c0ca9af35bd", null ],
-    [ "MovementInform", "de/d03/a21028.html#a6e3c14da21d45bb7ddfba25d4487bba7", null ],
-    [ "Reset", "de/d03/a21028.html#a2b6619a51641a82109e98fd4decd22e3", null ],
-    [ "SpellHitTarget", "de/d03/a21028.html#a2f2782926ee9a59fc5188d02347f9ca8", null ],
-    [ "UpdateAI", "de/d03/a21028.html#aaa447c1c6092bfc7c1d117d32b2c5673", null ],
-    [ "BoatNum", "de/d03/a21028.html#ac5663f283d1a97fea1646c1ec230a7dc", null ],
-    [ "BoatOrder", "de/d03/a21028.html#a319095910309b0a78d321c4d33994542", null ],
-    [ "events", "de/d03/a21028.html#af2d8d9a2ec7ec5876c99ae909d3befd2", null ],
-    [ "pInstance", "de/d03/a21028.html#a115529fcbc5a0c8b57152be49915d575", null ],
-    [ "summons", "de/d03/a21028.html#aaa5d90d3940c84adebce772c594b0ee2", null ],
-    [ "summons2", "de/d03/a21028.html#aa82280ec0e02924d653b62298ed7e471", null ]
+    [ "npc_vrykul_skeleton", "de/d03/a21028.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
+    [ "DamageTaken", "de/d03/a21028.html#a840244c4183987e4fda533edb2ddeff2", null ],
+    [ "Reset", "de/d03/a21028.html#af950342b2177c84c101485736855b998", null ],
+    [ "UpdateAI", "de/d03/a21028.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
+    [ "events", "de/d03/a21028.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
+    [ "pInstance", "de/d03/a21028.html#a834f0162540683c20f9fa0f9e32eee33", null ]
 ];

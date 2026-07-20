@@ -1,6 +1,5 @@
 var a28540 =
 [
-    [ "npc_locksmith", "d4/d3e/a28540.html#af959a6395ebc33109405f18f262e4ecb", null ],
-    [ "OnGossipHello", "d4/d3e/a28540.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
-    [ "OnGossipSelect", "d4/d3e/a28540.html#a62ec02e226255ff1f81895391a6494b8", null ]
+    [ "go_transport_the_thundercaller", "d4/d3e/a28540.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
+    [ "EventInform", "d4/d3e/a28540.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
 ];

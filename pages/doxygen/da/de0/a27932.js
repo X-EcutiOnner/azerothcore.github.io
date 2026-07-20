@@ -1,5 +1,6 @@
 var a27932 =
 [
-    [ "go_scourge_cage", "da/de0/a27932.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
-    [ "OnGossipHello", "da/de0/a27932.html#ab4e97cd290342d623d212cc7cec227d5", null ]
+    [ "npc_spirit_shadeAI", "d6/d82/a27936.html", "d6/d82/a27936" ],
+    [ "npc_spirit_shade", "da/de0/a27932.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "da/de0/a27932.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

@@ -1,10 +1,24 @@
 var a20716 =
 [
-    [ "boss_yoggsaron_voice", "d9/d83/a20716.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
-    [ "Reset", "d9/d83/a20716.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
-    [ "SpellHitTarget", "d9/d83/a20716.html#aae3b82dbb871f0f297bdacf975958492", null ],
-    [ "UpdateAI", "d9/d83/a20716.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
-    [ "_current", "d9/d83/a20716.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
-    [ "_targets", "d9/d83/a20716.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
-    [ "events", "d9/d83/a20716.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
+    [ "boss_xt002", "d9/d83/a20716.html#af0d0a5c5bf06431e1fea6e17eb8b2598", null ],
+    [ "ChangeNextExpose", "d9/d83/a20716.html#a028ffc2154403f0e6569f3ffe4bc5312", null ],
+    [ "DisposeHeart", "d9/d83/a20716.html#a44e48a0168213a05f44eef61706fb51d", null ],
+    [ "DoAction", "d9/d83/a20716.html#a5a385912ba3cd39a0bc37139b691992a", null ],
+    [ "EnterEvadeMode", "d9/d83/a20716.html#ab26314d28056446e206d3839a5badff7", null ],
+    [ "ExposeHeart", "d9/d83/a20716.html#a6faa25629e12a242b38eec74e434ed16", null ],
+    [ "GetData", "d9/d83/a20716.html#a7ae6062be8330b21296b05720fe7b99a", null ],
+    [ "Initialize", "d9/d83/a20716.html#aa94cf49381e47338d1b2cfeebc2ec92c", null ],
+    [ "JustDied", "d9/d83/a20716.html#a4afb96f905e61c8b35941a8481e19882", null ],
+    [ "JustEngagedWith", "d9/d83/a20716.html#a97470dbcc43d0f98fda4fcb9a70bb296", null ],
+    [ "KilledUnit", "d9/d83/a20716.html#add12c0faea7346cfa62d1f600b8a7068", null ],
+    [ "MovementInform", "d9/d83/a20716.html#ad2ad9c50ebad8b23c08818cd7c7b88e1", null ],
+    [ "PassengerBoarded", "d9/d83/a20716.html#a7c2c48a83f48107f2beee753f1fcc6b8", null ],
+    [ "RescheduleEvents", "d9/d83/a20716.html#a3ff4223b4eecab9c8b193cd5f63d8f50", null ],
+    [ "Reset", "d9/d83/a20716.html#a0d33da735deae0fb5a22c4f7d6b19fa2", null ],
+    [ "SetData", "d9/d83/a20716.html#ac4ae43822c935c3ce1820bdc96d6ed2b", null ],
+    [ "UpdateAI", "d9/d83/a20716.html#a326eb111c3d94e1bb57e9fe6e1f38c57", null ],
+    [ "_exposeHeartPercent", "d9/d83/a20716.html#a1a24dd0088c00994d8f0d0eb748a37fa", null ],
+    [ "_gravityBombCasualty", "d9/d83/a20716.html#a0d6ff56b5b3655fc0f8ca96a0e55efcc", null ],
+    [ "_hardMode", "d9/d83/a20716.html#a2882a78918439bbc63902cab0179049c", null ],
+    [ "_healthRecovered", "d9/d83/a20716.html#a756db24bed94e455ed0576c2b5261afd", null ]
 ];

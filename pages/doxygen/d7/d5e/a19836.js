@@ -1,7 +1,8 @@
 var a19836 =
 [
-    [ "creature", "d7/d5e/a19836.html#a55a6ee677ab51120867f542e5a5745b0", null ],
-    [ "sound", "d7/d5e/a19836.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
-    [ "text", "d7/d5e/a19836.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
-    [ "timer", "d7/d5e/a19836.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
+    [ "HandleEffectPeriodic", "d7/d5e/a19836.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "d7/d5e/a19836.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "d7/d5e/a19836.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "d7/d5e/a19836.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "d7/d5e/a19836.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

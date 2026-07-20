@@ -1,8 +1,6 @@
 var a21668 =
 [
-    [ "HandleEffectApply", "d0/d2d/a21668.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
-    [ "HandleEffectPeriodic", "d0/d2d/a21668.html#a183976530ebf604656db12e41449427e", null ],
-    [ "PrepareAuraScript", "d0/d2d/a21668.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
-    [ "Register", "d0/d2d/a21668.html#a76be53d506933d4b3c758578b7c33d5f", null ],
-    [ "_posZ", "d0/d2d/a21668.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
+    [ "SACActivateEvent", "d0/d2d/a21668.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
+    [ "Execute", "d0/d2d/a21668.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
+    [ "_owner", "d0/d2d/a21668.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
 ];

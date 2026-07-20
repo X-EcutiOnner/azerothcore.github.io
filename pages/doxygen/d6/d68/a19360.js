@@ -1,15 +1,17 @@
 var a19360 =
 [
-    [ "boss_loathebAI", "d6/d68/a19360.html#a60256114947b0e9c01f5308108485935", null ],
-    [ "IsInRoom", "d6/d68/a19360.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
-    [ "JustDied", "d6/d68/a19360.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
-    [ "JustEngagedWith", "d6/d68/a19360.html#a1abcf157e05eeb634f8e857a2de35538", null ],
-    [ "JustSummoned", "d6/d68/a19360.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
-    [ "KilledUnit", "d6/d68/a19360.html#a4dac78bba24069050dd9df729dd58b45", null ],
-    [ "Reset", "d6/d68/a19360.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
-    [ "SummonedCreatureDies", "d6/d68/a19360.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
-    [ "UpdateAI", "d6/d68/a19360.html#ab009008f892493b822e5ea5491c58525", null ],
-    [ "doomCounter", "d6/d68/a19360.html#aed5c631ede2eea27451a74ae21221325", null ],
-    [ "events", "d6/d68/a19360.html#adc49463bbe227f892e31716516032c64", null ],
-    [ "summons", "d6/d68/a19360.html#a37ef117714403002afb4faa4978f136b", null ]
+    [ "boss_four_horsemenAI", "d6/d68/a19360.html#a828a858c3337791bd2acb3d6ba730233", null ],
+    [ "AttackStart", "d6/d68/a19360.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
+    [ "EnterEvadeMode", "d6/d68/a19360.html#a86f458f0413cab4c8129affff1b73a70", null ],
+    [ "JustDied", "d6/d68/a19360.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
+    [ "JustEngagedWith", "d6/d68/a19360.html#a17b8ca30ceb0efb87be77f970c526444", null ],
+    [ "KilledUnit", "d6/d68/a19360.html#a87bdde27a69a020a26da31f01286593a", null ],
+    [ "MovementInform", "d6/d68/a19360.html#aa900c075c04673341b3100488c45f9e7", null ],
+    [ "MoveToCorner", "d6/d68/a19360.html#a7891dc79980c67d82867f6181685b359", null ],
+    [ "Reset", "d6/d68/a19360.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
+    [ "UpdateAI", "d6/d68/a19360.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
+    [ "currentWaypoint", "d6/d68/a19360.html#ab3c2643e1b3c58452661255979e67e63", null ],
+    [ "events", "d6/d68/a19360.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
+    [ "horsemanId", "d6/d68/a19360.html#ab0c4162177096e7bd007996e8677fd8b", null ],
+    [ "movementPhase", "d6/d68/a19360.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
 ];

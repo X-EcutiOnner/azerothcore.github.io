@@ -1,5 +1,7 @@
 var a27656 =
 [
-    [ "achievement_not_even_a_scratch", "dd/dcc/a27656.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "dd/dcc/a27656.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "HandleApplyAura", "dd/dcc/a27656.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "dd/dcc/a27656.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "dd/dcc/a27656.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "dd/dcc/a27656.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

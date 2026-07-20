@@ -1,4 +1,5 @@
 var a04649 =
 [
-    [ "SFMTRand", "d5/de0/a05833.html", "d5/de0/a05833" ]
+    [ "Appender", "d7/da9/a05672.html", "d7/da9/a05672" ],
+    [ "InvalidAppenderArgsException", "d6/d0e/a05676.html", "d6/d0e/a05676" ]
 ];

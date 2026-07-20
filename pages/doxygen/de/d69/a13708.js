@@ -1,8 +1,5 @@
 var a13708 =
 [
-    [ "FilterTargets", "de/d69/a13708.html#a3aac5e364d04a4a086aaa911051417d5", null ],
-    [ "HandleDummy", "de/d69/a13708.html#aa0705dee3edeca7b61f82581f367e94a", null ],
-    [ "PrepareSpellScript", "de/d69/a13708.html#a1efa036eac25d789850849dc1b209379", null ],
-    [ "Register", "de/d69/a13708.html#a656b512d5bef657004a72acbf7875760", null ],
-    [ "Validate", "de/d69/a13708.html#a33534d9fd70af99bbde1e4a908d22084", null ]
+    [ "at_malfurion_stormrage", "de/d69/a13708.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
+    [ "OnTrigger", "de/d69/a13708.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
 ];

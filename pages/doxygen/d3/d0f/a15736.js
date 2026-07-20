@@ -1,6 +1,6 @@
 var a15736 =
 [
-    [ "npc_murkdeepAI", "da/d6b/a15740.html", "da/d6b/a15740" ],
-    [ "npc_murkdeep", "d3/d0f/a15736.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "d3/d0f/a15736.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "HandleDummy", "d3/d0f/a15736.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
+    [ "PrepareSpellScript", "d3/d0f/a15736.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
+    [ "Register", "d3/d0f/a15736.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
 ];

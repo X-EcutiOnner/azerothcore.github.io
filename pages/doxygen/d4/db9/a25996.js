@@ -1,6 +1,6 @@
 var a25996 =
 [
-    [ "HandleStackDrop", "d4/db9/a25996.html#a8e452c968558f3bd273b18a8055745d2", null ],
-    [ "PrepareAuraScript", "d4/db9/a25996.html#aa18e4975db4e2831c61f38d990886676", null ],
-    [ "Register", "d4/db9/a25996.html#a04ebc4be3fea42ca2352fd441841f76e", null ]
+    [ "HandleDummy", "d4/db9/a25996.html#a1daf78c552ffd963f181eded01b570a9", null ],
+    [ "PrepareSpellScript", "d4/db9/a25996.html#adaa82dfd828ed915cfc16f95e73cd224", null ],
+    [ "Register", "d4/db9/a25996.html#a63771475c954e4bddf6c1fc4c04990e0", null ]
 ];

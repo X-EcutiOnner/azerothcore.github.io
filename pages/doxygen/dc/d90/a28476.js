@@ -1,10 +1,9 @@
 var a28476 =
 [
-    [ "npc_dancing_flamesAI", "dc/d90/a28476.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "dc/d90/a28476.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "dc/d90/a28476.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "dc/d90/a28476.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "dc/d90/a28476.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "dc/d90/a28476.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "dc/d90/a28476.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "npc_necropolis_health", "dc/d90/a28476.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
+    [ "DespawnNecropolis", "dc/d90/a28476.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
+    [ "JustDied", "dc/d90/a28476.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
+    [ "SpellHit", "dc/d90/a28476.html#ad4a9f9b166ab8107a16da918082c6625", null ],
+    [ "SpellHitTarget", "dc/d90/a28476.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
+    [ "_zapCount", "dc/d90/a28476.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
 ];

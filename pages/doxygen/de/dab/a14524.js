@@ -1,6 +1,9 @@
 var a14524 =
 [
-    [ "npc_brewfest_keg_thrower", "de/dab/a14524.html#a29da1efd21fe6737684607e5b360ea84", null ],
-    [ "CanBeSeen", "de/dab/a14524.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
-    [ "MoveInLineOfSight", "de/dab/a14524.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
+    [ "npc_shade_of_jindo", "de/dab/a14524.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
+    [ "IsSummonedBy", "de/dab/a14524.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
+    [ "JustEngagedWith", "de/dab/a14524.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
+    [ "Reset", "de/dab/a14524.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
+    [ "UpdateAI", "de/dab/a14524.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
+    [ "_scheduler", "de/dab/a14524.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
 ];

@@ -1,17 +1,6 @@
 var a07496 =
 [
-    [ "BfGraveyard", "de/d42/a07496.html#a47eb2f535fdce943de03d8daca7f0fd8", null ],
-    [ "~BfGraveyard", "de/d42/a07496.html#a18171fd6fbfe7529bb61fd444e762f36", null ],
-    [ "GetControlTeamId", "de/d42/a07496.html#ac417eb4b9ff8f7c6f19e2148eb81131c", null ],
-    [ "GetDistance", "de/d42/a07496.html#ae290db2a83278c27803d62267aebfb71", null ],
-    [ "GetGraveyardId", "de/d42/a07496.html#ac7944db0403c37282ca90550f8ca4118", null ],
-    [ "GetSpiritGuide", "de/d42/a07496.html#a30536791ab71cc2a0a73cdf0993ca2d3", null ],
-    [ "GiveControlTo", "de/d42/a07496.html#a9fe22d9ebbe1b652322b9a8e5f18ee91", null ],
-    [ "HasNpc", "de/d42/a07496.html#a5f02be27972ae3f9aa8213ddb8c8b8d2", null ],
-    [ "Initialize", "de/d42/a07496.html#a348c0a492efab96df8855f94969c7300", null ],
-    [ "SetSpirit", "de/d42/a07496.html#ab4385a55321e8cf90e91bd10a04f1ddf", null ],
-    [ "Bf", "de/d42/a07496.html#a30abf6abb0dc36c9376f6f405a0a9f4e", null ],
-    [ "ControlTeam", "de/d42/a07496.html#a4d97eae10ede29d7e617b237e2c3fe20", null ],
-    [ "GraveyardId", "de/d42/a07496.html#a06d1c713e7180a9b4c32882835122212", null ],
-    [ "SpiritGuide", "de/d42/a07496.html#a528a36fbd481cb5173d742ac125a2f62", null ]
+    [ "AuctionSearchBidderListRequest", "de/d42/a07496.html#a193c39468959c998a2ccae74342983d2", null ],
+    [ "outbiddedAuctionIds", "de/d42/a07496.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
+    [ "ownerGuid", "de/d42/a07496.html#a6fb69f4996993f264466c50e7485c4a6", null ]
 ];

@@ -1,10 +1,8 @@
 var a23716 =
 [
-    [ "npc_wounded_blood_elfAI", "dc/d52/a23716.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "dc/d52/a23716.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "dc/d52/a23716.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "dc/d52/a23716.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "dc/d52/a23716.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "dc/d52/a23716.html#a5affcb00e28a582f8926ab2226001cd0", null ],
-    [ "WaypointReached", "dc/d52/a23716.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "HandleScriptEffect", "dc/d52/a23716.html#a7cde39fc0844f19604c8026a853e8216", null ],
+    [ "Load", "dc/d52/a23716.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
+    [ "PrepareSpellScript", "dc/d52/a23716.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
+    [ "Register", "dc/d52/a23716.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
+    [ "_currentSpellId", "dc/d52/a23716.html#a0ad25535ba345fe9672150af67687305", null ]
 ];

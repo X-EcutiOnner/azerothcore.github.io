@@ -1,5 +1,5 @@
 var a28920 =
 [
-    [ "id", "d3/d7e/a28920.html#a22e48015dd880199e131089e35b1ce05", null ],
-    [ "spellId", "d3/d7e/a28920.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
+    [ "BitIndex", "d3/d7e/a28920.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
+    [ "ItemId", "d3/d7e/a28920.html#a998c1f6dadb823fbba56bb2154396635", null ]
 ];

@@ -1,9 +1,6 @@
 var a25584 =
 [
-    [ "spell_item_trigger_spell", "d4/dc6/a25584.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
-    [ "HandleDummy", "d4/dc6/a25584.html#a49613255eea28e34cf5ff8a06798f89a", null ],
-    [ "PrepareSpellScript", "d4/dc6/a25584.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
-    [ "Register", "d4/dc6/a25584.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
-    [ "Validate", "d4/dc6/a25584.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
-    [ "_triggeredSpellId", "d4/dc6/a25584.html#a610c5ac434fe788120ed101f7bf58f63", null ]
+    [ "CheckCast", "d4/dc6/a25584.html#a1fbbba8bdc9f775963a999aa00a5a256", null ],
+    [ "PrepareSpellScript", "d4/dc6/a25584.html#a481f9d36567607697c3ad5d9501bba48", null ],
+    [ "Register", "d4/dc6/a25584.html#afff66ccf4f6596475f4b58c529472f26", null ]
 ];

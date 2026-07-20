@@ -1,7 +1,7 @@
 var a16476 =
 [
-    [ "HandleScriptEffect", "d9/dc9/a16476.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "d9/dc9/a16476.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "d9/dc9/a16476.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "d9/dc9/a16476.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "DelayedTalk", "d9/dc9/a16476.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "d9/dc9/a16476.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "d9/dc9/a16476.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "d9/dc9/a16476.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

@@ -1,6 +1,6 @@
 var a20108 =
 [
-    [ "achievement_flame_leviathan_towers", "df/d5c/a20108.html#a491d66bdd373b6044e406126719ef910", null ],
-    [ "OnCheck", "df/d5c/a20108.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
-    [ "_towerCount", "df/d5c/a20108.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
+    [ "FilterTargets", "df/d5c/a20108.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
+    [ "PrepareSpellScript", "df/d5c/a20108.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
+    [ "Register", "df/d5c/a20108.html#a4e803984a3eded2736825f631786c204", null ]
 ];

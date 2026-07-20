@@ -1,7 +1,7 @@
 var a14224 =
 [
-    [ "npc_zuljin_vortex", "d5/d2a/a14224.html#af3af996adc0a0dba4af992234f8356fb", null ],
-    [ "ChangeToNewPlayer", "d5/d2a/a14224.html#ab353794ef978151999fdd2294783e757", null ],
-    [ "Reset", "d5/d2a/a14224.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
-    [ "UpdateAI", "d5/d2a/a14224.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
+    [ "HandleScript", "d5/d2a/a14224.html#acd4373ab762d00d262984c36190d6f93", null ],
+    [ "PrepareSpellScript", "d5/d2a/a14224.html#a113216b272d0386f248a75bfcf30c6a3", null ],
+    [ "Register", "d5/d2a/a14224.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
+    [ "Validate", "d5/d2a/a14224.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
 ];

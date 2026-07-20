@@ -1,5 +1,6 @@
 var a27608 =
 [
-    [ "achievement_bg_control_all_nodes", "d0/d60/a27608.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
-    [ "OnCheck", "d0/d60/a27608.html#a69609eb5488519fa5a1f43b13a80e280", null ]
+    [ "CheckProc", "d0/d60/a27608.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
+    [ "PrepareAuraScript", "d0/d60/a27608.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
+    [ "Register", "d0/d60/a27608.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
 ];

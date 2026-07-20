@@ -1,6 +1,6 @@
 var a18680 =
 [
-    [ "npc_lk_spirit_bombAI", "d9/d5a/a18684.html", "d9/d5a/a18684" ],
-    [ "npc_lk_spirit_bomb", "d7/d8f/a18680.html#acc08d41aa1761c450de782e92307ad7c", null ],
-    [ "GetAI", "d7/d8f/a18680.html#ade74c00beb2da69dafb0ae93d771c430", null ]
+    [ "npc_raging_spiritAI", "d9/d5a/a18684.html", "d9/d5a/a18684" ],
+    [ "npc_raging_spirit", "d7/d8f/a18680.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "d7/d8f/a18680.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

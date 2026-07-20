@@ -1,10 +1,9 @@
 var a29348 =
 [
-    [ "SetUp", "d0/d80/a29348.html#a781aff1ceb2f4e26bcf801e9ab81bf3e", null ],
-    [ "TearDown", "d0/d80/a29348.html#a4554349a2712a018d16de6a8ae9f50ff", null ],
-    [ "PERM_A", "d0/d80/a29348.html#a4cf88cb08e4248c973e96009b7c5e225", null ],
-    [ "PERM_B", "d0/d80/a29348.html#a358884a8d08637d7358803127c87c808", null ],
-    [ "PERM_C", "d0/d80/a29348.html#a34fc88e7d7566ed4d64005535d0a3122", null ],
-    [ "rbacData", "d0/d80/a29348.html#af35ce1e4fa3d4123358a098cb5afb2af", null ],
-    [ "ROLE_R", "d0/d80/a29348.html#abe95477afdf283e406df55eac7f146cf", null ]
+    [ "chargeConsumed", "d0/d80/a29348.html#a49f170e5f66cecdf6d719d1f6ac97254", null ],
+    [ "cooldownSet", "d0/d80/a29348.html#a60219087858953e3ea124b1b784516b2", null ],
+    [ "effectMask", "d0/d80/a29348.html#ae0feb161d225551bba25d466541cde84", null ],
+    [ "procChance", "d0/d80/a29348.html#a0299896836a739f2601a5ee1078f53bb", null ],
+    [ "shouldProc", "d0/d80/a29348.html#a497babcaf1a36b0abd10b4e360c231f2", null ],
+    [ "spellsCast", "d0/d80/a29348.html#a12d58d19ba4df25b8bd9dc6e1d089408", null ]
 ];

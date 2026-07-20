@@ -1,7 +1,9 @@
 var a24836 =
 [
-    [ "HandleEffectPeriodic", "db/dd6/a24836.html#a3a2e7653276964fd36c93b41aa8f25ea", null ],
-    [ "PrepareAuraScript", "db/dd6/a24836.html#a893a539f4eeb0b9f027c5a306cc7bd53", null ],
-    [ "Register", "db/dd6/a24836.html#a36792fd068ec7444aa118ec63cf972a7", null ],
-    [ "Validate", "db/dd6/a24836.html#aa57af116294cfba007586506ba1dbeb5", null ]
+    [ "PrepareAuraScript", "db/dd6/a24836.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "db/dd6/a24836.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "db/dd6/a24836.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "db/dd6/a24836.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "db/dd6/a24836.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "db/dd6/a24836.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

@@ -1,7 +1,6 @@
 var a16768 =
 [
-    [ "npc_toc_shadow_priestAI", "d7/d7c/a16768.html#af13a18be542fb314c19af52f89d216b8", null ],
-    [ "myCanCast", "d7/d7c/a16768.html#a83422ff3e140b57a484d98876a9a8070", null ],
-    [ "UpdateAI", "d7/d7c/a16768.html#afc23ba15d3ee925212e77b5211504c2b", null ],
-    [ "events", "d7/d7c/a16768.html#a31665a22920b416d7423958a3e2928ec", null ]
+    [ "boss_grand_championAI", "d0/dde/a16772.html", "d0/dde/a16772" ],
+    [ "boss_grand_champion", "d7/d7c/a16768.html#a9577f8af5e234b3aebd7567841b867e2", null ],
+    [ "GetAI", "d7/d7c/a16768.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
 ];

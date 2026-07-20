@@ -1,6 +1,10 @@
 var a21852 =
 [
-    [ "npc_still_at_it_triggerAI", "d5/d8c/a21856.html", "d5/d8c/a21856" ],
-    [ "npc_still_at_it_trigger", "d9/df7/a21852.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "d9/df7/a21852.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "npc_Apothecary_HanesAI", "d9/df7/a21852.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
+    [ "JustDied", "d9/df7/a21852.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
+    [ "Reset", "d9/df7/a21852.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
+    [ "UpdateEscortAI", "d9/df7/a21852.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
+    [ "WaypointReached", "d9/df7/a21852.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "WaypointReached", "d9/df7/a21852.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "PotTimer", "d9/df7/a21852.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

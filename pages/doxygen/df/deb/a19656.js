@@ -1,26 +1,7 @@
 var a19656 =
 [
-    [ "instance_oculus_InstanceMapScript", "df/deb/a19656.html#a86c942751aee67ae10e2c77a1ace630e", null ],
-    [ "CheckAchievementCriteriaMeet", "df/deb/a19656.html#a04ea989733a6ba1bed1990e1ea8baf1f", null ],
-    [ "GetData", "df/deb/a19656.html#a44cf46153dd392758fa5c388e8c2ea84", null ],
-    [ "GetGuidData", "df/deb/a19656.html#ac969f1faf18633ad54354015fb66f4f8", null ],
-    [ "Initialize", "df/deb/a19656.html#a1c035ca450efdd89481715bd09c6c38c", null ],
-    [ "OnCreatureCreate", "df/deb/a19656.html#ac5086f399b9d36769632a983890ed576", null ],
-    [ "OnGameObjectCreate", "df/deb/a19656.html#a08abbb0430a43bb4841560b01e9fe26c", null ],
-    [ "OnPlayerEnter", "df/deb/a19656.html#a7046a9b087300d0854bb1078c7bd1c9b", null ],
-    [ "OnUnitDeath", "df/deb/a19656.html#a84fa94a97c62ba7b68130c7a5d8bb4dd", null ],
-    [ "ReadSaveDataMore", "df/deb/a19656.html#aa5f838155be454aec552b99c42edfe99", null ],
-    [ "SetData", "df/deb/a19656.html#a58b0b5142cbae350d6cc61c89a3792af", null ],
-    [ "WriteSaveDataMore", "df/deb/a19656.html#a5043a99a4a3d1c86a4a7026757ebdc14", null ],
-    [ "bAmberVoid", "df/deb/a19656.html#a9dfa8834bfea20a8f4a39c958e38bcbd", null ],
-    [ "bEmeraldVoid", "df/deb/a19656.html#a45ce85a8a6c9362ad04194b0518066c9", null ],
-    [ "bRubyVoid", "df/deb/a19656.html#ad93d6be40d07925d1eb485f864c72ace", null ],
-    [ "CentrifugeCount", "df/deb/a19656.html#ae5a87cc8bfc153aee0f96978f39a1932", null ],
-    [ "DragonCageDoorGUID", "df/deb/a19656.html#a402480035dfffd7c4c717229bd55b921", null ],
-    [ "EregosCacheGUID", "df/deb/a19656.html#aad60cffd6c483bf4610884c3b99ad39c", null ],
-    [ "m_auiEncounter", "df/deb/a19656.html#af4cca13b9039d7c88e7fad1e8f23eb3a", null ],
-    [ "uiDrakosGUID", "df/deb/a19656.html#a1bc410826700bdfcefc5f60d0967a091", null ],
-    [ "uiEregosGUID", "df/deb/a19656.html#a559b482989ee8f91f1ba412683856d89", null ],
-    [ "uiUromGUID", "df/deb/a19656.html#accf640519e925eccf0230ca4a5dee3bb", null ],
-    [ "uiVarosGUID", "df/deb/a19656.html#ab4a87ca38d203deacc377579e66e5bfb", null ]
+    [ "Load", "df/deb/a19656.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
+    [ "PrepareSpellScript", "df/deb/a19656.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
+    [ "Register", "df/deb/a19656.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
+    [ "SetDest", "df/deb/a19656.html#a231a75702f4a98f51d1be45510c5d05f", null ]
 ];

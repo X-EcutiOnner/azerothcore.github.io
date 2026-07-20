@@ -1,20 +1,10 @@
 var a13172 =
 [
-    [ "boss_julianne", "d3/d07/a13172.html#a6433d08be0d5562e876e00225ebf7398", null ],
-    [ "DamageTaken", "d3/d07/a13172.html#a8ff7675405322c2d55bd01cec340f6b8", null ],
-    [ "DoAction", "d3/d07/a13172.html#a985c9c1f77b2769461bf42ddaab302d3", null ],
-    [ "EnterEvadeMode", "d3/d07/a13172.html#af2499ba9d9c25555c82d8d7ae95c7249", null ],
-    [ "JustDied", "d3/d07/a13172.html#abdfaf6fa147c6b35bed28bb2e3ed3c14", null ],
-    [ "JustEngagedWith", "d3/d07/a13172.html#a6c5bd97ad402cc5f5dcda421c5d2bad1", null ],
-    [ "JustReachedHome", "d3/d07/a13172.html#a6bda02d5534b9087741ee7146ec314b5", null ],
-    [ "KilledUnit", "d3/d07/a13172.html#a7430fb4f315ee5dcf5f9c49b2daa66b0", null ],
-    [ "Reset", "d3/d07/a13172.html#a1047e28950098b35bd8a8fc5bec4ed26", null ],
-    [ "ScheduleCombat", "d3/d07/a13172.html#ab0939f8fe0fc34cafbe2dab4ef449895", null ],
-    [ "SpellHit", "d3/d07/a13172.html#a1e142c56a514640dab0d5d7711085f9d", null ],
-    [ "UpdateAI", "d3/d07/a13172.html#ad1e1d5bb27fed12a203c8b10f6ea92a6", null ],
-    [ "_scheduler", "d3/d07/a13172.html#aae4be9b1035626ecc9ad2f3e5b918cbe", null ],
-    [ "instance", "d3/d07/a13172.html#acdc787ba6908e716517683a8536ecf3e", null ],
-    [ "isFakingDeath", "d3/d07/a13172.html#a7a1b3b2ead47a49e80f9ba2b49144a91", null ],
-    [ "phase", "d3/d07/a13172.html#a5b0b680916cd38b2e20a6a1b1a530362", null ],
-    [ "summonedRomulo", "d3/d07/a13172.html#a6938adccd5c781df04dabe6d860f9357", null ]
+    [ "npc_netherspite_infernal", "d3/d07/a13172.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "d3/d07/a13172.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "d3/d07/a13172.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "d3/d07/a13172.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "d3/d07/a13172.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "d3/d07/a13172.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "d3/d07/a13172.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

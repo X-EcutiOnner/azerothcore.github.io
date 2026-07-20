@@ -1,9 +1,9 @@
 var a14376 =
 [
-    [ "boss_hazzarah", "de/d10/a14376.html#a73ba49b91addc9c03e1692587fe66a52", null ],
-    [ "CanAIAttack", "de/d10/a14376.html#a9038a5b4276fda8a6865217a7c494eec", null ],
-    [ "JustEngagedWith", "de/d10/a14376.html#a18e382c03ff923bb851a9cd8e2541788", null ],
-    [ "JustSummoned", "de/d10/a14376.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
-    [ "SummonedCreatureDies", "de/d10/a14376.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
-    [ "UpdateAI", "de/d10/a14376.html#a61d92f1650a84ed9684d33879e54bd09", null ]
+    [ "npc_zulaman_hostageAI", "de/d10/a14376.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
+    [ "JustDied", "de/d10/a14376.html#af87bdebb039f1da5736408cf3aad6487", null ],
+    [ "JustEngagedWith", "de/d10/a14376.html#af0aa229973da1a6230a854439658e9ed", null ],
+    [ "UpdateAI", "de/d10/a14376.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
+    [ "IsLoot", "de/d10/a14376.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
+    [ "PlayerGUID", "de/d10/a14376.html#a49f15c5a94d005c56218d00ac6732b82", null ]
 ];

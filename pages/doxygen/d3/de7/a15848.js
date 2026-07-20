@@ -1,6 +1,6 @@
 var a15848 =
 [
-    [ "npc_bunthen_plainswind", "d3/de7/a15848.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "d3/de7/a15848.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "d3/de7/a15848.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "npc_webbed_creatureAI", "d3/db1/a15852.html", "d3/db1/a15852" ],
+    [ "npc_webbed_creature", "d3/de7/a15848.html#ae52152939766c411e45e827e9ab52d4f", null ],
+    [ "GetAI", "d3/de7/a15848.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
 ];

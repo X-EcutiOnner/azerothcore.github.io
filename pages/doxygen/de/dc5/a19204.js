@@ -1,10 +1,9 @@
 var a19204 =
 [
-    [ "boss_isle_of_conquestAI", "de/dc5/a19204.html#a7880ea86e7a03f5b14875065a83a206a", null ],
-    [ "CheckRageBuff", "de/dc5/a19204.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
-    [ "JustEngagedWith", "de/dc5/a19204.html#a878635ef0673325943e6026ad76c2b06", null ],
-    [ "Reset", "de/dc5/a19204.html#add59669e5f6c3c882ac008c720349573", null ],
-    [ "UpdateAI", "de/dc5/a19204.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
-    [ "events", "de/dc5/a19204.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
-    [ "rage", "de/dc5/a19204.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
+    [ "npc_icc_severed_essenceAI", "de/dc5/a19204.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
+    [ "CanAIAttack", "de/dc5/a19204.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
+    [ "DoAction", "de/dc5/a19204.html#a938af3a7de5b26432e1ad515a326a032", null ],
+    [ "UpdateAI", "de/dc5/a19204.html#a66e3324baa87ba109dd968a517ee82a5", null ],
+    [ "Class", "de/dc5/a19204.html#aa627713be3a2ac01336d158d96aaccc7", null ],
+    [ "events", "de/dc5/a19204.html#a1bab216925c4123d633d9613bb80365c", null ]
 ];

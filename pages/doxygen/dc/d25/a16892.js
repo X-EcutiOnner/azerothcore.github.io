@@ -1,7 +1,6 @@
 var a16892 =
 [
-    [ "FilterTargets", "dc/d25/a16892.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "dc/d25/a16892.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "dc/d25/a16892.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "dc/d25/a16892.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "npc_toc_warlockAI", "d6/da1/a16896.html", "d6/da1/a16896" ],
+    [ "npc_toc_warlock", "dc/d25/a16892.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
+    [ "GetAI", "dc/d25/a16892.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
 ];

@@ -1,6 +1,6 @@
 var a14444 =
 [
-    [ "OnRemove", "de/da0/a14444.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
-    [ "PrepareAuraScript", "de/da0/a14444.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
-    [ "Register", "de/da0/a14444.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
+    [ "OnEffect", "de/da0/a14444.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
+    [ "PrepareSpellScript", "de/da0/a14444.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
+    [ "Register", "de/da0/a14444.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
 ];

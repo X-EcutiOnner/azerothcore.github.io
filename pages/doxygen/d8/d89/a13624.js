@@ -1,12 +1,7 @@
 var a13624 =
 [
-    [ "boss_sacrolash", "d8/d89/a13624.html#a6e251340b2ba8a8300611cf229b93095", null ],
-    [ "CheckInRoom", "d8/d89/a13624.html#ae650b6019d2f9191e1b532176159804d", null ],
-    [ "DoAction", "d8/d89/a13624.html#adbcbd24a90549978032d31d1beeaa4e6", null ],
-    [ "JustDied", "d8/d89/a13624.html#a17c995220572cf803c36470ca80840e2", null ],
-    [ "JustEngagedWith", "d8/d89/a13624.html#a822576bf8588d4e45f1532e1980cc7c7", null ],
-    [ "JustSummoned", "d8/d89/a13624.html#a94214bc45414f61ff53102d6136b7b5c", null ],
-    [ "KilledUnit", "d8/d89/a13624.html#a4d99da498db0e5a60c7c25fcb91e5270", null ],
-    [ "Reset", "d8/d89/a13624.html#aa3128dae87d181e7ab93cf3a13723982", null ],
-    [ "_isSisterDead", "d8/d89/a13624.html#a248d37df91c82069321fc5ea8b1e885d", null ]
+    [ "npc_apothecary_genericAI", "d8/d89/a13624.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "d8/d89/a13624.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "d8/d89/a13624.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "d8/d89/a13624.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

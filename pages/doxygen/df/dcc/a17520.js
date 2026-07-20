@@ -1,6 +1,6 @@
 var a17520 =
 [
-    [ "ShockVortexExplodeEvent", "df/dcc/a17520.html#ad972aed372822e10a476d1592192f3ea", null ],
-    [ "Execute", "df/dcc/a17520.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
-    [ "_owner", "df/dcc/a17520.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
+    [ "HandleEffectPeriodic", "df/dcc/a17520.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
+    [ "PrepareAuraScript", "df/dcc/a17520.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
+    [ "Register", "df/dcc/a17520.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
 ];

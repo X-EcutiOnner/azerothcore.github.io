@@ -1,8 +1,8 @@
 var a10340 =
 [
-    [ "TimedFleeingMovementGenerator", "d1/dac/a10340.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
-    [ "Finalize", "d1/dac/a10340.html#a1a18f033663fa93ef0b9885aae21f766", null ],
-    [ "GetMovementGeneratorType", "d1/dac/a10340.html#a1533d13f4e786e498353805a2a2daf85", null ],
-    [ "Update", "d1/dac/a10340.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
-    [ "i_totalFleeTime", "d1/dac/a10340.html#a2858047459ff675383e7b86805702369", null ]
+    [ "AbstractFollower", "d1/dac/a10340.html#a08d292896f2419dd73ae68c8e1238d4b", null ],
+    [ "~AbstractFollower", "d1/dac/a10340.html#acb394f5326ab5ea5146c79788a085647", null ],
+    [ "GetTarget", "d1/dac/a10340.html#a43f037557454528a956c379d9efb42ac", null ],
+    [ "SetTarget", "d1/dac/a10340.html#ad49748abec4bb2fe06cc8ba2699bdbd0", null ],
+    [ "_target", "d1/dac/a10340.html#aa4e43d8e60442eee41398648fd7fd45d", null ]
 ];

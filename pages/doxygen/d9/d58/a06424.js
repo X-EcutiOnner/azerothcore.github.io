@@ -1,8 +1,9 @@
 var a06424 =
 [
-    [ "GuardAI", "d9/d58/a06424.html#ac1f0ba47d8e32c65845808170330b7af", null ],
-    [ "EnterEvadeMode", "d9/d58/a06424.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
-    [ "JustDied", "d9/d58/a06424.html#a96820cdcb632d3a71f9deacf4998a774", null ],
-    [ "Permissible", "d9/d58/a06424.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
-    [ "Reset", "d9/d58/a06424.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
+    [ "AddonInfo", "d9/d58/a06424.html#a60ea66ed93b64c9e182226954a514f53", null ],
+    [ "CRC", "d9/d58/a06424.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
+    [ "Enabled", "d9/d58/a06424.html#ace9f109c395ed84cc01ca4381222c25b", null ],
+    [ "Name", "d9/d58/a06424.html#a45692257c72286e670ab8c9c50014335", null ],
+    [ "State", "d9/d58/a06424.html#a5301b19e44d68540434574f023e62f46", null ],
+    [ "UsePublicKeyOrCRC", "d9/d58/a06424.html#a75e016fa7abee24757c89b97330a6192", null ]
 ];

@@ -1,7 +1,6 @@
 var a25580 =
 [
-    [ "OnRemove", "db/d27/a25580.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
-    [ "PrepareAuraScript", "db/d27/a25580.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
-    [ "Register", "db/d27/a25580.html#a35a8adc4944fc2333488e72498f6d252", null ],
-    [ "Validate", "db/d27/a25580.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
+    [ "HandleFinish", "db/d27/a25580.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
+    [ "PrepareSpellScript", "db/d27/a25580.html#a62920503172dc58ac864a23e90a98dd9", null ],
+    [ "Register", "db/d27/a25580.html#ab40419508a1903869aa2b36a590301ba", null ]
 ];

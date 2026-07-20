@@ -1,7 +1,5 @@
 var a25304 =
 [
-    [ "HandleScriptEffect", "df/d24/a25304.html#ae3c2900d98c2fd51ff0888ea5d1072c4", null ],
-    [ "PrepareSpellScript", "df/d24/a25304.html#a29ac1789b8023ef3339a7b40ee9c31ab", null ],
-    [ "Register", "df/d24/a25304.html#a321098d2325bfb9cea674d1137348350", null ],
-    [ "Validate", "df/d24/a25304.html#aa16a67bf42f51b838d22dcbe4b5b6f7b", null ]
+    [ "PrepareSpellScript", "df/d24/a25304.html#a5e100554f868649d4edea011fe767b8b", null ],
+    [ "Register", "df/d24/a25304.html#a0ffb1cb313060770227621edb16c3a0d", null ]
 ];

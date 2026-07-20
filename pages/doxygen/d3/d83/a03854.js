@@ -1,23 +1,23 @@
 var a03854 =
 [
-    [ "BattlegroundScore", "d4/d06/a07709.html", "d4/d06/a07709" ],
-    [ "ScoreType", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18", [
-      [ "SCORE_KILLING_BLOWS", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18a22caa690e4e043a997818fdf5a449046", null ],
-      [ "SCORE_DEATHS", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18a4ba4987db8c69483e0652a21dace8412", null ],
-      [ "SCORE_HONORABLE_KILLS", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18ae7b8eadd38f6f3bf514aa4cbd2118aa7", null ],
-      [ "SCORE_BONUS_HONOR", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18a4110f3ce50e9b19ad8219687b6a6860f", null ],
-      [ "SCORE_DAMAGE_DONE", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18a755b66947282176df3f0e28c871a3527", null ],
-      [ "SCORE_HEALING_DONE", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18ac9e8c817b3b8a0e0b001f62fbfe448c2", null ],
-      [ "SCORE_FLAG_CAPTURES", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18a49ecbd479d11f177283e94e2b936b89b", null ],
-      [ "SCORE_FLAG_RETURNS", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18af4b88b5a6497049691b51da5367bec2a", null ],
-      [ "SCORE_BASES_ASSAULTED", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18a108feeea9c0953b1385ca31d65d252e1", null ],
-      [ "SCORE_BASES_DEFENDED", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18aaa34df0d06110a0e6c71c06de612e408", null ],
-      [ "SCORE_GRAVEYARDS_ASSAULTED", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18a10d874c8aa6cc5f92f3c66ed2b09ec6b", null ],
-      [ "SCORE_GRAVEYARDS_DEFENDED", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18ae38155160e05accac751eb7b1c0d1a8a", null ],
-      [ "SCORE_TOWERS_ASSAULTED", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18a6289024a3ec4b3bbd713bb620962b027", null ],
-      [ "SCORE_TOWERS_DEFENDED", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18a2e13ab0e3b8c3865cdd00d826e7f818a", null ],
-      [ "SCORE_MINES_CAPTURED", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18a663b5d13fab1724a2eeb03dab4e78015", null ],
-      [ "SCORE_DESTROYED_DEMOLISHER", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18aa091bf4f9474979e615395285650582e", null ],
-      [ "SCORE_DESTROYED_WALL", "d3/d83/a03854.html#aa5c51730b458b3ddc7b23ce42f320f18a8874623148dc5e2da10eb81e98e0be80", null ]
-    ] ]
+    [ "AddSC_achievement_scripts", "d3/d83/a03854.html#a5091d6f933800f3313078304ad5c38ca", null ],
+    [ "AddSC_action_ip_logger", "d3/d83/a03854.html#a530be5efb251d5ca58e97804e48ad953", null ],
+    [ "AddSC_areatrigger_scripts", "d3/d83/a03854.html#a992f2da647f1f8748c7c9239b52079ad", null ],
+    [ "AddSC_chat_log", "d3/d83/a03854.html#ae796ad81a78a552e5c31fcf6c5c135fa", null ],
+    [ "AddSC_emerald_dragons", "d3/d83/a03854.html#aabef9c5c7a434027ce4d3af6e2b77430", null ],
+    [ "AddSC_generic_creature", "d3/d83/a03854.html#a50f66c4d6429b38157e35a75a0daa31d", null ],
+    [ "AddSC_go_scripts", "d3/d83/a03854.html#a279b19d9fff015d16fc8bbd2fbc9325a", null ],
+    [ "AddSC_guards", "d3/d83/a03854.html#acba582cbc90c710c629dd30926acdca4", null ],
+    [ "AddSC_item_scripts", "d3/d83/a03854.html#a3e28ebf5a580887bb117f786689a34c6", null ],
+    [ "AddSC_npc_innkeeper", "d3/d83/a03854.html#a3ffce1ea6cca981888af85ba67364df9", null ],
+    [ "AddSC_npc_professions", "d3/d83/a03854.html#a428ec531a2dc4e479b5c73e0d0694091", null ],
+    [ "AddSC_npc_stave_of_ancients", "d3/d83/a03854.html#a81e200e5d045a2403cd76a0559a6fd8c", null ],
+    [ "AddSC_npc_taxi", "d3/d83/a03854.html#a36f8a13e2844278c955f3a8155e7a11c", null ],
+    [ "AddSC_npcs_special", "d3/d83/a03854.html#aac822f73be6c9bf1dfaa4bbaec0e5aef", null ],
+    [ "AddSC_player_scripts", "d3/d83/a03854.html#a1f476a8466c12651b57fd55bf13b9617", null ],
+    [ "AddSC_scourge_invasion", "d3/d83/a03854.html#a5e9656f80b8e7b4176a6271aadc2d8e7", null ],
+    [ "AddSC_server_mail", "d3/d83/a03854.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ],
+    [ "AddSC_suns_reach_reclamation", "d3/d83/a03854.html#ae3e186d64e39803c404f1afb2144557b", null ],
+    [ "AddSC_transport_zeppelins", "d3/d83/a03854.html#a29051596b0a3382db98c6b72f7ff3173", null ],
+    [ "AddWorldScripts", "d3/d83/a03854.html#a5e7b18db76511725a47c51e9ce748575", null ]
 ];

@@ -1,7 +1,7 @@
 var a16596 =
 [
-    [ "HandleAfterEffectAbsorb", "de/dcc/a16596.html#ab3d9f3679931b4b3b29713602d08701d", null ],
-    [ "PrepareAuraScript", "de/dcc/a16596.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
-    [ "Register", "de/dcc/a16596.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
-    [ "Validate", "de/dcc/a16596.html#a87750183d2b2d6adb67bba4a1f767029", null ]
+    [ "HandleScriptEffect", "de/dcc/a16596.html#a9582a8faa1b8ba973a76d651a7479348", null ],
+    [ "PrepareSpellScript", "de/dcc/a16596.html#a681102507df3aa365ee2e2f064be5e54", null ],
+    [ "Register", "de/dcc/a16596.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
+    [ "Validate", "de/dcc/a16596.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
 ];

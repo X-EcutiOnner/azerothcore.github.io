@@ -1,6 +1,8 @@
 var a21744 =
 [
-    [ "npc_llod_genericAI", "d0/d0b/a21748.html", "d0/d0b/a21748" ],
-    [ "npc_llod_generic", "dd/d2d/a21744.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "dd/d2d/a21744.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "OnRemove", "dd/d2d/a21744.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
+    [ "PrepareAuraScript", "dd/d2d/a21744.html#a183b5a3b1332695e3c047bb63435389a", null ],
+    [ "Register", "dd/d2d/a21744.html#aad41ab76cc0a882f272e8f79867a7015", null ],
+    [ "Validate", "dd/d2d/a21744.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
+    [ "spellIds", "dd/d2d/a21744.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
 ];

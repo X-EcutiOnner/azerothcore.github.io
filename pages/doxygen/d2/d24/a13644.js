@@ -1,7 +1,7 @@
 var a13644 =
 [
-    [ "HandleScript", "d2/d24/a13644.html#aae2f572a523431f6764f08e4719adbcf", null ],
-    [ "PrepareSpellScript", "d2/d24/a13644.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
-    [ "Register", "d2/d24/a13644.html#ae3b002197564318cc92242bd925d35af", null ],
-    [ "Validate", "d2/d24/a13644.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
+    [ "HandleScript", "d2/d24/a13644.html#acbff60b24bd0239880378b48cb97b6a4", null ],
+    [ "PrepareSpellScript", "d2/d24/a13644.html#a2f72b76ced4443a8eb1dfcf7bf6a4ac5", null ],
+    [ "Register", "d2/d24/a13644.html#a132d35555f1d589caa65ecd3728976d5", null ],
+    [ "Validate", "d2/d24/a13644.html#a503ce41357f8195837c9b14f2468fb5b", null ]
 ];

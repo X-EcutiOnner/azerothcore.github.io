@@ -1,14 +1,14 @@
 var a15676 =
 [
-    [ "npc_draenei_survivorAI", "d3/ddc/a15676.html#a8766dcf9afd6d26d619bead82b549a8f", null ],
-    [ "JustEngagedWith", "d3/ddc/a15676.html#a6d0b790ad7466b14bf0bba0aa37eebf2", null ],
-    [ "MoveInLineOfSight", "d3/ddc/a15676.html#a2b3f0a595fde04ad1e054331a596e225", null ],
-    [ "Reset", "d3/ddc/a15676.html#a3db19a846ce3b4810321eb02d314633f", null ],
-    [ "SpellHit", "d3/ddc/a15676.html#a079789d2f6a03b1c7b0ac7dc43a2550a", null ],
-    [ "UpdateAI", "d3/ddc/a15676.html#aa3fd8e3747fa69b5156e932fddaf6fa7", null ],
-    [ "CanSayHelp", "d3/ddc/a15676.html#a6bf8c4eb06fe661da0c850424843bd42", null ],
-    [ "pCaster", "d3/ddc/a15676.html#a35ad8350e51fd520b75cd0289f19cb09", null ],
-    [ "RunAwayTimer", "d3/ddc/a15676.html#a233885b12615bfbc927d8845d0cff3fd", null ],
-    [ "SayHelpTimer", "d3/ddc/a15676.html#a8d77b110c6af6615d5d39e0870cbe890", null ],
-    [ "SayThanksTimer", "d3/ddc/a15676.html#a4f2d829af97d6fb5ef13e3922ebe99e8", null ]
+    [ "boss_twinemperorsAI", "d3/ddc/a15676.html#ae0857b191dbbf086533062aee5885237", null ],
+    [ "DamageTaken", "d3/ddc/a15676.html#a118151851f36de9dfc22971a965cb047", null ],
+    [ "DoAction", "d3/ddc/a15676.html#a2b5e585749b7a59663813c7a9d56c223", null ],
+    [ "EnterEvadeMode", "d3/ddc/a15676.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
+    [ "GetTwin", "d3/ddc/a15676.html#af23aa54bca9752c242e80331862ace4d", null ],
+    [ "IAmVeklor", "d3/ddc/a15676.html#acdccdde2ee573f51e1783ea493577258", null ],
+    [ "JustDied", "d3/ddc/a15676.html#a9cc74619908c2aa9f8deda2689616735", null ],
+    [ "JustEngagedWith", "d3/ddc/a15676.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
+    [ "KilledUnit", "d3/ddc/a15676.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
+    [ "UpdateAI", "d3/ddc/a15676.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
+    [ "_introDone", "d3/ddc/a15676.html#a1b4689b0c403f7246ae100e4f716b138", null ]
 ];

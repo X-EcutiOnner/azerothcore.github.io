@@ -1,12 +1,8 @@
 var a11988 =
 [
-    [ "CreatureTextBuilder", "d5/d2a/a11988.html#a582eed3ab284675e72261a1db9808925", null ],
-    [ "operator()", "d5/d2a/a11988.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
-    [ "_gender", "d5/d2a/a11988.html#a615c3046f749bf44b036958fb1a50128", null ],
-    [ "_language", "d5/d2a/a11988.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
-    [ "_msgType", "d5/d2a/a11988.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
-    [ "_source", "d5/d2a/a11988.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
-    [ "_target", "d5/d2a/a11988.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
-    [ "_textGroup", "d5/d2a/a11988.html#afcd842c1482980c6232f3f19d21a1481", null ],
-    [ "_textId", "d5/d2a/a11988.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
+    [ "EffectHandler", "d5/d2a/a11988.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "d5/d2a/a11988.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "d5/d2a/a11988.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "d5/d2a/a11988.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "d5/d2a/a11988.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

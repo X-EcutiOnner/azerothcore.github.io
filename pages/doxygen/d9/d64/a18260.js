@@ -1,7 +1,6 @@
 var a18260 =
 [
-    [ "HandleScript", "d9/d64/a18260.html#a802f667b20bccd3395c233482aa2485b", null ],
-    [ "PrepareSpellScript", "d9/d64/a18260.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
-    [ "Register", "d9/d64/a18260.html#a730fded490df68f501010f952ceea40b", null ],
-    [ "Validate", "d9/d64/a18260.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
+    [ "PrepareSpellScript", "d9/d64/a18260.html#a16eadb50b6038f16ea28464d00df3381", null ],
+    [ "Register", "d9/d64/a18260.html#ac6e304d391011863b8eff8105fab5191", null ],
+    [ "SelectDest", "d9/d64/a18260.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
 ];

@@ -1,6 +1,9 @@
 var a18556 =
 [
-    [ "HandleScript", "dd/d90/a18556.html#aa05c6e510e933a71a6bce8d653632ebd", null ],
-    [ "PrepareSpellScript", "dd/d90/a18556.html#add6b78f0396a34c36e0dff1928889e43", null ],
-    [ "Register", "dd/d90/a18556.html#a587247f7417cefa2b8aa5a8edb8e2616", null ]
+    [ "ShadowTrapLKTargetSelector", "dd/d90/a18556.html#a33561775948e07ac6ade2037f237441d", null ],
+    [ "operator()", "dd/d90/a18556.html#a3770329509c6ab2f16ae369ea8d72645", null ],
+    [ "_maxDist", "dd/d90/a18556.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
+    [ "_playerOnly", "dd/d90/a18556.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
+    [ "_reqLOS", "dd/d90/a18556.html#a7911be23196f59d55028affc3be23c20", null ],
+    [ "_source", "dd/d90/a18556.html#af416013aabf3b217b07228072076603d", null ]
 ];

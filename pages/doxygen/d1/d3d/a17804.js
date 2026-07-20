@@ -1,7 +1,6 @@
 var a17804 =
 [
-    [ "DelayedMovementEvent", "d1/d3d/a17804.html#a21241cde30f66ae42edb311542f7405c", null ],
-    [ "Execute", "d1/d3d/a17804.html#a8287761226ee671905151891779b6efb", null ],
-    [ "_dest", "d1/d3d/a17804.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
-    [ "_owner", "d1/d3d/a17804.html#a046942728282a997068de447271f3cbe", null ]
+    [ "boss_deathbringer_saurfangAI", "d4/d7c/a17808.html", "d4/d7c/a17808" ],
+    [ "boss_deathbringer_saurfang", "d1/d3d/a17804.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "d1/d3d/a17804.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

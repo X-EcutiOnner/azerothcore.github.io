@@ -1,6 +1,7 @@
 var a14752 =
 [
-    [ "npc_soh_fire_trigger", "da/d19/a14752.html#a8bddde264f4848c9a8ed83dcad190223", null ],
-    [ "Reset", "da/d19/a14752.html#acbec442907a8b40ae04496c53f210aa2", null ],
-    [ "SpellHit", "da/d19/a14752.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
+    [ "PeriodicTick", "da/d19/a14752.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
+    [ "PrepareAuraScript", "da/d19/a14752.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
+    [ "Register", "da/d19/a14752.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
+    [ "Validate", "da/d19/a14752.html#a68247c2afa553411fac34582e83635c9", null ]
 ];

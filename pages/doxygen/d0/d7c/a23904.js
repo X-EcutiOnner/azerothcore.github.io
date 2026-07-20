@@ -1,6 +1,6 @@
 var a23904 =
 [
-    [ "npc_enraged_spiritAI", "d7/d76/a23908.html", "d7/d76/a23908" ],
-    [ "npc_enraged_spirit", "d0/d7c/a23904.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
-    [ "GetAI", "d0/d7c/a23904.html#aa10d5f0147cf4064a49df735ac95575e", null ]
+    [ "go_beaconAI", "d0/d7c/a23904.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
+    [ "OnStateChanged", "d0/d7c/a23904.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
+    [ "_whelpGUIDs", "d0/d7c/a23904.html#a083094ececd327c833649da6a755c635", null ]
 ];

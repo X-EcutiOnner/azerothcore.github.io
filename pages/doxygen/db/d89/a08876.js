@@ -1,5 +1,9 @@
 var a08876 =
 [
-    [ "PlayerClassInfo", "db/d89/a08876.html#a6a0a6db24e144593356e0505946e8f06", null ],
-    [ "levelInfo", "db/d89/a08876.html#aa234b353361ef0017ec974ca4c8e86f1", null ]
+    [ "PetInfo", "de/d37/a08880.html", "de/d37/a08880" ],
+    [ "GetUnslottedHunterPet", "db/d89/a08876.html#a4e0e22a135703c989976694a32912cbd", null ],
+    [ "CurrentPet", "db/d89/a08876.html#a7a9f76452985abc65560773ac413208f", null ],
+    [ "MaxStabledPets", "db/d89/a08876.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
+    [ "StabledPets", "db/d89/a08876.html#a6bd064e692fff316581d08680b163026", null ],
+    [ "UnslottedPets", "db/d89/a08876.html#a8e6f6e36722dd883e6df962a1e950346", null ]
 ];

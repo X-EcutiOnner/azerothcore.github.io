@@ -1,6 +1,6 @@
 var a21696 =
 [
-    [ "npc_plaguehound_trackerAI", "d7/df8/a21700.html", "d7/df8/a21700" ],
-    [ "npc_plaguehound_tracker", "d9/d2f/a21696.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
-    [ "GetAI", "d9/d2f/a21696.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
+    [ "npc_q24545_vegard_dummyAI", "d9/d2f/a21696.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
+    [ "UpdateAI", "d9/d2f/a21696.html#aa31baac9ce3c4c951f93917b88390797", null ],
+    [ "done", "d9/d2f/a21696.html#a0208fbae8e6c46d0671107530279c50c", null ]
 ];

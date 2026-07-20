@@ -1,6 +1,5 @@
 var a23540 =
 [
-    [ "lapseTeleport", "d8/d30/a23540.html#a55c4330397214bf3a43628b3067d4634", null ],
-    [ "Execute", "d8/d30/a23540.html#a122023ed13fce2f5bb3721e459964443", null ],
-    [ "_owner", "d8/d30/a23540.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
+    [ "at_shattered_halls_execution", "d8/d30/a23540.html#a73f1d1f03960acd070b7996257f7a526", null ],
+    [ "OnTrigger", "d8/d30/a23540.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
 ];

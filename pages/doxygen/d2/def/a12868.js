@@ -1,6 +1,13 @@
 var a12868 =
 [
-    [ "boss_magmadar", "d2/def/a12868.html#a1d7fe10f244e2975a858ee884a02ce57", null ],
-    [ "ExecuteEvent", "d2/def/a12868.html#af846ccbb6fa4a63b7ea04474deeb7db5", null ],
-    [ "JustEngagedWith", "d2/def/a12868.html#a4a38f37d0cbe892b7336694ef6008f2d", null ]
+    [ "boss_nefarian", "d2/def/a12868.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
+    [ "JustDied", "d2/def/a12868.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
+    [ "JustEngagedWith", "d2/def/a12868.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
+    [ "KilledUnit", "d2/def/a12868.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
+    [ "MovementInform", "d2/def/a12868.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
+    [ "PathEndReached", "d2/def/a12868.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
+    [ "Reset", "d2/def/a12868.html#a5d687fce34b17e22c605c263395e823b", null ],
+    [ "UpdateAI", "d2/def/a12868.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
+    [ "_introDone", "d2/def/a12868.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
+    [ "classesPresent", "d2/def/a12868.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
 ];

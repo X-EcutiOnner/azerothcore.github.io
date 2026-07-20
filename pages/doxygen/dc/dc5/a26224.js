@@ -1,6 +1,7 @@
 var a26224 =
 [
-    [ "HandleProc", "dc/dc5/a26224.html#a746a66c768e1987eb3752a41b19b822d", null ],
-    [ "PrepareAuraScript", "dc/dc5/a26224.html#a396023bc98b70b6357630e45a2278afc", null ],
-    [ "Register", "dc/dc5/a26224.html#a6af4e80cf3c88320a6157e986a4b719f", null ]
+    [ "HandleProc", "dc/dc5/a26224.html#aed93f4b7af2194f765375b8f5e0318f7", null ],
+    [ "PrepareAuraScript", "dc/dc5/a26224.html#a10e7c8e5df3cc2e13450fc6ee9f30342", null ],
+    [ "Register", "dc/dc5/a26224.html#afb0a37d7f0e8dac4a2aa4bf4d35f470a", null ],
+    [ "Validate", "dc/dc5/a26224.html#a690f78253492b2d509d0ce1cf7807ffa", null ]
 ];

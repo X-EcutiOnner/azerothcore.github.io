@@ -1,12 +1,11 @@
 var a20528 =
 [
-    [ "boss_thorim_lightning_orb", "d5/d30/a20528.html#a04d4de44a41e62d6c1c4c68d3064a861", null ],
-    [ "AttackStart", "d5/d30/a20528.html#a8e512ec039d93b1ceb7a2b8ee556fa56", null ],
-    [ "EnterEvadeMode", "d5/d30/a20528.html#a855df9994de0901e56ac6f84d71ab7e4", null ],
-    [ "InitWaypoint", "d5/d30/a20528.html#a46a7a73cb200d7bbaa7f38871c765254", null ],
-    [ "MoveInLineOfSight", "d5/d30/a20528.html#a3577618ff9d5bdea191d840b6c968fad", null ],
-    [ "Reset", "d5/d30/a20528.html#adeefc7cd014021305b77cc9c52102ce6", null ],
-    [ "WaypointReached", "d5/d30/a20528.html#a3948ca0a57befa16e15e0d6ab97a0cbe", null ],
-    [ "WaypointReached", "d5/d30/a20528.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "Timer", "d5/d30/a20528.html#a79c24c42364c9932199ece2775f7a7f2", null ]
+    [ "npc_ulduar_proximity_mine", "d5/d30/a20528.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
+    [ "AttackStart", "d5/d30/a20528.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "d5/d30/a20528.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "d5/d30/a20528.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "d5/d30/a20528.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "_exploded", "d5/d30/a20528.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
+    [ "_timer", "d5/d30/a20528.html#afe009de55826305826105bd29458d0eb", null ],
+    [ "_timer2", "d5/d30/a20528.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
 ];

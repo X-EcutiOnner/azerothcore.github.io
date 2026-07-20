@@ -1,7 +1,6 @@
 var a14216 =
 [
-    [ "spell", "d4/d32/a14216.html#a55423d09b2f1775dc386a36168ad764d", null ],
-    [ "spiritEntry", "d4/d32/a14216.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
-    [ "text", "d4/d32/a14216.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
-    [ "unaura", "d4/d32/a14216.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
+    [ "boss_blight_wormAI", "d5/def/a14220.html", "d5/def/a14220" ],
+    [ "boss_blight_worm", "d4/d32/a14216.html#a6dea51baebc6b44ef94342565136e56d", null ],
+    [ "GetAI", "d4/d32/a14216.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
 ];

@@ -1,6 +1,5 @@
 var a02477 =
 [
-    [ "ResetNotifier", "dd/d37/a10181.html", "dd/d37/a10181" ],
-    [ "MAP_INVALID_ZONE", "d0/dc2/a02477.html#ab627038bd646584995dec28f4e212525", null ],
-    [ "IsInWMOInterior", "d0/dc2/a02477.html#ad41458075af3abab316f89b325f54b7e", null ]
+    [ "worldstate_commandscript", "d1/d26/a12556.html", "d1/d26/a12556" ],
+    [ "AddSC_worldstate_commandscript", "d0/dc2/a02477.html#a2ff66ad19f50180b9878cf95696fd09b", null ]
 ];

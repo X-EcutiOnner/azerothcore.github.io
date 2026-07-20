@@ -1,4 +1,6 @@
 var a28972 =
 [
-    [ "Id", "d8/d4c/a28972.html#aebb809589854147a8a521263968ed6d9", null ]
+    [ "Id", "d8/d4c/a28972.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "d8/d4c/a28972.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "d8/d4c/a28972.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

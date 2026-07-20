@@ -1,6 +1,5 @@
 var a08224 =
 [
-    [ "p0", "d7/d3b/a08224.html#aaf1df5d479ef12c6bfa9b02c8d9a54ad", null ],
-    [ "p1", "d7/d3b/a08224.html#a8c5a9c6371f264469203575be48684fa", null ],
-    [ "p2", "d7/d3b/a08224.html#a40d46738768d6c2037e5978ce32a9fb8", null ]
+    [ "ThreatReferenceImpl", "d7/d3b/a08224.html#ae69492bf301cc65e2554ac6d46039086", null ],
+    [ "_handle", "d7/d3b/a08224.html#a500806ed499b69bcae1d9a05071dea2c", null ]
 ];

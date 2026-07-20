@@ -1,9 +1,5 @@
 var a24072 =
 [
-    [ "npc_pet_gen_toxic_wasteling", "d7/d27/a24072.html#a550a1a9324f605b1a9fd715571f819b7", null ],
-    [ "EnterEvadeMode", "d7/d27/a24072.html#abe25deca7fd1c319085995657d62f22a", null ],
-    [ "MovementInform", "d7/d27/a24072.html#aec73d567c3bd178ffee3bdece83a409e", null ],
-    [ "Reset", "d7/d27/a24072.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
-    [ "UpdateAI", "d7/d27/a24072.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
-    [ "checkTimer", "d7/d27/a24072.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
+    [ "go_crystal_prison", "d7/d27/a24072.html#a0faca8b76f9650ee5cc7825b90463365", null ],
+    [ "OnQuestAccept", "d7/d27/a24072.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
 ];

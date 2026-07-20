@@ -1,6 +1,6 @@
 var a25688 =
 [
-    [ "HandleProc", "d9/d35/a25688.html#aa333d52d905e722554d8d61c4b9cb656", null ],
-    [ "PrepareAuraScript", "d9/d35/a25688.html#aac4320b061d627e4ffef737d2e858ef3", null ],
-    [ "Register", "d9/d35/a25688.html#ad58fea9afa6a3596437a324ec525982e", null ]
+    [ "HandleDummy", "d9/d35/a25688.html#ade4c16273ebefaeefac3bfb51c61d19a", null ],
+    [ "PrepareSpellScript", "d9/d35/a25688.html#adfa89e065aa18b3e11998331c426151a", null ],
+    [ "Register", "d9/d35/a25688.html#ab37569c6b2362220cbce92eb184cc6db", null ]
 ];

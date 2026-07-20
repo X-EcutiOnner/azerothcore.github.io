@@ -1,7 +1,7 @@
 var a20612 =
 [
-    [ "FilterTargets", "d9/dda/a20612.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "d9/dda/a20612.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "d9/dda/a20612.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "d9/dda/a20612.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "npc_ulduar_expedition_commanderAI", "d9/dda/a20612.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "d9/dda/a20612.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "d9/dda/a20612.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "d9/dda/a20612.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

@@ -1,5 +1,7 @@
 var a19152 =
 [
-    [ "at_frozen_throne_teleport", "dd/d0d/a19152.html#a8065b9f9b55b267be1757775f84de349", null ],
-    [ "OnTrigger", "dd/d0d/a19152.html#ae1f9476b7f47320f545e702e9317bd03", null ]
+    [ "HandleDummy", "dd/d0d/a19152.html#a4bfc155129bd80c94b4b59474f30d748", null ],
+    [ "PrepareSpellScript", "dd/d0d/a19152.html#a9c72772f9d17b34562bd11418d67872d", null ],
+    [ "Register", "dd/d0d/a19152.html#a10c9f511da4eb366117d356c118408c6", null ],
+    [ "Validate", "dd/d0d/a19152.html#a655f2081d17c06c155641efc45efc1f8", null ]
 ];

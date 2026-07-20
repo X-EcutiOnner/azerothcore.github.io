@@ -1,6 +1,6 @@
 var a21956 =
 [
-    [ "npc_freed_protodrakeAI", "d3/d44/a21960.html", "d3/d44/a21960" ],
-    [ "npc_freed_protodrake", "de/d1a/a21956.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
-    [ "GetAI", "de/d1a/a21956.html#a9680bf65cb97327396f58c297df1c8f5", null ]
+    [ "npc_infra_green_bomber_genericAI", "d3/d44/a21960.html", "d3/d44/a21960" ],
+    [ "npc_infra_green_bomber_generic", "de/d1a/a21956.html#a39134a09376c35f15e99377cd28ac6ff", null ],
+    [ "GetAI", "de/d1a/a21956.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
 ];

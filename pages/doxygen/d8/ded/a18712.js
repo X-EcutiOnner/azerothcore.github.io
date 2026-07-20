@@ -1,6 +1,6 @@
 var a18712 =
 [
-    [ "ManaVoidSelector", "d8/ded/a18712.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
-    [ "operator()", "d8/ded/a18712.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
-    [ "_source", "d8/ded/a18712.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
+    [ "ModDest", "d8/ded/a18712.html#a71638bdecb0f580dceff7858441056d8", null ],
+    [ "PrepareSpellScript", "d8/ded/a18712.html#a741227928e07585b156ec716ae8b13da", null ],
+    [ "Register", "d8/ded/a18712.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
 ];

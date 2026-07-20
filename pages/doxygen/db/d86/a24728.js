@@ -1,7 +1,8 @@
 var a24728 =
 [
-    [ "HandleEffectRemove", "db/d86/a24728.html#a3d6b6ae0bde8ae51362c95df82604d68", null ],
-    [ "PrepareAuraScript", "db/d86/a24728.html#aa07b231cc76afb098ac8bc92eb050c80", null ],
-    [ "Register", "db/d86/a24728.html#aa381143f36a6443dfb1f0d66ce81c351", null ],
-    [ "AuraEffectHandleModes", "db/d86/a24728.html#a97370dd3f7c3e58a719090176c397386", null ]
+    [ "CheckProc", "db/d86/a24728.html#ab960abbaa9d2728ff1c471e491844e2f", null ],
+    [ "HandleProc", "db/d86/a24728.html#a23746c343ca01160b73822e3457514d5", null ],
+    [ "PrepareAuraScript", "db/d86/a24728.html#a2ddb4cb53c7aabb8e1e09eb1036fafe0", null ],
+    [ "Register", "db/d86/a24728.html#a78dbfa8833c8f8958e8e9a38cc9812a7", null ],
+    [ "Validate", "db/d86/a24728.html#a715de16d0510d8b2cbd9e281c3e3274a", null ]
 ];

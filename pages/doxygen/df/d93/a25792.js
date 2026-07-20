@@ -1,7 +1,8 @@
 var a25792 =
 [
-    [ "HandleHeal", "df/d93/a25792.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
-    [ "Load", "df/d93/a25792.html#a4dd5016439e8798083fe3d4fa5458731", null ],
-    [ "PrepareSpellScript", "df/d93/a25792.html#a248ae6d2c8f8d6c014a0164105773836", null ],
-    [ "Register", "df/d93/a25792.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
+    [ "HandleDummy", "df/d93/a25792.html#a0604906219798bec87624f8179292317", null ],
+    [ "Load", "df/d93/a25792.html#a99d0d9dd5818a9252536879a3a1dab66", null ],
+    [ "PrepareSpellScript", "df/d93/a25792.html#a51602256218ee899b7391b2b7af0ee7b", null ],
+    [ "Register", "df/d93/a25792.html#a7b065390e95c9673a28d1c49158766ff", null ],
+    [ "Validate", "df/d93/a25792.html#a0bf9973fae74a700623805352908aa69", null ]
 ];

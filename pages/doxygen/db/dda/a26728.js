@@ -1,6 +1,7 @@
 var a26728 =
 [
-    [ "HandleScriptEffect", "db/dda/a26728.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
-    [ "PrepareSpellScript", "db/dda/a26728.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
-    [ "Register", "db/dda/a26728.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
+    [ "HandleHeal", "db/dda/a26728.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
+    [ "PrepareSpellScript", "db/dda/a26728.html#a9de9260bc1e2582138c58a708e5d899c", null ],
+    [ "Register", "db/dda/a26728.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
+    [ "Validate", "db/dda/a26728.html#aa300822cf5455404482124a6853fb314", null ]
 ];

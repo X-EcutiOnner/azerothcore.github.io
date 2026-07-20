@@ -1,6 +1,5 @@
 var a23480 =
 [
-    [ "OnApply", "d5/d56/a23480.html#a472220f22165c6d21eab5f4b5f75921e", null ],
-    [ "PrepareAuraScript", "d5/d56/a23480.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
-    [ "Register", "d5/d56/a23480.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
+    [ "spellId", "d5/d56/a23480.html#acc63d01d5095adef28b9746c520be973", null ],
+    [ "textId", "d5/d56/a23480.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
 ];

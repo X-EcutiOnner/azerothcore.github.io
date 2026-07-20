@@ -1,9 +1,5 @@
 var a12616 =
 [
-    [ "boss_overlord_wyrmthalak", "d4/dcd/a12616.html#a412ced7f6cbb2c02b174824b57132ab3", null ],
-    [ "JustDied", "d4/dcd/a12616.html#a66f2bda1b2352c42a15be505f6d610c6", null ],
-    [ "JustEngagedWith", "d4/dcd/a12616.html#a4673b2e6c3b7143ab088b699c7f41d8a", null ],
-    [ "Reset", "d4/dcd/a12616.html#a8c4bff3d35d4ddb5c6c8994cb4ee9d67", null ],
-    [ "UpdateAI", "d4/dcd/a12616.html#afcca6360598b40df4c35bff752eee3f4", null ],
-    [ "_summoned", "d4/dcd/a12616.html#a4ccbe2c20ef1303141005a79ec418705", null ]
+    [ "at_ring_of_law", "d4/dcd/a12616.html#ad9bb44e898f90fb489b50cad0a711976", null ],
+    [ "OnTrigger", "d4/dcd/a12616.html#a613471caae75ab3d82ce915101a20108", null ]
 ];

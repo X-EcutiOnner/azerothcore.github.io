@@ -1,6 +1,9 @@
 var a18736 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "d9/d4f/a18740.html", "d9/d4f/a18740" ],
-    [ "npc_green_dragon_combat_trigger", "dd/d00/a18736.html#acec675494f5e5e9609bf34b7f25cb569", null ],
-    [ "GetAI", "dd/d00/a18736.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
+    [ "HandleScript", "dd/d00/a18736.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
+    [ "Load", "dd/d00/a18736.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
+    [ "PrepareSpellScript", "dd/d00/a18736.html#a73931c9434114749b9db648665153083", null ],
+    [ "Register", "dd/d00/a18736.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
+    [ "SelectTarget", "dd/d00/a18736.html#a95be527c43ceeb4801f4e494753c1b59", null ],
+    [ "_target", "dd/d00/a18736.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
 ];

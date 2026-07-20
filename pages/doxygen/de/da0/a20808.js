@@ -1,6 +1,15 @@
 var a20808 =
 [
-    [ "instance_ulduar_InstanceMapScript", "dd/d7c/a20812.html", "dd/d7c/a20812" ],
-    [ "instance_ulduar", "de/da0/a20808.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "de/da0/a20808.html#ae263428f4229c75b22f990dabe6b3c06", null ]
+    [ "boss_yoggsaron_cloud", "de/da0/a20808.html#a4efbeab85d5770784f1474176a23fd74", null ],
+    [ "AttackStart", "de/da0/a20808.html#a280ad77f30f06c01ee16434794814767", null ],
+    [ "DoAction", "de/da0/a20808.html#ad7452d20420fc1fc30088e455a9cdfc3", null ],
+    [ "InitWaypoint", "de/da0/a20808.html#a390c25b21c29aafb616bd2c827352ffe", null ],
+    [ "JustSummoned", "de/da0/a20808.html#a2c321419548e8ce151d639c3fbd7b1b4", null ],
+    [ "MoveInLineOfSight", "de/da0/a20808.html#a798009bca30677a645529b1313cc89ae", null ],
+    [ "Reset", "de/da0/a20808.html#ad548ae65a05f600487a57899760ebab0", null ],
+    [ "UpdateEscortAI", "de/da0/a20808.html#aba8043fca75864e583da9c5167efce3b", null ],
+    [ "WaypointReached", "de/da0/a20808.html#aae9f3ac55a3008fcc88d78c907056827", null ],
+    [ "WaypointReached", "de/da0/a20808.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_checkTimer", "de/da0/a20808.html#aa6fda2f2b1d3405bd1aca66e37abbcd8", null ],
+    [ "_isSummoning", "de/da0/a20808.html#a339bf4c5ef6449d42aa3c36759a99aa4", null ]
 ];

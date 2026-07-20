@@ -1,12 +1,7 @@
 var a15104 =
 [
-    [ "boss_mal_ganisAI", "d7/db5/a15104.html#aa8b70930372cd0729686f7c6032d3152", null ],
-    [ "DamageTaken", "d7/db5/a15104.html#a4873386266ce3b4b849377028ff746a5", null ],
-    [ "JustDied", "d7/db5/a15104.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
-    [ "JustEngagedWith", "d7/db5/a15104.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
-    [ "KilledUnit", "d7/db5/a15104.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
-    [ "Reset", "d7/db5/a15104.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
-    [ "UpdateAI", "d7/db5/a15104.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
-    [ "events", "d7/db5/a15104.html#a194c002efe244b8c94a072faf72be771", null ],
-    [ "finished", "d7/db5/a15104.html#ac4c90c814aa55781f863c958253e9df2", null ]
+    [ "HandleProc", "d7/db5/a15104.html#a6d1d8eb2ad0085df31d4f0e00c632fb2", null ],
+    [ "PrepareAuraScript", "d7/db5/a15104.html#a95e3495f3e696ee908c4b17cf6dee370", null ],
+    [ "Register", "d7/db5/a15104.html#a9beecfcf0f11b551bfdc840e10db2432", null ],
+    [ "Validate", "d7/db5/a15104.html#a18398f81a80f9a1f47958de3be7b9189", null ]
 ];

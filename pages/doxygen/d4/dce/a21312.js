@@ -1,6 +1,6 @@
 var a21312 =
 [
-    [ "npc_hidden_cultistAI", "d1/d1d/a21316.html", "d1/d1d/a21316" ],
-    [ "npc_hidden_cultist", "d4/dce/a21312.html#ab455b35fea966360e01fb8975adad989", null ],
-    [ "GetAI", "d4/dce/a21312.html#a4897006d9416f1177b0bc0e41df60293", null ]
+    [ "HandleEffectPeriodic", "d4/dce/a21312.html#a508ff9e362d586497839aa29ceae1227", null ],
+    [ "PrepareAuraScript", "d4/dce/a21312.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
+    [ "Register", "d4/dce/a21312.html#a4b08cefe7d334635b70d389cc9df4901", null ]
 ];

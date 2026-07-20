@@ -1,6 +1,6 @@
 var a21484 =
 [
-    [ "HandleSendEvent", "d0/deb/a21484.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "d0/deb/a21484.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "d0/deb/a21484.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "npc_bloodmage_laurithAI", "db/d54/a21488.html", "db/d54/a21488" ],
+    [ "npc_bloodmage_laurith", "d0/deb/a21484.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
+    [ "GetAI", "d0/deb/a21484.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
 ];

@@ -1,6 +1,5 @@
 var a17132 =
 [
-    [ "npc_fos_leader_secondAI", "dc/dfe/a17136.html", "dc/dfe/a17136" ],
-    [ "npc_fos_leader_second", "da/d42/a17132.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
-    [ "GetAI", "da/d42/a17132.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
+    [ "achievement_better_off_dred", "da/d42/a17132.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
+    [ "OnCheck", "da/d42/a17132.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
 ];

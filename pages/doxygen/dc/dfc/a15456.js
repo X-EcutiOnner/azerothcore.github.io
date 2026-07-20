@@ -1,5 +1,5 @@
 var a15456 =
 [
-    [ "boss_yauj", "dc/dfc/a15456.html#a15ab7b6b35d29fb1552b11586163320e", null ],
-    [ "JustEngagedWith", "dc/dfc/a15456.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
+    [ "pathId", "dc/dfc/a15456.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
+    [ "spellId", "dc/dfc/a15456.html#af495f984d5b81baeaa61ddca127a9508", null ]
 ];

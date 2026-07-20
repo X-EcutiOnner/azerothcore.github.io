@@ -1,6 +1,5 @@
 var a08108 =
 [
-    [ "Rank", "d7/d0d/a08108.html#abd26e25c76d5344dfdd94547b2f310d4", null ],
-    [ "Spell", "d7/d0d/a08108.html#a0cb15c7c1e640b5a6acc8f8d94e6c719", null ],
-    [ "Talent", "d7/d0d/a08108.html#ae39546dc8db233709131b388a3868c1a", null ]
+    [ "IsColorValid", "d7/d0d/a08108.html#a537a2beaa8321095d2d67b8fb655acea", null ],
+    [ "IsTextValid", "d7/d0d/a08108.html#aeaa47302a91b5882afae3950ffc460cc", null ]
 ];

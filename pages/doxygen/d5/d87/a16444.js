@@ -1,7 +1,7 @@
 var a16444 =
 [
-    [ "npc_orb_carrierAI", "d5/d87/a16444.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "d5/d87/a16444.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "d5/d87/a16444.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "d5/d87/a16444.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "boss_sartharion_shadron", "d5/d87/a16444.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
+    [ "ExecuteEvent", "d5/d87/a16444.html#a1f1a235d4d5654e273ef821ebf962491", null ],
+    [ "Reset", "d5/d87/a16444.html#a8511eb55a486665a248d555337c25002", null ],
+    [ "SummonedCreatureDies", "d5/d87/a16444.html#a3967c70698675d2c925a1a0366bf1d00", null ]
 ];

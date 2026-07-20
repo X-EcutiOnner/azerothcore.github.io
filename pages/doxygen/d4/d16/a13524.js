@@ -1,7 +1,8 @@
 var a13524 =
 [
-    [ "HandleScript", "d4/d16/a13524.html#acbff60b24bd0239880378b48cb97b6a4", null ],
-    [ "PrepareSpellScript", "d4/d16/a13524.html#a2f72b76ced4443a8eb1dfcf7bf6a4ac5", null ],
-    [ "Register", "d4/d16/a13524.html#a132d35555f1d589caa65ecd3728976d5", null ],
-    [ "Validate", "d4/d16/a13524.html#a503ce41357f8195837c9b14f2468fb5b", null ]
+    [ "npc_highlord_darion_mograineAI", "dc/deb/a13528.html", "dc/deb/a13528" ],
+    [ "npc_highlord_darion_mograine", "d4/d16/a13524.html#a86680b1a140c706b10fd48befc572286", null ],
+    [ "GetAI", "d4/d16/a13524.html#a350539ed741fa372ffff92ffbc6e6260", null ],
+    [ "OnGossipHello", "d4/d16/a13524.html#a35afc9d80b4570163af9f6013949a70c", null ],
+    [ "OnGossipSelect", "d4/d16/a13524.html#a0539d24556c16a1a72be8258c752f5f5", null ]
 ];

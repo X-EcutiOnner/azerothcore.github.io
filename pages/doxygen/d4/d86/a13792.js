@@ -1,9 +1,9 @@
 var a13792 =
 [
-    [ "boss_muru", "d4/d86/a13792.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
-    [ "DamageTaken", "d4/d86/a13792.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
-    [ "JustEngagedWith", "d4/d86/a13792.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
-    [ "JustSummoned", "d4/d86/a13792.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
-    [ "MoveInLineOfSight", "d4/d86/a13792.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
-    [ "Reset", "d4/d86/a13792.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
+    [ "npc_demonic_vapor_trail", "d4/d86/a13792.html#a5bd024ea050372e982a183da59b45904", null ],
+    [ "JustSummoned", "d4/d86/a13792.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
+    [ "Reset", "d4/d86/a13792.html#a9da762ab640abfaf5092034f284239af", null ],
+    [ "SpellHitTarget", "d4/d86/a13792.html#a21e2223f58156da2fbe1803554623ecd", null ],
+    [ "UpdateAI", "d4/d86/a13792.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
+    [ "_timer", "d4/d86/a13792.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
 ];

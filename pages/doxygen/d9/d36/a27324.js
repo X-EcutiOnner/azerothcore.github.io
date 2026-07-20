@@ -1,6 +1,7 @@
 var a27324 =
 [
-    [ "HandleBanish", "d9/d36/a27324.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "d9/d36/a27324.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "d9/d36/a27324.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "HandleProc", "d9/d36/a27324.html#a3878044c77e9560bcc7d531d5c119e0f", null ],
+    [ "PrepareAuraScript", "d9/d36/a27324.html#a3a496539a6adddca91724d9cc77f81c3", null ],
+    [ "Register", "d9/d36/a27324.html#a096f4ecd857cc642ff1d1e5119933921", null ],
+    [ "Validate", "d9/d36/a27324.html#a1592084736ebe5b10a343aee4dba8050", null ]
 ];

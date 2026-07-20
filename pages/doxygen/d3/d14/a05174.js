@@ -1,6 +1,5 @@
 var a05174 =
 [
-    [ "node", "d3/d14/a05174.html#a5b76f0ea514d55ed9ba8ea6c4bdf7491", null ],
-    [ "tfar", "d3/d14/a05174.html#ad53b746617dd5a46930dae493d7488d9", null ],
-    [ "tnear", "d3/d14/a05174.html#a938ca2ace2aa498abdda93ee824b6f09", null ]
+    [ "MDDF", "d2/dde/a30060.html", "d2/dde/a30060" ],
+    [ "MODF", "db/d5d/a30064.html", "db/d5d/a30064" ]
 ];

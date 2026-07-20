@@ -1,7 +1,7 @@
 var a26072 =
 [
-    [ "HandleProc", "db/d26/a26072.html#adae03d8ff102215e61bbfff13c63290d", null ],
-    [ "PrepareAuraScript", "db/d26/a26072.html#acbaa8391980af138bd53173f0b8bd243", null ],
-    [ "Register", "db/d26/a26072.html#aec87249ec23b6b3314e5fb95fd832ad0", null ],
-    [ "Validate", "db/d26/a26072.html#abfb835c784033a6b2eb4159a6a15221e", null ]
+    [ "CheckCast", "db/d26/a26072.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
+    [ "HandleEffect", "db/d26/a26072.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
+    [ "PrepareSpellScript", "db/d26/a26072.html#aa63cb903e7c6037a6c08381334ccc126", null ],
+    [ "Register", "db/d26/a26072.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
 ];

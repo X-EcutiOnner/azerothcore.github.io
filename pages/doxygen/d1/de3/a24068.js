@@ -1,10 +1,13 @@
 var a24068 =
 [
-    [ "npc_pet_gen_plump_turkey", "d1/de3/a24068.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
-    [ "MovementInform", "d1/de3/a24068.html#af27c91388891add6d00e251bf3187743", null ],
-    [ "UpdateAI", "d1/de3/a24068.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
-    [ "checkTimer", "d1/de3/a24068.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
-    [ "goGUID", "d1/de3/a24068.html#a5fa88e045430adea9e72a3744bf72780", null ],
-    [ "jumping", "d1/de3/a24068.html#a8486512b7594f2ce759fcb580f1baf34", null ],
-    [ "jumpTimer", "d1/de3/a24068.html#ad53a9abad41ab6a792a55b854155135d", null ]
+    [ "npc_illidari_spawnAI", "d1/de3/a24068.html#a704c1d3e07d028b04e2bddee37039941", null ],
+    [ "JustDied", "d1/de3/a24068.html#a27277d90d4a58a89386a39f4affbaee8", null ],
+    [ "JustEngagedWith", "d1/de3/a24068.html#add4ea6366614e9fb86e85613bfb910ba", null ],
+    [ "Reset", "d1/de3/a24068.html#a5347858d5da4f0718479b1d702125366", null ],
+    [ "UpdateAI", "d1/de3/a24068.html#af392a545b3dccb7a7c89780d2818a7a7", null ],
+    [ "LordIllidanGUID", "d1/de3/a24068.html#a11b411dd0b5a32a7bdd0c44242a42372", null ],
+    [ "SpellTimer1", "d1/de3/a24068.html#afbf1b352275c0fd16fdf252eac9e0c4a", null ],
+    [ "SpellTimer2", "d1/de3/a24068.html#a644616bab96e1bd9bbe2500bf1b14988", null ],
+    [ "SpellTimer3", "d1/de3/a24068.html#a9889f9673292613dc46387862f3e8849", null ],
+    [ "Timers", "d1/de3/a24068.html#a1e48e4dea7bc1ba0f3d6be2f03b6813e", null ]
 ];

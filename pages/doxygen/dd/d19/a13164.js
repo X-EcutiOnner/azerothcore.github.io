@@ -1,6 +1,6 @@
 var a13164 =
 [
-    [ "npc_grandmother", "dd/d19/a13164.html#a6cffe8c574859779f6561dde0aef9666", null ],
-    [ "OnGossipHello", "dd/d19/a13164.html#ae39335d22b5fd1fc4c0f9d34e8977124", null ],
-    [ "OnGossipSelect", "dd/d19/a13164.html#a0e2b684377ed593abfbb49b730cfe9b2", null ]
+    [ "FilterTargets", "dd/d19/a13164.html#adae7a812a222a60f9c89cac4ea327011", null ],
+    [ "PrepareSpellScript", "dd/d19/a13164.html#a9576a48a3aa761c103f72586cd93970c", null ],
+    [ "Register", "dd/d19/a13164.html#aaadad68c322eac268ea7a45f9c369c59", null ]
 ];

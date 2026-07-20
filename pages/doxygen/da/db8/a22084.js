@@ -1,9 +1,6 @@
 var a22084 =
 [
-    [ "HandleFinish", "da/db8/a22084.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "da/db8/a22084.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "da/db8/a22084.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "da/db8/a22084.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "da/db8/a22084.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "da/db8/a22084.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "HandleScriptEffect", "da/db8/a22084.html#a1dac2806b74471332aec0595118005a3", null ],
+    [ "PrepareSpellScript", "da/db8/a22084.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
+    [ "Register", "da/db8/a22084.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
 ];

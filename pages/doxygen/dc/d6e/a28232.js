@@ -1,6 +1,7 @@
 var a28232 =
 [
-    [ "npc_experience", "dc/d6e/a28232.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "dc/d6e/a28232.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "dc/d6e/a28232.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "npc_prof_leather", "dc/d6e/a28232.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
+    [ "HasLeatherSpecialty", "dc/d6e/a28232.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
+    [ "OnGossipHello", "dc/d6e/a28232.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
+    [ "OnGossipSelect", "dc/d6e/a28232.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
 ];

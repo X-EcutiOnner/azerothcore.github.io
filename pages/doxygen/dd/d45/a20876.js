@@ -1,12 +1,6 @@
 var a20876 =
 [
-    [ "boss_skarvald_the_constructor", "dd/d45/a20876.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
-    [ "DoAction", "dd/d45/a20876.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
-    [ "JustDied", "dd/d45/a20876.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
-    [ "JustEngagedWith", "dd/d45/a20876.html#a529439d257abf78f76db0043549964e6", null ],
-    [ "KilledUnit", "dd/d45/a20876.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
-    [ "Reset", "dd/d45/a20876.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
-    [ "UpdateAI", "dd/d45/a20876.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
-    [ "events", "dd/d45/a20876.html#a28837280e161f6971564a4725c97a154", null ],
-    [ "pInstance", "dd/d45/a20876.html#ab5b773a9960f611a6383578a607ba258", null ]
+    [ "FilterTargets", "dd/d45/a20876.html#adaeee235184ddc36e90e532091183056", null ],
+    [ "PrepareSpellScript", "dd/d45/a20876.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
+    [ "Register", "dd/d45/a20876.html#ab79041a2536878498744555475bce5c8", null ]
 ];

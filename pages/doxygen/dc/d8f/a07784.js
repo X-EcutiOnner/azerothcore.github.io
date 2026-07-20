@@ -1,11 +1,12 @@
 var a07784 =
 [
-    [ "BattlegroundSAScore", "dc/d8f/a07784.html#afb1312e304eee973740cfe208657c5b9", null ],
-    [ "BuildObjectivesBlock", "dc/d8f/a07784.html#a57bf8241b404571cda5a8e113c334eab", null ],
-    [ "GetAttr1", "dc/d8f/a07784.html#aa31cd91ede928c57cd201dba61f7f585", null ],
-    [ "GetAttr2", "dc/d8f/a07784.html#aba47bb1ec440f405bfde8513c60ae576", null ],
-    [ "UpdateScore", "dc/d8f/a07784.html#a169a2a0a51edb6564e98c4b55f3e8a3b", null ],
-    [ "BattlegroundSA", "dc/d8f/a07784.html#ab31c13442be48941f5dab4214b95cde9", null ],
-    [ "DemolishersDestroyed", "dc/d8f/a07784.html#ac49c28efa42cfad7232268de4be45e66", null ],
-    [ "GatesDestroyed", "dc/d8f/a07784.html#aeb1310b64150dd51f91722574a9dd3fc", null ]
+    [ "CapturePointInfo", "dc/d8f/a07784.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
+    [ "IsUncontrolled", "dc/d8f/a07784.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
+    [ "IsUnderControl", "dc/d8f/a07784.html#a3f33897525f5104e2e7733dd6247c090", null ],
+    [ "IsUnderControl", "dc/d8f/a07784.html#af6b021020b120b87c300981b8bb60992", null ],
+    [ "_areaTrigger", "dc/d8f/a07784.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
+    [ "_barStatus", "dc/d8f/a07784.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
+    [ "_ownerTeamId", "dc/d8f/a07784.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
+    [ "_playersCount", "dc/d8f/a07784.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
+    [ "player", "dc/d8f/a07784.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
 ];

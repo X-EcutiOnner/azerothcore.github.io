@@ -1,9 +1,6 @@
 var a27092 =
 [
-    [ "HandleHeal", "da/dc4/a27092.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
-    [ "Load", "da/dc4/a27092.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
-    [ "PrepareSpellScript", "da/dc4/a27092.html#a91eb46af707897f228e5d1bbd199a833", null ],
-    [ "Register", "da/dc4/a27092.html#ae28f1b0c23511153eafc037cae067bc0", null ],
-    [ "firstHeal", "da/dc4/a27092.html#a405326e6e1cd82816aef1712fdf335a0", null ],
-    [ "riptide", "da/dc4/a27092.html#acaec32f6730bc2e04e613aa982d285bf", null ]
+    [ "HandleFinish", "da/dc4/a27092.html#ac4c50220d86f809644e339fc578d9b4a", null ],
+    [ "PrepareSpellScript", "da/dc4/a27092.html#a5a14594ed93150e34626a7e0edb8171b", null ],
+    [ "Register", "da/dc4/a27092.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
 ];

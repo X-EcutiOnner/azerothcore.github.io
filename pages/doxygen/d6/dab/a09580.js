@@ -1,8 +1,7 @@
 var a09580 =
 [
-    [ "GameObjectListSearcher", "d6/dab/a09580.html#a28282af745f658ad38a9492acc22b194", null ],
-    [ "Visit", "d6/dab/a09580.html#a1dea8a4d12e916ae64f4d1129ea6d185", null ],
-    [ "Visit", "d6/dab/a09580.html#a82522912fde5ea92f70fa76bb127504c", null ],
-    [ "i_check", "d6/dab/a09580.html#a85a67a285acadc451978e134d80180e7", null ],
-    [ "i_phaseMask", "d6/dab/a09580.html#aba5302d04dad7dfe3ed8dce1ec87bfbd", null ]
+    [ "CreatureRelocationNotifier", "d6/dab/a09580.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
+    [ "Visit", "d6/dab/a09580.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
+    [ "Visit", "d6/dab/a09580.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
+    [ "i_creature", "d6/dab/a09580.html#a3116f6245816ba8fb9edb5995faa9927", null ]
 ];

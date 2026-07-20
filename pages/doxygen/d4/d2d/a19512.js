@@ -1,7 +1,6 @@
 var a19512 =
 [
-    [ "npc_alexstrasza", "d4/d2d/a19512.html#a38c68ff4e0ba73218ff18c8bf95c8d4c", null ],
-    [ "AttackStart", "d4/d2d/a19512.html#ab47f439968b7e9358158eae3e31f4e29", null ],
-    [ "MoveInLineOfSight", "d4/d2d/a19512.html#acadf7b1ff63e266fd1f6eeaf533f9514", null ],
-    [ "UpdateAI", "d4/d2d/a19512.html#aec1c93eee408ecefbceec22be4b90dba", null ]
+    [ "boss_patchwerkAI", "df/d94/a19516.html", "df/d94/a19516" ],
+    [ "boss_patchwerk", "d4/d2d/a19512.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
+    [ "GetAI", "d4/d2d/a19512.html#a03f2dec61192405760958e26d998d67e", null ]
 ];

@@ -1,7 +1,4 @@
 var a29740 =
 [
-    [ "fcc", "df/de8/a29740.html#afbaa5fdd612d1c93f7f07aa299d144ad", null ],
-    [ "fcc_txt", "df/de8/a29740.html#a89ed22b0a63dae9f1443309e54e9e421", null ],
-    [ "size", "df/de8/a29740.html#a0b9002c302e4dfef6dc533bf8c5bcdcc", null ],
-    [ "ver", "df/de8/a29740.html#adb92d3e9f7e35255a2e6e147d51ba8fc", null ]
+    [ "SetUp", "df/de8/a29740.html#ac3f2160779c59e93dd155c766563bc98", null ]
 ];

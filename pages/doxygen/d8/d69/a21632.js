@@ -1,6 +1,7 @@
 var a21632 =
 [
-    [ "CheckRequirement", "d8/d69/a21632.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "d8/d69/a21632.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "d8/d69/a21632.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "CheckRequirement", "d8/d69/a21632.html#a41beb2c890137328734d6adb14e08302", null ],
+    [ "PrepareSpellScript", "d8/d69/a21632.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
+    [ "Register", "d8/d69/a21632.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
+    [ "SetDest", "d8/d69/a21632.html#a431a556ab73f91ed63f5983e537834a5", null ]
 ];

@@ -1,6 +1,6 @@
 var a18060 =
 [
-    [ "npc_coldflameAI", "d6/d6c/a18064.html", "d6/d6c/a18064" ],
-    [ "npc_coldflame", "d2/d88/a18060.html#a573b887358e2ba2281c4c119a267c33f", null ],
-    [ "GetAI", "d2/d88/a18060.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
+    [ "HandlePeriodicTick", "d2/d88/a18060.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "d2/d88/a18060.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "d2/d88/a18060.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

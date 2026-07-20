@@ -1,6 +1,6 @@
 var a20784 =
 [
-    [ "HandleScript", "d3/d96/a20784.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
-    [ "PrepareSpellScript", "d3/d96/a20784.html#ab2a4155f6029850c61e84d7c180addae", null ],
-    [ "Register", "d3/d96/a20784.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
+    [ "HandleScript", "d3/d96/a20784.html#a679cf770e38e1fda66f8a64fff53f968", null ],
+    [ "PrepareSpellScript", "d3/d96/a20784.html#a89fe5ca5efcc45278bdd9017cfeaaf3f", null ],
+    [ "Register", "d3/d96/a20784.html#adc76a70e73cba42c0f9935b3b43d17cd", null ]
 ];

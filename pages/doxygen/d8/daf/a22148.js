@@ -1,5 +1,6 @@
 var a22148 =
 [
-    [ "go_scourge_enclosure", "d8/daf/a22148.html#a3611232cb735f336087d4d3c90f66b8d", null ],
-    [ "OnGossipHello", "d8/daf/a22148.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
+    [ "CheckCast", "d8/daf/a22148.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
+    [ "PrepareSpellScript", "d8/daf/a22148.html#ab4025d8a4acee4723dcca972bce01f45", null ],
+    [ "Register", "d8/daf/a22148.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
 ];

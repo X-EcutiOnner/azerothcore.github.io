@@ -1,7 +1,7 @@
 var a23992 =
 [
-    [ "npc_isla_starmaneAI", "d8/d14/a23996.html", "d8/d14/a23996" ],
-    [ "npc_isla_starmane", "d9/dac/a23992.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
-    [ "GetAI", "d9/dac/a23992.html#a0ea2dbaab4115772f92849e06aa85575", null ],
-    [ "OnQuestAccept", "d9/dac/a23992.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
+    [ "HandleEffectApply", "d9/dac/a23992.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "d9/dac/a23992.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "d9/dac/a23992.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "d9/dac/a23992.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

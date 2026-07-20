@@ -1,7 +1,6 @@
 var a17468 =
 [
-    [ "HandleScriptEffect", "db/dcc/a17468.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "db/dcc/a17468.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "db/dcc/a17468.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "db/dcc/a17468.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "npc_pos_collapsing_icicleAI", "df/dca/a17472.html", "df/dca/a17472" ],
+    [ "npc_pos_collapsing_icicle", "db/dcc/a17468.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "db/dcc/a17468.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

@@ -1,5 +1,6 @@
 var a26712 =
 [
-    [ "PrepareSpellScript", "d6/d7c/a26712.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
-    [ "Register", "d6/d7c/a26712.html#a6318da4bfeb63dee75a971106bdc2146", null ]
+    [ "HandleEffectScriptEffect", "d6/d7c/a26712.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
+    [ "PrepareSpellScript", "d6/d7c/a26712.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
+    [ "Register", "d6/d7c/a26712.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
 ];

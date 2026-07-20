@@ -1,13 +1,9 @@
 var a23076 =
 [
-    [ "boss_ghazan", "d5/d64/a23076.html#ae730362fcf3606c67b6b85147de98fb6", null ],
-    [ "DoAction", "d5/d64/a23076.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
-    [ "InitializeAI", "d5/d64/a23076.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
-    [ "JustEngagedWith", "d5/d64/a23076.html#ad4136f0f63d267284f36756793c0efa7", null ],
-    [ "JustReachedHome", "d5/d64/a23076.html#af9f2dd854036d5c8b9c6703499836199", null ],
-    [ "MovementInform", "d5/d64/a23076.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
-    [ "Reset", "d5/d64/a23076.html#afc9522a26060643f2f9d25a8a98691b7", null ],
-    [ "UpdateAI", "d5/d64/a23076.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
-    [ "_movedToPlatform", "d5/d64/a23076.html#aa6c0c391355ac0b698d67796efd63062", null ],
-    [ "_reachedPlatform", "d5/d64/a23076.html#af3476318b4721bd52facaf735eabb1f9", null ]
+    [ "CalcPeriodic", "d5/d64/a23076.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
+    [ "HandleEffectApply", "d5/d64/a23076.html#adb983cc531fa666648bbdb432684ff1d", null ],
+    [ "HandleEffectRemove", "d5/d64/a23076.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
+    [ "OnPeriodic", "d5/d64/a23076.html#aecefab535157dbe8e42aff3b23cd685b", null ],
+    [ "PrepareAuraScript", "d5/d64/a23076.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
+    [ "Register", "d5/d64/a23076.html#a3771abcc829883ba0cbae9587adbe751", null ]
 ];

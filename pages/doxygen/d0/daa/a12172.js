@@ -1,19 +1,7 @@
 var a12172 =
 [
-    [ "CityAttack", "d5/de2/a12180.html", "d5/de2/a12180" ],
-    [ "InvasionZone", "d3/d78/a12176.html", "d3/d78/a12176" ],
-    [ "ScourgeInvasionData", "d0/daa/a12172.html#a40749458bbad64d1d277cd7cd9dac939", null ],
-    [ "GetData", "d0/daa/a12172.html#adca57b4cf5a065fad1a7bd184571bdc5", null ],
-    [ "Reset", "d0/daa/a12172.html#a0ae2fc830e4f85fb619c38fdcad794ae", null ],
-    [ "m_activeInvasions", "d0/daa/a12172.html#af98aea31bf9c878adf2870890911282f", null ],
-    [ "m_battlesWon", "d0/daa/a12172.html#aea7079c6f876188857219c574ca0798d", null ],
-    [ "m_broadcastTimer", "d0/daa/a12172.html#a7c251f312e332ab60fa6de6e8cf4189d", null ],
-    [ "m_cityAttacks", "d0/daa/a12172.html#a70127135568b3a439f040697f1dc525c", null ],
-    [ "m_lastAttackZone", "d0/daa/a12172.html#a38ead6b33009083055538fd4f0b7de35", null ],
-    [ "m_pendingInvasions", "d0/daa/a12172.html#af62efb05ce49a3cb764328976f8054f6", null ],
-    [ "m_pendingPallids", "d0/daa/a12172.html#a2a2f610d9c398bc82f4e39eea4fbadfc", null ],
-    [ "m_remaining", "d0/daa/a12172.html#afa0f9b63b3c2111affdf9769ee529d88", null ],
-    [ "m_siMutex", "d0/daa/a12172.html#acefb72f28d000395bc1362cd9a62b26a", null ],
-    [ "m_state", "d0/daa/a12172.html#acb26a954f14aec654513b16e5e53cad8", null ],
-    [ "m_timers", "d0/daa/a12172.html#a06375cf97a023be4f3fff94cc43405a9", null ]
+    [ "FieldIndices", "d0/daa/a12172.html#a06a366c804088e6fbb170881004a5cff", null ],
+    [ "TableFields", "d0/daa/a12172.html#ad5d909c6b4b062f3c4aac3f559c5eaec", null ],
+    [ "TableName", "d0/daa/a12172.html#ab00ee028c72660db98e8108583701471", null ],
+    [ "WhereFieldName", "d0/daa/a12172.html#af1be82a21f6172504e310ae27b899e5b", null ]
 ];

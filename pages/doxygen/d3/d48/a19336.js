@@ -1,6 +1,7 @@
 var a19336 =
 [
-    [ "boss_kelthuzad_minionAI", "d2/d03/a19340.html", "d2/d03/a19340" ],
-    [ "boss_kelthuzad_minion", "d3/d48/a19336.html#a4c6d430035c964b4063139c0cda6bfff", null ],
-    [ "GetAI", "d3/d48/a19336.html#ab951068fedced148653ebf9124ba5e3d", null ]
+    [ "HandleTriggerSpell", "d3/d48/a19336.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "d3/d48/a19336.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "d3/d48/a19336.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "d3/d48/a19336.html#a813bad39641956fff697580f271416d2", null ]
 ];

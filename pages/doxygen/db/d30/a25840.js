@@ -1,6 +1,8 @@
 var a25840 =
 [
-    [ "CalculateDamage", "db/d30/a25840.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
-    [ "PrepareSpellScript", "db/d30/a25840.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
-    [ "Register", "db/d30/a25840.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
+    [ "HandleDummy", "db/d30/a25840.html#ac6db67f521a8fd1e8de4cd22220b45fe", null ],
+    [ "Load", "db/d30/a25840.html#af767de9953372e5e56509a0be9e90958", null ],
+    [ "PrepareSpellScript", "db/d30/a25840.html#a0385a22f908ac62ab987fe9f84cad330", null ],
+    [ "Register", "db/d30/a25840.html#a1212726a4fcbac06b527648dff58c546", null ],
+    [ "Validate", "db/d30/a25840.html#ab014db76cf4656e10665f12fb18c5997", null ]
 ];

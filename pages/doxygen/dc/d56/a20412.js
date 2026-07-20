@@ -1,6 +1,5 @@
 var a20412 =
 [
-    [ "HandleDamage", "dc/d56/a20412.html#af2578478e83eb2f6c2de32a692e9be91", null ],
-    [ "PrepareSpellScript", "dc/d56/a20412.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
-    [ "Register", "dc/d56/a20412.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
+    [ "achievement_getting_cold_in_here", "dc/d56/a20412.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
+    [ "OnCheck", "dc/d56/a20412.html#aeafd382d378381f754da6ee04d382276", null ]
 ];

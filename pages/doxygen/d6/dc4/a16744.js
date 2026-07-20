@@ -1,7 +1,6 @@
 var a16744 =
 [
-    [ "npc_toc_shamanAI", "d6/dc4/a16744.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
-    [ "myCanCast", "d6/dc4/a16744.html#a993739662d2687c27219853669b8a485", null ],
-    [ "UpdateAI", "d6/dc4/a16744.html#a2ad17245685feb3f085ef9a669459c61", null ],
-    [ "events", "d6/dc4/a16744.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
+    [ "HandleSpellHit", "d6/dc4/a16744.html#a8c801b92f6e405668edae54989dd58e8", null ],
+    [ "PrepareSpellScript", "d6/dc4/a16744.html#abae02a74f626b890f61df551318dcc81", null ],
+    [ "Register", "d6/dc4/a16744.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
 ];

@@ -1,6 +1,6 @@
 var a13428 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "df/d95/a13432.html", "df/d95/a13432" ],
-    [ "instance_scarlet_monastery", "d3/d47/a13428.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
-    [ "GetInstanceScript", "d3/d47/a13428.html#a1c66031217457809fbe56303085715a0", null ]
+    [ "CheckRequirement", "d3/d47/a13428.html#a31d69034f463d552afa4063bf89271da", null ],
+    [ "PrepareSpellScript", "d3/d47/a13428.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
+    [ "Register", "d3/d47/a13428.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
 ];

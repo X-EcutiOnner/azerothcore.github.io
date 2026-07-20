@@ -1,6 +1,8 @@
 var a21304 =
 [
-    [ "npc_warmage_coldarraAI", "d2/dc1/a21308.html", "d2/dc1/a21308" ],
-    [ "npc_warmage_coldarra", "db/d5c/a21304.html#a358f8ab26991798ff076ac764cd7abe2", null ],
-    [ "GetAI", "db/d5c/a21304.html#aa29181e0ad61b44eff685267f3231382", null ]
+    [ "boss_lavanthor", "db/d5c/a21304.html#ad264818ef0f539c48160de9dbebeac7f", null ],
+    [ "EnterEvadeMode", "db/d5c/a21304.html#aee499fcde639aaca7131dba9cca1d4d0", null ],
+    [ "ExecuteEvent", "db/d5c/a21304.html#a16d7cd5596c20c3663d63549b33c8b4a", null ],
+    [ "JustEngagedWith", "db/d5c/a21304.html#a4bc5fa66192daab98027539efda37bdc", null ],
+    [ "MoveInLineOfSight", "db/d5c/a21304.html#a6f68cd280561b428400a08a155f83ccb", null ]
 ];

@@ -1,6 +1,7 @@
 var a23924 =
 [
-    [ "PrepareSpellScript", "d7/d77/a23924.html#aa858fff409e5c75d865c91cb5fbef679", null ],
-    [ "Register", "d7/d77/a23924.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
-    [ "SetDest", "d7/d77/a23924.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d7/d77/a23924.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "d7/d77/a23924.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "d7/d77/a23924.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "d7/d77/a23924.html#a29132346f117ba785039057619edb9e7", null ]
 ];

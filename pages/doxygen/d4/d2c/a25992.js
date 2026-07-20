@@ -1,7 +1,6 @@
 var a25992 =
 [
-    [ "HandlePeriodicDummy", "d4/d2c/a25992.html#ac8ca6a69b47cb2316b93e1953e233f8f", null ],
-    [ "PrepareAuraScript", "d4/d2c/a25992.html#a1c85329bcafd6c327d1862feabc1eed0", null ],
-    [ "Register", "d4/d2c/a25992.html#a0c43d96bf2e59fd67790f327cf14d71e", null ],
-    [ "Validate", "d4/d2c/a25992.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5", null ]
+    [ "HandleDummy", "d4/d2c/a25992.html#af306009f2c418e898478720b9c4ad6ab", null ],
+    [ "PrepareSpellScript", "d4/d2c/a25992.html#a44cb481fe93fd1c691495cc1ead35e5e", null ],
+    [ "Register", "d4/d2c/a25992.html#af51e3b3cbfb469fa6230a36d8d5fcec7", null ]
 ];

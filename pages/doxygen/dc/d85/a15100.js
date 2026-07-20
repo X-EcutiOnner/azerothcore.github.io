@@ -1,6 +1,6 @@
 var a15100 =
 [
-    [ "boss_mal_ganisAI", "d7/db5/a15104.html", "d7/db5/a15104" ],
-    [ "boss_mal_ganis", "dc/d85/a15100.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
-    [ "GetAI", "dc/d85/a15100.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
+    [ "FilterTargets", "dc/d85/a15100.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
+    [ "PrepareSpellScript", "dc/d85/a15100.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
+    [ "Register", "dc/d85/a15100.html#a6375482bd9d1fc6c6941607273c506dc", null ]
 ];

@@ -1,7 +1,5 @@
 var a04700 =
 [
-    [ "Tokenize", "d8/d4b/a04700.html#ac486e8c9cdad8809eacd83339cdb121d", null ],
-    [ "Tokenize", "d8/d4b/a04700.html#a6d70d7cc315896984da481f843d6f95f", null ],
-    [ "Tokenize", "d8/d4b/a04700.html#aafa458089884fd3ec682db1762ced09d", null ],
-    [ "Tokenize", "d8/d4b/a04700.html#a6b121485ace4118b9006db1fb89f90f2", null ]
+    [ "Acore::AhoCorasick< CharT >", "d7/d3c/a05776.html", "d7/d3c/a05776" ],
+    [ "Acore::AhoCorasick< CharT >::Node", "d6/d3b/a05780.html", "d6/d3b/a05780" ]
 ];

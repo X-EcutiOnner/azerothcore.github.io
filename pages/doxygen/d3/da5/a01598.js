@@ -1,5 +1,5 @@
 var a01598 =
 [
-    [ "titles_commandscript", "d6/d1c/a12537.html", "d6/d1c/a12537" ],
-    [ "AddSC_titles_commandscript", "d3/da5/a01598.html#abd13948cbed6e10bdbf797847a0f6839", null ]
+    [ "ArenaScore", "d4/d3b/a07604.html", "d4/d3b/a07604" ],
+    [ "ArenaTeamScore", "d4/d5f/a07608.html", "d4/d5f/a07608" ]
 ];

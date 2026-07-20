@@ -1,7 +1,6 @@
 var a19292 =
 [
-    [ "FilterTargets", "d9/d6a/a19292.html#a56ff062a6014099623466145a66284cc", null ],
-    [ "PrepareSpellScript", "d9/d6a/a19292.html#aa14623bb948ff457e52979facf74ffab", null ],
-    [ "Register", "d9/d6a/a19292.html#a9494bea35088161c9a520395d714fde1", null ],
-    [ "Validate", "d9/d6a/a19292.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
+    [ "npc_isle_of_conquest_turretAI", "d3/d05/a19296.html", "d3/d05/a19296" ],
+    [ "npc_isle_of_conquest_turret", "d9/d6a/a19292.html#ac080845203adef25e6841133b7e2f4dc", null ],
+    [ "GetAI", "d9/d6a/a19292.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
 ];

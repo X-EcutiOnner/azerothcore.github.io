@@ -1,8 +1,7 @@
 var a24508 =
 [
-    [ "AfterApply", "dc/ded/a24508.html#a9c2591beacd941893338109719c03e3f", null ],
-    [ "AfterRemove", "dc/ded/a24508.html#a0be2a66b615dd926de7073392a8e5062", null ],
-    [ "PrepareAuraScript", "dc/ded/a24508.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
-    [ "Register", "dc/ded/a24508.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
-    [ "Validate", "dc/ded/a24508.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
+    [ "HandleProc", "dc/ded/a24508.html#a1c9c503e64b8e9060e7af700aabdf30b", null ],
+    [ "PrepareAuraScript", "dc/ded/a24508.html#a9aa6b540ab7061d48290eb2a49113adf", null ],
+    [ "Register", "dc/ded/a24508.html#a142a1a5d27b714935aa5e05619e06ae3", null ],
+    [ "Validate", "dc/ded/a24508.html#a88cb3af37d3133f95355634c8bd98d61", null ]
 ];

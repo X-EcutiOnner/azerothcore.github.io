@@ -1,17 +1,9 @@
 var a04760 =
 [
-    [ "TypeContainerVisitor< VISITOR, TYPE_CONTAINER >", "db/d7d/a05625.html", "db/d7d/a05625" ],
-    [ "VisitorHelper", "db/dc8/a04760.html#afb97c1925d9afe2b9cb0f316b722b286", null ],
-    [ "VisitorHelper", "db/dc8/a04760.html#a3c05d024f0dd548fe51e8d8657cdb9b8", null ],
-    [ "VisitorHelper", "db/dc8/a04760.html#ab2c2dfc68b7d3ba945e400be7066f94c", null ],
-    [ "VisitorHelper", "db/dc8/a04760.html#a2bba031b226b147ad62a069694924b83", null ],
-    [ "VisitorHelper", "db/dc8/a04760.html#a521e8e3b3a45439e572e9769ad39b512", null ],
-    [ "VisitorHelper", "db/dc8/a04760.html#ace6180e67fbb6a46929af65480632388", null ],
-    [ "VisitorHelper", "db/dc8/a04760.html#ac2220e2e1174a525d43b8449fd25a2e3", null ],
-    [ "VisitorHelper", "db/dc8/a04760.html#a87fb6736f88af014249a28bf2a95df93", null ],
-    [ "VisitorHelper", "db/dc8/a04760.html#a4160fec3fe29282a64569456f5ce1de6", null ],
-    [ "VisitorHelper", "db/dc8/a04760.html#a3a47e8382377ca85476452be8786e00f", null ],
-    [ "VisitorHelper", "db/dc8/a04760.html#a85da15ab4908f58ef09fcf703f3c01a6", null ],
-    [ "VisitorHelper", "db/dc8/a04760.html#af508b246df1e278d5ebf32da50f4e2f9", null ],
-    [ "VisitorHelper", "db/dc8/a04760.html#a3460133a0353fbe6d657e70e70653299", null ]
+    [ "getAngle", "db/dc8/a04760.html#a5ce837ff4fb41332a25e6b0dc0f5b848", null ],
+    [ "getCircleAreaByRadius", "db/dc8/a04760.html#a18ed540c327b1fd656065d8cbfc4844f", null ],
+    [ "getCirclePerimeterByRadius", "db/dc8/a04760.html#a62641094ea3c1b9506faefa7a35ba456", null ],
+    [ "getCylinderVolume", "db/dc8/a04760.html#a95ce6760beb476a4c24ff46d3069103f", null ],
+    [ "getSlopeAngle", "db/dc8/a04760.html#a61d2d33d44f335480a833a04436620ba", null ],
+    [ "getSlopeAngleAbs", "db/dc8/a04760.html#a0b02845f56a27df498d0598d259ca5e1", null ]
 ];

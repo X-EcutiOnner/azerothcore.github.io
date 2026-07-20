@@ -1,19 +1,13 @@
 var a08352 =
 [
-    [ "CreatureMovementData", "d0/de8/a08352.html#acb8099aff89bb3526a78073fd5503e9b", null ],
-    [ "GetChase", "d0/de8/a08352.html#aa9e0267e4c73ec837653113394841fcf", null ],
-    [ "GetInteractionPauseTimer", "d0/de8/a08352.html#ac16489cdc845f350e98da595269b7770", null ],
-    [ "GetRandom", "d0/de8/a08352.html#af2c8281192f6234bd19e030237c77b5a", null ],
-    [ "IsFlightAllowed", "d0/de8/a08352.html#ad2e480bc7a0b98c417be077305392647", null ],
-    [ "IsGroundAllowed", "d0/de8/a08352.html#a0820b5840321870dafa9119d404ad0d9", null ],
-    [ "IsRooted", "d0/de8/a08352.html#a530b2bbf530e553687c23555f3ffe655", null ],
-    [ "IsSwimAllowed", "d0/de8/a08352.html#a3ed4b7f140537f9d066344c50a79b0b1", null ],
-    [ "ToString", "d0/de8/a08352.html#ad76c73b59fa83682a9ae43389fed95b0", null ],
-    [ "Chase", "d0/de8/a08352.html#ae2a19ebf47bacb304a450f7d9c6dbc6d", null ],
-    [ "Flight", "d0/de8/a08352.html#aa535d32995ba28e11915dd56494f4a72", null ],
-    [ "Ground", "d0/de8/a08352.html#ae603273724f448c95dc3a7cd3aec5b68", null ],
-    [ "InteractionPauseTimer", "d0/de8/a08352.html#ae701d7622d7e24c0b8673863a2d75742", null ],
-    [ "Random", "d0/de8/a08352.html#a1457436a01d5007235224fa9bfb93745", null ],
-    [ "Rooted", "d0/de8/a08352.html#a0ca3905bb168b81853091a7d56796c1f", null ],
-    [ "Swim", "d0/de8/a08352.html#a04966dc48fffcd65574314f238ba9be2", null ]
+    [ "LfgQueueData", "d0/de8/a08352.html#a1d0b74e82f50dc6baaf6b5a79b0af0cd", null ],
+    [ "LfgQueueData", "d0/de8/a08352.html#a363aa2cc53bce304893335ca93755103", null ],
+    [ "bestCompatible", "d0/de8/a08352.html#a10fe592a7d0b3fc53701d1946d55f0af", null ],
+    [ "dps", "d0/de8/a08352.html#ab78711eaf7285a5d4821e52354124646", null ],
+    [ "dungeons", "d0/de8/a08352.html#a6b115f3a5e0ff996279db044f47f5823", null ],
+    [ "healers", "d0/de8/a08352.html#a8b2049474102332ddca53f0892565216", null ],
+    [ "joinTime", "d0/de8/a08352.html#a240fcc11f3fd9d27fa913f80828522f2", null ],
+    [ "lastRefreshTime", "d0/de8/a08352.html#a727d35760b716270c5f326f343106d0c", null ],
+    [ "roles", "d0/de8/a08352.html#a20218584ba5c3dbaf9ff7ae520eba9a3", null ],
+    [ "tanks", "d0/de8/a08352.html#a500f93175d7a25f7c2e0dc0f3943e639", null ]
 ];

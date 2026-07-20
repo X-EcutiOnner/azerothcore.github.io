@@ -1,9 +1,6 @@
 var a26816 =
 [
-    [ "CheckCast", "d4/d88/a26816.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
-    [ "HandleActiveObject", "d4/d88/a26816.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
-    [ "HandleDummy", "d4/d88/a26816.html#a39dd06ae92d04060ee41897318a701fd", null ],
-    [ "Load", "d4/d88/a26816.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
-    [ "PrepareSpellScript", "d4/d88/a26816.html#a016e480d7b2267c9bf824c9cb029f134", null ],
-    [ "Register", "d4/d88/a26816.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
+    [ "CheckCast", "d4/d88/a26816.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
+    [ "PrepareSpellScript", "d4/d88/a26816.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
+    [ "Register", "d4/d88/a26816.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
 ];

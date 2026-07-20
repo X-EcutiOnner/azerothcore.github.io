@@ -1,6 +1,5 @@
 var a25376 =
 [
-    [ "CheckProc", "df/d71/a25376.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
-    [ "PrepareAuraScript", "df/d71/a25376.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
-    [ "Register", "df/d71/a25376.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
+    [ "PrepareSpellScript", "df/d71/a25376.html#a939db3d626f3451edd605ced6d9b2ebe", null ],
+    [ "Register", "df/d71/a25376.html#a5b356ca08e33c8eb127bec763f105792", null ]
 ];

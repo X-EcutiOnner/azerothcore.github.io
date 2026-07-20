@@ -1,7 +1,8 @@
 var a06472 =
 [
-    [ "NonTankTargetSelector", "db/de0/a06472.html#ac8d9ecc1fa9a29dc54e33eae9c1fb8ce", null ],
-    [ "operator()", "db/de0/a06472.html#a3a4cf85033650b1d31e9f93ec8e74b22", null ],
-    [ "_playerOnly", "db/de0/a06472.html#a59a14629522e0a3850991b1852d368ee", null ],
-    [ "_source", "db/de0/a06472.html#a54f9bf9a14d2b39f5ef038675cfcc30f", null ]
+    [ "PassiveAI", "db/de0/a06472.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
+    [ "AttackStart", "db/de0/a06472.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
+    [ "MoveInLineOfSight", "db/de0/a06472.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
+    [ "Permissible", "db/de0/a06472.html#a2960223799a5b3baedbdd7e664604865", null ],
+    [ "UpdateAI", "db/de0/a06472.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
 ];

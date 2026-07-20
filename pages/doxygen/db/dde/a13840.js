@@ -1,7 +1,7 @@
 var a13840 =
 [
-    [ "HandleAfterCast", "db/dde/a13840.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "db/dde/a13840.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "db/dde/a13840.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "db/dde/a13840.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "OnRemove", "db/dde/a13840.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
+    [ "PrepareAuraScript", "db/dde/a13840.html#ade353aafb960cabdb615718f41f485e8", null ],
+    [ "Register", "db/dde/a13840.html#af1c312778a13f7fe8d174247f69258ac", null ],
+    [ "Validate", "db/dde/a13840.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
 ];

@@ -1,12 +1,9 @@
 var a12324 =
 [
-    [ "message_commandscript", "d5/d2d/a12324.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
-    [ "GetCommands", "d5/d2d/a12324.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
-    [ "HandleAnnounceCommand", "d5/d2d/a12324.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
-    [ "HandleGMAnnounceCommand", "d5/d2d/a12324.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
-    [ "HandleGMNameAnnounceCommand", "d5/d2d/a12324.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
-    [ "HandleGMNotifyCommand", "d5/d2d/a12324.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
-    [ "HandleNameAnnounceCommand", "d5/d2d/a12324.html#a786902b70345712c6dba9f638695dd9e", null ],
-    [ "HandleNotifyCommand", "d5/d2d/a12324.html#a0d53b2414931451b30abd2fe5acee1af", null ],
-    [ "HandleWhispersCommand", "d5/d2d/a12324.html#a9a02c97677250136f9717968a9f47b73", null ]
+    [ "autobroadcast_commandscript", "d5/d2d/a12324.html#a00946e483860809c8b1d92e773c8eeef", null ],
+    [ "GetCommands", "d5/d2d/a12324.html#a01d7689785a4267ac4bd57bfc0d269e9", null ],
+    [ "HandleAutobroadcastAddCommand", "d5/d2d/a12324.html#a4217bea8d83682acbdd64a225c839227", null ],
+    [ "HandleAutobroadcastListCommand", "d5/d2d/a12324.html#a0e4a07fd036d66fc5639a8e29fd45392", null ],
+    [ "HandleAutobroadcastLocaleCommand", "d5/d2d/a12324.html#aaebf528b045b05b038d2a3f8801d3c85", null ],
+    [ "HandleAutobroadcastRemoveCommand", "d5/d2d/a12324.html#af6445843506ac2b4c2b5c158480aab8c", null ]
 ];

@@ -1,9 +1,8 @@
 var a20728 =
 [
-    [ "HandleOnEffectApply", "de/df8/a20728.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
-    [ "OnPeriodic", "de/df8/a20728.html#a49ad44eba19416743bd26252d1b40d71", null ],
-    [ "PrepareAuraScript", "de/df8/a20728.html#ae0c475babb67cebb245d6d85b50cd694", null ],
-    [ "Register", "de/df8/a20728.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
-    [ "Validate", "de/df8/a20728.html#ab383a0a207aa78b7efcd400765ad0838", null ],
-    [ "_targetGUID", "de/df8/a20728.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
+    [ "npc_pummeller", "de/df8/a20728.html#a0c67bf3781fde8d4580aad093bf87291", null ],
+    [ "Reset", "de/df8/a20728.html#abdb3f0984c03780aee9dd55496fc7835", null ],
+    [ "UpdateAI", "de/df8/a20728.html#a9d61c35dc7f86314c6beb581539fd55d", null ],
+    [ "_instance", "de/df8/a20728.html#a12df7fb27b7bd54d0bf60c3e5faee037", null ],
+    [ "_scheduler", "de/df8/a20728.html#abc1ba4d0e95d33fe42af1014c2e8448f", null ]
 ];

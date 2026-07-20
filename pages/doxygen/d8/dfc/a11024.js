@@ -1,5 +1,7 @@
 var a11024 =
 [
-    [ "GuildPermissionsQuery", "d8/dfc/a11024.html#a6ab30e173d26362db0065f4f9f8fa5f8", null ],
-    [ "Read", "d8/dfc/a11024.html#aec20af8c3c8236627353287fe2eaa0a7", null ]
+    [ "Flags", "d8/dfc/a11024.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
+    [ "TabFlags", "d8/dfc/a11024.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
+    [ "TabWithdrawItemLimit", "d8/dfc/a11024.html#af16392abbddf27a8b21fd21d998501e6", null ],
+    [ "WithdrawGoldLimit", "d8/dfc/a11024.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
 ];

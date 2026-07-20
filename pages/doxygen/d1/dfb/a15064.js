@@ -1,11 +1,6 @@
 var a15064 =
 [
-    [ "npc_hyjal_ground_trash", "d1/dfb/a15064.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
-    [ "AttackStart", "d1/dfb/a15064.html#a0ab86d651644dcc579585176c2b5c07e", null ],
-    [ "DoAction", "d1/dfb/a15064.html#aa92481bcf993c4eda5ef271145200d77", null ],
-    [ "GetNearbyFriendlyTrashCreature", "d1/dfb/a15064.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
-    [ "JustEngagedWith", "d1/dfb/a15064.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
-    [ "PathEndReached", "d1/dfb/a15064.html#a035610284a56e690200f978b0fd496ab", null ],
-    [ "Reset", "d1/dfb/a15064.html#aa38b45f63841c049a2add0a9832268ef", null ],
-    [ "UpdateAI", "d1/dfb/a15064.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
+    [ "HandleScriptEffect", "d1/dfb/a15064.html#a3d22cc828a2aa59d45e5d648161926fd", null ],
+    [ "PrepareSpellScript", "d1/dfb/a15064.html#a0ecf5662d9cc1296ebdac82233f1fe7c", null ],
+    [ "Register", "d1/dfb/a15064.html#aee5d9189b6df318b57e919511a185a99", null ]
 ];

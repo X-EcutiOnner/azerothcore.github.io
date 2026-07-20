@@ -1,6 +1,9 @@
 var a12296 =
 [
-    [ "inventory_commandscript", "df/de1/a12296.html#a765d3606093dd3e15bb59c058333dca7", null ],
-    [ "GetCommands", "df/de1/a12296.html#ac002b65cbe2e5dafc7614c7afa4a20e6", null ],
-    [ "HandleInventoryCountCommand", "df/de1/a12296.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3", null ]
+    [ "map", "df/de1/a12296.html#a274c6d61203c24b3c680055244e1f590", null ],
+    [ "mouth", "df/de1/a12296.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
+    [ "mouthGuid", "df/de1/a12296.html#a2245c14e379c83bdd47165e829de2e41", null ],
+    [ "necropolisCount", "df/de1/a12296.html#aec44e315616920ba8224be8c4831f5e9", null ],
+    [ "remainingNecropoli", "df/de1/a12296.html#a3c18c61fcd44c32f9e0009479db85399", null ],
+    [ "zoneId", "df/de1/a12296.html#a98e1490705f74627cf9e5483857f3f25", null ]
 ];

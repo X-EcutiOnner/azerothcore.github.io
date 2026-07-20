@@ -1,6 +1,5 @@
 var a20796 =
 [
-    [ "achievement_yogg_saron_darkness", "d6/d29/a20796.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
-    [ "OnCheck", "d6/d29/a20796.html#a809902fca87abaeb4334132763624ed6", null ],
-    [ "_keepersCount", "d6/d29/a20796.html#a765ec4606bb489760ed1e15db10de1dc", null ]
+    [ "achievement_nerf_gravity_bombs", "d6/d29/a20796.html#a8aefe3a8836e38c9133e7baf724dc469", null ],
+    [ "OnCheck", "d6/d29/a20796.html#a3a1f9dc7218dfd8345412b338e447b72", null ]
 ];

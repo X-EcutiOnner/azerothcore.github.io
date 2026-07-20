@@ -1,8 +1,7 @@
 var a17224 =
 [
-    [ "npc_hor_raging_ghoul", "dc/d27/a17224.html#a733d4ad92566a13ace3427aae6696bac", null ],
-    [ "JustDied", "dc/d27/a17224.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
-    [ "Reset", "dc/d27/a17224.html#aad6424be7dd53b59016963cefffe40e5", null ],
-    [ "UpdateAI", "dc/d27/a17224.html#af4024393b318ca702c6652e042036b26", null ],
-    [ "leaped", "dc/d27/a17224.html#a69dea538a87ae47de221768b6de42315", null ]
+    [ "HandlePeriodicTick", "dc/d27/a17224.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
+    [ "PrepareAuraScript", "dc/d27/a17224.html#aabaef31a3c699c322e24e064f357f82f", null ],
+    [ "Register", "dc/d27/a17224.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
+    [ "Validate", "dc/d27/a17224.html#a18d92a82760992bc5d8503e3f774f208", null ]
 ];

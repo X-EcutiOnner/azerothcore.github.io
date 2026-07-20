@@ -1,6 +1,4 @@
 var a29608 =
 [
-    [ "RunStatisticalTest", "db/db3/a29608.html#a5dadc645a4cae9bf9e9ed990616118be", null ],
-    [ "SetUp", "db/db3/a29608.html#afa15552d260ab744d178e1c1b7ed23bb", null ],
-    [ "TearDown", "db/db3/a29608.html#a894d832a3ee006179de45e944d25a732", null ]
+    [ "MOCK_METHOD", "db/db3/a29608.html#a423c022319fa9025b56db18cc27945b3", null ]
 ];

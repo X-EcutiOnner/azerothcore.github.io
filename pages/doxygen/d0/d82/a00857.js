@@ -1,13 +1,14 @@
 var a00857 =
 [
-    [ "npc_underbat", "d5/d77/a23277.html", "d5/d77/a23277" ],
-    [ "spell_fungal_decay", "d4/d24/a23281.html", "d4/d24/a23281" ],
-    [ "spell_allergies", "d4/d4a/a23285.html", "d4/d4a/a23285" ],
-    [ "AllergiesEnum", "d0/d82/a00857.html#a597f861031d65ff9c7c3da68293f6847", [
-      [ "SPELL_SNEEZE", "d0/d82/a00857.html#a597f861031d65ff9c7c3da68293f6847aca231923ca4e3560754e0ead3753c7e3", null ]
-    ] ],
-    [ "UnderbatSpells", "d0/d82/a00857.html#aba9ed07daed7ae7df6becb96f5194f52", [
-      [ "SPELL_TENTACLE_LASH", "d0/d82/a00857.html#aba9ed07daed7ae7df6becb96f5194f52a8fb7d802a437e3e383ba2095ae12b96a", null ]
-    ] ],
-    [ "AddSC_underbog", "d0/d82/a00857.html#a8c9725cac978bfa0eb0405faa6588549", null ]
+    [ "BattlefieldScript", "d9/dc6/a10692.html", "d9/dc6/a10692" ],
+    [ "BattlefieldHook", "d0/d82/a00857.html#ad9fb0d66e6cd28e54d79830f1d725089", [
+      [ "BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE", "d0/d82/a00857.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235", null ],
+      [ "BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE", "d0/d82/a00857.html#ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007", null ],
+      [ "BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR", "d0/d82/a00857.html#ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6", null ],
+      [ "BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR", "d0/d82/a00857.html#ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab", null ],
+      [ "BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR", "d0/d82/a00857.html#ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710", null ],
+      [ "BATTLEFIELDHOOK_ON_WAR_END", "d0/d82/a00857.html#ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f", null ],
+      [ "BATTLEFIELDHOOK_ON_PLAYER_KILL", "d0/d82/a00857.html#ad9fb0d66e6cd28e54d79830f1d725089ac25d3b497f3028ed587b69de4611687e", null ],
+      [ "BATTLEFIELDHOOK_END", "d0/d82/a00857.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac", null ]
+    ] ]
 ];

@@ -1,9 +1,11 @@
 var a12412 =
 [
-    [ "send_commandscript", "d8/d8e/a12412.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
-    [ "GetCommands", "d8/d8e/a12412.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
-    [ "HandleSendItemsCommand", "d8/d8e/a12412.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
-    [ "HandleSendMailCommand", "d8/d8e/a12412.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
-    [ "HandleSendMessageCommand", "d8/d8e/a12412.html#a91017e6171ac9e4dfff6c2036228de47", null ],
-    [ "HandleSendMoneyCommand", "d8/d8e/a12412.html#a1b1e995a2854e338866527ee9634d544", null ]
+    [ "instance_commandscript", "d8/d8e/a12412.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
+    [ "GetCommands", "d8/d8e/a12412.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
+    [ "HandleInstanceGetBossStateCommand", "d8/d8e/a12412.html#a0530ca6481073d6bafd11596546140b0", null ],
+    [ "HandleInstanceListBindsCommand", "d8/d8e/a12412.html#abf42411f9c78ce59b21b34691e3d4233", null ],
+    [ "HandleInstanceSaveDataCommand", "d8/d8e/a12412.html#a4b494a8b1de470612436fbb9fa433416", null ],
+    [ "HandleInstanceSetBossStateCommand", "d8/d8e/a12412.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
+    [ "HandleInstanceStatsCommand", "d8/d8e/a12412.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
+    [ "HandleInstanceUnbindCommand", "d8/d8e/a12412.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
 ];

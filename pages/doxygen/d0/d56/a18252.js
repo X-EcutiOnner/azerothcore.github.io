@@ -1,6 +1,6 @@
 var a18252 =
 [
-    [ "ExtraRemoveEffect", "d0/d56/a18252.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
-    [ "PrepareAuraScript", "d0/d56/a18252.html#a41992ed6c23275d3a910915755b682f9", null ],
-    [ "Register", "d0/d56/a18252.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
+    [ "npc_gas_cloudAI", "d0/d56/a18252.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
+    [ "CastMainSpell", "d0/d56/a18252.html#a61681f6f9616fe33274302d4160c709b", null ],
+    [ "_newTargetSelectTimer", "d0/d56/a18252.html#a6989b904abaa5b71362e43664f4b084d", null ]
 ];

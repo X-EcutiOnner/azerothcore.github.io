@@ -1,11 +1,6 @@
 var a12028 =
 [
-    [ "WorldUpdateTime", "d6/d7c/a12028.html#a97552c4ce99bd40919f199c17fe203ed", null ],
-    [ "LoadFromConfig", "d6/d7c/a12028.html#acb2b9d56504fc760e7df1c93621ab788", null ],
-    [ "RecordUpdateTime", "d6/d7c/a12028.html#a88d773c8029cebeab6b99444c25c8379", null ],
-    [ "RecordUpdateTimeDuration", "d6/d7c/a12028.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
-    [ "SetRecordUpdateTimeInterval", "d6/d7c/a12028.html#ada81050229ccacc49d5b6a9f6101174c", null ],
-    [ "_lastRecordTime", "d6/d7c/a12028.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
-    [ "_recordUpdateTimeInverval", "d6/d7c/a12028.html#a5486477b0a604f0207336e423f42c2b1", null ],
-    [ "_recordUpdateTimeMin", "d6/d7c/a12028.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
+    [ "EffectBase", "d6/d7c/a12028.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
+    [ "CheckEffect", "d6/d7c/a12028.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
+    [ "ToString", "d6/d7c/a12028.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
 ];

@@ -1,6 +1,6 @@
 var a25844 =
 [
-    [ "HandleScriptEffect", "db/d91/a25844.html#a14df2ed73118826254a6ffa923063f6c", null ],
-    [ "PrepareSpellScript", "db/d91/a25844.html#a1b20ba3fe209ebf0100f32d4013f2d08", null ],
-    [ "Register", "db/d91/a25844.html#ac70a96209898dc6f2c7b2532dc9f5e6c", null ]
+    [ "HandleScript", "db/d91/a25844.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d", null ],
+    [ "PrepareSpellScript", "db/d91/a25844.html#a4f0f4d29231ef1976d726b66f6277ca8", null ],
+    [ "Register", "db/d91/a25844.html#ad75843039e582b64da28b4818f48aeb3", null ]
 ];

@@ -1,6 +1,7 @@
 var a19804 =
 [
-    [ "boss_sjonnirAI", "de/de9/a19808.html", "de/de9/a19808" ],
-    [ "boss_sjonnir", "dd/d48/a19804.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "dd/d48/a19804.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "HandleProc", "dd/d48/a19804.html#adb7714eca4c317ab76db0ecbc813669e", null ],
+    [ "PrepareAuraScript", "dd/d48/a19804.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
+    [ "Register", "dd/d48/a19804.html#a445ce7331c36e507aa24466ff9a67781", null ],
+    [ "Validate", "dd/d48/a19804.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
 ];

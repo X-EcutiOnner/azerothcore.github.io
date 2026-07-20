@@ -1,5 +1,7 @@
 var a24752 =
 [
-    [ "PrepareSpellScript", "d9/dc7/a24752.html#a054677572d74a740f1c14715608f7b1b", null ],
-    [ "Register", "d9/dc7/a24752.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
+    [ "HandleProc", "d9/dc7/a24752.html#a17f1f652f4144bfade0072e311f579e7", null ],
+    [ "PrepareAuraScript", "d9/dc7/a24752.html#a8ab8da270b52ce7be6419f5947df6566", null ],
+    [ "Register", "d9/dc7/a24752.html#a660b69eb520799733f59218c919b28ed", null ],
+    [ "Validate", "d9/dc7/a24752.html#a433be7a238be09e86c395a6d3625c56d", null ]
 ];

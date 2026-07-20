@@ -1,6 +1,10 @@
 var a11964 =
 [
-    [ "AuraProcHandler", "d8/d2e/a11964.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
-    [ "Call", "d8/d2e/a11964.html#abc0c3be9dee08e995c282f20900f3c46", null ],
-    [ "_HandlerScript", "d8/d2e/a11964.html#ada8d7a5659598b0092739a91ba2653bd", null ]
+    [ "EffectHook", "d8/d2e/a11964.html#a4a197e061d918dfba2bc486f3393b00d", null ],
+    [ "~EffectHook", "d8/d2e/a11964.html#aa234f63b530764d12064acbe3f5c9299", null ],
+    [ "CheckEffect", "d8/d2e/a11964.html#ae8823c5d649d182f572818bf3db72902", null ],
+    [ "EffIndexToString", "d8/d2e/a11964.html#ab818ed274cfd66ecc565b8535b751517", null ],
+    [ "GetAffectedEffectsMask", "d8/d2e/a11964.html#a31faa86590e22f5ab3ca518f4df02840", null ],
+    [ "IsEffectAffected", "d8/d2e/a11964.html#a697041ffa562bb6fff792beb159c7af2", null ],
+    [ "effIndex", "d8/d2e/a11964.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
 ];

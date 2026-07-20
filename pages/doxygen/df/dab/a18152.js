@@ -1,6 +1,6 @@
 var a18152 =
 [
-    [ "FilterTargets", "df/dab/a18152.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
-    [ "PrepareSpellScript", "df/dab/a18152.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
-    [ "Register", "df/dab/a18152.html#a32e04a1110d651701b8eab1648c69a57", null ]
+    [ "npc_darnavanAI", "d1/d64/a18156.html", "d1/d64/a18156" ],
+    [ "npc_darnavan", "df/dab/a18152.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "df/dab/a18152.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

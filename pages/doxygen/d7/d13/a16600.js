@@ -1,6 +1,8 @@
 var a16600 =
 [
-    [ "boss_black_knightAI", "da/dfa/a16604.html", "da/dfa/a16604" ],
-    [ "boss_black_knight", "d7/d13/a16600.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "d7/d13/a16600.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "Load", "d7/d13/a16600.html#a55dc086667f0fe23e513608e951276ed", null ],
+    [ "Phase", "d7/d13/a16600.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
+    [ "PrepareSpellScript", "d7/d13/a16600.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
+    [ "Register", "d7/d13/a16600.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
+    [ "Validate", "d7/d13/a16600.html#a87192df547adaf3cb060155d9cf4da79", null ]
 ];

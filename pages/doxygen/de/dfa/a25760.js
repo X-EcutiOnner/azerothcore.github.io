@@ -1,7 +1,9 @@
 var a25760 =
 [
-    [ "HandleDummy", "de/dfa/a25760.html#aec0b2ad3b10f2ccbc755cf7278a5ed46", null ],
-    [ "PrepareSpellScript", "de/dfa/a25760.html#ac1ba0d23cbf805c234ac9d898f6bab85", null ],
-    [ "Register", "de/dfa/a25760.html#afd1588dc55730c52a922f37e60ec134a", null ],
-    [ "Validate", "de/dfa/a25760.html#aaed3ba3d986173b5941e048370d5ebe2", null ]
+    [ "spell_item_trigger_spell", "de/dfa/a25760.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
+    [ "HandleDummy", "de/dfa/a25760.html#a49613255eea28e34cf5ff8a06798f89a", null ],
+    [ "PrepareSpellScript", "de/dfa/a25760.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
+    [ "Register", "de/dfa/a25760.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
+    [ "Validate", "de/dfa/a25760.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
+    [ "_triggeredSpellId", "de/dfa/a25760.html#a610c5ac434fe788120ed101f7bf58f63", null ]
 ];

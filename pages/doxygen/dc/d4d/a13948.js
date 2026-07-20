@@ -1,8 +1,6 @@
 var a13948 =
 [
-    [ "npc_ranger_lilatha", "dc/d4d/a13948.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "dc/d4d/a13948.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "dc/d4d/a13948.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "dc/d4d/a13948.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ],
-    [ "WaypointReached", "dc/d4d/a13948.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "ChangeSummonPos", "dc/d4d/a13948.html#ae24a7c8279a92f1018748a0e930736ac", null ],
+    [ "PrepareSpellScript", "dc/d4d/a13948.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
+    [ "Register", "dc/d4d/a13948.html#a03a1a1e5501452eacaceadd9725f2287", null ]
 ];

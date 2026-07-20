@@ -1,6 +1,9 @@
 var a23964 =
 [
-    [ "HandleSendEvent", "d6/d6b/a23964.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
-    [ "PrepareSpellScript", "d6/d6b/a23964.html#aed8815b1d068ba04f12c7714a64af769", null ],
-    [ "Register", "d6/d6b/a23964.html#aa55fa06e76b1f34e319e16984405ed20", null ]
+    [ "npc_bessyAI", "d6/d6b/a23964.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "d6/d6b/a23964.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "d6/d6b/a23964.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "d6/d6b/a23964.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "d6/d6b/a23964.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ],
+    [ "WaypointReached", "d6/d6b/a23964.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

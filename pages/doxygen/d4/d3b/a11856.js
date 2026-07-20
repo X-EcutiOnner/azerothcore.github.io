@@ -1,7 +1,5 @@
 var a11856 =
 [
-    [ "EffectAuraNameCheck", "d4/d3b/a11856.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
-    [ "Check", "d4/d3b/a11856.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
-    [ "ToString", "d4/d3b/a11856.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
-    [ "effAurName", "d4/d3b/a11856.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
+    [ "WorldObjectSpellTrajTargetCheck", "d4/d3b/a11856.html#a0c08b6b4c7878678eb419a556f718be0", null ],
+    [ "operator()", "d4/d3b/a11856.html#aa1f7772cdb19914cc365a325f801b5d5", null ]
 ];

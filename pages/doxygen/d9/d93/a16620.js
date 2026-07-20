@@ -1,10 +1,7 @@
 var a16620 =
 [
-    [ "npc_black_knight_ghoulAI", "d9/d93/a16620.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
-    [ "JustEngagedWith", "d9/d93/a16620.html#a8353dea0de91017223c7624a5a96ebec", null ],
-    [ "Reset", "d9/d93/a16620.html#a8a33efa0719063a9565bc07143f8ad83", null ],
-    [ "SpellHit", "d9/d93/a16620.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
-    [ "UpdateAI", "d9/d93/a16620.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
-    [ "events", "d9/d93/a16620.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
-    [ "pInstance", "d9/d93/a16620.html#a35b8375f1b3407f5cee653ee118e0697", null ]
+    [ "TwilightCutterSelector", "d9/d93/a16620.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
+    [ "operator()", "d9/d93/a16620.html#a6374425df156bdf202d53a2c73ef784c", null ],
+    [ "_caster", "d9/d93/a16620.html#a784c95ef6472e711f4200f194222d179", null ],
+    [ "_cutterCaster", "d9/d93/a16620.html#a7f713777a36a8d127c2865e4610b1288", null ]
 ];

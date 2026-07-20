@@ -1,9 +1,10 @@
 var a18716 =
 [
-    [ "DelayedCastEvent", "d9/ddb/a18716.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
-    [ "Execute", "d9/ddb/a18716.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "d9/ddb/a18716.html#afcaeafb72df77c36b5496588c219fac4", null ],
-    [ "_originalCaster", "d9/ddb/a18716.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "d9/ddb/a18716.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "d9/ddb/a18716.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "HandleScript", "d9/ddb/a18716.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
+    [ "Load", "d9/ddb/a18716.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
+    [ "PrepareSpellScript", "d9/ddb/a18716.html#afcc1efc69d73086a9ab686855911e516", null ],
+    [ "Register", "d9/ddb/a18716.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
+    [ "ReplaceTarget", "d9/ddb/a18716.html#a01cb7d25bef14a2266d81594544f6283", null ],
+    [ "SelectTarget", "d9/ddb/a18716.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
+    [ "_target", "d9/ddb/a18716.html#a3a84a9d7109845d201b395f05f66d109", null ]
 ];

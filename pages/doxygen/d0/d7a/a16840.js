@@ -1,7 +1,7 @@
 var a16840 =
 [
-    [ "npc_toc_retro_paladinAI", "d0/d7a/a16840.html#afe933281cea61c9a4f3ded76290a3b72", null ],
-    [ "myCanCast", "d0/d7a/a16840.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
-    [ "UpdateAI", "d0/d7a/a16840.html#a105d6b9c133c1147b310826d7be416f5", null ],
-    [ "events", "d0/d7a/a16840.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
+    [ "HandleEffectPeriodic", "d0/d7a/a16840.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
+    [ "PrepareAuraScript", "d0/d7a/a16840.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
+    [ "Register", "d0/d7a/a16840.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
+    [ "Validate", "d0/d7a/a16840.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
 ];

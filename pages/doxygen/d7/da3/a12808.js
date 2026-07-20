@@ -1,7 +1,5 @@
 var a12808 =
 [
-    [ "HandleRemove", "d7/da3/a12808.html#a754b44b62c131e20e1be94b3407e2006", null ],
-    [ "PrepareAuraScript", "d7/da3/a12808.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
-    [ "Register", "d7/da3/a12808.html#a02cd375ec140f7614104b7e56df13430", null ],
-    [ "Validate", "d7/da3/a12808.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
+    [ "at_scarshield_infiltrator", "d7/da3/a12808.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
+    [ "OnTrigger", "d7/da3/a12808.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
 ];

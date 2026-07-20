@@ -1,6 +1,8 @@
 var a25356 =
 [
-    [ "CheckCast", "d4/d39/a25356.html#a7fa12be149f0cb2202142d7f44cde0a6", null ],
-    [ "PrepareSpellScript", "d4/d39/a25356.html#ad6867dad8bda358bd1479935c80b82e7", null ],
-    [ "Register", "d4/d39/a25356.html#a0ab2f1f2a87db93e54dc883c4e53d7ba", null ]
+    [ "CalcPeriodic", "d4/d39/a25356.html#ab11cad89fe213256353c88c351a8743b", null ],
+    [ "HandleUpdatePeriodic", "d4/d39/a25356.html#a096bc5640e42232f7754251daf5b6a8a", null ],
+    [ "OnApply", "d4/d39/a25356.html#ae00430a1418a0c3e91ae340f1a33f157", null ],
+    [ "PrepareAuraScript", "d4/d39/a25356.html#a85b849676d1c4c08921edff8d472da04", null ],
+    [ "Register", "d4/d39/a25356.html#a75a4f12269c7684335c3c09cd5002586", null ]
 ];

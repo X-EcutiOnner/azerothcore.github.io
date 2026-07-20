@@ -1,9 +1,5 @@
 var a05548 =
 [
-    [ "IpLocationStore", "dd/d89/a05548.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
-    [ "~IpLocationStore", "dd/d89/a05548.html#a82360c1ce130670fde23d42135f91324", null ],
-    [ "GetLocationRecord", "dd/d89/a05548.html#a06384169031d2417a7f6bac54d3187a9", null ],
-    [ "instance", "dd/d89/a05548.html#ad740adf9b81b37cf147dc00e220b29db", null ],
-    [ "Load", "dd/d89/a05548.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
-    [ "_ipLocationStore", "dd/d89/a05548.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
+    [ "~Permissible", "dd/d89/a05548.html#a9ed19d14dda478fe1ff6cb092d684be2", null ],
+    [ "Permit", "dd/d89/a05548.html#a0fccdbc46c9bafea63757ceee62b0385", null ]
 ];

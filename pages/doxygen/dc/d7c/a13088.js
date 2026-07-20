@@ -1,11 +1,8 @@
 var a13088 =
 [
-    [ "boss_tenris_mirkblood", "dc/d7c/a13088.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
-    [ "DamageTaken", "dc/d7c/a13088.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
-    [ "EnterEvadeMode", "dc/d7c/a13088.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
-    [ "JustEngagedWith", "dc/d7c/a13088.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
-    [ "KilledUnit", "dc/d7c/a13088.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
-    [ "Reset", "dc/d7c/a13088.html#a88d46f6e972525979687b315db90dc30", null ],
-    [ "SpellHit", "dc/d7c/a13088.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
-    [ "_mirrorTarget", "dc/d7c/a13088.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
+    [ "npc_kernobeeAI", "dc/d7c/a13088.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
+    [ "SetGUID", "dc/d7c/a13088.html#ab704b138670279f6d731a6bb58ac6d10", null ],
+    [ "UpdateAI", "dc/d7c/a13088.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
+    [ "checkTimer", "dc/d7c/a13088.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
+    [ "playerGUID", "dc/d7c/a13088.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
 ];

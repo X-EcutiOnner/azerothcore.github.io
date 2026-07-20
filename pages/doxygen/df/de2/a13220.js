@@ -1,5 +1,5 @@
 var a13220 =
 [
-    [ "at_karazhan_side_entrance", "df/de2/a13220.html#abdaa7339a53941e2e89c4fcd439395fc", null ],
-    [ "_OnTrigger", "df/de2/a13220.html#a80d0018a9442ef7f0834dc329047e135", null ]
+    [ "PrepareSpellScript", "df/de2/a13220.html#a50d6ebe961a0841e10537a434a741072", null ],
+    [ "Register", "df/de2/a13220.html#abc2f73133448278e0bf1bc589917dfd1", null ]
 ];

@@ -1,6 +1,6 @@
 var a27404 =
 [
-    [ "PrepareAuraScript", "d0/d7e/a27404.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "d0/d7e/a27404.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "d0/d7e/a27404.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "PeriodicTick", "d0/d7e/a27404.html#a8765e8f662c4279669c955108ff356e3", null ],
+    [ "PrepareAuraScript", "d0/d7e/a27404.html#a15f077618950e4526ffcee9ee172d89f", null ],
+    [ "Register", "d0/d7e/a27404.html#aeeca3a2be368025147702c4aa8c518ce", null ]
 ];

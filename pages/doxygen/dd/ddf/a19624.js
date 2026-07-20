@@ -1,13 +1,11 @@
 var a19624 =
 [
-    [ "npc_oculus_unstable_sphereAI", "dd/ddf/a19624.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
-    [ "AttackStart", "dd/ddf/a19624.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
-    [ "MoveInLineOfSight", "dd/ddf/a19624.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
-    [ "MovementInform", "dd/ddf/a19624.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
-    [ "PickNewLocation", "dd/ddf/a19624.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
-    [ "Reset", "dd/ddf/a19624.html#ac2e391d0149b62823ac9074d45c694cf", null ],
-    [ "UpdateAI", "dd/ddf/a19624.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
-    [ "gonext", "dd/ddf/a19624.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
-    [ "located", "dd/ddf/a19624.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
-    [ "timer", "dd/ddf/a19624.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
+    [ "npc_hover_disk", "dd/ddf/a19624.html#af6f8ef0df4b64540f99adebdd709b00e", null ],
+    [ "AttackStart", "dd/ddf/a19624.html#a3ea3d44f74f26115f0a29fad134fcfc8", null ],
+    [ "DoAction", "dd/ddf/a19624.html#ae4141e5aed3cfdbf8d76ad55ce4463d9", null ],
+    [ "MoveInLineOfSight", "dd/ddf/a19624.html#a0ad97e511bd01c269c04d2ccfe007f91", null ],
+    [ "MovementInform", "dd/ddf/a19624.html#a9d1c7ac28f2c597864cf2c70ab0fb943", null ],
+    [ "PassengerBoarded", "dd/ddf/a19624.html#ab7e712a9d5aec7c3112796316a7fe534", null ],
+    [ "UpdateAI", "dd/ddf/a19624.html#add98702312084df553e24bcd4b632bb3", null ],
+    [ "events", "dd/ddf/a19624.html#a073e1161eda3b714ad0d7ea96f865b6d", null ]
 ];

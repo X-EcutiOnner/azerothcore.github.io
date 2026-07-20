@@ -1,6 +1,9 @@
 var a17836 =
 [
-    [ "npc_zafod_boomboxAI", "d9/dcc/a17840.html", "d9/dcc/a17840" ],
-    [ "npc_zafod_boombox", "d3/d38/a17836.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
-    [ "GetAI", "d3/d38/a17836.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
+    [ "CheckProc", "d3/d38/a17836.html#a13426f7a45e9434f980b42f174b22da8", null ],
+    [ "HandlePeriodicTick", "d3/d38/a17836.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
+    [ "HandleProc", "d3/d38/a17836.html#abf744d64dae5835bff3877eeaa919af3", null ],
+    [ "PrepareAuraScript", "d3/d38/a17836.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
+    [ "Register", "d3/d38/a17836.html#a1b72c10256365de71b8f9fadf5886338", null ],
+    [ "Validate", "d3/d38/a17836.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
 ];

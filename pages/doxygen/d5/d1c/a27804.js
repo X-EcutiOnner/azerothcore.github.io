@@ -1,5 +1,5 @@
 var a27804 =
 [
-    [ "go_arena_ready_marker", "d5/d1c/a27804.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
-    [ "OnGossipHello", "d5/d1c/a27804.html#a9f51ead2b56d51427ff23be9688388d8", null ]
+    [ "achievement_bg_ic_glaive_grave", "d5/d1c/a27804.html#a97e1cead0102a120b3bd14592ea26034", null ],
+    [ "OnCheck", "d5/d1c/a27804.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
 ];

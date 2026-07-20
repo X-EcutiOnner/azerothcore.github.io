@@ -1,6 +1,7 @@
 var a11904 =
 [
-    [ "CheckAreaTargetHandler", "db/d59/a11904.html#a641b633e37079949c8b1b71a32f4222e", null ],
-    [ "Call", "db/d59/a11904.html#ab434cb7ba8927c16e2b63c2ad8ae9a25", null ],
-    [ "pHandlerScript", "db/d59/a11904.html#a7c1e677d10a89ea7f1ea06f8de10e0f9", null ]
+    [ "attributeMask", "db/d59/a11904.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
+    [ "customChance", "db/d59/a11904.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
+    [ "PPMChance", "db/d59/a11904.html#adb76c11f0073a2738374c98c01fda009", null ],
+    [ "procEx", "db/d59/a11904.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
 ];

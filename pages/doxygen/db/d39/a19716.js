@@ -1,8 +1,6 @@
 var a19716 =
 [
-    [ "HandleOnEffectApply", "db/d39/a19716.html#ac852d761940494f78b50ba3b060057a2", null ],
-    [ "HandleOnEffectRemove", "db/d39/a19716.html#a6764750586be8b57d52a2dba87d89e76", null ],
-    [ "PrepareAuraScript", "db/d39/a19716.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
-    [ "Register", "db/d39/a19716.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
-    [ "Validate", "db/d39/a19716.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
+    [ "instance_nexus_InstanceMapScript", "dd/d91/a19720.html", "dd/d91/a19720" ],
+    [ "instance_nexus", "db/d39/a19716.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
+    [ "GetInstanceScript", "db/d39/a19716.html#a156210ba08caa0572c775dbd5851b250", null ]
 ];

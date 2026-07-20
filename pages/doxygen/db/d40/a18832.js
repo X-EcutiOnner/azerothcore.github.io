@@ -1,7 +1,9 @@
 var a18832 =
 [
-    [ "PeriodicTick", "db/d40/a18832.html#ac1bace4fc66349364c84b5784967e9bf", null ],
-    [ "PrepareAuraScript", "db/d40/a18832.html#a358193e3340112c04f79c043548c3de0", null ],
-    [ "Register", "db/d40/a18832.html#a28f52bc253899aa407e67f9a089c815c", null ],
-    [ "Validate", "db/d40/a18832.html#a0dde3447e38e45cea94df44449a19a01", null ]
+    [ "DelayedCastEvent", "db/d40/a18832.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
+    [ "Execute", "db/d40/a18832.html#ae2925429b3049e44d2afd2e8b990af71", null ],
+    [ "_despawnTime", "db/d40/a18832.html#afcaeafb72df77c36b5496588c219fac4", null ],
+    [ "_originalCaster", "db/d40/a18832.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
+    [ "_spellId", "db/d40/a18832.html#abe28a6749101233302634ed226a289e8", null ],
+    [ "_trigger", "db/d40/a18832.html#a85471a151a3165cc906f3a41103c3f5d", null ]
 ];

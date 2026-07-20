@@ -1,6 +1,7 @@
 var a17008 =
 [
-    [ "HandleDummy", "d0/d48/a17008.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
-    [ "PrepareSpellScript", "d0/d48/a17008.html#accbf8f40b1ab123a2be81a514c94c836", null ],
-    [ "Register", "d0/d48/a17008.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
+    [ "HandleEffectPeriodic", "d0/d48/a17008.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
+    [ "PrepareAuraScript", "d0/d48/a17008.html#a66dcb98f38ed6b040928543015f59c9b", null ],
+    [ "Register", "d0/d48/a17008.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
+    [ "Validate", "d0/d48/a17008.html#a1131f0014f298b87483412d960bc0221", null ]
 ];

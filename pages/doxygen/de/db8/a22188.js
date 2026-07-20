@@ -1,7 +1,7 @@
 var a22188 =
 [
-    [ "OutdoorPvPGH", "de/db8/a22188.html#a619492e0a1fdf75f37554a2f19268660", null ],
-    [ "HandleKill", "de/db8/a22188.html#a78cf572faf727c302f9be496d91004e0", null ],
-    [ "SendRemoveWorldStates", "de/db8/a22188.html#a92c7e489717072ddc34f707fbe462cb2", null ],
-    [ "SetupOutdoorPvP", "de/db8/a22188.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
+    [ "HandleDummy", "de/db8/a22188.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
+    [ "PrepareAuraScript", "de/db8/a22188.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
+    [ "Register", "de/db8/a22188.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
+    [ "Validate", "de/db8/a22188.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
 ];

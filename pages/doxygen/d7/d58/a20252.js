@@ -1,10 +1,10 @@
 var a20252 =
 [
-    [ "HandleEffectPeriodic", "d7/d58/a20252.html#aa62be73e00d9cb512806787eaf1c4144", null ],
-    [ "Load", "d7/d58/a20252.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
-    [ "PrepareAuraScript", "d7/d58/a20252.html#ad9664bff267b330565d3c706e1752e9d", null ],
-    [ "Register", "d7/d58/a20252.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
-    [ "Validate", "d7/d58/a20252.html#a3f6653b4ca202d9b0971189930e8b463", null ],
-    [ "_counter", "d7/d58/a20252.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
-    [ "_prev", "d7/d58/a20252.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
+    [ "boss_freya_elder_ironbranch", "d7/d58/a20252.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
+    [ "JustDied", "d7/d58/a20252.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
+    [ "JustEngagedWith", "d7/d58/a20252.html#a34d87135b8dac114a8783941dba69559", null ],
+    [ "KilledUnit", "d7/d58/a20252.html#a20b5a622ac233d1280169f54942c894f", null ],
+    [ "Reset", "d7/d58/a20252.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
+    [ "UpdateAI", "d7/d58/a20252.html#a00dade8af24a2240187fb4e52138c0d1", null ],
+    [ "events", "d7/d58/a20252.html#a8693a800da6890004f3ae82fd9898480", null ]
 ];

@@ -1,11 +1,7 @@
 var a27672 =
 [
-    [ "AccountActionIpLogger", "df/dad/a27672.html#a73cad77bd83243cb10c4a1b4d7081e0b", null ],
-    [ "AccountIPLogAction", "df/dad/a27672.html#a9c978dafb71e67b8b278806df507e34b", null ],
-    [ "OnAccountLogin", "df/dad/a27672.html#a2952adcd73d775b924671e5a69adaccb", null ],
-    [ "OnEmailChange", "df/dad/a27672.html#aa15d0cc4e6ed3818fa18a927074f5f0c", null ],
-    [ "OnFailedAccountLogin", "df/dad/a27672.html#a8225c45bcb83e1ddd91a8dcd0f7da9cd", null ],
-    [ "OnFailedEmailChange", "df/dad/a27672.html#a9fd73dc7b6954dfb4fc94a1f1288ccd2", null ],
-    [ "OnFailedPasswordChange", "df/dad/a27672.html#a0663e15ea1a29b3daa672c8b6a25548f", null ],
-    [ "OnPasswordChange", "df/dad/a27672.html#a4b71aa9c1790e6d4033d884a17ce0a2f", null ]
+    [ "HandleDummy", "df/dad/a27672.html#a0eae8fe2faee05bad7a34e84dddd3317", null ],
+    [ "PrepareSpellScript", "df/dad/a27672.html#a24634405a8d0ccdd22f4832815262446", null ],
+    [ "Register", "df/dad/a27672.html#a3394b9b9e5899550251d553ac9f77f8a", null ],
+    [ "Validate", "df/dad/a27672.html#ae56a900b3484fd6397d38c4ad8efe5c2", null ]
 ];

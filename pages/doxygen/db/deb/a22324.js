@@ -1,8 +1,8 @@
 var a22324 =
 [
-    [ "npc_anzu_spirit", "db/deb/a22324.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
-    [ "IsSummonedBy", "db/deb/a22324.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
-    [ "Reset", "db/deb/a22324.html#acef3f7093f93b6c227d145523cdc487a", null ],
-    [ "UpdateAI", "db/deb/a22324.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
-    [ "_scheduler", "db/deb/a22324.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
+    [ "HandleApply", "db/deb/a22324.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
+    [ "HandleRemove", "db/deb/a22324.html#a06c7c65d973fcf348f5c929503902520", null ],
+    [ "PrepareAuraScript", "db/deb/a22324.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
+    [ "Register", "db/deb/a22324.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
+    [ "Validate", "db/deb/a22324.html#a8135c492638557eec71189282e7f78a2", null ]
 ];

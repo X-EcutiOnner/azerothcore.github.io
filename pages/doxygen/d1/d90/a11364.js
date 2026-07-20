@@ -1,9 +1,7 @@
 var a11364 =
 [
-    [ "TrainerList", "d1/d90/a11364.html#aebb173d4f46d00f383c4ed62e8b130a7", null ],
-    [ "Write", "d1/d90/a11364.html#a4d44b3310c3733ae56ffce9a84eff8d1", null ],
-    [ "Greeting", "d1/d90/a11364.html#ad88c53405b38f276815e0f013ce5261f", null ],
-    [ "Spells", "d1/d90/a11364.html#a6b3a33adeeab2c09ac83e7e430312158", null ],
-    [ "TrainerGUID", "d1/d90/a11364.html#ab5e93d6c38efd311c701401ec03f7958", null ],
-    [ "TrainerType", "d1/d90/a11364.html#a56a96a12b526f0e0cf89a6472c6a206b", null ]
+    [ "RandomRollClient", "d1/d90/a11364.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
+    [ "Read", "d1/d90/a11364.html#ab682763f35a40f776b1742927df0a336", null ],
+    [ "Max", "d1/d90/a11364.html#a45a1e140ed402f54deb4c0798360a43a", null ],
+    [ "Min", "d1/d90/a11364.html#a3cd07e7891b43b453b56013d76f51f71", null ]
 ];

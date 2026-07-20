@@ -1,7 +1,5 @@
 var a20320 =
 [
-    [ "HandleEffectPeriodic", "d8/d0d/a20320.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
-    [ "PrepareAuraScript", "d8/d0d/a20320.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
-    [ "Register", "d8/d0d/a20320.html#aed86a298340cc05fbe2a8a68396423bb", null ],
-    [ "Validate", "d8/d0d/a20320.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
+    [ "achievement_smell_saronite", "d8/d0d/a20320.html#a42dce2aefa2561952dcf5289126035a8", null ],
+    [ "OnCheck", "d8/d0d/a20320.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
 ];

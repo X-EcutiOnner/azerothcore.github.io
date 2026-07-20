@@ -1,8 +1,10 @@
 var a15188 =
 [
-    [ "npc_thrall_old_hillsbradAI", "df/d23/a15192.html", "df/d23/a15192" ],
-    [ "npc_thrall_old_hillsbrad", "d3/d79/a15188.html#a3e6fa750b095af3beac806a619e18328", null ],
-    [ "GetAI", "d3/d79/a15188.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
-    [ "OnGossipHello", "d3/d79/a15188.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
-    [ "OnGossipSelect", "d3/d79/a15188.html#a17fcb00850503903f430506654e035c0", null ]
+    [ "npc_hyjal_gargoyle", "d3/d79/a15188.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
+    [ "AttackStart", "d3/d79/a15188.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
+    [ "DoAction", "d3/d79/a15188.html#ae213c71426f438dd2b27699d7de23664", null ],
+    [ "JustEngagedWith", "d3/d79/a15188.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
+    [ "PathEndReached", "d3/d79/a15188.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
+    [ "Reset", "d3/d79/a15188.html#af314bb183bde44680eeb136d2a08c142", null ],
+    [ "UpdateAI", "d3/d79/a15188.html#ac1ca0648b08430a8bcbf99980222b684", null ]
 ];

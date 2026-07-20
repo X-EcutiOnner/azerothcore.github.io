@@ -1,7 +1,13 @@
 var a15720 =
 [
-    [ "HandleEffectRemove", "d8/d4e/a15720.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "d8/d4e/a15720.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "d8/d4e/a15720.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "d8/d4e/a15720.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d8/d4e/a15720.html#a454f677dddce956534d6f5a253ed587b", null ],
+    [ "GetData", "d8/d4e/a15720.html#ad34ee1e43d05826c1b4e80e2df6ac5f6", null ],
+    [ "Initialize", "d8/d4e/a15720.html#a8d46d9aa082d306aa2c9cd8fde3eea1d", null ],
+    [ "OnCreatureCreate", "d8/d4e/a15720.html#affc7045f944251fb27683133f511029f", null ],
+    [ "OnGameObjectCreate", "d8/d4e/a15720.html#a36f22cb12a5d59b377627f7cacbffecb", null ],
+    [ "OnUnitDeath", "d8/d4e/a15720.html#a921a58152e075b9a64bf3c73aabdf1f2", null ],
+    [ "SetBossState", "d8/d4e/a15720.html#abb9fc9c7901d0c830d498f3fbdaebbe6", null ],
+    [ "SetData", "d8/d4e/a15720.html#a25f4e12aad6325e87b31770c1243d746", null ],
+    [ "BugTrioDeathCount", "d8/d4e/a15720.html#aab0191f5b31264f0632a24df0607d05b", null ],
+    [ "CThunGraspGUIDs", "d8/d4e/a15720.html#aea180c0b623e919f56f9210ce15724e8", null ]
 ];

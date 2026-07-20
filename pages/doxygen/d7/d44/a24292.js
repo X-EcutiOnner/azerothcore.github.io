@@ -1,10 +1,9 @@
 var a24292 =
 [
-    [ "HandleEffectRemove", "d7/d44/a24292.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
-    [ "HandleImprovedBloodPresence", "d7/d44/a24292.html#a020c0ae1f74856ae070ab2104232a079", null ],
-    [ "HandleImprovedFrostPresence", "d7/d44/a24292.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
-    [ "HandleImprovedUnholyPresence", "d7/d44/a24292.html#a5da86bb3686327787da5f46fc756f0a0", null ],
-    [ "PrepareAuraScript", "d7/d44/a24292.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
-    [ "Register", "d7/d44/a24292.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
-    [ "Validate", "d7/d44/a24292.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
+    [ "npc_pet_shaman_earth_elemental", "d7/d44/a24292.html#a07f3792cb3b5264d209f1b4726867773", null ],
+    [ "InitializeAI", "d7/d44/a24292.html#a8bbca6686ae324a50cd1598125280446", null ],
+    [ "JustEngagedWith", "d7/d44/a24292.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
+    [ "UpdateAI", "d7/d44/a24292.html#ab28951b483cab31bf5672fc74e7323e1", null ],
+    [ "_events", "d7/d44/a24292.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
+    [ "_initAttack", "d7/d44/a24292.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
 ];

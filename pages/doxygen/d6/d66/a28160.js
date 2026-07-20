@@ -1,6 +1,8 @@
 var a28160 =
 [
-    [ "npc_dancing_flamesAI", "d4/d1d/a28164.html", "d4/d1d/a28164" ],
-    [ "npc_dancing_flames", "d6/d66/a28160.html#adec0401f876ddf159f28fdda8bc4d563", null ],
-    [ "GetAI", "d6/d66/a28160.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
+    [ "go_bellsAI", "d6/d66/a28160.html#a6f22847c66a3b5faded35da799359846", null ],
+    [ "UpdateAI", "d6/d66/a28160.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
+    [ "_events", "d6/d66/a28160.html#a46c66442078cee28a76fc412746ca026", null ],
+    [ "_soundId", "d6/d66/a28160.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
+    [ "once", "d6/d66/a28160.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
 ];

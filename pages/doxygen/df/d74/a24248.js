@@ -1,7 +1,9 @@
 var a24248 =
 [
-    [ "CheckClass", "df/d74/a24248.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
-    [ "HandleScript", "df/d74/a24248.html#a4f4f7004be5629efdc48b52b6667edba", null ],
-    [ "PrepareSpellScript", "df/d74/a24248.html#a599ce758681c5196bd40e4c7b86635cc", null ],
-    [ "Register", "df/d74/a24248.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
+    [ "npc_pet_gen_fetch_ball", "df/d74/a24248.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
+    [ "IsSummonedBy", "df/d74/a24248.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
+    [ "SpellHitTarget", "df/d74/a24248.html#a87bdded236f6584d9b71507a1253f7d0", null ],
+    [ "UpdateAI", "df/d74/a24248.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
+    [ "checkTimer", "df/d74/a24248.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
+    [ "targetGUID", "df/d74/a24248.html#ae474374af7c2270e218ed236d90c789c", null ]
 ];

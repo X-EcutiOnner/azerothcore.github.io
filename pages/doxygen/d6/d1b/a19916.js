@@ -1,6 +1,11 @@
 var a19916 =
 [
-    [ "PrepareSpellScript", "d6/d1b/a19916.html#af7426e99a49f8618fc38242ded7132f1", null ],
-    [ "RecalculateDamage", "d6/d1b/a19916.html#a94e70b20f2139f668227dccb623c1af6", null ],
-    [ "Register", "d6/d1b/a19916.html#acd911f78780e052d88f5f47574092d62", null ]
+    [ "boss_maiden_of_griefAI", "d6/d1b/a19916.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
+    [ "JustDied", "d6/d1b/a19916.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
+    [ "JustEngagedWith", "d6/d1b/a19916.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
+    [ "KilledUnit", "d6/d1b/a19916.html#a3d2173db5a852a356c187b2d2771b75f", null ],
+    [ "Reset", "d6/d1b/a19916.html#a46776004549b0dcfcf73351225adaad8", null ],
+    [ "UpdateAI", "d6/d1b/a19916.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
+    [ "events", "d6/d1b/a19916.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
+    [ "pInstance", "d6/d1b/a19916.html#abc195718a208a926f978d7f0fe0e7925", null ]
 ];

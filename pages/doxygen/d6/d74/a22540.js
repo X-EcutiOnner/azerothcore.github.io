@@ -1,6 +1,6 @@
 var a22540 =
 [
-    [ "PrepareAuraScript", "d6/d74/a22540.html#a5cba6aaa06f8ec6e083ee0c5064414e4", null ],
-    [ "Register", "d6/d74/a22540.html#a75d0cf142e299783b06903ea03287e28", null ],
-    [ "Update", "d6/d74/a22540.html#ac027b02ed0ba70d65621a6af157c98f6", null ]
+    [ "PrepareSpellScript", "d6/d74/a22540.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
+    [ "Register", "d6/d74/a22540.html#aa41700bf097963c5a352442723181037", null ],
+    [ "SelectTarget", "d6/d74/a22540.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
 ];

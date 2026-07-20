@@ -1,18 +1,25 @@
 var a04535 =
 [
-    [ "Days", "d6/df1/a04535.html#af5dc5e7ad7b3f6d8e84530de842d125b", null ],
-    [ "Hours", "d6/df1/a04535.html#aa0f87984d2b3835a61dffc22ae8bf083", null ],
-    [ "Microseconds", "d6/df1/a04535.html#a201a83ed0d59d2baf946daf42dac834f", null ],
-    [ "Milliseconds", "d6/df1/a04535.html#a1c3834b9e3853535027d58bf21bec81f", null ],
-    [ "Minutes", "d6/df1/a04535.html#af2161f9db850581e2228078614990df8", null ],
-    [ "Months", "d6/df1/a04535.html#a5f2ffeea2459944dfaa4443f1efb7f42", null ],
-    [ "Seconds", "d6/df1/a04535.html#a3cd82f1c195a0b935b4d66b02a41acd8", null ],
-    [ "SystemTimePoint", "d6/df1/a04535.html#ada798961abc5a533d616ff780f567bb6", null ],
-    [ "TimePoint", "d6/df1/a04535.html#ae5ca775e8d8c664b6edef818ce1251b9", null ],
-    [ "Weeks", "d6/df1/a04535.html#a983745490d3d3a0322c4ccf0f418f179", null ],
-    [ "Years", "d6/df1/a04535.html#ab4fa20b33a9b5ee358963159b01d72f3", null ],
-    [ "operator\"\"_days", "d6/df1/a04535.html#ae62919aa53468bfadd4984bdd0498c03", null ],
-    [ "operator\"\"_months", "d6/df1/a04535.html#a7f38d5f5e7db75251b49712f910059ac", null ],
-    [ "operator\"\"_weeks", "d6/df1/a04535.html#a7ff3ff81243ee7b2ce873364bb7ad676", null ],
-    [ "operator\"\"_years", "d6/df1/a04535.html#a25baa64022678f43cf423c945dbd0226", null ]
+    [ "Socket< T >", "d2/de4/a29284.html", "d2/de4/a29284" ],
+    [ "READ_BLOCK_SIZE", "d6/df1/a04535.html#a16ba013af02b9d4400b5e47d8daa022b", null ],
+    [ "IoContextTcpSocket", "d6/df1/a04535.html#af72c5a224bc60d68d08afae3ba0cfb2f", null ],
+    [ "ProxyHeaderAddressFamilyAndProtocol", "d6/df1/a04535.html#a7ddce6d0420753babeb6258ada50eec1", [
+      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4", "d6/df1/a04535.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575", null ],
+      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6", "d6/df1/a04535.html#a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699", null ]
+    ] ],
+    [ "ProxyHeaderReadingState", "d6/df1/a04535.html#aa514bb66fa404b5b180297bb005c3272", [
+      [ "PROXY_HEADER_READING_STATE_NOT_STARTED", "d6/df1/a04535.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c", null ],
+      [ "PROXY_HEADER_READING_STATE_STARTED", "d6/df1/a04535.html#aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98", null ],
+      [ "PROXY_HEADER_READING_STATE_FINISHED", "d6/df1/a04535.html#aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb", null ],
+      [ "PROXY_HEADER_READING_STATE_FAILED", "d6/df1/a04535.html#aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f", null ]
+    ] ],
+    [ "SocketReadCallbackResult", "d6/df1/a04535.html#a28a77649fbf17e65bca542516efff3e3", [
+      [ "KeepReading", "d6/df1/a04535.html#a28a77649fbf17e65bca542516efff3e3a0d4c2f1850364968984f50e42be91be5", null ],
+      [ "Stop", "d6/df1/a04535.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481", null ]
+    ] ],
+    [ "SocketState", "d6/df1/a04535.html#af8f6bcfe82815814726ab4f90ea013e7", [
+      [ "Open", "d6/df1/a04535.html#af8f6bcfe82815814726ab4f90ea013e7ac3bf447eabe632720a3aa1a7ce401274", null ],
+      [ "Closing", "d6/df1/a04535.html#af8f6bcfe82815814726ab4f90ea013e7a5c8de6f894682fdb1786037b2040a26e", null ],
+      [ "Closed", "d6/df1/a04535.html#af8f6bcfe82815814726ab4f90ea013e7a03f4a47830f97377a35321051685071e", null ]
+    ] ]
 ];

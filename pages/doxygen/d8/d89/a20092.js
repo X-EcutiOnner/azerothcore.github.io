@@ -1,6 +1,5 @@
 var a20092 =
 [
-    [ "PrepareSpellScript", "d8/d89/a20092.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
-    [ "RecalculateDamage", "d8/d89/a20092.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
-    [ "Register", "d8/d89/a20092.html#af2b5382122be41a6b1ee4ab721b417da", null ]
+    [ "achievement_cant_do_that_while_stunned", "d8/d89/a20092.html#a4d474b36f61631688ea723d2e4033574", null ],
+    [ "OnCheck", "d8/d89/a20092.html#a0b108bdcab0bc412975e61247f226bf8", null ]
 ];

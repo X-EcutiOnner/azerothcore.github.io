@@ -1,10 +1,9 @@
 var a24424 =
 [
-    [ "CalculateAPAmount", "da/dae/a24424.html#af1d4558f6132d3c2abc71ec1dabee2e8", null ],
-    [ "CalculateResistanceAmount", "da/dae/a24424.html#a5d6e7b92f4335176388a877e72c0e92c", null ],
-    [ "CalculateSPAmount", "da/dae/a24424.html#a40c96996d19b9f7eeed3fda4271b9f87", null ],
-    [ "CalculateStatAmount", "da/dae/a24424.html#ae4f96de2c558a4b0fd7659442aa3d92b", null ],
-    [ "HandleEffectApply", "da/dae/a24424.html#aeebb14424a6ae336edd4b66d824d648a", null ],
-    [ "PrepareAuraScript", "da/dae/a24424.html#a7e3dc351574f6d6ad3424eb7df7092df", null ],
-    [ "Register", "da/dae/a24424.html#ab5713a34ced4d2e2a67b43e98d7a55c0", null ]
+    [ "CheckCast", "da/dae/a24424.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
+    [ "EntryCheck", "da/dae/a24424.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
+    [ "HandleBaseDummy", "da/dae/a24424.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
+    [ "HandleDummy", "da/dae/a24424.html#a34d9f5699f306b27830ced2129be506c", null ],
+    [ "PrepareSpellScript", "da/dae/a24424.html#af7aff878540dd34138aa479f532611b6", null ],
+    [ "Register", "da/dae/a24424.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
 ];

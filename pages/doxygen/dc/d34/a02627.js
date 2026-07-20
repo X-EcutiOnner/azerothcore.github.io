@@ -1,25 +1,37 @@
 var a02627 =
 [
-    [ "PlayerDump", "d1/d64/a12135.html", "d1/d64/a12135" ],
-    [ "PlayerDumpWriter", "d2/d24/a12139.html", "d2/d24/a12139" ],
-    [ "PlayerDumpReader", "d7/dce/a12143.html", "d7/dce/a12143" ],
-    [ "DumpReturn", "dc/d34/a02627.html#a4471667403db9bc7532f371d28743866", [
-      [ "DUMP_SUCCESS", "dc/d34/a02627.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
-      [ "DUMP_FILE_OPEN_ERROR", "dc/d34/a02627.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
-      [ "DUMP_TOO_MANY_CHARS", "dc/d34/a02627.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
-      [ "DUMP_FILE_BROKEN", "dc/d34/a02627.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
-      [ "DUMP_CHARACTER_DELETED", "dc/d34/a02627.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ]
+    [ "npc_ame", "da/d75/a16176.html", "da/d75/a16176" ],
+    [ "npc_ame::npc_ameAI", "df/d8f/a16180.html", "df/d8f/a16180" ],
+    [ "npc_ringo", "d8/db6/a16184.html", "d8/db6/a16184" ],
+    [ "npc_ringo::npc_ringoAI", "db/df8/a16188.html", "db/df8/a16188" ],
+    [ "AmeData", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0", [
+      [ "SAY_READY", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0a82af2bd2787802be3ff2ee4588ea9be4", null ],
+      [ "SAY_AGGRO1", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0a17fd4d94120185f67ee94a41652285a5", null ],
+      [ "SAY_SEARCH", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0a843a1ad765b601ed599c443b66ae5d77", null ],
+      [ "SAY_AGGRO2", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0af73eb45ca3cf512147f1d25e1254c224", null ],
+      [ "SAY_AGGRO3", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0aa623912b4ba266583234ba5df070e02e", null ],
+      [ "SAY_FINISH", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0a0e5b4f2c41b1953cea52b7f41d134838", null ],
+      [ "SPELL_DEMORALIZINGSHOUT", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0a8477c04b326171f69326346981b724e1", null ],
+      [ "QUEST_CHASING_AME", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827", null ],
+      [ "ENTRY_TARLORD", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0ab6db2c46b771ac7d038f25d35308beec", null ],
+      [ "ENTRY_TARLORD1", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0ae1f81eb98b3fa0fc40666dedb0ece35f", null ],
+      [ "ENTRY_STOMPER", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0af0775f5d04bd4e00f048e939fed6e64a", null ]
     ] ],
-    [ "DumpTableType", "dc/d34/a02627.html#ad4739d865080bb5590831b606365e7ef", [
-      [ "DTT_CHARACTER", "dc/d34/a02627.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
-      [ "DTT_CHAR_TABLE", "dc/d34/a02627.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
-      [ "DTT_EQSET_TABLE", "dc/d34/a02627.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
-      [ "DTT_INVENTORY", "dc/d34/a02627.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
-      [ "DTT_MAIL", "dc/d34/a02627.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
-      [ "DTT_MAIL_ITEM", "dc/d34/a02627.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
-      [ "DTT_ITEM", "dc/d34/a02627.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
-      [ "DTT_ITEM_GIFT", "dc/d34/a02627.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
-      [ "DTT_PET", "dc/d34/a02627.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
-      [ "DTT_PET_TABLE", "dc/d34/a02627.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
-    ] ]
+    [ "Ringo", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592", [
+      [ "SAY_RIN_START", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592abd4cb0c4d5414164403e75fca667915b", null ],
+      [ "SAY_FAINT", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592a39f7b5e8a7fc4ed40e62cedfa93923bd", null ],
+      [ "SAY_WAKE", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592aadb6c63e08a18de76bcc95ca2e830a6e", null ],
+      [ "SAY_RIN_END_1", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae8753384ff9e53b533a5a1cebd16ce64", null ],
+      [ "SAY_SPR_END_2", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592a1a913192c37c18a19114eebee21e1a85", null ],
+      [ "SAY_RIN_END_3", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae29a03470647c5d13bcb1729160b1d8b", null ],
+      [ "EMOTE_RIN_END_4", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592aeeed58bd2d47e0450374129434bcf296", null ],
+      [ "EMOTE_RIN_END_5", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac0c11a39be96e25065c399ff7dd7c484", null ],
+      [ "SAY_RIN_END_6", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592a699867c1deab61d85853622b099cd728", null ],
+      [ "SAY_SPR_END_7", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac165214832e6be5740245dd6239ef2c9", null ],
+      [ "EMOTE_RIN_END_8", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac034860ad6513469b74ad5b7cc76edc7", null ],
+      [ "SPELL_REVIVE_RINGO", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592a9fc3d4c57ff3ca56f344b70df866e766", null ],
+      [ "QUEST_A_LITTLE_HELP", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592a6ab7d20ae4eca495ad164638b1e68b51", null ],
+      [ "NPC_SPRAGGLE", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592a4bc3afbb0cf9626825ffda0b610e2e64", null ]
+    ] ],
+    [ "AddSC_ungoro_crater", "dc/d34/a02627.html#a6e2c88161cee97e0e405ef83abcc653f", null ]
 ];

@@ -1,7 +1,7 @@
 var a25968 =
 [
-    [ "HandleScript", "d7/dbc/a25968.html#a899d96d5fdf1fa7c46a35b681ec90daa", null ],
-    [ "PrepareSpellScript", "d7/dbc/a25968.html#a8b49884cc187b32368ac5493bc65d339", null ],
-    [ "Register", "d7/dbc/a25968.html#a591928501bc5b0d4c43b04ec6fa8972d", null ],
-    [ "Validate", "d7/dbc/a25968.html#aba754e86c9c87f251a1fa2dff955018e", null ]
+    [ "HandleHeal", "d7/dbc/a25968.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
+    [ "Load", "d7/dbc/a25968.html#a4dd5016439e8798083fe3d4fa5458731", null ],
+    [ "PrepareSpellScript", "d7/dbc/a25968.html#a248ae6d2c8f8d6c014a0164105773836", null ],
+    [ "Register", "d7/dbc/a25968.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
 ];

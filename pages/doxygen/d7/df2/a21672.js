@@ -1,6 +1,6 @@
 var a21672 =
 [
-    [ "HandleOnEffectRemove", "d7/df2/a21672.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "d7/df2/a21672.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "d7/df2/a21672.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "SACDeactivateEvent", "d7/df2/a21672.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
+    [ "Execute", "d7/df2/a21672.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
+    [ "_owner", "d7/df2/a21672.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
 ];

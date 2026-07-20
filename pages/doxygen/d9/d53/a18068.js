@@ -1,6 +1,9 @@
 var a18068 =
 [
-    [ "npc_bone_spikeAI", "da/d64/a18072.html", "da/d64/a18072" ],
-    [ "npc_bone_spike", "d9/d53/a18068.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "d9/d53/a18068.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "CalculatePower", "d9/d53/a18068.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "d9/d53/a18068.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "d9/d53/a18068.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "d9/d53/a18068.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "d9/d53/a18068.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "d9/d53/a18068.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

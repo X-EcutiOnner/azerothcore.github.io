@@ -1,7 +1,7 @@
 var a27864 =
 [
-    [ "go_brewfest_musicAI", "d7/d20/a27864.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
-    [ "UpdateAI", "d7/d20/a27864.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
-    [ "_currentMusicEvent", "d7/d20/a27864.html#ad26a0309bdd4eafce4dfa310db929357", null ],
-    [ "_events", "d7/d20/a27864.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
+    [ "CharacterDeleteActionIpLogger", "d7/d20/a27864.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "d7/d20/a27864.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "d7/d20/a27864.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "d7/d20/a27864.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

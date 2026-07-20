@@ -1,6 +1,11 @@
 var a25456 =
 [
-    [ "HandlePreventAura", "db/dfc/a25456.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
-    [ "PrepareSpellScript", "db/dfc/a25456.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
-    [ "Register", "db/dfc/a25456.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
+    [ "CalcPeriodic", "db/dfc/a25456.html#ab5feede17fa79c9d02fa459586eaca41", null ],
+    [ "CalculateAPAmount", "db/dfc/a25456.html#af2b1da799f1b3c0373dc6782dabbf89c", null ],
+    [ "CalculateResistanceAmount", "db/dfc/a25456.html#a51828f07b0e099c5931161f7aeebaab7", null ],
+    [ "CalculateSPAmount", "db/dfc/a25456.html#a255ed8f5158e715313e44b13f30b099f", null ],
+    [ "CalculateStatAmount", "db/dfc/a25456.html#ade1b7256d19b526a7f4b1520f6b2f663", null ],
+    [ "HandlePeriodic", "db/dfc/a25456.html#a136c8cedca7630543b8937e77571ead1", null ],
+    [ "PrepareAuraScript", "db/dfc/a25456.html#a638a2544d9216bec90c433100c0663a0", null ],
+    [ "Register", "db/dfc/a25456.html#a55605257006d8218250932357f325bb8", null ]
 ];

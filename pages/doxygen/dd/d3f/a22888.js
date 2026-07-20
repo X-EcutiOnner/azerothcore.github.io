@@ -1,6 +1,8 @@
 var a22888 =
 [
-    [ "OnPeriodic", "dd/d3f/a22888.html#adfd5a3a6d9c16cd6acdb1f24e7874f20", null ],
-    [ "PrepareAuraScript", "dd/d3f/a22888.html#a8444053fa146a4163ea905634be78dfc", null ],
-    [ "Register", "dd/d3f/a22888.html#aad8868dc3d00fd3ea648abe7b536970d", null ]
+    [ "instance_black_temple_InstanceMapScript", "dd/d3f/a22888.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
+    [ "OnCreatureCreate", "dd/d3f/a22888.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
+    [ "OnGameObjectCreate", "dd/d3f/a22888.html#a564a49814ceb3b3161a6476335ab653a", null ],
+    [ "SetBossState", "dd/d3f/a22888.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
+    [ "ashtongueGUIDs", "dd/d3f/a22888.html#a85fa9c5231f13529a0741b0f92266c90", null ]
 ];

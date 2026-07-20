@@ -1,7 +1,6 @@
 var a27488 =
 [
-    [ "HandleDummy", "de/da5/a27488.html#a0eae8fe2faee05bad7a34e84dddd3317", null ],
-    [ "PrepareSpellScript", "de/da5/a27488.html#a24634405a8d0ccdd22f4832815262446", null ],
-    [ "Register", "de/da5/a27488.html#a3394b9b9e5899550251d553ac9f77f8a", null ],
-    [ "Validate", "de/da5/a27488.html#ae56a900b3484fd6397d38c4ad8efe5c2", null ]
+    [ "CheckCast", "de/da5/a27488.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
+    [ "PrepareSpellScript", "de/da5/a27488.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
+    [ "Register", "de/da5/a27488.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
 ];

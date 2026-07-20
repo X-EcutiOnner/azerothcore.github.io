@@ -1,8 +1,7 @@
 var a21748 =
 [
-    [ "npc_llod_genericAI", "d0/d0b/a21748.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "d0/d0b/a21748.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "d0/d0b/a21748.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "d0/d0b/a21748.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "d0/d0b/a21748.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "HandleScriptEffect", "d0/d0b/a21748.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
+    [ "PrepareSpellScript", "d0/d0b/a21748.html#adf6593e47a5766c40e7e3859fce00f81", null ],
+    [ "Register", "d0/d0b/a21748.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
+    [ "Validate", "d0/d0b/a21748.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
 ];

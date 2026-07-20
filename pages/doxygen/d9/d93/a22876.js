@@ -1,6 +1,6 @@
 var a22876 =
 [
-    [ "HandleDummy", "d9/d93/a22876.html#a3347413822ce083085bcf1418fbdbae2", null ],
-    [ "PrepareSpellScript", "d9/d93/a22876.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
-    [ "Register", "d9/d93/a22876.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
+    [ "HandleSchoolDamage", "d9/d93/a22876.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
+    [ "PrepareSpellScript", "d9/d93/a22876.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
+    [ "Register", "d9/d93/a22876.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
 ];

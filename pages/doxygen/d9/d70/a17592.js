@@ -1,7 +1,5 @@
 var a17592 =
 [
-    [ "HandleScript", "d9/d70/a17592.html#a4b1e392acea30a9259e65a75667704c5", null ],
-    [ "Load", "d9/d70/a17592.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
-    [ "PrepareSpellScript", "d9/d70/a17592.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
-    [ "Register", "d9/d70/a17592.html#a77632d11a172e5552c0c49de830a1639", null ]
+    [ "achievement_share_the_love", "d9/d70/a17592.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
+    [ "OnCheck", "d9/d70/a17592.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
 ];

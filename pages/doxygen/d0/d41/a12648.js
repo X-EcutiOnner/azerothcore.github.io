@@ -1,6 +1,8 @@
 var a12648 =
 [
-    [ "OrcDeathEvent", "d0/d41/a12648.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
-    [ "Execute", "d0/d41/a12648.html#a293ec6667da669a27fe75965f919cd68", null ],
-    [ "_me", "d0/d41/a12648.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
+    [ "boss_eviscerator", "d0/d41/a12648.html#a2228d79b63df840eb4cb28117f24dcf9", null ],
+    [ "DamageTaken", "d0/d41/a12648.html#af31de4643026e44c80252e156a39bc69", null ],
+    [ "JustEngagedWith", "d0/d41/a12648.html#a14ec212beaa553f8f68e7718e29dcbd9", null ],
+    [ "UpdateAI", "d0/d41/a12648.html#af974908902d30b8144d1b734e795d6ea", null ],
+    [ "SpellShieldReady", "d0/d41/a12648.html#abeac01454b05ca88a89093b0f74c4a1f", null ]
 ];

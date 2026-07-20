@@ -1,6 +1,6 @@
 var a24004 =
 [
-    [ "go_ancient_skull_pile", "d6/dd3/a24004.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
-    [ "OnGossipHello", "d6/dd3/a24004.html#afc258eaeb7586f0f539223c21f82ea63", null ],
-    [ "OnGossipSelect", "d6/dd3/a24004.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
+    [ "npc_infernal_attackerAI", "d3/d9a/a24008.html", "d3/d9a/a24008" ],
+    [ "npc_infernal_attacker", "d6/dd3/a24004.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "d6/dd3/a24004.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

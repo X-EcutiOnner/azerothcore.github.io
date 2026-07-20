@@ -1,7 +1,8 @@
 var a28216 =
 [
-    [ "npc_wormholeAI", "d5/d19/a28216.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "d5/d19/a28216.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "d5/d19/a28216.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "d5/d19/a28216.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "trigger_periodicAI", "d5/d19/a28216.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "d5/d19/a28216.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "d5/d19/a28216.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "d5/d19/a28216.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "d5/d19/a28216.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

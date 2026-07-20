@@ -1,8 +1,9 @@
 var a14496 =
 [
-    [ "boss_venoxis", "d5/d05/a14496.html#a3e91a9022163a726cbc077d38459a5f5", null ],
-    [ "InitializeAI", "d5/d05/a14496.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
-    [ "JustDied", "d5/d05/a14496.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
-    [ "JustEngagedWith", "d5/d05/a14496.html#afaa68ffbd5fecae48a044009326bcaed", null ],
-    [ "Reset", "d5/d05/a14496.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
+    [ "boss_hazzarah", "d5/d05/a14496.html#a73ba49b91addc9c03e1692587fe66a52", null ],
+    [ "CanAIAttack", "d5/d05/a14496.html#a9038a5b4276fda8a6865217a7c494eec", null ],
+    [ "JustEngagedWith", "d5/d05/a14496.html#a18e382c03ff923bb851a9cd8e2541788", null ],
+    [ "JustSummoned", "d5/d05/a14496.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
+    [ "SummonedCreatureDies", "d5/d05/a14496.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
+    [ "UpdateAI", "d5/d05/a14496.html#a61d92f1650a84ed9684d33879e54bd09", null ]
 ];

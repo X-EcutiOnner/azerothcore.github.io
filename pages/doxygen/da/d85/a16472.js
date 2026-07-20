@@ -1,10 +1,9 @@
 var a16472 =
 [
-    [ "spell_halion_damage_aoe_summon", "da/d85/a16472.html#a6152e7a0515076af2c7c2155506257b0", null ],
-    [ "HandleSummon", "da/d85/a16472.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
-    [ "PrepareSpellScript", "da/d85/a16472.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
-    [ "Register", "da/d85/a16472.html#aa1f9239a2910d53c85539abba6333893", null ],
-    [ "Validate", "da/d85/a16472.html#acb359257b29354b5962d9865e06137e7", null ],
-    [ "_auraSpell", "da/d85/a16472.html#a497a74eca703470964157639a6f372e2", null ],
-    [ "_explosionSpell", "da/d85/a16472.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "da/d85/a16472.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
+    [ "CheckAchievementCriteriaMeet", "da/d85/a16472.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
+    [ "DoAction", "da/d85/a16472.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
+    [ "GetGuidData", "da/d85/a16472.html#a01da8216f57e19b5bf8697700089118c", null ],
+    [ "m_uiPortalGUID", "da/d85/a16472.html#a166db22fd409d0387085053852e5ad30", null ],
+    [ "portalCount", "da/d85/a16472.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
 ];

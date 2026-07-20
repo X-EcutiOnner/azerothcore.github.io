@@ -1,8 +1,8 @@
 var a20976 =
 [
-    [ "FilterTargets", "d2/d62/a20976.html#a6f3d275e5ff06a6fc37f143d6394bf45", null ],
-    [ "HandleScript", "d2/d62/a20976.html#aa97e0b2f4a8e33d412501f6625ab1504", null ],
-    [ "PrepareSpellScript", "d2/d62/a20976.html#a0db5183ec1aa7f490202ac41cd00b153", null ],
-    [ "Register", "d2/d62/a20976.html#acd4b270dbe27be417892e0a4183ffa0d", null ],
-    [ "Validate", "d2/d62/a20976.html#abb3ca41a50087763d731d1f911065e14", null ]
+    [ "npc_ulduar_keeperAI", "d6/d11/a20980.html", "d6/d11/a20980" ],
+    [ "npc_ulduar_keeper", "d2/d62/a20976.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "d2/d62/a20976.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "d2/d62/a20976.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "d2/d62/a20976.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

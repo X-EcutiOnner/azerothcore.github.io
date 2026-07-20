@@ -1,6 +1,11 @@
 var a22772 =
 [
-    [ "boss_doomlordkazzakAI", "dc/d51/a22776.html", "dc/d51/a22776" ],
-    [ "boss_doomlord_kazzak", "d9/d6a/a22772.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
-    [ "GetAI", "d9/d6a/a22772.html#a460a32ce37aae852b48f1990406da9a4", null ]
+    [ "boss_essence_of_angerAI", "d9/d6a/a22772.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "d9/d6a/a22772.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "d9/d6a/a22772.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "d9/d6a/a22772.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "d9/d6a/a22772.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "d9/d6a/a22772.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "d9/d6a/a22772.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "targetGUID", "d9/d6a/a22772.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

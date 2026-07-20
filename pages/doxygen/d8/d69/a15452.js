@@ -1,5 +1,5 @@
 var a15452 =
 [
-    [ "boss_vem", "d8/d69/a15452.html#a8e303ece8ba209c6dea0ed6c888077d3", null ],
-    [ "JustEngagedWith", "d8/d69/a15452.html#ae4b7fa599d31155bdee566b31c60b237", null ]
+    [ "npc_hive_zara_swarmer", "d8/d69/a15452.html#a374fa63e210e0be8a074af9199126a9e", null ],
+    [ "PathEndReached", "d8/d69/a15452.html#a3b3510bd00853395b756e1d83d96a474", null ]
 ];

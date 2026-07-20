@@ -1,42 +1,52 @@
 var a01331 =
 [
-    [ "DataHeader", "dc/d8e/a01331.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "ZFScriptName", "dc/d8e/a01331.html#a8c843043d60c28e6ccd7efb1a75ec86e", null ],
-    [ "ZFPyramidPhases", "dc/d8e/a01331.html#a8774900db93cf3aa38b2e231417d6cc3", [
-      [ "PYRAMID_NOT_STARTED", "dc/d8e/a01331.html#a8774900db93cf3aa38b2e231417d6cc3a434ccee53d43aeb68a61adc7afc70e71", null ],
-      [ "PYRAMID_CAGES_OPEN", "dc/d8e/a01331.html#a8774900db93cf3aa38b2e231417d6cc3a733f4b4c341a7c12cea4da96f394e238", null ],
-      [ "PYRAMID_ARRIVED_AT_STAIR", "dc/d8e/a01331.html#a8774900db93cf3aa38b2e231417d6cc3a44fbc93058f64b77b519778b73835095", null ],
-      [ "PYRAMID_WAVE_1", "dc/d8e/a01331.html#a8774900db93cf3aa38b2e231417d6cc3ad6fc2894f46a7f845ccb16b02492416d", null ],
-      [ "PYRAMID_PRE_WAVE_2", "dc/d8e/a01331.html#a8774900db93cf3aa38b2e231417d6cc3a83ddd4a830b4529356e379753ef0a6b0", null ],
-      [ "PYRAMID_WAVE_2", "dc/d8e/a01331.html#a8774900db93cf3aa38b2e231417d6cc3a0fea1a14ce0b618b7b407cb0ebef5257", null ],
-      [ "PYRAMID_PRE_WAVE_3", "dc/d8e/a01331.html#a8774900db93cf3aa38b2e231417d6cc3aeca14c0e13407ddbc852a23a75f9e297", null ],
-      [ "PYRAMID_WAVE_3", "dc/d8e/a01331.html#a8774900db93cf3aa38b2e231417d6cc3aa3061b90909a10cdcf2445a1bee4ddce", null ],
-      [ "PYRAMID_KILLED_ALL_TROLLS", "dc/d8e/a01331.html#a8774900db93cf3aa38b2e231417d6cc3aa18216a575ced9cd802aef44ec6a5b55", null ],
-      [ "PYRAMID_MOVED_DOWNSTAIRS", "dc/d8e/a01331.html#a8774900db93cf3aa38b2e231417d6cc3af4a5d3d2602c5283c9a3e987e6eb7cf4", null ],
-      [ "PYRAMID_DESTROY_GATES", "dc/d8e/a01331.html#a8774900db93cf3aa38b2e231417d6cc3a26d165b4ebf0c18fbab9c99700d40301", null ],
-      [ "PYRAMID_GATES_DESTROYED", "dc/d8e/a01331.html#a8774900db93cf3aa38b2e231417d6cc3ad3ca6408f8a6f8dacff9c606641f3682", null ],
-      [ "PYRAMID_DONE", "dc/d8e/a01331.html#a8774900db93cf3aa38b2e231417d6cc3ab8014318ae3d1f73e7e31fa340a12021", null ]
+    [ "CharacterCustomizeFlags", "dc/d8e/a01331.html#a3a8c2696b2e9a6bf9d90ce80438aa578", [
+      [ "CHAR_CUSTOMIZE_FLAG_NONE", "dc/d8e/a01331.html#a3a8c2696b2e9a6bf9d90ce80438aa578a6f6dac768618381b22f3ab44ba494533", null ],
+      [ "CHAR_CUSTOMIZE_FLAG_CUSTOMIZE", "dc/d8e/a01331.html#a3a8c2696b2e9a6bf9d90ce80438aa578aadb876a16cbe9fa5facd96601b6a4626", null ],
+      [ "CHAR_CUSTOMIZE_FLAG_FACTION", "dc/d8e/a01331.html#a3a8c2696b2e9a6bf9d90ce80438aa578a70c1f08c7db8077b7cf4387b15320dbd", null ],
+      [ "CHAR_CUSTOMIZE_FLAG_RACE", "dc/d8e/a01331.html#a3a8c2696b2e9a6bf9d90ce80438aa578a02cee8912e6f3e69aff23e8f2603dbd5", null ]
     ] ],
-    [ "ZulFarrakCreatures", "dc/d8e/a01331.html#ab6a75cae3d5218b7c02408d5c4fb4b81", [
-      [ "NPC_SANDFURY_CRETIN", "dc/d8e/a01331.html#ab6a75cae3d5218b7c02408d5c4fb4b81abc17ce4a19f84d1f43027e038ce1b376", null ],
-      [ "NPC_SANDFURY_SLAVE", "dc/d8e/a01331.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6c5f3121c15864497a7fd4445e508d9b", null ],
-      [ "NPC_SANDFURY_ACOLYTE", "dc/d8e/a01331.html#ab6a75cae3d5218b7c02408d5c4fb4b81ad994cdb727fce1b96ee059a3f7d40ab8", null ],
-      [ "NPC_SANDFURY_DRUDGE", "dc/d8e/a01331.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3b6291c9a6afbd297befe20651cce18a", null ],
-      [ "NPC_SANDFURY_ZEALOT", "dc/d8e/a01331.html#ab6a75cae3d5218b7c02408d5c4fb4b81aebf682fdf490a79a7c57fa612e9f197d", null ],
-      [ "NPC_SHADOWPRIEST_SEZZZIZ", "dc/d8e/a01331.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6e6e1f1c3cccf7fad5f37b40eb4d72c7", null ],
-      [ "NPC_NEKRUM_GUTCHEWER", "dc/d8e/a01331.html#ab6a75cae3d5218b7c02408d5c4fb4b81ac67a7fd5df9d4f39a21fcd4b485ed031", null ],
-      [ "NPC_BLY", "dc/d8e/a01331.html#ab6a75cae3d5218b7c02408d5c4fb4b81aeeeaf82fbf41331373955f22de91c48d", null ],
-      [ "NPC_RAVEN", "dc/d8e/a01331.html#ab6a75cae3d5218b7c02408d5c4fb4b81af7eec9c0500aedfefe9bbbbaeb5d73b8", null ],
-      [ "NPC_ORO", "dc/d8e/a01331.html#ab6a75cae3d5218b7c02408d5c4fb4b81add85ada339b5a0d2a412756a1032799b", null ],
-      [ "NPC_WEEGLI", "dc/d8e/a01331.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3a660c0cbddbbd8650c9632e52d7b178", null ],
-      [ "NPC_MURTA", "dc/d8e/a01331.html#ab6a75cae3d5218b7c02408d5c4fb4b81ae2ffa4447246d4d51f2339edf2164b7a", null ]
+    [ "CharacterFlags", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6de", [
+      [ "CHARACTER_FLAG_NONE", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dead5a7499a6c1f3eb27d35f01be67f400c", null ],
+      [ "CHARACTER_FLAG_UNK1", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea092d0044d3d9007a2b863daabc208179", null ],
+      [ "CHARACTER_FLAG_RESTING", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea267af6fcb89331e982cd0d210cb7686d", null ],
+      [ "CHARACTER_LOCKED_FOR_TRANSFER", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6deac53c54ed596141ee95313054fc0ef3e6", null ],
+      [ "CHARACTER_FLAG_UNK4", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea622731fb5fcaa439a008543afe91e0ae", null ],
+      [ "CHARACTER_FLAG_UNK5", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea657ec519983809e892b66a4bbcc420f9", null ],
+      [ "CHARACTER_FLAG_UNK6", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6deae7f3c8351b12fbd90cd6dd6b0070e3da", null ],
+      [ "CHARACTER_FLAG_UNK7", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dead47e923a1edb4d4671e9662a63d92994", null ],
+      [ "CHARACTER_FLAG_UNK8", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea7b52e8cea3f9c3167d92decd72098a3b", null ],
+      [ "CHARACTER_FLAG_UNK9", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6deab057f340ae5124c15001b623b6a394a6", null ],
+      [ "CHARACTER_FLAG_UNK10", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea498fa883ff24092e936e5177beebb785", null ],
+      [ "CHARACTER_FLAG_HIDE_HELM", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea66535a9bc1fcff584512d527a0e445ad", null ],
+      [ "CHARACTER_FLAG_HIDE_CLOAK", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea6cc2ad36253f710d071f6ac2f4d5d989", null ],
+      [ "CHARACTER_FLAG_UNK13", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dead6058e570765e54acdb0bad2ccc37cbe", null ],
+      [ "CHARACTER_FLAG_GHOST", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea5542926bc198b33f9a2bfa3f8e85f59f", null ],
+      [ "CHARACTER_FLAG_RENAME", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6deacb51a14db555ce9a87615b0aad13ea9c", null ],
+      [ "CHARACTER_FLAG_UNK16", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea8e36178c90ba01bda3e3cfb4f0acc26a", null ],
+      [ "CHARACTER_FLAG_UNK17", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dead045598a678f05d5a6e48657a2ff5454", null ],
+      [ "CHARACTER_FLAG_UNK18", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea52d3c6406ca1ca64d241da3aa0840494", null ],
+      [ "CHARACTER_FLAG_UNK19", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea20daaff29ba350494a4ac43cb371baa2", null ],
+      [ "CHARACTER_FLAG_UNK20", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea78d41c1489bfe1594e5b47b53f48dfcc", null ],
+      [ "CHARACTER_FLAG_UNK21", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6deaa040a897bd55c5a2bc0cbf54fa598bc0", null ],
+      [ "CHARACTER_FLAG_UNK22", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6deaefb3d9df73b012a574c9cd555df01617", null ],
+      [ "CHARACTER_FLAG_UNK23", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea93ff5e89a80da229bb8bb32c3347c1ec", null ],
+      [ "CHARACTER_FLAG_UNK24", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea493ef27dbee4dad8aa8d304ad45bff29", null ],
+      [ "CHARACTER_FLAG_LOCKED_BY_BILLING", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6deab0f9ad7514233fbaa1def50233bb8bfc", null ],
+      [ "CHARACTER_FLAG_DECLINED", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea6098faf3414ed441768bb232095b4d7e", null ],
+      [ "CHARACTER_FLAG_UNK27", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea3ffb56c9015b39dfd2c565a4959847aa", null ],
+      [ "CHARACTER_FLAG_UNK28", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dead435b5efb35339b5235a8122e465ef9e", null ],
+      [ "CHARACTER_FLAG_UNK29", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6deace4621701b17986236789bb2b7076e17", null ],
+      [ "CHARACTER_FLAG_UNK30", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea4403a51ec915d185419571435ae9d4ef", null ],
+      [ "CHARACTER_FLAG_UNK31", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6dea6dc33aaf3064bb368a764a60bcb4a6ba", null ],
+      [ "CHARACTER_FLAG_UNK32", "dc/d8e/a01331.html#aaba5b1cb73e3834489f98e5f6f0fc6deaf4b59210a530d6a1c19fb816841c2258", null ]
     ] ],
-    [ "ZulFarrakData", "dc/d8e/a01331.html#a66cc3be5310a2efbacb38d2398d8af24", [
-      [ "DATA_PYRAMID", "dc/d8e/a01331.html#a66cc3be5310a2efbacb38d2398d8af24ab1d90dc5c239d55044f1bed8e5e823e3", null ],
-      [ "DATA_GAHZRILLA", "dc/d8e/a01331.html#a66cc3be5310a2efbacb38d2398d8af24a023919c11385e898d643499efd09c167", null ]
-    ] ],
-    [ "ZulFarrakGameobjects", "dc/d8e/a01331.html#a83f1d34de34a6a1e990edbfb47a2f78e", [
-      [ "GO_END_DOOR", "dc/d8e/a01331.html#a83f1d34de34a6a1e990edbfb47a2f78ea279b9f40e76d0da56ef7eca0a2578319", null ]
-    ] ],
-    [ "GetZulFarrakAI", "dc/d8e/a01331.html#afc0f10884b3d0ad6a6e73e3767fa3538", null ]
+    [ "GetAnyFactionTemplateForFaction", "dc/d8e/a01331.html#aaf34abebbe803c845754a0b3d9d408f4", null ],
+    [ "copseReclaimDelay", "dc/d8e/a01331.html#abc12a88106c15ea8ca079d4ddcf9c620", null ],
+    [ "FALL_DMG_EQU_INTERCEPT", "dc/d8e/a01331.html#ac63379cd87b9dfd031f82a5dd4d8678d", null ],
+    [ "FALL_DMG_EQU_SLOPE", "dc/d8e/a01331.html#ad4d1960f0531122cdfa132782de41164", null ],
+    [ "MIN_FALL_DMG_DIST", "dc/d8e/a01331.html#ac6348ab1205dfbd9510236ae4f14d02e", null ],
+    [ "runeSlotTypes", "dc/d8e/a01331.html#a3c9e0541a7758d9d6e543e883b89d62f", null ],
+    [ "SPELL_DIVINE_PROTECTION", "dc/d8e/a01331.html#a1d068feb6f7e09d87a98c1eba867596e", null ],
+    [ "SPELL_GUST_OF_WIND", "dc/d8e/a01331.html#a8f0bd87c555c2d2be08ec5d8d14bdfbd", null ]
 ];

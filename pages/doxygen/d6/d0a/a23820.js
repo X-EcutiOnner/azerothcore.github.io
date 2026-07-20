@@ -1,7 +1,6 @@
 var a23820 =
 [
-    [ "HandleEffectApply", "d6/d0a/a23820.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
-    [ "HandleEffectRemove", "d6/d0a/a23820.html#a96769390468dc132df62b5a0ec3a2da4", null ],
-    [ "PrepareAuraScript", "d6/d0a/a23820.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
-    [ "Register", "d6/d0a/a23820.html#a95905ec163c42463314a5f5bb023b4d6", null ]
+    [ "npc_nether_drakeAI", "d8/daf/a23824.html", "d8/daf/a23824" ],
+    [ "npc_nether_drake", "d6/d0a/a23820.html#a253ec3c91857b899ea9e2c824870b760", null ],
+    [ "GetAI", "d6/d0a/a23820.html#a58d269e2c73cae07bb507162b742fe8f", null ]
 ];

@@ -1,8 +1,7 @@
 var a19680 =
 [
-    [ "npc_centrifuge_constructAI", "d9/d76/a19680.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "d9/d76/a19680.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "d9/d76/a19680.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "d9/d76/a19680.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "d9/d76/a19680.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "boss_commander_stoutbeard", "d9/d76/a19680.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
+    [ "JustDied", "d9/d76/a19680.html#a2fd835408045715058ba476aa56cb4f7", null ],
+    [ "JustEngagedWith", "d9/d76/a19680.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
+    [ "KilledUnit", "d9/d76/a19680.html#acf7016c65f020dca9228bd2d2fd89299", null ]
 ];

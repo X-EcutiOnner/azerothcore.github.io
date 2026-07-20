@@ -1,7 +1,6 @@
 var a29040 =
 [
-    [ "ClassMask", "de/da0/a29040.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
-    [ "petTalentMask", "de/da0/a29040.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
-    [ "tabpage", "de/da0/a29040.html#aa6389276582adeb4cae76c257734795c", null ],
-    [ "TalentTabID", "de/da0/a29040.html#ae3a71c61223b59185365819164715dc2", null ]
+    [ "ID", "de/da0/a29040.html#a7d40e334785d96a2e57d28f87a59778a", null ],
+    [ "maxCount", "de/da0/a29040.html#a5edc6442e026b12dae654fa86440a11a", null ],
+    [ "mode", "de/da0/a29040.html#a76553ecf9f880a5e5967f818123742fd", null ]
 ];

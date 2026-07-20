@@ -1,9 +1,5 @@
 var a29032 =
 [
-    [ "Category", "d3/d62/a29032.html#acd933f251a1faa1f705420307136681d", null ],
-    [ "Faction", "d3/d62/a29032.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
-    [ "Flags", "d3/d62/a29032.html#a8b41ed573eae71196664a61bac83fe3e", null ],
-    [ "Id", "d3/d62/a29032.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
-    [ "Slot", "d3/d62/a29032.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
-    [ "Type", "d3/d62/a29032.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
+    [ "ID", "d3/d62/a29032.html#a65acb5af9a688346cbb7dc144710c768", null ],
+    [ "inventoryIcon", "d3/d62/a29032.html#a26b43ee179bd546c6e956dd797fc0842", null ]
 ];

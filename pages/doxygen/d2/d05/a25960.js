@@ -1,8 +1,9 @@
 var a25960 =
 [
-    [ "AfterApply", "d2/d05/a25960.html#a972d3ec2a26bbf93e47f696f44ff22b0", null ],
-    [ "AfterRemove", "d2/d05/a25960.html#a29d4dbe7d36d256cf89fdde1bbabac85", null ],
-    [ "PrepareAuraScript", "d2/d05/a25960.html#a1e44672c1f47dbd8e57f7653d905e3e6", null ],
-    [ "Register", "d2/d05/a25960.html#a293ea418e290d96bbcaaed24cad663b0", null ],
-    [ "Validate", "d2/d05/a25960.html#aa67afc85c142006efad986859f14941c", null ]
+    [ "CheckCast", "d2/d05/a25960.html#af92fe276563a8ca0d939d881dba8adda", null ],
+    [ "HandleDummy", "d2/d05/a25960.html#a86b4413dd25f96fb197604007171a8d1", null ],
+    [ "Load", "d2/d05/a25960.html#ab1800d2550b944dcfa9967cc0e79c5ee", null ],
+    [ "PrepareSpellScript", "d2/d05/a25960.html#a47aa868fbabee8a3988bcc93402b8cfb", null ],
+    [ "Register", "d2/d05/a25960.html#a1b4ff1b3b518a2e4bad1836de6793561", null ],
+    [ "Validate", "d2/d05/a25960.html#a8d0c2f18927e811f3d3cdee94e3623c0", null ]
 ];

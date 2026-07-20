@@ -1,14 +1,12 @@
 var a21316 =
 [
-    [ "npc_hidden_cultistAI", "d1/d1d/a21316.html#a970aaa2401664337147696624cc8cac4", null ],
-    [ "AttackPlayer", "d1/d1d/a21316.html#a55e3b02d05f35d134fc605a13efe9018", null ],
-    [ "Initialize", "d1/d1d/a21316.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
-    [ "PreScript", "d1/d1d/a21316.html#a92be5361e2b28152adcca0629b286bb8", null ],
-    [ "Reset", "d1/d1d/a21316.html#afe38e448d86cdf910870d72a3890ae1f", null ],
-    [ "sGossipSelect", "d1/d1d/a21316.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
-    [ "UpdateAI", "d1/d1d/a21316.html#a0bba4d10439d47d44ff856c7fec18595", null ],
-    [ "_emoteState", "d1/d1d/a21316.html#adb4e884787dc480358c5be22d276ec49", null ],
-    [ "_events", "d1/d1d/a21316.html#ab0494e33d16a43aa1426784d1882e41c", null ],
-    [ "_npcFlags", "d1/d1d/a21316.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
-    [ "_playerGUID", "d1/d1d/a21316.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
+    [ "boss_xevozz", "d1/d1d/a21316.html#aea402ffbe689ca65e29b30899862a8bc", null ],
+    [ "EnterEvadeMode", "d1/d1d/a21316.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
+    [ "ExecuteEvent", "d1/d1d/a21316.html#af5b37fc643f2b22468a38655fce63d25", null ],
+    [ "JustDied", "d1/d1d/a21316.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
+    [ "JustEngagedWith", "d1/d1d/a21316.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
+    [ "JustSummoned", "d1/d1d/a21316.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
+    [ "KilledUnit", "d1/d1d/a21316.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
+    [ "MoveInLineOfSight", "d1/d1d/a21316.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
+    [ "SummonedCreatureDespawn", "d1/d1d/a21316.html#a1493a5acdfcca7d01446564db622239e", null ]
 ];

@@ -1,6 +1,7 @@
 var a02537 =
 [
-    [ "SelectAI", "d1/d2e/a02537.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
-    [ "SelectGameObjectAI", "d1/d2e/a02537.html#a2ce404e9b85f551638d8783c01a19860", null ],
-    [ "SelectMovementGenerator", "d1/d2e/a02537.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
+    [ "inventory_commandscript", "dc/df2/a12416.html", "dc/df2/a12416" ],
+    [ "AddSC_inventory_commandscript", "d1/d2e/a02537.html#a8917ab2c5001702c3dc7a14313dbc562", null ],
+    [ "bagSpecsColors", "d1/d2e/a02537.html#aabf9a2b965ae6153eb18635be4468eb6", null ],
+    [ "bagSpecsToString", "d1/d2e/a02537.html#ac004d76eb746ea415b16f1b512a057b6", null ]
 ];

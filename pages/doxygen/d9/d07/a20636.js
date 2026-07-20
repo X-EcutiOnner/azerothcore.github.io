@@ -1,5 +1,9 @@
 var a20636 =
 [
-    [ "achievement_xt002_nerf_engineering", "d9/d07/a20636.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
-    [ "OnCheck", "d9/d07/a20636.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
+    [ "npc_ulduar_dark_rune_sentinel", "d9/d07/a20636.html#aa618a5c21a3f8c8ad5fa9b1dbd0ad267", null ],
+    [ "CanAIAttack", "d9/d07/a20636.html#a6549068c5035af4e9ed8f67d38c8b23f", null ],
+    [ "Reset", "d9/d07/a20636.html#ab5401b3309fffcaebbcbc6b665ab77a1", null ],
+    [ "UpdateAI", "d9/d07/a20636.html#ae0c37055a213f91a46b68d7286ef3867", null ],
+    [ "timer1", "d9/d07/a20636.html#a836d5ed8691a08303622389475380eae", null ],
+    [ "timer2", "d9/d07/a20636.html#aa1985f0abdfa41a0fb9568e30048f24b", null ]
 ];

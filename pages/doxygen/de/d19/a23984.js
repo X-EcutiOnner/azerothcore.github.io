@@ -1,6 +1,7 @@
 var a23984 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d1/d5d/a23988.html", "d1/d5d/a23988" ],
-    [ "npc_unkor_the_ruthless", "de/d19/a23984.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "de/d19/a23984.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "CheckRequirement", "de/d19/a23984.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "de/d19/a23984.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "de/d19/a23984.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "de/d19/a23984.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

@@ -1,10 +1,6 @@
 var a29448 =
 [
-    [ "SetUp", "d7/d7d/a29448.html#a59657ac0b1eef5636d297ef3fd72f81e", null ],
-    [ "TearDown", "d7/d7d/a29448.html#a3e60f8d66a4d2ade8a844cd273079799", null ],
-    [ "_creatureA", "d7/d7d/a29448.html#a9b8fd602bcafd1e7da74d84ff650bb8d", null ],
-    [ "_creatureB", "d7/d7d/a29448.html#a013f2803435327693032f6bf23728219", null ],
-    [ "_map", "d7/d7d/a29448.html#aff1204f57b91638d6f2513bfec515b88", null ],
-    [ "_previousWorld", "d7/d7d/a29448.html#a4f5f721748aaae7fc00172049fe75639", null ],
-    [ "_worldMock", "d7/d7d/a29448.html#a3f59d709f3f43cb7b7a86b4370350982", null ]
+    [ "canProcDuringTrigger", "d7/d7d/a29448.html#a10e8ad619c9766fdf49cd29662c3d9e0", null ],
+    [ "procDeepDuringTrigger", "d7/d7d/a29448.html#a5df33ebca29ea3ce1088307c138a28e4", null ],
+    [ "spellId", "d7/d7d/a29448.html#ac63803a380695f311a39cd62a4f298b4", null ]
 ];

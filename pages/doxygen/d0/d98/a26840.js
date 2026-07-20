@@ -1,6 +1,7 @@
 var a26840 =
 [
-    [ "HandleDummy", "d0/d98/a26840.html#a73628636431d3549d6e3530c6ef23c08", null ],
-    [ "PrepareSpellScript", "d0/d98/a26840.html#ab90d3031b356e8004fa62c9562f1ba1f", null ],
-    [ "Register", "d0/d98/a26840.html#a7f42cf47831d3c8544453530a1454ddc", null ]
+    [ "HandleEffectRemove", "d0/d98/a26840.html#a814687d3938e966f8721438e1a722f77", null ],
+    [ "PrepareAuraScript", "d0/d98/a26840.html#a2144b0602501471a4001883ce9de6db3", null ],
+    [ "Register", "d0/d98/a26840.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
+    [ "AuraEffectHandleModes", "d0/d98/a26840.html#ab291f6c6f269ec7004df39a043f49efd", null ]
 ];

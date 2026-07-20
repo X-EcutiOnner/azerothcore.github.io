@@ -1,8 +1,9 @@
 var a27516 =
 [
-    [ "HandleDamage", "db/df8/a27516.html#a371d3112e619453b7c92933a145bf4d2", null ],
-    [ "HandleDummy", "db/df8/a27516.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
-    [ "PrepareSpellScript", "db/df8/a27516.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
-    [ "Register", "db/df8/a27516.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
-    [ "Validate", "db/df8/a27516.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
+    [ "CheckCast", "db/df8/a27516.html#a441927e0d8d7304030440c19458eb34d", null ],
+    [ "HandleScriptEffect", "db/df8/a27516.html#a10e9691aa15869c82fba79072a314d7e", null ],
+    [ "PrepareSpellScript", "db/df8/a27516.html#a90b8ae945aeb85ad6e8a120501288979", null ],
+    [ "Register", "db/df8/a27516.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
+    [ "Validate", "db/df8/a27516.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
+    [ "iTypes", "db/df8/a27516.html#ae852b9df34612c074eab23b025c86870", null ]
 ];

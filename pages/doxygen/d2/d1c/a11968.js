@@ -1,6 +1,7 @@
 var a11968 =
 [
-    [ "EffectProcHandler", "d2/d1c/a11968.html#a613d5e85c3a7449e4f31719966dcdcc1", null ],
-    [ "Call", "d2/d1c/a11968.html#ae03d27451f687319629b3c54c5a7eed5", null ],
-    [ "_EffectHandlerScript", "d2/d1c/a11968.html#a8cb9ec4cfee59bc44063ac5cbf25844f", null ]
+    [ "EffectNameCheck", "d2/d1c/a11968.html#aa82307388bdda7864bb085a349b63f29", null ],
+    [ "Check", "d2/d1c/a11968.html#a729d7f07669dedec50f009a87b8f32a4", null ],
+    [ "ToString", "d2/d1c/a11968.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
+    [ "effName", "d2/d1c/a11968.html#a905224fb028ea0eab350773b7230f871", null ]
 ];

@@ -1,7 +1,7 @@
 var a21224 =
 [
-    [ "npc_violet_hold_defense_system", "d4/d0c/a21224.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "d4/d0c/a21224.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "d4/d0c/a21224.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ],
-    [ "_tickCount", "d4/d0c/a21224.html#a4a7504069b05480428278fd09d5e59ba", null ]
+    [ "HandlePeriodicDummy", "d4/d0c/a21224.html#a295f37cddccc696d450a0c4380d43c29", null ],
+    [ "PrepareAuraScript", "d4/d0c/a21224.html#a9453aa189ba53de3d89bbab183927cfc", null ],
+    [ "Register", "d4/d0c/a21224.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
+    [ "Validate", "d4/d0c/a21224.html#a475480c072aaccde7b00cf28aedff3ec", null ]
 ];

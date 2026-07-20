@@ -1,11 +1,8 @@
 var a13320 =
 [
-    [ "npc_scarlet_ghoulAI", "d0/d1e/a13320.html#a194795143717de5aa8f0ca4c4e516136", null ],
-    [ "InitializeAI", "d0/d1e/a13320.html#ad0fd204d15350332508b0c9d9decefb1", null ],
-    [ "MovementInform", "d0/d1e/a13320.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
-    [ "OwnerAttackedBy", "d0/d1e/a13320.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
-    [ "SetGUID", "d0/d1e/a13320.html#aa7f73c3a1ab4938c1037c0bdd38b6db1", null ],
-    [ "UpdateAI", "d0/d1e/a13320.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
-    [ "events", "d0/d1e/a13320.html#a105ac0982d28be590d514d2e452109c0", null ],
-    [ "gothikGUID", "d0/d1e/a13320.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
+    [ "npc_barnesAI", "d3/d06/a13324.html", "d3/d06/a13324" ],
+    [ "npc_barnes", "d0/d1e/a13320.html#aacdc737a94397a90b48b635293fe9c80", null ],
+    [ "GetAI", "d0/d1e/a13320.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
+    [ "OnGossipHello", "d0/d1e/a13320.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
+    [ "OnGossipSelect", "d0/d1e/a13320.html#aa04d577e318f16f581f82761b6014eb5", null ]
 ];

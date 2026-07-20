@@ -1,6 +1,7 @@
 var a24696 =
 [
-    [ "CheckAreaTarget", "d7/dde/a24696.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
-    [ "PrepareAuraScript", "d7/dde/a24696.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
-    [ "Register", "d7/dde/a24696.html#a6647a8e35009cf8559e4957a666f037a", null ]
+    [ "FilterTargets", "d7/dde/a24696.html#a9abf4baaba572636dba3980e5ae777c5", null ],
+    [ "Load", "d7/dde/a24696.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
+    [ "PrepareSpellScript", "d7/dde/a24696.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
+    [ "Register", "d7/dde/a24696.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
 ];

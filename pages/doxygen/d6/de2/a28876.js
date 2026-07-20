@@ -1,9 +1,6 @@
 var a28876 =
 [
-    [ "itemId", "d6/de2/a28876.html#ae125712e5569c9699b4748b6a15fbc12", null ],
-    [ "items_to_triggerspell", "d6/de2/a28876.html#a8496a2f3fa3e230def04b996fc585760", null ],
-    [ "name", "d6/de2/a28876.html#a9b62f843833d524f200782d44151503d", null ],
-    [ "required_skill_id", "d6/de2/a28876.html#ab3058ac725fb8f105b9359d5a5147942", null ],
-    [ "required_skill_value", "d6/de2/a28876.html#a58d0997a73cf48061545edbc0201f544", null ],
-    [ "spells", "d6/de2/a28876.html#a8aac032992efe1bfbba0e49693562c7f", null ]
+    [ "ChannelID", "d6/de2/a28876.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
+    [ "flags", "d6/de2/a28876.html#aa77db644555e336ccbb8dd138c192425", null ],
+    [ "pattern", "d6/de2/a28876.html#ad8b550cf444d66eede00abcf2cefec22", null ]
 ];

@@ -1,8 +1,6 @@
 var a17128 =
 [
-    [ "npc_fos_leaderAI", "d4/d4b/a17128.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "d4/d4b/a17128.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "d4/d4b/a17128.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "d4/d4b/a17128.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "d4/d4b/a17128.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "HandleDummy", "d4/d4b/a17128.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
+    [ "PrepareSpellScript", "d4/d4b/a17128.html#accbf8f40b1ab123a2be81a514c94c836", null ],
+    [ "Register", "d4/d4b/a17128.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
 ];

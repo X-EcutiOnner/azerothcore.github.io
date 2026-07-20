@@ -1,19 +1,14 @@
 var a15444 =
 [
-    [ "boss_bug_trio", "d9/d1b/a15444.html#acfef187b77a745686cb64bec64398dd4", null ],
-    [ "CheckInRoom", "d9/d1b/a15444.html#a9b78f1f7beee555460bd24338a25506d", null ],
-    [ "DamageTaken", "d9/d1b/a15444.html#a41e1d62badcad8d360983f07b4101f7e", null ],
-    [ "DoAction", "d9/d1b/a15444.html#a808939fbc1a9f2bc9e3a6dda5dce02f4", null ],
-    [ "DoFinalSpell", "d9/d1b/a15444.html#a46b943e5d5f5b0972b42edc4134c1f98", null ],
-    [ "EnterCombatWithTrio", "d9/d1b/a15444.html#af7d3159f505f5f3dd6e273d47fd9bc80", null ],
-    [ "EnterEvadeMode", "d9/d1b/a15444.html#ae6809cc35969618ecfaf1767e8c9ae92", null ],
-    [ "EvadeAllBosses", "d9/d1b/a15444.html#a09c60b117f2cb194eeb1a2b13b7e5d37", null ],
-    [ "JustDied", "d9/d1b/a15444.html#a2d4d6a43de7ce16b6cf5b7603fbacd87", null ],
-    [ "MovementInform", "d9/d1b/a15444.html#aa24ae95cbe50f24abef4ab4ac30278b8", null ],
-    [ "Reset", "d9/d1b/a15444.html#a8f07a98ed21c3e362bec3c8d3bd5ea09", null ],
-    [ "UpdateAI", "d9/d1b/a15444.html#a26896dd5f3f2e0ca6251bd96f8199e10", null ],
-    [ "_creatureDying", "d9/d1b/a15444.html#a89dbaf8c1bba75369b978dd366806bb4", null ],
-    [ "_dying", "d9/d1b/a15444.html#a4ad80d1c623a86396d180bc6a6f14bb5", null ],
-    [ "_isEating", "d9/d1b/a15444.html#a331eb32e0713aee8d5a84ed32c72de12", null ],
-    [ "_scheduler", "d9/d1b/a15444.html#a121d3abe2854c5b798ee1eebdaea699f", null ]
+    [ "boss_ayamiss", "d9/d1b/a15444.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
+    [ "DoAction", "d9/d1b/a15444.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
+    [ "EnterEvadeMode", "d9/d1b/a15444.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
+    [ "JustDied", "d9/d1b/a15444.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
+    [ "JustEngagedWith", "d9/d1b/a15444.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
+    [ "JustSummoned", "d9/d1b/a15444.html#a4281f761256cd93c19aea0a76239512d", null ],
+    [ "MovementInform", "d9/d1b/a15444.html#a6bc1f0767785efb5a5fb005b49338032", null ],
+    [ "Reset", "d9/d1b/a15444.html#a10111f97236c2846181aa20f7d9b64fd", null ],
+    [ "ScheduleTasks", "d9/d1b/a15444.html#a166238b9395a426a7333cf71a38c6c5c", null ],
+    [ "_swarmers", "d9/d1b/a15444.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
+    [ "homePos", "d9/d1b/a15444.html#ab098ee0f8872d1cf9d34993c01971921", null ]
 ];

@@ -1,10 +1,14 @@
 var a06028 =
 [
-    [ "Alias", "d4/d91/a06028.html#ac885c365760ade7b0c74e5fead82a210", null ],
-    [ "Index", "d4/d91/a06028.html#ad841e71a9394fc114a35f0234ef581b6", null ],
-    [ "Name", "d4/d91/a06028.html#af8b9f87733157401cff6b0846a545fa4", null ],
-    [ "TableAlias", "d4/d91/a06028.html#aa9ca2448829defe395b479a9a4ca3c3e", null ],
-    [ "TableName", "d4/d91/a06028.html#ada6594cc2aa67c8d34bdb45e757fda8c", null ],
-    [ "Type", "d4/d91/a06028.html#a76dec8aee42dce6698e4fda0ee1e3eba", null ],
-    [ "TypeName", "d4/d91/a06028.html#aba1b90e43c4f4c545f76568cae86ad43", null ]
+    [ "SOAPCommand", "d4/d91/a06028.html#a56d5e1a4b0e3abb0284c668e175a8d4b", null ],
+    [ "~SOAPCommand", "d4/d91/a06028.html#ab0a07da0bb379751d0d2812dfa98b607", null ],
+    [ "appendToPrintBuffer", "d4/d91/a06028.html#a116d4a9d85c536ca3866bf340b64b9d9", null ],
+    [ "commandFinished", "d4/d91/a06028.html#a18310d831429b084dc5cbf6310195001", null ],
+    [ "hasCommandSucceeded", "d4/d91/a06028.html#a251a0999a4b74ca8db7bbaa634f1d361", null ],
+    [ "print", "d4/d91/a06028.html#a69a3287df41392488dbcb1be2f0349f3", null ],
+    [ "setCommandSuccess", "d4/d91/a06028.html#ae6849ecbf940ac2baf92f3b7ca3d6cd2", null ],
+    [ "finishedPromise", "d4/d91/a06028.html#aec2e336644d004a59ad21431fbf80c83", null ],
+    [ "m_printBuffer", "d4/d91/a06028.html#aa823e9c8d3048d5780b11d168f5be0d9", null ],
+    [ "m_self", "d4/d91/a06028.html#a4276b0d56ac60b507902d32395cb1885", null ],
+    [ "m_success", "d4/d91/a06028.html#aab7299bceae48c2066f1885b90a34c60", null ]
 ];

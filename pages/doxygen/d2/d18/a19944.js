@@ -1,6 +1,6 @@
 var a19944 =
 [
-    [ "CastRunesEvent", "d2/d18/a19944.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
-    [ "Execute", "d2/d18/a19944.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
-    [ "_owner", "d2/d18/a19944.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d7/d47/a19948.html", "d7/d47/a19948" ],
+    [ "boss_sjonnir_malformed_ooze", "d2/d18/a19944.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "d2/d18/a19944.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

@@ -1,7 +1,8 @@
 var a11676 =
 [
-    [ "DynObjAura", "d2/d40/a11676.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
-    [ "FillTargetMap", "d2/d40/a11676.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
-    [ "Remove", "d2/d40/a11676.html#ada3f65b4a817e2337da43da437b93a3b", null ],
-    [ "Aura::Create", "d2/d40/a11676.html#ae2c0fdfb409846fec5e861de60797112", null ]
+    [ "ServerPktHeader", "d2/d40/a11676.html#a761e294fccc02055a46bfc46656da706", null ],
+    [ "getHeaderLength", "d2/d40/a11676.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
+    [ "isLargePacket", "d2/d40/a11676.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
+    [ "header", "d2/d40/a11676.html#adc69128832b16124c284c584e7540b11", null ],
+    [ "size", "d2/d40/a11676.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
 ];

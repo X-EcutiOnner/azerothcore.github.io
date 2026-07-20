@@ -1,6 +1,8 @@
 var a27748 =
 [
-    [ "npc_spirit_shadeAI", "da/d8d/a27752.html", "da/d8d/a27752" ],
-    [ "npc_spirit_shade", "d3/de1/a27748.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "d3/de1/a27748.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "CheckProc", "d3/de1/a27748.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
+    [ "HandleEffectProc", "d3/de1/a27748.html#af01d160cb2a55124361a2dd113acd0a7", null ],
+    [ "PrepareAuraScript", "d3/de1/a27748.html#aeffb8490a7208ae6e32a505283afbc03", null ],
+    [ "Register", "d3/de1/a27748.html#a5436413d098dde4b0fa1ed2259a47779", null ],
+    [ "Validate", "d3/de1/a27748.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
 ];

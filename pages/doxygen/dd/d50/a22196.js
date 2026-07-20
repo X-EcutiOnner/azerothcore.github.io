@@ -1,5 +1,8 @@
 var a22196 =
 [
-    [ "OutdoorPvP_hellfire_peninsula", "dd/d50/a22196.html#a8ef74076d03225c889c6f027fbbfe25d", null ],
-    [ "GetOutdoorPvP", "dd/d50/a22196.html#aee93a8191457d7a264053809a5c082e8", null ]
+    [ "npc_oathbound_warder", "dd/d50/a22196.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
+    [ "AttackStart", "dd/d50/a22196.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
+    [ "InitializeAI", "dd/d50/a22196.html#a62c4c568ad615013afa46c7da84d057a", null ],
+    [ "JustEngagedWith", "dd/d50/a22196.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
+    [ "UpdateAI", "dd/d50/a22196.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
 ];

@@ -1,6 +1,6 @@
 var a15616 =
 [
-    [ "HandleDummy", "db/df9/a15616.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
-    [ "PrepareSpellScript", "db/df9/a15616.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
-    [ "Register", "db/df9/a15616.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
+    [ "FilterTargets", "db/df9/a15616.html#a3ec2840ab1d853a1546c64a2d158e75f", null ],
+    [ "PrepareSpellScript", "db/df9/a15616.html#a511e54100036307aa5d37bc959405c73", null ],
+    [ "Register", "db/df9/a15616.html#a31d1d590f0e6fc2e56322d606961828f", null ]
 ];

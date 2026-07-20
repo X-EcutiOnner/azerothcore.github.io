@@ -1,6 +1,8 @@
 var a19620 =
 [
-    [ "npc_oculus_unstable_sphereAI", "dd/ddf/a19624.html", "dd/ddf/a19624" ],
-    [ "npc_oculus_unstable_sphere", "d0/dbf/a19620.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
-    [ "GetAI", "d0/dbf/a19620.html#adda2a9e7eab03444742e85729673ab2f", null ]
+    [ "npc_scion_of_eternity", "d0/dbf/a19620.html#ac1a9111bc835a3d2cffc43b840985763", null ],
+    [ "AttackStart", "d0/dbf/a19620.html#a86b5e235096ad107217f36150c618d73", null ],
+    [ "JustDied", "d0/dbf/a19620.html#aff0f8d0d57afb6ef3df7b259ec5860fa", null ],
+    [ "MoveInLineOfSight", "d0/dbf/a19620.html#a25424c349fc39f7b42d36ac055f91ad9", null ],
+    [ "UpdateAI", "d0/dbf/a19620.html#a49be60ccd03d75cf56931b870ddf086c", null ]
 ];

@@ -1,5 +1,7 @@
 var a28940 =
 [
-    [ "id", "dd/dea/a28940.html#a4667f55651f20c85f5b3da9384bac078", null ],
-    [ "QuestRewFactionValue", "dd/dea/a28940.html#a9a42feddeef8e054cd52b72cfc812867", null ]
+    [ "EmoteType", "dd/dea/a28940.html#a2d319652021081fdb02472c32a28e318", null ],
+    [ "Flags", "dd/dea/a28940.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
+    [ "Id", "dd/dea/a28940.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
+    [ "UnitStandState", "dd/dea/a28940.html#ada83e548faa01917a5db19eaa15dbbec", null ]
 ];

@@ -1,9 +1,10 @@
 var a25336 =
 [
-    [ "CheckProc", "df/db5/a25336.html#a05a15654fd3c6175b59ab18197fc3c77", null ],
-    [ "HandleProc", "df/db5/a25336.html#a5345da73b9c4c9fe4ae5d272e3574955", null ],
-    [ "OnRemove", "df/db5/a25336.html#a27b1b744d88b4c870c0baa0b8f88317f", null ],
-    [ "PrepareAuraScript", "df/db5/a25336.html#a2e13f63459342fb749594f7fbb517c80", null ],
-    [ "Register", "df/db5/a25336.html#a6fc9a3945a736ba4a62ad754090d8525", null ],
-    [ "Validate", "df/db5/a25336.html#a008ec43da50deb568ec453e992f89887", null ]
+    [ "CalcPeriodic", "df/db5/a25336.html#a4c5793639ad7715b0dc52a803546e7cf", null ],
+    [ "CalculateSpiritAmount", "df/db5/a25336.html#a5749d91e27de05f67110178f57c214e4", null ],
+    [ "HandleEffectApply", "df/db5/a25336.html#a0de0ba95c09c87054d63974943750805", null ],
+    [ "HandlePeriodic", "df/db5/a25336.html#a2ff4241cf4535a6cb8361b9f54d7a23c", null ],
+    [ "PrepareAuraScript", "df/db5/a25336.html#aaa2c2fea4310cdba1739f02afa48a318", null ],
+    [ "Register", "df/db5/a25336.html#ae9df15062a8bd776e9a5a4a5a53fac8f", null ],
+    [ "amount", "df/db5/a25336.html#af07c7c4a2f6a4d59bee8d44b46be5552", null ]
 ];

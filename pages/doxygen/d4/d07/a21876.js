@@ -1,6 +1,8 @@
 var a21876 =
 [
-    [ "npc_bushwhackerAI", "de/d37/a21880.html", "de/d37/a21880" ],
-    [ "npc_bushwhacker", "d4/d07/a21876.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
-    [ "GetAI", "d4/d07/a21876.html#ab3190b66069e820abf3637bb877066a0", null ]
+    [ "AfterApply", "d4/d07/a21876.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
+    [ "AfterRemove", "d4/d07/a21876.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
+    [ "PrepareAuraScript", "d4/d07/a21876.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
+    [ "Register", "d4/d07/a21876.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
+    [ "Validate", "d4/d07/a21876.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
 ];

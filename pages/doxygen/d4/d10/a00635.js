@@ -1,11 +1,11 @@
 var a00635 =
 [
-    [ "npc_the_scourge_cauldron", "dd/dec/a14229.html", "dd/dec/a14229" ],
-    [ "npc_the_scourge_cauldron::npc_the_scourge_cauldronAI", "d1/db6/a14233.html", "d1/db6/a14233" ],
-    [ "npc_andorhal_tower", "da/d4a/a14237.html", "da/d4a/a14237" ],
-    [ "npc_andorhal_tower::npc_andorhal_towerAI", "db/db5/a14241.html", "db/db5/a14241" ],
-    [ "AndorhalTower", "d4/d10/a00635.html#a07061f0cf471fb1cb236b428c31965c8", [
-      [ "GO_BEACON_TORCH", "d4/d10/a00635.html#a07061f0cf471fb1cb236b428c31965c8ace3e47469a19c76e79a7ae1ca2b4f798", null ]
-    ] ],
-    [ "AddSC_western_plaguelands", "d4/d10/a00635.html#a978fbc9b0f23371fedcca17926c637cb", null ]
+    [ "CombatReference", "d8/d8a/a08208.html", "d8/d8a/a08208" ],
+    [ "PvPCombatReference", "da/d57/a08212.html", "da/d57/a08212" ],
+    [ "CombatManager", "d4/d29/a08216.html", "d4/d29/a08216" ],
+    [ "EvadeState", "d4/d10/a00635.html#a330a2d238c7c7b5390c40e53436d0d74", [
+      [ "EVADE_STATE_NONE", "d4/d10/a00635.html#a330a2d238c7c7b5390c40e53436d0d74a742a27c0e47bf6cbe51ea3d3485e1ee6", null ],
+      [ "EVADE_STATE_COMBAT", "d4/d10/a00635.html#a330a2d238c7c7b5390c40e53436d0d74ac6bc3b656f0875f408ad159de8e47dab", null ],
+      [ "EVADE_STATE_HOME", "d4/d10/a00635.html#a330a2d238c7c7b5390c40e53436d0d74a7179da8d8fc2a4fb8897c5febb10b6d8", null ]
+    ] ]
 ];

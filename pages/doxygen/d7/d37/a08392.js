@@ -1,10 +1,8 @@
 var a08392 =
 [
-    [ "auras", "d7/d37/a08392.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
-    [ "bytes1", "d7/d37/a08392.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
-    [ "bytes2", "d7/d37/a08392.html#aedf06568867bbb5db5ca8017727dab9d", null ],
-    [ "emote", "d7/d37/a08392.html#a82f7be10807af7b25dd41c643be066fc", null ],
-    [ "mount", "d7/d37/a08392.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
-    [ "path_id", "d7/d37/a08392.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
-    [ "visibilityDistanceType", "d7/d37/a08392.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
+    [ "TemporaryThreatModifierEvent", "d7/d37/a08392.html#afd58a1128ac6629d7541ba1bfd4ef886", null ],
+    [ "Execute", "d7/d37/a08392.html#a2bbd75ad5e293e78e4bffe880f371d1e", null ],
+    [ "m_owner", "d7/d37/a08392.html#ab786c99d73f0048a993ce7cee8c3b875", null ],
+    [ "m_threatValue", "d7/d37/a08392.html#aacb0f6e66d22a93ff074b4cbcf12b788", null ],
+    [ "m_threatVictimGUID", "d7/d37/a08392.html#aeae82bd80c9b8b08573c6e3baf359f55", null ]
 ];

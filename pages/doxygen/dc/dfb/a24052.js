@@ -1,8 +1,17 @@
 var a24052 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "dc/dfb/a24052.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "dc/dfb/a24052.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "dc/dfb/a24052.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "dc/dfb/a24052.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "dc/dfb/a24052.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "npc_torloth_the_magnificentAI", "dc/dfb/a24052.html#ad34b85c80ebfb2332709c7ee21c053b7", null ],
+    [ "HandleAnimation", "dc/dfb/a24052.html#ab69f481e3871e5ce803ab1f389a2385c", null ],
+    [ "JustDied", "dc/dfb/a24052.html#aef9d2bcc04b8c1a54bf59f4744eba3ae", null ],
+    [ "JustEngagedWith", "dc/dfb/a24052.html#abf3fc3538e82fceaa916d4e217d6f9fd", null ],
+    [ "Reset", "dc/dfb/a24052.html#aa7944f80bb6718a65a07128be830ed94", null ],
+    [ "UpdateAI", "dc/dfb/a24052.html#ad5f7769462aa39fabb7ec5e79670cda1", null ],
+    [ "AggroTargetGUID", "dc/dfb/a24052.html#a826ecad9e9a06050a3ebc0861bf52c1e", null ],
+    [ "AnimationCount", "dc/dfb/a24052.html#afbe712b9e3dfe97417e1e621f4eff113", null ],
+    [ "AnimationTimer", "dc/dfb/a24052.html#a2485ad15002946c0c5b2ebce65221629", null ],
+    [ "LordIllidanGUID", "dc/dfb/a24052.html#ad135529fe083af2ce3e79823213d2735", null ],
+    [ "SpellTimer1", "dc/dfb/a24052.html#a991868074e39e2a4d06c37afc642a756", null ],
+    [ "SpellTimer2", "dc/dfb/a24052.html#a7da30509a017de1392cc3ba181a0dc53", null ],
+    [ "SpellTimer3", "dc/dfb/a24052.html#a0caf2b2d48c78b2eb032ff73168e2556", null ],
+    [ "Timers", "dc/dfb/a24052.html#a0eb0c24aff4cdab76d234ba17dbc4b5b", null ]
 ];

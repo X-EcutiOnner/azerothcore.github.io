@@ -1,6 +1,6 @@
 var a14568 =
 [
-    [ "HandleAfterHit", "d0/da2/a14568.html#a4a3122d1b69baeae76f1ae3b6818bfb5", null ],
-    [ "PrepareSpellScript", "d0/da2/a14568.html#a284796ec70bdfaea9919f54da94f0021", null ],
-    [ "Register", "d0/da2/a14568.html#a30dcb608c20df17de9597ece1930d59d", null ]
+    [ "LaunchHit", "d0/da2/a14568.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
+    [ "PrepareSpellScript", "d0/da2/a14568.html#a4ad316b68d84921255577aedabb5ad3f", null ],
+    [ "Register", "d0/da2/a14568.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
 ];

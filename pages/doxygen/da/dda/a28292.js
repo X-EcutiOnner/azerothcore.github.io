@@ -1,9 +1,8 @@
 var a28292 =
 [
-    [ "npc_herald_of_the_lich_king", "da/dda/a28292.html#a62e373796ce4e6509692e6837cdb561f", null ],
-    [ "ChangeZoneEventStatus", "da/dda/a28292.html#a30c44f2f62badd27b105a55527d40670", null ],
-    [ "DoAction", "da/dda/a28292.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
-    [ "InitializeAI", "da/dda/a28292.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
-    [ "UpdateAI", "da/dda/a28292.html#a21a5093a46959f4b69777b63de12c557", null ],
-    [ "UpdateWeather", "da/dda/a28292.html#a3c6d076171596c9ce472cddda18a42be", null ]
+    [ "npc_elder_clearwaterAI", "d5/dfc/a28296.html", "d5/dfc/a28296" ],
+    [ "npc_elder_clearwater", "da/dda/a28292.html#abeee1650938a71762bb0c148ea9834d1", null ],
+    [ "GetAI", "da/dda/a28292.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
+    [ "OnGossipHello", "da/dda/a28292.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
+    [ "OnQuestReward", "da/dda/a28292.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
 ];

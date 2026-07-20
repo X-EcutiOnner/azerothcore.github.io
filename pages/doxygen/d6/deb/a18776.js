@@ -1,6 +1,9 @@
 var a18776 =
 [
-    [ "npc_blazing_skeletonAI", "db/dbc/a18780.html", "db/dbc/a18780" ],
-    [ "npc_blazing_skeleton", "d6/deb/a18776.html#a158720704479946048472ffe0beec492", null ],
-    [ "GetAI", "d6/deb/a18776.html#af29ea4620ebafaa4d47ec9f37758af77", null ]
+    [ "npc_spirit_wardenAI", "d6/deb/a18776.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "d6/deb/a18776.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "d6/deb/a18776.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "d6/deb/a18776.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "d6/deb/a18776.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "d6/deb/a18776.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

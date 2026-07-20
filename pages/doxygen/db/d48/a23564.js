@@ -1,6 +1,9 @@
 var a23564 =
 [
-    [ "HandleScriptEffect", "db/d48/a23564.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
-    [ "PrepareSpellScript", "db/d48/a23564.html#af475c0968aabaf56e8ca38950ad651f0", null ],
-    [ "Register", "db/d48/a23564.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
+    [ "boss_dalliah_the_doomsayer", "db/d48/a23564.html#ad6edf9623942297b28bc7420ec0cc733", null ],
+    [ "InitializeAI", "db/d48/a23564.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
+    [ "JustDied", "db/d48/a23564.html#a431edc9c25fb125d7d267073eb1c1423", null ],
+    [ "JustEngagedWith", "db/d48/a23564.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
+    [ "KilledUnit", "db/d48/a23564.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
+    [ "Reset", "db/d48/a23564.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
 ];

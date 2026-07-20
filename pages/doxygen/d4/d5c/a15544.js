@@ -1,7 +1,6 @@
 var a15544 =
 [
-    [ "npc_sartura_royal_guard", "d4/d5c/a15544.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
-    [ "JustEngagedWith", "d4/d5c/a15544.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
-    [ "Reset", "d4/d5c/a15544.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
-    [ "UpdateAI", "d4/d5c/a15544.html#a2ed50f65847133c897facecbaa4711d8", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d5/d10/a15548.html", "d5/d10/a15548" ],
+    [ "instance_ruins_of_ahnqiraj", "d4/d5c/a15544.html#adeacb1c68e4b12995a335d1bedde075a", null ],
+    [ "GetInstanceScript", "d4/d5c/a15544.html#a6a661e961c2599498de0ccd41c0763b4", null ]
 ];

@@ -1,8 +1,6 @@
 var a28068 =
 [
-    [ "npc_artoriusAI", "d5/dde/a28072.html", "d5/dde/a28072" ],
-    [ "npc_artorius", "dc/d7c/a28068.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
-    [ "GetAI", "dc/d7c/a28068.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
-    [ "OnGossipHello", "dc/d7c/a28068.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
-    [ "OnGossipSelect", "dc/d7c/a28068.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
+    [ "go_midsummer_musicAI", "dc/d7c/a28068.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
+    [ "UpdateAI", "dc/d7c/a28068.html#adf185ee702e9e74f65204b90786f9eb4", null ],
+    [ "_events", "dc/d7c/a28068.html#a31e45a754930cdc3206fe2b7f754d234", null ]
 ];

@@ -1,6 +1,6 @@
 var a04787 =
 [
-    [ "GetRandomBytes", "d2/df3/a04787.html#ab09d7cc2f8e11fc5fe6b2323d57b7184", null ],
-    [ "GetRandomBytes", "d2/df3/a04787.html#a797cfc74306f60b5c63eecb37a2061d3", null ],
-    [ "GetRandomBytes", "d2/df3/a04787.html#a2ff283a7b883696205a91f122b194f6f", null ]
+    [ "CONFIG_HIGH_PRIORITY", "d2/df3/a04787.html#a04727fe99a83f6b774ac1fb1b8468f3e", null ],
+    [ "CONFIG_PROCESSOR_AFFINITY", "d2/df3/a04787.html#a714853b6677573f2aa289978eee5b83f", null ],
+    [ "SetProcessPriority", "d2/df3/a04787.html#ac0ccc1e4fc992fb43f068cb8f6b3fd7b", null ]
 ];

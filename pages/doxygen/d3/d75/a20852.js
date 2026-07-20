@@ -1,6 +1,10 @@
 var a20852 =
 [
-    [ "CheckRequirement", "d3/d75/a20852.html#ad0a1865c8f534310ec2d4c8abc698761", null ],
-    [ "PrepareSpellScript", "d3/d75/a20852.html#a06e1b98a589717bdef6444912a7ad602", null ],
-    [ "Register", "d3/d75/a20852.html#a089a8055517acd9ddc31bf1bd16cbf17", null ]
+    [ "boss_yoggsaron_immortal_guardian", "d3/d75/a20852.html#a14839f96771d185718e88a4e371b31f6", null ],
+    [ "DamageTaken", "d3/d75/a20852.html#a9bf936d6a501e53ce98786f043562a71", null ],
+    [ "Reset", "d3/d75/a20852.html#a1173d401233670a45b31040b8e5d98cb", null ],
+    [ "SpellHit", "d3/d75/a20852.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
+    [ "UpdateAI", "d3/d75/a20852.html#adaae7e2cd52951095cb82819d9874426", null ],
+    [ "_spellTimer", "d3/d75/a20852.html#a521b956c116a23523fdfceb95a42c1e2", null ],
+    [ "_visualTimer", "d3/d75/a20852.html#acb9f5de4ad41ce56f7c6d05a19783517", null ]
 ];

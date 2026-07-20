@@ -1,13 +1,9 @@
 var a23896 =
 [
-    [ "npc_illidari_spawnAI", "d6/d90/a23896.html#a704c1d3e07d028b04e2bddee37039941", null ],
-    [ "JustDied", "d6/d90/a23896.html#a27277d90d4a58a89386a39f4affbaee8", null ],
-    [ "JustEngagedWith", "d6/d90/a23896.html#add4ea6366614e9fb86e85613bfb910ba", null ],
-    [ "Reset", "d6/d90/a23896.html#a5347858d5da4f0718479b1d702125366", null ],
-    [ "UpdateAI", "d6/d90/a23896.html#af392a545b3dccb7a7c89780d2818a7a7", null ],
-    [ "LordIllidanGUID", "d6/d90/a23896.html#a11b411dd0b5a32a7bdd0c44242a42372", null ],
-    [ "SpellTimer1", "d6/d90/a23896.html#afbf1b352275c0fd16fdf252eac9e0c4a", null ],
-    [ "SpellTimer2", "d6/d90/a23896.html#a644616bab96e1bd9bbe2500bf1b14988", null ],
-    [ "SpellTimer3", "d6/d90/a23896.html#a9889f9673292613dc46387862f3e8849", null ],
-    [ "Timers", "d6/d90/a23896.html#a1e48e4dea7bc1ba0f3d6be2f03b6813e", null ]
+    [ "npc_fel_guard_houndAI", "d6/d90/a23896.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "d6/d90/a23896.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "d6/d90/a23896.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "d6/d90/a23896.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "d6/d90/a23896.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "d6/d90/a23896.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

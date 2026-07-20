@@ -1,18 +1,7 @@
 var a16936 =
 [
-    [ "boss_icehowlAI", "d4/d05/a16936.html#a81fbfe9bb9d6186e36af2dd24c2dca5e", null ],
-    [ "AttackStart", "d4/d05/a16936.html#ab40b1bb5338fab72aa23f650925d5ed0", null ],
-    [ "DoTrampleIfValid", "d4/d05/a16936.html#ae3df64882f344dddc1480574d078e9a0", null ],
-    [ "EnterEvadeMode", "d4/d05/a16936.html#afeebf7a1039b3eed4b351e88751818b5", null ],
-    [ "JustDied", "d4/d05/a16936.html#ae29d8fc7d1ad3e57785c1c31ec73fa86", null ],
-    [ "JustEngagedWith", "d4/d05/a16936.html#aac8165285ec44942217e93ad25a3668b", null ],
-    [ "JustReachedHome", "d4/d05/a16936.html#a1034e0e9f5af03cd1d36aef4df724bc9", null ],
-    [ "MovementInform", "d4/d05/a16936.html#a664ac70b8bb380329aacdf11cfb53bf1", null ],
-    [ "UpdateAI", "d4/d05/a16936.html#a0972a2b86426f6d0efbde3d8b802a8f3", null ],
-    [ "destX", "d4/d05/a16936.html#ace7b1c523d1845eabe1806fbf75453aa", null ],
-    [ "destY", "d4/d05/a16936.html#aebb7d901669fe987e805e0dfcfe9993a", null ],
-    [ "destZ", "d4/d05/a16936.html#ab9f08e2f505368869063093f531f8794", null ],
-    [ "events", "d4/d05/a16936.html#a302879641400e0f0b329fd960256c9fb", null ],
-    [ "pInstance", "d4/d05/a16936.html#a4149dd25a04d661448255858e57387f4", null ],
-    [ "TargetGUID", "d4/d05/a16936.html#ac5068efd8a3b192e8302264039c30933", null ]
+    [ "npc_toc_dkAI", "d4/d05/a16936.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
+    [ "myCanCast", "d4/d05/a16936.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
+    [ "UpdateAI", "d4/d05/a16936.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
+    [ "events", "d4/d05/a16936.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
 ];

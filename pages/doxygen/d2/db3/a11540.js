@@ -1,12 +1,5 @@
 var a11540 =
 [
-    [ "OpcodeTable", "dc/d61/a05028.html#gacb286fdd22f1781abfb0d820b1f345aa", null ],
-    [ "OpcodeTable", "dc/d61/a05028.html#ga0d719536cf746ad04a8ecc4fcca4a869", null ],
-    [ "~OpcodeTable", "dc/d61/a05028.html#gac4e0724e0795156122c4fd8f07ade628", null ],
-    [ "Initialize", "dc/d61/a05028.html#gac64814869d378e5bb7fa18144693fac1", null ],
-    [ "operator=", "dc/d61/a05028.html#ga2153d4fe6b752cc2269cbfec7e8c3c84", null ],
-    [ "operator[]", "dc/d61/a05028.html#gaa2cde2ecf8628ce12487ec9ce8fa37d1", null ],
-    [ "ValidateAndSetClientOpcode", "dc/d61/a05028.html#ga95313e8e04ed3ab47f7104db9cf1db09", null ],
-    [ "ValidateAndSetServerOpcode", "dc/d61/a05028.html#ga42b9c6fd72c2f463ab5cb3fb562151b6", null ],
-    [ "_internalTableClient", "dc/d61/a05028.html#ga8c0d7f9f6248f9652fd8b8021b9a7677", null ]
+    [ "QuestLogFull", "d2/db3/a11540.html#ac268090c33720d1975c3538acfe0ce7f", null ],
+    [ "Write", "d2/db3/a11540.html#aab5d1b5ceb0e9fffd588d95d92640897", null ]
 ];

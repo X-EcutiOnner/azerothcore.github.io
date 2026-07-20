@@ -1,6 +1,6 @@
 var a14856 =
 [
-    [ "HandleAfterEffectApply", "d8/dba/a14856.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
-    [ "PrepareAuraScript", "d8/dba/a14856.html#a917379c33352721b5b76c1d9dac0c025", null ],
-    [ "Register", "d8/dba/a14856.html#a846d79564d76d6000c2276045775d7da", null ]
+    [ "HandleScript", "d8/dba/a14856.html#a4077b809530d28bed0a9419b5a745f42", null ],
+    [ "PrepareSpellScript", "d8/dba/a14856.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
+    [ "Register", "d8/dba/a14856.html#ac09b1c86655eef0febaccff86533b28f", null ]
 ];

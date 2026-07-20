@@ -1,10 +1,11 @@
 var a07828 =
 [
-    [ "ChannelRights", "d1/d63/a07828.html#a7fbfd84470bf1b4bf564eec0315f6c8d", null ],
-    [ "ChannelRights", "d1/d63/a07828.html#ac689ce079b171bbbdbc062ad7521f21c", null ],
-    [ "flags", "d1/d63/a07828.html#ad7fdc943a5a97c3c812108243192f6ae", null ],
-    [ "joinMessage", "d1/d63/a07828.html#af8797ef8c642f3a954b1581fb54ed545", null ],
-    [ "moderators", "d1/d63/a07828.html#ac80f92b9e633bf309970179b32e29cee", null ],
-    [ "speakDelay", "d1/d63/a07828.html#a9883582d36b8cc67ab5d649670441000", null ],
-    [ "speakMessage", "d1/d63/a07828.html#a4b7dc06e8839da5a6d50b5d4dae76c1b", null ]
+    [ "BattlegroundSAScore", "d1/d63/a07828.html#afb1312e304eee973740cfe208657c5b9", null ],
+    [ "BuildObjectivesBlock", "d1/d63/a07828.html#a57bf8241b404571cda5a8e113c334eab", null ],
+    [ "GetAttr1", "d1/d63/a07828.html#aa31cd91ede928c57cd201dba61f7f585", null ],
+    [ "GetAttr2", "d1/d63/a07828.html#aba47bb1ec440f405bfde8513c60ae576", null ],
+    [ "UpdateScore", "d1/d63/a07828.html#a169a2a0a51edb6564e98c4b55f3e8a3b", null ],
+    [ "BattlegroundSA", "d1/d63/a07828.html#ab31c13442be48941f5dab4214b95cde9", null ],
+    [ "DemolishersDestroyed", "d1/d63/a07828.html#ac49c28efa42cfad7232268de4be45e66", null ],
+    [ "GatesDestroyed", "d1/d63/a07828.html#aeb1310b64150dd51f91722574a9dd3fc", null ]
 ];

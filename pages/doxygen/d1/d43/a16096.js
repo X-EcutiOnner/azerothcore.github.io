@@ -1,6 +1,7 @@
 var a16096 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "d5/d86/a16100.html", "d5/d86/a16100" ],
-    [ "instance_zulfarrak", "d1/d43/a16096.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "d1/d43/a16096.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "npc_toogaAI", "d5/d86/a16100.html", "d5/d86/a16100" ],
+    [ "npc_tooga", "d1/d43/a16096.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "d1/d43/a16096.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "d1/d43/a16096.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
 ];

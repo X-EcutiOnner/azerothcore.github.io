@@ -1,6 +1,8 @@
 var a26496 =
 [
-    [ "FilterTargets", "d5/de2/a26496.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
-    [ "PrepareSpellScript", "d5/de2/a26496.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
-    [ "Register", "d5/de2/a26496.html#a4db02c58be57a797c26b07656d1b5409", null ]
+    [ "HandleApply", "d5/de2/a26496.html#aafdf3712f163919f010d11d0becb398f", null ],
+    [ "HandleRemove", "d5/de2/a26496.html#ac3e33cb37d13b633f3938a48917a4975", null ],
+    [ "PrepareAuraScript", "d5/de2/a26496.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
+    [ "Register", "d5/de2/a26496.html#a84e7337494dc2e1772ca10dea26c675f", null ],
+    [ "Validate", "d5/de2/a26496.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
 ];

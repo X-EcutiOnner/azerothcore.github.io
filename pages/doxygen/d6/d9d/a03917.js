@@ -1,7 +1,6 @@
 var a03917 =
 [
-    [ "WorldPackets::Calendar::GetEvent", "d1/d7c/a10901.html", "d1/d7c/a10901" ],
-    [ "WorldPackets::Calendar::GuildFilter", "d1/d23/a10905.html", "d1/d23/a10905" ],
-    [ "WorldPackets::Calendar::ArenaTeam", "d9/da7/a10909.html", "d9/da7/a10909" ],
-    [ "WorldPackets::Calendar::CalendarComplain", "d4/df5/a10913.html", "d4/df5/a10913" ]
+    [ "fireworkShowGameobjectIronforge", "d6/d9d/a03917.html#a1c510ef56353251fbd84e641155e90f8", null ],
+    [ "fireworkShowIronforge", "d6/d9d/a03917.html#aac2063b01976ab49960c5cde832a70dc", null ],
+    [ "fireworkShowScheduleIronforge", "d6/d9d/a03917.html#ac473aa81696d6b6374a3062efff6b146", null ]
 ];

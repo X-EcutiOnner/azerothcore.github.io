@@ -1,9 +1,11 @@
 var a18436 =
 [
-    [ "ShadowTrapLKTargetSelector", "d1/d11/a18436.html#a33561775948e07ac6ade2037f237441d", null ],
-    [ "operator()", "d1/d11/a18436.html#a3770329509c6ab2f16ae369ea8d72645", null ],
-    [ "_maxDist", "d1/d11/a18436.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
-    [ "_playerOnly", "d1/d11/a18436.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
-    [ "_reqLOS", "d1/d11/a18436.html#a7911be23196f59d55028affc3be23c20", null ],
-    [ "_source", "d1/d11/a18436.html#af416013aabf3b217b07228072076603d", null ]
+    [ "npc_ice_tombAI", "d1/d11/a18436.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
+    [ "DamageTaken", "d1/d11/a18436.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
+    [ "JustDied", "d1/d11/a18436.html#a237f27260aaa9176d81b67b11d063660", null ],
+    [ "SetGUID", "d1/d11/a18436.html#ac406bece1d1f1517b5837e311feef9ae", null ],
+    [ "UpdateAI", "d1/d11/a18436.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
+    [ "_asphyxiationTimer", "d1/d11/a18436.html#a6790d9c852279624a549f60bf26e1eb2", null ],
+    [ "_existenceCheckTimer", "d1/d11/a18436.html#ab3dbf40235549be89e42951d93593ea2", null ],
+    [ "_trappedPlayerGUID", "d1/d11/a18436.html#a8a7666594e59bdac449f2284387b8e2c", null ]
 ];

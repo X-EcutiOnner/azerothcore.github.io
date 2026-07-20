@@ -1,5 +1,14 @@
 var a28364 =
 [
-    [ "go_transport_the_thundercaller", "d9/db6/a28364.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
-    [ "EventInform", "d9/db6/a28364.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
+    [ "npc_garments_of_questsAI", "d9/db6/a28364.html#a079f719ca488ed6fde2783b5db4f328b", null ],
+    [ "JustEngagedWith", "d9/db6/a28364.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
+    [ "Reset", "d9/db6/a28364.html#aaaaa3e41deae0057bd659be5c579d226", null ],
+    [ "SpellHit", "d9/db6/a28364.html#ad22195dba70ced744b319bc1ad83c083", null ],
+    [ "UpdateAI", "d9/db6/a28364.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
+    [ "WaypointReached", "d9/db6/a28364.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
+    [ "WaypointReached", "d9/db6/a28364.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "CanRun", "d9/db6/a28364.html#a93c41781e4cb037b56773bbbf36181b7", null ],
+    [ "CasterGUID", "d9/db6/a28364.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
+    [ "IsHealed", "d9/db6/a28364.html#a96db66704eabf028362d5f8b5c424712", null ],
+    [ "RunAwayTimer", "d9/db6/a28364.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
 ];

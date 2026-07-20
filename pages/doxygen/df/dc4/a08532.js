@@ -1,23 +1,12 @@
 var a08532 =
 [
-    [ "Bag", "df/dc4/a08532.html#ae0593c22c7dd8b32cab469af92fb200c", null ],
-    [ "~Bag", "df/dc4/a08532.html#aac5b94be9c36a9fca542bca3e32260c1", null ],
-    [ "AddToWorld", "df/dc4/a08532.html#a1660f8f1c97cfbb512b1835946e05ea4", null ],
-    [ "BuildCreateUpdateBlockForPlayer", "df/dc4/a08532.html#a680840268e86a6974c2d89d8bd17d338", null ],
-    [ "Create", "df/dc4/a08532.html#a644dbcae3484ba9065f0081457d5084f", null ],
-    [ "DeleteFromDB", "df/dc4/a08532.html#ac1f55a19c69604914ab2f7576d3be016", null ],
-    [ "GetBagSize", "df/dc4/a08532.html#a0888242c34d30adde36a583c7352a339", null ],
-    [ "GetDebugInfo", "df/dc4/a08532.html#a88bd93c16e7b35f299b8b013835d646e", null ],
-    [ "GetFreeSlots", "df/dc4/a08532.html#ad5f4da5a3bc645d29c15651190a41d5e", null ],
-    [ "GetItemByPos", "df/dc4/a08532.html#a80149f0d19426c9f8502713bce59af7e", null ],
-    [ "GetItemCount", "df/dc4/a08532.html#ab4967fad85ab0291fef6bda19a0e7a67", null ],
-    [ "GetItemCountWithLimitCategory", "df/dc4/a08532.html#ae6e6f304dbac50eb9ee6a0628c7cb391", null ],
-    [ "GetSlotByItemGUID", "df/dc4/a08532.html#ad8c47ab6e44c8dd8713d4af4b07a5df4", null ],
-    [ "IsEmpty", "df/dc4/a08532.html#a37797a614a3504571c15047fc9df131d", null ],
-    [ "LoadFromDB", "df/dc4/a08532.html#ae34ce4a4d974410aca8880ee0db1cf18", null ],
-    [ "RemoveFromWorld", "df/dc4/a08532.html#a2cf52acefeda5787376ae93d4679d6e9", null ],
-    [ "RemoveItem", "df/dc4/a08532.html#abc8317240a86c65cc2e7152681e9a5e1", null ],
-    [ "SaveToDB", "df/dc4/a08532.html#a3e7264c06a4249594fbf23d43707f635", null ],
-    [ "StoreItem", "df/dc4/a08532.html#a1765d07e4de76b9b1cf6eccb125143a1", null ],
-    [ "m_bagslot", "df/dc4/a08532.html#ad2fdcedba1dec947bfddfcd55a4d92a0", null ]
+    [ "GameObjectModelOwnerImpl", "df/dc4/a08532.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
+    [ "DebugVisualizeCorner", "df/dc4/a08532.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
+    [ "GetDisplayId", "df/dc4/a08532.html#a4a694456955c19e76d8c84befc02c920", null ],
+    [ "GetOrientation", "df/dc4/a08532.html#acb968e3bd921aac111a2e06f2604b040", null ],
+    [ "GetPhaseMask", "df/dc4/a08532.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
+    [ "GetPosition", "df/dc4/a08532.html#a9ba2b29d30b38895effe97637e050988", null ],
+    [ "GetScale", "df/dc4/a08532.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
+    [ "IsSpawned", "df/dc4/a08532.html#ae47eb25d16de37122042402443db6f3d", null ],
+    [ "_owner", "df/dc4/a08532.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
 ];

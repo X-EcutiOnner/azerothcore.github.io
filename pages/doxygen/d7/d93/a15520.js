@@ -1,6 +1,12 @@
 var a15520 =
 [
-    [ "OnRemove", "d7/d93/a15520.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
-    [ "PrepareAuraScript", "d7/d93/a15520.html#a47849d8241ed17ad0fb541c1178b0760", null ],
-    [ "Register", "d7/d93/a15520.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
+    [ "npc_anubisath_guardian", "d7/d93/a15520.html#a7db1771f9083e14c177e37d7bf6690c5", null ],
+    [ "DamageTaken", "d7/d93/a15520.html#a2b7f307b5af7c50c86a68c4834f08ed4", null ],
+    [ "JustDied", "d7/d93/a15520.html#a9f40c43ded16ad5934a5d5499f16ca76", null ],
+    [ "JustEngagedWith", "d7/d93/a15520.html#a16d1e70f0ca0fcef972ac45f82e885e6", null ],
+    [ "Reset", "d7/d93/a15520.html#af87cc86141964c48f9c57ed5bade36a5", null ],
+    [ "UpdateAI", "d7/d93/a15520.html#a9a9c805c92a3e8e96914d01accb01051", null ],
+    [ "_enraged", "d7/d93/a15520.html#a69b3b2cee4c84cd6dccd3465b555ad12", null ],
+    [ "_scheduler", "d7/d93/a15520.html#ad44455c43d53426a152547d5b0770bbe", null ],
+    [ "_spells", "d7/d93/a15520.html#aee75f952ed14f5f6fab1f5117f6b8b9e", null ]
 ];

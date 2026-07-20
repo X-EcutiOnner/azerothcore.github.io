@@ -1,5 +1,5 @@
 var a08068 =
 [
-    [ "IsColorValid", "dd/db6/a08068.html#a6fca3f0ea620fbef8ed532ddb26875a0", null ],
-    [ "IsTextValid", "dd/db6/a08068.html#aef8ebbb11dc11311ba7152732a1ace58", null ]
+    [ "value_type", "dd/db6/a08068.html#a72f92e01d1f385cf8d6ba7c31faa77e2", null ],
+    [ "TryConsume", "dd/db6/a08068.html#a7320475f165952ef8ebf69407b533248", null ]
 ];

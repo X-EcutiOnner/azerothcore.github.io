@@ -1,6 +1,7 @@
 var a20984 =
 [
-    [ "CanBeAppliedOn", "d1/d1b/a20984.html#ad92126f58e8ac8c83449725bc29fda8b", null ],
-    [ "PrepareAuraScript", "d1/d1b/a20984.html#aaa7631a3d8a5476da6e051de90f34ee4", null ],
-    [ "Register", "d1/d1b/a20984.html#a9a3e0c1a86cfc1b9747810cfca76f784", null ]
+    [ "HandleEffectPeriodic", "d1/d1b/a20984.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
+    [ "PrepareAuraScript", "d1/d1b/a20984.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
+    [ "Register", "d1/d1b/a20984.html#a74052d7da1523b3c4010465510e5fe04", null ],
+    [ "Validate", "d1/d1b/a20984.html#a587a469c649877f80e8fe80062e8b5d4", null ]
 ];

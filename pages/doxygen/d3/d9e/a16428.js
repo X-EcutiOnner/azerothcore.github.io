@@ -1,13 +1,7 @@
 var a16428 =
 [
-    [ "boss_twilight_halionAI", "d3/d9e/a16428.html#aab05bab963d603c3cb70edfd62a84b49", null ],
-    [ "DamageTaken", "d3/d9e/a16428.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
-    [ "EnterEvadeMode", "d3/d9e/a16428.html#af7076251fc1fad1dc259d747934910e2", null ],
-    [ "JustDied", "d3/d9e/a16428.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
-    [ "JustEngagedWith", "d3/d9e/a16428.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
-    [ "KilledUnit", "d3/d9e/a16428.html#ada770d51f63c841c500ffc3197a7a89f", null ],
-    [ "Reset", "d3/d9e/a16428.html#a9c945841926d5b08f37c6a720dd25a14", null ],
-    [ "UpdateAI", "d3/d9e/a16428.html#a6ab1d215ed077883781b0c0188282c5e", null ],
-    [ "_events", "d3/d9e/a16428.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
-    [ "_instance", "d3/d9e/a16428.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
+    [ "HandleScriptEffect", "d3/d9e/a16428.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
+    [ "PrepareSpellScript", "d3/d9e/a16428.html#a392c40d469c3c1e816d5dc364fde824c", null ],
+    [ "Register", "d3/d9e/a16428.html#aa59c26b25ca0f440de36e450adf050a5", null ],
+    [ "Validate", "d3/d9e/a16428.html#a370f83112d901f9565734b11d12858f4", null ]
 ];

@@ -1,7 +1,8 @@
 var a11232 =
 [
-    [ "BuybackItem", "d6/d9a/a11232.html#a05dec559746537669fcf32f52a171b44", null ],
-    [ "Read", "d6/d9a/a11232.html#aefe27701674c75f8937f72ee418a6692", null ],
-    [ "Slot", "d6/d9a/a11232.html#ac4faf4646da9a9fe7c1567527ca28a27", null ],
-    [ "VendorGuid", "d6/d9a/a11232.html#a6be9d8d3f564621780e458c4a785b709", null ]
+    [ "SetRaidDifficulty", "d6/d9a/a11232.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
+    [ "Write", "d6/d9a/a11232.html#a3da812593b22ef506a9d61e16b5485d1", null ],
+    [ "Difficulty", "d6/d9a/a11232.html#a1952e2d54b77437731b693f4eace83ac", null ],
+    [ "IsInGroup", "d6/d9a/a11232.html#a8833543c4f179be97476a26152ec049b", null ],
+    [ "Unk", "d6/d9a/a11232.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
 ];

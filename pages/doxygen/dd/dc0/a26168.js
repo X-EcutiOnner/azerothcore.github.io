@@ -1,7 +1,7 @@
 var a26168 =
 [
-    [ "CalculateAmount", "dd/dc0/a26168.html#a0934aa8eaf442314aa6050d85304c15b", null ],
-    [ "CalculateSpellAmount", "dd/dc0/a26168.html#ab765b87350bd3e73ac43879abef72d98", null ],
-    [ "PrepareAuraScript", "dd/dc0/a26168.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
-    [ "Register", "dd/dc0/a26168.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
+    [ "HandlePeriodicDummy", "dd/dc0/a26168.html#ac8ca6a69b47cb2316b93e1953e233f8f", null ],
+    [ "PrepareAuraScript", "dd/dc0/a26168.html#a1c85329bcafd6c327d1862feabc1eed0", null ],
+    [ "Register", "dd/dc0/a26168.html#a0c43d96bf2e59fd67790f327cf14d71e", null ],
+    [ "Validate", "dd/dc0/a26168.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5", null ]
 ];

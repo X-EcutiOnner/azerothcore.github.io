@@ -1,6 +1,5 @@
 var a28532 =
 [
-    [ "npc_pet_trainerAI", "de/d77/a28536.html", "de/d77/a28536" ],
-    [ "npc_pet_trainer", "dd/d4e/a28532.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "dd/d4e/a28532.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_sunwell_gate", "dd/d4e/a28532.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "dd/d4e/a28532.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
 ];

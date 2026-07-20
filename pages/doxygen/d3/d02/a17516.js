@@ -1,6 +1,7 @@
 var a17516 =
 [
-    [ "StandUpEvent", "d3/d02/a17516.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
-    [ "Execute", "d3/d02/a17516.html#a56bc1071300ff8f81e62839685e8f53a", null ],
-    [ "_owner", "d3/d02/a17516.html#a456a494140657d81b203834f7b88d5d1", null ]
+    [ "HandleEffectPeriodic", "d3/d02/a17516.html#a4802c810efd7dd8a9954845366398e7f", null ],
+    [ "PrepareAuraScript", "d3/d02/a17516.html#a008166d25e7a278507e953325f40ccd5", null ],
+    [ "Register", "d3/d02/a17516.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
+    [ "Validate", "d3/d02/a17516.html#a3fc78060f881262c59151b6eb6a943f8", null ]
 ];

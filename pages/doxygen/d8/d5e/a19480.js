@@ -1,5 +1,6 @@
 var a19480 =
 [
-    [ "npc_living_poison", "d8/d5e/a19480.html#a277440068846eac71c795880a16475dd", null ],
-    [ "UpdateAI", "d8/d5e/a19480.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
+    [ "WebTargetSelector", "d8/d5e/a19480.html#a2f19cffab18fd6f2f5a1d296aa1db47d", null ],
+    [ "operator()", "d8/d5e/a19480.html#a289821eaae114ba384a9ee9b8c19325f", null ],
+    [ "_maexxna", "d8/d5e/a19480.html#ad21c9ac380f7b97aacc06f08f1c45974", null ]
 ];

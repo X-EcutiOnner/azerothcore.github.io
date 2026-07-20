@@ -1,8 +1,7 @@
 var a27440 =
 [
-    [ "CalculateBuffer", "d0/de2/a27440.html#a3fa1917fc77575531e485cd0228bcc00", null ],
-    [ "HandleProc", "d0/de2/a27440.html#a35edcf5f57dee1bbb63321cd67b200db", null ],
-    [ "PrepareAuraScript", "d0/de2/a27440.html#a325ad66cd69a15260e274562250c8e32", null ],
-    [ "Register", "d0/de2/a27440.html#a2d107c9db0b3b1859cb284b741a77ef8", null ],
-    [ "Validate", "d0/de2/a27440.html#ae7de3e43a47e6b35d0dead23ac51325e", null ]
+    [ "HandleProc", "d0/de2/a27440.html#a4ea5706e6f0caa7a9c93b779bb71349f", null ],
+    [ "PrepareAuraScript", "d0/de2/a27440.html#af83570899be1f91a1273cc5f46792b57", null ],
+    [ "Register", "d0/de2/a27440.html#a1406e9a52a4e24a71fd26192abc64c73", null ],
+    [ "Validate", "d0/de2/a27440.html#ab6528e1c69cbf7fdb8bb7e792908d02a", null ]
 ];

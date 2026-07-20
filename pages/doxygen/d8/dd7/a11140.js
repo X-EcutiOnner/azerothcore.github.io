@@ -1,6 +1,8 @@
 var a11140 =
 [
-    [ "GuildBankTextQuery", "d8/dd7/a11140.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
-    [ "Read", "d8/dd7/a11140.html#af20bd5c8e58b891028613625fb14807d", null ],
-    [ "Tab", "d8/dd7/a11140.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
+    [ "GuildBankQueryTab", "d8/dd7/a11140.html#a29fc27016b597f051898db7bb30214c8", null ],
+    [ "Read", "d8/dd7/a11140.html#ab4e17c592b05ce041f5f52f2bc711d41", null ],
+    [ "Banker", "d8/dd7/a11140.html#af21ec3aa4cf912fd5b82e6ae16459e06", null ],
+    [ "FullUpdate", "d8/dd7/a11140.html#a4f9758c10f7c7294dffaa01b8e0b723f", null ],
+    [ "Tab", "d8/dd7/a11140.html#a949488c1696f92cb0a081cf28bffb48f", null ]
 ];

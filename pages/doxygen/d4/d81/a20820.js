@@ -1,9 +1,18 @@
 var a20820 =
 [
-    [ "npc_ulduar_keeperAI", "d4/d81/a20820.html#ac69d21f3820f2c01a80ff664c317d111", null ],
-    [ "DoAction", "d4/d81/a20820.html#a03011d04761926d67e43c0bea5a0901f", null ],
-    [ "Reset", "d4/d81/a20820.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
-    [ "SpellHit", "d4/d81/a20820.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
-    [ "UpdateAI", "d4/d81/a20820.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
-    [ "_keeper", "d4/d81/a20820.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
+    [ "boss_yoggsaron_brain", "d4/d81/a20820.html#a36521541acc73c7cb67d88dfd7cfe2ab", null ],
+    [ "DamageTaken", "d4/d81/a20820.html#ae6447e894e75f49c61876450f2cdc7ff", null ],
+    [ "DoAction", "d4/d81/a20820.html#aff1761f23cd984cc5db31026f84b4218", null ],
+    [ "GetData", "d4/d81/a20820.html#a30593cbb193bf868f99d54279e04d39e", null ],
+    [ "JustSummoned", "d4/d81/a20820.html#a5b1aa2863bcec9dff0f87a6d4154daf6", null ],
+    [ "PrepareChamberIllusion", "d4/d81/a20820.html#ad162b38c8b4d638c6f3f6c673b6554d4", null ],
+    [ "PrepareIceCrownIllusion", "d4/d81/a20820.html#adf41fc4e1adda0e969e06f490fe59414", null ],
+    [ "PrepareStormwindIllusion", "d4/d81/a20820.html#a193b18ba9aa03583659002c6a339c0c7", null ],
+    [ "Reset", "d4/d81/a20820.html#a9d75d3a6e7d89d8d1c4e472b8fe82161", null ],
+    [ "UpdateAI", "d4/d81/a20820.html#a7146ec81c014dd9c19a18ccf0fe30d87", null ],
+    [ "_activeIllusion", "d4/d81/a20820.html#aebc5e80be39aea6be68b9b1e78ec770f", null ],
+    [ "_brainDamaged", "d4/d81/a20820.html#a9b8045951ba23deda3db3f9bfcee0754", null ],
+    [ "_induceTimer", "d4/d81/a20820.html#a3c0d87cf1dc824321aa02034f800f14b", null ],
+    [ "_tentacleCount", "d4/d81/a20820.html#a58a8dcda9f7f41f061af4cb6b26657fd", null ],
+    [ "summons", "d4/d81/a20820.html#ae51cea57d22cfac38efdddde1bed15f9", null ]
 ];

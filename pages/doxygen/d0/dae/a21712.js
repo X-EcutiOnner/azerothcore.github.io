@@ -1,8 +1,6 @@
 var a21712 =
 [
-    [ "CheckCast", "d0/dae/a21712.html#a49e425fa95e5107f38aa16e546674b7d", null ],
-    [ "HandleScript", "d0/dae/a21712.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
-    [ "PrepareSpellScript", "d0/dae/a21712.html#a9e7a1239e165131b70c437793b5371d0", null ],
-    [ "Register", "d0/dae/a21712.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
-    [ "Validate", "d0/dae/a21712.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
+    [ "npc_spiritual_insightAI", "d0/dae/a21712.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "d0/dae/a21712.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "d0/dae/a21712.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

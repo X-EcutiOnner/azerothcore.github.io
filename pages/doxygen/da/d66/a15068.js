@@ -1,10 +1,6 @@
 var a15068 =
 [
-    [ "npc_hyjal_gargoyle", "da/d66/a15068.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
-    [ "AttackStart", "da/d66/a15068.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
-    [ "DoAction", "da/d66/a15068.html#ae213c71426f438dd2b27699d7de23664", null ],
-    [ "JustEngagedWith", "da/d66/a15068.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
-    [ "PathEndReached", "da/d66/a15068.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
-    [ "Reset", "da/d66/a15068.html#af314bb183bde44680eeb136d2a08c142", null ],
-    [ "UpdateAI", "da/d66/a15068.html#ac1ca0648b08430a8bcbf99980222b684", null ]
+    [ "HandleScriptEffect", "da/d66/a15068.html#a2acaaf3716237f147429cb07779ae49e", null ],
+    [ "PrepareSpellScript", "da/d66/a15068.html#a55df717ede47b17a32ae33ecd64617cd", null ],
+    [ "Register", "da/d66/a15068.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
 ];

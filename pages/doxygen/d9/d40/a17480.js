@@ -1,12 +1,13 @@
 var a17480 =
 [
-    [ "boss_moorabiAI", "d9/d40/a17480.html#a60a03c3840a3743719996929d2ca9e59", null ],
-    [ "EnterEvadeMode", "d9/d40/a17480.html#a7b77a6da820e9b3be80c94a37fe07db4", null ],
-    [ "JustDied", "d9/d40/a17480.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
-    [ "JustEngagedWith", "d9/d40/a17480.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
-    [ "KilledUnit", "d9/d40/a17480.html#a265855d2972e534e927bfa609fbf2cf5", null ],
-    [ "Reset", "d9/d40/a17480.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
-    [ "SpellHitTarget", "d9/d40/a17480.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
-    [ "UpdateAI", "d9/d40/a17480.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
-    [ "events2", "d9/d40/a17480.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
+    [ "npc_pos_martin_or_gorkun_secondAI", "d9/d40/a17480.html#a2b8f5479565297c95ecdc4882e7d27ae", null ],
+    [ "DoAction", "d9/d40/a17480.html#aa1df5c0f5612a9fc9a4e78fb901dc8e7", null ],
+    [ "JustSummoned", "d9/d40/a17480.html#acdfc5d370da977ab69752016368cc9b0", null ],
+    [ "MovementInform", "d9/d40/a17480.html#a95c033e4e2ca224be09ce993f4e7996d", null ],
+    [ "SummonedCreatureDespawn", "d9/d40/a17480.html#af31de5c7f901baf4d8c62964fee8ead8", null ],
+    [ "UpdateAI", "d9/d40/a17480.html#ad22fbcd52404c1e9c1fc71f3bc6b7525", null ],
+    [ "events", "d9/d40/a17480.html#a44045ae5151625a4d7aacb69e9c934e5", null ],
+    [ "i", "d9/d40/a17480.html#aa185914ee8a2352e4d233f1fc4800390", null ],
+    [ "pInstance", "d9/d40/a17480.html#ac38febd0bce9338346d0c1aa6ba50de3", null ],
+    [ "summons", "d9/d40/a17480.html#ad0f2097f168ea5983e3eece24cb82bfa", null ]
 ];

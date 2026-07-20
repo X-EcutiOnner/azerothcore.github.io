@@ -1,7 +1,7 @@
 var a11792 =
 [
-    [ "ap_bonus", "d8/dae/a11792.html#a98410b8bb89434cd7e1747462f8039dc", null ],
-    [ "ap_dot_bonus", "d8/dae/a11792.html#a09caeec47b138d9eff3539795416a09a", null ],
-    [ "direct_damage", "d8/dae/a11792.html#abab1af227a6c8e592b8a9bd15589535d", null ],
-    [ "dot_damage", "d8/dae/a11792.html#a92491d8d1e61612d88c7c830d7912be5", null ]
+    [ "DynObjAura", "d8/dae/a11792.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
+    [ "FillTargetMap", "d8/dae/a11792.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
+    [ "Remove", "d8/dae/a11792.html#ada3f65b4a817e2337da43da437b93a3b", null ],
+    [ "Aura::Create", "d8/dae/a11792.html#ae2c0fdfb409846fec5e861de60797112", null ]
 ];

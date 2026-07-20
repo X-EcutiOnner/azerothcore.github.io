@@ -1,5 +1,7 @@
 var a13656 =
 [
-    [ "go_eredar_twins_blaze", "d3/ddf/a13656.html#a19d28875d3506d337e0ecbd93169f140", null ],
-    [ "InitializeAI", "d3/ddf/a13656.html#a8769ad96e4c4a2396cf4c294d8d982eb", null ]
+    [ "OnPeriodic", "d3/ddf/a13656.html#ab193b7cf8a8fe91879317e7d21522976", null ],
+    [ "PrepareAuraScript", "d3/ddf/a13656.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
+    [ "Register", "d3/ddf/a13656.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
+    [ "Validate", "d3/ddf/a13656.html#a290b864756ceff85d52ba3f974a28217", null ]
 ];

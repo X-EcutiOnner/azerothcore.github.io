@@ -1,7 +1,8 @@
 var a09840 =
 [
-    [ "RaidCheck", "d3/dd2/a09840.html#ad8c3717b9a645c7806c8c027a8d90ef5", null ],
-    [ "operator()", "d3/dd2/a09840.html#a0c076b737e8e1eacb9aab0981ff66f51", null ],
-    [ "_compare", "d3/dd2/a09840.html#a5fffdd5901fb03c5e9a9adfb58e3d759", null ],
-    [ "_equals", "d3/dd2/a09840.html#a7d253c94403bd50012722a9a9b113c3a", null ]
+    [ "MostHPMissingGroupInRange", "d3/dd2/a09840.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
+    [ "operator()", "d3/dd2/a09840.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
+    [ "i_hp", "d3/dd2/a09840.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
+    [ "i_obj", "d3/dd2/a09840.html#ae0d85f9738301b40c3e950b02ee20026", null ],
+    [ "i_range", "d3/dd2/a09840.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
 ];

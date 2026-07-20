@@ -1,9 +1,12 @@
 var a04088 =
 [
-    [ "FlyByCameraCollection", "db/d38/a04088.html#a058e5fb250bd785cecc9a6913132dfe4", null ],
-    [ "GetFlyByCameras", "db/d38/a04088.html#af4a9ba9da1a2f4075cc36b95cce62f6f", null ],
-    [ "LoadM2Cameras", "db/d38/a04088.html#a036ca5e535b8e25b87a67c20c2ad2d4c", null ],
-    [ "readCamera", "db/d38/a04088.html#ad7c17022a3ffed42c9d4995f5f6bb7ac", null ],
-    [ "TranslateLocation", "db/d38/a04088.html#a5274eb8fcc7646fe4fc3ea77ab6de2d9", null ],
-    [ "sFlyByCameraStore", "db/d38/a04088.html#a4acfeb7e23e1d3a74b66a1c54084e7bc", null ]
+    [ "boss_grizzle", "d5/d81/a12660.html", "d5/d81/a12660" ],
+    [ "Grizzle", "db/d38/a04088.html#acfff5d4b983e4db1d5efb6bd5da7e7aa", [
+      [ "SPELL_GROUNDTREMOR", "db/d38/a04088.html#acfff5d4b983e4db1d5efb6bd5da7e7aaa4426ae7fabf4ddb0d8355b0049b5a6bb", null ],
+      [ "SPELL_FRENZY", "db/d38/a04088.html#acfff5d4b983e4db1d5efb6bd5da7e7aaab54f261ba282273bed875abe6642a293", null ],
+      [ "EMOTE_FRENZY_KILL", "db/d38/a04088.html#acfff5d4b983e4db1d5efb6bd5da7e7aaaebdb26e3a90dde560c1c4f7fd5615f63", null ]
+    ] ],
+    [ "AddSC_boss_grizzle", "db/d38/a04088.html#adb6c19fe584b9ecd11ab67084570a0be", null ],
+    [ "TIMER_FRENZY", "db/d38/a04088.html#a57b77ddbaec70c1bfcf7f1ccbf0715a1", null ],
+    [ "TIMER_GROUNDTREMOR", "db/d38/a04088.html#abc54daa3a30dab6dcbd53b460e55a15a", null ]
 ];

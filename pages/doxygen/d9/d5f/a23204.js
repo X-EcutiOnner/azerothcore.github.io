@@ -1,5 +1,6 @@
 var a23204 =
 [
-    [ "go_broggok_lever", "d9/d5f/a23204.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
-    [ "OnGossipHello", "d9/d5f/a23204.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
+    [ "boss_rokmar_the_crackler", "d9/d5f/a23204.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "d9/d5f/a23204.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "d9/d5f/a23204.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

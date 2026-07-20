@@ -1,9 +1,8 @@
 var a15756 =
 [
-    [ "npc_prospector_remtravelAI", "d8/d50/a15756.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
-    [ "JustEngagedWith", "d8/d50/a15756.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
-    [ "JustSummoned", "d8/d50/a15756.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
-    [ "Reset", "d8/d50/a15756.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
-    [ "WaypointReached", "d8/d50/a15756.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ],
-    [ "WaypointReached", "d8/d50/a15756.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_obsidian_nullifier", "d8/d50/a15756.html#a9dbb6d681e348057564750fcd7e8050a", null ],
+    [ "JustEngagedWith", "d8/d50/a15756.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
+    [ "Reset", "d8/d50/a15756.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
+    [ "UpdateAI", "d8/d50/a15756.html#a37cf1d335dd3735b262e82828c4f904a", null ],
+    [ "_targetGUIDs", "d8/d50/a15756.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
 ];

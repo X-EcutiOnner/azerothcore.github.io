@@ -1,28 +1,7 @@
 var a08716 =
 [
-    [ "JumpInfo", "d3/dc5/a08724.html", "d3/dc5/a08724" ],
-    [ "TransportInfo", "db/d44/a08720.html", "db/d44/a08720" ],
-    [ "MovementInfo", "d8/dc0/a08716.html#a809340998de55a9ffa895f7b27e1f2c3", null ],
-    [ "AddExtraMovementFlag", "d8/dc0/a08716.html#aff0e449eb1567041f1a44c34e5fa85bc", null ],
-    [ "AddMovementFlag", "d8/dc0/a08716.html#ae02908de40bf25e5d07d3bb248448a68", null ],
-    [ "GetExtraMovementFlags", "d8/dc0/a08716.html#a7a9353ff367c80cddeaddd63fcd32ddb", null ],
-    [ "GetMovementFlags", "d8/dc0/a08716.html#ade08354701baa32b9ff232d6b07e6097", null ],
-    [ "GetSpeedType", "d8/dc0/a08716.html#a6f0c8141058d03f214afbd779a3420ee", null ],
-    [ "GetSpeedType", "d8/dc0/a08716.html#a01585307a3db62a34f7d2e243dd52265", null ],
-    [ "HasExtraMovementFlag", "d8/dc0/a08716.html#afad84c80474a806e8abb4626ccfbcfaf", null ],
-    [ "HasMovementFlag", "d8/dc0/a08716.html#ad9571cb899d58cc60fbe2412be79116e", null ],
-    [ "OutDebug", "d8/dc0/a08716.html#af8c4c6db42364ec712398b317238c90b", null ],
-    [ "RemoveMovementFlag", "d8/dc0/a08716.html#ab38114c14a8848a082b4f265eab11c72", null ],
-    [ "SetFallTime", "d8/dc0/a08716.html#a683565ad0865709083e81d07a8ce1395", null ],
-    [ "SetMovementFlags", "d8/dc0/a08716.html#ace324e7171c3520efdce76d2bbc75c67", null ],
-    [ "fallTime", "d8/dc0/a08716.html#abcf42fcf7d61044fd9fb5e6857e21ab5", null ],
-    [ "flags", "d8/dc0/a08716.html#ab64213c21ac3cdfd769a5acdc7fce200", null ],
-    [ "flags2", "d8/dc0/a08716.html#aa8dc40a9829334f2ca7fa4e7347f91a5", null ],
-    [ "guid", "d8/dc0/a08716.html#a10c1c9721558fd98d33bb43b3bfff837", null ],
-    [ "jump", "d8/dc0/a08716.html#a920a536b873fcc63dd6bb22882a7a8ea", null ],
-    [ "pitch", "d8/dc0/a08716.html#af2945943a91efc4cd5f2f9a0b86424cf", null ],
-    [ "pos", "d8/dc0/a08716.html#afc5605f3e357e6ca4f2c681329bb0302", null ],
-    [ "splineElevation", "d8/dc0/a08716.html#ac524b47fa52b05e7c6a6b7c577c9291f", null ],
-    [ "time", "d8/dc0/a08716.html#a90c332cb1b99ce1ac6eab39bc2a6e4b2", null ],
-    [ "transport", "d8/dc0/a08716.html#ac2b0f738ec695f4c9f032daad3e1f041", null ]
+    [ "EnchStoreItem", "d8/dc0/a08716.html#a89019e156774c5b978251479264e5463", null ],
+    [ "EnchStoreItem", "d8/dc0/a08716.html#aca83bb20eb6153faeaf599b07b97e357", null ],
+    [ "chance", "d8/dc0/a08716.html#a2d3d0cd28c79402b3625694d4676ed8b", null ],
+    [ "ench", "d8/dc0/a08716.html#ac2346b6c6c5c09bb63676d72c798d848", null ]
 ];

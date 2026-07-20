@@ -1,7 +1,5 @@
 var a04679 =
 [
-    [ "EnumText", "d7/d3b/a05841.html", "d7/d3b/a05841" ],
-    [ "Acore::Impl::EnumUtilsImpl::EnumUtils< Enum >", "dd/d98/a05845.html", "dd/d98/a05845" ],
-    [ "EnumUtils", "d1/d9d/a05849.html", "d1/d9d/a05849" ],
-    [ "EnumUtils::Iterator< Enum >", "dd/d6b/a05853.html", "dd/d6b/a05853" ]
+    [ "getOutOfWater", "de/d69/a04679.html#a92646d631d9334b64b0b487ebf87d769", null ],
+    [ "getWeight", "de/d69/a04679.html#a44526122378fe7ee8622f1ffc822dc20", null ]
 ];

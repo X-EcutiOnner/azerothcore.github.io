@@ -1,8 +1,5 @@
 var a28136 =
 [
-    [ "npc_target_dummy", "d2/d64/a28136.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
-    [ "DamageTaken", "d2/d64/a28136.html#ae137fc2935f306807128850e9761253e", null ],
-    [ "Reset", "d2/d64/a28136.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
-    [ "UpdateAI", "d2/d64/a28136.html#a32e9e139a54375b336c112deee3687cd", null ],
-    [ "_deathTimer", "d2/d64/a28136.html#a304b79f8ec2afda669b43d2e248d026a", null ]
+    [ "go_dragonflayer_cage", "d2/d64/a28136.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "d2/d64/a28136.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

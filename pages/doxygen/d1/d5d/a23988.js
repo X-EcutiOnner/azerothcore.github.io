@@ -1,13 +1,7 @@
 var a23988 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d1/d5d/a23988.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
-    [ "DamageTaken", "d1/d5d/a23988.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
-    [ "HasQuestActive", "d1/d5d/a23988.html#ad97ea6721dcea4058167ea327dc0c515", null ],
-    [ "JustEngagedWith", "d1/d5d/a23988.html#a537225016bfeba51b607d250c0a09be5", null ],
-    [ "Reset", "d1/d5d/a23988.html#a14ca75417c623d6d6e5fce50521963da", null ],
-    [ "Submit", "d1/d5d/a23988.html#a26872858bfb4aeda1b4af445033995db", null ],
-    [ "UpdateAI", "d1/d5d/a23988.html#a744ea41d7f9450965419085a296c8df2", null ],
-    [ "PulverizeTimer", "d1/d5d/a23988.html#a43324c095d4f98b97b39b5eb86c4c783", null ],
-    [ "Submitted", "d1/d5d/a23988.html#a47777bb2dd47764c9cb01dc3f3e25f39", null ],
-    [ "UnfriendlyTimer", "d1/d5d/a23988.html#a21559a315c812b50b74fc22dc32a2930", null ]
+    [ "HandleScriptEffect", "d1/d5d/a23988.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "d1/d5d/a23988.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "d1/d5d/a23988.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "d1/d5d/a23988.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

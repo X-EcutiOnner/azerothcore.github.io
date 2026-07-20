@@ -1,12 +1,19 @@
 var a19236 =
 [
-    [ "boss_faerlinaAI", "d8/d26/a19236.html#a3a97178599b9053c23a079ed1a2ed163", null ],
-    [ "JustDied", "d8/d26/a19236.html#a7ac2e510568a9dad710beaad42db0544", null ],
-    [ "JustEngagedWith", "d8/d26/a19236.html#a830dfa4fed62b4588ea8866174d3653a", null ],
-    [ "KilledUnit", "d8/d26/a19236.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
-    [ "MoveInLineOfSight", "d8/d26/a19236.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
-    [ "Reset", "d8/d26/a19236.html#acee81492b9b751df587a3a2cdd691ab3", null ],
-    [ "SpellHit", "d8/d26/a19236.html#aa4fac163e31dcd9353238f993259d5ec", null ],
-    [ "SummonHelpers", "d8/d26/a19236.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
-    [ "_introDone", "d8/d26/a19236.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
+    [ "npc_icc_gauntlet_controllerAI", "d8/d26/a19236.html#adbbf6f95a44678d914726fa52486228f", null ],
+    [ "DoAction", "d8/d26/a19236.html#adaa7997c59f72f7823f232a6f455a0af", null ],
+    [ "JustDied", "d8/d26/a19236.html#a00540cf0e82728e9df7c9c467bbe85b7", null ],
+    [ "JustReachedHome", "d8/d26/a19236.html#afd30d6da8e6fc0e8a44876ea0a30f8ec", null ],
+    [ "JustSummoned", "d8/d26/a19236.html#a1cba9c05581011ab431f163ffa1b05a7", null ],
+    [ "Reset", "d8/d26/a19236.html#a055c417bea83de7a4ca61f304d89bb2f", null ],
+    [ "ScheduleBroodlings", "d8/d26/a19236.html#a528438f30ae06119b09c69319e7c534a", null ],
+    [ "SpidersMoveDown", "d8/d26/a19236.html#a8c92d94464461c36c97d435e8738323b", null ],
+    [ "SummonBroodling", "d8/d26/a19236.html#a625cce7142666144af0d6f1e81f56979", null ],
+    [ "SummonedCreatureDies", "d8/d26/a19236.html#aad2d9e8a269c62231b4d6bc907350a30", null ],
+    [ "SummonFrostwardens", "d8/d26/a19236.html#a6f07ad3f631570b720ef5ecc91e80bf2", null ],
+    [ "SummonSpiders", "d8/d26/a19236.html#afa30ecef9c1c29b55d6f9d4752396354", null ],
+    [ "UpdateAI", "d8/d26/a19236.html#a141faa27c651b9d1512c6b5861f511d9", null ],
+    [ "events", "d8/d26/a19236.html#a5f883ab0efea055ebb07e118ab857378", null ],
+    [ "instance", "d8/d26/a19236.html#ac13065009325babb60746630518cfc3b", null ],
+    [ "summons", "d8/d26/a19236.html#ad2203400007c842b181ab62ba710cc69", null ]
 ];

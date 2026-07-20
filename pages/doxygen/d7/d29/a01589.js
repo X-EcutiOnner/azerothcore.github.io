@@ -1,5 +1,5 @@
 var a01589 =
 [
-    [ "arena_commandscript", "d3/d99/a12301.html", "d3/d99/a12301" ],
-    [ "AddSC_arena_commandscript", "d7/d29/a01589.html#aa94d37f012ac02e97a1021713b7dbeeb", null ]
+    [ "GetLowLevelsMinPlayersOverride", "d7/d29/a01589.html#a37cb97319fde2ce5eaaef583591063a9", null ],
+    [ "GetMinPlayersPerTeam", "d7/d29/a01589.html#ab22bdb52b0357434faced9df19db9d81", null ]
 ];

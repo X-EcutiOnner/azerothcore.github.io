@@ -1,6 +1,7 @@
 var a16944 =
 [
-    [ "boss_eydisAI", "d5/d72/a16948.html", "d5/d72/a16948" ],
-    [ "boss_eydis", "d6/dca/a16944.html#aa555f80882499bc4627e622fbb48b2a4", null ],
-    [ "GetAI", "d6/dca/a16944.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
+    [ "npc_toc_rogueAI", "d6/dca/a16944.html#a34027e7d10edbfba8e046f4785e37899", null ],
+    [ "myCanCast", "d6/dca/a16944.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
+    [ "UpdateAI", "d6/dca/a16944.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
+    [ "events", "d6/dca/a16944.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
 ];

@@ -1,7 +1,5 @@
 var a29096 =
 [
-    [ "TalentSpellPos", "d0/d0f/a29096.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
-    [ "TalentSpellPos", "d0/d0f/a29096.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
-    [ "rank", "d0/d0f/a29096.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
-    [ "talent_id", "d0/d0f/a29096.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
+    [ "id", "d0/d0f/a29096.html#a22e48015dd880199e131089e35b1ce05", null ],
+    [ "spellId", "d0/d0f/a29096.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
 ];

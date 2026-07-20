@@ -1,6 +1,5 @@
 var a20256 =
 [
-    [ "FilterTargets", "d7/df8/a20256.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
-    [ "PrepareSpellScript", "d7/df8/a20256.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
-    [ "Register", "d7/df8/a20256.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
+    [ "boss_freya_iron_root", "d7/df8/a20256.html#af35a268c89c025d95c13ea8c87d6516e", null ],
+    [ "JustDied", "d7/df8/a20256.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ]
 ];

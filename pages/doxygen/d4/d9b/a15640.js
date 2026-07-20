@@ -1,8 +1,6 @@
 var a15640 =
 [
-    [ "npc_ahnqiraji_critter", "d4/d9b/a15640.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "d4/d9b/a15640.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "d4/d9b/a15640.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "d4/d9b/a15640.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "d4/d9b/a15640.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "OnRemove", "d4/d9b/a15640.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
+    [ "PrepareAuraScript", "d4/d9b/a15640.html#a47849d8241ed17ad0fb541c1178b0760", null ],
+    [ "Register", "d4/d9b/a15640.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
 ];

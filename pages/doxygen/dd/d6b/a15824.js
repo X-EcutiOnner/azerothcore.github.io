@@ -1,8 +1,8 @@
 var a15824 =
 [
-    [ "CheckRequirement", "dd/d6b/a15824.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "dd/d6b/a15824.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "dd/d6b/a15824.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "dd/d6b/a15824.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "dd/d6b/a15824.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_death_ravagerAI", "dd/d6b/a15824.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "dd/d6b/a15824.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "dd/d6b/a15824.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "dd/d6b/a15824.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "dd/d6b/a15824.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

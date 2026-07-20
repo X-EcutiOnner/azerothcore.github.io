@@ -1,7 +1,5 @@
 var a14900 =
 [
-    [ "GetVisualThrow", "d4/dd6/a14900.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "d4/dd6/a14900.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "d4/dd6/a14900.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "d4/dd6/a14900.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "go_loosely_turned_soilAI", "d4/dd6/a14900.html#a603641bc52d26521d64afaaeed3abc4d", null ],
+    [ "CanBeSeen", "d4/dd6/a14900.html#a424b51b08d17ceb04b015cd535256889", null ]
 ];

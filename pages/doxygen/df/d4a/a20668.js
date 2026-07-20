@@ -1,18 +1,8 @@
 var a20668 =
 [
-    [ "boss_yoggsaron_brain", "df/d4a/a20668.html#a36521541acc73c7cb67d88dfd7cfe2ab", null ],
-    [ "DamageTaken", "df/d4a/a20668.html#ae6447e894e75f49c61876450f2cdc7ff", null ],
-    [ "DoAction", "df/d4a/a20668.html#aff1761f23cd984cc5db31026f84b4218", null ],
-    [ "GetData", "df/d4a/a20668.html#a30593cbb193bf868f99d54279e04d39e", null ],
-    [ "JustSummoned", "df/d4a/a20668.html#a5b1aa2863bcec9dff0f87a6d4154daf6", null ],
-    [ "PrepareChamberIllusion", "df/d4a/a20668.html#ad162b38c8b4d638c6f3f6c673b6554d4", null ],
-    [ "PrepareIceCrownIllusion", "df/d4a/a20668.html#adf41fc4e1adda0e969e06f490fe59414", null ],
-    [ "PrepareStormwindIllusion", "df/d4a/a20668.html#a193b18ba9aa03583659002c6a339c0c7", null ],
-    [ "Reset", "df/d4a/a20668.html#a9d75d3a6e7d89d8d1c4e472b8fe82161", null ],
-    [ "UpdateAI", "df/d4a/a20668.html#a7146ec81c014dd9c19a18ccf0fe30d87", null ],
-    [ "_activeIllusion", "df/d4a/a20668.html#aebc5e80be39aea6be68b9b1e78ec770f", null ],
-    [ "_brainDamaged", "df/d4a/a20668.html#a9b8045951ba23deda3db3f9bfcee0754", null ],
-    [ "_induceTimer", "df/d4a/a20668.html#a3c0d87cf1dc824321aa02034f800f14b", null ],
-    [ "_tentacleCount", "df/d4a/a20668.html#a58a8dcda9f7f41f061af4cb6b26657fd", null ],
-    [ "summons", "df/d4a/a20668.html#ae51cea57d22cfac38efdddde1bed15f9", null ]
+    [ "boss_thorim_pillar", "df/d4a/a20668.html#aec2fc6e420499c9ce991753b912bef1e", null ],
+    [ "Reset", "df/d4a/a20668.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
+    [ "SpellHit", "df/d4a/a20668.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
+    [ "UpdateAI", "df/d4a/a20668.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
+    [ "_resetTimer", "df/d4a/a20668.html#ac9c8ef8622496593b5f91611d22120b3", null ]
 ];

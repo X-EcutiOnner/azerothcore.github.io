@@ -1,12 +1,11 @@
 var a30120 =
 [
-    [ "CalendarFilterType", "d5/d96/a30120.html#a082b59a0ead8223e590cbb371f3ad122", null ],
-    [ "CalendarFlags", "d5/d96/a30120.html#a6f9cf483200ac982bab7a66ff8bef33d", null ],
-    [ "Date", "d5/d96/a30120.html#ac5b08b086ef0668508ea9da48642e95b", null ],
-    [ "Duration", "d5/d96/a30120.html#a10cae1b1fbb91930209a714c545b129b", null ],
-    [ "Id", "d5/d96/a30120.html#a1119824959b87fb312209a998a5869b1", null ],
-    [ "Looping", "d5/d96/a30120.html#afa2d93998650f88e62bfa76807961274", null ],
-    [ "Priority", "d5/d96/a30120.html#a6d82bc7a66d227f61c3be2260a3d03f5", null ],
-    [ "Region", "d5/d96/a30120.html#a96a8e5ceae0f4b0d8cc6cf3aa59802a0", null ],
-    [ "TextureFilename", "d5/d96/a30120.html#a2209ecbb78f1f467491506cc97df57e4", null ]
+    [ "material", "d5/d96/a30120.html#a7079e8817a9684602084eb224f2540fc", null ],
+    [ "pos_x", "d5/d96/a30120.html#ac4d971cc46506be14716124afbb5ad9c", null ],
+    [ "pos_y", "d5/d96/a30120.html#a6cd85f2a674d732e88371ffce5e46077", null ],
+    [ "pos_z", "d5/d96/a30120.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
+    [ "xtiles", "d5/d96/a30120.html#aca34dfa64624cfe04c314c13bbed0062", null ],
+    [ "xverts", "d5/d96/a30120.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
+    [ "ytiles", "d5/d96/a30120.html#a9901a7e9828ac840bc290b0768831d66", null ],
+    [ "yverts", "d5/d96/a30120.html#abf24042b85692cd0df05d65d734dd99e", null ]
 ];

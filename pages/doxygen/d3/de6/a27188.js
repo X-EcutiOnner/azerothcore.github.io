@@ -1,6 +1,8 @@
 var a27188 =
 [
-    [ "HandleKnockBack", "d3/de6/a27188.html#abad9f9293260a3e99be98b43aabb321b", null ],
-    [ "PrepareSpellScript", "d3/de6/a27188.html#a65787b78165631898458264e6ee310f4", null ],
-    [ "Register", "d3/de6/a27188.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
+    [ "AfterApply", "d3/de6/a27188.html#a3299de0703ca1e14760e9f33b124ac44", null ],
+    [ "PeriodicTick", "d3/de6/a27188.html#a34f2fd8d142083705101f8265297c20e", null ],
+    [ "PrepareAuraScript", "d3/de6/a27188.html#a79c80876d5788a20a9f686548b70fd64", null ],
+    [ "Register", "d3/de6/a27188.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
+    [ "Validate", "d3/de6/a27188.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
 ];

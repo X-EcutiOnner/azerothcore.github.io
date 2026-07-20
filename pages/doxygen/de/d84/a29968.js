@@ -1,10 +1,13 @@
 var a29968 =
 [
-    [ "maxSimplificationError", "de/d84/a29968.html#a010878a247d639234d2bb8571280aca6", null ],
-    [ "vertexPerMapEdge", "de/d84/a29968.html#af620af11a09215f106fc6704c88fa411", null ],
-    [ "vertexPerTileEdge", "de/d84/a29968.html#a5a801e68fac6d59c1a236aeaf374bc9e", null ],
-    [ "walkableClimb", "de/d84/a29968.html#aa5f6c5daf51b6390b7146f9a8d6de7ec", null ],
-    [ "walkableHeight", "de/d84/a29968.html#a42b9a553cb3cd5d9c39d4cb7f0f59486", null ],
-    [ "walkableRadius", "de/d84/a29968.html#a43f00aacc5e1497c169d4ba908883140", null ],
-    [ "walkableSlopeAngle", "de/d84/a29968.html#a9792dfe730bfc437797a359896a14528", null ]
+    [ "MPQArchive", "de/d84/a29968.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "de/d84/a29968.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "MPQArchive", "de/d84/a29968.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "de/d84/a29968.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "close", "de/d84/a29968.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "close", "de/d84/a29968.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "GetFileListTo", "de/d84/a29968.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "GetFileListTo", "de/d84/a29968.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "isOpened", "de/d84/a29968.html#a2026335b9ede29197acfaac8513456d5", null ],
+    [ "mpq_a", "de/d84/a29968.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
 ];

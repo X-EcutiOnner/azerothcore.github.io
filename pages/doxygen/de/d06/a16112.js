@@ -1,6 +1,8 @@
 var a16112 =
 [
-    [ "npc_sergeant_blyAI", "dd/db6/a16116.html", "dd/db6/a16116" ],
-    [ "npc_sergeant_bly", "de/d06/a16112.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
-    [ "GetAI", "de/d06/a16112.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
+    [ "npc_giltharesAI", "de/d06/a16112.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "de/d06/a16112.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "de/d06/a16112.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "de/d06/a16112.html#a9308c73760e50e0f3d04031b508526d1", null ],
+    [ "WaypointReached", "de/d06/a16112.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

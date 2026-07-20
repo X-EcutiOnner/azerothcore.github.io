@@ -1,9 +1,6 @@
 var a29976 =
 [
-    [ "MapTiles", "de/d76/a29976.html#abc58d7154eab45ae26df27e2e82dac63", null ],
-    [ "MapTiles", "de/d76/a29976.html#a406efc53593b5bceb0a491c0b7553350", null ],
-    [ "~MapTiles", "de/d76/a29976.html#aec1baac21c06380ba71ff5e610152519", null ],
-    [ "operator==", "de/d76/a29976.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
-    [ "m_mapId", "de/d76/a29976.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
-    [ "m_tiles", "de/d76/a29976.html#ab80305bb73234e35a528701d775954b5", null ]
+    [ "id", "de/d76/a29976.html#a5acc1b246a76073e1c97513251a4143d", null ],
+    [ "id", "de/d76/a29976.html#aaf844f570afdf7439ae7fbe0bbdc39e7", null ],
+    [ "name", "de/d76/a29976.html#ae5d1244981224aed1b7477caedd70175", null ]
 ];

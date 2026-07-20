@@ -1,12 +1,19 @@
 var a21160 =
 [
-    [ "boss_zuramat", "d0/df9/a21160.html#af033b96498fb71059701caad1fed8f8a", null ],
-    [ "EnterEvadeMode", "d0/df9/a21160.html#a0d7ca9fe585e0dc87118c61ddc0dac84", null ],
-    [ "ExecuteEvent", "d0/df9/a21160.html#a350f06b88af5444a0d4086434ddbe6f4", null ],
-    [ "JustDied", "d0/df9/a21160.html#a1917921efc7a44c3cc3a799187c1718a", null ],
-    [ "JustEngagedWith", "d0/df9/a21160.html#a4c448c8b51795943a6e746479f3ad121", null ],
-    [ "JustSummoned", "d0/df9/a21160.html#a76c2de51333f57db6612effb92d07bd1", null ],
-    [ "KilledUnit", "d0/df9/a21160.html#ae3f00d76928cbd6adf7882f4cccc0518", null ],
-    [ "MoveInLineOfSight", "d0/df9/a21160.html#a6d46d73baf2c0b3c1706d9163564797f", null ],
-    [ "SummonedCreatureDespawn", "d0/df9/a21160.html#afc8869687e9a6050cfee2c674ef7e7f1", null ]
+    [ "boss_svalaAI", "d0/df9/a21160.html#a568466d621043157958bea38595d42a8", null ],
+    [ "EnterEvadeMode", "d0/df9/a21160.html#a7808767e79ebe4c5ac784ff7a32874f6", null ],
+    [ "JustDied", "d0/df9/a21160.html#aa85b0d305074d0df887fbb7ba42a3b20", null ],
+    [ "JustEngagedWith", "d0/df9/a21160.html#ae36faacbbd22ddde8d8f25540e583c14", null ],
+    [ "JustSummoned", "d0/df9/a21160.html#ad4bf163bf81dee06bead6f9a8aaa2a3a", null ],
+    [ "KilledUnit", "d0/df9/a21160.html#a440053a21489b6e4691fc4a6e5984908", null ],
+    [ "Reset", "d0/df9/a21160.html#a9c6fca6d70c7c53048b137b7d8cc0861", null ],
+    [ "SetData", "d0/df9/a21160.html#a86f376743055f99c066ad1a7c960b6c7", null ],
+    [ "UpdateAI", "d0/df9/a21160.html#a47b7405bd2fd6789f61172cbacd12fa0", null ],
+    [ "ArthasGUID", "d0/df9/a21160.html#a42e1753c8a66cc292799c890b9177a3e", null ],
+    [ "events", "d0/df9/a21160.html#abe87bb56b844c75dd9b24a4d45c94e7f", null ],
+    [ "events2", "d0/df9/a21160.html#a542d2bc22970ee5835b2e15322dc2e58", null ],
+    [ "instance", "d0/df9/a21160.html#a58f451d373d8336d5b8b38e33a1eeea8", null ],
+    [ "lastBrazierGUID", "d0/df9/a21160.html#a934b1049b0a26574213379b994c9f42d", null ],
+    [ "Started", "d0/df9/a21160.html#a5d4b4c94062db7601fdc918f9727e03b", null ],
+    [ "summons", "d0/df9/a21160.html#a3d14b708a8156a6c9025ff92aa3774c4", null ]
 ];

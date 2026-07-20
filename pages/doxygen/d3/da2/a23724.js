@@ -1,9 +1,6 @@
 var a23724 =
 [
-    [ "npc_fel_guard_houndAI", "d3/da2/a23724.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
-    [ "MovementInform", "d3/da2/a23724.html#a127a0d7b61fde64c0ced52192f438f12", null ],
-    [ "Reset", "d3/da2/a23724.html#ab979c3602897b1148ffd5d4a81941197", null ],
-    [ "UpdateAI", "d3/da2/a23724.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
-    [ "checkTimer", "d3/da2/a23724.html#ad22bb6efafb4396cd0137c1384240029", null ],
-    [ "helboarGUID", "d3/da2/a23724.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
+    [ "HandleScriptEffect", "d3/da2/a23724.html#a724e857ad8604ef4546c8823bb7bd632", null ],
+    [ "PrepareSpellScript", "d3/da2/a23724.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
+    [ "Register", "d3/da2/a23724.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
 ];

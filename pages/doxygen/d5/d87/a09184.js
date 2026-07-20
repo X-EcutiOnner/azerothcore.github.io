@@ -1,9 +1,11 @@
 var a09184 =
 [
-    [ "day", "d5/d87/a09184.html#a50a70dfa2fdb407101edf051eeacbad6", null ],
-    [ "holidayId", "d5/d87/a09184.html#a2105d2c9d4b2867650f0a3b67b035416", null ],
-    [ "month", "d5/d87/a09184.html#a55e1cf64111db7eeeec72c594b76c56d", null ],
-    [ "offset", "d5/d87/a09184.html#aaa9bf14668239ea561aecc33104e245a", null ],
-    [ "type", "d5/d87/a09184.html#a25f2529332f23c93b37e5c918032eb3d", null ],
-    [ "weekday", "d5/d87/a09184.html#ac431dcdf2d64ae5e31d72971d208ef5b", null ]
+    [ "VehicleSeatAddon", "d5/d87/a09184.html#a307b278917998116156e41f9189a582c", null ],
+    [ "VehicleSeatAddon", "d5/d87/a09184.html#adaec12df869a9ffc81174f5ef1f65606", null ],
+    [ "ExitParameter", "d5/d87/a09184.html#afbb8de193522f1182efff50064e5f83d", null ],
+    [ "ExitParameterO", "d5/d87/a09184.html#a06e385ea5cf0441721432925251a5a63", null ],
+    [ "ExitParameterX", "d5/d87/a09184.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
+    [ "ExitParameterY", "d5/d87/a09184.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
+    [ "ExitParameterZ", "d5/d87/a09184.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
+    [ "SeatOrientationOffset", "d5/d87/a09184.html#a374c73b40f6e6dad103b172d1829a31d", null ]
 ];

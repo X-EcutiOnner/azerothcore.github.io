@@ -1,6 +1,8 @@
 var a05316 =
 [
-    [ "Read", "d8/df6/a05316.html#a652bcf37d435efc3fb82f4d8cbf00e51", null ],
-    [ "groupsArray", "d8/df6/a05316.html#a79b2d93c2929aaddac1004aed4ecdd85", null ],
-    [ "RootWMOID", "d8/df6/a05316.html#a6b9058e7062c970438c79f08103c3c61", null ]
+    [ "LocationInfoCallback", "d8/df6/a05316.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
+    [ "operator()", "d8/df6/a05316.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb", null ],
+    [ "locInfo", "d8/df6/a05316.html#a9a8b8529a571b3652cd898b2888d8027", null ],
+    [ "prims", "d8/df6/a05316.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
+    [ "result", "d8/df6/a05316.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
 ];

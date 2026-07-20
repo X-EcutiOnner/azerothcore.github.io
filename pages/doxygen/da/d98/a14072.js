@@ -1,11 +1,10 @@
 var a14072 =
 [
-    [ "npc_highborne_lamenterAI", "da/d98/a14072.html#ad91cd657166a12d3c34adcf7b11d076f", null ],
-    [ "JustEngagedWith", "da/d98/a14072.html#a77a978fdb0ba0de506f66ec0b2906229", null ],
-    [ "Reset", "da/d98/a14072.html#a7cf9338767e8edf0a87a5552703de87a", null ],
-    [ "UpdateAI", "da/d98/a14072.html#a1048c558b825b58dbc7a3d97869a3e88", null ],
-    [ "EventCast", "da/d98/a14072.html#a02ed3216c8b71e3d2be695866dbc0089", null ],
-    [ "EventCastTimer", "da/d98/a14072.html#afc490ae2382fd7097b3877c7f9eadf6b", null ],
-    [ "EventMove", "da/d98/a14072.html#aca22c73db989f0393926067506794e43", null ],
-    [ "EventMoveTimer", "da/d98/a14072.html#a36d1993262eb0a7200e2bec625f5b4d1", null ]
+    [ "npc_sentinel_leader", "da/d98/a14072.html#a583c43b047dd5c172938d60ef647ecd5", null ],
+    [ "JustEngagedWith", "da/d98/a14072.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
+    [ "MovementInform", "da/d98/a14072.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
+    [ "Reset", "da/d98/a14072.html#ad638ba6ce33753af6a0165c053a90d78", null ],
+    [ "UpdateAI", "da/d98/a14072.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
+    [ "_events", "da/d98/a14072.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
+    [ "_helpCalled", "da/d98/a14072.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
 ];

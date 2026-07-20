@@ -1,10 +1,9 @@
 var a08684 =
 [
-    [ "SpellCategory", "d6/d46/a08684.html#ad170ffceb499879a4b0d638e9c922703", null ],
-    [ "SpellCategoryCooldown", "d6/d46/a08684.html#a8a33274d71b410f24f110e9a5921ff18", null ],
-    [ "SpellCharges", "d6/d46/a08684.html#a16909465a3a20dbab6e3ca2e3c807f17", null ],
-    [ "SpellCooldown", "d6/d46/a08684.html#a8ef7106595ed25ce23ca2163258d769a", null ],
-    [ "SpellId", "d6/d46/a08684.html#af6973a8a9a258a87a916bcd431c33d8d", null ],
-    [ "SpellPPMRate", "d6/d46/a08684.html#a5b208a667802e4c3766619c96d267287", null ],
-    [ "SpellTrigger", "d6/d46/a08684.html#a39657ff9e561a3c86a671f7b3c78ef98", null ]
+    [ "artKits", "d6/d46/a08684.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
+    [ "entry", "d6/d46/a08684.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
+    [ "faction", "d6/d46/a08684.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
+    [ "flags", "d6/d46/a08684.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
+    [ "maxgold", "d6/d46/a08684.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
+    [ "mingold", "d6/d46/a08684.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
 ];

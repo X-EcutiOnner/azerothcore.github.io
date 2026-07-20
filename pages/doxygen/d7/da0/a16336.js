@@ -1,10 +1,8 @@
 var a16336 =
 [
-    [ "HandleDummy", "d7/da0/a16336.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
-    [ "HandleSchoolDamage", "d7/da0/a16336.html#a8372b7d176c94689b1b7fe99add7812e", null ],
-    [ "Load", "d7/da0/a16336.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
-    [ "PrepareSpellScript", "d7/da0/a16336.html#a3fd71e2a93f99f19443640a2147b1663", null ],
-    [ "Register", "d7/da0/a16336.html#a8278d362a4354ccf81665ce0067c9a06", null ],
-    [ "Validate", "d7/da0/a16336.html#a414b1e1396910b87a671305ce9dcab09", null ],
-    [ "_spawned", "d7/da0/a16336.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
+    [ "instance_ahnkahet_InstanceScript", "d7/da0/a16336.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
+    [ "IsAllSpheresActivated", "d7/da0/a16336.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
+    [ "OnGameObjectCreate", "d7/da0/a16336.html#ad00fdc90a61e1c927323daa2149f8466", null ],
+    [ "SetData", "d7/da0/a16336.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
+    [ "taldaramPlatform_GUID", "d7/da0/a16336.html#a840ce69595c384be321c1167513d151e", null ]
 ];

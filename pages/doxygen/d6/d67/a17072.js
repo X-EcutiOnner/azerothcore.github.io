@@ -1,6 +1,6 @@
 var a17072 =
 [
-    [ "HandleScriptEffect", "d6/d67/a17072.html#a90b13b2a093fdd430a383d7ea4126290", null ],
-    [ "PrepareSpellScript", "d6/d67/a17072.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
-    [ "Register", "d6/d67/a17072.html#a53c8d47ee21637055ad901946be1e2c2", null ]
+    [ "boss_fjolaAI", "d5/d29/a17076.html", "d5/d29/a17076" ],
+    [ "boss_fjola", "d6/d67/a17072.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f", null ],
+    [ "GetAI", "d6/d67/a17072.html#a96d9ea0716199758b60ad933ade28de4", null ]
 ];

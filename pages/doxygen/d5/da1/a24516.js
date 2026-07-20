@@ -1,6 +1,7 @@
 var a24516 =
 [
-    [ "OnHit", "d5/da1/a24516.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
-    [ "PrepareSpellScript", "d5/da1/a24516.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
-    [ "Register", "d5/da1/a24516.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
+    [ "HandleProc", "d5/da1/a24516.html#a8503eadfd6d636659e66bda9bfd36d00", null ],
+    [ "PrepareAuraScript", "d5/da1/a24516.html#a9571ec1951d45eaf4e1a2e1e7851aaa6", null ],
+    [ "Register", "d5/da1/a24516.html#a73879765519b238791577db82561b548", null ],
+    [ "Validate", "d5/da1/a24516.html#abcdd9441cfc3922b70e3a4f1ece01efd", null ]
 ];

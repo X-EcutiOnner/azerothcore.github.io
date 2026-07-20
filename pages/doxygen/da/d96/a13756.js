@@ -1,6 +1,7 @@
 var a13756 =
 [
-    [ "FilterTargets", "da/d96/a13756.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
-    [ "PrepareSpellScript", "da/d96/a13756.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
-    [ "Register", "da/d96/a13756.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
+    [ "CheckCast", "da/d96/a13756.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "da/d96/a13756.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "da/d96/a13756.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "da/d96/a13756.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

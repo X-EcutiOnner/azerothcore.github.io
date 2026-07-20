@@ -1,7 +1,6 @@
 var a18720 =
 [
-    [ "AuraRemoveEvent", "d0/d28/a18720.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "d0/d28/a18720.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "d0/d28/a18720.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "d0/d28/a18720.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "HandleScript", "d0/d28/a18720.html#a9489c3454830d3826cb077c95947bf2d", null ],
+    [ "PrepareSpellScript", "d0/d28/a18720.html#a19492e616ac6e69187bca4499175071e", null ],
+    [ "Register", "d0/d28/a18720.html#a3446174d3308f535c27581b63ade9e8a", null ]
 ];

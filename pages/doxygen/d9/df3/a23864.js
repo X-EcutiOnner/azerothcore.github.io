@@ -1,5 +1,7 @@
 var a23864 =
 [
-    [ "creature", "d9/df3/a23864.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
-    [ "Timer", "d9/df3/a23864.html#a2be497dc190c1f01f939e12083739882", null ]
+    [ "HandleDummy", "d9/df3/a23864.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "d9/df3/a23864.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "d9/df3/a23864.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "d9/df3/a23864.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

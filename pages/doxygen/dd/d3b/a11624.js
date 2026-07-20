@@ -1,9 +1,7 @@
 var a11624 =
 [
-    [ "EncryptableAndCompressiblePacket", "dd/d3b/a11624.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
-    [ "CompressIfNeeded", "dd/d3b/a11624.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
-    [ "NeedsCompression", "dd/d3b/a11624.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
-    [ "NeedsEncryption", "dd/d3b/a11624.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
-    [ "_encrypt", "dd/d3b/a11624.html#a37a68eddad23001a85a4a2f77e237810", null ],
-    [ "SocketQueueLink", "dd/d3b/a11624.html#a88f11ce75f439fd290bdc09156d559c2", null ]
+    [ "UpdateWorldState", "dd/d3b/a11624.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
+    [ "Write", "dd/d3b/a11624.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
+    [ "Value", "dd/d3b/a11624.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
+    [ "VariableID", "dd/d3b/a11624.html#aa73278b324822f509f48e6edcdaed457", null ]
 ];

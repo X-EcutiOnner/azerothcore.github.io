@@ -1,16 +1,6 @@
 var a23652 =
 [
-    [ "npc_nether_drakeAI", "de/d01/a23652.html#a82f2c29b380be95303e1558776ea2d88", null ],
-    [ "JustEngagedWith", "de/d01/a23652.html#a5f20faa7f7007989298009b88b3ecbc8", null ],
-    [ "MoveInLineOfSight", "de/d01/a23652.html#a9e122d4533155c926904a13e8534d32e", null ],
-    [ "MovementInform", "de/d01/a23652.html#ae1f5248397b606b7872f05cfc929ac0d", null ],
-    [ "Reset", "de/d01/a23652.html#acb03513dd67988e0961632846021a42d", null ],
-    [ "SpellHit", "de/d01/a23652.html#a40f05363f38d71954c9fb8773c382444", null ],
-    [ "UpdateAI", "de/d01/a23652.html#aa538d9d2ead26d6e085ecf62ec7d310f", null ],
-    [ "ArcaneBlast_Timer", "de/d01/a23652.html#ace872917954f4978f3568d7ddecf22ad", null ],
-    [ "IntangiblePresence_Timer", "de/d01/a23652.html#acecff3846090fa83c8fc43537d788501", null ],
-    [ "IsNihil", "de/d01/a23652.html#a37c393101e0f9b07e20cc21beb80ba44", null ],
-    [ "ManaBurn_Timer", "de/d01/a23652.html#ae6c33df878497d29d5f61234b048009d", null ],
-    [ "NihilSpeech_Phase", "de/d01/a23652.html#a3e68f0fdb59ce6d8749b5d8629b7ec0b", null ],
-    [ "NihilSpeech_Timer", "de/d01/a23652.html#a40d7584c68f5f6516eb9a7deaaad7c86", null ]
+    [ "OnApply", "de/d01/a23652.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "de/d01/a23652.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "de/d01/a23652.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

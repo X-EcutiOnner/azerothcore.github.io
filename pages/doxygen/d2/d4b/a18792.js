@@ -1,6 +1,5 @@
 var a18792 =
 [
-    [ "npc_blistering_zombieAI", "df/d47/a18796.html", "df/d47/a18796" ],
-    [ "npc_blistering_zombie", "d2/d4b/a18792.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
-    [ "GetAI", "d2/d4b/a18792.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
+    [ "npc_icc_lk_checktargetAI", "d2/d4b/a18792.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
+    [ "CanAIAttack", "d2/d4b/a18792.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
 ];

@@ -1,6 +1,4 @@
 var a11948 =
 [
-    [ "EffectSplitHandler", "d4/d3e/a11948.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
-    [ "Call", "d4/d3e/a11948.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
-    [ "pEffectHandlerScript", "d4/d3e/a11948.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
+    [ "spellid", "d4/d3e/a11948.html#a14f5dd3b53f06437074965e9b7753e89", null ]
 ];

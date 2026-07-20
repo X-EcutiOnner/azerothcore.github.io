@@ -1,9 +1,6 @@
 var a21328 =
 [
-    [ "npc_bloodmage_laurithAI", "d9/d14/a21328.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "d9/d14/a21328.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "d9/d14/a21328.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
-    [ "UpdateAI", "d9/d14/a21328.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "d9/d14/a21328.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "d9/d14/a21328.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "instance_violet_hold_InstanceMapScript", "d6/df0/a21332.html", "d6/df0/a21332" ],
+    [ "instance_violet_hold", "d9/d14/a21328.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
+    [ "GetInstanceScript", "d9/d14/a21328.html#ab459840bcb0c8bcc58d20e658be0f63a", null ]
 ];

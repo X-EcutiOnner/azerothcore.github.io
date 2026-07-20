@@ -1,5 +1,6 @@
 var a23064 =
 [
-    [ "go_main_chambers_access_panel", "d6/d06/a23064.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "d6/d06/a23064.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "HandleScriptEffect", "d6/d06/a23064.html#a9e42f1af6fabb7df066cc2488a831418", null ],
+    [ "PrepareSpellScript", "d6/d06/a23064.html#a866496b087288a3cb8f00d4dbdb5d2ec", null ],
+    [ "Register", "d6/d06/a23064.html#a0fdb5d866d714d1d3bc71c4439a7f593", null ]
 ];

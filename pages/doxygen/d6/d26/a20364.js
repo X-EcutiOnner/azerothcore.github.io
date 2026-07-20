@@ -1,6 +1,6 @@
 var a20364 =
 [
-    [ "OnRemoveStun", "d6/d26/a20364.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
-    [ "PrepareAuraScript", "d6/d26/a20364.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
-    [ "Register", "d6/d26/a20364.html#a3166cfcd2acdcd4460217503d4008367", null ]
+    [ "DestroyWinterCache", "d6/d26/a20364.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
+    [ "PrepareSpellScript", "d6/d26/a20364.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
+    [ "Register", "d6/d26/a20364.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
 ];

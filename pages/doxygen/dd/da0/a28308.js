@@ -1,6 +1,8 @@
 var a28308 =
 [
-    [ "npc_necropolis_relay", "dd/da0/a28308.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "dd/da0/a28308.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "dd/da0/a28308.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "npc_training_dummy", "dd/da0/a28308.html#a7cf3b633e444d67dfaea6308e3ed2dc1", null ],
+    [ "DamageTaken", "dd/da0/a28308.html#accd7c39cd7b22b30e654288b034f1319", null ],
+    [ "JustEnteredCombat", "dd/da0/a28308.html#a2dad51de23663e7b0bf6bcd2ce86a290", null ],
+    [ "UpdateAI", "dd/da0/a28308.html#abd6941fcfd3bdff557b38017bc74e83c", null ],
+    [ "_combatTimer", "dd/da0/a28308.html#a6e2ed26a35fecc3fe6e1957c3ed47124", null ]
 ];

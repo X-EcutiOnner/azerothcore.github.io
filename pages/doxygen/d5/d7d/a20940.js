@@ -1,6 +1,6 @@
 var a20940 =
 [
-    [ "npc_frenzied_worgenAI", "d7/dc3/a20944.html", "d7/dc3/a20944" ],
-    [ "npc_frenzied_worgen", "d5/d7d/a20940.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "d5/d7d/a20940.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "HandleScript", "d5/d7d/a20940.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
+    [ "PrepareSpellScript", "d5/d7d/a20940.html#ab2a4155f6029850c61e84d7c180addae", null ],
+    [ "Register", "d5/d7d/a20940.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
 ];

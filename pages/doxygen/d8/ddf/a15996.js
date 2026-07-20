@@ -1,6 +1,7 @@
 var a15996 =
 [
-    [ "npc_taskmaster_fizzuleAI", "dc/d27/a16000.html", "dc/d27/a16000" ],
-    [ "npc_taskmaster_fizzule", "d8/ddf/a15996.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
-    [ "GetAI", "d8/ddf/a15996.html#a6281de7424932fe6580ffefa199498d9", null ]
+    [ "npc_giant_spotlightAI", "d8/ddf/a15996.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "d8/ddf/a15996.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "d8/ddf/a15996.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "d8/ddf/a15996.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

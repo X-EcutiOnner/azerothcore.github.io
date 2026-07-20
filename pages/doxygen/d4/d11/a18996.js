@@ -1,6 +1,7 @@
 var a18996 =
 [
-    [ "PrepareSpellScript", "d4/d11/a18996.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "d4/d11/a18996.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "d4/d11/a18996.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "npc_frost_freeze_trapAI", "d4/d11/a18996.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "d4/d11/a18996.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "d4/d11/a18996.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "d4/d11/a18996.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

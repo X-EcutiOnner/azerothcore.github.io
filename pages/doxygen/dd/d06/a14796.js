@@ -1,8 +1,6 @@
 var a14796 =
 [
-    [ "npc_love_in_air_snivel_real", "dd/d06/a14796.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
-    [ "Talk", "dd/d06/a14796.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
-    [ "UpdateAI", "dd/d06/a14796.html#a22ed25da8fe3441ef0e4183390983f40", null ],
-    [ "actionCounter", "dd/d06/a14796.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
-    [ "actionTimer", "dd/d06/a14796.html#a3bbee1ff355581772b337268775b8fbc", null ]
+    [ "npc_cw_area_triggerAI", "d7/d0b/a14800.html", "d7/d0b/a14800" ],
+    [ "npc_cw_area_trigger", "dd/d06/a14796.html#a11af64ac4ab078566bf8f68a36781939", null ],
+    [ "GetAI", "dd/d06/a14796.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
 ];

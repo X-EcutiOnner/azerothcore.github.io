@@ -1,7 +1,7 @@
 var a26180 =
 [
-    [ "AfterRemove", "d0/d95/a26180.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
-    [ "PrepareAuraScript", "d0/d95/a26180.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
-    [ "Register", "d0/d95/a26180.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
-    [ "Validate", "d0/d95/a26180.html#ae08f33e0271166afa87208faa30684c4", null ]
+    [ "HandleProc", "d0/d95/a26180.html#ab25ebdc33ed9f13d9b1f880df064be13", null ],
+    [ "PrepareAuraScript", "d0/d95/a26180.html#afa5dcaae76c60f38b8be4c47cbdaaf95", null ],
+    [ "Register", "d0/d95/a26180.html#ab56b68dce7bf0c1cc251ff261e606cf9", null ],
+    [ "Validate", "d0/d95/a26180.html#a53ad60f89b9db1b0cc34385477aea856", null ]
 ];

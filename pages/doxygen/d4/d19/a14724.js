@@ -1,6 +1,7 @@
 var a14724 =
 [
-    [ "HandleScript", "d4/d19/a14724.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
-    [ "PrepareSpellScript", "d4/d19/a14724.html#a26b296c1c4d9f5193dc3773509267284", null ],
-    [ "Register", "d4/d19/a14724.html#aad66e4079ea9404b9057546d8959a395", null ]
+    [ "npc_direbrew_minion", "d4/d19/a14724.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "d4/d19/a14724.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "d4/d19/a14724.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "d4/d19/a14724.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

@@ -1,6 +1,6 @@
 var a20088 =
 [
-    [ "CheckAreaTarget", "d0/d87/a20088.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
-    [ "PrepareAuraScript", "d0/d87/a20088.html#a921b2f67c417244310398bd93061d61c", null ],
-    [ "Register", "d0/d87/a20088.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
+    [ "achievement_assembly_of_iron", "d0/d87/a20088.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
+    [ "OnCheck", "d0/d87/a20088.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
+    [ "_targetEntry", "d0/d87/a20088.html#a20e8938ff30b18737fb96cf0277b5680", null ]
 ];

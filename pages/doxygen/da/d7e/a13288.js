@@ -1,12 +1,20 @@
 var a13288 =
 [
-    [ "boss_vexallus", "da/d7e/a13288.html#a68c32ed70274e9f135b7a9107f888c91", null ],
-    [ "JustDied", "da/d7e/a13288.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
-    [ "JustEngagedWith", "da/d7e/a13288.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
-    [ "JustSummoned", "da/d7e/a13288.html#a9bc7808889da754bae9c935418975f90", null ],
-    [ "KilledUnit", "da/d7e/a13288.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
-    [ "Reset", "da/d7e/a13288.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
-    [ "SummonedCreatureDies", "da/d7e/a13288.html#a4bd88222143d8db098312cff8a2fc969", null ],
-    [ "_energyCooldown", "da/d7e/a13288.html#a395d2186d70d1b7e29dbada7750da354", null ],
-    [ "_energyCount", "da/d7e/a13288.html#a4afa4a245b8863c7b0898773932642c8", null ]
+    [ "boss_julianne", "da/d7e/a13288.html#a6433d08be0d5562e876e00225ebf7398", null ],
+    [ "DamageTaken", "da/d7e/a13288.html#a8ff7675405322c2d55bd01cec340f6b8", null ],
+    [ "DoAction", "da/d7e/a13288.html#a985c9c1f77b2769461bf42ddaab302d3", null ],
+    [ "EnterEvadeMode", "da/d7e/a13288.html#af2499ba9d9c25555c82d8d7ae95c7249", null ],
+    [ "JustDied", "da/d7e/a13288.html#abdfaf6fa147c6b35bed28bb2e3ed3c14", null ],
+    [ "JustEngagedWith", "da/d7e/a13288.html#a6c5bd97ad402cc5f5dcda421c5d2bad1", null ],
+    [ "JustReachedHome", "da/d7e/a13288.html#a6bda02d5534b9087741ee7146ec314b5", null ],
+    [ "KilledUnit", "da/d7e/a13288.html#a7430fb4f315ee5dcf5f9c49b2daa66b0", null ],
+    [ "Reset", "da/d7e/a13288.html#a1047e28950098b35bd8a8fc5bec4ed26", null ],
+    [ "ScheduleCombat", "da/d7e/a13288.html#ab0939f8fe0fc34cafbe2dab4ef449895", null ],
+    [ "SpellHit", "da/d7e/a13288.html#a1e142c56a514640dab0d5d7711085f9d", null ],
+    [ "UpdateAI", "da/d7e/a13288.html#ad1e1d5bb27fed12a203c8b10f6ea92a6", null ],
+    [ "_scheduler", "da/d7e/a13288.html#aae4be9b1035626ecc9ad2f3e5b918cbe", null ],
+    [ "instance", "da/d7e/a13288.html#acdc787ba6908e716517683a8536ecf3e", null ],
+    [ "isFakingDeath", "da/d7e/a13288.html#a7a1b3b2ead47a49e80f9ba2b49144a91", null ],
+    [ "phase", "da/d7e/a13288.html#a5b0b680916cd38b2e20a6a1b1a530362", null ],
+    [ "summonedRomulo", "da/d7e/a13288.html#a6938adccd5c781df04dabe6d860f9357", null ]
 ];

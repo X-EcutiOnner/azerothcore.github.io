@@ -1,8 +1,6 @@
 var a19504 =
 [
-    [ "npc_scion_of_eternity", "d7/d23/a19504.html#ac1a9111bc835a3d2cffc43b840985763", null ],
-    [ "AttackStart", "d7/d23/a19504.html#a86b5e235096ad107217f36150c618d73", null ],
-    [ "JustDied", "d7/d23/a19504.html#aff0f8d0d57afb6ef3df7b259ec5860fa", null ],
-    [ "MoveInLineOfSight", "d7/d23/a19504.html#a25424c349fc39f7b42d36ac055f91ad9", null ],
-    [ "UpdateAI", "d7/d23/a19504.html#a49be60ccd03d75cf56931b870ddf086c", null ]
+    [ "boss_nothAI", "d7/d48/a19508.html", "d7/d48/a19508" ],
+    [ "boss_noth", "d7/d23/a19504.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
+    [ "GetAI", "d7/d23/a19504.html#a534f30792c051ab44c6c07c9347893e5", null ]
 ];

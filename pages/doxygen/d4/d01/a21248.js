@@ -1,6 +1,7 @@
 var a21248 =
 [
-    [ "npc_nerubar_victimAI", "d7/da5/a21252.html", "d7/da5/a21252" ],
-    [ "npc_nerubar_victim", "d4/d01/a21248.html#a4fe80597d3e56776f0f04965fc706097", null ],
-    [ "GetAI", "d4/d01/a21248.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
+    [ "PrepareAuraScript", "d4/d01/a21248.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
+    [ "Register", "d4/d01/a21248.html#a7225d1f83921e4de06516c1db5a5038a", null ],
+    [ "TriggerFists", "d4/d01/a21248.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
+    [ "Validate", "d4/d01/a21248.html#a977897c569245148eb94892bb42d4ca5", null ]
 ];

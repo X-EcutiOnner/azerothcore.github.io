@@ -1,6 +1,8 @@
 var a27292 =
 [
-    [ "HandleSchoolDMG", "df/dde/a27292.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
-    [ "PrepareSpellScript", "df/dde/a27292.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
-    [ "Register", "df/dde/a27292.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
+    [ "Apply", "df/dde/a27292.html#ac3145df90b6b179fece1c76da114e395", null ],
+    [ "HandleEffectPeriodic", "df/dde/a27292.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
+    [ "PrepareAuraScript", "df/dde/a27292.html#aa911ba0b5a13a933bf50a072799a040f", null ],
+    [ "Register", "df/dde/a27292.html#ae0dff9b5002d3d3361d794a75645057f", null ],
+    [ "Validate", "df/dde/a27292.html#ad81184b508474a89fbafc63594ef0ab1", null ]
 ];

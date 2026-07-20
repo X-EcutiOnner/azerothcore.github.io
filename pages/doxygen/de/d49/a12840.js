@@ -1,5 +1,7 @@
 var a12840 =
 [
-    [ "npc_garr_firesworn", "de/d49/a12840.html#a5efff706f522accd5f8be0d29080dea4", null ],
-    [ "DamageTaken", "de/d49/a12840.html#a172435821316d28c5b0043015c68595e", null ]
+    [ "HandleScript", "de/d49/a12840.html#a0d244cc1785b136bae0960d697dc761d", null ],
+    [ "PrepareSpellScript", "de/d49/a12840.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
+    [ "Register", "de/d49/a12840.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
+    [ "Validate", "de/d49/a12840.html#a1413754f3a79caf8ec57d394c68f3499", null ]
 ];

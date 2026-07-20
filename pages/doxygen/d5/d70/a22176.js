@@ -1,13 +1,6 @@
 var a22176 =
 [
-    [ "OPvPCapturePointEP_PWT", "d5/d70/a22176.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
-    [ "ChangeState", "d5/d70/a22176.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
-    [ "FillInitialWorldStates", "d5/d70/a22176.html#ab5faf124f53394a4a54a86a7bf5d0626", null ],
-    [ "HandlePlayerEnter", "d5/d70/a22176.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
-    [ "HandlePlayerLeave", "d5/d70/a22176.html#a5772e54263c613eee365856def5e74e6", null ],
-    [ "SendChangePhase", "d5/d70/a22176.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
-    [ "SummonFlightMaster", "d5/d70/a22176.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
-    [ "UpdateTowerState", "d5/d70/a22176.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
-    [ "m_FlightMasterSpawnedId", "d5/d70/a22176.html#afeefd804849b925e6d0a880d8efb5319", null ],
-    [ "m_TowerState", "d5/d70/a22176.html#a914dcbb37baf457750cfe9829d95d88c", null ]
+    [ "HandleDamage", "d5/d70/a22176.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
+    [ "PrepareSpellScript", "d5/d70/a22176.html#a23b6afe1e35edc4013767b119b8e0218", null ],
+    [ "Register", "d5/d70/a22176.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
 ];

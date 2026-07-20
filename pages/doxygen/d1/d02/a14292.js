@@ -1,7 +1,7 @@
 var a14292 =
 [
-    [ "HandleEffect", "d1/d02/a14292.html#a8cda8eff109af7441d6990a236a52b80", null ],
-    [ "PrepareSpellScript", "d1/d02/a14292.html#acc2698ba702be211bef63cefa41005f4", null ],
-    [ "Register", "d1/d02/a14292.html#a5d6dccbb44a5d95055755673ad70707f", null ],
-    [ "Validate", "d1/d02/a14292.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
+    [ "FilterTargets", "d1/d02/a14292.html#aebe9055301495dd3a21736b9a2a35f31", null ],
+    [ "HandleDamageCalc", "d1/d02/a14292.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
+    [ "PrepareSpellScript", "d1/d02/a14292.html#a03b8e21e58988d9fc774205263c0817f", null ],
+    [ "Register", "d1/d02/a14292.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
 ];

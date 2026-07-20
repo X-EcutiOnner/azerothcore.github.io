@@ -1,7 +1,7 @@
 var a12784 =
 [
-    [ "HandleDummy", "d5/d21/a12784.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
-    [ "PrepareSpellScript", "d5/d21/a12784.html#ad07165f81a7f407c716f90691ecb9817", null ],
-    [ "Register", "d5/d21/a12784.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
-    [ "Validate", "d5/d21/a12784.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
+    [ "boss_warmaster_voone", "d5/d21/a12784.html#a5dd3b0140dda8ef141c9598a427f6633", null ],
+    [ "DamageTaken", "d5/d21/a12784.html#a48e135857ef9e7e524e07ed979f137e6", null ],
+    [ "ExecuteEvent", "d5/d21/a12784.html#a2ff38398f38e61f91bd1aa7222867fd3", null ],
+    [ "JustEngagedWith", "d5/d21/a12784.html#a961113ecf4c46f52001d153a60ea238a", null ]
 ];

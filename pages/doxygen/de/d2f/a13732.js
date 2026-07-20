@@ -1,18 +1,6 @@
 var a13732 =
 [
-    [ "boss_kiljaeden", "de/d2f/a13732.html#a573b32098eac346f3f9485eb46792b1b", null ],
-    [ "AttackStart", "de/d2f/a13732.html#a9ad882dda480a564406628bfde386e57", null ],
-    [ "DamageTaken", "de/d2f/a13732.html#afd668a9d98182d7e05ca38040e55e908", null ],
-    [ "DoAction", "de/d2f/a13732.html#a53f78e51932d98886fadd9422adf96ce", null ],
-    [ "EmpowerOrb", "de/d2f/a13732.html#ade10c2e693f41d5d0240bce37d5c1168", null ],
-    [ "EnterEvadeMode", "de/d2f/a13732.html#a8e765740602b4f9efddafa5f2bdc8909", null ],
-    [ "InitializeAI", "de/d2f/a13732.html#ac72d5d9615040c981e8e4e932be8c362", null ],
-    [ "JustDied", "de/d2f/a13732.html#a82376e807061529bfd8fb4e52d409acf", null ],
-    [ "JustEngagedWith", "de/d2f/a13732.html#aac01e1f8b7b7dfb80a62f3eb0105ed10", null ],
-    [ "JustSummoned", "de/d2f/a13732.html#a3b983a903618b5bfebf7b45819207fde", null ],
-    [ "KilledUnit", "de/d2f/a13732.html#a220cf460466c44a82ce3933d2c5f27f8", null ],
-    [ "Reset", "de/d2f/a13732.html#aa45b8e5f598f68183b390e3239f0f75c", null ],
-    [ "ScheduleBasicAbilities", "de/d2f/a13732.html#a345f52703c9d72be2a67ff46ac1a0472", null ],
-    [ "UpdateAI", "de/d2f/a13732.html#aedcd604a535ce354881d7e59a05a79b9", null ],
-    [ "_phase", "de/d2f/a13732.html#a6878b5b88a45f1a5d70d866e9850041d", null ]
+    [ "HandleActivateObject", "de/d2f/a13732.html#aedcb4513b7c53b9a9e972b9051da0e0f", null ],
+    [ "PrepareSpellScript", "de/d2f/a13732.html#afc844250ea7ba48330edfda305fa856c", null ],
+    [ "Register", "de/d2f/a13732.html#a6d77f6848397724e61c1db7a80de7139", null ]
 ];

@@ -1,6 +1,7 @@
 var a19636 =
 [
-    [ "boss_uromAI", "d2/dc7/a19640.html", "d2/dc7/a19640" ],
-    [ "boss_urom", "dc/d75/a19636.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
-    [ "GetAI", "dc/d75/a19636.html#ac381b851f3cc746fb323ff238892c537", null ]
+    [ "HandleScript", "dc/d75/a19636.html#a8e54c3526406fcb6963667c05b5f2cce", null ],
+    [ "Load", "dc/d75/a19636.html#a94661c7652572b1671a611b35c8f68a7", null ],
+    [ "PrepareSpellScript", "dc/d75/a19636.html#a269f558a231a4c9af55a54c6c7090d1b", null ],
+    [ "Register", "dc/d75/a19636.html#a09352bd458fe3dbeacea38c5104656ff", null ]
 ];

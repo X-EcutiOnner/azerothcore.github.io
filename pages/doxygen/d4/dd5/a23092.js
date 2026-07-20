@@ -1,6 +1,7 @@
 var a23092 =
 [
-    [ "HandlePeriodic", "d4/dd5/a23092.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
-    [ "PrepareAuraScript", "d4/dd5/a23092.html#a75515896f3d94d227963a3c5258e2d0d", null ],
-    [ "Register", "d4/dd5/a23092.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
+    [ "FilterTargets", "d4/dd5/a23092.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "d4/dd5/a23092.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "d4/dd5/a23092.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "d4/dd5/a23092.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

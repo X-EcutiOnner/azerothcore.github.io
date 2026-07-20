@@ -1,10 +1,8 @@
 var a28928 =
 [
-    [ "PvPDifficultyEntry", "de/d99/a28928.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
-    [ "GetBracketId", "de/d99/a28928.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
-    [ "bracketId", "de/d99/a28928.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
-    [ "difficulty", "de/d99/a28928.html#a33ac017d785a4586a78e715d97836720", null ],
-    [ "mapId", "de/d99/a28928.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
-    [ "maxLevel", "de/d99/a28928.html#a1385166568239f2118b65377df8b4b55", null ],
-    [ "minLevel", "de/d99/a28928.html#acd07e8d759af1b73ec7543f6e70df242", null ]
+    [ "difficulty", "de/d99/a28928.html#a2a04df701c13dc49053b09a9587a72a8", null ],
+    [ "encounterIndex", "de/d99/a28928.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
+    [ "encounterName", "de/d99/a28928.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
+    [ "id", "de/d99/a28928.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
+    [ "mapId", "de/d99/a28928.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
 ];

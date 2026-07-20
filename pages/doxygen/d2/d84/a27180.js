@@ -1,7 +1,7 @@
 var a27180 =
 [
-    [ "AfterRemove", "d2/d84/a27180.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
-    [ "PrepareAuraScript", "d2/d84/a27180.html#af338af238305f1872275e1e5e9fdee16", null ],
-    [ "Register", "d2/d84/a27180.html#aa266e794be35b51a399b13ee2d06199d", null ],
-    [ "Validate", "d2/d84/a27180.html#af58098eb7a904e20846cf728f5adc18b", null ]
+    [ "HandleEffect", "d2/d84/a27180.html#ab33c9312c9ac4096140a82f381d83235", null ],
+    [ "PrepareSpellScript", "d2/d84/a27180.html#a6117d7b2720f719d801b5f6e0e719f5f", null ],
+    [ "Register", "d2/d84/a27180.html#a1f5983124756eca5666ca6adbe5a4544", null ],
+    [ "Validate", "d2/d84/a27180.html#a08f7e508b50fc44ced0b7ff04e22b333", null ]
 ];

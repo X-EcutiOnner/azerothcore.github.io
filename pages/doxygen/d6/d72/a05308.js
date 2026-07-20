@@ -1,5 +1,11 @@
 var a05308 =
 [
-    [ "TileEntries", "d6/d72/a05308.html#ac982af8210389fe769d161a12d4cdb5f", null ],
-    [ "UniqueEntries", "d6/d72/a05308.html#a5ba6c948eedc6c070a7eb6aa3816d85c", null ]
+    [ "MmapTileHeader", "d6/d72/a05308.html#a0165f9a4caee4e4759ea261dfbac08a7", null ],
+    [ "dtVersion", "d6/d72/a05308.html#a34d3ed8c617139653176454d7fa7934e", null ],
+    [ "mmapMagic", "d6/d72/a05308.html#ace0ec88460c97f1438de2d0e6a9d7774", null ],
+    [ "mmapVersion", "d6/d72/a05308.html#a5cc3cd873419fe8aeb479d3187584410", null ],
+    [ "padding", "d6/d72/a05308.html#a6ca977b85a993eb6721e3bfe9fd3abfd", null ],
+    [ "recastConfig", "d6/d72/a05308.html#a6552d0370a83567a4d01b4c20adff8cc", null ],
+    [ "size", "d6/d72/a05308.html#a69f3284a4a56b1108792ba56c250bf97", null ],
+    [ "usesLiquids", "d6/d72/a05308.html#aeb4e622161a4bb42cff42d37542f0254", null ]
 ];

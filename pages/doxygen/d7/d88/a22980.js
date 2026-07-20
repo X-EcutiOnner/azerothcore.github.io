@@ -1,7 +1,13 @@
 var a22980 =
 [
-    [ "go_ahune_ice_spear", "d7/d88/a22980.html#a22922e47b819bc60e331cffbc7c353b3", null ],
-    [ "Reset", "d7/d88/a22980.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
-    [ "UpdateAI", "d7/d88/a22980.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
-    [ "_scheduler", "d7/d88/a22980.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
+    [ "boss_fathomguard_caribdis", "d7/d88/a22980.html#a9172b9717e5137ddde7df38bb237478c", null ],
+    [ "EnterEvadeMode", "d7/d88/a22980.html#aa666a491a776b12a042ee140aedc95eb", null ],
+    [ "JustDied", "d7/d88/a22980.html#ab821365b35a48f70a11c6033fe2ca714", null ],
+    [ "JustEngagedWith", "d7/d88/a22980.html#a5503519998f51f475420ada2210f32f0", null ],
+    [ "JustSummoned", "d7/d88/a22980.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
+    [ "Reset", "d7/d88/a22980.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
+    [ "UpdateAI", "d7/d88/a22980.html#af4a544f37d178de21d84f2544f24431e", null ],
+    [ "_instance", "d7/d88/a22980.html#a73f567f2269aeca1435af82e1c6880e9", null ],
+    [ "_scheduler", "d7/d88/a22980.html#a08b01e9735e421d8d5bbc2b552217762", null ],
+    [ "_summons", "d7/d88/a22980.html#ac8b53cb81547a2423a13c997badb77e3", null ]
 ];

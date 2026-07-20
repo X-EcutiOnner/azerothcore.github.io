@@ -1,6 +1,6 @@
 var a20280 =
 [
-    [ "HandleAfterEffectApply", "dc/da0/a20280.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "PrepareAuraScript", "dc/da0/a20280.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "dc/da0/a20280.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
+    [ "achievement_freya_knock_on_wood", "dc/da0/a20280.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "dc/da0/a20280.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "dc/da0/a20280.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

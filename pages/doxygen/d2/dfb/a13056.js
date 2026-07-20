@@ -1,10 +1,8 @@
 var a13056 =
 [
-    [ "npc_netherspite_infernal", "d2/dfb/a13056.html#af9837d7a671533523ce323c083c4e847", null ],
-    [ "DamageTaken", "d2/dfb/a13056.html#aee9b38f3590e08b16de1789576986a09", null ],
-    [ "JustEngagedWith", "d2/dfb/a13056.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
-    [ "KilledUnit", "d2/dfb/a13056.html#a49c37fbebed2951c493962c1a3bd0339", null ],
-    [ "MoveInLineOfSight", "d2/dfb/a13056.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
-    [ "SpellHit", "d2/dfb/a13056.html#abb6c7d0b5e231e460b069198b16106b7", null ],
-    [ "UpdateAI", "d2/dfb/a13056.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
+    [ "npc_lava_spawn", "d2/dfb/a13056.html#aff97441b2cfbcd68e0788be022ee6236", null ],
+    [ "JustEngagedWith", "d2/dfb/a13056.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
+    [ "Reset", "d2/dfb/a13056.html#ab774d354991c90b1421e6783c0513e59", null ],
+    [ "UpdateAI", "d2/dfb/a13056.html#a6a17c8c40b0110b688ff5faef5585185", null ],
+    [ "_scheduler", "d2/dfb/a13056.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
 ];

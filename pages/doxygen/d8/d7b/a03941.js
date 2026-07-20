@@ -1,6 +1,6 @@
 var a03941 =
 [
-    [ "WorldPackets::Chat::Emote", "dc/d55/a10957.html", "dc/d55/a10957" ],
-    [ "WorldPackets::Chat::EmoteClient", "d0/d4f/a10961.html", "d0/d4f/a10961" ],
-    [ "WorldPackets::Chat::ChatServerMessage", "dc/d1f/a10965.html", "dc/d1f/a10965" ]
+    [ "fireworkShowGameobjectTeldrassil", "d8/d7b/a03941.html#ade54ff9545ac94f914ea82994571e3a0", null ],
+    [ "fireworkShowScheduleTeldrassil", "d8/d7b/a03941.html#a5a91b29d6818da3b038fc384535233b6", null ],
+    [ "fireworkShowTeldrassil", "d8/d7b/a03941.html#a8999f3fc85a14b073f5037adea6f7496", null ]
 ];

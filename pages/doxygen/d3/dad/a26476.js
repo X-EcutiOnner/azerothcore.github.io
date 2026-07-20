@@ -1,10 +1,6 @@
 var a26476 =
 [
-    [ "spell_pal_improved_aura", "d3/dad/a26476.html#a4bc4b78ce3aab5ba4b5e6a009910cf7c", null ],
-    [ "HandleEffectApply", "d3/dad/a26476.html#a441952100c103ccdf84c58827669faac", null ],
-    [ "HandleEffectRemove", "d3/dad/a26476.html#aad7c1d2b5722523e119ff7dbe27ceb30", null ],
-    [ "PrepareAuraScript", "d3/dad/a26476.html#a4b35f298000b2a6cc530644018d4d7e4", null ],
-    [ "Register", "d3/dad/a26476.html#a148b20ba206ba69d2dcd84abbf7d17af", null ],
-    [ "Validate", "d3/dad/a26476.html#aa5450660ba559f31a815f4f2a4452fbc", null ],
-    [ "_spellId", "d3/dad/a26476.html#a9b7b9b73a0e6cacc917aedebdf789901", null ]
+    [ "CalculateAmount", "d3/dad/a26476.html#acc2c4cea16dfa30c49387ac166cef560", null ],
+    [ "PrepareAuraScript", "d3/dad/a26476.html#a8d7e840994ba5034a249171dbfc016a6", null ],
+    [ "Register", "d3/dad/a26476.html#a018d2a8a106a621730fcaa1d500df7b1", null ]
 ];

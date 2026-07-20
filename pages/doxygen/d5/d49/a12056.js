@@ -1,5 +1,6 @@
 var a12056 =
 [
-    [ "PlayerDump", "d5/d49/a12056.html#a457c89834631206d39453721e41af28e", null ],
-    [ "InitializeTables", "d5/d49/a12056.html#a69c8e6c412ac09099752a3ad388f5467", null ]
+    [ "EffectAbsorbHandler", "d5/d49/a12056.html#a29bb773b8271acf651b08f33ce358720", null ],
+    [ "Call", "d5/d49/a12056.html#a56bfb0fd0d860678920445d1182c09ef", null ],
+    [ "pEffectHandlerScript", "d5/d49/a12056.html#a519489b8d951173a806e86cfe075faf1", null ]
 ];

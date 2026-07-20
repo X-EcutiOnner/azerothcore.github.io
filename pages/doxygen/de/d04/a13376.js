@@ -1,6 +1,5 @@
 var a13376 =
 [
-    [ "npc_gothik_the_harvesterAI", "da/d4d/a13380.html", "da/d4d/a13380" ],
-    [ "npc_gothik_the_harvester", "de/d04/a13376.html#a44a8a900e195308802e76c5b550b577a", null ],
-    [ "GetAI", "de/d04/a13376.html#a97d99101d8c6eca7cf59e9920725efbc", null ]
+    [ "boss_eramas_brightblaze", "de/d04/a13376.html#a14d1528750036f27948f5de8a2b44bd3", null ],
+    [ "JustEngagedWith", "de/d04/a13376.html#ad34613d2795f7371a43891488044392a", null ]
 ];

@@ -1,6 +1,5 @@
 var a14468 =
 [
-    [ "HandleOnHit", "de/d04/a14468.html#a36909ef786940eb1a05539c968d78e80", null ],
-    [ "PrepareSpellScript", "de/d04/a14468.html#a4bc6792c99b40834ec1a8a9764589e24", null ],
-    [ "Register", "de/d04/a14468.html#ad1d60c5f747f8ec16cbf2402567cfebd", null ]
+    [ "at_zulgurub_bridge_speech", "de/d04/a14468.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
+    [ "_OnTrigger", "de/d04/a14468.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
 ];

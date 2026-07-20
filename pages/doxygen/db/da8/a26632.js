@@ -1,6 +1,7 @@
 var a26632 =
 [
-    [ "HandleDummyEffect", "db/da8/a26632.html#a6340c91d8419755386cb3e138cb3c171", null ],
-    [ "PrepareSpellScript", "db/da8/a26632.html#a67d08252c8b8deee312f17affb557df8", null ],
-    [ "Register", "db/da8/a26632.html#a262bb06ac1d6a55e886d1226ad7bb583", null ]
+    [ "HandleProc", "db/da8/a26632.html#a9601839ce1fff4e1be66f435a78693ac", null ],
+    [ "PrepareAuraScript", "db/da8/a26632.html#ae7b3804ed0fe40c85d245e2762fd8181", null ],
+    [ "Register", "db/da8/a26632.html#a588226cc60a7ff0f8a05e8ec34c855e5", null ],
+    [ "Validate", "db/da8/a26632.html#aea68ea2da0853d72d94a19b98db9375f", null ]
 ];

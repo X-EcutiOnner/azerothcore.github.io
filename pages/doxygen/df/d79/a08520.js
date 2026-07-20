@@ -1,12 +1,10 @@
 var a08520 =
 [
-    [ "QuaternionData", "df/d79/a08520.html#a8a582c133d5fba901470a776c7144432", null ],
-    [ "QuaternionData", "df/d79/a08520.html#a7f68a7bf3da861de017168eef5b8c6a0", null ],
-    [ "FromEulerAnglesZYX", "df/d79/a08520.html#a4c5f4bc5c0bd4fff3f3ad77e6fd74c09", null ],
-    [ "IsUnit", "df/d79/a08520.html#ab0330c115f97ff6368d8e8ab9820191e", null ],
-    [ "ToEulerAnglesZYX", "df/d79/a08520.html#a65c564f6ae82c8f1bfb8f7786b5f0b90", null ],
-    [ "w", "df/d79/a08520.html#a1f5567b478ebb94161786c85a29ad66a", null ],
-    [ "x", "df/d79/a08520.html#aca37b701a67eefbf72922a5e7bf98cb2", null ],
-    [ "y", "df/d79/a08520.html#ac222999cbb4681893fe591a5afc3587d", null ],
-    [ "z", "df/d79/a08520.html#a7418b0e143cc32169864d77870db5ad7", null ]
+    [ "IsCastable", "df/d79/a08520.html#a677b21866e24d2c94de28d96db07aafd", null ],
+    [ "MoneyCost", "df/d79/a08520.html#af20caa962ba1f5edb376b78b6b35b119", null ],
+    [ "ReqAbility", "df/d79/a08520.html#a101686190208be6fb46a46768ca779f9", null ],
+    [ "ReqLevel", "df/d79/a08520.html#a45e87439b1ae356ccb9ff381f58f942e", null ],
+    [ "ReqSkillLine", "df/d79/a08520.html#a008ff0df36f2e19534a5fda97616f14f", null ],
+    [ "ReqSkillRank", "df/d79/a08520.html#aa151d559cb276797a39dd203fd1b24c2", null ],
+    [ "SpellId", "df/d79/a08520.html#ac289744925387c199fde756867bbfc57", null ]
 ];

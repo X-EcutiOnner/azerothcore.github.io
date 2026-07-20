@@ -1,7 +1,11 @@
 var a07476 =
 [
-    [ "AuctionSorter", "d7/dac/a07476.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b", null ],
-    [ "operator()", "d7/dac/a07476.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7", null ],
-    [ "_loc_idx", "d7/dac/a07476.html#a11708aa660757db95c88d9dc7e9b9521", null ],
-    [ "_sort", "d7/dac/a07476.html#a9c777b91d8b80940daee0b32c4f11c37", null ]
+    [ "GetSkillValue", "d7/dac/a07476.html#a8f5894a5729d4c8d26376bbe1a2ac29e", null ],
+    [ "HasSpell", "d7/dac/a07476.html#a3400ad05d8423ae6878fab815521ec6f", null ],
+    [ "PlayerCanUseItem", "d7/dac/a07476.html#aee11f4f45f83664483344e3bbfba7463", null ],
+    [ "classMask", "d7/dac/a07476.html#a41a57c372871c84a572d2f3697cb18aa", null ],
+    [ "level", "d7/dac/a07476.html#a870f632b54e4638b1f5a4e93b6bd9e52", null ],
+    [ "raceMask", "d7/dac/a07476.html#a96e56943da42f1a1258fc1d716259e1a", null ],
+    [ "skills", "d7/dac/a07476.html#a55c2ad9d1cdea4913cb35deb4adc87fd", null ],
+    [ "spells", "d7/dac/a07476.html#ac83cc019ceb1752ce8d6b5a3aa3d350f", null ]
 ];

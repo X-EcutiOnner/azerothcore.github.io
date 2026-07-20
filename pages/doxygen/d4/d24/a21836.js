@@ -1,6 +1,7 @@
 var a21836 =
 [
-    [ "npc_frostbrood_skytalonAI", "db/d4b/a21840.html", "db/d4b/a21840" ],
-    [ "npc_frostbrood_skytalon", "d4/d24/a21836.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "d4/d24/a21836.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "HandleScript", "d4/d24/a21836.html#a7fec959237546201ea94d5f87068e1c5", null ],
+    [ "PrepareSpellScript", "d4/d24/a21836.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
+    [ "Register", "d4/d24/a21836.html#a0aab07a4950f60a290491aa13103b332", null ],
+    [ "Validate", "d4/d24/a21836.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
 ];

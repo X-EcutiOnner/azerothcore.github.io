@@ -1,6 +1,8 @@
 var a25884 =
 [
-    [ "OnPeriodic", "de/db1/a25884.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
-    [ "PrepareAuraScript", "de/db1/a25884.html#ad3d091510685ebc2d87aadb658cacf58", null ],
-    [ "Register", "de/db1/a25884.html#a9552ba0f4c18623b6b00ababa034942c", null ]
+    [ "HandleDummy", "de/db1/a25884.html#a3db6982f1162ac6b03771a0e7e432e6d", null ],
+    [ "Load", "de/db1/a25884.html#a9671be7920dfd3bde2033f0ae43259b0", null ],
+    [ "PrepareSpellScript", "de/db1/a25884.html#ad50c9141d40b7089fd24a8657d496a8d", null ],
+    [ "Register", "de/db1/a25884.html#a249a857b1cf5b0c3be6018cb233c75d1", null ],
+    [ "Validate", "de/db1/a25884.html#ac209048bd5688417c391c2c9b8a72d8b", null ]
 ];

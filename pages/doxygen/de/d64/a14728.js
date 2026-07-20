@@ -1,6 +1,6 @@
 var a14728 =
 [
-    [ "HandleDummy", "de/d64/a14728.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
-    [ "PrepareSpellScript", "de/d64/a14728.html#a87a787c6ab3804847c90266f570381c6", null ],
-    [ "Register", "de/d64/a14728.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
+    [ "npc_direbrew_antagonist", "de/d64/a14728.html#a30fed4e6888d98af576dea8e13c510d3", null ],
+    [ "DoAction", "de/d64/a14728.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
+    [ "JustEngagedWith", "de/d64/a14728.html#aaf54b03d66d726901c289ff28d362787", null ]
 ];

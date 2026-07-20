@@ -1,16 +1,13 @@
 var a29140 =
 [
-    [ "GetAddressForClient", "d7/dd0/a29140.html#a2a3f3db57bb7e6f69ca4f030b65c7331", null ],
-    [ "AllowedSecurityLevel", "d7/dd0/a29140.html#a25e953d80aa3c80e068afe6b57f67d99", null ],
-    [ "Build", "d7/dd0/a29140.html#a64533e919d8c3a37bd5668af77d09166", null ],
-    [ "ExternalAddress", "d7/dd0/a29140.html#a703504aaf54f1ecf934b9184e9737367", null ],
-    [ "Flags", "d7/dd0/a29140.html#a1984cc9564b01b6456f31f77fd65a6d6", null ],
-    [ "Id", "d7/dd0/a29140.html#ab0ccda7e7a58eee0965261767f3ee2ee", null ],
-    [ "LocalAddress", "d7/dd0/a29140.html#a61f429ddc92895e66dff2808e17cc322", null ],
-    [ "LocalSubnetMask", "d7/dd0/a29140.html#a52a4b2704e7f76d8ea296148cefb9482", null ],
-    [ "Name", "d7/dd0/a29140.html#a9381717fdc924158ecd61a8f00488fc0", null ],
-    [ "PopulationLevel", "d7/dd0/a29140.html#a63cdbd47c50f368974b43c3db2f32cee", null ],
-    [ "Port", "d7/dd0/a29140.html#a0131d758f10cbae0c610c2c088299feb", null ],
-    [ "Timezone", "d7/dd0/a29140.html#a377055c4729f21beecb8601cd79017db", null ],
-    [ "Type", "d7/dd0/a29140.html#af77452a4cf7f632d692079615af4737c", null ]
+    [ "AcquireMethod", "d7/dd0/a29140.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
+    [ "ClassMask", "d7/dd0/a29140.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
+    [ "ID", "d7/dd0/a29140.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
+    [ "MinSkillLineRank", "d7/dd0/a29140.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
+    [ "RaceMask", "d7/dd0/a29140.html#acfd38780584b90ca40a1e1cd59605832", null ],
+    [ "SkillLine", "d7/dd0/a29140.html#a0050dcf5c82f785dfc93079debe54a13", null ],
+    [ "Spell", "d7/dd0/a29140.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
+    [ "SupercededBySpell", "d7/dd0/a29140.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
+    [ "TrivialSkillLineRankHigh", "d7/dd0/a29140.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
+    [ "TrivialSkillLineRankLow", "d7/dd0/a29140.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
 ];

@@ -1,14 +1,18 @@
 var a12252 =
 [
-    [ "deserter_commandscript", "d1/df3/a12252.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
-    [ "GetCommands", "d1/df3/a12252.html#ab5b48b9dde89c9215c51560f26324649", null ],
-    [ "HandleDeserterAdd", "d1/df3/a12252.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
-    [ "HandleDeserterBGAdd", "d1/df3/a12252.html#a11fba09d369e7244244887947a91369e", null ],
-    [ "HandleDeserterBGRemove", "d1/df3/a12252.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
-    [ "HandleDeserterBGRemoveAll", "d1/df3/a12252.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
-    [ "HandleDeserterInstanceAdd", "d1/df3/a12252.html#aabd2b23e2dc61fac10890077b41d8179", null ],
-    [ "HandleDeserterInstanceRemove", "d1/df3/a12252.html#a3197e5228284ba50da7f3a31b3e76060", null ],
-    [ "HandleDeserterInstanceRemoveAll", "d1/df3/a12252.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
-    [ "HandleDeserterRemove", "d1/df3/a12252.html#a210dc9a7eddede6fe976157d6b22b683", null ],
-    [ "HandleDeserterRemoveAll", "d1/df3/a12252.html#a6274f79b9884586069f94137b44d89e9", null ]
+    [ "WardenWin", "d1/df3/a12252.html#ace17ee6e11a0c88478dc9f24c1c7db8f", null ],
+    [ "~WardenWin", "d1/df3/a12252.html#ac1264c71c1e6f80fa70bf1794aa41368", null ],
+    [ "ForceChecks", "d1/df3/a12252.html#a2a0e780572b1870f692803caa1ef673d", null ],
+    [ "GetModuleForClient", "d1/df3/a12252.html#ad5dbc585ebb22eda2e1265f14129aa5c", null ],
+    [ "HandleData", "d1/df3/a12252.html#a9860f6b2c0beb6d730b02c99e6172690", null ],
+    [ "HandleHashResult", "d1/df3/a12252.html#a05ab06f2a7928affab20fd1b795a2d3f", null ],
+    [ "Init", "d1/df3/a12252.html#a3222620148b84a4d95593800a83ba3fa", null ],
+    [ "InitializeModule", "d1/df3/a12252.html#a2082c6a634c5b1f6cb63d376ff9a9695", null ],
+    [ "IsCheckInProgress", "d1/df3/a12252.html#aee57f10f6f4f676908c54f305210b6bc", null ],
+    [ "RequestChecks", "d1/df3/a12252.html#a9a3e9b53f66e97a615c288058b9adcf3", null ],
+    [ "RequestHash", "d1/df3/a12252.html#abb53eb2b1d9dc95f8e77d12d4086c6c1", null ],
+    [ "_ChecksTodo", "d1/df3/a12252.html#a61d85f3e94cb64aedbc977c74a64e0be", null ],
+    [ "_CurrentChecks", "d1/df3/a12252.html#a9cb49a2629d08e0f54d363f81c284425", null ],
+    [ "_PendingChecks", "d1/df3/a12252.html#a463e1f12600b12ddf54f762093ae57f0", null ],
+    [ "_serverTicks", "d1/df3/a12252.html#a79e969e649fa057cd3a1a835837188c6", null ]
 ];

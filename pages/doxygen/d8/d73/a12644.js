@@ -1,6 +1,11 @@
 var a12644 =
 [
-    [ "OrcMoveEvent", "d8/d73/a12644.html#a71f7fe243741a1629bdd846fc97f0112", null ],
-    [ "Execute", "d8/d73/a12644.html#a58a3c88ed3c6b534016179949b85ff9e", null ],
-    [ "_me", "d8/d73/a12644.html#ad8d09bbb659d44e9f4b9171cea7ef7e8", null ]
+    [ "boss_emperor_dagran_thaurissan", "d8/d73/a12644.html#a33efe0ee1573c4b43cdf58bdce303e5d", null ],
+    [ "JustDied", "d8/d73/a12644.html#a526a7726e2838ef4c49cca8dd6fc68c9", null ],
+    [ "JustEngagedWith", "d8/d73/a12644.html#a182564d95dc677ea33e47995638a9a58", null ],
+    [ "KilledUnit", "d8/d73/a12644.html#a7f7ae37e4abbe37f4fa46b98af3ac03a", null ],
+    [ "SetData", "d8/d73/a12644.html#a5ccda3d76afe43804c86e193afa9b80c", null ],
+    [ "UpdateAI", "d8/d73/a12644.html#ab1c7da00e8e1a20d2592ec26862867fc", null ],
+    [ "hasYelled", "d8/d73/a12644.html#aaadeb10c22c598cd10ccde83425fbf71", null ],
+    [ "SenatorYells", "d8/d73/a12644.html#ad94aef1875a5a863f78dc84a964638f9", null ]
 ];

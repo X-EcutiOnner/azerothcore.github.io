@@ -1,6 +1,7 @@
 var a13944 =
 [
-    [ "npc_lor_themar_theron", "dd/d84/a13944.html#acf8b65675cc46949440a829fc1adf5fc", null ],
-    [ "JustDied", "dd/d84/a13944.html#ad2615cc062c8c1f4b01fc9e253fe34d4", null ],
-    [ "UpdateAI", "dd/d84/a13944.html#aa9eafbacdb75bfbf772c901ce96119c6", null ]
+    [ "PeriodicTick", "dd/d84/a13944.html#acca46d585d06d461f735cddb6075b3b1", null ],
+    [ "PrepareAuraScript", "dd/d84/a13944.html#abd7382ab22efd3d82c4f00745255d024", null ],
+    [ "Register", "dd/d84/a13944.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
+    [ "Validate", "dd/d84/a13944.html#acb31ba162452a30ff0c208829560f9fd", null ]
 ];

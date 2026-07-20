@@ -1,11 +1,7 @@
 var a18640 =
 [
-    [ "npc_terenas_menethilAI", "d9/daf/a18640.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
-    [ "CanAIAttack", "d9/daf/a18640.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
-    [ "DamageTaken", "d9/daf/a18640.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
-    [ "DoAction", "d9/daf/a18640.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
-    [ "EnterEvadeMode", "d9/daf/a18640.html#ada5313b34e8c20c82ac97396e54e27df", null ],
-    [ "UpdateAI", "d9/daf/a18640.html#a6210ca6e5e954d5c66d2108359efc888", null ],
-    [ "_events", "d9/daf/a18640.html#ae61e4919b99a2b9195a389992947a125", null ],
-    [ "_instance", "d9/daf/a18640.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
+    [ "OnPeriodic", "d9/daf/a18640.html#accd12b06341f3168c74cb18926614f7f", null ],
+    [ "OnUpdate", "d9/daf/a18640.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
+    [ "PrepareAuraScript", "d9/daf/a18640.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
+    [ "Register", "d9/daf/a18640.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
 ];

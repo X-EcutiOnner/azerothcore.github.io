@@ -1,13 +1,11 @@
 var a12148 =
 [
-    [ "CommandFinished", "d4/d93/a12148.html#af7ce6ffac9fa11ce0db6fd10919c4e4a", null ],
-    [ "Print", "d4/d93/a12148.html#ab10379cf266b38f4d81e2477b727471e", null ],
-    [ "CliCommandHolder", "d4/d93/a12148.html#a5a45e891607114cd070721fd51926cd5", null ],
-    [ "~CliCommandHolder", "d4/d93/a12148.html#a44ca7e8af5c717b1cff7b143afc077ee", null ],
-    [ "CliCommandHolder", "d4/d93/a12148.html#ad9c7b2da92d97c464fb14ad1e0b9a4a9", null ],
-    [ "operator=", "d4/d93/a12148.html#aaca241ecd81dc25788eaccbdc4aa5f60", null ],
-    [ "m_callbackArg", "d4/d93/a12148.html#a4579ce86ff43da89524b62eefe308a59", null ],
-    [ "m_command", "d4/d93/a12148.html#ae333918e09a9de4c9e402c334e076674", null ],
-    [ "m_commandFinished", "d4/d93/a12148.html#a416a66ac78f1d2cb1ee2d0d93f276f43", null ],
-    [ "m_print", "d4/d93/a12148.html#aa49897105905b9812fcf962326486d5d", null ]
+    [ "WorldUpdateTime", "d4/d93/a12148.html#a97552c4ce99bd40919f199c17fe203ed", null ],
+    [ "LoadFromConfig", "d4/d93/a12148.html#acb2b9d56504fc760e7df1c93621ab788", null ],
+    [ "RecordUpdateTime", "d4/d93/a12148.html#a88d773c8029cebeab6b99444c25c8379", null ],
+    [ "RecordUpdateTimeDuration", "d4/d93/a12148.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
+    [ "SetRecordUpdateTimeInterval", "d4/d93/a12148.html#ada81050229ccacc49d5b6a9f6101174c", null ],
+    [ "_lastRecordTime", "d4/d93/a12148.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
+    [ "_recordUpdateTimeInverval", "d4/d93/a12148.html#a5486477b0a604f0207336e423f42c2b1", null ],
+    [ "_recordUpdateTimeMin", "d4/d93/a12148.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
 ];

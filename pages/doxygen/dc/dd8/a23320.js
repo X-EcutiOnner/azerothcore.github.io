@@ -1,6 +1,5 @@
 var a23320 =
 [
-    [ "HandleEffect", "dc/dd8/a23320.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
-    [ "PrepareSpellScript", "dc/dd8/a23320.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
-    [ "Register", "dc/dd8/a23320.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
+    [ "npc_invisible_tractor_beam_source", "dc/dd8/a23320.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
+    [ "IsSummonedBy", "dc/dd8/a23320.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
 ];

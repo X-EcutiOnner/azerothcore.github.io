@@ -1,6 +1,8 @@
 var a27572 =
 [
-    [ "AfterCheckProc", "d7/d9e/a27572.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
-    [ "PrepareAuraScript", "d7/d9e/a27572.html#aa184faf59edbad97ec361e66169137b9", null ],
-    [ "Register", "d7/d9e/a27572.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
+    [ "ApplyEffect", "d7/d9e/a27572.html#a0c303c58064236969e17d1f2df3e0556", null ],
+    [ "PrepareAuraScript", "d7/d9e/a27572.html#a716a483282946f840ac15d73c6e21a94", null ],
+    [ "Register", "d7/d9e/a27572.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
+    [ "RemoveEffect", "d7/d9e/a27572.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
+    [ "Validate", "d7/d9e/a27572.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
 ];

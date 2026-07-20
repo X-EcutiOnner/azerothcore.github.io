@@ -1,7 +1,8 @@
 var a26548 =
 [
-    [ "HandleHeal", "d8/d11/a26548.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
-    [ "PrepareSpellScript", "d8/d11/a26548.html#a9de9260bc1e2582138c58a708e5d899c", null ],
-    [ "Register", "d8/d11/a26548.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
-    [ "Validate", "d8/d11/a26548.html#aa300822cf5455404482124a6853fb314", null ]
+    [ "CheckCast", "d8/d11/a26548.html#a0d7910cd2b9d9f4174575532502d40f9", null ],
+    [ "HandleDummy", "d8/d11/a26548.html#a1eac1eb5f39093ff48942e82728478dd", null ],
+    [ "PrepareSpellScript", "d8/d11/a26548.html#adbb58b75232560d101b291c0d99a2a20", null ],
+    [ "Register", "d8/d11/a26548.html#a6acb46e81171e13f50ac1f01bf83013b", null ],
+    [ "Validate", "d8/d11/a26548.html#a4b67c348685a8094668e4ed2f0c78446", null ]
 ];

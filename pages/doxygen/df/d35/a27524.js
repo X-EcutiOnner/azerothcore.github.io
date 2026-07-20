@@ -1,7 +1,6 @@
 var a27524 =
 [
-    [ "HandleEffect", "df/d35/a27524.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
-    [ "PrepareSpellScript", "df/d35/a27524.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
-    [ "Register", "df/d35/a27524.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
-    [ "Validate", "df/d35/a27524.html#ab6d78ecb650f13df3376baced8c40a63", null ]
+    [ "HandleDummy", "df/d35/a27524.html#a2560417162a1c17cb067cdfeb2fc909d", null ],
+    [ "PrepareSpellScript", "df/d35/a27524.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c", null ],
+    [ "Register", "df/d35/a27524.html#a27aece218c848064ae387491f9176099", null ]
 ];

@@ -1,6 +1,10 @@
 var a12976 =
 [
-    [ "HandleTriggerSpell", "db/d38/a12976.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "db/d38/a12976.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "db/d38/a12976.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "npc_core_rager", "db/d38/a12976.html#a91aec4d96359a88ee8ac70b58353d488", null ],
+    [ "DamageTaken", "db/d38/a12976.html#a7ad38b40dc33a8c875f11c4143bf9786", null ],
+    [ "Reset", "db/d38/a12976.html#a5a565f93e2b60ee0883d740cf751c143", null ],
+    [ "UpdateAI", "db/d38/a12976.html#a17466612b59d94d7f2e157d2b716cfe9", null ],
+    [ "instance", "db/d38/a12976.html#adb63c559f01ac8da42213bb8ddaf9ce0", null ],
+    [ "mangleTimer", "db/d38/a12976.html#a21bb04f15b5ffbfa4ea954922cb917ab", null ],
+    [ "rangeCheckTimer", "db/d38/a12976.html#abac888dc4c885921540ba7107d0bd732", null ]
 ];

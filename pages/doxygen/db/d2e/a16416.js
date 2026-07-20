@@ -1,6 +1,6 @@
 var a16416 =
 [
-    [ "boss_halionAI", "dc/d43/a16420.html", "dc/d43/a16420" ],
-    [ "boss_halion", "db/d2e/a16416.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
-    [ "GetAI", "db/d2e/a16416.html#a142314efb4f45ec146ab0225271d29b1", null ]
+    [ "instance_azjol_nerub_InstanceScript", "db/d2e/a16416.html#a886ed4c1485fdedcc176341210eee31a", null ],
+    [ "OnCreatureEvade", "db/d2e/a16416.html#af163238686bf22f11908f64ffb5cacca", null ],
+    [ "OnUnitDeath", "db/d2e/a16416.html#a45792f7c2d1a042d68907a0f475634d1", null ]
 ];

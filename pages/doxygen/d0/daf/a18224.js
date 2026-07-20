@@ -1,6 +1,6 @@
 var a18224 =
 [
-    [ "boss_rotfaceAI", "dc/d3f/a18228.html", "dc/d3f/a18228" ],
-    [ "boss_rotface", "d0/daf/a18224.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
-    [ "GetAI", "d0/daf/a18224.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
+    [ "MalleableGooSelector", "d0/daf/a18224.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
+    [ "operator()", "d0/daf/a18224.html#adf73957539fdcc604f849944473e0015", null ],
+    [ "me", "d0/daf/a18224.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
 ];

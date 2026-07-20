@@ -1,6 +1,7 @@
 var a19312 =
 [
-    [ "FilterTargets", "da/dae/a19312.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
-    [ "PrepareSpellScript", "da/dae/a19312.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
-    [ "Register", "da/dae/a19312.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
+    [ "npc_ioc_gunship_captainAI", "da/dae/a19312.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
+    [ "DoAction", "da/dae/a19312.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
+    [ "UpdateAI", "da/dae/a19312.html#a222b304633143bba47d3edde67ea093b", null ],
+    [ "_events", "da/dae/a19312.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
 ];

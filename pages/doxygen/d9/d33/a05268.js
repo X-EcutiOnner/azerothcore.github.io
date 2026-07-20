@@ -1,11 +1,10 @@
 var a05268 =
 [
-    [ "MmapTileHeader", "d9/d33/a05268.html#a0165f9a4caee4e4759ea261dfbac08a7", null ],
-    [ "dtVersion", "d9/d33/a05268.html#a34d3ed8c617139653176454d7fa7934e", null ],
-    [ "mmapMagic", "d9/d33/a05268.html#ace0ec88460c97f1438de2d0e6a9d7774", null ],
-    [ "mmapVersion", "d9/d33/a05268.html#a5cc3cd873419fe8aeb479d3187584410", null ],
-    [ "padding", "d9/d33/a05268.html#a6ca977b85a993eb6721e3bfe9fd3abfd", null ],
-    [ "recastConfig", "d9/d33/a05268.html#a6552d0370a83567a4d01b4c20adff8cc", null ],
-    [ "size", "d9/d33/a05268.html#a69f3284a4a56b1108792ba56c250bf97", null ],
-    [ "usesLiquids", "d9/d33/a05268.html#aeb4e622161a4bb42cff42d37542f0254", null ]
+    [ "AreaInfo", "d9/d33/a05268.html#a7cd6d0845a1fea33d4f51deb5890f9f1", null ],
+    [ "AreaInfo", "d9/d33/a05268.html#acdd6c482f37134fdc962a55771003b5c", null ],
+    [ "adtId", "d9/d33/a05268.html#aee38e987da24645d36792a1024235035", null ],
+    [ "groupId", "d9/d33/a05268.html#a6472ad95a025769da84943fc490860e1", null ],
+    [ "mogpFlags", "d9/d33/a05268.html#ae97f4c32ecee4844f2cb0fec92cb21ec", null ],
+    [ "rootId", "d9/d33/a05268.html#a5af47da55bdcb6a92356a33112a41da5", null ],
+    [ "uniqueId", "d9/d33/a05268.html#a4496a2c21c4bca0e8acbd563de282338", null ]
 ];

@@ -1,7 +1,11 @@
 var a05472 =
 [
-    [ "Secret", "da/d7f/a05472.html#aae38427994c1f4ddf3838c4e1f3f7e03", null ],
-    [ "GenerateToken", "da/d7f/a05472.html#a44829d44e78247991d9c3dde270cab5c", null ],
-    [ "ValidateToken", "da/d7f/a05472.html#ab6b27542814e577106ad587a5807d663", null ],
-    [ "RECOMMENDED_SECRET_LENGTH", "da/d7f/a05472.html#a885fc6c1a5bda166416f161ea202eb72", null ]
+    [ "ARC4", "da/d7f/a05472.html#ac05d4f85233abfc5cbcb87cd2a87bc5a", null ],
+    [ "~ARC4", "da/d7f/a05472.html#af3a8b63c2073120026c262a685eef8f2", null ],
+    [ "Init", "da/d7f/a05472.html#a68993c30cafb864abd5ae0c49ee8296e", null ],
+    [ "Init", "da/d7f/a05472.html#aaa9c89da159b57a897898bc31e10ecd4", null ],
+    [ "UpdateData", "da/d7f/a05472.html#ae350945f2713305e977e4a3e4fc3d5b5", null ],
+    [ "UpdateData", "da/d7f/a05472.html#a4023480221891e0d1ccd7a92aabd173c", null ],
+    [ "_cipher", "da/d7f/a05472.html#ab017c87cd73a9b5fade745799724c333", null ],
+    [ "_ctx", "da/d7f/a05472.html#a8539413b1e0344abe9545f742cc8e6df", null ]
 ];

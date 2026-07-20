@@ -1,7 +1,7 @@
 var a18948 =
 [
-    [ "npc_impaling_spearAI", "d7/de0/a18948.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
-    [ "Reset", "d7/de0/a18948.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
-    [ "UpdateAI", "d7/de0/a18948.html#acb187a58b0ba256b4e003655ac36db34", null ],
-    [ "_vehicleCheckTimer", "d7/de0/a18948.html#a264874b9f6f0609792d4b3a325e54f59", null ]
+    [ "PeriodicTick", "d7/de0/a18948.html#ac1bace4fc66349364c84b5784967e9bf", null ],
+    [ "PrepareAuraScript", "d7/de0/a18948.html#a358193e3340112c04f79c043548c3de0", null ],
+    [ "Register", "d7/de0/a18948.html#a28f52bc253899aa407e67f9a089c815c", null ],
+    [ "Validate", "d7/de0/a18948.html#a0dde3447e38e45cea94df44449a19a01", null ]
 ];

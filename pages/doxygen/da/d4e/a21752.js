@@ -1,6 +1,7 @@
 var a21752 =
 [
-    [ "npc_lord_areteAI", "d5/df5/a21756.html", "d5/df5/a21756" ],
-    [ "npc_lord_arete", "da/d4e/a21752.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "da/d4e/a21752.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "OnRemove", "da/d4e/a21752.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "da/d4e/a21752.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "da/d4e/a21752.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "da/d4e/a21752.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

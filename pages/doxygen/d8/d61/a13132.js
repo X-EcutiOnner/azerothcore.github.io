@@ -1,11 +1,8 @@
 var a13132 =
 [
-    [ "boss_terestian_illhoof", "d8/d61/a13132.html#a5750bf4f12ac01216335a926f885e136", null ],
-    [ "JustDied", "d8/d61/a13132.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
-    [ "JustEngagedWith", "d8/d61/a13132.html#adc1f9195954eda7ec406ac9a084b7508", null ],
-    [ "JustSummoned", "d8/d61/a13132.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
-    [ "KilledUnit", "d8/d61/a13132.html#ab7de8b406de200eec981fab79a56dcd7", null ],
-    [ "Reset", "d8/d61/a13132.html#a685b00f0e3317740412adfc48df1c3fb", null ],
-    [ "SpellHit", "d8/d61/a13132.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
-    [ "SummonKilrek", "d8/d61/a13132.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
+    [ "HandleEffectRemove", "d8/d61/a13132.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
+    [ "if", "d8/d61/a13132.html#a9e9aec7bc2773270c1063b1a3c44c07a", null ],
+    [ "PrepareAuraScript", "d8/d61/a13132.html#a4055f781a914de631187b00ba7aefeef", null ],
+    [ "Register", "d8/d61/a13132.html#aefb4bbae43558abde871548088784613", null ],
+    [ "AuraEffectHandleModes", "d8/d61/a13132.html#a7d419ba41e68b70740a867a2265824bd", null ]
 ];

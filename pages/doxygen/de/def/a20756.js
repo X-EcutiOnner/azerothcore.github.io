@@ -1,8 +1,6 @@
 var a20756 =
 [
-    [ "FilterTargets", "de/def/a20756.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
-    [ "HandleDummyEffect", "de/def/a20756.html#ab1f662fa107d176386067ffc6467d90f", null ],
-    [ "PrepareSpellScript", "de/def/a20756.html#a069cc54bf009830ad781c790b4fcedad", null ],
-    [ "Register", "de/def/a20756.html#ac91532151b689bde35d7120b1e9aec5b", null ],
-    [ "Validate", "de/def/a20756.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
+    [ "HandleScript", "de/def/a20756.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
+    [ "PrepareSpellScript", "de/def/a20756.html#a4fd05478a145157dbd8377532033ab95", null ],
+    [ "Register", "de/def/a20756.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
 ];

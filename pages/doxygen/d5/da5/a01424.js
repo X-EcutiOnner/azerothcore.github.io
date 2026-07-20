@@ -1,31 +1,20 @@
 var a01424 =
 [
-    [ "npcs_riverbreeze_and_silversky", "dc/db6/a15941.html", "dc/db6/a15941" ],
-    [ "at_ancient_leaf", "da/d3b/a15945.html", "da/d3b/a15945" ],
-    [ "AncientMisc", "d5/da5/a01424.html#adaffe09a7c2b9f9bfdc48d5068c18068", [
-      [ "QUEST_ANCIENT_LEAF", "d5/da5/a01424.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3", null ],
-      [ "NPC_VARTRUS", "d5/da5/a01424.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99", null ],
-      [ "NPC_STOMA", "d5/da5/a01424.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81", null ],
-      [ "NPC_HASTAT", "d5/da5/a01424.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04", null ],
-      [ "CREATURE_GROUP_ANCIENTS", "d5/da5/a01424.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149", null ]
+    [ "UpdatefieldFlags", "d5/da5/a01424.html#a811fc272bf3df65a461d871556356150", [
+      [ "UF_FLAG_NONE", "d5/da5/a01424.html#a811fc272bf3df65a461d871556356150a7d1b4f7f2db6116940d9d5939501821a", null ],
+      [ "UF_FLAG_PUBLIC", "d5/da5/a01424.html#a811fc272bf3df65a461d871556356150aa23748720df562a04ac4e80d7bd222da", null ],
+      [ "UF_FLAG_PRIVATE", "d5/da5/a01424.html#a811fc272bf3df65a461d871556356150ac5ff327c7c75208435488e55a3008b3c", null ],
+      [ "UF_FLAG_OWNER", "d5/da5/a01424.html#a811fc272bf3df65a461d871556356150ab1517a7b1049b7541d6de9ab69402715", null ],
+      [ "UF_FLAG_UNUSED1", "d5/da5/a01424.html#a811fc272bf3df65a461d871556356150aeead926260fb10c5449766745fd71106", null ],
+      [ "UF_FLAG_ITEM_OWNER", "d5/da5/a01424.html#a811fc272bf3df65a461d871556356150a590c2755c17b30efbb3bbff85036fb65", null ],
+      [ "UF_FLAG_SPECIAL_INFO", "d5/da5/a01424.html#a811fc272bf3df65a461d871556356150a5715410f0568125f85e318a57c281cd8", null ],
+      [ "UF_FLAG_PARTY_MEMBER", "d5/da5/a01424.html#a811fc272bf3df65a461d871556356150adabd2ae86a3e7c701374be7847446cb7", null ],
+      [ "UF_FLAG_UNUSED2", "d5/da5/a01424.html#a811fc272bf3df65a461d871556356150a6b9db4521b5b4cc023e15610eef397e1", null ],
+      [ "UF_FLAG_DYNAMIC", "d5/da5/a01424.html#a811fc272bf3df65a461d871556356150a3b75563c8e1c2bfbe672d128cce4b1e5", null ]
     ] ],
-    [ "RiverbreezeAndSilversky", "d5/da5/a01424.html#acc75d54553750c832fe50b6cb0c42427", [
-      [ "SPELL_CENARION_BEACON", "d5/da5/a01424.html#acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49", null ],
-      [ "ITEM_CENARION_BEACON", "d5/da5/a01424.html#acc75d54553750c832fe50b6cb0c42427a677781938bceb63690d56c2e2c445f46", null ],
-      [ "ACTION_CREATE_CENARION_BEACON", "d5/da5/a01424.html#acc75d54553750c832fe50b6cb0c42427acc340298bf9880e22b326c208affb4a1", null ],
-      [ "NPC_ARATHANDRIS_SILVERSKY", "d5/da5/a01424.html#acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6", null ],
-      [ "NPC_MAYBESS_RIVERBREEZE", "d5/da5/a01424.html#acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149", null ],
-      [ "QUEST_CLEASING_FELWOOD_A", "d5/da5/a01424.html#acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff", null ],
-      [ "QUEST_CLEASING_FELWOOD_H", "d5/da5/a01424.html#acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f", null ],
-      [ "GOSSIP_MENU_SILVERSKY", "d5/da5/a01424.html#acc75d54553750c832fe50b6cb0c42427a201df035f33936e3020580c82101e7f8", null ],
-      [ "GOSSIP_MENU_RIVERBREEZE", "d5/da5/a01424.html#acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc", null ],
-      [ "GOSSIP_OPTION_BEACON", "d5/da5/a01424.html#acc75d54553750c832fe50b6cb0c42427a0999bd0707a4dbe03c5715081af725e1", null ],
-      [ "TEXT_SILVERSKY_1", "d5/da5/a01424.html#acc75d54553750c832fe50b6cb0c42427a3148f1367e563486599162f32be4af21", null ],
-      [ "TEXT_SILVERSKY_2", "d5/da5/a01424.html#acc75d54553750c832fe50b6cb0c42427a62011283d742f7947270994268e055de", null ],
-      [ "TEXT_SILVERSKY_3", "d5/da5/a01424.html#acc75d54553750c832fe50b6cb0c42427af033b1f55bfbe0ccfd66cd1df7b50289", null ],
-      [ "TEXT_RIVERBREEZE_1", "d5/da5/a01424.html#acc75d54553750c832fe50b6cb0c42427ac53b44e51816fbef84a98123a317125e", null ],
-      [ "TEXT_RIVERBREEZE_2", "d5/da5/a01424.html#acc75d54553750c832fe50b6cb0c42427a06658a3d493565d3f8a42555e037fa40", null ],
-      [ "TEXT_RIVERBREEZE_3", "d5/da5/a01424.html#acc75d54553750c832fe50b6cb0c42427a1d15502f6a496af4174cb3c5960818b5", null ]
-    ] ],
-    [ "AddSC_felwood", "d5/da5/a01424.html#a63ae28c9f250057b35a18fb585c6a2cf", null ]
+    [ "CorpseUpdateFieldFlags", "d5/da5/a01424.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
+    [ "DynamicObjectUpdateFieldFlags", "d5/da5/a01424.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
+    [ "GameObjectUpdateFieldFlags", "d5/da5/a01424.html#aee13b862f51557c371d3d93341128895", null ],
+    [ "ItemUpdateFieldFlags", "d5/da5/a01424.html#ac1cca7ecf1650663132e3e220d771adf", null ],
+    [ "UnitUpdateFieldFlags", "d5/da5/a01424.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
 ];

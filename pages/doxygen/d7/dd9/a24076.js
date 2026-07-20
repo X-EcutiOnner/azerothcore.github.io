@@ -1,9 +1,6 @@
 var a24076 =
 [
-    [ "npc_pet_gen_fetch_ball", "d7/dd9/a24076.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
-    [ "IsSummonedBy", "d7/dd9/a24076.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
-    [ "SpellHitTarget", "d7/dd9/a24076.html#a87bdded236f6584d9b71507a1253f7d0", null ],
-    [ "UpdateAI", "d7/dd9/a24076.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
-    [ "checkTimer", "d7/dd9/a24076.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
-    [ "targetGUID", "d7/dd9/a24076.html#ae474374af7c2270e218ed236d90c789c", null ]
+    [ "npc_enraged_spiritAI", "d1/dfb/a24080.html", "d1/dfb/a24080" ],
+    [ "npc_enraged_spirit", "d7/dd9/a24076.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "d7/dd9/a24076.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

@@ -1,6 +1,5 @@
 var a24036 =
 [
-    [ "achievement", "df/d27/a24036.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "df/d27/a24036.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "df/d27/a24036.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "creature", "df/d27/a24036.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
+    [ "Timer", "df/d27/a24036.html#a2be497dc190c1f01f939e12083739882", null ]
 ];

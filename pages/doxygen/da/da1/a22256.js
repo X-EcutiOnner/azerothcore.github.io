@@ -1,14 +1,9 @@
 var a22256 =
 [
-    [ "event_enter", "da/da1/a22256.html#ac80d575f14dca1c901be55e34cc690e1", null ],
-    [ "event_leave", "da/da1/a22256.html#a3dc0a11a5c06079026d27852e7561b74", null ],
-    [ "map_tower_a", "da/da1/a22256.html#a9a65209caac3791b835c1920f5a667cf", null ],
-    [ "map_tower_h", "da/da1/a22256.html#aa30ae484db7c69137abb13adb1b3c505", null ],
-    [ "map_tower_n", "da/da1/a22256.html#a0453edceab2132e900bec183e360e210", null ],
-    [ "slider_disp", "da/da1/a22256.html#aec3c8dde769675e3f436515c7a3bcf24", null ],
-    [ "slider_n", "da/da1/a22256.html#a65015a3a24a5554643ecb5da47e24eea", null ],
-    [ "slider_pos", "da/da1/a22256.html#acc63481f7613242ac06c6bee6c136a30", null ],
-    [ "ui_tower_a", "da/da1/a22256.html#a0107bfd3b1df99568e02d6ca80042c86", null ],
-    [ "ui_tower_h", "da/da1/a22256.html#a94a5fa0517fd0713b74f50a3d1d627cc", null ],
-    [ "ui_tower_n", "da/da1/a22256.html#ae0fd99db88e6c60b829a18ff8e4be9a0", null ]
+    [ "HandleFinish", "da/da1/a22256.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "da/da1/a22256.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "da/da1/a22256.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "da/da1/a22256.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "da/da1/a22256.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "da/da1/a22256.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

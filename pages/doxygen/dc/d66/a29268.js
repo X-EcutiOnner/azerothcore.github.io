@@ -1,6 +1,8 @@
 var a29268 =
 [
-    [ "canProcDuringTrigger", "dc/d66/a29268.html#a10e8ad619c9766fdf49cd29662c3d9e0", null ],
-    [ "procDeepDuringTrigger", "dc/d66/a29268.html#a5df33ebca29ea3ce1088307c138a28e4", null ],
-    [ "spellId", "dc/d66/a29268.html#ac63803a380695f311a39cd62a4f298b4", null ]
+    [ "MapDifficulty", "dc/d66/a29268.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
+    [ "MapDifficulty", "dc/d66/a29268.html#a227aec55b5b774076882ea34f70d5d88", null ],
+    [ "hasErrorMessage", "dc/d66/a29268.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
+    [ "maxPlayers", "dc/d66/a29268.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
+    [ "resetTime", "dc/d66/a29268.html#a7190131620b9eee0897ac7b4dd62949e", null ]
 ];

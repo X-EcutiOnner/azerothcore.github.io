@@ -1,6 +1,9 @@
 var a23628 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d8/d9f/a23632.html", "d8/d9f/a23632" ],
-    [ "npc_deaths_door_fell_cannon_target_bunny", "df/de4/a23628.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
-    [ "GetAI", "df/de4/a23628.html#a250707096229da28024960beeb7725bf", null ]
+    [ "HandleEffectApply", "df/de4/a23628.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "df/de4/a23628.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "df/de4/a23628.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "df/de4/a23628.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "df/de4/a23628.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "df/de4/a23628.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

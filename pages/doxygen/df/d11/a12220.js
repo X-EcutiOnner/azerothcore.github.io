@@ -1,8 +1,4 @@
 var a12220 =
 [
-    [ "cache_commandscript", "df/d11/a12220.html#a709e1d02632aed18113c1adb52e962b5", null ],
-    [ "GetCommands", "df/d11/a12220.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
-    [ "HandleCacheDeleteCommand", "df/d11/a12220.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
-    [ "HandleCacheInfoCommand", "df/d11/a12220.html#aa9bce5578450a35909a4e481bc21867f", null ],
-    [ "HandleCacheRefreshCommand", "df/d11/a12220.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
+    [ "Result", "df/d11/a12220.html#afcac99b5c5e876f3da1a72c1063c465f", null ]
 ];

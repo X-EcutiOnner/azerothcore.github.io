@@ -1,5 +1,6 @@
 var a16164 =
 [
-    [ "achievement_respect_your_elders", "df/dac/a16164.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
-    [ "OnCheck", "df/dac/a16164.html#a770922be3ab19848f7a8f43a82d78b88", null ]
+    [ "HandleDummy", "df/dac/a16164.html#a2750ae788168e7496ea2345c5535509c", null ],
+    [ "PrepareSpellScript", "df/dac/a16164.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
+    [ "Register", "df/dac/a16164.html#ab6c961d89d22761402eb4f5881cbd318", null ]
 ];

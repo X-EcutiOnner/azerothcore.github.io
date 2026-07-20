@@ -1,5 +1,7 @@
 var a12656 =
 [
-    [ "at_trigger_the_beast_movement", "d1/d9f/a12656.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
-    [ "OnTrigger", "d1/d9f/a12656.html#a333d685d765497a950fde35067d876a1", null ]
+    [ "boss_gorosh_the_dervish", "d1/d9f/a12656.html#a49b79326e3eae3f42be4955f30982ffe", null ],
+    [ "JustEngagedWith", "d1/d9f/a12656.html#ad3b7ab3db30d16549cd85c471bbb190b", null ],
+    [ "UpdateAI", "d1/d9f/a12656.html#adf24561c335f1023f44f76709e66bc83", null ],
+    [ "nextWhirlwindTime", "d1/d9f/a12656.html#a61b57a2db3d097a0da74a502fb272339", null ]
 ];

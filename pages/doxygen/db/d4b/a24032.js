@@ -1,9 +1,5 @@
 var a24032 =
 [
-    [ "npc_pet_gen_soul_trader_beacon", "db/d4b/a24032.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
-    [ "GetOwner", "db/d4b/a24032.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
-    [ "SpellHitTarget", "db/d4b/a24032.html#a6c0d3181b913c5022325f66586f66bfa", null ],
-    [ "UpdateAI", "db/d4b/a24032.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
-    [ "events", "db/d4b/a24032.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
-    [ "ownerGUID", "db/d4b/a24032.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
+    [ "npc_karynaku", "db/d4b/a24032.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
+    [ "OnQuestAccept", "db/d4b/a24032.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
 ];

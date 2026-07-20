@@ -1,6 +1,6 @@
 var a26596 =
 [
-    [ "HandleProc", "db/d2e/a26596.html#ac81521531646341356525465bac2a816", null ],
-    [ "PrepareAuraScript", "db/d2e/a26596.html#aa57cede2bfc6354c8b95410d8fb50575", null ],
-    [ "Register", "db/d2e/a26596.html#a8daf8414ff4705741dfed0e818607741", null ]
+    [ "CheckCast", "db/d2e/a26596.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
+    [ "PrepareSpellScript", "db/d2e/a26596.html#a33e86d770e926247c58c00143b55c418", null ],
+    [ "Register", "db/d2e/a26596.html#a453c7fa25baf458c9a319053ca726621", null ]
 ];

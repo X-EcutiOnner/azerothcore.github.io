@@ -1,8 +1,13 @@
 var a14812 =
 [
-    [ "OnApply", "d2/d74/a14812.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
-    [ "OnRemove", "d2/d74/a14812.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
-    [ "PrepareAuraScript", "d2/d74/a14812.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
-    [ "Register", "d2/d74/a14812.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
-    [ "Validate", "d2/d74/a14812.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
+    [ "go_firework_show", "d2/d74/a14812.html#a42123490a9752f2187023f3f3ae56333", null ],
+    [ "InitShow", "d2/d74/a14812.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
+    [ "SpawnNextFirework", "d2/d74/a14812.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
+    [ "StartShow", "d2/d74/a14812.html#af637d1436655e44738b55040196533d3", null ],
+    [ "StopShow", "d2/d74/a14812.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
+    [ "UpdateAI", "d2/d74/a14812.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
+    [ "_curIdx", "d2/d74/a14812.html#a92613337cf2473e585b98b92bdcbce92", null ],
+    [ "_scheduler", "d2/d74/a14812.html#a6248d36087d8fae9cfa47f473613f886", null ],
+    [ "_show", "d2/d74/a14812.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
+    [ "_showRunning", "d2/d74/a14812.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
 ];

@@ -1,6 +1,8 @@
 var a14880 =
 [
-    [ "HandleDummy", "dc/dda/a14880.html#a5e0797e5af760b618b1498f405766de8", null ],
-    [ "PrepareSpellScript", "dc/dda/a14880.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
-    [ "Register", "dc/dda/a14880.html#a2254e486bda73e07f8327c3412c7852b", null ]
+    [ "npc_hallows_end_train_fire", "dc/dda/a14880.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
+    [ "Reset", "dc/dda/a14880.html#afdda52e0adce23f56fa9d1357469a17d", null ],
+    [ "SpellHit", "dc/dda/a14880.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
+    [ "UpdateAI", "dc/dda/a14880.html#a686a565e1743c31166d8d57f67a0adce", null ],
+    [ "timer", "dc/dda/a14880.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
 ];

@@ -1,18 +1,9 @@
 var a12132 =
 [
-    [ "WardenWin", "d5/d41/a12132.html#ace17ee6e11a0c88478dc9f24c1c7db8f", null ],
-    [ "~WardenWin", "d5/d41/a12132.html#ac1264c71c1e6f80fa70bf1794aa41368", null ],
-    [ "ForceChecks", "d5/d41/a12132.html#a2a0e780572b1870f692803caa1ef673d", null ],
-    [ "GetModuleForClient", "d5/d41/a12132.html#ad5dbc585ebb22eda2e1265f14129aa5c", null ],
-    [ "HandleData", "d5/d41/a12132.html#a9860f6b2c0beb6d730b02c99e6172690", null ],
-    [ "HandleHashResult", "d5/d41/a12132.html#a05ab06f2a7928affab20fd1b795a2d3f", null ],
-    [ "Init", "d5/d41/a12132.html#a3222620148b84a4d95593800a83ba3fa", null ],
-    [ "InitializeModule", "d5/d41/a12132.html#a2082c6a634c5b1f6cb63d376ff9a9695", null ],
-    [ "IsCheckInProgress", "d5/d41/a12132.html#aee57f10f6f4f676908c54f305210b6bc", null ],
-    [ "RequestChecks", "d5/d41/a12132.html#a9a3e9b53f66e97a615c288058b9adcf3", null ],
-    [ "RequestHash", "d5/d41/a12132.html#abb53eb2b1d9dc95f8e77d12d4086c6c1", null ],
-    [ "_ChecksTodo", "d5/d41/a12132.html#a61d85f3e94cb64aedbc977c74a64e0be", null ],
-    [ "_CurrentChecks", "d5/d41/a12132.html#a9cb49a2629d08e0f54d363f81c284425", null ],
-    [ "_PendingChecks", "d5/d41/a12132.html#a463e1f12600b12ddf54f762093ae57f0", null ],
-    [ "_serverTicks", "d5/d41/a12132.html#a79e969e649fa057cd3a1a835837188c6", null ]
+    [ "CreatureTextLocalizer", "d5/d41/a12132.html#a799f1007b9977224d71da1451c3454e1", null ],
+    [ "~CreatureTextLocalizer", "d5/d41/a12132.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
+    [ "operator()", "d5/d41/a12132.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
+    [ "_builder", "d5/d41/a12132.html#a1d8d97d3e423810d044a8155b182899d", null ],
+    [ "_msgType", "d5/d41/a12132.html#adf9260955b0141e85ff47c66350244e2", null ],
+    [ "_packetCache", "d5/d41/a12132.html#a660b352a1c1855f4b10a8aebef88133f", null ]
 ];

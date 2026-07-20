@@ -1,8 +1,13 @@
 var a05352 =
 [
-    [ "GModelRayCallback", "dd/d2f/a05352.html#a39bc53ae3bf18800ea215a5a54568606", null ],
-    [ "operator()", "dd/d2f/a05352.html#af0072bed861fb89a63c37fd72482ed42", null ],
-    [ "hit", "dd/d2f/a05352.html#ad8861bd8f8c15ff9955c62f5cb1e13bf", null ],
-    [ "triangles", "dd/d2f/a05352.html#a09ef515a1b16d184071e708ed9245b3d", null ],
-    [ "vertices", "dd/d2f/a05352.html#af80815b123c6611f38e3d5b41e501546", null ]
+    [ "GroupModel_Raw", "dd/d2f/a05352.html#a8decfdc365b823f8f147ee9bfa3613b0", null ],
+    [ "~GroupModel_Raw", "dd/d2f/a05352.html#a1381249a1bbe9c1cf383097ef94c6eb7", null ],
+    [ "Read", "dd/d2f/a05352.html#ad3bcd782124868cd1df0efea2b500ba5", null ],
+    [ "bounds", "dd/d2f/a05352.html#a830d79fdd2f21164bd805051352a3aa8", null ],
+    [ "GroupWMOID", "dd/d2f/a05352.html#ab9e9650c5ebf5a81b92cff27dd23a25a", null ],
+    [ "liquid", "dd/d2f/a05352.html#ac801d04ca4c643d2b8eba5199a8d0fac", null ],
+    [ "liquidflags", "dd/d2f/a05352.html#ac379f459d0fff6b1848dc52bd21ef393", null ],
+    [ "mogpflags", "dd/d2f/a05352.html#a339767ed24a9f0ecf426e47d3bf6e4b5", null ],
+    [ "triangles", "dd/d2f/a05352.html#af692734697f525672027f251addebe6d", null ],
+    [ "vertexArray", "dd/d2f/a05352.html#ad73c215408218900973df4dbdd8fcd18", null ]
 ];

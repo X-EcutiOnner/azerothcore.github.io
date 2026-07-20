@@ -1,7 +1,13 @@
 var a28272 =
 [
-    [ "npc_crashin_thrashin_robot", "d5/d6f/a28272.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "d5/d6f/a28272.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "d5/d6f/a28272.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "d5/d6f/a28272.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "npc_nelsonAI", "d5/d6f/a28272.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
+    [ "DoAction", "d5/d6f/a28272.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
+    [ "JustEngagedWith", "d5/d6f/a28272.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
+    [ "JustSummoned", "d5/d6f/a28272.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
+    [ "Reset", "d5/d6f/a28272.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
+    [ "SpellHit", "d5/d6f/a28272.html#afab81d8a6077c755c186bb619944d78d", null ],
+    [ "SummonedCreatureDies", "d5/d6f/a28272.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
+    [ "UpdateAI", "d5/d6f/a28272.html#ac68749942f37de5f9105556fe7b904b7", null ],
+    [ "events", "d5/d6f/a28272.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
+    [ "shouldDespawn", "d5/d6f/a28272.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
 ];

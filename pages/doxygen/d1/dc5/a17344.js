@@ -1,7 +1,8 @@
 var a17344 =
 [
-    [ "npc_pos_icicle_triggerAI", "d1/dc5/a17344.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
-    [ "UpdateAI", "d1/dc5/a17344.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
-    [ "pInstance", "d1/dc5/a17344.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
-    [ "timer", "d1/dc5/a17344.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
+    [ "npc_hor_raging_ghoul", "d1/dc5/a17344.html#a733d4ad92566a13ace3427aae6696bac", null ],
+    [ "JustDied", "d1/dc5/a17344.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
+    [ "Reset", "d1/dc5/a17344.html#aad6424be7dd53b59016963cefffe40e5", null ],
+    [ "UpdateAI", "d1/dc5/a17344.html#af4024393b318ca702c6652e042036b26", null ],
+    [ "leaped", "d1/dc5/a17344.html#a69dea538a87ae47de221768b6de42315", null ]
 ];

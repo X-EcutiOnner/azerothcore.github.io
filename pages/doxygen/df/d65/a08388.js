@@ -1,8 +1,7 @@
 var a08388 =
 [
-    [ "bounding_radius", "df/d65/a08388.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
-    [ "combat_reach", "df/d65/a08388.html#ac271edb10093db19e4df1396053f820d", null ],
-    [ "gender", "df/d65/a08388.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
-    [ "is_trigger", "df/d65/a08388.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
-    [ "modelid_other_gender", "df/d65/a08388.html#a222b3c513a64b385954ea549e67f4255", null ]
+    [ "ForcedDespawnDelayEvent", "df/d65/a08388.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
+    [ "Execute", "df/d65/a08388.html#a735c709b269458911bd93da1902cbe25", null ],
+    [ "m_owner", "df/d65/a08388.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
+    [ "m_respawnTimer", "df/d65/a08388.html#a5db78930a1fda07f2020b23158ebb93d", null ]
 ];

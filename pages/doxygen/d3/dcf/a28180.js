@@ -1,11 +1,10 @@
 var a28180 =
 [
-    [ "npc_injured_patientAI", "d3/dcf/a28180.html#a0973487623f1771c598648bc06a6d9a3", null ],
-    [ "JustEngagedWith", "d3/dcf/a28180.html#a621a8cc3f6b9655760431d52766ca589", null ],
-    [ "Reset", "d3/dcf/a28180.html#a007c9c7a4047374574cad17e9309d7c1", null ],
-    [ "SpellHit", "d3/dcf/a28180.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
-    [ "UpdateAI", "d3/dcf/a28180.html#a54d0a5574175747779878dce0ebfd44f", null ],
-    [ "_scheduler", "d3/dcf/a28180.html#a60428fa97c8f6520338d53ed368c4c35", null ],
-    [ "Coord", "d3/dcf/a28180.html#af5a6f87c0379edd07a8756018b0c8661", null ],
-    [ "DoctorGUID", "d3/dcf/a28180.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
+    [ "guard_shattrath_aldorAI", "d3/dcf/a28180.html#a88961dfe4100dfe207af693a1eed86ad", null ],
+    [ "Reset", "d3/dcf/a28180.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
+    [ "UpdateAI", "d3/dcf/a28180.html#ac87ee12d4487971b68c70f06f63eb410", null ],
+    [ "banishTimer", "d3/dcf/a28180.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
+    [ "canTeleport", "d3/dcf/a28180.html#af4d933b56431d2f2755d87fb05922458", null ],
+    [ "exileTimer", "d3/dcf/a28180.html#a8d56205206f3e14184922f96873456ad", null ],
+    [ "playerGUID", "d3/dcf/a28180.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
 ];

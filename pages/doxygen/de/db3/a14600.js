@@ -1,10 +1,16 @@
 var a14600 =
 [
-    [ "npc_coren_direbrew_sisters", "de/db3/a14600.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
-    [ "GetGUID", "de/db3/a14600.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
-    [ "JustEngagedWith", "de/db3/a14600.html#a34e0b6af032240c152c463c221d99335", null ],
-    [ "SetGUID", "de/db3/a14600.html#a8b25691671f4a65e990e9f39c92214ae", null ],
-    [ "UpdateAI", "de/db3/a14600.html#a7434b08d12d3f0902d1944b75323560c", null ],
-    [ "_scheduler", "de/db3/a14600.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
-    [ "_targetGUID", "de/db3/a14600.html#a801a6811124a7db3a31ec492ef954b20", null ]
+    [ "boss_renatakiAI", "de/db3/a14600.html#ac154bfadeb99d67f59e1682de257e8bf", null ],
+    [ "CanAIAttack", "de/db3/a14600.html#af20dc14dc56500e568a3a11bfb34a227", null ],
+    [ "CanAlwaysBeDetectable", "de/db3/a14600.html#af75108eacb982586f43a175beede78ef", null ],
+    [ "CanBeSeen", "de/db3/a14600.html#ac79db0d4488702be0cd12b5e03a9bcb9", null ],
+    [ "CanSeeAlways", "de/db3/a14600.html#a6e4a1e9bec67a1bdac4c9cef3da4b17d", null ],
+    [ "DamageTaken", "de/db3/a14600.html#a62d97adb310b55a2235737b854dc4aca", null ],
+    [ "JustEngagedWith", "de/db3/a14600.html#a72e9a85d2215d3da197d50b6aa0b769e", null ],
+    [ "Reset", "de/db3/a14600.html#ad50d8e24fb4168186497c5cdb5b39a68", null ],
+    [ "UpdateAI", "de/db3/a14600.html#a3a1abaef460d9abe1298080080d74c9d", null ],
+    [ "_dynamicFlags", "de/db3/a14600.html#a502bfa737cf97ae909144278a3e39bd0", null ],
+    [ "_enraged", "de/db3/a14600.html#a71e717a2ea732729762aff7970439f74", null ],
+    [ "_thousandBladesCount", "de/db3/a14600.html#a29dd57c66245f30d12f32d31cc25cd55", null ],
+    [ "_thousandBladesTargets", "de/db3/a14600.html#ab8b2b52a2ef8ea6586381234c9a3e3fc", null ]
 ];

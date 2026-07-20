@@ -1,6 +1,6 @@
 var a14684 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "de/d8e/a14688.html", "de/d8e/a14688" ],
-    [ "npc_grizzlemaw_cw_trigger", "d1/d59/a14684.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
-    [ "GetAI", "d1/d59/a14684.html#a1a834bda866033a3cca4fc4ece447313", null ]
+    [ "HandleEffectApply", "d1/d59/a14684.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
+    [ "PrepareAuraScript", "d1/d59/a14684.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
+    [ "Register", "d1/d59/a14684.html#a2b39daf6fe325cfa909b964da62c2571", null ]
 ];

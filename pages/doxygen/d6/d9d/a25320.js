@@ -1,7 +1,6 @@
 var a25320 =
 [
-    [ "HandleDummy", "d6/d9d/a25320.html#a5b25d03bb22995e1ba9deb7eec4ee35a", null ],
-    [ "Load", "d6/d9d/a25320.html#a833d9abe12cb4fff1700b97bc7215c1d", null ],
-    [ "PrepareSpellScript", "d6/d9d/a25320.html#a547b3f71f9fc502dc589ad7b9b6f3cc2", null ],
-    [ "Register", "d6/d9d/a25320.html#ae7d502253b0c47921e40da4aa87b0eef", null ]
+    [ "CalculateDamage", "d6/d9d/a25320.html#a2b0d2465c42bb32a2e0a2be1884eddb6", null ],
+    [ "PrepareSpellScript", "d6/d9d/a25320.html#a4271f026fd9cddeb109761e9b864c381", null ],
+    [ "Register", "d6/d9d/a25320.html#a03bb4cf19328efa783600273663b609a", null ]
 ];

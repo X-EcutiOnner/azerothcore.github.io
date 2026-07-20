@@ -1,16 +1,13 @@
 var a17272 =
 [
-    [ "boss_ickAI", "df/d52/a17272.html#a72c90af745b63202edc36b84b3f4df12", null ],
-    [ "CanAIAttack", "df/d52/a17272.html#afa3a7ef19f014ed9c46be4a3adc83aa3", null ],
-    [ "DamageTaken", "df/d52/a17272.html#a96d39b533a96503d59c41c9e7cdd4ac4", null ],
-    [ "GetKrick", "df/d52/a17272.html#a2d6192f314e76886204c7248d141260a", null ],
-    [ "JustDied", "df/d52/a17272.html#afd7752ee19dcc6be0b28181bb4485146", null ],
-    [ "JustEngagedWith", "df/d52/a17272.html#a27598604e65417225acd41d6f05cc717", null ],
-    [ "JustSummoned", "df/d52/a17272.html#abf700d993e1cfaa0cc64d90903bfa842", null ],
-    [ "KilledUnit", "df/d52/a17272.html#a618c4e704d9a90d8bf4fac2d22bda6b3", null ],
-    [ "Reset", "df/d52/a17272.html#a9ba668208cda4dd33fd4eacb04476e2e", null ],
-    [ "SpellHitTarget", "df/d52/a17272.html#a5d90395d45509f8aeb244f4a4743d07d", null ],
-    [ "UpdateAI", "df/d52/a17272.html#a74bd63ac9558ecec52affaa7440360a1", null ],
-    [ "events", "df/d52/a17272.html#aab514bb5f930d9eb545a279181632796", null ],
-    [ "pInstance", "df/d52/a17272.html#a1ad5a6809ffe750a5538dc650a437b81", null ]
+    [ "instance_forge_of_souls_InstanceScript", "df/d52/a17272.html#ae39e116a01c17592037e12185a03201a", null ],
+    [ "CheckAchievementCriteriaMeet", "df/d52/a17272.html#a534c7f97e7425160f9a2b1e555d0aa29", null ],
+    [ "HandleOutro", "df/d52/a17272.html#aadf4a99e89f354901ff63c600725b07f", null ],
+    [ "OnCreatureCreate", "df/d52/a17272.html#a7570ef3ca74178fec80c5018cbecf42a", null ],
+    [ "OnPlayerEnter", "df/d52/a17272.html#aac223f0ae25071d3323052c52c887636", null ],
+    [ "SetBossState", "df/d52/a17272.html#a76241f1358b8e6c7660f76c98e1556e7", null ],
+    [ "GuardFirstGUID", "df/d52/a17272.html#ae2e33eee94f285b9d4c2c747dec52714", null ],
+    [ "GuardSecondGUID", "df/d52/a17272.html#a68c2495f80ac2b53c8f46c857472709c", null ],
+    [ "LeaderFirstGUID", "df/d52/a17272.html#acaa05485af70315b1d091e5c9bbb7217", null ],
+    [ "LeaderSecondGUID", "df/d52/a17272.html#a165f784f54e178b51ac899aff6f12747", null ]
 ];

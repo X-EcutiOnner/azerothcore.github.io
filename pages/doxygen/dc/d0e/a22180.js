@@ -1,15 +1,7 @@
 var a22180 =
 [
-    [ "OutdoorPvPEP", "dc/d0e/a22180.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
-    [ "BuffTeams", "dc/d0e/a22180.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
-    [ "FillInitialWorldStates", "dc/d0e/a22180.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
-    [ "HandlePlayerEnterZone", "dc/d0e/a22180.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
-    [ "HandlePlayerLeaveZone", "dc/d0e/a22180.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
-    [ "SendRemoveWorldStates", "dc/d0e/a22180.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
-    [ "SetControlledState", "dc/d0e/a22180.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
-    [ "SetupOutdoorPvP", "dc/d0e/a22180.html#acecc8126180c027cb3d685231e55d873", null ],
-    [ "Update", "dc/d0e/a22180.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
-    [ "EP_ControlsId", "dc/d0e/a22180.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
-    [ "m_AllianceTowersControlled", "dc/d0e/a22180.html#a09e5cf029656af3fc740b236596d42ee", null ],
-    [ "m_HordeTowersControlled", "dc/d0e/a22180.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
+    [ "OnApply", "dc/d0e/a22180.html#ad026db5f19c376d9a87f7a1554502809", null ],
+    [ "OnRemove", "dc/d0e/a22180.html#a0264c6f6f41da3644a803265399f1d82", null ],
+    [ "PrepareAuraScript", "dc/d0e/a22180.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
+    [ "Register", "dc/d0e/a22180.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
 ];

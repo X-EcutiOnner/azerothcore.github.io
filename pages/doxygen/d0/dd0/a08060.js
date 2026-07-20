@@ -1,5 +1,4 @@
 var a08060 =
 [
-    [ "IsColorValid", "d0/dd0/a08060.html#ab291dc8bdb852a8386c2a3d1bd18cfad", null ],
-    [ "IsTextValid", "d0/dd0/a08060.html#ab9c8e4926f593058bf247f33b6089bc3", null ]
+    [ "type", "d0/dd0/a08060.html#a20bf3321a2bb91eead362115f5c9bcc7", null ]
 ];

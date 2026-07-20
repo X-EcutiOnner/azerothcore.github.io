@@ -1,16 +1,8 @@
 var a21060 =
 [
-    [ "boss_emalonAI", "d6/d2b/a21060.html#ac87b3ea34e9781f3843321ef874321fe", null ],
-    [ "AttackStart", "d6/d2b/a21060.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
-    [ "JustDied", "d6/d2b/a21060.html#a79a05156b690140e955a6e850ac41e5b", null ],
-    [ "JustEngagedWith", "d6/d2b/a21060.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
-    [ "JustSummoned", "d6/d2b/a21060.html#a895f302d336faa0c3f93854314d3b427", null ],
-    [ "Reset", "d6/d2b/a21060.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
-    [ "ResetSummons", "d6/d2b/a21060.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
-    [ "SpellHitTarget", "d6/d2b/a21060.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
-    [ "SummonedCreatureDies", "d6/d2b/a21060.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
-    [ "UpdateAI", "d6/d2b/a21060.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
-    [ "events", "d6/d2b/a21060.html#a78312371e28b4be3c072dc870370b577", null ],
-    [ "pInstance", "d6/d2b/a21060.html#af4cc6489905f9702999cc23fd6a920c2", null ],
-    [ "summons", "d6/d2b/a21060.html#a1b6ccd418114e57a0c843cc980a56243", null ]
+    [ "CheckProc", "d6/d2b/a21060.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
+    [ "HandleProc", "d6/d2b/a21060.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
+    [ "PrepareAuraScript", "d6/d2b/a21060.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
+    [ "Register", "d6/d2b/a21060.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
+    [ "Validate", "d6/d2b/a21060.html#ad4176f188412053b9205820fb6183d38", null ]
 ];

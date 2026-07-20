@@ -1,7 +1,10 @@
 var a17680 =
 [
-    [ "achievement_once_bitten_twice_shy", "d2/d80/a17680.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
-    [ "OnCheck", "d2/d80/a17680.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
-    [ "_spawnMode", "d2/d80/a17680.html#a6f02f5ab07143ddff553279049714902", null ],
-    [ "_wasVampire", "d2/d80/a17680.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
+    [ "npc_dark_nucleusAI", "d2/d80/a17680.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
+    [ "AttackStart", "d2/d80/a17680.html#a3dec28dd13257b944df0c559d26a76e0", null ],
+    [ "DamageTaken", "d2/d80/a17680.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
+    [ "JustDied", "d2/d80/a17680.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
+    [ "Reset", "d2/d80/a17680.html#ac84f79f84e721ab1306c8eed8658b143", null ],
+    [ "UpdateAI", "d2/d80/a17680.html#a3a08457c34d4dd904a99a78875d6318c", null ],
+    [ "timer", "d2/d80/a17680.html#ac5f9824276987b81aef5cfee05158049", null ]
 ];

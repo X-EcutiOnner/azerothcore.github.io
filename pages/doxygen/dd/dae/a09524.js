@@ -1,12 +1,12 @@
 var a09524 =
 [
-    [ "VisibleNotifier", "dd/dae/a09524.html#ae449b96de3eff1759869438dd90f6513", null ],
-    [ "SendToSelf", "dd/dae/a09524.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
-    [ "Visit", "dd/dae/a09524.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
-    [ "Visit", "dd/dae/a09524.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
-    [ "Visit", "dd/dae/a09524.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
-    [ "i_data", "dd/dae/a09524.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
-    [ "i_gobjOnly", "dd/dae/a09524.html#a019182fa8a629d796982f9cc565d9bc3", null ],
-    [ "i_player", "dd/dae/a09524.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
-    [ "i_visibleNow", "dd/dae/a09524.html#a34d766816baaad7b1b3623360ec9abeb", null ]
+    [ "FloatHeightData", "d6/df4/a09536.html", "d6/df4/a09536" ],
+    [ "Uint16HeightData", "df/d1b/a09528.html", "df/d1b/a09528" ],
+    [ "Uint8HeightData", "dd/db9/a09532.html", "dd/db9/a09532" ],
+    [ "HeightPlanesType", "dd/dae/a09524.html#ab64c3cfcd01805f43ec4ef41fb3bc48d", null ],
+    [ "floatHeightData", "dd/dae/a09524.html#abd47b99dfa1f23b0741b66cfd4837eaa", null ],
+    [ "gridHeight", "dd/dae/a09524.html#a1f989ab0921de350dc2410129028201f", null ],
+    [ "minHeightPlanes", "dd/dae/a09524.html#aa04f68f079e1f488cf69acd24dcd7899", null ],
+    [ "uint16HeightData", "dd/dae/a09524.html#aec022a29ba14a18fdd33e8f65e1cd977", null ],
+    [ "uint8HeightData", "dd/dae/a09524.html#a60a4a267b4164347e9f3ead6b5abfe14", null ]
 ];

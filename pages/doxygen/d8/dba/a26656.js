@@ -1,6 +1,10 @@
 var a26656 =
 [
-    [ "HandleScriptEffect", "d8/dba/a26656.html#a8b60ae77f13045a582548fe5d1186d54", null ],
-    [ "PrepareSpellScript", "d8/dba/a26656.html#ad68619783c4a1aad5a24826bf5d89858", null ],
-    [ "Register", "d8/dba/a26656.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
+    [ "spell_pal_improved_aura", "d8/dba/a26656.html#a4bc4b78ce3aab5ba4b5e6a009910cf7c", null ],
+    [ "HandleEffectApply", "d8/dba/a26656.html#a441952100c103ccdf84c58827669faac", null ],
+    [ "HandleEffectRemove", "d8/dba/a26656.html#aad7c1d2b5722523e119ff7dbe27ceb30", null ],
+    [ "PrepareAuraScript", "d8/dba/a26656.html#a4b35f298000b2a6cc530644018d4d7e4", null ],
+    [ "Register", "d8/dba/a26656.html#a148b20ba206ba69d2dcd84abbf7d17af", null ],
+    [ "Validate", "d8/dba/a26656.html#aa5450660ba559f31a815f4f2a4452fbc", null ],
+    [ "_spellId", "d8/dba/a26656.html#a9b7b9b73a0e6cacc917aedebdf789901", null ]
 ];

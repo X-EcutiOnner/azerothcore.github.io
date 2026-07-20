@@ -1,5 +1,7 @@
 var a18380 =
 [
-    [ "achievement_all_you_can_eat", "d5/dd6/a18380.html#a0995024862a445ea1f0ff5c82475fc64", null ],
-    [ "OnCheck", "d5/dd6/a18380.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
+    [ "HandleScript", "d5/dd6/a18380.html#a802f667b20bccd3395c233482aa2485b", null ],
+    [ "PrepareSpellScript", "d5/dd6/a18380.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
+    [ "Register", "d5/dd6/a18380.html#a730fded490df68f501010f952ceea40b", null ],
+    [ "Validate", "d5/dd6/a18380.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
 ];

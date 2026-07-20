@@ -1,6 +1,8 @@
 var a12952 =
 [
-    [ "instance_deadmines_InstanceMapScript", "de/daa/a12956.html", "de/daa/a12956" ],
-    [ "instance_deadmines", "de/d2e/a12952.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
-    [ "GetInstanceScript", "de/d2e/a12952.html#ac5cb65972d52324cedf662cc44dca626", null ]
+    [ "boss_garr", "de/d2e/a12952.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
+    [ "JustEngagedWith", "de/d2e/a12952.html#abab82d2e00b373ea1f0e444de23f4987", null ],
+    [ "Reset", "de/d2e/a12952.html#a64bcae059cfa97def7e52a42d404a016", null ],
+    [ "UpdateAI", "de/d2e/a12952.html#a2a412224072b47de6780ea7b8d543743", null ],
+    [ "massEruptionTimer", "de/d2e/a12952.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
 ];

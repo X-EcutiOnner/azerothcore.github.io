@@ -1,7 +1,8 @@
 var a21776 =
 [
-    [ "GetSeatNumber", "d1/d0f/a21776.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "d1/d0f/a21776.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "d1/d0f/a21776.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "d1/d0f/a21776.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "npc_ravenous_worgAI", "d1/d0f/a21776.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d1/d0f/a21776.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d1/d0f/a21776.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d1/d0f/a21776.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d1/d0f/a21776.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

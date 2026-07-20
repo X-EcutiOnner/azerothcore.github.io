@@ -1,6 +1,6 @@
 var a22012 =
 [
-    [ "HandleDamage", "d1/d55/a22012.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
-    [ "PrepareSpellScript", "d1/d55/a22012.html#a23b6afe1e35edc4013767b119b8e0218", null ],
-    [ "Register", "d1/d55/a22012.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
+    [ "npc_still_at_it_triggerAI", "d2/ddd/a22016.html", "d2/ddd/a22016" ],
+    [ "npc_still_at_it_trigger", "d1/d55/a22012.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
+    [ "GetAI", "d1/d55/a22012.html#ae273ea6295f50248d303983d4b4137df", null ]
 ];

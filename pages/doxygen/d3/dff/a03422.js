@@ -1,8 +1,10 @@
 var a03422 =
 [
-    [ "CreatureScript", "db/d1b/a10697.html", "db/d1b/a10697" ],
-    [ "GenericCreatureScript< AI >", "d3/dba/a10701.html", "d3/dba/a10701" ],
-    [ "FactoryCreatureScript< AI, AIFactory >", "d3/d4e/a10705.html", "d3/d4e/a10705" ],
-    [ "RegisterCreatureAI", "d3/dff/a03422.html#a5e7352841895df7117e2830448eb533f", null ],
-    [ "RegisterCreatureAIWithFactory", "d3/dff/a03422.html#a25cc02ecf50f52ec8cdff096060b8be1", null ]
+    [ "spell_utgarde_pinnacle_beast_mark", "d0/dc9/a21200.html", "d0/dc9/a21200" ],
+    [ "UtgardeSpells", "d3/dff/a03422.html#ae8fa29243650c07aed99f9ee3cad321a", [
+      [ "SPELL_BEAST_MARK_NORMAL", "d3/dff/a03422.html#ae8fa29243650c07aed99f9ee3cad321aa515971380a351ffe4dc21aefd7d9a8aa", null ],
+      [ "SPELL_BEAST_MARK_DAMAGE_N", "d3/dff/a03422.html#ae8fa29243650c07aed99f9ee3cad321aa519ee30eba59f71f788bd5aaa9ea8a4f", null ],
+      [ "SPELL_BEAST_MARK_DAMAGE_H", "d3/dff/a03422.html#ae8fa29243650c07aed99f9ee3cad321aa28cc83c9c8ba75d8dd51298affc35aa7", null ]
+    ] ],
+    [ "AddSC_utgarde_pinnacle", "d3/dff/a03422.html#aa865b80ad4fb44b0c96fa45f08d06d71", null ]
 ];

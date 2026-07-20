@@ -1,7 +1,6 @@
 var a25256 =
 [
-    [ "HandleProc", "d8/d68/a25256.html#a107d4e1650c6044b60ab711b01c607f6", null ],
-    [ "PrepareAuraScript", "d8/d68/a25256.html#ad14fb132bbbcb7d378521530372a5a7c", null ],
-    [ "Register", "d8/d68/a25256.html#ad49679e2b6966ddcd70bb48c44927bad", null ],
-    [ "Validate", "d8/d68/a25256.html#adfd2e27d6f40356bfacf7cad424e7e4d", null ]
+    [ "CheckRequirement", "d8/d68/a25256.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
+    [ "PrepareSpellScript", "d8/d68/a25256.html#aebb88f5ea803a590a099e4e6427d8276", null ],
+    [ "Register", "d8/d68/a25256.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
 ];

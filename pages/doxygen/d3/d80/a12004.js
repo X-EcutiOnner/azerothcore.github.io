@@ -1,8 +1,6 @@
 var a12004 =
 [
-    [ "CreatureTextId", "d3/d80/a12004.html#ae8058e922bafc69b718ca4be1be39688", null ],
-    [ "operator<", "d3/d80/a12004.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
-    [ "entry", "d3/d80/a12004.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
-    [ "textGroup", "d3/d80/a12004.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
-    [ "textId", "d3/d80/a12004.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
+    [ "ObjectAreaTargetSelectHandler", "d3/d80/a12004.html#a89b86436bb1de38223165e7ef60f2b61", null ],
+    [ "Call", "d3/d80/a12004.html#a11d2070610d178006231bac274d1f311", null ],
+    [ "pObjectAreaTargetSelectHandlerScript", "d3/d80/a12004.html#a118ca963c6319802806913762c4d1fec", null ]
 ];

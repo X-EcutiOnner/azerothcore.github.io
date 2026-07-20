@@ -1,8 +1,7 @@
 var a25672 =
 [
-    [ "HandleDummy", "de/d3e/a25672.html#a57897df074b7766c022526e082b4a13b", null ],
-    [ "Load", "de/d3e/a25672.html#a47cbade67be124496c6194391ab51794", null ],
-    [ "PrepareSpellScript", "de/d3e/a25672.html#af5e5a22976adfa5588ca8e054e19a669", null ],
-    [ "Register", "de/d3e/a25672.html#ab0c3be8436b79288bb45899448fd6c1b", null ],
-    [ "Validate", "de/d3e/a25672.html#a97d037267e385e0d3fd80543a5ddb366", null ]
+    [ "HandleScriptEffect", "de/d3e/a25672.html#a3ad488a1b6115bb1ec8cfe6717d3b4cf", null ],
+    [ "Load", "de/d3e/a25672.html#af89783564da25769be15e22291717f6a", null ],
+    [ "PrepareSpellScript", "de/d3e/a25672.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7", null ],
+    [ "Register", "de/d3e/a25672.html#addbe722d9f3727578f817789e3010bab", null ]
 ];

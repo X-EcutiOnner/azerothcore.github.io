@@ -1,6 +1,6 @@
 var a17940 =
 [
-    [ "HandlePeriodicTick", "d7/dcb/a17940.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
-    [ "PrepareAuraScript", "d7/dcb/a17940.html#a9962029ce4a5223d7aa05068e8d83326", null ],
-    [ "Register", "d7/dcb/a17940.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
+    [ "npc_high_overlord_saurfang_igbAI", "d3/daf/a17944.html", "d3/daf/a17944" ],
+    [ "npc_high_overlord_saurfang_igb", "d7/dcb/a17940.html#ae68d42f65851a753874705511bb83330", null ],
+    [ "GetAI", "d7/dcb/a17940.html#a54b6da97a40665232d28a20bac9b7ef3", null ]
 ];

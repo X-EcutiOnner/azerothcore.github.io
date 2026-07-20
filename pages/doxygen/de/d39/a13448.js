@@ -1,9 +1,8 @@
 var a13448 =
 [
-    [ "npc_risen_guardianAI", "de/d39/a13448.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
-    [ "IsSummonedBy", "de/d39/a13448.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
-    [ "KilledUnit", "de/d39/a13448.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
-    [ "Gandling", "de/d39/a13448.html#a93013b905260aa51341b22d1627cc986", null ],
-    [ "instance", "de/d39/a13448.html#a96f1835989f646c708b8ef0cc9999e63", null ],
-    [ "room", "de/d39/a13448.html#a5862a184b6daa92da133cc6c360a993d", null ]
+    [ "npc_dkc1_gothikAI", "de/d39/a13448.html#a35e65bd943f86ba3a1d6841569289df6", null ],
+    [ "DoAction", "de/d39/a13448.html#a3193c562973bbf995ab5e0173a93d01f", null ],
+    [ "MoveInLineOfSight", "de/d39/a13448.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
+    [ "UpdateAI", "de/d39/a13448.html#a346d32c9831babe6fb5f675b70b7a897", null ],
+    [ "spoken", "de/d39/a13448.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
 ];

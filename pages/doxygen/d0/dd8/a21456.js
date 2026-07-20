@@ -1,6 +1,6 @@
 var a21456 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d0/dd8/a21456.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "d0/dd8/a21456.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "d0/dd8/a21456.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "npc_valiance_keep_cannoneerAI", "dc/d09/a21460.html", "dc/d09/a21460" ],
+    [ "npc_valiance_keep_cannoneer", "d0/dd8/a21456.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
+    [ "GetAI", "d0/dd8/a21456.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
 ];

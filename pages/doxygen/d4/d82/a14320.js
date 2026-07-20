@@ -1,8 +1,15 @@
 var a14320 =
 [
-    [ "FilterTargets", "d4/d82/a14320.html#a3405b21202d423c649e0b8d341b42d9c", null ],
-    [ "HandleWipeThreat", "d4/d82/a14320.html#a2bbcce83bffebc509e9ec54778e82639", null ],
-    [ "PrepareSpellScript", "d4/d82/a14320.html#a59948484b528cab69c695f08b39b886d", null ],
-    [ "Register", "d4/d82/a14320.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
-    [ "_wipeThreat", "d4/d82/a14320.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
+    [ "npc_janalai_hatcher", "d4/d82/a14320.html#a337e21f5a014d0f9d7a1f614b7245f36", null ],
+    [ "AttackStart", "d4/d82/a14320.html#a5a7826964349ed9adbbdeb7c733dd915", null ],
+    [ "JustEngagedWith", "d4/d82/a14320.html#a54c251278dcfa22052b6c6e49a4abd89", null ],
+    [ "MoveInLineOfSight", "d4/d82/a14320.html#a4ae2157e37bb93b7465e029e526a6ce4", null ],
+    [ "MovementInform", "d4/d82/a14320.html#a3a0170bc53f9f8f96090e34097b90c2c", null ],
+    [ "MoveToNewWaypoint", "d4/d82/a14320.html#ab775a888ae1002eed3ed548ab89ca2e4", null ],
+    [ "Reset", "d4/d82/a14320.html#ab1c3945160c55b2b2d63763eacced473", null ],
+    [ "UpdateAI", "d4/d82/a14320.html#ab5cc0c5f73593128b6d6e023aa4ce609", null ],
+    [ "_isHatching", "d4/d82/a14320.html#aae712db69c870d00d07a37b8611ecaf4", null ],
+    [ "_repeatCount", "d4/d82/a14320.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12", null ],
+    [ "_side", "d4/d82/a14320.html#a177ddd5ff96902363ab708f0c737fc20", null ],
+    [ "_waypoint", "d4/d82/a14320.html#ab39ab27d8057b52b77637faefd48e8e6", null ]
 ];

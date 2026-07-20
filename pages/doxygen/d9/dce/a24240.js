@@ -1,12 +1,10 @@
 var a24240 =
 [
-    [ "CheckTarget", "d9/dce/a24240.html#a731aa2c0a2b67b8a15cab72ea2cb961a", null ],
-    [ "CheckTargets", "d9/dce/a24240.html#a3b5bbef0c43a600387235822f3c6dbc7", null ],
-    [ "HandleCorpseExplosion", "d9/dce/a24240.html#a201de2ee86d0cf954117df0e5343ee69", null ],
-    [ "HandleDamage", "d9/dce/a24240.html#a810fc65eb5d7160366d63210bad9caea", null ],
-    [ "Load", "d9/dce/a24240.html#a00b45e2f466de39c95251c2a38f6c3bd", null ],
-    [ "PrepareSpellScript", "d9/dce/a24240.html#a4cae1673a840d8ec0d727b881a3616cf", null ],
-    [ "Register", "d9/dce/a24240.html#a9e67ea51300569a0e163cb3e427b086e", null ],
-    [ "Validate", "d9/dce/a24240.html#a93984e8b831cb4c37ec2726d44532d43", null ],
-    [ "_target", "d9/dce/a24240.html#a5028b9d3166270b2b0557943e962eade", null ]
+    [ "npc_pet_gen_plump_turkey", "d9/dce/a24240.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
+    [ "MovementInform", "d9/dce/a24240.html#af27c91388891add6d00e251bf3187743", null ],
+    [ "UpdateAI", "d9/dce/a24240.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
+    [ "checkTimer", "d9/dce/a24240.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
+    [ "goGUID", "d9/dce/a24240.html#a5fa88e045430adea9e72a3744bf72780", null ],
+    [ "jumping", "d9/dce/a24240.html#a8486512b7594f2ce759fcb580f1baf34", null ],
+    [ "jumpTimer", "d9/dce/a24240.html#ad53a9abad41ab6a792a55b854155135d", null ]
 ];

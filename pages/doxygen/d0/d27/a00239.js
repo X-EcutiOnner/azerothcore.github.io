@@ -1,10 +1,23 @@
 var a00239 =
 [
-    [ "MCBossObject", "da/d34/a13025.html", "da/d34/a13025" ],
-    [ "instance_molten_core", "d6/d16/a13029.html", "d6/d16/a13029" ],
-    [ "AddSC_instance_molten_core", "d0/d27/a00239.html#aa908fb56c2f024e5bfcb38bc98b849ab", null ],
-    [ "linkedBossObjData", "d0/d27/a00239.html#a69ab269a27b57bb4b00d3eee95db589e", null ],
-    [ "MAX_MC_LINKED_BOSS_OBJ", "d0/d27/a00239.html#a398f000c29691c6a24707190dc4a4024", null ],
-    [ "minionData", "d0/d27/a00239.html#a6720238df140a3c574a711042b7f5bd3", null ],
-    [ "SAY_SPAWN", "d0/d27/a00239.html#a1712840a822c3d823764d3c974c6ea31", null ]
+    [ "ProcFlagScenario", "d2/d76/a29764.html", "d2/d76/a29764" ],
+    [ "SpellProcDatabaseTest", "da/d5f/a29768.html", "da/d5f/a29768" ],
+    [ "TEST_F", "d0/d27/a00239.html#a0b5b8d274c47bc86db574620f695c2b6", null ],
+    [ "TEST_F", "d0/d27/a00239.html#a7e7a38efd8e5e25ff2069b885f19c281", null ],
+    [ "TEST_F", "d0/d27/a00239.html#a7567757723eb6accfeedcb21c604f0df", null ],
+    [ "TEST_F", "d0/d27/a00239.html#a03034fc12b64bd4c50f7617855062eb2", null ],
+    [ "TEST_F", "d0/d27/a00239.html#aa0d9411f4bb497661e6fc7e2c80e70b8", null ],
+    [ "TEST_F", "d0/d27/a00239.html#ade9e3c555c602d8dc3d48aeb2880f9e3", null ],
+    [ "TEST_F", "d0/d27/a00239.html#a7ccb74b90d9c4622d4c93a805dd5bcb7", null ],
+    [ "TEST_F", "d0/d27/a00239.html#ab81dcf2a3bae744ae0dd72df2621bf41", null ],
+    [ "TEST_F", "d0/d27/a00239.html#a29570fd862ac0b1cb7e8598a63cf9cb3", null ],
+    [ "TEST_F", "d0/d27/a00239.html#aa4b2611edf9da1a82947b3ef91d4300f", null ],
+    [ "TEST_F", "d0/d27/a00239.html#a4e0a769ef32d9c506c85d7c37f43e69c", null ],
+    [ "TEST_F", "d0/d27/a00239.html#a8160f6dd75399af97f608204cc8c628d", null ],
+    [ "TEST_F", "d0/d27/a00239.html#a6cef918a1138c8d061d712c83b815ade", null ],
+    [ "TEST_F", "d0/d27/a00239.html#af19b76fda089568c8f35bafb48da71dd", null ],
+    [ "TEST_F", "d0/d27/a00239.html#a3af47a3780558b73350c1d46d609de77", null ],
+    [ "TEST_F", "d0/d27/a00239.html#a0e7a4faf11231646940f63c7df7a8e65", null ],
+    [ "HIT_MASK_SCENARIOS", "d0/d27/a00239.html#a46d18d926208a684776339a2bc9dbeea", null ],
+    [ "PROC_FLAG_SCENARIOS", "d0/d27/a00239.html#af191df4d9a6c137921b953a96941fe03", null ]
 ];

@@ -1,16 +1,7 @@
 var a13432 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "df/d95/a13432.html#a4abdd53f735be815cb2d43497d1531e0", null ],
-    [ "GetData", "df/d95/a13432.html#a07d9bcc1b1daa29f31be146aaa85993c", null ],
-    [ "GetGuidData", "df/d95/a13432.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
-    [ "OnCreatureCreate", "df/d95/a13432.html#a71fcfc166f945325a4ee149645a9ccef", null ],
-    [ "OnGameObjectCreate", "df/d95/a13432.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
-    [ "SetData", "df/d95/a13432.html#aaf498d563d070d6250a182f583651777", null ],
-    [ "_ashbringerNpcGUID", "df/d95/a13432.html#a1abdafc284def7ab4069a17c0aeda535", null ],
-    [ "_ashencounter", "df/d95/a13432.html#ac6f544cf00bb6d987c9128cce9c1aa10", null ],
-    [ "_doorChapelGUID", "df/d95/a13432.html#a9f5070bfd7326ccaa1ebe697524a814b", null ],
-    [ "_doorHighInquisitorGUID", "df/d95/a13432.html#a1c9c74f06b2e1db77d5e6c75e720290c", null ],
-    [ "_encounter", "df/d95/a13432.html#a9d025f0d9740eaec42fe4f45971a6cf9", null ],
-    [ "_mograineGUID", "df/d95/a13432.html#ad34fc11ed5bd36a8f3a84f183627deb1", null ],
-    [ "_whitemaneGUID", "df/d95/a13432.html#af6c6214f8d506815afeeb2af4ad4a71b", null ]
+    [ "HandleScriptEffect", "df/d95/a13432.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
+    [ "PrepareSpellScript", "df/d95/a13432.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
+    [ "Register", "df/d95/a13432.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
+    [ "Validate", "df/d95/a13432.html#a20f7416465ba1cc04426f24037e8074e", null ]
 ];

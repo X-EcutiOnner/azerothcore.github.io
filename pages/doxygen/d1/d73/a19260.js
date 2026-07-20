@@ -1,7 +1,9 @@
 var a19260 =
 [
-    [ "HandleScriptEffect", "d1/d73/a19260.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
-    [ "PrepareSpellScript", "d1/d73/a19260.html#a21a3175346c9b12c02205f2d33da3b86", null ],
-    [ "Register", "d1/d73/a19260.html#af5f279ad20e9153f201262eaa7615978", null ],
-    [ "Validate", "d1/d73/a19260.html#a635ff34619767f657778016e1eb901aa", null ]
+    [ "spell_trigger_spell_from_caster", "d1/d73/a19260.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
+    [ "HandleTrigger", "d1/d73/a19260.html#afc11c9408ea11cb04e476999a9bdf522", null ],
+    [ "PrepareSpellScript", "d1/d73/a19260.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
+    [ "Register", "d1/d73/a19260.html#ae44cc1a87267c1d08603d1aff2384957", null ],
+    [ "Validate", "d1/d73/a19260.html#a3aace9a309bc848b887b03c949c921bd", null ],
+    [ "_triggerId", "d1/d73/a19260.html#a29af52a9035f18936515a464889fefe5", null ]
 ];

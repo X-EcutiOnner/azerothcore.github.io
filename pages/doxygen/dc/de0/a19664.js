@@ -1,10 +1,15 @@
 var a19664 =
 [
-    [ "npc_oculus_drakegiverAI", "dc/de0/a19664.html#a4bba380256a0ede70b8d90611249b444", null ],
-    [ "MovementInform", "dc/de0/a19664.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
-    [ "UpdateAI", "dc/de0/a19664.html#a652a8c364687d51de62356964f6f33f9", null ],
-    [ "m_pInstance", "dc/de0/a19664.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
-    [ "moved", "dc/de0/a19664.html#a069e202a84d99cd757862bd1a43b5562", null ],
-    [ "resetPosition", "dc/de0/a19664.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
-    [ "timer", "dc/de0/a19664.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
+    [ "instance_eye_of_eternity", "dc/de0/a19664.html#a8b8bccd4969d18cf0c56742c65150ef1", null ],
+    [ "CheckAchievementCriteriaMeet", "dc/de0/a19664.html#ae2cbbc353f1dfcb24346fb707b15e19d", null ],
+    [ "GetGuidData", "dc/de0/a19664.html#a9a8a000c1f3a4139e280c7b20711dbcc", null ],
+    [ "OnCreatureCreate", "dc/de0/a19664.html#a72ede46385cd3f4d36e360ed67d5634f", null ],
+    [ "OnGameObjectCreate", "dc/de0/a19664.html#a276b14a880ac762439213f85b17c5b8b", null ],
+    [ "OnPlayerEnter", "dc/de0/a19664.html#a1f525d686ec2447a0aa9c2b9631b2e2f", null ],
+    [ "ProcessEvent", "dc/de0/a19664.html#a1408e66a14a7af228d7dfa40d09133f7", null ],
+    [ "SetBossState", "dc/de0/a19664.html#a1d4ea255b6f65abd63a69e04ec43ab90", null ],
+    [ "SetData", "dc/de0/a19664.html#a361bf36921e723ff38005d43be1c900b", null ],
+    [ "VortexHandling", "dc/de0/a19664.html#aa413a00eeba3fa864c104b6475b72d7c", null ],
+    [ "_pokeAchievementValid", "dc/de0/a19664.html#ab2d2e6d8f1117cf91646dd2634dc6014", null ],
+    [ "_vortexTriggers", "dc/de0/a19664.html#a21b0f26e2bf09d875b3708c594e652bc", null ]
 ];

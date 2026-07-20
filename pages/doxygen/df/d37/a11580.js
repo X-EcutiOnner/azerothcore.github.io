@@ -1,7 +1,8 @@
 var a11580 =
 [
-    [ "MapSessionFilter", "df/d37/a11580.html#ad11a700c36f8f45640402e96edc74b49", null ],
-    [ "~MapSessionFilter", "df/d37/a11580.html#a82960e741c8f64d24a764a915f14e2b8", null ],
-    [ "Process", "df/d37/a11580.html#a54483596fe2a5a0d30fab9a13506b375", null ],
-    [ "ProcessUnsafe", "df/d37/a11580.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
+    [ "QuestUpdateAddPvPKill", "df/d37/a11580.html#a22b1143d1ee7c28f0ae63c0d215e64ce", null ],
+    [ "Write", "df/d37/a11580.html#ab58c8dc6918834caa654e05992abde6a", null ],
+    [ "CurrentCount", "df/d37/a11580.html#a4c6df4b5647d8b71084c4495548cdd58", null ],
+    [ "QuestId", "df/d37/a11580.html#ae80d16619ecac6b381b89483ce96b810", null ],
+    [ "RequiredCount", "df/d37/a11580.html#a95d2c68a8383bcac985a891de7771274", null ]
 ];

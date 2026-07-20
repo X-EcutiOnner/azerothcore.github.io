@@ -1,6 +1,8 @@
 var a23524 =
 [
-    [ "HandleScriptEffect", "d9/dc8/a23524.html#acfe80e22e6c78dba50155f7f20c0678b", null ],
-    [ "PrepareSpellScript", "d9/dc8/a23524.html#a17cb5f874343bd40c6aafaf9d627b047", null ],
-    [ "Register", "d9/dc8/a23524.html#a4bb5cfd2cc8503b3a840fc68624a33c1", null ]
+    [ "npc_warchief_portal", "d9/dc8/a23524.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "d9/dc8/a23524.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "d9/dc8/a23524.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "d9/dc8/a23524.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "d9/dc8/a23524.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

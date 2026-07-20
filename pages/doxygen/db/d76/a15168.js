@@ -1,14 +1,8 @@
 var a15168 =
 [
-    [ "boss_captain_skarloc", "db/d76/a15168.html#a196477160ab6d07dc644ddadf756a1e0", null ],
-    [ "InitializeAI", "db/d76/a15168.html#a1c67fb99984f666b63f8f79c6783341d", null ],
-    [ "JustDied", "db/d76/a15168.html#aca0d536010a53efdf9270146f15f9058", null ],
-    [ "JustEngagedWith", "db/d76/a15168.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
-    [ "JustSummoned", "db/d76/a15168.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
-    [ "KilledUnit", "db/d76/a15168.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
-    [ "MovementInform", "db/d76/a15168.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
-    [ "Reset", "db/d76/a15168.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
-    [ "UpdateAI", "db/d76/a15168.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
-    [ "_spawnedAdds", "db/d76/a15168.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
-    [ "summons", "db/d76/a15168.html#a83a9e5971411de1c136cbad91f73f487", null ]
+    [ "hyjalThrallAI", "db/d76/a15168.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
+    [ "JustDied", "db/d76/a15168.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
+    [ "JustEngagedWith", "db/d76/a15168.html#a96706138634275ae7639c14f53cdd842", null ],
+    [ "Reset", "db/d76/a15168.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
+    [ "UpdateAI", "db/d76/a15168.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
 ];

@@ -1,5 +1,7 @@
 var a27604 =
 [
-    [ "achievement_resilient_victory", "db/d48/a27604.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "db/d48/a27604.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "HandleProc", "db/d48/a27604.html#a79bcdad48c19c0db70960552f6b4e2d3", null ],
+    [ "PrepareAuraScript", "db/d48/a27604.html#a760f228c118e9a89a3adc2767290f6f5", null ],
+    [ "Register", "db/d48/a27604.html#ace2673bc17210f349e47586c0e626dc5", null ],
+    [ "Validate", "db/d48/a27604.html#acdc499d8cae2de0edcfd2c19319e0175", null ]
 ];

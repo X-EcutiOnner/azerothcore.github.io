@@ -1,10 +1,6 @@
 var a15260 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d1/d42/a15260.html#a9c46508320d3973006561444feae0586", null ],
-    [ "Initialize", "d1/d42/a15260.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
-    [ "OnGameObjectCreate", "d1/d42/a15260.html#a3a287b97db58c3489815f20ee0d37977", null ],
-    [ "ReadSaveDataMore", "d1/d42/a15260.html#ac2cd336874b25ad20dac104037de1df5", null ],
-    [ "SetData", "d1/d42/a15260.html#a6e90bf60a076c164e432128f7ec62fba", null ],
-    [ "WriteSaveDataMore", "d1/d42/a15260.html#a6e4072342e66689d343912de85e66b34", null ],
-    [ "_encounters", "d1/d42/a15260.html#af2e752a791d75e50001060c4a9f18173", null ]
+    [ "npc_crate_helperAI", "d1/d42/a15260.html#ad58a2f3746da7862658fb3b9e1580836", null ],
+    [ "SpellHit", "d1/d42/a15260.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
+    [ "_marked", "d1/d42/a15260.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
 ];

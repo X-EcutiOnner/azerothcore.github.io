@@ -1,6 +1,6 @@
 var a25728 =
 [
-    [ "HandleTriggerSpell", "d2/df6/a25728.html#a2c9f565aec4c42900037dd387549df18", null ],
-    [ "PrepareAuraScript", "d2/df6/a25728.html#a5864bbba50001cdb84b0015d08134c56", null ],
-    [ "Register", "d2/df6/a25728.html#a5a41ac9e41201ec3defc05c324a792c9", null ]
+    [ "HandlePeriodicTick", "d2/df6/a25728.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
+    [ "PrepareAuraScript", "d2/df6/a25728.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
+    [ "Register", "d2/df6/a25728.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
 ];

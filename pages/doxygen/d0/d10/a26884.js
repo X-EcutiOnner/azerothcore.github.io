@@ -1,6 +1,6 @@
 var a26884 =
 [
-    [ "ModDest", "d0/d10/a26884.html#ab03387aec0a02a6b3bac1014443554b6", null ],
-    [ "PrepareSpellScript", "d0/d10/a26884.html#a53f7da301759fb18686bc73281c4a321", null ],
-    [ "Register", "d0/d10/a26884.html#a266198fbc6203517f9845ef6212ddf13", null ]
+    [ "CheckRequirement", "d0/d10/a26884.html#acaae3858de4d56028e3cb4581a57450c", null ],
+    [ "PrepareSpellScript", "d0/d10/a26884.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
+    [ "Register", "d0/d10/a26884.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
 ];

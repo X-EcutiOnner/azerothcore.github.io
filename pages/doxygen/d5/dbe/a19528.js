@@ -1,6 +1,6 @@
 var a19528 =
 [
-    [ "FilterTargets", "d5/dbe/a19528.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
-    [ "PrepareSpellScript", "d5/dbe/a19528.html#a354ae20be436528b16095d4cd8d37859", null ],
-    [ "Register", "d5/dbe/a19528.html#a5fcc9cc654d6495f535600a6eef4c968", null ]
+    [ "boss_razuvious_minionAI", "db/d70/a19532.html", "db/d70/a19532" ],
+    [ "boss_razuvious_minion", "d5/dbe/a19528.html#ae23d51c9ebfe31f624a749578d27252c", null ],
+    [ "GetAI", "d5/dbe/a19528.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
 ];

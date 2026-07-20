@@ -1,12 +1,8 @@
 var a27544 =
 [
-    [ "CheckProc", "dc/d64/a27544.html#abb43619da8154c1c9ebc9d164a2f6dc6", null ],
-    [ "HandleApply", "dc/d64/a27544.html#aaa07858f0604965fad5c1189125a822b", null ],
-    [ "HandleProc", "dc/d64/a27544.html#a9fd416a5f8f8a405f40c41b9ef8b734e", null ],
-    [ "HandleRemove", "dc/d64/a27544.html#a3da984d172878110b77549b51409d7e0", null ],
-    [ "Load", "dc/d64/a27544.html#a644aaf343b41f049f34ff7387c613bf1", null ],
-    [ "PrepareAuraScript", "dc/d64/a27544.html#aea23ff608c74017d98edcc146d3ba35a", null ],
-    [ "Register", "dc/d64/a27544.html#a624d09c6f1a177912a1c7cab30d89c7b", null ],
-    [ "Validate", "dc/d64/a27544.html#a34f1b7782dbf2dcc18eb803497104a13", null ],
-    [ "_procTarget", "dc/d64/a27544.html#ac6c81bc1f9008c3861f99f4e89626969", null ]
+    [ "HandleDummyTick", "dc/d64/a27544.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
+    [ "HandleRemove", "dc/d64/a27544.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
+    [ "PrepareAuraScript", "dc/d64/a27544.html#a06e45d5f63ef1395b5949482e8393098", null ],
+    [ "Register", "dc/d64/a27544.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
+    [ "Validate", "dc/d64/a27544.html#a9a2da4d163a96526e14f5de76798a784", null ]
 ];

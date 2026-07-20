@@ -1,7 +1,9 @@
 var a07568 =
 [
-    [ "ArenaSeasonReward", "dd/df0/a07568.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
-    [ "operator==", "dd/df0/a07568.html#a2f04bbb871ab3b90f5dc3121e2bff213", null ],
-    [ "entry", "dd/df0/a07568.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
-    [ "type", "dd/df0/a07568.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
+    [ "entryAlliance", "dd/df0/a07568.html#a0e5dba26d6d335a9d1e5f40e737acddd", null ],
+    [ "entryHorde", "dd/df0/a07568.html#a374fff4b069e89489395246f378b4900", null ],
+    [ "o", "dd/df0/a07568.html#af8a4ec46795bcdbc77c76302a4cfe639", null ],
+    [ "x", "dd/df0/a07568.html#ab557bbe497fc769b390cf0799b6aaed9", null ],
+    [ "y", "dd/df0/a07568.html#a44a8f3fd8d3cac7cfe61471d8b785ad4", null ],
+    [ "z", "dd/df0/a07568.html#adebb903a00687e17d9088f5da2c97f4a", null ]
 ];

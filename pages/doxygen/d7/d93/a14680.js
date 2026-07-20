@@ -1,5 +1,7 @@
 var a14680 =
 [
-    [ "npc_cw_area_triggerAI", "d7/d93/a14680.html#aede21e01dfe762922562b6f5d57bc406", null ],
-    [ "MoveInLineOfSight", "d7/d93/a14680.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
+    [ "FilterTargets", "d7/d93/a14680.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
+    [ "HandleDummyEffect", "d7/d93/a14680.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
+    [ "PrepareSpellScript", "d7/d93/a14680.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
+    [ "Register", "d7/d93/a14680.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
 ];

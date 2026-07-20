@@ -1,5 +1,5 @@
 var a29164 =
 [
-    [ "type", "d6/ddd/a29164.html#af749459df7757d1bab17a54be813f6b6", null ],
-    [ "_type", "d6/ddd/a29164.html#ab0344571616786baef4511c647a3abea", null ]
+    [ "ID", "d6/ddd/a29164.html#a0272b3c1130508a2681035c91ee416e6", null ],
+    [ "SpellID", "d6/ddd/a29164.html#a231d22a763ddcd9f1fbdab81521dcf67", null ]
 ];

@@ -1,6 +1,7 @@
 var a27044 =
 [
-    [ "CheckProc", "dc/d9d/a27044.html#ae8f06d0b6738c92a2e4a45fe0ca81cb9", null ],
-    [ "PrepareAuraScript", "dc/d9d/a27044.html#aafd3eba8af1edb89ded08b056f9b497c", null ],
-    [ "Register", "dc/d9d/a27044.html#aeb1d84b45afc05b8b9ca5cea2a50f5a4", null ]
+    [ "HandleDummy", "dc/d9d/a27044.html#a2ea424e6c740305340001b1c09bfec91", null ],
+    [ "PrepareSpellScript", "dc/d9d/a27044.html#afe722c970155b47eac94bb9861a4eb46", null ],
+    [ "Register", "dc/d9d/a27044.html#a2c2b96f1c00da9884ec9d01fe897c8c1", null ],
+    [ "Validate", "dc/d9d/a27044.html#ac5f782da8b5e387c31e048759baf3e16", null ]
 ];

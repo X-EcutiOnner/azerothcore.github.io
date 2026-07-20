@@ -1,11 +1,11 @@
 var a05480 =
 [
-    [ "Record", "dd/d34/a05480.html#a3303a6b7ba364777e368158052dbe1db", null ],
-    [ "getFloat", "dd/d34/a05480.html#a1647694079553a20a7c6621aa6d4ecf6", null ],
-    [ "getString", "dd/d34/a05480.html#a833c7017749b6b3109ebdee2ff0d3517", null ],
-    [ "getUInt", "dd/d34/a05480.html#a6f22775adc36b8955009f3f0bd51f355", null ],
-    [ "getUInt8", "dd/d34/a05480.html#af6a95de37b34f0204f57323d9a39d110", null ],
-    [ "DBCFileLoader", "dd/d34/a05480.html#aa9814b507b472e781e08c803e025cc72", null ],
-    [ "file", "dd/d34/a05480.html#a146dc23a5f24a0d8a1a34f29375b9bcd", null ],
-    [ "offset", "dd/d34/a05480.html#a06e2c90771be91d9ca948840a07125e8", null ]
+    [ "AuthCrypt", "dd/d34/a05480.html#a8c5239631bd6cf700059af31f04126a3", null ],
+    [ "DecryptRecv", "dd/d34/a05480.html#a552bd409afb5fcda8a11627ccb20e4b0", null ],
+    [ "EncryptSend", "dd/d34/a05480.html#a385fe62742cdbbf62725ace616a06b37", null ],
+    [ "Init", "dd/d34/a05480.html#ac76e9a59dc6bcef074e3213cecb4c7b8", null ],
+    [ "IsInitialized", "dd/d34/a05480.html#a911330ec40c0ca881af2f0c6fd6b0fef", null ],
+    [ "_clientDecrypt", "dd/d34/a05480.html#ae67fcb84288ebd120ad71bedc52086c2", null ],
+    [ "_initialized", "dd/d34/a05480.html#a99de2f8dd625cef94d70eeddefc9ac5c", null ],
+    [ "_serverEncrypt", "dd/d34/a05480.html#af30b0691f7089d52c2fbd9c5b9f52e68", null ]
 ];

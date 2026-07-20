@@ -1,11 +1,10 @@
 var a17552 =
 [
-    [ "npc_blood_queen_lana_thelAI", "da/d6d/a17552.html#a7b099b90600e433e304dee1f356a9909", null ],
-    [ "MoveInLineOfSight", "da/d6d/a17552.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
-    [ "MovementInform", "da/d6d/a17552.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
-    [ "Reset", "da/d6d/a17552.html#a539b0e158c800e1aade54f37aa99751e", null ],
-    [ "UpdateAI", "da/d6d/a17552.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
-    [ "_events", "da/d6d/a17552.html#a8ec7641bab991fc584b066fae55690bf", null ],
-    [ "_instance", "da/d6d/a17552.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
-    [ "_introDone", "da/d6d/a17552.html#a40c642758a751e072e41343bb75ad306", null ]
+    [ "boss_drakkari_elementalAI", "da/d6d/a17552.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
+    [ "DoAction", "da/d6d/a17552.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
+    [ "JustDied", "da/d6d/a17552.html#aec2878e51a12749914e3a30c0ddea900", null ],
+    [ "JustEngagedWith", "da/d6d/a17552.html#a75cbf6a164ab4337f86b600541c563f2", null ],
+    [ "Reset", "da/d6d/a17552.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
+    [ "UpdateAI", "da/d6d/a17552.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
+    [ "events", "da/d6d/a17552.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
 ];

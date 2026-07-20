@@ -1,14 +1,14 @@
 var a11816 =
 [
-    [ "IsFitToRequirements", "dc/def/a11816.html#af1585273701356a591bf9d9483e996a3", null ],
-    [ "areaId", "dc/def/a11816.html#af7e6f7b027388447a1f99e759975ca09", null ],
-    [ "auraSpell", "dc/def/a11816.html#adaf2f6f7c56701fe42a2674aca74fba0", null ],
-    [ "autocast", "dc/def/a11816.html#a38b42b82e4a588e102eb393cc907cd27", null ],
-    [ "gender", "dc/def/a11816.html#af4314cba9c91fd1e2c09905c17c67d22", null ],
-    [ "questEnd", "dc/def/a11816.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f", null ],
-    [ "questEndStatus", "dc/def/a11816.html#ac6c7ed326628642da138bb3835db9a1d", null ],
-    [ "questStart", "dc/def/a11816.html#afc99b14a3724fef7c5dd70e976a479a8", null ],
-    [ "questStartStatus", "dc/def/a11816.html#a7f4466dfd9ab56850a36d0d09ff84798", null ],
-    [ "raceMask", "dc/def/a11816.html#a402373ff841bd2aa47b4b36a581624cc", null ],
-    [ "spellId", "dc/def/a11816.html#a8a299d901e2c13cdc3c00d6cf0a856d3", null ]
+    [ "alive", "dc/def/a11816.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
+    [ "crit", "dc/def/a11816.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
+    [ "damage", "dc/def/a11816.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
+    [ "damageBeforeTakenMods", "dc/def/a11816.html#a85196e5b5865856962898c18001880c7", null ],
+    [ "effectMask", "dc/def/a11816.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
+    [ "missCondition", "dc/def/a11816.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
+    [ "processed", "dc/def/a11816.html#a2de96d62297ff614fc3702bec035ce5b", null ],
+    [ "reflectResult", "dc/def/a11816.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
+    [ "scaleAura", "dc/def/a11816.html#a89bba366b26686d41288e9b2e725eb75", null ],
+    [ "targetGUID", "dc/def/a11816.html#acf55c1dd6f00c94296c592d988f959cf", null ],
+    [ "timeDelay", "dc/def/a11816.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
 ];

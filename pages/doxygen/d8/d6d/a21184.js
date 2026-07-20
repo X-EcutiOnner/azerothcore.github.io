@@ -1,7 +1,6 @@
 var a21184 =
 [
-    [ "npc_azure_invader", "d8/d6d/a21184.html#a6b7fcdd4e5166a932e85fcc6ec57d086", null ],
-    [ "Reset", "d8/d6d/a21184.html#a51d349d0254f2d5a67f27298952fbb06", null ],
-    [ "UpdateAI", "d8/d6d/a21184.html#a6677b18604e15017d15f1d3b0386cfae", null ],
-    [ "_events", "d8/d6d/a21184.html#ac178244e22f71a15d7af91946cf961ef", null ]
+    [ "boss_ymironAI", "d0/ddd/a21188.html", "d0/ddd/a21188" ],
+    [ "boss_ymiron", "d8/d6d/a21184.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
+    [ "GetAI", "d8/d6d/a21184.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
 ];

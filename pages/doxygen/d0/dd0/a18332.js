@@ -1,6 +1,6 @@
 var a18332 =
 [
-    [ "CheckProc", "d0/dd0/a18332.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "d0/dd0/a18332.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "d0/dd0/a18332.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "ExtraEffect", "d0/dd0/a18332.html#a10dfb36a835589208482e1c8833d8f46", null ],
+    [ "PrepareSpellScript", "d0/dd0/a18332.html#a972ff2bdc7d3660820e05326600be6f6", null ],
+    [ "Register", "d0/dd0/a18332.html#ae337e67a220b72b44878d02be33e3888", null ]
 ];

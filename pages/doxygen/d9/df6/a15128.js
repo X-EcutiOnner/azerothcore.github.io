@@ -1,8 +1,8 @@
 var a15128 =
 [
-    [ "npc_arthasAI", "d1/de6/a15132.html", "d1/de6/a15132" ],
-    [ "npc_arthas", "d9/df6/a15128.html#a87c280ff9861187b0a713f795e657266", null ],
-    [ "GetAI", "d9/df6/a15128.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
-    [ "OnGossipHello", "d9/df6/a15128.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
-    [ "OnGossipSelect", "d9/df6/a15128.html#aeca2f4baa3c943281c676c6498393165", null ]
+    [ "boss_azgalor", "d9/df6/a15128.html#ac794e0eacc2d543fa62e4b521089f080", null ],
+    [ "DoAction", "d9/df6/a15128.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
+    [ "JustDied", "d9/df6/a15128.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
+    [ "JustEngagedWith", "d9/df6/a15128.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
+    [ "KilledUnit", "d9/df6/a15128.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ]
 ];

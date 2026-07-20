@@ -1,7 +1,7 @@
 var a26120 =
 [
-    [ "CalcPeriodic", "de/d77/a26120.html#a404e5309016cfcaa3071c0216978699e", null ],
-    [ "PrepareAuraScript", "de/d77/a26120.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
-    [ "Register", "de/d77/a26120.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
-    [ "AuraEffectHandleModes", "de/d77/a26120.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
+    [ "HandleDummy", "de/d77/a26120.html#a787b5b1c0d0687bad944452c678f33b9", null ],
+    [ "Load", "de/d77/a26120.html#a8d7e2821f74443292c43c40bbfb9ed92", null ],
+    [ "PrepareSpellScript", "de/d77/a26120.html#a79dcac5234ca195488e647a280806e69", null ],
+    [ "Register", "de/d77/a26120.html#ae9cbe89924c2578bb1ed21a55a48cf6b", null ]
 ];

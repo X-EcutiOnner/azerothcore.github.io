@@ -1,5 +1,6 @@
 var a29412 =
 [
-    [ "SetUp", "d7/d30/a29412.html#a01d047383a822846aac3ac06b5dfcae9", null ],
-    [ "TearDown", "d7/d30/a29412.html#a0e10e5904582fcf5d6377e463a7be2fd", null ]
+    [ "lastExtraAttackSpell", "d7/d30/a29412.html#a0b7c47a0c1a328703648936a1da3245f", null ],
+    [ "triggeredSpellHasExtraAttacks", "d7/d30/a29412.html#ad58a8f2f91c6a32371feab14e51e8e29", null ],
+    [ "triggerSpellId", "d7/d30/a29412.html#a01a4d76e7e2bf15a3ae06926fa1189c9", null ]
 ];

@@ -1,6 +1,6 @@
 var a13996 =
 [
-    [ "CheckProc", "d7/d07/a13996.html#af6d00234388ceb5d1c9acd8775c66788", null ],
-    [ "PrepareAuraScript", "d7/d07/a13996.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
-    [ "Register", "d7/d07/a13996.html#acad1e829a317d15e73549047ece67eda", null ]
+    [ "HandleSendEvent", "d7/d07/a13996.html#af62c176d53589228d5e0077c9fc268a3", null ],
+    [ "PrepareSpellScript", "d7/d07/a13996.html#acea8e256f267dd496e5f573e982dba5f", null ],
+    [ "Register", "d7/d07/a13996.html#a0827e177a8268994bb4e63f07993a354", null ]
 ];

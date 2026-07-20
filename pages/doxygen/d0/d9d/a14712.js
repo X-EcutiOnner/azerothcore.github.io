@@ -1,6 +1,6 @@
 var a14712 =
 [
-    [ "HandleDummy", "d0/d9d/a14712.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
-    [ "PrepareSpellScript", "d0/d9d/a14712.html#a87a787c6ab3804847c90266f570381c6", null ],
-    [ "Register", "d0/d9d/a14712.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
+    [ "CheckItem", "d0/d9d/a14712.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
+    [ "PrepareSpellScript", "d0/d9d/a14712.html#a0fa160f1218cf838444f894716cb8aed", null ],
+    [ "Register", "d0/d9d/a14712.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
 ];

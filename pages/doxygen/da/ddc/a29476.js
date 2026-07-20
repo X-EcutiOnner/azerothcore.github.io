@@ -1,9 +1,10 @@
 var a29476 =
 [
-    [ "CountQuestOnCreature", "da/ddc/a29476.html#a4bf05b65d940e61567667d0939e177e5", null ],
-    [ "SetUp", "da/ddc/a29476.html#a4788953a58bbea222cf59662b4427e72", null ],
-    [ "SimulateReload", "da/ddc/a29476.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
-    [ "SimulateSpawn1Object", "da/ddc/a29476.html#a82c53349ba3754a75b2c1570fe413d09", null ],
-    [ "TearDown", "da/ddc/a29476.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
-    [ "creatureQuestMap", "da/ddc/a29476.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
+    [ "AddToWorld", "da/ddc/a29476.html#a3b5a3472d4a5ca1cff7dc0dbed0b04c7", null ],
+    [ "ForceInitValues", "da/ddc/a29476.html#adb765e8464642610eeebf25c5fa17edd", null ],
+    [ "Player", "da/ddc/a29476.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
+    [ "RemoveFromWorld", "da/ddc/a29476.html#aa69937d52e60e235f35a48e9d80d65ce", null ],
+    [ "SaveToDB", "da/ddc/a29476.html#a21d71f7f913da0213b98cfe2e0d1b832", null ],
+    [ "SaveToDB", "da/ddc/a29476.html#a74818d35eddf0c5ccea7693ba455cff2", null ],
+    [ "UpdateObjectVisibility", "da/ddc/a29476.html#a35487432f2af544c20bc3c45f8ba1602", null ]
 ];

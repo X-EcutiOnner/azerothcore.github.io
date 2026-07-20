@@ -1,10 +1,6 @@
 var a15204 =
 [
-    [ "boss_aeonus", "d3/d97/a15204.html#af823ef2187b852dc72d2f63020e1701b", null ],
-    [ "IsSummonedBy", "d3/d97/a15204.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
-    [ "JustDied", "d3/d97/a15204.html#a649275c31e61f542a13fd791ee85277b", null ],
-    [ "JustEngagedWith", "d3/d97/a15204.html#a5f193144e36a889630d5dbadb4aa665f", null ],
-    [ "JustReachedHome", "d3/d97/a15204.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
-    [ "KilledUnit", "d3/d97/a15204.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
-    [ "MoveInLineOfSight", "d3/d97/a15204.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
+    [ "boss_epochAI", "d6/db3/a15208.html", "d6/db3/a15208" ],
+    [ "boss_epoch", "d3/d97/a15204.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
+    [ "GetAI", "d3/d97/a15204.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
 ];

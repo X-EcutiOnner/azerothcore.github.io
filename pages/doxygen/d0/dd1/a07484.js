@@ -1,15 +1,12 @@
 var a07484 =
 [
-    [ "AuctionHouseSearcher", "d0/dd1/a07484.html#adee77153a7b9efeac149e6c951082986", null ],
-    [ "~AuctionHouseSearcher", "d0/dd1/a07484.html#a84842935539c5ef8b02815cc8697e568", null ],
-    [ "AddAuction", "d0/dd1/a07484.html#a09e01dd8840a50f6b6dd5f70ad9ec10c", null ],
-    [ "NotifyAllWorkers", "d0/dd1/a07484.html#a443577cfba0af003e7e0e8834474a6c1", null ],
-    [ "NotifyOneWorker", "d0/dd1/a07484.html#a1b70b786bf6e57d9d9cae8f34f0d779b", null ],
-    [ "QueueSearchRequest", "d0/dd1/a07484.html#a53caf3298638d325a8b9e97584296ad3", null ],
-    [ "RemoveAuction", "d0/dd1/a07484.html#a145da4d009d9814a4e76fae0d02f33e4", null ],
-    [ "Update", "d0/dd1/a07484.html#ac8c7b88346dc99bed5fe8d0efb28eebb", null ],
-    [ "UpdateBid", "d0/dd1/a07484.html#a7bb50e3e903c73a83469e7323917d40d", null ],
-    [ "_requestQueue", "d0/dd1/a07484.html#ac221abeb9a760c90d6110310970e6463", null ],
-    [ "_responseQueue", "d0/dd1/a07484.html#a772e65025ae498b8837222ae98f49c28", null ],
-    [ "_workerThreads", "d0/dd1/a07484.html#aa1cedd8cb22b840599b97bf7c7df0949", null ]
+    [ "Type", "d0/dd1/a07484.html#abfb75b18c4a43f1818cd78212c668109", [
+      [ "LIST", "d0/dd1/a07484.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a", null ],
+      [ "OWNER_LIST", "d0/dd1/a07484.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e", null ],
+      [ "BIDDER_LIST", "d0/dd1/a07484.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab", null ]
+    ] ],
+    [ "AuctionSearcherRequest", "d0/dd1/a07484.html#afadcce053f82ae124263a501671f35e3", null ],
+    [ "~AuctionSearcherRequest", "d0/dd1/a07484.html#a8122177f0ca9b5c2393e87998a15e950", null ],
+    [ "listFaction", "d0/dd1/a07484.html#a1847f75715da2de1098d0f767163f62d", null ],
+    [ "requestType", "d0/dd1/a07484.html#ad7006f42aafadfa07024e1d2a278be3d", null ]
 ];

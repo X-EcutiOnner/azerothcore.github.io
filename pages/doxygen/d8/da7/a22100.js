@@ -1,6 +1,6 @@
 var a22100 =
 [
-    [ "PrepareSpellScript", "d8/da7/a22100.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "d8/da7/a22100.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "d8/da7/a22100.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "npc_time_lost_proto_drakeAI", "d7/dea/a22104.html", "d7/dea/a22104" ],
+    [ "npc_time_lost_proto_drake", "d8/da7/a22100.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "d8/da7/a22100.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

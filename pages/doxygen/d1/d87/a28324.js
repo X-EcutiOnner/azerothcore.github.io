@@ -1,7 +1,10 @@
 var a28324 =
 [
-    [ "npc_flameshocker", "d1/d87/a28324.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
-    [ "JustDied", "d1/d87/a28324.html#aba94a5bcec75c649049d5816a53ace58", null ],
-    [ "Reset", "d1/d87/a28324.html#a13cb88e2b33df2d910fb73053684b420", null ],
-    [ "UpdateAI", "d1/d87/a28324.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
+    [ "npc_air_force_botsAI", "d1/d87/a28324.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "d1/d87/a28324.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "d1/d87/a28324.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "d1/d87/a28324.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "d1/d87/a28324.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "d1/d87/a28324.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "d1/d87/a28324.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

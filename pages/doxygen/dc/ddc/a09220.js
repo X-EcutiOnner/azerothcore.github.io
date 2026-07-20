@@ -1,18 +1,8 @@
 var a09220 =
 [
-    [ "BroadcastText", "dc/ddc/a09220.html#abab322532f769f25ad0241422e066c3c", null ],
-    [ "GetText", "dc/ddc/a09220.html#a5002c01e04536db717167eb7d0f4c5ec", null ],
-    [ "EmoteDelay1", "dc/ddc/a09220.html#a627971cd4d55f9e3e17c885791a0cfbf", null ],
-    [ "EmoteDelay2", "dc/ddc/a09220.html#a101f8fcc99c6badc2a7b05a9f18aa0f5", null ],
-    [ "EmoteDelay3", "dc/ddc/a09220.html#ad54e97026a67329529daaa30f997a89a", null ],
-    [ "EmoteId1", "dc/ddc/a09220.html#acc72081442b6a4544533a3084b5240da", null ],
-    [ "EmoteId2", "dc/ddc/a09220.html#a519449d0a5cc67e758f39c154e22f853", null ],
-    [ "EmoteId3", "dc/ddc/a09220.html#acbce2101751bdaed47315c23f5058a7b", null ],
-    [ "EmotesID", "dc/ddc/a09220.html#a2c7c03c32d8fe589507b575fc5c2138f", null ],
-    [ "FemaleText", "dc/ddc/a09220.html#a255f95912612f11867611093ebc23a59", null ],
-    [ "Flags", "dc/ddc/a09220.html#af07f883cd3deb5a1a59e23aa058e6c78", null ],
-    [ "Id", "dc/ddc/a09220.html#a12594a2bbd643a1968726db708a35b79", null ],
-    [ "LanguageID", "dc/ddc/a09220.html#a35ea9cc4ebd2680988e610f344086c86", null ],
-    [ "MaleText", "dc/ddc/a09220.html#ab30526857fe7c7c945d84931ffa4c416", null ],
-    [ "SoundEntriesId", "dc/ddc/a09220.html#aae69d8b9ca72f1cb20869b69a9601595", null ]
+    [ "Entry", "dc/ddc/a09220.html#ac9fa29db15e06513805124a56cd073e8", null ],
+    [ "ExtendedCost", "dc/ddc/a09220.html#ac826dc078ef456ed93bf23175bce243d", null ],
+    [ "Incrtime", "dc/ddc/a09220.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
+    [ "Item", "dc/ddc/a09220.html#aa500da847d94a9b70cb3a26b782059b3", null ],
+    [ "MaxCount", "dc/ddc/a09220.html#a04534ff42e5889995b5203a3257bc864", null ]
 ];

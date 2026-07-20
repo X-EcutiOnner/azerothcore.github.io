@@ -1,8 +1,6 @@
 var a18788 =
 [
-    [ "npc_suppresserAI", "da/db2/a18788.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
-    [ "AttackStart", "da/db2/a18788.html#ae36105de1df1dd9841332d9a8e7799be", null ],
-    [ "IsSummonedBy", "da/db2/a18788.html#a35ec340b2d02a14707fc353428b1298d", null ],
-    [ "UpdateAI", "da/db2/a18788.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
-    [ "_instance", "da/db2/a18788.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
+    [ "npc_icc_lk_checktargetAI", "d2/d4b/a18792.html", "d2/d4b/a18792" ],
+    [ "npc_icc_lk_checktarget", "da/db2/a18788.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "da/db2/a18788.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

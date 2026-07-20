@@ -1,6 +1,11 @@
 var a15140 =
 [
-    [ "npc_crate_helperAI", "dd/d7d/a15140.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "dd/d7d/a15140.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "dd/d7d/a15140.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "boss_kazrogal", "dd/d7d/a15140.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
+    [ "DoAction", "dd/d7d/a15140.html#a7721debceeefaeb69e71855b8e8742f8", null ],
+    [ "GetMarkRepeatTimer", "dd/d7d/a15140.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
+    [ "JustDied", "dd/d7d/a15140.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
+    [ "JustEngagedWith", "dd/d7d/a15140.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
+    [ "KilledUnit", "dd/d7d/a15140.html#ab1439114a84d85947106d979f38d12fa", null ],
+    [ "Reset", "dd/d7d/a15140.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
+    [ "_markCounter", "dd/d7d/a15140.html#a54ef8b88bf62e260e19a964d1926ef4a", null ]
 ];

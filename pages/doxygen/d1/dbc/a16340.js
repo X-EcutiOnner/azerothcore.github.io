@@ -1,7 +1,6 @@
 var a16340 =
 [
-    [ "HandleHit", "d1/dbc/a16340.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "d1/dbc/a16340.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "d1/dbc/a16340.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "d1/dbc/a16340.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "HandlePeriodic", "d1/dbc/a16340.html#ad22b433005b2678bde3516a01eaaaa60", null ],
+    [ "PrepareAuraScript", "d1/dbc/a16340.html#a3711004edaef7242d9cae1f23f9b7467", null ],
+    [ "Register", "d1/dbc/a16340.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
 ];

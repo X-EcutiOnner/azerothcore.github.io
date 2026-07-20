@@ -1,12 +1,9 @@
 var a17852 =
 [
-    [ "gunship_npc_AI", "d9/d77/a17852.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
-    [ "EnterEvadeMode", "d9/d77/a17852.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
-    [ "JustDied", "d9/d77/a17852.html#ad40c976be4decd9054dad031a4caab78", null ],
-    [ "MovementInform", "d9/d77/a17852.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
-    [ "SetData", "d9/d77/a17852.html#acfd5e331155d7787ada33acbca73fece", null ],
-    [ "SetSlotInfo", "d9/d77/a17852.html#afdfc3f9add2952f90baf24d55425670f", null ],
-    [ "Index", "d9/d77/a17852.html#ae120874514cf5921136821b820a04da7", null ],
-    [ "Instance", "d9/d77/a17852.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
-    [ "Slot", "d9/d77/a17852.html#a59d237475ae309755d429cfac77d6630", null ]
+    [ "FilterTargetsInitial", "d9/d77/a17852.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
+    [ "FilterTargetsSubsequent", "d9/d77/a17852.html#a11732039155235c287757980129d5a8e", null ],
+    [ "Load", "d9/d77/a17852.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
+    [ "PrepareSpellScript", "d9/d77/a17852.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
+    [ "Register", "d9/d77/a17852.html#a56a4e65df08a95fddde75162358155c2", null ],
+    [ "_target", "d9/d77/a17852.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
 ];

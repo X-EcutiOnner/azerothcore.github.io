@@ -1,14 +1,16 @@
 var a12224 =
 [
-    [ "cast_commandscript", "df/d24/a12224.html#a9c657d2c5404149a45a2db748d23fc2f", null ],
-    [ "CheckSpellCastResult", "df/d24/a12224.html#a244b2d11a07fdcbb72f3207ab1e46ea5", null ],
-    [ "CheckSpellExistsAndIsValid", "df/d24/a12224.html#a14da4e4674b065c8e8f3d1946a037bda", null ],
-    [ "GetCommands", "df/d24/a12224.html#ab0890c036a8d301b382fdd1b6371f671", null ],
-    [ "GetTriggerFlags", "df/d24/a12224.html#a26e6986c45a99e6a94d7ba2d9a810aa3", null ],
-    [ "HandleCastBackCommand", "df/d24/a12224.html#a964a40278f609a5c5a0bae651484c726", null ],
-    [ "HandleCastCommand", "df/d24/a12224.html#ac28430cc0623209b891bacbb4845509b", null ],
-    [ "HandleCastDestCommand", "df/d24/a12224.html#a156ca81fba7155205dae106aa4c221d6", null ],
-    [ "HandleCastDistCommand", "df/d24/a12224.html#aabbcac8e85c6a64a647d71bb22bebede", null ],
-    [ "HandleCastSelfCommand", "df/d24/a12224.html#a69e88bb174c2518584a9ae622e2850bf", null ],
-    [ "HandleCastTargetCommad", "df/d24/a12224.html#aa72bd317a3498ef07007c1a9e81e2796", null ]
+    [ "CheckContainer", "df/d24/a12224.html#a08e083224760d2bca1996da9cd9cb014", null ],
+    [ "CheckResultContainer", "df/d24/a12224.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
+    [ "WardenCheckMgr", "df/d24/a12224.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
+    [ "~WardenCheckMgr", "df/d24/a12224.html#a0d89190f580435337c328da4bf2497b8", null ],
+    [ "GetMaxValidCheckId", "df/d24/a12224.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
+    [ "GetWardenDataById", "df/d24/a12224.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
+    [ "GetWardenResultById", "df/d24/a12224.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
+    [ "instance", "df/d24/a12224.html#aba9de1e123070338dc0049db8d8f0663", null ],
+    [ "LoadWardenChecks", "df/d24/a12224.html#ad02847547a06d98c582d09992dce9d11", null ],
+    [ "LoadWardenOverrides", "df/d24/a12224.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
+    [ "CheckIdPool", "df/d24/a12224.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
+    [ "CheckResultStore", "df/d24/a12224.html#a4f0224b8377827aced304b28fdefbda7", null ],
+    [ "CheckStore", "df/d24/a12224.html#aac59e154d81b838f27c577af87b86bd1", null ]
 ];

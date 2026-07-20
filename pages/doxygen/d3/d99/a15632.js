@@ -1,7 +1,9 @@
 var a15632 =
 [
-    [ "npc_anubisath_warder", "d3/d99/a15632.html#aebe14673e5c31000a9626e39d87c6775", null ],
-    [ "JustEngagedWith", "d3/d99/a15632.html#a579318fa519eb669573b2cea78c2fee3", null ],
-    [ "Reset", "d3/d99/a15632.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
-    [ "UpdateAI", "d3/d99/a15632.html#aba428f1f1a016191aa4f168c616c3a29", null ]
+    [ "boss_fankriss", "d3/d99/a15632.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
+    [ "JustEngagedWith", "d3/d99/a15632.html#a9eaae719a271a95f64ac8076fe807c13", null ],
+    [ "Reset", "d3/d99/a15632.html#af84010ee103eb81c1e269b03fc640f81", null ],
+    [ "SummonHatchlingWaves", "d3/d99/a15632.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
+    [ "SummonWorms", "d3/d99/a15632.html#ada23537921c3a11195450db89eb8fcfe", null ],
+    [ "summonWormSpells", "d3/d99/a15632.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
 ];

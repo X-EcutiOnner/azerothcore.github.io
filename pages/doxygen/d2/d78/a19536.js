@@ -1,7 +1,6 @@
 var a19536 =
 [
-    [ "FilterTargets", "d2/d78/a19536.html#a6beccd163ab8442a1ed39c553716cb73", null ],
-    [ "Load", "d2/d78/a19536.html#a5df67c2dbd14a75435f68939240daae6", null ],
-    [ "PrepareSpellScript", "d2/d78/a19536.html#a5be9bf364ae2dece862ed1eee93f9294", null ],
-    [ "Register", "d2/d78/a19536.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e", null ]
+    [ "boss_sapphironAI", "d2/d5b/a19540.html", "d2/d5b/a19540" ],
+    [ "boss_sapphiron", "d2/d78/a19536.html#a87a70204dd727f92d035ad98e2ab9010", null ],
+    [ "GetAI", "d2/d78/a19536.html#a31209287faa721bef341388ae4383b6c", null ]
 ];

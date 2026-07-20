@@ -1,11 +1,10 @@
 var a10616 =
 [
-    [ "AllMapScript", "d5/dc9/a10616.html#aea5284ac6b227dd44b83dc944e220f00", null ],
-    [ "OnBeforeCreateInstanceScript", "d5/dc9/a10616.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
-    [ "OnCreateMap", "d5/dc9/a10616.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
-    [ "OnDestroyInstance", "d5/dc9/a10616.html#a990130b4cd594c1cd04368aea300a49e", null ],
-    [ "OnDestroyMap", "d5/dc9/a10616.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
-    [ "OnMapUpdate", "d5/dc9/a10616.html#a6edbb719d998c57caba09eef7ad559e0", null ],
-    [ "OnPlayerEnterAll", "d5/dc9/a10616.html#a42e4af596effb07a00b353164f32cec9", null ],
-    [ "OnPlayerLeaveAll", "d5/dc9/a10616.html#adcfd501bee055317bff2a63ef28c3eab", null ]
+    [ "QuestStatusData", "d5/dc9/a10616.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
+    [ "CreatureOrGOCount", "d5/dc9/a10616.html#aa5892dc0744a41ac565568307f12ad35", null ],
+    [ "Explored", "d5/dc9/a10616.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
+    [ "ItemCount", "d5/dc9/a10616.html#a466999cea52f65bf58916bc34750bf95", null ],
+    [ "PlayerCount", "d5/dc9/a10616.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
+    [ "Status", "d5/dc9/a10616.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
+    [ "Timer", "d5/dc9/a10616.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
 ];

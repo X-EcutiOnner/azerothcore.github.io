@@ -1,8 +1,9 @@
 var a12876 =
 [
-    [ "MajordomoAddData", "d1/d26/a12876.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
-    [ "MajordomoAddData", "d1/d26/a12876.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
-    [ "creatureEntry", "d1/d26/a12876.html#ae3a0444e88158123f4d6359328e89a1d", null ],
-    [ "guid", "d1/d26/a12876.html#a2f2b0aaace557361a21d1072f36933dc", null ],
-    [ "spawnPos", "d1/d26/a12876.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
+    [ "npc_drakonid_spawner", "d1/d26/a12876.html#a2b657e800dc5cc30c618391413ded116", null ],
+    [ "DoAction", "d1/d26/a12876.html#ab013cff0430c09fe1045fdc735e45182", null ],
+    [ "IsSummonedBy", "d1/d26/a12876.html#a6a2170e0f20736d69006ce6d6c769476", null ],
+    [ "SummonedCreatureDies", "d1/d26/a12876.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
+    [ "UpdateAI", "d1/d26/a12876.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
+    [ "_owner", "d1/d26/a12876.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
 ];

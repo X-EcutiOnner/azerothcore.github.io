@@ -1,17 +1,23 @@
 var a03152 =
 [
-    [ "DeleteSpellFromAllPlayers", "d0/d9f/a03152.html#af0dec25ac7c118b67a71a0356eb37877", null ],
-    [ "GetDiminishingReturnsGroupForSpell", "d0/d9f/a03152.html#a35697cceaf39daf069d06c53e8e3cdf7", null ],
-    [ "GetDiminishingReturnsGroupType", "d0/d9f/a03152.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1", null ],
-    [ "GetDiminishingReturnsLimitDuration", "d0/d9f/a03152.html#a2ba27d428865ac3f87bf6f6843271d3f", null ],
-    [ "GetDiminishingReturnsMaxLevel", "d0/d9f/a03152.html#ad621262d491c800fb5ddd016250dd46f", null ],
-    [ "InitTriggerAuraData", "d0/d9f/a03152.html#a70fb722e03fe637ce7c9979a00725a3c", null ],
-    [ "IsDiminishingReturnsGroupDurationLimited", "d0/d9f/a03152.html#a423a80c889a3456a2b55e0e9c22ad060", null ],
-    [ "IsPartOfSkillLine", "d0/d9f/a03152.html#a18102741b602d3b4473f75d4f619a09b", null ],
-    [ "IsPrimaryProfessionSkill", "d0/d9f/a03152.html#a09c4e23bd85fab812b67beafbbf1b7b3", null ],
-    [ "LoadPetDefaultSpells_helper", "d0/d9f/a03152.html#a26626d5f5404864fcd622872f5cd8af1", null ],
-    [ "isAlwaysTriggeredAura", "d0/d9f/a03152.html#a59735a3ed46ce3add4f949e4c9e041f8", null ],
-    [ "isTriggerAura", "d0/d9f/a03152.html#ad51bed43268eefcceebdda05d85c6a61", null ],
-    [ "procPrepared", "d0/d9f/a03152.html#a11410c456e972de7cfb44bbe17709cc4", null ],
-    [ "spellTypeMask", "d0/d9f/a03152.html#aacbfece2441a495ad1e709acd28bc9b7", null ]
+    [ "boss_ghazan", "d4/d2c/a23248.html", "d4/d2c/a23248" ],
+    [ "at_underbog_ghazan", "d3/d93/a23252.html", "d3/d93/a23252" ],
+    [ "eBlackStalker", "d0/d9f/a03152.html#afbee42c6927db9ad2cf9d9096eeac954", [
+      [ "SPELL_ACID_BREATH", "d0/d9f/a03152.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c", null ],
+      [ "SPELL_ACID_SPIT", "d0/d9f/a03152.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806", null ],
+      [ "SPELL_TAIL_SWEEP", "d0/d9f/a03152.html#afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823", null ],
+      [ "SPELL_ENRAGE", "d0/d9f/a03152.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "ACTION_MOVE_TO_PLATFORM", "d0/d9f/a03152.html#afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa", null ],
+      [ "SPELL_LEVITATE", "d0/d74/a03149.html#afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2", null ],
+      [ "SPELL_CHAIN_LIGHTNING", "d0/d74/a03149.html#afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d", null ],
+      [ "SPELL_STATIC_CHARGE", "d0/d74/a03149.html#afbee42c6927db9ad2cf9d9096eeac954ad174c0c15c17e6a55eec42eab77d89e0", null ],
+      [ "SPELL_SUMMON_SPORE_STRIDER", "d0/d74/a03149.html#afbee42c6927db9ad2cf9d9096eeac954a754dcc3138f3b4acb829bc54bc02b9ed", null ],
+      [ "SPELL_LEVITATION_PULSE", "d0/d74/a03149.html#afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1", null ],
+      [ "SPELL_SOMEONE_GRAB_ME", "d0/d74/a03149.html#afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b", null ],
+      [ "SPELL_MAGNETIC_PULL", "d0/d74/a03149.html#afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5", null ],
+      [ "SPELL_SUSPENSION_PRIMER", "d0/d74/a03149.html#afbee42c6927db9ad2cf9d9096eeac954a38589209a4f90f4db2f89b249f6840de", null ],
+      [ "SPELL_SUSPENSION", "d0/d74/a03149.html#afbee42c6927db9ad2cf9d9096eeac954a0b7462c628390d15bd33088fb3d2a6a0", null ],
+      [ "ENTRY_SPORE_STRIDER", "d0/d74/a03149.html#afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2", null ]
+    ] ],
+    [ "AddSC_boss_ghazan", "d0/d9f/a03152.html#a6b7605f750dab7f676edcd83f54c249a", null ]
 ];

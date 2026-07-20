@@ -1,9 +1,7 @@
 var a22192 =
 [
-    [ "OPvPCapturePointGH", "db/db7/a22192.html#a6e46100e50212310af4301c492d5773e", null ],
-    [ "ChangeState", "db/db7/a22192.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
-    [ "FillInitialWorldStates", "db/db7/a22192.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
-    [ "HandlePlayerEnter", "db/db7/a22192.html#afea733c44d129d9a5af78a8337d9e04a", null ],
-    [ "HandlePlayerLeave", "db/db7/a22192.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
-    [ "SendChangePhase", "db/db7/a22192.html#aec741b9102829bf77850dc06a49bb8da", null ]
+    [ "HandleScript", "db/db7/a22192.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
+    [ "PrepareSpellScript", "db/db7/a22192.html#a8400fb2e0955444aee21b994d78b78c3", null ],
+    [ "Register", "db/db7/a22192.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
+    [ "Validate", "db/db7/a22192.html#aa9c2280cbb38db2620db9869e4959153", null ]
 ];

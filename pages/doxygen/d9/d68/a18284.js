@@ -1,12 +1,7 @@
 var a18284 =
 [
-    [ "npc_precious_iccAI", "d9/d68/a18284.html#a90dff89c652339ecf7479d2c9233962a", null ],
-    [ "JustDied", "d9/d68/a18284.html#a06671144929a3783f17397b818016032", null ],
-    [ "JustEngagedWith", "d9/d68/a18284.html#a05cd30f0bf149d16c75ad3f717cb9dcc", null ],
-    [ "JustSummoned", "d9/d68/a18284.html#adafed6974cbd70ccfc0f9ee83732d162", null ],
-    [ "Reset", "d9/d68/a18284.html#a9ecb9771140d1248c08c56886c8d4ca9", null ],
-    [ "SummonedCreatureDespawn", "d9/d68/a18284.html#af59e24c588861fe7d1bcd456780f571a", null ],
-    [ "UpdateAI", "d9/d68/a18284.html#a1fd3a4d7d16bb93be68d8b135546ab1e", null ],
-    [ "events", "d9/d68/a18284.html#a4ac57f4ffe0886f463378b42525e2e4d", null ],
-    [ "summons", "d9/d68/a18284.html#ab752e504c7cf463a4447a07fbb67211c", null ]
+    [ "HandleDummy", "d9/d68/a18284.html#aa61db53d7395fd45b8569e12978fed0b", null ],
+    [ "PrepareSpellScript", "d9/d68/a18284.html#ab63054debe6763027ab52ad122277719", null ],
+    [ "Register", "d9/d68/a18284.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
+    [ "Validate", "d9/d68/a18284.html#adb7e30d10c2071de5d5070b64a10af30", null ]
 ];

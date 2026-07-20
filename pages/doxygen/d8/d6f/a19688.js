@@ -1,7 +1,5 @@
 var a19688 =
 [
-    [ "HandleProc", "d8/d6f/a19688.html#adb7714eca4c317ab76db0ecbc813669e", null ],
-    [ "PrepareAuraScript", "d8/d6f/a19688.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
-    [ "Register", "d8/d6f/a19688.html#a445ce7331c36e507aa24466ff9a67781", null ],
-    [ "Validate", "d8/d6f/a19688.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
+    [ "achievement_intense_cold", "d8/d6f/a19688.html#a2377357d6bfc03e5b91354428d3da3de", null ],
+    [ "OnCheck", "d8/d6f/a19688.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
 ];

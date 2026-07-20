@@ -1,12 +1,15 @@
 var a06456 =
 [
-    [ "TotemAI", "dd/d1b/a06456.html#ad57f973e52d22f45b5171faeb28f2e91", null ],
-    [ "AttackStart", "dd/d1b/a06456.html#aa5bb81b51ec79a4328016cca34363880", null ],
-    [ "DoAction", "dd/d1b/a06456.html#a9457dae982b3c1d411aa42ff2f30feac", null ],
-    [ "EnterEvadeMode", "dd/d1b/a06456.html#acd8ed4528ac7c16182a0470e49b422f6", null ],
-    [ "MoveInLineOfSight", "dd/d1b/a06456.html#a796d05b45b4ba4dc23f04897fc2ce253", null ],
-    [ "Permissible", "dd/d1b/a06456.html#a75a0cdb27da98b47cf3ccbd2e594cd18", null ],
-    [ "SpellHit", "dd/d1b/a06456.html#a7a5fc1dc37708fab628bc78bb28575be", null ],
-    [ "UpdateAI", "dd/d1b/a06456.html#a2b5b3c8bb51d83bfa8f3474a868fcb19", null ],
-    [ "i_victimGuid", "dd/d1b/a06456.html#ae651f8f7a02261c1a0e37a6c7ddde4be", null ]
+    [ "VehicleAI", "dd/d1b/a06456.html#aeb8d08eeea0ac12a72ff5dbaf40e9835", null ],
+    [ "AttackStart", "dd/d1b/a06456.html#ad06972054ef4525411e859d291226783", null ],
+    [ "CheckConditions", "dd/d1b/a06456.html#afcee52b5173ec8b9850da63c1d58cded", null ],
+    [ "LoadConditions", "dd/d1b/a06456.html#a2c49067fa9953ba4db4cc6b03a7a9fb0", null ],
+    [ "MoveInLineOfSight", "dd/d1b/a06456.html#a48213b69fa4f0034cdc3cd60841d0636", null ],
+    [ "OnCharmed", "dd/d1b/a06456.html#a2a593f895c6296c4100af075d971b5b3", null ],
+    [ "Permissible", "dd/d1b/a06456.html#a39ad0764dce6586aef86fcd96c2c221c", null ],
+    [ "UpdateAI", "dd/d1b/a06456.html#aac593372592d33fa008a66c6dcec1840", null ],
+    [ "conditions", "dd/d1b/a06456.html#ae95dc46465404271faaae4b2dc61277a", null ],
+    [ "m_ConditionsTimer", "dd/d1b/a06456.html#a3a46c5f18b019852460170e1200b11b4", null ],
+    [ "m_DismissTimer", "dd/d1b/a06456.html#a34000f32495dbee3a550147e1e86d761", null ],
+    [ "m_DoDismiss", "dd/d1b/a06456.html#a505c1bacb159950e19518ad3b5740a3e", null ]
 ];

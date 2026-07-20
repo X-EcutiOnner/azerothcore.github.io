@@ -1,9 +1,6 @@
 var a12764 =
 [
-    [ "FilterTargets", "d7/dd7/a12764.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "d7/dd7/a12764.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "d7/dd7/a12764.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "d7/dd7/a12764.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "d7/dd7/a12764.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "d7/dd7/a12764.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "OrcDeathEvent", "d7/dd7/a12764.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
+    [ "Execute", "d7/dd7/a12764.html#a293ec6667da669a27fe75965f919cd68", null ],
+    [ "_me", "d7/dd7/a12764.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
 ];

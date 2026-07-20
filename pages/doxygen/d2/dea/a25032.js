@@ -1,7 +1,7 @@
 var a25032 =
 [
-    [ "HandleScript", "d2/dea/a25032.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
-    [ "PrepareSpellScript", "d2/dea/a25032.html#a7909f23da8385abdabb62e5196d88d38", null ],
-    [ "Register", "d2/dea/a25032.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
-    [ "Validate", "d2/dea/a25032.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
+    [ "HandleEffectApply", "d2/dea/a25032.html#a97a639459622c9e3e995057989cf9eda", null ],
+    [ "HandleEffectRemove", "d2/dea/a25032.html#a7477bb78ffcc082c111bad4e93b9fd73", null ],
+    [ "PrepareAuraScript", "d2/dea/a25032.html#aa3c4018e18eccd8f12e4607f4bc630ec", null ],
+    [ "Register", "d2/dea/a25032.html#a40793c696a759db4920c4c34f5b9fa66", null ]
 ];

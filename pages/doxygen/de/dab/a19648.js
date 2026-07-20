@@ -1,15 +1,8 @@
 var a19648 =
 [
-    [ "boss_varosAI", "de/dab/a19648.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
-    [ "EnterEvadeMode", "de/dab/a19648.html#a0b7eeef4529b47357d729852cdeab002", null ],
-    [ "JustDied", "de/dab/a19648.html#a2724167a66a059e1c0ca1612d8405d68", null ],
-    [ "JustEngagedWith", "de/dab/a19648.html#a2f25555ca2884f6bffb289d209e87740", null ],
-    [ "JustSummoned", "de/dab/a19648.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
-    [ "MoveInLineOfSight", "de/dab/a19648.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
-    [ "Reset", "de/dab/a19648.html#aef24d04954a26bb6381c860403e84288", null ],
-    [ "UpdateAI", "de/dab/a19648.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
-    [ "events", "de/dab/a19648.html#a36746118770c936e7606962365e102d8", null ],
-    [ "pInstance", "de/dab/a19648.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
-    [ "step", "de/dab/a19648.html#af4c8e11f0aad369f09902eb1ccc48059", null ],
-    [ "ZapAngle", "de/dab/a19648.html#aef225fcf580c5e500d3242ac4be24260", null ]
+    [ "Load", "de/dab/a19648.html#af8ef90a44a5405e58dbb3003642c078b", null ],
+    [ "PrepareSpellScript", "de/dab/a19648.html#a40649371440d62e4ba8af1b077880d0b", null ],
+    [ "Register", "de/dab/a19648.html#ae2e6dbec0ace878477b6024e45d8dac0", null ],
+    [ "SendThreeTargets", "de/dab/a19648.html#ab16b83839ce9136da84691640020f846", null ],
+    [ "Validate", "de/dab/a19648.html#a27686bfd0d6029cc4667738b0af4bec4", null ]
 ];

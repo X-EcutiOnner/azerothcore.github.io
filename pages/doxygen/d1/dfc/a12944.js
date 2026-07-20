@@ -1,6 +1,9 @@
 var a12944 =
 [
-    [ "boss_mr_smiteAI", "d6/d4d/a12948.html", "d6/d4d/a12948" ],
-    [ "boss_mr_smite", "d1/dfc/a12944.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "d1/dfc/a12944.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "HandleAfterApply", "d1/dfc/a12944.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
+    [ "HandleAfterRemove", "d1/dfc/a12944.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
+    [ "PeriodicTick", "d1/dfc/a12944.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
+    [ "PrepareAuraScript", "d1/dfc/a12944.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
+    [ "Register", "d1/dfc/a12944.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
+    [ "Validate", "d1/dfc/a12944.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
 ];

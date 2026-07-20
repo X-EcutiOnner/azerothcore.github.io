@@ -1,7 +1,7 @@
 var a21784 =
 [
-    [ "Absorb", "df/d4a/a21784.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "df/d4a/a21784.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "df/d4a/a21784.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "df/d4a/a21784.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "HandleScriptEffect", "df/d4a/a21784.html#a2d39a073c351860db735301b4cf9c79f", null ],
+    [ "PrepareSpellScript", "df/d4a/a21784.html#a3674adaef23f1531af360a65c14efadd", null ],
+    [ "Register", "df/d4a/a21784.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
+    [ "Validate", "df/d4a/a21784.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
 ];

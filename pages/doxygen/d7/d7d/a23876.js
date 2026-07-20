@@ -1,6 +1,6 @@
 var a23876 =
 [
-    [ "npc_torloth_the_magnificentAI", "d1/dee/a23880.html", "d1/dee/a23880" ],
-    [ "npc_torloth_the_magnificent", "d7/d7d/a23876.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
-    [ "GetAI", "d7/d7d/a23876.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
+    [ "npc_ancestral_wolfAI", "d1/dee/a23880.html", "d1/dee/a23880" ],
+    [ "npc_ancestral_wolf", "d7/d7d/a23876.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "d7/d7d/a23876.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

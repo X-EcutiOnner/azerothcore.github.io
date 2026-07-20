@@ -1,6 +1,6 @@
 var a12916 =
 [
-    [ "boss_sulfuron", "dc/d0b/a12916.html#a7ede84fab05e5cb008036be559c3c799", null ],
-    [ "ExecuteEvent", "dc/d0b/a12916.html#a5db50a398c704d8276566c1d74111d19", null ],
-    [ "JustEngagedWith", "dc/d0b/a12916.html#a320f58043ee525656a7c2fe94a2a4371", null ]
+    [ "HandleOnHit", "dc/d0b/a12916.html#a804097903354ab3a730f0fe3eb5ec863", null ],
+    [ "PrepareSpellScript", "dc/d0b/a12916.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
+    [ "Register", "dc/d0b/a12916.html#a53bed6f1af71fd309a04bc004d07be80", null ]
 ];

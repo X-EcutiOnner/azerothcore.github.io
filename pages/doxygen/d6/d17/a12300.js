@@ -1,10 +1,7 @@
 var a12300 =
 [
-    [ "item_commandscript", "d6/d17/a12300.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
-    [ "GetCommands", "d6/d17/a12300.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
-    [ "HandleItemMoveCommand", "d6/d17/a12300.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
-    [ "HandleItemRefundCommand", "d6/d17/a12300.html#af914e33be05148062abd89c754d939c9", null ],
-    [ "HandleItemRestoreCommand", "d6/d17/a12300.html#a84c67a46c513c1aac2b9d2563d693929", null ],
-    [ "HandleItemRestoreListCommand", "d6/d17/a12300.html#a40181310f4187a71a6f5f5f600a8f468", null ],
-    [ "HasItemDeletionConfig", "d6/d17/a12300.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
+    [ "map", "d6/d17/a12300.html#ab52fa79b07a9fad5b0cf8a28669a94eb", null ],
+    [ "pallid", "d6/d17/a12300.html#a0693df9090f40b7b1b8dba0003b6092e", null ],
+    [ "pallidGuid", "d6/d17/a12300.html#ae78b3d7448e8f43a993f46208039f0b1", null ],
+    [ "zoneId", "d6/d17/a12300.html#ad035d67dce95aa1ad7a1f39b1cf7b847", null ]
 ];

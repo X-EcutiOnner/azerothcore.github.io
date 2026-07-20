@@ -1,7 +1,8 @@
 var a13536 =
 [
-    [ "OnPeriodic", "de/d98/a13536.html#ab193b7cf8a8fe91879317e7d21522976", null ],
-    [ "PrepareAuraScript", "de/d98/a13536.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
-    [ "Register", "de/d98/a13536.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
-    [ "Validate", "de/d98/a13536.html#a290b864756ceff85d52ba3f974a28217", null ]
+    [ "HandleHit", "de/d98/a13536.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
+    [ "PrepareSpellScript", "de/d98/a13536.html#a53f170244b390f7035e131fb5c79cb3f", null ],
+    [ "Register", "de/d98/a13536.html#a248124b837cf71f7d422154db4581747", null ],
+    [ "Validate", "de/d98/a13536.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
+    [ "_emote", "de/d98/a13536.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
 ];

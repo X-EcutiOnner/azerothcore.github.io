@@ -1,7 +1,7 @@
 var a20740 =
 [
-    [ "FilterTargets", "d0/d65/a20740.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
-    [ "HandleDummyEffect", "d0/d65/a20740.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
-    [ "PrepareSpellScript", "d0/d65/a20740.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
-    [ "Register", "d0/d65/a20740.html#a337cdb940a2001ac370768b02126d3c0", null ]
+    [ "npc_xt_void_zone", "d0/d65/a20740.html#ac392b70098ff8a486d1eb42c4dcd1551", null ],
+    [ "Reset", "d0/d65/a20740.html#a72b02a51f71370f83b58d3fdb32dccd2", null ],
+    [ "UpdateAI", "d0/d65/a20740.html#a7b49046e49cdf6b94ed6368197daeace", null ],
+    [ "_scheduler", "d0/d65/a20740.html#acfd9e9a23c88e74ad96a14f8fb560612", null ]
 ];

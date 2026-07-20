@@ -1,6 +1,6 @@
 var a23488 =
 [
-    [ "AfterRemove", "dc/d2b/a23488.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "dc/d2b/a23488.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "dc/d2b/a23488.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "PrepareSpellScript", "dc/d2b/a23488.html#a5b17110b189b7134939aea9dbf2d724b", null ],
+    [ "Register", "dc/d2b/a23488.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
+    [ "SelectRandomPlayer", "dc/d2b/a23488.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
 ];

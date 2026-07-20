@@ -1,6 +1,7 @@
 var a23832 =
 [
-    [ "npc_infernal_attackerAI", "d7/db3/a23836.html", "d7/db3/a23836" ],
-    [ "npc_infernal_attacker", "d4/dce/a23832.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "d4/dce/a23832.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "npc_daranelleAI", "d4/dce/a23832.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "d4/dce/a23832.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "d4/dce/a23832.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "d4/dce/a23832.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

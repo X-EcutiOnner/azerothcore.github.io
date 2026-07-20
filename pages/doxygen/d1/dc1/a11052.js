@@ -1,7 +1,7 @@
 var a11052 =
 [
-    [ "GuildSetMemberNote", "d1/dc1/a11052.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
-    [ "Read", "d1/dc1/a11052.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
-    [ "Note", "d1/dc1/a11052.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
-    [ "NoteeName", "d1/dc1/a11052.html#acf6beb0a5b122a04162e9d2c027203af", null ]
+    [ "GuildInvite", "d1/dc1/a11052.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
+    [ "Write", "d1/dc1/a11052.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
+    [ "GuildName", "d1/dc1/a11052.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
+    [ "InviterName", "d1/dc1/a11052.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
 ];

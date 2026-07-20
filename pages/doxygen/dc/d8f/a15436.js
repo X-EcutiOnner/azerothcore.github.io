@@ -1,8 +1,6 @@
 var a15436 =
 [
-    [ "npc_obsidian_destroyer", "dc/d8f/a15436.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
-    [ "JustDied", "dc/d8f/a15436.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
-    [ "JustEngagedWith", "dc/d8f/a15436.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
-    [ "Reset", "dc/d8f/a15436.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
-    [ "UpdateAI", "dc/d8f/a15436.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
+    [ "instance_razorfen_kraul_InstanceMapScript", "db/dee/a15440.html", "db/dee/a15440" ],
+    [ "instance_razorfen_kraul", "dc/d8f/a15436.html#aedd65b901c8131a7ac21e8576734f76f", null ],
+    [ "GetInstanceScript", "dc/d8f/a15436.html#a78e77010ebb055b9530733ca25533110", null ]
 ];

@@ -1,8 +1,7 @@
 var a27676 =
 [
-    [ "CharacterActionIpLogger", "d3/d08/a27676.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "d3/d08/a27676.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "d3/d08/a27676.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "d3/d08/a27676.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "d3/d08/a27676.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "HandleDummy", "d3/d08/a27676.html#a436ed0843e0035308c69f0854decd7f2", null ],
+    [ "PrepareSpellScript", "d3/d08/a27676.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
+    [ "Register", "d3/d08/a27676.html#a0b69f667ea83dee61206bbc723020cbc", null ],
+    [ "Validate", "d3/d08/a27676.html#a93e68d77227297883aae472ef08fb67c", null ]
 ];

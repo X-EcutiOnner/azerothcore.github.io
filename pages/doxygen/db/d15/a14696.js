@@ -1,11 +1,9 @@
 var a14696 =
 [
-    [ "o", "db/d15/a14696.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
-    [ "rot0", "db/d15/a14696.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
-    [ "rot1", "db/d15/a14696.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
-    [ "rot2", "db/d15/a14696.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
-    [ "rot3", "db/d15/a14696.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
-    [ "x", "db/d15/a14696.html#a6e527854cf0959995d6b0133dedc94c9", null ],
-    [ "y", "db/d15/a14696.html#a7536047696bd4883237369976b503131", null ],
-    [ "z", "db/d15/a14696.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
+    [ "CheckCast", "db/d15/a14696.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "db/d15/a14696.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "db/d15/a14696.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "db/d15/a14696.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "db/d15/a14696.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "db/d15/a14696.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

@@ -1,6 +1,10 @@
 var a18132 =
 [
-    [ "npc_gas_cloudAI", "db/d12/a18132.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
-    [ "CastMainSpell", "db/d12/a18132.html#a61681f6f9616fe33274302d4160c709b", null ],
-    [ "_newTargetSelectTimer", "db/d12/a18132.html#a6989b904abaa5b71362e43664f4b084d", null ]
+    [ "npc_cult_fanaticAI", "db/d12/a18132.html#a766e536288b84110f88a8bd282e97932", null ],
+    [ "JustEngagedWith", "db/d12/a18132.html#a709b75f4b1519bc7c6988985a22d076f", null ],
+    [ "Reset", "db/d12/a18132.html#a772830df1d16d0463c8c00f14c337db0", null ],
+    [ "SpellHit", "db/d12/a18132.html#a17c02a83b522c9717de3d89517104e42", null ],
+    [ "UpdateAI", "db/d12/a18132.html#ac79afdab3721d78d2b7e5da360083cea", null ],
+    [ "_instance", "db/d12/a18132.html#a7448fdf85cccfcb12509b0274205bff4", null ],
+    [ "events", "db/d12/a18132.html#a9576978141062fa1babbbc5ed42483c4", null ]
 ];

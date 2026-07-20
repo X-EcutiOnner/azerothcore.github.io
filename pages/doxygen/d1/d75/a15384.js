@@ -1,6 +1,10 @@
 var a15384 =
 [
-    [ "HandleScript", "d1/d75/a15384.html#a7e6ec873a252106ba865bdef05f757f5", null ],
-    [ "PrepareSpellScript", "d1/d75/a15384.html#a98e80c8726c350aca850b6c87c5861da", null ],
-    [ "Register", "d1/d75/a15384.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
+    [ "CurrId", "d1/d75/a15384.html#a126d1c0e7d475a07acd91de471cb7cab", null ],
+    [ "DestId", "d1/d75/a15384.html#a7b12c520ee50ab29e5047a1c71b22729", null ],
+    [ "o", "d1/d75/a15384.html#a94c284d63e66765c4d484c8edea8fdb8", null ],
+    [ "spellId", "d1/d75/a15384.html#a7240ecd6f50a6db0e2be4eb4e55b3a48", null ],
+    [ "x", "d1/d75/a15384.html#a41c7bdb057d984f552a41835651d84f5", null ],
+    [ "y", "d1/d75/a15384.html#abe083129d7a4e514e97eeae7cff40af5", null ],
+    [ "z", "d1/d75/a15384.html#ac49d886d09e2ebf8ccf8abd59a9649ec", null ]
 ];

@@ -1,6 +1,6 @@
 var a27740 =
 [
-    [ "boss_lethonAI", "d0/d8b/a27744.html", "d0/d8b/a27744" ],
-    [ "boss_lethon", "dc/d74/a27740.html#a5d758979b061646830373de64b2b3af4", null ],
-    [ "GetAI", "dc/d74/a27740.html#a493baf37aac400635dd0409e79375a1c", null ]
+    [ "HandleEffectCalcSpellMod", "dc/d74/a27740.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "dc/d74/a27740.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "dc/d74/a27740.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

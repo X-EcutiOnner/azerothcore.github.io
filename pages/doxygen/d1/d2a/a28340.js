@@ -1,7 +1,10 @@
 var a28340 =
 [
-    [ "HandleDummy", "d1/d2a/a28340.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "d1/d2a/a28340.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "d1/d2a/a28340.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "d1/d2a/a28340.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "npc_dancing_flamesAI", "d1/d2a/a28340.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "d1/d2a/a28340.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "d1/d2a/a28340.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "d1/d2a/a28340.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "d1/d2a/a28340.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "d1/d2a/a28340.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "d1/d2a/a28340.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

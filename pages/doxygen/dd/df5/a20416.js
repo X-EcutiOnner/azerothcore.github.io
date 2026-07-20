@@ -1,8 +1,5 @@
 var a20416 =
 [
-    [ "npc_ulduar_mimiron_rocket", "dd/df5/a20416.html#abd32fde821053b6c8aa3dd83e25b6ad6", null ],
-    [ "InitializeAI", "dd/df5/a20416.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
-    [ "Reset", "dd/df5/a20416.html#a982da2f2392882a86e72de4c4769fa41", null ],
-    [ "SetData", "dd/df5/a20416.html#a507124f21657b62ff2b68060b52503b1", null ],
-    [ "UpdateAI", "dd/df5/a20416.html#ac26ec740ce5fa75f96babbe26e2263cc", null ]
+    [ "achievement_i_could_say_that_this_cache_was_rare", "dd/df5/a20416.html#a8ec1949d92f21fe57f967e510453da3e", null ],
+    [ "OnCheck", "dd/df5/a20416.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
 ];

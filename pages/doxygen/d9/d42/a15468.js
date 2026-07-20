@@ -1,5 +1,8 @@
 var a15468 =
 [
-    [ "NotInStomachSelector", "d9/d42/a15468.html#a766a75e73261ac8bb76c90e8befd21ad", null ],
-    [ "operator()", "d9/d42/a15468.html#a189c90e585ecef8ffbcbe9227c588946", null ]
+    [ "HandleScript", "d9/d42/a15468.html#ac58aef1b295e32c8a44852278edc18f8", null ],
+    [ "Load", "d9/d42/a15468.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
+    [ "PrepareSpellScript", "d9/d42/a15468.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
+    [ "Register", "d9/d42/a15468.html#a95f4abd67d6baf75980ff28a7518503d", null ],
+    [ "Validate", "d9/d42/a15468.html#a98271e7adb17b11e39241154a83b0d0d", null ]
 ];

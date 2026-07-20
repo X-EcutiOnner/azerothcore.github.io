@@ -1,7 +1,10 @@
 var a19516 =
 [
-    [ "npc_eoe_wyrmrest_skytalon", "df/d94/a19516.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
-    [ "IsSummonedBy", "df/d94/a19516.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
-    [ "JustDied", "df/d94/a19516.html#a65df31829e801154ee20d55ad1c15721", null ],
-    [ "PassengerBoarded", "df/d94/a19516.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
+    [ "boss_patchwerkAI", "df/d94/a19516.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "df/d94/a19516.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "df/d94/a19516.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "df/d94/a19516.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "df/d94/a19516.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "df/d94/a19516.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "df/d94/a19516.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

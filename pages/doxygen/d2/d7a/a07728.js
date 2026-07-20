@@ -1,10 +1,12 @@
 var a07728 =
 [
-    [ "BattlegroundEYCapturingPointStruct", "d2/d7a/a07728.html#a54164bcb9e4235b15d8a5d8a27fbe41c", null ],
-    [ "DespawnNeutralObjectType", "d2/d7a/a07728.html#a77b4eac66780587e6be0eb380e29c9ce", null ],
-    [ "GraveyardId", "d2/d7a/a07728.html#a23524562fd9c875b29092ee7e7a4e44b", null ],
-    [ "MessageIdAlliance", "d2/d7a/a07728.html#af3295d59367354a4ddaac12258e793b8", null ],
-    [ "MessageIdHorde", "d2/d7a/a07728.html#a5c82eae433ee69b5bda8c96049a06422", null ],
-    [ "SpawnObjectTypeAlliance", "d2/d7a/a07728.html#aeeeecdf09990c74ffc868a135854d49b", null ],
-    [ "SpawnObjectTypeHorde", "d2/d7a/a07728.html#a4b25984504b15c7249d2e5866ad35962", null ]
+    [ "NodeId", "d2/d7a/a07728.html#a039c468fa0b6110809f0617496c0146c", null ],
+    [ "TextAllianceAssaulted", "d2/d7a/a07728.html#a345b2ce7c48e9d10d03ff484a0108389", null ],
+    [ "TextAllianceClaims", "d2/d7a/a07728.html#a0671602a29f33e353a8a339540beae18", null ],
+    [ "TextAllianceDefended", "d2/d7a/a07728.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250", null ],
+    [ "TextAllianceTaken", "d2/d7a/a07728.html#a281a0378999ed5966f5d28cc4310fbcd", null ],
+    [ "TextHordeAssaulted", "d2/d7a/a07728.html#a7fb668b0b9563bb0779bf4a5daefded8", null ],
+    [ "TextHordeClaims", "d2/d7a/a07728.html#acddac09017717cf5b2893ab83e1d10c8", null ],
+    [ "TextHordeDefended", "d2/d7a/a07728.html#a00cea010cfe6fb9702e5cb00003e5bef", null ],
+    [ "TextHordeTaken", "d2/d7a/a07728.html#a2bbd1b49b9b72784d07be9db2a27fe77", null ]
 ];

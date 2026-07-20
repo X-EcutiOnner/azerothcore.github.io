@@ -1,6 +1,6 @@
 var a16044 =
 [
-    [ "HandleDummy", "d2/da3/a16044.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "d2/da3/a16044.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "d2/da3/a16044.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_anachronos_quest_triggerAI", "dd/d74/a16048.html", "dd/d74/a16048" ],
+    [ "npc_anachronos_quest_trigger", "d2/da3/a16044.html#ad39871952acd3152b51820fe360f4ebd", null ],
+    [ "GetAI", "d2/da3/a16044.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
 ];

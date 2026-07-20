@@ -1,10 +1,5 @@
 var a29720 =
 [
-    [ "Exception", "de/d96/a29720.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "de/d96/a29720.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "Exception", "de/d96/a29720.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "de/d96/a29720.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "getMessage", "de/d96/a29720.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "getMessage", "de/d96/a29720.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "message", "de/d96/a29720.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
+    [ "aura", "de/d96/a29720.html#a6a57282648f4792e6dfaf4c892be90eb", null ],
+    [ "effect", "de/d96/a29720.html#a24ce38279cb514bab8ef9924d93b5dfc", null ]
 ];

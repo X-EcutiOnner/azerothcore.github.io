@@ -1,6 +1,6 @@
 var a18876 =
 [
-    [ "npc_frost_freeze_trapAI", "d3/dec/a18880.html", "d3/dec/a18880" ],
-    [ "npc_frost_freeze_trap", "d3/dd0/a18876.html#ac58ed2598fd4250f220208a91343f9b8", null ],
-    [ "GetAI", "d3/dd0/a18876.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
+    [ "npc_valithria_portalAI", "d3/dec/a18880.html", "d3/dec/a18880" ],
+    [ "npc_valithria_portal", "d3/dd0/a18876.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
+    [ "GetAI", "d3/dd0/a18876.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
 ];

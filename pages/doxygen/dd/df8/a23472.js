@@ -1,6 +1,6 @@
 var a23472 =
 [
-    [ "HandlePeriodic", "dd/df8/a23472.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
-    [ "PrepareAuraScript", "dd/df8/a23472.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
-    [ "Register", "dd/df8/a23472.html#acf77c76f02671da215c7103b60ed77ac", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "dd/d7f/a23476.html", "dd/d7f/a23476" ],
+    [ "instance_magtheridons_lair", "dd/df8/a23472.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
+    [ "GetInstanceScript", "dd/df8/a23472.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
 ];

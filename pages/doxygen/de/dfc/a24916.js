@@ -1,6 +1,6 @@
 var a24916 =
 [
-    [ "CheckSeat", "de/dfc/a24916.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
-    [ "PrepareSpellScript", "de/dfc/a24916.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
-    [ "Register", "de/dfc/a24916.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
+    [ "OnPeriodic", "de/dfc/a24916.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
+    [ "PrepareAuraScript", "de/dfc/a24916.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
+    [ "Register", "de/dfc/a24916.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
 ];

@@ -1,17 +1,11 @@
 var a13248 =
 [
-    [ "boss_priestess_lackey_commonAI", "dc/df4/a13248.html#acf122076823631cef5d66e03a9f607aa", null ],
-    [ "AttackStart", "dc/df4/a13248.html#a6056ef3425f39208e5731b25fc94a335", null ],
-    [ "EnterEvadeMode", "dc/df4/a13248.html#a6935410d7a4ce8e9dec9feed9f5351d7", null ],
-    [ "GetThreatMod", "dc/df4/a13248.html#a2e0e387ae4645c9bbd4625d1469403a8", null ],
-    [ "JustDied", "dc/df4/a13248.html#a8b06ee0a3e22d495a41ccf4c7009ad2d", null ],
-    [ "JustEngagedWith", "dc/df4/a13248.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7", null ],
-    [ "JustSummoned", "dc/df4/a13248.html#a9a7bcf641bae31827872faf7666635d5", null ],
-    [ "KilledUnit", "dc/df4/a13248.html#a23aaa0a619470898dd617a18130ca17b", null ],
-    [ "RecalculateThreat", "dc/df4/a13248.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2", null ],
-    [ "Reset", "dc/df4/a13248.html#aa2ef03d73c43668c97205fa72414e71b", null ],
-    [ "UpdateAI", "dc/df4/a13248.html#adf87bd797da345e49700265319d808cc", null ],
-    [ "aiType", "dc/df4/a13248.html#a2b7ccbf195658e402ba6f276b18e3551", null ],
-    [ "instance", "dc/df4/a13248.html#ac71aa86c97fe11d934f09d62c4ed8eab", null ],
-    [ "summons", "dc/df4/a13248.html#a498ef73fcc7995113318c5f0b6efa23e", null ]
+    [ "boss_terestian_illhoof", "dc/df4/a13248.html#a5750bf4f12ac01216335a926f885e136", null ],
+    [ "JustDied", "dc/df4/a13248.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
+    [ "JustEngagedWith", "dc/df4/a13248.html#adc1f9195954eda7ec406ac9a084b7508", null ],
+    [ "JustSummoned", "dc/df4/a13248.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
+    [ "KilledUnit", "dc/df4/a13248.html#ab7de8b406de200eec981fab79a56dcd7", null ],
+    [ "Reset", "dc/df4/a13248.html#a685b00f0e3317740412adfc48df1c3fb", null ],
+    [ "SpellHit", "dc/df4/a13248.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
+    [ "SummonKilrek", "dc/df4/a13248.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
 ];

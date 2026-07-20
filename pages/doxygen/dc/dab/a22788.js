@@ -1,11 +1,10 @@
 var a22788 =
 [
-    [ "boss_doomwalker", "dc/dab/a22788.html#a47811086ff98b1a09af5300af94b6c0e", null ],
-    [ "JustDied", "dc/dab/a22788.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
-    [ "JustEngagedWith", "dc/dab/a22788.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
-    [ "KilledUnit", "dc/dab/a22788.html#a2335eb642940397f73ee2a8051624e8e", null ],
-    [ "MoveInLineOfSight", "dc/dab/a22788.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
-    [ "Reset", "dc/dab/a22788.html#aba08b227d629c9f35e59f465e29c267b", null ],
-    [ "UpdateAI", "dc/dab/a22788.html#a3105c50e512c6f709985cece619b131f", null ],
-    [ "_inEnrage", "dc/dab/a22788.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
+    [ "CalculateAmount", "dc/dab/a22788.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
+    [ "CheckProc", "dc/dab/a22788.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
+    [ "HandleProc", "dc/dab/a22788.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
+    [ "PrepareAuraScript", "dc/dab/a22788.html#a6e066884663276dbba82e46ca5f66e59", null ],
+    [ "Register", "dc/dab/a22788.html#ac4154f0746e77229e8d349021d5b9c30", null ],
+    [ "Update", "dc/dab/a22788.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
+    [ "Validate", "dc/dab/a22788.html#a4f10d23f63c47b408b70373623b877a8", null ]
 ];

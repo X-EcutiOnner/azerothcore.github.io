@@ -1,7 +1,12 @@
 var a14284 =
 [
-    [ "HandleTriggerSpell", "dc/daa/a14284.html#a66b366f4989d99a58b331e56024e4520", null ],
-    [ "PrepareAuraScript", "dc/daa/a14284.html#a4b00497e095b5c43571b543252b31e58", null ],
-    [ "Register", "dc/daa/a14284.html#abacee7689888bf8c5d21b534a6d71b40", null ],
-    [ "Validate", "dc/daa/a14284.html#a6bef0ac760a319deed6f71fee213e885", null ]
+    [ "npc_akilzon_eagle", "dc/daa/a14284.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
+    [ "JustEngagedWith", "dc/daa/a14284.html#aa5c3d77a1086ad90397d47f081b25476", null ],
+    [ "MoveInLineOfSight", "dc/daa/a14284.html#adefd384b8a273ca52343d836a399f3cb", null ],
+    [ "MovementInform", "dc/daa/a14284.html#abf69be0c32356e65e6d451c33fb389f0", null ],
+    [ "Reset", "dc/daa/a14284.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
+    [ "UpdateAI", "dc/daa/a14284.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
+    [ "arrived", "dc/daa/a14284.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
+    [ "EagleSwoop_Timer", "dc/daa/a14284.html#a37a5861ef690729e2a8bfafddce168be", null ],
+    [ "TargetGUID", "dc/daa/a14284.html#a14d4f82f932569d24f6014ad39640619", null ]
 ];

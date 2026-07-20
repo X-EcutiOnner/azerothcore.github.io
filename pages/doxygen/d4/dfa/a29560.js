@@ -1,18 +1,8 @@
 var a29560 =
 [
-    [ "CreateEventInfo", "d4/dfa/a29560.html#a34bc192406fd9f489e57a7ad6e5aab6d", null ],
-    [ "FindMatchingScenario", "d4/dfa/a29560.html#a9b31d6d9880ee54a17df6fb57f334396", null ],
-    [ "GetEffectiveHitMask", "d4/dfa/a29560.html#a1a2a08ffb1b7750d8292d70baa22109d", null ],
-    [ "GetEffectiveSpellPhaseMask", "d4/dfa/a29560.html#a84919c55f1ea5a3318982fe73e39c6f1", null ],
-    [ "GetEffectiveSpellTypeMask", "d4/dfa/a29560.html#aada93a604c8e7f4b5a9d0c62fb134784", null ],
-    [ "IsSpellTypeProc", "d4/dfa/a29560.html#afe8b7929c8489d9c19bbfef2daaa0e9a", null ],
-    [ "RequiresSpellFamilyMatch", "d4/dfa/a29560.html#a483394c3827b435220ff73a22b202cbd", null ],
-    [ "SetUp", "d4/dfa/a29560.html#a97a6a44cf781708f376088b8d755e51e", null ],
-    [ "TearDown", "d4/dfa/a29560.html#aa7cf1e7c860169791235a8c83079b7c3", null ],
-    [ "_allEntries", "d4/dfa/a29560.html#a863fca9ea018277f0f70f074cc5cbee0", null ],
-    [ "_damageInfo", "d4/dfa/a29560.html#a79d9c97408a50b436bff5466b20de7fe", null ],
-    [ "_defaultSpellInfo", "d4/dfa/a29560.html#affaa8e236d7ba203b1f2077ffbcad0c4", null ],
-    [ "_healInfo", "d4/dfa/a29560.html#a3495fb2c09817a1605e46de9b5ab4a5a", null ],
-    [ "_originalWorld", "d4/dfa/a29560.html#a1616643b4020ac84e039f96a535d3a7f", null ],
-    [ "_worldMock", "d4/dfa/a29560.html#a5d64d7a5be1af3d13d67fd7ce82f7d58", null ]
+    [ "SetUp", "d4/dfa/a29560.html#a72263bcd7a57c9dde376a55d491c16be", null ],
+    [ "TearDown", "d4/dfa/a29560.html#a0212d5e3ace33a35adce8dfc782babf9", null ],
+    [ "PERM_A", "d4/dfa/a29560.html#af731a3059dc701385facc03041a6c9b5", null ],
+    [ "PERM_B", "d4/dfa/a29560.html#aaa3046adc81ef5afaf83d914638a46d4", null ],
+    [ "PERM_C", "d4/dfa/a29560.html#a9a9e678ca868669ec99f8e2fc0348372", null ]
 ];

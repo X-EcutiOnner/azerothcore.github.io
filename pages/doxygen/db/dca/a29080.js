@@ -1,9 +1,8 @@
 var a29080 =
 [
-    [ "adtId", "db/dca/a29080.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
-    [ "areaId", "db/dca/a29080.html#a7f652c68036429350543fc5a2cc6861e", null ],
-    [ "Flags", "db/dca/a29080.html#a60f9a61948d1e28587c9d1a338730f37", null ],
-    [ "groupId", "db/dca/a29080.html#a09052bad3028899580ffedd556672b64", null ],
-    [ "Id", "db/dca/a29080.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
-    [ "rootId", "db/dca/a29080.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
+    [ "areaTriggerText", "db/dca/a29080.html#a32bb8c4a4defce661d108627e25b645a", null ],
+    [ "Difficulty", "db/dca/a29080.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
+    [ "MapId", "db/dca/a29080.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
+    [ "maxPlayers", "db/dca/a29080.html#a7ab33229ffee11a27861439053c79831", null ],
+    [ "resetTime", "db/dca/a29080.html#a891a741efb049b51996e1a6110efc52d", null ]
 ];

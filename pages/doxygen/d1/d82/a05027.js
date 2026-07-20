@@ -1,6 +1,4 @@
 var a05027 =
 [
-    [ "_CRT_SECURE_NO_DEPRECATE", "d1/d82/a05027.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "MAINMagic", "d1/d82/a05027.html#a026039bd50ec58444fa975da328951ec", null ],
-    [ "MPHDMagic", "d1/d82/a05027.html#aac8041bc8ca704e28f2b3054649b3752", null ]
+    [ "isnan", "d1/d82/a05027.html#a075c8459d7e501109174c1a2fdc5cd7e", null ]
 ];

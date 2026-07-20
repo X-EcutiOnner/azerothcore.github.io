@@ -1,6 +1,6 @@
 var a17112 =
 [
-    [ "FilterTargets", "d6/dcb/a17112.html#a36879a2920f43562bb0ff89c76d758e4", null ],
-    [ "PrepareSpellScript", "d6/dcb/a17112.html#afeb95c5fe970ebc147d509981b026e98", null ],
-    [ "Register", "d6/dcb/a17112.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
+    [ "npc_announcer_toc10", "d6/dcb/a17112.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
+    [ "OnGossipHello", "d6/dcb/a17112.html#afcc5262e7c49b7456af146de14805a06", null ],
+    [ "OnGossipSelect", "d6/dcb/a17112.html#a9a2bf1d3a215332744ca473041cc0520", null ]
 ];

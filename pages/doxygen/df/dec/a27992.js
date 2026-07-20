@@ -1,10 +1,5 @@
 var a27992 =
 [
-    [ "guard_shattrath_scryerAI", "df/dec/a27992.html#a97accbf467ca1190f8a05512b3857164", null ],
-    [ "Reset", "df/dec/a27992.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
-    [ "UpdateAI", "df/dec/a27992.html#ad759cca08b0093522e190ddc038e2c73", null ],
-    [ "banishTimer", "df/dec/a27992.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
-    [ "canTeleport", "df/dec/a27992.html#a84188b40b44deae5714466bb23bf2f0d", null ],
-    [ "exileTimer", "df/dec/a27992.html#a97fbc3f54c23049fd91ad432cd560698", null ],
-    [ "playerGUID", "df/dec/a27992.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
+    [ "go_ethereum_stasis", "df/dec/a27992.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
+    [ "OnGossipHello", "df/dec/a27992.html#ac36da8dccbebcaee605a878df3904c60", null ]
 ];

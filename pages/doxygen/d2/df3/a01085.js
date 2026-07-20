@@ -1,7 +1,10 @@
 var a01085 =
 [
-    [ "instance_mechanar", "d9/de6/a23765.html", "d9/de6/a23765" ],
-    [ "instance_mechanar::instance_mechanar_InstanceMapScript", "de/d67/a23769.html", "de/d67/a23769" ],
-    [ "AddSC_instance_mechanar", "d2/df3/a01085.html#a23f3274fbd28e19fae6647987fcdf0b9", null ],
-    [ "doorData", "d2/df3/a01085.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "GameEventScript", "dc/d3f/a10736.html", "dc/d3f/a10736" ],
+    [ "GameEventHook", "d2/df3/a01085.html#a6f634b591917b5ff2ab57f9739afa44b", [
+      [ "GAMEEVENTHOOK_ON_START", "d2/df3/a01085.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
+      [ "GAMEEVENTHOOK_ON_STOP", "d2/df3/a01085.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],
+      [ "GAMEEVENTHOOK_ON_EVENT_CHECK", "d2/df3/a01085.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f", null ],
+      [ "GAMEEVENTHOOK_END", "d2/df3/a01085.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395", null ]
+    ] ]
 ];

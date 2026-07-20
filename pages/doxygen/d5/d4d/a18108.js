@@ -1,6 +1,5 @@
 var a18108 =
 [
-    [ "boss_professor_putricideAI", "d0/d08/a18112.html", "d0/d08/a18112" ],
-    [ "boss_professor_putricide", "d5/d4d/a18108.html#a80776dad5c0205aa6a98752f43e85e32", null ],
-    [ "GetAI", "d5/d4d/a18108.html#a7c84089d24bb0c77a5203884254e0925", null ]
+    [ "achievement_im_on_a_boat", "d5/d4d/a18108.html#aa25d330534aab023ec798e86976a6d50", null ],
+    [ "OnCheck", "d5/d4d/a18108.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
 ];

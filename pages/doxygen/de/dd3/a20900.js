@@ -1,8 +1,8 @@
 var a20900 =
 [
-    [ "CheckProc", "de/dd3/a20900.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
-    [ "HandleProc", "de/dd3/a20900.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
-    [ "PrepareAuraScript", "de/dd3/a20900.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
-    [ "Register", "de/dd3/a20900.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
-    [ "Validate", "de/dd3/a20900.html#ad4176f188412053b9205820fb6183d38", null ]
+    [ "Absorb", "de/dd3/a20900.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
+    [ "CalculateAmount", "de/dd3/a20900.html#afe50bf22d07e68757caffb056ad55811", null ],
+    [ "PrepareAuraScript", "de/dd3/a20900.html#afa4ef1f7faa36a521c208dde10d09437", null ],
+    [ "Register", "de/dd3/a20900.html#aae020936d42da81c445f7d296660987b", null ],
+    [ "Validate", "de/dd3/a20900.html#a5852135c5214ee3938603632b0f21917", null ]
 ];

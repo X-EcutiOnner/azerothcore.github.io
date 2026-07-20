@@ -1,11 +1,11 @@
 var a11548 =
 [
-    [ "OptionalData", "dc/dca/a11552.html", "dc/dca/a11552" ],
-    [ "ArrivalTicks", "d1/d83/a11548.html#a8fa635d0c8f77a0e39fd66501490f6ea", null ],
-    [ "ConnectionId", "d1/d83/a11548.html#abe8700ec99d55a66b22f8fbb28c833fa", null ],
-    [ "Direction", "d1/d83/a11548.html#a03a38a8ceed9eb1ea5585fcfb1ab29b8", null ],
-    [ "Length", "d1/d83/a11548.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc", null ],
-    [ "Opcode", "d1/d83/a11548.html#a7fcc9281cd10ecf79929f9f17c855b65", null ],
-    [ "OptionalData", "d1/d83/a11548.html#aa5219ee4193cccf913dabf6db5d6f57a", null ],
-    [ "OptionalDataSize", "d1/d83/a11548.html#a03b79fe07bd5f0a1c254f2fb92a3ecba", null ]
+    [ "QuestGiverQuestComplete", "d1/d83/a11548.html#ad7cf8778e608128fad236f9eb7448c66", null ],
+    [ "Write", "d1/d83/a11548.html#ad9a328ee5bc7890bbd904a4d7e60f0ef", null ],
+    [ "Experience", "d1/d83/a11548.html#a2c9b1c07b5a52a5526643a6894290e0c", null ],
+    [ "QuestId", "d1/d83/a11548.html#adc349dfbefc0b5a4c13af4b7746dbfe4", null ],
+    [ "RewardArena", "d1/d83/a11548.html#a035223abc4d17df598dfcbc05f7f0770", null ],
+    [ "RewardHonor", "d1/d83/a11548.html#ab7f2f90b0132e3945f84bf36ba926417", null ],
+    [ "RewardMoney", "d1/d83/a11548.html#ab488d663cb52d92dc0d6c39f1d2e7388", null ],
+    [ "RewardTalents", "d1/d83/a11548.html#a43ee482017cfde3cf8f9f36f2dadf3f0", null ]
 ];

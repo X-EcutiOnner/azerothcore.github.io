@@ -1,6 +1,6 @@
 var a04904 =
 [
-    [ "IpLocationRecord", "db/d56/a05653.html", "db/d56/a05653" ],
-    [ "IpLocationStore", "db/dbf/a05657.html", "db/dbf/a05657" ],
-    [ "sIPLocation", "df/d8c/a04904.html#a85e62bd98f395189fea9c9514d44fc31", null ]
+    [ "GetDefaultNetmaskV4", "df/d8c/a04904.html#af75b2c10ca445dc89c53b7ed8d17eae0", null ],
+    [ "IsInNetwork", "df/d8c/a04904.html#af108d05a57113d16ab9c8f3b26870be2", null ],
+    [ "IsInNetwork", "df/d8c/a04904.html#a2617cb1c747a45e5af4e2c32cc29d5de", null ]
 ];

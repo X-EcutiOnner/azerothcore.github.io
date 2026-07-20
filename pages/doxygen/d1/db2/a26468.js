@@ -1,7 +1,6 @@
 var a26468 =
 [
-    [ "HandleProc", "d1/db2/a26468.html#af48dfc934a6be37e95c469d07691e91f", null ],
-    [ "PrepareAuraScript", "d1/db2/a26468.html#a93147abc7cda5307a06be3d876b82eea", null ],
-    [ "Register", "d1/db2/a26468.html#a9f4ea3a1d84491a235f55c54ad2af2d6", null ],
-    [ "Validate", "d1/db2/a26468.html#a5c19c37e6d0271d0d38fffa945f6c707", null ]
+    [ "HandleRemove", "d1/db2/a26468.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
+    [ "PrepareAuraScript", "d1/db2/a26468.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
+    [ "Register", "d1/db2/a26468.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
 ];

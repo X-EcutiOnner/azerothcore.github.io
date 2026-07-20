@@ -1,8 +1,7 @@
 var a26784 =
 [
-    [ "Load", "db/d05/a26784.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
-    [ "OnRemove", "db/d05/a26784.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
-    [ "PrepareAuraScript", "db/d05/a26784.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
-    [ "Register", "db/d05/a26784.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
-    [ "Validate", "db/d05/a26784.html#a3820e716d20809896c84c1ca781af4d1", null ]
+    [ "HandleProc", "db/d05/a26784.html#af27f9408725ff9c7ec17e8ae352234a9", null ],
+    [ "PrepareAuraScript", "db/d05/a26784.html#a11c2e125d7a583966be3f8a64064a5ad", null ],
+    [ "Register", "db/d05/a26784.html#a283f05b3649e3c137679ab92386f7a84", null ],
+    [ "Validate", "db/d05/a26784.html#a4805c758dc85e065cdb9550a5856fe31", null ]
 ];

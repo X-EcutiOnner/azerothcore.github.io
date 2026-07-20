@@ -1,7 +1,11 @@
 var a10228 =
 [
-    [ "LFGUpdateRequest", "d5/d82/a10228.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
-    [ "call", "d5/d82/a10228.html#a15258001db5870a0f52bb0c72cba3587", null ],
-    [ "m_diff", "d5/d82/a10228.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
-    [ "m_updater", "d5/d82/a10228.html#a1bb4423241495aebab83ebc1acf66510", null ]
+    [ "StaticVMapCollisionData", "d5/d82/a10228.html#a5955532316bc6409c104197b086d3e3b", null ],
+    [ "GetAreaAndLiquidData", "d5/d82/a10228.html#afcbfd82bc43ad5dbce5edc35608a0d38", null ],
+    [ "getHeight", "d5/d82/a10228.html#ad5b245ec62bf370a479c8fdb0eec1f40", null ],
+    [ "GetObjectHitPos", "d5/d82/a10228.html#aacf3e526a4e52c8515b3a8004e6b0a1a", null ],
+    [ "isInLineOfSight", "d5/d82/a10228.html#a79f47e4eafe0db4e449ec202ad3ef580", null ],
+    [ "MapCollisionData", "d5/d82/a10228.html#a472038a89678719bf8868ab0c75e394f", null ],
+    [ "_mapId", "d5/d82/a10228.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb", null ],
+    [ "_staticTree", "d5/d82/a10228.html#a4d73d970aa85dbbd9c70633addcdaf13", null ]
 ];

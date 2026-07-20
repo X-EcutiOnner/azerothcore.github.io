@@ -1,6 +1,8 @@
 var a18912 =
 [
-    [ "npc_captain_brandonAI", "d7/d66/a18916.html", "d7/d66/a18916" ],
-    [ "npc_captain_brandon", "d0/d03/a18912.html#ad522dd280882d894b5d32e7c888f2360", null ],
-    [ "GetAI", "d0/d03/a18912.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
+    [ "npc_blistering_zombieAI", "d0/d03/a18912.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
+    [ "DamageTaken", "d0/d03/a18912.html#adf031992078214f90d859df2b54aac91", null ],
+    [ "UpdateAI", "d0/d03/a18912.html#ae081898b8dcaf45cd3069e79021de452", null ],
+    [ "casted", "d0/d03/a18912.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
+    [ "timer", "d0/d03/a18912.html#a8b865c2a87b1fc020d8250767febab0a", null ]
 ];

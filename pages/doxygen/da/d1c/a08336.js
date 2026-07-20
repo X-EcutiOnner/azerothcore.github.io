@@ -1,8 +1,8 @@
 var a08336 =
 [
-    [ "TemporaryThreatModifierEvent", "da/d1c/a08336.html#afd58a1128ac6629d7541ba1bfd4ef886", null ],
-    [ "Execute", "da/d1c/a08336.html#a2bbd75ad5e293e78e4bffe880f371d1e", null ],
-    [ "m_owner", "da/d1c/a08336.html#ab786c99d73f0048a993ce7cee8c3b875", null ],
-    [ "m_threatValue", "da/d1c/a08336.html#aacb0f6e66d22a93ff074b4cbcf12b788", null ],
-    [ "m_threatVictimGUID", "da/d1c/a08336.html#aeae82bd80c9b8b08573c6e3baf359f55", null ]
+    [ "cancelTime", "da/d1c/a08336.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
+    [ "inProgress", "da/d1c/a08336.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
+    [ "reason", "da/d1c/a08336.html#a279a5575ca0956266ae81b7a165874cf", null ],
+    [ "victim", "da/d1c/a08336.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
+    [ "votes", "da/d1c/a08336.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
 ];

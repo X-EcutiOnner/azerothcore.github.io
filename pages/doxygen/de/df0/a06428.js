@@ -1,8 +1,6 @@
 var a06428 =
 [
-    [ "PassiveAI", "de/df0/a06428.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
-    [ "AttackStart", "de/df0/a06428.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
-    [ "MoveInLineOfSight", "de/df0/a06428.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
-    [ "Permissible", "de/df0/a06428.html#a2960223799a5b3baedbdd7e664604865", null ],
-    [ "UpdateAI", "de/df0/a06428.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
+    [ "SavedAddon", "de/df0/a06428.html#a6252c2ac491d0ebd9e84556f26cfa8cd", null ],
+    [ "CRC", "de/df0/a06428.html#a7d04d21a29aa589429aab0d95172ca95", null ],
+    [ "Name", "de/df0/a06428.html#a075de88ce6e643cffb7c5bb55f7b1095", null ]
 ];

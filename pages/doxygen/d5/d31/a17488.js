@@ -1,5 +1,6 @@
 var a17488 =
 [
-    [ "achievement_less_rabi", "d5/d31/a17488.html#aee43dd7623f7fecc20a0acb15f342a99", null ],
-    [ "OnCheck", "d5/d31/a17488.html#a16b200bf93fa2571c8b31359ad7ca151", null ]
+    [ "npc_pos_freed_slaveAI", "d5/d31/a17488.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "d5/d31/a17488.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "d5/d31/a17488.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

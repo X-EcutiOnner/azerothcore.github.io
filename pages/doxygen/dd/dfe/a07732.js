@@ -1,9 +1,11 @@
 var a07732 =
 [
-    [ "BattlegroundEYScore", "dd/dfe/a07732.html#a91c17f1ff1924439b05840cd11ede36f", null ],
-    [ "BuildObjectivesBlock", "dd/dfe/a07732.html#a8a915f38f28ee3929c7922b9fa8f38d6", null ],
-    [ "GetAttr1", "dd/dfe/a07732.html#a43d4b01a1f3c8325795d90f2a97c230c", null ],
-    [ "UpdateScore", "dd/dfe/a07732.html#afad034f453c54587b86532a37335ab18", null ],
-    [ "BattlegroundEY", "dd/dfe/a07732.html#a5d809f1fdf1bb7a29d7504e432e10b8f", null ],
-    [ "FlagCaptures", "dd/dfe/a07732.html#a057a335c7491c1031666e6d10cf314b2", null ]
+    [ "BattlegroundABScore", "dd/dfe/a07732.html#ae219ecb551c89ad5a5cb22f1996a598b", null ],
+    [ "BuildObjectivesBlock", "dd/dfe/a07732.html#a86ac6e9b19eaa7ed257f25f9f73c22cf", null ],
+    [ "GetAttr1", "dd/dfe/a07732.html#af0f066f76f4d84e844946862ae819b4f", null ],
+    [ "GetAttr2", "dd/dfe/a07732.html#a8ac00679dd8dfeef81f159b7a2b22027", null ],
+    [ "UpdateScore", "dd/dfe/a07732.html#a43aaefd97c8880cbf70381282d81f7cf", null ],
+    [ "BattlegroundAB", "dd/dfe/a07732.html#ad5365fcb2edd84180065badd1572ba8e", null ],
+    [ "BasesAssaulted", "dd/dfe/a07732.html#a25643abf67d1ae2f8498951c11833994", null ],
+    [ "BasesDefended", "dd/dfe/a07732.html#a450504481d335230b3e035d4337694be", null ]
 ];

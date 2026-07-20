@@ -1,8 +1,6 @@
 var a22004 =
 [
-    [ "spell_loosen_grip", "de/d9f/a22004.html#ae35f230e0c66e88f59558748c80470dd", null ],
-    [ "HandleScript", "de/d9f/a22004.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
-    [ "PrepareSpellScript", "de/d9f/a22004.html#a219dc7d735f82d8e3b85390f0a881743", null ],
-    [ "Register", "de/d9f/a22004.html#a8b446d8b5ab00b984272c74b06663326", null ],
-    [ "_stacksToLose", "de/d9f/a22004.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
+    [ "PrepareSpellScript", "de/d9f/a22004.html#aa26d34552b04dca1db32390e769ff4dc", null ],
+    [ "RecalculateDamage", "de/d9f/a22004.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
+    [ "Register", "de/d9f/a22004.html#a58d28dea272b1237cf60efb45d67765d", null ]
 ];

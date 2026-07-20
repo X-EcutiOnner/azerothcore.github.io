@@ -1,11 +1,24 @@
 var a21048 =
 [
-    [ "boss_archavonAI", "d8/dbc/a21048.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
-    [ "AttackStart", "d8/dbc/a21048.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
-    [ "JustDied", "d8/dbc/a21048.html#a3974065a80dedf3e673452e7f6f8e449", null ],
-    [ "JustEngagedWith", "d8/dbc/a21048.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
-    [ "Reset", "d8/dbc/a21048.html#a7d101626f39947dd54b574491a5e6d72", null ],
-    [ "UpdateAI", "d8/dbc/a21048.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
-    [ "events", "d8/dbc/a21048.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
-    [ "pInstance", "d8/dbc/a21048.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
+    [ "instance_utgarde_keep_InstanceMapScript", "d8/dbc/a21048.html#a6e1f9553dd78441d41eebf81eb0e743f", null ],
+    [ "CheckAchievementCriteriaMeet", "d8/dbc/a21048.html#a136381727f59e41e2a44b1a2df96f531", null ],
+    [ "GetData", "d8/dbc/a21048.html#a26b1a6a56c786708f247145dbae7e142", null ],
+    [ "Initialize", "d8/dbc/a21048.html#aea59c925ddafa04fbfc7c0df32c0e6d8", null ],
+    [ "IsEncounterInProgress", "d8/dbc/a21048.html#a373656d7281621244a9417a335bb6444", null ],
+    [ "OnCreatureCreate", "d8/dbc/a21048.html#ab1a0732c93f1e57772a61cbce5edb7fb", null ],
+    [ "OnGameObjectCreate", "d8/dbc/a21048.html#ab57bdeba49160c7992d9108c41c153d8", null ],
+    [ "OnPlayerEnter", "d8/dbc/a21048.html#ad8310db74874b9f870f4f41dc866c7be", null ],
+    [ "ReadSaveDataMore", "d8/dbc/a21048.html#a624b8f4b6b55a1aefd67a52e6097976f", null ],
+    [ "SetBossState", "d8/dbc/a21048.html#abcaffd445d47826c47f03a94f511b362", null ],
+    [ "SetData", "d8/dbc/a21048.html#a5ceeae5fe64d60c8e5e367c5dd8162cc", null ],
+    [ "WriteSaveDataMore", "d8/dbc/a21048.html#add59d5cf1b5098bc303fef469ccfb034", null ],
+    [ "bRocksAchiev", "d8/dbc/a21048.html#a727452275b30e8c7a64b69079790e754", null ],
+    [ "ForgeEventMask", "d8/dbc/a21048.html#a13d0e3aeaa877a24e0007ad3de4082a0", null ],
+    [ "GO_ForgeAnvilGUID", "d8/dbc/a21048.html#a089c9ac48cb3c495930a3708b4c72055", null ],
+    [ "GO_ForgeBellowGUID", "d8/dbc/a21048.html#a7dbf5504651c521c971c8f9f63387992", null ],
+    [ "GO_ForgeFireGUID", "d8/dbc/a21048.html#a1c84731d3f370ba4dc81a4489a33b14b", null ],
+    [ "GO_PortcullisGUID", "d8/dbc/a21048.html#a4ba1247511e8a2a695887e3122958b3c", null ],
+    [ "m_auiEncounter", "d8/dbc/a21048.html#a2152552f089d16dbfe43de24d62c692e", null ],
+    [ "NPC_SpecialDrakeGUID", "d8/dbc/a21048.html#a8ffa659e32c32a5699b85b68c52239cf", null ],
+    [ "str_data", "d8/dbc/a21048.html#a69ed0205bba93d86ff4a28f0317bf37e", null ]
 ];

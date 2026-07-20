@@ -1,7 +1,15 @@
 var a17580 =
 [
-    [ "HandleDummyTick", "d5/da8/a17580.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
-    [ "PrepareAuraScript", "d5/da8/a17580.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
-    [ "Register", "d5/da8/a17580.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
-    [ "Validate", "d5/da8/a17580.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
+    [ "boss_gal_darah", "d5/da8/a17580.html#a036b5f96ecf5096040f16e0205e4d57c", null ],
+    [ "GetData", "d5/da8/a17580.html#a1f8ec6a0a95b10953506e08275db7a2c", null ],
+    [ "JustDied", "d5/da8/a17580.html#a98f53f7131155114da1eeb19f5a50daa", null ],
+    [ "JustEngagedWith", "d5/da8/a17580.html#acf7696bdfa868808f29a90dbec4b0688", null ],
+    [ "JustReachedHome", "d5/da8/a17580.html#aba3c2011a01d4e00b7e1c28f0c4326b9", null ],
+    [ "JustSummoned", "d5/da8/a17580.html#a490e259cf452c417864c978510d06fd2", null ],
+    [ "KilledUnit", "d5/da8/a17580.html#a799e52cfe029164149017ea7f963937f", null ],
+    [ "Reset", "d5/da8/a17580.html#a712339fe4a06d6a4836f4cbb5bd01625", null ],
+    [ "ScheduleEvents", "d5/da8/a17580.html#ad5acba3d3bc049bb5bdcb95d31ef06d6", null ],
+    [ "SpellHit", "d5/da8/a17580.html#a3f8cbe22aa2e0d39272b5b4dbfc5f06b", null ],
+    [ "_stampedeVictim", "d5/da8/a17580.html#a0d34c4486c4188fcc6eb75e904d52a61", null ],
+    [ "impaledList", "d5/da8/a17580.html#a08f311b7b7cec3bc4056b7d7071bfbf0", null ]
 ];

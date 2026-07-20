@@ -1,11 +1,8 @@
 var a05300 =
 [
-    [ "material", "d1/d9e/a05300.html#a29addcb613bc63a100633e612d1dc2d2", null ],
-    [ "pos_x", "d1/d9e/a05300.html#a02e9d8789336d77e34bffa19adbab394", null ],
-    [ "pos_y", "d1/d9e/a05300.html#ac3162ce321a1f21e4e6fe35041e49a6a", null ],
-    [ "pos_z", "d1/d9e/a05300.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3", null ],
-    [ "xtiles", "d1/d9e/a05300.html#a94789843c68d705184e6332ac46bd69d", null ],
-    [ "xverts", "d1/d9e/a05300.html#a0548c3fdb216c115a7d3843e4fbc6de3", null ],
-    [ "ytiles", "d1/d9e/a05300.html#ac50224cdce231460c78c3e0f077b555d", null ],
-    [ "yverts", "d1/d9e/a05300.html#aa9ecb62b53af527b3bd855b8e93ba604", null ]
+    [ "ModelFileMap", "d1/d9e/a05300.html#ae609ba50932b7bac6ac0c1c7d0800b5d", null ],
+    [ "AcquireModelInstance", "d1/d9e/a05300.html#af6dc1b3c77f5eeff5ff4b9bc5c4024b0", null ],
+    [ "instance", "d1/d9e/a05300.html#a6cae2913accf21c262dafa01c14b1795", null ],
+    [ "_loadedModels", "d1/d9e/a05300.html#a406474470aaa0da5b752817cc5ea81ae", null ],
+    [ "_lock", "d1/d9e/a05300.html#ab258d227875d9aad8f399fae3f57f0ab", null ]
 ];

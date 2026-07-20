@@ -1,5 +1,5 @@
 var a02567 =
 [
-    [ "SmartTrigger", "d6/d64/a06601.html", "d6/d64/a06601" ],
-    [ "AddSC_SmartScripts", "db/dab/a02567.html#ab6012619ba76775b314475ec60f8c7d7", null ]
+    [ "pet_commandscript", "dd/d2f/a12476.html", "dd/d2f/a12476" ],
+    [ "AddSC_pet_commandscript", "db/dab/a02567.html#a9c7b2cae4f7afb6ae0c9ccc623877625", null ]
 ];

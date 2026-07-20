@@ -1,7 +1,6 @@
 var a24976 =
 [
-    [ "CheckIfLanceEquipped", "d5/d15/a24976.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
-    [ "PrepareSpellScript", "d5/d15/a24976.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
-    [ "Register", "d5/d15/a24976.html#a4421ceaedce16777f8f04b9c40855782", null ],
-    [ "Validate", "d5/d15/a24976.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
+    [ "HandleEffectPeriodicUpdate", "d5/d15/a24976.html#a554353fede78b89bf488230254d7892b", null ],
+    [ "PrepareAuraScript", "d5/d15/a24976.html#adf20aaafff83bae614ff3c614a08a54b", null ],
+    [ "Register", "d5/d15/a24976.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
 ];

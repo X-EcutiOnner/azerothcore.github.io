@@ -1,7 +1,6 @@
 var a21656 =
 [
-    [ "HandleAfterEffectApply", "d7/d49/a21656.html#ab54795dc49ca453db40494a694158a98", null ],
-    [ "PrepareAuraScript", "d7/d49/a21656.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
-    [ "Register", "d7/d49/a21656.html#addd4fac4cc8a93d800abacb144e3303c", null ],
-    [ "Validate", "d7/d49/a21656.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
+    [ "npc_q24545_lich_kingAI", "d8/d40/a21660.html", "d8/d40/a21660" ],
+    [ "npc_q24545_lich_king", "d7/d49/a21656.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
+    [ "GetAI", "d7/d49/a21656.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
 ];

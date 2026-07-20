@@ -1,7 +1,5 @@
 var a13384 =
 [
-    [ "HandleHit", "d9/df7/a13384.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
-    [ "Load", "d9/df7/a13384.html#affe2cd261752db89b1b418eb18a3370c", null ],
-    [ "PrepareSpellScript", "d9/df7/a13384.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
-    [ "Register", "d9/df7/a13384.html#aaadaf49a3757e78d69ffc32768945d16", null ]
+    [ "boss_warlord_salaris", "d9/df7/a13384.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
+    [ "JustEngagedWith", "d9/df7/a13384.html#a77b3b531466810ee17f9fd6eadf5872a", null ]
 ];

@@ -1,6 +1,7 @@
 var a25520 =
 [
-    [ "HandleScriptEffect", "db/d9c/a25520.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
-    [ "PrepareSpellScript", "db/d9c/a25520.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
-    [ "Register", "db/d9c/a25520.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
+    [ "HandleProc", "db/d9c/a25520.html#a68f17c864f8b2138c73a2fea42b8a252", null ],
+    [ "PrepareAuraScript", "db/d9c/a25520.html#a3722c927cf522685c08886338433964d", null ],
+    [ "Register", "db/d9c/a25520.html#a38985baeb0c24c948747492bf1d1f546", null ],
+    [ "Validate", "db/d9c/a25520.html#ac8bdbf36f0ccfa77de664d630540957d", null ]
 ];

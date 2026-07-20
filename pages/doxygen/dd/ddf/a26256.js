@@ -1,9 +1,7 @@
 var a26256 =
 [
-    [ "AllowT10Proc", "dd/ddf/a26256.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
-    [ "OnRemove", "dd/ddf/a26256.html#a52807f94eba44a9b574577a0b27acb22", null ],
-    [ "PrepareAuraScript", "dd/ddf/a26256.html#a430303b7df445d38da9316324359c2d6", null ],
-    [ "Register", "dd/ddf/a26256.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
-    [ "Validate", "dd/ddf/a26256.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
-    [ "_canProcT10", "dd/ddf/a26256.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
+    [ "HandleProc", "dd/ddf/a26256.html#a88510ad234c654bbe3316f6557742f77", null ],
+    [ "PrepareAuraScript", "dd/ddf/a26256.html#adff2a6b6161cc6fa6a49bd55c088394c", null ],
+    [ "Register", "dd/ddf/a26256.html#aeaae510592ba20f76e322701a9c30c17", null ],
+    [ "Validate", "dd/ddf/a26256.html#a1d9dc752bd385ff99ee4c39094c68d8a", null ]
 ];

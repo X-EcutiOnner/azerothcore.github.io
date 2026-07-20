@@ -1,6 +1,6 @@
 var a18488 =
 [
-    [ "npc_tirion_fordringAI", "d6/d50/a18492.html", "d6/d50/a18492" ],
-    [ "npc_tirion_fordring_tft", "d5/d8f/a18488.html#a04036d958e7ac643c9ba8d9073bca404", null ],
-    [ "GetAI", "d5/d8f/a18488.html#a41dcfa415831091531cbf46e946f442d", null ]
+    [ "MysticBuffetTargetFilter", "d5/d8f/a18488.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
+    [ "operator()", "d5/d8f/a18488.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
+    [ "_caster", "d5/d8f/a18488.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
 ];

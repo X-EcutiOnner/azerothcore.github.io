@@ -1,7 +1,6 @@
 var a26152 =
 [
-    [ "HandleKnockBack", "d3/dd4/a26152.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
-    [ "PrepareSpellScript", "d3/dd4/a26152.html#ab951d6403188f178f79311cead8a0a8f", null ],
-    [ "Register", "d3/dd4/a26152.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
-    [ "Validate", "d3/dd4/a26152.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
+    [ "PrepareSpellScript", "d3/dd4/a26152.html#a8127429829afd4b82395a821a4bea19c", null ],
+    [ "Register", "d3/dd4/a26152.html#a73717914aa23764fa16c8a2965798a6a", null ],
+    [ "SecondaryEffect", "d3/dd4/a26152.html#a6150d8615c7f579aadd50e28aba0d569", null ]
 ];

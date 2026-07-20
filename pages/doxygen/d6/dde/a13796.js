@@ -1,9 +1,7 @@
 var a13796 =
 [
-    [ "boss_entropius", "d6/dde/a13796.html#a458deaa80c9694cd2608150bc5519c76", null ],
-    [ "EnterEvadeMode", "d6/dde/a13796.html#a01889b192525af082471d092bff28c88", null ],
-    [ "JustDied", "d6/dde/a13796.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
-    [ "JustEngagedWith", "d6/dde/a13796.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
-    [ "Reset", "d6/dde/a13796.html#ad9da990a540703d38cb45dd2da72c179", null ],
-    [ "UpdateAI", "d6/dde/a13796.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
+    [ "HandleScriptEffect", "d6/dde/a13796.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
+    [ "PrepareSpellScript", "d6/dde/a13796.html#af9deee89e837e07486a7555632008eb2", null ],
+    [ "Register", "d6/dde/a13796.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
+    [ "Validate", "d6/dde/a13796.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
 ];

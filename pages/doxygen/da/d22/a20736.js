@@ -1,8 +1,8 @@
 var a20736 =
 [
-    [ "FilterTargets", "da/d22/a20736.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "da/d22/a20736.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "da/d22/a20736.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "da/d22/a20736.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "da/d22/a20736.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "npc_life_spark", "da/d22/a20736.html#a76bbbdc610dbc433007930c7a45d03be", null ],
+    [ "JustEngagedWith", "da/d22/a20736.html#af4111bf747f0d5c510f72f32d42f90e3", null ],
+    [ "Reset", "da/d22/a20736.html#a3c5b0ee2fac3bc444cc3c58e70284b72", null ],
+    [ "UpdateAI", "da/d22/a20736.html#a3dffda7a220e41302b928f55995d4dce", null ],
+    [ "_scheduler", "da/d22/a20736.html#a7e77d71508031a75655db8aaa34d0f9d", null ]
 ];

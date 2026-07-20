@@ -1,9 +1,9 @@
 var a09756 =
 [
-    [ "NearestAssistCreatureInCreatureRangeCheck", "d4/d87/a09756.html#ac9e380add6c9df4afc707007528c7434", null ],
-    [ "NearestAssistCreatureInCreatureRangeCheck", "d4/d87/a09756.html#aa26e19df606a366147e1db4fd1aa6eac", null ],
-    [ "operator()", "d4/d87/a09756.html#a9a085d16b30849537441f809052ac196", null ],
-    [ "i_enemy", "d4/d87/a09756.html#a0ba09da942c48e523c278cff0e0a4139", null ],
-    [ "i_obj", "d4/d87/a09756.html#a905ea6b07b97ed23de4f4cf9946642af", null ],
-    [ "i_range", "d4/d87/a09756.html#ab82a4b97ebb2bef047ae85404b0e3da0", null ]
+    [ "AnyGroupedUnitInObjectRangeCheck", "d4/d87/a09756.html#a2c775f62eeabcb8af5306cbcedae322e", null ],
+    [ "operator()", "d4/d87/a09756.html#a3c316eacdd1c74c69d8297871f84d7b9", null ],
+    [ "_raid", "d4/d87/a09756.html#a6a9cffd02435913a5d7ee53cd1e8cc0b", null ],
+    [ "_range", "d4/d87/a09756.html#a01b4592ac61d58ff39e5bb2eb1a1b997", null ],
+    [ "_refUnit", "d4/d87/a09756.html#ad083243ef5487aa374b19e3c82b0457c", null ],
+    [ "_source", "d4/d87/a09756.html#a91de967d2376ea96b1fc0838094915cf", null ]
 ];

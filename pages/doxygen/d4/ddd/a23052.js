@@ -1,8 +1,6 @@
 var a23052 =
 [
-    [ "boss_mekgineer_steamrigger", "d4/ddd/a23052.html#a930dcbade7135d0c689bcc0718815547", null ],
-    [ "JustDied", "d4/ddd/a23052.html#a79272c233bc0256cca62700fc7a01421", null ],
-    [ "JustEngagedWith", "d4/ddd/a23052.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
-    [ "JustSummoned", "d4/ddd/a23052.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
-    [ "KilledUnit", "d4/ddd/a23052.html#a84374438458cb7e034f91d4b65cd22f1", null ]
+    [ "FilterTargets", "d4/ddd/a23052.html#ac20676c292d87276e444bad56d71960d", null ],
+    [ "PrepareSpellScript", "d4/ddd/a23052.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
+    [ "Register", "d4/ddd/a23052.html#ae356b768872de3e87806c19bf8cccb08", null ]
 ];

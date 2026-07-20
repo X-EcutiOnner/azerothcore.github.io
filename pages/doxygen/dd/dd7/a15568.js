@@ -1,5 +1,5 @@
 var a15568 =
 [
-    [ "at_twin_emperors", "dd/dd7/a15568.html#a343d482857fa0a45c42f593e591f7754", null ],
-    [ "_OnTrigger", "dd/dd7/a15568.html#adf3120b7bf611e0246abb2970711ada3", null ]
+    [ "boss_kri", "dd/dd7/a15568.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
+    [ "JustEngagedWith", "dd/dd7/a15568.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
 ];

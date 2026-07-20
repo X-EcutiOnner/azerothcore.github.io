@@ -1,8 +1,8 @@
 var a22716 =
 [
-    [ "instance_black_temple_InstanceMapScript", "d0/dbc/a22716.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
-    [ "OnCreatureCreate", "d0/dbc/a22716.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
-    [ "OnGameObjectCreate", "d0/dbc/a22716.html#a564a49814ceb3b3161a6476335ab653a", null ],
-    [ "SetBossState", "d0/dbc/a22716.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
-    [ "ashtongueGUIDs", "d0/dbc/a22716.html#a85fa9c5231f13529a0741b0f92266c90", null ]
+    [ "boss_mother_shahraz", "d0/dbc/a22716.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "d0/dbc/a22716.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "d0/dbc/a22716.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "d0/dbc/a22716.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "d0/dbc/a22716.html#ab9e4162ac92e786b84b6497c37251386", null ]
 ];

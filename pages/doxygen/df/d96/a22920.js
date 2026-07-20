@@ -1,7 +1,8 @@
 var a22920 =
 [
-    [ "FilterTargets", "df/d96/a22920.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
-    [ "HandleDummy", "df/d96/a22920.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
-    [ "PrepareSpellScript", "df/d96/a22920.html#ae7714acbe0a08781e3bc297847c47870", null ],
-    [ "Register", "df/d96/a22920.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
+    [ "Absorb", "df/d96/a22920.html#a1c054ce067a620e16611cbb9e784cee1", null ],
+    [ "CalculateAmount", "df/d96/a22920.html#abd828dd3493339db9c0613e960792941", null ],
+    [ "PrepareAuraScript", "df/d96/a22920.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
+    [ "Register", "df/d96/a22920.html#a85840e7d27a7ed256c45de87f4486d45", null ],
+    [ "Update", "df/d96/a22920.html#afbf28fd4eb66899a424e0b542d561656", null ]
 ];

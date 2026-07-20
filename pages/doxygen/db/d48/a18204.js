@@ -1,6 +1,6 @@
 var a18204 =
 [
-    [ "FilterTargetsInitial", "db/d48/a18204.html#a92cc71f268793c616bed66d9a489a145", null ],
-    [ "PrepareSpellScript", "db/d48/a18204.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
-    [ "Register", "db/d48/a18204.html#a91b96940a9e72e632989b49f7e475dba", null ]
+    [ "HandleScriptEffect", "db/d48/a18204.html#ac6017cbe86b328aef00f707051c67e5f", null ],
+    [ "PrepareSpellScript", "db/d48/a18204.html#a3e21794652b0ffea67571f9b294b4961", null ],
+    [ "Register", "db/d48/a18204.html#a4d070dff98fed842e0a3839e918f7c5a", null ]
 ];

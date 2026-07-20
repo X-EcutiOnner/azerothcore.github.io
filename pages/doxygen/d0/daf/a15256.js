@@ -1,6 +1,6 @@
 var a15256 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d1/d42/a15260.html", "d1/d42/a15260" ],
-    [ "instance_maraudon", "d0/daf/a15256.html#aaae11d2569d04b42840b101a5702cf24", null ],
-    [ "GetInstanceScript", "d0/daf/a15256.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
+    [ "npc_crate_helperAI", "d1/d42/a15260.html", "d1/d42/a15260" ],
+    [ "npc_crate_helper", "d0/daf/a15256.html#ae08751928234656dcda84dd5c7e4cc37", null ],
+    [ "GetAI", "d0/daf/a15256.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
 ];

@@ -1,9 +1,7 @@
 var a27356 =
 [
-    [ "CheckCast", "de/d9f/a27356.html#a846862b62f5750801cd804133f290d5d", null ],
-    [ "HandleDummy", "de/d9f/a27356.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
-    [ "Load", "de/d9f/a27356.html#acec7437ba80e4ae491020448a36e4559", null ],
-    [ "PrepareSpellScript", "de/d9f/a27356.html#ab5e281028c009a4b317111de9a0a17e3", null ],
-    [ "Register", "de/d9f/a27356.html#a865fa526f2131703a668e113ba0d7849", null ],
-    [ "Validate", "de/d9f/a27356.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
+    [ "HandleDummy", "de/d9f/a27356.html#abd35c974f5ebec4c8845c05ab4f6d309", null ],
+    [ "PrepareSpellScript", "de/d9f/a27356.html#a99deca1c5c8631342be400cb863eefb2", null ],
+    [ "Register", "de/d9f/a27356.html#aa5ecc51b030fe7280e824ade641216d3", null ],
+    [ "Validate", "de/d9f/a27356.html#a731503d3769718695d109ad71160e67a", null ]
 ];

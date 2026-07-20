@@ -1,7 +1,8 @@
 var a11936 =
 [
-    [ "EffectApplyHandler", "de/dfd/a11936.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
-    [ "Call", "de/dfd/a11936.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
-    [ "mode", "de/dfd/a11936.html#ac776375c5a5de321edc572c87e983193", null ],
-    [ "pEffectHandlerScript", "de/dfd/a11936.html#acd715556a7661f688ce0de9afe62250a", null ]
+    [ "first", "de/dfd/a11936.html#a49aea8bfed353c2c552f6195b8e9f60a", null ],
+    [ "last", "de/dfd/a11936.html#a05a8077c7ec39bcca66fe84aa1da7040", null ],
+    [ "next", "de/dfd/a11936.html#a0a7791b7069912a013299e7afaf4142f", null ],
+    [ "prev", "de/dfd/a11936.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f", null ],
+    [ "rank", "de/dfd/a11936.html#a0b58cef8fc18f91fa59b8c7d7b9f9872", null ]
 ];

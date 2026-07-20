@@ -1,5 +1,8 @@
 var a03038 =
 [
-    [ "AddonHandler", "d4/d4a/a09939.html", "d4/d4a/a09939" ],
-    [ "sAddOnHandler", "d8/d23/a03038.html#a53c18d341aaa47d117be75333e4ab43d", null ]
+    [ "instance_arcatraz", "d3/d04/a23580.html", "d3/d04/a23580" ],
+    [ "instance_arcatraz::instance_arcatraz_InstanceMapScript", "d6/d0f/a23584.html", "d6/d0f/a23584" ],
+    [ "AddSC_instance_arcatraz", "d8/d23/a03038.html#a80dfeb7f0ba2aa2c6cde3f26e3c50be4", null ],
+    [ "creatureData", "d8/d23/a03038.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d8/d23/a03038.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

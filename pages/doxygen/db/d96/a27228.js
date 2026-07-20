@@ -1,6 +1,6 @@
 var a27228 =
 [
-    [ "HandleProc", "db/d96/a27228.html#a933975b17f340d9f458dc95b77aa43ac", null ],
-    [ "PrepareAuraScript", "db/d96/a27228.html#ad9df49f481d936068ebee0d2f6179e9f", null ],
-    [ "Register", "db/d96/a27228.html#a54dd9a2a6646282897cabec00f092525", null ]
+    [ "CheckProc", "db/d96/a27228.html#ae8f06d0b6738c92a2e4a45fe0ca81cb9", null ],
+    [ "PrepareAuraScript", "db/d96/a27228.html#aafd3eba8af1edb89ded08b056f9b497c", null ],
+    [ "Register", "db/d96/a27228.html#aeb1d84b45afc05b8b9ca5cea2a50f5a4", null ]
 ];

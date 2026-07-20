@@ -1,11 +1,19 @@
 var a12292 =
 [
-    [ "instance_commandscript", "d8/d0a/a12292.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
-    [ "GetCommands", "d8/d0a/a12292.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
-    [ "HandleInstanceGetBossStateCommand", "d8/d0a/a12292.html#a0530ca6481073d6bafd11596546140b0", null ],
-    [ "HandleInstanceListBindsCommand", "d8/d0a/a12292.html#abf42411f9c78ce59b21b34691e3d4233", null ],
-    [ "HandleInstanceSaveDataCommand", "d8/d0a/a12292.html#a4b494a8b1de470612436fbb9fa433416", null ],
-    [ "HandleInstanceSetBossStateCommand", "d8/d0a/a12292.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
-    [ "HandleInstanceStatsCommand", "d8/d0a/a12292.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
-    [ "HandleInstanceUnbindCommand", "d8/d0a/a12292.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
+    [ "CityAttack", "d6/d17/a12300.html", "d6/d17/a12300" ],
+    [ "InvasionZone", "df/de1/a12296.html", "df/de1/a12296" ],
+    [ "ScourgeInvasionData", "d8/d0a/a12292.html#a40749458bbad64d1d277cd7cd9dac939", null ],
+    [ "GetData", "d8/d0a/a12292.html#adca57b4cf5a065fad1a7bd184571bdc5", null ],
+    [ "Reset", "d8/d0a/a12292.html#a0ae2fc830e4f85fb619c38fdcad794ae", null ],
+    [ "m_activeInvasions", "d8/d0a/a12292.html#af98aea31bf9c878adf2870890911282f", null ],
+    [ "m_battlesWon", "d8/d0a/a12292.html#aea7079c6f876188857219c574ca0798d", null ],
+    [ "m_broadcastTimer", "d8/d0a/a12292.html#a7c251f312e332ab60fa6de6e8cf4189d", null ],
+    [ "m_cityAttacks", "d8/d0a/a12292.html#a70127135568b3a439f040697f1dc525c", null ],
+    [ "m_lastAttackZone", "d8/d0a/a12292.html#a38ead6b33009083055538fd4f0b7de35", null ],
+    [ "m_pendingInvasions", "d8/d0a/a12292.html#af62efb05ce49a3cb764328976f8054f6", null ],
+    [ "m_pendingPallids", "d8/d0a/a12292.html#a2a2f610d9c398bc82f4e39eea4fbadfc", null ],
+    [ "m_remaining", "d8/d0a/a12292.html#afa0f9b63b3c2111affdf9769ee529d88", null ],
+    [ "m_siMutex", "d8/d0a/a12292.html#acefb72f28d000395bc1362cd9a62b26a", null ],
+    [ "m_state", "d8/d0a/a12292.html#acb26a954f14aec654513b16e5e53cad8", null ],
+    [ "m_timers", "d8/d0a/a12292.html#a06375cf97a023be4f3fff94cc43405a9", null ]
 ];

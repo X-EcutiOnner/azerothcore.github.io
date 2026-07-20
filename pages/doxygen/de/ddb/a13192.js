@@ -1,7 +1,9 @@
 var a13192 =
 [
-    [ "PeriodicTick", "de/ddb/a13192.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
-    [ "PrepareAuraScript", "de/ddb/a13192.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
-    [ "Register", "de/ddb/a13192.html#a2681d44b149e9f1d797df4147e20e686", null ],
-    [ "Validate", "de/ddb/a13192.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
+    [ "FilterTargets", "de/ddb/a13192.html#a88b91e40b330d39bd04a7873128fb858", null ],
+    [ "HandleFinish", "de/ddb/a13192.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
+    [ "PrepareSpellScript", "de/ddb/a13192.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
+    [ "Register", "de/ddb/a13192.html#ab2008e585589cbf313170064d37c4aa9", null ],
+    [ "Validate", "de/ddb/a13192.html#af4963be6c544a1706a6dc30dcbf18309", null ],
+    [ "_targets", "de/ddb/a13192.html#a2f75199a90e52cff770f46bce76d5149", null ]
 ];

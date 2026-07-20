@@ -1,7 +1,7 @@
 var a25228 =
 [
-    [ "HandleProc", "d2/de1/a25228.html#a87508c28fead56ca60c947d78ff8bae2", null ],
-    [ "PrepareAuraScript", "d2/de1/a25228.html#a514ba9c8222312bb213fcebb418d2499", null ],
-    [ "Register", "d2/de1/a25228.html#aebe4db9304449686a544c8e4c4f26b81", null ],
-    [ "Validate", "d2/de1/a25228.html#a9888b4bf71e8bb9e4b1c3caf74c48b31", null ]
+    [ "HandleEffectPeriodic", "d2/de1/a25228.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
+    [ "PrepareAuraScript", "d2/de1/a25228.html#affc698127fe0656df25bd094c02a7e50", null ],
+    [ "Register", "d2/de1/a25228.html#a4707bfaeb86b3540920a6772e1726e26", null ],
+    [ "Validate", "d2/de1/a25228.html#aef839f163d7e623a54b163e1c27542cd", null ]
 ];

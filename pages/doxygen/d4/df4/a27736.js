@@ -1,9 +1,7 @@
 var a27736 =
 [
-    [ "boss_ysondreAI", "d4/df4/a27736.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc", null ],
-    [ "DamageTaken", "d4/df4/a27736.html#a99ee250e776001bb142815fc711ae75d", null ],
-    [ "ExecuteEvent", "d4/df4/a27736.html#a88e3caa536a71730c757590be1bd3de1", null ],
-    [ "JustEngagedWith", "d4/df4/a27736.html#af96597cf06d2ed71f85c7b4055793dcf", null ],
-    [ "Reset", "d4/df4/a27736.html#ac2ea95a5f8c032d7d9166d92bce51ba1", null ],
-    [ "_stage", "d4/df4/a27736.html#a5c96faa6b5e6cc350e9c53f34fe17eb1", null ]
+    [ "HandleScript", "d4/df4/a27736.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
+    [ "PrepareSpellScript", "d4/df4/a27736.html#ab363d596d2d1e030f0cc07126b40e921", null ],
+    [ "Register", "d4/df4/a27736.html#ab9041b811e80e220828d5db59b724682", null ],
+    [ "Validate", "d4/df4/a27736.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
 ];

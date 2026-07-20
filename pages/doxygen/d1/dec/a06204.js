@@ -1,11 +1,9 @@
 var a06204 =
 [
-    [ "AppenderDB", "d1/dec/a06204.html#af8e48076d47a06c73f6b8ae054955a83", null ],
-    [ "~AppenderDB", "d1/dec/a06204.html#a7da848083d02833acc632051a2d938bf", null ],
-    [ "_write", "d1/dec/a06204.html#af38ab76e4d3ea9ebe864582c0030c49a", null ],
-    [ "getType", "d1/dec/a06204.html#a96221ceed23435556df03c5f7ffab61e", null ],
-    [ "setRealmId", "d1/dec/a06204.html#a769ff59f4dbbff1b77398dd20c016ace", null ],
-    [ "enabled", "d1/dec/a06204.html#a55e70394d0a7f321e0cf75a9b822b482", null ],
-    [ "realmId", "d1/dec/a06204.html#a5c9bf2ae429c0903cffe9a01c03b6028", null ],
-    [ "type", "d1/dec/a06204.html#a8d9968c073ee16a8fe082254ec232ebb", null ]
+    [ "SQLQueryHolderTask", "d1/dec/a06204.html#a017ab0275ea42132bb1e4ece7111572e", null ],
+    [ "~SQLQueryHolderTask", "d1/dec/a06204.html#a0d1122160565c8f20f9a48390352c770", null ],
+    [ "Execute", "d1/dec/a06204.html#a1dc2cdfee574ecbb8fd7bc595ca2f170", null ],
+    [ "GetFuture", "d1/dec/a06204.html#a73199c4e5805933c9f79091797dedc5d", null ],
+    [ "m_holder", "d1/dec/a06204.html#a64b624b8e77c819f5b47d592edc0979d", null ],
+    [ "m_result", "d1/dec/a06204.html#ab27ce22bdb505509662d862e92fe7e77", null ]
 ];

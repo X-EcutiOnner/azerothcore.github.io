@@ -1,29 +1,7 @@
 var a29272 =
 [
-    [ "ProcEventInfoBuilder", "d9/db6/a29272.html#a38c50e7852d5c87d2774372fbde47bc9", null ],
-    [ "Build", "d9/db6/a29272.html#ae0f8d3a43a218b4459db0aa3fee95bf0", null ],
-    [ "WithActionTarget", "d9/db6/a29272.html#a07d934345c43ecd6c8cebeb678e08dab", null ],
-    [ "WithActor", "d9/db6/a29272.html#a4a2faf802f7ef682e7be2b7ada7a0ff5", null ],
-    [ "WithDamageInfo", "d9/db6/a29272.html#a4d207196177033340282dd33b11c9d82", null ],
-    [ "WithHealInfo", "d9/db6/a29272.html#a3883e3ba66735492617a9907cdde3794", null ],
-    [ "WithHitMask", "d9/db6/a29272.html#ac8d9c890333158313fb6bd9bdcd14fcf", null ],
-    [ "WithProcAuraEffectIndex", "d9/db6/a29272.html#aec3496f0ce0cd0be4f8b1b2f48146206", null ],
-    [ "WithProcTarget", "d9/db6/a29272.html#af39d23e9a51f924215a20a578062a9db", null ],
-    [ "WithSpell", "d9/db6/a29272.html#a42ec10664e0fdad98e02267099f0e73c", null ],
-    [ "WithSpellPhaseMask", "d9/db6/a29272.html#a2247bbb4936f6d48c4214641a5a466af", null ],
-    [ "WithSpellTypeMask", "d9/db6/a29272.html#aebac87d053e09dba16456a9f49322973", null ],
-    [ "WithTriggeredByAuraSpell", "d9/db6/a29272.html#a5c0b48710a9526e1dc8202a92a91e852", null ],
-    [ "WithTypeMask", "d9/db6/a29272.html#a83de461b19bd737c5aa2e7fd3ad2a302", null ],
-    [ "_actionTarget", "d9/db6/a29272.html#a8571e92b47a6ad8327bdf8d1a0b57f04", null ],
-    [ "_actor", "d9/db6/a29272.html#a03c844febd2cafe041e5426a02816633", null ],
-    [ "_damageInfo", "d9/db6/a29272.html#acf2feea658b0a4a3d7b2d663aae7e3ee", null ],
-    [ "_healInfo", "d9/db6/a29272.html#aa9756e003fd8c4f2d88197e9c4ec159f", null ],
-    [ "_hitMask", "d9/db6/a29272.html#a0ef08d3b368b347a4c4e2538616329b4", null ],
-    [ "_procAuraEffectIndex", "d9/db6/a29272.html#a3d2adb99c5291a29b2265c4d834b8df0", null ],
-    [ "_procTarget", "d9/db6/a29272.html#afbc6d5efae5c965c61ebb7972aafb7f0", null ],
-    [ "_spell", "d9/db6/a29272.html#a5e6cc0a9d3a3afc81453d606116450d7", null ],
-    [ "_spellPhaseMask", "d9/db6/a29272.html#a58ea480d734bfccb3835a2a29618c8ea", null ],
-    [ "_spellTypeMask", "d9/db6/a29272.html#aefbc707a11b34a2bae78f5cf52d4b7a0", null ],
-    [ "_triggeredByAuraSpell", "d9/db6/a29272.html#a71180307b8e60ec02f11f388f43df126", null ],
-    [ "_typeMask", "d9/db6/a29272.html#ab64fb7418fce62b008ca62a2fea54c67", null ]
+    [ "TalentSpellPos", "d9/db6/a29272.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
+    [ "TalentSpellPos", "d9/db6/a29272.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
+    [ "rank", "d9/db6/a29272.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
+    [ "talent_id", "d9/db6/a29272.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
 ];

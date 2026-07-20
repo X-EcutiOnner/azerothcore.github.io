@@ -1,8 +1,7 @@
 var a21212 =
 [
-    [ "npc_azure_sorceror", "d1/d94/a21212.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
-    [ "Reset", "d1/d94/a21212.html#af4bc0ff9b938302c399bff528dd06769", null ],
-    [ "UpdateAI", "d1/d94/a21212.html#a36675e89aab24a92589a33f88fbec2bd", null ],
-    [ "_arcaneStreamOnCooldown", "d1/d94/a21212.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
-    [ "_events", "d1/d94/a21212.html#a3bd018057b31c90afd19ac6943d44591", null ]
+    [ "HandleScript", "d1/d94/a21212.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "d1/d94/a21212.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "d1/d94/a21212.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "d1/d94/a21212.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

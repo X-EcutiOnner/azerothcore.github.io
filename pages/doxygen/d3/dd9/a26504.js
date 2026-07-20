@@ -1,10 +1,10 @@
 var a26504 =
 [
-    [ "Absorb", "d3/dd9/a26504.html#ab4006b00d415a94e6a49856cee7e272b", null ],
-    [ "CalculateAmount", "d3/dd9/a26504.html#a57bfd4e7178e9e7c3df12c025d0c7d9e", null ],
-    [ "Load", "d3/dd9/a26504.html#a88aa9623f587bb7b5e91da83c76f562a", null ],
-    [ "PrepareAuraScript", "d3/dd9/a26504.html#a456c1bd5b284f642d1e040de52eee24b", null ],
-    [ "Register", "d3/dd9/a26504.html#a905994099dcc4ac9512d5f27b78a778c", null ],
-    [ "Validate", "d3/dd9/a26504.html#ad99966111a1919c610a942a8eb133ea1", null ],
-    [ "healPct", "d3/dd9/a26504.html#a3b0527ce7f1fd6afaa57f942275ec81b", null ]
+    [ "CheckProc", "d3/dd9/a26504.html#a23dfb39522f7a5437af439ef567d6ec6", null ],
+    [ "HandleEffectApply", "d3/dd9/a26504.html#ab83f17b45edc5dba8f4b3f3fbc88c626", null ],
+    [ "HandleEffectRemove", "d3/dd9/a26504.html#a7bab07fde0fb18e89388e1bc4c72c165", null ],
+    [ "HandleProc", "d3/dd9/a26504.html#a8352d7d9376f149fa227f7ca983e2660", null ],
+    [ "PrepareAuraScript", "d3/dd9/a26504.html#a309dabfa452d3279e7fb47a8e4784779", null ],
+    [ "Register", "d3/dd9/a26504.html#a3d020d3025f0ad086c43b4239205cd94", null ],
+    [ "Validate", "d3/dd9/a26504.html#ac3a5505808b3a7e718071f1202805ac5", null ]
 ];

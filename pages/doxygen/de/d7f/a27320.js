@@ -1,10 +1,8 @@
 var a27320 =
 [
-    [ "CalculateAPAmount", "de/d7f/a27320.html#ae76d10c68df1f149f83d4247122b47a7", null ],
-    [ "CalculateResistanceAmount", "de/d7f/a27320.html#ab21a4b135dfd70963f75eff7bffbf476", null ],
-    [ "CalculateSPAmount", "de/d7f/a27320.html#a421996ca946d5b04c264718e6dd63fa9", null ],
-    [ "CalculateStatAmount", "de/d7f/a27320.html#ae695515c915f2452dccb71aeb018f3a3", null ],
-    [ "HandleEffectApply", "de/d7f/a27320.html#a207864c73e485e0db0fe47bde97d87a2", null ],
-    [ "PrepareAuraScript", "de/d7f/a27320.html#a4179be48195872410bda69cac3454812", null ],
-    [ "Register", "de/d7f/a27320.html#a94b34a7e4c36bf1336b5611e82e2dd58", null ]
+    [ "ApplyDebuff", "de/d7f/a27320.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
+    [ "PrepareSpellScript", "de/d7f/a27320.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
+    [ "Register", "de/d7f/a27320.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
+    [ "RemoveInvalidTargets", "de/d7f/a27320.html#a1374c764b20b95febbca44c593bde218", null ],
+    [ "Validate", "de/d7f/a27320.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
 ];

@@ -1,17 +1,8 @@
 var a11564 =
 [
-    [ "WorldPacket", "d1/de2/a11564.html#a6329945c46586b75f41f4f3b0410a046", null ],
-    [ "WorldPacket", "d1/de2/a11564.html#a121222c627cfce905891be1611705a1a", null ],
-    [ "WorldPacket", "d1/de2/a11564.html#af406fe2f357035990fd5eccf37f3fb93", null ],
-    [ "WorldPacket", "d1/de2/a11564.html#a2880e36e172096407778fcbbdfe917bc", null ],
-    [ "WorldPacket", "d1/de2/a11564.html#a251580581b403cc113aa743c0196ceea", null ],
-    [ "WorldPacket", "d1/de2/a11564.html#a224a2ad18da5d8dd7a7bcbb887870243", null ],
-    [ "GetOpcode", "d1/de2/a11564.html#a666547feae3b83bfbba424a541287239", null ],
-    [ "GetReceivedTime", "d1/de2/a11564.html#a467aa36509adcb07f51bc8af24137c3e", null ],
-    [ "Initialize", "d1/de2/a11564.html#a6b7d58fb0230383629fa888d3aa9dbd8", null ],
-    [ "operator=", "d1/de2/a11564.html#ad44064a3c2c73f6289a9db539b408f50", null ],
-    [ "operator=", "d1/de2/a11564.html#aa1196a05e7b338543b3b94188e59721f", null ],
-    [ "SetOpcode", "d1/de2/a11564.html#acb55a3f9540c39bf88300473c29605ed", null ],
-    [ "m_opcode", "d1/de2/a11564.html#a4ff77d8a27744f07bbab70cdc4a3ef91", null ],
-    [ "m_receivedTime", "d1/de2/a11564.html#abb78776ad3a0f19e5e3d226666612b49", null ]
+    [ "QuestConfirmAccept", "d1/de2/a11564.html#a96504f0bcddeb3f339552d95052595c9", null ],
+    [ "Write", "d1/de2/a11564.html#add2f826fb7a8c9eed85e46a217dff0fc", null ],
+    [ "PlayerGuid", "d1/de2/a11564.html#a591f77f3c6de30ac07e62a5bedded7d5", null ],
+    [ "QuestId", "d1/de2/a11564.html#a4c857c0b173f5fd19f2a83123e8e0d44", null ],
+    [ "QuestTitle", "d1/de2/a11564.html#abf35fe4b947f0b645010009388d80bcd", null ]
 ];

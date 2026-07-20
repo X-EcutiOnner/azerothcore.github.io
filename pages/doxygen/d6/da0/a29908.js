@@ -1,6 +1,10 @@
 var a29908 =
 [
-    [ "height", "d6/da0/a29908.html#a7638f586a055c48a46e36471543ff72f", null ],
-    [ "unk1", "d6/da0/a29908.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
-    [ "unk2", "d6/da0/a29908.html#a394a04f6e985824aa259a42b11b97136", null ]
+    [ "plane", "df/d07/a29916.html", "df/d07/a29916" ],
+    [ "prepareLoadedData", "d6/da0/a29908.html#a29dc30be1cb7f5439e023865ff5a4853", null ],
+    [ "fcc", "d6/da0/a29908.html#a8c64958fb4e18bc3bcfaf7dbfde9f178", null ],
+    [ "fcc_txt", "d6/da0/a29908.html#ab768fb1ba27812060cf2edeb5f4b876c", null ],
+    [ "max", "d6/da0/a29908.html#afadebfc1361985b6f5d45c27e22cb303", null ],
+    [ "min", "d6/da0/a29908.html#ac3ebf1557841088ef8912b68fe6df908", null ],
+    [ "size", "d6/da0/a29908.html#af92420cfd862486c73c35ac8a9f9fdee", null ]
 ];

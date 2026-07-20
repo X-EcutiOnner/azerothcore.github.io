@@ -1,7 +1,10 @@
 var a03869 =
 [
-    [ "UpdateTime", "d2/d96/a12125.html", "d2/d96/a12125" ],
-    [ "WorldUpdateTime", "dc/d71/a12129.html", "dc/d71/a12129" ],
-    [ "AVG_DIFF_COUNT", "d6/da9/a03869.html#ac09527fd6979f77130f2ef6be46850eb", null ],
-    [ "sWorldUpdateTime", "d6/da9/a03869.html#a911ff49ac052e337a0927c080aec20b2", null ]
+    [ "AddPetScripts", "d6/da9/a03869.html#aaeb6a149e6495db19023f37a4f8bd882", null ],
+    [ "AddSC_deathknight_pet_scripts", "d6/da9/a03869.html#ac6a5b089240cd6b996928b3e7f9137b3", null ],
+    [ "AddSC_generic_pet_scripts", "d6/da9/a03869.html#a9852812a043673e45884dca938eff157", null ],
+    [ "AddSC_hunter_pet_scripts", "d6/da9/a03869.html#ab89117a79c55f003f82b06a1878e6534", null ],
+    [ "AddSC_mage_pet_scripts", "d6/da9/a03869.html#a689a4efb7777f4164aee994745a0e2d2", null ],
+    [ "AddSC_priest_pet_scripts", "d6/da9/a03869.html#ac0eaa77dc1cb9a092b318e3bc3f6d5b8", null ],
+    [ "AddSC_shaman_pet_scripts", "d6/da9/a03869.html#ab07e634ed761985e07d5c0e10f329231", null ]
 ];

@@ -1,6 +1,7 @@
 var a21496 =
 [
-    [ "npc_q24545_lich_kingAI", "d3/d34/a21500.html", "d3/d34/a21500" ],
-    [ "npc_q24545_lich_king", "d7/d19/a21496.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "d7/d19/a21496.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "HandleProc", "d7/d19/a21496.html#aeb5b70614b266bac0792906bf89a5b97", null ],
+    [ "PrepareAuraScript", "d7/d19/a21496.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
+    [ "Register", "d7/d19/a21496.html#a163e0099271f21362deeb1ba1f169f3f", null ],
+    [ "Validate", "d7/d19/a21496.html#abdb889e4c6d19f756c143d7b36f82257", null ]
 ];

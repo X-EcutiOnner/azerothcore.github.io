@@ -1,6 +1,7 @@
 var a16564 =
 [
-    [ "boss_paletressAI", "d3/d38/a16568.html", "d3/d38/a16568" ],
-    [ "boss_paletress", "db/d22/a16564.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
-    [ "GetAI", "db/d22/a16564.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
+    [ "npc_orb_carrierAI", "db/d22/a16564.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "db/d22/a16564.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "db/d22/a16564.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "db/d22/a16564.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

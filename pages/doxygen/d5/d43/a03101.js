@@ -1,10 +1,18 @@
 var a03101 =
 [
-    [ "SavedAddonsList", "d5/d43/a03101.html#afa468163a23ed58507a89e5724c06eac", null ],
-    [ "GetAddonInfo", "d5/d43/a03101.html#a65cb6a88902972060e44c57d7d9ec738", null ],
-    [ "GetBannedAddons", "d5/d43/a03101.html#ad7d0938e7463238a86e8c811e1a58800", null ],
-    [ "LoadFromDB", "d5/d43/a03101.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
-    [ "SaveAddon", "d5/d43/a03101.html#a85021021149b7eb4d78cbe81e43d3d45", null ],
-    [ "m_bannedAddons", "d5/d43/a03101.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
-    [ "m_knownAddons", "d5/d43/a03101.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
+    [ "instance_serpent_shrine", "d1/d6e/a23096.html", "d1/d6e/a23096" ],
+    [ "instance_serpent_shrine::instance_serpentshrine_cavern_InstanceMapScript", "d7/db5/a23100.html", "d7/db5/a23100" ],
+    [ "spell_serpentshrine_cavern_serpentshrine_parasite", "d6/d9d/a23104.html", "d6/d9d/a23104" ],
+    [ "spell_serpentshrine_cavern_serpentshrine_parasite_trigger_aura", "d0/da7/a23108.html", "d0/da7/a23108" ],
+    [ "spell_serpentshrine_cavern_serpentshrine_parasite_trigger", "d1/d2b/a23112.html", "d1/d2b/a23112" ],
+    [ "spell_serpentshrine_cavern_infection", "d9/d12/a23116.html", "d9/d12/a23116" ],
+    [ "spell_serpentshrine_cavern_coilfang_water", "df/ded/a23120.html", "df/ded/a23120" ],
+    [ "npc_rancid_mushroom", "d1/d37/a23124.html", "d1/d37/a23124" ],
+    [ "spell_rancid_spore_cloud", "dc/d19/a23128.html", "dc/d19/a23128" ],
+    [ "AddSC_instance_serpentshrine_cavern", "d5/d43/a03101.html#accf317168271361913093466ba7f8f0e", null ],
+    [ "boundaries", "d5/d43/a03101.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d5/d43/a03101.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "gameObjectData", "d5/d43/a03101.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
+    [ "minionData", "d5/d43/a03101.html#a6720238df140a3c574a711042b7f5bd3", null ],
+    [ "summonData", "d5/d43/a03101.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

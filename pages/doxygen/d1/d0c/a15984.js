@@ -1,6 +1,6 @@
 var a15984 =
 [
-    [ "npc_tyrande_whisperwind", "d1/d0c/a15984.html#af716e954e59221d26ee88032e895fa18", null ],
-    [ "JustDied", "d1/d0c/a15984.html#a707f6167de4eafc6d81613d0edc29436", null ],
-    [ "UpdateAI", "d1/d0c/a15984.html#a598bd2dec22715413dcbd7ed6ca3be3c", null ]
+    [ "npc_omenAI", "d8/de5/a15988.html", "d8/de5/a15988" ],
+    [ "npc_omen", "d1/d0c/a15984.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "d1/d0c/a15984.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

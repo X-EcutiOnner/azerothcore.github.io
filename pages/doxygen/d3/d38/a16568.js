@@ -1,17 +1,7 @@
 var a16568 =
 [
-    [ "boss_paletressAI", "d3/d38/a16568.html#a3bd22d082434895c4779b121f926a8c4", null ],
-    [ "DamageTaken", "d3/d38/a16568.html#a54af3ec8de6d0fdb17ae0499645a02bd", null ],
-    [ "DoAction", "d3/d38/a16568.html#a30babeb3c9644af4e9c6cbc879317299", null ],
-    [ "JustEngagedWith", "d3/d38/a16568.html#ab8e8485765502d39cb4311d92ac98441", null ],
-    [ "JustSummoned", "d3/d38/a16568.html#a82df372b8216703b8377ff334aa64684", null ],
-    [ "KilledUnit", "d3/d38/a16568.html#af9aa74ec5a3c88475734f864ec307563", null ],
-    [ "MovementInform", "d3/d38/a16568.html#a0ececc88bc520584d1c7baf8d7a5e7f6", null ],
-    [ "Reset", "d3/d38/a16568.html#af216c7ce539b5e8ce80223270f202603", null ],
-    [ "SummonMemory", "d3/d38/a16568.html#ae9daef57101d1ab25e9c6fb6980b05ff", null ],
-    [ "UpdateAI", "d3/d38/a16568.html#a6f8c8d20fbfff32d34cd30f9c3a757a6", null ],
-    [ "events", "d3/d38/a16568.html#a4b19d38e2a84097c7c47c434d66be052", null ],
-    [ "MemoryGUID", "d3/d38/a16568.html#a5b2d80b38623174b7913ed4d893f03c9", null ],
-    [ "pInstance", "d3/d38/a16568.html#a9ef97ec685e516e80b792fa1d7e891c1", null ],
-    [ "summoned", "d3/d38/a16568.html#a6064594bc0e9bd008b76d498f4cdc36c", null ]
+    [ "HandleDummy", "d3/d38/a16568.html#ad0782bfbd977954aac6170ee9111aef6", null ],
+    [ "PrepareSpellScript", "d3/d38/a16568.html#ac456524856c4a3c4913423693a8fd50c", null ],
+    [ "Register", "d3/d38/a16568.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
+    [ "Validate", "d3/d38/a16568.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
 ];

@@ -1,12 +1,14 @@
 var a12652 =
 [
-    [ "boss_the_beast", "d9/df0/a12652.html#ab98bce804078b4184b1bf6e844db9c67", null ],
-    [ "FindNearbyOrcs", "d9/df0/a12652.html#a46da3f960ea3c38791c23a3e282db9c7", null ],
-    [ "JustEngagedWith", "d9/df0/a12652.html#a9740b134ce1b21c42c9082d9fdc97264", null ],
-    [ "Reset", "d9/df0/a12652.html#a7a72f5aeb54fe6de6c71dfac2c906881", null ],
-    [ "SetData", "d9/df0/a12652.html#a8ceb3a1c53c2c5385d4a779b2ac283da", null ],
-    [ "UpdateAI", "d9/df0/a12652.html#ad7db422aefc711b437176b729c6ac151", null ],
-    [ "_beastReached", "d9/df0/a12652.html#a7345b0091bcfd894ce8fdff9431254f6", null ],
-    [ "_nearbyOrcsGUIDs", "d9/df0/a12652.html#a20b867be394f3c5d9bbf851ba724ca3a", null ],
-    [ "_orcYelled", "d9/df0/a12652.html#a7079c59c50343f460e2aac2bcf19709c", null ]
+    [ "boss_general_angerforge", "d9/df0/a12652.html#a0f65a3a8acdca0361f468538b4c8bb5e", null ],
+    [ "JustEngagedWith", "d9/df0/a12652.html#a5b2e7aead30ad3c07786c616c0b2f44e", null ],
+    [ "Reset", "d9/df0/a12652.html#a8f05f134eb43a6812bc2d41734d2429e", null ],
+    [ "SummonAdds", "d9/df0/a12652.html#a723891cc60b4d84b29d395e4ddffff57", null ],
+    [ "SummonMedics", "d9/df0/a12652.html#ac21b4424cdf3e5e336970e1f8d5aea98", null ],
+    [ "UpdateAI", "d9/df0/a12652.html#ae37de4567bf4a03779a87e9d650ac1ea", null ],
+    [ "_addsTimer", "d9/df0/a12652.html#a1ddffcd960d1c06ade7b6de70faeb46d", null ],
+    [ "_cleaveTimer", "d9/df0/a12652.html#a47958223deb7aa97aaf331bdffd9dd2d", null ],
+    [ "_hamStringTimer", "d9/df0/a12652.html#adaa360262079ea390077cea70e401da5", null ],
+    [ "_medics", "d9/df0/a12652.html#ac1039c144c16e70818a199d91cace370", null ],
+    [ "_mightyBlowTimer", "d9/df0/a12652.html#a7bd4ccf9648804c972dec5d7a35eaaa4", null ]
 ];

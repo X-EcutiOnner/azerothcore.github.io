@@ -1,11 +1,7 @@
 var a23616 =
 [
-    [ "boss_pathaleon_the_calculator", "d0/ddc/a23616.html#a679dc3ccc23c6def44e0f0669822e146", null ],
-    [ "CanAIAttack", "d0/ddc/a23616.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
-    [ "DoAction", "d0/ddc/a23616.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
-    [ "JustDied", "d0/ddc/a23616.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
-    [ "JustEngagedWith", "d0/ddc/a23616.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
-    [ "KilledUnit", "d0/ddc/a23616.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
-    [ "Reset", "d0/ddc/a23616.html#adc48067c3656bf768c3013ff266565c0", null ],
-    [ "_isEnraged", "d0/ddc/a23616.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
+    [ "boss_warp_splinter", "d0/ddc/a23616.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d0/ddc/a23616.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d0/ddc/a23616.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d0/ddc/a23616.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

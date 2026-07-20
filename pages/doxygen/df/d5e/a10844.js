@@ -1,7 +1,10 @@
 var a10844 =
 [
-    [ "ClientPacket", "df/d5e/a10844.html#aa1d1946c07e248bae5927e83fdad9500", null ],
-    [ "ClientPacket", "df/d5e/a10844.html#a1cdaaacca2695c4366647c7611073ff0", null ],
-    [ "GetOpcode", "df/d5e/a10844.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
-    [ "Write", "df/d5e/a10844.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
+    [ "WorldObjectScript", "df/d5e/a10844.html#af044c3699a591c137abc5e03c772890b", null ],
+    [ "IsDatabaseBound", "df/d5e/a10844.html#a48f037dd6152ff68ebef672de68df45e", null ],
+    [ "OnWorldObjectCreate", "df/d5e/a10844.html#a2b32bc661e5a377de98902f3bc16679b", null ],
+    [ "OnWorldObjectDestroy", "df/d5e/a10844.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
+    [ "OnWorldObjectResetMap", "df/d5e/a10844.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
+    [ "OnWorldObjectSetMap", "df/d5e/a10844.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
+    [ "OnWorldObjectUpdate", "df/d5e/a10844.html#abc139d1aa728f8a70886eed65d28f566", null ]
 ];

@@ -1,6 +1,5 @@
 var a13396 =
 [
-    [ "OnRemove", "d8/dcd/a13396.html#aedad236b202300eee0925e3600b87bfa", null ],
-    [ "PrepareAuraScript", "d8/dcd/a13396.html#acfdeb98e274989e378d4d4c800306a24", null ],
-    [ "Register", "d8/dcd/a13396.html#a0d820ca108e3aabe87ab5867d997264c", null ]
+    [ "boss_zelfan", "d8/dcd/a13396.html#a169e72dfe50c5199bf0053828888095b", null ],
+    [ "JustEngagedWith", "d8/dcd/a13396.html#a4e83c11ad95ea4dbea893a08671f17af", null ]
 ];

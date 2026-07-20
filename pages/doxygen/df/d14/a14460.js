@@ -1,8 +1,11 @@
 var a14460 =
 [
-    [ "npc_spawn_of_marli", "df/d14/a14460.html#a1dcd5066de108203903f5767c4b375ea", null ],
-    [ "JustEngagedWith", "df/d14/a14460.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
-    [ "Reset", "df/d14/a14460.html#a79ef192d41af75e0dad0494776c75189", null ],
-    [ "UpdateAI", "df/d14/a14460.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
-    [ "_scheduler", "df/d14/a14460.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
+    [ "boss_hakkarAI", "df/d14/a14460.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
+    [ "ApplyHakkarPowerStacks", "df/d14/a14460.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
+    [ "CheckInRoom", "df/d14/a14460.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
+    [ "EnterEvadeMode", "df/d14/a14460.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
+    [ "JustDied", "df/d14/a14460.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
+    [ "JustEngagedWith", "df/d14/a14460.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
+    [ "Reset", "df/d14/a14460.html#a52db5743c09088e2e9f1aff1513960f2", null ],
+    [ "UpdateAI", "df/d14/a14460.html#a1119212465bcf293991d7a520c6ffe42", null ]
 ];

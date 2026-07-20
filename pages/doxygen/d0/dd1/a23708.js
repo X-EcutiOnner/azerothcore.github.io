@@ -1,9 +1,7 @@
 var a23708 =
 [
-    [ "npc_ancestral_wolfAI", "d0/dd1/a23708.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "d0/dd1/a23708.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "d0/dd1/a23708.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "d0/dd1/a23708.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "WaypointReached", "d0/dd1/a23708.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "ryga", "d0/dd1/a23708.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "Load", "d0/dd1/a23708.html#aba7e1a0b87607386649bb842b5058c3e", null ],
+    [ "OnRemove", "d0/dd1/a23708.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
+    [ "PrepareAuraScript", "d0/dd1/a23708.html#ac62b18eedbadb0b3581d772909175e96", null ],
+    [ "Register", "d0/dd1/a23708.html#a17e8be131f01b2434b18740b20a08d6e", null ]
 ];

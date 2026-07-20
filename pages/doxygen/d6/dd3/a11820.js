@@ -1,8 +1,10 @@
 var a11820 =
 [
-    [ "first", "d6/dd3/a11820.html#a49aea8bfed353c2c552f6195b8e9f60a", null ],
-    [ "last", "d6/dd3/a11820.html#a05a8077c7ec39bcca66fe84aa1da7040", null ],
-    [ "next", "d6/dd3/a11820.html#a0a7791b7069912a013299e7afaf4142f", null ],
-    [ "prev", "d6/dd3/a11820.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f", null ],
-    [ "rank", "d6/dd3/a11820.html#a0b58cef8fc18f91fa59b8c7d7b9f9872", null ]
+    [ "TriggeredByAuraSpellData", "d6/dd3/a11820.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
+    [ "Init", "d6/dd3/a11820.html#a782e0056967e006748318af3112c0e43", null ],
+    [ "operator bool", "d6/dd3/a11820.html#a85d4782b76b060c172aaa6f914d400da", null ],
+    [ "operator!", "d6/dd3/a11820.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
+    [ "effectIndex", "d6/dd3/a11820.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
+    [ "spellInfo", "d6/dd3/a11820.html#af58f62fb168e9da7011f7b570f08e977", null ],
+    [ "tickNumber", "d6/dd3/a11820.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
 ];

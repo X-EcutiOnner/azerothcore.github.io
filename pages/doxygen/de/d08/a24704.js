@@ -1,5 +1,6 @@
 var a24704 =
 [
-    [ "PrepareSpellScript", "de/d08/a24704.html#a2d0e411f3b4a9efed35ee34c7bf03252", null ],
-    [ "Register", "de/d08/a24704.html#a560ff22e718e8a975a2e2dc2340da917", null ]
+    [ "HandleAfterCast", "de/d08/a24704.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
+    [ "PrepareSpellScript", "de/d08/a24704.html#a602d7c920aa73a9c3c69222854093036", null ],
+    [ "Register", "de/d08/a24704.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
 ];

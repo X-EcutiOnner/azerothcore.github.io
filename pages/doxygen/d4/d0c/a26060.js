@@ -1,6 +1,6 @@
 var a26060 =
 [
-    [ "CheckProc", "d4/d0c/a26060.html#adb21bbda83cf0fdc30e64cabc0fb0d1c", null ],
-    [ "PrepareAuraScript", "d4/d0c/a26060.html#a5fd08c4ff5ba410458a67eb91e612267", null ],
-    [ "Register", "d4/d0c/a26060.html#a13c9e5a0a2a6945dfa5a4425be08703d", null ]
+    [ "OnPeriodic", "d4/d0c/a26060.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
+    [ "PrepareAuraScript", "d4/d0c/a26060.html#ad3d091510685ebc2d87aadb658cacf58", null ],
+    [ "Register", "d4/d0c/a26060.html#a9552ba0f4c18623b6b00ababa034942c", null ]
 ];

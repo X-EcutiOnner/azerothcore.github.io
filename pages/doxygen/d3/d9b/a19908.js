@@ -1,4 +1,6 @@
 var a19908 =
 [
-    [ "operator()", "d3/d9b/a19908.html#aae8aeaabdecc3d8ff68c8764b166741d", null ]
+    [ "CalculateDamage", "d3/d9b/a19908.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "d3/d9b/a19908.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "d3/d9b/a19908.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

@@ -1,7 +1,7 @@
 var a08452 =
 [
-    [ "entry", "de/d33/a08452.html#ad0d74d6216c9b6cb6fbeda55fb002072", null ],
-    [ "pos", "de/d33/a08452.html#af264c1262d9fcd204a2a536847a613b1", null ],
-    [ "respawnTime", "de/d33/a08452.html#abeadd86c92a8c301626dde6943da1b9b", null ],
-    [ "rot", "de/d33/a08452.html#a776668c1b71e0cf9f3e0f0619498ae72", null ]
+    [ "CreatureSpellCooldown", "de/d33/a08452.html#a6d234a93951992640df5720a2885be3e", null ],
+    [ "CreatureSpellCooldown", "de/d33/a08452.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
+    [ "category", "de/d33/a08452.html#a27330a80d711087f1894b2ce816c33b8", null ],
+    [ "end", "de/d33/a08452.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
 ];

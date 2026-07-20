@@ -1,7 +1,7 @@
 var a11972 =
 [
-    [ "ScriptStateStore", "d3/d0a/a11972.html#a51baffee5c9dbf255591db8ea13ee516", null ],
-    [ "_auraApplication", "d3/d0a/a11972.html#af5098bcedac048808e11bf2f82d705a7", null ],
-    [ "_currentScriptState", "d3/d0a/a11972.html#adddf594d9468b16455da6e2aef683d44", null ],
-    [ "_defaultActionPrevented", "d3/d0a/a11972.html#a63cf373d469af72bc96a3e72351e3256", null ]
+    [ "EffectAuraNameCheck", "d3/d0a/a11972.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
+    [ "Check", "d3/d0a/a11972.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
+    [ "ToString", "d3/d0a/a11972.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
+    [ "effAurName", "d3/d0a/a11972.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
 ];

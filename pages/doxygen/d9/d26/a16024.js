@@ -1,8 +1,6 @@
 var a16024 =
 [
-    [ "npc_lakota_windsongAI", "d9/d26/a16024.html#a922172a38ca75adef66a2653eda7fa98", null ],
-    [ "DoSpawnBandits", "d9/d26/a16024.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
-    [ "Reset", "d9/d26/a16024.html#aee7a86275f93021e0e5db249b636bcd4", null ],
-    [ "WaypointReached", "d9/d26/a16024.html#a6435c8b1521206789131889e5fa527a6", null ],
-    [ "WaypointReached", "d9/d26/a16024.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "SpellId", "d9/d26/a16024.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "d9/d26/a16024.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "d9/d26/a16024.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

@@ -1,7 +1,17 @@
 var a14632 =
 [
-    [ "PeriodicTick", "d3/d7b/a14632.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
-    [ "PrepareAuraScript", "d3/d7b/a14632.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
-    [ "Register", "d3/d7b/a14632.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
-    [ "Validate", "d3/d7b/a14632.html#a68247c2afa553411fac34582e83635c9", null ]
+    [ "instance_zulgurub_InstanceMapScript", "d3/d7b/a14632.html#aacbb3bb0d212ffafae475c74790d9c63", null ],
+    [ "GetData", "d3/d7b/a14632.html#ae8c0fa463d3e5b5dafb7b14b5d32a4b1", null ],
+    [ "GetGuidData", "d3/d7b/a14632.html#a0da827e64e90a1f97b75038621a195ff", null ],
+    [ "OnCreatureCreate", "d3/d7b/a14632.html#a951c6f5e1dc460cd820fba49add52898", null ],
+    [ "OnGameObjectCreate", "d3/d7b/a14632.html#a7649a9bcdfafd3c8d7001555e60910af", null ],
+    [ "RemoveHakkarPowerStack", "d3/d7b/a14632.html#a0234565dc9c87e32bcd0a7f19e2336b6", null ],
+    [ "SetBossState", "d3/d7b/a14632.html#aaf5d69e4993591e0f936e2109df1fb07", null ],
+    [ "_arlokkGUID", "d3/d7b/a14632.html#a92d30a8e0691e5bc6a58ff26cc06df36", null ],
+    [ "_edgeOfMadnessGUID", "d3/d7b/a14632.html#aa7bbbb942592651857f933503da0e808", null ],
+    [ "_gahzrankaGUID", "d3/d7b/a14632.html#af0e854382a2316363c50d60f03095097", null ],
+    [ "_goGongOfBethekkGUID", "d3/d7b/a14632.html#a1f33ff891c8289a49dd2b979a064c323", null ],
+    [ "_hakkarGUID", "d3/d7b/a14632.html#aeca34a55f3c378311ae1b46313cf22de", null ],
+    [ "_jindoTheHexxerGUID", "d3/d7b/a14632.html#a48ec95fa51ddf50aa0249a3798bbc898", null ],
+    [ "_vilebranchSpeakerGUID", "d3/d7b/a14632.html#a07cff6b252eb9b08855bc8bd7e5d7735", null ]
 ];

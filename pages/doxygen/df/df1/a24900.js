@@ -1,8 +1,7 @@
 var a24900 =
 [
-    [ "AchievementCredit", "df/df1/a24900.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "df/df1/a24900.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "df/df1/a24900.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "df/df1/a24900.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "df/df1/a24900.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "HandleEffectRemove", "df/df1/a24900.html#a3d6b6ae0bde8ae51362c95df82604d68", null ],
+    [ "PrepareAuraScript", "df/df1/a24900.html#aa07b231cc76afb098ac8bc92eb050c80", null ],
+    [ "Register", "df/df1/a24900.html#aa381143f36a6443dfb1f0d66ce81c351", null ],
+    [ "AuraEffectHandleModes", "df/df1/a24900.html#a97370dd3f7c3e58a719090176c397386", null ]
 ];

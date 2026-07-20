@@ -1,12 +1,7 @@
 var a15088 =
 [
-    [ "boss_epochAI", "dc/df1/a15088.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
-    [ "JustDied", "dc/df1/a15088.html#a780aa5bc86c80aaeeffad441b2873121", null ],
-    [ "JustEngagedWith", "dc/df1/a15088.html#ae742dceac5979faebb58a133e9bd91f0", null ],
-    [ "KilledUnit", "dc/df1/a15088.html#af41946feab7b86d812f706bd7abbf1bd", null ],
-    [ "Reset", "dc/df1/a15088.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
-    [ "SpellHitTarget", "dc/df1/a15088.html#ab87dfcf635a65b02be29186d2990fef3", null ],
-    [ "UpdateAI", "dc/df1/a15088.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
-    [ "events", "dc/df1/a15088.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
-    [ "warps", "dc/df1/a15088.html#a478113af1ce565c729604c6039f55551", null ]
+    [ "HandleOnHit", "dc/df1/a15088.html#ae3241486a612293b5421a523f6d854d9", null ],
+    [ "PrepareSpellScript", "dc/df1/a15088.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
+    [ "Register", "dc/df1/a15088.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
+    [ "Validate", "dc/df1/a15088.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
 ];

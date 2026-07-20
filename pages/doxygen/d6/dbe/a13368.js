@@ -1,6 +1,6 @@
 var a13368 =
 [
-    [ "npc_acherus_necromancerAI", "d2/d53/a13372.html", "d2/d53/a13372" ],
-    [ "npc_acherus_necromancer", "d6/dbe/a13368.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
-    [ "GetAI", "d6/dbe/a13368.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
+    [ "boss_kagani_nightstrike", "d6/dbe/a13368.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
+    [ "JustEngagedWith", "d6/dbe/a13368.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
+    [ "MovementInform", "d6/dbe/a13368.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
 ];

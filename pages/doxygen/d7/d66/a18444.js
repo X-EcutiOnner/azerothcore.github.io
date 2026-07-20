@@ -1,6 +1,6 @@
 var a18444 =
 [
-    [ "DefileTargetSelector", "d7/d66/a18444.html#a9c13a04378d6550dd135d2cb41c9bc1c", null ],
-    [ "operator()", "d7/d66/a18444.html#a2ffea7bb2c62e0fa069e3d1ffec3ab11", null ],
-    [ "_source", "d7/d66/a18444.html#a427b4304b5a93f26741eda90d20ff13b", null ]
+    [ "UnchainedMagicTargetSelector", "d7/d66/a18444.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
+    [ "operator()", "d7/d66/a18444.html#af28ce8f46154ae6152e9025775a7f84f", null ],
+    [ "_removeHealers", "d7/d66/a18444.html#a35a7981ce5495cba8b3a5391e4031431", null ]
 ];

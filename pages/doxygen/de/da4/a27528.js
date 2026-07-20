@@ -1,6 +1,6 @@
 var a27528 =
 [
-    [ "FilterTargets", "de/da4/a27528.html#a6224b3193474f569d09edaf29b40c2fb", null ],
-    [ "PrepareSpellScript", "de/da4/a27528.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
-    [ "Register", "de/da4/a27528.html#a2fab1592d19331239b1ef63045389886", null ]
+    [ "FilterTargets", "de/da4/a27528.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
+    [ "PrepareSpellScript", "de/da4/a27528.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
+    [ "Register", "de/da4/a27528.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
 ];

@@ -1,6 +1,6 @@
 var a17848 =
 [
-    [ "npc_igb_ship_crewAI", "dd/d3f/a17848.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "dd/d3f/a17848.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "dd/d3f/a17848.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "PrepareAuraScript", "dd/d3f/a17848.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
+    [ "RecalculateHook", "dd/d3f/a17848.html#a829e96cabbb565922f7183adb3edf13c", null ],
+    [ "Register", "dd/d3f/a17848.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
 ];

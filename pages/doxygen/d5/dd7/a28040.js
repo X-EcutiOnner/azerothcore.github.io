@@ -1,6 +1,6 @@
 var a28040 =
 [
-    [ "npc_innkeeper", "d5/dd7/a28040.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "d5/dd7/a28040.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "d5/dd7/a28040.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "go_brewfest_musicAI", "d7/d48/a28044.html", "d7/d48/a28044" ],
+    [ "go_brewfest_music", "d5/dd7/a28040.html#a787963a5ee591933d62fdb52911f9a77", null ],
+    [ "GetAI", "d5/dd7/a28040.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
 ];

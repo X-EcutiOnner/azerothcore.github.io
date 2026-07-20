@@ -1,13 +1,7 @@
 var a09216 =
 [
-    [ "entry", "d7/dec/a09216.html#a9b4a88edefbc1e4b08a8ee03dfd90274", null ],
-    [ "height", "d7/dec/a09216.html#a40fcdb1274bc2587e8870b39a64289e1", null ],
-    [ "length", "d7/dec/a09216.html#a8e1ac424a973e546aa7c35e387e32a23", null ],
-    [ "map", "d7/dec/a09216.html#a9ecb58fde45a318ba0d6306c603aba4b", null ],
-    [ "orientation", "d7/dec/a09216.html#a5db58eaf63aceeaeb93bf6f4d5961a97", null ],
-    [ "radius", "d7/dec/a09216.html#ae4195d9f29b425394296009c22654380", null ],
-    [ "width", "d7/dec/a09216.html#af914195a4e7f2314a6241fb81cc8cfa8", null ],
-    [ "x", "d7/dec/a09216.html#a423077ceaf75c367831a6d9f55427a6f", null ],
-    [ "y", "d7/dec/a09216.html#a55ab832828addcef1b2f570bda81f2ce", null ],
-    [ "z", "d7/dec/a09216.html#ae5d0d4e9ef4006ad6c7195b999ef00c2", null ]
+    [ "EquipementIdPrev", "d7/dec/a09216.html#a719c716f8914a200bfde4f5bb3275f26", null ],
+    [ "EquipmentId", "d7/dec/a09216.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
+    [ "ModelId", "d7/dec/a09216.html#ade2b2413020be410428b9fee9aa284d6", null ],
+    [ "ModelIdPrev", "d7/dec/a09216.html#a9de7aa11788b22692738b72718193057", null ]
 ];

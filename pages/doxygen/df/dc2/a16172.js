@@ -1,8 +1,13 @@
 var a16172 =
 [
-    [ "HandleAfterCast", "df/dc2/a16172.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
-    [ "HandleDummyEffect", "df/dc2/a16172.html#a539c233fc820248930e1988c4074b9c8", null ],
-    [ "Load", "df/dc2/a16172.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
-    [ "PrepareSpellScript", "df/dc2/a16172.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
-    [ "Register", "df/dc2/a16172.html#ae90184fd34636b33755b732ec82fd52f", null ]
+    [ "npc_cairne_bloodhoofAI", "df/dc2/a16172.html#ac87f0d10b1886ffa24ae201fdb614441", null ],
+    [ "JustDied", "df/dc2/a16172.html#a88bab853ee3f7445c1d5f0d4d1f3485b", null ],
+    [ "Reset", "df/dc2/a16172.html#ab58f32a6bd1659b1a54fb056526c121a", null ],
+    [ "sGossipSelect", "df/dc2/a16172.html#aa95b820eb4d3c6c5f1898a67c319b1a6", null ],
+    [ "UpdateAI", "df/dc2/a16172.html#aefcbb7b2da6d1039055c27feeb1f5f9e", null ],
+    [ "_berserkerChargeTimer", "df/dc2/a16172.html#a2efb1949abe83dadf62b5c868ae57fe2", null ],
+    [ "_cleaveTimer", "df/dc2/a16172.html#ab1ed741e998cd7ed088cab3af378b3ca", null ],
+    [ "_mortalStrikeTimer", "df/dc2/a16172.html#a9f33790662ce229669e5d1d6f2aac8b0", null ],
+    [ "_thunderclapTimer", "df/dc2/a16172.html#a6bdca667875353db2badc40fd95a1ce4", null ],
+    [ "_uppercutTimer", "df/dc2/a16172.html#a9f13acd7df900d9bdac64898b183c67d", null ]
 ];

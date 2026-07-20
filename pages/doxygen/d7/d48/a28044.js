@@ -1,10 +1,7 @@
 var a28044 =
 [
-    [ "npc_prof_alchemy", "d7/d48/a28044.html#a43ea842214fc507c34586d12df8f7fea", null ],
-    [ "HasAlchemySpell", "d7/d48/a28044.html#ac9df824e0923ca86189a53ae391b43c0", null ],
-    [ "OnGossipHello", "d7/d48/a28044.html#add760c538c7882e1ad8331b8ded74f5c", null ],
-    [ "OnGossipSelect", "d7/d48/a28044.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
-    [ "SendActionMenu", "d7/d48/a28044.html#a2d4c7337b40be323a384a9e755fc3145", null ],
-    [ "SendConfirmLearn", "d7/d48/a28044.html#a548224b30494636b9ee292a533fc7b39", null ],
-    [ "SendConfirmUnlearn", "d7/d48/a28044.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
+    [ "go_brewfest_musicAI", "d7/d48/a28044.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "d7/d48/a28044.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "d7/d48/a28044.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "d7/d48/a28044.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

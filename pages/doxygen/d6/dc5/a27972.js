@@ -1,5 +1,9 @@
 var a27972 =
 [
-    [ "go_veil_skith_cage", "d6/dc5/a27972.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
-    [ "OnGossipHello", "d6/dc5/a27972.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
+    [ "ChatLogScript", "d6/dc5/a27972.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerCanUseChat", "d6/dc5/a27972.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
+    [ "OnPlayerCanUseChat", "d6/dc5/a27972.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
+    [ "OnPlayerCanUseChat", "d6/dc5/a27972.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
+    [ "OnPlayerCanUseChat", "d6/dc5/a27972.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
+    [ "OnPlayerCanUseChat", "d6/dc5/a27972.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
 ];

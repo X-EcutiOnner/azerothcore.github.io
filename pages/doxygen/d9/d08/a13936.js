@@ -1,10 +1,8 @@
 var a13936 =
 [
-    [ "npc_partygoer_pather", "d9/d08/a13936.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
-    [ "Initialize", "d9/d08/a13936.html#afb114b0587c550e39c41e131364da663", null ],
-    [ "PathEndReached", "d9/d08/a13936.html#a55833d306716ba411f96ecd024cc7c72", null ],
-    [ "Reset", "d9/d08/a13936.html#ade2cc36ff49001138eee5b607ec83b12", null ],
-    [ "UpdateAI", "d9/d08/a13936.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
-    [ "_events", "d9/d08/a13936.html#ac210dc0286ded980e78743237a08bb23", null ],
-    [ "_path", "d9/d08/a13936.html#a4da184c44858e99eca2b07193fd48f13", null ]
+    [ "HandleApply", "d9/d08/a13936.html#a717e3428afd59fa3a5e9916887d88273", null ],
+    [ "HandleRemove", "d9/d08/a13936.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
+    [ "PrepareAuraScript", "d9/d08/a13936.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
+    [ "Register", "d9/d08/a13936.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
+    [ "Validate", "d9/d08/a13936.html#a393a46618a4e1928b8149e04b4823726", null ]
 ];

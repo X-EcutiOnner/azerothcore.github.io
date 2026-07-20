@@ -1,8 +1,9 @@
 var a16696 =
 [
-    [ "npc_frost_sphereAI", "d3/da2/a16696.html#ae697a98d23d94315768dc866852b6e07", null ],
-    [ "DamageTaken", "d3/da2/a16696.html#a3960f19b456f29a33016d799809a82a8", null ],
-    [ "SpellHit", "d3/da2/a16696.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
-    [ "UpdateAI", "d3/da2/a16696.html#a4e866332045135c867f2b9ee871db0c2", null ],
-    [ "permafrostTimer", "d3/da2/a16696.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
+    [ "npc_memoryAI", "d3/da2/a16696.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "d3/da2/a16696.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "d3/da2/a16696.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "d3/da2/a16696.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "d3/da2/a16696.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "d3/da2/a16696.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

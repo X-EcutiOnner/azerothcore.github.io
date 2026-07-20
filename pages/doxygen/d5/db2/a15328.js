@@ -1,7 +1,9 @@
 var a15328 =
 [
-    [ "npc_hive_zara_larva", "d5/db2/a15328.html#a50fb5738d7b0818689216fee0915a0de", null ],
-    [ "JustSummoned", "d5/db2/a15328.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
-    [ "MovementInform", "d5/db2/a15328.html#a6890c58106450d654062f548a80cb42f", null ],
-    [ "_instance", "d5/db2/a15328.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
+    [ "boss_chrono_lord_deja", "d5/db2/a15328.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
+    [ "JustDied", "d5/db2/a15328.html#a68eb4941364f9fac121aa3d610d45f48", null ],
+    [ "JustEngagedWith", "d5/db2/a15328.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
+    [ "KilledUnit", "d5/db2/a15328.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
+    [ "MoveInLineOfSight", "d5/db2/a15328.html#a535c0c157c60804188ad8c4413c277dd", null ],
+    [ "OwnTalk", "d5/db2/a15328.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
 ];

@@ -1,8 +1,9 @@
 var a06404 =
 [
-    [ "ArcherAI", "d3/d98/a06404.html#a113c138958054716182c15ee9f2b47da", null ],
-    [ "AttackStart", "d3/d98/a06404.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
-    [ "Permissible", "d3/d98/a06404.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
-    [ "UpdateAI", "d3/d98/a06404.html#aa6e072e239549d337de61670a05eb6f8", null ],
-    [ "m_minRange", "d3/d98/a06404.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
+    [ "itemId", "d3/d98/a06404.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
+    [ "mailTemplate", "d3/d98/a06404.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
+    [ "sender", "d3/d98/a06404.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
+    [ "subject", "d3/d98/a06404.html#a45644f308278529f822080f8274180d8", null ],
+    [ "text", "d3/d98/a06404.html#a4d57dcb4d130552f5bf756308d79307c", null ],
+    [ "titleId", "d3/d98/a06404.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
 ];

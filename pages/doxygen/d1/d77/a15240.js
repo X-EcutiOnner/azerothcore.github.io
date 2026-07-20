@@ -1,8 +1,13 @@
 var a15240 =
 [
-    [ "Load", "d1/d77/a15240.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
-    [ "PeriodicTick", "d1/d77/a15240.html#ae4761ac3bce02903a7266511d80503f9", null ],
-    [ "PrepareAuraScript", "d1/d77/a15240.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
-    [ "Register", "d1/d77/a15240.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
-    [ "_ticks", "d1/d77/a15240.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
+    [ "boss_salrammAI", "d1/d77/a15240.html#ae1055878b3919e29d44ee26efcbe044f", null ],
+    [ "ExplodeGhoul", "d1/d77/a15240.html#adc64d8b10b28b98254c528732fff0516", null ],
+    [ "JustDied", "d1/d77/a15240.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
+    [ "JustEngagedWith", "d1/d77/a15240.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
+    [ "JustSummoned", "d1/d77/a15240.html#afd70403a8644f310f37335c6c9bf5b55", null ],
+    [ "KilledUnit", "d1/d77/a15240.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
+    [ "Reset", "d1/d77/a15240.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
+    [ "UpdateAI", "d1/d77/a15240.html#aa2350dc05884593b1361f9f09b8d9392", null ],
+    [ "events", "d1/d77/a15240.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
+    [ "summons", "d1/d77/a15240.html#a813c09e121730d4ae2e623ac3c37d570", null ]
 ];

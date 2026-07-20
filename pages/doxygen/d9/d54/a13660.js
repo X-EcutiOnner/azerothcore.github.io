@@ -1,7 +1,6 @@
 var a13660 =
 [
-    [ "CorruptTriggers", "d9/d54/a13660.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
-    [ "Execute", "d9/d54/a13660.html#a9929f3518f307e0b753782967f06c6c1", null ],
-    [ "_caster", "d9/d54/a13660.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
-    [ "_currentLane", "d9/d54/a13660.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "dc/db7/a13664.html", "dc/db7/a13664" ],
+    [ "instance_shadowfang_keep", "d9/d54/a13660.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
+    [ "GetInstanceScript", "d9/d54/a13660.html#a5c076ed86470247de5b4e3733b70fa25", null ]
 ];

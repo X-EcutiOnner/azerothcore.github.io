@@ -1,7 +1,11 @@
 var a23788 =
 [
-    [ "npc_bessyAI", "d3/ded/a23792.html", "d3/ded/a23792" ],
-    [ "npc_bessy", "d8/d00/a23788.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "d8/d00/a23788.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "d8/d00/a23788.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "boss_pathaleon_the_calculator", "d8/d00/a23788.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "d8/d00/a23788.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "d8/d00/a23788.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "d8/d00/a23788.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "d8/d00/a23788.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "d8/d00/a23788.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "d8/d00/a23788.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "d8/d00/a23788.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellCritDamageBonusOrderTest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/tools/vmap4_extractor/wmo.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,232 +107,151 @@ $(document).ready(function(){initNavTree('d1/d09/a00077.html','../../'); initRes
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">SpellCritDamageBonusOrderTest.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">wmo.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
-<code>#include &quot;gtest/gtest.h&quot;</code><br />
+<div class="textblock"><code>#include &lt;memory&gt;</code><br />
+<code>#include &lt;string&gt;</code><br />
+<code>#include &lt;unordered_set&gt;</code><br />
+<code>#include &lt;vector&gt;</code><br />
+<code>#include &quot;<a class="el" href="../../">vec3d.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">loadlib/loadlib.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d48/a29677.html">SpellCritDamageBonusOrderTest</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d6b/a30104.html">WMO::MODS</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d06/a30108.html">WMO::MODD</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dbb/a30112.html">WMODoodadData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dfa/a30116.html">WMORoot</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d96/a30120.html">WMOLiquidHeader</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d98/a30124.html">WMOLiquidVert</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d71/a30128.html">WMOGroup</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:da/dee/a05158"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dee/a05158.html">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}</a></td></tr>
-<tr class="memdesc:da/dee/a05158"><td class="mdescLeft">&#160;</td><td class="mdescRight">Tests for melee/ranged spell crit damage ordering (issue #24976) <br /></td></tr>
+<tr class="memitem:d3/d14/a05174"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d14/a05174.html">ADT</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:d3/dd2/a05176"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd2/a05176.html">WMO</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:d3/dda/a05177"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dda/a05177.html">MapObject</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a0673ad4a8399eb24693f8694a261e3da"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3da">MopyFlags</a> { <br />
+&#160;&#160;<a class="el" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daa4887238124bff7f472762f37b14f084b">WHO_MATERIAL_UNK01</a> = 0x01
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daae8fbdf74c986d20ec35a1bc8540ab5f6">WMO_MATERIAL_NOCAMCOLLIDE</a> = 0x02
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20">WMO_MATERIAL_DETAIL</a> = 0x04
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daa26cd74a7fba8ff77edd7fcad4b174192">WMO_MATERIAL_COLLISION</a> = 0x08
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daaeda4c860284ded0a951980ea981503f2">WMO_MATERIAL_HINT</a> = 0x10
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daa79016e869a8c491c5e7c762416645edc">WMO_MATERIAL_RENDER</a> = 0x20
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daaa806842158937b60f3b6af093b50497a">WMO_MATERIAL_WALL_SURFACE</a> = 0x40
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daad1b64a17d5df9a320ad54ab47e9c0885">WMO_MATERIAL_COLLIDE_HIT</a> = 0x80
+<br />
+ }</td></tr>
+<tr class="separator:a0673ad4a8399eb24693f8694a261e3da"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ab55aeffce172b7e667fdcb86ba06d954"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d8a/a04919.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dee/a05158.html#ab55aeffce172b7e667fdcb86ba06d954">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::CorrectCritOrder</a> (<a class="el" href="../../d4/d8a/a04919.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> damage, float auraCritMod, float spellModPct)</td></tr>
-<tr class="separator:ab55aeffce172b7e667fdcb86ba06d954"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae0ad4b3cd3c2381976fd6106fc4f8088"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d8a/a04919.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dee/a05158.html#ae0ad4b3cd3c2381976fd6106fc4f8088">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::OldWrongCritOrder</a> (<a class="el" href="../../d4/d8a/a04919.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> damage, float auraCritMod, float spellModPct)</td></tr>
-<tr class="separator:ae0ad4b3cd3c2381976fd6106fc4f8088"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae30b40dccd8a24d78d006e8e9ac63f19"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d09/a00077.html#ae30b40dccd8a24d78d006e8e9ac63f19">TEST_F</a> (<a class="el" href="../../dd/d48/a29677.html">SpellCritDamageBonusOrderTest</a>, NoModifiers)</td></tr>
-<tr class="separator:ae30b40dccd8a24d78d006e8e9ac63f19"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4172aa23985d10af03e6a92c7fa9dd2e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d09/a00077.html#a4172aa23985d10af03e6a92c7fa9dd2e">TEST_F</a> (<a class="el" href="../../dd/d48/a29677.html">SpellCritDamageBonusOrderTest</a>, OnlyAuraMod)</td></tr>
-<tr class="separator:a4172aa23985d10af03e6a92c7fa9dd2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad8c6026ca0167ae177e227997c8e2388"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d09/a00077.html#ad8c6026ca0167ae177e227997c8e2388">TEST_F</a> (<a class="el" href="../../dd/d48/a29677.html">SpellCritDamageBonusOrderTest</a>, OnlyTalentMod)</td></tr>
-<tr class="separator:ad8c6026ca0167ae177e227997c8e2388"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2f98b8f734392902e0cd2dc96a8ef637"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d09/a00077.html#a2f98b8f734392902e0cd2dc96a8ef637">TEST_F</a> (<a class="el" href="../../dd/d48/a29677.html">SpellCritDamageBonusOrderTest</a>, Issue24976_HunterSteadyShot)</td></tr>
-<tr class="separator:a2f98b8f734392902e0cd2dc96a8ef637"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa932f572f1a8831ecf4bc5475b7598fb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d09/a00077.html#aa932f572f1a8831ecf4bc5475b7598fb">TEST_F</a> (<a class="el" href="../../dd/d48/a29677.html">SpellCritDamageBonusOrderTest</a>, BothMods_LargerValues)</td></tr>
-<tr class="separator:aa932f572f1a8831ecf4bc5475b7598fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab265837fe64577975f97318431c69e9c"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../db/d08/a30084.html">Vec3D</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d09/a00077.html#ab265837fe64577975f97318431c69e9c">fixCoords</a> (const <a class="el" href="../../db/d08/a30084.html">Vec3D</a> &amp;v)</td></tr>
+<tr class="separator:ab265837fe64577975f97318431c69e9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9148b3ef5b412564a285737b0bd104dd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dda/a05177.html#a9148b3ef5b412564a285737b0bd104dd">MapObject::Extract</a> (<a class="el" href="../../db/d5d/a30064.html">ADT::MODF</a> const &amp;mapObjDef, char const *WmoInstName, <a class="el" href="../../d8/d7c/a04601.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapID, <a class="el" href="../../d8/d7c/a04601.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileX, <a class="el" href="../../d8/d7c/a04601.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileY, FILE *pDirfile)</td></tr>
+<tr class="separator:a9148b3ef5b412564a285737b0bd104dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a0673ad4a8399eb24693f8694a261e3da" name="a0673ad4a8399eb24693f8694a261e3da"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0673ad4a8399eb24693f8694a261e3da">&#9670;&#160;</a></span>MopyFlags</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3da">MopyFlags</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0673ad4a8399eb24693f8694a261e3daa4887238124bff7f472762f37b14f084b" name="a0673ad4a8399eb24693f8694a261e3daa4887238124bff7f472762f37b14f084b"></a>WHO_MATERIAL_UNK01&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0673ad4a8399eb24693f8694a261e3daae8fbdf74c986d20ec35a1bc8540ab5f6" name="a0673ad4a8399eb24693f8694a261e3daae8fbdf74c986d20ec35a1bc8540ab5f6"></a>WMO_MATERIAL_NOCAMCOLLIDE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20" name="a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20"></a>WMO_MATERIAL_DETAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0673ad4a8399eb24693f8694a261e3daa26cd74a7fba8ff77edd7fcad4b174192" name="a0673ad4a8399eb24693f8694a261e3daa26cd74a7fba8ff77edd7fcad4b174192"></a>WMO_MATERIAL_COLLISION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0673ad4a8399eb24693f8694a261e3daaeda4c860284ded0a951980ea981503f2" name="a0673ad4a8399eb24693f8694a261e3daaeda4c860284ded0a951980ea981503f2"></a>WMO_MATERIAL_HINT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0673ad4a8399eb24693f8694a261e3daa79016e869a8c491c5e7c762416645edc" name="a0673ad4a8399eb24693f8694a261e3daa79016e869a8c491c5e7c762416645edc"></a>WMO_MATERIAL_RENDER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0673ad4a8399eb24693f8694a261e3daaa806842158937b60f3b6af093b50497a" name="a0673ad4a8399eb24693f8694a261e3daaa806842158937b60f3b6af093b50497a"></a>WMO_MATERIAL_WALL_SURFACE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0673ad4a8399eb24693f8694a261e3daad1b64a17d5df9a320ad54ab47e9c0885" name="a0673ad4a8399eb24693f8694a261e3daad1b64a17d5df9a320ad54ab47e9c0885"></a>WMO_MATERIAL_COLLIDE_HIT&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daa4887238124bff7f472762f37b14f084b">WHO_MATERIAL_UNK01</a>            = 0x01,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daae8fbdf74c986d20ec35a1bc8540ab5f6">WMO_MATERIAL_NOCAMCOLLIDE</a>     = 0x02,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20">WMO_MATERIAL_DETAIL</a>           = 0x04,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daa26cd74a7fba8ff77edd7fcad4b174192">WMO_MATERIAL_COLLISION</a>        = 0x08,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daaeda4c860284ded0a951980ea981503f2">WMO_MATERIAL_HINT</a>             = 0x10,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daa79016e869a8c491c5e7c762416645edc">WMO_MATERIAL_RENDER</a>           = 0x20,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daaa806842158937b60f3b6af093b50497a">WMO_MATERIAL_WALL_SURFACE</a>     = 0x40, <span class="comment">// Guessed</span></div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daad1b64a17d5df9a320ad54ab47e9c0885">WMO_MATERIAL_COLLIDE_HIT</a>      = 0x80,</div>
+<div class="line"><span class="lineno">   40</span>};</div>
+<div class="ttc" id="aa00077_html_a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20"><div class="ttname"><a href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20">WMO_MATERIAL_DETAIL</a></div><div class="ttdeci">@ WMO_MATERIAL_DETAIL</div><div class="ttdef"><b>Definition:</b> wmo.h:34</div></div>
+<div class="ttc" id="aa00077_html_a0673ad4a8399eb24693f8694a261e3daa26cd74a7fba8ff77edd7fcad4b174192"><div class="ttname"><a href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daa26cd74a7fba8ff77edd7fcad4b174192">WMO_MATERIAL_COLLISION</a></div><div class="ttdeci">@ WMO_MATERIAL_COLLISION</div><div class="ttdef"><b>Definition:</b> wmo.h:35</div></div>
+<div class="ttc" id="aa00077_html_a0673ad4a8399eb24693f8694a261e3daa4887238124bff7f472762f37b14f084b"><div class="ttname"><a href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daa4887238124bff7f472762f37b14f084b">WHO_MATERIAL_UNK01</a></div><div class="ttdeci">@ WHO_MATERIAL_UNK01</div><div class="ttdef"><b>Definition:</b> wmo.h:32</div></div>
+<div class="ttc" id="aa00077_html_a0673ad4a8399eb24693f8694a261e3daa79016e869a8c491c5e7c762416645edc"><div class="ttname"><a href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daa79016e869a8c491c5e7c762416645edc">WMO_MATERIAL_RENDER</a></div><div class="ttdeci">@ WMO_MATERIAL_RENDER</div><div class="ttdef"><b>Definition:</b> wmo.h:37</div></div>
+<div class="ttc" id="aa00077_html_a0673ad4a8399eb24693f8694a261e3daaa806842158937b60f3b6af093b50497a"><div class="ttname"><a href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daaa806842158937b60f3b6af093b50497a">WMO_MATERIAL_WALL_SURFACE</a></div><div class="ttdeci">@ WMO_MATERIAL_WALL_SURFACE</div><div class="ttdef"><b>Definition:</b> wmo.h:38</div></div>
+<div class="ttc" id="aa00077_html_a0673ad4a8399eb24693f8694a261e3daad1b64a17d5df9a320ad54ab47e9c0885"><div class="ttname"><a href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daad1b64a17d5df9a320ad54ab47e9c0885">WMO_MATERIAL_COLLIDE_HIT</a></div><div class="ttdeci">@ WMO_MATERIAL_COLLIDE_HIT</div><div class="ttdef"><b>Definition:</b> wmo.h:39</div></div>
+<div class="ttc" id="aa00077_html_a0673ad4a8399eb24693f8694a261e3daae8fbdf74c986d20ec35a1bc8540ab5f6"><div class="ttname"><a href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daae8fbdf74c986d20ec35a1bc8540ab5f6">WMO_MATERIAL_NOCAMCOLLIDE</a></div><div class="ttdeci">@ WMO_MATERIAL_NOCAMCOLLIDE</div><div class="ttdef"><b>Definition:</b> wmo.h:33</div></div>
+<div class="ttc" id="aa00077_html_a0673ad4a8399eb24693f8694a261e3daaeda4c860284ded0a951980ea981503f2"><div class="ttname"><a href="../../d1/d09/a00077.html#a0673ad4a8399eb24693f8694a261e3daaeda4c860284ded0a951980ea981503f2">WMO_MATERIAL_HINT</a></div><div class="ttdeci">@ WMO_MATERIAL_HINT</div><div class="ttdef"><b>Definition:</b> wmo.h:36</div></div>
+</div><!-- fragment -->
+</div>
+</div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="aa932f572f1a8831ecf4bc5475b7598fb" name="aa932f572f1a8831ecf4bc5475b7598fb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa932f572f1a8831ecf4bc5475b7598fb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/5]</span></h2>
+<a id="ab265837fe64577975f97318431c69e9c" name="ab265837fe64577975f97318431c69e9c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab265837fe64577975f97318431c69e9c">&#9670;&#160;</a></span>fixCoords()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">static <a class="el" href="../../db/d08/a30084.html">Vec3D</a> fixCoords </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d48/a29677.html">SpellCritDamageBonusOrderTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype">const <a class="el" href="../../db/d08/a30084.html">Vec3D</a> &amp;&#160;</td>
+          <td class="paramname"><em>v</em></td><td>)</td>
           <td></td>
-          <td class="paramtype">BothMods_LargerValues&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  147</span>{</div>
-<div class="line"><span class="lineno">  148</span>    <a class="code hl_typedef" href="../../d4/d8a/a04919.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> damage = 1000;</div>
-<div class="line"><span class="lineno">  149</span>    <span class="keywordtype">float</span> auraMod = 3.0f;</div>
-<div class="line"><span class="lineno">  150</span>    <span class="keywordtype">float</span> talentMod = 40.0f;</div>
-<div class="line"><span class="lineno">  151</span> </div>
-<div class="line"><span class="lineno">  152</span>    <span class="comment">// Correct: 2000*1.03=2060, bonus=1060, *1.40=1484, +1000=2484</span></div>
-<div class="line"><span class="lineno">  153</span>    EXPECT_EQ(<a class="code hl_function" href="../../da/dee/a05158.html#ab55aeffce172b7e667fdcb86ba06d954">CorrectCritOrder</a>(damage, auraMod, talentMod), 2484);</div>
-<div class="line"><span class="lineno">  154</span> </div>
-<div class="line"><span class="lineno">  155</span>    <span class="comment">// Wrong: 1000*1.40=1400, total=2400, *1.03=2472</span></div>
-<div class="line"><span class="lineno">  156</span>    EXPECT_EQ(<a class="code hl_function" href="../../da/dee/a05158.html#ae0ad4b3cd3c2381976fd6106fc4f8088">OldWrongCritOrder</a>(damage, auraMod, talentMod), 2472);</div>
-<div class="line"><span class="lineno">  157</span> </div>
-<div class="line"><span class="lineno">  158</span>    EXPECT_GT(<a class="code hl_function" href="../../da/dee/a05158.html#ab55aeffce172b7e667fdcb86ba06d954">CorrectCritOrder</a>(damage, auraMod, talentMod),</div>
-<div class="line"><span class="lineno">  159</span>              <a class="code hl_function" href="../../da/dee/a05158.html#ae0ad4b3cd3c2381976fd6106fc4f8088">OldWrongCritOrder</a>(damage, auraMod, talentMod));</div>
-<div class="line"><span class="lineno">  160</span>}</div>
-<div class="ttc" id="aa04919_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../d4/d8a/a04919.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
-<div class="ttc" id="aa05158_html_ab55aeffce172b7e667fdcb86ba06d954"><div class="ttname"><a href="../../da/dee/a05158.html#ab55aeffce172b7e667fdcb86ba06d954">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::CorrectCritOrder</a></div><div class="ttdeci">int32 CorrectCritOrder(int32 damage, float auraCritMod, float spellModPct)</div><div class="ttdef"><b>Definition:</b> SpellCritDamageBonusOrderTest.cpp:53</div></div>
-<div class="ttc" id="aa05158_html_ae0ad4b3cd3c2381976fd6106fc4f8088"><div class="ttname"><a href="../../da/dee/a05158.html#ae0ad4b3cd3c2381976fd6106fc4f8088">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::OldWrongCritOrder</a></div><div class="ttdeci">int32 OldWrongCritOrder(int32 damage, float auraCritMod, float spellModPct)</div><div class="ttdef"><b>Definition:</b> SpellCritDamageBonusOrderTest.cpp:77</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   68</span>{ <span class="keywordflow">return</span> <a class="code hl_class" href="../../db/d08/a30084.html">Vec3D</a>(v.<a class="code hl_variable" href="../../db/d08/a30084.html#a5a619f14529e714231bff4cc6fd36614">z</a>, v.<a class="code hl_variable" href="../../db/d08/a30084.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a>, v.<a class="code hl_variable" href="../../db/d08/a30084.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a>); }</div>
+<div class="ttc" id="aa30084_html"><div class="ttname"><a href="../../db/d08/a30084.html">Vec3D</a></div><div class="ttdef"><b>Definition:</b> vec3d.h:25</div></div>
+<div class="ttc" id="aa30084_html_a0f061b9d5ea2a680f64bed8b5be9116d"><div class="ttname"><a href="../../db/d08/a30084.html#a0f061b9d5ea2a680f64bed8b5be9116d">Vec3D::x</a></div><div class="ttdeci">float x</div><div class="ttdef"><b>Definition:</b> vec3d.h:27</div></div>
+<div class="ttc" id="aa30084_html_a3441f0095b7f2b5dc424f7b045f92f2c"><div class="ttname"><a href="../../db/d08/a30084.html#a3441f0095b7f2b5dc424f7b045f92f2c">Vec3D::y</a></div><div class="ttdeci">float y</div><div class="ttdef"><b>Definition:</b> vec3d.h:27</div></div>
+<div class="ttc" id="aa30084_html_a5a619f14529e714231bff4cc6fd36614"><div class="ttname"><a href="../../db/d08/a30084.html#a5a619f14529e714231bff4cc6fd36614">Vec3D::z</a></div><div class="ttdeci">float z</div><div class="ttdef"><b>Definition:</b> vec3d.h:27</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00053">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::CorrectCritOrder()</a>, and <a class="el" href="../../#l00077">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::OldWrongCritOrder()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00027">Vec3D::x</a>, <a class="el" href="../../#l00027">Vec3D::y</a>, and <a class="el" href="../../#l00027">Vec3D::z</a>.</p>
 
-</div>
-</div>
-<a id="a2f98b8f734392902e0cd2dc96a8ef637" name="a2f98b8f734392902e0cd2dc96a8ef637"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2f98b8f734392902e0cd2dc96a8ef637">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d48/a29677.html">SpellCritDamageBonusOrderTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Issue24976_HunterSteadyShot&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
-<div class="line"><span class="lineno">  135</span>    <a class="code hl_typedef" href="../../d4/d8a/a04919.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> damage = 320;</div>
-<div class="line"><span class="lineno">  136</span>    <span class="keywordtype">float</span> auraMod = 3.0f;    <span class="comment">// meta gem: +3% crit damage</span></div>
-<div class="line"><span class="lineno">  137</span>    <span class="keywordtype">float</span> talentMod = 40.0f; <span class="comment">// Mortal Shots etc: +40% SPELLMOD_CRIT_DAMAGE_BONUS</span></div>
-<div class="line"><span class="lineno">  138</span> </div>
-<div class="line"><span class="lineno">  139</span>    EXPECT_EQ(<a class="code hl_function" href="../../da/dee/a05158.html#ae0ad4b3cd3c2381976fd6106fc4f8088">OldWrongCritOrder</a>(damage, auraMod, talentMod), 791);</div>
-<div class="line"><span class="lineno">  140</span>    EXPECT_EQ(<a class="code hl_function" href="../../da/dee/a05158.html#ab55aeffce172b7e667fdcb86ba06d954">CorrectCritOrder</a>(damage, auraMod, talentMod), 794);</div>
-<div class="line"><span class="lineno">  141</span>    EXPECT_GT(<a class="code hl_function" href="../../da/dee/a05158.html#ab55aeffce172b7e667fdcb86ba06d954">CorrectCritOrder</a>(damage, auraMod, talentMod),</div>
-<div class="line"><span class="lineno">  142</span>              <a class="code hl_function" href="../../da/dee/a05158.html#ae0ad4b3cd3c2381976fd6106fc4f8088">OldWrongCritOrder</a>(damage, auraMod, talentMod));</div>
-<div class="line"><span class="lineno">  143</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00053">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::CorrectCritOrder()</a>, and <a class="el" href="../../#l00077">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::OldWrongCritOrder()</a>.</p>
-
-</div>
-</div>
-<a id="ae30b40dccd8a24d78d006e8e9ac63f19" name="ae30b40dccd8a24d78d006e8e9ac63f19"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae30b40dccd8a24d78d006e8e9ac63f19">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d48/a29677.html">SpellCritDamageBonusOrderTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">NoModifiers&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   97</span>{</div>
-<div class="line"><span class="lineno">   98</span>    EXPECT_EQ(<a class="code hl_function" href="../../da/dee/a05158.html#ab55aeffce172b7e667fdcb86ba06d954">CorrectCritOrder</a>(1000, 0.0f, 0.0f), 2000);</div>
-<div class="line"><span class="lineno">   99</span>    EXPECT_EQ(<a class="code hl_function" href="../../da/dee/a05158.html#ae0ad4b3cd3c2381976fd6106fc4f8088">OldWrongCritOrder</a>(1000, 0.0f, 0.0f), 2000);</div>
-<div class="line"><span class="lineno">  100</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00053">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::CorrectCritOrder()</a>, and <a class="el" href="../../#l00077">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::OldWrongCritOrder()</a>.</p>
-
-</div>
-</div>
-<a id="a4172aa23985d10af03e6a92c7fa9dd2e" name="a4172aa23985d10af03e6a92c7fa9dd2e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4172aa23985d10af03e6a92c7fa9dd2e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d48/a29677.html">SpellCritDamageBonusOrderTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">OnlyAuraMod&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  104</span>{</div>
-<div class="line"><span class="lineno">  105</span>    EXPECT_EQ(<a class="code hl_function" href="../../da/dee/a05158.html#ab55aeffce172b7e667fdcb86ba06d954">CorrectCritOrder</a>(1000, 30.0f, 0.0f), 2600);</div>
-<div class="line"><span class="lineno">  106</span>    EXPECT_EQ(<a class="code hl_function" href="../../da/dee/a05158.html#ae0ad4b3cd3c2381976fd6106fc4f8088">OldWrongCritOrder</a>(1000, 30.0f, 0.0f), 2600);</div>
-<div class="line"><span class="lineno">  107</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00053">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::CorrectCritOrder()</a>, and <a class="el" href="../../#l00077">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::OldWrongCritOrder()</a>.</p>
-
-</div>
-</div>
-<a id="ad8c6026ca0167ae177e227997c8e2388" name="ad8c6026ca0167ae177e227997c8e2388"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad8c6026ca0167ae177e227997c8e2388">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d48/a29677.html">SpellCritDamageBonusOrderTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">OnlyTalentMod&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  111</span>{</div>
-<div class="line"><span class="lineno">  112</span>    <span class="comment">// Correct: bonus = 2000-1000 = 1000, *1.03 = 1030, +1000 = 2030</span></div>
-<div class="line"><span class="lineno">  113</span>    <span class="comment">// Old: crit_bonus = 1000*1.03 = 1030, total = 2030</span></div>
-<div class="line"><span class="lineno">  114</span>    EXPECT_EQ(<a class="code hl_function" href="../../da/dee/a05158.html#ab55aeffce172b7e667fdcb86ba06d954">CorrectCritOrder</a>(1000, 0.0f, 3.0f), 2030);</div>
-<div class="line"><span class="lineno">  115</span>    EXPECT_EQ(<a class="code hl_function" href="../../da/dee/a05158.html#ae0ad4b3cd3c2381976fd6106fc4f8088">OldWrongCritOrder</a>(1000, 0.0f, 3.0f), 2030);</div>
-<div class="line"><span class="lineno">  116</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00053">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::CorrectCritOrder()</a>, and <a class="el" href="../../#l00077">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::OldWrongCritOrder()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00138">Doodad::Extract()</a>, and <a class="el" href="../../#l00532">MapObject::Extract()</a>.</p>
 
 </div>
 </div>
@@ -341,8 +260,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d1/d09/a00077.html">SpellCritDamageBonusOrderTest.cpp</a></li>
-    <li class="footer">Generated on Mon Jul 13 2026 21:33:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_b604cd515113e1b9d14f26b265d784ac.html">vmap4_extractor</a></li><li class="navelem"><a class="el" href="../../d1/d09/a00077.html">wmo.h</a></li>
+    <li class="footer">Generated on Mon Jul 20 2026 21:48:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,8 @@
 var a12892 =
 [
-    [ "HandleHit", "d5/df0/a12892.html#a5245f935c0cafd14e492214a51d85ad3", null ],
-    [ "PrepareSpellScript", "d5/df0/a12892.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
-    [ "Register", "d5/df0/a12892.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
+    [ "FilterTargets", "d5/df0/a12892.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
+    [ "FilterTargetsEff", "d5/df0/a12892.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
+    [ "PrepareSpellScript", "d5/df0/a12892.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
+    [ "Register", "d5/df0/a12892.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
+    [ "targetList", "d5/df0/a12892.html#a874dc7877ecfae332c9f826f01afce0f", null ]
 ];

@@ -1,6 +1,12 @@
 var a21320 =
 [
-    [ "HandleEffect", "df/d72/a21320.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
-    [ "PrepareSpellScript", "df/d72/a21320.html#aec199e9f9651267fac88bd86be326bb4", null ],
-    [ "Register", "df/d72/a21320.html#a14bd854db86750704c8377d457dea360", null ]
+    [ "boss_zuramat", "df/d72/a21320.html#af033b96498fb71059701caad1fed8f8a", null ],
+    [ "EnterEvadeMode", "df/d72/a21320.html#a0d7ca9fe585e0dc87118c61ddc0dac84", null ],
+    [ "ExecuteEvent", "df/d72/a21320.html#a350f06b88af5444a0d4086434ddbe6f4", null ],
+    [ "JustDied", "df/d72/a21320.html#a1917921efc7a44c3cc3a799187c1718a", null ],
+    [ "JustEngagedWith", "df/d72/a21320.html#a4c448c8b51795943a6e746479f3ad121", null ],
+    [ "JustSummoned", "df/d72/a21320.html#a76c2de51333f57db6612effb92d07bd1", null ],
+    [ "KilledUnit", "df/d72/a21320.html#ae3f00d76928cbd6adf7882f4cccc0518", null ],
+    [ "MoveInLineOfSight", "df/d72/a21320.html#a6d46d73baf2c0b3c1706d9163564797f", null ],
+    [ "SummonedCreatureDespawn", "df/d72/a21320.html#afc8869687e9a6050cfee2c674ef7e7f1", null ]
 ];

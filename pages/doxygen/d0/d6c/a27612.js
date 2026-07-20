@@ -1,5 +1,8 @@
 var a27612 =
 [
-    [ "achievement_save_the_day", "d0/d6c/a27612.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "d0/d6c/a27612.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "CheckProc", "d0/d6c/a27612.html#a4713f3cdce1ee793a8f2232202314ff7", null ],
+    [ "HandleProc", "d0/d6c/a27612.html#ab892bc268feccba594a5b4b0be3e86f7", null ],
+    [ "PrepareAuraScript", "d0/d6c/a27612.html#a92a141fcf24f63bc41f6f828f72bf277", null ],
+    [ "Register", "d0/d6c/a27612.html#a93806efcc1e5976cca2eab57c9e55a7e", null ],
+    [ "Validate", "d0/d6c/a27612.html#a28801b99335380a7e366e766b6aaea2c", null ]
 ];

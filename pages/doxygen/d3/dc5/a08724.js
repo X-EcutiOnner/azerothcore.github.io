@@ -1,8 +1,5 @@
 var a08724 =
 [
-    [ "Reset", "d3/dc5/a08724.html#a28a5bd110553457c86d7f77e78041713", null ],
-    [ "cosAngle", "d3/dc5/a08724.html#a37f49fc816f37dff8c1947f4de7f04d5", null ],
-    [ "sinAngle", "d3/dc5/a08724.html#af2a184b7c8e7f324607a0b7468bcb8f6", null ],
-    [ "xyspeed", "d3/dc5/a08724.html#a6fada60d677d89580c3a718d42a75d17", null ],
-    [ "zspeed", "d3/dc5/a08724.html#ad0a5a36aeabc9b8d8ea27cecae30ae31", null ]
+    [ "ItemStatType", "d3/dc5/a08724.html#a8643f062d325b5048c839525db56af3e", null ],
+    [ "ItemStatValue", "d3/dc5/a08724.html#a5a5ee42445d9121f186c084dfbc31425", null ]
 ];

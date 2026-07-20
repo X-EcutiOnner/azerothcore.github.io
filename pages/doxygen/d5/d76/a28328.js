@@ -1,14 +1,8 @@
 var a28328 =
 [
-    [ "FlameshockerCheck", "d5/d13/a28332.html", "d5/d13/a28332" ],
-    [ "npc_pallid_horror", "d5/d76/a28328.html#ae43fa737cdc303d68f34ac2fbb356814", null ],
-    [ "CorpseRemoved", "d5/d76/a28328.html#a700af3062528a6c41f7f0985f1820b36", null ],
-    [ "InitializeAI", "d5/d76/a28328.html#a2711bdb05ad74a4d0425b4f61dcddab4", null ],
-    [ "JustDied", "d5/d76/a28328.html#a6145be6ed4a56ec8f8e923187ceea47c", null ],
-    [ "JustSummoned", "d5/d76/a28328.html#a801e04d47de8d86dcfbfa552de54cd0f", null ],
-    [ "ScheduleTasks", "d5/d76/a28328.html#aa9e851cb55238bb4cf6c1e7a9d309c20", null ],
-    [ "SummonFlameshockers", "d5/d76/a28328.html#afc2625ef0ddae00fd14d3dbf7952b0cf", null ],
-    [ "UpdateAI", "d5/d76/a28328.html#a701b52b2977017c692368a5d363dd6bd", null ],
-    [ "UpdateWeather", "d5/d76/a28328.html#ac9c5b8d4274e443f4c74b2b40aa5830f", null ],
-    [ "_summons", "d5/d76/a28328.html#a0948ef0c5971a8b6ffee2269d8bca3a6", null ]
+    [ "npc_chicken_cluckAI", "d5/d13/a28332.html", "d5/d13/a28332" ],
+    [ "npc_chicken_cluck", "d5/d76/a28328.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "d5/d76/a28328.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "d5/d76/a28328.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "d5/d76/a28328.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

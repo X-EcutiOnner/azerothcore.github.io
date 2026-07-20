@@ -1,10 +1,11 @@
 var a15868 =
 [
-    [ "npc_omenAI", "d9/d08/a15868.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
-    [ "JustDied", "d9/d08/a15868.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
-    [ "JustEngagedWith", "d9/d08/a15868.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
-    [ "MovementInform", "d9/d08/a15868.html#a92e59bde1f0da2ee537a836304a3c385", null ],
-    [ "SpellHit", "d9/d08/a15868.html#a4e3960d506fd0435de055a365906a9c9", null ],
-    [ "UpdateAI", "d9/d08/a15868.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
-    [ "events", "d9/d08/a15868.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
+    [ "npc_kerlonianAI", "d9/d08/a15868.html#a0f7a4566ca93a174c92fe10e904af480", null ],
+    [ "ClearSleeping", "d9/d08/a15868.html#aea2815d79da4fa006ea150f052255b9d", null ],
+    [ "MoveInLineOfSight", "d9/d08/a15868.html#a8b0a606510d278f26099a125d583377a", null ],
+    [ "Reset", "d9/d08/a15868.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
+    [ "SetSleeping", "d9/d08/a15868.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
+    [ "SpellHit", "d9/d08/a15868.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
+    [ "UpdateFollowerAI", "d9/d08/a15868.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
+    [ "FallAsleepTimer", "d9/d08/a15868.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
 ];

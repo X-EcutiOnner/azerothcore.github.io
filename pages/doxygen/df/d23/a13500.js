@@ -1,14 +1,25 @@
 var a13500 =
 [
-    [ "boss_apothecary_hummelAI", "df/d23/a13500.html#a75796eb8dc83729f2f726ff51317bd66", null ],
-    [ "DamageTaken", "df/d23/a13500.html#a2af77fbe7f089b5da20d2ff693cfcedf", null ],
-    [ "DoAction", "df/d23/a13500.html#a03fb543ba20f92d5528bf4667c457631", null ],
-    [ "JustDied", "df/d23/a13500.html#a3c7bc5f9aa04f155debbdacafed6163d", null ],
-    [ "Reset", "df/d23/a13500.html#a31381343d2533af670941baf872b3635", null ],
-    [ "sGossipSelect", "df/d23/a13500.html#a1a9953c37286fd40c0aa0eebfec3eb86", null ],
-    [ "SummonedCreatureDies", "df/d23/a13500.html#a8947cbd1c2856334a0d6529bc664f71b", null ],
-    [ "UpdateAI", "df/d23/a13500.html#a61e4d85ecd592142ba07588512505990", null ],
-    [ "_deadCount", "df/d23/a13500.html#aaac2018e16b80997f884745732605559", null ],
-    [ "_isDead", "df/d23/a13500.html#aa3c37a38b95c6b3bec4e3b787d2155df", null ],
-    [ "_phase", "df/d23/a13500.html#a951d68d4e645860cdb5c5e348bf1fff4", null ]
+    [ "Events", "df/d23/a13500.html#a5cfaa8e01186ddc0077c088124825407", [
+      [ "EVENT_START_RITUAL", "df/d23/a13500.html#a5cfaa8e01186ddc0077c088124825407afc564d8d20a38aebccc53438aea776ee", null ],
+      [ "EVENT_GHOULPLOSION", "df/d23/a13500.html#a5cfaa8e01186ddc0077c088124825407a9d567173dec6df2f9aa02824cc5bc1ac", null ],
+      [ "EVENT_RAISE_DEAD", "df/d23/a13500.html#a5cfaa8e01186ddc0077c088124825407a7366f5f9e45ffab6e46ec661bcd21256", null ],
+      [ "EVENT_RESUME_WP", "df/d23/a13500.html#a5cfaa8e01186ddc0077c088124825407adefda2d5f3072d19d2347388327166be", null ]
+    ] ],
+    [ "Points", "df/d23/a13500.html#add8fd9a6f63482df9f45b3bfd766ab8d", [
+      [ "POINT_CORPSE_REACHED", "df/d23/a13500.html#add8fd9a6f63482df9f45b3bfd766ab8da9e753f89ab9b6e361811f315e05cd86d", null ]
+    ] ],
+    [ "Says", "df/d23/a13500.html#ae8b39c5bb662dcd75f77afadabe479e0", [
+      [ "SAY_GRYPHON", "df/d23/a13500.html#ae8b39c5bb662dcd75f77afadabe479e0aa8758b509f2342c32be1e28329ec0397", null ],
+      [ "SAY_GHOUL", "df/d23/a13500.html#ae8b39c5bb662dcd75f77afadabe479e0acf87a9a0c9d87d1874eb0d8aeca450db", null ],
+      [ "SAY_GEIST", "df/d23/a13500.html#ae8b39c5bb662dcd75f77afadabe479e0a813bb4a12b95a86434f4e82fecaeade2", null ]
+    ] ],
+    [ "npc_gothik_the_harvesterAI", "df/d23/a13500.html#adc37477ffc344ba02de99ceacee6f81b", null ],
+    [ "MovementInform", "df/d23/a13500.html#a94d937d44f1b843ddfe75983d3a2477a", null ],
+    [ "Reset", "df/d23/a13500.html#a3670ab9f63fff9ce55f64bba5018cef8", null ],
+    [ "UpdateAI", "df/d23/a13500.html#af2a9927516a41e3d8c35edb993a4aef5", null ],
+    [ "events", "df/d23/a13500.html#a1627517ce67ba5a5e454bc69e89d2e13", null ],
+    [ "geistGUID", "df/d23/a13500.html#a4c9b7d672451b45a4454f6fba7057b59", null ],
+    [ "isOnRitual", "df/d23/a13500.html#a88f5a2c50bcc65a3cd6e9856a85fbce2", null ],
+    [ "targetCorpseGUID", "df/d23/a13500.html#a4499cbb3c415a7ca494c6193aa956ce3", null ]
 ];

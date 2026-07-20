@@ -1,10 +1,17 @@
 var a18516 =
 [
-    [ "npc_shambling_horror_iccAI", "da/d98/a18516.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
-    [ "CanAIAttack", "da/d98/a18516.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
-    [ "DamageTaken", "da/d98/a18516.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
-    [ "Reset", "da/d98/a18516.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
-    [ "UpdateAI", "da/d98/a18516.html#abae6058591022057e93d48da3db1b8bc", null ],
-    [ "_events", "da/d98/a18516.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
-    [ "_frenzied", "da/d98/a18516.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
+    [ "npc_rimefangAI", "da/d98/a18516.html#ae89b397bafdcb06e94fa94c18ef0d2c8", null ],
+    [ "DoAction", "da/d98/a18516.html#a79d34453b3ace5c1f80b12b862890e3c", null ],
+    [ "InitializeAI", "da/d98/a18516.html#ae515d0b1d383c48e40fa4795edd1b247", null ],
+    [ "JustDied", "da/d98/a18516.html#ab3cd1550cda44cecf889f4bf28f976ba", null ],
+    [ "JustEngagedWith", "da/d98/a18516.html#ad161bb0a6c76d223b1e687a1cc604375", null ],
+    [ "JustReachedHome", "da/d98/a18516.html#a7b15a9c6db1a48c3766afcb41d66b61f", null ],
+    [ "JustRespawned", "da/d98/a18516.html#a47ed52a4a0511d7b1e3eb4bd5da409ca", null ],
+    [ "MovementInform", "da/d98/a18516.html#aacd146fbfac94b8f82b3971ff74644cc", null ],
+    [ "Reset", "da/d98/a18516.html#a8956324e2806393d26bf146f4e2c48b0", null ],
+    [ "UpdateAI", "da/d98/a18516.html#a00872042199924a14089c1057c479ff7", null ],
+    [ "_events", "da/d98/a18516.html#ade0c279565236eb3fd59fd43eef4c3e1", null ],
+    [ "_icyBlastCounter", "da/d98/a18516.html#aef3e7d4cd3d23f407ef4ba5aa5c737c9", null ],
+    [ "_instance", "da/d98/a18516.html#ad12541907c439117cf8c8a6741c07445", null ],
+    [ "_summoned", "da/d98/a18516.html#aa27dd1e338145a65915262a8d44f7519", null ]
 ];

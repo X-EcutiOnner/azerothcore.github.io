@@ -1,7 +1,7 @@
 var a28872 =
 [
-    [ "AllocationPct", "d7/d35/a28872.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
-    [ "Enchantment", "d7/d35/a28872.html#a45e694082c1dbdeef5229561f617d584", null ],
-    [ "ID", "d7/d35/a28872.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
-    [ "Name", "d7/d35/a28872.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
+    [ "bit_index", "d7/d35/a28872.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "d7/d35/a28872.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "d7/d35/a28872.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "d7/d35/a28872.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

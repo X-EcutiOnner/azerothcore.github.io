@@ -1,7 +1,6 @@
 var a19224 =
 [
-    [ "HandleScript", "da/d2f/a19224.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
-    [ "Launch", "da/d2f/a19224.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
-    [ "PrepareSpellScript", "da/d2f/a19224.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
-    [ "Register", "da/d2f/a19224.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "d2/ddc/a19228.html", "d2/ddc/a19228" ],
+    [ "npc_icc_nerubar_broodkeeper", "da/d2f/a19224.html#adf9c3bfb444fed50420c2e780b373f34", null ],
+    [ "GetAI", "da/d2f/a19224.html#ad12186da36f7bbf99275a746bc874bfc", null ]
 ];

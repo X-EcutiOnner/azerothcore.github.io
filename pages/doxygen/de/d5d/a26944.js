@@ -1,9 +1,8 @@
 var a26944 =
 [
-    [ "HandleAfterHit", "de/d5d/a26944.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
-    [ "HandleBeforeHit", "de/d5d/a26944.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
-    [ "Load", "de/d5d/a26944.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
-    [ "PrepareSpellScript", "de/d5d/a26944.html#a496c27472579be3b8989868765ec19ef", null ],
-    [ "Register", "de/d5d/a26944.html#a133e338413e960c442446a2a4a13b85b", null ],
-    [ "_stackAmount", "de/d5d/a26944.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
+    [ "HandleDummy", "de/d5d/a26944.html#a923fa966dc7109f7cb02c25bbd23b0ff", null ],
+    [ "Load", "de/d5d/a26944.html#a5b336f402a256c80d8d3f8c5b1cbda2f", null ],
+    [ "PrepareSpellScript", "de/d5d/a26944.html#a79dc24ba1f2f059d77a06b457a78fcf1", null ],
+    [ "Register", "de/d5d/a26944.html#afb1c744f263b21c30a5dfd3675acb364", null ],
+    [ "Validate", "de/d5d/a26944.html#acaaeacf371538cafbbb4cc7cc036280e", null ]
 ];

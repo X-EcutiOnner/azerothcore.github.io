@@ -1,6 +1,5 @@
 var a27800 =
 [
-    [ "go_witherbark_totem_bundleAI", "de/d96/a27800.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "de/d96/a27800.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "de/d96/a27800.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "achievement_bg_ic_resource_glut", "de/d96/a27800.html#ace247962dccee2601ceade593b0874d4", null ],
+    [ "OnCheck", "de/d96/a27800.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
 ];

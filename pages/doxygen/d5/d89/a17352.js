@@ -1,9 +1,8 @@
 var a17352 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d5/d89/a17352.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
-    [ "SpellHitTarget", "d5/d89/a17352.html#aea107ede3b11726b3f7caae590edaf52", null ],
-    [ "UpdateAI", "d5/d89/a17352.html#ade416a422e67ce61e8874320cce7143b", null ],
-    [ "pInstance", "d5/d89/a17352.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
-    [ "timer1", "d5/d89/a17352.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
-    [ "timer2", "d5/d89/a17352.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
+    [ "npc_hor_lumbering_abomination", "d5/d89/a17352.html#a08ae4bc9025a4bfbe91d39d256e34060", null ],
+    [ "JustDied", "d5/d89/a17352.html#ae8fca8b5f86fe5cba1b4de2aaac6cf61", null ],
+    [ "JustEngagedWith", "d5/d89/a17352.html#a5380771abba095749e1e0b30fe070a73", null ],
+    [ "Reset", "d5/d89/a17352.html#afd56b698fac5f7f13e718d645608213f", null ],
+    [ "UpdateAI", "d5/d89/a17352.html#a79e99c86f54a4fc7cbcf98e2a08e62ed", null ]
 ];

@@ -1,7 +1,7 @@
 var a16888 =
 [
-    [ "HandleEffectPeriodic", "df/dbf/a16888.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "df/dbf/a16888.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "df/dbf/a16888.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "df/dbf/a16888.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "npc_toc_shadow_priestAI", "df/dbf/a16888.html#af13a18be542fb314c19af52f89d216b8", null ],
+    [ "myCanCast", "df/dbf/a16888.html#a83422ff3e140b57a484d98876a9a8070", null ],
+    [ "UpdateAI", "df/dbf/a16888.html#afc23ba15d3ee925212e77b5211504c2b", null ],
+    [ "events", "df/dbf/a16888.html#a31665a22920b416d7423958a3e2928ec", null ]
 ];

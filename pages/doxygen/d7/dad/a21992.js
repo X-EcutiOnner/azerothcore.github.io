@@ -1,14 +1,18 @@
 var a21992 =
 [
-    [ "npc_wild_wyrm", "d7/dad/a21992.html#a7adb3a9f2d17c55995218219c2af13a6", null ],
-    [ "DamageTaken", "d7/dad/a21992.html#a0ff51f46c203f3b1b8dea063463c5c4d", null ],
-    [ "DoAction", "d7/dad/a21992.html#afdd165233995f79aa9ec82d7c2c1f258", null ],
-    [ "InitSpellsForPhase", "d7/dad/a21992.html#adcc805b0880d95c185af4a587474c2d2", null ],
-    [ "MovementInform", "d7/dad/a21992.html#aeaa4f0327f06ee67a63fd15b914ffac8", null ],
-    [ "PassengerBoarded", "d7/dad/a21992.html#a362052015873c615448bec978d744c9e", null ],
-    [ "Reset", "d7/dad/a21992.html#a2e826c49b41a389ddfbeac3d3c7933f5", null ],
-    [ "SpellHit", "d7/dad/a21992.html#a3d12d555ab7c992ca37e826609b3cd72", null ],
-    [ "UpdateAI", "d7/dad/a21992.html#adbbf5b93476eef2ef54f51d2523a726e", null ],
-    [ "_phase", "d7/dad/a21992.html#a7fa0ac4d2feaf62b08c4667c8f0b7474", null ],
-    [ "_playerGuid", "d7/dad/a21992.html#ade2cc59d0afcf5ebfd7c6fbd694e0809", null ]
+    [ "npc_blessed_bannerAI", "d7/dad/a21992.html#a563cd394d72a900d735f8639074deae1", null ],
+    [ "JustDied", "d7/dad/a21992.html#a06e0e0c1e673c13488bd47e130098915", null ],
+    [ "JustEngagedWith", "d7/dad/a21992.html#abfdd9e554fbbe16f6058d5cb10394a84", null ],
+    [ "JustSummoned", "d7/dad/a21992.html#a446dc0b76eb3549b0e86b02e541f6296", null ],
+    [ "MoveInLineOfSight", "d7/dad/a21992.html#a34a0a856a4a4c05954ba300d8031e374", null ],
+    [ "Reset", "d7/dad/a21992.html#a6fe7e49f2077ed549a6406592aec345e", null ],
+    [ "UpdateAI", "d7/dad/a21992.html#a8ca070c63dd48e22823ac26d11da75be", null ],
+    [ "events", "d7/dad/a21992.html#a79b7fbee1492860fe64d42928e494e3d", null ],
+    [ "guidDalfors", "d7/dad/a21992.html#a369a837b6fa57d0960f24d9ea629ed04", null ],
+    [ "guidHalof", "d7/dad/a21992.html#aef28a7624fb88e65a7f79fe34c320a29", null ],
+    [ "guidMason", "d7/dad/a21992.html#a05e6dc20409e2271de8fe4f4b3ae7bfa", null ],
+    [ "guidPriest", "d7/dad/a21992.html#a25f4056b2d7fda02885f58502f809a9c", null ],
+    [ "HalofSpawned", "d7/dad/a21992.html#a38e98094f05c09ea19a4f44771194b2e", null ],
+    [ "PhaseCount", "d7/dad/a21992.html#a983110caf86d94374a299d7268f7458c", null ],
+    [ "Summons", "d7/dad/a21992.html#a92d7543e31c5cb367379711cb767ebd6", null ]
 ];

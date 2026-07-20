@@ -1,6 +1,6 @@
 var a05780 =
 [
-    [ "LambdaBasicEvent", "d6/d3b/a05780.html#a4244b5e91413d71076d9cc3af230aed8", null ],
-    [ "Execute", "d6/d3b/a05780.html#a8771a49f00554372b5ed38816abbd253", null ],
-    [ "_callback", "d6/d3b/a05780.html#a2660ba5053b9ad6a1c4231bd32359999", null ]
+    [ "fail", "d6/d3b/a05780.html#acf03a4e600698c697e7bec942574c9ac", null ],
+    [ "next", "d6/d3b/a05780.html#a1eada7fb43767f23dfd67d5de557e982", null ],
+    [ "output", "d6/d3b/a05780.html#abf9ce0d579ce0389302655ce0104090a", null ]
 ];

@@ -1,7 +1,6 @@
 var a11224 =
 [
-    [ "ReadItem", "d7/dc9/a11224.html#a099da7490ccf30ee0bde5f85e6197a76", null ],
-    [ "Read", "d7/dc9/a11224.html#a61ae8ba19d04f3001614f8dd2ad408ed", null ],
-    [ "Bag", "d7/dc9/a11224.html#a16c02f27e986ac3d093668092d67a3c9", null ],
-    [ "Slot", "d7/dc9/a11224.html#a1d181a1cec1021cf68a5d9b80d2753c3", null ]
+    [ "SetDungeonDifficultyClient", "d7/dc9/a11224.html#ae3bb2ac16b8712a3eb731913af26961c", null ],
+    [ "Read", "d7/dc9/a11224.html#a6f92ee86dc73b1a51a9c4683997e6c4f", null ],
+    [ "Mode", "d7/dc9/a11224.html#a3cb1f62fba1849dfb59c9b8f46fe4c27", null ]
 ];

@@ -1,14 +1,7 @@
 var a13456 =
 [
-    [ "boss_kirtonos_the_heraldAI", "db/dba/a13456.html#af68c553db0889c22b7b4b76c868d38e7", null ],
-    [ "DoAction", "db/dba/a13456.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
-    [ "EnterEvadeMode", "db/dba/a13456.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
-    [ "JustDied", "db/dba/a13456.html#a7ecf7396ebcb6f541586435996094f56", null ],
-    [ "JustEngagedWith", "db/dba/a13456.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
-    [ "MovementInform", "db/dba/a13456.html#a16379320eebb8223a79cf3927bdc507e", null ],
-    [ "UpdateAI", "db/dba/a13456.html#a7eedcb1416d05b95f6110751119aea02", null ],
-    [ "events", "db/dba/a13456.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
-    [ "events2", "db/dba/a13456.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
-    [ "instance", "db/dba/a13456.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
-    [ "TransformsCount", "db/dba/a13456.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
+    [ "HandleEffectApply", "db/dba/a13456.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
+    [ "PrepareAuraScript", "db/dba/a13456.html#a9829789fe5544429454e29d228ce0daf", null ],
+    [ "Register", "db/dba/a13456.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
+    [ "Validate", "db/dba/a13456.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
 ];

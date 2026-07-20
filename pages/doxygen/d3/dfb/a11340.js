@@ -1,8 +1,9 @@
 var a11340 =
 [
-    [ "CrossedInebriationThreshold", "d3/dfb/a11340.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
-    [ "Write", "d3/dfb/a11340.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
-    [ "Guid", "d3/dfb/a11340.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
-    [ "ItemID", "d3/dfb/a11340.html#a9e48a650bf21872099cdb0626e875fd7", null ],
-    [ "Threshold", "d3/dfb/a11340.html#a87b756b64cbfb8f292f46cce38308095", null ]
+    [ "LevelUpInfo", "d3/dfb/a11340.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
+    [ "Write", "d3/dfb/a11340.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
+    [ "HealthDelta", "d3/dfb/a11340.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
+    [ "Level", "d3/dfb/a11340.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
+    [ "PowerDelta", "d3/dfb/a11340.html#a697da64ac234c24fe73e68d408697ee6", null ],
+    [ "StatDelta", "d3/dfb/a11340.html#a580e4a3cd77631e960b7753542375d6d", null ]
 ];

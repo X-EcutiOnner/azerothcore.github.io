@@ -1,6 +1,7 @@
 var a26128 =
 [
-    [ "HandleDummy", "df/dc3/a26128.html#a4fde3142b38989cb37db76da6eada03c", null ],
-    [ "PrepareSpellScript", "df/dc3/a26128.html#aa694a1a7cbbe0f20226d7e616e19cefb", null ],
-    [ "Register", "df/dc3/a26128.html#a1f83fae2fb3dc0904ed56101e1254f5f", null ]
+    [ "HandleDummy", "df/dc3/a26128.html#a14bf65690e857c6a16dfcd8e036abbbb", null ],
+    [ "PrepareSpellScript", "df/dc3/a26128.html#a2ec497a2dfe2364ad9011aba8532e73c", null ],
+    [ "Register", "df/dc3/a26128.html#afca09c1e1c5389db67d081d6e033f025", null ],
+    [ "Validate", "df/dc3/a26128.html#af54f926b69002b2277dad34e1773e450", null ]
 ];

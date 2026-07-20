@@ -1,6 +1,7 @@
 var a27632 =
 [
-    [ "achievement_arena_by_type", "d6/d8b/a27632.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d6/d8b/a27632.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d6/d8b/a27632.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "HandleProc", "d6/d8b/a27632.html#a1ebfd477399cbac2cba33cfd90db72e6", null ],
+    [ "PrepareAuraScript", "d6/d8b/a27632.html#aadbaea984fedb04e77b92174efd5e83d", null ],
+    [ "Register", "d6/d8b/a27632.html#aedd1652a571275a305db70fbbe6f725c", null ],
+    [ "Validate", "d6/d8b/a27632.html#a28c281aeef80409b419753f71da80f92", null ]
 ];

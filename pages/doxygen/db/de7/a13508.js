@@ -1,5 +1,8 @@
 var a13508 =
 [
-    [ "npc_apothecary_frye", "db/de7/a13508.html#a5546099958a9a267d237e65720588456", null ],
-    [ "JustDied", "db/de7/a13508.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
+    [ "CheckCast", "db/de7/a13508.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
+    [ "HandleScriptEffect", "db/de7/a13508.html#a36bb2b95651889eaa0321a7a327e173f", null ],
+    [ "PrepareSpellScript", "db/de7/a13508.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
+    [ "Register", "db/de7/a13508.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
+    [ "Validate", "db/de7/a13508.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
 ];

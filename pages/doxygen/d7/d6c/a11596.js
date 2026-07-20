@@ -1,11 +1,6 @@
 var a11596 =
 [
-    [ "Player", "d7/d6c/a11596.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d7/d6c/a11596.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Face", "d7/d6c/a11596.html#a6334464eea38be514f3faa7538b39a5a", null ],
-    [ "FacialHair", "d7/d6c/a11596.html#a44643270b211d275eb94283842791407", null ],
-    [ "Gender", "d7/d6c/a11596.html#a14321ea3595debe2836eceab8a82f944", null ],
-    [ "HairColor", "d7/d6c/a11596.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
-    [ "HairStyle", "d7/d6c/a11596.html#ade5b2dff213547ab4d707070f8979085", null ],
-    [ "Skin", "d7/d6c/a11596.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
+    [ "QuestLogRemoveQuest", "d7/d6c/a11596.html#afeb3eec9774e69822f3b5f9bf7b5f905", null ],
+    [ "Read", "d7/d6c/a11596.html#a22e2ff4a700f9db48518cf5a9aec18f6", null ],
+    [ "Slot", "d7/d6c/a11596.html#ae1d6a81d589533b15c0358b4896afd91", null ]
 ];

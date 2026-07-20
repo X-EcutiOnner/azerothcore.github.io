@@ -1,8 +1,5 @@
 var a04499 =
 [
-    [ "ModelIgnoreFlags", "da/dec/a04499.html#a6996c44f3ac72cd9dc04515186d2da28", [
-      [ "Nothing", "da/dec/a04499.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
-      [ "M2", "da/dec/a04499.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
-    ] ],
-    [ "operator&", "da/dec/a04499.html#a3c25bdb4d30c345cd6760935e2c456f4", null ]
+    [ "DBCStorageBase", "d3/dd8/a28560.html", "d3/dd8/a28560" ],
+    [ "DBCStorage< T >", "d9/da3/a28564.html", "d9/da3/a28564" ]
 ];

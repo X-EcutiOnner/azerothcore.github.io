@@ -1,16 +1,11 @@
 var a00698 =
 [
-    [ "npc_corporal_keeshan", "d7/d04/a14105.html", "d7/d04/a14105" ],
-    [ "npc_corporal_keeshan::npc_corporal_keeshanAI", "d7/d8e/a14109.html", "d7/d8e/a14109" ],
-    [ "CorporalKeeshan", "df/dbb/a00698.html#aeff5ef215a48fcd7bb6837e1d77e4b45", [
-      [ "QUEST_MISSING_IN_ACTION", "df/dbb/a00698.html#aeff5ef215a48fcd7bb6837e1d77e4b45a5671553041dd72c404603a8d8306d210", null ],
-      [ "SAY_CORPORAL_1", "df/dbb/a00698.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364", null ],
-      [ "SAY_CORPORAL_2", "df/dbb/a00698.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f", null ],
-      [ "SAY_CORPORAL_3", "df/dbb/a00698.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac9f16a476377703de75fca38efc30445", null ],
-      [ "SAY_CORPORAL_4", "df/dbb/a00698.html#aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe", null ],
-      [ "SAY_CORPORAL_5", "df/dbb/a00698.html#aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf", null ],
-      [ "SPELL_MOCKING_BLOW", "df/dbb/a00698.html#aeff5ef215a48fcd7bb6837e1d77e4b45a187756168a83876d24db61f38ff5ec5e", null ],
-      [ "SPELL_SHIELD_BASH", "df/dbb/a00698.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0d74cfe7662c959a043f01770a2c7bf4", null ]
-    ] ],
-    [ "AddSC_redridge_mountains", "df/dbb/a00698.html#a0e7af4a9a0f1dcec20ae3d284f9721c5", null ]
+    [ "BanMgr", "d4/d39/a10312.html", "d4/d39/a10312" ],
+    [ "sBan", "df/dbb/a00698.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
+    [ "BanReturn", "df/dbb/a00698.html#a4dd4670ead55e2780d09a66ab39943a7", [
+      [ "BAN_SUCCESS", "df/dbb/a00698.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
+      [ "BAN_SYNTAX_ERROR", "df/dbb/a00698.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
+      [ "BAN_NOTFOUND", "df/dbb/a00698.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
+      [ "BAN_LONGER_EXISTS", "df/dbb/a00698.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
+    ] ]
 ];

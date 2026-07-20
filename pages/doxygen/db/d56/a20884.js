@@ -1,6 +1,7 @@
 var a20884 =
 [
-    [ "instance_utgarde_keep_InstanceMapScript", "da/deb/a20888.html", "da/deb/a20888" ],
-    [ "instance_utgarde_keep", "db/d56/a20884.html#abe013e4f086f63722a6398b2b7928c80", null ],
-    [ "GetInstanceScript", "db/d56/a20884.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
+    [ "OnApply", "db/d56/a20884.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
+    [ "OnRemove", "db/d56/a20884.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
+    [ "PrepareAuraScript", "db/d56/a20884.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
+    [ "Register", "db/d56/a20884.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
 ];

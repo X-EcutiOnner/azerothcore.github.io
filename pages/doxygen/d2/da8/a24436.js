@@ -1,9 +1,8 @@
 var a24436 =
 [
-    [ "HandleApply", "d2/da8/a24436.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
-    [ "HandleRemove", "d2/da8/a24436.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
-    [ "PrepareAuraScript", "d2/da8/a24436.html#af2b8e669737cd4282beb6a5035f496fc", null ],
-    [ "RecalculateBaseArmor", "d2/da8/a24436.html#a693720558c7b2b22c41a49a402522014", null ],
-    [ "Register", "d2/da8/a24436.html#aff9bc58342383afe5a08be696cddedf6", null ],
-    [ "Validate", "d2/da8/a24436.html#ad712e1e05d94372defdfa4fe67e65716", null ]
+    [ "HandleDamage", "d2/da8/a24436.html#a2c5149eb0b6698240c25b63e71af0854", null ],
+    [ "PrepareSpellScript", "d2/da8/a24436.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
+    [ "Register", "d2/da8/a24436.html#ad29179d9159700b52b0c21a779cd060b", null ],
+    [ "Suicide", "d2/da8/a24436.html#a981f8547eae9b317111bf9a7016510ab", null ],
+    [ "Validate", "d2/da8/a24436.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
 ];

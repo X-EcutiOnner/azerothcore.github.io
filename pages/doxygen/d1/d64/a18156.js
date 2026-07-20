@@ -1,7 +1,12 @@
 var a18156 =
 [
-    [ "HandleExtraEffect", "d1/d64/a18156.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "d1/d64/a18156.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "d1/d64/a18156.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "d1/d64/a18156.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "npc_darnavanAI", "d1/d64/a18156.html#ae06019c24910c873877398f29f5a1737", null ],
+    [ "JustDied", "d1/d64/a18156.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
+    [ "JustEngagedWith", "d1/d64/a18156.html#acbaedacea5ad19d82002c25b68623a27", null ],
+    [ "MovementInform", "d1/d64/a18156.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
+    [ "Reset", "d1/d64/a18156.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
+    [ "UpdateAI", "d1/d64/a18156.html#a2b3b5e168989db21fc047acaf01413d9", null ],
+    [ "_canCharge", "d1/d64/a18156.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
+    [ "_canShatter", "d1/d64/a18156.html#aa7750edc8051c8ee453143491dccf122", null ],
+    [ "events", "d1/d64/a18156.html#aa8a022ccb1367432480f72d305c752ac", null ]
 ];

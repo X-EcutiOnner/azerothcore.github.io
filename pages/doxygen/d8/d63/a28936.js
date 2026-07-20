@@ -1,5 +1,5 @@
 var a28936 =
 [
-    [ "Exp", "d8/d63/a28936.html#aa34490babd6ccdc45857947db3f36d60", null ],
-    [ "id", "d8/d63/a28936.html#abe177efe7ea9d1d1ae8e7d09655c7193", null ]
+    [ "Id", "d8/d63/a28936.html#a79e4b857b811a044aed0ce33422df801", null ],
+    [ "quality_mod", "d8/d63/a28936.html#a756e7b316cc365f15f24e5e4637303a6", null ]
 ];

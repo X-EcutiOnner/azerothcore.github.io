@@ -1,6 +1,5 @@
 var a08124 =
 [
-    [ "value_type", "da/d54/a08124.html#abd675e353289166cc5c92524915d46af", null ],
-    [ "StoreTo", "da/d54/a08124.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f", null ],
-    [ "tag", "da/d54/a08124.html#a102ade7c095fcac914b95708958352f1", null ]
+    [ "IsColorValid", "da/d54/a08124.html#a4e2a1ab20d086987429174f41887bc45", null ],
+    [ "IsTextValid", "da/d54/a08124.html#a4704555f7e926f8facce237de6772a3d", null ]
 ];

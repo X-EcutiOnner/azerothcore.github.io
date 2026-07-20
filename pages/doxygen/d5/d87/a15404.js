@@ -1,6 +1,6 @@
 var a15404 =
 [
-    [ "FilterTargets", "d5/d87/a15404.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
-    [ "PrepareSpellScript", "d5/d87/a15404.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
-    [ "Register", "d5/d87/a15404.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
+    [ "instance_ragefire_chasm_InstanceMapScript", "d5/d6c/a15408.html", "d5/d6c/a15408" ],
+    [ "instance_ragefire_chasm", "d5/d87/a15404.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
+    [ "GetInstanceScript", "d5/d87/a15404.html#a0568996a61ef91688b9f223cb3782e5a", null ]
 ];

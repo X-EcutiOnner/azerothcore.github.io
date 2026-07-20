@@ -1,6 +1,5 @@
 var a10868 =
 [
-    [ "GetEvent", "d4/d06/a10868.html#aabf338a9824038abbd0934a3bef0a269", null ],
-    [ "Read", "d4/d06/a10868.html#a344db9b28e7247dc0285a3468a789721", null ],
-    [ "EventId", "d4/d06/a10868.html#a31de21c2af87d174d139eef870cbb5fd", null ]
+    [ "UpdatableScript", "d4/d06/a10868.html#a2d6cf85d1eb98438b5022804296eff11", null ],
+    [ "OnUpdate", "d4/d06/a10868.html#abf328325e08aa0d6adf36e6f70b02328", null ]
 ];

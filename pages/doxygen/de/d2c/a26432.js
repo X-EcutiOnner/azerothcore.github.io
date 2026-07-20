@@ -1,7 +1,9 @@
 var a26432 =
 [
-    [ "HandleProc", "de/d2c/a26432.html#acec80390545c0ae674aeed8155333e6b", null ],
-    [ "PrepareAuraScript", "de/d2c/a26432.html#a84a503ad6d4848333640ddd347a7476a", null ],
-    [ "Register", "de/d2c/a26432.html#ae79f1ce6dc1d6c0823c8da8b6086efab", null ],
-    [ "Validate", "de/d2c/a26432.html#a11a4d6e297251b5611e3faa1c3c33e13", null ]
+    [ "AllowT10Proc", "de/d2c/a26432.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
+    [ "OnRemove", "de/d2c/a26432.html#a52807f94eba44a9b574577a0b27acb22", null ],
+    [ "PrepareAuraScript", "de/d2c/a26432.html#a430303b7df445d38da9316324359c2d6", null ],
+    [ "Register", "de/d2c/a26432.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
+    [ "Validate", "de/d2c/a26432.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
+    [ "_canProcT10", "de/d2c/a26432.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
 ];

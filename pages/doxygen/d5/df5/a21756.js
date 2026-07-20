@@ -1,9 +1,7 @@
 var a21756 =
 [
-    [ "npc_lord_areteAI", "d5/df5/a21756.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "d5/df5/a21756.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "d5/df5/a21756.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "d5/df5/a21756.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "d5/df5/a21756.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "d5/df5/a21756.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "npc_emilyAI", "dd/dab/a21760.html", "dd/dab/a21760" ],
+    [ "npc_emily", "d5/df5/a21756.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d5/df5/a21756.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d5/df5/a21756.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

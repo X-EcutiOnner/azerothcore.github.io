@@ -1,10 +1,7 @@
 var a12860 =
 [
-    [ "npc_core_rager", "da/d02/a12860.html#a91aec4d96359a88ee8ac70b58353d488", null ],
-    [ "DamageTaken", "da/d02/a12860.html#a7ad38b40dc33a8c875f11c4143bf9786", null ],
-    [ "Reset", "da/d02/a12860.html#a5a565f93e2b60ee0883d740cf751c143", null ],
-    [ "UpdateAI", "da/d02/a12860.html#a17466612b59d94d7f2e157d2b716cfe9", null ],
-    [ "instance", "da/d02/a12860.html#adb63c559f01ac8da42213bb8ddaf9ce0", null ],
-    [ "mangleTimer", "da/d02/a12860.html#a21bb04f15b5ffbfa4ea954922cb917ab", null ],
-    [ "rangeCheckTimer", "da/d02/a12860.html#abac888dc4c885921540ba7107d0bd732", null ]
+    [ "ClassCallSelector", "da/d02/a12860.html#a223895c97121b0727aac258c12c89e0b", null ],
+    [ "operator()", "da/d02/a12860.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
+    [ "_me", "da/d02/a12860.html#a5347a24609a21ae0a342682104b1dc14", null ],
+    [ "_targetClass", "da/d02/a12860.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
 ];

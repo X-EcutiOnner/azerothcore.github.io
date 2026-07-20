@@ -1,8 +1,7 @@
 var a05039 =
 [
-    [ "wdt_MPHD", "d9/de5/a29941.html", "d9/de5/a29941" ],
-    [ "wdt_MAIN", "dc/dad/a29949.html", "dc/dad/a29949" ],
-    [ "wdt_MAIN::adtData", "d0/da0/a29957.html", "d0/da0/a29957" ],
-    [ "WDT_file", "d9/df6/a29961.html", "d9/df6/a29961" ],
-    [ "WDT_MAP_SIZE", "d4/d6b/a05039.html#a0cf0c1d4bd3ed48612ab2a5e36b8cf10", null ]
+    [ "GameobjectModelData", "d7/ded/a05364.html", "d7/ded/a05364" ],
+    [ "ModelList", "d4/d6b/a05039.html#a2f908ce58f8fea2d0606bfe603d719d1", null ],
+    [ "LoadGameObjectModelList", "d4/d6b/a05039.html#a5a80774080fc05f90c7d92213fda6788", null ],
+    [ "model_list", "d4/d6b/a05039.html#aa0a0fd13eaa3eba090a3085d41303f12", null ]
 ];

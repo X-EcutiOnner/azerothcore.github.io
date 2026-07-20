@@ -1,24 +1,26 @@
 var a02978 =
 [
-    [ "HolidayRule", "da/d94/a09217.html", "da/d94/a09217" ],
-    [ "HolidayDateCalculator", "d9/ded/a09221.html", "d9/ded/a09221" ],
-    [ "HolidayCalculationType", "d0/dde/a02978.html#a5ecfaf291957bc268c8975a08797a5cb", [
-      [ "FIXED_DATE", "d0/dde/a02978.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387", null ],
-      [ "NTH_WEEKDAY", "d0/dde/a02978.html#a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1", null ],
-      [ "EASTER_OFFSET", "d0/dde/a02978.html#a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e", null ],
-      [ "LUNAR_NEW_YEAR", "d0/dde/a02978.html#a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5", null ],
-      [ "WEEKDAY_ON_OR_AFTER", "d0/dde/a02978.html#a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4", null ],
-      [ "AUTUMN_EQUINOX", "d0/dde/a02978.html#a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca", null ],
-      [ "WINTER_SOLSTICE", "d0/dde/a02978.html#a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06", null ],
-      [ "DARKMOON_FAIRE", "d0/dde/a02978.html#a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6", null ]
+    [ "boss_supremus", "d8/d5c/a22828.html", "d8/d5c/a22828" ],
+    [ "npc_supremus_punch_invisible_stalker", "db/db1/a22832.html", "db/db1/a22832" ],
+    [ "Supremus", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1ab", [
+      [ "EMOTE_NEW_TARGET", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1abacce041f211d3aacd7153648b2b22657d", null ],
+      [ "EMOTE_PUNCH_GROUND", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1aba18c2c02f5902d5eb449f84ea9b0dda48", null ],
+      [ "EMOTE_GROUND_CRACK", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1abaf6e451c3b6d1ba936baa236a0676e9da", null ],
+      [ "EMOTE_BERSERK", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1abad4a2e4c34c9e4cf25e66544b1de3bdd9", null ],
+      [ "SPELL_SNARE_SELF", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1aba088a20b95bb9f7f7225f39e5785ef4ea", null ],
+      [ "SPELL_MOLTEN_PUNCH", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1abad4325a0886f125ee1e818a2b0b78ceed", null ],
+      [ "SPELL_MOLTEN_FLAME", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1aba75a6d3be947216957892ac27dcf52a1d", null ],
+      [ "SPELL_HATEFUL_STRIKE", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1ababad6e8ef38e36b223ac12f2dbb1711b1", null ],
+      [ "SPELL_VOLCANIC_ERUPTION", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1aba35f23f72605836bef98b77ae75bb8103", null ],
+      [ "SPELL_VOLCANIC_ERUPTION_TRIGGER", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1abad1c54825503fd69f4f3beb7d4079ad6c", null ],
+      [ "SPELL_VOLCANIC_GEYSER", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1aba6c3253da2383661bc757e74284163365", null ],
+      [ "SPELL_BERSERK", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1abad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
+      [ "SPELL_CHARGE", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1aba379cd345f5bd4f776413760e5e279963", null ],
+      [ "SPELL_SERVERSIDE_RANDOM_TARGET", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1aba4afeaddc7e00f338f7033e0421934935", null ],
+      [ "NPC_SUPREMUS_VOLCANO", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1aba01e88a8ace84793859cb15cd5301cf2e", null ],
+      [ "GROUP_ABILITIES", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1abab77bbe102634006229e15f0a32fb6c9a", null ],
+      [ "GROUP_MOLTEN_PUNCH", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1abafd320e90ca8fd7f4c9b70c71f92e4bd6", null ],
+      [ "GROUP_PHASE_CHANGE", "d0/dde/a02978.html#a5a2dccece1c55769858f3285c94af1aba9ef91e5b4ca91a9b1f730f400fef1c78", null ]
     ] ],
-    [ "Weekday", "d0/dde/a02978.html#aec3d5ec6653b2c392d449500b8f5cb3a", [
-      [ "SUNDAY", "d0/dde/a02978.html#aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5", null ],
-      [ "MONDAY", "d0/dde/a02978.html#aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd", null ],
-      [ "TUESDAY", "d0/dde/a02978.html#aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14", null ],
-      [ "WEDNESDAY", "d0/dde/a02978.html#aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825", null ],
-      [ "THURSDAY", "d0/dde/a02978.html#aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755", null ],
-      [ "FRIDAY", "d0/dde/a02978.html#aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936", null ],
-      [ "SATURDAY", "d0/dde/a02978.html#aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7", null ]
-    ] ]
+    [ "AddSC_boss_supremus", "d0/dde/a02978.html#aca4140213fae739c682d7d7e241294e0", null ]
 ];

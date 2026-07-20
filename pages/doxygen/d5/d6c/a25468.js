@@ -1,7 +1,10 @@
 var a25468 =
 [
-    [ "HandleScriptEffect", "d5/d6c/a25468.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
-    [ "PrepareSpellScript", "d5/d6c/a25468.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
-    [ "Register", "d5/d6c/a25468.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
-    [ "SelectTarget", "d5/d6c/a25468.html#a6a59b7ce696f959b2026cf8088079e89", null ]
+    [ "CheckProc", "d5/d6c/a25468.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "d5/d6c/a25468.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "d5/d6c/a25468.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "d5/d6c/a25468.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "d5/d6c/a25468.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "d5/d6c/a25468.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "d5/d6c/a25468.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

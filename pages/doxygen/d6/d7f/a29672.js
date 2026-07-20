@@ -1,17 +1,10 @@
 var a29672 =
 [
-    [ "GetHeight", "d6/d7f/a29672.html#a98bc670c8dd44b210b398f5f014cbbc7", null ],
-    [ "GetOffsetX", "d6/d7f/a29672.html#a8facef2fdb586a71f1f740086fe160ab", null ],
-    [ "GetOffsetY", "d6/d7f/a29672.html#aecd2f6f40509d9b65f9f254e59298e8c", null ],
-    [ "GetWidth", "d6/d7f/a29672.html#a240dac4718a12daee7c8ec526209c4ba", null ],
-    [ "Height", "d6/d7f/a29672.html#abb92a54ddecdd06c1031bafd41e642dc", null ],
-    [ "LiquidType", "d6/d7f/a29672.html#a910553870f082a1b8dd47c27c8f981f1", null ],
-    [ "LiquidVertexFormat", "d6/d7f/a29672.html#ab1376e3688bcf9110111bf87f8fd940a", null ],
-    [ "MaxHeightLevel", "d6/d7f/a29672.html#aa73500f507b6ee2678f3c81328b716e1", null ],
-    [ "MinHeightLevel", "d6/d7f/a29672.html#a5c56ad9303d1b652774019efbe316dbd", null ],
-    [ "OffsetExistsBitmap", "d6/d7f/a29672.html#a1852863d7fcbbd95e6ccb190895841ca", null ],
-    [ "OffsetVertexData", "d6/d7f/a29672.html#abfe19bd9c6d9d1d41433abe6fae3baea", null ],
-    [ "OffsetX", "d6/d7f/a29672.html#a1dcb423f7ba1c0c7bdaa77aef8139b6c", null ],
-    [ "OffsetY", "d6/d7f/a29672.html#a08a02703ec946d3a6fb6326c24b4f6cc", null ],
-    [ "Width", "d6/d7f/a29672.html#a4b1bd0f232da1acde53787109e26c9b3", null ]
+    [ "SetUp", "d6/d7f/a29672.html#a3fdec2bf96f4e567b3ed2a8103d175ec", null ],
+    [ "SimulateGlyphsForLevel", "d6/d7f/a29672.html#ac0b04d88968102ac5cf34be21a44eed9", null ],
+    [ "TearDown", "d6/d7f/a29672.html#aa381706733e71ee3d426c4e0d0c4b4e9", null ],
+    [ "originalWorld", "d6/d7f/a29672.html#a5e142dc81a057b4ecc3084177942b91d", null ],
+    [ "player", "d6/d7f/a29672.html#ac57623d8e963cdb8de2258f36c1281bd", null ],
+    [ "session", "d6/d7f/a29672.html#ac92bad60994d699564da54739ac0b4f0", null ],
+    [ "worldMock", "d6/d7f/a29672.html#af4605e78650f67c3a3af4d91e1e485c5", null ]
 ];

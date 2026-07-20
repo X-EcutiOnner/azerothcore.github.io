@@ -1,20 +1,14 @@
 var a12632 =
 [
-    [ "boss_rend_blackhand", "de/d29/a12632.html#a978a2a5262df73afa1e661b23c27a57a", null ],
-    [ "EnterEvadeMode", "de/d29/a12632.html#a21ca0c54590356cc58675e71add93c3a", null ],
-    [ "IsSummonedBy", "de/d29/a12632.html#aa9d1bfa716b0427d7f23578b8ca954e1", null ],
-    [ "JustDied", "de/d29/a12632.html#a498218ab4298cdab728b8a5403d98de1", null ],
-    [ "JustEngagedWith", "de/d29/a12632.html#a494550b92a25c99470c72697e87eff87", null ],
-    [ "JustSummoned", "de/d29/a12632.html#aeebd94ed5b08587dfab88b8826f64173", null ],
-    [ "MovementInform", "de/d29/a12632.html#ae8869425b1f03f6f430585d563de0b27", null ],
-    [ "Reset", "de/d29/a12632.html#afcea6a09eabe661051fc58d5de9a3802", null ],
-    [ "SetData", "de/d29/a12632.html#abe31d366de24aefd9c0c9c534494af11", null ],
-    [ "SummonedCreatureDespawn", "de/d29/a12632.html#ae5a8775c0cf1ad5dee501a50a22e25f9", null ],
-    [ "SummonedCreatureDies", "de/d29/a12632.html#a49d4011af4ee01ff3dc8708d0950b03b", null ],
-    [ "SummonWave", "de/d29/a12632.html#a127365a60504f988bcd7bc1858e0fb94", null ],
-    [ "UpdateAI", "de/d29/a12632.html#afdca704e8aca473986037ab2bc16194e", null ],
-    [ "_currentWave", "de/d29/a12632.html#a9e4ffc20609e50188e0f5a552b164590", null ],
-    [ "_gythEvent", "de/d29/a12632.html#a3699984d920375e9631105bf0a47469b", null ],
-    [ "_victorGUID", "de/d29/a12632.html#a8337c912349eb2798c33fd5794a28437", null ],
-    [ "_waveDoorGUID", "de/d29/a12632.html#a5a4085439515aeed3f3f6aba0764ba68", null ]
+    [ "boss_ambassador_flamelash", "de/d29/a12632.html#a4eec2a22080fb99671d4596a131957b1", null ],
+    [ "DoAction", "de/d29/a12632.html#ae34494448f93104750da92ff20730dc1", null ],
+    [ "getValidRandomPosition", "de/d29/a12632.html#a4585ec9b91b506fd78f344c1e8e83697", null ],
+    [ "JustDied", "de/d29/a12632.html#afdf68272e1acd47a8c6e4a0c18f0b6bf", null ],
+    [ "JustEngagedWith", "de/d29/a12632.html#a1629ac221933d038d71c256de914121b", null ],
+    [ "Reset", "de/d29/a12632.html#aa6e66bf78c714fad816e654ed37801e5", null ],
+    [ "SummonSpirits", "de/d29/a12632.html#a2674933aca19741e3c27eee7636e6774", null ],
+    [ "TurnRunes", "de/d29/a12632.html#a1332d0405911dcba90420a49936502aa", null ],
+    [ "UpdateAI", "de/d29/a12632.html#a891ab6cb21b16f9a6bd08934bbe7257d", null ],
+    [ "_foundValidPosition", "de/d29/a12632.html#ac6c1674f7e6b5c9f2f4be052cdf509a1", null ],
+    [ "_validPosition", "de/d29/a12632.html#a2a11c3d01e99c6737c8b7459336bb021", null ]
 ];

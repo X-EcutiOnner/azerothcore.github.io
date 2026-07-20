@@ -1,7 +1,4 @@
 var a28996 =
 [
-    [ "ID", "dc/de5/a28996.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "dc/de5/a28996.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "dc/de5/a28996.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "dc/de5/a28996.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "ratio", "dc/de5/a28996.html#a4d2880eb4c15dca8148ee5aa21920e6d", null ]
 ];

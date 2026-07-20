@@ -1,6 +1,6 @@
 var a14708 =
 [
-    [ "HandleScript", "da/d63/a14708.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
-    [ "PrepareSpellScript", "da/d63/a14708.html#a26b296c1c4d9f5193dc3773509267284", null ],
-    [ "Register", "da/d63/a14708.html#aad66e4079ea9404b9057546d8959a395", null ]
+    [ "OnApply", "da/d63/a14708.html#a4a276b00d4912c210598057620368934", null ],
+    [ "PrepareAuraScript", "da/d63/a14708.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
+    [ "Register", "da/d63/a14708.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
 ];

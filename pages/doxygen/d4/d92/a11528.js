@@ -1,7 +1,5 @@
 var a11528 =
 [
-    [ "OpcodeHandler", "dc/d61/a05028.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "dc/d61/a05028.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "dc/d61/a05028.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "dc/d61/a05028.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "TimeQuery", "d4/d92/a11528.html#a90c467ab19d96b96ace5b50bad617095", null ],
+    [ "Read", "d4/d92/a11528.html#aae26e83828fc6118dea64f8861170868", null ]
 ];

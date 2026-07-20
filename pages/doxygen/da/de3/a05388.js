@@ -1,20 +1,6 @@
 var a05388 =
 [
-    [ "Cell", "da/dc0/a05392.html", "da/dc0/a05392" ],
-    [ "MemberTable", "da/de3/a05388.html#a53d3129df77e91fe5a16a990f94412fb", null ],
-    [ "RegularGrid2D", "da/de3/a05388.html#ad46cc1766cbe53425691d25266836162", null ],
-    [ "~RegularGrid2D", "da/de3/a05388.html#af105482aa4349d2f7f937fb95ec7f2a8", null ],
-    [ "balance", "da/de3/a05388.html#ae4bc431aff07874774243907c6c71539", null ],
-    [ "contains", "da/de3/a05388.html#a03a3daaf4be4e818315eb1051bed786f", null ],
-    [ "getGrid", "da/de3/a05388.html#a17d16d7813e95d09000563cd1f059414", null ],
-    [ "getGridFor", "da/de3/a05388.html#a038d866c2d0b029b1b60991f0d7ac106", null ],
-    [ "insert", "da/de3/a05388.html#acd03acd7829c13772c49580724ca4b1c", null ],
-    [ "intersectPoint", "da/de3/a05388.html#a3eb8cf138465b05159a8411d5f723bcb", null ],
-    [ "intersectRay", "da/de3/a05388.html#abd2a34c305726b54aa1b76ba5e9353b8", null ],
-    [ "intersectRay", "da/de3/a05388.html#a8ff8f11a1e48a2ee247609c5d01330eb", null ],
-    [ "intersectZAllignedRay", "da/de3/a05388.html#a1e06727cad432d3f3ce9ca6f08c2ac76", null ],
-    [ "remove", "da/de3/a05388.html#a862fd48782df471f0b8ab84bdd4ae51b", null ],
-    [ "size", "da/de3/a05388.html#a6e7ce25838521cf8dde65aa6f70f404f", null ],
-    [ "memberTable", "da/de3/a05388.html#a2343374187eaf1b4a4dcf6d5cf4611d1", null ],
-    [ "nodes", "da/de3/a05388.html#a1f31b8ce99c32652c8b8c3b5063fe83d", null ]
+    [ "TriBoundFunc", "da/de3/a05388.html#a42711c10595c048420a09e35e3345229", null ],
+    [ "operator()", "da/de3/a05388.html#a026d443e9156f884a21351700b6c69dd", null ],
+    [ "vertices", "da/de3/a05388.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
 ];

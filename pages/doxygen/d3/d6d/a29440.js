@@ -1,10 +1,13 @@
 var a29440 =
 [
-    [ "SetUp", "d3/d6d/a29440.html#a577c64b32e7d6e1055f23a9204a9dc9d", null ],
-    [ "TearDown", "d3/d6d/a29440.html#a154bc25a4e054558748b5599b56de11f", null ],
-    [ "_creatureA", "d3/d6d/a29440.html#a95e6c0f1f7a8692ec255c052b40416df", null ],
-    [ "_creatureB", "d3/d6d/a29440.html#af5d64516264eeb9f1acadeeba44b79c2", null ],
-    [ "_map", "d3/d6d/a29440.html#ada2e0d28b42465ea6f7c8de71142efd0", null ],
-    [ "_previousWorld", "d3/d6d/a29440.html#a2805a828f7a7c92845f7c712b90af381", null ],
-    [ "_worldMock", "d3/d6d/a29440.html#ab8d82db4b26a11e286ec603c63ea1613", null ]
+    [ "AuraConfig", "de/d3d/a29444.html", "de/d3d/a29444" ],
+    [ "ProcRecord", "d7/d7d/a29448.html", "d7/d7d/a29448" ],
+    [ "ProcChainGuardSimulator", "d3/d6d/a29440.html#ad729e5f44922b9b6c44c9a4d732818e7", null ],
+    [ "CanProc", "d3/d6d/a29440.html#a267703c4a51bf3e8020e3298c85b74b3", null ],
+    [ "GetProcDeep", "d3/d6d/a29440.html#afe8e4320a882c474f883347860ad4d47", null ],
+    [ "GetRecords", "d3/d6d/a29440.html#ae21baa9f43fb78e30dedfc6608684e9e", null ],
+    [ "SetCantProc", "d3/d6d/a29440.html#ab479d1a30e547ce04775abe397cfea14", null ],
+    [ "SimulateTriggerAurasProc", "d3/d6d/a29440.html#ab0a0af1461f0f94a87273f468bc5454d", null ],
+    [ "_procDeep", "d3/d6d/a29440.html#a5fd0de564b32520971082df9620d40b4", null ],
+    [ "_records", "d3/d6d/a29440.html#abdecfb4d1da86f5a5d4cd7c92c228617", null ]
 ];

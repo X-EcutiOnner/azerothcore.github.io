@@ -1,7 +1,7 @@
 var a21780 =
 [
-    [ "HandleDummy", "da/deb/a21780.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "da/deb/a21780.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "da/deb/a21780.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "da/deb/a21780.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "HandleScriptEffect", "da/deb/a21780.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
+    [ "PrepareSpellScript", "da/deb/a21780.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
+    [ "Register", "da/deb/a21780.html#a278206630f9f45f2dba50b259a6115c1", null ],
+    [ "Validate", "da/deb/a21780.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
 ];

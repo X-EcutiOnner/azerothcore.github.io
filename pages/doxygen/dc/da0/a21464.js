@@ -1,7 +1,6 @@
 var a21464 =
 [
-    [ "CheckCast", "dc/da0/a21464.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
-    [ "HandleScript", "dc/da0/a21464.html#a8128bb2d7588409dae73bed78d5285a7", null ],
-    [ "PrepareSpellScript", "dc/da0/a21464.html#aee17a8a21ec5df027082c6990189dccc", null ],
-    [ "Register", "dc/da0/a21464.html#a2a97265e102e9ce31997d99275b42973", null ]
+    [ "npc_warmage_coldarraAI", "db/d00/a21468.html", "db/d00/a21468" ],
+    [ "npc_warmage_coldarra", "dc/da0/a21464.html#a358f8ab26991798ff076ac764cd7abe2", null ],
+    [ "GetAI", "dc/da0/a21464.html#aa29181e0ad61b44eff685267f3231382", null ]
 ];

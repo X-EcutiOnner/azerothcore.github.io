@@ -1,10 +1,6 @@
 var a20896 =
 [
-    [ "npc_enslaved_proto_drake", "d8/d69/a20896.html#aec835fdc8b1beb270176d5341d26c265", null ],
-    [ "MovementInform", "d8/d69/a20896.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
-    [ "Reset", "d8/d69/a20896.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
-    [ "SetData", "d8/d69/a20896.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
-    [ "UpdateAI", "d8/d69/a20896.html#a252f84198df610bac44b6bd9cd80602e", null ],
-    [ "_events", "d8/d69/a20896.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
-    [ "_setData", "d8/d69/a20896.html#adb997badd8831dea7763eaecc93b7773", null ]
+    [ "FilterTargets", "d8/d69/a20896.html#a7efa78a7991b7ca859c7d622f973265d", null ],
+    [ "PrepareSpellScript", "d8/d69/a20896.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
+    [ "Register", "d8/d69/a20896.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
 ];

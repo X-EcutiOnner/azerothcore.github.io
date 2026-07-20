@@ -1,6 +1,7 @@
 var a24304 =
 [
-    [ "CheckTargets", "d8/d25/a24304.html#abb6ffb41731b05b868f82498b373d8b9", null ],
-    [ "PrepareSpellScript", "d8/d25/a24304.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
-    [ "Register", "d8/d25/a24304.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
+    [ "CheckCast", "d8/d25/a24304.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
+    [ "HandleDummy", "d8/d25/a24304.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
+    [ "PrepareSpellScript", "d8/d25/a24304.html#a465da282630352a289d5daae7ccb1d01", null ],
+    [ "Register", "d8/d25/a24304.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
 ];

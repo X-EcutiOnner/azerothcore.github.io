@@ -1,6 +1,5 @@
 var a19116 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "d0/d15/a19120.html", "d0/d15/a19120" ],
-    [ "npc_icc_gauntlet_controller", "d3/d3a/a19116.html#a5fc4c941842e25bc3da93686e588627b", null ],
-    [ "GetAI", "d3/d3a/a19116.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
+    [ "at_icc_saurfang_portal", "d3/d3a/a19116.html#a7f30058251c520634a0b7bad08380e5d", null ],
+    [ "OnTrigger", "d3/d3a/a19116.html#a8980fe0e67aa33335f0fdb947a294213", null ]
 ];

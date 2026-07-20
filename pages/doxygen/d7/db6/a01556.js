@@ -1,7 +1,6 @@
 var a01556 =
 [
-    [ "gobject_commandscript", "d1/da3/a12377.html", "d1/da3/a12377" ],
-    [ "GameObjectEntry", "d7/db6/a01556.html#af6e4fdc2f36213d5f2a9fa6f335517b8", null ],
-    [ "GameObjectSpawnId", "d7/db6/a01556.html#ad5bd2a208bd6c6213df595ee7369126f", null ],
-    [ "AddSC_gobject_commandscript", "d7/db6/a01556.html#a0cc4be9c12b1a892f031cb1ff47e23d9", null ]
+    [ "Acore::WorldWorldTextBuilder", "d4/d14/a12276.html", "d4/d14/a12276" ],
+    [ "getWorldInstance", "d8/d59/a05062.html#ga6bf640d0ef6703c32d9fa1618826319b", null ],
+    [ "realm", "d8/d59/a05062.html#gab842e78f86995775c494437356620779", null ]
 ];

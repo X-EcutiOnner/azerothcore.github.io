@@ -1,7 +1,6 @@
 var a20484 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d4/ddc/a20484.html#a100678bddd6a0e859c72035d4642d8e2", null ],
-    [ "MoveInLineOfSight", "d4/ddc/a20484.html#a870bdc842d8d7078302a36a20ef661e4", null ],
-    [ "_instance", "d4/ddc/a20484.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
-    [ "_introSpoken", "d4/ddc/a20484.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
+    [ "OnRemoveStun", "d4/ddc/a20484.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
+    [ "PrepareAuraScript", "d4/ddc/a20484.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
+    [ "Register", "d4/ddc/a20484.html#a3166cfcd2acdcd4460217503d4008367", null ]
 ];

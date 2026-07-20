@@ -1,43 +1,59 @@
 var a00659 =
 [
-    [ "instance_sunwell_plateau", "dd/d97/a13937.html", "dd/d97/a13937" ],
-    [ "instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript", "d5/d1e/a13941.html", "d5/d1e/a13941" ],
-    [ "spell_cataclysm_breath", "d5/dfd/a13945.html", "d5/dfd/a13945" ],
-    [ "npc_sunblade_scout", "db/d85/a13949.html", "db/d85/a13949" ],
-    [ "spell_sunwell_teleport", "da/d4f/a13953.html", "da/d4f/a13953" ],
-    [ "npc_sunblade_arch_mage", "d2/d3a/a13957.html", "d2/d3a/a13957" ],
-    [ "spell_spell_fury_aura", "da/d9d/a13961.html", "da/d9d/a13961" ],
-    [ "cataclysmBreath", "dc/d91/a00659.html#a6a5181bd462eed11e28ffb04c14a901c", [
-      [ "SPELL_CORROSIVE_POISON", "dc/d91/a00659.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3", null ],
-      [ "SPELL_FEVERED_FATIGUE", "dc/d91/a00659.html#a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222", null ],
-      [ "SPELL_HEX", "dc/d91/a00659.html#a6a5181bd462eed11e28ffb04c14a901ca88cd9f67c5feb7f0ba6c853b8520a00b", null ],
-      [ "SPELL_NECROTIC_POISON", "dc/d91/a00659.html#a6a5181bd462eed11e28ffb04c14a901ca91659ae45d576a823387ef54f56e2c4b", null ],
-      [ "SPELL_PIERCING_SHADOW", "dc/d91/a00659.html#a6a5181bd462eed11e28ffb04c14a901cadfad6c0302dc1ae7b545b95f9b85b58d", null ],
-      [ "SPELL_SHRINK", "dc/d91/a00659.html#a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f", null ],
-      [ "SPELL_WAVERING_WILL", "dc/d91/a00659.html#a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8", null ],
-      [ "SPELL_WITHERED_TOUCH", "dc/d91/a00659.html#a6a5181bd462eed11e28ffb04c14a901caa34a7e07cb901fc82e3dc957d620e03b", null ]
+    [ "AchievementOfflinePlayerUpdate", "df/d40/a06296.html", "df/d40/a06296" ],
+    [ "CriteriaProgress", "d3/dee/a06300.html", "d3/dee/a06300" ],
+    [ "AchievementCriteriaData", "d2/d9e/a06304.html", "d2/d9e/a06304" ],
+    [ "AchievementCriteriaDataSet", "d8/d1b/a06400.html", "d8/d1b/a06400" ],
+    [ "AchievementReward", "d3/d98/a06404.html", "d3/d98/a06404" ],
+    [ "AchievementRewardLocale", "de/da0/a06408.html", "de/da0/a06408" ],
+    [ "CompletedAchievementData", "d0/daa/a06412.html", "d0/daa/a06412" ],
+    [ "AchievementMgr", "dd/daf/a06416.html", "dd/daf/a06416" ],
+    [ "AchievementGlobalMgr", "de/da3/a06420.html", "de/da3/a06420" ],
+    [ "MAX_ACHIEVEMENT_CRITERIA_DATA_TYPE", "dc/d91/a00659.html#aa36806d2931b69d34909b50f40ca8c0e", null ],
+    [ "sAchievementMgr", "dc/d91/a00659.html#af422afe119839b631fd67247eddff1e6", null ],
+    [ "AchievementCriteriaDataMap", "dc/d91/a00659.html#ac16b4d5f47fe0db16d59dc67e86e42be", null ],
+    [ "AchievementCriteriaEntryList", "dc/d91/a00659.html#a7a5f365d092f508da6ae8d510f0e3117", null ],
+    [ "AchievementCriteriaListByAchievement", "dc/d91/a00659.html#ad5e4b1cd98f21804a508642d8475033f", null ],
+    [ "AchievementEntryList", "dc/d91/a00659.html#a9d70fd67a3069b6a55c0145265bffc4b", null ],
+    [ "AchievementListByReferencedId", "dc/d91/a00659.html#af3b606f4c218a7e68902cd9ff9470f5b", null ],
+    [ "AchievementRewardLocales", "dc/d91/a00659.html#a3d51ce6b9e37b72772cea78f064e5a77", null ],
+    [ "AchievementRewards", "dc/d91/a00659.html#a471572afc0467790ccff565b39f61720", null ],
+    [ "CompletedAchievementMap", "dc/d91/a00659.html#aee097fd9426b25c1101af73a551a37e1", null ],
+    [ "CriteriaProgressMap", "dc/d91/a00659.html#a649527d8ab61f39ad17fe709d2b1aabc", null ],
+    [ "AchievementCommonCategories", "dc/d91/a00659.html#ac0bc114e07c706c7192e14e80355a213", [
+      [ "ACHIEVEMENT_CATEOGRY_GENERAL", "dc/d91/a00659.html#ac0bc114e07c706c7192e14e80355a213a4c91db703d7b5c8f8756bc6136bc5207", null ],
+      [ "ACHIEVEMENT_CATEGORY_STATISTICS", "dc/d91/a00659.html#ac0bc114e07c706c7192e14e80355a213a142173b7c79b8a90cd7854fd7b03509a", null ]
     ] ],
-    [ "SunbladeArchMageSpells", "dc/d91/a00659.html#a41df3ad8185e1920fff7e943ae1d6de8", [
-      [ "SPELL_ARCANE_EXPLOSION", "dc/d91/a00659.html#a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce", null ],
-      [ "SPELL_BLINK", "dc/d91/a00659.html#a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a", null ],
-      [ "SPELL_FROST_NOVA", "dc/d91/a00659.html#a41df3ad8185e1920fff7e943ae1d6de8ab913503b67c5b8f901cfc4f207bcba03", null ]
+    [ "AchievementCriteriaDataType", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0", [
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_NONE", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0ae9d5b8759c2ee53b9e210a15ad049943", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_CREATURE", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0abc70f9063061689cbf95c04df5a9a448", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_CLASS_RACE", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0a22786f73e7cc8966c60614e88f0d5cb1", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_LESS_HEALTH", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0ac6775a92c029d4c2be529461e23e4ca3", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_DEAD", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0adc76e0c15e881d6848994a911d1a8ef6", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AURA", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0a9507639d721e63f182ebd53d593d5465", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AREA", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0a19b830790eb46adb27e8a65b85eceed1", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_AURA", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0aa0b32101ef67881083e58a6a6c55c75b", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_VALUE", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0a3fd659753b9d41caa4b58c51d2cb6ea7", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_LEVEL", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0ab055e5273ac4250d273fa5592af3ed39", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_GENDER", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0a10fc4cfb0da2c0c72c12d5e6e4a1bdd6", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_SCRIPT", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0a0578b3122b1b69df3af04c2d45df266c", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_DIFFICULTY", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0a5813a09c9977d3d5f80595d529f7f420", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_PLAYER_COUNT", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0a1046e477766a7c60f4446fef1b13a6f5", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_TEAM", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0ad5967db594cc30c247c785d5c753cc18", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_DRUNK", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0a7fcb85cf04be09a3a5f1214553bf329a", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_HOLIDAY", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0a9dba74c8f01c9292cf8afa6b77be2a34", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_LOSS_TEAM_SCORE", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0aab81f29c4cb17f066e8d2bd95f37d954", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_INSTANCE_SCRIPT", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0adb7d56866cf7afe8c4145c300a06ec4c", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_EQUIPPED_ITEM", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0a77677f4d00c6fab053e7f632ef59b4e5", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_ID", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0a84b46b516fde8adcd492cb856d32e722", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_PLAYER_CLASS_RACE", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0aaa861458fcfe5aed7f8714be2b68a1db", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_NTH_BIRTHDAY", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0a003a15517532a95903cb8c6673db418f", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_KNOWN_TITLE", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0a158d186341dd9798da3921a4a6bd2fda", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_TEAMS_SCORES", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0af734713c1c6764e61fddab192904518a", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_ITEM_QUALITY", "dc/d91/a00659.html#a72f8a725cd1b257556ae7aa080f477c0af53705f7958654cf4ca99c99dd320735", null ]
     ] ],
-    [ "SunbladeScout", "dc/d91/a00659.html#aaf4c1644419a40c8480767e91644d5bc", [
-      [ "NPC_SUNBLADE_PROTECTOR", "dc/d91/a00659.html#aaf4c1644419a40c8480767e91644d5bca62010ff06f3f856c841862d5ffa3bde3", null ],
-      [ "SAY_AGGRO", "dc/d91/a00659.html#aaf4c1644419a40c8480767e91644d5bca47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SPELL_ACTIVATE_SUNBLADE_PROTECTOR", "dc/d91/a00659.html#aaf4c1644419a40c8480767e91644d5bca70d2242d6d051050a93cde9e0d01c664", null ],
-      [ "SPELL_COSMETIC_STUN_IMMUNE_PERMANENT", "dc/d91/a00659.html#aaf4c1644419a40c8480767e91644d5bcad90671e3ea9403b6696d77fee706ebff", null ],
-      [ "SPELL_FELBLOOD_CHANNEL", "dc/d91/a00659.html#aaf4c1644419a40c8480767e91644d5bca2a2aa66bbc0dcd838269258c02024cfd", null ],
-      [ "SPELL_SINISTER_STRIKE", "dc/d91/a00659.html#aaf4c1644419a40c8480767e91644d5bca3217132d497cc70e674432067fd431a7", null ]
-    ] ],
-    [ "SunwellTeleportSpells", "dc/d91/a00659.html#a16317b99a941a9465e032037ccd2c216", [
-      [ "SPELL_TELEPORT_TO_APEX_POINT", "dc/d91/a00659.html#a16317b99a941a9465e032037ccd2c216a23cd04b9feb2f33d8c21a69bd87fde0b", null ],
-      [ "SPELL_TELEPORT_TO_WITCHS_SANCTUM", "dc/d91/a00659.html#a16317b99a941a9465e032037ccd2c216a0f6f867ae4a97ff222364847b54a3368", null ],
-      [ "SPELL_TELEPORT_TO_SUNWELL_PLATEAU", "dc/d91/a00659.html#a16317b99a941a9465e032037ccd2c216a962210e270324883a8e4c1333b2abf2e", null ]
-    ] ],
-    [ "AddSC_instance_sunwell_plateau", "dc/d91/a00659.html#a6f050a93b62a1391ae6321d1d2d6450a", null ],
-    [ "creatureData", "dc/d91/a00659.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "dc/d91/a00659.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "dc/d91/a00659.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
-    [ "summonData", "dc/d91/a00659.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
+    [ "AchievementOfflinePlayerUpdateType", "dc/d91/a00659.html#a9c52752c50b87261f43020b3cfaa06e6", [
+      [ "ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_COMPLETE_ACHIEVEMENT", "dc/d91/a00659.html#a9c52752c50b87261f43020b3cfaa06e6a2976d6d0cc93ac389d7683d092aff8ee", null ],
+      [ "ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_UPDATE_CRITERIA", "dc/d91/a00659.html#a9c52752c50b87261f43020b3cfaa06e6a7d91d50e1acd06739fbc20bd87c8a4a3", null ]
+    ] ]
 ];

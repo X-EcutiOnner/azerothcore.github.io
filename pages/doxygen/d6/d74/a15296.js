@@ -1,12 +1,12 @@
 var a15296 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "d6/d74/a15296.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
-    [ "GetData", "d6/d74/a15296.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
-    [ "Initialize", "d6/d74/a15296.html#aed9ab9542badb0296ca0660c39541cb8", null ],
-    [ "OnGameObjectCreate", "d6/d74/a15296.html#a567ac5d9a17514ede5b84c5d78204072", null ],
-    [ "ReadSaveDataMore", "d6/d74/a15296.html#a7d6fefed563b0b9763b9c63136c65952", null ],
-    [ "SetData", "d6/d74/a15296.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
-    [ "WriteSaveDataMore", "d6/d74/a15296.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
-    [ "_firesState", "d6/d74/a15296.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
-    [ "_gongPhase", "d6/d74/a15296.html#a23485a35f0aa2f2ffad53398882d163a", null ]
+    [ "boss_lieutenant_drake", "d6/d74/a15296.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
+    [ "InitializeAI", "d6/d74/a15296.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
+    [ "JustDied", "d6/d74/a15296.html#aca7654e30aac96fa509f99f3447121ec", null ],
+    [ "JustEngagedWith", "d6/d74/a15296.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
+    [ "KilledUnit", "d6/d74/a15296.html#a833c889c28ea35a6198fe753b604a8ed", null ],
+    [ "MovementInform", "d6/d74/a15296.html#aec6e332bc5739552cbbec27569c55759", null ],
+    [ "UpdateAI", "d6/d74/a15296.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
+    [ "pathId", "d6/d74/a15296.html#ac63f9c885296a797799c0cd83b0ade64", null ],
+    [ "runSecondPath", "d6/d74/a15296.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
 ];

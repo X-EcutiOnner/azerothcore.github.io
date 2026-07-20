@@ -1,10 +1,6 @@
 var a22912 =
 [
-    [ "boss_morogrim_tidewalker", "db/dad/a22912.html#a138a200da298f64697e2e47fb8004ccb", null ],
-    [ "JustDied", "db/dad/a22912.html#a139d87e7cffe03183538eb493e063195", null ],
-    [ "JustEngagedWith", "db/dad/a22912.html#a3244672aeb994673e1f46708699bcc2c", null ],
-    [ "JustSummoned", "db/dad/a22912.html#a2b669007520094948138c95468b77f9f", null ],
-    [ "KilledUnit", "db/dad/a22912.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
-    [ "Reset", "db/dad/a22912.html#a78ed1d1f8c55407497a4fb679587975d", null ],
-    [ "_recentlySpoken", "db/dad/a22912.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
+    [ "PrepareAuraScript", "db/dad/a22912.html#a0dca39c324a5431d4861c1f20a34355e", null ],
+    [ "Register", "db/dad/a22912.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
+    [ "Update", "db/dad/a22912.html#a6201eaa3b961e838a535b80679996ada", null ]
 ];

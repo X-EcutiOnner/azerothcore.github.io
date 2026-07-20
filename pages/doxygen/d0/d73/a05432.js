@@ -1,10 +1,8 @@
 var a05432 =
 [
-    [ "Hash", "d0/d73/a05432.html#ae23bd592ac284f3068c36688d084c24f", null ],
-    [ "Verify", "d0/d73/a05432.html#a7a041ffc17e4d4291f81d4090f31e1fd", null ],
-    [ "DEFAULT_ITERATIONS", "d0/d73/a05432.html#a898bbe9b4ffddef1eb067915740d6100", null ],
-    [ "DEFAULT_MEMORY_COST", "d0/d73/a05432.html#a413b8cdff629f26836a776412362056d", null ],
-    [ "ENCODED_HASH_LEN", "d0/d73/a05432.html#a07dd0a8033f54177570f62a2a1a0da3d", null ],
-    [ "HASH_LEN", "d0/d73/a05432.html#a923313625297d08ff3ca9a04bbe527aa", null ],
-    [ "PARALLELISM", "d0/d73/a05432.html#a4aabf2fcc43b23c9d565ced3a2adb405", null ]
+    [ "ComputeCell", "d0/d73/a05432.html#a32a8b5ab15a28fb06672fcf62ac63d1e", null ],
+    [ "isValid", "d0/d73/a05432.html#afe64d87e738675f1c8cb0fa6d440029c", null ],
+    [ "operator==", "d0/d73/a05432.html#a13e8b2fcda561f185777e4d8b48da3f5", null ],
+    [ "x", "d0/d73/a05432.html#a8435f7d7b8f529dfe397ada59e3405a1", null ],
+    [ "y", "d0/d73/a05432.html#af3d5ae020727d58286ef7725958063a9", null ]
 ];

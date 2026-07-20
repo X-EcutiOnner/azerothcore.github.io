@@ -1,12 +1,10 @@
 var a14308 =
 [
-    [ "npc_zulian_prowlerAI", "d5/dfd/a14308.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "d5/dfd/a14308.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "d5/dfd/a14308.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "d5/dfd/a14308.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "d5/dfd/a14308.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "d5/dfd/a14308.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "d5/dfd/a14308.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "d5/dfd/a14308.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "d5/dfd/a14308.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "boss_alyson_antille", "d5/dfd/a14308.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
+    [ "GetNearbyFriendlies", "d5/dfd/a14308.html#ab99596d5c2eafac8c678378d509bf585", null ],
+    [ "JustEngagedWith", "d5/dfd/a14308.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
+    [ "RandomReverseFriendlyList", "d5/dfd/a14308.html#afef27de229ba2c3b8beb30809a313237", null ],
+    [ "Reset", "d5/dfd/a14308.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
+    [ "UpdateAI", "d5/dfd/a14308.html#a15157be42d166a239ab658fc04292e44", null ],
+    [ "_friendlyList", "d5/dfd/a14308.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
 ];

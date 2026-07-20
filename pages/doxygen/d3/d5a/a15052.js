@@ -1,7 +1,7 @@
 var a15052 =
 [
-    [ "hyjalTyrandeAI", "df/d5c/a15056.html", "df/d5c/a15056" ],
-    [ "npc_hyjal_tyrande", "d3/d5a/a15052.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
-    [ "GetAI", "d3/d5a/a15052.html#a2f863e616352a98763eef9a717d73388", null ],
-    [ "OnGossipSelect", "d3/d5a/a15052.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
+    [ "HandleScript", "d3/d5a/a15052.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
+    [ "PrepareSpellScript", "d3/d5a/a15052.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
+    [ "Register", "d3/d5a/a15052.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
+    [ "Validate", "d3/d5a/a15052.html#aa1e74de390a8b71e43e43664981a36ff", null ]
 ];

@@ -1,11 +1,13 @@
 var a12360 =
 [
-    [ "pet_commandscript", "de/dc4/a12360.html#a84595dcb908398e80deee0b0aa47e335", null ],
-    [ "GetCommands", "de/dc4/a12360.html#a01026a4936774d2225d10e0f6e27b08c", null ],
-    [ "HandlePetCreateCommand", "de/dc4/a12360.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
-    [ "HandlePetDeleteCommand", "de/dc4/a12360.html#a728201526e905b025aba5e6b030c288b", null ],
-    [ "HandlePetLearnCommand", "de/dc4/a12360.html#a59a2a6bd9af23fe3a775319216337bda", null ],
-    [ "HandlePetListCommand", "de/dc4/a12360.html#aeaa05b073553c0c0758ea99d982ce1cc", null ],
-    [ "HandlePetRenameCommand", "de/dc4/a12360.html#a556529bfe267eb618410b63065b7096c", null ],
-    [ "HandlePetUnlearnCommand", "de/dc4/a12360.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
+    [ "cheat_commandscript", "de/dc4/a12360.html#a7449cfba3578956a09b67e569e7e6083", null ],
+    [ "GetCommands", "de/dc4/a12360.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
+    [ "HandleCasttimeCheatCommand", "de/dc4/a12360.html#a119ad06c5b8be235853bb13c7cff724b", null ],
+    [ "HandleCheatStatusCommand", "de/dc4/a12360.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
+    [ "HandleCoolDownCheatCommand", "de/dc4/a12360.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
+    [ "HandleExploreCheatCommand", "de/dc4/a12360.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
+    [ "HandleGodModeCheatCommand", "de/dc4/a12360.html#ac398dbacf025830dc871bc77938d47d6", null ],
+    [ "HandlePowerCheatCommand", "de/dc4/a12360.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
+    [ "HandleTaxiCheatCommand", "de/dc4/a12360.html#ab9bd840c9622d173e710058eeb763388", null ],
+    [ "HandleWaterWalkCheatCommand", "de/dc4/a12360.html#a9162d89c049f14f29bc5ba257964df34", null ]
 ];

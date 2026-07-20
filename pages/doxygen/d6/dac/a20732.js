@@ -1,7 +1,10 @@
 var a20732 =
 [
-    [ "OnApply", "d6/dac/a20732.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
-    [ "OnRemove", "d6/dac/a20732.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
-    [ "PrepareAuraScript", "d6/dac/a20732.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
-    [ "Register", "d6/dac/a20732.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
+    [ "npc_boombot", "d6/dac/a20732.html#a6747aef56fd6710020c8aa5b4d96e0a1", null ],
+    [ "DamageTaken", "d6/dac/a20732.html#a9f657c3f979b1f35f1cd5129474b33f1", null ],
+    [ "Reset", "d6/dac/a20732.html#af47d7810bfe4f4ad7185ec7167cd49bf", null ],
+    [ "UpdateAI", "d6/dac/a20732.html#a11b997bea629230932a1e01e89a556f2", null ],
+    [ "_boomed", "d6/dac/a20732.html#a3e08d47064301a42e71fa33f9d58a5a3", null ],
+    [ "_instance", "d6/dac/a20732.html#aeacd93855b35591fbfc54a8c1f622621", null ],
+    [ "_scheduler", "d6/dac/a20732.html#af45ea755ec5c6a16b2b1fde7ef0e93f8", null ]
 ];

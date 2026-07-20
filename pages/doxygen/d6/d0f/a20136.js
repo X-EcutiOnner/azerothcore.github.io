@@ -1,10 +1,12 @@
 var a20136 =
 [
-    [ "boss_freya_elder_ironbranch", "d6/d0f/a20136.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
-    [ "JustDied", "d6/d0f/a20136.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
-    [ "JustEngagedWith", "d6/d0f/a20136.html#a34d87135b8dac114a8783941dba69559", null ],
-    [ "KilledUnit", "d6/d0f/a20136.html#a20b5a622ac233d1280169f54942c894f", null ],
-    [ "Reset", "d6/d0f/a20136.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
-    [ "UpdateAI", "d6/d0f/a20136.html#a00dade8af24a2240187fb4e52138c0d1", null ],
-    [ "events", "d6/d0f/a20136.html#a8693a800da6890004f3ae82fd9898480", null ]
+    [ "npc_freya_ward", "d6/d0f/a20136.html#aeb5b3a3495622b05faf41d2ec0a82e3f", null ],
+    [ "DoAction", "d6/d0f/a20136.html#ac52ff5e24ff5361808fce4d8d1574ada", null ],
+    [ "JustSummoned", "d6/d0f/a20136.html#a71cd4c583a1f33168d12bbe473d0482e", null ],
+    [ "Reset", "d6/d0f/a20136.html#a134ff84f2cfa3a00cdd6158da6641369", null ],
+    [ "SummonedCreatureDespawn", "d6/d0f/a20136.html#a20fde559565c47f4451581e5d1a61e99", null ],
+    [ "UpdateAI", "d6/d0f/a20136.html#a62122abe02ae9351617eb3af9e36e88e", null ],
+    [ "_castTimer", "d6/d0f/a20136.html#afe313ebbc5c711183a9e623d8213ae64", null ],
+    [ "_summoned", "d6/d0f/a20136.html#aecae1e0f3b84d97cef40023a36dd4254", null ],
+    [ "summons", "d6/d0f/a20136.html#abf3d2443c9badc35097b6e5c818f1c88", null ]
 ];

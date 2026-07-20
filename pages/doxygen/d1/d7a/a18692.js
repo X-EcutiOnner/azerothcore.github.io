@@ -1,6 +1,8 @@
 var a18692 =
 [
-    [ "npc_lk_wicked_spiritAI", "d5/d4e/a18696.html", "d5/d4e/a18696" ],
-    [ "npc_lk_wicked_spirit", "d1/d7a/a18692.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
-    [ "GetAI", "d1/d7a/a18692.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
+    [ "ChangeDamageAndGrow", "d1/d7a/a18692.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "d1/d7a/a18692.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "d1/d7a/a18692.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "d1/d7a/a18692.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "d1/d7a/a18692.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

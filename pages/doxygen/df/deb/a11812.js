@@ -1,13 +1,6 @@
 var a11812 =
 [
-    [ "PetAuraMap", "df/deb/a11812.html#a6c020340ff467b5f2d00c3b5f9fee817", null ],
-    [ "PetAura", "df/deb/a11812.html#a8cd7e3284837b30a8a3c6739ab5cb9b3", null ],
-    [ "PetAura", "df/deb/a11812.html#a79a2f086e2d8dbe1af47716b53df0524", null ],
-    [ "AddAura", "df/deb/a11812.html#ae33bb99ab341f66fb2f296ccd6617e63", null ],
-    [ "GetAura", "df/deb/a11812.html#a6f8318410229a89e0b3aa2af28d6cb2b", null ],
-    [ "GetDamage", "df/deb/a11812.html#a38087712cef92ad55dc84f96e2b9e300", null ],
-    [ "IsRemovedOnChangePet", "df/deb/a11812.html#adc1b329e1f303b5ad3f353abb4343cdf", null ],
-    [ "auras", "df/deb/a11812.html#abacd738dfb04687810b981297b1a1567", null ],
-    [ "damage", "df/deb/a11812.html#a216021a7ad893ae6ca65ea068dd6eedb", null ],
-    [ "removeOnChangePet", "df/deb/a11812.html#aa5b3219cd2021341ce0910dce81d8b56", null ]
+    [ "ChannelTargetData", "df/deb/a11812.html#a26f2a2037750712d8718d9537603e3a1", null ],
+    [ "channelGUID", "df/deb/a11812.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
+    [ "spellDst", "df/deb/a11812.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
 ];

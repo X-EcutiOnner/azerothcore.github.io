@@ -1,7 +1,8 @@
 var a14616 =
 [
-    [ "go_direbrew_mole_machineAI", "d7/d98/a14616.html#a4e667ad9e572e93c045ae01f63bea648", null ],
-    [ "Reset", "d7/d98/a14616.html#a32dd801b5d898fd8634edcb6cae52bdf", null ],
-    [ "UpdateAI", "d7/d98/a14616.html#a2eaa8a0ad0907e4aa497a7e1c3a31b29", null ],
-    [ "_scheduler", "d7/d98/a14616.html#a5960ff83f21cf5964f422e3a7b297f22", null ]
+    [ "boss_venoxis", "d7/d98/a14616.html#a3e91a9022163a726cbc077d38459a5f5", null ],
+    [ "InitializeAI", "d7/d98/a14616.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
+    [ "JustDied", "d7/d98/a14616.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
+    [ "JustEngagedWith", "d7/d98/a14616.html#afaa68ffbd5fecae48a044009326bcaed", null ],
+    [ "Reset", "d7/d98/a14616.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
 ];

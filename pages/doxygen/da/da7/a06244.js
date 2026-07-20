@@ -1,12 +1,10 @@
 var a06244 =
 [
-    [ "RBACPermission", "da/da7/a06244.html#ab7e942f35ee798e52b6e44b5eb35957d", null ],
-    [ "AddLinkedPermission", "da/da7/a06244.html#abadc5213769b1aa15ed3fea56087760e", null ],
-    [ "GetId", "da/da7/a06244.html#ac9626c0aae11a3189fc15d086fb0bd96", null ],
-    [ "GetLinkedPermissions", "da/da7/a06244.html#aabdbec412cd1a1192c8fb4089ab268aa", null ],
-    [ "GetName", "da/da7/a06244.html#a39784b6e1cb1018dd47a1f223bcf8ac3", null ],
-    [ "RemoveLinkedPermission", "da/da7/a06244.html#a31dcbc98d2a850f5924c0183c90fd58a", null ],
-    [ "_id", "da/da7/a06244.html#ab467166c941c8dc01d3d2bd3ce7a06fc", null ],
-    [ "_name", "da/da7/a06244.html#ae02a379ae6f8bee804942a4ca6d98aba", null ],
-    [ "_perms", "da/da7/a06244.html#a2c9bd034968018bb631f4d5145c16fff", null ]
+    [ "TransactionCallback", "da/da7/a06244.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
+    [ "TransactionCallback", "da/da7/a06244.html#adeff62976c11d9d90169e4650640118b", null ],
+    [ "AfterComplete", "da/da7/a06244.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
+    [ "InvokeIfReady", "da/da7/a06244.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
+    [ "operator=", "da/da7/a06244.html#ab73d1741c21ea9fd86f65a647768e972", null ],
+    [ "m_callback", "da/da7/a06244.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
+    [ "m_future", "da/da7/a06244.html#a381e889074bc5ca48574d37fe6eea00f", null ]
 ];

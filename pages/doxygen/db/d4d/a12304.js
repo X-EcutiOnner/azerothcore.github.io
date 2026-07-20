@@ -1,18 +1,15 @@
 var a12304 =
 [
-    [ "learn_commandscript", "db/d4d/a12304.html#a7ef51367ab7ab1c360390ff5552c0f51", null ],
-    [ "GetCommands", "db/d4d/a12304.html#a8c8f73f3c1d5dbddd5a3d2e89ea326d8", null ],
-    [ "HandleLearnAllCraftsCommand", "db/d4d/a12304.html#ae25064fa03d022277a368f52a17e5b70", null ],
-    [ "HandleLearnAllDefaultCommand", "db/d4d/a12304.html#a985d2a10f01808c4bff2922b1530e911", null ],
-    [ "HandleLearnAllGMCommand", "db/d4d/a12304.html#a88e28ec43968c5a8b0bfd1f190d89a98", null ],
-    [ "HandleLearnAllLangCommand", "db/d4d/a12304.html#aaf4d779b47511db72727fe44fb1bbd2d", null ],
-    [ "HandleLearnAllMyClassCommand", "db/d4d/a12304.html#a956716b7743dfc6de922b0badf40aeda", null ],
-    [ "HandleLearnAllMyPetTalentsCommand", "db/d4d/a12304.html#a2a7cc02eb4417907b50d49bab39110cf", null ],
-    [ "HandleLearnAllMyQuestSpells", "db/d4d/a12304.html#af7393dfd87f9742cfc7220896c4eeb1b", null ],
-    [ "HandleLearnAllMyTalentsCommand", "db/d4d/a12304.html#aaa19e92798ac56355a95e625ead56556", null ],
-    [ "HandleLearnAllMyTrainerSpellsCommand", "db/d4d/a12304.html#a1e08e9289a6dccde021f3712db106c64", null ],
-    [ "HandleLearnAllRecipesCommand", "db/d4d/a12304.html#a44b538a1031ad69bec762f1a791cf11f", null ],
-    [ "HandleLearnCommand", "db/d4d/a12304.html#ab59da6873596596ee84509cb0060e760", null ],
-    [ "HandleLearnSkillRecipesHelper", "db/d4d/a12304.html#ae8bd0389415fdeb70d369b694b953619", null ],
-    [ "HandleUnLearnCommand", "db/d4d/a12304.html#a2dc980af9662b3b1c783e3603732ca01", null ]
+    [ "SunsReachReclamationData", "db/d4d/a12304.html#a840eb2024ae39f2f60f819e884db80b3", null ],
+    [ "GetData", "db/d4d/a12304.html#ae7ef124f28f2bc8230b4234652734994", null ],
+    [ "GetPhasePercentage", "db/d4d/a12304.html#a215cec505dd74695704ae7961161e195", null ],
+    [ "GetSubPhasePercentage", "db/d4d/a12304.html#aaee292336c57d967842d63f55e69bf0f", null ],
+    [ "GetSunwellGatePercentage", "db/d4d/a12304.html#a9b5de26596e174f9a94e019fcb998f9e", null ],
+    [ "m_gate", "db/d4d/a12304.html#a35755bcf3f67cfb2ebc77dcb36fa4dfb", null ],
+    [ "m_gateCounters", "db/d4d/a12304.html#a76b38d6f571386c1d818752e12a66f66", null ],
+    [ "m_phase", "db/d4d/a12304.html#a67711cd7d43f481161b8f98690d67fe3", null ],
+    [ "m_subphaseMask", "db/d4d/a12304.html#a0a94a3b69ac5ccfcfae35af007ed375c", null ],
+    [ "m_sunsReachReclamationCounters", "db/d4d/a12304.html#a14253084085c114aa2cfeefdebb0257d", null ],
+    [ "m_sunsReachReclamationMutex", "db/d4d/a12304.html#a0ef2835b702469482926ec4942d0f786", null ],
+    [ "m_sunsReachReclamationPlayers", "db/d4d/a12304.html#a72780ba8e17ccf5513d104eb228b3411", null ]
 ];

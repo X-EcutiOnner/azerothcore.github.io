@@ -1,6 +1,7 @@
 var a20264 =
 [
-    [ "FilterTargets", "d2/dcc/a20264.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "d2/dcc/a20264.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "d2/dcc/a20264.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "boss_freya_healthy_spore", "d2/dcc/a20264.html#abc2492b9cf96cb00940b18fac549fb00", null ],
+    [ "Reset", "d2/dcc/a20264.html#abe3f794707aa722e73b1728700876083", null ],
+    [ "UpdateAI", "d2/dcc/a20264.html#ac8c952848687cd883aaefe466b799e3b", null ],
+    [ "_despawnTimer", "d2/dcc/a20264.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
 ];

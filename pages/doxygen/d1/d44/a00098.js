@@ -1,15 +1,14 @@
 var a00098 =
 [
-    [ "SpellProcCooldownTest", "d7/dff/a29721.html", "d7/dff/a29721" ],
-    [ "TEST_F", "d1/d44/a00098.html#ac30c03da32748e0bf7f658b9eff19f67", null ],
-    [ "TEST_F", "d1/d44/a00098.html#a877730b0890fd65b53503d867be13db2", null ],
-    [ "TEST_F", "d1/d44/a00098.html#a46fee264bedefac5bf751dc80e5175ca", null ],
-    [ "TEST_F", "d1/d44/a00098.html#a370529a902674d7c3d85a958b68f014a", null ],
-    [ "TEST_F", "d1/d44/a00098.html#a63a215a846e19ee49b60cd43e3a95dbb", null ],
-    [ "TEST_F", "d1/d44/a00098.html#af3b499c25e76cc981b8b7c898e661285", null ],
-    [ "TEST_F", "d1/d44/a00098.html#aa2595c13ca0ad6ce6afda0196d0c86ae", null ],
-    [ "TEST_F", "d1/d44/a00098.html#afba7de9d87f646093469d0f6820b2217", null ],
-    [ "TEST_F", "d1/d44/a00098.html#a64a32de59b301ddb3b2a8827bacd43cf", null ],
-    [ "TEST_F", "d1/d44/a00098.html#a4828c96b86819a1f862c5c123463c3f6", null ],
-    [ "TEST_F", "d1/d44/a00098.html#a980784573aa4ae1d2fda4349c9290425", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "d1/d44/a00098.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "isHole", "d1/d44/a00098.html#a3a7e248f31dc8d832dc118d469a98bd4", null ],
+    [ "holetab_h", "d1/d44/a00098.html#a7424dd5c858116f845a676e31fe5ae5d", null ],
+    [ "holetab_v", "d1/d44/a00098.html#a2b1bf69bcdb58ff1605821d486da3acb", null ],
+    [ "MCINMagic", "d1/d44/a00098.html#a6f946547b65d321100fd6efa2966180c", null ],
+    [ "MCLQMagic", "d1/d44/a00098.html#a35ae9924cb4e3ad0020167b89d5ea86f", null ],
+    [ "MCNKMagic", "d1/d44/a00098.html#aa2d85d3b667d3755f6f7a993e60c574b", null ],
+    [ "MCVTMagic", "d1/d44/a00098.html#a32010e610a970d3891ae5effca03de37", null ],
+    [ "MFBOMagic", "d1/d44/a00098.html#a329d005a0989137286469e197dc0c812", null ],
+    [ "MH2OMagic", "d1/d44/a00098.html#aaeaf747e4bc5c25257f9e0ef1153b5a7", null ],
+    [ "MHDRMagic", "d1/d44/a00098.html#ac97bd684dd5bacba0e790f355a3bdddf", null ]
 ];

@@ -1,7 +1,7 @@
 var a13764 =
 [
-    [ "HandleRemove", "d1/d1a/a13764.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
-    [ "PrepareAuraScript", "d1/d1a/a13764.html#a6fa407996b59d98d0eeef877ee89784d", null ],
-    [ "Register", "d1/d1a/a13764.html#a7dc81b47954ee8c10b99f389740de0be", null ],
-    [ "Validate", "d1/d1a/a13764.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
+    [ "HandleScript", "d1/d1a/a13764.html#aae2f572a523431f6764f08e4719adbcf", null ],
+    [ "PrepareSpellScript", "d1/d1a/a13764.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
+    [ "Register", "d1/d1a/a13764.html#ae3b002197564318cc92242bd925d35af", null ],
+    [ "Validate", "d1/d1a/a13764.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
 ];

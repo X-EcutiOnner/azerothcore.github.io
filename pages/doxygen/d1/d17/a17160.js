@@ -1,12 +1,10 @@
 var a17160 =
 [
-    [ "boss_marwyn", "d1/d17/a17160.html#ad0d7ef02952d4f4a2c8ce1f5099e4bdd", null ],
-    [ "DoAction", "d1/d17/a17160.html#a7bd848b407d33942f05b48b6284506bb", null ],
-    [ "EnterEvadeMode", "d1/d17/a17160.html#a93849e995d62ba5a220e08157d8758fa", null ],
-    [ "JustDied", "d1/d17/a17160.html#a89fd620d0e74675d671cb69cc917d024", null ],
-    [ "JustEngagedWith", "d1/d17/a17160.html#a038ed3e1a8c9f3f3bc7f7eca584ad5cd", null ],
-    [ "KilledUnit", "d1/d17/a17160.html#aad4dd7a1fb79c704c7e59581f938d2e9", null ],
-    [ "Reset", "d1/d17/a17160.html#a0e25c5d894b7e20c6a1781410847c1fa", null ],
-    [ "UpdateAI", "d1/d17/a17160.html#ae8d1b8908983af8bff1f13641472817f", null ],
-    [ "_startingFight", "d1/d17/a17160.html#aee335b57c5249ecd4ce843e0f1694e80", null ]
+    [ "boss_tharon_jaAI", "d1/d17/a17160.html#a03025fa529e932f23479ff19b0cd8238", null ],
+    [ "DoAction", "d1/d17/a17160.html#a655fd83c2d671847fea9ae393c132fb9", null ],
+    [ "JustDied", "d1/d17/a17160.html#a7928b5db061f1073e1decc2d40601195", null ],
+    [ "JustEngagedWith", "d1/d17/a17160.html#aab194a8f802eeb625d1a74960acbe154", null ],
+    [ "KilledUnit", "d1/d17/a17160.html#a41e929a3768768eb06bafdee3269fd24", null ],
+    [ "Reset", "d1/d17/a17160.html#a272e8565a9b00a27505b301d52814eee", null ],
+    [ "UpdateAI", "d1/d17/a17160.html#a6f482cabcb0bd56711878a5ea297b950", null ]
 ];

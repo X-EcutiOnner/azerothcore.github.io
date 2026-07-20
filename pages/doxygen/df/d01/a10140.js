@@ -1,8 +1,6 @@
 var a10140 =
 [
-    [ "BoundaryUnionBoundary", "df/d01/a10140.html#a074536112fffc805dec44bd9cd602642", null ],
-    [ "~BoundaryUnionBoundary", "df/d01/a10140.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
-    [ "IsWithinBoundaryArea", "df/d01/a10140.html#a8dc91861fa6641008236e5a83030e0d1", null ],
-    [ "_b1", "df/d01/a10140.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
-    [ "_b2", "df/d01/a10140.html#ae70530673803bd2ee85bf722fe42718b", null ]
+    [ "ServerMailItems", "df/d01/a10140.html#a95cb2278da300c6b0385241f5a3950c1", null ],
+    [ "item", "df/d01/a10140.html#ae03738595a87a47e831bcbeea6f97d34", null ],
+    [ "itemCount", "df/d01/a10140.html#a4475d65dd5721d4af323ae93d15f4170", null ]
 ];

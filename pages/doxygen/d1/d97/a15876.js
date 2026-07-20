@@ -1,7 +1,9 @@
 var a15876 =
 [
-    [ "npc_giant_spotlightAI", "d1/d97/a15876.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "d1/d97/a15876.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "d1/d97/a15876.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "d1/d97/a15876.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "npc_prospector_remtravelAI", "d1/d97/a15876.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d1/d97/a15876.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d1/d97/a15876.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d1/d97/a15876.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d1/d97/a15876.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ],
+    [ "WaypointReached", "d1/d97/a15876.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

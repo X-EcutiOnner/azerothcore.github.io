@@ -1,6 +1,6 @@
 var a21804 =
 [
-    [ "ChangeSummonPos", "d7/d04/a21804.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "d7/d04/a21804.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "d7/d04/a21804.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "npc_lake_frogAI", "d8/d17/a21808.html", "d8/d17/a21808" ],
+    [ "npc_lake_frog", "d7/d04/a21804.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "d7/d04/a21804.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

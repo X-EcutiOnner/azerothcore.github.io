@@ -1,6 +1,9 @@
 var a19168 =
 [
-    [ "instance_icecrown_citadel_InstanceMapScript", "d5/d97/a19172.html", "d5/d97/a19172" ],
-    [ "instance_icecrown_citadel", "d7/df6/a19168.html#a0901e23025cff08d1a7516bbef099ffa", null ],
-    [ "GetInstanceScript", "d7/df6/a19168.html#a787c32626681f15f5515385a9ba6b848", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "d7/df6/a19168.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
+    [ "AttackStart", "d7/df6/a19168.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
+    [ "JustEngagedWith", "d7/df6/a19168.html#a7648c626ded6d3abef798b46c77f991d", null ],
+    [ "Reset", "d7/df6/a19168.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
+    [ "UpdateAI", "d7/df6/a19168.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
+    [ "events", "d7/df6/a19168.html#a5aaffc1e78c255c95893be1537e520d6", null ]
 ];

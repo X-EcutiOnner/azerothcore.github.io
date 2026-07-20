@@ -1,11 +1,9 @@
 var a12552 =
 [
-    [ "boss_high_interrogator_gerstahn", "de/d57/a12552.html#afaff4a9b18a2dc433ad9cfc73cd2cc01", null ],
-    [ "JustEngagedWith", "de/d57/a12552.html#ae8dae4df2f6c3b935382ae4ef473c55c", null ],
-    [ "Reset", "de/d57/a12552.html#acfc4e4c44d2eca050b2bdb558729dd6f", null ],
-    [ "UpdateAI", "de/d57/a12552.html#a5e13ecedeb376b86c91787d4f6b51db8", null ],
-    [ "_manaBurnTimer", "de/d57/a12552.html#a0c3eb9b1aefb055f8c97d723c536d1ab", null ],
-    [ "_psychicScreamTimer", "de/d57/a12552.html#a48508fa92aee209ea58257a1376ab7fb", null ],
-    [ "_shadowShieldTimer", "de/d57/a12552.html#abc4c2027036e1d79b88b29883d59565e", null ],
-    [ "_shadowWordPainTimer", "de/d57/a12552.html#aedd3fd6f34db795625835ac12c4c9bd8", null ]
+    [ "titles_commandscript", "de/d57/a12552.html#ac088fd907013150a0508b79c99f6c2f3", null ],
+    [ "GetCommands", "de/d57/a12552.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
+    [ "HandleTitlesAddCommand", "de/d57/a12552.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
+    [ "HandleTitlesCurrentCommand", "de/d57/a12552.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
+    [ "HandleTitlesRemoveCommand", "de/d57/a12552.html#a2001bcc2eddc5688d57154f9906218e4", null ],
+    [ "HandleTitlesSetMaskCommand", "de/d57/a12552.html#a9517b10295b856779cdd067234f640c8", null ]
 ];

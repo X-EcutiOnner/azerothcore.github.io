@@ -1,12 +1,18 @@
 var a15980 =
 [
-    [ "npc_toogaAI", "d0/de1/a15980.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
-    [ "MoveInLineOfSight", "d0/de1/a15980.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
-    [ "MovementInform", "d0/de1/a15980.html#a9315e8ba2688903aaf5b871a7490a700", null ],
-    [ "Reset", "d0/de1/a15980.html#acfedaf5cc989451a4259a65661685f66", null ],
-    [ "UpdateFollowerAI", "d0/de1/a15980.html#a742791e714be1ff713ab87e7d515bd9e", null ],
-    [ "CheckSpeechTimer", "d0/de1/a15980.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
-    [ "PhasePostEvent", "d0/de1/a15980.html#a4996291afa64e35f3604b2a85ea03dda", null ],
-    [ "PostEventTimer", "d0/de1/a15980.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
-    [ "TortaGUID", "d0/de1/a15980.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
+    [ "npc_clintar_spiritAI", "d0/de1/a15980.html#ab64c9da6af7246e1665a5264a26d75ab", null ],
+    [ "EnterEvadeMode", "d0/de1/a15980.html#a2ccffe81e2bd7cddcab10746bc9311bf", null ],
+    [ "IsSummonedBy", "d0/de1/a15980.html#af55bc32b17bfd45968e668c5591325ae", null ],
+    [ "JustDied", "d0/de1/a15980.html#a4e90511d9daf0545f0fee471f3ab0d5e", null ],
+    [ "Reset", "d0/de1/a15980.html#afd59b5e50deb65f7175138272f439740", null ],
+    [ "StartEvent", "d0/de1/a15980.html#ae3bbfd8374bf667d4eeb26e047ee2186", null ],
+    [ "UpdateAI", "d0/de1/a15980.html#a4b780f14cb2aa08c06e39a58501a21fe", null ],
+    [ "WaypointReached", "d0/de1/a15980.html#a98315f3202daaac261a1e7f0222b01c5", null ],
+    [ "WaypointReached", "d0/de1/a15980.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "checkPlayerTimer", "d0/de1/a15980.html#a10165a369bb8a7775050ae425cb94123", null ],
+    [ "CurrWP", "d0/de1/a15980.html#ae3b4588a2dfd337ffc71456652fa136f", null ],
+    [ "EventOnWait", "d0/de1/a15980.html#a7473dff3417d3e7510bc4fb7acbeb494", null ],
+    [ "EventTimer", "d0/de1/a15980.html#a27b0a90757df63df276b1e26bfbaba83", null ],
+    [ "PlayerGUID", "d0/de1/a15980.html#ad721852353215d46bc623efca358981f", null ],
+    [ "Step", "d0/de1/a15980.html#af9b65e2de0dcce5844fbc642b32f5a3f", null ]
 ];

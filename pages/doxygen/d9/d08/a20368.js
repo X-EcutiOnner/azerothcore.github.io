@@ -1,6 +1,7 @@
 var a20368 =
 [
-    [ "HandleInstaKill", "d9/d08/a20368.html#a593786eb89bf77e05dad4b502ffc1925", null ],
-    [ "PrepareSpellScript", "d9/d08/a20368.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
-    [ "Register", "d9/d08/a20368.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
+    [ "HandleEffectPeriodic", "d9/d08/a20368.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "d9/d08/a20368.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "d9/d08/a20368.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "d9/d08/a20368.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

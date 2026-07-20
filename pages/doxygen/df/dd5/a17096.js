@@ -1,8 +1,6 @@
 var a17096 =
 [
-    [ "npc_fos_corrupted_soul_fragment", "df/dd5/a17096.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
-    [ "Reset", "df/dd5/a17096.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
-    [ "UpdateAI", "df/dd5/a17096.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
-    [ "Instance", "df/dd5/a17096.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
-    [ "Timer", "df/dd5/a17096.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
+    [ "HandleEffectPeriodic", "df/dd5/a17096.html#a8775f4e2cb6be96f57596413d560206c", null ],
+    [ "PrepareAuraScript", "df/dd5/a17096.html#a45118f9887d248a5eb840b945dee5b79", null ],
+    [ "Register", "df/dd5/a17096.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
 ];

@@ -1,6 +1,6 @@
 var a24944 =
 [
-    [ "HandleDummy", "dc/d94/a24944.html#a0bcbef8a2d5978498556a217ac618fed", null ],
-    [ "PrepareSpellScript", "dc/d94/a24944.html#a5901c22f3a10fdbd21d934f5cb8cd76d", null ],
-    [ "Register", "dc/d94/a24944.html#a2c6d9c273a3d281dacefc20970912166", null ]
+    [ "HandleDummy", "dc/d94/a24944.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
+    [ "PrepareSpellScript", "dc/d94/a24944.html#af310c2b28ed816b9fbe494f81c42043c", null ],
+    [ "Register", "dc/d94/a24944.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
 ];

@@ -1,6 +1,6 @@
 var a21764 =
 [
-    [ "npc_boneguard_footmanAI", "dd/d62/a21764.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "dd/d62/a21764.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "dd/d62/a21764.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "npc_mrfloppyAI", "d8/d11/a21768.html", "d8/d11/a21768" ],
+    [ "npc_mrfloppy", "dd/d62/a21764.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "dd/d62/a21764.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

@@ -1,6 +1,6 @@
 var a09444 =
 [
-    [ "Visit", "d3/d39/a09444.html#ae01a3252ecf5083da0c5be5d4a845636", null ],
-    [ "Visit", "d3/d39/a09444.html#a7624bb11d51edffdc49fc9a95df847ef", null ],
-    [ "Visit", "d3/d39/a09444.html#a412c9cbe22dc645c87e002ddb1772a90", null ]
+    [ "m_guid", "d3/d39/a09444.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
+    [ "m_instance", "d3/d39/a09444.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
+    [ "m_state", "d3/d39/a09444.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
 ];

@@ -1,9 +1,5 @@
 var a29340 =
 [
-    [ "SetUp", "d1/dc4/a29340.html#a664590f345cd02660adef326355c7ca2", null ],
-    [ "TearDown", "d1/dc4/a29340.html#a366e1170be6f12739b2688c71763c8f0", null ],
-    [ "PERM_BAN", "d1/dc4/a29340.html#a393626fe7635a8452e69207085037782", null ],
-    [ "PERM_KICK", "d1/dc4/a29340.html#aa9b8c1e73b4828100386186637e30e90", null ],
-    [ "rbacData", "d1/dc4/a29340.html#a6e7cb23ddb2dc22611255dff42c85e89", null ],
-    [ "ROLE_GM", "d1/dc4/a29340.html#ac5d61d965657eccc145d01670a6f27bc", null ]
+    [ "type", "d1/dc4/a29340.html#af749459df7757d1bab17a54be813f6b6", null ],
+    [ "_type", "d1/dc4/a29340.html#ab0344571616786baef4511c647a3abea", null ]
 ];

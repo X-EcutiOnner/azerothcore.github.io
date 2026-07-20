@@ -1,10 +1,9 @@
 var a09192 =
 [
-    [ "MapType", "d6/d94/a09192.html#a8fa5f0aca9316901f42b2df8251c5a5d", null ],
-    [ "HashMapHolder", "d6/d94/a09192.html#ad10240097462af2a8a76c9429bd7cbca", null ],
-    [ "Find", "d6/d94/a09192.html#a314b4ce3265136fe326b909fe6ef6716", null ],
-    [ "GetContainer", "d6/d94/a09192.html#ad9dfe5d223496a379a4aec0fc12c42d9", null ],
-    [ "GetLock", "d6/d94/a09192.html#a52cc052c8d73d5b700c7f9253138942f", null ],
-    [ "Insert", "d6/d94/a09192.html#af5c618228c141e28ffa11468cfffb21a", null ],
-    [ "Remove", "d6/d94/a09192.html#a7b9c3761746641133d4a9837559c0bb0", null ]
+    [ "VehicleAccessory", "d6/d94/a09192.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
+    [ "AccessoryEntry", "d6/d94/a09192.html#a6e3cd6b20680974235c146d34b16295a", null ],
+    [ "IsMinion", "d6/d94/a09192.html#ace3fd27311370e4db4103f2c3ac70410", null ],
+    [ "SeatId", "d6/d94/a09192.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
+    [ "SummonedType", "d6/d94/a09192.html#afc843c62c580c860471b0e49f5901363", null ],
+    [ "SummonTime", "d6/d94/a09192.html#a13a024b3ceacf38ce4907b079d732420", null ]
 ];

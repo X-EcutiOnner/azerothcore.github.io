@@ -1,6 +1,7 @@
 var a19328 =
 [
-    [ "boss_kelthuzadAI", "d0/db0/a19332.html", "d0/db0/a19332" ],
-    [ "boss_kelthuzad", "d8/dec/a19328.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
-    [ "GetAI", "d8/dec/a19328.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
+    [ "HandleGameObjectDamage", "d8/dec/a19328.html#a811edfe01c1784664b5b4253d2305b4e", null ],
+    [ "PrepareSpellScript", "d8/dec/a19328.html#a0cfedeba2a747777de292b8f30b6752b", null ],
+    [ "Register", "d8/dec/a19328.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
+    [ "Validate", "d8/dec/a19328.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
 ];

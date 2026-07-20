@@ -1,7 +1,7 @@
 var a18644 =
 [
-    [ "CalculateBonus", "dc/d2e/a18644.html#ae149a739150cb7eb9fb67f19130c0510", null ],
-    [ "OnPeriodic", "dc/d2e/a18644.html#a19697bd65a325870becc1c30d7deff36", null ],
-    [ "PrepareAuraScript", "dc/d2e/a18644.html#a77c272d4a26323c421e4b264f79d5b66", null ],
-    [ "Register", "dc/d2e/a18644.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
+    [ "OnRemove", "dc/d2e/a18644.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "dc/d2e/a18644.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "dc/d2e/a18644.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "dc/d2e/a18644.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

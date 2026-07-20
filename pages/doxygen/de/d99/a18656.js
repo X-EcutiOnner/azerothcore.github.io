@@ -1,9 +1,7 @@
 var a18656 =
 [
-    [ "npc_spirit_wardenAI", "de/d99/a18656.html#a3391168478345d8b5c1fee151f6e9f04", null ],
-    [ "JustDied", "de/d99/a18656.html#aa762c0bea6361107312e8231508dc655", null ],
-    [ "Reset", "de/d99/a18656.html#ad6076663f65f43874feb0ecfc57718a4", null ],
-    [ "UpdateAI", "de/d99/a18656.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
-    [ "_events", "de/d99/a18656.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
-    [ "_instance", "de/d99/a18656.html#a58ebb8e42e77add79fc888248013eb24", null ]
+    [ "OnRemove", "de/d99/a18656.html#a106935d92ef6ba7909c57264e26b5522", null ],
+    [ "PrepareAuraScript", "de/d99/a18656.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
+    [ "Register", "de/d99/a18656.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
+    [ "Validate", "de/d99/a18656.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
 ];

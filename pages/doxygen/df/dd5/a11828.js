@@ -1,7 +1,7 @@
 var a11828 =
 [
-    [ "maxvalue", "df/dd5/a11828.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
-    [ "skill", "df/dd5/a11828.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
-    [ "step", "df/dd5/a11828.html#a1c882f7d43c65954cb99566225660312", null ],
-    [ "value", "df/dd5/a11828.html#a064fece53cdaf07b072510b14200a968", null ]
+    [ "effectMask", "df/dd5/a11828.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
+    [ "processed", "df/dd5/a11828.html#aedfa36678be863a558ecd0ecc07cc544", null ],
+    [ "targetGUID", "df/dd5/a11828.html#a619f98bf094d2667048204f733d64d0c", null ],
+    [ "timeDelay", "df/dd5/a11828.html#ab552326c0780fe62ff95b02249458492", null ]
 ];

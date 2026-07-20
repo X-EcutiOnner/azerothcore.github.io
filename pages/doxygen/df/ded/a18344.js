@@ -1,6 +1,6 @@
 var a18344 =
 [
-    [ "HandleSpecial", "df/ded/a18344.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "df/ded/a18344.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "df/ded/a18344.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "boss_rotfaceAI", "d3/ded/a18348.html", "d3/ded/a18348" ],
+    [ "boss_rotface", "df/ded/a18344.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "df/ded/a18344.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

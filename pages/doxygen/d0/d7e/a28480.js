@@ -1,7 +1,6 @@
 var a28480 =
 [
-    [ "npc_doctorAI", "d5/def/a28484.html", "d5/def/a28484" ],
-    [ "npc_doctor", "d0/d7e/a28480.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
-    [ "GetAI", "d0/d7e/a28480.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
-    [ "OnQuestAccept", "d0/d7e/a28480.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
+    [ "npc_necropolis_proxy", "d0/d7e/a28480.html#a73f92ee73673172989d48064e5984db0", null ],
+    [ "SpellHit", "d0/d7e/a28480.html#a90d1ab55683a6409403e24291643cca5", null ],
+    [ "SpellHitTarget", "d0/d7e/a28480.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
 ];

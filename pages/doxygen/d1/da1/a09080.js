@@ -1,11 +1,6 @@
 var a09080 =
 [
-    [ "SpellPeriodicAuraLogInfo", "d1/da1/a09080.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
-    [ "absorb", "d1/da1/a09080.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
-    [ "auraEff", "d1/da1/a09080.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
-    [ "critical", "d1/da1/a09080.html#a51041b901727b4f595d2a886520626ff", null ],
-    [ "damage", "d1/da1/a09080.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
-    [ "multiplier", "d1/da1/a09080.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
-    [ "overDamage", "d1/da1/a09080.html#a51904be3790c99bded697b2cf7c8db23", null ],
-    [ "resist", "d1/da1/a09080.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
+    [ "spellIdImmunityPredicate", "d1/da1/a09080.html#a04893e34d418a0649d51dfa82b559d9c", null ],
+    [ "operator()", "d1/da1/a09080.html#ae97afff7a6b3ea5dca917d3dbb9ef818", null ],
+    [ "_type", "d1/da1/a09080.html#a125dfe727d668b5b9820adf1f7f0e0a8", null ]
 ];

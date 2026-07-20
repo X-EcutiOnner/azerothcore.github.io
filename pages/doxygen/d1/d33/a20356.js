@@ -1,7 +1,15 @@
 var a20356 =
 [
-    [ "StoneGripTargetSelector", "d1/d33/a20356.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
-    [ "operator()", "d1/d33/a20356.html#ae40653def55e656f2347029a97605395", null ],
-    [ "_me", "d1/d33/a20356.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
-    [ "_victim", "d1/d33/a20356.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
+    [ "npc_ulduar_hodir_shaman", "d1/d33/a20356.html#a3277cda17d5409be3426bdaa61e092cd", null ],
+    [ "AttackStart", "d1/d33/a20356.html#a933908d61afac33002411874060c0f74", null ],
+    [ "CanAIAttack", "d1/d33/a20356.html#a8907c7300cef735a70b088de3c16cfb9", null ],
+    [ "EnterEvadeMode", "d1/d33/a20356.html#afa6124e630cd878659172a06df68d39f", null ],
+    [ "JustDied", "d1/d33/a20356.html#a08af85d3446c86443ff5a620b159d000", null ],
+    [ "MoveInLineOfSight", "d1/d33/a20356.html#a29de52dcae485f00403dae8e28ff1395", null ],
+    [ "ScheduleAbilities", "d1/d33/a20356.html#ab9aa67f07721c0bf60e9db75b5b3e888", null ],
+    [ "SpellHit", "d1/d33/a20356.html#a02476e4ddb2287c647a2a4bd7e342150", null ],
+    [ "SpellHitTarget", "d1/d33/a20356.html#a29dcb1ff2d532fa491fcdbdfcac4fbfa", null ],
+    [ "UpdateAI", "d1/d33/a20356.html#adf8d9895cdd35712fa44e4a19de1315a", null ],
+    [ "_instance", "d1/d33/a20356.html#aa09753bc9b54ea8dcc9b61a9ace77ae3", null ],
+    [ "events", "d1/d33/a20356.html#a7e147f6f230513cfb666473c61ab4be4", null ]
 ];

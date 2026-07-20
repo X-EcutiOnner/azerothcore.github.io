@@ -1,6 +1,7 @@
 var a15292 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "d6/d74/a15296.html", "d6/d74/a15296" ],
-    [ "instance_razorfen_downs", "d6/dab/a15292.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
-    [ "GetInstanceScript", "d6/dab/a15292.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
+    [ "boss_epoch_hunter", "d6/dab/a15292.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "d6/dab/a15292.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "d6/dab/a15292.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "d6/dab/a15292.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

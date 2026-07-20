@@ -1,10 +1,7 @@
 var a24896 =
 [
-    [ "Load", "df/d7b/a24896.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
-    [ "OnApply", "df/d7b/a24896.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
-    [ "OnRemove", "df/d7b/a24896.html#a29834c598d6ef8299d54e48a3461e603", null ],
-    [ "PrepareAuraScript", "df/d7b/a24896.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
-    [ "Register", "df/d7b/a24896.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
-    [ "Validate", "df/d7b/a24896.html#aeaf16594f569af671d221234a4aa2c8b", null ],
-    [ "prevItem", "df/d7b/a24896.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
+    [ "HandleApply", "df/d7b/a24896.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
+    [ "HandlePeriodicTimer", "df/d7b/a24896.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
+    [ "PrepareAuraScript", "df/d7b/a24896.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
+    [ "Register", "df/d7b/a24896.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
 ];

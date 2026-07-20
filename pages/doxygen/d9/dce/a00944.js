@@ -1,8 +1,8 @@
 var a00944 =
 [
-    [ "instance_magtheridons_lair", "d8/dcf/a23445.html", "d8/dcf/a23445" ],
-    [ "instance_magtheridons_lair::instance_magtheridons_lair_InstanceMapScript", "df/db8/a23449.html", "df/db8/a23449" ],
-    [ "AddSC_instance_magtheridons_lair", "d9/dce/a00944.html#a77e256ce8ca932c8d162a30715dc7c6f", null ],
-    [ "boundaries", "d9/dce/a00944.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "doorData", "d9/dce/a00944.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "MailScript", "d8/d7d/a10780.html", "d8/d7d/a10780" ],
+    [ "MailHook", "d9/dce/a00944.html#a7a2fb0cc0937712e8aff65574e1068d6", [
+      [ "MAILHOOK_ON_BEFORE_MAIL_DRAFT_SEND_MAIL_TO", "d9/dce/a00944.html#a7a2fb0cc0937712e8aff65574e1068d6a8f3555a10968fd2749e256067782760f", null ],
+      [ "MAILHOOK_END", "d9/dce/a00944.html#a7a2fb0cc0937712e8aff65574e1068d6a97af521f76b0d427812db0ac3303f285", null ]
+    ] ]
 ];

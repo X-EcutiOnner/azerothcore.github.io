@@ -1,7 +1,5 @@
 var a27880 =
 [
-    [ "go_darkmoon_faire_musicAI", "d4/d04/a27880.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
-    [ "UpdateAI", "d4/d04/a27880.html#af3d802bd852fc0483f72781edb13b5d5", null ],
-    [ "_events", "d4/d04/a27880.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
-    [ "rnd", "d4/d04/a27880.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
+    [ "AreaTrigger_at_scent_larkorwi", "d4/d04/a27880.html#a967a43eae4cc986754eed9ee8291c17e", null ],
+    [ "OnTrigger", "d4/d04/a27880.html#aeeb339afa5a7dd4b028aea800026998e", null ]
 ];

@@ -1,5 +1,6 @@
 var a19572 =
 [
-    [ "achievement_intense_cold", "dc/d47/a19572.html#a2377357d6bfc03e5b91354428d3da3de", null ],
-    [ "OnCheck", "dc/d47/a19572.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
+    [ "npc_teslaAI", "d8/d5d/a19576.html", "d8/d5d/a19576" ],
+    [ "npc_tesla", "dc/d47/a19572.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
+    [ "GetAI", "dc/d47/a19572.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
 ];

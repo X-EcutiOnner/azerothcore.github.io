@@ -1,9 +1,9 @@
 var a08904 =
 [
-    [ "areaFlag", "dd/dce/a08904.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
-    [ "areaID", "dd/dce/a08904.html#a455a890a1d82d31873873ac497cb83b7", null ],
-    [ "x1", "dd/dce/a08904.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
-    [ "x2", "dd/dce/a08904.html#aebdb021c0b9c40d624d5115b24616a12", null ],
-    [ "y1", "dd/dce/a08904.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
-    [ "y2", "dd/dce/a08904.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
+    [ "category", "dd/dce/a08904.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
+    [ "end", "dd/dce/a08904.html#a8cc857ef51745900398765164a450a50", null ],
+    [ "itemid", "dd/dce/a08904.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
+    [ "maxduration", "dd/dce/a08904.html#a94b98afb7651e2c6b99ee79f85702259", null ],
+    [ "needSendToClient", "dd/dce/a08904.html#a678f56b6723567f984a0188b85a6f9df", null ],
+    [ "sendToSpectator", "dd/dce/a08904.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
 ];

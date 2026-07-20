@@ -1,6 +1,6 @@
 var a25524 =
 [
-    [ "OnRemove", "db/ddf/a25524.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
-    [ "PrepareAuraScript", "db/ddf/a25524.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
-    [ "Register", "db/ddf/a25524.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
+    [ "HandleStackDrop", "db/ddf/a25524.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
+    [ "PrepareAuraScript", "db/ddf/a25524.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
+    [ "Register", "db/ddf/a25524.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
 ];

@@ -1,6 +1,7 @@
 var a14336 =
 [
-    [ "boss_hakkarAI", "da/d36/a14340.html", "da/d36/a14340" ],
-    [ "boss_hakkar", "d2/d4e/a14336.html#a834bd1f223154fbf1be94bf43136da28", null ],
-    [ "GetAI", "d2/d4e/a14336.html#aff3a089e30dcddfde4db372104153723", null ]
+    [ "spell", "d2/d4e/a14336.html#a55423d09b2f1775dc386a36168ad764d", null ],
+    [ "spiritEntry", "d2/d4e/a14336.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
+    [ "text", "d2/d4e/a14336.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
+    [ "unaura", "d2/d4e/a14336.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
 ];

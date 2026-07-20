@@ -1,5 +1,6 @@
 var a12680 =
 [
-    [ "at_blackrock_stadium", "de/de1/a12680.html#a9f577437f231a189c02e50e71ffcb85a", null ],
-    [ "OnTrigger", "de/de1/a12680.html#a26e43099d9253ea44060194e3b38c656", null ]
+    [ "boss_high_priestess_thaurissan", "de/de1/a12680.html#a72b25580dc84301be59d72df45a3ac87", null ],
+    [ "JustEngagedWith", "de/de1/a12680.html#aa8ba467dd5633e96a20c634880710936", null ],
+    [ "UpdateAI", "de/de1/a12680.html#a66612582a2362e4f07d7a2bda529af06", null ]
 ];

@@ -1,7 +1,5 @@
 var a22424 =
 [
-    [ "npc_blade_of_azzinoth", "dd/db5/a22424.html#a55afe56313c237afe8080662b2ed2dba", null ],
-    [ "DoAction", "dd/db5/a22424.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
-    [ "IsSummonedBy", "dd/db5/a22424.html#af2925da1235b809ee81469fe32ab0f92", null ],
-    [ "JustSummoned", "dd/db5/a22424.html#a501e2d1ae9af813fd9c30395e7774983", null ]
+    [ "OutdoorPvP_zangarmarsh", "dd/db5/a22424.html#ae287d5df21bf75efab6c651f4f3d875e", null ],
+    [ "GetOutdoorPvP", "dd/db5/a22424.html#a145ddfe383663ed3fb46960e39691f8f", null ]
 ];

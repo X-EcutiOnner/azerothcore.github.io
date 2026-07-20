@@ -1,9 +1,9 @@
 var a24700 =
 [
-    [ "spell_gen_select_target_count", "df/d98/a24700.html#a65507c155a8746ff49c58c051b7868e4", null ],
-    [ "FilterTargets", "df/d98/a24700.html#a5de89be9ce321a0f4ac49853a700b502", null ],
-    [ "PrepareSpellScript", "df/d98/a24700.html#a42ddce15414dcdf495b572e0f75e9486", null ],
-    [ "Register", "df/d98/a24700.html#a94f86992275123e2e3989655cf077efd", null ],
-    [ "_count", "df/d98/a24700.html#acdf5daa848ae185b859c45a1271df68c", null ],
-    [ "_effTarget", "df/d98/a24700.html#a9c54508790062277c8275d2466e93fb3", null ]
+    [ "FilterTargets", "df/d98/a24700.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
+    [ "PrepareSpellScript", "df/d98/a24700.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
+    [ "Register", "df/d98/a24700.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
+    [ "SetTargets", "df/d98/a24700.html#ac77e95af9b08118e87e3329eab5515ea", null ],
+    [ "Validate", "df/d98/a24700.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
+    [ "_targets", "df/d98/a24700.html#acc66768f54c514552f0ab01274c24f17", null ]
 ];

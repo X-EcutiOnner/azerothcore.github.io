@@ -1,8 +1,5 @@
 var a23200 =
 [
-    [ "boss_broggok", "df/dab/a23200.html#ae20c04793116d3e8eab62d2ee27010df", null ],
-    [ "DoAction", "df/dab/a23200.html#af5de5a1747c502f72af015c09d050354", null ],
-    [ "JustEngagedWith", "df/dab/a23200.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
-    [ "JustSummoned", "df/dab/a23200.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
-    [ "Reset", "df/dab/a23200.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
+    [ "boss_quagmirran", "df/dab/a23200.html#a7f6289b86216b052f434a1417023e22c", null ],
+    [ "JustEngagedWith", "df/dab/a23200.html#a28253b6653bd2e26e7f246c71a88b625", null ]
 ];

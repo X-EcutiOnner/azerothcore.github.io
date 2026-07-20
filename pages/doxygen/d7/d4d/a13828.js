@@ -1,6 +1,8 @@
 var a13828 =
 [
-    [ "ChangeSummonPos", "d7/d4d/a13828.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "d7/d4d/a13828.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "d7/d4d/a13828.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "FilterTargets", "d7/d4d/a13828.html#a3aac5e364d04a4a086aaa911051417d5", null ],
+    [ "HandleDummy", "d7/d4d/a13828.html#aa0705dee3edeca7b61f82581f367e94a", null ],
+    [ "PrepareSpellScript", "d7/d4d/a13828.html#a1efa036eac25d789850849dc1b209379", null ],
+    [ "Register", "d7/d4d/a13828.html#a656b512d5bef657004a72acbf7875760", null ],
+    [ "Validate", "d7/d4d/a13828.html#a33534d9fd70af99bbde1e4a908d22084", null ]
 ];

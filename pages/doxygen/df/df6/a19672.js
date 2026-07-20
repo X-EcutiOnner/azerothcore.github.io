@@ -1,12 +1,15 @@
 var a19672 =
 [
-    [ "npc_oculus_drakeAI", "df/df6/a19672.html#a214d9b77a5653f1a5f60106081eaf683", null ],
-    [ "IsSummonedBy", "df/df6/a19672.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
-    [ "MovementInform", "df/df6/a19672.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
-    [ "PassengerBoarded", "df/df6/a19672.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
-    [ "SpellHitTarget", "df/df6/a19672.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
-    [ "UpdateAI", "df/df6/a19672.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
-    [ "despawnTimer", "df/df6/a19672.html#a560dc0936a78267a4036b209c6718732", null ],
-    [ "JustSummoned", "df/df6/a19672.html#a8b656a464525e881944e72e9486b0eb9", null ],
-    [ "m_pInstance", "df/df6/a19672.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
+    [ "boss_anomalus", "df/df6/a19672.html#aa4dd8fac7c360beb834382f624ed2246", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "df/df6/a19672.html#ada0735330bff29a8c04706c980e6bbfc", null ],
+    [ "GetData", "df/df6/a19672.html#ad48aebb50cda7ee621f71803669f04c2", null ],
+    [ "JustDied", "df/df6/a19672.html#a41e257481921a122dba30348559e05fb", null ],
+    [ "JustEngagedWith", "df/df6/a19672.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
+    [ "JustSummoned", "df/df6/a19672.html#a3c0413f30d96268cab724856334e61ee", null ],
+    [ "Reset", "df/df6/a19672.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
+    [ "SetData", "df/df6/a19672.html#aa79ec9829862b573cd0f38f965d737e8", null ],
+    [ "UpdateAI", "df/df6/a19672.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
+    [ "_empowered", "df/df6/a19672.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
+    [ "achievement", "df/df6/a19672.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
+    [ "activeRifts", "df/df6/a19672.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
 ];

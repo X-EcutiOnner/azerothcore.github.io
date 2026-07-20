@@ -1,7 +1,14 @@
 var a12724 =
 [
-    [ "HandleScript", "da/d4a/a12724.html#a0d244cc1785b136bae0960d697dc761d", null ],
-    [ "PrepareSpellScript", "da/d4a/a12724.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
-    [ "Register", "da/d4a/a12724.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
-    [ "Validate", "da/d4a/a12724.html#a1413754f3a79caf8ec57d394c68f3499", null ]
+    [ "boss_lord_valthalak", "da/d4a/a12724.html#a26fd09b5f1e3429cacb90f3aaff1a105", null ],
+    [ "DamageTaken", "da/d4a/a12724.html#adf174f2b50e76a721c034a13f1946875", null ],
+    [ "IsSummonedBy", "da/d4a/a12724.html#aaa4f24a056e7a0598ff7a399802ac32c", null ],
+    [ "JustDied", "da/d4a/a12724.html#a084cc36f08a1decd2d262b7a9eb59f6b", null ],
+    [ "JustEngagedWith", "da/d4a/a12724.html#aaa9835ca1d7d81ee177202138be4bad5", null ],
+    [ "Reset", "da/d4a/a12724.html#a0494a1b6cc00b40f627a58d790424567", null ],
+    [ "StartFighting", "da/d4a/a12724.html#a3135ff2a25ee9c4286623cb570cc03f3", null ],
+    [ "StartTalking", "da/d4a/a12724.html#ace3e47ef60b3761d860677648fabdd9d", null ],
+    [ "UpdateAI", "da/d4a/a12724.html#a49a438bff5aadc58ae69b00cd2ce68d1", null ],
+    [ "_frenzy15", "da/d4a/a12724.html#acc7ba74226b04ee9a62233e473f68f7b", null ],
+    [ "_frenzy40", "da/d4a/a12724.html#a7d8cd5bedfb8c5bfc1ac4bdc0efff2bf", null ]
 ];

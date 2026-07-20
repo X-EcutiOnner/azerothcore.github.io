@@ -1,7 +1,6 @@
 var a16760 =
 [
-    [ "npc_toc_priestAI", "d9/dc4/a16760.html#aa362d2136193a8738e311bba18b87c90", null ],
-    [ "myCanCast", "d9/dc4/a16760.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
-    [ "UpdateAI", "d9/dc4/a16760.html#ae51d2ac95320909150c673b76c9856c7", null ],
-    [ "events", "d9/dc4/a16760.html#aa5be20e87351424e0e4698540fc1fef4", null ]
+    [ "npc_toc5_grand_champion_minionAI", "db/d4f/a16764.html", "db/d4f/a16764" ],
+    [ "npc_toc5_grand_champion_minion", "d9/dc4/a16760.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
+    [ "GetAI", "d9/dc4/a16760.html#a55acf397b94ba63b1db626dc1041b28e", null ]
 ];

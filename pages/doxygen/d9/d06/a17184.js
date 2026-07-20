@@ -1,8 +1,7 @@
 var a17184 =
 [
-    [ "npc_phantom_hallucination", "d9/d06/a17184.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
-    [ "EnterEvadeMode", "d9/d06/a17184.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
-    [ "JustDied", "d9/d06/a17184.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
-    [ "UpdateAI", "d9/d06/a17184.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
-    [ "numOfUpd", "d9/d06/a17184.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
+    [ "HandleScriptEffect", "d9/d06/a17184.html#a62cef31900cd61167823f3e66aa2d64b", null ],
+    [ "PrepareSpellScript", "d9/d06/a17184.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
+    [ "Register", "d9/d06/a17184.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
+    [ "Validate", "d9/d06/a17184.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
 ];

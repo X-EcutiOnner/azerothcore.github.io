@@ -1,9 +1,4 @@
 var a05956 =
 [
-    [ "AccountFlags", "dc/dc1/a05956.html#aa8e111f748d165f854b2deff5a81577f", null ],
-    [ "cmd", "dc/dc1/a05956.html#a5846630b9df94b9f4784e59e7f320257", null ],
-    [ "error", "dc/dc1/a05956.html#a5cbbda99be5cd0549dd43fc0e546007e", null ],
-    [ "LoginFlags", "dc/dc1/a05956.html#adb807963195c0abbb840aca64499f630", null ],
-    [ "M2", "dc/dc1/a05956.html#a2199b33bc93fb6a8add5ba36eab0514e", null ],
-    [ "SurveyId", "dc/dc1/a05956.html#ad05c428ccd8fbdce40dc4f337de19fb8", null ]
+    [ "value", "dc/dc1/a05956.html#a33bcf73dbeb7103a6e34c8de0185e611", null ]
 ];

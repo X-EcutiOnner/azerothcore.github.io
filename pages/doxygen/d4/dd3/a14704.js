@@ -1,9 +1,9 @@
 var a14704 =
 [
-    [ "entries", "d4/dd3/a14704.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
-    [ "entries", "d4/dd3/a14704.html#a953850b267eb6f599bb49d82080bdf64", null ],
-    [ "revelerId", "d4/dd3/a14704.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
-    [ "schedule", "d4/dd3/a14704.html#a318d5e1c78e24df88077fe33ba5d9b5b", null ],
-    [ "size", "d4/dd3/a14704.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
-    [ "spawns", "d4/dd3/a14704.html#a54ef87964b52bb4fc2cc2846afd7e7d3", null ]
+    [ "npc_brew_bubble", "d4/dd3/a14704.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
+    [ "DoAction", "d4/dd3/a14704.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
+    [ "MoveInLineOfSight", "d4/dd3/a14704.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
+    [ "Reset", "d4/dd3/a14704.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
+    [ "UpdateAI", "d4/dd3/a14704.html#a25018deaa206620f6e98ba722f689b8d", null ],
+    [ "timer", "d4/dd3/a14704.html#a4bee73add756ba4b3137818b2dacd27f", null ]
 ];

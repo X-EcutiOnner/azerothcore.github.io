@@ -1,9 +1,15 @@
 var a14396 =
 [
-    [ "boss_jindo", "df/d34/a14396.html#a9aafe0282e0b5de90ce62b3f8b3cfb14", null ],
-    [ "EnterEvadeMode", "df/d34/a14396.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500", null ],
-    [ "JustEngagedWith", "df/d34/a14396.html#a7f612a1e5033c5097856222cee41f2af", null ],
-    [ "JustSummoned", "df/d34/a14396.html#ac7382289d174ec70703b76dc4e451d39", null ],
-    [ "UpdateAI", "df/d34/a14396.html#aad8885f79fc527954102fc1b78ca8ad7", null ],
-    [ "_scheduler", "df/d34/a14396.html#a7ddbdc4d85936fd54fced20ff31e91cd", null ]
+    [ "npc_amanishi_tempest", "df/d34/a14396.html#a8e15b39501998e9f8c45baef0963d160", null ],
+    [ "DoAction", "df/d34/a14396.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
+    [ "EnterEvadeMode", "df/d34/a14396.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
+    [ "JustDied", "df/d34/a14396.html#aadda903d17a5f4560ce2db896bd7b257", null ],
+    [ "JustEngagedWith", "df/d34/a14396.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
+    [ "JustSummoned", "df/d34/a14396.html#aac72fdc33051370c3cffa388f466b6be", null ],
+    [ "Reset", "df/d34/a14396.html#aa921f85142f9103bea839bdc0330e1cc", null ],
+    [ "ScheduleEvents", "df/d34/a14396.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
+    [ "SummonedCreatureEvade", "df/d34/a14396.html#a61eebb122c9288c826cdf352c17e0590", null ],
+    [ "UpdateAI", "df/d34/a14396.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
+    [ "_instance", "df/d34/a14396.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
+    [ "_summons", "df/d34/a14396.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
 ];

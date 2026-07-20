@@ -1,6 +1,7 @@
 var a17872 =
 [
-    [ "npc_gunship_boarding_add_realAI", "d0/d25/a17872.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
-    [ "UpdateAI", "d0/d25/a17872.html#a33ac355c8f61907574a0736a24cbee82", null ],
-    [ "_events", "d0/d25/a17872.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
+    [ "HandleProc", "d0/d25/a17872.html#a235f04bd360ba7219aa2e1bc1a249047", null ],
+    [ "PrepareAuraScript", "d0/d25/a17872.html#a7cfa73ed3280d518baee1b0fa6bb4e76", null ],
+    [ "Register", "d0/d25/a17872.html#acc0881cf7379525a0841426867d2d850", null ],
+    [ "Validate", "d0/d25/a17872.html#a9be1b3b57bd2ee5995ad101369dac17c", null ]
 ];

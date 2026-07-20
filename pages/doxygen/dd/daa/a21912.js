@@ -1,8 +1,6 @@
 var a21912 =
 [
-    [ "CheckCast", "dd/daa/a21912.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "dd/daa/a21912.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "dd/daa/a21912.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "dd/daa/a21912.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "dd/daa/a21912.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "npc_lord_areteAI", "d0/d8c/a21916.html", "d0/d8c/a21916" ],
+    [ "npc_lord_arete", "dd/daa/a21912.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
+    [ "GetAI", "dd/daa/a21912.html#a212d003e9acb5f141197b5c4d10163a4", null ]
 ];

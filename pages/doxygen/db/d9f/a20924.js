@@ -1,6 +1,6 @@
 var a20924 =
 [
-    [ "npc_ferocious_rhinoAI", "dd/d10/a20928.html", "dd/d10/a20928" ],
-    [ "npc_ferocious_rhino", "db/d9f/a20924.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
-    [ "GetAI", "db/d9f/a20924.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
+    [ "OnEffect", "db/d9f/a20924.html#aa24cfd6feec65f466e74c68484815c1e", null ],
+    [ "PrepareSpellScript", "db/d9f/a20924.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
+    [ "Register", "db/d9f/a20924.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
 ];

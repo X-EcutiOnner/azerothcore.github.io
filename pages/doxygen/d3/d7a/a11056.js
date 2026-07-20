@@ -1,5 +1,8 @@
 var a11056 =
 [
-    [ "GuildDelete", "d3/d7a/a11056.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
-    [ "Read", "d3/d7a/a11056.html#ae5ca379b187902323638f4c10be0a4d0", null ]
+    [ "GuildEvent", "d3/d7a/a11056.html#a78be16122c01d4c68d67e050ede92006", null ],
+    [ "Write", "d3/d7a/a11056.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
+    [ "Guid", "d3/d7a/a11056.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
+    [ "Params", "d3/d7a/a11056.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
+    [ "Type", "d3/d7a/a11056.html#a961ae90991fa23bfc94a054dba357392", null ]
 ];

@@ -1,14 +1,6 @@
 var a23500 =
 [
-    [ "advisor_baseAI", "d5/dd4/a23500.html#a3c68b7ee961af2d9dabb15c7e054d45b", null ],
-    [ "DamageTaken", "d5/dd4/a23500.html#a678d09ec3b3d5a4d922a0fc117192349", null ],
-    [ "JustDied", "d5/dd4/a23500.html#a8da09edce761f1f1e1b7eb96ec7a529b", null ],
-    [ "JustEngagedWith", "d5/dd4/a23500.html#a1e4b1ff264f4c1586515f56531b77dea", null ],
-    [ "JustRespawned", "d5/dd4/a23500.html#a6491439ac2fd4acec3379a17be92251e", null ],
-    [ "Reset", "d5/dd4/a23500.html#a008c30414ecebf4e2996d06b81539255", null ],
-    [ "ScheduleEvents", "d5/dd4/a23500.html#a24d22ccec834770bc5bcf44119fb0045", null ],
-    [ "SpellHit", "d5/dd4/a23500.html#a4fc41f3985244b6baf25b3417f67054e", null ],
-    [ "UpdateAI", "d5/dd4/a23500.html#aa89d3479b2e0bd8dd18572135aa45235", null ],
-    [ "_feigning", "d5/dd4/a23500.html#ae1c2011ba993c8d589bf6fe45602ac41", null ],
-    [ "_preventDeath", "d5/dd4/a23500.html#ab6c4a3f241fa5417f0a1d450ddb811ca", null ]
+    [ "boss_porung", "d5/dd4/a23500.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "d5/dd4/a23500.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "d5/dd4/a23500.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

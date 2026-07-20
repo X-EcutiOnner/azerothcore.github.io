@@ -1,7 +1,7 @@
 var a14968 =
 [
-    [ "HandleOnHit", "dd/d0f/a14968.html#ae3241486a612293b5421a523f6d854d9", null ],
-    [ "PrepareSpellScript", "dd/d0f/a14968.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
-    [ "Register", "dd/d0f/a14968.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
-    [ "Validate", "dd/d0f/a14968.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
+    [ "HandleEffectApply", "dd/d0f/a14968.html#a404f2134734e1d21201033b3f26e611e", null ],
+    [ "HandleEffectPeriodic", "dd/d0f/a14968.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
+    [ "PrepareAuraScript", "dd/d0f/a14968.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
+    [ "Register", "dd/d0f/a14968.html#ad239472c15ca0c73b053d112f538ecff", null ]
 ];

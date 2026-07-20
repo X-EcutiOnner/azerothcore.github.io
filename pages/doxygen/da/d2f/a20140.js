@@ -1,5 +1,9 @@
 var a20140 =
 [
-    [ "boss_freya_iron_root", "da/d2f/a20140.html#af35a268c89c025d95c13ea8c87d6516e", null ],
-    [ "JustDied", "da/d2f/a20140.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ]
+    [ "npc_hodirs_fury", "da/d2f/a20140.html#abda902842d76a0a5a17196a11654f5ab", null ],
+    [ "MovementInform", "da/d2f/a20140.html#a4d82007c5b70edad74b461948629b9fb", null ],
+    [ "Reset", "da/d2f/a20140.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
+    [ "UpdateAI", "da/d2f/a20140.html#a58a8b1664bb00b930cce86e856facb8b", null ],
+    [ "_switchTargetTimer", "da/d2f/a20140.html#a9736332e6f3d163f04aa12cbd6829670", null ],
+    [ "_timeToHit", "da/d2f/a20140.html#a611d171dc27bd78d298040eabfc00e5f", null ]
 ];

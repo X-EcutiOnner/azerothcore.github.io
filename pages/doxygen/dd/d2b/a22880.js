@@ -1,6 +1,6 @@
 var a22880 =
 [
-    [ "FilterTargets", "dd/d2b/a22880.html#ac20676c292d87276e444bad56d71960d", null ],
-    [ "PrepareSpellScript", "dd/d2b/a22880.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
-    [ "Register", "dd/d2b/a22880.html#ae356b768872de3e87806c19bf8cccb08", null ]
+    [ "PrepareSpellScript", "dd/d2b/a22880.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
+    [ "Register", "dd/d2b/a22880.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
+    [ "RemoveSpines", "dd/d2b/a22880.html#a076b056328ba6181a6ec907f21258f9d", null ]
 ];

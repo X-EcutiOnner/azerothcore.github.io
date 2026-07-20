@@ -1,6 +1,8 @@
 var a18904 =
 [
-    [ "npc_captain_arnathAI", "d6/d35/a18908.html", "d6/d35/a18908" ],
-    [ "npc_captain_arnath", "da/dc7/a18904.html#ab96afce64a7714ea84bab932f80c9302", null ],
-    [ "GetAI", "da/dc7/a18904.html#a302ec007389e677011334d78f410207b", null ]
+    [ "npc_suppresserAI", "da/dc7/a18904.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "da/dc7/a18904.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "da/dc7/a18904.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "da/dc7/a18904.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "da/dc7/a18904.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

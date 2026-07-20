@@ -1,5 +1,6 @@
 var a11032 =
 [
-    [ "Flags", "d7/dc0/a11032.html#af1d25fa760cdbfa907a1b6e0002f0e70", null ],
-    [ "WithdrawItemLimit", "d7/dc0/a11032.html#aa7bb5355ee174f3b9dd32c659e0f7806", null ]
+    [ "GuildUpdateMotdText", "d7/dc0/a11032.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
+    [ "Read", "d7/dc0/a11032.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
+    [ "MotdText", "d7/dc0/a11032.html#a5b2ee458a919be7f912d49cf984490ac", null ]
 ];

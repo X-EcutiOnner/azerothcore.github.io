@@ -1,7 +1,10 @@
 var a14168 =
 [
-    [ "Load", "df/d04/a14168.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
-    [ "OnRemove", "df/d04/a14168.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
-    [ "PrepareAuraScript", "df/d04/a14168.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
-    [ "Register", "df/d04/a14168.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
+    [ "npc_tyrion_spybotAI", "df/d04/a14168.html#aedad685279012266637d29069ead9063", null ],
+    [ "Reset", "df/d04/a14168.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
+    [ "UpdateAI", "df/d04/a14168.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
+    [ "WaypointReached", "df/d04/a14168.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
+    [ "WaypointReached", "df/d04/a14168.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "uiPhase", "df/d04/a14168.html#af5dbb99fe18d96665efd04bd53294636", null ],
+    [ "uiTimer", "df/d04/a14168.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
 ];

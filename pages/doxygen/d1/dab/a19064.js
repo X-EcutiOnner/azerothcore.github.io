@@ -1,6 +1,7 @@
 var a19064 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "d5/dad/a19068.html", "d5/dad/a19068" ],
-    [ "npc_icc_skybreaker_luminary", "d1/dab/a19064.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
-    [ "GetAI", "d1/dab/a19064.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
+    [ "npc_impaling_spearAI", "d1/dab/a19064.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
+    [ "Reset", "d1/dab/a19064.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
+    [ "UpdateAI", "d1/dab/a19064.html#acb187a58b0ba256b4e003655ac36db34", null ],
+    [ "_vehicleCheckTimer", "d1/dab/a19064.html#a264874b9f6f0609792d4b3a325e54f59", null ]
 ];

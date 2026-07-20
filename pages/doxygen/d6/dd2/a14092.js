@@ -1,7 +1,7 @@
 var a14092 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d6/dd2/a14092.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
-    [ "Reset", "d6/dd2/a14092.html#a18de805428ce0954a5fbfffbf5975342", null ],
-    [ "UpdateAI", "d6/dd2/a14092.html#a48b191d0812bfe3212511a52ef0df817", null ],
-    [ "_events", "d6/dd2/a14092.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
+    [ "npc_king_magni_bronzebeard", "d6/dd2/a14092.html#af100ccf11c9d266be439318519280a9a", null ],
+    [ "JustDied", "d6/dd2/a14092.html#a3323285cc5c4cee9df001e83584b8114", null ],
+    [ "JustEngagedWith", "d6/dd2/a14092.html#a8c92169605d30c82f4699ff2b29101a6", null ],
+    [ "UpdateAI", "d6/dd2/a14092.html#ad23891becf07d991c5ffc4f89719fa04", null ]
 ];

@@ -1,6 +1,10 @@
 var a26704 =
 [
-    [ "CheckRequirement", "de/d79/a26704.html#acaae3858de4d56028e3cb4581a57450c", null ],
-    [ "PrepareSpellScript", "de/d79/a26704.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
-    [ "Register", "de/d79/a26704.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
+    [ "CheckProc", "de/d79/a26704.html#adce0da60782bcdadbb42ec1c73fddec1", null ],
+    [ "HandleProc", "de/d79/a26704.html#a82218c6f6319c60c26a7d4ec01b64bf9", null ],
+    [ "Load", "de/d79/a26704.html#ab9054a6d771022e4bf2b495c30ad8361", null ],
+    [ "PrepareAuraScript", "de/d79/a26704.html#ab8f483be4d01aa2460c90b043d7a441b", null ],
+    [ "Register", "de/d79/a26704.html#a4cb08499767ab58f0e525c382b662fbd", null ],
+    [ "Validate", "de/d79/a26704.html#aa6165f28706d49940dd1f62065631119", null ],
+    [ "_procTarget", "de/d79/a26704.html#a7b9426e18b454bf631992518c2bdbde0", null ]
 ];

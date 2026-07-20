@@ -1,6 +1,6 @@
 var a27588 =
 [
-    [ "HandleProc", "d5/dce/a27588.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
-    [ "PrepareAuraScript", "d5/dce/a27588.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
-    [ "Register", "d5/dce/a27588.html#adf0852d1aad8097143df205a66a49f2f", null ]
+    [ "PrepareAuraScript", "d5/dce/a27588.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "d5/dce/a27588.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "d5/dce/a27588.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

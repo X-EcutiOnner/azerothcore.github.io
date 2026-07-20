@@ -1,10 +1,16 @@
 var a07900 =
 [
-    [ "InvokerEntry", "d0/dd3/a07900.html#aa195cc806a02e56a8125bfc039b83c37", null ],
-    [ "InvokerEntry", "d0/dd3/a07900.html#ab0ae915bcd0b6cb738f66398ba06bd63", null ],
-    [ "InvokerEntry", "d0/dd3/a07900.html#ae0b19dcb745635a783d52bae6f237b47", null ],
-    [ "operator*", "d0/dd3/a07900.html#ae42d24aad13fe622f6d5ec35d72c1c96", null ],
-    [ "_help", "d0/dd3/a07900.html#a107ccda1e3b21600fd133a243a8d2c9c", null ],
-    [ "_invoker", "d0/dd3/a07900.html#a1f9da7b4e2a968b1cf51b227c79f0d1d", null ],
-    [ "_permissions", "d0/dd3/a07900.html#a9567278ccb4896bcb2e8293df0ab909f", null ]
+    [ "Print", "d0/dd3/a07900.html#a7a3f746595d9ca126747f5e0ba52c71b", null ],
+    [ "CliHandler", "d0/dd3/a07900.html#a6a7ba928db9d41743d7cebd1ad98b084", null ],
+    [ "GetAcoreString", "d0/dd3/a07900.html#ab12ec41c55bc5f92461abff538a76b66", null ],
+    [ "GetModuleString", "d0/dd3/a07900.html#aefd8e9833bbe24c6414dc6259d078df6", null ],
+    [ "GetNameLink", "d0/dd3/a07900.html#ae879bbfa69992caa7a0b1b2b3c7d939c", null ],
+    [ "GetSessionDbcLocale", "d0/dd3/a07900.html#a610f7431dc7b064c964e0d446160d19f", null ],
+    [ "GetSessionDbLocaleIndex", "d0/dd3/a07900.html#a5a2118d9227aa53818d736e387d77dea", null ],
+    [ "HasSession", "d0/dd3/a07900.html#a1cd4aabe4c61e3899a1e6d6785742abe", null ],
+    [ "needReportToTarget", "d0/dd3/a07900.html#ad8c4ee6e45afff55d94dea9704bd2097", null ],
+    [ "ParseCommands", "d0/dd3/a07900.html#abbd02247d6094bf39b2791ba45e9942e", null ],
+    [ "SendSysMessage", "d0/dd3/a07900.html#a636be10a282a8d100b807dac119b3ff6", null ],
+    [ "m_callbackArg", "d0/dd3/a07900.html#aa1fafd68fca180506cc15680b695db9e", null ],
+    [ "m_print", "d0/dd3/a07900.html#aadeaa84ce5d26951f506a2656c1d64d2", null ]
 ];

@@ -1,6 +1,7 @@
 var a26636 =
 [
-    [ "CheckCast", "d2/d99/a26636.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "d2/d99/a26636.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "d2/d99/a26636.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "OnProc", "d2/d99/a26636.html#a0a85e641521f1e9b7fd074f7edde97ac", null ],
+    [ "PrepareAuraScript", "d2/d99/a26636.html#a4ff27309c8848a6155ad28809ace5cba", null ],
+    [ "Register", "d2/d99/a26636.html#a20b6a18ce3fac99689b958b384da7836", null ],
+    [ "Validate", "d2/d99/a26636.html#ac4275cca4f974a5a131e4dc1be8eed23", null ]
 ];

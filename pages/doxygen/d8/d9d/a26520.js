@@ -1,6 +1,6 @@
 var a26520 =
 [
-    [ "HandleAfterHit", "d8/d9d/a26520.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "d8/d9d/a26520.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "d8/d9d/a26520.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "HandleEffectCalcSpellMod", "d8/d9d/a26520.html#a81395c735b9546632af71319067b575b", null ],
+    [ "PrepareAuraScript", "d8/d9d/a26520.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
+    [ "Register", "d8/d9d/a26520.html#ae49a0ec525819981595c12839133a35b", null ]
 ];

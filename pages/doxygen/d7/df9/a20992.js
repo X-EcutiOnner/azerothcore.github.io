@@ -1,8 +1,11 @@
 var a20992 =
 [
-    [ "CountTargets", "d7/df9/a20992.html#aaf8528038c6b3172d4810ed773f71644", null ],
-    [ "HandleDummy", "d7/df9/a20992.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
-    [ "PrepareSpellScript", "d7/df9/a20992.html#a1f31273cb1826cd07196eacfbdc46673", null ],
-    [ "Register", "d7/df9/a20992.html#adce6a5d920ac616dc0579fcd96c49288", null ],
-    [ "_targetCount", "d7/df9/a20992.html#acfd8832cb9a197dddb034a003b318911", null ]
+    [ "npc_ulduar_storm_tempered_keeper", "d7/df9/a20992.html#ae4dc8352fd0ff41974a33a4500d19e74", null ],
+    [ "JustDied", "d7/df9/a20992.html#a8051e2b824a6c0df08dafab6e25d6bc7", null ],
+    [ "JustEngagedWith", "d7/df9/a20992.html#a1bd5ba0e92e09953bc1ecb69a61c98f1", null ],
+    [ "JustSummoned", "d7/df9/a20992.html#a9b1f8cd15790dbd179e313546f9754bf", null ],
+    [ "Reset", "d7/df9/a20992.html#a5bbb71bfbeb2c4e09d20a94ed7913183", null ],
+    [ "UpdateAI", "d7/df9/a20992.html#a9f36f099f7db4c3e1a06b8d4082e58c5", null ],
+    [ "events", "d7/df9/a20992.html#a4a79bd561fa63230a52730da20d7143c", null ],
+    [ "otherGUID", "d7/df9/a20992.html#a4fb550c7e49ea5078ec0ab59cda2c6d8", null ]
 ];

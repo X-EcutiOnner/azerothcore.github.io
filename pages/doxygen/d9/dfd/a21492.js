@@ -1,4 +1,6 @@
 var a21492 =
 [
-    [ "operator()", "d9/dfd/a21492.html#a8176fb574f0eac852ed3528dcadac288", null ]
+    [ "PrepareSpellScript", "d9/dfd/a21492.html#a072a5228690b929af3b65d771bf5f485", null ],
+    [ "Register", "d9/dfd/a21492.html#a87235eb9494edd94221f0380e815aa6b", null ],
+    [ "SetDest", "d9/dfd/a21492.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
 ];

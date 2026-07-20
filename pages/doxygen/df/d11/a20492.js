@@ -1,11 +1,6 @@
 var a20492 =
 [
-    [ "npc_ulduar_expedition_engineer", "df/d11/a20492.html#af3fe5048712bae3add6867e998c2824d", null ],
-    [ "Reset", "df/d11/a20492.html#a7bbdbdaed353d450161e470e5f656c17", null ],
-    [ "SetData", "df/d11/a20492.html#a9a714463750de3513e65174f796fb4de", null ],
-    [ "UpdateAI", "df/d11/a20492.html#a78de5d8e8194e1ae362f9eb666a55404", null ],
-    [ "fixingGUID", "df/d11/a20492.html#af8f7c3106d392a7b6697af3ffd14121f", null ],
-    [ "pInstance", "df/d11/a20492.html#a1516880c5fb17bccd95d8e3b615c4175", null ],
-    [ "timer", "df/d11/a20492.html#a57f187130777929a921e2c35b6f43559", null ],
-    [ "working", "df/d11/a20492.html#a3450381dc89cabede2ccde6feab96dad", null ]
+    [ "FilterTargets", "df/d11/a20492.html#ae8d940a89be9b63286911bd55dcd3844", null ],
+    [ "PrepareSpellScript", "df/d11/a20492.html#a8f4b4d82e53c8f820b620896478681a9", null ],
+    [ "Register", "df/d11/a20492.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
 ];

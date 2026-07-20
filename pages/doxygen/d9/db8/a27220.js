@@ -1,6 +1,7 @@
 var a27220 =
 [
-    [ "PeriodicTick", "d9/db8/a27220.html#a8765e8f662c4279669c955108ff356e3", null ],
-    [ "PrepareAuraScript", "d9/db8/a27220.html#a15f077618950e4526ffcee9ee172d89f", null ],
-    [ "Register", "d9/db8/a27220.html#aeeca3a2be368025147702c4aa8c518ce", null ]
+    [ "HandleProc", "d9/db8/a27220.html#adec7010a0de4ab9e8756d345c4adff14", null ],
+    [ "PrepareAuraScript", "d9/db8/a27220.html#a16986cb0bf0e46d44a640486580480aa", null ],
+    [ "Register", "d9/db8/a27220.html#a093cac6e19a12d01b7dba974b595502e", null ],
+    [ "Validate", "d9/db8/a27220.html#a558005f2d0ed6d42705a3e0ee940ffcc", null ]
 ];

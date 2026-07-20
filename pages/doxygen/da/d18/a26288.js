@@ -1,6 +1,7 @@
 var a26288 =
 [
-    [ "HandleRemove", "da/d18/a26288.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
-    [ "PrepareAuraScript", "da/d18/a26288.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
-    [ "Register", "da/d18/a26288.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
+    [ "CheckProc", "da/d18/a26288.html#a325336c96dad74ec221c07817222fee1", null ],
+    [ "HandleProc", "da/d18/a26288.html#a75c8e4664e75afd2129b6e5f047d74e3", null ],
+    [ "PrepareAuraScript", "da/d18/a26288.html#a30f6dd531d4316b4bbb3297af2c17e2e", null ],
+    [ "Register", "da/d18/a26288.html#a6c86a4cf273d90086c4ebdbcaa6b6632", null ]
 ];

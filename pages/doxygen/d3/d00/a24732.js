@@ -1,6 +1,10 @@
 var a24732 =
 [
-    [ "HandleScriptEffect", "d3/d00/a24732.html#a1ace281bf2fd53722f8328a79369b5df", null ],
-    [ "PrepareSpellScript", "d3/d00/a24732.html#ac9a0019091f291b1b3a770ec57bd83e8", null ],
-    [ "Register", "d3/d00/a24732.html#a821a6b11a177bf7586ab666081ab222a", null ]
+    [ "CheckProc", "d3/d00/a24732.html#a1afbc5f8e86e0382be43c947e88306b3", null ],
+    [ "HandleProc", "d3/d00/a24732.html#a9fbfe3fba6283362bab181fcd15611b3", null ],
+    [ "PrepareAuraScript", "d3/d00/a24732.html#aa060ed89bc5e3c80d6402c8e79baa597", null ],
+    [ "Register", "d3/d00/a24732.html#a43cc9387ce5b1665147dcfecb1476c22", null ],
+    [ "Validate", "d3/d00/a24732.html#ad167a260f9a3d1f71a5a11b0bab6161c", null ],
+    [ "_lunarProcCooldownEnd", "d3/d00/a24732.html#a9fd6d9c34dba5cb302010df4d5c560c2", null ],
+    [ "_solarProcCooldownEnd", "d3/d00/a24732.html#a6f50d14abee53eb06f50edbcc78628c4", null ]
 ];

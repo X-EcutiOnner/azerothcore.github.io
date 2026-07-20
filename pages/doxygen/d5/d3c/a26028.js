@@ -1,7 +1,6 @@
 var a26028 =
 [
-    [ "HandleProc", "d5/d3c/a26028.html#a8a2e79509451ab5f0d05daa80ebd55ac", null ],
-    [ "PrepareAuraScript", "d5/d3c/a26028.html#a331d005fdb7ec53b49c1edc46209d8ea", null ],
-    [ "Register", "d5/d3c/a26028.html#a8a1afed2a17841f52c355214ab49b3af", null ],
-    [ "Validate", "d5/d3c/a26028.html#af9e07a3f65285bc82126b21b030a69e8", null ]
+    [ "HandleOpenObject", "d5/d3c/a26028.html#ab658c13615fac1861470bb4b853e76a4", null ],
+    [ "PrepareSpellScript", "d5/d3c/a26028.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
+    [ "Register", "d5/d3c/a26028.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
 ];

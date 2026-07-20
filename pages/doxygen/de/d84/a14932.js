@@ -1,7 +1,8 @@
 var a14932 =
 [
-    [ "HandleScript", "de/d84/a14932.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
-    [ "PrepareSpellScript", "de/d84/a14932.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
-    [ "Register", "de/d84/a14932.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
-    [ "Validate", "de/d84/a14932.html#aa1e74de390a8b71e43e43664981a36ff", null ]
+    [ "OnApply", "de/d84/a14932.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
+    [ "OnRemove", "de/d84/a14932.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
+    [ "PrepareAuraScript", "de/d84/a14932.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
+    [ "Register", "de/d84/a14932.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
+    [ "Validate", "de/d84/a14932.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
 ];

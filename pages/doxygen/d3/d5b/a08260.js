@@ -1,7 +1,16 @@
 var a08260 =
 [
-    [ "LfgJoinResultData", "d3/d5b/a08260.html#a1d711d49a6b49f55eb3771352b294b95", null ],
-    [ "lockmap", "d3/d5b/a08260.html#aff918b3c02ca76982a964402175f8ad7", null ],
-    [ "result", "d3/d5b/a08260.html#aa713cbc1930962d520883523f6f6446c", null ],
-    [ "state", "d3/d5b/a08260.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
+    [ "DisableMap", "d3/d5b/a08260.html#adf2cad99fa4b2b3ddbff05931928c1c5", null ],
+    [ "DisableTypeMap", "d3/d5b/a08260.html#a70c68e93cdd77f5e54bae1b96c66da13", null ],
+    [ "DisableMgr", "d3/d5b/a08260.html#afadb62b96ab43f983f8a8c3077cbe205", null ],
+    [ "~DisableMgr", "d3/d5b/a08260.html#ae1483ae3fdeeb98cceb29905f7181b1a", null ],
+    [ "AddDisable", "d3/d5b/a08260.html#a343955ca73dabce8e7b81bf2803992fc", null ],
+    [ "CheckQuestDisables", "d3/d5b/a08260.html#a2f9fa5dadf6f2da5f01651d37d996377", null ],
+    [ "HandleDisableType", "d3/d5b/a08260.html#a203bb85bc7ecb9be3cf09b5d093b90fa", null ],
+    [ "instance", "d3/d5b/a08260.html#ac3787801d677b0ed6592476d648743db", null ],
+    [ "IsDisabledFor", "d3/d5b/a08260.html#accac4f17d8411544e22ba2231b04f36f", null ],
+    [ "IsPathfindingEnabled", "d3/d5b/a08260.html#a8dce4846886ded6ec2b882820abdc517", null ],
+    [ "IsVMAPDisabledFor", "d3/d5b/a08260.html#a38b182e1836b2197303b2809006f5148", null ],
+    [ "LoadDisables", "d3/d5b/a08260.html#adb464165caf6cd436499fa84969eeaf8", null ],
+    [ "m_DisableMap", "d3/d5b/a08260.html#a7a299346248eb6dc692f9e56ae9efffd", null ]
 ];

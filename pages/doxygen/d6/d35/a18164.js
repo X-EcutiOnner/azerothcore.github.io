@@ -1,7 +1,7 @@
 var a18164 =
 [
-    [ "HandleDummy", "d6/d35/a18164.html#aa61db53d7395fd45b8569e12978fed0b", null ],
-    [ "PrepareSpellScript", "d6/d35/a18164.html#ab63054debe6763027ab52ad122277719", null ],
-    [ "Register", "d6/d35/a18164.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
-    [ "Validate", "d6/d35/a18164.html#adb7e30d10c2071de5d5070b64a10af30", null ]
+    [ "OnPeriodic", "d6/d35/a18164.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
+    [ "PrepareAuraScript", "d6/d35/a18164.html#a0e87dae1be4f69e6412129f14056eb79", null ],
+    [ "Register", "d6/d35/a18164.html#a1b26d102252bf7e0fd480076820d343f", null ],
+    [ "Validate", "d6/d35/a18164.html#a211d52aa385a874730abc43b083f2d22", null ]
 ];

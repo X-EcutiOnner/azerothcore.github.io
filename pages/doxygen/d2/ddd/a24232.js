@@ -1,10 +1,10 @@
 var a24232 =
 [
-    [ "CheckProc", "d2/ddd/a24232.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02", null ],
-    [ "HandleProc", "d2/ddd/a24232.html#ac90b54e946baa80589cab2f66aca1f5f", null ],
-    [ "Load", "d2/ddd/a24232.html#ada85014de8a3602e83912d5e1a0165c5", null ],
-    [ "PrepareAuraScript", "d2/ddd/a24232.html#a769f2b77b2972c40e3e43e70d2ff5820", null ],
-    [ "Register", "d2/ddd/a24232.html#ab8a35292c0d4d392d9dd9db438d59cc4", null ],
-    [ "Validate", "d2/ddd/a24232.html#aba8bd9ae5ec9e92eccb04163114c4802", null ],
-    [ "_procTarget", "d2/ddd/a24232.html#a0c3ba33c7117195dac4c1df3a6e8529a", null ]
+    [ "npc_pet_gen_imp_in_a_bottle", "d2/ddd/a24232.html#aa32b7770c2719d77d46fcf6d22989284", null ],
+    [ "InitializeAI", "d2/ddd/a24232.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
+    [ "UpdateAI", "d2/ddd/a24232.html#a453ec855bb21a30cb72b540ff8f77035", null ],
+    [ "_data", "d2/ddd/a24232.html#a982ec923536c2c33353a3673aa425b6a", null ],
+    [ "_hasParty", "d2/ddd/a24232.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
+    [ "_ownerGUID", "d2/ddd/a24232.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
+    [ "_talkTimer", "d2/ddd/a24232.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
 ];

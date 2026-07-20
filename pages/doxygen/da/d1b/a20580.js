@@ -1,5 +1,9 @@
 var a20580 =
 [
-    [ "achievement_thorim_lose_your_illusion", "da/d1b/a20580.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
-    [ "OnCheck", "da/d1b/a20580.html#a322df4f30445a84085615925f74a8a6b", null ]
+    [ "npc_ulduar_emergency_fire_bot", "da/d1b/a20580.html#ae6e7e18bae098db633de891ab52ca0d3", null ],
+    [ "AttackStart", "da/d1b/a20580.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
+    [ "MoveInLineOfSight", "da/d1b/a20580.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
+    [ "MovementInform", "da/d1b/a20580.html#a6f7306e3da54511ddbef772044f76950", null ],
+    [ "UpdateAI", "da/d1b/a20580.html#a653df31873aca5acb86020cc1e14f4a0", null ],
+    [ "_events", "da/d1b/a20580.html#a99f051bd7a1136375103005f0615c4f2", null ]
 ];

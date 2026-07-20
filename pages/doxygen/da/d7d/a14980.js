@@ -1,6 +1,5 @@
 var a14980 =
 [
-    [ "FilterTargets", "da/d7d/a14980.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
-    [ "PrepareSpellScript", "da/d7d/a14980.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
-    [ "Register", "da/d7d/a14980.html#a6375482bd9d1fc6c6941607273c506dc", null ]
+    [ "PrepareSpellScript", "da/d7d/a14980.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
+    [ "Register", "da/d7d/a14980.html#a06111bf70ee53fee6e90284f8d92642e", null ]
 ];

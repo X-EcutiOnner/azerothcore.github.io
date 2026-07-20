@@ -1,7 +1,6 @@
 var a12064 =
 [
-    [ "PlayerDumpReader", "db/da6/a12064.html#ad630b61e298fb1ddf165481c9a14e077", null ],
-    [ "LoadDump", "db/da6/a12064.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
-    [ "LoadDumpFromFile", "db/da6/a12064.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
-    [ "LoadDumpFromString", "db/da6/a12064.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
+    [ "EffectSplitHandler", "db/da6/a12064.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
+    [ "Call", "db/da6/a12064.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
+    [ "pEffectHandlerScript", "db/da6/a12064.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
 ];

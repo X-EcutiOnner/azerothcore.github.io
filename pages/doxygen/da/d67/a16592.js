@@ -1,6 +1,10 @@
 var a16592 =
 [
-    [ "FilterTargets", "da/d67/a16592.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "da/d67/a16592.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "da/d67/a16592.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "spell_halion_damage_aoe_summon", "da/d67/a16592.html#a6152e7a0515076af2c7c2155506257b0", null ],
+    [ "HandleSummon", "da/d67/a16592.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
+    [ "PrepareSpellScript", "da/d67/a16592.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
+    [ "Register", "da/d67/a16592.html#aa1f9239a2910d53c85539abba6333893", null ],
+    [ "Validate", "da/d67/a16592.html#acb359257b29354b5962d9865e06137e7", null ],
+    [ "_auraSpell", "da/d67/a16592.html#a497a74eca703470964157639a6f372e2", null ],
+    [ "_explosionSpell", "da/d67/a16592.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
 ];

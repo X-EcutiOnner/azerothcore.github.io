@@ -1,12 +1,12 @@
 var a12400 =
 [
-    [ "rbac_commandscript", "dd/da4/a12400.html#ad5d80b189a8ddaf6b5927c81668a7d74", null ],
-    [ "GetCommands", "dd/da4/a12400.html#a79aea8dac765cfb1a2f12264b58b4227", null ],
-    [ "GetRBACData", "dd/da4/a12400.html#a00da7ed9027950938ec869e678111502", null ],
-    [ "GetSecurityLevelName", "dd/da4/a12400.html#afcfc224e4b39db42ed6efeb5e49ecc7a", null ],
-    [ "HandleRBACListPermissionsCommand", "dd/da4/a12400.html#a80f84e8eeebfd70b4ac7bc049bf4759c", null ],
-    [ "HandleRBACPermDenyCommand", "dd/da4/a12400.html#acc074437ff26c253cf91772de9117fbf", null ],
-    [ "HandleRBACPermGrantCommand", "dd/da4/a12400.html#ad4254acff93e13b7218b086281d13676", null ],
-    [ "HandleRBACPermListCommand", "dd/da4/a12400.html#a324227f3398500ca0a5b7dd141698951", null ],
-    [ "HandleRBACPermRevokeCommand", "dd/da4/a12400.html#adf8932879f77b25833cf55dc2924ac29", null ]
+    [ "group_commandscript", "dd/da4/a12400.html#ad2890427cfe3649b2e0fe0896693372c", null ],
+    [ "GetCommands", "dd/da4/a12400.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
+    [ "HandleGroupDisbandCommand", "dd/da4/a12400.html#a538539340a697e02453ddcfa669fb646", null ],
+    [ "HandleGroupInvitesCommand", "dd/da4/a12400.html#a614878b840aee6bab067db81fa59a8c7", null ],
+    [ "HandleGroupJoinCommand", "dd/da4/a12400.html#a382e8532c653464e90b45569e813ae37", null ],
+    [ "HandleGroupLeaderCommand", "dd/da4/a12400.html#a899858a63add3c68e0e1446d29216c00", null ],
+    [ "HandleGroupListCommand", "dd/da4/a12400.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
+    [ "HandleGroupRemoveCommand", "dd/da4/a12400.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
+    [ "HandleGroupReviveCommand", "dd/da4/a12400.html#a13968d61ec037aacc8070bc675290f94", null ]
 ];

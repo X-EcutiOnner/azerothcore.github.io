@@ -1,10 +1,10 @@
 var a15740 =
 [
-    [ "npc_murkdeepAI", "da/d6b/a15740.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
-    [ "JustEngagedWith", "da/d6b/a15740.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
-    [ "Reset", "da/d6b/a15740.html#aa89316a0fe4f99630a4a129aed305e24", null ],
-    [ "UpdateAI", "da/d6b/a15740.html#aeca85a1324791d18ac825401fb8a31e8", null ],
-    [ "events", "da/d6b/a15740.html#ae3d344829aeba22ef0c5947863720390", null ],
-    [ "phase", "da/d6b/a15740.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
-    [ "spawnTimer", "da/d6b/a15740.html#a6b139fb5cc0776103934f14be15c34d1", null ]
+    [ "npc_anubisath_defender", "da/d6b/a15740.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
+    [ "DamageTaken", "da/d6b/a15740.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
+    [ "JustDied", "da/d6b/a15740.html#a225ca1b3144953bcc5890caf0d32b606", null ],
+    [ "JustEngagedWith", "da/d6b/a15740.html#a6505fcae0e99cae44750f16daddc3309", null ],
+    [ "Reset", "da/d6b/a15740.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
+    [ "UpdateAI", "da/d6b/a15740.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
+    [ "_enraged", "da/d6b/a15740.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
 ];

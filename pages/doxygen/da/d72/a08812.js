@@ -1,13 +1,10 @@
 var a08812 =
 [
-    [ "UpdateData", "da/d72/a08812.html#a7164bb9338d6362f427d75025c9026b6", null ],
-    [ "AddOutOfRangeGUID", "da/d72/a08812.html#a4c68f187e2f6e65da3bdb6a443ebcacf", null ],
-    [ "AddUpdateBlock", "da/d72/a08812.html#a620f0036078833a3b5ce1245274595f8", null ],
-    [ "AddUpdateBlock", "da/d72/a08812.html#af770dbf9bc4e4da1b97aba73b152b23b", null ],
-    [ "BuildPacket", "da/d72/a08812.html#a3bea592b01b6c9e41b863c26fd602d45", null ],
-    [ "Clear", "da/d72/a08812.html#adc0750db190d94fed3bfef72da75066c", null ],
-    [ "HasData", "da/d72/a08812.html#a067577372028ad59aea7942f0cd4a5c2", null ],
-    [ "m_blockCount", "da/d72/a08812.html#a791f9606867a40d018f67600e338a08e", null ],
-    [ "m_data", "da/d72/a08812.html#ac21a3bda51f8d1d2b71be6d00d760e38", null ],
-    [ "m_outOfRangeGUIDs", "da/d72/a08812.html#a60f7b1745f84b24b25c94625145dd5a2", null ]
+    [ "ObjectGuidGeneratorBase", "da/d72/a08812.html#a8af6741cc884915ee86b489fc970fed1", null ],
+    [ "~ObjectGuidGeneratorBase", "da/d72/a08812.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
+    [ "Generate", "da/d72/a08812.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
+    [ "GetNextAfterMaxUsed", "da/d72/a08812.html#abf1f20b97af8071459bd850e7106a442", null ],
+    [ "HandleCounterOverflow", "da/d72/a08812.html#ada7a44ac47b112491c575c38465740fc", null ],
+    [ "Set", "da/d72/a08812.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
+    [ "_nextGuid", "da/d72/a08812.html#a4a14102e019aa10f41b050054cacca22", null ]
 ];

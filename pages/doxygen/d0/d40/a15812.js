@@ -1,7 +1,12 @@
 var a15812 =
 [
-    [ "HandleEffectPeriodic", "d0/d40/a15812.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "d0/d40/a15812.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "d0/d40/a15812.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "d0/d40/a15812.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "npc_magwinAI", "d0/d40/a15812.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
+    [ "JustEngagedWith", "d0/d40/a15812.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
+    [ "Reset", "d0/d40/a15812.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
+    [ "sQuestAccept", "d0/d40/a15812.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
+    [ "UpdateEscortAI", "d0/d40/a15812.html#a34236331be8842a9e2a98036ea382e18", null ],
+    [ "WaypointReached", "d0/d40/a15812.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
+    [ "WaypointReached", "d0/d40/a15812.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_events", "d0/d40/a15812.html#a32dad2bde92efab7e0f0d16e809df665", null ],
+    [ "_player", "d0/d40/a15812.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
 ];

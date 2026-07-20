@@ -1,7 +1,7 @@
 var a18520 =
 [
-    [ "OnPeriodic", "d7/db1/a18520.html#accd12b06341f3168c74cb18926614f7f", null ],
-    [ "OnUpdate", "d7/db1/a18520.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
-    [ "PrepareAuraScript", "d7/db1/a18520.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
-    [ "Register", "d7/db1/a18520.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
+    [ "HandleTriggerMissile", "d7/db1/a18520.html#af6370594be48d35a12009fa10a38d91d", null ],
+    [ "PrepareSpellScript", "d7/db1/a18520.html#aeeca4381273f382c3abb68f34d229213", null ],
+    [ "Register", "d7/db1/a18520.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
+    [ "Validate", "d7/db1/a18520.html#abe0b9290ddf9beaa60a583840d90d914", null ]
 ];

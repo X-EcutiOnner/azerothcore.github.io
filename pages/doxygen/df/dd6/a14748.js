@@ -1,13 +1,7 @@
 var a14748 =
 [
-    [ "npc_costumed_orphan_matron", "df/dd6/a14748.html#a0b913090588613ac00ea928f6273d56f", null ],
-    [ "DoAction", "df/dd6/a14748.html#a7a7739f89604ffb5afc6bab75118340e", null ],
-    [ "GetInitXYZ", "df/dd6/a14748.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533", null ],
-    [ "Reset", "df/dd6/a14748.html#a962de50b13079f3337c4e41eb2d98b55", null ],
-    [ "sGossipHello", "df/dd6/a14748.html#a1a9c58c087b8addf8e482375737d6c49", null ],
-    [ "sQuestAccept", "df/dd6/a14748.html#adac5d514261a210a701442da13ba1587", null ],
-    [ "UpdateAI", "df/dd6/a14748.html#a4679d807df8749265ba0453c5b7588f1", null ],
-    [ "allowQuest", "df/dd6/a14748.html#a722f4bfd0fb8b2665ff2b79d3208bc90", null ],
-    [ "eventStarted", "df/dd6/a14748.html#a5292ab4e45fe3a858b3a59ef4a79bb34", null ],
-    [ "horseGUID", "df/dd6/a14748.html#a92cfd09cefd26933ae322f2cc2716927", null ]
+    [ "HandleScriptEffect", "df/dd6/a14748.html#ae758c224878aebdde0124b5d4ec902a5", null ],
+    [ "PrepareSpellScript", "df/dd6/a14748.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
+    [ "Register", "df/dd6/a14748.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
+    [ "Validate", "df/dd6/a14748.html#a56f71954e122f651c6e2ec68453e16cc", null ]
 ];

@@ -1,6 +1,7 @@
 var a19812 =
 [
-    [ "boss_sjonnir_dwarfAI", "d7/d6b/a19816.html", "d7/d6b/a19816" ],
-    [ "boss_sjonnir_dwarf", "d7/dc4/a19812.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
-    [ "GetAI", "d7/dc4/a19812.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
+    [ "HandleProc", "d7/dc4/a19812.html#a84255cd31ebaa7c70de93d569258c709", null ],
+    [ "PrepareAuraScript", "d7/dc4/a19812.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
+    [ "Register", "d7/dc4/a19812.html#a6bc166d2e1455537fa78c4223da17746", null ],
+    [ "Validate", "d7/dc4/a19812.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
 ];

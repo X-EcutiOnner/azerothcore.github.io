@@ -1,6 +1,6 @@
 var a19668 =
 [
-    [ "npc_oculus_drakeAI", "df/df6/a19672.html", "df/df6/a19672" ],
-    [ "npc_oculus_drake", "d0/d89/a19668.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
-    [ "GetAI", "d0/d89/a19668.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
+    [ "ChargeRifts", "d0/d89/a19668.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "d0/d89/a19668.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "d0/d89/a19668.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

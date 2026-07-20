@@ -1,7 +1,7 @@
 var a28512 =
 [
-    [ "npc_sayge", "d2/d60/a28512.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "d2/d60/a28512.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "d2/d60/a28512.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "d2/d60/a28512.html#aed1988335672423d024546654aa95298", null ]
+    [ "HandleDummy", "d2/d60/a28512.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "d2/d60/a28512.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "d2/d60/a28512.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "d2/d60/a28512.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

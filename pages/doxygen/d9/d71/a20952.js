@@ -1,6 +1,5 @@
 var a20952 =
 [
-    [ "boss_skadiAI", "d0/d35/a20956.html", "d0/d35/a20956" ],
-    [ "boss_skadi", "d9/d71/a20952.html#a124c1c1de7ba232b3256a65547370464", null ],
-    [ "GetAI", "d9/d71/a20952.html#ac2986670096fdd69a2e584bb9fcc1bbb", null ]
+    [ "achievement_yogg_saron_drive_me_crazy", "d9/d71/a20952.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
+    [ "OnCheck", "d9/d71/a20952.html#a029fdd68e0643b53971efbb1056f19d8", null ]
 ];

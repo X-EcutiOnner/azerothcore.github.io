@@ -1,7 +1,11 @@
 var a06208 =
 [
-    [ "UpdateException", "df/df2/a06208.html#ace39ae1801ac7dcd055bcdce2411866e", null ],
-    [ "~UpdateException", "df/df2/a06208.html#a38e016e210bf287d2adc21811497c95c", null ],
-    [ "what", "df/df2/a06208.html#ab7bc552819bf9620dd670fb5a627b2dd", null ],
-    [ "_msg", "df/df2/a06208.html#a7b4ba1e0d2829249afb2922f385016b3", null ]
+    [ "SQLQueryHolderCallback", "df/df2/a06208.html#afc2cb6a483d17ae115e947bc88fe592b", null ],
+    [ "SQLQueryHolderCallback", "df/df2/a06208.html#a7fddb08e9e10cdb8a437de3ee53494db", null ],
+    [ "AfterComplete", "df/df2/a06208.html#a40f0a73f4b92bc0f7ad8659f748c7c17", null ],
+    [ "InvokeIfReady", "df/df2/a06208.html#a7e540699d496834c0a36782fb7da03f1", null ],
+    [ "operator=", "df/df2/a06208.html#a031861856be6b3e5f18718f3c6129f9c", null ],
+    [ "m_callback", "df/df2/a06208.html#aa055fe02b0158a9098e6eccdc32e9ff4", null ],
+    [ "m_future", "df/df2/a06208.html#a7dc3e5e72d47135660a29a0418e17c44", null ],
+    [ "m_holder", "df/df2/a06208.html#a09b018fb4d8e0e67249b1117c657ecc2", null ]
 ];

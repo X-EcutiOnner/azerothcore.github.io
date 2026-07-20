@@ -1,6 +1,6 @@
 var a19048 =
 [
-    [ "npc_icc_skybreaker_marksmanAI", "d6/d98/a19052.html", "d6/d98/a19052" ],
-    [ "npc_icc_skybreaker_marksman", "de/dba/a19048.html#a1d870b78e1acf2d17782265e28698d1c", null ],
-    [ "GetAI", "de/dba/a19048.html#a374017d37da15705d51ab8edc75683ff", null ]
+    [ "npc_captain_rupertAI", "de/dba/a19048.html#ae91de64c440e71e612f34e37b90076d5", null ],
+    [ "Reset", "de/dba/a19048.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
+    [ "UpdateAI", "de/dba/a19048.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
 ];

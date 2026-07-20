@@ -1,7 +1,6 @@
 var a13060 =
 [
-    [ "npc_malchezaar_axe", "d3/d61/a13060.html#a1a5615f2def10add30e7917b770ebc74", null ],
-    [ "Initialize", "d3/d61/a13060.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
-    [ "JustEngagedWith", "d3/d61/a13060.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
-    [ "UpdateAI", "d3/d61/a13060.html#a202ba6922a426f87909eefbccd070175", null ]
+    [ "boss_mr_smiteAI", "d5/df3/a13064.html", "d5/df3/a13064" ],
+    [ "boss_mr_smite", "d3/d61/a13060.html#a011d41112ef7376b71d2959f806be262", null ],
+    [ "GetAI", "d3/d61/a13060.html#a619ca0aede1eb33f992328048319c4f0", null ]
 ];

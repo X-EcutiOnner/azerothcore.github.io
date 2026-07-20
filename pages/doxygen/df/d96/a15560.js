@@ -1,6 +1,6 @@
 var a15560 =
 [
-    [ "boss_veknilash", "df/d96/a15560.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
-    [ "IAmVeklor", "df/d96/a15560.html#a454027d829b962ee0feebb6fd5687714", null ],
-    [ "JustEngagedWith", "df/d96/a15560.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
+    [ "HandleScript", "df/d96/a15560.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
+    [ "PrepareSpellScript", "df/d96/a15560.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
+    [ "Register", "df/d96/a15560.html#a434f0aef7f32edb6990efb992e4d57af", null ]
 ];

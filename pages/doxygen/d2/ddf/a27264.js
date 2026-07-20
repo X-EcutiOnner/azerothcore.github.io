@@ -1,7 +1,8 @@
 var a27264 =
 [
-    [ "HandleProc", "d2/ddf/a27264.html#a4dbe9fedd6aabfd75f80c7ed6ab1d324", null ],
-    [ "PrepareAuraScript", "d2/ddf/a27264.html#ae1ac0e47e529c729f04fb2e37ae4c1f9", null ],
-    [ "Register", "d2/ddf/a27264.html#affb8d0a167e6f1bef1aaabd5eb99fe38", null ],
-    [ "Validate", "d2/ddf/a27264.html#ae068298d60cdf9623748a8b6c77faabd", null ]
+    [ "FilterTargets", "d2/ddf/a27264.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
+    [ "HandleDummy", "d2/ddf/a27264.html#a2214b10da042a3af2fd3311872cc5286", null ],
+    [ "PrepareSpellScript", "d2/ddf/a27264.html#a9959966856601f79a83931a7a7ecff91", null ],
+    [ "Register", "d2/ddf/a27264.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
+    [ "Validate", "d2/ddf/a27264.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
 ];

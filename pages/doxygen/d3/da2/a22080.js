@@ -1,6 +1,6 @@
 var a22080 =
 [
-    [ "HandleSummon", "d3/da2/a22080.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
-    [ "PrepareSpellScript", "d3/da2/a22080.html#ae7f071e9d9a82892be31090385679c9f", null ],
-    [ "Register", "d3/da2/a22080.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
+    [ "PrepareSpellScript", "d3/da2/a22080.html#a87014fc73af805b7ad052d1f4f45d7cd", null ],
+    [ "Register", "d3/da2/a22080.html#a306252bb3bc9af689400981b198f66e8", null ],
+    [ "SetDest", "d3/da2/a22080.html#a0bffbc57932a2efe33a9912d608eb79d", null ]
 ];

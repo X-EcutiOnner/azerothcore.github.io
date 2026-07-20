@@ -1,6 +1,6 @@
 var a23976 =
 [
-    [ "PrepareSpellScript", "d2/da6/a23976.html#a190f6dc3d9b336324da29f627a743fe9", null ],
-    [ "Register", "d2/da6/a23976.html#a3afc8035b852bc31abd3228e88d59819", null ],
-    [ "SetDest", "d2/da6/a23976.html#a85d66a58597954501305ad5b674cc8a2", null ]
+    [ "CheckCast", "d2/da6/a23976.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "d2/da6/a23976.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "d2/da6/a23976.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

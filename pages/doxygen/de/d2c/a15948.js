@@ -1,7 +1,7 @@
 var a15948 =
 [
-    [ "npc_kaya_flathoofAI", "d9/ddf/a15952.html", "d9/ddf/a15952" ],
-    [ "npc_kaya_flathoof", "de/d2c/a15948.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "de/d2c/a15948.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "de/d2c/a15948.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "HandleDummy", "de/d2c/a15948.html#a30a87266b89021caf7d05c45397f70d1", null ],
+    [ "PrepareSpellScript", "de/d2c/a15948.html#a43a92b346088d710719722e8feed9634", null ],
+    [ "Register", "de/d2c/a15948.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
+    [ "Validate", "de/d2c/a15948.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
 ];

@@ -1,6 +1,6 @@
 var a26856 =
 [
-    [ "PrepareSpellScript", "db/dc5/a26856.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
-    [ "Register", "db/dc5/a26856.html#ab58938808e460e843e42f2b6fa644e8a", null ],
-    [ "SetDest", "db/dc5/a26856.html#ab87932c73a2e53647bda584aeb58f789", null ]
+    [ "HandleScriptEffect", "db/dc5/a26856.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
+    [ "PrepareSpellScript", "db/dc5/a26856.html#a0223c05b5832c64b248e82eba770f7fa", null ],
+    [ "Register", "db/dc5/a26856.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
 ];

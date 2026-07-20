@@ -1,7 +1,7 @@
 var a23284 =
 [
-    [ "HandleDummyApply", "dd/dfc/a23284.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
-    [ "HandleDummyRemove", "dd/dfc/a23284.html#a5d68d9e15600119deca7179ffe00acda", null ],
-    [ "PrepareAuraScript", "dd/dfc/a23284.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
-    [ "Register", "dd/dfc/a23284.html#a094004ccf6b4cae4d27bca639b76b899", null ]
+    [ "HandleScript", "dd/dfc/a23284.html#a8933535f9507b90b54032c17985cc3c6", null ],
+    [ "PrepareSpellScript", "dd/dfc/a23284.html#acadb563eaeffac47b3f883f9d8c37994", null ],
+    [ "Register", "dd/dfc/a23284.html#a797ae84dcb0fc13b0799934bde71809c", null ],
+    [ "Validate", "dd/dfc/a23284.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
 ];

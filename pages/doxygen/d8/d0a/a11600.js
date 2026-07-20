@@ -1,7 +1,6 @@
 var a11600 =
 [
-    [ "Player", "d8/d0a/a11600.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d8/d0a/a11600.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "FactionChange", "d8/d0a/a11600.html#adff657ead29df26ead5e20a8ecf44e87", null ],
-    [ "Race", "d8/d0a/a11600.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
+    [ "QuestConfirmAcceptClient", "d8/d0a/a11600.html#ac45767c9cf0e197e185a8936598fc9ea", null ],
+    [ "Read", "d8/d0a/a11600.html#a483980152418879fd1a55db2fa4bf68a", null ],
+    [ "QuestId", "d8/d0a/a11600.html#a25b4b779fdf9e642b2fe13faf03d50b1", null ]
 ];

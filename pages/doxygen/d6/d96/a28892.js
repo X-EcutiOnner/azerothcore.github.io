@@ -1,7 +1,5 @@
 var a28892 =
 [
-    [ "ID", "d6/d96/a28892.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
-    [ "Index", "d6/d96/a28892.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
-    [ "Skill", "d6/d96/a28892.html#aed5e58cf605d3c28cd0d26015722be03", null ],
-    [ "Type", "d6/d96/a28892.html#a39b0b548efd795c162926bddcdd301b5", null ]
+    [ "cinematicCamera", "d6/d96/a28892.html#a87e5f6de255dc0c75423eace2768a1dc", null ],
+    [ "Id", "d6/d96/a28892.html#a9c3dc0e60728c1c76594385d6860f265", null ]
 ];

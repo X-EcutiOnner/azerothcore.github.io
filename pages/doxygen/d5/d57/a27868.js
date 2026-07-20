@@ -1,6 +1,5 @@
 var a27868 =
 [
-    [ "go_pirate_day_musicAI", "d4/df5/a27872.html", "d4/df5/a27872" ],
-    [ "go_pirate_day_music", "d5/d57/a27868.html#aa8d19102357639bd160eae9e90a87505", null ],
-    [ "GetAI", "d5/d57/a27868.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "d5/d57/a27868.html#aa2e9a01adad7e195860bbc6c55131024", null ],
+    [ "OnTrigger", "d5/d57/a27868.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
 ];

@@ -1,4 +1,6 @@
 var a05200 =
 [
-    [ "GetPosition", "d6/d6a/a05200.html#a492d4a0b0071bfa4a57d4ce643a435df", null ]
+    [ "Resolver", "d6/d6a/a05200.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
+    [ "Resolve", "d6/d6a/a05200.html#ab190f885c84753fe65405db6fb04bf7c", null ],
+    [ "_impl", "d6/d6a/a05200.html#a08ed9183a6338606524c44f0fd5695a0", null ]
 ];

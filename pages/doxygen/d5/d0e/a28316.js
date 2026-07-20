@@ -1,8 +1,6 @@
 var a28316 =
 [
-    [ "npc_minion_spawner", "d5/d0e/a28316.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "d5/d0e/a28316.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "d5/d0e/a28316.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "d5/d0e/a28316.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "d5/d0e/a28316.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "spawnedCreatureEntry", "d5/d0e/a28316.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "d5/d0e/a28316.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "d5/d0e/a28316.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

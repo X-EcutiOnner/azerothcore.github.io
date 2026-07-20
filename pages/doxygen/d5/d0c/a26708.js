@@ -1,5 +1,6 @@
 var a26708 =
 [
-    [ "PrepareSpellScript", "d5/d0c/a26708.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
-    [ "Register", "d5/d0c/a26708.html#a721430db1738b255f114483bdddef5e2", null ]
+    [ "FilterTargets", "d5/d0c/a26708.html#a23c7b977f7e213322b3702367d6a28c7", null ],
+    [ "PrepareSpellScript", "d5/d0c/a26708.html#a7000b2fd940c914933c486e847932b62", null ],
+    [ "Register", "d5/d0c/a26708.html#a870ee08d0341f6640710a87c97a6b98b", null ]
 ];

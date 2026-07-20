@@ -1,8 +1,6 @@
 var a13340 =
 [
-    [ "HandleDummy", "d9/d8d/a13340.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "d9/d8d/a13340.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "d9/d8d/a13340.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "d9/d8d/a13340.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "d9/d8d/a13340.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "HandleProc", "d9/d8d/a13340.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "d9/d8d/a13340.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "d9/d8d/a13340.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

@@ -1,18 +1,30 @@
 var a03851 =
 [
-    [ "GroupQueueInfo", "d8/d5c/a07689.html", "d8/d5c/a07689" ],
-    [ "BattlegroundQueue", "da/d94/a07693.html", "da/d94/a07693" ],
-    [ "BattlegroundQueue::SelectionPool", "d7/d13/a07697.html", "d7/d13/a07697" ],
-    [ "BGQueueInviteEvent", "d3/de5/a07701.html", "d3/de5/a07701" ],
-    [ "BGQueueRemoveEvent", "df/dae/a07705.html", "df/dae/a07705" ],
-    [ "BattlegroundQueueGroupTypes", "d5/d12/a03851.html#a589e9d4a3badd48f91fddc2afa661b17", [
-      [ "BG_QUEUE_PREMADE_ALLIANCE", "d5/d12/a03851.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4", null ],
-      [ "BG_QUEUE_PREMADE_HORDE", "d5/d12/a03851.html#a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c", null ],
-      [ "BG_QUEUE_NORMAL_ALLIANCE", "d5/d12/a03851.html#a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697", null ],
-      [ "BG_QUEUE_NORMAL_HORDE", "d5/d12/a03851.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d", null ],
-      [ "BG_QUEUE_CFBG", "d5/d12/a03851.html#a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239", null ],
-      [ "BG_QUEUE_MAX", "d5/d12/a03851.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992", null ]
+    [ "achievement_resilient_victory", "d5/d19/a27788.html", "d5/d19/a27788" ],
+    [ "achievement_bg_control_all_nodes", "da/dd2/a27792.html", "da/dd2/a27792" ],
+    [ "achievement_save_the_day", "db/dd0/a27796.html", "db/dd0/a27796" ],
+    [ "achievement_bg_ic_resource_glut", "de/d96/a27800.html", "de/d96/a27800" ],
+    [ "achievement_bg_ic_glaive_grave", "d5/d1c/a27804.html", "d5/d1c/a27804" ],
+    [ "achievement_bg_ic_mowed_down", "d1/d8b/a27808.html", "d1/d8b/a27808" ],
+    [ "achievement_bg_sa_artillery", "da/dc3/a27812.html", "da/dc3/a27812" ],
+    [ "achievement_arena_by_type", "d3/da7/a27816.html", "d3/da7/a27816" ],
+    [ "achievement_sickly_gazelle", "d6/dcd/a27820.html", "d6/dcd/a27820" ],
+    [ "achievement_everything_counts", "d5/d7f/a27824.html", "d5/d7f/a27824" ],
+    [ "achievement_bg_av_perfection", "d1/dbe/a27828.html", "d1/dbe/a27828" ],
+    [ "achievement_sa_defense_of_the_ancients", "df/dd6/a27832.html", "df/dd6/a27832" ],
+    [ "achievement_tilted", "d0/dca/a27836.html", "d0/dca/a27836" ],
+    [ "achievement_not_even_a_scratch", "d2/da5/a27840.html", "d2/da5/a27840" ],
+    [ "achievement_killed_exp_or_honor_target", "d0/d30/a27844.html", "d0/d30/a27844" ],
+    [ "achievement_flirt_with_disaster_perf_check", "dc/de1/a27848.html", "dc/de1/a27848" ],
+    [ "achievement_fa_la_la_la_ogrila", "d2/d94/a27852.html", "d2/d94/a27852" ],
+    [ "FaLaLaLaOgrila", "d5/d12/a03851.html#af0943742af823c41ba5bd40044bba6c7", [
+      [ "SPELL_FRESH_HOLLY", "d5/d12/a03851.html#af0943742af823c41ba5bd40044bba6c7a43d423e991cf4782f1ed339339389cf8", null ],
+      [ "SPELL_PRESERVED_HOLLY", "d5/d12/a03851.html#af0943742af823c41ba5bd40044bba6c7a500857808a54719fcc6b35a3f89b8460", null ]
     ] ],
-    [ "BG_QUEUE_ANNOUNCER_IMMEDIATE_DEBOUNCE", "d5/d12/a03851.html#a532cb5269831c504ba78101c6f3d61c9", null ],
-    [ "COUNT_OF_PLAYERS_TO_AVERAGE_WAIT_TIME", "d5/d12/a03851.html#aebc536d6c303d31049ad05f333c275ba", null ]
+    [ "FlirtWithDisaster", "d5/d12/a03851.html#a59d6aac4e950d8e6a0265a26e1898c13", [
+      [ "AURA_PERFUME_FOREVER", "d5/d12/a03851.html#a59d6aac4e950d8e6a0265a26e1898c13a51aa967912af69dc7510017e558bbb85", null ],
+      [ "AURA_PERFUME_ENCHANTRESS", "d5/d12/a03851.html#a59d6aac4e950d8e6a0265a26e1898c13a6f98457c5232039183c4be4588a067c6", null ],
+      [ "AURA_PERFUME_VICTORY", "d5/d12/a03851.html#a59d6aac4e950d8e6a0265a26e1898c13afb194a6e19cf65f763d7975e5d842c9c", null ]
+    ] ],
+    [ "AddSC_achievement_scripts", "d5/d12/a03851.html#a5091d6f933800f3313078304ad5c38ca", null ]
 ];

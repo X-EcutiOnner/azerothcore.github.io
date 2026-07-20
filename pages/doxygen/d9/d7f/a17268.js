@@ -1,6 +1,6 @@
 var a17268 =
 [
-    [ "boss_ickAI", "df/d52/a17272.html", "df/d52/a17272" ],
-    [ "boss_ick", "d9/d7f/a17268.html#af97d7f96bc48ba245e28c18614b9369e", null ],
-    [ "GetAI", "d9/d7f/a17268.html#a355285766712a31b704c23fe85d19e5f", null ]
+    [ "instance_forge_of_souls_InstanceScript", "df/d52/a17272.html", "df/d52/a17272" ],
+    [ "instance_forge_of_souls", "d9/d7f/a17268.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "d9/d7f/a17268.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

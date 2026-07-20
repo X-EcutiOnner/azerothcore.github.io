@@ -1,9 +1,8 @@
 var a27332 =
 [
-    [ "CheckCast", "db/d58/a27332.html#a441927e0d8d7304030440c19458eb34d", null ],
-    [ "HandleScriptEffect", "db/d58/a27332.html#a10e9691aa15869c82fba79072a314d7e", null ],
-    [ "PrepareSpellScript", "db/d58/a27332.html#a90b8ae945aeb85ad6e8a120501288979", null ],
-    [ "Register", "db/d58/a27332.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
-    [ "Validate", "db/d58/a27332.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
-    [ "iTypes", "db/d58/a27332.html#ae852b9df34612c074eab23b025c86870", null ]
+    [ "CheckProc", "db/d58/a27332.html#a33412f2b5abb1ce2160408ef13e7f0cb", null ],
+    [ "HandleProc", "db/d58/a27332.html#ab24c3d3f697a7ebd146d6135305c7741", null ],
+    [ "PrepareAuraScript", "db/d58/a27332.html#a8eccfbb749b85bbb850874324f17bbde", null ],
+    [ "Register", "db/d58/a27332.html#a482dd09de6cba9f5a36a6cdad1b82a0a", null ],
+    [ "Validate", "db/d58/a27332.html#a0c3020d44608920a2820e73e0b9e4b42", null ]
 ];

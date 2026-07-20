@@ -1,5 +1,6 @@
 var a08696 =
 [
-    [ "Description", "d3/d01/a08696.html#a4187f2b02014c83bc4f1b3d65d229311", null ],
-    [ "Name", "d3/d01/a08696.html#a787ca2c05ddac7ee5c3a5c28a02b8494", null ]
+    [ "invisibilityType", "d3/d01/a08696.html#ac1e874a76fecd4d3eb061722713f6634", null ],
+    [ "InvisibilityValue", "d3/d01/a08696.html#a8e1741fca7c49f0618a3999e69ae5c81", null ],
+    [ "ParentRotation", "d3/d01/a08696.html#a5ae35d326afcb1b80847761c0376deaf", null ]
 ];

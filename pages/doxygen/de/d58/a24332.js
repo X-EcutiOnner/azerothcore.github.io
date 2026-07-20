@@ -1,7 +1,6 @@
 var a24332 =
 [
-    [ "HandleProc", "de/d58/a24332.html#a60def76554cd5cf94d84ec1240d651dc", null ],
-    [ "PrepareAuraScript", "de/d58/a24332.html#ae78484c4af6ddfcd6bf60df191f9db48", null ],
-    [ "Register", "de/d58/a24332.html#a276526f7f988ce579dc67dc37eebbe87", null ],
-    [ "Validate", "de/d58/a24332.html#a65986abd9db0dcfb70c8c8b21ff208ac", null ]
+    [ "HandlePeriodic", "de/d58/a24332.html#adc387a1b001119b95179856c030853ad", null ],
+    [ "PrepareAuraScript", "de/d58/a24332.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
+    [ "Register", "de/d58/a24332.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
 ];

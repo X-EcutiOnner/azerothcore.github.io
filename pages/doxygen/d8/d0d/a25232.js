@@ -1,7 +1,6 @@
 var a25232 =
 [
-    [ "HandleProc", "d8/d0d/a25232.html#a38baf45ac31e2813316c4c22c2db59ec", null ],
-    [ "PrepareAuraScript", "d8/d0d/a25232.html#a3704981effea17b2c513f139a892c37c", null ],
-    [ "Register", "d8/d0d/a25232.html#a4d24566853a3a73f9ec215167f2bb401", null ],
-    [ "Validate", "d8/d0d/a25232.html#a457f28f8b0bab915dd9e65534ce80b87", null ]
+    [ "PrepareSpellScript", "d8/d0d/a25232.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "d8/d0d/a25232.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "d8/d0d/a25232.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

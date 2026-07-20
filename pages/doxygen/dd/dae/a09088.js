@@ -1,8 +1,8 @@
 var a09088 =
 [
-    [ "AttackPosition", "dd/dae/a09088.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
-    [ "operator=", "dd/dae/a09088.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
-    [ "operator==", "dd/dae/a09088.html#a320adced006c0f70456492c9e9dc99c2", null ],
-    [ "_pos", "dd/dae/a09088.html#a77783e0e6e83836ad6e5903535ad9370", null ],
-    [ "_taken", "dd/dae/a09088.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
+    [ "DiminishingReturn", "dd/dae/a09088.html#acd4828637710636d0164fced285c854d", null ],
+    [ "DRGroup", "dd/dae/a09088.html#add3ab95d65e283a326e1922129941ae4", null ],
+    [ "hitCount", "dd/dae/a09088.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
+    [ "hitTime", "dd/dae/a09088.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
+    [ "stack", "dd/dae/a09088.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
 ];

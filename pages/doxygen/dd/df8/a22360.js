@@ -1,7 +1,7 @@
 var a22360 =
 [
-    [ "npc_voidtraveler", "dd/df8/a22360.html#a07e473c14836a0612acd52078a93f2d8", null ],
-    [ "Reset", "dd/df8/a22360.html#a6efe0725917c92657220de2b60579289", null ],
-    [ "UpdateAI", "dd/df8/a22360.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
-    [ "_scheduler", "dd/df8/a22360.html#a1809494e7803103f6bc1698e780dcfbc", null ]
+    [ "OutdoorPvPGH", "dd/df8/a22360.html#a619492e0a1fdf75f37554a2f19268660", null ],
+    [ "HandleKill", "dd/df8/a22360.html#a78cf572faf727c302f9be496d91004e0", null ],
+    [ "SendRemoveWorldStates", "dd/df8/a22360.html#a92c7e489717072ddc34f707fbe462cb2", null ],
+    [ "SetupOutdoorPvP", "dd/df8/a22360.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
 ];

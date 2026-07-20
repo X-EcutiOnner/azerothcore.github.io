@@ -1,5 +1,8 @@
 var a27692 =
 [
-    [ "AreaTrigger_at_stormwright_shelf", "d6/dcd/a27692.html#a97cdf51a8992b3d9edc138351770fd75", null ],
-    [ "OnTrigger", "d6/dcd/a27692.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
+    [ "HandleEffect", "d6/dcd/a27692.html#a1c1a06362742abcf83e1817c468de3d3", null ],
+    [ "PrepareSpellScript", "d6/dcd/a27692.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
+    [ "Register", "d6/dcd/a27692.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
+    [ "SendMiss", "d6/dcd/a27692.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
+    [ "Validate", "d6/dcd/a27692.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
 ];

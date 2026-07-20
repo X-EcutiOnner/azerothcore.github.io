@@ -1,10 +1,8 @@
 var a11884 =
 [
-    [ "TargetHook", "d4/d09/a11884.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
-    [ "CheckEffect", "d4/d09/a11884.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
-    [ "GetTarget", "d4/d09/a11884.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
-    [ "ToString", "d4/d09/a11884.html#a424e03e457dc15a2689f344e614a882f", null ],
-    [ "area", "d4/d09/a11884.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
-    [ "dest", "d4/d09/a11884.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
-    [ "targetType", "d4/d09/a11884.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
+    [ "DirectionType", "d4/d09/a11884.html#a8491033c0286895c2d4d3280cfd529f0", null ],
+    [ "ObjectType", "d4/d09/a11884.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
+    [ "ReferenceType", "d4/d09/a11884.html#a44e310a789c4c5a288f07c9254ad389a", null ],
+    [ "SelectionCategory", "d4/d09/a11884.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
+    [ "SelectionCheckType", "d4/d09/a11884.html#a35c8d221b47de13408a0256598fa9d63", null ]
 ];

@@ -1,5 +1,6 @@
 var a10700 =
 [
-    [ "FactoryGameObjectScript", "d1/da2/a10700.html#ac0981bdae743da11b99d7df1c967a703", null ],
-    [ "GetAI", "d1/da2/a10700.html#a9a39e94f28729ea1fb4b6231d588b42c", null ]
+    [ "BattlegroundScript", "d1/da2/a10700.html#a306231f1c7346a00a3f877c7cef3897b", null ],
+    [ "GetBattleground", "d1/da2/a10700.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
+    [ "IsDatabaseBound", "d1/da2/a10700.html#a35b571d570c85a861af6f949b51453cb", null ]
 ];

@@ -1,8 +1,16 @@
 var a09540 =
 [
-    [ "AIRelocationNotifier", "da/d6c/a09540.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
-    [ "Visit", "da/d6c/a09540.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
-    [ "Visit", "da/d6c/a09540.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
-    [ "i_unit", "da/d6c/a09540.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
-    [ "isCreature", "da/d6c/a09540.html#a199f4b91d00dd4db90855e5521d87a95", null ]
+    [ "LiquidEntryType", "da/d6c/a09540.html#a025eadf79f31d447fc80efabbb2f9f22", null ],
+    [ "LiquidFlagsType", "da/d6c/a09540.html#a5bd1b8c77ed4830cc558985e98aa1d01", null ],
+    [ "LiquidMapType", "da/d6c/a09540.html#a554cc712f06b4a0eb9bf81c4a41b9030", null ],
+    [ "liquidEntry", "da/d6c/a09540.html#a1d69fc74b38f6e596704e26e93281314", null ],
+    [ "liquidFlags", "da/d6c/a09540.html#a9ebf22bb06a9254e7175083dc51af9dd", null ],
+    [ "liquidGlobalEntry", "da/d6c/a09540.html#a48274eeefa423c48ff860c8ffc110a30", null ],
+    [ "liquidGlobalFlags", "da/d6c/a09540.html#abdd9bfcaf91f30c3e543e632c347aa88", null ],
+    [ "liquidHeight", "da/d6c/a09540.html#a40f757a6fa57ade760cf1001925a0560", null ],
+    [ "liquidLevel", "da/d6c/a09540.html#a45b8bab4cc66e6e5be5ef51ad27bf1cc", null ],
+    [ "liquidMap", "da/d6c/a09540.html#ae6ddffb70a92aea580bacebb5a0e4d11", null ],
+    [ "liquidOffX", "da/d6c/a09540.html#a310d68fbb4d88272b7ae93492331ce4b", null ],
+    [ "liquidOffY", "da/d6c/a09540.html#ae8b485a43a960a810f5951df6419bd54", null ],
+    [ "liquidWidth", "da/d6c/a09540.html#afee2d2d96fc879729a070d2b5eb114e0", null ]
 ];

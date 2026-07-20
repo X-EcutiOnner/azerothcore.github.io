@@ -1,5 +1,7 @@
 var a20292 =
 [
-    [ "achievement_getting_cold_in_here", "d5/dda/a20292.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
-    [ "OnCheck", "d5/dda/a20292.html#aeafd382d378381f754da6ee04d382276", null ]
+    [ "npc_ulduar_saronite_vapors", "d5/dda/a20292.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
+    [ "IsSummonedBy", "d5/dda/a20292.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
+    [ "JustDied", "d5/dda/a20292.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
+    [ "_instance", "d5/dda/a20292.html#ad304110ff1bfc33066cd17f04cf40181", null ]
 ];

@@ -1,6 +1,12 @@
 var a04418 =
 [
-    [ "SOAPCommand", "d2/d10/a05995.html", "d2/d10/a05995" ],
-    [ "ACSoapThread", "d3/d74/a04418.html#a69e574c9a3cecf7c395cd036bb672ed3", null ],
-    [ "process_message", "d3/d74/a04418.html#abf914e30c869f88f2fafb9f656320c6a", null ]
+    [ "instance_stratholme", "d9/d9a/a13692.html", "d9/d9a/a13692" ],
+    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "d1/d1f/a13696.html", "d1/d1f/a13696" ],
+    [ "AddSC_instance_stratholme", "d3/d74/a04418.html#add44fd9ad05267cc5db256b112db2585", null ],
+    [ "aGateTrap", "d3/d74/a04418.html#aa404f6799978911e2f0e4de3b4386c59", null ],
+    [ "aPlaguedCritters", "d3/d74/a04418.html#a4108af811b2731f9784942b89f333054", null ],
+    [ "BarthilasPos", "d3/d74/a04418.html#a3c5bc53064d7ed19146d61fbe2f25502", null ],
+    [ "BlackGuardPos", "d3/d74/a04418.html#a8ed1ccc03c022b129aa9bb9464fedd0a", null ],
+    [ "MindlessUndeadPos", "d3/d74/a04418.html#a1a89feed6c582c3bf3e51bf3a1027081", null ],
+    [ "SlaughterPos", "d3/d74/a04418.html#aec64d79cbf450b10fd485f2e559e0472", null ]
 ];

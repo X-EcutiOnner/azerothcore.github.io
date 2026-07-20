@@ -1,5 +1,6 @@
 var a12328 =
 [
-    [ "flag", "dc/d86/a12328.html#abde26bce31a9153038294f78e9fdc18c", null ],
-    [ "text", "dc/d86/a12328.html#a3bf2ae3fd8a347ee70e2c537d909ce30", null ]
+    [ "bg_commandscript", "dc/d86/a12328.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
+    [ "GetCommands", "dc/d86/a12328.html#a911ccd6445b08c05069f7f196556c891", null ],
+    [ "HandleBagsClearCommand", "dc/d86/a12328.html#a92347e90c2f78d0dfeb41eb033366319", null ]
 ];

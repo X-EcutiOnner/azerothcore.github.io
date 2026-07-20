@@ -1,6 +1,5 @@
 var a22940 =
 [
-    [ "HandleApplyAura", "d5/d95/a22940.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "d5/d95/a22940.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "d5/d95/a22940.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "PrepareSpellScript", "d5/d95/a22940.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
+    [ "Register", "d5/d95/a22940.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
 ];

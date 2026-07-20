@@ -1,5 +1,6 @@
 var a22252 =
 [
-    [ "OutdoorPvP_zangarmarsh", "dd/dbc/a22252.html#ae287d5df21bf75efab6c651f4f3d875e", null ],
-    [ "GetOutdoorPvP", "dd/dbc/a22252.html#a145ddfe383663ed3fb46960e39691f8f", null ]
+    [ "HandleSummon", "dd/dbc/a22252.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
+    [ "PrepareSpellScript", "dd/dbc/a22252.html#ae7f071e9d9a82892be31090385679c9f", null ],
+    [ "Register", "dd/dbc/a22252.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
 ];

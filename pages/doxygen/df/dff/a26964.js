@@ -1,7 +1,8 @@
 var a26964 =
 [
-    [ "HandleEffectPeriodic", "df/dff/a26964.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
-    [ "PrepareAuraScript", "df/dff/a26964.html#ae151331af09510cc91b63b65a30bdcbf", null ],
-    [ "Register", "df/dff/a26964.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
-    [ "Validate", "df/dff/a26964.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
+    [ "Load", "df/dff/a26964.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
+    [ "OnRemove", "df/dff/a26964.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
+    [ "PrepareAuraScript", "df/dff/a26964.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
+    [ "Register", "df/dff/a26964.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
+    [ "Validate", "df/dff/a26964.html#a3820e716d20809896c84c1ca781af4d1", null ]
 ];

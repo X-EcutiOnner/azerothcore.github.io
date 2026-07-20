@@ -1,7 +1,12 @@
 var a27256 =
 [
-    [ "HandleProc", "d0/d2c/a27256.html#a4ea5706e6f0caa7a9c93b779bb71349f", null ],
-    [ "PrepareAuraScript", "d0/d2c/a27256.html#af83570899be1f91a1273cc5f46792b57", null ],
-    [ "Register", "d0/d2c/a27256.html#a1406e9a52a4e24a71fd26192abc64c73", null ],
-    [ "Validate", "d0/d2c/a27256.html#ab6528e1c69cbf7fdb8bb7e792908d02a", null ]
+    [ "CalcPeriodic", "d0/d2c/a27256.html#a35d58947074659d2692877dfcf13e4bd", null ],
+    [ "CalculateAPAmount", "d0/d2c/a27256.html#ac72434a046c28a4887971cf83d574a6e", null ],
+    [ "CalculateResistanceAmount", "d0/d2c/a27256.html#a82067899470366c2cbf21bba08061ce1", null ],
+    [ "CalculateSPAmount", "d0/d2c/a27256.html#a527213b389be9b1953f423ae84eb16ee", null ],
+    [ "CalculateStatAmount", "d0/d2c/a27256.html#ad7185292820feb168565648133c9e2cc", null ],
+    [ "HandleEffectApply", "d0/d2c/a27256.html#aa333430da4cf3303822d5f048cb9d5a4", null ],
+    [ "HandlePeriodic", "d0/d2c/a27256.html#ae2bca6c841d1ba02a8a39b1a2179ac97", null ],
+    [ "PrepareAuraScript", "d0/d2c/a27256.html#a671a588ae36323c11b33a45d652290de", null ],
+    [ "Register", "d0/d2c/a27256.html#a8aae94d6d6a9ec1fa7d47f88874cce4f", null ]
 ];

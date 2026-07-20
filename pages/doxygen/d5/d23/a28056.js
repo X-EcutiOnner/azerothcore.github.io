@@ -1,7 +1,6 @@
 var a28056 =
 [
-    [ "npc_prof_leather", "d5/d23/a28056.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
-    [ "HasLeatherSpecialty", "d5/d23/a28056.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
-    [ "OnGossipHello", "d5/d23/a28056.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
-    [ "OnGossipSelect", "d5/d23/a28056.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
+    [ "go_darkmoon_faire_musicAI", "d5/d5c/a28060.html", "d5/d5c/a28060" ],
+    [ "go_darkmoon_faire_music", "d5/d23/a28056.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
+    [ "GetAI", "d5/d23/a28056.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
 ];

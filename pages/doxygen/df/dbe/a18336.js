@@ -1,7 +1,7 @@
 var a18336 =
 [
-    [ "OnRemove", "df/dbe/a18336.html#aa096174465120bde1994c85f72682be1", null ],
-    [ "PrepareAuraScript", "df/dbe/a18336.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
-    [ "Register", "df/dbe/a18336.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
-    [ "Validate", "df/dbe/a18336.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
+    [ "HandleProc", "df/dbe/a18336.html#a6d63b76821dbbd025bec1e8d48c8e9c9", null ],
+    [ "PrepareAuraScript", "df/dbe/a18336.html#a5eace3a973165eb82ae95b8052bb9476", null ],
+    [ "Register", "df/dbe/a18336.html#aa5b01193a7b6e58935c261c80e6a0d9a", null ],
+    [ "Validate", "df/dbe/a18336.html#ad2a7488006b16840e02b450cc9150289", null ]
 ];

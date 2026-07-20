@@ -1,10 +1,9 @@
 var a24092 =
 [
-    [ "npc_pet_hunter_snake_trap", "d7/d5c/a24092.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "InitializeAI", "d7/d5c/a24092.html#a91931c2ac0fd4981f9bf8a2f8f7db672", null ],
-    [ "JustEngagedWith", "d7/d5c/a24092.html#a695af9c49daa05c787dac03c4af91645", null ],
-    [ "MoveInLineOfSight", "d7/d5c/a24092.html#a099a34f12399fe24349644da3dafe7a4", null ],
-    [ "UpdateAI", "d7/d5c/a24092.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_isViper", "d7/d5c/a24092.html#ab49c69ca25014ef63e775b236255e4c1", null ],
-    [ "_spellTimer", "d7/d5c/a24092.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "npc_korkron_or_wildhammer", "d7/d5c/a24092.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
+    [ "IsSummonedBy", "d7/d5c/a24092.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
+    [ "JustDied", "d7/d5c/a24092.html#a2b216f372b3681b4c96a711568c2a93b", null ],
+    [ "MovementInform", "d7/d5c/a24092.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
+    [ "Reset", "d7/d5c/a24092.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
+    [ "_playerGUID", "d7/d5c/a24092.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
 ];

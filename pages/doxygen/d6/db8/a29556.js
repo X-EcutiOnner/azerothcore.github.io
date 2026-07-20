@@ -1,9 +1,6 @@
 var a29556 =
 [
-    [ "defaultHitMask", "d6/db8/a29556.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
-    [ "defaultSpellPhaseMask", "d6/db8/a29556.html#af927bd441959e8e122648de610398c65", null ],
-    [ "defaultSpellTypeMask", "d6/db8/a29556.html#aa64e6ad192c41998b368b908c499574d", null ],
-    [ "name", "d6/db8/a29556.html#a78f8589133427f536f15ea05672ad42f", null ],
-    [ "procFlag", "d6/db8/a29556.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
-    [ "requiresSpellPhase", "d6/db8/a29556.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
+    [ "SetUp", "d6/db8/a29556.html#ac4e6ae8a500400a1e133c1630f064e3b", null ],
+    [ "TearDown", "d6/db8/a29556.html#aa3c2026d7506be72d67c6d583751c550", null ],
+    [ "rbacData", "d6/db8/a29556.html#a4318e5c5d8137feb011a25c2d4a3c28a", null ]
 ];

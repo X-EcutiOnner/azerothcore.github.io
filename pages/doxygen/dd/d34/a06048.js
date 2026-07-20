@@ -1,8 +1,6 @@
 var a06048 =
 [
-    [ "Statements", "dd/d34/a06048.html#adaf49f7cb45d90cb041f979b1821e4a1", null ],
-    [ "WorldDatabaseConnection", "dd/d34/a06048.html#a0c03387d2c019c86d1fe4933eca6aae5", null ],
-    [ "WorldDatabaseConnection", "dd/d34/a06048.html#a015f79a049d37f742232bc5ac10e9551", null ],
-    [ "~WorldDatabaseConnection", "dd/d34/a06048.html#a2feafa80fe8e838587d8f7b641c0ab09", null ],
-    [ "DoPrepareStatements", "dd/d34/a06048.html#a280aa4a4571581c5cef8f9967631b484", null ]
+    [ "Append", "dd/d34/a06048.html#a290b052f7cbd321c646e9e5e19484444", null ],
+    [ "Append", "dd/d34/a06048.html#a867b7a92080104278aef5fb4975a4a52", null ],
+    [ "Append", "dd/d34/a06048.html#aa0a81814abe26d456018c3bc9153cd4d", null ]
 ];

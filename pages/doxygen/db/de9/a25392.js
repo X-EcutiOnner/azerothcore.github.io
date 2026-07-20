@@ -1,7 +1,7 @@
 var a25392 =
 [
-    [ "HandleProc", "db/de9/a25392.html#a202ed9cca388b984f0dfebb64a512c47", null ],
-    [ "PrepareAuraScript", "db/de9/a25392.html#a133ff30c99bd6521d83e2de2361a5123", null ],
-    [ "Register", "db/de9/a25392.html#a6cab1853296da43b4a4cb39bedb20ffa", null ],
-    [ "Validate", "db/de9/a25392.html#a39b41d1560869ef9a1231fd39d0a652f", null ]
+    [ "HandleScript", "db/de9/a25392.html#a4788a8ce7c88378c8b55d1fe60200b71", null ],
+    [ "PrepareSpellScript", "db/de9/a25392.html#a3317bfc299c6c8c81ef6dfd75ff773f0", null ],
+    [ "Register", "db/de9/a25392.html#a1a44bfb68010c34470ee72c9dcdfc3b4", null ],
+    [ "Validate", "db/de9/a25392.html#ad242bd4bb5f9be8767b170fd2cc9c444", null ]
 ];

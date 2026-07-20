@@ -1,8 +1,6 @@
 var a14836 =
 [
-    [ "OnApply", "d9/d56/a14836.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
-    [ "OnRemove", "d9/d56/a14836.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
-    [ "PrepareAuraScript", "d9/d56/a14836.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
-    [ "Register", "d9/d56/a14836.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
-    [ "Validate", "d9/d56/a14836.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
+    [ "HandleScript", "d9/d56/a14836.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
+    [ "PrepareSpellScript", "d9/d56/a14836.html#aab4303fff660c68db100e07a4423c39b", null ],
+    [ "Register", "d9/d56/a14836.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
 ];

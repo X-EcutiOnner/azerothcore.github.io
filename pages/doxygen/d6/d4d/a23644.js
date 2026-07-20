@@ -1,7 +1,6 @@
 var a23644 =
 [
-    [ "OnPeriodic", "d6/d4d/a23644.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "d6/d4d/a23644.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "d6/d4d/a23644.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "d6/d4d/a23644.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "HandlePeriodic", "d6/d4d/a23644.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "d6/d4d/a23644.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "d6/d4d/a23644.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

@@ -1,7 +1,10 @@
 var a16020 =
 [
-    [ "npc_lakota_windsongAI", "d9/d26/a16024.html", "d9/d26/a16024" ],
-    [ "npc_lakota_windsong", "d3/d1a/a16020.html#a08a585ac36189ec23354c7acb26d223d", null ],
-    [ "GetAI", "d3/d1a/a16020.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
-    [ "OnQuestAccept", "d3/d1a/a16020.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
+    [ "CreatureId", "d3/d1a/a16020.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
+    [ "DespTimer", "d3/d1a/a16020.html#a0dfec745982b346ac1cd0af672be31fb", null ],
+    [ "SpawnCount", "d3/d1a/a16020.html#ad5347ee83eaa00fe0721279099c48433", null ],
+    [ "SpawnTimer", "d3/d1a/a16020.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
+    [ "UsedSpawnPoint", "d3/d1a/a16020.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
+    [ "WaveTextId", "d3/d1a/a16020.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
+    [ "YellTimer", "d3/d1a/a16020.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
 ];

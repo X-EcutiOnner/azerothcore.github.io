@@ -1,6 +1,8 @@
 var a17928 =
 [
-    [ "PrepareSpellScript", "dc/d1e/a17928.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
-    [ "Register", "dc/d1e/a17928.html#a651f52f7d242251ff69d100fd69376e4", null ],
-    [ "SelectTarget", "dc/d1e/a17928.html#aede083ebebe38deb5898ff028564ef95", null ]
+    [ "ResetEncounterEvent", "dc/d1e/a17928.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "dc/d1e/a17928.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "dc/d1e/a17928.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "dc/d1e/a17928.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "dc/d1e/a17928.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

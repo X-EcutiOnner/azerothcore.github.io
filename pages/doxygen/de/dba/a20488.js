@@ -1,10 +1,6 @@
 var a20488 =
 [
-    [ "npc_ulduar_harpoonfirestate", "de/dba/a20488.html#a2456fbee16367a524f26873da99247e8", null ],
-    [ "GetData", "de/dba/a20488.html#a83ba5a0cc62ba15cf671d49fccf75f7d", null ],
-    [ "GetHarpoonGunIdForThisHFS", "de/dba/a20488.html#ae8e0613e67ee4e17157a05910c1551c8", null ],
-    [ "Reset", "de/dba/a20488.html#aba0f9525ef9e3eddbc4a78164c2f8ffd", null ],
-    [ "SetData", "de/dba/a20488.html#a338c6cb2be0e05726f372344fdc2b436", null ],
-    [ "pInstance", "de/dba/a20488.html#aee0914001b38be87976cd44b6bbaf276", null ],
-    [ "repairPoints", "de/dba/a20488.html#a64bf7ba3b4930eb141b66075b772e64d", null ]
+    [ "HandleInstaKill", "de/dba/a20488.html#a593786eb89bf77e05dad4b502ffc1925", null ],
+    [ "PrepareSpellScript", "de/dba/a20488.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
+    [ "Register", "de/dba/a20488.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
 ];

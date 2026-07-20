@@ -1,8 +1,6 @@
 var a21544 =
 [
-    [ "npc_q24545_vegardAI", "de/dd8/a21544.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
-    [ "JustDied", "de/dd8/a21544.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
-    [ "KilledUnit", "de/dd8/a21544.html#a2d78117a6c2a29f52f1905595425964a", null ],
-    [ "UpdateAI", "de/dd8/a21544.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
-    [ "events", "de/dd8/a21544.html#a68f48d92cc5559025e635d599c2882e3", null ]
+    [ "npc_mageguard_dalaranAI", "d2/d92/a21548.html", "d2/d92/a21548" ],
+    [ "npc_mageguard_dalaran", "de/dd8/a21544.html#a0cec4f232b665325c421cecb5839885f", null ],
+    [ "GetAI", "de/dd8/a21544.html#a10cbddceb53a2d432da2224128c59b28", null ]
 ];

@@ -1,8 +1,7 @@
 var a14288 =
 [
-    [ "HandleScriptEffect", "d4/d32/a14288.html#af7f22d3b7ba136ec2af88656b9805168", null ],
-    [ "PrepareSpellScript", "d4/d32/a14288.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
-    [ "Register", "d4/d32/a14288.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
-    [ "Validate", "d4/d32/a14288.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
-    [ "spells", "d4/d32/a14288.html#a902fc17746af82a4c58fe599c9616ce2", null ]
+    [ "Load", "d4/d32/a14288.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
+    [ "OnRemove", "d4/d32/a14288.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
+    [ "PrepareAuraScript", "d4/d32/a14288.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
+    [ "Register", "d4/d32/a14288.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
 ];

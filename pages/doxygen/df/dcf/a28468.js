@@ -1,9 +1,9 @@
 var a28468 =
 [
-    [ "npc_chicken_cluckAI", "df/dcf/a28468.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "df/dcf/a28468.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "df/dcf/a28468.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "df/dcf/a28468.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "df/dcf/a28468.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "df/dcf/a28468.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "npc_herald_of_the_lich_king", "df/dcf/a28468.html#a62e373796ce4e6509692e6837cdb561f", null ],
+    [ "ChangeZoneEventStatus", "df/dcf/a28468.html#a30c44f2f62badd27b105a55527d40670", null ],
+    [ "DoAction", "df/dcf/a28468.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
+    [ "InitializeAI", "df/dcf/a28468.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
+    [ "UpdateAI", "df/dcf/a28468.html#a21a5093a46959f4b69777b63de12c557", null ],
+    [ "UpdateWeather", "df/dcf/a28468.html#a3c6d076171596c9ce472cddda18a42be", null ]
 ];

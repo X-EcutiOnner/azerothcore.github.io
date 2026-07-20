@@ -1,11 +1,11 @@
 var a28848 =
 [
-    [ "ClassID", "da/dd4/a28848.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
-    [ "DisplayInfoID", "da/dd4/a28848.html#a87657df2ad024245ccb2192303f76b7a", null ],
-    [ "ID", "da/dd4/a28848.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
-    [ "InventoryType", "da/dd4/a28848.html#a6dc33fc40a299b010c18a7009aff648b", null ],
-    [ "Material", "da/dd4/a28848.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
-    [ "SheatheType", "da/dd4/a28848.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
-    [ "SoundOverrideSubclassID", "da/dd4/a28848.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
-    [ "SubclassID", "da/dd4/a28848.html#ac39254716573e335caf312f635353a2e", null ]
+    [ "icon", "da/dd4/a28848.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
+    [ "id", "da/dd4/a28848.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
+    [ "mapId", "da/dd4/a28848.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
+    [ "worldState", "da/dd4/a28848.html#a9d745d26316726c861cc5a242f6a4f57", null ],
+    [ "x", "da/dd4/a28848.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
+    [ "y", "da/dd4/a28848.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
+    [ "z", "da/dd4/a28848.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
+    [ "zoneId", "da/dd4/a28848.html#a0cc33089981237694ca550cba6793a3e", null ]
 ];

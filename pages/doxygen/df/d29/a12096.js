@@ -1,12 +1,10 @@
 var a12096 =
 [
-    [ "Action", "df/d29/a12096.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
-    [ "Address", "df/d29/a12096.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
-    [ "CheckId", "df/d29/a12096.html#a51a0cea0381f2b64e9d240ac39591172", null ],
-    [ "Comment", "df/d29/a12096.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
-    [ "Data", "df/d29/a12096.html#a962795028d40645fe67e4290ea64b10b", null ],
-    [ "IdStr", "df/d29/a12096.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
-    [ "Length", "df/d29/a12096.html#abe0249d9550042e696eb74edf06aaec8", null ],
-    [ "Str", "df/d29/a12096.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
-    [ "Type", "df/d29/a12096.html#aca31cdb700dca4801dfa514812639c70", null ]
+    [ "CustomChatTextBuilder", "df/d29/a12096.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "df/d29/a12096.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "df/d29/a12096.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "df/d29/a12096.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "df/d29/a12096.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "df/d29/a12096.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "df/d29/a12096.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

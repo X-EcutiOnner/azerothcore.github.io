@@ -1,8 +1,7 @@
 var a23280 =
 [
-    [ "HandleDummyApply", "d0/d99/a23280.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "d0/d99/a23280.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "d0/d99/a23280.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "d0/d99/a23280.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "d0/d99/a23280.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "HandleScript", "d0/d99/a23280.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
+    [ "PrepareSpellScript", "d0/d99/a23280.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
+    [ "Register", "d0/d99/a23280.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
+    [ "Validate", "d0/d99/a23280.html#a46aca18049e02d50f57579b3fdc705bd", null ]
 ];

@@ -1,6 +1,7 @@
 var a25716 =
 [
-    [ "CheckSinkholes", "d7/d83/a25716.html#a5c363144cde9e809d97730f54873fe85", null ],
-    [ "PrepareSpellScript", "d7/d83/a25716.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
-    [ "Register", "d7/d83/a25716.html#a6694fbf58b776b74df0a54cd96141688", null ]
+    [ "CheckProc", "d7/d83/a25716.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
+    [ "HandleProc", "d7/d83/a25716.html#a27569fe686e50246768fca4a7625fe0d", null ],
+    [ "PrepareAuraScript", "d7/d83/a25716.html#a4f4eaa4aeeac9257804957671c16233f", null ],
+    [ "Register", "d7/d83/a25716.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
 ];

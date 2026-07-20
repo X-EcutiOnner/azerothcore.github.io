@@ -1,18 +1,10 @@
 var a28172 =
 [
-    [ "npc_doctorAI", "d8/d74/a28172.html#a8efc303041393347eaaf38aff05f7b9c", null ],
-    [ "BeginEvent", "d8/d74/a28172.html#a1439b4eb147700ca493dc5eaa1e2d5a4", null ],
-    [ "JustEngagedWith", "d8/d74/a28172.html#aca786ccf8cf99d7ba49a08046147f121", null ],
-    [ "PatientDied", "d8/d74/a28172.html#ad3e2a36e774d2dbd2a6779d8fb19ea88", null ],
-    [ "PatientSaved", "d8/d74/a28172.html#af8a61f187f6bd57b98d8bf4c8c45e494", null ],
-    [ "Reset", "d8/d74/a28172.html#af2d84b163d41b1b32e191200f54085c2", null ],
-    [ "UpdateAI", "d8/d74/a28172.html#abe156e2303a9c743fa66b4f82808c707", null ],
-    [ "Coordinates", "d8/d74/a28172.html#acda1ada9d7868bfd93ceaaa39f82731b", null ],
-    [ "Event", "d8/d74/a28172.html#ad558d5c0a5fe07904445e893c09be980", null ],
-    [ "PatientDiedCount", "d8/d74/a28172.html#a0774874d9d75feb8d8bf6ce201e719d9", null ],
-    [ "Patients", "d8/d74/a28172.html#a75cd1e01322c09204ffe54cd92ad9543", null ],
-    [ "PatientSavedCount", "d8/d74/a28172.html#abeda2ee514c6ed1544a7e27955fc86b8", null ],
-    [ "PlayerGUID", "d8/d74/a28172.html#a97e2b2bd8a750817f23c51d36c49ae1c", null ],
-    [ "SummonPatientCount", "d8/d74/a28172.html#a320c2e32c5003e880f7567c89db8ca8c", null ],
-    [ "SummonPatientTimer", "d8/d74/a28172.html#adb9cd2ed50dd02f88c4f375a0be8ee89", null ]
+    [ "guard_shattrath_scryerAI", "d8/d74/a28172.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "d8/d74/a28172.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "d8/d74/a28172.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "d8/d74/a28172.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "d8/d74/a28172.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "d8/d74/a28172.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "d8/d74/a28172.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

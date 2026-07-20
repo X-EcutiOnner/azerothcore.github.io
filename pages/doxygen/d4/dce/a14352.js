@@ -1,5 +1,7 @@
 var a14352 =
 [
-    [ "at_zulgurub_temple_speech", "d4/dce/a14352.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
-    [ "_OnTrigger", "d4/dce/a14352.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
+    [ "HandleScript", "d4/dce/a14352.html#ac45614416a710794b3e3a5cee239e28a", null ],
+    [ "PrepareSpellScript", "d4/dce/a14352.html#a832aee6557e27bfa418957297a05bea3", null ],
+    [ "Register", "d4/dce/a14352.html#a2f5d255de09818203e498c0090bdd3fb", null ],
+    [ "Validate", "d4/dce/a14352.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
 ];

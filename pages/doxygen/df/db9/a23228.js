@@ -1,12 +1,10 @@
 var a23228 =
 [
-    [ "boss_omor_the_unscarred", "df/db9/a23228.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "df/db9/a23228.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "df/db9/a23228.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "df/db9/a23228.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "df/db9/a23228.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "df/db9/a23228.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "df/db9/a23228.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "df/db9/a23228.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "df/db9/a23228.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "boss_warlord_kalithresh", "df/db9/a23228.html#afcf2288fbea2d5010c41344ce0247559", null ],
+    [ "JustDied", "df/db9/a23228.html#a1947562aa9dafea371e2f2da824a3f65", null ],
+    [ "JustEngagedWith", "df/db9/a23228.html#a2712f5c363c3929550b77ef2536b1385", null ],
+    [ "KilledUnit", "df/db9/a23228.html#a06855288497f5335a236867ef681d3f8", null ],
+    [ "MoveInLineOfSight", "df/db9/a23228.html#a544da19b6c3a6f159ed6b1639def1071", null ],
+    [ "Reset", "df/db9/a23228.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
+    [ "_introDone", "df/db9/a23228.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
 ];

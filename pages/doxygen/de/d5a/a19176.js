@@ -1,6 +1,9 @@
 var a19176 =
 [
-    [ "npc_isle_of_conquest_turretAI", "d7/d06/a19180.html", "d7/d06/a19180" ],
-    [ "npc_isle_of_conquest_turret", "de/d5a/a19176.html#ac080845203adef25e6841133b7e2f4dc", null ],
-    [ "GetAI", "de/d5a/a19176.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
+    [ "npc_icc_skybreaker_vicarAI", "de/d5a/a19176.html#ae74a306850b328f536b55e5c24c040ab", null ],
+    [ "AttackStart", "de/d5a/a19176.html#a52b753e1f599eb02385d980a78cd3c78", null ],
+    [ "JustEngagedWith", "de/d5a/a19176.html#afdb4215cd0578de7342b152783666ed6", null ],
+    [ "Reset", "de/d5a/a19176.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
+    [ "UpdateAI", "de/d5a/a19176.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
+    [ "events", "de/d5a/a19176.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
 ];

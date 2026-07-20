@@ -1,7 +1,11 @@
 var a20860 =
 [
-    [ "npc_frost_tomb", "dd/d93/a20860.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "dd/d93/a20860.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "dd/d93/a20860.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "dd/d93/a20860.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "boss_yoggsaron_llane", "dd/d93/a20860.html#a42e3d189cff0da5995401e4bc8dfffdd", null ],
+    [ "NextStep", "dd/d93/a20860.html#ab8b6446fe7d424ad7d943af915cc4b8a", null ],
+    [ "Reset", "dd/d93/a20860.html#a0df3a85717ab26ad1ac889d6fe4d8007", null ],
+    [ "Say", "dd/d93/a20860.html#a0ae3106eac830ed9f14f17e5fa1d45ec", null ],
+    [ "UpdateAI", "dd/d93/a20860.html#a58ec957cd59b944439fe514e728e2902", null ],
+    [ "_checkTimer", "dd/d93/a20860.html#a3043382e2727bc78a74acaec28697045", null ],
+    [ "_running", "dd/d93/a20860.html#ab7e1b1ed82f311b12f28f1622e6ad378", null ],
+    [ "_step", "dd/d93/a20860.html#a91a71f85bab9e4d1234964ef534e51c2", null ]
 ];

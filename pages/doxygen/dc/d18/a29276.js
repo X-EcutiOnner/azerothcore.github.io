@@ -1,19 +1,17 @@
 var a29276 =
 [
-    [ "SpellProcEntryBuilder", "dc/d18/a29276.html#ad5df1abe27dde6d70c030bd19ed5c928", null ],
-    [ "Build", "dc/d18/a29276.html#a2a69603215e9fa526304f420bd5a490c", null ],
-    [ "WithAttributesMask", "dc/d18/a29276.html#ab9585e517adc231979ca5b817a2f2142", null ],
-    [ "WithChance", "dc/d18/a29276.html#a3c99a07866eb497717932af6b7f3a485", null ],
-    [ "WithCharges", "dc/d18/a29276.html#a6b8ecf0c38751be02b7003a7547d550f", null ],
-    [ "WithCooldown", "dc/d18/a29276.html#acd3a4b7ab057b5f36dd407acc11a4da4", null ],
-    [ "WithDisableEffectsMask", "dc/d18/a29276.html#ad414f75756b0fd284c636568dd74e57c", null ],
-    [ "WithHitMask", "dc/d18/a29276.html#a1cdd7bec2aa80d5036d614ad0296a695", null ],
-    [ "WithProcFlags", "dc/d18/a29276.html#acebcb2a676a7e8e6821854137e056fff", null ],
-    [ "WithProcsPerMinute", "dc/d18/a29276.html#aa373ae9df6697d722e7f6084a70c8b7a", null ],
-    [ "WithSchoolMask", "dc/d18/a29276.html#a713d576e3a6daf3c6f96b662b5789f14", null ],
-    [ "WithSpellFamilyMask", "dc/d18/a29276.html#a57a1699a8238dd535a44908734e3c7fd", null ],
-    [ "WithSpellFamilyName", "dc/d18/a29276.html#abf221ae8a8ef5e995bbe9b3f01f004c1", null ],
-    [ "WithSpellPhaseMask", "dc/d18/a29276.html#ae7ddfcb398c2f5e52834bd74d25754dc", null ],
-    [ "WithSpellTypeMask", "dc/d18/a29276.html#aa0691e03294c5317fdd173d4dd70edc1", null ],
-    [ "_entry", "dc/d18/a29276.html#a42632c6cb19221bbca3441f46e1f1b3c", null ]
+    [ "AcceptCallback", "dc/d18/a29276.html#ae67025eb8e17fa2e21a31ef2c1126d3e", null ],
+    [ "AsyncAcceptor", "dc/d18/a29276.html#ad7f6d43d134ef97e31061c43408c4c17", null ],
+    [ "AsyncAccept", "dc/d18/a29276.html#a0d7a3371b14fa8eecbe30ff73e366398", null ],
+    [ "AsyncAcceptWithCallback", "dc/d18/a29276.html#ae2443c046b245262497e407c9a5b7b3f", null ],
+    [ "Bind", "dc/d18/a29276.html#a91c22b6aba05bc493cfaf28a9203ce84", null ],
+    [ "Close", "dc/d18/a29276.html#a0ed31d03f8cdb38b1e359f3085e7ee29", null ],
+    [ "DefaultSocketFactory", "dc/d18/a29276.html#aadf8a9dfb6c1c2acb5d3deb5ca6839e5", null ],
+    [ "SetSocketFactory", "dc/d18/a29276.html#a1c36bf67a6bf2bda36eefca9ac2eb699", null ],
+    [ "_acceptor", "dc/d18/a29276.html#acde256fa08ae9fc7b785d5b5038cb6ae", null ],
+    [ "_closed", "dc/d18/a29276.html#a27230b467efdb08dbb9b0c0198db0936", null ],
+    [ "_endpoint", "dc/d18/a29276.html#a2e120e7924841a5cc71ec57143ac47c9", null ],
+    [ "_socket", "dc/d18/a29276.html#a6059f96aa17966e2480771340d3593db", null ],
+    [ "_socketFactory", "dc/d18/a29276.html#a0384d4c9813757e0237d23ed1cca2c12", null ],
+    [ "_supportSocketActivation", "dc/d18/a29276.html#ae5e66fec6b3a21263be2b87edd5d07dd", null ]
 ];

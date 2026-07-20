@@ -1,7 +1,5 @@
 var a19220 =
 [
-    [ "HandleTriggerSpell", "d0/dcb/a19220.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
-    [ "PrepareAuraScript", "d0/dcb/a19220.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
-    [ "Register", "d0/dcb/a19220.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
-    [ "Validate", "d0/dcb/a19220.html#a813bad39641956fff697580f271416d2", null ]
+    [ "npc_icc_buff_switcher", "d0/dcb/a19220.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
+    [ "OnGossipSelect", "d0/dcb/a19220.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
 ];

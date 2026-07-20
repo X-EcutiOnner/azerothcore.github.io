@@ -1,6 +1,6 @@
 var a16628 =
 [
-    [ "HandleSpellHit", "d6/d41/a16628.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
-    [ "PrepareSpellScript", "d6/d41/a16628.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
-    [ "Register", "d6/d41/a16628.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
+    [ "OnSummon", "d6/d41/a16628.html#ae2766d12fb686356b46126848f356c5a", null ],
+    [ "PrepareSpellScript", "d6/d41/a16628.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
+    [ "Register", "d6/d41/a16628.html#a717394bfbea621ae637f9e87efddda62", null ]
 ];

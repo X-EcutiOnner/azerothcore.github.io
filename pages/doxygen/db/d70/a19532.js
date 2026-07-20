@@ -1,8 +1,10 @@
 var a19532 =
 [
-    [ "Load", "db/d70/a19532.html#af8ef90a44a5405e58dbb3003642c078b", null ],
-    [ "PrepareSpellScript", "db/d70/a19532.html#a40649371440d62e4ba8af1b077880d0b", null ],
-    [ "Register", "db/d70/a19532.html#ae2e6dbec0ace878477b6024e45d8dac0", null ],
-    [ "SendThreeTargets", "db/d70/a19532.html#ab16b83839ce9136da84691640020f846", null ],
-    [ "Validate", "db/d70/a19532.html#a27686bfd0d6029cc4667738b0af4bec4", null ]
+    [ "boss_razuvious_minionAI", "db/d70/a19532.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
+    [ "DoAction", "db/d70/a19532.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
+    [ "JustEngagedWith", "db/d70/a19532.html#ada2e7a5ac1f129572a0689afce49d310", null ],
+    [ "KilledUnit", "db/d70/a19532.html#ab1a6f582098c9d1218551af0aae1815d", null ],
+    [ "Reset", "db/d70/a19532.html#a170de8517a03a0e78b1e67652869fd9a", null ],
+    [ "ScheduleAttackDummy", "db/d70/a19532.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
+    [ "UpdateAI", "db/d70/a19532.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
 ];

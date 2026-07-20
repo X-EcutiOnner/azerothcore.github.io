@@ -1,8 +1,5 @@
 var a12288 =
 [
-    [ "honor_commandscript", "d1/ded/a12288.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
-    [ "GetCommands", "d1/ded/a12288.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
-    [ "HandleHonorAddCommand", "d1/ded/a12288.html#a03caa77b436e3d513e1325badf05df33", null ],
-    [ "HandleHonorAddKillCommand", "d1/ded/a12288.html#aec79f459796d821a032477827e16308a", null ],
-    [ "HandleHonorUpdateCommand", "d1/ded/a12288.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
+    [ "WorldConfig", "d1/ded/a12288.html#abe3f855f1902d7f3974b741cfc0a3663", null ],
+    [ "BuildConfigCache", "d1/ded/a12288.html#aaf6bfad583f3a2dbb1e9ea2487dd2c9d", null ]
 ];

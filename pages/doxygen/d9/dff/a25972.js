@@ -1,7 +1,7 @@
 var a25972 =
 [
-    [ "AfterRemove", "d9/dff/a25972.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
-    [ "PrepareAuraScript", "d9/dff/a25972.html#a13f11ec412f18d805282b3810aff5e90", null ],
-    [ "Register", "d9/dff/a25972.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
-    [ "Validate", "d9/dff/a25972.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
+    [ "HandleEnergize", "d9/dff/a25972.html#a283e713252166a863aa96530d6e7608b", null ],
+    [ "Load", "d9/dff/a25972.html#a89847e0e9435a708c5722ff928f7033f", null ],
+    [ "PrepareSpellScript", "d9/dff/a25972.html#a8847e05e6eeafd801fca5423d0689432", null ],
+    [ "Register", "d9/dff/a25972.html#ae0778ffd8cf203e22510ee91b0394303", null ]
 ];

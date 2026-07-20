@@ -1,6 +1,10 @@
 var a11940 =
 [
-    [ "EffectAbsorbHandler", "de/d02/a11940.html#a29bb773b8271acf651b08f33ce358720", null ],
-    [ "Call", "de/d02/a11940.html#a56bfb0fd0d860678920445d1182c09ef", null ],
-    [ "pEffectHandlerScript", "de/d02/a11940.html#a519489b8d951173a806e86cfe075faf1", null ]
+    [ "Aura", "de/d02/a11940.html#ab87ff32c7b9d25f238245df1b646c49a", null ],
+    [ "DispelType", "de/d02/a11940.html#a964f9e427d50b8630ef1221914adad89", null ],
+    [ "Effect", "de/d02/a11940.html#a61a5bcfce9d99c09aa58fd99afb97e5c", null ],
+    [ "ImmuneAoE", "de/d02/a11940.html#a2b195291886ba333efd63d0edded1bb4", null ],
+    [ "ImmuneChain", "de/d02/a11940.html#a81a36e982f45209bfd6d1b0bad843cc1", null ],
+    [ "Mechanic", "de/d02/a11940.html#a01290d95abdbcf391557c7d72be05ebe", null ],
+    [ "School", "de/d02/a11940.html#a587a27eae3c94be00522b6b84521ed3c", null ]
 ];

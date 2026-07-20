@@ -1,10 +1,8 @@
 var a27760 =
 [
-    [ "boss_emerissAI", "dd/d88/a27760.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
-    [ "DamageTaken", "dd/d88/a27760.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
-    [ "ExecuteEvent", "dd/d88/a27760.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
-    [ "JustEngagedWith", "dd/d88/a27760.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
-    [ "KilledUnit", "dd/d88/a27760.html#ad851169bc09a362137e211dd10d30a1b", null ],
-    [ "Reset", "dd/d88/a27760.html#a44dfb325c4e8413662052137edc710ef", null ],
-    [ "_stage", "dd/d88/a27760.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
+    [ "CheckProc", "dd/d88/a27760.html#a77739dee36e546ff0e91a2a266a8e107", null ],
+    [ "HandleProc", "dd/d88/a27760.html#a2cde3c808e4ad060bb34c30507f210b7", null ],
+    [ "PrepareAuraScript", "dd/d88/a27760.html#a796c2a915069385cdca89cf3f7d09c82", null ],
+    [ "Register", "dd/d88/a27760.html#af144533458a912ac19c6b772114586cd", null ],
+    [ "Validate", "dd/d88/a27760.html#ac6bde14a034888642aa97de6b2d4a21d", null ]
 ];

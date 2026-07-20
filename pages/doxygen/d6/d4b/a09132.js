@@ -1,7 +1,8 @@
 var a09132 =
 [
-    [ "VehicleDespawnEvent", "d6/d4b/a09132.html#a53c96e023186cfb36084814b69e62d15", null ],
-    [ "Execute", "d6/d4b/a09132.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
-    [ "_duration", "d6/d4b/a09132.html#a9ac4ab83b785691285fb20364925b7ca", null ],
-    [ "_self", "d6/d4b/a09132.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
+    [ "AttackPosition", "d6/d4b/a09132.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
+    [ "operator=", "d6/d4b/a09132.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
+    [ "operator==", "d6/d4b/a09132.html#a320adced006c0f70456492c9e9dc99c2", null ],
+    [ "_pos", "d6/d4b/a09132.html#a77783e0e6e83836ad6e5903535ad9370", null ],
+    [ "_taken", "d6/d4b/a09132.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
 ];

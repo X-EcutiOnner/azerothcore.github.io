@@ -1,6 +1,10 @@
 var a22664 =
 [
-    [ "ShadowOfDeathSelector", "de/dc6/a22664.html#a1190094fbde74ccffd954fea742ab0ae", null ],
-    [ "operator()", "de/dc6/a22664.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
-    [ "_tank", "de/dc6/a22664.html#adc238645eec306e00918dbab05549fc8", null ]
+    [ "boss_illidari_council", "de/dc6/a22664.html#a078c36be39b377f6d1cdbf061d70270d", null ],
+    [ "AttackStart", "de/dc6/a22664.html#a260b15ec58164f17543aa044a89875a8", null ],
+    [ "DamageTaken", "de/dc6/a22664.html#af8e88c307efaba392cc2a1d2f3862078", null ],
+    [ "DoAction", "de/dc6/a22664.html#a6c3c57523ed2775ba553af1171b46463", null ],
+    [ "EnterEvadeMode", "de/dc6/a22664.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
+    [ "MoveInLineOfSight", "de/dc6/a22664.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
+    [ "UpdateAI", "de/dc6/a22664.html#a8b30df956aa4ce1727756f1d19e151be", null ]
 ];

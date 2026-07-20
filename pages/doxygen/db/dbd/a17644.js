@@ -1,6 +1,6 @@
 var a17644 =
 [
-    [ "FilterTargets", "db/dbd/a17644.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
-    [ "PrepareSpellScript", "db/dbd/a17644.html#a8e9d81b34e05506569f4b910c1958de3", null ],
-    [ "Register", "db/dbd/a17644.html#aa80980c3f68abcb0fac7a41172f70012", null ]
+    [ "boss_prince_kelesethAI", "d3/d28/a17648.html", "d3/d28/a17648" ],
+    [ "boss_prince_keleseth_icc", "db/dbd/a17644.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
+    [ "GetAI", "db/dbd/a17644.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
 ];

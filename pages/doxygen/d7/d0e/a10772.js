@@ -1,10 +1,12 @@
 var a10772 =
 [
-    [ "TicketScript", "d7/d0e/a10772.html#aec2b310ba0b26aa84a245207256edb0e", null ],
-    [ "IsDatabaseBound", "d7/d0e/a10772.html#afa21fa5aaf58c4ff964bcb3f81afbb32", null ],
-    [ "OnTicketClose", "d7/d0e/a10772.html#add082bd9a2d3a068bbb8f3a97d130887", null ],
-    [ "OnTicketCreate", "d7/d0e/a10772.html#a3436bbc78425bf5144c81f6309060b33", null ],
-    [ "OnTicketResolve", "d7/d0e/a10772.html#abd4d9cdf0fd99c10d6d86c395adecb9a", null ],
-    [ "OnTicketStatusUpdate", "d7/d0e/a10772.html#ae30b28cef4497cbed153c3e98e26d00d", null ],
-    [ "OnTicketUpdateLastChange", "d7/d0e/a10772.html#a3535e5592bc5f9ceb6b642b80a4f46b7", null ]
+    [ "ItemScript", "d7/d0e/a10772.html#a0ad18538a834261190356eab549ff192", null ],
+    [ "IsDatabaseBound", "d7/d0e/a10772.html#ae0ae6754a17b88deaf3648b74a58bb9d", null ],
+    [ "OnCastItemCombatSpell", "d7/d0e/a10772.html#a08a73378706fdfb0cee5e6214060ad1b", null ],
+    [ "OnExpire", "d7/d0e/a10772.html#a2ac915f9f966df87a963a328363deb77", null ],
+    [ "OnGossipSelect", "d7/d0e/a10772.html#a78b540902816ee3b3f9a6b108aa155ab", null ],
+    [ "OnGossipSelectCode", "d7/d0e/a10772.html#a924268357fec1a667f1184c91ebcef33", null ],
+    [ "OnQuestAccept", "d7/d0e/a10772.html#a87ab2f706bbb4e71921852d1ae6d78c7", null ],
+    [ "OnRemove", "d7/d0e/a10772.html#a1c8d706593fce54b1e4627493c38a6d3", null ],
+    [ "OnUse", "d7/d0e/a10772.html#a0e45d02f07def65de2eb94735189e7f5", null ]
 ];

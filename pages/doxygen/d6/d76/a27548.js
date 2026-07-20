@@ -1,7 +1,7 @@
 var a27548 =
 [
-    [ "HandleGlyph", "d6/d76/a27548.html#a9ec1133587bb6f0d7faa1beafc8415d9", null ],
-    [ "PrepareSpellScript", "d6/d76/a27548.html#adffd8b39adef397a886a66465e09f68b", null ],
-    [ "Register", "d6/d76/a27548.html#a77ff80bffd5c3f75dd60f2d901dfd84e", null ],
-    [ "Validate", "d6/d76/a27548.html#aa8bf4fc8457d122e46d12bc6b1cc7586", null ]
+    [ "HandleTeleport", "d6/d76/a27548.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "d6/d76/a27548.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "d6/d76/a27548.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "d6/d76/a27548.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

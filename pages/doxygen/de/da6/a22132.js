@@ -1,6 +1,9 @@
 var a22132 =
 [
-    [ "npc_released_offspring_harkoaAI", "d3/dc2/a22136.html", "d3/dc2/a22136" ],
-    [ "npc_released_offspring_harkoa", "de/da6/a22132.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
-    [ "GetAI", "de/da6/a22132.html#ae3d2a02c496be1b2606fce596625d12e", null ]
+    [ "HandlePeriodic", "de/da6/a22132.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "de/da6/a22132.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "de/da6/a22132.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "de/da6/a22132.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "de/da6/a22132.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "de/da6/a22132.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

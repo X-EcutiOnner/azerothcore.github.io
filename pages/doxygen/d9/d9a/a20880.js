@@ -1,14 +1,9 @@
 var a20880 =
 [
-    [ "boss_dalronn_the_controller", "d9/d9a/a20880.html#a57718e928fa273bba3c40a05d5888a3d", null ],
-    [ "DoAction", "d9/d9a/a20880.html#ad11e43d40a61f093b5e51482437467b8", null ],
-    [ "JustDied", "d9/d9a/a20880.html#a28a669b56392b599e124573778e33134", null ],
-    [ "JustEngagedWith", "d9/d9a/a20880.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
-    [ "JustSummoned", "d9/d9a/a20880.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
-    [ "KilledUnit", "d9/d9a/a20880.html#a96a173e30ad81c77217b0693d1d15839", null ],
-    [ "Reset", "d9/d9a/a20880.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
-    [ "UpdateAI", "d9/d9a/a20880.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
-    [ "events", "d9/d9a/a20880.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
-    [ "pInstance", "d9/d9a/a20880.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
-    [ "summons", "d9/d9a/a20880.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
+    [ "HandleOnEffectApply", "d9/d9a/a20880.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
+    [ "OnPeriodic", "d9/d9a/a20880.html#a49ad44eba19416743bd26252d1b40d71", null ],
+    [ "PrepareAuraScript", "d9/d9a/a20880.html#ae0c475babb67cebb245d6d85b50cd694", null ],
+    [ "Register", "d9/d9a/a20880.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
+    [ "Validate", "d9/d9a/a20880.html#ab383a0a207aa78b7efcd400765ad0838", null ],
+    [ "_targetGUID", "d9/d9a/a20880.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
 ];

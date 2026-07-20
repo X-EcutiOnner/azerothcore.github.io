@@ -1,6 +1,7 @@
 var a16460 =
 [
-    [ "HandleForceCast", "da/d87/a16460.html#a975b69649aba9de341f4e52c82a3c111", null ],
-    [ "PrepareSpellScript", "da/d87/a16460.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
-    [ "Register", "da/d87/a16460.html#a794a59e5fd3bda75f30d559f422895b5", null ]
+    [ "HandleHit", "da/d87/a16460.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
+    [ "PrepareSpellScript", "da/d87/a16460.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
+    [ "Register", "da/d87/a16460.html#af132eee38064c5123f4e01d52efb9314", null ],
+    [ "Validate", "da/d87/a16460.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
 ];

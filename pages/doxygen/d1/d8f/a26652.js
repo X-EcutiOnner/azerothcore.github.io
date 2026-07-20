@@ -1,7 +1,8 @@
 var a26652 =
 [
-    [ "if", "d1/d8f/a26652.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
-    [ "PrepareAuraScript", "d1/d8f/a26652.html#aa31810077c241e77193e378cb297b7de", null ],
-    [ "Register", "d1/d8f/a26652.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
-    [ "AuraEffectHandleModes", "d1/d8f/a26652.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
+    [ "CheckCast", "d1/d8f/a26652.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
+    [ "PrepareSpellScript", "d1/d8f/a26652.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
+    [ "Register", "d1/d8f/a26652.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
+    [ "TriggerDebuffs", "d1/d8f/a26652.html#a1579b28071e2194625f722a29ded39b8", null ],
+    [ "Validate", "d1/d8f/a26652.html#a767853d4b05e055cb32991bfe8c6516a", null ]
 ];

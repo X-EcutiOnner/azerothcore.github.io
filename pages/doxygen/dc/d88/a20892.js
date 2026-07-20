@@ -1,10 +1,7 @@
 var a20892 =
 [
-    [ "npc_dragonflayer_forge_master", "dc/d88/a20892.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "dc/d88/a20892.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "dc/d88/a20892.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "dc/d88/a20892.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "dc/d88/a20892.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "dc/d88/a20892.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "dc/d88/a20892.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "FilterTargets", "dc/d88/a20892.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
+    [ "HandleDummyEffect", "dc/d88/a20892.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
+    [ "PrepareSpellScript", "dc/d88/a20892.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
+    [ "Register", "dc/d88/a20892.html#a337cdb940a2001ac370768b02126d3c0", null ]
 ];

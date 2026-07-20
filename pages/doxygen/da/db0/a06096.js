@@ -1,13 +1,10 @@
 var a06096 =
 [
-    [ "TransactionTask", "da/db0/a06096.html#a13573f827891ad172847dc0e466b0b9e", null ],
-    [ "~TransactionTask", "da/db0/a06096.html#a68bc982f025d40bbc3a7323cd8c96786", null ],
-    [ "CleanupOnFailure", "da/db0/a06096.html#adc2f1534bce5a7ce198eeeb510fcb533", null ],
-    [ "Execute", "da/db0/a06096.html#aa1c1df059d15fe2077ceea5cfb51ba22", null ],
-    [ "TryExecute", "da/db0/a06096.html#a28c9ca1d9d3fdc6a722dcec68e46a38f", null ],
-    [ "DatabaseWorker", "da/db0/a06096.html#ac8984f2167ec797d478f3a771d1c1c3f", null ],
-    [ "DatabaseWorkerPool", "da/db0/a06096.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
-    [ "TransactionCallback", "da/db0/a06096.html#ac3345f3314b133d53268f53e222cdc74", null ],
-    [ "_deadlockLock", "da/db0/a06096.html#a84b48dbb670dd884e9b44ea53c8b0008", null ],
-    [ "m_trans", "da/db0/a06096.html#a242f0cb47bc6b456b6bea9aa372df4b6", null ]
+    [ "MySQLConnectionInfo", "da/db0/a06096.html#ae60c54053d71eb9325df10701b1f42d3", null ],
+    [ "database", "da/db0/a06096.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
+    [ "host", "da/db0/a06096.html#a2659372561aae5feb8da121984354ef3", null ],
+    [ "password", "da/db0/a06096.html#af5a51bd38ce1d58f65444d69b0283966", null ],
+    [ "port_or_socket", "da/db0/a06096.html#a37b89660afb3ee085e817836e9d1d01f", null ],
+    [ "ssl", "da/db0/a06096.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
+    [ "user", "da/db0/a06096.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
 ];

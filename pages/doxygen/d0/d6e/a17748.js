@@ -1,7 +1,6 @@
 var a17748 =
 [
-    [ "npc_icc_blood_beastAI", "d0/d6e/a17748.html#af52eff9f66451444c5acba6930c1bff6", null ],
-    [ "DoAction", "d0/d6e/a17748.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
-    [ "UpdateAI", "d0/d6e/a17748.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
-    [ "timer1", "d0/d6e/a17748.html#a1074059162f818088808795119f081be", null ]
+    [ "VampiricBiteTargetSelector", "d0/d6e/a17748.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
+    [ "operator()", "d0/d6e/a17748.html#ac16204f50f62cb2568998d1ea137f55d", null ],
+    [ "_source", "d0/d6e/a17748.html#af23a69491c915909566249b109b1f0e8", null ]
 ];

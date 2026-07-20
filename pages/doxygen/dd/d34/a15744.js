@@ -1,7 +1,7 @@
 var a15744 =
 [
-    [ "npc_kerlonianAI", "d0/d96/a15748.html", "d0/d96/a15748" ],
-    [ "npc_kerlonian", "dd/d34/a15744.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "dd/d34/a15744.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "dd/d34/a15744.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "npc_vekniss_stinger", "dd/d34/a15744.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "dd/d34/a15744.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "dd/d34/a15744.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "dd/d34/a15744.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

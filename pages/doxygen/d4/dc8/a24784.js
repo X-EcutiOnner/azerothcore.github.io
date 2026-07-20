@@ -1,6 +1,6 @@
 var a24784 =
 [
-    [ "HandleOnEffectHit", "d4/dc8/a24784.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "d4/dc8/a24784.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "d4/dc8/a24784.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "CalculateAmount", "d4/dc8/a24784.html#af8b61cade7f9daae4b982c2a4c8b4a73", null ],
+    [ "PrepareAuraScript", "d4/dc8/a24784.html#a3e1d132745f4739b8a3423cb55b0fc9d", null ],
+    [ "Register", "d4/dc8/a24784.html#a642ce3a74d7163b264ed4674e14fafbc", null ]
 ];

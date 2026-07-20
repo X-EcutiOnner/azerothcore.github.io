@@ -1,7 +1,10 @@
 var a21052 =
 [
-    [ "HandleScript", "dc/de3/a21052.html#a47b991c20c523d151893fefd9d487714", null ],
-    [ "PrepareSpellScript", "dc/de3/a21052.html#ab2db47d0a2694c0734db600e810e190d", null ],
-    [ "Register", "dc/de3/a21052.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
-    [ "Validate", "dc/de3/a21052.html#a89d601f6036fe38238767281f3427e54", null ]
+    [ "npc_dragonflayer_forge_master", "dc/de3/a21052.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "dc/de3/a21052.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "dc/de3/a21052.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "dc/de3/a21052.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "dc/de3/a21052.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "dc/de3/a21052.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "dc/de3/a21052.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

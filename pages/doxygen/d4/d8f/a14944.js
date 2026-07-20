@@ -1,6 +1,4 @@
 var a14944 =
 [
-    [ "HandleScriptEffect", "d4/d8f/a14944.html#a3d22cc828a2aa59d45e5d648161926fd", null ],
-    [ "PrepareSpellScript", "d4/d8f/a14944.html#a0ecf5662d9cc1296ebdac82233f1fe7c", null ],
-    [ "Register", "d4/d8f/a14944.html#aee5d9189b6df318b57e919511a185a99", null ]
+    [ "npc_midsummer_bonfire_despawner", "d4/d8f/a14944.html#aacb82b08ec0fef0f53d7e251e010abd8", null ]
 ];

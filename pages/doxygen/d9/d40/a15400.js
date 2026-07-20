@@ -1,12 +1,12 @@
 var a15400 =
 [
-    [ "npc_anubisath_guardian", "d9/d40/a15400.html#a7db1771f9083e14c177e37d7bf6690c5", null ],
-    [ "DamageTaken", "d9/d40/a15400.html#a2b7f307b5af7c50c86a68c4834f08ed4", null ],
-    [ "JustDied", "d9/d40/a15400.html#a9f40c43ded16ad5934a5d5499f16ca76", null ],
-    [ "JustEngagedWith", "d9/d40/a15400.html#a16d1e70f0ca0fcef972ac45f82e885e6", null ],
-    [ "Reset", "d9/d40/a15400.html#af87cc86141964c48f9c57ed5bade36a5", null ],
-    [ "UpdateAI", "d9/d40/a15400.html#a9a9c805c92a3e8e96914d01accb01051", null ],
-    [ "_enraged", "d9/d40/a15400.html#a69b3b2cee4c84cd6dccd3465b555ad12", null ],
-    [ "_scheduler", "d9/d40/a15400.html#ad44455c43d53426a152547d5b0770bbe", null ],
-    [ "_spells", "d9/d40/a15400.html#aee75f952ed14f5f6fab1f5117f6b8b9e", null ]
+    [ "instance_onyxias_lair_InstanceMapScript", "d9/d40/a15400.html#a15c6f3f16f9cfa1f9fc1b7a2c62bcc64", null ],
+    [ "CheckAchievementCriteriaMeet", "d9/d40/a15400.html#a20761aa41e0f70836c4525f17faf064f", null ],
+    [ "Initialize", "d9/d40/a15400.html#a5d109b5acfa2e21e3c50e35dcdf119dd", null ],
+    [ "OnGameObjectCreate", "d9/d40/a15400.html#a1e99600992673d165382d99236e0c59f", null ],
+    [ "SetBossState", "d9/d40/a15400.html#a2a28e42ec49fce2ef47288c1ad4b6e61", null ],
+    [ "SetData", "d9/d40/a15400.html#ac5df2ecb9f88dbedbb1f59ad2bdc8b96", null ],
+    [ "bDeepBreath", "d9/d40/a15400.html#a96211e4e0e033e16d4de57b6e40f2023", null ],
+    [ "ManyWhelpsCounter", "d9/d40/a15400.html#aea148b562a4f2cd752ac73240f902993", null ],
+    [ "str_data", "d9/d40/a15400.html#ad0b65a3cfccdf07d017757751f4e15fa", null ]
 ];

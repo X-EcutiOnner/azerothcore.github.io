@@ -1,6 +1,7 @@
 var a06512 =
 [
-    [ "PermissibleOrderPred", "da/d52/a06512.html#a0f99979c533fb388a2086f419c110f2b", null ],
-    [ "operator()", "da/d52/a06512.html#a42027be1e7cb7a3589caeafea25d2f75", null ],
-    [ "_obj", "da/d52/a06512.html#a5872cf90e79107749c4900cb471b2f16", null ]
+    [ "SpellTargetSelector", "da/d52/a06512.html#a9f1f441e542500dc43c58b97729f7f51", null ],
+    [ "operator()", "da/d52/a06512.html#a53c27c23f2d9846903e1ff9b479a36b1", null ],
+    [ "_caster", "da/d52/a06512.html#ac5b0844c975a6b3ff3c14a843fd28fba", null ],
+    [ "_spellInfo", "da/d52/a06512.html#a309ed04630cfb92810b7f51376b3917c", null ]
 ];

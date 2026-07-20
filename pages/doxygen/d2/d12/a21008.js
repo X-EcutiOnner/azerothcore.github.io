@@ -1,5 +1,5 @@
 var a21008 =
 [
-    [ "npc_ritual_channelerAI", "d2/d12/a21008.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "d2/d12/a21008.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "npc_salvaged_siege_engine", "d2/d12/a21008.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
+    [ "BeforeSpellClick", "d2/d12/a21008.html#aed2500b2315b5e508ea3d06a2355d023", null ]
 ];

@@ -1,5 +1,6 @@
 var a24024 =
 [
-    [ "npc_pet_dk_dancing_rune_weapon", "df/da4/a24024.html#ac838b907d56c97a911d7c7454c65e180", null ],
-    [ "InitializeAI", "df/da4/a24024.html#aafeac4a22f366591d6d66b6150e099e2", null ]
+    [ "npc_dragonmaw_peonAI", "d4/d39/a24028.html", "d4/d39/a24028" ],
+    [ "npc_dragonmaw_peon", "df/da4/a24024.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
+    [ "GetAI", "df/da4/a24024.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
 ];

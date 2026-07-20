@@ -1,7 +1,7 @@
 var a14412 =
 [
-    [ "HandleOnHit", "d9/d67/a14412.html#a561799e6241b1fe17cd09f17c447107b", null ],
-    [ "PrepareSpellScript", "d9/d67/a14412.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
-    [ "Register", "d9/d67/a14412.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
-    [ "Validate", "d9/d67/a14412.html#adb339686c5e9dcb298712455dc8435bf", null ]
+    [ "HandleEffect", "d9/d67/a14412.html#a8cda8eff109af7441d6990a236a52b80", null ],
+    [ "PrepareSpellScript", "d9/d67/a14412.html#acc2698ba702be211bef63cefa41005f4", null ],
+    [ "Register", "d9/d67/a14412.html#a5d6dccbb44a5d95055755673ad70707f", null ],
+    [ "Validate", "d9/d67/a14412.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
 ];

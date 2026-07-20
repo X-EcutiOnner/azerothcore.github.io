@@ -1,7 +1,7 @@
 var a19024 =
 [
-    [ "HandleEffectPeriodic", "df/d10/a19024.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
-    [ "PrepareAuraScript", "df/d10/a19024.html#af1d284c4686f739b02b350a6c0a166c2", null ],
-    [ "Register", "df/d10/a19024.html#a006a97823ac07346771ec4ab61bd0763", null ],
-    [ "Validate", "df/d10/a19024.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
+    [ "npc_captain_arnathAI", "df/d10/a19024.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "df/d10/a19024.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "df/d10/a19024.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "df/d10/a19024.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

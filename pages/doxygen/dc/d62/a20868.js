@@ -1,9 +1,10 @@
 var a20868 =
 [
-    [ "npc_vrykul_skeleton", "dc/d62/a20868.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
-    [ "DamageTaken", "dc/d62/a20868.html#a840244c4183987e4fda533edb2ddeff2", null ],
-    [ "Reset", "dc/d62/a20868.html#af950342b2177c84c101485736855b998", null ],
-    [ "UpdateAI", "dc/d62/a20868.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
-    [ "events", "dc/d62/a20868.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
-    [ "pInstance", "dc/d62/a20868.html#a834f0162540683c20f9fa0f9e32eee33", null ]
+    [ "boss_yoggsaron_voice", "dc/d62/a20868.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
+    [ "Reset", "dc/d62/a20868.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
+    [ "SpellHitTarget", "dc/d62/a20868.html#aae3b82dbb871f0f297bdacf975958492", null ],
+    [ "UpdateAI", "dc/d62/a20868.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
+    [ "_current", "dc/d62/a20868.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
+    [ "_targets", "dc/d62/a20868.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
+    [ "events", "dc/d62/a20868.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
 ];

@@ -1,7 +1,6 @@
 var a22036 =
 [
-    [ "npc_wg_demolisher_engineer", "d7/dbe/a22036.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d7/dbe/a22036.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d7/dbe/a22036.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d7/dbe/a22036.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "npc_bushwhackerAI", "d6/d77/a22040.html", "d6/d77/a22040" ],
+    [ "npc_bushwhacker", "d7/dbe/a22036.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
+    [ "GetAI", "d7/dbe/a22036.html#ab3190b66069e820abf3637bb877066a0", null ]
 ];

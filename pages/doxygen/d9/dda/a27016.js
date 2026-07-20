@@ -1,8 +1,6 @@
 var a27016 =
 [
-    [ "CheckProc", "d9/dda/a27016.html#a019b47e139e155c0803c0ce9a3a42f82", null ],
-    [ "HandleProc", "d9/dda/a27016.html#a92fff2ae3b59c3dd62e92a11312f87ae", null ],
-    [ "PrepareAuraScript", "d9/dda/a27016.html#a91ef63b96918e797e677423d51f94112", null ],
-    [ "Register", "d9/dda/a27016.html#a5625b3a60a607bd07d4328aa1886cfc5", null ],
-    [ "Validate", "d9/dda/a27016.html#ab6178007664afc34556336ec9620cd4f", null ]
+    [ "HandleTriggerSpell", "d9/dda/a27016.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
+    [ "PrepareAuraScript", "d9/dda/a27016.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
+    [ "Register", "d9/dda/a27016.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
 ];

@@ -1,6 +1,5 @@
 var a11892 =
 [
-    [ "ObjectTargetSelectHandler", "d2/dd7/a11892.html#abe96c3e266375ab64f8dec54a047a5b8", null ],
-    [ "Call", "d2/dd7/a11892.html#a7e18103fb5c68b2cf85f54bf7caf4b3b", null ],
-    [ "pObjectTargetSelectHandlerScript", "d2/dd7/a11892.html#a6982985537c0ddb8dd79647766c9ae70", null ]
+    [ "ImplicitTargetType", "d2/dd7/a11892.html#adc4268d74a3f0b47902e16eea2fc854a", null ],
+    [ "UsedTargetObjectType", "d2/dd7/a11892.html#a7bbc11d4a7a68f9441d393c7b48f5231", null ]
 ];

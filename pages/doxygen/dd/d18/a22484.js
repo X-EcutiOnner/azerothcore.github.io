@@ -1,7 +1,6 @@
 var a22484 =
 [
-    [ "OnPeriodic", "dd/d18/a22484.html#a165d47b116b0a53e37b05f664960e6ec", null ],
-    [ "PrepareAuraScript", "dd/d18/a22484.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
-    [ "Register", "dd/d18/a22484.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
-    [ "Validate", "dd/d18/a22484.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "d4/d5a/a22488.html", "d4/d5a/a22488" ],
+    [ "instance_mana_tombs", "dd/d18/a22484.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
+    [ "GetInstanceScript", "dd/d18/a22484.html#a26e4dad0957df886bc446396ab48ceda", null ]
 ];

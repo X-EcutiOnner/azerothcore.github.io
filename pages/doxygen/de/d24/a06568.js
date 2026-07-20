@@ -1,5 +1,5 @@
 var a06568 =
 [
-    [ "SmartTrigger", "de/d24/a06568.html#ae94d836bb1a714a3b90dcf146aa967a9", null ],
-    [ "OnTrigger", "de/d24/a06568.html#a713066a301e22e7744b3f82a1ca134ed", null ]
+    [ "Effects", "de/d24/a06568.html#a7ae062fbfacc6d848f5570a3bae3230f", null ],
+    [ "Targets", "de/d24/a06568.html#a390ced58f1c1981c05cc2aec32a4d579", null ]
 ];

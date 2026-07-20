@@ -1,5 +1,7 @@
 var a14896 =
 [
-    [ "npc_pilgrims_bounty_plate", "d1/d84/a14896.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
-    [ "SpellHit", "d1/d84/a14896.html#a7797b7a532336542ef37f0643df8dec0", null ]
+    [ "go_loosely_turned_soilAI", "d4/dd6/a14900.html", "d4/dd6/a14900" ],
+    [ "go_loosely_turned_soil", "d1/d84/a14896.html#a3b4d51e2b3a604e030962127269236f1", null ],
+    [ "GetAI", "d1/d84/a14896.html#acead5810a848f8837fa65af1f2ac00bd", null ],
+    [ "OnQuestReward", "d1/d84/a14896.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
 ];

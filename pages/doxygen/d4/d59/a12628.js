@@ -1,11 +1,13 @@
 var a12628 =
 [
-    [ "boss_quartermaster_zigris", "d4/d59/a12628.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
-    [ "DamageTaken", "d4/d59/a12628.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
-    [ "JustDied", "d4/d59/a12628.html#a9295bbcffd7968051a789e8dfb634e23", null ],
-    [ "JustEngagedWith", "d4/d59/a12628.html#af482c06e00e7f6c15b290115998a27a9", null ],
-    [ "Reset", "d4/d59/a12628.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
-    [ "SpellHitTarget", "d4/d59/a12628.html#a38197746cc73ada1378e6e1a5555ef79", null ],
-    [ "UpdateAI", "d4/d59/a12628.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
-    [ "_hasDrunkPotion", "d4/d59/a12628.html#a25335533bc43171687e03f1ed22d4fb3", null ]
+    [ "npc_rocknot", "d4/d59/a12628.html#a890eaac55162130b05c7d2dba26cc872", null ],
+    [ "DoGo", "d4/d59/a12628.html#a242e871de8e19462fcab6fb9eae1039e", null ],
+    [ "Reset", "d4/d59/a12628.html#afaa1977f370fe699c75ebb83c0d291dd", null ],
+    [ "sQuestReward", "d4/d59/a12628.html#a633123eb64bd6d46ace12fd0e1853aef", null ],
+    [ "UpdateAI", "d4/d59/a12628.html#a15755c98f937784f538d547b15c2d192", null ],
+    [ "WaypointReached", "d4/d59/a12628.html#a3711cae23b14dcce2ac1938aaeb9b961", null ],
+    [ "WaypointReached", "d4/d59/a12628.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_breakDoorTimer", "d4/d59/a12628.html#a44955a4ef0e730f72848e582892380b5", null ],
+    [ "_breakKegTimer", "d4/d59/a12628.html#ad6e48e6f81521b89da9f528e079c1c90", null ],
+    [ "instance", "d4/d59/a12628.html#a71e6532128131a10aae575d1bac023d0", null ]
 ];

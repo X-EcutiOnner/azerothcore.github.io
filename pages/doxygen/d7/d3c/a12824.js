@@ -1,9 +1,12 @@
 var a12824 =
 [
-    [ "boss_baron_geddon", "d7/d3c/a12824.html#a1e7cf41aff13c376dafa35a992c378d8", null ],
-    [ "DamageTaken", "d7/d3c/a12824.html#a2a5a0ca6e40ac736171a8b80b0e66dad", null ],
-    [ "ExecuteEvent", "d7/d3c/a12824.html#af81a1ef4345e55f3d537baeb0e9528f4", null ],
-    [ "JustEngagedWith", "d7/d3c/a12824.html#ad0e720b1ea3e92fabeea8b78a6416f3f", null ],
-    [ "Reset", "d7/d3c/a12824.html#aee0a2c6587a7f743491f3a3e31ed6527", null ],
-    [ "armageddonCasted", "d7/d3c/a12824.html#a4ea01568770a91e6734d45e3730c62cc", null ]
+    [ "go_suppression_device", "d7/d3c/a12824.html#ae8d3a5e9ca0bd621065bad9b8ee2733b", null ],
+    [ "Activate", "d7/d3c/a12824.html#aab10f7c30f4c7fcf89aa295d830da56f", null ],
+    [ "Deactivate", "d7/d3c/a12824.html#aaf01b7e3317e4b032e7c202ebfcb9a68", null ],
+    [ "DoAction", "d7/d3c/a12824.html#a036467db9b2661e7048216b03451861b", null ],
+    [ "InitializeAI", "d7/d3c/a12824.html#a6f40d8e47699b711466d8d36bdaa424c", null ],
+    [ "UpdateAI", "d7/d3c/a12824.html#a00fb90b16c82f9d968cc29275c05675a", null ],
+    [ "_active", "d7/d3c/a12824.html#a1accabc06137c07e9f74ea91d068672c", null ],
+    [ "_events", "d7/d3c/a12824.html#a43fc9da45057e18811a0efc69e01edc8", null ],
+    [ "_instance", "d7/d3c/a12824.html#a8c6b389e2df34d5f47b2599fc78ad072", null ]
 ];

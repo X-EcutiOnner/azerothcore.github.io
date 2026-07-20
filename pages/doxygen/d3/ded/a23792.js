@@ -1,9 +1,6 @@
 var a23792 =
 [
-    [ "npc_bessyAI", "d3/ded/a23792.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "d3/ded/a23792.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "d3/ded/a23792.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "d3/ded/a23792.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "d3/ded/a23792.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ],
-    [ "WaypointReached", "d3/ded/a23792.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "instance_mechanar_InstanceMapScript", "db/d28/a23796.html", "db/d28/a23796" ],
+    [ "instance_mechanar", "d3/ded/a23792.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
+    [ "GetInstanceScript", "d3/ded/a23792.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
 ];

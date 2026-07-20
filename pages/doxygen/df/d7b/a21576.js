@@ -1,8 +1,6 @@
 var a21576 =
 [
-    [ "AfterApply", "df/d7b/a21576.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "df/d7b/a21576.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "df/d7b/a21576.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "df/d7b/a21576.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "df/d7b/a21576.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "npc_conversing_with_the_depths_triggerAI", "d2/da2/a21580.html", "d2/da2/a21580" ],
+    [ "npc_conversing_with_the_depths_trigger", "df/d7b/a21576.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
+    [ "GetAI", "df/d7b/a21576.html#a61c337bfe1efb3589cf0df91d9082236", null ]
 ];

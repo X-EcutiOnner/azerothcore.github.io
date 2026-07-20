@@ -1,6 +1,6 @@
 var a12696 =
 [
-    [ "OnEffect", "d6/de5/a12696.html#a1b5999f392cec9fea4431c3f746ee034", null ],
-    [ "PrepareSpellScript", "d6/de5/a12696.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
-    [ "Register", "d6/de5/a12696.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
+    [ "RestoreAttack", "d6/de5/a12696.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
+    [ "Execute", "d6/de5/a12696.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
+    [ "_boss", "d6/de5/a12696.html#a493ef909da834b0befd90f57f54fb10c", null ]
 ];

@@ -1,7 +1,6 @@
 var a11852 =
 [
-    [ "EffectNameCheck", "d9/d03/a11852.html#aa82307388bdda7864bb085a349b63f29", null ],
-    [ "Check", "d9/d03/a11852.html#a729d7f07669dedec50f009a87b8f32a4", null ],
-    [ "ToString", "d9/d03/a11852.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
-    [ "effName", "d9/d03/a11852.html#a905224fb028ea0eab350773b7230f871", null ]
+    [ "WorldObjectSpellConeTargetCheck", "d9/d03/a11852.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
+    [ "operator()", "d9/d03/a11852.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
+    [ "_coneAngle", "d9/d03/a11852.html#a8f946789292320ea8b205dec5d1e1975", null ]
 ];

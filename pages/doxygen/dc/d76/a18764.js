@@ -1,7 +1,7 @@
 var a18764 =
 [
-    [ "npc_valithria_portalAI", "dc/d76/a18764.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "dc/d76/a18764.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "dc/d76/a18764.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "dc/d76/a18764.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "CalculateBonus", "dc/d76/a18764.html#ae149a739150cb7eb9fb67f19130c0510", null ],
+    [ "OnPeriodic", "dc/d76/a18764.html#a19697bd65a325870becc1c30d7deff36", null ],
+    [ "PrepareAuraScript", "dc/d76/a18764.html#a77c272d4a26323c421e4b264f79d5b66", null ],
+    [ "Register", "dc/d76/a18764.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
 ];

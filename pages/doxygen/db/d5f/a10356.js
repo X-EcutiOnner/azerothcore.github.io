@@ -1,8 +1,14 @@
 var a10356 =
 [
-    [ "Finalize", "db/d5f/a10356.html#abf4c6547449605e703b424d8aa7f46b5", null ],
-    [ "GetMovementGeneratorType", "db/d5f/a10356.html#aa1eb3228e14c5b145f7074e97ccdab5f", null ],
-    [ "Initialize", "db/d5f/a10356.html#a68c249f25ef86f2e50d69698e190ed03", null ],
-    [ "Reset", "db/d5f/a10356.html#a124e4f9506ef6f31e991e905ce38dc43", null ],
-    [ "Update", "db/d5f/a10356.html#a4d96b744fa55fa11764873a2c4a891c5", null ]
+    [ "~MovementGenerator", "db/d5f/a10356.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
+    [ "Finalize", "db/d5f/a10356.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
+    [ "GetMovementGeneratorType", "db/d5f/a10356.html#a60bac341b438ea7258986f234a952324", null ],
+    [ "GetResetPosition", "db/d5f/a10356.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
+    [ "GetSplineId", "db/d5f/a10356.html#a99865a1b7cf84b02784bfa8df958585f", null ],
+    [ "Initialize", "db/d5f/a10356.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
+    [ "Pause", "db/d5f/a10356.html#a37530e5cd743faecabd21eba08dce939", null ],
+    [ "Reset", "db/d5f/a10356.html#aa6641fa1182551421fc8572afad8e083", null ],
+    [ "Resume", "db/d5f/a10356.html#a51988a8b0a45459242467e38ca46303c", null ],
+    [ "unitSpeedChanged", "db/d5f/a10356.html#a0f9c4fd52947688dcda1161924e829bb", null ],
+    [ "Update", "db/d5f/a10356.html#ae3014d8c6e728799c86134ef64737ed5", null ]
 ];

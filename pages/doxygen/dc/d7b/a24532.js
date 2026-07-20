@@ -1,6 +1,7 @@
 var a24532 =
 [
-    [ "HandleAfterCast", "dc/d7b/a24532.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
-    [ "PrepareSpellScript", "dc/d7b/a24532.html#a602d7c920aa73a9c3c69222854093036", null ],
-    [ "Register", "dc/d7b/a24532.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
+    [ "CheckProc", "dc/d7b/a24532.html#a841b1a19cafcbf3b3bf82867cbb23384", null ],
+    [ "HandleProc", "dc/d7b/a24532.html#a1d2e356b47d793bf9193b03f635ce579", null ],
+    [ "PrepareAuraScript", "dc/d7b/a24532.html#addfa11cf74409b4bb369c2bbf583c13c", null ],
+    [ "Register", "dc/d7b/a24532.html#a180fbfc09087cb2cd919734c447fef10", null ]
 ];

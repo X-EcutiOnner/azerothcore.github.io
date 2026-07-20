@@ -1,7 +1,12 @@
 var a13820 =
 [
-    [ "HandlePull", "de/db6/a13820.html#a5a43bb53d3c534054498f8366d617e5a", null ],
-    [ "PrepareSpellScript", "de/db6/a13820.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
-    [ "RaycastToObstacle", "de/db6/a13820.html#ad6dfdf70e9ffd43510c4791f804ce340", null ],
-    [ "Register", "de/db6/a13820.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
+    [ "boss_sathrovarr", "de/db6/a13820.html#a92bff830219f795d0aae4511f3d524bb", null ],
+    [ "CanAIAttack", "de/db6/a13820.html#a053dcf604aed91ac7c888d682653da54", null ],
+    [ "DoAction", "de/db6/a13820.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
+    [ "JustDied", "de/db6/a13820.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
+    [ "JustEngagedWith", "de/db6/a13820.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
+    [ "KilledUnit", "de/db6/a13820.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
+    [ "Reset", "de/db6/a13820.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
+    [ "UpdateAI", "de/db6/a13820.html#a99c5c8801333f2eaf6b9fee287588093", null ],
+    [ "_instance", "de/db6/a13820.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
 ];

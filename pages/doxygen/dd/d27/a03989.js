@@ -1,13 +1,10 @@
 var a03989 =
 [
-    [ "WorldPackets::Character::ShowingCloak", "d8/daf/a10917.html", "d8/daf/a10917" ],
-    [ "WorldPackets::Character::ShowingHelm", "d1/dba/a10921.html", "d1/dba/a10921" ],
-    [ "WorldPackets::Character::LogoutRequest", "d5/d93/a10925.html", "d5/d93/a10925" ],
-    [ "WorldPackets::Character::LogoutResponse", "d8/d94/a10929.html", "d8/d94/a10929" ],
-    [ "WorldPackets::Character::LogoutComplete", "d7/da1/a10933.html", "d7/da1/a10933" ],
-    [ "WorldPackets::Character::LogoutCancel", "d2/df8/a10937.html", "d2/df8/a10937" ],
-    [ "WorldPackets::Character::LogoutCancelAck", "d1/df8/a10941.html", "d1/df8/a10941" ],
-    [ "WorldPackets::Character::PlayerLogout", "d7/d4e/a10945.html", "d7/d4e/a10945" ],
-    [ "WorldPackets::Character::PlayedTimeClient", "d6/d4d/a10949.html", "d6/d4d/a10949" ],
-    [ "WorldPackets::Character::PlayedTime", "dc/d78/a10953.html", "dc/d78/a10953" ]
+    [ "spell_razelikh_teleport_group", "db/dea/a14016.html", "db/dea/a14016" ],
+    [ "DeathlyUsher", "dd/d27/a03989.html#aaff0e89586a03a5c2b80f93a4fe0ded7", [
+      [ "SPELL_TELEPORT_SINGLE", "dd/d27/a03989.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3cdd675db7120b3a968f19df07485e7d", null ],
+      [ "SPELL_TELEPORT_SINGLE_IN_GROUP", "dd/d27/a03989.html#aaff0e89586a03a5c2b80f93a4fe0ded7a138ccf86c6441c7347a973d3e04c62a5", null ],
+      [ "SPELL_TELEPORT_GROUP", "dd/d27/a03989.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc", null ]
+    ] ],
+    [ "AddSC_blasted_lands", "dd/d27/a03989.html#a8c45aaff0bee880d1bac07d32d1747f1", null ]
 ];

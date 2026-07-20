@@ -1,6 +1,7 @@
 var a12208 =
 [
-    [ "bg_commandscript", "d8/d5a/a12208.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
-    [ "GetCommands", "d8/d5a/a12208.html#a911ccd6445b08c05069f7f196556c891", null ],
-    [ "HandleBagsClearCommand", "d8/d5a/a12208.html#a92347e90c2f78d0dfeb41eb033366319", null ]
+    [ "CompressedData", "d8/d5a/a12208.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
+    [ "CompressedSize", "d8/d5a/a12208.html#ab57879b41c825623a989db13a53f2f4e", null ],
+    [ "Id", "d8/d5a/a12208.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
+    [ "Key", "d8/d5a/a12208.html#ad100540b5c6722a19c938b134a985aed", null ]
 ];

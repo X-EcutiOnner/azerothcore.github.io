@@ -1,6 +1,7 @@
 var a28868 =
 [
-    [ "Enchantment", "da/dcb/a28868.html#a480ab806214bb138d56dfd5e9e43936f", null ],
-    [ "ID", "da/dcb/a28868.html#acb673be771124b84dd3fdd5deb300de7", null ],
-    [ "Name", "da/dcb/a28868.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
+    [ "Class", "da/dcb/a28868.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
+    [ "Gender", "da/dcb/a28868.html#aba6251a7020c6e66b9fc7a21859df271", null ],
+    [ "ItemId", "da/dcb/a28868.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
+    [ "Race", "da/dcb/a28868.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
 ];

@@ -1,7 +1,13 @@
 var a16080 =
 [
-    [ "npc_ranshallaAI", "d1/d91/a16084.html", "d1/d91/a16084" ],
-    [ "npc_ranshalla", "d1/d52/a16080.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
-    [ "GetAI", "d1/d52/a16080.html#a1a81651366cc05d3ad6e9929160fe059", null ],
-    [ "OnQuestAccept", "d1/d52/a16080.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
+    [ "npc_aquementasAI", "d1/d52/a16080.html#aad63986cdb8a65c528af3ccd114d2041", null ],
+    [ "JustEngagedWith", "d1/d52/a16080.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
+    [ "Reset", "d1/d52/a16080.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
+    [ "SendItem", "d1/d52/a16080.html#a60bafbd70783411236dcf3d0bfe244de", null ],
+    [ "UpdateAI", "d1/d52/a16080.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
+    [ "AquaJetTimer", "d1/d52/a16080.html#a8506acc69436af869d1404bd95109e68", null ],
+    [ "FrostShockTimer", "d1/d52/a16080.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
+    [ "isFriendly", "d1/d52/a16080.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
+    [ "SendItemTimer", "d1/d52/a16080.html#a3a0883b43056b176ef2ae55673adacf3", null ],
+    [ "SwitchFactionTimer", "d1/d52/a16080.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
 ];

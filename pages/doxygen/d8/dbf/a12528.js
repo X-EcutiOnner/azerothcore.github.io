@@ -1,11 +1,9 @@
 var a12528 =
 [
-    [ "boss_emperor_dagran_thaurissan", "d8/dbf/a12528.html#a33efe0ee1573c4b43cdf58bdce303e5d", null ],
-    [ "JustDied", "d8/dbf/a12528.html#a526a7726e2838ef4c49cca8dd6fc68c9", null ],
-    [ "JustEngagedWith", "d8/dbf/a12528.html#a182564d95dc677ea33e47995638a9a58", null ],
-    [ "KilledUnit", "d8/dbf/a12528.html#a7f7ae37e4abbe37f4fa46b98af3ac03a", null ],
-    [ "SetData", "d8/dbf/a12528.html#a5ccda3d76afe43804c86e193afa9b80c", null ],
-    [ "UpdateAI", "d8/dbf/a12528.html#ab1c7da00e8e1a20d2592ec26862867fc", null ],
-    [ "hasYelled", "d8/dbf/a12528.html#aaadeb10c22c598cd10ccde83425fbf71", null ],
-    [ "SenatorYells", "d8/dbf/a12528.html#ad94aef1875a5a863f78dc84a964638f9", null ]
+    [ "send_commandscript", "d8/dbf/a12528.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
+    [ "GetCommands", "d8/dbf/a12528.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
+    [ "HandleSendItemsCommand", "d8/dbf/a12528.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
+    [ "HandleSendMailCommand", "d8/dbf/a12528.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
+    [ "HandleSendMessageCommand", "d8/dbf/a12528.html#a91017e6171ac9e4dfff6c2036228de47", null ],
+    [ "HandleSendMoneyCommand", "d8/dbf/a12528.html#a1b1e995a2854e338866527ee9634d544", null ]
 ];

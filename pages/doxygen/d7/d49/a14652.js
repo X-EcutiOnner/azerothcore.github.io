@@ -1,11 +1,6 @@
 var a14652 =
 [
-    [ "npc_the_biggest_tree", "d7/d49/a14652.html#a7366f46c4864fa0f1372c920b94c6e97", null ],
-    [ "MoveInLineOfSight", "d7/d49/a14652.html#a572c0b146d461b6a8504163452570954", null ],
-    [ "Reset", "d7/d49/a14652.html#a3fd4c5e522e8945925124426a8ff870b", null ],
-    [ "UpdateAI", "d7/d49/a14652.html#a3d1b33ab7cd28de5438f53a00657170a", null ],
-    [ "orphanGUID", "d7/d49/a14652.html#a36c170fb178a19256fd41fb2cbbb7830", null ],
-    [ "phase", "d7/d49/a14652.html#a7101fe10b15ce1779d3d131e597ef636", null ],
-    [ "playerGUID", "d7/d49/a14652.html#ab39af61d9ab7d9f7210f96b65971654d", null ],
-    [ "timer", "d7/d49/a14652.html#a7525783692c3bc9642f534296b71a5f5", null ]
+    [ "npc_brewfest_bark_trigger", "d7/d49/a14652.html#a110d654792e1f5dae8b17f014ea3d425", null ],
+    [ "GetTextFor", "d7/d49/a14652.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
+    [ "MoveInLineOfSight", "d7/d49/a14652.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
 ];

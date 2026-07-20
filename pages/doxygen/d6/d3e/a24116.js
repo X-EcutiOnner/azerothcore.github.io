@@ -1,5 +1,5 @@
 var a24116 =
 [
-    [ "npc_pet_pri_lightwell", "d6/d3e/a24116.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "d6/d3e/a24116.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "npc_shattrath_daily_quest", "d6/d3e/a24116.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "d6/d3e/a24116.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

@@ -1,7 +1,7 @@
 var a12844 =
 [
-    [ "HandlePeriodic", "d6/d3a/a12844.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
-    [ "PrepareAuraScript", "d6/d3a/a12844.html#aae9d31049889eea5c5f09dd5437de950", null ],
-    [ "Register", "d6/d3a/a12844.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
-    [ "Validate", "d6/d3a/a12844.html#a462b882e41932f99e3501f32368cf4de", null ]
+    [ "HandleScript", "d6/d3a/a12844.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
+    [ "PrepareSpellScript", "d6/d3a/a12844.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
+    [ "Register", "d6/d3a/a12844.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
+    [ "Validate", "d6/d3a/a12844.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
 ];

@@ -1,6 +1,7 @@
 var a16280 =
 [
-    [ "boss_krik_thirAI", "d8/d86/a16284.html", "d8/d86/a16284" ],
-    [ "boss_krik_thir", "d6/dc4/a16280.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "d6/dc4/a16280.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "HandleDummy", "d6/dc4/a16280.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
+    [ "PrepareSpellScript", "d6/dc4/a16280.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
+    [ "Register", "d6/dc4/a16280.html#a4359ad73b513a368509a066a039ddf53", null ],
+    [ "_targetCount", "d6/dc4/a16280.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
 ];

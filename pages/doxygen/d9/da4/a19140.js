@@ -1,5 +1,7 @@
 var a19140 =
 [
-    [ "at_icc_spire_frostwyrm", "d9/da4/a19140.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
-    [ "_OnTrigger", "d9/da4/a19140.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
+    [ "HandleEffectPeriodic", "d9/da4/a19140.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "d9/da4/a19140.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "d9/da4/a19140.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "d9/da4/a19140.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

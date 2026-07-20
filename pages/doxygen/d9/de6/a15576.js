@@ -1,15 +1,5 @@
 var a15576 =
 [
-    [ "boss_viscidus", "d9/de6/a15576.html#a41dd3ce982a180a2ad415b559508f0ff", null ],
-    [ "CheckInRoom", "d9/de6/a15576.html#a528a368eceb55cc7d41d615c6c1ebf15", null ],
-    [ "DamageTaken", "d9/de6/a15576.html#adb41e6f64c1fe61cf623539353b0c959", null ],
-    [ "InitSpells", "d9/de6/a15576.html#a24357bfc552ecb5205e50241cadb05f4", null ],
-    [ "JustEngagedWith", "d9/de6/a15576.html#a7dfb0ba7d90697d3deac263249cfa977", null ],
-    [ "Reset", "d9/de6/a15576.html#ac9153bd98e4c39b63547c3a9a8798d80", null ],
-    [ "SoftReset", "d9/de6/a15576.html#ad2b4c6835ff113e4a538024f02ff968e", null ],
-    [ "SpellHit", "d9/de6/a15576.html#a43df1ee33d5a9b4794b246ce680a6318", null ],
-    [ "SummonedCreatureDies", "d9/de6/a15576.html#a6a52391b49ba3501a1bb5e8c55f07683", null ],
-    [ "UpdateAI", "d9/de6/a15576.html#a1a194c161b485d2abbb862506b6c239f", null ],
-    [ "_hitcounter", "d9/de6/a15576.html#a12ee60a91dab2f95aab6e9914351344a", null ],
-    [ "_phase", "d9/de6/a15576.html#a321f1f96af51d3d70de0cca89512d965", null ]
+    [ "boss_yauj", "d9/de6/a15576.html#a15ab7b6b35d29fb1552b11586163320e", null ],
+    [ "JustEngagedWith", "d9/de6/a15576.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
 ];

@@ -1,6 +1,7 @@
 var a26532 =
 [
-    [ "HandleEffectScriptEffect", "dd/d48/a26532.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
-    [ "PrepareSpellScript", "dd/d48/a26532.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
-    [ "Register", "dd/d48/a26532.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
+    [ "HandleScriptEffect", "dd/d48/a26532.html#a6c1ac025fa93caa08737387a18003612", null ],
+    [ "PrepareSpellScript", "dd/d48/a26532.html#acb5ad05212399b06ed9bb64bb9203069", null ],
+    [ "Register", "dd/d48/a26532.html#afbf989d514c308f466ecfd9957d2d177", null ],
+    [ "Validate", "dd/d48/a26532.html#a2f48b1903edef1a5bb8beeddc8879aa4", null ]
 ];

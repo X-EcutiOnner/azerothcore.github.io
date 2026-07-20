@@ -1,6 +1,7 @@
 var a23192 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "de/d59/a23196.html", "de/d59/a23196" ],
-    [ "instance_gruuls_lair", "d6/d4a/a23192.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
-    [ "GetInstanceScript", "d6/d4a/a23192.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
+    [ "HandleScriptEffect", "d6/d4a/a23192.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
+    [ "PrepareSpellScript", "d6/d4a/a23192.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
+    [ "Register", "d6/d4a/a23192.html#a14772c25b70078c0034b8de17de5b77a", null ],
+    [ "Validate", "d6/d4a/a23192.html#a8318385367bf6c6b09e0978c461f5d59", null ]
 ];

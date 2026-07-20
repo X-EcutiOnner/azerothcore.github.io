@@ -1,7 +1,7 @@
 var a18880 =
 [
-    [ "npc_frost_freeze_trapAI", "d3/dec/a18880.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
-    [ "DoAction", "d3/dec/a18880.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
-    [ "UpdateAI", "d3/dec/a18880.html#ae8efccb090f38968f3c0ca51f022013b", null ],
-    [ "_events", "d3/dec/a18880.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
+    [ "npc_valithria_portalAI", "d3/dec/a18880.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
+    [ "GetData", "d3/dec/a18880.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
+    [ "OnSpellClick", "d3/dec/a18880.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
+    [ "_used", "d3/dec/a18880.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
 ];

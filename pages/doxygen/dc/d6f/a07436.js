@@ -1,8 +1,9 @@
 var a07436 =
 [
-    [ "faction", "dc/d6f/a07436.html#acb80e9b49dda9771679b871cf862d876", null ],
-    [ "loc_idx", "dc/d6f/a07436.html#ac88c2c37d92c9e4a8502a870a580fa01", null ],
-    [ "locdbc_idx", "dc/d6f/a07436.html#a572c98b3437aff883f68d0eea4b26eb6", null ],
-    [ "playerGuid", "dc/d6f/a07436.html#a6aaee409b729275b9089d7db5145ba58", null ],
-    [ "usablePlayerInfo", "dc/d6f/a07436.html#a0a2be15a1a7c4d84fe53930c15571157", null ]
+    [ "SmartWaypointMgr", "dc/d6f/a07436.html#ad9168edcc4fd16260178d4a9277f71ba", null ],
+    [ "~SmartWaypointMgr", "dc/d6f/a07436.html#a7299029b0e2063740fd2fe9d9b218749", null ],
+    [ "GetPath", "dc/d6f/a07436.html#ab3fb0cb109b9bf28ee09173f4340c351", null ],
+    [ "instance", "dc/d6f/a07436.html#a7ae477d4d210d938e167453d9085e520", null ],
+    [ "LoadFromDB", "dc/d6f/a07436.html#a9b5cdb29d31e7de0a407f600aef482af", null ],
+    [ "waypoint_map", "dc/d6f/a07436.html#ac34eb4bd79106db2574cce0208a785e5", null ]
 ];

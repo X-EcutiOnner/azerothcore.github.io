@@ -1,6 +1,8 @@
 var a29060 =
 [
-    [ "categoryMask", "da/db6/a29060.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "da/db6/a29060.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "da/db6/a29060.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "Id", "da/db6/a29060.html#a6943bf760d15b3f8af4109d131652d72", null ],
+    [ "MapId", "da/db6/a29060.html#ab0cccd760636a3b42af693d6c483bed9", null ],
+    [ "X", "da/db6/a29060.html#a91183890254546efeb3162173cc60dad", null ],
+    [ "Y", "da/db6/a29060.html#a19ab4d026b45d74f006479641afbc4d3", null ],
+    [ "Z", "da/db6/a29060.html#aaa23c59f20fc96aec148b82516f30036", null ]
 ];

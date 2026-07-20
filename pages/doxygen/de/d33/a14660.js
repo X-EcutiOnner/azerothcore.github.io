@@ -1,11 +1,11 @@
 var a14660 =
 [
-    [ "npc_elder_kekek", "de/d33/a14660.html#a6084af39be5c70699c9fdcf3cd58e954", null ],
-    [ "MoveInLineOfSight", "de/d33/a14660.html#a0c673e4fdf8e75d3bc8570db166bcd95", null ],
-    [ "Reset", "de/d33/a14660.html#a97e615bdefba5baf459960fc2987cd69", null ],
-    [ "UpdateAI", "de/d33/a14660.html#a5823bc7164d797c40d48b9b74642d9b5", null ],
-    [ "orphanGUID", "de/d33/a14660.html#a98c79e46e051c35819c6025828a519cb", null ],
-    [ "phase", "de/d33/a14660.html#a99fd9d984f92d5ba8b5876675855d4f6", null ],
-    [ "playerGUID", "de/d33/a14660.html#a614ed3332f4af3c5178aa69da968a3d3", null ],
-    [ "timer", "de/d33/a14660.html#a445c048d8858f5dc7c1e88308ed7e5ab", null ]
+    [ "npc_dark_iron_attack_mole_machine", "de/d33/a14660.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "de/d33/a14660.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "de/d33/a14660.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "de/d33/a14660.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "de/d33/a14660.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "de/d33/a14660.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "de/d33/a14660.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "de/d33/a14660.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

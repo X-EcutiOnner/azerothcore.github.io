@@ -1,5 +1,6 @@
 var a18352 =
 [
-    [ "operator()", "d6/d26/a18352.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
-    [ "operator()", "d6/d26/a18352.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
+    [ "npc_little_oozeAI", "d8/dc5/a18356.html", "d8/dc5/a18356" ],
+    [ "npc_little_ooze", "d6/d26/a18352.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
+    [ "GetAI", "d6/d26/a18352.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
 ];

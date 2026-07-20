@@ -1,6 +1,7 @@
 var a11868 =
 [
-    [ "CheckCastHandler", "d5/dc5/a11868.html#a8647582abeea09779e05d809cbdb0d06", null ],
-    [ "Call", "d5/dc5/a11868.html#a805de70601b15de19639ca01c75ae7f7", null ],
-    [ "_checkCastHandlerScript", "d5/dc5/a11868.html#af13f11d14772afbea06f0020df4bbe6c", null ]
+    [ "SpellImmune", "d5/dc5/a11868.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
+    [ "blockType", "d5/dc5/a11868.html#a13a353d02a7330820df170eb46e7a26d", null ],
+    [ "spellId", "d5/dc5/a11868.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
+    [ "type", "d5/dc5/a11868.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
 ];

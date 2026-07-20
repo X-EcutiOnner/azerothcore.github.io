@@ -1,8 +1,14 @@
 var a21040 =
 [
-    [ "CheckProc", "d4/d7a/a21040.html#ac955cc78dd3206816906dd06b3e006f6", null ],
-    [ "HandleProc", "d4/d7a/a21040.html#a966d23cc5714fe35d80b2964dddda536", null ],
-    [ "PrepareAuraScript", "d4/d7a/a21040.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
-    [ "Register", "d4/d7a/a21040.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
-    [ "Validate", "d4/d7a/a21040.html#a5d8e764dafd26548af8588593bf27990", null ]
+    [ "boss_dalronn_the_controller", "d4/d7a/a21040.html#a57718e928fa273bba3c40a05d5888a3d", null ],
+    [ "DoAction", "d4/d7a/a21040.html#ad11e43d40a61f093b5e51482437467b8", null ],
+    [ "JustDied", "d4/d7a/a21040.html#a28a669b56392b599e124573778e33134", null ],
+    [ "JustEngagedWith", "d4/d7a/a21040.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
+    [ "JustSummoned", "d4/d7a/a21040.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
+    [ "KilledUnit", "d4/d7a/a21040.html#a96a173e30ad81c77217b0693d1d15839", null ],
+    [ "Reset", "d4/d7a/a21040.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
+    [ "UpdateAI", "d4/d7a/a21040.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
+    [ "events", "d4/d7a/a21040.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
+    [ "pInstance", "d4/d7a/a21040.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
+    [ "summons", "d4/d7a/a21040.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
 ];

@@ -1,4 +1,5 @@
 var a28932 =
 [
-    [ "id", "d9/dc6/a28932.html#a61c817f16c280ee29e1c91bdb0c2fda8", null ]
+    [ "Itemlvl", "d9/dc6/a28932.html#a39d9dcee397a1f5984184c769f9b8b17", null ],
+    [ "multiplier", "d9/dc6/a28932.html#a5c6c206a6185a546223de7501ff846f6", null ]
 ];

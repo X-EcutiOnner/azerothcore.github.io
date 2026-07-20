@@ -1,7 +1,6 @@
 var a19316 =
 [
-    [ "HandleRemove", "d0/dcf/a19316.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "d0/dcf/a19316.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "d0/dcf/a19316.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "d0/dcf/a19316.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "boss_isle_of_conquestAI", "d8/daa/a19320.html", "d8/daa/a19320" ],
+    [ "boss_isle_of_conquest", "d0/dcf/a19316.html#ad4052d1b6865585d32016e1240449659", null ],
+    [ "GetAI", "d0/dcf/a19316.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
 ];

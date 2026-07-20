@@ -1,7 +1,11 @@
 var a22948 =
 [
-    [ "HandleEffectRemove", "d0/dde/a22948.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
-    [ "HandlePeriodic", "d0/dde/a22948.html#a5137e24394fa14129c44d92c79eef117", null ],
-    [ "PrepareAuraScript", "d0/dde/a22948.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
-    [ "Register", "d0/dde/a22948.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
+    [ "boss_doomlordkazzakAI", "d0/dde/a22948.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
+    [ "JustDied", "d0/dde/a22948.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
+    [ "JustEngagedWith", "d0/dde/a22948.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
+    [ "JustRespawned", "d0/dde/a22948.html#a174912c149657f4d88446f4ac0631598", null ],
+    [ "KilledUnit", "d0/dde/a22948.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
+    [ "Reset", "d0/dde/a22948.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
+    [ "UpdateAI", "d0/dde/a22948.html#a28a0a8345fcd5411491409854acef729", null ],
+    [ "_inBerserk", "d0/dde/a22948.html#a996d17128aca96c00c8416957ebc24d0", null ]
 ];

@@ -1,17 +1,13 @@
 var a19244 =
 [
-    [ "boss_four_horsemenAI", "d1/dc5/a19244.html#a828a858c3337791bd2acb3d6ba730233", null ],
-    [ "AttackStart", "d1/dc5/a19244.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
-    [ "EnterEvadeMode", "d1/dc5/a19244.html#a86f458f0413cab4c8129affff1b73a70", null ],
-    [ "JustDied", "d1/dc5/a19244.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
-    [ "JustEngagedWith", "d1/dc5/a19244.html#a17b8ca30ceb0efb87be77f970c526444", null ],
-    [ "KilledUnit", "d1/dc5/a19244.html#a87bdde27a69a020a26da31f01286593a", null ],
-    [ "MovementInform", "d1/dc5/a19244.html#aa900c075c04673341b3100488c45f9e7", null ],
-    [ "MoveToCorner", "d1/dc5/a19244.html#a7891dc79980c67d82867f6181685b359", null ],
-    [ "Reset", "d1/dc5/a19244.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
-    [ "UpdateAI", "d1/dc5/a19244.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
-    [ "currentWaypoint", "d1/dc5/a19244.html#ab3c2643e1b3c58452661255979e67e63", null ],
-    [ "events", "d1/dc5/a19244.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
-    [ "horsemanId", "d1/dc5/a19244.html#ab0c4162177096e7bd007996e8677fd8b", null ],
-    [ "movementPhase", "d1/dc5/a19244.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
+    [ "npc_icc_putricades_trapAI", "d1/dc5/a19244.html#a9252a83e3deee62d5796e9f283662771", null ],
+    [ "DoAction", "d1/dc5/a19244.html#ac8a30d8eba315b967c4e0713b14dcba7", null ],
+    [ "JustReachedHome", "d1/dc5/a19244.html#a98f908e89630b23584982e298193cc0e", null ],
+    [ "JustSummoned", "d1/dc5/a19244.html#abc5776b08b4fd43a4bb430f160eb630a", null ],
+    [ "Reset", "d1/dc5/a19244.html#a3430515c94fd419bd2c59113b3f4e625", null ],
+    [ "SummonedCreatureDies", "d1/dc5/a19244.html#a2e49dc8924da5d5537c33f7306287963", null ],
+    [ "UpdateAI", "d1/dc5/a19244.html#a724e133f2c4d8c9fe140b3b998c88f64", null ],
+    [ "events", "d1/dc5/a19244.html#a3249114a5b208109ec2c2a23533ede82", null ],
+    [ "instance", "d1/dc5/a19244.html#a9f6f342ffbf6a29c745de6ea6a5ec0dc", null ],
+    [ "summons", "d1/dc5/a19244.html#aaa914f4c2b48bd24c2dd06bc3599f563", null ]
 ];

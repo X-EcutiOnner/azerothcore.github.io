@@ -1,13 +1,9 @@
 var a05312 =
 [
-    [ "GroupModel_Raw", "d7/d32/a05312.html#a8decfdc365b823f8f147ee9bfa3613b0", null ],
-    [ "~GroupModel_Raw", "d7/d32/a05312.html#a1381249a1bbe9c1cf383097ef94c6eb7", null ],
-    [ "Read", "d7/d32/a05312.html#ad3bcd782124868cd1df0efea2b500ba5", null ],
-    [ "bounds", "d7/d32/a05312.html#a830d79fdd2f21164bd805051352a3aa8", null ],
-    [ "GroupWMOID", "d7/d32/a05312.html#ab9e9650c5ebf5a81b92cff27dd23a25a", null ],
-    [ "liquid", "d7/d32/a05312.html#ac801d04ca4c643d2b8eba5199a8d0fac", null ],
-    [ "liquidflags", "d7/d32/a05312.html#ac379f459d0fff6b1848dc52bd21ef393", null ],
-    [ "mogpflags", "d7/d32/a05312.html#a339767ed24a9f0ecf426e47d3bf6e4b5", null ],
-    [ "triangles", "d7/d32/a05312.html#af692734697f525672027f251addebe6d", null ],
-    [ "vertexArray", "d7/d32/a05312.html#ad73c215408218900973df4dbdd8fcd18", null ]
+    [ "MapRayCallback", "d7/d32/a05312.html#a1a4a654bc929dab5b5a2804c4b88389d", null ],
+    [ "didHit", "d7/d32/a05312.html#a9d9abb0a5ffff131d2c19e88c3c8b836", null ],
+    [ "operator()", "d7/d32/a05312.html#a0f218465b321da5f8289dfa815acbfd4", null ],
+    [ "flags", "d7/d32/a05312.html#a88d1e6d6fa43608bcee21a822488f061", null ],
+    [ "hit", "d7/d32/a05312.html#a6fc14ac7ae20effec9d2657a46b838fc", null ],
+    [ "prims", "d7/d32/a05312.html#a389d8ee31e0cb665bfd9084d786750c5", null ]
 ];

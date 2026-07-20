@@ -1,9 +1,8 @@
 var a28268 =
 [
-    [ "npc_arcanite_dragonling", "d8/d98/a28268.html#a9b7e4cefa312a16c90018d655ad94758", null ],
-    [ "CanAIAttack", "d8/d98/a28268.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
-    [ "IsSummonedBy", "d8/d98/a28268.html#a921b35a91c4f21258efdb41fd87413db", null ],
-    [ "JustEngagedWith", "d8/d98/a28268.html#a65f6d779681861117f750b70154b3e0d", null ],
-    [ "Reset", "d8/d98/a28268.html#a4468d91430add821bf7a7ab11d8063da", null ],
-    [ "UpdateAI", "d8/d98/a28268.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
+    [ "npc_nelsonAI", "d5/d6f/a28272.html", "d5/d6f/a28272" ],
+    [ "npc_nelson", "d8/d98/a28268.html#ada597926a6db1aa7823ddabc19945b11", null ],
+    [ "GetAI", "d8/d98/a28268.html#a75fea281fb49249345c48236bf44b1c8", null ],
+    [ "OnGossipHello", "d8/d98/a28268.html#aa693b365a15d4617f214f9c3c229bf89", null ],
+    [ "OnGossipSelect", "d8/d98/a28268.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
 ];

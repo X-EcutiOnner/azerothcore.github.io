@@ -1,7 +1,9 @@
 var a11304 =
 [
-    [ "Playsound", "d6/dd0/a11304.html#a955f91d0d65c64f154f99b3b9472e273", null ],
-    [ "Playsound", "d6/dd0/a11304.html#aa242d4ca729d67d7fd58dc81985f22f9", null ],
-    [ "Write", "d6/dd0/a11304.html#acb4bdd9a1613a158832115e4c18bfcd9", null ],
-    [ "SoundKitID", "d6/dd0/a11304.html#a922cb6d06285bdf9f3d89ff990c40b0a", null ]
+    [ "ItemEnchantTimeUpdate", "d6/dd0/a11304.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
+    [ "Write", "d6/dd0/a11304.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
+    [ "Duration", "d6/dd0/a11304.html#ad576ce6011716519a70c6e00e0753a49", null ],
+    [ "ItemGuid", "d6/dd0/a11304.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
+    [ "PlayerGuid", "d6/dd0/a11304.html#a4623875e38909d8b7300e7d9c703b216", null ],
+    [ "Slot", "d6/dd0/a11304.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
 ];

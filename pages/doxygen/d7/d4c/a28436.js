@@ -1,6 +1,7 @@
 var a28436 =
 [
-    [ "npc_training_dummyAI", "d4/dfb/a28440.html", "d4/dfb/a28440" ],
-    [ "npc_training_dummy", "d7/d4c/a28436.html#acfed4da3b1a01bc58e599d2dc134cb7d", null ],
-    [ "GetAI", "d7/d4c/a28436.html#a87a48a42e8349ce9125de91a429d4ffa", null ]
+    [ "npc_venomhide_hatchlingAI", "d4/dfb/a28440.html", "d4/dfb/a28440" ],
+    [ "npc_venomhide_hatchling", "d7/d4c/a28436.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
+    [ "GetAI", "d7/d4c/a28436.html#a96110b752965d751ab7b466c4f67e333", null ],
+    [ "OnGossipHello", "d7/d4c/a28436.html#a404d875592b847ddb9f3250c9d954bfc", null ]
 ];

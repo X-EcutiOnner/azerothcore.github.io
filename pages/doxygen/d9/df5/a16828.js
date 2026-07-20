@@ -1,6 +1,6 @@
 var a16828 =
 [
-    [ "npc_toc_enh_shamanAI", "db/de4/a16832.html", "db/de4/a16832" ],
-    [ "npc_toc_enh_shaman", "d9/df5/a16828.html#ac328b63a988d2cd8640237b250c338a8", null ],
-    [ "GetAI", "d9/df5/a16828.html#a4501c9289a06750d8f153f89565b12f3", null ]
+    [ "npc_anubarak_spikeAI", "db/de4/a16832.html", "db/de4/a16832" ],
+    [ "npc_anubarak_spike", "d9/df5/a16828.html#a4e96de1910c23311ad4644960ccd5022", null ],
+    [ "GetAI", "d9/df5/a16828.html#a7d55b321eb7e595fe5886dc382134947", null ]
 ];

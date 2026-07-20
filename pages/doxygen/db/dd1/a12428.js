@@ -1,14 +1,11 @@
 var a12428 =
 [
-    [ "tele_commandscript", "db/dd1/a12428.html#a13d522c3480c5b82071d5f77bd41f942", null ],
-    [ "DoNameTeleport", "db/dd1/a12428.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
-    [ "GetCommands", "db/dd1/a12428.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
-    [ "HandleTeleAddCommand", "db/dd1/a12428.html#a8d429a38c01a19f8c89c87937ef24248", null ],
-    [ "HandleTeleCommand", "db/dd1/a12428.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
-    [ "HandleTeleDelCommand", "db/dd1/a12428.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
-    [ "HandleTeleGroupCommand", "db/dd1/a12428.html#af83e529b482654851a7a1ee77beb107e", null ],
-    [ "HandleTeleNameCommand", "db/dd1/a12428.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
-    [ "HandleTeleNameNpcIdCommand", "db/dd1/a12428.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
-    [ "HandleTeleNameNpcNameCommand", "db/dd1/a12428.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
-    [ "HandleTeleNameNpcSpawnIdCommand", "db/dd1/a12428.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
+    [ "lfg_commandscript", "db/dd1/a12428.html#a90faaca821e4162e0aea40a4d98af62c", null ],
+    [ "GetCommands", "db/dd1/a12428.html#a324310f9b04675c277ceae44ea09fbaf", null ],
+    [ "HandleLfgCleanCommand", "db/dd1/a12428.html#a93db689dbdb97a0318d62409a863767e", null ],
+    [ "HandleLfgCooldownClearCommand", "db/dd1/a12428.html#a0e399ec509b9f419b7f034cc95409f7b", null ],
+    [ "HandleLfgGroupInfoCommand", "db/dd1/a12428.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
+    [ "HandleLfgOptionsCommand", "db/dd1/a12428.html#a73187a97c883d8d1bb3765943dd98c39", null ],
+    [ "HandleLfgPlayerInfoCommand", "db/dd1/a12428.html#acdf12aff45f16904df5724ab158e3b97", null ],
+    [ "HandleLfgQueueInfoCommand", "db/dd1/a12428.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
 ];

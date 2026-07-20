@@ -1,5 +1,6 @@
 var a10908 =
 [
-    [ "LogoutCancelAck", "db/d56/a10908.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
-    [ "Write", "db/d56/a10908.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
+    [ "BuyBankSlotResult", "db/d56/a10908.html#a93b60814becc451c38f06f9702a9e027", null ],
+    [ "Write", "db/d56/a10908.html#a55a6609863b0d3ef966f222526268acb", null ],
+    [ "Result", "db/d56/a10908.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
 ];

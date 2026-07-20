@@ -1,5 +1,6 @@
 var a20384 =
 [
-    [ "achievement_kologarn_rubble_and_roll", "db/dbc/a20384.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
-    [ "OnCheck", "db/dbc/a20384.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
+    [ "FilterTargets", "db/dbc/a20384.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
+    [ "PrepareSpellScript", "db/dbc/a20384.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
+    [ "Register", "db/dbc/a20384.html#af6704b0789566b2b385ac573eaa50f06", null ]
 ];

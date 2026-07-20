@@ -1,6 +1,7 @@
 var a12960 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "df/d9a/a12964.html", "df/d9a/a12964" ],
-    [ "instance_gnomeregan", "d0/d81/a12960.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "d0/d81/a12960.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "HandlePeriodic", "d0/d81/a12960.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
+    [ "PrepareAuraScript", "d0/d81/a12960.html#aae9d31049889eea5c5f09dd5437de950", null ],
+    [ "Register", "d0/d81/a12960.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
+    [ "Validate", "d0/d81/a12960.html#a462b882e41932f99e3501f32368cf4de", null ]
 ];

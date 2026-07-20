@@ -1,17 +1,15 @@
 var a29380 =
 [
-    [ "SetUp", "da/db7/a29380.html#a33892cef920194ce17a4214cbcb5e121", null ],
-    [ "TearDown", "da/db7/a29380.html#a24f14af6367811ce0d723cbec878b171", null ],
-    [ "PERM_ADMIN_1", "da/db7/a29380.html#a672ecd08a005d73126fe8670785a42d3", null ],
-    [ "PERM_ADMIN_2", "da/db7/a29380.html#a6b5c599d3b6586dccf829953df596197", null ],
-    [ "PERM_GM_1", "da/db7/a29380.html#a0e05f907e00713517154426b99250684", null ],
-    [ "PERM_GM_2", "da/db7/a29380.html#ae70a8f0c6dcd4a80e09c1a8d3af717e4", null ],
-    [ "PERM_MOD_1", "da/db7/a29380.html#a1ca61ce12e74ab1274396570a66b20e8", null ],
-    [ "PERM_MOD_2", "da/db7/a29380.html#a16d04ded09be3ef901ce71166a5f47e5", null ],
-    [ "PERM_PLAYER_1", "da/db7/a29380.html#a947d93a663cf65d175795597fd471b05", null ],
-    [ "PERM_PLAYER_2", "da/db7/a29380.html#af8ca567b623c9148b810486c7a23736a", null ],
-    [ "ROLE_ADMIN", "da/db7/a29380.html#aefc211c8148b3a009dcf1f2b6364d379", null ],
-    [ "ROLE_GM", "da/db7/a29380.html#a16113a522ad1e512c7f81ea293ffaa5c", null ],
-    [ "ROLE_MOD", "da/db7/a29380.html#a7311596e545687f3398f3203e9e7d6d8", null ],
-    [ "ROLE_PLAYER", "da/db7/a29380.html#a9e3cd3dc656e8911ac328abcfd85162a", null ]
+    [ "AuraStubBuilder", "da/db7/a29380.html#a534384a8763b8c95fab8158e83db2def", null ],
+    [ "Build", "da/db7/a29380.html#a7d5b970e591a239849e42a0c444f62d4", null ],
+    [ "BuildRaw", "da/db7/a29380.html#a6d18b0c3762b471fba8cf895e9a07b50", null ],
+    [ "WithCharges", "da/db7/a29380.html#a0e11ce060ed827bfc2b72d2b26a6693b", null ],
+    [ "WithDuration", "da/db7/a29380.html#ac5c74952acab3c54a79e28355f423a8f", null ],
+    [ "WithEffect", "da/db7/a29380.html#ad25896a25811e0e563dcac1c46e77ff3", null ],
+    [ "WithId", "da/db7/a29380.html#aa8dc59189364f6be82822588a47d32fd", null ],
+    [ "WithPassive", "da/db7/a29380.html#a056bd26636b67b54562306a42b3d7c3e", null ],
+    [ "WithPeriodicEffect", "da/db7/a29380.html#a93fd0ed97589e98446251f9b078a3f9d", null ],
+    [ "WithSpellFamilyName", "da/db7/a29380.html#afa4a16fb9c020c568472102fff972408", null ],
+    [ "WithStackAmount", "da/db7/a29380.html#a04b37ad66dde7b61695a80db00c9ab66", null ],
+    [ "_stub", "da/db7/a29380.html#a22cc8b0309b64c1ecc482d77170a2b09", null ]
 ];

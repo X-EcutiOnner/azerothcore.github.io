@@ -1,20 +1,10 @@
 var a23888 =
 [
-    [ "npc_lord_illidan_stormrageAI", "d2/daf/a23888.html#a3b48b42c72b51bbdb222f6cd03e50ec8", null ],
-    [ "AttackStart", "d2/daf/a23888.html#a5f73b83a07f24403cf55de7ef485c003", null ],
-    [ "CheckEventFail", "d2/daf/a23888.html#aef1607c2132ae78b45d4f209a4320a88", null ],
-    [ "JustEngagedWith", "d2/daf/a23888.html#af7166b3c7401a74615cdb5c0964200f6", null ],
-    [ "LiveCounter", "d2/daf/a23888.html#a625b2891d3f9807da7733f678ea29313", null ],
-    [ "MoveInLineOfSight", "d2/daf/a23888.html#a5c2313ac5767339cd26196f52ff05c5f", null ],
-    [ "Reset", "d2/daf/a23888.html#a035b85302d54adf9bd7af82cadfd0317", null ],
-    [ "SummonNextWave", "d2/daf/a23888.html#a240ee54d49248a1700e767568fe93648", null ],
-    [ "UpdateAI", "d2/daf/a23888.html#a9cf7d73c5f81980c08f785dc3af47dec", null ],
-    [ "Announced", "d2/daf/a23888.html#a448ba6e2b21273b8e07b6d0a79e856e2", null ],
-    [ "AnnounceTimer", "d2/daf/a23888.html#a7037e4b43f274f3e2ce45143c029b070", null ],
-    [ "EventStarted", "d2/daf/a23888.html#a41b3b39d2ea0eeca4b60960f3a903ee8", null ],
-    [ "Failed", "d2/daf/a23888.html#aba564e34f0358d6c2a3c6ae91e17bf10", null ],
-    [ "LiveCount", "d2/daf/a23888.html#ab86239a6470a82749f96eb5515c46c59", null ],
-    [ "PlayerGUID", "d2/daf/a23888.html#af30c5c09f0262479b8920269f7bf198a", null ],
-    [ "WaveCount", "d2/daf/a23888.html#abdd03400f582e9477bb376e2b34e7a0e", null ],
-    [ "WaveTimer", "d2/daf/a23888.html#ae727157e6b52817051fea075c2cb7cb1", null ]
+    [ "npc_wounded_blood_elfAI", "d2/daf/a23888.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "d2/daf/a23888.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "d2/daf/a23888.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "d2/daf/a23888.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "d2/daf/a23888.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "d2/daf/a23888.html#a5affcb00e28a582f8926ab2226001cd0", null ],
+    [ "WaypointReached", "d2/daf/a23888.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

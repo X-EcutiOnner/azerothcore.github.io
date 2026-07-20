@@ -1,6 +1,6 @@
 var a16412 =
 [
-    [ "SendEncounterUnit", "dd/dae/a16412.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
-    [ "Execute", "dd/dae/a16412.html#ae21b67f8fe8a0677778436563872495f", null ],
-    [ "_owner", "dd/dae/a16412.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
+    [ "instance_azjol_nerub_InstanceScript", "db/d2e/a16416.html", "db/d2e/a16416" ],
+    [ "instance_azjol_nerub", "dd/dae/a16412.html#a61476a0d15136d2bdb3a65eca72963da", null ],
+    [ "GetInstanceScript", "dd/dae/a16412.html#a8bb8477669c6369afe508a400bd4d489", null ]
 ];

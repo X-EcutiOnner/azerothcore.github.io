@@ -1,7 +1,6 @@
 var a15724 =
 [
-    [ "npc_prophet_velen", "d8/da8/a15724.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
-    [ "JustDied", "d8/da8/a15724.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
-    [ "Reset", "d8/da8/a15724.html#a5beec39fd545129d0f124bb19524f95c", null ],
-    [ "UpdateAI", "d8/da8/a15724.html#a2d016ecfedc5c7e886e7412081b54792", null ]
+    [ "aqsentinelAI", "d8/d57/a15728.html", "d8/d57/a15728" ],
+    [ "npc_anubisath_sentinel", "d8/da8/a15724.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
+    [ "GetAI", "d8/da8/a15724.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
 ];

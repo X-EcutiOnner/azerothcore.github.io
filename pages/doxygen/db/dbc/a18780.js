@@ -1,7 +1,7 @@
 var a18780 =
 [
-    [ "npc_blazing_skeletonAI", "db/dbc/a18780.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
-    [ "Reset", "db/dbc/a18780.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
-    [ "UpdateAI", "db/dbc/a18780.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
-    [ "_events", "db/dbc/a18780.html#aab1b04989d5e3fc289f00bc121df193d", null ]
+    [ "HandleProc", "db/dbc/a18780.html#af06730a865009127c7d3e5423afd4d44", null ],
+    [ "PrepareAuraScript", "db/dbc/a18780.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
+    [ "Register", "db/dbc/a18780.html#a6c97b787ce00491a259c575d26189f8c", null ],
+    [ "Validate", "db/dbc/a18780.html#aed9c98e20d916359629e119d6dd2a94f", null ]
 ];

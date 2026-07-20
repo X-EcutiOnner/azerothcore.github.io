@@ -1,5 +1,5 @@
 var a28856 =
 [
-    [ "ID", "dc/d91/a28856.html#a65acb5af9a688346cbb7dc144710c768", null ],
-    [ "inventoryIcon", "dc/d91/a28856.html#a26b43ee179bd546c6e956dd797fc0842", null ]
+    [ "ID", "dc/d91/a28856.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "dc/d91/a28856.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

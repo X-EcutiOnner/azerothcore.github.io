@@ -1,6 +1,6 @@
 var a12048 =
 [
-    [ "FieldGuidType", "d6/dee/a12048.html#a88e763ed9715ad76a0eb1c1a9ad7a59b", null ],
-    [ "FieldName", "d6/dee/a12048.html#a669f1ecf12148799e59e7b3e3124d681", null ],
-    [ "IsDependentField", "d6/dee/a12048.html#a241b9e8f5672e30732f0b938b02046d4", null ]
+    [ "EffectCalcSpellModHandler", "d6/dee/a12048.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
+    [ "Call", "d6/dee/a12048.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
+    [ "pEffectHandlerScript", "d6/dee/a12048.html#a15c0b24641cb04f31bb3d651dae59448", null ]
 ];

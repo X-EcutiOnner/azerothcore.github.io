@@ -1,6 +1,6 @@
 var a22924 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d7/dbb/a22928.html", "d7/dbb/a22928" ],
-    [ "instance_serpent_shrine", "d7/d24/a22924.html#aac4fc7113307805138ba4ce4a9adff09", null ],
-    [ "GetInstanceScript", "d7/d24/a22924.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
+    [ "HandleScriptEffect", "d7/d24/a22924.html#a2b46490b70bf93effb7379686e648618", null ],
+    [ "PrepareSpellScript", "d7/d24/a22924.html#a5030d071372ef12663f6a75be637476e", null ],
+    [ "Register", "d7/d24/a22924.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
 ];

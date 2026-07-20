@@ -1,7 +1,9 @@
 var a06452 =
 [
-    [ "ReactorAI", "dc/d19/a06452.html#aaea292c46945399cf7c855e642941c2d", null ],
-    [ "MoveInLineOfSight", "dc/d19/a06452.html#a224608a62a15d679863d68d7d0e32dde", null ],
-    [ "Permissible", "dc/d19/a06452.html#a1b0845464b0d356be7bf38e65ab5eb19", null ],
-    [ "UpdateAI", "dc/d19/a06452.html#a10c4c10d9ac942990d1a1ef9eb6603ad", null ]
+    [ "TurretAI", "dc/d19/a06452.html#a0aaa1ee5eb1b2e83657ef24479d9a91e", null ],
+    [ "AttackStart", "dc/d19/a06452.html#ab6eb7cf777595a4b196373123da19bea", null ],
+    [ "CanAIAttack", "dc/d19/a06452.html#a47c1c38ddcc1f473104fb698fe338684", null ],
+    [ "Permissible", "dc/d19/a06452.html#aac81fb574d70369fb006fb7ba22a0784", null ],
+    [ "UpdateAI", "dc/d19/a06452.html#aa2d308443a31d8a06bbc63517695dfef", null ],
+    [ "m_minRange", "dc/d19/a06452.html#a4cffbf9bcb29468dad6a6583c905b99a", null ]
 ];

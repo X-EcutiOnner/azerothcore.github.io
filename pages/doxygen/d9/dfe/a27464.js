@@ -1,6 +1,7 @@
 var a27464 =
 [
-    [ "HandleOnHit", "d9/dfe/a27464.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
-    [ "PrepareSpellScript", "d9/dfe/a27464.html#a999b019665dec9b0690a1019be428072", null ],
-    [ "Register", "d9/dfe/a27464.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
+    [ "HandleProc", "d9/dfe/a27464.html#a5e428ae0d1d6b54494a62ca0a77820c9", null ],
+    [ "PrepareAuraScript", "d9/dfe/a27464.html#a953eee0cd2f18703ce04b1579d698365", null ],
+    [ "Register", "d9/dfe/a27464.html#a8552c78a1d78fae17650a24c25b87ad3", null ],
+    [ "Validate", "d9/dfe/a27464.html#aadd49f63e9203d3314c5597ef72f6658", null ]
 ];

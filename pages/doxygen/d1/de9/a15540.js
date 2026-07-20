@@ -1,13 +1,21 @@
 var a15540 =
 [
-    [ "boss_sartura", "d1/de9/a15540.html#a7faaf16a1a56badd1e65a3364d425f02", null ],
-    [ "DamageTaken", "d1/de9/a15540.html#a9a404743ac8491a9efc7091259706e0f", null ],
-    [ "InitializeAI", "d1/de9/a15540.html#ae86d0a6b0cd591b3bb18333195109c22", null ],
-    [ "JustDied", "d1/de9/a15540.html#aceff44022b8d53da41ecfcb1e2317e01", null ],
-    [ "JustEngagedWith", "d1/de9/a15540.html#ab1c024908117e8460eb89c062d3825dc", null ],
-    [ "KilledUnit", "d1/de9/a15540.html#a516a75910e872718a519c2a5c9805770", null ],
-    [ "Reset", "d1/de9/a15540.html#ab3514ad48f622f65d67063723601f8de", null ],
-    [ "UpdateAI", "d1/de9/a15540.html#af3d093dab3f5191d5da2df36ca9c4a11", null ],
-    [ "berserked", "d1/de9/a15540.html#a8ad40cee9667500cb0e9533256d216c6", null ],
-    [ "enraged", "d1/de9/a15540.html#af916ff3f6468b1e48d5b1944442594e5", null ]
+    [ "npc_general_andorov", "d1/de9/a15540.html#ac3bbdeaad9c7bb303a5de6773916dcff", null ],
+    [ "GetData", "d1/de9/a15540.html#adf1b6a0767c3633c96d41d6a8c59e670", null ],
+    [ "InitializeAI", "d1/de9/a15540.html#a701221e8fd8830a3586d9791fd8eca56", null ],
+    [ "JustDied", "d1/de9/a15540.html#ae6342cc5d033bc2900594cabccaf7233", null ],
+    [ "JustEngagedWith", "d1/de9/a15540.html#a9f1261cde233466b814b53be03406370", null ],
+    [ "JustSummoned", "d1/de9/a15540.html#a3add3fa13ffae3cd688eaf564c3f835d", null ],
+    [ "KilledUnit", "d1/de9/a15540.html#a728b73ed109ee6b2b45eb3f1415b4744", null ],
+    [ "MoveInLineOfSight", "d1/de9/a15540.html#a230803b7f29829118d105ec768941ffa", null ],
+    [ "sGossipSelect", "d1/de9/a15540.html#a38eadfe7e465c276f7496c5b51f60d03", null ],
+    [ "UpdateEscortAI", "d1/de9/a15540.html#ab5f5af15cf76071dcce833514bb8c867", null ],
+    [ "WaypointReached", "d1/de9/a15540.html#ab9edc924b6e5ade56e3f6443a7454eaa", null ],
+    [ "WaypointReached", "d1/de9/a15540.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_initialAttackTimer", "d1/de9/a15540.html#a38dd94fea45cf2c1821cb01e3d3e70d8", null ],
+    [ "_paused", "d1/de9/a15540.html#aa0708d2c1e4829371b93697744fb10b7", null ],
+    [ "_summons", "d1/de9/a15540.html#ac8cb94b3870f655b61a52cdb5076fc4c", null ],
+    [ "Endwaypoint", "d1/de9/a15540.html#a6897bb1ed63743ce8b225786d63910df", null ],
+    [ "events", "d1/de9/a15540.html#aa7eace59bc5f630cafba513f9e2ec0f8", null ],
+    [ "instance", "d1/de9/a15540.html#ae79d42dc7fa334ace67f07651ce4720a", null ]
 ];

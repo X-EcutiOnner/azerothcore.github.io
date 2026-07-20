@@ -1,6 +1,7 @@
 var a21936 =
 [
-    [ "npc_time_lost_proto_drakeAI", "d8/dd0/a21940.html", "d8/dd0/a21940" ],
-    [ "npc_time_lost_proto_drake", "d9/d57/a21936.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
-    [ "GetAI", "d9/d57/a21936.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
+    [ "GetSeatNumber", "d9/d57/a21936.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
+    [ "HandleDummy", "d9/d57/a21936.html#ac5945381452559e1d5655f5345bdeff3", null ],
+    [ "PrepareSpellScript", "d9/d57/a21936.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
+    [ "Register", "d9/d57/a21936.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
 ];

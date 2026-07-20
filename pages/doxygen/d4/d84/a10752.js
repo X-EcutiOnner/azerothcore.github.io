@@ -1,11 +1,24 @@
 var a10752 =
 [
-    [ "PetScript", "d4/d84/a10752.html#acccf0b5fa2e346c800925142ed52c917", null ],
-    [ "CanResetTalents", "d4/d84/a10752.html#ab4e5e0b19285573753ef6e9b7e8fd535", null ],
-    [ "CanUnlearnSpellDefault", "d4/d84/a10752.html#af150efd719bbb619df792ebc6705bb0a", null ],
-    [ "CanUnlearnSpellSet", "d4/d84/a10752.html#a84cba94813ffa26e1a245b814feb0349", null ],
-    [ "IsDatabaseBound", "d4/d84/a10752.html#a16fae7cdf068c6e3d9e46882548d4c20", null ],
-    [ "OnCalculateMaxTalentPointsForLevel", "d4/d84/a10752.html#a1263b06233902fbede9fc5df80cc8ad4", null ],
-    [ "OnInitStatsForLevel", "d4/d84/a10752.html#a65a33c4f374f2e9739680ad172118c26", null ],
-    [ "OnPetAddToWorld", "d4/d84/a10752.html#a3012323c5c1424512b611b6956a32554", null ]
+    [ "GlobalScript", "d4/d84/a10752.html#a41dec0bbe8374b090b504e103c0ccd7b", null ],
+    [ "AfterInstanceGameObjectCreate", "d4/d84/a10752.html#aaf3fcef66636071ca9def455ff356868", null ],
+    [ "OnAfterCalculateLootGroupAmount", "d4/d84/a10752.html#a43efa65b032111032e290371a0df0a60", null ],
+    [ "OnAfterInitializeLockedDungeons", "d4/d84/a10752.html#ae76b6676b24c1e33ba7f020e3a9ce3e5", null ],
+    [ "OnAfterRefCount", "d4/d84/a10752.html#ac25cacd2f032ada74b7cb3cd35ddeb84", null ],
+    [ "OnAfterUpdateEncounterState", "d4/d84/a10752.html#ad03b87900646cdead06f820e0091d1ff", null ],
+    [ "OnAllowedForPlayerLootCheck", "d4/d84/a10752.html#a2f263f57d2e8317f0312881fc7f7c8e7", null ],
+    [ "OnAllowedToLootContainerCheck", "d4/d84/a10752.html#aed04144e009683fd3ced38905b244c39", null ],
+    [ "OnBeforeDropAddItem", "d4/d84/a10752.html#ab403945c8443ba970489a5da923fbb31", null ],
+    [ "OnBeforeLootEqualChanced", "d4/d84/a10752.html#ad6d3a51c35e8718533d0809fd132a253", null ],
+    [ "OnBeforeSetBossState", "d4/d84/a10752.html#aa71f55a96e0d580fde44291656084356", null ],
+    [ "OnBeforeUpdateArenaPoints", "d4/d84/a10752.html#a42cbfd8f6c10feb1012b7e5dad67ef84", null ],
+    [ "OnBeforeWorldObjectSetPhaseMask", "d4/d84/a10752.html#a92ebe4fc11cd0d2e0bd87dcd047c4523", null ],
+    [ "OnInitializeLockedDungeons", "d4/d84/a10752.html#ad94c308fc3b7f86bbb53b4f49b3fa360", null ],
+    [ "OnInstanceIdRemoved", "d4/d84/a10752.html#ae85fcbfdeb4ed098302a15bc7f53e9cb", null ],
+    [ "OnIsAffectedBySpellModCheck", "d4/d84/a10752.html#ad8bf354c9cc7145f515b646c8e5b2b3e", null ],
+    [ "OnItemDelFromDB", "d4/d84/a10752.html#a0140624a479c0d2c0a96050bb6a96bf7", null ],
+    [ "OnItemRoll", "d4/d84/a10752.html#a08783ec228e8e3025641a5a2f7474071", null ],
+    [ "OnLoadSpellCustomAttr", "d4/d84/a10752.html#a782994a96188e1540e03b9481f4ee93d", null ],
+    [ "OnMirrorImageDisplayItem", "d4/d84/a10752.html#abf690afbe28ca4a138c012c55cfd1990", null ],
+    [ "OnSpellHealingBonusTakenNegativeModifiers", "d4/d84/a10752.html#aeee1139d587e7be99617f15664d85b8e", null ]
 ];

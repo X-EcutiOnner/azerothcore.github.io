@@ -1,5 +1,5 @@
 var a28400 =
 [
-    [ "ID", "de/d61/a28400.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
-    [ "parentCategory", "de/d61/a28400.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
+    [ "npc_pet_trainerAI", "de/d61/a28400.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
+    [ "sGossipSelect", "de/d61/a28400.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
 ];

@@ -1,20 +1,13 @@
 var a16548 =
 [
-    [ "instance_ruby_sanctum_InstanceMapScript", "d9/dc2/a16548.html#a98a097bfa32aedc3fe1d6600f147c94f", null ],
-    [ "FillInitialWorldStates", "d9/dc2/a16548.html#a92cf11c73a596e0be141d9626ff10d3d", null ],
-    [ "GetGuidData", "d9/dc2/a16548.html#aaee1be892a411ed2fe720aff91c1dbbe", null ],
-    [ "OnCreatureCreate", "d9/dc2/a16548.html#a18f4f8286f7ca85b1a366b1ca3ffe6b3", null ],
-    [ "OnGameObjectCreate", "d9/dc2/a16548.html#a27c4858d5972471ef91a269c11fc0494", null ],
-    [ "OnGameObjectRemove", "d9/dc2/a16548.html#ac53fa1af91c66a264fdd016abe40168c", null ],
-    [ "OnPlayerEnter", "d9/dc2/a16548.html#a74b01d2d0b48e95f758a1143fccf40ae", null ],
-    [ "SetBossState", "d9/dc2/a16548.html#a3542b2f1f54fc25720bba1b4f2d12e5f", null ],
-    [ "BaltharusTheWarbornGUID", "d9/dc2/a16548.html#a99cb15668a0eb037fc7edd6a2340ca33", null ],
-    [ "FlameRingGUID", "d9/dc2/a16548.html#a52256dd98ae786bfe9bfc86ce036a060", null ],
-    [ "GeneralZarithrianGUID", "d9/dc2/a16548.html#ad92ac599589bdd8b7c3aa055b451f0cf", null ],
-    [ "HalionControllerGUID", "d9/dc2/a16548.html#a52144a0152a2ea00066c0d24bdee0b74", null ],
-    [ "HalionGUID", "d9/dc2/a16548.html#a0b824e7cf269619220329aecba08e448", null ],
-    [ "OrbCarrierGUID", "d9/dc2/a16548.html#a723b8a7384d0b9455b3a99172a903868", null ],
-    [ "TwilightHalionGUID", "d9/dc2/a16548.html#a165f776c123fa595b6424be666fa8570", null ],
-    [ "XerestraszaGUID", "d9/dc2/a16548.html#aefcf3beb1d5da118c80d3af9eb21ec99", null ],
-    [ "ZarithrianSpawnStalkerGUID", "d9/dc2/a16548.html#a5e28d815149507f4bc6a30e42d4034a4", null ]
+    [ "boss_twilight_halionAI", "d9/dc2/a16548.html#aab05bab963d603c3cb70edfd62a84b49", null ],
+    [ "DamageTaken", "d9/dc2/a16548.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
+    [ "EnterEvadeMode", "d9/dc2/a16548.html#af7076251fc1fad1dc259d747934910e2", null ],
+    [ "JustDied", "d9/dc2/a16548.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
+    [ "JustEngagedWith", "d9/dc2/a16548.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
+    [ "KilledUnit", "d9/dc2/a16548.html#ada770d51f63c841c500ffc3197a7a89f", null ],
+    [ "Reset", "d9/dc2/a16548.html#a9c945841926d5b08f37c6a720dd25a14", null ],
+    [ "UpdateAI", "d9/dc2/a16548.html#a6ab1d215ed077883781b0c0188282c5e", null ],
+    [ "_events", "d9/dc2/a16548.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
+    [ "_instance", "d9/dc2/a16548.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
 ];

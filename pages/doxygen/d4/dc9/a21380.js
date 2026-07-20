@@ -1,9 +1,6 @@
 var a21380 =
 [
-    [ "npc_archmage_landalockAI", "d4/dc9/a21380.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
-    [ "GetImageEntry", "d4/dc9/a21380.html#ae09841969253c0baf72cc235b6fa058e", null ],
-    [ "JustSummoned", "d4/dc9/a21380.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
-    [ "UpdateAI", "d4/dc9/a21380.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
-    [ "_summonGUID", "d4/dc9/a21380.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
-    [ "_switchImageTimer", "d4/dc9/a21380.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
+    [ "HandleEffectPeriodic", "d4/dc9/a21380.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "d4/dc9/a21380.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "d4/dc9/a21380.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

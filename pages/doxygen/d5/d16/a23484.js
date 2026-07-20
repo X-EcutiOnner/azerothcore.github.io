@@ -1,11 +1,17 @@
 var a23484 =
 [
-    [ "boss_high_astromancer_solarian", "d5/d16/a23484.html#a2db48cc179539f81b55188de08a7e180", null ],
-    [ "AttackStart", "d5/d16/a23484.html#acaf94134aef553447e766a5e431c8b83", null ],
-    [ "JustDied", "d5/d16/a23484.html#a510eb2e4f0770670d6767bc2545375b7", null ],
-    [ "JustEngagedWith", "d5/d16/a23484.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
-    [ "JustSummoned", "d5/d16/a23484.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
-    [ "KilledUnit", "d5/d16/a23484.html#a561a78193615575b7e43e0f21387f1b8", null ],
-    [ "Reset", "d5/d16/a23484.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
-    [ "UpdateAI", "d5/d16/a23484.html#a07a76c34a978c31212390cf10ed3e382", null ]
+    [ "boss_grand_warlock_nethekurse", "d5/d16/a23484.html#a4eefeb639cf5f0753feb6cfd99cda187", null ],
+    [ "DoAction", "d5/d16/a23484.html#a8288f8c28b61dac574254435534b5e3f", null ],
+    [ "IntroRP", "d5/d16/a23484.html#ae071f8cc7ef44e6c6cf205295debea5f", null ],
+    [ "JustDied", "d5/d16/a23484.html#a48a2ec7beeb5c9685fc627317acea949", null ],
+    [ "JustEngagedWith", "d5/d16/a23484.html#a117d2d737433ea89b37ea1ee58e6c237", null ],
+    [ "JustReachedHome", "d5/d16/a23484.html#afe62561de66fbe7fa92c365a51f01adc", null ],
+    [ "KilledUnit", "d5/d16/a23484.html#ac29fa30bfa8377a07cbfdd1f0964ebfb", null ],
+    [ "Reset", "d5/d16/a23484.html#aceef7aace38f5246ad67a1591b7f301c", null ],
+    [ "SetData", "d5/d16/a23484.html#a6c647262ce7df78c46af6b725cbcc250", null ],
+    [ "UpdateAI", "d5/d16/a23484.html#aca0bd4c71aafd2d1c54e2ca87d538e9a", null ],
+    [ "_canAggro", "d5/d16/a23484.html#a9c577798d5bc87654e6984af02d95c34", null ],
+    [ "_introStarted", "d5/d16/a23484.html#ac7d0737aa28c51cc63d93b8774e536f0", null ],
+    [ "PeonEngagedCount", "d5/d16/a23484.html#a886a0e792cf5ac6afa9670703cb568ff", null ],
+    [ "PeonKilledCount", "d5/d16/a23484.html#a8837d810df1d8b8a505d2d6c98ac8be8", null ]
 ];

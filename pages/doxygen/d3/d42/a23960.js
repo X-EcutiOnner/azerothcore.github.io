@@ -1,7 +1,7 @@
 var a23960 =
 [
-    [ "HandleEffectRemove", "d3/d42/a23960.html#a317c238b165ad331beb447ea5d0de7e1", null ],
-    [ "PrepareAuraScript", "d3/d42/a23960.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
-    [ "Register", "d3/d42/a23960.html#a13fdde1557249328306a57e159d821a7", null ],
-    [ "Validate", "d3/d42/a23960.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
+    [ "npc_bessyAI", "d6/d6b/a23964.html", "d6/d6b/a23964" ],
+    [ "npc_bessy", "d3/d42/a23960.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d3/d42/a23960.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d3/d42/a23960.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

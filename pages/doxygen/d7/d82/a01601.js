@@ -1,10 +1,17 @@
 var a01601 =
 [
-    [ "AccountFlagText", "d4/ded/a12429.html", "d4/ded/a12429" ],
-    [ "misc_commandscript", "db/d6b/a12433.html", "db/d6b/a12433" ],
-    [ "AddSC_misc_commandscript", "d7/d82/a01601.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
-    [ "GetLocalizeCreatureName", "d7/d82/a01601.html#aaedbdfd3cae227b11684151f41e3b977", null ],
-    [ "accountFlagText", "d7/d82/a01601.html#a704344ab0c20d3674c76d1dcf177ec9a", null ],
-    [ "SPELL_FREEZE", "d7/d82/a01601.html#a181bdc61e4eb1d21db975ca0227cb086", null ],
-    [ "SPELL_STUCK", "d7/d82/a01601.html#a1706df7feb0ef4f693c388033ace5fb7", null ]
+    [ "Arena", "d3/dc9/a07600.html", "d3/dc9/a07600" ],
+    [ "ArenaBroadcastTexts", "d7/d82/a01601.html#a407f2036481e3d9e2def3daa50546c71", [
+      [ "ARENA_TEXT_START_ONE_MINUTE", "d7/d82/a01601.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854", null ],
+      [ "ARENA_TEXT_START_THIRTY_SECONDS", "d7/d82/a01601.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084", null ],
+      [ "ARENA_TEXT_START_FIFTEEN_SECONDS", "d7/d82/a01601.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9", null ],
+      [ "ARENA_TEXT_START_BATTLE_HAS_BEGUN", "d7/d82/a01601.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd", null ]
+    ] ],
+    [ "ArenaSpellIds", "d7/d82/a01601.html#a05b7784b7a9a1ce8e6367f6f9bb875d9", [
+      [ "SPELL_ALLIANCE_GOLD_FLAG", "d7/d82/a01601.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c", null ],
+      [ "SPELL_ALLIANCE_GREEN_FLAG", "d7/d82/a01601.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f", null ],
+      [ "SPELL_HORDE_GOLD_FLAG", "d7/d82/a01601.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0", null ],
+      [ "SPELL_HORDE_GREEN_FLAG", "d7/d82/a01601.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222", null ],
+      [ "SPELL_LAST_MAN_STANDING", "d7/d82/a01601.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd", null ]
+    ] ]
 ];

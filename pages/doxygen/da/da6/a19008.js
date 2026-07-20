@@ -1,5 +1,6 @@
 var a19008 =
 [
-    [ "at_icc_start_blood_quickening", "da/da6/a19008.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
-    [ "OnTrigger", "da/da6/a19008.html#a814670e127b1eace6068a553b23d00f7", null ]
+    [ "boss_sister_svalnaAI", "d5/d06/a19012.html", "d5/d06/a19012" ],
+    [ "boss_sister_svalna", "da/da6/a19008.html#a233a9606db61f6ab945350e98a0929ff", null ],
+    [ "GetAI", "da/da6/a19008.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
 ];

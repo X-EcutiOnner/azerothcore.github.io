@@ -1,7 +1,6 @@
 var a13908 =
 [
-    [ "npc_eris_hevenfireAI", "da/d9a/a13912.html", "da/d9a/a13912" ],
-    [ "npc_eris_hevenfire", "d3/d37/a13908.html#a77f0836dc0b19114316b8b67839d8033", null ],
-    [ "GetAI", "d3/d37/a13908.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
-    [ "OnQuestAccept", "d3/d37/a13908.html#a1e0baec5706cfddd678b58eb9359997e", null ]
+    [ "HandleEffectApply", "d3/d37/a13908.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
+    [ "PrepareAuraScript", "d3/d37/a13908.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
+    [ "Register", "d3/d37/a13908.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
 ];

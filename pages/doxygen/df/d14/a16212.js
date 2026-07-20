@@ -1,6 +1,6 @@
 var a16212 =
 [
-    [ "instance_ahnkahet_InstanceScript", "de/d9f/a16216.html", "de/d9f/a16216" ],
-    [ "instance_ahnkahet", "df/d14/a16212.html#afbe11bc040019231878cf31cc357830b", null ],
-    [ "GetInstanceScript", "df/d14/a16212.html#a8847099c88f11de363c45e27998f10b7", null ]
+    [ "creatureID", "df/d14/a16212.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "df/d14/a16212.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "df/d14/a16212.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

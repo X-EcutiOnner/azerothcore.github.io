@@ -1,7 +1,5 @@
 var a11628 =
 [
-    [ "IsValidOpcode", "d5/d8f/a11628.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "d5/d8f/a11628.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "d5/d8f/a11628.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "d5/d8f/a11628.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "PacketHandler", "d5/d8f/a11628.html#ae28d6ea18799c4dc90be8225fd2fad66", null ],
+    [ "Call", "d5/d8f/a11628.html#a9468be560aba807419fb7e28bf0d6a41", null ]
 ];

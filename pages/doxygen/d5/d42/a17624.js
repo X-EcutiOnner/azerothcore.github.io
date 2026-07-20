@@ -1,6 +1,5 @@
 var a17624 =
 [
-    [ "PrepareSpellScript", "d5/d42/a17624.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
-    [ "Register", "d5/d42/a17624.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
-    [ "SetDest", "d5/d42/a17624.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
+    [ "achievement_snakes_whyd_it_have_to_be_snakes", "d5/d42/a17624.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
+    [ "OnCheck", "d5/d42/a17624.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
 ];

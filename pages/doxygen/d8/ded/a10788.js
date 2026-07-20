@@ -1,6 +1,4 @@
 var a10788 =
 [
-    [ "WeatherScript", "d8/ded/a10788.html#a4f86b051364c95f5389d7ed473429b7b", null ],
-    [ "IsDatabaseBound", "d8/ded/a10788.html#a2547902149ce080711ccacb709b10e8a", null ],
-    [ "OnChange", "d8/ded/a10788.html#a10c105f1e1bff1e9fe484e98b00cf76c", null ]
+    [ "ModuleScript", "d8/ded/a10788.html#a145c67a6c12a18527a4e7011a66b1760", null ]
 ];

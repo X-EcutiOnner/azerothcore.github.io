@@ -1,7 +1,6 @@
 var a15732 =
 [
-    [ "npc_webbed_creatureAI", "df/d8b/a15732.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
-    [ "JustDied", "df/d8b/a15732.html#a153d461124ec9266ffcac147a217f6d9", null ],
-    [ "JustEngagedWith", "df/d8b/a15732.html#ac52ad6512bcaee35932f856abdac80d4", null ],
-    [ "Reset", "df/d8b/a15732.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
+    [ "OnPeriodic", "df/d8b/a15732.html#a5945e24db52c6bacae7221b085dc877b", null ],
+    [ "PrepareAuraScript", "df/d8b/a15732.html#acc987aa864a8333de7bd0b770eb9018d", null ],
+    [ "Register", "df/d8b/a15732.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
 ];

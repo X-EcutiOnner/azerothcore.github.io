@@ -1,8 +1,6 @@
 var a16776 =
 [
-    [ "npc_toc_warlockAI", "d9/df6/a16776.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
-    [ "JustSummoned", "d9/df6/a16776.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
-    [ "myCanCast", "d9/df6/a16776.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
-    [ "UpdateAI", "d9/df6/a16776.html#a554849d02d923439bd810b7d8c242afa", null ],
-    [ "events", "d9/df6/a16776.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "d6/de7/a16780.html", "d6/de7/a16780" ],
+    [ "instance_trial_of_the_champion", "d9/df6/a16776.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "d9/df6/a16776.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

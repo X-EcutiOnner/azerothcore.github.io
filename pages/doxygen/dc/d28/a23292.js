@@ -1,7 +1,7 @@
 var a23292 =
 [
-    [ "FilterTargets", "dc/d28/a23292.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
-    [ "HandleHit", "dc/d28/a23292.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
-    [ "PrepareSpellScript", "dc/d28/a23292.html#a376618b9811b2e1ec18697431094e22f", null ],
-    [ "Register", "dc/d28/a23292.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
+    [ "HandleScript", "dc/d28/a23292.html#a42052a416290a54d5479a402de578a73", null ],
+    [ "PrepareSpellScript", "dc/d28/a23292.html#a5f6aa972879b65c0207e47435d436a33", null ],
+    [ "Register", "dc/d28/a23292.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
+    [ "Validate", "dc/d28/a23292.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
 ];

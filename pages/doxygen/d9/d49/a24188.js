@@ -1,7 +1,5 @@
 var a24188 =
 [
-    [ "CheckProc", "d9/d49/a24188.html#a64414347ed5e132c3268451653082821", null ],
-    [ "HandleProc", "d9/d49/a24188.html#a8a3eab47b8214b59275aeaa8a02e4240", null ],
-    [ "PrepareAuraScript", "d9/d49/a24188.html#a88277eeea14f7799e27a4a897e6e8c0c", null ],
-    [ "Register", "d9/d49/a24188.html#a3ce0dcd5becd38e10e2bb6e3d2f28e89", null ]
+    [ "npc_pet_dk_risen_ally", "d9/d49/a24188.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
+    [ "OnCharmed", "d9/d49/a24188.html#ac3927becc1ed929c384b3413bfee9330", null ]
 ];

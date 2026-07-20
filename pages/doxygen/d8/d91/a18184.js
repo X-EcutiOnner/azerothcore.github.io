@@ -1,6 +1,7 @@
 var a18184 =
 [
-    [ "HandleScript", "d8/d91/a18184.html#abd766c298f8aa363d28198b6a5d7e374", null ],
-    [ "PrepareSpellScript", "d8/d91/a18184.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
-    [ "Register", "d8/d91/a18184.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
+    [ "npc_coldflameAI", "d8/d91/a18184.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
+    [ "IsSummonedBy", "d8/d91/a18184.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
+    [ "UpdateAI", "d8/d91/a18184.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
+    [ "events", "d8/d91/a18184.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
 ];

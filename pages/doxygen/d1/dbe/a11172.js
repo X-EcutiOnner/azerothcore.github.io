@@ -1,8 +1,19 @@
 var a11172 =
 [
-    [ "SetDungeonDifficulty", "d1/dbe/a11172.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
-    [ "Write", "d1/dbe/a11172.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
-    [ "Difficulty", "d1/dbe/a11172.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
-    [ "IsInGroup", "d1/dbe/a11172.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
-    [ "Unk", "d1/dbe/a11172.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
+    [ "GuildBankSwapItems", "d1/dbe/a11172.html#ab335b2ce30db878b41fa3a61953d7d60", null ],
+    [ "Read", "d1/dbe/a11172.html#a3f64634235beeabb9cee055926e6260a", null ],
+    [ "AutoStore", "d1/dbe/a11172.html#aa9eba5c523f7318b2c5e1fa09032920f", null ],
+    [ "Banker", "d1/dbe/a11172.html#a464b37b7cb45a474531662a5032728e6", null ],
+    [ "BankItemCount", "d1/dbe/a11172.html#af11a90a704181b7ed9d823367daf8dc9", null ],
+    [ "BankOnly", "d1/dbe/a11172.html#a2078c50c82bb7b889575da516108f16d", null ],
+    [ "BankSlot", "d1/dbe/a11172.html#a9250ac77819b5ad0be64507d890723c3", null ],
+    [ "BankSlot1", "d1/dbe/a11172.html#ae1e39a84d20fe752311e839384ffdf47", null ],
+    [ "BankTab", "d1/dbe/a11172.html#a39134b0defcdea989bf034decf6001e3", null ],
+    [ "BankTab1", "d1/dbe/a11172.html#a714d47cb3f39425c80094ee9d7f20a12", null ],
+    [ "ContainerItemSlot", "d1/dbe/a11172.html#a2d4830a216f616646e1119d7282c0f94", null ],
+    [ "ContainerSlot", "d1/dbe/a11172.html#a0032741b343e3c5a05a8ca30e46126ee", null ],
+    [ "ItemID", "d1/dbe/a11172.html#a6c231ac64ec02cb360bdd8bf88e134b5", null ],
+    [ "ItemID1", "d1/dbe/a11172.html#adc987aa11525cb48a9e5e9d789fe47bd", null ],
+    [ "StackCount", "d1/dbe/a11172.html#af4ce1f211586bd988ec884820038e049", null ],
+    [ "ToSlot", "d1/dbe/a11172.html#a0294b1260e1b90386b9096e08f9f7838", null ]
 ];

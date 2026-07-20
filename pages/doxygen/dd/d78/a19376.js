@@ -1,6 +1,7 @@
 var a19376 =
 [
-    [ "boss_maexxna_webwrapAI", "db/d03/a19380.html", "db/d03/a19380" ],
-    [ "boss_maexxna_webwrap", "dd/d78/a19376.html#afebd8c00234fe6cdd93af8ae443bb637", null ],
-    [ "GetAI", "dd/d78/a19376.html#a6d86d58a86b831a219ecc598044be4f3", null ]
+    [ "HandleScriptEffect", "dd/d78/a19376.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
+    [ "PrepareSpellScript", "dd/d78/a19376.html#a21a3175346c9b12c02205f2d33da3b86", null ],
+    [ "Register", "dd/d78/a19376.html#af5f279ad20e9153f201262eaa7615978", null ],
+    [ "Validate", "dd/d78/a19376.html#a635ff34619767f657778016e1eb901aa", null ]
 ];

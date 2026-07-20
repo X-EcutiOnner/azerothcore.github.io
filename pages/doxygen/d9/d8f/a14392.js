@@ -1,7 +1,6 @@
 var a14392 =
 [
-    [ "HandleScriptEffect", "d9/d8f/a14392.html#ace68732d578fbaeb2b209bfded88853a", null ],
-    [ "PrepareSpellScript", "d9/d8f/a14392.html#a42a69995e8f527a383e96e2ead832f72", null ],
-    [ "Register", "d9/d8f/a14392.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
-    [ "Validate", "d9/d8f/a14392.html#a7697caf8e5390d290b353fb6a291aa10", null ]
+    [ "npc_eagle_trash_aggro_trigger", "d9/d8f/a14392.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "d9/d8f/a14392.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "d9/d8f/a14392.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

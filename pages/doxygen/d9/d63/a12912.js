@@ -1,8 +1,5 @@
 var a12912 =
 [
-    [ "FilterTargets", "d9/d63/a12912.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
-    [ "HandleScript", "d9/d63/a12912.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
-    [ "PrepareSpellScript", "d9/d63/a12912.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
-    [ "Register", "d9/d63/a12912.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
-    [ "Validate", "d9/d63/a12912.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
+    [ "go_orb_of_domination", "d9/d63/a12912.html#ad1378efcf7a54adac256a44bbdfe4357", null ],
+    [ "GossipHello", "d9/d63/a12912.html#a95628cbeeb6b2af6a79546ff3661815e", null ]
 ];

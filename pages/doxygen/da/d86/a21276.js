@@ -1,10 +1,6 @@
 var a21276 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "da/d86/a21276.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
-    [ "GotStinged", "da/d86/a21276.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
-    [ "JustEngagedWith", "da/d86/a21276.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
-    [ "Reset", "da/d86/a21276.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
-    [ "SpellHit", "da/d86/a21276.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
-    [ "UpdateAI", "da/d86/a21276.html#a21def23073eeec051c1c97a813e0ea84", null ],
-    [ "rebuff", "da/d86/a21276.html#ac83c25091fdd3c7876a88927b758261f", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "dc/dac/a21280.html", "dc/dac/a21280" ],
+    [ "instance_vault_of_archavon", "da/d86/a21276.html#a0be8d95ff0f3b751e6f833689e436310", null ],
+    [ "GetInstanceScript", "da/d86/a21276.html#abb955a8873a3a3021e164225dd1f857a", null ]
 ];

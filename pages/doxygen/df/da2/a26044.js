@@ -1,7 +1,6 @@
 var a26044 =
 [
-    [ "HandleProc", "df/da2/a26044.html#ad96085df198965575061ab989195983a", null ],
-    [ "PrepareAuraScript", "df/da2/a26044.html#a61a84072d467596b8b2b2704ecbca03a", null ],
-    [ "Register", "df/da2/a26044.html#a357e5c8a332989f93276667da1adf9f6", null ],
-    [ "Validate", "df/da2/a26044.html#aa1d3ef35912daa094bd9527280d0064b", null ]
+    [ "PrepareSpellScript", "df/da2/a26044.html#a7099b8d28128cfea49288792ea02606c", null ],
+    [ "Register", "df/da2/a26044.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
+    [ "UpdateTarget", "df/da2/a26044.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
 ];

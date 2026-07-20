@@ -1,6 +1,7 @@
 var a19644 =
 [
-    [ "boss_varosAI", "de/dab/a19648.html", "de/dab/a19648" ],
-    [ "boss_varos", "d7/dd6/a19644.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
-    [ "GetAI", "d7/dd6/a19644.html#a36733c4eb6179e43d61a1c37480666ea", null ]
+    [ "FilterTargets", "d7/dd6/a19644.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "d7/dd6/a19644.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "d7/dd6/a19644.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "d7/dd6/a19644.html#a5fcc9cc654d6495f535600a6eef4c968", null ]
 ];

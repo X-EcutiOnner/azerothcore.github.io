@@ -1,6 +1,6 @@
 var a25084 =
 [
-    [ "CheckRequirement", "df/dc3/a25084.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
-    [ "PrepareSpellScript", "df/dc3/a25084.html#aebb88f5ea803a590a099e4e6427d8276", null ],
-    [ "Register", "df/dc3/a25084.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
+    [ "CheckRequirement", "df/dc3/a25084.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
+    [ "PrepareSpellScript", "df/dc3/a25084.html#a859ac50e6774471c232113e5c007f602", null ],
+    [ "Register", "df/dc3/a25084.html#aceafb7d6cfa300011935026f4d7ac491", null ]
 ];

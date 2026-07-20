@@ -1,9 +1,8 @@
 var a16968 =
 [
-    [ "npc_concentrated_ballAI", "d2/d7c/a16968.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
-    [ "DoAction", "d2/d7c/a16968.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
-    [ "MovementInform", "d2/d7c/a16968.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
-    [ "MoveToNextPoint", "d2/d7c/a16968.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
-    [ "UpdateAI", "d2/d7c/a16968.html#a6509ff14639bca29b6877db54102d004", null ],
-    [ "despawning", "d2/d7c/a16968.html#a24145c6c4c38b5a1853647d24871090d", null ]
+    [ "npc_toc_pet_warlockAI", "d2/d7c/a16968.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
+    [ "EnterEvadeMode", "d2/d7c/a16968.html#a62219f63e82fc67f63db2cbd713647a0", null ],
+    [ "myCanCast", "d2/d7c/a16968.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
+    [ "UpdateAI", "d2/d7c/a16968.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
+    [ "events", "d2/d7c/a16968.html#a8edadebd7e6660041233a24fb07173bf", null ]
 ];

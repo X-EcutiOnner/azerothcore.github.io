@@ -1,9 +1,6 @@
 var a25332 =
 [
-    [ "CheckIfCorpseNear", "dc/d11/a25332.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
-    [ "HandleDummy", "dc/d11/a25332.html#a913c0137d2a13c810bbae869cc6cf734", null ],
-    [ "Load", "dc/d11/a25332.html#a3f36968d10bde12c7e2eda8db4145252", null ],
-    [ "PrepareSpellScript", "dc/d11/a25332.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
-    [ "Register", "dc/d11/a25332.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
-    [ "Validate", "dc/d11/a25332.html#a51b075f95211025b2a7719a3ee70a6be", null ]
+    [ "HandleScript", "dc/d11/a25332.html#a3f63c080d2a74def0920cceaea18e1e2", null ],
+    [ "PrepareSpellScript", "dc/d11/a25332.html#a438c4c1763688210384b24305aeebe52", null ],
+    [ "Register", "dc/d11/a25332.html#a27b25fbbdd912505738728414b79380c", null ]
 ];

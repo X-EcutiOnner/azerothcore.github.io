@@ -1,6 +1,7 @@
 var a21448 =
 [
-    [ "npc_mindless_ghoulAI", "d9/d0e/a21448.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "d9/d0e/a21448.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "d9/d0e/a21448.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "npc_bonker_togglevoltAI", "d6/d46/a21452.html", "d6/d46/a21452" ],
+    [ "npc_bonker_togglevolt", "d9/d0e/a21448.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
+    [ "GetAI", "d9/d0e/a21448.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
+    [ "OnQuestAccept", "d9/d0e/a21448.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
 ];

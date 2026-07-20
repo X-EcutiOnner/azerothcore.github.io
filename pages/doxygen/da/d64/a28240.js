@@ -1,9 +1,10 @@
 var a28240 =
 [
-    [ "npc_fireworkAI", "da/d64/a28240.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "da/d64/a28240.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "da/d64/a28240.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "da/d64/a28240.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "da/d64/a28240.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "da/d64/a28240.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "go_evil_book_for_dummies", "da/d64/a28240.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "da/d64/a28240.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "da/d64/a28240.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "da/d64/a28240.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "da/d64/a28240.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "da/d64/a28240.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "da/d64/a28240.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

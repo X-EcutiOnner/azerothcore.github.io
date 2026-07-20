@@ -1,8 +1,7 @@
 var a05364 =
 [
-    [ "MeshTriangle", "d7/ded/a05364.html#af99ecf0b02af73e6727095df1dce8422", null ],
-    [ "MeshTriangle", "d7/ded/a05364.html#a36109fc79a9ca9c6bf19959fd1493e60", null ],
-    [ "idx0", "d7/ded/a05364.html#aed1048a2b6745215a7b8f70dec378371", null ],
-    [ "idx1", "d7/ded/a05364.html#a560bb163f63ff7202aade4d115f31664", null ],
-    [ "idx2", "d7/ded/a05364.html#ac939c5e66526c67c067288b9d6484cac", null ]
+    [ "GameobjectModelData", "d7/ded/a05364.html#a7d259df5a5541f95e0f548674d023fc8", null ],
+    [ "bound", "d7/ded/a05364.html#ab133a32c9eefff0a35acaa4e157a3f05", null ],
+    [ "isWmo", "d7/ded/a05364.html#ac51305f0d800ff993e9a9cba2ccb6939", null ],
+    [ "name", "d7/ded/a05364.html#ac8a053b6f01a9917ee6b1fc2a738bb4e", null ]
 ];

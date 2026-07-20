@@ -1,10 +1,11 @@
 var a22964 =
 [
-    [ "npc_frozen_core", "d0/d6d/a22964.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
-    [ "DoAction", "d0/d6d/a22964.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
-    [ "Initialize", "d0/d6d/a22964.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
-    [ "JustDied", "d0/d6d/a22964.html#a476e086b0379e0cef3a44d250b020d6a", null ],
-    [ "UpdateAI", "d0/d6d/a22964.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
-    [ "_events", "d0/d6d/a22964.html#a3a5efec3279644ef713722e1556a3c84", null ],
-    [ "_instance", "d0/d6d/a22964.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
+    [ "boss_fathomlord_karathress", "d0/d6d/a22964.html#a05c483ea61011926c260b43f6c01cac3", null ],
+    [ "DoAction", "d0/d6d/a22964.html#adc5685244341e353c6dac67b0191d877", null ],
+    [ "JustDied", "d0/d6d/a22964.html#a4c356359be50b626a28fab4a803386f8", null ],
+    [ "JustEngagedWith", "d0/d6d/a22964.html#ae221d994f2ebb0a298288233727ea1ba", null ],
+    [ "JustReachedHome", "d0/d6d/a22964.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
+    [ "JustSummoned", "d0/d6d/a22964.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
+    [ "KilledUnit", "d0/d6d/a22964.html#a02812a3cc7de22348058dedd107bb6d0", null ],
+    [ "Reset", "d0/d6d/a22964.html#a52f76cb43a32c5f59cbc7476f0df8646", null ]
 ];

@@ -1,7 +1,6 @@
 var a15768 =
 [
-    [ "npc_tharnarianAI", "d4/df1/a15772.html", "d4/df1/a15772" ],
-    [ "npc_tharnarian", "d1/db3/a15768.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
-    [ "GetAI", "d1/db3/a15768.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
-    [ "OnQuestReward", "d1/db3/a15768.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
+    [ "HandleApply", "d1/db3/a15768.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
+    [ "PrepareAuraScript", "d1/db3/a15768.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
+    [ "Register", "d1/db3/a15768.html#ade5c710416516760cc69f77750aa2a1f", null ]
 ];

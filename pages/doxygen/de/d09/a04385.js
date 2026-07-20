@@ -1,6 +1,21 @@
 var a04385 =
 [
-    [ "DBUpdater< CharacterDatabaseConnection >", "de/d09/a04385.html#a753e207671f7af3815a056247f2de3ce", null ],
-    [ "DBUpdater< LoginDatabaseConnection >", "de/d09/a04385.html#a16a33693c8570aff221401b100547fb7", null ],
-    [ "DBUpdater< WorldDatabaseConnection >", "de/d09/a04385.html#ace05c45d1df6cb7f16487ef1aa8bc9f7", null ]
+    [ "instance_scholomance", "d0/d1e/a13592.html", "d0/d1e/a13592" ],
+    [ "instance_scholomance::instance_scholomance_InstanceMapScript", "d8/d59/a13596.html", "d8/d59/a13596" ],
+    [ "spell_scholomance_fixate_aura", "d3/d21/a13600.html", "d3/d21/a13600" ],
+    [ "spell_scholomance_boon_of_life_aura", "d1/dc0/a13604.html", "d1/dc0/a13604" ],
+    [ "npc_scholomance_occultist", "d1/dc9/a13608.html", "d1/dc9/a13608" ],
+    [ "npc_scholomance_occultist::npc_scholomance_occultistAI", "d8/d49/a13612.html", "d8/d49/a13612" ],
+    [ "OccultistEntries", "de/d09/a04385.html#a8b43fe18f8176260ed382582db3c3818", [
+      [ "CASTER_ENTRY", "de/d09/a04385.html#a8b43fe18f8176260ed382582db3c3818a5bb832c5eb17f3850f1178b2b3590a5a", null ],
+      [ "DARK_SHADE_ENTRY", "de/d09/a04385.html#a8b43fe18f8176260ed382582db3c3818a404c94392628f9372866677c936edb15", null ]
+    ] ],
+    [ "OccultistSpells", "de/d09/a04385.html#a9f85ef6fae02a6e177aa60a656ac2b3d", [
+      [ "BONE_ARMOR_SPELL", "de/d09/a04385.html#a9f85ef6fae02a6e177aa60a656ac2b3da89e933b806d06611ede39194aec55c1a", null ],
+      [ "COUNTER_SPELL", "de/d09/a04385.html#a9f85ef6fae02a6e177aa60a656ac2b3da8b221e5c5dc36e75186eb2b8bdc0e313", null ],
+      [ "DRAIN_MANA_SPELL", "de/d09/a04385.html#a9f85ef6fae02a6e177aa60a656ac2b3da5a3228d15aeb4d8cb7c29650200766af", null ],
+      [ "SHADOWBOLT_VOLLEY_SPELL", "de/d09/a04385.html#a9f85ef6fae02a6e177aa60a656ac2b3da2e1fda31c0d43a826ad22b89a62cfb8c", null ]
+    ] ],
+    [ "AddSC_instance_scholomance", "de/d09/a04385.html#a57729392acbf8df56faae2a7865f65b4", null ],
+    [ "KirtonosSpawn", "de/d09/a04385.html#a5e00a038de93e0b1fc4ac53b49bf47da", null ]
 ];

@@ -1,17 +1,15 @@
 var a10712 =
 [
-    [ "GuildScript", "da/d91/a10712.html#a9f2e849a2fb4a1cb901080f129692482", null ],
-    [ "CanGuildSendBankList", "da/d91/a10712.html#a293f3d822ae075246f1a7552ce9b0424", null ],
-    [ "IsDatabaseBound", "da/d91/a10712.html#aae0601f04ec90533bb7699c68f68fe8f", null ],
-    [ "OnAddMember", "da/d91/a10712.html#a908df71c0d9be1258e624f4e977e8d75", null ],
-    [ "OnBankEvent", "da/d91/a10712.html#a8f29c847a68fb41dd3bca4ac257ee159", null ],
-    [ "OnCreate", "da/d91/a10712.html#acfc89fe841629beca8de15c23c48a6c7", null ],
-    [ "OnDisband", "da/d91/a10712.html#a5c840084ca74af0556ac5d6256bfd75d", null ],
-    [ "OnEvent", "da/d91/a10712.html#ad0733568cee8ded5c89d8404166201bb", null ],
-    [ "OnInfoChanged", "da/d91/a10712.html#a3ce284c112b61c6077b509d55a52f388", null ],
-    [ "OnItemMove", "da/d91/a10712.html#a2309a1ae2828cb7c758a5cf0329f1f5a", null ],
-    [ "OnMemberDepositMoney", "da/d91/a10712.html#a64d676d964b408b6fde7ab9185951eb0", null ],
-    [ "OnMemberWitdrawMoney", "da/d91/a10712.html#a503c5116512f8ac45506732674aa5635", null ],
-    [ "OnMOTDChanged", "da/d91/a10712.html#ac5886f63fbc5da499843677339f4944b", null ],
-    [ "OnRemoveMember", "da/d91/a10712.html#a0231be74a2625a91fc617980dfc41ca3", null ]
+    [ "CreatureScript", "da/d91/a10712.html#afa0053e299f9125cc288ea38652edecb", null ],
+    [ "GetAI", "da/d91/a10712.html#a24ba3529655943afdf6598450d14e6c2", null ],
+    [ "GetDialogStatus", "da/d91/a10712.html#a41562245c4a44843363d6b0ce32ce48d", null ],
+    [ "IsDatabaseBound", "da/d91/a10712.html#af19c64d23391f8b835f79bc6cf315caa", null ],
+    [ "OnFfaPvpStateUpdate", "da/d91/a10712.html#a316efb5c026588eb4bce8a0ce6b5cc0f", null ],
+    [ "OnGossipHello", "da/d91/a10712.html#a6268b132444845302ada504f48629a4f", null ],
+    [ "OnGossipSelect", "da/d91/a10712.html#a30f160576b4cb97d940ecf3468834667", null ],
+    [ "OnGossipSelectCode", "da/d91/a10712.html#ad99f4a96106b9dc5cf9c29304d781d6a", null ],
+    [ "OnQuestAccept", "da/d91/a10712.html#a6b106a237886f49e523ae7b07e9c5979", null ],
+    [ "OnQuestComplete", "da/d91/a10712.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b", null ],
+    [ "OnQuestReward", "da/d91/a10712.html#aba2be0f342cb9811bd0ebee954d7d36e", null ],
+    [ "OnQuestSelect", "da/d91/a10712.html#a1e054fb61dd560aa7718d59127ad4b51", null ]
 ];

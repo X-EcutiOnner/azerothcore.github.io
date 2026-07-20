@@ -1,11 +1,6 @@
 var a06020 =
 [
-    [ "DatabaseWorker", "d7/d13/a06020.html#a64450680e7b6e31bb42ce4f79788eb27", null ],
-    [ "~DatabaseWorker", "d7/d13/a06020.html#a170c873cbc917ece6a87591450dbe5a9", null ],
-    [ "DatabaseWorker", "d7/d13/a06020.html#aa43f1d875400b0ba6c031e0811397ed3", null ],
-    [ "operator=", "d7/d13/a06020.html#a15e753c757da609b55a66380f526091a", null ],
-    [ "WorkerThread", "d7/d13/a06020.html#ab74cbccbb68bfbbab58550eced982d1a", null ],
-    [ "_connection", "d7/d13/a06020.html#a2f21d73b584d9e5f17afc7a0ac78f129", null ],
-    [ "_queue", "d7/d13/a06020.html#a9c47ad6c0d4dca85a63be45c4e678a70", null ],
-    [ "_workerThread", "d7/d13/a06020.html#ad02a90f600f1996c053f36e186edf292", null ]
+    [ "handler", "d7/d13/a06020.html#a8074991652af9e5c8752dd4ff5e6e6cc", null ],
+    [ "packetSize", "d7/d13/a06020.html#a952f7f7ff3017efa4c3d127baa848785", null ],
+    [ "status", "d7/d13/a06020.html#aaf1066ba6414c519c889e3e8e52d38f2", null ]
 ];

@@ -1,6 +1,7 @@
 var a14532 =
 [
-    [ "npc_brewfest_bark_trigger", "d2/dda/a14532.html#a110d654792e1f5dae8b17f014ea3d425", null ],
-    [ "GetTextFor", "d2/dda/a14532.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
-    [ "MoveInLineOfSight", "d2/dda/a14532.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
+    [ "HandleOnHit", "d2/dda/a14532.html#a561799e6241b1fe17cd09f17c447107b", null ],
+    [ "PrepareSpellScript", "d2/dda/a14532.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
+    [ "Register", "d2/dda/a14532.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
+    [ "Validate", "d2/dda/a14532.html#adb339686c5e9dcb298712455dc8435bf", null ]
 ];

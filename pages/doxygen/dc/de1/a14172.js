@@ -1,7 +1,5 @@
 var a14172 =
 [
-    [ "FilterTargets", "dc/de1/a14172.html#aebe9055301495dd3a21736b9a2a35f31", null ],
-    [ "HandleDamageCalc", "dc/de1/a14172.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
-    [ "PrepareSpellScript", "dc/de1/a14172.html#a03b8e21e58988d9fc774205263c0817f", null ],
-    [ "Register", "dc/de1/a14172.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
+    [ "npc_tyrion", "dc/de1/a14172.html#a85b1abd4910729c17099174def6507b1", null ],
+    [ "OnQuestAccept", "dc/de1/a14172.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
 ];

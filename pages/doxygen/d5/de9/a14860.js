@@ -1,5 +1,8 @@
 var a14860 =
 [
-    [ "PrepareSpellScript", "d5/de9/a14860.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
-    [ "Register", "d5/de9/a14860.html#a06111bf70ee53fee6e90284f8d92642e", null ]
+    [ "HandleDummy", "d5/de9/a14860.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
+    [ "Load", "d5/de9/a14860.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
+    [ "PrepareSpellScript", "d5/de9/a14860.html#af1d1ad32d41d79008d650b388353346b", null ],
+    [ "Register", "d5/de9/a14860.html#a53a7c4c025324b205a29f92dd48aefde", null ],
+    [ "handled", "d5/de9/a14860.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
 ];

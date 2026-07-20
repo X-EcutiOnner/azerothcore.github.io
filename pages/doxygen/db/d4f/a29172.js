@@ -1,9 +1,7 @@
 var a29172 =
 [
-    [ "chargeConsumed", "db/d4f/a29172.html#a49f170e5f66cecdf6d719d1f6ac97254", null ],
-    [ "cooldownSet", "db/d4f/a29172.html#a60219087858953e3ea124b1b784516b2", null ],
-    [ "effectMask", "db/d4f/a29172.html#ae0feb161d225551bba25d466541cde84", null ],
-    [ "procChance", "db/d4f/a29172.html#a0299896836a739f2601a5ee1078f53bb", null ],
-    [ "shouldProc", "db/d4f/a29172.html#a497babcaf1a36b0abd10b4e360c231f2", null ],
-    [ "spellsCast", "db/d4f/a29172.html#a12d58d19ba4df25b8bd9dc6e1d089408", null ]
+    [ "ID", "db/d4f/a29172.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
+    [ "RadiusMax", "db/d4f/a29172.html#ab82c1acb9309b17104958182d80b01d1", null ],
+    [ "RadiusMin", "db/d4f/a29172.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
+    [ "RadiusPerLevel", "db/d4f/a29172.html#a74bb59afb808af45ceff6367468fca1e", null ]
 ];

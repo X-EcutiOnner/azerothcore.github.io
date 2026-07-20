@@ -1,5 +1,8 @@
 var a20300 =
 [
-    [ "achievement_i_have_the_coolest_friends", "d7/d19/a20300.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "d7/d19/a20300.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "OnApply", "d7/d19/a20300.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "d7/d19/a20300.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "d7/d19/a20300.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "d7/d19/a20300.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "d7/d19/a20300.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

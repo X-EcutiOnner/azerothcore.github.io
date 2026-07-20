@@ -1,7 +1,7 @@
 var a18660 =
 [
-    [ "HandleProc", "d8/d73/a18660.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "d8/d73/a18660.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "d8/d73/a18660.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "d8/d73/a18660.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "CheckTargetCount", "d8/d73/a18660.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
+    [ "PrepareSpellScript", "d8/d73/a18660.html#abd32198867e7f01b21b7de6224a597d4", null ],
+    [ "Register", "d8/d73/a18660.html#a671bede7fbc68085cd6075f412822869", null ],
+    [ "Validate", "d8/d73/a18660.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
 ];

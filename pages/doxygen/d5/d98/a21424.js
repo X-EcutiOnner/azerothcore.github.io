@@ -1,5 +1,10 @@
 var a21424 =
 [
-    [ "go_the_pearl_of_the_depths", "d5/d98/a21424.html#a0e09ddcde0eef050400d90e9a268823a", null ],
-    [ "OnGossipHello", "d5/d98/a21424.html#a745ea14136a78759a3afd7714c6d784a", null ]
+    [ "npc_jenny", "d5/d98/a21424.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "d5/d98/a21424.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "d5/d98/a21424.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "d5/d98/a21424.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "d5/d98/a21424.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "d5/d98/a21424.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "d5/d98/a21424.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

@@ -1,7 +1,6 @@
 var a26024 =
 [
-    [ "HandleProc", "d6/d6d/a26024.html#ab422b4755673f8af691d2672b0cb28a1", null ],
-    [ "PrepareAuraScript", "d6/d6d/a26024.html#a16098a3b719adcf3c63a09deb5ca7c80", null ],
-    [ "Register", "d6/d6d/a26024.html#a56a8e3400c89867951305494964077a4", null ],
-    [ "Validate", "d6/d6d/a26024.html#a0843ac6c6171f1f22712175d96fbafba", null ]
+    [ "CheckCast", "d6/d6d/a26024.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
+    [ "PrepareSpellScript", "d6/d6d/a26024.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
+    [ "Register", "d6/d6d/a26024.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
 ];

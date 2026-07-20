@@ -1,7 +1,6 @@
 var a18268 =
 [
-    [ "HandleCast", "d2/d68/a18268.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "d2/d68/a18268.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "d2/d68/a18268.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "d2/d68/a18268.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "HandleScript", "d2/d68/a18268.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
+    [ "PrepareSpellScript", "d2/d68/a18268.html#a68c0462bd108b04621f8288328f78b18", null ],
+    [ "Register", "d2/d68/a18268.html#aedaec0afc414800bc481a434592ffb5d", null ]
 ];

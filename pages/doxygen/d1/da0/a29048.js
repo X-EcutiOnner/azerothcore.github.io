@@ -1,7 +1,7 @@
 var a29048 =
 [
-    [ "from", "d1/da0/a29048.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
-    [ "ID", "d1/da0/a29048.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
-    [ "price", "d1/da0/a29048.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
-    [ "to", "d1/da0/a29048.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
+    [ "AllocationPct", "d1/da0/a29048.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
+    [ "Enchantment", "d1/da0/a29048.html#a45e694082c1dbdeef5229561f617d584", null ],
+    [ "ID", "d1/da0/a29048.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
+    [ "Name", "d1/da0/a29048.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
 ];

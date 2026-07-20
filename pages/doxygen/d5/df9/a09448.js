@@ -1,10 +1,5 @@
 var a09448 =
 [
-    [ "iterator", "d5/df9/a09448.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
-    [ "begin", "d5/df9/a09448.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
-    [ "end", "d5/df9/a09448.html#a266acb421cfc6ccc56dc2acff3202971", null ],
-    [ "getFirst", "d5/df9/a09448.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
-    [ "getLast", "d5/df9/a09448.html#a46a36813eaf752815a3f8c739db88a5d", null ],
-    [ "rbegin", "d5/df9/a09448.html#ae69734978b5eec009a696861b7b7152b", null ],
-    [ "rend", "d5/df9/a09448.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
+    [ "MaxAllowedCount", "d5/df9/a09448.html#afb0dcc50d8e9aa85fe2904050d646042", null ],
+    [ "Policy", "d5/df9/a09448.html#a8b2bbd3d9f52166c1235b0d306042609", null ]
 ];

@@ -1,6 +1,5 @@
 var a17256 =
 [
-    [ "boss_garfrostAI", "d2/d70/a17260.html", "d2/d70/a17260" ],
-    [ "boss_garfrost", "d5/dac/a17256.html#ac116491cf252ee476cedee55ea292827", null ],
-    [ "GetAI", "d5/dac/a17256.html#a8a67bb09249655a8706868bb26b5124d", null ]
+    [ "npc_fos_leader_secondAI", "d5/dac/a17256.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
+    [ "MovementInform", "d5/dac/a17256.html#a9cc0b500f1289dc8b764b3755468e639", null ]
 ];

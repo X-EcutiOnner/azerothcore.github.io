@@ -1,5 +1,6 @@
 var a14844 =
 [
-    [ "PrepareSpellScript", "d0/d9c/a14844.html#af219083d127afe24b2541a95bfd449ff", null ],
-    [ "Register", "d0/d9c/a14844.html#a03f7ac8d5968970f769191c7df7f5899", null ]
+    [ "HandleScript", "d0/d9c/a14844.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
+    [ "PrepareSpellScript", "d0/d9c/a14844.html#a26b296c1c4d9f5193dc3773509267284", null ],
+    [ "Register", "d0/d9c/a14844.html#aad66e4079ea9404b9057546d8959a395", null ]
 ];

@@ -1,11 +1,9 @@
 var a24204 =
 [
-    [ "CalcPeriodic", "db/da5/a24204.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
-    [ "CalculateHasteAmount", "db/da5/a24204.html#a75d428e0b3619d53bd9436712d2e394e", null ],
-    [ "CalculateSPAmount", "db/da5/a24204.html#a81805b43a47065281f83889d8be95c54", null ],
-    [ "CalculateStatAmount", "db/da5/a24204.html#a763276aaa00bb6953e0b52118662e7a8", null ],
-    [ "HandleEffectApply", "db/da5/a24204.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
-    [ "HandlePeriodic", "db/da5/a24204.html#ab3c7d479eae88ab4a59b06610af19429", null ],
-    [ "PrepareAuraScript", "db/da5/a24204.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
-    [ "Register", "db/da5/a24204.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "db/da5/a24204.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "db/da5/a24204.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHitTarget", "db/da5/a24204.html#a6c0d3181b913c5022325f66586f66bfa", null ],
+    [ "UpdateAI", "db/da5/a24204.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "db/da5/a24204.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "db/da5/a24204.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

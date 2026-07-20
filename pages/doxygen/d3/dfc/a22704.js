@@ -1,6 +1,6 @@
 var a22704 =
 [
-    [ "HandleSchoolDamage", "d3/dfc/a22704.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
-    [ "PrepareSpellScript", "d3/dfc/a22704.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
-    [ "Register", "d3/dfc/a22704.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
+    [ "HandleSharedRule", "d3/dfc/a22704.html#a94b783490dafae872b65e0bbfed156b9", null ],
+    [ "PrepareSpellScript", "d3/dfc/a22704.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
+    [ "Register", "d3/dfc/a22704.html#a31f2d90059e62da77a719a192d62328b", null ]
 ];

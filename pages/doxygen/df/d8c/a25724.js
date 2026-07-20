@@ -1,7 +1,6 @@
 var a25724 =
 [
-    [ "Load", "df/d8c/a25724.html#a8be944ae201f4f8406948aff78f982d9", null ],
-    [ "OnDummyEffect", "df/d8c/a25724.html#adcb707400963e549a295e115d6f3583b", null ],
-    [ "PrepareSpellScript", "df/d8c/a25724.html#a5b2175a933df10d775bc3381f515aa96", null ],
-    [ "Register", "df/d8c/a25724.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
+    [ "PrepareSpellScript", "df/d8c/a25724.html#a3a77016a3a8314969ce41cc6483761ec", null ],
+    [ "Register", "df/d8c/a25724.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
+    [ "SetDest", "df/d8c/a25724.html#a724217c09faa57ec2e6dad034e8709ed", null ]
 ];

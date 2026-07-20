@@ -1,6 +1,9 @@
 var a25508 =
 [
-    [ "HandleDummy", "d8/d7f/a25508.html#ad086618ff3caadcf5126e12a1359503f", null ],
-    [ "PrepareSpellScript", "d8/d7f/a25508.html#a4b3a79a9ba01226038a1da886f6a2f7c", null ],
-    [ "Register", "d8/d7f/a25508.html#a214526ddc986ee829daf9090678e3a7b", null ]
+    [ "CheckIfCorpseNear", "d8/d7f/a25508.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
+    [ "HandleDummy", "d8/d7f/a25508.html#a913c0137d2a13c810bbae869cc6cf734", null ],
+    [ "Load", "d8/d7f/a25508.html#a3f36968d10bde12c7e2eda8db4145252", null ],
+    [ "PrepareSpellScript", "d8/d7f/a25508.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
+    [ "Register", "d8/d7f/a25508.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
+    [ "Validate", "d8/d7f/a25508.html#a51b075f95211025b2a7719a3ee70a6be", null ]
 ];

@@ -1,6 +1,9 @@
 var a22000 =
 [
-    [ "HandleScript", "d3/ddf/a22000.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
-    [ "PrepareSpellScript", "d3/ddf/a22000.html#af0f5206d98dbc9de355abbeb03709c05", null ],
-    [ "Register", "d3/ddf/a22000.html#a53d9d7de4922ed6509b6036921640352", null ]
+    [ "npc_frostbrood_skytalonAI", "d3/ddf/a22000.html#afc14c60466f9f0f1b20062758f18c00d", null ],
+    [ "IsSummonedBy", "d3/ddf/a22000.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
+    [ "MovementInform", "d3/ddf/a22000.html#ae763333503176eb7e8ce407868243958", null ],
+    [ "SpellHit", "d3/ddf/a22000.html#a24bb49f47dcf85c95039d0495a89e126", null ],
+    [ "UpdateAI", "d3/ddf/a22000.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
+    [ "events", "d3/ddf/a22000.html#a8575d258d63e28626cffd7fc2160bee6", null ]
 ];

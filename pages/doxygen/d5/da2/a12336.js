@@ -1,10 +1,11 @@
 var a12336 =
 [
-    [ "mmaps_commandscript", "d5/da2/a12336.html#a1dbdfd26bdb685315a3012453080a56f", null ],
-    [ "GetCommands", "d5/da2/a12336.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
-    [ "HandleMmapLoadedTilesCommand", "d5/da2/a12336.html#a40d5b7e733298210c686fe89490b6f61", null ],
-    [ "HandleMmapLocCommand", "d5/da2/a12336.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
-    [ "HandleMmapPathCommand", "d5/da2/a12336.html#a2c876439ad6d9ff7523f140d97743dea", null ],
-    [ "HandleMmapStatsCommand", "d5/da2/a12336.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
-    [ "HandleMmapTestArea", "d5/da2/a12336.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
+    [ "bf_commandscript", "d5/da2/a12336.html#a806ca440ae1b51fffefee9d298dab3df", null ],
+    [ "GetCommands", "d5/da2/a12336.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
+    [ "HandleBattlefieldEnable", "d5/da2/a12336.html#a5d6fdbbdd77fc16aaac170d5af0ff924", null ],
+    [ "HandleBattlefieldEnd", "d5/da2/a12336.html#abe18a8f6f91de5a1984f09c711136919", null ],
+    [ "HandleBattlefieldQueue", "d5/da2/a12336.html#ab2e116060bb747e9ae9237c49b8cc2c9", null ],
+    [ "HandleBattlefieldStart", "d5/da2/a12336.html#a1cfd74a803277063fa5e03162956f341", null ],
+    [ "HandleBattlefieldSwitch", "d5/da2/a12336.html#ae942a3c7f13cc77b3cf36078d798e0fe", null ],
+    [ "HandleBattlefieldTimer", "d5/da2/a12336.html#a6c0d2587984f276bbc40af72017dc00a", null ]
 ];

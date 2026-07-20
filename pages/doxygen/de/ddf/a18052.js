@@ -1,6 +1,6 @@
 var a18052 =
 [
-    [ "BoneStormMoveTargetSelector", "de/ddf/a18052.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
-    [ "operator()", "de/ddf/a18052.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
-    [ "_source", "de/ddf/a18052.html#a03d8b1ec5f18398fe2963418bb319973", null ]
+    [ "IgbTeleportOnVictoryCheck", "de/ddf/a18052.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "de/ddf/a18052.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "de/ddf/a18052.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

@@ -1,6 +1,8 @@
 var a15904 =
 [
-    [ "SpellId", "d5/d4e/a15904.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "d5/d4e/a15904.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "d5/d4e/a15904.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "npc_aged_dying_ancient_kodo", "d5/d4e/a15904.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
+    [ "JustRespawned", "d5/d4e/a15904.html#ab401f9002bd49b26cc0526112e715d1e", null ],
+    [ "MoveInLineOfSight", "d5/d4e/a15904.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
+    [ "sGossipHello", "d5/d4e/a15904.html#a8bd41050426cdee7da37d1370e5a7363", null ],
+    [ "SpellHit", "d5/d4e/a15904.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
 ];

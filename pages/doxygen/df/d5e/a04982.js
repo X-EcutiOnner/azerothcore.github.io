@@ -1,22 +1,21 @@
 var a04982 =
 [
-    [ "WMO::MODS", "da/de5/a30065.html", "da/de5/a30065" ],
-    [ "WMO::MODD", "d3/dd8/a30069.html", "d3/dd8/a30069" ],
-    [ "WMODoodadData", "d9/d73/a30073.html", "d9/d73/a30073" ],
-    [ "WMORoot", "d2/d81/a30077.html", "d2/d81/a30077" ],
-    [ "WMOLiquidHeader", "d7/dfe/a30081.html", "d7/dfe/a30081" ],
-    [ "WMOLiquidVert", "de/d1c/a30085.html", "de/d1c/a30085" ],
-    [ "WMOGroup", "df/dc7/a30089.html", "df/dc7/a30089" ],
-    [ "MopyFlags", "df/d5e/a04982.html#a0673ad4a8399eb24693f8694a261e3da", [
-      [ "WHO_MATERIAL_UNK01", "df/d5e/a04982.html#a0673ad4a8399eb24693f8694a261e3daa4887238124bff7f472762f37b14f084b", null ],
-      [ "WMO_MATERIAL_NOCAMCOLLIDE", "df/d5e/a04982.html#a0673ad4a8399eb24693f8694a261e3daae8fbdf74c986d20ec35a1bc8540ab5f6", null ],
-      [ "WMO_MATERIAL_DETAIL", "df/d5e/a04982.html#a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20", null ],
-      [ "WMO_MATERIAL_COLLISION", "df/d5e/a04982.html#a0673ad4a8399eb24693f8694a261e3daa26cd74a7fba8ff77edd7fcad4b174192", null ],
-      [ "WMO_MATERIAL_HINT", "df/d5e/a04982.html#a0673ad4a8399eb24693f8694a261e3daaeda4c860284ded0a951980ea981503f2", null ],
-      [ "WMO_MATERIAL_RENDER", "df/d5e/a04982.html#a0673ad4a8399eb24693f8694a261e3daa79016e869a8c491c5e7c762416645edc", null ],
-      [ "WMO_MATERIAL_WALL_SURFACE", "df/d5e/a04982.html#a0673ad4a8399eb24693f8694a261e3daaa806842158937b60f3b6af093b50497a", null ],
-      [ "WMO_MATERIAL_COLLIDE_HIT", "df/d5e/a04982.html#a0673ad4a8399eb24693f8694a261e3daad1b64a17d5df9a320ad54ab47e9c0885", null ]
-    ] ],
-    [ "Extract", "df/d5e/a04982.html#a9148b3ef5b412564a285737b0bd104dd", null ],
-    [ "fixCoords", "df/d5e/a04982.html#ab265837fe64577975f97318431c69e9c", null ]
+    [ "MmapTileRecastConfig", "dc/da0/a05304.html", "dc/da0/a05304" ],
+    [ "MmapTileHeader", "d6/d72/a05308.html", "d6/d72/a05308" ],
+    [ "MAX_NUMBER_OF_CELLS", "df/d5e/a04982.html#a2c6994ea025f427f1485c1c7aaee01fe", null ],
+    [ "MAX_NUMBER_OF_GRIDS", "df/d5e/a04982.html#a857252154f120575d940ffbdf63bace6", null ],
+    [ "MMAP_MAGIC", "df/d5e/a04982.html#af7a9a5e840ab3ad1c160e832500016d1", null ],
+    [ "MMAP_VERSION", "df/d5e/a04982.html#aea71555fdd0af33ccc21c76c67574421", null ],
+    [ "SIZE_OF_GRIDS", "df/d5e/a04982.html#a55c9adba46c0c14cd4ac80ab51228816", null ],
+    [ "NavTerrain", "df/d5e/a04982.html#a8a4d0b36dd46d60b691b894fb8c1c5db", [
+      [ "NAV_EMPTY", "df/d5e/a04982.html#a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5", null ],
+      [ "NAV_GROUND", "df/d5e/a04982.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98", null ],
+      [ "NAV_MAGMA", "df/d5e/a04982.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670", null ],
+      [ "NAV_SLIME", "df/d5e/a04982.html#a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75", null ],
+      [ "NAV_WATER", "df/d5e/a04982.html#a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1", null ],
+      [ "NAV_UNUSED1", "df/d5e/a04982.html#a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03", null ],
+      [ "NAV_UNUSED2", "df/d5e/a04982.html#a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb", null ],
+      [ "NAV_UNUSED3", "df/d5e/a04982.html#a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530", null ],
+      [ "NAV_UNUSED4", "df/d5e/a04982.html#a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56", null ]
+    ] ]
 ];

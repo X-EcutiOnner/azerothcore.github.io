@@ -1,7 +1,8 @@
 var a19564 =
 [
-    [ "boss_commander_stoutbeard", "dc/d58/a19564.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
-    [ "JustDied", "dc/d58/a19564.html#a2fd835408045715058ba476aa56cb4f7", null ],
-    [ "JustEngagedWith", "dc/d58/a19564.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
-    [ "KilledUnit", "dc/d58/a19564.html#acf7016c65f020dca9228bd2d2fd89299", null ]
+    [ "HandleDamage", "dc/d58/a19564.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
+    [ "HandleTargets", "dc/d58/a19564.html#ac36e689bad93aa17738f390680764a7e", null ],
+    [ "PrepareSpellScript", "dc/d58/a19564.html#a149db071722ce12cded16087c8eec1df", null ],
+    [ "Register", "dc/d58/a19564.html#abd073f34a414fab7ee23ee933863f1c7", null ],
+    [ "Validate", "dc/d58/a19564.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
 ];

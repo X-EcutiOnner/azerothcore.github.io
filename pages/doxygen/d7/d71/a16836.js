@@ -1,6 +1,7 @@
 var a16836 =
 [
-    [ "npc_toc_retro_paladinAI", "d0/d7a/a16840.html", "d0/d7a/a16840" ],
-    [ "npc_toc_retro_paladin", "d7/d71/a16836.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
-    [ "GetAI", "d7/d71/a16836.html#a1213c99792aa4362275bc827aa2f037e", null ]
+    [ "HandleEffectPeriodic", "d7/d71/a16836.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
+    [ "PrepareAuraScript", "d7/d71/a16836.html#a4506f7d723b85c7555296f5ade11cd29", null ],
+    [ "Register", "d7/d71/a16836.html#aeac7e6abc89209e14451439cdf1d416e", null ],
+    [ "Validate", "d7/d71/a16836.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
 ];

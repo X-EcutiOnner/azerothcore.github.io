@@ -1,6 +1,6 @@
 var a23720 =
 [
-    [ "npc_fel_guard_houndAI", "d3/da2/a23724.html", "d3/da2/a23724" ],
-    [ "npc_fel_guard_hound", "d6/dea/a23720.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "d6/dea/a23720.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "HandleScriptEffect", "d6/dea/a23720.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
+    [ "PrepareSpellScript", "d6/dea/a23720.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
+    [ "Register", "d6/dea/a23720.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
 ];

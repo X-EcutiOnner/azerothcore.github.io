@@ -1,5 +1,6 @@
 var a15504 =
 [
-    [ "at_cthun_stomach_exit", "de/d22/a15504.html#ab37174eff353cdbba1f300464645ac63", null ],
-    [ "OnTrigger", "de/d22/a15504.html#ab56dca3fe200dc7822459a22912247bf", null ]
+    [ "HandleScript", "de/d22/a15504.html#a7e6ec873a252106ba865bdef05f757f5", null ],
+    [ "PrepareSpellScript", "de/d22/a15504.html#a98e80c8726c350aca850b6c87c5861da", null ],
+    [ "Register", "de/d22/a15504.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
 ];

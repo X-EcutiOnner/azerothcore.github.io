@@ -1,6 +1,12 @@
 var a19404 =
 [
-    [ "boss_razuviousAI", "dc/dbe/a19408.html", "dc/dbe/a19408" ],
-    [ "boss_razuvious", "da/d89/a19404.html#ac1a2942f4a7957c671b075df7bf20215", null ],
-    [ "GetAI", "da/d89/a19404.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
+    [ "npc_gothik_triggerAI", "da/d89/a19404.html#ae45c6de238755eb069e0c182943da58c", null ],
+    [ "DamageTaken", "da/d89/a19404.html#ada8e501edfadbb55162532f081a4b48b", null ],
+    [ "EnterEvadeMode", "da/d89/a19404.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
+    [ "JustEngagedWith", "da/d89/a19404.html#ab5403383f1fcd539cacf975dffbe2817", null ],
+    [ "JustSummoned", "da/d89/a19404.html#a35be0135b77a3e62ac8d421910cf0674", null ],
+    [ "SelectRandomSkullPile", "da/d89/a19404.html#aeafc63047c9059afdf668b8c22d2937f", null ],
+    [ "SpellHit", "da/d89/a19404.html#a18a8135ab0395991afc4896950783ae5", null ],
+    [ "SummonedCreatureDespawn", "da/d89/a19404.html#ad7ed092509dd41fddd44a4024c011364", null ],
+    [ "UpdateAI", "da/d89/a19404.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
 ];

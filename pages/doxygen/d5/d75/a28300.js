@@ -1,9 +1,8 @@
 var a28300 =
 [
-    [ "npc_necropolis_health", "d5/d75/a28300.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
-    [ "DespawnNecropolis", "d5/d75/a28300.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
-    [ "JustDied", "d5/d75/a28300.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
-    [ "SpellHit", "d5/d75/a28300.html#ad4a9f9b166ab8107a16da918082c6625", null ],
-    [ "SpellHitTarget", "d5/d75/a28300.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
-    [ "_zapCount", "d5/d75/a28300.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
+    [ "npc_riggle_bassbaitAI", "d2/d1f/a28304.html", "d2/d1f/a28304" ],
+    [ "npc_riggle_bassbait", "d5/d75/a28300.html#afc4280099cda3c28c4634d649e636839", null ],
+    [ "GetAI", "d5/d75/a28300.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
+    [ "OnGossipHello", "d5/d75/a28300.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
+    [ "OnQuestReward", "d5/d75/a28300.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
 ];

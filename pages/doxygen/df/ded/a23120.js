@@ -1,7 +1,7 @@
 var a23120 =
 [
-    [ "HandleScript", "df/ded/a23120.html#a42052a416290a54d5479a402de578a73", null ],
-    [ "PrepareSpellScript", "df/ded/a23120.html#a5f6aa972879b65c0207e47435d436a33", null ],
-    [ "Register", "df/ded/a23120.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
-    [ "Validate", "df/ded/a23120.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
+    [ "HandleEffectRemove", "df/ded/a23120.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
+    [ "HandlePeriodic", "df/ded/a23120.html#a5137e24394fa14129c44d92c79eef117", null ],
+    [ "PrepareAuraScript", "df/ded/a23120.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
+    [ "Register", "df/ded/a23120.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
 ];

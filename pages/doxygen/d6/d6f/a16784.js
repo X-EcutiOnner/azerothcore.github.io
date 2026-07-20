@@ -1,7 +1,8 @@
 var a16784 =
 [
-    [ "npc_toc_mageAI", "d6/d6f/a16784.html#a188831088c892f68cef7498468b24899", null ],
-    [ "myCanCast", "d6/d6f/a16784.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
-    [ "UpdateAI", "d6/d6f/a16784.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
-    [ "events", "d6/d6f/a16784.html#ab1910ce98f3d1b14e45acba22782d536", null ]
+    [ "npc_announcer_toc5AI", "df/d10/a16788.html", "df/d10/a16788" ],
+    [ "npc_announcer_toc5", "d6/d6f/a16784.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
+    [ "GetAI", "d6/d6f/a16784.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
+    [ "OnGossipHello", "d6/d6f/a16784.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
+    [ "OnGossipSelect", "d6/d6f/a16784.html#a9017488c652fd75882db75914f4a2db2", null ]
 ];

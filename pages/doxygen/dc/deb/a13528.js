@@ -1,7 +1,25 @@
 var a13528 =
 [
-    [ "HandleScript", "dc/deb/a13528.html#ab705220b48be16090107135f9e2272cf", null ],
-    [ "PrepareSpellScript", "dc/deb/a13528.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
-    [ "Register", "dc/deb/a13528.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
-    [ "Validate", "dc/deb/a13528.html#ad1d90693a427a52fa728e5ae455932a3", null ]
+    [ "npc_highlord_darion_mograineAI", "dc/deb/a13528.html#a04be4c12a255c082b2a00daf40e86d96", null ],
+    [ "DoAction", "dc/deb/a13528.html#a7103aa11bc2dff6942f4a4de5cd8d759", null ],
+    [ "FinishFight", "dc/deb/a13528.html#ab3fef458ca3180f49d78579f7485e76c", null ],
+    [ "GetData", "dc/deb/a13528.html#aa3eae106cf85eb7cb163f9780bf16b9f", null ],
+    [ "GetEntryFromSummons", "dc/deb/a13528.html#a2c9e336d14667aabc3e1a8f3a99fc1e7", null ],
+    [ "JustDied", "dc/deb/a13528.html#a2875789a251381677106f74e61efaa77", null ],
+    [ "JustEngagedWith", "dc/deb/a13528.html#ac6ca07a76351dfc5a82b0a57fdfa08d8", null ],
+    [ "JustRespawned", "dc/deb/a13528.html#a3116088116fe6b4a6b42014f7f5fb3a8", null ],
+    [ "JustSummoned", "dc/deb/a13528.html#a9ddc2350ffbbf6e3ae91410da55bd326", null ],
+    [ "MovementInform", "dc/deb/a13528.html#a205b7ebb74ca3be7a6a11fb2d8670288", null ],
+    [ "Reset", "dc/deb/a13528.html#a7dde645763bab79e34fa7421dbec518e", null ],
+    [ "SendInitialWorldStates", "dc/deb/a13528.html#ab49e38e481fcb263337f5224c1db7383", null ],
+    [ "SendUpdateWorldState", "dc/deb/a13528.html#a32fed806170c3664eeb1dd2a1bfdf278", null ],
+    [ "SummonedCreatureDies", "dc/deb/a13528.html#aa0935ab5c5a8a3ad41719e520703ff92", null ],
+    [ "UpdateAI", "dc/deb/a13528.html#a086efd646a7298ce17f7ead4688fa022", null ],
+    [ "battleStarted", "dc/deb/a13528.html#aecb7e1bdebf943e1793656f8a9c39917", null ],
+    [ "defendersRemaining", "dc/deb/a13528.html#a49b41a9719548bffd2020caea7a94a3d", null ],
+    [ "events", "dc/deb/a13528.html#a2155cbea373225904a3645a77738dea4", null ],
+    [ "resetExecuted", "dc/deb/a13528.html#ae1431b2f46cf2ae096e7ddfb22e54a28", null ],
+    [ "scourgeRemaining", "dc/deb/a13528.html#aabaa1fb49467d4dc5abf2a14ec833d15", null ],
+    [ "startTimeRemaining", "dc/deb/a13528.html#a503f8e5166ec08664085ae032611de61", null ],
+    [ "summons", "dc/deb/a13528.html#ae592eef844350ca8fa8415f343d8dffc", null ]
 ];

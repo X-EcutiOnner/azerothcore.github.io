@@ -1,9 +1,6 @@
 var a02534 =
 [
-    [ "FactorySelector::PermissibleOrderPred< T >", "d4/d01/a06545.html", "d4/d01/a06545" ],
-    [ "GetPermitFor", "db/df5/a02534.html#aaf9c138ae6c123d03859db553a39892d", null ],
-    [ "SelectAI", "db/df5/a02534.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
-    [ "SelectFactory", "db/df5/a02534.html#ad553c2186f078e696768d40d217738f8", null ],
-    [ "SelectGameObjectAI", "db/df5/a02534.html#a2ce404e9b85f551638d8783c01a19860", null ],
-    [ "SelectMovementGenerator", "db/df5/a02534.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
+    [ "bg_commandscript", "dc/d86/a12328.html", "dc/d86/a12328" ],
+    [ "AddSC_bag_commandscript", "db/df5/a02534.html#a8fa1e803122341d611168b2b62fde4e5", null ],
+    [ "itemQualityToString", "db/df5/a02534.html#af266597924b9d3f439ffc9908001d2cb", null ]
 ];

@@ -1,6 +1,6 @@
 var a28220 =
 [
-    [ "npc_pet_trainerAI", "d2/da1/a28224.html", "d2/da1/a28224" ],
-    [ "npc_pet_trainer", "d3/d8a/a28220.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "d3/d8a/a28220.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_innkeeper", "d3/d8a/a28220.html#a006f27d898ead8827d8b98d8b93d430d", null ],
+    [ "OnGossipHello", "d3/d8a/a28220.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
+    [ "OnGossipSelect", "d3/d8a/a28220.html#ab6cf511f5b032050336a77d1e4598dda", null ]
 ];

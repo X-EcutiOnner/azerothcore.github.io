@@ -1,24 +1,8 @@
 var a19956 =
 [
-    [ "boss_stormcaller_brundir", "d6/db7/a19956.html#a4f7ea635632887930bc856630ad7b122", null ],
-    [ "GetData", "d6/db7/a19956.html#a977a1c9fbfa0c36100330569f6c5dbff", null ],
-    [ "JustDied", "d6/db7/a19956.html#a7bbcb8f27eb6548549108f405f9be938", null ],
-    [ "JustEngagedWith", "d6/db7/a19956.html#aacf0780ae29ea543afd13727e06bdbf2", null ],
-    [ "JustReachedHome", "d6/db7/a19956.html#ac18c8fde64f2eb1ca6e53b0387056cdd", null ],
-    [ "KilledUnit", "d6/db7/a19956.html#ade6a772b83078dc826c1e4357ccdba3e", null ],
-    [ "MovementInform", "d6/db7/a19956.html#ad26e466b0aa3c04960245816df3e9041", null ],
-    [ "OnChannelFinished", "d6/db7/a19956.html#a6dbf87c92553af4c3a1362104d0b0f28", null ],
-    [ "OnSpellCast", "d6/db7/a19956.html#a642cbda0721e2bea3c3abcaae653073c", null ],
-    [ "OnSpellFailed", "d6/db7/a19956.html#a73a7d68337abd85629cf4abe478c1398", null ],
-    [ "Reset", "d6/db7/a19956.html#aac20b08efbbea66aa59a48ebfa5a447d", null ],
-    [ "SpellHit", "d6/db7/a19956.html#a3948aa8499f32cc0c49c495a1ff64b0e", null ],
-    [ "SpellHitTarget", "d6/db7/a19956.html#aa4c09c7e76ab84d15a953dfa87060bce", null ],
-    [ "UpdateAI", "d6/db7/a19956.html#aed4d71e804f389664199e1a9431d27dd", null ],
-    [ "UpdatePhase", "d6/db7/a19956.html#a8d0ae42a81038073b2438e0761142132", null ],
-    [ "_channelTimer", "d6/db7/a19956.html#a88bdcdd0b085c51ce18fb6a0e8990c5b", null ],
-    [ "_flyTargetGUID", "d6/db7/a19956.html#ab817c2f55bf4ed81199a27315877ab9b", null ],
-    [ "_phase", "d6/db7/a19956.html#afdbef71fd252ee8d38b9cf1d2a1a4c04", null ],
-    [ "_stunnedAchievement", "d6/db7/a19956.html#ae3ab50d835339a6260790901a935c914", null ],
-    [ "events", "d6/db7/a19956.html#a5ccf7577ce546363abb14ba351ff7b7c", null ],
-    [ "pInstance", "d6/db7/a19956.html#af9e151488987fb04ec887dde8a421f93", null ]
+    [ "brann_bronzebeardAI", "d0/dc7/a19960.html", "d0/dc7/a19960" ],
+    [ "brann_bronzebeard", "d6/db7/a19956.html#a66fd8785647896a1a5f7be041242cfd6", null ],
+    [ "GetAI", "d6/db7/a19956.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
+    [ "OnGossipHello", "d6/db7/a19956.html#a2714a2dde596db76706b8a86f97f82b8", null ],
+    [ "OnGossipSelect", "d6/db7/a19956.html#a0e0068a45012e50a9f645d393bdfe163", null ]
 ];

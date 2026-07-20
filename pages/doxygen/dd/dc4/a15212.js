@@ -1,9 +1,6 @@
 var a15212 =
 [
-    [ "boss_temporus", "dd/dc4/a15212.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "dd/dc4/a15212.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "dd/dc4/a15212.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "dd/dc4/a15212.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "dd/dc4/a15212.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "dd/dc4/a15212.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "boss_infinite_corruptorAI", "da/deb/a15216.html", "da/deb/a15216" ],
+    [ "boss_infinite_corruptor", "dd/dc4/a15212.html#a78a939073ab44b818cefdb25419f92be", null ],
+    [ "GetAI", "dd/dc4/a15212.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
 ];

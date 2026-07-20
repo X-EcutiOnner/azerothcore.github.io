@@ -1,5 +1,6 @@
 var a14360 =
 [
-    [ "at_zulgurub_edge_of_madness_speech", "d2/dbf/a14360.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
-    [ "_OnTrigger", "d2/dbf/a14360.html#a725de49be12116f2f7e77edd31a096ae", null ]
+    [ "instance_zulaman_InstanceMapScript", "df/dad/a14364.html", "df/dad/a14364" ],
+    [ "instance_zulaman", "d2/dbf/a14360.html#a5a81dddc07dea599e2a197737206427b", null ],
+    [ "GetInstanceScript", "d2/dbf/a14360.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
 ];

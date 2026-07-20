@@ -1,10 +1,8 @@
 var a15112 =
 [
-    [ "boss_meathookAI", "d6/d7b/a15112.html#abb35c98da760db634545b81d740cd51a", null ],
-    [ "JustDied", "d6/d7b/a15112.html#a44ebee45de335ff6f653e9d60a364458", null ],
-    [ "JustEngagedWith", "d6/d7b/a15112.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
-    [ "KilledUnit", "d6/d7b/a15112.html#a54deac512294bb0901d072faef3166b1", null ],
-    [ "Reset", "d6/d7b/a15112.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
-    [ "UpdateAI", "d6/d7b/a15112.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
-    [ "events", "d6/d7b/a15112.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
+    [ "npc_doomfire_spirit", "d6/d7b/a15112.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
+    [ "Reset", "d6/d7b/a15112.html#a0600718fad91723eba74b903583c5942", null ],
+    [ "TryTeleportInDirection", "d6/d7b/a15112.html#a7fc48df636df66a006a8179fd63e2a65", null ],
+    [ "UpdateAI", "d6/d7b/a15112.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
+    [ "turnConstant", "d6/d7b/a15112.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
 ];

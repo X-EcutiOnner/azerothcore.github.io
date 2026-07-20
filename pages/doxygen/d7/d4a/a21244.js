@@ -1,5 +1,7 @@
 var a21244 =
 [
-    [ "npc_khunok_the_behemothAI", "d7/d4a/a21244.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "d7/d4a/a21244.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "PrepareAuraScript", "d7/d4a/a21244.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
+    [ "Register", "d7/d4a/a21244.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
+    [ "TriggerFists", "d7/d4a/a21244.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
+    [ "Validate", "d7/d4a/a21244.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
 ];

@@ -1,12 +1,7 @@
 var a16184 =
 [
-    [ "npc_twilight_volunteer", "d8/db6/a16184.html#a3062041fcabf972e0a3d4753363c37b3", null ],
-    [ "AttackStart", "d8/db6/a16184.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
-    [ "DoAction", "d8/db6/a16184.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
-    [ "EnterEvadeMode", "d8/db6/a16184.html#abd88e6fe0565babb92ccae17df0421d6", null ],
-    [ "MovementInform", "d8/db6/a16184.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
-    [ "UpdateAI", "d8/db6/a16184.html#a93288a45982b172c201e2442a4c91114", null ],
-    [ "events", "d8/db6/a16184.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
-    [ "isSacraficeTarget", "d8/db6/a16184.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
-    [ "pInstance", "d8/db6/a16184.html#ad58453e078520fa23238a96115e5f38f", null ]
+    [ "npc_ringoAI", "db/df8/a16188.html", "db/df8/a16188" ],
+    [ "npc_ringo", "d8/db6/a16184.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
+    [ "GetAI", "d8/db6/a16184.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
+    [ "OnQuestAccept", "d8/db6/a16184.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
 ];

@@ -1,13 +1,10 @@
 var a14668 =
 [
-    [ "npc_alexstraza_the_lifebinder", "df/d5a/a14668.html#a7c30258540803bde75843cb070b6a288", null ],
-    [ "MoveInLineOfSight", "df/d5a/a14668.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
-    [ "Reset", "df/d5a/a14668.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
-    [ "SetData", "df/d5a/a14668.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
-    [ "sGossipSelect", "df/d5a/a14668.html#a642390a59ff46236dc3b429f371ea8cd", null ],
-    [ "UpdateAI", "df/d5a/a14668.html#ad13b21d571833210b1c069b7ea8bea05", null ],
-    [ "orphanGUID", "df/d5a/a14668.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
-    [ "phase", "df/d5a/a14668.html#a98216e43888854ac93f22169a0e253e5", null ],
-    [ "playerGUID", "df/d5a/a14668.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
-    [ "timer", "df/d5a/a14668.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
+    [ "npc_brewfest_super_brew_trigger", "df/d5a/a14668.html#a3d2189978683150b1c431fa0fd637358", null ],
+    [ "AttackStart", "df/d5a/a14668.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
+    [ "JustEngagedWith", "df/d5a/a14668.html#a61be52cb8ba0cc10285820ad5324816e", null ],
+    [ "MoveInLineOfSight", "df/d5a/a14668.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
+    [ "Reset", "df/d5a/a14668.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
+    [ "UpdateAI", "df/d5a/a14668.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
+    [ "timer", "df/d5a/a14668.html#a2ebb06175e3142cca156e57e8386fe02", null ]
 ];

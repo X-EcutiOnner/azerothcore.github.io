@@ -1,7 +1,5 @@
 var a18340 =
 [
-    [ "HandleScript", "df/d84/a18340.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
-    [ "PrepareSpellScript", "df/d84/a18340.html#a7e6b56f426be7925255da3ebc239f909", null ],
-    [ "Register", "df/d84/a18340.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
-    [ "Validate", "df/d84/a18340.html#a86b4296eab73fc63b38558871f16a889", null ]
+    [ "RotfaceHeightCheck", "df/d84/a18340.html#aabdeaee465989c339fc7a3f186e20498", null ],
+    [ "operator()", "df/d84/a18340.html#a585743e0e76c64a5caa37acab46d04d5", null ]
 ];

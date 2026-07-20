@@ -1,5 +1,5 @@
 var a20792 =
 [
-    [ "achievement_yogg_saron_drive_me_crazy", "da/d59/a20792.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
-    [ "OnCheck", "da/d59/a20792.html#a029fdd68e0643b53971efbb1056f19d8", null ]
+    [ "achievement_heartbreaker", "da/d59/a20792.html#ad81925fc32d7cf914b7be44aabe49b39", null ],
+    [ "OnCheck", "da/d59/a20792.html#ab3a2539ae5dc74743beb0dc0ea0147af", null ]
 ];

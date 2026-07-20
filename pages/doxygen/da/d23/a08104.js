@@ -1,5 +1,5 @@
 var a08104 =
 [
-    [ "Quest", "da/d23/a08104.html#aca1cbcd3319031b549c0ec6441b2c821", null ],
-    [ "QuestLevel", "da/d23/a08104.html#ad162701af62caac909ef9f57f68bf848", null ]
+    [ "IsColorValid", "da/d23/a08104.html#ab291dc8bdb852a8386c2a3d1bd18cfad", null ],
+    [ "IsTextValid", "da/d23/a08104.html#ab9c8e4926f593058bf247f33b6089bc3", null ]
 ];

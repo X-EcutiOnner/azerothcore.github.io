@@ -1,8 +1,6 @@
 var a12596 =
 [
-    [ "CheckProc", "d0/d15/a12596.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "d0/d15/a12596.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "d0/d15/a12596.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "d0/d15/a12596.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "d0/d15/a12596.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "boss_vanndarAI", "da/d53/a12600.html", "da/d53/a12600" ],
+    [ "boss_vanndar", "d0/d15/a12596.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
+    [ "GetAI", "d0/d15/a12596.html#ad1879cc6123a323ada04c49a2c691349", null ]
 ];

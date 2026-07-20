@@ -1,8 +1,14 @@
 var a20096 =
 [
-    [ "HandleOnEffectApply", "d1/d75/a20096.html#a83ff54727e886161c5568a60833932d1", null ],
-    [ "HandleOnEffectRemove", "d1/d75/a20096.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
-    [ "PrepareAuraScript", "d1/d75/a20096.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
-    [ "Register", "d1/d75/a20096.html#ae07af138c6f9c565799574b4f8343492", null ],
-    [ "Validate", "d1/d75/a20096.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
+    [ "boss_auriaya", "d1/d75/a20096.html#a2d946ada185a29bf00dc49d28089e64e", null ],
+    [ "DespawnFormationMembers", "d1/d75/a20096.html#a46dcb873d4101174687b4189d0494403", null ],
+    [ "DoAction", "d1/d75/a20096.html#aa58503020e3382e0c541047b233945a7", null ],
+    [ "ExecuteEvent", "d1/d75/a20096.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
+    [ "GetData", "d1/d75/a20096.html#a44781b758392f8f519b9684617757620", null ],
+    [ "JustDied", "d1/d75/a20096.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
+    [ "JustEngagedWith", "d1/d75/a20096.html#ac80d7bbc334e20df9e85540556b8714e", null ],
+    [ "KilledUnit", "d1/d75/a20096.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
+    [ "Reset", "d1/d75/a20096.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
+    [ "_feralDied", "d1/d75/a20096.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
+    [ "_nineLives", "d1/d75/a20096.html#a26d80573eda1aa1005e1bc5453c182af", null ]
 ];

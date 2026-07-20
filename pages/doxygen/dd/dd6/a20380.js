@@ -1,5 +1,5 @@
 var a20380 =
 [
-    [ "achievement_kologarn_looks_could_kill", "dd/dd6/a20380.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
-    [ "OnCheck", "dd/dd6/a20380.html#a0e7be4fb00808fab9a231530822fc93d", null ]
+    [ "FlashFreezeCheck", "dd/dd6/a20380.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
+    [ "operator()", "dd/dd6/a20380.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
 ];

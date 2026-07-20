@@ -1,6 +1,7 @@
 var a19432 =
 [
-    [ "boss_thaddiusAI", "df/dc2/a19436.html", "df/dc2/a19436" ],
-    [ "boss_thaddius", "d2/da2/a19432.html#aff97b030b861feb646e1b22f60ee3605", null ],
-    [ "GetAI", "d2/da2/a19432.html#acf841c6897396f517a74932fc3480e69", null ]
+    [ "HandleRemove", "d2/da2/a19432.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
+    [ "PrepareAuraScript", "d2/da2/a19432.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
+    [ "Register", "d2/da2/a19432.html#ad7ba015a7878adad0820cf378d2632ca", null ],
+    [ "Validate", "d2/da2/a19432.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
 ];

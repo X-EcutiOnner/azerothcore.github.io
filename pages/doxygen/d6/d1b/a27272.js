@@ -1,7 +1,8 @@
 var a27272 =
 [
-    [ "HandleProc", "d6/d1b/a27272.html#aa28268bdb7e3063cff0880baefe02824", null ],
-    [ "PrepareAuraScript", "d6/d1b/a27272.html#a8b19c9d128d568be695f985e5ed28b2d", null ],
-    [ "Register", "d6/d1b/a27272.html#a5a0f0e1558c1d4c687b94fe8874512ef", null ],
-    [ "Validate", "d6/d1b/a27272.html#a8461f9dc90d1df9a91350d3e277fffeb", null ]
+    [ "ApplyDebuff", "d6/d1b/a27272.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "d6/d1b/a27272.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "d6/d1b/a27272.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "d6/d1b/a27272.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "d6/d1b/a27272.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

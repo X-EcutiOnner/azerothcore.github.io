@@ -1,11 +1,8 @@
 var a15748 =
 [
-    [ "npc_kerlonianAI", "d0/d96/a15748.html#a0f7a4566ca93a174c92fe10e904af480", null ],
-    [ "ClearSleeping", "d0/d96/a15748.html#aea2815d79da4fa006ea150f052255b9d", null ],
-    [ "MoveInLineOfSight", "d0/d96/a15748.html#a8b0a606510d278f26099a125d583377a", null ],
-    [ "Reset", "d0/d96/a15748.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
-    [ "SetSleeping", "d0/d96/a15748.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
-    [ "SpellHit", "d0/d96/a15748.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
-    [ "UpdateFollowerAI", "d0/d96/a15748.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
-    [ "FallAsleepTimer", "d0/d96/a15748.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
+    [ "npc_obsidian_eradicator", "d0/d96/a15748.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "d0/d96/a15748.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "d0/d96/a15748.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "d0/d96/a15748.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "d0/d96/a15748.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

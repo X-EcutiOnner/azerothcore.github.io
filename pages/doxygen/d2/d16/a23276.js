@@ -1,6 +1,8 @@
 var a23276 =
 [
-    [ "HandleScriptEffect", "d2/d16/a23276.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
-    [ "PrepareSpellScript", "d2/d16/a23276.html#a287bff28e57a86f0176921500de78fa9", null ],
-    [ "Register", "d2/d16/a23276.html#ad5fb101794dfdef0c08551dd9397b965", null ]
+    [ "boss_the_black_stalker", "d2/d16/a23276.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "d2/d16/a23276.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "d2/d16/a23276.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "d2/d16/a23276.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "d2/d16/a23276.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

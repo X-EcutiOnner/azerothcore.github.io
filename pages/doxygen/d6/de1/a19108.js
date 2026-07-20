@@ -1,6 +1,7 @@
 var a19108 =
 [
-    [ "npc_icc_nerubar_broodkeeperAI", "d6/d73/a19112.html", "d6/d73/a19112" ],
-    [ "npc_icc_nerubar_broodkeeper", "d6/de1/a19108.html#adf9c3bfb444fed50420c2e780b373f34", null ],
-    [ "GetAI", "d6/de1/a19108.html#ad12186da36f7bbf99275a746bc874bfc", null ]
+    [ "HandleScript", "d6/de1/a19108.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
+    [ "PrepareSpellScript", "d6/de1/a19108.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
+    [ "Register", "d6/de1/a19108.html#afb0289c9906d0383a22dfd0e848573f8", null ],
+    [ "Validate", "d6/de1/a19108.html#a69344370af56f033e1c1ba16f4dee174", null ]
 ];

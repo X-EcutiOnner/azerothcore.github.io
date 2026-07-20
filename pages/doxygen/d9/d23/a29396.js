@@ -1,9 +1,12 @@
 var a29396 =
 [
-    [ "SetUp", "d9/d23/a29396.html#a4347f48d02c94f49010af69139906e55", null ],
-    [ "TearDown", "d9/d23/a29396.html#a9bd0ab9c01db6f9fc6538c5aad454ac1", null ],
-    [ "PERM_DANGLING", "d9/d23/a29396.html#afa69b7fc315147806018e36f01971509", null ],
-    [ "PERM_VALID", "d9/d23/a29396.html#a77dfab95ef63118a33e2c2aae57c8578", null ],
-    [ "rbacData", "d9/d23/a29396.html#a30f37bd4d7e16a92551224c524cb5ca4", null ],
-    [ "ROLE_WITH_DANGLING", "d9/d23/a29396.html#aec146baa1151e73bac2686a4b6aacc06", null ]
+    [ "HealInfoStubBuilder", "d9/d23/a29396.html#a57945de96ad065451cadb47edba287c8", null ],
+    [ "Build", "d9/d23/a29396.html#a291565d223df00ce9d09c0315e803448", null ],
+    [ "WithAbsorb", "d9/d23/a29396.html#aa09160afe48114a7a3566be328f64658", null ],
+    [ "WithEffectiveHeal", "d9/d23/a29396.html#a34a359322b018cffc5f54ca999c11b11", null ],
+    [ "WithHeal", "d9/d23/a29396.html#a812e06b07eeb18c1d379409b77a80b89", null ],
+    [ "WithHitMask", "d9/d23/a29396.html#ab788ddcc209140ed3c10b02785471dcb", null ],
+    [ "WithOverheal", "d9/d23/a29396.html#a89c12c30725eb2bdc3889005a38d54eb", null ],
+    [ "WithSpellInfo", "d9/d23/a29396.html#a4dc784241fbe998437cceb953fb83e1f", null ],
+    [ "_stub", "d9/d23/a29396.html#ad0da544c651e387d8c6e9b272aa3db7b", null ]
 ];

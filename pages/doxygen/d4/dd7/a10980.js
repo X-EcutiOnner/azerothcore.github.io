@@ -1,9 +1,7 @@
 var a10980 =
 [
-    [ "GuildRoster", "d4/dd7/a10980.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
-    [ "Write", "d4/dd7/a10980.html#a544a539999827d4eb8923cbbcdf42bac", null ],
-    [ "InfoText", "d4/dd7/a10980.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
-    [ "MemberData", "d4/dd7/a10980.html#a964fc72bf3ada77c171fd1f691449241", null ],
-    [ "RankData", "d4/dd7/a10980.html#a67b0a12fae93c5807030c1062f328abb", null ],
-    [ "WelcomeText", "d4/dd7/a10980.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
+    [ "ChatServerMessage", "d4/dd7/a10980.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
+    [ "Write", "d4/dd7/a10980.html#af8bad4d39693290674bda2e2ad8685bf", null ],
+    [ "MessageID", "d4/dd7/a10980.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
+    [ "StringParam", "d4/dd7/a10980.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
 ];

@@ -1,6 +1,7 @@
 var a22068 =
 [
-    [ "go_wg_vehicle_teleporterAI", "de/df4/a22072.html", "de/df4/a22072" ],
-    [ "go_wg_vehicle_teleporter", "df/d89/a22068.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
-    [ "GetAI", "df/d89/a22068.html#a113aaf42c095000c1a016bfe60df11e7", null ]
+    [ "HandleSendEvent", "df/d89/a22068.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
+    [ "PrepareSpellScript", "df/d89/a22068.html#af698a946e07235c18c8b785a1f775ec9", null ],
+    [ "Register", "df/d89/a22068.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
+    [ "Validate", "df/d89/a22068.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
 ];

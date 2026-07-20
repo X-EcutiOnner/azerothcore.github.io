@@ -1,4 +1,4 @@
 var a04586 =
 [
-    [ "LogOperation", "d2/d72/a05689.html", "d2/d72/a05689" ]
+    [ "RefMgr< TO, FROM >", "db/d7d/a05568.html", "db/d7d/a05568" ]
 ];

@@ -1,6 +1,6 @@
 var a22944 =
 [
-    [ "HandleEffectRemove", "d5/d7d/a22944.html#a4000209ccbcbc62a51db3e7b672ea69d", null ],
-    [ "PrepareAuraScript", "d5/d7d/a22944.html#adc6f982b0e3cc56039746f425cb09113", null ],
-    [ "Register", "d5/d7d/a22944.html#a5ceecc2f9a9664755b5e492fda54a560", null ]
+    [ "boss_doomlordkazzakAI", "d0/dde/a22948.html", "d0/dde/a22948" ],
+    [ "boss_doomlord_kazzak", "d5/d7d/a22944.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
+    [ "GetAI", "d5/d7d/a22944.html#a460a32ce37aae852b48f1990406da9a4", null ]
 ];

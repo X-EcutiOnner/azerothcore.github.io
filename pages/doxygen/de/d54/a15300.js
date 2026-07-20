@@ -1,6 +1,6 @@
 var a15300 =
 [
-    [ "npc_belnistraszAI", "dc/d2b/a15304.html", "dc/d2b/a15304" ],
-    [ "npc_belnistrasz", "de/d54/a15300.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
-    [ "GetAI", "de/d54/a15300.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
+    [ "instance_old_hillsbrad_InstanceMapScript", "dc/d2b/a15304.html", "dc/d2b/a15304" ],
+    [ "instance_old_hillsbrad", "de/d54/a15300.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
+    [ "GetInstanceScript", "de/d54/a15300.html#a1929c38b1c745b2df1ccaf462113e220", null ]
 ];

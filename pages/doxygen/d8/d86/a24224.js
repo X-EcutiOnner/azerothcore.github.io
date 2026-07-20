@@ -1,10 +1,8 @@
 var a24224 =
 [
-    [ "Absorb", "d8/d86/a24224.html#a99db0d1254ddcfa9e7afb241e73b3235", null ],
-    [ "CalculateAmount", "d8/d86/a24224.html#a279a025cac490ee3647f47584b59179f", null ],
-    [ "Load", "d8/d86/a24224.html#a3fededdbfca9d12e6dbd097620e104be", null ],
-    [ "PrepareAuraScript", "d8/d86/a24224.html#a818875a8073491eab2508182bd941e25", null ],
-    [ "Register", "d8/d86/a24224.html#a2419bff95bad81a0f63c4988f14eb3f9", null ],
-    [ "Validate", "d8/d86/a24224.html#a60eb14be1b3108b7b896a27eab35569b", null ],
-    [ "absorbPct", "d8/d86/a24224.html#ac51bad58076a6dfa520fd3e9ea0c76b5", null ]
+    [ "npc_pet_gen_valkyr_guardian", "d8/d86/a24224.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "d8/d86/a24224.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "d8/d86/a24224.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "d8/d86/a24224.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "d8/d86/a24224.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

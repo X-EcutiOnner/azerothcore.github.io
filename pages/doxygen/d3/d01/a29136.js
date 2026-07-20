@@ -1,7 +1,8 @@
 var a29136 =
 [
-    [ "RealmHandle", "d3/d01/a29136.html#a120fb45f2301188a843ab2e712f768e4", null ],
-    [ "RealmHandle", "d3/d01/a29136.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
-    [ "operator<", "d3/d01/a29136.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
-    [ "Realm", "d3/d01/a29136.html#a31af0d9064a295b1579fce3c80217bfd", null ]
+    [ "canLink", "d3/d01/a29136.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
+    [ "categoryId", "d3/d01/a29136.html#abf285e69e8e2a90626a157cb0c50d158", null ],
+    [ "id", "d3/d01/a29136.html#a7740b26f1bde19a05b002c00eded25e3", null ],
+    [ "name", "d3/d01/a29136.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
+    [ "spellIcon", "d3/d01/a29136.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
 ];

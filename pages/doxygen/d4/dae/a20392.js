@@ -1,26 +1,7 @@
 var a20392 =
 [
-    [ "boss_mimiron", "d4/dae/a20392.html#acb08d1e24173014a7c443dc2eaea76ce", null ],
-    [ "AttackStart", "d4/dae/a20392.html#aee739c9b16ae36af6104b54bde9cf7f7", null ],
-    [ "CloseDoorAndButton", "d4/dae/a20392.html#ab5aa46f62dcb16febafb8bb081b1ec38", null ],
-    [ "EnterEvadeMode", "d4/dae/a20392.html#a9f39f9afa3f561115c4f7e630364f566", null ],
-    [ "GetData", "d4/dae/a20392.html#ab3aa6e8702c74ee27fa776c0a9bef77d", null ],
-    [ "JustEngagedWith", "d4/dae/a20392.html#ab9ce3920c2a06deb31bcf25f1b2947a8", null ],
-    [ "JustReachedHome", "d4/dae/a20392.html#a9e84d80c2e194c6d51b9d67d0c72db19", null ],
-    [ "MoveInLineOfSight", "d4/dae/a20392.html#a0b1497cf1fc3cca2db670b74eb4745ee", null ],
-    [ "Reset", "d4/dae/a20392.html#aec9cce9e0fcab78cfcf37e605cc6c08a", null ],
-    [ "ResetGameObjects", "d4/dae/a20392.html#ac3a10be85349fc62ef14ecd937159e61", null ],
-    [ "SetData", "d4/dae/a20392.html#aa9578fe08ab058a64e67935d262224ac", null ],
-    [ "SpellHit", "d4/dae/a20392.html#af4e88527fb72bcbc1dc0a57b6007a461", null ],
-    [ "UpdateAI", "d4/dae/a20392.html#adea87e321b4c401109ab4c37e314aca2", null ],
-    [ "_achievBombBot", "d4/dae/a20392.html#a916517ab6ec6b4bfe0bcbb445312a9a0", null ],
-    [ "_achievProximityMine", "d4/dae/a20392.html#a1fe4524d60414c100e0489bb77396033", null ],
-    [ "_achievRocketStrike", "d4/dae/a20392.html#a406cf4b6b01e1fbd6e995173c5cade4a", null ],
-    [ "_allowedFlameSpreadTime", "d4/dae/a20392.html#a34e2409dc2384851746d04301b926fdb", null ],
-    [ "_berserk", "d4/dae/a20392.html#af85af0d10226de45a42a9d3317244e7a", null ],
-    [ "_changeAllowedFlameSpreadTime", "d4/dae/a20392.html#a7d56123e4cc29207b53c0673084ee79e", null ],
-    [ "_hardmode", "d4/dae/a20392.html#af4b21f8bb94becdd9082e39d81003a2b", null ],
-    [ "_isEvading", "d4/dae/a20392.html#aa46c9828cdd36bb353ae75bea6d205b3", null ],
-    [ "_minutesTalkNum", "d4/dae/a20392.html#a4dbed164732f74205cd248afbb2fb46e", null ],
-    [ "_outOfCombatTimer", "d4/dae/a20392.html#a73c2e0d120706ec09638bbc20bda81b6", null ]
+    [ "HandleAfterEffectApply", "d4/dae/a20392.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "d4/dae/a20392.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "d4/dae/a20392.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "d4/dae/a20392.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

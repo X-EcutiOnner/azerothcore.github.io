@@ -1,11 +1,8 @@
 var a20012 =
 [
-    [ "boss_flame_leviathan_defense_turret", "de/d2f/a20012.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
-    [ "CanAIAttack", "de/d2f/a20012.html#a17020dc7facabb0cacac3209277a73f7", null ],
-    [ "DamageTaken", "de/d2f/a20012.html#ac15aadce1954d827b7e833ed761faf10", null ],
-    [ "JustDied", "de/d2f/a20012.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
-    [ "KilledUnit", "de/d2f/a20012.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
-    [ "UpdateAI", "de/d2f/a20012.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
-    [ "_instance", "de/d2f/a20012.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
-    [ "_setHealth", "de/d2f/a20012.html#a413187aa01c119d088846a216f093baa", null ]
+    [ "go_celestial_planetarium_accessAI", "de/d2f/a20012.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
+    [ "GossipHello", "de/d2f/a20012.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
+    [ "UpdateAI", "de/d2f/a20012.html#a9b2bfb74a12e3258476387fc78cde574", null ],
+    [ "_locked", "de/d2f/a20012.html#a37f83dbbb05e461d613a4c38001f785c", null ],
+    [ "events", "de/d2f/a20012.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
 ];

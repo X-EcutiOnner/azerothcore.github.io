@@ -1,8 +1,8 @@
 var a23436 =
 [
-    [ "boss_laj", "d4/d19/a23436.html#a3c9323ab4b5530504588ea62aed2edff", null ],
-    [ "Reset", "d4/d19/a23436.html#ace690a0662376addaa40093f3f119c31", null ],
-    [ "ScheduleTasks", "d4/d19/a23436.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
-    [ "_lastTransform", "d4/d19/a23436.html#a097eacaaf77a09bec087530bad587b11", null ],
-    [ "_transformContainer", "d4/d19/a23436.html#a313e66ceeb4e359251dad65383e7f568", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d4/d19/a23436.html#aebc047b45cb4560a38df89db75f8efab", null ],
+    [ "Initialize", "d4/d19/a23436.html#a115a36ec26e15e23be4d78250d86d814", null ],
+    [ "OnGameObjectCreate", "d4/d19/a23436.html#a0639fcd867616d1f04aacde44020bb30", null ],
+    [ "SetBossState", "d4/d19/a23436.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
+    [ "felIronChestGUID", "d4/d19/a23436.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
 ];

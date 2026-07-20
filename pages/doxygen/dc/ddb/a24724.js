@@ -1,7 +1,7 @@
 var a24724 =
 [
-    [ "HandleApply", "dc/ddb/a24724.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
-    [ "HandlePeriodicTimer", "dc/ddb/a24724.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
-    [ "PrepareAuraScript", "dc/ddb/a24724.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
-    [ "Register", "dc/ddb/a24724.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
+    [ "HandleProc", "dc/ddb/a24724.html#a75ddeb7696c7c2fdb8a6e9a96e2a9c48", null ],
+    [ "PrepareAuraScript", "dc/ddb/a24724.html#a3e05e2ac9230a7db5bd6af31e5db88db", null ],
+    [ "Register", "dc/ddb/a24724.html#a7b066f171e0f1b1642bded97c55e73f2", null ],
+    [ "Validate", "dc/ddb/a24724.html#a37a1e84853948e87347b497f3d9aa675", null ]
 ];

@@ -1,7 +1,6 @@
 var a19164 =
 [
-    [ "DelayedCastMincharEvent", "db/dc4/a19164.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "db/dc4/a19164.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "db/dc4/a19164.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "db/dc4/a19164.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "d7/df6/a19168.html", "d7/df6/a19168" ],
+    [ "npc_icc_skybreaker_marksman", "db/dc4/a19164.html#a1d870b78e1acf2d17782265e28698d1c", null ],
+    [ "GetAI", "db/dc4/a19164.html#a374017d37da15705d51ab8edc75683ff", null ]
 ];

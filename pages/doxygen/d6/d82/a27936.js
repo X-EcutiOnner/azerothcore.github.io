@@ -1,5 +1,7 @@
 var a27936 =
 [
-    [ "go_arcane_prison", "d6/d82/a27936.html#ad73ac33d843027de0e516de8f90c45a0", null ],
-    [ "OnGossipHello", "d6/d82/a27936.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
+    [ "npc_spirit_shadeAI", "d6/d82/a27936.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "d6/d82/a27936.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "d6/d82/a27936.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "d6/d82/a27936.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

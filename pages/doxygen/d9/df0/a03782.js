@@ -1,17 +1,9 @@
 var a03782 =
 [
-    [ "BattlegroundRL", "df/d6f/a07805.html", "df/d6f/a07805" ],
-    [ "BattlegroundRLObjects", "d9/df0/a03782.html#a07ba947d37c83568823ee5313377497a", [
-      [ "BG_RL_OBJECT_TYPE_DOOR_1", "d9/df0/a03782.html#a07ba947d37c83568823ee5313377497aa4af54ddc0fa71a41b26c859580db7fb0", null ],
-      [ "BG_RL_OBJECT_TYPE_DOOR_2", "d9/df0/a03782.html#a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1", null ],
-      [ "BG_RL_OBJECT_TYPE_BUFF_1", "d9/df0/a03782.html#a07ba947d37c83568823ee5313377497aaf7212d012d9018e008f475bd21bae934", null ],
-      [ "BG_RL_OBJECT_TYPE_BUFF_2", "d9/df0/a03782.html#a07ba947d37c83568823ee5313377497aa5e706f8c7f110903f7301b47b0487921", null ]
-    ] ],
-    [ "BattlegroundRLObjectTypes", "d9/df0/a03782.html#a5b40294f7ef8f041d61eaa6911993b24", [
-      [ "BG_RL_OBJECT_DOOR_1", "d9/df0/a03782.html#a5b40294f7ef8f041d61eaa6911993b24ab647ed9553d4e532699cd1b551014636", null ],
-      [ "BG_RL_OBJECT_DOOR_2", "d9/df0/a03782.html#a5b40294f7ef8f041d61eaa6911993b24a9dfe9b550ad26c408445bfe72f064058", null ],
-      [ "BG_RL_OBJECT_BUFF_1", "d9/df0/a03782.html#a5b40294f7ef8f041d61eaa6911993b24a793477ef5d11b6f41cfb62d8c354e8d4", null ],
-      [ "BG_RL_OBJECT_BUFF_2", "d9/df0/a03782.html#a5b40294f7ef8f041d61eaa6911993b24a670a77d5efbe30024d0ffb16acd5dfac", null ],
-      [ "BG_RL_OBJECT_MAX", "d9/df0/a03782.html#a5b40294f7ef8f041d61eaa6911993b24a7b6737d574968476c6ecb6d1bbf03813", null ]
-    ] ]
+    [ "instance_ruby_sanctum", "d5/da9/a16664.html", "d5/da9/a16664" ],
+    [ "instance_ruby_sanctum::instance_ruby_sanctum_InstanceMapScript", "d7/dd9/a16668.html", "d7/dd9/a16668" ],
+    [ "spell_ruby_sanctum_rallying_shout", "db/d20/a16672.html", "db/d20/a16672" ],
+    [ "AddSC_instance_ruby_sanctum", "d9/df0/a03782.html#a93f8126d2e36ad7caab980f1c3f83a14", null ],
+    [ "boundaries", "d9/df0/a03782.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "doorData", "d9/df0/a03782.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

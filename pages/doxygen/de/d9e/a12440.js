@@ -1,15 +1,10 @@
 var a12440 =
 [
-    [ "worldstate_commandscript", "de/d9e/a12440.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
-    [ "GetCommands", "de/d9e/a12440.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
-    [ "HandleScourgeInvasionBattlesWonCommand", "de/d9e/a12440.html#a1c2167ce554327d674161b7c4f63585c", null ],
-    [ "HandleScourgeInvasionCommand", "de/d9e/a12440.html#a11aeedef82a93f8799fd788a8c492335", null ],
-    [ "HandleScourgeInvasionStartZone", "de/d9e/a12440.html#af242372bd32ed79d839af82f82423837", null ],
-    [ "HandleScourgeInvasionStateCommand", "de/d9e/a12440.html#a5ba0b973087f921dbb764037c8b36134", null ],
-    [ "HandleSunsReachReclamationCounterCommand", "de/d9e/a12440.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
-    [ "HandleSunsReachReclamationPhaseCommand", "de/d9e/a12440.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
-    [ "HandleSunsReachReclamationStatusCommand", "de/d9e/a12440.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
-    [ "HandleSunsReachReclamationSubPhaseCommand", "de/d9e/a12440.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
-    [ "HandleSunwellGateCommand", "de/d9e/a12440.html#a45b73e47c8e9b21063d02922a83e103b", null ],
-    [ "HandleSunwellGateCounterCommand", "de/d9e/a12440.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
+    [ "mail_commandscript", "de/d9e/a12440.html#a213bedb9d8fd8cb3c4b5928b2c193c58", null ],
+    [ "GetCommands", "de/d9e/a12440.html#a931c5f4d66e598886984458a4a7fd3b0", null ],
+    [ "GetItemListString", "de/d9e/a12440.html#a6d5fc2ef156b3d6be01b3b62f9efb2c9", null ],
+    [ "GetMailStationeryString", "de/d9e/a12440.html#af016c0c682c94250cdb26eea3377ec6e", null ],
+    [ "GetMailTypeString", "de/d9e/a12440.html#aeadf09762c52e71d4b6ef2b248e21077", null ],
+    [ "HandleMailListCommand", "de/d9e/a12440.html#aea68c55c26314abf0bb4040ad6de8e1b", null ],
+    [ "HandleMailReturnCommand", "de/d9e/a12440.html#acbdb7a0ea15ed5202866355d4839948c", null ]
 ];

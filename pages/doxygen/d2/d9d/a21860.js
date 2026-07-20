@@ -1,6 +1,7 @@
 var a21860 =
 [
-    [ "npc_mcmanus", "d2/d9d/a21860.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "d2/d9d/a21860.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "d2/d9d/a21860.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "npc_plaguehound_trackerAI", "d2/d9d/a21860.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d2/d9d/a21860.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d2/d9d/a21860.html#a67c345f49572cde76d9109a1baff6788", null ],
+    [ "WaypointReached", "d2/d9d/a21860.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

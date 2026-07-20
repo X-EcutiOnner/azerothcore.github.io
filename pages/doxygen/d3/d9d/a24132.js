@@ -1,7 +1,7 @@
 var a24132 =
 [
-    [ "CheckCast", "d3/d9d/a24132.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "d3/d9d/a24132.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "d3/d9d/a24132.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "d3/d9d/a24132.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "HandleEffectRemove", "d3/d9d/a24132.html#a317c238b165ad331beb447ea5d0de7e1", null ],
+    [ "PrepareAuraScript", "d3/d9d/a24132.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
+    [ "Register", "d3/d9d/a24132.html#a13fdde1557249328306a57e159d821a7", null ],
+    [ "Validate", "d3/d9d/a24132.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
 ];

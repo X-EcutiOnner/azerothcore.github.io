@@ -1,5 +1,5 @@
 var a08800 =
 [
-    [ "PositionXYZStreamer", "db/dbe/a08800.html#a8da1be6111bd97ef68d62d0d9d630c56", null ],
-    [ "m_pos", "db/dbe/a08800.html#ae5db7cb3adba811c0b9483645a7f1770", null ]
+    [ "PackedGuidReader", "db/dbe/a08800.html#aec7af2ed383e06998a0fa12b94da90e3", null ],
+    [ "Guid", "db/dbe/a08800.html#a4de5d725a22f0a8ae4bb83cb51a72588", null ]
 ];

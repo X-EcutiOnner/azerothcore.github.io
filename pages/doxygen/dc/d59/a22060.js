@@ -1,6 +1,8 @@
 var a22060 =
 [
-    [ "npc_wg_siege_machineAI", "dd/d61/a22064.html", "dd/d61/a22064" ],
-    [ "npc_wg_siege_machine", "dc/d59/a22060.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
-    [ "GetAI", "dc/d59/a22060.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
+    [ "npc_adventurous_dwarfAI", "dd/d61/a22064.html", "dd/d61/a22064" ],
+    [ "npc_adventurous_dwarf", "dc/d59/a22060.html#a15c39e217907189db9be7799e696f310", null ],
+    [ "GetAI", "dc/d59/a22060.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
+    [ "OnGossipHello", "dc/d59/a22060.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
+    [ "OnGossipSelect", "dc/d59/a22060.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
 ];

@@ -1,8 +1,10 @@
 var a15636 =
 [
-    [ "npc_obsidian_nullifier", "dc/ddc/a15636.html#a9dbb6d681e348057564750fcd7e8050a", null ],
-    [ "JustEngagedWith", "dc/ddc/a15636.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
-    [ "Reset", "dc/ddc/a15636.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
-    [ "UpdateAI", "dc/ddc/a15636.html#a37cf1d335dd3735b262e82828c4f904a", null ],
-    [ "_targetGUIDs", "dc/ddc/a15636.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
+    [ "boss_huhuran", "dc/ddc/a15636.html#a64e0b20891992764c708cbb661c18196", null ],
+    [ "DamageTaken", "dc/ddc/a15636.html#adb47086f29b41f4168ad5d1b2728547d", null ],
+    [ "JustEngagedWith", "dc/ddc/a15636.html#a08f1d6550680d5bcf07332eade115730", null ],
+    [ "Reset", "dc/ddc/a15636.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
+    [ "UpdateAI", "dc/ddc/a15636.html#a23962e668f046b373f94ea6a2d75574a", null ],
+    [ "_berserk", "dc/ddc/a15636.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
+    [ "_hardEnrage", "dc/ddc/a15636.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
 ];

@@ -1,8 +1,7 @@
 var a23152 =
 [
-    [ "ApplyStun", "d8/de6/a23152.html#a5a5b921dc45418485919e599e80f8ca8", null ],
-    [ "HandleScriptEffect", "d8/de6/a23152.html#a32619710179250a6a0b408856a888153", null ],
-    [ "PrepareSpellScript", "d8/de6/a23152.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
-    [ "Register", "d8/de6/a23152.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
-    [ "Validate", "d8/de6/a23152.html#a66d91a87078c663903cd836344eec867", null ]
+    [ "go_ahune_ice_spear", "d8/de6/a23152.html#a22922e47b819bc60e331cffbc7c353b3", null ],
+    [ "Reset", "d8/de6/a23152.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
+    [ "UpdateAI", "d8/de6/a23152.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
+    [ "_scheduler", "d8/de6/a23152.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
 ];

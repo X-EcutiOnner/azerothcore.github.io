@@ -1,5 +1,6 @@
 var a18448 =
 [
-    [ "FrozenThroneResetWorker", "d5/d57/a18448.html#afd21e9c1449d4e391713256e197bc92b", null ],
-    [ "operator()", "d5/d57/a18448.html#a7119548d30d760ae817a87cacf712cf6", null ]
+    [ "FilterTargets", "d5/d57/a18448.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
+    [ "PrepareSpellScript", "d5/d57/a18448.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
+    [ "Register", "d5/d57/a18448.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
 ];

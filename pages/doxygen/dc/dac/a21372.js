@@ -1,13 +1,8 @@
 var a21372 =
 [
-    [ "npc_shandy_dalaranAI", "dc/dac/a21372.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
-    [ "Reset", "dc/dac/a21372.html#a38f0630d4e18cea01de343afdcb96db3", null ],
-    [ "RollTask", "dc/dac/a21372.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
-    [ "SetData", "dc/dac/a21372.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
-    [ "UpdateAI", "dc/dac/a21372.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
-    [ "_aquanosGUID", "dc/dac/a21372.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
-    [ "_canWash", "dc/dac/a21372.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
-    [ "_events", "dc/dac/a21372.html#a3fbae63669c8382097b0bcb936301945", null ],
-    [ "_lCount", "dc/dac/a21372.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
-    [ "_lSource", "dc/dac/a21372.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
+    [ "npc_azure_sorceror", "dc/dac/a21372.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
+    [ "Reset", "dc/dac/a21372.html#af4bc0ff9b938302c399bff528dd06769", null ],
+    [ "UpdateAI", "dc/dac/a21372.html#a36675e89aab24a92589a33f88fbec2bd", null ],
+    [ "_arcaneStreamOnCooldown", "dc/dac/a21372.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
+    [ "_events", "dc/dac/a21372.html#a3bd018057b31c90afd19ac6943d44591", null ]
 ];

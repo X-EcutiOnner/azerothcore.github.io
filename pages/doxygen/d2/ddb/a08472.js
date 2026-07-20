@@ -1,6 +1,5 @@
 var a08472 =
 [
-    [ "ForcedUnsummonDelayEvent", "d2/ddb/a08472.html#aadabfc349c81e02743add4307977c2fd", null ],
-    [ "Execute", "d2/ddb/a08472.html#a86d7bd6f9f47ef37382b725f0d64877b", null ],
-    [ "m_owner", "d2/ddb/a08472.html#a3954577354fb882ec1def262502ed2e6", null ]
+    [ "GossipActionMenuId", "d2/ddb/a08472.html#a377beba97be2b81a0c2bbeb933f1927b", null ],
+    [ "GossipActionPoi", "d2/ddb/a08472.html#afdaf27e370e3c84659fdc3784cafad29", null ]
 ];

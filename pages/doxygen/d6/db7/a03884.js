@@ -1,12 +1,13 @@
 var a03884 =
 [
-    [ "PacketHandler< PacketClass, HandlerFunction >", "dc/db5/a11591.html", "dc/db5/a11591" ],
-    [ "PacketHandler< WorldPacket, HandlerFunction >", "da/d0b/a11595.html", "da/d0b/a11595" ],
-    [ "get_packet_class< T >", "db/dd2/a11599.html", null ],
-    [ "get_packet_class< void(WorldSession::*)(PacketClass &)>", "db/d9a/a11603.html", "db/d9a/a11603" ],
-    [ "DEFINE_HANDLER", "d6/db7/a03884.html#ab23af9582942bed23ea9ab4a8747c67c", null ],
-    [ "DEFINE_SERVER_OPCODE_HANDLER", "d6/db7/a03884.html#a4bcb2df62d580f2bb5ab3c2aa5b35f5e", null ],
-    [ "GetOpcodeNameForLogging", "d7/de8/a05037.html#ga699f5666ad5594443aa2ca21df85a1d3", null ],
-    [ "GetOpcodeNameForLoggingImpl", "d6/db7/a03884.html#a0adf4b5d8c638656581d9a62be18539e", null ],
-    [ "opcodeTable", "d7/de8/a05037.html#gaab348862a5b8f265e05e5b0ac296162a", null ]
+    [ "AddEventsScripts", "d6/db7/a03884.html#a5b00ce0eeb1dcf64dc867f4bce623416", null ],
+    [ "AddSC_event_brewfest_scripts", "d6/db7/a03884.html#a7b95e86ce715aad734d059cfc0cf88d7", null ],
+    [ "AddSC_event_childrens_week", "d6/db7/a03884.html#a832536a026ab4dad8df7bb48ad0493fc", null ],
+    [ "AddSC_event_firework_show_scripts", "d6/db7/a03884.html#af7a6296c13b6615a14e0823fe7e5b577", null ],
+    [ "AddSC_event_hallows_end_scripts", "d6/db7/a03884.html#a70705fe4a0f9a88d8f185363054af273", null ],
+    [ "AddSC_event_love_in_the_air", "d6/db7/a03884.html#acd28b6b284f9e0f8caa1194e2dc904f8", null ],
+    [ "AddSC_event_midsummer_scripts", "d6/db7/a03884.html#adc17dd3d30524a3c73b564d6eed54f1c", null ],
+    [ "AddSC_event_noblegarden_scripts", "d6/db7/a03884.html#a60b11fd113b9059778bb843dd1806c79", null ],
+    [ "AddSC_event_pilgrims_end_scripts", "d6/db7/a03884.html#a8e59953c9b1731e315c9c6b9148a88e6", null ],
+    [ "AddSC_event_winter_veil_scripts", "d6/db7/a03884.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e", null ]
 ];

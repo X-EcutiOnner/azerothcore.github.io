@@ -1,9 +1,9 @@
 var a15008 =
 [
-    [ "boss_azgalor", "d0/d55/a15008.html#ac794e0eacc2d543fa62e4b521089f080", null ],
-    [ "DoAction", "d0/d55/a15008.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
-    [ "JustDied", "d0/d55/a15008.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
-    [ "JustEngagedWith", "d0/d55/a15008.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
-    [ "KilledUnit", "d0/d55/a15008.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
-    [ "_recentlySpoken", "d0/d55/a15008.html#abea34396ddde0aa02a073b2f3119fec9", null ]
+    [ "HandlePeriodic", "d0/d55/a15008.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
+    [ "Load", "d0/d55/a15008.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
+    [ "PrepareAuraScript", "d0/d55/a15008.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
+    [ "Register", "d0/d55/a15008.html#ac331de3219ae7da9e35e962011540bdf", null ],
+    [ "Validate", "d0/d55/a15008.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
+    [ "_buffGiven", "d0/d55/a15008.html#aec2476ad5e046213b90af04ad91f0230", null ]
 ];

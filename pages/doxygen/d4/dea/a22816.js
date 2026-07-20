@@ -1,6 +1,7 @@
 var a22816 =
 [
-    [ "OnPeriodic", "d4/dea/a22816.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
-    [ "PrepareAuraScript", "d4/dea/a22816.html#ac9231c238adf7e733d55bc6098daddc0", null ],
-    [ "Register", "d4/dea/a22816.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
+    [ "npc_ashtongue_channeler", "d4/dea/a22816.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "d4/dea/a22816.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "d4/dea/a22816.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "d4/dea/a22816.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

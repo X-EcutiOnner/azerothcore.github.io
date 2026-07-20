@@ -1,6 +1,5 @@
 var a14464 =
 [
-    [ "HandleObjectAreaTargetSelect", "da/d01/a14464.html#aa7695bddd766d5adefb04710d41894f6", null ],
-    [ "PrepareSpellScript", "da/d01/a14464.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
-    [ "Register", "da/d01/a14464.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
+    [ "at_zulgurub_entrance_speech", "da/d01/a14464.html#afef11c6a7e97befd07072826fa13be55", null ],
+    [ "_OnTrigger", "da/d01/a14464.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
 ];

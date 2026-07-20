@@ -1,6 +1,6 @@
 var a21536 =
 [
-    [ "npc_q24545_vegard_dummyAI", "d4/d6e/a21536.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
-    [ "UpdateAI", "d4/d6e/a21536.html#aa31baac9ce3c4c951f93917b88390797", null ],
-    [ "done", "d4/d6e/a21536.html#a0208fbae8e6c46d0671107530279c50c", null ]
+    [ "npc_archmage_landalockAI", "dd/dd0/a21540.html", "dd/dd0/a21540" ],
+    [ "npc_archmage_landalock", "d4/d6e/a21536.html#ac7379ff07740123312af66ead64df4c6", null ],
+    [ "GetAI", "d4/d6e/a21536.html#a92cfa8c2660413681297bfe12815c938", null ]
 ];

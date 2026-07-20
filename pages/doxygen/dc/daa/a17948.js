@@ -1,9 +1,6 @@
 var a17948 =
 [
-    [ "CalculatePower", "dc/daa/a17948.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
-    [ "Load", "dc/daa/a17948.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
-    [ "PrepareSpellScript", "dc/daa/a17948.html#a49489a8e4e39735efa560f53236dfc2c", null ],
-    [ "PreventPowerGainOnHit", "dc/daa/a17948.html#a5eebe6f82a6d7306d6e232b755531939", null ],
-    [ "Register", "dc/daa/a17948.html#a67b59c096848adaad5566cbc2140da59", null ],
-    [ "Validate", "dc/daa/a17948.html#a355500a6f3bfed084030738041d0e3b9", null ]
+    [ "npc_muradin_bronzebeard_igbAI", "dd/d20/a17952.html", "dd/d20/a17952" ],
+    [ "npc_muradin_bronzebeard_igb", "dc/daa/a17948.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
+    [ "GetAI", "dc/daa/a17948.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
 ];

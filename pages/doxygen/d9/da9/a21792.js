@@ -1,6 +1,6 @@
 var a21792 =
 [
-    [ "HandleDummy", "d9/da9/a21792.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "d9/da9/a21792.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "d9/da9/a21792.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "CheckRequirement", "d9/da9/a21792.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
+    [ "PrepareSpellScript", "d9/da9/a21792.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
+    [ "Register", "d9/da9/a21792.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
 ];

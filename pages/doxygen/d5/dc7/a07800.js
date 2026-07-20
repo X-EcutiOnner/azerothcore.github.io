@@ -1,14 +1,13 @@
 var a07800 =
 [
-    [ "AccountId", "d5/dc7/a07800.html#ae1921d1e949cec70ebbd52779b775df6", null ],
-    [ "ArenaTeamId", "d5/dc7/a07800.html#a1d094e514af9970b0239cc8e27da06bc", null ],
-    [ "Class", "d5/dc7/a07800.html#a19dbbbdce9dbf9993d57edbebeeaf425", null ],
-    [ "GroupGuid", "d5/dc7/a07800.html#a4b6f5540de2e47959a053696698e8e05", null ],
-    [ "Guid", "d5/dc7/a07800.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532", null ],
-    [ "GuildId", "d5/dc7/a07800.html#a4fba749bb66642a1601c5cb37c756222", null ],
-    [ "Level", "d5/dc7/a07800.html#a41ea77c9e690336b709259bfccbd939f", null ],
-    [ "MailCount", "d5/dc7/a07800.html#a8a74e276dec82ac3f2950b8637ed9213", null ],
-    [ "Name", "d5/dc7/a07800.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b", null ],
-    [ "Race", "d5/dc7/a07800.html#aa57c5abbbd7218d26e4156b310229766", null ],
-    [ "Sex", "d5/dc7/a07800.html#a91c17eef26be0a18823a9834853c296a", null ]
+    [ "banners", "d5/dc7/a07800.html#a07c98125c64d119232fec9cc80050537", null ],
+    [ "faction", "d5/dc7/a07800.html#ab3758f67da3dcb507bb1acab575e2836", null ],
+    [ "gameobject_entry", "d5/dc7/a07800.html#ae80024986e048e05dca174d6b14964d3", null ],
+    [ "gameobject_type", "d5/dc7/a07800.html#ac4760cba40ba8916d66cae3712f7c641", null ],
+    [ "last_entry", "d5/dc7/a07800.html#a968d6f412ba88b9577429910ffa511a5", null ],
+    [ "needChange", "d5/dc7/a07800.html#acecd97e26d19c82e934817ecbc2afce9", null ],
+    [ "nodeState", "d5/dc7/a07800.html#a214e160c6fd94cefb4d080a94a12ba56", null ],
+    [ "nodeType", "d5/dc7/a07800.html#a3b303a427c4a2248dade5eada6774dc9", null ],
+    [ "timer", "d5/dc7/a07800.html#a434605ed0efcc262057a65d7cd8d0128", null ],
+    [ "worldStates", "d5/dc7/a07800.html#ae5d3b4b37fc5b7983c08b54d94d6c3d2", null ]
 ];

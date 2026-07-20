@@ -1,6 +1,5 @@
 var a10368 =
 [
-    [ "AssistanceDistractMovementGenerator", "d4/d9d/a10368.html#ae472d28ebb4624855632ac7f0bd7b219", null ],
-    [ "Finalize", "d4/d9d/a10368.html#a1511f74a52e5ad92471e554eb77c235a", null ],
-    [ "GetMovementGeneratorType", "d4/d9d/a10368.html#a233eb9333ea365955589932ddbd18d8a", null ]
+    [ "IdleMovementFactory", "d4/d9d/a10368.html#af2bb5ef9fe67f3dda64d6ce44e825f52", null ],
+    [ "Create", "d4/d9d/a10368.html#a5e99eab3436482927bc83100f85581cd", null ]
 ];

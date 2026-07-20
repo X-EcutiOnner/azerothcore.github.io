@@ -1,6 +1,7 @@
 var a18784 =
 [
-    [ "npc_suppresserAI", "da/db2/a18788.html", "da/db2/a18788" ],
-    [ "npc_suppresser", "d3/d16/a18784.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
-    [ "GetAI", "d3/d16/a18784.html#a48869515abbac1491337a93b987231da", null ]
+    [ "OnPeriodic", "d3/d16/a18784.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
+    [ "PrepareAuraScript", "d3/d16/a18784.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
+    [ "Register", "d3/d16/a18784.html#a0fc7ca43a0d82058fc04277742231388", null ],
+    [ "Validate", "d3/d16/a18784.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
 ];

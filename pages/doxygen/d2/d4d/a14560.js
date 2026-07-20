@@ -1,7 +1,10 @@
 var a14560 =
 [
-    [ "FilterTargets", "d2/d4d/a14560.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
-    [ "HandleDummyEffect", "d2/d4d/a14560.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
-    [ "PrepareSpellScript", "d2/d4d/a14560.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
-    [ "Register", "d2/d4d/a14560.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
+    [ "npc_vilebranch_speaker", "d2/d4d/a14560.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
+    [ "JustDied", "d2/d4d/a14560.html#aa7708f176879db3acd50399b74e4a90c", null ],
+    [ "JustEngagedWith", "d2/d4d/a14560.html#a236afb8512c2d941479f8a7c18f688a6", null ],
+    [ "Reset", "d2/d4d/a14560.html#a248195a137cb91f10a882ec12974c7c5", null ],
+    [ "UpdateAI", "d2/d4d/a14560.html#a75f263fa9241319b58bf77cbf1b75088", null ],
+    [ "_scheduler", "d2/d4d/a14560.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
+    [ "instance", "d2/d4d/a14560.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
 ];

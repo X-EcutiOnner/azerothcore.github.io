@@ -1,6 +1,6 @@
 var a16232 =
 [
-    [ "HandleApplyAura", "df/d80/a16232.html#aeddfd61eab5aa077ca07a924ec491285", null ],
-    [ "PrepareSpellScript", "df/d80/a16232.html#ad53341842455d98722c03318dd80fb94", null ],
-    [ "Register", "df/d80/a16232.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
+    [ "npc_sergeant_blyAI", "d3/d7a/a16236.html", "d3/d7a/a16236" ],
+    [ "npc_sergeant_bly", "df/d80/a16232.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
+    [ "GetAI", "df/d80/a16232.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
 ];

@@ -1,6 +1,6 @@
 var a20224 =
 [
-    [ "npc_ulduar_toasty_fire", "d9/d42/a20224.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
-    [ "DoAction", "d9/d42/a20224.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
-    [ "SpellHit", "d9/d42/a20224.html#ad1ac241490db52177ae13640d7ae3eec", null ]
+    [ "achievement_flame_leviathan_towers", "d9/d42/a20224.html#a491d66bdd373b6044e406126719ef910", null ],
+    [ "OnCheck", "d9/d42/a20224.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
+    [ "_towerCount", "d9/d42/a20224.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
 ];

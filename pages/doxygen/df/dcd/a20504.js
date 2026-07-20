@@ -1,9 +1,5 @@
 var a20504 =
 [
-    [ "npc_ulduar_dark_rune_watcher", "df/dcd/a20504.html#aaddea3969eaab06df6b7e5d08f6ad626", null ],
-    [ "CanAIAttack", "df/dcd/a20504.html#ae87ae4e671855f9e18eef6ba7f455463", null ],
-    [ "Reset", "df/dcd/a20504.html#a66ac44c21691994b0b45c096dd7a0d56", null ],
-    [ "UpdateAI", "df/dcd/a20504.html#a008399ff99fbf7c298485450cd3bd4e3", null ],
-    [ "timer1", "df/dcd/a20504.html#a8e7520f4f33604ebd8177b12ca610ea3", null ],
-    [ "timer2", "df/dcd/a20504.html#a1be016384a7fd92e96786ff6caf6c77d", null ]
+    [ "achievement_kologarn_rubble_and_roll", "df/dcd/a20504.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
+    [ "OnCheck", "df/dcd/a20504.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
 ];

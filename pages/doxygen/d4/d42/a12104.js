@@ -1,16 +1,12 @@
 var a12104 =
 [
-    [ "CheckContainer", "d4/d42/a12104.html#a08e083224760d2bca1996da9cd9cb014", null ],
-    [ "CheckResultContainer", "d4/d42/a12104.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
-    [ "WardenCheckMgr", "d4/d42/a12104.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
-    [ "~WardenCheckMgr", "d4/d42/a12104.html#a0d89190f580435337c328da4bf2497b8", null ],
-    [ "GetMaxValidCheckId", "d4/d42/a12104.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
-    [ "GetWardenDataById", "d4/d42/a12104.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
-    [ "GetWardenResultById", "d4/d42/a12104.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
-    [ "instance", "d4/d42/a12104.html#aba9de1e123070338dc0049db8d8f0663", null ],
-    [ "LoadWardenChecks", "d4/d42/a12104.html#ad02847547a06d98c582d09992dce9d11", null ],
-    [ "LoadWardenOverrides", "d4/d42/a12104.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
-    [ "CheckIdPool", "d4/d42/a12104.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
-    [ "CheckResultStore", "d4/d42/a12104.html#a4f0224b8377827aced304b28fdefbda7", null ],
-    [ "CheckStore", "d4/d42/a12104.html#aac59e154d81b838f27c577af87b86bd1", null ]
+    [ "CreatureTextBuilder", "d4/d42/a12104.html#a582eed3ab284675e72261a1db9808925", null ],
+    [ "operator()", "d4/d42/a12104.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
+    [ "_gender", "d4/d42/a12104.html#a615c3046f749bf44b036958fb1a50128", null ],
+    [ "_language", "d4/d42/a12104.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
+    [ "_msgType", "d4/d42/a12104.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
+    [ "_source", "d4/d42/a12104.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
+    [ "_target", "d4/d42/a12104.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
+    [ "_textGroup", "d4/d42/a12104.html#afcd842c1482980c6232f3f19d21a1481", null ],
+    [ "_textId", "d4/d42/a12104.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
 ];

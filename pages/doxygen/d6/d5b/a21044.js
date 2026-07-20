@@ -1,6 +1,6 @@
 var a21044 =
 [
-    [ "boss_archavonAI", "d8/dbc/a21048.html", "d8/dbc/a21048" ],
-    [ "boss_archavon", "d6/d5b/a21044.html#a44e20480f8d86cf763afe67de49c6c33", null ],
-    [ "GetAI", "d6/d5b/a21044.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
+    [ "instance_utgarde_keep_InstanceMapScript", "d8/dbc/a21048.html", "d8/dbc/a21048" ],
+    [ "instance_utgarde_keep", "d6/d5b/a21044.html#abe013e4f086f63722a6398b2b7928c80", null ],
+    [ "GetInstanceScript", "d6/d5b/a21044.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
 ];

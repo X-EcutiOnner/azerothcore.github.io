@@ -1,6 +1,11 @@
 var a18760 =
 [
-    [ "npc_valithria_portalAI", "dc/d76/a18764.html", "dc/d76/a18764" ],
-    [ "npc_valithria_portal", "d4/de8/a18760.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
-    [ "GetAI", "d4/de8/a18760.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
+    [ "npc_terenas_menethilAI", "d4/de8/a18760.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
+    [ "CanAIAttack", "d4/de8/a18760.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
+    [ "DamageTaken", "d4/de8/a18760.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
+    [ "DoAction", "d4/de8/a18760.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
+    [ "EnterEvadeMode", "d4/de8/a18760.html#ada5313b34e8c20c82ac97396e54e27df", null ],
+    [ "UpdateAI", "d4/de8/a18760.html#a6210ca6e5e954d5c66d2108359efc888", null ],
+    [ "_events", "d4/de8/a18760.html#ae61e4919b99a2b9195a389992947a125", null ],
+    [ "_instance", "d4/de8/a18760.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
 ];

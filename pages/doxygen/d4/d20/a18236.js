@@ -1,11 +1,14 @@
 var a18236 =
 [
-    [ "npc_little_oozeAI", "d4/d20/a18236.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
-    [ "EnterEvadeMode", "d4/d20/a18236.html#a0bd4bfcc8c373a449f297011289e5530", null ],
-    [ "IsSummonedBy", "d4/d20/a18236.html#afb9763ade36bd742398a8bca961c136b", null ],
-    [ "JustDied", "d4/d20/a18236.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
-    [ "UpdateAI", "d4/d20/a18236.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
-    [ "events", "d4/d20/a18236.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
-    [ "firstUpdate", "d4/d20/a18236.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
-    [ "instance", "d4/d20/a18236.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
+    [ "npc_putricide_oozeAI", "d4/d20/a18236.html#a5b3200110d6cd8ac1311220ab2ee3385", null ],
+    [ "CastMainSpell", "d4/d20/a18236.html#a62c9027b6d8a7812fcf5c0023621ef70", null ],
+    [ "IsSummonedBy", "d4/d20/a18236.html#a8e96a50b9a35f6220bf6c824c1acce58", null ],
+    [ "SelectNewTarget", "d4/d20/a18236.html#a0a4167a73249967fcf268683f936647d", null ],
+    [ "SetGUID", "d4/d20/a18236.html#af8abd6581901df51a3757f4a19443045", null ],
+    [ "SpellHit", "d4/d20/a18236.html#ab9d288f8eded19720a0aee3bd91920d2", null ],
+    [ "SpellHitTarget", "d4/d20/a18236.html#a501e0f46abdb1bcc0d99ab9792f738fe", null ],
+    [ "UpdateAI", "d4/d20/a18236.html#a508fe1a9974f2ffa36c72575c2d4b252", null ],
+    [ "_hitTargetSpellId", "d4/d20/a18236.html#a728b62580e7a84e9947a45b460ab140c", null ],
+    [ "_newTargetSelectTimer", "d4/d20/a18236.html#a9615a0e6c73c155330c1791c2a205553", null ],
+    [ "targetGUID", "d4/d20/a18236.html#ae01b7ffe31548aa15d913cc28fa32422", null ]
 ];

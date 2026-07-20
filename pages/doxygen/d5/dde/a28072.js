@@ -1,11 +1,6 @@
 var a28072 =
 [
-    [ "npc_artoriusAI", "d5/dde/a28072.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
-    [ "DamageTaken", "d5/dde/a28072.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
-    [ "DoAction", "d5/dde/a28072.html#abbfc9ee752d97f1694dbd739719843c2", null ],
-    [ "JustEngagedWith", "d5/dde/a28072.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
-    [ "Reset", "d5/dde/a28072.html#a862cc52a9251e2dfe486f1152dae9500", null ],
-    [ "SpellHit", "d5/dde/a28072.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
-    [ "UpdateAI", "d5/dde/a28072.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
-    [ "events", "d5/dde/a28072.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
+    [ "go_gilded_brazierAI", "d1/dd0/a28076.html", "d1/dd0/a28076" ],
+    [ "go_gilded_brazier", "d5/dde/a28072.html#a778c753a8432131601371da8849ef004", null ],
+    [ "GetAI", "d5/dde/a28072.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
 ];

@@ -1,5 +1,8 @@
 var a27660 =
 [
-    [ "achievement_killed_exp_or_honor_target", "db/d1a/a27660.html#aad432878c97af698dd1cc4019d716281", null ],
-    [ "OnCheck", "db/d1a/a27660.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
+    [ "CheckProc", "db/d1a/a27660.html#a8a61fbd855294e6218cfc0e2dd3706c9", null ],
+    [ "OnProc", "db/d1a/a27660.html#a9217135a55d6612bf1d36b63ac09e7fb", null ],
+    [ "PrepareAuraScript", "db/d1a/a27660.html#a8bf573bb900773d4669708536b0b8011", null ],
+    [ "Register", "db/d1a/a27660.html#ae8ddcb6329088f904cbae3292ff92023", null ],
+    [ "Validate", "db/d1a/a27660.html#a918c9334b7f20710c0d6448a33c94601", null ]
 ];

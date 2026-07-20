@@ -1,11 +1,8 @@
 var a21600 =
 [
-    [ "npc_emilyAI", "da/daa/a21600.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
-    [ "JustEngagedWith", "da/daa/a21600.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
-    [ "JustSummoned", "da/daa/a21600.html#a4730c94b54d2ee5160011557704b35f2", null ],
-    [ "Reset", "da/daa/a21600.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
-    [ "WaypointReached", "da/daa/a21600.html#a0a68676a6eac8fbe2b634098268eb516", null ],
-    [ "WaypointReached", "da/daa/a21600.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_mrfloppyGUID", "da/daa/a21600.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
-    [ "_RavenousworgGUID", "da/daa/a21600.html#aa2a5e45366be9f89221453e00179e1a3", null ]
+    [ "npc_future_youAI", "da/daa/a21600.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "da/daa/a21600.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "da/daa/a21600.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "da/daa/a21600.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "da/daa/a21600.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

@@ -1,6 +1,11 @@
 var a21760 =
 [
-    [ "npc_boneguard_footmanAI", "dd/d62/a21764.html", "dd/d62/a21764" ],
-    [ "npc_boneguard_footman", "dd/dab/a21760.html#aba17f89b9546deff5401ad33224b2b3e", null ],
-    [ "GetAI", "dd/dab/a21760.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
+    [ "npc_emilyAI", "dd/dab/a21760.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "dd/dab/a21760.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "dd/dab/a21760.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "dd/dab/a21760.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "dd/dab/a21760.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "WaypointReached", "dd/dab/a21760.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_mrfloppyGUID", "dd/dab/a21760.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "dd/dab/a21760.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

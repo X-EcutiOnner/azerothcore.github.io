@@ -1,6 +1,7 @@
 var a21880 =
 [
-    [ "npc_bushwhackerAI", "de/d37/a21880.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "de/d37/a21880.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "de/d37/a21880.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "HandleScript", "de/d37/a21880.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
+    [ "PrepareSpellScript", "de/d37/a21880.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
+    [ "Register", "de/d37/a21880.html#a9b8efef83b515f2250bda500ff741aa3", null ],
+    [ "Validate", "de/d37/a21880.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
 ];

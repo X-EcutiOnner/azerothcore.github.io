@@ -1,7 +1,9 @@
 var a23088 =
 [
-    [ "npc_underbog_mushroom", "d8/dc9/a23088.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
-    [ "InitializeAI", "d8/dc9/a23088.html#a7c192010cc63715eaa3f38b1d1372936", null ],
-    [ "UpdateAI", "d8/dc9/a23088.html#a9a8ed51b12809152ebe78dda69944d77", null ],
-    [ "_scheduler", "d8/dc9/a23088.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
+    [ "FilterTargets", "d8/dc9/a23088.html#a9049c113d65b15a9a8e1143980a84b23", null ],
+    [ "HandleDummy", "d8/dc9/a23088.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
+    [ "Load", "d8/dc9/a23088.html#a8cad82701e0147e14f826243175e1c32", null ],
+    [ "PrepareSpellScript", "d8/dc9/a23088.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
+    [ "Register", "d8/dc9/a23088.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
+    [ "_targetNumber", "d8/dc9/a23088.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
 ];

@@ -1,7 +1,6 @@
 var a15580 =
 [
-    [ "boss_glob_of_viscidus", "d0/d9b/a15580.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
-    [ "InitializeAI", "d0/d9b/a15580.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
-    [ "MovementInform", "d0/d9b/a15580.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
-    [ "UpdateAI", "d0/d9b/a15580.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
+    [ "HandleScriptEffect", "d0/d9b/a15580.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
+    [ "PrepareSpellScript", "d0/d9b/a15580.html#aa109d61baba87acf5bce5d44bff55214", null ],
+    [ "Register", "d0/d9b/a15580.html#ac8412777c84abfe56262d6d83163e9a1", null ]
 ];

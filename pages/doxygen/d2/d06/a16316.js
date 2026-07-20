@@ -1,20 +1,12 @@
 var a16316 =
 [
-    [ "boss_sartharion_dragonAI", "d2/d06/a16316.html#ac77eaacb9a5360802e862c95e54ec8ef", null ],
-    [ "ClearInstance", "d2/d06/a16316.html#a9e1fb29994441dd2d41aeb2c04205d7b", null ],
-    [ "DoAction", "d2/d06/a16316.html#aeb49e63300a317f0e969159266fd8ea1", null ],
-    [ "HandleExtraEvent", "d2/d06/a16316.html#a152126a6deb6b79943f667e1dccfe7e5", null ],
-    [ "JustDied", "d2/d06/a16316.html#a9c664ff661a3e83b98e1a28c81d662b0", null ],
-    [ "JustEngagedWith", "d2/d06/a16316.html#a2988e9a5a8edd9aa807d8b13867fe6d7", null ],
-    [ "JustSummoned", "d2/d06/a16316.html#a16582179f25ddc130f97bb70fe80316f", null ],
-    [ "KilledUnit", "d2/d06/a16316.html#a09428ec63c8589a527accf8b024f6666", null ],
-    [ "MoveInLineOfSight", "d2/d06/a16316.html#a75cd7f27019e4013adde104e7663e5bc", null ],
-    [ "MovementInform", "d2/d06/a16316.html#a6870b91b1d36c79add8bd86a8e1fac4d", null ],
-    [ "RemoveTwilightPortal", "d2/d06/a16316.html#a26aff742f99b04bfaf56fa46158ce306", null ],
-    [ "Reset", "d2/d06/a16316.html#a86acfe30f898bd6b709c4743ae808867", null ],
-    [ "UpdateAI", "d2/d06/a16316.html#a0e9382d8dce8251336d81539b7d82e15", null ],
-    [ "currentPatrolPoint", "d2/d06/a16316.html#a308e282df080758c41c70f49f8977098", null ],
-    [ "extraEvents", "d2/d06/a16316.html#a0018fdf6e4567a74e5b16e4e09a00836", null ],
-    [ "isCalledBySartharion", "d2/d06/a16316.html#a45a92a0754572b8d619fddbd1bdb234f", null ],
-    [ "portalGUID", "d2/d06/a16316.html#a852ab0dabe5b6d8e6b0a53e6425ff085", null ]
+    [ "npc_taldaram_flamesphere", "d2/d06/a16316.html#aad7d6696b54e39c6abd27a7252353360", null ],
+    [ "DoAction", "d2/d06/a16316.html#aa79e370c1c30eccb44a46b622e2d5f2a", null ],
+    [ "IsSummonedBy", "d2/d06/a16316.html#acb232931bc181eedf4b39d5519dd45e2", null ],
+    [ "MovementInform", "d2/d06/a16316.html#a785c491b7144420cd4975e62c9a8a711", null ],
+    [ "SetVictimPos", "d2/d06/a16316.html#a51f1683806095c760d4accff9e23f8b6", null ],
+    [ "UpdateAI", "d2/d06/a16316.html#a163341c0ff0f56986e2486e06e21b4b2", null ],
+    [ "instance", "d2/d06/a16316.html#afd0ff83cb5fba1fbeb85b7d600f1b1de", null ],
+    [ "moveTimer", "d2/d06/a16316.html#afe50ac59ec441ab11745ca9461158a00", null ],
+    [ "victimPos", "d2/d06/a16316.html#ae681d84f2324faf22296dcb6e08484b0", null ]
 ];

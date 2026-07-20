@@ -1,11 +1,12 @@
 var a30064 =
 [
-    [ "material", "db/d5d/a30064.html#a7079e8817a9684602084eb224f2540fc", null ],
-    [ "pos_x", "db/d5d/a30064.html#ac4d971cc46506be14716124afbb5ad9c", null ],
-    [ "pos_y", "db/d5d/a30064.html#a6cd85f2a674d732e88371ffce5e46077", null ],
-    [ "pos_z", "db/d5d/a30064.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
-    [ "xtiles", "db/d5d/a30064.html#aca34dfa64624cfe04c314c13bbed0062", null ],
-    [ "xverts", "db/d5d/a30064.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
-    [ "ytiles", "db/d5d/a30064.html#a9901a7e9828ac840bc290b0768831d66", null ],
-    [ "yverts", "db/d5d/a30064.html#abf24042b85692cd0df05d65d734dd99e", null ]
+    [ "Bounds", "db/d5d/a30064.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
+    [ "DoodadSet", "db/d5d/a30064.html#abbf6e50e76b120be17215cfcf227a524", null ],
+    [ "Flags", "db/d5d/a30064.html#a06f5e96119239356eea45b9acdadf6e1", null ],
+    [ "Id", "db/d5d/a30064.html#a952442c180e8d3710af31272b54eb6ec", null ],
+    [ "NameSet", "db/d5d/a30064.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
+    [ "Position", "db/d5d/a30064.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
+    [ "Rotation", "db/d5d/a30064.html#a2c04715e800b9f375c287cced96643d1", null ],
+    [ "Scale", "db/d5d/a30064.html#a142716fecae07abc013c7f3bd053c0ea", null ],
+    [ "UniqueId", "db/d5d/a30064.html#a749e920740b9e91547fe1f87933d1c7d", null ]
 ];

@@ -1,11 +1,8 @@
 var a16144 =
 [
-    [ "boss_amanitar", "db/d8a/a16144.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
-    [ "EnterEvadeMode", "db/d8a/a16144.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
-    [ "JustDied", "db/d8a/a16144.html#a138049712649ff414950d9d0ca05d712", null ],
-    [ "JustEngagedWith", "db/d8a/a16144.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
-    [ "Reset", "db/d8a/a16144.html#aab3faca4526947a72d8ca049a605f5be", null ],
-    [ "SummonedCreatureDespawn", "db/d8a/a16144.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
-    [ "SummonMushroom", "db/d8a/a16144.html#afc5b4942931f6020b2894b901650fc35", null ],
-    [ "_mushroomsDeque", "db/d8a/a16144.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
+    [ "npc_lakota_windsongAI", "db/d8a/a16144.html#a922172a38ca75adef66a2653eda7fa98", null ],
+    [ "DoSpawnBandits", "db/d8a/a16144.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
+    [ "Reset", "db/d8a/a16144.html#aee7a86275f93021e0e5db249b636bcd4", null ],
+    [ "WaypointReached", "db/d8a/a16144.html#a6435c8b1521206789131889e5fa527a6", null ],
+    [ "WaypointReached", "db/d8a/a16144.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

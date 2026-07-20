@@ -1,5 +1,7 @@
 var a01703 =
 [
-    [ "OutdoorPvP_zangarmarsh", "d5/d41/a22397.html", "d5/d41/a22397" ],
-    [ "AddSC_outdoorpvp_zm", "df/d12/a01703.html#a3077d08865fa83f84cf956c392a9091c", null ]
+    [ "BG_RV_CLOSE_FIRE_TIMER", "df/d12/a01703.html#adea63e30cefe486dd1cbeb0353fdaeb2", null ],
+    [ "BG_RV_FIRE_TO_PILLAR_TIMER", "df/d12/a01703.html#a20f119684cfae65594c4cb1fc59e60c1", null ],
+    [ "BG_RV_FIRST_TIMER", "df/d12/a01703.html#abb49be7549db0a88e8b5fcd470741084", null ],
+    [ "BG_RV_PILLAR_SWITCH_TIMER", "df/d12/a01703.html#a6ecc5972946e4de12babadf07ce85e2f", null ]
 ];

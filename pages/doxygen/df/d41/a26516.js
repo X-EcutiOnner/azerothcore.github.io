@@ -1,10 +1,9 @@
 var a26516 =
 [
-    [ "CalculateAmount", "df/d41/a26516.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
-    [ "CheckDropCharge", "df/d41/a26516.html#a69bcdbce43cee47873a2ba54ff03d928", null ],
-    [ "HandleUpdateSpellclick", "df/d41/a26516.html#a89956d7f3a6404d5b60e46034867c82c", null ],
-    [ "InitializeAmount", "df/d41/a26516.html#a4b0656e78d748d974d6d77a43cfa7910", null ],
-    [ "PrepareAuraScript", "df/d41/a26516.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
-    [ "Register", "df/d41/a26516.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ],
-    [ "_remainingAmount", "df/d41/a26516.html#aa9a60ff01b89cb7c800d068e92c00ce3", null ]
+    [ "CountTargets", "df/d41/a26516.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
+    [ "HandleDummy", "df/d41/a26516.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
+    [ "PrepareSpellScript", "df/d41/a26516.html#adfb7e3fbb52aa349573b95c457823900", null ],
+    [ "Register", "df/d41/a26516.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
+    [ "Validate", "df/d41/a26516.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
+    [ "_targetCount", "df/d41/a26516.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
 ];

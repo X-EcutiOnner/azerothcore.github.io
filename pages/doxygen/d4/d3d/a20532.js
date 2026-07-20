@@ -1,7 +1,6 @@
 var a20532 =
 [
-    [ "boss_thorim_trap", "d4/d3d/a20532.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
-    [ "Reset", "d4/d3d/a20532.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
-    [ "UpdateAI", "d4/d3d/a20532.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
-    [ "_checkTimer", "d4/d3d/a20532.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
+    [ "HandleDamage", "d4/d3d/a20532.html#af2578478e83eb2f6c2de32a692e9be91", null ],
+    [ "PrepareSpellScript", "d4/d3d/a20532.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
+    [ "Register", "d4/d3d/a20532.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
 ];

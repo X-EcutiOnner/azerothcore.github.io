@@ -1,12 +1,12 @@
 var a06288 =
 [
-    [ "CombatAI", "d8/dc1/a06288.html#a32e63efb85155ac3deeb818a9a1ba18a", null ],
-    [ "InitializeAI", "d8/dc1/a06288.html#a70caf22165251220365d03873b3d3f17", null ],
-    [ "JustDied", "d8/dc1/a06288.html#a9176b9b9c7a5e13fb05dae636c7ef2d4", null ],
-    [ "JustEngagedWith", "d8/dc1/a06288.html#ab157082819d821cf0b0093f084111e16", null ],
-    [ "Permissible", "d8/dc1/a06288.html#aaf52e2cbeb1ea9a816b5e8d914c03edb", null ],
-    [ "Reset", "d8/dc1/a06288.html#a7a39daea9b9bd09572472ae0d8689edd", null ],
-    [ "UpdateAI", "d8/dc1/a06288.html#af12583d15ccd183f6236c1889d539b9b", null ],
-    [ "events", "d8/dc1/a06288.html#af59650830fa1abdf8eec179a12e328e7", null ],
-    [ "spells", "d8/dc1/a06288.html#ae0ecfc744e4200bbf7ea36cdd84b13c0", null ]
+    [ "RBACPermission", "d8/dc1/a06288.html#ab7e942f35ee798e52b6e44b5eb35957d", null ],
+    [ "AddLinkedPermission", "d8/dc1/a06288.html#abadc5213769b1aa15ed3fea56087760e", null ],
+    [ "GetId", "d8/dc1/a06288.html#ac9626c0aae11a3189fc15d086fb0bd96", null ],
+    [ "GetLinkedPermissions", "d8/dc1/a06288.html#aabdbec412cd1a1192c8fb4089ab268aa", null ],
+    [ "GetName", "d8/dc1/a06288.html#a39784b6e1cb1018dd47a1f223bcf8ac3", null ],
+    [ "RemoveLinkedPermission", "d8/dc1/a06288.html#a31dcbc98d2a850f5924c0183c90fd58a", null ],
+    [ "_id", "d8/dc1/a06288.html#ab467166c941c8dc01d3d2bd3ce7a06fc", null ],
+    [ "_name", "d8/dc1/a06288.html#ae02a379ae6f8bee804942a4ca6d98aba", null ],
+    [ "_perms", "d8/dc1/a06288.html#a2c9bd034968018bb631f4d5145c16fff", null ]
 ];

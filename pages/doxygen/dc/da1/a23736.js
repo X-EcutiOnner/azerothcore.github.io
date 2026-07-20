@@ -1,6 +1,6 @@
 var a23736 =
 [
-    [ "go_magtheridons_head", "dc/da1/a23736.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "dc/da1/a23736.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "dc/da1/a23736.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "HandleScriptEffect", "dc/da1/a23736.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
+    [ "PrepareSpellScript", "dc/da1/a23736.html#af475c0968aabaf56e8ca38950ad651f0", null ],
+    [ "Register", "dc/da1/a23736.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
 ];

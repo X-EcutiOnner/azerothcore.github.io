@@ -1,7 +1,6 @@
 var a27100 =
 [
-    [ "CalculateAmount", "db/d9a/a27100.html#adc34e5742173d039f6050d5ccc0a2cae", null ],
-    [ "PrepareAuraScript", "db/d9a/a27100.html#aa966d001c3687403dfa2b13e998ca241", null ],
-    [ "Register", "db/d9a/a27100.html#aeecb9756d4304ed2316b6d2a8f0d6ac4", null ],
-    [ "Validate", "db/d9a/a27100.html#af1eee4d8e966d66fea04173e7481b5ce", null ]
+    [ "HandleScript", "db/d9a/a27100.html#a54c724bd8786c894ecaa584c164c2e53", null ],
+    [ "PrepareSpellScript", "db/d9a/a27100.html#a4505b9196609ae9339fe7e5948963663", null ],
+    [ "Register", "db/d9a/a27100.html#ae293d6a2a477f716f357516781246069", null ]
 ];

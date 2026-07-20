@@ -1,17 +1,6 @@
 var a21924 =
 [
-    [ "npc_frosthound", "d4/db5/a21924.html#a90dc4d1debb64354154760b52f8b1129", null ],
-    [ "AttackStart", "d4/db5/a21924.html#adf6969c7670584747e407a3bede8c928", null ],
-    [ "EnterEvadeMode", "d4/db5/a21924.html#ad0a16989c8c65eaa58deec6f885719f3", null ],
-    [ "JustDied", "d4/db5/a21924.html#a5a20cbca9da2f80c02d0697c84689c7a", null ],
-    [ "JustEngagedWith", "d4/db5/a21924.html#a8c9d22bfd32c12b3cf60f89f6856b5a5", null ],
-    [ "JustSummoned", "d4/db5/a21924.html#a93858959a06e4f1aa014fca3044949bc", null ],
-    [ "OnCharmed", "d4/db5/a21924.html#aaf081193bdae7ef30c153a3d40dcefe7", null ],
-    [ "PassengerBoarded", "d4/db5/a21924.html#a0126be35e4bbb613c9e0a1a04bef3681", null ],
-    [ "Reset", "d4/db5/a21924.html#ac2056fafcb04a827c83bc199a89a8a74", null ],
-    [ "UpdateAI", "d4/db5/a21924.html#ab163e819369b6b90b5782ab8d1cecbaf", null ],
-    [ "WaypointReached", "d4/db5/a21924.html#a9f6238bd211a1a465815c8cdd9bac1d2", null ],
-    [ "WaypointReached", "d4/db5/a21924.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_completionWaypoint", "d4/db5/a21924.html#adfeb6a7a2755ebc0d1252cedf0f54727", null ],
-    [ "_summons", "d4/db5/a21924.html#a103a499ecce73bc4505a85a21c143e73", null ]
+    [ "npc_boneguard_footmanAI", "d4/db5/a21924.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "d4/db5/a21924.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "d4/db5/a21924.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

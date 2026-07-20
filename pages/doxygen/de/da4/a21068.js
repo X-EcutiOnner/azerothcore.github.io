@@ -1,6 +1,6 @@
 var a21068 =
 [
-    [ "HandleOnHit", "de/da4/a21068.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "de/da4/a21068.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "de/da4/a21068.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "boss_palehoofAI", "d3/dad/a21072.html", "d3/dad/a21072" ],
+    [ "boss_palehoof", "de/da4/a21068.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
+    [ "GetAI", "de/da4/a21068.html#ae33ca6e71b251214be50168a5940d058", null ]
 ];

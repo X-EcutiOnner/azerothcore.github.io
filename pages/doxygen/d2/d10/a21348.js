@@ -1,7 +1,7 @@
 var a21348 =
 [
-    [ "npc_warmage_violetstand", "d2/d10/a21348.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "d2/d10/a21348.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "d2/d10/a21348.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "d2/d10/a21348.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_azure_binder", "d2/d10/a21348.html#ae273e78765faeb3e9604b7ce89ef6e6c", null ],
+    [ "Reset", "d2/d10/a21348.html#a0a11617ac11bf6aacacc3b36ce90fdca", null ],
+    [ "UpdateAI", "d2/d10/a21348.html#add9f304212a1a10267e564cd939f3751", null ],
+    [ "_events", "d2/d10/a21348.html#a0026fdd57e09f02b46010d696bb0a5da", null ]
 ];

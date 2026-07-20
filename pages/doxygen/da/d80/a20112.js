@@ -1,5 +1,5 @@
 var a20112 =
 [
-    [ "achievement_flame_leviathan_shutout", "da/d80/a20112.html#a555e0d206b7f730665d301c7e03b23e6", null ],
-    [ "OnCheck", "da/d80/a20112.html#af548232f563fd387bc8ee25b696a2f99", null ]
+    [ "achievement_auriaya_crazy_cat_lady", "da/d80/a20112.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
+    [ "OnCheck", "da/d80/a20112.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
 ];

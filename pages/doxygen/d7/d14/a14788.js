@@ -1,7 +1,13 @@
 var a14788 =
 [
-    [ "npc_love_in_air_supply_sentry", "d7/d14/a14788.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
-    [ "MoveInLineOfSight", "d7/d14/a14788.html#a9df110324c74277e07183c7db231bbda", null ],
-    [ "UpdateAI", "d7/d14/a14788.html#aaa658222954f96d45b75daf83555f6f8", null ],
-    [ "lock", "d7/d14/a14788.html#a59bf67b114014542538165c21aa109a6", null ]
+    [ "npc_alexstraza_the_lifebinder", "d7/d14/a14788.html#a7c30258540803bde75843cb070b6a288", null ],
+    [ "MoveInLineOfSight", "d7/d14/a14788.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
+    [ "Reset", "d7/d14/a14788.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
+    [ "SetData", "d7/d14/a14788.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "sGossipSelect", "d7/d14/a14788.html#a642390a59ff46236dc3b429f371ea8cd", null ],
+    [ "UpdateAI", "d7/d14/a14788.html#ad13b21d571833210b1c069b7ea8bea05", null ],
+    [ "orphanGUID", "d7/d14/a14788.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
+    [ "phase", "d7/d14/a14788.html#a98216e43888854ac93f22169a0e253e5", null ],
+    [ "playerGUID", "d7/d14/a14788.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
+    [ "timer", "d7/d14/a14788.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
 ];

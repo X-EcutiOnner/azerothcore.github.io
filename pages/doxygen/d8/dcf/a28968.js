@@ -1,5 +1,6 @@
 var a28968 =
 [
-    [ "ID", "d8/dcf/a28968.html#a142c8a5e22234e6317ff113618559b8b", null ],
-    [ "Value", "d8/dcf/a28968.html#a693631ac3ce915a1c4adf565517eacf9", null ]
+    [ "Id", "d8/dcf/a28968.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
+    [ "SpellId", "d8/dcf/a28968.html#ae8c119bacf706916f331d3f316fb1347", null ],
+    [ "TypeFlags", "d8/dcf/a28968.html#aae92871758e9a738a888cacf0946f16b", null ]
 ];

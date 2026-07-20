@@ -1,7 +1,10 @@
 var a09768 =
 [
-    [ "AnyPlayerExactPositionInGameObjectRangeCheck", "df/d90/a09768.html#a51100c20d5b7f795f062dfaa5aa65017", null ],
-    [ "operator()", "df/d90/a09768.html#a0dd7216a026b7f90b293b2adf20a0191", null ],
-    [ "_go", "df/d90/a09768.html#a70e0b15948cf34a7c759885949560dcd", null ],
-    [ "_range", "df/d90/a09768.html#ad91342e50833e3b9d75c5e548248941f", null ]
+    [ "AnyAoETargetUnitInObjectRangeCheck", "df/d90/a09768.html#a93d850e2d5f094b97ca5c09bf1d236a9", null ],
+    [ "operator()", "df/d90/a09768.html#af9a0c32593544a73aae22cd397eef63a", null ],
+    [ "_spellInfo", "df/d90/a09768.html#a1317c9df0d5792ad3122ff1ed1a31458", null ],
+    [ "i_funit", "df/d90/a09768.html#aa00b184a24ea73293114f92126f58f24", null ],
+    [ "i_obj", "df/d90/a09768.html#aa4acf0089c978408e30b08d539f2512f", null ],
+    [ "i_range", "df/d90/a09768.html#ad386efa8206906fd99816694a6a8d69b", null ],
+    [ "i_targetForPlayer", "df/d90/a09768.html#af5ce329f3493b97f59c61c3e87af48b1", null ]
 ];

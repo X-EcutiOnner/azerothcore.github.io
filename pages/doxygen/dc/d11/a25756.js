@@ -1,9 +1,7 @@
 var a25756 =
 [
-    [ "CheckRequirement", "dc/d11/a25756.html#adab261a5221ca54b15cc414d291908fe", null ],
-    [ "HandleDummy", "dc/d11/a25756.html#abb7a734244bb18d75304a0510f9efb8d", null ],
-    [ "Load", "dc/d11/a25756.html#a418eef16d1e3aeff67013f45409c092a", null ],
-    [ "PrepareSpellScript", "dc/d11/a25756.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
-    [ "Register", "dc/d11/a25756.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
-    [ "Validate", "dc/d11/a25756.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
+    [ "OnRemove", "dc/d11/a25756.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
+    [ "PrepareAuraScript", "dc/d11/a25756.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
+    [ "Register", "dc/d11/a25756.html#a35a8adc4944fc2333488e72498f6d252", null ],
+    [ "Validate", "dc/d11/a25756.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
 ];

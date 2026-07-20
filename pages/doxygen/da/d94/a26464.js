@@ -1,11 +1,6 @@
 var a26464 =
 [
-    [ "CheckProc", "da/d94/a26464.html#aeeb075a2dcaf57b328e4196959c40390", null ],
-    [ "HandleApplyDoT", "da/d94/a26464.html#a4f832f97ae2f777c659876e20b7515a5", null ],
-    [ "HandleSeal", "da/d94/a26464.html#aca82977aa1ee943bc557a76d09dba147", null ],
-    [ "Load", "da/d94/a26464.html#a16545533c0a45b6bde0da3fbeaed75ae", null ],
-    [ "PrepareAuraScript", "da/d94/a26464.html#a9d33b5c75d975f6e7f0accdf7eb10155", null ],
-    [ "Register", "da/d94/a26464.html#a3030a2b5bb530abe673ab2cfae8351ce", null ],
-    [ "Validate", "da/d94/a26464.html#ade8e79f41a0ec1904f33b2628eac966e", null ],
-    [ "_isVengeance", "da/d94/a26464.html#a194bdf6e15ecf61533d40c0990e392a4", null ]
+    [ "FilterTargets", "da/d94/a26464.html#aad5d183d0d7ea229cbfc11f751536624", null ],
+    [ "PrepareSpellScript", "da/d94/a26464.html#a68ba19142ae6eb04a2547495233700df", null ],
+    [ "Register", "da/d94/a26464.html#a22c313409438f94d29ab3e236a56c115", null ]
 ];

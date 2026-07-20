@@ -1,7 +1,7 @@
 var a15148 =
 [
-    [ "npc_cos_chromie_middle", "d0/d8a/a15148.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "d0/d8a/a15148.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "d0/d8a/a15148.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "d0/d8a/a15148.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "OnPeriodic", "d0/d8a/a15148.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
+    [ "PrepareAuraScript", "d0/d8a/a15148.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
+    [ "Register", "d0/d8a/a15148.html#aeb388d608830aeb3b30f707304403b41", null ],
+    [ "Validate", "d0/d8a/a15148.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
 ];

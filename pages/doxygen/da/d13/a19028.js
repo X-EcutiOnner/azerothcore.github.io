@@ -1,7 +1,6 @@
 var a19028 =
 [
-    [ "HandleEffectPeriodic", "da/d13/a19028.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
-    [ "PrepareAuraScript", "da/d13/a19028.html#ae040da0db1147652266e1f373838df37", null ],
-    [ "Register", "da/d13/a19028.html#ab11b84522134ee4d13504df3c19f69b8", null ],
-    [ "Validate", "da/d13/a19028.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
+    [ "npc_captain_brandonAI", "d8/d2c/a19032.html", "d8/d2c/a19032" ],
+    [ "npc_captain_brandon", "da/d13/a19028.html#ad522dd280882d894b5d32e7c888f2360", null ],
+    [ "GetAI", "da/d13/a19028.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
 ];

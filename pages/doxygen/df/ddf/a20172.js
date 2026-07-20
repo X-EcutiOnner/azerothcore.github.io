@@ -1,7 +1,8 @@
 var a20172 =
 [
-    [ "npc_ulduar_saronite_vapors", "df/ddf/a20172.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
-    [ "IsSummonedBy", "df/ddf/a20172.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
-    [ "JustDied", "df/ddf/a20172.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
-    [ "_instance", "df/ddf/a20172.html#ad304110ff1bfc33066cd17f04cf40181", null ]
+    [ "FilterTargets", "df/ddf/a20172.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
+    [ "HandleScript", "df/ddf/a20172.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
+    [ "PrepareSpellScript", "df/ddf/a20172.html#aea46762f43b31923617f740e0545fe98", null ],
+    [ "Register", "df/ddf/a20172.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
+    [ "Validate", "df/ddf/a20172.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
 ];

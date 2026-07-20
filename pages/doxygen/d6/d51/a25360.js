@@ -1,8 +1,5 @@
 var a25360 =
 [
-    [ "OnApply", "d6/d51/a25360.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
-    [ "OnRemove", "d6/d51/a25360.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
-    [ "PrepareAuraScript", "d6/d51/a25360.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
-    [ "Register", "d6/d51/a25360.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
-    [ "Validate", "d6/d51/a25360.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
+    [ "PrepareSpellScript", "d6/d51/a25360.html#a53fe40a7d280c5fcc733d2647ef09b41", null ],
+    [ "Register", "d6/d51/a25360.html#ae2d3eb8ff055aa66a00567af75c65138", null ]
 ];

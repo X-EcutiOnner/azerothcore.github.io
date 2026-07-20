@@ -1,7 +1,6 @@
 var a17084 =
 [
-    [ "HandleEffectRemove", "dc/dd2/a17084.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
-    [ "Load", "dc/dd2/a17084.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
-    [ "PrepareAuraScript", "dc/dd2/a17084.html#a97411ddf89a10a962ba74d294eb653e7", null ],
-    [ "Register", "dc/dd2/a17084.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
+    [ "npc_concentrated_ballAI", "db/dbd/a17088.html", "db/dbd/a17088" ],
+    [ "npc_concentrated_ball", "dc/dd2/a17084.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
+    [ "GetAI", "dc/dd2/a17084.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
 ];

@@ -1,19 +1,9 @@
 var a13052 =
 [
-    [ "boss_malchezaar", "dc/d6d/a13052.html#a68adb0f05177316f9e39a48669f60829", null ],
-    [ "clearweapons", "dc/d6d/a13052.html#a354e07cb1f9ae86d96d07cb80f911474", null ],
-    [ "EnfeebleResetHealth", "dc/d6d/a13052.html#a7fcaec7c991f9d6df816aef650e53855", null ],
-    [ "Initialize", "dc/d6d/a13052.html#a1b48e2c117ac4c60f11310e43d34264b", null ],
-    [ "JustDied", "dc/d6d/a13052.html#aee066b4a67c61ae70fc487adf0be00e0", null ],
-    [ "JustEngagedWith", "dc/d6d/a13052.html#a5cfd1284c572f72ecde9d9ad94922d2b", null ],
-    [ "KilledUnit", "dc/d6d/a13052.html#a0d91be1d9ad3a0876bec8b694edd44be", null ],
-    [ "MaxSpawns", "dc/d6d/a13052.html#a25ef9558fcccee430ef92703af903d91", null ],
-    [ "PickTarget", "dc/d6d/a13052.html#a2c825f7f116891601ef2c3809c7db15c", null ],
-    [ "Reset", "dc/d6d/a13052.html#a72b54fd786c064114df3b8a09835e841", null ],
-    [ "SpawnInfernal", "dc/d6d/a13052.html#a58d1823940988f6f55aec8a5da44fd54", null ],
-    [ "SpellHitTarget", "dc/d6d/a13052.html#a9eb75b54ea480b38590695635a9cb4fe", null ],
-    [ "_enfeebleTargets", "dc/d6d/a13052.html#adc405cdbcc17eabade5794a7801c5323", null ],
-    [ "_phase", "dc/d6d/a13052.html#a94be6cf7bb8cd7857fe82638d0d0e853", null ],
-    [ "infernalTargets", "dc/d6d/a13052.html#a55b8c2dd25af193e078fdb0315863783", null ],
-    [ "relays", "dc/d6d/a13052.html#a7695c12779ada381cb04085dcf8dbb2c", null ]
+    [ "HandleEffectApply", "dc/d6d/a13052.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "dc/d6d/a13052.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "dc/d6d/a13052.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "dc/d6d/a13052.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "dc/d6d/a13052.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "dc/d6d/a13052.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

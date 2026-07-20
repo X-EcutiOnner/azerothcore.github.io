@@ -1,8 +1,10 @@
 var a06040 =
 [
-    [ "Statements", "d5/d32/a06040.html#a7527387a1261a4307515ed0c56dd6520", null ],
-    [ "CharacterDatabaseConnection", "d5/d32/a06040.html#aa7308d6978756861043c1c0c861bfffc", null ],
-    [ "CharacterDatabaseConnection", "d5/d32/a06040.html#af7c6148029613ce06159b5867bba9cad", null ],
-    [ "~CharacterDatabaseConnection", "d5/d32/a06040.html#a01224074cff69c86792d0b77e804d7f4", null ],
-    [ "DoPrepareStatements", "d5/d32/a06040.html#afbbb8d2bb335119e5bc8b37764301db5", null ]
+    [ "BasicStatementTask", "d5/d32/a06040.html#a11c6f1259d1d6d9c50211784636e45c4", null ],
+    [ "~BasicStatementTask", "d5/d32/a06040.html#a0db608b5bae77e5f83b0e1bf5850719f", null ],
+    [ "Execute", "d5/d32/a06040.html#a7f500736cc0ec4cddf94510927989d4d", null ],
+    [ "GetFuture", "d5/d32/a06040.html#aa574f8cc00ac956d23f93c7e96864fc9", null ],
+    [ "m_has_result", "d5/d32/a06040.html#a8bfae5e5695a6bf6bf796d95efa21e7e", null ],
+    [ "m_result", "d5/d32/a06040.html#af70bc95cbf0df481dacf034ff78d2eb8", null ],
+    [ "m_sql", "d5/d32/a06040.html#a9320235413d1c4736301070e1faeb161", null ]
 ];

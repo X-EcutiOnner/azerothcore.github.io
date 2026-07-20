@@ -1,5 +1,7 @@
 var a17408 =
 [
-    [ "endPosition", "da/dfe/a17408.html#a8a88b0191d28ef6af8f41db627552602", null ],
-    [ "entry", "da/dfe/a17408.html#ac4e55af666e269440953ced038c1a8de", null ]
+    [ "HandlePeriodicTick", "da/dfe/a17408.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
+    [ "PrepareAuraScript", "da/dfe/a17408.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
+    [ "Register", "da/dfe/a17408.html#a4653ccb0d93d056adf3b14056865787c", null ],
+    [ "Validate", "da/dfe/a17408.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
 ];

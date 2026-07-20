@@ -1,6 +1,7 @@
 var a17784 =
 [
-    [ "npc_stinky_iccAI", "d8/dba/a17788.html", "d8/dba/a17788" ],
-    [ "npc_stinky_icc", "d2/dfc/a17784.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
-    [ "GetAI", "d2/dfc/a17784.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
+    [ "OnProc", "d2/dfc/a17784.html#a5b6e96abb900da33657cdbbd137138e3", null ],
+    [ "PrepareAuraScript", "d2/dfc/a17784.html#a5502476536a923e77af67c4bbcf005e3", null ],
+    [ "Register", "d2/dfc/a17784.html#aca08edf219504156d6157c95702bb815", null ],
+    [ "Validate", "d2/dfc/a17784.html#a52b1231f37e8b3d810614365659a98b6", null ]
 ];

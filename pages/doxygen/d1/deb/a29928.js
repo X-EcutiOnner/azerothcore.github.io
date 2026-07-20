@@ -1,12 +1,8 @@
 var a29928 =
 [
-    [ "Bounds", "d1/deb/a29928.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
-    [ "DoodadSet", "d1/deb/a29928.html#abbf6e50e76b120be17215cfcf227a524", null ],
-    [ "Flags", "d1/deb/a29928.html#a06f5e96119239356eea45b9acdadf6e1", null ],
-    [ "Id", "d1/deb/a29928.html#a952442c180e8d3710af31272b54eb6ec", null ],
-    [ "NameSet", "d1/deb/a29928.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
-    [ "Position", "d1/deb/a29928.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
-    [ "Rotation", "d1/deb/a29928.html#a2c04715e800b9f375c287cced96643d1", null ],
-    [ "Scale", "d1/deb/a29928.html#a142716fecae07abc013c7f3bd053c0ea", null ],
-    [ "UniqueId", "d1/deb/a29928.html#a749e920740b9e91547fe1f87933d1c7d", null ]
+    [ "ADT_file", "d1/deb/a29928.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e", null ],
+    [ "~ADT_file", "d1/deb/a29928.html#a79fe542f34b0e7bf668e7e5ff94a7ded", null ],
+    [ "free", "d1/deb/a29928.html#a8fc207b8cc83596577166a0008965dc6", null ],
+    [ "prepareLoadedData", "d1/deb/a29928.html#ac9f498cb9c8e21a1947be87904e3760b", null ],
+    [ "a_grid", "d1/deb/a29928.html#aad5263c4df4ab9d072f217ec8c19441c", null ]
 ];

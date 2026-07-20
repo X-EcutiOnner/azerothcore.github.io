@@ -1,8 +1,6 @@
 var a27088 =
 [
-    [ "ApplyDebuff", "d8/d5d/a27088.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
-    [ "PrepareSpellScript", "d8/d5d/a27088.html#aa37525d089348f58e3d871830caa3417", null ],
-    [ "Register", "d8/d5d/a27088.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
-    [ "RemoveInvalidTargets", "d8/d5d/a27088.html#a0451b75aa962065a01a5806992e01b16", null ],
-    [ "Validate", "d8/d5d/a27088.html#ac69d777fdf7a2d3c527621dee256690c", null ]
+    [ "PrepareAuraScript", "d8/d5d/a27088.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
+    [ "Register", "d8/d5d/a27088.html#a91f4b2b8796c7efab2f622893a393619", null ],
+    [ "AuraEffectHandleModes", "d8/d5d/a27088.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
 ];

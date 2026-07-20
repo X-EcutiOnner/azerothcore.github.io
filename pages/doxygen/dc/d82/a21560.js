@@ -1,14 +1,14 @@
 var a21560 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "dc/d82/a21560.html#a84beab3be0d7e5d5d3674a57b1928f09", null ],
-    [ "ChangeImage", "dc/d82/a21560.html#a815e5c67b282e2840676b5453d94d5dc", null ],
-    [ "MovementInform", "dc/d82/a21560.html#a2ed09d31771e9c225d8d8b40ba8f0f82", null ],
-    [ "Reset", "dc/d82/a21560.html#a71410a3e3e5134311bf7bc2ef3051eb3", null ],
-    [ "StoreTargets", "dc/d82/a21560.html#a0732307643a442bc3f070b9cc91d78c9", null ],
-    [ "TurnAudience", "dc/d82/a21560.html#afa7fce3a9cccfcc7b088e72df9f312a4", null ],
-    [ "UpdateAI", "dc/d82/a21560.html#a454984668ca58c8a6fdd9ad4f630dece", null ],
-    [ "_events", "dc/d82/a21560.html#a907626beb601f789a725d88d45689eb2", null ],
-    [ "audienceList", "dc/d82/a21560.html#a5bdb09658bd93e46387df8eeb8cf0221", null ],
-    [ "imageList", "dc/d82/a21560.html#a8177ed5bc5fd54b98f2f36c9389b8099", null ],
-    [ "talkWing", "dc/d82/a21560.html#ace957ffe4fba8f229946d61d63c1798c", null ]
+    [ "npc_dalaran_mageAI", "dc/d82/a21560.html#ae896a065d2975c5f4d0a125261796215", null ],
+    [ "Initialize", "dc/d82/a21560.html#a8ede1e1e4599f288f5a8c20c40c11236", null ],
+    [ "JustEngagedWith", "dc/d82/a21560.html#a05e9c672ab73029c70fa3d2605b6174d", null ],
+    [ "Reset", "dc/d82/a21560.html#adee723525f46e5476e135e3043f5feb9", null ],
+    [ "UpdateAI", "dc/d82/a21560.html#ab3d5812e38c1fcc1c01af3fdbd27a61e", null ],
+    [ "blink_timer", "dc/d82/a21560.html#ae888e0e5d3302e0a47b6e3d41f166c67", null ],
+    [ "blizzard_timer", "dc/d82/a21560.html#a5da62a7ee9abf7a94c2543076d6479a6", null ],
+    [ "CoC_Timer", "dc/d82/a21560.html#a8a86c02e2c3759ec1f64087943d37b26", null ],
+    [ "frostfire_timer", "dc/d82/a21560.html#ab91070d41571e0070a7c92bf0694f4cc", null ],
+    [ "frostnova_timer", "dc/d82/a21560.html#a77e9a7686cece7ee97236ce6386f82bf", null ],
+    [ "restoremana_timer", "dc/d82/a21560.html#a33da20a649faa6ee7e61db79846ac4a7", null ]
 ];

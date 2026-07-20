@@ -1,9 +1,9 @@
 var a29612 =
 [
-    [ "CreateSpellInfo", "da/d17/a29612.html#a83fe2676ce2ae1374600de46967aeae5", null ],
-    [ "SetUp", "da/d17/a29612.html#abd89fcaf8f8c38b5d992a21430f9ecdb", null ],
-    [ "TearDown", "da/d17/a29612.html#acb5697251398888a4cc282c359cfc4ec", null ],
-    [ "_originalWorld", "da/d17/a29612.html#ae44f699ee1acedae6ead179c3f012594", null ],
-    [ "_spellInfos", "da/d17/a29612.html#ac06654664782d249c4233f79990c817b", null ],
-    [ "_worldMock", "da/d17/a29612.html#a98d5f98dfc4d63705920b7b164530022", null ]
+    [ "SetUp", "da/d17/a29612.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
+    [ "TearDown", "da/d17/a29612.html#a2a331c0ef77503c08c37e226a4e0a33b", null ],
+    [ "_distributor", "da/d17/a29612.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
+    [ "_mockRewarder", "da/d17/a29612.html#ad466c2751d8e9739db56f9f82d15deff", null ],
+    [ "_previousWorld", "da/d17/a29612.html#aef822a2309df5d13af31ea5a5da74df7", null ],
+    [ "_worldMock", "da/d17/a29612.html#a00b242d182fd7eacc93efc9d4f3e914f", null ]
 ];

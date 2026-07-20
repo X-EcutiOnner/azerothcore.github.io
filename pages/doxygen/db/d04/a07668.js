@@ -1,12 +1,10 @@
 var a07668 =
 [
-    [ "BGQueueInviteEvent", "db/d04/a07668.html#acee27900339fdcebbfd21bb0e602654d", null ],
-    [ "~BGQueueInviteEvent", "db/d04/a07668.html#a09f9f27ecbc273b25e5941966a4fa925", null ],
-    [ "Abort", "db/d04/a07668.html#a07f5520ab61cdfd4eadc5d0815067135", null ],
-    [ "Execute", "db/d04/a07668.html#a444aceb1c29c951271bab5186a7f3064", null ],
-    [ "m_ArenaType", "db/d04/a07668.html#a1b7d1161d46578606396efd515ab1739", null ],
-    [ "m_BgInstanceGUID", "db/d04/a07668.html#ad9adc44cc1cde3b0b820740852bdb3ce", null ],
-    [ "m_BgTypeId", "db/d04/a07668.html#a608c24288f24bc4da77124257320c741", null ],
-    [ "m_PlayerGuid", "db/d04/a07668.html#a200b4bcd336846df60ec11de8d829d7d", null ],
-    [ "m_RemoveTime", "db/d04/a07668.html#a4c78e5a74eaf859db40772008557201f", null ]
+    [ "BattlegroundChatBuilder", "db/d04/a07668.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
+    [ "do_helper", "db/d04/a07668.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
+    [ "operator()", "db/d04/a07668.html#ab84296c320b09a387de6e6e6a2326b83", null ],
+    [ "_args", "db/d04/a07668.html#a32a72bf1110179cc58dcf2df914c7389", null ],
+    [ "_msgtype", "db/d04/a07668.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
+    [ "_source", "db/d04/a07668.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
+    [ "_textId", "db/d04/a07668.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
 ];

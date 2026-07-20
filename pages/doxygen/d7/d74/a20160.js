@@ -1,5 +1,7 @@
 var a20160 =
 [
-    [ "achievement_freya_getting_back_to_nature", "d7/d74/a20160.html#aa4078b573a9335fc52c9b9609590b12f", null ],
-    [ "OnCheck", "d7/d74/a20160.html#a850a32450379284784f019a5eb5ff0ff", null ]
+    [ "boss_flame_leviathan_safety_container", "d7/d74/a20160.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
+    [ "MovementInform", "d7/d74/a20160.html#a42842de299fd9346cc0d61b649b652a4", null ],
+    [ "UpdateAI", "d7/d74/a20160.html#a55119d077f905a8207ad2afbe31f17a4", null ],
+    [ "_allowTimer", "d7/d74/a20160.html#a70134398c054c837407d6a22591a2d96", null ]
 ];

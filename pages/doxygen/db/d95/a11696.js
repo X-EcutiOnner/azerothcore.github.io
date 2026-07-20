@@ -1,6 +1,7 @@
 var a11696 =
 [
-    [ "ChannelTargetData", "db/d95/a11696.html#a26f2a2037750712d8718d9537603e3a1", null ],
-    [ "channelGUID", "db/d95/a11696.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
-    [ "spellDst", "db/d95/a11696.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
+    [ "MapSessionFilter", "db/d95/a11696.html#ad11a700c36f8f45640402e96edc74b49", null ],
+    [ "~MapSessionFilter", "db/d95/a11696.html#a82960e741c8f64d24a764a915f14e2b8", null ],
+    [ "Process", "db/d95/a11696.html#a54483596fe2a5a0d30fab9a13506b375", null ],
+    [ "ProcessUnsafe", "db/d95/a11696.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
 ];

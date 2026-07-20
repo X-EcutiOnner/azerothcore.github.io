@@ -1,7 +1,6 @@
 var a17736 =
 [
-    [ "FilterTargets", "d6/d59/a17736.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
-    [ "Load", "d6/d59/a17736.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
-    [ "PrepareSpellScript", "d6/d59/a17736.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
-    [ "Register", "d6/d59/a17736.html#a33342cc676adaabe5e3896fa559631b7", null ]
+    [ "KnockIntoAir", "d6/d59/a17736.html#a1f9fb1f258613ca6657abba26969961f", null ],
+    [ "PrepareSpellScript", "d6/d59/a17736.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
+    [ "Register", "d6/d59/a17736.html#a35a7758630c1769228fedff84ad929e8", null ]
 ];

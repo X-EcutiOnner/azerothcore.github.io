@@ -1,13 +1,14 @@
 var a15476 =
 [
-    [ "boss_cthun", "d0/d43/a15476.html#a287ee7b65708971e4fdfa7b814486935", null ],
-    [ "DoAction", "d0/d43/a15476.html#a04ae38b67d358f1d34820b855aab3869", null ],
-    [ "JustDied", "d0/d43/a15476.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
-    [ "JustEngagedWith", "d0/d43/a15476.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
-    [ "Reset", "d0/d43/a15476.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
-    [ "ScheduleTasks", "d0/d43/a15476.html#a5a0514e56217bb3b30b22b2681542adb", null ],
-    [ "SummonedCreatureDies", "d0/d43/a15476.html#a49d76bb4cf30ee66fae6114313394961", null ],
-    [ "UpdateAI", "d0/d43/a15476.html#a7d2685597f1eec2459fe509e5b97681f", null ],
-    [ "_fleshTentaclesKilled", "d0/d43/a15476.html#a139de83ae488c40d40a4587509cd197d", null ],
-    [ "WisperTimer", "d0/d43/a15476.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
+    [ "boss_buru", "d0/d43/a15476.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
+    [ "ChaseNewVictim", "d0/d43/a15476.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
+    [ "DamageTaken", "d0/d43/a15476.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
+    [ "EnterEvadeMode", "d0/d43/a15476.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
+    [ "JustDied", "d0/d43/a15476.html#a6d8f3265dca889bc49e747471da8597f", null ],
+    [ "JustEngagedWith", "d0/d43/a15476.html#a61eeeb3eb1684943e94367a9318b3035", null ],
+    [ "KilledUnit", "d0/d43/a15476.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
+    [ "ManipulateEggs", "d0/d43/a15476.html#a4f8a92eab729c975443579560edb03a3", null ],
+    [ "SpellHit", "d0/d43/a15476.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
+    [ "UpdateAI", "d0/d43/a15476.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
+    [ "_phase", "d0/d43/a15476.html#aa395967af50f2a422bf1e81a087efc43", null ]
 ];

@@ -1,6 +1,6 @@
 var a20208 =
 [
-    [ "id", "d9/dad/a20208.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
-    [ "x", "d9/dad/a20208.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
-    [ "y", "d9/dad/a20208.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
+    [ "PrepareSpellScript", "d9/dad/a20208.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
+    [ "RecalculateDamage", "d9/dad/a20208.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
+    [ "Register", "d9/dad/a20208.html#af2b5382122be41a6b1ee4ab721b417da", null ]
 ];

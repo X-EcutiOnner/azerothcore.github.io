@@ -1,8 +1,6 @@
 var a25736 =
 [
-    [ "HandleDummy", "df/ddc/a25736.html#a5a628501371e7af224ce44594459b24d", null ],
-    [ "Load", "df/ddc/a25736.html#aeeab8e1eadb83827b035e07887a59ad1", null ],
-    [ "PrepareSpellScript", "df/ddc/a25736.html#a163c9510d29cc2fb454a9d8b437f0496", null ],
-    [ "Register", "df/ddc/a25736.html#aa46a2b76153ffdbea565374899ab31a3", null ],
-    [ "Validate", "df/ddc/a25736.html#a7a15b3f6aa7ca1458895b445c90509ee", null ]
+    [ "HandleSummon", "df/ddc/a25736.html#ad1ee0eb347454d50216610a266226d68", null ],
+    [ "PrepareSpellScript", "df/ddc/a25736.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
+    [ "Register", "df/ddc/a25736.html#aa145041af68291f107c3ff11ce15b85e", null ]
 ];

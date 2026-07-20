@@ -1,5 +1,8 @@
 var a05033 =
 [
-    [ "_CRT_SECURE_NO_DEPRECATE", "d1/dba/a05033.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "MverMagic", "d1/dba/a05033.html#a076cdc3e61f69e52913492840fc864cf", null ]
+    [ "ModelIgnoreFlags", "d1/dba/a05033.html#a6996c44f3ac72cd9dc04515186d2da28", [
+      [ "Nothing", "d1/dba/a05033.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
+      [ "M2", "d1/dba/a05033.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
+    ] ],
+    [ "operator&", "d1/dba/a05033.html#a3c25bdb4d30c345cd6760935e2c456f4", null ]
 ];

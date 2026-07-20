@@ -1,6 +1,7 @@
 var a13888 =
 [
-    [ "npc_professor_phizzlethorpeAI", "de/dfe/a13892.html", "de/dfe/a13892" ],
-    [ "npc_professor_phizzlethorpe", "d1/df3/a13888.html#a8d32b4a107533c81033c617b0b97027d", null ],
-    [ "GetAI", "d1/df3/a13888.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
+    [ "HandleScriptEffect", "d1/df3/a13888.html#ae631c634c77cc207338e3549a664969b", null ],
+    [ "PrepareSpellScript", "d1/df3/a13888.html#ac9f825f10512be5849c46460e9cdbec8", null ],
+    [ "Register", "d1/df3/a13888.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
+    [ "Validate", "d1/df3/a13888.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
 ];

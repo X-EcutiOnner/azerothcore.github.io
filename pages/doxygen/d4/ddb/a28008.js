@@ -1,5 +1,6 @@
 var a28008 =
 [
-    [ "item_incendiary_explosives", "d4/ddb/a28008.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "d4/ddb/a28008.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "go_flamesAI", "dd/d3a/a28012.html", "dd/d3a/a28012" ],
+    [ "go_flames", "d4/ddb/a28008.html#a75d49202eaf2078b8276e59944d1ec89", null ],
+    [ "GetAI", "d4/ddb/a28008.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
 ];

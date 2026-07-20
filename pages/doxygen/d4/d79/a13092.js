@@ -1,6 +1,6 @@
 var a13092 =
 [
-    [ "npc_sanguine_spirit", "d4/d79/a13092.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
-    [ "Reset", "d4/d79/a13092.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
-    [ "UpdateAI", "d4/d79/a13092.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
+    [ "HandleTriggerSpell", "d4/d79/a13092.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
+    [ "PrepareSpellScript", "d4/d79/a13092.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
+    [ "Register", "d4/d79/a13092.html#a7e9c140aecea892ee6971bc97d385640", null ]
 ];

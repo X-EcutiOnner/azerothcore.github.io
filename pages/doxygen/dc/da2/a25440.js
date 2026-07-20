@@ -1,5 +1,6 @@
 var a25440 =
 [
-    [ "PrepareSpellScript", "dc/da2/a25440.html#a999d5173e12b643e0bdcefcd099f65d1", null ],
-    [ "Register", "dc/da2/a25440.html#afd92511fb578c1df33248dba5055315e", null ]
+    [ "CheckCast", "dc/da2/a25440.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
+    [ "PrepareSpellScript", "dc/da2/a25440.html#a0bc2de519e0c84688fad609444d28afa", null ],
+    [ "Register", "dc/da2/a25440.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
 ];

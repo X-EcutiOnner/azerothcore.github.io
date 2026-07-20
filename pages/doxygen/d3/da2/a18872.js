@@ -1,8 +1,13 @@
 var a18872 =
 [
-    [ "npc_rotting_frost_giantAI", "d3/da2/a18872.html#a7b412075e17a81bf50aba63f96c16e53", null ],
-    [ "JustDied", "d3/da2/a18872.html#a68b4e823de82fdfd31ccf765192e8768", null ],
-    [ "Reset", "d3/da2/a18872.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
-    [ "UpdateAI", "d3/da2/a18872.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
-    [ "_events", "d3/da2/a18872.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
+    [ "npc_risen_archmageAI", "d3/da2/a18872.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
+    [ "CanAIAttack", "d3/da2/a18872.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
+    [ "DoAction", "d3/da2/a18872.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
+    [ "JustEnteredCombat", "d3/da2/a18872.html#a50bd33c1b28b3691f42a5f167f27e342", null ],
+    [ "JustSummoned", "d3/da2/a18872.html#aff6e86057086db1319bb680e52e41634", null ],
+    [ "Reset", "d3/da2/a18872.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
+    [ "UpdateAI", "d3/da2/a18872.html#ae78dc64f858573b234210ca175e5bdd9", null ],
+    [ "_events", "d3/da2/a18872.html#a6dff9ff5332c0bc337840882689f47ed", null ],
+    [ "_instance", "d3/da2/a18872.html#a1b4e12b199bf3ada517c895c5f387c4a", null ],
+    [ "_isInitialArchmage", "d3/da2/a18872.html#ac871eeab6510fa9f5e8f38f35f299149", null ]
 ];

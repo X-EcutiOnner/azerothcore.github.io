@@ -1,12 +1,8 @@
 var a15176 =
 [
-    [ "boss_lieutenant_drake", "d8/d47/a15176.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
-    [ "InitializeAI", "d8/d47/a15176.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
-    [ "JustDied", "d8/d47/a15176.html#aca7654e30aac96fa509f99f3447121ec", null ],
-    [ "JustEngagedWith", "d8/d47/a15176.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
-    [ "KilledUnit", "d8/d47/a15176.html#a833c889c28ea35a6198fe753b604a8ed", null ],
-    [ "MovementInform", "d8/d47/a15176.html#aec6e332bc5739552cbbec27569c55759", null ],
-    [ "UpdateAI", "d8/d47/a15176.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
-    [ "pathId", "d8/d47/a15176.html#ac63f9c885296a797799c0cd83b0ade64", null ],
-    [ "runSecondPath", "d8/d47/a15176.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
+    [ "hyjalTyrandeAI", "d8/d47/a15176.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
+    [ "JustDied", "d8/d47/a15176.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
+    [ "JustEngagedWith", "d8/d47/a15176.html#a158589b567d22c8f6e0be462bad8299d", null ],
+    [ "Reset", "d8/d47/a15176.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
+    [ "UpdateAI", "d8/d47/a15176.html#a9e825f9d87df6227b73eb965488eff8a", null ]
 ];

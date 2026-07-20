@@ -1,7 +1,6 @@
 var a25676 =
 [
-    [ "HandleScript", "d3/d3e/a25676.html#a5b35bbac405dc2b03f195cb29786d5a6", null ],
-    [ "Load", "d3/d3e/a25676.html#a61f1a4514e9900e4e14fded3c0b05593", null ],
-    [ "PrepareSpellScript", "d3/d3e/a25676.html#abfac1629b7724a3b17b94480c31867af", null ],
-    [ "Register", "d3/d3e/a25676.html#a62b9c194106e261245496441176c8d53", null ]
+    [ "HandleDummy", "d3/d3e/a25676.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
+    [ "PrepareSpellScript", "d3/d3e/a25676.html#a80b89fbd2506191b897dcf367ff11500", null ],
+    [ "Register", "d3/d3e/a25676.html#a522730e5ba844728c0b3d6f423cd123a", null ]
 ];

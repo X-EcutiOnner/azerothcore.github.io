@@ -1,6 +1,7 @@
 var a23260 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d0/d54/a23264.html", "d0/d54/a23264" ],
-    [ "instance_hellfire_ramparts", "dc/dbc/a23260.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
-    [ "GetInstanceScript", "dc/dbc/a23260.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
+    [ "npc_underbog_mushroom", "dc/dbc/a23260.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "dc/dbc/a23260.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "dc/dbc/a23260.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "dc/dbc/a23260.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

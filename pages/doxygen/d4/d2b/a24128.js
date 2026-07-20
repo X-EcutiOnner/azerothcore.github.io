@@ -1,6 +1,6 @@
 var a24128 =
 [
-    [ "FilterTargets", "d4/d2b/a24128.html#adab73c94c659d7421c9c6887d956cd83", null ],
-    [ "PrepareSpellScript", "d4/d2b/a24128.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
-    [ "Register", "d4/d2b/a24128.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
+    [ "PrepareSpellScript", "d4/d2b/a24128.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
+    [ "Register", "d4/d2b/a24128.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
+    [ "SetDest", "d4/d2b/a24128.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
 ];

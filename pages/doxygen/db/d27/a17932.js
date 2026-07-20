@@ -1,6 +1,6 @@
 var a17932 =
 [
-    [ "IgbTeleportOnVictoryCheck", "db/d27/a17932.html#a29ee8cac93b9920e598da9205406e608", null ],
-    [ "operator()", "db/d27/a17932.html#acf85943e238179e911434358f1593be2", null ],
-    [ "_inst", "db/d27/a17932.html#a015353ecb66da16c697152b7ad3c527e", null ]
+    [ "npc_gunshipAI", "d9/d2c/a17936.html", "d9/d2c/a17936" ],
+    [ "npc_gunship", "db/d27/a17932.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
+    [ "GetAI", "db/d27/a17932.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
 ];

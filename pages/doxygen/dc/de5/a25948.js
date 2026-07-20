@@ -1,7 +1,10 @@
 var a25948 =
 [
-    [ "HandleDummy", "dc/de5/a25948.html#a334563491c3cbb9daa9d97dad738e9e5", null ],
-    [ "PrepareSpellScript", "dc/de5/a25948.html#a69fe453f3c6764c3977c539d5fc71049", null ],
-    [ "Register", "dc/de5/a25948.html#af81469f371224a3180d73b3cf8cf001a", null ],
-    [ "Validate", "dc/de5/a25948.html#af0ab473a4ec7f1eebb70d0f2344de8ca", null ]
+    [ "CalcPeriodic", "dc/de5/a25948.html#a6ec300503503fa6f12a48a8494d41edd", null ],
+    [ "Load", "dc/de5/a25948.html#a349827fe659ff3bee0a5dfc677c04825", null ],
+    [ "PrepareAuraScript", "dc/de5/a25948.html#a8c12c4ae3835322602347b654d96a8b7", null ],
+    [ "Register", "dc/de5/a25948.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
+    [ "Update", "dc/de5/a25948.html#afa9e6eec798c354231b5f95e260c7111", null ],
+    [ "Validate", "dc/de5/a25948.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
+    [ "_spell_id", "dc/de5/a25948.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
 ];

@@ -1,6 +1,6 @@
 var a16708 =
 [
-    [ "npc_anubarak_spikeAI", "de/df2/a16712.html", "de/df2/a16712" ],
-    [ "npc_anubarak_spike", "d0/dd5/a16708.html#a4e96de1910c23311ad4644960ccd5022", null ],
-    [ "GetAI", "d0/dd5/a16708.html#a7d55b321eb7e595fe5886dc382134947", null ]
+    [ "FilterTargets", "d0/dd5/a16708.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
+    [ "PrepareSpellScript", "d0/dd5/a16708.html#a5ede43deece629a38f5482280983b59a", null ],
+    [ "Register", "d0/dd5/a16708.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
 ];

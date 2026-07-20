@@ -1,7 +1,14 @@
 var a16488 =
 [
-    [ "OnApply", "d6/d62/a16488.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
-    [ "PrepareAuraScript", "d6/d62/a16488.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
-    [ "Register", "d6/d62/a16488.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
-    [ "Validate", "d6/d62/a16488.html#a2c9e4d82bd25f439e01a05700563b122", null ]
+    [ "boss_baltharus_the_warbornAI", "d6/d62/a16488.html#adaf6cb6ab81a461b202d40900b4b744c", null ],
+    [ "DoAction", "d6/d62/a16488.html#ab22f46e2514c10ce0e8141b3f69f069d", null ],
+    [ "InitializeAI", "d6/d62/a16488.html#ac188db2a727e2fb3c411f8616f8a2f41", null ],
+    [ "JustDied", "d6/d62/a16488.html#aaeb3e9b1bd25464cec4a1b0adf88afbe", null ],
+    [ "JustEngagedWith", "d6/d62/a16488.html#a4b670f4d89f9ed9ffeebf9d9426d79dc", null ],
+    [ "JustReachedHome", "d6/d62/a16488.html#ab178ccb3ee8bfa2649f03bfc18f1e424", null ],
+    [ "JustSummoned", "d6/d62/a16488.html#a7947c96290ea2cbe1b7ed6b6a8db65fe", null ],
+    [ "KilledUnit", "d6/d62/a16488.html#adb1a9e2af865292215c02cc1fb959cd3", null ],
+    [ "Reset", "d6/d62/a16488.html#a68e503ddac7be2f4e08d68e64aa2e725", null ],
+    [ "UpdateAI", "d6/d62/a16488.html#abe2e7188e33e70d52ab1985f821fa9c5", null ],
+    [ "_introDone", "d6/d62/a16488.html#a463209610cbc8e34d9839abeaf6df0e6", null ]
 ];

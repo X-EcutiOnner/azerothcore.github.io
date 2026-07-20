@@ -1,13 +1,7 @@
 var a14692 =
 [
-    [ "go_firework_show", "d6/dac/a14692.html#a42123490a9752f2187023f3f3ae56333", null ],
-    [ "InitShow", "d6/dac/a14692.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
-    [ "SpawnNextFirework", "d6/dac/a14692.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
-    [ "StartShow", "d6/dac/a14692.html#af637d1436655e44738b55040196533d3", null ],
-    [ "StopShow", "d6/dac/a14692.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
-    [ "UpdateAI", "d6/dac/a14692.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
-    [ "_curIdx", "d6/dac/a14692.html#a92613337cf2473e585b98b92bdcbce92", null ],
-    [ "_scheduler", "d6/dac/a14692.html#a6248d36087d8fae9cfa47f473613f886", null ],
-    [ "_show", "d6/dac/a14692.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
-    [ "_showRunning", "d6/dac/a14692.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
+    [ "GetEmptyEntry", "d6/dac/a14692.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
+    [ "HandleAfterHit", "d6/dac/a14692.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
+    [ "PrepareSpellScript", "d6/dac/a14692.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
+    [ "Register", "d6/dac/a14692.html#a25e1858e1f81891443f4b7de50a5d495", null ]
 ];

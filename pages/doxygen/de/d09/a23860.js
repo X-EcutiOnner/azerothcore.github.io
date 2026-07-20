@@ -1,5 +1,7 @@
 var a23860 =
 [
-    [ "npc_karynaku", "de/d09/a23860.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
-    [ "OnQuestAccept", "de/d09/a23860.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
+    [ "HandleEffect", "de/d09/a23860.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "de/d09/a23860.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "de/d09/a23860.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "de/d09/a23860.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

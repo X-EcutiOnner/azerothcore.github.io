@@ -1,6 +1,6 @@
 var a19188 =
 [
-    [ "npc_four_car_garageAI", "d4/dd2/a19188.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
-    [ "JustDied", "d4/dd2/a19188.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
-    [ "PassengerBoarded", "d4/dd2/a19188.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
+    [ "npc_icc_valkyr_heraldAI", "d4/d6a/a19192.html", "d4/d6a/a19192" ],
+    [ "npc_icc_valkyr_herald", "d4/dd2/a19188.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
+    [ "GetAI", "d4/dd2/a19188.html#a7537269841d0380d2dc9e4641705acf9", null ]
 ];

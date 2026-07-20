@@ -1,15 +1,7 @@
 var a12184 =
 [
-    [ "SunsReachReclamationData", "dd/d14/a12184.html#a840eb2024ae39f2f60f819e884db80b3", null ],
-    [ "GetData", "dd/d14/a12184.html#ae7ef124f28f2bc8230b4234652734994", null ],
-    [ "GetPhasePercentage", "dd/d14/a12184.html#a215cec505dd74695704ae7961161e195", null ],
-    [ "GetSubPhasePercentage", "dd/d14/a12184.html#aaee292336c57d967842d63f55e69bf0f", null ],
-    [ "GetSunwellGatePercentage", "dd/d14/a12184.html#a9b5de26596e174f9a94e019fcb998f9e", null ],
-    [ "m_gate", "dd/d14/a12184.html#a35755bcf3f67cfb2ebc77dcb36fa4dfb", null ],
-    [ "m_gateCounters", "dd/d14/a12184.html#a76b38d6f571386c1d818752e12a66f66", null ],
-    [ "m_phase", "dd/d14/a12184.html#a67711cd7d43f481161b8f98690d67fe3", null ],
-    [ "m_subphaseMask", "dd/d14/a12184.html#a0a94a3b69ac5ccfcfae35af007ed375c", null ],
-    [ "m_sunsReachReclamationCounters", "dd/d14/a12184.html#a14253084085c114aa2cfeefdebb0257d", null ],
-    [ "m_sunsReachReclamationMutex", "dd/d14/a12184.html#a0ef2835b702469482926ec4942d0f786", null ],
-    [ "m_sunsReachReclamationPlayers", "dd/d14/a12184.html#a72780ba8e17ccf5513d104eb228b3411", null ]
+    [ "PlayerDumpReader", "dd/d14/a12184.html#ad630b61e298fb1ddf165481c9a14e077", null ],
+    [ "LoadDump", "dd/d14/a12184.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
+    [ "LoadDumpFromFile", "dd/d14/a12184.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
+    [ "LoadDumpFromString", "dd/d14/a12184.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
 ];

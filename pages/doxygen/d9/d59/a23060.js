@@ -1,6 +1,6 @@
 var a23060 =
 [
-    [ "HandleAfterRemove", "d9/d59/a23060.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "d9/d59/a23060.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "d9/d59/a23060.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "OnPeriodic", "d9/d59/a23060.html#adfd5a3a6d9c16cd6acdb1f24e7874f20", null ],
+    [ "PrepareAuraScript", "d9/d59/a23060.html#a8444053fa146a4163ea905634be78dfc", null ],
+    [ "Register", "d9/d59/a23060.html#aad8868dc3d00fd3ea648abe7b536970d", null ]
 ];

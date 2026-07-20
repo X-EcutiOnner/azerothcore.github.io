@@ -1,5 +1,6 @@
 var a27704 =
 [
-    [ "AreaTrigger_at_nats_landing", "d3/d0b/a27704.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
-    [ "OnTrigger", "d3/d0b/a27704.html#a67434f74300fa3463e679afb7d344467", null ]
+    [ "HandleHeal", "d3/d0b/a27704.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "d3/d0b/a27704.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "d3/d0b/a27704.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

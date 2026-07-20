@@ -1,6 +1,5 @@
 var a20600 =
 [
-    [ "BoomEvent", "d6/d52/a20600.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
-    [ "Execute", "d6/d52/a20600.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
-    [ "_me", "d6/d52/a20600.html#a30de77ee751f1c10231088cb84942342", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_13", "d6/d52/a20600.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
+    [ "OnCheck", "d6/d52/a20600.html#ac91196d094f159932ad871ffa9c0f405", null ]
 ];

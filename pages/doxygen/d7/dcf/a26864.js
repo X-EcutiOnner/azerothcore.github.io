@@ -1,7 +1,6 @@
 var a26864 =
 [
-    [ "HandleDummy", "d7/dcf/a26864.html#a2ea424e6c740305340001b1c09bfec91", null ],
-    [ "PrepareSpellScript", "d7/dcf/a26864.html#afe722c970155b47eac94bb9861a4eb46", null ],
-    [ "Register", "d7/dcf/a26864.html#a2c2b96f1c00da9884ec9d01fe897c8c1", null ],
-    [ "Validate", "d7/dcf/a26864.html#ac5f782da8b5e387c31e048759baf3e16", null ]
+    [ "HandleScriptEffect", "d7/dcf/a26864.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
+    [ "PrepareSpellScript", "d7/dcf/a26864.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
+    [ "Register", "d7/dcf/a26864.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
 ];

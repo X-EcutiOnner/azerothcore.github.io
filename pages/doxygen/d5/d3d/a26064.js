@@ -1,7 +1,5 @@
 var a26064 =
 [
-    [ "HandleProc", "d5/d3d/a26064.html#adb54fb9014a1a5fffae3cb67fcb924a9", null ],
-    [ "PrepareAuraScript", "d5/d3d/a26064.html#adfc37ee6f995323b97f75b6c17ad6379", null ],
-    [ "Register", "d5/d3d/a26064.html#ac30f4c2af665c6589be24e60d3f84dad", null ],
-    [ "Validate", "d5/d3d/a26064.html#a42b0f4c6259f7b972f600e7c28855d1d", null ]
+    [ "PrepareSpellScript", "d5/d3d/a26064.html#ad7b3235062959af1f28bb6c7b2f929c3", null ],
+    [ "Register", "d5/d3d/a26064.html#ae35dad0d33ee0dd571a8f5fcccd2ce58", null ]
 ];

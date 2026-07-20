@@ -1,7 +1,6 @@
 var a12044 =
 [
-    [ "StringTransaction", "d9/d57/a12044.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
-    [ "Append", "d9/d57/a12044.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
-    [ "GetBuffer", "d9/d57/a12044.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
-    [ "_buf", "d9/d57/a12044.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
+    [ "EffectCalcPeriodicHandler", "d9/d57/a12044.html#a17288ee3b2951f1f2a8dc36a598b9a27", null ],
+    [ "Call", "d9/d57/a12044.html#a6a7eeb9599a10aa4ab918a2c2456a186", null ],
+    [ "pEffectHandlerScript", "d9/d57/a12044.html#a57673f457c08edfbf7fc1877aa071721", null ]
 ];

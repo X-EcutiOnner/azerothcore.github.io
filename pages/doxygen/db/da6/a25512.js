@@ -1,6 +1,9 @@
 var a25512 =
 [
-    [ "HandleDummy", "db/da6/a25512.html#ade4c16273ebefaeefac3bfb51c61d19a", null ],
-    [ "PrepareSpellScript", "db/da6/a25512.html#adfa89e065aa18b3e11998331c426151a", null ],
-    [ "Register", "db/da6/a25512.html#ab37569c6b2362220cbce92eb184cc6db", null ]
+    [ "CheckProc", "db/da6/a25512.html#a05a15654fd3c6175b59ab18197fc3c77", null ],
+    [ "HandleProc", "db/da6/a25512.html#a5345da73b9c4c9fe4ae5d272e3574955", null ],
+    [ "OnRemove", "db/da6/a25512.html#a27b1b744d88b4c870c0baa0b8f88317f", null ],
+    [ "PrepareAuraScript", "db/da6/a25512.html#a2e13f63459342fb749594f7fbb517c80", null ],
+    [ "Register", "db/da6/a25512.html#a6fc9a3945a736ba4a62ad754090d8525", null ],
+    [ "Validate", "db/da6/a25512.html#a008ec43da50deb568ec453e992f89887", null ]
 ];

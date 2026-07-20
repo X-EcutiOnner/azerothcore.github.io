@@ -1,8 +1,10 @@
 var a05704 =
 [
-    [ "GeneralLock", "d3/df8/a05704.html#ad0fac66b181e166108c871274bce7a93", null ],
-    [ "~GeneralLock", "d3/df8/a05704.html#a455c73434c26cac8bf9761900d648589", null ],
-    [ "GeneralLock", "d3/df8/a05704.html#aecc7bf4d8ac0c4bc16a89a16e196330c", null ],
-    [ "operator=", "d3/df8/a05704.html#a876a9be3c642991811028892bcae42c4", null ],
-    [ "i_mutex", "d3/df8/a05704.html#a80b98e278d3afb1867ff5f159eda5055", null ]
+    [ "Category", "d3/df8/a05704.html#a6a7956fedac99271428968ba339f464f", null ],
+    [ "Tags", "d3/df8/a05704.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
+    [ "Text", "d3/df8/a05704.html#ab63598f64896186fde81048550767b28", null ],
+    [ "Timestamp", "d3/df8/a05704.html#a8248a27d920ca431493750e3f2dec48b", null ],
+    [ "Title", "d3/df8/a05704.html#a857d2d4843480b9967334f079351292a", null ],
+    [ "Type", "d3/df8/a05704.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
+    [ "Value", "d3/df8/a05704.html#a09832a09e989c3851e72f4ec198f0e20", null ]
 ];

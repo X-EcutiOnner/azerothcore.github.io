@@ -1,5 +1,7 @@
 var a11512 =
 [
-    [ "PacketHandler", "d6/d5a/a11512.html#ae28d6ea18799c4dc90be8225fd2fad66", null ],
-    [ "Call", "d6/d5a/a11512.html#a9468be560aba807419fb7e28bf0d6a41", null ]
+    [ "PetActionSound", "d6/d5a/a11512.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
+    [ "Write", "d6/d5a/a11512.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
+    [ "Action", "d6/d5a/a11512.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
+    [ "UnitGUID", "d6/d5a/a11512.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
 ];

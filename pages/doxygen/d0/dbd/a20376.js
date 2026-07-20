@@ -1,6 +1,6 @@
 var a20376 =
 [
-    [ "OnPeriodic", "d0/dbd/a20376.html#a8a12342f694499043e8ed4446fd92d36", null ],
-    [ "PrepareAuraScript", "d0/dbd/a20376.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
-    [ "Register", "d0/dbd/a20376.html#a381709d53101832de6b2161c4a33a0d4", null ]
+    [ "FilterTargets", "d0/dbd/a20376.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
+    [ "PrepareSpellScript", "d0/dbd/a20376.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
+    [ "Register", "d0/dbd/a20376.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
 ];

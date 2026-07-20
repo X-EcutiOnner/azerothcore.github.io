@@ -1,8 +1,6 @@
 var a18476 =
 [
-    [ "HeightDifferenceCheck", "dc/dda/a18476.html#aa8b61811e435cce456e5cb1d798be66e", null ],
-    [ "operator()", "dc/dda/a18476.html#a1db203642683f85176f2a35eb3d10c34", null ],
-    [ "_baseObject", "dc/dda/a18476.html#a7c274be02ca58429dffaee2ea34153c6", null ],
-    [ "_difference", "dc/dda/a18476.html#af95e2bf67c8316dda982896978c45a68", null ],
-    [ "_reverse", "dc/dda/a18476.html#a89074844d5fd8b02ed99c09ac4cc5b85", null ]
+    [ "FilterTargets", "dc/dda/a18476.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
+    [ "PrepareSpellScript", "dc/dda/a18476.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
+    [ "Register", "dc/dda/a18476.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
 ];

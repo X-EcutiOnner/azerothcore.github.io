@@ -1,6 +1,11 @@
 var a23036 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "d4/d3c/a23040.html", "d4/d3c/a23040" ],
-    [ "instance_the_slave_pens", "da/d44/a23036.html#a765f7b66ad3bed1828524ecb143742f2", null ],
-    [ "GetInstanceScript", "da/d44/a23036.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
+    [ "boss_leotheras_the_blind", "da/d44/a23036.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "da/d44/a23036.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "da/d44/a23036.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "da/d44/a23036.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "da/d44/a23036.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "da/d44/a23036.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "da/d44/a23036.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "da/d44/a23036.html#a89deeb1888046d1f4756bcb6447d8f0d", null ]
 ];

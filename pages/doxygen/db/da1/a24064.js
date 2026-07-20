@@ -1,8 +1,6 @@
 var a24064 =
 [
-    [ "npc_pet_gen_wind_rider_cub", "db/da1/a24064.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
-    [ "UpdateAI", "db/da1/a24064.html#a534d122522d553e106e6c7729d6c55db", null ],
-    [ "checkTimer", "db/da1/a24064.html#a39fcfc5f5d9a630180713512db778b32", null ],
-    [ "checkTimer2", "db/da1/a24064.html#aabeaf7a9b5b77df540e1111950860e98", null ],
-    [ "isFlying", "db/da1/a24064.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
+    [ "npc_illidari_spawnAI", "d1/de3/a24068.html", "d1/de3/a24068" ],
+    [ "npc_illidari_spawn", "db/da1/a24064.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "db/da1/a24064.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];

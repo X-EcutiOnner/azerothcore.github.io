@@ -1,6 +1,10 @@
 var a25548 =
 [
-    [ "PrepareSpellScript", "d1/da1/a25548.html#a3a77016a3a8314969ce41cc6483761ec", null ],
-    [ "Register", "d1/da1/a25548.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
-    [ "SetDest", "d1/da1/a25548.html#a724217c09faa57ec2e6dad034e8709ed", null ]
+    [ "CheckPeriodicProc", "d1/da1/a25548.html#abd7673f268b80681b27a862bd8013de3", null ],
+    [ "CheckProc", "d1/da1/a25548.html#a439aa5395d222291fbd5943f853d8961", null ],
+    [ "CheckTrapProc", "d1/da1/a25548.html#a0cbe419bde5ebc30dc599bbdd99d04eb", null ],
+    [ "HandleProc", "d1/da1/a25548.html#a70fbabc5f07bfff080fe9af6f12d440e", null ],
+    [ "PrepareAuraScript", "d1/da1/a25548.html#a475320d20875b2d710ed3734b78f4645", null ],
+    [ "Register", "d1/da1/a25548.html#aca7649a87ace4e22793ca33705b1500c", null ],
+    [ "Validate", "d1/da1/a25548.html#a45630b6dc703996321286ff16a17e3e3", null ]
 ];

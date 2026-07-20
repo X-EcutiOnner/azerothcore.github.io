@@ -1,11 +1,6 @@
 var a15800 =
 [
-    [ "npc_tiger_matriarchAI", "d0/d14/a15800.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
-    [ "DamageTaken", "d0/d14/a15800.html#ab41c4275fe4f42b36615f746a100ccda", null ],
-    [ "IsSummonedBy", "d0/d14/a15800.html#a8b02683be93944a65b38658bba0af4d8", null ],
-    [ "JustEngagedWith", "d0/d14/a15800.html#a9a9295008552f5330f778dd3a0c591ea", null ],
-    [ "KilledUnit", "d0/d14/a15800.html#aabde7633ac07966ee1cd2d9817582189", null ],
-    [ "UpdateAI", "d0/d14/a15800.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
-    [ "_events", "d0/d14/a15800.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
-    [ "_tigerGuid", "d0/d14/a15800.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
+    [ "npc_injured_draeneiAI", "d2/daf/a15804.html", "d2/daf/a15804" ],
+    [ "npc_injured_draenei", "d0/d14/a15800.html#a660c0f0c4ed41d70ad0a50cde25c1d14", null ],
+    [ "GetAI", "d0/d14/a15800.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb", null ]
 ];

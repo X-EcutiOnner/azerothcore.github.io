@@ -1,9 +1,8 @@
 var a26536 =
 [
-    [ "CheckCast", "d2/d55/a26536.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
-    [ "HandleDummy", "d2/d55/a26536.html#a7f79495525687fba6229f48935b2558a", null ],
-    [ "Load", "d2/d55/a26536.html#a0c73457e44a3d64bdccee78d28893672", null ],
-    [ "PrepareSpellScript", "d2/d55/a26536.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
-    [ "Register", "d2/d55/a26536.html#ab9f09394ab301350a2abaefde90632fe", null ],
-    [ "Validate", "d2/d55/a26536.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
+    [ "Load", "d2/d55/a26536.html#a7662d85a5469c20edf6d2eefca820db3", null ],
+    [ "PrepareAuraScript", "d2/d55/a26536.html#a252bd975a7639eab4e151249db974b7c", null ],
+    [ "Register", "d2/d55/a26536.html#a51723a22f1062f44e8eb6848e1398595", null ],
+    [ "Split", "d2/d55/a26536.html#a08e982eae6030fdc679663bfd38bca47", null ],
+    [ "remainingAmount", "d2/d55/a26536.html#afaab88988769ddc720deb44f06de3d7d", null ]
 ];

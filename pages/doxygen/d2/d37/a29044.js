@@ -1,10 +1,6 @@
 var a29044 =
 [
-    [ "ID", "d2/d37/a29044.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "d2/d37/a29044.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "d2/d37/a29044.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "d2/d37/a29044.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "d2/d37/a29044.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "d2/d37/a29044.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "d2/d37/a29044.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "Enchantment", "d2/d37/a29044.html#a480ab806214bb138d56dfd5e9e43936f", null ],
+    [ "ID", "d2/d37/a29044.html#acb673be771124b84dd3fdd5deb300de7", null ],
+    [ "Name", "d2/d37/a29044.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
 ];

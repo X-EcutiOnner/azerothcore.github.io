@@ -1,9 +1,7 @@
 var a29068 =
 [
-    [ "TimeSeg", "db/d9f/a29068.html#a16782e722a5bada41691841fe594b7a6", null ],
-    [ "TransportEntry", "db/d9f/a29068.html#afcdb94a38d68d2ff8af225dc599db8a4", null ],
-    [ "W", "db/d9f/a29068.html#a4158a2babefbf4e148a64fe16bf113f6", null ],
-    [ "X", "db/d9f/a29068.html#a9c7cb1fd0463d1158d971db6f15431ff", null ],
-    [ "Y", "db/d9f/a29068.html#a7f0ff898e752e2e904ebee1412643df6", null ],
-    [ "Z", "db/d9f/a29068.html#a87647d71a965e80154ca36dc05421585", null ]
+    [ "ID", "db/d9f/a29068.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
+    [ "Index", "db/d9f/a29068.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
+    [ "Skill", "db/d9f/a29068.html#aed5e58cf605d3c28cd0d26015722be03", null ],
+    [ "Type", "db/d9f/a29068.html#a39b0b548efd795c162926bddcdd301b5", null ]
 ];

@@ -1,8 +1,8 @@
 var a23940 =
 [
-    [ "npc_kservantAI", "d5/d91/a23940.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "d5/d91/a23940.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "d5/d91/a23940.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "d5/d91/a23940.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
-    [ "WaypointReached", "d5/d91/a23940.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_captain_saeedAI", "de/db9/a23944.html", "de/db9/a23944" ],
+    [ "npc_captain_saeed", "d5/d91/a23940.html#a8a5bee9f908b10451b8d4720dff85670", null ],
+    [ "GetAI", "d5/d91/a23940.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
+    [ "OnGossipHello", "d5/d91/a23940.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
+    [ "OnGossipSelect", "d5/d91/a23940.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
 ];

@@ -1,8 +1,13 @@
 var a29228 =
 [
-    [ "auraHasCanProcFromProcs", "dd/d2d/a29228.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
-    [ "isTriggered", "dd/d2d/a29228.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
-    [ "procAuraSpellId", "dd/d2d/a29228.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
-    [ "spellHasNotAProc", "dd/d2d/a29228.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
-    [ "triggeredByAuraSpellId", "dd/d2d/a29228.html#ad62562e342e1d090e3f26f7c40a35795", null ]
+    [ "actionFlag", "dd/d2d/a29228.html#a6257ae486eff937cf12be64f0e850ca6", null ],
+    [ "arrivalEventID", "dd/d2d/a29228.html#a1ffe17f529066091b18451a1121ce6ac", null ],
+    [ "delay", "dd/d2d/a29228.html#aef005db912b0a57ecc5d62c66d838826", null ],
+    [ "departureEventID", "dd/d2d/a29228.html#a670a033aaf0ff48676373baf9235d670", null ],
+    [ "index", "dd/d2d/a29228.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
+    [ "mapid", "dd/d2d/a29228.html#aa2c6fb8a785e297c72384043698dd401", null ],
+    [ "path", "dd/d2d/a29228.html#aa0692acbae0d4639c89ece77265d7858", null ],
+    [ "x", "dd/d2d/a29228.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
+    [ "y", "dd/d2d/a29228.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
+    [ "z", "dd/d2d/a29228.html#af48d85940d7f204091e8438427a72e2d", null ]
 ];

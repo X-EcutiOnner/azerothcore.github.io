@@ -1,7 +1,7 @@
 var a13196 =
 [
-    [ "HandleDummy", "da/d7b/a13196.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
-    [ "PrepareSpellScript", "da/d7b/a13196.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
-    [ "Register", "da/d7b/a13196.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
-    [ "Validate", "da/d7b/a13196.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
+    [ "OnRemove", "da/d7b/a13196.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
+    [ "PrepareAuraScript", "da/d7b/a13196.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
+    [ "Register", "da/d7b/a13196.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
+    [ "Validate", "da/d7b/a13196.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
 ];

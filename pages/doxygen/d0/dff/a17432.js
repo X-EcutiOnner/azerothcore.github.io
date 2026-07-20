@@ -1,10 +1,15 @@
 var a17432 =
 [
-    [ "boss_drakkari_elementalAI", "d0/dff/a17432.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
-    [ "DoAction", "d0/dff/a17432.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
-    [ "JustDied", "d0/dff/a17432.html#aec2878e51a12749914e3a30c0ddea900", null ],
-    [ "JustEngagedWith", "d0/dff/a17432.html#a75cbf6a164ab4337f86b600541c563f2", null ],
-    [ "Reset", "d0/dff/a17432.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
-    [ "UpdateAI", "d0/dff/a17432.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
-    [ "events", "d0/dff/a17432.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
+    [ "npc_pos_leaderAI", "d0/dff/a17432.html#a21973bccde394785f8619df7cae5270b", null ],
+    [ "AttackStart", "d0/dff/a17432.html#a6dc4161441752b8ea9baab642d6a0684", null ],
+    [ "JustSummoned", "d0/dff/a17432.html#a03bfcd0ea38073ff8481188d1b570553", null ],
+    [ "MoveInLineOfSight", "d0/dff/a17432.html#ad28f607b313f7729649261969912eba5", null ],
+    [ "Reset", "d0/dff/a17432.html#aee23a2835b84ac060a29b41c10116904", null ],
+    [ "SetData", "d0/dff/a17432.html#a2b49d5045e0d1e25e7a05b1e3ce65b4f", null ],
+    [ "SummonedCreatureDespawn", "d0/dff/a17432.html#a9a35459cf7b83c9f0afc557d1b0b40e7", null ],
+    [ "UpdateAI", "d0/dff/a17432.html#a1507ab4bdade501cf92f843cec20842d", null ],
+    [ "counter", "d0/dff/a17432.html#a7012a08c6409a40646dcd91a47eb6886", null ],
+    [ "events", "d0/dff/a17432.html#a7ea570e98c7a70ae604861c2166eb429", null ],
+    [ "pInstance", "d0/dff/a17432.html#a1ba3692738d6bd474d54fe8910a7f316", null ],
+    [ "summons", "d0/dff/a17432.html#a44b5ee694d96644da91167c7d793eeb3", null ]
 ];

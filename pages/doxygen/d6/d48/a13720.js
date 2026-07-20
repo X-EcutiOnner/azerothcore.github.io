@@ -1,7 +1,9 @@
 var a13720 =
 [
-    [ "OnRemove", "d6/d48/a13720.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
-    [ "PrepareAuraScript", "d6/d48/a13720.html#ade353aafb960cabdb615718f41f485e8", null ],
-    [ "Register", "d6/d48/a13720.html#af1c312778a13f7fe8d174247f69258ac", null ],
-    [ "Validate", "d6/d48/a13720.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
+    [ "boss_brutallus", "d6/d48/a13720.html#a501c898505eb4265edee1546bc54713e", null ],
+    [ "AttackStart", "d6/d48/a13720.html#a05edf7010f4e7364399bc81582502219", null ],
+    [ "JustDied", "d6/d48/a13720.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
+    [ "JustEngagedWith", "d6/d48/a13720.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
+    [ "KilledUnit", "d6/d48/a13720.html#a608607d83680da85f91324ce0035804b", null ],
+    [ "Reset", "d6/d48/a13720.html#a20ad64739072e39e7ff3132c6f637af7", null ]
 ];

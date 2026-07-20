@@ -1,6 +1,6 @@
 var a23096 =
 [
-    [ "HandleScript", "d1/d6e/a23096.html#ae45f8a366c1594d3723b83ee6e006957", null ],
-    [ "PrepareSpellScript", "d1/d6e/a23096.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
-    [ "Register", "d1/d6e/a23096.html#a6b9e449a64747f0a5715424295b1c30f", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "d7/db5/a23100.html", "d7/db5/a23100" ],
+    [ "instance_serpent_shrine", "d1/d6e/a23096.html#aac4fc7113307805138ba4ce4a9adff09", null ],
+    [ "GetInstanceScript", "d1/d6e/a23096.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
 ];

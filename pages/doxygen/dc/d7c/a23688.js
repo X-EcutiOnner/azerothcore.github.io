@@ -1,7 +1,5 @@
 var a23688 =
 [
-    [ "HandleEffect", "dc/d7c/a23688.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "dc/d7c/a23688.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "dc/d7c/a23688.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "dc/d7c/a23688.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "npc_thaladred", "dc/d7c/a23688.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
+    [ "ScheduleEvents", "dc/d7c/a23688.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
 ];

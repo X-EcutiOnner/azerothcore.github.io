@@ -1,6 +1,7 @@
 var a21508 =
 [
-    [ "SACActivateEvent", "db/d1d/a21508.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
-    [ "Execute", "db/d1d/a21508.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
-    [ "_owner", "db/d1d/a21508.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
+    [ "npc_warmage_violetstand", "db/d1d/a21508.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "db/d1d/a21508.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "db/d1d/a21508.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "db/d1d/a21508.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

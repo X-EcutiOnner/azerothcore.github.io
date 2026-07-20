@@ -1,8 +1,6 @@
 var a18976 =
 [
-    [ "CountTargets", "d5/d23/a18976.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
-    [ "HandleScript", "d5/d23/a18976.html#af058a0c458463bdba4a4eb73aa91c113", null ],
-    [ "PrepareSpellScript", "d5/d23/a18976.html#a83b2fad7cdc189a17129e25a015952ff", null ],
-    [ "Register", "d5/d23/a18976.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
-    [ "Validate", "d5/d23/a18976.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
+    [ "npc_highlord_tirion_fordringAI", "d0/dd4/a18980.html", "d0/dd4/a18980" ],
+    [ "npc_highlord_tirion_fordring_lh", "d5/d23/a18976.html#a96102a488330c54a3e3654c767e8e1a5", null ],
+    [ "GetAI", "d5/d23/a18976.html#aea42394c04c1763cffe10eb5eba09854", null ]
 ];

@@ -1,7 +1,6 @@
 var a10924 =
 [
-    [ "Emote", "d3/de7/a10924.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
-    [ "Write", "d3/de7/a10924.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
-    [ "EmoteID", "d3/de7/a10924.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
-    [ "Guid", "d3/de7/a10924.html#ab96a1c0933e90872f54eb0995098274a", null ]
+    [ "ArenaTeam", "d3/de7/a10924.html#ab199427a8f1a5c4063aef2aeb390714f", null ],
+    [ "Read", "d3/de7/a10924.html#a9953d33b35eca1b91ed1618609c6acea", null ],
+    [ "ArenaTeamId", "d3/de7/a10924.html#aecda79f3715bd7ff5a6e872800ef256d", null ]
 ];

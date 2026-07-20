@@ -1,13 +1,13 @@
 var a14144 =
 [
-    [ "npc_daphne_stilwellAI", "d4/d38/a14144.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
-    [ "AttackStart", "d4/d38/a14144.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
-    [ "JustSummoned", "d4/d38/a14144.html#ae56554d30e9de7644efab891555c57e0", null ],
-    [ "Reset", "d4/d38/a14144.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
-    [ "SummonedCreatureDies", "d4/d38/a14144.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
-    [ "Update", "d4/d38/a14144.html#a4099d75c4a6bca1525781a5753ef9972", null ],
-    [ "WaypointReached", "d4/d38/a14144.html#a1035eb0a1696730d8304593b5fb079e4", null ],
-    [ "WaypointReached", "d4/d38/a14144.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "summons", "d4/d38/a14144.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
-    [ "textCounter", "d4/d38/a14144.html#a62ab24169c1b7c3028ab33303b217f63", null ]
+    [ "npc_ravenclaw_apparitionAI", "d4/d38/a14144.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
+    [ "EmoteCrowd", "d4/d38/a14144.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
+    [ "JustDied", "d4/d38/a14144.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
+    [ "JustSummoned", "d4/d38/a14144.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
+    [ "SummonCrowd", "d4/d38/a14144.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
+    [ "UpdateAI", "d4/d38/a14144.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
+    [ "events", "d4/d38/a14144.html#a27522107b5e1f54909294f800f26663f", null ],
+    [ "HasEnded", "d4/d38/a14144.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
+    [ "summons", "d4/d38/a14144.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
+    [ "TalkRNG", "d4/d38/a14144.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
 ];

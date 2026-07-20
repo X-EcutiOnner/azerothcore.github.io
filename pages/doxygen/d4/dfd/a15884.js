@@ -1,13 +1,10 @@
 var a15884 =
 [
-    [ "npc_shenthulAI", "d4/dfd/a15884.html#ae056474022c27be5565bf018a1b56f0b", null ],
-    [ "JustEngagedWith", "d4/dfd/a15884.html#acb202ef530bc11ea807f580ff5dfc621", null ],
-    [ "ReceiveEmote", "d4/dfd/a15884.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
-    [ "Reset", "d4/dfd/a15884.html#af077e96eb8bf89af2d6eb79907444a17", null ],
-    [ "UpdateAI", "d4/dfd/a15884.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
-    [ "CanEmote", "d4/dfd/a15884.html#a920209c374e611e96347d209337c044f", null ],
-    [ "CanTalk", "d4/dfd/a15884.html#a82ea8d2ee50538135add120be7616f86", null ],
-    [ "PlayerGUID", "d4/dfd/a15884.html#a4b262388aca789d19231426a8cb73379", null ],
-    [ "ResetTimer", "d4/dfd/a15884.html#a475a141d639f0136ac943e6afb1ecd15", null ],
-    [ "SaluteTimer", "d4/dfd/a15884.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
+    [ "npc_rabid_thistle_bearAI", "d4/dfd/a15884.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
+    [ "Initialize", "d4/dfd/a15884.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
+    [ "Reset", "d4/dfd/a15884.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
+    [ "SpellHit", "d4/dfd/a15884.html#a62bde5a122748564cc806046bf9dcbaa", null ],
+    [ "UpdateAI", "d4/dfd/a15884.html#a8f6c5b873756a58760b2861bc8b86804", null ],
+    [ "_events", "d4/dfd/a15884.html#ad3852bf4588c453642e75fcdc544767b", null ],
+    [ "_playerGUID", "d4/dfd/a15884.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
 ];

@@ -1,6 +1,7 @@
 var a21848 =
 [
-    [ "HandleHealPct", "d5/df6/a21848.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "d5/df6/a21848.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "d5/df6/a21848.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "npc_Apothecary_HanesAI", "d9/df7/a21852.html", "d9/df7/a21852" ],
+    [ "npc_apothecary_hanes", "d5/df6/a21848.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
+    [ "GetAI", "d5/df6/a21848.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
+    [ "OnQuestAccept", "d5/df6/a21848.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
 ];

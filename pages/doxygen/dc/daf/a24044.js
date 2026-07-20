@@ -1,7 +1,8 @@
 var a24044 =
 [
-    [ "npc_pet_gen_target_following_bomb", "dc/daf/a24044.html#a447c2cd258d784ca1d79c79412a1a426", null ],
-    [ "UpdateAI", "dc/daf/a24044.html#ac68f18d68a313623c04e885f9506f287", null ],
-    [ "bombSpellId", "dc/daf/a24044.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
-    [ "checkTimer", "dc/daf/a24044.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
+    [ "CreatureId", "dc/daf/a24044.html#a127341c70f8785ceb556b1c11b23f477", null ],
+    [ "SpawnCount", "dc/daf/a24044.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
+    [ "SpawnTimer", "dc/daf/a24044.html#aa57ff686c5fde12269e231333d8a8bef", null ],
+    [ "UsedSpawnPoint", "dc/daf/a24044.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
+    [ "YellTimer", "dc/daf/a24044.html#a6346259269af7f2936f959f87288dd69", null ]
 ];

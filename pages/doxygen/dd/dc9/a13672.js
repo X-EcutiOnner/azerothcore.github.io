@@ -1,9 +1,10 @@
 var a13672 =
 [
-    [ "npc_demonic_vapor_trail", "dd/dc9/a13672.html#a5bd024ea050372e982a183da59b45904", null ],
-    [ "JustSummoned", "dd/dc9/a13672.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
-    [ "Reset", "dd/dc9/a13672.html#a9da762ab640abfaf5092034f284239af", null ],
-    [ "SpellHitTarget", "dd/dc9/a13672.html#a21e2223f58156da2fbe1803554623ecd", null ],
-    [ "UpdateAI", "dd/dc9/a13672.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
-    [ "_timer", "dd/dc9/a13672.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
+    [ "HandleDummyTick", "dd/dc9/a13672.html#a036291aee8b08212ecead4afce01adf4", null ],
+    [ "Load", "dd/dc9/a13672.html#aaecea41af42790dfe9aeba3c56480668", null ],
+    [ "OnApply", "dd/dc9/a13672.html#a37b425f877e7415b245c119c29521c4b", null ],
+    [ "PrepareAuraScript", "dd/dc9/a13672.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
+    [ "Register", "dd/dc9/a13672.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
+    [ "Validate", "dd/dc9/a13672.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
+    [ "_forsakenSpell", "dd/dc9/a13672.html#ae2aee05482e4854120fc581ecec41f95", null ]
 ];

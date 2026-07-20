@@ -1,9 +1,6 @@
 var a18360 =
 [
-    [ "FilterTargets", "d6/d8c/a18360.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
-    [ "FilterTargetsSubseq", "d6/d8c/a18360.html#a88a53a855e01b550fbd106ac318a891e", null ],
-    [ "PrepareSpellScript", "d6/d8c/a18360.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
-    [ "Register", "d6/d8c/a18360.html#a27e8768422b311f6db16757e167f4102", null ],
-    [ "Validate", "d6/d8c/a18360.html#a96ef76527449a138685830b52fa95146", null ],
-    [ "_targetList", "d6/d8c/a18360.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
+    [ "npc_big_oozeAI", "d6/d76/a18364.html", "d6/d76/a18364" ],
+    [ "npc_big_ooze", "d6/d8c/a18360.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "d6/d8c/a18360.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

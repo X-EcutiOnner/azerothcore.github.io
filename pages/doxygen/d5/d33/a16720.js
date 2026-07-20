@@ -1,7 +1,6 @@
 var a16720 =
 [
-    [ "HandleEffectPeriodic", "d5/d33/a16720.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
-    [ "PrepareAuraScript", "d5/d33/a16720.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
-    [ "Register", "d5/d33/a16720.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
-    [ "Validate", "d5/d33/a16720.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
+    [ "boss_black_knightAI", "da/d86/a16724.html", "da/d86/a16724" ],
+    [ "boss_black_knight", "d5/d33/a16720.html#af55a307f282a68bc83e45c6de647ebf4", null ],
+    [ "GetAI", "d5/d33/a16720.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
 ];

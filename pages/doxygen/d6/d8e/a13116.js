@@ -1,6 +1,9 @@
 var a13116 =
 [
-    [ "go_blood_drenched_doorAI", "db/da4/a13120.html", "db/da4/a13120" ],
-    [ "go_blood_drenched_door", "d6/d8e/a13116.html#a32451e046236bc66b605088cab35fefc", null ],
-    [ "GetAI", "d6/d8e/a13116.html#a983405ff279eabe0bc607fb85bd47eb9", null ]
+    [ "boss_curator", "d6/d8e/a13116.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
+    [ "JustDied", "d6/d8e/a13116.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
+    [ "JustEngagedWith", "d6/d8e/a13116.html#a848f477a101956662389cab5ffcc0727", null ],
+    [ "JustSummoned", "d6/d8e/a13116.html#ac779d275e03e6ba190617d215b217ce5", null ],
+    [ "KilledUnit", "d6/d8e/a13116.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
+    [ "Reset", "d6/d8e/a13116.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
 ];

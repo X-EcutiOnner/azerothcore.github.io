@@ -1,9 +1,6 @@
 var a17264 =
 [
-    [ "FilterTargets", "d6/dba/a17264.html#aefebf504286394cf3caffa566543e4a4", null ],
-    [ "FilterTargetsNext", "d6/dba/a17264.html#a356b6ace97d07df22a232d2287072b5e", null ],
-    [ "PrepareSpellScript", "d6/dba/a17264.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
-    [ "Register", "d6/dba/a17264.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
-    [ "Unload", "d6/dba/a17264.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "d6/dba/a17264.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "entry", "d6/dba/a17264.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d6/dba/a17264.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d6/dba/a17264.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

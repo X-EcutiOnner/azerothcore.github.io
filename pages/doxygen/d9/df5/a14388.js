@@ -1,10 +1,9 @@
 var a14388 =
 [
-    [ "npc_batrider", "d9/df5/a14388.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
-    [ "DamageTaken", "d9/df5/a14388.html#ad4818b1363082a91223526908c38777c", null ],
-    [ "JustEngagedWith", "d9/df5/a14388.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
-    [ "Reset", "d9/df5/a14388.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
-    [ "UpdateAI", "d9/df5/a14388.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
-    [ "_mode", "d9/df5/a14388.html#acd53ec78a754219511af1ad2f11422a9", null ],
-    [ "_scheduler", "d9/df5/a14388.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
+    [ "npc_amanishi_lookout", "d9/df5/a14388.html#adf34c160c531164a459092f45588a7be", null ],
+    [ "DoAction", "d9/df5/a14388.html#ab43e3372000af268c81e2701070e1b03", null ],
+    [ "MoveInLineOfSight", "d9/df5/a14388.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
+    [ "MovementInform", "d9/df5/a14388.html#ae9e6d22a781392107a7e50e5815c116c", null ],
+    [ "Reset", "d9/df5/a14388.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
+    [ "_instance", "d9/df5/a14388.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
 ];

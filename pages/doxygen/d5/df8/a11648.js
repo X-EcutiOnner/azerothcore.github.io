@@ -1,8 +1,6 @@
 var a11648 =
 [
-    [ "SkillPerfectItemEntry", "d5/df8/a11648.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
-    [ "SkillPerfectItemEntry", "d5/df8/a11648.html#a678f9908440187faad38c0e1ffaf82de", null ],
-    [ "perfectCreateChance", "d5/df8/a11648.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
-    [ "perfectItemType", "d5/df8/a11648.html#a057605f8867d4df5cb290318598a2908", null ],
-    [ "requiredSpecialization", "d5/df8/a11648.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
+    [ "ClientOpcodeHandler", "da/d34/a05061.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
+    [ "Call", "da/d34/a05061.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
+    [ "ProcessingPlace", "da/d34/a05061.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
 ];

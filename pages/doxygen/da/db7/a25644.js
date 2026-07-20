@@ -1,8 +1,7 @@
 var a25644 =
 [
-    [ "HandleDummy", "da/db7/a25644.html#ad303a5c1bbbab3766bd5e9ab753b2a01", null ],
-    [ "Load", "da/db7/a25644.html#a054d9083b24183f4427fc0cb4985ba62", null ],
-    [ "PrepareSpellScript", "da/db7/a25644.html#aa4904ed55b5e216e0af5e32508372d4e", null ],
-    [ "Register", "da/db7/a25644.html#a5679f34290f90dbcaf15f09eca0fb20f", null ],
-    [ "Validate", "da/db7/a25644.html#a0a01f5e290b91e58b4b0f8ba443eb7bf", null ]
+    [ "HandleScriptEffect", "da/db7/a25644.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
+    [ "PrepareSpellScript", "da/db7/a25644.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
+    [ "Register", "da/db7/a25644.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
+    [ "SelectTarget", "da/db7/a25644.html#a6a59b7ce696f959b2026cf8088079e89", null ]
 ];

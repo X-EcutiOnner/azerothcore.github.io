@@ -1,8 +1,10 @@
 var a26664 =
 [
-    [ "HandleDummy", "d7/d3c/a26664.html#ae396c96647e36da357bdc70e11e3145f", null ],
-    [ "Load", "d7/d3c/a26664.html#a2b4811bf7e60361e13bc382e62173cee", null ],
-    [ "PrepareSpellScript", "d7/d3c/a26664.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
-    [ "Register", "d7/d3c/a26664.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
-    [ "count", "d7/d3c/a26664.html#a73358b2272ad12faef006b1ef633cac0", null ]
+    [ "CalculateAPAmount", "d7/d3c/a26664.html#a611247fcbdaeeb416a8cfbaf1a0fc415", null ],
+    [ "CalculateResistanceAmount", "d7/d3c/a26664.html#aa3fd9aa18ea2afa20c7c2298a8699812", null ],
+    [ "CalculateSPAmount", "d7/d3c/a26664.html#a9ae59870127884029a938684786e67a9", null ],
+    [ "CalculateStatAmount", "d7/d3c/a26664.html#a4ac5ffabf820d73d4a92a4a0628370e9", null ],
+    [ "HandleEffectApply", "d7/d3c/a26664.html#aaca0801f75839ebd9568c4cd31011a1e", null ],
+    [ "PrepareAuraScript", "d7/d3c/a26664.html#aa90952337607986eaf7485200a32c353", null ],
+    [ "Register", "d7/d3c/a26664.html#a88520214bd87511b615965593f1b927f", null ]
 ];

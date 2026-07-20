@@ -1,13 +1,13 @@
 var a05732 =
 [
-    [ "Node", "d7/df8/a05736.html", "d7/df8/a05736" ],
-    [ "StringType", "d8/d78/a05732.html#a190468425cf4a0621df5dc11462a005d", null ],
-    [ "StringViewType", "d8/d78/a05732.html#a3bffdd73d3b80a5709bab0c14d510b76", null ],
-    [ "AhoCorasick", "d8/d78/a05732.html#a4dc282eb219843ea3ec64802a0a99397", null ],
-    [ "Build", "d8/d78/a05732.html#acadbe68a1fac7c78d834e3e41e90c03c", null ],
-    [ "Clear", "d8/d78/a05732.html#a2a1f1025a714e141f17031bdcc5014ab", null ],
-    [ "ContainsAny", "d8/d78/a05732.html#adc4ef2a2b7484c5f7423c5227391166d", null ],
-    [ "Empty", "d8/d78/a05732.html#a776d8978db1f9fe958bd271d51ad7cf6", null ],
-    [ "Insert", "d8/d78/a05732.html#a1a08a72b3dcb19b69dff27f570352249", null ],
-    [ "_nodes", "d8/d78/a05732.html#a8454549daa1da98e8e0579acac2f4915", null ]
+    [ "MPSCQueueIntrusive", "d8/d78/a05732.html#a8e05361abed759932c49b0fc71ed09c1", null ],
+    [ "~MPSCQueueIntrusive", "d8/d78/a05732.html#a8155857825ceb1b7154ea82a63dbce08", null ],
+    [ "MPSCQueueIntrusive", "d8/d78/a05732.html#afaee06af7734e53ce50674e4ef7277b2", null ],
+    [ "Dequeue", "d8/d78/a05732.html#a798e36f41ef34c226690f76e9dc03fd6", null ],
+    [ "Enqueue", "d8/d78/a05732.html#a233004b906cfa66cdd285233105dddf7", null ],
+    [ "operator=", "d8/d78/a05732.html#a93cdd07d00b7dff8a7da5bf4846b26c7", null ],
+    [ "_dummy", "d8/d78/a05732.html#ad4d3a9cebe46fc524e474b7854a20b03", null ],
+    [ "_dummyPtr", "d8/d78/a05732.html#a115e9affe6159ae8aa08c6fc358e400c", null ],
+    [ "_head", "d8/d78/a05732.html#a7fb32fbb507e82f9e8a6c1691e281fcd", null ],
+    [ "_tail", "d8/d78/a05732.html#ac7e333db415e6301a02052c53779d1d4", null ]
 ];

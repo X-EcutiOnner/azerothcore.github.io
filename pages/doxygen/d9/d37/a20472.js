@@ -1,5 +1,7 @@
 var a20472 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_13", "d9/d37/a20472.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
-    [ "OnCheck", "d9/d37/a20472.html#ac91196d094f159932ad871ffa9c0f405", null ]
+    [ "FilterTargetsInitial", "d9/d37/a20472.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
+    [ "Load", "d9/d37/a20472.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
+    [ "PrepareSpellScript", "d9/d37/a20472.html#a4d1e588557fa3fa432d4015fda930877", null ],
+    [ "Register", "d9/d37/a20472.html#a0428375ddb89907e7f1728757d55d052", null ]
 ];

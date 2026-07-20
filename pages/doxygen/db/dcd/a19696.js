@@ -1,7 +1,9 @@
 var a19696 =
 [
-    [ "HandleProc", "db/dcd/a19696.html#a84255cd31ebaa7c70de93d569258c709", null ],
-    [ "PrepareAuraScript", "db/dcd/a19696.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
-    [ "Register", "db/dcd/a19696.html#a6bc166d2e1455537fa78c4223da17746", null ],
-    [ "Validate", "db/dcd/a19696.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
+    [ "HandleApply", "db/dcd/a19696.html#a29679ed64fc288dc0e85beed2971d4be", null ],
+    [ "HandleRemove", "db/dcd/a19696.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
+    [ "Load", "db/dcd/a19696.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
+    [ "PrepareAuraScript", "db/dcd/a19696.html#a2804f25643e59f3922291abcb055b641", null ],
+    [ "Register", "db/dcd/a19696.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
+    [ "Validate", "db/dcd/a19696.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
 ];

@@ -1,7 +1,8 @@
 var a20764 =
 [
-    [ "HandleEffectCalcPeriodic", "df/de5/a20764.html#af01eb94174952de52615734055b17c1a", null ],
-    [ "HandleEffectPeriodic", "df/de5/a20764.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
-    [ "PrepareAuraScript", "df/de5/a20764.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
-    [ "Register", "df/de5/a20764.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
+    [ "npc_xt_toy_pile", "df/de5/a20764.html#a843e7d05cf62baa5c006077f8dad107d", null ],
+    [ "SpellHit", "df/de5/a20764.html#a82af3830eaf524c587334e8eb193925f", null ],
+    [ "_lastSummonTime", "df/de5/a20764.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
+    [ "SummonCooldown", "df/de5/a20764.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
+    [ "SummonDistance", "df/de5/a20764.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
 ];

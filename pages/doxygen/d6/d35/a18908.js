@@ -1,7 +1,6 @@
 var a18908 =
 [
-    [ "npc_captain_arnathAI", "d6/d35/a18908.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "d6/d35/a18908.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "d6/d35/a18908.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "d6/d35/a18908.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "npc_blistering_zombieAI", "d0/d03/a18912.html", "d0/d03/a18912" ],
+    [ "npc_blistering_zombie", "d6/d35/a18908.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
+    [ "GetAI", "d6/d35/a18908.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
 ];

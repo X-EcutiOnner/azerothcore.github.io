@@ -1,7 +1,7 @@
 var a25472 =
 [
-    [ "CheckProc", "d0/dea/a25472.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
-    [ "HandleProc", "d0/dea/a25472.html#a5cf9cea911ead2f261522e55e94c745a", null ],
-    [ "PrepareAuraScript", "d0/dea/a25472.html#a3f2b20607f90ad641769eb284ddfab85", null ],
-    [ "Register", "d0/dea/a25472.html#a55557026689613e91aeabce1af442237", null ]
+    [ "HandleScriptEffect", "d0/dea/a25472.html#ab1d476e7a07da5db80908fb669b6fa6b", null ],
+    [ "PrepareSpellScript", "d0/dea/a25472.html#acf30d245bab2e7a1ee1121008345e667", null ],
+    [ "Register", "d0/dea/a25472.html#a303a38a41f3d9be6e3083690b234e51f", null ],
+    [ "Validate", "d0/dea/a25472.html#a77a3256cdea185ce0ea95d88283c55d7", null ]
 ];

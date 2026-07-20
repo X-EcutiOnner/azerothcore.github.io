@@ -1,6 +1,5 @@
 var a28204 =
 [
-    [ "npc_steam_tonkAI", "dd/db0/a28208.html", "dd/db0/a28208" ],
-    [ "npc_steam_tonk", "d3/d27/a28204.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
-    [ "GetAI", "d3/d27/a28204.html#a38e51485a3610a204a45677fce15c943", null ]
+    [ "item_captured_frog", "d3/d27/a28204.html#ad41b743c98c9534453eca8cf1f367366", null ],
+    [ "OnUse", "d3/d27/a28204.html#a1156467ca046a077ea494f92c488bf54", null ]
 ];

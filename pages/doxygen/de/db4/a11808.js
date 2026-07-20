@@ -1,4 +1,11 @@
 var a11808 =
 [
-    [ "cone_degrees", "de/db4/a11808.html#a7de6ce8a79e37a3097d6eaa5e1bf2210", null ]
+    [ "SpellValue", "de/db4/a11808.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
+    [ "AuraDuration", "de/db4/a11808.html#af44c190ba8a8636d78f8d271656bdd02", null ],
+    [ "AuraStackAmount", "de/db4/a11808.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
+    [ "EffectBasePoints", "de/db4/a11808.html#a4de44adea4dc620f0871215e4d4f611d", null ],
+    [ "ForcedCritResult", "de/db4/a11808.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
+    [ "MaxAffectedTargets", "de/db4/a11808.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
+    [ "MiscVal", "de/db4/a11808.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
+    [ "RadiusMod", "de/db4/a11808.html#a135bbce8300101411e87a70467dbbd57", null ]
 ];

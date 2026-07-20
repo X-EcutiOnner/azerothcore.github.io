@@ -1,6 +1,7 @@
 var a25560 =
 [
-    [ "HandleSummon", "df/dae/a25560.html#ad1ee0eb347454d50216610a266226d68", null ],
-    [ "PrepareSpellScript", "df/dae/a25560.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
-    [ "Register", "df/dae/a25560.html#aa145041af68291f107c3ff11ce15b85e", null ]
+    [ "FilterTargets", "df/dae/a25560.html#affede599b86e05e6475fd64a60268e8e", null ],
+    [ "Load", "df/dae/a25560.html#a1343407ca8b571140ed2ecf5501bf378", null ],
+    [ "PrepareSpellScript", "df/dae/a25560.html#a12ff05520225209b476b3ba8422de1c6", null ],
+    [ "Register", "df/dae/a25560.html#ac99786385187e21fb02e65e9b9719400", null ]
 ];

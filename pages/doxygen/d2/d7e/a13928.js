@@ -1,11 +1,8 @@
 var a13928 =
 [
-    [ "npc_supervisor_raelen", "d2/d7e/a13928.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
-    [ "CallPeasent", "d2/d7e/a13928.html#a0b8d661a86ec334adeb502d6936135ee", null ],
-    [ "Reset", "d2/d7e/a13928.html#a656029c56da84d2d3cee7380d6032e3d", null ],
-    [ "SetData", "d2/d7e/a13928.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
-    [ "UpdateAI", "d2/d7e/a13928.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
-    [ "_events", "d2/d7e/a13928.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
-    [ "_PeasentId", "d2/d7e/a13928.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
-    [ "peasentGUIDs", "d2/d7e/a13928.html#a6e290a29c8205b22bd668f0516e8904a", null ]
+    [ "HandleApply", "d2/d7e/a13928.html#a9dce02909356193476e66586aee87f1d", null ],
+    [ "OnPeriodic", "d2/d7e/a13928.html#add4f000f81d5d4112719c6dd7464163c", null ],
+    [ "PrepareAuraScript", "d2/d7e/a13928.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
+    [ "Register", "d2/d7e/a13928.html#abc349f12f375b1f284eb78a363e8172a", null ],
+    [ "Validate", "d2/d7e/a13928.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
 ];

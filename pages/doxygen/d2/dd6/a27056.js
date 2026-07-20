@@ -1,6 +1,9 @@
 var a27056 =
 [
-    [ "HandleAfterCast", "d2/dd6/a27056.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "d2/dd6/a27056.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "d2/dd6/a27056.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "HandleKnockBack", "d2/dd6/a27056.html#acaa8f445874270f34ea5b42a506671db", null ],
+    [ "HandleScript", "d2/dd6/a27056.html#a29e47298601cb55c5442a3fa59bb3646", null ],
+    [ "Load", "d2/dd6/a27056.html#a45700aba665b601b2c860af5a869d1af", null ],
+    [ "PrepareSpellScript", "d2/dd6/a27056.html#aad1c175a2611152278d847ac59f93090", null ],
+    [ "Register", "d2/dd6/a27056.html#ad790d435f422fabd128e601fb2dff103", null ],
+    [ "Validate", "d2/dd6/a27056.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
 ];

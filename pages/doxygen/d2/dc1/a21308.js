@@ -1,9 +1,8 @@
 var a21308 =
 [
-    [ "npc_warmage_coldarraAI", "d2/dc1/a21308.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "d2/dc1/a21308.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "d2/dc1/a21308.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "d2/dc1/a21308.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "d2/dc1/a21308.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "d2/dc1/a21308.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "boss_moragg", "d2/dc1/a21308.html#a42d2508369286e5e635d47cce0b939f4", null ],
+    [ "EnterEvadeMode", "d2/dc1/a21308.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
+    [ "ExecuteEvent", "d2/dc1/a21308.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
+    [ "JustEngagedWith", "d2/dc1/a21308.html#a29da7214373c1919b65f3512655c8bc3", null ],
+    [ "MoveInLineOfSight", "d2/dc1/a21308.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
 ];

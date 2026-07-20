@@ -1,6 +1,9 @@
 var a18480 =
 [
-    [ "boss_the_lich_kingAI", "d0/daa/a18484.html", "d0/daa/a18484" ],
-    [ "boss_the_lich_king", "df/d30/a18480.html#a10e2789a98a85907d24eabae6d7655f4", null ],
-    [ "GetAI", "df/d30/a18480.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
+    [ "FilterTargets", "df/d30/a18480.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
+    [ "FilterTargetsSubseq", "df/d30/a18480.html#a88a53a855e01b550fbd106ac318a891e", null ],
+    [ "PrepareSpellScript", "df/d30/a18480.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
+    [ "Register", "df/d30/a18480.html#a27e8768422b311f6db16757e167f4102", null ],
+    [ "Validate", "df/d30/a18480.html#a96ef76527449a138685830b52fa95146", null ],
+    [ "_targetList", "df/d30/a18480.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
 ];

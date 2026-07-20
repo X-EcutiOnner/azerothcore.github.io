@@ -1,7 +1,12 @@
 var a22432 =
 [
-    [ "HandleScriptEffect", "d1/dc0/a22432.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
-    [ "PrepareSpellScript", "d1/dc0/a22432.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
-    [ "Register", "d1/dc0/a22432.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
-    [ "Validate", "d1/dc0/a22432.html#a9ce122d497e72e3a46b1857d722af48d", null ]
+    [ "OPvPCapturePointZM_Beacon", "d1/dc0/a22432.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
+    [ "ChangeState", "d1/dc0/a22432.html#a5bbe87c18c814358596a9648fd92b129", null ],
+    [ "FillInitialWorldStates", "d1/dc0/a22432.html#a94511cd0d2d1dccaa1ed8276b273a2fb", null ],
+    [ "HandlePlayerEnter", "d1/dc0/a22432.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
+    [ "HandlePlayerLeave", "d1/dc0/a22432.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
+    [ "SendChangePhase", "d1/dc0/a22432.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
+    [ "UpdateTowerState", "d1/dc0/a22432.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
+    [ "m_TowerState", "d1/dc0/a22432.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
+    [ "m_TowerType", "d1/dc0/a22432.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
 ];

@@ -1,5 +1,8 @@
 var a22124 =
 [
-    [ "go_finklestein_cauldron", "dd/dc4/a22124.html#a8aa352319c54526069588dacd75ab883", null ],
-    [ "OnGossipHello", "dd/dc4/a22124.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
+    [ "npc_freed_protodrakeAI", "dd/dc4/a22124.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "dd/dc4/a22124.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "dd/dc4/a22124.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "dd/dc4/a22124.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "dd/dc4/a22124.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

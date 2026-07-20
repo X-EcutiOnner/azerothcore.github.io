@@ -1,5 +1,6 @@
 var a27984 =
 [
-    [ "go_duskwither_spire_power_source", "da/d35/a27984.html#aab69de16e8b744af2671e2ed882ee94a", null ],
-    [ "OnGossipHello", "da/d35/a27984.html#a2c7fd017e7985b99bff187119157a041", null ]
+    [ "go_witherbark_totem_bundleAI", "da/d35/a27984.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "da/d35/a27984.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "da/d35/a27984.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

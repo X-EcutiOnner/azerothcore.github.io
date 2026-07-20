@@ -1,7 +1,5 @@
 var a29800 =
 [
-    [ "walkableClimb", "dc/dfa/a29800.html#af8d2e9bccb8f6bbb36065e686ea39626", null ],
-    [ "walkableHeight", "dc/dfa/a29800.html#a32f39a07562c47be0a311d7959678044", null ],
-    [ "walkableRadius", "dc/dfa/a29800.html#a6e708a591e7b5597e129a653e1379a1e", null ],
-    [ "walkableSlopeAngle", "dc/dfa/a29800.html#a9b880e84fa1d07e414e9a9a62a20969c", null ]
+    [ "SetUp", "dc/dfa/a29800.html#a00b4e88a208a6e930244a37d4257d971", null ],
+    [ "_scenario", "dc/dfa/a29800.html#a39b6b0e42a22735909b0edf6de29d5f1", null ]
 ];

@@ -1,6 +1,5 @@
 var a27840 =
 [
-    [ "go_heatAI", "d2/da5/a27840.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
-    [ "UpdateAI", "d2/da5/a27840.html#a2332206ee47b2cea9e4707d16ea79325", null ],
-    [ "timer", "d2/da5/a27840.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
+    [ "achievement_not_even_a_scratch", "d2/da5/a27840.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "d2/da5/a27840.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

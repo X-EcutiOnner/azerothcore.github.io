@@ -1,6 +1,5 @@
 var a27988 =
 [
-    [ "guard_shattrath_scryerAI", "df/dec/a27992.html", "df/dec/a27992" ],
-    [ "guard_shattrath_scryer", "d9/d8c/a27988.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "d9/d8c/a27988.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "go_ethereum_prison", "d9/d8c/a27988.html#a1872dab11a8470194ab35f87e217aa8a", null ],
+    [ "OnGossipHello", "d9/d8c/a27988.html#a73479b0512ea778336fad4bd5cd9b909", null ]
 ];

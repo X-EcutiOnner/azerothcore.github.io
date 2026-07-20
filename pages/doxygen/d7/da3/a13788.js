@@ -1,6 +1,8 @@
 var a13788 =
 [
-    [ "HandleEffectApply", "d7/da3/a13788.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
-    [ "PrepareAuraScript", "d7/da3/a13788.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
-    [ "Register", "d7/da3/a13788.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
+    [ "npc_demonic_vapor", "d7/da3/a13788.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
+    [ "IsSummonedBy", "d7/da3/a13788.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
+    [ "Reset", "d7/da3/a13788.html#a7d2b88ab26904cedaac34f03567806bc", null ],
+    [ "UpdateAI", "d7/da3/a13788.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
+    [ "_timer", "d7/da3/a13788.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
 ];

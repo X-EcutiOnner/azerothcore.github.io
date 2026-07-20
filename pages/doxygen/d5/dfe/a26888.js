@@ -1,7 +1,5 @@
 var a26888 =
 [
-    [ "HandleDummy", "d5/dfe/a26888.html#ab046ef0adc63c32a153ba4ea866f8dcd", null ],
-    [ "PrepareSpellScript", "d5/dfe/a26888.html#ac293d1c1aac41808f81cad2974424c2e", null ],
-    [ "Register", "d5/dfe/a26888.html#ab145e1826eb63d0b6b1ea39a6c3c4d36", null ],
-    [ "Validate", "d5/dfe/a26888.html#aa725a6ee483dfac46724d291de4ee54b", null ]
+    [ "PrepareSpellScript", "d5/dfe/a26888.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
+    [ "Register", "d5/dfe/a26888.html#a721430db1738b255f114483bdddef5e2", null ]
 ];

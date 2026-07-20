@@ -1,8 +1,6 @@
 var a14080 =
 [
-    [ "npc_varian_wrynnAI", "df/d3e/a14084.html", "df/d3e/a14084" ],
-    [ "npc_varian_wrynn", "dc/df8/a14080.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
-    [ "GetAI", "dc/df8/a14080.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
-    [ "OnGossipHello", "dc/df8/a14080.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
-    [ "OnGossipSelect", "dc/df8/a14080.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
+    [ "x", "dc/df8/a14080.html#afeb59642abc7d5114668b2c27e315228", null ],
+    [ "y", "dc/df8/a14080.html#a3e2454dd579de689289003a343e7f29c", null ],
+    [ "z", "dc/df8/a14080.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
 ];

@@ -1,12 +1,12 @@
 var a11672 =
 [
-    [ "UnitAura", "df/d85/a11672.html#ada4033955271dfb21d16a95b316087f5", null ],
-    [ "_ApplyForTarget", "df/d85/a11672.html#a920549cf55c8def37149b00ae971127d", null ],
-    [ "_UnapplyForTarget", "df/d85/a11672.html#af4d453cee6758e633bdcae0049581898", null ],
-    [ "FillTargetMap", "df/d85/a11672.html#add5ce04446338e078c5986420abfd16e", null ],
-    [ "GetDiminishGroup", "df/d85/a11672.html#a8ebf7b01e7f324938f68ad4ce74d56b5", null ],
-    [ "Remove", "df/d85/a11672.html#a28f714404942bb5c614ac844cf937546", null ],
-    [ "SetDiminishGroup", "df/d85/a11672.html#a6d858a153c5d3046574f3387ab852050", null ],
-    [ "Aura::Create", "df/d85/a11672.html#ae2c0fdfb409846fec5e861de60797112", null ],
-    [ "m_AuraDRGroup", "df/d85/a11672.html#a4b413c5e62eee76875a22345059e6124", null ]
+    [ "PacketLog", "df/d85/a11672.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
+    [ "~PacketLog", "df/d85/a11672.html#a595a42f9aaa94d6c46d185955df801e0", null ],
+    [ "CanLogPacket", "df/d85/a11672.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
+    [ "Initialize", "df/d85/a11672.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
+    [ "instance", "df/d85/a11672.html#a484418a51ca0bf150d17b23d97979bf4", null ],
+    [ "LogPacket", "df/d85/a11672.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
+    [ "_file", "df/d85/a11672.html#a03346a709f7586f6445e03b9a3b6af04", null ],
+    [ "_initializeFlag", "df/d85/a11672.html#a490cafe009f7b2ecb303a76c781f8960", null ],
+    [ "_logPacketLock", "df/d85/a11672.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
 ];

@@ -1,5 +1,4 @@
 var a10012 =
 [
-    [ "MinionInfo", "d8/d43/a10012.html#a537dd49ffb504aeab8b2b1734d5f44d7", null ],
-    [ "bossInfo", "d8/d43/a10012.html#a04750e14ecb53ce6e3fac35844a713cd", null ]
+    [ "m", "d8/d43/a10012.html#ab61920ede22c5109d5cd7263522a7ef4", null ]
 ];

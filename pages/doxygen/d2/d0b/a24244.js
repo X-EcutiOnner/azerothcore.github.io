@@ -1,8 +1,9 @@
 var a24244 =
 [
-    [ "CheckCast", "d2/d0b/a24244.html#a94851a2b6a62138e28466317e9e88480", null ],
-    [ "HandleDummy", "d2/d0b/a24244.html#a970684d219c99519512c437a8efd8d43", null ],
-    [ "PrepareSpellScript", "d2/d0b/a24244.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
-    [ "Register", "d2/d0b/a24244.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
-    [ "Validate", "d2/d0b/a24244.html#a59cca008a97447e257bf24071301b366", null ]
+    [ "npc_pet_gen_toxic_wasteling", "d2/d0b/a24244.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "d2/d0b/a24244.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "d2/d0b/a24244.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "d2/d0b/a24244.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "d2/d0b/a24244.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "d2/d0b/a24244.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

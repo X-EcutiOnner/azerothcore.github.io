@@ -1,18 +1,10 @@
 var a21420 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "d2/dc8/a21420.html#af2a8c43537cac96be12e6dc8d7874cec", null ],
-    [ "DespawnOachanoa", "d2/dc8/a21420.html#ac9c4473578ba8a19b280548b4257bafa", null ],
-    [ "GetOachanoa", "d2/dc8/a21420.html#acf992e311bb8ab91683556036b0fbe86", null ],
-    [ "GetPlayer", "d2/dc8/a21420.html#aec678cda5d636e66907593d8b3f952f4", null ],
-    [ "NextStep", "d2/dc8/a21420.html#ae66ac194b89e761808cd3e226fc7e495", null ],
-    [ "Reset", "d2/dc8/a21420.html#af52e16097889f80d02ab2362f5578257", null ],
-    [ "Start", "d2/dc8/a21420.html#ad34d850e1f11da93dc461995d9f00115", null ],
-    [ "UpdateAI", "d2/dc8/a21420.html#aa47d7c8a0c34fc2cf4a7b1d31d21cd4a", null ],
-    [ "canjump", "d2/dc8/a21420.html#a6705fda3183602c11573735e0ac536a8", null ],
-    [ "oachanoaGUID", "d2/dc8/a21420.html#a32c351c44121629bccea71f2fd27cf9c", null ],
-    [ "pGUID", "d2/dc8/a21420.html#aabca8fe8385fe88d6ed6ad7ae6da0261", null ],
-    [ "running", "d2/dc8/a21420.html#a62e33501656b57698b19d8fec44afa37", null ],
-    [ "secondpart", "d2/dc8/a21420.html#a98e6aaa14d458228e97ced45e553c2bf", null ],
-    [ "step", "d2/dc8/a21420.html#ab8f80e5b25f58028abdd2077c2e9de7f", null ],
-    [ "timer", "d2/dc8/a21420.html#a694c235ee9a23b30ac0aa7b15ee8db3c", null ]
+    [ "npc_lurgglbrAI", "d2/dc8/a21420.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "d2/dc8/a21420.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "d2/dc8/a21420.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "d2/dc8/a21420.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "WaypointReached", "d2/dc8/a21420.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "IntroPhase", "d2/dc8/a21420.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "d2/dc8/a21420.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

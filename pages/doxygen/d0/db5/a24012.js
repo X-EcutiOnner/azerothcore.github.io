@@ -1,8 +1,6 @@
 var a24012 =
 [
-    [ "npc_pet_dk_ghoul", "d0/db5/a24012.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
-    [ "IsSummonedBy", "d0/db5/a24012.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
-    [ "JustDied", "d0/db5/a24012.html#a6095e3619b470283b9875b90e2805b54", null ],
-    [ "UpdateAI", "d0/db5/a24012.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
-    [ "_summonTargetGUID", "d0/db5/a24012.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
+    [ "npc_mature_netherwing_drakeAI", "d1/df4/a24016.html", "d1/df4/a24016" ],
+    [ "npc_mature_netherwing_drake", "d0/db5/a24012.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "d0/db5/a24012.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

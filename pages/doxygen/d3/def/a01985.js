@@ -1,8 +1,9 @@
 var a01985 =
 [
-    [ "instance_utgarde_pinnacle", "dd/d7c/a21165.html", "dd/d7c/a21165" ],
-    [ "instance_utgarde_pinnacle::instance_utgarde_pinnacle_InstanceMapScript", "de/d76/a21169.html", "de/d76/a21169" ],
-    [ "AddSC_instance_utgarde_pinnacle", "d3/def/a01985.html#a3469cdfafe3d81dca68950e7a6a6370d", null ],
-    [ "creatureData", "d3/def/a01985.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "summonData", "d3/def/a01985.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
+    [ "WorldPackets::NPC::Hello", "de/d22/a11404.html", "de/d22/a11404" ],
+    [ "WorldPackets::NPC::TrainerListSpell", "d8/d5e/a11408.html", "d8/d5e/a11408" ],
+    [ "WorldPackets::NPC::TrainerList", "d2/df7/a11412.html", "d2/df7/a11412" ],
+    [ "WorldPackets::NPC::TrainerBuySpell", "d3/def/a11416.html", "d3/def/a11416" ],
+    [ "WorldPackets::NPC::TrainerBuyFailed", "d2/d79/a11420.html", "d2/d79/a11420" ],
+    [ "WorldPackets::NPC::TrainerBuySucceeded", "d6/dc7/a11424.html", "d6/dc7/a11424" ]
 ];

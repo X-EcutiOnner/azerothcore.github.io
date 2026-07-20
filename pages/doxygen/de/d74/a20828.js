@@ -1,10 +1,8 @@
 var a20828 =
 [
-    [ "npc_ulduar_snow_mound", "de/d74/a20828.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
-    [ "MoveInLineOfSight", "de/d74/a20828.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
-    [ "UpdateAI", "de/d74/a20828.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
-    [ "_activated", "de/d74/a20828.html#ac48f6985d857276e0e59c2a429f5b359", null ],
-    [ "_count", "de/d74/a20828.html#a1856c3bba24842f33720a83e1de40421", null ],
-    [ "_counter", "de/d74/a20828.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
-    [ "_scheduler", "de/d74/a20828.html#aafe42af9ba1402cad91326eb1037e476", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "de/d74/a20828.html#a1649412beffbc87ce046a591775b02b2", null ],
+    [ "DamageTaken", "de/d74/a20828.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "de/d74/a20828.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "de/d74/a20828.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "de/d74/a20828.html#ae22a12401dc98534da1cb771468a58ce", null ]
 ];

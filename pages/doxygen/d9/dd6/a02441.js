@@ -1,7 +1,5 @@
 var a02441 =
 [
-    [ "StaticVMapCollisionData", "d4/da3/a10217.html", "d4/da3/a10217" ],
-    [ "DynamicVMapCollisionData", "d4/d05/a10221.html", "d4/d05/a10221" ],
-    [ "MMapData", "d3/d90/a10225.html", "d3/d90/a10225" ],
-    [ "MapCollisionData", "d7/de5/a10229.html", "d7/de5/a10229" ]
+    [ "bf_commandscript", "d5/da2/a12336.html", "d5/da2/a12336" ],
+    [ "AddSC_bf_commandscript", "d9/dd6/a02441.html#a55cfeb06fb5af5d31e3c2627d0db8da8", null ]
 ];

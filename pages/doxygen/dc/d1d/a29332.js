@@ -1,12 +1,13 @@
 var a29332 =
 [
-    [ "SetUp", "dc/d1d/a29332.html#a15e54f4d79771affa21c8728d4a70a35", null ],
-    [ "TearDown", "dc/d1d/a29332.html#a86941b0a70e73299beb5d68fd9d8d68b", null ],
-    [ "PERM_BAN", "dc/d1d/a29332.html#a309db6b83865b1f8afc92983ed4991fc", null ],
-    [ "PERM_KICK", "dc/d1d/a29332.html#ab224c843e5dac2fe11f8165ed37c325a", null ],
-    [ "PERM_SHUTDOWN", "dc/d1d/a29332.html#a385552a15b063d426557e5f87f6ba6b6", null ],
-    [ "PERM_TELEPORT", "dc/d1d/a29332.html#a61c556021598bc970927b3abe49cd68d", null ],
-    [ "rbacData", "dc/d1d/a29332.html#aa0772fd125f832a546a4a39305ec77c4", null ],
-    [ "ROLE_ADMIN", "dc/d1d/a29332.html#abfcb781ea0fdaf44b5e9d688c3b52abc", null ],
-    [ "ROLE_GM", "dc/d1d/a29332.html#a158724ae6a0c8c2f262f8de6b0e9b4dc", null ]
+    [ "Secret", "dc/d3e/a29336.html", "dc/d3e/a29336" ],
+    [ "SecretMgr", "dc/d1d/a29332.html#a28ee0858a14656d7fc464eb604b127b7", null ],
+    [ "~SecretMgr", "dc/d1d/a29332.html#ae6f15def262312b17456583b4e548d99", null ],
+    [ "SecretMgr", "dc/d1d/a29332.html#ab48b891b84f116dc5efffe0a10a82f79", null ],
+    [ "AttemptLoad", "dc/d1d/a29332.html#a65c2fd304c0f851f81cd80037deac8fb", null ],
+    [ "AttemptTransition", "dc/d1d/a29332.html#a4b6cbe75e50ec3e4765fdb9e965ee84f", null ],
+    [ "GetSecret", "dc/d1d/a29332.html#aff0b6ca546a62a3d6e7da52c3a2752bd", null ],
+    [ "Initialize", "dc/d1d/a29332.html#a929de7b687d7c6bb91ef35306134ebac", null ],
+    [ "instance", "dc/d1d/a29332.html#a27e237503dc523367fa94bd28a289d97", null ],
+    [ "_secrets", "dc/d1d/a29332.html#a143bb8b3855a9f28df72abc9cfc94f3c", null ]
 ];

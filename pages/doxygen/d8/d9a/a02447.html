@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Maps/TransportMgr.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Commands/cs_script_loader.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,31 +105,1505 @@ $(document).ready(function(){initNavTree('d8/d9a/a02447.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a>  </div>
-  <div class="headertitle"><div class="title">TransportMgr.cpp File Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">cs_script_loader.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">TransportMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MoveSpline.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">QueryResult.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
-</div>
+
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d5c/a10277.html">SplineRawInitializer</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a8c18eb17be05fd3da5e9cfa3480c52c4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a8c18eb17be05fd3da5e9cfa3480c52c4">AddSC_account_commandscript</a> ()</td></tr>
+<tr class="separator:a8c18eb17be05fd3da5e9cfa3480c52c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afeb482a8cffe8416071764bc4e78bff2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#afeb482a8cffe8416071764bc4e78bff2">AddSC_achievement_commandscript</a> ()</td></tr>
+<tr class="separator:afeb482a8cffe8416071764bc4e78bff2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa94d37f012ac02e97a1021713b7dbeeb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#aa94d37f012ac02e97a1021713b7dbeeb">AddSC_arena_commandscript</a> ()</td></tr>
+<tr class="separator:aa94d37f012ac02e97a1021713b7dbeeb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1d398e7e3a10b992b1d0a10671683d46"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a1d398e7e3a10b992b1d0a10671683d46">AddSC_autobroadcast_commandscript</a> ()</td></tr>
+<tr class="separator:a1d398e7e3a10b992b1d0a10671683d46"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8fa1e803122341d611168b2b62fde4e5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a8fa1e803122341d611168b2b62fde4e5">AddSC_bag_commandscript</a> ()</td></tr>
+<tr class="separator:a8fa1e803122341d611168b2b62fde4e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aac8ae57b7b7f9ef5cb5aa2975ef444ff"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#aac8ae57b7b7f9ef5cb5aa2975ef444ff">AddSC_ban_commandscript</a> ()</td></tr>
+<tr class="separator:aac8ae57b7b7f9ef5cb5aa2975ef444ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a55cfeb06fb5af5d31e3c2627d0db8da8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a55cfeb06fb5af5d31e3c2627d0db8da8">AddSC_bf_commandscript</a> ()</td></tr>
+<tr class="separator:a55cfeb06fb5af5d31e3c2627d0db8da8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b374923a29bdbff68b6e78d2ef4a3e0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a7b374923a29bdbff68b6e78d2ef4a3e0">AddSC_cast_commandscript</a> ()</td></tr>
+<tr class="separator:a7b374923a29bdbff68b6e78d2ef4a3e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a97f9cac12c34068d5e63b2ed28ddf9e2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a97f9cac12c34068d5e63b2ed28ddf9e2">AddSC_character_commandscript</a> ()</td></tr>
+<tr class="separator:a97f9cac12c34068d5e63b2ed28ddf9e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aafc88882ff0af0beb4632ec2c929fc8c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#aafc88882ff0af0beb4632ec2c929fc8c">AddSC_cheat_commandscript</a> ()</td></tr>
+<tr class="separator:aafc88882ff0af0beb4632ec2c929fc8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abae44bbc8eb2fb66a5596017ea83583f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#abae44bbc8eb2fb66a5596017ea83583f">AddSC_debug_commandscript</a> ()</td></tr>
+<tr class="separator:abae44bbc8eb2fb66a5596017ea83583f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4e8a885c7cc1a1dc7091c2dd2c931681"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a4e8a885c7cc1a1dc7091c2dd2c931681">AddSC_deserter_commandscript</a> ()</td></tr>
+<tr class="separator:a4e8a885c7cc1a1dc7091c2dd2c931681"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a232e1ddbf34ceae5a317df69255bc8de"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a232e1ddbf34ceae5a317df69255bc8de">AddSC_disable_commandscript</a> ()</td></tr>
+<tr class="separator:a232e1ddbf34ceae5a317df69255bc8de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4f3834f706dcb17ca67ce6513f6aecad"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a4f3834f706dcb17ca67ce6513f6aecad">AddSC_event_commandscript</a> ()</td></tr>
+<tr class="separator:a4f3834f706dcb17ca67ce6513f6aecad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee5ca3527878cd26d04712c7dc6b8611"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#aee5ca3527878cd26d04712c7dc6b8611">AddSC_chatfilter_commandscript</a> ()</td></tr>
+<tr class="separator:aee5ca3527878cd26d04712c7dc6b8611"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f5ae2609cea7d63d76141e1a5feaf27"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a8f5ae2609cea7d63d76141e1a5feaf27">AddSC_gear_commandscript</a> ()</td></tr>
+<tr class="separator:a8f5ae2609cea7d63d76141e1a5feaf27"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a65c7b128fdf4dd9807ef514c24918e7b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a65c7b128fdf4dd9807ef514c24918e7b">AddSC_gm_commandscript</a> ()</td></tr>
+<tr class="separator:a65c7b128fdf4dd9807ef514c24918e7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95fcb467686a27e069827ed3775df197"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a95fcb467686a27e069827ed3775df197">AddSC_go_commandscript</a> ()</td></tr>
+<tr class="separator:a95fcb467686a27e069827ed3775df197"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0cc4be9c12b1a892f031cb1ff47e23d9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a0cc4be9c12b1a892f031cb1ff47e23d9">AddSC_gobject_commandscript</a> ()</td></tr>
+<tr class="separator:a0cc4be9c12b1a892f031cb1ff47e23d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac4c9434ed910cd9636e0a8644a8e91e1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#ac4c9434ed910cd9636e0a8644a8e91e1">AddSC_group_commandscript</a> ()</td></tr>
+<tr class="separator:ac4c9434ed910cd9636e0a8644a8e91e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af4f585942ab79df7bff025b621beef86"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#af4f585942ab79df7bff025b621beef86">AddSC_guild_commandscript</a> ()</td></tr>
+<tr class="separator:af4f585942ab79df7bff025b621beef86"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab7c57f853cb45a82b5563b703a1ee041"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#ab7c57f853cb45a82b5563b703a1ee041">AddSC_honor_commandscript</a> ()</td></tr>
+<tr class="separator:ab7c57f853cb45a82b5563b703a1ee041"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d7dc88b6e95322f2f3dc69ad367fa0c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a3d7dc88b6e95322f2f3dc69ad367fa0c">AddSC_instance_commandscript</a> ()</td></tr>
+<tr class="separator:a3d7dc88b6e95322f2f3dc69ad367fa0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8917ab2c5001702c3dc7a14313dbc562"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a8917ab2c5001702c3dc7a14313dbc562">AddSC_inventory_commandscript</a> ()</td></tr>
+<tr class="separator:a8917ab2c5001702c3dc7a14313dbc562"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8dd69858fd98c4630027654ecdcf92e7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a8dd69858fd98c4630027654ecdcf92e7">AddSC_learn_commandscript</a> ()</td></tr>
+<tr class="separator:a8dd69858fd98c4630027654ecdcf92e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a484938015a7f5ffa8f5b1d0e259d355b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a484938015a7f5ffa8f5b1d0e259d355b">AddSC_lfg_commandscript</a> ()</td></tr>
+<tr class="separator:a484938015a7f5ffa8f5b1d0e259d355b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81af00772e7a06ad952109222b1f53a3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a81af00772e7a06ad952109222b1f53a3">AddSC_list_commandscript</a> ()</td></tr>
+<tr class="separator:a81af00772e7a06ad952109222b1f53a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae75b0f1415c6529e5837e3b27d054f6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#aae75b0f1415c6529e5837e3b27d054f6">AddSC_lookup_commandscript</a> ()</td></tr>
+<tr class="separator:aae75b0f1415c6529e5837e3b27d054f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a60390ceaf08c6b305bdc77fd27243938"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a60390ceaf08c6b305bdc77fd27243938">AddSC_mail_commandscript</a> ()</td></tr>
+<tr class="separator:a60390ceaf08c6b305bdc77fd27243938"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a85760eb92ac87e8dcb18c91d31f09fc0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a85760eb92ac87e8dcb18c91d31f09fc0">AddSC_message_commandscript</a> ()</td></tr>
+<tr class="separator:a85760eb92ac87e8dcb18c91d31f09fc0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac722d20c86b9502b7c4c8ae711cc3917"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#ac722d20c86b9502b7c4c8ae711cc3917">AddSC_misc_commandscript</a> ()</td></tr>
+<tr class="separator:ac722d20c86b9502b7c4c8ae711cc3917"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9672a1e32f85f31a4be02f505768ecd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#aa9672a1e32f85f31a4be02f505768ecd">AddSC_mmaps_commandscript</a> ()</td></tr>
+<tr class="separator:aa9672a1e32f85f31a4be02f505768ecd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9cbb6ad3c630cbeb9ba39b4552f72e87"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a9cbb6ad3c630cbeb9ba39b4552f72e87">AddSC_modify_commandscript</a> ()</td></tr>
+<tr class="separator:a9cbb6ad3c630cbeb9ba39b4552f72e87"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae99689f5e8e57f75adfcf54370ed979d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#ae99689f5e8e57f75adfcf54370ed979d">AddSC_npc_commandscript</a> ()</td></tr>
+<tr class="separator:ae99689f5e8e57f75adfcf54370ed979d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c7b2cae4f7afb6ae0c9ccc623877625"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a9c7b2cae4f7afb6ae0c9ccc623877625">AddSC_pet_commandscript</a> ()</td></tr>
+<tr class="separator:a9c7b2cae4f7afb6ae0c9ccc623877625"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3a4a77162d5b304dab9a8c8e397c3516"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a3a4a77162d5b304dab9a8c8e397c3516">AddSC_player_commandscript</a> ()</td></tr>
+<tr class="separator:a3a4a77162d5b304dab9a8c8e397c3516"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a933dbb3e5588f0735759e9409b716e55"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a933dbb3e5588f0735759e9409b716e55">AddSC_pool_commandscript</a> ()</td></tr>
+<tr class="separator:a933dbb3e5588f0735759e9409b716e55"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c8907ff2ae66e87142b14909a2ee941"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a8c8907ff2ae66e87142b14909a2ee941">AddSC_pooltools_commandscript</a> ()</td></tr>
+<tr class="separator:a8c8907ff2ae66e87142b14909a2ee941"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae9edb5f21eaacbfd73cc01543cb2fcdd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#ae9edb5f21eaacbfd73cc01543cb2fcdd">AddSC_quest_commandscript</a> ()</td></tr>
+<tr class="separator:ae9edb5f21eaacbfd73cc01543cb2fcdd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac877b170f7f12651a1d6c8252a8fc0ff"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#ac877b170f7f12651a1d6c8252a8fc0ff">AddSC_rbac_commandscript</a> ()</td></tr>
+<tr class="separator:ac877b170f7f12651a1d6c8252a8fc0ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab72bc0a4ad4d6f90fa1e05f5591ed68f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f">AddSC_reload_commandscript</a> ()</td></tr>
+<tr class="separator:ab72bc0a4ad4d6f90fa1e05f5591ed68f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4c7679595ac3aac5f03426eb6e0e6e4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#ae4c7679595ac3aac5f03426eb6e0e6e4">AddSC_reset_commandscript</a> ()</td></tr>
+<tr class="separator:ae4c7679595ac3aac5f03426eb6e0e6e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f3fee551f6ca7aa7dad83edb2dfe480"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a9f3fee551f6ca7aa7dad83edb2dfe480">AddSC_send_commandscript</a> ()</td></tr>
+<tr class="separator:a9f3fee551f6ca7aa7dad83edb2dfe480"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaa97392c09b5045a6040d75b224bdf22"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#aaa97392c09b5045a6040d75b224bdf22">AddSC_server_commandscript</a> ()</td></tr>
+<tr class="separator:aaa97392c09b5045a6040d75b224bdf22"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a223cb7b19bd79c486919c41509ea6ddf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a223cb7b19bd79c486919c41509ea6ddf">AddSC_spectator_commandscript</a> ()</td></tr>
+<tr class="separator:a223cb7b19bd79c486919c41509ea6ddf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab9e45d5e5eb40c48734ab273bdb3be64"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#ab9e45d5e5eb40c48734ab273bdb3be64">AddSC_spellinfo_commandscript</a> ()</td></tr>
+<tr class="separator:ab9e45d5e5eb40c48734ab273bdb3be64"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a75673ffc02c68c43cefd69bb0648dd53"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a75673ffc02c68c43cefd69bb0648dd53">AddSC_tele_commandscript</a> ()</td></tr>
+<tr class="separator:a75673ffc02c68c43cefd69bb0648dd53"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad71463f4442d2e022a92404a4d9dec76"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#ad71463f4442d2e022a92404a4d9dec76">AddSC_ticket_commandscript</a> ()</td></tr>
+<tr class="separator:ad71463f4442d2e022a92404a4d9dec76"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd13948cbed6e10bdbf797847a0f6839"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#abd13948cbed6e10bdbf797847a0f6839">AddSC_titles_commandscript</a> ()</td></tr>
+<tr class="separator:abd13948cbed6e10bdbf797847a0f6839"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc6bb2ca7e993730a57350142f7e6fd5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#afc6bb2ca7e993730a57350142f7e6fd5">AddSC_wp_commandscript</a> ()</td></tr>
+<tr class="separator:afc6bb2ca7e993730a57350142f7e6fd5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a293f65606c1750692d4046d4fe4c4adc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a293f65606c1750692d4046d4fe4c4adc">AddSC_cache_commandscript</a> ()</td></tr>
+<tr class="separator:a293f65606c1750692d4046d4fe4c4adc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad129450eb89b9c3e5c98717b2c44de8e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#ad129450eb89b9c3e5c98717b2c44de8e">AddSC_item_commandscript</a> ()</td></tr>
+<tr class="separator:ad129450eb89b9c3e5c98717b2c44de8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a366685affd5565d164c65f8cd4a20b61"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a366685affd5565d164c65f8cd4a20b61">AddSC_player_settings_commandscript</a> ()</td></tr>
+<tr class="separator:a366685affd5565d164c65f8cd4a20b61"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ff66ad19f50180b9878cf95696fd09b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#a2ff66ad19f50180b9878cf95696fd09b">AddSC_worldstate_commandscript</a> ()</td></tr>
+<tr class="separator:a2ff66ad19f50180b9878cf95696fd09b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab096d9c24474bec4ed7448a95e055dac"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a02447.html#ab096d9c24474bec4ed7448a95e055dac">AddCommandsScripts</a> ()</td></tr>
+<tr class="separator:ab096d9c24474bec4ed7448a95e055dac"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="ab096d9c24474bec4ed7448a95e055dac" name="ab096d9c24474bec4ed7448a95e055dac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab096d9c24474bec4ed7448a95e055dac">&#9670;&#160;</a></span>AddCommandsScripts()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddCommandsScripts </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   77</span>{</div>
+<div class="line"><span class="lineno">   78</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a8c18eb17be05fd3da5e9cfa3480c52c4">AddSC_account_commandscript</a>();</div>
+<div class="line"><span class="lineno">   79</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#afeb482a8cffe8416071764bc4e78bff2">AddSC_achievement_commandscript</a>();</div>
+<div class="line"><span class="lineno">   80</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#aa94d37f012ac02e97a1021713b7dbeeb">AddSC_arena_commandscript</a>();</div>
+<div class="line"><span class="lineno">   81</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a1d398e7e3a10b992b1d0a10671683d46">AddSC_autobroadcast_commandscript</a>();</div>
+<div class="line"><span class="lineno">   82</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a8fa1e803122341d611168b2b62fde4e5">AddSC_bag_commandscript</a>();</div>
+<div class="line"><span class="lineno">   83</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#aac8ae57b7b7f9ef5cb5aa2975ef444ff">AddSC_ban_commandscript</a>();</div>
+<div class="line"><span class="lineno">   84</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a55cfeb06fb5af5d31e3c2627d0db8da8">AddSC_bf_commandscript</a>();</div>
+<div class="line"><span class="lineno">   85</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a7b374923a29bdbff68b6e78d2ef4a3e0">AddSC_cast_commandscript</a>();</div>
+<div class="line"><span class="lineno">   86</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a97f9cac12c34068d5e63b2ed28ddf9e2">AddSC_character_commandscript</a>();</div>
+<div class="line"><span class="lineno">   87</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#aafc88882ff0af0beb4632ec2c929fc8c">AddSC_cheat_commandscript</a>();</div>
+<div class="line"><span class="lineno">   88</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#abae44bbc8eb2fb66a5596017ea83583f">AddSC_debug_commandscript</a>();</div>
+<div class="line"><span class="lineno">   89</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a4e8a885c7cc1a1dc7091c2dd2c931681">AddSC_deserter_commandscript</a>();</div>
+<div class="line"><span class="lineno">   90</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a232e1ddbf34ceae5a317df69255bc8de">AddSC_disable_commandscript</a>();</div>
+<div class="line"><span class="lineno">   91</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a4f3834f706dcb17ca67ce6513f6aecad">AddSC_event_commandscript</a>();</div>
+<div class="line"><span class="lineno">   92</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#aee5ca3527878cd26d04712c7dc6b8611">AddSC_chatfilter_commandscript</a>();</div>
+<div class="line"><span class="lineno">   93</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a8f5ae2609cea7d63d76141e1a5feaf27">AddSC_gear_commandscript</a>();</div>
+<div class="line"><span class="lineno">   94</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a65c7b128fdf4dd9807ef514c24918e7b">AddSC_gm_commandscript</a>();</div>
+<div class="line"><span class="lineno">   95</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a95fcb467686a27e069827ed3775df197">AddSC_go_commandscript</a>();</div>
+<div class="line"><span class="lineno">   96</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a0cc4be9c12b1a892f031cb1ff47e23d9">AddSC_gobject_commandscript</a>();</div>
+<div class="line"><span class="lineno">   97</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#ac4c9434ed910cd9636e0a8644a8e91e1">AddSC_group_commandscript</a>();</div>
+<div class="line"><span class="lineno">   98</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#af4f585942ab79df7bff025b621beef86">AddSC_guild_commandscript</a>();</div>
+<div class="line"><span class="lineno">   99</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#ab7c57f853cb45a82b5563b703a1ee041">AddSC_honor_commandscript</a>();</div>
+<div class="line"><span class="lineno">  100</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a3d7dc88b6e95322f2f3dc69ad367fa0c">AddSC_instance_commandscript</a>();</div>
+<div class="line"><span class="lineno">  101</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a8917ab2c5001702c3dc7a14313dbc562">AddSC_inventory_commandscript</a>();</div>
+<div class="line"><span class="lineno">  102</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a8dd69858fd98c4630027654ecdcf92e7">AddSC_learn_commandscript</a>();</div>
+<div class="line"><span class="lineno">  103</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a484938015a7f5ffa8f5b1d0e259d355b">AddSC_lfg_commandscript</a>();</div>
+<div class="line"><span class="lineno">  104</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a81af00772e7a06ad952109222b1f53a3">AddSC_list_commandscript</a>();</div>
+<div class="line"><span class="lineno">  105</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#aae75b0f1415c6529e5837e3b27d054f6">AddSC_lookup_commandscript</a>();</div>
+<div class="line"><span class="lineno">  106</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a60390ceaf08c6b305bdc77fd27243938">AddSC_mail_commandscript</a>();</div>
+<div class="line"><span class="lineno">  107</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a85760eb92ac87e8dcb18c91d31f09fc0">AddSC_message_commandscript</a>();</div>
+<div class="line"><span class="lineno">  108</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#ac722d20c86b9502b7c4c8ae711cc3917">AddSC_misc_commandscript</a>();</div>
+<div class="line"><span class="lineno">  109</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#aa9672a1e32f85f31a4be02f505768ecd">AddSC_mmaps_commandscript</a>();</div>
+<div class="line"><span class="lineno">  110</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a9cbb6ad3c630cbeb9ba39b4552f72e87">AddSC_modify_commandscript</a>();</div>
+<div class="line"><span class="lineno">  111</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#ae99689f5e8e57f75adfcf54370ed979d">AddSC_npc_commandscript</a>();</div>
+<div class="line"><span class="lineno">  112</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a9c7b2cae4f7afb6ae0c9ccc623877625">AddSC_pet_commandscript</a>();</div>
+<div class="line"><span class="lineno">  113</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a3a4a77162d5b304dab9a8c8e397c3516">AddSC_player_commandscript</a>();</div>
+<div class="line"><span class="lineno">  114</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a933dbb3e5588f0735759e9409b716e55">AddSC_pool_commandscript</a>();</div>
+<div class="line"><span class="lineno">  115</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a8c8907ff2ae66e87142b14909a2ee941">AddSC_pooltools_commandscript</a>();</div>
+<div class="line"><span class="lineno">  116</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#ae9edb5f21eaacbfd73cc01543cb2fcdd">AddSC_quest_commandscript</a>();</div>
+<div class="line"><span class="lineno">  117</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#ac877b170f7f12651a1d6c8252a8fc0ff">AddSC_rbac_commandscript</a>();</div>
+<div class="line"><span class="lineno">  118</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f">AddSC_reload_commandscript</a>();</div>
+<div class="line"><span class="lineno">  119</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#ae4c7679595ac3aac5f03426eb6e0e6e4">AddSC_reset_commandscript</a>();</div>
+<div class="line"><span class="lineno">  120</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a9f3fee551f6ca7aa7dad83edb2dfe480">AddSC_send_commandscript</a>();</div>
+<div class="line"><span class="lineno">  121</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#aaa97392c09b5045a6040d75b224bdf22">AddSC_server_commandscript</a>();</div>
+<div class="line"><span class="lineno">  122</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a223cb7b19bd79c486919c41509ea6ddf">AddSC_spectator_commandscript</a>();</div>
+<div class="line"><span class="lineno">  123</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#ab9e45d5e5eb40c48734ab273bdb3be64">AddSC_spellinfo_commandscript</a>();</div>
+<div class="line"><span class="lineno">  124</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a75673ffc02c68c43cefd69bb0648dd53">AddSC_tele_commandscript</a>();</div>
+<div class="line"><span class="lineno">  125</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#ad71463f4442d2e022a92404a4d9dec76">AddSC_ticket_commandscript</a>();</div>
+<div class="line"><span class="lineno">  126</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#abd13948cbed6e10bdbf797847a0f6839">AddSC_titles_commandscript</a>();</div>
+<div class="line"><span class="lineno">  127</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#afc6bb2ca7e993730a57350142f7e6fd5">AddSC_wp_commandscript</a>();</div>
+<div class="line"><span class="lineno">  128</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a293f65606c1750692d4046d4fe4c4adc">AddSC_cache_commandscript</a>();</div>
+<div class="line"><span class="lineno">  129</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#ad129450eb89b9c3e5c98717b2c44de8e">AddSC_item_commandscript</a>();</div>
+<div class="line"><span class="lineno">  130</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a366685affd5565d164c65f8cd4a20b61">AddSC_player_settings_commandscript</a>();</div>
+<div class="line"><span class="lineno">  131</span>    <a class="code hl_function" href="../../d8/d9a/a02447.html#a2ff66ad19f50180b9878cf95696fd09b">AddSC_worldstate_commandscript</a>();</div>
+<div class="line"><span class="lineno">  132</span>}</div>
+<div class="ttc" id="aa02447_html_a0cc4be9c12b1a892f031cb1ff47e23d9"><div class="ttname"><a href="../../d8/d9a/a02447.html#a0cc4be9c12b1a892f031cb1ff47e23d9">AddSC_gobject_commandscript</a></div><div class="ttdeci">void AddSC_gobject_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_gobject.cpp:750</div></div>
+<div class="ttc" id="aa02447_html_a1d398e7e3a10b992b1d0a10671683d46"><div class="ttname"><a href="../../d8/d9a/a02447.html#a1d398e7e3a10b992b1d0a10671683d46">AddSC_autobroadcast_commandscript</a></div><div class="ttdeci">void AddSC_autobroadcast_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_autobroadcast.cpp:206</div></div>
+<div class="ttc" id="aa02447_html_a223cb7b19bd79c486919c41509ea6ddf"><div class="ttname"><a href="../../d8/d9a/a02447.html#a223cb7b19bd79c486919c41509ea6ddf">AddSC_spectator_commandscript</a></div><div class="ttdeci">void AddSC_spectator_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_spectator.cpp:106</div></div>
+<div class="ttc" id="aa02447_html_a232e1ddbf34ceae5a317df69255bc8de"><div class="ttname"><a href="../../d8/d9a/a02447.html#a232e1ddbf34ceae5a317df69255bc8de">AddSC_disable_commandscript</a></div><div class="ttdeci">void AddSC_disable_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_disable.cpp:280</div></div>
+<div class="ttc" id="aa02447_html_a293f65606c1750692d4046d4fe4c4adc"><div class="ttname"><a href="../../d8/d9a/a02447.html#a293f65606c1750692d4046d4fe4c4adc">AddSC_cache_commandscript</a></div><div class="ttdeci">void AddSC_cache_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_cache.cpp:151</div></div>
+<div class="ttc" id="aa02447_html_a2ff66ad19f50180b9878cf95696fd09b"><div class="ttname"><a href="../../d8/d9a/a02447.html#a2ff66ad19f50180b9878cf95696fd09b">AddSC_worldstate_commandscript</a></div><div class="ttdeci">void AddSC_worldstate_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_worldstate.cpp:173</div></div>
+<div class="ttc" id="aa02447_html_a366685affd5565d164c65f8cd4a20b61"><div class="ttname"><a href="../../d8/d9a/a02447.html#a366685affd5565d164c65f8cd4a20b61">AddSC_player_settings_commandscript</a></div><div class="ttdeci">void AddSC_player_settings_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_player_settings.cpp:96</div></div>
+<div class="ttc" id="aa02447_html_a3a4a77162d5b304dab9a8c8e397c3516"><div class="ttname"><a href="../../d8/d9a/a02447.html#a3a4a77162d5b304dab9a8c8e397c3516">AddSC_player_commandscript</a></div><div class="ttdeci">void AddSC_player_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_player.cpp:67</div></div>
+<div class="ttc" id="aa02447_html_a3d7dc88b6e95322f2f3dc69ad367fa0c"><div class="ttname"><a href="../../d8/d9a/a02447.html#a3d7dc88b6e95322f2f3dc69ad367fa0c">AddSC_instance_commandscript</a></div><div class="ttdeci">void AddSC_instance_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_instance.cpp:287</div></div>
+<div class="ttc" id="aa02447_html_a484938015a7f5ffa8f5b1d0e259d355b"><div class="ttname"><a href="../../d8/d9a/a02447.html#a484938015a7f5ffa8f5b1d0e259d355b">AddSC_lfg_commandscript</a></div><div class="ttdeci">void AddSC_lfg_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_lfg.cpp:140</div></div>
+<div class="ttc" id="aa02447_html_a4e8a885c7cc1a1dc7091c2dd2c931681"><div class="ttname"><a href="../../d8/d9a/a02447.html#a4e8a885c7cc1a1dc7091c2dd2c931681">AddSC_deserter_commandscript</a></div><div class="ttdeci">void AddSC_deserter_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_deserter.cpp:444</div></div>
+<div class="ttc" id="aa02447_html_a4f3834f706dcb17ca67ce6513f6aecad"><div class="ttname"><a href="../../d8/d9a/a02447.html#a4f3834f706dcb17ca67ce6513f6aecad">AddSC_event_commandscript</a></div><div class="ttdeci">void AddSC_event_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_event.cpp:176</div></div>
+<div class="ttc" id="aa02447_html_a55cfeb06fb5af5d31e3c2627d0db8da8"><div class="ttname"><a href="../../d8/d9a/a02447.html#a55cfeb06fb5af5d31e3c2627d0db8da8">AddSC_bf_commandscript</a></div><div class="ttdeci">void AddSC_bf_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_bf.cpp:241</div></div>
+<div class="ttc" id="aa02447_html_a60390ceaf08c6b305bdc77fd27243938"><div class="ttname"><a href="../../d8/d9a/a02447.html#a60390ceaf08c6b305bdc77fd27243938">AddSC_mail_commandscript</a></div><div class="ttdeci">void AddSC_mail_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_mail.cpp:401</div></div>
+<div class="ttc" id="aa02447_html_a65c7b128fdf4dd9807ef514c24918e7b"><div class="ttname"><a href="../../d8/d9a/a02447.html#a65c7b128fdf4dd9807ef514c24918e7b">AddSC_gm_commandscript</a></div><div class="ttdeci">void AddSC_gm_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_gm.cpp:250</div></div>
+<div class="ttc" id="aa02447_html_a75673ffc02c68c43cefd69bb0648dd53"><div class="ttname"><a href="../../d8/d9a/a02447.html#a75673ffc02c68c43cefd69bb0648dd53">AddSC_tele_commandscript</a></div><div class="ttdeci">void AddSC_tele_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_tele.cpp:370</div></div>
+<div class="ttc" id="aa02447_html_a7b374923a29bdbff68b6e78d2ef4a3e0"><div class="ttname"><a href="../../d8/d9a/a02447.html#a7b374923a29bdbff68b6e78d2ef4a3e0">AddSC_cast_commandscript</a></div><div class="ttdeci">void AddSC_cast_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_cast.cpp:244</div></div>
+<div class="ttc" id="aa02447_html_a81af00772e7a06ad952109222b1f53a3"><div class="ttname"><a href="../../d8/d9a/a02447.html#a81af00772e7a06ad952109222b1f53a3">AddSC_list_commandscript</a></div><div class="ttdeci">void AddSC_list_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_list.cpp:599</div></div>
+<div class="ttc" id="aa02447_html_a85760eb92ac87e8dcb18c91d31f09fc0"><div class="ttname"><a href="../../d8/d9a/a02447.html#a85760eb92ac87e8dcb18c91d31f09fc0">AddSC_message_commandscript</a></div><div class="ttdeci">void AddSC_message_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_message.cpp:183</div></div>
+<div class="ttc" id="aa02447_html_a8917ab2c5001702c3dc7a14313dbc562"><div class="ttname"><a href="../../d8/d9a/a02447.html#a8917ab2c5001702c3dc7a14313dbc562">AddSC_inventory_commandscript</a></div><div class="ttdeci">void AddSC_inventory_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_inventory.cpp:183</div></div>
+<div class="ttc" id="aa02447_html_a8c18eb17be05fd3da5e9cfa3480c52c4"><div class="ttname"><a href="../../d8/d9a/a02447.html#a8c18eb17be05fd3da5e9cfa3480c52c4">AddSC_account_commandscript</a></div><div class="ttdeci">void AddSC_account_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_account.cpp:1080</div></div>
+<div class="ttc" id="aa02447_html_a8c8907ff2ae66e87142b14909a2ee941"><div class="ttname"><a href="../../d8/d9a/a02447.html#a8c8907ff2ae66e87142b14909a2ee941">AddSC_pooltools_commandscript</a></div><div class="ttdeci">void AddSC_pooltools_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_pooltools.cpp:418</div></div>
+<div class="ttc" id="aa02447_html_a8dd69858fd98c4630027654ecdcf92e7"><div class="ttname"><a href="../../d8/d9a/a02447.html#a8dd69858fd98c4630027654ecdcf92e7">AddSC_learn_commandscript</a></div><div class="ttdeci">void AddSC_learn_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_learn.cpp:442</div></div>
+<div class="ttc" id="aa02447_html_a8f5ae2609cea7d63d76141e1a5feaf27"><div class="ttname"><a href="../../d8/d9a/a02447.html#a8f5ae2609cea7d63d76141e1a5feaf27">AddSC_gear_commandscript</a></div><div class="ttdeci">void AddSC_gear_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_gear.cpp:125</div></div>
+<div class="ttc" id="aa02447_html_a8fa1e803122341d611168b2b62fde4e5"><div class="ttname"><a href="../../d8/d9a/a02447.html#a8fa1e803122341d611168b2b62fde4e5">AddSC_bag_commandscript</a></div><div class="ttdeci">void AddSC_bag_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_bag.cpp:158</div></div>
+<div class="ttc" id="aa02447_html_a933dbb3e5588f0735759e9409b716e55"><div class="ttname"><a href="../../d8/d9a/a02447.html#a933dbb3e5588f0735759e9409b716e55">AddSC_pool_commandscript</a></div><div class="ttdeci">void AddSC_pool_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_pool.cpp:233</div></div>
+<div class="ttc" id="aa02447_html_a95fcb467686a27e069827ed3775df197"><div class="ttname"><a href="../../d8/d9a/a02447.html#a95fcb467686a27e069827ed3775df197">AddSC_go_commandscript</a></div><div class="ttdeci">void AddSC_go_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_go.cpp:688</div></div>
+<div class="ttc" id="aa02447_html_a97f9cac12c34068d5e63b2ed28ddf9e2"><div class="ttname"><a href="../../d8/d9a/a02447.html#a97f9cac12c34068d5e63b2ed28ddf9e2">AddSC_character_commandscript</a></div><div class="ttdeci">void AddSC_character_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_character.cpp:1108</div></div>
+<div class="ttc" id="aa02447_html_a9c7b2cae4f7afb6ae0c9ccc623877625"><div class="ttname"><a href="../../d8/d9a/a02447.html#a9c7b2cae4f7afb6ae0c9ccc623877625">AddSC_pet_commandscript</a></div><div class="ttdeci">void AddSC_pet_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_pet.cpp:340</div></div>
+<div class="ttc" id="aa02447_html_a9cbb6ad3c630cbeb9ba39b4552f72e87"><div class="ttname"><a href="../../d8/d9a/a02447.html#a9cbb6ad3c630cbeb9ba39b4552f72e87">AddSC_modify_commandscript</a></div><div class="ttdeci">void AddSC_modify_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_modify.cpp:983</div></div>
+<div class="ttc" id="aa02447_html_a9f3fee551f6ca7aa7dad83edb2dfe480"><div class="ttname"><a href="../../d8/d9a/a02447.html#a9f3fee551f6ca7aa7dad83edb2dfe480">AddSC_send_commandscript</a></div><div class="ttdeci">void AddSC_send_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_send.cpp:234</div></div>
+<div class="ttc" id="aa02447_html_aa94d37f012ac02e97a1021713b7dbeeb"><div class="ttname"><a href="../../d8/d9a/a02447.html#aa94d37f012ac02e97a1021713b7dbeeb">AddSC_arena_commandscript</a></div><div class="ttdeci">void AddSC_arena_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_arena.cpp:318</div></div>
+<div class="ttc" id="aa02447_html_aa9672a1e32f85f31a4be02f505768ecd"><div class="ttname"><a href="../../d8/d9a/a02447.html#aa9672a1e32f85f31a4be02f505768ecd">AddSC_mmaps_commandscript</a></div><div class="ttdeci">void AddSC_mmaps_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_mmaps.cpp:339</div></div>
+<div class="ttc" id="aa02447_html_aaa97392c09b5045a6040d75b224bdf22"><div class="ttname"><a href="../../d8/d9a/a02447.html#aaa97392c09b5045a6040d75b224bdf22">AddSC_server_commandscript</a></div><div class="ttdeci">void AddSC_server_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_server.cpp:634</div></div>
+<div class="ttc" id="aa02447_html_aac8ae57b7b7f9ef5cb5aa2975ef444ff"><div class="ttname"><a href="../../d8/d9a/a02447.html#aac8ae57b7b7f9ef5cb5aa2975ef444ff">AddSC_ban_commandscript</a></div><div class="ttdeci">void AddSC_ban_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_ban.cpp:756</div></div>
+<div class="ttc" id="aa02447_html_aae75b0f1415c6529e5837e3b27d054f6"><div class="ttname"><a href="../../d8/d9a/a02447.html#aae75b0f1415c6529e5837e3b27d054f6">AddSC_lookup_commandscript</a></div><div class="ttdeci">void AddSC_lookup_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_lookup.cpp:1699</div></div>
+<div class="ttc" id="aa02447_html_aafc88882ff0af0beb4632ec2c929fc8c"><div class="ttname"><a href="../../d8/d9a/a02447.html#aafc88882ff0af0beb4632ec2c929fc8c">AddSC_cheat_commandscript</a></div><div class="ttdeci">void AddSC_cheat_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_cheat.cpp:238</div></div>
+<div class="ttc" id="aa02447_html_ab72bc0a4ad4d6f90fa1e05f5591ed68f"><div class="ttname"><a href="../../d8/d9a/a02447.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f">AddSC_reload_commandscript</a></div><div class="ttdeci">void AddSC_reload_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_reload.cpp:1304</div></div>
+<div class="ttc" id="aa02447_html_ab7c57f853cb45a82b5563b703a1ee041"><div class="ttname"><a href="../../d8/d9a/a02447.html#ab7c57f853cb45a82b5563b703a1ee041">AddSC_honor_commandscript</a></div><div class="ttdeci">void AddSC_honor_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_honor.cpp:106</div></div>
+<div class="ttc" id="aa02447_html_ab9e45d5e5eb40c48734ab273bdb3be64"><div class="ttname"><a href="../../d8/d9a/a02447.html#ab9e45d5e5eb40c48734ab273bdb3be64">AddSC_spellinfo_commandscript</a></div><div class="ttdeci">void AddSC_spellinfo_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_spellinfo.cpp:986</div></div>
+<div class="ttc" id="aa02447_html_abae44bbc8eb2fb66a5596017ea83583f"><div class="ttname"><a href="../../d8/d9a/a02447.html#abae44bbc8eb2fb66a5596017ea83583f">AddSC_debug_commandscript</a></div><div class="ttdeci">void AddSC_debug_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_debug.cpp:1987</div></div>
+<div class="ttc" id="aa02447_html_abd13948cbed6e10bdbf797847a0f6839"><div class="ttname"><a href="../../d8/d9a/a02447.html#abd13948cbed6e10bdbf797847a0f6839">AddSC_titles_commandscript</a></div><div class="ttdeci">void AddSC_titles_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_titles.cpp:182</div></div>
+<div class="ttc" id="aa02447_html_ac4c9434ed910cd9636e0a8644a8e91e1"><div class="ttname"><a href="../../d8/d9a/a02447.html#ac4c9434ed910cd9636e0a8644a8e91e1">AddSC_group_commandscript</a></div><div class="ttdeci">void AddSC_group_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_group.cpp:313</div></div>
+<div class="ttc" id="aa02447_html_ac722d20c86b9502b7c4c8ae711cc3917"><div class="ttname"><a href="../../d8/d9a/a02447.html#ac722d20c86b9502b7c4c8ae711cc3917">AddSC_misc_commandscript</a></div><div class="ttdeci">void AddSC_misc_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_misc.cpp:3462</div></div>
+<div class="ttc" id="aa02447_html_ac877b170f7f12651a1d6c8252a8fc0ff"><div class="ttname"><a href="../../d8/d9a/a02447.html#ac877b170f7f12651a1d6c8252a8fc0ff">AddSC_rbac_commandscript</a></div><div class="ttdeci">void AddSC_rbac_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_rbac.cpp:288</div></div>
+<div class="ttc" id="aa02447_html_ad129450eb89b9c3e5c98717b2c44de8e"><div class="ttname"><a href="../../d8/d9a/a02447.html#ad129450eb89b9c3e5c98717b2c44de8e">AddSC_item_commandscript</a></div><div class="ttdeci">void AddSC_item_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_item.cpp:364</div></div>
+<div class="ttc" id="aa02447_html_ad71463f4442d2e022a92404a4d9dec76"><div class="ttname"><a href="../../d8/d9a/a02447.html#ad71463f4442d2e022a92404a4d9dec76">AddSC_ticket_commandscript</a></div><div class="ttdeci">void AddSC_ticket_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_ticket.cpp:533</div></div>
+<div class="ttc" id="aa02447_html_ae4c7679595ac3aac5f03426eb6e0e6e4"><div class="ttname"><a href="../../d8/d9a/a02447.html#ae4c7679595ac3aac5f03426eb6e0e6e4">AddSC_reset_commandscript</a></div><div class="ttdeci">void AddSC_reset_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_reset.cpp:748</div></div>
+<div class="ttc" id="aa02447_html_ae99689f5e8e57f75adfcf54370ed979d"><div class="ttname"><a href="../../d8/d9a/a02447.html#ae99689f5e8e57f75adfcf54370ed979d">AddSC_npc_commandscript</a></div><div class="ttdeci">void AddSC_npc_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_npc.cpp:1541</div></div>
+<div class="ttc" id="aa02447_html_ae9edb5f21eaacbfd73cc01543cb2fcdd"><div class="ttname"><a href="../../d8/d9a/a02447.html#ae9edb5f21eaacbfd73cc01543cb2fcdd">AddSC_quest_commandscript</a></div><div class="ttdeci">void AddSC_quest_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_quest.cpp:857</div></div>
+<div class="ttc" id="aa02447_html_aee5ca3527878cd26d04712c7dc6b8611"><div class="ttname"><a href="../../d8/d9a/a02447.html#aee5ca3527878cd26d04712c7dc6b8611">AddSC_chatfilter_commandscript</a></div><div class="ttdeci">void AddSC_chatfilter_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_chatfilter.cpp:124</div></div>
+<div class="ttc" id="aa02447_html_af4f585942ab79df7bff025b621beef86"><div class="ttname"><a href="../../d8/d9a/a02447.html#af4f585942ab79df7bff025b621beef86">AddSC_guild_commandscript</a></div><div class="ttdeci">void AddSC_guild_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_guild.cpp:271</div></div>
+<div class="ttc" id="aa02447_html_afc6bb2ca7e993730a57350142f7e6fd5"><div class="ttname"><a href="../../d8/d9a/a02447.html#afc6bb2ca7e993730a57350142f7e6fd5">AddSC_wp_commandscript</a></div><div class="ttdeci">void AddSC_wp_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_wp.cpp:1096</div></div>
+<div class="ttc" id="aa02447_html_afeb482a8cffe8416071764bc4e78bff2"><div class="ttname"><a href="../../d8/d9a/a02447.html#afeb482a8cffe8416071764bc4e78bff2">AddSC_achievement_commandscript</a></div><div class="ttdeci">void AddSC_achievement_commandscript()</div><div class="ttdef"><b>Definition:</b> cs_achievement.cpp:101</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01080">AddSC_account_commandscript()</a>, <a class="el" href="../../#l00101">AddSC_achievement_commandscript()</a>, <a class="el" href="../../#l00318">AddSC_arena_commandscript()</a>, <a class="el" href="../../#l00206">AddSC_autobroadcast_commandscript()</a>, <a class="el" href="../../#l00158">AddSC_bag_commandscript()</a>, <a class="el" href="../../#l00756">AddSC_ban_commandscript()</a>, <a class="el" href="../../#l00241">AddSC_bf_commandscript()</a>, <a class="el" href="../../#l00151">AddSC_cache_commandscript()</a>, <a class="el" href="../../#l00244">AddSC_cast_commandscript()</a>, <a class="el" href="../../#l01108">AddSC_character_commandscript()</a>, <a class="el" href="../../#l00124">AddSC_chatfilter_commandscript()</a>, <a class="el" href="../../#l00238">AddSC_cheat_commandscript()</a>, <a class="el" href="../../#l01987">AddSC_debug_commandscript()</a>, <a class="el" href="../../#l00444">AddSC_deserter_commandscript()</a>, <a class="el" href="../../#l00280">AddSC_disable_commandscript()</a>, <a class="el" href="../../#l00176">AddSC_event_commandscript()</a>, <a class="el" href="../../#l00125">AddSC_gear_commandscript()</a>, <a class="el" href="../../#l00250">AddSC_gm_commandscript()</a>, <a class="el" href="../../#l00688">AddSC_go_commandscript()</a>, <a class="el" href="../../#l00750">AddSC_gobject_commandscript()</a>, <a class="el" href="../../#l00313">AddSC_group_commandscript()</a>, <a class="el" href="../../#l00271">AddSC_guild_commandscript()</a>, <a class="el" href="../../#l00106">AddSC_honor_commandscript()</a>, <a class="el" href="../../#l00287">AddSC_instance_commandscript()</a>, <a class="el" href="../../#l00183">AddSC_inventory_commandscript()</a>, <a class="el" href="../../#l00364">AddSC_item_commandscript()</a>, <a class="el" href="../../#l00442">AddSC_learn_commandscript()</a>, <a class="el" href="../../#l00140">AddSC_lfg_commandscript()</a>, <a class="el" href="../../#l00599">AddSC_list_commandscript()</a>, <a class="el" href="../../#l01699">AddSC_lookup_commandscript()</a>, <a class="el" href="../../#l00401">AddSC_mail_commandscript()</a>, <a class="el" href="../../#l00183">AddSC_message_commandscript()</a>, <a class="el" href="../../#l03462">AddSC_misc_commandscript()</a>, <a class="el" href="../../#l00339">AddSC_mmaps_commandscript()</a>, <a class="el" href="../../#l00983">AddSC_modify_commandscript()</a>, <a class="el" href="../../#l01541">AddSC_npc_commandscript()</a>, <a class="el" href="../../#l00340">AddSC_pet_commandscript()</a>, <a class="el" href="../../#l00067">AddSC_player_commandscript()</a>, <a class="el" href="../../#l00096">AddSC_player_settings_commandscript()</a>, <a class="el" href="../../#l00233">AddSC_pool_commandscript()</a>, <a class="el" href="../../#l00418">AddSC_pooltools_commandscript()</a>, <a class="el" href="../../#l00857">AddSC_quest_commandscript()</a>, <a class="el" href="../../#l00288">AddSC_rbac_commandscript()</a>, <a class="el" href="../../#l01304">AddSC_reload_commandscript()</a>, <a class="el" href="../../#l00748">AddSC_reset_commandscript()</a>, <a class="el" href="../../#l00234">AddSC_send_commandscript()</a>, <a class="el" href="../../#l00634">AddSC_server_commandscript()</a>, <a class="el" href="../../#l00106">AddSC_spectator_commandscript()</a>, <a class="el" href="../../#l00986">AddSC_spellinfo_commandscript()</a>, <a class="el" href="../../#l00370">AddSC_tele_commandscript()</a>, <a class="el" href="../../#l00533">AddSC_ticket_commandscript()</a>, <a class="el" href="../../#l00182">AddSC_titles_commandscript()</a>, <a class="el" href="../../#l00173">AddSC_worldstate_commandscript()</a>, and <a class="el" href="../../#l01096">AddSC_wp_commandscript()</a>.</p>
+
+</div>
+</div>
+<a id="a8c18eb17be05fd3da5e9cfa3480c52c4" name="a8c18eb17be05fd3da5e9cfa3480c52c4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8c18eb17be05fd3da5e9cfa3480c52c4">&#9670;&#160;</a></span>AddSC_account_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_account_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1081</span>{</div>
+<div class="line"><span class="lineno"> 1082</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/dbb/a12312.html">account_commandscript</a>();</div>
+<div class="line"><span class="lineno"> 1083</span>}</div>
+<div class="ttc" id="aa12312_html"><div class="ttname"><a href="../../d4/dbb/a12312.html">account_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_account.cpp:46</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="afeb482a8cffe8416071764bc4e78bff2" name="afeb482a8cffe8416071764bc4e78bff2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afeb482a8cffe8416071764bc4e78bff2">&#9670;&#160;</a></span>AddSC_achievement_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_achievement_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  102</span>{</div>
+<div class="line"><span class="lineno">  103</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d5a/a12316.html">achievement_commandscript</a>();</div>
+<div class="line"><span class="lineno">  104</span>}</div>
+<div class="ttc" id="aa12316_html"><div class="ttname"><a href="../../d1/d5a/a12316.html">achievement_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_achievement.cpp:28</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="aa94d37f012ac02e97a1021713b7dbeeb" name="aa94d37f012ac02e97a1021713b7dbeeb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa94d37f012ac02e97a1021713b7dbeeb">&#9670;&#160;</a></span>AddSC_arena_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_arena_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  319</span>{</div>
+<div class="line"><span class="lineno">  320</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/da2/a12320.html">arena_commandscript</a>();</div>
+<div class="line"><span class="lineno">  321</span>}</div>
+<div class="ttc" id="aa12320_html"><div class="ttname"><a href="../../df/da2/a12320.html">arena_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_arena.cpp:29</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a1d398e7e3a10b992b1d0a10671683d46" name="a1d398e7e3a10b992b1d0a10671683d46"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1d398e7e3a10b992b1d0a10671683d46">&#9670;&#160;</a></span>AddSC_autobroadcast_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_autobroadcast_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  207</span>{</div>
+<div class="line"><span class="lineno">  208</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/d2d/a12324.html">autobroadcast_commandscript</a>();</div>
+<div class="line"><span class="lineno">  209</span>}</div>
+<div class="ttc" id="aa12324_html"><div class="ttname"><a href="../../d5/d2d/a12324.html">autobroadcast_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_autobroadcast.cpp:28</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a8fa1e803122341d611168b2b62fde4e5" name="a8fa1e803122341d611168b2b62fde4e5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8fa1e803122341d611168b2b62fde4e5">&#9670;&#160;</a></span>AddSC_bag_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_bag_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  159</span>{</div>
+<div class="line"><span class="lineno">  160</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d86/a12328.html">bg_commandscript</a>();</div>
+<div class="line"><span class="lineno">  161</span>}</div>
+<div class="ttc" id="aa12328_html"><div class="ttname"><a href="../../dc/d86/a12328.html">bg_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_bag.cpp:39</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="aac8ae57b7b7f9ef5cb5aa2975ef444ff" name="aac8ae57b7b7f9ef5cb5aa2975ef444ff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aac8ae57b7b7f9ef5cb5aa2975ef444ff">&#9670;&#160;</a></span>AddSC_ban_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_ban_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  757</span>{</div>
+<div class="line"><span class="lineno">  758</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d40/a12332.html">ban_commandscript</a>();</div>
+<div class="line"><span class="lineno">  759</span>}</div>
+<div class="ttc" id="aa12332_html"><div class="ttname"><a href="../../d1/d40/a12332.html">ban_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_ban.cpp:45</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a55cfeb06fb5af5d31e3c2627d0db8da8" name="a55cfeb06fb5af5d31e3c2627d0db8da8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a55cfeb06fb5af5d31e3c2627d0db8da8">&#9670;&#160;</a></span>AddSC_bf_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_bf_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  242</span>{</div>
+<div class="line"><span class="lineno">  243</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/da2/a12336.html">bf_commandscript</a>();</div>
+<div class="line"><span class="lineno">  244</span>}</div>
+<div class="ttc" id="aa12336_html"><div class="ttname"><a href="../../d5/da2/a12336.html">bf_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_bf.cpp:30</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a293f65606c1750692d4046d4fe4c4adc" name="a293f65606c1750692d4046d4fe4c4adc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a293f65606c1750692d4046d4fe4c4adc">&#9670;&#160;</a></span>AddSC_cache_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_cache_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  152</span>{</div>
+<div class="line"><span class="lineno">  153</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d0/d21/a12340.html">cache_commandscript</a>();</div>
+<div class="line"><span class="lineno">  154</span>}</div>
+<div class="ttc" id="aa12340_html"><div class="ttname"><a href="../../d0/d21/a12340.html">cache_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_cache.cpp:28</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a7b374923a29bdbff68b6e78d2ef4a3e0" name="a7b374923a29bdbff68b6e78d2ef4a3e0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b374923a29bdbff68b6e78d2ef4a3e0">&#9670;&#160;</a></span>AddSC_cast_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_cast_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  245</span>{</div>
+<div class="line"><span class="lineno">  246</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/da0/a12344.html">cast_commandscript</a>();</div>
+<div class="line"><span class="lineno">  247</span>}</div>
+<div class="ttc" id="aa12344_html"><div class="ttname"><a href="../../dc/da0/a12344.html">cast_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_cast.cpp:30</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a97f9cac12c34068d5e63b2ed28ddf9e2" name="a97f9cac12c34068d5e63b2ed28ddf9e2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a97f9cac12c34068d5e63b2ed28ddf9e2">&#9670;&#160;</a></span>AddSC_character_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_character_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1109</span>{</div>
+<div class="line"><span class="lineno"> 1110</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d0/d6b/a12348.html">character_commandscript</a>();</div>
+<div class="line"><span class="lineno"> 1111</span>}</div>
+<div class="ttc" id="aa12348_html"><div class="ttname"><a href="../../d0/d6b/a12348.html">character_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_character.cpp:37</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="aee5ca3527878cd26d04712c7dc6b8611" name="aee5ca3527878cd26d04712c7dc6b8611"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aee5ca3527878cd26d04712c7dc6b8611">&#9670;&#160;</a></span>AddSC_chatfilter_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_chatfilter_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  125</span>{</div>
+<div class="line"><span class="lineno">  126</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/dbc/a12356.html">chatfilter_commandscript</a>();</div>
+<div class="line"><span class="lineno">  127</span>}</div>
+<div class="ttc" id="aa12356_html"><div class="ttname"><a href="../../d2/dbc/a12356.html">chatfilter_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_chatfilter.cpp:26</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="aafc88882ff0af0beb4632ec2c929fc8c" name="aafc88882ff0af0beb4632ec2c929fc8c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aafc88882ff0af0beb4632ec2c929fc8c">&#9670;&#160;</a></span>AddSC_cheat_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_cheat_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  239</span>{</div>
+<div class="line"><span class="lineno">  240</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../de/dc4/a12360.html">cheat_commandscript</a>();</div>
+<div class="line"><span class="lineno">  241</span>}</div>
+<div class="ttc" id="aa12360_html"><div class="ttname"><a href="../../de/dc4/a12360.html">cheat_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_cheat.cpp:28</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="abae44bbc8eb2fb66a5596017ea83583f" name="abae44bbc8eb2fb66a5596017ea83583f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abae44bbc8eb2fb66a5596017ea83583f">&#9670;&#160;</a></span>AddSC_debug_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_debug_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1988</span>{</div>
+<div class="line"><span class="lineno"> 1989</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/d57/a12364.html">debug_commandscript</a>();</div>
+<div class="line"><span class="lineno"> 1990</span>}</div>
+<div class="ttc" id="aa12364_html"><div class="ttname"><a href="../../d5/d57/a12364.html">debug_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_debug.cpp:53</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a4e8a885c7cc1a1dc7091c2dd2c931681" name="a4e8a885c7cc1a1dc7091c2dd2c931681"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4e8a885c7cc1a1dc7091c2dd2c931681">&#9670;&#160;</a></span>AddSC_deserter_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_deserter_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  445</span>{</div>
+<div class="line"><span class="lineno">  446</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d7/d3a/a12372.html">deserter_commandscript</a>();</div>
+<div class="line"><span class="lineno">  447</span>}</div>
+<div class="ttc" id="aa12372_html"><div class="ttname"><a href="../../d7/d3a/a12372.html">deserter_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_deserter.cpp:42</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a232e1ddbf34ceae5a317df69255bc8de" name="a232e1ddbf34ceae5a317df69255bc8de"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a232e1ddbf34ceae5a317df69255bc8de">&#9670;&#160;</a></span>AddSC_disable_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_disable_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  281</span>{</div>
+<div class="line"><span class="lineno">  282</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d0/ddf/a12376.html">disable_commandscript</a>();</div>
+<div class="line"><span class="lineno">  283</span>}</div>
+<div class="ttc" id="aa12376_html"><div class="ttname"><a href="../../d0/ddf/a12376.html">disable_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_disable.cpp:31</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a4f3834f706dcb17ca67ce6513f6aecad" name="a4f3834f706dcb17ca67ce6513f6aecad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4f3834f706dcb17ca67ce6513f6aecad">&#9670;&#160;</a></span>AddSC_event_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_event_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  177</span>{</div>
+<div class="line"><span class="lineno">  178</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d2a/a12380.html">event_commandscript</a>();</div>
+<div class="line"><span class="lineno">  179</span>}</div>
+<div class="ttc" id="aa12380_html"><div class="ttname"><a href="../../dc/d2a/a12380.html">event_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_event.cpp:31</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a8f5ae2609cea7d63d76141e1a5feaf27" name="a8f5ae2609cea7d63d76141e1a5feaf27"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8f5ae2609cea7d63d76141e1a5feaf27">&#9670;&#160;</a></span>AddSC_gear_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_gear_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  126</span>{</div>
+<div class="line"><span class="lineno">  127</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d53/a12384.html">gear_commandscript</a>();</div>
+<div class="line"><span class="lineno">  128</span>}</div>
+<div class="ttc" id="aa12384_html"><div class="ttname"><a href="../../dc/d53/a12384.html">gear_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_gear.cpp:28</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a65c7b128fdf4dd9807ef514c24918e7b" name="a65c7b128fdf4dd9807ef514c24918e7b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a65c7b128fdf4dd9807ef514c24918e7b">&#9670;&#160;</a></span>AddSC_gm_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_gm_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  251</span>{</div>
+<div class="line"><span class="lineno">  252</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/d3c/a12388.html">gm_commandscript</a>();</div>
+<div class="line"><span class="lineno">  253</span>}</div>
+<div class="ttc" id="aa12388_html"><div class="ttname"><a href="../../df/d3c/a12388.html">gm_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_gm.cpp:34</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a95fcb467686a27e069827ed3775df197" name="a95fcb467686a27e069827ed3775df197"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a95fcb467686a27e069827ed3775df197">&#9670;&#160;</a></span>AddSC_go_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_go_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  689</span>{</div>
+<div class="line"><span class="lineno">  690</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d8/df2/a12392.html">go_commandscript</a>();</div>
+<div class="line"><span class="lineno">  691</span>}</div>
+<div class="ttc" id="aa12392_html"><div class="ttname"><a href="../../d8/df2/a12392.html">go_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_go.cpp:35</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a0cc4be9c12b1a892f031cb1ff47e23d9" name="a0cc4be9c12b1a892f031cb1ff47e23d9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0cc4be9c12b1a892f031cb1ff47e23d9">&#9670;&#160;</a></span>AddSC_gobject_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_gobject_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  751</span>{</div>
+<div class="line"><span class="lineno">  752</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../de/d52/a12396.html">gobject_commandscript</a>();</div>
+<div class="line"><span class="lineno">  753</span>}</div>
+<div class="ttc" id="aa12396_html"><div class="ttname"><a href="../../de/d52/a12396.html">gobject_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_gobject.cpp:41</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="ac4c9434ed910cd9636e0a8644a8e91e1" name="ac4c9434ed910cd9636e0a8644a8e91e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac4c9434ed910cd9636e0a8644a8e91e1">&#9670;&#160;</a></span>AddSC_group_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_group_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  314</span>{</div>
+<div class="line"><span class="lineno">  315</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/da4/a12400.html">group_commandscript</a>();</div>
+<div class="line"><span class="lineno">  316</span>}</div>
+<div class="ttc" id="aa12400_html"><div class="ttname"><a href="../../dd/da4/a12400.html">group_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_group.cpp:28</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="af4f585942ab79df7bff025b621beef86" name="af4f585942ab79df7bff025b621beef86"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af4f585942ab79df7bff025b621beef86">&#9670;&#160;</a></span>AddSC_guild_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_guild_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  272</span>{</div>
+<div class="line"><span class="lineno">  273</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d1f/a12404.html">guild_commandscript</a>();</div>
+<div class="line"><span class="lineno">  274</span>}</div>
+<div class="ttc" id="aa12404_html"><div class="ttname"><a href="../../dc/d1f/a12404.html">guild_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_guild.cpp:27</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="ab7c57f853cb45a82b5563b703a1ee041" name="ab7c57f853cb45a82b5563b703a1ee041"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab7c57f853cb45a82b5563b703a1ee041">&#9670;&#160;</a></span>AddSC_honor_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_honor_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  107</span>{</div>
+<div class="line"><span class="lineno">  108</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/def/a12408.html">honor_commandscript</a>();</div>
+<div class="line"><span class="lineno">  109</span>}</div>
+<div class="ttc" id="aa12408_html"><div class="ttname"><a href="../../d2/def/a12408.html">honor_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_honor.cpp:28</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a3d7dc88b6e95322f2f3dc69ad367fa0c" name="a3d7dc88b6e95322f2f3dc69ad367fa0c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3d7dc88b6e95322f2f3dc69ad367fa0c">&#9670;&#160;</a></span>AddSC_instance_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_instance_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  288</span>{</div>
+<div class="line"><span class="lineno">  289</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d8/d8e/a12412.html">instance_commandscript</a>();</div>
+<div class="line"><span class="lineno">  290</span>}</div>
+<div class="ttc" id="aa12412_html"><div class="ttname"><a href="../../d8/d8e/a12412.html">instance_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_instance.cpp:33</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a8917ab2c5001702c3dc7a14313dbc562" name="a8917ab2c5001702c3dc7a14313dbc562"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8917ab2c5001702c3dc7a14313dbc562">&#9670;&#160;</a></span>AddSC_inventory_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_inventory_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  184</span>{</div>
+<div class="line"><span class="lineno">  185</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/df2/a12416.html">inventory_commandscript</a>();</div>
+<div class="line"><span class="lineno">  186</span>}</div>
+<div class="ttc" id="aa12416_html"><div class="ttname"><a href="../../dc/df2/a12416.html">inventory_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_inventory.cpp:67</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="ad129450eb89b9c3e5c98717b2c44de8e" name="ad129450eb89b9c3e5c98717b2c44de8e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad129450eb89b9c3e5c98717b2c44de8e">&#9670;&#160;</a></span>AddSC_item_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_item_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  365</span>{</div>
+<div class="line"><span class="lineno">  366</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/d8a/a12420.html">item_commandscript</a>();</div>
+<div class="line"><span class="lineno">  367</span>}</div>
+<div class="ttc" id="aa12420_html"><div class="ttname"><a href="../../db/d8a/a12420.html">item_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_item.cpp:30</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a8dd69858fd98c4630027654ecdcf92e7" name="a8dd69858fd98c4630027654ecdcf92e7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8dd69858fd98c4630027654ecdcf92e7">&#9670;&#160;</a></span>AddSC_learn_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_learn_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  443</span>{</div>
+<div class="line"><span class="lineno">  444</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d35/a12424.html">learn_commandscript</a>();</div>
+<div class="line"><span class="lineno">  445</span>}</div>
+<div class="ttc" id="aa12424_html"><div class="ttname"><a href="../../d1/d35/a12424.html">learn_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_learn.cpp:31</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a484938015a7f5ffa8f5b1d0e259d355b" name="a484938015a7f5ffa8f5b1d0e259d355b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a484938015a7f5ffa8f5b1d0e259d355b">&#9670;&#160;</a></span>AddSC_lfg_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_lfg_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  141</span>{</div>
+<div class="line"><span class="lineno">  142</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/dd1/a12428.html">lfg_commandscript</a>();</div>
+<div class="line"><span class="lineno">  143</span>}</div>
+<div class="ttc" id="aa12428_html"><div class="ttname"><a href="../../db/dd1/a12428.html">lfg_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_lfg.cpp:43</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a81af00772e7a06ad952109222b1f53a3" name="a81af00772e7a06ad952109222b1f53a3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a81af00772e7a06ad952109222b1f53a3">&#9670;&#160;</a></span>AddSC_list_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_list_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  600</span>{</div>
+<div class="line"><span class="lineno">  601</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../de/d33/a12432.html">list_commandscript</a>();</div>
+<div class="line"><span class="lineno">  602</span>}</div>
+<div class="ttc" id="aa12432_html"><div class="ttname"><a href="../../de/d33/a12432.html">list_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_list.cpp:35</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="aae75b0f1415c6529e5837e3b27d054f6" name="aae75b0f1415c6529e5837e3b27d054f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aae75b0f1415c6529e5837e3b27d054f6">&#9670;&#160;</a></span>AddSC_lookup_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_lookup_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1700</span>{</div>
+<div class="line"><span class="lineno"> 1701</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/d30/a12436.html">lookup_commandscript</a>();</div>
+<div class="line"><span class="lineno"> 1702</span>}</div>
+<div class="ttc" id="aa12436_html"><div class="ttname"><a href="../../d5/d30/a12436.html">lookup_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_lookup.cpp:34</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a60390ceaf08c6b305bdc77fd27243938" name="a60390ceaf08c6b305bdc77fd27243938"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a60390ceaf08c6b305bdc77fd27243938">&#9670;&#160;</a></span>AddSC_mail_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_mail_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  402</span>{</div>
+<div class="line"><span class="lineno">  403</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../de/d9e/a12440.html">mail_commandscript</a>();</div>
+<div class="line"><span class="lineno">  404</span>}</div>
+<div class="ttc" id="aa12440_html"><div class="ttname"><a href="../../de/d9e/a12440.html">mail_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_mail.cpp:36</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a85760eb92ac87e8dcb18c91d31f09fc0" name="a85760eb92ac87e8dcb18c91d31f09fc0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a85760eb92ac87e8dcb18c91d31f09fc0">&#9670;&#160;</a></span>AddSC_message_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_message_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  184</span>{</div>
+<div class="line"><span class="lineno">  185</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d8/db9/a12444.html">message_commandscript</a>();</div>
+<div class="line"><span class="lineno">  186</span>}</div>
+<div class="ttc" id="aa12444_html"><div class="ttname"><a href="../../d8/db9/a12444.html">message_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_message.cpp:34</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="ac722d20c86b9502b7c4c8ae711cc3917" name="ac722d20c86b9502b7c4c8ae711cc3917"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac722d20c86b9502b7c4c8ae711cc3917">&#9670;&#160;</a></span>AddSC_misc_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_misc_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 3463</span>{</div>
+<div class="line"><span class="lineno"> 3464</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/de4/a12448.html">misc_commandscript</a>();</div>
+<div class="line"><span class="lineno"> 3465</span>}</div>
+<div class="ttc" id="aa12448_html"><div class="ttname"><a href="../../db/de4/a12448.html">misc_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_misc.cpp:91</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="aa9672a1e32f85f31a4be02f505768ecd" name="aa9672a1e32f85f31a4be02f505768ecd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa9672a1e32f85f31a4be02f505768ecd">&#9670;&#160;</a></span>AddSC_mmaps_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_mmaps_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  340</span>{</div>
+<div class="line"><span class="lineno">  341</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/d4a/a12452.html">mmaps_commandscript</a>();</div>
+<div class="line"><span class="lineno">  342</span>}</div>
+<div class="ttc" id="aa12452_html"><div class="ttname"><a href="../../d4/d4a/a12452.html">mmaps_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_mmaps.cpp:41</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a9cbb6ad3c630cbeb9ba39b4552f72e87" name="a9cbb6ad3c630cbeb9ba39b4552f72e87"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9cbb6ad3c630cbeb9ba39b4552f72e87">&#9670;&#160;</a></span>AddSC_modify_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_modify_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  984</span>{</div>
+<div class="line"><span class="lineno">  985</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d1b/a12456.html">modify_commandscript</a>();</div>
+<div class="line"><span class="lineno">  986</span>}</div>
+<div class="ttc" id="aa12456_html"><div class="ttname"><a href="../../d6/d1b/a12456.html">modify_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_modify.cpp:31</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="ae99689f5e8e57f75adfcf54370ed979d" name="ae99689f5e8e57f75adfcf54370ed979d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae99689f5e8e57f75adfcf54370ed979d">&#9670;&#160;</a></span>AddSC_npc_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_npc_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1542</span>{</div>
+<div class="line"><span class="lineno"> 1543</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/d6d/a12472.html">npc_commandscript</a>();</div>
+<div class="line"><span class="lineno"> 1544</span>}</div>
+<div class="ttc" id="aa12472_html"><div class="ttname"><a href="../../d2/d6d/a12472.html">npc_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_npc.cpp:140</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a9c7b2cae4f7afb6ae0c9ccc623877625" name="a9c7b2cae4f7afb6ae0c9ccc623877625"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c7b2cae4f7afb6ae0c9ccc623877625">&#9670;&#160;</a></span>AddSC_pet_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_pet_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  341</span>{</div>
+<div class="line"><span class="lineno">  342</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/d2f/a12476.html">pet_commandscript</a>();</div>
+<div class="line"><span class="lineno">  343</span>}</div>
+<div class="ttc" id="aa12476_html"><div class="ttname"><a href="../../dd/d2f/a12476.html">pet_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_pet.cpp:36</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a3a4a77162d5b304dab9a8c8e397c3516" name="a3a4a77162d5b304dab9a8c8e397c3516"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3a4a77162d5b304dab9a8c8e397c3516">&#9670;&#160;</a></span>AddSC_player_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_player_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   68</span>{</div>
+<div class="line"><span class="lineno">   69</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/d87/a12480.html">player_commandscript</a>();</div>
+<div class="line"><span class="lineno">   70</span>}</div>
+<div class="ttc" id="aa12480_html"><div class="ttname"><a href="../../df/d87/a12480.html">player_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_player.cpp:25</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a366685affd5565d164c65f8cd4a20b61" name="a366685affd5565d164c65f8cd4a20b61"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a366685affd5565d164c65f8cd4a20b61">&#9670;&#160;</a></span>AddSC_player_settings_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_player_settings_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   97</span>{</div>
+<div class="line"><span class="lineno">   98</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d7/d8f/a12484.html">player_settings_commandscript</a>();</div>
+<div class="line"><span class="lineno">   99</span>}</div>
+<div class="ttc" id="aa12484_html"><div class="ttname"><a href="../../d7/d8f/a12484.html">player_settings_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_player_settings.cpp:27</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a933dbb3e5588f0735759e9409b716e55" name="a933dbb3e5588f0735759e9409b716e55"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a933dbb3e5588f0735759e9409b716e55">&#9670;&#160;</a></span>AddSC_pool_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_pool_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  234</span>{</div>
+<div class="line"><span class="lineno">  235</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../da/da0/a12488.html">pool_commandscript</a>();</div>
+<div class="line"><span class="lineno">  236</span>}</div>
+<div class="ttc" id="aa12488_html"><div class="ttname"><a href="../../da/da0/a12488.html">pool_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_pool.cpp:33</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a8c8907ff2ae66e87142b14909a2ee941" name="a8c8907ff2ae66e87142b14909a2ee941"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8c8907ff2ae66e87142b14909a2ee941">&#9670;&#160;</a></span>AddSC_pooltools_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_pooltools_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  419</span>{</div>
+<div class="line"><span class="lineno">  420</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d7/d32/a12504.html">pooltools_commandscript</a>();</div>
+<div class="line"><span class="lineno">  421</span>}</div>
+<div class="ttc" id="aa12504_html"><div class="ttname"><a href="../../d7/d32/a12504.html">pooltools_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_pooltools.cpp:59</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="ae9edb5f21eaacbfd73cc01543cb2fcdd" name="ae9edb5f21eaacbfd73cc01543cb2fcdd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae9edb5f21eaacbfd73cc01543cb2fcdd">&#9670;&#160;</a></span>AddSC_quest_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_quest_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  858</span>{</div>
+<div class="line"><span class="lineno">  859</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/dcd/a12508.html">quest_commandscript</a>();</div>
+<div class="line"><span class="lineno">  860</span>}</div>
+<div class="ttc" id="aa12508_html"><div class="ttname"><a href="../../d4/dcd/a12508.html">quest_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_quest.cpp:31</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="ac877b170f7f12651a1d6c8252a8fc0ff" name="ac877b170f7f12651a1d6c8252a8fc0ff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac877b170f7f12651a1d6c8252a8fc0ff">&#9670;&#160;</a></span>AddSC_rbac_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_rbac_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  289</span>{</div>
+<div class="line"><span class="lineno">  290</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/d4f/a12516.html">rbac_commandscript</a>();</div>
+<div class="line"><span class="lineno">  291</span>}</div>
+<div class="ttc" id="aa12516_html"><div class="ttname"><a href="../../df/d4f/a12516.html">rbac_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_rbac.cpp:47</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="ab72bc0a4ad4d6f90fa1e05f5591ed68f" name="ab72bc0a4ad4d6f90fa1e05f5591ed68f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab72bc0a4ad4d6f90fa1e05f5591ed68f">&#9670;&#160;</a></span>AddSC_reload_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_reload_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1305</span>{</div>
+<div class="line"><span class="lineno"> 1306</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d1/da6/a12520.html">reload_commandscript</a>();</div>
+<div class="line"><span class="lineno"> 1307</span>}</div>
+<div class="ttc" id="aa12520_html"><div class="ttname"><a href="../../d1/da6/a12520.html">reload_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_reload.cpp:52</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="ae4c7679595ac3aac5f03426eb6e0e6e4" name="ae4c7679595ac3aac5f03426eb6e0e6e4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4c7679595ac3aac5f03426eb6e0e6e4">&#9670;&#160;</a></span>AddSC_reset_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_reset_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  749</span>{</div>
+<div class="line"><span class="lineno">  750</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/d64/a12524.html">reset_commandscript</a>();</div>
+<div class="line"><span class="lineno">  751</span>}</div>
+<div class="ttc" id="aa12524_html"><div class="ttname"><a href="../../db/d64/a12524.html">reset_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_reset.cpp:31</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a9f3fee551f6ca7aa7dad83edb2dfe480" name="a9f3fee551f6ca7aa7dad83edb2dfe480"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9f3fee551f6ca7aa7dad83edb2dfe480">&#9670;&#160;</a></span>AddSC_send_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_send_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  235</span>{</div>
+<div class="line"><span class="lineno">  236</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d8/dbf/a12528.html">send_commandscript</a>();</div>
+<div class="line"><span class="lineno">  237</span>}</div>
+<div class="ttc" id="aa12528_html"><div class="ttname"><a href="../../d8/dbf/a12528.html">send_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_send.cpp:32</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="aaa97392c09b5045a6040d75b224bdf22" name="aaa97392c09b5045a6040d75b224bdf22"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaa97392c09b5045a6040d75b224bdf22">&#9670;&#160;</a></span>AddSC_server_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_server_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  635</span>{</div>
+<div class="line"><span class="lineno">  636</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../de/d98/a12532.html">server_commandscript</a>();</div>
+<div class="line"><span class="lineno">  637</span>}</div>
+<div class="ttc" id="aa12532_html"><div class="ttname"><a href="../../de/d98/a12532.html">server_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_server.cpp:44</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a223cb7b19bd79c486919c41509ea6ddf" name="a223cb7b19bd79c486919c41509ea6ddf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a223cb7b19bd79c486919c41509ea6ddf">&#9670;&#160;</a></span>AddSC_spectator_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_spectator_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  107</span>{</div>
+<div class="line"><span class="lineno">  108</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d3b/a12536.html">spectator_commandscript</a>();</div>
+<div class="line"><span class="lineno">  109</span>}</div>
+<div class="ttc" id="aa12536_html"><div class="ttname"><a href="../../dc/d3b/a12536.html">spectator_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_spectator.cpp:28</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="ab9e45d5e5eb40c48734ab273bdb3be64" name="ab9e45d5e5eb40c48734ab273bdb3be64"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab9e45d5e5eb40c48734ab273bdb3be64">&#9670;&#160;</a></span>AddSC_spellinfo_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_spellinfo_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  987</span>{</div>
+<div class="line"><span class="lineno">  988</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/d5f/a12540.html">spellinfo_commandscript</a>();</div>
+<div class="line"><span class="lineno">  989</span>}</div>
+<div class="ttc" id="aa12540_html"><div class="ttname"><a href="../../dd/d5f/a12540.html">spellinfo_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_spellinfo.cpp:31</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a75673ffc02c68c43cefd69bb0648dd53" name="a75673ffc02c68c43cefd69bb0648dd53"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a75673ffc02c68c43cefd69bb0648dd53">&#9670;&#160;</a></span>AddSC_tele_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_tele_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  371</span>{</div>
+<div class="line"><span class="lineno">  372</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../de/d38/a12544.html">tele_commandscript</a>();</div>
+<div class="line"><span class="lineno">  373</span>}</div>
+<div class="ttc" id="aa12544_html"><div class="ttname"><a href="../../de/d38/a12544.html">tele_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_tele.cpp:31</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="ad71463f4442d2e022a92404a4d9dec76" name="ad71463f4442d2e022a92404a4d9dec76"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad71463f4442d2e022a92404a4d9dec76">&#9670;&#160;</a></span>AddSC_ticket_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_ticket_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  534</span>{</div>
+<div class="line"><span class="lineno">  535</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/d28/a12548.html">ticket_commandscript</a>();</div>
+<div class="line"><span class="lineno">  536</span>}</div>
+<div class="ttc" id="aa12548_html"><div class="ttname"><a href="../../dd/d28/a12548.html">ticket_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_ticket.cpp:30</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="abd13948cbed6e10bdbf797847a0f6839" name="abd13948cbed6e10bdbf797847a0f6839"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abd13948cbed6e10bdbf797847a0f6839">&#9670;&#160;</a></span>AddSC_titles_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_titles_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  183</span>{</div>
+<div class="line"><span class="lineno">  184</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../de/d57/a12552.html">titles_commandscript</a>();</div>
+<div class="line"><span class="lineno">  185</span>}</div>
+<div class="ttc" id="aa12552_html"><div class="ttname"><a href="../../de/d57/a12552.html">titles_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_titles.cpp:27</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a2ff66ad19f50180b9878cf95696fd09b" name="a2ff66ad19f50180b9878cf95696fd09b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2ff66ad19f50180b9878cf95696fd09b">&#9670;&#160;</a></span>AddSC_worldstate_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_worldstate_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  174</span>{</div>
+<div class="line"><span class="lineno">  175</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d26/a12556.html">worldstate_commandscript</a>();</div>
+<div class="line"><span class="lineno">  176</span>}</div>
+<div class="ttc" id="aa12556_html"><div class="ttname"><a href="../../d1/d26/a12556.html">worldstate_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_worldstate.cpp:27</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
+<a id="afc6bb2ca7e993730a57350142f7e6fd5" name="afc6bb2ca7e993730a57350142f7e6fd5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afc6bb2ca7e993730a57350142f7e6fd5">&#9670;&#160;</a></span>AddSC_wp_commandscript()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_wp_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1097</span>{</div>
+<div class="line"><span class="lineno"> 1098</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d9d/a12560.html">wp_commandscript</a>();</div>
+<div class="line"><span class="lineno"> 1099</span>}</div>
+<div class="ttc" id="aa12560_html"><div class="ttname"><a href="../../dc/d9d/a12560.html">wp_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_wp.cpp:31</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_4ee90c1a7d0130816a1febdd934a8090.html">Maps</a></li><li class="navelem"><a class="el" href="../../d8/d9a/a02447.html">TransportMgr.cpp</a></li>
-    <li class="footer">Generated on Mon Jul 13 2026 21:33:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_2519615cc1c93425dacf3aa6e071da7e.html">Commands</a></li><li class="navelem"><a class="el" href="../../d8/d9a/a02447.html">cs_script_loader.cpp</a></li>
+    <li class="footer">Generated on Mon Jul 20 2026 21:47:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

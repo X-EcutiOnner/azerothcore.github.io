@@ -1,6 +1,9 @@
 var a15084 =
 [
-    [ "boss_epochAI", "dc/df1/a15088.html", "dc/df1/a15088" ],
-    [ "boss_epoch", "d1/dbb/a15084.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
-    [ "GetAI", "d1/dbb/a15084.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
+    [ "boss_azuregosAI", "d1/dbb/a15084.html#a839ab1e096d30062d64c1c515a7462a4", null ],
+    [ "JustDied", "d1/dbb/a15084.html#aea4d204173b7882d2d9acf8204410947", null ],
+    [ "JustEngagedWith", "d1/dbb/a15084.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
+    [ "KilledUnit", "d1/dbb/a15084.html#aeefc791e17d2a687f8beae809c44d123", null ],
+    [ "Reset", "d1/dbb/a15084.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
+    [ "UpdateAI", "d1/dbb/a15084.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
 ];

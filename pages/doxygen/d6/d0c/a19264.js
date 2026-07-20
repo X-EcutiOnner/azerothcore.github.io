@@ -1,5 +1,6 @@
 var a19264 =
 [
-    [ "PrepareSpellScript", "d6/d0c/a19264.html#a09b852666752f6adde3f9e5bb1f107bc", null ],
-    [ "Register", "d6/d0c/a19264.html#a80c3077f8f689367276e1054a6236681", null ]
+    [ "icecrown_citadel_teleport", "d6/d0c/a19264.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "d6/d0c/a19264.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "d6/d0c/a19264.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

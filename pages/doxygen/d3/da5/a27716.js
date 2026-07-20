@@ -1,6 +1,6 @@
 var a27716 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "d3/da5/a27716.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "d3/da5/a27716.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "d3/da5/a27716.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "CalculateAmount", "d3/da5/a27716.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
+    [ "PrepareAuraScript", "d3/da5/a27716.html#a845476e27b3751fd5aab505d41d8696d", null ],
+    [ "Register", "d3/da5/a27716.html#aa5141f11bcd97cc501297a5309df1079", null ]
 ];

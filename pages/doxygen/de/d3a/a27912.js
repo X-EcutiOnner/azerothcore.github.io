@@ -1,5 +1,11 @@
 var a27912 =
 [
-    [ "go_southfury_moonstone", "de/d3a/a27912.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
-    [ "OnGossipHello", "de/d3a/a27912.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
+    [ "npc_dream_fogAI", "de/d3a/a27912.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
+    [ "GetRandomUnitFromDragonThreatList", "de/d3a/a27912.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
+    [ "Reset", "de/d3a/a27912.html#a595eeeae54d4bf323287fc408f706ac6", null ],
+    [ "ScheduleEvents", "de/d3a/a27912.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
+    [ "SetGUID", "de/d3a/a27912.html#a3666423921a5405ea220ba098f3f91fe", null ],
+    [ "UpdateAI", "de/d3a/a27912.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
+    [ "_dragonGUID", "de/d3a/a27912.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
+    [ "_targetGUID", "de/d3a/a27912.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
 ];

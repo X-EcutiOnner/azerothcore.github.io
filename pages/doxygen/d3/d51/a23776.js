@@ -1,6 +1,9 @@
 var a23776 =
 [
-    [ "npc_commander_dawnforgeAI", "d3/db6/a23780.html", "d3/db6/a23780" ],
-    [ "npc_commander_dawnforge", "d3/d51/a23776.html#ab4d430725f68f906e9c8def66b1d6646", null ],
-    [ "GetAI", "d3/d51/a23776.html#a6089b087b7c3b18659e23c677814318b", null ]
+    [ "boss_nethermancer_sepethrea", "d3/d51/a23776.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "d3/d51/a23776.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "d3/d51/a23776.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "d3/d51/a23776.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "d3/d51/a23776.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "d3/d51/a23776.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

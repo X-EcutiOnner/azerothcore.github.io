@@ -1,7 +1,7 @@
 var a23968 =
 [
-    [ "HandleSendEvent", "d3/dd6/a23968.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "d3/dd6/a23968.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "d3/dd6/a23968.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "d3/dd6/a23968.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "npc_maxx_a_million_escortAI", "d3/d66/a23972.html", "d3/d66/a23972" ],
+    [ "npc_maxx_a_million_escort", "d3/dd6/a23968.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "d3/dd6/a23968.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "d3/dd6/a23968.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
 ];

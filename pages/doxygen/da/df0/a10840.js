@@ -1,9 +1,6 @@
 var a10840 =
 [
-    [ "ServerPacket", "da/df0/a10840.html#a4d2bf169dd705b886da8ff58a7ef4bd2", null ],
-    [ "Clear", "da/df0/a10840.html#aa54f2fa66cfe4682ca56cf01f9e1296a", null ],
-    [ "GetOpcode", "da/df0/a10840.html#a639ab6c078d7c746bcb328526df705be", null ],
-    [ "Move", "da/df0/a10840.html#a659397042201ae571bb564872e54d2c6", null ],
-    [ "Read", "da/df0/a10840.html#ae49aa7bce566d9f0ea3c7bbb487a119d", null ],
-    [ "ShrinkToFit", "da/df0/a10840.html#a6fa19a94d57484aaff3498be01495258", null ]
+    [ "WorldMapScript", "da/df0/a10840.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
+    [ "checkValidity", "da/df0/a10840.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
+    [ "isAfterLoadScript", "da/df0/a10840.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
 ];

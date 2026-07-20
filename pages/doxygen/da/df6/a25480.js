@@ -1,7 +1,7 @@
 var a25480 =
 [
-    [ "HandleJump", "da/df6/a25480.html#ac70f6d53e85af1ee2591e761e21872db", null ],
-    [ "HandleScriptEffect", "da/df6/a25480.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
-    [ "PrepareSpellScript", "da/df6/a25480.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
-    [ "Register", "da/df6/a25480.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
+    [ "HandleScriptEffect", "da/df6/a25480.html#ae3c2900d98c2fd51ff0888ea5d1072c4", null ],
+    [ "PrepareSpellScript", "da/df6/a25480.html#a29ac1789b8023ef3339a7b40ee9c31ab", null ],
+    [ "Register", "da/df6/a25480.html#a321098d2325bfb9cea674d1137348350", null ],
+    [ "Validate", "da/df6/a25480.html#aa16a67bf42f51b838d22dcbe4b5b6f7b", null ]
 ];

@@ -1,8 +1,5 @@
 var a15048 =
 [
-    [ "hyjalThrallAI", "d3/d4f/a15048.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
-    [ "JustDied", "d3/d4f/a15048.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
-    [ "JustEngagedWith", "d3/d4f/a15048.html#a96706138634275ae7639c14f53cdd842", null ],
-    [ "Reset", "d3/d4f/a15048.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
-    [ "UpdateAI", "d3/d4f/a15048.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
+    [ "achievement_pb_terokkar_turkey_time", "d3/d4f/a15048.html#a68e536379b04e060f44819c9831766c2", null ],
+    [ "OnCheck", "d3/d4f/a15048.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
 ];

@@ -1,5 +1,7 @@
 var a21816 =
 [
-    [ "npc_guardian_pavilionAI", "d0/df3/a21816.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
-    [ "MoveInLineOfSight", "d0/df3/a21816.html#aeae26e28be93120062d9f77c069ff32a", null ]
+    [ "HandleAfterEffectApply", "d0/df3/a21816.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "d0/df3/a21816.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "d0/df3/a21816.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "d0/df3/a21816.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

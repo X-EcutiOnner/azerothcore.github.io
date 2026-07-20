@@ -1,5 +1,7 @@
 var a25204 =
 [
-    [ "PrepareSpellScript", "db/dfe/a25204.html#a939db3d626f3451edd605ced6d9b2ebe", null ],
-    [ "Register", "db/dfe/a25204.html#a5b356ca08e33c8eb127bec763f105792", null ]
+    [ "HandleScript", "db/dfe/a25204.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
+    [ "PrepareSpellScript", "db/dfe/a25204.html#a7909f23da8385abdabb62e5196d88d38", null ],
+    [ "Register", "db/dfe/a25204.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
+    [ "Validate", "db/dfe/a25204.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
 ];

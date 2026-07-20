@@ -1,11 +1,11 @@
 var a17496 =
 [
-    [ "boss_slad_ranAI", "df/d9d/a17496.html#ad85e2fd51d67739026a96bc757bc7801", null ],
-    [ "GetData", "df/d9d/a17496.html#a58e1188a418acdc1f327e7df90c5c122", null ],
-    [ "JustDied", "df/d9d/a17496.html#a636ca76497c33a5175986e80bbcda44a", null ],
-    [ "JustEngagedWith", "df/d9d/a17496.html#ac30b38805d0421b1be509c7d5609c648", null ],
-    [ "KilledUnit", "df/d9d/a17496.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
-    [ "Reset", "df/d9d/a17496.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
-    [ "SetData", "df/d9d/a17496.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
-    [ "_achievement", "df/d9d/a17496.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
+    [ "npc_pos_leader_secondAI", "df/d9d/a17496.html#a2ded8591da2548921cd016d592d1f1c8", null ],
+    [ "DoAction", "df/d9d/a17496.html#a941d3b42d6a0e58496b724af56fee44a", null ],
+    [ "MovementInform", "df/d9d/a17496.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
+    [ "SpellHitTarget", "df/d9d/a17496.html#ae630b7b225379831d15a11f66507bc6a", null ],
+    [ "UpdateAI", "df/d9d/a17496.html#a640aea9ce4a47dd13d417748e533fc33", null ],
+    [ "barrierGUID", "df/d9d/a17496.html#a452c096475581c12bf2f4ccb12448026", null ],
+    [ "events", "df/d9d/a17496.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
+    [ "pInstance", "df/d9d/a17496.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
 ];

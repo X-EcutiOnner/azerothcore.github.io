@@ -1,9 +1,6 @@
 var a28156 =
 [
-    [ "npc_chicken_cluckAI", "d5/dd6/a28156.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "d5/dd6/a28156.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "d5/dd6/a28156.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "d5/dd6/a28156.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "d5/dd6/a28156.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "d5/dd6/a28156.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "go_bellsAI", "d6/d66/a28160.html", "d6/d66/a28160" ],
+    [ "go_bells", "d5/dd6/a28156.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
+    [ "GetAI", "d5/dd6/a28156.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
 ];

@@ -1,12 +1,15 @@
 var a07528 =
 [
-    [ "damageText", "d1/d8e/a07528.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
-    [ "destroyText", "d1/d8e/a07528.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
-    [ "entry", "d1/d8e/a07528.html#a58d0395a47190698d309e80d91358bb1", null ],
-    [ "o", "d1/d8e/a07528.html#a21238943701f594e1a5346193c895d33", null ],
-    [ "type", "d1/d8e/a07528.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
-    [ "WorldState", "d1/d8e/a07528.html#a4b4881aba2d297e125443f0c8ccab618", null ],
-    [ "x", "d1/d8e/a07528.html#a80ebabba7265753a05367a4c79f6450c", null ],
-    [ "y", "d1/d8e/a07528.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
-    [ "z", "d1/d8e/a07528.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
+    [ "AuctionHouseSearcher", "d1/d8e/a07528.html#adee77153a7b9efeac149e6c951082986", null ],
+    [ "~AuctionHouseSearcher", "d1/d8e/a07528.html#a84842935539c5ef8b02815cc8697e568", null ],
+    [ "AddAuction", "d1/d8e/a07528.html#a09e01dd8840a50f6b6dd5f70ad9ec10c", null ],
+    [ "NotifyAllWorkers", "d1/d8e/a07528.html#a443577cfba0af003e7e0e8834474a6c1", null ],
+    [ "NotifyOneWorker", "d1/d8e/a07528.html#a1b70b786bf6e57d9d9cae8f34f0d779b", null ],
+    [ "QueueSearchRequest", "d1/d8e/a07528.html#a53caf3298638d325a8b9e97584296ad3", null ],
+    [ "RemoveAuction", "d1/d8e/a07528.html#a145da4d009d9814a4e76fae0d02f33e4", null ],
+    [ "Update", "d1/d8e/a07528.html#ac8c7b88346dc99bed5fe8d0efb28eebb", null ],
+    [ "UpdateBid", "d1/d8e/a07528.html#a7bb50e3e903c73a83469e7323917d40d", null ],
+    [ "_requestQueue", "d1/d8e/a07528.html#ac221abeb9a760c90d6110310970e6463", null ],
+    [ "_responseQueue", "d1/d8e/a07528.html#a772e65025ae498b8837222ae98f49c28", null ],
+    [ "_workerThreads", "d1/d8e/a07528.html#aa1cedd8cb22b840599b97bf7c7df0949", null ]
 ];

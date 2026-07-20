@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Commands/cs_arena.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Battlegrounds/BattlegroundUtils.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,52 +105,125 @@ $(document).ready(function(){initNavTree('d7/d29/a01589.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">cs_arena.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">BattlegroundUtils.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ArenaSeasonMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ArenaTeamFilter.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ArenaTeamMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CommandScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">RBAC.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">BattlegroundUtils.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d99/a12301.html">arena_commandscript</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aa94d37f012ac02e97a1021713b7dbeeb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d29/a01589.html#aa94d37f012ac02e97a1021713b7dbeeb">AddSC_arena_commandscript</a> ()</td></tr>
-<tr class="separator:aa94d37f012ac02e97a1021713b7dbeeb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab22bdb52b0357434faced9df19db9d81"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d7c/a04601.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d29/a01589.html#ab22bdb52b0357434faced9df19db9d81">GetMinPlayersPerTeam</a> (<a class="el" href="../../d0/d40/a07684.html">Battleground</a> *bg, <a class="el" href="../../df/de3/a29104.html">PvPDifficultyEntry</a> const *bracketEntry)</td></tr>
+<tr class="separator:ab22bdb52b0357434faced9df19db9d81"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37cb97319fde2ce5eaaef583591063a9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d7c/a04601.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d29/a01589.html#a37cb97319fde2ce5eaaef583591063a9">GetLowLevelsMinPlayersOverride</a> (<a class="el" href="../../d5/d8a/a04475.html#aaef9ddb244c12d22800aee24c3b637a2">BattlegroundTypeId</a> bgTypeId)</td></tr>
+<tr class="separator:a37cb97319fde2ce5eaaef583591063a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="aa94d37f012ac02e97a1021713b7dbeeb" name="aa94d37f012ac02e97a1021713b7dbeeb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa94d37f012ac02e97a1021713b7dbeeb">&#9670;&#160;</a></span>AddSC_arena_commandscript()</h2>
+<a id="a37cb97319fde2ce5eaaef583591063a9" name="a37cb97319fde2ce5eaaef583591063a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a37cb97319fde2ce5eaaef583591063a9">&#9670;&#160;</a></span>GetLowLevelsMinPlayersOverride()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_arena_commandscript </td>
+          <td class="memname"><a class="el" href="../../d8/d7c/a04601.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GetLowLevelsMinPlayersOverride </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d5/d8a/a04475.html#aaef9ddb244c12d22800aee24c3b637a2">BattlegroundTypeId</a>&#160;</td>
+          <td class="paramname"><em>bgTypeId</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  319</span>{</div>
-<div class="line"><span class="lineno">  320</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d3/d99/a12301.html">arena_commandscript</a>();</div>
-<div class="line"><span class="lineno">  321</span>}</div>
-<div class="ttc" id="aa12301_html"><div class="ttname"><a href="../../d3/d99/a12301.html">arena_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_arena.cpp:29</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   23</span>{</div>
+<div class="line"><span class="lineno">   24</span>    <a class="code hl_typedef" href="../../d8/d7c/a04601.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> perBg = 0;</div>
+<div class="line"><span class="lineno">   25</span>    <span class="keywordflow">switch</span> (bgTypeId)</div>
+<div class="line"><span class="lineno">   26</span>    {</div>
+<div class="line"><span class="lineno">   27</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d8a/a04475.html#aaef9ddb244c12d22800aee24c3b637a2a31595c32354087d7dff5c08e291c2a9c">BATTLEGROUND_AV</a>: perBg = <a class="code hl_define" href="../../d8/d59/a05062.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d5/d10/a01571.html#a468ad15992691eb97dd20680046832e0af28feef00fad755ecb3a6a2a2f5d4158">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_AV</a>); <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   28</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d8a/a04475.html#aaef9ddb244c12d22800aee24c3b637a2a117184e14f6dd8735bfb869a017801ac">BATTLEGROUND_WS</a>: perBg = <a class="code hl_define" href="../../d8/d59/a05062.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d5/d10/a01571.html#a468ad15992691eb97dd20680046832e0ac0dea0338b7e10d4b9366f37b50dc443">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_WS</a>); <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   29</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d8a/a04475.html#aaef9ddb244c12d22800aee24c3b637a2acfb3cfbf4efce33f7dfe06964c79188d">BATTLEGROUND_AB</a>: perBg = <a class="code hl_define" href="../../d8/d59/a05062.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d5/d10/a01571.html#a468ad15992691eb97dd20680046832e0ae489f1f62e0bfc31743bfaefa9ecaf1c">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_AB</a>); <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   30</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d8a/a04475.html#aaef9ddb244c12d22800aee24c3b637a2a2a39aa0c545f62059a6d02bed55cd185">BATTLEGROUND_EY</a>: perBg = <a class="code hl_define" href="../../d8/d59/a05062.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d5/d10/a01571.html#a468ad15992691eb97dd20680046832e0af292dee34ff6eef46d24191b356e43a4">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_EY</a>); <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   31</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d8a/a04475.html#aaef9ddb244c12d22800aee24c3b637a2ac86b2f76ec73f994a93e5b74eabb75ab">BATTLEGROUND_SA</a>: perBg = <a class="code hl_define" href="../../d8/d59/a05062.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d5/d10/a01571.html#a468ad15992691eb97dd20680046832e0a8171724fe0ceedf3072673b2faa0a358">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_SA</a>); <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   32</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d8a/a04475.html#aaef9ddb244c12d22800aee24c3b637a2a0bbe26d588c3dbd56c898f29589caabf">BATTLEGROUND_IC</a>: perBg = <a class="code hl_define" href="../../d8/d59/a05062.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d5/d10/a01571.html#a468ad15992691eb97dd20680046832e0a07f6ca2d05afb9f6f8709e7c044cc52c">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_IC</a>); <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   33</span>        <span class="keywordflow">default</span>: <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   34</span>    }</div>
+<div class="line"><span class="lineno">   35</span>    <span class="keywordflow">return</span> perBg ? perBg : <a class="code hl_define" href="../../d8/d59/a05062.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d5/d10/a01571.html#a468ad15992691eb97dd20680046832e0acc35d8a8f61002583d1c994bd93592eb">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS</a>);</div>
+<div class="line"><span class="lineno">   36</span>}</div>
+<div class="ttc" id="aa01571_html_a468ad15992691eb97dd20680046832e0a07f6ca2d05afb9f6f8709e7c044cc52c"><div class="ttname"><a href="../../d5/d10/a01571.html#a468ad15992691eb97dd20680046832e0a07f6ca2d05afb9f6f8709e7c044cc52c">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_IC</a></div><div class="ttdeci">@ CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_IC</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:272</div></div>
+<div class="ttc" id="aa01571_html_a468ad15992691eb97dd20680046832e0a8171724fe0ceedf3072673b2faa0a358"><div class="ttname"><a href="../../d5/d10/a01571.html#a468ad15992691eb97dd20680046832e0a8171724fe0ceedf3072673b2faa0a358">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_SA</a></div><div class="ttdeci">@ CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_SA</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:271</div></div>
+<div class="ttc" id="aa01571_html_a468ad15992691eb97dd20680046832e0ac0dea0338b7e10d4b9366f37b50dc443"><div class="ttname"><a href="../../d5/d10/a01571.html#a468ad15992691eb97dd20680046832e0ac0dea0338b7e10d4b9366f37b50dc443">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_WS</a></div><div class="ttdeci">@ CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_WS</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:268</div></div>
+<div class="ttc" id="aa01571_html_a468ad15992691eb97dd20680046832e0acc35d8a8f61002583d1c994bd93592eb"><div class="ttname"><a href="../../d5/d10/a01571.html#a468ad15992691eb97dd20680046832e0acc35d8a8f61002583d1c994bd93592eb">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS</a></div><div class="ttdeci">@ CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:266</div></div>
+<div class="ttc" id="aa01571_html_a468ad15992691eb97dd20680046832e0ae489f1f62e0bfc31743bfaefa9ecaf1c"><div class="ttname"><a href="../../d5/d10/a01571.html#a468ad15992691eb97dd20680046832e0ae489f1f62e0bfc31743bfaefa9ecaf1c">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_AB</a></div><div class="ttdeci">@ CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_AB</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:269</div></div>
+<div class="ttc" id="aa01571_html_a468ad15992691eb97dd20680046832e0af28feef00fad755ecb3a6a2a2f5d4158"><div class="ttname"><a href="../../d5/d10/a01571.html#a468ad15992691eb97dd20680046832e0af28feef00fad755ecb3a6a2a2f5d4158">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_AV</a></div><div class="ttdeci">@ CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_AV</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:267</div></div>
+<div class="ttc" id="aa01571_html_a468ad15992691eb97dd20680046832e0af292dee34ff6eef46d24191b356e43a4"><div class="ttname"><a href="../../d5/d10/a01571.html#a468ad15992691eb97dd20680046832e0af292dee34ff6eef46d24191b356e43a4">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_EY</a></div><div class="ttdeci">@ CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_EY</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:270</div></div>
+<div class="ttc" id="aa04475_html_aaef9ddb244c12d22800aee24c3b637a2a0bbe26d588c3dbd56c898f29589caabf"><div class="ttname"><a href="../../d5/d8a/a04475.html#aaef9ddb244c12d22800aee24c3b637a2a0bbe26d588c3dbd56c898f29589caabf">BATTLEGROUND_IC</a></div><div class="ttdeci">@ BATTLEGROUND_IC</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3748</div></div>
+<div class="ttc" id="aa04475_html_aaef9ddb244c12d22800aee24c3b637a2a117184e14f6dd8735bfb869a017801ac"><div class="ttname"><a href="../../d5/d8a/a04475.html#aaef9ddb244c12d22800aee24c3b637a2a117184e14f6dd8735bfb869a017801ac">BATTLEGROUND_WS</a></div><div class="ttdeci">@ BATTLEGROUND_WS</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3738</div></div>
+<div class="ttc" id="aa04475_html_aaef9ddb244c12d22800aee24c3b637a2a2a39aa0c545f62059a6d02bed55cd185"><div class="ttname"><a href="../../d5/d8a/a04475.html#aaef9ddb244c12d22800aee24c3b637a2a2a39aa0c545f62059a6d02bed55cd185">BATTLEGROUND_EY</a></div><div class="ttdeci">@ BATTLEGROUND_EY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3743</div></div>
+<div class="ttc" id="aa04475_html_aaef9ddb244c12d22800aee24c3b637a2a31595c32354087d7dff5c08e291c2a9c"><div class="ttname"><a href="../../d5/d8a/a04475.html#aaef9ddb244c12d22800aee24c3b637a2a31595c32354087d7dff5c08e291c2a9c">BATTLEGROUND_AV</a></div><div class="ttdeci">@ BATTLEGROUND_AV</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3737</div></div>
+<div class="ttc" id="aa04475_html_aaef9ddb244c12d22800aee24c3b637a2ac86b2f76ec73f994a93e5b74eabb75ab"><div class="ttname"><a href="../../d5/d8a/a04475.html#aaef9ddb244c12d22800aee24c3b637a2ac86b2f76ec73f994a93e5b74eabb75ab">BATTLEGROUND_SA</a></div><div class="ttdeci">@ BATTLEGROUND_SA</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3745</div></div>
+<div class="ttc" id="aa04475_html_aaef9ddb244c12d22800aee24c3b637a2acfb3cfbf4efce33f7dfe06964c79188d"><div class="ttname"><a href="../../d5/d8a/a04475.html#aaef9ddb244c12d22800aee24c3b637a2acfb3cfbf4efce33f7dfe06964c79188d">BATTLEGROUND_AB</a></div><div class="ttdeci">@ BATTLEGROUND_AB</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3739</div></div>
+<div class="ttc" id="aa04601_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/d7c/a04601.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa05062_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d8/d59/a05062.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:318</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00076">AddCommandsScripts()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l03739">BATTLEGROUND_AB</a>, <a class="el" href="../../#l03737">BATTLEGROUND_AV</a>, <a class="el" href="../../#l03743">BATTLEGROUND_EY</a>, <a class="el" href="../../#l03748">BATTLEGROUND_IC</a>, <a class="el" href="../../#l03745">BATTLEGROUND_SA</a>, <a class="el" href="../../#l03738">BATTLEGROUND_WS</a>, <a class="el" href="../../#l00266">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS</a>, <a class="el" href="../../#l00269">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_AB</a>, <a class="el" href="../../#l00267">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_AV</a>, <a class="el" href="../../#l00270">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_EY</a>, <a class="el" href="../../#l00272">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_IC</a>, <a class="el" href="../../#l00271">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_SA</a>, <a class="el" href="../../#l00268">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS_WS</a>, and <a class="el" href="../../#l00318">sWorld</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00246">Battleground::GetMinPlayersPerTeam()</a>, <a class="el" href="../../#l00004">GetMinPlayersPerTeam()</a>, and <a class="el" href="../../#l00152">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="ab22bdb52b0357434faced9df19db9d81" name="ab22bdb52b0357434faced9df19db9d81"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab22bdb52b0357434faced9df19db9d81">&#9670;&#160;</a></span>GetMinPlayersPerTeam()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d7c/a04601.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GetMinPlayersPerTeam </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d40/a07684.html">Battleground</a> *&#160;</td>
+          <td class="paramname"><em>bg</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../df/de3/a29104.html">PvPDifficultyEntry</a> const *&#160;</td>
+          <td class="paramname"><em>bracketEntry</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">    5</span>{</div>
+<div class="line"><span class="lineno">    6</span>    <span class="comment">// The problem addressed here is that methods such as bg-&gt;GetMinLevel() and bg-&gt;GetMaxLevel() have a different meaning</span></div>
+<div class="line"><span class="lineno">    7</span>    <span class="comment">// according to whether the BG is a template (then it&#39;s the value from the `battleground_template` table)</span></div>
+<div class="line"><span class="lineno">    8</span>    <span class="comment">// or if it&#39;s the real BG (then it&#39;s the specific bracket minimum level, e.g. &quot;60&quot; for &quot;60-69&quot;).</span></div>
+<div class="line"><span class="lineno">    9</span> </div>
+<div class="line"><span class="lineno">   10</span>    <span class="keywordflow">if</span> (!bg-&gt;<a class="code hl_function" href="../../d0/d40/a07684.html#acf16b3c5055b8a424e5f67cf471c5764">isTemplate</a>() || bg-&gt;<a class="code hl_function" href="../../d0/d40/a07684.html#a8ca3356d984db0c5b6e09d61cf7a406c">isArena</a>())</div>
+<div class="line"><span class="lineno">   11</span>    {</div>
+<div class="line"><span class="lineno">   12</span>        <span class="keywordflow">return</span> bg-&gt;<a class="code hl_function" href="../../d0/d40/a07684.html#a2def9e5daf5fcb029686b8000111ba5f">GetMinPlayersPerTeam</a>();</div>
+<div class="line"><span class="lineno">   13</span>    }</div>
+<div class="line"><span class="lineno">   14</span> </div>
+<div class="line"><span class="lineno">   15</span>    <span class="keyword">auto</span> maxPlayerLevel = <a class="code hl_define" href="../../d8/d59/a05062.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d5/d10/a01571.html#a468ad15992691eb97dd20680046832e0a6684273cdd36b9b8215844fc51358ae1">CONFIG_MAX_PLAYER_LEVEL</a>);</div>
+<div class="line"><span class="lineno">   16</span>    <span class="keyword">auto</span> isMaxLevel = bracketEntry-&gt;minLevel &lt;= maxPlayerLevel &amp;&amp; maxPlayerLevel &lt;= bracketEntry-&gt;maxLevel;</div>
+<div class="line"><span class="lineno">   17</span>    <span class="keyword">auto</span> lowLevelsOverride = <a class="code hl_function" href="../../d7/d29/a01589.html#a37cb97319fde2ce5eaaef583591063a9">GetLowLevelsMinPlayersOverride</a>(bg-&gt;<a class="code hl_function" href="../../d0/d40/a07684.html#adfd6af85ad435ecdab7129e810ba2319">GetBgTypeID</a>());</div>
+<div class="line"><span class="lineno">   18</span> </div>
+<div class="line"><span class="lineno">   19</span>    <span class="keywordflow">return</span> (lowLevelsOverride &amp;&amp; !isMaxLevel) ? lowLevelsOverride : bg-&gt;<a class="code hl_function" href="../../d0/d40/a07684.html#a2def9e5daf5fcb029686b8000111ba5f">GetMinPlayersPerTeam</a>();</div>
+<div class="line"><span class="lineno">   20</span>}</div>
+<div class="ttc" id="aa01571_html_a468ad15992691eb97dd20680046832e0a6684273cdd36b9b8215844fc51358ae1"><div class="ttname"><a href="../../d5/d10/a01571.html#a468ad15992691eb97dd20680046832e0a6684273cdd36b9b8215844fc51358ae1">CONFIG_MAX_PLAYER_LEVEL</a></div><div class="ttdeci">@ CONFIG_MAX_PLAYER_LEVEL</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:194</div></div>
+<div class="ttc" id="aa01589_html_a37cb97319fde2ce5eaaef583591063a9"><div class="ttname"><a href="../../d7/d29/a01589.html#a37cb97319fde2ce5eaaef583591063a9">GetLowLevelsMinPlayersOverride</a></div><div class="ttdeci">uint32 GetLowLevelsMinPlayersOverride(BattlegroundTypeId bgTypeId)</div><div class="ttdef"><b>Definition:</b> BattlegroundUtils.cpp:22</div></div>
+<div class="ttc" id="aa07684_html_a2def9e5daf5fcb029686b8000111ba5f"><div class="ttname"><a href="../../d0/d40/a07684.html#a2def9e5daf5fcb029686b8000111ba5f">Battleground::GetMinPlayersPerTeam</a></div><div class="ttdeci">uint32 GetMinPlayersPerTeam() const</div><div class="ttdef"><b>Definition:</b> Battleground.cpp:246</div></div>
+<div class="ttc" id="aa07684_html_a8ca3356d984db0c5b6e09d61cf7a406c"><div class="ttname"><a href="../../d0/d40/a07684.html#a8ca3356d984db0c5b6e09d61cf7a406c">Battleground::isArena</a></div><div class="ttdeci">bool isArena() const</div><div class="ttdef"><b>Definition:</b> Battleground.h:412</div></div>
+<div class="ttc" id="aa07684_html_acf16b3c5055b8a424e5f67cf471c5764"><div class="ttname"><a href="../../d0/d40/a07684.html#acf16b3c5055b8a424e5f67cf471c5764">Battleground::isTemplate</a></div><div class="ttdeci">bool isTemplate() const</div><div class="ttdef"><b>Definition:</b> Battleground.h:341</div></div>
+<div class="ttc" id="aa07684_html_adfd6af85ad435ecdab7129e810ba2319"><div class="ttname"><a href="../../d0/d40/a07684.html#adfd6af85ad435ecdab7129e810ba2319">Battleground::GetBgTypeID</a></div><div class="ttdeci">BattlegroundTypeId GetBgTypeID(bool GetRandom=false) const</div><div class="ttdef"><b>Definition:</b> Battleground.h:329</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00194">CONFIG_MAX_PLAYER_LEVEL</a>, <a class="el" href="../../#l00329">Battleground::GetBgTypeID()</a>, <a class="el" href="../../#l00022">GetLowLevelsMinPlayersOverride()</a>, <a class="el" href="../../#l00246">Battleground::GetMinPlayersPerTeam()</a>, <a class="el" href="../../#l00412">Battleground::isArena()</a>, <a class="el" href="../../#l00341">Battleground::isTemplate()</a>, <a class="el" href="../../#l01436">PvPDifficultyEntry::maxLevel</a>, <a class="el" href="../../#l01435">PvPDifficultyEntry::minLevel</a>, and <a class="el" href="../../#l00318">sWorld</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01041">BattlegroundQueue::BattlegroundQueueAnnouncerUpdate()</a>, <a class="el" href="../../#l00790">BattlegroundQueue::BattlegroundQueueUpdate()</a>, <a class="el" href="../../#l01119">BattlegroundQueue::SendMessageBGQueue()</a>, and <a class="el" href="../../#l00086">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -159,8 +232,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_2519615cc1c93425dacf3aa6e071da7e.html">Commands</a></li><li class="navelem"><a class="el" href="../../d7/d29/a01589.html">cs_arena.cpp</a></li>
-    <li class="footer">Generated on Mon Jul 13 2026 21:33:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_fc52f0b797d74b4b54bfd04593b84648.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../d7/d29/a01589.html">BattlegroundUtils.cpp</a></li>
+    <li class="footer">Generated on Mon Jul 20 2026 21:47:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,5 @@
 var a27888 =
 [
-    [ "go_midsummer_musicAI", "d0/d4b/a27888.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
-    [ "UpdateAI", "d0/d4b/a27888.html#adf185ee702e9e74f65204b90786f9eb4", null ],
-    [ "_events", "d0/d4b/a27888.html#a31e45a754930cdc3206fe2b7f754d234", null ]
+    [ "AreaTrigger_at_nats_landing", "d0/d4b/a27888.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
+    [ "OnTrigger", "d0/d4b/a27888.html#a67434f74300fa3463e679afb7d344467", null ]
 ];

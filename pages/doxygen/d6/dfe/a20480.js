@@ -1,8 +1,7 @@
 var a20480 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d4/ddc/a20484.html", "d4/ddc/a20484" ],
-    [ "npc_ulduar_expedition_commander", "d6/dfe/a20480.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
-    [ "GetAI", "d6/dfe/a20480.html#aa888a3634a643a103075d44c8f52d28a", null ],
-    [ "OnGossipHello", "d6/dfe/a20480.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
-    [ "OnGossipSelect", "d6/dfe/a20480.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
+    [ "FilterTargetsInitial", "d6/dfe/a20480.html#a2477349cffb8da02936545ba0bd03d0f", null ],
+    [ "Load", "d6/dfe/a20480.html#a4606d10a2699e3fb5290cefdc0876505", null ],
+    [ "PrepareSpellScript", "d6/dfe/a20480.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
+    [ "Register", "d6/dfe/a20480.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
 ];

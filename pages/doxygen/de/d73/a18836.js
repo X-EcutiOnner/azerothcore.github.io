@@ -1,7 +1,7 @@
 var a18836 =
 [
-    [ "HandleForceCast", "de/d73/a18836.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "de/d73/a18836.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "de/d73/a18836.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "de/d73/a18836.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "AuraRemoveEvent", "de/d73/a18836.html#a094b9437c7cadb465738daf5684c9725", null ],
+    [ "Execute", "de/d73/a18836.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
+    [ "_spellId", "de/d73/a18836.html#a6fad41839e07e9545859be7c3afcfc36", null ],
+    [ "_trigger", "de/d73/a18836.html#aad8c27befc102dae6823d5d74fed50b4", null ]
 ];

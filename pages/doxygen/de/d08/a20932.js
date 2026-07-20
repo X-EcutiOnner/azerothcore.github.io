@@ -1,6 +1,7 @@
 var a20932 =
 [
-    [ "npc_ravenous_furbolgAI", "d9/d3c/a20936.html", "d9/d3c/a20936" ],
-    [ "npc_ravenous_furbolg", "de/d08/a20932.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
-    [ "GetAI", "de/d08/a20932.html#a284c366e6f5bd024d9627a83dd966669", null ]
+    [ "HandleScriptEffect", "de/d08/a20932.html#a173ee086127655cdfcca507fd5b15b2e", null ],
+    [ "PrepareSpellScript", "de/d08/a20932.html#a005d47b18a820c35ec596b5539db94eb", null ],
+    [ "Register", "de/d08/a20932.html#a20a0d554e80707c1517422cb747f38e8", null ],
+    [ "Validate", "de/d08/a20932.html#a5ca44686e26def56adc2b98d88145235", null ]
 ];

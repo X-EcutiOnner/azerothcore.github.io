@@ -1,7 +1,5 @@
 var a28196 =
 [
-    [ "npc_guardianAI", "d5/d40/a28196.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "d5/d40/a28196.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "d5/d40/a28196.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "d5/d40/a28196.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "item_disgusting_jar", "d5/d40/a28196.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "d5/d40/a28196.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

@@ -1,14 +1,10 @@
 var a05036 =
 [
-    [ "_CRT_SECURE_NO_DEPRECATE", "d8/d09/a05036.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "isHole", "d8/d09/a05036.html#a3a7e248f31dc8d832dc118d469a98bd4", null ],
-    [ "holetab_h", "d8/d09/a05036.html#a7424dd5c858116f845a676e31fe5ae5d", null ],
-    [ "holetab_v", "d8/d09/a05036.html#a2b1bf69bcdb58ff1605821d486da3acb", null ],
-    [ "MCINMagic", "d8/d09/a05036.html#a6f946547b65d321100fd6efa2966180c", null ],
-    [ "MCLQMagic", "d8/d09/a05036.html#a35ae9924cb4e3ad0020167b89d5ea86f", null ],
-    [ "MCNKMagic", "d8/d09/a05036.html#aa2d85d3b667d3755f6f7a993e60c574b", null ],
-    [ "MCVTMagic", "d8/d09/a05036.html#a32010e610a970d3891ae5effca03de37", null ],
-    [ "MFBOMagic", "d8/d09/a05036.html#a329d005a0989137286469e197dc0c812", null ],
-    [ "MH2OMagic", "d8/d09/a05036.html#aaeaf747e4bc5c25257f9e0ef1153b5a7", null ],
-    [ "MHDRMagic", "d8/d09/a05036.html#ac97bd684dd5bacba0e790f355a3bdddf", null ]
+    [ "VMAP::ModelSpawn", "d4/d93/a05376.html", "d4/d93/a05376" ],
+    [ "VMAP::ModelInstance", "d2/d6f/a05380.html", "d2/d6f/a05380" ],
+    [ "ModelFlags", "d8/d09/a05036.html#ac540ff16efadcc07eeb9d8511b94ccce", [
+      [ "MOD_M2", "d8/d09/a05036.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
+      [ "MOD_WORLDSPAWN", "d8/d09/a05036.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],
+      [ "MOD_HAS_BOUND", "d8/d09/a05036.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09", null ]
+    ] ]
 ];

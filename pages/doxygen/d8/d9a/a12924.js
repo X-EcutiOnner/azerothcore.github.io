@@ -1,6 +1,7 @@
 var a12924 =
 [
-    [ "bossId", "d8/d9a/a12924.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
-    [ "circleId", "d8/d9a/a12924.html#aaa379e61fda2f7225ab4089757df5d24", null ],
-    [ "runeId", "d8/d9a/a12924.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
+    [ "HandleRemove", "d8/d9a/a12924.html#a754b44b62c131e20e1be94b3407e2006", null ],
+    [ "PrepareAuraScript", "d8/d9a/a12924.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
+    [ "Register", "d8/d9a/a12924.html#a02cd375ec140f7614104b7e56df13430", null ],
+    [ "Validate", "d8/d9a/a12924.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
 ];

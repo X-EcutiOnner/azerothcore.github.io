@@ -1,9 +1,10 @@
 var a12508 =
 [
-    [ "npc_phalanx", "d4/dcd/a12508.html#a03c79151dcdc13fef4ce83957addd44a", null ],
-    [ "Reset", "d4/dcd/a12508.html#a9297d5fb869eb9a65ef9143a56347a53", null ],
-    [ "UpdateAI", "d4/dcd/a12508.html#aad01cc9d5ac167c21547e8b0b2bda4a7", null ],
-    [ "_fireballVolleyTimer", "d4/dcd/a12508.html#a54ad76cd7e8d3be058ad3d5153e5b144", null ],
-    [ "_mightyBlowTimer", "d4/dcd/a12508.html#ad59e6e32b53dbf797bc62e116ae2a12d", null ],
-    [ "_thunderClapTimer", "d4/dcd/a12508.html#a3b0c33207bf5090abeb9860585c222b4", null ]
+    [ "quest_commandscript", "d4/dcd/a12508.html#a98804583ded14bc50d252475289dda4f", null ],
+    [ "GetCommands", "d4/dcd/a12508.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
+    [ "HandleQuestAdd", "d4/dcd/a12508.html#acd1410f224a1d69bba1321999ebf25bc", null ],
+    [ "HandleQuestComplete", "d4/dcd/a12508.html#a044c30fdaedd07060284bd37fd2e226c", null ],
+    [ "HandleQuestRemove", "d4/dcd/a12508.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
+    [ "HandleQuestReward", "d4/dcd/a12508.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ],
+    [ "HandleQuestStatus", "d4/dcd/a12508.html#adbba92d0cf47879e94710c971fd994ff", null ]
 ];

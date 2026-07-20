@@ -1,6 +1,6 @@
 var a23648 =
 [
-    [ "npc_nether_drakeAI", "de/d01/a23652.html", "de/d01/a23652" ],
-    [ "npc_nether_drake", "d6/d0b/a23648.html#a253ec3c91857b899ea9e2c824870b760", null ],
-    [ "GetAI", "d6/d0b/a23648.html#a58d269e2c73cae07bb507162b742fe8f", null ]
+    [ "HandleCast", "d6/d0b/a23648.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "d6/d0b/a23648.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "d6/d0b/a23648.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

@@ -1,8 +1,7 @@
 var a11744 =
 [
-    [ "ReflectEvent", "dd/d26/a11744.html#a1669aec08a3a09143c57e4889c8fad08", null ],
-    [ "Execute", "dd/d26/a11744.html#a37fb766d70932e8a431dba363c603531", null ],
-    [ "_caster", "dd/d26/a11744.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
-    [ "_spellInfo", "dd/d26/a11744.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
-    [ "_targetGUID", "dd/d26/a11744.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
+    [ "IsValidOpcode", "dd/d26/a11744.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
+    [ "IsValidSize", "dd/d26/a11744.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
+    [ "cmd", "dd/d26/a11744.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
+    [ "size", "dd/d26/a11744.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
 ];

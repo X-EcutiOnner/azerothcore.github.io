@@ -1,9 +1,9 @@
 var a14400 =
 [
-    [ "npc_healing_ward", "de/dad/a14400.html#a3d3c35f61502d3a83cb2581119e08903", null ],
-    [ "JustEngagedWith", "de/dad/a14400.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
-    [ "Reset", "de/dad/a14400.html#a756d27a43d86c7ecde859df255c6bd62", null ],
-    [ "UpdateAI", "de/dad/a14400.html#a8b8635af33ce814602206064e0815520", null ],
-    [ "_instance", "de/dad/a14400.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
-    [ "_scheduler", "de/dad/a14400.html#a0c62fe945b491cab76175217a7d10c06", null ]
+    [ "npc_amanishi_scout", "de/dad/a14400.html#a74bed56c21c184e661f62c30ce6d9140", null ],
+    [ "JustEngagedWith", "de/dad/a14400.html#a5969fadd871094e993c4d3fe0b08054c", null ],
+    [ "Reset", "de/dad/a14400.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
+    [ "ScheduleCombat", "de/dad/a14400.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
+    [ "UpdateAI", "de/dad/a14400.html#a3740a4fde31e1e81edb34dde61403acc", null ],
+    [ "_drumGUID", "de/dad/a14400.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
 ];

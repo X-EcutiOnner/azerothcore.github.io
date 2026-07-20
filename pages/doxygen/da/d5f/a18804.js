@@ -1,9 +1,8 @@
 var a18804 =
 [
-    [ "npc_gluttonous_abominationAI", "da/d5f/a18804.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
-    [ "JustDied", "da/d5f/a18804.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
-    [ "JustSummoned", "da/d5f/a18804.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
-    [ "Reset", "da/d5f/a18804.html#a45588181429a74ac024e0390c76fa57a", null ],
-    [ "UpdateAI", "da/d5f/a18804.html#a33ef03a9f005ff187493275a9c2683a7", null ],
-    [ "_events", "da/d5f/a18804.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
+    [ "npc_lk_spirit_bombAI", "da/d5f/a18804.html#a366fb54e68c0e603000183cd68daf6b7", null ],
+    [ "IsSummonedBy", "da/d5f/a18804.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
+    [ "MovementInform", "da/d5f/a18804.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
+    [ "UpdateAI", "da/d5f/a18804.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
+    [ "timer", "da/d5f/a18804.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
 ];

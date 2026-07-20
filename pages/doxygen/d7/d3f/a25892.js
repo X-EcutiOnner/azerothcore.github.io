@@ -1,8 +1,6 @@
 var a25892 =
 [
-    [ "CheckQuest", "d7/d3f/a25892.html#ab7ebff0894832ac009cda89b7c28e252", null ],
-    [ "HandleDummy", "d7/d3f/a25892.html#a365df14504a54e95e7d68d22a284e441", null ],
-    [ "HandleOpenObject", "d7/d3f/a25892.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
-    [ "PrepareSpellScript", "d7/d3f/a25892.html#a479e313031a2e71473238d8f645bf2d4", null ],
-    [ "Register", "d7/d3f/a25892.html#a70f1a91e611cc2092aad44a909cd53db", null ]
+    [ "CheckSinkholes", "d7/d3f/a25892.html#a5c363144cde9e809d97730f54873fe85", null ],
+    [ "PrepareSpellScript", "d7/d3f/a25892.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
+    [ "Register", "d7/d3f/a25892.html#a6694fbf58b776b74df0a54cd96141688", null ]
 ];

@@ -1,6 +1,7 @@
 var a15844 =
 [
-    [ "HandleDummy", "d5/d15/a15844.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
-    [ "PrepareSpellScript", "d5/d15/a15844.html#adc581ed46587afcc8be3800ae79105f6", null ],
-    [ "Register", "d5/d15/a15844.html#a7d09808ea2fdec450fcd129e996bd245", null ]
+    [ "npc_prophet_velen", "d5/d15/a15844.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
+    [ "JustDied", "d5/d15/a15844.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
+    [ "Reset", "d5/d15/a15844.html#a5beec39fd545129d0f124bb19524f95c", null ],
+    [ "UpdateAI", "d5/d15/a15844.html#a2d016ecfedc5c7e886e7412081b54792", null ]
 ];

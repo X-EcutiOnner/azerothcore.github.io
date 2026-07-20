@@ -1,6 +1,5 @@
 var a12688 =
 [
-    [ "near_scarshield_infiltrator", "d4/d31/a12688.html#a38d2e75946c429b4d80b007f190406bc", null ],
-    [ "OnTrigger", "d4/d31/a12688.html#aeb761433e3210ce85c1de4dab653a87c", null ],
-    [ "whisperedTargets", "d4/d31/a12688.html#a5655e241d2551798a960cb6375c7df23", null ]
+    [ "boss_gloomrel", "d4/d31/a12688.html#a2fe4ce0ddf75725dcb388a346ee13af8", null ],
+    [ "sGossipSelect", "d4/d31/a12688.html#a28b2c02b2a4195c90ce313324f056131", null ]
 ];

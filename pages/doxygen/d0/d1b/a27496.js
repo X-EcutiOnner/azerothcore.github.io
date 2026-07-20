@@ -1,7 +1,8 @@
 var a27496 =
 [
-    [ "HandleDummy", "d0/d1b/a27496.html#a3af91500357eb127f813334bdf538dbd", null ],
-    [ "PrepareSpellScript", "d0/d1b/a27496.html#ae34ff5e6027efecc34fa770690df5887", null ],
-    [ "Register", "d0/d1b/a27496.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
-    [ "Validate", "d0/d1b/a27496.html#a0b107442c0b76a018cc019f776c0b785", null ]
+    [ "CalcPeriodic", "d0/d1b/a27496.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
+    [ "CalculateAmount", "d0/d1b/a27496.html#a525009acb345d6b0a9857c30cfce2230", null ],
+    [ "HandlePeriodic", "d0/d1b/a27496.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
+    [ "PrepareAuraScript", "d0/d1b/a27496.html#a5627212e48a3044a9a7480851787a839", null ],
+    [ "Register", "d0/d1b/a27496.html#a09ea5265d7105a4bd487d383948901a0", null ]
 ];

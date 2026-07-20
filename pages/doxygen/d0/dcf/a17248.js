@@ -1,7 +1,8 @@
 var a17248 =
 [
-    [ "UtherBatteredHiltEvent", "d0/dcf/a17248.html#a7bb34b75a3e371260a231aea72f75b40", null ],
-    [ "Execute", "d0/dcf/a17248.html#ad2eb37877155b6dbc9916338e30d0306", null ],
-    [ "_eventId", "d0/dcf/a17248.html#a5045e057b2c5d468aa579751d2c799b8", null ],
-    [ "_owner", "d0/dcf/a17248.html#a588974708f4a48f5a7b097a63a0c0899", null ]
+    [ "npc_fos_leaderAI", "d0/dcf/a17248.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
+    [ "DoAction", "d0/dcf/a17248.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
+    [ "Reset", "d0/dcf/a17248.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
+    [ "UpdateAI", "d0/dcf/a17248.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
+    [ "events", "d0/dcf/a17248.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
 ];

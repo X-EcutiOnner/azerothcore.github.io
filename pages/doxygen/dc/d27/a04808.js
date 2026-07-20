@@ -1,5 +1,4 @@
 var a04808 =
 [
-    [ "SessionKey", "dc/d27/a04808.html#a7cbcb71452529a2addaab3b112dba4d7", null ],
-    [ "SESSION_KEY_LENGTH", "dc/d27/a04808.html#accf22e06a217bb405f0ee6f240d2e263", null ]
+    [ "GUARD_RETURN", "dc/d27/a04808.html#a545bfab3f5e5f49c7d68774189728da8", null ]
 ];

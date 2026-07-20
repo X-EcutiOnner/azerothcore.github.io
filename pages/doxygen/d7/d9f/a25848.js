@@ -1,6 +1,8 @@
 var a25848 =
 [
-    [ "CheckCast", "d7/d9f/a25848.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
-    [ "PrepareSpellScript", "d7/d9f/a25848.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
-    [ "Register", "d7/d9f/a25848.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
+    [ "HandleDummy", "d7/d9f/a25848.html#a57897df074b7766c022526e082b4a13b", null ],
+    [ "Load", "d7/d9f/a25848.html#a47cbade67be124496c6194391ab51794", null ],
+    [ "PrepareSpellScript", "d7/d9f/a25848.html#af5e5a22976adfa5588ca8e054e19a669", null ],
+    [ "Register", "d7/d9f/a25848.html#ab0c3be8436b79288bb45899448fd6c1b", null ],
+    [ "Validate", "d7/d9f/a25848.html#a97d037267e385e0d3fd80543a5ddb366", null ]
 ];

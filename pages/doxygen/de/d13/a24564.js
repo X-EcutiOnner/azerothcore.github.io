@@ -1,7 +1,7 @@
 var a24564 =
 [
-    [ "HandleProc", "de/d13/a24564.html#a43704e8ddf8eb94adf27225eb02135bd", null ],
-    [ "PrepareAuraScript", "de/d13/a24564.html#a626ebecdbb7e431af364fa9bcde38644", null ],
-    [ "Register", "de/d13/a24564.html#ab56bed8649452b9ae7ac07bf6ee16641", null ],
-    [ "Validate", "de/d13/a24564.html#a3699a230042bd646d459bd7dcf73e3b6", null ]
+    [ "CalculateAmount", "de/d13/a24564.html#a44c3c1c97f0b87b261614e7eb0ce7d4d", null ],
+    [ "PrepareAuraScript", "de/d13/a24564.html#aaf070525419cc8af56cd0002bbef2391", null ],
+    [ "Register", "de/d13/a24564.html#ad37c82f88ebfb8c68aef2e574c0c4dcf", null ],
+    [ "Validate", "de/d13/a24564.html#a3b8d5d04ec015240d941790bd02598f8", null ]
 ];

@@ -1,8 +1,7 @@
 var a19080 =
 [
-    [ "Class", "d4/d03/a19080.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "d4/d03/a19080.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
-    [ "id", "d4/d03/a19080.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "d4/d03/a19080.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "d4/d03/a19080.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "OnApply", "d4/d03/a19080.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
+    [ "OnRemove", "d4/d03/a19080.html#a697a7c76f944b5df956a9de07746b7a9", null ],
+    [ "PrepareAuraScript", "d4/d03/a19080.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
+    [ "Register", "d4/d03/a19080.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
 ];

@@ -1,6 +1,5 @@
 var a26904 =
 [
-    [ "HandleScript", "d7/d05/a26904.html#acde0ae837d0cd3af0f38481027200291", null ],
-    [ "PrepareSpellScript", "d7/d05/a26904.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
-    [ "Register", "d7/d05/a26904.html#a2dc2628984358628afe7d9b62ced7794", null ]
+    [ "spell_q55_sacred_cleansing", "d7/d05/a26904.html#a4aa8a16350a7a55706841471fd985ca2", null ],
+    [ "GetSpellScript", "d7/d05/a26904.html#a50a8f2d777169aaeef88533b66b88fb2", null ]
 ];

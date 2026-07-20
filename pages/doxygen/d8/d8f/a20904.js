@@ -1,7 +1,7 @@
 var a20904 =
 [
-    [ "HandleOnEffectRemove", "d8/d8f/a20904.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "d8/d8f/a20904.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "d8/d8f/a20904.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "d8/d8f/a20904.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "OnPeriodic", "d8/d8f/a20904.html#a529e89c1ae0074370da174defc086719", null ],
+    [ "PrepareAuraScript", "d8/d8f/a20904.html#a587652095a5dfae229787a0c0ceacfbe", null ],
+    [ "Register", "d8/d8f/a20904.html#acd5551b09882d720608bdec6036dee9a", null ],
+    [ "Validate", "d8/d8f/a20904.html#aaed6604e39dd977f4e7c671052d718e8", null ]
 ];

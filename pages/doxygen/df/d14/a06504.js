@@ -1,6 +1,6 @@
 var a06504 =
 [
-    [ "CreatureAIFactory", "df/d14/a06504.html#a978af64c2793b92ee2fe57763500f8d9", null ],
-    [ "Create", "df/d14/a06504.html#ab5f691811cc23c5079a7a0a7f3503638", null ],
-    [ "Permit", "df/d14/a06504.html#ae5e76ee1d1f8949214dd5421bf7e4deb", null ]
+    [ "KillMagnetEvent", "df/d14/a06504.html#a1f044cb51674faebe45c0e2119601b59", null ],
+    [ "Execute", "df/d14/a06504.html#a2905731d24060dfa7c2069b05adfa2b2", null ],
+    [ "_self", "df/d14/a06504.html#a0fe06efbc00b38f98f2e077d7dfb1941", null ]
 ];

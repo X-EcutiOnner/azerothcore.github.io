@@ -1,6 +1,10 @@
 var a21452 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d0/dd8/a21456.html", "d0/dd8/a21456" ],
-    [ "npc_injured_7th_legion_soldier", "d6/d46/a21452.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
-    [ "GetAI", "d6/d46/a21452.html#a0feca7aedcf3c07253d4d402266189cc", null ]
+    [ "npc_bonker_togglevoltAI", "d6/d46/a21452.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "d6/d46/a21452.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "d6/d46/a21452.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "d6/d46/a21452.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "d6/d46/a21452.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "WaypointReached", "d6/d46/a21452.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "Bonker_agro", "d6/d46/a21452.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

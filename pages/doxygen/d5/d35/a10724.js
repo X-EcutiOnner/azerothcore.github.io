@@ -1,12 +1,7 @@
 var a10724 =
 [
-    [ "ItemScript", "d5/d35/a10724.html#a0ad18538a834261190356eab549ff192", null ],
-    [ "IsDatabaseBound", "d5/d35/a10724.html#ae0ae6754a17b88deaf3648b74a58bb9d", null ],
-    [ "OnCastItemCombatSpell", "d5/d35/a10724.html#a08a73378706fdfb0cee5e6214060ad1b", null ],
-    [ "OnExpire", "d5/d35/a10724.html#a2ac915f9f966df87a963a328363deb77", null ],
-    [ "OnGossipSelect", "d5/d35/a10724.html#a78b540902816ee3b3f9a6b108aa155ab", null ],
-    [ "OnGossipSelectCode", "d5/d35/a10724.html#a924268357fec1a667f1184c91ebcef33", null ],
-    [ "OnQuestAccept", "d5/d35/a10724.html#a87ab2f706bbb4e71921852d1ae6d78c7", null ],
-    [ "OnRemove", "d5/d35/a10724.html#a1c8d706593fce54b1e4627493c38a6d3", null ],
-    [ "OnUse", "d5/d35/a10724.html#a0e45d02f07def65de2eb94735189e7f5", null ]
+    [ "DatabaseScript", "d5/d35/a10724.html#aab34b85df1a5ccdf17fede64baca4994", null ],
+    [ "IsDatabaseBound", "d5/d35/a10724.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
+    [ "OnAfterDatabaseLoadCreatureTemplates", "d5/d35/a10724.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
+    [ "OnAfterDatabasesLoaded", "d5/d35/a10724.html#ab52afc833cb462693f5e0d79cff6bb3f", null ]
 ];

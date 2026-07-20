@@ -1,23 +1,18 @@
 var a01043 =
 [
-    [ "instance_black_temple", "d3/d2a/a22857.html", "d3/d2a/a22857" ],
-    [ "instance_black_temple::instance_black_temple_InstanceMapScript", "d2/dee/a22861.html", "d2/dee/a22861" ],
-    [ "spell_black_template_harpooners_mark_aura", "d0/ddb/a22865.html", "d0/ddb/a22865" ],
-    [ "spell_black_template_free_friend", "de/d2c/a22869.html", "de/d2c/a22869" ],
-    [ "spell_black_temple_curse_of_the_bleakheart_aura", "d4/d2a/a22873.html", "d4/d2a/a22873" ],
-    [ "spell_black_temple_skeleton_shot_aura", "db/d71/a22877.html", "db/d71/a22877" ],
-    [ "spell_black_temple_wyvern_sting_aura", "d5/d40/a22881.html", "d5/d40/a22881" ],
-    [ "spell_black_temple_charge_rage_aura", "de/d90/a22885.html", "de/d90/a22885" ],
-    [ "spell_black_temple_shadow_inferno_aura", "da/d30/a22889.html", "da/d30/a22889" ],
-    [ "spell_black_temple_spell_absorption_aura", "d3/d11/a22893.html", "d3/d11/a22893" ],
-    [ "spell_black_temple_bloodbolt", "d5/d85/a22897.html", "d5/d85/a22897" ],
-    [ "spell_black_temple_consuming_strikes_aura", "dd/dbb/a22901.html", "dd/dbb/a22901" ],
-    [ "spell_black_temple_curse_of_vitality_aura", "d8/d9e/a22905.html", "d8/d9e/a22905" ],
-    [ "spell_black_temple_summon_shadowfiends", "d1/d39/a22909.html", "d1/d39/a22909" ],
-    [ "spell_black_temple_l5_arcane_charge", "dc/de1/a22913.html", "dc/de1/a22913" ],
-    [ "AddSC_instance_black_temple", "d8/d27/a01043.html#a15f766c45ce62741982e2a1711514aa8", null ],
-    [ "boundaries", "d8/d27/a01043.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "d8/d27/a01043.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d8/d27/a01043.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "summonData", "d8/d27/a01043.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
+    [ "AuctionHouseScript", "d8/d57/a10688.html", "d8/d57/a10688" ],
+    [ "AuctionHouseHook", "d8/d27/a01043.html#a12159e90d998de411ceb193c223f26c9", [
+      [ "AUCTIONHOUSEHOOK_ON_AUCTION_ADD", "d8/d27/a01043.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0", null ],
+      [ "AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE", "d8/d27/a01043.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2", null ],
+      [ "AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL", "d8/d27/a01043.html#a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff", null ],
+      [ "AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE", "d8/d27/a01043.html#a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL", "d8/d27/a01043.html#a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL", "d8/d27/a01043.html#a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL", "d8/d27/a01043.html#a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL", "d8/d27/a01043.html#a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL", "d8/d27/a01043.html#a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL", "d8/d27/a01043.html#a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE", "d8/d27/a01043.html#a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9", null ],
+      [ "AUCTIONHOUSEHOOK_END", "d8/d27/a01043.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc", null ]
+    ] ]
 ];

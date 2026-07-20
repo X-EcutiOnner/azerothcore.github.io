@@ -1,8 +1,5 @@
 var a18824 =
 [
-    [ "DecayPeriodicTimer", "d8/dae/a18824.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "d8/dae/a18824.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "d8/dae/a18824.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "d8/dae/a18824.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "d8/dae/a18824.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "achievement_neck_deep_in_vile", "d8/dae/a18824.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "d8/dae/a18824.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

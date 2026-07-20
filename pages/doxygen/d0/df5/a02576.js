@@ -1,5 +1,5 @@
 var a02576 =
 [
-    [ "TotemAI", "d0/d7b/a06489.html", "d0/d7b/a06489" ],
-    [ "KillMagnetEvent", "d9/df7/a06493.html", "d9/df7/a06493" ]
+    [ "lookup_commandscript", "d5/d30/a12436.html", "d5/d30/a12436" ],
+    [ "AddSC_lookup_commandscript", "d0/df5/a02576.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
 ];

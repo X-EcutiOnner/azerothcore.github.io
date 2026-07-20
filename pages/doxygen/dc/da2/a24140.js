@@ -1,6 +1,7 @@
 var a24140 =
 [
-    [ "FilterTargets", "dc/da2/a24140.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
-    [ "PrepareSpellScript", "dc/da2/a24140.html#aea49df3f6b93223ed72c3a9875232b74", null ],
-    [ "Register", "dc/da2/a24140.html#a8f0e0b6363303def780d35415c88b4d6", null ]
+    [ "HandleSendEvent", "dc/da2/a24140.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
+    [ "PrepareSpellScript", "dc/da2/a24140.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
+    [ "Register", "dc/da2/a24140.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
+    [ "Validate", "dc/da2/a24140.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
 ];

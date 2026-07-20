@@ -1,6 +1,6 @@
 var a18312 =
 [
-    [ "npc_ice_tombAI", "df/dad/a18316.html", "df/dad/a18316" ],
-    [ "npc_ice_tomb", "df/d0c/a18312.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
-    [ "GetAI", "df/d0c/a18312.html#ac99b7c9887e54a1764310bd3e079811a", null ]
+    [ "OnRemove", "df/d0c/a18312.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
+    [ "PrepareAuraScript", "df/d0c/a18312.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
+    [ "Register", "df/d0c/a18312.html#afa993cb14444989feac16c9fa2d7b8df", null ]
 ];

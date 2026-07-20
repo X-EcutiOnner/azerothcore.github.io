@@ -1,6 +1,7 @@
 var a21240 =
 [
-    [ "npc_khunok_the_behemothAI", "d7/d4a/a21244.html", "d7/d4a/a21244" ],
-    [ "npc_khunok_the_behemoth", "de/db5/a21240.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "de/db5/a21240.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "HandleDummy", "de/db5/a21240.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "de/db5/a21240.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "de/db5/a21240.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "de/db5/a21240.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

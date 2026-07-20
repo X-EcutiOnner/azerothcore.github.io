@@ -1,4 +1,5 @@
 var a04889 =
 [
-    [ "GetExpirationTime", "d8/d02/a04889.html#a546bd84b57be90f3ceb4cfc0fb92ae1c", null ]
+    [ "HMAC_RESULT_SIZE", "d8/d02/a04889.html#abdb09168f87cd99a498636550843012d", null ],
+    [ "TOTP_INTERVAL", "d8/d02/a04889.html#abcaccdfb09251b1b2856cc0c48c64eda", null ]
 ];

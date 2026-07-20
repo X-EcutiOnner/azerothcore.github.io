@@ -1,6 +1,6 @@
 var a24108 =
 [
-    [ "DeathEvent", "da/d64/a24108.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "da/d64/a24108.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "da/d64/a24108.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "npc_kservantAI", "dc/d79/a24112.html", "dc/d79/a24112" ],
+    [ "npc_kservant", "da/d64/a24108.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "da/d64/a24108.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

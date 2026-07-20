@@ -1,7 +1,6 @@
 var a13760 =
 [
-    [ "HandleSchoolDamage", "d9/d12/a13760.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
-    [ "PrepareSpellScript", "d9/d12/a13760.html#a8063f3d669e07dc0768607feb9a2f763", null ],
-    [ "Register", "d9/d12/a13760.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
-    [ "Validate", "d9/d12/a13760.html#af90ae09274b0082bd8bd674ca43596f6", null ]
+    [ "FilterTargets", "d9/d12/a13760.html#a78675c3421e0243de9e136b646c56be1", null ],
+    [ "PrepareSpellScript", "d9/d12/a13760.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
+    [ "Register", "d9/d12/a13760.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
 ];

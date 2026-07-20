@@ -1,5 +1,6 @@
 var a22768 =
 [
-    [ "PrepareSpellScript", "d0/d25/a22768.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
-    [ "Register", "d0/d25/a22768.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
+    [ "boss_essence_of_angerAI", "d9/d6a/a22772.html", "d9/d6a/a22772" ],
+    [ "boss_essence_of_anger", "d0/d25/a22768.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
+    [ "GetAI", "d0/d25/a22768.html#a70a460f31b7f878e532b695ca822ab5d", null ]
 ];

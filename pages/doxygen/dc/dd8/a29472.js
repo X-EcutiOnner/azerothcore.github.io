@@ -1,6 +1,10 @@
 var a29472 =
 [
-    [ "SetUp", "dc/dd8/a29472.html#ac7db18817aa330aedefd1f688d53219b", null ],
-    [ "TearDown", "dc/dd8/a29472.html#a0cb70a624f55509497866a1fac787800", null ],
-    [ "_previousWorld", "dc/dd8/a29472.html#afec905a799e8fe7522a2fa6756fa41d9", null ]
+    [ "TestMap", "dc/dd8/a29472.html#aca5be96dac80e8b0cd031a689f6cad66", null ],
+    [ "~TestMap", "dc/dd8/a29472.html#a7175511302d9c67cce7b870ec70551de", null ],
+    [ "EnsureDBC", "dc/dd8/a29472.html#a2a117f615eafa6336e09defee91574b5", null ],
+    [ "SetIsDungeon", "dc/dd8/a29472.html#afa3e639a3a6b54c4efa917008400c37b", null ],
+    [ "SetIsRaid", "dc/dd8/a29472.html#ae577d4dc38ec92f11fab263d28455213", null ],
+    [ "SetMapType", "dc/dd8/a29472.html#a19013737f70a4d2362f88651b4e1a4b4", null ],
+    [ "_fakeMapEntry", "dc/dd8/a29472.html#afc183278ef7cd421df30ad878321f122", null ]
 ];

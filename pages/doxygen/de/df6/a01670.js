@@ -1,5 +1,6 @@
 var a01670 =
 [
-    [ "modify_commandscript", "d8/d2c/a12441.html", "d8/d2c/a12441" ],
-    [ "AddSC_modify_commandscript", "de/df6/a01670.html#a9cbb6ad3c630cbeb9ba39b4552f72e87", null ]
+    [ "BG_SA_BOAT_START", "de/df6/a01670.html#a2ec6635cf59771fcfd56b16cd670eebc", null ],
+    [ "BG_SA_ROUNDLENGTH", "de/df6/a01670.html#a1197e8f288608511601a41e8e8ea80ce", null ],
+    [ "BG_SA_WARMUPLENGTH", "de/df6/a01670.html#a7447506b77b9babea7568349335ea705", null ]
 ];

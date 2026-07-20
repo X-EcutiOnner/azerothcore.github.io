@@ -1,9 +1,15 @@
 var a15352 =
 [
-    [ "spell_gen_ayamiss_swarmer_loop", "d0/d8f/a15352.html#ad910e172ef6866f102fa3407f676169a", null ],
-    [ "HandleScript", "d0/d8f/a15352.html#acd0dffad436cb414deb546b192957783", null ],
-    [ "Load", "d0/d8f/a15352.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
-    [ "PrepareSpellScript", "d0/d8f/a15352.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
-    [ "Register", "d0/d8f/a15352.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
-    [ "_pathId", "d0/d8f/a15352.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
+    [ "npc_time_rift", "d0/d8f/a15352.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
+    [ "DoSelectSummon", "d0/d8f/a15352.html#af2932c60efaea64d27d52b118b9a8095", null ],
+    [ "DoSummonAtRift", "d0/d8f/a15352.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
+    [ "JustSummoned", "d0/d8f/a15352.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
+    [ "Reset", "d0/d8f/a15352.html#ad08ca716f120a45ee1688e03d2049aba", null ],
+    [ "SummonedCreatureDies", "d0/d8f/a15352.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
+    [ "UpdateAI", "d0/d8f/a15352.html#ab5924378c7978c6fae95f9861040c63d", null ],
+    [ "_events", "d0/d8f/a15352.html#a12ffd459f8d63f299269da5b65f60128", null ],
+    [ "_instance", "d0/d8f/a15352.html#a8eab9c3011c885321d59e2884318d0e8", null ],
+    [ "_riftKeeperGUID", "d0/d8f/a15352.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
+    [ "waveMobIndex", "d0/d8f/a15352.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
+    [ "waveMobs", "d0/d8f/a15352.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
 ];

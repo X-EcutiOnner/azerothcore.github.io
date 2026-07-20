@@ -1,5 +1,22 @@
 var a29388 =
 [
-    [ "SetUp", "dc/dfe/a29388.html#ab7ca64790f3bf45fee5bfa47cc123f9e", null ],
-    [ "TearDown", "dc/dfe/a29388.html#ab25eaec6e37e6e315df357f8a1e51924", null ]
+    [ "HealInfoStub", "dc/dfe/a29388.html#afa2b7c6e93b387f16e2b545adc4fa05c", null ],
+    [ "HealInfoStub", "dc/dfe/a29388.html#ae011c5a0f72cd5581e661793c3ac2fdc", null ],
+    [ "~HealInfoStub", "dc/dfe/a29388.html#ae599d81216cbcaa69f206ac6eca6d886", null ],
+    [ "GetAbsorb", "dc/dfe/a29388.html#aae8cd0f206d4dbd78b56838cdb49dad6", null ],
+    [ "GetEffectiveHeal", "dc/dfe/a29388.html#aa19e94b9523f803f2af09fb77382f3c2", null ],
+    [ "GetHeal", "dc/dfe/a29388.html#abc0ad944af22920bc105b1b4c71ad467", null ],
+    [ "GetHitMask", "dc/dfe/a29388.html#ac110638d1729fae0ba6594d7f092d4b0", null ],
+    [ "GetOverheal", "dc/dfe/a29388.html#a5af3db6eed10c8b2cd17f0509f6085fa", null ],
+    [ "GetSpellInfo", "dc/dfe/a29388.html#a05ce52ae6ea15c8043dfeae236466017", null ],
+    [ "SetAbsorb", "dc/dfe/a29388.html#a5f7988705654a3b6f460ddbbecb3992b", null ],
+    [ "SetEffectiveHeal", "dc/dfe/a29388.html#ad8c263f50edf324a72ca366f6caf4377", null ],
+    [ "SetHeal", "dc/dfe/a29388.html#a6dede4a2256ff21fde331ae05d257718", null ],
+    [ "SetHitMask", "dc/dfe/a29388.html#a4f50475819621d56efd4e359ed004483", null ],
+    [ "SetSpellInfo", "dc/dfe/a29388.html#a2e5ac0bb798710d33e0ff4c29c8507a0", null ],
+    [ "_absorb", "dc/dfe/a29388.html#a1b6726177d88f4da4b4fa36e96136711", null ],
+    [ "_effectiveHeal", "dc/dfe/a29388.html#aab54619f78456698c646d83ac448e1e2", null ],
+    [ "_heal", "dc/dfe/a29388.html#a44c86cf0c0d87d9ceb9574ced0990845", null ],
+    [ "_hitMask", "dc/dfe/a29388.html#a2228ffd4334cc5adff51e67394d19de9", null ],
+    [ "_spellInfo", "dc/dfe/a29388.html#a94cd95b537e2510047da23a7f9176aa6", null ]
 ];

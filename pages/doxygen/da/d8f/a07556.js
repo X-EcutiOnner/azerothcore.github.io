@@ -1,12 +1,11 @@
 var a07556 =
 [
-    [ "Arena", "da/d8f/a07556.html#a74f105bc709d4728fb07f1984abfd345", null ],
-    [ "AddPlayer", "da/d8f/a07556.html#ae24fe304d35c0c09379203135e936450", null ],
-    [ "CheckWinConditions", "da/d8f/a07556.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
-    [ "EndBattleground", "da/d8f/a07556.html#a2be61602189b530a16a9ca954d180914", null ],
-    [ "FillInitialWorldStates", "da/d8f/a07556.html#a592100d0f0ed492a5cdf941e57db787f", null ],
-    [ "HandleKillPlayer", "da/d8f/a07556.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
-    [ "RemovePlayer", "da/d8f/a07556.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
-    [ "RemovePlayerAtLeave", "da/d8f/a07556.html#acae21233e11b21b612e5c051bfa7720e", null ],
-    [ "UpdateArenaWorldState", "da/d8f/a07556.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
+    [ "gyid", "da/d8f/a07556.html#a742fcc91d2daf1a9331f02a90496328c", null ],
+    [ "o", "da/d8f/a07556.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
+    [ "startcontrol", "da/d8f/a07556.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
+    [ "textid", "da/d8f/a07556.html#a87d80377ad632b9d667eecf11ae8faae", null ],
+    [ "type", "da/d8f/a07556.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
+    [ "x", "da/d8f/a07556.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
+    [ "y", "da/d8f/a07556.html#a405e8098772e77250683985f957ce5f3", null ],
+    [ "z", "da/d8f/a07556.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
 ];

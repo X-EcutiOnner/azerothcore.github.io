@@ -1,10 +1,6 @@
 var a15072 =
 [
-    [ "npc_hyjal_frost_wyrm", "df/db2/a15072.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "df/db2/a15072.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "df/db2/a15072.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "df/db2/a15072.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "df/db2/a15072.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "df/db2/a15072.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "df/db2/a15072.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "d1/d53/a15076.html", "d1/d53/a15076" ],
+    [ "instance_blackfathom_deeps", "df/db2/a15072.html#a4600a7e6191582c1bee684989a970e0f", null ],
+    [ "GetInstanceScript", "df/db2/a15072.html#a62cdab4f3118ab030b4ef55243690f73", null ]
 ];

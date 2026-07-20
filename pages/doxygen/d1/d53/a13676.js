@@ -1,7 +1,6 @@
 var a13676 =
 [
-    [ "HandleScriptEffect", "d1/d53/a13676.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
-    [ "PrepareSpellScript", "d1/d53/a13676.html#af9deee89e837e07486a7555632008eb2", null ],
-    [ "Register", "d1/d53/a13676.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
-    [ "Validate", "d1/d53/a13676.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
+    [ "boss_baroness_anastariAI", "db/d20/a13680.html", "db/d20/a13680" ],
+    [ "boss_baroness_anastari", "d1/d53/a13676.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
+    [ "GetAI", "d1/d53/a13676.html#a38073f80afbceb5535cc18ab524378a6", null ]
 ];

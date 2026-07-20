@@ -1,7 +1,8 @@
 var a16156 =
 [
-    [ "npc_ahnkahar_nerubian", "d8/de2/a16156.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "d8/de2/a16156.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "d8/de2/a16156.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "d8/de2/a16156.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "npc_pluckyAI", "d2/d83/a16160.html", "d2/d83/a16160" ],
+    [ "npc_plucky", "d8/de2/a16156.html#a86bb2992b8af5893987145117aaf3608", null ],
+    [ "GetAI", "d8/de2/a16156.html#a51e73f4e1f618aee5a000e31328efefc", null ],
+    [ "OnGossipHello", "d8/de2/a16156.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
+    [ "OnGossipSelect", "d8/de2/a16156.html#a88fa465246b4c657b921ebdc96f7a112", null ]
 ];

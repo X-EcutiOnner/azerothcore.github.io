@@ -1,7 +1,7 @@
 var a15752 =
 [
-    [ "npc_prospector_remtravelAI", "d8/d50/a15756.html", "d8/d50/a15756" ],
-    [ "npc_prospector_remtravel", "dd/d49/a15752.html#aa213161fc60e615682252125f6c58f7f", null ],
-    [ "GetAI", "dd/d49/a15752.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
-    [ "OnQuestAccept", "dd/d49/a15752.html#a5e11149b6359927a71c98242d979e65b", null ]
+    [ "npc_anubisath_warder", "dd/d49/a15752.html#aebe14673e5c31000a9626e39d87c6775", null ],
+    [ "JustEngagedWith", "dd/d49/a15752.html#a579318fa519eb669573b2cea78c2fee3", null ],
+    [ "Reset", "dd/d49/a15752.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
+    [ "UpdateAI", "dd/d49/a15752.html#aba428f1f1a016191aa4f168c616c3a29", null ]
 ];

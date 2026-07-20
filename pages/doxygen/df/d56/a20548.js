@@ -1,9 +1,9 @@
 var a20548 =
 [
-    [ "boss_thorim_gauntlet_npcs", "df/d56/a20548.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
-    [ "JustEngagedWith", "df/d56/a20548.html#af10a444bada5743c837a9979726c79c9", null ],
-    [ "Reset", "df/d56/a20548.html#a22fcffcc05f155524cadade389ec3607", null ],
-    [ "UpdateAI", "df/d56/a20548.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
-    [ "_isCaster", "df/d56/a20548.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
-    [ "events", "df/d56/a20548.html#aec35e2b91841c386f083681673e15598", null ]
+    [ "npc_ulduar_bot_summon_trigger", "df/d56/a20548.html#a16d36c154b6851c0081cc05f838b0fed", null ],
+    [ "DoAction", "df/d56/a20548.html#a776782a85892d2d674773573be25bfa0", null ],
+    [ "Reset", "df/d56/a20548.html#a4ec8487028b188347cf0c9a080076fe6", null ],
+    [ "UpdateAI", "df/d56/a20548.html#a788d3eaba382e3af897678f6709a0242", null ],
+    [ "_option", "df/d56/a20548.html#a39c909b67fcdc81542470b6e96256fd5", null ],
+    [ "_timer", "df/d56/a20548.html#a2530742a19275efe92eeded4dce67567", null ]
 ];

@@ -1,6 +1,5 @@
 var a15688 =
 [
-    [ "npc_magwinAI", "d8/d7d/a15692.html", "d8/d7d/a15692" ],
-    [ "npc_magwin", "d7/ddd/a15688.html#a1a45602fd312a4c436b09fb7b90ac1d4", null ],
-    [ "GetAI", "d7/ddd/a15688.html#a83bee0fd5c1494f2bb732fe9e0ed1594", null ]
+    [ "at_twin_emperors", "d7/ddd/a15688.html#a343d482857fa0a45c42f593e591f7754", null ],
+    [ "_OnTrigger", "d7/ddd/a15688.html#adf3120b7bf611e0246abb2970711ada3", null ]
 ];

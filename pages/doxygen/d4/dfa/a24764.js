@@ -1,6 +1,7 @@
 var a24764 =
 [
-    [ "ModDest", "d4/dfa/a24764.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "d4/dfa/a24764.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "d4/dfa/a24764.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "HandleProc", "d4/dfa/a24764.html#a8cdacf8f2562c0c35fafaa24ac9d18c2", null ],
+    [ "PrepareAuraScript", "d4/dfa/a24764.html#a9cc42ed6528e9e6dd253808c59286e02", null ],
+    [ "Register", "d4/dfa/a24764.html#a3d4b8bfcc77087533d9bb1b1d5f6f637", null ],
+    [ "Validate", "d4/dfa/a24764.html#abe19ae79c5bf1b0104cc3bc16570853a", null ]
 ];

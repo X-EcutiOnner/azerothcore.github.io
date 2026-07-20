@@ -1,6 +1,14 @@
 var a22588 =
 [
-    [ "boss_essence_of_desireAI", "db/d60/a22592.html", "db/d60/a22592" ],
-    [ "boss_essence_of_desire", "df/d0a/a22588.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "df/d0a/a22588.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "npc_maiev_illidan", "df/d0a/a22588.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
+    [ "DamageTaken", "df/d0a/a22588.html#a780cc558c483efa3293d798cc6048a33", null ],
+    [ "DoAction", "df/d0a/a22588.html#a53607a158edf8fd772908b5d7af6edf1", null ],
+    [ "IsSummonedBy", "df/d0a/a22588.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
+    [ "JustEngagedWith", "df/d0a/a22588.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
+    [ "JustExitedCombat", "df/d0a/a22588.html#a5606060b12e17edfd6ad05f4f01dd339", null ],
+    [ "Reset", "df/d0a/a22588.html#a100db757c89634a58b9382216e2791ec", null ],
+    [ "SpellHit", "df/d0a/a22588.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
+    [ "UpdateAI", "df/d0a/a22588.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
+    [ "_outroActive", "df/d0a/a22588.html#af0f1e48d3712039cb110d5a69a464009", null ],
+    [ "instance", "df/d0a/a22588.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
 ];

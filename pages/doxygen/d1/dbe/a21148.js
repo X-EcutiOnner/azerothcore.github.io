@@ -1,8 +1,9 @@
 var a21148 =
 [
-    [ "boss_moragg", "d1/dbe/a21148.html#a42d2508369286e5e635d47cce0b939f4", null ],
-    [ "EnterEvadeMode", "d1/dbe/a21148.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
-    [ "ExecuteEvent", "d1/dbe/a21148.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
-    [ "JustEngagedWith", "d1/dbe/a21148.html#a29da7214373c1919b65f3512655c8bc3", null ],
-    [ "MoveInLineOfSight", "d1/dbe/a21148.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
+    [ "CastTheNextTwoSpells", "d1/dbe/a21148.html#a70a154ea5c19c36630e94c5214ee6722", null ],
+    [ "OnPeriodic", "d1/dbe/a21148.html#ac9b99d9328affec2787691f80e0cc9c3", null ],
+    [ "PrepareAuraScript", "d1/dbe/a21148.html#ac7450be0713ce98e7986d322a58289f6", null ],
+    [ "PushBackTheNextTwoSpells", "d1/dbe/a21148.html#a9e470116c80cf56b425e344d73e44533", null ],
+    [ "Register", "d1/dbe/a21148.html#ad948e7cb5a64ed5bd202c10b28285d9c", null ],
+    [ "_summonSpells", "d1/dbe/a21148.html#a578dbb8c828e3acf36b21a38628c94e1", null ]
 ];

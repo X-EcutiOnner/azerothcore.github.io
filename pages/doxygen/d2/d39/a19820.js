@@ -1,6 +1,6 @@
 var a19820 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "da/d8f/a19824.html", "da/d8f/a19824" ],
-    [ "boss_sjonnir_iron_sludge", "d2/d39/a19820.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
-    [ "GetAI", "d2/d39/a19820.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
+    [ "HandleEffectCalcAmount", "d2/d39/a19820.html#afa50ce616d36dd59c7195209074d6182", null ],
+    [ "PrepareAuraScript", "d2/d39/a19820.html#a4638b99dac7653f13d59c3928a78b3b9", null ],
+    [ "Register", "d2/d39/a19820.html#a691d5a99eec9e367c518d0244f25bd41", null ]
 ];

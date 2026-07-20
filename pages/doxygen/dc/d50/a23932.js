@@ -1,15 +1,16 @@
 var a23932 =
 [
-    [ "dragonmaw_race_npc", "dc/d50/a23932.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
-    [ "FailQuest", "dc/d50/a23932.html#a15a1223f9dc5d3979485a753687f169e", null ],
-    [ "FinishRace", "dc/d50/a23932.html#a2439f54aca4ff28c23d351245099a4fc", null ],
-    [ "MovementInform", "dc/d50/a23932.html#ad0b4ef357605a44a4188c29292303dcf", null ],
-    [ "PathEndReached", "dc/d50/a23932.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
-    [ "Reset", "dc/d50/a23932.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
-    [ "sQuestAccept", "dc/d50/a23932.html#a539fcaf1dc25a34531d032032c19182e", null ],
-    [ "StartRace", "dc/d50/a23932.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
-    [ "StartRaceAttacks", "dc/d50/a23932.html#a341528843b89a29711f60a1b932da616", null ],
-    [ "TakeOff", "dc/d50/a23932.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
-    [ "UpdateAI", "dc/d50/a23932.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
-    [ "_playerGUID", "dc/d50/a23932.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
+    [ "npc_kurenai_captiveAI", "dc/d50/a23932.html#ab8771e4c2cefe3d5dc3e07df2eeb7b96", null ],
+    [ "JustDied", "dc/d50/a23932.html#a0778846d7d67f5d29ed3f7ef02f912f4", null ],
+    [ "JustEngagedWith", "dc/d50/a23932.html#a9e36749629568d7917353bee51be08b8", null ],
+    [ "JustSummoned", "dc/d50/a23932.html#a19a5190b72f78ee698d5fa2df6ac9b4b", null ],
+    [ "Reset", "dc/d50/a23932.html#aea5af2579f9be13620f15b82b5cc8436", null ],
+    [ "SetGUID", "dc/d50/a23932.html#a5ae293f5444f08f7ea58b3b58f4a7279", null ],
+    [ "SpellHitTarget", "dc/d50/a23932.html#a1f0cb1afc62b1b29a71cc04a21c456f0", null ],
+    [ "UpdateEscortAI", "dc/d50/a23932.html#a3d0dfb0df190fe1b32cacb039e611dc3", null ],
+    [ "WaypointReached", "dc/d50/a23932.html#a584bfc3a62f9d856e6d918d8f8694b3e", null ],
+    [ "WaypointReached", "dc/d50/a23932.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "ChainLightningTimer", "dc/d50/a23932.html#a9aede5daebe0cf90ca2091a052c34282", null ],
+    [ "FrostShockTimer", "dc/d50/a23932.html#a224c2df273f8d032e4302958879ce4d5", null ],
+    [ "HealTimer", "dc/d50/a23932.html#a5a8d15bf6d2fd7a04818ba4535195922", null ]
 ];

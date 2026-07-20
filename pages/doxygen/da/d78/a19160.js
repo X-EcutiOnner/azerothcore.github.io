@@ -1,6 +1,9 @@
 var a19160 =
 [
-    [ "RespawnEvent", "da/d78/a19160.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
-    [ "Execute", "da/d78/a19160.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
-    [ "_owner", "da/d78/a19160.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "da/d78/a19160.html#a18330d49e510f83af7ee0120df14e633", null ],
+    [ "AttackStart", "da/d78/a19160.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
+    [ "JustEngagedWith", "da/d78/a19160.html#adddd56260b41738d69fcdfe31b677c51", null ],
+    [ "Reset", "da/d78/a19160.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
+    [ "UpdateAI", "da/d78/a19160.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
+    [ "events", "da/d78/a19160.html#a1c8a527d217f9b810f87da0fc020528a", null ]
 ];

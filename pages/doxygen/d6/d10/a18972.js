@@ -1,6 +1,6 @@
 var a18972 =
 [
-    [ "HandleEvent", "d6/d10/a18972.html#a7936a64a1142a47b2addfd746dccfcef", null ],
-    [ "PrepareSpellScript", "d6/d10/a18972.html#a00e2be07131c674558d0364df98849ab", null ],
-    [ "Register", "d6/d10/a18972.html#a89364583504d2eaa75473586850bc3d5", null ]
+    [ "CaptainSurviveTalk", "d6/d10/a18972.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "d6/d10/a18972.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "d6/d10/a18972.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

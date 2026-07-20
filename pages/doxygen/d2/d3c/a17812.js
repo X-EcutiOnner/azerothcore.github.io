@@ -1,6 +1,8 @@
 var a17812 =
 [
-    [ "npc_gunshipAI", "d9/d4c/a17816.html", "d9/d4c/a17816" ],
-    [ "npc_gunship", "d2/d3c/a17812.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
-    [ "GetAI", "d2/d3c/a17812.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
+    [ "npc_high_overlord_saurfangAI", "d9/d4c/a17816.html", "d9/d4c/a17816" ],
+    [ "npc_high_overlord_saurfang_icc", "d2/d3c/a17812.html#ac02fe80550572e142406c2d80c0392df", null ],
+    [ "GetAI", "d2/d3c/a17812.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
+    [ "OnGossipHello", "d2/d3c/a17812.html#a515a87f751527412222cfdd968febe7c", null ],
+    [ "OnGossipSelect", "d2/d3c/a17812.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
 ];

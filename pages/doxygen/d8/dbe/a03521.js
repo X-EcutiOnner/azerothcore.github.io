@@ -1,18 +1,13 @@
 var a03521 =
 [
-    [ "AuctionHouseScript", "d0/dfd/a10673.html", "d0/dfd/a10673" ],
-    [ "AuctionHouseHook", "d8/dbe/a03521.html#a12159e90d998de411ceb193c223f26c9", [
-      [ "AUCTIONHOUSEHOOK_ON_AUCTION_ADD", "d8/dbe/a03521.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0", null ],
-      [ "AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE", "d8/dbe/a03521.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2", null ],
-      [ "AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL", "d8/dbe/a03521.html#a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff", null ],
-      [ "AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE", "d8/dbe/a03521.html#a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL", "d8/dbe/a03521.html#a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL", "d8/dbe/a03521.html#a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL", "d8/dbe/a03521.html#a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL", "d8/dbe/a03521.html#a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL", "d8/dbe/a03521.html#a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL", "d8/dbe/a03521.html#a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE", "d8/dbe/a03521.html#a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9", null ],
-      [ "AUCTIONHOUSEHOOK_END", "d8/dbe/a03521.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc", null ]
-    ] ]
+    [ "instance_halls_of_lightning", "d9/df6/a19884.html", "d9/df6/a19884" ],
+    [ "instance_halls_of_lightning::instance_halls_of_lightning_InstanceMapScript", "de/dfd/a19888.html", "de/dfd/a19888" ],
+    [ "at_hol_hall_of_watchers", "da/dc0/a19892.html", "da/dc0/a19892" ],
+    [ "TitaniumHallwaySpells", "d8/dbe/a03521.html#acb18ad00890035d01ae1c735f67fd0c8", [
+      [ "SPELL_FREEZE_ANIM", "d8/dbe/a03521.html#acb18ad00890035d01ae1c735f67fd0c8a09463e66b152e3f856401806af0a4823", null ],
+      [ "SPELL_AWAKEN", "d8/dbe/a03521.html#acb18ad00890035d01ae1c735f67fd0c8a76e1fd225869c359917096a4030f4799", null ]
+    ] ],
+    [ "AddSC_instance_halls_of_lightning", "d8/dbe/a03521.html#acb5e7d848388449d05e307ed07fbcfc6", null ],
+    [ "doorData", "d8/dbe/a03521.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "d8/dbe/a03521.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
 ];

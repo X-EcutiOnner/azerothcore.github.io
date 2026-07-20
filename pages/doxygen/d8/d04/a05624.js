@@ -1,9 +1,8 @@
 var a05624 =
 [
-    [ "IpLocationStore", "d8/d04/a05624.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
-    [ "~IpLocationStore", "d8/d04/a05624.html#a82360c1ce130670fde23d42135f91324", null ],
-    [ "GetLocationRecord", "d8/d04/a05624.html#a06384169031d2417a7f6bac54d3187a9", null ],
-    [ "instance", "d8/d04/a05624.html#ad740adf9b81b37cf147dc00e220b29db", null ],
-    [ "Load", "d8/d04/a05624.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
-    [ "_ipLocationStore", "d8/d04/a05624.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
+    [ "Count", "d8/d04/a05624.html#a4ab8f061208d7733ee65ba768f85f513", null ],
+    [ "GetElements", "d8/d04/a05624.html#af75467b56830b1447bebbf974b2747b6", null ],
+    [ "GetElements", "d8/d04/a05624.html#abbdfddc576af5f2d49dddf5e49ad2864", null ],
+    [ "insert", "d8/d04/a05624.html#a026880bb3378687143ed19fa7b99b41b", null ],
+    [ "i_elements", "d8/d04/a05624.html#a8ef4a180d448dcba2141fc389621433d", null ]
 ];

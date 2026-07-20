@@ -1,6 +1,6 @@
 var a23532 =
 [
-    [ "HandlePeriodic", "d7/d65/a23532.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
-    [ "PrepareAuraScript", "d7/d65/a23532.html#a75d72d196ded2ee109d0231d4342890a", null ],
-    [ "Register", "d7/d65/a23532.html#a148013ea68bbc573bddc1c3639dba019", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "d4/dab/a23536.html", "d4/dab/a23536" ],
+    [ "instance_shattered_halls", "d7/d65/a23532.html#a9d0d3b6baec34c679151791610cff3a7", null ],
+    [ "GetInstanceScript", "d7/d65/a23532.html#a82388466811b022a725ba721845cadf3", null ]
 ];

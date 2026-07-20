@@ -1,13 +1,12 @@
 var a12240 =
 [
-    [ "cheat_commandscript", "d6/d91/a12240.html#a7449cfba3578956a09b67e569e7e6083", null ],
-    [ "GetCommands", "d6/d91/a12240.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
-    [ "HandleCasttimeCheatCommand", "d6/d91/a12240.html#a119ad06c5b8be235853bb13c7cff724b", null ],
-    [ "HandleCheatStatusCommand", "d6/d91/a12240.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
-    [ "HandleCoolDownCheatCommand", "d6/d91/a12240.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
-    [ "HandleExploreCheatCommand", "d6/d91/a12240.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
-    [ "HandleGodModeCheatCommand", "d6/d91/a12240.html#ac398dbacf025830dc871bc77938d47d6", null ],
-    [ "HandlePowerCheatCommand", "d6/d91/a12240.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
-    [ "HandleTaxiCheatCommand", "d6/d91/a12240.html#ab9bd840c9622d173e710058eeb763388", null ],
-    [ "HandleWaterWalkCheatCommand", "d6/d91/a12240.html#a9162d89c049f14f29bc5ba257964df34", null ]
+    [ "WardenMac", "d6/d91/a12240.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
+    [ "~WardenMac", "d6/d91/a12240.html#a5f3832580c73a0af34fa83669a92ceab", null ],
+    [ "GetModuleForClient", "d6/d91/a12240.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
+    [ "HandleData", "d6/d91/a12240.html#a024be47d39641cb0e7654b0e0999e444", null ],
+    [ "HandleHashResult", "d6/d91/a12240.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
+    [ "Init", "d6/d91/a12240.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
+    [ "InitializeModule", "d6/d91/a12240.html#a4fceef34e83db1a357d9eadce35efdef", null ],
+    [ "RequestChecks", "d6/d91/a12240.html#a2437a3a5650305b05fc22d312d0006da", null ],
+    [ "RequestHash", "d6/d91/a12240.html#af031f18554c5a96b4eb39371a92b9c51", null ]
 ];

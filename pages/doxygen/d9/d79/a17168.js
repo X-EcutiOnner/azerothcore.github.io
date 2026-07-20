@@ -1,8 +1,8 @@
 var a17168 =
 [
-    [ "npc_hor_leaderAI", "d1/d27/a17172.html", "d1/d27/a17172" ],
-    [ "npc_hor_leader", "d9/d79/a17168.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
-    [ "GetAI", "d9/d79/a17168.html#a55e7357aa6dff1efdff08541e88413e9", null ],
-    [ "OnGossipHello", "d9/d79/a17168.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
-    [ "OnGossipSelect", "d9/d79/a17168.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
+    [ "HandleEffectApply", "d9/d79/a17168.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
+    [ "HandleEffectRemove", "d9/d79/a17168.html#a04504220319ec562b1b6691f471c1b8d", null ],
+    [ "PrepareAuraScript", "d9/d79/a17168.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
+    [ "Register", "d9/d79/a17168.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
+    [ "Validate", "d9/d79/a17168.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
 ];

@@ -1,5 +1,7 @@
 var a22108 =
 [
-    [ "achievement_wg_vehicular_gnomeslaughter", "d2/d99/a22108.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
-    [ "OnCheck", "d2/d99/a22108.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
+    [ "HandleDummy", "d2/d99/a22108.html#a68c638c6e056cbadb101ddd025909f54", null ],
+    [ "PrepareSpellScript", "d2/d99/a22108.html#a5a857bace5232d259145a0a095f70eec", null ],
+    [ "Register", "d2/d99/a22108.html#af9c657e1fac6ee630af0bea337fbff62", null ],
+    [ "Validate", "d2/d99/a22108.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
 ];

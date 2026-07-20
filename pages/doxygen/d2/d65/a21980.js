@@ -1,6 +1,6 @@
 var a21980 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "d2/d65/a21980.html#afd54b130725aa724b80f150f968ce09d", null ],
-    [ "MovementInform", "d2/d65/a21980.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
-    [ "PassengerBoarded", "d2/d65/a21980.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
+    [ "npc_tournament_training_dummyAI", "d1/ded/a21984.html", "d1/ded/a21984" ],
+    [ "npc_tournament_training_dummy", "d2/d65/a21980.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
+    [ "GetAI", "d2/d65/a21980.html#a31257c155c3a49c69771156800cf6340", null ]
 ];

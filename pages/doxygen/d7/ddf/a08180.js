@@ -1,5 +1,6 @@
 var a08180 =
 [
-    [ "ThreatReferenceImpl", "d7/ddf/a08180.html#ae69492bf301cc65e2554ac6d46039086", null ],
-    [ "_handle", "d7/ddf/a08180.html#a500806ed499b69bcae1d9a05071dea2c", null ]
+    [ "value_type", "d7/ddf/a08180.html#a695a2a7939d7c5812ddfa2148eeeb954", null ],
+    [ "StoreTo", "d7/ddf/a08180.html#a0fac033c58bdd6385de489c2d7fafc18", null ],
+    [ "tag", "d7/ddf/a08180.html#a7a25abd4fae2f7411db0dd7f278235fc", null ]
 ];

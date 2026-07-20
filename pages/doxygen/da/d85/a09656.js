@@ -1,8 +1,8 @@
 var a09656 =
 [
-    [ "NearestGameObjectFishingHole", "da/d85/a09656.html#ab0e4734202edf26b69881ab85abe1d93", null ],
-    [ "NearestGameObjectFishingHole", "da/d85/a09656.html#a256c64e6c82d98349b958647d98bf4ce", null ],
-    [ "operator()", "da/d85/a09656.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
-    [ "i_obj", "da/d85/a09656.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
-    [ "i_range", "da/d85/a09656.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
+    [ "CreatureWorker", "da/d85/a09656.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
+    [ "Visit", "da/d85/a09656.html#ae67044250380c521055f80c55de0bba5", null ],
+    [ "Visit", "da/d85/a09656.html#aa9a450b147aafe46a49135f5c5be668e", null ],
+    [ "i_do", "da/d85/a09656.html#ac22f86d9a41701e7527d4840da256f11", null ],
+    [ "i_phaseMask", "da/d85/a09656.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
 ];

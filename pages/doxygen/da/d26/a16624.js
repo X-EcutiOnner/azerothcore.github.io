@@ -1,6 +1,6 @@
 var a16624 =
 [
-    [ "HandleSpellHit", "da/d26/a16624.html#a8c801b92f6e405668edae54989dd58e8", null ],
-    [ "PrepareSpellScript", "da/d26/a16624.html#abae02a74f626b890f61df551318dcc81", null ],
-    [ "Register", "da/d26/a16624.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
+    [ "PrepareSpellScript", "da/d26/a16624.html#a743f910c3854e2c4e726e97c55fa7038", null ],
+    [ "Register", "da/d26/a16624.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
+    [ "RemoveNotBetween", "da/d26/a16624.html#aba462e5b8e9336a508d19606f98750b5", null ]
 ];

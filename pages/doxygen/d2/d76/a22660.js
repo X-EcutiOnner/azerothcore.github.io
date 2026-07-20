@@ -1,6 +1,7 @@
 var a22660 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "d2/d76/a22660.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "d2/d76/a22660.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
-    [ "UpdateAI", "d2/d76/a22660.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "VerasEnvenom", "d2/d76/a22660.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "d2/d76/a22660.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "d2/d76/a22660.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "d2/d76/a22660.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

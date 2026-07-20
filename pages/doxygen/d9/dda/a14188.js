@@ -1,10 +1,6 @@
 var a14188 =
 [
-    [ "boss_alyson_antille", "d9/dda/a14188.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
-    [ "GetNearbyFriendlies", "d9/dda/a14188.html#ab99596d5c2eafac8c678378d509bf585", null ],
-    [ "JustEngagedWith", "d9/dda/a14188.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
-    [ "RandomReverseFriendlyList", "d9/dda/a14188.html#afef27de229ba2c3b8beb30809a313237", null ],
-    [ "Reset", "d9/dda/a14188.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
-    [ "UpdateAI", "d9/dda/a14188.html#a15157be42d166a239ab658fc04292e44", null ],
-    [ "_friendlyList", "d9/dda/a14188.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
+    [ "npc_highborne_lamenterAI", "d8/d11/a14192.html", "d8/d11/a14192" ],
+    [ "npc_highborne_lamenter", "d9/dda/a14188.html#a40316cf73a688e34e95dd41feef8612a", null ],
+    [ "GetAI", "d9/dda/a14188.html#aad8ccb43b325b797f60a16e338458a1e", null ]
 ];

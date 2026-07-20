@@ -1,11 +1,12 @@
 var a12216 =
 [
-    [ "bf_commandscript", "d1/d96/a12216.html#a806ca440ae1b51fffefee9d298dab3df", null ],
-    [ "GetCommands", "d1/d96/a12216.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
-    [ "HandleBattlefieldEnable", "d1/d96/a12216.html#a5d6fdbbdd77fc16aaac170d5af0ff924", null ],
-    [ "HandleBattlefieldEnd", "d1/d96/a12216.html#abe18a8f6f91de5a1984f09c711136919", null ],
-    [ "HandleBattlefieldQueue", "d1/d96/a12216.html#ab2e116060bb747e9ae9237c49b8cc2c9", null ],
-    [ "HandleBattlefieldStart", "d1/d96/a12216.html#a1cfd74a803277063fa5e03162956f341", null ],
-    [ "HandleBattlefieldSwitch", "d1/d96/a12216.html#ae942a3c7f13cc77b3cf36078d798e0fe", null ],
-    [ "HandleBattlefieldTimer", "d1/d96/a12216.html#a6c0d2587984f276bbc40af72017dc00a", null ]
+    [ "Action", "d1/d96/a12216.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
+    [ "Address", "d1/d96/a12216.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
+    [ "CheckId", "d1/d96/a12216.html#a51a0cea0381f2b64e9d240ac39591172", null ],
+    [ "Comment", "d1/d96/a12216.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
+    [ "Data", "d1/d96/a12216.html#a962795028d40645fe67e4290ea64b10b", null ],
+    [ "IdStr", "d1/d96/a12216.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
+    [ "Length", "d1/d96/a12216.html#abe0249d9550042e696eb74edf06aaec8", null ],
+    [ "Str", "d1/d96/a12216.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
+    [ "Type", "d1/d96/a12216.html#aca31cdb700dca4801dfa514812639c70", null ]
 ];

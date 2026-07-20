@@ -1,7 +1,6 @@
 var a21084 =
 [
-    [ "PrepareAuraScript", "d3/d3a/a21084.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
-    [ "Register", "d3/d3a/a21084.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
-    [ "TriggerFists", "d3/d3a/a21084.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
-    [ "Validate", "d3/d3a/a21084.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
+    [ "npc_ferocious_rhinoAI", "df/d4b/a21088.html", "df/d4b/a21088" ],
+    [ "npc_ferocious_rhino", "d3/d3a/a21084.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
+    [ "GetAI", "d3/d3a/a21084.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
 ];

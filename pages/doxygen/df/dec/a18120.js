@@ -1,6 +1,6 @@
 var a18120 =
 [
-    [ "npc_volatile_oozeAI", "d0/dbd/a18124.html", "d0/dbd/a18124" ],
-    [ "npc_volatile_ooze", "df/dec/a18120.html#a22847e44812a0b13b92cfcca3a70204e", null ],
-    [ "GetAI", "df/dec/a18120.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
+    [ "boss_lady_deathwhisperAI", "d0/dbd/a18124.html", "d0/dbd/a18124" ],
+    [ "boss_lady_deathwhisper", "df/dec/a18120.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "df/dec/a18120.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

@@ -1,6 +1,7 @@
 var a15552 =
 [
-    [ "FilterTargets", "dc/ddc/a15552.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
-    [ "PrepareSpellScript", "dc/ddc/a15552.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
-    [ "Register", "dc/ddc/a15552.html#aaf7b4fba94d94331f6b35add2b836061", null ]
+    [ "npc_hivezara_stinger", "dc/ddc/a15552.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
+    [ "JustEngagedWith", "dc/ddc/a15552.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
+    [ "Reset", "dc/ddc/a15552.html#ae8e893c90942a469628c393d5b5380cc", null ],
+    [ "UpdateAI", "dc/ddc/a15552.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
 ];

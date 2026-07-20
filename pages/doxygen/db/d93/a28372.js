@@ -1,13 +1,7 @@
 var a28372 =
 [
-    [ "DBCDatabaseLoader", "db/d93/a28372.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
-    [ "DBCDatabaseLoader", "db/d93/a28372.html#a7d93e6d37796f341edcf25062743c5b5", null ],
-    [ "CloneStringToPool", "db/d93/a28372.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
-    [ "Load", "db/d93/a28372.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
-    [ "operator=", "db/d93/a28372.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
-    [ "_dbcFormat", "db/d93/a28372.html#aa749118514d0b784ac6df295bd820d8e", null ],
-    [ "_recordSize", "db/d93/a28372.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
-    [ "_sqlIndexPos", "db/d93/a28372.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
-    [ "_sqlTableName", "db/d93/a28372.html#ab6590071edf5311ccf484d48e4fd125e", null ],
-    [ "_stringPool", "db/d93/a28372.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
+    [ "npc_guardianAI", "db/d93/a28372.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "db/d93/a28372.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "db/d93/a28372.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "db/d93/a28372.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

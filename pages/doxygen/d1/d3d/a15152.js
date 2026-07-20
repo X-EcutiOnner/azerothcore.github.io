@@ -1,6 +1,9 @@
 var a15152 =
 [
-    [ "npc_cos_stratholme_citizienAI", "d0/dea/a15156.html", "d0/dea/a15156" ],
-    [ "npc_cos_stratholme_citizien", "d1/d3d/a15152.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "d1/d3d/a15152.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "boss_rage_winterchill", "d1/d3d/a15152.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "d1/d3d/a15152.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "d1/d3d/a15152.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "d1/d3d/a15152.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "d1/d3d/a15152.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "d1/d3d/a15152.html#aec47befdf3246710a5158780fa797fa7", null ]
 ];

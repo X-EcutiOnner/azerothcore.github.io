@@ -1,12 +1,12 @@
 var a30020 =
 [
-    [ "Model", "d6/d41/a30020.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
-    [ "~Model", "d6/d41/a30020.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
-    [ "_unload", "d6/d41/a30020.html#a9b02ed73fa006bc057157b636029ab6f", null ],
-    [ "ConvertToVMAPModel", "d6/d41/a30020.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
-    [ "open", "d6/d41/a30020.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
-    [ "filename", "d6/d41/a30020.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
-    [ "header", "d6/d41/a30020.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
-    [ "indices", "d6/d41/a30020.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
-    [ "vertices", "d6/d41/a30020.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
+    [ "cellSizeHorizontal", "d6/d41/a30020.html#a5356c03dab90621b69de7a79ed4ab195", null ],
+    [ "cellSizeVertical", "d6/d41/a30020.html#a47b5a920afa39ae27a80241d58f152a3", null ],
+    [ "tileOverrides", "d6/d41/a30020.html#a129437291e75a919e4158bf1df0f7f0a", null ],
+    [ "vertexPerMapEdge", "d6/d41/a30020.html#a9d32da8787f54a7dadb86458319e0238", null ],
+    [ "vertexPerTileEdge", "d6/d41/a30020.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
+    [ "walkableClimb", "d6/d41/a30020.html#a2bd854b374d67d53b03a7bacf0785726", null ],
+    [ "walkableHeight", "d6/d41/a30020.html#a1de27edad5c45f8033ce74352c563f52", null ],
+    [ "walkableRadius", "d6/d41/a30020.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
+    [ "walkableSlopeAngle", "d6/d41/a30020.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
 ];

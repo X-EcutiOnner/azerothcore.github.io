@@ -1,13 +1,10 @@
 var a05984 =
 [
-    [ "SOAPCommand", "db/df6/a05984.html#a56d5e1a4b0e3abb0284c668e175a8d4b", null ],
-    [ "~SOAPCommand", "db/df6/a05984.html#ab0a07da0bb379751d0d2812dfa98b607", null ],
-    [ "appendToPrintBuffer", "db/df6/a05984.html#a116d4a9d85c536ca3866bf340b64b9d9", null ],
-    [ "commandFinished", "db/df6/a05984.html#a18310d831429b084dc5cbf6310195001", null ],
-    [ "hasCommandSucceeded", "db/df6/a05984.html#a251a0999a4b74ca8db7bbaa634f1d361", null ],
-    [ "print", "db/df6/a05984.html#a69a3287df41392488dbcb1be2f0349f3", null ],
-    [ "setCommandSuccess", "db/df6/a05984.html#ae6849ecbf940ac2baf92f3b7ca3d6cd2", null ],
-    [ "finishedPromise", "db/df6/a05984.html#aec2e336644d004a59ad21431fbf80c83", null ],
-    [ "m_printBuffer", "db/df6/a05984.html#aa823e9c8d3048d5780b11d168f5be0d9", null ],
-    [ "m_success", "db/df6/a05984.html#aab7299bceae48c2066f1885b90a34c60", null ]
+    [ "ListIterator", "db/df6/a05984.html#a2d6f26f422402c3dcc0e026587201f9e", null ],
+    [ "begin", "db/df6/a05984.html#ab7d2c8fa95d8256bba7b6b3ccdcff251", null ],
+    [ "end", "db/df6/a05984.html#a6dffd4b0ef103e34fca8d474856ca8d3", null ],
+    [ "operator+=", "db/df6/a05984.html#a3a4a52377c59e360b9aa164940b06285", null ],
+    [ "operator-=", "db/df6/a05984.html#ae5c430c031dffae3c3b270c527b0cc70", null ],
+    [ "size", "db/df6/a05984.html#a13d85caabd15541389f8e93e99b768b0", null ],
+    [ "m_list", "db/df6/a05984.html#a5bb439ae8dd02302f19581d2771c570c", null ]
 ];

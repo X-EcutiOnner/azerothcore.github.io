@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/EasternKingdoms/zone_elwynn_forest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcPPMModifierTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,466 +106,1054 @@ $(document).ready(function(){initNavTree('d3/dd5/a00215.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">zone_elwynn_forest.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">SpellProcPPMModifierTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureGroups.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameEventMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
+
+<p><a class="el" href="../../da/deb/a09136.html">Unit</a> tests for SPELLMOD_PROC_PER_MINUTE modifier application.  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ProcEventInfoHelper.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d50/a14029.html">npc_cameron</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d88/a14033.html">npc_supervisor_raelen</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc2/a14037.html">npc_eastvale_peasent</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a2be3c31abb125ee2f4e5db0dffba1303"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a2be3c31abb125ee2f4e5db0dffba1303">COG_Paths</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a2be3c31abb125ee2f4e5db0dffba1303ad1a5074e62ba573b4ca7b603db8af713">STORMWIND_PATH</a> = 80500
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a2be3c31abb125ee2f4e5db0dffba1303ae667c0211d3eff5f76656bf6d0008172">GOLDSHIRE_PATH</a> = 80501
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a2be3c31abb125ee2f4e5db0dffba1303a3b6098ca7c08a02325e87d2e2d51e097">WOODS_PATH</a> = 80502
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a2be3c31abb125ee2f4e5db0dffba1303a613998450aaf10ae6d9eb7b70fe9b773">HOUSE_PATH</a> = 80503
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c">LISA_PATH</a> = 80700
-<br />
- }</td></tr>
-<tr class="separator:a2be3c31abb125ee2f4e5db0dffba1303"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a41b64d07acba30bca6797dd30accb701"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701">COG_Sounds</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a778d73a82a4986348c2f576778911c1d">BANSHEE_DEATH</a> = 1171
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a9194ea7479faaf1cd6e95b3d3ef5133e">BANSHEEPREAGGRO</a> = 1172
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a82970f5a7615c954b42ee1a4fc6e175c">CTHUN_YOU_WILL_DIE</a> = 8585
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a6597c2048b383d43a5ff472d715fdc05">CTHUN_DEATH_IS_CLOSE</a> = 8580
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a154e3f7a96cd9c9d13a04b5fc36ec18a">HUMAN_FEMALE_EMOTE_CRY</a> = 6916
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a5ad070314ff7ce37671151ab6fd1df05">GHOSTDEATH</a> = 3416
-<br />
- }</td></tr>
-<tr class="separator:a41b64d07acba30bca6797dd30accb701"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a65c53b71f65b39ebdb719ba85df40c00"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00">COG_Creatures</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00aab1360bef063d32d66b5592222983b79">NPC_DANA</a> = 804
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00a2774529c2dae7e5aa5c9dca851e92cee">NPC_CAMERON</a> = 805
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00a92ee2b12ddc8057ce39df7fc8e26cad8">NPC_JOHN</a> = 806
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00a54c1064e732d54bcc50cc2fe6c83fc00">NPC_LISA</a> = 807
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00a1b159aa0575b48c2c155ce477231d648">NPC_AARON</a> = 810
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00ad461074ca1d14ce25750b36d50dff8d9">NPC_JOSE</a> = 811
-<br />
- }</td></tr>
-<tr class="separator:a65c53b71f65b39ebdb719ba85df40c00"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab264f1364ee8d7515c93f7604d783521"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521">COG_Events</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f">EVENT_WP_START_GOLDSHIRE</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521a05142c4d528718117f9c7c66c066d67a">EVENT_WP_START_WOODS</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521ad3ea93fa2e5aa5f9c975333fa1b1ff2d">EVENT_WP_START_HOUSE</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521acc6320f492dc6b0283b8c26d0c8dabc8">EVENT_WP_START_LISA</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521a9f179e3b64119e37ba2bd7197c842ab4">EVENT_PLAY_SOUNDS</a> = 5
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521a82d09cc2c3aa83b16da003fcf3cb98b7">EVENT_BEGIN_EVENT</a> = 6
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521ac6c378046d721cffff0f049904ea03d1">EVENT_RANDOM_MOVEMENT</a> = 7
-<br />
- }</td></tr>
-<tr class="separator:ab264f1364ee8d7515c93f7604d783521"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7f96446be0a530da18223bb22482eb13"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a7f96446be0a530da18223bb22482eb13">COG_GameEvent</a> { <a class="el" href="../../d3/dd5/a00215.html#a7f96446be0a530da18223bb22482eb13ae98243feecf1c9640cede7b94f8681cb">GAME_EVENT_CHILDREN_OF_GOLDSHIRE</a> = 74
- }</td></tr>
-<tr class="separator:a7f96446be0a530da18223bb22482eb13"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3bd40a8e75f5b073b6027152c2acd047"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a3bd40a8e75f5b073b6027152c2acd047">SupervisorRaelen</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a3bd40a8e75f5b073b6027152c2acd047a05dcad03ab565112d34579d0ef216f19">EVENT_FIND_PEASENTS</a> = 8
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a3bd40a8e75f5b073b6027152c2acd047a1a939768178f2c95f03e6c1490c9e2c0">EVENT_NEXT_PEASENT</a> = 9
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a3bd40a8e75f5b073b6027152c2acd047ab484ca934ce49cee056ba54c53003ddd">NPC_EASTVALE_PEASENT</a> = 11328
-<br />
- }</td></tr>
-<tr class="separator:a3bd40a8e75f5b073b6027152c2acd047"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7e632be8f8b8da84644527621a3c2769"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769">EastvalePeasent</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a7060cdf87e903e239424f6de8b3c4e01">EVENT_MOVETORAELEN</a> = 10
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769ab389694ba3f2e68242451516333631e6">EVENT_TALKTORAELEN1</a> = 11
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769aa71bff713cc0f565434450c758f74f49">EVENT_TALKTORAELEN2</a> = 12
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a07d0b4a5d57b000f4aa7ac0f641432e0">EVENT_RAELENTALK</a> = 13
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a3f3781fe8cd1b69d99d36799fe7bc343">EVENT_TALKTORAELEN3</a> = 14
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769aa2b4baec842eb98eed0d720a2d1e292f">EVENT_TALKTORAELEN4</a> = 15
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a2749a3e614e97936834faf0763d89f85">EVENT_PATHBACK</a> = 16
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a55dd8d60432601f01a996db6af736667">NPC_SUPERVISOR_RAELEN</a> = 10616
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769ac3af8fa1b480f8ffa2f3ce8f07015d90">PATH_PEASENT_0</a> = 813490
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a90bfaadda89dbdfe74e830dba63392b6">PATH_PEASENT_1</a> = 813480
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a691ee393540918dfc1b592fab31778d7">PATH_PEASENT_2</a> = 812520
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a94a20bb05ec932c0c58387e63ee95c7d">PATH_PEASENT_3</a> = 812490
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769aa40d5d29c4805d92281561d5491f42e0">PATH_PEASENT_4</a> = 812500
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769ae2a00c9eac8422904f7f4e82661114fc">SAY_RAELEN</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a76573a8111b11c8e5d82081211d778d2">SOUND_PEASENT_GREETING_1</a> = 6289
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a78f08b9a1fa0e5891df9dedd3030107d">SOUND_PEASENT_GREETING_2</a> = 6288
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769ace4122d507bca6f6d027e9e5d8273942">SOUND_PEASENT_GREETING_3</a> = 6290
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a6b7ddbed101521381be4ee097e03eadf">SOUND_PEASENT_LEAVING_1</a> = 6242
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a94849b28c308e34fe7c2f3cdd3b569e1">SOUND_PEASENT_LEAVING_2</a> = 6282
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a11f78805bf631264c76272506c189f65">SOUND_PEASENT_LEAVING_3</a> = 6284
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a0537de2a4772069d0cc2f66767b7d404">SOUND_PEASENT_LEAVING_4</a> = 6285
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a4631839cb0120966d74bb95fce52c358">SOUND_PEASENT_LEAVING_5</a> = 6286
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a716c6a90c42b3ee3811ac25a342faa56">SPELL_TRANSFORM_PEASENT_WITH_WOOD</a> = 9127
-<br />
- }</td></tr>
-<tr class="separator:a7e632be8f8b8da84644527621a3c2769"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aef9caff22cc5e92156da2c393ecfb531"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#aef9caff22cc5e92156da2c393ecfb531">AddSC_elwynn_forest</a> ()</td></tr>
-<tr class="separator:aef9caff22cc5e92156da2c393ecfb531"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aabcf8b974f95be4625d5319f67599adf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#aabcf8b974f95be4625d5319f67599adf">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, BasePPM_NoModifiers)</td></tr>
+<tr class="separator:aabcf8b974f95be4625d5319f67599adf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2bec39c4b0d12991540f45313533396"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#aa2bec39c4b0d12991540f45313533396">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, BasePPM_DifferentWeaponSpeeds)</td></tr>
+<tr class="separator:aa2bec39c4b0d12991540f45313533396"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab826af751165cb89507993b1e67e4801"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#ab826af751165cb89507993b1e67e4801">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, BasePPM_ZeroPPM)</td></tr>
+<tr class="separator:ab826af751165cb89507993b1e67e4801"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa89aed3e26b449dff635a2d80b3c6d9e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#aa89aed3e26b449dff635a2d80b3c6d9e">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, BasePPM_NegativePPM)</td></tr>
+<tr class="separator:aa89aed3e26b449dff635a2d80b3c6d9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a55269899b416b9a218ee32727ea41686"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a55269899b416b9a218ee32727ea41686">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, FlatModifier_IncreasesPPM)</td></tr>
+<tr class="separator:a55269899b416b9a218ee32727ea41686"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad2e4c02c33dffa0cfac62af5424e280c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#ad2e4c02c33dffa0cfac62af5424e280c">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, FlatModifier_DecreasesPPM)</td></tr>
+<tr class="separator:ad2e4c02c33dffa0cfac62af5424e280c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc454f21b772ee0486a0dde1104ed51f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#afc454f21b772ee0486a0dde1104ed51f">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, FlatModifier_ReducesToZero)</td></tr>
+<tr class="separator:afc454f21b772ee0486a0dde1104ed51f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a62a9fc158e8997b1f0ca15a5f5c41c40"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a62a9fc158e8997b1f0ca15a5f5c41c40">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, PercentModifier_50PercentIncrease)</td></tr>
+<tr class="separator:a62a9fc158e8997b1f0ca15a5f5c41c40"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad829d055fa5c2a97e6bc2c9b5ed8ea5e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#ad829d055fa5c2a97e6bc2c9b5ed8ea5e">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, PercentModifier_50PercentDecrease)</td></tr>
+<tr class="separator:ad829d055fa5c2a97e6bc2c9b5ed8ea5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba5574eb11e7364630a7391e7b1567cf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#aba5574eb11e7364630a7391e7b1567cf">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, PercentModifier_DoublesPPM)</td></tr>
+<tr class="separator:aba5574eb11e7364630a7391e7b1567cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a61b70ea722efdd0a5ef7fefae02d968e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a61b70ea722efdd0a5ef7fefae02d968e">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, CombinedModifiers_FlatThenPercent)</td></tr>
+<tr class="separator:a61b70ea722efdd0a5ef7fefae02d968e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a311a78c504af8345e2c9c3a859bdfa23"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a311a78c504af8345e2c9c3a859bdfa23">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, CombinedModifiers_BothIncrease)</td></tr>
+<tr class="separator:a311a78c504af8345e2c9c3a859bdfa23"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0dcaf713e379ac19c9953c832d8b1353"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a0dcaf713e379ac19c9953c832d8b1353">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, NoSpellModOwner_ModifiersIgnored)</td></tr>
+<tr class="separator:a0dcaf713e379ac19c9953c832d8b1353"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6c5b5b7733c23575f0e7064e5eed508d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a6c5b5b7733c23575f0e7064e5eed508d">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, NoSpellProto_ModifiersIgnored)</td></tr>
+<tr class="separator:a6c5b5b7733c23575f0e7064e5eed508d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7ba996e0597652071689fc2a33d2a2b3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a7ba996e0597652071689fc2a33d2a2b3">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, Scenario_OmenOfClarity_BasePPM)</td></tr>
+<tr class="separator:a7ba996e0597652071689fc2a33d2a2b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd7d1227159442414c5be9459d9a9c23"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#abd7d1227159442414c5be9459d9a9c23">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, Scenario_OmenOfClarity_WithTalent)</td></tr>
+<tr class="separator:abd7d1227159442414c5be9459d9a9c23"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a137ba54ef70f0a29f8b68424e786752f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a137ba54ef70f0a29f8b68424e786752f">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, Scenario_WindfuryWeapon_FastWeapon)</td></tr>
+<tr class="separator:a137ba54ef70f0a29f8b68424e786752f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7d0cc368c07828252aa4d377962f0da"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#aa7d0cc368c07828252aa4d377962f0da">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, Scenario_WindfuryWeapon_SlowWeapon)</td></tr>
+<tr class="separator:aa7d0cc368c07828252aa4d377962f0da"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a20a56c1828d7aac366535c1729b8df43"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a20a56c1828d7aac366535c1729b8df43">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, Scenario_JudgementOfLight_HighPPM)</td></tr>
+<tr class="separator:a20a56c1828d7aac366535c1729b8df43"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a55af5ca86664564775172b5d49afe313"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a55af5ca86664564775172b5d49afe313">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, EdgeCase_VeryFastWeapon)</td></tr>
+<tr class="separator:a55af5ca86664564775172b5d49afe313"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a54ef2e1e9f80b212b8e1d7263f2a4379"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a54ef2e1e9f80b212b8e1d7263f2a4379">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, EdgeCase_VerySlowWeapon)</td></tr>
+<tr class="separator:a54ef2e1e9f80b212b8e1d7263f2a4379"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad304d8058fb3117080850a71033ffc73"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#ad304d8058fb3117080850a71033ffc73">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, EdgeCase_VeryHighPPM)</td></tr>
+<tr class="separator:ad304d8058fb3117080850a71033ffc73"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43454c0e6317092aedad285a01c1d525"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a00215.html#a43454c0e6317092aedad285a01c1d525">TEST_F</a> (<a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>, EdgeCase_ZeroWeaponSpeed)</td></tr>
+<tr class="separator:a43454c0e6317092aedad285a01c1d525"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a65c53b71f65b39ebdb719ba85df40c00" name="a65c53b71f65b39ebdb719ba85df40c00"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a65c53b71f65b39ebdb719ba85df40c00">&#9670;&#160;</a></span>COG_Creatures</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p ><a class="el" href="../../da/deb/a09136.html">Unit</a> tests for SPELLMOD_PROC_PER_MINUTE modifier application. </p>
+<p >Tests the logic from <a class="el" href="../../d3/d0b/a01253.html">Unit.cpp</a>:10378-10390:</p><ul>
+<li>Base PPM calculation without modifiers</li>
+<li>Flat PPM modifier application</li>
+<li>Percent PPM modifier application</li>
+<li>GetSpellModOwner() null handling</li>
+<li>SpellProto null handling </li>
+</ul>
+
+<p class="definition">Definition in file <a class="el" href="../../">SpellProcPPMModifierTest.cpp</a>.</p>
+</div><h2 class="groupheader">Function Documentation</h2>
+<a id="aa2bec39c4b0d12991540f45313533396" name="aa2bec39c4b0d12991540f45313533396"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa2bec39c4b0d12991540f45313533396">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/23]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00">COG_Creatures</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a65c53b71f65b39ebdb719ba85df40c00aab1360bef063d32d66b5592222983b79" name="a65c53b71f65b39ebdb719ba85df40c00aab1360bef063d32d66b5592222983b79"></a>NPC_DANA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a65c53b71f65b39ebdb719ba85df40c00a2774529c2dae7e5aa5c9dca851e92cee" name="a65c53b71f65b39ebdb719ba85df40c00a2774529c2dae7e5aa5c9dca851e92cee"></a>NPC_CAMERON&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a65c53b71f65b39ebdb719ba85df40c00a92ee2b12ddc8057ce39df7fc8e26cad8" name="a65c53b71f65b39ebdb719ba85df40c00a92ee2b12ddc8057ce39df7fc8e26cad8"></a>NPC_JOHN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a65c53b71f65b39ebdb719ba85df40c00a54c1064e732d54bcc50cc2fe6c83fc00" name="a65c53b71f65b39ebdb719ba85df40c00a54c1064e732d54bcc50cc2fe6c83fc00"></a>NPC_LISA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a65c53b71f65b39ebdb719ba85df40c00a1b159aa0575b48c2c155ce477231d648" name="a65c53b71f65b39ebdb719ba85df40c00a1b159aa0575b48c2c155ce477231d648"></a>NPC_AARON&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a65c53b71f65b39ebdb719ba85df40c00ad461074ca1d14ce25750b36d50dff8d9" name="a65c53b71f65b39ebdb719ba85df40c00ad461074ca1d14ce25750b36d50dff8d9"></a>NPC_JOSE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   45</span>{</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00aab1360bef063d32d66b5592222983b79">NPC_DANA</a> = 804,</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00a2774529c2dae7e5aa5c9dca851e92cee">NPC_CAMERON</a> = 805,</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00a92ee2b12ddc8057ce39df7fc8e26cad8">NPC_JOHN</a> = 806,</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00a54c1064e732d54bcc50cc2fe6c83fc00">NPC_LISA</a> = 807,</div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00a1b159aa0575b48c2c155ce477231d648">NPC_AARON</a> = 810,</div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00ad461074ca1d14ce25750b36d50dff8d9">NPC_JOSE</a> = 811</div>
-<div class="line"><span class="lineno">   52</span>};</div>
-<div class="ttc" id="aa00215_html_a65c53b71f65b39ebdb719ba85df40c00a1b159aa0575b48c2c155ce477231d648"><div class="ttname"><a href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00a1b159aa0575b48c2c155ce477231d648">NPC_AARON</a></div><div class="ttdeci">@ NPC_AARON</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:50</div></div>
-<div class="ttc" id="aa00215_html_a65c53b71f65b39ebdb719ba85df40c00a2774529c2dae7e5aa5c9dca851e92cee"><div class="ttname"><a href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00a2774529c2dae7e5aa5c9dca851e92cee">NPC_CAMERON</a></div><div class="ttdeci">@ NPC_CAMERON</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:47</div></div>
-<div class="ttc" id="aa00215_html_a65c53b71f65b39ebdb719ba85df40c00a54c1064e732d54bcc50cc2fe6c83fc00"><div class="ttname"><a href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00a54c1064e732d54bcc50cc2fe6c83fc00">NPC_LISA</a></div><div class="ttdeci">@ NPC_LISA</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:49</div></div>
-<div class="ttc" id="aa00215_html_a65c53b71f65b39ebdb719ba85df40c00a92ee2b12ddc8057ce39df7fc8e26cad8"><div class="ttname"><a href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00a92ee2b12ddc8057ce39df7fc8e26cad8">NPC_JOHN</a></div><div class="ttdeci">@ NPC_JOHN</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:48</div></div>
-<div class="ttc" id="aa00215_html_a65c53b71f65b39ebdb719ba85df40c00aab1360bef063d32d66b5592222983b79"><div class="ttname"><a href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00aab1360bef063d32d66b5592222983b79">NPC_DANA</a></div><div class="ttdeci">@ NPC_DANA</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:46</div></div>
-<div class="ttc" id="aa00215_html_a65c53b71f65b39ebdb719ba85df40c00ad461074ca1d14ce25750b36d50dff8d9"><div class="ttname"><a href="../../d3/dd5/a00215.html#a65c53b71f65b39ebdb719ba85df40c00ad461074ca1d14ce25750b36d50dff8d9">NPC_JOSE</a></div><div class="ttdeci">@ NPC_JOSE</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:51</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ab264f1364ee8d7515c93f7604d783521" name="ab264f1364ee8d7515c93f7604d783521"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab264f1364ee8d7515c93f7604d783521">&#9670;&#160;</a></span>COG_Events</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521">COG_Events</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f" name="ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f"></a>EVENT_WP_START_GOLDSHIRE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab264f1364ee8d7515c93f7604d783521a05142c4d528718117f9c7c66c066d67a" name="ab264f1364ee8d7515c93f7604d783521a05142c4d528718117f9c7c66c066d67a"></a>EVENT_WP_START_WOODS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab264f1364ee8d7515c93f7604d783521ad3ea93fa2e5aa5f9c975333fa1b1ff2d" name="ab264f1364ee8d7515c93f7604d783521ad3ea93fa2e5aa5f9c975333fa1b1ff2d"></a>EVENT_WP_START_HOUSE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab264f1364ee8d7515c93f7604d783521acc6320f492dc6b0283b8c26d0c8dabc8" name="ab264f1364ee8d7515c93f7604d783521acc6320f492dc6b0283b8c26d0c8dabc8"></a>EVENT_WP_START_LISA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab264f1364ee8d7515c93f7604d783521a9f179e3b64119e37ba2bd7197c842ab4" name="ab264f1364ee8d7515c93f7604d783521a9f179e3b64119e37ba2bd7197c842ab4"></a>EVENT_PLAY_SOUNDS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab264f1364ee8d7515c93f7604d783521a82d09cc2c3aa83b16da003fcf3cb98b7" name="ab264f1364ee8d7515c93f7604d783521a82d09cc2c3aa83b16da003fcf3cb98b7"></a>EVENT_BEGIN_EVENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab264f1364ee8d7515c93f7604d783521ac6c378046d721cffff0f049904ea03d1" name="ab264f1364ee8d7515c93f7604d783521ac6c378046d721cffff0f049904ea03d1"></a>EVENT_RANDOM_MOVEMENT&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   55</span>{</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f">EVENT_WP_START_GOLDSHIRE</a> = 1,</div>
-<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521a05142c4d528718117f9c7c66c066d67a">EVENT_WP_START_WOODS</a> = 2,</div>
-<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521ad3ea93fa2e5aa5f9c975333fa1b1ff2d">EVENT_WP_START_HOUSE</a> = 3,</div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521acc6320f492dc6b0283b8c26d0c8dabc8">EVENT_WP_START_LISA</a> = 4,</div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521a9f179e3b64119e37ba2bd7197c842ab4">EVENT_PLAY_SOUNDS</a> = 5,</div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521a82d09cc2c3aa83b16da003fcf3cb98b7">EVENT_BEGIN_EVENT</a> = 6,</div>
-<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521ac6c378046d721cffff0f049904ea03d1">EVENT_RANDOM_MOVEMENT</a> = 7</div>
-<div class="line"><span class="lineno">   63</span>};</div>
-<div class="ttc" id="aa00215_html_ab264f1364ee8d7515c93f7604d783521a05142c4d528718117f9c7c66c066d67a"><div class="ttname"><a href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521a05142c4d528718117f9c7c66c066d67a">EVENT_WP_START_WOODS</a></div><div class="ttdeci">@ EVENT_WP_START_WOODS</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:57</div></div>
-<div class="ttc" id="aa00215_html_ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f"><div class="ttname"><a href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f">EVENT_WP_START_GOLDSHIRE</a></div><div class="ttdeci">@ EVENT_WP_START_GOLDSHIRE</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:56</div></div>
-<div class="ttc" id="aa00215_html_ab264f1364ee8d7515c93f7604d783521a82d09cc2c3aa83b16da003fcf3cb98b7"><div class="ttname"><a href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521a82d09cc2c3aa83b16da003fcf3cb98b7">EVENT_BEGIN_EVENT</a></div><div class="ttdeci">@ EVENT_BEGIN_EVENT</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:61</div></div>
-<div class="ttc" id="aa00215_html_ab264f1364ee8d7515c93f7604d783521a9f179e3b64119e37ba2bd7197c842ab4"><div class="ttname"><a href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521a9f179e3b64119e37ba2bd7197c842ab4">EVENT_PLAY_SOUNDS</a></div><div class="ttdeci">@ EVENT_PLAY_SOUNDS</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:60</div></div>
-<div class="ttc" id="aa00215_html_ab264f1364ee8d7515c93f7604d783521ac6c378046d721cffff0f049904ea03d1"><div class="ttname"><a href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521ac6c378046d721cffff0f049904ea03d1">EVENT_RANDOM_MOVEMENT</a></div><div class="ttdeci">@ EVENT_RANDOM_MOVEMENT</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:62</div></div>
-<div class="ttc" id="aa00215_html_ab264f1364ee8d7515c93f7604d783521acc6320f492dc6b0283b8c26d0c8dabc8"><div class="ttname"><a href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521acc6320f492dc6b0283b8c26d0c8dabc8">EVENT_WP_START_LISA</a></div><div class="ttdeci">@ EVENT_WP_START_LISA</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:59</div></div>
-<div class="ttc" id="aa00215_html_ab264f1364ee8d7515c93f7604d783521ad3ea93fa2e5aa5f9c975333fa1b1ff2d"><div class="ttname"><a href="../../d3/dd5/a00215.html#ab264f1364ee8d7515c93f7604d783521ad3ea93fa2e5aa5f9c975333fa1b1ff2d">EVENT_WP_START_HOUSE</a></div><div class="ttdeci">@ EVENT_WP_START_HOUSE</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:58</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a7f96446be0a530da18223bb22482eb13" name="a7f96446be0a530da18223bb22482eb13"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7f96446be0a530da18223bb22482eb13">&#9670;&#160;</a></span>COG_GameEvent</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dd5/a00215.html#a7f96446be0a530da18223bb22482eb13">COG_GameEvent</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7f96446be0a530da18223bb22482eb13ae98243feecf1c9640cede7b94f8681cb" name="a7f96446be0a530da18223bb22482eb13ae98243feecf1c9640cede7b94f8681cb"></a>GAME_EVENT_CHILDREN_OF_GOLDSHIRE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   66</span>{</div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7f96446be0a530da18223bb22482eb13ae98243feecf1c9640cede7b94f8681cb">GAME_EVENT_CHILDREN_OF_GOLDSHIRE</a> = 74</div>
-<div class="line"><span class="lineno">   68</span>};</div>
-<div class="ttc" id="aa00215_html_a7f96446be0a530da18223bb22482eb13ae98243feecf1c9640cede7b94f8681cb"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7f96446be0a530da18223bb22482eb13ae98243feecf1c9640cede7b94f8681cb">GAME_EVENT_CHILDREN_OF_GOLDSHIRE</a></div><div class="ttdeci">@ GAME_EVENT_CHILDREN_OF_GOLDSHIRE</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:67</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a2be3c31abb125ee2f4e5db0dffba1303" name="a2be3c31abb125ee2f4e5db0dffba1303"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2be3c31abb125ee2f4e5db0dffba1303">&#9670;&#160;</a></span>COG_Paths</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dd5/a00215.html#a2be3c31abb125ee2f4e5db0dffba1303">COG_Paths</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a2be3c31abb125ee2f4e5db0dffba1303ad1a5074e62ba573b4ca7b603db8af713" name="a2be3c31abb125ee2f4e5db0dffba1303ad1a5074e62ba573b4ca7b603db8af713"></a>STORMWIND_PATH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2be3c31abb125ee2f4e5db0dffba1303ae667c0211d3eff5f76656bf6d0008172" name="a2be3c31abb125ee2f4e5db0dffba1303ae667c0211d3eff5f76656bf6d0008172"></a>GOLDSHIRE_PATH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2be3c31abb125ee2f4e5db0dffba1303a3b6098ca7c08a02325e87d2e2d51e097" name="a2be3c31abb125ee2f4e5db0dffba1303a3b6098ca7c08a02325e87d2e2d51e097"></a>WOODS_PATH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2be3c31abb125ee2f4e5db0dffba1303a613998450aaf10ae6d9eb7b70fe9b773" name="a2be3c31abb125ee2f4e5db0dffba1303a613998450aaf10ae6d9eb7b70fe9b773"></a>HOUSE_PATH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c" name="a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c"></a>LISA_PATH&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a2be3c31abb125ee2f4e5db0dffba1303ad1a5074e62ba573b4ca7b603db8af713">STORMWIND_PATH</a> = 80500,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a2be3c31abb125ee2f4e5db0dffba1303ae667c0211d3eff5f76656bf6d0008172">GOLDSHIRE_PATH</a> = 80501,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a2be3c31abb125ee2f4e5db0dffba1303a3b6098ca7c08a02325e87d2e2d51e097">WOODS_PATH</a> = 80502,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a2be3c31abb125ee2f4e5db0dffba1303a613998450aaf10ae6d9eb7b70fe9b773">HOUSE_PATH</a> = 80503,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c">LISA_PATH</a> = 80700</div>
-<div class="line"><span class="lineno">   32</span>};</div>
-<div class="ttc" id="aa00215_html_a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c"><div class="ttname"><a href="../../d3/dd5/a00215.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c">LISA_PATH</a></div><div class="ttdeci">@ LISA_PATH</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:31</div></div>
-<div class="ttc" id="aa00215_html_a2be3c31abb125ee2f4e5db0dffba1303a3b6098ca7c08a02325e87d2e2d51e097"><div class="ttname"><a href="../../d3/dd5/a00215.html#a2be3c31abb125ee2f4e5db0dffba1303a3b6098ca7c08a02325e87d2e2d51e097">WOODS_PATH</a></div><div class="ttdeci">@ WOODS_PATH</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:29</div></div>
-<div class="ttc" id="aa00215_html_a2be3c31abb125ee2f4e5db0dffba1303a613998450aaf10ae6d9eb7b70fe9b773"><div class="ttname"><a href="../../d3/dd5/a00215.html#a2be3c31abb125ee2f4e5db0dffba1303a613998450aaf10ae6d9eb7b70fe9b773">HOUSE_PATH</a></div><div class="ttdeci">@ HOUSE_PATH</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:30</div></div>
-<div class="ttc" id="aa00215_html_a2be3c31abb125ee2f4e5db0dffba1303ad1a5074e62ba573b4ca7b603db8af713"><div class="ttname"><a href="../../d3/dd5/a00215.html#a2be3c31abb125ee2f4e5db0dffba1303ad1a5074e62ba573b4ca7b603db8af713">STORMWIND_PATH</a></div><div class="ttdeci">@ STORMWIND_PATH</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:27</div></div>
-<div class="ttc" id="aa00215_html_a2be3c31abb125ee2f4e5db0dffba1303ae667c0211d3eff5f76656bf6d0008172"><div class="ttname"><a href="../../d3/dd5/a00215.html#a2be3c31abb125ee2f4e5db0dffba1303ae667c0211d3eff5f76656bf6d0008172">GOLDSHIRE_PATH</a></div><div class="ttdeci">@ GOLDSHIRE_PATH</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:28</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a41b64d07acba30bca6797dd30accb701" name="a41b64d07acba30bca6797dd30accb701"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a41b64d07acba30bca6797dd30accb701">&#9670;&#160;</a></span>COG_Sounds</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701">COG_Sounds</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a41b64d07acba30bca6797dd30accb701a778d73a82a4986348c2f576778911c1d" name="a41b64d07acba30bca6797dd30accb701a778d73a82a4986348c2f576778911c1d"></a>BANSHEE_DEATH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a41b64d07acba30bca6797dd30accb701a9194ea7479faaf1cd6e95b3d3ef5133e" name="a41b64d07acba30bca6797dd30accb701a9194ea7479faaf1cd6e95b3d3ef5133e"></a>BANSHEEPREAGGRO&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a41b64d07acba30bca6797dd30accb701a82970f5a7615c954b42ee1a4fc6e175c" name="a41b64d07acba30bca6797dd30accb701a82970f5a7615c954b42ee1a4fc6e175c"></a>CTHUN_YOU_WILL_DIE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a41b64d07acba30bca6797dd30accb701a6597c2048b383d43a5ff472d715fdc05" name="a41b64d07acba30bca6797dd30accb701a6597c2048b383d43a5ff472d715fdc05"></a>CTHUN_DEATH_IS_CLOSE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a41b64d07acba30bca6797dd30accb701a154e3f7a96cd9c9d13a04b5fc36ec18a" name="a41b64d07acba30bca6797dd30accb701a154e3f7a96cd9c9d13a04b5fc36ec18a"></a>HUMAN_FEMALE_EMOTE_CRY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a41b64d07acba30bca6797dd30accb701a5ad070314ff7ce37671151ab6fd1df05" name="a41b64d07acba30bca6797dd30accb701a5ad070314ff7ce37671151ab6fd1df05"></a>GHOSTDEATH&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   35</span>{</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a778d73a82a4986348c2f576778911c1d">BANSHEE_DEATH</a> = 1171,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a9194ea7479faaf1cd6e95b3d3ef5133e">BANSHEEPREAGGRO</a> = 1172,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a82970f5a7615c954b42ee1a4fc6e175c">CTHUN_YOU_WILL_DIE</a> = 8585,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a6597c2048b383d43a5ff472d715fdc05">CTHUN_DEATH_IS_CLOSE</a> = 8580,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a154e3f7a96cd9c9d13a04b5fc36ec18a">HUMAN_FEMALE_EMOTE_CRY</a> = 6916,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a5ad070314ff7ce37671151ab6fd1df05">GHOSTDEATH</a> = 3416</div>
-<div class="line"><span class="lineno">   42</span>};</div>
-<div class="ttc" id="aa00215_html_a41b64d07acba30bca6797dd30accb701a154e3f7a96cd9c9d13a04b5fc36ec18a"><div class="ttname"><a href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a154e3f7a96cd9c9d13a04b5fc36ec18a">HUMAN_FEMALE_EMOTE_CRY</a></div><div class="ttdeci">@ HUMAN_FEMALE_EMOTE_CRY</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:40</div></div>
-<div class="ttc" id="aa00215_html_a41b64d07acba30bca6797dd30accb701a5ad070314ff7ce37671151ab6fd1df05"><div class="ttname"><a href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a5ad070314ff7ce37671151ab6fd1df05">GHOSTDEATH</a></div><div class="ttdeci">@ GHOSTDEATH</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:41</div></div>
-<div class="ttc" id="aa00215_html_a41b64d07acba30bca6797dd30accb701a6597c2048b383d43a5ff472d715fdc05"><div class="ttname"><a href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a6597c2048b383d43a5ff472d715fdc05">CTHUN_DEATH_IS_CLOSE</a></div><div class="ttdeci">@ CTHUN_DEATH_IS_CLOSE</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:39</div></div>
-<div class="ttc" id="aa00215_html_a41b64d07acba30bca6797dd30accb701a778d73a82a4986348c2f576778911c1d"><div class="ttname"><a href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a778d73a82a4986348c2f576778911c1d">BANSHEE_DEATH</a></div><div class="ttdeci">@ BANSHEE_DEATH</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:36</div></div>
-<div class="ttc" id="aa00215_html_a41b64d07acba30bca6797dd30accb701a82970f5a7615c954b42ee1a4fc6e175c"><div class="ttname"><a href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a82970f5a7615c954b42ee1a4fc6e175c">CTHUN_YOU_WILL_DIE</a></div><div class="ttdeci">@ CTHUN_YOU_WILL_DIE</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:38</div></div>
-<div class="ttc" id="aa00215_html_a41b64d07acba30bca6797dd30accb701a9194ea7479faaf1cd6e95b3d3ef5133e"><div class="ttname"><a href="../../d3/dd5/a00215.html#a41b64d07acba30bca6797dd30accb701a9194ea7479faaf1cd6e95b3d3ef5133e">BANSHEEPREAGGRO</a></div><div class="ttdeci">@ BANSHEEPREAGGRO</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:37</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a7e632be8f8b8da84644527621a3c2769" name="a7e632be8f8b8da84644527621a3c2769"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7e632be8f8b8da84644527621a3c2769">&#9670;&#160;</a></span>EastvalePeasent</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769">EastvalePeasent</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769a7060cdf87e903e239424f6de8b3c4e01" name="a7e632be8f8b8da84644527621a3c2769a7060cdf87e903e239424f6de8b3c4e01"></a>EVENT_MOVETORAELEN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769ab389694ba3f2e68242451516333631e6" name="a7e632be8f8b8da84644527621a3c2769ab389694ba3f2e68242451516333631e6"></a>EVENT_TALKTORAELEN1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769aa71bff713cc0f565434450c758f74f49" name="a7e632be8f8b8da84644527621a3c2769aa71bff713cc0f565434450c758f74f49"></a>EVENT_TALKTORAELEN2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769a07d0b4a5d57b000f4aa7ac0f641432e0" name="a7e632be8f8b8da84644527621a3c2769a07d0b4a5d57b000f4aa7ac0f641432e0"></a>EVENT_RAELENTALK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769a3f3781fe8cd1b69d99d36799fe7bc343" name="a7e632be8f8b8da84644527621a3c2769a3f3781fe8cd1b69d99d36799fe7bc343"></a>EVENT_TALKTORAELEN3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769aa2b4baec842eb98eed0d720a2d1e292f" name="a7e632be8f8b8da84644527621a3c2769aa2b4baec842eb98eed0d720a2d1e292f"></a>EVENT_TALKTORAELEN4&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769a2749a3e614e97936834faf0763d89f85" name="a7e632be8f8b8da84644527621a3c2769a2749a3e614e97936834faf0763d89f85"></a>EVENT_PATHBACK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769a55dd8d60432601f01a996db6af736667" name="a7e632be8f8b8da84644527621a3c2769a55dd8d60432601f01a996db6af736667"></a>NPC_SUPERVISOR_RAELEN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769ac3af8fa1b480f8ffa2f3ce8f07015d90" name="a7e632be8f8b8da84644527621a3c2769ac3af8fa1b480f8ffa2f3ce8f07015d90"></a>PATH_PEASENT_0&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769a90bfaadda89dbdfe74e830dba63392b6" name="a7e632be8f8b8da84644527621a3c2769a90bfaadda89dbdfe74e830dba63392b6"></a>PATH_PEASENT_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769a691ee393540918dfc1b592fab31778d7" name="a7e632be8f8b8da84644527621a3c2769a691ee393540918dfc1b592fab31778d7"></a>PATH_PEASENT_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769a94a20bb05ec932c0c58387e63ee95c7d" name="a7e632be8f8b8da84644527621a3c2769a94a20bb05ec932c0c58387e63ee95c7d"></a>PATH_PEASENT_3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769aa40d5d29c4805d92281561d5491f42e0" name="a7e632be8f8b8da84644527621a3c2769aa40d5d29c4805d92281561d5491f42e0"></a>PATH_PEASENT_4&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769ae2a00c9eac8422904f7f4e82661114fc" name="a7e632be8f8b8da84644527621a3c2769ae2a00c9eac8422904f7f4e82661114fc"></a>SAY_RAELEN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769a76573a8111b11c8e5d82081211d778d2" name="a7e632be8f8b8da84644527621a3c2769a76573a8111b11c8e5d82081211d778d2"></a>SOUND_PEASENT_GREETING_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769a78f08b9a1fa0e5891df9dedd3030107d" name="a7e632be8f8b8da84644527621a3c2769a78f08b9a1fa0e5891df9dedd3030107d"></a>SOUND_PEASENT_GREETING_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769ace4122d507bca6f6d027e9e5d8273942" name="a7e632be8f8b8da84644527621a3c2769ace4122d507bca6f6d027e9e5d8273942"></a>SOUND_PEASENT_GREETING_3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769a6b7ddbed101521381be4ee097e03eadf" name="a7e632be8f8b8da84644527621a3c2769a6b7ddbed101521381be4ee097e03eadf"></a>SOUND_PEASENT_LEAVING_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769a94849b28c308e34fe7c2f3cdd3b569e1" name="a7e632be8f8b8da84644527621a3c2769a94849b28c308e34fe7c2f3cdd3b569e1"></a>SOUND_PEASENT_LEAVING_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769a11f78805bf631264c76272506c189f65" name="a7e632be8f8b8da84644527621a3c2769a11f78805bf631264c76272506c189f65"></a>SOUND_PEASENT_LEAVING_3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769a0537de2a4772069d0cc2f66767b7d404" name="a7e632be8f8b8da84644527621a3c2769a0537de2a4772069d0cc2f66767b7d404"></a>SOUND_PEASENT_LEAVING_4&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769a4631839cb0120966d74bb95fce52c358" name="a7e632be8f8b8da84644527621a3c2769a4631839cb0120966d74bb95fce52c358"></a>SOUND_PEASENT_LEAVING_5&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7e632be8f8b8da84644527621a3c2769a716c6a90c42b3ee3811ac25a342faa56" name="a7e632be8f8b8da84644527621a3c2769a716c6a90c42b3ee3811ac25a342faa56"></a>SPELL_TRANSFORM_PEASENT_WITH_WOOD&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  342</span>{</div>
-<div class="line"><span class="lineno">  343</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a7060cdf87e903e239424f6de8b3c4e01">EVENT_MOVETORAELEN</a>                = 10,</div>
-<div class="line"><span class="lineno">  344</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769ab389694ba3f2e68242451516333631e6">EVENT_TALKTORAELEN1</a>               = 11,</div>
-<div class="line"><span class="lineno">  345</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769aa71bff713cc0f565434450c758f74f49">EVENT_TALKTORAELEN2</a>               = 12,</div>
-<div class="line"><span class="lineno">  346</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a07d0b4a5d57b000f4aa7ac0f641432e0">EVENT_RAELENTALK</a>                  = 13,</div>
-<div class="line"><span class="lineno">  347</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a3f3781fe8cd1b69d99d36799fe7bc343">EVENT_TALKTORAELEN3</a>               = 14,</div>
-<div class="line"><span class="lineno">  348</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769aa2b4baec842eb98eed0d720a2d1e292f">EVENT_TALKTORAELEN4</a>               = 15,</div>
-<div class="line"><span class="lineno">  349</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a2749a3e614e97936834faf0763d89f85">EVENT_PATHBACK</a>                    = 16,</div>
-<div class="line"><span class="lineno">  350</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a55dd8d60432601f01a996db6af736667">NPC_SUPERVISOR_RAELEN</a>             = 10616,</div>
-<div class="line"><span class="lineno">  351</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769ac3af8fa1b480f8ffa2f3ce8f07015d90">PATH_PEASENT_0</a>                    = 813490,</div>
-<div class="line"><span class="lineno">  352</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a90bfaadda89dbdfe74e830dba63392b6">PATH_PEASENT_1</a>                    = 813480,</div>
-<div class="line"><span class="lineno">  353</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a691ee393540918dfc1b592fab31778d7">PATH_PEASENT_2</a>                    = 812520,</div>
-<div class="line"><span class="lineno">  354</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a94a20bb05ec932c0c58387e63ee95c7d">PATH_PEASENT_3</a>                    = 812490,</div>
-<div class="line"><span class="lineno">  355</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769aa40d5d29c4805d92281561d5491f42e0">PATH_PEASENT_4</a>                    = 812500,</div>
-<div class="line"><span class="lineno">  356</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769ae2a00c9eac8422904f7f4e82661114fc">SAY_RAELEN</a>                        = 0,</div>
-<div class="line"><span class="lineno">  357</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a76573a8111b11c8e5d82081211d778d2">SOUND_PEASENT_GREETING_1</a>          = 6289,</div>
-<div class="line"><span class="lineno">  358</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a78f08b9a1fa0e5891df9dedd3030107d">SOUND_PEASENT_GREETING_2</a>          = 6288,</div>
-<div class="line"><span class="lineno">  359</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769ace4122d507bca6f6d027e9e5d8273942">SOUND_PEASENT_GREETING_3</a>          = 6290,</div>
-<div class="line"><span class="lineno">  360</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a6b7ddbed101521381be4ee097e03eadf">SOUND_PEASENT_LEAVING_1</a>           = 6242,</div>
-<div class="line"><span class="lineno">  361</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a94849b28c308e34fe7c2f3cdd3b569e1">SOUND_PEASENT_LEAVING_2</a>           = 6282,</div>
-<div class="line"><span class="lineno">  362</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a11f78805bf631264c76272506c189f65">SOUND_PEASENT_LEAVING_3</a>           = 6284,</div>
-<div class="line"><span class="lineno">  363</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a0537de2a4772069d0cc2f66767b7d404">SOUND_PEASENT_LEAVING_4</a>           = 6285,</div>
-<div class="line"><span class="lineno">  364</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a4631839cb0120966d74bb95fce52c358">SOUND_PEASENT_LEAVING_5</a>           = 6286,</div>
-<div class="line"><span class="lineno">  365</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a716c6a90c42b3ee3811ac25a342faa56">SPELL_TRANSFORM_PEASENT_WITH_WOOD</a> = 9127</div>
-<div class="line"><span class="lineno">  366</span>};</div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769a0537de2a4772069d0cc2f66767b7d404"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a0537de2a4772069d0cc2f66767b7d404">SOUND_PEASENT_LEAVING_4</a></div><div class="ttdeci">@ SOUND_PEASENT_LEAVING_4</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:363</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769a07d0b4a5d57b000f4aa7ac0f641432e0"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a07d0b4a5d57b000f4aa7ac0f641432e0">EVENT_RAELENTALK</a></div><div class="ttdeci">@ EVENT_RAELENTALK</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:346</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769a11f78805bf631264c76272506c189f65"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a11f78805bf631264c76272506c189f65">SOUND_PEASENT_LEAVING_3</a></div><div class="ttdeci">@ SOUND_PEASENT_LEAVING_3</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:362</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769a2749a3e614e97936834faf0763d89f85"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a2749a3e614e97936834faf0763d89f85">EVENT_PATHBACK</a></div><div class="ttdeci">@ EVENT_PATHBACK</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:349</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769a3f3781fe8cd1b69d99d36799fe7bc343"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a3f3781fe8cd1b69d99d36799fe7bc343">EVENT_TALKTORAELEN3</a></div><div class="ttdeci">@ EVENT_TALKTORAELEN3</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:347</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769a4631839cb0120966d74bb95fce52c358"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a4631839cb0120966d74bb95fce52c358">SOUND_PEASENT_LEAVING_5</a></div><div class="ttdeci">@ SOUND_PEASENT_LEAVING_5</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:364</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769a55dd8d60432601f01a996db6af736667"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a55dd8d60432601f01a996db6af736667">NPC_SUPERVISOR_RAELEN</a></div><div class="ttdeci">@ NPC_SUPERVISOR_RAELEN</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:350</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769a691ee393540918dfc1b592fab31778d7"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a691ee393540918dfc1b592fab31778d7">PATH_PEASENT_2</a></div><div class="ttdeci">@ PATH_PEASENT_2</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:353</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769a6b7ddbed101521381be4ee097e03eadf"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a6b7ddbed101521381be4ee097e03eadf">SOUND_PEASENT_LEAVING_1</a></div><div class="ttdeci">@ SOUND_PEASENT_LEAVING_1</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:360</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769a7060cdf87e903e239424f6de8b3c4e01"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a7060cdf87e903e239424f6de8b3c4e01">EVENT_MOVETORAELEN</a></div><div class="ttdeci">@ EVENT_MOVETORAELEN</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:343</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769a716c6a90c42b3ee3811ac25a342faa56"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a716c6a90c42b3ee3811ac25a342faa56">SPELL_TRANSFORM_PEASENT_WITH_WOOD</a></div><div class="ttdeci">@ SPELL_TRANSFORM_PEASENT_WITH_WOOD</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:365</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769a76573a8111b11c8e5d82081211d778d2"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a76573a8111b11c8e5d82081211d778d2">SOUND_PEASENT_GREETING_1</a></div><div class="ttdeci">@ SOUND_PEASENT_GREETING_1</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:357</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769a78f08b9a1fa0e5891df9dedd3030107d"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a78f08b9a1fa0e5891df9dedd3030107d">SOUND_PEASENT_GREETING_2</a></div><div class="ttdeci">@ SOUND_PEASENT_GREETING_2</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:358</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769a90bfaadda89dbdfe74e830dba63392b6"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a90bfaadda89dbdfe74e830dba63392b6">PATH_PEASENT_1</a></div><div class="ttdeci">@ PATH_PEASENT_1</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:352</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769a94849b28c308e34fe7c2f3cdd3b569e1"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a94849b28c308e34fe7c2f3cdd3b569e1">SOUND_PEASENT_LEAVING_2</a></div><div class="ttdeci">@ SOUND_PEASENT_LEAVING_2</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:361</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769a94a20bb05ec932c0c58387e63ee95c7d"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769a94a20bb05ec932c0c58387e63ee95c7d">PATH_PEASENT_3</a></div><div class="ttdeci">@ PATH_PEASENT_3</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:354</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769aa2b4baec842eb98eed0d720a2d1e292f"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769aa2b4baec842eb98eed0d720a2d1e292f">EVENT_TALKTORAELEN4</a></div><div class="ttdeci">@ EVENT_TALKTORAELEN4</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:348</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769aa40d5d29c4805d92281561d5491f42e0"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769aa40d5d29c4805d92281561d5491f42e0">PATH_PEASENT_4</a></div><div class="ttdeci">@ PATH_PEASENT_4</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:355</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769aa71bff713cc0f565434450c758f74f49"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769aa71bff713cc0f565434450c758f74f49">EVENT_TALKTORAELEN2</a></div><div class="ttdeci">@ EVENT_TALKTORAELEN2</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:345</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769ab389694ba3f2e68242451516333631e6"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769ab389694ba3f2e68242451516333631e6">EVENT_TALKTORAELEN1</a></div><div class="ttdeci">@ EVENT_TALKTORAELEN1</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:344</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769ac3af8fa1b480f8ffa2f3ce8f07015d90"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769ac3af8fa1b480f8ffa2f3ce8f07015d90">PATH_PEASENT_0</a></div><div class="ttdeci">@ PATH_PEASENT_0</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:351</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769ace4122d507bca6f6d027e9e5d8273942"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769ace4122d507bca6f6d027e9e5d8273942">SOUND_PEASENT_GREETING_3</a></div><div class="ttdeci">@ SOUND_PEASENT_GREETING_3</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:359</div></div>
-<div class="ttc" id="aa00215_html_a7e632be8f8b8da84644527621a3c2769ae2a00c9eac8422904f7f4e82661114fc"><div class="ttname"><a href="../../d3/dd5/a00215.html#a7e632be8f8b8da84644527621a3c2769ae2a00c9eac8422904f7f4e82661114fc">SAY_RAELEN</a></div><div class="ttdeci">@ SAY_RAELEN</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:356</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a3bd40a8e75f5b073b6027152c2acd047" name="a3bd40a8e75f5b073b6027152c2acd047"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3bd40a8e75f5b073b6027152c2acd047">&#9670;&#160;</a></span>SupervisorRaelen</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dd5/a00215.html#a3bd40a8e75f5b073b6027152c2acd047">SupervisorRaelen</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a3bd40a8e75f5b073b6027152c2acd047a05dcad03ab565112d34579d0ef216f19" name="a3bd40a8e75f5b073b6027152c2acd047a05dcad03ab565112d34579d0ef216f19"></a>EVENT_FIND_PEASENTS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3bd40a8e75f5b073b6027152c2acd047a1a939768178f2c95f03e6c1490c9e2c0" name="a3bd40a8e75f5b073b6027152c2acd047a1a939768178f2c95f03e6c1490c9e2c0"></a>EVENT_NEXT_PEASENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3bd40a8e75f5b073b6027152c2acd047ab484ca934ce49cee056ba54c53003ddd" name="a3bd40a8e75f5b073b6027152c2acd047ab484ca934ce49cee056ba54c53003ddd"></a>NPC_EASTVALE_PEASENT&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  262</span>{</div>
-<div class="line"><span class="lineno">  263</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a3bd40a8e75f5b073b6027152c2acd047a05dcad03ab565112d34579d0ef216f19">EVENT_FIND_PEASENTS</a>  = 8,</div>
-<div class="line"><span class="lineno">  264</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a3bd40a8e75f5b073b6027152c2acd047a1a939768178f2c95f03e6c1490c9e2c0">EVENT_NEXT_PEASENT</a>   = 9,</div>
-<div class="line"><span class="lineno">  265</span>    <a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#a3bd40a8e75f5b073b6027152c2acd047ab484ca934ce49cee056ba54c53003ddd">NPC_EASTVALE_PEASENT</a> = 11328</div>
-<div class="line"><span class="lineno">  266</span>};</div>
-<div class="ttc" id="aa00215_html_a3bd40a8e75f5b073b6027152c2acd047a05dcad03ab565112d34579d0ef216f19"><div class="ttname"><a href="../../d3/dd5/a00215.html#a3bd40a8e75f5b073b6027152c2acd047a05dcad03ab565112d34579d0ef216f19">EVENT_FIND_PEASENTS</a></div><div class="ttdeci">@ EVENT_FIND_PEASENTS</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:263</div></div>
-<div class="ttc" id="aa00215_html_a3bd40a8e75f5b073b6027152c2acd047a1a939768178f2c95f03e6c1490c9e2c0"><div class="ttname"><a href="../../d3/dd5/a00215.html#a3bd40a8e75f5b073b6027152c2acd047a1a939768178f2c95f03e6c1490c9e2c0">EVENT_NEXT_PEASENT</a></div><div class="ttdeci">@ EVENT_NEXT_PEASENT</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:264</div></div>
-<div class="ttc" id="aa00215_html_a3bd40a8e75f5b073b6027152c2acd047ab484ca934ce49cee056ba54c53003ddd"><div class="ttname"><a href="../../d3/dd5/a00215.html#a3bd40a8e75f5b073b6027152c2acd047ab484ca934ce49cee056ba54c53003ddd">NPC_EASTVALE_PEASENT</a></div><div class="ttdeci">@ NPC_EASTVALE_PEASENT</div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:265</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="aef9caff22cc5e92156da2c393ecfb531" name="aef9caff22cc5e92156da2c393ecfb531"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aef9caff22cc5e92156da2c393ecfb531">&#9670;&#160;</a></span>AddSC_elwynn_forest()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void AddSC_elwynn_forest </td>
+          <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">BasePPM_DifferentWeaponSpeeds&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  513</span>{</div>
-<div class="line"><span class="lineno">  514</span>    <a class="code hl_define" href="../../d3/dff/a03422.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d6/d50/a14029.html">npc_cameron</a>);</div>
-<div class="line"><span class="lineno">  515</span>    <a class="code hl_define" href="../../d3/dff/a03422.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d9/d88/a14033.html">npc_supervisor_raelen</a>);</div>
-<div class="line"><span class="lineno">  516</span>    <a class="code hl_define" href="../../d3/dff/a03422.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d8/dc2/a14037.html">npc_eastvale_peasent</a>);</div>
-<div class="line"><span class="lineno">  517</span>}</div>
-<div class="ttc" id="aa03422_html_a5e7352841895df7117e2830448eb533f"><div class="ttname"><a href="../../d3/dff/a03422.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a></div><div class="ttdeci">#define RegisterCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> CreatureScript.h:71</div></div>
-<div class="ttc" id="aa14029_html"><div class="ttname"><a href="../../d6/d50/a14029.html">npc_cameron</a></div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:71</div></div>
-<div class="ttc" id="aa14033_html"><div class="ttname"><a href="../../d9/d88/a14033.html">npc_supervisor_raelen</a></div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:269</div></div>
-<div class="ttc" id="aa14037_html"><div class="ttname"><a href="../../d8/dc2/a14037.html">npc_eastvale_peasent</a></div><div class="ttdef"><b>Definition:</b> zone_elwynn_forest.cpp:369</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   67</span>{</div>
+<div class="line"><span class="lineno">   68</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">   69</span>    <span class="keywordtype">float</span> basePPM = 6.0f;</div>
+<div class="line"><span class="lineno">   70</span> </div>
+<div class="line"><span class="lineno">   71</span>    <span class="comment">// Fast dagger: (1400 * 6) / 600 = 14%</span></div>
+<div class="line"><span class="lineno">   72</span>    <span class="keywordtype">float</span> daggerChance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">   73</span>        DAGGER_SPEED, basePPM, config);</div>
+<div class="line"><span class="lineno">   74</span>    EXPECT_NEAR(daggerChance, 14.0f, 0.01f);</div>
+<div class="line"><span class="lineno">   75</span> </div>
+<div class="line"><span class="lineno">   76</span>    <span class="comment">// Slow 2H: (3300 * 6) / 600 = 33%</span></div>
+<div class="line"><span class="lineno">   77</span>    <span class="keywordtype">float</span> twoHandChance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">   78</span>        TWO_HANDED_SPEED, basePPM, config);</div>
+<div class="line"><span class="lineno">   79</span>    EXPECT_NEAR(twoHandChance, 33.0f, 0.01f);</div>
+<div class="line"><span class="lineno">   80</span>}</div>
+<div class="ttc" id="aa29404_html_ade540a47821c835766adbc6f26b571a7"><div class="ttname"><a href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a></div><div class="ttdeci">static float CalculatePPMChanceWithModifiers(uint32 weaponSpeed, float basePPM, PPMModifierConfig const &amp;modConfig)</div><div class="ttdoc">Calculate PPM chance with spell modifiers Simulates GetPPMProcChance() with SPELLMOD_PROC_PER_MINUTE.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:381</div></div>
+<div class="ttc" id="aa29416_html"><div class="ttname"><a href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a></div><div class="ttdoc">PPM modifier configuration for testing SPELLMOD_PROC_PER_MINUTE.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:370</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">RegisterCreatureAI</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00169">AddEasternKingdomsScripts()</a>.</p>
+</div>
+</div>
+<a id="aa89aed3e26b449dff635a2d80b3c6d9e" name="aa89aed3e26b449dff635a2d80b3c6d9e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa89aed3e26b449dff635a2d80b3c6d9e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">BasePPM_NegativePPM&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   94</span>{</div>
+<div class="line"><span class="lineno">   95</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">   96</span> </div>
+<div class="line"><span class="lineno">   97</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">   98</span>        SWORD_SPEED, -5.0f, config);</div>
+<div class="line"><span class="lineno">   99</span> </div>
+<div class="line"><span class="lineno">  100</span>    EXPECT_EQ(chance, 0.0f)</div>
+<div class="line"><span class="lineno">  101</span>        &lt;&lt; <span class="stringliteral">&quot;Negative PPM should return 0% chance&quot;</span>;</div>
+<div class="line"><span class="lineno">  102</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>.</p>
+
+</div>
+</div>
+<a id="aabcf8b974f95be4625d5319f67599adf" name="aabcf8b974f95be4625d5319f67599adf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aabcf8b974f95be4625d5319f67599adf">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">BasePPM_NoModifiers&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   52</span>{</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">   54</span>    <span class="comment">// Default config: no modifiers, has spell mod owner and spell proto</span></div>
+<div class="line"><span class="lineno">   55</span> </div>
+<div class="line"><span class="lineno">   56</span>    <span class="keywordtype">float</span> basePPM = 6.0f;</div>
+<div class="line"><span class="lineno">   57</span> </div>
+<div class="line"><span class="lineno">   58</span>    <span class="comment">// With 2500ms weapon: (2500 * 6) / 600 = 25%</span></div>
+<div class="line"><span class="lineno">   59</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">   60</span>        SWORD_SPEED, basePPM, config);</div>
+<div class="line"><span class="lineno">   61</span> </div>
+<div class="line"><span class="lineno">   62</span>    EXPECT_NEAR(chance, 25.0f, 0.01f)</div>
+<div class="line"><span class="lineno">   63</span>        &lt;&lt; <span class="stringliteral">&quot;Base PPM 6.0 with 2.5s weapon should give 25% chance&quot;</span>;</div>
+<div class="line"><span class="lineno">   64</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>.</p>
+
+</div>
+</div>
+<a id="ab826af751165cb89507993b1e67e4801" name="ab826af751165cb89507993b1e67e4801"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab826af751165cb89507993b1e67e4801">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">BasePPM_ZeroPPM&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   83</span>{</div>
+<div class="line"><span class="lineno">   84</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">   85</span> </div>
+<div class="line"><span class="lineno">   86</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">   87</span>        SWORD_SPEED, 0.0f, config);</div>
+<div class="line"><span class="lineno">   88</span> </div>
+<div class="line"><span class="lineno">   89</span>    EXPECT_EQ(chance, 0.0f)</div>
+<div class="line"><span class="lineno">   90</span>        &lt;&lt; <span class="stringliteral">&quot;Zero PPM should return 0% chance&quot;</span>;</div>
+<div class="line"><span class="lineno">   91</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>.</p>
+
+</div>
+</div>
+<a id="a311a78c504af8345e2c9c3a859bdfa23" name="a311a78c504af8345e2c9c3a859bdfa23"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a311a78c504af8345e2c9c3a859bdfa23">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CombinedModifiers_BothIncrease&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  227</span>{</div>
+<div class="line"><span class="lineno">  228</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  229</span>    config.<a class="code hl_variable" href="../../d9/de1/a29416.html#a781485dfaede63716eddba66971600e3">flatModifier</a> = 4.0f;   <span class="comment">// +4 PPM</span></div>
+<div class="line"><span class="lineno">  230</span>    config.<a class="code hl_variable" href="../../d9/de1/a29416.html#aaf5a1e1118b0dcd155529978bdc172db">pctModifier</a> = 1.25f;   <span class="comment">// 25% increase</span></div>
+<div class="line"><span class="lineno">  231</span> </div>
+<div class="line"><span class="lineno">  232</span>    <span class="keywordtype">float</span> basePPM = 6.0f;</div>
+<div class="line"><span class="lineno">  233</span>    <span class="comment">// Flat first: 6 + 4 = 10</span></div>
+<div class="line"><span class="lineno">  234</span>    <span class="comment">// Percent: 10 * 1.25 = 12.5</span></div>
+<div class="line"><span class="lineno">  235</span>    <span class="comment">// Chance: (2500 * 12.5) / 600 = 52.08%</span></div>
+<div class="line"><span class="lineno">  236</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  237</span>        SWORD_SPEED, basePPM, config);</div>
+<div class="line"><span class="lineno">  238</span> </div>
+<div class="line"><span class="lineno">  239</span>    EXPECT_NEAR(chance, 52.08f, 0.1f);</div>
+<div class="line"><span class="lineno">  240</span>}</div>
+<div class="ttc" id="aa29416_html_a781485dfaede63716eddba66971600e3"><div class="ttname"><a href="../../d9/de1/a29416.html#a781485dfaede63716eddba66971600e3">ProcChanceTestHelper::PPMModifierConfig::flatModifier</a></div><div class="ttdeci">float flatModifier</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:371</div></div>
+<div class="ttc" id="aa29416_html_aaf5a1e1118b0dcd155529978bdc172db"><div class="ttname"><a href="../../d9/de1/a29416.html#aaf5a1e1118b0dcd155529978bdc172db">ProcChanceTestHelper::PPMModifierConfig::pctModifier</a></div><div class="ttdeci">float pctModifier</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:372</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, <a class="el" href="../../#l00371">ProcChanceTestHelper::PPMModifierConfig::flatModifier</a>, and <a class="el" href="../../#l00372">ProcChanceTestHelper::PPMModifierConfig::pctModifier</a>.</p>
+
+</div>
+</div>
+<a id="a61b70ea722efdd0a5ef7fefae02d968e" name="a61b70ea722efdd0a5ef7fefae02d968e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a61b70ea722efdd0a5ef7fefae02d968e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CombinedModifiers_FlatThenPercent&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  210</span>{</div>
+<div class="line"><span class="lineno">  211</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  212</span>    config.<a class="code hl_variable" href="../../d9/de1/a29416.html#a781485dfaede63716eddba66971600e3">flatModifier</a> = 2.0f;   <span class="comment">// +2 PPM first</span></div>
+<div class="line"><span class="lineno">  213</span>    config.<a class="code hl_variable" href="../../d9/de1/a29416.html#aaf5a1e1118b0dcd155529978bdc172db">pctModifier</a> = 1.5f;    <span class="comment">// Then 50% increase</span></div>
+<div class="line"><span class="lineno">  214</span> </div>
+<div class="line"><span class="lineno">  215</span>    <span class="keywordtype">float</span> basePPM = 6.0f;</div>
+<div class="line"><span class="lineno">  216</span>    <span class="comment">// Flat first: 6 + 2 = 8</span></div>
+<div class="line"><span class="lineno">  217</span>    <span class="comment">// Percent: 8 * 1.5 = 12</span></div>
+<div class="line"><span class="lineno">  218</span>    <span class="comment">// Chance: (2500 * 12) / 600 = 50%</span></div>
+<div class="line"><span class="lineno">  219</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  220</span>        SWORD_SPEED, basePPM, config);</div>
+<div class="line"><span class="lineno">  221</span> </div>
+<div class="line"><span class="lineno">  222</span>    EXPECT_NEAR(chance, 50.0f, 0.1f)</div>
+<div class="line"><span class="lineno">  223</span>        &lt;&lt; <span class="stringliteral">&quot;Flat +2 then 50% increase should result in 50% chance&quot;</span>;</div>
+<div class="line"><span class="lineno">  224</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, <a class="el" href="../../#l00371">ProcChanceTestHelper::PPMModifierConfig::flatModifier</a>, and <a class="el" href="../../#l00372">ProcChanceTestHelper::PPMModifierConfig::pctModifier</a>.</p>
+
+</div>
+</div>
+<a id="a55af5ca86664564775172b5d49afe313" name="a55af5ca86664564775172b5d49afe313"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a55af5ca86664564775172b5d49afe313">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EdgeCase_VeryFastWeapon&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  357</span>{</div>
+<div class="line"><span class="lineno">  358</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  359</span> </div>
+<div class="line"><span class="lineno">  360</span>    <span class="comment">// 1.0s weapon (very fast): (1000 * 6) / 600 = 10%</span></div>
+<div class="line"><span class="lineno">  361</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  362</span>        1000, 6.0f, config);</div>
+<div class="line"><span class="lineno">  363</span> </div>
+<div class="line"><span class="lineno">  364</span>    EXPECT_NEAR(chance, 10.0f, 0.1f);</div>
+<div class="line"><span class="lineno">  365</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>.</p>
+
+</div>
+</div>
+<a id="ad304d8058fb3117080850a71033ffc73" name="ad304d8058fb3117080850a71033ffc73"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad304d8058fb3117080850a71033ffc73">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EdgeCase_VeryHighPPM&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  379</span>{</div>
+<div class="line"><span class="lineno">  380</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  381</span> </div>
+<div class="line"><span class="lineno">  382</span>    <span class="comment">// 60 PPM: (2500 * 60) / 600 = 250% (over 100%, can happen)</span></div>
+<div class="line"><span class="lineno">  383</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  384</span>        SWORD_SPEED, 60.0f, config);</div>
+<div class="line"><span class="lineno">  385</span> </div>
+<div class="line"><span class="lineno">  386</span>    EXPECT_NEAR(chance, 250.0f, 0.1f)</div>
+<div class="line"><span class="lineno">  387</span>        &lt;&lt; <span class="stringliteral">&quot;Very high PPM can exceed 100% chance&quot;</span>;</div>
+<div class="line"><span class="lineno">  388</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>.</p>
+
+</div>
+</div>
+<a id="a54ef2e1e9f80b212b8e1d7263f2a4379" name="a54ef2e1e9f80b212b8e1d7263f2a4379"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a54ef2e1e9f80b212b8e1d7263f2a4379">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EdgeCase_VerySlowWeapon&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  368</span>{</div>
+<div class="line"><span class="lineno">  369</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  370</span> </div>
+<div class="line"><span class="lineno">  371</span>    <span class="comment">// 4.0s weapon (very slow): (4000 * 6) / 600 = 40%</span></div>
+<div class="line"><span class="lineno">  372</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  373</span>        4000, 6.0f, config);</div>
+<div class="line"><span class="lineno">  374</span> </div>
+<div class="line"><span class="lineno">  375</span>    EXPECT_NEAR(chance, 40.0f, 0.1f);</div>
+<div class="line"><span class="lineno">  376</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>.</p>
+
+</div>
+</div>
+<a id="a43454c0e6317092aedad285a01c1d525" name="a43454c0e6317092aedad285a01c1d525"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a43454c0e6317092aedad285a01c1d525">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EdgeCase_ZeroWeaponSpeed&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  391</span>{</div>
+<div class="line"><span class="lineno">  392</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  393</span> </div>
+<div class="line"><span class="lineno">  394</span>    <span class="comment">// Zero weapon speed should result in 0%</span></div>
+<div class="line"><span class="lineno">  395</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  396</span>        0, 6.0f, config);</div>
+<div class="line"><span class="lineno">  397</span> </div>
+<div class="line"><span class="lineno">  398</span>    EXPECT_EQ(chance, 0.0f);</div>
+<div class="line"><span class="lineno">  399</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>.</p>
+
+</div>
+</div>
+<a id="ad2e4c02c33dffa0cfac62af5424e280c" name="ad2e4c02c33dffa0cfac62af5424e280c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad2e4c02c33dffa0cfac62af5424e280c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FlatModifier_DecreasesPPM&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  124</span>{</div>
+<div class="line"><span class="lineno">  125</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  126</span>    config.<a class="code hl_variable" href="../../d9/de1/a29416.html#a781485dfaede63716eddba66971600e3">flatModifier</a> = -3.0f;  <span class="comment">// -3 PPM</span></div>
+<div class="line"><span class="lineno">  127</span> </div>
+<div class="line"><span class="lineno">  128</span>    <span class="keywordtype">float</span> basePPM = 6.0f;</div>
+<div class="line"><span class="lineno">  129</span>    <span class="comment">// Modified PPM: 6 - 3 = 3</span></div>
+<div class="line"><span class="lineno">  130</span>    <span class="comment">// Chance: (2500 * 3) / 600 = 12.5%</span></div>
+<div class="line"><span class="lineno">  131</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  132</span>        SWORD_SPEED, basePPM, config);</div>
+<div class="line"><span class="lineno">  133</span> </div>
+<div class="line"><span class="lineno">  134</span>    EXPECT_NEAR(chance, 12.5f, 0.1f)</div>
+<div class="line"><span class="lineno">  135</span>        &lt;&lt; <span class="stringliteral">&quot;Flat -3 PPM modifier should decrease chance from 25% to 12.5%&quot;</span>;</div>
+<div class="line"><span class="lineno">  136</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00371">ProcChanceTestHelper::PPMModifierConfig::flatModifier</a>.</p>
+
+</div>
+</div>
+<a id="a55269899b416b9a218ee32727ea41686" name="a55269899b416b9a218ee32727ea41686"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a55269899b416b9a218ee32727ea41686">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FlatModifier_IncreasesPPM&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  109</span>{</div>
+<div class="line"><span class="lineno">  110</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  111</span>    config.<a class="code hl_variable" href="../../d9/de1/a29416.html#a781485dfaede63716eddba66971600e3">flatModifier</a> = 2.0f;  <span class="comment">// +2 PPM</span></div>
+<div class="line"><span class="lineno">  112</span> </div>
+<div class="line"><span class="lineno">  113</span>    <span class="keywordtype">float</span> basePPM = 6.0f;</div>
+<div class="line"><span class="lineno">  114</span>    <span class="comment">// Modified PPM: 6 + 2 = 8</span></div>
+<div class="line"><span class="lineno">  115</span>    <span class="comment">// Chance: (2500 * 8) / 600 = 33.33%</span></div>
+<div class="line"><span class="lineno">  116</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  117</span>        SWORD_SPEED, basePPM, config);</div>
+<div class="line"><span class="lineno">  118</span> </div>
+<div class="line"><span class="lineno">  119</span>    EXPECT_NEAR(chance, 33.33f, 0.1f)</div>
+<div class="line"><span class="lineno">  120</span>        &lt;&lt; <span class="stringliteral">&quot;Flat +2 PPM modifier should increase chance from 25% to 33.33%&quot;</span>;</div>
+<div class="line"><span class="lineno">  121</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00371">ProcChanceTestHelper::PPMModifierConfig::flatModifier</a>.</p>
+
+</div>
+</div>
+<a id="afc454f21b772ee0486a0dde1104ed51f" name="afc454f21b772ee0486a0dde1104ed51f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afc454f21b772ee0486a0dde1104ed51f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FlatModifier_ReducesToZero&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  139</span>{</div>
+<div class="line"><span class="lineno">  140</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  141</span>    config.<a class="code hl_variable" href="../../d9/de1/a29416.html#a781485dfaede63716eddba66971600e3">flatModifier</a> = -10.0f;  <span class="comment">// Would reduce to -4 PPM</span></div>
+<div class="line"><span class="lineno">  142</span> </div>
+<div class="line"><span class="lineno">  143</span>    <span class="keywordtype">float</span> basePPM = 6.0f;</div>
+<div class="line"><span class="lineno">  144</span>    <span class="comment">// Modified PPM: 6 - 10 = -4 (negative)</span></div>
+<div class="line"><span class="lineno">  145</span>    <span class="comment">// Formula still applies: (2500 * -4) / 600 = negative</span></div>
+<div class="line"><span class="lineno">  146</span>    <span class="comment">// But the check at start for PPM &lt;= 0 happens before modifiers</span></div>
+<div class="line"><span class="lineno">  147</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  148</span>        SWORD_SPEED, basePPM, config);</div>
+<div class="line"><span class="lineno">  149</span> </div>
+<div class="line"><span class="lineno">  150</span>    <span class="comment">// Note: In the real code, negative results are possible after modifiers</span></div>
+<div class="line"><span class="lineno">  151</span>    <span class="comment">// The helper doesn&#39;t clamp the final result</span></div>
+<div class="line"><span class="lineno">  152</span>    EXPECT_LT(chance, 0.0f)</div>
+<div class="line"><span class="lineno">  153</span>        &lt;&lt; <span class="stringliteral">&quot;Extreme negative modifier can produce negative chance&quot;</span>;</div>
+<div class="line"><span class="lineno">  154</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00371">ProcChanceTestHelper::PPMModifierConfig::flatModifier</a>.</p>
+
+</div>
+</div>
+<a id="a0dcaf713e379ac19c9953c832d8b1353" name="a0dcaf713e379ac19c9953c832d8b1353"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0dcaf713e379ac19c9953c832d8b1353">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NoSpellModOwner_ModifiersIgnored&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  247</span>{</div>
+<div class="line"><span class="lineno">  248</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  249</span>    config.<a class="code hl_variable" href="../../d9/de1/a29416.html#aa80132f8b5cb980a4a703810fe3fa1a4">hasSpellModOwner</a> = <span class="keyword">false</span>;  <span class="comment">// GetSpellModOwner() returns null</span></div>
+<div class="line"><span class="lineno">  250</span>    config.<a class="code hl_variable" href="../../d9/de1/a29416.html#a781485dfaede63716eddba66971600e3">flatModifier</a> = 10.0f;      <span class="comment">// Would significantly change result</span></div>
+<div class="line"><span class="lineno">  251</span>    config.<a class="code hl_variable" href="../../d9/de1/a29416.html#aaf5a1e1118b0dcd155529978bdc172db">pctModifier</a> = 2.0f;</div>
+<div class="line"><span class="lineno">  252</span> </div>
+<div class="line"><span class="lineno">  253</span>    <span class="keywordtype">float</span> basePPM = 6.0f;</div>
+<div class="line"><span class="lineno">  254</span>    <span class="comment">// Without spell mod owner, modifiers are NOT applied</span></div>
+<div class="line"><span class="lineno">  255</span>    <span class="comment">// Chance: (2500 * 6) / 600 = 25%</span></div>
+<div class="line"><span class="lineno">  256</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  257</span>        SWORD_SPEED, basePPM, config);</div>
+<div class="line"><span class="lineno">  258</span> </div>
+<div class="line"><span class="lineno">  259</span>    EXPECT_NEAR(chance, 25.0f, 0.1f)</div>
+<div class="line"><span class="lineno">  260</span>        &lt;&lt; <span class="stringliteral">&quot;Without spell mod owner, modifiers should be ignored&quot;</span>;</div>
+<div class="line"><span class="lineno">  261</span>}</div>
+<div class="ttc" id="aa29416_html_aa80132f8b5cb980a4a703810fe3fa1a4"><div class="ttname"><a href="../../d9/de1/a29416.html#aa80132f8b5cb980a4a703810fe3fa1a4">ProcChanceTestHelper::PPMModifierConfig::hasSpellModOwner</a></div><div class="ttdeci">bool hasSpellModOwner</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:373</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, <a class="el" href="../../#l00371">ProcChanceTestHelper::PPMModifierConfig::flatModifier</a>, <a class="el" href="../../#l00373">ProcChanceTestHelper::PPMModifierConfig::hasSpellModOwner</a>, and <a class="el" href="../../#l00372">ProcChanceTestHelper::PPMModifierConfig::pctModifier</a>.</p>
+
+</div>
+</div>
+<a id="a6c5b5b7733c23575f0e7064e5eed508d" name="a6c5b5b7733c23575f0e7064e5eed508d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6c5b5b7733c23575f0e7064e5eed508d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NoSpellProto_ModifiersIgnored&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  268</span>{</div>
+<div class="line"><span class="lineno">  269</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  270</span>    config.<a class="code hl_variable" href="../../d9/de1/a29416.html#a96607da311b5774eeaa01674d32ab22e">hasSpellProto</a> = <span class="keyword">false</span>;  <span class="comment">// spellProto is null</span></div>
+<div class="line"><span class="lineno">  271</span>    config.<a class="code hl_variable" href="../../d9/de1/a29416.html#a781485dfaede63716eddba66971600e3">flatModifier</a> = 10.0f;</div>
+<div class="line"><span class="lineno">  272</span>    config.<a class="code hl_variable" href="../../d9/de1/a29416.html#aaf5a1e1118b0dcd155529978bdc172db">pctModifier</a> = 2.0f;</div>
+<div class="line"><span class="lineno">  273</span> </div>
+<div class="line"><span class="lineno">  274</span>    <span class="keywordtype">float</span> basePPM = 6.0f;</div>
+<div class="line"><span class="lineno">  275</span>    <span class="comment">// Without spell proto, modifiers are NOT applied</span></div>
+<div class="line"><span class="lineno">  276</span>    <span class="comment">// Chance: (2500 * 6) / 600 = 25%</span></div>
+<div class="line"><span class="lineno">  277</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  278</span>        SWORD_SPEED, basePPM, config);</div>
+<div class="line"><span class="lineno">  279</span> </div>
+<div class="line"><span class="lineno">  280</span>    EXPECT_NEAR(chance, 25.0f, 0.1f)</div>
+<div class="line"><span class="lineno">  281</span>        &lt;&lt; <span class="stringliteral">&quot;Without spell proto, modifiers should be ignored&quot;</span>;</div>
+<div class="line"><span class="lineno">  282</span>}</div>
+<div class="ttc" id="aa29416_html_a96607da311b5774eeaa01674d32ab22e"><div class="ttname"><a href="../../d9/de1/a29416.html#a96607da311b5774eeaa01674d32ab22e">ProcChanceTestHelper::PPMModifierConfig::hasSpellProto</a></div><div class="ttdeci">bool hasSpellProto</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:374</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, <a class="el" href="../../#l00371">ProcChanceTestHelper::PPMModifierConfig::flatModifier</a>, <a class="el" href="../../#l00374">ProcChanceTestHelper::PPMModifierConfig::hasSpellProto</a>, and <a class="el" href="../../#l00372">ProcChanceTestHelper::PPMModifierConfig::pctModifier</a>.</p>
+
+</div>
+</div>
+<a id="ad829d055fa5c2a97e6bc2c9b5ed8ea5e" name="ad829d055fa5c2a97e6bc2c9b5ed8ea5e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad829d055fa5c2a97e6bc2c9b5ed8ea5e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[16/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PercentModifier_50PercentDecrease&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  176</span>{</div>
+<div class="line"><span class="lineno">  177</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  178</span>    config.<a class="code hl_variable" href="../../d9/de1/a29416.html#aaf5a1e1118b0dcd155529978bdc172db">pctModifier</a> = 0.5f;  <span class="comment">// 50% = 50% decrease</span></div>
+<div class="line"><span class="lineno">  179</span> </div>
+<div class="line"><span class="lineno">  180</span>    <span class="keywordtype">float</span> basePPM = 6.0f;</div>
+<div class="line"><span class="lineno">  181</span>    <span class="comment">// Modified PPM: 6 * 0.5 = 3</span></div>
+<div class="line"><span class="lineno">  182</span>    <span class="comment">// Chance: (2500 * 3) / 600 = 12.5%</span></div>
+<div class="line"><span class="lineno">  183</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  184</span>        SWORD_SPEED, basePPM, config);</div>
+<div class="line"><span class="lineno">  185</span> </div>
+<div class="line"><span class="lineno">  186</span>    EXPECT_NEAR(chance, 12.5f, 0.1f)</div>
+<div class="line"><span class="lineno">  187</span>        &lt;&lt; <span class="stringliteral">&quot;50% PPM decrease should lower chance from 25% to 12.5%&quot;</span>;</div>
+<div class="line"><span class="lineno">  188</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00372">ProcChanceTestHelper::PPMModifierConfig::pctModifier</a>.</p>
+
+</div>
+</div>
+<a id="a62a9fc158e8997b1f0ca15a5f5c41c40" name="a62a9fc158e8997b1f0ca15a5f5c41c40"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a62a9fc158e8997b1f0ca15a5f5c41c40">&#9670;&#160;</a></span>TEST_F() <span class="overload">[17/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PercentModifier_50PercentIncrease&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  161</span>{</div>
+<div class="line"><span class="lineno">  162</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  163</span>    config.<a class="code hl_variable" href="../../d9/de1/a29416.html#aaf5a1e1118b0dcd155529978bdc172db">pctModifier</a> = 1.5f;  <span class="comment">// 150% = 50% increase</span></div>
+<div class="line"><span class="lineno">  164</span> </div>
+<div class="line"><span class="lineno">  165</span>    <span class="keywordtype">float</span> basePPM = 6.0f;</div>
+<div class="line"><span class="lineno">  166</span>    <span class="comment">// Modified PPM: 6 * 1.5 = 9</span></div>
+<div class="line"><span class="lineno">  167</span>    <span class="comment">// Chance: (2500 * 9) / 600 = 37.5%</span></div>
+<div class="line"><span class="lineno">  168</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  169</span>        SWORD_SPEED, basePPM, config);</div>
+<div class="line"><span class="lineno">  170</span> </div>
+<div class="line"><span class="lineno">  171</span>    EXPECT_NEAR(chance, 37.5f, 0.1f)</div>
+<div class="line"><span class="lineno">  172</span>        &lt;&lt; <span class="stringliteral">&quot;50% PPM increase should raise chance from 25% to 37.5%&quot;</span>;</div>
+<div class="line"><span class="lineno">  173</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00372">ProcChanceTestHelper::PPMModifierConfig::pctModifier</a>.</p>
+
+</div>
+</div>
+<a id="aba5574eb11e7364630a7391e7b1567cf" name="aba5574eb11e7364630a7391e7b1567cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba5574eb11e7364630a7391e7b1567cf">&#9670;&#160;</a></span>TEST_F() <span class="overload">[18/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PercentModifier_DoublesPPM&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  191</span>{</div>
+<div class="line"><span class="lineno">  192</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  193</span>    config.<a class="code hl_variable" href="../../d9/de1/a29416.html#aaf5a1e1118b0dcd155529978bdc172db">pctModifier</a> = 2.0f;  <span class="comment">// 200%</span></div>
+<div class="line"><span class="lineno">  194</span> </div>
+<div class="line"><span class="lineno">  195</span>    <span class="keywordtype">float</span> basePPM = 6.0f;</div>
+<div class="line"><span class="lineno">  196</span>    <span class="comment">// Modified PPM: 6 * 2 = 12</span></div>
+<div class="line"><span class="lineno">  197</span>    <span class="comment">// Chance: (2500 * 12) / 600 = 50%</span></div>
+<div class="line"><span class="lineno">  198</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  199</span>        SWORD_SPEED, basePPM, config);</div>
+<div class="line"><span class="lineno">  200</span> </div>
+<div class="line"><span class="lineno">  201</span>    EXPECT_NEAR(chance, 50.0f, 0.1f)</div>
+<div class="line"><span class="lineno">  202</span>        &lt;&lt; <span class="stringliteral">&quot;100% PPM increase should double chance to 50%&quot;</span>;</div>
+<div class="line"><span class="lineno">  203</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00372">ProcChanceTestHelper::PPMModifierConfig::pctModifier</a>.</p>
+
+</div>
+</div>
+<a id="a20a56c1828d7aac366535c1729b8df43" name="a20a56c1828d7aac366535c1729b8df43"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a20a56c1828d7aac366535c1729b8df43">&#9670;&#160;</a></span>TEST_F() <span class="overload">[19/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_JudgementOfLight_HighPPM&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  340</span>{</div>
+<div class="line"><span class="lineno">  341</span>    <span class="comment">// Judgement of Light: 15 PPM (very high)</span></div>
+<div class="line"><span class="lineno">  342</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  343</span> </div>
+<div class="line"><span class="lineno">  344</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  345</span>        SWORD_SPEED, 15.0f, config);</div>
+<div class="line"><span class="lineno">  346</span> </div>
+<div class="line"><span class="lineno">  347</span>    <span class="comment">// (2500 * 15) / 600 = 62.5%</span></div>
+<div class="line"><span class="lineno">  348</span>    EXPECT_NEAR(chance, 62.5f, 0.1f)</div>
+<div class="line"><span class="lineno">  349</span>        &lt;&lt; <span class="stringliteral">&quot;Judgement of Light with 2.5s weapon&quot;</span>;</div>
+<div class="line"><span class="lineno">  350</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>.</p>
+
+</div>
+</div>
+<a id="a7ba996e0597652071689fc2a33d2a2b3" name="a7ba996e0597652071689fc2a33d2a2b3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7ba996e0597652071689fc2a33d2a2b3">&#9670;&#160;</a></span>TEST_F() <span class="overload">[20/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_OmenOfClarity_BasePPM&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  289</span>{</div>
+<div class="line"><span class="lineno">  290</span>    <span class="comment">// Omen of Clarity: 6 PPM</span></div>
+<div class="line"><span class="lineno">  291</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  292</span> </div>
+<div class="line"><span class="lineno">  293</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  294</span>        SWORD_SPEED, 6.0f, config);</div>
+<div class="line"><span class="lineno">  295</span> </div>
+<div class="line"><span class="lineno">  296</span>    EXPECT_NEAR(chance, 25.0f, 0.1f)</div>
+<div class="line"><span class="lineno">  297</span>        &lt;&lt; <span class="stringliteral">&quot;Omen of Clarity base chance with 2.5s weapon&quot;</span>;</div>
+<div class="line"><span class="lineno">  298</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>.</p>
+
+</div>
+</div>
+<a id="abd7d1227159442414c5be9459d9a9c23" name="abd7d1227159442414c5be9459d9a9c23"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abd7d1227159442414c5be9459d9a9c23">&#9670;&#160;</a></span>TEST_F() <span class="overload">[21/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_OmenOfClarity_WithTalent&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  301</span>{</div>
+<div class="line"><span class="lineno">  302</span>    <span class="comment">// Hypothetical talent that increases Omen of Clarity PPM by 2</span></div>
+<div class="line"><span class="lineno">  303</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  304</span>    config.<a class="code hl_variable" href="../../d9/de1/a29416.html#a781485dfaede63716eddba66971600e3">flatModifier</a> = 2.0f;</div>
+<div class="line"><span class="lineno">  305</span> </div>
+<div class="line"><span class="lineno">  306</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  307</span>        SWORD_SPEED, 6.0f, config);</div>
+<div class="line"><span class="lineno">  308</span> </div>
+<div class="line"><span class="lineno">  309</span>    EXPECT_NEAR(chance, 33.33f, 0.1f)</div>
+<div class="line"><span class="lineno">  310</span>        &lt;&lt; <span class="stringliteral">&quot;Omen of Clarity with +2 PPM talent&quot;</span>;</div>
+<div class="line"><span class="lineno">  311</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00371">ProcChanceTestHelper::PPMModifierConfig::flatModifier</a>.</p>
+
+</div>
+</div>
+<a id="a137ba54ef70f0a29f8b68424e786752f" name="a137ba54ef70f0a29f8b68424e786752f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a137ba54ef70f0a29f8b68424e786752f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[22/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_WindfuryWeapon_FastWeapon&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  314</span>{</div>
+<div class="line"><span class="lineno">  315</span>    <span class="comment">// Windfury Weapon: 2 PPM with fast weapon</span></div>
+<div class="line"><span class="lineno">  316</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  317</span> </div>
+<div class="line"><span class="lineno">  318</span>    <span class="comment">// Fast 1.5s weapon: (1500 * 2) / 600 = 5%</span></div>
+<div class="line"><span class="lineno">  319</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  320</span>        1500, 2.0f, config);</div>
+<div class="line"><span class="lineno">  321</span> </div>
+<div class="line"><span class="lineno">  322</span>    EXPECT_NEAR(chance, 5.0f, 0.1f)</div>
+<div class="line"><span class="lineno">  323</span>        &lt;&lt; <span class="stringliteral">&quot;Windfury with 1.5s weapon&quot;</span>;</div>
+<div class="line"><span class="lineno">  324</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>.</p>
+
+</div>
+</div>
+<a id="aa7d0cc368c07828252aa4d377962f0da" name="aa7d0cc368c07828252aa4d377962f0da"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa7d0cc368c07828252aa4d377962f0da">&#9670;&#160;</a></span>TEST_F() <span class="overload">[23/23]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/de7/a29804.html">SpellProcPPMModifierTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_WindfuryWeapon_SlowWeapon&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  327</span>{</div>
+<div class="line"><span class="lineno">  328</span>    <span class="comment">// Windfury Weapon: 2 PPM with slow weapon</span></div>
+<div class="line"><span class="lineno">  329</span>    <a class="code hl_struct" href="../../d9/de1/a29416.html">ProcChanceTestHelper::PPMModifierConfig</a> config;</div>
+<div class="line"><span class="lineno">  330</span> </div>
+<div class="line"><span class="lineno">  331</span>    <span class="comment">// Slow 3.6s weapon: (3600 * 2) / 600 = 12%</span></div>
+<div class="line"><span class="lineno">  332</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d0/dd9/a29404.html#ade540a47821c835766adbc6f26b571a7">ProcChanceTestHelper::CalculatePPMChanceWithModifiers</a>(</div>
+<div class="line"><span class="lineno">  333</span>        3600, 2.0f, config);</div>
+<div class="line"><span class="lineno">  334</span> </div>
+<div class="line"><span class="lineno">  335</span>    EXPECT_NEAR(chance, 12.0f, 0.1f)</div>
+<div class="line"><span class="lineno">  336</span>        &lt;&lt; <span class="stringliteral">&quot;Windfury with 3.6s weapon&quot;</span>;</div>
+<div class="line"><span class="lineno">  337</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>.</p>
 
 </div>
 </div>
@@ -574,8 +1162,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../d3/dd5/a00215.html">zone_elwynn_forest.cpp</a></li>
-    <li class="footer">Generated on Mon Jul 13 2026 21:33:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d3/dd5/a00215.html">SpellProcPPMModifierTest.cpp</a></li>
+    <li class="footer">Generated on Mon Jul 20 2026 21:48:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

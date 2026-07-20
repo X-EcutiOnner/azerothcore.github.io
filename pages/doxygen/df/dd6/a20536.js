@@ -1,11 +1,7 @@
 var a20536 =
 [
-    [ "boss_thorim_sif_blizzard", "df/dd6/a20536.html#a7d4054eb43079fe13e5a7a6c85b461ec", null ],
-    [ "AttackStart", "df/dd6/a20536.html#ab41c744d8573b1f8ce5e82e798c9bd4f", null ],
-    [ "InitWaypoint", "df/dd6/a20536.html#a55424c77633aaa62e12581a818736441", null ],
-    [ "JustEngagedWith", "df/dd6/a20536.html#a019b50cc265dff0e92417482b85ccf64", null ],
-    [ "MoveInLineOfSight", "df/dd6/a20536.html#a6e5333d6a87956d2052c2212a3dcb0fa", null ],
-    [ "Reset", "df/dd6/a20536.html#a347fcc28a0bc660b9fa93fe7fc54eea0", null ],
-    [ "WaypointReached", "df/dd6/a20536.html#af69dfd0ec232c7e45d13b117988ba924", null ],
-    [ "WaypointReached", "df/dd6/a20536.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "FilterTargets", "df/dd6/a20536.html#a16f739f70b052f71293846903aab8fdd", null ],
+    [ "HandleDummy", "df/dd6/a20536.html#a4290c0e73254fead6e0f1e4abf7d39f4", null ],
+    [ "PrepareSpellScript", "df/dd6/a20536.html#a430d44a79daa53fd492a0f9506bbbcc7", null ],
+    [ "Register", "df/dd6/a20536.html#af3a1324237de67b4fa507e626def7743", null ]
 ];

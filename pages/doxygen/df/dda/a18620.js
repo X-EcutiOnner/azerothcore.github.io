@@ -1,7 +1,7 @@
 var a18620 =
 [
-    [ "CheckTargetCount", "df/dda/a18620.html#a44f558248f944464c773105728cffbca", null ],
-    [ "PrepareSpellScript", "df/dda/a18620.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
-    [ "Register", "df/dda/a18620.html#aeda833ca8483d337311086b9d0a14081", null ],
-    [ "Validate", "df/dda/a18620.html#aee84751e352dbfc12472fc15924c48fa", null ]
+    [ "HandleScript", "df/dda/a18620.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
+    [ "PrepareSpellScript", "df/dda/a18620.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
+    [ "Register", "df/dda/a18620.html#ad83d563da98ad189f2198a061b1cd50f", null ],
+    [ "Validate", "df/dda/a18620.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
 ];

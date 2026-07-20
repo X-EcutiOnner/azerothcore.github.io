@@ -1,10 +1,8 @@
 var a14440 =
 [
-    [ "npc_vilebranch_speaker", "d9/deb/a14440.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
-    [ "JustDied", "d9/deb/a14440.html#aa7708f176879db3acd50399b74e4a90c", null ],
-    [ "JustEngagedWith", "d9/deb/a14440.html#a236afb8512c2d941479f8a7c18f688a6", null ],
-    [ "Reset", "d9/deb/a14440.html#a248195a137cb91f10a882ec12974c7c5", null ],
-    [ "UpdateAI", "d9/deb/a14440.html#a75f263fa9241319b58bf77cbf1b75088", null ],
-    [ "_scheduler", "d9/deb/a14440.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
-    [ "instance", "d9/deb/a14440.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
+    [ "FilterTargets", "d9/deb/a14440.html#a3405b21202d423c649e0b8d341b42d9c", null ],
+    [ "HandleWipeThreat", "d9/deb/a14440.html#a2bbcce83bffebc509e9ec54778e82639", null ],
+    [ "PrepareSpellScript", "d9/deb/a14440.html#a59948484b528cab69c695f08b39b886d", null ],
+    [ "Register", "d9/deb/a14440.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
+    [ "_wipeThreat", "d9/deb/a14440.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
 ];

@@ -1,5 +1,7 @@
 var a22184 =
 [
-    [ "OutdoorPvP_grizzly_hills", "d6/d9d/a22184.html#aa020d8120c62874fb15b4623bbb714d9", null ],
-    [ "GetOutdoorPvP", "d6/d9d/a22184.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
+    [ "HandleDummy", "d6/d9d/a22184.html#acdf98990ad575fec751a541cac3bcffa", null ],
+    [ "PrepareSpellScript", "d6/d9d/a22184.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
+    [ "Register", "d6/d9d/a22184.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
+    [ "Validate", "d6/d9d/a22184.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
 ];

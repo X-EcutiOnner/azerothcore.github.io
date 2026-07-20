@@ -1,6 +1,6 @@
 var a22136 =
 [
-    [ "npc_released_offspring_harkoaAI", "d3/dc2/a22136.html#ab1002f002987b6ea2366129afd48d65c", null ],
-    [ "MovementInform", "d3/dc2/a22136.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
-    [ "Reset", "d3/dc2/a22136.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
+    [ "HandleScriptEffect", "d3/dc2/a22136.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
+    [ "PrepareSpellScript", "d3/dc2/a22136.html#afa4ad1b205bf963b4230881738baf938", null ],
+    [ "Register", "d3/dc2/a22136.html#a0d8925effced854471e2fbec9c631b91", null ]
 ];

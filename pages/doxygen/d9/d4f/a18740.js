@@ -1,9 +1,7 @@
 var a18740 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "d9/d4f/a18740.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
-    [ "DoAction", "d9/d4f/a18740.html#abbd08537ed245084ca7d4cf852a749a2", null ],
-    [ "JustEnteredCombat", "d9/d4f/a18740.html#ae25ca99139f8bb0082b97599cb924bd9", null ],
-    [ "JustExitedCombat", "d9/d4f/a18740.html#add8ce38b4a75947dc0170c7aba9c5589", null ],
-    [ "MoveInLineOfSight", "d9/d4f/a18740.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
-    [ "Reset", "d9/d4f/a18740.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ]
+    [ "CheckTargetCount", "d9/d4f/a18740.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "d9/d4f/a18740.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "d9/d4f/a18740.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "d9/d4f/a18740.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

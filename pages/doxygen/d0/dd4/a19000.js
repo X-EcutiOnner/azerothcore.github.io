@@ -1,5 +1,6 @@
 var a19000 =
 [
-    [ "at_icc_saurfang_portal", "d0/dd4/a19000.html#a7f30058251c520634a0b7bad08380e5d", null ],
-    [ "OnTrigger", "d0/dd4/a19000.html#a8980fe0e67aa33335f0fdb947a294213", null ]
+    [ "npc_crok_scourgebaneAI", "d9/ddd/a19004.html", "d9/ddd/a19004" ],
+    [ "npc_crok_scourgebane", "d0/dd4/a19000.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
+    [ "GetAI", "d0/dd4/a19000.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
 ];

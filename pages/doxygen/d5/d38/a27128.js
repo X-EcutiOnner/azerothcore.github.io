@@ -1,7 +1,9 @@
 var a27128 =
 [
-    [ "HandleDispel", "d5/d38/a27128.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
-    [ "PrepareAuraScript", "d5/d38/a27128.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
-    [ "Register", "d5/d38/a27128.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
-    [ "Validate", "d5/d38/a27128.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
+    [ "HandleAfterHit", "d5/d38/a27128.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
+    [ "HandleBeforeHit", "d5/d38/a27128.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
+    [ "Load", "d5/d38/a27128.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
+    [ "PrepareSpellScript", "d5/d38/a27128.html#a496c27472579be3b8989868765ec19ef", null ],
+    [ "Register", "d5/d38/a27128.html#a133e338413e960c442446a2a4a13b85b", null ],
+    [ "_stackAmount", "d5/d38/a27128.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
 ];

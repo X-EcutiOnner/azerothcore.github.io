@@ -1,5 +1,6 @@
 var a27696 =
 [
-    [ "AreaTrigger_at_scent_larkorwi", "db/d40/a27696.html#a967a43eae4cc986754eed9ee8291c17e", null ],
-    [ "OnTrigger", "db/d40/a27696.html#aeeb339afa5a7dd4b028aea800026998e", null ]
+    [ "HandleDummy", "db/d40/a27696.html#a68a86f7f86324336dc837622e01fa6af", null ],
+    [ "PrepareSpellScript", "db/d40/a27696.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
+    [ "Register", "db/d40/a27696.html#ad168c9164d1edd23abfbf05141b96de4", null ]
 ];

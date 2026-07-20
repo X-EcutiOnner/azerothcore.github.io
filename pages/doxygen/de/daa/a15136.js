@@ -1,6 +1,6 @@
 var a15136 =
 [
-    [ "npc_crate_helperAI", "dd/d7d/a15140.html", "dd/d7d/a15140" ],
-    [ "npc_crate_helper", "de/daa/a15136.html#ae08751928234656dcda84dd5c7e4cc37", null ],
-    [ "GetAI", "de/daa/a15136.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
+    [ "OnRemove", "de/daa/a15136.html#af9da33426d8ea4462f7d9957c4312019", null ],
+    [ "PrepareAuraScript", "de/daa/a15136.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
+    [ "Register", "de/daa/a15136.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
 ];

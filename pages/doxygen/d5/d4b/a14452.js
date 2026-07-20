@@ -1,6 +1,8 @@
 var a14452 =
 [
-    [ "LaunchHit", "d5/d4b/a14452.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
-    [ "PrepareSpellScript", "d5/d4b/a14452.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
-    [ "Register", "d5/d4b/a14452.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
+    [ "boss_grilekAI", "d5/d4b/a14452.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
+    [ "JustEngagedWith", "d5/d4b/a14452.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
+    [ "Reset", "d5/d4b/a14452.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
+    [ "UpdateAI", "d5/d4b/a14452.html#a19438103c9a582a7d36d805c80131e8c", null ],
+    [ "_pursuitTargetGUID", "d5/d4b/a14452.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
 ];

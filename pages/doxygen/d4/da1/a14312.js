@@ -1,5 +1,7 @@
 var a14312 =
 [
-    [ "go_gong_of_bethekk", "d4/da1/a14312.html#ae261467be63f1a744eb20f81473c2239", null ],
-    [ "OnGossipHello", "d4/da1/a14312.html#a82072ff8c030aec1a5ed447865680788", null ]
+    [ "HandleDispel", "d4/da1/a14312.html#a415977576283972ce4a1050c70826d7c", null ],
+    [ "PrepareAuraScript", "d4/da1/a14312.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
+    [ "Register", "d4/da1/a14312.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
+    [ "Validate", "d4/da1/a14312.html#ac496e7bef875ca46660217e74fc3bc74", null ]
 ];

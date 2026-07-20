@@ -1,6 +1,6 @@
 var a19828 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "de/da5/a19832.html", "de/da5/a19832" ],
-    [ "boss_sjonnir_malformed_ooze", "de/da7/a19828.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
-    [ "GetAI", "de/da7/a19828.html#a22807bb07692511c5ec87073d98c2604", null ]
+    [ "HandlePeriodic", "de/da7/a19828.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
+    [ "PrepareAuraScript", "de/da7/a19828.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
+    [ "Register", "de/da7/a19828.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
 ];

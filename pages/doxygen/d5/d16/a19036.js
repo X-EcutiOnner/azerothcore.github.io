@@ -1,7 +1,6 @@
 var a19036 =
 [
-    [ "HandleDummy", "d5/d16/a19036.html#a4bfc155129bd80c94b4b59474f30d748", null ],
-    [ "PrepareSpellScript", "d5/d16/a19036.html#a9c72772f9d17b34562bd11418d67872d", null ],
-    [ "Register", "d5/d16/a19036.html#a10c9f511da4eb366117d356c118408c6", null ],
-    [ "Validate", "d5/d16/a19036.html#a655f2081d17c06c155641efc45efc1f8", null ]
+    [ "npc_captain_grondelAI", "df/d5b/a19040.html", "df/d5b/a19040" ],
+    [ "npc_captain_grondel", "d5/d16/a19036.html#a54a53f8e3cde87405219c815a56d523c", null ],
+    [ "GetAI", "d5/d16/a19036.html#a2a7725e81294e80701b7742d2605ec00", null ]
 ];

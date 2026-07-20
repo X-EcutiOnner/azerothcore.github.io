@@ -1,8 +1,10 @@
 var a14012 =
 [
-    [ "npc_deathstalker_erlandAI", "da/d46/a14012.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
-    [ "JustEngagedWith", "da/d46/a14012.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
-    [ "Reset", "da/d46/a14012.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
-    [ "WaypointReached", "da/d46/a14012.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ],
+    [ "npc_professor_phizzlethorpeAI", "da/d46/a14012.html#a92af4732575008c1a4f061cef0f23902", null ],
+    [ "JustEngagedWith", "da/d46/a14012.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
+    [ "JustSummoned", "da/d46/a14012.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
+    [ "sQuestAccept", "da/d46/a14012.html#ad4a4bd9af581abe832933da69b18d76f", null ],
+    [ "UpdateAI", "da/d46/a14012.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
+    [ "WaypointReached", "da/d46/a14012.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ],
     [ "WaypointReached", "da/d46/a14012.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

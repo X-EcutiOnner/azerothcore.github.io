@@ -1,6 +1,9 @@
 var a18768 =
 [
-    [ "npc_valithria_cloudAI", "d2/d5b/a18772.html", "d2/d5b/a18772" ],
-    [ "npc_valithria_cloud", "d5/d63/a18768.html#a11d1bdc4c6e8210e2d0706f33d369dde", null ],
-    [ "GetAI", "d5/d63/a18768.html#afeff905cec1245dbac6fa59673aef015", null ]
+    [ "FilterTargets", "d5/d63/a18768.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
+    [ "Load", "d5/d63/a18768.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
+    [ "PrepareSpellScript", "d5/d63/a18768.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
+    [ "Register", "d5/d63/a18768.html#afad887fba0d97512a7a13a31977cf42d", null ],
+    [ "Validate", "d5/d63/a18768.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
+    [ "_instance", "d5/d63/a18768.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
 ];

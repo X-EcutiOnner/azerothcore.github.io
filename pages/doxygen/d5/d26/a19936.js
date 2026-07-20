@@ -1,5 +1,6 @@
 var a19936 =
 [
-    [ "achievement_algalon_herald_of_the_titans", "d5/d26/a19936.html#a13c75b878f4669d212eeb09b55336384", null ],
-    [ "OnCheck", "d5/d26/a19936.html#a20811d7bb453b1758967c11545e630e9", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "df/d78/a19940.html", "df/d78/a19940" ],
+    [ "boss_sjonnir_iron_sludge", "d5/d26/a19936.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
+    [ "GetAI", "d5/d26/a19936.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
 ];

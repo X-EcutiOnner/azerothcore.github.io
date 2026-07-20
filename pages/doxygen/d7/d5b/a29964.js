@@ -1,12 +1,20 @@
 var a29964 =
 [
-    [ "cellSizeHorizontal", "d7/d5b/a29964.html#a5356c03dab90621b69de7a79ed4ab195", null ],
-    [ "cellSizeVertical", "d7/d5b/a29964.html#a47b5a920afa39ae27a80241d58f152a3", null ],
-    [ "tileOverrides", "d7/d5b/a29964.html#a129437291e75a919e4158bf1df0f7f0a", null ],
-    [ "vertexPerMapEdge", "d7/d5b/a29964.html#a9d32da8787f54a7dadb86458319e0238", null ],
-    [ "vertexPerTileEdge", "d7/d5b/a29964.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
-    [ "walkableClimb", "d7/d5b/a29964.html#a2bd854b374d67d53b03a7bacf0785726", null ],
-    [ "walkableHeight", "d7/d5b/a29964.html#a1de27edad5c45f8033ce74352c563f52", null ],
-    [ "walkableRadius", "d7/d5b/a29964.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
-    [ "walkableSlopeAngle", "d7/d5b/a29964.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
+    [ "FileLoader", "d7/d5b/a29964.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "d7/d5b/a29964.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "FileLoader", "d7/d5b/a29964.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "d7/d5b/a29964.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "free", "d7/d5b/a29964.html#a738aeb2ebe751c9fc75013dbce30dcc4", null ],
+    [ "free", "d7/d5b/a29964.html#aef98564821c8e63b6d484179cda0b380", null ],
+    [ "GetData", "d7/d5b/a29964.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetData", "d7/d5b/a29964.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetDataSize", "d7/d5b/a29964.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "GetDataSize", "d7/d5b/a29964.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "loadFile", "d7/d5b/a29964.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "loadFile", "d7/d5b/a29964.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "prepareLoadedData", "d7/d5b/a29964.html#ab66347098d7c9ac470339c232f9b7588", null ],
+    [ "prepareLoadedData", "d7/d5b/a29964.html#a498a33d80768843b4ab1ff2d5ffe68d9", null ],
+    [ "data", "d7/d5b/a29964.html#aff1880ac2038f17f4d1f63bc9f7d9afd", null ],
+    [ "data_size", "d7/d5b/a29964.html#a355891fc980538e74080b9b83a95dec8", null ],
+    [ "version", "d7/d5b/a29964.html#a41cedec185e5909d83c8a185d1476dee", null ]
 ];

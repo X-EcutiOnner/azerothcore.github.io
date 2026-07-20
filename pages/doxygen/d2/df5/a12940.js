@@ -1,8 +1,9 @@
 var a12940 =
 [
-    [ "npc_lava_spawn", "d2/df5/a12940.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "d2/df5/a12940.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "d2/df5/a12940.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "d2/df5/a12940.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "d2/df5/a12940.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "boss_baron_geddon", "d2/df5/a12940.html#a1e7cf41aff13c376dafa35a992c378d8", null ],
+    [ "DamageTaken", "d2/df5/a12940.html#a2a5a0ca6e40ac736171a8b80b0e66dad", null ],
+    [ "ExecuteEvent", "d2/df5/a12940.html#af81a1ef4345e55f3d537baeb0e9528f4", null ],
+    [ "JustEngagedWith", "d2/df5/a12940.html#ad0e720b1ea3e92fabeea8b78a6416f3f", null ],
+    [ "Reset", "d2/df5/a12940.html#aee0a2c6587a7f743491f3a3e31ed6527", null ],
+    [ "armageddonCasted", "d2/df5/a12940.html#a4ea01568770a91e6734d45e3730c62cc", null ]
 ];

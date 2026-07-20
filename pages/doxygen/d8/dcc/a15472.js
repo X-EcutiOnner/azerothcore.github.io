@@ -1,17 +1,9 @@
 var a15472 =
 [
-    [ "boss_eye_of_cthun", "d8/dcc/a15472.html#ac780d2e04a1fab6bd02db049bc6eaab2", null ],
-    [ "DamageTaken", "d8/dcc/a15472.html#a1a28da1eefd61303201d1f3150fe405f", null ],
-    [ "DoAction", "d8/dcc/a15472.html#a102aabe3ce6d89b6403760c11eac87ec", null ],
-    [ "JustDied", "d8/dcc/a15472.html#a4dec255ac49195d835390772a8f1f517", null ],
-    [ "JustEngagedWith", "d8/dcc/a15472.html#ae83ed5b888df95ad0b854f67192cbd4a", null ],
-    [ "JustSummoned", "d8/dcc/a15472.html#a5c037c1fa7adb8355242bf36beb9c61d", null ],
-    [ "MoveInLineOfSight", "d8/dcc/a15472.html#a4555b8c931f9d02b7bd3af1c1f569c6c", null ],
-    [ "Reset", "d8/dcc/a15472.html#a66aec1afcbaa46ede6be2ffc32b67faa", null ],
-    [ "ScheduleTask", "d8/dcc/a15472.html#a14e5b518f2c8534096b8a8059458636d", null ],
-    [ "_beamTarget", "d8/dcc/a15472.html#a2c217290b988d06397c52e3485a7dae8", null ],
-    [ "_eyeTentacleCounter", "d8/dcc/a15472.html#a559d6ba31ed626d8c42a00c230d647b8", null ],
-    [ "ClockWise", "d8/dcc/a15472.html#a701a24f3a06657467b8665d2e4216710", null ],
-    [ "DarkGlareAngle", "d8/dcc/a15472.html#ac71992a2cf223d65c0e06cd8bd440164", null ],
-    [ "DarkGlareTick", "d8/dcc/a15472.html#af546d3325ad456d335148cd7284f7cad", null ]
+    [ "spell_gen_ayamiss_swarmer_loop", "d8/dcc/a15472.html#ad910e172ef6866f102fa3407f676169a", null ],
+    [ "HandleScript", "d8/dcc/a15472.html#acd0dffad436cb414deb546b192957783", null ],
+    [ "Load", "d8/dcc/a15472.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
+    [ "PrepareSpellScript", "d8/dcc/a15472.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
+    [ "Register", "d8/dcc/a15472.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
+    [ "_pathId", "d8/dcc/a15472.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
 ];

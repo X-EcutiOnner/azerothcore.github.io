@@ -1,7 +1,14 @@
 var a21720 =
 [
-    [ "HandleScript", "d4/d58/a21720.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
-    [ "PrepareSpellScript", "d4/d58/a21720.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
-    [ "Register", "d4/d58/a21720.html#a9b8efef83b515f2250bda500ff741aa3", null ],
-    [ "Validate", "d4/d58/a21720.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "d4/d58/a21720.html#a84beab3be0d7e5d5d3674a57b1928f09", null ],
+    [ "ChangeImage", "d4/d58/a21720.html#a815e5c67b282e2840676b5453d94d5dc", null ],
+    [ "MovementInform", "d4/d58/a21720.html#a2ed09d31771e9c225d8d8b40ba8f0f82", null ],
+    [ "Reset", "d4/d58/a21720.html#a71410a3e3e5134311bf7bc2ef3051eb3", null ],
+    [ "StoreTargets", "d4/d58/a21720.html#a0732307643a442bc3f070b9cc91d78c9", null ],
+    [ "TurnAudience", "d4/d58/a21720.html#afa7fce3a9cccfcc7b088e72df9f312a4", null ],
+    [ "UpdateAI", "d4/d58/a21720.html#a454984668ca58c8a6fdd9ad4f630dece", null ],
+    [ "_events", "d4/d58/a21720.html#a907626beb601f789a725d88d45689eb2", null ],
+    [ "audienceList", "d4/d58/a21720.html#a5bdb09658bd93e46387df8eeb8cf0221", null ],
+    [ "imageList", "d4/d58/a21720.html#a8177ed5bc5fd54b98f2f36c9389b8099", null ],
+    [ "talkWing", "d4/d58/a21720.html#ace957ffe4fba8f229946d61d63c1798c", null ]
 ];

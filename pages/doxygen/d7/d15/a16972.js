@@ -1,7 +1,6 @@
 var a16972 =
 [
-    [ "HandleAfterEffectAbsorb", "d7/d15/a16972.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "d7/d15/a16972.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "d7/d15/a16972.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "d7/d15/a16972.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "npc_toc_pet_hunterAI", "d8/dd7/a16976.html", "d8/dd7/a16976" ],
+    [ "npc_toc_pet_hunter", "d7/d15/a16972.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
+    [ "GetAI", "d7/d15/a16972.html#a9febc3086b0627324277f45d49cdd03f", null ]
 ];

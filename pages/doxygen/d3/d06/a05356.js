@@ -1,7 +1,6 @@
 var a05356 =
 [
-    [ "WModelRayCallBack", "d3/d06/a05356.html#ac234cf795a07aab6e456c608dd80bbea", null ],
-    [ "operator()", "d3/d06/a05356.html#a8f658081b44bda2527aa568a139bfd14", null ],
-    [ "hit", "d3/d06/a05356.html#a014e322fc087c2f07617361e0bc585e3", null ],
-    [ "models", "d3/d06/a05356.html#aaad14391ed1379dc3c367e6e522b1150", null ]
+    [ "Read", "d3/d06/a05356.html#a652bcf37d435efc3fb82f4d8cbf00e51", null ],
+    [ "groupsArray", "d3/d06/a05356.html#a79b2d93c2929aaddac1004aed4ecdd85", null ],
+    [ "RootWMOID", "d3/d06/a05356.html#a6b9058e7062c970438c79f08103c3c61", null ]
 ];

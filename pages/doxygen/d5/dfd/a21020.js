@@ -1,13 +1,7 @@
 var a21020 =
 [
-    [ "MoveX", "d5/dfd/a21020.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "d5/dfd/a21020.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "d5/dfd/a21020.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "d5/dfd/a21020.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "d5/dfd/a21020.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "d5/dfd/a21020.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "d5/dfd/a21020.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "d5/dfd/a21020.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "d5/dfd/a21020.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "d5/dfd/a21020.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "npc_frost_tomb", "d5/dfd/a21020.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
+    [ "JustDied", "d5/dfd/a21020.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
+    [ "UpdateAI", "d5/dfd/a21020.html#af2122e9c8cb206151f631659c7d167da", null ],
+    [ "PrisonerGUID", "d5/dfd/a21020.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
 ];

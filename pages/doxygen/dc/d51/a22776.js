@@ -1,11 +1,8 @@
 var a22776 =
 [
-    [ "boss_doomlordkazzakAI", "dc/d51/a22776.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
-    [ "JustDied", "dc/d51/a22776.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
-    [ "JustEngagedWith", "dc/d51/a22776.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
-    [ "JustRespawned", "dc/d51/a22776.html#a174912c149657f4d88446f4ac0631598", null ],
-    [ "KilledUnit", "dc/d51/a22776.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
-    [ "Reset", "dc/d51/a22776.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
-    [ "UpdateAI", "dc/d51/a22776.html#a28a0a8345fcd5411491409854acef729", null ],
-    [ "_inBerserk", "dc/d51/a22776.html#a996d17128aca96c00c8416957ebc24d0", null ]
+    [ "HandleEffectApply", "dc/d51/a22776.html#a94993441ef94f84c85aa10c693cf34fe", null ],
+    [ "HandleEffectRemove", "dc/d51/a22776.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
+    [ "PrepareAuraScript", "dc/d51/a22776.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
+    [ "Register", "dc/d51/a22776.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
+    [ "Validate", "dc/d51/a22776.html#a964637541cd64e64b4e02c00d36abf2d", null ]
 ];

@@ -1,11 +1,9 @@
 var a08984 =
 [
-    [ "FriendInfo", "de/d7c/a08984.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
-    [ "FriendInfo", "de/d7c/a08984.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
-    [ "Area", "de/d7c/a08984.html#adf16884b55545ed9302dbb54d653867b", null ],
-    [ "Class", "de/d7c/a08984.html#a8b797fcfda05d52d4297f32e458be519", null ],
-    [ "Flags", "de/d7c/a08984.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
-    [ "Level", "de/d7c/a08984.html#a70d9a74f4587f648db5bf49b61091213", null ],
-    [ "Note", "de/d7c/a08984.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
-    [ "Status", "de/d7c/a08984.html#a380f11d65b34e1e598b7861987cecfe6", null ]
+    [ "achievements", "de/d7c/a08984.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
+    [ "items", "de/d7c/a08984.html#a2873836588f37b9a5cf691da2b6fa715", null ],
+    [ "levelMax", "de/d7c/a08984.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
+    [ "levelMin", "de/d7c/a08984.html#a823016216268e13116a46bcb40ea0e70", null ],
+    [ "quests", "de/d7c/a08984.html#a6150aa58762a13dcbfcb55507df77809", null ],
+    [ "reqItemLevel", "de/d7c/a08984.html#a97f262e488e178dad0c33f228808f69e", null ]
 ];

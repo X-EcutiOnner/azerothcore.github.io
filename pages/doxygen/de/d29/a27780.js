@@ -1,7 +1,7 @@
 var a27780 =
 [
-    [ "HandlePeriodic", "de/d29/a27780.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "de/d29/a27780.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "de/d29/a27780.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "de/d29/a27780.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "HandleProc", "de/d29/a27780.html#a39a69b837c5844d345f5a311f5760bf6", null ],
+    [ "PrepareAuraScript", "de/d29/a27780.html#a673557238631dbca8954f516718f0eb2", null ],
+    [ "Register", "de/d29/a27780.html#aa9f71fd65dd63f66a7ff3c7757174e67", null ],
+    [ "Validate", "de/d29/a27780.html#aedf17c34772c0e2030388fc9b17aec38", null ]
 ];

@@ -1,5 +1,26 @@
 var a20512 =
 [
-    [ "achievement_quick_shave", "da/d6e/a20512.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "da/d6e/a20512.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "boss_mimiron", "da/d6e/a20512.html#acb08d1e24173014a7c443dc2eaea76ce", null ],
+    [ "AttackStart", "da/d6e/a20512.html#aee739c9b16ae36af6104b54bde9cf7f7", null ],
+    [ "CloseDoorAndButton", "da/d6e/a20512.html#ab5aa46f62dcb16febafb8bb081b1ec38", null ],
+    [ "EnterEvadeMode", "da/d6e/a20512.html#a9f39f9afa3f561115c4f7e630364f566", null ],
+    [ "GetData", "da/d6e/a20512.html#ab3aa6e8702c74ee27fa776c0a9bef77d", null ],
+    [ "JustEngagedWith", "da/d6e/a20512.html#ab9ce3920c2a06deb31bcf25f1b2947a8", null ],
+    [ "JustReachedHome", "da/d6e/a20512.html#a9e84d80c2e194c6d51b9d67d0c72db19", null ],
+    [ "MoveInLineOfSight", "da/d6e/a20512.html#a0b1497cf1fc3cca2db670b74eb4745ee", null ],
+    [ "Reset", "da/d6e/a20512.html#aec9cce9e0fcab78cfcf37e605cc6c08a", null ],
+    [ "ResetGameObjects", "da/d6e/a20512.html#ac3a10be85349fc62ef14ecd937159e61", null ],
+    [ "SetData", "da/d6e/a20512.html#aa9578fe08ab058a64e67935d262224ac", null ],
+    [ "SpellHit", "da/d6e/a20512.html#af4e88527fb72bcbc1dc0a57b6007a461", null ],
+    [ "UpdateAI", "da/d6e/a20512.html#adea87e321b4c401109ab4c37e314aca2", null ],
+    [ "_achievBombBot", "da/d6e/a20512.html#a916517ab6ec6b4bfe0bcbb445312a9a0", null ],
+    [ "_achievProximityMine", "da/d6e/a20512.html#a1fe4524d60414c100e0489bb77396033", null ],
+    [ "_achievRocketStrike", "da/d6e/a20512.html#a406cf4b6b01e1fbd6e995173c5cade4a", null ],
+    [ "_allowedFlameSpreadTime", "da/d6e/a20512.html#a34e2409dc2384851746d04301b926fdb", null ],
+    [ "_berserk", "da/d6e/a20512.html#af85af0d10226de45a42a9d3317244e7a", null ],
+    [ "_changeAllowedFlameSpreadTime", "da/d6e/a20512.html#a7d56123e4cc29207b53c0673084ee79e", null ],
+    [ "_hardmode", "da/d6e/a20512.html#af4b21f8bb94becdd9082e39d81003a2b", null ],
+    [ "_isEvading", "da/d6e/a20512.html#aa46c9828cdd36bb353ae75bea6d205b3", null ],
+    [ "_minutesTalkNum", "da/d6e/a20512.html#a4dbed164732f74205cd248afbb2fb46e", null ],
+    [ "_outOfCombatTimer", "da/d6e/a20512.html#a73c2e0d120706ec09638bbc20bda81b6", null ]
 ];

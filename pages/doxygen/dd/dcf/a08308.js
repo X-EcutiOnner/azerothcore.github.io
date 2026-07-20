@@ -1,13 +1,10 @@
 var a08308 =
 [
-    [ "LfgQueueData", "dd/dcf/a08308.html#a1d0b74e82f50dc6baaf6b5a79b0af0cd", null ],
-    [ "LfgQueueData", "dd/dcf/a08308.html#a363aa2cc53bce304893335ca93755103", null ],
-    [ "bestCompatible", "dd/dcf/a08308.html#a10fe592a7d0b3fc53701d1946d55f0af", null ],
-    [ "dps", "dd/dcf/a08308.html#ab78711eaf7285a5d4821e52354124646", null ],
-    [ "dungeons", "dd/dcf/a08308.html#a6b115f3a5e0ff996279db044f47f5823", null ],
-    [ "healers", "dd/dcf/a08308.html#a8b2049474102332ddca53f0892565216", null ],
-    [ "joinTime", "dd/dcf/a08308.html#a240fcc11f3fd9d27fa913f80828522f2", null ],
-    [ "lastRefreshTime", "dd/dcf/a08308.html#a727d35760b716270c5f326f343106d0c", null ],
-    [ "roles", "dd/dcf/a08308.html#a20218584ba5c3dbaf9ff7ae520eba9a3", null ],
-    [ "tanks", "dd/dcf/a08308.html#a500f93175d7a25f7c2e0dc0f3943e639", null ]
+    [ "LfgUpdateData", "dd/dcf/a08308.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
+    [ "LfgUpdateData", "dd/dcf/a08308.html#a656873ea6ef9b3f23791827617a000c6", null ],
+    [ "LfgUpdateData", "dd/dcf/a08308.html#a248682a712dd43b8c4601830aae4ddec", null ],
+    [ "comment", "dd/dcf/a08308.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
+    [ "dungeons", "dd/dcf/a08308.html#a0e9b49693248b438dbc508e230a870db", null ],
+    [ "state", "dd/dcf/a08308.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
+    [ "updateType", "dd/dcf/a08308.html#a146e43854f66bf57f703d7089a24481e", null ]
 ];

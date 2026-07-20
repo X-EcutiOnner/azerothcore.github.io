@@ -1,5 +1,7 @@
 var a12820 =
 [
-    [ "at_orb_of_command", "d9/de5/a12820.html#a1f0b196362b76e050eba66d3ce612623", null ],
-    [ "OnTrigger", "d9/de5/a12820.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
+    [ "boss_broodlord", "d9/de5/a12820.html#a3194ef765e313daaa4a0e476ec3edafa", null ],
+    [ "JustDied", "d9/de5/a12820.html#ac3f6f747fbe61e70562f14b9aa304765", null ],
+    [ "JustEngagedWith", "d9/de5/a12820.html#acb7214857320945a646574b0130a9585", null ],
+    [ "UpdateAI", "d9/de5/a12820.html#a5cdb166366938797de9d691096f0f155", null ]
 ];

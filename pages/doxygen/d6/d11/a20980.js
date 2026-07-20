@@ -1,8 +1,9 @@
 var a20980 =
 [
-    [ "FilterTargets", "d6/d11/a20980.html#a028ef84c884536a28650ace1e56f8061", null ],
-    [ "HandleScript", "d6/d11/a20980.html#a16466b4c07c06c57493082b0e84b3c66", null ],
-    [ "PrepareSpellScript", "d6/d11/a20980.html#ad43892487ca38342a61522548b34cd2c", null ],
-    [ "Register", "d6/d11/a20980.html#a90470761baccdcf8c5430006004abf29", null ],
-    [ "Validate", "d6/d11/a20980.html#a1664dcb92887f6974e1750472c02d168", null ]
+    [ "npc_ulduar_keeperAI", "d6/d11/a20980.html#ac69d21f3820f2c01a80ff664c317d111", null ],
+    [ "DoAction", "d6/d11/a20980.html#a03011d04761926d67e43c0bea5a0901f", null ],
+    [ "Reset", "d6/d11/a20980.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
+    [ "SpellHit", "d6/d11/a20980.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
+    [ "UpdateAI", "d6/d11/a20980.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
+    [ "_keeper", "d6/d11/a20980.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
 ];

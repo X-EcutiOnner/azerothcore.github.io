@@ -1,6 +1,6 @@
 var a19304 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d0/d87/a19308.html", "d0/d87/a19308" ],
-    [ "boss_grobbulus_poison_cloud", "d7/d92/a19304.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
-    [ "GetAI", "d7/d92/a19304.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
+    [ "npc_four_car_garageAI", "d7/d92/a19304.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "d7/d92/a19304.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "d7/d92/a19304.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

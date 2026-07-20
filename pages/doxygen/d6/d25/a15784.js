@@ -1,8 +1,6 @@
 var a15784 =
 [
-    [ "npc_aged_dying_ancient_kodo", "d6/d25/a15784.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
-    [ "JustRespawned", "d6/d25/a15784.html#ab401f9002bd49b26cc0526112e715d1e", null ],
-    [ "MoveInLineOfSight", "d6/d25/a15784.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
-    [ "sGossipHello", "d6/d25/a15784.html#a8bd41050426cdee7da37d1370e5a7363", null ],
-    [ "SpellHit", "d6/d25/a15784.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
+    [ "npc_muglashAI", "df/df7/a15788.html", "df/df7/a15788" ],
+    [ "npc_muglash", "d6/d25/a15784.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
+    [ "GetAI", "d6/d25/a15784.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
 ];

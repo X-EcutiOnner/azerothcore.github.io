@@ -1,6 +1,5 @@
 var a20624 =
 [
-    [ "HandleScript", "da/d24/a20624.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
-    [ "PrepareSpellScript", "da/d24/a20624.html#a4fd05478a145157dbd8377532033ab95", null ],
-    [ "Register", "da/d24/a20624.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
+    [ "go_ulduar_working_harpoon", "da/d24/a20624.html#a9aaaa16f23f07e402f20a048fd69d347", null ],
+    [ "OnGossipHello", "da/d24/a20624.html#a164bdd0a9538293699665a821c4f25f3", null ]
 ];

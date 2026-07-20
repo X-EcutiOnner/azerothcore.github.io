@@ -1,6 +1,6 @@
 var a27764 =
 [
-    [ "boss_taerarAI", "dd/db1/a27768.html", "dd/db1/a27768" ],
-    [ "boss_taerar", "dc/dc5/a27764.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "dc/dc5/a27764.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "HandleProc", "dc/dc5/a27764.html#a6b321d6ee3002f32b546aeaed0925183", null ],
+    [ "PrepareAuraScript", "dc/dc5/a27764.html#a4186315ab8fa250fd108c2de1c650f9e", null ],
+    [ "Register", "dc/dc5/a27764.html#a3817a49fbcac2d70ded5a39b3cce8ea7", null ]
 ];

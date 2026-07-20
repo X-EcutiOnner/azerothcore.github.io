@@ -1,8 +1,6 @@
 var a13548 =
 [
-    [ "CalcPeriodic", "de/d38/a13548.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
-    [ "HandleDummyTick", "de/d38/a13548.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
-    [ "HandleUpdatePeriodic", "de/d38/a13548.html#a70ef86fd58eec1422bac6b61a4123842", null ],
-    [ "PrepareAuraScript", "de/d38/a13548.html#a9a97a6ab249728dbad4d3603640a7963", null ],
-    [ "Register", "de/d38/a13548.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
+    [ "instance_scarlet_monastery_InstanceMapScript", "d4/d93/a13552.html", "d4/d93/a13552" ],
+    [ "instance_scarlet_monastery", "de/d38/a13548.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
+    [ "GetInstanceScript", "de/d38/a13548.html#a1c66031217457809fbe56303085715a0", null ]
 ];

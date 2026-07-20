@@ -1,6 +1,6 @@
 var a17628 =
 [
-    [ "VampiricBiteTargetSelector", "d3/d99/a17628.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
-    [ "operator()", "d3/d99/a17628.html#ac16204f50f62cb2568998d1ea137f55d", null ],
-    [ "_source", "d3/d99/a17628.html#af23a69491c915909566249b109b1f0e8", null ]
+    [ "instance_gundrak_InstanceMapScript", "d7/d31/a17632.html", "d7/d31/a17632" ],
+    [ "instance_gundrak", "d3/d99/a17628.html#ad6acbbcd96740a011f2a72a63fb211c3", null ],
+    [ "GetInstanceScript", "d3/d99/a17628.html#a738b4ea54d1e0d7b1db90b9cc3a9c83c", null ]
 ];

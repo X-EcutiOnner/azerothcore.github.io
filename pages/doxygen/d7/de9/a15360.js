@@ -1,9 +1,8 @@
 var a15360 =
 [
-    [ "npc_buru_egg", "d7/de9/a15360.html#a6aa2896342b802caecde1c1dffcf4907", null ],
-    [ "JustDied", "d7/de9/a15360.html#a3de169b252374f0b2daed3ecb5a11502", null ],
-    [ "JustEngagedWith", "d7/de9/a15360.html#a8cde6848569671876a17b00d75228ebe", null ],
-    [ "JustSummoned", "d7/de9/a15360.html#abebb96dcb3d653bddd4210da6567fb87", null ],
-    [ "UpdateAI", "d7/de9/a15360.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
-    [ "_instance", "d7/de9/a15360.html#a5b168226755a57368f17827e3457a0ca", null ]
+    [ "Load", "d7/de9/a15360.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "d7/de9/a15360.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "d7/de9/a15360.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "d7/de9/a15360.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "d7/de9/a15360.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

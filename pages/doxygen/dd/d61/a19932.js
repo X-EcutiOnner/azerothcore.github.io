@@ -1,5 +1,5 @@
 var a19932 =
 [
-    [ "achievement_algalon_he_feeds_on_your_tears", "dd/d61/a19932.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
-    [ "OnCheck", "dd/d61/a19932.html#affea33614581545c65513bfe533d7246", null ]
+    [ "boss_sjonnir_dwarfAI", "dd/d61/a19932.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
+    [ "UpdateAI", "dd/d61/a19932.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
 ];

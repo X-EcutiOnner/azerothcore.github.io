@@ -1,7 +1,6 @@
 var a19212 =
 [
-    [ "HandleGameObjectDamage", "d2/df2/a19212.html#a811edfe01c1784664b5b4253d2305b4e", null ],
-    [ "PrepareSpellScript", "d2/df2/a19212.html#a0cfedeba2a747777de292b8f30b6752b", null ],
-    [ "Register", "d2/df2/a19212.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
-    [ "Validate", "d2/df2/a19212.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "d9/dc5/a19216.html", "d9/dc5/a19216" ],
+    [ "npc_icc_vengeful_fleshreaper", "d2/df2/a19212.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
+    [ "GetAI", "d2/df2/a19212.html#abf1903616dbf52718313c8b404b504a5", null ]
 ];

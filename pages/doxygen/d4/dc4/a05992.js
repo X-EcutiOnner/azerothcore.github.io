@@ -1,18 +1,18 @@
 var a05992 =
 [
-    [ "RASession", "d4/dc4/a05992.html#a59333e209be4ab694ad5bc62f4c245ce", null ],
-    [ "CheckAccessLevel", "d4/dc4/a05992.html#a72963e43e085c28b7d4bb50dfa45433a", null ],
-    [ "CheckPassword", "d4/dc4/a05992.html#abf15291f3135a382d314feb8a5d72e9e", null ],
-    [ "CommandFinished", "d4/dc4/a05992.html#a547d5f26b74209003a8a3c7f8aa4af5d", null ],
-    [ "CommandPrint", "d4/dc4/a05992.html#adda3b14e26103155c0a154e4673e8627", null ],
-    [ "GetRemoteIpAddress", "d4/dc4/a05992.html#aff8957db5a0cceec4fddeb7950bba557", null ],
-    [ "GetRemotePort", "d4/dc4/a05992.html#a8320914f7d0fc769e2e3861b8df75f5a", null ],
-    [ "ProcessCommand", "d4/dc4/a05992.html#ad4f4c2ccb371867a882351b3f8f8a9ef", null ],
-    [ "ReadString", "d4/dc4/a05992.html#a55f31c8b5181bf5d95b353b875267783", null ],
-    [ "Send", "d4/dc4/a05992.html#a0f87da6517747387b3899b608328a8c5", null ],
-    [ "Start", "d4/dc4/a05992.html#af2cc6a74f520824fa739688e8d15d60c", null ],
-    [ "_commandExecuting", "d4/dc4/a05992.html#a817e53b23c54f2f6bbf7058eab0824b4", null ],
-    [ "_readBuffer", "d4/dc4/a05992.html#a899e34097702112e05e942a33ebcb1d2", null ],
-    [ "_socket", "d4/dc4/a05992.html#aade56b26c92b625bb6dabee51db1518c", null ],
-    [ "_writeBuffer", "d4/dc4/a05992.html#a82ccb9ab8abf1403fd5d2384beac99b7", null ]
+    [ "build", "d4/dc4/a05992.html#a4c2989e284a86a7257c3f4a7b507265c", null ],
+    [ "cmd", "d4/dc4/a05992.html#a296fd5746ea3ad8f5b341cd92ecb92a6", null ],
+    [ "country", "d4/dc4/a05992.html#a5391c693d5aee76e67001f648b108792", null ],
+    [ "error", "d4/dc4/a05992.html#a36a4e2114203cbec036c7f6c6ba1f11b", null ],
+    [ "gamename", "d4/dc4/a05992.html#ae6f5a1b7c4684bb96deaa51cb9cfc7bc", null ],
+    [ "I", "d4/dc4/a05992.html#a48ed2eb4f17a62d033320b981fe9d07c", null ],
+    [ "I_len", "d4/dc4/a05992.html#a589c5dadf3e694ba5e3d9f1e5732426e", null ],
+    [ "ip", "d4/dc4/a05992.html#a5993cfad4be8f9e457bd6067ced6bd2a", null ],
+    [ "os", "d4/dc4/a05992.html#ad8c71a1e514e6b8f6d6a4681ba1db0c1", null ],
+    [ "platform", "d4/dc4/a05992.html#afc0d27e7213846988c0ee7ccc5e54ee0", null ],
+    [ "size", "d4/dc4/a05992.html#aae293343b590c23405a32d2809887020", null ],
+    [ "timezone_bias", "d4/dc4/a05992.html#a44cdd2733fb678966bc3252b6bef9d16", null ],
+    [ "version1", "d4/dc4/a05992.html#aa7a794d75e11e98aa9f88cb8e82be9e9", null ],
+    [ "version2", "d4/dc4/a05992.html#abe9218ee7ebdffa48dd404a2ad465ca4", null ],
+    [ "version3", "d4/dc4/a05992.html#a6a9e5088baf8c568916891a55e035db3", null ]
 ];

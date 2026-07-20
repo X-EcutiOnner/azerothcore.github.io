@@ -1,7 +1,11 @@
 var a21208 =
 [
-    [ "npc_azure_captain", "d0/d4d/a21208.html#abbdba89267506b8dd1e93ea0e059979c", null ],
-    [ "Reset", "d0/d4d/a21208.html#ae9b8cc434f2b5690f3abc55d557cbd54", null ],
-    [ "UpdateAI", "d0/d4d/a21208.html#a9aacf1533414ade27973ddcc46434978", null ],
-    [ "_events", "d0/d4d/a21208.html#a6a69ea3d3eb75601f723a10eab68c260", null ]
+    [ "boss_archavonAI", "d0/d4d/a21208.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
+    [ "AttackStart", "d0/d4d/a21208.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
+    [ "JustDied", "d0/d4d/a21208.html#a3974065a80dedf3e673452e7f6f8e449", null ],
+    [ "JustEngagedWith", "d0/d4d/a21208.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
+    [ "Reset", "d0/d4d/a21208.html#a7d101626f39947dd54b574491a5e6d72", null ],
+    [ "UpdateAI", "d0/d4d/a21208.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
+    [ "events", "d0/d4d/a21208.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
+    [ "pInstance", "d0/d4d/a21208.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
 ];

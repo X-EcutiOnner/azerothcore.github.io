@@ -1,18 +1,8 @@
 var a16152 =
 [
-    [ "boss_elder_nadox", "db/de3/a16152.html#a718d8fffde11b1df5a44650096c474cc", null ],
-    [ "DamageTaken", "db/de3/a16152.html#a34dd3a07faeee096b1c8574f63353893", null ],
-    [ "GetData", "db/de3/a16152.html#ad2f80bcefb6c43370546d867fd4fc951", null ],
-    [ "JustDied", "db/de3/a16152.html#a1342dbd6de10197c6ba4bc8e43cceace", null ],
-    [ "JustEngagedWith", "db/de3/a16152.html#a659f83714070b7358b43d1c7eb46ac1c", null ],
-    [ "KilledUnit", "db/de3/a16152.html#a78310e83e518b64c1373b60a946f9748", null ],
-    [ "Reset", "db/de3/a16152.html#ab5e492f39552b64c0333b6fbce89c1ae", null ],
-    [ "SummonedCreatureDies", "db/de3/a16152.html#a77d9861b2e2de593d0b44c2fd9449f17", null ],
-    [ "SummonHelpers", "db/de3/a16152.html#ae65044c111e514a3050ea14f1155a7dc", null ],
-    [ "UpdateAI", "db/de3/a16152.html#abbb783581208c76fa371f01efd481b66", null ],
-    [ "guardianEggs", "db/de3/a16152.html#aae96b622766ab4478a8510bd1c7a9f1f", null ],
-    [ "guardianSummoned", "db/de3/a16152.html#a5543be0c08bf1d432b36bfdb2d532f0d", null ],
-    [ "previousSwarmEgg_GUID", "db/de3/a16152.html#add5ff92f92b8d01caef0b12a98569535", null ],
-    [ "respectYourElders", "db/de3/a16152.html#aac97ef9511e64692a152077b43e83e75", null ],
-    [ "swarmEggs", "db/de3/a16152.html#a28c8b6826ed86e30b573883cab83168f", null ]
+    [ "npc_paoka_swiftmountainAI", "db/de3/a16152.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "db/de3/a16152.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "db/de3/a16152.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "db/de3/a16152.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ],
+    [ "WaypointReached", "db/de3/a16152.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

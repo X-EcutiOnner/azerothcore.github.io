@@ -1,6 +1,8 @@
 var a23372 =
 [
-    [ "npc_millhouse_manastormAI", "d6/d8d/a23376.html", "d6/d8d/a23376" ],
-    [ "npc_millhouse_manastorm", "d3/de9/a23372.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
-    [ "GetAI", "d3/de9/a23372.html#ac4516785f7daf544718fc201197ba977", null ]
+    [ "boss_broggok", "d3/de9/a23372.html#ae20c04793116d3e8eab62d2ee27010df", null ],
+    [ "DoAction", "d3/de9/a23372.html#af5de5a1747c502f72af015c09d050354", null ],
+    [ "JustEngagedWith", "d3/de9/a23372.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
+    [ "JustSummoned", "d3/de9/a23372.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
+    [ "Reset", "d3/de9/a23372.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
 ];

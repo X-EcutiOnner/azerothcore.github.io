@@ -1,6 +1,7 @@
 var a23664 =
 [
-    [ "npc_simon_bunnyAI", "df/d03/a23668.html", "df/d03/a23668" ],
-    [ "npc_simon_bunny", "dc/dcd/a23664.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
-    [ "GetAI", "dc/dcd/a23664.html#ac0c97609916321a1599c0722803a050f", null ]
+    [ "OnApply", "dc/dcd/a23664.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "dc/dcd/a23664.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "dc/dcd/a23664.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "dc/dcd/a23664.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

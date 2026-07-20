@@ -1,5 +1,7 @@
 var a27964 =
 [
-    [ "go_hive_pod", "db/d4a/a27964.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
-    [ "OnGossipHello", "db/d4a/a27964.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
+    [ "HandlePeriodic", "db/d4a/a27964.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "db/d4a/a27964.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "db/d4a/a27964.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "db/d4a/a27964.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];

@@ -1,6 +1,9 @@
 var a28416 =
 [
-    [ "npc_taxi", "d0/d95/a28416.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "d0/d95/a28416.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "d0/d95/a28416.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "npc_fireworkAI", "d0/d95/a28416.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "d0/d95/a28416.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "d0/d95/a28416.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "d0/d95/a28416.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "d0/d95/a28416.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "d0/d95/a28416.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

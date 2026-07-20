@@ -1,12 +1,19 @@
 var a13168 =
 [
-    [ "boss_bigbadwolf", "d5/dcb/a13168.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
-    [ "EnterEvadeMode", "d5/dcb/a13168.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
-    [ "JustDied", "d5/dcb/a13168.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
-    [ "JustEngagedWith", "d5/dcb/a13168.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
-    [ "JustReachedHome", "d5/dcb/a13168.html#a7755bf925d919c73075a41f8774280c0", null ],
-    [ "KilledUnit", "d5/dcb/a13168.html#a8e004a1feac796ed467eba744f211827", null ],
-    [ "UpdateAI", "d5/dcb/a13168.html#ab788a0155a3ffe6535d58263eea16dee", null ],
-    [ "_scheduler", "d5/dcb/a13168.html#a661d9b619be30764ba5b89d71de870e9", null ],
-    [ "instance", "d5/dcb/a13168.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
+    [ "boss_malchezaar", "d5/dcb/a13168.html#a68adb0f05177316f9e39a48669f60829", null ],
+    [ "clearweapons", "d5/dcb/a13168.html#a354e07cb1f9ae86d96d07cb80f911474", null ],
+    [ "EnfeebleResetHealth", "d5/dcb/a13168.html#a7fcaec7c991f9d6df816aef650e53855", null ],
+    [ "Initialize", "d5/dcb/a13168.html#a1b48e2c117ac4c60f11310e43d34264b", null ],
+    [ "JustDied", "d5/dcb/a13168.html#aee066b4a67c61ae70fc487adf0be00e0", null ],
+    [ "JustEngagedWith", "d5/dcb/a13168.html#a5cfd1284c572f72ecde9d9ad94922d2b", null ],
+    [ "KilledUnit", "d5/dcb/a13168.html#a0d91be1d9ad3a0876bec8b694edd44be", null ],
+    [ "MaxSpawns", "d5/dcb/a13168.html#a25ef9558fcccee430ef92703af903d91", null ],
+    [ "PickTarget", "d5/dcb/a13168.html#a2c825f7f116891601ef2c3809c7db15c", null ],
+    [ "Reset", "d5/dcb/a13168.html#a72b54fd786c064114df3b8a09835e841", null ],
+    [ "SpawnInfernal", "d5/dcb/a13168.html#a58d1823940988f6f55aec8a5da44fd54", null ],
+    [ "SpellHitTarget", "d5/dcb/a13168.html#a9eb75b54ea480b38590695635a9cb4fe", null ],
+    [ "_enfeebleTargets", "d5/dcb/a13168.html#adc405cdbcc17eabade5794a7801c5323", null ],
+    [ "_phase", "d5/dcb/a13168.html#a94be6cf7bb8cd7857fe82638d0d0e853", null ],
+    [ "infernalTargets", "d5/dcb/a13168.html#a55b8c2dd25af193e078fdb0315863783", null ],
+    [ "relays", "d5/dcb/a13168.html#a7695c12779ada381cb04085dcf8dbb2c", null ]
 ];

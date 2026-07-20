@@ -1,9 +1,6 @@
 var a19308 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d0/d87/a19308.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
-    [ "KilledUnit", "d0/d87/a19308.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
-    [ "Reset", "d0/d87/a19308.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
-    [ "UpdateAI", "d0/d87/a19308.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
-    [ "auraVisualTimer", "d0/d87/a19308.html#a74aea4294c26414d3b60983d14d36e31", null ],
-    [ "sizeTimer", "d0/d87/a19308.html#a73f775b30ad36a595e0d8532067ba042", null ]
+    [ "npc_ioc_gunship_captainAI", "da/dae/a19312.html", "da/dae/a19312" ],
+    [ "npc_ioc_gunship_captain", "d0/d87/a19308.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
+    [ "GetAI", "d0/d87/a19308.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
 ];

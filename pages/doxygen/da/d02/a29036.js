@@ -1,11 +1,10 @@
 var a29036 =
 [
-    [ "addToSpellBook", "da/d02/a29036.html#ad312934d24abcc78c02d50cc5cb5403f", null ],
-    [ "Col", "da/d02/a29036.html#a0bc589c5b1425d5e889cd290b805169e", null ],
-    [ "DependsOn", "da/d02/a29036.html#a7b1aa1384777b8d94dceed3c387bb628", null ],
-    [ "DependsOnRank", "da/d02/a29036.html#a608f232669981da3423b959479ca8683", null ],
-    [ "RankID", "da/d02/a29036.html#a96d0fd120ed3aa7fbd287d104fd87c26", null ],
-    [ "Row", "da/d02/a29036.html#a136b889d2e8875b01fc7aa2be06847ac", null ],
-    [ "TalentID", "da/d02/a29036.html#aa769574106b0e5afdbc7c71c51c3b9a2", null ],
-    [ "TalentTab", "da/d02/a29036.html#acefe6f8c0a5b3893e2a9f828d500df68", null ]
+    [ "ID", "da/d02/a29036.html#a906c42770a619884f08b67e2870bff93", null ],
+    [ "reqarenapoints", "da/d02/a29036.html#a5d45007a832d6120e29c7821c07646de", null ],
+    [ "reqarenaslot", "da/d02/a29036.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
+    [ "reqhonorpoints", "da/d02/a29036.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
+    [ "reqitem", "da/d02/a29036.html#a9cba8872c909260a55dcfdf7f4726899", null ],
+    [ "reqitemcount", "da/d02/a29036.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
+    [ "reqpersonalarenarating", "da/d02/a29036.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
 ];

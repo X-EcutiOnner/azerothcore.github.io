@@ -1,8 +1,4 @@
 var a28956 =
 [
-    [ "ClassMask", "d5/dc2/a28956.html#a563ba1618ffefa5470696e37f65c70d4", null ],
-    [ "Flags", "d5/dc2/a28956.html#af89c32a22f018557fe016e0784a82384", null ],
-    [ "RaceMask", "d5/dc2/a28956.html#acff47bf5c075d669f95b0d229674f9bc", null ],
-    [ "SkillID", "d5/dc2/a28956.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
-    [ "SkillTierID", "d5/dc2/a28956.html#ab6153043461b71336e12b00957499075", null ]
+    [ "ID", "d5/dc2/a28956.html#a7d31bf2a11559873fc410d4cb32c5f54", null ]
 ];

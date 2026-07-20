@@ -1,4 +1,5 @@
 var a30088 =
 [
-    [ "ratio", "d3/dda/a30088.html#a4df2f98014dd653657b80b4d98e54896", null ]
+    [ "max", "d3/dda/a30088.html#a3d87d5fa5e887282fa76a4a4b77eb097", null ],
+    [ "min", "d3/dda/a30088.html#a7277258d8bdc471a007814fadf91780a", null ]
 ];

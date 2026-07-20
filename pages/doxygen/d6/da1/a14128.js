@@ -1,8 +1,7 @@
 var a14128 =
 [
-    [ "npc_the_scourge_cauldronAI", "d6/da1/a14128.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
-    [ "DoDie", "d6/da1/a14128.html#a9f720a27db2943a66b11ad6355690bf5", null ],
-    [ "JustEngagedWith", "d6/da1/a14128.html#a89954dec2f7d57d933c18822333243ac", null ],
-    [ "MoveInLineOfSight", "d6/da1/a14128.html#a256195dbe75859d72afcd0defb9ff76e", null ],
-    [ "Reset", "d6/da1/a14128.html#ab18bb2eb344f45827685786c665b1750", null ]
+    [ "npc_deathstalker_erlandAI", "d5/dde/a14132.html", "d5/dde/a14132" ],
+    [ "npc_deathstalker_erland", "d6/da1/a14128.html#ad49faf068e982f245f0d1e21f0700c40", null ],
+    [ "GetAI", "d6/da1/a14128.html#ab59235f212ddb985056cb8e32719b723", null ],
+    [ "OnQuestAccept", "d6/da1/a14128.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
 ];

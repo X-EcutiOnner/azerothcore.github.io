@@ -1,7 +1,6 @@
 var a17864 =
 [
-    [ "npc_gunship_boarding_leaderAI", "db/d02/a17864.html#ac20099905fd6fddda2561b88cf077b77", null ],
-    [ "JustEngagedWith", "db/d02/a17864.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
-    [ "UpdateAI", "db/d02/a17864.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
-    [ "_events", "db/d02/a17864.html#affb899bbaa288e72a48d5518367b023d", null ]
+    [ "npc_icc_blood_beastAI", "d8/da6/a17868.html", "d8/da6/a17868" ],
+    [ "npc_icc_blood_beast", "db/d02/a17864.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
+    [ "GetAI", "db/d02/a17864.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
 ];

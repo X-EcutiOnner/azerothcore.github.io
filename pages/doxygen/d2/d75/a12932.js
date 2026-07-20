@@ -1,9 +1,7 @@
 var a12932 =
 [
-    [ "npc_mc_core_hound", "d2/d75/a12932.html#a4768b06f344d6bbf7e3d0cef16e1b75d", null ],
-    [ "DamageTaken", "d2/d75/a12932.html#a1b9cd2776b1a3f363915fc91e1e34414", null ],
-    [ "Reset", "d2/d75/a12932.html#ab2bfa697f694b5b35129b361e171e2a4", null ],
-    [ "UpdateAI", "d2/d75/a12932.html#a9c5081e9c622eb0679cd396caed002b9", null ],
-    [ "instance", "d2/d75/a12932.html#a54da081c07184ebd5eed1ffe9a1dd8ee", null ],
-    [ "serratedBiteTimer", "d2/d75/a12932.html#afbe528a9f7d2afc6d33bf11f589d9dea", null ]
+    [ "HandleEffectScriptEffect", "d2/d75/a12932.html#a8157c4b213b3b4e260222976e283e2ae", null ],
+    [ "PrepareSpellScript", "d2/d75/a12932.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
+    [ "Register", "d2/d75/a12932.html#aeda056b568b4956ba35b32a3f20c053e", null ],
+    [ "Validate", "d2/d75/a12932.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
 ];

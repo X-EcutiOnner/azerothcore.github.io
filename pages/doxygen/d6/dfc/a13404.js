@@ -1,8 +1,12 @@
 var a13404 =
 [
-    [ "npc_highlord_darion_mograineAI", "de/d88/a13408.html", "de/d88/a13408" ],
-    [ "npc_highlord_darion_mograine", "d6/dfc/a13404.html#a86680b1a140c706b10fd48befc572286", null ],
-    [ "GetAI", "d6/dfc/a13404.html#a350539ed741fa372ffff92ffbc6e6260", null ],
-    [ "OnGossipHello", "d6/dfc/a13404.html#a35afc9d80b4570163af9f6013949a70c", null ],
-    [ "OnGossipSelect", "d6/dfc/a13404.html#a0539d24556c16a1a72be8258c752f5f5", null ]
+    [ "boss_vexallus", "d6/dfc/a13404.html#a68c32ed70274e9f135b7a9107f888c91", null ],
+    [ "JustDied", "d6/dfc/a13404.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
+    [ "JustEngagedWith", "d6/dfc/a13404.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
+    [ "JustSummoned", "d6/dfc/a13404.html#a9bc7808889da754bae9c935418975f90", null ],
+    [ "KilledUnit", "d6/dfc/a13404.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
+    [ "Reset", "d6/dfc/a13404.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
+    [ "SummonedCreatureDies", "d6/dfc/a13404.html#a4bd88222143d8db098312cff8a2fc969", null ],
+    [ "_energyCooldown", "d6/dfc/a13404.html#a395d2186d70d1b7e29dbada7750da354", null ],
+    [ "_energyCount", "d6/dfc/a13404.html#a4afa4a245b8863c7b0898773932642c8", null ]
 ];

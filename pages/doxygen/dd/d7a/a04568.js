@@ -1,29 +1,17 @@
 var a04568 =
 [
-    [ "AppenderFlags", "dd/d7a/a04568.html#a94c1c25ceab6db205eb6a5d5a2e0e803", [
-      [ "APPENDER_FLAGS_NONE", "dd/d7a/a04568.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b", null ],
-      [ "APPENDER_FLAGS_PREFIX_TIMESTAMP", "dd/d7a/a04568.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46", null ],
-      [ "APPENDER_FLAGS_PREFIX_LOGLEVEL", "dd/d7a/a04568.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e", null ],
-      [ "APPENDER_FLAGS_PREFIX_LOGFILTERTYPE", "dd/d7a/a04568.html#a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b", null ],
-      [ "APPENDER_FLAGS_USE_TIMESTAMP", "dd/d7a/a04568.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3", null ],
-      [ "APPENDER_FLAGS_MAKE_FILE_BACKUP", "dd/d7a/a04568.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2", null ]
-    ] ],
-    [ "AppenderType", "dd/d7a/a04568.html#aacbd2dccb14fcb75d2651dce582364df", [
-      [ "APPENDER_NONE", "dd/d7a/a04568.html#aacbd2dccb14fcb75d2651dce582364dfaceddd86331dd45bd7dbd5f8bae6c8852", null ],
-      [ "APPENDER_CONSOLE", "dd/d7a/a04568.html#aacbd2dccb14fcb75d2651dce582364dfa8cc0efa84bbb87aa8207ba11f369b78a", null ],
-      [ "APPENDER_FILE", "dd/d7a/a04568.html#aacbd2dccb14fcb75d2651dce582364dfa2420e38b426dcb22e37a90b6a97cc65d", null ],
-      [ "APPENDER_DB", "dd/d7a/a04568.html#aacbd2dccb14fcb75d2651dce582364dfacac80dc510e850226c250af5a5600394", null ],
-      [ "APPENDER_INVALID", "dd/d7a/a04568.html#aacbd2dccb14fcb75d2651dce582364dfa7cb05f13eacfc1d54ef111d7b8375301", null ]
-    ] ],
-    [ "LogLevel", "dd/d7a/a04568.html#ad26ed09e30f81a5d2172b4793a3f2781", [
-      [ "LOG_LEVEL_DISABLED", "dd/d7a/a04568.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61", null ],
-      [ "LOG_LEVEL_FATAL", "dd/d7a/a04568.html#ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5", null ],
-      [ "LOG_LEVEL_ERROR", "dd/d7a/a04568.html#ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f", null ],
-      [ "LOG_LEVEL_WARN", "dd/d7a/a04568.html#ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4", null ],
-      [ "LOG_LEVEL_INFO", "dd/d7a/a04568.html#ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4", null ],
-      [ "LOG_LEVEL_DEBUG", "dd/d7a/a04568.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177", null ],
-      [ "LOG_LEVEL_TRACE", "dd/d7a/a04568.html#ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d", null ],
-      [ "NUM_ENABLED_LOG_LEVELS", "dd/d7a/a04568.html#ad26ed09e30f81a5d2172b4793a3f2781a02115b12f9d2c08405f3ea32fb8dea7d", null ],
-      [ "LOG_LEVEL_INVALID", "dd/d7a/a04568.html#ad26ed09e30f81a5d2172b4793a3f2781a385a9fffad0d67363b55e833e0395c96", null ]
-    ] ]
+    [ "TypeContainerVisitor< VISITOR, TYPE_CONTAINER >", "d2/d2a/a05636.html", "d2/d2a/a05636" ],
+    [ "VisitorHelper", "dd/d7a/a04568.html#afb97c1925d9afe2b9cb0f316b722b286", null ],
+    [ "VisitorHelper", "dd/d7a/a04568.html#a3c05d024f0dd548fe51e8d8657cdb9b8", null ],
+    [ "VisitorHelper", "dd/d7a/a04568.html#ab2c2dfc68b7d3ba945e400be7066f94c", null ],
+    [ "VisitorHelper", "dd/d7a/a04568.html#a2bba031b226b147ad62a069694924b83", null ],
+    [ "VisitorHelper", "dd/d7a/a04568.html#a521e8e3b3a45439e572e9769ad39b512", null ],
+    [ "VisitorHelper", "dd/d7a/a04568.html#ace6180e67fbb6a46929af65480632388", null ],
+    [ "VisitorHelper", "dd/d7a/a04568.html#ac2220e2e1174a525d43b8449fd25a2e3", null ],
+    [ "VisitorHelper", "dd/d7a/a04568.html#a87fb6736f88af014249a28bf2a95df93", null ],
+    [ "VisitorHelper", "dd/d7a/a04568.html#a4160fec3fe29282a64569456f5ce1de6", null ],
+    [ "VisitorHelper", "dd/d7a/a04568.html#a3a47e8382377ca85476452be8786e00f", null ],
+    [ "VisitorHelper", "dd/d7a/a04568.html#a85da15ab4908f58ef09fcf703f3c01a6", null ],
+    [ "VisitorHelper", "dd/d7a/a04568.html#af508b246df1e278d5ebf32da50f4e2f9", null ],
+    [ "VisitorHelper", "dd/d7a/a04568.html#a3460133a0353fbe6d657e70e70653299", null ]
 ];

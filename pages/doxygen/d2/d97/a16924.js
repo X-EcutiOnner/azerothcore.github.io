@@ -1,6 +1,6 @@
 var a16924 =
 [
-    [ "boss_dreadscaleAI", "de/d96/a16928.html", "de/d96/a16928" ],
-    [ "boss_dreadscale", "d2/d97/a16924.html#ab3276e515419303358b0ee59bc92c12e", null ],
-    [ "GetAI", "d2/d97/a16924.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
+    [ "npc_toc_warriorAI", "de/d96/a16928.html", "de/d96/a16928" ],
+    [ "npc_toc_warrior", "d2/d97/a16924.html#a3e969be07603ef59389106769010660c", null ],
+    [ "GetAI", "d2/d97/a16924.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
 ];

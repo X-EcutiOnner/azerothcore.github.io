@@ -1,6 +1,5 @@
 var a13224 =
 [
-    [ "HandleProc", "db/d02/a13224.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
-    [ "PrepareAuraScript", "db/d02/a13224.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
-    [ "Register", "db/d02/a13224.html#a24df76ff0933685bade58deff98856d2", null ]
+    [ "at_karazhan_mirkblood_approach", "db/d02/a13224.html#a032600991e9fc1aaf026adf2e63314e5", null ],
+    [ "OnTrigger", "db/d02/a13224.html#aaece848faa4f1086ac0b16802a1e765e", null ]
 ];

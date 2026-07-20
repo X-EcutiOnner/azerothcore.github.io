@@ -1,5 +1,8 @@
 var a17244 =
 [
-    [ "at_hor_battered_hilt_throw", "d5/d9f/a17244.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
-    [ "OnTrigger", "d5/d9f/a17244.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
+    [ "npc_fos_leaderAI", "d0/dcf/a17248.html", "d0/dcf/a17248" ],
+    [ "npc_fos_leader", "d5/d9f/a17244.html#a4223072bc180e990ff9e01bf772def5b", null ],
+    [ "GetAI", "d5/d9f/a17244.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
+    [ "OnGossipHello", "d5/d9f/a17244.html#a3858054505d439902624378b9355f40d", null ],
+    [ "OnGossipSelect", "d5/d9f/a17244.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
 ];

@@ -1,6 +1,7 @@
 var a11952 =
 [
-    [ "CheckProcHandler", "d8/deb/a11952.html#a1b5bfc85cb9a81a64ebd4b769e3d3651", null ],
-    [ "Call", "d8/deb/a11952.html#a977558dc8838a05259effc268235696a", null ],
-    [ "_HandlerScript", "d8/deb/a11952.html#abcb28d1a2f32402511c1e659b2f3b443", null ]
+    [ "CategoryRecoveryTime", "d8/deb/a11952.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
+    [ "RecoveryTime", "d8/deb/a11952.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
+    [ "StartRecoveryCategory", "d8/deb/a11952.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
+    [ "StartRecoveryTime", "d8/deb/a11952.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
 ];

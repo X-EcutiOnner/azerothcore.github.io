@@ -1,6 +1,10 @@
 var a27160 =
 [
-    [ "HandleDummy", "db/d1b/a27160.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
-    [ "PrepareSpellScript", "db/d1b/a27160.html#a6c2b858c893ed215d1192073b06db81d", null ],
-    [ "Register", "db/d1b/a27160.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
+    [ "HandleProc", "db/d1b/a27160.html#af7ed59bccd5a9db04e37753e813377b6", null ],
+    [ "OnRemove", "db/d1b/a27160.html#a7dbe609ad8ced19cfa2b5625ed2a3923", null ],
+    [ "PrepareAuraScript", "db/d1b/a27160.html#a2280ebe1a928d0962c7f67e22405db18", null ],
+    [ "Register", "db/d1b/a27160.html#a1e53dfab9d98846d404ea7f57555c941", null ],
+    [ "SetRedirectTarget", "db/d1b/a27160.html#a6ed3efbadf6936d9c2f81ab1b97595ab", null ],
+    [ "Validate", "db/d1b/a27160.html#ad371bd41e4653c0a8b729321dbc830a1", null ],
+    [ "_redirectTarget", "db/d1b/a27160.html#a9baf177530d3096f06e8f37220cfb0fa", null ]
 ];

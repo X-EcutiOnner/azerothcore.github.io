@@ -1,6 +1,7 @@
 var a26668 =
 [
-    [ "HandleScriptEffect", "da/dc6/a26668.html#ab958c74ba8b40488751e5137eb0b6a66", null ],
-    [ "PrepareSpellScript", "da/dc6/a26668.html#a810fcbfe27f3c6991d1c5f599609b6f7", null ],
-    [ "Register", "da/dc6/a26668.html#a12c61c9057250f12ea50be74ba74c948", null ]
+    [ "FilterTargets", "da/dc6/a26668.html#ad679149423fda97ad5744318520022b1", null ],
+    [ "PrepareSpellScript", "da/dc6/a26668.html#ac57c48690c5ad1b907f56287aee949a4", null ],
+    [ "Register", "da/dc6/a26668.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
+    [ "Validate", "da/dc6/a26668.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
 ];

@@ -1,6 +1,6 @@
 var a18916 =
 [
-    [ "npc_captain_brandonAI", "d7/d66/a18916.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "d7/d66/a18916.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "d7/d66/a18916.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "npc_gluttonous_abominationAI", "d1/d85/a18920.html", "d1/d85/a18920" ],
+    [ "npc_gluttonous_abomination", "d7/d66/a18916.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
+    [ "GetAI", "d7/d66/a18916.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
 ];

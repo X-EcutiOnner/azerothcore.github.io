@@ -1,11 +1,7 @@
 var a17336 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "d3/d36/a17336.html#a51769d22a4cb448fae90d827e2494581", null ],
-    [ "MovementInform", "d3/d36/a17336.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
-    [ "SetData", "d3/d36/a17336.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
-    [ "UpdateAI", "d3/d36/a17336.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
-    [ "deathbringerGUID", "d3/d36/a17336.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
-    [ "events", "d3/d36/a17336.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
-    [ "killsLeft", "d3/d36/a17336.html#ac81d85e0ceb0b571373f44475baa36df", null ],
-    [ "pInstance", "d3/d36/a17336.html#a44460335986bcedf35dc295c242df6da", null ]
+    [ "npc_hor_leader_secondAI", "d2/d9c/a17340.html", "d2/d9c/a17340" ],
+    [ "npc_hor_leader_second", "d3/d36/a17336.html#a9fa1f38ab8a0b5d2207857b75e272ee0", null ],
+    [ "GetAI", "d3/d36/a17336.html#af5b97ecca35501a75658919d384a18f7", null ],
+    [ "OnGossipSelect", "d3/d36/a17336.html#a8355f7f2f8e7655c7ebc7145a847ab87", null ]
 ];

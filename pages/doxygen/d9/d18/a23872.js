@@ -1,8 +1,11 @@
 var a23872 =
 [
-    [ "CreatureId", "d9/d18/a23872.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "d9/d18/a23872.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "d9/d18/a23872.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "d9/d18/a23872.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "d9/d18/a23872.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "npc_aeranasAI", "d9/d18/a23872.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "JustReachedHome", "d9/d18/a23872.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
+    [ "Reset", "d9/d18/a23872.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "d9/d18/a23872.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "_defeated", "d9/d18/a23872.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
+    [ "envelopingWinds_Timer", "d9/d18/a23872.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "d9/d18/a23872.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "d9/d18/a23872.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

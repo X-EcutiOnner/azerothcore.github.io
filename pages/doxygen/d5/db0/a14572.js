@@ -1,7 +1,6 @@
 var a14572 =
 [
-    [ "GetEmptyEntry", "d5/db0/a14572.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "d5/db0/a14572.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "d5/db0/a14572.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "d5/db0/a14572.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "LaunchHit", "d5/db0/a14572.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
+    [ "PrepareSpellScript", "d5/db0/a14572.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
+    [ "Register", "d5/db0/a14572.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
 ];

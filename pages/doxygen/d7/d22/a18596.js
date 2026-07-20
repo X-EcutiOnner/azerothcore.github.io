@@ -1,10 +1,8 @@
 var a18596 =
 [
-    [ "HandleScript", "d7/d22/a18596.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
-    [ "Load", "d7/d22/a18596.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
-    [ "PrepareSpellScript", "d7/d22/a18596.html#afcc1efc69d73086a9ab686855911e516", null ],
-    [ "Register", "d7/d22/a18596.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
-    [ "ReplaceTarget", "d7/d22/a18596.html#a01cb7d25bef14a2266d81594544f6283", null ],
-    [ "SelectTarget", "d7/d22/a18596.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
-    [ "_target", "d7/d22/a18596.html#a3a84a9d7109845d201b395f05f66d109", null ]
+    [ "HeightDifferenceCheck", "d7/d22/a18596.html#aa8b61811e435cce456e5cb1d798be66e", null ],
+    [ "operator()", "d7/d22/a18596.html#a1db203642683f85176f2a35eb3d10c34", null ],
+    [ "_baseObject", "d7/d22/a18596.html#a7c274be02ca58429dffaee2ea34153c6", null ],
+    [ "_difference", "d7/d22/a18596.html#af95e2bf67c8316dda982896978c45a68", null ],
+    [ "_reverse", "d7/d22/a18596.html#a89074844d5fd8b02ed99c09ac4cc5b85", null ]
 ];

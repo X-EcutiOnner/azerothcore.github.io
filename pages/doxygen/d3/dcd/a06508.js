@@ -1,9 +1,10 @@
 var a06508 =
 [
-    [ "AISpellInfoType", "d3/dcd/a06508.html#a3b6d2057522e7b79c87a16d4b9cced98", null ],
-    [ "condition", "d3/dcd/a06508.html#af357bcc7eaeaf88a107a6309c468d53d", null ],
-    [ "cooldown", "d3/dcd/a06508.html#a6ea49fdc98ece29ceee63352424e9366", null ],
-    [ "maxRange", "d3/dcd/a06508.html#ab421f918f3cb479d2d0390cd98cdeae3", null ],
-    [ "realCooldown", "d3/dcd/a06508.html#a3ee8081ca5749ef9b5991a5505104ee9", null ],
-    [ "target", "d3/dcd/a06508.html#a8f9c1d3fbbabc73f4b47ffe21e7a06c4", null ]
+    [ "DefaultTargetSelector", "d3/dcd/a06508.html#a4ec61d03309c7d8a977afb2060b549a3", null ],
+    [ "operator()", "d3/dcd/a06508.html#aa028e0b06c45bc1eaaa8ca0bb2208a35", null ],
+    [ "except", "d3/dcd/a06508.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e", null ],
+    [ "m_aura", "d3/dcd/a06508.html#a93cae8f794de101a6a0a821961c312b8", null ],
+    [ "m_dist", "d3/dcd/a06508.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f", null ],
+    [ "m_playerOnly", "d3/dcd/a06508.html#aa7d50214f6fcb051279373e3373a6f68", null ],
+    [ "me", "d3/dcd/a06508.html#a4e468ce5a085ef402659db46f71d6262", null ]
 ];

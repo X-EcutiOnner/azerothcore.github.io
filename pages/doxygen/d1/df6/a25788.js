@@ -1,6 +1,8 @@
 var a25788 =
 [
-    [ "CheckCast", "d1/df6/a25788.html#a5e32bb12dd6a4feedf88b73e18dc57cc", null ],
-    [ "PrepareSpellScript", "d1/df6/a25788.html#ae6b0bc8d2a443b805b44f49d79ccc949", null ],
-    [ "Register", "d1/df6/a25788.html#a2ef6ded94a244c51ed71315b39e85636", null ]
+    [ "HandleProc", "d1/df6/a25788.html#ad92c7804b26bd29d135e55c8adad9093", null ],
+    [ "OnRemove", "d1/df6/a25788.html#afa8e065ed835243f3ebb95c10792adf8", null ],
+    [ "PrepareAuraScript", "d1/df6/a25788.html#a5e986f77b23fd0402089ea36f0360c79", null ],
+    [ "Register", "d1/df6/a25788.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
+    [ "Validate", "d1/df6/a25788.html#a51f81afec6ff0918530208d9de9dae24", null ]
 ];

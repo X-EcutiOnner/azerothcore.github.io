@@ -1,5 +1,6 @@
 var a18844 =
 [
-    [ "achievement_portal_jockey", "d5/d57/a18844.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
-    [ "OnCheck", "d5/d57/a18844.html#a2695b1fee353be7340f319c632a43efc", null ]
+    [ "boss_valithria_dreamwalkerAI", "db/d27/a18848.html", "db/d27/a18848" ],
+    [ "boss_valithria_dreamwalker", "d5/d57/a18844.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
+    [ "GetAI", "d5/d57/a18844.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
 ];

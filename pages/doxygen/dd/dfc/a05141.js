@@ -1,5 +1,8 @@
 var a05141 =
 [
-    [ "MDDF", "d8/dc7/a29923.html", "d8/dc7/a29923" ],
-    [ "MODF", "db/d7b/a29927.html", "db/d7b/a29927" ]
+    [ "ByteSize", "d1/d7d/a11448.html", "d1/d7d/a11448" ],
+    [ "Hyperlinks", "d8/d0c/a11456.html", "d8/d0c/a11456" ],
+    [ "NoHyperlinks", "dd/d25/a11460.html", "dd/d25/a11460" ],
+    [ "RawBytes", "d7/dbc/a11444.html", "d7/dbc/a11444" ],
+    [ "Utf8", "d7/dd8/a11452.html", "d7/dd8/a11452" ]
 ];

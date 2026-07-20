@@ -1,8 +1,14 @@
 var a10156 =
 [
-    [ "PositionFullTerrainStatus", "df/d4c/a10156.html#ae0349ed89530b35af91b7b1862acaffe", null ],
-    [ "areaId", "df/d4c/a10156.html#ac04966fa31b30f341a937906223463d4", null ],
-    [ "floorZ", "df/d4c/a10156.html#abbd186ca681e532d567b5a221a62c02b", null ],
-    [ "liquidInfo", "df/d4c/a10156.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
-    [ "outdoors", "df/d4c/a10156.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
+    [ "DoublePosition", "df/d4c/a10156.html#a59190a2456f052c6ffa6e181ced94a4f", null ],
+    [ "DoublePosition", "df/d4c/a10156.html#a9900e06c36c6ebc4edd0ba45264990b8", null ],
+    [ "DoublePosition", "df/d4c/a10156.html#a543ff52f7b278f68cc36ee880932e744", null ],
+    [ "GetDoubleExactDist2dSq", "df/d4c/a10156.html#ae17b4e695ff23a8ec323405801f2013a", null ],
+    [ "GetDoublePositionX", "df/d4c/a10156.html#a7c769d1762f99150a46ceaa2b2bfa8e8", null ],
+    [ "GetDoublePositionY", "df/d4c/a10156.html#a201096c85022d54b1d9dbe9264df901f", null ],
+    [ "GetDoublePositionZ", "df/d4c/a10156.html#a01fc3985229b6bd03e6d1da95f871c17", null ],
+    [ "sync", "df/d4c/a10156.html#a75e75187d6663591a39c87bc1086aebd", null ],
+    [ "DoublePosX", "df/d4c/a10156.html#a4f9ffbbe4396f3ec26a81139f5868e2e", null ],
+    [ "DoublePosY", "df/d4c/a10156.html#a90839893f3a58a72a07177d3eee1d691", null ],
+    [ "DoublePosZ", "df/d4c/a10156.html#a19af503e9623ccaeb032bfe9f0a0ed63", null ]
 ];

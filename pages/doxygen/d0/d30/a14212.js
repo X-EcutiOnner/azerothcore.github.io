@@ -1,5 +1,7 @@
 var a14212 =
 [
-    [ "entry", "d0/d30/a14212.html#ad7431eb64907aed0a03205a37c65a735", null ],
-    [ "pos", "d0/d30/a14212.html#ab60283e91e81c141f3b31218aa4442a3", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "d0/d30/a14212.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
+    [ "Reset", "d0/d30/a14212.html#a18de805428ce0954a5fbfffbf5975342", null ],
+    [ "UpdateAI", "d0/d30/a14212.html#a48b191d0812bfe3212511a52ef0df817", null ],
+    [ "_events", "d0/d30/a14212.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
 ];

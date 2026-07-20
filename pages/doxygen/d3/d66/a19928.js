@@ -1,6 +1,6 @@
 var a19928 =
 [
-    [ "PrepareSpellScript", "d3/d66/a19928.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
-    [ "RecalculateDamage", "d3/d66/a19928.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
-    [ "Register", "d3/d66/a19928.html#aac131aa2d2e5342cf0303b918a077b45", null ]
+    [ "boss_sjonnir_dwarfAI", "dd/d61/a19932.html", "dd/d61/a19932" ],
+    [ "boss_sjonnir_dwarf", "d3/d66/a19928.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
+    [ "GetAI", "d3/d66/a19928.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
 ];

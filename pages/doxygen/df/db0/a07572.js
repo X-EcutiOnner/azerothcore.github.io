@@ -1,15 +1,12 @@
 var a07572 =
 [
-    [ "ArenaSeasonRewardGroup", "df/db0/a07572.html#a128e78db84f099d91e21da77b2147e82", null ],
-    [ "operator==", "df/db0/a07572.html#a625ef69db8523e1a5e6e5ea16bdacc2f", null ],
-    [ "achievementRewards", "df/db0/a07572.html#a1b89c847e86b29671f86dbbef1c9a1b6", null ],
-    [ "criteriaType", "df/db0/a07572.html#a16261356df6f5aed35bc3ec06ab49560", null ],
-    [ "goldReward", "df/db0/a07572.html#a582c7d51c2ab4bb5cf0e45b773dd20ee", null ],
-    [ "itemRewards", "df/db0/a07572.html#a24e7afcf5a95fba7f2cdc5914baac392", null ],
-    [ "maxCriteria", "df/db0/a07572.html#aa3cf9a0ad2ed2170542ec360e61682e2", null ],
-    [ "minCriteria", "df/db0/a07572.html#a07507bd59265508a463aa328f343afa0", null ],
-    [ "rewardMailBody", "df/db0/a07572.html#afa55d982d4f2ef5f2eccf48ed305b649", null ],
-    [ "rewardMailSubject", "df/db0/a07572.html#a0574cf3fc910f13413ea7eb1c0f08166", null ],
-    [ "rewardMailTemplateID", "df/db0/a07572.html#ade97a1ea3355cd19aaf65ab80a26e4bf", null ],
-    [ "season", "df/db0/a07572.html#a2e6a5d2ca970d3921142b497d351c50f", null ]
+    [ "damageText", "df/db0/a07572.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
+    [ "destroyText", "df/db0/a07572.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
+    [ "entry", "df/db0/a07572.html#a58d0395a47190698d309e80d91358bb1", null ],
+    [ "o", "df/db0/a07572.html#a21238943701f594e1a5346193c895d33", null ],
+    [ "type", "df/db0/a07572.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
+    [ "WorldState", "df/db0/a07572.html#a4b4881aba2d297e125443f0c8ccab618", null ],
+    [ "x", "df/db0/a07572.html#a80ebabba7265753a05367a4c79f6450c", null ],
+    [ "y", "df/db0/a07572.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
+    [ "z", "df/db0/a07572.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
 ];

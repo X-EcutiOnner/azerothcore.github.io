@@ -1,6 +1,7 @@
 var a17148 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "de/d90/a17152.html", "de/d90/a17152" ],
-    [ "instance_forge_of_souls", "de/df8/a17148.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "de/df8/a17148.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "HandleScript", "de/df8/a17148.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
+    [ "PrepareSpellScript", "de/df8/a17148.html#a71b28156c628aacbc6cb481038c0e76c", null ],
+    [ "Register", "de/df8/a17148.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
+    [ "Validate", "de/df8/a17148.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
 ];

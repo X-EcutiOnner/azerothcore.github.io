@@ -1,5 +1,8 @@
 var a20296 =
 [
-    [ "achievement_i_could_say_that_this_cache_was_rare", "df/d07/a20296.html#a8ec1949d92f21fe57f967e510453da3e", null ],
-    [ "OnCheck", "df/d07/a20296.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
+    [ "npc_ulduar_saronite_animus", "df/d07/a20296.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
+    [ "JustDied", "df/d07/a20296.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
+    [ "UpdateAI", "df/d07/a20296.html#afc7899752e25669b37ab04b50fb2d604", null ],
+    [ "_instance", "df/d07/a20296.html#a6f2bf52c82185365efe88941b7922504", null ],
+    [ "timer", "df/d07/a20296.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
 ];

@@ -1,5 +1,6 @@
 var a18048 =
 [
-    [ "at_lady_deathwhisper_entrance", "d4/d6d/a18048.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
-    [ "OnTrigger", "d4/d6d/a18048.html#a769c838c94a88af5492057909d88f3de", null ]
+    [ "PrepareSpellScript", "d4/d6d/a18048.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
+    [ "Register", "d4/d6d/a18048.html#a651f52f7d242251ff69d100fd69376e4", null ],
+    [ "SelectTarget", "d4/d6d/a18048.html#aede083ebebe38deb5898ff028564ef95", null ]
 ];

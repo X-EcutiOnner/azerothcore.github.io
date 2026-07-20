@@ -1,15 +1,7 @@
 var a29216 =
 [
-    [ "DamageInfoStubBuilder", "db/dbd/a29216.html#a282b4f92722f9cf12358a9f603df6902", null ],
-    [ "Build", "db/dbd/a29216.html#ad50ac35ca7a10f0eb20383fbde4a54dc", null ],
-    [ "WithAbsorb", "db/dbd/a29216.html#a3533bbda604c4ed6ac467f28ecb60fbe", null ],
-    [ "WithAttackType", "db/dbd/a29216.html#a4fd9332aa42002056d3f9191cd4435d7", null ],
-    [ "WithBlock", "db/dbd/a29216.html#a81381d471627ddd6e86678551ca4ab5b", null ],
-    [ "WithDamage", "db/dbd/a29216.html#abf9d30cde831f2094a181a312bcfe9df", null ],
-    [ "WithHitMask", "db/dbd/a29216.html#a161f5ea9ae33541dfcfd600fc5546b20", null ],
-    [ "WithOriginalDamage", "db/dbd/a29216.html#a3265aa4aa273cc9ededb6c9673f6c9e3", null ],
-    [ "WithResist", "db/dbd/a29216.html#a76827724d8b8d780dc5d136ca01e51e6", null ],
-    [ "WithSchoolMask", "db/dbd/a29216.html#ab540fcb56c4034daea104a1b844bdb3a", null ],
-    [ "WithSpellInfo", "db/dbd/a29216.html#a681fe7d0c7f3b4136ad4ba2a662e6393", null ],
-    [ "_stub", "db/dbd/a29216.html#abf06c6b638dcd9489fa0e3d755433514", null ]
+    [ "ClassMask", "db/dbd/a29216.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
+    [ "petTalentMask", "db/dbd/a29216.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
+    [ "tabpage", "db/dbd/a29216.html#aa6389276582adeb4cae76c257734795c", null ],
+    [ "TalentTabID", "db/dbd/a29216.html#ae3a71c61223b59185365819164715dc2", null ]
 ];

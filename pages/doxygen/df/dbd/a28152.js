@@ -1,8 +1,5 @@
 var a28152 =
 [
-    [ "npc_chicken_cluckAI", "d5/dd6/a28156.html", "d5/dd6/a28156" ],
-    [ "npc_chicken_cluck", "df/dbd/a28152.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "df/dbd/a28152.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "df/dbd/a28152.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "df/dbd/a28152.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "go_veil_skith_cage", "df/dbd/a28152.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
+    [ "OnGossipHello", "df/dbd/a28152.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
 ];

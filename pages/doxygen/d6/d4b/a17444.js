@@ -1,7 +1,6 @@
 var a17444 =
 [
-    [ "HandleDummy", "d6/d4b/a17444.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
-    [ "PrepareSpellScript", "d6/d4b/a17444.html#a3ef0564565ea49265800422c835432b0", null ],
-    [ "Register", "d6/d4b/a17444.html#a7b685926a8d511397889616e97bbd563", null ],
-    [ "Validate", "d6/d4b/a17444.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
+    [ "npc_pos_after_first_bossAI", "d6/dfb/a17448.html", "d6/dfb/a17448" ],
+    [ "npc_pos_after_first_boss", "d6/d4b/a17444.html#a76ae57195ceca454928245f2db12f68c", null ],
+    [ "GetAI", "d6/d4b/a17444.html#a3f807335f79218ecc70c32f5496267a6", null ]
 ];

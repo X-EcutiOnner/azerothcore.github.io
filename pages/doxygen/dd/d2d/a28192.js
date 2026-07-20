@@ -1,6 +1,5 @@
 var a28192 =
 [
-    [ "npc_guardianAI", "d5/d40/a28196.html", "d5/d40/a28196" ],
-    [ "npc_guardian", "dd/d2d/a28192.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
-    [ "GetAI", "dd/d2d/a28192.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
+    [ "item_mysterious_egg", "dd/d2d/a28192.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
+    [ "OnExpire", "dd/d2d/a28192.html#a5ea72284626826b75819f89b3b91c540", null ]
 ];

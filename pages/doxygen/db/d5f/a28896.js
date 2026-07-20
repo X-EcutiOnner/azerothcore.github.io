@@ -1,5 +1,7 @@
 var a28896 =
 [
-    [ "content", "db/d5f/a28896.html#a936eb07adb8a41480dfc196127b7e5c0", null ],
-    [ "ID", "db/d5f/a28896.html#a1a33aff67b979c3c7a76c26debb5fc25", null ]
+    [ "Displayid", "db/d5f/a28896.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
+    [ "ExtendedDisplayInfoID", "db/d5f/a28896.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
+    [ "ModelId", "db/d5f/a28896.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
+    [ "scale", "db/d5f/a28896.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
 ];

@@ -1,11 +1,5 @@
 var a10948 =
 [
-    [ "BackgroundColor", "d9/d74/a10948.html#abab86dd497de86088873178bf1d54b5b", null ],
-    [ "BorderColor", "d9/d74/a10948.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
-    [ "BorderStyle", "d9/d74/a10948.html#acd5105c31e0f56e680f3384e86186872", null ],
-    [ "EmblemColor", "d9/d74/a10948.html#a2e8a4768292d3566bb61009056a8a230", null ],
-    [ "EmblemStyle", "d9/d74/a10948.html#aa6309467f9f09725a8698de864b4e63c", null ],
-    [ "GuildName", "d9/d74/a10948.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
-    [ "RankCount", "d9/d74/a10948.html#acddb77850a86348df197afc724c4eaa0", null ],
-    [ "Ranks", "d9/d74/a10948.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
+    [ "LogoutComplete", "d9/d74/a10948.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
+    [ "Write", "d9/d74/a10948.html#a0d958bc07b674ed3339833351fec7d3a", null ]
 ];

@@ -1,11 +1,14 @@
 var a12592 =
 [
-    [ "boss_gyth", "db/d68/a12592.html#a18fea0e0fb6c734b818bb8989b1e66c9", null ],
-    [ "EnterEvadeMode", "db/d68/a12592.html#a172ea902e3bd162bf8fe8b23e7b9dcfa", null ],
-    [ "IsSummonedBy", "db/d68/a12592.html#ad7c64e772a8959ad0e58fc13512e0088", null ],
-    [ "JustDied", "db/d68/a12592.html#a305bf5c4913f429b44592e4a7e99b8ae", null ],
-    [ "JustEngagedWith", "db/d68/a12592.html#a16de6cf7e2925fd49df6a412c6df9533", null ],
-    [ "JustSummoned", "db/d68/a12592.html#aab0152a90a341839279cb6d0e7e19eb6", null ],
-    [ "Reset", "db/d68/a12592.html#aef0345d29833b13045b374a219335018", null ],
-    [ "UpdateAI", "db/d68/a12592.html#a8829ad229ee09aea55f9603058d095e8", null ]
+    [ "boss_galvangarAI", "db/d68/a12592.html#a34a0cacc52749bd1146fcb779d006b3b", null ],
+    [ "JustEngagedWith", "db/d68/a12592.html#ac1898cea6887fcfa182aa8a7a535c462", null ],
+    [ "JustRespawned", "db/d68/a12592.html#a92139ad3720ba662f87c0b55ac77dbeb", null ],
+    [ "Reset", "db/d68/a12592.html#a96e1a262f368ab0f6885e955133b7ae8", null ],
+    [ "UpdateAI", "db/d68/a12592.html#a2e5c7511cce7dd0ff27e13cda9807928", null ],
+    [ "CleaveTimer", "db/d68/a12592.html#ae2f943d7e08b5ca508518cd19c675be9", null ],
+    [ "FrighteningShoutTimer", "db/d68/a12592.html#a6f62f62ffa1c06baa2649901f02d13dc", null ],
+    [ "MortalStrikeTimer", "db/d68/a12592.html#acbfa384508002ba9505d280c448f1f0e", null ],
+    [ "ResetTimer", "db/d68/a12592.html#aaeff7d8bffb2ddcef5591c2c9be22ae2", null ],
+    [ "Whirlwind1Timer", "db/d68/a12592.html#a1e1b3d242ad06e6b8b2e48fbc135b3c5", null ],
+    [ "Whirlwind2Timer", "db/d68/a12592.html#adb5a2609f1f065fe7a737b8da2d4aef4", null ]
 ];

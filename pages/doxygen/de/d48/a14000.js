@@ -1,6 +1,8 @@
 var a14000 =
 [
-    [ "npc_corporal_keeshanAI", "de/d32/a14004.html", "de/d32/a14004" ],
-    [ "npc_corporal_keeshan", "de/d48/a14000.html#a0ca9459a7f283e040f14e0052762f587", null ],
-    [ "GetAI", "de/d48/a14000.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
+    [ "HandleEffectApply", "de/d48/a14000.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
+    [ "HandleEffectRemove", "de/d48/a14000.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
+    [ "Load", "de/d48/a14000.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
+    [ "PrepareAuraScript", "de/d48/a14000.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
+    [ "Register", "de/d48/a14000.html#a6a90296c9903ce65913f3bba29dea176", null ]
 ];

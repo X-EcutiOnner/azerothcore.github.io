@@ -1,5 +1,7 @@
 var a27616 =
 [
-    [ "achievement_bg_ic_resource_glut", "d1/dd0/a27616.html#ace247962dccee2601ceade593b0874d4", null ],
-    [ "OnCheck", "d1/dd0/a27616.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
+    [ "HandleProc", "d1/dd0/a27616.html#a9296b52700f070af311047166f6a913b", null ],
+    [ "PrepareAuraScript", "d1/dd0/a27616.html#a067cc24e65f79bab10b9d1258fad3460", null ],
+    [ "Register", "d1/dd0/a27616.html#affbd8840159048b6ea55ab98900d38c0", null ],
+    [ "Validate", "d1/dd0/a27616.html#a31af0dd20daa2892f7c0a6baf2bf4485", null ]
 ];

@@ -1,8 +1,12 @@
 var a10296 =
 [
-    [ "AbstractFollower", "db/def/a10296.html#a08d292896f2419dd73ae68c8e1238d4b", null ],
-    [ "~AbstractFollower", "db/def/a10296.html#acb394f5326ab5ea5146c79788a085647", null ],
-    [ "GetTarget", "db/def/a10296.html#a43f037557454528a956c379d9efb42ac", null ],
-    [ "SetTarget", "db/def/a10296.html#ad49748abec4bb2fe06cc8ba2699bdbd0", null ],
-    [ "_target", "db/def/a10296.html#aa4e43d8e60442eee41398648fd7fd45d", null ]
+    [ "TransportTemplate", "db/def/a10296.html#aef4781a37808827e3ceaffc782c3af1e", null ],
+    [ "~TransportTemplate", "db/def/a10296.html#afc385d824c171d13a184bc0a16121110", null ],
+    [ "accelDist", "db/def/a10296.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
+    [ "accelTime", "db/def/a10296.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
+    [ "entry", "db/def/a10296.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
+    [ "inInstance", "db/def/a10296.html#a971c84762c229b01cab656945f0c16de", null ],
+    [ "keyFrames", "db/def/a10296.html#ac714531f226ca06c3586cf3f6cc06808", null ],
+    [ "mapsUsed", "db/def/a10296.html#a93899b0648871ed8ca32dfe8394347c1", null ],
+    [ "pathTime", "db/def/a10296.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
 ];

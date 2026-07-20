@@ -1,6 +1,9 @@
 var a23748 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "da/dc2/a23752.html", "da/dc2/a23752" ],
-    [ "npc_creditmarker_visit_with_ancestors", "d2/dbe/a23748.html#a60f7abac7198d8504d944828dceb1ffa", null ],
-    [ "GetAI", "d2/dbe/a23748.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
+    [ "instance_the_eye_InstanceMapScript", "d2/dbe/a23748.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
+    [ "GetGuidData", "d2/dbe/a23748.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
+    [ "OnGameObjectCreate", "d2/dbe/a23748.html#a56c6933c2c231c228ca147107fbfc930", null ],
+    [ "BridgeWindowGUID", "d2/dbe/a23748.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
+    [ "KaelStateLeftGUID", "d2/dbe/a23748.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
+    [ "KaelStateRightGUID", "d2/dbe/a23748.html#a25ba703325800d2976eff860437f3d57", null ]
 ];

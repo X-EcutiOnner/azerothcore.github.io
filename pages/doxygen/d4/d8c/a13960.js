@@ -1,6 +1,7 @@
 var a13960 =
 [
-    [ "x", "d4/d8c/a13960.html#afeb59642abc7d5114668b2c27e315228", null ],
-    [ "y", "d4/d8c/a13960.html#a3e2454dd579de689289003a343e7f29c", null ],
-    [ "z", "d4/d8c/a13960.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
+    [ "HandleAfterCast", "d4/d8c/a13960.html#a251ddadd9d26039da542c402e4ee254f", null ],
+    [ "PrepareSpellScript", "d4/d8c/a13960.html#a91114aeb4f917ec5138a0c7b20688174", null ],
+    [ "Register", "d4/d8c/a13960.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
+    [ "Validate", "d4/d8c/a13960.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
 ];

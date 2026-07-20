@@ -1,6 +1,6 @@
 var a18372 =
 [
-    [ "FilterTargets", "dd/da3/a18372.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
-    [ "PrepareSpellScript", "dd/da3/a18372.html#a24466e7a04722cc7559b086f89d2edc8", null ],
-    [ "Register", "dd/da3/a18372.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
+    [ "ExtraRemoveEffect", "dd/da3/a18372.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
+    [ "PrepareAuraScript", "dd/da3/a18372.html#a41992ed6c23275d3a910915755b682f9", null ],
+    [ "Register", "dd/da3/a18372.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
 ];

@@ -1,8 +1,10 @@
 var a21960 =
 [
-    [ "npc_freed_protodrakeAI", "d3/d44/a21960.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "d3/d44/a21960.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "d3/d44/a21960.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "d3/d44/a21960.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "d3/d44/a21960.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "npc_infra_green_bomber_genericAI", "d3/d44/a21960.html#aed712ea3625971e059e2ecd158227287", null ],
+    [ "DamageTaken", "d3/d44/a21960.html#a8f860368df96e430b441c8316db99c93", null ],
+    [ "GetSummoner", "d3/d44/a21960.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
+    [ "IsSummonedBy", "d3/d44/a21960.html#a79676717b7c6219ea74ebe5a580eab28", null ],
+    [ "SpreadFire", "d3/d44/a21960.html#a5727c839b7dd02ea64eccce3606688d1", null ],
+    [ "UpdateAI", "d3/d44/a21960.html#a252875777655e963965676a24c15e766", null ],
+    [ "events", "d3/d44/a21960.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
 ];

@@ -1,13 +1,10 @@
 var a15096 =
 [
-    [ "boss_infinite_corruptorAI", "d1/db8/a15096.html#add36192941eaabf7f3d1d41c572783bd", null ],
-    [ "DoAction", "d1/db8/a15096.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
-    [ "JustDied", "d1/db8/a15096.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
-    [ "JustEngagedWith", "d1/db8/a15096.html#a644725505db4fc7a98c4255d0eb34616", null ],
-    [ "JustSummoned", "d1/db8/a15096.html#a2b12c03184b169a56a0e6696a107dc35", null ],
-    [ "Reset", "d1/db8/a15096.html#a4dbff495bfcda6fb715dec68616e1764", null ],
-    [ "UpdateAI", "d1/db8/a15096.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
-    [ "beamTimer", "d1/db8/a15096.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
-    [ "events", "d1/db8/a15096.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
-    [ "summons", "d1/db8/a15096.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
+    [ "boss_anetheron", "d1/db8/a15096.html#a6c103caa3f137756599a75bff03a6648", null ],
+    [ "DoAction", "d1/db8/a15096.html#a2fd485de26c820fec5240f9141a09964", null ],
+    [ "JustDied", "d1/db8/a15096.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
+    [ "JustEngagedWith", "d1/db8/a15096.html#aa34ac87ad4014fbecb481be7896c577c", null ],
+    [ "JustSummoned", "d1/db8/a15096.html#af9c156e28c7eca710d8367bd2a99387d", null ],
+    [ "KilledUnit", "d1/db8/a15096.html#a4471af823278a3664574729bf5c749be", null ],
+    [ "PathEndReached", "d1/db8/a15096.html#a75ed708e2769a77defa5c9a0b22dcae9", null ]
 ];

@@ -1,12 +1,6 @@
 var a18564 =
 [
-    [ "npc_raging_spiritAI", "d8/d26/a18564.html#a1c85351ae62d5f45381214373e64aec4", null ],
-    [ "AttackStart", "d8/d26/a18564.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
-    [ "CanAIAttack", "d8/d26/a18564.html#a64fa46f05861d8736d881aa3687f4320", null ],
-    [ "IsSummonedBy", "d8/d26/a18564.html#a836d605f4320ba9fd49cb60d6a1e032d", null ],
-    [ "JustDied", "d8/d26/a18564.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
-    [ "Reset", "d8/d26/a18564.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
-    [ "UpdateAI", "d8/d26/a18564.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
-    [ "_events", "d8/d26/a18564.html#af5783316983b622f20d8c677f2858111", null ],
-    [ "_instance", "d8/d26/a18564.html#aaa9b5728fcdb379849434385b3501251", null ]
+    [ "DefileTargetSelector", "d8/d26/a18564.html#a9c13a04378d6550dd135d2cb41c9bc1c", null ],
+    [ "operator()", "d8/d26/a18564.html#a2ffea7bb2c62e0fa069e3d1ffec3ab11", null ],
+    [ "_source", "d8/d26/a18564.html#a427b4304b5a93f26741eda90d20ff13b", null ]
 ];

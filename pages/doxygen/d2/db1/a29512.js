@@ -1,5 +1,5 @@
 var a29512 =
 [
-    [ "aura", "d2/db1/a29512.html#a6a57282648f4792e6dfaf4c892be90eb", null ],
-    [ "effect", "d2/db1/a29512.html#a24ce38279cb514bab8ef9924d93b5dfc", null ]
+    [ "SetUp", "d2/db1/a29512.html#aa33aaf63e128603a305fc5cfcd6d455a", null ],
+    [ "TearDown", "d2/db1/a29512.html#aa382128c47a08c27c9f2b0ed3958f9bf", null ]
 ];

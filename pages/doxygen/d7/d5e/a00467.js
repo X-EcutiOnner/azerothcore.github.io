@@ -1,6 +1,5 @@
 var a00467 =
 [
-    [ "DataHeader", "d7/d5e/a00467.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "ScarletMonasteryScriptName", "d7/d5e/a00467.html#ac64beb71a88e1265849782b79406b585", null ],
-    [ "GetScarletMonasteryAI", "d7/d5e/a00467.html#aecdcabc87b1cc31996b702fd11416f35", null ]
+    [ "GetAISpellInfo", "d7/d5e/a00467.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
+    [ "IsValidCombatTarget", "d7/d5e/a00467.html#a981f03ba3b8c59eb1fa9d22df158ba19", null ]
 ];

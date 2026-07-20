@@ -1,10 +1,10 @@
 var a26696 =
 [
-    [ "GetTarget", "d0/dd1/a26696.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
-    [ "HandleEffectPeriodicPlatform", "d0/dd1/a26696.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
-    [ "HandleEffectPeriodicSelf", "d0/dd1/a26696.html#a2272a970ca5edca6f7353beb2279c29c", null ],
-    [ "PerformKick", "d0/dd1/a26696.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
-    [ "PrepareAuraScript", "d0/dd1/a26696.html#a489f1da8f8008db8f096470f28455ef9", null ],
-    [ "Register", "d0/dd1/a26696.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
-    [ "AuraEffectHandleModes", "d0/dd1/a26696.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
+    [ "CalculateAmount", "d0/dd1/a26696.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
+    [ "CheckDropCharge", "d0/dd1/a26696.html#a69bcdbce43cee47873a2ba54ff03d928", null ],
+    [ "HandleUpdateSpellclick", "d0/dd1/a26696.html#a89956d7f3a6404d5b60e46034867c82c", null ],
+    [ "InitializeAmount", "d0/dd1/a26696.html#a4b0656e78d748d974d6d77a43cfa7910", null ],
+    [ "PrepareAuraScript", "d0/dd1/a26696.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
+    [ "Register", "d0/dd1/a26696.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ],
+    [ "_remainingAmount", "d0/dd1/a26696.html#aa9a60ff01b89cb7c800d068e92c00ce3", null ]
 ];

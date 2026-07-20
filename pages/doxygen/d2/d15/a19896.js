@@ -1,8 +1,6 @@
 var a19896 =
 [
-    [ "go_celestial_planetarium_accessAI", "d2/d15/a19896.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
-    [ "GossipHello", "d2/d15/a19896.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
-    [ "UpdateAI", "d2/d15/a19896.html#a9b2bfb74a12e3258476387fc78cde574", null ],
-    [ "_locked", "d2/d15/a19896.html#a37f83dbbb05e461d613a4c38001f785c", null ],
-    [ "events", "d2/d15/a19896.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
+    [ "boss_krystallusAI", "d4/dfa/a19900.html", "d4/dfa/a19900" ],
+    [ "boss_krystallus", "d2/d15/a19896.html#a1d7453c9d67594bfdbd650fea897666a", null ],
+    [ "GetAI", "d2/d15/a19896.html#aba14bcfa00a5d997959abd94af647bf4", null ]
 ];

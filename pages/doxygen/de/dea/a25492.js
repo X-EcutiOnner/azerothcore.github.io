@@ -1,7 +1,7 @@
 var a25492 =
 [
-    [ "CalculateDamageAmount", "de/dea/a25492.html#a2f608e8391e61434ef1b164c023854fe", null ],
-    [ "CalculateManaLeechAmount", "de/dea/a25492.html#a8a4946d1718d8045a72c92355ff38ecb", null ],
-    [ "PrepareAuraScript", "de/dea/a25492.html#a63d24d3ca4b2de1aa7f67376ded7bc59", null ],
-    [ "Register", "de/dea/a25492.html#aa6e74e89930fd3cc564c3cba86e3687e", null ]
+    [ "HandleDummy", "de/dea/a25492.html#a4b23e39151d0bced8bb729435a56352d", null ],
+    [ "Load", "de/dea/a25492.html#aaa341815d71652a13f3ca449af6ac14f", null ],
+    [ "PrepareSpellScript", "de/dea/a25492.html#ac0e7d279312a59dd62d7d91eb3ef82b7", null ],
+    [ "Register", "de/dea/a25492.html#a19a2247cebd2af38a1bd30af213ad633", null ]
 ];

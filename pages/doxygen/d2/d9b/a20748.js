@@ -1,8 +1,7 @@
 var a20748 =
 [
-    [ "Absorb", "d2/d9b/a20748.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
-    [ "CalculateAmount", "d2/d9b/a20748.html#afe50bf22d07e68757caffb056ad55811", null ],
-    [ "PrepareAuraScript", "d2/d9b/a20748.html#afa4ef1f7faa36a521c208dde10d09437", null ],
-    [ "Register", "d2/d9b/a20748.html#aae020936d42da81c445f7d296660987b", null ],
-    [ "Validate", "d2/d9b/a20748.html#a5852135c5214ee3938603632b0f21917", null ]
+    [ "OnRemove", "d2/d9b/a20748.html#ae99b372d0894e0c7aafc44f2a3cfac4f", null ],
+    [ "PrepareAuraScript", "d2/d9b/a20748.html#ae99f88a63656d0b48ca4b85548cc736b", null ],
+    [ "Register", "d2/d9b/a20748.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "Validate", "d2/d9b/a20748.html#a3d351d7e9ac022ea1bd912843fe66891", null ]
 ];

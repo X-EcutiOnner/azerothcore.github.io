@@ -1,7 +1,7 @@
 var a11264 =
 [
-    [ "SocketGems", "d0/d66/a11264.html#a29700bfeaee0bbfec3700d48c3d37dfd", null ],
-    [ "Read", "d0/d66/a11264.html#a0e3a56488604a59a8da0bb77a1b26681", null ],
-    [ "GemGuids", "d0/d66/a11264.html#acd8001a74aa4e2b4b7614c20e4ddfd5a", null ],
-    [ "ItemGuid", "d0/d66/a11264.html#a2be27cf0fdd4ed6e6b7a9618eebe8914", null ]
+    [ "AutoEquipItem", "d0/d66/a11264.html#a60accc2bf5c484753f94a8fe947e8f36", null ],
+    [ "Read", "d0/d66/a11264.html#a187bcedbc110adc332c0cb1de2bd7d9c", null ],
+    [ "SourceBag", "d0/d66/a11264.html#ad8fe37595168bc57fcd4af46bdbfafdc", null ],
+    [ "SourceSlot", "d0/d66/a11264.html#aee1f081b0775d7fc9eb67764a9249ec5", null ]
 ];

@@ -1,5 +1,7 @@
 var a27688 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "d6/d3a/a27688.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "d6/d3a/a27688.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "OnProc", "d6/d3a/a27688.html#a7ab183d734c543be2866c57f1e5cc508", null ],
+    [ "PrepareAuraScript", "d6/d3a/a27688.html#a31118cda9f29318f4620caf38c09522a", null ],
+    [ "Register", "d6/d3a/a27688.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
+    [ "Validate", "d6/d3a/a27688.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
 ];

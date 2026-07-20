@@ -1,7 +1,6 @@
 var a16268 =
 [
-    [ "HandleEffectRemove", "dd/d79/a16268.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
-    [ "PrepareAuraScript", "dd/d79/a16268.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
-    [ "Register", "dd/d79/a16268.html#a7c0533650e772713233ea45b0264cbff", null ],
-    [ "Validate", "dd/d79/a16268.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
+    [ "HandleApply", "dd/d79/a16268.html#aee4d5908035d06be2f1469a50db02e26", null ],
+    [ "PrepareAuraScript", "dd/d79/a16268.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
+    [ "Register", "dd/d79/a16268.html#ac83962bef84b68cef6d7937769730598", null ]
 ];

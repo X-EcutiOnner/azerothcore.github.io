@@ -1,6 +1,10 @@
 var a10984 =
 [
-    [ "GuildUpdateMotdText", "d7/dbd/a10984.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
-    [ "Read", "d7/dbd/a10984.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
-    [ "MotdText", "d7/dbd/a10984.html#a5b2ee458a919be7f912d49cf984490ac", null ]
+    [ "EnvironmentalDamageLog", "d7/dbd/a10984.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
+    [ "Write", "d7/dbd/a10984.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
+    [ "Absorbed", "d7/dbd/a10984.html#a443df04be3afe2021532716140ffb099", null ],
+    [ "Amount", "d7/dbd/a10984.html#a073e22176d44f5806313c2a4bd3e263a", null ],
+    [ "Resisted", "d7/dbd/a10984.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
+    [ "Type", "d7/dbd/a10984.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
+    [ "Victim", "d7/dbd/a10984.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
 ];

@@ -1,6 +1,7 @@
 var a25272 =
 [
-    [ "PrepareAuraScript", "d3/db9/a25272.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "d3/db9/a25272.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "d3/db9/a25272.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "ModDest", "d3/db9/a25272.html#afe0fb68de61a657ce6900e71973e4d77", null ],
+    [ "ModifyCookingSkill", "d3/db9/a25272.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
+    [ "PrepareSpellScript", "d3/db9/a25272.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
+    [ "Register", "d3/db9/a25272.html#a6919079b43a816eb601a68c51ad39794", null ]
 ];

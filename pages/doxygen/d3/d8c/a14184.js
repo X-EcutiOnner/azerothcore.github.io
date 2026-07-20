@@ -1,14 +1,13 @@
 var a14184 =
 [
-    [ "boss_hexlord_malacrass", "d3/d8c/a14184.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
-    [ "JustEngagedWith", "d3/d8c/a14184.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
-    [ "KilledUnit", "d3/d8c/a14184.html#a69e7a3aa2cb068706651bad34363099f", null ],
-    [ "Reset", "d3/d8c/a14184.html#af00159c9e2c54033f52f46d60881f22e", null ],
-    [ "ScheduleClassAbility", "d3/d8c/a14184.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
-    [ "SpawnAdds", "d3/d8c/a14184.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
-    [ "UseAbility", "d3/d8c/a14184.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
-    [ "_classAbilityTimer", "d3/d8c/a14184.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
-    [ "_creatureIndex", "d3/d8c/a14184.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
-    [ "_currentClass", "d3/d8c/a14184.html#ab7e531fccbb486b7b429d77d804841c2", null ],
-    [ "_timeUntilNextDrainPower", "d3/d8c/a14184.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d3/d8c/a14184.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
+    [ "JustDied", "d3/d8c/a14184.html#a410c84a1fcf50b50e6ebc340c1b58939", null ],
+    [ "JustEngagedWith", "d3/d8c/a14184.html#a36324482fb264cc3cacf11c3ed542eee", null ],
+    [ "JustSummoned", "d3/d8c/a14184.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
+    [ "Reset", "d3/d8c/a14184.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
+    [ "SetGUID", "d3/d8c/a14184.html#a10ecf7bf7551be186e1c00390eaad203", null ],
+    [ "UpdateAI", "d3/d8c/a14184.html#ab704e4f3af8aa734910efd259db31407", null ],
+    [ "_events", "d3/d8c/a14184.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
+    [ "LamentEvent", "d3/d8c/a14184.html#ace9e901a965665e0f97cb9646af308aa", null ],
+    [ "playerGUID", "d3/d8c/a14184.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
 ];

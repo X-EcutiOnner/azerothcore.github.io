@@ -1,7 +1,12 @@
 var a28572 =
 [
-    [ "npc_venomhide_hatchlingAI", "d2/d4b/a28576.html", "d2/d4b/a28576" ],
-    [ "npc_venomhide_hatchling", "d7/d5c/a28572.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
-    [ "GetAI", "d7/d5c/a28572.html#a96110b752965d751ab7b466c4f67e333", null ],
-    [ "OnGossipHello", "d7/d5c/a28572.html#a404d875592b847ddb9f3250c9d954bfc", null ]
+    [ "categoryId", "d7/d5c/a28572.html#a1de0e4302757f18c08b90b40e059737b", null ],
+    [ "count", "d7/d5c/a28572.html#a93aac150067979467f56d9919ff665a4", null ],
+    [ "flags", "d7/d5c/a28572.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
+    [ "ID", "d7/d5c/a28572.html#a843fee247948d02f7aaf04144cb37ef5", null ],
+    [ "mapID", "d7/d5c/a28572.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
+    [ "name", "d7/d5c/a28572.html#a806cfeddc475994f1b421679bd9699e6", null ],
+    [ "points", "d7/d5c/a28572.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
+    [ "refAchievement", "d7/d5c/a28572.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
+    [ "requiredFaction", "d7/d5c/a28572.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
 ];

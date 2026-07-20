@@ -1,15 +1,7 @@
 var a19632 =
 [
-    [ "boss_eregosAI", "da/d3b/a19632.html#a5b09dacbddd6075c2ebf4d62a387a8b6", null ],
-    [ "DamageTaken", "da/d3b/a19632.html#a7a4b4443aed576f080a56a27e15edfd4", null ],
-    [ "JustDied", "da/d3b/a19632.html#ade16be2804b857fc8e93a62d4be42380", null ],
-    [ "JustEngagedWith", "da/d3b/a19632.html#a1544782732beba5d7114c3bb70419ae1", null ],
-    [ "JustSummoned", "da/d3b/a19632.html#a33ef5a080e457f4e08e7997b467b0974", null ],
-    [ "KilledUnit", "da/d3b/a19632.html#a30ad32a4a63ae17eef4fc703a6749d38", null ],
-    [ "MoveInLineOfSight", "da/d3b/a19632.html#ac622481abb0190bdc7654b383766a9ed", null ],
-    [ "Reset", "da/d3b/a19632.html#aeec469c2c9d0ad27461478ee57c30c56", null ],
-    [ "UpdateAI", "da/d3b/a19632.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36", null ],
-    [ "events", "da/d3b/a19632.html#ae6f1f2e3146525596c3dbb646283b744", null ],
-    [ "pInstance", "da/d3b/a19632.html#abf0b366d7b0931ccc30711a33736dda8", null ],
-    [ "shiftNumber", "da/d3b/a19632.html#a16c90dba1f0a7f4cc2025e294dbac455", null ]
+    [ "npc_eoe_wyrmrest_skytalon", "da/d3b/a19632.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
+    [ "IsSummonedBy", "da/d3b/a19632.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
+    [ "JustDied", "da/d3b/a19632.html#a65df31829e801154ee20d55ad1c15721", null ],
+    [ "PassengerBoarded", "da/d3b/a19632.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
 ];

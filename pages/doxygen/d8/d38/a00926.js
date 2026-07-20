@@ -1,6 +1,4 @@
 var a00926 =
 [
-    [ "instance_hellfire_ramparts", "dc/d19/a23405.html", "dc/d19/a23405" ],
-    [ "instance_hellfire_ramparts::instance_hellfire_ramparts_InstanceMapScript", "df/dff/a23409.html", "df/dff/a23409" ],
-    [ "AddSC_instance_hellfire_ramparts", "d8/d38/a00926.html#a4172290a7e1e8ffcbf19519225978acf", null ]
+    [ "ScriptRegistry< PetScript >", "d8/d38/a00926.html#a24e9b0a598349bf70ac6cf5aa4e30043", null ]
 ];

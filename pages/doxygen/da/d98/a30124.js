@@ -1,4 +1,6 @@
 var a30124 =
 [
-    [ "ID", "da/d98/a30124.html#a11f792510d9749f99371234b15a45beb", null ]
+    [ "height", "da/d98/a30124.html#a7638f586a055c48a46e36471543ff72f", null ],
+    [ "unk1", "da/d98/a30124.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
+    [ "unk2", "da/d98/a30124.html#a394a04f6e985824aa259a42b11b97136", null ]
 ];

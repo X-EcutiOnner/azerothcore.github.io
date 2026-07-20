@@ -1,9 +1,10 @@
 var a08940 =
 [
-    [ "achievements", "da/d26/a08940.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
-    [ "items", "da/d26/a08940.html#a2873836588f37b9a5cf691da2b6fa715", null ],
-    [ "levelMax", "da/d26/a08940.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
-    [ "levelMin", "da/d26/a08940.html#a823016216268e13116a46bcb40ea0e70", null ],
-    [ "quests", "da/d26/a08940.html#a6150aa58762a13dcbfcb55507df77809", null ],
-    [ "reqItemLevel", "da/d26/a08940.html#a97f262e488e178dad0c33f228808f69e", null ]
+    [ "PvPInfo", "da/d26/a08940.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
+    [ "EndTimer", "da/d26/a08940.html#ae06b5030552c02f30fe8386633a753df", null ],
+    [ "FFAPvPEndTimer", "da/d26/a08940.html#a739dfc63dfe39429a44ea682d9120522", null ],
+    [ "IsHostile", "da/d26/a08940.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
+    [ "IsInFFAPvPArea", "da/d26/a08940.html#a8a654926248b3974587af1eb9c064d15", null ],
+    [ "IsInHostileArea", "da/d26/a08940.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
+    [ "IsInNoPvPArea", "da/d26/a08940.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
 ];

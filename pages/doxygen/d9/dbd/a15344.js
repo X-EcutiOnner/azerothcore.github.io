@@ -1,7 +1,6 @@
 var a15344 =
 [
-    [ "HandleScript", "d9/dbd/a15344.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
-    [ "Load", "d9/dbd/a15344.html#a2dc1edf537f58133fb4daabde9f43843", null ],
-    [ "PrepareSpellScript", "d9/dbd/a15344.html#ae856c6e70ededa95c0308596a9f980af", null ],
-    [ "Register", "d9/dbd/a15344.html#ac2e82c7e626658faa968f75c26688b43", null ]
+    [ "NpcRunToHome", "d9/dbd/a15344.html#ac190e89b494554e391e6ebd878d7f8e8", null ],
+    [ "Execute", "d9/dbd/a15344.html#a0da766e3bae0d8d97a46ef82b3873cc0", null ],
+    [ "_owner", "d9/dbd/a15344.html#a7dd38171a6e55665fc28a74212313e51", null ]
 ];

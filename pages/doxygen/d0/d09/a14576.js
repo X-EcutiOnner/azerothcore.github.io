@@ -1,9 +1,11 @@
 var a14576 =
 [
-    [ "CheckCast", "d0/d09/a14576.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
-    [ "FilterTargets", "d0/d09/a14576.html#a9638048b4107db116474abf8e18d7760", null ],
-    [ "HandleBeforeHit", "d0/d09/a14576.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
-    [ "HandleScriptEffect", "d0/d09/a14576.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
-    [ "PrepareSpellScript", "d0/d09/a14576.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
-    [ "Register", "d0/d09/a14576.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
+    [ "boss_marli", "d0/d09/a14576.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
+    [ "_chargePlayer", "d0/d09/a14576.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
+    [ "_schedulePhaseSpider", "d0/d09/a14576.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
+    [ "_schedulePhaseTroll", "d0/d09/a14576.html#ad6977930dac1cddd2162f7db1b239c83", null ],
+    [ "JustDied", "d0/d09/a14576.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
+    [ "JustEngagedWith", "d0/d09/a14576.html#ac74bd382c3dc826f7e4426bec3557094", null ],
+    [ "Reset", "d0/d09/a14576.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
+    [ "_phase", "d0/d09/a14576.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
 ];

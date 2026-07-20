@@ -1,6 +1,5 @@
 var a28544 =
 [
-    [ "npc_experience", "d3/d35/a28544.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "d3/d35/a28544.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "d3/d35/a28544.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "go_transport_the_purple_princess", "d3/d35/a28544.html#ab0c79197964857d578036693a2c18e8a", null ],
+    [ "EventInform", "d3/d35/a28544.html#ac5b73f1bea180797169138f8e9228783", null ]
 ];

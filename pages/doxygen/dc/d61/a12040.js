@@ -1,5 +1,6 @@
 var a12040 =
 [
-    [ "Name", "dc/d61/a12040.html#ac16bf9d80201e270ffb1571fb2e9fb02", null ],
-    [ "Type", "dc/d61/a12040.html#aeacac864bd23dcb7b24efc484810f592", null ]
+    [ "EffectCalcAmountHandler", "dc/d61/a12040.html#a4fe66bbf0433e80b602683a278e3a709", null ],
+    [ "Call", "dc/d61/a12040.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
+    [ "pEffectHandlerScript", "dc/d61/a12040.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
 ];

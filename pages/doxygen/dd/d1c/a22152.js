@@ -1,8 +1,7 @@
 var a22152 =
 [
-    [ "HandleApply", "dd/d1c/a22152.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "dd/d1c/a22152.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "dd/d1c/a22152.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "dd/d1c/a22152.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "dd/d1c/a22152.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "HandleOnEffectHit", "dd/d1c/a22152.html#a909ec44339061a114697cacee5fba5b2", null ],
+    [ "PrepareSpellScript", "dd/d1c/a22152.html#ac1bfb2b49cd335ca5961b984fadfffb8", null ],
+    [ "Register", "dd/d1c/a22152.html#aa241c97b4e895d07fe89d03edca29912", null ],
+    [ "Validate", "dd/d1c/a22152.html#aa84f4c29ca00789bb47661267549cda6", null ]
 ];

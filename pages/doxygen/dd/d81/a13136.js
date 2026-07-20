@@ -1,17 +1,15 @@
 var a13136 =
 [
-    [ "boss_dorothee", "dd/d81/a13136.html#a8bd5b4753c2d8f8aced0c036912f10f1", null ],
-    [ "DoAction", "dd/d81/a13136.html#a1b9cf1e58d68d249249a8b0d082b725a", null ],
-    [ "EnterEvadeMode", "dd/d81/a13136.html#a6dfc4109370d4e932e7376a443bd64ad", null ],
-    [ "JustDied", "dd/d81/a13136.html#a289dfa1f257ca25acba9487908e6223c", null ],
-    [ "JustEngagedWith", "dd/d81/a13136.html#aa35dafeb9faf8eeea55caa0eeb669db3", null ],
-    [ "JustReachedHome", "dd/d81/a13136.html#a762209d2bf78cc21c48a426732f2354e", null ],
-    [ "Reset", "dd/d81/a13136.html#ae3f123a6a9223b7928295812326b0cb4", null ],
-    [ "SummonedCreatureDies", "dd/d81/a13136.html#a0e76c828a1c7c49741963b6e98003a66", null ],
-    [ "SummonTito", "dd/d81/a13136.html#a5c04074aab40ecaeeb84b33205b40144", null ],
-    [ "UpdateAI", "dd/d81/a13136.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e", null ],
-    [ "_scheduler", "dd/d81/a13136.html#a840bcbad78ff881ef3a803ffa23d3c6e", null ],
-    [ "_startIntro", "dd/d81/a13136.html#a20e6555e2117a62fce3af7f7fb7167cc", null ],
-    [ "instance", "dd/d81/a13136.html#ac6a6f1c9074697f761e4e09550cfea71", null ],
-    [ "titoDied", "dd/d81/a13136.html#a258cc9ce32f314e723d5345ac18336bf", null ]
+    [ "boss_moroes", "dd/d81/a13136.html#ae477dcfd679dd7943ddd133bb0dd89df", null ],
+    [ "CheckGuestsInRoom", "dd/d81/a13136.html#ad34daa424532003e8da616aed3df6c82", null ],
+    [ "GetRandomGuest", "dd/d81/a13136.html#a73f4b3c1a3a46261cf62143f8359b55e", null ],
+    [ "InitializeGuests", "dd/d81/a13136.html#a815ca169e0787c92c09a5803007355aa", null ],
+    [ "JustDied", "dd/d81/a13136.html#a7d425d58b1e64ef174ff92e1263de544", null ],
+    [ "JustEngagedWith", "dd/d81/a13136.html#aa0bf31d8298b4ec6ce205cefd0766194", null ],
+    [ "KilledUnit", "dd/d81/a13136.html#a3d28056a0d26d426d84363fb0c4f7e4d", null ],
+    [ "Reset", "dd/d81/a13136.html#a677f2b8375981d904183dd804f4b32b8", null ],
+    [ "UpdateAI", "dd/d81/a13136.html#aa639032a49b3e9bd4209d17e0863db32", null ],
+    [ "_activeGuests", "dd/d81/a13136.html#a651f53f476f205785d596ed9d52fdb89", null ],
+    [ "_events2", "dd/d81/a13136.html#ae1c0474e0a940a803d82d3fe6d3ff37f", null ],
+    [ "_vanished", "dd/d81/a13136.html#a60d99b80815a2b2626638d6410ce64a2", null ]
 ];

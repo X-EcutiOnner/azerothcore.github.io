@@ -1,6 +1,14 @@
 var a13360 =
 [
-    [ "npc_a_special_surpriseAI", "d2/d50/a13364.html", "d2/d50/a13364" ],
-    [ "npc_a_special_surprise", "d0/d19/a13360.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
-    [ "GetAI", "d0/d19/a13360.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
+    [ "boss_priestess_delrissa", "d0/d19/a13360.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
+    [ "CheckInRoom", "d0/d19/a13360.html#afa963761e44412915a6d89f097f33b5d", null ],
+    [ "InitializeAI", "d0/d19/a13360.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
+    [ "JustDied", "d0/d19/a13360.html#a82d8c198f38c2aa881386e739dea6a08", null ],
+    [ "JustEngagedWith", "d0/d19/a13360.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
+    [ "JustSummoned", "d0/d19/a13360.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
+    [ "KilledUnit", "d0/d19/a13360.html#af0b41306f53c42745cce39069f446704", null ],
+    [ "Reset", "d0/d19/a13360.html#a60e39157aa3043284b2e1e032c0d9241", null ],
+    [ "SummonedCreatureDies", "d0/d19/a13360.html#a14757692ab4af5c1b5b311f059be9091", null ],
+    [ "HelpersKilled", "d0/d19/a13360.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
+    [ "PlayersKilled", "d0/d19/a13360.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
 ];

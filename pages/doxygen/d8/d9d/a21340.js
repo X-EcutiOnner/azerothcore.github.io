@@ -1,7 +1,19 @@
 var a21340 =
 [
-    [ "HandleEffectHit", "d8/d9d/a21340.html#a8d7dd2411c3b786e682260eb30862602", null ],
-    [ "PrepareSpellScript", "d8/d9d/a21340.html#a49b6d005013e480f8161779119bc9b2d", null ],
-    [ "Register", "d8/d9d/a21340.html#a017ae25fead98a5c18cdb83128085ddd", null ],
-    [ "Validate", "d8/d9d/a21340.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
+    [ "violet_hold_trashAI", "d8/d9d/a21340.html#a87011739810f39291655bc835f9995bd", null ],
+    [ "AttackStart", "d8/d9d/a21340.html#ab2d2157977ae2482217fa8ac344b30af", null ],
+    [ "ClearDoorSealAura", "d8/d9d/a21340.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
+    [ "CreatureStartAttackDoor", "d8/d9d/a21340.html#a1e64a9f7c82275969e099b5012a32924", null ],
+    [ "EnterEvadeMode", "d8/d9d/a21340.html#ab189607a468514d6c472ac40e6f3d85b", null ],
+    [ "InitializeAI", "d8/d9d/a21340.html#aef3db235b8e28b8e2728cb0f2fb59053", null ],
+    [ "JustDied", "d8/d9d/a21340.html#acd512cd3722a2edf0ca539272ded3c79", null ],
+    [ "JustEngagedWith", "d8/d9d/a21340.html#a16e7677aa9597dda938a67c51febde6c", null ],
+    [ "JustReachedHome", "d8/d9d/a21340.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
+    [ "MoveInLineOfSight", "d8/d9d/a21340.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
+    [ "UpdateAI", "d8/d9d/a21340.html#a8647797343650fcd4f6304bce3742883", null ],
+    [ "WaypointReached", "d8/d9d/a21340.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
+    [ "WaypointReached", "d8/d9d/a21340.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "Instance", "d8/d9d/a21340.html#a9ebdc7d8619de49dcd742a1c08005770", null ],
+    [ "PortalLoc", "d8/d9d/a21340.html#a17d81d130cfeff5b5ae0ee30c594f5ca", null ],
+    [ "UseAlternate", "d8/d9d/a21340.html#aa584f9f52bfc3e37a6d3a80958e51e48", null ]
 ];

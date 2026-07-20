@@ -1,7 +1,8 @@
 var a21736 =
 [
-    [ "npc_battle_at_valhalasAI", "d6/d04/a21740.html", "d6/d04/a21740" ],
-    [ "npc_battle_at_valhalas", "d2/d20/a21736.html#aacec717b5b91ae55307c9642779c15ec", null ],
-    [ "GetAI", "d2/d20/a21736.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
-    [ "OnQuestAccept", "d2/d20/a21736.html#addd76fd9f4b4f8ce706693614b80966b", null ]
+    [ "AfterApply", "d2/d20/a21736.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "d2/d20/a21736.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "d2/d20/a21736.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "d2/d20/a21736.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "d2/d20/a21736.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

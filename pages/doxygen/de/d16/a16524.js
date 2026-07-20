@@ -1,6 +1,6 @@
 var a16524 =
 [
-    [ "npc_living_infernoAI", "de/d16/a16524.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "de/d16/a16524.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "de/d16/a16524.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "npc_onyx_flamecallerAI", "dd/d1c/a16528.html", "dd/d1c/a16528" ],
+    [ "npc_onyx_flamecaller", "de/d16/a16524.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
+    [ "GetAI", "de/d16/a16524.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
 ];

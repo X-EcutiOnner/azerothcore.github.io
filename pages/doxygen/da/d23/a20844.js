@@ -1,5 +1,6 @@
 var a20844 =
 [
-    [ "AreaTrigger_at_celestial_planetarium_enterance", "da/d23/a20844.html#ae1503a754a05a77991d9955a2fb74265", null ],
-    [ "OnTrigger", "da/d23/a20844.html#aa7aa93e00170313de251af4e562c422c", null ]
+    [ "boss_yoggsaron_descend_portal", "da/d23/a20844.html#aa64788351819e9c7f5505c929818770d", null ],
+    [ "OnSpellClick", "da/d23/a20844.html#af72e8c3611b5e134e39ab9695405e08e", null ],
+    [ "_instance", "da/d23/a20844.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
 ];

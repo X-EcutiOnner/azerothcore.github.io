@@ -1,6 +1,8 @@
 var a14324 =
 [
-    [ "OnEffect", "d1/d35/a14324.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
-    [ "PrepareSpellScript", "d1/d35/a14324.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
-    [ "Register", "d1/d35/a14324.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
+    [ "FilterTargets", "d1/d35/a14324.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
+    [ "OnHit", "d1/d35/a14324.html#ac25886536c353f09838188362fb8ae84", null ],
+    [ "PrepareSpellScript", "d1/d35/a14324.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
+    [ "Register", "d1/d35/a14324.html#afa419365236c09914f758846978e2cbb", null ],
+    [ "Validate", "d1/d35/a14324.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
 ];

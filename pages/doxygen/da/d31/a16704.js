@@ -1,10 +1,16 @@
 var a16704 =
 [
-    [ "npc_nerubian_burrowerAI", "da/d31/a16704.html#a7673709e7b16a6573d9c7392ba556313", null ],
-    [ "CanAIAttack", "da/d31/a16704.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
-    [ "JustDied", "da/d31/a16704.html#ab5182ad65187c472b306e2177530d7b6", null ],
-    [ "Reset", "da/d31/a16704.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
-    [ "SpellHitTarget", "da/d31/a16704.html#a64fa2c8276f7418542190e833dd72c51", null ],
-    [ "UpdateAI", "da/d31/a16704.html#abd2c7333625ded502a00848b09ee9a40", null ],
-    [ "events", "da/d31/a16704.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
+    [ "npc_argent_soldierAI", "da/d31/a16704.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
+    [ "DamageTaken", "da/d31/a16704.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
+    [ "JustDied", "da/d31/a16704.html#aedf4dcd909c1009fedfde593522454ec", null ],
+    [ "JustEngagedWith", "da/d31/a16704.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
+    [ "Reset", "da/d31/a16704.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
+    [ "SetData", "da/d31/a16704.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
+    [ "UpdateAI", "da/d31/a16704.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
+    [ "WaypointReached", "da/d31/a16704.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
+    [ "WaypointReached", "da/d31/a16704.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "bCheck", "da/d31/a16704.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
+    [ "events", "da/d31/a16704.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
+    [ "pInstance", "da/d31/a16704.html#ac9951514f27f343ae96e856f484e7baf", null ],
+    [ "uiWaypoint", "da/d31/a16704.html#a87382571221c608017fd2d4cb99193dc", null ]
 ];

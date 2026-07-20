@@ -1,7 +1,6 @@
 var a28336 =
 [
-    [ "HandleDummy", "df/de2/a28336.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
-    [ "PrepareSpellScript", "df/de2/a28336.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
-    [ "Register", "df/de2/a28336.html#a3fda4d652c1264b3cfababdd98297c61", null ],
-    [ "Validate", "df/de2/a28336.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
+    [ "npc_dancing_flamesAI", "d1/d2a/a28340.html", "d1/d2a/a28340" ],
+    [ "npc_dancing_flames", "df/de2/a28336.html#adec0401f876ddf159f28fdda8bc4d563", null ],
+    [ "GetAI", "df/de2/a28336.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
 ];

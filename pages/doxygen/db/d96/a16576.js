@@ -1,9 +1,7 @@
 var a16576 =
 [
-    [ "npc_memoryAI", "db/d96/a16576.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "db/d96/a16576.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "db/d96/a16576.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "db/d96/a16576.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "db/d96/a16576.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "db/d96/a16576.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "HandlePeriodic", "db/d96/a16576.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
+    [ "PrepareAuraScript", "db/d96/a16576.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
+    [ "Register", "db/d96/a16576.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
+    [ "Validate", "db/d96/a16576.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
 ];

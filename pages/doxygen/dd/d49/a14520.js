@@ -1,7 +1,9 @@
 var a14520 =
 [
-    [ "FilterTargets", "dd/d49/a14520.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
-    [ "HandleEffect", "dd/d49/a14520.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
-    [ "PrepareSpellScript", "dd/d49/a14520.html#a08127992c96fb02e87e9ade65a5375d5", null ],
-    [ "Register", "dd/d49/a14520.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
+    [ "npc_healing_ward", "dd/d49/a14520.html#a3d3c35f61502d3a83cb2581119e08903", null ],
+    [ "JustEngagedWith", "dd/d49/a14520.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
+    [ "Reset", "dd/d49/a14520.html#a756d27a43d86c7ecde859df255c6bd62", null ],
+    [ "UpdateAI", "dd/d49/a14520.html#a8b8635af33ce814602206064e0815520", null ],
+    [ "_instance", "dd/d49/a14520.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
+    [ "_scheduler", "dd/d49/a14520.html#a0c62fe945b491cab76175217a7d10c06", null ]
 ];

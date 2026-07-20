@@ -1,7 +1,6 @@
 var a14624 =
 [
-    [ "FilterTargets", "d9/d22/a14624.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
-    [ "HandleDummy", "d9/d22/a14624.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
-    [ "PrepareSpellScript", "d9/d22/a14624.html#a6ac4db072beae6ae7a700774667da613", null ],
-    [ "Register", "d9/d22/a14624.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
+    [ "boss_wushoolayAI", "d9/d22/a14624.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
+    [ "JustEngagedWith", "d9/d22/a14624.html#af519da543fff63a39a6fbe48f90f2f22", null ],
+    [ "UpdateAI", "d9/d22/a14624.html#acfaacee2a97212eb15056c1552b9e06b", null ]
 ];

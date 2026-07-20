@@ -1,14 +1,11 @@
 var a29336 =
 [
-    [ "SetUp", "dc/d3e/a29336.html#a77eba369912e1969b3f049cb3a5c0ca4", null ],
-    [ "TearDown", "dc/d3e/a29336.html#adc8da5178618fb9742ea60920560d6ff", null ],
-    [ "PERM_ADMIN_1", "dc/d3e/a29336.html#afaa2c4b6a7112d04a95cd85143b0f4f0", null ],
-    [ "PERM_GM_1", "dc/d3e/a29336.html#a378e309848a3ee8b3f0e610572ba6124", null ],
-    [ "PERM_MOD_1", "dc/d3e/a29336.html#a05f115edd8aa321527de060f17c2e956", null ],
-    [ "PERM_PLAYER_1", "dc/d3e/a29336.html#a2c61447c90608ed3b714ba4e28efca76", null ],
-    [ "PERM_PLAYER_2", "dc/d3e/a29336.html#a31cc52a84454c48879c558f9698cd29b", null ],
-    [ "SEC_ADMINISTRATOR", "dc/d3e/a29336.html#aaddb5fa0a6d385cda760eaf92a7f59b3", null ],
-    [ "SEC_GAMEMASTER", "dc/d3e/a29336.html#ac922fc5904bb31a878f28a210b1a5740", null ],
-    [ "SEC_MODERATOR", "dc/d3e/a29336.html#a82e9196ebe8fe4f4672abe9cfbc6f163", null ],
-    [ "SEC_PLAYER", "dc/d3e/a29336.html#ad8c087c8b8503262387306039b44f09c", null ]
+    [ "IsAvailable", "dc/d3e/a29336.html#adfebd7a162ebae8396669de031c768a6", null ],
+    [ "operator bool", "dc/d3e/a29336.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
+    [ "operator*", "dc/d3e/a29336.html#a24733bf06b4a91abcf4945aa5303a275", null ],
+    [ "operator->", "dc/d3e/a29336.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
+    [ "SecretMgr", "dc/d3e/a29336.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
+    [ "lock", "dc/d3e/a29336.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
+    [ "state", "dc/d3e/a29336.html#acc49c1f1701d0119ea5fd92c49a80c8e", null ],
+    [ "value", "dc/d3e/a29336.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
 ];

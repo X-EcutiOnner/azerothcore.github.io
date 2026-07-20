@@ -1,6 +1,8 @@
 var a12720 =
 [
-    [ "go_chromaggus_lever", "df/d35/a12720.html#aa592f93028e323ed10102121d2d6b20e", null ],
-    [ "GossipHello", "df/d35/a12720.html#abfb91ccfeb90152dc252f0110fb51715", null ],
-    [ "_instance", "df/d35/a12720.html#a481373f4c49d76d3d0a41efcf2821f8f", null ]
+    [ "boss_highlord_omokk", "df/d35/a12720.html#a31dd2c47b3ed33fa65d3b6a7a5cb384c", null ],
+    [ "JustDied", "df/d35/a12720.html#a2a8931227eb65759ceebd27919976cb5", null ],
+    [ "JustEngagedWith", "df/d35/a12720.html#a0bd4e1e0f72a0b6a8792d508c401caf8", null ],
+    [ "Reset", "df/d35/a12720.html#ada6bf702dc1827e60b558b4fb752b789", null ],
+    [ "UpdateAI", "df/d35/a12720.html#a131ebd1dd8d95c7d910af1b21442c861", null ]
 ];

@@ -1,7 +1,8 @@
 var a25040 =
 [
-    [ "PrepareSpellScript", "d6/daf/a25040.html#a65d5717a25e371e09c44148c679dd390", null ],
-    [ "Register", "d6/daf/a25040.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
-    [ "RemoveInvalidTargets", "d6/daf/a25040.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
-    [ "Validate", "d6/daf/a25040.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
+    [ "HandleScript", "d6/daf/a25040.html#a2376d12f379f75f5decfdc133c18403e", null ],
+    [ "Load", "d6/daf/a25040.html#aa70bfd2e614f9bf68ad2972990f0f7f5", null ],
+    [ "PrepareSpellScript", "d6/daf/a25040.html#ae4ce8cf3670a85bbaedbfcdc6cacd5b1", null ],
+    [ "Register", "d6/daf/a25040.html#a0b32bf9d565d7d6f606150f70fc244a0", null ],
+    [ "Validate", "d6/daf/a25040.html#a1aee8ca0cc33f949371fa5cbb4745ccd", null ]
 ];

@@ -1,6 +1,7 @@
 var a06004 =
 [
-    [ "Append", "de/dd0/a06004.html#a290b052f7cbd321c646e9e5e19484444", null ],
-    [ "Append", "de/dd0/a06004.html#a867b7a92080104278aef5fb4975a4a52", null ],
-    [ "Append", "de/dd0/a06004.html#aa0a81814abe26d456018c3bc9153cd4d", null ]
+    [ "cmd", "de/dd0/a06004.html#a91e8e56c304147b88db250259ff0a87c", null ],
+    [ "error", "de/dd0/a06004.html#a0872e20a5adcd52a94036bdc6eddc6e6", null ],
+    [ "M2", "de/dd0/a06004.html#a9bb7dca6b62d35ecae97197c4c9693b7", null ],
+    [ "unk2", "de/dd0/a06004.html#a47d83719b502236fdad41e2d07b535a0", null ]
 ];

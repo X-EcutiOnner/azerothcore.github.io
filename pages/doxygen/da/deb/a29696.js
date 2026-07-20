@@ -1,8 +1,6 @@
 var a29696 =
 [
-    [ "ADT_file", "da/deb/a29696.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e", null ],
-    [ "~ADT_file", "da/deb/a29696.html#a79fe542f34b0e7bf668e7e5ff94a7ded", null ],
-    [ "free", "da/deb/a29696.html#a8fc207b8cc83596577166a0008965dc6", null ],
-    [ "prepareLoadedData", "da/deb/a29696.html#ac9f498cb9c8e21a1947be87904e3760b", null ],
-    [ "a_grid", "da/deb/a29696.html#aad5263c4df4ab9d072f217ec8c19441c", null ]
+    [ "hasAttr", "da/deb/a29696.html#aec6e687803471c9e36fb371be3994db9", null ],
+    [ "name", "da/deb/a29696.html#aff9bdbf422a9e22dacc2bbbea0c99a73", null ],
+    [ "spellId", "da/deb/a29696.html#a6b7e7e5d028fb5c006f8785a53394535", null ]
 ];

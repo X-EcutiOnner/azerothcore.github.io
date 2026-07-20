@@ -1,7 +1,7 @@
 var a26692 =
 [
-    [ "CheckTarget", "d1/d64/a26692.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "d1/d64/a26692.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "d1/d64/a26692.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "d1/d64/a26692.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "HandleScriptEffect", "d1/d64/a26692.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
+    [ "Load", "d1/d64/a26692.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
+    [ "PrepareSpellScript", "d1/d64/a26692.html#ade09cd376d00df8b5e709026e353f409", null ],
+    [ "Register", "d1/d64/a26692.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
 ];

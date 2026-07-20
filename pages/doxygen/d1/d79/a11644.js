@@ -1,8 +1,7 @@
 var a11644 =
 [
-    [ "SkillDiscoveryEntry", "d1/d79/a11644.html#a54c0f12153c6e63a37e5da44d233b271", null ],
-    [ "SkillDiscoveryEntry", "d1/d79/a11644.html#a301cae078fe1943cae045e94dc3d38ad", null ],
-    [ "chance", "d1/d79/a11644.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
-    [ "reqSkillValue", "d1/d79/a11644.html#a61e0edc8fee1fa4045d846668d08449c", null ],
-    [ "spellId", "d1/d79/a11644.html#a75ca40729917317173b2953c8f47f833", null ]
+    [ "OpcodeHandler", "da/d34/a05061.html#gad7dc8101b537abe699b18ae8de444a81", null ],
+    [ "~OpcodeHandler", "da/d34/a05061.html#ga5400057a3d849035aedda259828a5af5", null ],
+    [ "Name", "da/d34/a05061.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
+    [ "Status", "da/d34/a05061.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
 ];

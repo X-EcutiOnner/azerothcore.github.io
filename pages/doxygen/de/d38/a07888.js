@@ -1,7 +1,4 @@
 var a07888 =
 [
-    [ "CommandPermissions", "de/d38/a07888.html#ad1242d9067778298c44501b5d5a962f8", null ],
-    [ "CommandPermissions", "de/d38/a07888.html#a47f284c63f10b6c3479624845b696aa6", null ],
-    [ "AllowConsole", "de/d38/a07888.html#a8b419033e8dff0307a22a32bc57a1dc8", null ],
-    [ "RequiredLevel", "de/d38/a07888.html#a4918f2c3b1913eb76d09d859479ebbae", null ]
+    [ "AllianceChannelMgr", "de/d38/a07888.html#a7d90a6a0d987ac461668642c9ecfb619", null ]
 ];

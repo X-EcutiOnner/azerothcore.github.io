@@ -1,6 +1,7 @@
 var a17728 =
 [
-    [ "PrepareAuraScript", "df/d6e/a17728.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
-    [ "RecalculateHook", "df/d6e/a17728.html#a829e96cabbb565922f7183adb3edf13c", null ],
-    [ "Register", "df/d6e/a17728.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
+    [ "HandleDummyTick", "df/d6e/a17728.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
+    [ "PrepareAuraScript", "df/d6e/a17728.html#a577523701b5a4ea2def4999e634c8862", null ],
+    [ "Register", "df/d6e/a17728.html#aaad9185c62333de4d6704b22780edd28", null ],
+    [ "Validate", "df/d6e/a17728.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
 ];

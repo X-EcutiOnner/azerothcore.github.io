@@ -1,9 +1,7 @@
 var a08956 =
 [
-    [ "PendingSpellCastRequest", "d7/d31/a08956.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
-    [ "cancelInProgress", "d7/d31/a08956.html#a726b6e423b23f8c12c65e07809462ad1", null ],
-    [ "category", "d7/d31/a08956.html#a51a702f257b784dac4556397dd1c0be4", null ],
-    [ "isItem", "d7/d31/a08956.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
-    [ "requestPacket", "d7/d31/a08956.html#a6ee868c6161e49dc8774ab357f313116", null ],
-    [ "spellId", "d7/d31/a08956.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
+    [ "SetRuneState", "d7/d31/a08956.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
+    [ "lastUsedRune", "d7/d31/a08956.html#a88c702716eb3032c20ae5ed74922d923", null ],
+    [ "runes", "d7/d31/a08956.html#aac485530bfa81d54d9da3213fe917c29", null ],
+    [ "runeState", "d7/d31/a08956.html#ae58297e0766578b234604a97641501a1", null ]
 ];

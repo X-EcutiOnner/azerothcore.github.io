@@ -1,6 +1,6 @@
 var a21844 =
 [
-    [ "PrepareSpellScript", "df/db2/a21844.html#aa26d34552b04dca1db32390e769ff4dc", null ],
-    [ "RecalculateDamage", "df/db2/a21844.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
-    [ "Register", "df/db2/a21844.html#a58d28dea272b1237cf60efb45d67765d", null ]
+    [ "npc_attracted_reef_bullAI", "df/db2/a21844.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "df/db2/a21844.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "df/db2/a21844.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

@@ -1,6 +1,5 @@
 var a20164 =
 [
-    [ "achievement_freya_knock_on_wood", "de/d76/a20164.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "de/d76/a20164.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "de/d76/a20164.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "go_ulduar_tower", "de/d76/a20164.html#afc1add1a0543921f52afe1eb907f5de3", null ],
+    [ "OnDestroyed", "de/d76/a20164.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
 ];

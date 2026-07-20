@@ -1,8 +1,17 @@
 var a17880 =
 [
-    [ "npc_gunship_mageAI", "d0/dfa/a17880.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
-    [ "AttackStart", "d0/dfa/a17880.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
-    [ "CanAIAttack", "d0/dfa/a17880.html#aadcb217a9df96bee02287d75a23e32c2", null ],
-    [ "MovementInform", "d0/dfa/a17880.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
-    [ "UpdateAI", "d0/dfa/a17880.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
+    [ "boss_festergutAI", "d0/dfa/a17880.html#a7649f45cfc8bf05bf46b4e50319b4fb3", null ],
+    [ "EnterEvadeMode", "d0/dfa/a17880.html#a001e00435bb01b464573dbff8338c64a", null ],
+    [ "GetData", "d0/dfa/a17880.html#aea4509b130c9b5a8a5dd054ac8783312", null ],
+    [ "JustDied", "d0/dfa/a17880.html#abd0f4f55cfb026d0e25ff7a825d390d1", null ],
+    [ "JustEngagedWith", "d0/dfa/a17880.html#ad5538ae8933a4fd492ab45560dea785e", null ],
+    [ "JustReachedHome", "d0/dfa/a17880.html#a7e371063b84df1f8fe1df1a5bff38ca9", null ],
+    [ "KilledUnit", "d0/dfa/a17880.html#a3af6cacb219928c3c89f7ce3d980ae88", null ],
+    [ "RemoveBlight", "d0/dfa/a17880.html#a5807cd013ebe935f69bc1824386afd72", null ],
+    [ "Reset", "d0/dfa/a17880.html#aeb046d9ef4aa9b7b94aa1ee1727ab1be", null ],
+    [ "SetData", "d0/dfa/a17880.html#af8678cd7e9ddd7ef8095217e4820e7af", null ],
+    [ "UpdateAI", "d0/dfa/a17880.html#ac2b9e850d425336f2bdc6a1d9a707fa0", null ],
+    [ "_gasDummyGUID", "d0/dfa/a17880.html#a742b6ab0990d54e011ac36fde2c2cca2", null ],
+    [ "_inhaleCounter", "d0/dfa/a17880.html#aed5b7fce1ebf9f76fffa2ba682c54b4e", null ],
+    [ "_maxInoculatedStack", "d0/dfa/a17880.html#aeda8f6f959f7b7bd311aabde940a05ca", null ]
 ];

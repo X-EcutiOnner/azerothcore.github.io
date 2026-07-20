@@ -1,6 +1,11 @@
 var a02414 =
 [
-    [ "ConcatenateDungeons", "de/dc9/a02414.html#aeaebe53b818ad905c96d2cc56c18b7ca", null ],
-    [ "GetRolesString", "de/dc9/a02414.html#adc336ffd636b51b0052448739671d46b", null ],
-    [ "GetStateString", "de/dc9/a02414.html#a9d097d73fe8f096de2098ac74022b643", null ]
+    [ "AddOutdoorPvPScripts", "de/dc9/a02414.html#a489bdfb4854732e561b6b13b70f67a0f", null ],
+    [ "AddSC_outdoorpvp_ep", "de/dc9/a02414.html#ac97adfc1efbcf82840cffa915a55fecb", null ],
+    [ "AddSC_outdoorpvp_gh", "de/dc9/a02414.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ],
+    [ "AddSC_outdoorpvp_hp", "de/dc9/a02414.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
+    [ "AddSC_outdoorpvp_na", "de/dc9/a02414.html#a03015585e7619177355fefd05f85e1c7", null ],
+    [ "AddSC_outdoorpvp_si", "de/dc9/a02414.html#a6dfd2849f525333510ae4febbbc3ae1f", null ],
+    [ "AddSC_outdoorpvp_tf", "de/dc9/a02414.html#a6df553c8dd6e9b81e83110e7beab3646", null ],
+    [ "AddSC_outdoorpvp_zm", "de/dc9/a02414.html#a3077d08865fa83f84cf956c392a9091c", null ]
 ];

@@ -1,6 +1,12 @@
 var a14556 =
 [
-    [ "HandleEffectRemove", "dd/d40/a14556.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
-    [ "PrepareAuraScript", "dd/d40/a14556.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
-    [ "Register", "dd/d40/a14556.html#aa436788f638fedacb217ca508da5f426", null ]
+    [ "npc_chained_spirit", "dd/d40/a14556.html#a5f407e700a2086f971bed0e8c0def0db", null ],
+    [ "DoAction", "dd/d40/a14556.html#a7205ef13ca0d164a9222c049bc582254", null ],
+    [ "JustDied", "dd/d40/a14556.html#a3b405503231173e7ff7aa52e34f63da5", null ],
+    [ "MovementInform", "dd/d40/a14556.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
+    [ "Reset", "dd/d40/a14556.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
+    [ "SetGUID", "dd/d40/a14556.html#a794cf63fabc0c3f7ab9214750fa232a9", null ],
+    [ "UpdateAI", "dd/d40/a14556.html#a38d14b69c71bf2902a916028580fbfad", null ],
+    [ "instance", "dd/d40/a14556.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
+    [ "revivePlayerGUID", "dd/d40/a14556.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
 ];

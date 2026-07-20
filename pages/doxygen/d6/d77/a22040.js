@@ -1,8 +1,6 @@
 var a22040 =
 [
-    [ "npc_wg_spirit_guideAI", "dd/db4/a22044.html", "dd/db4/a22044" ],
-    [ "npc_wg_spirit_guide", "d6/d77/a22040.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
-    [ "GetAI", "d6/d77/a22040.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
-    [ "OnGossipHello", "d6/d77/a22040.html#a2d46078cb47f817239685d168f7f2e35", null ],
-    [ "OnGossipSelect", "d6/d77/a22040.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
+    [ "npc_bushwhackerAI", "d6/d77/a22040.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "d6/d77/a22040.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "d6/d77/a22040.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

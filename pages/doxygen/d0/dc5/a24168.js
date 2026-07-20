@@ -1,6 +1,11 @@
 var a24168 =
 [
-    [ "PrepareSpellScript", "d0/dc5/a24168.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
-    [ "Register", "d0/dc5/a24168.html#a4b349a325759517c35d04202e5df9cec", null ],
-    [ "SetDest", "d0/dc5/a24168.html#a951f733ab2452655a3b579f8ed190fb0", null ]
+    [ "npc_isla_starmaneAI", "d0/dc5/a24168.html#a0cb655d324ddde173dcfdee069c0f694", null ],
+    [ "JustDied", "d0/dc5/a24168.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
+    [ "JustEngagedWith", "d0/dc5/a24168.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
+    [ "JustRespawned", "d0/dc5/a24168.html#a69b395a9b9504737109870c5e8db74c8", null ],
+    [ "UpdateEscortAI", "d0/dc5/a24168.html#af4b8c80e7443bb671be253238b124910", null ],
+    [ "WaypointReached", "d0/dc5/a24168.html#a5d00583afa4e811e4f3cb8400787a990", null ],
+    [ "WaypointReached", "d0/dc5/a24168.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "events", "d0/dc5/a24168.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
 ];

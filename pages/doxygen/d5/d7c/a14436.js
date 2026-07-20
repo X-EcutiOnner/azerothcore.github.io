@@ -1,12 +1,6 @@
 var a14436 =
 [
-    [ "npc_chained_spirit", "d5/d7c/a14436.html#a5f407e700a2086f971bed0e8c0def0db", null ],
-    [ "DoAction", "d5/d7c/a14436.html#a7205ef13ca0d164a9222c049bc582254", null ],
-    [ "JustDied", "d5/d7c/a14436.html#a3b405503231173e7ff7aa52e34f63da5", null ],
-    [ "MovementInform", "d5/d7c/a14436.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
-    [ "Reset", "d5/d7c/a14436.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
-    [ "SetGUID", "d5/d7c/a14436.html#a794cf63fabc0c3f7ab9214750fa232a9", null ],
-    [ "UpdateAI", "d5/d7c/a14436.html#a38d14b69c71bf2902a916028580fbfad", null ],
-    [ "instance", "d5/d7c/a14436.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
-    [ "revivePlayerGUID", "d5/d7c/a14436.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
+    [ "boss_gahzranka", "d5/d7c/a14436.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "d5/d7c/a14436.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "d5/d7c/a14436.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

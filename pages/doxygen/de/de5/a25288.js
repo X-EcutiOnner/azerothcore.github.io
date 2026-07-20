@@ -1,10 +1,7 @@
 var a25288 =
 [
-    [ "Load", "de/de5/a25288.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
-    [ "OnApply", "de/de5/a25288.html#a83d922c434442e22482410d61aa0198f", null ],
-    [ "OnPetApply", "de/de5/a25288.html#a6df5e59e29cb89310a1c78bf93029545", null ],
-    [ "OnRemove", "de/de5/a25288.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
-    [ "PrepareAuraScript", "de/de5/a25288.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
-    [ "Register", "de/de5/a25288.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
-    [ "Validate", "de/de5/a25288.html#ab318472ea9f4aaa79e45f18783586eed", null ]
+    [ "OnPeriodic", "de/de5/a25288.html#a58f13f947b4daac98651f7fa46d7d674", null ],
+    [ "PrepareAuraScript", "de/de5/a25288.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
+    [ "Register", "de/de5/a25288.html#ad0c688255e340c428624de7071b5df56", null ],
+    [ "Validate", "de/de5/a25288.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
 ];

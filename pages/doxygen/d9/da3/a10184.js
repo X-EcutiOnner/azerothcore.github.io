@@ -1,11 +1,8 @@
 var a10184 =
 [
-    [ "StaticVMapCollisionData", "d9/da3/a10184.html#a5955532316bc6409c104197b086d3e3b", null ],
-    [ "GetAreaAndLiquidData", "d9/da3/a10184.html#afcbfd82bc43ad5dbce5edc35608a0d38", null ],
-    [ "getHeight", "d9/da3/a10184.html#ad5b245ec62bf370a479c8fdb0eec1f40", null ],
-    [ "GetObjectHitPos", "d9/da3/a10184.html#aacf3e526a4e52c8515b3a8004e6b0a1a", null ],
-    [ "isInLineOfSight", "d9/da3/a10184.html#a79f47e4eafe0db4e449ec202ad3ef580", null ],
-    [ "MapCollisionData", "d9/da3/a10184.html#a472038a89678719bf8868ab0c75e394f", null ],
-    [ "_mapId", "d9/da3/a10184.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb", null ],
-    [ "_staticTree", "d9/da3/a10184.html#a4d73d970aa85dbbd9c70633addcdaf13", null ]
+    [ "BoundaryUnionBoundary", "d9/da3/a10184.html#a074536112fffc805dec44bd9cd602642", null ],
+    [ "~BoundaryUnionBoundary", "d9/da3/a10184.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
+    [ "IsWithinBoundaryArea", "d9/da3/a10184.html#a8dc91861fa6641008236e5a83030e0d1", null ],
+    [ "_b1", "d9/da3/a10184.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
+    [ "_b2", "d9/da3/a10184.html#ae70530673803bd2ee85bf722fe42718b", null ]
 ];

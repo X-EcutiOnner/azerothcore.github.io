@@ -1,7 +1,7 @@
 var a15888 =
 [
-    [ "npc_thrall_warchiefAI", "d4/de5/a15892.html", "d4/de5/a15892" ],
-    [ "npc_thrall_warchief", "d5/de5/a15888.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
-    [ "GetAI", "d5/de5/a15888.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
-    [ "OnQuestReward", "d5/de5/a15888.html#a6576664c201d62cab1fa2f073cddee6e", null ]
+    [ "npc_tharnarianAI", "d4/de5/a15892.html", "d4/de5/a15892" ],
+    [ "npc_tharnarian", "d5/de5/a15888.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
+    [ "GetAI", "d5/de5/a15888.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
+    [ "OnQuestReward", "d5/de5/a15888.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
 ];

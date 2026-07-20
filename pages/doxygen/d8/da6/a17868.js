@@ -1,6 +1,7 @@
 var a17868 =
 [
-    [ "npc_gunship_boarding_add_realAI", "d0/d25/a17872.html", "d0/d25/a17872" ],
-    [ "npc_gunship_boarding_add", "d8/da6/a17868.html#aa80871f80bae7186d3665f73d757e108", null ],
-    [ "GetAI", "d8/da6/a17868.html#ad7e173bffccca6d852ba545427235447", null ]
+    [ "npc_icc_blood_beastAI", "d8/da6/a17868.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "d8/da6/a17868.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "d8/da6/a17868.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "d8/da6/a17868.html#a1074059162f818088808795119f081be", null ]
 ];

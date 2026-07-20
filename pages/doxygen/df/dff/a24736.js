@@ -1,6 +1,7 @@
 var a24736 =
 [
-    [ "PrepareAuraScript", "df/dff/a24736.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
-    [ "Register", "df/dff/a24736.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
-    [ "AuraEffectHandleModes", "df/dff/a24736.html#aed1cfe63d82450b526e154678fb97ac4", null ]
+    [ "HandleProc", "df/dff/a24736.html#a43704e8ddf8eb94adf27225eb02135bd", null ],
+    [ "PrepareAuraScript", "df/dff/a24736.html#a626ebecdbb7e431af364fa9bcde38644", null ],
+    [ "Register", "df/dff/a24736.html#ab56bed8649452b9ae7ac07bf6ee16641", null ],
+    [ "Validate", "df/dff/a24736.html#a3699a230042bd646d459bd7dcf73e3b6", null ]
 ];

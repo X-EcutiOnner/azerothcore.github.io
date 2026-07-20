@@ -1,12 +1,10 @@
 var a04694 =
 [
-    [ "EnumFlag< T >", "db/d00/a05793.html", "db/d00/a05793" ],
-    [ "DEFINE_ENUM_FLAG", "d8/d12/a04694.html#a9f556f9c539f21ae6fd639abe4c39c75", null ],
-    [ "IsFlag", "d8/d12/a04694.html#a7294b75cb336d554d5ce2b75b05c37d6", null ],
-    [ "IsEnumFlag", "d8/d12/a04694.html#ae0992e010612850442fc56bcf2d44b47", null ],
-    [ "operator&", "d8/d12/a04694.html#a27ef39aed098304d7387af8257f7cee3", null ],
-    [ "operator&=", "d8/d12/a04694.html#a24a78ca9e9dcd1b92829560e580c3134", null ],
-    [ "operator|", "d8/d12/a04694.html#ac8aaa198de31cb5a3b217d0968f30a3b", null ],
-    [ "operator|=", "d8/d12/a04694.html#a7808a2b72bed2b70553d802ed11e27c4", null ],
-    [ "operator~", "d8/d12/a04694.html#abe3f4d2eafbceebe9ec46ffcd15cfa76", null ]
+    [ "Acore::ACLogSink< T >", "da/d96/a05868.html", "da/d96/a05868" ],
+    [ "Acore::AsyncProcessResultImplementation", "d8/d73/a05872.html", "d8/d73/a05872" ],
+    [ "CreateChildProcess", "d8/d12/a04694.html#a18bbd8a6717e647e963654123259a033", null ],
+    [ "MakeACLogSink", "d8/d12/a04694.html#adcee37690522709ab4bd0b6f6e757dc5", null ],
+    [ "SearchExecutableInPath", "d8/d12/a04694.html#a9de098dac5e38f8c2cdbeb1d4d706881", null ],
+    [ "StartAsyncProcess", "d8/d12/a04694.html#a021f51138f5726e712f00bdddf9be729", null ],
+    [ "StartProcess", "d8/d12/a04694.html#acfaf2f89a55d299aa04c494719dfedc8", null ]
 ];

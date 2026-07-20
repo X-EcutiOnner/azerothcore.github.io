@@ -1,10 +1,9 @@
 var a05996 =
 [
-    [ "BasicStatementTask", "d5/d2a/a05996.html#a11c6f1259d1d6d9c50211784636e45c4", null ],
-    [ "~BasicStatementTask", "d5/d2a/a05996.html#a0db608b5bae77e5f83b0e1bf5850719f", null ],
-    [ "Execute", "d5/d2a/a05996.html#a7f500736cc0ec4cddf94510927989d4d", null ],
-    [ "GetFuture", "d5/d2a/a05996.html#aa574f8cc00ac956d23f93c7e96864fc9", null ],
-    [ "m_has_result", "d5/d2a/a05996.html#a8bfae5e5695a6bf6bf796d95efa21e7e", null ],
-    [ "m_result", "d5/d2a/a05996.html#af70bc95cbf0df481dacf034ff78d2eb8", null ],
-    [ "m_sql", "d5/d2a/a05996.html#a9320235413d1c4736301070e1faeb161", null ]
+    [ "A", "d5/d2a/a05996.html#ab94666c9208b481061cd81382ce94a5a", null ],
+    [ "clientM", "d5/d2a/a05996.html#a65b25700c577d338e902dc47b4712433", null ],
+    [ "cmd", "d5/d2a/a05996.html#a51b29f49e940bffa67988d9bc2b16aa4", null ],
+    [ "crc_hash", "d5/d2a/a05996.html#af2ce94f814a0008c953229fb9cdff454", null ],
+    [ "number_of_keys", "d5/d2a/a05996.html#ad8f9f53d462f1abd5c81413e0ed8b0a7", null ],
+    [ "securityFlags", "d5/d2a/a05996.html#ae2ab466af9513c15cbcea7a20e97ddc5", null ]
 ];

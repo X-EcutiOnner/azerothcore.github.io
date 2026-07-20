@@ -1,6 +1,8 @@
 var a14132 =
 [
-    [ "npc_andorhal_towerAI", "d0/d4a/a14136.html", "d0/d4a/a14136" ],
-    [ "npc_andorhal_tower", "d5/dde/a14132.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
-    [ "GetAI", "d5/dde/a14132.html#a51139c28da736d26bf27a061862d24ee", null ]
+    [ "npc_deathstalker_erlandAI", "d5/dde/a14132.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
+    [ "JustEngagedWith", "d5/dde/a14132.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
+    [ "Reset", "d5/dde/a14132.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
+    [ "WaypointReached", "d5/dde/a14132.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ],
+    [ "WaypointReached", "d5/dde/a14132.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

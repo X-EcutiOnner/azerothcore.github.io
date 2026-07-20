@@ -1,8 +1,8 @@
 var a24172 =
 [
-    [ "CheckProc", "d3/da6/a24172.html#a2a008e6d73c39d789aa176e9e5872544", null ],
-    [ "HandleProc", "d3/da6/a24172.html#abd05fec42193d2de8f42e95d8c90d8ca", null ],
-    [ "PrepareAuraScript", "d3/da6/a24172.html#a0c1452114b1f5698bf87024f66663546", null ],
-    [ "Register", "d3/da6/a24172.html#a83bcce64d93f0eaf286bbfd17062832e", null ],
-    [ "Validate", "d3/da6/a24172.html#ad160e59cf489a1d2fbaa11b1e919826a", null ]
+    [ "go_skull_pile", "d3/da6/a24172.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "d3/da6/a24172.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "d3/da6/a24172.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "d3/da6/a24172.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "d3/da6/a24172.html#af74fcd75404c0886128401d661067394", null ]
 ];

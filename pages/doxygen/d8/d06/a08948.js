@@ -1,9 +1,9 @@
 var a08948 =
 [
-    [ "EntryPointData", "d8/d06/a08948.html#a1852523ba9ca889cdd6731c63de759e2", null ],
-    [ "ClearTaxiPath", "d8/d06/a08948.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
-    [ "HasTaxiPath", "d8/d06/a08948.html#afd310b2f367ec7df76f01689ea120e6e", null ],
-    [ "joinPos", "d8/d06/a08948.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
-    [ "mountSpell", "d8/d06/a08948.html#a06e1cadac24a2ab90e57373692f829dc", null ],
-    [ "taxiPath", "d8/d06/a08948.html#a5af670fa420b250c22e0f3237e753a6f", null ]
+    [ "areaFlag", "d8/d06/a08948.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
+    [ "areaID", "d8/d06/a08948.html#a455a890a1d82d31873873ac497cb83b7", null ],
+    [ "x1", "d8/d06/a08948.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
+    [ "x2", "d8/d06/a08948.html#aebdb021c0b9c40d624d5115b24616a12", null ],
+    [ "y1", "d8/d06/a08948.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
+    [ "y2", "d8/d06/a08948.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
 ];

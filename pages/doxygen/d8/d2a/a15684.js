@@ -1,8 +1,8 @@
 var a15684 =
 [
-    [ "npc_injured_draeneiAI", "d8/d2a/a15684.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
-    [ "JustEngagedWith", "d8/d2a/a15684.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
-    [ "MoveInLineOfSight", "d8/d2a/a15684.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
-    [ "Reset", "d8/d2a/a15684.html#adcb601f739a91ce71926791885152471", null ],
-    [ "UpdateAI", "d8/d2a/a15684.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
+    [ "boss_veklor", "d8/d2a/a15684.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d8/d2a/a15684.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d8/d2a/a15684.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d8/d2a/a15684.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d8/d2a/a15684.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

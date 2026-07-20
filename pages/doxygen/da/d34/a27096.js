@@ -1,7 +1,8 @@
 var a27096 =
 [
-    [ "HandleDummy", "da/d34/a27096.html#a96c5064738653ce16f06634196218a88", null ],
-    [ "PrepareSpellScript", "da/d34/a27096.html#a2fa51a29d2c8ce74c8a4351712ccdeb9", null ],
-    [ "Register", "da/d34/a27096.html#a080969e035143ac8527443025dbacef2", null ],
-    [ "Validate", "da/d34/a27096.html#a66fd30d7cffdc7307b4c9dc821ccdf92", null ]
+    [ "CheckCast", "da/d34/a27096.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
+    [ "CheckQuest", "da/d34/a27096.html#abc927d932c1d5e05eab1918364d68ed5", null ],
+    [ "HandleActiveObject", "da/d34/a27096.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
+    [ "PrepareSpellScript", "da/d34/a27096.html#a96e69476965cc2466213a5371a57093a", null ],
+    [ "Register", "da/d34/a27096.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
 ];

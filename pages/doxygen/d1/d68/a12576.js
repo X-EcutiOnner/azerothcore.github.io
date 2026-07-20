@@ -1,12 +1,12 @@
 var a12576 =
 [
-    [ "boss_doomrel", "d1/d68/a12576.html#adc8f26522b88ada86c2ee937daa8fbd1", null ],
-    [ "EnterEvadeMode", "d1/d68/a12576.html#a5f6c139a7be348abeda3b883c2b3f5be", null ],
-    [ "JustEngagedWith", "d1/d68/a12576.html#a559c1619a97e50b03db6c8abc7190f91", null ],
-    [ "Reset", "d1/d68/a12576.html#af30f3385bb1ca366f335ca3e19849704", null ],
-    [ "sGossipSelect", "d1/d68/a12576.html#ad80c97c7d8d8cd4db466d65ecda8dd4f", null ],
-    [ "UpdateAI", "d1/d68/a12576.html#a92cdad912f54235ab9c4cd788f17e293", null ],
-    [ "_events", "d1/d68/a12576.html#a1687755cadc484d431497a320e9509f3", null ],
-    [ "instance", "d1/d68/a12576.html#aa0d131530564cc40af48bc31f9f67a7d", null ],
-    [ "Voidwalkers", "d1/d68/a12576.html#afb365d8b32d2610b3d398b6f3a1f1bc6", null ]
+    [ "boss_balinda", "d1/d68/a12576.html#a2f3ce696dbc66843cddc13196800866b", null ],
+    [ "DamageTaken", "d1/d68/a12576.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
+    [ "JustDied", "d1/d68/a12576.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
+    [ "JustEngagedWith", "d1/d68/a12576.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
+    [ "JustSummoned", "d1/d68/a12576.html#a3c2306326d2f85fbb6766352117a1f91", null ],
+    [ "Reset", "d1/d68/a12576.html#a1ecfa5d743682997076a47cce44b19f5", null ],
+    [ "UpdateAI", "d1/d68/a12576.html#af3506dd75baef12fd0328aed21636978", null ],
+    [ "_hasCastIceBlock", "d1/d68/a12576.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
+    [ "summons", "d1/d68/a12576.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
 ];

@@ -1,15 +1,8 @@
 var a14200 =
 [
-    [ "npc_janalai_hatcher", "dd/d06/a14200.html#a337e21f5a014d0f9d7a1f614b7245f36", null ],
-    [ "AttackStart", "dd/d06/a14200.html#a5a7826964349ed9adbbdeb7c733dd915", null ],
-    [ "JustEngagedWith", "dd/d06/a14200.html#a54c251278dcfa22052b6c6e49a4abd89", null ],
-    [ "MoveInLineOfSight", "dd/d06/a14200.html#a4ae2157e37bb93b7465e029e526a6ce4", null ],
-    [ "MovementInform", "dd/d06/a14200.html#a3a0170bc53f9f8f96090e34097b90c2c", null ],
-    [ "MoveToNewWaypoint", "dd/d06/a14200.html#ab775a888ae1002eed3ed548ab89ca2e4", null ],
-    [ "Reset", "dd/d06/a14200.html#ab1c3945160c55b2b2d63763eacced473", null ],
-    [ "UpdateAI", "dd/d06/a14200.html#ab5cc0c5f73593128b6d6e023aa4ce609", null ],
-    [ "_isHatching", "dd/d06/a14200.html#aae712db69c870d00d07a37b8611ecaf4", null ],
-    [ "_repeatCount", "dd/d06/a14200.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12", null ],
-    [ "_side", "dd/d06/a14200.html#a177ddd5ff96902363ab708f0c737fc20", null ],
-    [ "_waypoint", "dd/d06/a14200.html#ab39ab27d8057b52b77637faefd48e8e6", null ]
+    [ "npc_varian_wrynnAI", "d9/d14/a14204.html", "d9/d14/a14204" ],
+    [ "npc_varian_wrynn", "dd/d06/a14200.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "dd/d06/a14200.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "dd/d06/a14200.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "dd/d06/a14200.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

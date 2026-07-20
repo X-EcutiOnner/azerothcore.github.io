@@ -1,7 +1,8 @@
 var a12704 =
 [
-    [ "boss_broodlord", "d0/dd4/a12704.html#a3194ef765e313daaa4a0e476ec3edafa", null ],
-    [ "JustDied", "d0/dd4/a12704.html#ac3f6f747fbe61e70562f14b9aa304765", null ],
-    [ "JustEngagedWith", "d0/dd4/a12704.html#acb7214857320945a646574b0130a9585", null ],
-    [ "UpdateAI", "d0/dd4/a12704.html#a5cdb166366938797de9d691096f0f155", null ]
+    [ "boss_drakkisath", "d0/dd4/a12704.html#a77fdb667d0dc262dcacc5e988cf5fc8e", null ],
+    [ "JustEngagedWith", "d0/dd4/a12704.html#a502ca053bb96215c8386ee694a963cfa", null ],
+    [ "UpdateAI", "d0/dd4/a12704.html#a90bf913d6d94e5fc6d982049dd96e3b1", null ],
+    [ "_conflagrateTarget", "d0/dd4/a12704.html#aec0bd29626d8b59e33bfba370788ac40", null ],
+    [ "_conflagrateThreat", "d0/dd4/a12704.html#ac1cb21a95bbfcfbffc5a3046b233c183", null ]
 ];

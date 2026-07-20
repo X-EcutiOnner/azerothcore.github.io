@@ -1,7 +1,9 @@
 var a26512 =
 [
-    [ "HandleScriptEffect", "d4/dd6/a26512.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
-    [ "Load", "d4/dd6/a26512.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
-    [ "PrepareSpellScript", "d4/dd6/a26512.html#ade09cd376d00df8b5e709026e353f409", null ],
-    [ "Register", "d4/dd6/a26512.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
+    [ "Load", "d4/dd6/a26512.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "d4/dd6/a26512.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "d4/dd6/a26512.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "d4/dd6/a26512.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "d4/dd6/a26512.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "d4/dd6/a26512.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

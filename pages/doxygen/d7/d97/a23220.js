@@ -1,6 +1,7 @@
 var a23220 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "da/d19/a23224.html", "da/d19/a23224" ],
-    [ "instance_blood_furnace", "d7/d97/a23220.html#a925a045fa518e72c1eff02fe3c66202b", null ],
-    [ "GetInstanceScript", "d7/d97/a23220.html#a885ba94e1777dfd6586daca304622d3d", null ]
+    [ "boss_hydromancer_thespia", "d7/d97/a23220.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "d7/d97/a23220.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "d7/d97/a23220.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "d7/d97/a23220.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

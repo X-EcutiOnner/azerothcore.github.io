@@ -1,7 +1,8 @@
 var a26660 =
 [
-    [ "HandleEffectRemove", "df/dce/a26660.html#a814687d3938e966f8721438e1a722f77", null ],
-    [ "PrepareAuraScript", "df/dce/a26660.html#a2144b0602501471a4001883ce9de6db3", null ],
-    [ "Register", "df/dce/a26660.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
-    [ "AuraEffectHandleModes", "df/dce/a26660.html#ab291f6c6f269ec7004df39a043f49efd", null ]
+    [ "CheckProc", "df/dce/a26660.html#acfdb90639eb05a5ec252c20c9f302fed", null ],
+    [ "HandleProc", "df/dce/a26660.html#aa2e48771627700ee12153b13a094cea8", null ],
+    [ "PrepareAuraScript", "df/dce/a26660.html#a0fec47a0918ecfe3517c63190b27e91c", null ],
+    [ "Register", "df/dce/a26660.html#a88b06e814ade33fad51c8036d963f654", null ],
+    [ "Validate", "df/dce/a26660.html#ae9911ba6c95cfc6c345743b0f970062b", null ]
 ];

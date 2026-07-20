@@ -1,6 +1,6 @@
 var a18924 =
 [
-    [ "npc_captain_grondelAI", "d7/d11/a18924.html#afbc971fc03584b87229318309d51a2f5", null ],
-    [ "Reset", "d7/d11/a18924.html#a7d3878822e77fba66891e87e23bd3740", null ],
-    [ "UpdateAI", "d7/d11/a18924.html#a4af8548092b49653805224bd4c0ac0a2", null ]
+    [ "HandleScript", "d7/d11/a18924.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
+    [ "PrepareSpellScript", "d7/d11/a18924.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
+    [ "Register", "d7/d11/a18924.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
 ];

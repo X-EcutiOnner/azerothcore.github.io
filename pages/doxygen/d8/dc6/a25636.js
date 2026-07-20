@@ -1,7 +1,5 @@
 var a25636 =
 [
-    [ "HandleDummy", "d8/dc6/a25636.html#a3f9d43d11b344e3eb02fdc088506008e", null ],
-    [ "PrepareSpellScript", "d8/dc6/a25636.html#a1fb13b562c5d4f905739e193bc5292dd", null ],
-    [ "Register", "d8/dc6/a25636.html#a581e04721eb9564d1300ddd78c805368", null ],
-    [ "Validate", "d8/dc6/a25636.html#a18a648ebf1dbc9a11d09e457a33d0e33", null ]
+    [ "PrepareSpellScript", "d8/dc6/a25636.html#adaaa520c889970d91f3f38c958efdad4", null ],
+    [ "Register", "d8/dc6/a25636.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
 ];

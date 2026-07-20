@@ -1,6 +1,5 @@
 var a10956 =
 [
-    [ "GuildCreate", "d8/dcb/a10956.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
-    [ "Read", "d8/dcb/a10956.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
-    [ "GuildName", "d8/dcb/a10956.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
+    [ "LogoutCancelAck", "d8/dcb/a10956.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
+    [ "Write", "d8/dcb/a10956.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
 ];

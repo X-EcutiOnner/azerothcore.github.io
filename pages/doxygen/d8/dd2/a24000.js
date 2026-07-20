@@ -1,8 +1,11 @@
 var a24000 =
 [
-    [ "go_skull_pile", "d8/dd2/a24000.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "d8/dd2/a24000.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "d8/dd2/a24000.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "d8/dd2/a24000.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "d8/dd2/a24000.html#af74fcd75404c0886128401d661067394", null ]
+    [ "npc_invis_infernal_casterAI", "d8/dd2/a24000.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
+    [ "Reset", "d8/dd2/a24000.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
+    [ "SetData", "d8/dd2/a24000.html#aee88dc141757384f96da969fcdc20671", null ],
+    [ "SummonInfernal", "d8/dd2/a24000.html#a78d53d09e5544b3fe8301da4415d297b", null ],
+    [ "UpdateAI", "d8/dd2/a24000.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
+    [ "events", "d8/dd2/a24000.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
+    [ "ground", "d8/dd2/a24000.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
+    [ "infernalGUID", "d8/dd2/a24000.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
 ];

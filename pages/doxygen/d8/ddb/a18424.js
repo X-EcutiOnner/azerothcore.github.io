@@ -1,6 +1,6 @@
 var a18424 =
 [
-    [ "HandleScript", "d8/ddb/a18424.html#a038a827f7fe179ff56ab581efdf08790", null ],
-    [ "PrepareSpellScript", "d8/ddb/a18424.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
-    [ "Register", "d8/ddb/a18424.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
+    [ "boss_sindragosaAI", "d5/d94/a18428.html", "d5/d94/a18428" ],
+    [ "boss_sindragosa", "d8/ddb/a18424.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
+    [ "GetAI", "d8/ddb/a18424.html#a005a6da9f4f9690416a108872b3c2b36", null ]
 ];

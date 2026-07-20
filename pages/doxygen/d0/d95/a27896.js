@@ -1,9 +1,6 @@
 var a27896 =
 [
-    [ "go_gilded_brazierAI", "d0/d95/a27896.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
-    [ "GossipHello", "d0/d95/a27896.html#afac9e217c294e72ff5f2526422e6321e", null ],
-    [ "Initialize", "d0/d95/a27896.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
-    [ "UpdateAI", "d0/d95/a27896.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
-    [ "_events", "d0/d95/a27896.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
-    [ "_playerGUID", "d0/d95/a27896.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
+    [ "AreaTrigger_at_brewfest", "d0/d95/a27896.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
+    [ "OnTrigger", "d0/d95/a27896.html#a17e4a8d671136466c7673789e4f69a84", null ],
+    [ "_triggerTimes", "d0/d95/a27896.html#ab763765427796ad17338bcc8d63cf891", null ]
 ];

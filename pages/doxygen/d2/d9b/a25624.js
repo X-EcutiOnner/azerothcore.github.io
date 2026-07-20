@@ -1,6 +1,7 @@
 var a25624 =
 [
-    [ "HandleEffectApply", "d2/d9b/a25624.html#a9e8b226f3ebb33c47de584850643994f", null ],
-    [ "PrepareAuraScript", "d2/d9b/a25624.html#a30b74d44bb81a04ea1cfe1b6d5f926c7", null ],
-    [ "Register", "d2/d9b/a25624.html#a1d3d32c057877b5cf00f5970e583c25e", null ]
+    [ "CalcPeriodic", "d2/d9b/a25624.html#a5847ba4daad49dca2527513055fa4429", null ],
+    [ "PrepareAuraScript", "d2/d9b/a25624.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
+    [ "Register", "d2/d9b/a25624.html#a08f851e5582831d5dd05878c4a55db67", null ],
+    [ "Update", "d2/d9b/a25624.html#a3ab2716cbccc1311992de44e6591d966", null ]
 ];

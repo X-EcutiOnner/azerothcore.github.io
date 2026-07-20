@@ -1,6 +1,6 @@
 var a18588 =
 [
-    [ "ModDestHeight", "d7/d19/a18588.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
-    [ "PrepareSpellScript", "d7/d19/a18588.html#a288f8917d73be30234e465778b1f6544", null ],
-    [ "Register", "d7/d19/a18588.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
+    [ "LichKingMovieEvent", "d7/d19/a18588.html#a3e48e13dc5166c73a9f379045988f86a", null ],
+    [ "Execute", "d7/d19/a18588.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
+    [ "_owner", "d7/d19/a18588.html#a7ed68f442a644d6bb7a036812351d89e", null ]
 ];

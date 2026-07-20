@@ -1,7 +1,6 @@
 var a15036 =
 [
-    [ "hyjalJainaAI", "d6/def/a15040.html", "d6/def/a15040" ],
-    [ "npc_hyjal_jaina", "d8/d1c/a15036.html#a6616aa6c38818770610259312a392a3f", null ],
-    [ "GetAI", "d8/d1c/a15036.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
-    [ "OnGossipSelect", "d8/d1c/a15036.html#a47853fa317b1a9325fcbe555867139f6", null ]
+    [ "PrepareAuraScript", "d8/d1c/a15036.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
+    [ "RecalculateHook", "d8/d1c/a15036.html#af3952993947dfb24381083d21a9e64cb", null ],
+    [ "Register", "d8/d1c/a15036.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
 ];

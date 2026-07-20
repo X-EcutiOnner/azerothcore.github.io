@@ -1,7 +1,6 @@
 var a15976 =
 [
-    [ "npc_toogaAI", "d0/de1/a15980.html", "d0/de1/a15980" ],
-    [ "npc_tooga", "d5/dc9/a15976.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
-    [ "GetAI", "d5/dc9/a15976.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
-    [ "OnQuestAccept", "d5/dc9/a15976.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
+    [ "npc_clintar_spiritAI", "d0/de1/a15980.html", "d0/de1/a15980" ],
+    [ "npc_clintar_spirit", "d5/dc9/a15976.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
+    [ "GetAI", "d5/dc9/a15976.html#a118198504f6f93c86302275a11582d60", null ]
 ];

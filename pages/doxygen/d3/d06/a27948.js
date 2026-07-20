@@ -1,6 +1,6 @@
 var a27948 =
 [
-    [ "go_soulwellAI", "d9/ded/a27952.html", "d9/ded/a27952" ],
-    [ "go_soulwell", "d3/d06/a27948.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "d3/d06/a27948.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "boss_taerarAI", "d9/ded/a27952.html", "d9/ded/a27952" ],
+    [ "boss_taerar", "d3/d06/a27948.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "d3/d06/a27948.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

@@ -1,10 +1,7 @@
 var a17140 =
 [
-    [ "HandleAfterEffectAbsorb", "d3/d45/a17140.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "d3/d45/a17140.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "d3/d45/a17140.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "d3/d45/a17140.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "d3/d45/a17140.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "d3/d45/a17140.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "d3/d45/a17140.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "HandleScriptEffect", "d3/d45/a17140.html#a51064b3a11f453724ae0879c80eaf8df", null ],
+    [ "PrepareSpellScript", "d3/d45/a17140.html#aac26002ff107e609fb7258306b430f1b", null ],
+    [ "Register", "d3/d45/a17140.html#a0efef7644706940e3929ce99cd162c91", null ],
+    [ "Validate", "d3/d45/a17140.html#a7110d4136337d44aa0300ec82e5a6511", null ]
 ];

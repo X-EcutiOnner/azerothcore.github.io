@@ -1,7 +1,7 @@
 var a15172 =
 [
-    [ "boss_epoch_hunter", "db/dbf/a15172.html#a652d14ebfced39b8164687a713780600", null ],
-    [ "JustDied", "db/dbf/a15172.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
-    [ "JustEngagedWith", "db/dbf/a15172.html#a2571f98f36d1271f3911617e0fdfba54", null ],
-    [ "KilledUnit", "db/dbf/a15172.html#a61456e680e9108dd841e83d97536ef1b", null ]
+    [ "hyjalTyrandeAI", "d8/d47/a15176.html", "d8/d47/a15176" ],
+    [ "npc_hyjal_tyrande", "db/dbf/a15172.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
+    [ "GetAI", "db/dbf/a15172.html#a2f863e616352a98763eef9a717d73388", null ],
+    [ "OnGossipSelect", "db/dbf/a15172.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
 ];

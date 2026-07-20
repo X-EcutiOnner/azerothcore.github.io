@@ -1,16 +1,16 @@
 var a29192 =
 [
-    [ "AuraApplicationStub", "d8/de7/a29192.html#afaa194023ae92143078166c9a142a41d", null ],
-    [ "~AuraApplicationStub", "d8/de7/a29192.html#ada36445f6f090c6652e0567a5333bb53", null ],
-    [ "GetEffectMask", "d8/de7/a29192.html#ad74cccf28b56c1fe88988df229319dae", null ],
-    [ "GetSlot", "d8/de7/a29192.html#a30f0ddd6c6bbc974958a33ecee39135e", null ],
-    [ "HasEffect", "d8/de7/a29192.html#ad4040b722b12e54aa630abfa78cdaabd", null ],
-    [ "IsPositive", "d8/de7/a29192.html#a1bf6810ab9723ce50ddf46789d2a5045", null ],
-    [ "SetEffect", "d8/de7/a29192.html#a97383d45b0a015579a0f315474ecfcc5", null ],
-    [ "SetEffectMask", "d8/de7/a29192.html#a1fab3395f580b30fa7b2257cbcacd26a", null ],
-    [ "SetPositive", "d8/de7/a29192.html#a653fb81ddfa4c7ad855d9f1fefe172f4", null ],
-    [ "SetSlot", "d8/de7/a29192.html#a824a2ec07e911fdb02054eff2091f2ea", null ],
-    [ "_effectMask", "d8/de7/a29192.html#a9027c5f622263c32b6f7bc4a11883ddc", null ],
-    [ "_isPositive", "d8/de7/a29192.html#afc3220aa9f0403a987ad07cec1c42ced", null ],
-    [ "_slot", "d8/de7/a29192.html#aa4afd58cae5bcfd203d61a1044d72d57", null ]
+    [ "amount", "d8/de7/a29192.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
+    [ "aura_id", "d8/de7/a29192.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
+    [ "charges", "d8/de7/a29192.html#ade74be0906ef080347ac81ed48379cd1", null ],
+    [ "description", "d8/de7/a29192.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
+    [ "EnchantmentCondition", "d8/de7/a29192.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
+    [ "GemID", "d8/de7/a29192.html#a324fd42b7184f5c626c33323a4d72b07", null ],
+    [ "ID", "d8/de7/a29192.html#af46fa8808024e75705b812b695bd1590", null ],
+    [ "requiredLevel", "d8/de7/a29192.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
+    [ "requiredSkill", "d8/de7/a29192.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
+    [ "requiredSkillValue", "d8/de7/a29192.html#a7a57764dad60c9369826638c1355127e", null ],
+    [ "slot", "d8/de7/a29192.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
+    [ "spellid", "d8/de7/a29192.html#a694edc79cf8ba571338bff2a3aad512d", null ],
+    [ "type", "d8/de7/a29192.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
 ];

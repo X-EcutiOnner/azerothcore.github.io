@@ -1,5 +1,8 @@
 var a10320 =
 [
-    [ "MovementGeneratorFactory", "df/db1/a10320.html#a8b473ae9fa2af60a7fa92727ce163305", null ],
-    [ "Create", "df/db1/a10320.html#af3a494507c8d910bd98bb0989d42ba6f", null ]
+    [ "GetAINotifyDelay", "df/db1/a10320.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
+    [ "GetReqMoveDistSq", "df/db1/a10320.html#a58687646bbf83723e8ad2925ee50452c", null ],
+    [ "GetVisibilityNotifyDelay", "df/db1/a10320.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
+    [ "Update", "df/db1/a10320.html#aa95443d7050249a44cad2f16fa0026e5", null ],
+    [ "visibilitySettingsIndex", "df/db1/a10320.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
 ];

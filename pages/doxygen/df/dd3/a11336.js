@@ -1,5 +1,9 @@
 var a11336 =
 [
-    [ "DurabilityDamageDeath", "df/dd3/a11336.html#a9b4350d37291b9b714be1563b28dcb43", null ],
-    [ "Write", "df/dd3/a11336.html#a35a93d9abeeb029f3da080487423f495", null ]
+    [ "Weather", "df/dd3/a11336.html#aa404c94fec05b825454a7309827767c6", null ],
+    [ "Weather", "df/dd3/a11336.html#a28f45d81441d2dde6917380978dfb4d0", null ],
+    [ "Write", "df/dd3/a11336.html#a641c7de3e527dcdff07b3f602880b5c8", null ],
+    [ "Abrupt", "df/dd3/a11336.html#a0abe1fcb36d21ac246174cdc98c0e261", null ],
+    [ "Intensity", "df/dd3/a11336.html#ac37cee2364921a50e2b1ec1b19ed69b7", null ],
+    [ "WeatherID", "df/dd3/a11336.html#a32e56458b1e562c124cfc0288a578134", null ]
 ];

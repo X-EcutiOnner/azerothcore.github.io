@@ -1,7 +1,6 @@
 var a27184 =
 [
-    [ "HandleScriptEffect", "de/d9e/a27184.html#a5bbcb05b82e0953c82f2a0d96bd79eab", null ],
-    [ "PrepareSpellScript", "de/d9e/a27184.html#a7462fbeab2254046e12a262418ec0d2c", null ],
-    [ "Register", "de/d9e/a27184.html#ac14625182eb0289d8536ac322500ab45", null ],
-    [ "Validate", "de/d9e/a27184.html#a190b802f3b09655886e5bbb9980375af", null ]
+    [ "HandleProc", "de/d9e/a27184.html#a34fc7c89e962791d76c24c40bbdba827", null ],
+    [ "PrepareAuraScript", "de/d9e/a27184.html#a3558a23d2d428ee4f0bec8ae6c1afba5", null ],
+    [ "Register", "de/d9e/a27184.html#aab998e808ec9f53e87d92e71b3cc1c30", null ]
 ];

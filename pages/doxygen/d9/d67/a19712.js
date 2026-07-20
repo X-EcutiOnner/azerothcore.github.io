@@ -1,6 +1,8 @@
 var a19712 =
 [
-    [ "HandlePeriodic", "d9/d67/a19712.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
-    [ "PrepareAuraScript", "d9/d67/a19712.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
-    [ "Register", "d9/d67/a19712.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
+    [ "npc_crystal_spike", "d9/d67/a19712.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
+    [ "Reset", "d9/d67/a19712.html#a8cdca606ce482147d87ad5248665099e", null ],
+    [ "UpdateAI", "d9/d67/a19712.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
+    [ "_damageTimer", "d9/d67/a19712.html#a36c70729a0c0281d467f870bfcde80ae", null ],
+    [ "_gameObjectGUID", "d9/d67/a19712.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
 ];

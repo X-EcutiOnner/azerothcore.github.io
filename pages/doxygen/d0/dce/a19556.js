@@ -1,15 +1,6 @@
 var a19556 =
 [
-    [ "boss_anomalus", "d0/dce/a19556.html#aa4dd8fac7c360beb834382f624ed2246", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d0/dce/a19556.html#ada0735330bff29a8c04706c980e6bbfc", null ],
-    [ "GetData", "d0/dce/a19556.html#ad48aebb50cda7ee621f71803669f04c2", null ],
-    [ "JustDied", "d0/dce/a19556.html#a41e257481921a122dba30348559e05fb", null ],
-    [ "JustEngagedWith", "d0/dce/a19556.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
-    [ "JustSummoned", "d0/dce/a19556.html#a3c0413f30d96268cab724856334e61ee", null ],
-    [ "Reset", "d0/dce/a19556.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
-    [ "SetData", "d0/dce/a19556.html#aa79ec9829862b573cd0f38f965d737e8", null ],
-    [ "UpdateAI", "d0/dce/a19556.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
-    [ "_empowered", "d0/dce/a19556.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
-    [ "achievement", "d0/dce/a19556.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
-    [ "activeRifts", "d0/dce/a19556.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
+    [ "boss_thaddius_summonAI", "d2/db3/a19560.html", "d2/db3/a19560" ],
+    [ "boss_thaddius_summon", "d0/dce/a19556.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
+    [ "GetAI", "d0/dce/a19556.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
 ];

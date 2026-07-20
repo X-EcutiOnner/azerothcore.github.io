@@ -1,8 +1,6 @@
 var a16636 =
 [
-    [ "npc_toc5_player_vehicleAI", "da/d4d/a16636.html#afa00a6254b482aae5397be04860ac8ba", null ],
-    [ "BeforeSpellClick", "da/d4d/a16636.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
-    [ "OnCharmed", "da/d4d/a16636.html#ace805882a25a9d075d811714e607fa2b", null ],
-    [ "PassengerBoarded", "da/d4d/a16636.html#aca35804df751185193ff5865255d3687", null ],
-    [ "Reset", "da/d4d/a16636.html#a5439b98d544124836d2cf9762f764cea", null ]
+    [ "HandleHealPct", "da/d4d/a16636.html#ad13b3924815ac3da7902c8292a760943", null ],
+    [ "PrepareSpellScript", "da/d4d/a16636.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
+    [ "Register", "da/d4d/a16636.html#a3016c31c072d6417bbe47c2891059718", null ]
 ];

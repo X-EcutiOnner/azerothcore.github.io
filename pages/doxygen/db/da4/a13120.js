@@ -1,9 +1,7 @@
 var a13120 =
 [
-    [ "go_blood_drenched_doorAI", "db/da4/a13120.html#af431fff2778278cbd3e27b3906201373", null ],
-    [ "GossipHello", "db/da4/a13120.html#aa3d9c4ee80d6fb42103a3f02abdd8d20", null ],
-    [ "UpdateAI", "db/da4/a13120.html#a644ac9ce05242714d1b87150852539f3", null ],
-    [ "events", "db/da4/a13120.html#a2c51ffa6a3992fe55c2e22cb783409c9", null ],
-    [ "mirkblood", "db/da4/a13120.html#a07e1b098c31efe45e2df4f85f71109e4", null ],
-    [ "opener", "db/da4/a13120.html#aa70272eb79e875ba7d7767a1bf82afe9", null ]
+    [ "boss_maiden_of_virtue", "db/da4/a13120.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "db/da4/a13120.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "db/da4/a13120.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "db/da4/a13120.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

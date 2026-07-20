@@ -1,8 +1,6 @@
 var a28420 =
 [
-    [ "npc_elder_clearwaterAI", "de/deb/a28424.html", "de/deb/a28424" ],
-    [ "npc_elder_clearwater", "df/dc6/a28420.html#abeee1650938a71762bb0c148ea9834d1", null ],
-    [ "GetAI", "df/dc6/a28420.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
-    [ "OnGossipHello", "df/dc6/a28420.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
-    [ "OnQuestReward", "df/dc6/a28420.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
+    [ "npc_spring_rabbitAI", "de/deb/a28424.html", "de/deb/a28424" ],
+    [ "npc_spring_rabbit", "df/dc6/a28420.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
+    [ "GetAI", "df/dc6/a28420.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
 ];

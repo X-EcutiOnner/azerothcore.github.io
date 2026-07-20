@@ -1,6 +1,7 @@
 var a23596 =
 [
-    [ "HandleAfterRemove", "d1/d6d/a23596.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "d1/d6d/a23596.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "d1/d6d/a23596.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "HandleCast", "d1/d6d/a23596.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
+    [ "PrepareSpellScript", "d1/d6d/a23596.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
+    [ "Register", "d1/d6d/a23596.html#a6ae0573ea69573df64cd57ba84f99918", null ],
+    [ "Validate", "d1/d6d/a23596.html#ab5794ca5c0863ce40194ed40e156279a", null ]
 ];

@@ -1,7 +1,6 @@
 var a27480 =
 [
-    [ "FilterTargets", "de/dd8/a27480.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
-    [ "PrepareSpellScript", "de/dd8/a27480.html#a954f00317eab544dd57e657368aab7fb", null ],
-    [ "Register", "de/dd8/a27480.html#a1804684c8685372faf2e88e56b48f5be", null ],
-    [ "Validate", "de/dd8/a27480.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
+    [ "HandleAuraApply", "de/dd8/a27480.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
+    [ "PrepareAuraScript", "de/dd8/a27480.html#a7596065e5ffcacf099a5984f5d940c11", null ],
+    [ "Register", "de/dd8/a27480.html#a8efa76b28dddad68fee132f37791f231", null ]
 ];

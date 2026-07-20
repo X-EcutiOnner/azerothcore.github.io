@@ -1,10 +1,9 @@
 var a21800 =
 [
-    [ "npc_infra_green_bomber_genericAI", "d6/dd8/a21800.html#aed712ea3625971e059e2ecd158227287", null ],
-    [ "DamageTaken", "d6/dd8/a21800.html#a8f860368df96e430b441c8316db99c93", null ],
-    [ "GetSummoner", "d6/dd8/a21800.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
-    [ "IsSummonedBy", "d6/dd8/a21800.html#a79676717b7c6219ea74ebe5a580eab28", null ],
-    [ "SpreadFire", "d6/dd8/a21800.html#a5727c839b7dd02ea64eccce3606688d1", null ],
-    [ "UpdateAI", "d6/dd8/a21800.html#a252875777655e963965676a24c15e766", null ],
-    [ "events", "d6/dd8/a21800.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
+    [ "npc_venture_co_stragglerAI", "d6/dd8/a21800.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
+    [ "Reset", "d6/dd8/a21800.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
+    [ "SpellHit", "d6/dd8/a21800.html#ae1919454c270d10342079b60a727a306", null ],
+    [ "UpdateAI", "d6/dd8/a21800.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
+    [ "_events", "d6/dd8/a21800.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
+    [ "_playerGUID", "d6/dd8/a21800.html#a649493944b143782d995b5bdda3714b4", null ]
 ];

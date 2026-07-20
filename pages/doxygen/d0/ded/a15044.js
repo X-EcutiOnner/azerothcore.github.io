@@ -1,7 +1,5 @@
 var a15044 =
 [
-    [ "hyjalThrallAI", "d3/d4f/a15048.html", "d3/d4f/a15048" ],
-    [ "npc_hyjal_thrall", "d0/ded/a15044.html#a232f085f208a47f7fae08128de1d06b8", null ],
-    [ "GetAI", "d0/ded/a15044.html#a699b5df19e4e84166348ecfba2dd0172", null ],
-    [ "OnGossipSelect", "d0/ded/a15044.html#af833f26d79d34655c010aa04f984a94a", null ]
+    [ "achievement_pb_pilgrims_peril", "d0/ded/a15044.html#a9516eab18d7e1401a5637913d8ec9595", null ],
+    [ "OnCheck", "d0/ded/a15044.html#a78c92eab532448080c1d28dc8fcabaca", null ]
 ];

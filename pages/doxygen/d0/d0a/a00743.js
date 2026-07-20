@@ -1,6 +1,5 @@
 var a00743 =
 [
-    [ "go_firework_show", "d5/d12/a14797.html", "d5/d12/a14797" ],
-    [ "AddSC_event_firework_show_scripts", "d0/d0a/a00743.html#af7a6296c13b6615a14e0823fe7e5b577", null ],
-    [ "FireworkShowStore", "d0/d0a/a00743.html#a7e7f0c2a7b605ff7a9a4fb3302ed279e", null ]
+    [ "holetab_h", "d0/d0a/a00743.html#a10e90ca95e60d3244de3e68d7882433b", null ],
+    [ "holetab_v", "d0/d0a/a00743.html#a54b408dce116992610ba9c141426d821", null ]
 ];

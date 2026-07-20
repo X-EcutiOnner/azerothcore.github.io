@@ -1,10 +1,10 @@
 var a21292 =
 [
-    [ "npc_bonker_togglevoltAI", "d0/d64/a21292.html#adfd43a6a804a35e235262e55f0155ffe", null ],
-    [ "JustDied", "d0/d64/a21292.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
-    [ "Reset", "d0/d64/a21292.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
-    [ "UpdateEscortAI", "d0/d64/a21292.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
-    [ "WaypointReached", "d0/d64/a21292.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
-    [ "WaypointReached", "d0/d64/a21292.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "Bonker_agro", "d0/d64/a21292.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
+    [ "npc_erekem_guard", "d0/d64/a21292.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5", null ],
+    [ "JustEngagedWith", "d0/d64/a21292.html#a05c81c2b1ec3bb48ae3003f8d825ffc0", null ],
+    [ "MoveInLineOfSight", "d0/d64/a21292.html#a31ea4b54a0adae7e3fee31d38af87c3e", null ],
+    [ "Reset", "d0/d64/a21292.html#aacdc16855938d9f133b751f91b5e9402", null ],
+    [ "UpdateAI", "d0/d64/a21292.html#ae57b5c4e61d9e9475c66b68797a51f09", null ],
+    [ "_events", "d0/d64/a21292.html#a13829cd26d18c42213be1f6640a2b979", null ],
+    [ "_instance", "d0/d64/a21292.html#af890899c6d5e0b67fa5b0336c5a31dfc", null ]
 ];

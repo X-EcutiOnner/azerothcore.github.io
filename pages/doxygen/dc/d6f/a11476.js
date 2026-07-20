@@ -1,14 +1,17 @@
 var a11476 =
 [
-    [ "NameQueryResponse", "dc/d6f/a11476.html#a04a03faa1ab655eb87d755b603f7b427", null ],
-    [ "Write", "dc/d6f/a11476.html#a8bbf006e3b84b9b47df8f1497a6c4eb8", null ],
-    [ "Class", "dc/d6f/a11476.html#acd3c6d5f56924fe32bb8a0bddddce13a", null ],
-    [ "Declined", "dc/d6f/a11476.html#abe147a5c99db99148cc3b76136eccb2b", null ],
-    [ "DeclinedNames", "dc/d6f/a11476.html#a4d3a2f218c8e1763889cc45adc514f0b", null ],
-    [ "Guid", "dc/d6f/a11476.html#ae45b2723b1b5a3313566df2d353114f9", null ],
-    [ "Name", "dc/d6f/a11476.html#ad2d16050d9229912105c8f2136538d91", null ],
-    [ "NameUnknown", "dc/d6f/a11476.html#ab15e54b3abb638a8782ce4eefa77d489", null ],
-    [ "Race", "dc/d6f/a11476.html#a74463c6218d56c913df7f24b7491003f", null ],
-    [ "RealmName", "dc/d6f/a11476.html#ab52bc81a49ff62ea23f1dd05e4826f6c", null ],
-    [ "Sex", "dc/d6f/a11476.html#ae3f54cab19cf94fef55ef1dcac1f1ad8", null ]
+    [ "CompactArray", "dc/d6f/a11476.html#a167096f1966862ec92556b6f5d3aa3b8", null ],
+    [ "CompactArray", "dc/d6f/a11476.html#a70adda7a73d5c54b1d29668f23778c9f", null ],
+    [ "CompactArray", "dc/d6f/a11476.html#a757f7d94e52fa821dc1fdb03877574f3", null ],
+    [ "Clear", "dc/d6f/a11476.html#ae213ad313a4b0688763e882a2010c494", null ],
+    [ "GetMask", "dc/d6f/a11476.html#a3a421d4ee2e7459cbc945c6c70c1993f", null ],
+    [ "GetSize", "dc/d6f/a11476.html#a656c3568cd73d10dd6f9cda1809ff509", null ],
+    [ "Insert", "dc/d6f/a11476.html#a313aedf5c623505860a227149cb64b5a", null ],
+    [ "operator!=", "dc/d6f/a11476.html#adaade1e09d979a6e98b90253f442a9e5", null ],
+    [ "operator=", "dc/d6f/a11476.html#a75f0995b55269fc2d0bca87a0294fcb3", null ],
+    [ "operator=", "dc/d6f/a11476.html#a14d76ffa09769e341dea769424ac586c", null ],
+    [ "operator==", "dc/d6f/a11476.html#a24c7c9794991ec3bf4ecefa93f8ee23e", null ],
+    [ "operator[]", "dc/d6f/a11476.html#af146d3e880ec34358ff6a07247f741d8", null ],
+    [ "_contents", "dc/d6f/a11476.html#a1e0ff07a4905517dc6e92a3615bc36d0", null ],
+    [ "_mask", "dc/d6f/a11476.html#a85ef9a03e561e385f41de88e6e0f98c0", null ]
 ];
