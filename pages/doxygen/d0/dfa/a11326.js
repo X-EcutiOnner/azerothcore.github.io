@@ -1,6 +1,11 @@
 var a11326 =
 [
-    [ "Hello", "d0/dfa/a11326.html#ad5db4a2f7844da17680932ef154f6ecc", null ],
-    [ "Read", "d0/dfa/a11326.html#a23da60884c312ba0c4da2aeba3385b53", null ],
-    [ "Unit", "d0/dfa/a11326.html#a611072003e33b830146fa158646e8ac5", null ]
+    [ "BuyItemInSlot", "d0/dfa/a11326.html#a9a15be940d8eb216614dca5055be094a", null ],
+    [ "Read", "d0/dfa/a11326.html#a2608e83a41fb44c8469d2b9196702627", null ],
+    [ "BagGuid", "d0/dfa/a11326.html#abb9a1c7ac98c1cd848e4da8faf4e3925", null ],
+    [ "BagSlot", "d0/dfa/a11326.html#abdcb3b7e8a633b59d264ff1c860ec9c9", null ],
+    [ "Count", "d0/dfa/a11326.html#a3d057f2bdafb46887a97dbba8bb5aa04", null ],
+    [ "Item", "d0/dfa/a11326.html#a1fdfad3b4dd000c0f6d6d60f30bdd981", null ],
+    [ "Slot", "d0/dfa/a11326.html#aae1dba7644a82933a801f581551479bc", null ],
+    [ "VendorGuid", "d0/dfa/a11326.html#ac65b0fc2609531c8657c4d83cf50dbfe", null ]
 ];

@@ -1,6 +1,6 @@
 var a17638 =
 [
-    [ "HandleScript", "d4/d07/a17638.html#acd11d50f398857dc2a24bd2d63e52222", null ],
-    [ "PrepareSpellScript", "d4/d07/a17638.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
-    [ "Register", "d4/d07/a17638.html#ad7f12515dc21ab6b19148370fd491629", null ]
+    [ "boss_moorabiAI", "d5/dfa/a17642.html", "d5/dfa/a17642" ],
+    [ "boss_moorabi", "d4/d07/a17638.html#a94e14b2a9b06143985f785e781d1c302", null ],
+    [ "GetAI", "d4/d07/a17638.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
 ];

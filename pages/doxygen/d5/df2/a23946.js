@@ -1,6 +1,11 @@
 var a23946 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d1/d22/a23950.html", "d1/d22/a23950" ],
-    [ "npc_unkor_the_ruthless", "d5/df2/a23946.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "d5/df2/a23946.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "boss_pathaleon_the_calculator", "d5/df2/a23946.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "d5/df2/a23946.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "d5/df2/a23946.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "d5/df2/a23946.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "d5/df2/a23946.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "d5/df2/a23946.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "d5/df2/a23946.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "d5/df2/a23946.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

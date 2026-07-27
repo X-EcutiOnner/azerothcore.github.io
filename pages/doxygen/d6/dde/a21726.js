@@ -1,6 +1,12 @@
 var a21726 =
 [
-    [ "npc_boneguard_footmanAI", "d6/dde/a21726.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "d6/dde/a21726.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "d6/dde/a21726.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "npc_dalaran_warriorAI", "d6/dde/a21726.html#a0c96d8b0797a1388f9fe725753ea91bc", null ],
+    [ "Initialize", "d6/dde/a21726.html#aa04ecd7a8f988e94ab663a7994e83dd9", null ],
+    [ "JustEngagedWith", "d6/dde/a21726.html#ae6690f0681363784e457fbd653f5b3f9", null ],
+    [ "Reset", "d6/dde/a21726.html#a074d116ba39d87fa85c17fbc1764c79b", null ],
+    [ "UpdateAI", "d6/dde/a21726.html#ae2a740ecd35694b4d04c6aea7ae567fa", null ],
+    [ "Battleshout_timer", "d6/dde/a21726.html#ae36f30f816164b60232bd849e74c3da1", null ],
+    [ "disarm_timer", "d6/dde/a21726.html#a54f7ceb37d7e3456166f5af761c95e9e", null ],
+    [ "hamstring_timer", "d6/dde/a21726.html#ae0e660b8c3faf70a6061260a4b90a4af", null ],
+    [ "shout_timer", "d6/dde/a21726.html#ac91770c1e9eb31d687247450898a48ae", null ]
 ];

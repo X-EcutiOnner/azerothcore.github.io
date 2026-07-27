@@ -1,6 +1,7 @@
 var a18330 =
 [
-    [ "MysticBuffetTargetFilter", "d3/ddc/a18330.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
-    [ "operator()", "d3/ddc/a18330.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
-    [ "_caster", "d3/ddc/a18330.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
+    [ "HandleTriggerSpell", "d3/ddc/a18330.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
+    [ "OnRemove", "d3/ddc/a18330.html#a238adc96e80c1890934b23dd4a2685b4", null ],
+    [ "PrepareAuraScript", "d3/ddc/a18330.html#af9ce7433b620fdf1dea570561c514b3b", null ],
+    [ "Register", "d3/ddc/a18330.html#ab36a001ea8cd87703e2694e0765635c0", null ]
 ];

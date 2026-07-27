@@ -1,11 +1,11 @@
 var a08478 =
 [
-    [ "PackedGuid", "df/d29/a08478.html#a9268f8d34f24ef52369d605f94986a8d", null ],
-    [ "PackedGuid", "df/d29/a08478.html#a6d4559bc2a1d8c27247329c95c2b6156", null ],
-    [ "PackedGuid", "df/d29/a08478.html#adf388e273472f2699348c7a4361ebac4", null ],
-    [ "Set", "df/d29/a08478.html#aecbb8650ca713c175c30cd3ebe86b5d5", null ],
-    [ "Set", "df/d29/a08478.html#ae5d174d63a0b9d33b919f05760290bea", null ],
-    [ "size", "df/d29/a08478.html#a22ac06b7072951e84bbf69abcd7d58f6", null ],
-    [ "operator<<", "df/d29/a08478.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
-    [ "_packedGuid", "df/d29/a08478.html#aeb0e51f1667a2627aabffd6d7cb1779c", null ]
+    [ "FormationInfo", "df/d29/a08478.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
+    [ "HasGroupFlag", "df/d29/a08478.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
+    [ "follow_angle", "df/d29/a08478.html#a928ce7047d511c316a5367faf7f96673", null ],
+    [ "follow_dist", "df/d29/a08478.html#a3b59ee5129e208cc3df407a921362393", null ],
+    [ "groupAI", "df/d29/a08478.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
+    [ "leaderGUID", "df/d29/a08478.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
+    [ "point_1", "df/d29/a08478.html#a84298ff533bebc633689742c7f9299ae", null ],
+    [ "point_2", "df/d29/a08478.html#acc308b497de18211b99eec4311b256a4", null ]
 ];

@@ -1,7 +1,9 @@
 var a19526 =
 [
-    [ "boss_commander_stoutbeard", "dd/db6/a19526.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
-    [ "JustDied", "dd/db6/a19526.html#a2fd835408045715058ba476aa56cb4f7", null ],
-    [ "JustEngagedWith", "dd/db6/a19526.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
-    [ "KilledUnit", "dd/db6/a19526.html#acf7016c65f020dca9228bd2d2fd89299", null ]
+    [ "boss_grobbulus_poison_cloudAI", "dd/db6/a19526.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
+    [ "KilledUnit", "dd/db6/a19526.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
+    [ "Reset", "dd/db6/a19526.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
+    [ "UpdateAI", "dd/db6/a19526.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
+    [ "auraVisualTimer", "dd/db6/a19526.html#a74aea4294c26414d3b60983d14d36e31", null ],
+    [ "sizeTimer", "dd/db6/a19526.html#a73f775b30ad36a595e0d8532067ba042", null ]
 ];

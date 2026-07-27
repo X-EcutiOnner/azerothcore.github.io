@@ -1,6 +1,9 @@
 var a17894 =
 [
-    [ "IgbTeleportOnVictoryCheck", "dd/d34/a17894.html#a29ee8cac93b9920e598da9205406e608", null ],
-    [ "operator()", "dd/d34/a17894.html#acf85943e238179e911434358f1593be2", null ],
-    [ "_inst", "dd/d34/a17894.html#a015353ecb66da16c697152b7ad3c527e", null ]
+    [ "FilterTargetsInitial", "dd/d34/a17894.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
+    [ "FilterTargetsSubsequent", "dd/d34/a17894.html#a11732039155235c287757980129d5a8e", null ],
+    [ "Load", "dd/d34/a17894.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
+    [ "PrepareSpellScript", "dd/d34/a17894.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
+    [ "Register", "dd/d34/a17894.html#a56a4e65df08a95fddde75162358155c2", null ],
+    [ "_target", "dd/d34/a17894.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
 ];

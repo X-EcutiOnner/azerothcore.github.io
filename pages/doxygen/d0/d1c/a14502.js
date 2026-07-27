@@ -1,11 +1,11 @@
 var a14502 =
 [
-    [ "npc_dark_iron_attack_mole_machine", "d0/d1c/a14502.html#a473a8fb4905e5d1333196797d7d0f371", null ],
-    [ "AttackStart", "d0/d1c/a14502.html#a999dd932fbaf22a8275dfdba150c3291", null ],
-    [ "JustEngagedWith", "d0/d1c/a14502.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
-    [ "MoveInLineOfSight", "d0/d1c/a14502.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
-    [ "Reset", "d0/d1c/a14502.html#a0727aab751ddfbd94ae070e60e47e768", null ],
-    [ "UpdateAI", "d0/d1c/a14502.html#a1217ed510a846d011143ae0a386c6236", null ],
-    [ "goTimer", "d0/d1c/a14502.html#a8686845ebef564c9fcaa115866c99749", null ],
-    [ "summonTimer", "d0/d1c/a14502.html#a4713da02f4a86547a0f796167e24d8bb", null ]
+    [ "boss_hakkarAI", "d0/d1c/a14502.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
+    [ "ApplyHakkarPowerStacks", "d0/d1c/a14502.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
+    [ "CheckInRoom", "d0/d1c/a14502.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
+    [ "EnterEvadeMode", "d0/d1c/a14502.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
+    [ "JustDied", "d0/d1c/a14502.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
+    [ "JustEngagedWith", "d0/d1c/a14502.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
+    [ "Reset", "d0/d1c/a14502.html#a52db5743c09088e2e9f1aff1513960f2", null ],
+    [ "UpdateAI", "d0/d1c/a14502.html#a1119212465bcf293991d7a520c6ffe42", null ]
 ];

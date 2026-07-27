@@ -1,7 +1,8 @@
 var a11274 =
 [
-    [ "Playsound", "d8/dc5/a11274.html#a955f91d0d65c64f154f99b3b9472e273", null ],
-    [ "Playsound", "d8/dc5/a11274.html#aa242d4ca729d67d7fd58dc81985f22f9", null ],
-    [ "Write", "d8/dc5/a11274.html#acb4bdd9a1613a158832115e4c18bfcd9", null ],
-    [ "SoundKitID", "d8/dc5/a11274.html#a922cb6d06285bdf9f3d89ff990c40b0a", null ]
+    [ "SetRaidDifficulty", "d8/dc5/a11274.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
+    [ "Write", "d8/dc5/a11274.html#a3da812593b22ef506a9d61e16b5485d1", null ],
+    [ "Difficulty", "d8/dc5/a11274.html#a1952e2d54b77437731b693f4eace83ac", null ],
+    [ "IsInGroup", "d8/dc5/a11274.html#a8833543c4f179be97476a26152ec049b", null ],
+    [ "Unk", "d8/dc5/a11274.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
 ];

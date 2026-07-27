@@ -1,9 +1,6 @@
 var a13410 =
 [
-    [ "npc_risen_guardianAI", "d2/dd5/a13410.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
-    [ "IsSummonedBy", "d2/dd5/a13410.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
-    [ "KilledUnit", "d2/dd5/a13410.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
-    [ "Gandling", "d2/dd5/a13410.html#a93013b905260aa51341b22d1627cc986", null ],
-    [ "instance", "d2/dd5/a13410.html#a96f1835989f646c708b8ef0cc9999e63", null ],
-    [ "room", "d2/dd5/a13410.html#a5862a184b6daa92da133cc6c360a993d", null ]
+    [ "HandleProc", "d2/dd5/a13410.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "d2/dd5/a13410.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "d2/dd5/a13410.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

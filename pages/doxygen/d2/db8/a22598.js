@@ -1,12 +1,18 @@
 var a22598 =
 [
-    [ "npc_creature_generator_akama", "d2/db8/a22598.html#a8e91cadea7f135ff692635e4d39923e0", null ],
-    [ "DoAction", "d2/db8/a22598.html#a01efeecd374056da287e4a1e468472b6", null ],
-    [ "JustSummoned", "d2/db8/a22598.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
-    [ "Reset", "d2/db8/a22598.html#a23cf08661802f247147bb23cff30eeab", null ],
-    [ "SummonedCreatureDies", "d2/db8/a22598.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
-    [ "UpdateAI", "d2/db8/a22598.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
-    [ "instance", "d2/db8/a22598.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
-    [ "spawnCounter", "d2/db8/a22598.html#a02d8acace195438fe6e8d4705a043078", null ],
-    [ "summons", "d2/db8/a22598.html#a3d532e607c48298ca0464ee630dd27b3", null ]
+    [ "OutdoorPvPZM", "d2/db8/a22598.html#a8351867658985b66dd97f39e68c16b94", null ],
+    [ "FillInitialWorldStates", "d2/db8/a22598.html#a86a36c0f47027c8d5ac64090e308d98a", null ],
+    [ "GetAllianceTowersControlled", "d2/db8/a22598.html#a58320dcfca7519ab2a7160bb1f875a9b", null ],
+    [ "GetHordeTowersControlled", "d2/db8/a22598.html#a98bfdd944bc51f9ed30b74e1cf3217b5", null ],
+    [ "HandleKillImpl", "d2/db8/a22598.html#a6cd61b99305a2838261e36652fda42b1", null ],
+    [ "HandlePlayerEnterZone", "d2/db8/a22598.html#a8c0eb1c295f389273cf2b2c7b35c9538", null ],
+    [ "HandlePlayerLeaveZone", "d2/db8/a22598.html#a93105e3229db7798ad882fc7e538b250", null ],
+    [ "SendRemoveWorldStates", "d2/db8/a22598.html#aba24e6285ac45dd0594f557d5830ba7c", null ],
+    [ "SetAllianceTowersControlled", "d2/db8/a22598.html#ab7e230cfa2f06fa450ca40c381491c85", null ],
+    [ "SetHordeTowersControlled", "d2/db8/a22598.html#a27239875476bbce8ff18b30cdfe6815b", null ],
+    [ "SetupOutdoorPvP", "d2/db8/a22598.html#a7e71d2c2480da1a2d155981999201b99", null ],
+    [ "Update", "d2/db8/a22598.html#acd93bd13cf330ec86dde30ff9c6306de", null ],
+    [ "m_AllianceTowersControlled", "d2/db8/a22598.html#aff4124f54572e0812c39562fbc6390c3", null ],
+    [ "m_Graveyard", "d2/db8/a22598.html#a9842f1c5de04af4db3e0397839de7765", null ],
+    [ "m_HordeTowersControlled", "d2/db8/a22598.html#ad5609bc0c13d193d16560045aa4b0c71", null ]
 ];

@@ -1,11 +1,9 @@
 var a20094 =
 [
-    [ "boss_freya_elder_brightleaf", "dd/d59/a20094.html#a7454f4dec1f1ccc471f42eeee513f272", null ],
-    [ "JustDied", "dd/d59/a20094.html#a98aed4b2a4ebf10c807d9bb54c65a273", null ],
-    [ "JustEngagedWith", "dd/d59/a20094.html#ad0f003e5b57b7c7df4b860df2f8e1e85", null ],
-    [ "KilledUnit", "dd/d59/a20094.html#a3c45c1c87f793cb4dbd447065b09d108", null ],
-    [ "Reset", "dd/d59/a20094.html#ae9687c330856da6d5e7bed9bccbe8e52", null ],
-    [ "UpdateAI", "dd/d59/a20094.html#aa53a5a5ada35c8717c58553b397d58d9", null ],
-    [ "events", "dd/d59/a20094.html#aaa459ae8f2e0f83330359d45259d9f79", null ],
-    [ "summons", "dd/d59/a20094.html#a0c11c362ecc29e91f21c87ca0fb3d92e", null ]
+    [ "npc_brann_bronzebeard_algalon", "dd/d59/a20094.html#ac00755dca7e187b55516be889386c499", null ],
+    [ "DoAction", "dd/d59/a20094.html#a6d44478868a74ed7baac757258334806", null ],
+    [ "MovementInform", "dd/d59/a20094.html#a33af1a38ab2827aec38f95e57e54f589", null ],
+    [ "UpdateAI", "dd/d59/a20094.html#ad74f8f8a31431dd2eaa4279e6a8fae36", null ],
+    [ "_currentPoint", "dd/d59/a20094.html#a5403badf59f96111aefaddf78379e65f", null ],
+    [ "events", "dd/d59/a20094.html#ae63e7d3c53c3039186221c8b59c43e3e", null ]
 ];

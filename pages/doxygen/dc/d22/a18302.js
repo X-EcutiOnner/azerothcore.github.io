@@ -1,7 +1,6 @@
 var a18302 =
 [
-    [ "HandleScript", "dc/d22/a18302.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
-    [ "PrepareSpellScript", "dc/d22/a18302.html#a7e6b56f426be7925255da3ebc239f909", null ],
-    [ "Register", "dc/d22/a18302.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
-    [ "Validate", "dc/d22/a18302.html#a86b4296eab73fc63b38558871f16a889", null ]
+    [ "PrepareSpellScript", "dc/d22/a18302.html#a16eadb50b6038f16ea28464d00df3381", null ],
+    [ "Register", "dc/d22/a18302.html#ac6e304d391011863b8eff8105fab5191", null ],
+    [ "SelectDest", "dc/d22/a18302.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
 ];

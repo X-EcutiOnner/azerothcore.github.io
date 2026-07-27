@@ -1,7 +1,6 @@
 var a17066 =
 [
-    [ "HandlePeriodicTick", "de/d0d/a17066.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
-    [ "PrepareAuraScript", "de/d0d/a17066.html#aabaef31a3c699c322e24e064f357f82f", null ],
-    [ "Register", "de/d0d/a17066.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
-    [ "Validate", "de/d0d/a17066.html#a18d92a82760992bc5d8503e3f774f208", null ]
+    [ "boss_gormokAI", "d1/d75/a17070.html", "d1/d75/a17070" ],
+    [ "boss_gormok", "de/d0d/a17066.html#a86ce0681be4370198c44dde5aa98a593", null ],
+    [ "GetAI", "de/d0d/a17066.html#a45cff2e7ee0525de37382cf09b116a32", null ]
 ];

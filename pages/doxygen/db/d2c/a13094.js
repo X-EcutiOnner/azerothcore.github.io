@@ -1,11 +1,6 @@
 var a13094 =
 [
-    [ "boss_terestian_illhoof", "db/d2c/a13094.html#a5750bf4f12ac01216335a926f885e136", null ],
-    [ "JustDied", "db/d2c/a13094.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
-    [ "JustEngagedWith", "db/d2c/a13094.html#adc1f9195954eda7ec406ac9a084b7508", null ],
-    [ "JustSummoned", "db/d2c/a13094.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
-    [ "KilledUnit", "db/d2c/a13094.html#ab7de8b406de200eec981fab79a56dcd7", null ],
-    [ "Reset", "db/d2c/a13094.html#a685b00f0e3317740412adfc48df1c3fb", null ],
-    [ "SpellHit", "db/d2c/a13094.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
-    [ "SummonKilrek", "db/d2c/a13094.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
+    [ "boss_shazzrah", "db/d2c/a13094.html#a9886c4c93017936beae1babacffa76a2", null ],
+    [ "ExecuteEvent", "db/d2c/a13094.html#a2d8ab48c6abb3e0334ef54e0b918ff27", null ],
+    [ "JustEngagedWith", "db/d2c/a13094.html#aa23aecbb28a9bb1fc138691f143f8e53", null ]
 ];

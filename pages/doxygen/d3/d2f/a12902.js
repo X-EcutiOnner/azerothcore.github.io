@@ -1,8 +1,14 @@
 var a12902 =
 [
-    [ "npc_lava_spawn", "d3/d2f/a12902.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "d3/d2f/a12902.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "d3/d2f/a12902.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "d3/d2f/a12902.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "d3/d2f/a12902.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "boss_chromaggus", "d3/d2f/a12902.html#a2da694ece234807365ce4f22e067eb5c", null ],
+    [ "CanAIAttack", "d3/d2f/a12902.html#aed1d8ef49450c5495045bd62f0f3e2e6", null ],
+    [ "Initialize", "d3/d2f/a12902.html#ac8d72d4c3b265abca798c9ddc166df3b", null ],
+    [ "JustEngagedWith", "d3/d2f/a12902.html#a7a9e301d17657ace82b4243814cbb52c", null ],
+    [ "PathEndReached", "d3/d2f/a12902.html#a790a3e06fb4db275bb447b15bb838508", null ],
+    [ "Reset", "d3/d2f/a12902.html#a003db2053b634c969499d45f7f65be6e", null ],
+    [ "SetGUID", "d3/d2f/a12902.html#afec7a40681ff89c4712bc50b7bc49d6a", null ],
+    [ "UpdateAI", "d3/d2f/a12902.html#abc27a22d82555fe3301708e9aaa61997", null ],
+    [ "_breathSpells", "d3/d2f/a12902.html#a5d46c6903fd106fd83f8115b48d40cf9", null ],
+    [ "_playerGUID", "d3/d2f/a12902.html#a3c04a19e87a122c12508e181319411a0", null ],
+    [ "Enraged", "d3/d2f/a12902.html#a4c19a112decabb38f1bca7dc60d622ef", null ]
 ];

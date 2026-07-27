@@ -1,7 +1,8 @@
 var a24382 =
 [
-    [ "HandleProc", "df/da7/a24382.html#ae8764fc6c284a13f610e55933b24102e", null ],
-    [ "PrepareAuraScript", "df/da7/a24382.html#a9ea55387324cbcecc72b82a58bcd9a48", null ],
-    [ "Register", "df/da7/a24382.html#ae65e0a22aab9802ed869b7fb6e823d9e", null ],
-    [ "Validate", "df/da7/a24382.html#aafa30eef7a8c8aac3699edc4afb97f19", null ]
+    [ "npc_pet_gen_valkyr_guardian", "df/da7/a24382.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "df/da7/a24382.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "df/da7/a24382.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "df/da7/a24382.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "df/da7/a24382.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

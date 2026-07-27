@@ -1,8 +1,8 @@
 var a17010 =
 [
-    [ "HandleEffectApply", "d0/d7c/a17010.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
-    [ "HandleEffectRemove", "d0/d7c/a17010.html#a04504220319ec562b1b6691f471c1b8d", null ],
-    [ "PrepareAuraScript", "d0/d7c/a17010.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
-    [ "Register", "d0/d7c/a17010.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
-    [ "Validate", "d0/d7c/a17010.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
+    [ "npc_toc_pet_warlockAI", "d0/d7c/a17010.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
+    [ "EnterEvadeMode", "d0/d7c/a17010.html#a62219f63e82fc67f63db2cbd713647a0", null ],
+    [ "myCanCast", "d0/d7c/a17010.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
+    [ "UpdateAI", "d0/d7c/a17010.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
+    [ "events", "d0/d7c/a17010.html#a8edadebd7e6660041233a24fb07173bf", null ]
 ];

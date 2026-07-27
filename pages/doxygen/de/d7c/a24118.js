@@ -1,6 +1,7 @@
 var a24118 =
 [
-    [ "HandleAfterCast", "de/d7c/a24118.html#aaa65e67362ded5318e89272acf073bf3", null ],
-    [ "PrepareSpellScript", "de/d7c/a24118.html#a7d0dd936965845c14e7b54846facdb89", null ],
-    [ "Register", "de/d7c/a24118.html#ab7b767743d62d9763bea710b7552a8cf", null ]
+    [ "npc_bessyAI", "d6/d10/a24122.html", "d6/d10/a24122" ],
+    [ "npc_bessy", "de/d7c/a24118.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "de/d7c/a24118.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "de/d7c/a24118.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

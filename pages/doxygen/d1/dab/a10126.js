@@ -1,7 +1,27 @@
 var a10126 =
 [
-    [ "ownerGUID", "d1/dab/a10126.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
-    [ "script", "d1/dab/a10126.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
-    [ "sourceGUID", "d1/dab/a10126.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
-    [ "targetGUID", "d1/dab/a10126.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
+    [ "LootStore", "d1/dab/a10126.html#a99896ddfc04c20e2f7088a2ad8403e35", null ],
+    [ "~LootStore", "d1/dab/a10126.html#a5ed3ef2d00fdcb8edc3c4ddb9cb5a9ca", null ],
+    [ "CheckLootRefs", "d1/dab/a10126.html#a6506931ec5ce351687bc0c44ef74b435", null ],
+    [ "Clear", "d1/dab/a10126.html#abd9b51ff3aa4452ff5f5cc82267bac48", null ],
+    [ "GetEntryName", "d1/dab/a10126.html#a6adbdbba33f3c6d55d02f8f94de2e3ab", null ],
+    [ "GetLootFor", "d1/dab/a10126.html#a541edad9042f950ba2545c6e1126c419", null ],
+    [ "GetLootForConditionFill", "d1/dab/a10126.html#a46e8a8ed43a1e885ade1d5b74d79bb4b", null ],
+    [ "GetName", "d1/dab/a10126.html#acecb88522c97b74f87e0ed40fa009a04", null ],
+    [ "HaveLootFor", "d1/dab/a10126.html#abd45358d22bbb44f54743792a7fd0039", null ],
+    [ "HaveQuestLootFor", "d1/dab/a10126.html#a82a84ddb5051cf3e9ee508c2f0642d1e", null ],
+    [ "HaveQuestLootForPlayer", "d1/dab/a10126.html#ad800486cf5afb5842073b8ca1a43aad8", null ],
+    [ "IsRatesAllowed", "d1/dab/a10126.html#aa64da1c4756d94e30c552b17795b1da0", null ],
+    [ "LoadAndCollectLootIds", "d1/dab/a10126.html#a172a485f55b00f97248779c3f9f996dd", null ],
+    [ "LoadLootTable", "d1/dab/a10126.html#a131a846a8bce5b792a06a130bb1d1599", null ],
+    [ "ReportInvalidCount", "d1/dab/a10126.html#a4d4e1e2c41bb27b914f8146088b37fe2", null ],
+    [ "ReportNonExistingId", "d1/dab/a10126.html#ab34193850f17f42ec65a466eefe4ff76", null ],
+    [ "ReportNonExistingId", "d1/dab/a10126.html#a63c920be4fc161933c87acad99b35f22", null ],
+    [ "ReportUnusedIds", "d1/dab/a10126.html#af0fe6608310a123d70cc8221e65e4556", null ],
+    [ "ResetConditions", "d1/dab/a10126.html#a4f258b3698a2a0a77a28b3b8a885e579", null ],
+    [ "Verify", "d1/dab/a10126.html#afd0762a7391f530009b44bf6b4a3a3be", null ],
+    [ "m_entryName", "d1/dab/a10126.html#a2dc4594b3aa9d4737a785a3b47c559c5", null ],
+    [ "m_LootTemplates", "d1/dab/a10126.html#a58cf63357ad373aaf5866f5f2dcb23a8", null ],
+    [ "m_name", "d1/dab/a10126.html#aaae57f6cacb66f1024fa572cd6ba8003", null ],
+    [ "m_ratesAllowed", "d1/dab/a10126.html#a9edc9a356084a1395ca5367db91981bd", null ]
 ];

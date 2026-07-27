@@ -1,6 +1,6 @@
 var a19818 =
 [
-    [ "HandleApplyTouch", "db/dd2/a19818.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "db/dd2/a19818.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "db/dd2/a19818.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "instance_nexus_InstanceMapScript", "d9/db3/a19822.html", "d9/db3/a19822" ],
+    [ "instance_nexus", "db/dd2/a19818.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
+    [ "GetInstanceScript", "db/dd2/a19818.html#a156210ba08caa0572c775dbd5851b250", null ]
 ];

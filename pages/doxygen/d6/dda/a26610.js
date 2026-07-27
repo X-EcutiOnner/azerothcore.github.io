@@ -1,6 +1,6 @@
 var a26610 =
 [
-    [ "HandleFinish", "d6/dda/a26610.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
-    [ "PrepareSpellScript", "d6/dda/a26610.html#a8113f61816473399f0ceab18b104d058", null ],
-    [ "Register", "d6/dda/a26610.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
+    [ "CheckProc", "d6/dda/a26610.html#a6d19e939f4145f4226f88777e37c7514", null ],
+    [ "PrepareAuraScript", "d6/dda/a26610.html#a821456f72ba2f38ecc31040560ea155f", null ],
+    [ "Register", "d6/dda/a26610.html#a63a0773da832d8490d952de35fe5a29d", null ]
 ];

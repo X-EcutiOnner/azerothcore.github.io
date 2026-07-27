@@ -1,6 +1,8 @@
 var a24098 =
 [
-    [ "HandleEffectRemove", "d3/d03/a24098.html#a9472b79a272aff36be657b66883d822f", null ],
-    [ "PrepareAuraScript", "d3/d03/a24098.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
-    [ "Register", "d3/d03/a24098.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
+    [ "npc_captain_saeedAI", "dc/d8e/a24102.html", "dc/d8e/a24102" ],
+    [ "npc_captain_saeed", "d3/d03/a24098.html#a8a5bee9f908b10451b8d4720dff85670", null ],
+    [ "GetAI", "d3/d03/a24098.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
+    [ "OnGossipHello", "d3/d03/a24098.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
+    [ "OnGossipSelect", "d3/d03/a24098.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
 ];

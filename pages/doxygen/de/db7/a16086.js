@@ -1,7 +1,6 @@
 var a16086 =
 [
-    [ "go_troll_cageAI", "de/db7/a16086.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
-    [ "GossipHello", "de/db7/a16086.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
-    [ "initBlyCrewMember", "de/db7/a16086.html#a6bfb77ec97367d8704885acfef801b74", null ],
-    [ "instance", "de/db7/a16086.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
+    [ "npc_anachronos_quest_triggerAI", "d0/d0c/a16090.html", "d0/d0c/a16090" ],
+    [ "npc_anachronos_quest_trigger", "de/db7/a16086.html#ad39871952acd3152b51820fe360f4ebd", null ],
+    [ "GetAI", "de/db7/a16086.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
 ];

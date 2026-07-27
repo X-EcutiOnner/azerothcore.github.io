@@ -1,5 +1,6 @@
 var a13162 =
 [
-    [ "textid", "df/df0/a13162.html#a7dac5c31d7df501f28eee3e1dec0523a", null ],
-    [ "timer", "df/df0/a13162.html#ab7851f383e7221c6ff2700ee345d9504", null ]
+    [ "HandleTriggerSpell", "df/df0/a13162.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
+    [ "PrepareSpellScript", "df/df0/a13162.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
+    [ "Register", "df/df0/a13162.html#a7e9c140aecea892ee6971bc97d385640", null ]
 ];

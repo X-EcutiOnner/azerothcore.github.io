@@ -1,7 +1,8 @@
 var a24378 =
 [
-    [ "OnRemove", "d2/d59/a24378.html#aae9f02415a256ce01b81c3dd6fdafb33", null ],
-    [ "PrepareAuraScript", "d2/d59/a24378.html#ad27880f797137cae09381e860727e2f7", null ],
-    [ "Register", "d2/d59/a24378.html#a6c105609c1ee61a8f845018550b2e3ba", null ],
-    [ "Validate", "d2/d59/a24378.html#ac1f03d22c5fdb1c07a0e0859e08bd561", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "d2/d59/a24378.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "d2/d59/a24378.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "d2/d59/a24378.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "d2/d59/a24378.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "d2/d59/a24378.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

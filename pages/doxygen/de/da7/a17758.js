@@ -1,9 +1,6 @@
 var a17758 =
 [
-    [ "BattleExperienceEvent", "de/da7/a17758.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
-    [ "Execute", "de/da7/a17758.html#a3971962ec90f682baeae96fe6098fa97", null ],
-    [ "_creature", "de/da7/a17758.html#a0155536d5c2be329a1f3b57c4d852098", null ],
-    [ "_level", "de/da7/a17758.html#a22f0d7e59f579362be4576180d0977b8", null ],
-    [ "ExperiencedSpells", "de/da7/a17758.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
-    [ "ExperiencedTimes", "de/da7/a17758.html#af682cc246c7fdae39cc2a1e57110badc", null ]
+    [ "ModAuraStack", "de/da7/a17758.html#a7535ef148e047e32a5f7a1944585e396", null ],
+    [ "PrepareSpellScript", "de/da7/a17758.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
+    [ "Register", "de/da7/a17758.html#ab44b362197e74b98b3ffeb98eff52742", null ]
 ];

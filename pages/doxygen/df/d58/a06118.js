@@ -1,9 +1,10 @@
 var a06118 =
 [
-    [ "SQLQueryHolderTask", "df/d58/a06118.html#a017ab0275ea42132bb1e4ece7111572e", null ],
-    [ "~SQLQueryHolderTask", "df/d58/a06118.html#a0d1122160565c8f20f9a48390352c770", null ],
-    [ "Execute", "df/d58/a06118.html#a1dc2cdfee574ecbb8fd7bc595ca2f170", null ],
-    [ "GetFuture", "df/d58/a06118.html#a73199c4e5805933c9f79091797dedc5d", null ],
-    [ "m_holder", "df/d58/a06118.html#a64b624b8e77c819f5b47d592edc0979d", null ],
-    [ "m_result", "df/d58/a06118.html#ab27ce22bdb505509662d862e92fe7e77", null ]
+    [ "MySQLConnectionInfo", "df/d58/a06118.html#ae60c54053d71eb9325df10701b1f42d3", null ],
+    [ "database", "df/d58/a06118.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
+    [ "host", "df/d58/a06118.html#a2659372561aae5feb8da121984354ef3", null ],
+    [ "password", "df/d58/a06118.html#af5a51bd38ce1d58f65444d69b0283966", null ],
+    [ "port_or_socket", "df/d58/a06118.html#a37b89660afb3ee085e817836e9d1d01f", null ],
+    [ "ssl", "df/d58/a06118.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
+    [ "user", "df/d58/a06118.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
 ];

@@ -1,9 +1,9 @@
 var a20830 =
 [
-    [ "npc_vrykul_skeleton", "df/d65/a20830.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
-    [ "DamageTaken", "df/d65/a20830.html#a840244c4183987e4fda533edb2ddeff2", null ],
-    [ "Reset", "df/d65/a20830.html#af950342b2177c84c101485736855b998", null ],
-    [ "UpdateAI", "df/d65/a20830.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
-    [ "events", "df/d65/a20830.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
-    [ "pInstance", "df/d65/a20830.html#a834f0162540683c20f9fa0f9e32eee33", null ]
+    [ "boss_thorim_gauntlet_npcs", "df/d65/a20830.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
+    [ "JustEngagedWith", "df/d65/a20830.html#af10a444bada5743c837a9979726c79c9", null ],
+    [ "Reset", "df/d65/a20830.html#a22fcffcc05f155524cadade389ec3607", null ],
+    [ "UpdateAI", "df/d65/a20830.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
+    [ "_isCaster", "df/d65/a20830.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
+    [ "events", "df/d65/a20830.html#aec35e2b91841c386f083681673e15598", null ]
 ];

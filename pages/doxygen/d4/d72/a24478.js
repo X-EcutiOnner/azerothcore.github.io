@@ -1,6 +1,6 @@
 var a24478 =
 [
-    [ "OnHit", "d4/d72/a24478.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
-    [ "PrepareSpellScript", "d4/d72/a24478.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
-    [ "Register", "d4/d72/a24478.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
+    [ "HandlePeriodic", "d4/d72/a24478.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
+    [ "PrepareAuraScript", "d4/d72/a24478.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
+    [ "Register", "d4/d72/a24478.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
 ];

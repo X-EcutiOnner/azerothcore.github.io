@@ -1,13 +1,9 @@
 var a08706 =
 [
-    [ "FlaggedValuesArray32", "d1/d64/a08706.html#a0680f7b67001783f20d89989a49cbead", null ],
-    [ "AddFlag", "d1/d64/a08706.html#a273ab3607b23881628eb0c5d6a4da288", null ],
-    [ "AddValue", "d1/d64/a08706.html#aacca1261b2a22525e5fd40e5f479aa06", null ],
-    [ "DelFlag", "d1/d64/a08706.html#a3a674b2a7b8d5874f7210372b3e92123", null ],
-    [ "GetFlags", "d1/d64/a08706.html#a314a315eb1c1a76116fe3a31f7be9c68", null ],
-    [ "GetValue", "d1/d64/a08706.html#a87e5949bc041f15449331aceb277e8c4", null ],
-    [ "HasFlag", "d1/d64/a08706.html#a0ea5d977caef5152c71c515259a91f06", null ],
-    [ "SetValue", "d1/d64/a08706.html#ad0d385589befe52103f077723fa2463c", null ],
-    [ "m_flags", "d1/d64/a08706.html#abab31b77efb46fa796275c36964eab91", null ],
-    [ "m_values", "d1/d64/a08706.html#aabd025f47ad522e574f603eb559500f0", null ]
+    [ "artKits", "d1/d64/a08706.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
+    [ "entry", "d1/d64/a08706.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
+    [ "faction", "d1/d64/a08706.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
+    [ "flags", "d1/d64/a08706.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
+    [ "maxgold", "d1/d64/a08706.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
+    [ "mingold", "d1/d64/a08706.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
 ];

@@ -1,7 +1,5 @@
 var a24230 =
 [
-    [ "CalcDamage", "dd/dfe/a24230.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
-    [ "PrepareSpellScript", "dd/dfe/a24230.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
-    [ "Register", "dd/dfe/a24230.html#a857a010e6426e931ca872f66803b99b9", null ],
-    [ "Validate", "dd/dfe/a24230.html#ab64625ce305efb9dc92780c945b4fd62", null ]
+    [ "go_crystal_prison", "dd/dfe/a24230.html#a0faca8b76f9650ee5cc7825b90463365", null ],
+    [ "OnQuestAccept", "dd/dfe/a24230.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
 ];

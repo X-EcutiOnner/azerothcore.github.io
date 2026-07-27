@@ -1,9 +1,8 @@
 var a19030 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "da/dc9/a19030.html#a91868021309239f5582bb7ee89baec13", null ],
-    [ "AttackStart", "da/dc9/a19030.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
-    [ "JustEngagedWith", "da/dc9/a19030.html#a12927240144022174e3d190be6b34976", null ],
-    [ "Reset", "da/dc9/a19030.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
-    [ "UpdateAI", "da/dc9/a19030.html#a969a36e147006971a93711349f90c193", null ],
-    [ "events", "da/dc9/a19030.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
+    [ "npc_rotting_frost_giantAI", "da/dc9/a19030.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "da/dc9/a19030.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "da/dc9/a19030.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "da/dc9/a19030.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "da/dc9/a19030.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

@@ -1,9 +1,11 @@
 var a13810 =
 [
-    [ "spell_sunwell_teleport", "db/d93/a13810.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
-    [ "HandleScript", "db/d93/a13810.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
-    [ "PrepareSpellScript", "db/d93/a13810.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
-    [ "Register", "db/d93/a13810.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
-    [ "Validate", "db/d93/a13810.html#a351a2beced058f9354515baa38b0292e", null ],
-    [ "_triggeredSpellId", "db/d93/a13810.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
+    [ "npc_kalecgos_kj", "db/d93/a13810.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
+    [ "DoAction", "db/d93/a13810.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
+    [ "JustSummoned", "db/d93/a13810.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
+    [ "Reset", "db/d93/a13810.html#ab3cd4229999bddc16fe8152acb187111", null ],
+    [ "UpdateAI", "db/d93/a13810.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
+    [ "events", "db/d93/a13810.html#ab5cc58e293e20172558e15fa28670633", null ],
+    [ "instance", "db/d93/a13810.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
+    [ "summons", "db/d93/a13810.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
 ];

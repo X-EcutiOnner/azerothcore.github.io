@@ -1,6 +1,7 @@
 var a10506 =
 [
-    [ "PoolObject", "dc/d06/a10506.html#a772dc7bc9e1ce25edba89977bf87e3f0", null ],
-    [ "chance", "dc/d06/a10506.html#ae129795bb2f358af900dbc8892502123", null ],
-    [ "guid", "dc/d06/a10506.html#ae10fa01f5959e231fe2c16d38d9f3615", null ]
+    [ "WriteCommonMonsterMovePart", "dc/d06/a10506.html#a5f460aac5726580ed4d053f97ce4b95a", null ],
+    [ "WriteCreate", "dc/d06/a10506.html#a255a4de5c8cdf224e822a4e7ffe0ee5a", null ],
+    [ "WriteMonsterMove", "dc/d06/a10506.html#a7681143d50955bda880fbae74671a684", null ],
+    [ "WriteStopMovement", "dc/d06/a10506.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
 ];

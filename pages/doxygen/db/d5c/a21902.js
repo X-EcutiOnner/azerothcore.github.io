@@ -1,8 +1,8 @@
 var a21902 =
 [
-    [ "npc_time_lost_proto_drakeAI", "db/d5c/a21902.html#ab98805519233eda932c6131aca059a8b", null ],
-    [ "InitializeAI", "db/d5c/a21902.html#a6b99780951a126a97db88e7307c1d1b9", null ],
-    [ "JustEngagedWith", "db/d5c/a21902.html#ab95266d60769aa4099ca0f1bf678f237", null ],
-    [ "Reset", "db/d5c/a21902.html#a418ea9621040e3c717c4e24f73539f44", null ],
-    [ "UpdateAI", "db/d5c/a21902.html#abb28428b77beada6a378541ba11d090b", null ]
+    [ "OnRemove", "db/d5c/a21902.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
+    [ "PrepareAuraScript", "db/d5c/a21902.html#a183b5a3b1332695e3c047bb63435389a", null ],
+    [ "Register", "db/d5c/a21902.html#aad41ab76cc0a882f272e8f79867a7015", null ],
+    [ "Validate", "db/d5c/a21902.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
+    [ "spellIds", "db/d5c/a21902.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
 ];

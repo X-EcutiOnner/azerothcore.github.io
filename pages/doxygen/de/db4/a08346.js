@@ -1,5 +1,7 @@
 var a08346 =
 [
-    [ "BoxText", "de/db4/a08346.html#a00882f98df67222d396ae9992084a1cd", null ],
-    [ "OptionText", "de/db4/a08346.html#ab69f2dac8061cf8f6762a683243934fa", null ]
+    [ "LfgProposalPlayer", "de/db4/a08346.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
+    [ "accept", "de/db4/a08346.html#acbf0ce1e12307569487096dc5ca544a6", null ],
+    [ "group", "de/db4/a08346.html#a900f24e9caaa1569eeea93b4284139a1", null ],
+    [ "role", "de/db4/a08346.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
 ];

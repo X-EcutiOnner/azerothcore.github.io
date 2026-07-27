@@ -1,5 +1,7 @@
 var a27626 =
 [
-    [ "achievement_flirt_with_disaster_perf_check", "d5/da6/a27626.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
-    [ "OnCheck", "d5/da6/a27626.html#a15e620be2f37f930477ba94293dbaf63", null ]
+    [ "HandleProc", "d5/da6/a27626.html#aa28268bdb7e3063cff0880baefe02824", null ],
+    [ "PrepareAuraScript", "d5/da6/a27626.html#a8b19c9d128d568be695f985e5ed28b2d", null ],
+    [ "Register", "d5/da6/a27626.html#a5a0f0e1558c1d4c687b94fe8874512ef", null ],
+    [ "Validate", "d5/da6/a27626.html#a8461f9dc90d1df9a91350d3e277fffeb", null ]
 ];

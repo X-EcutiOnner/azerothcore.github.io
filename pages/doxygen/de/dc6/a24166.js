@@ -1,11 +1,10 @@
 var a24166 =
 [
-    [ "CalcPeriodic", "de/dc6/a24166.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
-    [ "CalculateHasteAmount", "de/dc6/a24166.html#a75d428e0b3619d53bd9436712d2e394e", null ],
-    [ "CalculateSPAmount", "de/dc6/a24166.html#a81805b43a47065281f83889d8be95c54", null ],
-    [ "CalculateStatAmount", "de/dc6/a24166.html#a763276aaa00bb6953e0b52118662e7a8", null ],
-    [ "HandleEffectApply", "de/dc6/a24166.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
-    [ "HandlePeriodic", "de/dc6/a24166.html#ab3c7d479eae88ab4a59b06610af19429", null ],
-    [ "PrepareAuraScript", "de/dc6/a24166.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
-    [ "Register", "de/dc6/a24166.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
+    [ "npc_infernal_attackerAI", "de/dc6/a24166.html#ae04c4e026f22bd650bb33940b923df9a", null ],
+    [ "IsSummonedBy", "de/dc6/a24166.html#a926e6cd6772784872a905de7245007ac", null ],
+    [ "JustDied", "de/dc6/a24166.html#a1822131520f98dd5f1dd637282f20ae3", null ],
+    [ "Reset", "de/dc6/a24166.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
+    [ "SpellHit", "de/dc6/a24166.html#a956f3fb1e341519817599df08afc2589", null ],
+    [ "UpdateAI", "de/dc6/a24166.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
+    [ "casterGUID", "de/dc6/a24166.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
 ];

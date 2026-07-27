@@ -1,6 +1,8 @@
 var a17390 =
 [
-    [ "boss_drakkari_elementalAI", "db/dd1/a17394.html", "db/dd1/a17394" ],
-    [ "boss_drakkari_elemental", "d2/dce/a17390.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
-    [ "GetAI", "d2/dce/a17390.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
+    [ "npc_hor_risen_witch_doctor", "d2/dce/a17390.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
+    [ "JustDied", "d2/dce/a17390.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
+    [ "JustEngagedWith", "d2/dce/a17390.html#ae612bec2e909abb2574298f4a34116f3", null ],
+    [ "Reset", "d2/dce/a17390.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
+    [ "UpdateAI", "d2/dce/a17390.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
 ];

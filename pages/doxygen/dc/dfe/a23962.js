@@ -1,8 +1,14 @@
 var a23962 =
 [
-    [ "go_skull_pile", "dc/dfe/a23962.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "dc/dfe/a23962.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "dc/dfe/a23962.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "dc/dfe/a23962.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "dc/dfe/a23962.html#af74fcd75404c0886128401d661067394", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "dc/dfe/a23962.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
+    [ "Initialize", "dc/dfe/a23962.html#a187340b00067f2f65a7e48845a6edaba", null ],
+    [ "JustSummoned", "dc/dfe/a23962.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
+    [ "Reset", "dc/dfe/a23962.html#a92a6cbe0515752440284d18bae0adf66", null ],
+    [ "SpellHit", "dc/dfe/a23962.html#a517f7412208de83604d0d6806fbc0b34", null ],
+    [ "UpdateAI", "dc/dfe/a23962.html#ab4fb75f1b84c2722f936387a6942028b", null ],
+    [ "CannonGUID", "dc/dfe/a23962.html#a220e111467cfb6f02e996f012123e09b", null ],
+    [ "count", "dc/dfe/a23962.html#ac78f94033239dcf247be9a48d0535081", null ],
+    [ "events", "dc/dfe/a23962.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
+    [ "PartyTime", "dc/dfe/a23962.html#a1780c656fb539be6dcd74e271cea4c53", null ],
+    [ "PlayerGUID", "dc/dfe/a23962.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
 ];

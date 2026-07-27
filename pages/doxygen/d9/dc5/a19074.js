@@ -1,12 +1,6 @@
 var a19074 =
 [
-    [ "npc_icc_nerubar_broodkeeperAI", "d9/dc5/a19074.html#a2e3abb6f8889b8df818e8260e6428375", null ],
-    [ "InitializeAI", "d9/dc5/a19074.html#ac39bb8074ebb7106b426f507b73b368e", null ],
-    [ "JustEngagedWith", "d9/dc5/a19074.html#ae69a8fd357856d0ec6a944ca8c0007ca", null ],
-    [ "MoveInLineOfSight", "d9/dc5/a19074.html#a846fe2784308eb694f5f482133a33a7f", null ],
-    [ "MovementInform", "d9/dc5/a19074.html#a9a5584eea4bc08f55ddfd7efe23bce2e", null ],
-    [ "Reset", "d9/dc5/a19074.html#afbb260e4968865e7c4141e73a050e663", null ],
-    [ "UpdateAI", "d9/dc5/a19074.html#ad63d3a91bdd677a9cdd497198860cac6", null ],
-    [ "_didWebBeam", "d9/dc5/a19074.html#a8772cf938d30ddcc439d3912db578dfa", null ],
-    [ "events", "d9/dc5/a19074.html#ac1b5b05f9fbaf1879c95bc7127fcb6e9", null ]
+    [ "npc_captain_brandonAI", "d9/dc5/a19074.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "d9/dc5/a19074.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "d9/dc5/a19074.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

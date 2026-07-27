@@ -1,5 +1,8 @@
 var a12410 =
 [
-    [ "npcEntry", "d8/dec/a12410.html#a866b12ea5416f36c36bbea1a35a6a490", null ],
-    [ "spellId", "d8/dec/a12410.html#a8c2fd26e0e9de5f9292c8b993ba9f9be", null ]
+    [ "cache_commandscript", "d8/dec/a12410.html#a709e1d02632aed18113c1adb52e962b5", null ],
+    [ "GetCommands", "d8/dec/a12410.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
+    [ "HandleCacheDeleteCommand", "d8/dec/a12410.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
+    [ "HandleCacheInfoCommand", "d8/dec/a12410.html#aa9bce5578450a35909a4e481bc21867f", null ],
+    [ "HandleCacheRefreshCommand", "d8/dec/a12410.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
 ];

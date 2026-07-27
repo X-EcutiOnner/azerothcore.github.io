@@ -1,6 +1,6 @@
 var a19026 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "da/dc9/a19030.html", "da/dc9/a19030" ],
-    [ "npc_icc_skybreaker_luminary", "d6/d54/a19026.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
-    [ "GetAI", "d6/d54/a19026.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
+    [ "npc_rotting_frost_giantAI", "da/dc9/a19030.html", "da/dc9/a19030" ],
+    [ "npc_rotting_frost_giant", "d6/d54/a19026.html#ad4440216e11a00d97af43dc5f3957e95", null ],
+    [ "GetAI", "d6/d54/a19026.html#aabc388b3690f2d03e903c7f480d52842", null ]
 ];

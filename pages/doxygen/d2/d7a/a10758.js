@@ -1,10 +1,5 @@
 var a10758 =
 [
-    [ "VehicleScript", "d2/d7a/a10758.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
-    [ "OnAddPassenger", "d2/d7a/a10758.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
-    [ "OnInstall", "d2/d7a/a10758.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
-    [ "OnInstallAccessory", "d2/d7a/a10758.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
-    [ "OnRemovePassenger", "d2/d7a/a10758.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
-    [ "OnReset", "d2/d7a/a10758.html#a38fca3fec8785f015084b832f9e3b08c", null ],
-    [ "OnUninstall", "d2/d7a/a10758.html#a7d4bafe42756ee73b5ce79783842c243", null ]
+    [ "FactoryCreatureScript", "d2/d7a/a10758.html#a62cd4db9e8dd3dab606f1166fdf0ce44", null ],
+    [ "GetAI", "d2/d7a/a10758.html#a0e491e4cda2b03456d798f6726dbde54", null ]
 ];

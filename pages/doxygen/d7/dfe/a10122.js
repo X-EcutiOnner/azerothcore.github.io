@@ -1,7 +1,7 @@
 var a10122 =
 [
-    [ "resetNotify", "d7/dfe/a10122.html#a1472e21d9af04662f3574bc2c7d3890c", null ],
-    [ "Visit", "d7/dfe/a10122.html#adfcdcf148b002c641638ddc70d577b14", null ],
-    [ "Visit", "d7/dfe/a10122.html#adf95512d4304962a5740b38c32ea28a7", null ],
-    [ "Visit", "d7/dfe/a10122.html#a725fc2c2504eecaa15841c27b367cd55", null ]
+    [ "QuestItem", "d7/dfe/a10122.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
+    [ "QuestItem", "d7/dfe/a10122.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
+    [ "index", "d7/dfe/a10122.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
+    [ "is_looted", "d7/dfe/a10122.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
 ];

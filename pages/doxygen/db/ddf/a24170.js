@@ -1,8 +1,6 @@
 var a24170 =
 [
-    [ "CheckProc", "db/ddf/a24170.html#aaba070a16ff0ba45b4062abe30c79cf5", null ],
-    [ "HandleProc", "db/ddf/a24170.html#a7682ed37759329da8e4e475e98a23161", null ],
-    [ "PrepareAuraScript", "db/ddf/a24170.html#ac4cc997ddd92e741f9f105bda4ec00b9", null ],
-    [ "Register", "db/ddf/a24170.html#a5ab16c8eb40822679739e15a2ceac715", null ],
-    [ "Validate", "db/ddf/a24170.html#a34919ab1f3b2d4e98536c3ded56cf5fc", null ]
+    [ "npc_mature_netherwing_drakeAI", "d8/daa/a24174.html", "d8/daa/a24174" ],
+    [ "npc_mature_netherwing_drake", "db/ddf/a24170.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "db/ddf/a24170.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

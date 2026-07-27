@@ -1,11 +1,8 @@
 var a22750 =
 [
-    [ "boss_doomwalker", "d3/d50/a22750.html#a47811086ff98b1a09af5300af94b6c0e", null ],
-    [ "JustDied", "d3/d50/a22750.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
-    [ "JustEngagedWith", "d3/d50/a22750.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
-    [ "KilledUnit", "d3/d50/a22750.html#a2335eb642940397f73ee2a8051624e8e", null ],
-    [ "MoveInLineOfSight", "d3/d50/a22750.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
-    [ "Reset", "d3/d50/a22750.html#aba08b227d629c9f35e59f465e29c267b", null ],
-    [ "UpdateAI", "d3/d50/a22750.html#a3105c50e512c6f709985cece619b131f", null ],
-    [ "_inEnrage", "d3/d50/a22750.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
+    [ "npc_parasitic_shadowfiend", "d3/d50/a22750.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
+    [ "CanAIAttack", "d3/d50/a22750.html#ac7600aed313f1413cb9b522d60d30329", null ],
+    [ "EnterEvadeMode", "d3/d50/a22750.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
+    [ "IsSummonedBy", "d3/d50/a22750.html#a306c696d4243c4525d0a3908a212135d", null ],
+    [ "UpdateAI", "d3/d50/a22750.html#a2706a4ba7876f299b02d2e720f512af2", null ]
 ];

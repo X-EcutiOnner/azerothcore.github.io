@@ -1,5 +1,5 @@
 var a28362 =
 [
-    [ "ID", "d3/dae/a28362.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
-    [ "parentCategory", "d3/dae/a28362.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
+    [ "item_mysterious_egg", "d3/dae/a28362.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
+    [ "OnExpire", "d3/dae/a28362.html#a5ea72284626826b75819f89b3b91c540", null ]
 ];

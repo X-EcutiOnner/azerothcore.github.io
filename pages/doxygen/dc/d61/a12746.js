@@ -1,7 +1,7 @@
 var a12746 =
 [
-    [ "HandleDummy", "dc/d61/a12746.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
-    [ "PrepareSpellScript", "dc/d61/a12746.html#ad07165f81a7f407c716f90691ecb9817", null ],
-    [ "Register", "dc/d61/a12746.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
-    [ "Validate", "dc/d61/a12746.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
+    [ "boss_moira_bronzebeard", "dc/d61/a12746.html#aaab4b597fd97619c2a41e2a6425810de", null ],
+    [ "CastOnEmperorIfPossible", "dc/d61/a12746.html#a413aab0c096319ea17d6c6a078b056ea", null ],
+    [ "JustEngagedWith", "dc/d61/a12746.html#a6bf08072a59fe72ce4a3e27a9e289d3c", null ],
+    [ "UpdateAI", "dc/d61/a12746.html#a8319c70b3391721164ac1a01d8f6be9c", null ]
 ];

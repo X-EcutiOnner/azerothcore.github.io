@@ -1,9 +1,10 @@
 var a29390 =
 [
-    [ "SetUp", "d6/d00/a29390.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
-    [ "TearDown", "d6/d00/a29390.html#a2a331c0ef77503c08c37e226a4e0a33b", null ],
-    [ "_distributor", "d6/d00/a29390.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
-    [ "_mockRewarder", "d6/d00/a29390.html#ad466c2751d8e9739db56f9f82d15deff", null ],
-    [ "_previousWorld", "d6/d00/a29390.html#aef822a2309df5d13af31ea5a5da74df7", null ],
-    [ "_worldMock", "d6/d00/a29390.html#a00b242d182fd7eacc93efc9d4f3e914f", null ]
+    [ "ID", "d6/d00/a29390.html#a090069d13cbbcc5762ecca600c506492", null ],
+    [ "map_id", "d6/d00/a29390.html#a685931e2a361f9e0fc81c004c7467d19", null ],
+    [ "MountCreatureID", "d6/d00/a29390.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
+    [ "name", "d6/d00/a29390.html#ae00db3ea736c3a470f6f0690c178e758", null ],
+    [ "x", "d6/d00/a29390.html#a7cbd40848094fa367862d653b0f7170d", null ],
+    [ "y", "d6/d00/a29390.html#a9380befd45cab3104003b2487464bd71", null ],
+    [ "z", "d6/d00/a29390.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
 ];

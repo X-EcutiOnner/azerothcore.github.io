@@ -1,8 +1,7 @@
 var a23066 =
 [
-    [ "boss_the_black_stalker", "db/d4a/a23066.html#ac33519b374509cefe43b8e97701719ee", null ],
-    [ "JustEngagedWith", "db/d4a/a23066.html#ad118347103ec463a09492e81dbd61418", null ],
-    [ "JustSummoned", "db/d4a/a23066.html#a9e0299a99df83abb7de476a765b667b9", null ],
-    [ "SummonedCreatureDies", "db/d4a/a23066.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
-    [ "UpdateAI", "db/d4a/a23066.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
+    [ "HandleEffectRemove", "db/d4a/a23066.html#a070e0dacb457d7dc0bd61594f0ed6d83", null ],
+    [ "PrepareAuraScript", "db/d4a/a23066.html#ac30073d35c40385a24b694012776391e", null ],
+    [ "Register", "db/d4a/a23066.html#ae66eceece2812aee47acb386735f50a0", null ],
+    [ "Validate", "db/d4a/a23066.html#af26c0361e6b7e480f59563d8630d6736", null ]
 ];

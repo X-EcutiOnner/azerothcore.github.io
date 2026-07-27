@@ -1,7 +1,6 @@
 var a21770 =
 [
-    [ "HandleScriptEffect", "da/df4/a21770.html#ad20cf97a7dd442d5670a22095b487a01", null ],
-    [ "PrepareSpellScript", "da/df4/a21770.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
-    [ "Register", "da/df4/a21770.html#a996ea344ea2a3312cb8886565b80972d", null ],
-    [ "Validate", "da/df4/a21770.html#a29bf5a9615e02281f426bf521a045567", null ]
+    [ "npc_injured_7th_legion_soldierAI", "db/d3e/a21774.html", "db/d3e/a21774" ],
+    [ "npc_injured_7th_legion_soldier", "da/df4/a21770.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
+    [ "GetAI", "da/df4/a21770.html#a0feca7aedcf3c07253d4d402266189cc", null ]
 ];

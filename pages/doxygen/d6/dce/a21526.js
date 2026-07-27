@@ -1,7 +1,7 @@
 var a21526 =
 [
-    [ "HandleDummy", "d6/dce/a21526.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
-    [ "PrepareSpellScript", "d6/dce/a21526.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
-    [ "Register", "d6/dce/a21526.html#a45f80e0436f93a597deb4653852df6a1", null ],
-    [ "Validate", "d6/dce/a21526.html#ad13fdade1fb7455485bfd68687de53c5", null ]
+    [ "npc_azure_captain", "d6/dce/a21526.html#abbdba89267506b8dd1e93ea0e059979c", null ],
+    [ "Reset", "d6/dce/a21526.html#ae9b8cc434f2b5690f3abc55d557cbd54", null ],
+    [ "UpdateAI", "d6/dce/a21526.html#a9aacf1533414ade27973ddcc46434978", null ],
+    [ "_events", "d6/dce/a21526.html#a6a69ea3d3eb75601f723a10eab68c260", null ]
 ];

@@ -1,12 +1,7 @@
 var a21038 =
 [
-    [ "boss_koralonAI", "d0/df1/a21038.html#a3f5bc42a141011e543d1215eac09dc74", null ],
-    [ "AttackStart", "d0/df1/a21038.html#aa84e6e9a302172e134163cd07ca57864", null ],
-    [ "JustDied", "d0/df1/a21038.html#a102c10792d9e7df61d920b5a43f58e51", null ],
-    [ "JustEngagedWith", "d0/df1/a21038.html#aa7503618dd09e0aebac44394595f4715", null ],
-    [ "Reset", "d0/df1/a21038.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
-    [ "UpdateAI", "d0/df1/a21038.html#aa944aad2eb68adc917cba743d1e530c7", null ],
-    [ "events", "d0/df1/a21038.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
-    [ "pInstance", "d0/df1/a21038.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
-    [ "rotateTimer", "d0/df1/a21038.html#ad4b766094f28e940b0b7971d6dadc277", null ]
+    [ "OnApply", "d0/df1/a21038.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
+    [ "OnRemove", "d0/df1/a21038.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
+    [ "PrepareAuraScript", "d0/df1/a21038.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
+    [ "Register", "d0/df1/a21038.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
 ];

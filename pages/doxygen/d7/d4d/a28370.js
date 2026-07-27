@@ -1,7 +1,5 @@
 var a28370 =
 [
-    [ "npc_flameshocker", "d7/d4d/a28370.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
-    [ "JustDied", "d7/d4d/a28370.html#aba94a5bcec75c649049d5816a53ace58", null ],
-    [ "Reset", "d7/d4d/a28370.html#a13cb88e2b33df2d910fb73053684b420", null ],
-    [ "UpdateAI", "d7/d4d/a28370.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
+    [ "item_petrov_cluster_bombs", "d7/d4d/a28370.html#a1a76760f7c4617a40d96b9833e7466df", null ],
+    [ "OnUse", "d7/d4d/a28370.html#aeecb6a7756b4af06f46951dfb51c054f", null ]
 ];

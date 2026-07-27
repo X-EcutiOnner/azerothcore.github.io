@@ -1,7 +1,6 @@
 var a12834 =
 [
-    [ "HandleDummy", "d3/dd3/a12834.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
-    [ "PrepareSpellScript", "d3/dd3/a12834.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
-    [ "Register", "d3/dd3/a12834.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
-    [ "Validate", "d3/dd3/a12834.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
+    [ "OrcDeathEvent", "d3/dd3/a12834.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
+    [ "Execute", "d3/dd3/a12834.html#a293ec6667da669a27fe75965f919cd68", null ],
+    [ "_me", "d3/dd3/a12834.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
 ];

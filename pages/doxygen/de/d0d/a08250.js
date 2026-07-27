@@ -1,7 +1,5 @@
 var a08250 =
 [
-    [ "LfgReward", "de/d0d/a08250.html#afe2ea037fa24064c2bf04cfc6303d903", null ],
-    [ "firstQuest", "de/d0d/a08250.html#a28162b1e43a5309ab01ca99b45d29799", null ],
-    [ "maxLevel", "de/d0d/a08250.html#aae6e46155dc790ed7c63f5f0b8e08395", null ],
-    [ "otherQuest", "de/d0d/a08250.html#a96de83c64efc3009d7d5cd04a61e71b2", null ]
+    [ "CompareThreatLessThan", "de/d0d/a08250.html#aa19219c7046b00951d23157bf00ee57d", null ],
+    [ "operator()", "de/d0d/a08250.html#a6534d7e3cab45f2aab4f0eab96ec4416", null ]
 ];

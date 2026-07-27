@@ -1,7 +1,6 @@
 var a11286 =
 [
-    [ "RandomRollClient", "d7/ddd/a11286.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "d7/ddd/a11286.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "d7/ddd/a11286.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "d7/ddd/a11286.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "InstanceLockResponse", "d7/ddd/a11286.html#a375d48ef2bc703f0223db82738016c6e", null ],
+    [ "Read", "d7/ddd/a11286.html#a954b3d4521bc48ba5ee9807cc935e484", null ],
+    [ "Accept", "d7/ddd/a11286.html#a23cd7f483abfaede6df7a51b083a4477", null ]
 ];

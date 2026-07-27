@@ -1,9 +1,6 @@
 var a15174 =
 [
-    [ "boss_temporus", "d1/d06/a15174.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "d1/d06/a15174.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "d1/d06/a15174.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "d1/d06/a15174.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "d1/d06/a15174.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "d1/d06/a15174.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "FilterTargets", "d1/d06/a15174.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
+    [ "PrepareSpellScript", "d1/d06/a15174.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
+    [ "Register", "d1/d06/a15174.html#a164b8b946dc801db878603488c978adb", null ]
 ];

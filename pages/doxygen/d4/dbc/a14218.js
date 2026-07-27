@@ -1,9 +1,11 @@
 var a14218 =
 [
-    [ "npc_zulaman_hostageAI", "d4/dbc/a14218.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
-    [ "JustDied", "d4/dbc/a14218.html#af87bdebb039f1da5736408cf3aad6487", null ],
-    [ "JustEngagedWith", "d4/dbc/a14218.html#af0aa229973da1a6230a854439658e9ed", null ],
-    [ "UpdateAI", "d4/dbc/a14218.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
-    [ "IsLoot", "d4/dbc/a14218.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
-    [ "PlayerGUID", "d4/dbc/a14218.html#a49f15c5a94d005c56218d00ac6732b82", null ]
+    [ "npc_valkyr_battle_maiden", "d4/dbc/a14218.html#a718f5058fd6d6f1d27b88991b91ef42e", null ],
+    [ "Reset", "d4/dbc/a14218.html#a98bdd53f82cb30908485de8834106ef8", null ],
+    [ "UpdateAI", "d4/dbc/a14218.html#a981237a3192d65117864daed0ac83197", null ],
+    [ "FlyBackTimer", "d4/dbc/a14218.html#ab6843fb900cebc4659a98837a6d678a7", null ],
+    [ "phase", "d4/dbc/a14218.html#a83cf215a2f4c8fea4c87c4dc43398298", null ],
+    [ "x", "d4/dbc/a14218.html#a26087a56f66a399c4b444a7e226d82f3", null ],
+    [ "y", "d4/dbc/a14218.html#a55eb219c646ecd63b99745792c1c8a03", null ],
+    [ "z", "d4/dbc/a14218.html#af9781f785ebde34cab533cff9cf2b8db", null ]
 ];

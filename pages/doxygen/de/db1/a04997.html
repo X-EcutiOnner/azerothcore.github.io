@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Collision/RegularGrid.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellCritDamageBonusOrderTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,61 +106,233 @@ $(document).ready(function(){initNavTree('de/db1/a04997.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a>  </div>
-  <div class="headertitle"><div class="title">RegularGrid.h File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">SpellCritDamageBonusOrderTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;G3D/PositionTrait.h&gt;</code><br />
-<code>#include &lt;G3D/Ray.h&gt;</code><br />
-<code>#include &lt;G3D/Table.h&gt;</code><br />
-<code>#include &quot;<a class="el" href="../../">Errors.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d1f/a05420.html">NodeArray&lt; Node &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d39/a05424.html">NodeCreator&lt; Node &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d98/a05428.html">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d73/a05432.html">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::Cell</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d7d/a29886.html">SpellCritDamageBonusOrderTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:ac836977c6cb1a34ebc070436978fb2bb"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/db1/a04997.html#ac836977c6cb1a34ebc070436978fb2bb">HGRID_MAP_SIZE</a>&#160;&#160;&#160;(533.33333f * 64.f)</td></tr>
-<tr class="separator:ac836977c6cb1a34ebc070436978fb2bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7a4127f14f16563da90eb3c836bc404f"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/db1/a04997.html#a7a4127f14f16563da90eb3c836bc404f">CELL_SIZE</a>&#160;&#160;&#160;float(<a class="el" href="../../de/db1/a04997.html#ac836977c6cb1a34ebc070436978fb2bb">HGRID_MAP_SIZE</a>/(float)CELL_NUMBER)</td></tr>
-<tr class="separator:a7a4127f14f16563da90eb3c836bc404f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:db/d48/a05187"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d48/a05187.html">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}</a></td></tr>
+<tr class="memdesc:db/d48/a05187"><td class="mdescLeft">&#160;</td><td class="mdescRight">Tests for melee/ranged spell crit damage ordering (issue #24976) <br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:ab55aeffce172b7e667fdcb86ba06d954"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d19/a00515.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d48/a05187.html#ab55aeffce172b7e667fdcb86ba06d954">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::CorrectCritOrder</a> (<a class="el" href="../../dc/d19/a00515.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> damage, float auraCritMod, float spellModPct)</td></tr>
+<tr class="separator:ab55aeffce172b7e667fdcb86ba06d954"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0ad4b3cd3c2381976fd6106fc4f8088"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d19/a00515.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d48/a05187.html#ae0ad4b3cd3c2381976fd6106fc4f8088">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::OldWrongCritOrder</a> (<a class="el" href="../../dc/d19/a00515.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> damage, float auraCritMod, float spellModPct)</td></tr>
+<tr class="separator:ae0ad4b3cd3c2381976fd6106fc4f8088"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae30b40dccd8a24d78d006e8e9ac63f19"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/db1/a04997.html#ae30b40dccd8a24d78d006e8e9ac63f19">TEST_F</a> (<a class="el" href="../../d6/d7d/a29886.html">SpellCritDamageBonusOrderTest</a>, NoModifiers)</td></tr>
+<tr class="separator:ae30b40dccd8a24d78d006e8e9ac63f19"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4172aa23985d10af03e6a92c7fa9dd2e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/db1/a04997.html#a4172aa23985d10af03e6a92c7fa9dd2e">TEST_F</a> (<a class="el" href="../../d6/d7d/a29886.html">SpellCritDamageBonusOrderTest</a>, OnlyAuraMod)</td></tr>
+<tr class="separator:a4172aa23985d10af03e6a92c7fa9dd2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad8c6026ca0167ae177e227997c8e2388"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/db1/a04997.html#ad8c6026ca0167ae177e227997c8e2388">TEST_F</a> (<a class="el" href="../../d6/d7d/a29886.html">SpellCritDamageBonusOrderTest</a>, OnlyTalentMod)</td></tr>
+<tr class="separator:ad8c6026ca0167ae177e227997c8e2388"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f98b8f734392902e0cd2dc96a8ef637"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/db1/a04997.html#a2f98b8f734392902e0cd2dc96a8ef637">TEST_F</a> (<a class="el" href="../../d6/d7d/a29886.html">SpellCritDamageBonusOrderTest</a>, Issue24976_HunterSteadyShot)</td></tr>
+<tr class="separator:a2f98b8f734392902e0cd2dc96a8ef637"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa932f572f1a8831ecf4bc5475b7598fb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/db1/a04997.html#aa932f572f1a8831ecf4bc5475b7598fb">TEST_F</a> (<a class="el" href="../../d6/d7d/a29886.html">SpellCritDamageBonusOrderTest</a>, BothMods_LargerValues)</td></tr>
+<tr class="separator:aa932f572f1a8831ecf4bc5475b7598fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a7a4127f14f16563da90eb3c836bc404f" name="a7a4127f14f16563da90eb3c836bc404f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7a4127f14f16563da90eb3c836bc404f">&#9670;&#160;</a></span>CELL_SIZE</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="aa932f572f1a8831ecf4bc5475b7598fb" name="aa932f572f1a8831ecf4bc5475b7598fb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa932f572f1a8831ecf4bc5475b7598fb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/5]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define CELL_SIZE&#160;&#160;&#160;float(<a class="el" href="../../de/db1/a04997.html#ac836977c6cb1a34ebc070436978fb2bb">HGRID_MAP_SIZE</a>/(float)CELL_NUMBER)</td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d7d/a29886.html">SpellCritDamageBonusOrderTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">BothMods_LargerValues&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  147</span>{</div>
+<div class="line"><span class="lineno">  148</span>    <a class="code hl_typedef" href="../../dc/d19/a00515.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> damage = 1000;</div>
+<div class="line"><span class="lineno">  149</span>    <span class="keywordtype">float</span> auraMod = 3.0f;</div>
+<div class="line"><span class="lineno">  150</span>    <span class="keywordtype">float</span> talentMod = 40.0f;</div>
+<div class="line"><span class="lineno">  151</span> </div>
+<div class="line"><span class="lineno">  152</span>    <span class="comment">// Correct: 2000*1.03=2060, bonus=1060, *1.40=1484, +1000=2484</span></div>
+<div class="line"><span class="lineno">  153</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/d48/a05187.html#ab55aeffce172b7e667fdcb86ba06d954">CorrectCritOrder</a>(damage, auraMod, talentMod), 2484);</div>
+<div class="line"><span class="lineno">  154</span> </div>
+<div class="line"><span class="lineno">  155</span>    <span class="comment">// Wrong: 1000*1.40=1400, total=2400, *1.03=2472</span></div>
+<div class="line"><span class="lineno">  156</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/d48/a05187.html#ae0ad4b3cd3c2381976fd6106fc4f8088">OldWrongCritOrder</a>(damage, auraMod, talentMod), 2472);</div>
+<div class="line"><span class="lineno">  157</span> </div>
+<div class="line"><span class="lineno">  158</span>    EXPECT_GT(<a class="code hl_function" href="../../db/d48/a05187.html#ab55aeffce172b7e667fdcb86ba06d954">CorrectCritOrder</a>(damage, auraMod, talentMod),</div>
+<div class="line"><span class="lineno">  159</span>              <a class="code hl_function" href="../../db/d48/a05187.html#ae0ad4b3cd3c2381976fd6106fc4f8088">OldWrongCritOrder</a>(damage, auraMod, talentMod));</div>
+<div class="line"><span class="lineno">  160</span>}</div>
+<div class="ttc" id="aa00515_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../dc/d19/a00515.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
+<div class="ttc" id="aa05187_html_ab55aeffce172b7e667fdcb86ba06d954"><div class="ttname"><a href="../../db/d48/a05187.html#ab55aeffce172b7e667fdcb86ba06d954">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::CorrectCritOrder</a></div><div class="ttdeci">int32 CorrectCritOrder(int32 damage, float auraCritMod, float spellModPct)</div><div class="ttdef"><b>Definition:</b> SpellCritDamageBonusOrderTest.cpp:53</div></div>
+<div class="ttc" id="aa05187_html_ae0ad4b3cd3c2381976fd6106fc4f8088"><div class="ttname"><a href="../../db/d48/a05187.html#ae0ad4b3cd3c2381976fd6106fc4f8088">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::OldWrongCritOrder</a></div><div class="ttdeci">int32 OldWrongCritOrder(int32 damage, float auraCritMod, float spellModPct)</div><div class="ttdef"><b>Definition:</b> SpellCritDamageBonusOrderTest.cpp:77</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00053">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::CorrectCritOrder()</a>, and <a class="el" href="../../#l00077">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::OldWrongCritOrder()</a>.</p>
 
 </div>
 </div>
-<a id="ac836977c6cb1a34ebc070436978fb2bb" name="ac836977c6cb1a34ebc070436978fb2bb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac836977c6cb1a34ebc070436978fb2bb">&#9670;&#160;</a></span>HGRID_MAP_SIZE</h2>
+<a id="a2f98b8f734392902e0cd2dc96a8ef637" name="a2f98b8f734392902e0cd2dc96a8ef637"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2f98b8f734392902e0cd2dc96a8ef637">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/5]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define HGRID_MAP_SIZE&#160;&#160;&#160;(533.33333f * 64.f)</td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d7d/a29886.html">SpellCritDamageBonusOrderTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Issue24976_HunterSteadyShot&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
+<div class="line"><span class="lineno">  135</span>    <a class="code hl_typedef" href="../../dc/d19/a00515.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> damage = 320;</div>
+<div class="line"><span class="lineno">  136</span>    <span class="keywordtype">float</span> auraMod = 3.0f;    <span class="comment">// meta gem: +3% crit damage</span></div>
+<div class="line"><span class="lineno">  137</span>    <span class="keywordtype">float</span> talentMod = 40.0f; <span class="comment">// Mortal Shots etc: +40% SPELLMOD_CRIT_DAMAGE_BONUS</span></div>
+<div class="line"><span class="lineno">  138</span> </div>
+<div class="line"><span class="lineno">  139</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/d48/a05187.html#ae0ad4b3cd3c2381976fd6106fc4f8088">OldWrongCritOrder</a>(damage, auraMod, talentMod), 791);</div>
+<div class="line"><span class="lineno">  140</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/d48/a05187.html#ab55aeffce172b7e667fdcb86ba06d954">CorrectCritOrder</a>(damage, auraMod, talentMod), 794);</div>
+<div class="line"><span class="lineno">  141</span>    EXPECT_GT(<a class="code hl_function" href="../../db/d48/a05187.html#ab55aeffce172b7e667fdcb86ba06d954">CorrectCritOrder</a>(damage, auraMod, talentMod),</div>
+<div class="line"><span class="lineno">  142</span>              <a class="code hl_function" href="../../db/d48/a05187.html#ae0ad4b3cd3c2381976fd6106fc4f8088">OldWrongCritOrder</a>(damage, auraMod, talentMod));</div>
+<div class="line"><span class="lineno">  143</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00053">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::CorrectCritOrder()</a>, and <a class="el" href="../../#l00077">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::OldWrongCritOrder()</a>.</p>
+
+</div>
+</div>
+<a id="ae30b40dccd8a24d78d006e8e9ac63f19" name="ae30b40dccd8a24d78d006e8e9ac63f19"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae30b40dccd8a24d78d006e8e9ac63f19">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/5]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d7d/a29886.html">SpellCritDamageBonusOrderTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NoModifiers&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   97</span>{</div>
+<div class="line"><span class="lineno">   98</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/d48/a05187.html#ab55aeffce172b7e667fdcb86ba06d954">CorrectCritOrder</a>(1000, 0.0f, 0.0f), 2000);</div>
+<div class="line"><span class="lineno">   99</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/d48/a05187.html#ae0ad4b3cd3c2381976fd6106fc4f8088">OldWrongCritOrder</a>(1000, 0.0f, 0.0f), 2000);</div>
+<div class="line"><span class="lineno">  100</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00053">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::CorrectCritOrder()</a>, and <a class="el" href="../../#l00077">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::OldWrongCritOrder()</a>.</p>
+
+</div>
+</div>
+<a id="a4172aa23985d10af03e6a92c7fa9dd2e" name="a4172aa23985d10af03e6a92c7fa9dd2e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4172aa23985d10af03e6a92c7fa9dd2e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/5]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d7d/a29886.html">SpellCritDamageBonusOrderTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">OnlyAuraMod&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  104</span>{</div>
+<div class="line"><span class="lineno">  105</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/d48/a05187.html#ab55aeffce172b7e667fdcb86ba06d954">CorrectCritOrder</a>(1000, 30.0f, 0.0f), 2600);</div>
+<div class="line"><span class="lineno">  106</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/d48/a05187.html#ae0ad4b3cd3c2381976fd6106fc4f8088">OldWrongCritOrder</a>(1000, 30.0f, 0.0f), 2600);</div>
+<div class="line"><span class="lineno">  107</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00053">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::CorrectCritOrder()</a>, and <a class="el" href="../../#l00077">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::OldWrongCritOrder()</a>.</p>
+
+</div>
+</div>
+<a id="ad8c6026ca0167ae177e227997c8e2388" name="ad8c6026ca0167ae177e227997c8e2388"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad8c6026ca0167ae177e227997c8e2388">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/5]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d7d/a29886.html">SpellCritDamageBonusOrderTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">OnlyTalentMod&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  111</span>{</div>
+<div class="line"><span class="lineno">  112</span>    <span class="comment">// Correct: bonus = 2000-1000 = 1000, *1.03 = 1030, +1000 = 2030</span></div>
+<div class="line"><span class="lineno">  113</span>    <span class="comment">// Old: crit_bonus = 1000*1.03 = 1030, total = 2030</span></div>
+<div class="line"><span class="lineno">  114</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/d48/a05187.html#ab55aeffce172b7e667fdcb86ba06d954">CorrectCritOrder</a>(1000, 0.0f, 3.0f), 2030);</div>
+<div class="line"><span class="lineno">  115</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/d48/a05187.html#ae0ad4b3cd3c2381976fd6106fc4f8088">OldWrongCritOrder</a>(1000, 0.0f, 3.0f), 2030);</div>
+<div class="line"><span class="lineno">  116</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00053">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::CorrectCritOrder()</a>, and <a class="el" href="../../#l00077">anonymous_namespace{SpellCritDamageBonusOrderTest.cpp}::OldWrongCritOrder()</a>.</p>
 
 </div>
 </div>
@@ -169,8 +341,8 @@ Macros</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_34825b659a55315b272dfcc55a7a0f6a.html">Collision</a></li><li class="navelem"><a class="el" href="../../de/db1/a04997.html">RegularGrid.h</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 21:47:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../de/db1/a04997.html">SpellCritDamageBonusOrderTest.cpp</a></li>
+    <li class="footer">Generated on Mon Jul 27 2026 21:43:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

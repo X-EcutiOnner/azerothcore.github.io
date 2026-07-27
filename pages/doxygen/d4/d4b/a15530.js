@@ -1,5 +1,7 @@
 var a15530 =
 [
-    [ "at_twin_emperors", "d4/d4b/a15530.html#a343d482857fa0a45c42f593e591f7754", null ],
-    [ "_OnTrigger", "d4/d4b/a15530.html#adf3120b7bf611e0246abb2970711ada3", null ]
+    [ "boss_kurinnaxx", "d4/d4b/a15530.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "d4/d4b/a15530.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "d4/d4b/a15530.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "d4/d4b/a15530.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

@@ -1,6 +1,5 @@
 var a14298 =
 [
-    [ "boss_hakkarAI", "d2/d82/a14302.html", "d2/d82/a14302" ],
-    [ "boss_hakkar", "d2/dea/a14298.html#a834bd1f223154fbf1be94bf43136da28", null ],
-    [ "GetAI", "d2/dea/a14298.html#aff3a089e30dcddfde4db372104153723", null ]
+    [ "npc_andorhal_towerAI", "d2/dea/a14298.html#ad2f8a14f2adfe1418a23de274493f85e", null ],
+    [ "MoveInLineOfSight", "d2/dea/a14298.html#a1165ee0e066dcaeb300096e55758389b", null ]
 ];

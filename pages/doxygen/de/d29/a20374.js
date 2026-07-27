@@ -1,6 +1,7 @@
 var a20374 =
 [
-    [ "HandleDamage", "de/d29/a20374.html#af2578478e83eb2f6c2de32a692e9be91", null ],
-    [ "PrepareSpellScript", "de/d29/a20374.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
-    [ "Register", "de/d29/a20374.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
+    [ "boss_freya_lifebinder", "de/d29/a20374.html#a1784d6e975192a7442cabb14f688737d", null ],
+    [ "Reset", "de/d29/a20374.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
+    [ "UpdateAI", "de/d29/a20374.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
+    [ "_healTimer", "de/d29/a20374.html#a5545c496e9a1f9cc0da2824f695aa30e", null ]
 ];

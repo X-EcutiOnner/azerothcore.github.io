@@ -1,7 +1,8 @@
 var a24270 =
 [
-    [ "HandleProc", "d2/dad/a24270.html#a6bfa44b7adfff5aebbfe96bd7b983744", null ],
-    [ "PrepareAuraScript", "d2/dad/a24270.html#adf8a9d15a105bb639ae240d6062a7041", null ],
-    [ "Register", "d2/dad/a24270.html#a7e63aa6af08411ad8e75fc69bdb84de5", null ],
-    [ "Validate", "d2/dad/a24270.html#a6a70833aaae84cbb512d3ebaa79fe301", null ]
+    [ "npc_kservantAI", "d2/dad/a24270.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "d2/dad/a24270.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "d2/dad/a24270.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "d2/dad/a24270.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
+    [ "WaypointReached", "d2/dad/a24270.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

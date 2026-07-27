@@ -1,13 +1,10 @@
 var a14710 =
 [
-    [ "npc_costumed_orphan_matron", "d4/de3/a14710.html#a0b913090588613ac00ea928f6273d56f", null ],
-    [ "DoAction", "d4/de3/a14710.html#a7a7739f89604ffb5afc6bab75118340e", null ],
-    [ "GetInitXYZ", "d4/de3/a14710.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533", null ],
-    [ "Reset", "d4/de3/a14710.html#a962de50b13079f3337c4e41eb2d98b55", null ],
-    [ "sGossipHello", "d4/de3/a14710.html#a1a9c58c087b8addf8e482375737d6c49", null ],
-    [ "sQuestAccept", "d4/de3/a14710.html#adac5d514261a210a701442da13ba1587", null ],
-    [ "UpdateAI", "d4/de3/a14710.html#a4679d807df8749265ba0453c5b7588f1", null ],
-    [ "allowQuest", "d4/de3/a14710.html#a722f4bfd0fb8b2665ff2b79d3208bc90", null ],
-    [ "eventStarted", "d4/de3/a14710.html#a5292ab4e45fe3a858b3a59ef4a79bb34", null ],
-    [ "horseGUID", "d4/de3/a14710.html#a92cfd09cefd26933ae322f2cc2716927", null ]
+    [ "npc_brewfest_super_brew_trigger", "d4/de3/a14710.html#a3d2189978683150b1c431fa0fd637358", null ],
+    [ "AttackStart", "d4/de3/a14710.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
+    [ "JustEngagedWith", "d4/de3/a14710.html#a61be52cb8ba0cc10285820ad5324816e", null ],
+    [ "MoveInLineOfSight", "d4/de3/a14710.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
+    [ "Reset", "d4/de3/a14710.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
+    [ "UpdateAI", "d4/de3/a14710.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
+    [ "timer", "d4/de3/a14710.html#a2ebb06175e3142cca156e57e8386fe02", null ]
 ];

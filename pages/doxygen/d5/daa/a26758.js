@@ -1,7 +1,6 @@
 var a26758 =
 [
-    [ "HandleDummy", "d5/daa/a26758.html#aef93741620dcf29179502f88891ad0b5", null ],
-    [ "Load", "d5/daa/a26758.html#ab8e5dcd009cca538c9921dcb9c5fe109", null ],
-    [ "PrepareSpellScript", "d5/daa/a26758.html#ac92fd133395705e4cb3730bc96e1f787", null ],
-    [ "Register", "d5/daa/a26758.html#a69336bea35240c0014693ae167d4124b", null ]
+    [ "CheckCast", "d5/daa/a26758.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
+    [ "PrepareSpellScript", "d5/daa/a26758.html#a33e86d770e926247c58c00143b55c418", null ],
+    [ "Register", "d5/daa/a26758.html#a453c7fa25baf458c9a319053ca726621", null ]
 ];

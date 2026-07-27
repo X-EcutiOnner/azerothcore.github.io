@@ -1,8 +1,5 @@
 var a28062 =
 [
-    [ "npc_franklinAI", "d5/d16/a28066.html", "d5/d16/a28066" ],
-    [ "npc_franklin", "da/d65/a28062.html#aab059dfa69e52083892e3170c8838e0a", null ],
-    [ "GetAI", "da/d65/a28062.html#a10933878afe9d0cc78fa1113341fd522", null ],
-    [ "OnGossipHello", "da/d65/a28062.html#a318d512914b135800caabe0efbb1c467", null ],
-    [ "OnGossipSelect", "da/d65/a28062.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
+    [ "AreaTrigger_at_sentry_point", "da/d65/a28062.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
+    [ "OnTrigger", "da/d65/a28062.html#ab59fb74f4f988c208359855d2e4d9918", null ]
 ];

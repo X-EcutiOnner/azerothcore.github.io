@@ -1,6 +1,6 @@
 var a27678 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "d4/d34/a27678.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "d4/d34/a27678.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "d4/d34/a27678.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "HandleBanish", "d4/d34/a27678.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
+    [ "PrepareSpellScript", "d4/d34/a27678.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
+    [ "Register", "d4/d34/a27678.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
 ];

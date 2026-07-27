@@ -1,14 +1,11 @@
 var a14146 =
 [
-    [ "boss_hexlord_malacrass", "dc/d14/a14146.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
-    [ "JustEngagedWith", "dc/d14/a14146.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
-    [ "KilledUnit", "dc/d14/a14146.html#a69e7a3aa2cb068706651bad34363099f", null ],
-    [ "Reset", "dc/d14/a14146.html#af00159c9e2c54033f52f46d60881f22e", null ],
-    [ "ScheduleClassAbility", "dc/d14/a14146.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
-    [ "SpawnAdds", "dc/d14/a14146.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
-    [ "UseAbility", "dc/d14/a14146.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
-    [ "_classAbilityTimer", "dc/d14/a14146.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
-    [ "_creatureIndex", "dc/d14/a14146.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
-    [ "_currentClass", "dc/d14/a14146.html#ab7e531fccbb486b7b429d77d804841c2", null ],
-    [ "_timeUntilNextDrainPower", "dc/d14/a14146.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
+    [ "npc_scarlet_ghoul", "dc/d14/a14146.html#aa256e50446b0511a0412442245be2e82", null ],
+    [ "InitializeAI", "dc/d14/a14146.html#a5e98c4a1e9a31124dc6ca67c612db1c9", null ],
+    [ "MovementInform", "dc/d14/a14146.html#a06f14ccde727b7c875f3be8243dec2a8", null ],
+    [ "OwnerAttackedBy", "dc/d14/a14146.html#aacf81b86947124cea21fc6d2e906487f", null ],
+    [ "SetGUID", "dc/d14/a14146.html#ab3840f1d6b1e63b4707d5139b63281cc", null ],
+    [ "UpdateAI", "dc/d14/a14146.html#af8637b2a7644b917aa6ef10b31a1d1e0", null ],
+    [ "events", "dc/d14/a14146.html#ad2b3d650e151a13159e119cb3fda88a4", null ],
+    [ "gothikGUID", "dc/d14/a14146.html#a9275cf7efde4c77ce114448777f25f1e", null ]
 ];

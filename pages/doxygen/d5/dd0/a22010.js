@@ -1,8 +1,10 @@
 var a22010 =
 [
-    [ "npc_wg_queueAI", "d5/d54/a22014.html", "d5/d54/a22014" ],
-    [ "npc_wg_queue", "d5/dd0/a22010.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "d5/dd0/a22010.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "d5/dd0/a22010.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "d5/dd0/a22010.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "npc_Apothecary_HanesAI", "d5/dd0/a22010.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
+    [ "JustDied", "d5/dd0/a22010.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
+    [ "Reset", "d5/dd0/a22010.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
+    [ "UpdateEscortAI", "d5/dd0/a22010.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
+    [ "WaypointReached", "d5/dd0/a22010.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "WaypointReached", "d5/dd0/a22010.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "PotTimer", "d5/dd0/a22010.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

@@ -1,12 +1,8 @@
 var a13918 =
 [
-    [ "npc_sentinel_infiltrator", "d2/d8d/a13918.html#a40ce6808a4d0622eb88a669485335020", null ],
-    [ "Initialize", "d2/d8d/a13918.html#acc94269a3ede4c897f457a270e9a9c12", null ],
-    [ "JustEngagedWith", "d2/d8d/a13918.html#a2c9927468b92d00b60efac851eacfef1", null ],
-    [ "MovementInform", "d2/d8d/a13918.html#a57aef1c4ce7a491408c2c6b19d4d4cf2", null ],
-    [ "Reset", "d2/d8d/a13918.html#a0f26dbe23efdf572f81723dff1d3eeaf", null ],
-    [ "UpdateAI", "d2/d8d/a13918.html#ac676246948689c891c0f9cca7f8bc8b6", null ],
-    [ "_events", "d2/d8d/a13918.html#a296d6c70b6c439319cc69a9d39005e62", null ],
-    [ "_fleedForAssistance", "d2/d8d/a13918.html#a948c9d2081b33e18aa927fb18598c8ad", null ],
-    [ "_path", "d2/d8d/a13918.html#a32d531478df327ccb0bb85e262420813", null ]
+    [ "npc_sunblade_arch_mage", "d2/d8d/a13918.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
+    [ "JustEngagedWith", "d2/d8d/a13918.html#aadeae32d691229b7b7b531175b8a5018", null ],
+    [ "Reset", "d2/d8d/a13918.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
+    [ "UpdateAI", "d2/d8d/a13918.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
+    [ "scheduler", "d2/d8d/a13918.html#aa6680f06651316996868907b1d28126c", null ]
 ];

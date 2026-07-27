@@ -1,7 +1,7 @@
 var a15982 =
 [
-    [ "npc_lakota_windsongAI", "dd/dc8/a15986.html", "dd/dc8/a15986" ],
-    [ "npc_lakota_windsong", "d9/d96/a15982.html#a08a585ac36189ec23354c7acb26d223d", null ],
-    [ "GetAI", "d9/d96/a15982.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
-    [ "OnQuestAccept", "d9/d96/a15982.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
+    [ "HandleDummy", "d9/d96/a15982.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "d9/d96/a15982.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "d9/d96/a15982.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "d9/d96/a15982.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

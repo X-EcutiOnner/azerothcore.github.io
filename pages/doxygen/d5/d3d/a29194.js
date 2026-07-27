@@ -1,6 +1,11 @@
 var a29194 =
 [
-    [ "lastExtraAttackSpell", "d5/d3d/a29194.html#a0b7c47a0c1a328703648936a1da3245f", null ],
-    [ "triggeredSpellHasExtraAttacks", "d5/d3d/a29194.html#ad58a8f2f91c6a32371feab14e51e8e29", null ],
-    [ "triggerSpellId", "d5/d3d/a29194.html#a01a4d76e7e2bf15a3ae06926fa1189c9", null ]
+    [ "ClassID", "d5/d3d/a29194.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
+    [ "DisplayInfoID", "d5/d3d/a29194.html#a87657df2ad024245ccb2192303f76b7a", null ],
+    [ "ID", "d5/d3d/a29194.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
+    [ "InventoryType", "d5/d3d/a29194.html#a6dc33fc40a299b010c18a7009aff648b", null ],
+    [ "Material", "d5/d3d/a29194.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
+    [ "SheatheType", "d5/d3d/a29194.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
+    [ "SoundOverrideSubclassID", "d5/d3d/a29194.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
+    [ "SubclassID", "d5/d3d/a29194.html#ac39254716573e335caf312f635353a2e", null ]
 ];

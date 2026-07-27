@@ -1,8 +1,12 @@
 var a03824 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "d6/d49/a28460.html", "d6/d49/a28460" ],
-    [ "ApprenticeAnglerQuestEnum", "dc/d0f/a03824.html#a6d8279401bbf1ce28fa9c35fbcf1970c", [
-      [ "QUEST_APPRENTICE_ANGLER", "dc/d0f/a03824.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba", null ]
+    [ "boss_grizzle", "db/d48/a12730.html", "db/d48/a12730" ],
+    [ "Grizzle", "dc/d0f/a03824.html#acfff5d4b983e4db1d5efb6bd5da7e7aa", [
+      [ "SPELL_GROUNDTREMOR", "dc/d0f/a03824.html#acfff5d4b983e4db1d5efb6bd5da7e7aaa4426ae7fabf4ddb0d8355b0049b5a6bb", null ],
+      [ "SPELL_FRENZY", "dc/d0f/a03824.html#acfff5d4b983e4db1d5efb6bd5da7e7aaab54f261ba282273bed875abe6642a293", null ],
+      [ "EMOTE_FRENZY_KILL", "dc/d0f/a03824.html#acfff5d4b983e4db1d5efb6bd5da7e7aaaebdb26e3a90dde560c1c4f7fd5615f63", null ]
     ] ],
-    [ "AddSC_player_scripts", "dc/d0f/a03824.html#a1f476a8466c12651b57fd55bf13b9617", null ]
+    [ "AddSC_boss_grizzle", "dc/d0f/a03824.html#adb6c19fe584b9ecd11ab67084570a0be", null ],
+    [ "TIMER_FRENZY", "dc/d0f/a03824.html#a57b77ddbaec70c1bfcf7f1ccbf0715a1", null ],
+    [ "TIMER_GROUNDTREMOR", "dc/d0f/a03824.html#abc54daa3a30dab6dcbd53b460e55a15a", null ]
 ];

@@ -1,12 +1,12 @@
 var a15854 =
 [
-    [ "npc_thrall_warchiefAI", "dc/d45/a15854.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
-    [ "DoAction", "dc/d45/a15854.html#a511da19703e30f6e82e59c5223bf2770", null ],
-    [ "JustDied", "dc/d45/a15854.html#a5e6da0a5f5190d7959faff60851e679a", null ],
-    [ "JustEngagedWith", "dc/d45/a15854.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
-    [ "Reset", "dc/d45/a15854.html#a920a29258228c9c2e7e0791d38b648e1", null ],
-    [ "sGossipSelect", "dc/d45/a15854.html#aaad63a0de8acfc17355b7a35de4cc164", null ],
-    [ "UpdateAI", "dc/d45/a15854.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
-    [ "ChainLightningTimer", "dc/d45/a15854.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
-    [ "ShockTimer", "dc/d45/a15854.html#aa8609f8824f68ce7259465284c01dd35", null ]
+    [ "npc_magwinAI", "dc/d45/a15854.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
+    [ "JustEngagedWith", "dc/d45/a15854.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
+    [ "Reset", "dc/d45/a15854.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
+    [ "sQuestAccept", "dc/d45/a15854.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
+    [ "UpdateEscortAI", "dc/d45/a15854.html#a34236331be8842a9e2a98036ea382e18", null ],
+    [ "WaypointReached", "dc/d45/a15854.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
+    [ "WaypointReached", "dc/d45/a15854.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_events", "dc/d45/a15854.html#a32dad2bde92efab7e0f0d16e809df665", null ],
+    [ "_player", "dc/d45/a15854.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
 ];

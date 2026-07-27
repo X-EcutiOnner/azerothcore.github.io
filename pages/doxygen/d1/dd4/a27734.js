@@ -1,7 +1,7 @@
 var a27734 =
 [
-    [ "FilterTargets", "d1/dd4/a27734.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "d1/dd4/a27734.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "d1/dd4/a27734.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "d1/dd4/a27734.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "HandleDispel", "d1/dd4/a27734.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
+    [ "PrepareAuraScript", "d1/dd4/a27734.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
+    [ "Register", "d1/dd4/a27734.html#a2c67e4327fdd034978d4822311632980", null ],
+    [ "Validate", "d1/dd4/a27734.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
 ];

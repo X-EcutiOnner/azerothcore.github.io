@@ -1,7 +1,10 @@
 var a25350 =
 [
-    [ "HandleProc", "d8/d76/a25350.html#a67fd28d9426ed4825db86bf155d8d395", null ],
-    [ "PrepareAuraScript", "d8/d76/a25350.html#aba5b549d9a3b9fecdc16270732e3a5d7", null ],
-    [ "Register", "d8/d76/a25350.html#a50f5c5e00a327325da2e49ab0ab2bcb6", null ],
-    [ "Validate", "d8/d76/a25350.html#a769737b9f5971b684f52289873970930", null ]
+    [ "spell_gen_summon_elemental", "d8/d76/a25350.html#ae2dece3ac20afe16430e741fab909fa1", null ],
+    [ "AfterApply", "d8/d76/a25350.html#a97fbc7e3f60b6aae5d9783bbd9a2415d", null ],
+    [ "AfterRemove", "d8/d76/a25350.html#aeec3688e66a7e9f0207b219e9dcdb265", null ],
+    [ "PrepareAuraScript", "d8/d76/a25350.html#a3ad6e5615bb080abae4e18673cd40b6d", null ],
+    [ "Register", "d8/d76/a25350.html#ac364e1a3c4b5a1cfd35d8dcec0a42345", null ],
+    [ "Validate", "d8/d76/a25350.html#ac2284d4f192fe402ebcf6ad75e777c2a", null ],
+    [ "_spellId", "d8/d76/a25350.html#a6ac27b65f909a8c832cf3d301c8db0ce", null ]
 ];

@@ -1,6 +1,6 @@
 var a17034 =
 [
-    [ "HandleScriptEffect", "da/d3d/a17034.html#a90b13b2a093fdd430a383d7ea4126290", null ],
-    [ "PrepareSpellScript", "da/d3d/a17034.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
-    [ "Register", "da/d3d/a17034.html#a53c8d47ee21637055ad901946be1e2c2", null ]
+    [ "npc_fel_infernalAI", "db/d54/a17038.html", "db/d54/a17038" ],
+    [ "npc_fel_infernal", "da/d3d/a17034.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "da/d3d/a17034.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

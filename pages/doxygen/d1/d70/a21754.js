@@ -1,6 +1,6 @@
 var a21754 =
 [
-    [ "HandleDummy", "d1/d70/a21754.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "d1/d70/a21754.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "d1/d70/a21754.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "npc_future_youAI", "dd/dcd/a21758.html", "dd/dcd/a21758" ],
+    [ "npc_future_you", "d1/d70/a21754.html#a36e363156bcb32fee468989062817bd5", null ],
+    [ "GetAI", "d1/d70/a21754.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
 ];

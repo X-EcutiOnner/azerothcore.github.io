@@ -1,10 +1,7 @@
 var a13030 =
 [
-    [ "boss_servant_quarters", "d0/dc5/a13030.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
-    [ "JustDied", "d0/dc5/a13030.html#a3b9df7ab573f22a9e15761cb662db404", null ],
-    [ "JustEngagedWith", "d0/dc5/a13030.html#afe4a4a78824851f63ce560a60d55cee3", null ],
-    [ "MovementInform", "d0/dc5/a13030.html#a00d31d9421903b6a92c03a3bd0382328", null ],
-    [ "Reset", "d0/dc5/a13030.html#a273a09b1242968a5dd45ab9866fbe481", null ],
-    [ "UpdateAI", "d0/dc5/a13030.html#a6a41cfd67310077803733190645050e4", null ],
-    [ "_scheduler", "d0/dc5/a13030.html#a520142de5e8d2911684b18c85a3f37e2", null ]
+    [ "HandlePeriodic", "d0/dc5/a13030.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
+    [ "PrepareAuraScript", "d0/dc5/a13030.html#aae9d31049889eea5c5f09dd5437de950", null ],
+    [ "Register", "d0/dc5/a13030.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
+    [ "Validate", "d0/dc5/a13030.html#a462b882e41932f99e3501f32368cf4de", null ]
 ];

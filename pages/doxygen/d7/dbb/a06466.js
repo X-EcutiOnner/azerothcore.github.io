@@ -1,5 +1,9 @@
 var a06466 =
 [
-    [ "SimpleCharmedAI", "d7/dbb/a06466.html#ada8d12d7df75dca5c87c633348d1b27b", null ],
-    [ "UpdateAI", "d7/dbb/a06466.html#a5e2c8ae6b601b7fcc36f8c2c49bcd9a6", null ]
+    [ "CasterAI", "d7/dbb/a06466.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
+    [ "AttackStart", "d7/dbb/a06466.html#a28386fd1a275c002445e5eaf90314a3d", null ],
+    [ "InitializeAI", "d7/dbb/a06466.html#a2a24cdc24b665c52363dae587572fc4d", null ],
+    [ "JustEngagedWith", "d7/dbb/a06466.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
+    [ "UpdateAI", "d7/dbb/a06466.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
+    [ "m_attackDist", "d7/dbb/a06466.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
 ];

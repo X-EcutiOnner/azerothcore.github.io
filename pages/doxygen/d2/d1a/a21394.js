@@ -1,20 +1,12 @@
 var a21394 =
 [
-    [ "npc_hourglass_of_eternityAI", "d2/d1a/a21394.html#a51c68ff78150b7351dc34edf7a51e1a7", null ],
-    [ "GetCopy", "d2/d1a/a21394.html#addacaa0e3ba686d9cb343689c56fc4b5", null ],
-    [ "GetPlayer", "d2/d1a/a21394.html#a1216634009d635f5a1658cae62f92133", null ],
-    [ "HideNozdormu", "d2/d1a/a21394.html#acbcf4d9602bf87b2c4c4f898c8a6f6b0", null ],
-    [ "InitializeAI", "d2/d1a/a21394.html#af592003f019ace3e78ff7a19ada3e8f6", null ],
-    [ "IsFuture", "d2/d1a/a21394.html#a19527a426055c689a36f5b02e2978307", null ],
-    [ "randEntry", "d2/d1a/a21394.html#af581d3a7697fdb0f257d72568c342df8", null ],
-    [ "randomWhisper", "d2/d1a/a21394.html#a235353e41ee463f43f3d18a7b4f5a75d", null ],
-    [ "ShowNozdormu", "d2/d1a/a21394.html#a483e2a5a89b3dc4cfd51bb78732a6af2", null ],
-    [ "UpdateAI", "d2/d1a/a21394.html#a66a80c2c36a5fa7a89b30a7c872007d8", null ],
-    [ "copyGUID", "d2/d1a/a21394.html#add68894964681b8345c3751510f7e48c", null ],
-    [ "count", "d2/d1a/a21394.html#a126b67aacdfd0d96ad443944e9244f3b", null ],
-    [ "events", "d2/d1a/a21394.html#ae2d5690e0dc5205d68bd1ddb1b0ca3a9", null ],
-    [ "lastRandomTalk", "d2/d1a/a21394.html#aa00ff56a5a906e97ddf4d10d300c85c4", null ],
-    [ "pGUID", "d2/d1a/a21394.html#a6ad97b2c11057f936dce4aad04894177", null ],
-    [ "phase", "d2/d1a/a21394.html#ad7d3755e7b13c4b37d56f14746acc1e1", null ],
-    [ "randomTalk", "d2/d1a/a21394.html#a19042362c0dc7da80b81d284d2fa7e4b", null ]
+    [ "boss_koralonAI", "d2/d1a/a21394.html#a3f5bc42a141011e543d1215eac09dc74", null ],
+    [ "AttackStart", "d2/d1a/a21394.html#aa84e6e9a302172e134163cd07ca57864", null ],
+    [ "JustDied", "d2/d1a/a21394.html#a102c10792d9e7df61d920b5a43f58e51", null ],
+    [ "JustEngagedWith", "d2/d1a/a21394.html#aa7503618dd09e0aebac44394595f4715", null ],
+    [ "Reset", "d2/d1a/a21394.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
+    [ "UpdateAI", "d2/d1a/a21394.html#aa944aad2eb68adc917cba743d1e530c7", null ],
+    [ "events", "d2/d1a/a21394.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
+    [ "pInstance", "d2/d1a/a21394.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
+    [ "rotateTimer", "d2/d1a/a21394.html#ad4b766094f28e940b0b7971d6dadc277", null ]
 ];

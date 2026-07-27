@@ -1,7 +1,7 @@
 var a20178 =
 [
-    [ "npc_ulduar_icicle", "dd/dc5/a20178.html#ac5f024031a70b4ca04ecc0a96fcbdcae", null ],
-    [ "UpdateAI", "dd/dc5/a20178.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
-    [ "timer1", "dd/dc5/a20178.html#ae277d302131abd17cef018872b12da06", null ],
-    [ "timer2", "dd/dc5/a20178.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
+    [ "OnRemove", "dd/dc5/a20178.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
+    [ "PrepareAuraScript", "dd/dc5/a20178.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
+    [ "Register", "dd/dc5/a20178.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
+    [ "Validate", "dd/dc5/a20178.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
 ];

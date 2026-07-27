@@ -1,7 +1,22 @@
 var a29558 =
 [
-    [ "SetUp", "de/d63/a29558.html#ab58c026bc6bbcf94aaec896c654e949f", null ],
-    [ "DAGGER_SPEED", "de/d63/a29558.html#a2e9b2005f350f0aec0a905eef5bc0bb6", null ],
-    [ "SWORD_SPEED", "de/d63/a29558.html#ac960eb9c5e15274b63b684d8908ed68b", null ],
-    [ "TWO_HANDED_SPEED", "de/d63/a29558.html#a7dbbfc5825a36bf3950a8dff54e0ca5a", null ]
+    [ "HealInfoStub", "de/d63/a29558.html#afa2b7c6e93b387f16e2b545adc4fa05c", null ],
+    [ "HealInfoStub", "de/d63/a29558.html#ae011c5a0f72cd5581e661793c3ac2fdc", null ],
+    [ "~HealInfoStub", "de/d63/a29558.html#ae599d81216cbcaa69f206ac6eca6d886", null ],
+    [ "GetAbsorb", "de/d63/a29558.html#aae8cd0f206d4dbd78b56838cdb49dad6", null ],
+    [ "GetEffectiveHeal", "de/d63/a29558.html#aa19e94b9523f803f2af09fb77382f3c2", null ],
+    [ "GetHeal", "de/d63/a29558.html#abc0ad944af22920bc105b1b4c71ad467", null ],
+    [ "GetHitMask", "de/d63/a29558.html#ac110638d1729fae0ba6594d7f092d4b0", null ],
+    [ "GetOverheal", "de/d63/a29558.html#a5af3db6eed10c8b2cd17f0509f6085fa", null ],
+    [ "GetSpellInfo", "de/d63/a29558.html#a05ce52ae6ea15c8043dfeae236466017", null ],
+    [ "SetAbsorb", "de/d63/a29558.html#a5f7988705654a3b6f460ddbbecb3992b", null ],
+    [ "SetEffectiveHeal", "de/d63/a29558.html#ad8c263f50edf324a72ca366f6caf4377", null ],
+    [ "SetHeal", "de/d63/a29558.html#a6dede4a2256ff21fde331ae05d257718", null ],
+    [ "SetHitMask", "de/d63/a29558.html#a4f50475819621d56efd4e359ed004483", null ],
+    [ "SetSpellInfo", "de/d63/a29558.html#a2e5ac0bb798710d33e0ff4c29c8507a0", null ],
+    [ "_absorb", "de/d63/a29558.html#a1b6726177d88f4da4b4fa36e96136711", null ],
+    [ "_effectiveHeal", "de/d63/a29558.html#aab54619f78456698c646d83ac448e1e2", null ],
+    [ "_heal", "de/d63/a29558.html#a44c86cf0c0d87d9ceb9574ced0990845", null ],
+    [ "_hitMask", "de/d63/a29558.html#a2228ffd4334cc5adff51e67394d19de9", null ],
+    [ "_spellInfo", "de/d63/a29558.html#a94cd95b537e2510047da23a7f9176aa6", null ]
 ];

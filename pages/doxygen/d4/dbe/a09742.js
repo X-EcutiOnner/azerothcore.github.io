@@ -1,7 +1,10 @@
 var a09742 =
 [
-    [ "AnyPlayerExactPositionInGameObjectRangeCheck", "d4/dbe/a09742.html#a51100c20d5b7f795f062dfaa5aa65017", null ],
-    [ "operator()", "d4/dbe/a09742.html#a0dd7216a026b7f90b293b2adf20a0191", null ],
-    [ "_go", "d4/dbe/a09742.html#a70e0b15948cf34a7c759885949560dcd", null ],
-    [ "_range", "d4/dbe/a09742.html#ad91342e50833e3b9d75c5e548248941f", null ]
+    [ "MostHPPercentMissingInRange", "d4/dbe/a09742.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
+    [ "operator()", "d4/dbe/a09742.html#ab1734490a3db95ad715756e85ecfaf77", null ],
+    [ "i_hpPct", "d4/dbe/a09742.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
+    [ "i_maxHpPct", "d4/dbe/a09742.html#afd12795ef0cd99e05e4e21f869582416", null ],
+    [ "i_minHpPct", "d4/dbe/a09742.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
+    [ "i_obj", "d4/dbe/a09742.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
+    [ "i_range", "d4/dbe/a09742.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
 ];

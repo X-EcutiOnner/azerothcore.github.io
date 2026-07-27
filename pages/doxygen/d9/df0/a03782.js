@@ -1,9 +1,10 @@
 var a03782 =
 [
-    [ "instance_ruby_sanctum", "d5/da9/a16664.html", "d5/da9/a16664" ],
-    [ "instance_ruby_sanctum::instance_ruby_sanctum_InstanceMapScript", "d7/dd9/a16668.html", "d7/dd9/a16668" ],
-    [ "spell_ruby_sanctum_rallying_shout", "db/d20/a16672.html", "db/d20/a16672" ],
-    [ "AddSC_instance_ruby_sanctum", "d9/df0/a03782.html#a93f8126d2e36ad7caab980f1c3f83a14", null ],
-    [ "boundaries", "d9/df0/a03782.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "doorData", "d9/df0/a03782.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "MCBossObject", "d8/d4f/a13110.html", "d8/d4f/a13110" ],
+    [ "instance_molten_core", "de/d72/a13114.html", "de/d72/a13114" ],
+    [ "AddSC_instance_molten_core", "d9/df0/a03782.html#aa908fb56c2f024e5bfcb38bc98b849ab", null ],
+    [ "linkedBossObjData", "d9/df0/a03782.html#a69ab269a27b57bb4b00d3eee95db589e", null ],
+    [ "MAX_MC_LINKED_BOSS_OBJ", "d9/df0/a03782.html#a398f000c29691c6a24707190dc4a4024", null ],
+    [ "minionData", "d9/df0/a03782.html#a6720238df140a3c574a711042b7f5bd3", null ],
+    [ "SAY_SPAWN", "d9/df0/a03782.html#a1712840a822c3d823764d3c974c6ea31", null ]
 ];

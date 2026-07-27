@@ -1,7 +1,10 @@
 var a14762 =
 [
-    [ "HandleEffectApply", "d1/d0d/a14762.html#ad48d832fef881bfb517fb8df694b7507", null ],
-    [ "HandleEffectRemove", "d1/d0d/a14762.html#a1534b010301dbaff66d41443142c50b7", null ],
-    [ "PrepareAuraScript", "d1/d0d/a14762.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
-    [ "Register", "d1/d0d/a14762.html#a97a0003cca808e5b03f720bb3be07419", null ]
+    [ "npc_coren_direbrew_sisters", "d1/d0d/a14762.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
+    [ "GetGUID", "d1/d0d/a14762.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
+    [ "JustEngagedWith", "d1/d0d/a14762.html#a34e0b6af032240c152c463c221d99335", null ],
+    [ "SetGUID", "d1/d0d/a14762.html#a8b25691671f4a65e990e9f39c92214ae", null ],
+    [ "UpdateAI", "d1/d0d/a14762.html#a7434b08d12d3f0902d1944b75323560c", null ],
+    [ "_scheduler", "d1/d0d/a14762.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
+    [ "_targetGUID", "d1/d0d/a14762.html#a801a6811124a7db3a31ec492ef954b20", null ]
 ];

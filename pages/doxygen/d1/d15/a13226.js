@@ -1,5 +1,5 @@
 var a13226 =
 [
-    [ "boss_yazzai", "d1/d15/a13226.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
-    [ "JustEngagedWith", "d1/d15/a13226.html#ab504de0e51a3715485eb65e006352a6f", null ]
+    [ "go_blackened_urn", "d1/d15/a13226.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
+    [ "OnGossipHello", "d1/d15/a13226.html#ab091bd54734acc65532303a391441ee2", null ]
 ];

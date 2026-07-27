@@ -1,6 +1,16 @@
 var a29538 =
 [
-    [ "CreateArmorProcConfig", "dd/d72/a29538.html#aae16272567352cb8730edcba3908a08f", null ],
-    [ "CreateWeaponProcConfig", "dd/d72/a29538.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
-    [ "SetUp", "dd/d72/a29538.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
+    [ "AuraApplicationStub", "dd/d72/a29538.html#afaa194023ae92143078166c9a142a41d", null ],
+    [ "~AuraApplicationStub", "dd/d72/a29538.html#ada36445f6f090c6652e0567a5333bb53", null ],
+    [ "GetEffectMask", "dd/d72/a29538.html#ad74cccf28b56c1fe88988df229319dae", null ],
+    [ "GetSlot", "dd/d72/a29538.html#a30f0ddd6c6bbc974958a33ecee39135e", null ],
+    [ "HasEffect", "dd/d72/a29538.html#ad4040b722b12e54aa630abfa78cdaabd", null ],
+    [ "IsPositive", "dd/d72/a29538.html#a1bf6810ab9723ce50ddf46789d2a5045", null ],
+    [ "SetEffect", "dd/d72/a29538.html#a97383d45b0a015579a0f315474ecfcc5", null ],
+    [ "SetEffectMask", "dd/d72/a29538.html#a1fab3395f580b30fa7b2257cbcacd26a", null ],
+    [ "SetPositive", "dd/d72/a29538.html#a653fb81ddfa4c7ad855d9f1fefe172f4", null ],
+    [ "SetSlot", "dd/d72/a29538.html#a824a2ec07e911fdb02054eff2091f2ea", null ],
+    [ "_effectMask", "dd/d72/a29538.html#a9027c5f622263c32b6f7bc4a11883ddc", null ],
+    [ "_isPositive", "dd/d72/a29538.html#afc3220aa9f0403a987ad07cec1c42ced", null ],
+    [ "_slot", "dd/d72/a29538.html#aa4afd58cae5bcfd203d61a1044d72d57", null ]
 ];

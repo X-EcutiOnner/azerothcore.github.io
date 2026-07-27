@@ -1,14 +1,14 @@
 var a10102 =
 [
-    [ "TriangleBoundary", "dc/d01/a10102.html#acd21a26ca6b830c4d4c6ed2b4a186a30", null ],
-    [ "IsWithinBoundaryArea", "dc/d01/a10102.html#aaebce21d60856976db921e22a871aae6", null ],
-    [ "_a", "dc/d01/a10102.html#a11a5e1e039d39205450e8fde526f23c9", null ],
-    [ "_abx", "dc/d01/a10102.html#a18ad05ab00e882af42a5dbc0cf10715b", null ],
-    [ "_aby", "dc/d01/a10102.html#a50c9a60be77846c736cf278eac263b44", null ],
-    [ "_b", "dc/d01/a10102.html#abcce62f1f187bc6e42f4534bfca855e8", null ],
-    [ "_bcx", "dc/d01/a10102.html#a043b7c018baed6b098f93b667f47baed", null ],
-    [ "_bcy", "dc/d01/a10102.html#afa03a5b23a6e0d3d4e134fe7b1599df0", null ],
-    [ "_c", "dc/d01/a10102.html#a8e037f96f40d81f6c426208efb0dcd1a", null ],
-    [ "_cax", "dc/d01/a10102.html#a7c8c6e8e40ec6249d672bb735d9fbdfa", null ],
-    [ "_cay", "dc/d01/a10102.html#acbb7a9e61dd4e6188837461821843b9a", null ]
+    [ "LootItemStorage", "dc/d01/a10102.html#aa6ece474f05744f2ce24a9fef42734af", null ],
+    [ "~LootItemStorage", "dc/d01/a10102.html#a36faeed6ef556fd13118c4ad34e38548", null ],
+    [ "AddNewStoredLoot", "dc/d01/a10102.html#a4c463773b50ae1b312865fbf72dfed18", null ],
+    [ "instance", "dc/d01/a10102.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b", null ],
+    [ "LoadStorageFromDB", "dc/d01/a10102.html#a377c75f9d06eb246072b29d19baf2b62", null ],
+    [ "LoadStoredLoot", "dc/d01/a10102.html#ad9804f564302d6ea4db4b84a6cbb093b", null ],
+    [ "RemoveEntryFromDB", "dc/d01/a10102.html#a8ab68725c0525d162d325a2131db4c49", null ],
+    [ "RemoveStoredLoot", "dc/d01/a10102.html#a414dee93f9852a64f01f9d9bf8dc8b40", null ],
+    [ "RemoveStoredLootItem", "dc/d01/a10102.html#a6fd3f2ac820784ba51413b3781df3bcc", null ],
+    [ "RemoveStoredLootMoney", "dc/d01/a10102.html#ab22d267a6701fedf824f801e4b703f70", null ],
+    [ "lootItemStore", "dc/d01/a10102.html#a58ae52b9812e5752ba00d00a58eb56b0", null ]
 ];

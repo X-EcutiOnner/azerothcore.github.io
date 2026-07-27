@@ -1,8 +1,8 @@
 var a05346 =
 [
-    [ "GModelRayCallback", "d5/d30/a05346.html#a39bc53ae3bf18800ea215a5a54568606", null ],
-    [ "operator()", "d5/d30/a05346.html#af0072bed861fb89a63c37fd72482ed42", null ],
-    [ "hit", "d5/d30/a05346.html#ad8861bd8f8c15ff9955c62f5cb1e13bf", null ],
-    [ "triangles", "d5/d30/a05346.html#a09ef515a1b16d184071e708ed9245b3d", null ],
-    [ "vertices", "d5/d30/a05346.html#af80815b123c6611f38e3d5b41e501546", null ]
+    [ "LocationInfo", "d5/d30/a05346.html#ae2e70dc65cd3b0379600a67dce7de6ba", null ],
+    [ "ground_Z", "d5/d30/a05346.html#a0ffbfcfc677809dda6250855d9594ca5", null ],
+    [ "hitInstance", "d5/d30/a05346.html#ab59b10bde437cca895b69c2035174b6d", null ],
+    [ "hitModel", "d5/d30/a05346.html#a17eef5c7a0ebf9b9963740a10fca459f", null ],
+    [ "rootId", "d5/d30/a05346.html#aae82d7d8518db5e131d6a327927c75a2", null ]
 ];

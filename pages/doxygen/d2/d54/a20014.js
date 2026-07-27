@@ -1,8 +1,6 @@
 var a20014 =
 [
-    [ "OnApply", "d2/d54/a20014.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "d2/d54/a20014.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "d2/d54/a20014.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "d2/d54/a20014.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "d2/d54/a20014.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "boss_maiden_of_griefAI", "d2/ddf/a20018.html", "d2/ddf/a20018" ],
+    [ "boss_maiden_of_grief", "d2/d54/a20014.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
+    [ "GetAI", "d2/d54/a20014.html#af8d2e6392a0c73add801910945b2558e", null ]
 ];

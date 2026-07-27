@@ -1,10 +1,8 @@
 var a26658 =
 [
-    [ "GetTarget", "d3/d73/a26658.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
-    [ "HandleEffectPeriodicPlatform", "d3/d73/a26658.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
-    [ "HandleEffectPeriodicSelf", "d3/d73/a26658.html#a2272a970ca5edca6f7353beb2279c29c", null ],
-    [ "PerformKick", "d3/d73/a26658.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
-    [ "PrepareAuraScript", "d3/d73/a26658.html#a489f1da8f8008db8f096470f28455ef9", null ],
-    [ "Register", "d3/d73/a26658.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
-    [ "AuraEffectHandleModes", "d3/d73/a26658.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
+    [ "HandleApply", "d3/d73/a26658.html#aafdf3712f163919f010d11d0becb398f", null ],
+    [ "HandleRemove", "d3/d73/a26658.html#ac3e33cb37d13b633f3938a48917a4975", null ],
+    [ "PrepareAuraScript", "d3/d73/a26658.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
+    [ "Register", "d3/d73/a26658.html#a84e7337494dc2e1772ca10dea26c675f", null ],
+    [ "Validate", "d3/d73/a26658.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
 ];

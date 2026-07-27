@@ -1,10 +1,20 @@
 var a01013 =
 [
-    [ "instance_sethekk_halls", "d9/dbf/a22485.html", "d9/dbf/a22485" ],
-    [ "instance_sethekk_halls::instance_sethekk_halls_InstanceMapScript", "d9/ddf/a22489.html", "d9/ddf/a22489" ],
-    [ "AddSC_instance_sethekk_halls", "d7/d59/a01013.html#a14325c1667938972a51bf364b00fe3c3", null ],
-    [ "anzuSummonEventId", "d7/d59/a01013.html#aa1fc295d418ed62b1c08ea6d11e111e3", null ],
-    [ "creatureData", "d7/d59/a01013.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d7/d59/a01013.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "d7/d59/a01013.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "WorldPackets::Quest::QuestLogFull", "db/da1/a11586.html", "db/da1/a11586" ],
+    [ "WorldPackets::Quest::QuestUpdateComplete", "dc/ddc/a11590.html", "dc/ddc/a11590" ],
+    [ "WorldPackets::Quest::QuestGiverQuestComplete", "de/d53/a11594.html", "de/d53/a11594" ],
+    [ "WorldPackets::Quest::QuestGiverQuestFailed", "d5/da2/a11598.html", "d5/da2/a11598" ],
+    [ "WorldPackets::Quest::QuestUpdateFailedTimer", "d1/ddf/a11602.html", "d1/ddf/a11602" ],
+    [ "WorldPackets::Quest::QuestGiverQuestInvalid", "d4/d0f/a11606.html", "d4/d0f/a11606" ],
+    [ "WorldPackets::Quest::QuestConfirmAccept", "d2/d96/a11610.html", "d2/d96/a11610" ],
+    [ "WorldPackets::Quest::QuestPushResult", "de/dff/a11614.html", "de/dff/a11614" ],
+    [ "WorldPackets::Quest::QuestUpdateAddItem", "d1/dfd/a11618.html", "d1/dfd/a11618" ],
+    [ "WorldPackets::Quest::QuestUpdateAddKill", "d0/db0/a11622.html", "d0/db0/a11622" ],
+    [ "WorldPackets::Quest::QuestUpdateAddPvPKill", "de/dde/a11626.html", "de/dde/a11626" ],
+    [ "WorldPackets::Quest::QuestPushResultClient", "df/db1/a11630.html", "df/db1/a11630" ],
+    [ "WorldPackets::Quest::QuestGiverQuestAutoLaunch", "d5/def/a11634.html", "d5/def/a11634" ],
+    [ "WorldPackets::Quest::QuestLogSwapQuest", "d3/d73/a11638.html", "d3/d73/a11638" ],
+    [ "WorldPackets::Quest::QuestLogRemoveQuest", "d8/d8c/a11642.html", "d8/d8c/a11642" ],
+    [ "WorldPackets::Quest::QuestConfirmAcceptClient", "da/ddd/a11646.html", "da/ddd/a11646" ],
+    [ "WorldPackets::Quest::PushQuestToParty", "d5/d06/a11650.html", "d5/d06/a11650" ]
 ];

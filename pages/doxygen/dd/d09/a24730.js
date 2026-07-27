@@ -1,6 +1,7 @@
 var a24730 =
 [
-    [ "HandleDummy", "dd/d09/a24730.html#a9f9c27bdfed0a457f7e851c8598f3625", null ],
-    [ "PrepareSpellScript", "dd/d09/a24730.html#ab666b72cd7cb0ef92ba6c417be5ac7cc", null ],
-    [ "Register", "dd/d09/a24730.html#a7b78161fda34b3dc3c844c392ce7e30e", null ]
+    [ "AfterApply", "dd/d09/a24730.html#aee69eceead7e31cce2638ff252f6653d", null ],
+    [ "AfterRemove", "dd/d09/a24730.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
+    [ "PrepareAuraScript", "dd/d09/a24730.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
+    [ "Register", "dd/d09/a24730.html#ab5f8afbfa688ebd548a5508543498b55", null ]
 ];

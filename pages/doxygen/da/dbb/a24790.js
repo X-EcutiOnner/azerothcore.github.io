@@ -1,7 +1,7 @@
 var a24790 =
 [
-    [ "HandleScript", "da/dbb/a24790.html#af386e49e9020328f123c4da7d82d4b0c", null ],
-    [ "PrepareSpellScript", "da/dbb/a24790.html#a5e4618514d33bbc18fcc26c83279e430", null ],
-    [ "Register", "da/dbb/a24790.html#a3560275f387f7b0de34f9d1c255241fe", null ],
-    [ "Validate", "da/dbb/a24790.html#a108e58cb90719b572f3578f0d44d0627", null ]
+    [ "HandleProc", "da/dbb/a24790.html#a1982ba611c17042d0bff8bac66280218", null ],
+    [ "PrepareAuraScript", "da/dbb/a24790.html#a459fde61325e3aeb1e339670138aacce", null ],
+    [ "Register", "da/dbb/a24790.html#a151f0e7f04a9ee01189de20686a15bc4", null ],
+    [ "Validate", "da/dbb/a24790.html#af57da6008a6ff796487b2da68644104b", null ]
 ];

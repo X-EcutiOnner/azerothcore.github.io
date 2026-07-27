@@ -1,7 +1,7 @@
 var a19186 =
 [
-    [ "HandleScript", "d5/d37/a19186.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
-    [ "Launch", "d5/d37/a19186.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
-    [ "PrepareSpellScript", "d5/d37/a19186.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
-    [ "Register", "d5/d37/a19186.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
+    [ "HandleEvent", "d5/d37/a19186.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
+    [ "PrepareSpellScript", "d5/d37/a19186.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
+    [ "Register", "d5/d37/a19186.html#a96c6a479141f765b9c0f96b5f148a428", null ],
+    [ "Validate", "d5/d37/a19186.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
 ];

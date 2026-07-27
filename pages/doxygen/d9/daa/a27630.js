@@ -1,5 +1,7 @@
 var a27630 =
 [
-    [ "achievement_fa_la_la_la_ogrila", "d9/daa/a27630.html#ab98a8ab33fec62936bf3c235659c1445", null ],
-    [ "OnCheck", "d9/daa/a27630.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
+    [ "HandleProc", "d9/daa/a27630.html#a929cf5d75df313a5e119eeb03735640c", null ],
+    [ "PrepareAuraScript", "d9/daa/a27630.html#aaeacbee6f798f25e467381aa56228355", null ],
+    [ "Register", "d9/daa/a27630.html#a111fa9ebfc9d9e8f0907635a4ce73bbb", null ],
+    [ "Validate", "d9/daa/a27630.html#a428e6d1f5e172390986ae8fd85570e21", null ]
 ];

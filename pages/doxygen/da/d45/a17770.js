@@ -1,8 +1,7 @@
 var a17770 =
 [
-    [ "ResetEncounterEvent", "da/d45/a17770.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
-    [ "Execute", "da/d45/a17770.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
-    [ "_caster", "da/d45/a17770.html#abb37778222749b27791baa329e268c32", null ],
-    [ "_otherTransport", "da/d45/a17770.html#a7f2d0aaade5833381e3e7624745fc504", null ],
-    [ "_spellId", "da/d45/a17770.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
+    [ "HandleDummyTick", "da/d45/a17770.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
+    [ "PrepareAuraScript", "da/d45/a17770.html#a577523701b5a4ea2def4999e634c8862", null ],
+    [ "Register", "da/d45/a17770.html#aaad9185c62333de4d6704b22780edd28", null ],
+    [ "Validate", "da/d45/a17770.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
 ];

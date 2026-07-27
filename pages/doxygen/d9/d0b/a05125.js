@@ -1,13 +1,9 @@
 var a05125 =
 [
-    [ "LogoutCancel", "d2/df8/a10937.html", "d2/df8/a10937" ],
-    [ "LogoutCancelAck", "d1/df8/a10941.html", "d1/df8/a10941" ],
-    [ "LogoutComplete", "d7/da1/a10933.html", "d7/da1/a10933" ],
-    [ "LogoutRequest", "d5/d93/a10925.html", "d5/d93/a10925" ],
-    [ "LogoutResponse", "d8/d94/a10929.html", "d8/d94/a10929" ],
-    [ "PlayedTime", "dc/d78/a10953.html", "dc/d78/a10953" ],
-    [ "PlayedTimeClient", "d6/d4d/a10949.html", "d6/d4d/a10949" ],
-    [ "PlayerLogout", "d7/d4e/a10945.html", "d7/d4e/a10945" ],
-    [ "ShowingCloak", "d8/daf/a10917.html", "d8/daf/a10917" ],
-    [ "ShowingHelm", "d1/dba/a10921.html", "d1/dba/a10921" ]
+    [ "PermissibleOrderPred", "dd/d05/a06578.html", "dd/d05/a06578" ],
+    [ "GetPermitFor", "d9/d0b/a05125.html#aaf9c138ae6c123d03859db553a39892d", null ],
+    [ "SelectAI", "d9/d0b/a05125.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
+    [ "SelectFactory", "d9/d0b/a05125.html#ad553c2186f078e696768d40d217738f8", null ],
+    [ "SelectGameObjectAI", "d9/d0b/a05125.html#a2ce404e9b85f551638d8783c01a19860", null ],
+    [ "SelectMovementGenerator", "d9/d0b/a05125.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
 ];

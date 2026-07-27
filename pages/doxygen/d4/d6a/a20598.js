@@ -1,5 +1,6 @@
 var a20598 =
 [
-    [ "achievement_xt002_nerf_engineering", "d4/d6a/a20598.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
-    [ "OnCheck", "d4/d6a/a20598.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
+    [ "OnRemoveStun", "d4/d6a/a20598.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
+    [ "PrepareAuraScript", "d4/d6a/a20598.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
+    [ "Register", "d4/d6a/a20598.html#a3166cfcd2acdcd4460217503d4008367", null ]
 ];

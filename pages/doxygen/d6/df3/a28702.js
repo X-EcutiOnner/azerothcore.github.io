@@ -1,4 +1,5 @@
 var a28702 =
 [
-    [ "ID", "d6/df3/a28702.html#a27cfc07c5aa7efe7a6f0cb62ea691f81", null ]
+    [ "npc_sunwell_gate", "d6/df3/a28702.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "d6/df3/a28702.html#a760f5bef0c1f45f21698b0dcdf2d2236", null ]
 ];

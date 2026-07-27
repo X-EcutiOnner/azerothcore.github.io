@@ -1,14 +1,8 @@
 var a22218 =
 [
-    [ "event_enter", "dd/d9b/a22218.html#ac80d575f14dca1c901be55e34cc690e1", null ],
-    [ "event_leave", "dd/d9b/a22218.html#a3dc0a11a5c06079026d27852e7561b74", null ],
-    [ "map_tower_a", "dd/d9b/a22218.html#a9a65209caac3791b835c1920f5a667cf", null ],
-    [ "map_tower_h", "dd/d9b/a22218.html#aa30ae484db7c69137abb13adb1b3c505", null ],
-    [ "map_tower_n", "dd/d9b/a22218.html#a0453edceab2132e900bec183e360e210", null ],
-    [ "slider_disp", "dd/d9b/a22218.html#aec3c8dde769675e3f436515c7a3bcf24", null ],
-    [ "slider_n", "dd/d9b/a22218.html#a65015a3a24a5554643ecb5da47e24eea", null ],
-    [ "slider_pos", "dd/d9b/a22218.html#acc63481f7613242ac06c6bee6c136a30", null ],
-    [ "ui_tower_a", "dd/d9b/a22218.html#a0107bfd3b1df99568e02d6ca80042c86", null ],
-    [ "ui_tower_h", "dd/d9b/a22218.html#a94a5fa0517fd0713b74f50a3d1d627cc", null ],
-    [ "ui_tower_n", "dd/d9b/a22218.html#ae0fd99db88e6c60b829a18ff8e4be9a0", null ]
+    [ "npc_adventurous_dwarfAI", "d2/da7/a22222.html", "d2/da7/a22222" ],
+    [ "npc_adventurous_dwarf", "dd/d9b/a22218.html#a15c39e217907189db9be7799e696f310", null ],
+    [ "GetAI", "dd/d9b/a22218.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
+    [ "OnGossipHello", "dd/d9b/a22218.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
+    [ "OnGossipSelect", "dd/d9b/a22218.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
 ];

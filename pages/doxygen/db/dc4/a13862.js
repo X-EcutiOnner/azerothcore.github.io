@@ -1,12 +1,9 @@
 var a13862 =
 [
-    [ "boss_twilight_corrupter", "db/dc4/a13862.html#afe140d6231d9ad8543e17c4a8a8230c0", null ],
-    [ "InitializeAI", "db/dc4/a13862.html#afe06461e9f3e1549da6631d2f89406c4", null ],
-    [ "JustEngagedWith", "db/dc4/a13862.html#a84803153e7e7d5d7efe0106139214b1f", null ],
-    [ "KilledUnit", "db/dc4/a13862.html#aa18d2fc90e1ccd322ec9d3128ba206d2", null ],
-    [ "MoveInLineOfSight", "db/dc4/a13862.html#a637cdd43f2f9a4f773b4b8e8f3c88730", null ],
-    [ "Reset", "db/dc4/a13862.html#a27720f58056206c09bce41ae50018a83", null ],
-    [ "UpdateAI", "db/dc4/a13862.html#a580fbaa55a5c0193c1ef2c6b281d8d9e", null ],
-    [ "_introSpoken", "db/dc4/a13862.html#a1924750c9d41ed588a29aace3c40742d", null ],
-    [ "_scheduler", "db/dc4/a13862.html#a6c49eee2be24199418096cc48c50d384", null ]
+    [ "boss_entropius", "db/dc4/a13862.html#a458deaa80c9694cd2608150bc5519c76", null ],
+    [ "EnterEvadeMode", "db/dc4/a13862.html#a01889b192525af082471d092bff28c88", null ],
+    [ "JustDied", "db/dc4/a13862.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
+    [ "JustEngagedWith", "db/dc4/a13862.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
+    [ "Reset", "db/dc4/a13862.html#ad9da990a540703d38cb45dd2da72c179", null ],
+    [ "UpdateAI", "db/dc4/a13862.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
 ];

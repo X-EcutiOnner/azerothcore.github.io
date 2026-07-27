@@ -1,18 +1,11 @@
 var a20546 =
 [
-    [ "boss_xt002", "d2/d9e/a20546.html#afd9e4cbeadc453922b43d21dce621bd4", null ],
-    [ "AttachHeart", "d2/d9e/a20546.html#a56cd1cb86b52bba527fd8610b5ec668e", null ],
-    [ "DoAction", "d2/d9e/a20546.html#a5146e40e5530a014d552fbc92a62d595", null ],
-    [ "GetData", "d2/d9e/a20546.html#a33d64c79af00c3e306fc0c63639d39fc", null ],
-    [ "JustDied", "d2/d9e/a20546.html#a4afb96f905e61c8b35941a8481e19882", null ],
-    [ "JustEngagedWith", "d2/d9e/a20546.html#a034de8d2644d5b1dfb07845faecc00a3", null ],
-    [ "JustReachedHome", "d2/d9e/a20546.html#a31eae472c8da2f891e7d2c3424cf8075", null ],
-    [ "KilledUnit", "d2/d9e/a20546.html#ae267d5941357b0e17061483103a8bb4c", null ],
-    [ "RescheduleEvents", "d2/d9e/a20546.html#a3ff4223b4eecab9c8b193cd5f63d8f50", null ],
-    [ "Reset", "d2/d9e/a20546.html#a0d33da735deae0fb5a22c4f7d6b19fa2", null ],
-    [ "UpdateAI", "d2/d9e/a20546.html#a326eb111c3d94e1bb57e9fe6e1f38c57", null ],
-    [ "_gravityAchievement", "d2/d9e/a20546.html#ae6fbbb1b43017878d74597bd95d51cd4", null ],
-    [ "_hardMode", "d2/d9e/a20546.html#a2882a78918439bbc63902cab0179049c", null ],
-    [ "_healthCheck", "d2/d9e/a20546.html#a82eedd2b45b0a67c3677ba398c24c540", null ],
-    [ "_nerfAchievement", "d2/d9e/a20546.html#a19aeed1f8e5b3fb4ac34f752e5cb647d", null ]
+    [ "npc_ulduar_iron_construct", "d2/d9e/a20546.html#ab44bf86ea4a50f365e37ba888d0b2f6d", null ],
+    [ "JustDied", "d2/d9e/a20546.html#ae102f4c7b9bc4246e0720287739e419a", null ],
+    [ "JustReachedHome", "d2/d9e/a20546.html#a77609f7939725001d7a31c4d92f00358", null ],
+    [ "MoveInLineOfSight", "d2/d9e/a20546.html#a6f8bfc52f6f8b6fbd4b8fb01bc827b8a", null ],
+    [ "Reset", "d2/d9e/a20546.html#a2fcec0917d5266b286cbb0995ef6ee34", null ],
+    [ "SpellHit", "d2/d9e/a20546.html#a0c786f44d9f255464fadb1c53b6fc004", null ],
+    [ "UpdateAI", "d2/d9e/a20546.html#afc56384db98a225a223c9214414508ea", null ],
+    [ "timer", "d2/d9e/a20546.html#a397277972454f710d7236ba36a67c977", null ]
 ];

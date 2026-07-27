@@ -1,10 +1,7 @@
 var a15166 =
 [
-    [ "boss_aeonus", "da/dcc/a15166.html#af823ef2187b852dc72d2f63020e1701b", null ],
-    [ "IsSummonedBy", "da/dcc/a15166.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
-    [ "JustDied", "da/dcc/a15166.html#a649275c31e61f542a13fd791ee85277b", null ],
-    [ "JustEngagedWith", "da/dcc/a15166.html#a5f193144e36a889630d5dbadb4aa665f", null ],
-    [ "JustReachedHome", "da/dcc/a15166.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
-    [ "KilledUnit", "da/dcc/a15166.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
-    [ "MoveInLineOfSight", "da/dcc/a15166.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
+    [ "PeriodicTick", "da/dcc/a15166.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
+    [ "PrepareAuraScript", "da/dcc/a15166.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
+    [ "Register", "da/dcc/a15166.html#a24058b120f4fa06b89f6d582c53a365a", null ],
+    [ "Validate", "da/dcc/a15166.html#a093b09be5abde91a1487d67a7a554d30", null ]
 ];

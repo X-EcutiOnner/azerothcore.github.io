@@ -1,11 +1,15 @@
 var a05298 =
 [
-    [ "ModelPosition", "de/dd6/a05298.html#ac611d964ae36e4ccd5a3bf385457a0ac", null ],
-    [ "init", "de/dd6/a05298.html#a5b7df306c28a7985fd3ab17d48350a27", null ],
-    [ "moveToBasePos", "de/dd6/a05298.html#a2fe1b48319a056f110ef700877257731", null ],
-    [ "transform", "de/dd6/a05298.html#add4c2efec70be75d8ffcd1009b6c2699", null ],
-    [ "iDir", "de/dd6/a05298.html#a24ba62281166e60036ac8a57b26c6abd", null ],
-    [ "iPos", "de/dd6/a05298.html#a36a3bd930273e0313e3b09c1289e9317", null ],
-    [ "iRotation", "de/dd6/a05298.html#ae53c5b044021f5ef04ecb5d8898fd8b3", null ],
-    [ "iScale", "de/dd6/a05298.html#a81bb029dce2aadec2f147a1329ee285e", null ]
+    [ "IVMapMgr", "de/dd6/a05298.html#a8fcc2ababfadc1bf662c56645c04841e", null ],
+    [ "~IVMapMgr", "de/dd6/a05298.html#adbc38672af6f30bc4887d2737e6097e5", null ],
+    [ "existsMap", "de/dd6/a05298.html#ab63074f237876ebc9b93242f44c95b40", null ],
+    [ "getDirFileName", "de/dd6/a05298.html#a6fb9bd31760b72279499e5e884d12a04", null ],
+    [ "isHeightCalcEnabled", "de/dd6/a05298.html#a0a3b250f0674709fac851c6e63bedd51", null ],
+    [ "isLineOfSightCalcEnabled", "de/dd6/a05298.html#a9b88973ec447dee3a990e11f1fa74873", null ],
+    [ "isMapLoadingEnabled", "de/dd6/a05298.html#ae327405db5140e3a27fe767be8ca8a66", null ],
+    [ "processCommand", "de/dd6/a05298.html#a8697455fead0cfed30ba955c9abf934f", null ],
+    [ "setEnableHeightCalc", "de/dd6/a05298.html#a5642a08f1cbd688985314fb821525c95", null ],
+    [ "setEnableLineOfSightCalc", "de/dd6/a05298.html#a7984e19b44c6f8ce16ecea8e823a4b14", null ],
+    [ "iEnableHeightCalc", "de/dd6/a05298.html#a3ce407c232386fbe00958660457474e4", null ],
+    [ "iEnableLineOfSightCalc", "de/dd6/a05298.html#a83c2317151591bf2c72d33e19007125a", null ]
 ];

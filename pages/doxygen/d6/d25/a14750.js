@@ -1,7 +1,6 @@
 var a14750 =
 [
-    [ "npc_love_in_air_supply_sentry", "d6/d25/a14750.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
-    [ "MoveInLineOfSight", "d6/d25/a14750.html#a9df110324c74277e07183c7db231bbda", null ],
-    [ "UpdateAI", "d6/d25/a14750.html#aaa658222954f96d45b75daf83555f6f8", null ],
-    [ "lock", "d6/d25/a14750.html#a59bf67b114014542538165c21aa109a6", null ]
+    [ "OnApply", "d6/d25/a14750.html#a4a276b00d4912c210598057620368934", null ],
+    [ "PrepareAuraScript", "d6/d25/a14750.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
+    [ "Register", "d6/d25/a14750.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
 ];

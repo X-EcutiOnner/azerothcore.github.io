@@ -1,8 +1,9 @@
 var a23234 =
 [
-    [ "npc_target_trigger", "df/dab/a23234.html#a238058ba80130c6239b7267db3247196", null ],
-    [ "Reset", "df/dab/a23234.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
-    [ "UpdateAI", "df/dab/a23234.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
-    [ "_cast", "df/dab/a23234.html#a4ec89ca960323f7ad135d5a425a82416", null ],
-    [ "_scheduler", "df/dab/a23234.html#a9b418b09e25c8f96692b4e2626339c96", null ]
+    [ "CalcPeriodic", "df/dab/a23234.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
+    [ "HandleEffectApply", "df/dab/a23234.html#adb983cc531fa666648bbdb432684ff1d", null ],
+    [ "HandleEffectRemove", "df/dab/a23234.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
+    [ "OnPeriodic", "df/dab/a23234.html#aecefab535157dbe8e42aff3b23cd685b", null ],
+    [ "PrepareAuraScript", "df/dab/a23234.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
+    [ "Register", "df/dab/a23234.html#a3771abcc829883ba0cbae9587adbe751", null ]
 ];

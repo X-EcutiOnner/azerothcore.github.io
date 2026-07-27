@@ -1,7 +1,12 @@
 var a05390 =
 [
-    [ "operator()", "d1/df3/a05390.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
-    [ "closestEntity", "d1/df3/a05390.html#ab377424b7edd0274f61967619700f841", null ],
-    [ "hitLocation", "d1/df3/a05390.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
-    [ "hitNormal", "d1/df3/a05390.html#a57f40f48c26829f7da9e48efd839d773", null ]
+    [ "~GameObjectModelOwnerBase", "d1/df3/a05390.html#a307c744710782fcb0d5c287b23c74d69", null ],
+    [ "DebugVisualizeCorner", "d1/df3/a05390.html#acf130fbdfb086a9c6d35d145116357c8", null ],
+    [ "GetDisplayId", "d1/df3/a05390.html#ae3eddc6c841c3644f50cb3300f80cee2", null ],
+    [ "GetOrientation", "d1/df3/a05390.html#a35c11d2346c5156b95558729d84b3fe8", null ],
+    [ "GetPhaseMask", "d1/df3/a05390.html#a6b55de1c8de5a50245d7e5a833766d0f", null ],
+    [ "GetPosition", "d1/df3/a05390.html#a82e89b7fac5f46a25519674930294ed8", null ],
+    [ "GetScale", "d1/df3/a05390.html#abf8e9a74f58ec34bc6f1f8d853100f69", null ],
+    [ "IsSpawned", "d1/df3/a05390.html#ad824da6970d512c344160714cd7ec434", null ],
+    [ "IsTransport", "d1/df3/a05390.html#a20a14793cdbb1ed63219cd6211feadc3", null ]
 ];

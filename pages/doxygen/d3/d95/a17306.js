@@ -1,7 +1,6 @@
 var a17306 =
 [
-    [ "npc_pos_icicle_triggerAI", "d3/d95/a17306.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
-    [ "UpdateAI", "d3/d95/a17306.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
-    [ "pInstance", "d3/d95/a17306.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
-    [ "timer", "d3/d95/a17306.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
+    [ "entry", "d3/d95/a17306.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d3/d95/a17306.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d3/d95/a17306.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

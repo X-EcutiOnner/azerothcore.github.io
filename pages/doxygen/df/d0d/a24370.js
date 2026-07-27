@@ -1,8 +1,16 @@
 var a24370 =
 [
-    [ "CheckProc", "df/d0d/a24370.html#a1b7b855383b04bd1b627c6f1e33ad7a5", null ],
-    [ "HandleProc", "df/d0d/a24370.html#a726af9faf0170050f662cb1cc99e6ec8", null ],
-    [ "PrepareAuraScript", "df/d0d/a24370.html#a204655e4eea1cf8694c62ddae6d5a760", null ],
-    [ "Register", "df/d0d/a24370.html#a23e8088d6d9626ec4c3f8fc6e66c1e24", null ],
-    [ "Validate", "df/d0d/a24370.html#a5a3006bb5d54d68b8eb529a8c680c5c0", null ]
+    [ "npc_pet_gen_argent_pony_bridle", "df/d0d/a24370.html#a9df25627a92b8914ab8009be099f15d4", null ],
+    [ "DoAction", "df/d0d/a24370.html#a4c08ed385886a118c165925602b1dff7", null ],
+    [ "EnterEvadeMode", "df/d0d/a24370.html#a897e72a4bf279607903bce58a5a45c6f", null ],
+    [ "GetData", "df/d0d/a24370.html#a862546ec66d8282c87169305711e4ec7", null ],
+    [ "OnGossipHello", "df/d0d/a24370.html#a35cfcfd3418295bcb1140d1b8b8266ab", null ],
+    [ "OnGossipSelect", "df/d0d/a24370.html#a36f15c2c0ec3466b492148303e828403", null ],
+    [ "Reset", "df/d0d/a24370.html#a4d885f00ea1b6b97270d41f2583bd0dc", null ],
+    [ "UpdateAI", "df/d0d/a24370.html#a1172dbd471ee8f05f25ff77dc222a61d", null ],
+    [ "_banners", "df/d0d/a24370.html#a9c89972cde36f3d2b5686485f0e2905f", null ],
+    [ "_init", "df/d0d/a24370.html#a8a7dd73d9d3af5ca00998735e45ee7e8", null ],
+    [ "_lastAura", "df/d0d/a24370.html#a4abeb86eb0179a77d47d737d67495411", null ],
+    [ "_mountTimer", "df/d0d/a24370.html#a38253b6d1e1f7fb8fc3fdccb2522a090", null ],
+    [ "_state", "df/d0d/a24370.html#ae57f97ca9a08353e8ec8ebfadbd51541", null ]
 ];

@@ -1,12 +1,13 @@
 var a05154 =
 [
-    [ "OmenOfClarityGlyphLockTest", "d4/dda/a29633.html", "d4/dda/a29633" ],
-    [ "TestOocPlayerScript", "d2/d97/a29629.html", "d2/d97/a29629" ],
-    [ "TEST_F", "d9/dcb/a05154.html#aad251365da79c581dfd771c07e08a849", null ],
-    [ "TEST_F", "d9/dcb/a05154.html#a4722da81a67d7591147f462b57ebd1e5", null ],
-    [ "TEST_F", "d9/dcb/a05154.html#a4dbab8c4aad98a9d7a180aa0900d811e", null ],
-    [ "TEST_F", "d9/dcb/a05154.html#aa1f3de6a8cef69842c080eca3d39fd62", null ],
-    [ "OOC_LOCKED_GLYPH_SLOT", "d9/dcb/a05154.html#a5500fe8bc94c2f7444d0ece5685c4de6", null ],
-    [ "OOC_LOCKED_SLOT_BIT", "d9/dcb/a05154.html#a8c8ee271438dfdfb1361e57c07c7b890", null ],
-    [ "s_testOocEnabled", "d9/dcb/a05154.html#a0fd5f656624a7c48c5e042c0f1572004", null ]
+    [ "LogoutCancel", "d2/dc7/a10990.html", "d2/dc7/a10990" ],
+    [ "LogoutCancelAck", "db/df0/a10994.html", "db/df0/a10994" ],
+    [ "LogoutComplete", "d6/d66/a10986.html", "d6/d66/a10986" ],
+    [ "LogoutRequest", "df/d17/a10978.html", "df/d17/a10978" ],
+    [ "LogoutResponse", "da/db8/a10982.html", "da/db8/a10982" ],
+    [ "PlayedTime", "d7/d4e/a11006.html", "d7/d4e/a11006" ],
+    [ "PlayedTimeClient", "d4/d49/a11002.html", "d4/d49/a11002" ],
+    [ "PlayerLogout", "d3/d24/a10998.html", "d3/d24/a10998" ],
+    [ "ShowingCloak", "da/df4/a10970.html", "da/df4/a10970" ],
+    [ "ShowingHelm", "d9/d49/a10974.html", "d9/d49/a10974" ]
 ];

@@ -1,8 +1,6 @@
 var a12874 =
 [
-    [ "FilterTargets", "d2/d6c/a12874.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
-    [ "HandleScript", "d2/d6c/a12874.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
-    [ "PrepareSpellScript", "d2/d6c/a12874.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
-    [ "Register", "d2/d6c/a12874.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
-    [ "Validate", "d2/d6c/a12874.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
+    [ "near_scarshield_infiltrator", "d2/d6c/a12874.html#a38d2e75946c429b4d80b007f190406bc", null ],
+    [ "OnTrigger", "d2/d6c/a12874.html#a59c0e7bcddabbbbecb32f38434899144", null ],
+    [ "whisperedTargets", "d2/d6c/a12874.html#a5655e241d2551798a960cb6375c7df23", null ]
 ];

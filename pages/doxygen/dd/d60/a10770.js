@@ -1,10 +1,13 @@
 var a10770 =
 [
-    [ "WorldObjectScript", "dd/d60/a10770.html#af044c3699a591c137abc5e03c772890b", null ],
-    [ "IsDatabaseBound", "dd/d60/a10770.html#a48f037dd6152ff68ebef672de68df45e", null ],
-    [ "OnWorldObjectCreate", "dd/d60/a10770.html#a2b32bc661e5a377de98902f3bc16679b", null ],
-    [ "OnWorldObjectDestroy", "dd/d60/a10770.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
-    [ "OnWorldObjectResetMap", "dd/d60/a10770.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
-    [ "OnWorldObjectSetMap", "dd/d60/a10770.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
-    [ "OnWorldObjectUpdate", "dd/d60/a10770.html#abc139d1aa728f8a70886eed65d28f566", null ]
+    [ "FormulaScript", "dd/d60/a10770.html#a6d945a3c85aada82cdeb86e0aea63bde", null ],
+    [ "OnAfterArenaRatingCalculation", "dd/d60/a10770.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
+    [ "OnBaseGainCalculation", "dd/d60/a10770.html#ab154eaf469d5fe3e86c364940816270a", null ],
+    [ "OnBeforeUpdatingPersonalRating", "dd/d60/a10770.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
+    [ "OnColorCodeCalculation", "dd/d60/a10770.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
+    [ "OnGainCalculation", "dd/d60/a10770.html#aa83fab65cc89bd03021da2805e935ffb", null ],
+    [ "OnGrayLevelCalculation", "dd/d60/a10770.html#affeb57234f961b9e01f5898c7738f38f", null ],
+    [ "OnGroupRateCalculation", "dd/d60/a10770.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
+    [ "OnHonorCalculation", "dd/d60/a10770.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
+    [ "OnZeroDifferenceCalculation", "dd/d60/a10770.html#a7755c35bc56e6645e36de08c12a4847d", null ]
 ];

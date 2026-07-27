@@ -1,7 +1,12 @@
 var a17642 =
 [
-    [ "achievement_once_bitten_twice_shy", "d5/dfa/a17642.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
-    [ "OnCheck", "d5/dfa/a17642.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
-    [ "_spawnMode", "d5/dfa/a17642.html#a6f02f5ab07143ddff553279049714902", null ],
-    [ "_wasVampire", "d5/dfa/a17642.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
+    [ "boss_moorabiAI", "d5/dfa/a17642.html#a60a03c3840a3743719996929d2ca9e59", null ],
+    [ "EnterEvadeMode", "d5/dfa/a17642.html#a7b77a6da820e9b3be80c94a37fe07db4", null ],
+    [ "JustDied", "d5/dfa/a17642.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
+    [ "JustEngagedWith", "d5/dfa/a17642.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
+    [ "KilledUnit", "d5/dfa/a17642.html#a265855d2972e534e927bfa609fbf2cf5", null ],
+    [ "Reset", "d5/dfa/a17642.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
+    [ "SpellHitTarget", "d5/dfa/a17642.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
+    [ "UpdateAI", "d5/dfa/a17642.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
+    [ "events2", "d5/dfa/a17642.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
 ];

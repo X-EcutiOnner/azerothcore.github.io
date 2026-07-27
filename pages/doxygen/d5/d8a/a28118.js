@@ -1,9 +1,6 @@
 var a28118 =
 [
-    [ "npc_chicken_cluckAI", "d5/d8a/a28118.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "d5/d8a/a28118.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "d5/d8a/a28118.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "d5/d8a/a28118.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "d5/d8a/a28118.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "d5/d8a/a28118.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "boss_taerarAI", "d8/d40/a28122.html", "d8/d40/a28122" ],
+    [ "boss_taerar", "d5/d8a/a28118.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "d5/d8a/a28118.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

@@ -1,8 +1,6 @@
 var a24010 =
 [
-    [ "npc_pet_gen_gnomish_flame_turret", "d2/d98/a24010.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
-    [ "AttackStart", "d2/d98/a24010.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
-    [ "Reset", "d2/d98/a24010.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
-    [ "UpdateAI", "d2/d98/a24010.html#ae3db08323af4b82009ffd660b3e78474", null ],
-    [ "checkTimer", "d2/d98/a24010.html#ac6705f4980ca561a5fd33c2917488439", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d4/dae/a24014.html", "d4/dae/a24014" ],
+    [ "npc_oscillating_frequency_scanner_master_bunny", "d2/d98/a24010.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
+    [ "GetAI", "d2/d98/a24010.html#a60d55e2eda4484ceea4e475ac8653977", null ]
 ];

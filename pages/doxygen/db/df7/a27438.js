@@ -1,8 +1,9 @@
 var a27438 =
 [
-    [ "CheckProc", "db/df7/a27438.html#a8a61fbd855294e6218cfc0e2dd3706c9", null ],
-    [ "OnProc", "db/df7/a27438.html#a9217135a55d6612bf1d36b63ac09e7fb", null ],
-    [ "PrepareAuraScript", "db/df7/a27438.html#a8bf573bb900773d4669708536b0b8011", null ],
-    [ "Register", "db/df7/a27438.html#ae8ddcb6329088f904cbae3292ff92023", null ],
-    [ "Validate", "db/df7/a27438.html#a918c9334b7f20710c0d6448a33c94601", null ]
+    [ "Absorb", "db/df7/a27438.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
+    [ "CalculateAmount", "db/df7/a27438.html#a820c27c2161063307a10903cbbc5c0fa", null ],
+    [ "Load", "db/df7/a27438.html#a7b71990051faaa083110408c13b8401f", null ],
+    [ "PrepareAuraScript", "db/df7/a27438.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
+    [ "Register", "db/df7/a27438.html#aa443ab0eed74229883884fbced0426d7", null ],
+    [ "absorbPct", "db/df7/a27438.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
 ];

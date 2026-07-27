@@ -1,5 +1,6 @@
 var a22862 =
 [
-    [ "go_strange_pool", "d5/d9b/a22862.html#aa44feb353ad1cb440e5b6707112af680", null ],
-    [ "OnGossipHello", "d5/d9b/a22862.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
+    [ "HandleSharedRule", "d5/d9b/a22862.html#a94b783490dafae872b65e0bbfed156b9", null ],
+    [ "PrepareSpellScript", "d5/d9b/a22862.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
+    [ "Register", "d5/d9b/a22862.html#a31f2d90059e62da77a719a192d62328b", null ]
 ];

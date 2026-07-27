@@ -1,15 +1,8 @@
 var a21462 =
 [
-    [ "npc_q24545_lich_kingAI", "d2/d42/a21462.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
-    [ "CleanAll", "d2/d42/a21462.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
-    [ "JustSummoned", "d2/d42/a21462.html#a6049433795be30eb31e240a4939ad42f", null ],
-    [ "Reset", "d2/d42/a21462.html#aebd396de51edef790cd0b599c94f78a0", null ],
-    [ "SetData", "d2/d42/a21462.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
-    [ "SetGUID", "d2/d42/a21462.html#ac7c41ebfa7979907aea246af20bcf368", null ],
-    [ "SpellHitTarget", "d2/d42/a21462.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
-    [ "SummonedCreatureDespawn", "d2/d42/a21462.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
-    [ "UpdateAI", "d2/d42/a21462.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
-    [ "events", "d2/d42/a21462.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
-    [ "playerGUID", "d2/d42/a21462.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
-    [ "summons", "d2/d42/a21462.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
+    [ "boss_lavanthor", "d2/d42/a21462.html#ad264818ef0f539c48160de9dbebeac7f", null ],
+    [ "EnterEvadeMode", "d2/d42/a21462.html#aee499fcde639aaca7131dba9cca1d4d0", null ],
+    [ "ExecuteEvent", "d2/d42/a21462.html#a16d7cd5596c20c3663d63549b33c8b4a", null ],
+    [ "JustEngagedWith", "d2/d42/a21462.html#a4bc5fa66192daab98027539efda37bdc", null ],
+    [ "MoveInLineOfSight", "d2/d42/a21462.html#a6f68cd280561b428400a08a155f83ccb", null ]
 ];

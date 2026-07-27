@@ -1,9 +1,8 @@
 var a29302 =
 [
-    [ "SetUp", "d8/dea/a29302.html#a664590f345cd02660adef326355c7ca2", null ],
-    [ "TearDown", "d8/dea/a29302.html#a366e1170be6f12739b2688c71763c8f0", null ],
-    [ "PERM_BAN", "d8/dea/a29302.html#a393626fe7635a8452e69207085037782", null ],
-    [ "PERM_KICK", "d8/dea/a29302.html#aa9b8c1e73b4828100386186637e30e90", null ],
-    [ "rbacData", "d8/dea/a29302.html#a6e7cb23ddb2dc22611255dff42c85e89", null ],
-    [ "ROLE_GM", "d8/dea/a29302.html#ac5d61d965657eccc145d01670a6f27bc", null ]
+    [ "ClassMask", "d8/dea/a29302.html#a563ba1618ffefa5470696e37f65c70d4", null ],
+    [ "Flags", "d8/dea/a29302.html#af89c32a22f018557fe016e0784a82384", null ],
+    [ "RaceMask", "d8/dea/a29302.html#acff47bf5c075d669f95b0d229674f9bc", null ],
+    [ "SkillID", "d8/dea/a29302.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
+    [ "SkillTierID", "d8/dea/a29302.html#ab6153043461b71336e12b00957499075", null ]
 ];

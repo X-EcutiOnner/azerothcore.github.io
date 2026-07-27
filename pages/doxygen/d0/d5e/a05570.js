@@ -1,5 +1,5 @@
 var a05570 =
 [
-    [ "_elements", "d0/d5e/a05570.html#a40b7d4b51ba0849a77a41abc76407e39", null ],
-    [ "_TailElements", "d0/d5e/a05570.html#a8762b1028a8b81762e9b08fd45d13269", null ]
+    [ "~Permissible", "d0/d5e/a05570.html#a9ed19d14dda478fe1ff6cb092d684be2", null ],
+    [ "Permit", "d0/d5e/a05570.html#a0fccdbc46c9bafea63757ceee62b0385", null ]
 ];

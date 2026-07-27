@@ -1,8 +1,16 @@
 var a13194 =
 [
-    [ "CheckProc", "d7/d81/a13194.html#a085f6affd2bf76fe66f9023e67725848", null ],
-    [ "HandleProc", "d7/d81/a13194.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
-    [ "PrepareAuraScript", "d7/d81/a13194.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
-    [ "Register", "d7/d81/a13194.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
-    [ "Validate", "d7/d81/a13194.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
+    [ "boss_attumen", "d7/d81/a13194.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
+    [ "DamageTaken", "d7/d81/a13194.html#a0b426b760d9ace05211c3383e7628022", null ],
+    [ "EnterEvadeMode", "d7/d81/a13194.html#af00f91294c04d0fe932c922fd270c5dc", null ],
+    [ "Initialize", "d7/d81/a13194.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],
+    [ "IsSummonedBy", "d7/d81/a13194.html#a1fa6827c323cbda15e2a438bc376e74c", null ],
+    [ "JustDied", "d7/d81/a13194.html#a375a95d46f8db8a53ea6420dd557855e", null ],
+    [ "JustSummoned", "d7/d81/a13194.html#af91018e54244864ca4cd1b9d40c569df", null ],
+    [ "KilledUnit", "d7/d81/a13194.html#ad167a1ec5ff737ad77b0c492efc022f0", null ],
+    [ "Reset", "d7/d81/a13194.html#ab8815ed9b1068e748e43346725cd9281", null ],
+    [ "ScheduleTasks", "d7/d81/a13194.html#ae63d0a3c7ae4ad755f091f2d31342a57", null ],
+    [ "SpellHit", "d7/d81/a13194.html#a1181ae1d50d6c52483b0d90423997c90", null ],
+    [ "UpdateAI", "d7/d81/a13194.html#aac982f13b35e7c37b49a4e76ace5fccd", null ],
+    [ "_phase", "d7/d81/a13194.html#a8a668537dc5b7c01e6d9d91c67d6da72", null ]
 ];

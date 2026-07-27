@@ -1,6 +1,7 @@
 var a19758 =
 [
-    [ "boss_maiden_of_griefAI", "d8/d14/a19762.html", "d8/d14/a19762" ],
-    [ "boss_maiden_of_grief", "da/dbf/a19758.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
-    [ "GetAI", "da/dbf/a19758.html#af8d2e6392a0c73add801910945b2558e", null ]
+    [ "Load", "da/dbf/a19758.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
+    [ "PrepareSpellScript", "da/dbf/a19758.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
+    [ "Register", "da/dbf/a19758.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
+    [ "SetDest", "da/dbf/a19758.html#a231a75702f4a98f51d1be45510c5d05f", null ]
 ];

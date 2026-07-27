@@ -1,10 +1,9 @@
 var a24582 =
 [
-    [ "HandleTickUpdate", "d8/dbd/a24582.html#aa9c1d6c644a3e42b21d1025fc3b06f69", null ],
-    [ "PrepareAuraScript", "d8/dbd/a24582.html#aa930d63d22acf8e7aebbdd828cd09f36", null ],
-    [ "Register", "d8/dbd/a24582.html#abf597eb55f63858528325eef387fc344", null ],
-    [ "SetTickHeal", "d8/dbd/a24582.html#a2eabcc9aa3898c11062677eca73d1de1", null ],
-    [ "Validate", "d8/dbd/a24582.html#ab59a1830ca97e1bda455da330a894d5c", null ],
-    [ "_baseReduction", "d8/dbd/a24582.html#a8a3a8adce3dde9300e380500c6877d37", null ],
-    [ "_baseTick", "d8/dbd/a24582.html#acd801570e2a1b274ed0d9e8bcc6b66f0", null ]
+    [ "CheckCast", "d8/dbd/a24582.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
+    [ "EntryCheck", "d8/dbd/a24582.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
+    [ "HandleBaseDummy", "d8/dbd/a24582.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
+    [ "HandleDummy", "d8/dbd/a24582.html#a34d9f5699f306b27830ced2129be506c", null ],
+    [ "PrepareSpellScript", "d8/dbd/a24582.html#af7aff878540dd34138aa479f532611b6", null ],
+    [ "Register", "d8/dbd/a24582.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
 ];

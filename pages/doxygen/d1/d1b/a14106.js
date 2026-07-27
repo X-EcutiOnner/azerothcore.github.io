@@ -1,13 +1,9 @@
 var a14106 =
 [
-    [ "npc_daphne_stilwellAI", "d1/d1b/a14106.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
-    [ "AttackStart", "d1/d1b/a14106.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
-    [ "JustSummoned", "d1/d1b/a14106.html#ae56554d30e9de7644efab891555c57e0", null ],
-    [ "Reset", "d1/d1b/a14106.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
-    [ "SummonedCreatureDies", "d1/d1b/a14106.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
-    [ "Update", "d1/d1b/a14106.html#a4099d75c4a6bca1525781a5753ef9972", null ],
-    [ "WaypointReached", "d1/d1b/a14106.html#a1035eb0a1696730d8304593b5fb079e4", null ],
-    [ "WaypointReached", "d1/d1b/a14106.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "summons", "d1/d1b/a14106.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
-    [ "textCounter", "d1/d1b/a14106.html#a62ab24169c1b7c3028ab33303b217f63", null ]
+    [ "npc_marzon_silent_bladeAI", "d1/d1b/a14106.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
+    [ "EnterEvadeMode", "d1/d1b/a14106.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
+    [ "JustEngagedWith", "d1/d1b/a14106.html#a116b3458f342811e378713e6a67f76a6", null ],
+    [ "MovementInform", "d1/d1b/a14106.html#a32201d45f0c19212becb6319a48366f8", null ],
+    [ "Reset", "d1/d1b/a14106.html#a51c2b16c767ce2922564dc9e4048e089", null ],
+    [ "UpdateAI", "d1/d1b/a14106.html#aa6686399b41d32429d530dcc2ec41185", null ]
 ];

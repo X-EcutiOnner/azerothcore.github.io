@@ -1,9 +1,10 @@
 var a24398 =
 [
-    [ "HandleApply", "de/d61/a24398.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
-    [ "HandleRemove", "de/d61/a24398.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
-    [ "PrepareAuraScript", "de/d61/a24398.html#af2b8e669737cd4282beb6a5035f496fc", null ],
-    [ "RecalculateBaseArmor", "de/d61/a24398.html#a693720558c7b2b22c41a49a402522014", null ],
-    [ "Register", "de/d61/a24398.html#aff9bc58342383afe5a08be696cddedf6", null ],
-    [ "Validate", "de/d61/a24398.html#ad712e1e05d94372defdfa4fe67e65716", null ]
+    [ "npc_pet_gen_plump_turkey", "de/d61/a24398.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
+    [ "MovementInform", "de/d61/a24398.html#af27c91388891add6d00e251bf3187743", null ],
+    [ "UpdateAI", "de/d61/a24398.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
+    [ "checkTimer", "de/d61/a24398.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
+    [ "goGUID", "de/d61/a24398.html#a5fa88e045430adea9e72a3744bf72780", null ],
+    [ "jumping", "de/d61/a24398.html#a8486512b7594f2ce759fcb580f1baf34", null ],
+    [ "jumpTimer", "de/d61/a24398.html#ad53a9abad41ab6a792a55b854155135d", null ]
 ];

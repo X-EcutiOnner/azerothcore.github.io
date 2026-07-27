@@ -1,5 +1,8 @@
 var a27870 =
 [
-    [ "go_sacred_fire_of_life", "dd/d22/a27870.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "dd/d22/a27870.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "HandleDamage", "dd/d22/a27870.html#a371d3112e619453b7c92933a145bf4d2", null ],
+    [ "HandleDummy", "dd/d22/a27870.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
+    [ "PrepareSpellScript", "dd/d22/a27870.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
+    [ "Register", "dd/d22/a27870.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
+    [ "Validate", "dd/d22/a27870.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
 ];

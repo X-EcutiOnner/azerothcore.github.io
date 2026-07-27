@@ -1,7 +1,5 @@
 var a21742 =
 [
-    [ "HandleDummy", "d8/d89/a21742.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "d8/d89/a21742.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "d8/d89/a21742.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "d8/d89/a21742.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "go_the_pearl_of_the_depths", "d8/d89/a21742.html#a0e09ddcde0eef050400d90e9a268823a", null ],
+    [ "OnGossipHello", "d8/d89/a21742.html#a745ea14136a78759a3afd7714c6d784a", null ]
 ];

@@ -1,6 +1,7 @@
 var a25438 =
 [
-    [ "OnBaseRemove", "d4/d0e/a25438.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "PrepareAuraScript", "d4/d0e/a25438.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "d4/d0e/a25438.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "HandleDamage", "d4/d0e/a25438.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
+    [ "PrepareSpellScript", "d4/d0e/a25438.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
+    [ "Register", "d4/d0e/a25438.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
+    [ "Validate", "d4/d0e/a25438.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
 ];

@@ -1,6 +1,13 @@
 var a05374 =
 [
-    [ "NodeArray", "dc/ded/a05374.html#ad14de28828d5dd9c425e47a261125423", null ],
-    [ "AddNode", "dc/ded/a05374.html#a370b6e8633c2c739ff68c0399e315a7e", null ],
-    [ "_nodes", "dc/ded/a05374.html#a581a71d15d245efc585297c218313134", null ]
+    [ "GroupModel_Raw", "dc/ded/a05374.html#a8decfdc365b823f8f147ee9bfa3613b0", null ],
+    [ "~GroupModel_Raw", "dc/ded/a05374.html#a1381249a1bbe9c1cf383097ef94c6eb7", null ],
+    [ "Read", "dc/ded/a05374.html#ad3bcd782124868cd1df0efea2b500ba5", null ],
+    [ "bounds", "dc/ded/a05374.html#a830d79fdd2f21164bd805051352a3aa8", null ],
+    [ "GroupWMOID", "dc/ded/a05374.html#ab9e9650c5ebf5a81b92cff27dd23a25a", null ],
+    [ "liquid", "dc/ded/a05374.html#ac801d04ca4c643d2b8eba5199a8d0fac", null ],
+    [ "liquidflags", "dc/ded/a05374.html#ac379f459d0fff6b1848dc52bd21ef393", null ],
+    [ "mogpflags", "dc/ded/a05374.html#a339767ed24a9f0ecf426e47d3bf6e4b5", null ],
+    [ "triangles", "dc/ded/a05374.html#af692734697f525672027f251addebe6d", null ],
+    [ "vertexArray", "dc/ded/a05374.html#ad73c215408218900973df4dbdd8fcd18", null ]
 ];

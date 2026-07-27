@@ -1,12 +1,13 @@
 var a15258 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "da/d94/a15258.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
-    [ "GetData", "da/d94/a15258.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
-    [ "Initialize", "da/d94/a15258.html#aed9ab9542badb0296ca0660c39541cb8", null ],
-    [ "OnGameObjectCreate", "da/d94/a15258.html#a567ac5d9a17514ede5b84c5d78204072", null ],
-    [ "ReadSaveDataMore", "da/d94/a15258.html#a7d6fefed563b0b9763b9c63136c65952", null ],
-    [ "SetData", "da/d94/a15258.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
-    [ "WriteSaveDataMore", "da/d94/a15258.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
-    [ "_firesState", "da/d94/a15258.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
-    [ "_gongPhase", "da/d94/a15258.html#a23485a35f0aa2f2ffad53398882d163a", null ]
+    [ "boss_infinite_corruptorAI", "da/d94/a15258.html#add36192941eaabf7f3d1d41c572783bd", null ],
+    [ "DoAction", "da/d94/a15258.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
+    [ "JustDied", "da/d94/a15258.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
+    [ "JustEngagedWith", "da/d94/a15258.html#a644725505db4fc7a98c4255d0eb34616", null ],
+    [ "JustSummoned", "da/d94/a15258.html#a2b12c03184b169a56a0e6696a107dc35", null ],
+    [ "Reset", "da/d94/a15258.html#a4dbff495bfcda6fb715dec68616e1764", null ],
+    [ "UpdateAI", "da/d94/a15258.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
+    [ "beamTimer", "da/d94/a15258.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
+    [ "events", "da/d94/a15258.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
+    [ "summons", "da/d94/a15258.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
 ];

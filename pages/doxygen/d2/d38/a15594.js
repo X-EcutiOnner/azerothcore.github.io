@@ -1,7 +1,7 @@
 var a15594 =
 [
-    [ "npc_anubisath_warder", "d2/d38/a15594.html#aebe14673e5c31000a9626e39d87c6775", null ],
-    [ "JustEngagedWith", "d2/d38/a15594.html#a579318fa519eb669573b2cea78c2fee3", null ],
-    [ "Reset", "d2/d38/a15594.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
-    [ "UpdateAI", "d2/d38/a15594.html#aba428f1f1a016191aa4f168c616c3a29", null ]
+    [ "npc_hivezara_stinger", "d2/d38/a15594.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
+    [ "JustEngagedWith", "d2/d38/a15594.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
+    [ "Reset", "d2/d38/a15594.html#ae8e893c90942a469628c393d5b5380cc", null ],
+    [ "UpdateAI", "d2/d38/a15594.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
 ];

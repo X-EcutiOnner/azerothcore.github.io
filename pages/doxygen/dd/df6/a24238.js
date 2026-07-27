@@ -1,8 +1,9 @@
 var a24238 =
 [
-    [ "HandleEffectApply", "dd/df6/a24238.html#a88e98bcb11fb16696f789878f79c665c", null ],
-    [ "HandleEffectRemove", "dd/df6/a24238.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2", null ],
-    [ "PrepareAuraScript", "dd/df6/a24238.html#a64f9e0f3d0376342767b912e32642c6c", null ],
-    [ "Register", "dd/df6/a24238.html#a72d6639589588282ea15cfe83c9e9b76", null ],
-    [ "Validate", "dd/df6/a24238.html#ac936c92c3a24fba95505243cd3e79c21", null ]
+    [ "npc_enraged_spiritAI", "dd/df6/a24238.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
+    [ "JustDied", "dd/df6/a24238.html#a9322622f679dbc311bd8983f5037bd2e", null ],
+    [ "JustEngagedWith", "dd/df6/a24238.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
+    [ "Reset", "dd/df6/a24238.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
+    [ "UpdateAI", "dd/df6/a24238.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
+    [ "_scheduler", "dd/df6/a24238.html#afa6825696b0622849f877b392df4b326", null ]
 ];

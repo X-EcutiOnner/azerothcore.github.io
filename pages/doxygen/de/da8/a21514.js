@@ -1,6 +1,7 @@
 var a21514 =
 [
-    [ "npc_spiritual_insightAI", "de/da8/a21514.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "de/da8/a21514.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "de/da8/a21514.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "npc_azure_raider", "de/da8/a21514.html#a841b0fb8a0ca5ca82f3183835281d0e7", null ],
+    [ "Reset", "de/da8/a21514.html#a3579986a1769467cb17d3b15242e0551", null ],
+    [ "UpdateAI", "de/da8/a21514.html#a7aa0c785e976167ef384d7c4dac3294f", null ],
+    [ "_events", "de/da8/a21514.html#a8d25c785974cb8c50b55b547b982b06f", null ]
 ];

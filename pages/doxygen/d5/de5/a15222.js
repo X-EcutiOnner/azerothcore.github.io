@@ -1,10 +1,6 @@
 var a15222 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d5/de5/a15222.html#a9c46508320d3973006561444feae0586", null ],
-    [ "Initialize", "d5/de5/a15222.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
-    [ "OnGameObjectCreate", "d5/de5/a15222.html#a3a287b97db58c3489815f20ee0d37977", null ],
-    [ "ReadSaveDataMore", "d5/de5/a15222.html#ac2cd336874b25ad20dac104037de1df5", null ],
-    [ "SetData", "d5/de5/a15222.html#a6e90bf60a076c164e432128f7ec62fba", null ],
-    [ "WriteSaveDataMore", "d5/de5/a15222.html#a6e4072342e66689d343912de85e66b34", null ],
-    [ "_encounters", "d5/de5/a15222.html#af2e752a791d75e50001060c4a9f18173", null ]
+    [ "HandleHeal", "d5/de5/a15222.html#a953536a9a393af9472bdd89018449df0", null ],
+    [ "PrepareSpellScript", "d5/de5/a15222.html#a70503fc6042001a860d361f2597b7153", null ],
+    [ "Register", "d5/de5/a15222.html#a383479896e6deb96e50b827370ccfd4d", null ]
 ];

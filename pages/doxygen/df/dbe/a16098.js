@@ -1,6 +1,7 @@
 var a16098 =
 [
-    [ "npc_shadowpriest_sezzizAI", "d6/d0c/a16102.html", "d6/d0c/a16102" ],
-    [ "npc_shadowpriest_sezziz", "df/dbe/a16098.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
-    [ "GetAI", "df/dbe/a16098.html#a1513b766f18dbc290b6682582fd33b1d", null ]
+    [ "DelayedWindstoneSummonEvent", "df/dbe/a16098.html#aa97daf8cf3479395ffd6558b6699436a", null ],
+    [ "Execute", "df/dbe/a16098.html#aa413bc8709bc543b89ffb3df42185475", null ],
+    [ "_playerGUID", "df/dbe/a16098.html#ad83bb6d87b569f59e99abcc16517745b", null ],
+    [ "_summon", "df/dbe/a16098.html#af9804d276da5daebab3a37f2c75301ea", null ]
 ];

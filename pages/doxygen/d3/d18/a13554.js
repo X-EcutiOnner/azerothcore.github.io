@@ -1,7 +1,6 @@
 var a13554 =
 [
-    [ "OnRemove", "d3/d18/a13554.html#a55460c6393c165e3096c967c81136032", null ],
-    [ "PrepareAuraScript", "d3/d18/a13554.html#afd4e4483f704169e6d213ced134d4c62", null ],
-    [ "Register", "d3/d18/a13554.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
-    [ "Validate", "d3/d18/a13554.html#af580258d287f5db6103b89d3085669bc", null ]
+    [ "npc_scholomance_occultistAI", "dd/d9c/a13558.html", "dd/d9c/a13558" ],
+    [ "npc_scholomance_occultist", "d3/d18/a13554.html#adf100912a15ff8edf056efa7eebd13ff", null ],
+    [ "GetAI", "d3/d18/a13554.html#a5da2b011ec4859523c1f713dc18e4d5b", null ]
 ];

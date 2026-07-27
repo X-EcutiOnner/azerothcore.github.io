@@ -1,7 +1,7 @@
 var a28222 =
 [
-    [ "npc_venomhide_hatchlingAI", "df/d25/a28226.html", "df/d25/a28226" ],
-    [ "npc_venomhide_hatchling", "de/d9b/a28222.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
-    [ "GetAI", "de/d9b/a28222.html#a96110b752965d751ab7b466c4f67e333", null ],
-    [ "OnGossipHello", "de/d9b/a28222.html#a404d875592b847ddb9f3250c9d954bfc", null ]
+    [ "go_pirate_day_musicAI", "de/d9b/a28222.html#a1abe263949b7a07e5143779efcddc7eb", null ],
+    [ "UpdateAI", "de/d9b/a28222.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
+    [ "_events", "de/d9b/a28222.html#a233ae55a05876c665455b106ef50d57e", null ],
+    [ "rnd", "de/d9b/a28222.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
 ];

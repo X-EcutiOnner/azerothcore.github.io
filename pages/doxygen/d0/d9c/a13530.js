@@ -1,14 +1,7 @@
 var a13530 =
 [
-    [ "boss_sothos", "d0/d9c/a13530.html#a2e7283078d4049ff339f29c3fdfc69cf", null ],
-    [ "DoAction", "d0/d9c/a13530.html#a1433dddccb71896016bc014bdf92b453", null ],
-    [ "IsSummonedBy", "d0/d9c/a13530.html#aaaf7e317f146bb296c4ba6f57c5f72d4", null ],
-    [ "JustDied", "d0/d9c/a13530.html#a2d634aade37ea887f6bbf4b43baf061d", null ],
-    [ "JustEngagedWith", "d0/d9c/a13530.html#ace8a0c92ec3ab3e76cceb63c5b4a277b", null ],
-    [ "Reset", "d0/d9c/a13530.html#a042578148cae9a0b9befb7c5747a8e99", null ],
-    [ "UpdateAI", "d0/d9c/a13530.html#a35e247fa9bfe00927b844af8d0ef916f", null ],
-    [ "_jarienDied", "d0/d9c/a13530.html#a74725d8a4b3ce9fbfb9f06868fa02055", null ],
-    [ "_phase", "d0/d9c/a13530.html#a5719cd4a85527c256fb7f048be6489f7", null ],
-    [ "_scheduler", "d0/d9c/a13530.html#a5e18256858cd594b45628508500e5f1a", null ],
-    [ "_talked", "d0/d9c/a13530.html#a3f3c0d0a079aad1306b638e8ff34f2f6", null ]
+    [ "HandleScript", "d0/d9c/a13530.html#a6ce169d6c1b106195f787b52ea433311", null ],
+    [ "PrepareSpellScript", "d0/d9c/a13530.html#a4f71583df2193274365944e6d228247c", null ],
+    [ "Register", "d0/d9c/a13530.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
+    [ "Validate", "d0/d9c/a13530.html#a51025308f88001f1f66d7f68f174f325", null ]
 ];

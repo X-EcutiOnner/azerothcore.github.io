@@ -1,6 +1,6 @@
 var a24162 =
 [
-    [ "CheckProc", "dc/db9/a24162.html#ace3662e092d02de975929741c470230d", null ],
-    [ "PrepareAuraScript", "dc/db9/a24162.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
-    [ "Register", "dc/db9/a24162.html#ae6432106538261827c3eac3dde1450f2", null ]
+    [ "npc_infernal_attackerAI", "de/dc6/a24166.html", "de/dc6/a24166" ],
+    [ "npc_infernal_attacker", "dc/db9/a24162.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "dc/db9/a24162.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

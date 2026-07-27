@@ -1,7 +1,6 @@
 var a20046 =
 [
-    [ "OnPeriodic", "de/df6/a20046.html#a9407d5477a40e36863e5fb5775dda122", null ],
-    [ "PrepareAuraScript", "de/df6/a20046.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
-    [ "Register", "de/df6/a20046.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
-    [ "Validate", "de/df6/a20046.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "df/d2b/a20050.html", "df/d2b/a20050" ],
+    [ "boss_sjonnir_malformed_ooze", "de/df6/a20046.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "de/df6/a20046.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

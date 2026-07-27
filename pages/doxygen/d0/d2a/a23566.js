@@ -1,9 +1,12 @@
 var a23566 =
 [
-    [ "boss_nethermancer_sepethrea", "d0/d2a/a23566.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "d0/d2a/a23566.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "d0/d2a/a23566.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "d0/d2a/a23566.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "d0/d2a/a23566.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "d0/d2a/a23566.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "boss_nazan", "d0/d2a/a23566.html#a4390d3e181c4db46e364df3302612763", null ],
+    [ "AttackStart", "d0/d2a/a23566.html#a7acea69f908e7a004c2a78c103528975", null ],
+    [ "DoAction", "d0/d2a/a23566.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
+    [ "EnterEvadeMode", "d0/d2a/a23566.html#ab6338a7d240014e548b22044b788ce8f", null ],
+    [ "JustEngagedWith", "d0/d2a/a23566.html#a4d44b759530f32207a46a608fb7d6209", null ],
+    [ "MovementInform", "d0/d2a/a23566.html#ad35866322ff55263b1f8b105d2cad952", null ],
+    [ "Reset", "d0/d2a/a23566.html#a5c10e932075130399a9127869f45ce1d", null ],
+    [ "UpdateAI", "d0/d2a/a23566.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
+    [ "_scheduler", "d0/d2a/a23566.html#a8915d84ec4ffb8dade18041d5e910018", null ]
 ];

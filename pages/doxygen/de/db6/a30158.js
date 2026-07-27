@@ -1,7 +1,9 @@
 var a30158 =
 [
-    [ "ID", "de/db6/a30158.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "de/db6/a30158.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "de/db6/a30158.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "de/db6/a30158.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "adtData", "da/d4b/a30166.html", "da/d4b/a30166" ],
+    [ "prepareLoadedData", "de/db6/a30158.html#a6b755c9e341918d05105d993391429c6", null ],
+    [ "adt_list", "de/db6/a30158.html#abe28c39e8856412c4fb182baab3218f0", null ],
+    [ "fcc", "de/db6/a30158.html#ac8ee92a1747e31385cbfadaea16c267f", null ],
+    [ "fcc_txt", "de/db6/a30158.html#a0657c323732de8d83b9c360c1dd03b61", null ],
+    [ "size", "de/db6/a30158.html#a797c02773dd470a318474c7ef033ba7c", null ]
 ];

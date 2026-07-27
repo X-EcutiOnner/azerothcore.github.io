@@ -1,6 +1,12 @@
 var a18014 =
 [
-    [ "BoneStormMoveTargetSelector", "d2/d2e/a18014.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
-    [ "operator()", "d2/d2e/a18014.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
-    [ "_source", "d2/d2e/a18014.html#a03d8b1ec5f18398fe2963418bb319973", null ]
+    [ "gunship_npc_AI", "d2/d2e/a18014.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
+    [ "EnterEvadeMode", "d2/d2e/a18014.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
+    [ "JustDied", "d2/d2e/a18014.html#ad40c976be4decd9054dad031a4caab78", null ],
+    [ "MovementInform", "d2/d2e/a18014.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
+    [ "SetData", "d2/d2e/a18014.html#acfd5e331155d7787ada33acbca73fece", null ],
+    [ "SetSlotInfo", "d2/d2e/a18014.html#afdfc3f9add2952f90baf24d55425670f", null ],
+    [ "Index", "d2/d2e/a18014.html#ae120874514cf5921136821b820a04da7", null ],
+    [ "Instance", "d2/d2e/a18014.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
+    [ "Slot", "d2/d2e/a18014.html#a59d237475ae309755d429cfac77d6630", null ]
 ];

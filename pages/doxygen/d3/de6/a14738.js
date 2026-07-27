@@ -1,7 +1,9 @@
 var a14738 =
 [
-    [ "go_loosely_turned_soilAI", "d6/da2/a14742.html", "d6/da2/a14742" ],
-    [ "go_loosely_turned_soil", "d3/de6/a14738.html#a3b4d51e2b3a604e030962127269236f1", null ],
-    [ "GetAI", "d3/de6/a14738.html#acead5810a848f8837fa65af1f2ac00bd", null ],
-    [ "OnQuestReward", "d3/de6/a14738.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
+    [ "CheckCast", "d3/de6/a14738.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "d3/de6/a14738.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "d3/de6/a14738.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "d3/de6/a14738.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "d3/de6/a14738.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "d3/de6/a14738.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

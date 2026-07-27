@@ -1,7 +1,5 @@
 var a22434 =
 [
-    [ "HandleScriptEffect", "d9/dc3/a22434.html#a16f131e42272bc75c99df2a9cf43470e", null ],
-    [ "PrepareSpellScript", "d9/dc3/a22434.html#a510e80ef85ae3057e30c7c710aaf187b", null ],
-    [ "Register", "d9/dc3/a22434.html#ae26ff6be3b2d4a1975ace3734603ab41", null ],
-    [ "Validate", "d9/dc3/a22434.html#a58ff628906f3077a354ed486d3c56d23", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "d9/dc3/a22434.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "d9/dc3/a22434.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

@@ -1,8 +1,6 @@
 var a16762 =
 [
-    [ "npc_toc_boomkinAI", "df/d9c/a16762.html#a12c586d57aa6dd3893889f103dbfee20", null ],
-    [ "JustSummoned", "df/d9c/a16762.html#a0d049885773b7f1abd7e03f9200852f4", null ],
-    [ "myCanCast", "df/d9c/a16762.html#a691a0250db77cc4def2bf67b25a1298c", null ],
-    [ "UpdateAI", "df/d9c/a16762.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
-    [ "events", "df/d9c/a16762.html#a0b367855092884b2ce30834e89fced87", null ]
+    [ "boss_black_knightAI", "d2/d30/a16766.html", "d2/d30/a16766" ],
+    [ "boss_black_knight", "df/d9c/a16762.html#af55a307f282a68bc83e45c6de647ebf4", null ],
+    [ "GetAI", "df/d9c/a16762.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
 ];

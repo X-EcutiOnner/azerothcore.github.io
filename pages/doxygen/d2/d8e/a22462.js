@@ -1,10 +1,6 @@
 var a22462 =
 [
-    [ "boss_gathios_the_shatterer", "d2/d8e/a22462.html#a34708f52c610e567c5acf62962e90d4e", null ],
-    [ "JustEngagedWith", "d2/d8e/a22462.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
-    [ "SelectCouncilMember", "d2/d8e/a22462.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
-    [ "UpdateAI", "d2/d8e/a22462.html#a1541f1efd3978a4c91b80e411aec6442", null ],
-    [ "_toggleAura", "d2/d8e/a22462.html#aa983e2d9018a9e53ee29840781f47c33", null ],
-    [ "_toggleBlessing", "d2/d8e/a22462.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
-    [ "_toggleSeal", "d2/d8e/a22462.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
+    [ "npc_released_offspring_harkoaAI", "df/d7a/a22466.html", "df/d7a/a22466" ],
+    [ "npc_released_offspring_harkoa", "d2/d8e/a22462.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
+    [ "GetAI", "d2/d8e/a22462.html#ae3d2a02c496be1b2606fce596625d12e", null ]
 ];

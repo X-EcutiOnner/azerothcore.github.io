@@ -1,6 +1,5 @@
 var a28146 =
 [
-    [ "npc_garments_of_questsAI", "dd/d2c/a28150.html", "dd/d2c/a28150" ],
-    [ "npc_garments_of_quests", "df/deb/a28146.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "df/deb/a28146.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "go_seer_of_zebhalak", "df/deb/a28146.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
+    [ "OnGossipHello", "df/deb/a28146.html#a84009789ce8e8d0d7c42996fde161135", null ]
 ];

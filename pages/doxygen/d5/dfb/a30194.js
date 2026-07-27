@@ -1,9 +1,10 @@
 var a30194 =
 [
-    [ "Category", "d5/dfb/a30194.html#acd933f251a1faa1f705420307136681d", null ],
-    [ "Faction", "d5/dfb/a30194.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
-    [ "Flags", "d5/dfb/a30194.html#a8b41ed573eae71196664a61bac83fe3e", null ],
-    [ "Id", "d5/dfb/a30194.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
-    [ "Slot", "d5/dfb/a30194.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
-    [ "Type", "d5/dfb/a30194.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
+    [ "maxSimplificationError", "d5/dfb/a30194.html#a010878a247d639234d2bb8571280aca6", null ],
+    [ "vertexPerMapEdge", "d5/dfb/a30194.html#af620af11a09215f106fc6704c88fa411", null ],
+    [ "vertexPerTileEdge", "d5/dfb/a30194.html#a5a801e68fac6d59c1a236aeaf374bc9e", null ],
+    [ "walkableClimb", "d5/dfb/a30194.html#aa5f6c5daf51b6390b7146f9a8d6de7ec", null ],
+    [ "walkableHeight", "d5/dfb/a30194.html#a42b9a553cb3cd5d9c39d4cb7f0f59486", null ],
+    [ "walkableRadius", "d5/dfb/a30194.html#a43f00aacc5e1497c169d4ba908883140", null ],
+    [ "walkableSlopeAngle", "d5/dfb/a30194.html#a9792dfe730bfc437797a359896a14528", null ]
 ];

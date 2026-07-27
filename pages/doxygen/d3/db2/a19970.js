@@ -1,11 +1,12 @@
 var a19970 =
 [
-    [ "boss_flame_leviathan_seat", "d3/db2/a19970.html#a2fc2adc846b2939cf633bf47b4307896", null ],
-    [ "AttackStart", "d3/db2/a19970.html#a88d8a972e5f079c0111c0f189d599e8c", null ],
-    [ "EnterEvadeMode", "d3/db2/a19970.html#ac0f5d43d4be0773fdae62d0ab433713f", null ],
-    [ "PassengerBoarded", "d3/db2/a19970.html#a490fdbcb665f37f0b40a35a6cebe77cf", null ],
-    [ "Reset", "d3/db2/a19970.html#aec34fec1a6a3857ea7895a2762bf82d0", null ],
-    [ "UpdateAI", "d3/db2/a19970.html#a303c50b5684410013f95b0202ea33c8e", null ],
-    [ "_despawnTimer", "d3/db2/a19970.html#afe673a7903cffa7acefb725d52efb08a", null ],
-    [ "vehicle", "d3/db2/a19970.html#a9772b52283f16120dbefb5d218844c38", null ]
+    [ "boss_loken", "d3/db2/a19970.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
+    [ "JustDied", "d3/db2/a19970.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
+    [ "JustEngagedWith", "d3/db2/a19970.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
+    [ "KilledUnit", "d3/db2/a19970.html#a85ae3094927f7484216b44582f9a2bf6", null ],
+    [ "MoveInLineOfSight", "d3/db2/a19970.html#ac9f3115629e5595d06c213d3e04afa68", null ],
+    [ "OnAuraRemove", "d3/db2/a19970.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
+    [ "Reset", "d3/db2/a19970.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
+    [ "ScheduleTasks", "d3/db2/a19970.html#a600e211be40226679212a7078b26f3ed", null ],
+    [ "_introDone", "d3/db2/a19970.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
 ];

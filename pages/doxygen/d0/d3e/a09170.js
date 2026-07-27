@@ -1,5 +1,7 @@
 var a09170 =
 [
-    [ "NextPage", "d0/d3e/a09170.html#add4d8a2e79e4a6c1c1b7ad9b63dd07ef", null ],
-    [ "Text", "d0/d3e/a09170.html#a9c13498341adce66590cb198b720f96f", null ]
+    [ "HealthOrderPred", "d0/d3e/a09170.html#ac5d0408da69ecd6415c6f4eae61d11d8", null ],
+    [ "operator()", "d0/d3e/a09170.html#acb5867bddd0e5107139d52ff99817f5c", null ],
+    [ "operator()", "d0/d3e/a09170.html#ad9cae47d98b31687958cfca56b29c213", null ],
+    [ "_ascending", "d0/d3e/a09170.html#a93e2e41a9849d6c2ecfffcaffa74acee", null ]
 ];

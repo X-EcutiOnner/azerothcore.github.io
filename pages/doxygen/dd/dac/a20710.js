@@ -1,8 +1,5 @@
 var a20710 =
 [
-    [ "Absorb", "dd/dac/a20710.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
-    [ "CalculateAmount", "dd/dac/a20710.html#afe50bf22d07e68757caffb056ad55811", null ],
-    [ "PrepareAuraScript", "dd/dac/a20710.html#afa4ef1f7faa36a521c208dde10d09437", null ],
-    [ "Register", "dd/dac/a20710.html#aae020936d42da81c445f7d296660987b", null ],
-    [ "Validate", "dd/dac/a20710.html#a5852135c5214ee3938603632b0f21917", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_12", "dd/dac/a20710.html#adc7f5769894c59710fa70604878b1e2c", null ],
+    [ "OnCheck", "dd/dac/a20710.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
 ];

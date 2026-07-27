@@ -1,6 +1,6 @@
 var a20338 =
 [
-    [ "OnPeriodic", "d7/dd7/a20338.html#a8a12342f694499043e8ed4446fd92d36", null ],
-    [ "PrepareAuraScript", "d7/dd7/a20338.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
-    [ "Register", "d7/dd7/a20338.html#a381709d53101832de6b2161c4a33a0d4", null ]
+    [ "achievement_flame_leviathan_towers", "d7/dd7/a20338.html#a491d66bdd373b6044e406126719ef910", null ],
+    [ "OnCheck", "d7/dd7/a20338.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
+    [ "_towerCount", "d7/dd7/a20338.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
 ];

@@ -1,7 +1,8 @@
 var a23954 =
 [
-    [ "npc_isla_starmaneAI", "d5/d77/a23958.html", "d5/d77/a23958" ],
-    [ "npc_isla_starmane", "d7/d64/a23954.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
-    [ "GetAI", "d7/d64/a23954.html#a0ea2dbaab4115772f92849e06aa85575", null ],
-    [ "OnQuestAccept", "d7/d64/a23954.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
+    [ "instance_mechanar_InstanceMapScript", "d7/d64/a23954.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "d7/d64/a23954.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "d7/d64/a23954.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "d7/d64/a23954.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "d7/d64/a23954.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

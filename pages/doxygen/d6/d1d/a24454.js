@@ -1,8 +1,9 @@
 var a24454 =
 [
-    [ "AfterApply", "d6/d1d/a24454.html#a4d2941ebb326d603ac08f428f811c29b", null ],
-    [ "AfterRemove", "d6/d1d/a24454.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
-    [ "PrepareAuraScript", "d6/d1d/a24454.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
-    [ "Register", "d6/d1d/a24454.html#a78e30a950b9fc08dff5072028816b8b4", null ],
-    [ "Validate", "d6/d1d/a24454.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
+    [ "npc_pet_shaman_fire_elemental", "d6/d1d/a24454.html#a3428642963fc9e7588ec92fd838f1af9", null ],
+    [ "InitializeAI", "d6/d1d/a24454.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
+    [ "JustEngagedWith", "d6/d1d/a24454.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
+    [ "UpdateAI", "d6/d1d/a24454.html#a2280e5cc5187a91917a1e517e80e960d", null ],
+    [ "_events", "d6/d1d/a24454.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
+    [ "_initAttack", "d6/d1d/a24454.html#a2df79acc05dd8489e9e994e044b45404", null ]
 ];

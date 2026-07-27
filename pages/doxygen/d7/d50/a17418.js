@@ -1,8 +1,6 @@
 var a17418 =
 [
-    [ "boss_eck", "d7/d50/a17418.html#a665b54f72e674c8f65dd09daba5413db", null ],
-    [ "InitializeAI", "d7/d50/a17418.html#a92e5117337d372e1700d074f02c06df6", null ],
-    [ "JustEngagedWith", "d7/d50/a17418.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
-    [ "MovementInform", "d7/d50/a17418.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
-    [ "SpellHitTarget", "d7/d50/a17418.html#a63125d970933d6fa1f196aa28c588f40", null ]
+    [ "boss_garfrostAI", "de/d44/a17422.html", "de/d44/a17422" ],
+    [ "boss_garfrost", "d7/d50/a17418.html#ac116491cf252ee476cedee55ea292827", null ],
+    [ "GetAI", "d7/d50/a17418.html#a8a67bb09249655a8706868bb26b5124d", null ]
 ];

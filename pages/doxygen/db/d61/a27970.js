@@ -1,5 +1,5 @@
 var a27970 =
 [
-    [ "item_incendiary_explosives", "db/d61/a27970.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "db/d61/a27970.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "achievement_bg_ic_resource_glut", "db/d61/a27970.html#ace247962dccee2601ceade593b0874d4", null ],
+    [ "OnCheck", "db/d61/a27970.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
 ];

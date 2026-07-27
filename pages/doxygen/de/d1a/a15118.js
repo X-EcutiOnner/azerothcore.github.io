@@ -1,19 +1,15 @@
 var a15118 =
 [
-    [ "npc_cos_stratholme_citizienAI", "de/d1a/a15118.html#a591aaf16ef5befada12378acfbef9465", null ],
-    [ "DoAction", "de/d1a/a15118.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
-    [ "InfectMe", "de/d1a/a15118.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
-    [ "MoveInLineOfSight", "de/d1a/a15118.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
-    [ "Reset", "de/d1a/a15118.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
-    [ "SpellHit", "de/d1a/a15118.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
-    [ "UpdateAI", "de/d1a/a15118.html#a81a1382493091a99cae1c2bb580a7f32", null ],
-    [ "allowTimer", "de/d1a/a15118.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
-    [ "ambientTalkTimer", "de/d1a/a15118.html#aaa8eef94d1707207d241010d066d02fc", null ],
-    [ "changeTimer", "de/d1a/a15118.html#aa757ab2eef813dceaaad65d84681099b", null ],
-    [ "isBrandonCrowd", "de/d1a/a15118.html#a7ded1c196b311e5b61686ba9f22efd20", null ],
-    [ "isStephanieCrowd", "de/d1a/a15118.html#a211859fa8f83c08d6150f9fb5730e409", null ],
-    [ "locked", "de/d1a/a15118.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
-    [ "pInstance", "de/d1a/a15118.html#aadae06c487a7755114f856a835d48c7e", null ],
-    [ "stephanieDialoguePhase", "de/d1a/a15118.html#a5cadb975125ec915dcc1899d159c2aa3", null ],
-    [ "stephanieDialogueTimer", "de/d1a/a15118.html#a61fa61e81acfc543353312914a99d841", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "de/d1a/a15118.html#aef8e98b85dfc93a1e9405fbbce084e3f", null ],
+    [ "Initialize", "de/d1a/a15118.html#a11b698907ffea5dd1a165a35d2c23dd0", null ],
+    [ "IsFireEventDone", "de/d1a/a15118.html#aadba63a6fa6025858e78712892e4a343", null ],
+    [ "OnCreatureCreate", "de/d1a/a15118.html#ab5e452958bc474e60fd3f637595629c1", null ],
+    [ "OnGameObjectCreate", "de/d1a/a15118.html#ae96ecf6e1b4ca99f2b3fc3ace5cbf81b", null ],
+    [ "OnUnitDeath", "de/d1a/a15118.html#a163178ce8e79aa0bc082172465527173", null ],
+    [ "ReadSaveDataMore", "de/d1a/a15118.html#a1b045bbe6c337e726158e64375fa9fe7", null ],
+    [ "SetData", "de/d1a/a15118.html#a79fcee240fbd9190b0b66fd4bf7955d9", null ],
+    [ "WriteSaveDataMore", "de/d1a/a15118.html#abaa419d432ef6d0d96487c8d9ebcb630", null ],
+    [ "_akumaiPortalGUID", "de/d1a/a15118.html#a37b3647e927798d77a17f99976910b4b", null ],
+    [ "_encounters", "de/d1a/a15118.html#a4cfd6047351fd144ba96627889a3e9cd", null ],
+    [ "_requiredDeaths", "de/d1a/a15118.html#a3aade6e7fb756b84180876b4ba086376", null ]
 ];

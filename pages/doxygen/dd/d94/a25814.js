@@ -1,6 +1,6 @@
 var a25814 =
 [
-    [ "HandleOpenObject", "dd/d94/a25814.html#ab658c13615fac1861470bb4b853e76a4", null ],
-    [ "PrepareSpellScript", "dd/d94/a25814.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
-    [ "Register", "dd/d94/a25814.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
+    [ "OnBaseRemove", "dd/d94/a25814.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "PrepareAuraScript", "dd/d94/a25814.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "dd/d94/a25814.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

@@ -1,6 +1,13 @@
 var a16590 =
 [
-    [ "HandleSpellHit", "d8/d48/a16590.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
-    [ "PrepareSpellScript", "d8/d48/a16590.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
-    [ "Register", "d8/d48/a16590.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
+    [ "boss_twilight_halionAI", "d8/d48/a16590.html#aab05bab963d603c3cb70edfd62a84b49", null ],
+    [ "DamageTaken", "d8/d48/a16590.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
+    [ "EnterEvadeMode", "d8/d48/a16590.html#af7076251fc1fad1dc259d747934910e2", null ],
+    [ "JustDied", "d8/d48/a16590.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
+    [ "JustEngagedWith", "d8/d48/a16590.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
+    [ "KilledUnit", "d8/d48/a16590.html#ada770d51f63c841c500ffc3197a7a89f", null ],
+    [ "Reset", "d8/d48/a16590.html#a9c945841926d5b08f37c6a720dd25a14", null ],
+    [ "UpdateAI", "d8/d48/a16590.html#a6ab1d215ed077883781b0c0188282c5e", null ],
+    [ "_events", "d8/d48/a16590.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
+    [ "_instance", "d8/d48/a16590.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
 ];

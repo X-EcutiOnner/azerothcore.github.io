@@ -1,9 +1,8 @@
 var a22658 =
 [
-    [ "boss_najentus", "df/d4d/a22658.html#ac5d3d54a49524892fe844925d483c244", null ],
-    [ "JustDied", "df/d4d/a22658.html#afee32dd32033c7a45068ce12e961797c", null ],
-    [ "JustEngagedWith", "df/d4d/a22658.html#a46e3aab64c21b24ac6457acd598679ec", null ],
-    [ "KilledUnit", "df/d4d/a22658.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
-    [ "Reset", "df/d4d/a22658.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
-    [ "_canTalk", "df/d4d/a22658.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
+    [ "boss_darkweaver_syth", "df/d4d/a22658.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "df/d4d/a22658.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "df/d4d/a22658.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "df/d4d/a22658.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "df/d4d/a22658.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

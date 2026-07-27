@@ -1,13 +1,18 @@
 var a10554 =
 [
-    [ "AccountScript", "d6/de1/a10554.html#a3720bf412499a13ba4b41fc5c9f96b7c", null ],
-    [ "CanAccountCreateCharacter", "d6/de1/a10554.html#a6b5b94c1ac64bf8d926928d8401cd533", null ],
-    [ "OnAccountLogin", "d6/de1/a10554.html#afbebc7186ba77b0fefe0a6d32a774601", null ],
-    [ "OnBeforeAccountDelete", "d6/de1/a10554.html#a631f7deca08644da2613142c667618a8", null ],
-    [ "OnEmailChange", "d6/de1/a10554.html#adf20bd20cdc97b91db664dca95f82670", null ],
-    [ "OnFailedAccountLogin", "d6/de1/a10554.html#aae3401d74bdc9e8328a5f084462ae740", null ],
-    [ "OnFailedEmailChange", "d6/de1/a10554.html#a23261a238db9ddd618ebb6a45aaabcbf", null ],
-    [ "OnFailedPasswordChange", "d6/de1/a10554.html#a45d58c0f669f37b24e3dabf0ac4b2423", null ],
-    [ "OnLastIpUpdate", "d6/de1/a10554.html#a3de6453c132bb3d76b6888b87f988d2d", null ],
-    [ "OnPasswordChange", "d6/de1/a10554.html#aefa30b298f52d7c1a44e7648d088c3f0", null ]
+    [ "MoveSplineInitArgs", "d6/de1/a10554.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68", null ],
+    [ "_checkPathBounds", "d6/de1/a10554.html#a984db18cdbd061605a9d486b061dc7c0", null ],
+    [ "Validate", "d6/de1/a10554.html#a17beca23a7a7eaa298debb5e9638daca", null ],
+    [ "facing", "d6/de1/a10554.html#a8800fca5b50ab5123e92b28e921ec8b0", null ],
+    [ "flags", "d6/de1/a10554.html#ac4271ed0434fc8e7f7a70e8869d81a0e", null ],
+    [ "HasVelocity", "d6/de1/a10554.html#acad05815ff039fe1fea3d7cf56afb4f2", null ],
+    [ "initialOrientation", "d6/de1/a10554.html#ab0b66cba791fc206be5b64310480cb88", null ],
+    [ "parabolic_amplitude", "d6/de1/a10554.html#a133d1d0172fde0564a58a004cb354ed0", null ],
+    [ "path", "d6/de1/a10554.html#a3857df1ab2d6dafef4a6d796e6593341", null ],
+    [ "path_Idx_offset", "d6/de1/a10554.html#a6b6aaf43685649798db46d7b409d3e32", null ],
+    [ "splineId", "d6/de1/a10554.html#ac8c84e828c23801a68524c9811f0336b", null ],
+    [ "time_perc", "d6/de1/a10554.html#afe51d24d71b71e87015eeb4851418503", null ],
+    [ "TransformForTransport", "d6/de1/a10554.html#ad9e8518e61b2f5f6ff8380518a6ad0cc", null ],
+    [ "velocity", "d6/de1/a10554.html#af042454593bfd4dc888c1700af437933", null ],
+    [ "walk", "d6/de1/a10554.html#aa58f23e75134e46a9ccbb2c563ecdc22", null ]
 ];

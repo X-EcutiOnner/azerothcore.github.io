@@ -1,9 +1,6 @@
 var a12398 =
 [
-    [ "titles_commandscript", "da/d71/a12398.html#ac088fd907013150a0508b79c99f6c2f3", null ],
-    [ "GetCommands", "da/d71/a12398.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
-    [ "HandleTitlesAddCommand", "da/d71/a12398.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
-    [ "HandleTitlesCurrentCommand", "da/d71/a12398.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
-    [ "HandleTitlesRemoveCommand", "da/d71/a12398.html#a2001bcc2eddc5688d57154f9906218e4", null ],
-    [ "HandleTitlesSetMaskCommand", "da/d71/a12398.html#a9517b10295b856779cdd067234f640c8", null ]
+    [ "bg_commandscript", "da/d71/a12398.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
+    [ "GetCommands", "da/d71/a12398.html#a911ccd6445b08c05069f7f196556c891", null ],
+    [ "HandleBagsClearCommand", "da/d71/a12398.html#a92347e90c2f78d0dfeb41eb033366319", null ]
 ];

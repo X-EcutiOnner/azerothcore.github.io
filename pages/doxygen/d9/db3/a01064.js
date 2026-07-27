@@ -1,4 +1,6 @@
 var a01064 =
 [
-    [ "ScriptRegistry< DynamicObjectScript >", "d9/db3/a01064.html#a81c3616d496bf8bc2392d79508d2e446", null ]
+    [ "LogHeader", "df/d44/a11706.html", "df/d44/a11706" ],
+    [ "PacketHeader", "d0/d20/a11710.html", "d0/d20/a11710" ],
+    [ "PacketHeader::OptionalData", "d9/dc8/a11714.html", "d9/dc8/a11714" ]
 ];

@@ -1,11 +1,9 @@
 var a05474 =
 [
-    [ "Record", "df/d07/a05474.html#a3303a6b7ba364777e368158052dbe1db", null ],
-    [ "getFloat", "df/d07/a05474.html#a1647694079553a20a7c6621aa6d4ecf6", null ],
-    [ "getString", "df/d07/a05474.html#a833c7017749b6b3109ebdee2ff0d3517", null ],
-    [ "getUInt", "df/d07/a05474.html#a6f22775adc36b8955009f3f0bd51f355", null ],
-    [ "getUInt8", "df/d07/a05474.html#af6a95de37b34f0204f57323d9a39d110", null ],
-    [ "DBCFileLoader", "df/d07/a05474.html#aa9814b507b472e781e08c803e025cc72", null ],
-    [ "file", "df/d07/a05474.html#a146dc23a5f24a0d8a1a34f29375b9bcd", null ],
-    [ "offset", "df/d07/a05474.html#a06e2c90771be91d9ca948840a07125e8", null ]
+    [ "criticalOptionSeverity", "df/d07/a05474.html#adfaae562c345965b96fa5f7c92da161e", null ],
+    [ "defaultSeverity", "df/d07/a05474.html#a4d490930b6bbaa9c50570ff9808b1af9", null ],
+    [ "missingFileSeverity", "df/d07/a05474.html#a8cd5da53d2cd0b5d0533741a2dcf651c", null ],
+    [ "missingOptionSeverity", "df/d07/a05474.html#a3c64d5a1ac04533f27af53de8d688ec5", null ],
+    [ "unknownOptionSeverity", "df/d07/a05474.html#ad41070de3cb2c7fa2916654b9e2a693e", null ],
+    [ "valueErrorSeverity", "df/d07/a05474.html#a2c1a05a826289e1cc3f01a988718dda2", null ]
 ];

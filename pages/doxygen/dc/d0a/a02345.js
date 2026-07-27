@@ -1,16 +1,20 @@
 var a02345 =
 [
-    [ "LinkValidator< T >", "d6/dad/a08063.html", "d6/dad/a08063" ],
-    [ "LinkValidator< LinkTags::achievement >", "d1/d76/a08067.html", "d1/d76/a08067" ],
-    [ "LinkValidator< LinkTags::item >", "d6/d72/a08071.html", "d6/d72/a08071" ],
-    [ "LinkValidator< LinkTags::quest >", "dc/d82/a08075.html", "dc/d82/a08075" ],
-    [ "LinkValidator< LinkTags::spell >", "dc/d7c/a08079.html", "dc/d7c/a08079" ],
-    [ "LinkValidator< LinkTags::enchant >", "da/d1b/a08083.html", "da/d1b/a08083" ],
-    [ "LinkValidator< LinkTags::glyph >", "d0/df3/a08087.html", "d0/df3/a08087" ],
-    [ "LinkValidator< LinkTags::talent >", "d7/d3e/a08091.html", "d7/d3e/a08091" ],
-    [ "LinkValidator< LinkTags::trade >", "d2/dae/a08095.html", "d2/dae/a08095" ],
-    [ "TryValidateAs", "dc/d0a/a02345.html#af1c86bff85f30ff113d5f78421c280af", null ],
-    [ "toHex", "dc/d0a/a02345.html#a0b5e4d40ad5549ddc48c127306499b6c", null ],
-    [ "ValidateAs", "dc/d0a/a02345.html#a1021653ddd2d2e78df34d8c4a2a7ed93", null ],
-    [ "ValidateLinkInfo", "dc/d0a/a02345.html#a7de61dd7d7c595063ae73f415e961cc9", null ]
+    [ "WardenCheck", "da/d95/a12286.html", "da/d95/a12286" ],
+    [ "WardenCheckResult", "dc/d7f/a12290.html", "dc/d7f/a12290" ],
+    [ "WardenCheckMgr", "d1/d37/a12294.html", "d1/d37/a12294" ],
+    [ "sWardenCheckMgr", "dc/d0a/a02345.html#a367963ecc82479f8bea3aea9e235a85c", null ],
+    [ "WardenActions", "dc/d0a/a02345.html#acd25f1c729cc9c78338c6bc117dcd5e1", [
+      [ "WARDEN_ACTION_LOG", "dc/d0a/a02345.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81", null ],
+      [ "WARDEN_ACTION_KICK", "dc/d0a/a02345.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13", null ],
+      [ "WARDEN_ACTION_BAN", "dc/d0a/a02345.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0", null ]
+    ] ],
+    [ "WardenCheckTypes", "dc/d0a/a02345.html#ad353d1b1b229bf72b97440ac296da2f0", [
+      [ "WARDEN_CHECK_MEM_TYPE", "dc/d0a/a02345.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3", null ],
+      [ "WARDEN_CHECK_LUA_TYPE", "dc/d0a/a02345.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af", null ],
+      [ "WARDEN_CHECK_OTHER_TYPE", "dc/d0a/a02345.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2", null ]
+    ] ],
+    [ "MAX_WARDEN_ACTION", "dc/d0a/a02345.html#afa0b1cff6db4dd71ef500011182f2834", null ],
+    [ "MAX_WARDEN_CHECK_TYPES", "dc/d0a/a02345.html#a80604a840828219101f07100a7a48dad", null ],
+    [ "WARDEN_MAX_LUA_CHECK_LENGTH", "dc/d0a/a02345.html#a005df8388201fb598a4eedfeac422fbc", null ]
 ];

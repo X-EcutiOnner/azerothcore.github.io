@@ -1,16 +1,23 @@
 var a01031 =
 [
-    [ "FormulaScript", "d2/d32/a10732.html", "d2/d32/a10732" ],
-    [ "FormulaHook", "d6/dcf/a01031.html#a201bafc9783763d9953381d3aa09bf69", [
-      [ "FORMULAHOOK_ON_HONOR_CALCULATION", "d6/dcf/a01031.html#a201bafc9783763d9953381d3aa09bf69a73eb230cf8bc5ea792f11bb873a28419", null ],
-      [ "FORMULAHOOK_ON_GRAY_LEVEL_CALCULATION", "d6/dcf/a01031.html#a201bafc9783763d9953381d3aa09bf69ae5bca7263a6d46817dc8dfaa4e6636c4", null ],
-      [ "FORMULAHOOK_ON_COLOR_CODE_CALCULATION", "d6/dcf/a01031.html#a201bafc9783763d9953381d3aa09bf69ae305e59fcf7c58fccaa5e3eb7f164436", null ],
-      [ "FORMULAHOOK_ON_ZERO_DIFFERENCE_CALCULATION", "d6/dcf/a01031.html#a201bafc9783763d9953381d3aa09bf69aaf4abb2ee4d7e811524828641d035c3f", null ],
-      [ "FORMULAHOOK_ON_BASE_GAIN_CALCULATION", "d6/dcf/a01031.html#a201bafc9783763d9953381d3aa09bf69af81c627150a90b1b38ae49bd3b02ab86", null ],
-      [ "FORMULAHOOK_ON_GAIN_CALCULATION", "d6/dcf/a01031.html#a201bafc9783763d9953381d3aa09bf69ac9f5d04e83bca695ea8857c2797cbb52", null ],
-      [ "FORMULAHOOK_ON_GROUP_RATE_CALCULATION", "d6/dcf/a01031.html#a201bafc9783763d9953381d3aa09bf69a56563d7c720735fee5720cbfc7502baf", null ],
-      [ "FORMULAHOOK_ON_AFTER_ARENA_RATING_CALCULATION", "d6/dcf/a01031.html#a201bafc9783763d9953381d3aa09bf69aec7df5954df9c5fdc2ddcc2f36e3cb92", null ],
-      [ "FORMULAHOOK_ON_BEFORE_UPDATING_PERSONAL_RATING", "d6/dcf/a01031.html#a201bafc9783763d9953381d3aa09bf69ad8dee2b8396106bfbf66942eb7917b33", null ],
-      [ "FORMULAHOOK_END", "d6/dcf/a01031.html#a201bafc9783763d9953381d3aa09bf69a9a1299486f5025ac19ec955832a0813f", null ]
-    ] ]
+    [ "WorldPackets::Item::SplitItem", "de/dab/a11290.html", "de/dab/a11290" ],
+    [ "WorldPackets::Item::SwapInventoryItem", "d0/d74/a11294.html", "d0/d74/a11294" ],
+    [ "WorldPackets::Item::AutoEquipItemSlot", "d5/d6a/a11298.html", "d5/d6a/a11298" ],
+    [ "WorldPackets::Item::SwapItem", "d2/da2/a11302.html", "d2/da2/a11302" ],
+    [ "WorldPackets::Item::AutoEquipItem", "d2/dfa/a11306.html", "d2/dfa/a11306" ],
+    [ "WorldPackets::Item::DestroyItem", "d0/d02/a11310.html", "d0/d02/a11310" ],
+    [ "WorldPackets::Item::ReadItem", "d5/dd9/a11314.html", "d5/dd9/a11314" ],
+    [ "WorldPackets::Item::SellItem", "d5/d08/a11318.html", "d5/d08/a11318" ],
+    [ "WorldPackets::Item::BuybackItem", "db/db8/a11322.html", "db/db8/a11322" ],
+    [ "WorldPackets::Item::BuyItemInSlot", "d0/dfa/a11326.html", "d0/dfa/a11326" ],
+    [ "WorldPackets::Item::BuyItem", "d5/d8e/a11330.html", "d5/d8e/a11330" ],
+    [ "WorldPackets::Item::ListInventory", "de/d98/a11334.html", "de/d98/a11334" ],
+    [ "WorldPackets::Item::AutoStoreBagItem", "d9/d07/a11338.html", "d9/d07/a11338" ],
+    [ "WorldPackets::Item::EnchantmentLog", "d5/de4/a11342.html", "d5/de4/a11342" ],
+    [ "WorldPackets::Item::ItemEnchantTimeUpdate", "d2/d11/a11346.html", "d2/d11/a11346" ],
+    [ "WorldPackets::Item::WrapItem", "d8/db4/a11350.html", "d8/db4/a11350" ],
+    [ "WorldPackets::Item::SocketGems", "d2/d98/a11354.html", "d2/d98/a11354" ],
+    [ "WorldPackets::Item::CancelTempEnchantment", "df/d0d/a11358.html", "df/d0d/a11358" ],
+    [ "WorldPackets::Item::ItemRefundInfo", "d0/d60/a11362.html", "d0/d60/a11362" ],
+    [ "WorldPackets::Item::ItemRefund", "d0/de6/a11366.html", "d0/de6/a11366" ]
 ];

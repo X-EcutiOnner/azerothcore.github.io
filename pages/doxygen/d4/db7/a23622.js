@@ -1,7 +1,7 @@
 var a23622 =
 [
-    [ "npc_daranelleAI", "d4/db7/a23622.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "d4/db7/a23622.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "d4/db7/a23622.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "d4/db7/a23622.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "FilterTargets", "d4/db7/a23622.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
+    [ "HandleHit", "d4/db7/a23622.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
+    [ "PrepareSpellScript", "d4/db7/a23622.html#a376618b9811b2e1ec18697431094e22f", null ],
+    [ "Register", "d4/db7/a23622.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
 ];

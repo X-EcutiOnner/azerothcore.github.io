@@ -1,5 +1,6 @@
 var a28722 =
 [
-    [ "Id", "db/db0/a28722.html#a79e4b857b811a044aed0ce33422df801", null ],
-    [ "quality_mod", "db/db0/a28722.html#a756e7b316cc365f15f24e5e4637303a6", null ]
+    [ "X", "db/db0/a28722.html#a55bda49b2eb919415afaf780ca1977de", null ],
+    [ "Y", "db/db0/a28722.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
+    [ "Z", "db/db0/a28722.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
 ];

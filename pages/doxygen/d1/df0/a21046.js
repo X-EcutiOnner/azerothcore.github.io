@@ -1,7 +1,7 @@
 var a21046 =
 [
-    [ "PrepareAuraScript", "d1/df0/a21046.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
-    [ "Register", "d1/df0/a21046.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
-    [ "TriggerFists", "d1/df0/a21046.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
-    [ "Validate", "d1/df0/a21046.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
+    [ "FilterTargets", "d1/df0/a21046.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
+    [ "HandleDummyEffect", "d1/df0/a21046.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
+    [ "PrepareSpellScript", "d1/df0/a21046.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
+    [ "Register", "d1/df0/a21046.html#a337cdb940a2001ac370768b02126d3c0", null ]
 ];

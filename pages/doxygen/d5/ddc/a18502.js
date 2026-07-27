@@ -1,7 +1,7 @@
 var a18502 =
 [
-    [ "CheckTargetCount", "d5/ddc/a18502.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
-    [ "PrepareSpellScript", "d5/ddc/a18502.html#abd32198867e7f01b21b7de6224a597d4", null ],
-    [ "Register", "d5/ddc/a18502.html#a671bede7fbc68085cd6075f412822869", null ],
-    [ "Validate", "d5/ddc/a18502.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
+    [ "HandleScript", "d5/ddc/a18502.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
+    [ "PrepareSpellScript", "d5/ddc/a18502.html#a7e6b56f426be7925255da3ebc239f909", null ],
+    [ "Register", "d5/ddc/a18502.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
+    [ "Validate", "d5/ddc/a18502.html#a86b4296eab73fc63b38558871f16a889", null ]
 ];

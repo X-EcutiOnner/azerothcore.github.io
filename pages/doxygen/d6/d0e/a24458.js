@@ -1,6 +1,6 @@
 var a24458 =
 [
-    [ "FilterTargets", "d6/d0e/a24458.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
-    [ "PrepareSpellScript", "d6/d0e/a24458.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
-    [ "Register", "d6/d0e/a24458.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
+    [ "FilterTargets", "d6/d0e/a24458.html#adab73c94c659d7421c9c6887d956cd83", null ],
+    [ "PrepareSpellScript", "d6/d0e/a24458.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
+    [ "Register", "d6/d0e/a24458.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
 ];

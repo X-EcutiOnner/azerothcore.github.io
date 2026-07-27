@@ -1,6 +1,7 @@
 var a27150 =
 [
-    [ "HandleKnockBack", "de/d4d/a27150.html#abad9f9293260a3e99be98b43aabb321b", null ],
-    [ "PrepareSpellScript", "de/d4d/a27150.html#a65787b78165631898458264e6ee310f4", null ],
-    [ "Register", "de/d4d/a27150.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
+    [ "HandleDummy", "de/d4d/a27150.html#a1abe1e04be6b6c410e0ff273d8aa15c9", null ],
+    [ "Load", "de/d4d/a27150.html#a249e9c3c74bcc20ea2c0d5ce63fbd88c", null ],
+    [ "PrepareSpellScript", "de/d4d/a27150.html#aeffcc8db6125a35227545911fa03a850", null ],
+    [ "Register", "de/d4d/a27150.html#a1de981482ebb05b8507b308dba7a426b", null ]
 ];

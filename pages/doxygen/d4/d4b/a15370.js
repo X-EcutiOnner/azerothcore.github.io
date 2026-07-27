@@ -1,6 +1,9 @@
 var a15370 =
 [
-    [ "FilterTargets", "d4/d4b/a15370.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
-    [ "PrepareSpellScript", "d4/d4b/a15370.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
-    [ "Register", "d4/d4b/a15370.html#a3168a3f97ddb38b261a0730405ba27db", null ]
+    [ "boss_chrono_lord_deja", "d4/d4b/a15370.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
+    [ "JustDied", "d4/d4b/a15370.html#a68eb4941364f9fac121aa3d610d45f48", null ],
+    [ "JustEngagedWith", "d4/d4b/a15370.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
+    [ "KilledUnit", "d4/d4b/a15370.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
+    [ "MoveInLineOfSight", "d4/d4b/a15370.html#a535c0c157c60804188ad8c4413c277dd", null ],
+    [ "OwnTalk", "d4/d4b/a15370.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
 ];

@@ -1,7 +1,9 @@
 var a18810 =
 [
-    [ "FrostwingVrykulSearcher", "dc/dcc/a18810.html#a10aa54184b42a0538dc4f325204399e9", null ],
-    [ "operator()", "dc/dcc/a18810.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
-    [ "_range", "dc/dcc/a18810.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
-    [ "_source", "dc/dcc/a18810.html#af5d3c93f41698e71c867336d0453d40a", null ]
+    [ "FilterTargets", "dc/dcc/a18810.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
+    [ "Load", "dc/dcc/a18810.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
+    [ "PrepareSpellScript", "dc/dcc/a18810.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
+    [ "Register", "dc/dcc/a18810.html#afad887fba0d97512a7a13a31977cf42d", null ],
+    [ "Validate", "dc/dcc/a18810.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
+    [ "_instance", "dc/dcc/a18810.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
 ];

@@ -1,6 +1,7 @@
 var a24070 =
 [
-    [ "DeathEvent", "da/dc3/a24070.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "da/dc3/a24070.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "da/dc3/a24070.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "npc_maghar_captiveAI", "db/d8d/a24074.html", "db/d8d/a24074" ],
+    [ "npc_maghar_captive", "da/dc3/a24070.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
+    [ "GetAI", "da/dc3/a24070.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
+    [ "OnQuestAccept", "da/dc3/a24070.html#a0cd3a423866b9b5449f8efc729b69c27", null ]
 ];

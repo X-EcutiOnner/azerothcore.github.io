@@ -1,8 +1,10 @@
 var a14282 =
 [
-    [ "FilterTargets", "da/dd0/a14282.html#a3405b21202d423c649e0b8d341b42d9c", null ],
-    [ "HandleWipeThreat", "da/dd0/a14282.html#a2bbcce83bffebc509e9ec54778e82639", null ],
-    [ "PrepareSpellScript", "da/dd0/a14282.html#a59948484b528cab69c695f08b39b886d", null ],
-    [ "Register", "da/dd0/a14282.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
-    [ "_wipeThreat", "da/dd0/a14282.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "da/dd0/a14282.html#af7d495f489979690615d091bbd9d539b", null ],
+    [ "CanAIAttack", "da/dd0/a14282.html#af332a66852c9499912d8ef4959f394f5", null ],
+    [ "InitializeAI", "da/dd0/a14282.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
+    [ "JustRespawned", "da/dd0/a14282.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
+    [ "Reset", "da/dd0/a14282.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
+    [ "UpdateAI", "da/dd0/a14282.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
+    [ "_events", "da/dd0/a14282.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
 ];

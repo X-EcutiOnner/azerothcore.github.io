@@ -1,6 +1,6 @@
 var a14198 =
 [
-    [ "go", "d0/d2c/a14198.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
-    [ "npc", "d0/d2c/a14198.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
-    [ "pos", "d0/d2c/a14198.html#a51175880a326101b29879d7a6a62c48d", null ]
+    [ "OnRemove", "d0/d2c/a14198.html#aedad236b202300eee0925e3600b87bfa", null ],
+    [ "PrepareAuraScript", "d0/d2c/a14198.html#acfdeb98e274989e378d4d4c800306a24", null ],
+    [ "Register", "d0/d2c/a14198.html#a0d820ca108e3aabe87ab5867d997264c", null ]
 ];

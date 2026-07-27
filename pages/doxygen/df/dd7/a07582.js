@@ -1,15 +1,8 @@
 var a07582 =
 [
-    [ "ModifyMatchmakerRating", "df/dd7/a07582.html#aaa6de888c3f85ef8cbe9baa2f997aba1", null ],
-    [ "ModifyPersonalRating", "df/dd7/a07582.html#a34401ea82507df97e540c698fa549b5f", null ],
-    [ "Class", "df/dd7/a07582.html#a5f6519e8ad3281a09608f8740927fbd3", null ],
-    [ "Guid", "df/dd7/a07582.html#ac0dc6765247a0f36b3d3ff527a678010", null ],
-    [ "MatchMakerRating", "df/dd7/a07582.html#ac91a344c7aecb72d17841413f5d935da", null ],
-    [ "MaxMMR", "df/dd7/a07582.html#afc86e111a1c699254c5ea761d0dda088", null ],
-    [ "Name", "df/dd7/a07582.html#a7917e705d8c15bbe2731c32375c34d16", null ],
-    [ "PersonalRating", "df/dd7/a07582.html#a03168b1bdc8e6dac30d3b63e692ce854", null ],
-    [ "SeasonGames", "df/dd7/a07582.html#ae3724b7268c161d5553b8cc1fae2cf75", null ],
-    [ "SeasonWins", "df/dd7/a07582.html#a7239187cef3a02839fe27577ad022ec9", null ],
-    [ "WeekGames", "df/dd7/a07582.html#a97906127f7eb1babe2bf2ebcda7c0a88", null ],
-    [ "WeekWins", "df/dd7/a07582.html#a5b9e5e02d59569080d34abd9b9728693", null ]
+    [ "WintergraspCapturePoint", "df/dd7/a07582.html#a36090feb3626e204e0029ea45f1d8136", null ],
+    [ "ChangeTeam", "df/dd7/a07582.html#a66564dd3237538b256ebeb76d236001f", null ],
+    [ "GetTeam", "df/dd7/a07582.html#a7ff4106591a5aac1ea8820016b8164bb", null ],
+    [ "LinkToWorkshop", "df/dd7/a07582.html#a32d378eba7f0eea0f011b8ea8c7e6eee", null ],
+    [ "LinkedWorkshop", "df/dd7/a07582.html#a06d98983a020f1f571812cf7ff0f907a", null ]
 ];

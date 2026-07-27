@@ -1,14 +1,15 @@
 var a24074 =
 [
-    [ "npc_pet_mage_mirror_image", "db/d8d/a24074.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
-    [ "EnterEvadeMode", "db/d8d/a24074.html#a858b070fb53112dc78554f0b20cd876a", null ],
-    [ "InitializeAI", "db/d8d/a24074.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
-    [ "MySelectNextTarget", "db/d8d/a24074.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
-    [ "Reset", "db/d8d/a24074.html#a79a8c153ab61c619d928ec5535e67077", null ],
-    [ "UpdateAI", "db/d8d/a24074.html#aa219b3adc38b625c6885089895b941b4", null ],
-    [ "_delayAttack", "db/d8d/a24074.html#ab65a74ef0f1e253bf9df4e4f7c6856a3", null ],
-    [ "_ebonGargoyleGUID", "db/d8d/a24074.html#a8be57d06114f108e74b850ce66722bf3", null ],
-    [ "checktarget", "db/d8d/a24074.html#a074611355768dc2072da69ed9d72242b", null ],
-    [ "dist", "db/d8d/a24074.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
-    [ "selectionTimer", "db/d8d/a24074.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
+    [ "npc_maghar_captiveAI", "db/d8d/a24074.html#abab2cfe84f4bb83fea3b35202a957bb5", null ],
+    [ "JustDied", "db/d8d/a24074.html#adbef78d8c908bfbce6ea506c55fb6922", null ],
+    [ "JustEngagedWith", "db/d8d/a24074.html#a2a0ec4a496c7352ba88ceef99eb769e4", null ],
+    [ "JustSummoned", "db/d8d/a24074.html#afe55f91acd8c47a758b8d08bd07d763f", null ],
+    [ "Reset", "db/d8d/a24074.html#abebcdcb102f8d338ae0b792708940cd7", null ],
+    [ "SpellHitTarget", "db/d8d/a24074.html#ab4f4deaae35fdbd602c9925f26e6d0e7", null ],
+    [ "UpdateAI", "db/d8d/a24074.html#a295cbae9196e320fabbb4cfb9dc33150", null ],
+    [ "WaypointReached", "db/d8d/a24074.html#abfbba8942df57e974ab24ad693c16e70", null ],
+    [ "WaypointReached", "db/d8d/a24074.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "ChainLightningTimer", "db/d8d/a24074.html#aa00a6978074f62d3d8ddead64d3240cf", null ],
+    [ "FrostShockTimer", "db/d8d/a24074.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f", null ],
+    [ "HealTimer", "db/d8d/a24074.html#a31613adba706f3b5f948f2f7c4222038", null ]
 ];

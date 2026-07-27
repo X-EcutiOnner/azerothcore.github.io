@@ -1,6 +1,5 @@
 var a12674 =
 [
-    [ "FilterTargets", "df/d27/a12674.html#ac630fb5f068e4d26adb078b118994c45", null ],
-    [ "PrepareSpellScript", "df/d27/a12674.html#a5f4986bfad79573e65d56ff276c49914", null ],
-    [ "Register", "df/d27/a12674.html#aa1f5838d43871fd7908ea3b914666000", null ]
+    [ "go_shadowforge_brazier", "df/d27/a12674.html#a35a7aa318b20bc2b0e3081be506e835e", null ],
+    [ "GossipHello", "df/d27/a12674.html#a1bbe1da11b4a15bb2ced7df0ae614626", null ]
 ];

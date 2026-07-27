@@ -1,11 +1,10 @@
 var a12490 =
 [
-    [ "boss_emperor_dagran_thaurissan", "d7/db0/a12490.html#a33efe0ee1573c4b43cdf58bdce303e5d", null ],
-    [ "JustDied", "d7/db0/a12490.html#a526a7726e2838ef4c49cca8dd6fc68c9", null ],
-    [ "JustEngagedWith", "d7/db0/a12490.html#a182564d95dc677ea33e47995638a9a58", null ],
-    [ "KilledUnit", "d7/db0/a12490.html#a7f7ae37e4abbe37f4fa46b98af3ac03a", null ],
-    [ "SetData", "d7/db0/a12490.html#a5ccda3d76afe43804c86e193afa9b80c", null ],
-    [ "UpdateAI", "d7/db0/a12490.html#ab1c7da00e8e1a20d2592ec26862867fc", null ],
-    [ "hasYelled", "d7/db0/a12490.html#aaadeb10c22c598cd10ccde83425fbf71", null ],
-    [ "SenatorYells", "d7/db0/a12490.html#ad94aef1875a5a863f78dc84a964638f9", null ]
+    [ "item_commandscript", "d7/db0/a12490.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
+    [ "GetCommands", "d7/db0/a12490.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
+    [ "HandleItemMoveCommand", "d7/db0/a12490.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
+    [ "HandleItemRefundCommand", "d7/db0/a12490.html#af914e33be05148062abd89c754d939c9", null ],
+    [ "HandleItemRestoreCommand", "d7/db0/a12490.html#a84c67a46c513c1aac2b9d2563d693929", null ],
+    [ "HandleItemRestoreListCommand", "d7/db0/a12490.html#a40181310f4187a71a6f5f5f600a8f468", null ],
+    [ "HasItemDeletionConfig", "d7/db0/a12490.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
 ];

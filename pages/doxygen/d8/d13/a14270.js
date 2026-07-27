@@ -1,12 +1,9 @@
 var a14270 =
 [
-    [ "npc_zulian_prowlerAI", "d8/d13/a14270.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "d8/d13/a14270.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "d8/d13/a14270.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "d8/d13/a14270.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "d8/d13/a14270.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "d8/d13/a14270.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "d8/d13/a14270.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "d8/d13/a14270.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "d8/d13/a14270.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "npc_thrall_bfuAI", "d0/d8b/a14274.html", "d0/d8b/a14274" ],
+    [ "npc_thrall_bfu", "d8/d13/a14270.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
+    [ "GetAI", "d8/d13/a14270.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
+    [ "OnGossipHello", "d8/d13/a14270.html#a71a7108464de9245879c8a1c08932e2a", null ],
+    [ "OnGossipSelect", "d8/d13/a14270.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
+    [ "OnQuestReward", "d8/d13/a14270.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
 ];

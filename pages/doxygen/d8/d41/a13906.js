@@ -1,6 +1,7 @@
 var a13906 =
 [
-    [ "npc_lor_themar_theron", "d8/d41/a13906.html#acf8b65675cc46949440a829fc1adf5fc", null ],
-    [ "JustDied", "d8/d41/a13906.html#ad2615cc062c8c1f4b01fc9e253fe34d4", null ],
-    [ "UpdateAI", "d8/d41/a13906.html#aa9eafbacdb75bfbf772c901ce96119c6", null ]
+    [ "HandleAfterCast", "d8/d41/a13906.html#a251ddadd9d26039da542c402e4ee254f", null ],
+    [ "PrepareSpellScript", "d8/d41/a13906.html#a91114aeb4f917ec5138a0c7b20688174", null ],
+    [ "Register", "d8/d41/a13906.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
+    [ "Validate", "d8/d41/a13906.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
 ];

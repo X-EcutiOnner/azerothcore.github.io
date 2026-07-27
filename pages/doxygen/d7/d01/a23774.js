@@ -1,7 +1,7 @@
 var a23774 =
 [
-    [ "CheckRequirement", "d7/d01/a23774.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "d7/d01/a23774.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "d7/d01/a23774.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "d7/d01/a23774.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "boss_warp_splinter", "d7/d01/a23774.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d7/d01/a23774.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d7/d01/a23774.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d7/d01/a23774.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

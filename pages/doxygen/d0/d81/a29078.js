@@ -1,7 +1,10 @@
 var a29078 =
 [
-    [ "~ByteBufferException", "d0/d81/a29078.html#a0ab73f9061c040127f70dbfc9a176509", null ],
-    [ "message", "d0/d81/a29078.html#ab1a64d8fc18565a04c347de29184f68c", null ],
-    [ "what", "d0/d81/a29078.html#a87896f7ab19f3032937f5f84e8cf440a", null ],
-    [ "msg_", "d0/d81/a29078.html#a314bdbb7063219f8256df894602e6b02", null ]
+    [ "HasFlag", "d0/d81/a29078.html#abe23ca5437589a38ea57bc93a6197911", null ],
+    [ "CollisionHeight", "d0/d81/a29078.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
+    [ "CollisionWidth", "d0/d81/a29078.html#ab79497759cf169348b8922301fc43b2f", null ],
+    [ "Flags", "d0/d81/a29078.html#a3bb96e232124771e78f8b5db53405106", null ],
+    [ "Id", "d0/d81/a29078.html#aa19fec147703c7542be260c8ec5a0446", null ],
+    [ "MountHeight", "d0/d81/a29078.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
+    [ "Scale", "d0/d81/a29078.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
 ];

@@ -1,15 +1,9 @@
 var a10046 =
 [
-    [ "MailSender", "dc/d25/a10046.html#a16466924bf75ea8203ba27c0f3e6188b", null ],
-    [ "MailSender", "dc/d25/a10046.html#a735cfef6950357644d6965978dde0309", null ],
-    [ "MailSender", "dc/d25/a10046.html#a145000f5ef63627ee26a5699846e06cf", null ],
-    [ "MailSender", "dc/d25/a10046.html#a9ddda06cf5ecc55efdc4525353471c5b", null ],
-    [ "MailSender", "dc/d25/a10046.html#a7d5a5e40aa20de720f310b739f159225", null ],
-    [ "MailSender", "dc/d25/a10046.html#a12c87bb414a3e8889c95091f3b51716b", null ],
-    [ "GetMailMessageType", "dc/d25/a10046.html#a64c99a49ec01d2226b6bf740edb380fb", null ],
-    [ "GetSenderId", "dc/d25/a10046.html#a03145c3fdc5bbabc64019e63e121132b", null ],
-    [ "GetStationery", "dc/d25/a10046.html#a6a4446e52e20ad7ab4817bf024b38631", null ],
-    [ "m_messageType", "dc/d25/a10046.html#a45a312eda342d2197f15d73b47d7787b", null ],
-    [ "m_senderId", "dc/d25/a10046.html#a0954b3514cfcba4258b1b266dfd71ddb", null ],
-    [ "m_stationery", "dc/d25/a10046.html#a1bbced35b4600f9a45a421d28a33393b", null ]
+    [ "completedEncounters", "dc/d25/a10046.html#acd444d68aab9efa6aace6f3964a40206", null ],
+    [ "data", "dc/d25/a10046.html#a50d57b4d7d0ba162ae1cc53ee4c4462c", null ],
+    [ "difficulty", "dc/d25/a10046.html#a31694740b0a3af858c12c51f0659fe3c", null ],
+    [ "instanceId", "dc/d25/a10046.html#aefe57dc77cf3043b6c187fdb676d9c51", null ],
+    [ "mapId", "dc/d25/a10046.html#a14cbda11b8b949fe647a6851d15d6465", null ],
+    [ "resetTime", "dc/d25/a10046.html#af7c9d7b1fee85de40aade9576e8c49ff", null ]
 ];

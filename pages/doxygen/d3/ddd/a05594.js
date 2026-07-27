@@ -1,8 +1,12 @@
 var a05594 =
 [
-    [ "Decode", "d3/ddd/a05594.html#aacf2a55e180aa5ee475ac76c6af4d47a", null ],
-    [ "Encode", "d3/ddd/a05594.html#a51c8847dc9b75161f4d2d366324dc50f", null ],
-    [ "BITS_PER_CHAR", "d3/ddd/a05594.html#a10f3736ee2ed8e79e1236798e2b1d2be", null ],
-    [ "DECODE_ERROR", "d3/ddd/a05594.html#ace6b211be8a36043942f0a1aaee063b1", null ],
-    [ "PADDING", "d3/ddd/a05594.html#af099d69cc636a7ad298ec9e38b2f20d2", null ]
+    [ "RegistryMapType", "d3/ddd/a05594.html#ab6a131bc0c7d0ddcb9ad34044b9c8ac2", null ],
+    [ "ObjectRegistry", "d3/ddd/a05594.html#aa3bcc30791e82bc900eacf1c5833b7f8", null ],
+    [ "~ObjectRegistry", "d3/ddd/a05594.html#a2734a0e6001f597b43e006bc9d84a6b1", null ],
+    [ "GetRegisteredItems", "d3/ddd/a05594.html#aba4a4fcc7ee59afbb4dea6df7410dc02", null ],
+    [ "GetRegistryItem", "d3/ddd/a05594.html#a474bdff0ab0f0a3db5f914b9dfaa48d1", null ],
+    [ "HasItem", "d3/ddd/a05594.html#a3c95897734a780c1f299d24a058b3595", null ],
+    [ "InsertItem", "d3/ddd/a05594.html#a55416824a5dff4138f5d828e352e3d7c", null ],
+    [ "instance", "d3/ddd/a05594.html#a7a6582a84361d5ad1142f29c9e1d9cb5", null ],
+    [ "_registeredObjects", "d3/ddd/a05594.html#a61e6a6eb75512241e82092abfeba7a65", null ]
 ];

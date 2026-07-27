@@ -1,6 +1,9 @@
 var a26770 =
 [
-    [ "HandleDummy", "de/dbc/a26770.html#aa530b0e27c9b9ba1978a80fd4a47f68d", null ],
-    [ "PrepareSpellScript", "de/dbc/a26770.html#a22adac71d2693d17313e506f1d12532f", null ],
-    [ "Register", "de/dbc/a26770.html#a2680afcbe3d7e95404c614e2f0f93bf4", null ]
+    [ "CheckProc", "de/dbc/a26770.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
+    [ "HandleProc", "de/dbc/a26770.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
+    [ "PrepareAuraScript", "de/dbc/a26770.html#a9585ecde57ccfa26f59174732e3132fc", null ],
+    [ "Register", "de/dbc/a26770.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
+    [ "Validate", "de/dbc/a26770.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
+    [ "_triggeredSpellId", "de/dbc/a26770.html#a560ade778e046213f60f48364ea3800c", null ]
 ];

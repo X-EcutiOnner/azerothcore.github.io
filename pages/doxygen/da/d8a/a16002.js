@@ -1,9 +1,5 @@
 var a16002 =
 [
-    [ "npc_pluckyAI", "da/d8a/a16002.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
-    [ "ReceiveEmote", "da/d8a/a16002.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
-    [ "Reset", "da/d8a/a16002.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
-    [ "UpdateAI", "da/d8a/a16002.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
-    [ "NormFaction", "da/d8a/a16002.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
-    [ "ResetTimer", "da/d8a/a16002.html#ac9808c21666cd17b0603e7e67a61d015", null ]
+    [ "at_ancient_leaf", "da/d8a/a16002.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
+    [ "OnTrigger", "da/d8a/a16002.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
 ];

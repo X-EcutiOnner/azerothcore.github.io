@@ -1,6 +1,6 @@
 var a15806 =
 [
-    [ "HandleDummy", "dc/dd5/a15806.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
-    [ "PrepareSpellScript", "dc/dd5/a15806.html#adc581ed46587afcc8be3800ae79105f6", null ],
-    [ "Register", "dc/dd5/a15806.html#a7d09808ea2fdec450fcd129e996bd245", null ]
+    [ "HandleDummy", "dc/dd5/a15806.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
+    [ "PrepareSpellScript", "dc/dd5/a15806.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
+    [ "Register", "dc/dd5/a15806.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
 ];

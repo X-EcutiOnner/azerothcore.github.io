@@ -1,7 +1,7 @@
 var a12730 =
 [
-    [ "HandlePeriodic", "db/d48/a12730.html#a72e043202c587e6c12d0b36d679cd071", null ],
-    [ "PrepareAuraScript", "db/d48/a12730.html#a7ca007283e34855ee825ae160653f4a3", null ],
-    [ "Register", "db/d48/a12730.html#aebad39c65167042be8db3c3a1811a235", null ],
-    [ "Validate", "db/d48/a12730.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
+    [ "boss_grizzle", "db/d48/a12730.html#af5d864d2e06859a3c21506b8def424d0", null ],
+    [ "JustEngagedWith", "db/d48/a12730.html#ad925b3a8190037e1768b1c5565656be7", null ],
+    [ "UpdateAI", "db/d48/a12730.html#a72c28686adf331ed291585f830041041", null ],
+    [ "nextTremorTime", "db/d48/a12730.html#a220d7e426d7bd2034cf2dc70d0a18f26", null ]
 ];

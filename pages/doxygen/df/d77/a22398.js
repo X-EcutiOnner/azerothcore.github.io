@@ -1,7 +1,6 @@
 var a22398 =
 [
-    [ "HandleEffectRemove", "df/d77/a22398.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
-    [ "PrepareAuraScript", "df/d77/a22398.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
-    [ "Register", "df/d77/a22398.html#a9ee8e71020c17f593472de5a9c130753", null ],
-    [ "Validate", "df/d77/a22398.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
+    [ "go_wg_vehicle_teleporterAI", "dd/dc1/a22402.html", "dd/dc1/a22402" ],
+    [ "go_wg_vehicle_teleporter", "df/d77/a22398.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
+    [ "GetAI", "df/d77/a22398.html#a113aaf42c095000c1a016bfe60df11e7", null ]
 ];

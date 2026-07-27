@@ -1,8 +1,6 @@
 var a21874 =
 [
-    [ "CheckCast", "d6/d47/a21874.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "d6/d47/a21874.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "d6/d47/a21874.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "d6/d47/a21874.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "d6/d47/a21874.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "d9/dd9/a21878.html", "d9/dd9/a21878" ],
+    [ "npc_commander_eligor_dawnbringer", "d6/d47/a21874.html#a71d919af98464d6d63f948507f3ff08c", null ],
+    [ "GetAI", "d6/d47/a21874.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
 ];

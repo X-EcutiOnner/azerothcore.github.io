@@ -1,17 +1,14 @@
 var a10262 =
 [
-    [ "GraveyardContainer", "d0/d6c/a10262.html#a21ce8ad954d37b385e339c5247f17ffd", null ],
-    [ "AddGraveyardLink", "d0/d6c/a10262.html#ab4884f2b2b4f00dd9ea65c1ceb2af1bb", null ],
-    [ "FindGraveyardData", "d0/d6c/a10262.html#a54a4461db550d5383fded30a6ecd0408", null ],
-    [ "GetClosestGraveyard", "d0/d6c/a10262.html#af989ee1a2f802a0cb5addf50a0586d63", null ],
-    [ "GetDefaultGraveyard", "d0/d6c/a10262.html#ab6ef1306db71eb2f2d72167314d5e1c2", null ],
-    [ "GetGraveyard", "d0/d6c/a10262.html#addd1a184b9791c8c6a74fb228545741b", null ],
-    [ "GetGraveyard", "d0/d6c/a10262.html#aeb72f07dd677dfe31d0e4b45f2f9ddd6", null ],
-    [ "GetGraveyardData", "d0/d6c/a10262.html#ab9ebb6afa55d30e64d460b81f9297f09", null ],
-    [ "instance", "d0/d6c/a10262.html#aaaf39d71af738cac8dd427ca94a5689b", null ],
-    [ "LoadGraveyardFromDB", "d0/d6c/a10262.html#aff7880b8c557fac494e3b8213a048f32", null ],
-    [ "LoadGraveyardZones", "d0/d6c/a10262.html#ac398379a421eabea55729e867d57383f", null ],
-    [ "RemoveGraveyardLink", "d0/d6c/a10262.html#af957c28b4ccfc7b1853280b7441c958d", null ],
-    [ "_graveyardStore", "d0/d6c/a10262.html#a77fb8dad0ae4ea7af0823c0bcafba787", null ],
-    [ "GraveyardStore", "d0/d6c/a10262.html#afe83a8248fa6617b868cadd0699af96e", null ]
+    [ "BattlegroundMap", "d0/d6c/a10262.html#a3a9af8a69ac8d188d7fb86f2a9dda2c3", null ],
+    [ "~BattlegroundMap", "d0/d6c/a10262.html#a327d241fd7930e9b3a98ba50014d5131", null ],
+    [ "AddPlayerToMap", "d0/d6c/a10262.html#a0325279a2affc7b20a415a3b90a32fc0", null ],
+    [ "CannotEnter", "d0/d6c/a10262.html#a493a1932eee44c346d9cfb7d13789bb6", null ],
+    [ "GetBG", "d0/d6c/a10262.html#a2fcb965981bb03571f12c11cdbac54a4", null ],
+    [ "InitVisibilityDistance", "d0/d6c/a10262.html#af2d6847765d10fab527d77b26dd770ad", null ],
+    [ "RemoveAllPlayers", "d0/d6c/a10262.html#a5093cbf8005d06452eeb202513323c1e", null ],
+    [ "RemovePlayerFromMap", "d0/d6c/a10262.html#aeddb9dfae8601e95b0a93cefc12c2612", null ],
+    [ "SetBG", "d0/d6c/a10262.html#aaa9e5f830953b1a37a684ac566e9b768", null ],
+    [ "SetUnload", "d0/d6c/a10262.html#a4c03b1aa9c4c53697ad6284825a1b9c1", null ],
+    [ "m_bg", "d0/d6c/a10262.html#aa38fff695728ddedc94dd6eb6bd7bf3b", null ]
 ];

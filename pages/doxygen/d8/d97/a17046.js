@@ -1,7 +1,10 @@
 var a17046 =
 [
-    [ "HandleEffectRemove", "d8/d97/a17046.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
-    [ "Load", "d8/d97/a17046.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
-    [ "PrepareAuraScript", "d8/d97/a17046.html#a97411ddf89a10a962ba74d294eb653e7", null ],
-    [ "Register", "d8/d97/a17046.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
+    [ "npc_mistress_of_painAI", "d8/d97/a17046.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
+    [ "EnterEvadeMode", "d8/d97/a17046.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
+    [ "JustDied", "d8/d97/a17046.html#ae60f294f902a2f687446f7599d071e42", null ],
+    [ "Reset", "d8/d97/a17046.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
+    [ "SpellHit", "d8/d97/a17046.html#a077843a7ead2034da695be816de42f9e", null ],
+    [ "UpdateAI", "d8/d97/a17046.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
+    [ "events", "d8/d97/a17046.html#a941ae1faab010551db6a8e6749993357", null ]
 ];

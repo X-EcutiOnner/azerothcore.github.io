@@ -1,25 +1,4 @@
 var a05105 =
 [
-    [ "achievement", "df/dc2/a08153.html", "df/dc2/a08153" ],
-    [ "base_tag", "d2/d5d/a08149.html", "d2/d5d/a08149" ],
-    [ "enchant", "d2/ddc/a08157.html", "d2/ddc/a08157" ],
-    [ "glyph", "d1/d9e/a08161.html", "d1/d9e/a08161" ],
-    [ "item", "d1/dc4/a08165.html", "d1/dc4/a08165" ],
-    [ "quest", "de/da7/a08169.html", "de/da7/a08169" ],
-    [ "spell", "d2/d9f/a08173.html", "d2/d9f/a08173" ],
-    [ "talent", "de/d9a/a08177.html", "de/d9a/a08177" ],
-    [ "trade", "d1/d5d/a08181.html", "d1/d5d/a08181" ],
-    [ "make_base_tag", "dc/db7/a05105.html#a6ebb455ff3abbea4ad68bd1d7d05fd3a", null ],
-    [ "make_base_tag", "dc/db7/a05105.html#a0803de4bbc9edad4f5bb2afc3c242dca", null ],
-    [ "make_base_tag", "dc/db7/a05105.html#aa8156f2996632fd42a2e39b974426995", null ],
-    [ "make_base_tag", "dc/db7/a05105.html#a321da5d63921d41c561a1460929ac730", null ],
-    [ "make_base_tag", "dc/db7/a05105.html#afc9dbd840048c0031231bcdb7b2fcf04", null ],
-    [ "make_base_tag", "dc/db7/a05105.html#a7083d48423b83ff39095030678b29877", null ],
-    [ "make_base_tag", "dc/db7/a05105.html#aae3a6cd0fbf426755d93a387882ff767", null ],
-    [ "make_base_tag", "dc/db7/a05105.html#aa0ca4a111a856da9091a377934f8de93", null ],
-    [ "make_base_tag", "dc/db7/a05105.html#a9990339040b491e108594df755f03a6c", null ],
-    [ "make_base_tag", "dc/db7/a05105.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec", null ],
-    [ "make_base_tag", "dc/db7/a05105.html#a32cfa3bc188d1b731f3e9e5dcc2de664", null ],
-    [ "make_base_tag", "dc/db7/a05105.html#ae0c637d10c728f04dc2468c15c3f8dca", null ],
-    [ "make_base_tag", "dc/db7/a05105.html#abe0a588f1c0e66d33c8bc7a7d0a04459", null ]
+    [ "EnumUtils", "d7/de5/a05878.html", "d7/de5/a05878" ]
 ];

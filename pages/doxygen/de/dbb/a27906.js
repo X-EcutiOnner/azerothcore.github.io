@@ -1,5 +1,7 @@
 var a27906 =
 [
-    [ "go_table_theka", "de/dbb/a27906.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "de/dbb/a27906.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "HandleScript", "de/dbb/a27906.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
+    [ "PrepareSpellScript", "de/dbb/a27906.html#ab363d596d2d1e030f0cc07126b40e921", null ],
+    [ "Register", "de/dbb/a27906.html#ab9041b811e80e220828d5db59b724682", null ],
+    [ "Validate", "de/dbb/a27906.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
 ];

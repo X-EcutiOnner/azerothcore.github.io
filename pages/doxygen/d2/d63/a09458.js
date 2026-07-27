@@ -1,8 +1,8 @@
 var a09458 =
 [
-    [ "V8Type", "d2/d63/a09458.html#ad1b1f07eef9dda43d6ba20d37087e1df", null ],
-    [ "V9Type", "d2/d63/a09458.html#ac514014328ca676e610cef54710d2430", null ],
-    [ "gridIntHeightMultiplier", "d2/d63/a09458.html#a6255362ae498172495394e1f0fad44ca", null ],
-    [ "v8", "d2/d63/a09458.html#a3201a1f3e7307af860396ca26a78dbf9", null ],
-    [ "v9", "d2/d63/a09458.html#ad31af604d44f964e9c502f36b6717c77", null ]
+    [ "DungeonEncounter", "d2/d63/a09458.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
+    [ "creditEntry", "d2/d63/a09458.html#a700a0792973678339f33ab85e7396918", null ],
+    [ "creditType", "d2/d63/a09458.html#a66a077e193f099bb7aef363dc75672d6", null ],
+    [ "dbcEntry", "d2/d63/a09458.html#a262bdd0ba443739456fc14bcad83ecda", null ],
+    [ "lastEncounterDungeon", "d2/d63/a09458.html#a67e29b891887e339dbb40515d082e781", null ]
 ];

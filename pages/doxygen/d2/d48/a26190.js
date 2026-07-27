@@ -1,6 +1,6 @@
 var a26190 =
 [
-    [ "HandleProc", "d2/d48/a26190.html#a81736c5dd5fd02181673a9f12d4d9ab2", null ],
-    [ "PrepareAuraScript", "d2/d48/a26190.html#a1710a08cfe8b6f9b3890840bac97c711", null ],
-    [ "Register", "d2/d48/a26190.html#a2e65cb7fa379f1330610aaa56e002ba3", null ]
+    [ "HandleOpenObject", "d2/d48/a26190.html#ab658c13615fac1861470bb4b853e76a4", null ],
+    [ "PrepareSpellScript", "d2/d48/a26190.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
+    [ "Register", "d2/d48/a26190.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
 ];

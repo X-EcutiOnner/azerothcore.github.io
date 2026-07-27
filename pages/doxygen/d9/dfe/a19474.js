@@ -1,7 +1,12 @@
 var a19474 =
 [
-    [ "npc_alexstrasza", "d9/dfe/a19474.html#a38c68ff4e0ba73218ff18c8bf95c8d4c", null ],
-    [ "AttackStart", "d9/dfe/a19474.html#ab47f439968b7e9358158eae3e31f4e29", null ],
-    [ "MoveInLineOfSight", "d9/dfe/a19474.html#acadf7b1ff63e266fd1f6eeaf533f9514", null ],
-    [ "UpdateAI", "d9/dfe/a19474.html#aec1c93eee408ecefbceec22be4b90dba", null ]
+    [ "boss_gluthAI", "d9/dfe/a19474.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
+    [ "JustEngagedWith", "d9/dfe/a19474.html#a25cf670d7254cc8331752987a854c63b", null ],
+    [ "JustSummoned", "d9/dfe/a19474.html#acc09328210fbf1a6e81999d548676ae4", null ],
+    [ "KilledUnit", "d9/dfe/a19474.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
+    [ "MoveInLineOfSight", "d9/dfe/a19474.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
+    [ "Reset", "d9/dfe/a19474.html#acb9f68205a2a210737d43893a414ca52", null ],
+    [ "SelectPlayerInRoom", "d9/dfe/a19474.html#a1f8f87b00291d8164f607ac6262506cf", null ],
+    [ "SummonedCreatureDies", "d9/dfe/a19474.html#a115a1f1327a931067223734dbf414675", null ],
+    [ "UpdateAI", "d9/dfe/a19474.html#a2505f7ebda7b623edfedf96979a4a920", null ]
 ];

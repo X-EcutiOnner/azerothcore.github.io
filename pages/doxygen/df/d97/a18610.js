@@ -1,9 +1,5 @@
 var a18610 =
 [
-    [ "FilterTargets", "df/d97/a18610.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
-    [ "Load", "df/d97/a18610.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
-    [ "PrepareSpellScript", "df/d97/a18610.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
-    [ "Register", "df/d97/a18610.html#afad887fba0d97512a7a13a31977cf42d", null ],
-    [ "Validate", "df/d97/a18610.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
-    [ "_instance", "df/d97/a18610.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
+    [ "FrozenThroneResetWorker", "df/d97/a18610.html#afd21e9c1449d4e391713256e197bc92b", null ],
+    [ "operator()", "df/d97/a18610.html#a7119548d30d760ae817a87cacf712cf6", null ]
 ];

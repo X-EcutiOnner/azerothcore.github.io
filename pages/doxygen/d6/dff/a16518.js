@@ -1,6 +1,7 @@
 var a16518 =
 [
-    [ "boss_eadricAI", "d7/de7/a16522.html", "d7/de7/a16522" ],
-    [ "boss_eadric", "d6/dff/a16518.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
-    [ "GetAI", "d6/dff/a16518.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
+    [ "DelayedTalk", "d6/dff/a16518.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "d6/dff/a16518.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "d6/dff/a16518.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "d6/dff/a16518.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

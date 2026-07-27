@@ -1,4 +1,4 @@
 var a02018 =
 [
-    [ "WorldPacket", "d3/d0f/a11680.html", "d3/d0f/a11680" ]
+    [ "GetTargetFlagMask", "da/d2d/a02018.html#adc898dfddc20010c41bb771b6d6f274e", null ]
 ];

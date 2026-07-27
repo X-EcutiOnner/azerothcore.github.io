@@ -1,8 +1,6 @@
 var a23314 =
 [
-    [ "npc_warchief_portal", "df/da3/a23314.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "df/da3/a23314.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "df/da3/a23314.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "df/da3/a23314.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "df/da3/a23314.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "go_ahune_ice_stone", "df/da3/a23314.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "df/da3/a23314.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "df/da3/a23314.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

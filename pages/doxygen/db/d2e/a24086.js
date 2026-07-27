@@ -1,9 +1,7 @@
 var a24086 =
 [
-    [ "npc_pet_shaman_fire_elemental", "db/d2e/a24086.html#a3428642963fc9e7588ec92fd838f1af9", null ],
-    [ "InitializeAI", "db/d2e/a24086.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
-    [ "JustEngagedWith", "db/d2e/a24086.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
-    [ "UpdateAI", "db/d2e/a24086.html#a2280e5cc5187a91917a1e517e80e960d", null ],
-    [ "_events", "db/d2e/a24086.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
-    [ "_initAttack", "db/d2e/a24086.html#a2df79acc05dd8489e9e994e044b45404", null ]
+    [ "npc_kurenai_captiveAI", "d9/d63/a24090.html", "d9/d63/a24090" ],
+    [ "npc_kurenai_captive", "db/d2e/a24086.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "db/d2e/a24086.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "db/d2e/a24086.html#a5e87cd850d0fc6272d89dd3c7901af5f", null ]
 ];

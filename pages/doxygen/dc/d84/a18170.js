@@ -1,8 +1,6 @@
 var a18170 =
 [
-    [ "HandleScript", "dc/d84/a18170.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
-    [ "PrepareSpellScript", "dc/d84/a18170.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
-    [ "Register", "dc/d84/a18170.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
-    [ "SelectTarget", "dc/d84/a18170.html#a36d575c6a63e94905bf435bc9d39e588", null ],
-    [ "Validate", "dc/d84/a18170.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
+    [ "npc_cult_fanaticAI", "d3/d75/a18174.html", "d3/d75/a18174" ],
+    [ "npc_cult_fanatic", "dc/d84/a18170.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "dc/d84/a18170.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

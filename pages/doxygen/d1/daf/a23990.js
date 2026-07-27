@@ -1,6 +1,7 @@
 var a23990 =
 [
-    [ "HandleDamageCalc", "d1/daf/a23990.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
-    [ "PrepareSpellScript", "d1/daf/a23990.html#a183477b6269dbc705a10e60ab36c13b1", null ],
-    [ "Register", "d1/daf/a23990.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
+    [ "npc_daranelleAI", "d1/daf/a23990.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "d1/daf/a23990.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "d1/daf/a23990.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "d1/daf/a23990.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

@@ -1,5 +1,5 @@
 var a23394 =
 [
-    [ "modelId", "dc/dfb/a23394.html#a6a7f030a6445a46fe55640356e9c5124", null ],
-    [ "spellId", "dc/dfb/a23394.html#a6cfbffba97934cc420964f9b6d7645a3", null ]
+    [ "go_main_chambers_access_panel", "dc/dfb/a23394.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "dc/dfb/a23394.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

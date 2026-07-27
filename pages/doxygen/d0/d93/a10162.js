@@ -1,4 +1,5 @@
 var a10162 =
 [
-    [ "GetObjectHitPos", "d0/d93/a10162.html#ae50a9a90538fd07f604929251fa2113a", null ]
+    [ "item_guid", "d0/d93/a10162.html#a4033ef7b03b28881e28434ae796fb6ed", null ],
+    [ "item_template", "d0/d93/a10162.html#ac7e05ac4dcc5d4f94b3291d819c7c86b", null ]
 ];

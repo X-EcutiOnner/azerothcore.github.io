@@ -1,18 +1,17 @@
 var a18018 =
 [
-    [ "boss_lord_marrowgar", "d0/dab/a18018.html#ab6a4afec9ed7153054b2d5ffb8f3b8ab", null ],
-    [ "CanAIAttack", "d0/dab/a18018.html#a019816e930781889f39c561577eaecc0", null ],
-    [ "GetGUID", "d0/dab/a18018.html#a0f3d27442ce651574ab66c2f94d27c88", null ],
-    [ "JustDied", "d0/dab/a18018.html#a8f1143de6695cf3fc2e54d5dc29ae9f2", null ],
-    [ "JustEngagedWith", "d0/dab/a18018.html#a3fa8b012f5e3ae94cecb537aa1952b63", null ],
-    [ "JustReachedHome", "d0/dab/a18018.html#ac59e0e13d5226fcdb4af08a1f9eff089", null ],
-    [ "KilledUnit", "d0/dab/a18018.html#acfe53ec83fa2056b37269608182fb25b", null ],
-    [ "MoveInLineOfSight", "d0/dab/a18018.html#ab3a7a37af22ab4dd7178f1cce2e2ab6a", null ],
-    [ "MovementInform", "d0/dab/a18018.html#abba7e15c065a80677fc88a6dafa8ecfd", null ],
-    [ "Reset", "d0/dab/a18018.html#a2692d00185ef27f50af01d125e39d549", null ],
-    [ "SpellHitTarget", "d0/dab/a18018.html#adf886210abbd492f897b39145748f78a", null ],
-    [ "UpdateAI", "d0/dab/a18018.html#aa19fdc486c0c9cca1033e0747d631a7e", null ],
-    [ "_boneSlice", "d0/dab/a18018.html#a50478639cd1f13732646fcc2349c5474", null ],
-    [ "_introDone", "d0/dab/a18018.html#a87f5036e8ba62e54ed7c502469cffe10", null ],
-    [ "_lastBoneSliceTargets", "d0/dab/a18018.html#aaf8ca2baf4c68ea64d4c163ede7813c8", null ]
+    [ "npc_gunship_boarding_addAI", "d0/dab/a18018.html#accf0e65592983cc0199cb445aea55f99", null ],
+    [ "CanAIAttack", "d0/dab/a18018.html#a7d30e525342d1cb13103a4d7ebe1bb39", null ],
+    [ "DamageTaken", "d0/dab/a18018.html#a3b4eac0143e3c9eb2730c9bcf54f90b0", null ],
+    [ "EnterEvadeMode", "d0/dab/a18018.html#a5350433e352e0302d03c750a143880cf", null ],
+    [ "MovementInform", "d0/dab/a18018.html#aa2bd88e4539ddc99f888d41fcb78c383", null ],
+    [ "SetData", "d0/dab/a18018.html#a4fd0655356a2f9b5820e0f42f267715e", null ],
+    [ "SetSlotInfo", "d0/dab/a18018.html#adb50c92c76763733dbec025769d62a40", null ],
+    [ "UpdateAI", "d0/dab/a18018.html#af25bee85b38d70d1b792d7c1752e45f5", null ],
+    [ "_usedDesperateResolve", "d0/dab/a18018.html#aaf154d9774154e868d563b3c47916746", null ],
+    [ "anyValid", "d0/dab/a18018.html#a7fafebb9c6076dbe7fc621788910f63b", null ],
+    [ "checkTimer", "d0/dab/a18018.html#a9a6b6d68743b1e1e993fa32435ba6722", null ],
+    [ "Index", "d0/dab/a18018.html#a18b570e7bae0e2c4d0dcfc788d9deec3", null ],
+    [ "Instance", "d0/dab/a18018.html#a07eeeedf7c1315a41c073cfc83361c9f", null ],
+    [ "Slot", "d0/dab/a18018.html#a1aef6abcddaca26da2d09d3d2e6e1152", null ]
 ];

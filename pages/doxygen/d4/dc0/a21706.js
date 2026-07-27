@@ -1,6 +1,9 @@
 var a21706 =
 [
-    [ "npc_llod_genericAI", "d2/d0e/a21710.html", "d2/d0e/a21710" ],
-    [ "npc_llod_generic", "d4/dc0/a21706.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "d4/dc0/a21706.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "npc_mageguard_dalaranAI", "d4/dc0/a21706.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
+    [ "AttackStart", "d4/dc0/a21706.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
+    [ "JustEngagedWith", "d4/dc0/a21706.html#aac463689ae5a488ec2acb8a0310689d8", null ],
+    [ "MoveInLineOfSight", "d4/dc0/a21706.html#aafb32462693e0efd9c80cf335f489754", null ],
+    [ "Reset", "d4/dc0/a21706.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
+    [ "UpdateAI", "d4/dc0/a21706.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
 ];

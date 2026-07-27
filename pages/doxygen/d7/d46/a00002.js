@@ -1,9 +1,9 @@
 var a00002 =
 [
-    [ "MMAP::MapTiles", "d6/dc9/a30032.html", "d6/dc9/a30032" ],
-    [ "MMAP::Tile", "d2/dcc/a30036.html", "d2/dcc/a30036" ],
-    [ "MMAP::TileInfo", "df/d5d/a30040.html", "df/d5d/a30040" ],
-    [ "MMAP::TileBuilder", "dd/d24/a30044.html", "dd/d24/a30044" ],
-    [ "MMAP::MapBuilder", "d2/d45/a30048.html", "d2/d45/a30048" ],
-    [ "TileList", "d7/d46/a00002.html#aa2aae6f254337f29866a5d240d5ec2b1", null ]
+    [ "CleanStringForMysqlQuery", "d7/d46/a00002.html#a4750695bf6f728da1b0356af3ddaabc9", null ],
+    [ "GetLocaleByName", "d7/d46/a00002.html#a3193e61abf2ddeae08f61cd4f13c6250", null ],
+    [ "GetNameByLocaleConstant", "d7/d46/a00002.html#a3a6dbe16dbe45905c1f3aabc858c1fe1", null ],
+    [ "IsLocaleValid", "d7/d46/a00002.html#ac2f3763b8ee770808af7ecec42dfaa76", null ],
+    [ "accountFlagNames", "d7/d46/a00002.html#a77b8b95357d9fd48d99c7e82eb567fc0", null ],
+    [ "localeNames", "d7/d46/a00002.html#a32b3de4eb98b686cc6472385a449e4e9", null ]
 ];

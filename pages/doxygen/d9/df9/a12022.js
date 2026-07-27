@@ -1,5 +1,7 @@
 var a12022 =
 [
-    [ "PlayerDump", "d9/df9/a12022.html#a457c89834631206d39453721e41af28e", null ],
-    [ "InitializeTables", "d9/df9/a12022.html#a69c8e6c412ac09099752a3ad388f5467", null ]
+    [ "EffectAuraNameCheck", "d9/df9/a12022.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
+    [ "Check", "d9/df9/a12022.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
+    [ "ToString", "d9/df9/a12022.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
+    [ "effAurName", "d9/df9/a12022.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
 ];

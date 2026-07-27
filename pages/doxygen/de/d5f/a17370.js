@@ -1,5 +1,5 @@
 var a17370 =
 [
-    [ "endPosition", "de/d5f/a17370.html#a8a88b0191d28ef6af8f41db627552602", null ],
-    [ "entry", "de/d5f/a17370.html#ac4e55af666e269440953ced038c1a8de", null ]
+    [ "at_hor_shadow_throne", "de/d5f/a17370.html#a342808808be75079acf6a2f930afe930", null ],
+    [ "OnTrigger", "de/d5f/a17370.html#a47deb4d6506e859d90fcf16d72e43d9c", null ]
 ];

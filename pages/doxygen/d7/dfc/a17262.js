@@ -1,6 +1,6 @@
 var a17262 =
 [
-    [ "instance_pit_of_saron_InstanceScript", "d0/da8/a17266.html", "d0/da8/a17266" ],
-    [ "instance_pit_of_saron", "d7/dfc/a17262.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
-    [ "GetInstanceScript", "d7/dfc/a17262.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
+    [ "PrepareSpellScript", "d7/dfc/a17262.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
+    [ "RecalculateDamage", "d7/dfc/a17262.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
+    [ "Register", "d7/dfc/a17262.html#a1a740e697fc84f5f035f2ec251872009", null ]
 ];

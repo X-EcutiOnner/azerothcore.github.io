@@ -1,7 +1,6 @@
 var a18362 =
 [
-    [ "HandleTriggerMissile", "d2/dba/a18362.html#af6370594be48d35a12009fa10a38d91d", null ],
-    [ "PrepareSpellScript", "d2/dba/a18362.html#aeeca4381273f382c3abb68f34d229213", null ],
-    [ "Register", "d2/dba/a18362.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
-    [ "Validate", "d2/dba/a18362.html#abe0b9290ddf9beaa60a583840d90d914", null ]
+    [ "OnRemove", "d2/dba/a18362.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
+    [ "PrepareAuraScript", "d2/dba/a18362.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
+    [ "Register", "d2/dba/a18362.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
 ];

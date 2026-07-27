@@ -1,7 +1,9 @@
 var a28638 =
 [
-    [ "cutPercent", "d9/d45/a28638.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "d9/d45/a28638.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "d9/d45/a28638.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "d9/d45/a28638.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "npc_herald_of_the_lich_king", "d9/d45/a28638.html#a62e373796ce4e6509692e6837cdb561f", null ],
+    [ "ChangeZoneEventStatus", "d9/d45/a28638.html#a30c44f2f62badd27b105a55527d40670", null ],
+    [ "DoAction", "d9/d45/a28638.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
+    [ "InitializeAI", "d9/d45/a28638.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
+    [ "UpdateAI", "d9/d45/a28638.html#a21a5093a46959f4b69777b63de12c557", null ],
+    [ "UpdateWeather", "d9/d45/a28638.html#a3c6d076171596c9ce472cddda18a42be", null ]
 ];

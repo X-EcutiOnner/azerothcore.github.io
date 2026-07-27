@@ -1,8 +1,9 @@
 var a21926 =
 [
-    [ "npc_hyldsmeet_protodrake", "df/df8/a21926.html#a409a5f5eace583ef874421819c975ed8", null ],
-    [ "PassengerBoarded", "df/df8/a21926.html#a0067d3b394c967946e329ea25c2dc315", null ],
-    [ "UpdateAI", "df/df8/a21926.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
-    [ "_accessoryInstalled", "df/df8/a21926.html#af9a5984f66eb3a1a26e8c1640bcf7597", null ],
-    [ "_accessoryRespawnTimer", "df/df8/a21926.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
+    [ "npc_mrfloppyAI", "df/df8/a21926.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
+    [ "EnterEvadeMode", "df/df8/a21926.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
+    [ "JustEngagedWith", "df/df8/a21926.html#a490bf07de00cc5c59b5f0024317d8125", null ],
+    [ "MoveInLineOfSight", "df/df8/a21926.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
+    [ "Reset", "df/df8/a21926.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
+    [ "UpdateAI", "df/df8/a21926.html#afad6db1ccd903fd18192f832a10a32f4", null ]
 ];

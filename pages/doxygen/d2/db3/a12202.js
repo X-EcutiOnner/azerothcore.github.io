@@ -1,13 +1,9 @@
 var a12202 =
 [
-    [ "cheat_commandscript", "d2/db3/a12202.html#a7449cfba3578956a09b67e569e7e6083", null ],
-    [ "GetCommands", "d2/db3/a12202.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
-    [ "HandleCasttimeCheatCommand", "d2/db3/a12202.html#a119ad06c5b8be235853bb13c7cff724b", null ],
-    [ "HandleCheatStatusCommand", "d2/db3/a12202.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
-    [ "HandleCoolDownCheatCommand", "d2/db3/a12202.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
-    [ "HandleExploreCheatCommand", "d2/db3/a12202.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
-    [ "HandleGodModeCheatCommand", "d2/db3/a12202.html#ac398dbacf025830dc871bc77938d47d6", null ],
-    [ "HandlePowerCheatCommand", "d2/db3/a12202.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
-    [ "HandleTaxiCheatCommand", "d2/db3/a12202.html#ab9bd840c9622d173e710058eeb763388", null ],
-    [ "HandleWaterWalkCheatCommand", "d2/db3/a12202.html#a9162d89c049f14f29bc5ba257964df34", null ]
+    [ "CreatureTextLocalizer", "d2/db3/a12202.html#a799f1007b9977224d71da1451c3454e1", null ],
+    [ "~CreatureTextLocalizer", "d2/db3/a12202.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
+    [ "operator()", "d2/db3/a12202.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
+    [ "_builder", "d2/db3/a12202.html#a1d8d97d3e423810d044a8155b182899d", null ],
+    [ "_msgType", "d2/db3/a12202.html#adf9260955b0141e85ff47c66350244e2", null ],
+    [ "_packetCache", "d2/db3/a12202.html#a660b352a1c1855f4b10a8aebef88133f", null ]
 ];

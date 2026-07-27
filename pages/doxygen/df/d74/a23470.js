@@ -1,6 +1,7 @@
 var a23470 =
 [
-    [ "npc_capernian", "df/d74/a23470.html#a0acb568664c777797eeb7104f454699d", null ],
-    [ "AttackStart", "df/d74/a23470.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
-    [ "ScheduleEvents", "df/d74/a23470.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
+    [ "CalcPeriodic", "df/d74/a23470.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
+    [ "PrepareAuraScript", "df/d74/a23470.html#a290913502dfe3dfb42b44a964468b97c", null ],
+    [ "Register", "df/d74/a23470.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
+    [ "Update", "df/d74/a23470.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
 ];

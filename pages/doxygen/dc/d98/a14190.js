@@ -1,7 +1,8 @@
 var a14190 =
 [
-    [ "OnPeriodic", "dc/d98/a14190.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
-    [ "PrepareAuraScript", "dc/d98/a14190.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
-    [ "Register", "dc/d98/a14190.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
-    [ "Validate", "dc/d98/a14190.html#a7ed214de6769314a45540e9afdb82949", null ]
+    [ "CheckCast", "dc/d98/a14190.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
+    [ "HandleScriptEffect", "dc/d98/a14190.html#a36bb2b95651889eaa0321a7a327e173f", null ],
+    [ "PrepareSpellScript", "dc/d98/a14190.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
+    [ "Register", "dc/d98/a14190.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
+    [ "Validate", "dc/d98/a14190.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
 ];

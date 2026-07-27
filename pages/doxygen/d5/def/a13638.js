@@ -1,7 +1,6 @@
 var a13638 =
 [
-    [ "HandleScriptEffect", "d5/def/a13638.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
-    [ "PrepareSpellScript", "d5/def/a13638.html#af9deee89e837e07486a7555632008eb2", null ],
-    [ "Register", "d5/def/a13638.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
-    [ "Validate", "d5/def/a13638.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
+    [ "instance_stratholme_InstanceMapScript", "da/de2/a13642.html", "da/de2/a13642" ],
+    [ "instance_stratholme", "d5/def/a13638.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
+    [ "GetInstanceScript", "d5/def/a13638.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
 ];

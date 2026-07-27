@@ -1,9 +1,10 @@
 var a14546 =
 [
-    [ "npc_brew_bubble", "d8/dad/a14546.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
-    [ "DoAction", "d8/dad/a14546.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
-    [ "MoveInLineOfSight", "d8/dad/a14546.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
-    [ "Reset", "d8/dad/a14546.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
-    [ "UpdateAI", "d8/dad/a14546.html#a25018deaa206620f6e98ba722f689b8d", null ],
-    [ "timer", "d8/dad/a14546.html#a4bee73add756ba4b3137818b2dacd27f", null ]
+    [ "boss_jeklik", "d8/dad/a14546.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
+    [ "EnterEvadeMode", "d8/dad/a14546.html#a70dc363e0690e72846db5f779375edc1", null ],
+    [ "JustDied", "d8/dad/a14546.html#ae648ba9ff49f4970612a8c3351789b66", null ],
+    [ "JustEngagedWith", "d8/dad/a14546.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
+    [ "PathEndReached", "d8/dad/a14546.html#a689e8f91361de45e6f885fea0dec900a", null ],
+    [ "Reset", "d8/dad/a14546.html#a7959106123e60e3584b32b50a272746c", null ],
+    [ "batRidersCount", "d8/dad/a14546.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
 ];

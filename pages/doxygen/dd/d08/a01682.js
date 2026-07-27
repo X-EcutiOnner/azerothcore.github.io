@@ -1,10 +1,19 @@
 var a01682 =
 [
-    [ "OutdoorPvP_nagrand", "da/dcf/a22353.html", "da/dcf/a22353" ],
-    [ "outdoorpvp_na_halaa_creatures", "d9/d7e/a22357.html", "d9/d7e/a22357" ],
-    [ "AddSC_outdoorpvp_na", "dd/d08/a01682.html#a03015585e7619177355fefd05f85e1c7", null ],
-    [ "FlagPlayerPvP", "dd/d08/a01682.html#ab1d33448696056a0951a0c306a511f1e", null ],
-    [ "UpdateCreatureHalaa", "dd/d08/a01682.html#a37af66c813e135cc11bd1dc663b35697", null ],
-    [ "halaaNPCAlly", "dd/d08/a01682.html#a3428675268608e5372767fc629259d5c", null ],
-    [ "halaaNPCHorde", "dd/d08/a01682.html#a531a4e8a5291c048ad0f3b0fc64b29d9", null ]
+    [ "GuildScript", "d4/d87/a10798.html", "d4/d87/a10798" ],
+    [ "GuildHook", "dd/d08/a01682.html#a5cb9f5f21f7f7d0e793d70058163507e", [
+      [ "GUILDHOOK_ON_ADD_MEMBER", "dd/d08/a01682.html#a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d", null ],
+      [ "GUILDHOOK_ON_REMOVE_MEMBER", "dd/d08/a01682.html#a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51", null ],
+      [ "GUILDHOOK_ON_MOTD_CHANGED", "dd/d08/a01682.html#a5cb9f5f21f7f7d0e793d70058163507ea909770c2a1fe124c3fa21f83ff55c0d5", null ],
+      [ "GUILDHOOK_ON_INFO_CHANGED", "dd/d08/a01682.html#a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f", null ],
+      [ "GUILDHOOK_ON_CREATE", "dd/d08/a01682.html#a5cb9f5f21f7f7d0e793d70058163507ea9d64b482c3d8be9681ab83722c84316e", null ],
+      [ "GUILDHOOK_ON_DISBAND", "dd/d08/a01682.html#a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58", null ],
+      [ "GUILDHOOK_ON_MEMBER_WITDRAW_MONEY", "dd/d08/a01682.html#a5cb9f5f21f7f7d0e793d70058163507ea3a78e5195fdbecb916d9f9510175381b", null ],
+      [ "GUILDHOOK_ON_MEMBER_DEPOSIT_MONEY", "dd/d08/a01682.html#a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc", null ],
+      [ "GUILDHOOK_ON_ITEM_MOVE", "dd/d08/a01682.html#a5cb9f5f21f7f7d0e793d70058163507ea6ef9bfbc009fd877098120f95d6a3fa8", null ],
+      [ "GUILDHOOK_ON_EVENT", "dd/d08/a01682.html#a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7", null ],
+      [ "GUILDHOOK_ON_BANK_EVENT", "dd/d08/a01682.html#a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9", null ],
+      [ "GUILDHOOK_CAN_GUILD_SEND_BANK_LIST", "dd/d08/a01682.html#a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b", null ],
+      [ "GUILDHOOK_END", "dd/d08/a01682.html#a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb", null ]
+    ] ]
 ];

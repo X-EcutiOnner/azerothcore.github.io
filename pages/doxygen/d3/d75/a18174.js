@@ -1,6 +1,10 @@
 var a18174 =
 [
-    [ "ExtraEffect", "d3/d75/a18174.html#a10dfb36a835589208482e1c8833d8f46", null ],
-    [ "PrepareSpellScript", "d3/d75/a18174.html#a972ff2bdc7d3660820e05326600be6f6", null ],
-    [ "Register", "d3/d75/a18174.html#ae337e67a220b72b44878d02be33e3888", null ]
+    [ "npc_cult_fanaticAI", "d3/d75/a18174.html#a766e536288b84110f88a8bd282e97932", null ],
+    [ "JustEngagedWith", "d3/d75/a18174.html#a709b75f4b1519bc7c6988985a22d076f", null ],
+    [ "Reset", "d3/d75/a18174.html#a772830df1d16d0463c8c00f14c337db0", null ],
+    [ "SpellHit", "d3/d75/a18174.html#a17c02a83b522c9717de3d89517104e42", null ],
+    [ "UpdateAI", "d3/d75/a18174.html#ac79afdab3721d78d2b7e5da360083cea", null ],
+    [ "_instance", "d3/d75/a18174.html#a7448fdf85cccfcb12509b0274205bff4", null ],
+    [ "events", "d3/d75/a18174.html#a9576978141062fa1babbbc5ed42483c4", null ]
 ];

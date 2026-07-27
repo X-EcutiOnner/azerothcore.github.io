@@ -1,6 +1,9 @@
 var a18114 =
 [
-    [ "FilterTargets", "df/d8c/a18114.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
-    [ "PrepareSpellScript", "df/d8c/a18114.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
-    [ "Register", "df/d8c/a18114.html#a32e04a1110d651701b8eab1648c69a57", null ]
+    [ "CalculateDamage", "df/d8c/a18114.html#a6a9e90d9463825b38b69afc234b35b39", null ],
+    [ "PrepareSpellScript", "df/d8c/a18114.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
+    [ "Register", "df/d8c/a18114.html#a2722814a55469e5bae572766ed36309b", null ],
+    [ "RemoveEnergy", "df/d8c/a18114.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
+    [ "StoreEnergy", "df/d8c/a18114.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
+    [ "_energyLeft", "df/d8c/a18114.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
 ];

@@ -1,9 +1,8 @@
 var a12038 =
 [
-    [ "bytes", "dc/d09/a12038.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
-    [ "bytes", "dc/d09/a12038.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
-    [ "bytes", "dc/d09/a12038.html#a2743b5da8366ea651923bf7f3332bc32", null ],
-    [ "ints", "dc/d09/a12038.html#a0518eb4b0a91697500a5a370068425a8", null ],
-    [ "ints", "dc/d09/a12038.html#a08efba5e78b64fef020453f689bcc5f0", null ],
-    [ "ints", "dc/d09/a12038.html#a0506a09adc966923adb490153f095f84", null ]
+    [ "EffectHandler", "dc/d09/a12038.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "dc/d09/a12038.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "dc/d09/a12038.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "dc/d09/a12038.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "dc/d09/a12038.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

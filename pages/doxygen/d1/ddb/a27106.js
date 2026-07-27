@@ -1,7 +1,5 @@
 var a27106 =
 [
-    [ "HandleProc", "d1/ddb/a27106.html#a46726e3e05e386892ea86d74d161e8d0", null ],
-    [ "PrepareAuraScript", "d1/ddb/a27106.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
-    [ "Register", "d1/ddb/a27106.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
-    [ "Validate", "d1/ddb/a27106.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
+    [ "spell_q11515_fel_siphon_dummy", "d1/ddb/a27106.html#a80fa790a716d1ae950f43f9a298afd66", null ],
+    [ "GetSpellScript", "d1/ddb/a27106.html#a0d122972fc036d1f1e49c49acda58be3", null ]
 ];

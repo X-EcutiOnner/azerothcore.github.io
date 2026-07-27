@@ -1,7 +1,8 @@
 var a14922 =
 [
-    [ "boss_azuregosAI", "d1/d32/a14926.html", "d1/d32/a14926" ],
-    [ "boss_azuregos", "d5/dee/a14922.html#a48590db0037870ca5c9425a468e5ea3a", null ],
-    [ "GetAI", "d5/dee/a14922.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
-    [ "OnGossipSelect", "d5/dee/a14922.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
+    [ "npc_hallows_end_train_fire", "d5/dee/a14922.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
+    [ "Reset", "d5/dee/a14922.html#afdda52e0adce23f56fa9d1357469a17d", null ],
+    [ "SpellHit", "d5/dee/a14922.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
+    [ "UpdateAI", "d5/dee/a14922.html#a686a565e1743c31166d8d57f67a0adce", null ],
+    [ "timer", "d5/dee/a14922.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
 ];

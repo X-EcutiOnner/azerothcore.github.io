@@ -1,6 +1,8 @@
 var a24878 =
 [
-    [ "CheckSeat", "d5/d1c/a24878.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
-    [ "PrepareSpellScript", "d5/d1c/a24878.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
-    [ "Register", "d5/d1c/a24878.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
+    [ "CheckProc", "d5/d1c/a24878.html#a44d845f5cbfaf0fd33409ffd16fd4396", null ],
+    [ "HandleProc", "d5/d1c/a24878.html#a946cb56cf0a525c0a44b638b28e5b3ad", null ],
+    [ "PrepareAuraScript", "d5/d1c/a24878.html#a01c53cd13316af74cfe27603e70ab468", null ],
+    [ "Register", "d5/d1c/a24878.html#a5bb2ca31f2e4477640578a305593bcb3", null ],
+    [ "Validate", "d5/d1c/a24878.html#a307274a8f4e55ad15efc08711a7b8e8f", null ]
 ];

@@ -1,18 +1,12 @@
 var a10442 =
 [
-    [ "MoveSplineInitArgs", "d1/d9e/a10442.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68", null ],
-    [ "_checkPathBounds", "d1/d9e/a10442.html#a984db18cdbd061605a9d486b061dc7c0", null ],
-    [ "Validate", "d1/d9e/a10442.html#a17beca23a7a7eaa298debb5e9638daca", null ],
-    [ "facing", "d1/d9e/a10442.html#a8800fca5b50ab5123e92b28e921ec8b0", null ],
-    [ "flags", "d1/d9e/a10442.html#ac4271ed0434fc8e7f7a70e8869d81a0e", null ],
-    [ "HasVelocity", "d1/d9e/a10442.html#acad05815ff039fe1fea3d7cf56afb4f2", null ],
-    [ "initialOrientation", "d1/d9e/a10442.html#ab0b66cba791fc206be5b64310480cb88", null ],
-    [ "parabolic_amplitude", "d1/d9e/a10442.html#a133d1d0172fde0564a58a004cb354ed0", null ],
-    [ "path", "d1/d9e/a10442.html#a3857df1ab2d6dafef4a6d796e6593341", null ],
-    [ "path_Idx_offset", "d1/d9e/a10442.html#a6b6aaf43685649798db46d7b409d3e32", null ],
-    [ "splineId", "d1/d9e/a10442.html#ac8c84e828c23801a68524c9811f0336b", null ],
-    [ "time_perc", "d1/d9e/a10442.html#afe51d24d71b71e87015eeb4851418503", null ],
-    [ "TransformForTransport", "d1/d9e/a10442.html#ad9e8518e61b2f5f6ff8380518a6ad0cc", null ],
-    [ "velocity", "d1/d9e/a10442.html#af042454593bfd4dc888c1700af437933", null ],
-    [ "walk", "d1/d9e/a10442.html#aa58f23e75134e46a9ccbb2c563ecdc22", null ]
+    [ "RotateMovementGenerator", "d1/d9e/a10442.html#a89a6559b4380210972e82c6ca6d5a9db", null ],
+    [ "Finalize", "d1/d9e/a10442.html#afd7588c7877b116cc9626a774b89d584", null ],
+    [ "GetMovementGeneratorType", "d1/d9e/a10442.html#a20677803edf5d93ceae3bf76ef426a81", null ],
+    [ "Initialize", "d1/d9e/a10442.html#a18fea8760bb24912af9349a06ff7b596", null ],
+    [ "Reset", "d1/d9e/a10442.html#a3e177762fcfc11ac47aa820b46b93ed0", null ],
+    [ "Update", "d1/d9e/a10442.html#a0dc8600e3aa862a81735dfb927232e53", null ],
+    [ "m_direction", "d1/d9e/a10442.html#a8717e890670d9f4e2ff66c0981d14aa6", null ],
+    [ "m_duration", "d1/d9e/a10442.html#a2cb8d5fc3d26c24e62c7373f1ce49b13", null ],
+    [ "m_maxDuration", "d1/d9e/a10442.html#a7cf10886bdd50ccbc5900b9229958e01", null ]
 ];

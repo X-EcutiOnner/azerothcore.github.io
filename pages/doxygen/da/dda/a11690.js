@@ -1,7 +1,7 @@
 var a11690 =
 [
-    [ "chance", "da/dda/a11690.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
-    [ "triggeredByAura", "da/dda/a11690.html#abb48d6093570ba9c5488f200544a1e83", null ],
-    [ "triggeredByEffIdx", "da/dda/a11690.html#a82d752dedab39f417af225add6af1403", null ],
-    [ "triggeredSpell", "da/dda/a11690.html#a02ac12119655f9ab82347d21cc68803a", null ]
+    [ "OpcodeHandler", "db/df6/a05082.html#gad7dc8101b537abe699b18ae8de444a81", null ],
+    [ "~OpcodeHandler", "db/df6/a05082.html#ga5400057a3d849035aedda259828a5af5", null ],
+    [ "Name", "db/df6/a05082.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
+    [ "Status", "db/df6/a05082.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
 ];

@@ -1,6 +1,6 @@
 var a27270 =
 [
-    [ "HandleAuraApply", "de/d4f/a27270.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
-    [ "PrepareAuraScript", "de/d4f/a27270.html#a6eedadacba366104fdca2791862be216", null ],
-    [ "Register", "de/d4f/a27270.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
+    [ "HandleScript", "de/d4f/a27270.html#a54c724bd8786c894ecaa584c164c2e53", null ],
+    [ "PrepareSpellScript", "de/d4f/a27270.html#a4505b9196609ae9339fe7e5948963663", null ],
+    [ "Register", "de/d4f/a27270.html#ae293d6a2a477f716f357516781246069", null ]
 ];

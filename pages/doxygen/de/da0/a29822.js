@@ -1,12 +1,7 @@
 var a29822 =
 [
-    [ "Model", "de/da0/a29822.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
-    [ "~Model", "de/da0/a29822.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
-    [ "_unload", "de/da0/a29822.html#a9b02ed73fa006bc057157b636029ab6f", null ],
-    [ "ConvertToVMAPModel", "de/da0/a29822.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
-    [ "open", "de/da0/a29822.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
-    [ "filename", "de/da0/a29822.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
-    [ "header", "de/da0/a29822.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
-    [ "indices", "de/da0/a29822.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
-    [ "vertices", "de/da0/a29822.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
+    [ "ExpectDate", "de/da0/a29822.html#a4d45a7190580f2191020d031ad0aab10", null ],
+    [ "IsLeapYear", "de/da0/a29822.html#af80c133dce034eed150593681fba594d", null ],
+    [ "IsValidDate", "de/da0/a29822.html#af1ee91196bfb749605bf98f4441a03a4", null ],
+    [ "NormalizeTm", "de/da0/a29822.html#af4587d4154c059f5e472f00f141a771a", null ]
 ];

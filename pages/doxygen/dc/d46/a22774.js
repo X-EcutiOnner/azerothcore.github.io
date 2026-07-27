@@ -1,6 +1,7 @@
 var a22774 =
 [
-    [ "OnPeriodic", "dc/d46/a22774.html#a769d30c78e4feaa9cc0c581af5264c02", null ],
-    [ "PrepareAuraScript", "dc/d46/a22774.html#a076e4b548de5cad64b7d81ddd8c5194f", null ],
-    [ "Register", "dc/d46/a22774.html#af1c2b7baf0ff7164cafab8f1a53bbb18", null ]
+    [ "HandleEffectRemove", "dc/d46/a22774.html#a09124a4351930a35e33359e95ca88580", null ],
+    [ "PrepareAuraScript", "dc/d46/a22774.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
+    [ "Register", "dc/d46/a22774.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
+    [ "Validate", "dc/d46/a22774.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
 ];

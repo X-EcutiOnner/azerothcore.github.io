@@ -1,5 +1,6 @@
 var a27582 =
 [
-    [ "achievement_bg_ic_glaive_grave", "d9/d75/a27582.html#a97e1cead0102a120b3bd14592ea26034", null ],
-    [ "OnCheck", "d9/d75/a27582.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
+    [ "HandleProc", "d9/d75/a27582.html#a933975b17f340d9f458dc95b77aa43ac", null ],
+    [ "PrepareAuraScript", "d9/d75/a27582.html#ad9df49f481d936068ebee0d2f6179e9f", null ],
+    [ "Register", "d9/d75/a27582.html#a54dd9a2a6646282897cabec00f092525", null ]
 ];

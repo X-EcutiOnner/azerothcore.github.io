@@ -1,6 +1,5 @@
 var a17634 =
 [
-    [ "FilterTargets", "dd/d7a/a17634.html#a59255a2cee0f9d8a75ca183647851779", null ],
-    [ "PrepareSpellScript", "dd/d7a/a17634.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
-    [ "Register", "dd/d7a/a17634.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
+    [ "achievement_share_the_love", "dd/d7a/a17634.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
+    [ "OnCheck", "dd/d7a/a17634.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
 ];

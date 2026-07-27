@@ -1,7 +1,6 @@
 var a19646 =
 [
-    [ "Apply", "d3/d67/a19646.html#add8e95d38b0c437833c11cded72fe2a7", null ],
-    [ "PrepareAuraScript", "d3/d67/a19646.html#ad2112b571d97e537983b4d11207015e6", null ],
-    [ "Register", "d3/d67/a19646.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
-    [ "Validate", "d3/d67/a19646.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
+    [ "FilterTargets", "d3/d67/a19646.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
+    [ "PrepareSpellScript", "d3/d67/a19646.html#a452937a4e95b40366f915213ec475a84", null ],
+    [ "Register", "d3/d67/a19646.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
 ];

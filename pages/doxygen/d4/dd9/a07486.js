@@ -1,11 +1,11 @@
 var a07486 =
 [
-    [ "gyid", "d4/dd9/a07486.html#a742fcc91d2daf1a9331f02a90496328c", null ],
-    [ "o", "d4/dd9/a07486.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
-    [ "startcontrol", "d4/dd9/a07486.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
-    [ "textid", "d4/dd9/a07486.html#a87d80377ad632b9d667eecf11ae8faae", null ],
-    [ "type", "d4/dd9/a07486.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
-    [ "x", "d4/dd9/a07486.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
-    [ "y", "d4/dd9/a07486.html#a405e8098772e77250683985f957ce5f3", null ],
-    [ "z", "d4/dd9/a07486.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
+    [ "count", "d4/dd9/a07486.html#a3fc02342ec2cdd81de7ef378edf30b54", null ],
+    [ "enchants", "d4/dd9/a07486.html#af076353ee7ce0fd3665e13449c248629", null ],
+    [ "entry", "d4/dd9/a07486.html#aa3332c4ea806c944c9c4e95ddb31efa9", null ],
+    [ "itemName", "d4/dd9/a07486.html#a9184925bad61ad58f35c4e4b3dbccd81", null ],
+    [ "itemTemplate", "d4/dd9/a07486.html#a356adde7f6574f697e02e6657f325baa", null ],
+    [ "randomPropertyId", "d4/dd9/a07486.html#aa1c185178359f1cbd5afcedd38a0e69f", null ],
+    [ "spellCharges", "d4/dd9/a07486.html#a73f9647b66aa316bdb97c50a20bc826f", null ],
+    [ "suffixFactor", "d4/dd9/a07486.html#a650acd7b902fd4038f1ea384f595b058", null ]
 ];

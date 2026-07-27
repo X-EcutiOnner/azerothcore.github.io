@@ -1,6 +1,8 @@
 var a06494 =
 [
-    [ "GameObjectAIFactory", "da/db7/a06494.html#a2f658540a81d207694b6d2d783009380", null ],
-    [ "Create", "da/db7/a06494.html#a94fa057baafbbad4b81b97aea34354a3", null ],
-    [ "Permit", "da/db7/a06494.html#ae8b7e45a73f87249e27a4dae596b0d52", null ]
+    [ "PassiveAI", "da/db7/a06494.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
+    [ "AttackStart", "da/db7/a06494.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
+    [ "MoveInLineOfSight", "da/db7/a06494.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
+    [ "Permissible", "da/db7/a06494.html#a2960223799a5b3baedbdd7e664604865", null ],
+    [ "UpdateAI", "da/db7/a06494.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
 ];

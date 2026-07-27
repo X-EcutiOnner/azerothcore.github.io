@@ -1,6 +1,6 @@
 var a17310 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d6/d89/a17314.html", "d6/d89/a17314" ],
-    [ "npc_pos_collapsing_icicle", "d6/dff/a17310.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
-    [ "GetAI", "d6/dff/a17310.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
+    [ "instance_forge_of_souls_InstanceScript", "d6/d89/a17314.html", "d6/d89/a17314" ],
+    [ "instance_forge_of_souls", "d6/dff/a17310.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "d6/dff/a17310.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

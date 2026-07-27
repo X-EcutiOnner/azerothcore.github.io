@@ -1,7 +1,6 @@
 var a25962 =
 [
-    [ "HandleDummy", "de/daf/a25962.html#aa510199edee85bfcf6314559e9c72928", null ],
-    [ "PrepareSpellScript", "de/daf/a25962.html#a8d2dce1e15f87bb3f744f89b7a531c72", null ],
-    [ "Register", "de/daf/a25962.html#a1da7830a42eabcccba81000b7094b205", null ],
-    [ "Validate", "de/daf/a25962.html#ad5f88629afe87669a18a7424b8b34ba0", null ]
+    [ "HandleEffectApply", "de/daf/a25962.html#a9e8b226f3ebb33c47de584850643994f", null ],
+    [ "PrepareAuraScript", "de/daf/a25962.html#a30b74d44bb81a04ea1cfe1b6d5f926c7", null ],
+    [ "Register", "de/daf/a25962.html#a1d3d32c057877b5cf00f5970e583c25e", null ]
 ];

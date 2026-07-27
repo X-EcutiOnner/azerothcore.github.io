@@ -1,6 +1,6 @@
 var a22014 =
 [
-    [ "npc_wg_queueAI", "d5/d54/a22014.html#a3760738d61b6148042fc30bd96b88fdc", null ],
-    [ "UpdateAI", "d5/d54/a22014.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
-    [ "events", "d5/d54/a22014.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
+    [ "npc_plaguehound_trackerAI", "db/d28/a22018.html", "db/d28/a22018" ],
+    [ "npc_plaguehound_tracker", "d5/d54/a22014.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "d5/d54/a22014.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

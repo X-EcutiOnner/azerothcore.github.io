@@ -1,9 +1,8 @@
 var a21602 =
 [
-    [ "npc_venture_co_stragglerAI", "d6/d2e/a21602.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
-    [ "Reset", "d6/d2e/a21602.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
-    [ "SpellHit", "d6/d2e/a21602.html#ae1919454c270d10342079b60a727a306", null ],
-    [ "UpdateAI", "d6/d2e/a21602.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
-    [ "_events", "d6/d2e/a21602.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
-    [ "_playerGUID", "d6/d2e/a21602.html#a649493944b143782d995b5bdda3714b4", null ]
+    [ "npc_mootoo_the_youngerAI", "d6/d2e/a21602.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "d6/d2e/a21602.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "d6/d2e/a21602.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "d6/d2e/a21602.html#ac758a992ed0d62a272930c84d617b348", null ],
+    [ "WaypointReached", "d6/d2e/a21602.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

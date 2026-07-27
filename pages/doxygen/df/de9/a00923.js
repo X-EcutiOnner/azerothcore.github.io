@@ -1,13 +1,23 @@
 var a00923 =
 [
-    [ "ServerScript", "dd/da5/a10808.html", "dd/da5/a10808" ],
-    [ "ServerHook", "df/de9/a00923.html#af8cee964a488266c6dec6c3b76b1a2d9", [
-      [ "SERVERHOOK_ON_NETWORK_START", "df/de9/a00923.html#af8cee964a488266c6dec6c3b76b1a2d9aa644f9d52a55cf9cf2a11293c30d53e3", null ],
-      [ "SERVERHOOK_ON_NETWORK_STOP", "df/de9/a00923.html#af8cee964a488266c6dec6c3b76b1a2d9a750717da9270f21f519c8d5a05d7a3b4", null ],
-      [ "SERVERHOOK_ON_SOCKET_OPEN", "df/de9/a00923.html#af8cee964a488266c6dec6c3b76b1a2d9af5241aced10e2c6c6077ac764206c6bd", null ],
-      [ "SERVERHOOK_ON_SOCKET_CLOSE", "df/de9/a00923.html#af8cee964a488266c6dec6c3b76b1a2d9ace5af0b477d230f9aa1e51c82789dc8d", null ],
-      [ "SERVERHOOK_CAN_PACKET_SEND", "df/de9/a00923.html#af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12", null ],
-      [ "SERVERHOOK_CAN_PACKET_RECEIVE", "df/de9/a00923.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971", null ],
-      [ "SERVERHOOK_END", "df/de9/a00923.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc", null ]
-    ] ]
+    [ "SPECTATOR_ADDON_PREFIX", "df/de9/a00923.html#ad208fe13d99ebdd4ecc344c284d15e68", null ],
+    [ "SPECTATOR_ADDON_VERSION", "df/de9/a00923.html#ae3d7b03163a946f567eb34e902d0b424", null ],
+    [ "SPECTATOR_BUFFER_LEN", "df/de9/a00923.html#adf210ab6f5a013e4f37def30f79b2a2c", null ],
+    [ "SPECTATOR_COOLDOWN_MAX", "df/de9/a00923.html#a5caad2c604ec8c4fe2b2653a9a629d23", null ],
+    [ "SPECTATOR_COOLDOWN_MIN", "df/de9/a00923.html#ad2182c49e417fd86e25b7c2a209d044b", null ],
+    [ "SPECTATOR_SPELL_BINDSIGHT", "df/de9/a00923.html#a45eed6b7e374a4b2ea26b3dd5ee915d0", null ],
+    [ "SPECTATOR_SPELL_SPEED", "df/de9/a00923.html#a3a183131cf51fa6957a40f07d8d524ef", null ],
+    [ "CreatePacket", "df/de9/a00923.html#a20983eb9cb8e3f584a4d8f752586d06b", null ],
+    [ "HandleResetCommand", "df/de9/a00923.html#a4508ccc26eb193b85e4d229a088c6be5", null ],
+    [ "HandleSpectatorSpectateCommand", "df/de9/a00923.html#ac3b35eed76fdcf00f43b226912317b4a", null ],
+    [ "HandleSpectatorWatchCommand", "df/de9/a00923.html#ae611c9f6783ca983d1ff667f36dd7c7d", null ],
+    [ "SendCommand", "df/de9/a00923.html#a4824203dd64e1ddcd47642df9d465ea0", null ],
+    [ "SendCommand_Aura", "df/de9/a00923.html#aa91b97db06e674ba164d16553f06bd78", null ],
+    [ "SendCommand_Cooldown", "df/de9/a00923.html#a6ac67ec99795d45c6966aff3a3131712", null ],
+    [ "SendCommand_GUID", "df/de9/a00923.html#ad7435c751432d6ae5879dd991afedb0b", null ],
+    [ "SendCommand_Spell", "df/de9/a00923.html#a5907920bd398f8a871b5a57bc5d31bf5", null ],
+    [ "SendCommand_String", "df/de9/a00923.html#aef6e3ee8768fae8862eaa6443f72599f", null ],
+    [ "SendCommand_UInt32Value", "df/de9/a00923.html#a9ecfc7fe94ba63752a0a11967ab67acf", null ],
+    [ "SendPacketTo", "df/de9/a00923.html#a2df095851f72dcb92f74c87c9fbc56f1", null ],
+    [ "ShouldSendAura", "df/de9/a00923.html#a29f78349223aca49d417c3f818b2dd4c", null ]
 ];

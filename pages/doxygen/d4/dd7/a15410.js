@@ -1,5 +1,6 @@
 var a15410 =
 [
-    [ "boss_kri", "d4/dd7/a15410.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
-    [ "JustEngagedWith", "d4/dd7/a15410.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
+    [ "instance_dire_maul_InstanceMapScript", "db/de2/a15414.html", "db/de2/a15414" ],
+    [ "instance_dire_maul", "d4/dd7/a15410.html#a54ac2c7095a99481c7efbe4237533fac", null ],
+    [ "GetInstanceScript", "d4/dd7/a15410.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
 ];

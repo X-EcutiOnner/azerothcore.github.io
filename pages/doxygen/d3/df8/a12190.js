@@ -1,14 +1,8 @@
 var a12190 =
 [
-    [ "cast_commandscript", "d3/df8/a12190.html#a9c657d2c5404149a45a2db748d23fc2f", null ],
-    [ "CheckSpellCastResult", "d3/df8/a12190.html#a244b2d11a07fdcbb72f3207ab1e46ea5", null ],
-    [ "CheckSpellExistsAndIsValid", "d3/df8/a12190.html#a14da4e4674b065c8e8f3d1946a037bda", null ],
-    [ "GetCommands", "d3/df8/a12190.html#ab0890c036a8d301b382fdd1b6371f671", null ],
-    [ "GetTriggerFlags", "d3/df8/a12190.html#a26e6986c45a99e6a94d7ba2d9a810aa3", null ],
-    [ "HandleCastBackCommand", "d3/df8/a12190.html#a964a40278f609a5c5a0bae651484c726", null ],
-    [ "HandleCastCommand", "d3/df8/a12190.html#ac28430cc0623209b891bacbb4845509b", null ],
-    [ "HandleCastDestCommand", "d3/df8/a12190.html#a156ca81fba7155205dae106aa4c221d6", null ],
-    [ "HandleCastDistCommand", "d3/df8/a12190.html#aabbcac8e85c6a64a647d71bb22bebede", null ],
-    [ "HandleCastSelfCommand", "d3/df8/a12190.html#a69e88bb174c2518584a9ae622e2850bf", null ],
-    [ "HandleCastTargetCommad", "d3/df8/a12190.html#aa72bd317a3498ef07007c1a9e81e2796", null ]
+    [ "CreatureTextId", "d3/df8/a12190.html#ae8058e922bafc69b718ca4be1be39688", null ],
+    [ "operator<", "d3/df8/a12190.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
+    [ "entry", "d3/df8/a12190.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
+    [ "textGroup", "d3/df8/a12190.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
+    [ "textId", "d3/df8/a12190.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
 ];

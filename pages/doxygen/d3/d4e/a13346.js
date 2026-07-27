@@ -1,7 +1,8 @@
 var a13346 =
 [
-    [ "HandleHit", "d3/d4e/a13346.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
-    [ "Load", "d3/d4e/a13346.html#affe2cd261752db89b1b418eb18a3370c", null ],
-    [ "PrepareSpellScript", "d3/d4e/a13346.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
-    [ "Register", "d3/d4e/a13346.html#aaadaf49a3757e78d69ffc32768945d16", null ]
+    [ "npc_cyclone", "d3/d4e/a13346.html#afdc4f98b031f832702929c6a7f192ab5", null ],
+    [ "JustEngagedWith", "d3/d4e/a13346.html#a61d0710868c91f707643a436c0d79485", null ],
+    [ "Reset", "d3/d4e/a13346.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
+    [ "UpdateAI", "d3/d4e/a13346.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
+    [ "_scheduler", "d3/d4e/a13346.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
 ];

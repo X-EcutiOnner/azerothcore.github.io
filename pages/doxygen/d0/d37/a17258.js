@@ -1,13 +1,8 @@
 var a17258 =
 [
-    [ "boss_tyrannusAI", "d0/d37/a17258.html#a753de14d2cecaaed2c7b24e09397b008", null ],
-    [ "CanAIAttack", "d0/d37/a17258.html#a0cb60f308637cbd152faf274b3e5f636", null ],
-    [ "DoAction", "d0/d37/a17258.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
-    [ "EnterEvadeMode", "d0/d37/a17258.html#a9d18bab323c676020dede77a498a5b77", null ],
-    [ "JustDied", "d0/d37/a17258.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
-    [ "KilledUnit", "d0/d37/a17258.html#abf7c8909143dac641c00cca160bef964", null ],
-    [ "Reset", "d0/d37/a17258.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
-    [ "UpdateAI", "d0/d37/a17258.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
-    [ "events", "d0/d37/a17258.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
-    [ "pInstance", "d0/d37/a17258.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
+    [ "npc_fos_corrupted_soul_fragment", "d0/d37/a17258.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
+    [ "Reset", "d0/d37/a17258.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
+    [ "UpdateAI", "d0/d37/a17258.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
+    [ "Instance", "d0/d37/a17258.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
+    [ "Timer", "d0/d37/a17258.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
 ];

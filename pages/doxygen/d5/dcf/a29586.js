@@ -1,6 +1,7 @@
 var a29586 =
 [
-    [ "RunStatisticalTest", "d5/dcf/a29586.html#a5dadc645a4cae9bf9e9ed990616118be", null ],
-    [ "SetUp", "d5/dcf/a29586.html#afa15552d260ab744d178e1c1b7ed23bb", null ],
-    [ "TearDown", "d5/dcf/a29586.html#a894d832a3ee006179de45e944d25a732", null ]
+    [ "flatModifier", "d5/dcf/a29586.html#a781485dfaede63716eddba66971600e3", null ],
+    [ "hasSpellModOwner", "d5/dcf/a29586.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
+    [ "hasSpellProto", "d5/dcf/a29586.html#a96607da311b5774eeaa01674d32ab22e", null ],
+    [ "pctModifier", "d5/dcf/a29586.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
 ];

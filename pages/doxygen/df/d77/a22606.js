@@ -1,7 +1,12 @@
 var a22606 =
 [
-    [ "npc_ashtongue_channeler", "df/d77/a22606.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "df/d77/a22606.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "df/d77/a22606.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "df/d77/a22606.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "npc_stolen_soul", "df/d77/a22606.html#a84a0bb8320b2332545748e010d855884", null ],
+    [ "DoAction", "df/d77/a22606.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
+    [ "JustDied", "df/d77/a22606.html#a6a1d6da5a448fd4b8910835d3a346e3a", null ],
+    [ "Reset", "df/d77/a22606.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
+    [ "SetGUID", "df/d77/a22606.html#a35b3478f2541f7b3d56e0873f96f479f", null ],
+    [ "UpdateAI", "df/d77/a22606.html#a7bf369dd943ee36600a364d56b85db5a", null ],
+    [ "_myClass", "df/d77/a22606.html#ade19b9cb41a674f6bd049a621970aeff", null ],
+    [ "_scheduler", "df/d77/a22606.html#ab62526916f0ccd681383d37d19d94ccc", null ],
+    [ "_targetGuid", "df/d77/a22606.html#a6efbe90928119902e4b5a7148b12cfac", null ]
 ];

@@ -1,7 +1,7 @@
 var a17410 =
 [
-    [ "HandleDummy", "d4/d4b/a17410.html#a367f4ebd296aa0fd54ff9ef6185a1c92", null ],
-    [ "PrepareSpellScript", "d4/d4b/a17410.html#ab6e33bf137a54c9cd792aefb0ecd2ef1", null ],
-    [ "Register", "d4/d4b/a17410.html#a371073fb37337719115242fc8758026f", null ],
-    [ "Validate", "d4/d4b/a17410.html#ad5df08da54defc89a7a552c39de089c3", null ]
+    [ "UtherBatteredHiltEvent", "d4/d4b/a17410.html#a7bb34b75a3e371260a231aea72f75b40", null ],
+    [ "Execute", "d4/d4b/a17410.html#ad2eb37877155b6dbc9916338e30d0306", null ],
+    [ "_eventId", "d4/d4b/a17410.html#a5045e057b2c5d468aa579751d2c799b8", null ],
+    [ "_owner", "d4/d4b/a17410.html#a588974708f4a48f5a7b097a63a0c0899", null ]
 ];

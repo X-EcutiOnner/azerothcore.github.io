@@ -1,7 +1,9 @@
 var a24402 =
 [
-    [ "HandleScriptEffect", "d3/daf/a24402.html#a3a33f0ec477ff3b4b19fc98760a2dae7", null ],
-    [ "PrepareSpellScript", "d3/daf/a24402.html#ae29c4f69a34e71011192df12509e2935", null ],
-    [ "Register", "d3/daf/a24402.html#ae37da44bde25f6bdb5b4a382ab66b7be", null ],
-    [ "Validate", "d3/daf/a24402.html#af9056c179b8089cf0b304b3ce61ea92f", null ]
+    [ "npc_pet_gen_toxic_wasteling", "d3/daf/a24402.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "d3/daf/a24402.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "d3/daf/a24402.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "d3/daf/a24402.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "d3/daf/a24402.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "d3/daf/a24402.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

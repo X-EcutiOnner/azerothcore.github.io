@@ -1,6 +1,5 @@
 var a18002 =
 [
-    [ "HandlePeriodicTick", "df/df1/a18002.html#a29bf443cdb53b10032ba382b8ae44828", null ],
-    [ "PrepareAuraScript", "df/df1/a18002.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
-    [ "Register", "df/df1/a18002.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
+    [ "npc_zafod_boomboxAI", "df/df1/a18002.html#a6540d8f5787ce1da211123721ef659f3", null ],
+    [ "sGossipSelect", "df/df1/a18002.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
 ];

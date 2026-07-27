@@ -1,7 +1,6 @@
 var a24954 =
 [
-    [ "PrepareSpellScript", "d0/d1c/a24954.html#aad8061898087fbf5eb6527cbaa70927d", null ],
-    [ "RecalculateDamage", "d0/d1c/a24954.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
-    [ "Register", "d0/d1c/a24954.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
-    [ "_damagePct", "d0/d1c/a24954.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
+    [ "HandleScript", "d0/d1c/a24954.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
+    [ "PrepareSpellScript", "d0/d1c/a24954.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
+    [ "Register", "d0/d1c/a24954.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
 ];

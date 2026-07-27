@@ -1,7 +1,9 @@
 var a21698 =
 [
-    [ "npc_battle_at_valhalasAI", "dc/deb/a21702.html", "dc/deb/a21702" ],
-    [ "npc_battle_at_valhalas", "d9/de8/a21698.html#aacec717b5b91ae55307c9642779c15ec", null ],
-    [ "GetAI", "d9/de8/a21698.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
-    [ "OnQuestAccept", "d9/de8/a21698.html#addd76fd9f4b4f8ce706693614b80966b", null ]
+    [ "npc_archmage_landalockAI", "d9/de8/a21698.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
+    [ "GetImageEntry", "d9/de8/a21698.html#ae09841969253c0baf72cc235b6fa058e", null ],
+    [ "JustSummoned", "d9/de8/a21698.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
+    [ "UpdateAI", "d9/de8/a21698.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
+    [ "_summonGUID", "d9/de8/a21698.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
+    [ "_switchImageTimer", "d9/de8/a21698.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
 ];

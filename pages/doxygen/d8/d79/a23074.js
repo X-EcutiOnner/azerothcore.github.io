@@ -1,7 +1,7 @@
 var a23074 =
 [
-    [ "HandleScript", "d8/d79/a23074.html#a8933535f9507b90b54032c17985cc3c6", null ],
-    [ "PrepareSpellScript", "d8/d79/a23074.html#acadb563eaeffac47b3f883f9d8c37994", null ],
-    [ "Register", "d8/d79/a23074.html#a797ae84dcb0fc13b0799934bde71809c", null ],
-    [ "Validate", "d8/d79/a23074.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
+    [ "PrepareAuraScript", "d8/d79/a23074.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
+    [ "Register", "d8/d79/a23074.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
+    [ "Update", "d8/d79/a23074.html#a3f98767367564734c9877d1870aac31b", null ],
+    [ "Validate", "d8/d79/a23074.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
 ];

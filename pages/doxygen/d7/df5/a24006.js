@@ -1,7 +1,6 @@
 var a24006 =
 [
-    [ "npc_pet_gen_target_following_bomb", "d7/df5/a24006.html#a447c2cd258d784ca1d79c79412a1a426", null ],
-    [ "UpdateAI", "d7/df5/a24006.html#ac68f18d68a313623c04e885f9506f287", null ],
-    [ "bombSpellId", "d7/df5/a24006.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
-    [ "checkTimer", "d7/df5/a24006.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
+    [ "go_apexis_relic", "d7/df5/a24006.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "d7/df5/a24006.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "d7/df5/a24006.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

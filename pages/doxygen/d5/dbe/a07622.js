@@ -1,14 +1,12 @@
 var a07622 =
 [
-    [ "IsArena", "d5/dbe/a07622.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
-    [ "BattlemasterEntry", "d5/dbe/a07622.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
-    [ "Id", "d5/dbe/a07622.html#a0fca37318585903f68695452a95011a9", null ],
-    [ "MaxLevel", "d5/dbe/a07622.html#a790f55d480d1454a5f6e5713c04314b7", null ],
-    [ "MaxPlayersPerTeam", "d5/dbe/a07622.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
-    [ "MaxStartDistSq", "d5/dbe/a07622.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
-    [ "MinLevel", "d5/dbe/a07622.html#a49fdf96a08376830a06956fd501cfa78", null ],
-    [ "MinPlayersPerTeam", "d5/dbe/a07622.html#ac1bea263b53de8573cdb8eb890175495", null ],
-    [ "ScriptId", "d5/dbe/a07622.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
-    [ "StartLocation", "d5/dbe/a07622.html#a8477d2156c8aa5bb89da038d1a779698", null ],
-    [ "Weight", "d5/dbe/a07622.html#aa7a051e8453599a7e82da763a6f91da2", null ]
+    [ "Arena", "d5/dbe/a07622.html#a74f105bc709d4728fb07f1984abfd345", null ],
+    [ "AddPlayer", "d5/dbe/a07622.html#ae24fe304d35c0c09379203135e936450", null ],
+    [ "CheckWinConditions", "d5/dbe/a07622.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
+    [ "EndBattleground", "d5/dbe/a07622.html#a2be61602189b530a16a9ca954d180914", null ],
+    [ "FillInitialWorldStates", "d5/dbe/a07622.html#a592100d0f0ed492a5cdf941e57db787f", null ],
+    [ "HandleKillPlayer", "d5/dbe/a07622.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
+    [ "RemovePlayer", "d5/dbe/a07622.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
+    [ "RemovePlayerAtLeave", "d5/dbe/a07622.html#acae21233e11b21b612e5c051bfa7720e", null ],
+    [ "UpdateArenaWorldState", "d5/dbe/a07622.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
 ];

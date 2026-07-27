@@ -1,11 +1,7 @@
 var a13890 =
 [
-    [ "npc_supervisor_raelen", "d5/dd2/a13890.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
-    [ "CallPeasent", "d5/dd2/a13890.html#a0b8d661a86ec334adeb502d6936135ee", null ],
-    [ "Reset", "d5/dd2/a13890.html#a656029c56da84d2d3cee7380d6032e3d", null ],
-    [ "SetData", "d5/dd2/a13890.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
-    [ "UpdateAI", "d5/dd2/a13890.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
-    [ "_events", "d5/dd2/a13890.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
-    [ "_PeasentId", "d5/dd2/a13890.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
-    [ "peasentGUIDs", "d5/dd2/a13890.html#a6e290a29c8205b22bd668f0516e8904a", null ]
+    [ "PeriodicTick", "d5/dd2/a13890.html#acca46d585d06d461f735cddb6075b3b1", null ],
+    [ "PrepareAuraScript", "d5/dd2/a13890.html#abd7382ab22efd3d82c4f00745255d024", null ],
+    [ "Register", "d5/dd2/a13890.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
+    [ "Validate", "d5/dd2/a13890.html#acb31ba162452a30ff0c208829560f9fd", null ]
 ];

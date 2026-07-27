@@ -1,6 +1,9 @@
 var a13738 =
 [
-    [ "HandlePeriodic", "d5/d1e/a13738.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
-    [ "PrepareAuraScript", "d5/d1e/a13738.html#a2722b97e12e9371745d7f38504d9efdf", null ],
-    [ "Register", "d5/d1e/a13738.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
+    [ "npc_demonic_vapor_trail", "d5/d1e/a13738.html#a5bd024ea050372e982a183da59b45904", null ],
+    [ "JustSummoned", "d5/d1e/a13738.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
+    [ "Reset", "d5/d1e/a13738.html#a9da762ab640abfaf5092034f284239af", null ],
+    [ "SpellHitTarget", "d5/d1e/a13738.html#a21e2223f58156da2fbe1803554623ecd", null ],
+    [ "UpdateAI", "d5/d1e/a13738.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
+    [ "_timer", "d5/d1e/a13738.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
 ];

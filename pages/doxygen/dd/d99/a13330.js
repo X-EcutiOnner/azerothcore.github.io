@@ -1,6 +1,13 @@
 var a13330 =
 [
-    [ "npc_acherus_necromancerAI", "df/d68/a13334.html", "df/d68/a13334" ],
-    [ "npc_acherus_necromancer", "dd/d99/a13330.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
-    [ "GetAI", "dd/d99/a13330.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
+    [ "boss_roar", "dd/d99/a13330.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
+    [ "DoAction", "dd/d99/a13330.html#a9a2778a803d6d41b256759b29452cc51", null ],
+    [ "EnterEvadeMode", "dd/d99/a13330.html#a198044653632b93838c0f79c06cb7640", null ],
+    [ "JustDied", "dd/d99/a13330.html#a3c79bea69740601ad89f0765f3af99f2", null ],
+    [ "JustEngagedWith", "dd/d99/a13330.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
+    [ "JustReachedHome", "dd/d99/a13330.html#a632929b026815a524bd79748e768e3fc", null ],
+    [ "KilledUnit", "dd/d99/a13330.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
+    [ "UpdateAI", "dd/d99/a13330.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
+    [ "_scheduler", "dd/d99/a13330.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
+    [ "instance", "dd/d99/a13330.html#a67df04e89c877d565753ac077aa923c7", null ]
 ];

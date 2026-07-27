@@ -1,8 +1,6 @@
 var a26986 =
 [
-    [ "CheckProc", "de/d9e/a26986.html#a6abcfe33cfddde117eb9d19bdf834c3f", null ],
-    [ "HandleProc", "de/d9e/a26986.html#a4ee92efd0a312f7b5b4e0e19184cd085", null ],
-    [ "PrepareAuraScript", "de/d9e/a26986.html#ac45288980b444c92daecc1392a2cd38c", null ],
-    [ "Register", "de/d9e/a26986.html#ac93280657ee8d64aced09b95dac270d4", null ],
-    [ "Validate", "de/d9e/a26986.html#ad7b22c7da5d72a392d342624c46b456b", null ]
+    [ "CheckCast", "de/d9e/a26986.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
+    [ "PrepareSpellScript", "de/d9e/a26986.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
+    [ "Register", "de/d9e/a26986.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
 ];

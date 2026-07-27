@@ -1,7 +1,10 @@
 var a01733 =
 [
-    [ "UpdateTime", "d1/d6a/a12144.html", "d1/d6a/a12144" ],
-    [ "WorldUpdateTime", "d4/d93/a12148.html", "d4/d93/a12148" ],
-    [ "AVG_DIFF_COUNT", "d8/d9c/a01733.html#ac09527fd6979f77130f2ef6be46850eb", null ],
-    [ "sWorldUpdateTime", "d8/d9c/a01733.html#a911ff49ac052e337a0927c080aec20b2", null ]
+    [ "GameEventScript", "d3/d6f/a10774.html", "d3/d6f/a10774" ],
+    [ "GameEventHook", "d8/d9c/a01733.html#a6f634b591917b5ff2ab57f9739afa44b", [
+      [ "GAMEEVENTHOOK_ON_START", "d8/d9c/a01733.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
+      [ "GAMEEVENTHOOK_ON_STOP", "d8/d9c/a01733.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],
+      [ "GAMEEVENTHOOK_ON_EVENT_CHECK", "d8/d9c/a01733.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f", null ],
+      [ "GAMEEVENTHOOK_END", "d8/d9c/a01733.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395", null ]
+    ] ]
 ];

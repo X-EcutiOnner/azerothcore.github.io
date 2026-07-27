@@ -1,5 +1,5 @@
 var a14118 =
 [
-    [ "npc_mikhail", "d9/da0/a14118.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
-    [ "OnQuestAccept", "d9/da0/a14118.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
+    [ "npc_tyrion", "d9/da0/a14118.html#a85b1abd4910729c17099174def6507b1", null ],
+    [ "OnQuestAccept", "d9/da0/a14118.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
 ];

@@ -1,7 +1,6 @@
 var a09442 =
 [
-    [ "flags", "de/d4c/a09442.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
-    [ "fourcc", "de/d4c/a09442.html#a93b48dd741d13ff036eac8a77df9f916", null ],
-    [ "gridHeight", "de/d4c/a09442.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
-    [ "gridMaxHeight", "de/d4c/a09442.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
+    [ "Conditions", "de/d4c/a09442.html#a93edc2f0d71164b683c844b713befa85", null ],
+    [ "MenuID", "de/d4c/a09442.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
+    [ "TextID", "de/d4c/a09442.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
 ];

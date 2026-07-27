@@ -42,6 +42,7 @@ var dir_355661791026b33f9301c754e4db8b50 =
     [ "Server", "dir_315286625446b425c001eecd2b17ef1a.html", "dir_315286625446b425c001eecd2b17ef1a" ],
     [ "Skills", "dir_5a2c13ae9bc3295bd742513a14fb043b.html", "dir_5a2c13ae9bc3295bd742513a14fb043b" ],
     [ "Spells", "dir_ef7aca743453a8310aabb86ba904b3f6.html", "dir_ef7aca743453a8310aabb86ba904b3f6" ],
+    [ "TC9Sidecar", "dir_665ad2249ecdd6ffa5118847b893f456.html", "dir_665ad2249ecdd6ffa5118847b893f456" ],
     [ "Texts", "dir_78d3189edd7177725305f224bf2d8753.html", "dir_78d3189edd7177725305f224bf2d8753" ],
     [ "Tickets", "dir_d060a361923b82432b6b770fd21c8bea.html", "dir_d060a361923b82432b6b770fd21c8bea" ],
     [ "Time", "dir_7c8cab10b3149c3fa669be6ae86b4819.html", "dir_7c8cab10b3149c3fa669be6ae86b4819" ],

@@ -1,7 +1,7 @@
 var a23546 =
 [
-    [ "boss_gatewatcher_iron_hand", "dd/d8e/a23546.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "dd/d8e/a23546.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "dd/d8e/a23546.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "dd/d8e/a23546.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "boss_the_maker", "dd/d8e/a23546.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
+    [ "JustDied", "dd/d8e/a23546.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
+    [ "JustEngagedWith", "dd/d8e/a23546.html#a6b0a4442dbabde69ca9352017ee23675", null ],
+    [ "KilledUnit", "dd/d8e/a23546.html#a40643ca00fe7d7029a291335e47c722a", null ]
 ];

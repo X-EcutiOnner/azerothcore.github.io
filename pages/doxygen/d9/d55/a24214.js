@@ -1,9 +1,6 @@
 var a24214 =
 [
-    [ "CheckCast", "d9/d55/a24214.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "d9/d55/a24214.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "d9/d55/a24214.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "d9/d55/a24214.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "d9/d55/a24214.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "d9/d55/a24214.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "npc_lord_illidan_stormrageAI", "df/da0/a24218.html", "df/da0/a24218" ],
+    [ "npc_lord_illidan_stormrage", "d9/d55/a24214.html#ad2f213749e170ec4f9903396d132f5f3", null ],
+    [ "GetAI", "d9/d55/a24214.html#a9aaedc4326b90621965dad522f4af897", null ]
 ];

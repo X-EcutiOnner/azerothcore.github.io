@@ -1,6 +1,9 @@
 var a18714 =
 [
-    [ "npc_risen_archmageAI", "d1/d73/a18718.html", "d1/d73/a18718" ],
-    [ "npc_risen_archmage", "d9/da2/a18714.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
-    [ "GetAI", "d9/da2/a18714.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
+    [ "npc_icc_ice_sphereAI", "d9/da2/a18714.html#a685f45e5cd15b005646e596ff61088e8", null ],
+    [ "DoAction", "d9/da2/a18714.html#ac056ecdd93bc716964054f38ab81014e", null ],
+    [ "SelectNewTarget", "d9/da2/a18714.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
+    [ "UpdateAI", "d9/da2/a18714.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
+    [ "targetGUID", "d9/da2/a18714.html#a3e202f9bde2a202d329066f7aab8897c", null ],
+    [ "timer", "d9/da2/a18714.html#a42842e92926e18ef2589687d81a7d0d4", null ]
 ];

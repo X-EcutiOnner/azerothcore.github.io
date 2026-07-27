@@ -1,12 +1,12 @@
 var a29810 =
 [
-    [ "Bounds", "d9/dd8/a29810.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
-    [ "DoodadSet", "d9/dd8/a29810.html#abbf6e50e76b120be17215cfcf227a524", null ],
-    [ "Flags", "d9/dd8/a29810.html#a06f5e96119239356eea45b9acdadf6e1", null ],
-    [ "Id", "d9/dd8/a29810.html#a952442c180e8d3710af31272b54eb6ec", null ],
-    [ "NameSet", "d9/dd8/a29810.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
-    [ "Position", "d9/dd8/a29810.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
-    [ "Rotation", "d9/dd8/a29810.html#a2c04715e800b9f375c287cced96643d1", null ],
-    [ "Scale", "d9/dd8/a29810.html#a142716fecae07abc013c7f3bd053c0ea", null ],
-    [ "UniqueId", "d9/dd8/a29810.html#a749e920740b9e91547fe1f87933d1c7d", null ]
+    [ "TestVisibilityScript", "d9/dd8/a29810.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
+    [ "EnsureRegistered", "d9/dd8/a29810.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
+    [ "OnPlayerSetServerSideVisibility", "d9/dd8/a29810.html#a6b3701188303b644b28a52ec42bec846", null ],
+    [ "Reset", "d9/dd8/a29810.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
+    [ "CallCount", "d9/dd8/a29810.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
+    [ "Instance", "d9/dd8/a29810.html#adcf0326aa1e32db109ec920857868138", null ],
+    [ "LastPlayer", "d9/dd8/a29810.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
+    [ "LastSecurity", "d9/dd8/a29810.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
+    [ "LastType", "d9/dd8/a29810.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
 ];

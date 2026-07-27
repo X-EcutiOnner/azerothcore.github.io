@@ -1,5 +1,5 @@
 var a15614 =
 [
-    [ "at_battleguard_sartura", "de/db3/a15614.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
-    [ "OnTrigger", "de/db3/a15614.html#a6a7b9f210ce0c2844b4f2412c0fe440e", null ]
+    [ "boss_vem", "de/db3/a15614.html#a8e303ece8ba209c6dea0ed6c888077d3", null ],
+    [ "JustEngagedWith", "de/db3/a15614.html#ae4b7fa599d31155bdee566b31c60b237", null ]
 ];

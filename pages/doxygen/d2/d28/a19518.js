@@ -1,15 +1,11 @@
 var a19518 =
 [
-    [ "boss_anomalus", "d2/d28/a19518.html#aa4dd8fac7c360beb834382f624ed2246", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d2/d28/a19518.html#ada0735330bff29a8c04706c980e6bbfc", null ],
-    [ "GetData", "d2/d28/a19518.html#ad48aebb50cda7ee621f71803669f04c2", null ],
-    [ "JustDied", "d2/d28/a19518.html#a41e257481921a122dba30348559e05fb", null ],
-    [ "JustEngagedWith", "d2/d28/a19518.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
-    [ "JustSummoned", "d2/d28/a19518.html#a3c0413f30d96268cab724856334e61ee", null ],
-    [ "Reset", "d2/d28/a19518.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
-    [ "SetData", "d2/d28/a19518.html#aa79ec9829862b573cd0f38f965d737e8", null ],
-    [ "UpdateAI", "d2/d28/a19518.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
-    [ "_empowered", "d2/d28/a19518.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
-    [ "achievement", "d2/d28/a19518.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
-    [ "activeRifts", "d2/d28/a19518.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
+    [ "boss_grobbulusAI", "d2/d28/a19518.html#ad9e7cd519e30eded06f76bcc69189117", null ],
+    [ "JustEngagedWith", "d2/d28/a19518.html#a4c74d53fe029d02df9652dbb87a09242", null ],
+    [ "JustSummoned", "d2/d28/a19518.html#af266d40889fbecd50a118a579b711757", null ],
+    [ "KilledUnit", "d2/d28/a19518.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
+    [ "PullChamberAdds", "d2/d28/a19518.html#a0d68b84c035bb8b4b16075116a6d7992", null ],
+    [ "Reset", "d2/d28/a19518.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
+    [ "UpdateAI", "d2/d28/a19518.html#aafd79debbe76b02a1478c03daf235b05", null ],
+    [ "dropSludgeTimer", "d2/d28/a19518.html#a5fdcf157f498b8e47d6380b03fe819d6", null ]
 ];

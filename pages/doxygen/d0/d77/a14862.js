@@ -1,7 +1,6 @@
 var a14862 =
 [
-    [ "GetVisualThrow", "d0/d77/a14862.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "d0/d77/a14862.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "d0/d77/a14862.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "d0/d77/a14862.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "gameobjectId", "d0/d77/a14862.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "d0/d77/a14862.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "d0/d77/a14862.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

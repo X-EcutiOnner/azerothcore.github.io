@@ -1,9 +1,10 @@
 var a18678 =
 [
-    [ "DelayedCastEvent", "dd/da4/a18678.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
-    [ "Execute", "dd/da4/a18678.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "dd/da4/a18678.html#afcaeafb72df77c36b5496588c219fac4", null ],
-    [ "_originalCaster", "dd/da4/a18678.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "dd/da4/a18678.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "dd/da4/a18678.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "npc_shambling_horror_iccAI", "dd/da4/a18678.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
+    [ "CanAIAttack", "dd/da4/a18678.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
+    [ "DamageTaken", "dd/da4/a18678.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
+    [ "Reset", "dd/da4/a18678.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
+    [ "UpdateAI", "dd/da4/a18678.html#abae6058591022057e93d48da3db1b8bc", null ],
+    [ "_events", "dd/da4/a18678.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
+    [ "_frenzied", "dd/da4/a18678.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
 ];

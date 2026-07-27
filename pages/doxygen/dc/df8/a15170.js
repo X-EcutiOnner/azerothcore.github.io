@@ -1,9 +1,8 @@
 var a15170 =
 [
-    [ "boss_chrono_lord_deja", "dc/df8/a15170.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
-    [ "JustDied", "dc/df8/a15170.html#a68eb4941364f9fac121aa3d610d45f48", null ],
-    [ "JustEngagedWith", "dc/df8/a15170.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
-    [ "KilledUnit", "dc/df8/a15170.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
-    [ "MoveInLineOfSight", "dc/df8/a15170.html#a535c0c157c60804188ad8c4413c277dd", null ],
-    [ "OwnTalk", "dc/df8/a15170.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
+    [ "boss_azgalor", "dc/df8/a15170.html#ac794e0eacc2d543fa62e4b521089f080", null ],
+    [ "DoAction", "dc/df8/a15170.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
+    [ "JustDied", "dc/df8/a15170.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
+    [ "JustEngagedWith", "dc/df8/a15170.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
+    [ "KilledUnit", "dc/df8/a15170.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ]
 ];

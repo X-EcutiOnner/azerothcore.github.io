@@ -1,7 +1,8 @@
 var a28482 =
 [
-    [ "npc_riggle_bassbaitAI", "d8/dbb/a28482.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "d8/dbb/a28482.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "d8/dbb/a28482.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "d8/dbb/a28482.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "npc_target_dummy", "d8/dbb/a28482.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
+    [ "DamageTaken", "d8/dbb/a28482.html#ae137fc2935f306807128850e9761253e", null ],
+    [ "Reset", "d8/dbb/a28482.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
+    [ "UpdateAI", "d8/dbb/a28482.html#a32e9e139a54375b336c112deee3687cd", null ],
+    [ "_deathTimer", "d8/dbb/a28482.html#a304b79f8ec2afda669b43d2e248d026a", null ]
 ];

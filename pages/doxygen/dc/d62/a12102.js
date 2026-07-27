@@ -1,6 +1,7 @@
 var a12102 =
 [
-    [ "rainChance", "db/d39/a05023.html#ga8c3d9f1d251a9b167c9adc99101e5612", null ],
-    [ "snowChance", "db/d39/a05023.html#ga474650c5237c4a7428e858775fea7b86", null ],
-    [ "stormChance", "db/d39/a05023.html#gaa50e5243877e8283f30ee9376b2d519e", null ]
+    [ "EffectApplyHandler", "dc/d62/a12102.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "dc/d62/a12102.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "dc/d62/a12102.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "dc/d62/a12102.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

@@ -1,9 +1,7 @@
 var a24082 =
 [
-    [ "npc_pet_shaman_earth_elemental", "d9/d49/a24082.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "d9/d49/a24082.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "d9/d49/a24082.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "d9/d49/a24082.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "d9/d49/a24082.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "d9/d49/a24082.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d9/d49/a24082.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "d9/d49/a24082.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "d9/d49/a24082.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "d9/d49/a24082.html#a29132346f117ba785039057619edb9e7", null ]
 ];

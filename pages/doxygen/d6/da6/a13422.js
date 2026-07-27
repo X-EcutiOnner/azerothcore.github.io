@@ -1,15 +1,12 @@
 var a13422 =
 [
-    [ "boss_kormok", "d6/da6/a13422.html#a2bacfd366d084cae31b8cc689fb26d0b", null ],
-    [ "DamageTaken", "d6/da6/a13422.html#a2aa7fedea09b4d0526028826be2cb360", null ],
-    [ "IsSummonedBy", "d6/da6/a13422.html#a641bd06b5da44e04534150fc1fc6f9e0", null ],
-    [ "JustDied", "d6/da6/a13422.html#a219bc4f5e13e58bb4a8f79cbc36b5ad7", null ],
-    [ "JustEngagedWith", "d6/da6/a13422.html#a7fc5bb05831e5b8e22c7d59c5c71f87a", null ],
-    [ "JustSummoned", "d6/da6/a13422.html#a49ba1031e5639c3d8fdaf9ae9884a038", null ],
-    [ "Reset", "d6/da6/a13422.html#a70252bf1680510294f62e2c42220156e", null ],
-    [ "SummonedCreatureDespawn", "d6/da6/a13422.html#a6f23b4b006de4b8b5fda6e0203e2f8a7", null ],
-    [ "UpdateAI", "d6/da6/a13422.html#aea5651a98492885eb4d598714df4fd40", null ],
-    [ "_mages", "d6/da6/a13422.html#ae0de3f9848cb9051a18ba15347af3e7a", null ],
-    [ "_scheduler", "d6/da6/a13422.html#a540ef7a05a503a989f93d4b53daacb4b", null ],
-    [ "_summons", "d6/da6/a13422.html#aefaac0c5af45f63faeac6bf9ef1ca7fc", null ]
+    [ "boss_felblood_kaelthas", "d6/da6/a13422.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
+    [ "DamageTaken", "d6/da6/a13422.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
+    [ "DoAction", "d6/da6/a13422.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
+    [ "GravityLapseSequence", "d6/da6/a13422.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
+    [ "JustDied", "d6/da6/a13422.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
+    [ "JustEngagedWith", "d6/da6/a13422.html#a1d8806d7813d11aa61e043e420852218", null ],
+    [ "LapseAction", "d6/da6/a13422.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
+    [ "Reset", "d6/da6/a13422.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
+    [ "_gravityLapseCounter", "d6/da6/a13422.html#ab4e884a341fa25a555c160f6978861fc", null ]
 ];

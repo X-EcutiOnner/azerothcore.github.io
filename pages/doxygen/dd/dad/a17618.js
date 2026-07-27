@@ -1,9 +1,8 @@
 var a17618 =
 [
-    [ "FilterTargets", "dd/dad/a17618.html#a7b490400378893a19cdaf52af25f3a51", null ],
-    [ "HandleScript", "dd/dad/a17618.html#acee46fb0af45364478a92db59fcc3f24", null ],
-    [ "Load", "dd/dad/a17618.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
-    [ "PrepareSpellScript", "dd/dad/a17618.html#abb8fac43566f92b19e644edc38ab5d73", null ],
-    [ "Register", "dd/dad/a17618.html#a1add221102b7067ffc130969f5172eae", null ],
-    [ "Validate", "dd/dad/a17618.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
+    [ "boss_eck", "dd/dad/a17618.html#a665b54f72e674c8f65dd09daba5413db", null ],
+    [ "InitializeAI", "dd/dad/a17618.html#a92e5117337d372e1700d074f02c06df6", null ],
+    [ "JustEngagedWith", "dd/dad/a17618.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
+    [ "MovementInform", "dd/dad/a17618.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
+    [ "SpellHitTarget", "dd/dad/a17618.html#a63125d970933d6fa1f196aa28c588f40", null ]
 ];

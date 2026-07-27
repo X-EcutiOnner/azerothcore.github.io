@@ -1,5 +1,11 @@
 var a27670 =
 [
-    [ "AreaTrigger_at_sentry_point", "dc/d28/a27670.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
-    [ "OnTrigger", "dc/d28/a27670.html#ab59fb74f4f988c208359855d2e4d9918", null ]
+    [ "CalcPeriodic", "dc/d28/a27670.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
+    [ "CalculateAPAmount", "dc/d28/a27670.html#a55f649687813eb915c71ead6afb27276", null ],
+    [ "CalculateResistanceAmount", "dc/d28/a27670.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
+    [ "CalculateSPAmount", "dc/d28/a27670.html#a114c868f0dc31f3370588b1bd1f18894", null ],
+    [ "CalculateStatAmount", "dc/d28/a27670.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
+    [ "HandlePeriodic", "dc/d28/a27670.html#af5076795e8bf6abd45590a060f9e5b52", null ],
+    [ "PrepareAuraScript", "dc/d28/a27670.html#aa512873852c0eea9947472fcb60fbfc2", null ],
+    [ "Register", "dc/d28/a27670.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
 ];

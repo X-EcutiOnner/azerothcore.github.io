@@ -1,14 +1,10 @@
 var a10154 =
 [
-    [ "BattlegroundMap", "df/d8b/a10154.html#a3a9af8a69ac8d188d7fb86f2a9dda2c3", null ],
-    [ "~BattlegroundMap", "df/d8b/a10154.html#a327d241fd7930e9b3a98ba50014d5131", null ],
-    [ "AddPlayerToMap", "df/d8b/a10154.html#a0325279a2affc7b20a415a3b90a32fc0", null ],
-    [ "CannotEnter", "df/d8b/a10154.html#a493a1932eee44c346d9cfb7d13789bb6", null ],
-    [ "GetBG", "df/d8b/a10154.html#a2fcb965981bb03571f12c11cdbac54a4", null ],
-    [ "InitVisibilityDistance", "df/d8b/a10154.html#af2d6847765d10fab527d77b26dd770ad", null ],
-    [ "RemoveAllPlayers", "df/d8b/a10154.html#a5093cbf8005d06452eeb202513323c1e", null ],
-    [ "RemovePlayerFromMap", "df/d8b/a10154.html#aeddb9dfae8601e95b0a93cefc12c2612", null ],
-    [ "SetBG", "df/d8b/a10154.html#aaa9e5f830953b1a37a684ac566e9b768", null ],
-    [ "SetUnload", "df/d8b/a10154.html#a4c03b1aa9c4c53697ad6284825a1b9c1", null ],
-    [ "m_bg", "df/d8b/a10154.html#aa38fff695728ddedc94dd6eb6bd7bf3b", null ]
+    [ "MailReceiver", "df/d8b/a10154.html#a6fba3ff0ab3167197f569631d766ce14", null ],
+    [ "MailReceiver", "df/d8b/a10154.html#af0b094a704463ed76b1c08bc3cab0380", null ],
+    [ "MailReceiver", "df/d8b/a10154.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
+    [ "GetPlayer", "df/d8b/a10154.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
+    [ "GetPlayerGUIDLow", "df/d8b/a10154.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
+    [ "m_receiver", "df/d8b/a10154.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
+    [ "m_receiver_lowguid", "df/d8b/a10154.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
 ];

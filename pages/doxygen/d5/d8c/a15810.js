@@ -1,6 +1,6 @@
 var a15810 =
 [
-    [ "npc_bunthen_plainswind", "d5/d8c/a15810.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "d5/d8c/a15810.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "d5/d8c/a15810.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "HandleApply", "d5/d8c/a15810.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
+    [ "PrepareAuraScript", "d5/d8c/a15810.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
+    [ "Register", "d5/d8c/a15810.html#ade5c710416516760cc69f77750aa2a1f", null ]
 ];

@@ -1,9 +1,9 @@
 var a23354 =
 [
-    [ "boss_dalliah_the_doomsayer", "df/d06/a23354.html#ad6edf9623942297b28bc7420ec0cc733", null ],
-    [ "InitializeAI", "df/d06/a23354.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
-    [ "JustDied", "df/d06/a23354.html#a431edc9c25fb125d7d267073eb1c1423", null ],
-    [ "JustEngagedWith", "df/d06/a23354.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
-    [ "KilledUnit", "df/d06/a23354.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
-    [ "Reset", "df/d06/a23354.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
+    [ "boss_mennu_the_betrayer", "df/d06/a23354.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
+    [ "JustDied", "df/d06/a23354.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
+    [ "JustEngagedWith", "df/d06/a23354.html#a535b9af1677b8af50515818a18e88d27", null ],
+    [ "JustSummoned", "df/d06/a23354.html#a59949872270890ef794a77029074210b", null ],
+    [ "KilledUnit", "df/d06/a23354.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
+    [ "Reset", "df/d06/a23354.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
 ];

@@ -1,6 +1,8 @@
 var a20186 =
 [
-    [ "npc_ulduar_toasty_fire", "de/d0a/a20186.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
-    [ "DoAction", "de/d0a/a20186.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
-    [ "SpellHit", "de/d0a/a20186.html#ad1ac241490db52177ae13640d7ae3eec", null ]
+    [ "OnPeriodic", "de/d0a/a20186.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
+    [ "OnRemove", "de/d0a/a20186.html#ac6d961793ddb6423540da9d97e016b82", null ],
+    [ "PrepareAuraScript", "de/d0a/a20186.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
+    [ "Register", "de/d0a/a20186.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
+    [ "Validate", "de/d0a/a20186.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
 ];

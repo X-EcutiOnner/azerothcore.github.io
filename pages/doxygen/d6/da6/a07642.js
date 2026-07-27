@@ -1,12 +1,19 @@
 var a07642 =
 [
-    [ "BGQueueInviteEvent", "d6/da6/a07642.html#acee27900339fdcebbfd21bb0e602654d", null ],
-    [ "~BGQueueInviteEvent", "d6/da6/a07642.html#a09f9f27ecbc273b25e5941966a4fa925", null ],
-    [ "Abort", "d6/da6/a07642.html#a07f5520ab61cdfd4eadc5d0815067135", null ],
-    [ "Execute", "d6/da6/a07642.html#a444aceb1c29c951271bab5186a7f3064", null ],
-    [ "m_ArenaType", "d6/da6/a07642.html#a1b7d1161d46578606396efd515ab1739", null ],
-    [ "m_BgInstanceGUID", "d6/da6/a07642.html#ad9adc44cc1cde3b0b820740852bdb3ce", null ],
-    [ "m_BgTypeId", "d6/da6/a07642.html#a608c24288f24bc4da77124257320c741", null ],
-    [ "m_PlayerGuid", "d6/da6/a07642.html#a200b4bcd336846df60ec11de8d829d7d", null ],
-    [ "m_RemoveTime", "d6/da6/a07642.html#a4c78e5a74eaf859db40772008557201f", null ]
+    [ "ArenaSeasonRewardGroupsBySeasonContainer", "d6/da6/a07642.html#a510f51e8cd7ad494dc2f0dd25640e924", null ],
+    [ "BroadcastUpdatedWorldState", "d6/da6/a07642.html#ae40b9d3ff73604045d1d7f6c59487f95", null ],
+    [ "CanDeleteArenaTeams", "d6/da6/a07642.html#a6d2302f89f8756d7ceaf210cdabea9e8", null ],
+    [ "ChangeCurrentSeason", "d6/da6/a07642.html#a05f9e4be327f8ecb65729cec2d811851", null ],
+    [ "DeleteArenaTeams", "d6/da6/a07642.html#ad28595c2f09c2cecd46ba8811374ae21", null ],
+    [ "GameEventForArenaSeason", "d6/da6/a07642.html#a3bef72c5136e9920f8b4e0438f3f1628", null ],
+    [ "GetCurrentSeason", "d6/da6/a07642.html#ae07db874a46e7d1cc8c60105635bbdf0", null ],
+    [ "GetSeasonState", "d6/da6/a07642.html#abff2ff6a3e08f37b00405f5f688cb08d", null ],
+    [ "instance", "d6/da6/a07642.html#ad9299d5394ee20830fe9aca038575ce0", null ],
+    [ "LoadActiveSeason", "d6/da6/a07642.html#a81c47f17e571dd5ba2c2617bdef09694", null ],
+    [ "LoadRewards", "d6/da6/a07642.html#a495f7d12cbe5a4bfb09a9a6de45c17e1", null ],
+    [ "RewardTeamsForTheSeason", "d6/da6/a07642.html#a4c1069779f69aa3eae885540fa2b31e6", null ],
+    [ "SetSeasonState", "d6/da6/a07642.html#a118910793bb11fba35b0cd6b28e248a8", null ],
+    [ "_arenaSeasonRewardGroupsStore", "d6/da6/a07642.html#a90d508c6ffb7c7277d0e6c6f27bafc33", null ],
+    [ "_currentSeason", "d6/da6/a07642.html#a168a36d3ae1818f22acfb168e932c10c", null ],
+    [ "_currentSeasonState", "d6/da6/a07642.html#af73eb610ed7b0e908c206aac14f2c452", null ]
 ];

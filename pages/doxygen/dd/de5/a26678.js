@@ -1,6 +1,9 @@
 var a26678 =
 [
-    [ "CheckProc", "dd/de5/a26678.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
-    [ "PrepareAuraScript", "dd/de5/a26678.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
-    [ "Register", "dd/de5/a26678.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
+    [ "CountTargets", "dd/de5/a26678.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
+    [ "HandleDummy", "dd/de5/a26678.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
+    [ "PrepareSpellScript", "dd/de5/a26678.html#adfb7e3fbb52aa349573b95c457823900", null ],
+    [ "Register", "dd/de5/a26678.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
+    [ "Validate", "dd/de5/a26678.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
+    [ "_targetCount", "dd/de5/a26678.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
 ];

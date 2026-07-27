@@ -1,21 +1,34 @@
 var a01235 =
 [
-    [ "Totem", "d0/d15/a09044.html", "d0/d15/a09044" ],
-    [ "EARTHBIND_TOTEM_ENTRY", "dd/dad/a01235.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
-    [ "SENTRY_TOTEM_ENTRY", "dd/dad/a01235.html#a2bd46e1df17fdee45cd35896306092fb", null ],
-    [ "TotemImmunitySpells", "dd/dad/a01235.html#a526213bf692d4f8d189a61617f4a59c9", [
-      [ "SPELL_CYCLONE", "dd/dad/a01235.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
-      [ "SPELL_STONECLAW", "dd/dad/a01235.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
-      [ "SPELL_BIND_SIGHT", "dd/dad/a01235.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
-      [ "SPELL_INTERVENE", "dd/dad/a01235.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
-    ] ],
-    [ "TotemSpellIds", "dd/dad/a01235.html#a7092ec93c941969cd2cdd2291c6de0be", [
-      [ "SentryTotemSpell", "dd/dad/a01235.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
-      [ "FireTotemSpell", "dd/dad/a01235.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
-    ] ],
-    [ "TotemType", "dd/dad/a01235.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
-      [ "TOTEM_PASSIVE", "dd/dad/a01235.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
-      [ "TOTEM_ACTIVE", "dd/dad/a01235.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
-      [ "TOTEM_STATUE", "dd/dad/a01235.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
-    ] ]
+    [ "LootGroupInvalidSelector", "d7/d08/a10106.html", "d7/d08/a10106" ],
+    [ "LootTemplate::LootGroup", "d9/d77/a10110.html", "d9/d77/a10110" ],
+    [ "LoadLootTemplates_Creature", "dd/dad/a01235.html#a2ffebb5466d0f97fdaa495088a046a51", null ],
+    [ "LoadLootTemplates_Disenchant", "dd/dad/a01235.html#aa6e191c54a43255f4cc43af79b20c817", null ],
+    [ "LoadLootTemplates_Fishing", "dd/dad/a01235.html#a5f88815e67cdbdaebef659559cd0d954", null ],
+    [ "LoadLootTemplates_Gameobject", "dd/dad/a01235.html#a24e17720ba3e69cf816688664f0e981a", null ],
+    [ "LoadLootTemplates_Item", "dd/dad/a01235.html#aade507039245a0e20adcdbf548a7d690", null ],
+    [ "LoadLootTemplates_Mail", "dd/dad/a01235.html#a9b802fc33b09fc4fced1a39a7bb8583d", null ],
+    [ "LoadLootTemplates_Milling", "dd/dad/a01235.html#a1d63e7e68b4182ae8ebc36a7bbfd2456", null ],
+    [ "LoadLootTemplates_Pickpocketing", "dd/dad/a01235.html#a09f7e96fb3b750f94e246759397e7546", null ],
+    [ "LoadLootTemplates_Player", "dd/dad/a01235.html#a0e878bb1898269e2be94c066e18b6cac", null ],
+    [ "LoadLootTemplates_Prospecting", "dd/dad/a01235.html#a87bdff8f6fa2a9f948153a770b0512ae", null ],
+    [ "LoadLootTemplates_Reference", "dd/dad/a01235.html#a8015904fb38b1506755242730155cacc", null ],
+    [ "LoadLootTemplates_Skinning", "dd/dad/a01235.html#aec1cdee51afe09234ba6b2d917c21916", null ],
+    [ "LoadLootTemplates_Spell", "dd/dad/a01235.html#a1c69325fc9720f428891b814817eb762", null ],
+    [ "operator<<", "dd/dad/a01235.html#ac7f789f6da959300694693d249113e9f", null ],
+    [ "operator<<", "dd/dad/a01235.html#a08df83acd4a8d8591eebb3753e121fc7", null ],
+    [ "LootTemplates_Creature", "dd/dad/a01235.html#a867a728f0e7d52d0c546457d9199bbe0", null ],
+    [ "LootTemplates_Disenchant", "dd/dad/a01235.html#a5df89c4848d191ab038eed9a8f81b913", null ],
+    [ "LootTemplates_Fishing", "dd/dad/a01235.html#af45baef147256b11372c092b0ac53f91", null ],
+    [ "LootTemplates_Gameobject", "dd/dad/a01235.html#a2092f58e2dc595c617668f039de77935", null ],
+    [ "LootTemplates_Item", "dd/dad/a01235.html#a3148b185e4fb344eaa918ccc37ff8e84", null ],
+    [ "LootTemplates_Mail", "dd/dad/a01235.html#aba8aafe6a5d2d251b6e2f539b27f5949", null ],
+    [ "LootTemplates_Milling", "dd/dad/a01235.html#a433757800c8ee4e9b654d504a4ee828a", null ],
+    [ "LootTemplates_Pickpocketing", "dd/dad/a01235.html#a94fe5d87a40ef83d99db6ccfde0a719f", null ],
+    [ "LootTemplates_Player", "dd/dad/a01235.html#abbe10d61650265aabbc5de5685a8b9bb", null ],
+    [ "LootTemplates_Prospecting", "dd/dad/a01235.html#a5e98772296a6d93715a4ed74eb2b5bdf", null ],
+    [ "LootTemplates_Reference", "dd/dad/a01235.html#a556a2458977647462ba38f61da196218", null ],
+    [ "LootTemplates_Skinning", "dd/dad/a01235.html#a195e88b39c43d01cbf8b1871a7129a60", null ],
+    [ "LootTemplates_Spell", "dd/dad/a01235.html#a12b8cff5bc25ff6a80a044a72d037aaa", null ],
+    [ "qualityToRate", "dd/dad/a01235.html#aaa3aa72e5700e28104b67a1f347c64c7", null ]
 ];

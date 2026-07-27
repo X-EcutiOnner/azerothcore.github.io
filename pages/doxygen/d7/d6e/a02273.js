@@ -1,6 +1,6 @@
 var a02273 =
 [
-    [ "ResultIterator< T >", "d8/dae/a06212.html", "d8/dae/a06212" ],
-    [ "ResultSet", "d5/d74/a06216.html", "d5/d74/a06216" ],
-    [ "PreparedResultSet", "df/d75/a06220.html", "df/d75/a06220" ]
+    [ "MAX_QUIET_DISTANCE", "d7/d6e/a02273.html#a9738c927d0a0b9da431824ab69a5988a", null ],
+    [ "MIN_PATH_LENGTH", "d7/d6e/a02273.html#aa1f2b73706ddb69d07dbdc87257f010f", null ],
+    [ "MIN_QUIET_DISTANCE", "d7/d6e/a02273.html#ad1ba65a06a9ac4ab2293efde8be35403", null ]
 ];

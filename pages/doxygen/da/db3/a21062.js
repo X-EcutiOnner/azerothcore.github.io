@@ -1,6 +1,8 @@
 var a21062 =
 [
-    [ "npc_frozen_orbAI", "dd/d73/a21066.html", "dd/d73/a21066" ],
-    [ "npc_frozen_orb", "da/db3/a21062.html#ac14966722e39b2b6b3a907756701ed98", null ],
-    [ "GetAI", "da/db3/a21062.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
+    [ "FilterTargets", "da/db3/a21062.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
+    [ "HandleDummyEffect", "da/db3/a21062.html#ab1f662fa107d176386067ffc6467d90f", null ],
+    [ "PrepareSpellScript", "da/db3/a21062.html#a069cc54bf009830ad781c790b4fcedad", null ],
+    [ "Register", "da/db3/a21062.html#ac91532151b689bde35d7120b1e9aec5b", null ],
+    [ "Validate", "da/db3/a21062.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
 ];

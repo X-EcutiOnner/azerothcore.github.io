@@ -1,12 +1,6 @@
 var a13130 =
 [
-    [ "boss_bigbadwolf", "d9/d61/a13130.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
-    [ "EnterEvadeMode", "d9/d61/a13130.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
-    [ "JustDied", "d9/d61/a13130.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
-    [ "JustEngagedWith", "d9/d61/a13130.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
-    [ "JustReachedHome", "d9/d61/a13130.html#a7755bf925d919c73075a41f8774280c0", null ],
-    [ "KilledUnit", "d9/d61/a13130.html#a8e004a1feac796ed467eba744f211827", null ],
-    [ "UpdateAI", "d9/d61/a13130.html#ab788a0155a3ffe6535d58263eea16dee", null ],
-    [ "_scheduler", "d9/d61/a13130.html#a661d9b619be30764ba5b89d71de870e9", null ],
-    [ "instance", "d9/d61/a13130.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
+    [ "boss_mr_smiteAI", "d6/d2d/a13134.html", "d6/d2d/a13134" ],
+    [ "boss_mr_smite", "d9/d61/a13130.html#a011d41112ef7376b71d2959f806be262", null ],
+    [ "GetAI", "d9/d61/a13130.html#a619ca0aede1eb33f992328048319c4f0", null ]
 ];

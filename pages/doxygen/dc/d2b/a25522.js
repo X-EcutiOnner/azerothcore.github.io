@@ -1,6 +1,5 @@
 var a25522 =
 [
-    [ "HandleSummon", "dc/d2b/a25522.html#ad1ee0eb347454d50216610a266226d68", null ],
-    [ "PrepareSpellScript", "dc/d2b/a25522.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
-    [ "Register", "dc/d2b/a25522.html#aa145041af68291f107c3ff11ce15b85e", null ]
+    [ "PrepareSpellScript", "dc/d2b/a25522.html#a53fe40a7d280c5fcc733d2647ef09b41", null ],
+    [ "Register", "dc/d2b/a25522.html#ae2d3eb8ff055aa66a00567af75c65138", null ]
 ];

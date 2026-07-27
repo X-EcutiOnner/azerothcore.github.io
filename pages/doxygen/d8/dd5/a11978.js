@@ -1,9 +1,13 @@
 var a11978 =
 [
-    [ "CreatureTextLocalizer", "d8/dd5/a11978.html#a799f1007b9977224d71da1451c3454e1", null ],
-    [ "~CreatureTextLocalizer", "d8/dd5/a11978.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
-    [ "operator()", "d8/dd5/a11978.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
-    [ "_builder", "d8/dd5/a11978.html#a1d8d97d3e423810d044a8155b182899d", null ],
-    [ "_msgType", "d8/dd5/a11978.html#adf9260955b0141e85ff47c66350244e2", null ],
-    [ "_packetCache", "d8/dd5/a11978.html#a660b352a1c1855f4b10a8aebef88133f", null ]
+    [ "PetAuraMap", "d8/dd5/a11978.html#a6c020340ff467b5f2d00c3b5f9fee817", null ],
+    [ "PetAura", "d8/dd5/a11978.html#a8cd7e3284837b30a8a3c6739ab5cb9b3", null ],
+    [ "PetAura", "d8/dd5/a11978.html#a79a2f086e2d8dbe1af47716b53df0524", null ],
+    [ "AddAura", "d8/dd5/a11978.html#ae33bb99ab341f66fb2f296ccd6617e63", null ],
+    [ "GetAura", "d8/dd5/a11978.html#a6f8318410229a89e0b3aa2af28d6cb2b", null ],
+    [ "GetDamage", "d8/dd5/a11978.html#a38087712cef92ad55dc84f96e2b9e300", null ],
+    [ "IsRemovedOnChangePet", "d8/dd5/a11978.html#adc1b329e1f303b5ad3f353abb4343cdf", null ],
+    [ "auras", "d8/dd5/a11978.html#abacd738dfb04687810b981297b1a1567", null ],
+    [ "damage", "d8/dd5/a11978.html#a216021a7ad893ae6ca65ea068dd6eedb", null ],
+    [ "removeOnChangePet", "d8/dd5/a11978.html#aa5b3219cd2021341ce0910dce81d8b56", null ]
 ];

@@ -1,5 +1,7 @@
 var a20346 =
 [
-    [ "achievement_kologarn_rubble_and_roll", "d6/d4b/a20346.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
-    [ "OnCheck", "d6/d4b/a20346.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
+    [ "achievement_flame_leviathan_garage", "d6/d4b/a20346.html#a1893b4059d7212d023c45bb828bb1905", null ],
+    [ "OnCheck", "d6/d4b/a20346.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
+    [ "_entry1", "d6/d4b/a20346.html#af482d6c1b2681b9fec572281620a86b7", null ],
+    [ "_entry2", "d6/d4b/a20346.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
 ];

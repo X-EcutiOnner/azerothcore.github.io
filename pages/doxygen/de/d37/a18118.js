@@ -1,7 +1,6 @@
 var a18118 =
 [
-    [ "HandleExtraEffect", "de/d37/a18118.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "de/d37/a18118.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "de/d37/a18118.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "de/d37/a18118.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "BurningPitchFilterCheck", "de/d37/a18118.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
+    [ "operator()", "de/d37/a18118.html#a24be987c8471d8a7096025debf6e60b1", null ],
+    [ "_entry", "de/d37/a18118.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
 ];

@@ -1,7 +1,9 @@
 var a26822 =
 [
-    [ "HandleEffectPeriodic", "d6/d08/a26822.html#a2fab66e86d3c0207183db72ecbb6fc6c", null ],
-    [ "PrepareAuraScript", "d6/d08/a26822.html#ae0e3b459c71933c25da8136cdcddf200", null ],
-    [ "Register", "d6/d08/a26822.html#ac924ebbc893476cabab5f05120d0cd8d", null ],
-    [ "Validate", "d6/d08/a26822.html#ada327cf500aec62fdf34f9d8a4ccd6e2", null ]
+    [ "spell_pal_improved_aura_effect", "d6/d08/a26822.html#a8b413208ee8842e844e4129725e8c99e", null ],
+    [ "CheckAreaTarget", "d6/d08/a26822.html#a0e61a579344eb8e91d0dd58554fc6ecb", null ],
+    [ "PrepareAuraScript", "d6/d08/a26822.html#a1aa9d9c753032febf7cc86ce53ad2a99", null ],
+    [ "Register", "d6/d08/a26822.html#acd92f952c3aeede5c7131fb84aa6334d", null ],
+    [ "Validate", "d6/d08/a26822.html#a553e45e2963e915fb5a2e123160af83a", null ],
+    [ "_auraSpellId", "d6/d08/a26822.html#a960fabe394cdf4666b637a7d65b90645", null ]
 ];

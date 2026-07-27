@@ -1,29 +1,7 @@
 var a29234 =
 [
-    [ "ProcEventInfoBuilder", "d6/dff/a29234.html#a38c50e7852d5c87d2774372fbde47bc9", null ],
-    [ "Build", "d6/dff/a29234.html#ae0f8d3a43a218b4459db0aa3fee95bf0", null ],
-    [ "WithActionTarget", "d6/dff/a29234.html#a07d934345c43ecd6c8cebeb678e08dab", null ],
-    [ "WithActor", "d6/dff/a29234.html#a4a2faf802f7ef682e7be2b7ada7a0ff5", null ],
-    [ "WithDamageInfo", "d6/dff/a29234.html#a4d207196177033340282dd33b11c9d82", null ],
-    [ "WithHealInfo", "d6/dff/a29234.html#a3883e3ba66735492617a9907cdde3794", null ],
-    [ "WithHitMask", "d6/dff/a29234.html#ac8d9c890333158313fb6bd9bdcd14fcf", null ],
-    [ "WithProcAuraEffectIndex", "d6/dff/a29234.html#aec3496f0ce0cd0be4f8b1b2f48146206", null ],
-    [ "WithProcTarget", "d6/dff/a29234.html#af39d23e9a51f924215a20a578062a9db", null ],
-    [ "WithSpell", "d6/dff/a29234.html#a42ec10664e0fdad98e02267099f0e73c", null ],
-    [ "WithSpellPhaseMask", "d6/dff/a29234.html#a2247bbb4936f6d48c4214641a5a466af", null ],
-    [ "WithSpellTypeMask", "d6/dff/a29234.html#aebac87d053e09dba16456a9f49322973", null ],
-    [ "WithTriggeredByAuraSpell", "d6/dff/a29234.html#a5c0b48710a9526e1dc8202a92a91e852", null ],
-    [ "WithTypeMask", "d6/dff/a29234.html#a83de461b19bd737c5aa2e7fd3ad2a302", null ],
-    [ "_actionTarget", "d6/dff/a29234.html#a8571e92b47a6ad8327bdf8d1a0b57f04", null ],
-    [ "_actor", "d6/dff/a29234.html#a03c844febd2cafe041e5426a02816633", null ],
-    [ "_damageInfo", "d6/dff/a29234.html#acf2feea658b0a4a3d7b2d663aae7e3ee", null ],
-    [ "_healInfo", "d6/dff/a29234.html#aa9756e003fd8c4f2d88197e9c4ec159f", null ],
-    [ "_hitMask", "d6/dff/a29234.html#a0ef08d3b368b347a4c4e2538616329b4", null ],
-    [ "_procAuraEffectIndex", "d6/dff/a29234.html#a3d2adb99c5291a29b2265c4d834b8df0", null ],
-    [ "_procTarget", "d6/dff/a29234.html#afbc6d5efae5c965c61ebb7972aafb7f0", null ],
-    [ "_spell", "d6/dff/a29234.html#a5e6cc0a9d3a3afc81453d606116450d7", null ],
-    [ "_spellPhaseMask", "d6/dff/a29234.html#a58ea480d734bfccb3835a2a29618c8ea", null ],
-    [ "_spellTypeMask", "d6/dff/a29234.html#aefbc707a11b34a2bae78f5cf52d4b7a0", null ],
-    [ "_triggeredByAuraSpell", "d6/dff/a29234.html#a71180307b8e60ec02f11f388f43df126", null ],
-    [ "_typeMask", "d6/dff/a29234.html#ab64fb7418fce62b008ca62a2fea54c67", null ]
+    [ "Id", "d6/dff/a29234.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
+    [ "SoundBank", "d6/dff/a29234.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
+    [ "SpellId", "d6/dff/a29234.html#aa010947f5fbec6867b005b25728e720b", null ],
+    [ "Type", "d6/dff/a29234.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
 ];

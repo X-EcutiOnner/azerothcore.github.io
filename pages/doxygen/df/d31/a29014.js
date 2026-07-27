@@ -1,13 +1,6 @@
 var a29014 =
 [
-    [ "actionFlag", "df/d31/a29014.html#a6257ae486eff937cf12be64f0e850ca6", null ],
-    [ "arrivalEventID", "df/d31/a29014.html#a1ffe17f529066091b18451a1121ce6ac", null ],
-    [ "delay", "df/d31/a29014.html#aef005db912b0a57ecc5d62c66d838826", null ],
-    [ "departureEventID", "df/d31/a29014.html#a670a033aaf0ff48676373baf9235d670", null ],
-    [ "index", "df/d31/a29014.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
-    [ "mapid", "df/d31/a29014.html#aa2c6fb8a785e297c72384043698dd401", null ],
-    [ "path", "df/d31/a29014.html#aa0692acbae0d4639c89ece77265d7858", null ],
-    [ "x", "df/d31/a29014.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
-    [ "y", "df/d31/a29014.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
-    [ "z", "df/d31/a29014.html#af48d85940d7f204091e8438427a72e2d", null ]
+    [ "AreaGroupId", "df/d31/a29014.html#a2868a59574e635d5f5859cfa01811151", null ],
+    [ "AreaId", "df/d31/a29014.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
+    [ "nextGroup", "df/d31/a29014.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
 ];

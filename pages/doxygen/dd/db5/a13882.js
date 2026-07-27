@@ -1,11 +1,8 @@
 var a13882 =
 [
-    [ "npc_balance_of_light_and_shadowAI", "dd/db5/a13882.html#a00cc1f78fa8fe26bf472d99a490d05ad", null ],
-    [ "CanBeSeen", "dd/db5/a13882.html#af336c2afbf6c2850679fd7d8d1f0d5e9", null ],
-    [ "JustDied", "dd/db5/a13882.html#ae862f8763614a98dae6b982414caf30a", null ],
-    [ "MovementInform", "dd/db5/a13882.html#ad426816ae3c4d5a95587787d28f57ed8", null ],
-    [ "SpellHit", "dd/db5/a13882.html#abfddfff72b63fd05673584915d647958", null ],
-    [ "UpdateAI", "dd/db5/a13882.html#a540e3c28cc36917cde0153dd372d0287", null ],
-    [ "_targetGUID", "dd/db5/a13882.html#adaf2340aa5fe7b96c8f5cacc1c8d5545", null ],
-    [ "timer", "dd/db5/a13882.html#a204e0a809e9c392f20ec900e9a90a075", null ]
+    [ "HandleApply", "dd/db5/a13882.html#a717e3428afd59fa3a5e9916887d88273", null ],
+    [ "HandleRemove", "dd/db5/a13882.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
+    [ "PrepareAuraScript", "dd/db5/a13882.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
+    [ "Register", "dd/db5/a13882.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
+    [ "Validate", "dd/db5/a13882.html#a393a46618a4e1928b8149e04b4823726", null ]
 ];

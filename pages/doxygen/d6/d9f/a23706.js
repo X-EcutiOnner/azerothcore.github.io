@@ -1,15 +1,16 @@
 var a23706 =
 [
-    [ "npc_maghar_captiveAI", "d6/d9f/a23706.html#abab2cfe84f4bb83fea3b35202a957bb5", null ],
-    [ "JustDied", "d6/d9f/a23706.html#adbef78d8c908bfbce6ea506c55fb6922", null ],
-    [ "JustEngagedWith", "d6/d9f/a23706.html#a2a0ec4a496c7352ba88ceef99eb769e4", null ],
-    [ "JustSummoned", "d6/d9f/a23706.html#afe55f91acd8c47a758b8d08bd07d763f", null ],
-    [ "Reset", "d6/d9f/a23706.html#abebcdcb102f8d338ae0b792708940cd7", null ],
-    [ "SpellHitTarget", "d6/d9f/a23706.html#ab4f4deaae35fdbd602c9925f26e6d0e7", null ],
-    [ "UpdateAI", "d6/d9f/a23706.html#a295cbae9196e320fabbb4cfb9dc33150", null ],
-    [ "WaypointReached", "d6/d9f/a23706.html#abfbba8942df57e974ab24ad693c16e70", null ],
-    [ "WaypointReached", "d6/d9f/a23706.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "ChainLightningTimer", "d6/d9f/a23706.html#aa00a6978074f62d3d8ddead64d3240cf", null ],
-    [ "FrostShockTimer", "d6/d9f/a23706.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f", null ],
-    [ "HealTimer", "d6/d9f/a23706.html#a31613adba706f3b5f948f2f7c4222038", null ]
+    [ "npc_millhouse_manastormAI", "d6/d9f/a23706.html#ac86df4d5887c4c1b719ce47f00b32995", null ],
+    [ "AttackStart", "d6/d9f/a23706.html#a032cc1ad7a07ead4ced3afe99601d94f", null ],
+    [ "DamageTaken", "d6/d9f/a23706.html#a30ed336d552596211b3bfc316d223968", null ],
+    [ "InitializeAI", "d6/d9f/a23706.html#a7e8f7483b7cf4ba5d87386940e632339", null ],
+    [ "JustDied", "d6/d9f/a23706.html#aaa22ed7812600c1670d12d6887d316d6", null ],
+    [ "JustEngagedWith", "d6/d9f/a23706.html#a5e643192572f29f954a31b7b949f6525", null ],
+    [ "KilledUnit", "d6/d9f/a23706.html#ac3ba302f496d03c171d1d3f4dbf175da", null ],
+    [ "Reset", "d6/d9f/a23706.html#a74076048ea382816fa9c98a0d759af46", null ],
+    [ "UpdateAI", "d6/d9f/a23706.html#a7dad659c4ba1db0460c23a3dc573eff2", null ],
+    [ "_usedIceblock", "d6/d9f/a23706.html#af0ce341df018dafdce89f75fcb9f0063", null ],
+    [ "events", "d6/d9f/a23706.html#aa9aadd461e32cf8a65b185d77f62d838", null ],
+    [ "events2", "d6/d9f/a23706.html#ac762ce5981457cbcf6ec73236bab2486", null ],
+    [ "instance", "d6/d9f/a23706.html#aff28c68ed9575440f5732df855ab4372", null ]
 ];

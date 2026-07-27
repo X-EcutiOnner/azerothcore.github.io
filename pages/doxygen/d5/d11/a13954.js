@@ -1,10 +1,6 @@
 var a13954 =
 [
-    [ "npc_grand_magister_rommathAI", "d5/d11/a13954.html#a5e9404dd8bf4b513e05daac53c076314", null ],
-    [ "DoAction", "d5/d11/a13954.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
-    [ "MoveInLineOfSight", "d5/d11/a13954.html#ad35b64b37915484b133bcd185a832011", null ],
-    [ "UpdateAI", "d5/d11/a13954.html#ac687bd20f0ae66b21ce52c21561af417", null ],
-    [ "announced", "d5/d11/a13954.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
-    [ "events", "d5/d11/a13954.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
-    [ "playerGUID", "d5/d11/a13954.html#ad0ac0647feb998e837a44b0a688694e9", null ]
+    [ "npc_professor_phizzlethorpeAI", "d8/d98/a13958.html", "d8/d98/a13958" ],
+    [ "npc_professor_phizzlethorpe", "d5/d11/a13954.html#a8d32b4a107533c81033c617b0b97027d", null ],
+    [ "GetAI", "d5/d11/a13954.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
 ];

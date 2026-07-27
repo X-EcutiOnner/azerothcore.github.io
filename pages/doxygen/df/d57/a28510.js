@@ -1,10 +1,10 @@
 var a28510 =
 [
-    [ "npc_air_force_botsAI", "df/d57/a28510.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "df/d57/a28510.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "df/d57/a28510.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "df/d57/a28510.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "df/d57/a28510.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "df/d57/a28510.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedGUID", "df/d57/a28510.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "npc_dancing_flamesAI", "df/d57/a28510.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "df/d57/a28510.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "df/d57/a28510.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "df/d57/a28510.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "df/d57/a28510.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "df/d57/a28510.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "df/d57/a28510.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

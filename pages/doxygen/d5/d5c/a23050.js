@@ -1,7 +1,9 @@
 var a23050 =
 [
-    [ "npc_underbog_mushroom", "d5/d5c/a23050.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
-    [ "InitializeAI", "d5/d5c/a23050.html#a7c192010cc63715eaa3f38b1d1372936", null ],
-    [ "UpdateAI", "d5/d5c/a23050.html#a9a8ed51b12809152ebe78dda69944d77", null ],
-    [ "_scheduler", "d5/d5c/a23050.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
+    [ "HandleEffectApply", "d5/d5c/a23050.html#aca8ff864832d30e45bccfca12256560a", null ],
+    [ "HandleEffectRemove", "d5/d5c/a23050.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7", null ],
+    [ "Load", "d5/d5c/a23050.html#a3b9838f26673ce344ca40f9f487ef878", null ],
+    [ "PrepareAuraScript", "d5/d5c/a23050.html#a79b93c86a01d31d08cba15436856b794", null ],
+    [ "Register", "d5/d5c/a23050.html#aa6c04279944abd31c42bb5dc4319aaf2", null ],
+    [ "_turtleSet", "d5/d5c/a23050.html#a308b9e032576ae058e9f2469dcc8ff23", null ]
 ];

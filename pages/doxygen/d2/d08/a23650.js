@@ -1,7 +1,6 @@
 var a23650 =
 [
-    [ "HandleEffect", "d2/d08/a23650.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "d2/d08/a23650.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "d2/d08/a23650.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "d2/d08/a23650.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "HandleEffect", "d2/d08/a23650.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
+    [ "PrepareSpellScript", "d2/d08/a23650.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
+    [ "Register", "d2/d08/a23650.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
 ];

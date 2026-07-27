@@ -1,7 +1,5 @@
 var a14522 =
 [
-    [ "FilterTargets", "da/d82/a14522.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
-    [ "HandleDummyEffect", "da/d82/a14522.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
-    [ "PrepareSpellScript", "da/d82/a14522.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
-    [ "Register", "da/d82/a14522.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
+    [ "at_zulgurub_edge_of_madness_speech", "da/d82/a14522.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
+    [ "_OnTrigger", "da/d82/a14522.html#ab04b77d7521296cd271f763274d09841", null ]
 ];

@@ -1,6 +1,6 @@
 var a28422 =
 [
-    [ "X", "d4/d0e/a28422.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "d4/d0e/a28422.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "d4/d0e/a28422.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "npc_preciousAI", "db/d83/a28426.html", "db/d83/a28426" ],
+    [ "npc_precious", "d4/d0e/a28422.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
+    [ "GetAI", "d4/d0e/a28422.html#a754ad85c8b1942b400a47c28297bad62", null ]
 ];

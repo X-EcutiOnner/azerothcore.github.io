@@ -1,8 +1,6 @@
 var a15018 =
 [
-    [ "hyjalTyrandeAI", "d2/d16/a15018.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
-    [ "JustDied", "d2/d16/a15018.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
-    [ "JustEngagedWith", "d2/d16/a15018.html#a158589b567d22c8f6e0be462bad8299d", null ],
-    [ "Reset", "d2/d16/a15018.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
-    [ "UpdateAI", "d2/d16/a15018.html#a9e825f9d87df6227b73eb965488eff8a", null ]
+    [ "HandleAfterEffectApply", "d2/d16/a15018.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
+    [ "PrepareAuraScript", "d2/d16/a15018.html#a917379c33352721b5b76c1d9dac0c025", null ],
+    [ "Register", "d2/d16/a15018.html#a846d79564d76d6000c2276045775d7da", null ]
 ];

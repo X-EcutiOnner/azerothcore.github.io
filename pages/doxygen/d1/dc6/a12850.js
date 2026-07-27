@@ -1,7 +1,7 @@
 var a12850 =
 [
-    [ "HandlePeriodic", "d1/dc6/a12850.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "d1/dc6/a12850.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "d1/dc6/a12850.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "d1/dc6/a12850.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "boss_urok_doomhowl", "d1/dc6/a12850.html#af1ee215f3d8d6471587ef184bdb0d47c", null ],
+    [ "InitializeAI", "d1/dc6/a12850.html#acb14f233eff038e0cc2ef0b44cac5357", null ],
+    [ "JustEngagedWith", "d1/dc6/a12850.html#acf6c649e69b5e7104aa2ffca01fef6dc", null ],
+    [ "UpdateAI", "d1/dc6/a12850.html#aff302dd58a2f0ef8d801b0b6813d3233", null ]
 ];

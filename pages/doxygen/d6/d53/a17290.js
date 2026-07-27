@@ -1,9 +1,8 @@
 var a17290 =
 [
-    [ "npc_pos_after_first_bossAI", "d6/d53/a17290.html#a622df71849da1e10e2b73068f0adea98", null ],
-    [ "MovementInform", "d6/d53/a17290.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
-    [ "Reset", "d6/d53/a17290.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
-    [ "UpdateAI", "d6/d53/a17290.html#ac45111887fd7833a041355658dd26158", null ],
-    [ "events", "d6/d53/a17290.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
-    [ "pInstance", "d6/d53/a17290.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
+    [ "npc_fos_leaderAI", "d6/d53/a17290.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
+    [ "DoAction", "d6/d53/a17290.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
+    [ "Reset", "d6/d53/a17290.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
+    [ "UpdateAI", "d6/d53/a17290.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
+    [ "events", "d6/d53/a17290.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
 ];

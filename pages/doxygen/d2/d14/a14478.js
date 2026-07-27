@@ -1,5 +1,6 @@
 var a14478 =
 [
-    [ "go_brazier_of_madness", "d2/d14/a14478.html#aeb900e575be02244e62c6e5e4153c855", null ],
-    [ "GossipHello", "d2/d14/a14478.html#aba3af326b01cd045523434aec189fd47", null ]
+    [ "boss_gahzranka", "d2/d14/a14478.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "d2/d14/a14478.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "d2/d14/a14478.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

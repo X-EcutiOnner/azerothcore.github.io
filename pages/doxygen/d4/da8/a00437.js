@@ -1,9 +1,6 @@
 var a00437 =
 [
-    [ "ePoints", "d4/da8/a00437.html#a2604bd06487e34b78d3e50cd892f3c4d", [
-      [ "POINT_LAST_POINT", "da/d65/a00458.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
-      [ "POINT_HOME", "da/d65/a00458.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
-      [ "POINT_COMBAT_START", "d4/da8/a00437.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
-    ] ],
-    [ "MAX_PLAYER_DISTANCE", "d4/da8/a00437.html#acd0b392fc88f24b24201fba8b76d33a2", null ]
+    [ "mean", "d4/da8/a00437.html#a64ba279a3d3edca415239118167c0206", null ],
+    [ "median", "d4/da8/a00437.html#a4840fd449eb626bea901860e4c1be22a", null ],
+    [ "standard_deviation", "d4/da8/a00437.html#a60ce9c7718ec2901f037e2368f93026d", null ]
 ];

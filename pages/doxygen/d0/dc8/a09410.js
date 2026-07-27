@@ -1,10 +1,10 @@
 var a09410 =
 [
-    [ "GridObjectLoader", "d0/dc8/a09410.html#a57cd46fee6f747221761aa3114c40ba6", null ],
-    [ "AddObjectHelper", "d0/dc8/a09410.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
-    [ "LoadAllCellsInGrid", "d0/dc8/a09410.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
-    [ "LoadCreatures", "d0/dc8/a09410.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
-    [ "LoadGameObjects", "d0/dc8/a09410.html#ad577dbb6544e806d25b496796651ba5b", null ],
-    [ "_grid", "d0/dc8/a09410.html#abe551354634514fa3998eccb10fcbefe", null ],
-    [ "_map", "d0/dc8/a09410.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
+    [ "PetLevelInfo", "d0/dc8/a09410.html#ad8e757abeae500063e963ffef5469809", null ],
+    [ "armor", "d0/dc8/a09410.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
+    [ "health", "d0/dc8/a09410.html#a322dcab3af8f98726aa6addf38e8891b", null ],
+    [ "mana", "d0/dc8/a09410.html#a27352e73d6ed3945e398e0634dee1e96", null ],
+    [ "max_dmg", "d0/dc8/a09410.html#a092f2600f64f2af885142b2e96d1fe64", null ],
+    [ "min_dmg", "d0/dc8/a09410.html#a299d1c7f4c28893e09de79cd816afa95", null ],
+    [ "stats", "d0/dc8/a09410.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
 ];

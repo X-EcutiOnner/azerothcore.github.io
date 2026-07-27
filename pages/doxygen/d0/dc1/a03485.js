@@ -1,16 +1,13 @@
 var a03485 =
 [
-    [ "instance_azjol_nerub", "dd/dae/a16412.html", "dd/dae/a16412" ],
-    [ "instance_azjol_nerub::instance_azjol_nerub_InstanceScript", "db/d2e/a16416.html", "db/d2e/a16416" ],
-    [ "spell_azjol_nerub_fixate", "dc/d43/a16420.html", "dc/d43/a16420" ],
-    [ "spell_azjol_nerub_web_wrap_aura", "dd/dce/a16424.html", "dd/dce/a16424" ],
-    [ "spell_azjol_drain_power", "d3/d9e/a16428.html", "d3/d9e/a16428" ],
-    [ "DrainPowerSpells", "d0/dc1/a03485.html#aedcc9d94ea725aa97c3761980e653527", [
-      [ "SPELL_DRAIN_POWER_AURA", "d0/dc1/a03485.html#aedcc9d94ea725aa97c3761980e653527ae0ad6955af5cca2c49a4502fa6b7dea9", null ]
+    [ "npc_underbat", "dd/d44/a23462.html", "dd/d44/a23462" ],
+    [ "spell_fungal_decay", "d5/d55/a23466.html", "d5/d55/a23466" ],
+    [ "spell_allergies", "df/d74/a23470.html", "df/d74/a23470" ],
+    [ "AllergiesEnum", "d0/dc1/a03485.html#a597f861031d65ff9c7c3da68293f6847", [
+      [ "SPELL_SNEEZE", "d0/dc1/a03485.html#a597f861031d65ff9c7c3da68293f6847aca231923ca4e3560754e0ead3753c7e3", null ]
     ] ],
-    [ "AddSC_instance_azjol_nerub", "d0/dc1/a03485.html#a58deb67f6fb8962cfe1dfd044fdaabdb", null ],
-    [ "boundaries", "d0/dc1/a03485.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "d0/dc1/a03485.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d0/dc1/a03485.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "summonData", "d0/dc1/a03485.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
+    [ "UnderbatSpells", "d0/dc1/a03485.html#aba9ed07daed7ae7df6becb96f5194f52", [
+      [ "SPELL_TENTACLE_LASH", "d0/dc1/a03485.html#aba9ed07daed7ae7df6becb96f5194f52a8fb7d802a437e3e383ba2095ae12b96a", null ]
+    ] ],
+    [ "AddSC_underbog", "d0/dc1/a03485.html#a8c9725cac978bfa0eb0405faa6588549", null ]
 ];

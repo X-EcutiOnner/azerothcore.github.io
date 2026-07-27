@@ -1,9 +1,6 @@
 var a23994 =
 [
-    [ "npc_pet_gen_soul_trader_beacon", "d8/d4e/a23994.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
-    [ "GetOwner", "d8/d4e/a23994.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
-    [ "SpellHitTarget", "d8/d4e/a23994.html#a6c0d3181b913c5022325f66586f66bfa", null ],
-    [ "UpdateAI", "d8/d4e/a23994.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
-    [ "events", "d8/d4e/a23994.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
-    [ "ownerGUID", "d8/d4e/a23994.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
+    [ "npc_simon_bunnyAI", "d6/df3/a23998.html", "d6/df3/a23998" ],
+    [ "npc_simon_bunny", "d8/d4e/a23994.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
+    [ "GetAI", "d8/d4e/a23994.html#ac0c97609916321a1599c0722803a050f", null ]
 ];

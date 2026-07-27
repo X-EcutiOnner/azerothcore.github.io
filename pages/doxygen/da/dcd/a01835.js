@@ -1,6 +1,4 @@
 var a01835 =
 [
-    [ "clearAcceptTradeMode", "da/dcd/a01835.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
-    [ "clearAcceptTradeMode", "da/dcd/a01835.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
-    [ "setAcceptTradeMode", "da/dcd/a01835.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
+    [ "ScriptRegistry< MovementHandlerScript >", "da/dcd/a01835.html#adecbf467a875ee8886c336d96a2f97dc", null ]
 ];

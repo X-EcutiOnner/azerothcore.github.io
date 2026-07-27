@@ -1,7 +1,9 @@
 var a22446 =
 [
-    [ "OnPeriodic", "d4/d1d/a22446.html#a165d47b116b0a53e37b05f664960e6ec", null ],
-    [ "PrepareAuraScript", "d4/d1d/a22446.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
-    [ "Register", "d4/d1d/a22446.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
-    [ "Validate", "d4/d1d/a22446.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
+    [ "npc_finklesteinAI", "d6/d95/a22450.html", "d6/d95/a22450" ],
+    [ "npc_finklestein", "d4/d1d/a22446.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "d4/d1d/a22446.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "d4/d1d/a22446.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "d4/d1d/a22446.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "d4/d1d/a22446.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

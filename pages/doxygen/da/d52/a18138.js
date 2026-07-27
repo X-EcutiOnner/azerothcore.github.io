@@ -1,6 +1,7 @@
 var a18138 =
 [
-    [ "HandlePeriodic", "da/d52/a18138.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
-    [ "PrepareAuraScript", "da/d52/a18138.html#a5d855d79247dff6f949a5e099abb9352", null ],
-    [ "Register", "da/d52/a18138.html#ae797de0ed29b3ca179c07d759b469228", null ]
+    [ "DamageGunship", "da/d52/a18138.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "da/d52/a18138.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "da/d52/a18138.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "da/d52/a18138.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

@@ -1,6 +1,6 @@
 var a22870 =
 [
-    [ "FilterTargets", "da/d65/a22870.html#af545460920658bc8ee0444f7c0d51970", null ],
-    [ "PrepareSpellScript", "da/d65/a22870.html#a0bf365a43b99905fb7ae8152fe5b2687", null ],
-    [ "Register", "da/d65/a22870.html#ac12cde698f5b0bbcdf433821772c7519", null ]
+    [ "PrepareAuraScript", "da/d65/a22870.html#a5cba6aaa06f8ec6e083ee0c5064414e4", null ],
+    [ "Register", "da/d65/a22870.html#a75d0cf142e299783b06903ea03287e28", null ],
+    [ "Update", "da/d65/a22870.html#ac027b02ed0ba70d65621a6af157c98f6", null ]
 ];

@@ -1,4 +1,5 @@
 var a13006 =
 [
-    [ "npc_nightbane_helper_target", "d2/de5/a13006.html#a688ebb85baad72e523be0dceb70a75fc", null ]
+    [ "at_orb_of_command", "d2/de5/a13006.html#a1f0b196362b76e050eba66d3ce612623", null ],
+    [ "OnTrigger", "d2/de5/a13006.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
 ];

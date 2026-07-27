@@ -1,8 +1,10 @@
 var a28114 =
 [
-    [ "npc_chicken_cluckAI", "d5/d8a/a28118.html", "d5/d8a/a28118" ],
-    [ "npc_chicken_cluck", "de/d3f/a28114.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "de/d3f/a28114.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "de/d3f/a28114.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "de/d3f/a28114.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "boss_emerissAI", "de/d3f/a28114.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
+    [ "DamageTaken", "de/d3f/a28114.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
+    [ "ExecuteEvent", "de/d3f/a28114.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
+    [ "JustEngagedWith", "de/d3f/a28114.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
+    [ "KilledUnit", "de/d3f/a28114.html#ad851169bc09a362137e211dd10d30a1b", null ],
+    [ "Reset", "de/d3f/a28114.html#a44dfb325c4e8413662052137edc710ef", null ],
+    [ "_stage", "de/d3f/a28114.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
 ];

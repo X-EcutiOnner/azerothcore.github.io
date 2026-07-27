@@ -1,6 +1,5 @@
 var a05342 =
 [
-    [ "TriBoundFunc", "dc/dbc/a05342.html#a42711c10595c048420a09e35e3345229", null ],
-    [ "operator()", "dc/dbc/a05342.html#a026d443e9156f884a21351700b6c69dd", null ],
-    [ "vertices", "dc/dbc/a05342.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
+    [ "hitModel", "dc/dbc/a05342.html#a4d0c56a02fb5f454753a3dba17e9d67b", null ],
+    [ "rootId", "dc/dbc/a05342.html#aa855bd49800e7a3b6713d72f0cf629d5", null ]
 ];

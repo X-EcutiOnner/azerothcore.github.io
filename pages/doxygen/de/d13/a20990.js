@@ -1,18 +1,10 @@
 var a20990 =
 [
-    [ "boss_ymironAI", "de/d13/a20990.html#a3a4d81b7a0f3f27f94fea60eff043696", null ],
-    [ "EnterEvadeMode", "de/d13/a20990.html#a8fbc8526e82efea3e2eddedc421b85a2", null ],
-    [ "JustDied", "de/d13/a20990.html#ad1da47485b8f17ea550a1b6bc943eb9a", null ],
-    [ "JustEngagedWith", "de/d13/a20990.html#aed0cc8f034454db0046a5adce7f9d8a0", null ],
-    [ "KilledUnit", "de/d13/a20990.html#ae1d69402520e1cf4d3a17c0ca9af35bd", null ],
-    [ "MovementInform", "de/d13/a20990.html#a6e3c14da21d45bb7ddfba25d4487bba7", null ],
-    [ "Reset", "de/d13/a20990.html#a2b6619a51641a82109e98fd4decd22e3", null ],
-    [ "SpellHitTarget", "de/d13/a20990.html#a2f2782926ee9a59fc5188d02347f9ca8", null ],
-    [ "UpdateAI", "de/d13/a20990.html#aaa447c1c6092bfc7c1d117d32b2c5673", null ],
-    [ "BoatNum", "de/d13/a20990.html#ac5663f283d1a97fea1646c1ec230a7dc", null ],
-    [ "BoatOrder", "de/d13/a20990.html#a319095910309b0a78d321c4d33994542", null ],
-    [ "events", "de/d13/a20990.html#af2d8d9a2ec7ec5876c99ae909d3befd2", null ],
-    [ "pInstance", "de/d13/a20990.html#a115529fcbc5a0c8b57152be49915d575", null ],
-    [ "summons", "de/d13/a20990.html#aaa5d90d3940c84adebce772c594b0ee2", null ],
-    [ "summons2", "de/d13/a20990.html#aa82280ec0e02924d653b62298ed7e471", null ]
+    [ "boss_yoggsaron_constrictor_tentacle", "de/d13/a20990.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
+    [ "DoAction", "de/d13/a20990.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
+    [ "GrabPlayer", "de/d13/a20990.html#a0ae04ac300d4f08b12f7edaa75dbe208", null ],
+    [ "IsSummonedBy", "de/d13/a20990.html#a404e4ab66a757b6ff4fa492219198b91", null ],
+    [ "JustDied", "de/d13/a20990.html#aac8f5a80248c4616074e7ef88fb10395", null ],
+    [ "SelectConstrictTarget", "de/d13/a20990.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
+    [ "_playerGUID", "de/d13/a20990.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
 ];

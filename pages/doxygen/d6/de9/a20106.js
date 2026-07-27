@@ -1,7 +1,8 @@
 var a20106 =
 [
-    [ "boss_freya_lifebinder", "d6/de9/a20106.html#a1784d6e975192a7442cabb14f688737d", null ],
-    [ "Reset", "d6/de9/a20106.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
-    [ "UpdateAI", "d6/de9/a20106.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
-    [ "_healTimer", "d6/de9/a20106.html#a5545c496e9a1f9cc0da2824f695aa30e", null ]
+    [ "npc_algalon_worm_hole", "d6/de9/a20106.html#a546bd0ede2586fcbe3812698b68528d4", null ],
+    [ "JustSummoned", "d6/de9/a20106.html#a077425b35d86c007daa93fc8b1fd9717", null ],
+    [ "Reset", "d6/de9/a20106.html#a363814abdee714faddfd966b11a4fddc", null ],
+    [ "UpdateAI", "d6/de9/a20106.html#a16f644be53169adc67fc971bdeaa7263", null ],
+    [ "_summonTimer", "d6/de9/a20106.html#a033382dbd57714e815eed8ef6e4adfaf", null ]
 ];

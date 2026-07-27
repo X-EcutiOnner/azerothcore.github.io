@@ -1,7 +1,6 @@
 var a14590 =
 [
-    [ "HandleScriptEffect", "d2/d7e/a14590.html#ae758c224878aebdde0124b5d4ec902a5", null ],
-    [ "PrepareSpellScript", "d2/d7e/a14590.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
-    [ "Register", "d2/d7e/a14590.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
-    [ "Validate", "d2/d7e/a14590.html#a56f71954e122f651c6e2ec68453e16cc", null ]
+    [ "npc_ohganAI", "d6/d56/a14594.html", "d6/d56/a14594" ],
+    [ "npc_ohgan", "d2/d7e/a14590.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
+    [ "GetAI", "d2/d7e/a14590.html#a129dc2fcd449850403e0dcb99725da90", null ]
 ];

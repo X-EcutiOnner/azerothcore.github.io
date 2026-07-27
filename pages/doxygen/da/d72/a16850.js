@@ -1,7 +1,12 @@
 var a16850 =
 [
-    [ "HandleEffectPeriodic", "da/d72/a16850.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "da/d72/a16850.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "da/d72/a16850.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "da/d72/a16850.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "npc_swarm_scarabAI", "da/d72/a16850.html#a0d0cefd52543044773e7df772f90fd37", null ],
+    [ "CanAIAttack", "da/d72/a16850.html#a95a27742f4f7fa1af45964b6270a9558", null ],
+    [ "DoAction", "da/d72/a16850.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
+    [ "JustDied", "da/d72/a16850.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
+    [ "JustEngagedWith", "da/d72/a16850.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
+    [ "Reset", "da/d72/a16850.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
+    [ "UpdateAI", "da/d72/a16850.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
+    [ "despawnTimer", "da/d72/a16850.html#a6d35e43af695ac112b972badb665f06d", null ],
+    [ "determinationTimer", "da/d72/a16850.html#af319dbf16bc1d3939602465f0a87d30c", null ]
 ];

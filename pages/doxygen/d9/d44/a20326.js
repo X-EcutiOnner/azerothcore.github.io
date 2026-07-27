@@ -1,6 +1,8 @@
 var a20326 =
 [
-    [ "OnRemoveStun", "d9/d44/a20326.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
-    [ "PrepareAuraScript", "d9/d44/a20326.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
-    [ "Register", "d9/d44/a20326.html#a3166cfcd2acdcd4460217503d4008367", null ]
+    [ "HandleOnEffectApply", "d9/d44/a20326.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "d9/d44/a20326.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "d9/d44/a20326.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "d9/d44/a20326.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "d9/d44/a20326.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

@@ -1,5 +1,12 @@
 var a20026 =
 [
-    [ "FlameLeviathanPursuedTargetSelector", "de/dda/a20026.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
-    [ "operator()", "de/dda/a20026.html#aaa2a49366fb651f7486b463ce597f364", null ]
+    [ "boss_sjonnirAI", "de/dda/a20026.html#a53127766553d1bee4d7331e6f4fcda05", null ],
+    [ "ActivatePipe", "de/dda/a20026.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
+    [ "DoAction", "de/dda/a20026.html#afb2f73908bc17c763a8028af4b499481", null ],
+    [ "JustDied", "de/dda/a20026.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
+    [ "JustEngagedWith", "de/dda/a20026.html#aade776baf55155bb3814129ddc2f9632", null ],
+    [ "KilledUnit", "de/dda/a20026.html#ac79740a8c5e4263f2917647c74e995aa", null ],
+    [ "Reset", "de/dda/a20026.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
+    [ "ScheduleTasks", "de/dda/a20026.html#a5c3c31c5be424795e4e96291c910c73c", null ],
+    [ "SlugeCount", "de/dda/a20026.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
 ];

@@ -1,5 +1,5 @@
 var a28698 =
 [
-    [ "ID", "d2/d7e/a28698.html#a01bcdc3543d3ff250354acf5e0724c14", null ],
-    [ "spellId", "d2/d7e/a28698.html#aabbb95c091e0b0946bcb05746b1c23f3", null ]
+    [ "npc_suns_reach_reclamation", "d2/d7e/a28698.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
+    [ "OnQuestReward", "d2/d7e/a28698.html#aa403d14fccda7adbec1ffeb765079c25", null ]
 ];

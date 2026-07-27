@@ -1,17 +1,7 @@
 var a19206 =
 [
-    [ "boss_four_horsemenAI", "df/d28/a19206.html#a828a858c3337791bd2acb3d6ba730233", null ],
-    [ "AttackStart", "df/d28/a19206.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
-    [ "EnterEvadeMode", "df/d28/a19206.html#a86f458f0413cab4c8129affff1b73a70", null ],
-    [ "JustDied", "df/d28/a19206.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
-    [ "JustEngagedWith", "df/d28/a19206.html#a17b8ca30ceb0efb87be77f970c526444", null ],
-    [ "KilledUnit", "df/d28/a19206.html#a87bdde27a69a020a26da31f01286593a", null ],
-    [ "MovementInform", "df/d28/a19206.html#aa900c075c04673341b3100488c45f9e7", null ],
-    [ "MoveToCorner", "df/d28/a19206.html#a7891dc79980c67d82867f6181685b359", null ],
-    [ "Reset", "df/d28/a19206.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
-    [ "UpdateAI", "df/d28/a19206.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
-    [ "currentWaypoint", "df/d28/a19206.html#ab3c2643e1b3c58452661255979e67e63", null ],
-    [ "events", "df/d28/a19206.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
-    [ "horsemanId", "df/d28/a19206.html#ab0c4162177096e7bd007996e8677fd8b", null ],
-    [ "movementPhase", "df/d28/a19206.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
+    [ "Land", "df/d28/a19206.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
+    [ "PrepareSpellScript", "df/d28/a19206.html#a31e45adb87719c311fb5b94b2b744487", null ],
+    [ "Register", "df/d28/a19206.html#a652eca6ec8079b2835d911807857c8a8", null ],
+    [ "RemoveAliveTarget", "df/d28/a19206.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
 ];

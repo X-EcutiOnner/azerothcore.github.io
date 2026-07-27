@@ -1,5 +1,5 @@
 var a14318 =
 [
-    [ "at_zulgurub_bloodfire_pit_speech", "d4/d35/a14318.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
-    [ "_OnTrigger", "d4/d35/a14318.html#a8f1e477942ba9a5f653077632a98930f", null ]
+    [ "npc_mikhail", "d4/d35/a14318.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
+    [ "OnQuestAccept", "d4/d35/a14318.html#a94733a942550f64c741f47e56fd43778", null ]
 ];

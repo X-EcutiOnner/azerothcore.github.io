@@ -1,9 +1,13 @@
 var a17314 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d6/d89/a17314.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
-    [ "SpellHitTarget", "d6/d89/a17314.html#aea107ede3b11726b3f7caae590edaf52", null ],
-    [ "UpdateAI", "d6/d89/a17314.html#ade416a422e67ce61e8874320cce7143b", null ],
-    [ "pInstance", "d6/d89/a17314.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
-    [ "timer1", "d6/d89/a17314.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
-    [ "timer2", "d6/d89/a17314.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
+    [ "instance_forge_of_souls_InstanceScript", "d6/d89/a17314.html#ae39e116a01c17592037e12185a03201a", null ],
+    [ "CheckAchievementCriteriaMeet", "d6/d89/a17314.html#a534c7f97e7425160f9a2b1e555d0aa29", null ],
+    [ "HandleOutro", "d6/d89/a17314.html#aadf4a99e89f354901ff63c600725b07f", null ],
+    [ "OnCreatureCreate", "d6/d89/a17314.html#a7570ef3ca74178fec80c5018cbecf42a", null ],
+    [ "OnPlayerEnter", "d6/d89/a17314.html#aac223f0ae25071d3323052c52c887636", null ],
+    [ "SetBossState", "d6/d89/a17314.html#a76241f1358b8e6c7660f76c98e1556e7", null ],
+    [ "GuardFirstGUID", "d6/d89/a17314.html#ae2e33eee94f285b9d4c2c747dec52714", null ],
+    [ "GuardSecondGUID", "d6/d89/a17314.html#a68c2495f80ac2b53c8f46c857472709c", null ],
+    [ "LeaderFirstGUID", "d6/d89/a17314.html#acaa05485af70315b1d091e5c9bbb7217", null ],
+    [ "LeaderSecondGUID", "d6/d89/a17314.html#a165f784f54e178b51ac899aff6f12747", null ]
 ];

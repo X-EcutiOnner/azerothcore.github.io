@@ -1,8 +1,8 @@
 var a10890 =
 [
-    [ "PlayedTime", "d9/d36/a10890.html#abc477d90a27dc41a7c643448302464cf", null ],
-    [ "Write", "d9/d36/a10890.html#a147071f2545cd91213d6c92dab7438c7", null ],
-    [ "LevelTime", "d9/d36/a10890.html#a2bf832827f9497a59bbfac714799b4b5", null ],
-    [ "TotalTime", "d9/d36/a10890.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
-    [ "TriggerScriptEvent", "d9/d36/a10890.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
+    [ "type", "d9/d36/a10890.html#a93b2e49d8b93d48c1fcf9ce460f965d6", null ],
+    [ "EnabledHooks", "d9/d36/a10890.html#ac0ca0ab60e350e783c1297a657e32cdc", null ],
+    [ "HasEnabledHooks", "d9/d36/a10890.html#a8cad14090933423a3bd83b87af723810", null ],
+    [ "LegacyDbValidationCandidate", "d9/d36/a10890.html#a1c71456b199770112365ee54f0bd28ad", null ],
+    [ "PromotedAfterDbLoad", "d9/d36/a10890.html#a1800cba1759f5cdee36e47e3aa4ab2e8", null ]
 ];

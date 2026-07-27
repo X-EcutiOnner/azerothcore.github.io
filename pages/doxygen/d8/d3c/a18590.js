@@ -1,6 +1,6 @@
 var a18590 =
 [
-    [ "npc_strangulate_vehicleAI", "d8/d05/a18594.html", "d8/d05/a18594" ],
-    [ "npc_strangulate_vehicle", "d8/d3c/a18590.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
-    [ "GetAI", "d8/d3c/a18590.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
+    [ "PeriodicTick", "d8/d3c/a18590.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
+    [ "PrepareAuraScript", "d8/d3c/a18590.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
+    [ "Register", "d8/d3c/a18590.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
 ];

@@ -1,5 +1,10 @@
 var a28410 =
 [
-    [ "go_transport_the_thundercaller", "de/d8d/a28410.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
-    [ "EventInform", "de/d8d/a28410.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
+    [ "go_evil_book_for_dummies", "de/d8d/a28410.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "de/d8d/a28410.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "de/d8d/a28410.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "de/d8d/a28410.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "de/d8d/a28410.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "de/d8d/a28410.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "de/d8d/a28410.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

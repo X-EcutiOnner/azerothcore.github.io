@@ -1,8 +1,8 @@
 var a28030 =
 [
-    [ "npc_artoriusAI", "d7/d83/a28034.html", "d7/d83/a28034" ],
-    [ "npc_artorius", "d6/d28/a28030.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
-    [ "GetAI", "d6/d28/a28030.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
-    [ "OnGossipHello", "d6/d28/a28030.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
-    [ "OnGossipSelect", "d6/d28/a28030.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
+    [ "CharacterActionIpLogger", "d6/d28/a28030.html#a39861f7348a79031a8215b435ba81059", null ],
+    [ "CharacterIPLogAction", "d6/d28/a28030.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
+    [ "OnPlayerCreate", "d6/d28/a28030.html#a48844efac9d9af9c6415ad49d2473688", null ],
+    [ "OnPlayerLogin", "d6/d28/a28030.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
+    [ "OnPlayerLogout", "d6/d28/a28030.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
 ];

@@ -1,6 +1,9 @@
 var a19954 =
 [
-    [ "FilterTargets", "d7/d45/a19954.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
-    [ "PrepareSpellScript", "d7/d45/a19954.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
-    [ "Register", "d7/d45/a19954.html#a4e803984a3eded2736825f631786c204", null ]
+    [ "npc_stormforged_lieutenant", "d7/d45/a19954.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
+    [ "JustEngagedWith", "d7/d45/a19954.html#a262ac995279b1a936534c858e21122a9", null ],
+    [ "Reset", "d7/d45/a19954.html#abc359564370152b28a002a801ba1ab3d", null ],
+    [ "UpdateAI", "d7/d45/a19954.html#a4c207f0ef172585b97695b63e119d1bc", null ],
+    [ "BjarngrimGUID", "d7/d45/a19954.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
+    [ "events", "d7/d45/a19954.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
 ];

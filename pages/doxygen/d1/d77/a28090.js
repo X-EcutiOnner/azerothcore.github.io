@@ -1,7 +1,9 @@
 var a28090 =
 [
-    [ "npc_riggle_bassbaitAI", "d1/d77/a28090.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "d1/d77/a28090.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "d1/d77/a28090.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "d1/d77/a28090.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "boss_ysondreAI", "d1/d77/a28090.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc", null ],
+    [ "DamageTaken", "d1/d77/a28090.html#a99ee250e776001bb142815fc711ae75d", null ],
+    [ "ExecuteEvent", "d1/d77/a28090.html#a88e3caa536a71730c757590be1bd3de1", null ],
+    [ "JustEngagedWith", "d1/d77/a28090.html#af96597cf06d2ed71f85c7b4055793dcf", null ],
+    [ "Reset", "d1/d77/a28090.html#ac2ea95a5f8c032d7d9166d92bce51ba1", null ],
+    [ "_stage", "d1/d77/a28090.html#a5c96faa6b5e6cc350e9c53f34fe17eb1", null ]
 ];

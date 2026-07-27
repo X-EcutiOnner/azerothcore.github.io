@@ -1,7 +1,6 @@
 var a17430 =
 [
-    [ "HandleScriptEffect", "d4/d6d/a17430.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "d4/d6d/a17430.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "d4/d6d/a17430.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "d4/d6d/a17430.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "boss_ickAI", "d2/d16/a17434.html", "d2/d16/a17434" ],
+    [ "boss_ick", "d4/d6d/a17430.html#af97d7f96bc48ba245e28c18614b9369e", null ],
+    [ "GetAI", "d4/d6d/a17430.html#a355285766712a31b704c23fe85d19e5f", null ]
 ];

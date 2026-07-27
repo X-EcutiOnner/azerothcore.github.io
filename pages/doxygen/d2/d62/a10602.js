@@ -1,8 +1,8 @@
 var a10602 =
 [
-    [ "_OnTrigger", "d2/d62/a10602.html#a6da93a21c84345bd77e467377810e756", null ],
-    [ "AreaTriggerScript", "d2/d62/a10602.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
-    [ "OnTrigger", "d2/d62/a10602.html#a4ac7e4963d36c8163a560dc8401b5f34", null ],
-    [ "ResetAreaTriggerDone", "d2/d62/a10602.html#a3b44c1892c1100028b387d15bfbdae60", null ],
-    [ "ResetAreaTriggerDone", "d2/d62/a10602.html#a3917da4a6f605077720172cda25322ee", null ]
+    [ "ownerGuid", "d2/d62/a10602.html#a7c66ffa9f54768a0e81f61e5bcdde014", null ],
+    [ "petitionGuid", "d2/d62/a10602.html#a1bbf412a221b76c4a20765d9a6612182", null ],
+    [ "petitionId", "d2/d62/a10602.html#afa16859ac671ff0410204ea30ebcf429", null ],
+    [ "petitionName", "d2/d62/a10602.html#a91c81356e9aa77641eaa881cd04af5af", null ],
+    [ "petitionType", "d2/d62/a10602.html#aeaf6c421d7545cf98d88b4e552dcff23", null ]
 ];

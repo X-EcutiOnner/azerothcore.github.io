@@ -1,7 +1,6 @@
 var a25038 =
 [
-    [ "OnApply", "d8/de8/a25038.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "d8/de8/a25038.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "d8/de8/a25038.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "d8/de8/a25038.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "CheckProc", "d8/de8/a25038.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
+    [ "PrepareAuraScript", "d8/de8/a25038.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
+    [ "Register", "d8/de8/a25038.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
 ];

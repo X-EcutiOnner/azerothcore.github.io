@@ -1,8 +1,6 @@
 var a16290 =
 [
-    [ "boss_sartharion_vesperon", "d5/d7e/a16290.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
-    [ "ClearInstance", "d5/d7e/a16290.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
-    [ "ExecuteEvent", "d5/d7e/a16290.html#aefc42452e75c476aef39ba0df3a03d70", null ],
-    [ "Reset", "d5/d7e/a16290.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
-    [ "SummonedCreatureDies", "d5/d7e/a16290.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
+    [ "npc_weegli_blastfuseAI", "d1/d8c/a16294.html", "d1/d8c/a16294" ],
+    [ "npc_weegli_blastfuse", "d5/d7e/a16290.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
+    [ "GetAI", "d5/d7e/a16290.html#a701681d8771756dac20d30c2e03a1349", null ]
 ];

@@ -1,13 +1,10 @@
 var a07730 =
 [
-    [ "banners", "d9/d1c/a07730.html#a07c98125c64d119232fec9cc80050537", null ],
-    [ "faction", "d9/d1c/a07730.html#ab3758f67da3dcb507bb1acab575e2836", null ],
-    [ "gameobject_entry", "d9/d1c/a07730.html#ae80024986e048e05dca174d6b14964d3", null ],
-    [ "gameobject_type", "d9/d1c/a07730.html#ac4760cba40ba8916d66cae3712f7c641", null ],
-    [ "last_entry", "d9/d1c/a07730.html#a968d6f412ba88b9577429910ffa511a5", null ],
-    [ "needChange", "d9/d1c/a07730.html#acecd97e26d19c82e934817ecbc2afce9", null ],
-    [ "nodeState", "d9/d1c/a07730.html#a214e160c6fd94cefb4d080a94a12ba56", null ],
-    [ "nodeType", "d9/d1c/a07730.html#a3b303a427c4a2248dade5eada6774dc9", null ],
-    [ "timer", "d9/d1c/a07730.html#a434605ed0efcc262057a65d7cd8d0128", null ],
-    [ "worldStates", "d9/d1c/a07730.html#ae5d3b4b37fc5b7983c08b54d94d6c3d2", null ]
+    [ "SelectionPool", "d9/d1c/a07730.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
+    [ "AddGroup", "d9/d1c/a07730.html#a87fe4747536355ad7affda76640a082e", null ],
+    [ "GetPlayerCount", "d9/d1c/a07730.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
+    [ "Init", "d9/d1c/a07730.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
+    [ "KickGroup", "d9/d1c/a07730.html#a74fb708546a8612ca52b24b8472b71ef", null ],
+    [ "PlayerCount", "d9/d1c/a07730.html#a0c08c47f68dbb45175efc524f4553e16", null ],
+    [ "SelectedGroups", "d9/d1c/a07730.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
 ];

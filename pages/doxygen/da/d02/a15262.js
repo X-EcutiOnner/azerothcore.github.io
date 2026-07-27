@@ -1,6 +1,6 @@
 var a15262 =
 [
-    [ "npc_belnistraszAI", "da/db8/a15266.html", "da/db8/a15266" ],
-    [ "npc_belnistrasz", "da/d02/a15262.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
-    [ "GetAI", "da/d02/a15262.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
+    [ "boss_mal_ganisAI", "da/db8/a15266.html", "da/db8/a15266" ],
+    [ "boss_mal_ganis", "da/d02/a15262.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
+    [ "GetAI", "da/d02/a15262.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
 ];

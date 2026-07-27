@@ -1,12 +1,7 @@
 var a19702 =
 [
-    [ "boss_ionar", "d7/df7/a19702.html#a323da67c3ff33d09d07cf0369600a473", null ],
-    [ "JustDied", "d7/df7/a19702.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
-    [ "JustEngagedWith", "d7/df7/a19702.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
-    [ "KilledUnit", "d7/df7/a19702.html#ae6b1225147bc146066185d4d21c19f14", null ],
-    [ "Reset", "d7/df7/a19702.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
-    [ "ScheduleEvents", "d7/df7/a19702.html#af74dda7ad9cd156036689694b3bb9986", null ],
-    [ "SpellHit", "d7/df7/a19702.html#a85c0ba28de5a684435246539d2106dcd", null ],
-    [ "Split", "d7/df7/a19702.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
-    [ "UpdateAI", "d7/df7/a19702.html#ad6fb218e743bad9fec357ea7d862744d", null ]
+    [ "npc_naxxramas_trigger", "d7/df7/a19702.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "d7/df7/a19702.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "d7/df7/a19702.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "d7/df7/a19702.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

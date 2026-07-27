@@ -1,6 +1,6 @@
 var a16966 =
 [
-    [ "OnPeriodic", "d6/def/a16966.html#a6f2e191d76f894517aed395866b7e508", null ],
-    [ "PrepareAuraScript", "d6/def/a16966.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
-    [ "Register", "d6/def/a16966.html#a6094dc303c034e49fb4e543874db080b", null ]
+    [ "npc_toc_warriorAI", "d6/d1c/a16970.html", "d6/d1c/a16970" ],
+    [ "npc_toc_warrior", "d6/def/a16966.html#a3e969be07603ef59389106769010660c", null ],
+    [ "GetAI", "d6/def/a16966.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
 ];

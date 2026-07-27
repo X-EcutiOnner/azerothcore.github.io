@@ -1,12 +1,9 @@
 var a12422 =
 [
-    [ "boss_balinda", "d6/d8d/a12422.html#a2f3ce696dbc66843cddc13196800866b", null ],
-    [ "DamageTaken", "d6/d8d/a12422.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
-    [ "JustDied", "d6/d8d/a12422.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
-    [ "JustEngagedWith", "d6/d8d/a12422.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
-    [ "JustSummoned", "d6/d8d/a12422.html#a3c2306326d2f85fbb6766352117a1f91", null ],
-    [ "Reset", "d6/d8d/a12422.html#a1ecfa5d743682997076a47cce44b19f5", null ],
-    [ "UpdateAI", "d6/d8d/a12422.html#af3506dd75baef12fd0328aed21636978", null ],
-    [ "_hasCastIceBlock", "d6/d8d/a12422.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
-    [ "summons", "d6/d8d/a12422.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
+    [ "accountId", "d6/d8d/a12422.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
+    [ "accountName", "d6/d8d/a12422.html#a4849bd1f43fd15eea1991948abdc576d", null ],
+    [ "deleteDate", "d6/d8d/a12422.html#a65a101727094841d34e8775bb7504cba", null ],
+    [ "level", "d6/d8d/a12422.html#a3eb08758389ea4d3e2329ffb7af9fff4", null ],
+    [ "lowGuid", "d6/d8d/a12422.html#a11fd07e662184f750ac0a5e547a22437", null ],
+    [ "name", "d6/d8d/a12422.html#a0e85dce38305e222c5654315ed68bfc1", null ]
 ];

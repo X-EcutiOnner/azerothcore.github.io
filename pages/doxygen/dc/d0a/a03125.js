@@ -1,19 +1,11 @@
 var a03125 =
 [
-    [ "boss_mekgineer_steamrigger", "da/d19/a23224.html", "da/d19/a23224" ],
-    [ "MekgineerSteamrigger", "dc/d0a/a03125.html#a4766bad7859befee09dc2ce208e1c4dd", [
-      [ "SAY_MECHANICS", "dc/d0a/a03125.html#a4766bad7859befee09dc2ce208e1c4ddac616ae8f03c32cc59f26b5337aae84ba", null ],
-      [ "SAY_AGGRO", "dc/d0a/a03125.html#a4766bad7859befee09dc2ce208e1c4dda47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_SLAY", "dc/d0a/a03125.html#a4766bad7859befee09dc2ce208e1c4dda9e64f6e600dd42567d18006912811f75", null ],
-      [ "SAY_DEATH", "dc/d0a/a03125.html#a4766bad7859befee09dc2ce208e1c4dda04c962d9b6aaafde54ff92a54369135e", null ],
-      [ "SPELL_SUPER_SHRINK_RAY", "dc/d0a/a03125.html#a4766bad7859befee09dc2ce208e1c4dda4499c6dfeb4c15552b20d4bdc0e63edd", null ],
-      [ "SPELL_SAW_BLADE", "dc/d0a/a03125.html#a4766bad7859befee09dc2ce208e1c4ddabe5ec412b26a2ffb5cd6071f90620e58", null ],
-      [ "SPELL_ELECTRIFIED_NET", "dc/d0a/a03125.html#a4766bad7859befee09dc2ce208e1c4dda8af7ec94d6adf009820da95c833d041a", null ],
-      [ "SPELL_ENRAGE", "dc/d0a/a03125.html#a4766bad7859befee09dc2ce208e1c4dda2a20f56307679be4d4f01a0d3d93cc7e", null ],
-      [ "SPELL_SUMMON_MECHANICS_1", "dc/d0a/a03125.html#a4766bad7859befee09dc2ce208e1c4dda48f35e8fc2aae6e24c0616e4c1b13d01", null ],
-      [ "SPELL_SUMMON_MECHANICS_2", "dc/d0a/a03125.html#a4766bad7859befee09dc2ce208e1c4ddae60e2ad853b074c2f53e31ca1e5f8ff1", null ],
-      [ "SPELL_SUMMON_MECHANICS_3", "dc/d0a/a03125.html#a4766bad7859befee09dc2ce208e1c4dda5059715773c9ffed1b3ef2ff2c8f289c", null ],
-      [ "NPC_STREAMRIGGER_MECHANIC", "dc/d0a/a03125.html#a4766bad7859befee09dc2ce208e1c4dda6eb80a7e6891ababaf4ac14b1d9f890e", null ]
+    [ "npc_announcer_toc10", "d5/da4/a17154.html", "d5/da4/a17154" ],
+    [ "MenuTexts", "dc/d0a/a03125.html#a5e87c460d493df2d4629af8c1a30fc5a", [
+      [ "MSG_TESTED", "dc/d0a/a03125.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185", null ],
+      [ "MSG_NEXT_STAGE", "dc/d0a/a03125.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80", null ],
+      [ "MSG_CRUSADERS", "dc/d0a/a03125.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d", null ],
+      [ "MSG_ANUBARAK", "dc/d0a/a03125.html#a5e87c460d493df2d4629af8c1a30fc5aad43353382c7c2b60068aa5b306b62643", null ]
     ] ],
-    [ "AddSC_boss_mekgineer_steamrigger", "dc/d0a/a03125.html#a9aa3518f4196a7c844ab6ffafbc91068", null ]
+    [ "AddSC_trial_of_the_crusader", "dc/d0a/a03125.html#aae8fa1928137dde06462a753ceebcca6", null ]
 ];

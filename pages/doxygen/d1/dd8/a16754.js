@@ -1,8 +1,6 @@
 var a16754 =
 [
-    [ "npc_toc_hunterAI", "d1/dd8/a16754.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
-    [ "JustSummoned", "d1/dd8/a16754.html#aa270248ad9e0c319234ff0741270b465", null ],
-    [ "myCanCast", "d1/dd8/a16754.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
-    [ "UpdateAI", "d1/dd8/a16754.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
-    [ "events", "d1/dd8/a16754.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
+    [ "FilterTargets", "d1/dd8/a16754.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
+    [ "PrepareSpellScript", "d1/dd8/a16754.html#a697a52cbc50eafd2b0377621afb01557", null ],
+    [ "Register", "d1/dd8/a16754.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
 ];

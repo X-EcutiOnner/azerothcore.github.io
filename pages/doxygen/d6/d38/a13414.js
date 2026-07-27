@@ -1,6 +1,7 @@
 var a13414 =
 [
-    [ "boss_kirtonos_the_heraldAI", "d2/dd1/a13418.html", "d2/dd1/a13418" ],
-    [ "boss_kirtonos_the_herald", "d6/d38/a13414.html#a0e81153a0da7910cda4c9b6d32544318", null ],
-    [ "GetAI", "d6/d38/a13414.html#aa5e0fe2386aae52fd53ff309282db652", null ]
+    [ "HandleDummy", "d6/d38/a13414.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
+    [ "PrepareSpellScript", "d6/d38/a13414.html#a5738144c85424e11f33aada38273e24e", null ],
+    [ "Register", "d6/d38/a13414.html#a206a4d40e082246193ba36c9080cdac1", null ],
+    [ "Validate", "d6/d38/a13414.html#a0718461731d563d2c948848f60101d49", null ]
 ];

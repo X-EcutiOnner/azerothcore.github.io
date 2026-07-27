@@ -1,6 +1,7 @@
 var a23154 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "de/d74/a23158.html", "de/d74/a23158" ],
-    [ "instance_gruuls_lair", "df/d74/a23154.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
-    [ "GetInstanceScript", "df/d74/a23154.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
+    [ "HandleEffectApply", "df/d74/a23154.html#acc7aeb8a002db3a846cbac29053af441", null ],
+    [ "HandleEffectRemove", "df/d74/a23154.html#a11de5d496bc1265ceb01c2bb91da4a57", null ],
+    [ "PrepareAuraScript", "df/d74/a23154.html#a7203f8808f6afc5bdaf49a26ae8b0c20", null ],
+    [ "Register", "df/d74/a23154.html#a7b62d651a57e2dc9d8e461f7a5c9d500", null ]
 ];

@@ -1,8 +1,10 @@
 var a19422 =
 [
-    [ "npc_teslaAI", "d8/deb/a19422.html#a7281220648af1357b1377d6f7874d663", null ],
-    [ "DamageTaken", "d8/deb/a19422.html#aa3ab570e86261bc3178e17109d76af12", null ],
-    [ "EnterEvadeMode", "d8/deb/a19422.html#acc8115216989b34593a9435eeb051eda", null ],
-    [ "JustEngagedWith", "d8/deb/a19422.html#add93f68bc96b3c93dc0a3271543711e6", null ],
-    [ "UpdateAI", "d8/deb/a19422.html#a962745569b07e368067ee483d2379840", null ]
+    [ "boss_isle_of_conquestAI", "d8/deb/a19422.html#a7880ea86e7a03f5b14875065a83a206a", null ],
+    [ "CheckRageBuff", "d8/deb/a19422.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
+    [ "JustEngagedWith", "d8/deb/a19422.html#a878635ef0673325943e6026ad76c2b06", null ],
+    [ "Reset", "d8/deb/a19422.html#add59669e5f6c3c882ac008c720349573", null ],
+    [ "UpdateAI", "d8/deb/a19422.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
+    [ "events", "d8/deb/a19422.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
+    [ "rage", "d8/deb/a19422.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
 ];

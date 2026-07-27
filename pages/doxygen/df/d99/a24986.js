@@ -1,14 +1,11 @@
 var a24986 =
 [
-    [ "spell_gen_mount", "df/d99/a24986.html#aae8c5c328dda0668bf8cdabc2c9cd29f", null ],
-    [ "HandleMount", "df/d99/a24986.html#a81085b5efd8d9bd7c82ebb1cf6604793", null ],
-    [ "PrepareSpellScript", "df/d99/a24986.html#a49e2046d30352a6e22dab2530e909fa7", null ],
-    [ "Register", "df/d99/a24986.html#a8175ecc0c407d5c4646f038d7b62e92b", null ],
-    [ "Validate", "df/d99/a24986.html#accef27fc13ff34af52860ad6ac62e7f3", null ],
-    [ "_mount0", "df/d99/a24986.html#abd6347074186b7c47ac5a2c760f4db33", null ],
-    [ "_mount100", "df/d99/a24986.html#a5e56853140f188ff1babc61c507f8300", null ],
-    [ "_mount150", "df/d99/a24986.html#a1237697623e4831c25efcde1ab370031", null ],
-    [ "_mount280", "df/d99/a24986.html#aa9d0a936795d06dd78ef3c4d5aaf0320", null ],
-    [ "_mount310", "df/d99/a24986.html#ac06b80d14cc106281c3e6bf3f6a5c727", null ],
-    [ "_mount60", "df/d99/a24986.html#a53ce7d1b5a39cce2bede77aad647dc7e", null ]
+    [ "spell_gen_relocaste_dest", "df/d99/a24986.html#a5b839f3bd5571ff3b23701c0cd862568", null ],
+    [ "PrepareSpellScript", "df/d99/a24986.html#a135638c19c130f43f7f3c3c14f1d1570", null ],
+    [ "Register", "df/d99/a24986.html#a9fd403a48ac9cec79fdf4ac485bbaa6a", null ],
+    [ "RelocateDest", "df/d99/a24986.html#a1efeb8d17fa6f7cfd9d098d7e97381d9", null ],
+    [ "_o", "df/d99/a24986.html#a31ecfa99e580c8fb828c1a4ee988ac94", null ],
+    [ "_x", "df/d99/a24986.html#aa0d6afcc49e6fa41b6ae37d16e0c25e5", null ],
+    [ "_y", "df/d99/a24986.html#a0152bc47b5950546d9e9505512ed842b", null ],
+    [ "_z", "df/d99/a24986.html#a40136ab0219829dfb0dcfe234aa73af7", null ]
 ];

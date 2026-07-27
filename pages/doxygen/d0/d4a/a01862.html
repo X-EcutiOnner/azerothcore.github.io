@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Events/HolidayDateCalculator.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/AllBattlegroundScript.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,157 +106,169 @@ $(document).ready(function(){initNavTree('d0/d4a/a01862.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">HolidayDateCalculator.h File Reference</div></div>
+  <div class="headertitle"><div class="title">AllBattlegroundScript.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;cstdint&gt;</code><br />
-<code>#include &lt;ctime&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
 <code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d34/a09228.html">HolidayRule</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d10/a10682.html">AllBattlegroundScript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/daf/a09232.html">HolidayDateCalculator</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:ae9cb670a445a9cb3089a66cdcc822d0e"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4a/a01862.html#ae9cb670a445a9cb3089a66cdcc822d0e">BGScript</a> = <a class="el" href="../../d2/d10/a10682.html">AllBattlegroundScript</a></td></tr>
+<tr class="separator:ae9cb670a445a9cb3089a66cdcc822d0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a5ecfaf291957bc268c8975a08797a5cb"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cb">HolidayCalculationType</a> { <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387">FIXED_DATE</a>
+<tr class="memitem:a17a6e2af65c8cf024623d584c7f3a11f"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11f">AllBattlegroundHook</a> { <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_START</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1">NTH_WEEKDAY</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END_REWARD</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e">EASTER_OFFSET</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_UPDATE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5">LUNAR_NEW_YEAR</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_ADD_PLAYER</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4">WEEKDAY_ON_OR_AFTER</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_BEFORE_ADD_PLAYER</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca">AUTUMN_EQUINOX</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_REMOVE_PLAYER_AT_LEAVE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06">WINTER_SOLSTICE</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7">ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6">DARKMOON_FAIRE</a>
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5">ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE_VALIDITY</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f">ALLBATTLEGROUNDHOOK_ON_ADD_GROUP</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7">ALLBATTLEGROUNDHOOK_CAN_FILL_PLAYERS_TO_BG</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323">ALLBATTLEGROUNDHOOK_IS_CHECK_NORMAL_MATCH</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53">ALLBATTLEGROUNDHOOK_CAN_SEND_MESSAGE_BG_QUEUE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5">ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_JOIN_MESSAGE_ARENA_QUEUE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8">ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_EXIT_MESSAGE_ARENA_QUEUE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_DESTROY</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_CREATE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa6d29f964ce1202e866efd07fcf7bf49a">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_SETUP</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa6660e58efa109e694bdb78d120bd290a">ALLBATTLEGROUNDHOOK_CAN_ADD_GROUP_TO_MATCHING_POOL</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fad51adb5145190199738023e77119f7fb">ALLBATTLEGROUNDHOOK_GET_PLAYER_MATCHMAKING_RATING</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af">ALLBATTLEGROUNDHOOK_END</a>
 <br />
  }</td></tr>
-<tr class="separator:a5ecfaf291957bc268c8975a08797a5cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aec3d5ec6653b2c392d449500b8f5cb3a"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a> { <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5">SUNDAY</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd">MONDAY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14">TUESDAY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825">WEDNESDAY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755">THURSDAY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936">FRIDAY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7">SATURDAY</a>
-<br />
- }</td></tr>
-<tr class="separator:aec3d5ec6653b2c392d449500b8f5cb3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a17a6e2af65c8cf024623d584c7f3a11f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a5ecfaf291957bc268c8975a08797a5cb" name="a5ecfaf291957bc268c8975a08797a5cb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5ecfaf291957bc268c8975a08797a5cb">&#9670;&#160;</a></span>HolidayCalculationType</h2>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="ae9cb670a445a9cb3089a66cdcc822d0e" name="ae9cb670a445a9cb3089a66cdcc822d0e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae9cb670a445a9cb3089a66cdcc822d0e">&#9670;&#160;</a></span>BGScript</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">enum class <a class="el" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cb">HolidayCalculationType</a></td>
+          <td class="memname">using <a class="el" href="../../d0/d4a/a01862.html#ae9cb670a445a9cb3089a66cdcc822d0e">BGScript</a> =  <a class="el" href="../../d2/d10/a10682.html">AllBattlegroundScript</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a17a6e2af65c8cf024623d584c7f3a11f" name="a17a6e2af65c8cf024623d584c7f3a11f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a17a6e2af65c8cf024623d584c7f3a11f">&#9670;&#160;</a></span>AllBattlegroundHook</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11f">AllBattlegroundHook</a></td>
+        </tr>
+      </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387" name="a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387"></a>FIXED_DATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1" name="a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1"></a>NTH_WEEKDAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e" name="a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e"></a>EASTER_OFFSET&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5" name="a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5"></a>LUNAR_NEW_YEAR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4" name="a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4"></a>WEEKDAY_ON_OR_AFTER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca" name="a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca"></a>AUTUMN_EQUINOX&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06" name="a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06"></a>WINTER_SOLSTICE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6" name="a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6"></a>DARKMOON_FAIRE&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2" name="a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_START&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb" name="a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END_REWARD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957" name="a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_UPDATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0" name="a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_ADD_PLAYER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a" name="a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_BEFORE_ADD_PLAYER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175" name="a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_REMOVE_PLAYER_AT_LEAVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7" name="a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7"></a>ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5" name="a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5"></a>ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE_VALIDITY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f" name="a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f"></a>ALLBATTLEGROUNDHOOK_ON_ADD_GROUP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7" name="a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7"></a>ALLBATTLEGROUNDHOOK_CAN_FILL_PLAYERS_TO_BG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323" name="a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323"></a>ALLBATTLEGROUNDHOOK_IS_CHECK_NORMAL_MATCH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53" name="a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53"></a>ALLBATTLEGROUNDHOOK_CAN_SEND_MESSAGE_BG_QUEUE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5" name="a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5"></a>ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_JOIN_MESSAGE_ARENA_QUEUE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8" name="a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8"></a>ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_EXIT_MESSAGE_ARENA_QUEUE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00" name="a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953" name="a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_DESTROY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1" name="a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_CREATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa6d29f964ce1202e866efd07fcf7bf49a" name="a17a6e2af65c8cf024623d584c7f3a11fa6d29f964ce1202e866efd07fcf7bf49a"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_SETUP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa6660e58efa109e694bdb78d120bd290a" name="a17a6e2af65c8cf024623d584c7f3a11fa6660e58efa109e694bdb78d120bd290a"></a>ALLBATTLEGROUNDHOOK_CAN_ADD_GROUP_TO_MATCHING_POOL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fad51adb5145190199738023e77119f7fb" name="a17a6e2af65c8cf024623d584c7f3a11fad51adb5145190199738023e77119f7fb"></a>ALLBATTLEGROUNDHOOK_GET_PLAYER_MATCHMAKING_RATING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af" name="a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af"></a>ALLBATTLEGROUNDHOOK_END&#160;</td><td class="fielddoc"></td></tr>
 </table>
 <div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387">FIXED_DATE</a>,        <span class="comment">// Same month/day every year (e.g., Dec 25)</span></div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1">NTH_WEEKDAY</a>,       <span class="comment">// Nth weekday of month (e.g., 4th Thursday of Nov)</span></div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e">EASTER_OFFSET</a>,     <span class="comment">// Days relative to Easter Sunday</span></div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5">LUNAR_NEW_YEAR</a>,    <span class="comment">// Chinese New Year (new moon between Jan 21 - Feb 20)</span></div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4">WEEKDAY_ON_OR_AFTER</a>, <span class="comment">// First weekday on or after a date (e.g., first Monday on or after Feb 3)</span></div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca">AUTUMN_EQUINOX</a>,    <span class="comment">// Days relative to autumn equinox (offset in days)</span></div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06">WINTER_SOLSTICE</a>,   <span class="comment">// Days relative to winter solstice (offset in days)</span></div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6">DARKMOON_FAIRE</a>     <span class="comment">// First Sunday of months matching (month % 3 == locationOffset)</span></div>
-<div class="line"><span class="lineno">   35</span>};</div>
-<div class="ttc" id="aa01862_html_a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca"><div class="ttname"><a href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca">HolidayCalculationType::AUTUMN_EQUINOX</a></div><div class="ttdeci">@ AUTUMN_EQUINOX</div></div>
-<div class="ttc" id="aa01862_html_a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1"><div class="ttname"><a href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1">HolidayCalculationType::NTH_WEEKDAY</a></div><div class="ttdeci">@ NTH_WEEKDAY</div></div>
-<div class="ttc" id="aa01862_html_a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6"><div class="ttname"><a href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6">HolidayCalculationType::DARKMOON_FAIRE</a></div><div class="ttdeci">@ DARKMOON_FAIRE</div></div>
-<div class="ttc" id="aa01862_html_a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4"><div class="ttname"><a href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4">HolidayCalculationType::WEEKDAY_ON_OR_AFTER</a></div><div class="ttdeci">@ WEEKDAY_ON_OR_AFTER</div></div>
-<div class="ttc" id="aa01862_html_a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387"><div class="ttname"><a href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387">HolidayCalculationType::FIXED_DATE</a></div><div class="ttdeci">@ FIXED_DATE</div></div>
-<div class="ttc" id="aa01862_html_a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e"><div class="ttname"><a href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e">HolidayCalculationType::EASTER_OFFSET</a></div><div class="ttdeci">@ EASTER_OFFSET</div></div>
-<div class="ttc" id="aa01862_html_a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06"><div class="ttname"><a href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06">HolidayCalculationType::WINTER_SOLSTICE</a></div><div class="ttdeci">@ WINTER_SOLSTICE</div></div>
-<div class="ttc" id="aa01862_html_a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5"><div class="ttname"><a href="../../d0/d4a/a01862.html#a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5">HolidayCalculationType::LUNAR_NEW_YEAR</a></div><div class="ttdeci">@ LUNAR_NEW_YEAR</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="aec3d5ec6653b2c392d449500b8f5cb3a" name="aec3d5ec6653b2c392d449500b8f5cb3a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aec3d5ec6653b2c392d449500b8f5cb3a">&#9670;&#160;</a></span>Weekday</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum class <a class="el" href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5" name="aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5"></a>SUNDAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd" name="aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd"></a>MONDAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14" name="aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14"></a>TUESDAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825" name="aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825"></a>WEDNESDAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755" name="aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755"></a>THURSDAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936" name="aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936"></a>FRIDAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7" name="aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7"></a>SATURDAY&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   38</span>{</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5">SUNDAY</a> = 0,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd">MONDAY</a>,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14">TUESDAY</a>,</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825">WEDNESDAY</a>,</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755">THURSDAY</a>,</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936">FRIDAY</a>,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7">SATURDAY</a></div>
-<div class="line"><span class="lineno">   46</span>};</div>
-<div class="ttc" id="aa01862_html_aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14"><div class="ttname"><a href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14">Weekday::TUESDAY</a></div><div class="ttdeci">@ TUESDAY</div></div>
-<div class="ttc" id="aa01862_html_aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755"><div class="ttname"><a href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755">Weekday::THURSDAY</a></div><div class="ttdeci">@ THURSDAY</div></div>
-<div class="ttc" id="aa01862_html_aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936"><div class="ttname"><a href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936">Weekday::FRIDAY</a></div><div class="ttdeci">@ FRIDAY</div></div>
-<div class="ttc" id="aa01862_html_aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5"><div class="ttname"><a href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5">Weekday::SUNDAY</a></div><div class="ttdeci">@ SUNDAY</div></div>
-<div class="ttc" id="aa01862_html_aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd"><div class="ttname"><a href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd">Weekday::MONDAY</a></div><div class="ttdeci">@ MONDAY</div></div>
-<div class="ttc" id="aa01862_html_aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825"><div class="ttname"><a href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825">Weekday::WEDNESDAY</a></div><div class="ttdeci">@ WEDNESDAY</div></div>
-<div class="ttc" id="aa01862_html_aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7"><div class="ttname"><a href="../../d0/d4a/a01862.html#aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7">Weekday::SATURDAY</a></div><div class="ttdeci">@ SATURDAY</div></div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_START</a>,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END_REWARD</a>,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_UPDATE</a>,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_ADD_PLAYER</a>,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_BEFORE_ADD_PLAYER</a>,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_REMOVE_PLAYER_AT_LEAVE</a>,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7">ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE</a>,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5">ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE_VALIDITY</a>,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f">ALLBATTLEGROUNDHOOK_ON_ADD_GROUP</a>,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7">ALLBATTLEGROUNDHOOK_CAN_FILL_PLAYERS_TO_BG</a>,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323">ALLBATTLEGROUNDHOOK_IS_CHECK_NORMAL_MATCH</a>,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53">ALLBATTLEGROUNDHOOK_CAN_SEND_MESSAGE_BG_QUEUE</a>,</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5">ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_JOIN_MESSAGE_ARENA_QUEUE</a>,</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8">ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_EXIT_MESSAGE_ARENA_QUEUE</a>,</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END</a>,</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_DESTROY</a>,</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_CREATE</a>,</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa6d29f964ce1202e866efd07fcf7bf49a">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_SETUP</a>,</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa6660e58efa109e694bdb78d120bd290a">ALLBATTLEGROUNDHOOK_CAN_ADD_GROUP_TO_MATCHING_POOL</a>,</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fad51adb5145190199738023e77119f7fb">ALLBATTLEGROUNDHOOK_GET_PLAYER_MATCHMAKING_RATING</a>,</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af">ALLBATTLEGROUNDHOOK_END</a></div>
+<div class="line"><span class="lineno">   48</span>};</div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af">ALLBATTLEGROUNDHOOK_END</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_END</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:47</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_REMOVE_PLAYER_AT_LEAVE</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_REMOVE_PLAYER_AT_LEAVE</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:32</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_BEFORE_ADD_PLAYER</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_BEFORE_ADD_PLAYER</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:31</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7">ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:33</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_ADD_PLAYER</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_ADD_PLAYER</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:30</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_CREATE</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_CREATE</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:43</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END_REWARD</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END_REWARD</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:28</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11fa6660e58efa109e694bdb78d120bd290a"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa6660e58efa109e694bdb78d120bd290a">ALLBATTLEGROUNDHOOK_CAN_ADD_GROUP_TO_MATCHING_POOL</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_CAN_ADD_GROUP_TO_MATCHING_POOL</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:45</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11fa6d29f964ce1202e866efd07fcf7bf49a"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa6d29f964ce1202e866efd07fcf7bf49a">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_SETUP</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_SETUP</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:44</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_START</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_START</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:27</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8">ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_EXIT_MESSAGE_ARENA_QUEUE</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_EXIT_MESSAGE_ARENA_QUEUE</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:40</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7">ALLBATTLEGROUNDHOOK_CAN_FILL_PLAYERS_TO_BG</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_CAN_FILL_PLAYERS_TO_BG</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:36</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f">ALLBATTLEGROUNDHOOK_ON_ADD_GROUP</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_ADD_GROUP</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:35</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:41</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5">ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_JOIN_MESSAGE_ARENA_QUEUE</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_JOIN_MESSAGE_ARENA_QUEUE</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:39</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_UPDATE</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_UPDATE</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:29</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53">ALLBATTLEGROUNDHOOK_CAN_SEND_MESSAGE_BG_QUEUE</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_CAN_SEND_MESSAGE_BG_QUEUE</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:38</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11fad51adb5145190199738023e77119f7fb"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fad51adb5145190199738023e77119f7fb">ALLBATTLEGROUNDHOOK_GET_PLAYER_MATCHMAKING_RATING</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_GET_PLAYER_MATCHMAKING_RATING</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:46</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323">ALLBATTLEGROUNDHOOK_IS_CHECK_NORMAL_MATCH</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_IS_CHECK_NORMAL_MATCH</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:37</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5">ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE_VALIDITY</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE_VALIDITY</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:34</div></div>
+<div class="ttc" id="aa01862_html_a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953"><div class="ttname"><a href="../../d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_DESTROY</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_DESTROY</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:42</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -265,8 +277,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_be7ddcf5a4570b7daa864eaef60ffbc7.html">Events</a></li><li class="navelem"><a class="el" href="../../d0/d4a/a01862.html">HolidayDateCalculator.h</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 21:47:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d0/d4a/a01862.html">AllBattlegroundScript.h</a></li>
+    <li class="footer">Generated on Mon Jul 27 2026 21:42:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

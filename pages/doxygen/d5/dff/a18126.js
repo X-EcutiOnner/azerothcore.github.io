@@ -1,7 +1,7 @@
 var a18126 =
 [
-    [ "HandleDummy", "d5/dff/a18126.html#aa61db53d7395fd45b8569e12978fed0b", null ],
-    [ "PrepareSpellScript", "d5/dff/a18126.html#ab63054debe6763027ab52ad122277719", null ],
-    [ "Register", "d5/dff/a18126.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
-    [ "Validate", "d5/dff/a18126.html#adb7e30d10c2071de5d5070b64a10af30", null ]
+    [ "HandleDummy", "d5/dff/a18126.html#a6e5d70c35420384305d7faf991072b38", null ],
+    [ "PrepareSpellScript", "d5/dff/a18126.html#a64f912555853aab5693692b22eba52c4", null ],
+    [ "Register", "d5/dff/a18126.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
+    [ "Validate", "d5/dff/a18126.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
 ];

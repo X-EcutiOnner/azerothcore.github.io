@@ -1,6 +1,12 @@
 var a26470 =
 [
-    [ "FilterTargets", "dc/dcd/a26470.html#a17626abdbc4066956b76945b11b3f0c6", null ],
-    [ "PrepareSpellScript", "dc/dcd/a26470.html#abfeb75060c1f930b33003dd1e458f882", null ],
-    [ "Register", "dc/dcd/a26470.html#a8e5146a57f181b17280d198bcd2e216d", null ]
+    [ "CalcPeriodic", "dc/dcd/a26470.html#a5b57273e0d9fc39a000c7bf4e232acb4", null ],
+    [ "CalculateAPAmount", "dc/dcd/a26470.html#a65b6f1a2b322c928fd9a5992380d2e95", null ],
+    [ "CalculateResistanceAmount", "dc/dcd/a26470.html#a3860e12ea334cb61a437941b6f9b81e0", null ],
+    [ "CalculateSPAmount", "dc/dcd/a26470.html#abf0d76c220911d88990f3071f14a9d5a", null ],
+    [ "CalculateStatAmount", "dc/dcd/a26470.html#a56489b52592e63dd00640de388926512", null ],
+    [ "HandleEffectApply", "dc/dcd/a26470.html#a5180cc8beb5244bd0b957dfc89dc9cf4", null ],
+    [ "HandlePeriodic", "dc/dcd/a26470.html#a67cb7b817f29dd41aa7d0dc8c87dc820", null ],
+    [ "PrepareAuraScript", "dc/dcd/a26470.html#a5b65221c67283a29cbeb63cafe64457a", null ],
+    [ "Register", "dc/dcd/a26470.html#acc22795ea812f31b0b9e21e6494c2d19", null ]
 ];

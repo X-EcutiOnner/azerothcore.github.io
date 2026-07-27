@@ -1,5 +1,4 @@
 var a08038 =
 [
-    [ "IsColorValid", "df/d60/a08038.html#a537a2beaa8321095d2d67b8fb655acea", null ],
-    [ "IsTextValid", "df/d60/a08038.html#aeaa47302a91b5882afae3950ffc460cc", null ]
+    [ "TryConsume", "df/d60/a08038.html#a8a72f0b40aea9bf9d965bbbbe8a6cc82", null ]
 ];

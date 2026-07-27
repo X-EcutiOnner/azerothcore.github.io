@@ -1,5 +1,7 @@
 var a13002 =
 [
-    [ "go_blackened_urn", "d7/d0d/a13002.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
-    [ "OnGossipHello", "d7/d0d/a13002.html#ab091bd54734acc65532303a391441ee2", null ]
+    [ "HandleEffectScriptEffect", "d7/d0d/a13002.html#a8157c4b213b3b4e260222976e283e2ae", null ],
+    [ "PrepareSpellScript", "d7/d0d/a13002.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
+    [ "Register", "d7/d0d/a13002.html#aeda056b568b4956ba35b32a3f20c053e", null ],
+    [ "Validate", "d7/d0d/a13002.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
 ];

@@ -1,8 +1,8 @@
 var a21862 =
 [
-    [ "npc_adventurous_dwarfAI", "dd/daf/a21866.html", "dd/daf/a21866" ],
-    [ "npc_adventurous_dwarf", "de/d26/a21862.html#a15c39e217907189db9be7799e696f310", null ],
-    [ "GetAI", "de/d26/a21862.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
-    [ "OnGossipHello", "de/d26/a21862.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
-    [ "OnGossipSelect", "de/d26/a21862.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
+    [ "npc_q24545_vegardAI", "de/d26/a21862.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "de/d26/a21862.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "de/d26/a21862.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "de/d26/a21862.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "de/d26/a21862.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

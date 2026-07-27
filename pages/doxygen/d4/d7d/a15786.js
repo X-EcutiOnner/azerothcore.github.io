@@ -1,8 +1,7 @@
 var a15786 =
 [
-    [ "CheckRequirement", "d4/d7d/a15786.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "d4/d7d/a15786.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "d4/d7d/a15786.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "d4/d7d/a15786.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "d4/d7d/a15786.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_vekniss_stinger", "d4/d7d/a15786.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "d4/d7d/a15786.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "d4/d7d/a15786.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "d4/d7d/a15786.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

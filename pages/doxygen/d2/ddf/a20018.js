@@ -1,8 +1,11 @@
 var a20018 =
 [
-    [ "FilterTargets", "d2/ddf/a20018.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "d2/ddf/a20018.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "d2/ddf/a20018.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "d2/ddf/a20018.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "d2/ddf/a20018.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "boss_maiden_of_griefAI", "d2/ddf/a20018.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
+    [ "JustDied", "d2/ddf/a20018.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
+    [ "JustEngagedWith", "d2/ddf/a20018.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
+    [ "KilledUnit", "d2/ddf/a20018.html#a3d2173db5a852a356c187b2d2771b75f", null ],
+    [ "Reset", "d2/ddf/a20018.html#a46776004549b0dcfcf73351225adaad8", null ],
+    [ "UpdateAI", "d2/ddf/a20018.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
+    [ "events", "d2/ddf/a20018.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
+    [ "pInstance", "d2/ddf/a20018.html#abc195718a208a926f978d7f0fe0e7925", null ]
 ];

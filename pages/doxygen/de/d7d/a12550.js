@@ -1,8 +1,7 @@
 var a12550 =
 [
-    [ "boss_drakkisath", "de/d7d/a12550.html#a77fdb667d0dc262dcacc5e988cf5fc8e", null ],
-    [ "JustEngagedWith", "de/d7d/a12550.html#a502ca053bb96215c8386ee694a963cfa", null ],
-    [ "UpdateAI", "de/d7d/a12550.html#a90bf913d6d94e5fc6d982049dd96e3b1", null ],
-    [ "_conflagrateTarget", "de/d7d/a12550.html#aec0bd29626d8b59e33bfba370788ac40", null ],
-    [ "_conflagrateThreat", "de/d7d/a12550.html#ac1cb21a95bbfcfbffc5a3046b233c183", null ]
+    [ "player_commandscript", "de/d7d/a12550.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
+    [ "GetCommands", "de/d7d/a12550.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
+    [ "HandlePlayerLearnCommand", "de/d7d/a12550.html#a6ca511bcecf73049665772cb80dbcf40", null ],
+    [ "HandlePlayerUnLearnCommand", "de/d7d/a12550.html#a22fddb5da1278fe794a78a899c423bfd", null ]
 ];

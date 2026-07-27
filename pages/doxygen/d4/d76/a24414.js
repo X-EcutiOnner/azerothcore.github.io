@@ -1,8 +1,8 @@
 var a24414 =
 [
-    [ "AfterRemove", "d4/d76/a24414.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
-    [ "HandleDispel", "d4/d76/a24414.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
-    [ "PrepareAuraScript", "d4/d76/a24414.html#a44e66753516d693c31dba27c9d1ad250", null ],
-    [ "Register", "d4/d76/a24414.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
-    [ "Validate", "d4/d76/a24414.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
+    [ "npc_pet_darting_hatchling", "d4/d76/a24414.html#a7ae5973061068396bf382dc21e88cd44", null ],
+    [ "SpellHit", "d4/d76/a24414.html#a29ea5438bab7e606175c02165a607f9b", null ],
+    [ "UpdateAI", "d4/d76/a24414.html#a23196d05aebe5fa4a65455c55368820a", null ],
+    [ "checkTimer", "d4/d76/a24414.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
+    [ "goFast", "d4/d76/a24414.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
 ];

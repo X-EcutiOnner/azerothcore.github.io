@@ -1,5 +1,7 @@
 var a20430 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_12", "db/d6c/a20430.html#adc7f5769894c59710fa70604878b1e2c", null ],
-    [ "OnCheck", "db/d6c/a20430.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
+    [ "HandleAfterHit", "db/d6c/a20430.html#a75953cbb3a288fd373e602ed07d84441", null ],
+    [ "PrepareSpellScript", "db/d6c/a20430.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
+    [ "Register", "db/d6c/a20430.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
+    [ "Validate", "db/d6c/a20430.html#aea2b951dd2353800958f654df58d8fd8", null ]
 ];

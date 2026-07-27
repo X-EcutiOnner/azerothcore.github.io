@@ -1,11 +1,11 @@
 var a17338 =
 [
-    [ "npc_pos_leader_secondAI", "dc/d1a/a17338.html#a2ded8591da2548921cd016d592d1f1c8", null ],
-    [ "DoAction", "dc/d1a/a17338.html#a941d3b42d6a0e58496b724af56fee44a", null ],
-    [ "MovementInform", "dc/d1a/a17338.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
-    [ "SpellHitTarget", "dc/d1a/a17338.html#ae630b7b225379831d15a11f66507bc6a", null ],
-    [ "UpdateAI", "dc/d1a/a17338.html#a640aea9ce4a47dd13d417748e533fc33", null ],
-    [ "barrierGUID", "dc/d1a/a17338.html#a452c096475581c12bf2f4ccb12448026", null ],
-    [ "events", "dc/d1a/a17338.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
-    [ "pInstance", "dc/d1a/a17338.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
+    [ "npc_ghostly_priest", "dc/d1a/a17338.html#a154f4a7f9cd3c4088eada04c44f66f2b", null ],
+    [ "AttackStart", "dc/d1a/a17338.html#acbc2eb708773500136deebb8542d36aa", null ],
+    [ "DoAction", "dc/d1a/a17338.html#a0687e1c766c89b8b90cb620a4a2bef6d", null ],
+    [ "EnterEvadeMode", "dc/d1a/a17338.html#ac944330e3834bd4c65e30c595752746c", null ],
+    [ "JustDied", "dc/d1a/a17338.html#ae7ef06904aa2039d3552a2a62b846042", null ],
+    [ "JustEngagedWith", "dc/d1a/a17338.html#ada930b20b8f3b07f2da7bfa44025ed32", null ],
+    [ "Reset", "dc/d1a/a17338.html#a3bb7596f2a15c76eeb8f2b79fab8ddf1", null ],
+    [ "UpdateAI", "dc/d1a/a17338.html#a3722469ea1445f7dbaf834853a9ed654", null ]
 ];

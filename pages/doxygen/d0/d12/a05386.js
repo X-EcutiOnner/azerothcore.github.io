@@ -1,8 +1,7 @@
 var a05386 =
 [
-    [ "ComputeCell", "d0/d12/a05386.html#a32a8b5ab15a28fb06672fcf62ac63d1e", null ],
-    [ "isValid", "d0/d12/a05386.html#afe64d87e738675f1c8cb0fa6d440029c", null ],
-    [ "operator==", "d0/d12/a05386.html#a13e8b2fcda561f185777e4d8b48da3f5", null ],
-    [ "x", "d0/d12/a05386.html#a8435f7d7b8f529dfe397ada59e3405a1", null ],
-    [ "y", "d0/d12/a05386.html#af3d5ae020727d58286ef7725958063a9", null ]
+    [ "GameobjectModelData", "d0/d12/a05386.html#a7d259df5a5541f95e0f548674d023fc8", null ],
+    [ "bound", "d0/d12/a05386.html#ab133a32c9eefff0a35acaa4e157a3f05", null ],
+    [ "isWmo", "d0/d12/a05386.html#ac51305f0d800ff993e9a9cba2ccb6939", null ],
+    [ "name", "d0/d12/a05386.html#ac8a053b6f01a9917ee6b1fc2a738bb4e", null ]
 ];

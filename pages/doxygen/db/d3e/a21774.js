@@ -1,6 +1,6 @@
 var a21774 =
 [
-    [ "npc_guardian_pavilionAI", "dc/d86/a21778.html", "dc/d86/a21778" ],
-    [ "npc_guardian_pavilion", "db/d3e/a21774.html#aecc7e93f2b50351584049f031362e0f0", null ],
-    [ "GetAI", "db/d3e/a21774.html#a89e55b3267cd93ae688573678851c7b9", null ]
+    [ "npc_injured_7th_legion_soldierAI", "db/d3e/a21774.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
+    [ "MovementInform", "db/d3e/a21774.html#a999bc868db485578fcc70ae7e056b778", null ],
+    [ "Reset", "db/d3e/a21774.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
 ];

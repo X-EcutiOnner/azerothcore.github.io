@@ -1,17 +1,15 @@
 var a01496 =
 [
-    [ "Acore::Impl::ChatCommands::tag_base< T, typename >", "db/d70/a08028.html", "db/d70/a08028" ],
-    [ "Acore::Impl::ChatCommands::TokenizeResult", "dd/da6/a08032.html", "dd/da6/a08032" ],
-    [ "Acore::Impl::ChatCommands::are_all_assignable< T, Ts >", "d4/d28/a08036.html", "d4/d28/a08036" ],
-    [ "Acore::Impl::ChatCommands::are_all_assignable< void, Ts... >", "dd/d0b/a08040.html", "dd/d0b/a08040" ],
-    [ "Acore::Impl::ChatCommands::get_nth< index, T1, Ts >", "df/d6a/a08044.html", null ],
-    [ "Acore::Impl::ChatCommands::get_nth< 0, T1, Ts... >", "d4/dfb/a08048.html", "d4/dfb/a08048" ],
-    [ "Acore::Impl::ChatCommands::ChatCommandResult", "db/d5c/a08052.html", "db/d5c/a08052" ],
-    [ "get_nth_t", "d1/dde/a01496.html#acf7271fa50990dbd40fd90f127b9fb3b", null ],
-    [ "tag_base_t", "d1/dde/a01496.html#a61f1a636e46a7d78161298ae28844703", null ],
-    [ "FormatAcoreString", "d1/dde/a01496.html#a496bce28eb0bf0ac4b5e1c54c19193b7", null ],
-    [ "GetAcoreString", "d1/dde/a01496.html#a1106e69269315156c6019b7812547ce9", null ],
-    [ "SendErrorMessageToHandler", "d1/dde/a01496.html#aae4c9556d5cc172144fa280ca820226d", null ],
-    [ "tokenize", "d1/dde/a01496.html#aeca95018e8d551d917cf69e0764ccef7", null ],
-    [ "COMMAND_DELIMITER", "d1/dde/a01496.html#a068db55731856ca7770e1b09a4225aa2", null ]
+    [ "PoolTemplateData", "de/dbd/a10614.html", "de/dbd/a10614" ],
+    [ "PoolObject", "da/d7f/a10618.html", "da/d7f/a10618" ],
+    [ "Pool", "dc/d72/a10622.html", null ],
+    [ "ActivePoolData", "da/da2/a10626.html", "da/da2/a10626" ],
+    [ "PoolGroup< T >", "d8/d1e/a10630.html", "d8/d1e/a10630" ],
+    [ "PoolMgr", "db/d64/a10634.html", "db/d64/a10634" ],
+    [ "sPoolMgr", "d1/dde/a01496.html#a9189dd9c6265b9e6d57104dd61a5fe85", null ],
+    [ "ActivePoolObjects", "d1/dde/a01496.html#a6fd2b29871e3f63cf9cc493968a0ab74", null ],
+    [ "ActivePoolPools", "d1/dde/a01496.html#ad18a3f26065fec260d0281c5354067dd", null ],
+    [ "PooledQuestRelation", "d1/dde/a01496.html#ace9e74e256f166b08f2834044ecfba43", null ],
+    [ "PooledQuestRelationBounds", "d1/dde/a01496.html#adabd05f382474650e093706cf4ea4e35", null ],
+    [ "PooledQuestRelationBoundsNC", "d1/dde/a01496.html#a54dd98ebecf13a92dd29f7d3789d5b56", null ]
 ];

@@ -1,6 +1,7 @@
 var a26018 =
 [
-    [ "CheckProc", "d0/d54/a26018.html#a26a6b40751b0c0b68932b9a6438a4571", null ],
-    [ "PrepareAuraScript", "d0/d54/a26018.html#a7bde487cba726ab6601e82db8e2a092a", null ],
-    [ "Register", "d0/d54/a26018.html#a60130890b5e10e2f29c7eadb20c057b7", null ]
+    [ "HandleScript", "d0/d54/a26018.html#a7c7f92d21898322c501f582a524f4052", null ],
+    [ "Load", "d0/d54/a26018.html#a600eb87e8bbedd3504e3d259f89e3785", null ],
+    [ "PrepareSpellScript", "d0/d54/a26018.html#a8ae826705bd1a1f1da3160be73926d7b", null ],
+    [ "Register", "d0/d54/a26018.html#abda715e38cf19fa7276ec4f4a12d3b63", null ]
 ];

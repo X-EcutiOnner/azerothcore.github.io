@@ -1,10 +1,11 @@
 var a19726 =
 [
-    [ "npc_molten_golem", "d1/d41/a19726.html#a38350948396b7df97837780531f79515", null ],
-    [ "DamageTaken", "d1/d41/a19726.html#aa3521246b0c2bed18b5466879ec1d107", null ],
-    [ "DoAction", "d1/d41/a19726.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
-    [ "Reset", "d1/d41/a19726.html#a24e23d0959bcda5be05786381a35ac77", null ],
-    [ "UpdateAI", "d1/d41/a19726.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
-    [ "events", "d1/d41/a19726.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
-    [ "m_pInstance", "d1/d41/a19726.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
+    [ "npc_hover_disk", "d1/d41/a19726.html#af6f8ef0df4b64540f99adebdd709b00e", null ],
+    [ "AttackStart", "d1/d41/a19726.html#a3ea3d44f74f26115f0a29fad134fcfc8", null ],
+    [ "DoAction", "d1/d41/a19726.html#ae4141e5aed3cfdbf8d76ad55ce4463d9", null ],
+    [ "MoveInLineOfSight", "d1/d41/a19726.html#a0ad97e511bd01c269c04d2ccfe007f91", null ],
+    [ "MovementInform", "d1/d41/a19726.html#a9d1c7ac28f2c597864cf2c70ab0fb943", null ],
+    [ "PassengerBoarded", "d1/d41/a19726.html#ab7e712a9d5aec7c3112796316a7fe534", null ],
+    [ "UpdateAI", "d1/d41/a19726.html#add98702312084df553e24bcd4b632bb3", null ],
+    [ "events", "d1/d41/a19726.html#a073e1161eda3b714ad0d7ea96f865b6d", null ]
 ];

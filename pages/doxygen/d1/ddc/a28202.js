@@ -1,9 +1,6 @@
 var a28202 =
 [
-    [ "npc_fireworkAI", "d1/ddc/a28202.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "d1/ddc/a28202.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "d1/ddc/a28202.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "d1/ddc/a28202.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "d1/ddc/a28202.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "d1/ddc/a28202.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "go_l70_etc_musicAI", "d2/d31/a28206.html", "d2/d31/a28206" ],
+    [ "go_l70_etc_music", "d1/ddc/a28202.html#a766dccca12fc7959273ba1e3a278564f", null ],
+    [ "GetAI", "d1/ddc/a28202.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
 ];

@@ -1,6 +1,6 @@
 var a19998 =
 [
-    [ "npc_pool_of_tar", "dd/d2b/a19998.html#a03de46dfa133992d094ab607a49b7236", null ],
-    [ "DamageTaken", "dd/d2b/a19998.html#ac72ad742cb16e27abf25fe0e88408315", null ],
-    [ "SpellHit", "dd/d2b/a19998.html#a61886862df88b41bf0c6959c9a564cea", null ]
+    [ "boss_krystallusAI", "dc/d15/a20002.html", "dc/d15/a20002" ],
+    [ "boss_krystallus", "dd/d2b/a19998.html#a1d7453c9d67594bfdbd650fea897666a", null ],
+    [ "GetAI", "dd/d2b/a19998.html#aba14bcfa00a5d997959abd94af647bf4", null ]
 ];

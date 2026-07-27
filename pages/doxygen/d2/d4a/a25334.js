@@ -1,10 +1,7 @@
 var a25334 =
 [
-    [ "CheckPeriodicProc", "d2/d4a/a25334.html#abd7673f268b80681b27a862bd8013de3", null ],
-    [ "CheckProc", "d2/d4a/a25334.html#a439aa5395d222291fbd5943f853d8961", null ],
-    [ "CheckTrapProc", "d2/d4a/a25334.html#a0cbe419bde5ebc30dc599bbdd99d04eb", null ],
-    [ "HandleProc", "d2/d4a/a25334.html#a70fbabc5f07bfff080fe9af6f12d440e", null ],
-    [ "PrepareAuraScript", "d2/d4a/a25334.html#a475320d20875b2d710ed3734b78f4645", null ],
-    [ "Register", "d2/d4a/a25334.html#aca7649a87ace4e22793ca33705b1500c", null ],
-    [ "Validate", "d2/d4a/a25334.html#a45630b6dc703996321286ff16a17e3e3", null ]
+    [ "HandleStun", "d2/d4a/a25334.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
+    [ "PrepareAuraScript", "d2/d4a/a25334.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
+    [ "Register", "d2/d4a/a25334.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
+    [ "Validate", "d2/d4a/a25334.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
 ];

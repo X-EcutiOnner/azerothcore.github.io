@@ -1,8 +1,7 @@
 var a15010 =
 [
-    [ "hyjalThrallAI", "d5/d3b/a15010.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
-    [ "JustDied", "d5/d3b/a15010.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
-    [ "JustEngagedWith", "d5/d3b/a15010.html#a96706138634275ae7639c14f53cdd842", null ],
-    [ "Reset", "d5/d3b/a15010.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
-    [ "UpdateAI", "d5/d3b/a15010.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
+    [ "HandleEffectApply", "d5/d3b/a15010.html#a404f2134734e1d21201033b3f26e611e", null ],
+    [ "HandleEffectPeriodic", "d5/d3b/a15010.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
+    [ "PrepareAuraScript", "d5/d3b/a15010.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
+    [ "Register", "d5/d3b/a15010.html#ad239472c15ca0c73b053d112f538ecff", null ]
 ];

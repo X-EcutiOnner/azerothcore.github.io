@@ -1,6 +1,10 @@
 var a22662 =
 [
-    [ "HandleDummy", "df/df2/a22662.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
-    [ "PrepareSpellScript", "df/df2/a22662.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
-    [ "Register", "df/df2/a22662.html#a972574075c86c32593982add71dc893f", null ]
+    [ "boss_talon_king_ikiss", "df/df2/a22662.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "JustDied", "df/df2/a22662.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "df/df2/a22662.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "df/df2/a22662.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "df/df2/a22662.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "df/df2/a22662.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "df/df2/a22662.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

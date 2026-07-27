@@ -1,5 +1,6 @@
 var a10298 =
 [
-    [ "IdleMovementFactory", "d5/d5b/a10298.html#af2bb5ef9fe67f3dda64d6ce44e825f52", null ],
-    [ "Create", "d5/d5b/a10298.html#a5e99eab3436482927bc83100f85581cd", null ]
+    [ "UpdateRequest", "d5/d5b/a10298.html#a23b3dbcff54691b2710109a822a486a0", null ],
+    [ "~UpdateRequest", "d5/d5b/a10298.html#a240bdc56685c270c597588231c3bf8f8", null ],
+    [ "call", "d5/d5b/a10298.html#a8221fa415f828a4866f85f3983f7dab9", null ]
 ];

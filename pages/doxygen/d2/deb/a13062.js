@@ -1,6 +1,8 @@
 var a13062 =
 [
-    [ "HandleCast", "d2/deb/a13062.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
-    [ "PrepareSpellScript", "d2/deb/a13062.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
-    [ "Register", "d2/deb/a13062.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
+    [ "MajordomoAddData", "d2/deb/a13062.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
+    [ "MajordomoAddData", "d2/deb/a13062.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
+    [ "creatureEntry", "d2/deb/a13062.html#ae3a0444e88158123f4d6359328e89a1d", null ],
+    [ "guid", "d2/deb/a13062.html#a2f2b0aaace557361a21d1072f36933dc", null ],
+    [ "spawnPos", "d2/deb/a13062.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
 ];

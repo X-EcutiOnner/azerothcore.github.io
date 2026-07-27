@@ -1,11 +1,13 @@
 var a14830 =
 [
-    [ "HandleFinish", "db/d05/a14830.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
-    [ "HandleScript", "db/d05/a14830.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
-    [ "Load", "db/d05/a14830.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
-    [ "PrepareSpellScript", "db/d05/a14830.html#a9714f48de3982feb245f78efb8008f1b", null ],
-    [ "Register", "db/d05/a14830.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
-    [ "ThrowNextTorch", "db/d05/a14830.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
-    [ "Validate", "db/d05/a14830.html#a026fbf7123f6780459c19ff04b370b08", null ],
-    [ "handled", "db/d05/a14830.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
+    [ "npc_alexstraza_the_lifebinder", "db/d05/a14830.html#a7c30258540803bde75843cb070b6a288", null ],
+    [ "MoveInLineOfSight", "db/d05/a14830.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
+    [ "Reset", "db/d05/a14830.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
+    [ "SetData", "db/d05/a14830.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "sGossipSelect", "db/d05/a14830.html#a642390a59ff46236dc3b429f371ea8cd", null ],
+    [ "UpdateAI", "db/d05/a14830.html#ad13b21d571833210b1c069b7ea8bea05", null ],
+    [ "orphanGUID", "db/d05/a14830.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
+    [ "phase", "db/d05/a14830.html#a98216e43888854ac93f22169a0e253e5", null ],
+    [ "playerGUID", "db/d05/a14830.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
+    [ "timer", "db/d05/a14830.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
 ];

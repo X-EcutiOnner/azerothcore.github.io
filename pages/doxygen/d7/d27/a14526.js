@@ -1,6 +1,8 @@
 var a14526 =
 [
-    [ "HandleEffectApply", "d7/d27/a14526.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
-    [ "PrepareAuraScript", "d7/d27/a14526.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
-    [ "Register", "d7/d27/a14526.html#a2b39daf6fe325cfa909b964da62c2571", null ]
+    [ "FilterTargets", "d7/d27/a14526.html#a28450a72f3d8510bdf35390f56a67f71", null ],
+    [ "HandleScriptEffect", "d7/d27/a14526.html#af97c3c43da4b099bc37e2cf4f2733dce", null ],
+    [ "PrepareSpellScript", "d7/d27/a14526.html#ac9298a59bc8b9735c210b630c68a536e", null ],
+    [ "Register", "d7/d27/a14526.html#a3bfc71bb504a0eb0f63ff307c943c23e", null ],
+    [ "Validate", "d7/d27/a14526.html#a41b2f12ebf919b781fdefab3a42bdb84", null ]
 ];

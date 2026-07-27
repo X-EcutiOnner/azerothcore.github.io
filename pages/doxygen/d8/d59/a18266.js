@@ -1,6 +1,6 @@
 var a18266 =
 [
-    [ "boss_sindragosaAI", "d9/dbe/a18270.html", "d9/dbe/a18270" ],
-    [ "boss_sindragosa", "d8/d59/a18266.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
-    [ "GetAI", "d8/d59/a18266.html#a005a6da9f4f9690416a108872b3c2b36", null ]
+    [ "MalleableGooSelector", "d8/d59/a18266.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
+    [ "operator()", "d8/d59/a18266.html#adf73957539fdcc604f849944473e0015", null ],
+    [ "me", "d8/d59/a18266.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
 ];

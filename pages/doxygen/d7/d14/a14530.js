@@ -1,6 +1,7 @@
 var a14530 =
 [
-    [ "HandleAfterHit", "d7/d14/a14530.html#a4a3122d1b69baeae76f1ae3b6818bfb5", null ],
-    [ "PrepareSpellScript", "d7/d14/a14530.html#a284796ec70bdfaea9919f54da94f0021", null ],
-    [ "Register", "d7/d14/a14530.html#a30dcb608c20df17de9597ece1930d59d", null ]
+    [ "OnRemove", "d7/d14/a14530.html#ab909660f32a77e86fde5da35e2f69302", null ],
+    [ "PrepareAuraScript", "d7/d14/a14530.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
+    [ "Register", "d7/d14/a14530.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
+    [ "Validate", "d7/d14/a14530.html#abd1254c53c04f72f848d8641affc729d", null ]
 ];

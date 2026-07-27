@@ -1,10 +1,9 @@
 var a13698 =
 [
-    [ "MoveDelayed", "d3/d5b/a13698.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
-    [ "Execute", "d3/d5b/a13698.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
-    [ "_o", "d3/d5b/a13698.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
-    [ "_owner", "d3/d5b/a13698.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
-    [ "_x", "d3/d5b/a13698.html#aa490d19022c27932e76af38281fe158b", null ],
-    [ "_y", "d3/d5b/a13698.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
-    [ "_z", "d3/d5b/a13698.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
+    [ "spell_eredar_twins_apply_touch", "d3/d5b/a13698.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
+    [ "HandleApplyTouch", "d3/d5b/a13698.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
+    [ "PrepareSpellScript", "d3/d5b/a13698.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
+    [ "Register", "d3/d5b/a13698.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
+    [ "Validate", "d3/d5b/a13698.html#a36ff1d126191de7880d98242b3b714b5", null ],
+    [ "_touchSpell", "d3/d5b/a13698.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
 ];

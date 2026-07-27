@@ -1,7 +1,7 @@
 var a24602 =
 [
-    [ "if", "d5/dbf/a24602.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
-    [ "PrepareAuraScript", "d5/dbf/a24602.html#a01d974333043452a37ec3124d23b49f2", null ],
-    [ "Register", "d5/dbf/a24602.html#aeb6c695819e894aad8b210a237e6d315", null ],
-    [ "AuraEffectHandleModes", "d5/dbf/a24602.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
+    [ "CalculateAmount", "d5/dbf/a24602.html#ad99a4176d27864280a79ac548a57a4c8", null ],
+    [ "Load", "d5/dbf/a24602.html#aeafec50b06b5dd2f69ca6ab4096aea4d", null ],
+    [ "PrepareAuraScript", "d5/dbf/a24602.html#a76528513f0f6728e73085a3d403c3e59", null ],
+    [ "Register", "d5/dbf/a24602.html#a4d09be7d33755ae719138d079884e281", null ]
 ];

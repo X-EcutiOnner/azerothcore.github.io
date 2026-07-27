@@ -1,6 +1,7 @@
 var a21790 =
 [
-    [ "npc_blessed_bannerAI", "d4/d3f/a21794.html", "d4/d3f/a21794" ],
-    [ "npc_blessed_banner", "d7/dcb/a21790.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "d7/dcb/a21790.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "CheckRequirement", "d7/dcb/a21790.html#a41beb2c890137328734d6adb14e08302", null ],
+    [ "PrepareSpellScript", "d7/dcb/a21790.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
+    [ "Register", "d7/dcb/a21790.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
+    [ "SetDest", "d7/dcb/a21790.html#a431a556ab73f91ed63f5983e537834a5", null ]
 ];

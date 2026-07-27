@@ -1,10 +1,10 @@
 var a04694 =
 [
-    [ "Acore::ACLogSink< T >", "da/d96/a05868.html", "da/d96/a05868" ],
-    [ "Acore::AsyncProcessResultImplementation", "d8/d73/a05872.html", "d8/d73/a05872" ],
-    [ "CreateChildProcess", "d8/d12/a04694.html#a18bbd8a6717e647e963654123259a033", null ],
-    [ "MakeACLogSink", "d8/d12/a04694.html#adcee37690522709ab4bd0b6f6e757dc5", null ],
-    [ "SearchExecutableInPath", "d8/d12/a04694.html#a9de098dac5e38f8c2cdbeb1d4d706881", null ],
-    [ "StartAsyncProcess", "d8/d12/a04694.html#a021f51138f5726e712f00bdddf9be729", null ],
-    [ "StartProcess", "d8/d12/a04694.html#acfaf2f89a55d299aa04c494719dfedc8", null ]
+    [ "MySQLConnectionInfo", "df/d58/a06118.html", "df/d58/a06118" ],
+    [ "MySQLConnection", "d8/d2f/a06122.html", "d8/d2f/a06122" ],
+    [ "ConnectionFlags", "d8/d12/a04694.html#a008b1c9a9206a70569b89aea01ac321f", [
+      [ "CONNECTION_ASYNC", "d8/d12/a04694.html#a008b1c9a9206a70569b89aea01ac321faa12dee499d68ef84c216f874cb104fe9", null ],
+      [ "CONNECTION_SYNCH", "d8/d12/a04694.html#a008b1c9a9206a70569b89aea01ac321fa38de35d7007257d23046b73a6aec7946", null ],
+      [ "CONNECTION_BOTH", "d8/d12/a04694.html#a008b1c9a9206a70569b89aea01ac321fa69536f08cbcdbe5a0ff0d89981fc6b39", null ]
+    ] ]
 ];

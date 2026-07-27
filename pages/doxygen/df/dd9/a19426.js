@@ -1,5 +1,7 @@
 var a19426 =
 [
-    [ "at_thaddius_entrance", "df/dd9/a19426.html#ad81a60cac337baad82ea526de1d151d1", null ],
-    [ "_OnTrigger", "df/dd9/a19426.html#acc869cade2b48ceb782d78aa7df6f246", null ]
+    [ "OnRemove", "df/dd9/a19426.html#a4e6a66934a01d01c50208459f6771353", null ],
+    [ "PrepareAuraScript", "df/dd9/a19426.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
+    [ "Register", "df/dd9/a19426.html#a4890d35f2b0889156a437c95e49f528c", null ],
+    [ "Validate", "df/dd9/a19426.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
 ];

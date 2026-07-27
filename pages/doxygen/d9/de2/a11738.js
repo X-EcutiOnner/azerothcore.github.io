@@ -1,8 +1,8 @@
 var a11738 =
 [
-    [ "DirectionType", "d9/de2/a11738.html#a8491033c0286895c2d4d3280cfd529f0", null ],
-    [ "ObjectType", "d9/de2/a11738.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
-    [ "ReferenceType", "d9/de2/a11738.html#a44e310a789c4c5a288f07c9254ad389a", null ],
-    [ "SelectionCategory", "d9/de2/a11738.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
-    [ "SelectionCheckType", "d9/de2/a11738.html#a35c8d221b47de13408a0256598fa9d63", null ]
+    [ "PacketFilter", "d9/de2/a11738.html#accfa43359c62d2e9d6c38086c77374bd", null ],
+    [ "~PacketFilter", "d9/de2/a11738.html#a669531cfd9c06d5cf525986069117687", null ],
+    [ "Process", "d9/de2/a11738.html#a03679e3c241a535757608c63ca933ac9", null ],
+    [ "ProcessUnsafe", "d9/de2/a11738.html#a3e2bdc6d15cfd5cac1b9c130937599e3", null ],
+    [ "m_pSession", "d9/de2/a11738.html#ad3723289ea93f1095cf82584268335d9", null ]
 ];

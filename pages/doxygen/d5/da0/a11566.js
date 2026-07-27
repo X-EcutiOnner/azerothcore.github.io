@@ -1,11 +1,6 @@
 var a11566 =
 [
-    [ "Player", "d5/da0/a11566.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d5/da0/a11566.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Face", "d5/da0/a11566.html#a6334464eea38be514f3faa7538b39a5a", null ],
-    [ "FacialHair", "d5/da0/a11566.html#a44643270b211d275eb94283842791407", null ],
-    [ "Gender", "d5/da0/a11566.html#a14321ea3595debe2836eceab8a82f944", null ],
-    [ "HairColor", "d5/da0/a11566.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
-    [ "HairStyle", "d5/da0/a11566.html#ade5b2dff213547ab4d707070f8979085", null ],
-    [ "Skin", "d5/da0/a11566.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
+    [ "NameQuery", "d5/da0/a11566.html#a7dc5a2dceb475303db4b4ab0c0a6d23c", null ],
+    [ "Read", "d5/da0/a11566.html#ae4a16ebe5372214d3aec65b056a9426e", null ],
+    [ "Guid", "d5/da0/a11566.html#a52528a68f1c86196e7428f196f93d12b", null ]
 ];

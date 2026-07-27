@@ -1,9 +1,6 @@
 var a24490 =
 [
-    [ "FilterTargets", "dd/d80/a24490.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
-    [ "PrepareSpellScript", "dd/d80/a24490.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
-    [ "Register", "dd/d80/a24490.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
-    [ "SetTargets", "dd/d80/a24490.html#ac77e95af9b08118e87e3329eab5515ea", null ],
-    [ "Validate", "dd/d80/a24490.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
-    [ "_targets", "dd/d80/a24490.html#acc66768f54c514552f0ab01274c24f17", null ]
+    [ "HandlePeriodic", "dd/d80/a24490.html#adc387a1b001119b95179856c030853ad", null ],
+    [ "PrepareAuraScript", "dd/d80/a24490.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
+    [ "Register", "dd/d80/a24490.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
 ];

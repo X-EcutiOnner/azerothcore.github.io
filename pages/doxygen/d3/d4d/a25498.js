@@ -1,5 +1,10 @@
 var a25498 =
 [
-    [ "PrepareSpellScript", "d3/d4d/a25498.html#a64c8a9156181a78dfcb413eedc47f0ed", null ],
-    [ "Register", "d3/d4d/a25498.html#af8f8b5901a068bef3e2663809180b3e2", null ]
+    [ "CalcPeriodic", "d3/d4d/a25498.html#a4c5793639ad7715b0dc52a803546e7cf", null ],
+    [ "CalculateSpiritAmount", "d3/d4d/a25498.html#a5749d91e27de05f67110178f57c214e4", null ],
+    [ "HandleEffectApply", "d3/d4d/a25498.html#a0de0ba95c09c87054d63974943750805", null ],
+    [ "HandlePeriodic", "d3/d4d/a25498.html#a2ff4241cf4535a6cb8361b9f54d7a23c", null ],
+    [ "PrepareAuraScript", "d3/d4d/a25498.html#aaa2c2fea4310cdba1739f02afa48a318", null ],
+    [ "Register", "d3/d4d/a25498.html#ae9df15062a8bd776e9a5a4a5a53fac8f", null ],
+    [ "amount", "d3/d4d/a25498.html#af07c7c4a2f6a4d59bee8d44b46be5552", null ]
 ];

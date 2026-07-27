@@ -1,10 +1,9 @@
 var a24858 =
 [
-    [ "Load", "d9/dd0/a24858.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
-    [ "OnApply", "d9/dd0/a24858.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
-    [ "OnRemove", "d9/dd0/a24858.html#a29834c598d6ef8299d54e48a3461e603", null ],
-    [ "PrepareAuraScript", "d9/dd0/a24858.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
-    [ "Register", "d9/dd0/a24858.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
-    [ "Validate", "d9/dd0/a24858.html#aeaf16594f569af671d221234a4aa2c8b", null ],
-    [ "prevItem", "d9/dd0/a24858.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
+    [ "FilterTargets", "d9/dd0/a24858.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
+    [ "PrepareSpellScript", "d9/dd0/a24858.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
+    [ "Register", "d9/dd0/a24858.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
+    [ "SetTargets", "d9/dd0/a24858.html#ac77e95af9b08118e87e3329eab5515ea", null ],
+    [ "Validate", "d9/dd0/a24858.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
+    [ "_targets", "d9/dd0/a24858.html#acc66768f54c514552f0ab01274c24f17", null ]
 ];

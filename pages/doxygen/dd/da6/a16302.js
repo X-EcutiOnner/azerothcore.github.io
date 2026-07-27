@@ -1,7 +1,13 @@
 var a16302 =
 [
-    [ "HandleHit", "dd/da6/a16302.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "dd/da6/a16302.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "dd/da6/a16302.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "dd/da6/a16302.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "npc_shadowpriest_sezzizAI", "dd/da6/a16302.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
+    [ "AttackStart", "dd/da6/a16302.html#a8278a73501ea33164cbdef8599144f4a", null ],
+    [ "Reset", "dd/da6/a16302.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
+    [ "UpdateAI", "dd/da6/a16302.html#a1c0236b52d4cd87634659991e0dfc728", null ],
+    [ "_missingHPForHealTimer", "dd/da6/a16302.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
+    [ "_missingHPForRenewTimer", "dd/da6/a16302.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
+    [ "_physicScreemTimer", "dd/da6/a16302.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
+    [ "_shadowBoltTimer", "dd/da6/a16302.html#a34a18991ff2c0aafac15694ed9667193", null ],
+    [ "_summmonAddsCount", "dd/da6/a16302.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
+    [ "_summonAddsTimer", "dd/da6/a16302.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
 ];

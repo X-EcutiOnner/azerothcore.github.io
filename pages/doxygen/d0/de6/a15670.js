@@ -1,6 +1,5 @@
 var a15670 =
 [
-    [ "npc_stillpine_capitiveAI", "d2/d2f/a15674.html", "d2/d2f/a15674" ],
-    [ "npc_stillpine_capitive", "d0/de6/a15670.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
-    [ "GetAI", "d0/de6/a15670.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
+    [ "at_cthun_center", "d0/de6/a15670.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
+    [ "OnTrigger", "d0/de6/a15670.html#af744df9577e84ab64749076324e574c9", null ]
 ];

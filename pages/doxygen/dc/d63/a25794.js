@@ -1,9 +1,6 @@
 var a25794 =
 [
-    [ "OnEffectHitTargetDisarm", "dc/d63/a25794.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
-    [ "OnEffectHitTargetStun", "dc/d63/a25794.html#a5a5253b6d152b1af78de663c09451536", null ],
-    [ "OnEffectLaunchTargetDisarm", "dc/d63/a25794.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
-    [ "OnEffectLaunchTargetStun", "dc/d63/a25794.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
-    [ "PrepareSpellScript", "dc/d63/a25794.html#a113219d3376a23f8889f26f10744e7cb", null ],
-    [ "Register", "dc/d63/a25794.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
+    [ "HandlePreventAura", "dc/d63/a25794.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
+    [ "PrepareSpellScript", "dc/d63/a25794.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
+    [ "Register", "dc/d63/a25794.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
 ];

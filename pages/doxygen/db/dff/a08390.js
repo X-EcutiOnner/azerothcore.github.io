@@ -1,10 +1,9 @@
 var a08390 =
 [
-    [ "FormationMgr", "db/dff/a08390.html#ade1aa22473c112aed65d537929b07908", null ],
-    [ "~FormationMgr", "db/dff/a08390.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0", null ],
-    [ "AddCreatureToGroup", "db/dff/a08390.html#aef758bdbc8f93c8981aedd51d7e10a07", null ],
-    [ "instance", "db/dff/a08390.html#a871fec234a94e4adae07315a008acec3", null ],
-    [ "LoadCreatureFormations", "db/dff/a08390.html#af0ecde62fc5c4a3a2b3be16c58f51fde", null ],
-    [ "RemoveCreatureFromGroup", "db/dff/a08390.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364", null ],
-    [ "CreatureGroupMap", "db/dff/a08390.html#ac11a3dfbe6a4f7df01d966f14b0aecd9", null ]
+    [ "LFGGroupScript", "db/dff/a08390.html#adb7730ba67910121a255a6da535d2fc2", null ],
+    [ "OnAddMember", "db/dff/a08390.html#a43c29f1c4b0f78b203a8798e34e9bc4c", null ],
+    [ "OnChangeLeader", "db/dff/a08390.html#a3616c537eb39fe130c8fb24d93a0ead9", null ],
+    [ "OnDisband", "db/dff/a08390.html#a7d8d28f1919e407ed93474d970733d86", null ],
+    [ "OnInviteMember", "db/dff/a08390.html#a25add922fa708babe08c3bdaaa0c0d92", null ],
+    [ "OnRemoveMember", "db/dff/a08390.html#a1385adec817221a83653a6fa03e57858", null ]
 ];

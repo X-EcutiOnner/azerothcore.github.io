@@ -1,6 +1,6 @@
 var a20038 =
 [
-    [ "OnPeriodic", "d3/dd2/a20038.html#a379c55df994c58932fef7e7a59fd8426", null ],
-    [ "PrepareAuraScript", "d3/dd2/a20038.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
-    [ "Register", "d3/dd2/a20038.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "d8/d63/a20042.html", "d8/d63/a20042" ],
+    [ "boss_sjonnir_iron_sludge", "d3/dd2/a20038.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
+    [ "GetAI", "d3/dd2/a20038.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
 ];

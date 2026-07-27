@@ -1,9 +1,10 @@
 var a14002 =
 [
-    [ "npc_marzon_silent_bladeAI", "d8/dfe/a14002.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
-    [ "EnterEvadeMode", "d8/dfe/a14002.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
-    [ "JustEngagedWith", "d8/dfe/a14002.html#a116b3458f342811e378713e6a67f76a6", null ],
-    [ "MovementInform", "d8/dfe/a14002.html#a32201d45f0c19212becb6319a48366f8", null ],
-    [ "Reset", "d8/dfe/a14002.html#a51c2b16c767ce2922564dc9e4048e089", null ],
-    [ "UpdateAI", "d8/dfe/a14002.html#aa6686399b41d32429d530dcc2ec41185", null ]
+    [ "npc_partygoer_pather", "d8/dfe/a14002.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
+    [ "Initialize", "d8/dfe/a14002.html#afb114b0587c550e39c41e131364da663", null ],
+    [ "PathEndReached", "d8/dfe/a14002.html#a55833d306716ba411f96ecd024cc7c72", null ],
+    [ "Reset", "d8/dfe/a14002.html#ade2cc36ff49001138eee5b607ec83b12", null ],
+    [ "UpdateAI", "d8/dfe/a14002.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
+    [ "_events", "d8/dfe/a14002.html#ac210dc0286ded980e78743237a08bb23", null ],
+    [ "_path", "d8/dfe/a14002.html#a4da184c44858e99eca2b07193fd48f13", null ]
 ];

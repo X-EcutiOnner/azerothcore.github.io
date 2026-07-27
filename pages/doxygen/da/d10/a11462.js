@@ -1,6 +1,7 @@
 var a11462 =
 [
-    [ "TotemDestroyed", "da/d10/a11462.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
-    [ "Read", "da/d10/a11462.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
-    [ "Slot", "da/d10/a11462.html#a41eebde65aa696c2dec812da0aeab633", null ]
+    [ "TrainerBuySpell", "da/d10/a11462.html#a8afb92fb908d5efd54bcb78269069d39", null ],
+    [ "Read", "da/d10/a11462.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
+    [ "SpellID", "da/d10/a11462.html#ae342c806c8faabae54260a26659d49ea", null ],
+    [ "TrainerGUID", "da/d10/a11462.html#aca1d9dc89b96415a5065a67f7083423c", null ]
 ];

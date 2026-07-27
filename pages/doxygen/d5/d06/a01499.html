@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/DungeonFinding/LFG.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Events/GameEventMgr.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,194 +106,228 @@ $(document).ready(function(){initNavTree('d5/d06/a01499.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
+<a href="#define-members">Macros</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">LFG.h File Reference</div></div>
+  <div class="headertitle"><div class="title">GameEventMgr.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
-<code>#include &lt;array&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
 <code>#include &lt;map&gt;</code><br />
-<code>#include &lt;sstream&gt;</code><br />
+<code>#include &lt;unordered_map&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/db3/a08288.html">lfg::Lfg5Guids</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/deb/a09226.html">GameEventFinishCondition</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d07/a09230.html">GameEventQuestToEventConditionNum</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d44/a09234.html">GameEventData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ded/a09238.html">ModelEquip</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dca/a09242.html">NPCVendorEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dc1/a09246.html">GameEventMgr</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:dc/dcd/a05112"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html">lfg</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:adaa73d920934a951856f7ce003ce2342"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d06/a01499.html#adaa73d920934a951856f7ce003ce2342">max_ge_check_delay</a>&#160;&#160;&#160;<a class="el" href="../../d4/d8c/a00035.html#a219e927a5d306db9cd363487d1f94366">DAY</a></td></tr>
+<tr class="separator:adaa73d920934a951856f7ce003ce2342"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c1c916d94272dfe845b9cc5e8fc292a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d06/a01499.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>&#160;&#160;&#160;<a class="el" href="../../df/dc1/a09246.html#a05276e1cc9758c37008cfafe14dec717">GameEventMgr::instance</a>()</td></tr>
+<tr class="separator:a3c1c916d94272dfe845b9cc5e8fc292a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
 Typedefs</h2></td></tr>
-<tr class="memitem:a64b5a722b95a52923e0ddaae1402b8de"><td class="memItemLeft" align="right" valign="top">typedef std::list&lt; Lfg5Guids &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#a64b5a722b95a52923e0ddaae1402b8de">lfg::Lfg5GuidsList</a></td></tr>
-<tr class="separator:a64b5a722b95a52923e0ddaae1402b8de"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7f47ec56c1412d2da0ff629b760e7f5f"><td class="memItemLeft" align="right" valign="top">typedef std::set&lt; <a class="el" href="../../d8/d7c/a04601.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#a7f47ec56c1412d2da0ff629b760e7f5f">lfg::LfgDungeonSet</a></td></tr>
-<tr class="separator:a7f47ec56c1412d2da0ff629b760e7f5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7ad66b24daa968c5b9615224ddc10659"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d8/d7c/a04601.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d8/d7c/a04601.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#a7ad66b24daa968c5b9615224ddc10659">lfg::LfgLockMap</a></td></tr>
-<tr class="separator:a7ad66b24daa968c5b9615224ddc10659"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad2856c4b4e624c3f15d89ccae35370c9"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../db/dbe/a08804.html">ObjectGuid</a>, LfgLockMap &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#ad2856c4b4e624c3f15d89ccae35370c9">lfg::LfgLockPartyMap</a></td></tr>
-<tr class="separator:ad2856c4b4e624c3f15d89ccae35370c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a028c02c49f9146ef7d35fc893ac3c561"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../dc/d85/a01436.html#a62874da4f73709809fa3c7609d3e30af">GuidSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#a028c02c49f9146ef7d35fc893ac3c561">lfg::LfgGuidSet</a></td></tr>
-<tr class="separator:a028c02c49f9146ef7d35fc893ac3c561"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab39552a59eefab4f8d1b8005203f9f94"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../dc/d85/a01436.html#a5951d383f157ff0ed6d23ecef2213a4b">GuidList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#ab39552a59eefab4f8d1b8005203f9f94">lfg::LfgGuidList</a></td></tr>
-<tr class="separator:ab39552a59eefab4f8d1b8005203f9f94"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1b722a34b2bb9c6f6699bc774c2f246b"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../db/dbe/a08804.html">ObjectGuid</a>, <a class="el" href="../../d8/d7c/a04601.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#a1b722a34b2bb9c6f6699bc774c2f246b">lfg::LfgRolesMap</a></td></tr>
-<tr class="separator:a1b722a34b2bb9c6f6699bc774c2f246b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa69252a08e6df920bcc4beae271fb41b"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../db/dbe/a08804.html">ObjectGuid</a>, <a class="el" href="../../db/dbe/a08804.html">ObjectGuid</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#aa69252a08e6df920bcc4beae271fb41b">lfg::LfgGroupsMap</a></td></tr>
-<tr class="separator:aa69252a08e6df920bcc4beae271fb41b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac4262be385ac879bb433e00533d835c0"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d1/deb/a09226.html">GameEventFinishCondition</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d06/a01499.html#ac4262be385ac879bb433e00533d835c0">GameEventConditionMap</a></td></tr>
+<tr class="separator:ac4262be385ac879bb433e00533d835c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a065ef655b9009bee21abb924cb6f3baa"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#a065ef655b9009bee21abb924cb6f3baa">lfg::LFGEnum</a> { <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a065ef655b9009bee21abb924cb6f3baaab8f2d0b0ac5a1792e43f0e1c22426fe5">lfg::LFG_TANKS_NEEDED</a> = 1
+<tr class="memitem:aeb9f2334f35e9f2b2fd8c2ac5630e3b5"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5">GameEventState</a> { <br />
+&#160;&#160;<a class="el" href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921">GAMEEVENT_NORMAL</a> = 0
 , <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a065ef655b9009bee21abb924cb6f3baaa1e3d8db3c36adb0658523698531e36ff">lfg::LFG_HEALERS_NEEDED</a> = 1
+&#160;&#160;<a class="el" href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136">GAMEEVENT_WORLD_INACTIVE</a> = 1
 , <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a065ef655b9009bee21abb924cb6f3baaaed2c93535d7ee14377e3b48abe10c5c6">lfg::LFG_DPS_NEEDED</a> = 3
+&#160;&#160;<a class="el" href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7">GAMEEVENT_WORLD_CONDITIONS</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0">GAMEEVENT_WORLD_NEXTPHASE</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf">GAMEEVENT_WORLD_FINISHED</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81">GAMEEVENT_INTERNAL</a> = 5
 <br />
  }</td></tr>
-<tr class="separator:a065ef655b9009bee21abb924cb6f3baa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad029231df694177db4bad322ad868fdc"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#ad029231df694177db4bad322ad868fdc">lfg::LfgRoles</a> { <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#ad029231df694177db4bad322ad868fdca91a7fd2ae529c38df6417b72279c57ca">lfg::PLAYER_ROLE_NONE</a> = 0x00
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#ad029231df694177db4bad322ad868fdcac4fe0913fc02886cf3e87ff7a05b2246">lfg::PLAYER_ROLE_LEADER</a> = 0x01
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c">lfg::PLAYER_ROLE_TANK</a> = 0x02
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2">lfg::PLAYER_ROLE_HEALER</a> = 0x04
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#ad029231df694177db4bad322ad868fdca670b6714e53cc7bd31a2cf680d03efed">lfg::PLAYER_ROLE_DAMAGE</a> = 0x08
-<br />
- }</td></tr>
-<tr class="separator:ad029231df694177db4bad322ad868fdc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a253373c800edd65165575f01c960a500"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#a253373c800edd65165575f01c960a500">lfg::LfgUpdateType</a> { <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a253373c800edd65165575f01c960a500a205a4e1a6c81d8b5127b9972a4abdecf">lfg::LFG_UPDATETYPE_DEFAULT</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a253373c800edd65165575f01c960a500a5a246cd808c6b25e3ac9cf68452a9f3b">lfg::LFG_UPDATETYPE_LEADER_UNK1</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a253373c800edd65165575f01c960a500ab209eda24134308ca2745d9e5cc53e9b">lfg::LFG_UPDATETYPE_LEAVE_RAIDBROWSER</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a253373c800edd65165575f01c960a500a0878b4ee15b23920a7534bfa2da71078">lfg::LFG_UPDATETYPE_JOIN_RAIDBROWSER</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a253373c800edd65165575f01c960a500a593787d28828b964a48a797bb670ac3f">lfg::LFG_UPDATETYPE_ROLECHECK_ABORTED</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a253373c800edd65165575f01c960a500a843a0a69e134eb584c8e42713b094f6d">lfg::LFG_UPDATETYPE_JOIN_QUEUE</a> = 5
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a253373c800edd65165575f01c960a500a11fff6b6555015a22309efff672ff7af">lfg::LFG_UPDATETYPE_ROLECHECK_FAILED</a> = 6
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a253373c800edd65165575f01c960a500a59394c8e82825594d5cc7be68e652480">lfg::LFG_UPDATETYPE_REMOVED_FROM_QUEUE</a> = 7
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a253373c800edd65165575f01c960a500a34a8edfe49593e2326230d15e1de44f4">lfg::LFG_UPDATETYPE_PROPOSAL_FAILED</a> = 8
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a253373c800edd65165575f01c960a500a41059907b2febc8999f03523bd285421">lfg::LFG_UPDATETYPE_PROPOSAL_DECLINED</a> = 9
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a253373c800edd65165575f01c960a500a1dadbefb634e2a2a1cb29de62b37025a">lfg::LFG_UPDATETYPE_GROUP_FOUND</a> = 10
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a253373c800edd65165575f01c960a500a2c521c675958a24d656825edc0f194f0">lfg::LFG_UPDATETYPE_ADDED_TO_QUEUE</a> = 12
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a253373c800edd65165575f01c960a500a80ab24f22dc7eeaedf170d219ec3e015">lfg::LFG_UPDATETYPE_PROPOSAL_BEGIN</a> = 13
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a253373c800edd65165575f01c960a500a32d3aed08ac57ea8e0708f99b3c9f503">lfg::LFG_UPDATETYPE_UPDATE_STATUS</a> = 14
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a253373c800edd65165575f01c960a500a2ce2e6e42784e35c65a635945e37bbd5">lfg::LFG_UPDATETYPE_GROUP_MEMBER_OFFLINE</a> = 15
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a253373c800edd65165575f01c960a500a3730748e081139cd1ea6c20cd956aa58">lfg::LFG_UPDATETYPE_GROUP_DISBAND_UNK16</a> = 16
-<br />
- }</td></tr>
-<tr class="separator:a253373c800edd65165575f01c960a500"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a246dcd646c556ecaff639514ef9a80bd"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#a246dcd646c556ecaff639514ef9a80bd">lfg::LfgState</a> { <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a246dcd646c556ecaff639514ef9a80bdacfbad3fe693a63f528f32509a78c79f0">lfg::LFG_STATE_NONE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a246dcd646c556ecaff639514ef9a80bda46f76d2d406c05f3a70af703549ad901">lfg::LFG_STATE_ROLECHECK</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a246dcd646c556ecaff639514ef9a80bdaea7c189e5c3292416cbd788e048b8915">lfg::LFG_STATE_QUEUED</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a246dcd646c556ecaff639514ef9a80bda81ff40b31f8218c064e20184df97ea45">lfg::LFG_STATE_PROPOSAL</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a246dcd646c556ecaff639514ef9a80bda985d1a74011853d219a8e5b4e08c27e3">lfg::LFG_STATE_BOOT</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a246dcd646c556ecaff639514ef9a80bda6e3997033ed801ae9e367d9e213ca2fb">lfg::LFG_STATE_DUNGEON</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a246dcd646c556ecaff639514ef9a80bda6a43b274b2bb76912ca0fff4b7fc024d">lfg::LFG_STATE_FINISHED_DUNGEON</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a246dcd646c556ecaff639514ef9a80bda07544e99a884feb5e7d9bc8d9b336167">lfg::LFG_STATE_RAIDBROWSER</a>
-<br />
- }</td></tr>
-<tr class="separator:a246dcd646c556ecaff639514ef9a80bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a04ff8774a1ad0847dc787646d984934d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#a04ff8774a1ad0847dc787646d984934d">lfg::LfgLockStatusType</a> { <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a04ff8774a1ad0847dc787646d984934da02871a08b83930c1916bafc2d4f35d82">lfg::LFG_LOCKSTATUS_INSUFFICIENT_EXPANSION</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a04ff8774a1ad0847dc787646d984934da0fb465f4809634bc00b953b7d23edc41">lfg::LFG_LOCKSTATUS_TOO_LOW_LEVEL</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a04ff8774a1ad0847dc787646d984934da49c87af1548fab0d73904584928743d4">lfg::LFG_LOCKSTATUS_TOO_HIGH_LEVEL</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a04ff8774a1ad0847dc787646d984934da411fdeb6f56e70206f19f21b160ad54f">lfg::LFG_LOCKSTATUS_TOO_LOW_GEAR_SCORE</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a04ff8774a1ad0847dc787646d984934da62288c32a32b3bc15c18231b5db76edc">lfg::LFG_LOCKSTATUS_TOO_HIGH_GEAR_SCORE</a> = 5
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a04ff8774a1ad0847dc787646d984934da108fcafd94fd7f9e8e272a1018a1fa6b">lfg::LFG_LOCKSTATUS_RAID_LOCKED</a> = 6
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a04ff8774a1ad0847dc787646d984934dad3581eb39f585b9bf3e1fa5dfeaf2c91">lfg::LFG_LOCKSTATUS_ATTUNEMENT_TOO_LOW_LEVEL</a> = 1001
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a04ff8774a1ad0847dc787646d984934daa9c4cd0004bafac7ba6517116ba62e40">lfg::LFG_LOCKSTATUS_ATTUNEMENT_TOO_HIGH_LEVEL</a> = 1002
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a04ff8774a1ad0847dc787646d984934daecc07574ef81bb491ac68098777d7dc7">lfg::LFG_LOCKSTATUS_QUEST_NOT_COMPLETED</a> = 1022
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a04ff8774a1ad0847dc787646d984934da475d6afcb433cc04346fa4e44c2cc69e">lfg::LFG_LOCKSTATUS_MISSING_ITEM</a> = 1025
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a04ff8774a1ad0847dc787646d984934dadf18f20df955c492523edce427d81c22">lfg::LFG_LOCKSTATUS_NOT_IN_SEASON</a> = 1031
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a04ff8774a1ad0847dc787646d984934dad8270e4f972b44030fc82de6d6d7c685">lfg::LFG_LOCKSTATUS_MISSING_ACHIEVEMENT</a> = 1034
-<br />
- }</td></tr>
-<tr class="memdesc:a04ff8774a1ad0847dc787646d984934d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Instance lock types.  <a href="../../dc/dcd/a05112.html#a04ff8774a1ad0847dc787646d984934d">More...</a><br /></td></tr>
-<tr class="separator:a04ff8774a1ad0847dc787646d984934d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2f2c28e4e9ecf4a98d75b74d622161c5"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#a2f2c28e4e9ecf4a98d75b74d622161c5">lfg::LfgAnswer</a> { <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a2f2c28e4e9ecf4a98d75b74d622161c5a867e512f38813d5c2df36fb428caf084">lfg::LFG_ANSWER_PENDING</a> = -1
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a2f2c28e4e9ecf4a98d75b74d622161c5afa27871cefa441b0738133abbef89461">lfg::LFG_ANSWER_DENY</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a2f2c28e4e9ecf4a98d75b74d622161c5a07e18fcf478fdfb16df41e18db0e400e">lfg::LFG_ANSWER_AGREE</a> = 1
-<br />
- }</td></tr>
-<tr class="memdesc:a2f2c28e4e9ecf4a98d75b74d622161c5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Answer state (Also used to check compatibilites)  <a href="../../dc/dcd/a05112.html#a2f2c28e4e9ecf4a98d75b74d622161c5">More...</a><br /></td></tr>
-<tr class="separator:a2f2c28e4e9ecf4a98d75b74d622161c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9c710ddffaf321c88671cbef76241a48"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#a9c710ddffaf321c88671cbef76241a48">lfg::LfgRandomDungeonIds</a> : uint32 { <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a9c710ddffaf321c88671cbef76241a48a1ee6c66f03d73ada1266e243a7835ce1">lfg::RANDOM_DUNGEON_NORMAL_TBC</a> = 259
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a9c710ddffaf321c88671cbef76241a48a65a06ce48e454a1721c8c394594ce537">lfg::RANDOM_DUNGEON_HEROIC_TBC</a> = 260
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a9c710ddffaf321c88671cbef76241a48ab27907ebbf74ff9165edaac702da279b">lfg::RANDOM_DUNGEON_NORMAL_WOTLK</a> = 261
-, <br />
-&#160;&#160;<a class="el" href="../../dc/dcd/a05112.html#a9c710ddffaf321c88671cbef76241a48a7d5a552c4731932b74db36b62e6da10e">lfg::RANDOM_DUNGEON_HEROIC_WOTLK</a> = 262
-<br />
- }</td></tr>
-<tr class="separator:a9c710ddffaf321c88671cbef76241a48"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:aeb9f2334f35e9f2b2fd8c2ac5630e3b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aeaebe53b818ad905c96d2cc56c18b7ca"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#aeaebe53b818ad905c96d2cc56c18b7ca">lfg::ConcatenateDungeons</a> (LfgDungeonSet const &amp;dungeons)</td></tr>
-<tr class="separator:aeaebe53b818ad905c96d2cc56c18b7ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adc336ffd636b51b0052448739671d46b"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#adc336ffd636b51b0052448739671d46b">lfg::GetRolesString</a> (<a class="el" href="../../d8/d7c/a04601.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> roles)</td></tr>
-<tr class="separator:adc336ffd636b51b0052448739671d46b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9d097d73fe8f096de2098ac74022b643"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html#a9d097d73fe8f096de2098ac74022b643">lfg::GetStateString</a> (LfgState state)</td></tr>
-<tr class="separator:a9d097d73fe8f096de2098ac74022b643"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a429db26781d2673aa2f031fc1327ffaf"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d06/a01499.html#a429db26781d2673aa2f031fc1327ffaf">IsHolidayActive</a> (<a class="el" href="../../d0/df5/a02549.html#ad279224fea61f9754572051fc5ff1fab">HolidayIds</a> id)</td></tr>
+<tr class="separator:a429db26781d2673aa2f031fc1327ffaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad54f33b2e05154d9c2a384ff579b9208"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d06/a01499.html#ad54f33b2e05154d9c2a384ff579b9208">IsEventActive</a> (<a class="el" href="../../dc/d19/a00515.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> eventId)</td></tr>
+<tr class="separator:ad54f33b2e05154d9c2a384ff579b9208"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="adaa73d920934a951856f7ce003ce2342" name="adaa73d920934a951856f7ce003ce2342"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adaa73d920934a951856f7ce003ce2342">&#9670;&#160;</a></span>max_ge_check_delay</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define max_ge_check_delay&#160;&#160;&#160;<a class="el" href="../../d4/d8c/a00035.html#a219e927a5d306db9cd363487d1f94366">DAY</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a3c1c916d94272dfe845b9cc5e8fc292a" name="a3c1c916d94272dfe845b9cc5e8fc292a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c1c916d94272dfe845b9cc5e8fc292a">&#9670;&#160;</a></span>sGameEventMgr</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define sGameEventMgr&#160;&#160;&#160;<a class="el" href="../../df/dc1/a09246.html#a05276e1cc9758c37008cfafe14dec717">GameEventMgr::instance</a>()</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="ac4262be385ac879bb433e00533d835c0" name="ac4262be385ac879bb433e00533d835c0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac4262be385ac879bb433e00533d835c0">&#9670;&#160;</a></span>GameEventConditionMap</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::map&lt;<a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> , <a class="el" href="../../d1/deb/a09226.html">GameEventFinishCondition</a>&gt; <a class="el" href="../../d5/d06/a01499.html#ac4262be385ac879bb433e00533d835c0">GameEventConditionMap</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="aeb9f2334f35e9f2b2fd8c2ac5630e3b5" name="aeb9f2334f35e9f2b2fd8c2ac5630e3b5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeb9f2334f35e9f2b2fd8c2ac5630e3b5">&#9670;&#160;</a></span>GameEventState</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5">GameEventState</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921" name="aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921"></a>GAMEEVENT_NORMAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136" name="aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136"></a>GAMEEVENT_WORLD_INACTIVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7" name="aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7"></a>GAMEEVENT_WORLD_CONDITIONS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0" name="aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0"></a>GAMEEVENT_WORLD_NEXTPHASE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf" name="aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf"></a>GAMEEVENT_WORLD_FINISHED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81" name="aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81"></a>GAMEEVENT_INTERNAL&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   30</span>{</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921">GAMEEVENT_NORMAL</a>            = 0,    <span class="comment">// standard game events</span></div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136">GAMEEVENT_WORLD_INACTIVE</a>    = 1,    <span class="comment">// not yet started</span></div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7">GAMEEVENT_WORLD_CONDITIONS</a>  = 2,    <span class="comment">// condition matching phase</span></div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0">GAMEEVENT_WORLD_NEXTPHASE</a>   = 3,    <span class="comment">// conditions are met, now &#39;length&#39; timer to start next event</span></div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf">GAMEEVENT_WORLD_FINISHED</a>    = 4,    <span class="comment">// next events are started, unapply this one</span></div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81">GAMEEVENT_INTERNAL</a>          = 5,    <span class="comment">// never handled in update</span></div>
+<div class="line"><span class="lineno">   37</span>};</div>
+<div class="ttc" id="aa01499_html_aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921"><div class="ttname"><a href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921">GAMEEVENT_NORMAL</a></div><div class="ttdeci">@ GAMEEVENT_NORMAL</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:31</div></div>
+<div class="ttc" id="aa01499_html_aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81"><div class="ttname"><a href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81">GAMEEVENT_INTERNAL</a></div><div class="ttdeci">@ GAMEEVENT_INTERNAL</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:36</div></div>
+<div class="ttc" id="aa01499_html_aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf"><div class="ttname"><a href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf">GAMEEVENT_WORLD_FINISHED</a></div><div class="ttdeci">@ GAMEEVENT_WORLD_FINISHED</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:35</div></div>
+<div class="ttc" id="aa01499_html_aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7"><div class="ttname"><a href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7">GAMEEVENT_WORLD_CONDITIONS</a></div><div class="ttdeci">@ GAMEEVENT_WORLD_CONDITIONS</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:33</div></div>
+<div class="ttc" id="aa01499_html_aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0"><div class="ttname"><a href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0">GAMEEVENT_WORLD_NEXTPHASE</a></div><div class="ttdeci">@ GAMEEVENT_WORLD_NEXTPHASE</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:34</div></div>
+<div class="ttc" id="aa01499_html_aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136"><div class="ttname"><a href="../../d5/d06/a01499.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136">GAMEEVENT_WORLD_INACTIVE</a></div><div class="ttdeci">@ GAMEEVENT_WORLD_INACTIVE</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:32</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="ad54f33b2e05154d9c2a384ff579b9208" name="ad54f33b2e05154d9c2a384ff579b9208"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad54f33b2e05154d9c2a384ff579b9208">&#9670;&#160;</a></span>IsEventActive()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool IsEventActive </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/d19/a00515.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>eventId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 2048</span>{</div>
+<div class="line"><span class="lineno"> 2049</span>    <a class="code hl_typedef" href="../../df/dc1/a09246.html#a9d1e67f8edbe01fedd10c5fb0aeac2cf">GameEventMgr::ActiveEvents</a> <span class="keyword">const</span>&amp; ae = <a class="code hl_define" href="../../d5/d06/a01499.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;GetActiveEventList();</div>
+<div class="line"><span class="lineno"> 2050</span>    <span class="keywordflow">return</span> ae.find(eventId) != ae.end();</div>
+<div class="line"><span class="lineno"> 2051</span>}</div>
+<div class="ttc" id="aa01499_html_a3c1c916d94272dfe845b9cc5e8fc292a"><div class="ttname"><a href="../../d5/d06/a01499.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a></div><div class="ttdeci">#define sGameEventMgr</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:201</div></div>
+<div class="ttc" id="aa09246_html_a9d1e67f8edbe01fedd10c5fb0aeac2cf"><div class="ttname"><a href="../../df/dc1/a09246.html#a9d1e67f8edbe01fedd10c5fb0aeac2cf">GameEventMgr::ActiveEvents</a></div><div class="ttdeci">std::set&lt; uint16 &gt; ActiveEvents</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:106</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00201">sGameEventMgr</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l16233">Player::_LoadBrewOfTheMonth()</a>, <a class="el" href="../../#l00820">Battleground::EndBattleground()</a>, <a class="el" href="../../#l00240">GameEventMgr::LoadEventVendors()</a>, <a class="el" href="../../#l00036">npc_innkeeper::OnGossipHello()</a>, and <a class="el" href="../../#l00063">npc_innkeeper::OnGossipSelect()</a>.</p>
+
+</div>
+</div>
+<a id="a429db26781d2673aa2f031fc1327ffaf" name="a429db26781d2673aa2f031fc1327ffaf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a429db26781d2673aa2f031fc1327ffaf">&#9670;&#160;</a></span>IsHolidayActive()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool IsHolidayActive </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/df5/a02549.html#ad279224fea61f9754572051fc5ff1fab">HolidayIds</a>&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 2033</span>{</div>
+<div class="line"><span class="lineno"> 2034</span>    <span class="keywordflow">if</span> (<span class="keywordtype">id</span> == <a class="code hl_enumvalue" href="../../d0/df5/a02549.html#ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7">HOLIDAY_NONE</a>)</div>
+<div class="line"><span class="lineno"> 2035</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 2036</span> </div>
+<div class="line"><span class="lineno"> 2037</span>    <a class="code hl_typedef" href="../../df/dc1/a09246.html#a2d313485105c8ef04b27833f312a2601">GameEventMgr::GameEventDataMap</a> <span class="keyword">const</span>&amp; <a class="code hl_enumeration" href="../../d8/d3a/a04439.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a> = <a class="code hl_define" href="../../d5/d06/a01499.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;GetEventMap();</div>
+<div class="line"><span class="lineno"> 2038</span>    <a class="code hl_typedef" href="../../df/dc1/a09246.html#a9d1e67f8edbe01fedd10c5fb0aeac2cf">GameEventMgr::ActiveEvents</a> <span class="keyword">const</span>&amp; ae = <a class="code hl_define" href="../../d5/d06/a01499.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;GetActiveEventList();</div>
+<div class="line"><span class="lineno"> 2039</span> </div>
+<div class="line"><span class="lineno"> 2040</span>    <span class="keywordflow">for</span> (GameEventMgr::ActiveEvents::const_iterator itr = ae.begin(); itr != ae.end(); ++itr)</div>
+<div class="line"><span class="lineno"> 2041</span>        <span class="keywordflow">if</span> (<a class="code hl_enumeration" href="../../d8/d3a/a04439.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>[*itr].HolidayId == <span class="keywordtype">id</span>)</div>
+<div class="line"><span class="lineno"> 2042</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 2043</span> </div>
+<div class="line"><span class="lineno"> 2044</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 2045</span>}</div>
+<div class="ttc" id="aa02549_html_ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7"><div class="ttname"><a href="../../d0/df5/a02549.html#ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7">HOLIDAY_NONE</a></div><div class="ttdeci">@ HOLIDAY_NONE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:2975</div></div>
+<div class="ttc" id="aa04439_html_ad29858f6d8ab73f2970f41cb21a76b84"><div class="ttname"><a href="../../d8/d3a/a04439.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a></div><div class="ttdeci">events</div><div class="ttdef"><b>Definition:</b> boss_sartura.cpp:43</div></div>
+<div class="ttc" id="aa09246_html_a2d313485105c8ef04b27833f312a2601"><div class="ttname"><a href="../../df/dc1/a09246.html#a2d313485105c8ef04b27833f312a2601">GameEventMgr::GameEventDataMap</a></div><div class="ttdeci">std::vector&lt; GameEventData &gt; GameEventDataMap</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:107</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l02975">HOLIDAY_NONE</a>, and <a class="el" href="../../#l00201">sGameEventMgr</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02353">Player::CanUseItem()</a>, <a class="el" href="../../#l00909">BattlegroundMgr::IsBGWeekend()</a>, <a class="el" href="../../#l02882">lfg::LFGMgr::IsSeasonActive()</a>, <a class="el" href="../../#l00304">AchievementCriteriaData::Meets()</a>, <a class="el" href="../../#l00180">npc_midsummer_bonfire::npc_midsummer_bonfire()</a>, <a class="el" href="../../#l00438">spell_bonfires_blessing::OnApply()</a>, <a class="el" href="../../#l00157">MidsummerPlayerScript::OnPlayerUpdateZone()</a>, <a class="el" href="../../#l01241">BattlegroundAV::SetupBattleground()</a>, <a class="el" href="../../#l00517">go_brewfest_music::go_brewfest_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00664">go_pirate_day_music::go_pirate_day_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00719">go_darkmoon_faire_music::go_darkmoon_faire_musicAI::UpdateAI()</a>, and <a class="el" href="../../#l00774">go_midsummer_music::go_midsummer_musicAI::UpdateAI()</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_2a7b71c094ad98a6bd24c530fa7e48c4.html">DungeonFinding</a></li><li class="navelem"><a class="el" href="../../d5/d06/a01499.html">LFG.h</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 21:47:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_be7ddcf5a4570b7daa864eaef60ffbc7.html">Events</a></li><li class="navelem"><a class="el" href="../../d5/d06/a01499.html">GameEventMgr.h</a></li>
+    <li class="footer">Generated on Mon Jul 27 2026 21:42:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

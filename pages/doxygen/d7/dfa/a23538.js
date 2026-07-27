@@ -1,9 +1,7 @@
 var a23538 =
 [
-    [ "instance_the_eye_InstanceMapScript", "d7/dfa/a23538.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
-    [ "GetGuidData", "d7/dfa/a23538.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
-    [ "OnGameObjectCreate", "d7/dfa/a23538.html#a56c6933c2c231c228ca147107fbfc930", null ],
-    [ "BridgeWindowGUID", "d7/dfa/a23538.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
-    [ "KaelStateLeftGUID", "d7/dfa/a23538.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
-    [ "KaelStateRightGUID", "d7/dfa/a23538.html#a25ba703325800d2976eff860437f3d57", null ]
+    [ "PeriodicTick", "d7/dfa/a23538.html#a53541105e40202e4a73ecc38d84e9eca", null ],
+    [ "PrepareAuraScript", "d7/dfa/a23538.html#a79c8829a86db535e254db009d5286430", null ],
+    [ "Register", "d7/dfa/a23538.html#a58cd762eb10d224bb188aaf167c816b9", null ],
+    [ "Validate", "d7/dfa/a23538.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
 ];

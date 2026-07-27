@@ -1,7 +1,6 @@
 var a28170 =
 [
-    [ "npc_steam_tonkAI", "da/d4e/a28170.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "da/d4e/a28170.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "da/d4e/a28170.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "da/d4e/a28170.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "go_tadpole_cageAI", "d0/dbc/a28174.html", "d0/dbc/a28174" ],
+    [ "go_tadpole_cage", "da/d4e/a28170.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "da/d4e/a28170.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

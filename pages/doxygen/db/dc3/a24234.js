@@ -1,7 +1,6 @@
 var a24234 =
 [
-    [ "CalculateAmount", "db/dc3/a24234.html#ad99a4176d27864280a79ac548a57a4c8", null ],
-    [ "Load", "db/dc3/a24234.html#aeafec50b06b5dd2f69ca6ab4096aea4d", null ],
-    [ "PrepareAuraScript", "db/dc3/a24234.html#a76528513f0f6728e73085a3d403c3e59", null ],
-    [ "Register", "db/dc3/a24234.html#a4d09be7d33755ae719138d079884e281", null ]
+    [ "npc_enraged_spiritAI", "dd/df6/a24238.html", "dd/df6/a24238" ],
+    [ "npc_enraged_spirit", "db/dc3/a24234.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "db/dc3/a24234.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

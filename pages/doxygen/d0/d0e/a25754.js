@@ -1,7 +1,8 @@
 var a25754 =
 [
-    [ "HandleHeal", "d0/d0e/a25754.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
-    [ "Load", "d0/d0e/a25754.html#a4dd5016439e8798083fe3d4fa5458731", null ],
-    [ "PrepareSpellScript", "d0/d0e/a25754.html#a248ae6d2c8f8d6c014a0164105773836", null ],
-    [ "Register", "d0/d0e/a25754.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
+    [ "HandleRapidFireProc", "d0/d0e/a25754.html#a174eb1d766c0ae7f59fabdefe565e1de", null ],
+    [ "HandleRapidKillingProc", "d0/d0e/a25754.html#a12f24814d41837c8ddb8a42c8e932077", null ],
+    [ "PrepareAuraScript", "d0/d0e/a25754.html#aa75ea03f718a90a49d81ff49d765c74d", null ],
+    [ "Register", "d0/d0e/a25754.html#af1d93d8ea32a74f7bb6c115f21c5c6c3", null ],
+    [ "Validate", "d0/d0e/a25754.html#a01598fbd355dfdd4517d4221ad5ae323", null ]
 ];

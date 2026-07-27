@@ -1,7 +1,6 @@
 var a19546 =
 [
-    [ "HandlePull", "d4/d52/a19546.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "d4/d52/a19546.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "d4/d52/a19546.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "d4/d52/a19546.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "boss_kelthuzadAI", "d8/d38/a19550.html", "d8/d38/a19550" ],
+    [ "boss_kelthuzad", "d4/d52/a19546.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
+    [ "GetAI", "d4/d52/a19546.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
 ];

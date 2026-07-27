@@ -1,9 +1,8 @@
 var a26498 =
 [
-    [ "CheckCast", "df/d55/a26498.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
-    [ "HandleDummy", "df/d55/a26498.html#a7f79495525687fba6229f48935b2558a", null ],
-    [ "Load", "df/d55/a26498.html#a0c73457e44a3d64bdccee78d28893672", null ],
-    [ "PrepareSpellScript", "df/d55/a26498.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
-    [ "Register", "df/d55/a26498.html#ab9f09394ab301350a2abaefde90632fe", null ],
-    [ "Validate", "df/d55/a26498.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
+    [ "Absorb", "df/d55/a26498.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
+    [ "CalculateAmount", "df/d55/a26498.html#a20d5b4776ebeb859b0641af640e41d80", null ],
+    [ "PrepareAuraScript", "df/d55/a26498.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
+    [ "Register", "df/d55/a26498.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
+    [ "Validate", "df/d55/a26498.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
 ];

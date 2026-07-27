@@ -1,8 +1,8 @@
 var a09118 =
 [
-    [ "VehicleSeat", "d0/d65/a09118.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
-    [ "IsEmpty", "d0/d65/a09118.html#a9f68076857cb85ee7679f04043acdedc", null ],
-    [ "Passenger", "d0/d65/a09118.html#ac334f2f573bf52f164d570f8b83fc197", null ],
-    [ "SeatAddon", "d0/d65/a09118.html#a3c46401aa5859287e4bcb24141c848cc", null ],
-    [ "SeatInfo", "d0/d65/a09118.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
+    [ "CleanDamage", "d0/d65/a09118.html#ad25ab816a679e323c07873efbc1c2f20", null ],
+    [ "absorbed_damage", "d0/d65/a09118.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
+    [ "attackType", "d0/d65/a09118.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
+    [ "hitOutCome", "d0/d65/a09118.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
+    [ "mitigated_damage", "d0/d65/a09118.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
 ];

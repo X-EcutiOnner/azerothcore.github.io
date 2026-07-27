@@ -1,8 +1,6 @@
 var a13102 =
 [
-    [ "npc_tito", "dc/d4a/a13102.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
-    [ "JustEngagedWith", "dc/d4a/a13102.html#a71335c1474e8a29edf76addacb737fa9", null ],
-    [ "UpdateAI", "dc/d4a/a13102.html#ac357c29e68d8480d94349da844efd3ad", null ],
-    [ "_scheduler", "dc/d4a/a13102.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
-    [ "instance", "dc/d4a/a13102.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
+    [ "boss_sulfuron", "dc/d4a/a13102.html#a7ede84fab05e5cb008036be559c3c799", null ],
+    [ "ExecuteEvent", "dc/d4a/a13102.html#a5db50a398c704d8276566c1d74111d19", null ],
+    [ "JustEngagedWith", "dc/d4a/a13102.html#a320f58043ee525656a7c2fe94a2a4371", null ]
 ];

@@ -1,8 +1,15 @@
 var a17622 =
 [
-    [ "OnApply", "d6/d62/a17622.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
-    [ "OnRemove", "d6/d62/a17622.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
-    [ "PrepareAuraScript", "d6/d62/a17622.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
-    [ "Register", "d6/d62/a17622.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
-    [ "Validate", "d6/d62/a17622.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
+    [ "boss_gal_darah", "d6/d62/a17622.html#a036b5f96ecf5096040f16e0205e4d57c", null ],
+    [ "GetData", "d6/d62/a17622.html#a1f8ec6a0a95b10953506e08275db7a2c", null ],
+    [ "JustDied", "d6/d62/a17622.html#a98f53f7131155114da1eeb19f5a50daa", null ],
+    [ "JustEngagedWith", "d6/d62/a17622.html#acf7696bdfa868808f29a90dbec4b0688", null ],
+    [ "JustReachedHome", "d6/d62/a17622.html#aba3c2011a01d4e00b7e1c28f0c4326b9", null ],
+    [ "JustSummoned", "d6/d62/a17622.html#a490e259cf452c417864c978510d06fd2", null ],
+    [ "KilledUnit", "d6/d62/a17622.html#a799e52cfe029164149017ea7f963937f", null ],
+    [ "Reset", "d6/d62/a17622.html#a712339fe4a06d6a4836f4cbb5bd01625", null ],
+    [ "ScheduleEvents", "d6/d62/a17622.html#ad5acba3d3bc049bb5bdcb95d31ef06d6", null ],
+    [ "SpellHit", "d6/d62/a17622.html#a3f8cbe22aa2e0d39272b5b4dbfc5f06b", null ],
+    [ "_stampedeVictim", "d6/d62/a17622.html#a0d34c4486c4188fcc6eb75e904d52a61", null ],
+    [ "impaledList", "d6/d62/a17622.html#a08f311b7b7cec3bc4056b7d7071bfbf0", null ]
 ];

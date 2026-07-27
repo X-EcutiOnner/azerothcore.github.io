@@ -1,7 +1,8 @@
 var a20822 =
 [
-    [ "npc_frost_tomb", "d7/d3e/a20822.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "d7/d3e/a20822.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "d7/d3e/a20822.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "d7/d3e/a20822.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "boss_thorim_pillar", "d7/d3e/a20822.html#aec2fc6e420499c9ce991753b912bef1e", null ],
+    [ "Reset", "d7/d3e/a20822.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
+    [ "SpellHit", "d7/d3e/a20822.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
+    [ "UpdateAI", "d7/d3e/a20822.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
+    [ "_resetTimer", "d7/d3e/a20822.html#ac9c8ef8622496593b5f91611d22120b3", null ]
 ];

@@ -1,6 +1,6 @@
 var a13822 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "d3/d2f/a13826.html", "d3/d2f/a13826" ],
-    [ "instance_the_stockade", "db/dfd/a13822.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "db/dfd/a13822.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "FilterTargets", "db/dfd/a13822.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
+    [ "PrepareSpellScript", "db/dfd/a13822.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
+    [ "Register", "db/dfd/a13822.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
 ];

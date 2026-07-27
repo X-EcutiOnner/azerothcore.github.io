@@ -1,5 +1,5 @@
 var a01685 =
 [
-    [ "OutdoorPvP_grizzly_hills", "dc/d02/a22329.html", "dc/d02/a22329" ],
-    [ "AddSC_outdoorpvp_gh", "de/d96/a01685.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ]
+    [ "ScriptRegistry< AllItemScript >", "de/d96/a01685.html#a0f69164743e657905c670df85e97a29c", null ],
+    [ "ScriptRegistry< ItemScript >", "de/d96/a01685.html#a9f258d1e2f9fb6ce144923451b63f995", null ]
 ];

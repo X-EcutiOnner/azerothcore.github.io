@@ -1,12 +1,10 @@
 var a12942 =
 [
-    [ "BoardCell", "d9/d53/a12942.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
-    [ "Reset", "d9/d53/a12942.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
-    [ "SetData", "d9/d53/a12942.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
-    [ "SetPiece", "d9/d53/a12942.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
-    [ "col", "d9/d53/a12942.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
-    [ "pieceEntry", "d9/d53/a12942.html#a7697506ccc800d38968e457c44bfa019", null ],
-    [ "pieceGUID", "d9/d53/a12942.html#a74f494e406c56d4c61d79539acea684c", null ],
-    [ "row", "d9/d53/a12942.html#a195c187e134be546f224cbb0eef8c844", null ],
-    [ "triggerGUID", "d9/d53/a12942.html#a9cafdea50739b014a97e60611adcd3f1", null ]
+    [ "npc_corrupted_totem", "d9/d53/a12942.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
+    [ "IsSummonedBy", "d9/d53/a12942.html#ae8314903c9006b7bca94a47115a0d05b", null ],
+    [ "JustDied", "d9/d53/a12942.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
+    [ "Reset", "d9/d53/a12942.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
+    [ "SetAura", "d9/d53/a12942.html#a509688befda49f789f77ee0e4170a74e", null ],
+    [ "UpdateAI", "d9/d53/a12942.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
+    [ "_auraAdded", "d9/d53/a12942.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
 ];

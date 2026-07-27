@@ -1,6 +1,7 @@
 var a20986 =
 [
-    [ "boss_ymironAI", "de/d13/a20990.html", "de/d13/a20990" ],
-    [ "boss_ymiron", "dd/d92/a20986.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "dd/d92/a20986.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "boss_yoggsaron_corruptor_tentacle", "dd/d92/a20986.html#afc092be8079630b1214c98b8896a22c3", null ],
+    [ "DoAction", "dd/d92/a20986.html#adf9489b954cc83a26263ffffe4ef2dd5", null ],
+    [ "SelectCorruptionTarget", "dd/d92/a20986.html#a8b868941372af612e269e013594a5c14", null ],
+    [ "UpdateAI", "dd/d92/a20986.html#a2f8911a615d32689088a6c358ac80d3f", null ]
 ];

@@ -1,10 +1,9 @@
 var a10338 =
 [
-    [ "DistractMovementGenerator", "d5/d54/a10338.html#a55879290b06f4fc86a1da791c07b7afb", null ],
-    [ "Finalize", "d5/d54/a10338.html#aa4a2b943ecde8750bd764290d65872df", null ],
-    [ "GetMovementGeneratorType", "d5/d54/a10338.html#a0b30745bf1cd7b5a264e970273595592", null ],
-    [ "Initialize", "d5/d54/a10338.html#a71410ddbda2be6b34bb2276a83fea5c9", null ],
-    [ "Reset", "d5/d54/a10338.html#ad544709b2873b63b28d27ab414c280ba", null ],
-    [ "Update", "d5/d54/a10338.html#ad5a15c1507b8ab315b658351077629b3", null ],
-    [ "m_timer", "d5/d54/a10338.html#a8b520d8e97704ac39ce28c2256557b42", null ]
+    [ "TransportAnimation", "d5/d54/a10338.html#a775b84b54deefd38af40222afd82d572", null ],
+    [ "GetAnimNode", "d5/d54/a10338.html#a73b56750c90afce38dbf57793bae16f3", null ],
+    [ "GetAnimRotation", "d5/d54/a10338.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
+    [ "Path", "d5/d54/a10338.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
+    [ "Rotations", "d5/d54/a10338.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
+    [ "TotalTime", "d5/d54/a10338.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
 ];

@@ -1,19 +1,43 @@
 var a04505 =
 [
-    [ "VMAP::AreaAndLiquidData", "d8/dd0/a05235.html", "d8/dd0/a05235" ],
-    [ "VMAP::AreaAndLiquidData::AreaInfo", "d5/d5a/a05239.html", "d5/d5a/a05239" ],
-    [ "VMAP::AreaAndLiquidData::LiquidInfo", "da/dc9/a05243.html", "da/dc9/a05243" ],
-    [ "VMAP::IVMapMgr", "d8/da5/a05247.html", "d8/da5/a05247" ],
-    [ "VMAP_INVALID_HEIGHT", "d7/d43/a04505.html#aa3e862468079e7d1ca850fab429fb316", null ],
-    [ "VMAP_INVALID_HEIGHT_VALUE", "d7/d43/a04505.html#a6d0d846568e1fbb60e05aacfa9c1c73c", null ],
-    [ "LoadResult", "d7/d43/a04505.html#a3ca4e45c9be5012fb1af06ea12b759c2", [
-      [ "Success", "d7/d43/a04505.html#a3ca4e45c9be5012fb1af06ea12b759c2a505a83f220c02df2f85c3810cd9ceb38", null ],
-      [ "FileNotFound", "d7/d43/a04505.html#a3ca4e45c9be5012fb1af06ea12b759c2a2767828026039e8ba7b38973cbb701f2", null ],
-      [ "VersionMismatch", "d7/d43/a04505.html#a3ca4e45c9be5012fb1af06ea12b759c2a2d50084f04994afa70d78b604a22dd31", null ]
+    [ "npc_cork_gizelton", "d0/d29/a15938.html", "d0/d29/a15938" ],
+    [ "npc_cork_gizelton::npc_cork_gizeltonAI", "db/d73/a15942.html", "db/d73/a15942" ],
+    [ "npc_aged_dying_ancient_kodo", "d6/d2d/a15946.html", "d6/d2d/a15946" ],
+    [ "Caravan", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728", [
+      [ "QUEST_BODYGUARD_FOR_HIRE", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728a07d8fdc2ba6f3382ab9a9c0ccb910712", null ],
+      [ "QUEST_GIZELTON_CARAVAN", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728af1f220a5094995c40054b8afcfc956f9", null ],
+      [ "EVENT_RESUME_PATH", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728a69f42ceba9244cdbe2e7dfc9e833acc9", null ],
+      [ "EVENT_WAIT_FOR_ASSIST", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728ac88ffb83ceecf13ef48bd0988529cba7", null ],
+      [ "EVENT_RESTART_ESCORT", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728a7410480ad3fe5ae4742c8d12f885e2d1", null ],
+      [ "NPC_CORK_GIZELTON", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728a3ac8ce9d7c78aa74818eb286eb1530ba", null ],
+      [ "NPC_RIGGER_GIZELTON", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728a73d4fb993cb56f5e539c1255d432d1a5", null ],
+      [ "NPC_CARAVAN_KODO", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728ae4dd98db048a9b333326fb52a0a08858", null ],
+      [ "NPC_VENDOR_TRON", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728acb0c2bc0eea43af8bd0e1801fac8846f", null ],
+      [ "NPC_SUPER_SELLER", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728a8329377778d66d3c939420b04264e573", null ],
+      [ "SAY_CARAVAN_LEAVE", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728a52926a8d01b0b50f89cc5fb99e6919aa", null ],
+      [ "SAY_CARAVAN_HIRE", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728ab0f9b346c5f60c1ec44e45615f360ef3", null ],
+      [ "MAX_CARAVAN_SUMMONS", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728a4466b99c64cd47f91aec55ce7ef75362", null ],
+      [ "NPC_KOLKAR_WAYLAYER", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728af42ec3a8ba079cb93c6ad5406dcc4ece", null ],
+      [ "NPC_KOLKAR_AMBUSHER", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728a7a9eb27a8fb0e7ef6c66a86720d9233c", null ],
+      [ "NPC_LESSER_INFERNAL", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728aae0903900c838cf1102ca86baa598224", null ],
+      [ "NPC_DOOMWARDER", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728ae43176493b6aa526db1f2f2912bf6027", null ],
+      [ "NPC_NETHER", "d7/d43/a04505.html#aec2c916c560ca6ceedd660d3b140e728ac95afd23fdda714496e33c6aab109eda", null ]
     ] ],
-    [ "VMAP_LOAD_RESULT", "d7/d43/a04505.html#a70f18a0d29fcdc21e145ab8306987b18", [
-      [ "VMAP_LOAD_RESULT_ERROR", "d7/d43/a04505.html#a70f18a0d29fcdc21e145ab8306987b18a514fc6255627123117d881d4968bf663", null ],
-      [ "VMAP_LOAD_RESULT_OK", "d7/d43/a04505.html#a70f18a0d29fcdc21e145ab8306987b18a942b44b8a6db80f6d4ab19ebad17192b", null ],
-      [ "VMAP_LOAD_RESULT_IGNORED", "d7/d43/a04505.html#a70f18a0d29fcdc21e145ab8306987b18addac30ca7168c74f716b6923498e0165", null ]
-    ] ]
+    [ "DyingKodo", "d7/d43/a04505.html#af45ec6fee60329d3c66726e0fa939663", [
+      [ "SAY_SMEED_HOME", "d7/d43/a04505.html#af45ec6fee60329d3c66726e0fa939663a07ed71cb461662af72c9811505b9c955", null ],
+      [ "QUEST_KODO", "d7/d43/a04505.html#af45ec6fee60329d3c66726e0fa939663a8019fb9754f039595728a149d4c3214f", null ],
+      [ "NPC_TEXT_KODO", "d7/d43/a04505.html#af45ec6fee60329d3c66726e0fa939663a934cabb76d1cbddd53e5a682b3560c7e", null ],
+      [ "NPC_SMEED", "d7/d43/a04505.html#af45ec6fee60329d3c66726e0fa939663ab289aa3f772d2e87dad418d075ab8dce", null ],
+      [ "NPC_AGED_KODO", "d7/d43/a04505.html#af45ec6fee60329d3c66726e0fa939663ab93894e9256e085d45fb24b0d544e154", null ],
+      [ "NPC_DYING_KODO", "d7/d43/a04505.html#af45ec6fee60329d3c66726e0fa939663a6116f630ddd9390420cc6aa4230a862e", null ],
+      [ "NPC_ANCIENT_KODO", "d7/d43/a04505.html#af45ec6fee60329d3c66726e0fa939663a1267b33b446af4c80d35df16c24e2ac3", null ],
+      [ "NPC_TAMED_KODO", "d7/d43/a04505.html#af45ec6fee60329d3c66726e0fa939663a47e69d141a6091158f3102f0ebc301e3", null ],
+      [ "SPELL_KODO_KOMBO_ITEM", "d7/d43/a04505.html#af45ec6fee60329d3c66726e0fa939663ad0806f22dfe303368c6bfef3b25bdbe9", null ],
+      [ "SPELL_KODO_KOMBO_PLAYER_BUFF", "d7/d43/a04505.html#af45ec6fee60329d3c66726e0fa939663a77343420c8740b50963dbc05382dc5ea", null ],
+      [ "SPELL_KODO_KOMBO_DESPAWN_BUFF", "d7/d43/a04505.html#af45ec6fee60329d3c66726e0fa939663abf5a59eb8d83eefa21ea7e9b53e96ad5", null ],
+      [ "SPELL_KODO_KOMBO_GOSSIP", "d7/d43/a04505.html#af45ec6fee60329d3c66726e0fa939663a08489d27d91546512009b1555fa59de3", null ]
+    ] ],
+    [ "AddSC_desolace", "d7/d43/a04505.html#a626ec1db47701aabca9f7bda1c8b7c7a", null ],
+    [ "TIME_HIRE_STOP", "d7/d43/a04505.html#a4242da8a27377879882360b83ee517d5", null ],
+    [ "TIME_SHOP_STOP", "d7/d43/a04505.html#a74a579d621e86ff3a69ffef7b34efe7e", null ]
 ];

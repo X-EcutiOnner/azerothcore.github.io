@@ -1,7 +1,13 @@
 var a16122 =
 [
-    [ "HandleDummy", "de/dcc/a16122.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
-    [ "PrepareSpellScript", "de/dcc/a16122.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
-    [ "Register", "de/dcc/a16122.html#a4359ad73b513a368509a066a039ddf53", null ],
-    [ "_targetCount", "de/dcc/a16122.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
+    [ "npc_aquementasAI", "de/dcc/a16122.html#aad63986cdb8a65c528af3ccd114d2041", null ],
+    [ "JustEngagedWith", "de/dcc/a16122.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
+    [ "Reset", "de/dcc/a16122.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
+    [ "SendItem", "de/dcc/a16122.html#a60bafbd70783411236dcf3d0bfe244de", null ],
+    [ "UpdateAI", "de/dcc/a16122.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
+    [ "AquaJetTimer", "de/dcc/a16122.html#a8506acc69436af869d1404bd95109e68", null ],
+    [ "FrostShockTimer", "de/dcc/a16122.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
+    [ "isFriendly", "de/dcc/a16122.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
+    [ "SendItemTimer", "de/dcc/a16122.html#a3a0883b43056b176ef2ae55673adacf3", null ],
+    [ "SwitchFactionTimer", "de/dcc/a16122.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
 ];

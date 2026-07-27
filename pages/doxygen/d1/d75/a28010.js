@@ -1,10 +1,5 @@
 var a28010 =
 [
-    [ "npc_prof_blacksmith", "d1/d75/a28010.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "d1/d75/a28010.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "d1/d75/a28010.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "d1/d75/a28010.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "d1/d75/a28010.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "d1/d75/a28010.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "d1/d75/a28010.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "achievement_not_even_a_scratch", "d1/d75/a28010.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "d1/d75/a28010.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

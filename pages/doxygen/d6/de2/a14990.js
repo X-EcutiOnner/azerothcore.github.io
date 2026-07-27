@@ -1,7 +1,5 @@
 var a14990 =
 [
-    [ "OnPeriodic", "d6/de2/a14990.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
-    [ "PrepareAuraScript", "d6/de2/a14990.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
-    [ "Register", "d6/de2/a14990.html#aeb388d608830aeb3b30f707304403b41", null ],
-    [ "Validate", "d6/de2/a14990.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
+    [ "PrepareSpellScript", "d6/de2/a14990.html#a50ee42c11937759b6c52c2ab994481c4", null ],
+    [ "Register", "d6/de2/a14990.html#a8dc12a723c2da948c38119e3fc34df35", null ]
 ];

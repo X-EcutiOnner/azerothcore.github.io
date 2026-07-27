@@ -1,9 +1,8 @@
 var a11262 =
 [
-    [ "LevelUpInfo", "dd/d1f/a11262.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
-    [ "Write", "dd/d1f/a11262.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
-    [ "HealthDelta", "dd/d1f/a11262.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
-    [ "Level", "dd/d1f/a11262.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
-    [ "PowerDelta", "dd/d1f/a11262.html#a697da64ac234c24fe73e68d408697ee6", null ],
-    [ "StatDelta", "dd/d1f/a11262.html#a580e4a3cd77631e960b7753542375d6d", null ]
+    [ "SetDungeonDifficulty", "dd/d1f/a11262.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
+    [ "Write", "dd/d1f/a11262.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
+    [ "Difficulty", "dd/d1f/a11262.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
+    [ "IsInGroup", "dd/d1f/a11262.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
+    [ "Unk", "dd/d1f/a11262.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
 ];

@@ -1,6 +1,10 @@
 var a25234 =
 [
-    [ "PrepareAuraScript", "de/dee/a25234.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "de/dee/a25234.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "de/dee/a25234.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "Load", "de/dee/a25234.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
+    [ "OnPeriodic", "de/dee/a25234.html#ab1dc8acb8072f70625375480742fee5e", null ],
+    [ "PrepareAuraScript", "de/dee/a25234.html#a2e81d03893b23aa8dc9c615683206f75", null ],
+    [ "Register", "de/dee/a25234.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
+    [ "Validate", "de/dee/a25234.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
+    [ "_applyTimes", "de/dee/a25234.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
+    [ "stackAmount", "de/dee/a25234.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
 ];

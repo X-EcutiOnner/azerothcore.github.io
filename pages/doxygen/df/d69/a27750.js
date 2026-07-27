@@ -1,9 +1,7 @@
 var a27750 =
 [
-    [ "ChatLogScript", "df/d69/a27750.html#ade8c407083cf094f0767412e7b6d7730", null ],
-    [ "OnPlayerCanUseChat", "df/d69/a27750.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
-    [ "OnPlayerCanUseChat", "df/d69/a27750.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
-    [ "OnPlayerCanUseChat", "df/d69/a27750.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
-    [ "OnPlayerCanUseChat", "df/d69/a27750.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
-    [ "OnPlayerCanUseChat", "df/d69/a27750.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
+    [ "HandleProc", "df/d69/a27750.html#a2a1d6c4a6fdcfbb0ab34769649dbe321", null ],
+    [ "PrepareAuraScript", "df/d69/a27750.html#afa1f4cba7a02cb4a92a67c6e41d3349c", null ],
+    [ "Register", "df/d69/a27750.html#ae3711d9dff0acd196b1fae8e2285fb2a", null ],
+    [ "Validate", "df/d69/a27750.html#a77b31ab1d2952c5d77e8a1ca9cf18405", null ]
 ];

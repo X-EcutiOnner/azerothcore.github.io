@@ -1,10 +1,16 @@
 var a08874 =
 [
-    [ "DuelInfo", "d6/ddd/a08874.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
-    [ "Initiator", "d6/ddd/a08874.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
-    [ "IsMounted", "d6/ddd/a08874.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
-    [ "Opponent", "d6/ddd/a08874.html#a2765770367c839ad28f804e2df3205cb", null ],
-    [ "OutOfBoundsTime", "d6/ddd/a08874.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
-    [ "StartTime", "d6/ddd/a08874.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
-    [ "State", "d6/ddd/a08874.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
+    [ "WorldLocation", "d6/ddd/a08874.html#a424e67f5a820f3396ed6a02c3daa05fb", null ],
+    [ "WorldLocation", "d6/ddd/a08874.html#a04d7814f5d846259c5af562ce856f468", null ],
+    [ "GetDebugInfo", "d6/ddd/a08874.html#a0b3f13522d288dde484c70cbf8ef5fc5", null ],
+    [ "GetMapId", "d6/ddd/a08874.html#a2682e56ae4f0ce4b517a8ba3cd2798b1", null ],
+    [ "GetWorldLocation", "d6/ddd/a08874.html#a48cad9058b04a5108c4b99c7fd4d0bfe", null ],
+    [ "GetWorldLocation", "d6/ddd/a08874.html#aa2623109f914fd8592f865545696d27b", null ],
+    [ "GetWorldLocation", "d6/ddd/a08874.html#a75c59d33f5aac8da8eb9b8c5e2711acf", null ],
+    [ "GetWorldLocation", "d6/ddd/a08874.html#aed21eb7d191b1e34ebd1456b427fbb2c", null ],
+    [ "GetWorldLocation", "d6/ddd/a08874.html#abb5d3b7c89fa4a39d2486f2f943159e4", null ],
+    [ "SetMapId", "d6/ddd/a08874.html#ac425c27c61ecc169fe3df61991011988", null ],
+    [ "WorldRelocate", "d6/ddd/a08874.html#adc762865d564319245ffc3363c080365", null ],
+    [ "WorldRelocate", "d6/ddd/a08874.html#a019c9b00af8ee60c911430d1ce758662", null ],
+    [ "m_mapId", "d6/ddd/a08874.html#a88161a79f13aa3ab267096cfa8e5d0ed", null ]
 ];

@@ -1,10 +1,9 @@
 var a08926 =
 [
-    [ "TradeStatusInfo", "d0/d16/a08926.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
-    [ "IsTargetResult", "d0/d16/a08926.html#a10427d72e5bafd643648638a1fe7e854", null ],
-    [ "ItemLimitedByLimitCategory", "d0/d16/a08926.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
-    [ "Result", "d0/d16/a08926.html#ac90552353a0fb8ff175fec99bf573981", null ],
-    [ "Slot", "d0/d16/a08926.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
-    [ "Status", "d0/d16/a08926.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
-    [ "TraderGuid", "d0/d16/a08926.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
+    [ "category", "d0/d16/a08926.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
+    [ "end", "d0/d16/a08926.html#a8cc857ef51745900398765164a450a50", null ],
+    [ "itemid", "d0/d16/a08926.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
+    [ "maxduration", "d0/d16/a08926.html#a94b98afb7651e2c6b99ee79f85702259", null ],
+    [ "needSendToClient", "d0/d16/a08926.html#a678f56b6723567f984a0188b85a6f9df", null ],
+    [ "sendToSpectator", "d0/d16/a08926.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
 ];

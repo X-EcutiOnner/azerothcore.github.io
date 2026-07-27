@@ -1,15 +1,11 @@
 var a05330 =
 [
-    [ "GetBounds", "db/d4c/a05330.html#a4a112397e75fbaf5fd991a322a8a4ea4", null ],
-    [ "operator==", "db/d4c/a05330.html#ab9713afd57c0bdf9f5ff8d5d12cd567f", null ],
-    [ "readFromFile", "db/d4c/a05330.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
-    [ "writeToFile", "db/d4c/a05330.html#ae8623dcb78a2af4c9aebd60f67649f34", null ],
-    [ "adtId", "db/d4c/a05330.html#a4ebcfe8326eff028e722c9972a16200b", null ],
-    [ "flags", "db/d4c/a05330.html#acfc7a76db09013abfad8e42aaae59f52", null ],
-    [ "iBound", "db/d4c/a05330.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],
-    [ "ID", "db/d4c/a05330.html#ab2fdb441870d6ac7ddc05640ec1d0598", null ],
-    [ "iPos", "db/d4c/a05330.html#abb5966f87710bc6a1f5da766c99b3e12", null ],
-    [ "iRot", "db/d4c/a05330.html#a6d0b4f6bde1a20b246e4b22cc43e25af", null ],
-    [ "iScale", "db/d4c/a05330.html#aad355d0fb09ff0360ed19610bef92d8e", null ],
-    [ "name", "db/d4c/a05330.html#a66e19a4a28f8fc0c537f1315d9bddcfb", null ]
+    [ "MmapTileHeader", "db/d4c/a05330.html#a0165f9a4caee4e4759ea261dfbac08a7", null ],
+    [ "dtVersion", "db/d4c/a05330.html#a34d3ed8c617139653176454d7fa7934e", null ],
+    [ "mmapMagic", "db/d4c/a05330.html#ace0ec88460c97f1438de2d0e6a9d7774", null ],
+    [ "mmapVersion", "db/d4c/a05330.html#a5cc3cd873419fe8aeb479d3187584410", null ],
+    [ "padding", "db/d4c/a05330.html#a6ca977b85a993eb6721e3bfe9fd3abfd", null ],
+    [ "recastConfig", "db/d4c/a05330.html#a6552d0370a83567a4d01b4c20adff8cc", null ],
+    [ "size", "db/d4c/a05330.html#a69f3284a4a56b1108792ba56c250bf97", null ],
+    [ "usesLiquids", "db/d4c/a05330.html#aeb4e622161a4bb42cff42d37542f0254", null ]
 ];

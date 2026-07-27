@@ -1,6 +1,6 @@
 var a12046 =
 [
-    [ "Command", "d4/d19/a12046.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
-    [ "Data", "d4/d19/a12046.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
-    [ "DataSize", "d4/d19/a12046.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
+    [ "HitHandler", "d4/d19/a12046.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
+    [ "Call", "d4/d19/a12046.html#a157baaa3ceba62a9910cba5377bd7699", null ],
+    [ "pHitHandlerScript", "d4/d19/a12046.html#ac24144e49930a01a3049740a4072f626", null ]
 ];

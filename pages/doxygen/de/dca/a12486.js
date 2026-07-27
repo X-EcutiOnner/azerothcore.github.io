@@ -1,6 +1,6 @@
 var a12486 =
 [
-    [ "boss_anubshiah", "de/dca/a12486.html#aa8e436501ebf08465a9742dedb5901fc", null ],
-    [ "JustEngagedWith", "de/dca/a12486.html#aedd04c5765ca4360d8290fac7e7b9c55", null ],
-    [ "UpdateAI", "de/dca/a12486.html#a0a3cbdd6be45415723cbadb40478831a", null ]
+    [ "inventory_commandscript", "de/dca/a12486.html#a765d3606093dd3e15bb59c058333dca7", null ],
+    [ "GetCommands", "de/dca/a12486.html#ac002b65cbe2e5dafc7614c7afa4a20e6", null ],
+    [ "HandleInventoryCountCommand", "de/dca/a12486.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3", null ]
 ];

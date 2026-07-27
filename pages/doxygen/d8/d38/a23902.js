@@ -1,8 +1,6 @@
 var a23902 =
 [
-    [ "npc_kservantAI", "d8/d38/a23902.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "d8/d38/a23902.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "d8/d38/a23902.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "d8/d38/a23902.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
-    [ "WaypointReached", "d8/d38/a23902.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "instance_the_eye_InstanceMapScript", "db/dbb/a23906.html", "db/dbb/a23906" ],
+    [ "instance_the_eye", "d8/d38/a23902.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "d8/d38/a23902.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

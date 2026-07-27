@@ -1,6 +1,8 @@
 var a29230 =
 [
-    [ "canProcDuringTrigger", "db/d23/a29230.html#a10e8ad619c9766fdf49cd29662c3d9e0", null ],
-    [ "procDeepDuringTrigger", "db/d23/a29230.html#a5df33ebca29ea3ce1088307c138a28e4", null ],
-    [ "spellId", "db/d23/a29230.html#ac63803a380695f311a39cd62a4f298b4", null ]
+    [ "Id", "db/d23/a29230.html#a6943bf760d15b3f8af4109d131652d72", null ],
+    [ "MapId", "db/d23/a29230.html#ab0cccd760636a3b42af693d6c483bed9", null ],
+    [ "X", "db/d23/a29230.html#a91183890254546efeb3162173cc60dad", null ],
+    [ "Y", "db/d23/a29230.html#a19ab4d026b45d74f006479641afbc4d3", null ],
+    [ "Z", "db/d23/a29230.html#aaa23c59f20fc96aec148b82516f30036", null ]
 ];

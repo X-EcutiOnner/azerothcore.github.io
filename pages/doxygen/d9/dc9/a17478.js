@@ -1,6 +1,6 @@
 var a17478 =
 [
-    [ "StandUpEvent", "d9/dc9/a17478.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
-    [ "Execute", "d9/dc9/a17478.html#a56bc1071300ff8f81e62839685e8f53a", null ],
-    [ "_owner", "d9/dc9/a17478.html#a456a494140657d81b203834f7b88d5d1", null ]
+    [ "npc_pos_deathwhisper_necrolyteAI", "db/d49/a17482.html", "db/d49/a17482" ],
+    [ "npc_pos_deathwhisper_necrolyte", "d9/dc9/a17478.html#a0dcdb5b1dfed44f74b04663758b531a0", null ],
+    [ "GetAI", "d9/dc9/a17478.html#ae765669f95f4f14b393b88bf7ecbbfd6", null ]
 ];

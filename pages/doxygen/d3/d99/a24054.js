@@ -1,10 +1,9 @@
 var a24054 =
 [
-    [ "npc_pet_hunter_snake_trap", "d3/d99/a24054.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "InitializeAI", "d3/d99/a24054.html#a91931c2ac0fd4981f9bf8a2f8f7db672", null ],
-    [ "JustEngagedWith", "d3/d99/a24054.html#a695af9c49daa05c787dac03c4af91645", null ],
-    [ "MoveInLineOfSight", "d3/d99/a24054.html#a099a34f12399fe24349644da3dafe7a4", null ],
-    [ "UpdateAI", "d3/d99/a24054.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_isViper", "d3/d99/a24054.html#ab49c69ca25014ef63e775b236255e4c1", null ],
-    [ "_spellTimer", "d3/d99/a24054.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "npc_fel_guard_houndAI", "d3/d99/a24054.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "d3/d99/a24054.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "d3/d99/a24054.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "d3/d99/a24054.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "d3/d99/a24054.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "d3/d99/a24054.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

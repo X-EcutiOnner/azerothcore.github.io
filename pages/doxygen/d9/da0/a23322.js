@@ -1,6 +1,7 @@
 var a23322 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "d1/d28/a23326.html", "d1/d28/a23326" ],
-    [ "instance_shattered_halls", "d9/da0/a23322.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "d9/da0/a23322.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "PeriodicTick", "d9/da0/a23322.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
+    [ "PrepareAuraScript", "d9/da0/a23322.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
+    [ "Register", "d9/da0/a23322.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
+    [ "Validate", "d9/da0/a23322.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
 ];

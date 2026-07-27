@@ -1,7 +1,5 @@
 var a28302 =
 [
-    [ "HandleDummy", "d2/db2/a28302.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "d2/db2/a28302.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "d2/db2/a28302.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "d2/db2/a28302.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "go_soulwellAI", "d2/db2/a28302.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
+    [ "GossipHello", "d2/db2/a28302.html#a3df147478af8930d9b6108a183e9478f", null ]
 ];

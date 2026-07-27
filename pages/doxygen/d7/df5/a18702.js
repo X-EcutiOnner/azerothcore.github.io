@@ -1,9 +1,7 @@
 var a18702 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "d7/df5/a18702.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
-    [ "DoAction", "d7/df5/a18702.html#abbd08537ed245084ca7d4cf852a749a2", null ],
-    [ "JustEnteredCombat", "d7/df5/a18702.html#ae25ca99139f8bb0082b97599cb924bd9", null ],
-    [ "JustExitedCombat", "d7/df5/a18702.html#add8ce38b4a75947dc0170c7aba9c5589", null ],
-    [ "MoveInLineOfSight", "d7/df5/a18702.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
-    [ "Reset", "d7/df5/a18702.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ]
+    [ "CheckTargetCount", "d7/df5/a18702.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
+    [ "PrepareSpellScript", "d7/df5/a18702.html#abd32198867e7f01b21b7de6224a597d4", null ],
+    [ "Register", "d7/df5/a18702.html#a671bede7fbc68085cd6075f412822869", null ],
+    [ "Validate", "d7/df5/a18702.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
 ];

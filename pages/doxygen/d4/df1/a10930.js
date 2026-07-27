@@ -1,5 +1,7 @@
 var a10930 =
 [
-    [ "GuildGetInfo", "d4/df1/a10930.html#a585a6a49fe9747d5044ac185f1236cf5", null ],
-    [ "Read", "d4/df1/a10930.html#aa2b107f35fcf348fb7f84c2971c5fa00", null ]
+    [ "ClientPacket", "d4/df1/a10930.html#aa1d1946c07e248bae5927e83fdad9500", null ],
+    [ "ClientPacket", "d4/df1/a10930.html#a1cdaaacca2695c4366647c7611073ff0", null ],
+    [ "GetOpcode", "d4/df1/a10930.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
+    [ "Write", "d4/df1/a10930.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
 ];

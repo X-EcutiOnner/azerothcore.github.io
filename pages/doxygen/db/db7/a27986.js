@@ -1,5 +1,6 @@
 var a27986 =
 [
-    [ "item_captured_frog", "db/db7/a27986.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "db/db7/a27986.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "achievement_arena_by_type", "db/db7/a27986.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "db/db7/a27986.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "db/db7/a27986.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

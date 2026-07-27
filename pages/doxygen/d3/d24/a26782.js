@@ -1,6 +1,7 @@
 var a26782 =
 [
-    [ "OnApply", "d3/d24/a26782.html#a50ced6d5a475ccad9429dfbb05130394", null ],
-    [ "PrepareAuraScript", "d3/d24/a26782.html#abd02e129b1201449d473a66aea77d569", null ],
-    [ "Register", "d3/d24/a26782.html#a8c09775f642335252c6e548900dc9d3a", null ]
+    [ "OnProc", "d3/d24/a26782.html#a00545522da76162e837a3f9ce1f38988", null ],
+    [ "PrepareAuraScript", "d3/d24/a26782.html#ae11900dc2baee4882ffbc7fde71204e9", null ],
+    [ "Register", "d3/d24/a26782.html#aa326bd80c927ee5ffb06b5676e8d5b40", null ],
+    [ "Validate", "d3/d24/a26782.html#af5525b7097363c3357db853b46a26bd7", null ]
 ];

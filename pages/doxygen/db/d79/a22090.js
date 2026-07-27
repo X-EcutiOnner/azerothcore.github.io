@@ -1,19 +1,16 @@
 var a22090 =
 [
-    [ "npc_overlord_drakuru_betrayal", "db/d79/a22090.html#ab15331d6fd3a2783a4c95d49e4dbe7b2", null ],
-    [ "DamageTaken", "db/d79/a22090.html#a7425750b8bd904de4bdf90a70f17ba52", null ],
-    [ "DoAction", "db/d79/a22090.html#aece047445959751d8bff83ed3555a382", null ],
-    [ "EnterEvadeMode", "db/d79/a22090.html#ae7927006050c6eab309671b2d39ac74e", null ],
-    [ "IsPlayerOnQuest", "db/d79/a22090.html#a95f42c51b10eeeb8f238572f4190b777", null ],
-    [ "JustEngagedWith", "db/d79/a22090.html#a3781dde3a7fb066620ada4bda214d9d7", null ],
-    [ "JustSummoned", "db/d79/a22090.html#a7a28c8050615a13148092b1d6f0f8bea", null ],
-    [ "MoveInLineOfSight", "db/d79/a22090.html#a27173bdb8e63f52563cbf15f10bfeb8a", null ],
-    [ "Reset", "db/d79/a22090.html#aafcf7f832f3c5412bc1c71fc59dec003", null ],
-    [ "SpellHit", "db/d79/a22090.html#a92cd659095e45c414a2c05672a70aaeb", null ],
-    [ "SpellHitTarget", "db/d79/a22090.html#abd7728d7ac2a59b436385069ffc62c9d", null ],
-    [ "UpdateAI", "db/d79/a22090.html#a25d0591a131f2e49b9d5c97ed2f2586e", null ],
-    [ "_lichGUID", "db/d79/a22090.html#ae921b29ac3e5d5f7b39cd660848242f0", null ],
-    [ "_playerGUID", "db/d79/a22090.html#a3f4a61d141c51a29eaefc8118b5311e0", null ],
-    [ "_state", "db/d79/a22090.html#ac99fa024d5c71c37e94d0ff17808e2d4", null ],
-    [ "_summons", "db/d79/a22090.html#a2fbda53115c9b69d2d01a77b3b60710d", null ]
+    [ "npc_tirions_gambit_tirionAI", "db/d79/a22090.html#a38959c7a5b502b5716a5c09b0f6ae8a4", null ],
+    [ "DoAction", "db/d79/a22090.html#a495e0762614020ef6d7b741447099326", null ],
+    [ "DoSummonAction", "db/d79/a22090.html#a891b31661705ed4df634059e6165d499", null ],
+    [ "JustSummoned", "db/d79/a22090.html#ac62ec499aba734d36249f8c00b36e2d4", null ],
+    [ "Reset", "db/d79/a22090.html#afb398bda1d6ee4d35527208e6c5bffee", null ],
+    [ "SetData", "db/d79/a22090.html#a41f24de5f824d84edb69c6b2bdca6d4e", null ],
+    [ "SummonedCreatureDespawn", "db/d79/a22090.html#aca05fee85997dffba6ec998b144b9495", null ],
+    [ "UpdateEscortAI", "db/d79/a22090.html#a0b681d6cc1566e6193f7eb143ab2bd5e", null ],
+    [ "WaypointReached", "db/d79/a22090.html#af5fd69b799c6227dba901f434e30c434", null ],
+    [ "WaypointReached", "db/d79/a22090.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_eventOver", "db/d79/a22090.html#ac3505c2a8d55afa351543def3e8839de", null ],
+    [ "events", "db/d79/a22090.html#a711c55c26187ae695644b770a358766e", null ],
+    [ "summons", "db/d79/a22090.html#af574a4b136ff42c597e30c83e4d463ca", null ]
 ];

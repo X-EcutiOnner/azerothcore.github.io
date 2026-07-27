@@ -1,8 +1,8 @@
 var a24350 =
 [
-    [ "CheckProc", "d5/d89/a24350.html#a068a730173ef0dc0cf239e8b0214b6a4", null ],
-    [ "HandleProc", "d5/d89/a24350.html#a39d04711bb64ad3fa3ee8dbeb10ffbc2", null ],
-    [ "PrepareAuraScript", "d5/d89/a24350.html#a87166b872450132de96835524b5857c7", null ],
-    [ "Register", "d5/d89/a24350.html#a4a1d7e55a99295b66380a6fe1f2b4cc9", null ],
-    [ "Validate", "d5/d89/a24350.html#a8d3a6b0496c725872d8e66f804bd8c96", null ]
+    [ "npc_pet_dk_army_of_the_dead", "d5/d89/a24350.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
+    [ "CanAIAttack", "d5/d89/a24350.html#a514fe49b143f57ef87359b3060911c02", null ],
+    [ "OwnerAttacked", "d5/d89/a24350.html#ad5189df825dc917e59c9b19e4a84cded", null ],
+    [ "OwnerAttackedBy", "d5/d89/a24350.html#a01f21e7c57f4bf7f9457c72fda4e9022", null ],
+    [ "UpdateAI", "d5/d89/a24350.html#ac44836f84d172dfac90dfb3eaaeeac6a", null ]
 ];

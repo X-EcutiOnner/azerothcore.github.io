@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Server/WorldSession.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/FormulaScript.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,178 +106,102 @@ $(document).ready(function(){initNavTree('de/dfb/a01874.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">WorldSession.h File Reference<div class="ingroups"><a class="el" href="../../da/d34/a05061.html">User to World Communication</a></div></div></div>
+  <div class="headertitle"><div class="title">FormulaScript.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AccountMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AddonMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AuthDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CircularBuffer.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GossipDef.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Packet.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
-<code>#include &lt;map&gt;</code><br />
-<code>#include &lt;memory&gt;</code><br />
-<code>#include &lt;utility&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6e/a11688.html">AccountData</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d60/a10770.html">FormulaScript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5d/a11692.html">PacketFilter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d95/a11696.html">MapSessionFilter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d82/a11700.html">WorldSessionFilter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0b/a11704.html">CharacterCreateInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d91/a11708.html">CharacterRenameInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/da1/a11712.html">CharacterCustomizeInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d05/a11716.html">CharacterFactionChangeInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d4f/a11720.html">PacketCounter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d3f/a11724.html">WorldSession</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="../../de/d91/a09004.html">Player</a> session in the <a class="el" href="../../d5/d4f/a12284.html" title="The World.">World</a>.  <a href="../../d4/d3f/a11724.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d90/a11728.html">WorldSession::DosProtection</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:dc/dcd/a05112"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html">lfg</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d3/d91/a05119"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a05119.html">WorldPackets</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d4/d85/a05138"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d85/a05138.html">WorldPackets::LFG</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:dd/d43/a05133"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d43/a05133.html">WorldPackets::Chat</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d9/d4c/a05132"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d4c/a05132.html">WorldPackets::Character</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d3/d60/a05145"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d60/a05145.html">WorldPackets::Totem</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d5/d8c/a05130"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8c/a05130.html">WorldPackets::Bank</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:dd/dce/a05135"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dce/a05135.html">WorldPackets::Combat</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d0/d7d/a05120"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7d/a05120.html">WorldPackets::Guild</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:db/d6b/a05139"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d6b/a05139.html">WorldPackets::Misc</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d5/d6d/a05142"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d6d/a05142.html">WorldPackets::Pet</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:db/d58/a05143"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d58/a05143.html">WorldPackets::Query</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d0/d6f/a05137"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d6f/a05137.html">WorldPackets::Item</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:dc/ddb/a05144"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddb/a05144.html">WorldPackets::Quest</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d0/dcf/a05131"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dcf/a05131.html">WorldPackets::Calendar</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d3/dc0/a05140"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc0/a05140.html">WorldPackets::NPC</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:db/d5a/a05136"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d5a/a05136.html">WorldPackets::Instance</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:gafb353aeb5e84007c9b55aa50ba6e3ddc"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d34/a05061.html#gafb353aeb5e84007c9b55aa50ba6e3ddc">NUM_ACCOUNT_DATA_TYPES</a>&#160;&#160;&#160;8</td></tr>
-<tr class="separator:gafb353aeb5e84007c9b55aa50ba6e3ddc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gabaf56bd86a496e0886a553118d6ffb08"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d34/a05061.html#gabaf56bd86a496e0886a553118d6ffb08">GLOBAL_CACHE_MASK</a>&#160;&#160;&#160;0x15</td></tr>
-<tr class="separator:gabaf56bd86a496e0886a553118d6ffb08"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga38a03c6cd9103a9891842f233758fbe7"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d34/a05061.html#ga38a03c6cd9103a9891842f233758fbe7">PER_CHARACTER_CACHE_MASK</a>&#160;&#160;&#160;0xEA</td></tr>
-<tr class="separator:ga38a03c6cd9103a9891842f233758fbe7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:gadab21b8c7fecf26675a55eea7811812d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d34/a05061.html#gadab21b8c7fecf26675a55eea7811812d">AccountDataType</a> { <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggadab21b8c7fecf26675a55eea7811812daada79ad8567ef8c1839bb4aa1388f59c">GLOBAL_CONFIG_CACHE</a> = 0
+<tr class="memitem:a201bafc9783763d9953381d3aa09bf69"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69">FormulaHook</a> { <br />
+&#160;&#160;<a class="el" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69a73eb230cf8bc5ea792f11bb873a28419">FORMULAHOOK_ON_HONOR_CALCULATION</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggadab21b8c7fecf26675a55eea7811812da3199deafd9678b717f9357659ed271b0">PER_CHARACTER_CONFIG_CACHE</a> = 1
+&#160;&#160;<a class="el" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69ae5bca7263a6d46817dc8dfaa4e6636c4">FORMULAHOOK_ON_GRAY_LEVEL_CALCULATION</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggadab21b8c7fecf26675a55eea7811812da580bf2ae915070c0cb1dfa2a2c470936">GLOBAL_BINDINGS_CACHE</a> = 2
+&#160;&#160;<a class="el" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69ae305e59fcf7c58fccaa5e3eb7f164436">FORMULAHOOK_ON_COLOR_CODE_CALCULATION</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggadab21b8c7fecf26675a55eea7811812daaa2164f22e7a6cd3e9211bdd39c1c4e6">PER_CHARACTER_BINDINGS_CACHE</a> = 3
+&#160;&#160;<a class="el" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69aaf4abb2ee4d7e811524828641d035c3f">FORMULAHOOK_ON_ZERO_DIFFERENCE_CALCULATION</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggadab21b8c7fecf26675a55eea7811812da2bffb16258c4258924334e7231928217">GLOBAL_MACROS_CACHE</a> = 4
+&#160;&#160;<a class="el" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69af81c627150a90b1b38ae49bd3b02ab86">FORMULAHOOK_ON_BASE_GAIN_CALCULATION</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggadab21b8c7fecf26675a55eea7811812da0d53cc3dcb154b042fe7a1b81404752c">PER_CHARACTER_MACROS_CACHE</a> = 5
+&#160;&#160;<a class="el" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69ac9f5d04e83bca695ea8857c2797cbb52">FORMULAHOOK_ON_GAIN_CALCULATION</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggadab21b8c7fecf26675a55eea7811812da8db107b5c382a0630b177b9f521dd87c">PER_CHARACTER_LAYOUT_CACHE</a> = 6
+&#160;&#160;<a class="el" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69a56563d7c720735fee5720cbfc7502baf">FORMULAHOOK_ON_GROUP_RATE_CALCULATION</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggadab21b8c7fecf26675a55eea7811812da5dbeffe8a7f8c60877f3f41a4e813327">PER_CHARACTER_CHAT_CACHE</a> = 7
+&#160;&#160;<a class="el" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69aec7df5954df9c5fdc2ddcc2f36e3cb92">FORMULAHOOK_ON_AFTER_ARENA_RATING_CALCULATION</a>
+, <br />
+&#160;&#160;<a class="el" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69ad8dee2b8396106bfbf66942eb7917b33">FORMULAHOOK_ON_BEFORE_UPDATING_PERSONAL_RATING</a>
+, <br />
+&#160;&#160;<a class="el" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69a9a1299486f5025ac19ec955832a0813f">FORMULAHOOK_END</a>
 <br />
  }</td></tr>
-<tr class="separator:gadab21b8c7fecf26675a55eea7811812d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gaa4a0361b2172789575d5eac42ecb612a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d34/a05061.html#gaa4a0361b2172789575d5eac42ecb612a">PartyOperation</a> { <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggaa4a0361b2172789575d5eac42ecb612aa8b30d82ca0b8d909d0445472f4003036">PARTY_OP_INVITE</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggaa4a0361b2172789575d5eac42ecb612aaea450b61d9aa99430d227f2bc20ba66e">PARTY_OP_UNINVITE</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggaa4a0361b2172789575d5eac42ecb612aaf8c14598abfe7de9431f923cce924457">PARTY_OP_LEAVE</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggaa4a0361b2172789575d5eac42ecb612aac2c1d8e8f575d57bed2ae682d80c1a14">PARTY_OP_SWAP</a> = 4
-<br />
- }</td></tr>
-<tr class="separator:gaa4a0361b2172789575d5eac42ecb612a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gae00b3f15198199be79029b7f245cba4e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d34/a05061.html#gae00b3f15198199be79029b7f245cba4e">BFLeaveReason</a> { <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggae00b3f15198199be79029b7f245cba4eaa804834f71e74d728992a144bc3a4bf7">BF_LEAVE_REASON_CLOSE</a> = 0x00000001
-, <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggae00b3f15198199be79029b7f245cba4eac58152c3c20952288b738bbcd94b6e04">BF_LEAVE_REASON_EXITED</a> = 0x00000008
-, <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggae00b3f15198199be79029b7f245cba4ea409833e268b63d87c8329740d22f8d6d">BF_LEAVE_REASON_LOW_LEVEL</a> = 0x00000010
-<br />
- }</td></tr>
-<tr class="separator:gae00b3f15198199be79029b7f245cba4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga54cc6595f95ac4f430e8540afc94f13d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d34/a05061.html#ga54cc6595f95ac4f430e8540afc94f13d">ChatRestrictionType</a> { <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#gga54cc6595f95ac4f430e8540afc94f13da86e568474f13bb72e15b8e92a270b1c9">ERR_CHAT_RESTRICTED</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#gga54cc6595f95ac4f430e8540afc94f13da34a062f33bdc742a4c6be1f28ef613e7">ERR_CHAT_THROTTLED</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#gga54cc6595f95ac4f430e8540afc94f13da9bbb4686187f6e5c88606f90f22b18c8">ERR_USER_SQUELCHED</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#gga54cc6595f95ac4f430e8540afc94f13da584e0c0e91185b9f8d415b89e5cbacd7">ERR_YELL_RESTRICTED</a> = 3
-<br />
- }</td></tr>
-<tr class="separator:ga54cc6595f95ac4f430e8540afc94f13d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga98490641bb011ba9187ee1ed5c94b406"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d34/a05061.html#ga98490641bb011ba9187ee1ed5c94b406">DeclinedNameResult</a> { <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#gga98490641bb011ba9187ee1ed5c94b406add610d06699db29b6f69db8b69d87267">DECLINED_NAMES_RESULT_SUCCESS</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#gga98490641bb011ba9187ee1ed5c94b406ae7ea9b45868387cbcd0f7aff13476683">DECLINED_NAMES_RESULT_ERROR</a> = 1
-<br />
- }</td></tr>
-<tr class="separator:ga98490641bb011ba9187ee1ed5c94b406"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gae6a6780680157e01b09a257d84b150c7"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d34/a05061.html#gae6a6780680157e01b09a257d84b150c7">CharterTypes</a> { <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggae6a6780680157e01b09a257d84b150c7abc99a46e1b6360a30376c4500292e27c">GUILD_CHARTER_TYPE</a> = 9
-, <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggae6a6780680157e01b09a257d84b150c7a917d335b0e9d21fec525d5daed0c1356">ARENA_TEAM_CHARTER_2v2_TYPE</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggae6a6780680157e01b09a257d84b150c7aed12afbbdd721e734868da792db28482">ARENA_TEAM_CHARTER_3v3_TYPE</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../da/d34/a05061.html#ggae6a6780680157e01b09a257d84b150c7afa2e8ef459ee0af6eea7b2be7ce30841">ARENA_TEAM_CHARTER_5v5_TYPE</a> = 5
-<br />
- }</td></tr>
-<tr class="separator:gae6a6780680157e01b09a257d84b150c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a201bafc9783763d9953381d3aa09bf69"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a201bafc9783763d9953381d3aa09bf69" name="a201bafc9783763d9953381d3aa09bf69"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a201bafc9783763d9953381d3aa09bf69">&#9670;&#160;</a></span>FormulaHook</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69">FormulaHook</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a201bafc9783763d9953381d3aa09bf69a73eb230cf8bc5ea792f11bb873a28419" name="a201bafc9783763d9953381d3aa09bf69a73eb230cf8bc5ea792f11bb873a28419"></a>FORMULAHOOK_ON_HONOR_CALCULATION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a201bafc9783763d9953381d3aa09bf69ae5bca7263a6d46817dc8dfaa4e6636c4" name="a201bafc9783763d9953381d3aa09bf69ae5bca7263a6d46817dc8dfaa4e6636c4"></a>FORMULAHOOK_ON_GRAY_LEVEL_CALCULATION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a201bafc9783763d9953381d3aa09bf69ae305e59fcf7c58fccaa5e3eb7f164436" name="a201bafc9783763d9953381d3aa09bf69ae305e59fcf7c58fccaa5e3eb7f164436"></a>FORMULAHOOK_ON_COLOR_CODE_CALCULATION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a201bafc9783763d9953381d3aa09bf69aaf4abb2ee4d7e811524828641d035c3f" name="a201bafc9783763d9953381d3aa09bf69aaf4abb2ee4d7e811524828641d035c3f"></a>FORMULAHOOK_ON_ZERO_DIFFERENCE_CALCULATION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a201bafc9783763d9953381d3aa09bf69af81c627150a90b1b38ae49bd3b02ab86" name="a201bafc9783763d9953381d3aa09bf69af81c627150a90b1b38ae49bd3b02ab86"></a>FORMULAHOOK_ON_BASE_GAIN_CALCULATION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a201bafc9783763d9953381d3aa09bf69ac9f5d04e83bca695ea8857c2797cbb52" name="a201bafc9783763d9953381d3aa09bf69ac9f5d04e83bca695ea8857c2797cbb52"></a>FORMULAHOOK_ON_GAIN_CALCULATION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a201bafc9783763d9953381d3aa09bf69a56563d7c720735fee5720cbfc7502baf" name="a201bafc9783763d9953381d3aa09bf69a56563d7c720735fee5720cbfc7502baf"></a>FORMULAHOOK_ON_GROUP_RATE_CALCULATION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a201bafc9783763d9953381d3aa09bf69aec7df5954df9c5fdc2ddcc2f36e3cb92" name="a201bafc9783763d9953381d3aa09bf69aec7df5954df9c5fdc2ddcc2f36e3cb92"></a>FORMULAHOOK_ON_AFTER_ARENA_RATING_CALCULATION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a201bafc9783763d9953381d3aa09bf69ad8dee2b8396106bfbf66942eb7917b33" name="a201bafc9783763d9953381d3aa09bf69ad8dee2b8396106bfbf66942eb7917b33"></a>FORMULAHOOK_ON_BEFORE_UPDATING_PERSONAL_RATING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a201bafc9783763d9953381d3aa09bf69a9a1299486f5025ac19ec955832a0813f" name="a201bafc9783763d9953381d3aa09bf69a9a1299486f5025ac19ec955832a0813f"></a>FORMULAHOOK_END&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69a73eb230cf8bc5ea792f11bb873a28419">FORMULAHOOK_ON_HONOR_CALCULATION</a>,</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69ae5bca7263a6d46817dc8dfaa4e6636c4">FORMULAHOOK_ON_GRAY_LEVEL_CALCULATION</a>,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69ae305e59fcf7c58fccaa5e3eb7f164436">FORMULAHOOK_ON_COLOR_CODE_CALCULATION</a>,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69aaf4abb2ee4d7e811524828641d035c3f">FORMULAHOOK_ON_ZERO_DIFFERENCE_CALCULATION</a>,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69af81c627150a90b1b38ae49bd3b02ab86">FORMULAHOOK_ON_BASE_GAIN_CALCULATION</a>,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69ac9f5d04e83bca695ea8857c2797cbb52">FORMULAHOOK_ON_GAIN_CALCULATION</a>,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69a56563d7c720735fee5720cbfc7502baf">FORMULAHOOK_ON_GROUP_RATE_CALCULATION</a>,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69aec7df5954df9c5fdc2ddcc2f36e3cb92">FORMULAHOOK_ON_AFTER_ARENA_RATING_CALCULATION</a>,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69ad8dee2b8396106bfbf66942eb7917b33">FORMULAHOOK_ON_BEFORE_UPDATING_PERSONAL_RATING</a>,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69a9a1299486f5025ac19ec955832a0813f">FORMULAHOOK_END</a></div>
+<div class="line"><span class="lineno">   36</span>};</div>
+<div class="ttc" id="aa01874_html_a201bafc9783763d9953381d3aa09bf69a56563d7c720735fee5720cbfc7502baf"><div class="ttname"><a href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69a56563d7c720735fee5720cbfc7502baf">FORMULAHOOK_ON_GROUP_RATE_CALCULATION</a></div><div class="ttdeci">@ FORMULAHOOK_ON_GROUP_RATE_CALCULATION</div><div class="ttdef"><b>Definition:</b> FormulaScript.h:32</div></div>
+<div class="ttc" id="aa01874_html_a201bafc9783763d9953381d3aa09bf69a73eb230cf8bc5ea792f11bb873a28419"><div class="ttname"><a href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69a73eb230cf8bc5ea792f11bb873a28419">FORMULAHOOK_ON_HONOR_CALCULATION</a></div><div class="ttdeci">@ FORMULAHOOK_ON_HONOR_CALCULATION</div><div class="ttdef"><b>Definition:</b> FormulaScript.h:26</div></div>
+<div class="ttc" id="aa01874_html_a201bafc9783763d9953381d3aa09bf69a9a1299486f5025ac19ec955832a0813f"><div class="ttname"><a href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69a9a1299486f5025ac19ec955832a0813f">FORMULAHOOK_END</a></div><div class="ttdeci">@ FORMULAHOOK_END</div><div class="ttdef"><b>Definition:</b> FormulaScript.h:35</div></div>
+<div class="ttc" id="aa01874_html_a201bafc9783763d9953381d3aa09bf69aaf4abb2ee4d7e811524828641d035c3f"><div class="ttname"><a href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69aaf4abb2ee4d7e811524828641d035c3f">FORMULAHOOK_ON_ZERO_DIFFERENCE_CALCULATION</a></div><div class="ttdeci">@ FORMULAHOOK_ON_ZERO_DIFFERENCE_CALCULATION</div><div class="ttdef"><b>Definition:</b> FormulaScript.h:29</div></div>
+<div class="ttc" id="aa01874_html_a201bafc9783763d9953381d3aa09bf69ac9f5d04e83bca695ea8857c2797cbb52"><div class="ttname"><a href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69ac9f5d04e83bca695ea8857c2797cbb52">FORMULAHOOK_ON_GAIN_CALCULATION</a></div><div class="ttdeci">@ FORMULAHOOK_ON_GAIN_CALCULATION</div><div class="ttdef"><b>Definition:</b> FormulaScript.h:31</div></div>
+<div class="ttc" id="aa01874_html_a201bafc9783763d9953381d3aa09bf69ad8dee2b8396106bfbf66942eb7917b33"><div class="ttname"><a href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69ad8dee2b8396106bfbf66942eb7917b33">FORMULAHOOK_ON_BEFORE_UPDATING_PERSONAL_RATING</a></div><div class="ttdeci">@ FORMULAHOOK_ON_BEFORE_UPDATING_PERSONAL_RATING</div><div class="ttdef"><b>Definition:</b> FormulaScript.h:34</div></div>
+<div class="ttc" id="aa01874_html_a201bafc9783763d9953381d3aa09bf69ae305e59fcf7c58fccaa5e3eb7f164436"><div class="ttname"><a href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69ae305e59fcf7c58fccaa5e3eb7f164436">FORMULAHOOK_ON_COLOR_CODE_CALCULATION</a></div><div class="ttdeci">@ FORMULAHOOK_ON_COLOR_CODE_CALCULATION</div><div class="ttdef"><b>Definition:</b> FormulaScript.h:28</div></div>
+<div class="ttc" id="aa01874_html_a201bafc9783763d9953381d3aa09bf69ae5bca7263a6d46817dc8dfaa4e6636c4"><div class="ttname"><a href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69ae5bca7263a6d46817dc8dfaa4e6636c4">FORMULAHOOK_ON_GRAY_LEVEL_CALCULATION</a></div><div class="ttdeci">@ FORMULAHOOK_ON_GRAY_LEVEL_CALCULATION</div><div class="ttdef"><b>Definition:</b> FormulaScript.h:27</div></div>
+<div class="ttc" id="aa01874_html_a201bafc9783763d9953381d3aa09bf69aec7df5954df9c5fdc2ddcc2f36e3cb92"><div class="ttname"><a href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69aec7df5954df9c5fdc2ddcc2f36e3cb92">FORMULAHOOK_ON_AFTER_ARENA_RATING_CALCULATION</a></div><div class="ttdeci">@ FORMULAHOOK_ON_AFTER_ARENA_RATING_CALCULATION</div><div class="ttdef"><b>Definition:</b> FormulaScript.h:33</div></div>
+<div class="ttc" id="aa01874_html_a201bafc9783763d9953381d3aa09bf69af81c627150a90b1b38ae49bd3b02ab86"><div class="ttname"><a href="../../de/dfb/a01874.html#a201bafc9783763d9953381d3aa09bf69af81c627150a90b1b38ae49bd3b02ab86">FORMULAHOOK_ON_BASE_GAIN_CALCULATION</a></div><div class="ttdeci">@ FORMULAHOOK_ON_BASE_GAIN_CALCULATION</div><div class="ttdef"><b>Definition:</b> FormulaScript.h:30</div></div>
+</div><!-- fragment -->
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_315286625446b425c001eecd2b17ef1a.html">Server</a></li><li class="navelem"><a class="el" href="../../de/dfb/a01874.html">WorldSession.h</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 21:47:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../de/dfb/a01874.html">FormulaScript.h</a></li>
+    <li class="footer">Generated on Mon Jul 27 2026 21:42:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

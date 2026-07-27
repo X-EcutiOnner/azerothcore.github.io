@@ -1,6 +1,7 @@
 var a15122 =
 [
-    [ "instance_culling_of_stratholme_InstanceMapScript", "d7/de6/a15126.html", "d7/de6/a15126" ],
-    [ "instance_culling_of_stratholme", "d9/d1a/a15122.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
-    [ "GetInstanceScript", "d9/d1a/a15122.html#ad8cbcb198666d44d79d6255d066c8315", null ]
+    [ "boss_azuregosAI", "d7/de6/a15126.html", "d7/de6/a15126" ],
+    [ "boss_azuregos", "d9/d1a/a15122.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "d9/d1a/a15122.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "d9/d1a/a15122.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

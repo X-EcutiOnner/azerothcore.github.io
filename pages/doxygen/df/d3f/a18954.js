@@ -1,7 +1,8 @@
 var a18954 =
 [
-    [ "HandleScript", "df/d3f/a18954.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "df/d3f/a18954.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "df/d3f/a18954.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "df/d3f/a18954.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "npc_blistering_zombieAI", "df/d3f/a18954.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
+    [ "DamageTaken", "df/d3f/a18954.html#adf031992078214f90d859df2b54aac91", null ],
+    [ "UpdateAI", "df/d3f/a18954.html#ae081898b8dcaf45cd3069e79021de452", null ],
+    [ "casted", "df/d3f/a18954.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
+    [ "timer", "df/d3f/a18954.html#a8b865c2a87b1fc020d8250767febab0a", null ]
 ];

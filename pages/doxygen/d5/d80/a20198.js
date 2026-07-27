@@ -1,15 +1,14 @@
 var a20198 =
 [
-    [ "npc_ulduar_hodir_shaman", "d5/d80/a20198.html#a3277cda17d5409be3426bdaa61e092cd", null ],
-    [ "AttackStart", "d5/d80/a20198.html#a933908d61afac33002411874060c0f74", null ],
-    [ "CanAIAttack", "d5/d80/a20198.html#a8907c7300cef735a70b088de3c16cfb9", null ],
-    [ "EnterEvadeMode", "d5/d80/a20198.html#afa6124e630cd878659172a06df68d39f", null ],
-    [ "JustDied", "d5/d80/a20198.html#a08af85d3446c86443ff5a620b159d000", null ],
-    [ "MoveInLineOfSight", "d5/d80/a20198.html#a29de52dcae485f00403dae8e28ff1395", null ],
-    [ "ScheduleAbilities", "d5/d80/a20198.html#ab9aa67f07721c0bf60e9db75b5b3e888", null ],
-    [ "SpellHit", "d5/d80/a20198.html#a02476e4ddb2287c647a2a4bd7e342150", null ],
-    [ "SpellHitTarget", "d5/d80/a20198.html#a29dcb1ff2d532fa491fcdbdfcac4fbfa", null ],
-    [ "UpdateAI", "d5/d80/a20198.html#adf8d9895cdd35712fa44e4a19de1315a", null ],
-    [ "_instance", "d5/d80/a20198.html#aa09753bc9b54ea8dcc9b61a9ace77ae3", null ],
-    [ "events", "d5/d80/a20198.html#a7e147f6f230513cfb666473c61ab4be4", null ]
+    [ "boss_auriaya", "d5/d80/a20198.html#a2d946ada185a29bf00dc49d28089e64e", null ],
+    [ "DespawnFormationMembers", "d5/d80/a20198.html#a46dcb873d4101174687b4189d0494403", null ],
+    [ "DoAction", "d5/d80/a20198.html#aa58503020e3382e0c541047b233945a7", null ],
+    [ "ExecuteEvent", "d5/d80/a20198.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
+    [ "GetData", "d5/d80/a20198.html#a44781b758392f8f519b9684617757620", null ],
+    [ "JustDied", "d5/d80/a20198.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
+    [ "JustEngagedWith", "d5/d80/a20198.html#ac80d7bbc334e20df9e85540556b8714e", null ],
+    [ "KilledUnit", "d5/d80/a20198.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
+    [ "Reset", "d5/d80/a20198.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
+    [ "_feralDied", "d5/d80/a20198.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
+    [ "_nineLives", "d5/d80/a20198.html#a26d80573eda1aa1005e1bc5453c182af", null ]
 ];

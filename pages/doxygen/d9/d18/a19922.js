@@ -1,7 +1,6 @@
 var a19922 =
 [
-    [ "OnRemove", "d9/d18/a19922.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "d9/d18/a19922.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "d9/d18/a19922.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "d9/d18/a19922.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "HandleEffectCalcAmount", "d9/d18/a19922.html#afa50ce616d36dd59c7195209074d6182", null ],
+    [ "PrepareAuraScript", "d9/d18/a19922.html#a4638b99dac7653f13d59c3928a78b3b9", null ],
+    [ "Register", "d9/d18/a19922.html#a691d5a99eec9e367c518d0244f25bd41", null ]
 ];

@@ -1,6 +1,9 @@
 var a18874 =
 [
-    [ "npc_captain_brandonAI", "d2/d86/a18878.html", "d2/d86/a18878" ],
-    [ "npc_captain_brandon", "dd/d10/a18874.html#ad522dd280882d894b5d32e7c888f2360", null ],
-    [ "GetAI", "dd/d10/a18874.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
+    [ "DelayedCastEvent", "dd/d10/a18874.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
+    [ "Execute", "dd/d10/a18874.html#ae2925429b3049e44d2afd2e8b990af71", null ],
+    [ "_despawnTime", "dd/d10/a18874.html#afcaeafb72df77c36b5496588c219fac4", null ],
+    [ "_originalCaster", "dd/d10/a18874.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
+    [ "_spellId", "dd/d10/a18874.html#abe28a6749101233302634ed226a289e8", null ],
+    [ "_trigger", "dd/d10/a18874.html#a85471a151a3165cc906f3a41103c3f5d", null ]
 ];

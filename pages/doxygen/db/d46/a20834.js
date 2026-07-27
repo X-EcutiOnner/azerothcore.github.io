@@ -1,7 +1,16 @@
 var a20834 =
 [
-    [ "HandleEffectPeriodic", "db/d46/a20834.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
-    [ "PrepareAuraScript", "db/d46/a20834.html#a748cd347867557b5048d9ba0c112cd80", null ],
-    [ "Register", "db/d46/a20834.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
-    [ "Validate", "db/d46/a20834.html#afa86789ef14b1d06094705ba6cfb9205", null ]
+    [ "boss_thorim_runic_colossus", "db/d46/a20834.html#a3beda3351911803a0c0ea719256c4514", null ],
+    [ "JustDied", "db/d46/a20834.html#a9682ccf2c6109888385fd621ecac16a4", null ],
+    [ "JustEngagedWith", "db/d46/a20834.html#ad18388379fc026c1bf707eee8fae9826", null ],
+    [ "Reset", "db/d46/a20834.html#a5a6d3e8c1e756fe9a982c6be215a0577", null ],
+    [ "RunRunicSmash", "db/d46/a20834.html#a4b36e8e92cae14912354691f0dc09a64", null ],
+    [ "SpellHit", "db/d46/a20834.html#a9787e064886ddee55bc2434c6d4f1927", null ],
+    [ "UpdateAI", "db/d46/a20834.html#a470b0571db91075603504d91fb13721c", null ],
+    [ "_checkTarget", "db/d46/a20834.html#a16c4b7194f1db8710732b35189823efe", null ],
+    [ "_leftHand", "db/d46/a20834.html#a2d3c2799fcf9a2761c331109a713a4c6", null ],
+    [ "_nextTriggerPos", "db/d46/a20834.html#a5f265413890df938e00dc08e0dee9829", null ],
+    [ "_triggerLeftGUID", "db/d46/a20834.html#af1a54a839bcd3308edf1c7769274b889", null ],
+    [ "_triggerRightGUID", "db/d46/a20834.html#a72196fe61ab799be949b7148a52933a9", null ],
+    [ "events", "db/d46/a20834.html#a859e1d83f4002c8017d5d8f8fdf34a1e", null ]
 ];

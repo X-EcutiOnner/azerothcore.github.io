@@ -1,5 +1,18 @@
 var a20402 =
 [
-    [ "go_ulduar_do_not_push_this_button", "d6/d33/a20402.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "d6/d33/a20402.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "boss_vezax", "d6/d33/a20402.html#a8e9210793b5b00d81bf5f1a3eb214f29", null ],
+    [ "DoAction", "d6/d33/a20402.html#ac7c14cfbae5d031615e7f62ded2045c1", null ],
+    [ "GetData", "d6/d33/a20402.html#addfa8398f2a1c21b7ed44547fa6e2899", null ],
+    [ "JustDied", "d6/d33/a20402.html#a1ce855485a7edaace620956cb620ed39", null ],
+    [ "JustEngagedWith", "d6/d33/a20402.html#ac22557ea0f60a04d51f016cc09d99417", null ],
+    [ "JustReachedHome", "d6/d33/a20402.html#ad57dabcfafbd2a10b1dbb39751600bb9", null ],
+    [ "KilledUnit", "d6/d33/a20402.html#ab339f12be1e9da262f6243cfe22908c2", null ],
+    [ "MoveInLineOfSight", "d6/d33/a20402.html#a79c3312d27ef44cf3aa2fb4b94e0ee0a", null ],
+    [ "Reset", "d6/d33/a20402.html#a44ceea000e547d0e56994e9075a09a52", null ],
+    [ "SpellHitTarget", "d6/d33/a20402.html#ab9288041d27b2cf2bf352085ba13ace1", null ],
+    [ "UpdateAI", "d6/d33/a20402.html#a88331ae2f7cc9625aaf36836abf244f0", null ],
+    [ "bAchievShadowdodger", "d6/d33/a20402.html#a7462985f6bd9daeec15d639fc076bbf9", null ],
+    [ "berserk", "d6/d33/a20402.html#adc5e49598b2a9c463a91da0d50dbe3dc", null ],
+    [ "hardmodeAvailable", "d6/d33/a20402.html#ae43a0164f3ac1876b6e6cd5f6f241ffb", null ],
+    [ "vaporsCount", "d6/d33/a20402.html#a6f7205d1c455cc3344025e28d4eb8ed6", null ]
 ];

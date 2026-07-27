@@ -1,6 +1,7 @@
 var a18882 =
 [
-    [ "npc_captain_grondelAI", "de/ded/a18886.html", "de/ded/a18886" ],
-    [ "npc_captain_grondel", "d8/da2/a18882.html#a54a53f8e3cde87405219c815a56d523c", null ],
-    [ "GetAI", "d8/da2/a18882.html#a2a7725e81294e80701b7742d2605ec00", null ]
+    [ "ValithriaDespawner", "d8/da2/a18882.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "d8/da2/a18882.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "d8/da2/a18882.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "d8/da2/a18882.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

@@ -1,7 +1,7 @@
 var a22038 =
 [
-    [ "HandleScript", "de/d61/a22038.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "de/d61/a22038.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "de/d61/a22038.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "de/d61/a22038.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "HandleScript", "de/d61/a22038.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
+    [ "PrepareSpellScript", "de/d61/a22038.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
+    [ "Register", "de/d61/a22038.html#a9b8efef83b515f2250bda500ff741aa3", null ],
+    [ "Validate", "de/d61/a22038.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
 ];

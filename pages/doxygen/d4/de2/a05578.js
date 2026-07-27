@@ -1,9 +1,19 @@
 var a05578 =
 [
-    [ "Count", "d4/de2/a05578.html#a05f606f459c905632d1452727bc93a0d", null ],
-    [ "GetElements", "d4/de2/a05578.html#a260f2bd14ae022a5810539ba87cec51e", null ],
-    [ "GetElements", "d4/de2/a05578.html#ae04b24e63268c7b60bea36beec148a8a", null ],
-    [ "Insert", "d4/de2/a05578.html#a791a9c0d1c878323960e529e0c7b66c8", null ],
-    [ "Remove", "d4/de2/a05578.html#abfb5e987b1c711d259896708887ca6d7", null ],
-    [ "i_elements", "d4/de2/a05578.html#a095f3a1caf74ca4e9e12ecca538a0cc4", null ]
+    [ "Iterator", "df/da8/a05582.html", "df/da8/a05582" ],
+    [ "iterator", "d4/de2/a05578.html#a57ec2565e503df8ef86e1df2889c8ee3", null ],
+    [ "LinkedListHead", "d4/de2/a05578.html#ab9a10897505b9315f7abef37ca53ae3d", null ],
+    [ "decSize", "d4/de2/a05578.html#ada0bbfaadb9944b904fd023291d7454e", null ],
+    [ "getFirst", "d4/de2/a05578.html#a3bdb6df345043767ce9b319593102371", null ],
+    [ "getFirst", "d4/de2/a05578.html#a2b67ea8030683685e442b534f6ac14ae", null ],
+    [ "getLast", "d4/de2/a05578.html#a523c918451eb358014e821b11f000b9b", null ],
+    [ "getLast", "d4/de2/a05578.html#a4f858b06a17f5bc17db10aebd3493142", null ],
+    [ "getSize", "d4/de2/a05578.html#aa9c03e05aa61c1fc9fad84efd8f82db7", null ],
+    [ "incSize", "d4/de2/a05578.html#a46d97d5710de2958555d37687df58fcb", null ],
+    [ "insertFirst", "d4/de2/a05578.html#af28714c2195a3609871f42fa7a9dc74b", null ],
+    [ "insertLast", "d4/de2/a05578.html#a20c91c0ace1d4404b55802fbc7704bb5", null ],
+    [ "IsEmpty", "d4/de2/a05578.html#a5f450b83a615d010bedc7b0c6aa18d70", null ],
+    [ "iFirst", "d4/de2/a05578.html#aee68918c2ddc42306a60a6858a2994f1", null ],
+    [ "iLast", "d4/de2/a05578.html#a6b9e8b60fdabf4780567265f5e1ba9fa", null ],
+    [ "iSize", "d4/de2/a05578.html#a7ebab224bc9412426c18fa3a8a9ea345", null ]
 ];

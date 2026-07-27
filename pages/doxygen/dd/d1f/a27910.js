@@ -1,6 +1,6 @@
 var a27910 =
 [
-    [ "go_soulwellAI", "df/d2f/a27914.html", "df/d2f/a27914" ],
-    [ "go_soulwell", "dd/d1f/a27910.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "dd/d1f/a27910.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "HandleEffectCalcSpellMod", "dd/d1f/a27910.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "dd/d1f/a27910.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "dd/d1f/a27910.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

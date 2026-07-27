@@ -1,5 +1,5 @@
 var a28642 =
 [
-    [ "ID", "d9/d92/a28642.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "d9/d92/a28642.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "npc_necropolis", "d9/d92/a28642.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
+    [ "SpellHit", "d9/d92/a28642.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
 ];

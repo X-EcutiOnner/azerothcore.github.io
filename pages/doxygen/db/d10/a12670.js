@@ -1,12 +1,15 @@
 var a12670 =
 [
-    [ "go_suppression_device", "db/d10/a12670.html#ae8d3a5e9ca0bd621065bad9b8ee2733b", null ],
-    [ "Activate", "db/d10/a12670.html#aab10f7c30f4c7fcf89aa295d830da56f", null ],
-    [ "Deactivate", "db/d10/a12670.html#aaf01b7e3317e4b032e7c202ebfcb9a68", null ],
-    [ "DoAction", "db/d10/a12670.html#a036467db9b2661e7048216b03451861b", null ],
-    [ "InitializeAI", "db/d10/a12670.html#a6f40d8e47699b711466d8d36bdaa424c", null ],
-    [ "UpdateAI", "db/d10/a12670.html#a00fb90b16c82f9d968cc29275c05675a", null ],
-    [ "_active", "db/d10/a12670.html#a1accabc06137c07e9f74ea91d068672c", null ],
-    [ "_events", "db/d10/a12670.html#a43fc9da45057e18811a0efc69e01edc8", null ],
-    [ "_instance", "db/d10/a12670.html#a8c6b389e2df34d5f47b2599fc78ad072", null ]
+    [ "boss_vanndarAI", "db/d10/a12670.html#ada061b4363340602fd1f4744433d9cf9", null ],
+    [ "AttackStart", "db/d10/a12670.html#a76ab9327e04b82b534a9b3ea59b377d1", null ],
+    [ "EnterEvadeMode", "db/d10/a12670.html#a9ba6e2620a25728bf30d4d813a82b781", null ],
+    [ "JustEngagedWith", "db/d10/a12670.html#abde00baf4099361b8c26e6e0cf6c1517", null ],
+    [ "Reset", "db/d10/a12670.html#a1c2fdf4351a43047f02bec1d46423cb8", null ],
+    [ "UpdateAI", "db/d10/a12670.html#ab410ed8d64cd91bd6c4b78b2ed678eab", null ],
+    [ "Attacked", "db/d10/a12670.html#ac5994c76a9d84cf303021a9298673d68", null ],
+    [ "AvatarTimer", "db/d10/a12670.html#a3bed38b10a87baf50e9c9a57229bd464", null ],
+    [ "ResetTimer", "db/d10/a12670.html#ae1c4e16cd9ad68e4700d68ed64baa8e2", null ],
+    [ "StormboltTimer", "db/d10/a12670.html#a71ef70c1b504be2b00be1a70e85bc18a", null ],
+    [ "ThunderclapTimer", "db/d10/a12670.html#a681a103b6cf937dad3fb15e5be358c26", null ],
+    [ "YellTimer", "db/d10/a12670.html#a2b8503aaae0fd5e8cd92bb9650ee6ee3", null ]
 ];

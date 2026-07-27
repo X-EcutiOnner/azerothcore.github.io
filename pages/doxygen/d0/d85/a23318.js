@@ -1,8 +1,6 @@
 var a23318 =
 [
-    [ "FilterTargets", "d0/d85/a23318.html#ae366594b668331a19f384ceb48654c0c", null ],
-    [ "HandleOnHit", "d0/d85/a23318.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
-    [ "PrepareSpellScript", "d0/d85/a23318.html#a71aa4018d293391a73d3317c1e80951d", null ],
-    [ "Register", "d0/d85/a23318.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
-    [ "Validate", "d0/d85/a23318.html#a3747ad271dc659436ae7a8203b964554", null ]
+    [ "HandleScript", "d0/d85/a23318.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "d0/d85/a23318.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "d0/d85/a23318.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

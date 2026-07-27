@@ -1,7 +1,13 @@
 var a05798 =
 [
-    [ "Count", "d5/db7/a05798.html#aeeb13e953eff5fde8c9edff41ee17806", null ],
-    [ "FromIndex", "d5/db7/a05798.html#a8c6cb9f0a8d3488956904e2141405cf7", null ],
-    [ "ToIndex", "d5/db7/a05798.html#a25cc4ea08020adcf6deac42e2912b1f9", null ],
-    [ "ToString", "d5/db7/a05798.html#a8d3379c79f103655dd49d993402b741d", null ]
+    [ "Node", "dd/dd9/a05802.html", "dd/dd9/a05802" ],
+    [ "StringType", "d5/db7/a05798.html#a190468425cf4a0621df5dc11462a005d", null ],
+    [ "StringViewType", "d5/db7/a05798.html#a3bffdd73d3b80a5709bab0c14d510b76", null ],
+    [ "AhoCorasick", "d5/db7/a05798.html#a4dc282eb219843ea3ec64802a0a99397", null ],
+    [ "Build", "d5/db7/a05798.html#acadbe68a1fac7c78d834e3e41e90c03c", null ],
+    [ "Clear", "d5/db7/a05798.html#a2a1f1025a714e141f17031bdcc5014ab", null ],
+    [ "ContainsAny", "d5/db7/a05798.html#adc4ef2a2b7484c5f7423c5227391166d", null ],
+    [ "Empty", "d5/db7/a05798.html#a776d8978db1f9fe958bd271d51ad7cf6", null ],
+    [ "Insert", "d5/db7/a05798.html#a1a08a72b3dcb19b69dff27f570352249", null ],
+    [ "_nodes", "d5/db7/a05798.html#a8454549daa1da98e8e0579acac2f4915", null ]
 ];

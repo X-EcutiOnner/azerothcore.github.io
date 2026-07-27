@@ -1,6 +1,6 @@
 var a18650 =
 [
-    [ "ActivateSpirit", "d5/d3d/a18650.html#ae5c9f8e693a98c828e0e922870552952", null ],
-    [ "PrepareSpellScript", "d5/d3d/a18650.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
-    [ "Register", "d5/d3d/a18650.html#a2b1d27e93a879681098a83d17c4d686a", null ]
+    [ "npc_tirion_fordringAI", "d8/deb/a18654.html", "d8/deb/a18654" ],
+    [ "npc_tirion_fordring_tft", "d5/d3d/a18650.html#a04036d958e7ac643c9ba8d9073bca404", null ],
+    [ "GetAI", "d5/d3d/a18650.html#a41dcfa415831091531cbf46e946f442d", null ]
 ];

@@ -1,7 +1,23 @@
 var a16474 =
 [
-    [ "HandleDummy", "dc/d7b/a16474.html#a96b430cb0546fb599da22cd675660187", null ],
-    [ "PrepareSpellScript", "dc/d7b/a16474.html#ad0330cb78a330f05c18f33375f231fbc", null ],
-    [ "Register", "dc/d7b/a16474.html#a70a36683a235dec6044a8a32f20c606c", null ],
-    [ "Validate", "dc/d7b/a16474.html#affa7ccf869e98eacd3a153cc645d704e", null ]
+    [ "boss_sartharion", "dc/d7b/a16474.html#a9442f10d85f4e618f29db32d6d41cace", null ],
+    [ "DamageTaken", "dc/d7b/a16474.html#aea02fe5145c8ca179a350668cb962403", null ],
+    [ "DoAction", "dc/d7b/a16474.html#aa4b3b33c0294105a240b8f19c00b67ba", null ],
+    [ "EnterEvadeMode", "dc/d7b/a16474.html#a329135f26387b0292934111922bc33d1", null ],
+    [ "GetData", "dc/d7b/a16474.html#a0e38be21344f596147f20a8ed46673ec", null ],
+    [ "JustDied", "dc/d7b/a16474.html#a38742a243890907b2cb6e39c0624abd0", null ],
+    [ "JustEngagedWith", "dc/d7b/a16474.html#a5e942b6892cdec46c7113d1b75f6d0ae", null ],
+    [ "JustSummoned", "dc/d7b/a16474.html#aedd7e43d6d0a0a51f19cb57d8d47a3c5", null ],
+    [ "KilledUnit", "dc/d7b/a16474.html#a68b87b8d9147307231e16d0634d3f8c6", null ],
+    [ "Reset", "dc/d7b/a16474.html#ae6f2feeb68baaf265882bc46c9d388f2", null ],
+    [ "SendLavaWaves", "dc/d7b/a16474.html#a61a25f3f8f1b0f92d8762b25a940ea77", null ],
+    [ "SetData", "dc/d7b/a16474.html#a1e1a54ad847a81ce29554081583483e2", null ],
+    [ "SummonLavaWaves", "dc/d7b/a16474.html#a8f1a9bb569613ef3df2c28490328e91d", null ],
+    [ "SummonStartingTriggers", "dc/d7b/a16474.html#aef30845772ce56ad04091eda58b143ec", null ],
+    [ "UpdateAI", "dc/d7b/a16474.html#a37f17241f7773e63ba86f071d655da4d", null ],
+    [ "below11PctReached", "dc/d7b/a16474.html#a5c6190735f90121bdcd0572d7a38bae2", null ],
+    [ "dragonsCount", "dc/d7b/a16474.html#a7fd5e7cf7579df3f918f94b4f89456fe", null ],
+    [ "extraEvents", "dc/d7b/a16474.html#a734bc263b462552a633416489aead62c", null ],
+    [ "usedBerserk", "dc/d7b/a16474.html#a8821dec08484bc1794cb3ab5ea961abc", null ],
+    [ "volcanoBlows", "dc/d7b/a16474.html#a4afb5ee2520c9a0648b978b5659d6c3a", null ]
 ];

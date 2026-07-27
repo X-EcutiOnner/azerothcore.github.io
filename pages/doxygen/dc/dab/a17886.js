@@ -1,6 +1,6 @@
 var a17886 =
 [
-    [ "IgbExplosionCheck", "dc/dab/a17886.html#ae67cca111f26a275614810cbe053bcd8", null ],
-    [ "operator()", "dc/dab/a17886.html#a28ce6685366e99db2aa1e4022012f943", null ],
-    [ "_source", "dc/dab/a17886.html#a413ee8f2218621d274d118aea967dc9b", null ]
+    [ "ModAuraValue", "dc/dab/a17886.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "dc/dab/a17886.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "dc/dab/a17886.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

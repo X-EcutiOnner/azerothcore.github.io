@@ -1,4 +1,5 @@
 var a01004 =
 [
-    [ "ScriptRegistry< WorldMapScript >", "df/dbc/a01004.html#a729e333e6d0c4e5e353dd22c9612f446", null ]
+    [ "WorldPackets::Totem::TotemDestroyed", "d5/d96/a11654.html", "d5/d96/a11654" ],
+    [ "WorldPackets::Totem::TotemCreated", "da/dec/a11658.html", "da/dec/a11658" ]
 ];

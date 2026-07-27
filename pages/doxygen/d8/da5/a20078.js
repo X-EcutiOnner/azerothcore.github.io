@@ -1,7 +1,6 @@
 var a20078 =
 [
-    [ "achievement_flame_leviathan_garage", "d8/da5/a20078.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "d8/da5/a20078.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "d8/da5/a20078.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "d8/da5/a20078.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "df/db3/a20082.html", "df/db3/a20082" ],
+    [ "instance_halls_of_stone", "d8/da5/a20078.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "d8/da5/a20078.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

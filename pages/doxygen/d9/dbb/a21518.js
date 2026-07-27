@@ -1,6 +1,7 @@
 var a21518 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "df/d27/a21522.html", "df/d27/a21522" ],
-    [ "npc_commander_eligor_dawnbringer", "d9/dbb/a21518.html#a71d919af98464d6d63f948507f3ff08c", null ],
-    [ "GetAI", "d9/dbb/a21518.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
+    [ "npc_azure_stalker", "d9/dbb/a21518.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
+    [ "Reset", "d9/dbb/a21518.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
+    [ "UpdateAI", "d9/dbb/a21518.html#a22352aad7c55a4d454b9732469395139", null ],
+    [ "_events", "d9/dbb/a21518.html#ad83249d787d2f763ac2d01723ff305ef", null ]
 ];

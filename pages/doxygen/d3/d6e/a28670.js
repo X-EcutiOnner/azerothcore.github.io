@@ -1,14 +1,7 @@
 var a28670 =
 [
-    [ "HasFlag", "d3/d6e/a28670.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
-    [ "alliance", "d3/d6e/a28670.html#a44c3824aef4f4724c189727f12801a5b", null ],
-    [ "CinematicSequence", "d3/d6e/a28670.html#a33a01b1c26b21706d9898af246f2a0df", null ],
-    [ "expansion", "d3/d6e/a28670.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
-    [ "FactionID", "d3/d6e/a28670.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
-    [ "Flags", "d3/d6e/a28670.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
-    [ "model_f", "d3/d6e/a28670.html#a4807227fd863e247b18d29db0ea8236a", null ],
-    [ "model_m", "d3/d6e/a28670.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
-    [ "name", "d3/d6e/a28670.html#a4970323e45feb3f74b47420648371ab6", null ],
-    [ "RaceID", "d3/d6e/a28670.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
-    [ "TeamID", "d3/d6e/a28670.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
+    [ "npc_flameshocker", "d3/d6e/a28670.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
+    [ "JustDied", "d3/d6e/a28670.html#aba94a5bcec75c649049d5816a53ace58", null ],
+    [ "Reset", "d3/d6e/a28670.html#a13cb88e2b33df2d910fb73053684b420", null ],
+    [ "UpdateAI", "d3/d6e/a28670.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
 ];

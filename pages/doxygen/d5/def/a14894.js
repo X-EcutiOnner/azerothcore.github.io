@@ -1,7 +1,7 @@
 var a14894 =
 [
-    [ "HandleScript", "d5/def/a14894.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
-    [ "PrepareSpellScript", "d5/def/a14894.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
-    [ "Register", "d5/def/a14894.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
-    [ "Validate", "d5/def/a14894.html#aa1e74de390a8b71e43e43664981a36ff", null ]
+    [ "HandleEffectApply", "d5/def/a14894.html#a22f3143b10155635194abe22994a397c", null ],
+    [ "HandleEffectRemove", "d5/def/a14894.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
+    [ "PrepareAuraScript", "d5/def/a14894.html#abb4f53a42e701323b2fc66598ec3503c", null ],
+    [ "Register", "d5/def/a14894.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
 ];

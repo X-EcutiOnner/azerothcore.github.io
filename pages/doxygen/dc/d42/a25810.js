@@ -1,6 +1,7 @@
 var a25810 =
 [
-    [ "CheckCast", "dc/d42/a25810.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
-    [ "PrepareSpellScript", "dc/d42/a25810.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
-    [ "Register", "dc/d42/a25810.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
+    [ "CheckProc", "dc/d42/a25810.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
+    [ "HandleProc", "dc/d42/a25810.html#a5cf9cea911ead2f261522e55e94c745a", null ],
+    [ "PrepareAuraScript", "dc/d42/a25810.html#a3f2b20607f90ad641769eb284ddfab85", null ],
+    [ "Register", "dc/d42/a25810.html#a55557026689613e91aeabce1af442237", null ]
 ];

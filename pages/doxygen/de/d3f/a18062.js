@@ -1,6 +1,8 @@
 var a18062 =
 [
-    [ "UnboundPlagueTargetSelector", "de/d3f/a18062.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "de/d3f/a18062.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "de/d3f/a18062.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "HandlePeriodic", "de/d3f/a18062.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "de/d3f/a18062.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "de/d3f/a18062.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "de/d3f/a18062.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "de/d3f/a18062.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

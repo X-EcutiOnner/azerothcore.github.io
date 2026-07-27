@@ -1,7 +1,12 @@
 var a22958 =
 [
-    [ "PeriodicTick", "d5/df1/a22958.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
-    [ "PrepareAuraScript", "d5/df1/a22958.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
-    [ "Register", "d5/df1/a22958.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
-    [ "Validate", "d5/df1/a22958.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
+    [ "boss_shade_of_akama", "d5/df1/a22958.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "d5/df1/a22958.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "d5/df1/a22958.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "d5/df1/a22958.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "d5/df1/a22958.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "d5/df1/a22958.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "d5/df1/a22958.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "d5/df1/a22958.html#a258bbeecb517a04ab8e3bac2a753a5bd", null ],
+    [ "generators", "d5/df1/a22958.html#a94a1010bce54768ee2dca72d4f6eec34", null ]
 ];

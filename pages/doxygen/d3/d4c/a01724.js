@@ -1,25 +1,14 @@
 var a01724 =
 [
-    [ "PlayerDump", "d3/d78/a12176.html", "d3/d78/a12176" ],
-    [ "PlayerDumpWriter", "d5/de2/a12180.html", "d5/de2/a12180" ],
-    [ "PlayerDumpReader", "dd/d14/a12184.html", "dd/d14/a12184" ],
-    [ "DumpReturn", "d3/d4c/a01724.html#a4471667403db9bc7532f371d28743866", [
-      [ "DUMP_SUCCESS", "d3/d4c/a01724.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
-      [ "DUMP_FILE_OPEN_ERROR", "d3/d4c/a01724.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
-      [ "DUMP_TOO_MANY_CHARS", "d3/d4c/a01724.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
-      [ "DUMP_FILE_BROKEN", "d3/d4c/a01724.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
-      [ "DUMP_CHARACTER_DELETED", "d3/d4c/a01724.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ]
-    ] ],
-    [ "DumpTableType", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7ef", [
-      [ "DTT_CHARACTER", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
-      [ "DTT_CHAR_TABLE", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
-      [ "DTT_EQSET_TABLE", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
-      [ "DTT_INVENTORY", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
-      [ "DTT_MAIL", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
-      [ "DTT_MAIL_ITEM", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
-      [ "DTT_ITEM", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
-      [ "DTT_ITEM_GIFT", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
-      [ "DTT_PET", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
-      [ "DTT_PET_TABLE", "d3/d4c/a01724.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
+    [ "ArenaScript", "d1/de3/a10718.html", "d1/de3/a10718" ],
+    [ "ArenaHook", "d3/d4c/a01724.html#a93515f145fed15b3645f2240f39214ba", [
+      [ "ARENAHOOK_CAN_ADD_MEMBER", "d3/d4c/a01724.html#a93515f145fed15b3645f2240f39214baa0eec08769f1e2848ef510ae5bc1980d0", null ],
+      [ "ARENAHOOK_ON_GET_POINTS", "d3/d4c/a01724.html#a93515f145fed15b3645f2240f39214baab3934eeceaededbb59ec277bc4275588", null ],
+      [ "ARENAHOOK_CAN_SAVE_TO_DB", "d3/d4c/a01724.html#a93515f145fed15b3645f2240f39214baa707580e05d247690d89335a46d576657", null ],
+      [ "ARENAHOOK_ON_BEFORE_CHECK_WIN_CONDITION", "d3/d4c/a01724.html#a93515f145fed15b3645f2240f39214baa8f35d3e6970c95df27f631f3f5558a5e", null ],
+      [ "ARENAHOOK_ON_ARENA_START", "d3/d4c/a01724.html#a93515f145fed15b3645f2240f39214baac02079e51af3fd7c3507a8a6f88fee09", null ],
+      [ "ARENAHOOK_ON_BEFORE_TEAM_MEMBER_UPDATE", "d3/d4c/a01724.html#a93515f145fed15b3645f2240f39214baade4a09676bcc54d050070c72869f1a03", null ],
+      [ "ARENAHOOK_CAN_SAVE_ARENA_STATS_FOR_MEMBER", "d3/d4c/a01724.html#a93515f145fed15b3645f2240f39214baad43433f7b2150f062d884904a861ede7", null ],
+      [ "ARENAHOOK_END", "d3/d4c/a01724.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58", null ]
     ] ]
 ];

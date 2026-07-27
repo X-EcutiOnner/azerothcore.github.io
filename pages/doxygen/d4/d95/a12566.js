@@ -1,8 +1,7 @@
 var a12566 =
 [
-    [ "boss_highlord_omokk", "d4/d95/a12566.html#a31dd2c47b3ed33fa65d3b6a7a5cb384c", null ],
-    [ "JustDied", "d4/d95/a12566.html#a2a8931227eb65759ceebd27919976cb5", null ],
-    [ "JustEngagedWith", "d4/d95/a12566.html#a0bd4e1e0f72a0b6a8792d508c401caf8", null ],
-    [ "Reset", "d4/d95/a12566.html#ada6bf702dc1827e60b558b4fb752b789", null ],
-    [ "UpdateAI", "d4/d95/a12566.html#a131ebd1dd8d95c7d910af1b21442c861", null ]
+    [ "FoundObjects", "d4/d95/a12566.html#a061c4e27b4a9646bc3636b7642ad9fce", null ],
+    [ "X", "d4/d95/a12566.html#a9a184093c44a45addd7a7bae891496c0", null ],
+    [ "Y", "d4/d95/a12566.html#a86ac02df716e991f629647941dcb29cb", null ],
+    [ "Z", "d4/d95/a12566.html#a50477b2e983580c94b348f7e408a8363", null ]
 ];

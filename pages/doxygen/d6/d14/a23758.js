@@ -1,7 +1,9 @@
 var a23758 =
 [
-    [ "npc_maxx_a_million_escortAI", "d9/d64/a23762.html", "d9/d64/a23762" ],
-    [ "npc_maxx_a_million_escort", "d6/d14/a23758.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "d6/d14/a23758.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "d6/d14/a23758.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "boss_high_botanist_freywinn", "d6/d14/a23758.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
+    [ "JustDied", "d6/d14/a23758.html#a7b370482ea195d0305cba339ce0cbab3", null ],
+    [ "JustEngagedWith", "d6/d14/a23758.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
+    [ "KilledUnit", "d6/d14/a23758.html#a80a997e0d12c175da0a46d7362890b9c", null ],
+    [ "ResumeEncounter", "d6/d14/a23758.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
+    [ "SummonedCreatureDies", "d6/d14/a23758.html#a7f1a02d4b944191471f59ba728b6372e", null ]
 ];

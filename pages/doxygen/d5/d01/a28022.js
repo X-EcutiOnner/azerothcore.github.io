@@ -1,10 +1,5 @@
 var a28022 =
 [
-    [ "npc_prof_tailor", "d5/d01/a28022.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "d5/d01/a28022.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "d5/d01/a28022.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "d5/d01/a28022.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "d5/d01/a28022.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "d5/d01/a28022.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "d5/d01/a28022.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "achievement_fa_la_la_la_ogrila", "d5/d01/a28022.html#ab98a8ab33fec62936bf3c235659c1445", null ],
+    [ "OnCheck", "d5/d01/a28022.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
 ];

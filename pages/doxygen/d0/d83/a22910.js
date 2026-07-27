@@ -1,7 +1,6 @@
 var a22910 =
 [
-    [ "HandleEffectRemove", "d0/d83/a22910.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
-    [ "HandlePeriodic", "d0/d83/a22910.html#a5137e24394fa14129c44d92c79eef117", null ],
-    [ "PrepareAuraScript", "d0/d83/a22910.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
-    [ "Register", "d0/d83/a22910.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
+    [ "boss_essence_of_sufferingAI", "df/d25/a22914.html", "df/d25/a22914" ],
+    [ "boss_essence_of_suffering", "d0/d83/a22910.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "d0/d83/a22910.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

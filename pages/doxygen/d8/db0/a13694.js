@@ -1,18 +1,11 @@
 var a13694 =
 [
-    [ "boss_kiljaeden", "d8/db0/a13694.html#a573b32098eac346f3f9485eb46792b1b", null ],
-    [ "AttackStart", "d8/db0/a13694.html#a9ad882dda480a564406628bfde386e57", null ],
-    [ "DamageTaken", "d8/db0/a13694.html#afd668a9d98182d7e05ca38040e55e908", null ],
-    [ "DoAction", "d8/db0/a13694.html#a53f78e51932d98886fadd9422adf96ce", null ],
-    [ "EmpowerOrb", "d8/db0/a13694.html#ade10c2e693f41d5d0240bce37d5c1168", null ],
-    [ "EnterEvadeMode", "d8/db0/a13694.html#a8e765740602b4f9efddafa5f2bdc8909", null ],
-    [ "InitializeAI", "d8/db0/a13694.html#ac72d5d9615040c981e8e4e932be8c362", null ],
-    [ "JustDied", "d8/db0/a13694.html#a82376e807061529bfd8fb4e52d409acf", null ],
-    [ "JustEngagedWith", "d8/db0/a13694.html#aac01e1f8b7b7dfb80a62f3eb0105ed10", null ],
-    [ "JustSummoned", "d8/db0/a13694.html#a3b983a903618b5bfebf7b45819207fde", null ],
-    [ "KilledUnit", "d8/db0/a13694.html#a220cf460466c44a82ce3933d2c5f27f8", null ],
-    [ "Reset", "d8/db0/a13694.html#aa45b8e5f598f68183b390e3239f0f75c", null ],
-    [ "ScheduleBasicAbilities", "d8/db0/a13694.html#a345f52703c9d72be2a67ff46ac1a0472", null ],
-    [ "UpdateAI", "d8/db0/a13694.html#aedcd604a535ce354881d7e59a05a79b9", null ],
-    [ "_phase", "d8/db0/a13694.html#a6878b5b88a45f1a5d70d866e9850041d", null ]
+    [ "boss_alythess", "d8/db0/a13694.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
+    [ "AttackStart", "d8/db0/a13694.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
+    [ "DoAction", "d8/db0/a13694.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
+    [ "JustDied", "d8/db0/a13694.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
+    [ "JustEngagedWith", "d8/db0/a13694.html#ac5047ee0124864304284c1142e885158", null ],
+    [ "KilledUnit", "d8/db0/a13694.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
+    [ "Reset", "d8/db0/a13694.html#ab5f990d305f42a2d00e182f617175672", null ],
+    [ "_isSisterDead", "d8/db0/a13694.html#a9f9fa0823685066b4990a17880782b9a", null ]
 ];

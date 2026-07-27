@@ -1,7 +1,6 @@
 var a23178 =
 [
-    [ "boss_the_maker", "d2/d85/a23178.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "d2/d85/a23178.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "d2/d85/a23178.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "d2/d85/a23178.html#a40643ca00fe7d7029a291335e47c722a", null ]
+    [ "HandleScriptEffect", "d2/d85/a23178.html#a62ed9bff154c5aab74e044f8f9982263", null ],
+    [ "PrepareSpellScript", "d2/d85/a23178.html#a0e87265cf22ef8b4e302b8e216123395", null ],
+    [ "Register", "d2/d85/a23178.html#a0d722447d91991462245e8b392d20e10", null ]
 ];

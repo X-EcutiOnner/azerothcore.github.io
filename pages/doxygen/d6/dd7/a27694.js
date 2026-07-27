@@ -1,6 +1,6 @@
 var a27694 =
 [
-    [ "boss_ysondreAI", "d3/d71/a27698.html", "d3/d71/a27698" ],
-    [ "boss_ysondre", "d6/dd7/a27694.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
-    [ "GetAI", "d6/dd7/a27694.html#a0da215d7bc8ee86216887e682b9335c3", null ]
+    [ "HandleDummy", "d6/dd7/a27694.html#a2560417162a1c17cb067cdfeb2fc909d", null ],
+    [ "PrepareSpellScript", "d6/dd7/a27694.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c", null ],
+    [ "Register", "d6/dd7/a27694.html#a27aece218c848064ae387491f9176099", null ]
 ];

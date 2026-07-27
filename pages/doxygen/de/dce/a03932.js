@@ -1,6 +1,10 @@
 var a03932 =
 [
-    [ "fireworkShowGameobjectOrgrimmar", "de/dce/a03932.html#aa00988212bcd8875445e2b120c00025c", null ],
-    [ "fireworkShowOrgrimmar", "de/dce/a03932.html#a20e15c8e61c734af478a4849bd54c9d3", null ],
-    [ "fireworkShowScheduleOrgrimmar", "de/dce/a03932.html#a2e2ca4fa893601a2122f94a72c18401f", null ]
+    [ "spell_razelikh_teleport_group", "dd/d75/a13962.html", "dd/d75/a13962" ],
+    [ "DeathlyUsher", "de/dce/a03932.html#aaff0e89586a03a5c2b80f93a4fe0ded7", [
+      [ "SPELL_TELEPORT_SINGLE", "de/dce/a03932.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3cdd675db7120b3a968f19df07485e7d", null ],
+      [ "SPELL_TELEPORT_SINGLE_IN_GROUP", "de/dce/a03932.html#aaff0e89586a03a5c2b80f93a4fe0ded7a138ccf86c6441c7347a973d3e04c62a5", null ],
+      [ "SPELL_TELEPORT_GROUP", "de/dce/a03932.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc", null ]
+    ] ],
+    [ "AddSC_blasted_lands", "de/dce/a03932.html#a8c45aaff0bee880d1bac07d32d1747f1", null ]
 ];

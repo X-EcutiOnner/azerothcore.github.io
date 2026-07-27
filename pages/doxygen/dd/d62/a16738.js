@@ -1,8 +1,9 @@
 var a16738 =
 [
-    [ "npc_toc_warlockAI", "dd/d62/a16738.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
-    [ "JustSummoned", "dd/d62/a16738.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
-    [ "myCanCast", "dd/d62/a16738.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
-    [ "UpdateAI", "dd/d62/a16738.html#a554849d02d923439bd810b7d8c242afa", null ],
-    [ "events", "dd/d62/a16738.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
+    [ "npc_memoryAI", "dd/d62/a16738.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "dd/d62/a16738.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "dd/d62/a16738.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "dd/d62/a16738.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "dd/d62/a16738.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "dd/d62/a16738.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

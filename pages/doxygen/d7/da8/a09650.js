@@ -1,10 +1,8 @@
 var a09650 =
 [
-    [ "MostHPPercentMissingInRange", "d7/da8/a09650.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
-    [ "operator()", "d7/da8/a09650.html#ab1734490a3db95ad715756e85ecfaf77", null ],
-    [ "i_hpPct", "d7/da8/a09650.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
-    [ "i_maxHpPct", "d7/da8/a09650.html#afd12795ef0cd99e05e4e21f869582416", null ],
-    [ "i_minHpPct", "d7/da8/a09650.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
-    [ "i_obj", "d7/da8/a09650.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
-    [ "i_range", "d7/da8/a09650.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
+    [ "GameObjectWorker", "d7/da8/a09650.html#a79dd3983b007d982bbb1f0b33c5c7a54", null ],
+    [ "Visit", "d7/da8/a09650.html#a754197d7a9aa3203cda964cbee81ae9a", null ],
+    [ "Visit", "d7/da8/a09650.html#a47a10a6790179eb5b78cbb66dd9d7b54", null ],
+    [ "_func", "d7/da8/a09650.html#abeaa251f909368e3ebeeff4dcefbda94", null ],
+    [ "_phaseMask", "d7/da8/a09650.html#accfe66385f5bbfb461d0493c22fde20e", null ]
 ];

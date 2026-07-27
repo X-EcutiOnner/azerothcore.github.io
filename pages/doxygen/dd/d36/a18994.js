@@ -1,7 +1,7 @@
 var a18994 =
 [
-    [ "HandleDummyLaunch", "dd/d36/a18994.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
-    [ "PrepareSpellScript", "dd/d36/a18994.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
-    [ "Register", "dd/d36/a18994.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
-    [ "Validate", "dd/d36/a18994.html#a577166695c1479e3730a70637bc18cf1", null ]
+    [ "HandleForceCast", "dd/d36/a18994.html#accc757e0a23103242865f0ce3085f9d9", null ],
+    [ "Load", "dd/d36/a18994.html#a7206571378a0196a8648659628bdeece", null ],
+    [ "PrepareSpellScript", "dd/d36/a18994.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
+    [ "Register", "dd/d36/a18994.html#ace665321732f59f13b2ef831c71c2f18", null ]
 ];

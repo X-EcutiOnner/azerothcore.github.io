@@ -1,5 +1,5 @@
 var a00092 =
 [
-    [ "_CRT_SECURE_NO_DEPRECATE", "d1/dc1/a00092.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "MverMagic", "d1/dc1/a00092.html#a076cdc3e61f69e52913492840fc864cf", null ]
+    [ "threadsCleanup", "d1/dc1/a00092.html#af868d9171650614810772c5675c47fd3", null ],
+    [ "threadsSetup", "d1/dc1/a00092.html#ae2c343f2efc8fa69b50e1bd35bf410fd", null ]
 ];

@@ -1,10 +1,6 @@
 var a13806 =
 [
-    [ "npc_sunblade_scout", "dd/dd9/a13806.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
-    [ "JustEngagedWith", "dd/dd9/a13806.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
-    [ "Reset", "dd/dd9/a13806.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
-    [ "ScheduleCombat", "dd/dd9/a13806.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
-    [ "ScheduleOOC", "dd/dd9/a13806.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
-    [ "UpdateAI", "dd/dd9/a13806.html#aca75482085b72070487c24feefa23fd6", null ],
-    [ "_protectorGUID", "dd/dd9/a13806.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
+    [ "FixOrientation", "dd/dd9/a13806.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
+    [ "Execute", "dd/dd9/a13806.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
+    [ "_owner", "dd/dd9/a13806.html#a5f12db3774bdeef25a300780c00db1fb", null ]
 ];

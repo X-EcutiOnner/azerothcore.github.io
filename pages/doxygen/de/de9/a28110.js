@@ -1,10 +1,6 @@
 var a28110 =
 [
-    [ "npc_air_force_botsAI", "de/de9/a28110.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "de/de9/a28110.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "de/de9/a28110.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "de/de9/a28110.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "de/de9/a28110.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "de/de9/a28110.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedGUID", "de/de9/a28110.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "boss_emerissAI", "de/d3f/a28114.html", "de/d3f/a28114" ],
+    [ "boss_emeriss", "de/de9/a28110.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "de/de9/a28110.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

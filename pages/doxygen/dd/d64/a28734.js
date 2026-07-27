@@ -1,16 +1,20 @@
 var a28734 =
 [
-    [ "CanBeSetAtWar", "dd/d64/a28734.html#ae165dc23f25386eb086e1fa2cb820153", null ],
-    [ "CanHaveReputation", "dd/d64/a28734.html#ab3da6918e197c1098a932418d5c51799", null ],
-    [ "BaseRepClassMask", "dd/d64/a28734.html#ae73655de567de3766fcb3bbfb7f9eed3", null ],
-    [ "BaseRepRaceMask", "dd/d64/a28734.html#aa8e1c08416d07882af7075fbb020ae5a", null ],
-    [ "BaseRepValue", "dd/d64/a28734.html#a52f0753d1e1e69a4994eb6b1eab6824c", null ],
-    [ "ID", "dd/d64/a28734.html#a1953f7a343201113dae80cdd97e1ac90", null ],
-    [ "name", "dd/d64/a28734.html#ad9d326ed1aac5ea66825775665dfea00", null ],
-    [ "ReputationFlags", "dd/d64/a28734.html#ae23a3c94554b2043928d6e1ea748e709", null ],
-    [ "reputationListID", "dd/d64/a28734.html#aee99121c2d7298e16540229923391aee", null ],
-    [ "spilloverMaxRankIn", "dd/d64/a28734.html#a14cea5365f14880850e788ba328d0c8e", null ],
-    [ "spilloverRateIn", "dd/d64/a28734.html#a7a72bc65fb3fe76ffa1d072800c5daed", null ],
-    [ "spilloverRateOut", "dd/d64/a28734.html#a7cea150843bf48277aa9cc917d210fcb", null ],
-    [ "team", "dd/d64/a28734.html#a6210fabf2688f26a0a0050f6c148485d", null ]
+    [ "iterator", "dd/d64/a28734.html#acbe3d8adad76c063eeff0472b14e9c2d", null ],
+    [ "DBCStorage", "dd/d64/a28734.html#a1aac83146adf1d72b98f641acf133353", null ],
+    [ "~DBCStorage", "dd/d64/a28734.html#a52478c32db2c7d0bfddfc5c3f614b2c2", null ],
+    [ "DBCStorage", "dd/d64/a28734.html#af1212e7eac4a35aed1cc30d1885093d0", null ],
+    [ "AssertEntry", "dd/d64/a28734.html#a2193a31f1a96f04c113191e0e200af57", null ],
+    [ "begin", "dd/d64/a28734.html#a43338cbd450480a91ed25228611dfe89", null ],
+    [ "end", "dd/d64/a28734.html#a00d89ccb706cdf73c3cd3840333504cc", null ],
+    [ "GetNumRows", "dd/d64/a28734.html#ab7d5f0bdff10c1473c68ad5ccb71e8f1", null ],
+    [ "Load", "dd/d64/a28734.html#aad72c211d47bfeb5b82636c131507083", null ],
+    [ "LoadFromDB", "dd/d64/a28734.html#a3900db604c7fa373d55c161006f8752a", null ],
+    [ "LoadStringsFrom", "dd/d64/a28734.html#a26fd44b61cf6352b99122abb23768a97", null ],
+    [ "LookupEntry", "dd/d64/a28734.html#a6cb9477a0d94271c073f5850ad23ae07", null ],
+    [ "operator=", "dd/d64/a28734.html#ace37b566e9013928a845c981437158ae", null ],
+    [ "SetEntry", "dd/d64/a28734.html#a2e738aadf73e51ee4787a45d8b4908d3", null ],
+    [ "_indexTable", "dd/d64/a28734.html#a208b75c3499d30e1e3404504d8bc80e1", null ],
+    [ "AsChar", "dd/d64/a28734.html#a7ef1de4ced6822e264b73cbe72dcfc7c", null ],
+    [ "AsT", "dd/d64/a28734.html#a2002a0adee55fa79ec5a0cceab48b607", null ]
 ];

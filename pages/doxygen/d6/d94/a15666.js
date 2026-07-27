@@ -1,8 +1,5 @@
 var a15666 =
 [
-    [ "npc_death_ravagerAI", "d6/d94/a15666.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "d6/d94/a15666.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "d6/d94/a15666.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "d6/d94/a15666.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "d6/d94/a15666.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "at_cthun_stomach_exit", "d6/d94/a15666.html#ab37174eff353cdbba1f300464645ac63", null ],
+    [ "OnTrigger", "d6/d94/a15666.html#ab56dca3fe200dc7822459a22912247bf", null ]
 ];

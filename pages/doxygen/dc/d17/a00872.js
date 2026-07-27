@@ -1,4 +1,4 @@
 var a00872 =
 [
-    [ "ModuleScript", "d8/ded/a10788.html", "d8/ded/a10788" ]
+    [ "KillRewarder", "dc/d28/a08910.html", "dc/d28/a08910" ]
 ];

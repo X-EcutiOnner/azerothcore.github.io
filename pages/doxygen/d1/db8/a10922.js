@@ -1,7 +1,12 @@
 var a10922 =
 [
-    [ "QueryGuildInfoResponse", "d1/db8/a10922.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
-    [ "Write", "d1/db8/a10922.html#abda9452eba38e76c460f910eb3aad5fa", null ],
-    [ "GuildId", "d1/db8/a10922.html#a04eec0531238fa55a91afa11c394fbce", null ],
-    [ "Info", "d1/db8/a10922.html#a749e992a19264b259f62d403b4925abe", null ]
+    [ "Packet", "d1/db8/a10922.html#a316af2b7ce1ac7189fb1e57f534bad11", null ],
+    [ "~Packet", "d1/db8/a10922.html#a2ca1e6377bb2fb10bf042311e72eb5d4", null ],
+    [ "Packet", "d1/db8/a10922.html#a00213b64110a99004b3d9a6b38876cd4", null ],
+    [ "GetRawPacket", "d1/db8/a10922.html#a9d8649e1b035fe7387dcee3e0b062a5e", null ],
+    [ "GetSize", "d1/db8/a10922.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a", null ],
+    [ "operator=", "d1/db8/a10922.html#a6d2afd0d4b0d7daff11868854b7c4715", null ],
+    [ "Read", "d1/db8/a10922.html#a94afc4d66c2b5bced3063bab5a666bfd", null ],
+    [ "Write", "d1/db8/a10922.html#af7c79156d7b6cfe3142fc530f9ed262a", null ],
+    [ "_worldPacket", "d1/db8/a10922.html#ab85f1c9f20117bc5015180165c7b458a", null ]
 ];

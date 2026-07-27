@@ -1,6 +1,7 @@
 var a13570 =
 [
-    [ "HandleActivateObject", "d9/d43/a13570.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
-    [ "PrepareSpellScript", "d9/d43/a13570.html#ad55914fdc6771e09a508572d59ad30ed", null ],
-    [ "Register", "d9/d43/a13570.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
+    [ "npc_apothecary_genericAI", "d9/d43/a13570.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "d9/d43/a13570.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "d9/d43/a13570.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "d9/d43/a13570.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

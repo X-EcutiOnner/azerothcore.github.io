@@ -1,7 +1,6 @@
 var a20310 =
 [
-    [ "FilterTargetsInitial", "d2/dcf/a20310.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
-    [ "Load", "d2/dcf/a20310.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
-    [ "PrepareSpellScript", "d2/dcf/a20310.html#a4d1e588557fa3fa432d4015fda930877", null ],
-    [ "Register", "d2/dcf/a20310.html#a0428375ddb89907e7f1728757d55d052", null ]
+    [ "OnPeriodic", "d2/dcf/a20310.html#a379c55df994c58932fef7e7a59fd8426", null ],
+    [ "PrepareAuraScript", "d2/dcf/a20310.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
+    [ "Register", "d2/dcf/a20310.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
 ];

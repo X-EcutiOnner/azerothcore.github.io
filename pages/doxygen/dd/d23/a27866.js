@@ -1,5 +1,6 @@
 var a27866 =
 [
-    [ "go_jump_a_tron", "dd/d23/a27866.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
-    [ "OnGossipHello", "dd/d23/a27866.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
+    [ "HandleDummy", "dd/d23/a27866.html#a68a86f7f86324336dc837622e01fa6af", null ],
+    [ "PrepareSpellScript", "dd/d23/a27866.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
+    [ "Register", "dd/d23/a27866.html#ad168c9164d1edd23abfbf05141b96de4", null ]
 ];

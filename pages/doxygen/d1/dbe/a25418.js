@@ -1,6 +1,6 @@
 var a25418 =
 [
-    [ "HandlePreventAura", "d1/dbe/a25418.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
-    [ "PrepareSpellScript", "d1/dbe/a25418.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
-    [ "Register", "d1/dbe/a25418.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
+    [ "CheckRequirement", "d1/dbe/a25418.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
+    [ "PrepareSpellScript", "d1/dbe/a25418.html#aebb88f5ea803a590a099e4e6427d8276", null ],
+    [ "Register", "d1/dbe/a25418.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
 ];

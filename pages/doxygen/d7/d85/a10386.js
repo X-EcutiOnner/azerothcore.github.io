@@ -1,25 +1,9 @@
 var a10386 =
 [
-    [ "TaxiNodeChangeInfo", "d6/d23/a10390.html", "d6/d23/a10390" ],
-    [ "FlightPathMovementGenerator", "d7/d85/a10386.html#a2f30b03536f0f88a4b9b541f08019af0", null ],
-    [ "DoEventIfAny", "d7/d85/a10386.html#af7f2a72e9cf20bf105204b8de08400de", null ],
-    [ "DoFinalize", "d7/d85/a10386.html#af4017ff6e47601f667587fb7dd6a721c", null ],
-    [ "DoInitialize", "d7/d85/a10386.html#a4b0ab8a2be27b3640ff2155d734b467c", null ],
-    [ "DoReset", "d7/d85/a10386.html#abd78eb2841908da8c3c18936d80f18e9", null ],
-    [ "DoUpdate", "d7/d85/a10386.html#a1e4b3d248c0021a3e2a1c1446f6b7073", null ],
-    [ "GetMovementGeneratorType", "d7/d85/a10386.html#a8ef0966524b238a617487bde185de6f7", null ],
-    [ "GetPath", "d7/d85/a10386.html#a931a91b2e689d58098898f7b9533d632", null ],
-    [ "GetPathAtMapEnd", "d7/d85/a10386.html#a0493824ba23608abcf98a156cf89bb5a", null ],
-    [ "GetResetPos", "d7/d85/a10386.html#ae2cc924b7dd5252c1cb8fcf8679b7786", null ],
-    [ "HasArrived", "d7/d85/a10386.html#ad4a14cf3b7497cf30e6305d52d94ecdb", null ],
-    [ "InitEndGridInfo", "d7/d85/a10386.html#a6cf74faed9b8609fa74932148b6b4948", null ],
-    [ "LoadPath", "d7/d85/a10386.html#ae21613bcea0003b186b08761aaf525aa", null ],
-    [ "PreloadEndGrid", "d7/d85/a10386.html#ac7bb92b99dc57a2b53b0a55e0a797678", null ],
-    [ "SetCurrentNodeAfterTeleport", "d7/d85/a10386.html#a7ed3028aa5d9d71cf0d889d4063fae2a", null ],
-    [ "SkipCurrentNode", "d7/d85/a10386.html#a080a68e435698a14288f62ea6576a730", null ],
-    [ "_endGridX", "d7/d85/a10386.html#a8dd2719a015fca9fe46c8b3586b0434c", null ],
-    [ "_endGridY", "d7/d85/a10386.html#a1b0c069bcbcf3b13691b9ea80ac4c3a6", null ],
-    [ "_endMapId", "d7/d85/a10386.html#aa83bc85f1b6cd6d5367d745ae31cc6fc", null ],
-    [ "_pointsForPathSwitch", "d7/d85/a10386.html#a975eddf086fbd811fdebae405a62f2ea", null ],
-    [ "_preloadTargetNode", "d7/d85/a10386.html#a3192e87bc06fa21ea01f99ba23fe6eb1", null ]
+    [ "ChaseAngle", "d7/d85/a10386.html#a0744c615f437514a52b5a26fb717013a", null ],
+    [ "IsAngleOkay", "d7/d85/a10386.html#aec86c653850655b723e5224ea20b0e21", null ],
+    [ "LowerBound", "d7/d85/a10386.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
+    [ "UpperBound", "d7/d85/a10386.html#a275d01ce57b23d42d4150b10c8433dee", null ],
+    [ "RelativeAngle", "d7/d85/a10386.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
+    [ "Tolerance", "d7/d85/a10386.html#a2bb42885da594380cb742c29b6518ea3", null ]
 ];

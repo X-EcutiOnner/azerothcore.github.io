@@ -1,6 +1,11 @@
 var a23510 =
 [
-    [ "HandleScriptEffect", "d6/ddc/a23510.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
-    [ "PrepareSpellScript", "d6/ddc/a23510.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
-    [ "Register", "d6/ddc/a23510.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
+    [ "boss_kiggler_the_crazed", "d6/ddc/a23510.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
+    [ "AttackStart", "d6/ddc/a23510.html#a47c18487637dcb911852573e3aec85a2", null ],
+    [ "JustDied", "d6/ddc/a23510.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
+    [ "JustEngagedWith", "d6/ddc/a23510.html#acd10951a5b148579d0bd4196cc2e686e", null ],
+    [ "Reset", "d6/ddc/a23510.html#a3bd8ca2488b2db298a198038a849189e", null ],
+    [ "UpdateAI", "d6/ddc/a23510.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
+    [ "_scheduler", "d6/ddc/a23510.html#af041c254910df663a03fcc815db635da", null ],
+    [ "instance", "d6/ddc/a23510.html#aa78db443f19814c66b977fe008de74fa", null ]
 ];

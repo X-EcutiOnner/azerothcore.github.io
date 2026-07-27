@@ -1,6 +1,6 @@
 var a14662 =
 [
-    [ "gameobjectId", "df/d21/a14662.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "df/d21/a14662.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "df/d21/a14662.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "boss_wushoolayAI", "d3/d28/a14666.html", "d3/d28/a14666" ],
+    [ "boss_wushoolay", "df/d21/a14662.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
+    [ "GetAI", "df/d21/a14662.html#a70b476358956fd05d6effb75517e2b3d", null ]
 ];

@@ -1,11 +1,9 @@
 var a15674 =
 [
-    [ "npc_stillpine_capitiveAI", "d2/d2f/a15674.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
-    [ "MovementInform", "d2/d2f/a15674.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
-    [ "Reset", "d2/d2f/a15674.html#a9c884f892e64044057d477bdc0f89eed", null ],
-    [ "StartMoving", "d2/d2f/a15674.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
-    [ "UpdateAI", "d2/d2f/a15674.html#a25dc06767382b5fee2a7098b58726fb2", null ],
-    [ "_events", "d2/d2f/a15674.html#a93dd55d392836d8d085e34293344b700", null ],
-    [ "_movementComplete", "d2/d2f/a15674.html#ae8e39ca782aee412e39d65a33d14014e", null ],
-    [ "_playerGUID", "d2/d2f/a15674.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
+    [ "boss_fankriss", "d2/d2f/a15674.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
+    [ "JustEngagedWith", "d2/d2f/a15674.html#a9eaae719a271a95f64ac8076fe807c13", null ],
+    [ "Reset", "d2/d2f/a15674.html#af84010ee103eb81c1e269b03fc640f81", null ],
+    [ "SummonHatchlingWaves", "d2/d2f/a15674.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
+    [ "SummonWorms", "d2/d2f/a15674.html#ada23537921c3a11195450db89eb8fcfe", null ],
+    [ "summonWormSpells", "d2/d2f/a15674.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
 ];

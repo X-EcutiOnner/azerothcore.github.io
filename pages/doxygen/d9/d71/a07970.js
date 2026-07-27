@@ -1,4 +1,6 @@
 var a07970 =
 [
-    [ "value", "d9/d71/a07970.html#aa6558e36917995af6b37ec607751aefd", null ]
+    [ "value_type", "d9/d71/a07970.html#ac51f8d3476c4a938e81dfae8656ac70b", null ],
+    [ "operator()", "d9/d71/a07970.html#af40bcad820dec0ab0cf2758281f8a604", null ],
+    [ "operator()", "d9/d71/a07970.html#a4d601f73c9ab190a46438f34db4e04e6", null ]
 ];

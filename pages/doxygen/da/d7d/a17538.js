@@ -1,13 +1,11 @@
 var a17538 =
 [
-    [ "npc_kinetic_bombAI", "da/d7d/a17538.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
-    [ "DoAction", "da/d7d/a17538.html#a52e913b244e58f99745926d021dc0d95", null ],
-    [ "IsSummonedBy", "da/d7d/a17538.html#a03dc3870b23105bb1d0d207adefe2541", null ],
-    [ "Reset", "da/d7d/a17538.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
-    [ "UpdateAI", "da/d7d/a17538.html#a1ce9bf99879796652878990a773e6a2c", null ],
-    [ "_events", "da/d7d/a17538.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
-    [ "_groundZ", "da/d7d/a17538.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
-    [ "_x", "da/d7d/a17538.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
-    [ "_y", "da/d7d/a17538.html#a5d9f4039c87e1e57234af51cd4617022", null ],
-    [ "exploded", "da/d7d/a17538.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
+    [ "npc_pos_leader_secondAI", "da/d7d/a17538.html#a2ded8591da2548921cd016d592d1f1c8", null ],
+    [ "DoAction", "da/d7d/a17538.html#a941d3b42d6a0e58496b724af56fee44a", null ],
+    [ "MovementInform", "da/d7d/a17538.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
+    [ "SpellHitTarget", "da/d7d/a17538.html#ae630b7b225379831d15a11f66507bc6a", null ],
+    [ "UpdateAI", "da/d7d/a17538.html#a640aea9ce4a47dd13d417748e533fc33", null ],
+    [ "barrierGUID", "da/d7d/a17538.html#a452c096475581c12bf2f4ccb12448026", null ],
+    [ "events", "da/d7d/a17538.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
+    [ "pInstance", "da/d7d/a17538.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
 ];

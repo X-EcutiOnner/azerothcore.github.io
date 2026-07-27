@@ -1,7 +1,6 @@
 var a10974 =
 [
-    [ "GuildInvite", "d9/d49/a10974.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
-    [ "Write", "d9/d49/a10974.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
-    [ "GuildName", "d9/d49/a10974.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
-    [ "InviterName", "d9/d49/a10974.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
+    [ "ShowingHelm", "d9/d49/a10974.html#a67e25a4a39b14e488b5176b02e8dc995", null ],
+    [ "Read", "d9/d49/a10974.html#a9e6d525a7104f2a8f81564d3796c6211", null ],
+    [ "ShowHelm", "d9/d49/a10974.html#a9f3d52d5d6a6fa76b29afbd5a56d5622", null ]
 ];

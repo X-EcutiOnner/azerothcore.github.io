@@ -1,7 +1,7 @@
 var a22386 =
 [
-    [ "npc_blade_of_azzinoth", "d2/dba/a22386.html#a55afe56313c237afe8080662b2ed2dba", null ],
-    [ "DoAction", "d2/dba/a22386.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
-    [ "IsSummonedBy", "d2/dba/a22386.html#af2925da1235b809ee81469fe32ab0f92", null ],
-    [ "JustSummoned", "d2/dba/a22386.html#a501e2d1ae9af813fd9c30395e7774983", null ]
+    [ "npc_wg_quest_giver", "d2/dba/a22386.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "d2/dba/a22386.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "d2/dba/a22386.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "d2/dba/a22386.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

@@ -1,5 +1,8 @@
 var a29306 =
 [
-    [ "SetUp", "da/d32/a29306.html#add2a716e8e1f27b462185cbb5a600842", null ],
-    [ "permission", "da/d32/a29306.html#a62a00095674d9b43cfc5e72ae7cbbda8", null ]
+    [ "canLink", "da/d32/a29306.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
+    [ "categoryId", "da/d32/a29306.html#abf285e69e8e2a90626a157cb0c50d158", null ],
+    [ "id", "da/d32/a29306.html#a7740b26f1bde19a05b002c00eded25e3", null ],
+    [ "name", "da/d32/a29306.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
+    [ "spellIcon", "da/d32/a29306.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
 ];

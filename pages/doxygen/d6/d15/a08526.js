@@ -1,13 +1,15 @@
 var a08526 =
 [
-    [ "UpdateData", "d6/d15/a08526.html#a7164bb9338d6362f427d75025c9026b6", null ],
-    [ "AddOutOfRangeGUID", "d6/d15/a08526.html#a4c68f187e2f6e65da3bdb6a443ebcacf", null ],
-    [ "AddUpdateBlock", "d6/d15/a08526.html#a620f0036078833a3b5ce1245274595f8", null ],
-    [ "AddUpdateBlock", "d6/d15/a08526.html#af770dbf9bc4e4da1b97aba73b152b23b", null ],
-    [ "BuildPacket", "d6/d15/a08526.html#a3bea592b01b6c9e41b863c26fd602d45", null ],
-    [ "Clear", "d6/d15/a08526.html#adc0750db190d94fed3bfef72da75066c", null ],
-    [ "HasData", "d6/d15/a08526.html#a067577372028ad59aea7942f0cd4a5c2", null ],
-    [ "m_blockCount", "d6/d15/a08526.html#a791f9606867a40d018f67600e338a08e", null ],
-    [ "m_data", "d6/d15/a08526.html#ac21a3bda51f8d1d2b71be6d00d760e38", null ],
-    [ "m_outOfRangeGUIDs", "d6/d15/a08526.html#a60f7b1745f84b24b25c94625145dd5a2", null ]
+    [ "Minion", "d6/d15/a08526.html#a3979ae40c594699ac2a276184543b2c5", null ],
+    [ "GetDebugInfo", "d6/d15/a08526.html#a1f9800abdfa2126e593a6ae169f20024", null ],
+    [ "GetFollowAngle", "d6/d15/a08526.html#a6b4a4409bd7a8ff455bb13f8c4e5560a", null ],
+    [ "GetOwner", "d6/d15/a08526.html#a4610f459936e40b530dae8429f139cfe", null ],
+    [ "InitStats", "d6/d15/a08526.html#ad11b2900e990e2b5ba7d10b811cd1e5d", null ],
+    [ "IsGuardianPet", "d6/d15/a08526.html#a63335ad34731e8a26ab027bf690f9d4d", null ],
+    [ "IsPetGhoul", "d6/d15/a08526.html#ae56acaeea6d1cf9735345cb784f3dcd3", null ],
+    [ "RemoveFromWorld", "d6/d15/a08526.html#a35f8314d0a4bafeba1987eb0b1ececf3", null ],
+    [ "setDeathState", "d6/d15/a08526.html#ab954627fc409e08616cf080974d30a82", null ],
+    [ "SetFollowAngle", "d6/d15/a08526.html#a3b7be3e8dc649b939056ee6a5a66c506", null ],
+    [ "m_followAngle", "d6/d15/a08526.html#a02806f2eae429a33e0d2b0c115892c77", null ],
+    [ "m_owner", "d6/d15/a08526.html#a135c4341d5f617d1f69ee9f7deeea755", null ]
 ];

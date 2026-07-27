@@ -1,6 +1,6 @@
 var a13922 =
 [
-    [ "x", "d2/d0f/a13922.html#afeb59642abc7d5114668b2c27e315228", null ],
-    [ "y", "d2/d0f/a13922.html#a3e2454dd579de689289003a343e7f29c", null ],
-    [ "z", "d2/d0f/a13922.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
+    [ "OnApply", "d2/d0f/a13922.html#a53fceaa5187f6dbc93f4d0d589086ca9", null ],
+    [ "PrepareAuraScript", "d2/d0f/a13922.html#a236892b4fd6cf081a907becab6187069", null ],
+    [ "Register", "d2/d0f/a13922.html#aa37819b82692df8a21cbbda8833ad492", null ]
 ];

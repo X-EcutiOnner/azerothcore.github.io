@@ -1,6 +1,7 @@
 var a27534 =
 [
-    [ "AfterCheckProc", "d0/d36/a27534.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
-    [ "PrepareAuraScript", "d0/d36/a27534.html#aa184faf59edbad97ec361e66169137b9", null ],
-    [ "Register", "d0/d36/a27534.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
+    [ "AfterRemove", "d0/d36/a27534.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
+    [ "PrepareAuraScript", "d0/d36/a27534.html#af338af238305f1872275e1e5e9fdee16", null ],
+    [ "Register", "d0/d36/a27534.html#aa266e794be35b51a399b13ee2d06199d", null ],
+    [ "Validate", "d0/d36/a27534.html#af58098eb7a904e20846cf728f5adc18b", null ]
 ];

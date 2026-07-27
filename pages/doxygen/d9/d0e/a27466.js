@@ -1,7 +1,5 @@
 var a27466 =
 [
-    [ "OnProc", "d9/d0e/a27466.html#a7ab183d734c543be2866c57f1e5cc508", null ],
-    [ "PrepareAuraScript", "d9/d0e/a27466.html#a31118cda9f29318f4620caf38c09522a", null ],
-    [ "Register", "d9/d0e/a27466.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
-    [ "Validate", "d9/d0e/a27466.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
+    [ "EarthenPowerTargetSelector", "d9/d0e/a27466.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
+    [ "operator()", "d9/d0e/a27466.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
 ];

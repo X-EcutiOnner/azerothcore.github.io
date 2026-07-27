@@ -1,6 +1,7 @@
 var a28554 =
 [
-    [ "npc_guardianAI", "db/d12/a28558.html", "db/d12/a28558" ],
-    [ "npc_guardian", "df/d27/a28554.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
-    [ "GetAI", "df/d27/a28554.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
+    [ "npc_steam_tonkAI", "df/d27/a28554.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "df/d27/a28554.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "df/d27/a28554.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "df/d27/a28554.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

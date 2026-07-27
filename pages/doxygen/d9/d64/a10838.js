@@ -1,6 +1,11 @@
 var a10838 =
 [
-    [ "GetEvent", "d9/d64/a10838.html#aabf338a9824038abbd0934a3bef0a269", null ],
-    [ "Read", "d9/d64/a10838.html#a344db9b28e7247dc0285a3468a789721", null ],
-    [ "EventId", "d9/d64/a10838.html#a31de21c2af87d174d139eef870cbb5fd", null ]
+    [ "PetScript", "d9/d64/a10838.html#a8acfb58efba8975dbfdfd36e34dd667e", null ],
+    [ "CanResetTalents", "d9/d64/a10838.html#ab4e5e0b19285573753ef6e9b7e8fd535", null ],
+    [ "CanUnlearnSpellDefault", "d9/d64/a10838.html#af150efd719bbb619df792ebc6705bb0a", null ],
+    [ "CanUnlearnSpellSet", "d9/d64/a10838.html#a84cba94813ffa26e1a245b814feb0349", null ],
+    [ "IsDatabaseBound", "d9/d64/a10838.html#a16fae7cdf068c6e3d9e46882548d4c20", null ],
+    [ "OnCalculateMaxTalentPointsForLevel", "d9/d64/a10838.html#a1263b06233902fbede9fc5df80cc8ad4", null ],
+    [ "OnInitStatsForLevel", "d9/d64/a10838.html#a65a33c4f374f2e9739680ad172118c26", null ],
+    [ "OnPetAddToWorld", "d9/d64/a10838.html#a3012323c5c1424512b611b6956a32554", null ]
 ];

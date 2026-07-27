@@ -1,8 +1,9 @@
 var a12558 =
 [
-    [ "CheckProc", "df/dda/a12558.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "df/dda/a12558.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "df/dda/a12558.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "df/dda/a12558.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "df/dda/a12558.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "pool_commandscript", "df/dda/a12558.html#a41308abbe25e1e50325923f62f2fa3af", null ],
+    [ "GetCommands", "df/dda/a12558.html#a973b565473bd8f9ef5cfd61740d114b4", null ],
+    [ "HandlePoolInfoCommand", "df/dda/a12558.html#aac45a4a6c51a92aa03acde1789e1a039", null ],
+    [ "HandlePoolLookupCommand", "df/dda/a12558.html#a377a405a1dae394c6f17579c0f2751eb", null ],
+    [ "ListPoolMembers", "df/dda/a12558.html#a5bdc763ea21fe5c6b98d19b33d7dc570", null ],
+    [ "StatusTag", "df/dda/a12558.html#ad72421c1425d9a8cd4809b372d2c1e5b", null ]
 ];

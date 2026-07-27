@@ -1,9 +1,7 @@
 var a15358 =
 [
-    [ "go_ossirian_crystalAI", "db/d9f/a15358.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
-    [ "DoAction", "db/d9f/a15358.html#a581436335d190466520c07fde56ad441", null ],
-    [ "GossipHello", "db/d9f/a15358.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
-    [ "SetGUID", "db/d9f/a15358.html#a9b4af48363a6d3194a22312fafa48587", null ],
-    [ "_instance", "db/d9f/a15358.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
-    [ "_triggerGUID", "db/d9f/a15358.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
+    [ "npc_tarethaAI", "d7/dd7/a15362.html", "d7/dd7/a15362" ],
+    [ "npc_taretha", "db/d9f/a15358.html#a54379e06518ff972e91e25e295731f5a", null ],
+    [ "GetAI", "db/d9f/a15358.html#a5045bb7119b12800ee0053818fcae5fe", null ],
+    [ "OnGossipHello", "db/d9f/a15358.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
 ];

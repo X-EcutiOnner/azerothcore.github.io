@@ -1,6 +1,7 @@
 var a16946 =
 [
-    [ "instance_trial_of_the_crusader_InstanceMapScript", "d1/da4/a16950.html", "d1/da4/a16950" ],
-    [ "instance_trial_of_the_crusader", "d6/d3a/a16946.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
-    [ "GetInstanceScript", "d6/d3a/a16946.html#a792034e9e5687bf5fa543175692bed66", null ]
+    [ "npc_toc_mageAI", "d6/d3a/a16946.html#a188831088c892f68cef7498468b24899", null ],
+    [ "myCanCast", "d6/d3a/a16946.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
+    [ "UpdateAI", "d6/d3a/a16946.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
+    [ "events", "d6/d3a/a16946.html#ab1910ce98f3d1b14e45acba22782d536", null ]
 ];

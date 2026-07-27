@@ -1,7 +1,6 @@
 var a25018 =
 [
-    [ "HandleEffectPeriodic", "db/d4f/a25018.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
-    [ "PrepareAuraScript", "db/d4f/a25018.html#affc698127fe0656df25bd094c02a7e50", null ],
-    [ "Register", "db/d4f/a25018.html#a4707bfaeb86b3540920a6772e1726e26", null ],
-    [ "Validate", "db/d4f/a25018.html#aef839f163d7e623a54b163e1c27542cd", null ]
+    [ "CheckProc", "db/d4f/a25018.html#afa477049b9a4fa18594b203a6066d205", null ],
+    [ "PrepareAuraScript", "db/d4f/a25018.html#a9fff895957dfedb5d975e4a8e9588aa9", null ],
+    [ "Register", "db/d4f/a25018.html#ab0746e7fa614f09708f89ed3ef93fca9", null ]
 ];

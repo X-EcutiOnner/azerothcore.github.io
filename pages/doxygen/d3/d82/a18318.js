@@ -1,6 +1,7 @@
 var a18318 =
 [
-    [ "FilterTargets", "d3/d82/a18318.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
-    [ "PrepareSpellScript", "d3/d82/a18318.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
-    [ "Register", "d3/d82/a18318.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
+    [ "HandleExtraEffect", "d3/d82/a18318.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "d3/d82/a18318.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "d3/d82/a18318.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "d3/d82/a18318.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

@@ -1,10 +1,9 @@
 var a06278 =
 [
-    [ "Storage", "d3/da1/a06278.html#a49a70316b169e50ad64ff51d6a568bbc", null ],
-    [ "AchievementCriteriaDataSet", "d3/da1/a06278.html#a5055f8710c48379035e132e8f20577dc", null ],
-    [ "Add", "d3/da1/a06278.html#a297f02665679b19961998fb529d064e4", null ],
-    [ "Meets", "d3/da1/a06278.html#a8edbe32d695308633fa7abfc91d2a1a1", null ],
-    [ "SetCriteriaId", "d3/da1/a06278.html#addedfd39d9948923a2704b51eaacecbc", null ],
-    [ "_criteria_id", "d3/da1/a06278.html#a0abc37729d2f3c400bb7cfde212f51c0", null ],
-    [ "_storage", "d3/da1/a06278.html#a6abf189d95226b370cfcfe7b628ed7c0", null ]
+    [ "CheckExecutable", "d3/da1/a06278.html#a65cf44a18a72ba92f91a667e41f9da80", null ],
+    [ "corrected_path", "d3/da1/a06278.html#a31499b458f0ff0ec518980f51d6a242a", null ],
+    [ "failed_updates", "d3/da1/a06278.html#a19ef6f04dc5827b04a8cdcb34329464d", null ],
+    [ "GetCorrectedMySQLExecutable", "d3/da1/a06278.html#a8ab8efffe5408f97f438e06766f65ec9", null ],
+    [ "GetFailedUpdateCount", "d3/da1/a06278.html#a8653546fe6b32d170da7350700c19613", null ],
+    [ "MarkUpdateFailed", "d3/da1/a06278.html#a99eb37994b14f350308d174d1c04c7fe", null ]
 ];

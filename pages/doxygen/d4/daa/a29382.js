@@ -1,7 +1,11 @@
 var a29382 =
 [
-    [ "EnsureScriptRegistriesInitialized", "d4/daa/a29382.html#ae5a5b6e47735560ea83b9458fb7dd7f4", null ],
-    [ "SetUp", "d4/daa/a29382.html#a6934840a3250922d4de42044dd35211c", null ],
-    [ "TearDown", "d4/daa/a29382.html#a8d33dfa0c7dcd81ea426e107beb4b3fa", null ],
-    [ "previousWorld_", "d4/daa/a29382.html#adff0b9d4abad7843811c543dfd10572e", null ]
+    [ "addToSpellBook", "d4/daa/a29382.html#ad312934d24abcc78c02d50cc5cb5403f", null ],
+    [ "Col", "d4/daa/a29382.html#a0bc589c5b1425d5e889cd290b805169e", null ],
+    [ "DependsOn", "d4/daa/a29382.html#a7b1aa1384777b8d94dceed3c387bb628", null ],
+    [ "DependsOnRank", "d4/daa/a29382.html#a608f232669981da3423b959479ca8683", null ],
+    [ "RankID", "d4/daa/a29382.html#a96d0fd120ed3aa7fbd287d104fd87c26", null ],
+    [ "Row", "d4/daa/a29382.html#a136b889d2e8875b01fc7aa2be06847ac", null ],
+    [ "TalentID", "d4/daa/a29382.html#aa769574106b0e5afdbc7c71c51c3b9a2", null ],
+    [ "TalentTab", "d4/daa/a29382.html#acefe6f8c0a5b3893e2a9f828d500df68", null ]
 ];

@@ -1,6 +1,12 @@
 var a19890 =
 [
-    [ "PrepareSpellScript", "db/dee/a19890.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
-    [ "RecalculateDamage", "db/dee/a19890.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
-    [ "Register", "db/dee/a19890.html#aac131aa2d2e5342cf0303b918a077b45", null ]
+    [ "npc_oculus_drakeAI", "db/dee/a19890.html#a214d9b77a5653f1a5f60106081eaf683", null ],
+    [ "IsSummonedBy", "db/dee/a19890.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
+    [ "MovementInform", "db/dee/a19890.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
+    [ "PassengerBoarded", "db/dee/a19890.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
+    [ "SpellHitTarget", "db/dee/a19890.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
+    [ "UpdateAI", "db/dee/a19890.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
+    [ "despawnTimer", "db/dee/a19890.html#a560dc0936a78267a4036b209c6718732", null ],
+    [ "JustSummoned", "db/dee/a19890.html#a8b656a464525e881944e72e9486b0eb9", null ],
+    [ "m_pInstance", "db/dee/a19890.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
 ];

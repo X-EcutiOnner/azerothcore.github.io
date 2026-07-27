@@ -1,7 +1,6 @@
 var a16778 =
 [
-    [ "npc_toc_dkAI", "d2/d7e/a16778.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
-    [ "myCanCast", "d2/d7e/a16778.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
-    [ "UpdateAI", "d2/d7e/a16778.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
-    [ "events", "d2/d7e/a16778.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
+    [ "npc_black_knight_ghoulAI", "d3/d62/a16782.html", "d3/d62/a16782" ],
+    [ "npc_black_knight_ghoul", "d2/d7e/a16778.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
+    [ "GetAI", "d2/d7e/a16778.html#a52308f8d168e1ccea22de653813b7f6f", null ]
 ];

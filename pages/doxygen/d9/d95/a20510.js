@@ -1,9 +1,7 @@
 var a20510 =
 [
-    [ "boss_thorim_gauntlet_npcs", "d9/d95/a20510.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
-    [ "JustEngagedWith", "d9/d95/a20510.html#af10a444bada5743c837a9979726c79c9", null ],
-    [ "Reset", "d9/d95/a20510.html#a22fcffcc05f155524cadade389ec3607", null ],
-    [ "UpdateAI", "d9/d95/a20510.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
-    [ "_isCaster", "d9/d95/a20510.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
-    [ "events", "d9/d95/a20510.html#aec35e2b91841c386f083681673e15598", null ]
+    [ "HandleEffectPeriodic", "d9/d95/a20510.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
+    [ "PrepareAuraScript", "d9/d95/a20510.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
+    [ "Register", "d9/d95/a20510.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
+    [ "Validate", "d9/d95/a20510.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
 ];

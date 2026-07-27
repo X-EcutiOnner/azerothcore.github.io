@@ -1,5 +1,5 @@
 var a11574 =
 [
-    [ "amountCounter", "d1/df1/a11574.html#af652ffc837bde625aa39e913ec2e2eec", null ],
-    [ "lastReceiveTime", "d1/df1/a11574.html#ae0f3f2a90a24b48d239e3df3525f8fdc", null ]
+    [ "TimeQuery", "d1/df1/a11574.html#a90c467ab19d96b96ace5b50bad617095", null ],
+    [ "Read", "d1/df1/a11574.html#aae26e83828fc6118dea64f8861170868", null ]
 ];

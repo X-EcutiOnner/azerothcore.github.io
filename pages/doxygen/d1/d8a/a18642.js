@@ -1,6 +1,6 @@
 var a18642 =
 [
-    [ "npc_lk_spirit_bombAI", "d3/ddc/a18646.html", "d3/ddc/a18646" ],
-    [ "npc_lk_spirit_bomb", "d1/d8a/a18642.html#acc08d41aa1761c450de782e92307ad7c", null ],
-    [ "GetAI", "d1/d8a/a18642.html#ade74c00beb2da69dafb0ae93d771c430", null ]
+    [ "boss_the_lich_kingAI", "d3/ddc/a18646.html", "d3/ddc/a18646" ],
+    [ "boss_the_lich_king", "d1/d8a/a18642.html#a10e2789a98a85907d24eabae6d7655f4", null ],
+    [ "GetAI", "d1/d8a/a18642.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
 ];

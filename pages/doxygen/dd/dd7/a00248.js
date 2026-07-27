@@ -1,8 +1,16 @@
 var a00248 =
 [
-    [ "SpellProcTestEntry", "dd/da3/a29824.html", "dd/da3/a29824" ],
-    [ "GetAllSpellProcTestEntries", "dd/dd7/a00248.html#a39025d5b336e745566f739e9d1f68e78", null ],
-    [ "GroupByHitMask", "dd/dd7/a00248.html#a9c10a33f80d5dad16ac98bf115774ded", null ],
-    [ "GroupByProcFlags", "dd/dd7/a00248.html#a8a30ea152f1ec07a3e93549376c04b74", null ],
-    [ "GroupBySpellFamily", "dd/dd7/a00248.html#ac781b3845801dede698012d7118061a4", null ]
+    [ "DBCFileLoader", "dc/df9/a05542.html", "dc/df9/a05542" ],
+    [ "DBCFileLoader::Record", "d1/d22/a05546.html", "d1/d22/a05546" ],
+    [ "DbcFieldFormat", "dd/dd7/a00248.html#a969264ba91452f632e809db524c68960", [
+      [ "FT_NA", "dd/dd7/a00248.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c", null ],
+      [ "FT_NA_BYTE", "dd/dd7/a00248.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c", null ],
+      [ "FT_STRING", "dd/dd7/a00248.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29", null ],
+      [ "FT_FLOAT", "dd/dd7/a00248.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a", null ],
+      [ "FT_INT", "dd/dd7/a00248.html#a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a", null ],
+      [ "FT_BYTE", "dd/dd7/a00248.html#a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095", null ],
+      [ "FT_SORT", "dd/dd7/a00248.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642", null ],
+      [ "FT_IND", "dd/dd7/a00248.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036", null ],
+      [ "FT_LOGIC", "dd/dd7/a00248.html#a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc", null ]
+    ] ]
 ];

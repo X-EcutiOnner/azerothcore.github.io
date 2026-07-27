@@ -1,7 +1,6 @@
 var a25086 =
 [
-    [ "HandleScript", "df/d7b/a25086.html#a12f4c4a85f19ceb55d274428cf2b25a4", null ],
-    [ "PrepareSpellScript", "df/d7b/a25086.html#acf1173670c35c84ae7aba29be00d31cf", null ],
-    [ "Register", "df/d7b/a25086.html#a5a2c59463a0546b6f5cd375b3671b86b", null ],
-    [ "Validate", "df/d7b/a25086.html#a437a018fd6917bee51bdbba7cf29e53d", null ]
+    [ "CheckProc", "df/d7b/a25086.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
+    [ "PrepareAuraScript", "df/d7b/a25086.html#a861caa47c502c42fa84d9f9de74df024", null ],
+    [ "Register", "df/d7b/a25086.html#ab4275de186b6841a1f424863cb6c128c", null ]
 ];

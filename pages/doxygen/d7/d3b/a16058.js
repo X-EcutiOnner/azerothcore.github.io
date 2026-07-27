@@ -1,6 +1,6 @@
 var a16058 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "db/db5/a16062.html", "db/db5/a16062" ],
-    [ "instance_zulfarrak", "d7/d3b/a16058.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "d7/d3b/a16058.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "Creature", "d7/d3b/a16058.html#a77b33f8998f85808b58052079b1cab54", null ],
+    [ "TextId", "d7/d3b/a16058.html#ad691f3cd40035e96547adf7528229119", null ],
+    [ "Timer", "d7/d3b/a16058.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
 ];

@@ -1,6 +1,8 @@
 var a19298 =
 [
-    [ "boss_kelthuzad_minionAI", "dd/d8e/a19302.html", "dd/d8e/a19302" ],
-    [ "boss_kelthuzad_minion", "d9/d1e/a19298.html#a4c6d430035c964b4063139c0cda6bfff", null ],
-    [ "GetAI", "d9/d1e/a19298.html#ab951068fedced148653ebf9124ba5e3d", null ]
+    [ "Class", "d9/d1e/a19298.html#a095390e9023609f5836c4481ed79e1af", null ],
+    [ "cooldown_ms", "d9/d1e/a19298.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
+    [ "id", "d9/d1e/a19298.html#ae9fdf89271339b93f306c4aa0871f844", null ],
+    [ "range", "d9/d1e/a19298.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
+    [ "targetType", "d9/d1e/a19298.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
 ];

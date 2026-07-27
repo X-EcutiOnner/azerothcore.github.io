@@ -1,13 +1,16 @@
 var a29118 =
 [
-    [ "Secret", "d0/da5/a29122.html", "d0/da5/a29122" ],
-    [ "SecretMgr", "d7/da8/a29118.html#a28ee0858a14656d7fc464eb604b127b7", null ],
-    [ "~SecretMgr", "d7/da8/a29118.html#ae6f15def262312b17456583b4e548d99", null ],
-    [ "SecretMgr", "d7/da8/a29118.html#ab48b891b84f116dc5efffe0a10a82f79", null ],
-    [ "AttemptLoad", "d7/da8/a29118.html#a65c2fd304c0f851f81cd80037deac8fb", null ],
-    [ "AttemptTransition", "d7/da8/a29118.html#a4b6cbe75e50ec3e4765fdb9e965ee84f", null ],
-    [ "GetSecret", "d7/da8/a29118.html#aff0b6ca546a62a3d6e7da52c3a2752bd", null ],
-    [ "Initialize", "d7/da8/a29118.html#a929de7b687d7c6bb91ef35306134ebac", null ],
-    [ "instance", "d7/da8/a29118.html#a27e237503dc523367fa94bd28a289d97", null ],
-    [ "_secrets", "d7/da8/a29118.html#a143bb8b3855a9f28df72abc9cfc94f3c", null ]
+    [ "CanBeSetAtWar", "d7/da8/a29118.html#ae165dc23f25386eb086e1fa2cb820153", null ],
+    [ "CanHaveReputation", "d7/da8/a29118.html#ab3da6918e197c1098a932418d5c51799", null ],
+    [ "BaseRepClassMask", "d7/da8/a29118.html#ae73655de567de3766fcb3bbfb7f9eed3", null ],
+    [ "BaseRepRaceMask", "d7/da8/a29118.html#aa8e1c08416d07882af7075fbb020ae5a", null ],
+    [ "BaseRepValue", "d7/da8/a29118.html#a52f0753d1e1e69a4994eb6b1eab6824c", null ],
+    [ "ID", "d7/da8/a29118.html#a1953f7a343201113dae80cdd97e1ac90", null ],
+    [ "name", "d7/da8/a29118.html#ad9d326ed1aac5ea66825775665dfea00", null ],
+    [ "ReputationFlags", "d7/da8/a29118.html#ae23a3c94554b2043928d6e1ea748e709", null ],
+    [ "reputationListID", "d7/da8/a29118.html#aee99121c2d7298e16540229923391aee", null ],
+    [ "spilloverMaxRankIn", "d7/da8/a29118.html#a14cea5365f14880850e788ba328d0c8e", null ],
+    [ "spilloverRateIn", "d7/da8/a29118.html#a7a72bc65fb3fe76ffa1d072800c5daed", null ],
+    [ "spilloverRateOut", "d7/da8/a29118.html#a7cea150843bf48277aa9cc917d210fcb", null ],
+    [ "team", "d7/da8/a29118.html#a6210fabf2688f26a0a0050f6c148485d", null ]
 ];

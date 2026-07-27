@@ -1,9 +1,6 @@
 var a21802 =
 [
-    [ "npc_frostbrood_skytalonAI", "d5/deb/a21802.html#afc14c60466f9f0f1b20062758f18c00d", null ],
-    [ "IsSummonedBy", "d5/deb/a21802.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
-    [ "MovementInform", "d5/deb/a21802.html#ae763333503176eb7e8ce407868243958", null ],
-    [ "SpellHit", "d5/deb/a21802.html#a24bb49f47dcf85c95039d0495a89e126", null ],
-    [ "UpdateAI", "d5/deb/a21802.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
-    [ "events", "d5/deb/a21802.html#a8575d258d63e28626cffd7fc2160bee6", null ]
+    [ "HandleSendEvent", "d5/deb/a21802.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "d5/deb/a21802.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "d5/deb/a21802.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

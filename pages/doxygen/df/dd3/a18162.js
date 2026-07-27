@@ -1,6 +1,6 @@
 var a18162 =
 [
-    [ "OnRemove", "df/dd3/a18162.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
-    [ "PrepareAuraScript", "df/dd3/a18162.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
-    [ "Register", "df/dd3/a18162.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
+    [ "boss_lady_deathwhisperAI", "dc/d10/a18166.html", "dc/d10/a18166" ],
+    [ "boss_lady_deathwhisper", "df/dd3/a18162.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "df/dd3/a18162.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

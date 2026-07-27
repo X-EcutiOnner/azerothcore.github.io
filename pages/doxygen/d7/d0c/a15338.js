@@ -1,10 +1,12 @@
 var a15338 =
 [
-    [ "boss_moam", "d7/d0c/a15338.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
-    [ "InitializeAI", "d7/d0c/a15338.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
-    [ "JustDied", "d7/d0c/a15338.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
-    [ "JustEngagedWith", "d7/d0c/a15338.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
-    [ "Reset", "d7/d0c/a15338.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
-    [ "SummonedCreatureDies", "d7/d0c/a15338.html#a8401c5e2bd216deee197617b78d85222", null ],
-    [ "UpdateAI", "d7/d0c/a15338.html#aadd8320c6194923b113967d3d6c49a5e", null ]
+    [ "boss_lieutenant_drake", "d7/d0c/a15338.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
+    [ "InitializeAI", "d7/d0c/a15338.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
+    [ "JustDied", "d7/d0c/a15338.html#aca7654e30aac96fa509f99f3447121ec", null ],
+    [ "JustEngagedWith", "d7/d0c/a15338.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
+    [ "KilledUnit", "d7/d0c/a15338.html#a833c889c28ea35a6198fe753b604a8ed", null ],
+    [ "MovementInform", "d7/d0c/a15338.html#aec6e332bc5739552cbbec27569c55759", null ],
+    [ "UpdateAI", "d7/d0c/a15338.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
+    [ "pathId", "d7/d0c/a15338.html#ac63f9c885296a797799c0cd83b0ade64", null ],
+    [ "runSecondPath", "d7/d0c/a15338.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
 ];

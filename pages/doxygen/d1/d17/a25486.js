@@ -1,6 +1,7 @@
 var a25486 =
 [
-    [ "OnRemove", "d1/d17/a25486.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
-    [ "PrepareAuraScript", "d1/d17/a25486.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
-    [ "Register", "d1/d17/a25486.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
+    [ "OnRemove", "d1/d17/a25486.html#ab6371347f0dc4ffc8bab6c75ca1cdf59", null ],
+    [ "PrepareAuraScript", "d1/d17/a25486.html#ac2b1a2311f97ab427439b45fb0770063", null ],
+    [ "Register", "d1/d17/a25486.html#a39e4914aa01769e14f61e2369ad8eda5", null ],
+    [ "Validate", "d1/d17/a25486.html#a71e47e70fd18affe1bd563f68fcb2efe", null ]
 ];

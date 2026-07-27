@@ -1,7 +1,6 @@
 var a07518 =
 [
-    [ "attackText", "d0/d13/a07518.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
-    [ "id", "d0/d13/a07518.html#a7f28adc30e9293df2f2c124469550d75", null ],
-    [ "takenText", "d0/d13/a07518.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
-    [ "worldstate", "d0/d13/a07518.html#a342ef087df4f9326952728c2192a3da3", null ]
+    [ "AuctionSearchBidderListRequest", "d0/d13/a07518.html#a193c39468959c998a2ccae74342983d2", null ],
+    [ "outbiddedAuctionIds", "d0/d13/a07518.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
+    [ "ownerGuid", "d0/d13/a07518.html#a6fb69f4996993f264466c50e7485c4a6", null ]
 ];

@@ -1,6 +1,9 @@
 var a18598 =
 [
-    [ "npc_terenas_menethilAI", "db/dfc/a18602.html", "db/dfc/a18602" ],
-    [ "npc_terenas_menethil", "d1/dad/a18598.html#a6b6850598c582e3d44c13275302fd32d", null ],
-    [ "GetAI", "d1/dad/a18598.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
+    [ "ShadowTrapLKTargetSelector", "d1/dad/a18598.html#a33561775948e07ac6ade2037f237441d", null ],
+    [ "operator()", "d1/dad/a18598.html#a3770329509c6ab2f16ae369ea8d72645", null ],
+    [ "_maxDist", "d1/dad/a18598.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
+    [ "_playerOnly", "d1/dad/a18598.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
+    [ "_reqLOS", "d1/dad/a18598.html#a7911be23196f59d55028affc3be23c20", null ],
+    [ "_source", "d1/dad/a18598.html#af416013aabf3b217b07228072076603d", null ]
 ];

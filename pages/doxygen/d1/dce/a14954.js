@@ -1,8 +1,9 @@
 var a14954 =
 [
-    [ "npc_doomfire_spirit", "d1/dce/a14954.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
-    [ "Reset", "d1/dce/a14954.html#a0600718fad91723eba74b903583c5942", null ],
-    [ "TryTeleportInDirection", "d1/dce/a14954.html#a7fc48df636df66a006a8179fd63e2a65", null ],
-    [ "UpdateAI", "d1/dce/a14954.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
-    [ "turnConstant", "d1/dce/a14954.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
+    [ "npc_love_in_air_snivel", "d1/dce/a14954.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
+    [ "AllowAction", "d1/dce/a14954.html#af1097317f62bbb8f8456124001c73576", null ],
+    [ "MoveInLineOfSight", "d1/dce/a14954.html#ae6537707109b95fad20e521d07867cdd", null ],
+    [ "Reset", "d1/dce/a14954.html#a2385ea44d9f44735b193add4a0d0485b", null ],
+    [ "UpdateAI", "d1/dce/a14954.html#a9e712994663e3442359d2f574ebc812c", null ],
+    [ "delay", "d1/dce/a14954.html#a548db6245ef875ec47279246e437934c", null ]
 ];

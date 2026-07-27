@@ -1,6 +1,7 @@
 var a13742 =
 [
-    [ "PrepareSpellScript", "df/dca/a13742.html#a6a9436d744865971e635f23c2b331688", null ],
-    [ "Register", "df/dca/a13742.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
-    [ "SetDest", "df/dca/a13742.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
+    [ "HandleScriptEffect", "df/dca/a13742.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
+    [ "PrepareSpellScript", "df/dca/a13742.html#af9deee89e837e07486a7555632008eb2", null ],
+    [ "Register", "df/dca/a13742.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
+    [ "Validate", "df/dca/a13742.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
 ];

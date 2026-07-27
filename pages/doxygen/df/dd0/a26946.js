@@ -1,6 +1,6 @@
 var a26946 =
 [
-    [ "HandleRemove", "df/dd0/a26946.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
-    [ "PrepareAuraScript", "df/dd0/a26946.html#a132193c0c13a2f89b9b29391d524023a", null ],
-    [ "Register", "df/dd0/a26946.html#a246294a7b9a128a9ec464562846332fc", null ]
+    [ "HandleProc", "df/dd0/a26946.html#ac81521531646341356525465bac2a816", null ],
+    [ "PrepareAuraScript", "df/dd0/a26946.html#aa57cede2bfc6354c8b95410d8fb50575", null ],
+    [ "Register", "df/dd0/a26946.html#a8daf8414ff4705741dfed0e818607741", null ]
 ];

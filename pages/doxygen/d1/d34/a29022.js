@@ -1,6 +1,7 @@
 var a29022 =
 [
-    [ "categoryMask", "d1/d34/a29022.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "d1/d34/a29022.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "d1/d34/a29022.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "cutPercent", "d1/d34/a29022.html#a8581a6a5198dab10680f477a477a7c80", null ],
+    [ "depositPercent", "d1/d34/a29022.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
+    [ "faction", "d1/d34/a29022.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
+    [ "houseId", "d1/d34/a29022.html#a1bf77c1b14731def0e3de44143df2eed", null ]
 ];

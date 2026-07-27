@@ -1,5 +1,6 @@
 var a20478 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "db/de6/a20478.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "db/de6/a20478.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "DestroyWinterCache", "db/de6/a20478.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
+    [ "PrepareSpellScript", "db/de6/a20478.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
+    [ "Register", "db/de6/a20478.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
 ];

@@ -1,6 +1,6 @@
 var a27386 =
 [
-    [ "CheckProc", "dd/d50/a27386.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
-    [ "PrepareAuraScript", "dd/d50/a27386.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
-    [ "Register", "dd/d50/a27386.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
+    [ "HandleEffectApply", "dd/d50/a27386.html#ab77ea5638ea12f2e305487b1080d0b0b", null ],
+    [ "PrepareAuraScript", "dd/d50/a27386.html#aed642c73ab31fb63aa497ada45863ae6", null ],
+    [ "Register", "dd/d50/a27386.html#ab9c68d7368ed71d2c5585df31b09cdd7", null ]
 ];

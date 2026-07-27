@@ -1,12 +1,7 @@
 var a23214 =
 [
-    [ "boss_watchkeeper_gargolmar", "da/d3c/a23214.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
-    [ "JustDied", "da/d3c/a23214.html#a39be5796b39bea913105fc48dda0d186", null ],
-    [ "JustEngagedWith", "da/d3c/a23214.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
-    [ "KilledUnit", "da/d3c/a23214.html#a22736c2680f41cfd3443a76cd4de9352", null ],
-    [ "MoveInLineOfSight", "da/d3c/a23214.html#adec9837fdb2595ce57acffb279a7d011", null ],
-    [ "Reset", "da/d3c/a23214.html#a356b7fe9071b073b74b21913e35e7408", null ],
-    [ "UpdateAI", "da/d3c/a23214.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
-    [ "_hasSpoken", "da/d3c/a23214.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
-    [ "_taunted", "da/d3c/a23214.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
+    [ "HandleEffectApply", "da/d3c/a23214.html#a3893fffea480b47d06c4903deb051aa9", null ],
+    [ "HandleEffectRemove", "da/d3c/a23214.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
+    [ "PrepareAuraScript", "da/d3c/a23214.html#a246c20ab26d1490fe38afd558a7ae406", null ],
+    [ "Register", "da/d3c/a23214.html#aea639a3ae0f003c6213143427f3b1d23", null ]
 ];

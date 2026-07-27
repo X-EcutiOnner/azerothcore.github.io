@@ -1,6 +1,5 @@
 var a28354 =
 [
-    [ "npc_necropolis_relay", "dc/d71/a28354.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "dc/d71/a28354.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "dc/d71/a28354.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "item_only_for_flight", "dc/d71/a28354.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "dc/d71/a28354.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

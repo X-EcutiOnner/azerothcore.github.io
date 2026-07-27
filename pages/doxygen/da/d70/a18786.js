@@ -1,8 +1,8 @@
 var a18786 =
 [
-    [ "DecayPeriodicTimer", "da/d70/a18786.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "da/d70/a18786.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "da/d70/a18786.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "da/d70/a18786.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "da/d70/a18786.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "Load", "da/d70/a18786.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
+    [ "OnRemove", "da/d70/a18786.html#a43b23e5c53cca872a26737d790f2893d", null ],
+    [ "PrepareAuraScript", "da/d70/a18786.html#ae51bcb37894240c6fd064cd329698a55", null ],
+    [ "Register", "da/d70/a18786.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
+    [ "Validate", "da/d70/a18786.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
 ];

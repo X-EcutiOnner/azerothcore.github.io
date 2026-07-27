@@ -1,7 +1,8 @@
 var a26230 =
 [
-    [ "PrepareSpellScript", "d8/dd3/a26230.html#ade3a3f956ae8be922bd1d2204919d360", null ],
-    [ "Register", "d8/dd3/a26230.html#a71d397da4a4804cf6023806c15e8bedf", null ],
-    [ "TriggerHypothermia", "d8/dd3/a26230.html#af40f92afae93778e477c50ddf18c8adc", null ],
-    [ "Validate", "d8/dd3/a26230.html#a1f0cef532c2bd13d94e647722f85457a", null ]
+    [ "CheckQuest", "d8/dd3/a26230.html#ab7ebff0894832ac009cda89b7c28e252", null ],
+    [ "HandleDummy", "d8/dd3/a26230.html#a365df14504a54e95e7d68d22a284e441", null ],
+    [ "HandleOpenObject", "d8/dd3/a26230.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
+    [ "PrepareSpellScript", "d8/dd3/a26230.html#a479e313031a2e71473238d8f645bf2d4", null ],
+    [ "Register", "d8/dd3/a26230.html#a70f1a91e611cc2092aad44a909cd53db", null ]
 ];

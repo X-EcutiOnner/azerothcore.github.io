@@ -1,8 +1,6 @@
 var a15954 =
 [
-    [ "npc_giltharesAI", "db/d79/a15954.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "db/d79/a15954.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "db/d79/a15954.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "db/d79/a15954.html#a9308c73760e50e0f3d04031b508526d1", null ],
-    [ "WaypointReached", "db/d79/a15954.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_tiger_matriarch_creditAI", "db/d79/a15954.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "db/d79/a15954.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "db/d79/a15954.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

@@ -1,12 +1,8 @@
 var a10226 =
 [
-    [ "TransportTemplate", "d9/d95/a10226.html#aef4781a37808827e3ceaffc782c3af1e", null ],
-    [ "~TransportTemplate", "d9/d95/a10226.html#afc385d824c171d13a184bc0a16121110", null ],
-    [ "accelDist", "d9/d95/a10226.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
-    [ "accelTime", "d9/d95/a10226.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
-    [ "entry", "d9/d95/a10226.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
-    [ "inInstance", "d9/d95/a10226.html#a971c84762c229b01cab656945f0c16de", null ],
-    [ "keyFrames", "d9/d95/a10226.html#ac714531f226ca06c3586cf3f6cc06808", null ],
-    [ "mapsUsed", "d9/d95/a10226.html#a93899b0648871ed8ca32dfe8394347c1", null ],
-    [ "pathTime", "d9/d95/a10226.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
+    [ "BoundaryIntersectBoundary", "d9/d95/a10226.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
+    [ "~BoundaryIntersectBoundary", "d9/d95/a10226.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
+    [ "IsWithinBoundaryArea", "d9/d95/a10226.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
+    [ "_b1", "d9/d95/a10226.html#ab0239437fa92e39d144bf3856eb347c7", null ],
+    [ "_b2", "d9/d95/a10226.html#a41e100c17db99990981293399660824c", null ]
 ];

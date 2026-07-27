@@ -1,5 +1,4 @@
 var a11482 =
 [
-    [ "PacketHandler", "d2/d54/a11482.html#ae28d6ea18799c4dc90be8225fd2fad66", null ],
-    [ "Call", "d2/d54/a11482.html#a9468be560aba807419fb7e28bf0d6a41", null ]
+    [ "InvalidHyperlinkException", "d2/d54/a11482.html#a4e30376bb16ea56434e65761a2f4a55d", null ]
 ];

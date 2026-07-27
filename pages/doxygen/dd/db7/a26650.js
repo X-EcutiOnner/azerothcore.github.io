@@ -1,6 +1,7 @@
 var a26650 =
 [
-    [ "HandleDummy", "dd/db7/a26650.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
-    [ "PrepareSpellScript", "dd/db7/a26650.html#a5efc666af2cb73c376706c20e41ace68", null ],
-    [ "Register", "dd/db7/a26650.html#a46e61697212a43532e148ccb12a7d8e5", null ]
+    [ "CheckAreaTarget", "dd/db7/a26650.html#a2d240518259d2452d263fc436de5056e", null ],
+    [ "PrepareAuraScript", "dd/db7/a26650.html#a0b97b273f13805f027e5f5113d4a8e40", null ],
+    [ "Register", "dd/db7/a26650.html#a50406feea1b2cf34ad101a3b1fd25d7c", null ],
+    [ "Validate", "dd/db7/a26650.html#adfd1ccae4029680415409df737aa2533", null ]
 ];

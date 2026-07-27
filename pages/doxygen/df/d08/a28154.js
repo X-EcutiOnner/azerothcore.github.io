@@ -1,6 +1,6 @@
 var a28154 =
 [
-    [ "npc_guardianAI", "d2/def/a28158.html", "d2/def/a28158" ],
-    [ "npc_guardian", "df/d08/a28154.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
-    [ "GetAI", "df/d08/a28154.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
+    [ "go_witherbark_totem_bundleAI", "df/d08/a28154.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "df/d08/a28154.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "df/d08/a28154.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

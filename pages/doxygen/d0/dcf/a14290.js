@@ -1,6 +1,8 @@
 var a14290 =
 [
-    [ "boss_grilekAI", "d4/d2c/a14294.html", "d4/d2c/a14294" ],
-    [ "boss_grilek", "d0/dcf/a14290.html#acffe0061db18c5725c8c290822c5fed7", null ],
-    [ "GetAI", "d0/dcf/a14290.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
+    [ "npc_the_scourge_cauldronAI", "d0/dcf/a14290.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
+    [ "DoDie", "d0/dcf/a14290.html#a9f720a27db2943a66b11ad6355690bf5", null ],
+    [ "JustEngagedWith", "d0/dcf/a14290.html#a89954dec2f7d57d933c18822333243ac", null ],
+    [ "MoveInLineOfSight", "d0/dcf/a14290.html#a256195dbe75859d72afcd0defb9ff76e", null ],
+    [ "Reset", "d0/dcf/a14290.html#ab18bb2eb344f45827685786c665b1750", null ]
 ];

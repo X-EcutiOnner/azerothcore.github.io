@@ -1,6 +1,6 @@
 var a19926 =
 [
-    [ "HandleInstaKill", "d0/d03/a19926.html#a9371a2cc86616fd04e47939d45f01cae", null ],
-    [ "PrepareSpellScript", "d0/d03/a19926.html#a38eed301f1db3ea7ac15b626e5927500", null ],
-    [ "Register", "d0/d03/a19926.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
+    [ "PrepareSpellScript", "d0/d03/a19926.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "d0/d03/a19926.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "d0/d03/a19926.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

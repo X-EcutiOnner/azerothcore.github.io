@@ -1,6 +1,6 @@
 var a17810 =
 [
-    [ "npc_igb_ship_crewAI", "d0/d49/a17810.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "d0/d49/a17810.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "d0/d49/a17810.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "FilterTargets", "d0/d49/a17810.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
+    [ "PrepareSpellScript", "d0/d49/a17810.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
+    [ "Register", "d0/d49/a17810.html#add40d7731b07b30b595f76f7d4e983f4", null ]
 ];

@@ -1,6 +1,6 @@
 var a22918 =
 [
-    [ "HandlePeriodic", "d9/dec/a22918.html#a25c698e911ec02d9cd7f757ba87281df", null ],
-    [ "PrepareAuraScript", "d9/dec/a22918.html#a7bf79bc5e5f509b52965f03e998db399", null ],
-    [ "Register", "d9/dec/a22918.html#ab3eec9f591384c7c1c684651c38aa614", null ]
+    [ "boss_essence_of_desireAI", "da/ddd/a22922.html", "da/ddd/a22922" ],
+    [ "boss_essence_of_desire", "d9/dec/a22918.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
+    [ "GetAI", "d9/dec/a22918.html#a14b66470c508fa24e214062aeec0aae6", null ]
 ];

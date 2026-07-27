@@ -1,8 +1,6 @@
 var a19042 =
 [
-    [ "Class", "d9/d94/a19042.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "d9/d94/a19042.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
-    [ "id", "d9/d94/a19042.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "d9/d94/a19042.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "d9/d94/a19042.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "npc_crok_scourgebaneAI", "d8/d00/a19046.html", "d8/d00/a19046" ],
+    [ "npc_crok_scourgebane", "d9/d94/a19042.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
+    [ "GetAI", "d9/d94/a19042.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
 ];

@@ -1,6 +1,7 @@
 var a17558 =
 [
-    [ "ModAuraStack", "d3/d10/a17558.html#a7535ef148e047e32a5f7a1944585e396", null ],
-    [ "PrepareSpellScript", "d3/d10/a17558.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
-    [ "Register", "d3/d10/a17558.html#ab44b362197e74b98b3ffeb98eff52742", null ]
+    [ "HandleEffectPeriodic", "d3/d10/a17558.html#a4802c810efd7dd8a9954845366398e7f", null ],
+    [ "PrepareAuraScript", "d3/d10/a17558.html#a008166d25e7a278507e953325f40ccd5", null ],
+    [ "Register", "d3/d10/a17558.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
+    [ "Validate", "d3/d10/a17558.html#a3fc78060f881262c59151b6eb6a943f8", null ]
 ];

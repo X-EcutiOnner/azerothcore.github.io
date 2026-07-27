@@ -1,6 +1,4 @@
 var a19202 =
 [
-    [ "boss_four_horsemenAI", "df/d28/a19206.html", "df/d28/a19206" ],
-    [ "boss_four_horsemen", "d2/d40/a19202.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
-    [ "GetAI", "d2/d40/a19202.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
+    [ "operator()", "d2/d40/a19202.html#a57b4f62b35a093665bb32073a086b8c5", null ]
 ];

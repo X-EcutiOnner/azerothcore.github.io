@@ -1,18 +1,19 @@
 var a01583 =
 [
-    [ "GroupQueueInfo", "df/de3/a07700.html", "df/de3/a07700" ],
-    [ "BattlegroundQueue", "dc/de8/a07704.html", "dc/de8/a07704" ],
-    [ "BattlegroundQueue::SelectionPool", "dc/d23/a07708.html", "dc/d23/a07708" ],
-    [ "BGQueueInviteEvent", "de/dbe/a07712.html", "de/dbe/a07712" ],
-    [ "BGQueueRemoveEvent", "db/d25/a07716.html", "db/d25/a07716" ],
-    [ "BattlegroundQueueGroupTypes", "d9/d1b/a01583.html#a589e9d4a3badd48f91fddc2afa661b17", [
-      [ "BG_QUEUE_PREMADE_ALLIANCE", "d9/d1b/a01583.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4", null ],
-      [ "BG_QUEUE_PREMADE_HORDE", "d9/d1b/a01583.html#a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c", null ],
-      [ "BG_QUEUE_NORMAL_ALLIANCE", "d9/d1b/a01583.html#a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697", null ],
-      [ "BG_QUEUE_NORMAL_HORDE", "d9/d1b/a01583.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d", null ],
-      [ "BG_QUEUE_CFBG", "d9/d1b/a01583.html#a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239", null ],
-      [ "BG_QUEUE_MAX", "d9/d1b/a01583.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992", null ]
+    [ "ArenaSeasonReward", "d2/d7f/a07634.html", "d2/d7f/a07634" ],
+    [ "ArenaSeasonRewardGroup", "db/d7b/a07638.html", "db/d7b/a07638" ],
+    [ "ArenaSeasonMgr", "d6/da6/a07642.html", "d6/da6/a07642" ],
+    [ "sArenaSeasonMgr", "d9/d1b/a01583.html#ac46c94dc4c6cf0de37233cdd42a97ccf", null ],
+    [ "ArenaSeasonRewardGroupCriteriaType", "d9/d1b/a01583.html#a983281e9aada2538d6bc53ae4dd4d266", [
+      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE", "d9/d1b/a01583.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422", null ],
+      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE", "d9/d1b/a01583.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63", null ]
     ] ],
-    [ "BG_QUEUE_ANNOUNCER_IMMEDIATE_DEBOUNCE", "d9/d1b/a01583.html#a532cb5269831c504ba78101c6f3d61c9", null ],
-    [ "COUNT_OF_PLAYERS_TO_AVERAGE_WAIT_TIME", "d9/d1b/a01583.html#aebc536d6c303d31049ad05f333c275ba", null ]
+    [ "ArenaSeasonRewardType", "d9/d1b/a01583.html#a89a1f93759bb943ff9ef0e4991579265", [
+      [ "ARENA_SEASON_REWARD_TYPE_ITEM", "d9/d1b/a01583.html#a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32", null ],
+      [ "ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT", "d9/d1b/a01583.html#a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444", null ]
+    ] ],
+    [ "ArenaSeasonState", "d9/d1b/a01583.html#a64f8715fead51dc9727d105bce4d0e38", [
+      [ "ARENA_SEASON_STATE_DISABLED", "d9/d1b/a01583.html#a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017", null ],
+      [ "ARENA_SEASON_STATE_IN_PROGRESS", "d9/d1b/a01583.html#a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8", null ]
+    ] ]
 ];

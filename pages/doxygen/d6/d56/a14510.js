@@ -1,10 +1,5 @@
 var a14510 =
 [
-    [ "npc_brewfest_super_brew_trigger", "d6/d56/a14510.html#a3d2189978683150b1c431fa0fd637358", null ],
-    [ "AttackStart", "d6/d56/a14510.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
-    [ "JustEngagedWith", "d6/d56/a14510.html#a61be52cb8ba0cc10285820ad5324816e", null ],
-    [ "MoveInLineOfSight", "d6/d56/a14510.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
-    [ "Reset", "d6/d56/a14510.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
-    [ "UpdateAI", "d6/d56/a14510.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
-    [ "timer", "d6/d56/a14510.html#a2ebb06175e3142cca156e57e8386fe02", null ]
+    [ "at_zulgurub_bridge_speech", "d6/d56/a14510.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
+    [ "_OnTrigger", "d6/d56/a14510.html#a1a3dbb3cbfbeb50c653134b8bae773f0", null ]
 ];

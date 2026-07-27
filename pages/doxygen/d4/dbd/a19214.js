@@ -1,6 +1,6 @@
 var a19214 =
 [
-    [ "boss_gluthAI", "d3/db9/a19218.html", "d3/db9/a19218" ],
-    [ "boss_gluth", "d4/dbd/a19214.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
-    [ "GetAI", "d4/dbd/a19214.html#a3b19c938aaecc897d6552715064be7f8", null ]
+    [ "PrepareSpellScript", "d4/dbd/a19214.html#aac12da39c503615036120e3e0cd55622", null ],
+    [ "Register", "d4/dbd/a19214.html#a808d2283be9714c14f22a2df0a52dd61", null ],
+    [ "RelocateDest", "d4/dbd/a19214.html#a843c9dc403404ddd2de667e57e01f00c", null ]
 ];

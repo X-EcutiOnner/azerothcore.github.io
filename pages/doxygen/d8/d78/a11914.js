@@ -1,6 +1,4 @@
 var a11914 =
 [
-    [ "EffectSplitHandler", "d8/d78/a11914.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
-    [ "Call", "d8/d78/a11914.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
-    [ "pEffectHandlerScript", "d8/d78/a11914.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
+    [ "AddSpellMod", "d8/d78/a11914.html#a1c14e27dd094be2fccff3d74a1414a80", null ]
 ];

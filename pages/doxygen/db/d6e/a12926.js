@@ -1,10 +1,6 @@
 var a12926 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "db/d6e/a12926.html#a0080fdf557ad8159a8934dce5b39a535", null ],
-    [ "OnCreatureCreate", "db/d6e/a12926.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
-    [ "OnGameObjectCreate", "db/d6e/a12926.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
-    [ "ReadSaveDataMore", "db/d6e/a12926.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
-    [ "SetData", "db/d6e/a12926.html#af800a1906c532f61f0299f8aa9359a66", null ],
-    [ "WriteSaveDataMore", "db/d6e/a12926.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
-    [ "_encounters", "db/d6e/a12926.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
+    [ "boss_flamegor", "db/d6e/a12926.html#a721c23d631d305c102117566f609f10a", null ],
+    [ "JustEngagedWith", "db/d6e/a12926.html#aebbcd35868c64d2a0b1f660720f84575", null ],
+    [ "UpdateAI", "db/d6e/a12926.html#a086f8bd08ba22fff7e399bf9588cbffd", null ]
 ];

@@ -1,7 +1,6 @@
 var a14062 =
 [
-    [ "boss_blight_wormAI", "df/d01/a14062.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "df/d01/a14062.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "df/d01/a14062.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "df/d01/a14062.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "CheckProc", "df/d01/a14062.html#af6d00234388ceb5d1c9acd8775c66788", null ],
+    [ "PrepareAuraScript", "df/d01/a14062.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
+    [ "Register", "df/d01/a14062.html#acad1e829a317d15e73549047ece67eda", null ]
 ];

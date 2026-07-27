@@ -1,5 +1,4 @@
 var a08062 =
 [
-    [ "IsColorValid", "d1/d21/a08062.html#a075621e69c80c128ec44cfb4f3ba0cf6", null ],
-    [ "IsTextValid", "d1/d21/a08062.html#a33f6c3e46c24571a8eec083087618fed", null ]
+    [ "value", "d1/d21/a08062.html#aa6558e36917995af6b37ec607751aefd", null ]
 ];

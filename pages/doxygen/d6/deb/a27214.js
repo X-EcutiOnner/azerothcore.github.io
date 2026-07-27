@@ -1,8 +1,7 @@
 var a27214 =
 [
-    [ "CheckProc", "d6/deb/a27214.html#a11d7fe14f7b3cca93578926f157ef0d5", null ],
-    [ "HandleProc", "d6/deb/a27214.html#ac18d7286dd26ebbb868e01d17a412124", null ],
-    [ "PrepareAuraScript", "d6/deb/a27214.html#a8af3179c6688cfe0940bcd932f6766fa", null ],
-    [ "Register", "d6/deb/a27214.html#a239b3daf5f03f5e5930c7b6712a63d8a", null ],
-    [ "Validate", "d6/deb/a27214.html#a9919c0a8d284a36b3162ed435d2f7711", null ]
+    [ "HandleDummy", "d6/deb/a27214.html#a2ea424e6c740305340001b1c09bfec91", null ],
+    [ "PrepareSpellScript", "d6/deb/a27214.html#afe722c970155b47eac94bb9861a4eb46", null ],
+    [ "Register", "d6/deb/a27214.html#a2c2b96f1c00da9884ec9d01fe897c8c1", null ],
+    [ "Validate", "d6/deb/a27214.html#ac5f782da8b5e387c31e048759baf3e16", null ]
 ];

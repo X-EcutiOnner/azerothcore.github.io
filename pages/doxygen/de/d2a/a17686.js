@@ -1,6 +1,6 @@
 var a17686 =
 [
-    [ "ModAuraValue", "de/d2a/a17686.html#a359453c6253beb6f729209c6d3d79af7", null ],
-    [ "PrepareSpellScript", "de/d2a/a17686.html#a4f916abef69782be10cc6be9ba0124f5", null ],
-    [ "Register", "de/d2a/a17686.html#a4a387df07c88144288c4327ce86b730a", null ]
+    [ "boss_prince_kelesethAI", "d7/dd5/a17690.html", "d7/dd5/a17690" ],
+    [ "boss_prince_keleseth_icc", "de/d2a/a17686.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
+    [ "GetAI", "de/d2a/a17686.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
 ];

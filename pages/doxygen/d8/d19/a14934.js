@@ -1,7 +1,10 @@
 var a14934 =
 [
-    [ "HandleOnHit", "d8/d19/a14934.html#a9f1d78b4a98bc76877903b79923c1634", null ],
-    [ "PrepareSpellScript", "d8/d19/a14934.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
-    [ "Register", "d8/d19/a14934.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
-    [ "Validate", "d8/d19/a14934.html#a57d85b1702e5c89d72972505121180ed", null ]
+    [ "boss_headless_horseman_pumpkin", "d8/d19/a14934.html#a62191ae523401ac57a947db96a245f7a", null ],
+    [ "AttackStart", "d8/d19/a14934.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
+    [ "MoveInLineOfSight", "d8/d19/a14934.html#a212f9803f66d297cd276ef842247776a", null ],
+    [ "Reset", "d8/d19/a14934.html#a9d5f6922a52146b61168f1c50b378294", null ],
+    [ "SpellHit", "d8/d19/a14934.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
+    [ "UpdateAI", "d8/d19/a14934.html#aca53b8839bce5e180ba8583490d694c3", null ],
+    [ "timer", "d8/d19/a14934.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
 ];

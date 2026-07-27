@@ -1,15 +1,12 @@
 var a10794 =
 [
-    [ "MapScript", "df/d4a/a10794.html#a1932ac48acf7c937c060ee35804e79da", null ],
-    [ "checkMap", "df/d4a/a10794.html#abf3fbb90119e1ac5d13455217ac95a2f", null ],
-    [ "GetEntry", "df/d4a/a10794.html#aa2da3eeec627cb67719d774d35f03488", null ],
-    [ "OnCreate", "df/d4a/a10794.html#a8132edffb918e8b3b1131ae29a8d9e9b", null ],
-    [ "OnDestroy", "df/d4a/a10794.html#a4631768d457c2804f057c565d6e8fb7a", null ],
-    [ "OnLoadGridMap", "df/d4a/a10794.html#a77381401d4638c6149f21836f1ca6676", null ],
-    [ "OnPlayerEnter", "df/d4a/a10794.html#a9cef8253d591e729b4119312ec0b670a", null ],
-    [ "OnPlayerLeave", "df/d4a/a10794.html#a3d74ae0f2535cda31cf2d4125600f3e2", null ],
-    [ "OnUnloadGridMap", "df/d4a/a10794.html#a657bcd69e932d358e2c66daa6f571cfe", null ],
-    [ "OnUpdate", "df/d4a/a10794.html#a4e447511780a0c561e16b9e118361f63", null ],
-    [ "_mapEntry", "df/d4a/a10794.html#a280ca8d9bfa672c10d34a99db53d2959", null ],
-    [ "_mapId", "df/d4a/a10794.html#a1cbe9ae08f6e1c129df8d2277366eb1a", null ]
+    [ "GroupScript", "df/d4a/a10794.html#a6fd439e90bee7e42c2bd493497eb418c", null ],
+    [ "CanGroupJoinBattlegroundQueue", "df/d4a/a10794.html#a931b4a94a2f95958579b37c0af6ece03", null ],
+    [ "IsDatabaseBound", "df/d4a/a10794.html#acb561e8a2d5b3542e228a7beb8122fbf", null ],
+    [ "OnAddMember", "df/d4a/a10794.html#adb279c4c0ba60ffea994f35cd7e91ad1", null ],
+    [ "OnChangeLeader", "df/d4a/a10794.html#a64a1441fd3db3f25236691efcff4a80b", null ],
+    [ "OnCreate", "df/d4a/a10794.html#a18973a7e5f260712f032ca1129d4a0bc", null ],
+    [ "OnDisband", "df/d4a/a10794.html#a3cb94966ba1d02180fb3e7cf95000e5f", null ],
+    [ "OnInviteMember", "df/d4a/a10794.html#a2ae925dc27708fdaa4d5909b582b77a7", null ],
+    [ "OnRemoveMember", "df/d4a/a10794.html#a55410c643fdeed3fd270d6f3a7826d4d", null ]
 ];

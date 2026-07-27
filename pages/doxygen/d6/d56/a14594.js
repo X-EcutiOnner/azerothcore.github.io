@@ -1,7 +1,13 @@
 var a14594 =
 [
-    [ "PeriodicTick", "d6/d56/a14594.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
-    [ "PrepareAuraScript", "d6/d56/a14594.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
-    [ "Register", "d6/d56/a14594.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
-    [ "Validate", "d6/d56/a14594.html#a68247c2afa553411fac34582e83635c9", null ]
+    [ "npc_ohganAI", "d6/d56/a14594.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
+    [ "JustDied", "d6/d56/a14594.html#a89e506868e3191362545e34d21528b8f", null ],
+    [ "JustEngagedWith", "d6/d56/a14594.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
+    [ "KilledUnit", "d6/d56/a14594.html#a4e202eef928e54bd52160705bba5cc35", null ],
+    [ "Reset", "d6/d56/a14594.html#ac3e1bc9dc819138741eb3b4448051547", null ],
+    [ "SetGUID", "d6/d56/a14594.html#a575531a144c46ae3084e56e452125f16", null ],
+    [ "UpdateAI", "d6/d56/a14594.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
+    [ "_scheduler", "d6/d56/a14594.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
+    [ "instance", "d6/d56/a14594.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
+    [ "reviveGUID", "d6/d56/a14594.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
 ];

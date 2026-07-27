@@ -1,8 +1,6 @@
 var a14042 =
 [
-    [ "npc_varian_wrynnAI", "d0/d6c/a14046.html", "d0/d6c/a14046" ],
-    [ "npc_varian_wrynn", "db/dac/a14042.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
-    [ "GetAI", "db/dac/a14042.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
-    [ "OnGossipHello", "db/dac/a14042.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
-    [ "OnGossipSelect", "db/dac/a14042.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "d0/d6c/a14046.html", "d0/d6c/a14046" ],
+    [ "npc_bh_thalorien_dawnseeker", "db/dac/a14042.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
+    [ "GetAI", "db/dac/a14042.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
 ];

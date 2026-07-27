@@ -1,10 +1,8 @@
 var a27502 =
 [
-    [ "CheckProc", "de/d71/a27502.html#a68a559c46266fc7337f7d56bb66af542", null ],
-    [ "HandleProc", "de/d71/a27502.html#a69cdd92cea54ec5bf11f6011578b2338", null ],
-    [ "Load", "de/d71/a27502.html#ad571b0d2f47cff037030d7a8184f60fd", null ],
-    [ "PrepareAuraScript", "de/d71/a27502.html#aa20e2911e60f3ae7a9dcceee8f96b6ef", null ],
-    [ "Register", "de/d71/a27502.html#a8af18925b317c717fcd6b2fae14a16e4", null ],
-    [ "Validate", "de/d71/a27502.html#ac0cf25901d70e37bb887b3baa38790b5", null ],
-    [ "_procTarget", "de/d71/a27502.html#ad48f21d3a45e97857265e6047f253910", null ]
+    [ "CheckProc", "de/d71/a27502.html#a33412f2b5abb1ce2160408ef13e7f0cb", null ],
+    [ "HandleProc", "de/d71/a27502.html#ab24c3d3f697a7ebd146d6135305c7741", null ],
+    [ "PrepareAuraScript", "de/d71/a27502.html#a8eccfbb749b85bbb850874324f17bbde", null ],
+    [ "Register", "de/d71/a27502.html#a482dd09de6cba9f5a36a6cdad1b82a0a", null ],
+    [ "Validate", "de/d71/a27502.html#a0c3020d44608920a2820e73e0b9e4b42", null ]
 ];

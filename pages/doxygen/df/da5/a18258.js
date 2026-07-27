@@ -1,7 +1,6 @@
 var a18258 =
 [
-    [ "IceTombSummonEvent", "df/da5/a18258.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
-    [ "Execute", "df/da5/a18258.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
-    [ "_owner", "df/da5/a18258.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
-    [ "_sindragosaGUID", "df/da5/a18258.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
+    [ "AbominationDespawner", "df/da5/a18258.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "df/da5/a18258.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "df/da5/a18258.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

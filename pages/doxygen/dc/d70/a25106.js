@@ -1,7 +1,6 @@
 var a25106 =
 [
-    [ "OnApply", "dc/d70/a25106.html#a455a885611978a390cd4bfa76b05f82b", null ],
-    [ "PrepareAuraScript", "dc/d70/a25106.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
-    [ "Register", "dc/d70/a25106.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
-    [ "Validate", "dc/d70/a25106.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
+    [ "OnPeriodic", "dc/d70/a25106.html#a5fdf44f34765d0386d5c5490620c944a", null ],
+    [ "PrepareAuraScript", "dc/d70/a25106.html#a3c3044795e183eef2c801781100b11c7", null ],
+    [ "Register", "dc/d70/a25106.html#a1221c3287c3fd7add356e84430508684", null ]
 ];

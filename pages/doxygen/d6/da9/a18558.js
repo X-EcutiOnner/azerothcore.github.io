@@ -1,10 +1,17 @@
 var a18558 =
 [
-    [ "HandleScript", "d6/da9/a18558.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
-    [ "Load", "d6/da9/a18558.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
-    [ "PrepareSpellScript", "d6/da9/a18558.html#afcc1efc69d73086a9ab686855911e516", null ],
-    [ "Register", "d6/da9/a18558.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
-    [ "ReplaceTarget", "d6/da9/a18558.html#a01cb7d25bef14a2266d81594544f6283", null ],
-    [ "SelectTarget", "d6/da9/a18558.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
-    [ "_target", "d6/da9/a18558.html#a3a84a9d7109845d201b395f05f66d109", null ]
+    [ "npc_rimefangAI", "d6/da9/a18558.html#ae89b397bafdcb06e94fa94c18ef0d2c8", null ],
+    [ "DoAction", "d6/da9/a18558.html#a79d34453b3ace5c1f80b12b862890e3c", null ],
+    [ "InitializeAI", "d6/da9/a18558.html#ae515d0b1d383c48e40fa4795edd1b247", null ],
+    [ "JustDied", "d6/da9/a18558.html#ab3cd1550cda44cecf889f4bf28f976ba", null ],
+    [ "JustEngagedWith", "d6/da9/a18558.html#ad161bb0a6c76d223b1e687a1cc604375", null ],
+    [ "JustReachedHome", "d6/da9/a18558.html#a7b15a9c6db1a48c3766afcb41d66b61f", null ],
+    [ "JustRespawned", "d6/da9/a18558.html#a47ed52a4a0511d7b1e3eb4bd5da409ca", null ],
+    [ "MovementInform", "d6/da9/a18558.html#aacd146fbfac94b8f82b3971ff74644cc", null ],
+    [ "Reset", "d6/da9/a18558.html#a8956324e2806393d26bf146f4e2c48b0", null ],
+    [ "UpdateAI", "d6/da9/a18558.html#a00872042199924a14089c1057c479ff7", null ],
+    [ "_events", "d6/da9/a18558.html#ade0c279565236eb3fd59fd43eef4c3e1", null ],
+    [ "_icyBlastCounter", "d6/da9/a18558.html#aef3e7d4cd3d23f407ef4ba5aa5c737c9", null ],
+    [ "_instance", "d6/da9/a18558.html#ad12541907c439117cf8c8a6741c07445", null ],
+    [ "_summoned", "d6/da9/a18558.html#aa27dd1e338145a65915262a8d44f7519", null ]
 ];

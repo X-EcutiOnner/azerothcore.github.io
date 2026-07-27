@@ -1,6 +1,7 @@
 var a22054 =
 [
-    [ "CheckCast", "d8/da2/a22054.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "d8/da2/a22054.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "d8/da2/a22054.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "npc_battle_at_valhalasAI", "d8/dc9/a22058.html", "d8/dc9/a22058" ],
+    [ "npc_battle_at_valhalas", "d8/da2/a22054.html#aacec717b5b91ae55307c9642779c15ec", null ],
+    [ "GetAI", "d8/da2/a22054.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
+    [ "OnQuestAccept", "d8/da2/a22054.html#addd76fd9f4b4f8ce706693614b80966b", null ]
 ];

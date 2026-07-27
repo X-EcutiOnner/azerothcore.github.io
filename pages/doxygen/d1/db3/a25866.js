@@ -1,7 +1,6 @@
 var a25866 =
 [
-    [ "OnApply", "d1/db3/a25866.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
-    [ "OnRemove", "d1/db3/a25866.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
-    [ "PrepareAuraScript", "d1/db3/a25866.html#aa93b45e31c33caf3ea51a26846566b34", null ],
-    [ "Register", "d1/db3/a25866.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
+    [ "HandleActivateObject", "d1/db3/a25866.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
+    [ "PrepareSpellScript", "d1/db3/a25866.html#a684079434128bacd3d8b8b71c14dc56a", null ],
+    [ "Register", "d1/db3/a25866.html#a266301f59c809c03d0ccfc48a2ace302", null ]
 ];

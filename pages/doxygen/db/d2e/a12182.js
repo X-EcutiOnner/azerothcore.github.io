@@ -1,11 +1,15 @@
 var a12182 =
 [
-    [ "bf_commandscript", "db/d2e/a12182.html#a806ca440ae1b51fffefee9d298dab3df", null ],
-    [ "GetCommands", "db/d2e/a12182.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
-    [ "HandleBattlefieldEnable", "db/d2e/a12182.html#a08dd3bdd279c760fe0f126200a01619e", null ],
-    [ "HandleBattlefieldEnd", "db/d2e/a12182.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
-    [ "HandleBattlefieldQueue", "db/d2e/a12182.html#a23f6e8d14c511f3e9c3c070be14477e4", null ],
-    [ "HandleBattlefieldStart", "db/d2e/a12182.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
-    [ "HandleBattlefieldSwitch", "db/d2e/a12182.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
-    [ "HandleBattlefieldTimer", "db/d2e/a12182.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
+    [ "BroadcastTextId", "db/d2e/a12182.html#a12ff00d59ce642d3c27978e919f6ca17", null ],
+    [ "duration", "db/d2e/a12182.html#a00b6d7cbf9ff377d30cd9e6cfab084b7", null ],
+    [ "emote", "db/d2e/a12182.html#aad433a0bc12717103936e6f89b5b31ea", null ],
+    [ "entry", "db/d2e/a12182.html#a3d1c888b73edee2474004de9d8714903", null ],
+    [ "group", "db/d2e/a12182.html#ae2161d1dc874efacd0131baa74b4e44a", null ],
+    [ "id", "db/d2e/a12182.html#ab80181d53770a2f64bd6898498b3e76e", null ],
+    [ "lang", "db/d2e/a12182.html#a8405ab49781ba0cbcd8680ff6715b675", null ],
+    [ "probability", "db/d2e/a12182.html#a9bec9c2053f2efbac076831d4e928045", null ],
+    [ "sound", "db/d2e/a12182.html#af312efff61026445caeb4be4b52c4e66", null ],
+    [ "text", "db/d2e/a12182.html#a82b3db36b60a343d340677e8df6c7925", null ],
+    [ "TextRange", "db/d2e/a12182.html#a2bb58a07abc9eb7ffeb4db131de03924", null ],
+    [ "type", "db/d2e/a12182.html#a5675f6bcf159e1da503029771557e2a6", null ]
 ];

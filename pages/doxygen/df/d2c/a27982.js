@@ -1,5 +1,5 @@
 var a27982 =
 [
-    [ "item_petrov_cluster_bombs", "df/d2c/a27982.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "df/d2c/a27982.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "achievement_bg_sa_artillery", "df/d2c/a27982.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
+    [ "OnCheck", "df/d2c/a27982.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
 ];

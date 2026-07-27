@@ -1,12 +1,9 @@
 var a15050 =
 [
-    [ "boss_epochAI", "d2/d7f/a15050.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
-    [ "JustDied", "d2/d7f/a15050.html#a780aa5bc86c80aaeeffad441b2873121", null ],
-    [ "JustEngagedWith", "d2/d7f/a15050.html#ae742dceac5979faebb58a133e9bd91f0", null ],
-    [ "KilledUnit", "d2/d7f/a15050.html#af41946feab7b86d812f706bd7abbf1bd", null ],
-    [ "Reset", "d2/d7f/a15050.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
-    [ "SpellHitTarget", "d2/d7f/a15050.html#ab87dfcf635a65b02be29186d2990fef3", null ],
-    [ "UpdateAI", "d2/d7f/a15050.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
-    [ "events", "d2/d7f/a15050.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
-    [ "warps", "d2/d7f/a15050.html#a478113af1ce565c729604c6039f55551", null ]
+    [ "HandlePeriodic", "d2/d7f/a15050.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
+    [ "Load", "d2/d7f/a15050.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
+    [ "PrepareAuraScript", "d2/d7f/a15050.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
+    [ "Register", "d2/d7f/a15050.html#ac331de3219ae7da9e35e962011540bdf", null ],
+    [ "Validate", "d2/d7f/a15050.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
+    [ "_buffGiven", "d2/d7f/a15050.html#aec2476ad5e046213b90af04ad91f0230", null ]
 ];

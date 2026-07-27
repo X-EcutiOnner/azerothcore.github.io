@@ -1,6 +1,7 @@
 var a14962 =
 [
-    [ "HandleHit", "d4/dcc/a14962.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "d4/dcc/a14962.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "d4/dcc/a14962.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "HandleEffectApply", "d4/dcc/a14962.html#ad48d832fef881bfb517fb8df694b7507", null ],
+    [ "HandleEffectRemove", "d4/dcc/a14962.html#a1534b010301dbaff66d41443142c50b7", null ],
+    [ "PrepareAuraScript", "d4/dcc/a14962.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
+    [ "Register", "d4/dcc/a14962.html#a97a0003cca808e5b03f720bb3be07419", null ]
 ];

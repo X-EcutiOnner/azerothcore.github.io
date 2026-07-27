@@ -1,13 +1,11 @@
 var a12714 =
 [
-    [ "boss_nefarian", "df/d93/a12714.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
-    [ "JustDied", "df/d93/a12714.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
-    [ "JustEngagedWith", "df/d93/a12714.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
-    [ "KilledUnit", "df/d93/a12714.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
-    [ "MovementInform", "df/d93/a12714.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
-    [ "PathEndReached", "df/d93/a12714.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
-    [ "Reset", "df/d93/a12714.html#a5d687fce34b17e22c605c263395e823b", null ],
-    [ "UpdateAI", "df/d93/a12714.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
-    [ "_introDone", "df/d93/a12714.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
-    [ "classesPresent", "df/d93/a12714.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
+    [ "boss_emperor_dagran_thaurissan", "df/d93/a12714.html#a33efe0ee1573c4b43cdf58bdce303e5d", null ],
+    [ "JustDied", "df/d93/a12714.html#a526a7726e2838ef4c49cca8dd6fc68c9", null ],
+    [ "JustEngagedWith", "df/d93/a12714.html#a182564d95dc677ea33e47995638a9a58", null ],
+    [ "KilledUnit", "df/d93/a12714.html#a7f7ae37e4abbe37f4fa46b98af3ac03a", null ],
+    [ "SetData", "df/d93/a12714.html#a5ccda3d76afe43804c86e193afa9b80c", null ],
+    [ "UpdateAI", "df/d93/a12714.html#ab1c7da00e8e1a20d2592ec26862867fc", null ],
+    [ "hasYelled", "df/d93/a12714.html#aaadeb10c22c598cd10ccde83425fbf71", null ],
+    [ "SenatorYells", "df/d93/a12714.html#ad94aef1875a5a863f78dc84a964638f9", null ]
 ];

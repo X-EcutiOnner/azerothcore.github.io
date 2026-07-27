@@ -1,9 +1,8 @@
 var a28498 =
 [
-    [ "npc_target_dummyAI", "d9/d09/a28498.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "d9/d09/a28498.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "d9/d09/a28498.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "d9/d09/a28498.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "d9/d09/a28498.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "d9/d09/a28498.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "npc_chicken_cluckAI", "da/da3/a28502.html", "da/da3/a28502" ],
+    [ "npc_chicken_cluck", "d9/d09/a28498.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "d9/d09/a28498.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "d9/d09/a28498.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "d9/d09/a28498.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

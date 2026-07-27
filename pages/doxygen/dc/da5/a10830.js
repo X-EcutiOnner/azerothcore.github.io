@@ -1,6 +1,5 @@
 var a10830 =
 [
-    [ "BuyBankSlotResult", "dc/da5/a10830.html#a93b60814becc451c38f06f9702a9e027", null ],
-    [ "Write", "dc/da5/a10830.html#a55a6609863b0d3ef966f222526268acb", null ],
-    [ "Result", "dc/da5/a10830.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
+    [ "MovementHandlerScript", "dc/da5/a10830.html#aec794d21148c9ed382d80b6c30a676cd", null ],
+    [ "OnPlayerMove", "dc/da5/a10830.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
 ];

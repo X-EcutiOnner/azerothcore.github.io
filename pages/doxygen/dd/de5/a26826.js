@@ -1,7 +1,7 @@
 var a26826 =
 [
-    [ "HandleDummy", "dd/de5/a26826.html#a2ea424e6c740305340001b1c09bfec91", null ],
-    [ "PrepareSpellScript", "dd/de5/a26826.html#afe722c970155b47eac94bb9861a4eb46", null ],
-    [ "Register", "dd/de5/a26826.html#a2c2b96f1c00da9884ec9d01fe897c8c1", null ],
-    [ "Validate", "dd/de5/a26826.html#ac5f782da8b5e387c31e048759baf3e16", null ]
+    [ "CheckAreaTarget", "dd/de5/a26826.html#a3c2dc43efc37be1b34cba266a478f46e", null ],
+    [ "PrepareAuraScript", "dd/de5/a26826.html#a88c7c19e87106e1bbf6cc5a24a3bc2e4", null ],
+    [ "Register", "dd/de5/a26826.html#a9cbc5794b1ed54fe9313cd161ec5b19f", null ],
+    [ "Validate", "dd/de5/a26826.html#ab18a951259cc74b0ba8319f757e38eca", null ]
 ];

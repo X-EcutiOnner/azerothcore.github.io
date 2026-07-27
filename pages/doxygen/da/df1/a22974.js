@@ -1,7 +1,7 @@
 var a22974 =
 [
-    [ "HandleProc", "da/df1/a22974.html#a03b2be5894d489a6021aff2744aee0e0", null ],
-    [ "PrepareAuraScript", "da/df1/a22974.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
-    [ "Register", "da/df1/a22974.html#a804e1bc3d570d28cb2e06155054f3169", null ],
-    [ "Validate", "da/df1/a22974.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
+    [ "npc_ashtongue_channeler", "da/df1/a22974.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "da/df1/a22974.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "da/df1/a22974.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "da/df1/a22974.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

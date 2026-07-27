@@ -1,6 +1,6 @@
 var a27078 =
 [
-    [ "FilterTargets", "dd/dc0/a27078.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
-    [ "PrepareSpellScript", "dd/dc0/a27078.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
-    [ "Register", "dd/dc0/a27078.html#abe63ec69fe15fd8924fb63235489e088", null ]
+    [ "HandleScriptEffect", "dd/dc0/a27078.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
+    [ "PrepareSpellScript", "dd/dc0/a27078.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
+    [ "Register", "dd/dc0/a27078.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
 ];

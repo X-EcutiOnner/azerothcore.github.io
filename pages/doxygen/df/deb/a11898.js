@@ -1,6 +1,8 @@
 var a11898 =
 [
-    [ "EffectCalcSpellModHandler", "df/deb/a11898.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
-    [ "Call", "df/deb/a11898.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
-    [ "pEffectHandlerScript", "df/deb/a11898.html#a15c0b24641cb04f31bb3d651dae59448", null ]
+    [ "WorldObjectSpellAreaTargetCheck", "df/deb/a11898.html#a0a6275bc4d2bbf7da27e4b0df7245ec2", null ],
+    [ "operator()", "df/deb/a11898.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
+    [ "_position", "df/deb/a11898.html#a680c45dd148161657da011a1772375ca", null ],
+    [ "_range", "df/deb/a11898.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ],
+    [ "_searchReason", "df/deb/a11898.html#aad544cdfe9423a7967dfed64aeaed995", null ]
 ];

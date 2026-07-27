@@ -1,6 +1,8 @@
 var a22402 =
 [
-    [ "HandleScriptEffect", "dd/dc1/a22402.html#aa60961c2609184e739dea3be8ba992d5", null ],
-    [ "PrepareSpellScript", "dd/dc1/a22402.html#aacde592314399112786b024153389024", null ],
-    [ "Register", "dd/dc1/a22402.html#a3a2299da6fd73d14c7771e7a2c8a4ebd", null ]
+    [ "go_wg_vehicle_teleporterAI", "dd/dc1/a22402.html#af84e73765b1a4d810b41613824999186", null ],
+    [ "IsFriendly", "dd/dc1/a22402.html#adca817c8919958db888d5e9c759ad545", null ],
+    [ "IsValidVehicle", "dd/dc1/a22402.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
+    [ "UpdateAI", "dd/dc1/a22402.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
+    [ "_checkTimer", "dd/dc1/a22402.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
 ];

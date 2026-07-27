@@ -1,7 +1,5 @@
 var a23654 =
 [
-    [ "HandleDummy", "d3/df4/a23654.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d3/df4/a23654.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d3/df4/a23654.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d3/df4/a23654.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "at_rp_nethekurse", "d3/df4/a23654.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
+    [ "_OnTrigger", "d3/df4/a23654.html#a93001d6dda7b2711f1efe100ffab5879", null ]
 ];

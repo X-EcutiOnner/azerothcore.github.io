@@ -1,10 +1,13 @@
 var a09614 =
 [
-    [ "AnyDeadUnitObjectInRangeCheck", "d6/da7/a09614.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
-    [ "operator()", "d6/da7/a09614.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
-    [ "operator()", "d6/da7/a09614.html#ae885f49537043421a92b44c201bec358", null ],
-    [ "operator()", "d6/da7/a09614.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
-    [ "operator()", "d6/da7/a09614.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
-    [ "i_range", "d6/da7/a09614.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
-    [ "i_searchObj", "d6/da7/a09614.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
+    [ "MessageDistDelivererToHostile", "d6/da7/a09614.html#a4e1642660288eeb46867d4e19944cc78", null ],
+    [ "SendPacket", "d6/da7/a09614.html#aced79e7b19918408fa4d81667fbeb7f0", null ],
+    [ "Visit", "d6/da7/a09614.html#af9c5269b0266e9e28a70118e62d25e58", null ],
+    [ "Visit", "d6/da7/a09614.html#a224eeb339614d7a9f5e43d498b245958", null ],
+    [ "Visit", "d6/da7/a09614.html#a304c0be3c55bd2817abeaa1d53563a27", null ],
+    [ "Visit", "d6/da7/a09614.html#ae2a44055a4363eeff81a799b8a93d74d", null ],
+    [ "i_distSq", "d6/da7/a09614.html#a0fc7e00f191801869c3fd8eeae032af8", null ],
+    [ "i_message", "d6/da7/a09614.html#ae10ac98c489ec48ed49daf835e7a361d", null ],
+    [ "i_phaseMask", "d6/da7/a09614.html#a0a932cd193e847ee0cfddae0946e39d1", null ],
+    [ "i_source", "d6/da7/a09614.html#a174aade6dc85233e8481a452f800ec0e", null ]
 ];

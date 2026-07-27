@@ -1,7 +1,7 @@
 var a11598 =
 [
-    [ "IsValidOpcode", "d5/da2/a11598.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "d5/da2/a11598.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "d5/da2/a11598.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "d5/da2/a11598.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "QuestGiverQuestFailed", "d5/da2/a11598.html#aec524e18a6a0fb666061bd08b17ff9cb", null ],
+    [ "Write", "d5/da2/a11598.html#a97d19e4fe5ccc50afaf91d58321d31ec", null ],
+    [ "FailureReason", "d5/da2/a11598.html#a5c4d887fd352e97c10a52bb095d8e33d", null ],
+    [ "QuestId", "d5/da2/a11598.html#a1c09d090cd3b7fc73becca4f523141f6", null ]
 ];

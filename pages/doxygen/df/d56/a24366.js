@@ -1,7 +1,6 @@
 var a24366 =
 [
-    [ "AfterApply", "df/d56/a24366.html#adae232af9445638b3d54e81d414483b7", null ],
-    [ "AfterRemove", "df/d56/a24366.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
-    [ "PrepareAuraScript", "df/d56/a24366.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
-    [ "Register", "df/d56/a24366.html#abff75ea597dcc017a359a5ef3ada4314", null ]
+    [ "achievement", "df/d56/a24366.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "df/d56/a24366.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "df/d56/a24366.html#ab8c1bedac4bccf5c47eda591c9e5e9d1", null ]
 ];

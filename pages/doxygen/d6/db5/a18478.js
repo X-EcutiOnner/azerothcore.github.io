@@ -1,10 +1,11 @@
 var a18478 =
 [
-    [ "npc_shambling_horror_iccAI", "d6/db5/a18478.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
-    [ "CanAIAttack", "d6/db5/a18478.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
-    [ "DamageTaken", "d6/db5/a18478.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
-    [ "Reset", "d6/db5/a18478.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
-    [ "UpdateAI", "d6/db5/a18478.html#abae6058591022057e93d48da3db1b8bc", null ],
-    [ "_events", "d6/db5/a18478.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
-    [ "_frenzied", "d6/db5/a18478.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
+    [ "npc_ice_tombAI", "d6/db5/a18478.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
+    [ "DamageTaken", "d6/db5/a18478.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
+    [ "JustDied", "d6/db5/a18478.html#a237f27260aaa9176d81b67b11d063660", null ],
+    [ "SetGUID", "d6/db5/a18478.html#ac406bece1d1f1517b5837e311feef9ae", null ],
+    [ "UpdateAI", "d6/db5/a18478.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
+    [ "_asphyxiationTimer", "d6/db5/a18478.html#a6790d9c852279624a549f60bf26e1eb2", null ],
+    [ "_existenceCheckTimer", "d6/db5/a18478.html#ab3dbf40235549be89e42951d93593ea2", null ],
+    [ "_trappedPlayerGUID", "d6/db5/a18478.html#a8a7666594e59bdac449f2284387b8e2c", null ]
 ];

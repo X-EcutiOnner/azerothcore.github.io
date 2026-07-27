@@ -1,10 +1,9 @@
 var a14562 =
 [
-    [ "npc_coren_direbrew_sisters", "df/d28/a14562.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
-    [ "GetGUID", "df/d28/a14562.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
-    [ "JustEngagedWith", "df/d28/a14562.html#a34e0b6af032240c152c463c221d99335", null ],
-    [ "SetGUID", "df/d28/a14562.html#a8b25691671f4a65e990e9f39c92214ae", null ],
-    [ "UpdateAI", "df/d28/a14562.html#a7434b08d12d3f0902d1944b75323560c", null ],
-    [ "_scheduler", "df/d28/a14562.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
-    [ "_targetGUID", "df/d28/a14562.html#a801a6811124a7db3a31ec492ef954b20", null ]
+    [ "npc_healing_ward", "df/d28/a14562.html#a3d3c35f61502d3a83cb2581119e08903", null ],
+    [ "JustEngagedWith", "df/d28/a14562.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
+    [ "Reset", "df/d28/a14562.html#a756d27a43d86c7ecde859df255c6bd62", null ],
+    [ "UpdateAI", "df/d28/a14562.html#a8b8635af33ce814602206064e0815520", null ],
+    [ "_instance", "df/d28/a14562.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
+    [ "_scheduler", "df/d28/a14562.html#a0c62fe945b491cab76175217a7d10c06", null ]
 ];

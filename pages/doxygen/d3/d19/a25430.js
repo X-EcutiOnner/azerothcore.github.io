@@ -1,7 +1,11 @@
 var a25430 =
 [
-    [ "HandleScriptEffect", "d3/d19/a25430.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
-    [ "PrepareSpellScript", "d3/d19/a25430.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
-    [ "Register", "d3/d19/a25430.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
-    [ "SelectTarget", "d3/d19/a25430.html#a6a59b7ce696f959b2026cf8088079e89", null ]
+    [ "spell_gen_apply_aura_after_expiration", "d3/d19/a25430.html#a391e5089eb034618c5e3edde26685a00", null ],
+    [ "AfterRemove", "d3/d19/a25430.html#afea2221ceeebf90cf352084d8aacf7c9", null ],
+    [ "PrepareAuraScript", "d3/d19/a25430.html#a494123635eda4c43d92a08c9c8cd5627", null ],
+    [ "Register", "d3/d19/a25430.html#a3189ba65a1d9adf252d9f0dfb70abd16", null ],
+    [ "Validate", "d3/d19/a25430.html#ad405128104d8a6528e8db96281ad0f0b", null ],
+    [ "_aura", "d3/d19/a25430.html#a8a79aef777e1397b031149c54ae9d81d", null ],
+    [ "_effect", "d3/d19/a25430.html#aa276a986ba9b67964ddeec56d6455cf9", null ],
+    [ "_spellId", "d3/d19/a25430.html#a330f1311911ba9f3ebd704c7f9a09246", null ]
 ];

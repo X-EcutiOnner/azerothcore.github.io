@@ -1,9 +1,12 @@
 var a09578 =
 [
-    [ "CreatureLastSearcher", "de/d5e/a09578.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d", null ],
-    [ "Visit", "de/d5e/a09578.html#ae6774df4ffff18cd4f3b4c07724db4f4", null ],
-    [ "Visit", "de/d5e/a09578.html#a08635cefbba5dca34734569816d2edb8", null ],
-    [ "i_check", "de/d5e/a09578.html#a2b9afe2c43af6e68f7fa5ba661790ef9", null ],
-    [ "i_object", "de/d5e/a09578.html#ab8a14acb8d0fc9835d1325430fa1a367", null ],
-    [ "i_phaseMask", "de/d5e/a09578.html#a9dd25e3437e1c1e5e4c8d68ab3548500", null ]
+    [ "GridTerrainLoader", "de/d5e/a09578.html#a9f5094ad19163dc8ac3f3c4bada48ee9", null ],
+    [ "ExistMap", "de/d5e/a09578.html#a980cb9f6537642db8ae0825d14b6bb68", null ],
+    [ "ExistVMap", "de/d5e/a09578.html#a17bdde445c48738ade280bd1cdda0619", null ],
+    [ "LoadMap", "de/d5e/a09578.html#ac220ce61dd0c3e514dcff2465c61af0f", null ],
+    [ "LoadMMap", "de/d5e/a09578.html#a8b3be4eb509393af8a2a927bc15947c9", null ],
+    [ "LoadTerrain", "de/d5e/a09578.html#a097556a8a778efa22ab9d50cbda2649a", null ],
+    [ "LoadVMap", "de/d5e/a09578.html#ac4e66140ef37fb3dc0f990cc196d106f", null ],
+    [ "_grid", "de/d5e/a09578.html#a1ec8202457f9df4fdc3b356e30f1a15d", null ],
+    [ "_map", "de/d5e/a09578.html#a2547ac0b9ee6ae7b760227d5051dea85", null ]
 ];

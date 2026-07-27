@@ -1,8 +1,5 @@
 var a15746 =
 [
-    [ "npc_aged_dying_ancient_kodo", "dd/da8/a15746.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
-    [ "JustRespawned", "dd/da8/a15746.html#ab401f9002bd49b26cc0526112e715d1e", null ],
-    [ "MoveInLineOfSight", "dd/da8/a15746.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
-    [ "sGossipHello", "dd/da8/a15746.html#a8bd41050426cdee7da37d1370e5a7363", null ],
-    [ "SpellHit", "dd/da8/a15746.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
+    [ "npc_toxic_slime", "dd/da8/a15746.html#a4c3a03916280342ec9aec07049de161f", null ],
+    [ "InitializeAI", "dd/da8/a15746.html#ae69f228040aaa5bc4df40a652f551992", null ]
 ];

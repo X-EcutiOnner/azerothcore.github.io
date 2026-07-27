@@ -1,6 +1,6 @@
 var a16070 =
 [
-    [ "HandleOpenLock", "d9/d48/a16070.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
-    [ "PrepareSpellScript", "d9/d48/a16070.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
-    [ "Register", "d9/d48/a16070.html#a5dcac6f609ec93074ec3ce195101f592", null ]
+    [ "npc_anachronos_the_ancientAI", "da/df8/a16074.html", "da/df8/a16074" ],
+    [ "npc_anachronos_the_ancient", "d9/d48/a16070.html#a720884359886e6f881190471005f4cfc", null ],
+    [ "GetAI", "d9/d48/a16070.html#a345c801231907d98f2ab2425b1d35cbc", null ]
 ];

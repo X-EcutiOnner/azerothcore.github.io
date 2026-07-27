@@ -1,6 +1,6 @@
 var a17954 =
 [
-    [ "CheckProc", "d1/d7d/a17954.html#a86e62fa26606a77284c80583e7b35d27", null ],
-    [ "PrepareAuraScript", "d1/d7d/a17954.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
-    [ "Register", "d1/d7d/a17954.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
+    [ "Cooldown", "d1/d7d/a17954.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
+    [ "Entry", "d1/d7d/a17954.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
+    [ "TargetPosition", "d1/d7d/a17954.html#ac47af49622012b4ad40357cadc5214b3", null ]
 ];

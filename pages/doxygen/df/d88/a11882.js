@@ -1,6 +1,5 @@
 var a11882 =
 [
-    [ "EffectPeriodicHandler", "df/d88/a11882.html#aad44956783e9c044eb92065cc62e97f6", null ],
-    [ "Call", "df/d88/a11882.html#a938e987363972fbd58e42f19880016d8", null ],
-    [ "pEffectHandlerScript", "df/d88/a11882.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
+    [ "effectMask", "df/d88/a11882.html#a3161ec2ffdf794c000cc94b91519d009", null ],
+    [ "item", "df/d88/a11882.html#afce5eba99c3dc33698dd12af8432f357", null ]
 ];

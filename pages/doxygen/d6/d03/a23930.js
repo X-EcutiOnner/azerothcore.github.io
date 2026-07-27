@@ -1,7 +1,6 @@
 var a23930 =
 [
-    [ "HandleSendEvent", "d6/d03/a23930.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "d6/d03/a23930.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "d6/d03/a23930.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "d6/d03/a23930.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "HandleDummy", "d6/d03/a23930.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
+    [ "PrepareSpellScript", "d6/d03/a23930.html#af511bcad63ff423bf04a430f56959f40", null ],
+    [ "Register", "d6/d03/a23930.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
 ];

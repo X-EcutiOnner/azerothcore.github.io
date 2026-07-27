@@ -1,6 +1,9 @@
 var a18066 =
 [
-    [ "MalleableGooSelector", "de/dca/a18066.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
-    [ "operator()", "de/dca/a18066.html#adf73957539fdcc604f849944473e0015", null ],
-    [ "me", "de/dca/a18066.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
+    [ "CheckAreaTarget", "de/dca/a18066.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
+    [ "HandleApply", "de/dca/a18066.html#a9ce86d32957af07313af379b4176d0b3", null ],
+    [ "HandleRemove", "de/dca/a18066.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
+    [ "Load", "de/dca/a18066.html#aa10821981f3e80262850e5c46449d5d0", null ],
+    [ "PrepareAuraScript", "de/dca/a18066.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
+    [ "Register", "de/dca/a18066.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
 ];

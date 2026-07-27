@@ -1,6 +1,5 @@
 var a22558 =
 [
-    [ "boss_essence_of_angerAI", "da/d19/a22562.html", "da/d19/a22562" ],
-    [ "boss_essence_of_anger", "db/d0a/a22558.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "db/d0a/a22558.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "OutdoorPvP_silithus", "db/d0a/a22558.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
+    [ "GetOutdoorPvP", "db/d0a/a22558.html#a126d6acc77218addd10072199ccd2470", null ]
 ];

@@ -1,6 +1,5 @@
 var a02000 =
 [
-    [ "AccountInfoQueryHolderPerRealm", "df/d9a/a11684.html", "df/d9a/a11684" ],
-    [ "REMOVE_VIOLATING_FLAGS", "da/d51/a02000.html#a9d7c4eaedbb2a06f275a5f59222bc747", null ],
-    [ "DefaultPlayerName", "da/d51/a02000.html#a586e06ca0d339349e13d81197056bb5f", null ]
+    [ "MotdMap", "da/d51/a02000.html#a5c662919d486ab6fdecf6195e172bc0d", null ],
+    [ "MotdPackets", "da/d51/a02000.html#a58c795807a8c0ddf95b6dde3d1760c0a", null ]
 ];

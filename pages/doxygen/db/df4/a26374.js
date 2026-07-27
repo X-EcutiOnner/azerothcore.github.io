@@ -1,8 +1,6 @@
 var a26374 =
 [
-    [ "CheckProc", "db/df4/a26374.html#a2e7c3b219786c4328c6f5de2b4e6b684", null ],
-    [ "HandleProc", "db/df4/a26374.html#ac564fc88a0cfe410b7caaeed639b5258", null ],
-    [ "PrepareAuraScript", "db/df4/a26374.html#ab8c2f9f3f3750419ad62d72e284bf3b1", null ],
-    [ "Register", "db/df4/a26374.html#ac5bb4e949f4a7b86b41861777f86bd7a", null ],
-    [ "Validate", "db/df4/a26374.html#af67336b40e69f72f8cd5aa1776490bad", null ]
+    [ "CheckProc", "db/df4/a26374.html#ae67afabe644d2e11f85950d02325373a", null ],
+    [ "PrepareAuraScript", "db/df4/a26374.html#adf2825375a332d2829778d2a57c6f511", null ],
+    [ "Register", "db/df4/a26374.html#ad9f4946abaf474e31b518b57e1de5bf1", null ]
 ];

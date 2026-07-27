@@ -1,8 +1,27 @@
 var a20718 =
 [
-    [ "FilterTargets", "d0/ddb/a20718.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
-    [ "HandleDummyEffect", "d0/ddb/a20718.html#ab1f662fa107d176386067ffc6467d90f", null ],
-    [ "PrepareSpellScript", "d0/ddb/a20718.html#a069cc54bf009830ad781c790b4fcedad", null ],
-    [ "Register", "d0/ddb/a20718.html#ac91532151b689bde35d7120b1e9aec5b", null ],
-    [ "Validate", "d0/ddb/a20718.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
+    [ "boss_razorscale", "d0/ddb/a20718.html#aa60eb42c00c6d801a7b716cea40412d2", null ],
+    [ "DamageTaken", "d0/ddb/a20718.html#a7dc864d3e60c786cc8153121b39938c5", null ],
+    [ "DoAction", "d0/ddb/a20718.html#a63e951ce71137869004732cfbecc6db3", null ],
+    [ "EnterEvadeMode", "d0/ddb/a20718.html#acc55c1b00fbf1cdea8761eabe29a55d2", null ],
+    [ "GetData", "d0/ddb/a20718.html#ae32fe4aba366d47133974787a250e9ac", null ],
+    [ "HandleMusic", "d0/ddb/a20718.html#a997bbed5df4521b21b2749e47a2b8413", null ],
+    [ "Initialize", "d0/ddb/a20718.html#abe14fe0e1c1afbfb9baa6c16b54a6191", null ],
+    [ "JustDied", "d0/ddb/a20718.html#adad076aca788a317eb8085b22ae4d9ed", null ],
+    [ "JustEngagedWith", "d0/ddb/a20718.html#ae30c01218215370bab7c5a139847c9dd", null ],
+    [ "JustSummoned", "d0/ddb/a20718.html#a16cab59be86221b991f382529884b17e", null ],
+    [ "MovementInform", "d0/ddb/a20718.html#a722509fba200d997e50dc586184019ec", null ],
+    [ "Reset", "d0/ddb/a20718.html#a4fc8f1ff4490d419fd6fec0e4ed15a8b", null ],
+    [ "ScheduleAirEvents", "d0/ddb/a20718.html#a809b1ee8e83d6de04f99b723b329c434", null ],
+    [ "ScheduleGroundEvents", "d0/ddb/a20718.html#ac09d5428613218a18519c63e714c80ae", null ],
+    [ "SpellHit", "d0/ddb/a20718.html#ad92c40cfcc483717bb8ca08214c22add", null ],
+    [ "SummonedCreatureDies", "d0/ddb/a20718.html#a678ba10c9ab7af662c0a8e2dd9de6904", null ],
+    [ "SummonMinions", "d0/ddb/a20718.html#a5d059d9571a04896c27fde1b6c5db4ce", null ],
+    [ "UpdateAI", "d0/ddb/a20718.html#ab86a057182e956b50dd6a3016f6e2ffe", null ],
+    [ "_defenderCnt", "d0/ddb/a20718.html#aa8e48aff86695d3469c7600ee1899f03", null ],
+    [ "_engineersAlive", "d0/ddb/a20718.html#aaa9392649e8116370aace87b5927adb7", null ],
+    [ "_flyCount", "d0/ddb/a20718.html#a2c65bb16401d956cbdf56923ad345015", null ],
+    [ "_harpoonHits", "d0/ddb/a20718.html#a11481dd5ffe2abc73d40b0aa291c6475", null ],
+    [ "_permaGround", "d0/ddb/a20718.html#a410854c247c7b28d3a933ef496988cb8", null ],
+    [ "_trapperCnt", "d0/ddb/a20718.html#adde8b13457bb6376ec48492e689026f3", null ]
 ];

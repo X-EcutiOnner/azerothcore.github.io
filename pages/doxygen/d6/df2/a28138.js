@@ -1,6 +1,8 @@
 var a28138 =
 [
-    [ "npc_injured_patientAI", "d6/dcc/a28142.html", "d6/dcc/a28142" ],
-    [ "npc_injured_patient", "d6/df2/a28138.html#a0b7ef214aa1b20df088dee0976c73783", null ],
-    [ "GetAI", "d6/df2/a28138.html#a0c042bb81e684f903d28d7879af99d4a", null ]
+    [ "FilterTargets", "d6/df2/a28138.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
+    [ "HandleEffect", "d6/df2/a28138.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
+    [ "PrepareSpellScript", "d6/df2/a28138.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
+    [ "Register", "d6/df2/a28138.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
+    [ "Validate", "d6/df2/a28138.html#aabc063155fad404ffd044c9f79b88051", null ]
 ];

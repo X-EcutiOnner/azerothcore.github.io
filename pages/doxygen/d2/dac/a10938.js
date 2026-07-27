@@ -1,5 +1,7 @@
 var a10938 =
 [
-    [ "GuildGetRoster", "d2/dac/a10938.html#a9beccc6ee2416633c57d2da31fdc021a", null ],
-    [ "Read", "d2/dac/a10938.html#af795ad992ec1b55d741227bd2d4a62d1", null ]
+    [ "AutoStoreBankItem", "d2/dac/a10938.html#a1cdb7e9c7da7e646af14ac4ac3b7e950", null ],
+    [ "Read", "d2/dac/a10938.html#a2a482b716f537866a815085ead9cfd38", null ],
+    [ "Bag", "d2/dac/a10938.html#a08d2992816ee94b6757c2811b54ed437", null ],
+    [ "Slot", "d2/dac/a10938.html#aaf2cd8c1c3d67301cc40af78f138daa0", null ]
 ];

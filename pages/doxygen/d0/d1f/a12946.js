@@ -1,27 +1,9 @@
 var a12946 =
 [
-    [ "npc_echo_of_medivh", "d0/d1f/a12946.html#a8daae7bf56be7abea6a2b4e44a456e8d", null ],
-    [ "CastChangeFacing", "d0/d1f/a12946.html#ab4e7bfde2f557adecd2babe92ec80c61", null ],
-    [ "GetHostileTargetForChangeFacing", "d0/d1f/a12946.html#ad1618ff00a38db0e009dc51ff72a56d9", null ],
-    [ "GetPiece", "d0/d1f/a12946.html#a05127264eb0816e706fdffbcebadde62", null ],
-    [ "HandleCellInitialData", "d0/d1f/a12946.html#a70a29e7257d501867b546a4f2ac3d2cb", null ],
-    [ "HandleCheat", "d0/d1f/a12946.html#a49c0f6bb15d9ac92e4ce5472c1d19c8e", null ],
-    [ "HandlePieceJustDied", "d0/d1f/a12946.html#aaaafdd11e6535a50a52eb4ec8eca068d", null ],
-    [ "HandlePieceMove", "d0/d1f/a12946.html#a46368e189117fd61bd3dde3c9f603e97", null ],
-    [ "HandlePieceMoveByAI", "d0/d1f/a12946.html#ad1e39dc9dc1dae049fbd94e94cfd535e", null ],
-    [ "HandlePieceRotate", "d0/d1f/a12946.html#a81ca97597748bdb3c3b85b7afd8650be", null ],
-    [ "IsMedivhPiece", "d0/d1f/a12946.html#ac6e38bc98f89ea6f6eabaf0321fe6793", null ],
-    [ "JustSummoned", "d0/d1f/a12946.html#a5df890b728d6fb7d092543b53d9928a6", null ],
-    [ "RemoveCheats", "d0/d1f/a12946.html#a36bb27743c6c8de777741fea6a16202b", null ],
-    [ "Reset", "d0/d1f/a12946.html#a022322f875e81d18573806226ff10a9c", null ],
-    [ "SetupBoard", "d0/d1f/a12946.html#ab8c6f0ff4495332429734665d86c7157", null ],
-    [ "sGossipHello", "d0/d1f/a12946.html#a48bfda5cf3fe7778d24be4b85768eea6", null ],
-    [ "sGossipSelect", "d0/d1f/a12946.html#a734e5b7531437304f780fe56309d9a6b", null ],
-    [ "SummonedCreatureDespawn", "d0/d1f/a12946.html#a997122c3611cdc26b62b2840e5823cfb", null ],
-    [ "UpdateAI", "d0/d1f/a12946.html#ac147e299fef7421b7a6932161a6139f7", null ],
-    [ "_boards", "d0/d1f/a12946.html#a1822e85399368edeac079c4778efc66b", null ],
-    [ "_cheatTimer", "d0/d1f/a12946.html#aa6b9738bc5ad08fa8afab028f1b440cc", null ],
-    [ "_deadCount", "d0/d1f/a12946.html#af401c33d5dfe5b6b28f941353333d92d", null ],
-    [ "_instance", "d0/d1f/a12946.html#abcc815f169610660cb4e13a5be3be602", null ],
-    [ "_summons", "d0/d1f/a12946.html#ac15d663d4905f9ae30485ba0104bee82", null ]
+    [ "npc_drakonid_spawner", "d0/d1f/a12946.html#a2b657e800dc5cc30c618391413ded116", null ],
+    [ "DoAction", "d0/d1f/a12946.html#ab013cff0430c09fe1045fdc735e45182", null ],
+    [ "IsSummonedBy", "d0/d1f/a12946.html#a6a2170e0f20736d69006ce6d6c769476", null ],
+    [ "SummonedCreatureDies", "d0/d1f/a12946.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
+    [ "UpdateAI", "d0/d1f/a12946.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
+    [ "_owner", "d0/d1f/a12946.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
 ];

@@ -1,6 +1,6 @@
 var a18838 =
 [
-    [ "npc_frost_freeze_trapAI", "dd/d87/a18842.html", "dd/d87/a18842" ],
-    [ "npc_frost_freeze_trap", "d0/d1f/a18838.html#ac58ed2598fd4250f220208a91343f9b8", null ],
-    [ "GetAI", "d0/d1f/a18838.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
+    [ "HandleScript", "d0/d1f/a18838.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
+    [ "PrepareSpellScript", "d0/d1f/a18838.html#a2c6acef52962f606130d643cbd93104b", null ],
+    [ "Register", "d0/d1f/a18838.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
 ];

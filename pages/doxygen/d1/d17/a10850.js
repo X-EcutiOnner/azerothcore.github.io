@@ -1,7 +1,7 @@
 var a10850 =
 [
-    [ "CalendarComplain", "d1/d17/a10850.html#a35252d9ee72257a0771f3faa274f8029", null ],
-    [ "Read", "d1/d17/a10850.html#ae955f181fe7b36ba360d5b8e9a53db45", null ],
-    [ "ComplainGuid", "d1/d17/a10850.html#a3a8ba139be8eef32193658fa235fc4c5", null ],
-    [ "EventId", "d1/d17/a10850.html#a3cc5c6b822a697df900826b64b5b9759", null ]
+    [ "SpellScriptLoader", "d1/d17/a10850.html#a3b6fe2ba310f95c438b7cf941865fe46", null ],
+    [ "GetAuraScript", "d1/d17/a10850.html#a9c60850e39ffe3d151a128b12777859d", null ],
+    [ "GetSpellScript", "d1/d17/a10850.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
+    [ "IsDatabaseBound", "d1/d17/a10850.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
 ];

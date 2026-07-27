@@ -1,12 +1,7 @@
 var a20274 =
 [
-    [ "npc_ulduar_iron_construct", "d8/d2d/a20274.html#ab44bf86ea4a50f365e37ba888d0b2f6d", null ],
-    [ "DamageTaken", "d8/d2d/a20274.html#a61989df09f881c1c8c8c6fc9f706533b", null ],
-    [ "JustDied", "d8/d2d/a20274.html#ae102f4c7b9bc4246e0720287739e419a", null ],
-    [ "JustReachedHome", "d8/d2d/a20274.html#a77609f7939725001d7a31c4d92f00358", null ],
-    [ "MoveInLineOfSight", "d8/d2d/a20274.html#a6f8bfc52f6f8b6fbd4b8fb01bc827b8a", null ],
-    [ "Reset", "d8/d2d/a20274.html#a2fcec0917d5266b286cbb0995ef6ee34", null ],
-    [ "SpellHit", "d8/d2d/a20274.html#a0c786f44d9f255464fadb1c53b6fc004", null ],
-    [ "UpdateAI", "d8/d2d/a20274.html#afc56384db98a225a223c9214414508ea", null ],
-    [ "timer", "d8/d2d/a20274.html#a397277972454f710d7236ba36a67c977", null ]
+    [ "boss_flame_leviathan_safety_container", "d8/d2d/a20274.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
+    [ "MovementInform", "d8/d2d/a20274.html#a42842de299fd9346cc0d61b649b652a4", null ],
+    [ "UpdateAI", "d8/d2d/a20274.html#a55119d077f905a8207ad2afbe31f17a4", null ],
+    [ "_allowTimer", "d8/d2d/a20274.html#a70134398c054c837407d6a22591a2d96", null ]
 ];

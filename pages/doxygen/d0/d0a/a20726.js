@@ -1,7 +1,10 @@
 var a20726 =
 [
-    [ "HandleEffectCalcPeriodic", "d0/d0a/a20726.html#af01eb94174952de52615734055b17c1a", null ],
-    [ "HandleEffectPeriodic", "d0/d0a/a20726.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
-    [ "PrepareAuraScript", "d0/d0a/a20726.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
-    [ "Register", "d0/d0a/a20726.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
+    [ "npc_expedition_defender", "d0/d0a/a20726.html#aa476e8cdb18fce94b7517caf7ec751c8", null ],
+    [ "CanAIAttack", "d0/d0a/a20726.html#aa223ec9592dcc5f8890cc7de0c8e4230", null ],
+    [ "DoAction", "d0/d0a/a20726.html#adbd3f69f46e33537786505a0bb2955d5", null ],
+    [ "MovementInform", "d0/d0a/a20726.html#acfa015071d54e353e4397c806fcab0a5", null ],
+    [ "Reset", "d0/d0a/a20726.html#ae5da35cb689ada77a00d545e0f795af7", null ],
+    [ "SetData", "d0/d0a/a20726.html#ab8d8681d244c13e51709c3ad446c8805", null ],
+    [ "_idx", "d0/d0a/a20726.html#ae50289231fcaac124f78246774dda01e", null ]
 ];

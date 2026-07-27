@@ -1,8 +1,8 @@
 var a23046 =
 [
-    [ "boss_hungarfen", "de/dd6/a23046.html#a009b8d34731d2310a53195024b434935", null ],
-    [ "JustEngagedWith", "de/dd6/a23046.html#a3612bb373ecdba4245587fd94257ba62", null ],
-    [ "Reset", "de/dd6/a23046.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
-    [ "UpdateAI", "de/dd6/a23046.html#a1765bd54c04a3479e837b3d0e241300e", null ],
-    [ "_scheduler", "de/dd6/a23046.html#a702185681abb6cfc4add7078ff5bbb52", null ]
+    [ "instance_black_temple_InstanceMapScript", "de/dd6/a23046.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
+    [ "OnCreatureCreate", "de/dd6/a23046.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
+    [ "OnGameObjectCreate", "de/dd6/a23046.html#a564a49814ceb3b3161a6476335ab653a", null ],
+    [ "SetBossState", "de/dd6/a23046.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
+    [ "ashtongueGUIDs", "de/dd6/a23046.html#a85fa9c5231f13529a0741b0f92266c90", null ]
 ];

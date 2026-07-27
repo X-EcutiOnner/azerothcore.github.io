@@ -1,6 +1,7 @@
 var a22842 =
 [
-    [ "FilterTargets", "d9/de7/a22842.html#ac20676c292d87276e444bad56d71960d", null ],
-    [ "PrepareSpellScript", "d9/de7/a22842.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
-    [ "Register", "d9/de7/a22842.html#ae356b768872de3e87806c19bf8cccb08", null ]
+    [ "boss_veras_darkshadow", "d9/de7/a22842.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "d9/de7/a22842.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "d9/de7/a22842.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "d9/de7/a22842.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

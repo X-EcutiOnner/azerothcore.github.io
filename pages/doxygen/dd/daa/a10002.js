@@ -1,7 +1,9 @@
 var a10002 =
 [
-    [ "LootGroupInvalidSelector", "dd/daa/a10002.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
-    [ "operator()", "dd/daa/a10002.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
-    [ "_loot", "dd/daa/a10002.html#a67b9d223426512af79bbf5b035c18a6d", null ],
-    [ "_lootMode", "dd/daa/a10002.html#a10e307846a0731aa812388c29c0d4bc8", null ]
+    [ "LoginQueryHolder", "dd/daa/a10002.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
+    [ "GetAccountId", "dd/daa/a10002.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
+    [ "GetGuid", "dd/daa/a10002.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
+    [ "Initialize", "dd/daa/a10002.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
+    [ "m_accountId", "dd/daa/a10002.html#abc8056182803af44a062fe6153fdd009", null ],
+    [ "m_guid", "dd/daa/a10002.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
 ];

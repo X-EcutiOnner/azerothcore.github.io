@@ -1,8 +1,15 @@
 var a10114 =
 [
-    [ "BoundaryUnionBoundary", "d4/d79/a10114.html#a074536112fffc805dec44bd9cd602642", null ],
-    [ "~BoundaryUnionBoundary", "d4/d79/a10114.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
-    [ "IsWithinBoundaryArea", "d4/d79/a10114.html#a8dc91861fa6641008236e5a83030e0d1", null ],
-    [ "_b1", "d4/d79/a10114.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
-    [ "_b2", "d4/d79/a10114.html#ae70530673803bd2ee85bf722fe42718b", null ]
+    [ "LootStoreItem", "d4/d79/a10114.html#a10250dce57b2b8103c6ac11aa1ac2f0f", null ],
+    [ "IsValid", "d4/d79/a10114.html#ae5fc113c31d96bc7ca31a5bc36ab2fcf", null ],
+    [ "Roll", "d4/d79/a10114.html#a87cc7956b131a16aee7bd5d4808193df", null ],
+    [ "chance", "d4/d79/a10114.html#a20411103b449a9176b3bc665f909f06f", null ],
+    [ "conditions", "d4/d79/a10114.html#a88812a51fb467a189f2824ad8b3198e8", null ],
+    [ "groupid", "d4/d79/a10114.html#abc6df381782d25490dff0e54bec63b3a", null ],
+    [ "itemid", "d4/d79/a10114.html#a5df1d4fde5f3358470bd16f7ad9154c1", null ],
+    [ "lootmode", "d4/d79/a10114.html#ab5f7b258bd5cfe4263acd9e0b253b166", null ],
+    [ "maxcount", "d4/d79/a10114.html#a96012059cc6affa8120ef544682781d2", null ],
+    [ "mincount", "d4/d79/a10114.html#ada6a4d427187361c6bc33bdde789e809", null ],
+    [ "needs_quest", "d4/d79/a10114.html#a5a2fe7ae48508b88bbdfc70fc4035f31", null ],
+    [ "reference", "d4/d79/a10114.html#a374a94e34095a1beb38abca43069d0b6", null ]
 ];

@@ -1,7 +1,10 @@
 var a09654 =
 [
-    [ "FriendlyCCedInRange", "d0/dbb/a09654.html#ae8dcff3f285f208b0db8aa3efed202a1", null ],
-    [ "operator()", "d0/dbb/a09654.html#a0e241f930cee855664aeac3604d5c023", null ],
-    [ "i_obj", "d0/dbb/a09654.html#a73d3e29bbdc7fd4aa162be3cb7ecbe08", null ],
-    [ "i_range", "d0/dbb/a09654.html#a49e79f3aea0c7e8c321c9f297b71a9b2", null ]
+    [ "UnitSearcher", "d0/dbb/a09654.html#a4c50b4594650d9f3f83a40ac02f1a954", null ],
+    [ "Visit", "d0/dbb/a09654.html#a5e419d2cb0de5ae58373e521d3a84ac6", null ],
+    [ "Visit", "d0/dbb/a09654.html#a4bf8a315ab9464bbc5b0c8cae5c27fed", null ],
+    [ "Visit", "d0/dbb/a09654.html#ac65516ed337b509ff5c316fb29727854", null ],
+    [ "i_check", "d0/dbb/a09654.html#a3618df5a6ae33e76b802eae9cac1e1bd", null ],
+    [ "i_object", "d0/dbb/a09654.html#a3029760131a6f50883246afe2533c062", null ],
+    [ "i_phaseMask", "d0/dbb/a09654.html#ab94911f3f275de6a9ce9f15f1169c81c", null ]
 ];

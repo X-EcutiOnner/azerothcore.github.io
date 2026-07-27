@@ -1,6 +1,11 @@
 var a23518 =
 [
-    [ "FilterTargets", "dc/dbf/a23518.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
-    [ "PrepareSpellScript", "dc/dbf/a23518.html#afa186c0b0728e3462f8984189613f9a7", null ],
-    [ "Register", "dc/dbf/a23518.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
+    [ "boss_krosh_firehand", "dc/dbf/a23518.html#a1ef3618844f086de7875f26e7e6190f9", null ],
+    [ "AttackStart", "dc/dbf/a23518.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
+    [ "JustDied", "dc/dbf/a23518.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
+    [ "JustEngagedWith", "dc/dbf/a23518.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
+    [ "Reset", "dc/dbf/a23518.html#a989c4b762a7cdb228b245e91881d97a2", null ],
+    [ "UpdateAI", "dc/dbf/a23518.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
+    [ "_scheduler", "dc/dbf/a23518.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
+    [ "instance", "dc/dbf/a23518.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
 ];

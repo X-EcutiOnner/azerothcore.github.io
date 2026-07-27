@@ -1,11 +1,7 @@
 var a23446 =
 [
-    [ "boss_high_astromancer_solarian", "d4/d67/a23446.html#a2db48cc179539f81b55188de08a7e180", null ],
-    [ "AttackStart", "d4/d67/a23446.html#acaf94134aef553447e766a5e431c8b83", null ],
-    [ "JustDied", "d4/d67/a23446.html#a510eb2e4f0770670d6767bc2545375b7", null ],
-    [ "JustEngagedWith", "d4/d67/a23446.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
-    [ "JustSummoned", "d4/d67/a23446.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
-    [ "KilledUnit", "d4/d67/a23446.html#a561a78193615575b7e43e0f21387f1b8", null ],
-    [ "Reset", "d4/d67/a23446.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
-    [ "UpdateAI", "d4/d67/a23446.html#a07a76c34a978c31212390cf10ed3e382", null ]
+    [ "HandleScript", "d4/d67/a23446.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
+    [ "PrepareSpellScript", "d4/d67/a23446.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
+    [ "Register", "d4/d67/a23446.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
+    [ "Validate", "d4/d67/a23446.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
 ];

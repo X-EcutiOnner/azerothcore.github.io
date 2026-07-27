@@ -1,8 +1,10 @@
 var a21578 =
 [
-    [ "npc_ravenous_worgAI", "d9/dee/a21578.html#a5404516869e171c84b774f2a7b8be15d", null ],
-    [ "AttackStart", "d9/dee/a21578.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
-    [ "UpdateAI", "d9/dee/a21578.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
-    [ "_attack", "d9/dee/a21578.html#a3df5c98821ba33a40e25e7b050858b96", null ],
-    [ "_pacified", "d9/dee/a21578.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
+    [ "npc_lurgglbrAI", "d9/dee/a21578.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "d9/dee/a21578.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "d9/dee/a21578.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "d9/dee/a21578.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "WaypointReached", "d9/dee/a21578.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "IntroPhase", "d9/dee/a21578.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "d9/dee/a21578.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

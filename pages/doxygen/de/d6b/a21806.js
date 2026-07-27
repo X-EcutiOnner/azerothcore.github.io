@@ -1,6 +1,7 @@
 var a21806 =
 [
-    [ "PrepareSpellScript", "de/d6b/a21806.html#aa26d34552b04dca1db32390e769ff4dc", null ],
-    [ "RecalculateDamage", "de/d6b/a21806.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
-    [ "Register", "de/d6b/a21806.html#a58d28dea272b1237cf60efb45d67765d", null ]
+    [ "HandleApplyEffect", "de/d6b/a21806.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
+    [ "HandleRemoveEffect", "de/d6b/a21806.html#a243933fec9ccd650303ea5badbea725b", null ],
+    [ "PrepareAuraScript", "de/d6b/a21806.html#ac0e1fc0694dd51e245340d3658592447", null ],
+    [ "Register", "de/d6b/a21806.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
 ];

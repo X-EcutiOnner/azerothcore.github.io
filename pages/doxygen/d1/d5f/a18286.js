@@ -1,6 +1,5 @@
 var a18286 =
 [
-    [ "UnchainedMagicTargetSelector", "d1/d5f/a18286.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
-    [ "operator()", "d1/d5f/a18286.html#af28ce8f46154ae6152e9025775a7f84f", null ],
-    [ "_removeHealers", "d1/d5f/a18286.html#a35a7981ce5495cba8b3a5391e4031431", null ]
+    [ "npc_volatile_oozeAI", "d1/d5f/a18286.html#af042d4c22482aabcdad6fa867dfe093f", null ],
+    [ "CastMainSpell", "d1/d5f/a18286.html#a91890785174ecc60c9553a0aedf1961b", null ]
 ];

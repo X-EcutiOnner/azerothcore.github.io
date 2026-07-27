@@ -1,10 +1,6 @@
 var a19378 =
 [
-    [ "boss_razuvious_minionAI", "d3/d16/a19378.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
-    [ "DoAction", "d3/d16/a19378.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
-    [ "JustEngagedWith", "d3/d16/a19378.html#ada2e7a5ac1f129572a0689afce49d310", null ],
-    [ "KilledUnit", "d3/d16/a19378.html#ab1a6f582098c9d1218551af0aae1815d", null ],
-    [ "Reset", "d3/d16/a19378.html#a170de8517a03a0e78b1e67652869fd9a", null ],
-    [ "ScheduleAttackDummy", "d3/d16/a19378.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
-    [ "UpdateAI", "d3/d16/a19378.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
+    [ "RespawnEvent", "d3/d16/a19378.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
+    [ "Execute", "d3/d16/a19378.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
+    [ "_owner", "d3/d16/a19378.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
 ];

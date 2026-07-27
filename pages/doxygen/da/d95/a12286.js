@@ -1,12 +1,12 @@
 var a12286 =
 [
-    [ "message_commandscript", "da/d95/a12286.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
-    [ "GetCommands", "da/d95/a12286.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
-    [ "HandleAnnounceCommand", "da/d95/a12286.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
-    [ "HandleGMAnnounceCommand", "da/d95/a12286.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
-    [ "HandleGMNameAnnounceCommand", "da/d95/a12286.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
-    [ "HandleGMNotifyCommand", "da/d95/a12286.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
-    [ "HandleNameAnnounceCommand", "da/d95/a12286.html#a786902b70345712c6dba9f638695dd9e", null ],
-    [ "HandleNotifyCommand", "da/d95/a12286.html#a0d53b2414931451b30abd2fe5acee1af", null ],
-    [ "HandleWhispersCommand", "da/d95/a12286.html#a9a02c97677250136f9717968a9f47b73", null ]
+    [ "Action", "da/d95/a12286.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
+    [ "Address", "da/d95/a12286.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
+    [ "CheckId", "da/d95/a12286.html#a51a0cea0381f2b64e9d240ac39591172", null ],
+    [ "Comment", "da/d95/a12286.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
+    [ "Data", "da/d95/a12286.html#a962795028d40645fe67e4290ea64b10b", null ],
+    [ "IdStr", "da/d95/a12286.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
+    [ "Length", "da/d95/a12286.html#abe0249d9550042e696eb74edf06aaec8", null ],
+    [ "Str", "da/d95/a12286.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
+    [ "Type", "da/d95/a12286.html#aca31cdb700dca4801dfa514812639c70", null ]
 ];

@@ -1,12 +1,7 @@
 var a19250 =
 [
-    [ "npc_gothik_triggerAI", "d0/d4e/a19250.html#ae45c6de238755eb069e0c182943da58c", null ],
-    [ "DamageTaken", "d0/d4e/a19250.html#ada8e501edfadbb55162532f081a4b48b", null ],
-    [ "EnterEvadeMode", "d0/d4e/a19250.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
-    [ "JustEngagedWith", "d0/d4e/a19250.html#ab5403383f1fcd539cacf975dffbe2817", null ],
-    [ "JustSummoned", "d0/d4e/a19250.html#a35be0135b77a3e62ac8d421910cf0674", null ],
-    [ "SelectRandomSkullPile", "d0/d4e/a19250.html#aeafc63047c9059afdf668b8c22d2937f", null ],
-    [ "SpellHit", "d0/d4e/a19250.html#a18a8135ab0395991afc4896950783ae5", null ],
-    [ "SummonedCreatureDespawn", "d0/d4e/a19250.html#ad7ed092509dd41fddd44a4024c011364", null ],
-    [ "UpdateAI", "d0/d4e/a19250.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
+    [ "HandleDummyLaunch", "d0/d4e/a19250.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
+    [ "PrepareSpellScript", "d0/d4e/a19250.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
+    [ "Register", "d0/d4e/a19250.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
+    [ "Validate", "d0/d4e/a19250.html#a577166695c1479e3730a70637bc18cf1", null ]
 ];

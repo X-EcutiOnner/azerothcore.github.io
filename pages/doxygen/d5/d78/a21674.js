@@ -1,8 +1,5 @@
 var a21674 =
 [
-    [ "CheckCast", "d5/d78/a21674.html#a49e425fa95e5107f38aa16e546674b7d", null ],
-    [ "HandleScript", "d5/d78/a21674.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
-    [ "PrepareSpellScript", "d5/d78/a21674.html#a9e7a1239e165131b70c437793b5371d0", null ],
-    [ "Register", "d5/d78/a21674.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
-    [ "Validate", "d5/d78/a21674.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
+    [ "npc_steam_powered_auctioneerAI", "d5/d78/a21674.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "d5/d78/a21674.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

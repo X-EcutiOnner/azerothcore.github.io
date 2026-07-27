@@ -1,9 +1,8 @@
 var a29030 =
 [
-    [ "TimeSeg", "dd/da1/a29030.html#a16782e722a5bada41691841fe594b7a6", null ],
-    [ "TransportEntry", "dd/da1/a29030.html#afcdb94a38d68d2ff8af225dc599db8a4", null ],
-    [ "W", "dd/da1/a29030.html#a4158a2babefbf4e148a64fe16bf113f6", null ],
-    [ "X", "dd/da1/a29030.html#a9c7cb1fd0463d1158d971db6f15431ff", null ],
-    [ "Y", "dd/da1/a29030.html#a7f0ff898e752e2e904ebee1412643df6", null ],
-    [ "Z", "dd/da1/a29030.html#a87647d71a965e80154ca36dc05421585", null ]
+    [ "gender", "dd/da1/a29030.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "dd/da1/a29030.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "dd/da1/a29030.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "dd/da1/a29030.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "dd/da1/a29030.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

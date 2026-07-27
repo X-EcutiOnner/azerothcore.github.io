@@ -1,6 +1,6 @@
 var a13278 =
 [
-    [ "npc_scarlet_ghoulAI", "d1/d6e/a13282.html", "d1/d6e/a13282" ],
-    [ "npc_scarlet_ghoul", "d2/d7f/a13278.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
-    [ "GetAI", "d2/d7f/a13278.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
+    [ "npc_sanguine_spirit", "d2/d7f/a13278.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
+    [ "Reset", "d2/d7f/a13278.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
+    [ "UpdateAI", "d2/d7f/a13278.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
 ];

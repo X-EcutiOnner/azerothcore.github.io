@@ -1,5 +1,7 @@
 var a16050 =
 [
-    [ "go_elune_fire", "d5/dab/a16050.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
-    [ "OnGossipHello", "d5/dab/a16050.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
+    [ "npc_thrall_warchiefAI", "d2/de8/a16054.html", "d2/de8/a16054" ],
+    [ "npc_thrall_warchief", "d5/dab/a16050.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
+    [ "GetAI", "d5/dab/a16050.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
+    [ "OnQuestReward", "d5/dab/a16050.html#a6576664c201d62cab1fa2f073cddee6e", null ]
 ];

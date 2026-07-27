@@ -1,6 +1,5 @@
 var a11146 =
 [
-    [ "SetDungeonDifficultyClient", "d2/d4b/a11146.html#ae3bb2ac16b8712a3eb731913af26961c", null ],
-    [ "Read", "d2/d4b/a11146.html#a6f92ee86dc73b1a51a9c4683997e6c4f", null ],
-    [ "Mode", "d2/d4b/a11146.html#a3cb1f62fba1849dfb59c9b8f46fe4c27", null ]
+    [ "GuildDelete", "d2/d4b/a11146.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
+    [ "Read", "d2/d4b/a11146.html#ae5ca379b187902323638f4c10be0a4d0", null ]
 ];

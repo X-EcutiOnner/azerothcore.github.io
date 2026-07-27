@@ -1,9 +1,6 @@
 var a21590 =
 [
-    [ "npc_wounded_skirmisher", "de/d7a/a21590.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
-    [ "Initialize", "de/d7a/a21590.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
-    [ "JustEngagedWith", "de/d7a/a21590.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
-    [ "Reset", "de/d7a/a21590.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
-    [ "SpellHit", "de/d7a/a21590.html#a891e879af5da1f181c94e528c59a81f1", null ],
-    [ "UpdateAI", "de/d7a/a21590.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d7/d37/a21594.html", "d7/d37/a21594" ],
+    [ "npc_imprisoned_beryl_sorcerer", "de/d7a/a21590.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
+    [ "GetAI", "de/d7a/a21590.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
 ];

@@ -1,7 +1,16 @@
 var a24630 =
 [
-    [ "CheckRequirement", "dc/db1/a24630.html#a6be5f335a15226db87a04548490f488d", null ],
-    [ "PrepareSpellScript", "dc/db1/a24630.html#a25463eda0ce51a124e8715baf305c8f6", null ],
-    [ "Register", "dc/db1/a24630.html#a8db5a5597d8f6fe4064799766fb61502", null ],
-    [ "_level", "dc/db1/a24630.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
+    [ "CheckCast", "dc/db1/a24630.html#a28e769267a83e4c499dca83a3f5708eb", null ],
+    [ "CheckReagents", "dc/db1/a24630.html#aa8a2efb4807c29aeb5bf786e05113b61", null ],
+    [ "CheckTarget", "dc/db1/a24630.html#ae339cf884f1d2f877e988ef6f6b555bf", null ],
+    [ "CheckTargets", "dc/db1/a24630.html#af1013668080685cd86ae6abb52258fb1", null ],
+    [ "ConsumeReagents", "dc/db1/a24630.html#aa5df00ed970db696b92b51566e098f3f", null ],
+    [ "GetGhoulSpellId", "dc/db1/a24630.html#a9f94b3d279c036fb4b1c5b69934e63f2", null ],
+    [ "HandleRaiseDead", "dc/db1/a24630.html#a3d1e0191d99e970f42d825632fe0f7e2", null ],
+    [ "Load", "dc/db1/a24630.html#a05ea44a20f08f9010faca13a0f4d0f39", null ],
+    [ "PrepareSpellScript", "dc/db1/a24630.html#a9565c8459a6d8cfed85c9120aca9715f", null ],
+    [ "Register", "dc/db1/a24630.html#a0ebef363de4a802b242c806517ad0fb5", null ],
+    [ "Validate", "dc/db1/a24630.html#a0ab8ee639fa83e954e964994c75451c8", null ],
+    [ "_corpse", "dc/db1/a24630.html#adbc699b3bfd33f595ea287ca833ea2d4", null ],
+    [ "_result", "dc/db1/a24630.html#aefebf79fa61b9f4d12929d54bd48389f", null ]
 ];

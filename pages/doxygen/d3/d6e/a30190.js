@@ -1,5 +1,12 @@
 var a30190 =
 [
-    [ "Price", "d3/d6e/a30190.html#a9cf01cf0d41d49613b4ceaf1eeb1716b", null ],
-    [ "Slot", "d3/d6e/a30190.html#aa53247914bda0ceca015b8b9ca117379", null ]
+    [ "cellSizeHorizontal", "d3/d6e/a30190.html#a5356c03dab90621b69de7a79ed4ab195", null ],
+    [ "cellSizeVertical", "d3/d6e/a30190.html#a47b5a920afa39ae27a80241d58f152a3", null ],
+    [ "tileOverrides", "d3/d6e/a30190.html#a129437291e75a919e4158bf1df0f7f0a", null ],
+    [ "vertexPerMapEdge", "d3/d6e/a30190.html#a9d32da8787f54a7dadb86458319e0238", null ],
+    [ "vertexPerTileEdge", "d3/d6e/a30190.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
+    [ "walkableClimb", "d3/d6e/a30190.html#a2bd854b374d67d53b03a7bacf0785726", null ],
+    [ "walkableHeight", "d3/d6e/a30190.html#a1de27edad5c45f8033ce74352c563f52", null ],
+    [ "walkableRadius", "d3/d6e/a30190.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
+    [ "walkableSlopeAngle", "d3/d6e/a30190.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
 ];

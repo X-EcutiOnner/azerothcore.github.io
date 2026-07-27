@@ -1,12 +1,13 @@
 var a23198 =
 [
-    [ "boss_nazan", "d1/d36/a23198.html#a4390d3e181c4db46e364df3302612763", null ],
-    [ "AttackStart", "d1/d36/a23198.html#a7acea69f908e7a004c2a78c103528975", null ],
-    [ "DoAction", "d1/d36/a23198.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
-    [ "EnterEvadeMode", "d1/d36/a23198.html#ab6338a7d240014e548b22044b788ce8f", null ],
-    [ "JustEngagedWith", "d1/d36/a23198.html#a4d44b759530f32207a46a608fb7d6209", null ],
-    [ "MovementInform", "d1/d36/a23198.html#ad35866322ff55263b1f8b105d2cad952", null ],
-    [ "Reset", "d1/d36/a23198.html#a5c10e932075130399a9127869f45ce1d", null ],
-    [ "UpdateAI", "d1/d36/a23198.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
-    [ "_scheduler", "d1/d36/a23198.html#a8915d84ec4ffb8dade18041d5e910018", null ]
+    [ "npc_inner_demon", "d1/d36/a23198.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
+    [ "CanAIAttack", "d1/d36/a23198.html#a7498fd32b0ace832b38dc624d07478ed", null ],
+    [ "CanBeSeen", "d1/d36/a23198.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
+    [ "CanReceiveDamage", "d1/d36/a23198.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
+    [ "IsSummonedBy", "d1/d36/a23198.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
+    [ "JustDied", "d1/d36/a23198.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
+    [ "OnCalculateMeleeDamageReceived", "d1/d36/a23198.html#ae95022548b44b23ef93fae24729b5af5", null ],
+    [ "OnCalculatePeriodicTickReceived", "d1/d36/a23198.html#a546281a2257d0407d294fba1f7d3426f", null ],
+    [ "OnCalculateSpellDamageReceived", "d1/d36/a23198.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
+    [ "UpdateAI", "d1/d36/a23198.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
 ];

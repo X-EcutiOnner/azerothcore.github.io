@@ -1,6 +1,6 @@
 var a17582 =
 [
-    [ "PrepareSpellScript", "dc/d86/a17582.html#a37899f12707930d038de38bae92c9aff", null ],
-    [ "Register", "dc/d86/a17582.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
-    [ "SelectDest", "dc/d86/a17582.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
+    [ "boss_drakkari_colossusAI", "d9/d09/a17586.html", "d9/d09/a17586" ],
+    [ "boss_drakkari_colossus", "dc/d86/a17582.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
+    [ "GetAI", "dc/d86/a17582.html#a75c6c9c56fe11342dd8aece031059e77", null ]
 ];

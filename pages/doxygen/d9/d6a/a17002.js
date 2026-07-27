@@ -1,10 +1,7 @@
 var a17002 =
 [
-    [ "boss_tharon_jaAI", "d9/d6a/a17002.html#a03025fa529e932f23479ff19b0cd8238", null ],
-    [ "DoAction", "d9/d6a/a17002.html#a655fd83c2d671847fea9ae393c132fb9", null ],
-    [ "JustDied", "d9/d6a/a17002.html#a7928b5db061f1073e1decc2d40601195", null ],
-    [ "JustEngagedWith", "d9/d6a/a17002.html#aab194a8f802eeb625d1a74960acbe154", null ],
-    [ "KilledUnit", "d9/d6a/a17002.html#a41e929a3768768eb06bafdee3269fd24", null ],
-    [ "Reset", "d9/d6a/a17002.html#a272e8565a9b00a27505b301d52814eee", null ],
-    [ "UpdateAI", "d9/d6a/a17002.html#a6f482cabcb0bd56711878a5ea297b950", null ]
+    [ "npc_toc_retro_paladinAI", "d9/d6a/a17002.html#afe933281cea61c9a4f3ded76290a3b72", null ],
+    [ "myCanCast", "d9/d6a/a17002.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
+    [ "UpdateAI", "d9/d6a/a17002.html#a105d6b9c133c1147b310826d7be416f5", null ],
+    [ "events", "d9/d6a/a17002.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
 ];

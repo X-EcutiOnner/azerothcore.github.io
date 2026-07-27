@@ -1,8 +1,10 @@
 var a10574 =
 [
-    [ "AllCommandScript", "d4/d44/a10574.html#a7ff235b904eecdd4d02d2025c4078980", null ],
-    [ "IsDatabaseBound", "d4/d44/a10574.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
-    [ "OnBeforeIsInvokerVisible", "d4/d44/a10574.html#a6f85dc271c1b61244978aa4474e708b0", null ],
-    [ "OnHandleDevCommand", "d4/d44/a10574.html#aba983f0e052ece230617573f04a35c92", null ],
-    [ "OnTryExecuteCommand", "d4/d44/a10574.html#a3a116836453073e77bbd8ab974f36f47", null ]
+    [ "WaypointMgr", "d4/d44/a10574.html#a2f038884959f10348bd5b7af3abee7db", null ],
+    [ "GetPath", "d4/d44/a10574.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
+    [ "instance", "d4/d44/a10574.html#aacd2ed943503288057b3fb9a935a56e9", null ],
+    [ "Load", "d4/d44/a10574.html#a69ae451ce07f2e68be81b1a86649115d", null ],
+    [ "LoadWaypointAddons", "d4/d44/a10574.html#a84df91143dd387b5d4adc7aa8d63045e", null ],
+    [ "ReloadPath", "d4/d44/a10574.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
+    [ "_waypointStore", "d4/d44/a10574.html#a15d1c47c7e839538c354ba91775bd9e7", null ]
 ];

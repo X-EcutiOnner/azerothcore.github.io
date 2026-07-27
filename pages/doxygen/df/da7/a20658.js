@@ -1,6 +1,8 @@
 var a20658 =
 [
-    [ "boss_yoggsaron_influence_tentacle", "df/da7/a20658.html#ac5908d64a4749303a08d352d470995dd", null ],
-    [ "DamageTaken", "df/da7/a20658.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
-    [ "JustDied", "df/da7/a20658.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
+    [ "npc_ulduar_mimiron_rocket", "df/da7/a20658.html#abd32fde821053b6c8aa3dd83e25b6ad6", null ],
+    [ "InitializeAI", "df/da7/a20658.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
+    [ "Reset", "df/da7/a20658.html#a982da2f2392882a86e72de4c4769fa41", null ],
+    [ "SetData", "df/da7/a20658.html#a507124f21657b62ff2b68060b52503b1", null ],
+    [ "UpdateAI", "df/da7/a20658.html#ac26ec740ce5fa75f96babbe26e2263cc", null ]
 ];

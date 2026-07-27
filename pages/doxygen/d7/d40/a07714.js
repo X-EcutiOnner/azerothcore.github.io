@@ -1,12 +1,14 @@
 var a07714 =
 [
-    [ "CapturePointInfo", "d7/d40/a07714.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
-    [ "IsUncontrolled", "d7/d40/a07714.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
-    [ "IsUnderControl", "d7/d40/a07714.html#a3f33897525f5104e2e7733dd6247c090", null ],
-    [ "IsUnderControl", "d7/d40/a07714.html#af6b021020b120b87c300981b8bb60992", null ],
-    [ "_areaTrigger", "d7/d40/a07714.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
-    [ "_barStatus", "d7/d40/a07714.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
-    [ "_ownerTeamId", "d7/d40/a07714.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
-    [ "_playersCount", "d7/d40/a07714.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
-    [ "player", "d7/d40/a07714.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
+    [ "IsArena", "d7/d40/a07714.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
+    [ "BattlemasterEntry", "d7/d40/a07714.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
+    [ "Id", "d7/d40/a07714.html#a0fca37318585903f68695452a95011a9", null ],
+    [ "MaxLevel", "d7/d40/a07714.html#a790f55d480d1454a5f6e5713c04314b7", null ],
+    [ "MaxPlayersPerTeam", "d7/d40/a07714.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
+    [ "MaxStartDistSq", "d7/d40/a07714.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
+    [ "MinLevel", "d7/d40/a07714.html#a49fdf96a08376830a06956fd501cfa78", null ],
+    [ "MinPlayersPerTeam", "d7/d40/a07714.html#ac1bea263b53de8573cdb8eb890175495", null ],
+    [ "ScriptId", "d7/d40/a07714.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
+    [ "StartLocation", "d7/d40/a07714.html#a8477d2156c8aa5bb89da038d1a779698", null ],
+    [ "Weight", "d7/d40/a07714.html#aa7a051e8453599a7e82da763a6f91da2", null ]
 ];

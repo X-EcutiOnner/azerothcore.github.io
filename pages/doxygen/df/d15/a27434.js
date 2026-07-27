@@ -1,7 +1,8 @@
 var a27434 =
 [
-    [ "HandleApplyAura", "df/d15/a27434.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "df/d15/a27434.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "df/d15/a27434.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "df/d15/a27434.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "FilterTargets", "df/d15/a27434.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
+    [ "HandleDummy", "df/d15/a27434.html#a2214b10da042a3af2fd3311872cc5286", null ],
+    [ "PrepareSpellScript", "df/d15/a27434.html#a9959966856601f79a83931a7a7ecff91", null ],
+    [ "Register", "df/d15/a27434.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
+    [ "Validate", "df/d15/a27434.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
 ];

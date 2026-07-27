@@ -1,4 +1,4 @@
 var a00386 =
 [
-    [ "Movement::PacketBuilder", "dc/dce/a10468.html", "dc/dce/a10468" ]
+    [ "CircularBuffer< T >", "dc/d5c/a05810.html", "dc/d5c/a05810" ]
 ];

@@ -1,6 +1,7 @@
 var a26458 =
 [
-    [ "FilterTargets", "de/d10/a26458.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
-    [ "PrepareSpellScript", "de/d10/a26458.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
-    [ "Register", "de/d10/a26458.html#a4db02c58be57a797c26b07656d1b5409", null ]
+    [ "CalcPeriodic", "de/d10/a26458.html#a404e5309016cfcaa3071c0216978699e", null ],
+    [ "PrepareAuraScript", "de/d10/a26458.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
+    [ "Register", "de/d10/a26458.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
+    [ "AuraEffectHandleModes", "de/d10/a26458.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
 ];

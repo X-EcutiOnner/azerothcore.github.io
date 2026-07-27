@@ -1,7 +1,6 @@
 var a27406 =
 [
-    [ "HandleProc", "d6/d8d/a27406.html#a4294ab4682ea26f78eb4c90c59e86953", null ],
-    [ "PrepareAuraScript", "d6/d8d/a27406.html#ac5d22623791d195aa767d5a28e9639b7", null ],
-    [ "Register", "d6/d8d/a27406.html#a135abc0548ba189fcf6bd662d7ae8940", null ],
-    [ "Validate", "d6/d8d/a27406.html#ac10227e6423f61b0fd67803f01fd4a0e", null ]
+    [ "HandleAfterCast", "d6/d8d/a27406.html#aacd4954973c8157ca65958b9ec08155b", null ],
+    [ "PrepareSpellScript", "d6/d8d/a27406.html#a45629d348275833930bc5180e9a347f9", null ],
+    [ "Register", "d6/d8d/a27406.html#a9c43529cea77a4be86048616ebc64b2c", null ]
 ];

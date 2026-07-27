@@ -1,7 +1,8 @@
 var a21218 =
 [
-    [ "npc_lurgglbrAI", "dd/dc7/a21222.html", "dd/dc7/a21222" ],
-    [ "npc_lurgglbr", "d8/d71/a21218.html#a7df52667e4d789391820a4c2182db8d2", null ],
-    [ "GetAI", "d8/d71/a21218.html#a2795346371e7b474c53dcacb9daf2001", null ],
-    [ "OnQuestAccept", "d8/d71/a21218.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
+    [ "CheckProc", "d8/d71/a21218.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
+    [ "HandleProc", "d8/d71/a21218.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
+    [ "PrepareAuraScript", "d8/d71/a21218.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
+    [ "Register", "d8/d71/a21218.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
+    [ "Validate", "d8/d71/a21218.html#ad4176f188412053b9205820fb6183d38", null ]
 ];

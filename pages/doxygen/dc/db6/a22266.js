@@ -1,8 +1,7 @@
 var a22266 =
 [
-    [ "boss_pandemonius", "dc/db6/a22266.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
-    [ "JustDied", "dc/db6/a22266.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
-    [ "JustEngagedWith", "dc/db6/a22266.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
-    [ "KilledUnit", "dc/db6/a22266.html#a26a012afe8c418c8da283c7b9f983e89", null ],
-    [ "PullRoom", "dc/db6/a22266.html#a05011127290350f11cc1a333b23dbb04", null ]
+    [ "HandleDummy", "dc/db6/a22266.html#a68c638c6e056cbadb101ddd025909f54", null ],
+    [ "PrepareSpellScript", "dc/db6/a22266.html#a5a857bace5232d259145a0a095f70eec", null ],
+    [ "Register", "dc/db6/a22266.html#af9c657e1fac6ee630af0bea337fbff62", null ],
+    [ "Validate", "dc/db6/a22266.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
 ];

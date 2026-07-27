@@ -1,6 +1,8 @@
 var a19934 =
 [
-    [ "achievement_assembly_of_iron", "d8/d42/a19934.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "d8/d42/a19934.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "d8/d42/a19934.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "HandleOnEffectApply", "d8/d42/a19934.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "d8/d42/a19934.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "d8/d42/a19934.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "d8/d42/a19934.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "d8/d42/a19934.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

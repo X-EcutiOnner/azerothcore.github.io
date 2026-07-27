@@ -1,8 +1,18 @@
 var a13362 =
 [
-    [ "DelayedSummonEvent", "dd/de0/a13362.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
-    [ "Execute", "dd/de0/a13362.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
-    [ "_entry", "dd/de0/a13362.html#a24d72110a070eb0bd03af081ef616de4", null ],
-    [ "_owner", "dd/de0/a13362.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
-    [ "_pos", "dd/de0/a13362.html#aef19987803a1cce47cbd8d9005a288ac", null ]
+    [ "boss_romulo", "dd/de0/a13362.html#a497e0e57d2abb6640081c1d141a588ff", null ],
+    [ "DamageTaken", "dd/de0/a13362.html#a603db3883d03367406cbcf3f2cb28a08", null ],
+    [ "DoAction", "dd/de0/a13362.html#acc23f4f4f5856b9956a764c1f69bbc92", null ],
+    [ "EnterEvadeMode", "dd/de0/a13362.html#ab4dda6b70337668dd36a582e8439c3db", null ],
+    [ "JustDied", "dd/de0/a13362.html#aa60d8fe07db9444f25eec9de9e5bf365", null ],
+    [ "JustEngagedWith", "dd/de0/a13362.html#ab13e2a4ebe8a1956f6de460cdb9b199d", null ],
+    [ "JustReachedHome", "dd/de0/a13362.html#af8bff3f1c107dc7d8beae7956a25fbcc", null ],
+    [ "KilledUnit", "dd/de0/a13362.html#ae4ca6736913cc8df4d016876a8fd8576", null ],
+    [ "Reset", "dd/de0/a13362.html#a15703ee7df979b8ee5892dacf84066e2", null ],
+    [ "ScheduleCombat", "dd/de0/a13362.html#a4cc20dccb171d1f4d3c680b6b5310e73", null ],
+    [ "UpdateAI", "dd/de0/a13362.html#ac42df238a2ad354a2fb21ebb558734c6", null ],
+    [ "_scheduler", "dd/de0/a13362.html#a456abfa48f038e904c427179c2a10edb", null ],
+    [ "instance", "dd/de0/a13362.html#aae979b72844ff8fcc70956925df4fa9b", null ],
+    [ "isFakingDeath", "dd/de0/a13362.html#a88ccbe761b4703e4f309d1bb3fca4085", null ],
+    [ "phase", "dd/de0/a13362.html#ab549436aec35727665150d51f1c25714", null ]
 ];

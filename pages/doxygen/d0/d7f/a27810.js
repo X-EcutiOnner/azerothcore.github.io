@@ -1,7 +1,7 @@
 var a27810 =
 [
-    [ "go_bear_trapAI", "d0/d7f/a27810.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "d0/d7f/a27810.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "d0/d7f/a27810.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "d0/d7f/a27810.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "HandleProc", "d0/d7f/a27810.html#a5046d3b14fcf4260da937032c043fe42", null ],
+    [ "PrepareAuraScript", "d0/d7f/a27810.html#abcc31343fd53057e8116b47dd56033c1", null ],
+    [ "Register", "d0/d7f/a27810.html#a9a04291ffb75010ccaa46801d06e2080", null ],
+    [ "Validate", "d0/d7f/a27810.html#a13ecea64673f78b4b384a411a7aa8ca7", null ]
 ];

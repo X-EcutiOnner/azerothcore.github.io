@@ -1,13 +1,11 @@
 var a13986 =
 [
-    [ "npc_ravenclaw_apparitionAI", "de/d11/a13986.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
-    [ "EmoteCrowd", "de/d11/a13986.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
-    [ "JustDied", "de/d11/a13986.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
-    [ "JustSummoned", "de/d11/a13986.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
-    [ "SummonCrowd", "de/d11/a13986.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
-    [ "UpdateAI", "de/d11/a13986.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
-    [ "events", "de/d11/a13986.html#a27522107b5e1f54909294f800f26663f", null ],
-    [ "HasEnded", "de/d11/a13986.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
-    [ "summons", "de/d11/a13986.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
-    [ "TalkRNG", "de/d11/a13986.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
+    [ "npc_balance_of_light_and_shadowAI", "de/d11/a13986.html#a00cc1f78fa8fe26bf472d99a490d05ad", null ],
+    [ "CanBeSeen", "de/d11/a13986.html#af336c2afbf6c2850679fd7d8d1f0d5e9", null ],
+    [ "JustDied", "de/d11/a13986.html#ae862f8763614a98dae6b982414caf30a", null ],
+    [ "MovementInform", "de/d11/a13986.html#ad426816ae3c4d5a95587787d28f57ed8", null ],
+    [ "SpellHit", "de/d11/a13986.html#abfddfff72b63fd05673584915d647958", null ],
+    [ "UpdateAI", "de/d11/a13986.html#a540e3c28cc36917cde0153dd372d0287", null ],
+    [ "_targetGUID", "de/d11/a13986.html#adaf2340aa5fe7b96c8f5cacc1c8d5545", null ],
+    [ "timer", "de/d11/a13986.html#a204e0a809e9c392f20ec900e9a90a075", null ]
 ];

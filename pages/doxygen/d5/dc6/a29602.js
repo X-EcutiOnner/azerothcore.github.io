@@ -1,13 +1,6 @@
 var a29602 =
 [
-    [ "liquid_data", "d7/de2/a29610.html", "d7/de2/a29610" ],
-    [ "prepareLoadedData", "d5/dc6/a29602.html#a999cde9ad5c0e4ee49e620c2ff52cb06", null ],
-    [ "data", "d5/dc6/a29602.html#aa3f6e6de7453b4a1acc7dfe4c83eac69", null ],
-    [ "fcc", "d5/dc6/a29602.html#ab0181729f82eb0f02da5cb95ec48cda1", null ],
-    [ "fcc_txt", "d5/dc6/a29602.html#a9a2576f7b8923089b3b6020d4f8d97fc", null ],
-    [ "flags", "d5/dc6/a29602.html#ac21d785a3a457baa84cbfd33ebb69bd4", null ],
-    [ "height1", "d5/dc6/a29602.html#a7b4a59ac372261c74236b2b4cfc3626a", null ],
-    [ "height2", "d5/dc6/a29602.html#ab03dc912a304c0585d2725596adb4b49", null ],
-    [ "liquid", "d5/dc6/a29602.html#aae29940e6fdf046f9a29cf519ef61936", null ],
-    [ "size", "d5/dc6/a29602.html#a11581f9fb52a4ca433765e6312168288", null ]
+    [ "conditionsMet", "d5/dc6/a29602.html#ade58814e6b27763d1bb6c1f730ef53e0", null ],
+    [ "hasConditions", "d5/dc6/a29602.html#a160ac902a994fdaaa36b66dbaa4c8282", null ],
+    [ "sourceType", "d5/dc6/a29602.html#abbfa5f40abb5713e15311f8259d70dc6", null ]
 ];

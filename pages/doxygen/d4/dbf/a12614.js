@@ -1,12 +1,14 @@
 var a12614 =
 [
-    [ "boss_the_beast", "d4/dbf/a12614.html#ab98bce804078b4184b1bf6e844db9c67", null ],
-    [ "FindNearbyOrcs", "d4/dbf/a12614.html#a46da3f960ea3c38791c23a3e282db9c7", null ],
-    [ "JustEngagedWith", "d4/dbf/a12614.html#a9740b134ce1b21c42c9082d9fdc97264", null ],
-    [ "Reset", "d4/dbf/a12614.html#a7a72f5aeb54fe6de6c71dfac2c906881", null ],
-    [ "SetData", "d4/dbf/a12614.html#a8ceb3a1c53c2c5385d4a779b2ac283da", null ],
-    [ "UpdateAI", "d4/dbf/a12614.html#ad7db422aefc711b437176b729c6ac151", null ],
-    [ "_beastReached", "d4/dbf/a12614.html#a7345b0091bcfd894ce8fdff9431254f6", null ],
-    [ "_nearbyOrcsGUIDs", "d4/dbf/a12614.html#a20b867be394f3c5d9bbf851ba724ca3a", null ],
-    [ "_orcYelled", "d4/dbf/a12614.html#a7079c59c50343f460e2aac2bcf19709c", null ]
+    [ "tele_commandscript", "d4/dbf/a12614.html#a13d522c3480c5b82071d5f77bd41f942", null ],
+    [ "DoNameTeleport", "d4/dbf/a12614.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
+    [ "GetCommands", "d4/dbf/a12614.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
+    [ "HandleTeleAddCommand", "d4/dbf/a12614.html#a8d429a38c01a19f8c89c87937ef24248", null ],
+    [ "HandleTeleCommand", "d4/dbf/a12614.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
+    [ "HandleTeleDelCommand", "d4/dbf/a12614.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
+    [ "HandleTeleGroupCommand", "d4/dbf/a12614.html#af83e529b482654851a7a1ee77beb107e", null ],
+    [ "HandleTeleNameCommand", "d4/dbf/a12614.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
+    [ "HandleTeleNameNpcIdCommand", "d4/dbf/a12614.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
+    [ "HandleTeleNameNpcNameCommand", "d4/dbf/a12614.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
+    [ "HandleTeleNameNpcSpawnIdCommand", "d4/dbf/a12614.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
 ];

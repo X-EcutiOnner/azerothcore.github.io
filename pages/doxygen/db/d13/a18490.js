@@ -1,11 +1,6 @@
 var a18490 =
 [
-    [ "AddMissingStack", "db/d13/a18490.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
-    [ "CheckAura", "db/d13/a18490.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
-    [ "FilterTargets", "db/d13/a18490.html#ab6c86c3680823329d5f3aad985aa316a", null ],
-    [ "Load", "db/d13/a18490.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
-    [ "PrepareSpellScript", "db/d13/a18490.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
-    [ "Register", "db/d13/a18490.html#af0e6f1fc6687de1abcc1689116150088", null ],
-    [ "_hadInitialAura", "db/d13/a18490.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
-    [ "_hadJumpingAura", "db/d13/a18490.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
+    [ "FilterTargets", "db/d13/a18490.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
+    [ "PrepareSpellScript", "db/d13/a18490.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
+    [ "Register", "db/d13/a18490.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
 ];

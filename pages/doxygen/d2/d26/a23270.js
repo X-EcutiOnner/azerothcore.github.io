@@ -1,5 +1,6 @@
 var a23270 =
 [
-    [ "spellId", "d2/d26/a23270.html#acc63d01d5095adef28b9746c520be973", null ],
-    [ "textId", "d2/d26/a23270.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
+    [ "HandleApplyAura", "d2/d26/a23270.html#a4fde347d339f08cd01e2a47883d4b988", null ],
+    [ "PrepareSpellScript", "d2/d26/a23270.html#ab22bd56638a6adc8d111250780221cb9", null ],
+    [ "Register", "d2/d26/a23270.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
 ];

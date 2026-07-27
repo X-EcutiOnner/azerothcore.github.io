@@ -1,10 +1,6 @@
 var a21850 =
 [
-    [ "npc_engineer_heliceAI", "d4/d85/a21850.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
-    [ "JustDied", "d4/d85/a21850.html#aba224727b86a2bfc39a47b70b424ccef", null ],
-    [ "Reset", "d4/d85/a21850.html#ade3f7f526dd8973c155aafb939db3778", null ],
-    [ "UpdateAI", "d4/d85/a21850.html#a1c333511dd6e82cd22af111e12a701c4", null ],
-    [ "WaypointReached", "d4/d85/a21850.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
-    [ "WaypointReached", "d4/d85/a21850.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "m_uiChatTimer", "d4/d85/a21850.html#aa305bc2b5711d0745650f80275204ea8", null ]
+    [ "npc_q24545_vegard_dummyAI", "dd/d4c/a21854.html", "dd/d4c/a21854" ],
+    [ "npc_q24545_vegard_dummy", "d4/d85/a21850.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "d4/d85/a21850.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

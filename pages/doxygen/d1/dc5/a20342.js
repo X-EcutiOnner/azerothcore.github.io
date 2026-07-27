@@ -1,5 +1,5 @@
 var a20342 =
 [
-    [ "achievement_kologarn_looks_could_kill", "d1/dc5/a20342.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
-    [ "OnCheck", "d1/dc5/a20342.html#a0e7be4fb00808fab9a231530822fc93d", null ]
+    [ "achievement_flame_leviathan_shutout", "d1/dc5/a20342.html#a555e0d206b7f730665d301c7e03b23e6", null ],
+    [ "OnCheck", "d1/dc5/a20342.html#af548232f563fd387bc8ee25b696a2f99", null ]
 ];

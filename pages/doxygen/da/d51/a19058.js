@@ -1,6 +1,17 @@
 var a19058 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "d7/d3e/a19062.html", "d7/d3e/a19062" ],
-    [ "npc_icc_vengeful_fleshreaper", "da/d51/a19058.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
-    [ "GetAI", "da/d51/a19058.html#abf1903616dbf52718313c8b404b504a5", null ]
+    [ "npc_argent_captainAI", "da/d51/a19058.html#a4e9d65fa7c870c98d79ff30ae262385d", null ],
+    [ "CanAIAttack", "da/d51/a19058.html#a542075fcf2d487dedc6f11672e3507ba", null ],
+    [ "DoAction", "da/d51/a19058.html#a77f0b2d41d631f3ff7a3ea8d13716de1", null ],
+    [ "EnterEvadeMode", "da/d51/a19058.html#afaebff86ad9be5835c2e289625c07d16", null ],
+    [ "JustDied", "da/d51/a19058.html#a7f132fa843ba292cc89a64c77ce48bc4", null ],
+    [ "JustEngagedWith", "da/d51/a19058.html#a43818e75274cad597fd883f75119d63c", null ],
+    [ "KilledUnit", "da/d51/a19058.html#abc2dbc233082f9d7626759fbcccb34a2", null ],
+    [ "Reset", "da/d51/a19058.html#a0709350a6841b6008935c050a1db7784", null ],
+    [ "SpellHit", "da/d51/a19058.html#a8aee635d2739564281b5af04955e4d4a", null ],
+    [ "Events", "da/d51/a19058.html#a1cffce3d371bef959d76270608247def", null ],
+    [ "FollowAngle", "da/d51/a19058.html#a059c34261439fc80b0bff9d62b537489", null ],
+    [ "FollowDist", "da/d51/a19058.html#a4fde069032f7c6578f7f518b45f141d2", null ],
+    [ "instance", "da/d51/a19058.html#a131f11a8a67e3eb60759c699fc2cec1b", null ],
+    [ "IsUndead", "da/d51/a19058.html#a9eaf5d2c9e52650c28b8f7feef0e681c", null ]
 ];

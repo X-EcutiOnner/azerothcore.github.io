@@ -1,9 +1,7 @@
 var a21290 =
 [
-    [ "npc_bloodmage_laurithAI", "db/d50/a21290.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "db/d50/a21290.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "db/d50/a21290.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
-    [ "UpdateAI", "db/d50/a21290.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "db/d50/a21290.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "db/d50/a21290.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "HandleScript", "db/d50/a21290.html#ac8d984ac87f51050113f7ac1a4625785", null ],
+    [ "PrepareSpellScript", "db/d50/a21290.html#a34f6166e27cb99e424dd081ffce704a5", null ],
+    [ "Register", "db/d50/a21290.html#a0dd5b7a8cf086ee3b5a6f30326874ee3", null ],
+    [ "Validate", "db/d50/a21290.html#a364c96f7253fde59e1a9a59a42c4d3a5", null ]
 ];

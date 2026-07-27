@@ -1,7 +1,6 @@
 var a18626 =
 [
-    [ "OnPeriodic", "d6/d4e/a18626.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
-    [ "PrepareAuraScript", "d6/d4e/a18626.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
-    [ "Register", "d6/d4e/a18626.html#a0fc7ca43a0d82058fc04277742231388", null ],
-    [ "Validate", "d6/d4e/a18626.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
+    [ "LichKingDeathEvent", "d6/d4e/a18626.html#a9aa328b60358034355b1eed5caacb9f8", null ],
+    [ "Execute", "d6/d4e/a18626.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
+    [ "_owner", "d6/d4e/a18626.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
 ];

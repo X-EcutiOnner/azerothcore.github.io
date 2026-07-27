@@ -1,6 +1,7 @@
 var a22898 =
 [
-    [ "HandleEffectRemove", "da/de7/a22898.html#ac74d25501690970c607a146eec02ab24", null ],
-    [ "PrepareAuraScript", "da/de7/a22898.html#a858929800089fee1a06948bda1c8806f", null ],
-    [ "Register", "da/de7/a22898.html#a003e9c77e59008ea78b3f1e9977ab5d6", null ]
+    [ "SuckBackEvent", "da/de7/a22898.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
+    [ "Execute", "da/de7/a22898.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
+    [ "_action", "da/de7/a22898.html#abc54669df2dba0238723a40ababe4c0a", null ],
+    [ "_owner", "da/de7/a22898.html#a4d8bc09803f7786022c1836457ded488", null ]
 ];

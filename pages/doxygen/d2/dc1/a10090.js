@@ -1,9 +1,5 @@
 var a10090 =
 [
-    [ "RectangleBoundary", "d2/dc1/a10090.html#af401f84700a15fa1d4fcf78358a74735", null ],
-    [ "IsWithinBoundaryArea", "d2/dc1/a10090.html#a2d6c735d080382263a401d91da37b934", null ],
-    [ "_maxX", "d2/dc1/a10090.html#a3eff421dfe942634814e7526334f1c07", null ],
-    [ "_maxY", "d2/dc1/a10090.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
-    [ "_minX", "d2/dc1/a10090.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
-    [ "_minY", "d2/dc1/a10090.html#af5a7e35d5d9ff23c722643141f01a916", null ]
+    [ "MinionInfo", "d2/dc1/a10090.html#a537dd49ffb504aeab8b2b1734d5f44d7", null ],
+    [ "bossInfo", "d2/dc1/a10090.html#a04750e14ecb53ce6e3fac35844a713cd", null ]
 ];

@@ -1,10 +1,14 @@
 var a14346 =
 [
-    [ "boss_jeklik", "d7/d4d/a14346.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
-    [ "EnterEvadeMode", "d7/d4d/a14346.html#a70dc363e0690e72846db5f779375edc1", null ],
-    [ "JustDied", "d7/d4d/a14346.html#ae648ba9ff49f4970612a8c3351789b66", null ],
-    [ "JustEngagedWith", "d7/d4d/a14346.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
-    [ "PathEndReached", "d7/d4d/a14346.html#a689e8f91361de45e6f885fea0dec900a", null ],
-    [ "Reset", "d7/d4d/a14346.html#a7959106123e60e3584b32b50a272746c", null ],
-    [ "batRidersCount", "d7/d4d/a14346.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
+    [ "boss_hexlord_malacrass", "d7/d4d/a14346.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
+    [ "JustEngagedWith", "d7/d4d/a14346.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
+    [ "KilledUnit", "d7/d4d/a14346.html#a69e7a3aa2cb068706651bad34363099f", null ],
+    [ "Reset", "d7/d4d/a14346.html#af00159c9e2c54033f52f46d60881f22e", null ],
+    [ "ScheduleClassAbility", "d7/d4d/a14346.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
+    [ "SpawnAdds", "d7/d4d/a14346.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
+    [ "UseAbility", "d7/d4d/a14346.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
+    [ "_classAbilityTimer", "d7/d4d/a14346.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
+    [ "_creatureIndex", "d7/d4d/a14346.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
+    [ "_currentClass", "d7/d4d/a14346.html#ab7e531fccbb486b7b429d77d804841c2", null ],
+    [ "_timeUntilNextDrainPower", "d7/d4d/a14346.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
 ];

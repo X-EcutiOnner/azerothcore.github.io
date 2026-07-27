@@ -1,10 +1,10 @@
 var a12822 =
 [
-    [ "npc_core_rager", "d0/d70/a12822.html#a91aec4d96359a88ee8ac70b58353d488", null ],
-    [ "DamageTaken", "d0/d70/a12822.html#a7ad38b40dc33a8c875f11c4143bf9786", null ],
-    [ "Reset", "d0/d70/a12822.html#a5a565f93e2b60ee0883d740cf751c143", null ],
-    [ "UpdateAI", "d0/d70/a12822.html#a17466612b59d94d7f2e157d2b716cfe9", null ],
-    [ "instance", "d0/d70/a12822.html#adb63c559f01ac8da42213bb8ddaf9ce0", null ],
-    [ "mangleTimer", "d0/d70/a12822.html#a21bb04f15b5ffbfa4ea954922cb917ab", null ],
-    [ "rangeCheckTimer", "d0/d70/a12822.html#abac888dc4c885921540ba7107d0bd732", null ]
+    [ "npc_rookery_hatcher", "d0/d70/a12822.html#ab4740540a6fc2661c3c99bd2569a0bfa", null ],
+    [ "InitializeAI", "d0/d70/a12822.html#a58d6bb3ba8d39c0e92d30f4c124e3734", null ],
+    [ "JustEngagedWith", "d0/d70/a12822.html#a9d2e256f8df44254cc0301fe2b1fa628", null ],
+    [ "UpdateAI", "d0/d70/a12822.html#a011cf0384a7bf6dd502a767d6667140a", null ],
+    [ "events", "d0/d70/a12822.html#ab49d35c9d22408b01e27c8c7933433e0", null ],
+    [ "targetEgg", "d0/d70/a12822.html#a4fd5ed979e2c3d600e89e4592b7da98c", null ],
+    [ "targetPosition", "d0/d70/a12822.html#ac49345c80e58f7c0094fe1b62ac4bf84", null ]
 ];

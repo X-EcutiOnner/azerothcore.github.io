@@ -1,9 +1,5 @@
 var a24190 =
 [
-    [ "HandleAfterHit", "d1/df0/a24190.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
-    [ "Load", "d1/df0/a24190.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
-    [ "PrepareSpellScript", "d1/df0/a24190.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
-    [ "Register", "d1/df0/a24190.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
-    [ "Validate", "d1/df0/a24190.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
-    [ "_executed", "d1/df0/a24190.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
+    [ "npc_karynaku", "d1/df0/a24190.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
+    [ "OnQuestAccept", "d1/df0/a24190.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
 ];

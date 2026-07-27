@@ -1,6 +1,6 @@
 var a15114 =
 [
-    [ "npc_cos_stratholme_citizienAI", "de/d1a/a15118.html", "de/d1a/a15118" ],
-    [ "npc_cos_stratholme_citizien", "d9/df1/a15114.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "d9/df1/a15114.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "de/d1a/a15118.html", "de/d1a/a15118" ],
+    [ "instance_blackfathom_deeps", "d9/df1/a15114.html#a4600a7e6191582c1bee684989a970e0f", null ],
+    [ "GetInstanceScript", "d9/df1/a15114.html#a62cdab4f3118ab030b4ef55243690f73", null ]
 ];

@@ -1,10 +1,14 @@
 var a23570 =
 [
-    [ "npc_raging_flames", "d9/d69/a23570.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
-    [ "EnterEvadeMode", "d9/d69/a23570.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
-    [ "FixateRandomTarget", "d9/d69/a23570.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
-    [ "InitializeAI", "d9/d69/a23570.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
-    [ "IsSummonedBy", "d9/d69/a23570.html#ae42c4329be355807af92c1c803e61500", null ],
-    [ "Reset", "d9/d69/a23570.html#a34ac2249e507784d81c4040e87a646e0", null ],
-    [ "UpdateAI", "d9/d69/a23570.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
+    [ "boss_vazruden", "d9/d69/a23570.html#a9908d6082a09d55dd0d8bb801784a151", null ],
+    [ "DamageTaken", "d9/d69/a23570.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
+    [ "EnterEvadeMode", "d9/d69/a23570.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
+    [ "JustDied", "d9/d69/a23570.html#a525025b41b53a577bdff1eb818191ed7", null ],
+    [ "JustEngagedWith", "d9/d69/a23570.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
+    [ "KilledUnit", "d9/d69/a23570.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
+    [ "Reset", "d9/d69/a23570.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
+    [ "UpdateAI", "d9/d69/a23570.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
+    [ "_hasSpoken", "d9/d69/a23570.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
+    [ "_nazanCalled", "d9/d69/a23570.html#a44d53934c743e9beb539681719997852", null ],
+    [ "_scheduler", "d9/d69/a23570.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
 ];

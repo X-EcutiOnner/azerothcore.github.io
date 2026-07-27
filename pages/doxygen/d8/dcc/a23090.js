@@ -1,5 +1,6 @@
 var a23090 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d8/dcc/a23090.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
-    [ "Initialize", "d8/dcc/a23090.html#a9c7c10020eef3db4794283c0f946d086", null ]
+    [ "OnPeriodic", "d8/dcc/a23090.html#aef6afe014ce90711cd7628563aada2a4", null ],
+    [ "PrepareAuraScript", "d8/dcc/a23090.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
+    [ "Register", "d8/dcc/a23090.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
 ];

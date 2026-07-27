@@ -1,8 +1,8 @@
 var a20058 =
 [
-    [ "HandleOnEffectApply", "d8/d35/a20058.html#a83ff54727e886161c5568a60833932d1", null ],
-    [ "HandleOnEffectRemove", "d8/d35/a20058.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
-    [ "PrepareAuraScript", "d8/d35/a20058.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
-    [ "Register", "d8/d35/a20058.html#ae07af138c6f9c565799574b4f8343492", null ],
-    [ "Validate", "d8/d35/a20058.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
+    [ "brann_bronzebeardAI", "d2/daa/a20062.html", "d2/daa/a20062" ],
+    [ "brann_bronzebeard", "d8/d35/a20058.html#a66fd8785647896a1a5f7be041242cfd6", null ],
+    [ "GetAI", "d8/d35/a20058.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
+    [ "OnGossipHello", "d8/d35/a20058.html#a2714a2dde596db76706b8a86f97f82b8", null ],
+    [ "OnGossipSelect", "d8/d35/a20058.html#a0e0068a45012e50a9f645d393bdfe163", null ]
 ];

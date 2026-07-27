@@ -1,8 +1,6 @@
 var a27942 =
 [
-    [ "go_bellsAI", "dc/d03/a27942.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "dc/d03/a27942.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "dc/d03/a27942.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "dc/d03/a27942.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "dc/d03/a27942.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "HandleProc", "dc/d03/a27942.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
+    [ "PrepareAuraScript", "dc/d03/a27942.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
+    [ "Register", "dc/d03/a27942.html#adf0852d1aad8097143df205a66a49f2f", null ]
 ];

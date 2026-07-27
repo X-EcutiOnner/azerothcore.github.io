@@ -1,10 +1,8 @@
 var a05286 =
 [
-    [ "AreaInfo", "d6/d14/a05286.html#a1f45e5e030aaf5b16fb6c58097fa8b14", null ],
-    [ "adtId", "d6/d14/a05286.html#a95c1c986b14dfeba867fa55e77553499", null ],
-    [ "flags", "d6/d14/a05286.html#a780bdbb606fe694941d2105e14a29d70", null ],
-    [ "ground_Z", "d6/d14/a05286.html#aca4fada3b2062f74cf66cd34a63c0c86", null ],
-    [ "groupId", "d6/d14/a05286.html#a76ac6ccec6ff67f16689a6735e644e07", null ],
-    [ "result", "d6/d14/a05286.html#ab9e9a7658d5fb76be208835f786036b0", null ],
-    [ "rootId", "d6/d14/a05286.html#a6f60501d22be8c1d374a46e598d0f2e3", null ]
+    [ "AreaInfo", "df/d26/a05290.html", "df/d26/a05290" ],
+    [ "LiquidInfo", "d6/df3/a05294.html", "d6/df3/a05294" ],
+    [ "areaInfo", "d6/d14/a05286.html#a0d30ac3fa0cefd6eafc1690c75f46f0f", null ],
+    [ "floorZ", "d6/d14/a05286.html#af7c8710b5d296c1d792b4fc34302278f", null ],
+    [ "liquidInfo", "d6/d14/a05286.html#ae59e1e7fdf4913c48a0d82e1d19366a7", null ]
 ];

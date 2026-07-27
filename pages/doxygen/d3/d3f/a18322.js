@@ -1,9 +1,11 @@
 var a18322 =
 [
-    [ "FilterTargets", "d3/d3f/a18322.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
-    [ "FilterTargetsSubseq", "d3/d3f/a18322.html#a88a53a855e01b550fbd106ac318a891e", null ],
-    [ "PrepareSpellScript", "d3/d3f/a18322.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
-    [ "Register", "d3/d3f/a18322.html#a27e8768422b311f6db16757e167f4102", null ],
-    [ "Validate", "d3/d3f/a18322.html#a96ef76527449a138685830b52fa95146", null ],
-    [ "_targetList", "d3/d3f/a18322.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
+    [ "Load", "d3/d3f/a18322.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
+    [ "PrepareSpellScript", "d3/d3f/a18322.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
+    [ "Register", "d3/d3f/a18322.html#a9adbad7cc2185b22fb16135e78114548", null ],
+    [ "SelectTarget", "d3/d3f/a18322.html#a296ec09cec9661123ea5c86f3f262f32", null ],
+    [ "SetTarget", "d3/d3f/a18322.html#a15373dc2a0767e011faf504f6377e24d", null ],
+    [ "StartAttack", "d3/d3f/a18322.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
+    [ "Validate", "d3/d3f/a18322.html#a7619f7ec6dc0ce14293414729731ed00", null ],
+    [ "_target", "d3/d3f/a18322.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
 ];

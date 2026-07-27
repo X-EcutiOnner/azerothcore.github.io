@@ -1,8 +1,7 @@
 var a18938 =
 [
-    [ "CountTargets", "de/db7/a18938.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
-    [ "HandleScript", "de/db7/a18938.html#af058a0c458463bdba4a4eb73aa91c113", null ],
-    [ "PrepareSpellScript", "de/db7/a18938.html#a83b2fad7cdc189a17129e25a015952ff", null ],
-    [ "Register", "de/db7/a18938.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
-    [ "Validate", "de/db7/a18938.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
+    [ "npc_blazing_skeletonAI", "de/db7/a18938.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
+    [ "Reset", "de/db7/a18938.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
+    [ "UpdateAI", "de/db7/a18938.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
+    [ "_events", "de/db7/a18938.html#aab1b04989d5e3fc289f00bc121df193d", null ]
 ];

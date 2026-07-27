@@ -1,7 +1,10 @@
 var a29842 =
 [
-    [ "W", "d1/d4e/a29842.html#adc2e55b935dcc2daefd60739bdb31cec", null ],
-    [ "X", "d1/d4e/a29842.html#a2676f1a5ec3a2f69ebb953e4b5741c4b", null ],
-    [ "Y", "d1/d4e/a29842.html#aa3353a9f5afdf3614e37f9681441ae05", null ],
-    [ "Z", "d1/d4e/a29842.html#a533b5e90b6333d89190828f28721e61d", null ]
+    [ "SetUp", "d1/d4e/a29842.html#a3fdec2bf96f4e567b3ed2a8103d175ec", null ],
+    [ "SimulateGlyphsForLevel", "d1/d4e/a29842.html#ac0b04d88968102ac5cf34be21a44eed9", null ],
+    [ "TearDown", "d1/d4e/a29842.html#aa381706733e71ee3d426c4e0d0c4b4e9", null ],
+    [ "originalWorld", "d1/d4e/a29842.html#a5e142dc81a057b4ecc3084177942b91d", null ],
+    [ "player", "d1/d4e/a29842.html#ac57623d8e963cdb8de2258f36c1281bd", null ],
+    [ "session", "d1/d4e/a29842.html#ac92bad60994d699564da54739ac0b4f0", null ],
+    [ "worldMock", "d1/d4e/a29842.html#af4605e78650f67c3a3af4d91e1e485c5", null ]
 ];

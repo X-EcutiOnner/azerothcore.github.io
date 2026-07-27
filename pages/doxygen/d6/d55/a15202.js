@@ -1,8 +1,10 @@
 var a15202 =
 [
-    [ "Load", "d6/d55/a15202.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
-    [ "PeriodicTick", "d6/d55/a15202.html#ae4761ac3bce02903a7266511d80503f9", null ],
-    [ "PrepareAuraScript", "d6/d55/a15202.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
-    [ "Register", "d6/d55/a15202.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
-    [ "_ticks", "d6/d55/a15202.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
+    [ "hyjalJainaAI", "d6/d55/a15202.html#aa7532b691e85fd9bd467e20db39c59da", null ],
+    [ "IsSummonedBy", "d6/d55/a15202.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
+    [ "JustDied", "d6/d55/a15202.html#a605687080e5149b3f08ce8349ba9b336", null ],
+    [ "JustEngagedWith", "d6/d55/a15202.html#a187efe775b1e2a35637638507e77352e", null ],
+    [ "PathEndReached", "d6/d55/a15202.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
+    [ "Reset", "d6/d55/a15202.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
+    [ "UpdateAI", "d6/d55/a15202.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
 ];

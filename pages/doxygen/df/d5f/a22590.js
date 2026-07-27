@@ -1,12 +1,12 @@
 var a22590 =
 [
-    [ "boss_shade_of_akama", "df/d5f/a22590.html#a385bf995d19652254d6ae8a447c23c37", null ],
-    [ "EnterEvadeMode", "df/d5f/a22590.html#a690f8058fb4358b98960177d76864275", null ],
-    [ "JustDied", "df/d5f/a22590.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
-    [ "MovementInform", "df/d5f/a22590.html#a345707efebd5027c01a25a563d1e6f43", null ],
-    [ "Reset", "df/d5f/a22590.html#a19a1aca1a599704612ac845001895b4f", null ],
-    [ "SpellHit", "df/d5f/a22590.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
-    [ "UpdateAI", "df/d5f/a22590.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
-    [ "channelers", "df/d5f/a22590.html#a63372527172d3f96f533b5776221c2e7", null ],
-    [ "generators", "df/d5f/a22590.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
+    [ "OPvPCapturePointZM_Beacon", "df/d5f/a22590.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
+    [ "ChangeState", "df/d5f/a22590.html#a5bbe87c18c814358596a9648fd92b129", null ],
+    [ "FillInitialWorldStates", "df/d5f/a22590.html#a94511cd0d2d1dccaa1ed8276b273a2fb", null ],
+    [ "HandlePlayerEnter", "df/d5f/a22590.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
+    [ "HandlePlayerLeave", "df/d5f/a22590.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
+    [ "SendChangePhase", "df/d5f/a22590.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
+    [ "UpdateTowerState", "df/d5f/a22590.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
+    [ "m_TowerState", "df/d5f/a22590.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
+    [ "m_TowerType", "df/d5f/a22590.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
 ];

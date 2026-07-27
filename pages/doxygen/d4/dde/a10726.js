@@ -1,11 +1,15 @@
 var a10726 =
 [
-    [ "PetScript", "d4/dde/a10726.html#acccf0b5fa2e346c800925142ed52c917", null ],
-    [ "CanResetTalents", "d4/dde/a10726.html#ab4e5e0b19285573753ef6e9b7e8fd535", null ],
-    [ "CanUnlearnSpellDefault", "d4/dde/a10726.html#af150efd719bbb619df792ebc6705bb0a", null ],
-    [ "CanUnlearnSpellSet", "d4/dde/a10726.html#a84cba94813ffa26e1a245b814feb0349", null ],
-    [ "IsDatabaseBound", "d4/dde/a10726.html#a16fae7cdf068c6e3d9e46882548d4c20", null ],
-    [ "OnCalculateMaxTalentPointsForLevel", "d4/dde/a10726.html#a1263b06233902fbede9fc5df80cc8ad4", null ],
-    [ "OnInitStatsForLevel", "d4/dde/a10726.html#a65a33c4f374f2e9739680ad172118c26", null ],
-    [ "OnPetAddToWorld", "d4/dde/a10726.html#a3012323c5c1424512b611b6956a32554", null ]
+    [ "AuctionHouseScript", "d4/dde/a10726.html#a9295854f6aff87a3d0d2d50c35e88312", null ],
+    [ "OnAuctionAdd", "d4/dde/a10726.html#a39d172304de882d87f87e14d1df107da", null ],
+    [ "OnAuctionExpire", "d4/dde/a10726.html#a32e9d0decc7d341198accc84dbc4e1ab", null ],
+    [ "OnAuctionRemove", "d4/dde/a10726.html#aed67026e34ef7e8dd4d975d0b0620463", null ],
+    [ "OnAuctionSuccessful", "d4/dde/a10726.html#a57f1ea958e80a30031eded088dd3c8af", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionCancelledToBidderMail", "d4/dde/a10726.html#a067633221bf8e745c9ae7c4abee13fba", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionExpiredMail", "d4/dde/a10726.html#a622ac5271fb3a5ecf6444fb7fde17ed9", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionOutbiddedMail", "d4/dde/a10726.html#acfc00998027675d76436d4d05f578f8c", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionSalePendingMail", "d4/dde/a10726.html#a3bb999a955b7b8670264c859094fe9a0", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionSuccessfulMail", "d4/dde/a10726.html#a0ae714b1349e20e4303523fd551874b3", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionWonMail", "d4/dde/a10726.html#a050a47e57df42faa26c8d500b7848ecf", null ],
+    [ "OnBeforeAuctionHouseMgrUpdate", "d4/dde/a10726.html#a6b7ee2a551424c5a8442ce089d0fd1fc", null ]
 ];

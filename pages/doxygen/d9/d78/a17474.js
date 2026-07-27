@@ -1,17 +1,15 @@
 var a17474 =
 [
-    [ "instance_gundrak_InstanceMapScript", "d9/d78/a17474.html#aab01abeae0f8df7c74c65c689c3c9f30", null ],
-    [ "Initialize", "d9/d78/a17474.html#a680e2b0263e64f4f0b0a71f011199202", null ],
-    [ "OnGameObjectCreate", "d9/d78/a17474.html#a03ace9a6ac87deb8c9d1f358e67697d1", null ],
-    [ "OnGameObjectRemove", "d9/d78/a17474.html#a816e18bd1725e9deaa9e50521ddd3c05", null ],
-    [ "OnUnitDeath", "d9/d78/a17474.html#a2d17fee7344a23b9bf6c47ee10f1e436", null ],
-    [ "SetBossState", "d9/d78/a17474.html#a2b703178ee848ebb7ab750d7560a7b1e", null ],
-    [ "SetData", "d9/d78/a17474.html#a39611dead845510e26b16e8eb54114a2", null ],
-    [ "Update", "d9/d78/a17474.html#a50b5e4d1ff3baf4698483f47828ee492", null ],
-    [ "_activateTimer", "d9/d78/a17474.html#a4457a3506a587d7337042eb489b441dc", null ],
-    [ "_bridgeGUIDs", "d9/d78/a17474.html#a3ed3ada72ca634b0888f182a93c9e657", null ],
-    [ "_drakkariAltarGUID", "d9/d78/a17474.html#a8e34281d52ac3199b90e1971899db6b1", null ],
-    [ "_keysInCount", "d9/d78/a17474.html#a9b014cab41720868f61028ef201cadaa", null ],
-    [ "_moorabiAltarGUID", "d9/d78/a17474.html#a39875572cef853eb3d3f624366e3f93f", null ],
-    [ "_sladRanAltarGUID", "d9/d78/a17474.html#a93b651e93e28c63272a8d06d0c521aef", null ]
+    [ "npc_pos_leaderAI", "d9/d78/a17474.html#a21973bccde394785f8619df7cae5270b", null ],
+    [ "AttackStart", "d9/d78/a17474.html#a6dc4161441752b8ea9baab642d6a0684", null ],
+    [ "JustSummoned", "d9/d78/a17474.html#a03bfcd0ea38073ff8481188d1b570553", null ],
+    [ "MoveInLineOfSight", "d9/d78/a17474.html#ad28f607b313f7729649261969912eba5", null ],
+    [ "Reset", "d9/d78/a17474.html#aee23a2835b84ac060a29b41c10116904", null ],
+    [ "SetData", "d9/d78/a17474.html#a2b49d5045e0d1e25e7a05b1e3ce65b4f", null ],
+    [ "SummonedCreatureDespawn", "d9/d78/a17474.html#a9a35459cf7b83c9f0afc557d1b0b40e7", null ],
+    [ "UpdateAI", "d9/d78/a17474.html#a1507ab4bdade501cf92f843cec20842d", null ],
+    [ "counter", "d9/d78/a17474.html#a7012a08c6409a40646dcd91a47eb6886", null ],
+    [ "events", "d9/d78/a17474.html#a7ea570e98c7a70ae604861c2166eb429", null ],
+    [ "pInstance", "d9/d78/a17474.html#a1ba3692738d6bd474d54fe8910a7f316", null ],
+    [ "summons", "d9/d78/a17474.html#a44b5ee694d96644da91167c7d793eeb3", null ]
 ];

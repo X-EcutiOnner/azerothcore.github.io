@@ -1,5 +1,7 @@
 var a30186 =
 [
-    [ "HasMissile", "d9/db2/a30186.html#af8f9e79164ee3c7a617f63552bb23816", null ],
-    [ "MissileModel", "d9/db2/a30186.html#ae9ab544537448113f628c22ed8c91a27", null ]
+    [ "walkableClimb", "d9/db2/a30186.html#af8d2e9bccb8f6bbb36065e686ea39626", null ],
+    [ "walkableHeight", "d9/db2/a30186.html#a32f39a07562c47be0a311d7959678044", null ],
+    [ "walkableRadius", "d9/db2/a30186.html#a6e708a591e7b5597e129a653e1379a1e", null ],
+    [ "walkableSlopeAngle", "d9/db2/a30186.html#a9b880e84fa1d07e414e9a9a62a20969c", null ]
 ];

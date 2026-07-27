@@ -1,6 +1,6 @@
 var a17042 =
 [
-    [ "instance_drak_tharon_keep", "d3/d91/a17042.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
-    [ "OnGameObjectCreate", "d3/d91/a17042.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
-    [ "OnGameObjectRemove", "d3/d91/a17042.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
+    [ "npc_mistress_of_painAI", "d8/d97/a17046.html", "d8/d97/a17046" ],
+    [ "npc_mistress_of_pain", "d3/d91/a17042.html#a0261ed835454725e0e5629c295be4330", null ],
+    [ "GetAI", "d3/d91/a17042.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
 ];

@@ -1,6 +1,5 @@
 var a13406 =
 [
-    [ "npc_risen_guardianAI", "d2/dd5/a13410.html", "d2/dd5/a13410" ],
-    [ "npc_risen_guardian", "d3/d83/a13406.html#a472274c69abe912f5781c60911204eb5", null ],
-    [ "GetAI", "d3/d83/a13406.html#a568f57a442adcd64c8c3d2e4d5df729f", null ]
+    [ "at_karazhan_side_entrance", "d3/d83/a13406.html#abdaa7339a53941e2e89c4fcd439395fc", null ],
+    [ "_OnTrigger", "d3/d83/a13406.html#a80d0018a9442ef7f0834dc329047e135", null ]
 ];

@@ -1,12 +1,16 @@
 var a30066 =
 [
-    [ "Bounds", "db/d5c/a30066.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
-    [ "DoodadSet", "db/d5c/a30066.html#abbf6e50e76b120be17215cfcf227a524", null ],
-    [ "Flags", "db/d5c/a30066.html#a06f5e96119239356eea45b9acdadf6e1", null ],
-    [ "Id", "db/d5c/a30066.html#a952442c180e8d3710af31272b54eb6ec", null ],
-    [ "NameSet", "db/d5c/a30066.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
-    [ "Position", "db/d5c/a30066.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
-    [ "Rotation", "db/d5c/a30066.html#a2c04715e800b9f375c287cced96643d1", null ],
-    [ "Scale", "db/d5c/a30066.html#a142716fecae07abc013c7f3bd053c0ea", null ],
-    [ "UniqueId", "db/d5c/a30066.html#a749e920740b9e91547fe1f87933d1c7d", null ]
+    [ "adt_LIQUID", "d5/d51/a30074.html", "d5/d51/a30074" ],
+    [ "GetLiquidAttributes", "db/d5c/a30066.html#a343859f1c04059988ca0e4050ffac22f", null ],
+    [ "GetLiquidDepth", "db/d5c/a30066.html#a6f620512f4feb239bc732efcfe53ae7c", null ],
+    [ "GetLiquidExistsBitmap", "db/d5c/a30066.html#aaa9e70d67222ddcfbd890e8e3262f8e0", null ],
+    [ "GetLiquidHeight", "db/d5c/a30066.html#a73ad976bf67c8adba2443190e6db533f", null ],
+    [ "GetLiquidInstance", "db/d5c/a30066.html#a65b3323ff560d26302f86dcfc79eb4c3", null ],
+    [ "GetLiquidTextureCoordMap", "db/d5c/a30066.html#a1d0cfd669f16b346e9199f6ade39cbce", null ],
+    [ "GetLiquidType", "db/d5c/a30066.html#acd96d3f82d0ad8c3cb601097e52427b5", null ],
+    [ "prepareLoadedData", "db/d5c/a30066.html#a05b77a8778e3d85dae8437d96a4aae8a", null ],
+    [ "fcc", "db/d5c/a30066.html#a6c09458d5788c58dbd2f9b96448a1ff4", null ],
+    [ "fcc_txt", "db/d5c/a30066.html#a5abe0d5184d096f87c2c0ff1f9a115dc", null ],
+    [ "liquid", "db/d5c/a30066.html#aaaff4b98a34d81985b552fd671411450", null ],
+    [ "size", "db/d5c/a30066.html#a2110a26debb714695e38e5ec159131f2", null ]
 ];

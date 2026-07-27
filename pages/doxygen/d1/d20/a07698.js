@@ -1,9 +1,7 @@
 var a07698 =
 [
-    [ "BattlegroundEYLosingPointStruct", "d1/d20/a07698.html#ae3f19e55206e1a8097fe173a8a37aa12", null ],
-    [ "DespawnObjectTypeAlliance", "d1/d20/a07698.html#a210828d05ea9948484631b7408a3bb4b", null ],
-    [ "DespawnObjectTypeHorde", "d1/d20/a07698.html#a335205cb71b7055db4c01a5e562001b6", null ],
-    [ "MessageIdAlliance", "d1/d20/a07698.html#afe89eccc8c21351edb4ce943d937e521", null ],
-    [ "MessageIdHorde", "d1/d20/a07698.html#a8295974ee1f663dd0d22bcc4f0e0fa92", null ],
-    [ "SpawnNeutralObjectType", "d1/d20/a07698.html#a57c1a6f485ea6617b5218da411cae38f", null ]
+    [ "BattlegroundObjectInfo", "d1/d20/a07698.html#a848f2b15f47ceeb91c40e916d5659486", null ],
+    [ "object", "d1/d20/a07698.html#a6722b83d6969c1a34b4846f19865075a", null ],
+    [ "spellid", "d1/d20/a07698.html#ae0233a1078bc735e40855ea7608f5f11", null ],
+    [ "timer", "d1/d20/a07698.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
 ];

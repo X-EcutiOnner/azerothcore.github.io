@@ -1,9 +1,12 @@
 var a09546 =
 [
-    [ "GameObjectSearcher", "d4/d08/a09546.html#a6625a6afd81bea2f9cdd10fad6d4a5a4", null ],
-    [ "Visit", "d4/d08/a09546.html#a16685c62e1e69fdc5df55b2b3920a579", null ],
-    [ "Visit", "d4/d08/a09546.html#a1105dd396e4fe8c366fc453b5a4bec02", null ],
-    [ "i_check", "d4/d08/a09546.html#a71152e100ea7c72eceb5cda470d5a2f3", null ],
-    [ "i_object", "d4/d08/a09546.html#ad1c14442e0f1b5d9ee43639077c75876", null ],
-    [ "i_phaseMask", "d4/d08/a09546.html#ac11e036da088f6e62556c42965530040", null ]
+    [ "FloatHeightData", "db/dba/a09558.html", "db/dba/a09558" ],
+    [ "Uint16HeightData", "d1/dbc/a09550.html", "d1/dbc/a09550" ],
+    [ "Uint8HeightData", "d3/dad/a09554.html", "d3/dad/a09554" ],
+    [ "HeightPlanesType", "d4/d08/a09546.html#ab64c3cfcd01805f43ec4ef41fb3bc48d", null ],
+    [ "floatHeightData", "d4/d08/a09546.html#abd47b99dfa1f23b0741b66cfd4837eaa", null ],
+    [ "gridHeight", "d4/d08/a09546.html#a1f989ab0921de350dc2410129028201f", null ],
+    [ "minHeightPlanes", "d4/d08/a09546.html#aa04f68f079e1f488cf69acd24dcd7899", null ],
+    [ "uint16HeightData", "d4/d08/a09546.html#aec022a29ba14a18fdd33e8f65e1cd977", null ],
+    [ "uint8HeightData", "d4/d08/a09546.html#a60a4a267b4164347e9f3ead6b5abfe14", null ]
 ];

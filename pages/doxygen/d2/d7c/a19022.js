@@ -1,9 +1,13 @@
 var a19022 =
 [
-    [ "npc_icc_skybreaker_vicarAI", "d2/d7c/a19022.html#ae74a306850b328f536b55e5c24c040ab", null ],
-    [ "AttackStart", "d2/d7c/a19022.html#a52b753e1f599eb02385d980a78cd3c78", null ],
-    [ "JustEngagedWith", "d2/d7c/a19022.html#afdb4215cd0578de7342b152783666ed6", null ],
-    [ "Reset", "d2/d7c/a19022.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
-    [ "UpdateAI", "d2/d7c/a19022.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
-    [ "events", "d2/d7c/a19022.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
+    [ "npc_highlord_tirion_fordringAI", "d2/d7c/a19022.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
+    [ "Reset", "d2/d7c/a19022.html#a80051b1b2a663997304b1754a3f9ff25", null ],
+    [ "SetData", "d2/d7c/a19022.html#a5642aab7afc50a7494c43ae7a130d571", null ],
+    [ "UpdateAI", "d2/d7c/a19022.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
+    [ "_bolvarFordragon", "d2/d7c/a19022.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
+    [ "_damnedKills", "d2/d7c/a19022.html#a56e035884d2ab94629c133efc1fc8feb", null ],
+    [ "_events", "d2/d7c/a19022.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
+    [ "_factionNPC", "d2/d7c/a19022.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
+    [ "_instance", "d2/d7c/a19022.html#acd16d6200b08df23576aa9ccbb060d31", null ],
+    [ "_theLichKing", "d2/d7c/a19022.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
 ];

@@ -1,10 +1,10 @@
 var a14350 =
 [
-    [ "npc_batrider", "d8/dee/a14350.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
-    [ "DamageTaken", "d8/dee/a14350.html#ad4818b1363082a91223526908c38777c", null ],
-    [ "JustEngagedWith", "d8/dee/a14350.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
-    [ "Reset", "d8/dee/a14350.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
-    [ "UpdateAI", "d8/dee/a14350.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
-    [ "_mode", "d8/dee/a14350.html#acd53ec78a754219511af1ad2f11422a9", null ],
-    [ "_scheduler", "d8/dee/a14350.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
+    [ "boss_alyson_antille", "d8/dee/a14350.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
+    [ "GetNearbyFriendlies", "d8/dee/a14350.html#ab99596d5c2eafac8c678378d509bf585", null ],
+    [ "JustEngagedWith", "d8/dee/a14350.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
+    [ "RandomReverseFriendlyList", "d8/dee/a14350.html#afef27de229ba2c3b8beb30809a313237", null ],
+    [ "Reset", "d8/dee/a14350.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
+    [ "UpdateAI", "d8/dee/a14350.html#a15157be42d166a239ab658fc04292e44", null ],
+    [ "_friendlyList", "d8/dee/a14350.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
 ];

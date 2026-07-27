@@ -1,6 +1,8 @@
 var a23682 =
 [
-    [ "npc_fel_guard_houndAI", "db/d17/a23686.html", "db/d17/a23686" ],
-    [ "npc_fel_guard_hound", "d4/d75/a23682.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "d4/d75/a23682.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "npc_warchief_portal", "d4/d75/a23682.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "d4/d75/a23682.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "d4/d75/a23682.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "d4/d75/a23682.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "d4/d75/a23682.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

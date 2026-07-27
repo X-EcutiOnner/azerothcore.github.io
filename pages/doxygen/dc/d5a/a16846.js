@@ -1,10 +1,6 @@
 var a16846 =
 [
-    [ "npc_mistress_of_painAI", "dc/d5a/a16846.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
-    [ "EnterEvadeMode", "dc/d5a/a16846.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
-    [ "JustDied", "dc/d5a/a16846.html#ae60f294f902a2f687446f7599d071e42", null ],
-    [ "Reset", "dc/d5a/a16846.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
-    [ "SpellHit", "dc/d5a/a16846.html#a077843a7ead2034da695be816de42f9e", null ],
-    [ "UpdateAI", "dc/d5a/a16846.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
-    [ "events", "dc/d5a/a16846.html#a941ae1faab010551db6a8e6749993357", null ]
+    [ "npc_swarm_scarabAI", "da/d72/a16850.html", "da/d72/a16850" ],
+    [ "npc_swarm_scarab", "dc/d5a/a16846.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
+    [ "GetAI", "dc/d5a/a16846.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
 ];

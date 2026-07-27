@@ -1,12 +1,6 @@
 var a12086 =
 [
-    [ "WardenMac", "dc/d83/a12086.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
-    [ "~WardenMac", "dc/d83/a12086.html#a5f3832580c73a0af34fa83669a92ceab", null ],
-    [ "GetModuleForClient", "dc/d83/a12086.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
-    [ "HandleData", "dc/d83/a12086.html#a024be47d39641cb0e7654b0e0999e444", null ],
-    [ "HandleHashResult", "dc/d83/a12086.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
-    [ "Init", "dc/d83/a12086.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
-    [ "InitializeModule", "dc/d83/a12086.html#a4fceef34e83db1a357d9eadce35efdef", null ],
-    [ "RequestChecks", "dc/d83/a12086.html#a2437a3a5650305b05fc22d312d0006da", null ],
-    [ "RequestHash", "dc/d83/a12086.html#af031f18554c5a96b4eb39371a92b9c51", null ]
+    [ "EffectUpdatePeriodicHandler", "dc/d83/a12086.html#a6b18a259aa84c847bcc064c5243eb590", null ],
+    [ "Call", "dc/d83/a12086.html#a38802863e7859453cbbe58ad91018c67", null ],
+    [ "pEffectHandlerScript", "dc/d83/a12086.html#a0e51245e089fcd9532d5789056ab944c", null ]
 ];

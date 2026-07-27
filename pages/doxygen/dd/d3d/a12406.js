@@ -1,12 +1,11 @@
 var a12406 =
 [
-    [ "wp_commandscript", "dd/d3d/a12406.html#a152610b5faf3ee05bb830bbf820b7162", null ],
-    [ "GetCommands", "dd/d3d/a12406.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
-    [ "HandleWpAddCommand", "dd/d3d/a12406.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
-    [ "HandleWpEventCommand", "dd/d3d/a12406.html#a16fdb79724677307198ccf2fd6aa670d", null ],
-    [ "HandleWpLoadCommand", "dd/d3d/a12406.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
-    [ "HandleWpModifyCommand", "dd/d3d/a12406.html#a83677a6b64c3e5f6e44345026775721a", null ],
-    [ "HandleWpReloadCommand", "dd/d3d/a12406.html#a671598d3727fa7e9358391008c690cb6", null ],
-    [ "HandleWpShowCommand", "dd/d3d/a12406.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
-    [ "HandleWpUnLoadCommand", "dd/d3d/a12406.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
+    [ "bf_commandscript", "dd/d3d/a12406.html#a806ca440ae1b51fffefee9d298dab3df", null ],
+    [ "GetCommands", "dd/d3d/a12406.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
+    [ "HandleBattlefieldEnable", "dd/d3d/a12406.html#a5d6fdbbdd77fc16aaac170d5af0ff924", null ],
+    [ "HandleBattlefieldEnd", "dd/d3d/a12406.html#abe18a8f6f91de5a1984f09c711136919", null ],
+    [ "HandleBattlefieldQueue", "dd/d3d/a12406.html#ab2e116060bb747e9ae9237c49b8cc2c9", null ],
+    [ "HandleBattlefieldStart", "dd/d3d/a12406.html#a1cfd74a803277063fa5e03162956f341", null ],
+    [ "HandleBattlefieldSwitch", "dd/d3d/a12406.html#ae942a3c7f13cc77b3cf36078d798e0fe", null ],
+    [ "HandleBattlefieldTimer", "dd/d3d/a12406.html#a6c0d2587984f276bbc40af72017dc00a", null ]
 ];

@@ -1,9 +1,9 @@
 var a09570 =
 [
-    [ "UnitListSearcher", "de/df7/a09570.html#a24c0de32dc3baa927962626421a343ae", null ],
-    [ "Visit", "de/df7/a09570.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d", null ],
-    [ "Visit", "de/df7/a09570.html#a92f9b0407e609b6c61f10d93aa49912f", null ],
-    [ "Visit", "de/df7/a09570.html#a5fddd281a9f9cd10cf3948d4bf7b626f", null ],
-    [ "i_check", "de/df7/a09570.html#a508a47e6261e7ae6e5669aee853ff99e", null ],
-    [ "i_phaseMask", "de/df7/a09570.html#a43c863350bea423cf4a720c4c680fd4c", null ]
+    [ "LiquidData", "de/df7/a09570.html#ac2435178323f480d2dae449b49b39146", null ],
+    [ "DepthLevel", "de/df7/a09570.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
+    [ "Entry", "de/df7/a09570.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
+    [ "Flags", "de/df7/a09570.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
+    [ "Level", "de/df7/a09570.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
+    [ "Status", "de/df7/a09570.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
 ];

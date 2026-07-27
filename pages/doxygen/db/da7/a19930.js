@@ -1,8 +1,6 @@
 var a19930 =
 [
-    [ "OnPeriodic", "db/da7/a19930.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
-    [ "OnRemove", "db/da7/a19930.html#ac6d961793ddb6423540da9d97e016b82", null ],
-    [ "PrepareAuraScript", "db/da7/a19930.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
-    [ "Register", "db/da7/a19930.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
-    [ "Validate", "db/da7/a19930.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
+    [ "HandlePeriodic", "db/da7/a19930.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
+    [ "PrepareAuraScript", "db/da7/a19930.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
+    [ "Register", "db/da7/a19930.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
 ];

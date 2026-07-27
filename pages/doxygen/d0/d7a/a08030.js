@@ -1,5 +1,4 @@
 var a08030 =
 [
-    [ "IsColorValid", "d0/d7a/a08030.html#a5b13574c40a78f28d15e6b11bc7bd5bc", null ],
-    [ "IsTextValid", "d0/d7a/a08030.html#a1c9a027ff1f355b16fe629b7c4af7b98", null ]
+    [ "TryConsume", "d0/d7a/a08030.html#aa35873bb1d0ecefddbe99fad5a5d0214", null ]
 ];

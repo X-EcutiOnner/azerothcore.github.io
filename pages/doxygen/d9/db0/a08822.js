@@ -1,7 +1,5 @@
 var a08822 =
 [
-    [ "IsInSpec", "d9/db0/a08822.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
-    [ "Active", "d9/db0/a08822.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
-    [ "specMask", "d9/db0/a08822.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
-    [ "State", "d9/db0/a08822.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
+    [ "PackedGuidReader", "d9/db0/a08822.html#aec7af2ed383e06998a0fa12b94da90e3", null ],
+    [ "Guid", "d9/db0/a08822.html#a4de5d725a22f0a8ae4bb83cb51a72588", null ]
 ];

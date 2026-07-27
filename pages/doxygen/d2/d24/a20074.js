@@ -1,5 +1,6 @@
 var a20074 =
 [
-    [ "achievement_flame_leviathan_shutout", "d2/d24/a20074.html#a555e0d206b7f730665d301c7e03b23e6", null ],
-    [ "OnCheck", "d2/d24/a20074.html#af548232f563fd387bc8ee25b696a2f99", null ]
+    [ "HandleApplyTouch", "d2/d24/a20074.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "d2/d24/a20074.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "d2/d24/a20074.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

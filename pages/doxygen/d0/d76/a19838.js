@@ -1,9 +1,6 @@
 var a19838 =
 [
-    [ "npc_brann_bronzebeard_algalon", "d0/d76/a19838.html#ac00755dca7e187b55516be889386c499", null ],
-    [ "DoAction", "d0/d76/a19838.html#a6d44478868a74ed7baac757258334806", null ],
-    [ "MovementInform", "d0/d76/a19838.html#a33af1a38ab2827aec38f95e57e54f589", null ],
-    [ "UpdateAI", "d0/d76/a19838.html#ad74f8f8a31431dd2eaa4279e6a8fae36", null ],
-    [ "_currentPoint", "d0/d76/a19838.html#a5403badf59f96111aefaddf78379e65f", null ],
-    [ "events", "d0/d76/a19838.html#ae63e7d3c53c3039186221c8b59c43e3e", null ]
+    [ "npc_oculus_unstable_sphereAI", "df/ddb/a19842.html", "df/ddb/a19842" ],
+    [ "npc_oculus_unstable_sphere", "d0/d76/a19838.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
+    [ "GetAI", "d0/d76/a19838.html#adda2a9e7eab03444742e85729673ab2f", null ]
 ];

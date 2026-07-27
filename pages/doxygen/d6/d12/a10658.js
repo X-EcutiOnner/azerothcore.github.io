@@ -1,13 +1,10 @@
 var a10658 =
 [
-    [ "FormulaScript", "d6/d12/a10658.html#a0c850c1a09bc78a4ceee5f27615d50d7", null ],
-    [ "OnAfterArenaRatingCalculation", "d6/d12/a10658.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
-    [ "OnBaseGainCalculation", "d6/d12/a10658.html#ab154eaf469d5fe3e86c364940816270a", null ],
-    [ "OnBeforeUpdatingPersonalRating", "d6/d12/a10658.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
-    [ "OnColorCodeCalculation", "d6/d12/a10658.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
-    [ "OnGainCalculation", "d6/d12/a10658.html#aa83fab65cc89bd03021da2805e935ffb", null ],
-    [ "OnGrayLevelCalculation", "d6/d12/a10658.html#affeb57234f961b9e01f5898c7738f38f", null ],
-    [ "OnGroupRateCalculation", "d6/d12/a10658.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
-    [ "OnHonorCalculation", "d6/d12/a10658.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
-    [ "OnZeroDifferenceCalculation", "d6/d12/a10658.html#a7755c35bc56e6645e36de08c12a4847d", null ]
+    [ "Flags", "d6/d12/a10658.html#abf9c2701e766951e5a211bf6bf85b175", null ],
+    [ "ID", "d6/d12/a10658.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
+    [ "needSave", "d6/d12/a10658.html#aae888b1bf10f654ee212f3d687c111e9", null ],
+    [ "needSend", "d6/d12/a10658.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
+    [ "ReputationListID", "d6/d12/a10658.html#a052caeeae1ecdca831097591e0fddaf6", null ],
+    [ "roundedUp", "d6/d12/a10658.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
+    [ "Standing", "d6/d12/a10658.html#ae87da6cada559e11a9607e194013d671", null ]
 ];

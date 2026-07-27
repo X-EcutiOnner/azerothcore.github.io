@@ -1,7 +1,5 @@
 var a28286 =
 [
-    [ "npc_flameshocker", "d6/d37/a28286.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
-    [ "JustDied", "d6/d37/a28286.html#aba94a5bcec75c649049d5816a53ace58", null ],
-    [ "Reset", "d6/d37/a28286.html#a13cb88e2b33df2d910fb73053684b420", null ],
-    [ "UpdateAI", "d6/d37/a28286.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
+    [ "go_arcane_prison", "d6/d37/a28286.html#ad73ac33d843027de0e516de8f90c45a0", null ],
+    [ "OnGossipHello", "d6/d37/a28286.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
 ];

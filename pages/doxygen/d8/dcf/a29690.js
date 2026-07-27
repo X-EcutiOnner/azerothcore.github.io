@@ -1,20 +1,14 @@
 var a29690 =
 [
-    [ "Record", "d8/dcf/a29690.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
-    [ "Record", "d8/dcf/a29690.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
-    [ "getByte", "d8/dcf/a29690.html#ab1897952fa01e930caffa262519645c5", null ],
-    [ "getFloat", "d8/dcf/a29690.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
-    [ "getFloat", "d8/dcf/a29690.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
-    [ "getInt", "d8/dcf/a29690.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
-    [ "getInt", "d8/dcf/a29690.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
-    [ "getString", "d8/dcf/a29690.html#a3e330e9888e740bc16d4ba173c90c8d9", null ],
-    [ "getString", "d8/dcf/a29690.html#a3e330e9888e740bc16d4ba173c90c8d9", null ],
-    [ "getUInt", "d8/dcf/a29690.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
-    [ "getUInt", "d8/dcf/a29690.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
-    [ "operator=", "d8/dcf/a29690.html#a25c6e7d3b28aade82eb52d41515f0427", null ],
-    [ "DBCFile", "d8/dcf/a29690.html#a6c4f02b14caa99337bbe77b30e5615ab", null ],
-    [ "DBCFile::Iterator", "d8/dcf/a29690.html#a56d48f82a62e25038bf9cf339e608083", null ],
-    [ "Iterator", "d8/dcf/a29690.html#a9830fc407400559db7e7783cc10a9394", null ],
-    [ "file", "d8/dcf/a29690.html#adffc3b9545883356dd9bed0a0613a1fe", null ],
-    [ "offset", "d8/dcf/a29690.html#ae76eb8b329fb6d580aa42484de46c95e", null ]
+    [ "SetUp", "d8/dcf/a29690.html#a77eba369912e1969b3f049cb3a5c0ca4", null ],
+    [ "TearDown", "d8/dcf/a29690.html#adc8da5178618fb9742ea60920560d6ff", null ],
+    [ "PERM_ADMIN_1", "d8/dcf/a29690.html#afaa2c4b6a7112d04a95cd85143b0f4f0", null ],
+    [ "PERM_GM_1", "d8/dcf/a29690.html#a378e309848a3ee8b3f0e610572ba6124", null ],
+    [ "PERM_MOD_1", "d8/dcf/a29690.html#a05f115edd8aa321527de060f17c2e956", null ],
+    [ "PERM_PLAYER_1", "d8/dcf/a29690.html#a2c61447c90608ed3b714ba4e28efca76", null ],
+    [ "PERM_PLAYER_2", "d8/dcf/a29690.html#a31cc52a84454c48879c558f9698cd29b", null ],
+    [ "SEC_ADMINISTRATOR", "d8/dcf/a29690.html#aaddb5fa0a6d385cda760eaf92a7f59b3", null ],
+    [ "SEC_GAMEMASTER", "d8/dcf/a29690.html#ac922fc5904bb31a878f28a210b1a5740", null ],
+    [ "SEC_MODERATOR", "d8/dcf/a29690.html#a82e9196ebe8fe4f4672abe9cfbc6f163", null ],
+    [ "SEC_PLAYER", "d8/dcf/a29690.html#ad8c087c8b8503262387306039b44f09c", null ]
 ];

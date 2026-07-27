@@ -1,10 +1,11 @@
 var a10266 =
 [
-    [ "CreateWorldPacket", "de/d4e/a10266.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
-    [ "GetMotd", "de/d4e/a10266.html#ab589dd8bfad950e02ee716ea9005253f", null ],
-    [ "GetMotdPacket", "de/d4e/a10266.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
-    [ "instance", "de/d4e/a10266.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
-    [ "LoadMotd", "de/d4e/a10266.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
-    [ "LoadMotdLocale", "de/d4e/a10266.html#a21aa89787d5b0bbf69158f799122edd5", null ],
-    [ "SetMotd", "de/d4e/a10266.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
+    [ "StaticVMapCollisionData", "de/d4e/a10266.html#a5955532316bc6409c104197b086d3e3b", null ],
+    [ "GetAreaAndLiquidData", "de/d4e/a10266.html#afcbfd82bc43ad5dbce5edc35608a0d38", null ],
+    [ "getHeight", "de/d4e/a10266.html#ad5b245ec62bf370a479c8fdb0eec1f40", null ],
+    [ "GetObjectHitPos", "de/d4e/a10266.html#aacf3e526a4e52c8515b3a8004e6b0a1a", null ],
+    [ "isInLineOfSight", "de/d4e/a10266.html#a79f47e4eafe0db4e449ec202ad3ef580", null ],
+    [ "MapCollisionData", "de/d4e/a10266.html#a472038a89678719bf8868ab0c75e394f", null ],
+    [ "_mapId", "de/d4e/a10266.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb", null ],
+    [ "_staticTree", "de/d4e/a10266.html#a4d73d970aa85dbbd9c70633addcdaf13", null ]
 ];

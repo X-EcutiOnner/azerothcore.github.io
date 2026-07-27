@@ -1,6 +1,6 @@
 var a17578 =
 [
-    [ "KnockIntoAir", "dc/de0/a17578.html#a1f9fb1f258613ca6657abba26969961f", null ],
-    [ "PrepareSpellScript", "dc/de0/a17578.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
-    [ "Register", "dc/de0/a17578.html#a35a7758630c1769228fedff84ad929e8", null ]
+    [ "entry", "dc/de0/a17578.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "dc/de0/a17578.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "dc/de0/a17578.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

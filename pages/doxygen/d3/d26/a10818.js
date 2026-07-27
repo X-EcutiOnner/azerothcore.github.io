@@ -1,7 +1,5 @@
 var a10818 =
 [
-    [ "AutoBankItem", "d3/d26/a10818.html#a02d39ddc9eda90be709b2fa9c1f6023d", null ],
-    [ "Read", "d3/d26/a10818.html#a8651192c6040cdf5d257c134dde1208c", null ],
-    [ "Bag", "d3/d26/a10818.html#a69f9b65ecb778c94c6e9278e5f98d31b", null ],
-    [ "Slot", "d3/d26/a10818.html#a970f2ca85a76de1a25ad40a9ebf0029f", null ]
+    [ "MailScript", "d3/d26/a10818.html#ac88f68e8ad89f950d7d3b486b03770d9", null ],
+    [ "OnBeforeMailDraftSendMailTo", "d3/d26/a10818.html#ab4e3f0552ffc705ef44e8ca6c36f2be7", null ]
 ];

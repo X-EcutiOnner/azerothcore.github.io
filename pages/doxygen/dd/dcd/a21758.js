@@ -1,6 +1,8 @@
 var a21758 =
 [
-    [ "npc_infra_green_bomber_genericAI", "d7/d5f/a21762.html", "d7/d5f/a21762" ],
-    [ "npc_infra_green_bomber_generic", "dd/dcd/a21758.html#a39134a09376c35f15e99377cd28ac6ff", null ],
-    [ "GetAI", "dd/dcd/a21758.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
+    [ "npc_future_youAI", "dd/dcd/a21758.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "dd/dcd/a21758.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "dd/dcd/a21758.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "dd/dcd/a21758.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "dd/dcd/a21758.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

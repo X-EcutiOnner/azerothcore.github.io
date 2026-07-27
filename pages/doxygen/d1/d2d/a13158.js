@@ -1,7 +1,8 @@
 var a13158 =
 [
-    [ "HandleDummy", "d1/d2d/a13158.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
-    [ "PrepareSpellScript", "d1/d2d/a13158.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
-    [ "Register", "d1/d2d/a13158.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
-    [ "Validate", "d1/d2d/a13158.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
+    [ "npc_kernobeeAI", "d1/d2d/a13158.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
+    [ "SetGUID", "d1/d2d/a13158.html#ab704b138670279f6d731a6bb58ac6d10", null ],
+    [ "UpdateAI", "d1/d2d/a13158.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
+    [ "checkTimer", "d1/d2d/a13158.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
+    [ "playerGUID", "d1/d2d/a13158.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
 ];

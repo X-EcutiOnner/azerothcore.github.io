@@ -1,6 +1,7 @@
 var a19382 =
 [
-    [ "boss_sapphironAI", "d8/ded/a19386.html", "d8/ded/a19386" ],
-    [ "boss_sapphiron", "d5/d41/a19382.html#a87a70204dd727f92d035ad98e2ab9010", null ],
-    [ "GetAI", "d5/d41/a19382.html#a31209287faa721bef341388ae4383b6c", null ]
+    [ "DelayedCastMincharEvent", "d5/d41/a19382.html#a76d8a08ca273eec5b2e083d136336a15", null ],
+    [ "Execute", "d5/d41/a19382.html#a12aeff246d07e541ed192974320842cb", null ],
+    [ "_spellId", "d5/d41/a19382.html#af4ea90407b2c8a283f137d213ffe97be", null ],
+    [ "_trigger", "d5/d41/a19382.html#a9f3cd02e77ad35b98a6753b792383548", null ]
 ];

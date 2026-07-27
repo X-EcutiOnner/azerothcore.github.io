@@ -1,6 +1,5 @@
 var a17110 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "d6/d5c/a17114.html", "d6/d5c/a17114" ],
-    [ "instance_forge_of_souls", "de/d71/a17110.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "de/d71/a17110.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "boss_eydisAI", "de/d71/a17110.html#a0e97e184b2a2f610730cd3d455702955", null ],
+    [ "JustSummoned", "de/d71/a17110.html#aa5ae64cfe003a25859364a12cb871199", null ]
 ];

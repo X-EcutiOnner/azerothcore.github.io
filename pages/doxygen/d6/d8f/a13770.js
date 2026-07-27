@@ -1,8 +1,6 @@
 var a13770 =
 [
-    [ "HandleApply", "d6/d8f/a13770.html#a9dce02909356193476e66586aee87f1d", null ],
-    [ "OnPeriodic", "d6/d8f/a13770.html#add4f000f81d5d4112719c6dd7464163c", null ],
-    [ "PrepareAuraScript", "d6/d8f/a13770.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
-    [ "Register", "d6/d8f/a13770.html#abc349f12f375b1f284eb78a363e8172a", null ],
-    [ "Validate", "d6/d8f/a13770.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
+    [ "SpectralBlastCheck", "d6/d8f/a13770.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
+    [ "operator()", "d6/d8f/a13770.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
+    [ "_victim", "d6/d8f/a13770.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
 ];

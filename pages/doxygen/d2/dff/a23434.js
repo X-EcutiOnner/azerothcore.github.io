@@ -1,6 +1,8 @@
 var a23434 =
 [
-    [ "HandlePeriodic", "d2/dff/a23434.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
-    [ "PrepareAuraScript", "d2/dff/a23434.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
-    [ "Register", "d2/dff/a23434.html#acf77c76f02671da215c7103b60ed77ac", null ]
+    [ "boss_the_black_stalker", "d2/dff/a23434.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "d2/dff/a23434.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "d2/dff/a23434.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "d2/dff/a23434.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "d2/dff/a23434.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

@@ -1,9 +1,9 @@
 var a09914 =
 [
-    [ "EmoteChatBuilder", "d1/d39/a09914.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
-    [ "operator()", "d1/d39/a09914.html#a133a7bb35e86cf40425910c4f19a3337", null ],
-    [ "i_emote_num", "d1/d39/a09914.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
-    [ "i_player", "d1/d39/a09914.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
-    [ "i_target", "d1/d39/a09914.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
-    [ "i_text_emote", "d1/d39/a09914.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
+    [ "WorldPacketList", "d1/d39/a09914.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
+    [ "LocalizedPacketListDo", "d1/d39/a09914.html#ab52133e238752f725f18580018a84cd2", null ],
+    [ "~LocalizedPacketListDo", "d1/d39/a09914.html#a8442452027bcb5c98d60830e016803b5", null ],
+    [ "operator()", "d1/d39/a09914.html#adea9610e36d436563ba1f472481aed85", null ],
+    [ "i_builder", "d1/d39/a09914.html#a83bda52b10d30f7fd633c285b79e740b", null ],
+    [ "i_data_cache", "d1/d39/a09914.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
 ];

@@ -1,7 +1,6 @@
 var a13426 =
 [
-    [ "HandleScript", "d2/dbe/a13426.html#a6ce169d6c1b106195f787b52ea433311", null ],
-    [ "PrepareSpellScript", "d2/dbe/a13426.html#a4f71583df2193274365944e6d228247c", null ],
-    [ "Register", "d2/dbe/a13426.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
-    [ "Validate", "d2/dbe/a13426.html#a51025308f88001f1f66d7f68f174f325", null ]
+    [ "HandleAfterCast", "d2/dbe/a13426.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
+    [ "PrepareSpellScript", "d2/dbe/a13426.html#aa0956db2d03405a54893bc30516f5839", null ],
+    [ "Register", "d2/dbe/a13426.html#a45726adacf1d30b5488df54f57447c0c", null ]
 ];

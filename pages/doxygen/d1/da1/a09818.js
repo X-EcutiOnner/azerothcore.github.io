@@ -1,8 +1,8 @@
 var a09818 =
 [
-    [ "LocalizedPacketDo", "d1/da1/a09818.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
-    [ "~LocalizedPacketDo", "d1/da1/a09818.html#a4296260b2011e1f7c300987073863ca9", null ],
-    [ "operator()", "d1/da1/a09818.html#a43449bdf0302e426b8cb4341326196b1", null ],
-    [ "i_builder", "d1/da1/a09818.html#a2c794905898feb502bfc5d3760f962b8", null ],
-    [ "i_data_cache", "d1/da1/a09818.html#a2bbff655e1a5268981c48e3ee028b104", null ]
+    [ "AnyAssistCreatureInRangeCheck", "d1/da1/a09818.html#a2e9cbff4e627fe8ccf67997123afe0a6", null ],
+    [ "operator()", "d1/da1/a09818.html#a314a4800047f7e661cd011010b3f148e", null ],
+    [ "i_enemy", "d1/da1/a09818.html#a37318ae783e6cf4a658063aab149e8a3", null ],
+    [ "i_funit", "d1/da1/a09818.html#add1071091d1696c3f537483810dcb6f1", null ],
+    [ "i_range", "d1/da1/a09818.html#a4bcf67be5bae4649d82586349d30be04", null ]
 ];

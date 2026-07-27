@@ -1,20 +1,14 @@
 var a23186 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "df/da6/a23186.html#adb0173cb42642836f7734d8b0fb3e98f", null ],
-    [ "ActivateCell", "df/da6/a23186.html#abd718216778850455c758d79a5866958", null ],
-    [ "ActivatePrisoners", "df/da6/a23186.html#a18488afb78747a35ce7e3b4b9a2468b5", null ],
-    [ "GetGuidData", "df/da6/a23186.html#af7f6acc97bf16f4d31236dcbb2d94007", null ],
-    [ "Initialize", "df/da6/a23186.html#a3441a24486ec686d42b7320e6f105139", null ],
-    [ "OnCreatureCreate", "df/da6/a23186.html#ac58da5acec155e596791464c48f29773", null ],
-    [ "OnGameObjectCreate", "df/da6/a23186.html#a3894ce1d0dff79cee2ff0df51d19e1ea", null ],
-    [ "OnUnitDeath", "df/da6/a23186.html#a78b07bfe30c7f329046ff572f783c4b9", null ],
-    [ "PrisonerDied", "df/da6/a23186.html#a16315f7921b1960c7720f855cdddee96", null ],
-    [ "ResetPrisoner", "df/da6/a23186.html#a57f58c502b5fb2064307adb8c4976979", null ],
-    [ "ResetPrisoners", "df/da6/a23186.html#ac46b0ed98e69ac0d5b8582bb21a81dc8", null ],
-    [ "ResetPrisons", "df/da6/a23186.html#a728bbc185bb91cf024f8ff3bd878a10e", null ],
-    [ "SetBossState", "df/da6/a23186.html#aad428e00762795d8f817d6cfa25505fe", null ],
-    [ "StorePrisoner", "df/da6/a23186.html#ade72b3e7a2129b8a4f722990aef5ac5f", null ],
-    [ "_prisonerCounter", "df/da6/a23186.html#a50c371edc425191f610a0e8a6b44d2ab", null ],
-    [ "_prisonersCell", "df/da6/a23186.html#a3492a327f4c0d637fd5701f3997c1887", null ],
-    [ "_prisonGUIDs", "df/da6/a23186.html#a9a737e495b638ec65fbd306c6aa0267c", null ]
+    [ "SpellIds", "df/da6/a23186.html#a2d0e9022edc8a9f6fc0e34330fda114a", [
+      [ "SPELL_SUMMON_WAVE_A_MOB", "df/da6/a23186.html#a2d0e9022edc8a9f6fc0e34330fda114aa19ea6e555692392677c74fccd206380b", null ],
+      [ "SPELL_SUMMON_WAVE_B_MOB", "df/da6/a23186.html#a2d0e9022edc8a9f6fc0e34330fda114aa938130293fb55c96d06462e407a24a89", null ],
+      [ "SPELL_SUMMON_WAVE_C_MOB", "df/da6/a23186.html#a2d0e9022edc8a9f6fc0e34330fda114aadc855654104e4ec0a09540e9b51cb098", null ],
+      [ "SPELL_SUMMON_WAVE_D_MOB", "df/da6/a23186.html#a2d0e9022edc8a9f6fc0e34330fda114aa3bbb32a8c4da3b06e9bf5da83f39970d", null ]
+    ] ],
+    [ "FilterTargets", "df/da6/a23186.html#a2a1a2e5069587f52ae968c84cd702eaf", null ],
+    [ "HandleHit", "df/da6/a23186.html#aa670812f42c3082f42e0f232ee6bee16", null ],
+    [ "PrepareSpellScript", "df/da6/a23186.html#a7fe65229c64c27909868f02439c1ef66", null ],
+    [ "Register", "df/da6/a23186.html#a0a8f29b524391ff257aba5cbdc355115", null ],
+    [ "Validate", "df/da6/a23186.html#ab8bcdcfcad2a9998d95567006817711e", null ]
 ];

@@ -1,8 +1,6 @@
 var a17086 =
 [
-    [ "npc_fos_leaderAI", "de/d85/a17090.html", "de/d85/a17090" ],
-    [ "npc_fos_leader", "d9/d9d/a17086.html#a4223072bc180e990ff9e01bf772def5b", null ],
-    [ "GetAI", "d9/d9d/a17086.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
-    [ "OnGossipHello", "d9/d9d/a17086.html#a3858054505d439902624378b9355f40d", null ],
-    [ "OnGossipSelect", "d9/d9d/a17086.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
+    [ "boss_dreadscaleAI", "de/d85/a17090.html", "de/d85/a17090" ],
+    [ "boss_dreadscale", "d9/d9d/a17086.html#ab3276e515419303358b0ee59bc92c12e", null ],
+    [ "GetAI", "d9/d9d/a17086.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
 ];

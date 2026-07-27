@@ -1,6 +1,6 @@
 var a14490 =
 [
-    [ "npc_brewfest_keg_reciver", "d5/d04/a14490.html#af12e7608f3f715650e6c265ac18920e4", null ],
-    [ "MoveInLineOfSight", "d5/d04/a14490.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
-    [ "sGossipSelect", "d5/d04/a14490.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
+    [ "boss_grilekAI", "d8/df0/a14494.html", "d8/df0/a14494" ],
+    [ "boss_grilek", "d5/d04/a14490.html#acffe0061db18c5725c8c290822c5fed7", null ],
+    [ "GetAI", "d5/d04/a14490.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
 ];

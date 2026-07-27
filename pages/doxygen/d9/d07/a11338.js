@@ -1,7 +1,8 @@
 var a11338 =
 [
-    [ "TrainerBuySpell", "d9/d07/a11338.html#a8afb92fb908d5efd54bcb78269069d39", null ],
-    [ "Read", "d9/d07/a11338.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
-    [ "SpellID", "d9/d07/a11338.html#ae342c806c8faabae54260a26659d49ea", null ],
-    [ "TrainerGUID", "d9/d07/a11338.html#aca1d9dc89b96415a5065a67f7083423c", null ]
+    [ "AutoStoreBagItem", "d9/d07/a11338.html#a09e4b117d8789d513a0e766986340140", null ],
+    [ "Read", "d9/d07/a11338.html#a172832ec72012278b000f38d761823b4", null ],
+    [ "DestinationBag", "d9/d07/a11338.html#a7472dfd7ccd78051bc8808832f8e74cb", null ],
+    [ "SourceBag", "d9/d07/a11338.html#a27e27653e6f00869070de7354adff52d", null ],
+    [ "SourceSlot", "d9/d07/a11338.html#a517202ccb270d78289630404beb61afc", null ]
 ];

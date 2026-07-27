@@ -1,7 +1,11 @@
 var a13274 =
 [
-    [ "HandleScriptEffect", "d1/d4e/a13274.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
-    [ "PrepareSpellScript", "d1/d4e/a13274.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
-    [ "Register", "d1/d4e/a13274.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
-    [ "Validate", "d1/d4e/a13274.html#a20f7416465ba1cc04426f24037e8074e", null ]
+    [ "boss_tenris_mirkblood", "d1/d4e/a13274.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
+    [ "DamageTaken", "d1/d4e/a13274.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
+    [ "EnterEvadeMode", "d1/d4e/a13274.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
+    [ "JustEngagedWith", "d1/d4e/a13274.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
+    [ "KilledUnit", "d1/d4e/a13274.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
+    [ "Reset", "d1/d4e/a13274.html#a88d46f6e972525979687b315db90dc30", null ],
+    [ "SpellHit", "d1/d4e/a13274.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
+    [ "_mirrorTarget", "d1/d4e/a13274.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
 ];

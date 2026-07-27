@@ -1,11 +1,9 @@
 var a14418 =
 [
-    [ "boss_marli", "dc/d6b/a14418.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
-    [ "_chargePlayer", "dc/d6b/a14418.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
-    [ "_schedulePhaseSpider", "dc/d6b/a14418.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
-    [ "_schedulePhaseTroll", "dc/d6b/a14418.html#ad6977930dac1cddd2162f7db1b239c83", null ],
-    [ "JustDied", "dc/d6b/a14418.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
-    [ "JustEngagedWith", "dc/d6b/a14418.html#ac74bd382c3dc826f7e4426bec3557094", null ],
-    [ "Reset", "dc/d6b/a14418.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
-    [ "_phase", "dc/d6b/a14418.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
+    [ "npc_zulaman_hostageAI", "dc/d6b/a14418.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
+    [ "JustDied", "dc/d6b/a14418.html#af87bdebb039f1da5736408cf3aad6487", null ],
+    [ "JustEngagedWith", "dc/d6b/a14418.html#af0aa229973da1a6230a854439658e9ed", null ],
+    [ "UpdateAI", "dc/d6b/a14418.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
+    [ "IsLoot", "dc/d6b/a14418.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
+    [ "PlayerGUID", "dc/d6b/a14418.html#a49f15c5a94d005c56218d00ac6732b82", null ]
 ];

@@ -1,5 +1,6 @@
 var a27934 =
 [
-    [ "go_veil_skith_cage", "d7/d30/a27934.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
-    [ "OnGossipHello", "d7/d30/a27934.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
+    [ "HandleProc", "d7/d30/a27934.html#a6b321d6ee3002f32b546aeaed0925183", null ],
+    [ "PrepareAuraScript", "d7/d30/a27934.html#a4186315ab8fa250fd108c2de1c650f9e", null ],
+    [ "Register", "d7/d30/a27934.html#a3817a49fbcac2d70ded5a39b3cce8ea7", null ]
 ];

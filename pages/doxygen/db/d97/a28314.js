@@ -1,5 +1,5 @@
 var a28314 =
 [
-    [ "npc_suns_reach_reclamation", "db/d97/a28314.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "db/d97/a28314.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
+    [ "go_hive_pod", "db/d97/a28314.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "db/d97/a28314.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

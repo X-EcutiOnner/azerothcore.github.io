@@ -1,11 +1,14 @@
 var a13522 =
 [
-    [ "boss_baroness_anastariAI", "d5/d29/a13522.html#acf180bbe881ba1f6e49c075254759c00", null ],
-    [ "JustDied", "d5/d29/a13522.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
-    [ "JustEngagedWith", "d5/d29/a13522.html#a7329455d99045e7002abffe09112a4ea", null ],
-    [ "Reset", "d5/d29/a13522.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
-    [ "SchedulePossession", "d5/d29/a13522.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
-    [ "UpdateAI", "d5/d29/a13522.html#a962e4e3091d126682825c326af5f6922", null ],
-    [ "_possessedTargetGuid", "d5/d29/a13522.html#a36e386b847c7032b5ce95a01070518ad", null ],
-    [ "_scheduler", "d5/d29/a13522.html#aa59518627a5e64e371dbbb45cfced75f", null ]
+    [ "boss_kirtonos_the_heraldAI", "d5/d29/a13522.html#af68c553db0889c22b7b4b76c868d38e7", null ],
+    [ "DoAction", "d5/d29/a13522.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
+    [ "EnterEvadeMode", "d5/d29/a13522.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
+    [ "JustDied", "d5/d29/a13522.html#a7ecf7396ebcb6f541586435996094f56", null ],
+    [ "JustEngagedWith", "d5/d29/a13522.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
+    [ "MovementInform", "d5/d29/a13522.html#a16379320eebb8223a79cf3927bdc507e", null ],
+    [ "UpdateAI", "d5/d29/a13522.html#a7eedcb1416d05b95f6110751119aea02", null ],
+    [ "events", "d5/d29/a13522.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
+    [ "events2", "d5/d29/a13522.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
+    [ "instance", "d5/d29/a13522.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
+    [ "TransformsCount", "d5/d29/a13522.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
 ];

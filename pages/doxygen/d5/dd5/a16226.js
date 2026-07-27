@@ -1,11 +1,7 @@
 var a16226 =
 [
-    [ "spell_hadronox_summon_periodic_aura", "d5/dd5/a16226.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
-    [ "HandlePeriodic", "d5/dd5/a16226.html#a048695baf71d307e5aaa00e54586c9f7", null ],
-    [ "OnApply", "d5/dd5/a16226.html#a4466547bc1a5259a33354f2008d6cce7", null ],
-    [ "PrepareAuraScript", "d5/dd5/a16226.html#a4205560054e5baed86aecba3b98fc202", null ],
-    [ "Register", "d5/dd5/a16226.html#a09efdcddaed4af2833139ca20ef94376", null ],
-    [ "Validate", "d5/dd5/a16226.html#a20827683249c17625242e205bb51f9e8", null ],
-    [ "_delay", "d5/dd5/a16226.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
-    [ "_spellEntry", "d5/dd5/a16226.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
+    [ "npc_ringoAI", "d7/dea/a16230.html", "d7/dea/a16230" ],
+    [ "npc_ringo", "d5/dd5/a16226.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
+    [ "GetAI", "d5/dd5/a16226.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
+    [ "OnQuestAccept", "d5/dd5/a16226.html#a9bb46a7574306da2e75dd9867ef6037a", null ]
 ];

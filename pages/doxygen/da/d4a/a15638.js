@@ -1,14 +1,13 @@
 var a15638 =
 [
-    [ "npc_draenei_survivorAI", "da/d4a/a15638.html#a8766dcf9afd6d26d619bead82b549a8f", null ],
-    [ "JustEngagedWith", "da/d4a/a15638.html#a6d0b790ad7466b14bf0bba0aa37eebf2", null ],
-    [ "MoveInLineOfSight", "da/d4a/a15638.html#a2b3f0a595fde04ad1e054331a596e225", null ],
-    [ "Reset", "da/d4a/a15638.html#a3db19a846ce3b4810321eb02d314633f", null ],
-    [ "SpellHit", "da/d4a/a15638.html#a079789d2f6a03b1c7b0ac7dc43a2550a", null ],
-    [ "UpdateAI", "da/d4a/a15638.html#aa3fd8e3747fa69b5156e932fddaf6fa7", null ],
-    [ "CanSayHelp", "da/d4a/a15638.html#a6bf8c4eb06fe661da0c850424843bd42", null ],
-    [ "pCaster", "da/d4a/a15638.html#a35ad8350e51fd520b75cd0289f19cb09", null ],
-    [ "RunAwayTimer", "da/d4a/a15638.html#a233885b12615bfbc927d8845d0cff3fd", null ],
-    [ "SayHelpTimer", "da/d4a/a15638.html#a8d77b110c6af6615d5d39e0870cbe890", null ],
-    [ "SayThanksTimer", "da/d4a/a15638.html#a4f2d829af97d6fb5ef13e3922ebe99e8", null ]
+    [ "boss_cthun", "da/d4a/a15638.html#a287ee7b65708971e4fdfa7b814486935", null ],
+    [ "DoAction", "da/d4a/a15638.html#a04ae38b67d358f1d34820b855aab3869", null ],
+    [ "JustDied", "da/d4a/a15638.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
+    [ "JustEngagedWith", "da/d4a/a15638.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
+    [ "Reset", "da/d4a/a15638.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
+    [ "ScheduleTasks", "da/d4a/a15638.html#a5a0514e56217bb3b30b22b2681542adb", null ],
+    [ "SummonedCreatureDies", "da/d4a/a15638.html#a49d76bb4cf30ee66fae6114313394961", null ],
+    [ "UpdateAI", "da/d4a/a15638.html#a7d2685597f1eec2459fe509e5b97681f", null ],
+    [ "_fleshTentaclesKilled", "da/d4a/a15638.html#a139de83ae488c40d40a4587509cd197d", null ],
+    [ "WisperTimer", "da/d4a/a15638.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
 ];

@@ -1,6 +1,6 @@
 var a26246 =
 [
-    [ "FilterTargets", "d4/d9f/a26246.html#aad5d183d0d7ea229cbfc11f751536624", null ],
-    [ "PrepareSpellScript", "d4/d9f/a26246.html#a68ba19142ae6eb04a2547495233700df", null ],
-    [ "Register", "d4/d9f/a26246.html#a22c313409438f94d29ab3e236a56c115", null ]
+    [ "OnRemove", "d4/d9f/a26246.html#a3803e6bbdb17e9a848376481581c993d", null ],
+    [ "PrepareAuraScript", "d4/d9f/a26246.html#a6f1340b824af4604e310666e89d05b7a", null ],
+    [ "Register", "d4/d9f/a26246.html#a3b361a478f1c035b706ac2e17499fb37", null ]
 ];

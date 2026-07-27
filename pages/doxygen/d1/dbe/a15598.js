@@ -1,8 +1,8 @@
 var a15598 =
 [
-    [ "npc_obsidian_nullifier", "d1/dbe/a15598.html#a9dbb6d681e348057564750fcd7e8050a", null ],
-    [ "JustEngagedWith", "d1/dbe/a15598.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
-    [ "Reset", "d1/dbe/a15598.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
-    [ "UpdateAI", "d1/dbe/a15598.html#a37cf1d335dd3735b262e82828c4f904a", null ],
-    [ "_targetGUIDs", "d1/dbe/a15598.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
+    [ "npc_obsidian_destroyer", "d1/dbe/a15598.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "d1/dbe/a15598.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "d1/dbe/a15598.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "d1/dbe/a15598.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "d1/dbe/a15598.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

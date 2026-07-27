@@ -1,6 +1,7 @@
 var a27762 =
 [
-    [ "go_witherbark_totem_bundleAI", "d2/d18/a27762.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "d2/d18/a27762.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "d2/d18/a27762.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "CalculateAmount", "d2/d18/a27762.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
+    [ "PrepareAuraScript", "d2/d18/a27762.html#a20dad49a99420556f393a16525eb14b4", null ],
+    [ "Register", "d2/d18/a27762.html#ad7d339ab137ebd640981f7789e1757f0", null ],
+    [ "Validate", "d2/d18/a27762.html#a341acb2dd25c1db94777f7036f3338ac", null ]
 ];

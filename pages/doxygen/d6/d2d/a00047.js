@@ -1,5 +1,5 @@
 var a00047 =
 [
-    [ "ExtractGameobjectModels", "d6/d2d/a00047.html#a7b3d0cbf404ed32359e354ccf6e34392", null ],
-    [ "ExtractSingleModel", "d6/d2d/a00047.html#a6a96194f748b715f0400249583336ae5", null ]
+    [ "ACORE_LINKAGE_TYPE_STR", "d6/d2d/a00047.html#a498cc8d79612cf645e7afc2ceb4174f3", null ],
+    [ "AZEROTH_PLATFORM_STR", "d6/d2d/a00047.html#af7cd76a18bc19a0ec34ac7693e406971", null ]
 ];

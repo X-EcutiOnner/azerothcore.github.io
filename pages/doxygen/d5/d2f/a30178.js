@@ -1,16 +1,15 @@
 var a30178 =
 [
-    [ "amount", "d5/d2f/a30178.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
-    [ "aura_id", "d5/d2f/a30178.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
-    [ "charges", "d5/d2f/a30178.html#ade74be0906ef080347ac81ed48379cd1", null ],
-    [ "description", "d5/d2f/a30178.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
-    [ "EnchantmentCondition", "d5/d2f/a30178.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
-    [ "GemID", "d5/d2f/a30178.html#a324fd42b7184f5c626c33323a4d72b07", null ],
-    [ "ID", "d5/d2f/a30178.html#af46fa8808024e75705b812b695bd1590", null ],
-    [ "requiredLevel", "d5/d2f/a30178.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
-    [ "requiredSkill", "d5/d2f/a30178.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
-    [ "requiredSkillValue", "d5/d2f/a30178.html#a7a57764dad60c9369826638c1355127e", null ],
-    [ "slot", "d5/d2f/a30178.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
-    [ "spellid", "d5/d2f/a30178.html#a694edc79cf8ba571338bff2a3aad512d", null ],
-    [ "type", "d5/d2f/a30178.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
+    [ "toMMAPTileRecastConfig", "d5/d2f/a30178.html#ad46c79822cfc2af7b0fbcab1f4c617fa", null ],
+    [ "baseUnitDim", "d5/d2f/a30178.html#a9e09d86e08925e501f9f9a5d73f9119c", null ],
+    [ "cellSizeHorizontal", "d5/d2f/a30178.html#a4dfcfc16d4c854bc210d8c6827d27ba7", null ],
+    [ "cellSizeVertical", "d5/d2f/a30178.html#a0b49e8a9b40c7bed81a28fb5b284c735", null ],
+    [ "maxSimplificationError", "d5/d2f/a30178.html#a37fbb64246708db0e7c9788d8f06c04b", null ],
+    [ "tilesPerMapEdge", "d5/d2f/a30178.html#a14a858b17d96f6d5945ecfa77bc0fb00", null ],
+    [ "vertexPerMapEdge", "d5/d2f/a30178.html#adba40fb00d24af999a1970e3a5fed198", null ],
+    [ "vertexPerTileEdge", "d5/d2f/a30178.html#ae7421270c917171607ff972483df0ba1", null ],
+    [ "walkableClimb", "d5/d2f/a30178.html#a5501534adbc4018b5047599c12a2e582", null ],
+    [ "walkableHeight", "d5/d2f/a30178.html#a3513a1b33d8682303eae1eaa30615a07", null ],
+    [ "walkableRadius", "d5/d2f/a30178.html#a0fd92998a753ea4ae76fac8c649645ac", null ],
+    [ "walkableSlopeAngle", "d5/d2f/a30178.html#afa96a254067d2173288479cc60a6c97c", null ]
 ];

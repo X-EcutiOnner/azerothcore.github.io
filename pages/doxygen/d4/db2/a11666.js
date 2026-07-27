@@ -1,6 +1,6 @@
 var a11666 =
 [
-    [ "ChannelTargetData", "d4/db2/a11666.html#a26f2a2037750712d8718d9537603e3a1", null ],
-    [ "channelGUID", "d4/db2/a11666.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
-    [ "spellDst", "d4/db2/a11666.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
+    [ "WorldStateInfo", "d4/db2/a11666.html#a64fd2e4da7035ea6c01b8ab0819d2f86", null ],
+    [ "Value", "d4/db2/a11666.html#afe5a0e98713c986a17f431795c488c6c", null ],
+    [ "VariableID", "d4/db2/a11666.html#a627bba237bce23aff74fd2bf7a274657", null ]
 ];

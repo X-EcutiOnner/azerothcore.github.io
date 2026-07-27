@@ -1,9 +1,20 @@
 var a07722 =
 [
-    [ "entry", "db/d64/a07722.html#a4c6980a035279ca45e88a2ddc0beb0b5", null ],
-    [ "o", "db/d64/a07722.html#a785703f50dcafda5888fb76af82a09da", null ],
-    [ "type", "db/d64/a07722.html#aa21624a51b1fbfc474d0c64f4996cb9b", null ],
-    [ "x", "db/d64/a07722.html#a55bd18cb9ea27748a07dd91f6783de23", null ],
-    [ "y", "db/d64/a07722.html#a908fbf198d908963e77630b42deea147", null ],
-    [ "z", "db/d64/a07722.html#a4a49f5cbb58764ea9c137fc010e898c6", null ]
+    [ "ArenaMatchmakerRating", "db/d64/a07722.html#aebaba68d0d75e08eb909975d70ab7084", null ],
+    [ "ArenaTeamId", "db/d64/a07722.html#a62d4963600711b2476d6de964fc51f5e", null ],
+    [ "ArenaTeamRating", "db/d64/a07722.html#a167a97bcd0ee298dfc49cabc4193fd3e", null ],
+    [ "ArenaType", "db/d64/a07722.html#a607a585ca374dc2cf9e8f5e460465f22", null ],
+    [ "BgTypeId", "db/d64/a07722.html#aad98458292aca41fc7feb2e63ba5125f", null ],
+    [ "BracketId", "db/d64/a07722.html#a99ed2f2dc9510c77cbe1fdf1497ce5d4", null ],
+    [ "GroupType", "db/d64/a07722.html#af4ad41d00ee448097eb4b7e468f336f8", null ],
+    [ "IsInvitedToBGInstanceGUID", "db/d64/a07722.html#a0261df1066e01602f475e9a08e142883", null ],
+    [ "IsRated", "db/d64/a07722.html#af6bac7c32a8e3e7faf647a4f6b6722a0", null ],
+    [ "JoinTime", "db/d64/a07722.html#a44939a98ff1ec940e42e79faf31a2e9a", null ],
+    [ "OpponentsMatchmakerRating", "db/d64/a07722.html#a558a2febf6dcc2aed2ddedfd1f5d342a", null ],
+    [ "OpponentsTeamRating", "db/d64/a07722.html#adf219cc12cebeaddebf8c04c5004c30a", null ],
+    [ "Players", "db/d64/a07722.html#ae5912a881a5ecaa761ea28c87e6c45ad", null ],
+    [ "PreviousOpponentsTeamId", "db/d64/a07722.html#a2fac6fffa7bec4507fdde7632e2b4df0", null ],
+    [ "RealTeamID", "db/d64/a07722.html#a972df7095f38b6f2617bc12a67ac30f7", null ],
+    [ "RemoveInviteTime", "db/d64/a07722.html#aefe5994744194e7db9110fb36fa9c4bb", null ],
+    [ "teamId", "db/d64/a07722.html#a2303f13880bbac9faf4b1fd4fc6334d5", null ]
 ];

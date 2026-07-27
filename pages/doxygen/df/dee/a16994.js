@@ -1,5 +1,7 @@
 var a16994 =
 [
-    [ "achievement_oh_novos", "df/dee/a16994.html#a31ca1f458c384401af107cb8f709ef61", null ],
-    [ "OnCheck", "df/dee/a16994.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
+    [ "npc_toc_enh_shamanAI", "df/dee/a16994.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
+    [ "myCanCast", "df/dee/a16994.html#a8a38da4063a22361b25835a67f14ff52", null ],
+    [ "UpdateAI", "df/dee/a16994.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
+    [ "events", "df/dee/a16994.html#adec973540bf3b046f54547fb845c06b1", null ]
 ];

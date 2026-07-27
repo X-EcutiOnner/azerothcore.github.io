@@ -1,7 +1,7 @@
 var a26402 =
 [
-    [ "OnProc", "d0/daf/a26402.html#a00545522da76162e837a3f9ce1f38988", null ],
-    [ "PrepareAuraScript", "d0/daf/a26402.html#ae11900dc2baee4882ffbc7fde71204e9", null ],
-    [ "Register", "d0/daf/a26402.html#aa326bd80c927ee5ffb06b5676e8d5b40", null ],
-    [ "Validate", "d0/daf/a26402.html#af5525b7097363c3357db853b46a26bd7", null ]
+    [ "HandleProc", "d0/daf/a26402.html#adb54fb9014a1a5fffae3cb67fcb924a9", null ],
+    [ "PrepareAuraScript", "d0/daf/a26402.html#adfc37ee6f995323b97f75b6c17ad6379", null ],
+    [ "Register", "d0/daf/a26402.html#ac30f4c2af665c6589be24e60d3f84dad", null ],
+    [ "Validate", "d0/daf/a26402.html#a42b0f4c6259f7b972f600e7c28855d1d", null ]
 ];

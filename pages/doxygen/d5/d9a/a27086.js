@@ -1,8 +1,8 @@
 var a27086 =
 [
-    [ "CheckFireTotem", "d5/d9a/a27086.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
-    [ "HandleDummy", "d5/d9a/a27086.html#a179d07e7090cec396a7845754e545e8e", null ],
-    [ "PrepareSpellScript", "d5/d9a/a27086.html#a8311cc106da26267e90acd98698cb737", null ],
-    [ "Register", "d5/d9a/a27086.html#abae5a4961888e6ba2d876e450307e362", null ],
-    [ "Validate", "d5/d9a/a27086.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
+    [ "HandleDummy", "d5/d9a/a27086.html#a1afcd9c6ab96c87db8aa4899d0830899", null ],
+    [ "Load", "d5/d9a/a27086.html#a11d3cd0eccd4895f5cd9d2721bd3fd0c", null ],
+    [ "PrepareSpellScript", "d5/d9a/a27086.html#a252784bb4b438750db5ef7f905477140", null ],
+    [ "Register", "d5/d9a/a27086.html#ab93554e82cbed0c78452846c95247584", null ],
+    [ "Validate", "d5/d9a/a27086.html#a33404726f5e5986b263eb0a0beba9443", null ]
 ];

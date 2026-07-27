@@ -1,9 +1,5 @@
 var a28254 =
 [
-    [ "npc_herald_of_the_lich_king", "d2/de2/a28254.html#a62e373796ce4e6509692e6837cdb561f", null ],
-    [ "ChangeZoneEventStatus", "d2/de2/a28254.html#a30c44f2f62badd27b105a55527d40670", null ],
-    [ "DoAction", "d2/de2/a28254.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
-    [ "InitializeAI", "d2/de2/a28254.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
-    [ "UpdateAI", "d2/de2/a28254.html#a21a5093a46959f4b69777b63de12c557", null ],
-    [ "UpdateWeather", "d2/de2/a28254.html#a3c6d076171596c9ce472cddda18a42be", null ]
+    [ "go_jump_a_tron", "d2/de2/a28254.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
+    [ "OnGossipHello", "d2/de2/a28254.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
 ];

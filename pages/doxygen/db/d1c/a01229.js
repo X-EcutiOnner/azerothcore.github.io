@@ -1,20 +1,77 @@
 var a01229 =
 [
-    [ "Corpse", "d5/d95/a08372.html", "d5/d95/a08372" ],
-    [ "CORPSE_RECLAIM_RADIUS", "db/d1c/a01229.html#a1cebf109f41dcdac8a90086696642782", null ],
-    [ "MAX_CORPSE_TYPE", "db/d1c/a01229.html#aec0512ffe7d6a8f7dd8330c334bb4fc3", null ],
-    [ "CorpseFlags", "db/d1c/a01229.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537c", [
-      [ "CORPSE_FLAG_NONE", "db/d1c/a01229.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca30260079b14373a47aef21b99e8757a2", null ],
-      [ "CORPSE_FLAG_BONES", "db/d1c/a01229.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca47ec12fa0520573d7d8ff9231ca4eb8b", null ],
-      [ "CORPSE_FLAG_UNK1", "db/d1c/a01229.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca043171119fe69fae07f3668763d40c7c", null ],
-      [ "CORPSE_FLAG_UNK2", "db/d1c/a01229.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca769ec96151b713170c051ee6236bbd5e", null ],
-      [ "CORPSE_FLAG_HIDE_HELM", "db/d1c/a01229.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca830d0cde7665a938cd48d4018ae0df79", null ],
-      [ "CORPSE_FLAG_HIDE_CLOAK", "db/d1c/a01229.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca25bc5b9c02c2cce38be9bb32c2ad335a", null ],
-      [ "CORPSE_FLAG_LOOTABLE", "db/d1c/a01229.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537caeb7f1630dc7c0b062b809e65cd4e5f80", null ]
+    [ "sWorld", "d6/de9/a05083.html#ga05dfb35c344e5b947a19e4284e7f5fa7", null ],
+    [ "BillingPlanFlags", "d6/de9/a05083.html#gac11f34aad352a3782f299b3978607d16", [
+      [ "SESSION_NONE", "d6/de9/a05083.html#ggac11f34aad352a3782f299b3978607d16a0868dba320a07a5c9d31e968134dcfe6", null ],
+      [ "SESSION_UNUSED", "d6/de9/a05083.html#ggac11f34aad352a3782f299b3978607d16a7c01173015d547564263c9c0cbbda246", null ],
+      [ "SESSION_RECURRING_BILL", "d6/de9/a05083.html#ggac11f34aad352a3782f299b3978607d16a31aebb0359dbce580fa28fe86fbd67ae", null ],
+      [ "SESSION_FREE_TRIAL", "d6/de9/a05083.html#ggac11f34aad352a3782f299b3978607d16a8cec6c9d7436da0c2f14369c954f1e5f", null ],
+      [ "SESSION_IGR", "d6/de9/a05083.html#ggac11f34aad352a3782f299b3978607d16ab5bf7f117aa8390fe1605e95192bbc6e", null ],
+      [ "SESSION_USAGE", "d6/de9/a05083.html#ggac11f34aad352a3782f299b3978607d16a2f71e12af483f593df7e23a3232fd3a8", null ],
+      [ "SESSION_TIME_MIXTURE", "d6/de9/a05083.html#ggac11f34aad352a3782f299b3978607d16a19fb811c6132abdc3968a13c63eef2c1", null ],
+      [ "SESSION_RESTRICTED", "d6/de9/a05083.html#ggac11f34aad352a3782f299b3978607d16a63c4b8495ee7a07c4672f7ae0a4539cf", null ],
+      [ "SESSION_ENABLE_CAIS", "d6/de9/a05083.html#ggac11f34aad352a3782f299b3978607d16a60b5937926d1517dc374a756f0e3eb13", null ]
     ] ],
-    [ "CorpseType", "db/d1c/a01229.html#a43260eb47484e62a16a868f79646c683", [
-      [ "CORPSE_BONES", "db/d1c/a01229.html#a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356", null ],
-      [ "CORPSE_RESURRECTABLE_PVE", "db/d1c/a01229.html#a43260eb47484e62a16a868f79646c683a79e10cac636d94dc5aa8379ecce5cc78", null ],
-      [ "CORPSE_RESURRECTABLE_PVP", "db/d1c/a01229.html#a43260eb47484e62a16a868f79646c683a90cccb41a96804ac3340b13ff68241ba", null ]
-    ] ]
+    [ "RealmZone", "d6/de9/a05083.html#ga26aa1cb8ae0de12da27fef70a5b9c7ab", [
+      [ "REALM_ZONE_UNKNOWN", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba507b40d8e1860051d9bd9d2fcada3053", null ],
+      [ "REALM_ZONE_DEVELOPMENT", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7abae7a19f9c62c04561c69306240938c64e", null ],
+      [ "REALM_ZONE_UNITED_STATES", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba6832d41458638376fa102ad339beafd2", null ],
+      [ "REALM_ZONE_OCEANIC", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba4ac5df4b9eff2cf69d2312d1cf3174db", null ],
+      [ "REALM_ZONE_LATIN_AMERICA", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba3b6507bcbebedb32e913002e218ff156", null ],
+      [ "REALM_ZONE_TOURNAMENT_5", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba2f2f733f59cd3f944091a5ecbefba3a5", null ],
+      [ "REALM_ZONE_KOREA", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba4f8f0506d09c5079326b000d5d074611", null ],
+      [ "REALM_ZONE_TOURNAMENT_7", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba177e3d98ca0a68108d04800fec4c5d86", null ],
+      [ "REALM_ZONE_ENGLISH", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba81e54f655d7352ad0fb5f74b7a7af326", null ],
+      [ "REALM_ZONE_GERMAN", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7abafea27caf1483a582a7377c67b122334b", null ],
+      [ "REALM_ZONE_FRENCH", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba86bbc26ecd3cbf3bb1d2337033394ed8", null ],
+      [ "REALM_ZONE_SPANISH", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba4a3d3718b458559db2843274259e9caf", null ],
+      [ "REALM_ZONE_RUSSIAN", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7abae5bd48e696a93fdab8960b7a2880dd61", null ],
+      [ "REALM_ZONE_TOURNAMENT_13", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba835b38db59060e7ff994029348d14f52", null ],
+      [ "REALM_ZONE_TAIWAN", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7abafcdb39c5842623895a4019df95d6dad8", null ],
+      [ "REALM_ZONE_TOURNAMENT_15", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba600d0faad5b165a2d50d8a857c1caed7", null ],
+      [ "REALM_ZONE_CHINA", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7abac109484ffee5df2c967a65b4104d22e5", null ],
+      [ "REALM_ZONE_CN1", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7abaf10182037fac98effa36883691f4fc0e", null ],
+      [ "REALM_ZONE_CN2", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba03d0c4dd430afeb66acc56c0a9c104aa", null ],
+      [ "REALM_ZONE_CN3", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba9b933190ce59532ec60b42454d0fca87", null ],
+      [ "REALM_ZONE_CN4", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba44c3162fd70316c504cd4e8068559a4e", null ],
+      [ "REALM_ZONE_CN5", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7abaccb2f60b67efa38a5d8454df249db838", null ],
+      [ "REALM_ZONE_CN6", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7abae4f84dfc27fee4e4426b8f35f010823f", null ],
+      [ "REALM_ZONE_CN7", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7abacd29849c85298b0eae1a1b38a9a80c51", null ],
+      [ "REALM_ZONE_CN8", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba7a38c263a84023b9308f12797e3ff255", null ],
+      [ "REALM_ZONE_TOURNAMENT_25", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba47aaebf38c22faea919f15103ca564f8", null ],
+      [ "REALM_ZONE_TEST_SERVER", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba09e6d6b40910f762c092171266a042cc", null ],
+      [ "REALM_ZONE_TOURNAMENT_27", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7abad36f14004bd6c21e49d12726e8c36f97", null ],
+      [ "REALM_ZONE_QA_SERVER", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba984d95c5dabcb241fc9e4888e6544417", null ],
+      [ "REALM_ZONE_CN9", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba97fbf4c193a6fb9bf944a77365937a45", null ],
+      [ "REALM_ZONE_TEST_SERVER_2", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7abab5eb75439f5e692fce74a91cec2c5692", null ],
+      [ "REALM_ZONE_CN10", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba9ca30377545fe1b8c0ba84485094f9c2", null ],
+      [ "REALM_ZONE_CTC", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7abad9087749f4814ca8998c10b585a6a64f", null ],
+      [ "REALM_ZONE_CNC", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba614f2939bc31c0a396c2017c8baac109", null ],
+      [ "REALM_ZONE_CN1_4", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba75686e8652a360819672f11c1497d588", null ],
+      [ "REALM_ZONE_CN2_6_9", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba6be2d3d4688a94934460fbfd97606f6b", null ],
+      [ "REALM_ZONE_CN3_7", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7abaa870d541b02010203bcdaac275013fb8", null ],
+      [ "REALM_ZONE_CN5_8", "d6/de9/a05083.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba695f1e2830267d3aaf0ba4131608e5cd", null ]
+    ] ],
+    [ "ShutdownExitCode", "d6/de9/a05083.html#ga06d1e4f345fc9b7a45e5b1b9f1919efc", [
+      [ "SHUTDOWN_EXIT_CODE", "d6/de9/a05083.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf18aae50edbb1083eb3b45656b52f999", null ],
+      [ "ERROR_EXIT_CODE", "d6/de9/a05083.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08", null ],
+      [ "RESTART_EXIT_CODE", "d6/de9/a05083.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcabfbc19d06d002a2b3e03ff2e13c3fb61", null ]
+    ] ],
+    [ "ShutdownMask", "d6/de9/a05083.html#ga11501f5782bd40fa2c7b56d7b12221e2", [
+      [ "SHUTDOWN_MASK_RESTART", "d6/de9/a05083.html#gga11501f5782bd40fa2c7b56d7b12221e2a8198be8f6c6a5b3e7588ffd64a95312f", null ],
+      [ "SHUTDOWN_MASK_IDLE", "d6/de9/a05083.html#gga11501f5782bd40fa2c7b56d7b12221e2aecfb61fe30dad8b80bb93881cafe105d", null ]
+    ] ],
+    [ "WorldTimers", "d6/de9/a05083.html#ga4dcd824b4592ac27595e16471efe0520", [
+      [ "WUPDATE_UPTIME", "d6/de9/a05083.html#gga4dcd824b4592ac27595e16471efe0520aa7880547231a7f7d8798a527cf0aad9c", null ],
+      [ "WUPDATE_EVENTS", "d6/de9/a05083.html#gga4dcd824b4592ac27595e16471efe0520ad21d0e0cae7555877c5805ce446e2628", null ],
+      [ "WUPDATE_CLEANDB", "d6/de9/a05083.html#gga4dcd824b4592ac27595e16471efe0520a26e7cf66fbcba5c52d1716b77262981f", null ],
+      [ "WUPDATE_AUTOBROADCAST", "d6/de9/a05083.html#gga4dcd824b4592ac27595e16471efe0520a8ed1fe2bb98e8e56fe8604d549af261d", null ],
+      [ "WUPDATE_MAILBOXQUEUE", "d6/de9/a05083.html#gga4dcd824b4592ac27595e16471efe0520a24504584cc49b4459dc084dd0af67e69", null ],
+      [ "WUPDATE_PINGDB", "d6/de9/a05083.html#gga4dcd824b4592ac27595e16471efe0520a4561c29a80e9042cfd1fb7c5ccde1c4a", null ],
+      [ "WUPDATE_5_SECS", "d6/de9/a05083.html#gga4dcd824b4592ac27595e16471efe0520a81759ebc68e35638c5d56ee97fb7afc0", null ],
+      [ "WUPDATE_WHO_LIST", "d6/de9/a05083.html#gga4dcd824b4592ac27595e16471efe0520aa227ebddbdbccda039ebb8e732dcdb56", null ],
+      [ "WUPDATE_COUNT", "d6/de9/a05083.html#gga4dcd824b4592ac27595e16471efe0520a1c180839188a9324a906a5602833f604", null ]
+    ] ],
+    [ "getWorldInstance", "d6/de9/a05083.html#ga6bf640d0ef6703c32d9fa1618826319b", null ],
+    [ "realm", "d6/de9/a05083.html#gab842e78f86995775c494437356620779", null ]
 ];

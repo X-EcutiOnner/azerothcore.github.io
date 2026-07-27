@@ -1,8 +1,5 @@
 var a28710 =
 [
-    [ "DamagedDisplayId", "d1/da0/a28710.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
-    [ "DestroyedDisplayId", "d1/da0/a28710.html#afc891df0c9491a34f784e8f141434be5", null ],
-    [ "Id", "d1/da0/a28710.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
-    [ "RebuildingDisplayId", "d1/da0/a28710.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
-    [ "SmokeDisplayId", "d1/da0/a28710.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
+    [ "go_transport_the_thundercaller", "d1/da0/a28710.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
+    [ "EventInform", "d1/da0/a28710.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
 ];

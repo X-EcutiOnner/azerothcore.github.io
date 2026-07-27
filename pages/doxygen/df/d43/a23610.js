@@ -1,6 +1,8 @@
 var a23610 =
 [
-    [ "npc_nether_drakeAI", "d9/df4/a23614.html", "d9/df4/a23614" ],
-    [ "npc_nether_drake", "df/d43/a23610.html#a253ec3c91857b899ea9e2c824870b760", null ],
-    [ "GetAI", "df/d43/a23610.html#a58d269e2c73cae07bb507162b742fe8f", null ]
+    [ "HandleDummyApply", "df/d43/a23610.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "df/d43/a23610.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "df/d43/a23610.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "df/d43/a23610.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "df/d43/a23610.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

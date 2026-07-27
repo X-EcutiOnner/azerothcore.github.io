@@ -1,5 +1,7 @@
 var a22086 =
 [
-    [ "go_finklestein_cauldron", "d6/d1a/a22086.html#a8aa352319c54526069588dacd75ab883", null ],
-    [ "OnGossipHello", "d6/d1a/a22086.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
+    [ "npc_tirions_gambit_tirionAI", "db/d79/a22090.html", "db/d79/a22090" ],
+    [ "npc_tirions_gambit_tirion", "d6/d1a/a22086.html#ad52abd46ccdd3b4409671679434c193c", null ],
+    [ "GetAI", "d6/d1a/a22086.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
+    [ "OnGossipSelect", "d6/d1a/a22086.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
 ];

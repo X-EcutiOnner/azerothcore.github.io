@@ -1,8 +1,10 @@
 var a18758 =
 [
-    [ "npc_blistering_zombieAI", "d6/d1c/a18758.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
-    [ "DamageTaken", "d6/d1c/a18758.html#adf031992078214f90d859df2b54aac91", null ],
-    [ "UpdateAI", "d6/d1c/a18758.html#ae081898b8dcaf45cd3069e79021de452", null ],
-    [ "casted", "d6/d1c/a18758.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
-    [ "timer", "d6/d1c/a18758.html#a8b865c2a87b1fc020d8250767febab0a", null ]
+    [ "HandleScript", "d6/d1c/a18758.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
+    [ "Load", "d6/d1c/a18758.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
+    [ "PrepareSpellScript", "d6/d1c/a18758.html#afcc1efc69d73086a9ab686855911e516", null ],
+    [ "Register", "d6/d1c/a18758.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
+    [ "ReplaceTarget", "d6/d1c/a18758.html#a01cb7d25bef14a2266d81594544f6283", null ],
+    [ "SelectTarget", "d6/d1c/a18758.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
+    [ "_target", "d6/d1c/a18758.html#a3a84a9d7109845d201b395f05f66d109", null ]
 ];

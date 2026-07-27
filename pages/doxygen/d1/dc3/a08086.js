@@ -1,8 +1,7 @@
 var a08086 =
 [
-    [ "CurValue", "d1/dc3/a08086.html#a110169c51e3dac271b4ba6d10bbbadac", null ],
-    [ "KnownRecipes", "d1/dc3/a08086.html#a1a44c7eb6dbf3a16e8d2db47821bb39a", null ],
-    [ "MaxValue", "d1/dc3/a08086.html#a6c48d3a6afddf895b97ec9b964dfd86c", null ],
-    [ "Owner", "d1/dc3/a08086.html#a085e0aa9f79129920af96046c4fc29b1", null ],
-    [ "Spell", "d1/dc3/a08086.html#a2b0ca4fecc7ba965a329afa6a184cf07", null ]
+    [ "value_type", "d1/dc3/a08086.html#a7a7bb2f2de595ea6ca37885da6f63b9f", null ],
+    [ "TryConsume", "d1/dc3/a08086.html#ad98dd12bf2b9d4c5a3812d91232c4b8e", null ],
+    [ "_storage", "d1/dc3/a08086.html#a0480bb23bf5c47ac03935901211952b5", null ],
+    [ "_string", "d1/dc3/a08086.html#ae0538263243f423c8f86459300aec8d7", null ]
 ];

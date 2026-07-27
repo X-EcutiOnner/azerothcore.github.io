@@ -1,10 +1,11 @@
 var a29814 =
 [
-    [ "ADTFile", "df/d20/a29814.html#a763f0f9c1106700987797864b2fdb006", null ],
-    [ "~ADTFile", "df/d20/a29814.html#ad1533f5b630a70b6ff95861e64960de0", null ],
-    [ "init", "df/d20/a29814.html#ab9ba3b1a2aac611bec5bfe4a454e4042", null ],
-    [ "_file", "df/d20/a29814.html#a7f3071e63be08fe3288d5ab03b5b8acf", null ],
-    [ "Adtfilename", "df/d20/a29814.html#a07c82112e26b96a87e22f1c7bec9c72e", null ],
-    [ "ModelInstanceNames", "df/d20/a29814.html#a6601e20fed78c54bb281ad3bd0ce7800", null ],
-    [ "WmoInstanceNames", "df/d20/a29814.html#acd96c287a01828bf3e49fb599a3b5d81", null ]
+    [ "SetUp", "df/d20/a29814.html#a236c5547ff9855b39315642ec2e79c4e", null ],
+    [ "SimulateGmVisibleOff", "df/d20/a29814.html#a9276b43219f395a537a0ee51ab00905c", null ],
+    [ "SimulateGmVisibleOn", "df/d20/a29814.html#afc09b0c8806fbf445e25f8f194a8228b", null ],
+    [ "TearDown", "df/d20/a29814.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
+    [ "originalWorld", "df/d20/a29814.html#a8f7396466d2b20742f66e14462de96a4", null ],
+    [ "player", "df/d20/a29814.html#a97049ae029c9354fdf3194be77f36dfa", null ],
+    [ "session", "df/d20/a29814.html#a2f87ec522777defa8b023274b1d78c35", null ],
+    [ "worldMock", "df/d20/a29814.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
 ];

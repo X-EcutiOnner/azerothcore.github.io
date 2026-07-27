@@ -1,5 +1,7 @@
 var a10966 =
 [
-    [ "GuildDeclineInvitation", "d5/d44/a10966.html#a11a70a9974bb139e53f76c8b78944fe7", null ],
-    [ "Read", "d5/d44/a10966.html#ad034438e18a7feddbac376a599c1e01a", null ]
+    [ "CalendarComplain", "d5/d44/a10966.html#a35252d9ee72257a0771f3faa274f8029", null ],
+    [ "Read", "d5/d44/a10966.html#ae955f181fe7b36ba360d5b8e9a53db45", null ],
+    [ "ComplainGuid", "d5/d44/a10966.html#a3a8ba139be8eef32193658fa235fc4c5", null ],
+    [ "EventId", "d5/d44/a10966.html#a3cc5c6b822a697df900826b64b5b9759", null ]
 ];

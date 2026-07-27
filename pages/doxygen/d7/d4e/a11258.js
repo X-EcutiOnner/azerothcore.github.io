@@ -1,9 +1,7 @@
 var a11258 =
 [
-    [ "Weather", "d7/d4e/a11258.html#aa404c94fec05b825454a7309827767c6", null ],
-    [ "Weather", "d7/d4e/a11258.html#a28f45d81441d2dde6917380978dfb4d0", null ],
-    [ "Write", "d7/d4e/a11258.html#a641c7de3e527dcdff07b3f602880b5c8", null ],
-    [ "Abrupt", "d7/d4e/a11258.html#a0abe1fcb36d21ac246174cdc98c0e261", null ],
-    [ "Intensity", "d7/d4e/a11258.html#ac37cee2364921a50e2b1ec1b19ed69b7", null ],
-    [ "WeatherID", "d7/d4e/a11258.html#a32e56458b1e562c124cfc0288a578134", null ]
+    [ "InstanceResetFailed", "d7/d4e/a11258.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
+    [ "Write", "d7/d4e/a11258.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
+    [ "MapId", "d7/d4e/a11258.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
+    [ "Reason", "d7/d4e/a11258.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
 ];

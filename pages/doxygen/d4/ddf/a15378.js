@@ -1,6 +1,6 @@
 var a15378 =
 [
-    [ "HandleDamageCalc", "d4/ddf/a15378.html#a03eb92eff300872cd5fca452a99375ab", null ],
-    [ "PrepareSpellScript", "d4/ddf/a15378.html#ac07421b62bb6044dad89431839a70bd8", null ],
-    [ "Register", "d4/ddf/a15378.html#a70cbf764ab475e2358fa6630798cab9d", null ]
+    [ "instance_the_black_morass_InstanceMapScript", "da/dbb/a15382.html", "da/dbb/a15382" ],
+    [ "instance_the_black_morass", "d4/ddf/a15378.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
+    [ "GetInstanceScript", "d4/ddf/a15378.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
 ];

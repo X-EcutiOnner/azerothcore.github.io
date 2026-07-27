@@ -1,7 +1,7 @@
 var a25722 =
 [
-    [ "HandleDummy", "d0/d41/a25722.html#aec0b2ad3b10f2ccbc755cf7278a5ed46", null ],
-    [ "PrepareSpellScript", "d0/d41/a25722.html#ac1ba0d23cbf805c234ac9d898f6bab85", null ],
-    [ "Register", "d0/d41/a25722.html#afd1588dc55730c52a922f37e60ec134a", null ],
-    [ "Validate", "d0/d41/a25722.html#aaed3ba3d986173b5941e048370d5ebe2", null ]
+    [ "FilterTargets", "d0/d41/a25722.html#affede599b86e05e6475fd64a60268e8e", null ],
+    [ "Load", "d0/d41/a25722.html#a1343407ca8b571140ed2ecf5501bf378", null ],
+    [ "PrepareSpellScript", "d0/d41/a25722.html#a12ff05520225209b476b3ba8422de1c6", null ],
+    [ "Register", "d0/d41/a25722.html#ac99786385187e21fb02e65e9b9719400", null ]
 ];

@@ -1,5 +1,6 @@
 var a27874 =
 [
-    [ "go_southfury_moonstone", "d9/d8a/a27874.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
-    [ "OnGossipHello", "d9/d8a/a27874.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
+    [ "HandleHeal", "d9/d8a/a27874.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "d9/d8a/a27874.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "d9/d8a/a27874.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

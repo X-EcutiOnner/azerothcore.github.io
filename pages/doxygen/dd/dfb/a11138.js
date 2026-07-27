@@ -1,7 +1,6 @@
 var a11138 =
 [
-    [ "InstanceResetFailed", "dd/dfb/a11138.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
-    [ "Write", "dd/dfb/a11138.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
-    [ "MapId", "dd/dfb/a11138.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
-    [ "Reason", "dd/dfb/a11138.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
+    [ "GuildUpdateInfoText", "dd/dfb/a11138.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
+    [ "Read", "dd/dfb/a11138.html#a7019344fef99c5479602d7bc1176e9ee", null ],
+    [ "InfoText", "dd/dfb/a11138.html#a786802ce427465d66a4cea1365743975", null ]
 ];

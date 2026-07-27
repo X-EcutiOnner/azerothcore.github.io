@@ -1,7 +1,7 @@
 var a28682 =
 [
-    [ "Displayid", "d7/d94/a28682.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
-    [ "ExtendedDisplayInfoID", "d7/d94/a28682.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
-    [ "ModelId", "d7/d94/a28682.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
-    [ "scale", "d7/d94/a28682.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
+    [ "HandleDummy", "d7/d94/a28682.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "d7/d94/a28682.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "d7/d94/a28682.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "d7/d94/a28682.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

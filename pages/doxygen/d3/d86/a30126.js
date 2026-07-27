@@ -1,6 +1,7 @@
 var a30126 =
 [
-    [ "height", "d3/d86/a30126.html#a7638f586a055c48a46e36471543ff72f", null ],
-    [ "unk1", "d3/d86/a30126.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
-    [ "unk2", "d3/d86/a30126.html#a394a04f6e985824aa259a42b11b97136", null ]
+    [ "fcc", "d3/d86/a30126.html#afbaa5fdd612d1c93f7f07aa299d144ad", null ],
+    [ "fcc_txt", "d3/d86/a30126.html#a89ed22b0a63dae9f1443309e54e9e421", null ],
+    [ "size", "d3/d86/a30126.html#a0b9002c302e4dfef6dc533bf8c5bcdcc", null ],
+    [ "ver", "d3/d86/a30126.html#adb92d3e9f7e35255a2e6e147d51ba8fc", null ]
 ];

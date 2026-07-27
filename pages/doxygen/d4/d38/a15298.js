@@ -1,5 +1,6 @@
 var a15298 =
 [
-    [ "pathId", "d4/d38/a15298.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
-    [ "spellId", "d4/d38/a15298.html#af495f984d5b81baeaa61ddca127a9508", null ]
+    [ "npc_crate_helperAI", "da/d06/a15302.html", "da/d06/a15302" ],
+    [ "npc_crate_helper", "d4/d38/a15298.html#ae08751928234656dcda84dd5c7e4cc37", null ],
+    [ "GetAI", "d4/d38/a15298.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
 ];

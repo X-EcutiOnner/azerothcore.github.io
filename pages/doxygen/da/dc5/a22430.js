@@ -1,8 +1,6 @@
 var a22430 =
 [
-    [ "Load", "da/dc5/a22430.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "da/dc5/a22430.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "da/dc5/a22430.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "da/dc5/a22430.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "da/dc5/a22430.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "PrepareSpellScript", "da/dc5/a22430.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
+    [ "RecalculateDamage", "da/dc5/a22430.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
+    [ "Register", "da/dc5/a22430.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
 ];

@@ -1,6 +1,6 @@
 var a18830 =
 [
-    [ "npc_rotting_frost_giantAI", "d2/dc0/a18834.html", "d2/dc0/a18834" ],
-    [ "npc_rotting_frost_giant", "de/dd3/a18830.html#ad4440216e11a00d97af43dc5f3957e95", null ],
-    [ "GetAI", "de/dd3/a18830.html#aabc388b3690f2d03e903c7f480d52842", null ]
+    [ "npc_icc_lk_checktargetAI", "d2/dc0/a18834.html", "d2/dc0/a18834" ],
+    [ "npc_icc_lk_checktarget", "de/dd3/a18830.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "de/dd3/a18830.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

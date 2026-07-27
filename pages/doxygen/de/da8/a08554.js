@@ -1,20 +1,13 @@
 var a08554 =
 [
-    [ "CinematicMgr", "de/da8/a08554.html#a95547140d5718eb7fb4a8242a6e6de05", null ],
-    [ "~CinematicMgr", "de/da8/a08554.html#ac56017a73bed15eadfdb6d17891328ff", null ],
-    [ "BeginCinematic", "de/da8/a08554.html#a94ef6fc060617708b7bfd3a8c311e519", null ],
-    [ "EndCinematic", "de/da8/a08554.html#a8a47c7cff4414c6aea3aa31fa483cc60", null ],
-    [ "GetActiveCinematicCamera", "de/da8/a08554.html#a0535dee9b0ec7aa6176809c6dca16b30", null ],
-    [ "IsOnCinematic", "de/da8/a08554.html#a904cb7a2db9b9e92e8539b736487ad0e", null ],
-    [ "SetActiveCinematicCamera", "de/da8/a08554.html#afa5c37702ecdb71e09e552b92fa5ad71", null ],
-    [ "UpdateCinematicLocation", "de/da8/a08554.html#afdcf4c2361f5ce445b1dfc013cf3348d", null ],
-    [ "Player", "de/da8/a08554.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "m_activeCinematicCameraId", "de/da8/a08554.html#ab8cd685c623be2b2609a71e8c4ebb740", null ],
-    [ "m_cinematicCamera", "de/da8/a08554.html#a0c527989b49df340a268b8f69911377c", null ],
-    [ "m_cinematicDiff", "de/da8/a08554.html#a398e47385916c712677268bed43f7955", null ],
-    [ "m_cinematicLength", "de/da8/a08554.html#a60c48bec98a06c5cc0e50268df35c9cd", null ],
-    [ "m_CinematicObject", "de/da8/a08554.html#a969e4ab19088fd45f3ba9483efa2e481", null ],
-    [ "m_lastCinematicCheck", "de/da8/a08554.html#a50c42e2f39ba97a39ee31043dec17337", null ],
-    [ "m_remoteSightPosition", "de/da8/a08554.html#ae4f473744f0e3ad43ef51dbf30f62f55", null ],
-    [ "player", "de/da8/a08554.html#a00099569f6f2b683d4d5640bf971bf2d", null ]
+    [ "GameObjectModelOwnerImpl", "de/da8/a08554.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
+    [ "DebugVisualizeCorner", "de/da8/a08554.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
+    [ "GetDisplayId", "de/da8/a08554.html#a4a694456955c19e76d8c84befc02c920", null ],
+    [ "GetOrientation", "de/da8/a08554.html#acb968e3bd921aac111a2e06f2604b040", null ],
+    [ "GetPhaseMask", "de/da8/a08554.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
+    [ "GetPosition", "de/da8/a08554.html#a9ba2b29d30b38895effe97637e050988", null ],
+    [ "GetScale", "de/da8/a08554.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
+    [ "IsSpawned", "de/da8/a08554.html#ae47eb25d16de37122042402443db6f3d", null ],
+    [ "IsTransport", "de/da8/a08554.html#a1ca672aa490bd608de30bda7501fc03e", null ],
+    [ "_owner", "de/da8/a08554.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
 ];

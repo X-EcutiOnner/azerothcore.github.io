@@ -1,7 +1,9 @@
 var a23246 =
 [
-    [ "HandleDummyApply", "de/ddd/a23246.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
-    [ "HandleDummyRemove", "de/ddd/a23246.html#a5d68d9e15600119deca7179ffe00acda", null ],
-    [ "PrepareAuraScript", "de/ddd/a23246.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
-    [ "Register", "de/ddd/a23246.html#a094004ccf6b4cae4d27bca639b76b899", null ]
+    [ "FilterTargets", "de/ddd/a23246.html#a9049c113d65b15a9a8e1143980a84b23", null ],
+    [ "HandleDummy", "de/ddd/a23246.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
+    [ "Load", "de/ddd/a23246.html#a8cad82701e0147e14f826243175e1c32", null ],
+    [ "PrepareSpellScript", "de/ddd/a23246.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
+    [ "Register", "de/ddd/a23246.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
+    [ "_targetNumber", "de/ddd/a23246.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
 ];

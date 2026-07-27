@@ -1,8 +1,6 @@
 var a18534 =
 [
-    [ "ChangeDamageAndGrow", "df/d79/a18534.html#a017ade08eca93f326d2e5115c4d88c33", null ],
-    [ "CorrectRange", "df/d79/a18534.html#a9022b9efab89bc562428520b3551ff37", null ],
-    [ "PrepareSpellScript", "df/d79/a18534.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
-    [ "Register", "df/d79/a18534.html#a998b810cdbecbca2bf65f18cee14d286", null ],
-    [ "Validate", "df/d79/a18534.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
+    [ "FilterTargets", "df/d79/a18534.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
+    [ "PrepareSpellScript", "df/d79/a18534.html#a24466e7a04722cc7559b086f89d2edc8", null ],
+    [ "Register", "df/d79/a18534.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
 ];

@@ -1,6 +1,7 @@
 var a25830 =
 [
-    [ "PrepareSpellScript", "db/db1/a25830.html#a7099b8d28128cfea49288792ea02606c", null ],
-    [ "Register", "db/db1/a25830.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
-    [ "UpdateTarget", "db/db1/a25830.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
+    [ "CalculateDamageAmount", "db/db1/a25830.html#a2f608e8391e61434ef1b164c023854fe", null ],
+    [ "CalculateManaLeechAmount", "db/db1/a25830.html#a8a4946d1718d8045a72c92355ff38ecb", null ],
+    [ "PrepareAuraScript", "db/db1/a25830.html#a63d24d3ca4b2de1aa7f67376ded7bc59", null ],
+    [ "Register", "db/db1/a25830.html#aa6e74e89930fd3cc564c3cba86e3687e", null ]
 ];

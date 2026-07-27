@@ -1,7 +1,8 @@
 var a28386 =
 [
-    [ "HandleDummy", "da/d36/a28386.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "da/d36/a28386.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "da/d36/a28386.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "da/d36/a28386.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "trigger_periodicAI", "da/d36/a28386.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "da/d36/a28386.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "da/d36/a28386.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "da/d36/a28386.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "da/d36/a28386.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

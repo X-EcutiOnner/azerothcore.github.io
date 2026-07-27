@@ -1,16 +1,18 @@
 var a13394 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "df/dee/a13394.html#a4abdd53f735be815cb2d43497d1531e0", null ],
-    [ "GetData", "df/dee/a13394.html#a07d9bcc1b1daa29f31be146aaa85993c", null ],
-    [ "GetGuidData", "df/dee/a13394.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
-    [ "OnCreatureCreate", "df/dee/a13394.html#a71fcfc166f945325a4ee149645a9ccef", null ],
-    [ "OnGameObjectCreate", "df/dee/a13394.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
-    [ "SetData", "df/dee/a13394.html#aaf498d563d070d6250a182f583651777", null ],
-    [ "_ashbringerNpcGUID", "df/dee/a13394.html#a1abdafc284def7ab4069a17c0aeda535", null ],
-    [ "_ashencounter", "df/dee/a13394.html#ac6f544cf00bb6d987c9128cce9c1aa10", null ],
-    [ "_doorChapelGUID", "df/dee/a13394.html#a9f5070bfd7326ccaa1ebe697524a814b", null ],
-    [ "_doorHighInquisitorGUID", "df/dee/a13394.html#a1c9c74f06b2e1db77d5e6c75e720290c", null ],
-    [ "_encounter", "df/dee/a13394.html#a9d025f0d9740eaec42fe4f45971a6cf9", null ],
-    [ "_mograineGUID", "df/dee/a13394.html#ad34fc11ed5bd36a8f3a84f183627deb1", null ],
-    [ "_whitemaneGUID", "df/dee/a13394.html#af6c6214f8d506815afeeb2af4ad4a71b", null ]
+    [ "npc_barnesAI", "df/dee/a13394.html#acf165009e5b2164d8244e709043eba09", null ],
+    [ "JustEngagedWith", "df/dee/a13394.html#a1f24ea5604563c9a16c5a2a91ae078f1", null ],
+    [ "PrepareEncounter", "df/dee/a13394.html#acdefdf68be1d870f76cbd0e329e3c890", null ],
+    [ "Reset", "df/dee/a13394.html#a67ee1ef5c6012e499a9d9d7b77938fbe", null ],
+    [ "StartEvent", "df/dee/a13394.html#ab5ed76e189150b2bb8a57095289246fe", null ],
+    [ "Talk", "df/dee/a13394.html#a8a5c4a97e9093220a5d8642fcf6ceece", null ],
+    [ "UpdateAI", "df/dee/a13394.html#a19c6ac3829ae4c38263eda116d56df88", null ],
+    [ "WaypointReached", "df/dee/a13394.html#acae5cbc4bcbe91b6810d649385a889a9", null ],
+    [ "WaypointReached", "df/dee/a13394.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "instance", "df/dee/a13394.html#a9094deb17c0c77c968bbfb4f9f05e521", null ],
+    [ "m_uiEventId", "df/dee/a13394.html#a47ac00c081635aeba9ef02a7f1bbd645", null ],
+    [ "m_uiSpotlightGUID", "df/dee/a13394.html#aceae6d1588aec9035fb80678af32e96c", null ],
+    [ "PerformanceReady", "df/dee/a13394.html#a27a8ceb27724f074de840d24dcf0e284", null ],
+    [ "TalkCount", "df/dee/a13394.html#a555a152b2f4981dc824a6fb0f66b5702", null ],
+    [ "TalkTimer", "df/dee/a13394.html#afa7fd12da57b887f1254e24d444f43d1", null ]
 ];

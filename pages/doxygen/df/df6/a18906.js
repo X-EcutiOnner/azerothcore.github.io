@@ -1,6 +1,12 @@
 var a18906 =
 [
-    [ "npc_impaling_spearAI", "df/d6f/a18910.html", "df/d6f/a18910" ],
-    [ "npc_impaling_spear", "df/df6/a18906.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
-    [ "GetAI", "df/df6/a18906.html#aad49164a3e7541b755c1c622b996bb9a", null ]
+    [ "npc_the_lich_king_controllerAI", "df/df6/a18906.html#a211c370e9c370e00fba3c83e51738886", null ],
+    [ "AttackStart", "df/df6/a18906.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
+    [ "DoAction", "df/df6/a18906.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
+    [ "JustSummoned", "df/df6/a18906.html#aa610e24316505165cbb826ff5bece5c5", null ],
+    [ "MoveInLineOfSight", "df/df6/a18906.html#a0ee33ab5733c12163e92213376e893e4", null ],
+    [ "Reset", "df/df6/a18906.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
+    [ "UpdateAI", "df/df6/a18906.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
+    [ "_events", "df/df6/a18906.html#a90c3d818318004c7c21ec66d4d080615", null ],
+    [ "_instance", "df/df6/a18906.html#a480a284881ba5f56bc6222607bd01a76", null ]
 ];

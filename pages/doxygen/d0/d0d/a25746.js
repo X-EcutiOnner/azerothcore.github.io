@@ -1,9 +1,6 @@
 var a25746 =
 [
-    [ "CheckCast", "d0/d0d/a25746.html#af92fe276563a8ca0d939d881dba8adda", null ],
-    [ "HandleDummy", "d0/d0d/a25746.html#a86b4413dd25f96fb197604007171a8d1", null ],
-    [ "Load", "d0/d0d/a25746.html#ab1800d2550b944dcfa9967cc0e79c5ee", null ],
-    [ "PrepareSpellScript", "d0/d0d/a25746.html#a47aa868fbabee8a3988bcc93402b8cfb", null ],
-    [ "Register", "d0/d0d/a25746.html#a1b4ff1b3b518a2e4bad1836de6793561", null ],
-    [ "Validate", "d0/d0d/a25746.html#a8d0c2f18927e811f3d3cdee94e3623c0", null ]
+    [ "CheckCast", "d0/d0d/a25746.html#a1fbbba8bdc9f775963a999aa00a5a256", null ],
+    [ "PrepareSpellScript", "d0/d0d/a25746.html#a481f9d36567607697c3ad5d9501bba48", null ],
+    [ "Register", "d0/d0d/a25746.html#afff66ccf4f6596475f4b58c529472f26", null ]
 ];

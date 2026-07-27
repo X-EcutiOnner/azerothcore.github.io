@@ -1,6 +1,6 @@
 var a09098 =
 [
-    [ "BuildValuesCachedBuffer", "d1/de0/a09098.html#a87a3167ae060c8556700e4a137294053", null ],
-    [ "buffer", "d1/de0/a09098.html#add7150533a48434b0e606add9cff04d2", null ],
-    [ "posPointers", "d1/de0/a09098.html#affa098684782f15383a7df063b178cf1", null ]
+    [ "SplineHandler", "d1/de0/a09098.html#a7c5aac2d12e13bad1c38c4e8860ed27f", null ],
+    [ "operator()", "d1/de0/a09098.html#aa5d1bddc2435eee76f493229740ecf9e", null ],
+    [ "_unit", "d1/de0/a09098.html#aaafb07271736d8bc89d07aafbbae7f25", null ]
 ];

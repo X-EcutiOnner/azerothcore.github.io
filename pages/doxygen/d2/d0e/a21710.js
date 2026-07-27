@@ -1,8 +1,9 @@
 var a21710 =
 [
-    [ "npc_llod_genericAI", "d2/d0e/a21710.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "d2/d0e/a21710.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "d2/d0e/a21710.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "d2/d0e/a21710.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "d2/d0e/a21710.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "npc_minigob_manabonk", "d2/d0e/a21710.html#aade5e005b68b25ede4e653629390ceb9", null ],
+    [ "Reset", "d2/d0e/a21710.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
+    [ "SelectTargetInDalaran", "d2/d0e/a21710.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
+    [ "SendMailToPlayer", "d2/d0e/a21710.html#a1973b7885c9fce15aab9843722bf112e", null ],
+    [ "UpdateAI", "d2/d0e/a21710.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
+    [ "playerGUID", "d2/d0e/a21710.html#ac8dccd333691f717fdbffe22126330d5", null ]
 ];

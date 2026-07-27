@@ -1,8 +1,7 @@
 var a19414 =
 [
-    [ "HandleAfterCast", "d6/dfb/a19414.html#ac816f81a668ac3018be8f5dc4698039b", null ],
-    [ "HandleDummy", "d6/dfb/a19414.html#a3009faa525c22779a0b2534b96821cfd", null ],
-    [ "PrepareSpellScript", "d6/dfb/a19414.html#aca38f23f080314ab73ec2494bf877716", null ],
-    [ "Register", "d6/dfb/a19414.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
-    [ "Validate", "d6/dfb/a19414.html#af945e399992deb3aef5c81ad393ee50f", null ]
+    [ "npc_ioc_gunship_captainAI", "d6/dfb/a19414.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
+    [ "DoAction", "d6/dfb/a19414.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
+    [ "UpdateAI", "d6/dfb/a19414.html#a222b304633143bba47d3edde67ea093b", null ],
+    [ "_events", "d6/dfb/a19414.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
 ];

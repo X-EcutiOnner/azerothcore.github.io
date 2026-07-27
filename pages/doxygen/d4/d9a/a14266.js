@@ -1,6 +1,7 @@
 var a14266 =
 [
-    [ "npc_zulian_prowlerAI", "d8/d13/a14270.html", "d8/d13/a14270" ],
-    [ "npc_zulian_prowler", "d4/d9a/a14266.html#a27ae990985976d02bb221b6d669fa849", null ],
-    [ "GetAI", "d4/d9a/a14266.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
+    [ "HandleScript", "d4/d9a/a14266.html#acd4373ab762d00d262984c36190d6f93", null ],
+    [ "PrepareSpellScript", "d4/d9a/a14266.html#a113216b272d0386f248a75bfcf30c6a3", null ],
+    [ "Register", "d4/d9a/a14266.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
+    [ "Validate", "d4/d9a/a14266.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
 ];

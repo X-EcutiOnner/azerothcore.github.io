@@ -1,7 +1,7 @@
 var a23922 =
 [
-    [ "HandleEffectRemove", "df/da9/a23922.html#a317c238b165ad331beb447ea5d0de7e1", null ],
-    [ "PrepareAuraScript", "df/da9/a23922.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
-    [ "Register", "df/da9/a23922.html#a13fdde1557249328306a57e159d821a7", null ],
-    [ "Validate", "df/da9/a23922.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
+    [ "HandleDamage", "df/da9/a23922.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
+    [ "HandleTargets", "df/da9/a23922.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
+    [ "PrepareSpellScript", "df/da9/a23922.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
+    [ "Register", "df/da9/a23922.html#a8873614ae22c908cb2cf49129fc53be2", null ]
 ];

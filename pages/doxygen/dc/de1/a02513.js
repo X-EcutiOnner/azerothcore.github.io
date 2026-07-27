@@ -1,5 +1,6 @@
 var a02513 =
 [
-    [ "chatfilter_commandscript", "d2/dbc/a12356.html", "d2/dbc/a12356" ],
-    [ "AddSC_chatfilter_commandscript", "dc/de1/a02513.html#aee5ca3527878cd26d04712c7dc6b8611", null ]
+    [ "RealmBuildInfo", "d9/de6/a29490.html", "d9/de6/a29490" ],
+    [ "RealmList", "d8/d79/a29494.html", "d8/d79/a29494" ],
+    [ "sRealmList", "dc/de1/a02513.html#a639c880efde6e31a4bf6be6b5bcc3cd3", null ]
 ];

@@ -1,17 +1,15 @@
 var a19294 =
 [
-    [ "boss_kelthuzadAI", "d9/d1c/a19294.html#a3fa1e67bf942824cd40c5591f4e63a08", null ],
-    [ "EnterEvadeMode", "d9/d1c/a19294.html#ac99064d95afff73680df1fe96749665a", null ],
-    [ "JustDied", "d9/d1c/a19294.html#a49066a2fa1dc424a27262706c8af046a", null ],
-    [ "JustEngagedWith", "d9/d1c/a19294.html#a8fd3938c0e91a0773eacba9fbdb4a60e", null ],
-    [ "JustSummoned", "d9/d1c/a19294.html#a0b305ec3029d149c3ca273cb7ba52e1b", null ],
-    [ "KilledUnit", "d9/d1c/a19294.html#ad2fa9b4d11b158e3fadf0c304be6b431", null ],
-    [ "MoveInLineOfSight", "d9/d1c/a19294.html#a440b758486cd95b7884fe2ce9bdfb28f", null ],
-    [ "NormalizeOrientation", "d9/d1c/a19294.html#a21ac290b79119d47b7509b04b34ea16e", null ],
-    [ "Reset", "d9/d1c/a19294.html#a5df92ebc5bd4ee8d06b17e31381be8c4", null ],
-    [ "SpawnHelpers", "d9/d1c/a19294.html#ad81fa9c3449ba347de09b1519be6d408", null ],
-    [ "SummonHelper", "d9/d1c/a19294.html#a3a21a45072144b6f0421733466770267", null ],
-    [ "UpdateAI", "d9/d1c/a19294.html#a3004d23e6eaa3f2ef5942e96e0c17308", null ],
-    [ "events", "d9/d1c/a19294.html#a1ac1341c022c65f46b30a9c70b3f37ba", null ],
-    [ "summons", "d9/d1c/a19294.html#a4b8a2fcda2e9f4e3944c3527dd6afb1e", null ]
+    [ "npc_icc_valkyr_heraldAI", "d9/d1c/a19294.html#afd9cd5e7f1048940cdc46d1b7e93d2a1", null ],
+    [ "CanAIAttack", "d9/d1c/a19294.html#a80efc0d2e192c316640c8136c533aa6b", null ],
+    [ "JustEngagedWith", "d9/d1c/a19294.html#aee4e6801cb31ed631568a32c22aa809b", null ],
+    [ "JustReachedHome", "d9/d1c/a19294.html#a84da1485b45ab1229fc2ca6e2e6564f8", null ],
+    [ "JustSummoned", "d9/d1c/a19294.html#af63753b3de60bcdb79989bfa8d582176", null ],
+    [ "MoveInLineOfSight", "d9/d1c/a19294.html#ab048b3536a8b169e85ee4297f04005ba", null ],
+    [ "Reset", "d9/d1c/a19294.html#a0eefcf657c8b00b8f4a586f72467e1ca", null ],
+    [ "SpellHitTarget", "d9/d1c/a19294.html#aab96b7e137f9348ab4d33629c198f011", null ],
+    [ "SummonedCreatureDespawn", "d9/d1c/a19294.html#ae3e1b98b21f46d9d7c895c1e03794696", null ],
+    [ "UpdateAI", "d9/d1c/a19294.html#a55cbb21aecfd78efc96d465cf61728ae", null ],
+    [ "events", "d9/d1c/a19294.html#a28b3fdd5f60a2277604b9c4a4766f7bc", null ],
+    [ "summons", "d9/d1c/a19294.html#a379afe20ef8acbbc510485da74a41487", null ]
 ];

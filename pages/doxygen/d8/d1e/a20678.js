@@ -1,10 +1,9 @@
 var a20678 =
 [
-    [ "boss_yoggsaron_voice", "d8/d1e/a20678.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
-    [ "Reset", "d8/d1e/a20678.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
-    [ "SpellHitTarget", "d8/d1e/a20678.html#aae3b82dbb871f0f297bdacf975958492", null ],
-    [ "UpdateAI", "d8/d1e/a20678.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
-    [ "_current", "d8/d1e/a20678.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
-    [ "_targets", "d8/d1e/a20678.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
-    [ "events", "d8/d1e/a20678.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
+    [ "HandleEffectPeriodic", "d8/d1e/a20678.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "Load", "d8/d1e/a20678.html#a60deabce505dd3993dca0e71402dc190", null ],
+    [ "PrepareAuraScript", "d8/d1e/a20678.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "d8/d1e/a20678.html#a524c071390365b7dab59bc7a79b50f15", null ],
+    [ "_lastMSTime", "d8/d1e/a20678.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
+    [ "_lastOrientation", "d8/d1e/a20678.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
 ];

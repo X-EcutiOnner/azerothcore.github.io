@@ -1,6 +1,8 @@
 var a29366 =
 [
-    [ "SetUp", "d3/d0c/a29366.html#a60fc4f7f53b77970978550bc56069471", null ],
-    [ "TearDown", "d3/d0c/a29366.html#a8a288d56ca736bae3783789840c37d0e", null ],
-    [ "rbacData", "d3/d0c/a29366.html#acb1cc06942d4460d964fd507d5d33464", null ]
+    [ "Color", "d3/d0c/a29366.html#a670fb4e2a31958f81d46047f74d9916f", null ],
+    [ "Comparator", "d3/d0c/a29366.html#ace0bdad11edd9db12e45d374da623793", null ],
+    [ "CompareColor", "d3/d0c/a29366.html#a801e2221bbb1b6aab67a57381901cf08", null ],
+    [ "ID", "d3/d0c/a29366.html#aae73769db40326d298bb1d04eef38871", null ],
+    [ "Value", "d3/d0c/a29366.html#ac314a9a6b447d386e31a286811f66538", null ]
 ];

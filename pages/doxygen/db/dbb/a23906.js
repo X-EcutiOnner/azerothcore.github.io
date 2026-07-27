@@ -1,5 +1,9 @@
 var a23906 =
 [
-    [ "npc_shattrath_daily_quest", "db/dbb/a23906.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "db/dbb/a23906.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "instance_the_eye_InstanceMapScript", "db/dbb/a23906.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
+    [ "GetGuidData", "db/dbb/a23906.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
+    [ "OnGameObjectCreate", "db/dbb/a23906.html#a56c6933c2c231c228ca147107fbfc930", null ],
+    [ "BridgeWindowGUID", "db/dbb/a23906.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
+    [ "KaelStateLeftGUID", "db/dbb/a23906.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
+    [ "KaelStateRightGUID", "db/dbb/a23906.html#a25ba703325800d2976eff860437f3d57", null ]
 ];

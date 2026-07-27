@@ -1,16 +1,7 @@
 var a15190 =
 [
-    [ "npc_medivh_bm", "d9/d84/a15190.html#a23f04c433faf7da663b2edffb2a0440d", null ],
-    [ "AttackStart", "d9/d84/a15190.html#a8eb87f4d80d83725af017657c599d458", null ],
-    [ "DoAction", "d9/d84/a15190.html#aa5a54d0b2b069947dd59eee77cbdf21b", null ],
-    [ "JustDied", "d9/d84/a15190.html#ad6dbbef1b6fbccd9dd224af1a15a6c90", null ],
-    [ "JustSummoned", "d9/d84/a15190.html#a16d8d3be1dd148e149f4e49570f092a6", null ],
-    [ "MoveInLineOfSight", "d9/d84/a15190.html#a87f092fccd5b485bdf0bd0449bd57265", null ],
-    [ "Reset", "d9/d84/a15190.html#a1a33f613b083763c952882cdb82a35c1", null ],
-    [ "SummonOrcs", "d9/d84/a15190.html#a13964b4c460a664442be7eebe768edf5", null ],
-    [ "UpdateAI", "d9/d84/a15190.html#aefc693d7be0c06c5056cae18d4e4eb1e", null ],
-    [ "_airArray", "d9/d84/a15190.html#a6e766596b69b52690635ee91e6e8d164", null ],
-    [ "_events", "d9/d84/a15190.html#a1d4fe5bc964d12e812a178c68e2f037f", null ],
-    [ "_groundArray", "d9/d84/a15190.html#a6fd3a75ddec2a6bda3e5d1bd3e33722c", null ],
-    [ "_instance", "d9/d84/a15190.html#a45e129d61c3987e4bff94485db739eb1", null ]
+    [ "OnPeriodic", "d9/d84/a15190.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
+    [ "PrepareAuraScript", "d9/d84/a15190.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
+    [ "Register", "d9/d84/a15190.html#aeb388d608830aeb3b30f707304403b41", null ],
+    [ "Validate", "d9/d84/a15190.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
 ];

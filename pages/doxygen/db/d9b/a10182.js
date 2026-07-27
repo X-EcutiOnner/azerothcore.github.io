@@ -1,12 +1,14 @@
 var a10182 =
 [
-    [ "MapReference", "db/d9b/a10182.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
-    [ "~MapReference", "db/d9b/a10182.html#a1e93b44871737991140718322fd1cd69", null ],
-    [ "next", "db/d9b/a10182.html#a352ef695a8968a17e921861b7d6242c1", null ],
-    [ "next", "db/d9b/a10182.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
-    [ "nocheck_prev", "db/d9b/a10182.html#a6cfff18295cf049ff554b0f140680890", null ],
-    [ "nockeck_prev", "db/d9b/a10182.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
-    [ "sourceObjectDestroyLink", "db/d9b/a10182.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
-    [ "targetObjectBuildLink", "db/d9b/a10182.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
-    [ "targetObjectDestroyLink", "db/d9b/a10182.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
+    [ "ServerMail", "db/d9b/a10182.html#a50cf3e6929e397a3c1de83b9fcf83416", null ],
+    [ "active", "db/d9b/a10182.html#a24a12fcafd0b0f4a7c0558737d8fd71f", null ],
+    [ "body", "db/d9b/a10182.html#a58d352611dcb35126f6ec93622ddc4b9", null ],
+    [ "conditions", "db/d9b/a10182.html#a818b993f72f82a022277e1c8d9160011", null ],
+    [ "id", "db/d9b/a10182.html#a6b47994eff9201a6a75f8c621b64716c", null ],
+    [ "itemsA", "db/d9b/a10182.html#a0992466672427c1d24c686bd8fa39378", null ],
+    [ "itemsH", "db/d9b/a10182.html#ad120200ba47bf8ea8511a46d56f0daec", null ],
+    [ "moneyA", "db/d9b/a10182.html#a6a84ca583beef891422f67bef7919c47", null ],
+    [ "moneyH", "db/d9b/a10182.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
+    [ "senderEntry", "db/d9b/a10182.html#a3b0fe5cf5fadb5f50434836dd7026f41", null ],
+    [ "subject", "db/d9b/a10182.html#a246e499c69c57a436aac4c039ea37d31", null ]
 ];

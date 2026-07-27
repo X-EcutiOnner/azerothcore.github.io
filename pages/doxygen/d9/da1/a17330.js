@@ -1,6 +1,8 @@
 var a17330 =
 [
-    [ "npc_pos_freed_slaveAI", "d9/da1/a17330.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
-    [ "CanAIAttack", "d9/da1/a17330.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
-    [ "EnterEvadeMode", "d9/da1/a17330.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
+    [ "npc_hor_leaderAI", "d3/dda/a17334.html", "d3/dda/a17334" ],
+    [ "npc_hor_leader", "d9/da1/a17330.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
+    [ "GetAI", "d9/da1/a17330.html#a55e7357aa6dff1efdff08541e88413e9", null ],
+    [ "OnGossipHello", "d9/da1/a17330.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
+    [ "OnGossipSelect", "d9/da1/a17330.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
 ];

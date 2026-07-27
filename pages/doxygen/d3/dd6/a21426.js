@@ -1,7 +1,6 @@
 var a21426 =
 [
-    [ "CheckCast", "d3/dd6/a21426.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
-    [ "HandleScript", "d3/dd6/a21426.html#a8128bb2d7588409dae73bed78d5285a7", null ],
-    [ "PrepareSpellScript", "d3/dd6/a21426.html#aee17a8a21ec5df027082c6990189dccc", null ],
-    [ "Register", "d3/dd6/a21426.html#a2a97265e102e9ce31997d99275b42973", null ]
+    [ "npc_frozen_orb_stalkerAI", "d1/d59/a21430.html", "d1/d59/a21430" ],
+    [ "npc_frozen_orb_stalker", "d3/dd6/a21426.html#a7f025c829106aa6668427f913d07a722", null ],
+    [ "GetAI", "d3/dd6/a21426.html#af33e27138a70286bac561113ed09f350", null ]
 ];

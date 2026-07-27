@@ -1,8 +1,13 @@
 var a05938 =
 [
-    [ "cmd", "dc/d8f/a05938.html#a14df856ae931474a7c58d0e35caf6ad0", null ],
-    [ "number_of_keys", "dc/d8f/a05938.html#aaa44734bb96b91894c038b3f34b4db0d", null ],
-    [ "R1", "dc/d8f/a05938.html#a054648a96d1c66bae6fdb9a174e7b1e6", null ],
-    [ "R2", "dc/d8f/a05938.html#a72fa4a4d0b6098fdf8e5c8f9a33f08ad", null ],
-    [ "R3", "dc/d8f/a05938.html#a819a5ba3a19583fd0cfd0558cf218e54", null ]
+    [ "IntervalTimer", "dc/d8f/a05938.html#a2538976b639e25e63a8ab5927663ade1", null ],
+    [ "GetCurrent", "dc/d8f/a05938.html#a93a456d6ff6d74cc889517fc585626e8", null ],
+    [ "GetInterval", "dc/d8f/a05938.html#a986bec1dcb7325088517f6721636abcc", null ],
+    [ "Passed", "dc/d8f/a05938.html#a9b3ac2407baf9763fa899e35a5c55fbe", null ],
+    [ "Reset", "dc/d8f/a05938.html#ae243f18c4c3174b91fa01f6d08b04d4d", null ],
+    [ "SetCurrent", "dc/d8f/a05938.html#ab315f686c2777dc21c824d8674479f9f", null ],
+    [ "SetInterval", "dc/d8f/a05938.html#a28d95330f971d3a37aaf53e4f16aad4a", null ],
+    [ "Update", "dc/d8f/a05938.html#aa1f5b922ea2d95c49924a506ca37a676", null ],
+    [ "_current", "dc/d8f/a05938.html#a99c5aec27af00ffbbd83c5adbd2e2016", null ],
+    [ "_interval", "dc/d8f/a05938.html#a179584ce91f62ba5e74ae3f34ee32fbc", null ]
 ];

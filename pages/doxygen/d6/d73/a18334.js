@@ -1,6 +1,8 @@
 var a18334 =
 [
-    [ "FilterTargets", "d6/d73/a18334.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
-    [ "PrepareSpellScript", "d6/d73/a18334.html#a24466e7a04722cc7559b086f89d2edc8", null ],
-    [ "Register", "d6/d73/a18334.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
+    [ "FilterTargets", "d6/d73/a18334.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
+    [ "HandleScript", "d6/d73/a18334.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
+    [ "PrepareSpellScript", "d6/d73/a18334.html#ae6b30b8da52141c385f985435cac99a1", null ],
+    [ "Register", "d6/d73/a18334.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
+    [ "Validate", "d6/d73/a18334.html#accff1f03fb7c0d56cb197bb18348635c", null ]
 ];

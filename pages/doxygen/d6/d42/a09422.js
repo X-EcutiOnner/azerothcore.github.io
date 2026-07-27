@@ -1,10 +1,12 @@
 var a09422 =
 [
-    [ "iterator", "d6/d42/a09422.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
-    [ "begin", "d6/d42/a09422.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
-    [ "end", "d6/d42/a09422.html#a266acb421cfc6ccc56dc2acff3202971", null ],
-    [ "getFirst", "d6/d42/a09422.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
-    [ "getLast", "d6/d42/a09422.html#a46a36813eaf752815a3f8c739db88a5d", null ],
-    [ "rbegin", "d6/d42/a09422.html#ae69734978b5eec009a696861b7b7152b", null ],
-    [ "rend", "d6/d42/a09422.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
+    [ "IsTeamAward1", "d6/d42/a09422.html#a25f928a8f8c3a19b1aa9a5c41b0ba612", null ],
+    [ "IsTeamAward2", "d6/d42/a09422.html#a053bd7825d0464ac322b449f3d243722", null ],
+    [ "RepFaction1", "d6/d42/a09422.html#a4e75bb4149f8bb0b83a5aacba47800dd", null ],
+    [ "RepFaction2", "d6/d42/a09422.html#a5934590811c666d06b68216428574d8a", null ],
+    [ "ReputationMaxCap1", "d6/d42/a09422.html#a292b78f629723c3993a796eb256dd9b8", null ],
+    [ "ReputationMaxCap2", "d6/d42/a09422.html#ac90d17e82d6c8a763d3ea868250b44a7", null ],
+    [ "RepValue1", "d6/d42/a09422.html#a4c5f965e028c45d6ad4d5875f76b2458", null ],
+    [ "RepValue2", "d6/d42/a09422.html#a74f46afc59593d7ae71ab65aa9e1f1c2", null ],
+    [ "TeamDependent", "d6/d42/a09422.html#a66e60a90f166e5fc12ea4dbe615c998f", null ]
 ];

@@ -1,77 +1,62 @@
 var a01559 =
 [
-    [ "sWorld", "d8/d59/a05062.html#ga05dfb35c344e5b947a19e4284e7f5fa7", null ],
-    [ "BillingPlanFlags", "d8/d59/a05062.html#gac11f34aad352a3782f299b3978607d16", [
-      [ "SESSION_NONE", "d8/d59/a05062.html#ggac11f34aad352a3782f299b3978607d16a0868dba320a07a5c9d31e968134dcfe6", null ],
-      [ "SESSION_UNUSED", "d8/d59/a05062.html#ggac11f34aad352a3782f299b3978607d16a7c01173015d547564263c9c0cbbda246", null ],
-      [ "SESSION_RECURRING_BILL", "d8/d59/a05062.html#ggac11f34aad352a3782f299b3978607d16a31aebb0359dbce580fa28fe86fbd67ae", null ],
-      [ "SESSION_FREE_TRIAL", "d8/d59/a05062.html#ggac11f34aad352a3782f299b3978607d16a8cec6c9d7436da0c2f14369c954f1e5f", null ],
-      [ "SESSION_IGR", "d8/d59/a05062.html#ggac11f34aad352a3782f299b3978607d16ab5bf7f117aa8390fe1605e95192bbc6e", null ],
-      [ "SESSION_USAGE", "d8/d59/a05062.html#ggac11f34aad352a3782f299b3978607d16a2f71e12af483f593df7e23a3232fd3a8", null ],
-      [ "SESSION_TIME_MIXTURE", "d8/d59/a05062.html#ggac11f34aad352a3782f299b3978607d16a19fb811c6132abdc3968a13c63eef2c1", null ],
-      [ "SESSION_RESTRICTED", "d8/d59/a05062.html#ggac11f34aad352a3782f299b3978607d16a63c4b8495ee7a07c4672f7ae0a4539cf", null ],
-      [ "SESSION_ENABLE_CAIS", "d8/d59/a05062.html#ggac11f34aad352a3782f299b3978607d16a60b5937926d1517dc374a756f0e3eb13", null ]
+    [ "ArenaTeamMember", "d3/d5b/a07674.html", "d3/d5b/a07674" ],
+    [ "ArenaTeamStats", "db/def/a07678.html", "db/def/a07678" ],
+    [ "ArenaTeam", "df/d7f/a07682.html", "df/d7f/a07682" ],
+    [ "MAX_ARENA_SLOT", "de/d1a/a01559.html#a3ed680b9b5f263a9c57435bf412b89f6", null ],
+    [ "ArenaSlot", "de/d1a/a01559.html#af7e171357dbfd0fedfa2da950cf6abbf", [
+      [ "ARENA_SLOT_2v2", "de/d1a/a01559.html#af7e171357dbfd0fedfa2da950cf6abbfa91adb8a9823496c7b8bbece5e5a3a74e", null ],
+      [ "ARENA_SLOT_3v3", "de/d1a/a01559.html#af7e171357dbfd0fedfa2da950cf6abbfab5c77731583aa5a2ef36073e297be240", null ],
+      [ "ARENA_SLOT_5v5", "de/d1a/a01559.html#af7e171357dbfd0fedfa2da950cf6abbfaa750824f1390167b2db96f7a04288990", null ]
     ] ],
-    [ "RealmZone", "d8/d59/a05062.html#ga26aa1cb8ae0de12da27fef70a5b9c7ab", [
-      [ "REALM_ZONE_UNKNOWN", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba507b40d8e1860051d9bd9d2fcada3053", null ],
-      [ "REALM_ZONE_DEVELOPMENT", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7abae7a19f9c62c04561c69306240938c64e", null ],
-      [ "REALM_ZONE_UNITED_STATES", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba6832d41458638376fa102ad339beafd2", null ],
-      [ "REALM_ZONE_OCEANIC", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba4ac5df4b9eff2cf69d2312d1cf3174db", null ],
-      [ "REALM_ZONE_LATIN_AMERICA", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba3b6507bcbebedb32e913002e218ff156", null ],
-      [ "REALM_ZONE_TOURNAMENT_5", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba2f2f733f59cd3f944091a5ecbefba3a5", null ],
-      [ "REALM_ZONE_KOREA", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba4f8f0506d09c5079326b000d5d074611", null ],
-      [ "REALM_ZONE_TOURNAMENT_7", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba177e3d98ca0a68108d04800fec4c5d86", null ],
-      [ "REALM_ZONE_ENGLISH", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba81e54f655d7352ad0fb5f74b7a7af326", null ],
-      [ "REALM_ZONE_GERMAN", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7abafea27caf1483a582a7377c67b122334b", null ],
-      [ "REALM_ZONE_FRENCH", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba86bbc26ecd3cbf3bb1d2337033394ed8", null ],
-      [ "REALM_ZONE_SPANISH", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba4a3d3718b458559db2843274259e9caf", null ],
-      [ "REALM_ZONE_RUSSIAN", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7abae5bd48e696a93fdab8960b7a2880dd61", null ],
-      [ "REALM_ZONE_TOURNAMENT_13", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba835b38db59060e7ff994029348d14f52", null ],
-      [ "REALM_ZONE_TAIWAN", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7abafcdb39c5842623895a4019df95d6dad8", null ],
-      [ "REALM_ZONE_TOURNAMENT_15", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba600d0faad5b165a2d50d8a857c1caed7", null ],
-      [ "REALM_ZONE_CHINA", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7abac109484ffee5df2c967a65b4104d22e5", null ],
-      [ "REALM_ZONE_CN1", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7abaf10182037fac98effa36883691f4fc0e", null ],
-      [ "REALM_ZONE_CN2", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba03d0c4dd430afeb66acc56c0a9c104aa", null ],
-      [ "REALM_ZONE_CN3", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba9b933190ce59532ec60b42454d0fca87", null ],
-      [ "REALM_ZONE_CN4", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba44c3162fd70316c504cd4e8068559a4e", null ],
-      [ "REALM_ZONE_CN5", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7abaccb2f60b67efa38a5d8454df249db838", null ],
-      [ "REALM_ZONE_CN6", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7abae4f84dfc27fee4e4426b8f35f010823f", null ],
-      [ "REALM_ZONE_CN7", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7abacd29849c85298b0eae1a1b38a9a80c51", null ],
-      [ "REALM_ZONE_CN8", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba7a38c263a84023b9308f12797e3ff255", null ],
-      [ "REALM_ZONE_TOURNAMENT_25", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba47aaebf38c22faea919f15103ca564f8", null ],
-      [ "REALM_ZONE_TEST_SERVER", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba09e6d6b40910f762c092171266a042cc", null ],
-      [ "REALM_ZONE_TOURNAMENT_27", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7abad36f14004bd6c21e49d12726e8c36f97", null ],
-      [ "REALM_ZONE_QA_SERVER", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba984d95c5dabcb241fc9e4888e6544417", null ],
-      [ "REALM_ZONE_CN9", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba97fbf4c193a6fb9bf944a77365937a45", null ],
-      [ "REALM_ZONE_TEST_SERVER_2", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7abab5eb75439f5e692fce74a91cec2c5692", null ],
-      [ "REALM_ZONE_CN10", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba9ca30377545fe1b8c0ba84485094f9c2", null ],
-      [ "REALM_ZONE_CTC", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7abad9087749f4814ca8998c10b585a6a64f", null ],
-      [ "REALM_ZONE_CNC", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba614f2939bc31c0a396c2017c8baac109", null ],
-      [ "REALM_ZONE_CN1_4", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba75686e8652a360819672f11c1497d588", null ],
-      [ "REALM_ZONE_CN2_6_9", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba6be2d3d4688a94934460fbfd97606f6b", null ],
-      [ "REALM_ZONE_CN3_7", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7abaa870d541b02010203bcdaac275013fb8", null ],
-      [ "REALM_ZONE_CN5_8", "d8/d59/a05062.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba695f1e2830267d3aaf0ba4131608e5cd", null ]
+    [ "ArenaTeamCommandErrors", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3c", [
+      [ "ERR_ARENA_TEAM_INTERNAL", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3ca41e9ff94d6d37e25de05fa381e169070", null ],
+      [ "ERR_ALREADY_IN_ARENA_TEAM", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3ca604ef0adfa5d8d26e1cd06c96443d7c0", null ],
+      [ "ERR_ALREADY_IN_ARENA_TEAM_S", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3ca2129fd8e1a3016d3f24f87345a5904a6", null ],
+      [ "ERR_INVITED_TO_ARENA_TEAM", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3ca4d75a01959fade0df3db076bd7c5690a", null ],
+      [ "ERR_ALREADY_INVITED_TO_ARENA_TEAM_S", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3cad93a3c8f9993d960fbd8235dc752d6f2", null ],
+      [ "ERR_ARENA_TEAM_NAME_INVALID", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3ca1b9f5d1c1c937e0303c5e3704e20101b", null ],
+      [ "ERR_ARENA_TEAM_NAME_EXISTS_S", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3caedbaa3d036cb3b5652762b91df5f908a", null ],
+      [ "ERR_ARENA_TEAM_LEADER_LEAVE_S", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3ca99b876d236d6a86261af0113b161657d", null ],
+      [ "ERR_ARENA_TEAM_PERMISSIONS", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3caa30839ed27dd1a23b9d26bd4cefb58bd", null ],
+      [ "ERR_ARENA_TEAM_PLAYER_NOT_IN_TEAM", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3ca906a0bd0de6f0ccbd36238309675f75a", null ],
+      [ "ERR_ARENA_TEAM_PLAYER_NOT_IN_TEAM_SS", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3caf6d4ab0d0f708627e4661270079cf5bc", null ],
+      [ "ERR_ARENA_TEAM_PLAYER_NOT_FOUND_S", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3caca502d97b4ce3a42b0c4c4b097ea5872", null ],
+      [ "ERR_ARENA_TEAM_NOT_ALLIED", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3cab073d31d5c2050eb02fa4c8bcbde744b", null ],
+      [ "ERR_ARENA_TEAM_IGNORING_YOU_S", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3ca6c97f9288f5c74a49df5fd3beda71f7d", null ],
+      [ "ERR_ARENA_TEAM_TARGET_TOO_LOW_S", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3cac8c7b33482e44350c2bd5e8dec713ad9", null ],
+      [ "ERR_ARENA_TEAM_TARGET_TOO_HIGH_S", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3ca17bc7cae6e897ba316ede8d045e1e478", null ],
+      [ "ERR_ARENA_TEAM_TOO_MANY_MEMBERS_S", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3ca00fe0fff5f647873a102d0ff5aafa713", null ],
+      [ "ERR_ARENA_TEAM_NOT_FOUND", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3ca6f8d79650a20ea97beef68557013afbc", null ],
+      [ "ERR_ARENA_TEAMS_LOCKED", "de/d1a/a01559.html#aaef5689eecf34c2bfc684e272a576b3ca6ffa2803290c499255e02a15ac6056af", null ]
     ] ],
-    [ "ShutdownExitCode", "d8/d59/a05062.html#ga06d1e4f345fc9b7a45e5b1b9f1919efc", [
-      [ "SHUTDOWN_EXIT_CODE", "d8/d59/a05062.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf18aae50edbb1083eb3b45656b52f999", null ],
-      [ "ERROR_EXIT_CODE", "d8/d59/a05062.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08", null ],
-      [ "RESTART_EXIT_CODE", "d8/d59/a05062.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcabfbc19d06d002a2b3e03ff2e13c3fb61", null ]
+    [ "ArenaTeamCommandTypes", "de/d1a/a01559.html#a1fcb206499884c4432a2fb3f1bc2e9f8", [
+      [ "ERR_ARENA_TEAM_CREATE_S", "de/d1a/a01559.html#a1fcb206499884c4432a2fb3f1bc2e9f8acf8f425d01f57269e321e56e23327c6c", null ],
+      [ "ERR_ARENA_TEAM_INVITE_SS", "de/d1a/a01559.html#a1fcb206499884c4432a2fb3f1bc2e9f8a6db086a93e3a2cef750fa4611d0599c8", null ],
+      [ "ERR_ARENA_TEAM_QUIT_S", "de/d1a/a01559.html#a1fcb206499884c4432a2fb3f1bc2e9f8a94c61be43bc38d745d50cb849e7c677c", null ],
+      [ "ERR_ARENA_TEAM_FOUNDER_S", "de/d1a/a01559.html#a1fcb206499884c4432a2fb3f1bc2e9f8a37f9df0d4f22190b5310924b6ac930f1", null ]
     ] ],
-    [ "ShutdownMask", "d8/d59/a05062.html#ga11501f5782bd40fa2c7b56d7b12221e2", [
-      [ "SHUTDOWN_MASK_RESTART", "d8/d59/a05062.html#gga11501f5782bd40fa2c7b56d7b12221e2a8198be8f6c6a5b3e7588ffd64a95312f", null ],
-      [ "SHUTDOWN_MASK_IDLE", "d8/d59/a05062.html#gga11501f5782bd40fa2c7b56d7b12221e2aecfb61fe30dad8b80bb93881cafe105d", null ]
+    [ "ArenaTeamEvents", "de/d1a/a01559.html#ac0a8573a87f770ea7c10df9b77e51c8a", [
+      [ "ERR_ARENA_TEAM_JOIN_SS", "de/d1a/a01559.html#ac0a8573a87f770ea7c10df9b77e51c8aa87a592f39d8b998672029e2ede3bc7d9", null ],
+      [ "ERR_ARENA_TEAM_LEAVE_SS", "de/d1a/a01559.html#ac0a8573a87f770ea7c10df9b77e51c8aa483c8031ec08a7c47b67b55b8dd949da", null ],
+      [ "ERR_ARENA_TEAM_REMOVE_SSS", "de/d1a/a01559.html#ac0a8573a87f770ea7c10df9b77e51c8aa44614d25e1c22b45bd4c11f09f69b6ae", null ],
+      [ "ERR_ARENA_TEAM_LEADER_IS_SS", "de/d1a/a01559.html#ac0a8573a87f770ea7c10df9b77e51c8aac6e559df2f09cd936ce6ff89d53ce87c", null ],
+      [ "ERR_ARENA_TEAM_LEADER_CHANGED_SSS", "de/d1a/a01559.html#ac0a8573a87f770ea7c10df9b77e51c8aa1e0474620fe85d5a5073c37c645ff612", null ],
+      [ "ERR_ARENA_TEAM_DISBANDED_S", "de/d1a/a01559.html#ac0a8573a87f770ea7c10df9b77e51c8aa80c970a7a9b0d59fc7dd0435bbd13c97", null ]
     ] ],
-    [ "WorldTimers", "d8/d59/a05062.html#ga4dcd824b4592ac27595e16471efe0520", [
-      [ "WUPDATE_UPTIME", "d8/d59/a05062.html#gga4dcd824b4592ac27595e16471efe0520aa7880547231a7f7d8798a527cf0aad9c", null ],
-      [ "WUPDATE_EVENTS", "d8/d59/a05062.html#gga4dcd824b4592ac27595e16471efe0520ad21d0e0cae7555877c5805ce446e2628", null ],
-      [ "WUPDATE_CLEANDB", "d8/d59/a05062.html#gga4dcd824b4592ac27595e16471efe0520a26e7cf66fbcba5c52d1716b77262981f", null ],
-      [ "WUPDATE_AUTOBROADCAST", "d8/d59/a05062.html#gga4dcd824b4592ac27595e16471efe0520a8ed1fe2bb98e8e56fe8604d549af261d", null ],
-      [ "WUPDATE_MAILBOXQUEUE", "d8/d59/a05062.html#gga4dcd824b4592ac27595e16471efe0520a24504584cc49b4459dc084dd0af67e69", null ],
-      [ "WUPDATE_PINGDB", "d8/d59/a05062.html#gga4dcd824b4592ac27595e16471efe0520a4561c29a80e9042cfd1fb7c5ccde1c4a", null ],
-      [ "WUPDATE_5_SECS", "d8/d59/a05062.html#gga4dcd824b4592ac27595e16471efe0520a81759ebc68e35638c5d56ee97fb7afc0", null ],
-      [ "WUPDATE_WHO_LIST", "d8/d59/a05062.html#gga4dcd824b4592ac27595e16471efe0520aa227ebddbdbccda039ebb8e732dcdb56", null ],
-      [ "WUPDATE_COUNT", "d8/d59/a05062.html#gga4dcd824b4592ac27595e16471efe0520a1c180839188a9324a906a5602833f604", null ]
+    [ "ArenaTeamInfoType", "de/d1a/a01559.html#a70db3aa0de523db72170532f1968f53a", [
+      [ "ARENA_TEAM_ID", "de/d1a/a01559.html#a70db3aa0de523db72170532f1968f53aa7417fe6be6e65f6c6624065d21d8a67d", null ],
+      [ "ARENA_TEAM_TYPE", "de/d1a/a01559.html#a70db3aa0de523db72170532f1968f53aa4405261c9e2ef19502e7e683f5d50599", null ],
+      [ "ARENA_TEAM_MEMBER", "de/d1a/a01559.html#a70db3aa0de523db72170532f1968f53aaa0f054a6e3ee861880e5b5d5456534d5", null ],
+      [ "ARENA_TEAM_GAMES_WEEK", "de/d1a/a01559.html#a70db3aa0de523db72170532f1968f53aa0381830df98ba279e8144613469980af", null ],
+      [ "ARENA_TEAM_GAMES_SEASON", "de/d1a/a01559.html#a70db3aa0de523db72170532f1968f53aabdca49c47f5919deea0cbc99e949e39a", null ],
+      [ "ARENA_TEAM_WINS_SEASON", "de/d1a/a01559.html#a70db3aa0de523db72170532f1968f53aaa218bd11a0df7666bff40edceccdc7e3", null ],
+      [ "ARENA_TEAM_PERSONAL_RATING", "de/d1a/a01559.html#a70db3aa0de523db72170532f1968f53aa8f3ee63b5df0172896a6f69385928d9e", null ],
+      [ "ARENA_TEAM_END", "de/d1a/a01559.html#a70db3aa0de523db72170532f1968f53aa79d6199c026b36a46345fd73dd98211f", null ]
     ] ],
-    [ "getWorldInstance", "d8/d59/a05062.html#ga6bf640d0ef6703c32d9fa1618826319b", null ],
-    [ "realm", "d8/d59/a05062.html#gab842e78f86995775c494437356620779", null ]
+    [ "ArenaTeamTypes", "de/d1a/a01559.html#a4bcf5153b4e15b706a3ff2dada112cae", [
+      [ "ARENA_TEAM_2v2", "de/d1a/a01559.html#a4bcf5153b4e15b706a3ff2dada112caea6f737fce1aaa0bd705adbd47d6797614", null ],
+      [ "ARENA_TEAM_3v3", "de/d1a/a01559.html#a4bcf5153b4e15b706a3ff2dada112caea76932d9f9aa71ed9e8f709d14e8512bd", null ],
+      [ "ARENA_TEAM_5v5", "de/d1a/a01559.html#a4bcf5153b4e15b706a3ff2dada112caea2ccfa6a14f64fde9ef92b9fc7e0417cc", null ]
+    ] ]
 ];

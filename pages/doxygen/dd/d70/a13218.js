@@ -1,5 +1,6 @@
 var a13218 =
 [
-    [ "boss_ellris_duskhallow", "dd/d70/a13218.html#a85dc1f923c8211180cc5b250fb509ba7", null ],
-    [ "JustEngagedWith", "dd/d70/a13218.html#a5bb5bc51b62ad371bf086c6ced2eee89", null ]
+    [ "HandleApply", "dd/d70/a13218.html#ac9f6f1927c9f66682892c32d4a431cc4", null ],
+    [ "PrepareAuraScript", "dd/d70/a13218.html#ae908ad87781553cc3bed05ea510a4447", null ],
+    [ "Register", "dd/d70/a13218.html#a391dff720ed9d2d48aa69e48e69ba8df", null ]
 ];

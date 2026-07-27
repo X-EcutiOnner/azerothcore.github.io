@@ -1,7 +1,6 @@
 var a14770 =
 [
-    [ "OnApply", "da/df0/a14770.html#a42148069675e663456bb5495fa5c8702", null ],
-    [ "OnPeriodic", "da/df0/a14770.html#ad3582b02b369e3029e20817dd19aede0", null ],
-    [ "PrepareAuraScript", "da/df0/a14770.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
-    [ "Register", "da/df0/a14770.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
+    [ "npc_direbrew_antagonist", "da/df0/a14770.html#a30fed4e6888d98af576dea8e13c510d3", null ],
+    [ "DoAction", "da/df0/a14770.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
+    [ "JustEngagedWith", "da/df0/a14770.html#aaf54b03d66d726901c289ff28d362787", null ]
 ];

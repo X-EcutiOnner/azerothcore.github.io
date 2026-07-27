@@ -1,7 +1,8 @@
 var a07606 =
 [
-    [ "BattlegroundObjectInfo", "d3/dd4/a07606.html#a848f2b15f47ceeb91c40e916d5659486", null ],
-    [ "object", "d3/dd4/a07606.html#a6722b83d6969c1a34b4846f19865075a", null ],
-    [ "spellid", "d3/dd4/a07606.html#ae0233a1078bc735e40855ea7608f5f11", null ],
-    [ "timer", "d3/dd4/a07606.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
+    [ "nbTowerCannonBottom", "d3/dd4/a07606.html#a06e8dcf63efd928b72f3ec7d433ccb89", null ],
+    [ "nbTurretTop", "d3/dd4/a07606.html#a5a728dccad89da190131cd93b62390b7", null ],
+    [ "TowerCannonBottom", "d3/dd4/a07606.html#a21fa09356b3349bf45865aa3f0920268", null ],
+    [ "towerEntry", "d3/dd4/a07606.html#a37e171a06a6e7bf5c0832417c597c2e1", null ],
+    [ "TurretTop", "d3/dd4/a07606.html#a6849ba6967fa275950da9fec16df9bec", null ]
 ];

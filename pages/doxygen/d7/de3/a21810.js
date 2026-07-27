@@ -1,6 +1,4 @@
 var a21810 =
 [
-    [ "HandleHealPct", "d7/de3/a21810.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "d7/de3/a21810.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "d7/de3/a21810.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "operator()", "d7/de3/a21810.html#a8176fb574f0eac852ed3528dcadac288", null ]
 ];

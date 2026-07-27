@@ -1,5 +1,9 @@
 var a14746 =
 [
-    [ "go_pumpkin_shrine", "d5/d11/a14746.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
-    [ "OnGossipSelect", "d5/d11/a14746.html#a35763a67d39c1d68974a9602ce26b699", null ]
+    [ "npc_brew_bubble", "d5/d11/a14746.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
+    [ "DoAction", "d5/d11/a14746.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
+    [ "MoveInLineOfSight", "d5/d11/a14746.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
+    [ "Reset", "d5/d11/a14746.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
+    [ "UpdateAI", "d5/d11/a14746.html#a25018deaa206620f6e98ba722f689b8d", null ],
+    [ "timer", "d5/d11/a14746.html#a4bee73add756ba4b3137818b2dacd27f", null ]
 ];

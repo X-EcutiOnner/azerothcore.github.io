@@ -1,6 +1,4 @@
 var a22646 =
 [
-    [ "HandleEffectRemove", "d8/da7/a22646.html#a99891cf49d35a857cd014fe83bc83e43", null ],
-    [ "PrepareAuraScript", "d8/da7/a22646.html#ab8fed8e7b561146cca35fe8534ea248c", null ],
-    [ "Register", "d8/da7/a22646.html#a5a65a3fca846dc40aeb31e4ff56958ca", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "d8/da7/a22646.html#a1523ad04993ce4ddf5b503355f7c856a", null ]
 ];

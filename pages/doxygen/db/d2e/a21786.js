@@ -1,12 +1,6 @@
 var a21786 =
 [
-    [ "npc_tournament_training_dummyAI", "db/d2e/a21786.html#ab84a35b5145c74f16dfbbe020dd9a73b", null ],
-    [ "DamageTaken", "db/d2e/a21786.html#a98c18794124922e6946a82a324410837", null ],
-    [ "EnterEvadeMode", "db/d2e/a21786.html#a3f31d705284b0fad2f00c9210ff06646", null ],
-    [ "MoveInLineOfSight", "db/d2e/a21786.html#a7a05c8682767f5a2d847e99eeed8e00f", null ],
-    [ "Reset", "db/d2e/a21786.html#a7339ffe52dc789f9480afca7141a169e", null ],
-    [ "SpellHit", "db/d2e/a21786.html#a5cd56075333fb59ddd8d4a48dc2eecdf", null ],
-    [ "UpdateAI", "db/d2e/a21786.html#a8bba917f0e0d67cd7a0121ab71d5a419", null ],
-    [ "events", "db/d2e/a21786.html#a77fa2ef2f15208ab8b284c71e0227fc4", null ],
-    [ "isVulnerable", "db/d2e/a21786.html#a4a4d3029a329e6eb253bc57c5f7b2a98", null ]
+    [ "CheckCast", "db/d2e/a21786.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
+    [ "PrepareSpellScript", "db/d2e/a21786.html#abff433d61c798d17882292b6b0956a58", null ],
+    [ "Register", "db/d2e/a21786.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
 ];

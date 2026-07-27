@@ -1,6 +1,7 @@
 var a28546 =
 [
-    [ "npc_garments_of_questsAI", "d5/d7c/a28550.html", "d5/d7c/a28550" ],
-    [ "npc_garments_of_quests", "d9/d21/a28546.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "d9/d21/a28546.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "npc_sayge", "d9/d21/a28546.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
+    [ "OnGossipHello", "d9/d21/a28546.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
+    [ "OnGossipSelect", "d9/d21/a28546.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
+    [ "SendAction", "d9/d21/a28546.html#aed1988335672423d024546654aa95298", null ]
 ];

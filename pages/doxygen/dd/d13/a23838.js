@@ -1,6 +1,6 @@
 var a23838 =
 [
-    [ "npc_torloth_the_magnificentAI", "db/d29/a23842.html", "db/d29/a23842" ],
-    [ "npc_torloth_the_magnificent", "dd/d13/a23838.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
-    [ "GetAI", "dd/d13/a23838.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
+    [ "npc_capernian", "dd/d13/a23838.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "dd/d13/a23838.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "dd/d13/a23838.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

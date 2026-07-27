@@ -1,7 +1,9 @@
 var a21626 =
 [
-    [ "HandleDummy", "d3/d13/a21626.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
-    [ "PrepareSpellScript", "d3/d13/a21626.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
-    [ "Register", "d3/d13/a21626.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
-    [ "Validate", "d3/d13/a21626.html#aeec15705a41ad2ac0e59d90086591d96", null ]
+    [ "npc_warmage_coldarraAI", "d3/d13/a21626.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
+    [ "AttackStart", "d3/d13/a21626.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
+    [ "JustEngagedWith", "d3/d13/a21626.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
+    [ "Reset", "d3/d13/a21626.html#adf5094ba2bee34ec793124e798d5af8f", null ],
+    [ "UpdateAI", "d3/d13/a21626.html#a14b221265cc38b4061c52b687274a398", null ],
+    [ "m_uiTimer", "d3/d13/a21626.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
 ];

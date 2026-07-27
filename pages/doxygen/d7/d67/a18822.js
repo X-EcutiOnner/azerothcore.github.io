@@ -1,6 +1,7 @@
 var a18822 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d9/d57/a18826.html", "d9/d57/a18826" ],
-    [ "npc_highlord_tirion_fordring_lh", "d7/d67/a18822.html#a96102a488330c54a3e3654c767e8e1a5", null ],
-    [ "GetAI", "d7/d67/a18822.html#aea42394c04c1763cffe10eb5eba09854", null ]
+    [ "HandleProc", "d7/d67/a18822.html#af06730a865009127c7d3e5423afd4d44", null ],
+    [ "PrepareAuraScript", "d7/d67/a18822.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
+    [ "Register", "d7/d67/a18822.html#a6c97b787ce00491a259c575d26189f8c", null ],
+    [ "Validate", "d7/d67/a18822.html#aed9c98e20d916359629e119d6dd2a94f", null ]
 ];

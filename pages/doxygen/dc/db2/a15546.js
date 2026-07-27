@@ -1,5 +1,6 @@
 var a15546 =
 [
-    [ "npc_toxic_slime", "dc/db2/a15546.html#a4c3a03916280342ec9aec07049de161f", null ],
-    [ "InitializeAI", "dc/db2/a15546.html#ae69f228040aaa5bc4df40a652f551992", null ]
+    [ "HandleScript", "dc/db2/a15546.html#a7e6ec873a252106ba865bdef05f757f5", null ],
+    [ "PrepareSpellScript", "dc/db2/a15546.html#a98e80c8726c350aca850b6c87c5861da", null ],
+    [ "Register", "dc/db2/a15546.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
 ];

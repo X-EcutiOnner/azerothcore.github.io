@@ -1,6 +1,7 @@
 var a26950 =
 [
-    [ "CheckCast", "df/d3a/a26950.html#a97f479cccecc6f37c75b47122b47e333", null ],
-    [ "PrepareSpellScript", "df/d3a/a26950.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
-    [ "Register", "df/d3a/a26950.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
+    [ "CheckProc", "df/d3a/a26950.html#adc34c24521c893499c72bc0fe8a946eb", null ],
+    [ "PrepareAuraScript", "df/d3a/a26950.html#a1e7cf41ceb818d7d234c1b998e7280be", null ],
+    [ "Register", "df/d3a/a26950.html#a60a2902196abf3239fe6b8f7defcd609", null ],
+    [ "Validate", "df/d3a/a26950.html#a13e108f88a07f0b46291cdc718022437", null ]
 ];

@@ -1,6 +1,10 @@
 var a14058 =
 [
-    [ "boss_blight_wormAI", "df/d01/a14062.html", "df/d01/a14062" ],
-    [ "boss_blight_worm", "d5/da0/a14058.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "d5/da0/a14058.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "npc_grand_magister_rommathAI", "d5/da0/a14058.html#a5e9404dd8bf4b513e05daac53c076314", null ],
+    [ "DoAction", "d5/da0/a14058.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
+    [ "MoveInLineOfSight", "d5/da0/a14058.html#ad35b64b37915484b133bcd185a832011", null ],
+    [ "UpdateAI", "d5/da0/a14058.html#ac687bd20f0ae66b21ce52c21561af417", null ],
+    [ "announced", "d5/da0/a14058.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
+    [ "events", "d5/da0/a14058.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
+    [ "playerGUID", "d5/da0/a14058.html#ad0ac0647feb998e837a44b0a688694e9", null ]
 ];

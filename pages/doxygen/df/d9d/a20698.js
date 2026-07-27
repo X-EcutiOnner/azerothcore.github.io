@@ -1,8 +1,6 @@
 var a20698 =
 [
-    [ "FilterTargets", "df/d9d/a20698.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "df/d9d/a20698.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "df/d9d/a20698.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "df/d9d/a20698.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "df/d9d/a20698.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "npc_ulduar_rocket_strike_trigger", "df/d9d/a20698.html#a14fc5830fe192856bd7c99f78de91070", null ],
+    [ "InitializeAI", "df/d9d/a20698.html#a50b4312f060d62e1c4e3ff144add48d8", null ],
+    [ "SpellHitTarget", "df/d9d/a20698.html#ad4a438c5143a6de2b469baa28f0893c5", null ]
 ];

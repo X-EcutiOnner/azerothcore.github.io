@@ -1,5 +1,6 @@
 var a14310 =
 [
-    [ "at_zulgurub_bridge_speech", "d5/d1b/a14310.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
-    [ "_OnTrigger", "d5/d1b/a14310.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
+    [ "npc_tapoke_slim_jahnAI", "d8/d73/a14314.html", "d8/d73/a14314" ],
+    [ "npc_tapoke_slim_jahn", "d5/d1b/a14310.html#a61e36b57f8ba78c371d454efb1512579", null ],
+    [ "GetAI", "d5/d1b/a14310.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
 ];

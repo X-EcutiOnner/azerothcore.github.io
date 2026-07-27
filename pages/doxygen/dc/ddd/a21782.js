@@ -1,6 +1,7 @@
 var a21782 =
 [
-    [ "npc_tournament_training_dummyAI", "db/d2e/a21786.html", "db/d2e/a21786" ],
-    [ "npc_tournament_training_dummy", "dc/ddd/a21782.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
-    [ "GetAI", "dc/ddd/a21782.html#a31257c155c3a49c69771156800cf6340", null ]
+    [ "CheckCast", "dc/ddd/a21782.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
+    [ "HandleScript", "dc/ddd/a21782.html#a8128bb2d7588409dae73bed78d5285a7", null ],
+    [ "PrepareSpellScript", "dc/ddd/a21782.html#aee17a8a21ec5df027082c6990189dccc", null ],
+    [ "Register", "dc/ddd/a21782.html#a2a97265e102e9ce31997d99275b42973", null ]
 ];

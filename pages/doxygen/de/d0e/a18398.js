@@ -1,9 +1,11 @@
 var a18398 =
 [
-    [ "ShadowTrapLKTargetSelector", "de/d0e/a18398.html#a33561775948e07ac6ade2037f237441d", null ],
-    [ "operator()", "de/d0e/a18398.html#a3770329509c6ab2f16ae369ea8d72645", null ],
-    [ "_maxDist", "de/d0e/a18398.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
-    [ "_playerOnly", "de/d0e/a18398.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
-    [ "_reqLOS", "de/d0e/a18398.html#a7911be23196f59d55028affc3be23c20", null ],
-    [ "_source", "de/d0e/a18398.html#af416013aabf3b217b07228072076603d", null ]
+    [ "npc_little_oozeAI", "de/d0e/a18398.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
+    [ "EnterEvadeMode", "de/d0e/a18398.html#a0bd4bfcc8c373a449f297011289e5530", null ],
+    [ "IsSummonedBy", "de/d0e/a18398.html#afb9763ade36bd742398a8bca961c136b", null ],
+    [ "JustDied", "de/d0e/a18398.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
+    [ "UpdateAI", "de/d0e/a18398.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
+    [ "events", "de/d0e/a18398.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
+    [ "firstUpdate", "de/d0e/a18398.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
+    [ "instance", "de/d0e/a18398.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
 ];

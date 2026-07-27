@@ -1,7 +1,12 @@
 var a10290 =
 [
-    [ "Finalize", "d3/d0d/a10290.html#a90c8b42ef67968bf58acae5678dc7496", null ],
-    [ "Initialize", "d3/d0d/a10290.html#ad6b97c3e2884dfbe3f17e2579b31ac66", null ],
-    [ "Reset", "d3/d0d/a10290.html#a6db99ea9863dc60d032bacda37afa078", null ],
-    [ "Update", "d3/d0d/a10290.html#af044c8725ef11e8a152987225521ef8b", null ]
+    [ "MapReference", "d3/d0d/a10290.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
+    [ "~MapReference", "d3/d0d/a10290.html#a1e93b44871737991140718322fd1cd69", null ],
+    [ "next", "d3/d0d/a10290.html#a352ef695a8968a17e921861b7d6242c1", null ],
+    [ "next", "d3/d0d/a10290.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
+    [ "nocheck_prev", "d3/d0d/a10290.html#a6cfff18295cf049ff554b0f140680890", null ],
+    [ "nockeck_prev", "d3/d0d/a10290.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
+    [ "sourceObjectDestroyLink", "d3/d0d/a10290.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
+    [ "targetObjectBuildLink", "d3/d0d/a10290.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
+    [ "targetObjectDestroyLink", "d3/d0d/a10290.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
 ];

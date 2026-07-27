@@ -1,5 +1,6 @@
 var a29954 =
 [
-    [ "fcc", "d0/dbc/a29954.html#a828a2845e666d6eb47d6d4705a663a3d", null ],
-    [ "fcc_txt", "d0/dbc/a29954.html#acf0f4449ab5a64822833b86b41e2487c", null ]
+    [ "CreateArmorProcConfig", "d0/dbc/a29954.html#aae16272567352cb8730edcba3908a08f", null ],
+    [ "CreateWeaponProcConfig", "d0/dbc/a29954.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
+    [ "SetUp", "d0/dbc/a29954.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
 ];

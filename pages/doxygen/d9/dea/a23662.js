@@ -1,11 +1,15 @@
 var a23662 =
 [
-    [ "npc_aeranasAI", "d9/dea/a23662.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "JustReachedHome", "d9/dea/a23662.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
-    [ "Reset", "d9/dea/a23662.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "d9/dea/a23662.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "_defeated", "d9/dea/a23662.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
-    [ "envelopingWinds_Timer", "d9/dea/a23662.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "d9/dea/a23662.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "d9/dea/a23662.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "npc_shattered_hand_scout", "d9/dea/a23662.html#a51a57eaaad75817a9b5a81210e01ed51", null ],
+    [ "DamageTaken", "d9/dea/a23662.html#ad37c34ae2dee082f1b4eed90bc4a3618", null ],
+    [ "FireArrows", "d9/dea/a23662.html#aa3043011d7d9e7b7c5826b9afc7581d1", null ],
+    [ "GetPorung", "d9/dea/a23662.html#a575b12c40aeccd6d0cdd63f71a3b93d6", null ],
+    [ "MoveInLineOfSight", "d9/dea/a23662.html#a2ddb6fd6aa6221768ff71257f4bdd81b", null ],
+    [ "MovementInform", "d9/dea/a23662.html#a6f6198c2faf68823b1d4c8237044784b", null ],
+    [ "Reset", "d9/dea/a23662.html#a1fcf0da2cc4a0554f04b3624b68de598", null ],
+    [ "SetData", "d9/dea/a23662.html#a9416dd89c4728538971abc5975c7080f", null ],
+    [ "UpdateAI", "d9/dea/a23662.html#a91c2c7eca064d6eaafe5ecaeca4344b4", null ],
+    [ "_firstZealots", "d9/dea/a23662.html#a2b5fd63b01e4ecb96b006e3870b37609", null ],
+    [ "_scheduler", "d9/dea/a23662.html#a376f6eab11f8399493d5d33b5c4ea35a", null ],
+    [ "_zealotGUIDs", "d9/dea/a23662.html#a26381a05bb007fdb4b7da97a19a878da", null ]
 ];

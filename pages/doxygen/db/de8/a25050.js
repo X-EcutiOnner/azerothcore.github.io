@@ -1,6 +1,7 @@
 var a25050 =
 [
-    [ "HandleScriptEffect", "db/de8/a25050.html#a78a131bdf6a1406604edd130c28d664b", null ],
-    [ "PrepareSpellScript", "db/de8/a25050.html#a3b2d739227e57667a284ae4600ec1bb6", null ],
-    [ "Register", "db/de8/a25050.html#a8a70913369aa733160366f37ff1c3470", null ]
+    [ "CheckProc", "db/de8/a25050.html#ab376febda606dba5e9f7f5639f867859", null ],
+    [ "HandleProc", "db/de8/a25050.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
+    [ "PrepareAuraScript", "db/de8/a25050.html#a7693a86824050ff5615996d0d03d0292", null ],
+    [ "Register", "db/de8/a25050.html#a458745913288889f687bb19a147cb0fb", null ]
 ];

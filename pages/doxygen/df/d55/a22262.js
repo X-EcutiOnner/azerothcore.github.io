@@ -1,8 +1,8 @@
 var a22262 =
 [
-    [ "npc_yor", "df/d55/a22262.html#a43ed8720d06c035085d481dbe6539dca", null ],
-    [ "JustEngagedWith", "df/d55/a22262.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
-    [ "Reset", "df/d55/a22262.html#aa698540b646fd870b33afbaf19ddbe07", null ],
-    [ "UpdateAI", "df/d55/a22262.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
-    [ "_scheduler", "df/d55/a22262.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
+    [ "npc_time_lost_proto_drakeAI", "df/d55/a22262.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "InitializeAI", "df/d55/a22262.html#a6b99780951a126a97db88e7307c1d1b9", null ],
+    [ "JustEngagedWith", "df/d55/a22262.html#ab95266d60769aa4099ca0f1bf678f237", null ],
+    [ "Reset", "df/d55/a22262.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "UpdateAI", "df/d55/a22262.html#abb28428b77beada6a378541ba11d090b", null ]
 ];

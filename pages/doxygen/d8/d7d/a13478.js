@@ -1,7 +1,6 @@
 var a13478 =
 [
-    [ "HandleAfterCast", "d8/d7d/a13478.html#afa662fbe1b777047259ac6212961f7a5", null ],
-    [ "HandleScript", "d8/d7d/a13478.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
-    [ "PrepareSpellScript", "d8/d7d/a13478.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
-    [ "Register", "d8/d7d/a13478.html#a4a898b0b096583af33f1f691a252b2ed", null ]
+    [ "instance_magisters_terrace_InstanceMapScript", "d2/d6f/a13482.html", "d2/d6f/a13482" ],
+    [ "instance_magisters_terrace", "d8/d7d/a13478.html#a81e23ce04c4d765193d2d2763ef78987", null ],
+    [ "GetInstanceScript", "d8/d7d/a13478.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
 ];

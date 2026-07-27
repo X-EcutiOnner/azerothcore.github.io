@@ -1,6 +1,6 @@
 var a22902 =
 [
-    [ "HandleApplyAura", "d5/dae/a22902.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "d5/dae/a22902.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "d5/dae/a22902.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "boss_reliquary_of_soulsAI", "d5/def/a22906.html", "d5/def/a22906" ],
+    [ "boss_reliquary_of_souls", "d5/dae/a22902.html#a0c73fc6221da0b19903e534932ca6406", null ],
+    [ "GetAI", "d5/dae/a22902.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
 ];

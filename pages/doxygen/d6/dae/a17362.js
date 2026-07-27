@@ -1,6 +1,10 @@
 var a17362 =
 [
-    [ "HandleEffectPeriodic", "d6/dae/a17362.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
-    [ "PrepareAuraScript", "d6/dae/a17362.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
-    [ "Register", "d6/dae/a17362.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
+    [ "boss_frostsworn_general", "d6/dae/a17362.html#adae1b1d60e78a33b875ac08312a454cf", null ],
+    [ "EnterEvadeMode", "d6/dae/a17362.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
+    [ "JustDied", "d6/dae/a17362.html#a14741cafce857fa819418ec3208c62fc", null ],
+    [ "JustEngagedWith", "d6/dae/a17362.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
+    [ "Reset", "d6/dae/a17362.html#a1576562e5fe2247235b152029aa8edce", null ],
+    [ "UpdateAI", "d6/dae/a17362.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
+    [ "instance", "d6/dae/a17362.html#ab04347cee4d7542171d622cfde936cb1", null ]
 ];

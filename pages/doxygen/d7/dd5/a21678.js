@@ -1,8 +1,6 @@
 var a21678 =
 [
-    [ "AfterApply", "d7/dd5/a21678.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
-    [ "AfterRemove", "d7/dd5/a21678.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
-    [ "PrepareAuraScript", "d7/dd5/a21678.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
-    [ "Register", "d7/dd5/a21678.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
-    [ "Validate", "d7/dd5/a21678.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
+    [ "npc_mei_francis_mountAI", "d0/d09/a21682.html", "d0/d09/a21682" ],
+    [ "npc_mei_francis_mount", "d7/dd5/a21678.html#ab34facb1d4d9a542710340493488eaa8", null ],
+    [ "GetAI", "d7/dd5/a21678.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
 ];

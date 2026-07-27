@@ -1,6 +1,7 @@
 var a24142 =
 [
-    [ "PrepareSpellScript", "dc/d11/a24142.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
-    [ "RecalculateDamage", "dc/d11/a24142.html#ab6a781160532d7cbb3bb3304eb412514", null ],
-    [ "Register", "dc/d11/a24142.html#a82395d00066e90abc58103b18a5ef4dc", null ]
+    [ "CheckRequirement", "dc/d11/a24142.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "dc/d11/a24142.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "dc/d11/a24142.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "dc/d11/a24142.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

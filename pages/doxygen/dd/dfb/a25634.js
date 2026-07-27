@@ -1,8 +1,7 @@
 var a25634 =
 [
-    [ "HandleDummy", "dd/dfb/a25634.html#a57897df074b7766c022526e082b4a13b", null ],
-    [ "Load", "dd/dfb/a25634.html#a47cbade67be124496c6194391ab51794", null ],
-    [ "PrepareSpellScript", "dd/dfb/a25634.html#af5e5a22976adfa5588ca8e054e19a669", null ],
-    [ "Register", "dd/dfb/a25634.html#ab0c3be8436b79288bb45899448fd6c1b", null ],
-    [ "Validate", "dd/dfb/a25634.html#a97d037267e385e0d3fd80543a5ddb366", null ]
+    [ "HandleScriptEffect", "dd/dfb/a25634.html#ab1d476e7a07da5db80908fb669b6fa6b", null ],
+    [ "PrepareSpellScript", "dd/dfb/a25634.html#acf30d245bab2e7a1ee1121008345e667", null ],
+    [ "Register", "dd/dfb/a25634.html#a303a38a41f3d9be6e3083690b234e51f", null ],
+    [ "Validate", "dd/dfb/a25634.html#a77a3256cdea185ce0ea95d88283c55d7", null ]
 ];

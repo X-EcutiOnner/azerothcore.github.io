@@ -1,5 +1,6 @@
 var a30146 =
 [
-    [ "Flags", "d4/d6f/a30146.html#a0cb97c73af91dcfdd151c38aa46828cc", null ],
-    [ "Id", "d4/d6f/a30146.html#a85e0e36dbc79f309d7f50b087ebcd166", null ]
+    [ "id", "d4/d6f/a30146.html#a5acc1b246a76073e1c97513251a4143d", null ],
+    [ "id", "d4/d6f/a30146.html#aaf844f570afdf7439ae7fbe0bbdc39e7", null ],
+    [ "name", "d4/d6f/a30146.html#ae5d1244981224aed1b7477caedd70175", null ]
 ];

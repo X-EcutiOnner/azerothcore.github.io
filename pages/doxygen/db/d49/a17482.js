@@ -1,6 +1,15 @@
 var a17482 =
 [
-    [ "ShockVortexExplodeEvent", "db/d49/a17482.html#ad972aed372822e10a476d1592192f3ea", null ],
-    [ "Execute", "db/d49/a17482.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
-    [ "_owner", "db/d49/a17482.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
+    [ "npc_pos_deathwhisper_necrolyteAI", "db/d49/a17482.html#ae03f3fef42fcbcecedaf38692d1e9131", null ],
+    [ "DamageTaken", "db/d49/a17482.html#aad000cc1310f22325a29131fad169cbc", null ],
+    [ "DoAction", "db/d49/a17482.html#a5d7a324073cfdbd01ae267964959f15b", null ],
+    [ "InitializeAI", "db/d49/a17482.html#ad84905d1385bce0e431c2baf1158a343", null ],
+    [ "JustEngagedWith", "db/d49/a17482.html#ae095fa3ceb484cc289a086be8c2f2552", null ],
+    [ "MoveInLineOfSight", "db/d49/a17482.html#a1d43b002628080d5faf2fd59347a7f79", null ],
+    [ "MovementInform", "db/d49/a17482.html#a849b06a045de5529706e83b03febe135", null ],
+    [ "Reset", "db/d49/a17482.html#a0e6b326b3c8102dd711c002537f2c339", null ],
+    [ "UpdateAI", "db/d49/a17482.html#ade1c91217b6c6e33bfca60a69a51bbc0", null ],
+    [ "events", "db/d49/a17482.html#a30d65bc3625ed22e11ed7e040451643c", null ],
+    [ "isInvincible", "db/d49/a17482.html#a0216b301112656fb75907ff1f0d50d0f", null ],
+    [ "pInstance", "db/d49/a17482.html#afb71e537115d36795c2568360b2d58ce", null ]
 ];

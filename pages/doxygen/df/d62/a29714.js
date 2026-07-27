@@ -1,13 +1,12 @@
 var a29714 =
 [
-    [ "MPQArchive", "df/d62/a29714.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "df/d62/a29714.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "MPQArchive", "df/d62/a29714.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "df/d62/a29714.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "close", "df/d62/a29714.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "close", "df/d62/a29714.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "GetFileListTo", "df/d62/a29714.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "GetFileListTo", "df/d62/a29714.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "isOpened", "df/d62/a29714.html#a2026335b9ede29197acfaac8513456d5", null ],
-    [ "mpq_a", "df/d62/a29714.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
+    [ "SetUp", "df/d62/a29714.html#a67c12a7a60e9c4a17ddddd7f2825b029", null ],
+    [ "TearDown", "df/d62/a29714.html#aaf740c51d0319f7116097a94fa55b8be", null ],
+    [ "PERM_BAN", "df/d62/a29714.html#a865f9650e6ce11f3feb66ee87969d402", null ],
+    [ "PERM_KICK", "df/d62/a29714.html#a5ac4c3503b0daa3280b097858380e8b5", null ],
+    [ "PERM_MUTE", "df/d62/a29714.html#a467f6ed1f2c9296bc6d630a13860c09b", null ],
+    [ "PERM_SHUTDOWN", "df/d62/a29714.html#a1b891d364bcc7786a9a3f3f8c2dbccf4", null ],
+    [ "rbacData", "df/d62/a29714.html#ace7a8836853498b4785b85eca7c71e96", null ],
+    [ "ROLE_ADMIN", "df/d62/a29714.html#a2f66e37c22a953a8f9c8cd831a7e6b93", null ],
+    [ "ROLE_MOD", "df/d62/a29714.html#ac9e1278f18b05d1ed0be1f277813c939", null ]
 ];

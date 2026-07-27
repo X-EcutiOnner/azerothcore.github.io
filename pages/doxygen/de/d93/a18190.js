@@ -1,16 +1,12 @@
 var a18190 =
 [
-    [ "boss_rotfaceAI", "de/d93/a18190.html#abe4c4df1732127814a507b0f99203ebb", null ],
-    [ "EnterEvadeMode", "de/d93/a18190.html#a8b166241350c7437c0baab2bc783dc93", null ],
-    [ "JustDied", "de/d93/a18190.html#ab5ba6f23e4a0f097386452bdd497ef5a", null ],
-    [ "JustEngagedWith", "de/d93/a18190.html#aa34831a7c2986451ff518a76547edecc", null ],
-    [ "JustReachedHome", "de/d93/a18190.html#adac69ee7aca11d5d355ef71a11a39a1d", null ],
-    [ "JustSummoned", "de/d93/a18190.html#aaa273c65b0545931797057ca4cdab1eb", null ],
-    [ "KilledUnit", "de/d93/a18190.html#a9356f21962b312eccfba1b3e75afaba0", null ],
-    [ "Reset", "de/d93/a18190.html#aed06635aabcb47fd700ab1a894bad13c", null ],
-    [ "SpellHitTarget", "de/d93/a18190.html#a99d88373a20464fac3ebf035430c2e75", null ],
-    [ "UpdateAI", "de/d93/a18190.html#aaf47878572d23bfb22f2ae77fed8d95e", null ],
-    [ "_oozeFloodDummyGUIDs", "de/d93/a18190.html#a28e859c796fc210cba9a1ac7bfd0124a", null ],
-    [ "_oozeFloodStage", "de/d93/a18190.html#aa007ed2c05914b1ce664d347bb04abaa", null ],
-    [ "infectionCooldown", "de/d93/a18190.html#a3b9c9223da7cd6163ea6369fee6439f5", null ]
+    [ "npc_vengeful_shadeAI", "de/d93/a18190.html#acd3961c7c81f88a341cb71888c55c882", null ],
+    [ "AttackStart", "de/d93/a18190.html#afbd441c5ebf2207d37da1a905be1a247", null ],
+    [ "EnterEvadeMode", "de/d93/a18190.html#a37bffb02c4ebf6acab8c3474581056a6", null ],
+    [ "MoveInLineOfSight", "de/d93/a18190.html#a1e8e28e76f27edc5e07574e6050d7e5f", null ],
+    [ "Reset", "de/d93/a18190.html#acf85448a221a37be819b7ab82f4f9fdc", null ],
+    [ "SpellHitTarget", "de/d93/a18190.html#af9b40af943ee8a7c9bd8866f116871fc", null ],
+    [ "UpdateAI", "de/d93/a18190.html#a3a353d677b469d750474a7497c5224a7", null ],
+    [ "targetGUID", "de/d93/a18190.html#a75c3f61506fe42e41b10a2e67f5b091d", null ],
+    [ "unroot_timer", "de/d93/a18190.html#a49ea66a0fb6e3c09730d92308bd1cac7", null ]
 ];

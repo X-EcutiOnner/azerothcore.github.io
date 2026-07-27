@@ -1,6 +1,8 @@
 var a16954 =
 [
-    [ "npc_announcer_toc10", "d3/d06/a16954.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
-    [ "OnGossipHello", "d3/d06/a16954.html#afcc5262e7c49b7456af146de14805a06", null ],
-    [ "OnGossipSelect", "d3/d06/a16954.html#a9a2bf1d3a215332744ca473041cc0520", null ]
+    [ "npc_toc_hunterAI", "d3/d06/a16954.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "d3/d06/a16954.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "d3/d06/a16954.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "d3/d06/a16954.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "d3/d06/a16954.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

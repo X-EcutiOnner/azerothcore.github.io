@@ -1,11 +1,8 @@
 var a18734 =
 [
-    [ "npc_valithria_cloudAI", "d0/d55/a18734.html#a5b550d0154f302cecc509fbd868a53bb", null ],
-    [ "AttackStart", "d0/d55/a18734.html#a5835d5ba19e1480016e585c1e49489c9", null ],
-    [ "EnterEvadeMode", "d0/d55/a18734.html#a346fd998d41451d7d1e605afdb13b65c", null ],
-    [ "MoveInLineOfSight", "d0/d55/a18734.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
-    [ "Reset", "d0/d55/a18734.html#abca34d7285ef23c062006df8f8ae6d53", null ],
-    [ "UpdateAI", "d0/d55/a18734.html#a6908f5731915bf7d15bb4921c960aa30", null ],
-    [ "_events", "d0/d55/a18734.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
-    [ "_instance", "d0/d55/a18734.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
+    [ "ChangeDamageAndGrow", "d0/d55/a18734.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "d0/d55/a18734.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "d0/d55/a18734.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "d0/d55/a18734.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "d0/d55/a18734.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

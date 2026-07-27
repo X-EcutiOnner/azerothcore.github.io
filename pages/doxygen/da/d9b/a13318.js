@@ -1,10 +1,11 @@
 var a13318 =
 [
-    [ "npc_scarlet_courierAI", "da/d9b/a13318.html#a83c5e32659d38a513790322e46dcc283", null ],
-    [ "JustEngagedWith", "da/d9b/a13318.html#aa470197f0949a413c421bda8c7c09279", null ],
-    [ "MovementInform", "da/d9b/a13318.html#add19812d92d62b602f96ffc5fb513d6c", null ],
-    [ "Reset", "da/d9b/a13318.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
-    [ "UpdateAI", "da/d9b/a13318.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
-    [ "uiStage", "da/d9b/a13318.html#a2f920922f8c6f1a878d0e4978e081257", null ],
-    [ "uiStage_timer", "da/d9b/a13318.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
+    [ "boss_terestian_illhoof", "da/d9b/a13318.html#a5750bf4f12ac01216335a926f885e136", null ],
+    [ "JustDied", "da/d9b/a13318.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
+    [ "JustEngagedWith", "da/d9b/a13318.html#adc1f9195954eda7ec406ac9a084b7508", null ],
+    [ "JustSummoned", "da/d9b/a13318.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
+    [ "KilledUnit", "da/d9b/a13318.html#ab7de8b406de200eec981fab79a56dcd7", null ],
+    [ "Reset", "da/d9b/a13318.html#a685b00f0e3317740412adfc48df1c3fb", null ],
+    [ "SpellHit", "da/d9b/a13318.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
+    [ "SummonKilrek", "da/d9b/a13318.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
 ];

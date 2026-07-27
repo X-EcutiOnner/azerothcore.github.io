@@ -1,6 +1,5 @@
 var a20530 =
 [
-    [ "OnPeriodic", "d7/d23/a20530.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
-    [ "PrepareAuraScript", "d7/d23/a20530.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
-    [ "Register", "d7/d23/a20530.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
+    [ "achievement_i_could_say_that_this_cache_was_rare", "d7/d23/a20530.html#a8ec1949d92f21fe57f967e510453da3e", null ],
+    [ "OnCheck", "d7/d23/a20530.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
 ];

@@ -1,6 +1,6 @@
 var a14286 =
 [
-    [ "OnEffect", "d0/d2c/a14286.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
-    [ "PrepareSpellScript", "d0/d2c/a14286.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
-    [ "Register", "d0/d2c/a14286.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
+    [ "npc_the_scourge_cauldronAI", "d0/dcf/a14290.html", "d0/dcf/a14290" ],
+    [ "npc_the_scourge_cauldron", "d0/d2c/a14286.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
+    [ "GetAI", "d0/d2c/a14286.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
 ];

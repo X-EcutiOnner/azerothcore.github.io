@@ -1,7 +1,6 @@
 var a21614 =
 [
-    [ "HandleScript", "df/d50/a21614.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "df/d50/a21614.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "df/d50/a21614.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "df/d50/a21614.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "npc_valiance_keep_cannoneerAI", "dd/dbe/a21618.html", "dd/dbe/a21618" ],
+    [ "npc_valiance_keep_cannoneer", "df/d50/a21614.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
+    [ "GetAI", "df/d50/a21614.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
 ];

@@ -1,7 +1,6 @@
 var a18798 =
 [
-    [ "HandleForceCast", "d9/d5d/a18798.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "d9/d5d/a18798.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "d9/d5d/a18798.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "d9/d5d/a18798.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "npc_terenas_menethilAI", "d7/da0/a18802.html", "d7/da0/a18802" ],
+    [ "npc_terenas_menethil", "d9/d5d/a18798.html#a6b6850598c582e3d44c13275302fd32d", null ],
+    [ "GetAI", "d9/d5d/a18798.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
 ];

@@ -1,9 +1,6 @@
 var a21350 =
 [
-    [ "npc_mageguard_dalaranAI", "da/dfc/a21350.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
-    [ "AttackStart", "da/dfc/a21350.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
-    [ "JustEngagedWith", "da/dfc/a21350.html#aac463689ae5a488ec2acb8a0310689d8", null ],
-    [ "MoveInLineOfSight", "da/dfc/a21350.html#aafb32462693e0efd9c80cf335f489754", null ],
-    [ "Reset", "da/dfc/a21350.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
-    [ "UpdateAI", "da/dfc/a21350.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
+    [ "instance_utgarde_pinnacle_InstanceMapScript", "db/df9/a21354.html", "db/df9/a21354" ],
+    [ "instance_utgarde_pinnacle", "da/dfc/a21350.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
+    [ "GetInstanceScript", "da/dfc/a21350.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
 ];

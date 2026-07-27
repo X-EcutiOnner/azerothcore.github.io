@@ -1,6 +1,6 @@
 var a21470 =
 [
-    [ "SACActivateEvent", "d2/d4e/a21470.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
-    [ "Execute", "d2/d4e/a21470.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
-    [ "_owner", "d2/d4e/a21470.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
+    [ "HandleEffectPeriodic", "d2/d4e/a21470.html#a508ff9e362d586497839aa29ceae1227", null ],
+    [ "PrepareAuraScript", "d2/d4e/a21470.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
+    [ "Register", "d2/d4e/a21470.html#a4b08cefe7d334635b70d389cc9df4901", null ]
 ];

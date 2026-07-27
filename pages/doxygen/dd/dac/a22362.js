@@ -1,6 +1,6 @@
 var a22362 =
 [
-    [ "HandleScriptEffect", "dd/dac/a22362.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
-    [ "PrepareSpellScript", "dd/dac/a22362.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
-    [ "Register", "dd/dac/a22362.html#aad6959f74932db219e991efd3b3af44a", null ]
+    [ "HandleEffectRemove", "dd/dac/a22362.html#a08c55501b95d4c92971fd5c95aaef1a7", null ],
+    [ "PrepareAuraScript", "dd/dac/a22362.html#aa0df1c7c112cf44fbe5a89894a1292b3", null ],
+    [ "Register", "dd/dac/a22362.html#a6f6ae6c012090337eb3f9ca4fd39749d", null ]
 ];

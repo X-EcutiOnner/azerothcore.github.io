@@ -1,16 +1,9 @@
 var a02270 =
 [
-    [ "instance_ulduar", "d9/dd5/a20941.html", "d9/dd5/a20941" ],
-    [ "instance_ulduar::instance_ulduar_InstanceMapScript", "d8/d80/a20945.html", "d8/d80/a20945" ],
-    [ "AddSC_instance_ulduar", "d4/de7/a02270.html#a93e6e71a7717be3946c53d3b6093e517", null ],
-    [ "boundaries", "d4/de7/a02270.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "d4/de7/a02270.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d4/de7/a02270.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameobjectData", "d4/de7/a02270.html#a845a92716bd40c99a93eb0715cd737b0", null ],
-    [ "ObservationRingKeeperBoss", "d4/de7/a02270.html#a86957a8b94f0bd1ffc5ac686aea19e80", null ],
-    [ "ObservationRingKeeperData", "d4/de7/a02270.html#a6755ef0777c335a9aa03f94b33600e69", null ],
-    [ "ObservationRingKeeperEntry", "d4/de7/a02270.html#af6bfb66273606245524ffbaeba5d81ba", null ],
-    [ "ObservationRingKeepersPos", "d4/de7/a02270.html#a32b0d989ca45f804d22a3fbe4c34e26d", null ],
-    [ "summonData", "d4/de7/a02270.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ],
-    [ "vehiclePositions", "d4/de7/a02270.html#a41c6fcb7a2c575fa74a8e566a49bf1e1", null ]
+    [ "GetChaseRange", "d4/de7/a02270.html#a24fd9652d12d1ba9d62b8d6273664c55", null ],
+    [ "GetTargetSpeedInMotion", "d4/de7/a02270.html#a56719695683e0a1fbeaeb49d31f62d74", null ],
+    [ "GetVelocity", "d4/de7/a02270.html#a955c196fa9c96bf11e2d887d6cbac50c", null ],
+    [ "IsMutualChase", "d4/de7/a02270.html#a53d496abdea10dead20c7e6a9cb09cd6", null ],
+    [ "IsValidPredictedPosition", "d4/de7/a02270.html#a27995927630ed43ca4a79dff89cfb99c", null ],
+    [ "PredictPosition", "d4/de7/a02270.html#ada5b031ff95410ba84fd734c95c68099", null ]
 ];

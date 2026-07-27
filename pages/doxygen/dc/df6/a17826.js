@@ -1,7 +1,7 @@
 var a17826 =
 [
-    [ "npc_gunship_boarding_leaderAI", "dc/df6/a17826.html#ac20099905fd6fddda2561b88cf077b77", null ],
-    [ "JustEngagedWith", "dc/df6/a17826.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
-    [ "UpdateAI", "dc/df6/a17826.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
-    [ "_events", "dc/df6/a17826.html#affb899bbaa288e72a48d5518367b023d", null ]
+    [ "OnProc", "dc/df6/a17826.html#a5b6e96abb900da33657cdbbd137138e3", null ],
+    [ "PrepareAuraScript", "dc/df6/a17826.html#a5502476536a923e77af67c4bbcf005e3", null ],
+    [ "Register", "dc/df6/a17826.html#aca08edf219504156d6157c95702bb815", null ],
+    [ "Validate", "dc/df6/a17826.html#a52b1231f37e8b3d810614365659a98b6", null ]
 ];

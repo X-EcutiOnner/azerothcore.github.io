@@ -1,13 +1,13 @@
 var a19578 =
 [
-    [ "boss_drakosAI", "dd/df8/a19578.html#a75d771095897081457353be898b332c3", null ],
-    [ "JustDied", "dd/df8/a19578.html#a7235760bd407f49802bc9e26e8f3f22c", null ],
-    [ "JustEngagedWith", "dd/df8/a19578.html#a4bc15075d9e9a913783da482a7a167c7", null ],
-    [ "JustSummoned", "dd/df8/a19578.html#a06e21c4e5bd1a882ada074b9595d4088", null ],
-    [ "KilledUnit", "dd/df8/a19578.html#a4bd3e45b45660311d7510f58a1850648", null ],
-    [ "MoveInLineOfSight", "dd/df8/a19578.html#a10b2ca39887e906e6e1e33df82afc1da", null ],
-    [ "Reset", "dd/df8/a19578.html#a6fd78f4f45b9f2104acc481fb0f2763f", null ],
-    [ "UpdateAI", "dd/df8/a19578.html#abf761c7cda4031c31354d8c8d42963e0", null ],
-    [ "events", "dd/df8/a19578.html#ae86ad4fcc57cc1137411c881355f2f51", null ],
-    [ "pInstance", "dd/df8/a19578.html#adc9461ae5334634a9140f338547688b4", null ]
+    [ "boss_loathebAI", "dd/df8/a19578.html#a60256114947b0e9c01f5308108485935", null ],
+    [ "IsInRoom", "dd/df8/a19578.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
+    [ "JustDied", "dd/df8/a19578.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
+    [ "JustEngagedWith", "dd/df8/a19578.html#a1abcf157e05eeb634f8e857a2de35538", null ],
+    [ "JustSummoned", "dd/df8/a19578.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
+    [ "KilledUnit", "dd/df8/a19578.html#a4dac78bba24069050dd9df729dd58b45", null ],
+    [ "Reset", "dd/df8/a19578.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
+    [ "SummonedCreatureDies", "dd/df8/a19578.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
+    [ "UpdateAI", "dd/df8/a19578.html#ab009008f892493b822e5ea5491c58525", null ],
+    [ "doomCounter", "dd/df8/a19578.html#aed5c631ede2eea27451a74ae21221325", null ]
 ];

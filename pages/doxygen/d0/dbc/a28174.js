@@ -1,8 +1,9 @@
 var a28174 =
 [
-    [ "npc_wormholeAI", "d4/df4/a28178.html", "d4/df4/a28178" ],
-    [ "npc_wormhole", "d0/dbc/a28174.html#aeace4cbf665409786b86140709191cb0", null ],
-    [ "GetAI", "d0/dbc/a28174.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
-    [ "OnGossipHello", "d0/dbc/a28174.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
-    [ "OnGossipSelect", "d0/dbc/a28174.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
+    [ "go_tadpole_cageAI", "d0/dbc/a28174.html#a87dc192a13cecf834d49cd04451224cd", null ],
+    [ "GossipHello", "d0/dbc/a28174.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
+    [ "OnStateChanged", "d0/dbc/a28174.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
+    [ "SummonTadpoles", "d0/dbc/a28174.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
+    [ "UpdateAI", "d0/dbc/a28174.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
+    [ "requireSummon", "d0/dbc/a28174.html#a9884081855fc45776a6b12b9a68890e4", null ]
 ];

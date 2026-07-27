@@ -1,6 +1,10 @@
 var a15926 =
 [
-    [ "npc_custodian_of_timeAI", "d4/d18/a15930.html", "d4/d18/a15930" ],
-    [ "npc_custodian_of_time", "d5/d2a/a15926.html#a6018b30119ce819853a3c662b3d5347e", null ],
-    [ "GetAI", "d5/d2a/a15926.html#a57217b2dab1cab110f1c59526ca13c86", null ]
+    [ "npc_rabid_thistle_bearAI", "d5/d2a/a15926.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
+    [ "Initialize", "d5/d2a/a15926.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
+    [ "Reset", "d5/d2a/a15926.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
+    [ "SpellHit", "d5/d2a/a15926.html#a62bde5a122748564cc806046bf9dcbaa", null ],
+    [ "UpdateAI", "d5/d2a/a15926.html#a8f6c5b873756a58760b2861bc8b86804", null ],
+    [ "_events", "d5/d2a/a15926.html#ad3852bf4588c453642e75fcdc544767b", null ],
+    [ "_playerGUID", "d5/d2a/a15926.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
 ];

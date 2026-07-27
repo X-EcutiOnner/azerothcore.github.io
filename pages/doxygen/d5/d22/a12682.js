@@ -1,6 +1,5 @@
 var a12682 =
 [
-    [ "go_chromaggus_lever", "d5/d22/a12682.html#aa592f93028e323ed10102121d2d6b20e", null ],
-    [ "GossipHello", "d5/d22/a12682.html#abfb91ccfeb90152dc252f0110fb51715", null ],
-    [ "_instance", "d5/d22/a12682.html#a481373f4c49d76d3d0a41efcf2821f8f", null ]
+    [ "amount", "d5/d22/a12682.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b", null ],
+    [ "entry", "d5/d22/a12682.html#ac3d4d211ebb927b1b9a376ee956e1b26", null ]
 ];

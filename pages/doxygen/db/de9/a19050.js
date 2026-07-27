@@ -1,9 +1,6 @@
 var a19050 =
 [
-    [ "npc_icc_severed_essenceAI", "db/de9/a19050.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "db/de9/a19050.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "db/de9/a19050.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "db/de9/a19050.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "db/de9/a19050.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "db/de9/a19050.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "boss_sister_svalnaAI", "dd/df9/a19054.html", "dd/df9/a19054" ],
+    [ "boss_sister_svalna", "db/de9/a19050.html#a233a9606db61f6ab945350e98a0929ff", null ],
+    [ "GetAI", "db/de9/a19050.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
 ];

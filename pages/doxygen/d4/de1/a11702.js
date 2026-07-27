@@ -1,8 +1,12 @@
 var a11702 =
 [
-    [ "WorldObjectSpellAreaTargetCheck", "d4/de1/a11702.html#a0a6275bc4d2bbf7da27e4b0df7245ec2", null ],
-    [ "operator()", "d4/de1/a11702.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
-    [ "_position", "d4/de1/a11702.html#a680c45dd148161657da011a1772375ca", null ],
-    [ "_range", "d4/de1/a11702.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ],
-    [ "_searchReason", "d4/de1/a11702.html#aad544cdfe9423a7967dfed64aeaed995", null ]
+    [ "OpcodeTable", "db/df6/a05082.html#gacb286fdd22f1781abfb0d820b1f345aa", null ],
+    [ "OpcodeTable", "db/df6/a05082.html#ga0d719536cf746ad04a8ecc4fcca4a869", null ],
+    [ "~OpcodeTable", "db/df6/a05082.html#gac4e0724e0795156122c4fd8f07ade628", null ],
+    [ "Initialize", "db/df6/a05082.html#gac64814869d378e5bb7fa18144693fac1", null ],
+    [ "operator=", "db/df6/a05082.html#ga2153d4fe6b752cc2269cbfec7e8c3c84", null ],
+    [ "operator[]", "db/df6/a05082.html#gaa2cde2ecf8628ce12487ec9ce8fa37d1", null ],
+    [ "ValidateAndSetClientOpcode", "db/df6/a05082.html#ga95313e8e04ed3ab47f7104db9cf1db09", null ],
+    [ "ValidateAndSetServerOpcode", "db/df6/a05082.html#ga42b9c6fd72c2f463ab5cb3fb562151b6", null ],
+    [ "_internalTableClient", "db/df6/a05082.html#ga8c0d7f9f6248f9652fd8b8021b9a7677", null ]
 ];

@@ -1,5 +1,5 @@
 var a01550 =
 [
-    [ "MotdMap", "d8/daf/a01550.html#a5c662919d486ab6fdecf6195e172bc0d", null ],
-    [ "MotdPackets", "d8/daf/a01550.html#a58c795807a8c0ddf95b6dde3d1760c0a", null ]
+    [ "BGSpamProtect", "d6/dac/a07746.html", "d6/dac/a07746" ],
+    [ "sBGSpam", "d8/daf/a01550.html#ae37d7994736d43484a627d5de2af5fc1", null ]
 ];

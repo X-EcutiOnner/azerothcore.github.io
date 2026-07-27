@@ -1,7 +1,8 @@
 var a21026 =
 [
-    [ "HandlePeriodicDummy", "d6/d7a/a21026.html#a295f37cddccc696d450a0c4380d43c29", null ],
-    [ "PrepareAuraScript", "d6/d7a/a21026.html#a9453aa189ba53de3d89bbab183927cfc", null ],
-    [ "Register", "d6/d7a/a21026.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
-    [ "Validate", "d6/d7a/a21026.html#a475480c072aaccde7b00cf28aedff3ec", null ]
+    [ "OnApply", "d6/d7a/a21026.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
+    [ "OnRemove", "d6/d7a/a21026.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "d6/d7a/a21026.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "d6/d7a/a21026.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "d6/d7a/a21026.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

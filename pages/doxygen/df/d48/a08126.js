@@ -1,9 +1,5 @@
 var a08126 =
 [
-    [ "HyperlinkColor", "df/d48/a08126.html#a4b246814aa2e2ac930e1e9e4e79345f0", null ],
-    [ "operator==", "df/d48/a08126.html#aad186f06a8d61834ec94d29d305fa0f2", null ],
-    [ "a", "df/d48/a08126.html#a57d68da0bcaec609d89efb18185b7f03", null ],
-    [ "b", "df/d48/a08126.html#a5ef7a2aab07e2e9a5097a27a466adeca", null ],
-    [ "g", "df/d48/a08126.html#a4570365880f14c7f7c5e7d96332ae150", null ],
-    [ "r", "df/d48/a08126.html#a1b4e0f604b95a773d28b93601af8ffe0", null ]
+    [ "IsColorValid", "df/d48/a08126.html#ab291dc8bdb852a8386c2a3d1bd18cfad", null ],
+    [ "IsTextValid", "df/d48/a08126.html#ab9c8e4926f593058bf247f33b6089bc3", null ]
 ];

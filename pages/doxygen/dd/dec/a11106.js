@@ -1,7 +1,5 @@
 var a11106 =
 [
-    [ "GuildBankLogQueryResults", "dd/dec/a11106.html#a878f9545b3141a327de85771de4f1779", null ],
-    [ "Write", "dd/dec/a11106.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
-    [ "Entry", "dd/dec/a11106.html#a5f3704df5311f06833c3243201d35930", null ],
-    [ "Tab", "dd/dec/a11106.html#a214db612bb08e557dd41d3962c827dca", null ]
+    [ "GuildEventLogQuery", "dd/dec/a11106.html#af66d667a4b722745fa4f855870ef332c", null ],
+    [ "Read", "dd/dec/a11106.html#a48881f116070d5a7c03e7cace86656f6", null ]
 ];

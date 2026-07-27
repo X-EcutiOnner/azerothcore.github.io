@@ -1,7 +1,6 @@
 var a21434 =
 [
-    [ "CheckRequirement", "d3/d7b/a21434.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "d3/d7b/a21434.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "d3/d7b/a21434.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "d3/d7b/a21434.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "d8/d4b/a21438.html", "d8/d4b/a21438" ],
+    [ "instance_vault_of_archavon", "d3/d7b/a21434.html#a0be8d95ff0f3b751e6f833689e436310", null ],
+    [ "GetInstanceScript", "d3/d7b/a21434.html#abb955a8873a3a3021e164225dd1f857a", null ]
 ];

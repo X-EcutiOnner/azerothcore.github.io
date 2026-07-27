@@ -1,9 +1,6 @@
 var a24626 =
 [
-    [ "PrepareAuraScript", "d1/dbc/a24626.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
-    [ "Register", "d1/dbc/a24626.html#a04efbc64bfa0312bc1f372e403803c32", null ],
-    [ "Update", "d1/dbc/a24626.html#aa463442b994b6275b2e12fe06ae7805c", null ],
-    [ "amplitude", "d1/dbc/a24626.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
-    [ "amplitude", "d1/dbc/a24626.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
-    [ "isPeriodic", "d1/dbc/a24626.html#a0732bf60822bbb547be014566d0e092c", null ]
+    [ "RaiseDeadCheck", "d1/dbc/a24626.html#abc6439e5b457f2f6e832f504167a392d", null ],
+    [ "operator()", "d1/dbc/a24626.html#a9647e6afd21e7397f05349e66bea4326", null ],
+    [ "_caster", "d1/dbc/a24626.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
 ];

@@ -1,6 +1,6 @@
 var a19326 =
 [
-    [ "WebTargetSelector", "d5/db9/a19326.html#a2f19cffab18fd6f2f5a1d296aa1db47d", null ],
-    [ "operator()", "d5/db9/a19326.html#a289821eaae114ba384a9ee9b8c19325f", null ],
-    [ "_maexxna", "d5/db9/a19326.html#ad21c9ac380f7b97aacc06f08f1c45974", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "d4/dd9/a19330.html", "d4/dd9/a19330" ],
+    [ "npc_icc_nerubar_broodkeeper", "d5/db9/a19326.html#adf9c3bfb444fed50420c2e780b373f34", null ],
+    [ "GetAI", "d5/db9/a19326.html#ad12186da36f7bbf99275a746bc874bfc", null ]
 ];

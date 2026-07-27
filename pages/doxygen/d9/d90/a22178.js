@@ -1,4 +1,6 @@
 var a22178 =
 [
-    [ "idPatrol", "d9/d90/a22178.html#a1fbc40a9798b89ae8b903b1f5a6a8e67", null ]
+    [ "npc_mcmanus", "d9/d90/a22178.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
+    [ "OnGossipHello", "d9/d90/a22178.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
+    [ "OnGossipSelect", "d9/d90/a22178.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
 ];

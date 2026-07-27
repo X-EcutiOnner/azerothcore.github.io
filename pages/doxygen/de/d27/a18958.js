@@ -1,6 +1,6 @@
 var a18958 =
 [
-    [ "PrepareSpellScript", "de/d27/a18958.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "de/d27/a18958.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "de/d27/a18958.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "npc_gluttonous_abominationAI", "d0/d85/a18962.html", "d0/d85/a18962" ],
+    [ "npc_gluttonous_abomination", "de/d27/a18958.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
+    [ "GetAI", "de/d27/a18958.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
 ];

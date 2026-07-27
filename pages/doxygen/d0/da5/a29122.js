@@ -1,11 +1,19 @@
 var a29122 =
 [
-    [ "IsAvailable", "d0/da5/a29122.html#adfebd7a162ebae8396669de031c768a6", null ],
-    [ "operator bool", "d0/da5/a29122.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
-    [ "operator*", "d0/da5/a29122.html#a24733bf06b4a91abcf4945aa5303a275", null ],
-    [ "operator->", "d0/da5/a29122.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
-    [ "SecretMgr", "d0/da5/a29122.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
-    [ "lock", "d0/da5/a29122.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
-    [ "state", "d0/da5/a29122.html#acc49c1f1701d0119ea5fd92c49a80c8e", null ],
-    [ "value", "d0/da5/a29122.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
+    [ "FactionRespondsToCallForHelp", "d0/da5/a29122.html#af0d102e7e7ae480b2c61cf121bcd012a", null ],
+    [ "IsContestedGuardFaction", "d0/da5/a29122.html#a52d5e1e5b01946a3d6d66158910e9f6d", null ],
+    [ "IsFriendlyTo", "d0/da5/a29122.html#ac70cef62b2ec646d593d8742a3c02f08", null ],
+    [ "IsHostileTo", "d0/da5/a29122.html#a1aadbf23c1c81a958665d96e5bf76093", null ],
+    [ "IsHostileToAlliancePlayers", "d0/da5/a29122.html#a4d3bfc9845c9d20f2e9e42f3247e1977", null ],
+    [ "IsHostileToHordePlayers", "d0/da5/a29122.html#a1734226996b76623df70f6fd0fe8a1c0", null ],
+    [ "IsHostileToPlayers", "d0/da5/a29122.html#a349650c7af717e3c67392a0b9d1970e1", null ],
+    [ "IsNeutralToAll", "d0/da5/a29122.html#a99cb471bcc9071a3c152266caa4579ae", null ],
+    [ "enemyFaction", "d0/da5/a29122.html#ae53f6799be5ae4bf7ab047fd97a4a969", null ],
+    [ "faction", "d0/da5/a29122.html#a2cb03ed38c15f6e6db7b556200282541", null ],
+    [ "factionFlags", "d0/da5/a29122.html#af20e4983d34c419b4a14c60d8049d9f4", null ],
+    [ "friendFaction", "d0/da5/a29122.html#a9c89b58067e28de89cedf2572b5e0e31", null ],
+    [ "friendlyMask", "d0/da5/a29122.html#a6842badfb5e7e0ad3a26d250426c64b6", null ],
+    [ "hostileMask", "d0/da5/a29122.html#ab395ab86c3e553ea4a9b1ae901c6e7cb", null ],
+    [ "ID", "d0/da5/a29122.html#a22657898486c71df39da27b968e405d5", null ],
+    [ "ourMask", "d0/da5/a29122.html#a822685376430441eeb85c24fd26473b0", null ]
 ];

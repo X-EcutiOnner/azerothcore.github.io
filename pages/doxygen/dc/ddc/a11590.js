@@ -1,14 +1,6 @@
 var a11590 =
 [
-    [ "Account", "dc/ddc/a11590.html#acb9382abe66dd43176fb7af1f3020388", null ],
-    [ "AddonInfo", "dc/ddc/a11590.html#ad39c1b9e73d5bbbe45114e3358126d73", null ],
-    [ "BattlegroupID", "dc/ddc/a11590.html#aa09cd28d82e9d96d96a1ccefc4a313ca", null ],
-    [ "Build", "dc/ddc/a11590.html#ae4a83f8e8c81c1d797512245392fd582", null ],
-    [ "Digest", "dc/ddc/a11590.html#a6b795f38fb996534f502e1fa5de9e48e", null ],
-    [ "DosResponse", "dc/ddc/a11590.html#afe2b4146ef592a7067ddaeac449b0644", null ],
-    [ "LocalChallenge", "dc/ddc/a11590.html#a5c8c57127a0b1cd3cfa63503018c8ae3", null ],
-    [ "LoginServerID", "dc/ddc/a11590.html#a155f8107ac5a637501a169cfaf43c4b9", null ],
-    [ "LoginServerType", "dc/ddc/a11590.html#aea79adfcdb6acd5b6bf34fc9175cca3c", null ],
-    [ "RealmID", "dc/ddc/a11590.html#a944915bd95665075fdf4b6fa01de9a9f", null ],
-    [ "RegionID", "dc/ddc/a11590.html#a4052be051b41e931747b1956dc145d64", null ]
+    [ "QuestUpdateComplete", "dc/ddc/a11590.html#a1e6d102e4063facad1230b55d4048702", null ],
+    [ "Write", "dc/ddc/a11590.html#a2ec714ac25e784446e8a614587bd79b3", null ],
+    [ "QuestId", "dc/ddc/a11590.html#ac44a95d88d2970ee3e8bf0a8c57d578d", null ]
 ];

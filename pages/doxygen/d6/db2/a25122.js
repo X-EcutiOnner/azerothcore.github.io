@@ -1,6 +1,8 @@
 var a25122 =
 [
-    [ "HandleScript", "d6/db2/a25122.html#a3f63c080d2a74def0920cceaea18e1e2", null ],
-    [ "PrepareSpellScript", "d6/db2/a25122.html#a438c4c1763688210384b24305aeebe52", null ],
-    [ "Register", "d6/db2/a25122.html#a27b25fbbdd912505738728414b79380c", null ]
+    [ "Absorb", "d6/db2/a25122.html#aecfcbafe098adddba0a73965c447558c", null ],
+    [ "Load", "d6/db2/a25122.html#a1883cb4c86478359dd1ff8df25e2ec65", null ],
+    [ "PrepareAuraScript", "d6/db2/a25122.html#a3a65787dd5b7c1c796b98ce79f180d4d", null ],
+    [ "Register", "d6/db2/a25122.html#ab6bea7d62539841fa21fa8f3c8122707", null ],
+    [ "_limit", "d6/db2/a25122.html#a5985a97749e318e3ccba4c96724d8704", null ]
 ];

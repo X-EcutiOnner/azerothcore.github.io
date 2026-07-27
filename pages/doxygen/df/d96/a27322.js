@@ -1,8 +1,7 @@
 var a27322 =
 [
-    [ "HandleDummyTick", "df/d96/a27322.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
-    [ "HandleRemove", "df/d96/a27322.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
-    [ "PrepareAuraScript", "df/d96/a27322.html#a06e45d5f63ef1395b5949482e8393098", null ],
-    [ "Register", "df/d96/a27322.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
-    [ "Validate", "df/d96/a27322.html#a9a2da4d163a96526e14f5de76798a784", null ]
+    [ "CalculateAmount", "df/d96/a27322.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
+    [ "Load", "df/d96/a27322.html#ae2ef0eae77137c120ec61af8698677db", null ],
+    [ "PrepareAuraScript", "df/d96/a27322.html#acaecc78c031aa436f432fd7145478de4", null ],
+    [ "Register", "df/d96/a27322.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
 ];

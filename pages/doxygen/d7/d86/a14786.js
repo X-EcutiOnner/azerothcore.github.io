@@ -1,4 +1,7 @@
 var a14786 =
 [
-    [ "npc_midsummer_bonfire_despawner", "d7/d86/a14786.html#aacb82b08ec0fef0f53d7e251e010abd8", null ]
+    [ "FilterTargets", "d7/d86/a14786.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
+    [ "HandleDummy", "d7/d86/a14786.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
+    [ "PrepareSpellScript", "d7/d86/a14786.html#a6ac4db072beae6ae7a700774667da613", null ],
+    [ "Register", "d7/d86/a14786.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
 ];

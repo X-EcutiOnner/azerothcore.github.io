@@ -1,8 +1,7 @@
 var a23974 =
 [
-    [ "npc_pet_dk_ghoul", "d1/dcb/a23974.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
-    [ "IsSummonedBy", "d1/dcb/a23974.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
-    [ "JustDied", "d1/dcb/a23974.html#a6095e3619b470283b9875b90e2805b54", null ],
-    [ "UpdateAI", "d1/dcb/a23974.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
-    [ "_summonTargetGUID", "d1/dcb/a23974.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
+    [ "OnPeriodic", "d1/dcb/a23974.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "d1/dcb/a23974.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "d1/dcb/a23974.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "d1/dcb/a23974.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

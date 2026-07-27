@@ -1,7 +1,7 @@
 var a13266 =
 [
-    [ "HandleScriptEffect", "d4/d2a/a13266.html#a1cdba27f7311021407307bcd35235fed", null ],
-    [ "PrepareSpellScript", "d4/d2a/a13266.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
-    [ "Register", "d4/d2a/a13266.html#a9794991aa1710ce37112888eeb572796", null ],
-    [ "Validate", "d4/d2a/a13266.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
+    [ "OnRemove", "d4/d2a/a13266.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
+    [ "PrepareAuraScript", "d4/d2a/a13266.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
+    [ "Register", "d4/d2a/a13266.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
+    [ "Validate", "d4/d2a/a13266.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
 ];

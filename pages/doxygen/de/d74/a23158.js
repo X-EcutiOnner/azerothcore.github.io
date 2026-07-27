@@ -1,8 +1,6 @@
 var a23158 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "de/d74/a23158.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "de/d74/a23158.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "de/d74/a23158.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "de/d74/a23158.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "de/d74/a23158.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "HandleEffectRemove", "de/d74/a23158.html#a9e578e576d8fa4198cf1f0e9f03ba47a", null ],
+    [ "PrepareAuraScript", "de/d74/a23158.html#a5fa56f4d61c63487919bb2080795e391", null ],
+    [ "Register", "de/d74/a23158.html#a2d0bbef8b32c688b7409837b426d9cd1", null ]
 ];

@@ -1,6 +1,6 @@
 var a23034 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "dc/d6b/a23034.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
-    [ "OnGameObjectCreate", "dc/d6b/a23034.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
-    [ "SetBossState", "dc/d6b/a23034.html#ab1e344fbf169ee40f28741217f3dca14", null ]
+    [ "HandleSchoolDamage", "dc/d6b/a23034.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
+    [ "PrepareSpellScript", "dc/d6b/a23034.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
+    [ "Register", "dc/d6b/a23034.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
 ];

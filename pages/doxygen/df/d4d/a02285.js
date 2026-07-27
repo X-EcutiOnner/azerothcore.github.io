@@ -1,7 +1,7 @@
 var a02285 =
 [
-    [ "SQLQueryHolderBase", "d0/d97/a06200.html", "d0/d97/a06200" ],
-    [ "SQLQueryHolder< T >", "de/dcd/a06052.html", "de/dcd/a06052" ],
-    [ "SQLQueryHolderTask", "d1/dec/a06204.html", "d1/dec/a06204" ],
-    [ "SQLQueryHolderCallback", "df/df2/a06208.html", "df/df2/a06208" ]
+    [ "IdleMovementGenerator", "d2/dfb/a10438.html", "d2/dfb/a10438" ],
+    [ "RotateMovementGenerator", "d1/d9e/a10442.html", "d1/d9e/a10442" ],
+    [ "DistractMovementGenerator", "d2/df6/a10446.html", "d2/df6/a10446" ],
+    [ "AssistanceDistractMovementGenerator", "de/d72/a10450.html", "de/d72/a10450" ]
 ];

@@ -1,6 +1,8 @@
 var a26814 =
 [
-    [ "CheckRequirement", "d8/da7/a26814.html#a4ad49f2f781d1c6b27dd04f46203c6d4", null ],
-    [ "PrepareSpellScript", "d8/da7/a26814.html#a4263eebcb64f00152a4b64dafef20510", null ],
-    [ "Register", "d8/da7/a26814.html#a8b825a97f50abb0231036a3ff651531d", null ]
+    [ "CheckCast", "d8/da7/a26814.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
+    [ "PrepareSpellScript", "d8/da7/a26814.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
+    [ "Register", "d8/da7/a26814.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
+    [ "TriggerDebuffs", "d8/da7/a26814.html#a1579b28071e2194625f722a29ded39b8", null ],
+    [ "Validate", "d8/da7/a26814.html#a767853d4b05e055cb32991bfe8c6516a", null ]
 ];

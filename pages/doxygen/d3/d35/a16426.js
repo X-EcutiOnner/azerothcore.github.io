@@ -1,10 +1,11 @@
 var a16426 =
 [
-    [ "spell_halion_combustion_consumption_aura", "d3/d35/a16426.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
-    [ "AddMarkStack", "d3/d35/a16426.html#a337776c42bd6c42ecdffb508808ed070", null ],
-    [ "OnApply", "d3/d35/a16426.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
-    [ "OnRemove", "d3/d35/a16426.html#a3959dbe8bbdf2d3953daf14072614708", null ],
-    [ "PrepareAuraScript", "d3/d35/a16426.html#a334f2211429dde989b6beb6c10a71464", null ],
-    [ "Register", "d3/d35/a16426.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
-    [ "_markSpell", "d3/d35/a16426.html#a8236d9d50f267a12216d90f8041da439", null ]
+    [ "spell_hadronox_summon_periodic_aura", "d3/d35/a16426.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
+    [ "HandlePeriodic", "d3/d35/a16426.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "d3/d35/a16426.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "d3/d35/a16426.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "d3/d35/a16426.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "d3/d35/a16426.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "d3/d35/a16426.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
+    [ "_spellEntry", "d3/d35/a16426.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

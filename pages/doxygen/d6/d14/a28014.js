@@ -1,7 +1,5 @@
 var a28014 =
 [
-    [ "npc_engineering_tele_trinket", "d6/d14/a28014.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
-    [ "CanLearn", "d6/d14/a28014.html#a8a35f1c09a9df609561e76f4ed578647", null ],
-    [ "OnGossipHello", "d6/d14/a28014.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
-    [ "OnGossipSelect", "d6/d14/a28014.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
+    [ "achievement_killed_exp_or_honor_target", "d6/d14/a28014.html#aad432878c97af698dd1cc4019d716281", null ],
+    [ "OnCheck", "d6/d14/a28014.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
 ];

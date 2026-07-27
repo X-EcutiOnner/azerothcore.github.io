@@ -1,4 +1,4 @@
 var a00608 =
 [
-    [ "MapReference", "d8/dd1/a10252.html", "d8/dd1/a10252" ]
+    [ "AH_MINIMUM_DEPOSIT", "d4/d14/a00608.html#ae6debe42dd0e5674dcf1b874cebafe98", null ]
 ];

@@ -1,16 +1,36 @@
 var a05188 =
 [
-    [ "MDLCallback", "d9/d4a/a05192.html", "d9/d4a/a05192" ],
-    [ "ObjArray", "d6/d8c/a05188.html#a19e64f06ddaf36271df3c1192908042b", null ],
-    [ "BIHWrap", "d6/d8c/a05188.html#a8572b541e513074132ba0834e081ec05", null ],
-    [ "balance", "d6/d8c/a05188.html#a7a191f8c9d3b20807ef1db9be654ccd1", null ],
-    [ "insert", "d6/d8c/a05188.html#ab859ad633f695002cf37776c0e124bbf", null ],
-    [ "intersectPoint", "d6/d8c/a05188.html#affbe1a82d945190374753ab6af811ca4", null ],
-    [ "intersectRay", "d6/d8c/a05188.html#a6dcddc2503a0acabc0f29ddb5eace803", null ],
-    [ "remove", "d6/d8c/a05188.html#aeff1ff9ee3d3965dc4169ea6f0fc9839", null ],
-    [ "m_obj2Idx", "d6/d8c/a05188.html#a04248b957bc22dbae570a3d96a03adcd", null ],
-    [ "m_objects", "d6/d8c/a05188.html#a1e3b7eb01db291f5dd7febe7c7198ea3", null ],
-    [ "m_objects_to_push", "d6/d8c/a05188.html#abd68da8091bf1694013d1231936a8a2c", null ],
-    [ "m_tree", "d6/d8c/a05188.html#a13a40cee1097ab0435eb2d50518a41bf", null ],
-    [ "unbalanced_times", "d6/d8c/a05188.html#abc44d55ac155023c2661d2687c068a4b", null ]
+    [ "EffectApplyResult", "d1/d4c/a29898.html", "d1/d4c/a29898" ],
+    [ "EffectDesc", "dd/d09/a29890.html", "dd/d09/a29890" ],
+    [ "SpellDesc", "d5/d71/a29894.html", "d5/d71/a29894" ],
+    [ "AuraType", "d6/d8c/a05188.html#ab3c8788e4514711f326743e17cf18f33", [
+      [ "AURA_NONE", "d6/d8c/a05188.html#ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c", null ],
+      [ "AURA_MOD_DECREASE_SPEED", "d6/d8c/a05188.html#ab3c8788e4514711f326743e17cf18f33a1bb3542c472e476df1856aac0f5ccf48", null ],
+      [ "AURA_PERIODIC_DAMAGE", "d6/d8c/a05188.html#ab3c8788e4514711f326743e17cf18f33a6a2e2898c74255e2be848f8d851cd61b", null ],
+      [ "AURA_TRANSFORM", "d6/d8c/a05188.html#ab3c8788e4514711f326743e17cf18f33a856d9e6ed0a25dd7d099adeed0e46680", null ],
+      [ "AURA_MOD_STUN", "d6/d8c/a05188.html#ab3c8788e4514711f326743e17cf18f33a42c1557fe57b7d46ec7aaf73f8767ace", null ]
+    ] ],
+    [ "EffectType", "d6/d8c/a05188.html#ad4f0bfb68d839af88604b04ff47ee09b", [
+      [ "EFFECT_NONE", "d6/d8c/a05188.html#ad4f0bfb68d839af88604b04ff47ee09ba24edc96a60f35387b2a916bbd47597b9", null ],
+      [ "EFFECT_SCHOOL_DAMAGE", "d6/d8c/a05188.html#ad4f0bfb68d839af88604b04ff47ee09ba8c7f6ace4b718c242badbdd606f2f326", null ],
+      [ "EFFECT_HEALTH_LEECH", "d6/d8c/a05188.html#ad4f0bfb68d839af88604b04ff47ee09badf7d20f7f73744f8801a9e3722859857", null ],
+      [ "EFFECT_POWER_DRAIN", "d6/d8c/a05188.html#ad4f0bfb68d839af88604b04ff47ee09ba7f780b287e075a337dec7f1eff2f7fe6", null ],
+      [ "EFFECT_POWER_BURN", "d6/d8c/a05188.html#ad4f0bfb68d839af88604b04ff47ee09baa3b002d33deb9b0c599313ec88fbacbe", null ],
+      [ "EFFECT_NORMALIZED_WEAPON_DMG", "d6/d8c/a05188.html#ad4f0bfb68d839af88604b04ff47ee09bad0131549c4802cb811d2fabffcb09a86", null ],
+      [ "EFFECT_WEAPON_PERCENT_DAMAGE", "d6/d8c/a05188.html#ad4f0bfb68d839af88604b04ff47ee09ba789f2fcff65ef9724496bdd61374c413", null ],
+      [ "EFFECT_APPLY_AURA", "d6/d8c/a05188.html#ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a", null ],
+      [ "EFFECT_DUMMY", "d6/d8c/a05188.html#ad4f0bfb68d839af88604b04ff47ee09ba3beec166914f7490f010caa66eca7140", null ]
+    ] ],
+    [ "ApplyEffectsWithMovementImmunity", "d6/d8c/a05188.html#a3f6167aede97490fe6c435b6e981ee31", null ],
+    [ "ComputeSpellHitResult", "d6/d8c/a05188.html#a687cb216770a0868d03198480599bde5", null ],
+    [ "HasOnlyDamageEffects", "d6/d8c/a05188.html#ac2464881723f07e073fd8ad85dbbaa61", null ],
+    [ "IsBlockedBySchoolImmunity", "d6/d8c/a05188.html#aa9048e95a3ceb76f45272b1240af4a2c", null ],
+    [ "IsDamageEffect", "d6/d8c/a05188.html#a751e7c7dd00eb27194700629d22d50c6", null ],
+    [ "IsEffectBlockedByStunImmunity", "d6/d8c/a05188.html#accf0cc423cf1c4e9bf5ac0b660caed24", null ],
+    [ "IsFullyImmunedByStunImmunity", "d6/d8c/a05188.html#aaa953489abf2a825aea7d2aef9f904a3", null ],
+    [ "IsStunSpell", "d6/d8c/a05188.html#a95ec40b4341833086e531ed73dba7147", null ],
+    [ "MakeCycloneLikeSpell", "d6/d8c/a05188.html#a6db007c75130da75c1510de68536e7fd", null ],
+    [ "MakeDamageOnlySpell", "d6/d8c/a05188.html#ac9b0d1a51efd792514de07f8af0268cd", null ],
+    [ "MakeFrostboltLikeSpell", "d6/d8c/a05188.html#a4ae8bc0e855177e9fb9212a0b24fa2c0", null ],
+    [ "MakeSlowOnlySpell", "d6/d8c/a05188.html#ae0dcf3406441c72889d7703c788095a6", null ]
 ];

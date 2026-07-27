@@ -1,5 +1,6 @@
 var a18970 =
 [
-    [ "at_icc_start_blood_quickening", "de/de7/a18970.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
-    [ "OnTrigger", "de/de7/a18970.html#a814670e127b1eace6068a553b23d00f7", null ]
+    [ "HandleScript", "de/de7/a18970.html#a930b8a515b5d156c16925dc218cf8172", null ],
+    [ "PrepareSpellScript", "de/de7/a18970.html#a892b0ba0f6541b3557a0200be5028479", null ],
+    [ "Register", "de/de7/a18970.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
 ];

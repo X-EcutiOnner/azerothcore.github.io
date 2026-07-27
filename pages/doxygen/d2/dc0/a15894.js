@@ -1,5 +1,7 @@
 var a15894 =
 [
-    [ "go_crystalline_tear", "d2/dc0/a15894.html#a9e19c6538ecd1a758f2639171321d965", null ],
-    [ "OnQuestAccept", "d2/dc0/a15894.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
+    [ "npc_webbed_creatureAI", "d2/dc0/a15894.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "d2/dc0/a15894.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "d2/dc0/a15894.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "d2/dc0/a15894.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

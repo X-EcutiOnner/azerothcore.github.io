@@ -1,8 +1,10 @@
 var a09658 =
 [
-    [ "FriendlyMissingBuffInRange", "d1/d25/a09658.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
-    [ "operator()", "d1/d25/a09658.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
-    [ "i_obj", "d1/d25/a09658.html#aba43edf48b2b0184b52143707c3531f4", null ],
-    [ "i_range", "d1/d25/a09658.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
-    [ "i_spell", "d1/d25/a09658.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
+    [ "UnitLastSearcher", "d1/d25/a09658.html#a7924240df139cf0814282eaff8a898b6", null ],
+    [ "Visit", "d1/d25/a09658.html#a95a5148e040daf44ed19e3118621a4ca", null ],
+    [ "Visit", "d1/d25/a09658.html#ae9992afc09771d4f1e1517642075f17e", null ],
+    [ "Visit", "d1/d25/a09658.html#aadfcfdd95a9f2b61cb9ff4c7db43a014", null ],
+    [ "i_check", "d1/d25/a09658.html#a6cf23e7ed9198798da03e6ec3526ee97", null ],
+    [ "i_object", "d1/d25/a09658.html#a7bd2407800c461de70b217a4b48f9921", null ],
+    [ "i_phaseMask", "d1/d25/a09658.html#aee39e2b567813e1e7420de07b3fe9b08", null ]
 ];

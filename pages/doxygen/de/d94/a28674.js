@@ -1,8 +1,14 @@
 var a28674 =
 [
-    [ "ID", "de/d94/a28674.html#a36958c346c8554d9ab1cfb73ac583818", null ],
-    [ "Model", "de/d94/a28674.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
-    [ "Origin", "de/d94/a28674.html#a684c69add50ee545ee606ae456a93336", null ],
-    [ "OriginFacing", "de/d94/a28674.html#a460723250353c7720cd87677991283cf", null ],
-    [ "SoundID", "de/d94/a28674.html#aa56be05c7ab4015738e049d75ff365c6", null ]
+    [ "FlameshockerCheck", "d4/db0/a28678.html", "d4/db0/a28678" ],
+    [ "npc_pallid_horror", "de/d94/a28674.html#ae43fa737cdc303d68f34ac2fbb356814", null ],
+    [ "CorpseRemoved", "de/d94/a28674.html#a700af3062528a6c41f7f0985f1820b36", null ],
+    [ "InitializeAI", "de/d94/a28674.html#a2711bdb05ad74a4d0425b4f61dcddab4", null ],
+    [ "JustDied", "de/d94/a28674.html#a6145be6ed4a56ec8f8e923187ceea47c", null ],
+    [ "JustSummoned", "de/d94/a28674.html#a801e04d47de8d86dcfbfa552de54cd0f", null ],
+    [ "ScheduleTasks", "de/d94/a28674.html#aa9e851cb55238bb4cf6c1e7a9d309c20", null ],
+    [ "SummonFlameshockers", "de/d94/a28674.html#afc2625ef0ddae00fd14d3dbf7952b0cf", null ],
+    [ "UpdateAI", "de/d94/a28674.html#a701b52b2977017c692368a5d363dd6bd", null ],
+    [ "UpdateWeather", "de/d94/a28674.html#ac9c5b8d4274e443f4c74b2b40aa5830f", null ],
+    [ "_summons", "de/d94/a28674.html#a0948ef0c5971a8b6ffee2269d8bca3a6", null ]
 ];

@@ -1,5 +1,10 @@
 var a14650 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "d8/de4/a14650.html#a40207493c75d8a63284e08f1f75d56c4", null ],
-    [ "MoveInLineOfSight", "d8/de4/a14650.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
+    [ "npc_zealot_lorkhan", "d8/de4/a14650.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
+    [ "JustDied", "d8/de4/a14650.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
+    [ "JustEngagedWith", "d8/de4/a14650.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
+    [ "Reset", "d8/de4/a14650.html#abecbd4a2ea2cf3281244933fe7484239", null ],
+    [ "UpdateAI", "d8/de4/a14650.html#a68c35734f8886b2c241dcbc178899206", null ],
+    [ "_scheduler", "d8/de4/a14650.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
+    [ "instance", "d8/de4/a14650.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
 ];

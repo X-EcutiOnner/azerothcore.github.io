@@ -1,6 +1,6 @@
 var a14050 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d5/dfa/a14054.html", "d5/dfa/a14054" ],
-    [ "npc_jaina_proudmoore_bfu", "d7/de1/a14050.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "d7/de1/a14050.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "OnEffect", "d7/de1/a14050.html#a41903586310ec274dd10537ccb8655f3", null ],
+    [ "PrepareSpellScript", "d7/de1/a14050.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
+    [ "Register", "d7/de1/a14050.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
 ];

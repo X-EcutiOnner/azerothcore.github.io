@@ -1,7 +1,7 @@
 var a26450 =
 [
-    [ "FilterTargets", "de/df8/a26450.html#ad679149423fda97ad5744318520022b1", null ],
-    [ "PrepareSpellScript", "de/df8/a26450.html#ac57c48690c5ad1b907f56287aee949a4", null ],
-    [ "Register", "de/df8/a26450.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
-    [ "Validate", "de/df8/a26450.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
+    [ "CheckProc", "de/df8/a26450.html#a325336c96dad74ec221c07817222fee1", null ],
+    [ "HandleProc", "de/df8/a26450.html#a75c8e4664e75afd2129b6e5f047d74e3", null ],
+    [ "PrepareAuraScript", "de/df8/a26450.html#a30f6dd531d4316b4bbb3297af2c17e2e", null ],
+    [ "Register", "de/df8/a26450.html#a6c86a4cf273d90086c4ebdbcaa6b6632", null ]
 ];

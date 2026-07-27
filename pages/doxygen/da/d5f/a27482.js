@@ -1,6 +1,7 @@
 var a27482 =
 [
-    [ "HandleHeal", "da/d5f/a27482.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
-    [ "PrepareSpellScript", "da/d5f/a27482.html#a61a601108cd59e5d87634c02b002e20d", null ],
-    [ "Register", "da/d5f/a27482.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
+    [ "HandleDispel", "da/d5f/a27482.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
+    [ "PrepareAuraScript", "da/d5f/a27482.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
+    [ "Register", "da/d5f/a27482.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
+    [ "Validate", "da/d5f/a27482.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
 ];

@@ -1,8 +1,10 @@
 var a24046 =
 [
-    [ "npc_pet_darting_hatchling", "dd/d25/a24046.html#a7ae5973061068396bf382dc21e88cd44", null ],
-    [ "SpellHit", "dd/d25/a24046.html#a29ea5438bab7e606175c02165a607f9b", null ],
-    [ "UpdateAI", "dd/d25/a24046.html#a23196d05aebe5fa4a65455c55368820a", null ],
-    [ "checkTimer", "dd/d25/a24046.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
-    [ "goFast", "dd/d25/a24046.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
+    [ "npc_wounded_blood_elfAI", "dd/d25/a24046.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "dd/d25/a24046.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "dd/d25/a24046.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "dd/d25/a24046.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "dd/d25/a24046.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "dd/d25/a24046.html#a5affcb00e28a582f8926ab2226001cd0", null ],
+    [ "WaypointReached", "dd/d25/a24046.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

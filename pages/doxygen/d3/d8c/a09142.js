@@ -1,18 +1,17 @@
 var a09142 =
 [
-    [ "GameEventData", "d3/d8c/a09142.html#ab7963b01d9e138d79f06274ea57b9590", null ],
-    [ "isValid", "d3/d8c/a09142.html#a7a91c9c9cc68593812b13f6efd2ea4ff", null ],
-    [ "Announce", "d3/d8c/a09142.html#ae055378db69064ad4338ec2ddf6c7c75", null ],
-    [ "Conditions", "d3/d8c/a09142.html#a0915a0321c4c26bfb61824587a309cde", null ],
-    [ "Description", "d3/d8c/a09142.html#a5ab9afbc209e319839fd68de0cbc2207", null ],
-    [ "End", "d3/d8c/a09142.html#a4bae1cf480ee64f190e2f09640e8a8cd", null ],
-    [ "EventId", "d3/d8c/a09142.html#a6fe6513946fc98803fb816d2aabd8dcc", null ],
-    [ "HolidayId", "d3/d8c/a09142.html#a9c9979bdece8534af216b693a2a58a80", null ],
-    [ "HolidayStage", "d3/d8c/a09142.html#a44c52795eed59abdff72cdebdccc50ca", null ],
-    [ "Length", "d3/d8c/a09142.html#a72bff4c3a62db350460993d804a461ea", null ],
-    [ "NextStart", "d3/d8c/a09142.html#aafe5f4d5b9122f26442266c651ebd77e", null ],
-    [ "Occurence", "d3/d8c/a09142.html#ab4e80a88f30560a3af0c6381e974687d", null ],
-    [ "PrerequisiteEvents", "d3/d8c/a09142.html#aa4ecb9c9ce012aad0c1cb0d90a3eb4e0", null ],
-    [ "Start", "d3/d8c/a09142.html#a3be91b7e00641ca6cb853104190845dc", null ],
-    [ "State", "d3/d8c/a09142.html#a6288a7c28aba2927c3e91f5d2f517a60", null ]
+    [ "SpellNonMeleeDamage", "d3/d8c/a09142.html#ad9d6b798f9ed159d847affc5c4b23715", null ],
+    [ "absorb", "d3/d8c/a09142.html#a485ee28c6a8cf32a22578e02633df75b", null ],
+    [ "attacker", "d3/d8c/a09142.html#a5248da0c1a8609479d681ae76a77d045", null ],
+    [ "blocked", "d3/d8c/a09142.html#af0cb3d2801e51d9236a6ff5185a43790", null ],
+    [ "cleanDamage", "d3/d8c/a09142.html#aa49cdb425fe9c8fb483dcc3c22ca6a72", null ],
+    [ "damage", "d3/d8c/a09142.html#a47e66924ae869ce34bdf36a5ed50548b", null ],
+    [ "HitInfo", "d3/d8c/a09142.html#a3f99854d163cd672f881f721d5bc8a39", null ],
+    [ "overkill", "d3/d8c/a09142.html#a0d578181e933091f3ea1c88ce68e857a", null ],
+    [ "physicalLog", "d3/d8c/a09142.html#a34318f4d92685c855972e6fd22089e03", null ],
+    [ "resist", "d3/d8c/a09142.html#ade20f4aab4a1945ccd6754cd71101fe2", null ],
+    [ "schoolMask", "d3/d8c/a09142.html#a52f5ae6091fe547ed7e282d52c626361", null ],
+    [ "spellInfo", "d3/d8c/a09142.html#a9e37c164672dbcc81dd43bee9ec988cb", null ],
+    [ "target", "d3/d8c/a09142.html#a324ea6c84e005487560de986dceffeba", null ],
+    [ "unused", "d3/d8c/a09142.html#ae991311d8290996e1c0c49f33c29c6b3", null ]
 ];

@@ -1,12 +1,15 @@
 var a14982 =
 [
-    [ "boss_kazrogal", "dd/dd1/a14982.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
-    [ "DoAction", "dd/dd1/a14982.html#a7721debceeefaeb69e71855b8e8742f8", null ],
-    [ "GetMarkRepeatTimer", "dd/dd1/a14982.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
-    [ "JustDied", "dd/dd1/a14982.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
-    [ "JustEngagedWith", "dd/dd1/a14982.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
-    [ "KilledUnit", "dd/dd1/a14982.html#ab1439114a84d85947106d979f38d12fa", null ],
-    [ "Reset", "dd/dd1/a14982.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
-    [ "_markCounter", "dd/dd1/a14982.html#a54ef8b88bf62e260e19a964d1926ef4a", null ],
-    [ "_recentlySpoken", "dd/dd1/a14982.html#ad7401abae1b25d58ed93cc800d75bc26", null ]
+    [ "npc_midsummer_bonfire", "dd/dd1/a14982.html#a07c8b1add555697fdb29fda89f42c4af", null ],
+    [ "Ignite", "dd/dd1/a14982.html#a2a398299b3584e3a871b1b6e83b4ff5f", null ],
+    [ "InitBonfire", "dd/dd1/a14982.html#a9210a0a472d609f66895bfa0a8e324b0", null ],
+    [ "SpellHit", "dd/dd1/a14982.html#a9ad2102b2dea60fbb81c1578b97f34dc", null ],
+    [ "StampOut", "dd/dd1/a14982.html#a1f8bd11d0f49c0a44764a2f34e6ee147", null ],
+    [ "UpdateAI", "dd/dd1/a14982.html#a46733a171006e4693a32391cfe954050", null ],
+    [ "UpdateBonfireBlessingBuffs", "dd/dd1/a14982.html#a1236b61f21ff1a1b85bbc7058ca8e17c", null ],
+    [ "_bonfire", "dd/dd1/a14982.html#aaa2f2822cb5c104ec2d90c2a344b409d", null ],
+    [ "_isStampedOut", "dd/dd1/a14982.html#aa21c9f7a5d7ac29663d94da55ef34373", null ],
+    [ "_spellFocus", "dd/dd1/a14982.html#abef815568f7d39bbda20f9611e3abc52", null ],
+    [ "_teamId", "dd/dd1/a14982.html#a5c0894721d13dd49961c0687c100d7a5", null ],
+    [ "_type", "dd/dd1/a14982.html#a7c26b81f24dc2fc0ed9fc53d1d5935f5", null ]
 ];

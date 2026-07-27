@@ -1,7 +1,6 @@
 var a18178 =
 [
-    [ "HandleProc", "df/d3d/a18178.html#a6d63b76821dbbd025bec1e8d48c8e9c9", null ],
-    [ "PrepareAuraScript", "df/d3d/a18178.html#a5eace3a973165eb82ae95b8052bb9476", null ],
-    [ "Register", "df/d3d/a18178.html#aa5b01193a7b6e58935c261c80e6a0d9a", null ],
-    [ "Validate", "df/d3d/a18178.html#ad2a7488006b16840e02b450cc9150289", null ]
+    [ "npc_cult_adherentAI", "dc/def/a18182.html", "dc/def/a18182" ],
+    [ "npc_cult_adherent", "df/d3d/a18178.html#a74496518cf30674044a4a8a166e4c345", null ],
+    [ "GetAI", "df/d3d/a18178.html#a2bfe464c738c983b9539f9216cabd63a", null ]
 ];

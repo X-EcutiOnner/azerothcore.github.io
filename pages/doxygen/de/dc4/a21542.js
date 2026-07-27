@@ -1,6 +1,7 @@
 var a21542 =
 [
-    [ "HandleScriptEffect", "de/dc4/a21542.html#aab68c7fac277f4da5a6cf8bf8e6256ea", null ],
-    [ "PrepareSpellScript", "de/dc4/a21542.html#a6b7f628a138ac395a8cc122902ec38b4", null ],
-    [ "Register", "de/dc4/a21542.html#aacf2bbf7b8396fd7cfbfaf34a66f9b61", null ]
+    [ "npc_violet_hold_defense_system", "de/dc4/a21542.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "de/dc4/a21542.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "de/dc4/a21542.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ],
+    [ "_tickCount", "de/dc4/a21542.html#a4a7504069b05480428278fd09d5e59ba", null ]
 ];

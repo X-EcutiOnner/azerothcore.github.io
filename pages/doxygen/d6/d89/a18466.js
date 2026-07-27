@@ -1,6 +1,6 @@
 var a18466 =
 [
-    [ "HandleScript", "d6/d89/a18466.html#a6f9b2c00cdc050ff25ec37f5b7610c71", null ],
-    [ "PrepareSpellScript", "d6/d89/a18466.html#a5405e4547ec6cbc05acceb72d1b16530", null ],
-    [ "Register", "d6/d89/a18466.html#a172490b953b958df354394e947b7cfd0", null ]
+    [ "boss_sindragosaAI", "df/dfd/a18470.html", "df/dfd/a18470" ],
+    [ "boss_sindragosa", "d6/d89/a18466.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
+    [ "GetAI", "d6/d89/a18466.html#a005a6da9f4f9690416a108872b3c2b36", null ]
 ];

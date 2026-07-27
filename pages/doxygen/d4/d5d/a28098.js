@@ -1,8 +1,9 @@
 var a28098 =
 [
-    [ "npc_target_dummy", "d4/d5d/a28098.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
-    [ "DamageTaken", "d4/d5d/a28098.html#ae137fc2935f306807128850e9761253e", null ],
-    [ "Reset", "d4/d5d/a28098.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
-    [ "UpdateAI", "d4/d5d/a28098.html#a32e9e139a54375b336c112deee3687cd", null ],
-    [ "_deathTimer", "d4/d5d/a28098.html#a304b79f8ec2afda669b43d2e248d026a", null ]
+    [ "boss_lethonAI", "d4/d5d/a28098.html#ac5d53a746f5286776b2e510f1de86790", null ],
+    [ "DamageTaken", "d4/d5d/a28098.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
+    [ "JustEngagedWith", "d4/d5d/a28098.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
+    [ "Reset", "d4/d5d/a28098.html#a0e53d139f64d104557e157a91176a47a", null ],
+    [ "SpellHitTarget", "d4/d5d/a28098.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
+    [ "_stage", "d4/d5d/a28098.html#aa267296ee60efc7d39a20dc05afec081", null ]
 ];

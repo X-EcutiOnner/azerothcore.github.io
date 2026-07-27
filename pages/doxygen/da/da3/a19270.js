@@ -1,9 +1,9 @@
 var a19270 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "da/da3/a19270.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
-    [ "KilledUnit", "da/da3/a19270.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
-    [ "Reset", "da/da3/a19270.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
-    [ "UpdateAI", "da/da3/a19270.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
-    [ "auraVisualTimer", "da/da3/a19270.html#a74aea4294c26414d3b60983d14d36e31", null ],
-    [ "sizeTimer", "da/da3/a19270.html#a73f775b30ad36a595e0d8532067ba042", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "da/da3/a19270.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
+    [ "AttackStart", "da/da3/a19270.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
+    [ "JustEngagedWith", "da/da3/a19270.html#a7648c626ded6d3abef798b46c77f991d", null ],
+    [ "Reset", "da/da3/a19270.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
+    [ "UpdateAI", "da/da3/a19270.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
+    [ "events", "da/da3/a19270.html#a5aaffc1e78c255c95893be1537e520d6", null ]
 ];

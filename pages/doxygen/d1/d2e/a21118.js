@@ -1,12 +1,5 @@
 var a21118 =
 [
-    [ "boss_xevozz", "d1/d2e/a21118.html#aea402ffbe689ca65e29b30899862a8bc", null ],
-    [ "EnterEvadeMode", "d1/d2e/a21118.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
-    [ "ExecuteEvent", "d1/d2e/a21118.html#af5b37fc643f2b22468a38655fce63d25", null ],
-    [ "JustDied", "d1/d2e/a21118.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
-    [ "JustEngagedWith", "d1/d2e/a21118.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
-    [ "JustSummoned", "d1/d2e/a21118.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
-    [ "KilledUnit", "d1/d2e/a21118.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
-    [ "MoveInLineOfSight", "d1/d2e/a21118.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
-    [ "SummonedCreatureDespawn", "d1/d2e/a21118.html#a1493a5acdfcca7d01446564db622239e", null ]
+    [ "achievement_yogg_saron_kiss_and_make_up", "d1/d2e/a21118.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
+    [ "OnCheck", "d1/d2e/a21118.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
 ];

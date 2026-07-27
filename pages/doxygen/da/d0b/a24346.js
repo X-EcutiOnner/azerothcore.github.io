@@ -1,6 +1,5 @@
 var a24346 =
 [
-    [ "HandleScriptEffect", "da/d0b/a24346.html#ad9863535a38094779e765fe65450ce55", null ],
-    [ "PrepareSpellScript", "da/d0b/a24346.html#a653061d36c204fbd0d2dc1f983864bf1", null ],
-    [ "Register", "da/d0b/a24346.html#a5019887a078af86682eea3974bacf6dc", null ]
+    [ "npc_pet_dk_risen_ally", "da/d0b/a24346.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
+    [ "OnCharmed", "da/d0b/a24346.html#ac3927becc1ed929c384b3413bfee9330", null ]
 ];

@@ -1,5 +1,15 @@
 var a19098 =
 [
-    [ "at_icc_putricide_trap", "dc/d4b/a19098.html#a9d4183629deada9c22750b8a34e94583", null ],
-    [ "OnTrigger", "dc/d4b/a19098.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
+    [ "npc_frostwing_vrykulAI", "dc/d4b/a19098.html#ab68f844aa58f5d22586ba6d7526fc7ae", null ],
+    [ "AttackStart", "dc/d4b/a19098.html#a42a53fedc36aa71f52900a416e414fc6", null ],
+    [ "CanAIAttack", "dc/d4b/a19098.html#a91300d1178a2b433bd8830ec1066368e", null ],
+    [ "JustEngagedWith", "dc/d4b/a19098.html#abc75688914cd4f984448dd3f21527d89", null ],
+    [ "JustSummoned", "dc/d4b/a19098.html#a116908f5689d6d75570379f13ed0bd90", null ],
+    [ "Reset", "dc/d4b/a19098.html#a4baa20089b50acee617c4b85bc6b8478", null ],
+    [ "SpellHitTarget", "dc/d4b/a19098.html#a645dd6d85676cdd7ec1845c184dd2f93", null ],
+    [ "UpdateAI", "dc/d4b/a19098.html#a810d1b1829623836f88b5a3ddfc277c5", null ],
+    [ "events", "dc/d4b/a19098.html#accae0992a349361d85200863f5ac4f81", null ],
+    [ "events2", "dc/d4b/a19098.html#a16682657d7cfb03ccd9f31d481c7af83", null ],
+    [ "isRanged", "dc/d4b/a19098.html#a6f2e29ca9c859fe96648a2b55ccb773f", null ],
+    [ "summons", "dc/d4b/a19098.html#ac75d1c18a8f70ff88f5925a3df6e5924", null ]
 ];

@@ -1,9 +1,11 @@
 var a09206 =
 [
-    [ "LiquidData", "dd/d49/a09206.html#ac2435178323f480d2dae449b49b39146", null ],
-    [ "DepthLevel", "dd/d49/a09206.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
-    [ "Entry", "dd/d49/a09206.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
-    [ "Flags", "dd/d49/a09206.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
-    [ "Level", "dd/d49/a09206.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
-    [ "Status", "dd/d49/a09206.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
+    [ "VehicleSeatAddon", "dd/d49/a09206.html#a307b278917998116156e41f9189a582c", null ],
+    [ "VehicleSeatAddon", "dd/d49/a09206.html#adaec12df869a9ffc81174f5ef1f65606", null ],
+    [ "ExitParameter", "dd/d49/a09206.html#afbb8de193522f1182efff50064e5f83d", null ],
+    [ "ExitParameterO", "dd/d49/a09206.html#a06e385ea5cf0441721432925251a5a63", null ],
+    [ "ExitParameterX", "dd/d49/a09206.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
+    [ "ExitParameterY", "dd/d49/a09206.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
+    [ "ExitParameterZ", "dd/d49/a09206.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
+    [ "SeatOrientationOffset", "dd/d49/a09206.html#a374c73b40f6e6dad103b172d1829a31d", null ]
 ];

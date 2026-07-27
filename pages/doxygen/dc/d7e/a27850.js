@@ -1,6 +1,7 @@
 var a27850 =
 [
-    [ "go_midsummer_musicAI", "dc/d7e/a27850.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
-    [ "UpdateAI", "dc/d7e/a27850.html#adf185ee702e9e74f65204b90786f9eb4", null ],
-    [ "_events", "dc/d7e/a27850.html#a31e45a754930cdc3206fe2b7f754d234", null ]
+    [ "HandleDummy", "dc/d7e/a27850.html#a3af91500357eb127f813334bdf538dbd", null ],
+    [ "PrepareSpellScript", "dc/d7e/a27850.html#ae34ff5e6027efecc34fa770690df5887", null ],
+    [ "Register", "dc/d7e/a27850.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
+    [ "Validate", "dc/d7e/a27850.html#a0b107442c0b76a018cc019f776c0b785", null ]
 ];

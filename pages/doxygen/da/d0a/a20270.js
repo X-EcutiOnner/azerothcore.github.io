@@ -1,5 +1,7 @@
 var a20270 =
 [
-    [ "achievement_staying_buffed_all_winter_25", "da/d0a/a20270.html#a91f0ab3bada837cff6414350b98a27a3", null ],
-    [ "OnCheck", "da/d0a/a20270.html#a36591082184bc8466e124bad9a910545", null ]
+    [ "npc_storm_beacon_spawn", "da/d0a/a20270.html#a999b6421a0ef6eec2987716a60352a5e", null ],
+    [ "UpdateAI", "da/d0a/a20270.html#a93dbd7a26d6333f18329142280cc743d", null ],
+    [ "_amount", "da/d0a/a20270.html#acb5d1f2b6590da32f36882339729c4e9", null ],
+    [ "_checkTimer", "da/d0a/a20270.html#a9717b52f26045707fd852b955d29a5e6", null ]
 ];

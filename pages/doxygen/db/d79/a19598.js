@@ -1,6 +1,8 @@
 var a19598 =
 [
-    [ "boss_uromAI", "dd/dad/a19602.html", "dd/dad/a19602" ],
-    [ "boss_urom", "db/d79/a19598.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
-    [ "GetAI", "db/d79/a19598.html#ac381b851f3cc746fb323ff238892c537", null ]
+    [ "boss_maexxna_webwrapAI", "db/d79/a19598.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
+    [ "IsSummonedBy", "db/d79/a19598.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
+    [ "JustDied", "db/d79/a19598.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
+    [ "UpdateAI", "db/d79/a19598.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
+    [ "victimGUID", "db/d79/a19598.html#a54081ebfc0df639b7e18b5f079802c92", null ]
 ];

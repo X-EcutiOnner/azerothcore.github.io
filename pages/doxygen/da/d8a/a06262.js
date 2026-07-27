@@ -1,6 +1,7 @@
 var a06262 =
 [
-    [ "EntryCheckPredicate", "da/d8a/a06262.html#a23365e4591c0906f5d04db7dc6599fbf", null ],
-    [ "operator()", "da/d8a/a06262.html#ab384b205f8a719e1b5b0d0ab00575313", null ],
-    [ "_entry", "da/d8a/a06262.html#aa83f4537369e740de2d689252409d269", null ]
+    [ "TransactionWithResultTask", "da/d8a/a06262.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
+    [ "Execute", "da/d8a/a06262.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
+    [ "GetFuture", "da/d8a/a06262.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
+    [ "m_result", "da/d8a/a06262.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
 ];

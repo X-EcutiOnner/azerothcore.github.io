@@ -1,7 +1,6 @@
 var a18910 =
 [
-    [ "npc_impaling_spearAI", "df/d6f/a18910.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
-    [ "Reset", "df/d6f/a18910.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
-    [ "UpdateAI", "df/d6f/a18910.html#acb187a58b0ba256b4e003655ac36db34", null ],
-    [ "_vehicleCheckTimer", "df/d6f/a18910.html#a264874b9f6f0609792d4b3a325e54f59", null ]
+    [ "npc_risen_archmageAI", "d0/dcf/a18914.html", "d0/dcf/a18914" ],
+    [ "npc_risen_archmage", "df/d6f/a18910.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
+    [ "GetAI", "df/d6f/a18910.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
 ];

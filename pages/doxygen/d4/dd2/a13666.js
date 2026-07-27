@@ -1,6 +1,9 @@
 var a13666 =
 [
-    [ "SpectralBlastCheck", "d4/dd2/a13666.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
-    [ "operator()", "d4/dd2/a13666.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
-    [ "_victim", "d4/dd2/a13666.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
+    [ "boss_brutallus", "d4/dd2/a13666.html#a501c898505eb4265edee1546bc54713e", null ],
+    [ "AttackStart", "d4/dd2/a13666.html#a05edf7010f4e7364399bc81582502219", null ],
+    [ "JustDied", "d4/dd2/a13666.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
+    [ "JustEngagedWith", "d4/dd2/a13666.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
+    [ "KilledUnit", "d4/dd2/a13666.html#a608607d83680da85f91324ce0035804b", null ],
+    [ "Reset", "d4/dd2/a13666.html#a20ad64739072e39e7ff3132c6f637af7", null ]
 ];

@@ -1,7 +1,9 @@
 var a06226 =
 [
-    [ "arg1", "d1/d8c/a06226.html#aa2018e5823bcf013847605847231e3c2", null ],
-    [ "arg2", "d1/d8c/a06226.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
-    [ "arg3", "d1/d8c/a06226.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
-    [ "updateType", "d1/d8c/a06226.html#a84cace2469c54d57b33abe5ca93588ca", null ]
+    [ "SQLQueryHolderTask", "d1/d8c/a06226.html#a017ab0275ea42132bb1e4ece7111572e", null ],
+    [ "~SQLQueryHolderTask", "d1/d8c/a06226.html#a0d1122160565c8f20f9a48390352c770", null ],
+    [ "Execute", "d1/d8c/a06226.html#a1dc2cdfee574ecbb8fd7bc595ca2f170", null ],
+    [ "GetFuture", "d1/d8c/a06226.html#a73199c4e5805933c9f79091797dedc5d", null ],
+    [ "m_holder", "d1/d8c/a06226.html#a64b624b8e77c819f5b47d592edc0979d", null ],
+    [ "m_result", "d1/d8c/a06226.html#ab27ce22bdb505509662d862e92fe7e77", null ]
 ];

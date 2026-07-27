@@ -1,9 +1,9 @@
 var a09478 =
 [
-    [ "LiquidData", "d4/da8/a09478.html#ac2435178323f480d2dae449b49b39146", null ],
-    [ "DepthLevel", "d4/da8/a09478.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
-    [ "Entry", "d4/da8/a09478.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
-    [ "Flags", "d4/da8/a09478.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
-    [ "Level", "d4/da8/a09478.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
-    [ "Status", "d4/da8/a09478.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
+    [ "CellArea", "d4/da8/a09478.html#ace8ca84753b4ec8681415386fb135053", null ],
+    [ "CellArea", "d4/da8/a09478.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
+    [ "operator!", "d4/da8/a09478.html#a386d4a562c27155012daedc361541e3b", null ],
+    [ "ResizeBorders", "d4/da8/a09478.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
+    [ "high_bound", "d4/da8/a09478.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
+    [ "low_bound", "d4/da8/a09478.html#a374fe9802c798e6ece359a8025b6e1df", null ]
 ];

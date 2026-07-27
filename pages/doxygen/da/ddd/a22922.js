@@ -1,11 +1,11 @@
 var a22922 =
 [
-    [ "boss_ahune", "da/ddd/a22922.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "da/ddd/a22922.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "da/ddd/a22922.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "da/ddd/a22922.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "da/ddd/a22922.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "da/ddd/a22922.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "da/ddd/a22922.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "da/ddd/a22922.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "boss_essence_of_desireAI", "da/ddd/a22922.html#a02f6dec07038297c15c264fb501b01ab", null ],
+    [ "DamageTaken", "da/ddd/a22922.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
+    [ "DoAction", "da/ddd/a22922.html#ad55459d8e75f34783c1516be05cbb97f", null ],
+    [ "JustEngagedWith", "da/ddd/a22922.html#a0976078399b2190cca25aa2ae5c3c201", null ],
+    [ "KilledUnit", "da/ddd/a22922.html#a07509843bd658e3fc0b02cb817da37e9", null ],
+    [ "MovementInform", "da/ddd/a22922.html#ad65068c5f56db269b4dc711745f96cfb", null ],
+    [ "Reset", "da/ddd/a22922.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
+    [ "UpdateAI", "da/ddd/a22922.html#af348a1b996a8e7704ba55185ef79fe7d", null ]
 ];

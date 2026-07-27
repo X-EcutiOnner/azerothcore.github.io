@@ -1,10 +1,8 @@
 var a06454 =
 [
-    [ "RangeSelector", "d3/d89/a06454.html#a4a87b90485180ede638e2c9bd2a7e9ed", null ],
-    [ "operator()", "d3/d89/a06454.html#a917f21b135f402210d21e6bb3f19b9fa", null ],
-    [ "_inLos", "d3/d89/a06454.html#a9dcf455d9db8d32aaebfc46eee36e1b5", null ],
-    [ "_maxDist", "d3/d89/a06454.html#a973ec93b54a839f853101ad5998c10b2", null ],
-    [ "_me", "d3/d89/a06454.html#a72ad35c7de0b5d540be27d9a9d46a1d4", null ],
-    [ "_minDist", "d3/d89/a06454.html#ac1ce7a7a7ad6d033972b449867a1c5bf", null ],
-    [ "_playerOnly", "d3/d89/a06454.html#ac68f7dfefe2e71942a3dfff7026a7ae7", null ]
+    [ "BannedAddon", "d3/d89/a06454.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
+    [ "Id", "d3/d89/a06454.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
+    [ "NameMD5", "d3/d89/a06454.html#a67c4437044d747ff9867a71967697767", null ],
+    [ "Timestamp", "d3/d89/a06454.html#af62257c39a4ae1eba959086e981b0d19", null ],
+    [ "VersionMD5", "d3/d89/a06454.html#acb8dbe824f71363eb81504f43a126d96", null ]
 ];

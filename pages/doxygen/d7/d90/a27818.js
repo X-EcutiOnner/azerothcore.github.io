@@ -1,6 +1,6 @@
 var a27818 =
 [
-    [ "go_l70_etc_musicAI", "d7/d90/a27818.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "d7/d90/a27818.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "d7/d90/a27818.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "HandleOnHit", "d7/d90/a27818.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
+    [ "PrepareSpellScript", "d7/d90/a27818.html#a999b019665dec9b0690a1019be428072", null ],
+    [ "Register", "d7/d90/a27818.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
 ];

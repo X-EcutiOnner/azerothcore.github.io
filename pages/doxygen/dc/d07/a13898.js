@@ -1,10 +1,6 @@
 var a13898 =
 [
-    [ "npc_partygoer_pather", "dc/d07/a13898.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
-    [ "Initialize", "dc/d07/a13898.html#afb114b0587c550e39c41e131364da663", null ],
-    [ "PathEndReached", "dc/d07/a13898.html#a55833d306716ba411f96ecd024cc7c72", null ],
-    [ "Reset", "dc/d07/a13898.html#ade2cc36ff49001138eee5b607ec83b12", null ],
-    [ "UpdateAI", "dc/d07/a13898.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
-    [ "_events", "dc/d07/a13898.html#ac210dc0286ded980e78743237a08bb23", null ],
-    [ "_path", "dc/d07/a13898.html#a4da184c44858e99eca2b07193fd48f13", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "d4/d99/a13902.html", "d4/d99/a13902" ],
+    [ "instance_sunwell_plateau", "dc/d07/a13898.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
+    [ "GetInstanceScript", "dc/d07/a13898.html#a5960785a845c87e2e1730cfd865b44b4", null ]
 ];

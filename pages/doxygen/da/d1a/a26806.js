@@ -1,6 +1,11 @@
 var a26806 =
 [
-    [ "HandleEffectPeriodic", "da/d1a/a26806.html#ab283b40ceb6dcd0a835550531321ce92", null ],
-    [ "PrepareAuraScript", "da/d1a/a26806.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
-    [ "Register", "da/d1a/a26806.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
+    [ "CheckProc", "da/d1a/a26806.html#aeeb075a2dcaf57b328e4196959c40390", null ],
+    [ "HandleApplyDoT", "da/d1a/a26806.html#a4f832f97ae2f777c659876e20b7515a5", null ],
+    [ "HandleSeal", "da/d1a/a26806.html#aca82977aa1ee943bc557a76d09dba147", null ],
+    [ "Load", "da/d1a/a26806.html#a16545533c0a45b6bde0da3fbeaed75ae", null ],
+    [ "PrepareAuraScript", "da/d1a/a26806.html#a9d33b5c75d975f6e7f0accdf7eb10155", null ],
+    [ "Register", "da/d1a/a26806.html#a3030a2b5bb530abe673ab2cfae8351ce", null ],
+    [ "Validate", "da/d1a/a26806.html#ade8e79f41a0ec1904f33b2628eac966e", null ],
+    [ "_isVengeance", "da/d1a/a26806.html#a194bdf6e15ecf61533d40c0990e392a4", null ]
 ];

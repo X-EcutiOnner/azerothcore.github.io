@@ -1,6 +1,6 @@
 var a13054 =
 [
-    [ "npc_sanguine_spirit", "dc/d37/a13054.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
-    [ "Reset", "dc/d37/a13054.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
-    [ "UpdateAI", "dc/d37/a13054.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
+    [ "boss_magmadar", "dc/d37/a13054.html#a1d7fe10f244e2975a858ee884a02ce57", null ],
+    [ "ExecuteEvent", "dc/d37/a13054.html#af846ccbb6fa4a63b7ea04474deeb7db5", null ],
+    [ "JustEngagedWith", "dc/d37/a13054.html#a4a38f37d0cbe892b7336694ef6008f2d", null ]
 ];

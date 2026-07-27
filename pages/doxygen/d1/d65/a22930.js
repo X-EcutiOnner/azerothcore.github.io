@@ -1,13 +1,11 @@
 var a22930 =
 [
-    [ "npc_ahune_bunny", "d1/d65/a22930.html#ae28e0d2dbaab082488d5582b75cd8482", null ],
-    [ "DoAction", "d1/d65/a22930.html#ad071787c47254f603ba7692889733202", null ],
-    [ "JustDied", "d1/d65/a22930.html#a8733a3e495ebf69df4f9d1213df50170", null ],
-    [ "JustSummoned", "d1/d65/a22930.html#a2c5c97b497cd15a1453bbd21d279a29b", null ],
-    [ "ResetFlameCallers", "d1/d65/a22930.html#a60a74aabbf42116079081134a332a100", null ],
-    [ "UpdateAI", "d1/d65/a22930.html#aa8dff40dde7820b1ce4e06c8d27e4ecb", null ],
-    [ "_events", "d1/d65/a22930.html#af84154fff16cbdb15586b3b07223e010", null ],
-    [ "_instance", "d1/d65/a22930.html#a9be0d062379e5a3dfa19af1eb1a4243e", null ],
-    [ "_submerged", "d1/d65/a22930.html#a15fdcc2fda18e118f398ccc055f52942", null ],
-    [ "_summons", "d1/d65/a22930.html#a8f9e25f0d8a66b18e887b061592c6950", null ]
+    [ "boss_essence_of_angerAI", "d1/d65/a22930.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "d1/d65/a22930.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "d1/d65/a22930.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "d1/d65/a22930.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "d1/d65/a22930.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "d1/d65/a22930.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "d1/d65/a22930.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "targetGUID", "d1/d65/a22930.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

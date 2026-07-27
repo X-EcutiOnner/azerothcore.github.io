@@ -1,11 +1,5 @@
 var a24274 =
 [
-    [ "HandleAfterHit", "d2/d1c/a24274.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
-    [ "HandleDummy", "d2/d1c/a24274.html#abb3f92850fa6fff94c682b990c361fe6", null ],
-    [ "Load", "d2/d1c/a24274.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
-    [ "PrepareSpellScript", "d2/d1c/a24274.html#adea0e24654cd87b3aee07ce2183b9517", null ],
-    [ "Register", "d2/d1c/a24274.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
-    [ "Validate", "d2/d1c/a24274.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
-    [ "guid", "d2/d1c/a24274.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
-    [ "multiplier", "d2/d1c/a24274.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
+    [ "npc_shattrath_daily_quest", "d2/d1c/a24274.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "d2/d1c/a24274.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

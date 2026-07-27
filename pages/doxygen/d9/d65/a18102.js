@@ -1,6 +1,6 @@
 var a18102 =
 [
-    [ "PrepareSpellScript", "d9/d65/a18102.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "d9/d65/a18102.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "d9/d65/a18102.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "HandlePeriodicTick", "d9/d65/a18102.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "d9/d65/a18102.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "d9/d65/a18102.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

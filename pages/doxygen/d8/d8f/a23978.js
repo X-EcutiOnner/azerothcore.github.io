@@ -1,5 +1,6 @@
 var a23978 =
 [
-    [ "npc_pet_dk_risen_ally", "d8/d8f/a23978.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
-    [ "OnCharmed", "d8/d8f/a23978.html#ac3927becc1ed929c384b3413bfee9330", null ]
+    [ "npc_nether_drakeAI", "d9/d8c/a23982.html", "d9/d8c/a23982" ],
+    [ "npc_nether_drake", "d8/d8f/a23978.html#a253ec3c91857b899ea9e2c824870b760", null ],
+    [ "GetAI", "d8/d8f/a23978.html#a58d269e2c73cae07bb507162b742fe8f", null ]
 ];

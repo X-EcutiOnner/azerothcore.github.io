@@ -1,8 +1,6 @@
 var a22002 =
 [
-    [ "npc_wg_spirit_guideAI", "d8/de9/a22006.html", "d8/de9/a22006" ],
-    [ "npc_wg_spirit_guide", "d5/def/a22002.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
-    [ "GetAI", "d5/def/a22002.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
-    [ "OnGossipHello", "d5/def/a22002.html#a2d46078cb47f817239685d168f7f2e35", null ],
-    [ "OnGossipSelect", "d5/def/a22002.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
+    [ "npc_attracted_reef_bullAI", "d5/def/a22002.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "d5/def/a22002.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "d5/def/a22002.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

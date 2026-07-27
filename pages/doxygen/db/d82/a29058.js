@@ -1,7 +1,8 @@
 var a29058 =
 [
-    [ "TalentSpellPos", "db/d82/a29058.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
-    [ "TalentSpellPos", "db/d82/a29058.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
-    [ "rank", "db/d82/a29058.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
-    [ "talent_id", "db/d82/a29058.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
+    [ "ID", "db/d82/a29058.html#a36958c346c8554d9ab1cfb73ac583818", null ],
+    [ "Model", "db/d82/a29058.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
+    [ "Origin", "db/d82/a29058.html#a684c69add50ee545ee606ae456a93336", null ],
+    [ "OriginFacing", "db/d82/a29058.html#a460723250353c7720cd87677991283cf", null ],
+    [ "SoundID", "db/d82/a29058.html#aa56be05c7ab4015738e049d75ff365c6", null ]
 ];

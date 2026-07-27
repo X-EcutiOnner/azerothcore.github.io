@@ -1,7 +1,8 @@
 var a30210 =
 [
-    [ "from", "dc/d6a/a30210.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
-    [ "ID", "dc/d6a/a30210.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
-    [ "price", "dc/d6a/a30210.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
-    [ "to", "dc/d6a/a30210.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
+    [ "TileInfo", "dc/d6a/a30210.html#af1a25ded4212f141ab4f32db95709210", null ],
+    [ "m_mapId", "dc/d6a/a30210.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
+    [ "m_navMeshParams", "dc/d6a/a30210.html#a9d7c909370359edafa8a9b6a91cef354", null ],
+    [ "m_tileX", "dc/d6a/a30210.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
+    [ "m_tileY", "dc/d6a/a30210.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
 ];

@@ -1,6 +1,5 @@
 var a18542 =
 [
-    [ "npc_valkyr_shadowguardAI", "d6/d32/a18546.html", "d6/d32/a18546" ],
-    [ "npc_valkyr_shadowguard", "db/de7/a18542.html#a8ee90e21499eebf240c57419454c3829", null ],
-    [ "GetAI", "db/de7/a18542.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
+    [ "achievement_all_you_can_eat", "db/de7/a18542.html#a0995024862a445ea1f0ff5c82475fc64", null ],
+    [ "OnCheck", "db/de7/a18542.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
 ];

@@ -1,9 +1,8 @@
 var a14242 =
 [
-    [ "npc_amanishi_scout", "d7/d5b/a14242.html#a74bed56c21c184e661f62c30ce6d9140", null ],
-    [ "JustEngagedWith", "d7/d5b/a14242.html#a5969fadd871094e993c4d3fe0b08054c", null ],
-    [ "Reset", "d7/d5b/a14242.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
-    [ "ScheduleCombat", "d7/d5b/a14242.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
-    [ "UpdateAI", "d7/d5b/a14242.html#a3740a4fde31e1e81edb34dde61403acc", null ],
-    [ "_drumGUID", "d7/d5b/a14242.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
+    [ "npc_varian_wrynnAI", "d8/dda/a14246.html", "d8/dda/a14246" ],
+    [ "npc_varian_wrynn", "d7/d5b/a14242.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "d7/d5b/a14242.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "d7/d5b/a14242.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "d7/d5b/a14242.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

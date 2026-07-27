@@ -1,5 +1,10 @@
 var a00365 =
 [
-    [ "GetIdleMovementGenerator", "dd/db5/a00365.html#ab03e344726a074f17f8c63d10b67fcc1", null ],
-    [ "isStatic", "dd/db5/a00365.html#a05fec3371a9aee5a6448115a645a505d", null ]
+    [ "VMAP::ModelSpawn", "df/d45/a05398.html", "df/d45/a05398" ],
+    [ "VMAP::ModelInstance", "d9/d61/a05402.html", "d9/d61/a05402" ],
+    [ "ModelFlags", "dd/db5/a00365.html#ac540ff16efadcc07eeb9d8511b94ccce", [
+      [ "MOD_M2", "dd/db5/a00365.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
+      [ "MOD_WORLDSPAWN", "dd/db5/a00365.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],
+      [ "MOD_HAS_BOUND", "dd/db5/a00365.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09", null ]
+    ] ]
 ];

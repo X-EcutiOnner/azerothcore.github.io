@@ -1,6 +1,7 @@
 var a27938 =
 [
-    [ "go_bellsAI", "dc/d03/a27942.html", "dc/d03/a27942" ],
-    [ "go_bells", "d4/d2c/a27938.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
-    [ "GetAI", "d4/d2c/a27938.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
+    [ "HandleProc", "d4/d2c/a27938.html#a41b42a2d219904cdaf2a714d97e500f7", null ],
+    [ "PrepareAuraScript", "d4/d2c/a27938.html#a95c26300614ecdab588ddcc256fc1fd6", null ],
+    [ "Register", "d4/d2c/a27938.html#afb32150ac10ad392b63f40db05433835", null ],
+    [ "Validate", "d4/d2c/a27938.html#ab012775206fb6011eff8fbed293319c8", null ]
 ];

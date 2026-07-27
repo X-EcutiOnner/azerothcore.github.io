@@ -1,5 +1,6 @@
 var a11746 =
 [
-    [ "ImplicitTargetType", "dd/d9e/a11746.html#adc4268d74a3f0b47902e16eea2fc854a", null ],
-    [ "UsedTargetObjectType", "dd/d9e/a11746.html#a7bbc11d4a7a68f9441d393c7b48f5231", null ]
+    [ "WorldSessionFilter", "dd/d9e/a11746.html#aba91eb2dfd56201534743b2d458fa111", null ],
+    [ "~WorldSessionFilter", "dd/d9e/a11746.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
+    [ "Process", "dd/d9e/a11746.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
 ];

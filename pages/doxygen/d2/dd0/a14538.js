@@ -1,9 +1,9 @@
 var a14538 =
 [
-    [ "CheckCast", "d2/dd0/a14538.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
-    [ "FilterTargets", "d2/dd0/a14538.html#a9638048b4107db116474abf8e18d7760", null ],
-    [ "HandleBeforeHit", "d2/dd0/a14538.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
-    [ "HandleScriptEffect", "d2/dd0/a14538.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
-    [ "PrepareSpellScript", "d2/dd0/a14538.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
-    [ "Register", "d2/dd0/a14538.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
+    [ "boss_hazzarah", "d2/dd0/a14538.html#a73ba49b91addc9c03e1692587fe66a52", null ],
+    [ "CanAIAttack", "d2/dd0/a14538.html#a9038a5b4276fda8a6865217a7c494eec", null ],
+    [ "JustEngagedWith", "d2/dd0/a14538.html#a18e382c03ff923bb851a9cd8e2541788", null ],
+    [ "JustSummoned", "d2/dd0/a14538.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
+    [ "SummonedCreatureDies", "d2/dd0/a14538.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
+    [ "UpdateAI", "d2/dd0/a14538.html#a61d92f1650a84ed9684d33879e54bd09", null ]
 ];

@@ -1,5 +1,5 @@
 var a19778 =
 [
-    [ "boss_sjonnir_dwarfAI", "da/d3c/a19778.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
-    [ "UpdateAI", "da/d3c/a19778.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
+    [ "achievement_chaos_theory", "da/d3c/a19778.html#a3068009fa1fb400439a2c72f00296484", null ],
+    [ "OnCheck", "da/d3c/a19778.html#a68d9a577cb7e005d81f52077707e3555", null ]
 ];

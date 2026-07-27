@@ -1,6 +1,6 @@
 var a23030 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "dc/d6b/a23034.html", "dc/d6b/a23034" ],
-    [ "instance_steam_vault", "de/dbe/a23030.html#aa3417083841ccb50c8a2f29ba343e115", null ],
-    [ "GetInstanceScript", "de/dbe/a23030.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
+    [ "HandleDummy", "de/dbe/a23030.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
+    [ "PrepareSpellScript", "de/dbe/a23030.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
+    [ "Register", "de/dbe/a23030.html#a972574075c86c32593982add71dc893f", null ]
 ];

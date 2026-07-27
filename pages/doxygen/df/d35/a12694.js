@@ -1,7 +1,9 @@
 var a12694 =
 [
-    [ "boss_ebonroc", "df/d35/a12694.html#a74725561727d5bf0dd266f50d377c9c8", null ],
-    [ "JustEngagedWith", "df/d35/a12694.html#a84250d1bc0986130404433c80162ecac", null ],
-    [ "MovementInform", "df/d35/a12694.html#afa0e5ad6e2eb3d8df539266623dbffb4", null ],
-    [ "UpdateAI", "df/d35/a12694.html#a8d7b9b681ae8c1e4102cb90456611732", null ]
+    [ "npc_phalanx", "df/d35/a12694.html#a03c79151dcdc13fef4ce83957addd44a", null ],
+    [ "Reset", "df/d35/a12694.html#a9297d5fb869eb9a65ef9143a56347a53", null ],
+    [ "UpdateAI", "df/d35/a12694.html#aad01cc9d5ac167c21547e8b0b2bda4a7", null ],
+    [ "_fireballVolleyTimer", "df/d35/a12694.html#a54ad76cd7e8d3be058ad3d5153e5b144", null ],
+    [ "_mightyBlowTimer", "df/d35/a12694.html#ad59e6e32b53dbf797bc62e116ae2a12d", null ],
+    [ "_thunderClapTimer", "df/d35/a12694.html#a3b0c33207bf5090abeb9860585c222b4", null ]
 ];

@@ -1,7 +1,10 @@
 var a30106 =
 [
-    [ "_pad", "d7/dbd/a30106.html#ad6e8aff776dfb6fa95c30d0318b3af25", null ],
-    [ "Count", "d7/dbd/a30106.html#ac90dd584efc679554d4cee31c988c7c8", null ],
-    [ "Name", "d7/dbd/a30106.html#ae93b772cbbe91b9ed55c78e22317c8dd", null ],
-    [ "StartIndex", "d7/dbd/a30106.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa", null ]
+    [ "Exception", "d7/dbd/a30106.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "d7/dbd/a30106.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "Exception", "d7/dbd/a30106.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "d7/dbd/a30106.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "getMessage", "d7/dbd/a30106.html#abb24944d5d6ea7b18be30f8bd9741ae2", null ],
+    [ "getMessage", "d7/dbd/a30106.html#abb24944d5d6ea7b18be30f8bd9741ae2", null ],
+    [ "message", "d7/dbd/a30106.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
 ];

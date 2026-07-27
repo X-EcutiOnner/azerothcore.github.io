@@ -1,14 +1,15 @@
 var a13526 =
 [
-    [ "boss_jarien", "dd/de8/a13526.html#a19e07a3da93e487b5984a8de0c7f26c9", null ],
-    [ "DoAction", "dd/de8/a13526.html#a8b9f1f2e7e45adf8df436b5c71555272", null ],
-    [ "IsSummonedBy", "dd/de8/a13526.html#a2e54c5ae404be944eeff3a57c96aa8ca", null ],
-    [ "JustDied", "dd/de8/a13526.html#a418380b56f3432b5aec84737012f4693", null ],
-    [ "JustEngagedWith", "dd/de8/a13526.html#ab6590cf6626a12e804520b2cde84a93e", null ],
-    [ "Reset", "dd/de8/a13526.html#ac85ca96b42aa5115500bd24454f84209", null ],
-    [ "UpdateAI", "dd/de8/a13526.html#acf7157ec7af7356beddc8a2429177b95", null ],
-    [ "_phase", "dd/de8/a13526.html#aa88435f313dc2b7880bca8f4cdb7a537", null ],
-    [ "_scheduler", "dd/de8/a13526.html#abce9540798dbae1026d1c74bfeb111a6", null ],
-    [ "_sothosDied", "dd/de8/a13526.html#a06b02c7f7dff885a86609e0116f2fd96", null ],
-    [ "_talked", "dd/de8/a13526.html#ae0c943c970990b055ebc8c31d81a7198", null ]
+    [ "boss_kormok", "dd/de8/a13526.html#a2bacfd366d084cae31b8cc689fb26d0b", null ],
+    [ "DamageTaken", "dd/de8/a13526.html#a2aa7fedea09b4d0526028826be2cb360", null ],
+    [ "IsSummonedBy", "dd/de8/a13526.html#a641bd06b5da44e04534150fc1fc6f9e0", null ],
+    [ "JustDied", "dd/de8/a13526.html#a219bc4f5e13e58bb4a8f79cbc36b5ad7", null ],
+    [ "JustEngagedWith", "dd/de8/a13526.html#a7fc5bb05831e5b8e22c7d59c5c71f87a", null ],
+    [ "JustSummoned", "dd/de8/a13526.html#a49ba1031e5639c3d8fdaf9ae9884a038", null ],
+    [ "Reset", "dd/de8/a13526.html#a70252bf1680510294f62e2c42220156e", null ],
+    [ "SummonedCreatureDespawn", "dd/de8/a13526.html#a6f23b4b006de4b8b5fda6e0203e2f8a7", null ],
+    [ "UpdateAI", "dd/de8/a13526.html#aea5651a98492885eb4d598714df4fd40", null ],
+    [ "_mages", "dd/de8/a13526.html#ae0de3f9848cb9051a18ba15347af3e7a", null ],
+    [ "_scheduler", "dd/de8/a13526.html#a540ef7a05a503a989f93d4b53daacb4b", null ],
+    [ "_summons", "dd/de8/a13526.html#aefaac0c5af45f63faeac6bf9ef1ca7fc", null ]
 ];

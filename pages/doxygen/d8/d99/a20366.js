@@ -1,21 +1,10 @@
 var a20366 =
 [
-    [ "npc_ulduar_aerial_command_unit", "d8/d99/a20366.html#a7db419befea7054118ebd2b1d7835a38", null ],
-    [ "DamageTaken", "d8/d99/a20366.html#a63f7b08da3b96b12fb93e2366c4617b7", null ],
-    [ "DoAction", "d8/d99/a20366.html#ac23cf431ec7b3f933631a2683329d0b5", null ],
-    [ "EnterEvadeMode", "d8/d99/a20366.html#a5c3643f96efcfbc0272d906b083ef7a3", null ],
-    [ "JustSummoned", "d8/d99/a20366.html#abfa255cbdd7b16a3586117fa16bb3f13", null ],
-    [ "KilledUnit", "d8/d99/a20366.html#aeda020ce8ad0806463e2a06b9f054faf", null ],
-    [ "MoveInLineOfSight", "d8/d99/a20366.html#a39e1f0e199f43e3c2018e49ef77cec4c", null ],
-    [ "Reset", "d8/d99/a20366.html#a51a2ad26cba213816a207f7f69591b4a", null ],
-    [ "SetData", "d8/d99/a20366.html#ab6fec2895372afbfed7cbba2e3a463d6", null ],
-    [ "SpellHit", "d8/d99/a20366.html#a7dc2920a7ff1a7d8ad346626dafeb18b", null ],
-    [ "SummonedCreatureDespawn", "d8/d99/a20366.html#a429da72273b2126452eef1e9b724b40b", null ],
-    [ "UpdateAI", "d8/d99/a20366.html#a4ae899da49e9f03f3ea23559ccc2e561", null ],
-    [ "_events", "d8/d99/a20366.html#a4832f888cc77613d99ff165e5bf47022", null ],
-    [ "_isDefeated", "d8/d99/a20366.html#a8272d619675b54d454b825efdf1357e6", null ],
-    [ "_isEvading", "d8/d99/a20366.html#a6976c445331a25cd2735e963a102157c", null ],
-    [ "_phase", "d8/d99/a20366.html#a7947005a05430e9734db3cf14eac0d17", null ],
-    [ "_summons", "d8/d99/a20366.html#ac961aedcde178320276eeaf0fa8a8675", null ],
-    [ "instance", "d8/d99/a20366.html#a36f7e3b4228aca4adf092c14827fa072", null ]
+    [ "boss_freya_elder_ironbranch", "d8/d99/a20366.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
+    [ "JustDied", "d8/d99/a20366.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
+    [ "JustEngagedWith", "d8/d99/a20366.html#a34d87135b8dac114a8783941dba69559", null ],
+    [ "KilledUnit", "d8/d99/a20366.html#a20b5a622ac233d1280169f54942c894f", null ],
+    [ "Reset", "d8/d99/a20366.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
+    [ "UpdateAI", "d8/d99/a20366.html#a00dade8af24a2240187fb4e52138c0d1", null ],
+    [ "events", "d8/d99/a20366.html#a8693a800da6890004f3ae82fd9898480", null ]
 ];

@@ -1,7 +1,8 @@
 var a21686 =
 [
-    [ "HandleScript", "d4/d59/a21686.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
-    [ "PrepareSpellScript", "d4/d59/a21686.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
-    [ "Register", "d4/d59/a21686.html#a713b82bc3d82a8324ce4dd090059f463", null ],
-    [ "Validate", "d4/d59/a21686.html#ac8e362d9f76350da106e128138737c5c", null ]
+    [ "npc_shandy_dalaranAI", "d7/d36/a21690.html", "d7/d36/a21690" ],
+    [ "npc_shandy_dalaran", "d4/d59/a21686.html#a7077c769a252af8ba37b5ff5d524463e", null ],
+    [ "GetAI", "d4/d59/a21686.html#a641551a2aef739e1679912ae27ddb888", null ],
+    [ "OnGossipHello", "d4/d59/a21686.html#a91287aaba09fce091c9d826e75208f84", null ],
+    [ "OnGossipSelect", "d4/d59/a21686.html#ad005a17da187e0cfd03d2faf0099c448", null ]
 ];

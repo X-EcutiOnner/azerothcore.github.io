@@ -1,10 +1,6 @@
 var a07746 =
 [
-    [ "BattlegroundRL", "d6/dac/a07746.html#ae2e0ccf2badc174b7f5c909f805fe669", null ],
-    [ "FillInitialWorldStates", "d6/dac/a07746.html#a410a5dbfa6fccbe802058d60eb7393d9", null ],
-    [ "HandleAreaTrigger", "d6/dac/a07746.html#ad1184e3e2f09a6665d40a75006e6f863", null ],
-    [ "HandlePlayerUnderMap", "d6/dac/a07746.html#a2d03a49dee964bcaa3421a93d0735e63", null ],
-    [ "SetupBattleground", "d6/dac/a07746.html#a3393353028ffd35eaad1d5e121654366", null ],
-    [ "StartingEventCloseDoors", "d6/dac/a07746.html#aae633887d9689898c8b73efa8257eb34", null ],
-    [ "StartingEventOpenDoors", "d6/dac/a07746.html#adb2ec6770c2b25b94f8f7dff7486d5cf", null ]
+    [ "CanAnnounce", "d6/dac/a07746.html#a67afe4b43884ac1c58f054427b2ef7dd", null ],
+    [ "CanAnnounce", "d6/dac/a07746.html#ab791cf85fc2e08330d3f777e1797c01c", null ],
+    [ "instance", "d6/dac/a07746.html#ad76f570ce82ffcde5484e612c10c6f59", null ]
 ];

@@ -1,7 +1,7 @@
 var a11178 =
 [
-    [ "AutoEquipItemSlot", "d4/d8b/a11178.html#aa51f40a4172ac41548ec6199bc84375d", null ],
-    [ "Read", "d4/d8b/a11178.html#ade6a15026e9c461b38301edf79f367be", null ],
-    [ "DestinationSlot", "d4/d8b/a11178.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
-    [ "ItemGuid", "d4/d8b/a11178.html#a9d4da587061833262acff66674d3ac41", null ]
+    [ "GuildBankDepositMoney", "d4/d8b/a11178.html#a967628850b85038d917be69dc71e6a0e", null ],
+    [ "Read", "d4/d8b/a11178.html#aa1d4274b057cc4ecec6b078ac4925a94", null ],
+    [ "Banker", "d4/d8b/a11178.html#afdeb7ea381853078d515d8a0f157533b", null ],
+    [ "Money", "d4/d8b/a11178.html#a41258345b9f83dcf8e374145f517251e", null ]
 ];

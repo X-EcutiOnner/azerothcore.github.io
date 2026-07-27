@@ -1,116 +1,163 @@
 var a01538 =
 [
-    [ "LootStoreItem", "d7/df8/a10080.html", "d7/df8/a10080" ],
-    [ "LootItem", "d8/d13/a10084.html", "d8/d13/a10084" ],
-    [ "QuestItem", "d3/d3e/a10088.html", "d3/d3e/a10088" ],
-    [ "LootStore", "db/d77/a10092.html", "db/d77/a10092" ],
-    [ "LootTemplate", "d8/d21/a10096.html", "d8/d21/a10096" ],
-    [ "LootValidatorRef", "d3/d00/a10100.html", "d3/d00/a10100" ],
-    [ "LootValidatorRefMgr", "df/dcd/a10104.html", "df/dcd/a10104" ],
-    [ "Loot", "d9/da6/a10108.html", "d9/da6/a10108" ],
-    [ "LootView", "d9/da4/a10112.html", "d9/da4/a10112" ],
-    [ "MAX_NR_LOOT_ITEMS", "d7/def/a01538.html#aab54e459c8a6d83039755f8b6c82a5e9", null ],
-    [ "MAX_NR_QUEST_ITEMS", "d7/def/a01538.html#a25b596c39e8f5b0f7c7baf80a14027da", null ],
-    [ "AllowedLooterSet", "d7/def/a01538.html#a8db9118af32d6a6196c348da5aeafdc6", null ],
-    [ "LootIdSet", "d7/def/a01538.html#abf507a0fbd8ed984100b16e0b9aa20e7", null ],
-    [ "LootItemList", "d7/def/a01538.html#a3dc44988fdd6d697ac3b459b0276e098", null ],
-    [ "LootStoreItemList", "d7/def/a01538.html#ac9e46e174fc099adcec7130517afc524", null ],
-    [ "LootTemplateMap", "d7/def/a01538.html#a8c148c99c4a202233809e690e3759993", null ],
-    [ "QuestItemList", "d7/def/a01538.html#aefbd6adf4dc1ea158a5273f01e0efa8c", null ],
-    [ "QuestItemMap", "d7/def/a01538.html#a37571dff8ec8d0034df583b5dc062bf2", null ],
-    [ "LootError", "d7/def/a01538.html#ab7512a72e6d0efa31dcc083eecea5a09", [
-      [ "LOOT_ERROR_DIDNT_KILL", "d7/def/a01538.html#ab7512a72e6d0efa31dcc083eecea5a09a53a1c98acd0787ea0d96a130a6643bb7", null ],
-      [ "LOOT_ERROR_TOO_FAR", "d7/def/a01538.html#ab7512a72e6d0efa31dcc083eecea5a09a01c8f3e37c72fc34643e0e2de70568eb", null ],
-      [ "LOOT_ERROR_BAD_FACING", "d7/def/a01538.html#ab7512a72e6d0efa31dcc083eecea5a09a215f4ae3774466d13d03db3755225753", null ],
-      [ "LOOT_ERROR_LOCKED", "d7/def/a01538.html#ab7512a72e6d0efa31dcc083eecea5a09a29f31f6cd766c926393188fc791822b9", null ],
-      [ "LOOT_ERROR_NOTSTANDING", "d7/def/a01538.html#ab7512a72e6d0efa31dcc083eecea5a09a8edb6d2c5ae8374fa52c8584782a848f", null ],
-      [ "LOOT_ERROR_STUNNED", "d7/def/a01538.html#ab7512a72e6d0efa31dcc083eecea5a09addff70df944727fb7954fdefb27cf552", null ],
-      [ "LOOT_ERROR_PLAYER_NOT_FOUND", "d7/def/a01538.html#ab7512a72e6d0efa31dcc083eecea5a09aa5c06a447f44fd77502fdd223c43b8a3", null ],
-      [ "LOOT_ERROR_PLAY_TIME_EXCEEDED", "d7/def/a01538.html#ab7512a72e6d0efa31dcc083eecea5a09a5be9137c20b487254267eb3b7bc637f8", null ],
-      [ "LOOT_ERROR_MASTER_INV_FULL", "d7/def/a01538.html#ab7512a72e6d0efa31dcc083eecea5a09a2c8e08e361f6c23c9e425848b8ae4814", null ],
-      [ "LOOT_ERROR_MASTER_UNIQUE_ITEM", "d7/def/a01538.html#ab7512a72e6d0efa31dcc083eecea5a09a3730fe4f96bbcc1c6a91bfb22292df26", null ],
-      [ "LOOT_ERROR_MASTER_OTHER", "d7/def/a01538.html#ab7512a72e6d0efa31dcc083eecea5a09a176acdde6aaa3a258043b2a43a550cb6", null ],
-      [ "LOOT_ERROR_ALREADY_PICKPOCKETED", "d7/def/a01538.html#ab7512a72e6d0efa31dcc083eecea5a09ad9797ce8bbde2394425000ce74e8b19d", null ],
-      [ "LOOT_ERROR_NOT_WHILE_SHAPESHIFTED", "d7/def/a01538.html#ab7512a72e6d0efa31dcc083eecea5a09aa0cc09263e211b927f27729048870ddd", null ]
+    [ "BattlegroundObjectInfo", "d1/d20/a07698.html", "d1/d20/a07698" ],
+    [ "ArenaLogEntryData", "dd/def/a07702.html", "dd/def/a07702" ],
+    [ "Battleground", "df/d72/a07706.html", "df/d72/a07706" ],
+    [ "ARENA_TIMELIMIT_POINTS_LOSS", "d7/def/a01538.html#ac5cce663c0f08dc6af7fb2d1ddf35e30", null ],
+    [ "BATTLEGROUND_UPDATE_INTERVAL", "d7/def/a01538.html#a0d902c83a67b6fe19e8257bb23cef6bc", null ],
+    [ "BERSERKING_BUFF_RESPAWN_TIME", "d7/def/a01538.html#ab01c53aafb7c5dd0eab9a4ba908cda4c", null ],
+    [ "RESTORATION_BUFF_RESPAWN_TIME", "d7/def/a01538.html#a8490df1aad5b5ff221deb3de9af2cece", null ],
+    [ "RESURRECTION_INTERVAL", "d7/def/a01538.html#adb41516553b1ea3899d5aaabe7151aab", null ],
+    [ "SPEED_BUFF_RESPAWN_TIME", "d7/def/a01538.html#a3d5aab4a2019d812fd4fbcb3316422f6", null ],
+    [ "ArenaType", "d7/def/a01538.html#ad38b6d141d358ab270694a77db413e50", [
+      [ "ARENA_TYPE_2v2", "d7/def/a01538.html#ad38b6d141d358ab270694a77db413e50aba8dd9984d50b5a179ebf2dec66d8c01", null ],
+      [ "ARENA_TYPE_3v3", "d7/def/a01538.html#ad38b6d141d358ab270694a77db413e50aa98d0a1c6432cd3013d20e83937726be", null ],
+      [ "ARENA_TYPE_5v5", "d7/def/a01538.html#ad38b6d141d358ab270694a77db413e50a49cde50538e418258d292c3c2f7df512", null ]
     ] ],
-    [ "LootMethod", "d7/def/a01538.html#ab10ff4858d8b83699f25198a47ad628b", [
-      [ "FREE_FOR_ALL", "d7/def/a01538.html#ab10ff4858d8b83699f25198a47ad628baed81cb07716a14961fd4de42df7faf81", null ],
-      [ "ROUND_ROBIN", "d7/def/a01538.html#ab10ff4858d8b83699f25198a47ad628ba9e805af736d9be20caf33f5ec0dc1d47", null ],
-      [ "MASTER_LOOT", "d7/def/a01538.html#ab10ff4858d8b83699f25198a47ad628ba8d79cbace44f9ce8c9f1d4b2a970837e", null ],
-      [ "GROUP_LOOT", "d7/def/a01538.html#ab10ff4858d8b83699f25198a47ad628ba73564f8582e2a666fb3c4f4b4bc96bff", null ],
-      [ "NEED_BEFORE_GREED", "d7/def/a01538.html#ab10ff4858d8b83699f25198a47ad628ba5d87501f88aede6518f687729359edb2", null ]
+    [ "BattlegroundBroadcastTexts", "d7/def/a01538.html#a99770417e6abb4f06880059f0b9a437f", [
+      [ "BG_TEXT_ALLIANCE_WINS", "d7/def/a01538.html#a99770417e6abb4f06880059f0b9a437faaf1360b9a68f0fe7384eb7e6cc28c255", null ],
+      [ "BG_TEXT_HORDE_WINS", "d7/def/a01538.html#a99770417e6abb4f06880059f0b9a437fad486d6275a0321aaf14e1c9e824c510d", null ],
+      [ "BG_TEXT_START_TWO_MINUTES", "d7/def/a01538.html#a99770417e6abb4f06880059f0b9a437fa2e426b4f70db8778e78a87fccbebed9a", null ],
+      [ "BG_TEXT_START_ONE_MINUTE", "d7/def/a01538.html#a99770417e6abb4f06880059f0b9a437faf260295bceb365a813fd9cecbfff516f", null ],
+      [ "BG_TEXT_START_HALF_MINUTE", "d7/def/a01538.html#a99770417e6abb4f06880059f0b9a437faf6cfff3c86eeecac0897c0fe6ca98df5", null ],
+      [ "BG_TEXT_BATTLE_HAS_BEGUN", "d7/def/a01538.html#a99770417e6abb4f06880059f0b9a437fa875e473dbb17dcebc0d112bd6a831dc6", null ]
     ] ],
-    [ "LootSlotType", "d7/def/a01538.html#a66687cf1196c7fa693fa85de99085c42", [
-      [ "LOOT_SLOT_TYPE_ALLOW_LOOT", "d7/def/a01538.html#a66687cf1196c7fa693fa85de99085c42a89e7b03ca05bd629c1aee0cb5b612128", null ],
-      [ "LOOT_SLOT_TYPE_ROLL_ONGOING", "d7/def/a01538.html#a66687cf1196c7fa693fa85de99085c42a5f038102313e70df26e6218c38c17e6b", null ],
-      [ "LOOT_SLOT_TYPE_MASTER", "d7/def/a01538.html#a66687cf1196c7fa693fa85de99085c42a2704402003a31c849c6f52da262bf294", null ],
-      [ "LOOT_SLOT_TYPE_LOCKED", "d7/def/a01538.html#a66687cf1196c7fa693fa85de99085c42ae33105bc1d7809a9f0a6fa174bc1acba", null ],
-      [ "LOOT_SLOT_TYPE_OWNER", "d7/def/a01538.html#a66687cf1196c7fa693fa85de99085c42aa11325a7cb83156f4b8f07049189c2db", null ]
+    [ "BattlegroundBuffObjects", "d7/def/a01538.html#a682aa9e8e503e719618fed763996fa56", [
+      [ "BG_OBJECTID_SPEEDBUFF_ENTRY", "d7/def/a01538.html#a682aa9e8e503e719618fed763996fa56aeac4016d735ef15c5709cd5a2b5244b2", null ],
+      [ "BG_OBJECTID_REGENBUFF_ENTRY", "d7/def/a01538.html#a682aa9e8e503e719618fed763996fa56a9a80f44ddef05030c76e023ab07d1d62", null ],
+      [ "BG_OBJECTID_BERSERKERBUFF_ENTRY", "d7/def/a01538.html#a682aa9e8e503e719618fed763996fa56ab8d5b33c1de5bbda28b8471f114926e6", null ]
     ] ],
-    [ "LootType", "d7/def/a01538.html#ae2b3575d3c08cdf3eb5d3fe7c52ed0d9", [
-      [ "LOOT_NONE", "d7/def/a01538.html#ae2b3575d3c08cdf3eb5d3fe7c52ed0d9ad97592cbb7e0db72dd7878100f080b51", null ],
-      [ "LOOT_CORPSE", "d7/def/a01538.html#ae2b3575d3c08cdf3eb5d3fe7c52ed0d9a4fb93e5840bc2bd7c622c78e52f4d8bc", null ],
-      [ "LOOT_PICKPOCKETING", "d7/def/a01538.html#ae2b3575d3c08cdf3eb5d3fe7c52ed0d9a1c2d168702c954ae1e0cb3e8c8f472c1", null ],
-      [ "LOOT_FISHING", "d7/def/a01538.html#ae2b3575d3c08cdf3eb5d3fe7c52ed0d9a5c747b3aaf2a6c56bfc3cfb9afd8ca42", null ],
-      [ "LOOT_DISENCHANTING", "d7/def/a01538.html#ae2b3575d3c08cdf3eb5d3fe7c52ed0d9aaf6274599a69c950bb38790511a4bb52", null ],
-      [ "LOOT_SKINNING", "d7/def/a01538.html#ae2b3575d3c08cdf3eb5d3fe7c52ed0d9ac52e042f186460335ec5a96ab465d254", null ],
-      [ "LOOT_PROSPECTING", "d7/def/a01538.html#ae2b3575d3c08cdf3eb5d3fe7c52ed0d9afb60391135e6394e25b01b6455ad3d64", null ],
-      [ "LOOT_MILLING", "d7/def/a01538.html#ae2b3575d3c08cdf3eb5d3fe7c52ed0d9a1dd8d07003be79a83585b321746ecad1", null ],
-      [ "LOOT_FISHINGHOLE", "d7/def/a01538.html#ae2b3575d3c08cdf3eb5d3fe7c52ed0d9ad492e6aeb707b4018e4b3d30b43aed44", null ],
-      [ "LOOT_INSIGNIA", "d7/def/a01538.html#ae2b3575d3c08cdf3eb5d3fe7c52ed0d9a85e304d04233964aaafe051ea3d28c9f", null ],
-      [ "LOOT_FISHING_JUNK", "d7/def/a01538.html#ae2b3575d3c08cdf3eb5d3fe7c52ed0d9a3d169cf4cbf19d69f60f4c973b8da361", null ]
+    [ "BattlegroundCreatures", "d7/def/a01538.html#a7cadcc7a03601220acf15dd218ad636a", [
+      [ "BG_CREATURE_ENTRY_A_SPIRITGUIDE", "d7/def/a01538.html#a7cadcc7a03601220acf15dd218ad636aa365de8b7ce34b0e682af3f0552465fe7", null ],
+      [ "BG_CREATURE_ENTRY_H_SPIRITGUIDE", "d7/def/a01538.html#a7cadcc7a03601220acf15dd218ad636aa21642c121bc5c66405522a477a5f3e1d", null ]
     ] ],
-    [ "PermissionTypes", "d7/def/a01538.html#a10c103da8c7dee2fd4e431c086a4d411", [
-      [ "ALL_PERMISSION", "d7/def/a01538.html#a10c103da8c7dee2fd4e431c086a4d411a2d9a4531b3187d6d98a5bb3245f99588", null ],
-      [ "GROUP_PERMISSION", "d7/def/a01538.html#a10c103da8c7dee2fd4e431c086a4d411ad84d7d18444b133278cd128fd4e791b9", null ],
-      [ "MASTER_PERMISSION", "d7/def/a01538.html#a10c103da8c7dee2fd4e431c086a4d411ad3110498abe7a1e7532dd1f9688d9bd0", null ],
-      [ "RESTRICTED_PERMISSION", "d7/def/a01538.html#a10c103da8c7dee2fd4e431c086a4d411a7263745734e215e07d51a59eb688edc2", null ],
-      [ "ROUND_ROBIN_PERMISSION", "d7/def/a01538.html#a10c103da8c7dee2fd4e431c086a4d411abd17bc9b74a00f89fe6d142116edf89b", null ],
-      [ "OWNER_PERMISSION", "d7/def/a01538.html#a10c103da8c7dee2fd4e431c086a4d411a1750b08b9056ac1ab4f1115ed33ffa5f", null ],
-      [ "NONE_PERMISSION", "d7/def/a01538.html#a10c103da8c7dee2fd4e431c086a4d411a9072f1b1460c900c5dee08f9401861fa", null ]
+    [ "BattlegroundDesertionType", "d7/def/a01538.html#a74a16d93e0af2e5b3dd51ba20e89a5f1", [
+      [ "BG_DESERTION_TYPE_LEAVE_BG", "d7/def/a01538.html#a74a16d93e0af2e5b3dd51ba20e89a5f1a6aa4e707fcb74cb2ab241aecadf0fd78", null ],
+      [ "BG_DESERTION_TYPE_OFFLINE", "d7/def/a01538.html#a74a16d93e0af2e5b3dd51ba20e89a5f1a6e353b6a9296fcd62ce8e2f4ed77d73f", null ],
+      [ "BG_DESERTION_TYPE_LEAVE_QUEUE", "d7/def/a01538.html#a74a16d93e0af2e5b3dd51ba20e89a5f1a94d40a5528307e54eb10eb3e0599dd15", null ],
+      [ "BG_DESERTION_TYPE_NO_ENTER_BUTTON", "d7/def/a01538.html#a74a16d93e0af2e5b3dd51ba20e89a5f1a942b79f28d44f396e6d5c94335ef2fc5", null ],
+      [ "BG_DESERTION_TYPE_INVITE_LOGOUT", "d7/def/a01538.html#a74a16d93e0af2e5b3dd51ba20e89a5f1af8bb01e351492519195c366a3caa5afb", null ],
+      [ "ARENA_DESERTION_TYPE_LEAVE_BG", "d7/def/a01538.html#a74a16d93e0af2e5b3dd51ba20e89a5f1afd7ba9fba7ffaca28b4ea4a333497ebf", null ],
+      [ "ARENA_DESERTION_TYPE_LEAVE_QUEUE", "d7/def/a01538.html#a74a16d93e0af2e5b3dd51ba20e89a5f1a19beb9cb70a5c33a933a50e850bce529", null ],
+      [ "ARENA_DESERTION_TYPE_NO_ENTER_BUTTON", "d7/def/a01538.html#a74a16d93e0af2e5b3dd51ba20e89a5f1a38ec325982627287d9f0a401e966203b", null ],
+      [ "ARENA_DESERTION_TYPE_INVITE_LOGOUT", "d7/def/a01538.html#a74a16d93e0af2e5b3dd51ba20e89a5f1a3f3569e03106d65753e185b055c1dcf8", null ]
     ] ],
-    [ "RollMask", "d7/def/a01538.html#a2ad218cd5f5037aceafd8bf9d16e1b72", [
-      [ "ROLL_FLAG_TYPE_PASS", "d7/def/a01538.html#a2ad218cd5f5037aceafd8bf9d16e1b72ab29a6966aa6e97faceaa118deacf52f0", null ],
-      [ "ROLL_FLAG_TYPE_NEED", "d7/def/a01538.html#a2ad218cd5f5037aceafd8bf9d16e1b72ae6236bdd834258840f22c2e32a08aa9d", null ],
-      [ "ROLL_FLAG_TYPE_GREED", "d7/def/a01538.html#a2ad218cd5f5037aceafd8bf9d16e1b72aa2bdaaae31f6ff3bd7178a6c18efaf29", null ],
-      [ "ROLL_FLAG_TYPE_DISENCHANT", "d7/def/a01538.html#a2ad218cd5f5037aceafd8bf9d16e1b72a4af9a16cec188deaf97d852c148100a0", null ],
-      [ "ROLL_ALL_TYPE_NO_DISENCHANT", "d7/def/a01538.html#a2ad218cd5f5037aceafd8bf9d16e1b72a3101862a2a735a459ba0dcaac3ab61a3", null ],
-      [ "ROLL_ALL_TYPE_MASK", "d7/def/a01538.html#a2ad218cd5f5037aceafd8bf9d16e1b72a7ac6d295725fd0d403dfc8c7d78ff753", null ]
+    [ "BattlegroundMarks", "d7/def/a01538.html#a21b0cf0e79bdf2c9ffa4991530bc71ab", [
+      [ "SPELL_WS_MARK_LOSER", "d7/def/a01538.html#a21b0cf0e79bdf2c9ffa4991530bc71aba67b086aaed57b992cfe349c7f860ea7f", null ],
+      [ "SPELL_WS_MARK_WINNER", "d7/def/a01538.html#a21b0cf0e79bdf2c9ffa4991530bc71aba15a3454d09d2be99f0b5eeca08370803", null ],
+      [ "SPELL_WS_MARK_TIE", "d7/def/a01538.html#a21b0cf0e79bdf2c9ffa4991530bc71aba5513a167423a5cf0b37484b3c5a33488", null ],
+      [ "SPELL_AB_MARK_LOSER", "d7/def/a01538.html#a21b0cf0e79bdf2c9ffa4991530bc71aba7a13e32fb8a453c432e00cecead1782e", null ],
+      [ "SPELL_AB_MARK_WINNER", "d7/def/a01538.html#a21b0cf0e79bdf2c9ffa4991530bc71abac7d8eafe650abf803211ec5516f17c1f", null ],
+      [ "SPELL_AV_MARK_LOSER", "d7/def/a01538.html#a21b0cf0e79bdf2c9ffa4991530bc71aba498d475f2d942ebbbe1a1aded1af684a", null ],
+      [ "SPELL_AV_MARK_WINNER", "d7/def/a01538.html#a21b0cf0e79bdf2c9ffa4991530bc71abad6332382dcbeb601482a2babda47b2b0", null ],
+      [ "SPELL_SA_MARK_WINNER", "d7/def/a01538.html#a21b0cf0e79bdf2c9ffa4991530bc71aba41e011a33c3623e2fe8045f672925879", null ],
+      [ "SPELL_SA_MARK_LOSER", "d7/def/a01538.html#a21b0cf0e79bdf2c9ffa4991530bc71aba6f624c5687d41ec56af1554a884e23dc", null ],
+      [ "SPELL_WG_MARK_WINNER", "d7/def/a01538.html#a21b0cf0e79bdf2c9ffa4991530bc71abab3766236d2b9b4a4a54f18d7566a715f", null ],
+      [ "ITEM_AV_MARK_OF_HONOR", "d7/def/a01538.html#a21b0cf0e79bdf2c9ffa4991530bc71aba92d0c805cf102390339720e22ec63438", null ],
+      [ "ITEM_WS_MARK_OF_HONOR", "d7/def/a01538.html#a21b0cf0e79bdf2c9ffa4991530bc71aba306c617622d550b16023e7c75f7c1972", null ],
+      [ "ITEM_AB_MARK_OF_HONOR", "d7/def/a01538.html#a21b0cf0e79bdf2c9ffa4991530bc71abac66c2f574cd7728a4193759ade6e3356", null ],
+      [ "ITEM_EY_MARK_OF_HONOR", "d7/def/a01538.html#a21b0cf0e79bdf2c9ffa4991530bc71aba4c94bf0f887ebdb34f74b780543aac46", null ],
+      [ "ITEM_SA_MARK_OF_HONOR", "d7/def/a01538.html#a21b0cf0e79bdf2c9ffa4991530bc71aba30852d2a8f983ec64a50520ca26f5666", null ],
+      [ "ITEM_IC_MARK_OF_HONOR", "d7/def/a01538.html#a21b0cf0e79bdf2c9ffa4991530bc71aba5b608d563a78a8951c4856c49ae99214", null ]
     ] ],
-    [ "RollType", "d7/def/a01538.html#a5d76fe3c2e47015dbdeb747f3c4dfb5a", [
-      [ "ROLL_PASS", "d7/def/a01538.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa38fed431ec0ae02ffdd70ed6014f03a5", null ],
-      [ "ROLL_NEED", "d7/def/a01538.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa5ccd70d5799413c4175e4278fa6f8995", null ],
-      [ "ROLL_GREED", "d7/def/a01538.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa537ec62994db268ea075329b2a8506fa", null ],
-      [ "ROLL_DISENCHANT", "d7/def/a01538.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa80420a7e03a1ec9e4383cfe5ba8a1010", null ],
-      [ "MAX_ROLL_TYPE", "d7/def/a01538.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa24bcdb3d971392027fe44810f01679b0", null ]
+    [ "BattlegroundMarksCount", "d7/def/a01538.html#a6c3d2dfafa035abd99186b229e30a2c1", [
+      [ "ITEM_WINNER_COUNT", "d7/def/a01538.html#a6c3d2dfafa035abd99186b229e30a2c1a0beefd0257b8e36300120f39fabcdec2", null ],
+      [ "ITEM_LOSER_COUNT", "d7/def/a01538.html#a6c3d2dfafa035abd99186b229e30a2c1a3adc014d9d491f611221591acd8cb183", null ]
     ] ],
-    [ "LoadLootTables", "d7/def/a01538.html#a6d5971f1b453e4607e38ca9468ee867f", null ],
-    [ "LoadLootTemplates_Creature", "d7/def/a01538.html#a2ffebb5466d0f97fdaa495088a046a51", null ],
-    [ "LoadLootTemplates_Disenchant", "d7/def/a01538.html#aa6e191c54a43255f4cc43af79b20c817", null ],
-    [ "LoadLootTemplates_Fishing", "d7/def/a01538.html#a5f88815e67cdbdaebef659559cd0d954", null ],
-    [ "LoadLootTemplates_Gameobject", "d7/def/a01538.html#a24e17720ba3e69cf816688664f0e981a", null ],
-    [ "LoadLootTemplates_Item", "d7/def/a01538.html#aade507039245a0e20adcdbf548a7d690", null ],
-    [ "LoadLootTemplates_Mail", "d7/def/a01538.html#a9b802fc33b09fc4fced1a39a7bb8583d", null ],
-    [ "LoadLootTemplates_Milling", "d7/def/a01538.html#a1d63e7e68b4182ae8ebc36a7bbfd2456", null ],
-    [ "LoadLootTemplates_Pickpocketing", "d7/def/a01538.html#a09f7e96fb3b750f94e246759397e7546", null ],
-    [ "LoadLootTemplates_Player", "d7/def/a01538.html#a0e878bb1898269e2be94c066e18b6cac", null ],
-    [ "LoadLootTemplates_Prospecting", "d7/def/a01538.html#a87bdff8f6fa2a9f948153a770b0512ae", null ],
-    [ "LoadLootTemplates_Reference", "d7/def/a01538.html#a8015904fb38b1506755242730155cacc", null ],
-    [ "LoadLootTemplates_Skinning", "d7/def/a01538.html#aec1cdee51afe09234ba6b2d917c21916", null ],
-    [ "LoadLootTemplates_Spell", "d7/def/a01538.html#a1c69325fc9720f428891b814817eb762", null ],
-    [ "operator<<", "d7/def/a01538.html#ac7f789f6da959300694693d249113e9f", null ],
-    [ "operator<<", "d7/def/a01538.html#a08df83acd4a8d8591eebb3753e121fc7", null ],
-    [ "LootTemplates_Creature", "d7/def/a01538.html#a60e4571187c2d3ad1cc7ecec58b29b6b", null ],
-    [ "LootTemplates_Disenchant", "d7/def/a01538.html#a18264c3977d9cc716aa034d667a706e7", null ],
-    [ "LootTemplates_Fishing", "d7/def/a01538.html#a130d622342828cab6b845b2c9868dd38", null ],
-    [ "LootTemplates_Gameobject", "d7/def/a01538.html#a31e68d51b0fcf3e28a4479991359a8b3", null ],
-    [ "LootTemplates_Item", "d7/def/a01538.html#a9e0dd775278fdc9626bc8cb723035395", null ],
-    [ "LootTemplates_Mail", "d7/def/a01538.html#a0c67423870bc7cc7f3c3999bc285280b", null ],
-    [ "LootTemplates_Milling", "d7/def/a01538.html#a2b487e26b2b104df71db0d0cdb218f70", null ],
-    [ "LootTemplates_Pickpocketing", "d7/def/a01538.html#aff49ca707ec37f45e7faa1fef5bd34b1", null ],
-    [ "LootTemplates_Player", "d7/def/a01538.html#a24c6c31d274635f72ef4efeba3715f33", null ],
-    [ "LootTemplates_Prospecting", "d7/def/a01538.html#aa442746e1859bbd940dad2fdd852f406", null ],
-    [ "LootTemplates_Reference", "d7/def/a01538.html#a2d34d3171cf6ee7b6e118d5b12be319e", null ],
-    [ "LootTemplates_Skinning", "d7/def/a01538.html#afae6f3070ecef810348bdccbf30d6bf4", null ],
-    [ "LootTemplates_Spell", "d7/def/a01538.html#ace36a12afd7b338b0b935b6a824c1bbe", null ]
+    [ "BattlegroundQuests", "d7/def/a01538.html#aea3a75a589e463d82ee2401ef0d0b759", [
+      [ "SPELL_WS_QUEST_REWARD", "d7/def/a01538.html#aea3a75a589e463d82ee2401ef0d0b759a8f4eea59a1d414df755b272ddf281667", null ],
+      [ "SPELL_AB_QUEST_REWARD", "d7/def/a01538.html#aea3a75a589e463d82ee2401ef0d0b759a35d49005ca7d13122a2055e797886403", null ],
+      [ "SPELL_AV_QUEST_REWARD", "d7/def/a01538.html#aea3a75a589e463d82ee2401ef0d0b759a1b6797569e38fc85c57b1d5b7d05b356", null ],
+      [ "SPELL_AV_QUEST_KILLED_BOSS", "d7/def/a01538.html#aea3a75a589e463d82ee2401ef0d0b759ae151c4a650dc6436fa9d77c07a285b02", null ],
+      [ "SPELL_EY_QUEST_REWARD", "d7/def/a01538.html#aea3a75a589e463d82ee2401ef0d0b759ab430a979f6c12674b210f023d4546d09", null ],
+      [ "SPELL_SA_QUEST_REWARD", "d7/def/a01538.html#aea3a75a589e463d82ee2401ef0d0b759a9c77c3a333251dadf5b48e84d2492a35", null ],
+      [ "SPELL_AB_QUEST_REWARD_4_BASES", "d7/def/a01538.html#aea3a75a589e463d82ee2401ef0d0b759a2c6e3db3b5c7b100c85a4ca1322a0135", null ],
+      [ "SPELL_AB_QUEST_REWARD_5_BASES", "d7/def/a01538.html#aea3a75a589e463d82ee2401ef0d0b759a68762e2525b98168c16930b84d91f9e1", null ]
+    ] ],
+    [ "BattlegroundQueueInvitationType", "d7/def/a01538.html#a31a5e718df1b0c3c3d0c2a77875de931", [
+      [ "BG_QUEUE_INVITATION_TYPE_NO_BALANCE", "d7/def/a01538.html#a31a5e718df1b0c3c3d0c2a77875de931aab52206d3edf135e47df324a3bbd492c", null ],
+      [ "BG_QUEUE_INVITATION_TYPE_BALANCED", "d7/def/a01538.html#a31a5e718df1b0c3c3d0c2a77875de931ad10c3ef469fe9df6775c57645c7fd7bb", null ],
+      [ "BG_QUEUE_INVITATION_TYPE_EVEN", "d7/def/a01538.html#a31a5e718df1b0c3c3d0c2a77875de931acb1fc0e63ac9a0f697508f31329c77cb", null ]
+    ] ],
+    [ "BattlegroundReputations", "d7/def/a01538.html#a22ef753dc47cec4d75acf478859d4f12", [
+      [ "BG_REP_AV_HORDE", "d7/def/a01538.html#a22ef753dc47cec4d75acf478859d4f12a04f42258da1a4d222bcc8c6593e5bafe", null ],
+      [ "BG_REP_AV_ALLIANCE", "d7/def/a01538.html#a22ef753dc47cec4d75acf478859d4f12a86002389e48706edb1f7c8da40ad3cf6", null ],
+      [ "BG_REP_AB_HORDE", "d7/def/a01538.html#a22ef753dc47cec4d75acf478859d4f12a1bc6c82fd6cb32833d086fdc289276e4", null ],
+      [ "BG_REP_AB_ALLIANCE", "d7/def/a01538.html#a22ef753dc47cec4d75acf478859d4f12a95e8e6b6ea686470d05ced55c14eb6d6", null ],
+      [ "BG_REP_WS_HORDE", "d7/def/a01538.html#a22ef753dc47cec4d75acf478859d4f12a247dec8b741abf232ce50030db85dac8", null ],
+      [ "BG_REP_WS_ALLIANCE", "d7/def/a01538.html#a22ef753dc47cec4d75acf478859d4f12a7ef4ea14337fe02987acadaca493c6d5", null ]
+    ] ],
+    [ "BattlegroundSounds", "d7/def/a01538.html#adaf4c7ba6bcfbc7874021a0d0b3fec17", [
+      [ "SOUND_HORDE_WINS", "d7/def/a01538.html#adaf4c7ba6bcfbc7874021a0d0b3fec17a45770618ddc2f8bbaaed7f03adcfa211", null ],
+      [ "SOUND_ALLIANCE_WINS", "d7/def/a01538.html#adaf4c7ba6bcfbc7874021a0d0b3fec17a15def0f31a69b93556d7d32810aab391", null ],
+      [ "SOUND_BG_START", "d7/def/a01538.html#adaf4c7ba6bcfbc7874021a0d0b3fec17a125e8e1d51a14fc3196c61f5d0a8df20", null ],
+      [ "SOUND_BG_START_L70ETC", "d7/def/a01538.html#adaf4c7ba6bcfbc7874021a0d0b3fec17adbf9a87764c12e3680ab4dd916563151", null ]
+    ] ],
+    [ "BattlegroundSpells", "d7/def/a01538.html#aa0346f3f211a62e6d5b326063d0efb64", [
+      [ "SPELL_WAITING_FOR_RESURRECT", "d7/def/a01538.html#aa0346f3f211a62e6d5b326063d0efb64aecb99db12cb3eceeb54ca44915b03882", null ],
+      [ "SPELL_SPIRIT_HEAL_CHANNEL", "d7/def/a01538.html#aa0346f3f211a62e6d5b326063d0efb64a79bdae370dc13181830028656f7afddb", null ],
+      [ "SPELL_SPIRIT_HEAL", "d7/def/a01538.html#aa0346f3f211a62e6d5b326063d0efb64a11803b061c6a657c904211f3f8f60366", null ],
+      [ "SPELL_RESURRECTION_VISUAL", "d7/def/a01538.html#aa0346f3f211a62e6d5b326063d0efb64acdfe075701f942217479abeb938240d9", null ],
+      [ "SPELL_ARENA_PREPARATION", "d7/def/a01538.html#aa0346f3f211a62e6d5b326063d0efb64a8bd5c93038e559c940ad7579cc225b28", null ],
+      [ "SPELL_PREPARATION", "d7/def/a01538.html#aa0346f3f211a62e6d5b326063d0efb64ab44bb90b638e610dc57a59bf02e57081", null ],
+      [ "SPELL_SPIRIT_HEAL_MANA", "d7/def/a01538.html#aa0346f3f211a62e6d5b326063d0efb64aa334fa0d92a72143b9c9aba69fcfd3c1", null ],
+      [ "SPELL_RECENTLY_DROPPED_FLAG", "d7/def/a01538.html#aa0346f3f211a62e6d5b326063d0efb64a6f61935006db2bce8fcda63133e958b3", null ],
+      [ "SPELL_AURA_PLAYER_INACTIVE", "d7/def/a01538.html#aa0346f3f211a62e6d5b326063d0efb64a186322239163f2025ba342f86a082ca7", null ],
+      [ "SPELL_HONORABLE_DEFENDER_25Y", "d7/def/a01538.html#aa0346f3f211a62e6d5b326063d0efb64aa47c877b272b448142d39abb0aba1190", null ],
+      [ "SPELL_HONORABLE_DEFENDER_60Y", "d7/def/a01538.html#aa0346f3f211a62e6d5b326063d0efb64af44a998190bb49b9c4ebd822aa7f6e0f", null ]
+    ] ],
+    [ "BattlegroundStartingEvents", "d7/def/a01538.html#a478cf6887f0a4c9f2011aa51c567a280", [
+      [ "BG_STARTING_EVENT_NONE", "d7/def/a01538.html#a478cf6887f0a4c9f2011aa51c567a280a16440df976cf82cda7157250434aa7b5", null ],
+      [ "BG_STARTING_EVENT_1", "d7/def/a01538.html#a478cf6887f0a4c9f2011aa51c567a280a5e1ca5be9c3adc9f74edcb7dc7da30aa", null ],
+      [ "BG_STARTING_EVENT_2", "d7/def/a01538.html#a478cf6887f0a4c9f2011aa51c567a280a32cebc659a394010a9e1574c55bdaecf", null ],
+      [ "BG_STARTING_EVENT_3", "d7/def/a01538.html#a478cf6887f0a4c9f2011aa51c567a280a3194902abcc9ef5b278b864b50318065", null ],
+      [ "BG_STARTING_EVENT_4", "d7/def/a01538.html#a478cf6887f0a4c9f2011aa51c567a280acbc94a302f9929d61eefbefc701bdeae", null ]
+    ] ],
+    [ "BattlegroundStartingEventsIds", "d7/def/a01538.html#aed5bb41d36b0bbd61653a1e2d30c8b76", [
+      [ "BG_STARTING_EVENT_FIRST", "d7/def/a01538.html#aed5bb41d36b0bbd61653a1e2d30c8b76a81691700a1e2a4b9e39c74a1ab555d3f", null ],
+      [ "BG_STARTING_EVENT_SECOND", "d7/def/a01538.html#aed5bb41d36b0bbd61653a1e2d30c8b76a4bc18dbb492d4824a72ad43605d4f696", null ],
+      [ "BG_STARTING_EVENT_THIRD", "d7/def/a01538.html#aed5bb41d36b0bbd61653a1e2d30c8b76a2274d8e8b108a410d9775914253bb54f", null ],
+      [ "BG_STARTING_EVENT_FOURTH", "d7/def/a01538.html#aed5bb41d36b0bbd61653a1e2d30c8b76a8de1564ed5e921671a5e6f8f42ba9e29", null ]
+    ] ],
+    [ "BattlegroundStartTimeIntervals", "d7/def/a01538.html#aaa1e2b3f4c075da1b36c31b45f74dde0", [
+      [ "BG_START_DELAY_2M", "d7/def/a01538.html#aaa1e2b3f4c075da1b36c31b45f74dde0a88e4c641454b004ff912233b61ae1e7e", null ],
+      [ "BG_START_DELAY_1M", "d7/def/a01538.html#aaa1e2b3f4c075da1b36c31b45f74dde0a1a9f76694150c65766212202838b32f5", null ],
+      [ "BG_START_DELAY_30S", "d7/def/a01538.html#aaa1e2b3f4c075da1b36c31b45f74dde0a4b0e68b854470699044ef4dc8c015eca", null ],
+      [ "BG_START_DELAY_15S", "d7/def/a01538.html#aaa1e2b3f4c075da1b36c31b45f74dde0ae6e81ec1672abe114ee9b7a100f91163", null ],
+      [ "BG_START_DELAY_NONE", "d7/def/a01538.html#aaa1e2b3f4c075da1b36c31b45f74dde0ab2e543b35bf3651ec86d731f2e9f36f2", null ]
+    ] ],
+    [ "BattlegroundStatus", "d7/def/a01538.html#ad1473374651bd09f461cdc994a6bc8d2", [
+      [ "STATUS_NONE", "d7/def/a01538.html#ad1473374651bd09f461cdc994a6bc8d2aa7ff6fbf30c889d48bea1d98b74dc408", null ],
+      [ "STATUS_WAIT_QUEUE", "d7/def/a01538.html#ad1473374651bd09f461cdc994a6bc8d2a91aabae633323f9e31059e42e9ea5240", null ],
+      [ "STATUS_WAIT_JOIN", "d7/def/a01538.html#ad1473374651bd09f461cdc994a6bc8d2af0b95a17deaea4fc8f467eaacaa515b2", null ],
+      [ "STATUS_IN_PROGRESS", "d7/def/a01538.html#ad1473374651bd09f461cdc994a6bc8d2afaf0b6349b8a93b543f64c744e321d5a", null ],
+      [ "STATUS_WAIT_LEAVE", "d7/def/a01538.html#ad1473374651bd09f461cdc994a6bc8d2ae7efc0dc1952d03b010583a83242fab8", null ]
+    ] ],
+    [ "BattlegroundTimeIntervals", "d7/def/a01538.html#a090be1583e0cd521bceae7dfeaf51ff0", [
+      [ "CHECK_PLAYER_POSITION_INVERVAL", "d7/def/a01538.html#a090be1583e0cd521bceae7dfeaf51ff0af652e8833ade738e84882848af7532eb", null ],
+      [ "INVITATION_REMIND_TIME", "d7/def/a01538.html#a090be1583e0cd521bceae7dfeaf51ff0afa97b69bd50d943b0d6fcb4fb6b0b0f1", null ],
+      [ "INVITE_ACCEPT_WAIT_TIME", "d7/def/a01538.html#a090be1583e0cd521bceae7dfeaf51ff0a1b0d93b746ae2d960bd33172a070c365", null ],
+      [ "TIME_TO_AUTOREMOVE", "d7/def/a01538.html#a090be1583e0cd521bceae7dfeaf51ff0a2d4e27a7fc04a8e21d8876f148f1b8e4", null ],
+      [ "MAX_OFFLINE_TIME", "d7/def/a01538.html#a090be1583e0cd521bceae7dfeaf51ff0a921f4ea435e20ead3fa2d51fd0110de2", null ],
+      [ "RESPAWN_ONE_DAY", "d7/def/a01538.html#a090be1583e0cd521bceae7dfeaf51ff0adbf24d2427c183ffc78e4029acc7c55a", null ],
+      [ "RESPAWN_IMMEDIATELY", "d7/def/a01538.html#a090be1583e0cd521bceae7dfeaf51ff0a9d82996a819714d44a8001eae7da9a16", null ]
+    ] ],
+    [ "BattlegroundType", "d7/def/a01538.html#ad114e000e9b0b22d0b15fef906659664", [
+      [ "TYPE_BATTLEGROUND", "d7/def/a01538.html#ad114e000e9b0b22d0b15fef906659664a9186fa8c24c58bc92c1761f43827ecc4", null ],
+      [ "TYPE_ARENA", "d7/def/a01538.html#ad114e000e9b0b22d0b15fef906659664ae01a6bdc4b7d444e84bd1e77e3006e6e", null ]
+    ] ],
+    [ "BGHonorMode", "d7/def/a01538.html#a9b3c137d134a4132bde20fa629c5bb6a", [
+      [ "BG_NORMAL", "d7/def/a01538.html#a9b3c137d134a4132bde20fa629c5bb6aa5bf115b7d8bd9854c89486699ec30c26", null ],
+      [ "BG_HOLIDAY", "d7/def/a01538.html#a9b3c137d134a4132bde20fa629c5bb6aaa7d82fa234979ffd5e580800cf906508", null ],
+      [ "BG_HONOR_MODE_NUM", "d7/def/a01538.html#a9b3c137d134a4132bde20fa629c5bb6aadcb9272c46983aed265dbafa2dec582b", null ]
+    ] ],
+    [ "SpiritOfCompetitionEvent", "d7/def/a01538.html#ab34783939c140297c9d0c3fb18a5024e", [
+      [ "EVENT_SPIRIT_OF_COMPETITION", "d7/def/a01538.html#ab34783939c140297c9d0c3fb18a5024ea3dbe7ee4fca2142cdc89a29d2497dd16", null ],
+      [ "QUEST_FLAG_PARTICIPANT", "d7/def/a01538.html#ab34783939c140297c9d0c3fb18a5024eafc42a2d8ce491ca2f8907e6681dca254", null ],
+      [ "QUEST_FLAG_WINNER", "d7/def/a01538.html#ab34783939c140297c9d0c3fb18a5024ea261ca5caf00fde7d8e757463571d6775", null ],
+      [ "SPELL_SPIRIT_OF_COMPETITION_PARTICIPANT", "d7/def/a01538.html#ab34783939c140297c9d0c3fb18a5024ea215d25d95dd0e794e6a0bc5d796a3593", null ],
+      [ "SPELL_SPIRIT_OF_COMPETITION_WINNER", "d7/def/a01538.html#ab34783939c140297c9d0c3fb18a5024ead07abb84199c4f2954a050e411c61d48", null ]
+    ] ],
+    [ "BG_STARTING_EVENT_COUNT", "d7/def/a01538.html#ad52f89016e62a2e840d6f6d901f45fcb", null ],
+    [ "Buff_Entries", "d7/def/a01538.html#a191ff549bae459a9cb89c0ab97383998", null ]
 ];

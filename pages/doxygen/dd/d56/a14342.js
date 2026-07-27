@@ -1,6 +1,6 @@
 var a14342 =
 [
-    [ "FilterTargets", "dd/d56/a14342.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
-    [ "PrepareSpellScript", "dd/d56/a14342.html#a0a1cbde8aff10303d91a791276a865f4", null ],
-    [ "Register", "dd/d56/a14342.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
+    [ "cooldown", "dd/d56/a14342.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "dd/d56/a14342.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "dd/d56/a14342.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

@@ -1,6 +1,7 @@
 var a16610 =
 [
-    [ "boss_grand_championAI", "d1/d36/a16614.html", "d1/d36/a16614" ],
-    [ "boss_grand_champion", "d6/df0/a16610.html#a9577f8af5e234b3aebd7567841b867e2", null ],
-    [ "GetAI", "d6/df0/a16610.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
+    [ "HandleDummy", "d6/df0/a16610.html#ad0782bfbd977954aac6170ee9111aef6", null ],
+    [ "PrepareSpellScript", "d6/df0/a16610.html#ac456524856c4a3c4913423693a8fd50c", null ],
+    [ "Register", "d6/df0/a16610.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
+    [ "Validate", "d6/df0/a16610.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
 ];

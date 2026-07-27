@@ -1,6 +1,10 @@
 var a10190 =
 [
-    [ "UpdateRequest", "dc/d84/a10190.html#a23b3dbcff54691b2710109a822a486a0", null ],
-    [ "~UpdateRequest", "dc/d84/a10190.html#a240bdc56685c270c597588231c3bf8f8", null ],
-    [ "call", "dc/d84/a10190.html#a8221fa415f828a4866f85f3983f7dab9", null ]
+    [ "DoublePosition", "dd/de9/a10194.html", "dd/de9/a10194" ],
+    [ "~AreaBoundary", "dc/d84/a10190.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "dc/d84/a10190.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "dc/d84/a10190.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "dc/d84/a10190.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "dc/d84/a10190.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "dc/d84/a10190.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

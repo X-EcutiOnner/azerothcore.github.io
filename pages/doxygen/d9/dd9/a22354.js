@@ -1,12 +1,8 @@
 var a22354 =
 [
-    [ "boss_gurtogg_bloodboil", "d9/dd9/a22354.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
-    [ "CanAIAttack", "d9/dd9/a22354.html#a60e6439bab689eb88a18612b6b46c713", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d9/dd9/a22354.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
-    [ "JustDied", "d9/dd9/a22354.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
-    [ "JustEngagedWith", "d9/dd9/a22354.html#a0847173efbae252c2fbbaf1be17097cb", null ],
-    [ "JustSummoned", "d9/dd9/a22354.html#ae718666a1da0e93cb0965c42c40b51df", null ],
-    [ "KilledUnit", "d9/dd9/a22354.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
-    [ "Reset", "d9/dd9/a22354.html#add25677d422b8bddcb753465451f0584", null ],
-    [ "_recentlySpoken", "d9/dd9/a22354.html#a74af813b84f7787a5b764cfe574c087b", null ]
+    [ "npc_oathbound_warder", "d9/dd9/a22354.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
+    [ "AttackStart", "d9/dd9/a22354.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
+    [ "InitializeAI", "d9/dd9/a22354.html#a62c4c568ad615013afa46c7da84d057a", null ],
+    [ "JustEngagedWith", "d9/dd9/a22354.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
+    [ "UpdateAI", "d9/dd9/a22354.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
 ];

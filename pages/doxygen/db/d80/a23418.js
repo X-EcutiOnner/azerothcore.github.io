@@ -1,9 +1,7 @@
 var a23418 =
 [
-    [ "HandleEffectApply", "db/d80/a23418.html#ac9e030810cc1ffb3927943353bcbb764", null ],
-    [ "HandleEffectRemove", "db/d80/a23418.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
-    [ "Load", "db/d80/a23418.html#a60f41c19f5104eef82048fd1e3416abd", null ],
-    [ "PrepareAuraScript", "db/d80/a23418.html#a277d9865108acafac4b1a42bc5b5714b", null ],
-    [ "Register", "db/d80/a23418.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
-    [ "_falconSet", "db/d80/a23418.html#a1a20f75d251936bff7a0777831d79140", null ]
+    [ "npc_underbog_mushroom", "db/d80/a23418.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "db/d80/a23418.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "db/d80/a23418.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "db/d80/a23418.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

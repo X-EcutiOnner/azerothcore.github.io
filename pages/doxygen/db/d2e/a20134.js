@@ -1,7 +1,6 @@
 var a20134 =
 [
-    [ "npc_ulduar_saronite_vapors", "db/d2e/a20134.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
-    [ "IsSummonedBy", "db/d2e/a20134.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
-    [ "JustDied", "db/d2e/a20134.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
-    [ "_instance", "db/d2e/a20134.html#ad304110ff1bfc33066cd17f04cf40181", null ]
+    [ "PrepareSpellScript", "db/d2e/a20134.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "db/d2e/a20134.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "db/d2e/a20134.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

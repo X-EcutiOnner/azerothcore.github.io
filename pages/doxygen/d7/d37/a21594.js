@@ -1,6 +1,10 @@
 var a21594 =
 [
-    [ "CheckRequirement", "d7/d37/a21594.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "d7/d37/a21594.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "d7/d37/a21594.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d7/d37/a21594.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "d7/d37/a21594.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "d7/d37/a21594.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "d7/d37/a21594.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "d7/d37/a21594.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "d7/d37/a21594.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "d7/d37/a21594.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

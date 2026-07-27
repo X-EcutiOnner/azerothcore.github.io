@@ -1,6 +1,6 @@
 var a13234 =
 [
-    [ "boss_garaxxas", "d5/d8c/a13234.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
-    [ "JustEngagedWith", "d5/d8c/a13234.html#aebfd7b63d714468ed69e920fb89c345d", null ],
-    [ "Reset", "d5/d8c/a13234.html#a56e6489ce49971cb066444888355626e", null ]
+    [ "FilterTargets", "d5/d8c/a13234.html#adae7a812a222a60f9c89cac4ea327011", null ],
+    [ "PrepareSpellScript", "d5/d8c/a13234.html#a9576a48a3aa761c103f72586cd93970c", null ],
+    [ "Register", "d5/d8c/a13234.html#aaadad68c322eac268ea7a45f9c369c59", null ]
 ];

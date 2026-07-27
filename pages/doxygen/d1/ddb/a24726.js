@@ -1,6 +1,7 @@
 var a24726 =
 [
-    [ "ModDest", "d1/ddb/a24726.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "d1/ddb/a24726.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "d1/ddb/a24726.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "HandleProc", "d1/ddb/a24726.html#a15592382213762145eb30d85bfcbd60a", null ],
+    [ "PrepareAuraScript", "d1/ddb/a24726.html#a82201b03b7b642e7898889412a617712", null ],
+    [ "Register", "d1/ddb/a24726.html#aba014f9b0000d19cabbc5a9c763b934b", null ],
+    [ "Validate", "d1/ddb/a24726.html#af586c09b1ba0b25d37c43624d3871c4e", null ]
 ];

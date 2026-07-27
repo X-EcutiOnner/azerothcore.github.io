@@ -1,6 +1,9 @@
 var a10914 =
 [
-    [ "QueryGuildInfo", "d1/d6c/a10914.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
-    [ "Read", "d1/d6c/a10914.html#a0396a58ca114706f7de91f51c5ab949d", null ],
-    [ "GuildId", "d1/d6c/a10914.html#ad221eecdb16233251306fff3d9801f38", null ]
+    [ "fX", "d1/d6c/a10914.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
+    [ "fY", "d1/d6c/a10914.html#a9b158e247014eec0d35e465ab9469ac7", null ],
+    [ "fZ", "d1/d6c/a10914.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
+    [ "uiCreatureEntry", "d1/d6c/a10914.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
+    [ "uiPointId", "d1/d6c/a10914.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
+    [ "uiWaitTime", "d1/d6c/a10914.html#a305620aad71152c1139a88dea05a1887", null ]
 ];

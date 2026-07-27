@@ -1,8 +1,14 @@
 var a14422 =
 [
-    [ "npc_spawn_of_marli", "de/db3/a14422.html#a1dcd5066de108203903f5767c4b375ea", null ],
-    [ "JustEngagedWith", "de/db3/a14422.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
-    [ "Reset", "de/db3/a14422.html#a79ef192d41af75e0dad0494776c75189", null ],
-    [ "UpdateAI", "de/db3/a14422.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
-    [ "_scheduler", "de/db3/a14422.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
+    [ "npc_harrison_jones", "de/db3/a14422.html#ae408c9533166f8919c121053a3efff6c", null ],
+    [ "DoAction", "de/db3/a14422.html#a2ecf8a9f807e879530ee6a094475e67b", null ],
+    [ "JustEngagedWith", "de/db3/a14422.html#a884e5973ed597eeeb606f5b8a2b1c028", null ],
+    [ "MovementInform", "de/db3/a14422.html#a5ee27ccc1aea33ecc8aee5b703e05174", null ],
+    [ "OpenMassiveGateAndCallGuards", "de/db3/a14422.html#a8f15098ad66e2d13ddfababc2ad2e33b", null ],
+    [ "Reset", "de/db3/a14422.html#a11b1b2da283ddaa475f3f42534702f5b", null ],
+    [ "sGossipSelect", "de/db3/a14422.html#ae56b80041fa198063a9ce87729142420", null ],
+    [ "SpellHit", "de/db3/a14422.html#ad3ead59986b9340529bb6c6f42dbc137", null ],
+    [ "UpdateAI", "de/db3/a14422.html#a0c64f294257e98522e0f32171aee6080", null ],
+    [ "_instance", "de/db3/a14422.html#adb995a4b18607a5bd7555ce6989c2525", null ],
+    [ "_phase", "de/db3/a14422.html#a1620b4f7407aa49c3e16876148c49ba7", null ]
 ];

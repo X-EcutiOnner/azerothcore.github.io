@@ -1,7 +1,8 @@
 var a13374 =
 [
-    [ "OnApply", "d5/d5a/a13374.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
-    [ "OnRemove", "d5/d5a/a13374.html#a810203874163cf04798c3edbe69b747e", null ],
-    [ "PrepareAuraScript", "d5/d5a/a13374.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
-    [ "Register", "d5/d5a/a13374.html#af2ad52165de188897fdeb8d62646b7cc", null ]
+    [ "CalcPeriodic", "d5/d5a/a13374.html#a493609298c152df8216641ba2e5861cd", null ],
+    [ "PrepareAuraScript", "d5/d5a/a13374.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
+    [ "Register", "d5/d5a/a13374.html#a44002db5980dfc1db816cf61fd446491", null ],
+    [ "Update", "d5/d5a/a13374.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
+    [ "Validate", "d5/d5a/a13374.html#a060e189aaa4396681d42906b65c9196f", null ]
 ];

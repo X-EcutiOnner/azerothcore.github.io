@@ -1,6 +1,6 @@
 var a15722 =
 [
-    [ "npc_rabid_thistle_bearAI", "d4/d90/a15726.html", "d4/d90/a15726" ],
-    [ "npc_rabid_thistle_bear", "d6/da4/a15722.html#a34b20a4ea22d74352712dee105247d56", null ],
-    [ "GetAI", "d6/da4/a15722.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
+    [ "boss_veknilash", "d6/da4/a15722.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
+    [ "IAmVeklor", "d6/da4/a15722.html#a454027d829b962ee0feebb6fd5687714", null ],
+    [ "JustEngagedWith", "d6/da4/a15722.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
 ];

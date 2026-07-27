@@ -1,7 +1,6 @@
 var a13622 =
 [
-    [ "CorruptTriggers", "de/d5e/a13622.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
-    [ "Execute", "de/d5e/a13622.html#a9929f3518f307e0b753782967f06c6c1", null ],
-    [ "_caster", "de/d5e/a13622.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
-    [ "_currentLane", "de/d5e/a13622.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
+    [ "boss_baroness_anastariAI", "dd/df4/a13626.html", "dd/df4/a13626" ],
+    [ "boss_baroness_anastari", "de/d5e/a13622.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
+    [ "GetAI", "de/d5e/a13622.html#a38073f80afbceb5535cc18ab524378a6", null ]
 ];

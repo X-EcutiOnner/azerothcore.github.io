@@ -1,9 +1,6 @@
 var a11650 =
 [
-    [ "SpellEvent", "d5/d06/a11650.html#abca64eb7d39df9788cef9df7e8634368", null ],
-    [ "~SpellEvent", "d5/d06/a11650.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
-    [ "Abort", "d5/d06/a11650.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
-    [ "Execute", "d5/d06/a11650.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
-    [ "IsDeletable", "d5/d06/a11650.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
-    [ "m_Spell", "d5/d06/a11650.html#a22cce1d722f5086932ae3e97c58d2921", null ]
+    [ "PushQuestToParty", "d5/d06/a11650.html#a3c49c83653ef26f2dcaf5c73c29066e0", null ],
+    [ "Read", "d5/d06/a11650.html#aacb4c91a7fa1cd2c7db6dd9b7825e70c", null ],
+    [ "QuestId", "d5/d06/a11650.html#a0d30347159622093b52d0936d93a63bf", null ]
 ];

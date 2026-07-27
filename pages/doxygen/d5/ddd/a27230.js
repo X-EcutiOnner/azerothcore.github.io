@@ -1,6 +1,7 @@
 var a27230 =
 [
-    [ "PeriodicTick", "d5/ddd/a27230.html#a14e79a7bb4a5b11ddc74ab366e79a907", null ],
-    [ "PrepareAuraScript", "d5/ddd/a27230.html#a0448cdf379053396f8649946e52ce690", null ],
-    [ "Register", "d5/ddd/a27230.html#a2dab21ddb3c33341d560643d27042402", null ]
+    [ "HandleDummy", "d5/ddd/a27230.html#a4c837e7342603519d1f23ab8702c3160", null ],
+    [ "PrepareSpellScript", "d5/ddd/a27230.html#ae9d6ab0c9b9cf87f7b86f28e9bb25371", null ],
+    [ "Register", "d5/ddd/a27230.html#a16a5ca3ec9a8c463c9a2975fa29eb1e9", null ],
+    [ "Validate", "d5/ddd/a27230.html#ad742f4ce0d0db70427f7ba849a4526df", null ]
 ];

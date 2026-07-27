@@ -1,21 +1,18 @@
 var a00452 =
 [
-    [ "TSpellSummary", "de/d24/a06568.html", "de/d24/a06568" ],
-    [ "eNPCs", "d1/d0b/a00452.html#abaecf87f40b40c4c71ec596a0b73e911", [
-      [ "NPC_BROODLORD", "d1/d0b/a00452.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],
-      [ "NPC_JAN_ALAI", "d1/d0b/a00452.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],
-      [ "NPC_SARTHARION", "d1/d0b/a00452.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10", null ],
-      [ "NPC_FREYA", "d1/d0b/a00452.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752", null ],
-      [ "NPC_INGVAR_UNDEAD", "dc/da7/a03404.html#abaecf87f40b40c4c71ec596a0b73e911ac5f7785a73b2ea4946e698f73996e906", null ],
-      [ "NPC_ANNHYLDE", "dc/da7/a03404.html#abaecf87f40b40c4c71ec596a0b73e911a244024200627132843a0b95f2fdefcb4", null ],
-      [ "NPC_THROW", "dc/da7/a03404.html#abaecf87f40b40c4c71ec596a0b73e911a5c7c851e12a8c23ef9569157753a2546", null ],
-      [ "NPC_FROST_TOMB", "d1/d35/a03398.html#abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76", null ],
-      [ "NPC_SKELETON", "d1/d35/a03398.html#abaecf87f40b40c4c71ec596a0b73e911ae6d4da6ba356104e95b11d5cd561d0f3", null ]
-    ] ],
-    [ "GetClosestCreatureWithEntry", "d1/d0b/a00452.html#a136c0c059281a05f9cb91237ce55be7b", null ],
-    [ "GetClosestGameObjectWithEntry", "d1/d0b/a00452.html#a80b13d7c0fa3b835b0834955ed0f93d8", null ],
-    [ "GetCreatureListWithEntryInGrid", "d1/d0b/a00452.html#ab6a8246d473139627106be4651f6329d", null ],
-    [ "GetDeadCreatureListInGrid", "d1/d0b/a00452.html#a2e3edf6fd8a6865d815af4f8acb184af", null ],
-    [ "GetGameObjectListWithEntryInGrid", "d1/d0b/a00452.html#ae9abb80c4e811509bca88e65cf817276", null ],
-    [ "SpellSummary", "d1/d0b/a00452.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
+    [ "Days", "d1/d0b/a00452.html#af5dc5e7ad7b3f6d8e84530de842d125b", null ],
+    [ "Hours", "d1/d0b/a00452.html#aa0f87984d2b3835a61dffc22ae8bf083", null ],
+    [ "Microseconds", "d1/d0b/a00452.html#a201a83ed0d59d2baf946daf42dac834f", null ],
+    [ "Milliseconds", "d1/d0b/a00452.html#a1c3834b9e3853535027d58bf21bec81f", null ],
+    [ "Minutes", "d1/d0b/a00452.html#af2161f9db850581e2228078614990df8", null ],
+    [ "Months", "d1/d0b/a00452.html#a5f2ffeea2459944dfaa4443f1efb7f42", null ],
+    [ "Seconds", "d1/d0b/a00452.html#a3cd82f1c195a0b935b4d66b02a41acd8", null ],
+    [ "SystemTimePoint", "d1/d0b/a00452.html#ada798961abc5a533d616ff780f567bb6", null ],
+    [ "TimePoint", "d1/d0b/a00452.html#ae5ca775e8d8c664b6edef818ce1251b9", null ],
+    [ "Weeks", "d1/d0b/a00452.html#a983745490d3d3a0322c4ccf0f418f179", null ],
+    [ "Years", "d1/d0b/a00452.html#ab4fa20b33a9b5ee358963159b01d72f3", null ],
+    [ "operator\"\"_days", "d1/d0b/a00452.html#ae62919aa53468bfadd4984bdd0498c03", null ],
+    [ "operator\"\"_months", "d1/d0b/a00452.html#a7f38d5f5e7db75251b49712f910059ac", null ],
+    [ "operator\"\"_weeks", "d1/d0b/a00452.html#a7ff3ff81243ee7b2ce873364bb7ad676", null ],
+    [ "operator\"\"_years", "d1/d0b/a00452.html#a25baa64022678f43cf423c945dbd0226", null ]
 ];

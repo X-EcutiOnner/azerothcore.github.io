@@ -1,16 +1,11 @@
 var a21022 =
 [
-    [ "boss_emalonAI", "d8/d49/a21022.html#ac87b3ea34e9781f3843321ef874321fe", null ],
-    [ "AttackStart", "d8/d49/a21022.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
-    [ "JustDied", "d8/d49/a21022.html#a79a05156b690140e955a6e850ac41e5b", null ],
-    [ "JustEngagedWith", "d8/d49/a21022.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
-    [ "JustSummoned", "d8/d49/a21022.html#a895f302d336faa0c3f93854314d3b427", null ],
-    [ "Reset", "d8/d49/a21022.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
-    [ "ResetSummons", "d8/d49/a21022.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
-    [ "SpellHitTarget", "d8/d49/a21022.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
-    [ "SummonedCreatureDies", "d8/d49/a21022.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
-    [ "UpdateAI", "d8/d49/a21022.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
-    [ "events", "d8/d49/a21022.html#a78312371e28b4be3c072dc870370b577", null ],
-    [ "pInstance", "d8/d49/a21022.html#af4cc6489905f9702999cc23fd6a920c2", null ],
-    [ "summons", "d8/d49/a21022.html#a1b6ccd418114e57a0c843cc980a56243", null ]
+    [ "boss_yoggsaron_voice", "d8/d49/a21022.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
+    [ "DoAction", "d8/d49/a21022.html#a094522e81d1d19de660b75fb06ea4224", null ],
+    [ "Reset", "d8/d49/a21022.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
+    [ "SpellHitTarget", "d8/d49/a21022.html#aae3b82dbb871f0f297bdacf975958492", null ],
+    [ "UpdateAI", "d8/d49/a21022.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
+    [ "_current", "d8/d49/a21022.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
+    [ "_targets", "d8/d49/a21022.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
+    [ "events", "d8/d49/a21022.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
 ];

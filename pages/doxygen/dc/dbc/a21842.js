@@ -1,6 +1,6 @@
 var a21842 =
 [
-    [ "npc_bushwhackerAI", "dc/dbc/a21842.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "dc/dbc/a21842.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "dc/dbc/a21842.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "GhoulTargetCheck", "dc/dbc/a21842.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "dc/dbc/a21842.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "dc/dbc/a21842.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

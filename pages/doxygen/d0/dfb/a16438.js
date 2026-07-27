@@ -1,7 +1,5 @@
 var a16438 =
 [
-    [ "HandleScriptEffect", "d0/dfb/a16438.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "d0/dfb/a16438.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "d0/dfb/a16438.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "d0/dfb/a16438.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "achievement_hadronox_denied", "d0/dfb/a16438.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
+    [ "OnCheck", "d0/dfb/a16438.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
 ];

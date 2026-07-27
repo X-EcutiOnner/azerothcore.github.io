@@ -1,8 +1,11 @@
 var a02231 =
 [
-    [ "PingOperation", "d8/d17/a06068.html", "d8/d17/a06068" ],
-    [ "DatabaseIncompatibleVersion", "d7/da1/a02231.html#a31d71bc4748fa66e040eb20dc995e12e", null ],
-    [ "DatabaseWorkerPool< CharacterDatabaseConnection >", "d7/da1/a02231.html#aa3cb93fc2ebcb628d94ae0dd8ddf8a18", null ],
-    [ "DatabaseWorkerPool< LoginDatabaseConnection >", "d7/da1/a02231.html#a8751940b74a554bf0a86046325e0c5ed", null ],
-    [ "DatabaseWorkerPool< WorldDatabaseConnection >", "d7/da1/a02231.html#a25e66781580e4e7fcbd8e8ca6ef9f13a", null ]
+    [ "Movement::counter< T, limit >", "dd/d31/a10510.html", "dd/d31/a10510" ],
+    [ "UInt32Counter", "d7/da1/a02231.html#adebd21803156b193f9b8a733b6cbd3c7", null ],
+    [ "computeFallElevation", "d7/da1/a02231.html#a87260372150c8322b45e75bfaa445f14", null ],
+    [ "computeFallTime", "d7/da1/a02231.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
+    [ "MSToSec", "d7/da1/a02231.html#aefc83834e7badc5f8450322da9567bd6", null ],
+    [ "SecToMS", "d7/da1/a02231.html#a418fff34f8aed72d6d80876be5a33c58", null ],
+    [ "gravity", "d7/da1/a02231.html#a15b376933a666c7f7c4600e62d7afe91", null ],
+    [ "splineIdGen", "d7/da1/a02231.html#a5149db3325f467381006d8d5df24a2a8", null ]
 ];

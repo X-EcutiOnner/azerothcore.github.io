@@ -1,12 +1,19 @@
 var a12362 =
 [
-    [ "rbac_commandscript", "db/d6b/a12362.html#ad5d80b189a8ddaf6b5927c81668a7d74", null ],
-    [ "GetCommands", "db/d6b/a12362.html#a79aea8dac765cfb1a2f12264b58b4227", null ],
-    [ "GetRBACData", "db/d6b/a12362.html#a00da7ed9027950938ec869e678111502", null ],
-    [ "GetSecurityLevelName", "db/d6b/a12362.html#afcfc224e4b39db42ed6efeb5e49ecc7a", null ],
-    [ "HandleRBACListPermissionsCommand", "db/d6b/a12362.html#a80f84e8eeebfd70b4ac7bc049bf4759c", null ],
-    [ "HandleRBACPermDenyCommand", "db/d6b/a12362.html#acc074437ff26c253cf91772de9117fbf", null ],
-    [ "HandleRBACPermGrantCommand", "db/d6b/a12362.html#ad4254acff93e13b7218b086281d13676", null ],
-    [ "HandleRBACPermListCommand", "db/d6b/a12362.html#a324227f3398500ca0a5b7dd141698951", null ],
-    [ "HandleRBACPermRevokeCommand", "db/d6b/a12362.html#adf8932879f77b25833cf55dc2924ac29", null ]
+    [ "CityAttack", "d7/da2/a12370.html", "d7/da2/a12370" ],
+    [ "InvasionZone", "d0/de8/a12366.html", "d0/de8/a12366" ],
+    [ "ScourgeInvasionData", "db/d6b/a12362.html#a40749458bbad64d1d277cd7cd9dac939", null ],
+    [ "GetData", "db/d6b/a12362.html#adca57b4cf5a065fad1a7bd184571bdc5", null ],
+    [ "Reset", "db/d6b/a12362.html#a0ae2fc830e4f85fb619c38fdcad794ae", null ],
+    [ "m_activeInvasions", "db/d6b/a12362.html#af98aea31bf9c878adf2870890911282f", null ],
+    [ "m_battlesWon", "db/d6b/a12362.html#aea7079c6f876188857219c574ca0798d", null ],
+    [ "m_broadcastTimer", "db/d6b/a12362.html#a7c251f312e332ab60fa6de6e8cf4189d", null ],
+    [ "m_cityAttacks", "db/d6b/a12362.html#a70127135568b3a439f040697f1dc525c", null ],
+    [ "m_lastAttackZone", "db/d6b/a12362.html#a38ead6b33009083055538fd4f0b7de35", null ],
+    [ "m_pendingInvasions", "db/d6b/a12362.html#af62efb05ce49a3cb764328976f8054f6", null ],
+    [ "m_pendingPallids", "db/d6b/a12362.html#a2a2f610d9c398bc82f4e39eea4fbadfc", null ],
+    [ "m_remaining", "db/d6b/a12362.html#afa0f9b63b3c2111affdf9769ee529d88", null ],
+    [ "m_siMutex", "db/d6b/a12362.html#acefb72f28d000395bc1362cd9a62b26a", null ],
+    [ "m_state", "db/d6b/a12362.html#acb26a954f14aec654513b16e5e53cad8", null ],
+    [ "m_timers", "db/d6b/a12362.html#a06375cf97a023be4f3fff94cc43405a9", null ]
 ];

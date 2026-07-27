@@ -1,4 +1,7 @@
 var a28686 =
 [
-    [ "DisplayRaceID", "d8/de4/a28686.html#a5f3897281f18061c4508d752b2291552", null ]
+    [ "HandleDummy", "d8/de4/a28686.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "d8/de4/a28686.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "d8/de4/a28686.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "d8/de4/a28686.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

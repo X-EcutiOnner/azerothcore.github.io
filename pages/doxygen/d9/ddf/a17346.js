@@ -1,6 +1,8 @@
 var a17346 =
 [
-    [ "SlaveRunEvent", "d9/ddf/a17346.html#a4560b275b0870cdbd192b2610893b47c", null ],
-    [ "Execute", "d9/ddf/a17346.html#a81db67be136525dea5a9cd84180be165", null ],
-    [ "_owner", "d9/ddf/a17346.html#a33e2ce4cea1edf2e0967696c41667f15", null ]
+    [ "npc_phantom_hallucination", "d9/ddf/a17346.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
+    [ "EnterEvadeMode", "d9/ddf/a17346.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
+    [ "JustDied", "d9/ddf/a17346.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
+    [ "UpdateAI", "d9/ddf/a17346.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
+    [ "numOfUpd", "d9/ddf/a17346.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
 ];

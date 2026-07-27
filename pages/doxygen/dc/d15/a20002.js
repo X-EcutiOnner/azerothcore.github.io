@@ -1,7 +1,12 @@
 var a20002 =
 [
-    [ "npc_storm_beacon_spawn", "dc/d15/a20002.html#a999b6421a0ef6eec2987716a60352a5e", null ],
-    [ "UpdateAI", "dc/d15/a20002.html#a93dbd7a26d6333f18329142280cc743d", null ],
-    [ "_amount", "dc/d15/a20002.html#acb5d1f2b6590da32f36882339729c4e9", null ],
-    [ "_checkTimer", "dc/d15/a20002.html#a9717b52f26045707fd852b955d29a5e6", null ]
+    [ "boss_krystallusAI", "dc/d15/a20002.html#adfa2ab8498279937bf497292d6e7cba5", null ],
+    [ "JustDied", "dc/d15/a20002.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
+    [ "JustEngagedWith", "dc/d15/a20002.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
+    [ "KilledUnit", "dc/d15/a20002.html#acf9101c5b776820039fd80e5d6e0c138", null ],
+    [ "RemoveStonedEffect", "dc/d15/a20002.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
+    [ "Reset", "dc/d15/a20002.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
+    [ "UpdateAI", "dc/d15/a20002.html#a79095e25f1d9dac927f63cef67db60ec", null ],
+    [ "events", "dc/d15/a20002.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
+    [ "pInstance", "dc/d15/a20002.html#aec9cf7053476298f72dccf3bd1579c63", null ]
 ];

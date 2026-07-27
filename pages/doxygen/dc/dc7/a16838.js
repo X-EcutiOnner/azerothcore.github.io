@@ -1,9 +1,6 @@
 var a16838 =
 [
-    [ "npc_fel_infernalAI", "dc/dc7/a16838.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
-    [ "EnterEvadeMode", "dc/dc7/a16838.html#aedec8729b9be931a74fe00d1aa649848", null ],
-    [ "JustDied", "dc/dc7/a16838.html#a599786069f98231eeb7f9ca809f8e671", null ],
-    [ "Reset", "dc/dc7/a16838.html#a09f408c9250467228b91ef9f6c9544f4", null ],
-    [ "UpdateAI", "dc/dc7/a16838.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
-    [ "events", "dc/dc7/a16838.html#acf955037c246f7b5f12cc5338b300b63", null ]
+    [ "boss_anubarak_trialAI", "d0/dd4/a16842.html", "d0/dd4/a16842" ],
+    [ "boss_anubarak_trial", "dc/dc7/a16838.html#a5204e33a412608b53cc155a043356d58", null ],
+    [ "GetAI", "dc/dc7/a16838.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
 ];

@@ -1,6 +1,6 @@
 var a23802 =
 [
-    [ "npc_mature_netherwing_drakeAI", "de/d93/a23806.html", "de/d93/a23806" ],
-    [ "npc_mature_netherwing_drake", "d8/d76/a23802.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "d8/d76/a23802.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "HandlePeriodic", "d8/d76/a23802.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "d8/d76/a23802.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "d8/d76/a23802.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

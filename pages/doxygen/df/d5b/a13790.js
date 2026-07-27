@@ -1,6 +1,6 @@
 var a13790 =
 [
-    [ "ChangeSummonPos", "df/d5b/a13790.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "df/d5b/a13790.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "df/d5b/a13790.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "CastArmageddon", "df/d5b/a13790.html#a2e90929b63e6151252aa01a55dbd801f", null ],
+    [ "Execute", "df/d5b/a13790.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
+    [ "_caster", "df/d5b/a13790.html#a1e70887099a7a47b7c26517d4363ad93", null ]
 ];

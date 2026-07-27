@@ -1,8 +1,13 @@
 var a09186 =
 [
-    [ "V8Type", "df/d6c/a09186.html#ad1b1f07eef9dda43d6ba20d37087e1df", null ],
-    [ "V9Type", "df/d6c/a09186.html#ac514014328ca676e610cef54710d2430", null ],
-    [ "gridIntHeightMultiplier", "df/d6c/a09186.html#a6255362ae498172495394e1f0fad44ca", null ],
-    [ "v8", "df/d6c/a09186.html#a3201a1f3e7307af860396ca26a78dbf9", null ],
-    [ "v9", "df/d6c/a09186.html#ad31af604d44f964e9c502f36b6717c77", null ]
+    [ "BuildValuesCachePosPointers", "df/d6c/a09186.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
+    [ "ApplyOffset", "df/d6c/a09186.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
+    [ "other", "df/d6c/a09186.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
+    [ "UnitDynamicFlagsPos", "df/d6c/a09186.html#a230385a8646ebce01faaadce648b1a61", null ],
+    [ "UnitFieldAuraStatePos", "df/d6c/a09186.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
+    [ "UnitFieldBytes2Pos", "df/d6c/a09186.html#aa1df8492f0a3c576b067469ee3552796", null ],
+    [ "UnitFieldDisplayPos", "df/d6c/a09186.html#a1058d1650d656498f7dcd5139363a315", null ],
+    [ "UnitFieldFactionTemplatePos", "df/d6c/a09186.html#a9b8eae9da685231956dca3e92b845cbb", null ],
+    [ "UnitFieldFlagsPos", "df/d6c/a09186.html#a04e607123d1d1dde24611b573d25fedb", null ],
+    [ "UnitNPCFlagsPos", "df/d6c/a09186.html#aa9412413e1a867d1f3857d18f4d52906", null ]
 ];

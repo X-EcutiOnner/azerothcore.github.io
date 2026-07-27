@@ -1,7 +1,10 @@
 var a15234 =
 [
-    [ "npc_onyxian_lair_guard", "dc/d98/a15234.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
-    [ "JustEngagedWith", "dc/d98/a15234.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
-    [ "UpdateAI", "dc/d98/a15234.html#ac8649636d5847813e49d2ada05f78645", null ],
-    [ "events", "dc/d98/a15234.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
+    [ "npc_hyjal_frost_wyrm", "dc/d98/a15234.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "dc/d98/a15234.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "dc/d98/a15234.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "dc/d98/a15234.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "dc/d98/a15234.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "dc/d98/a15234.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "dc/d98/a15234.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

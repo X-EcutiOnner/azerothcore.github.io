@@ -1,8 +1,8 @@
 var a27638 =
 [
-    [ "CharacterActionIpLogger", "de/d7c/a27638.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "de/d7c/a27638.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "de/d7c/a27638.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "de/d7c/a27638.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "de/d7c/a27638.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "CheckProc", "de/d7c/a27638.html#aa78fae71c932b791104d7d2e6f4fb489", null ],
+    [ "HandleProc", "de/d7c/a27638.html#a6fc689cee1b24bbd227beafd774c7fa0", null ],
+    [ "PrepareAuraScript", "de/d7c/a27638.html#a32cfe704365230d40b02567c8a365e89", null ],
+    [ "Register", "de/d7c/a27638.html#a252f09e27d1a9f17d1a6bb2ceb76cb68", null ],
+    [ "Validate", "de/d7c/a27638.html#a74420515d0f05ae1414db1059effb3c0", null ]
 ];

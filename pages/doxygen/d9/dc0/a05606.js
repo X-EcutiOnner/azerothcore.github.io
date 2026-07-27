@@ -1,5 +1,5 @@
 var a05606 =
 [
-    [ "Decode", "d9/dc0/a05606.html#a9c18a834b227a8f60104100bd5c47df5", null ],
-    [ "Encode", "d9/dc0/a05606.html#a2b0f76655d4e56d8a7aa9a98de87f6cf", null ]
+    [ "_elements", "d9/dc0/a05606.html#acf30d76638f2906421de881ced591fbd", null ],
+    [ "_TailElements", "d9/dc0/a05606.html#afbb7352f16ec774a372d2cbf699e3e0e", null ]
 ];

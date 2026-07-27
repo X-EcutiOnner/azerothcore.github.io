@@ -1,5 +1,7 @@
 var a14378 =
 [
-    [ "npc_brain_wash_totem", "d1/de9/a14378.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
-    [ "EnterEvadeMode", "d1/de9/a14378.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
+    [ "spell", "d1/de9/a14378.html#a55423d09b2f1775dc386a36168ad764d", null ],
+    [ "spiritEntry", "d1/de9/a14378.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
+    [ "text", "d1/de9/a14378.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
+    [ "unaura", "d1/de9/a14378.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
 ];

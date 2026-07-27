@@ -1,8 +1,8 @@
 var a22286 =
 [
-    [ "npc_anzu_spirit", "d3/d19/a22286.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
-    [ "IsSummonedBy", "d3/d19/a22286.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
-    [ "Reset", "d3/d19/a22286.html#acef3f7093f93b6c227d145523cdc487a", null ],
-    [ "UpdateAI", "d3/d19/a22286.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
-    [ "_scheduler", "d3/d19/a22286.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
+    [ "npc_hyldsmeet_protodrake", "d3/d19/a22286.html#a409a5f5eace583ef874421819c975ed8", null ],
+    [ "PassengerBoarded", "d3/d19/a22286.html#a0067d3b394c967946e329ea25c2dc315", null ],
+    [ "UpdateAI", "d3/d19/a22286.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
+    [ "_accessoryInstalled", "d3/d19/a22286.html#af9a5984f66eb3a1a26e8c1640bcf7597", null ],
+    [ "_accessoryRespawnTimer", "d3/d19/a22286.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
 ];

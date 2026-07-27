@@ -1,14 +1,10 @@
 var a07838 =
 [
-    [ "FilteredCommandListIterator", "d5/dc1/a07838.html#abd6dc5c1e3c56eb27856eddb46d5e6a6", null ],
-    [ "_skip", "d5/dc1/a07838.html#ac2f0e09b76eb9d40d1b78279a81a5e65", null ],
-    [ "operator bool", "d5/dc1/a07838.html#aaeb128830c7705a455343d173dc3ae5a", null ],
-    [ "operator!", "d5/dc1/a07838.html#a864e81c56946ca97bf24b392ff8f0b8f", null ],
-    [ "operator*", "d5/dc1/a07838.html#a7b1008103a94f6dc068d3e839c924ea6", null ],
-    [ "operator++", "d5/dc1/a07838.html#a6d4a54adde98e638428a8d314a6e4356", null ],
-    [ "operator->", "d5/dc1/a07838.html#ad83cb2c649a847d0cd04b5fd8ee8494c", null ],
-    [ "_end", "d5/dc1/a07838.html#a294c3b743ac4b1a1b878d02a6580d3ca", null ],
-    [ "_handler", "d5/dc1/a07838.html#a0c64270cd18f8988997882ceb3e10184", null ],
-    [ "_it", "d5/dc1/a07838.html#abbf6ac9d50ba494221addff9aba11b80", null ],
-    [ "_token", "d5/dc1/a07838.html#acb834f907b55195f2a27d69f89d84961", null ]
+    [ "BattlegroundRL", "d5/dc1/a07838.html#ae2e0ccf2badc174b7f5c909f805fe669", null ],
+    [ "FillInitialWorldStates", "d5/dc1/a07838.html#a410a5dbfa6fccbe802058d60eb7393d9", null ],
+    [ "HandleAreaTrigger", "d5/dc1/a07838.html#ad1184e3e2f09a6665d40a75006e6f863", null ],
+    [ "HandlePlayerUnderMap", "d5/dc1/a07838.html#a2d03a49dee964bcaa3421a93d0735e63", null ],
+    [ "SetupBattleground", "d5/dc1/a07838.html#a3393353028ffd35eaad1d5e121654366", null ],
+    [ "StartingEventCloseDoors", "d5/dc1/a07838.html#aae633887d9689898c8b73efa8257eb34", null ],
+    [ "StartingEventOpenDoors", "d5/dc1/a07838.html#adb2ec6770c2b25b94f8f7dff7486d5cf", null ]
 ];

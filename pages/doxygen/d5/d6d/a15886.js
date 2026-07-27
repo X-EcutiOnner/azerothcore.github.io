@@ -1,6 +1,7 @@
 var a15886 =
 [
-    [ "npc_anachronos_quest_triggerAI", "d8/dad/a15890.html", "d8/dad/a15890" ],
-    [ "npc_anachronos_quest_trigger", "d5/d6d/a15886.html#ad39871952acd3152b51820fe360f4ebd", null ],
-    [ "GetAI", "d5/d6d/a15886.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
+    [ "npc_prophet_velen", "d5/d6d/a15886.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
+    [ "JustDied", "d5/d6d/a15886.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
+    [ "Reset", "d5/d6d/a15886.html#a5beec39fd545129d0f124bb19524f95c", null ],
+    [ "UpdateAI", "d5/d6d/a15886.html#a2d016ecfedc5c7e886e7412081b54792", null ]
 ];

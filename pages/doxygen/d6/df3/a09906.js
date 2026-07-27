@@ -1,7 +1,7 @@
 var a09906 =
 [
-    [ "AddonHandler", "d6/df3/a09906.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
-    [ "~AddonHandler", "d6/df3/a09906.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
-    [ "BuildAddonPacket", "d6/df3/a09906.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
-    [ "instance", "d6/df3/a09906.html#a2925b829b803dd07e96685086357ef85", null ]
+    [ "RaidCheck", "d6/df3/a09906.html#ad8c3717b9a645c7806c8c027a8d90ef5", null ],
+    [ "operator()", "d6/df3/a09906.html#a0c076b737e8e1eacb9aab0981ff66f51", null ],
+    [ "_compare", "d6/df3/a09906.html#a5fffdd5901fb03c5e9a9adfb58e3d759", null ],
+    [ "_equals", "d6/df3/a09906.html#a7d253c94403bd50012722a9a9b113c3a", null ]
 ];

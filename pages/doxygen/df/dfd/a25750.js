@@ -1,6 +1,7 @@
 var a25750 =
 [
-    [ "CheckCast", "df/dfd/a25750.html#a5e32bb12dd6a4feedf88b73e18dc57cc", null ],
-    [ "PrepareSpellScript", "df/dfd/a25750.html#ae6b0bc8d2a443b805b44f49d79ccc949", null ],
-    [ "Register", "df/dfd/a25750.html#a2ef6ded94a244c51ed71315b39e85636", null ]
+    [ "HandleProc", "df/dfd/a25750.html#a675a17a574539f2da85a5401afc18fec", null ],
+    [ "PrepareAuraScript", "df/dfd/a25750.html#a9e5ea1da302356a41b4eff338956ab93", null ],
+    [ "Register", "df/dfd/a25750.html#a2bade504b1ab2c2869ecaf8873864d19", null ],
+    [ "Validate", "df/dfd/a25750.html#aec327c219229ae9d59cb491eef2d95d3", null ]
 ];

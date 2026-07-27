@@ -1,6 +1,6 @@
 var a18090 =
 [
-    [ "npc_gas_cloudAI", "d5/dba/a18094.html", "d5/dba/a18094" ],
-    [ "npc_gas_cloud", "d4/d3a/a18090.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
-    [ "GetAI", "d4/d3a/a18090.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
+    [ "PrepareSpellScript", "d4/d3a/a18090.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
+    [ "Register", "d4/d3a/a18090.html#a651f52f7d242251ff69d100fd69376e4", null ],
+    [ "SelectTarget", "d4/d3a/a18090.html#aede083ebebe38deb5898ff028564ef95", null ]
 ];

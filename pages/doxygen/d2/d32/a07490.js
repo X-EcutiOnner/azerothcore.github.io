@@ -1,8 +1,16 @@
 var a07490 =
 [
-    [ "WintergraspCapturePoint", "d2/d32/a07490.html#a36090feb3626e204e0029ea45f1d8136", null ],
-    [ "ChangeTeam", "d2/d32/a07490.html#a66564dd3237538b256ebeb76d236001f", null ],
-    [ "GetTeam", "d2/d32/a07490.html#a7ff4106591a5aac1ea8820016b8164bb", null ],
-    [ "LinkToWorkshop", "d2/d32/a07490.html#a32d378eba7f0eea0f011b8ea8c7e6eee", null ],
-    [ "LinkedWorkshop", "d2/d32/a07490.html#a06d98983a020f1f571812cf7ff0f907a", null ]
+    [ "BuildAuctionInfo", "d2/d32/a07490.html#ae220020b8cbb4e751bfa5798ea95d594", null ],
+    [ "CompareAuctionEntry", "d2/d32/a07490.html#a7daa9aa634bf2b589ef1906dfc0704d0", null ],
+    [ "SetItemNames", "d2/d32/a07490.html#a7d56d87bcd100bcb470bc7710c59bf9e", null ],
+    [ "bid", "d2/d32/a07490.html#a0b2c836d635d9a170b2d70b763c4907b", null ],
+    [ "bidderGuid", "d2/d32/a07490.html#ada14d168bde5da2b39c93a240941a80a", null ],
+    [ "buyout", "d2/d32/a07490.html#a978fea69d5c823f71e681903a432ec51", null ],
+    [ "expire_time", "d2/d32/a07490.html#aa3556fd353c58fda259c7dec52bb3b90", null ],
+    [ "Id", "d2/d32/a07490.html#aa52368fdef3baed1aed4af459f764b8b", null ],
+    [ "item", "d2/d32/a07490.html#a05df9a39681c0014a1c398b9bca1cbfe", null ],
+    [ "listFaction", "d2/d32/a07490.html#a988bdc1b8ae87c3797b24534e853213f", null ],
+    [ "ownerGuid", "d2/d32/a07490.html#a75e8c535be797d015ed970d896a56c29", null ],
+    [ "ownerName", "d2/d32/a07490.html#aaca6e4de9cfbc62eb1815c2cf79be123", null ],
+    [ "startbid", "d2/d32/a07490.html#ae3459d9794539591ae3727bdd6de3e2b", null ]
 ];

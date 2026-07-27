@@ -1,5 +1,5 @@
 var a28318 =
 [
-    [ "npc_sunwell_gate", "d6/df1/a28318.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
-    [ "OnQuestReward", "d6/df1/a28318.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
+    [ "go_massive_seaforium_charge", "d6/df1/a28318.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "d6/df1/a28318.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

@@ -1,7 +1,7 @@
 var a14038 =
 [
-    [ "o", "df/dfe/a14038.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
-    [ "x", "df/dfe/a14038.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
-    [ "y", "df/dfe/a14038.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
-    [ "z", "df/dfe/a14038.html#abf42d988d416ebe409100c4b860d26db", null ]
+    [ "npc_king_magni_bronzebeard", "df/dfe/a14038.html#af100ccf11c9d266be439318519280a9a", null ],
+    [ "JustDied", "df/dfe/a14038.html#a3323285cc5c4cee9df001e83584b8114", null ],
+    [ "JustEngagedWith", "df/dfe/a14038.html#a8c92169605d30c82f4699ff2b29101a6", null ],
+    [ "UpdateAI", "df/dfe/a14038.html#ad23891becf07d991c5ffc4f89719fa04", null ]
 ];

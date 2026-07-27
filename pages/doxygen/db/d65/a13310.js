@@ -1,12 +1,11 @@
 var a13310 =
 [
-    [ "npc_koltira_deathweaverAI", "db/d65/a13310.html#adbc46fce90170aec986faacf012bd2b2", null ],
-    [ "MovementInform", "db/d65/a13310.html#afed53c190d875d0e59775ebfeb749fcf", null ],
-    [ "Reset", "db/d65/a13310.html#ac07053d3798d57449c23bfff68e12f1b", null ],
-    [ "sGossipSelect", "db/d65/a13310.html#af481beffaeb97a69483a62fd5f110616", null ],
-    [ "sQuestAccept", "db/d65/a13310.html#a83fa04558bc7617b561ec05da9f2a6a1", null ],
-    [ "StartEvent", "db/d65/a13310.html#aa4f0df71fb88f6685f2c27f19a34b2b3", null ],
-    [ "SummonedCreatureDies", "db/d65/a13310.html#a967575fafe29db364b4e6a00a5e0457b", null ],
-    [ "UpdateAI", "db/d65/a13310.html#ac90ed956ba45b6363a21af76393126ac", null ],
-    [ "_valrothGUID", "db/d65/a13310.html#ad041942412fb8288ff5f850ee6472e78", null ]
+    [ "npc_kilrek", "db/d65/a13310.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
+    [ "JustDied", "db/d65/a13310.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
+    [ "JustEngagedWith", "db/d65/a13310.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
+    [ "Reset", "db/d65/a13310.html#ae0b375abe5ec909cfaff96c257da0325", null ],
+    [ "UpdateAI", "db/d65/a13310.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
+    [ "_scheduler", "db/d65/a13310.html#a93663ee806385f617e81a03062dd94d6", null ],
+    [ "instance", "db/d65/a13310.html#a13b969fa86ef57f9508117a73252a36b", null ],
+    [ "TerestianGUID", "db/d65/a13310.html#a411476da379bf687cd007e25ba11280e", null ]
 ];

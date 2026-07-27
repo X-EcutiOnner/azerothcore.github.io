@@ -1,25 +1,11 @@
 var a04580 =
 [
-    [ "ABORT", "dd/db6/a04580.html#a5376571bbf4cdc9782683635f366f89a", null ],
-    [ "ASSERT", "dd/db6/a04580.html#af343b20373ba49a92fce523e948f2ab3", null ],
-    [ "ASSERT_NODEBUGINFO", "dd/db6/a04580.html#ae4aa5b88f8a0cd841e02343e63098f7a", null ],
-    [ "ASSERT_NOTNULL", "dd/db6/a04580.html#aee2b3b5656453513bc51a5979b247a67", null ],
-    [ "EXCEPTION_ASSERTION_FAILURE", "dd/db6/a04580.html#adb1e581c0b1db74338cf2892218ff23f", null ],
-    [ "WPAbort", "dd/db6/a04580.html#aab8761bc4b218ac84ad259cc6e0c1589", null ],
-    [ "WPAssert", "dd/db6/a04580.html#a6b3632c6657f3d1633b9a9707d9ede62", null ],
-    [ "WPAssert_NODEBUGINFO", "dd/db6/a04580.html#ab0566f9653ccc9fc0e174bda17fc5277", null ],
-    [ "WPError", "dd/db6/a04580.html#a7d9ea9088aab1556ba6739861998001a", null ],
-    [ "WPFatal", "dd/db6/a04580.html#a47d51826ca35c49a890b7bc2ad6818ea", null ],
-    [ "WPWarning", "dd/db6/a04580.html#afbbc90bf1881f7811a1022e7af350b47", null ],
-    [ "Abort", "dd/db6/a04580.html#a257b055b35d21943eb2a144cccd26429", null ],
-    [ "Abort", "dd/db6/a04580.html#af8c8ba5d8126e10ea9f5d86e8a9e742b", null ],
-    [ "AbortHandler", "dd/db6/a04580.html#ad49ea597ac6ffd8eb9ae06bab8c38b43", null ],
-    [ "Assert", "dd/db6/a04580.html#aaacb53f863e011c7d879e93567268109", null ],
-    [ "Assert", "dd/db6/a04580.html#a1990519ae97867f1a629699d00874fb2", null ],
-    [ "ASSERT_NOTNULL_IMPL", "dd/db6/a04580.html#aa8e391e13264a7b2f29f66832263afcf", null ],
-    [ "Error", "dd/db6/a04580.html#af222a0bd205c0bcecd8a7b6554137e33", null ],
-    [ "Fatal", "dd/db6/a04580.html#a07aa40e12479c740872d1ad7f55acbbc", null ],
-    [ "Fatal", "dd/db6/a04580.html#af4a5b364827068eb978fa1a1fff5770f", null ],
-    [ "GetDebugInfo", "dd/db6/a04580.html#a4dc49effc31d570798463c106549b1cb", null ],
-    [ "Warning", "dd/db6/a04580.html#ab1b23d9277c7dd8d381753ec943ad1bc", null ]
+    [ "instance_hyjal", "d3/d76/a15238.html", "d3/d76/a15238" ],
+    [ "instance_hyjal::instance_mount_hyjal_InstanceMapScript", "da/d64/a15242.html", "da/d64/a15242" ],
+    [ "AddSC_instance_mount_hyjal", "dd/db6/a04580.html#a5c7a0ad3a2ae9f82eb9c45fbf90d5b41", null ],
+    [ "creatureData", "dd/db6/a04580.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "dd/db6/a04580.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "hyjalNightElfWaveTimers", "dd/db6/a04580.html#ade7b4d2fdf8cd15fa4985554885eb881", null ],
+    [ "hyjalRetreatTimers", "dd/db6/a04580.html#a254787ab3a62d90e906ded9ef63aa229", null ],
+    [ "hyjalWaveTimers", "dd/db6/a04580.html#aaad50890c4534c5b5c848a9b85f3d8fe", null ]
 ];

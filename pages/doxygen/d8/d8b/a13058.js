@@ -1,6 +1,7 @@
 var a13058 =
 [
-    [ "HandleHit", "d8/d8b/a13058.html#ae6dbaebdc4b0248215416e8d4550d2cb", null ],
-    [ "PrepareSpellScript", "d8/d8b/a13058.html#ae08237f9eb95cc8a4b53a7de50af7b91", null ],
-    [ "Register", "d8/d8b/a13058.html#a84853f416eb8250dc3d863dbe22a157f", null ]
+    [ "HandleDummy", "d8/d8b/a13058.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
+    [ "PrepareSpellScript", "d8/d8b/a13058.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
+    [ "Register", "d8/d8b/a13058.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
+    [ "Validate", "d8/d8b/a13058.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
 ];

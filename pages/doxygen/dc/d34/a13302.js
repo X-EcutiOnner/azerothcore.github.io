@@ -1,8 +1,6 @@
 var a13302 =
 [
-    [ "HandleDummy", "dc/d34/a13302.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "dc/d34/a13302.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "dc/d34/a13302.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "dc/d34/a13302.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "dc/d34/a13302.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "go_blood_drenched_doorAI", "d2/df9/a13306.html", "d2/df9/a13306" ],
+    [ "go_blood_drenched_door", "dc/d34/a13302.html#a32451e046236bc66b605088cab35fefc", null ],
+    [ "GetAI", "dc/d34/a13302.html#a983405ff279eabe0bc607fb85bd47eb9", null ]
 ];

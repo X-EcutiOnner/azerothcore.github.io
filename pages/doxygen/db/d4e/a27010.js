@@ -1,8 +1,7 @@
 var a27010 =
 [
-    [ "CheckProc", "db/d4e/a27010.html#a2e564758a050827108955f73a08e72e7", null ],
-    [ "PrepareAuraScript", "db/d4e/a27010.html#a5993871d8837b43580818fa94e1bccc2", null ],
-    [ "Register", "db/d4e/a27010.html#a24faa9992523bc87df7f5ebccfb42233", null ],
-    [ "WasUsedByMutilate", "db/d4e/a27010.html#af31c8d77307f3cf3acee06e0b159925e", null ],
-    [ "_usedByMutilate", "db/d4e/a27010.html#a3f5cde7b3af5c3a6b75d76b742cae54b", null ]
+    [ "HandleEffectRemove", "db/d4e/a27010.html#a814687d3938e966f8721438e1a722f77", null ],
+    [ "PrepareAuraScript", "db/d4e/a27010.html#a2144b0602501471a4001883ce9de6db3", null ],
+    [ "Register", "db/d4e/a27010.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
+    [ "AuraEffectHandleModes", "db/d4e/a27010.html#ab291f6c6f269ec7004df39a043f49efd", null ]
 ];

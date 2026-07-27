@@ -1,6 +1,9 @@
 var a13010 =
 [
-    [ "FilterTargets", "d8/d58/a13010.html#adae7a812a222a60f9c89cac4ea327011", null ],
-    [ "PrepareSpellScript", "d8/d58/a13010.html#a9576a48a3aa761c103f72586cd93970c", null ],
-    [ "Register", "d8/d58/a13010.html#aaadad68c322eac268ea7a45f9c369c59", null ]
+    [ "boss_baron_geddon", "d8/d58/a13010.html#a1e7cf41aff13c376dafa35a992c378d8", null ],
+    [ "DamageTaken", "d8/d58/a13010.html#a2a5a0ca6e40ac736171a8b80b0e66dad", null ],
+    [ "ExecuteEvent", "d8/d58/a13010.html#af81a1ef4345e55f3d537baeb0e9528f4", null ],
+    [ "JustEngagedWith", "d8/d58/a13010.html#ad0e720b1ea3e92fabeea8b78a6416f3f", null ],
+    [ "Reset", "d8/d58/a13010.html#aee0a2c6587a7f743491f3a3e31ed6527", null ],
+    [ "armageddonCasted", "d8/d58/a13010.html#a4ea01568770a91e6734d45e3730c62cc", null ]
 ];

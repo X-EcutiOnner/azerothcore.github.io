@@ -1,10 +1,8 @@
 var a14450 =
 [
-    [ "npc_zealot_lorkhan", "d0/df2/a14450.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
-    [ "JustDied", "d0/df2/a14450.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
-    [ "JustEngagedWith", "d0/df2/a14450.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
-    [ "Reset", "d0/df2/a14450.html#abecbd4a2ea2cf3281244933fe7484239", null ],
-    [ "UpdateAI", "d0/df2/a14450.html#a68c35734f8886b2c241dcbc178899206", null ],
-    [ "_scheduler", "d0/df2/a14450.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
-    [ "instance", "d0/df2/a14450.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
+    [ "HandleScriptEffect", "d0/df2/a14450.html#af7f22d3b7ba136ec2af88656b9805168", null ],
+    [ "PrepareSpellScript", "d0/df2/a14450.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
+    [ "Register", "d0/df2/a14450.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
+    [ "Validate", "d0/df2/a14450.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
+    [ "spells", "d0/df2/a14450.html#a902fc17746af82a4c58fe599c9616ce2", null ]
 ];

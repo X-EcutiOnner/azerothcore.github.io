@@ -1,9 +1,5 @@
 var a14514 =
 [
-    [ "HandleEffectPeriodic", "df/d96/a14514.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
-    [ "HandleEffectRemove", "df/d96/a14514.html#a96ed7366e568b70e82d622586740aa56", null ],
-    [ "Load", "df/d96/a14514.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
-    [ "PrepareAuraScript", "df/d96/a14514.html#abd1f851112a50b79e815cdd894275bab", null ],
-    [ "Register", "df/d96/a14514.html#aa3cd85aed063017c4737e7660fa81f37", null ],
-    [ "questTick", "df/d96/a14514.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
+    [ "at_zulgurub_temple_speech", "df/d96/a14514.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
+    [ "_OnTrigger", "df/d96/a14514.html#a6176a8a2391baf320186868a2e8671ac", null ]
 ];

@@ -1,8 +1,6 @@
 var a16414 =
 [
-    [ "OnApply", "d0/d5d/a16414.html#a96321003a002be0e4838901f03f8a5d8", null ],
-    [ "OnRemove", "d0/d5d/a16414.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
-    [ "PrepareAuraScript", "d0/d5d/a16414.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
-    [ "Register", "d0/d5d/a16414.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
-    [ "Validate", "d0/d5d/a16414.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
+    [ "npc_anub_ar_crusher_champion", "d0/d5d/a16414.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
+    [ "DoEngagedWith", "d0/d5d/a16414.html#a2dcef4fe57880ba725dff52455a7a428", null ],
+    [ "DoEvent", "d0/d5d/a16414.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
 ];

@@ -1,15 +1,9 @@
 var a15194 =
 [
-    [ "npc_time_rift", "dc/dbb/a15194.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
-    [ "DoSelectSummon", "dc/dbb/a15194.html#af2932c60efaea64d27d52b118b9a8095", null ],
-    [ "DoSummonAtRift", "dc/dbb/a15194.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
-    [ "JustSummoned", "dc/dbb/a15194.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
-    [ "Reset", "dc/dbb/a15194.html#ad08ca716f120a45ee1688e03d2049aba", null ],
-    [ "SummonedCreatureDies", "dc/dbb/a15194.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
-    [ "UpdateAI", "dc/dbb/a15194.html#ab5924378c7978c6fae95f9861040c63d", null ],
-    [ "_events", "dc/dbb/a15194.html#a12ffd459f8d63f299269da5b65f60128", null ],
-    [ "_instance", "dc/dbb/a15194.html#a8eab9c3011c885321d59e2884318d0e8", null ],
-    [ "_riftKeeperGUID", "dc/dbb/a15194.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
-    [ "waveMobIndex", "dc/dbb/a15194.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
-    [ "waveMobs", "dc/dbb/a15194.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
+    [ "boss_rage_winterchill", "dc/dbb/a15194.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "dc/dbb/a15194.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "dc/dbb/a15194.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "dc/dbb/a15194.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "dc/dbb/a15194.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "dc/dbb/a15194.html#aec47befdf3246710a5158780fa797fa7", null ]
 ];

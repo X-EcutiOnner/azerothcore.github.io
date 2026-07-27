@@ -1,6 +1,7 @@
 var a20902 =
 [
-    [ "npc_frenzied_worgenAI", "de/d3c/a20906.html", "de/d3c/a20906" ],
-    [ "npc_frenzied_worgen", "d8/d2f/a20902.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "d8/d2f/a20902.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "OnRemove", "d8/d2f/a20902.html#ae99b372d0894e0c7aafc44f2a3cfac4f", null ],
+    [ "PrepareAuraScript", "d8/d2f/a20902.html#ae99f88a63656d0b48ca4b85548cc736b", null ],
+    [ "Register", "d8/d2f/a20902.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "Validate", "d8/d2f/a20902.html#a3d351d7e9ac022ea1bd912843fe66891", null ]
 ];

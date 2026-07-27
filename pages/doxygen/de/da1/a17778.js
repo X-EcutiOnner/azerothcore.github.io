@@ -1,14 +1,6 @@
 var a17778 =
 [
-    [ "npc_gunshipAI", "de/da1/a17778.html#a75444497ffd6b7365827eea57fd946f9", null ],
-    [ "DamageTaken", "de/da1/a17778.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
-    [ "GetData", "de/da1/a17778.html#a0142bec2427c1256431e55d3f74b8948", null ],
-    [ "JustDied", "de/da1/a17778.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
-    [ "SetGUID", "de/da1/a17778.html#a7f336843c54de072cf58bc87ff08b068", null ],
-    [ "UpdateAI", "de/da1/a17778.html#a8bab1a755c2262e9f36f295781d30909", null ],
-    [ "_died", "de/da1/a17778.html#af4480427460748bccae214737469ddb7", null ],
-    [ "_instance", "de/da1/a17778.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
-    [ "_shipVisits", "de/da1/a17778.html#a6f9730b746e195a99dc11357fd0387ba", null ],
-    [ "_summonedFirstMage", "de/da1/a17778.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
-    [ "_teamIdInInstance", "de/da1/a17778.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
+    [ "KnockIntoAir", "de/da1/a17778.html#a1f9fb1f258613ca6657abba26969961f", null ],
+    [ "PrepareSpellScript", "de/da1/a17778.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
+    [ "Register", "de/da1/a17778.html#a35a7758630c1769228fedff84ad929e8", null ]
 ];

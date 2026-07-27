@@ -1,8 +1,5 @@
 var a29026 =
 [
-    [ "TimeSeg", "d5/d85/a29026.html#ab94639ba8e26b215ebd31163967574d3", null ],
-    [ "TransportEntry", "d5/d85/a29026.html#a859d25b3c11839ad7e37facd40dc79df", null ],
-    [ "X", "d5/d85/a29026.html#a8fbd166503396e33a4ad77448bf307ea", null ],
-    [ "Y", "d5/d85/a29026.html#a67c279b26cebd8e5c81c36576b145af6", null ],
-    [ "Z", "d5/d85/a29026.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
+    [ "ID", "d5/d85/a29026.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "d5/d85/a29026.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

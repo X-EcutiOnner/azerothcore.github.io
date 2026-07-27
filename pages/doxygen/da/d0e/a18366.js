@@ -1,5 +1,6 @@
 var a18366 =
 [
-    [ "at_sindragosa_lair", "da/d0e/a18366.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
-    [ "OnTrigger", "da/d0e/a18366.html#a07074bff20272042ed05be83dd818ee9", null ]
+    [ "FilterTargetsInitial", "da/d0e/a18366.html#a92cc71f268793c616bed66d9a489a145", null ],
+    [ "PrepareSpellScript", "da/d0e/a18366.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
+    [ "Register", "da/d0e/a18366.html#a91b96940a9e72e632989b49f7e475dba", null ]
 ];

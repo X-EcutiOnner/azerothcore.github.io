@@ -1,6 +1,7 @@
 var a23342 =
 [
-    [ "npc_warden_mellicharAI", "d0/d43/a23346.html", "d0/d43/a23346" ],
-    [ "npc_warden_mellichar", "d9/d28/a23342.html#aba5c3d005097430941bd40bbbb0d3562", null ],
-    [ "GetAI", "d9/d28/a23342.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
+    [ "HandleProc", "d9/d28/a23342.html#a03b2be5894d489a6021aff2744aee0e0", null ],
+    [ "PrepareAuraScript", "d9/d28/a23342.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
+    [ "Register", "d9/d28/a23342.html#a804e1bc3d570d28cb2e06155054f3169", null ],
+    [ "Validate", "d9/d28/a23342.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
 ];

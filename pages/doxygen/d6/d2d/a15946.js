@@ -1,6 +1,8 @@
 var a15946 =
 [
-    [ "npc_tyrande_whisperwind", "d6/d2d/a15946.html#af716e954e59221d26ee88032e895fa18", null ],
-    [ "JustDied", "d6/d2d/a15946.html#a707f6167de4eafc6d81613d0edc29436", null ],
-    [ "UpdateAI", "d6/d2d/a15946.html#a598bd2dec22715413dcbd7ed6ca3be3c", null ]
+    [ "npc_aged_dying_ancient_kodo", "d6/d2d/a15946.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
+    [ "JustRespawned", "d6/d2d/a15946.html#ab401f9002bd49b26cc0526112e715d1e", null ],
+    [ "MoveInLineOfSight", "d6/d2d/a15946.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
+    [ "sGossipHello", "d6/d2d/a15946.html#a8bd41050426cdee7da37d1370e5a7363", null ],
+    [ "SpellHit", "d6/d2d/a15946.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
 ];

@@ -1,6 +1,8 @@
 var a13818 =
 [
-    [ "OnApply", "da/da7/a13818.html#a53fceaa5187f6dbc93f4d0d589086ca9", null ],
-    [ "PrepareAuraScript", "da/da7/a13818.html#a236892b4fd6cf081a907becab6187069", null ],
-    [ "Register", "da/da7/a13818.html#aa37819b82692df8a21cbbda8833ad492", null ]
+    [ "FilterTargets", "da/da7/a13818.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
+    [ "HandleScriptEffect", "da/da7/a13818.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
+    [ "PrepareSpellScript", "da/da7/a13818.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
+    [ "Register", "da/da7/a13818.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
+    [ "Validate", "da/da7/a13818.html#a5493864b068de82015bc157f3d0899b3", null ]
 ];

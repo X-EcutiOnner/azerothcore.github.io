@@ -1,9 +1,7 @@
 var a17910 =
 [
-    [ "CalculatePower", "d5/d25/a17910.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
-    [ "Load", "d5/d25/a17910.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
-    [ "PrepareSpellScript", "d5/d25/a17910.html#a49489a8e4e39735efa560f53236dfc2c", null ],
-    [ "PreventPowerGainOnHit", "d5/d25/a17910.html#a5eebe6f82a6d7306d6e232b755531939", null ],
-    [ "Register", "d5/d25/a17910.html#a67b59c096848adaad5566cbc2140da59", null ],
-    [ "Validate", "d5/d25/a17910.html#a355500a6f3bfed084030738041d0e3b9", null ]
+    [ "npc_icc_blood_beastAI", "d5/d25/a17910.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "d5/d25/a17910.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "d5/d25/a17910.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "d5/d25/a17910.html#a1074059162f818088808795119f081be", null ]
 ];

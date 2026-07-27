@@ -1,8 +1,9 @@
 var a26934 =
 [
-    [ "HandleDummy", "d1/dca/a26934.html#ab653cf0414411c17ccc674395b08af7a", null ],
-    [ "Load", "d1/dca/a26934.html#a6eb80b68a00c91d92a2963adb753ed23", null ],
-    [ "PrepareSpellScript", "d1/dca/a26934.html#ae6c5ba4ed1918125594b31368c3bcf2f", null ],
-    [ "Register", "d1/dca/a26934.html#a92eb201b3ae3ab167cc338174a355b00", null ],
-    [ "Validate", "d1/dca/a26934.html#a3635089640297e059a183322c7e8f7b9", null ]
+    [ "CheckProcDummy", "d1/dca/a26934.html#ae4e6d0683039ca5e8ff1877248048b3b", null ],
+    [ "CheckProcTriggerSpell", "d1/dca/a26934.html#affbff48ab9421bda51b3a5781188546d", null ],
+    [ "HandleProcDummy", "d1/dca/a26934.html#a0113a45bd4c28d1769df7b675de697ed", null ],
+    [ "PrepareAuraScript", "d1/dca/a26934.html#af7d9ac7e014bbda32275bb584f5e2660", null ],
+    [ "Register", "d1/dca/a26934.html#aa575597dab0670e768e20a3a06c6dc0a", null ],
+    [ "Validate", "d1/dca/a26934.html#a63844728796945e892985720296d0c07", null ]
 ];

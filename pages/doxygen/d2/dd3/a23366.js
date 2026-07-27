@@ -1,7 +1,6 @@
 var a23366 =
 [
-    [ "boss_zereketh_the_unbound", "d2/dd3/a23366.html#abb2fc5cbe7514142160818016fda1936", null ],
-    [ "JustDied", "d2/dd3/a23366.html#ac5d96da9a33a536f2002cce11453ded3", null ],
-    [ "JustEngagedWith", "d2/dd3/a23366.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
-    [ "KilledUnit", "d2/dd3/a23366.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
+    [ "instance_the_slave_pens_InstanceMapScript", "dc/dbe/a23370.html", "dc/dbe/a23370" ],
+    [ "instance_the_slave_pens", "d2/dd3/a23366.html#a765f7b66ad3bed1828524ecb143742f2", null ],
+    [ "GetInstanceScript", "d2/dd3/a23366.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
 ];

@@ -1,6 +1,7 @@
 var a20762 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "da/d1b/a20762.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "da/d1b/a20762.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "da/d1b/a20762.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "go_razorscale_harpoonAI", "db/d0b/a20766.html", "db/d0b/a20766" ],
+    [ "go_razorscale_harpoon", "da/d1b/a20762.html#a68e5414333ca5ed4ec2de2da5f1756d4", null ],
+    [ "GetAI", "da/d1b/a20762.html#a89a25716733ed0f589ce50eab8466453", null ],
+    [ "OnGossipHello", "da/d1b/a20762.html#ac6ea67384010725c56daab8c4f58c7ff", null ]
 ];

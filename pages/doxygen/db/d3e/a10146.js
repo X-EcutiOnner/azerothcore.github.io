@@ -1,7 +1,7 @@
 var a10146 =
 [
-    [ "operator<", "db/d3e/a10146.html#adb62060523d8d5b11f16f3202a157f26", null ],
-    [ "respawnTime", "db/d3e/a10146.html#aaed69c7c6f9f78ecb365e233f1ff6dab", null ],
-    [ "spawnId", "db/d3e/a10146.html#a6faeab5132f3e539848ebe29cee5a5a4", null ],
-    [ "type", "db/d3e/a10146.html#a1400b212e0889c54047225ba57e95c94", null ]
+    [ "LootView", "db/d3e/a10146.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
+    [ "loot", "db/d3e/a10146.html#ac95fa4805c79923b292e8984b00de929", null ],
+    [ "permission", "db/d3e/a10146.html#a33d7eeebd6fbc854300275a4138d9030", null ],
+    [ "viewer", "db/d3e/a10146.html#af9a6926c6c871dee245f876038e49995", null ]
 ];

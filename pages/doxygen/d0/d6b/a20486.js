@@ -1,11 +1,10 @@
 var a20486 =
 [
-    [ "boss_thorim_sif", "d0/d6b/a20486.html#a9762a5d386897bcd6d42b3c36d9fc18f", null ],
-    [ "AttackStart", "d0/d6b/a20486.html#a3da2809c4e7aa0c051647be354ade759", null ],
-    [ "DoAction", "d0/d6b/a20486.html#a61fec6c7b91d5f34339ebabd18b94e5d", null ],
-    [ "MoveInLineOfSight", "d0/d6b/a20486.html#a5c1dfc697a84d4eb3ea6074514034343", null ],
-    [ "Reset", "d0/d6b/a20486.html#a3f747b6da8db72fd61c50a24096834c2", null ],
-    [ "UpdateAI", "d0/d6b/a20486.html#adbe7effa0bab5046f26f8d7df0f82a04", null ],
-    [ "_allowCast", "d0/d6b/a20486.html#a6081345415b9ae3892d4f150a195908c", null ],
-    [ "events", "d0/d6b/a20486.html#a5d64d273a6aefdd9359b71963271b4ee", null ]
+    [ "HandleEffectPeriodic", "d0/d6b/a20486.html#aa62be73e00d9cb512806787eaf1c4144", null ],
+    [ "Load", "d0/d6b/a20486.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
+    [ "PrepareAuraScript", "d0/d6b/a20486.html#ad9664bff267b330565d3c706e1752e9d", null ],
+    [ "Register", "d0/d6b/a20486.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
+    [ "Validate", "d0/d6b/a20486.html#a3f6653b4ca202d9b0971189930e8b463", null ],
+    [ "_counter", "d0/d6b/a20486.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
+    [ "_prev", "d0/d6b/a20486.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
 ];

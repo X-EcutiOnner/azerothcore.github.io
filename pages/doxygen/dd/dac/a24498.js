@@ -1,6 +1,6 @@
 var a24498 =
 [
-    [ "CheckProc", "dd/dac/a24498.html#a67f31710f6a3e843b9d3539710100898", null ],
-    [ "PrepareAuraScript", "dd/dac/a24498.html#ad59ef816bd24f6215cc853386859dbb4", null ],
-    [ "Register", "dd/dac/a24498.html#af499437b1af535488792f44c18ad9bf7", null ]
+    [ "PrepareSpellScript", "dd/dac/a24498.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
+    [ "Register", "dd/dac/a24498.html#a4b349a325759517c35d04202e5df9cec", null ],
+    [ "SetDest", "dd/dac/a24498.html#a951f733ab2452655a3b579f8ed190fb0", null ]
 ];

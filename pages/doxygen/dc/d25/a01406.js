@@ -1,10 +1,9 @@
 var a01406 =
 [
-    [ "ObjectPosSelector", "d2/dcc/a08824.html", "d2/dcc/a08824" ],
-    [ "ObjectPosSelector::UsedPos", "d3/d6e/a08828.html", "d3/d6e/a08828" ],
-    [ "UsedPosType", "dc/d25/a01406.html#a2f1e7723f9d73cff4490d29d2b3df397", [
-      [ "USED_POS_PLUS", "dc/d25/a01406.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e", null ],
-      [ "USED_POS_MINUS", "dc/d25/a01406.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816", null ]
-    ] ],
-    [ "operator~", "dc/d25/a01406.html#a083d37b8f4388d54d83aeb6562b5fe09", null ]
+    [ "FactorySelector::PermissibleOrderPred< T >", "dd/d05/a06578.html", "dd/d05/a06578" ],
+    [ "GetPermitFor", "dc/d25/a01406.html#aaf9c138ae6c123d03859db553a39892d", null ],
+    [ "SelectAI", "dc/d25/a01406.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
+    [ "SelectFactory", "dc/d25/a01406.html#ad553c2186f078e696768d40d217738f8", null ],
+    [ "SelectGameObjectAI", "dc/d25/a01406.html#a2ce404e9b85f551638d8783c01a19860", null ],
+    [ "SelectMovementGenerator", "dc/d25/a01406.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
 ];

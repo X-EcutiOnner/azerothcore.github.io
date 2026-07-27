@@ -1,6 +1,6 @@
 var a25938 =
 [
-    [ "PrepareSpellScript", "d2/d4b/a25938.html#a8127429829afd4b82395a821a4bea19c", null ],
-    [ "Register", "d2/d4b/a25938.html#a73717914aa23764fa16c8a2965798a6a", null ],
-    [ "SecondaryEffect", "d2/d4b/a25938.html#a6150d8615c7f579aadd50e28aba0d569", null ]
+    [ "HandleScript", "d2/d4b/a25938.html#a9309c0e435240bc656b3bfde2d923a9a", null ],
+    [ "PrepareSpellScript", "d2/d4b/a25938.html#a74dc9d9a57ed410b3c0d690418bfb4eb", null ],
+    [ "Register", "d2/d4b/a25938.html#a8769cbce815d1f1c457979743e10535c", null ]
 ];

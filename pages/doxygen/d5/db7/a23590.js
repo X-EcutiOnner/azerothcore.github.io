@@ -1,6 +1,6 @@
 var a23590 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "dc/d59/a23594.html", "dc/d59/a23594" ],
-    [ "npc_deaths_door_fell_cannon_target_bunny", "d5/db7/a23590.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
-    [ "GetAI", "d5/db7/a23590.html#a250707096229da28024960beeb7725bf", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "dc/d59/a23594.html", "dc/d59/a23594" ],
+    [ "instance_hellfire_ramparts", "d5/db7/a23590.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "d5/db7/a23590.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

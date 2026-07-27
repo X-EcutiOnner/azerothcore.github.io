@@ -1,15 +1,7 @@
 var a21178 =
 [
-    [ "npc_azure_saboteur", "df/da0/a21178.html#a051e99f11de367f810d9404a723173fd", null ],
-    [ "FinishPointReached", "df/da0/a21178.html#a451777273b76e4651b1f4309e8477c9f", null ],
-    [ "MoveInLineOfSight", "df/da0/a21178.html#a1a65d5100befd33a104a13eef0800ae7", null ],
-    [ "UpdateAI", "df/da0/a21178.html#af5cf21e08a62b09793e99a92df1ef1b7", null ],
-    [ "WaypointReached", "df/da0/a21178.html#a7c6f44f0dcdb0d5abc18e304383d3b96", null ],
-    [ "WaypointReached", "df/da0/a21178.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_addedWaypoints", "df/da0/a21178.html#af57295076f65e16b085fe114b1c3d12f", null ],
-    [ "_boss", "df/da0/a21178.html#ab23d685ca979bba79a3d9a14117350f8", null ],
-    [ "_count", "df/da0/a21178.html#aa431780ab6b90976494058a602377825", null ],
-    [ "_events", "df/da0/a21178.html#a7ee513b49f09971f5fea099e8c9b7bc7", null ],
-    [ "_instance", "df/da0/a21178.html#ab220c76d2fd72df36b5b92ee897d9d14", null ],
-    [ "_isOpening", "df/da0/a21178.html#a59ecc6687f1d5d948c6988d14f577ffd", null ]
+    [ "npc_frost_tomb", "df/da0/a21178.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
+    [ "JustDied", "df/da0/a21178.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
+    [ "UpdateAI", "df/da0/a21178.html#af2122e9c8cb206151f631659c7d167da", null ],
+    [ "PrisonerGUID", "df/da0/a21178.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
 ];

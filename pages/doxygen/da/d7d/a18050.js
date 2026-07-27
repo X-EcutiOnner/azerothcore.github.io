@@ -1,6 +1,10 @@
 var a18050 =
 [
-    [ "PrepareSpellScript", "da/d7d/a18050.html#a9041ce6139de9a48621d6898ddcca673", null ],
-    [ "RecalculateDamage", "da/d7d/a18050.html#abfb7c002577a59864fb2aa069b713c0a", null ],
-    [ "Register", "da/d7d/a18050.html#a4308449e8cbe7ed59598a837024141cb", null ]
+    [ "npc_gunship_gunnerAI", "da/d7d/a18050.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
+    [ "AttackStart", "da/d7d/a18050.html#ac21b90c1892c15882794384517ef9fd2", null ],
+    [ "CanAIAttack", "da/d7d/a18050.html#aef351305ef34fa316809697125a3bc9a", null ],
+    [ "MovementInform", "da/d7d/a18050.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
+    [ "UpdateAI", "da/d7d/a18050.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
+    [ "anyValid", "da/d7d/a18050.html#a00c7dc23618c60826241133a0067c1c4", null ],
+    [ "checkTimer", "da/d7d/a18050.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
 ];

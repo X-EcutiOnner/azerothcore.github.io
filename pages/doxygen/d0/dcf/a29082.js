@@ -1,5 +1,5 @@
 var a29082 =
 [
-    [ "ByteBufferPositionException", "d0/dcf/a29082.html#a6c2e31012a8ccf20d52c6431e024a576", null ],
-    [ "~ByteBufferPositionException", "d0/dcf/a29082.html#aba8b7764a5517fa3e4a26d7ced1ad38f", null ]
+    [ "ID", "d0/dcf/a29082.html#a01bcdc3543d3ff250354acf5e0724c14", null ],
+    [ "spellId", "d0/dcf/a29082.html#aabbb95c091e0b0946bcb05746b1c23f3", null ]
 ];

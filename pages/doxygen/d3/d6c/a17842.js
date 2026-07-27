@@ -1,8 +1,7 @@
 var a17842 =
 [
-    [ "npc_gunship_mageAI", "d3/d6c/a17842.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
-    [ "AttackStart", "d3/d6c/a17842.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
-    [ "CanAIAttack", "d3/d6c/a17842.html#aadcb217a9df96bee02287d75a23e32c2", null ],
-    [ "MovementInform", "d3/d6c/a17842.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
-    [ "UpdateAI", "d3/d6c/a17842.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
+    [ "achievement_once_bitten_twice_shy", "d3/d6c/a17842.html#a20cefbd70b242168bbfb1228eb8b4f9b", null ],
+    [ "OnCheck", "d3/d6c/a17842.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
+    [ "_spawnMode", "d3/d6c/a17842.html#a6f02f5ab07143ddff553279049714902", null ],
+    [ "_wasVampire", "d3/d6c/a17842.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
 ];

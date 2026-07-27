@@ -1,6 +1,7 @@
 var a13702 =
 [
-    [ "FixOrientation", "d7/d64/a13702.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
-    [ "Execute", "d7/d64/a13702.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
-    [ "_owner", "d7/d64/a13702.html#a5f12db3774bdeef25a300780c00db1fb", null ]
+    [ "CheckCast", "d7/d64/a13702.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "d7/d64/a13702.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "d7/d64/a13702.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "d7/d64/a13702.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

@@ -1,7 +1,6 @@
 var a25066 =
 [
-    [ "HandleDamage", "df/d9c/a25066.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
-    [ "PrepareSpellScript", "df/d9c/a25066.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
-    [ "Register", "df/d9c/a25066.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
-    [ "Validate", "df/d9c/a25066.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
+    [ "PrepareAuraScript", "df/d9c/a25066.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
+    [ "Register", "df/d9c/a25066.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
+    [ "AuraEffectHandleModes", "df/d9c/a25066.html#aed1cfe63d82450b526e154678fb97ac4", null ]
 ];

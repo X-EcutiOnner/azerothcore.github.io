@@ -1,7 +1,6 @@
 var a18870 =
 [
-    [ "npc_captain_arnathAI", "dd/dbc/a18870.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "dd/dbc/a18870.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "dd/dbc/a18870.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "dd/dbc/a18870.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "ManaVoidSelector", "dd/dbc/a18870.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "dd/dbc/a18870.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "dd/dbc/a18870.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

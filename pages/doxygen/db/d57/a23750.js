@@ -1,7 +1,7 @@
 var a23750 =
 [
-    [ "npc_bessyAI", "d6/d28/a23754.html", "d6/d28/a23754" ],
-    [ "npc_bessy", "db/d57/a23750.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "db/d57/a23750.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "db/d57/a23750.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "AfterApply", "db/d57/a23750.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "db/d57/a23750.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "db/d57/a23750.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "db/d57/a23750.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

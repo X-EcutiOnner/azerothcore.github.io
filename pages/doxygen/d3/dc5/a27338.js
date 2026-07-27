@@ -1,7 +1,6 @@
 var a27338 =
 [
-    [ "HandleRemove", "d3/dc5/a27338.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "d3/dc5/a27338.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "d3/dc5/a27338.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "d3/dc5/a27338.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "HandleRemove", "d3/dc5/a27338.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
+    [ "PrepareAuraScript", "d3/dc5/a27338.html#a132193c0c13a2f89b9b29391d524023a", null ],
+    [ "Register", "d3/dc5/a27338.html#a246294a7b9a128a9ec464562846332fc", null ]
 ];

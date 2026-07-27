@@ -1,9 +1,6 @@
 var a17678 =
 [
-    [ "CheckProc", "d8/dc3/a17678.html#a13426f7a45e9434f980b42f174b22da8", null ],
-    [ "HandlePeriodicTick", "d8/dc3/a17678.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
-    [ "HandleProc", "d8/dc3/a17678.html#abf744d64dae5835bff3877eeaa919af3", null ],
-    [ "PrepareAuraScript", "d8/dc3/a17678.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
-    [ "Register", "d8/dc3/a17678.html#a1b72c10256365de71b8f9fadf5886338", null ],
-    [ "Validate", "d8/dc3/a17678.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
+    [ "StandUpEvent", "d8/dc3/a17678.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
+    [ "Execute", "d8/dc3/a17678.html#a56bc1071300ff8f81e62839685e8f53a", null ],
+    [ "_owner", "d8/dc3/a17678.html#a456a494140657d81b203834f7b88d5d1", null ]
 ];

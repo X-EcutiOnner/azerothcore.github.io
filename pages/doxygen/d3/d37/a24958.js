@@ -1,7 +1,10 @@
 var a24958 =
 [
-    [ "HandleDummy", "d3/d37/a24958.html#a9037eddf4c9ce96c15c57e8906bd9a5f", null ],
-    [ "Load", "d3/d37/a24958.html#a738318535196b3d55e8f1b3da4f76c95", null ],
-    [ "PrepareSpellScript", "d3/d37/a24958.html#a941a097124ed9b4917faa18ff23fc366", null ],
-    [ "Register", "d3/d37/a24958.html#aaf9d269e7d052515f31b463999e92cf4", null ]
+    [ "CalcAmount", "d3/d37/a24958.html#a182d563b0527e35ea641116a6a808aa8", null ],
+    [ "CalcPeriodic", "d3/d37/a24958.html#a542da5e81c75d56ad33152d54b5cac3a", null ],
+    [ "Load", "d3/d37/a24958.html#a45b2d3dee0d5e514d2351c3f3679e3d3", null ],
+    [ "PrepareAuraScript", "d3/d37/a24958.html#ac320eec2b8a3a7cc3820a49007710520", null ],
+    [ "Register", "d3/d37/a24958.html#a37181afac00639716ae2ce10d82ecb23", null ],
+    [ "UpdatePeriodic", "d3/d37/a24958.html#af4f971e2d5c2d2f4b1ced0e64e8c1871", null ],
+    [ "Validate", "d3/d37/a24958.html#a3a6c68e8918612745cfb35df84bf7d14", null ]
 ];

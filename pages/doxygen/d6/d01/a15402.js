@@ -1,6 +1,8 @@
 var a15402 =
 [
-    [ "HandleScript", "d6/d01/a15402.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
-    [ "PrepareSpellScript", "d6/d01/a15402.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
-    [ "Register", "d6/d01/a15402.html#a434f0aef7f32edb6990efb992e4d57af", null ]
+    [ "Load", "d6/d01/a15402.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "d6/d01/a15402.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "d6/d01/a15402.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "d6/d01/a15402.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "d6/d01/a15402.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

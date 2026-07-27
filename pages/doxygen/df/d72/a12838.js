@@ -1,8 +1,12 @@
 var a12838 =
 [
-    [ "MajordomoAddData", "df/d72/a12838.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
-    [ "MajordomoAddData", "df/d72/a12838.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
-    [ "creatureEntry", "df/d72/a12838.html#ae3a0444e88158123f4d6359328e89a1d", null ],
-    [ "guid", "df/d72/a12838.html#a2f2b0aaace557361a21d1072f36933dc", null ],
-    [ "spawnPos", "df/d72/a12838.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
+    [ "boss_the_beast", "df/d72/a12838.html#ab98bce804078b4184b1bf6e844db9c67", null ],
+    [ "FindNearbyOrcs", "df/d72/a12838.html#a46da3f960ea3c38791c23a3e282db9c7", null ],
+    [ "JustEngagedWith", "df/d72/a12838.html#a9740b134ce1b21c42c9082d9fdc97264", null ],
+    [ "Reset", "df/d72/a12838.html#a7a72f5aeb54fe6de6c71dfac2c906881", null ],
+    [ "SetData", "df/d72/a12838.html#a8ceb3a1c53c2c5385d4a779b2ac283da", null ],
+    [ "UpdateAI", "df/d72/a12838.html#ad7db422aefc711b437176b729c6ac151", null ],
+    [ "_beastReached", "df/d72/a12838.html#a7345b0091bcfd894ce8fdff9431254f6", null ],
+    [ "_nearbyOrcsGUIDs", "df/d72/a12838.html#a20b867be394f3c5d9bbf851ba724ca3a", null ],
+    [ "_orcYelled", "df/d72/a12838.html#a7079c59c50343f460e2aac2bcf19709c", null ]
 ];

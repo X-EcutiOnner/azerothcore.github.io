@@ -1,14 +1,10 @@
 var a08966 =
 [
-    [ "SocialMap", "d0/d59/a08966.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
-    [ "SocialMgr", "d0/d59/a08966.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
-    [ "~SocialMgr", "d0/d59/a08966.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
-    [ "BroadcastToFriendListers", "d0/d59/a08966.html#a55b35ea17ebfea4ff31710186b87865f", null ],
-    [ "GetFriendInfo", "d0/d59/a08966.html#a7d0c4638b6fde1bf614d90492160ee55", null ],
-    [ "instance", "d0/d59/a08966.html#a223f3d7811d8c360da7f467b70af808f", null ],
-    [ "LoadFromDB", "d0/d59/a08966.html#aab17f5c27494cfdf2b1c5d5038f446a0", null ],
-    [ "MakeFriendStatusPacket", "d0/d59/a08966.html#af30fe2f3223dc7ad9094e44393420d3a", null ],
-    [ "RemovePlayerSocial", "d0/d59/a08966.html#af537c83cc3d481dde68d0a60aa122289", null ],
-    [ "SendFriendStatus", "d0/d59/a08966.html#acf245ca689bd5c0efe4a791b9e0e3c5f", null ],
-    [ "m_socialMap", "d0/d59/a08966.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
+    [ "DuelInfo", "d0/d59/a08966.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
+    [ "Initiator", "d0/d59/a08966.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
+    [ "IsMounted", "d0/d59/a08966.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
+    [ "Opponent", "d0/d59/a08966.html#a2765770367c839ad28f804e2df3205cb", null ],
+    [ "OutOfBoundsTime", "d0/d59/a08966.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
+    [ "StartTime", "d0/d59/a08966.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
+    [ "State", "d0/d59/a08966.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
 ];

@@ -1,12 +1,13 @@
 var a22826 =
 [
-    [ "boss_leotheras_the_blind", "df/d44/a22826.html#a9229850f996812366a20508931965a87", null ],
-    [ "AttackStart", "df/d44/a22826.html#a678ed3eba7d53976fd6efa9051d11124", null ],
-    [ "DemonTime", "df/d44/a22826.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
-    [ "DoAction", "df/d44/a22826.html#a4f3fd791f12b3f176ce109237c516889", null ],
-    [ "ElfTime", "df/d44/a22826.html#a52f101530de8883231faa7f5fe689691", null ],
-    [ "MoveToTargetIfOutOfRange", "df/d44/a22826.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
-    [ "Reset", "df/d44/a22826.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
-    [ "UpdateAI", "df/d44/a22826.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
-    [ "_recentlySpoken", "df/d44/a22826.html#ad5231f13a247247dd7095b16c381fc7c", null ]
+    [ "boss_illidari_council_memberAI", "df/d44/a22826.html#ac32366dfad13cd37ced2428d041e25c9", null ],
+    [ "DamageTaken", "df/d44/a22826.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
+    [ "DoAction", "df/d44/a22826.html#a203310b84d71a24145b1c39e7faff182", null ],
+    [ "EnterEvadeMode", "df/d44/a22826.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
+    [ "JustDied", "df/d44/a22826.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
+    [ "JustEngagedWith", "df/d44/a22826.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
+    [ "KilledUnit", "df/d44/a22826.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
+    [ "Reset", "df/d44/a22826.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
+    [ "events", "df/d44/a22826.html#ad47a350f5ed066e04816e72961a80bd0", null ],
+    [ "instance", "df/d44/a22826.html#adb11720cd0fd87a42b9a78490a70251e", null ]
 ];

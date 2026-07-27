@@ -1,7 +1,11 @@
 var a17358 =
 [
-    [ "HandleEffectPeriodic", "d7/da2/a17358.html#a4802c810efd7dd8a9954845366398e7f", null ],
-    [ "PrepareAuraScript", "d7/da2/a17358.html#a008166d25e7a278507e953325f40ccd5", null ],
-    [ "Register", "d7/da2/a17358.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
-    [ "Validate", "d7/da2/a17358.html#a3fc78060f881262c59151b6eb6a943f8", null ]
+    [ "npc_tortured_rifleman", "d7/da2/a17358.html#a5ab42b048c14838b6992716f62200c57", null ],
+    [ "AttackStart", "d7/da2/a17358.html#a82f84e5b66d8cbcb25267e0eeb5ce65c", null ],
+    [ "DoAction", "d7/da2/a17358.html#aafd02b19ba0280db3eacc21b24d3ceaa", null ],
+    [ "EnterEvadeMode", "d7/da2/a17358.html#a1eddbbfa45174c05a24ad01f200983e3", null ],
+    [ "JustDied", "d7/da2/a17358.html#abb8349f4f1c19a60c7566f1801ae3087", null ],
+    [ "JustEngagedWith", "d7/da2/a17358.html#ab60cf1d4e6a58613a032b25b043aceea", null ],
+    [ "Reset", "d7/da2/a17358.html#a04210cb211db92a1be6de7bc28953953", null ],
+    [ "UpdateAI", "d7/da2/a17358.html#aa794584f9a842f9725f1f926b4099181", null ]
 ];

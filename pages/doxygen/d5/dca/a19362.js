@@ -1,10 +1,9 @@
 var a19362 =
 [
-    [ "boss_patchwerkAI", "d5/dca/a19362.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
-    [ "JustDied", "d5/dca/a19362.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
-    [ "JustEngagedWith", "d5/dca/a19362.html#a1317cb819d6247f62e0c6c725157db30", null ],
-    [ "KilledUnit", "d5/dca/a19362.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
-    [ "Reset", "d5/dca/a19362.html#a1d03058bf53e670f4fe9384e9f047891", null ],
-    [ "UpdateAI", "d5/dca/a19362.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
-    [ "events", "d5/dca/a19362.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
+    [ "spell_trigger_spell_from_caster", "d5/dca/a19362.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
+    [ "HandleTrigger", "d5/dca/a19362.html#afc11c9408ea11cb04e476999a9bdf522", null ],
+    [ "PrepareSpellScript", "d5/dca/a19362.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
+    [ "Register", "d5/dca/a19362.html#ae44cc1a87267c1d08603d1aff2384957", null ],
+    [ "Validate", "d5/dca/a19362.html#a3aace9a309bc848b887b03c949c921bd", null ],
+    [ "_triggerId", "d5/dca/a19362.html#a29af52a9035f18936515a464889fefe5", null ]
 ];

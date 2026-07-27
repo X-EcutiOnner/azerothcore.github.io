@@ -1,6 +1,21 @@
 var a20722 =
 [
-    [ "OnRemove", "d7/dcd/a20722.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
-    [ "PrepareAuraScript", "d7/dcd/a20722.html#a5fb0837417b915676549370cc76c477d", null ],
-    [ "Register", "d7/dcd/a20722.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
+    [ "npc_expedition_commander", "d7/dcd/a20722.html#a83604e0626881b572011ecbc6a848bfc", null ],
+    [ "BuildBrokenHarpoons", "d7/dcd/a20722.html#a08677be5e4595be5d403637976ca3c82", null ],
+    [ "BuildHarpoon", "d7/dcd/a20722.html#a20f98957ce92e8be8bc843a477faa0c0", null ],
+    [ "DestroyHarpoons", "d7/dcd/a20722.html#a56bf7d8b81b390bcd84a3853cad6fb96", null ],
+    [ "DoAction", "d7/dcd/a20722.html#a32dcbc62eeee1910f97c4112494044c9", null ],
+    [ "HarpoonEntry", "d7/dcd/a20722.html#a99f3889057b4a6a74e83280044e0bcad", null ],
+    [ "Reset", "d7/dcd/a20722.html#a83400ea0d6743e67eb8c63f4897e1b7b", null ],
+    [ "sGossipSelect", "d7/dcd/a20722.html#afa66b8ce3286684a11f5b411baf30108", null ],
+    [ "StopControllers", "d7/dcd/a20722.html#a18dcae2bfc09ee64aef450dc5c844b45", null ],
+    [ "UpdateAI", "d7/dcd/a20722.html#aaf0bde74c1c92cff26e6c7340bcee177", null ],
+    [ "_building", "d7/dcd/a20722.html#a62bb1f76b6aa129207d7d190f91bb039", null ],
+    [ "_destroyCd", "d7/dcd/a20722.html#a0ada5897a6496c573c11a3e5c5bf8bc6", null ],
+    [ "_events", "d7/dcd/a20722.html#a9949ed43b44a29a830e8a7d66beb39cd", null ],
+    [ "_harpoonGUIDs", "d7/dcd/a20722.html#a42daa8c169fe2c52ebade14f785778d2", null ],
+    [ "_instance", "d7/dcd/a20722.html#a73d41e87cdc874e98f43e8e1b2f9c398", null ],
+    [ "_is25", "d7/dcd/a20722.html#a88ed8a4c0306033e7d6e97a8ee0c3cf6", null ],
+    [ "_started", "d7/dcd/a20722.html#ac958ab74d2e857e5e25ef14e07e13ee2", null ],
+    [ "_stopCtrl", "d7/dcd/a20722.html#a58f1cc8f6e9d8f442e0c869bdee2d6f2", null ]
 ];

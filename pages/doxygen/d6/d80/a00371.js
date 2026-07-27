@@ -1,10 +1,8 @@
 var a00371 =
 [
-    [ "MovementGenerator", "db/d5f/a10356.html", "db/d5f/a10356" ],
-    [ "MovementGeneratorMedium< T, D >", "dc/d6b/a10360.html", "dc/d6b/a10360" ],
-    [ "MovementGeneratorFactory< Movement >", "db/d97/a10364.html", "db/d97/a10364" ],
-    [ "IdleMovementFactory", "d4/d9d/a10368.html", "d4/d9d/a10368" ],
-    [ "sMovementGeneratorRegistry", "d6/d80/a00371.html#aa270c1b96e4671274975a07340ba687a", null ],
-    [ "MovementGeneratorCreator", "d6/d80/a00371.html#ae7a6c44762ef974149bfb8d00247a013", null ],
-    [ "MovementGeneratorRegistry", "d6/d80/a00371.html#ae78e82cd7b1aea7744a0dbb2e65f8e79", null ]
+    [ "BasicEvent", "d2/d70/a05842.html", "d2/d70/a05842" ],
+    [ "LambdaBasicEvent< T >", "dc/da1/a05846.html", "dc/da1/a05846" ],
+    [ "EventProcessor", "da/d81/a05850.html", "da/d81/a05850" ],
+    [ "EventList", "d6/d80/a00371.html#a393840b719db78b29da806c1237fceb0", null ],
+    [ "is_lambda_event", "d6/d80/a00371.html#a62fdca14f042b8645ab0d19029b80d9b", null ]
 ];

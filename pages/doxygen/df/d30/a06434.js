@@ -1,6 +1,5 @@
 var a06434 =
 [
-    [ "KillMagnetEvent", "df/d30/a06434.html#a1f044cb51674faebe45c0e2119601b59", null ],
-    [ "Execute", "df/d30/a06434.html#a2905731d24060dfa7c2069b05adfa2b2", null ],
-    [ "_self", "df/d30/a06434.html#a0fe06efbc00b38f98f2e077d7dfb1941", null ]
+    [ "changed", "df/d30/a06434.html#a98ad429a8aa7a190e94f943a2ec5edf2", null ],
+    [ "date", "df/d30/a06434.html#a3c6c1cca7f125fc98323669e4e9c775d", null ]
 ];

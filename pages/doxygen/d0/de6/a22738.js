@@ -1,11 +1,19 @@
 var a22738 =
 [
-    [ "boss_doomlordkazzakAI", "d0/de6/a22738.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
-    [ "JustDied", "d0/de6/a22738.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
-    [ "JustEngagedWith", "d0/de6/a22738.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
-    [ "JustRespawned", "d0/de6/a22738.html#a174912c149657f4d88446f4ac0631598", null ],
-    [ "KilledUnit", "d0/de6/a22738.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
-    [ "Reset", "d0/de6/a22738.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
-    [ "UpdateAI", "d0/de6/a22738.html#a28a0a8345fcd5411491409854acef729", null ],
-    [ "_inBerserk", "d0/de6/a22738.html#a996d17128aca96c00c8416957ebc24d0", null ]
+    [ "boss_illidan_stormrage", "d0/de6/a22738.html#a87e74bda2af623ba5c70911a033c6d6f", null ],
+    [ "CanAIAttack", "d0/de6/a22738.html#a9607a9a09df9d07ebae0513458435b4d", null ],
+    [ "CycleBeamPos", "d0/de6/a22738.html#a2044514c049262328022ac22a651fb92", null ],
+    [ "DamageTaken", "d0/de6/a22738.html#ad568e3993f74ad0dd0b2f4e630fcb7f1", null ],
+    [ "DoAction", "d0/de6/a22738.html#aad32a8fab5f1ca21824790d2da4d086b", null ],
+    [ "EnterEvadeMode", "d0/de6/a22738.html#ab07e90f48ee9e84298b24b8e7cdb192f", null ],
+    [ "JustDied", "d0/de6/a22738.html#a4d38abd8885862e31a88da4de754e35d", null ],
+    [ "JustEngagedWith", "d0/de6/a22738.html#aa2d516aea252d55307c9f98212e7ee5e", null ],
+    [ "JustSummoned", "d0/de6/a22738.html#a2c642790b16d864ae100b5e8f30e4e61", null ],
+    [ "KilledUnit", "d0/de6/a22738.html#abf29f9607351d35953d8d0e97779c3f9", null ],
+    [ "MovementInform", "d0/de6/a22738.html#acdd75f289288b3e6de4136267d490519", null ],
+    [ "Reset", "d0/de6/a22738.html#aa5eb94712f886e821630535cb2970dfe", null ],
+    [ "ScheduleAbilities", "d0/de6/a22738.html#af230387ddbd1b270e1be69133f4bae38", null ],
+    [ "_dying", "d0/de6/a22738.html#af312452020938736624496d9f6a76d28", null ],
+    [ "_inCutscene", "d0/de6/a22738.html#a715525706b44dbc53847e639f3b15d3a", null ],
+    [ "beamPosId", "d0/de6/a22738.html#a6168b84bfb49781736fa2accf5225808", null ]
 ];

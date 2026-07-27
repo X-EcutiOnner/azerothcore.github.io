@@ -1,18 +1,8 @@
 var a09838 =
 [
-    [ "GroupContainer", "de/d38/a09838.html#a417c5798d50cac5c1bc5b0eae13945cc", null ],
-    [ "GroupIds", "de/d38/a09838.html#ad3a9005c50a5957d3f47adf60624b9aa", null ],
-    [ "GroupMgr", "de/d38/a09838.html#a663dbeb2e20161d8d6cf72f322c05f0e", null ],
-    [ "~GroupMgr", "de/d38/a09838.html#ad5a5efeed7f78146983611c2349c111f", null ],
-    [ "AddGroup", "de/d38/a09838.html#abb97c613417573dc4cafa117065e7cf8", null ],
-    [ "GenerateGroupId", "de/d38/a09838.html#ad881433a3836a70e44734bde5a1afc6f", null ],
-    [ "GetGroupByGUID", "de/d38/a09838.html#a2af93882e217f762df95ba21af191c89", null ],
-    [ "InitGroupIds", "de/d38/a09838.html#a6881453ec34dc2d9416069a87b1a3234", null ],
-    [ "instance", "de/d38/a09838.html#a1b7275cfd70d46216df8c353e70d64c8", null ],
-    [ "LoadGroups", "de/d38/a09838.html#ab8548ce88b015ae3040cd5f2cd7b1990", null ],
-    [ "RegisterGroupId", "de/d38/a09838.html#a8bface2b6600801ebcd1cbb9070ec3ef", null ],
-    [ "RemoveGroup", "de/d38/a09838.html#a654b7c795c9c3d77a7a39bce58dec2c7", null ],
-    [ "_groupIds", "de/d38/a09838.html#af260c73ba61242f741103bdfe6d6fb9e", null ],
-    [ "_nextGroupId", "de/d38/a09838.html#a4e41d7444f8b7d3dbb54569be80b65f9", null ],
-    [ "GroupStore", "de/d38/a09838.html#ae897c661dd4b185d205c3a12d17ccb2b", null ]
+    [ "NearestPlayerInObjectRangeCheck", "de/d38/a09838.html#ae8e57c69baf8bdaf0448864d4afbb1a4", null ],
+    [ "NearestPlayerInObjectRangeCheck", "de/d38/a09838.html#aac3d406d10a036b92a55bcd955411165", null ],
+    [ "operator()", "de/d38/a09838.html#a5d7ed3141c03d2209d5a3b1a689d1668", null ],
+    [ "i_obj", "de/d38/a09838.html#a9cd17091269bcfc2b48fefc12ac9b127", null ],
+    [ "i_range", "de/d38/a09838.html#ab55f93d7c5d6ca3461bcbe49010fcb83", null ]
 ];

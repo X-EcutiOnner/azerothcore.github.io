@@ -1,7 +1,8 @@
 var a26530 =
 [
-    [ "HandleProc", "da/dd8/a26530.html#ad5bf7ab28ac2f359c65606a1772a40d2", null ],
-    [ "PrepareAuraScript", "da/dd8/a26530.html#af4fec7fb65e1327b1a74d48453b9fddd", null ],
-    [ "Register", "da/dd8/a26530.html#a44a82b94d509eeb04f3520ded1d62891", null ],
-    [ "Validate", "da/dd8/a26530.html#a7b222bba8f0c4ced50bf4945bf0423ca", null ]
+    [ "HandleDummy", "da/dd8/a26530.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
+    [ "PrepareSpellScript", "da/dd8/a26530.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
+    [ "Register", "da/dd8/a26530.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
+    [ "Validate", "da/dd8/a26530.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
+    [ "PolymorhForms", "da/dd8/a26530.html#a1443d2532a060514e697a8d5e0c21b20", null ]
 ];

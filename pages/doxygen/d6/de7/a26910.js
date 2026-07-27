@@ -1,11 +1,9 @@
 var a26910 =
 [
-    [ "AddTarget", "d6/de7/a26910.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
-    [ "HandleApply", "d6/de7/a26910.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
-    [ "HandleEffectPeriodic", "d6/de7/a26910.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
-    [ "HandleRemove", "d6/de7/a26910.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
-    [ "PrepareAuraScript", "d6/de7/a26910.html#abd535f756fae06c9fae613d69ef4e353", null ],
-    [ "Register", "d6/de7/a26910.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
-    [ "Validate", "d6/de7/a26910.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
-    [ "_targets", "d6/de7/a26910.html#ad2467bc150cb08766c57cca23d4d9843", null ]
+    [ "CheckProc", "d6/de7/a26910.html#ac0e2bf5c1a96ce0502561bb6bcb6ad97", null ],
+    [ "HandleDispel", "d6/de7/a26910.html#a64235032423050de10581165c57f8b0a", null ],
+    [ "HandleProc", "d6/de7/a26910.html#ab1c1196f003f7ff0bf6f6eae5bd6de9a", null ],
+    [ "PrepareAuraScript", "d6/de7/a26910.html#af7ba0eb96dca76a288dd034665822069", null ],
+    [ "Register", "d6/de7/a26910.html#ababc8b42c64740655864d2834a639384", null ],
+    [ "Validate", "d6/de7/a26910.html#a03ecf2489369cbb7a6dff555db153a96", null ]
 ];

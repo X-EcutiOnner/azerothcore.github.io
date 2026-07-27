@@ -1,8 +1,6 @@
 var a20022 =
 [
-    [ "OnApply", "df/d1d/a20022.html#a5aec8606684637bbdb1e819254f5d483", null ],
-    [ "OnRemove", "df/d1d/a20022.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
-    [ "PrepareAuraScript", "df/d1d/a20022.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
-    [ "Register", "df/d1d/a20022.html#af1db6ca387cf0733ba4b9c324172d692", null ],
-    [ "Validate", "df/d1d/a20022.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
+    [ "boss_sjonnirAI", "de/dda/a20026.html", "de/dda/a20026" ],
+    [ "boss_sjonnir", "df/d1d/a20022.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
+    [ "GetAI", "df/d1d/a20022.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
 ];

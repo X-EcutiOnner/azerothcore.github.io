@@ -1,9 +1,8 @@
 var a22482 =
 [
-    [ "HandleAfterCast", "d8/db9/a22482.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
-    [ "HandleDummy", "d8/db9/a22482.html#ae94594e337c2e0e6864f3723df8349bf", null ],
-    [ "Load", "d8/db9/a22482.html#a301008eff6b13a43070b3916925391ae", null ],
-    [ "PrepareSpellScript", "d8/db9/a22482.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
-    [ "Register", "d8/db9/a22482.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
-    [ "_targetCount", "d8/db9/a22482.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
+    [ "HandleApply", "d8/db9/a22482.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
+    [ "HandleRemove", "d8/db9/a22482.html#a06c7c65d973fcf348f5c929503902520", null ],
+    [ "PrepareAuraScript", "d8/db9/a22482.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
+    [ "Register", "d8/db9/a22482.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
+    [ "Validate", "d8/db9/a22482.html#a8135c492638557eec71189282e7f78a2", null ]
 ];

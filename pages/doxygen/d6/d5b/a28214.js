@@ -1,6 +1,7 @@
 var a28214 =
 [
-    [ "npc_stable_masterAI", "da/d91/a28218.html", "da/d91/a28218" ],
-    [ "npc_stable_master", "d6/d5b/a28214.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "d6/d5b/a28214.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "go_brewfest_musicAI", "d6/d5b/a28214.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "d6/d5b/a28214.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "d6/d5b/a28214.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "d6/d5b/a28214.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

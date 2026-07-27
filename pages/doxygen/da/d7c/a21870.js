@@ -1,7 +1,6 @@
 var a21870 =
 [
-    [ "HandleSendEvent", "da/d7c/a21870.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "da/d7c/a21870.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "da/d7c/a21870.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "da/d7c/a21870.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "npc_spiritual_insightAI", "da/d7c/a21870.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "da/d7c/a21870.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "da/d7c/a21870.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

@@ -1,6 +1,7 @@
 var a22814 =
 [
-    [ "HandleScriptEffect", "de/dad/a22814.html#a766edc5924124c869b04ec82cd2bc693", null ],
-    [ "PrepareSpellScript", "de/dad/a22814.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
-    [ "Register", "de/dad/a22814.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
+    [ "OnPeriodic", "de/dad/a22814.html#a165d47b116b0a53e37b05f664960e6ec", null ],
+    [ "PrepareAuraScript", "de/dad/a22814.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
+    [ "Register", "de/dad/a22814.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
+    [ "Validate", "de/dad/a22814.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
 ];

@@ -1,6 +1,6 @@
 var a10134 =
 [
-    [ "AllowMount", "d0/daa/a10134.html#a611108f0c1f623bb0761a174e477df22", null ],
-    [ "Parent", "d0/daa/a10134.html#a6298c3dd0c8939b1cf228727c363918e", null ],
-    [ "ScriptId", "d0/daa/a10134.html#ac9cdaf7fc486bc89b5c5d95ac13146da", null ]
+    [ "LootValidatorRef", "d0/daa/a10134.html#acce3ced73583bf8dbf04232cddd6ebd8", null ],
+    [ "sourceObjectDestroyLink", "d0/daa/a10134.html#a8833022cf1acf786c06f1580fbe11c24", null ],
+    [ "targetObjectDestroyLink", "d0/daa/a10134.html#a93baac45dcb801215c28ac0dba097eba", null ]
 ];

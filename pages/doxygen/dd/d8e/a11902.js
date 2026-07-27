@@ -1,7 +1,6 @@
 var a11902 =
 [
-    [ "EffectApplyHandler", "dd/d8e/a11902.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
-    [ "Call", "dd/d8e/a11902.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
-    [ "mode", "dd/d8e/a11902.html#ac776375c5a5de321edc572c87e983193", null ],
-    [ "pEffectHandlerScript", "dd/d8e/a11902.html#acd715556a7661f688ce0de9afe62250a", null ]
+    [ "WorldObjectSpellConeTargetCheck", "dd/d8e/a11902.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
+    [ "operator()", "dd/d8e/a11902.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
+    [ "_coneAngle", "dd/d8e/a11902.html#a8f946789292320ea8b205dec5d1e1975", null ]
 ];

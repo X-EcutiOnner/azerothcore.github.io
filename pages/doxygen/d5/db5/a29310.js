@@ -1,10 +1,13 @@
 var a29310 =
 [
-    [ "SetUp", "d5/db5/a29310.html#a781aff1ceb2f4e26bcf801e9ab81bf3e", null ],
-    [ "TearDown", "d5/db5/a29310.html#a4554349a2712a018d16de6a8ae9f50ff", null ],
-    [ "PERM_A", "d5/db5/a29310.html#a4cf88cb08e4248c973e96009b7c5e225", null ],
-    [ "PERM_B", "d5/db5/a29310.html#a358884a8d08637d7358803127c87c808", null ],
-    [ "PERM_C", "d5/db5/a29310.html#a34fc88e7d7566ed4d64005535d0a3122", null ],
-    [ "rbacData", "d5/db5/a29310.html#af35ce1e4fa3d4123358a098cb5afb2af", null ],
-    [ "ROLE_R", "d5/db5/a29310.html#abe95477afdf283e406df55eac7f146cf", null ]
+    [ "AcquireMethod", "d5/db5/a29310.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
+    [ "ClassMask", "d5/db5/a29310.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
+    [ "ID", "d5/db5/a29310.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
+    [ "MinSkillLineRank", "d5/db5/a29310.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
+    [ "RaceMask", "d5/db5/a29310.html#acfd38780584b90ca40a1e1cd59605832", null ],
+    [ "SkillLine", "d5/db5/a29310.html#a0050dcf5c82f785dfc93079debe54a13", null ],
+    [ "Spell", "d5/db5/a29310.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
+    [ "SupercededBySpell", "d5/db5/a29310.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
+    [ "TrivialSkillLineRankHigh", "d5/db5/a29310.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
+    [ "TrivialSkillLineRankLow", "d5/db5/a29310.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
 ];

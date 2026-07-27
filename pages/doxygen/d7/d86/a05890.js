@@ -1,7 +1,8 @@
 var a05890 =
 [
-    [ "Finder", "d7/d86/a05890.html#a22ed3a876495c05e8db99b7cd752d898", null ],
-    [ "operator()", "d7/d86/a05890.html#a0c5997e97a65f9a59b9e9f7be8eb84c9", null ],
-    [ "idMember_", "d7/d86/a05890.html#a8f8d606fdd53a2af6d20cf30d1660686", null ],
-    [ "val_", "d7/d86/a05890.html#a89d852a64429ad8ad78872ad32173a14", null ]
+    [ "category", "d7/d86/a05890.html#a6a53b4b68647fdde65e3c2363127fc4f", null ],
+    [ "char_type", "d7/d86/a05890.html#aaecf7407fc4cff91008168377114d7cd", null ],
+    [ "ACLogSink", "d7/d86/a05890.html#a070880d742fd84b44c4614a76952e589", null ],
+    [ "write", "d7/d86/a05890.html#adad5e421ed10b296eae8b9c52f5e76f5", null ],
+    [ "callback_", "d7/d86/a05890.html#a360b91b740efaa05309725f6678eb22a", null ]
 ];

@@ -1,7 +1,7 @@
 var a13658 =
 [
-    [ "boss_kalec", "db/dde/a13658.html#a9c36e31c750e93840f30f001cdaca0da", null ],
-    [ "JustDied", "db/dde/a13658.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
-    [ "JustEngagedWith", "db/dde/a13658.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
-    [ "UpdateAI", "db/dde/a13658.html#ab55da7584fa7f545761a5bd547245747", null ]
+    [ "OnRemove", "db/dde/a13658.html#a55460c6393c165e3096c967c81136032", null ],
+    [ "PrepareAuraScript", "db/dde/a13658.html#afd4e4483f704169e6d213ced134d4c62", null ],
+    [ "Register", "db/dde/a13658.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
+    [ "Validate", "db/dde/a13658.html#af580258d287f5db6103b89d3085669bc", null ]
 ];

@@ -1,5 +1,6 @@
 var a27914 =
 [
-    [ "go_soulwellAI", "df/d2f/a27914.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
-    [ "GossipHello", "df/d2f/a27914.html#a3df147478af8930d9b6108a183e9478f", null ]
+    [ "CheckProc", "df/d2f/a27914.html#a957f8837b5613a3bfd8200ded3529c54", null ],
+    [ "PrepareAuraScript", "df/d2f/a27914.html#a37950bfd846e1c2c550a108461941a26", null ],
+    [ "Register", "df/d2f/a27914.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
 ];

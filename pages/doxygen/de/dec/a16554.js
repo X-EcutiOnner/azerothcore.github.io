@@ -1,6 +1,5 @@
 var a16554 =
 [
-    [ "FilterTargets", "de/dec/a16554.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "de/dec/a16554.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "de/dec/a16554.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "at_baltharus_plateau", "de/dec/a16554.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
+    [ "OnTrigger", "de/dec/a16554.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
 ];

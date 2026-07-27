@@ -1,6 +1,6 @@
 var a27258 =
 [
-    [ "HandleAuraApply", "d1/dfe/a27258.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "d1/dfe/a27258.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "d1/dfe/a27258.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "PrepareAuraScript", "d1/dfe/a27258.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
+    [ "Register", "d1/dfe/a27258.html#a91f4b2b8796c7efab2f622893a393619", null ],
+    [ "AuraEffectHandleModes", "d1/dfe/a27258.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
 ];

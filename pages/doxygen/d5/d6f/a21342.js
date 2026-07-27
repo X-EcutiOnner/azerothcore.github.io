@@ -1,9 +1,6 @@
 var a21342 =
 [
-    [ "npc_archmage_landalockAI", "d5/d6f/a21342.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
-    [ "GetImageEntry", "d5/d6f/a21342.html#ae09841969253c0baf72cc235b6fa058e", null ],
-    [ "JustSummoned", "d5/d6f/a21342.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
-    [ "UpdateAI", "d5/d6f/a21342.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
-    [ "_summonGUID", "d5/d6f/a21342.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
-    [ "_switchImageTimer", "d5/d6f/a21342.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
+    [ "boss_ymironAI", "d6/d6f/a21346.html", "d6/d6f/a21346" ],
+    [ "boss_ymiron", "d5/d6f/a21342.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
+    [ "GetAI", "d5/d6f/a21342.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
 ];

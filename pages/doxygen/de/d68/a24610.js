@@ -1,6 +1,8 @@
 var a24610 =
 [
-    [ "PrepareSpellScript", "de/d68/a24610.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
-    [ "RecalculateDamage", "de/d68/a24610.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
-    [ "Register", "de/d68/a24610.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
+    [ "HandleEffectApply", "de/d68/a24610.html#a9a93b47a1f24554a94e364b07f74ba55", null ],
+    [ "HandleEffectRemove", "de/d68/a24610.html#abb7f01239b5a982ded0244d781c4d856", null ],
+    [ "PrepareAuraScript", "de/d68/a24610.html#a9517667d1f79557b3ec2ef6fdfd1bc1b", null ],
+    [ "Register", "de/d68/a24610.html#ae2847d4059ad2822be5703c4d0c79bdb", null ],
+    [ "Validate", "de/d68/a24610.html#abc30fd53a7f9234755c292db533ba99c", null ]
 ];

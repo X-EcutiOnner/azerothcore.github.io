@@ -1,6 +1,5 @@
 var a18866 =
 [
-    [ "npc_captain_arnathAI", "dd/dbc/a18870.html", "dd/dbc/a18870" ],
-    [ "npc_captain_arnath", "d2/d49/a18866.html#ab96afce64a7714ea84bab932f80c9302", null ],
-    [ "GetAI", "d2/d49/a18866.html#a302ec007389e677011334d78f410207b", null ]
+    [ "achievement_neck_deep_in_vile", "d2/d49/a18866.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "d2/d49/a18866.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

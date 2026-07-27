@@ -1,7 +1,6 @@
 var a18414 =
 [
-    [ "StartMovementEvent", "d5/db7/a18414.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
-    [ "Execute", "d5/db7/a18414.html#af1a043d953bcffe9341292e85cae2f55", null ],
-    [ "_owner", "d5/db7/a18414.html#ac2f4166af128a161c471b243144856ba", null ],
-    [ "_summoner", "d5/db7/a18414.html#afe1f7bcb3569758bc075380a24527067", null ]
+    [ "ExtraRemoveEffect", "d5/db7/a18414.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
+    [ "PrepareAuraScript", "d5/db7/a18414.html#a41992ed6c23275d3a910915755b682f9", null ],
+    [ "Register", "d5/db7/a18414.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
 ];

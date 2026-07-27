@@ -1,5 +1,6 @@
 var a27882 =
 [
-    [ "go_tele_to_violet_stand", "d2/d42/a27882.html#a63350db1dfd400c565e30775378d48cc", null ],
-    [ "OnGossipHello", "d2/d42/a27882.html#a4d075584f065501a2c3be9ef82387f43", null ]
+    [ "FilterTargets", "d2/d42/a27882.html#a6224b3193474f569d09edaf29b40c2fb", null ],
+    [ "PrepareSpellScript", "d2/d42/a27882.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
+    [ "Register", "d2/d42/a27882.html#a2fab1592d19331239b1ef63045389886", null ]
 ];

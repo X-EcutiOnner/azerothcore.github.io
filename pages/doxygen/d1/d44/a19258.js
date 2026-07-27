@@ -1,6 +1,6 @@
 var a19258 =
 [
-    [ "boss_grobbulusAI", "d8/d36/a19262.html", "d8/d36/a19262" ],
-    [ "boss_grobbulus", "d1/d44/a19258.html#acf1b781e86e33a363b68354d34d3c015", null ],
-    [ "GetAI", "d1/d44/a19258.html#ae918614566a0b9979aef4e1aeaac394c", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "d8/d36/a19262.html", "d8/d36/a19262" ],
+    [ "npc_icc_skybreaker_hierophant", "d1/d44/a19258.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
+    [ "GetAI", "d1/d44/a19258.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
 ];

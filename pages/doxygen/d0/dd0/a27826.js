@@ -1,7 +1,7 @@
 var a27826 =
 [
-    [ "go_brewfest_musicAI", "d0/dd0/a27826.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
-    [ "UpdateAI", "d0/dd0/a27826.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
-    [ "_currentMusicEvent", "d0/dd0/a27826.html#ad26a0309bdd4eafce4dfa310db929357", null ],
-    [ "_events", "d0/dd0/a27826.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
+    [ "HandleApplyAura", "d0/dd0/a27826.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "d0/dd0/a27826.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "d0/dd0/a27826.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "d0/dd0/a27826.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

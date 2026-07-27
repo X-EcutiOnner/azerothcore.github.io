@@ -1,11 +1,12 @@
 var a12514 =
 [
-    [ "boss_high_interrogator_gerstahn", "d7/d82/a12514.html#afaff4a9b18a2dc433ad9cfc73cd2cc01", null ],
-    [ "JustEngagedWith", "d7/d82/a12514.html#ae8dae4df2f6c3b935382ae4ef473c55c", null ],
-    [ "Reset", "d7/d82/a12514.html#acfc4e4c44d2eca050b2bdb558729dd6f", null ],
-    [ "UpdateAI", "d7/d82/a12514.html#a5e13ecedeb376b86c91787d4f6b51db8", null ],
-    [ "_manaBurnTimer", "d7/d82/a12514.html#a0c3eb9b1aefb055f8c97d723c536d1ab", null ],
-    [ "_psychicScreamTimer", "d7/d82/a12514.html#a48508fa92aee209ea58257a1376ab7fb", null ],
-    [ "_shadowShieldTimer", "d7/d82/a12514.html#abc4c2027036e1d79b88b29883d59565e", null ],
-    [ "_shadowWordPainTimer", "d7/d82/a12514.html#aedd3fd6f34db795625835ac12c4c9bd8", null ]
+    [ "message_commandscript", "d7/d82/a12514.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
+    [ "GetCommands", "d7/d82/a12514.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
+    [ "HandleAnnounceCommand", "d7/d82/a12514.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
+    [ "HandleGMAnnounceCommand", "d7/d82/a12514.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
+    [ "HandleGMNameAnnounceCommand", "d7/d82/a12514.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
+    [ "HandleGMNotifyCommand", "d7/d82/a12514.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
+    [ "HandleNameAnnounceCommand", "d7/d82/a12514.html#a786902b70345712c6dba9f638695dd9e", null ],
+    [ "HandleNotifyCommand", "d7/d82/a12514.html#a0d53b2414931451b30abd2fe5acee1af", null ],
+    [ "HandleWhispersCommand", "d7/d82/a12514.html#a9a02c97677250136f9717968a9f47b73", null ]
 ];

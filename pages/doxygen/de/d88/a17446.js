@@ -1,6 +1,7 @@
 var a17446 =
 [
-    [ "HandlePeriodic", "de/d88/a17446.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
-    [ "PrepareAuraScript", "de/d88/a17446.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
-    [ "Register", "de/d88/a17446.html#a9753daf5cdc812e9027c1153b450686d", null ]
+    [ "HandlePeriodicTick", "de/d88/a17446.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
+    [ "PrepareAuraScript", "de/d88/a17446.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
+    [ "Register", "de/d88/a17446.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
+    [ "Validate", "de/d88/a17446.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
 ];

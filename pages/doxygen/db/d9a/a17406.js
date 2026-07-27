@@ -1,7 +1,5 @@
 var a17406 =
 [
-    [ "HandleDummy", "db/d9a/a17406.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
-    [ "PrepareSpellScript", "db/d9a/a17406.html#a3ef0564565ea49265800422c835432b0", null ],
-    [ "Register", "db/d9a/a17406.html#a7b685926a8d511397889616e97bbd563", null ],
-    [ "Validate", "db/d9a/a17406.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
+    [ "at_hor_battered_hilt_throw", "db/d9a/a17406.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
+    [ "OnTrigger", "db/d9a/a17406.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
 ];

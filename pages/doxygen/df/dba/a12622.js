@@ -1,5 +1,9 @@
 var a12622 =
 [
-    [ "at_the_beast_room", "df/dba/a12622.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
-    [ "OnTrigger", "df/dba/a12622.html#a366c5e35c4030f998404886f1526ae37", null ]
+    [ "titles_commandscript", "df/dba/a12622.html#ac088fd907013150a0508b79c99f6c2f3", null ],
+    [ "GetCommands", "df/dba/a12622.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
+    [ "HandleTitlesAddCommand", "df/dba/a12622.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
+    [ "HandleTitlesCurrentCommand", "df/dba/a12622.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
+    [ "HandleTitlesRemoveCommand", "df/dba/a12622.html#a2001bcc2eddc5688d57154f9906218e4", null ],
+    [ "HandleTitlesSetMaskCommand", "df/dba/a12622.html#a9517b10295b856779cdd067234f640c8", null ]
 ];

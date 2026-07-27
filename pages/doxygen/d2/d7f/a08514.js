@@ -1,5 +1,7 @@
 var a08514 =
 [
-    [ "PositionXYZStreamer", "d2/d7f/a08514.html#a8da1be6111bd97ef68d62d0d9d630c56", null ],
-    [ "m_pos", "d2/d7f/a08514.html#ae5db7cb3adba811c0b9483645a7f1770", null ]
+    [ "entry", "d2/d7f/a08514.html#aabf7002fbd171e7f1832be5f066dbe44", null ],
+    [ "pos", "d2/d7f/a08514.html#aad6aa76796625075e4fcfb7d1a3eb88c", null ],
+    [ "time", "d2/d7f/a08514.html#a8a38eed04cdb2efb89e98f869e0d800d", null ],
+    [ "type", "d2/d7f/a08514.html#a40927a435b557e4c1e5c5eedbb5d5e5b", null ]
 ];

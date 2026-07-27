@@ -1,12 +1,6 @@
 var a16158 =
 [
-    [ "npc_taldaram_flamesphere", "df/d0b/a16158.html#aad7d6696b54e39c6abd27a7252353360", null ],
-    [ "DoAction", "df/d0b/a16158.html#aa79e370c1c30eccb44a46b622e2d5f2a", null ],
-    [ "IsSummonedBy", "df/d0b/a16158.html#acb232931bc181eedf4b39d5519dd45e2", null ],
-    [ "JustDied", "df/d0b/a16158.html#ae6dfff3df39257c55495707934d5d38b", null ],
-    [ "SetVictimPos", "df/d0b/a16158.html#a51f1683806095c760d4accff9e23f8b6", null ],
-    [ "UpdateAI", "df/d0b/a16158.html#a163341c0ff0f56986e2486e06e21b4b2", null ],
-    [ "instance", "df/d0b/a16158.html#afd0ff83cb5fba1fbeb85b7d600f1b1de", null ],
-    [ "moveTimer", "df/d0b/a16158.html#afe50ac59ec441ab11745ca9461158a00", null ],
-    [ "victimPos", "df/d0b/a16158.html#ae681d84f2324faf22296dcb6e08484b0", null ]
+    [ "npc_taskmaster_fizzuleAI", "d0/d1f/a16162.html", "d0/d1f/a16162" ],
+    [ "npc_taskmaster_fizzule", "df/d0b/a16158.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
+    [ "GetAI", "df/d0b/a16158.html#a6281de7424932fe6580ffefa199498d9", null ]
 ];

@@ -1,6 +1,9 @@
 var a22854 =
 [
-    [ "HandleScriptEffect", "db/d08/a22854.html#a9e42f1af6fabb7df066cc2488a831418", null ],
-    [ "PrepareSpellScript", "db/d08/a22854.html#a866496b087288a3cb8f00d4dbdb5d2ec", null ],
-    [ "Register", "db/d08/a22854.html#a0fdb5d866d714d1d3bc71c4439a7f593", null ]
+    [ "HandleAfterCast", "db/d08/a22854.html#a32928b579ef42f377e911ef27197ed61", null ],
+    [ "HandleDummy", "db/d08/a22854.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
+    [ "Load", "db/d08/a22854.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
+    [ "PrepareSpellScript", "db/d08/a22854.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
+    [ "Register", "db/d08/a22854.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
+    [ "_targetCount", "db/d08/a22854.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
 ];

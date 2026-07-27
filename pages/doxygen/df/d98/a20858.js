@@ -1,10 +1,6 @@
 var a20858 =
 [
-    [ "npc_enslaved_proto_drake", "df/d98/a20858.html#aec835fdc8b1beb270176d5341d26c265", null ],
-    [ "MovementInform", "df/d98/a20858.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
-    [ "Reset", "df/d98/a20858.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
-    [ "SetData", "df/d98/a20858.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
-    [ "UpdateAI", "df/d98/a20858.html#a252f84198df610bac44b6bd9cd80602e", null ],
-    [ "_events", "df/d98/a20858.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
-    [ "_setData", "df/d98/a20858.html#adb997badd8831dea7763eaecc93b7773", null ]
+    [ "OnPeriodic", "df/d98/a20858.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "df/d98/a20858.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "df/d98/a20858.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

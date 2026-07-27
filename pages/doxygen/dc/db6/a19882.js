@@ -1,9 +1,10 @@
 var a19882 =
 [
-    [ "CheckTargets", "dc/db6/a19882.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "dc/db6/a19882.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "dc/db6/a19882.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "dc/db6/a19882.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "dc/db6/a19882.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "dc/db6/a19882.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "npc_oculus_drakegiverAI", "dc/db6/a19882.html#a4bba380256a0ede70b8d90611249b444", null ],
+    [ "MovementInform", "dc/db6/a19882.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
+    [ "UpdateAI", "dc/db6/a19882.html#a652a8c364687d51de62356964f6f33f9", null ],
+    [ "m_pInstance", "dc/db6/a19882.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
+    [ "moved", "dc/db6/a19882.html#a069e202a84d99cd757862bd1a43b5562", null ],
+    [ "resetPosition", "dc/db6/a19882.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
+    [ "timer", "dc/db6/a19882.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
 ];

@@ -1,8 +1,24 @@
 var a10118 =
 [
-    [ "BoundaryIntersectBoundary", "d6/d82/a10118.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
-    [ "~BoundaryIntersectBoundary", "d6/d82/a10118.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
-    [ "IsWithinBoundaryArea", "d6/d82/a10118.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
-    [ "_b1", "d6/d82/a10118.html#ab0239437fa92e39d144bf3856eb347c7", null ],
-    [ "_b2", "d6/d82/a10118.html#a41e100c17db99990981293399660824c", null ]
+    [ "LootItem", "d6/d82/a10118.html#a35e11d01d30ca234c533f6bb0bdb6748", null ],
+    [ "LootItem", "d6/d82/a10118.html#a6c7ebacba676e5e109eab812546c91c2", null ],
+    [ "AddAllowedLooter", "d6/d82/a10118.html#a1912ff0623715b0e5266379fcf8d7170", null ],
+    [ "AllowedForPlayer", "d6/d82/a10118.html#a594fbfb2bdf1506dc9aa4433f1c83202", null ],
+    [ "GetAllowedLooters", "d6/d82/a10118.html#a1229224cb41005dbd8d8fa8407ced2ef", null ],
+    [ "allowedGUIDs", "d6/d82/a10118.html#a04c38e7bde56fff42ed3fdd59fa2ec3c", null ],
+    [ "conditions", "d6/d82/a10118.html#ac89b265105cce50b87fae1e75cf23b4f", null ],
+    [ "count", "d6/d82/a10118.html#a8b08275cd4e1ebabc389fc2e933b1be5", null ],
+    [ "follow_loot_rules", "d6/d82/a10118.html#a3dfa14b4a36b8750892b9cf6f3814ec9", null ],
+    [ "freeforall", "d6/d82/a10118.html#ae9f49e27fd81c235fdc2c754918f55c4", null ],
+    [ "groupid", "d6/d82/a10118.html#a25903e281fe742404fd8ddef6c3c53bd", null ],
+    [ "is_blocked", "d6/d82/a10118.html#a0e1dbe84cef1c5f3111b08f25dbb859d", null ],
+    [ "is_counted", "d6/d82/a10118.html#af50758cf8e8ad77e42197b13d849ae08", null ],
+    [ "is_looted", "d6/d82/a10118.html#a9021fa353f7538706349702498a4e778", null ],
+    [ "is_underthreshold", "d6/d82/a10118.html#a4d18c53f68ff454b7521e8afcab85b24", null ],
+    [ "itemid", "d6/d82/a10118.html#a03aad2576badecebacfb0f4658fdbf4c", null ],
+    [ "itemIndex", "d6/d82/a10118.html#a688e1b5f1a3ae5b4215b330bc2969777", null ],
+    [ "needs_quest", "d6/d82/a10118.html#a37ee3823a2144ed57f754d826fcbc093", null ],
+    [ "randomPropertyId", "d6/d82/a10118.html#a665a75643f49ee93f469b7b7bc52a928", null ],
+    [ "randomSuffix", "d6/d82/a10118.html#aec6043508b50b16f04e9b4fbf8742677", null ],
+    [ "rollWinnerGUID", "d6/d82/a10118.html#a2d10d36b949b8adc0c463912b3f04768", null ]
 ];

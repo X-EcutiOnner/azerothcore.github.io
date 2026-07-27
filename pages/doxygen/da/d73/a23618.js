@@ -1,6 +1,6 @@
 var a23618 =
 [
-    [ "npc_daranelleAI", "d4/db7/a23622.html", "d4/db7/a23622" ],
-    [ "npc_daranelle", "da/d73/a23618.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
-    [ "GetAI", "da/d73/a23618.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
+    [ "HandleHit", "da/d73/a23618.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
+    [ "PrepareSpellScript", "da/d73/a23618.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
+    [ "Register", "da/d73/a23618.html#acb1b681f587817614c2b3684585369db", null ]
 ];

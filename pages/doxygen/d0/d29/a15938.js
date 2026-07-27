@@ -1,7 +1,7 @@
 var a15938 =
 [
-    [ "npc_toogaAI", "db/d73/a15942.html", "db/d73/a15942" ],
-    [ "npc_tooga", "d0/d29/a15938.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
-    [ "GetAI", "d0/d29/a15938.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
-    [ "OnQuestAccept", "d0/d29/a15938.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
+    [ "npc_cork_gizeltonAI", "db/d73/a15942.html", "db/d73/a15942" ],
+    [ "npc_cork_gizelton", "d0/d29/a15938.html#a915aa2abc18109e7d0197863f59536f2", null ],
+    [ "GetAI", "d0/d29/a15938.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
+    [ "OnQuestAccept", "d0/d29/a15938.html#a11dc1fea0a24add451272b537298fc13", null ]
 ];

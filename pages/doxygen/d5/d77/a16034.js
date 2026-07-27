@@ -1,6 +1,6 @@
 var a16034 =
 [
-    [ "SayerEntry", "d5/d77/a16034.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
-    [ "SayTimer", "d5/d77/a16034.html#a942073f24fd12da712184243d9f098f2", null ],
-    [ "TextEntry", "d5/d77/a16034.html#a360822e4c069be6019c0a465cb2499cf", null ]
+    [ "npc_giant_spotlightAI", "d5/db0/a16038.html", "d5/db0/a16038" ],
+    [ "npc_giant_spotlight", "d5/d77/a16034.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
+    [ "GetAI", "d5/d77/a16034.html#af002a3d0194c991c1f78c720de63cfea", null ]
 ];

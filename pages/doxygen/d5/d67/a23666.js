@@ -1,6 +1,7 @@
 var a23666 =
 [
-    [ "npc_ancestral_wolfAI", "dc/d33/a23670.html", "dc/d33/a23670" ],
-    [ "npc_ancestral_wolf", "d5/d67/a23666.html#a7cadf2848a086db63792f8068ee9463d", null ],
-    [ "GetAI", "d5/d67/a23666.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
+    [ "FilterTargets", "d5/d67/a23666.html#a834163302ff10875227806d7d4945988", null ],
+    [ "HandleScriptEffect", "d5/d67/a23666.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
+    [ "PrepareSpellScript", "d5/d67/a23666.html#a079e72d57550e03956088b4be1d11422", null ],
+    [ "Register", "d5/d67/a23666.html#abd4e0f268652652d3828ba8d350de849", null ]
 ];

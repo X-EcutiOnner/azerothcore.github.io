@@ -1,9 +1,13 @@
 var a24318 =
 [
-    [ "CheckProc", "d9/d97/a24318.html#a13245a545210eed1ddfd7c49c4a43f6b", null ],
-    [ "HandleProc", "d9/d97/a24318.html#aeec6c9e949d1edc09259a55583b3bae2", null ],
-    [ "Load", "d9/d97/a24318.html#ae3ffe29eef4f803f08ab728d959f1932", null ],
-    [ "PeriodicTick", "d9/d97/a24318.html#a1621c06bce0a28a2416385563b989cbf", null ],
-    [ "PrepareAuraScript", "d9/d97/a24318.html#a79a8c2a9ef00a9c1a2bba481e9cc522f", null ],
-    [ "Register", "d9/d97/a24318.html#ad47775cc21d4d5e0c28b68c68d595a39", null ]
+    [ "npc_unkor_the_ruthlessAI", "d9/d97/a24318.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
+    [ "DamageTaken", "d9/d97/a24318.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
+    [ "HasQuestActive", "d9/d97/a24318.html#ad97ea6721dcea4058167ea327dc0c515", null ],
+    [ "JustEngagedWith", "d9/d97/a24318.html#a537225016bfeba51b607d250c0a09be5", null ],
+    [ "Reset", "d9/d97/a24318.html#a14ca75417c623d6d6e5fce50521963da", null ],
+    [ "Submit", "d9/d97/a24318.html#a26872858bfb4aeda1b4af445033995db", null ],
+    [ "UpdateAI", "d9/d97/a24318.html#a744ea41d7f9450965419085a296c8df2", null ],
+    [ "PulverizeTimer", "d9/d97/a24318.html#a43324c095d4f98b97b39b5eb86c4c783", null ],
+    [ "Submitted", "d9/d97/a24318.html#a47777bb2dd47764c9cb01dc3f3e25f39", null ],
+    [ "UnfriendlyTimer", "d9/d97/a24318.html#a21559a315c812b50b74fc22dc32a2930", null ]
 ];

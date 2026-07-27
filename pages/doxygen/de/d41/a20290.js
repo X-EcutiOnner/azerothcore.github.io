@@ -1,9 +1,8 @@
 var a20290 =
 [
-    [ "HandleEffectPeriodic", "de/d41/a20290.html#adc6e83abb52a21528c07a1d989818dcf", null ],
-    [ "OnApply", "de/d41/a20290.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
-    [ "OnRemove", "de/d41/a20290.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
-    [ "PrepareAuraScript", "de/d41/a20290.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
-    [ "Register", "de/d41/a20290.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
-    [ "Validate", "de/d41/a20290.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
+    [ "OnApply", "de/d41/a20290.html#a5aec8606684637bbdb1e819254f5d483", null ],
+    [ "OnRemove", "de/d41/a20290.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
+    [ "PrepareAuraScript", "de/d41/a20290.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
+    [ "Register", "de/d41/a20290.html#af1db6ca387cf0733ba4b9c324172d692", null ],
+    [ "Validate", "de/d41/a20290.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
 ];

@@ -1,7 +1,6 @@
 var a19658 =
 [
-    [ "HandleProc", "d5/d1a/a19658.html#a84255cd31ebaa7c70de93d569258c709", null ],
-    [ "PrepareAuraScript", "d5/d1a/a19658.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
-    [ "Register", "d5/d1a/a19658.html#a6bc166d2e1455537fa78c4223da17746", null ],
-    [ "Validate", "d5/d1a/a19658.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
+    [ "boss_thaddius_summonAI", "dd/d24/a19662.html", "dd/d24/a19662" ],
+    [ "boss_thaddius_summon", "d5/d1a/a19658.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
+    [ "GetAI", "d5/d1a/a19658.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
 ];

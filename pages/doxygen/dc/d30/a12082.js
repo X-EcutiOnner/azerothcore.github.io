@@ -1,10 +1,6 @@
 var a12082 =
 [
-    [ "WorldPacketList", "dc/d30/a12082.html#ac02e770af167d14f978954cf5ac74487", null ],
-    [ "WorldWorldTextBuilder", "dc/d30/a12082.html#ad5e85ced19572dcd5ae75caa7e50cbf6", null ],
-    [ "do_helper", "dc/d30/a12082.html#ae8b58ec72a6c87aee46e9fe693deab32", null ],
-    [ "lineFromMessage", "dc/d30/a12082.html#a3a71edb992528d81471d370ba3d8d211", null ],
-    [ "operator()", "dc/d30/a12082.html#ae08f4d73e048b351ae4326cc63278ae6", null ],
-    [ "i_args", "dc/d30/a12082.html#ac2ae2ce8dc49ce7469142383e6e097d4", null ],
-    [ "i_textId", "dc/d30/a12082.html#ab246baa9a8ce259d8190ac1c8318c75d", null ]
+    [ "EffectPeriodicHandler", "dc/d30/a12082.html#aad44956783e9c044eb92065cc62e97f6", null ],
+    [ "Call", "dc/d30/a12082.html#a938e987363972fbd58e42f19880016d8", null ],
+    [ "pEffectHandlerScript", "dc/d30/a12082.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
 ];

@@ -1,8 +1,6 @@
 var a00062 =
 [
-    [ "Vec3D", "db/d08/a30084.html", "db/d08/a30084" ],
-    [ "AaBox3D", "d3/dda/a30088.html", "d3/dda/a30088" ],
-    [ "Vec2D", "d2/de5/a30092.html", "d2/de5/a30092" ],
-    [ "Quaternion", "d4/d32/a30096.html", "d4/d32/a30096" ],
-    [ "rotate", "df/d03/a00062.html#a36f9f3de1d3e6935da68df2c6e347a4d", null ]
+    [ "CONFIG_HIGH_PRIORITY", "df/d03/a00062.html#a04727fe99a83f6b774ac1fb1b8468f3e", null ],
+    [ "CONFIG_PROCESSOR_AFFINITY", "df/d03/a00062.html#a714853b6677573f2aa289978eee5b83f", null ],
+    [ "SetProcessPriority", "df/d03/a00062.html#ac0ccc1e4fc992fb43f068cb8f6b3fd7b", null ]
 ];

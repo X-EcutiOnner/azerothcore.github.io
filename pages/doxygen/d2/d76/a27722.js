@@ -1,10 +1,8 @@
 var a27722 =
 [
-    [ "boss_emerissAI", "d2/d76/a27722.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
-    [ "DamageTaken", "d2/d76/a27722.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
-    [ "ExecuteEvent", "d2/d76/a27722.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
-    [ "JustEngagedWith", "d2/d76/a27722.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
-    [ "KilledUnit", "d2/d76/a27722.html#ad851169bc09a362137e211dd10d30a1b", null ],
-    [ "Reset", "d2/d76/a27722.html#a44dfb325c4e8413662052137edc710ef", null ],
-    [ "_stage", "d2/d76/a27722.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
+    [ "CheckProc", "d2/d76/a27722.html#a610313f5085c7c0109b5936e94de00fe", null ],
+    [ "OnProc", "d2/d76/a27722.html#ad87c4cbd332dc19be3bc8ec9982a385b", null ],
+    [ "PrepareAuraScript", "d2/d76/a27722.html#aae4d26e262f80681811c9b50c2a63642", null ],
+    [ "Register", "d2/d76/a27722.html#a8fdcd2b4489011294d9f58d5ff0beb3f", null ],
+    [ "Validate", "d2/d76/a27722.html#a00ef3cd4b2ee5739f5f7288ccbd6a1c6", null ]
 ];

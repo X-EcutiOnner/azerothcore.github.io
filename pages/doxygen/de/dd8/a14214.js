@@ -1,8 +1,8 @@
 var a14214 =
 [
-    [ "npc_zulaman_hostageAI", "d4/dbc/a14218.html", "d4/dbc/a14218" ],
-    [ "npc_zulaman_hostage", "de/dd8/a14214.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
-    [ "GetAI", "de/dd8/a14214.html#a0ae144dc154dd028b409c9d2393f890c", null ],
-    [ "OnGossipHello", "de/dd8/a14214.html#a89d68a976f916a4de2196b57ec0026b0", null ],
-    [ "OnGossipSelect", "de/dd8/a14214.html#a114f6fbfab90944fd49babcba4b48a11", null ]
+    [ "HandleHit", "de/dd8/a14214.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
+    [ "PrepareSpellScript", "de/dd8/a14214.html#a53f170244b390f7035e131fb5c79cb3f", null ],
+    [ "Register", "de/dd8/a14214.html#a248124b837cf71f7d422154db4581747", null ],
+    [ "Validate", "de/dd8/a14214.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
+    [ "_emote", "de/dd8/a14214.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
 ];

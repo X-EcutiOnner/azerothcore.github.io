@@ -1,5 +1,6 @@
 var a22110 =
 [
-    [ "go_scourge_enclosure", "d2/d50/a22110.html#a3611232cb735f336087d4d3c90f66b8d", null ],
-    [ "OnGossipHello", "d2/d50/a22110.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
+    [ "HandleDummy", "d2/d50/a22110.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
+    [ "PrepareSpellScript", "d2/d50/a22110.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
+    [ "Register", "d2/d50/a22110.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
 ];

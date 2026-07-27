@@ -1,5 +1,5 @@
 var a19226 =
 [
-    [ "PrepareSpellScript", "d5/dd3/a19226.html#a09b852666752f6adde3f9e5bb1f107bc", null ],
-    [ "Register", "d5/dd3/a19226.html#a80c3077f8f689367276e1054a6236681", null ]
+    [ "at_icc_start_blood_quickening", "d5/dd3/a19226.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
+    [ "OnTrigger", "d5/dd3/a19226.html#a814670e127b1eace6068a553b23d00f7", null ]
 ];

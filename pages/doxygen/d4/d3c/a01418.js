@@ -1,25 +1,35 @@
 var a01418 =
 [
-    [ "UpdateData", "d4/dfc/a08856.html", "d4/dfc/a08856" ],
-    [ "OBJECT_UPDATE_FLAGS", "d4/d3c/a01418.html#af1fc105a57ed0bc535d17509e4ad5e9e", [
-      [ "UPDATEFLAG_NONE", "d4/d3c/a01418.html#af1fc105a57ed0bc535d17509e4ad5e9eab3f4d8eafca6e04f6b445bedda939799", null ],
-      [ "UPDATEFLAG_SELF", "d4/d3c/a01418.html#af1fc105a57ed0bc535d17509e4ad5e9eacb59b2f7a20c57e2dc11ad4a4a74195f", null ],
-      [ "UPDATEFLAG_TRANSPORT", "d4/d3c/a01418.html#af1fc105a57ed0bc535d17509e4ad5e9ea7b800b143915d7a9ea65020153cee3ca", null ],
-      [ "UPDATEFLAG_HAS_TARGET", "d4/d3c/a01418.html#af1fc105a57ed0bc535d17509e4ad5e9eae67f7342d7c369d11cfb6d50bea094dd", null ],
-      [ "UPDATEFLAG_UNKNOWN", "d4/d3c/a01418.html#af1fc105a57ed0bc535d17509e4ad5e9eab102319844f46e52393bb89975c591f7", null ],
-      [ "UPDATEFLAG_LOWGUID", "d4/d3c/a01418.html#af1fc105a57ed0bc535d17509e4ad5e9ea65f9bb0b19a3ecbc46fbe3b4573cb15b", null ],
-      [ "UPDATEFLAG_LIVING", "d4/d3c/a01418.html#af1fc105a57ed0bc535d17509e4ad5e9ea0eedb2f7b118804bb3fe89fde52d7632", null ],
-      [ "UPDATEFLAG_STATIONARY_POSITION", "d4/d3c/a01418.html#af1fc105a57ed0bc535d17509e4ad5e9ead20e13b8389c2680af0a59dc557d4ee1", null ],
-      [ "UPDATEFLAG_VEHICLE", "d4/d3c/a01418.html#af1fc105a57ed0bc535d17509e4ad5e9ea6dfc1770c97c7c1d8433e0e12ad47c51", null ],
-      [ "UPDATEFLAG_POSITION", "d4/d3c/a01418.html#af1fc105a57ed0bc535d17509e4ad5e9ea2e4269d3be94ff8f1f715c41c060222b", null ],
-      [ "UPDATEFLAG_ROTATION", "d4/d3c/a01418.html#af1fc105a57ed0bc535d17509e4ad5e9ea2a1fa785627688900bcc7bb221f1462a", null ]
+    [ "CreatureAI", "db/de2/a06562.html", "db/de2/a06562" ],
+    [ "TIME_INTERVAL_LOOK", "d4/d3c/a01418.html#a8de08a341cdd207e19eef425c2f5f152", null ],
+    [ "VISIBILITY_RANGE", "d4/d3c/a01418.html#a5548091cca58d569e4226b6915ec8cb2", null ],
+    [ "CreatureBoundary", "d4/d3c/a01418.html#a7994a32cb10f6de9d90e32ef2d6c1f37", null ],
+    [ "Permitions", "d4/d3c/a01418.html#adf806592547de59418c6070d69c5efb9", [
+      [ "PERMIT_BASE_NO", "d4/d3c/a01418.html#adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0", null ],
+      [ "PERMIT_BASE_IDLE", "d4/d3c/a01418.html#adf806592547de59418c6070d69c5efb9aa30fb6bbae2f275b7c269df6b7bac2c0", null ],
+      [ "PERMIT_BASE_REACTIVE", "d4/d3c/a01418.html#adf806592547de59418c6070d69c5efb9a8781eb0d588151b618bd98b03423dc58", null ],
+      [ "PERMIT_BASE_PROACTIVE", "d4/d3c/a01418.html#adf806592547de59418c6070d69c5efb9a06a019c60b174cae59e682299512d78c", null ],
+      [ "PERMIT_BASE_FACTION_SPECIFIC", "d4/d3c/a01418.html#adf806592547de59418c6070d69c5efb9a9935ee057ed82483ff6a6363709db059", null ],
+      [ "PERMIT_BASE_SPECIAL", "d4/d3c/a01418.html#adf806592547de59418c6070d69c5efb9a01dc7d3add2acacf44721592378df415", null ]
     ] ],
-    [ "OBJECT_UPDATE_TYPE", "d4/d3c/a01418.html#aa0f2952f4b375c0e91f5276ff267cbad", [
-      [ "UPDATETYPE_VALUES", "d4/d3c/a01418.html#aa0f2952f4b375c0e91f5276ff267cbada1fc033f630eab16bbf5b7ce7938d7bef", null ],
-      [ "UPDATETYPE_MOVEMENT", "d4/d3c/a01418.html#aa0f2952f4b375c0e91f5276ff267cbadac08838cdcba5218c53ea7745f5c0c370", null ],
-      [ "UPDATETYPE_CREATE_OBJECT", "d4/d3c/a01418.html#aa0f2952f4b375c0e91f5276ff267cbada4dc60011a5f19dc6c7d8ef61f9b10e20", null ],
-      [ "UPDATETYPE_CREATE_OBJECT2", "d4/d3c/a01418.html#aa0f2952f4b375c0e91f5276ff267cbadaf72ecfc1f4c6b5006f7985299cc2cd8f", null ],
-      [ "UPDATETYPE_OUT_OF_RANGE_OBJECTS", "d4/d3c/a01418.html#aa0f2952f4b375c0e91f5276ff267cbada5e1317f5c975a9e3a19c37922f49e089", null ],
-      [ "UPDATETYPE_NEAR_OBJECTS", "d4/d3c/a01418.html#aa0f2952f4b375c0e91f5276ff267cbada5017763e8c136985831c2ee1583795d5", null ]
+    [ "SCEquip", "d4/d3c/a01418.html#a8561d766fce1bb059293efa6256c9717", [
+      [ "EQUIP_NO_CHANGE", "d4/d3c/a01418.html#a8561d766fce1bb059293efa6256c9717a52eb65358cd8ffabf53e7104b78e95a2", null ],
+      [ "EQUIP_UNEQUIP", "d4/d3c/a01418.html#a8561d766fce1bb059293efa6256c9717a435fadd0e5fa209afb6fd9363afbe54c", null ]
+    ] ],
+    [ "SelectEffect", "d4/d3c/a01418.html#a8b21f6463e7db78be55dee9160352869", [
+      [ "SELECT_EFFECT_DONTCARE", "d4/d3c/a01418.html#a8b21f6463e7db78be55dee9160352869a391dc42f0a158e8fdffbc0b18d9250e9", null ],
+      [ "SELECT_EFFECT_DAMAGE", "d4/d3c/a01418.html#a8b21f6463e7db78be55dee9160352869ae1b4806793cac829bda8b64d0233adae", null ],
+      [ "SELECT_EFFECT_HEALING", "d4/d3c/a01418.html#a8b21f6463e7db78be55dee9160352869a7c5e00f75a32eb7e8f1a5ea2dcb7d404", null ],
+      [ "SELECT_EFFECT_AURA", "d4/d3c/a01418.html#a8b21f6463e7db78be55dee9160352869a5e73a49eeb722bf496ce76b4448280e5", null ]
+    ] ],
+    [ "SelectTargetType", "d4/d3c/a01418.html#a09291ebbaa06245b9f65d046a8b67621", [
+      [ "SELECT_TARGET_DONTCARE", "d4/d3c/a01418.html#a09291ebbaa06245b9f65d046a8b67621a3a0e529ee20cdfb171df9e8d67f0f749", null ],
+      [ "SELECT_TARGET_SELF", "d4/d3c/a01418.html#a09291ebbaa06245b9f65d046a8b67621ae0e226db3f7e8c664ce1958c8fdc8e4a", null ],
+      [ "SELECT_TARGET_SINGLE_ENEMY", "d4/d3c/a01418.html#a09291ebbaa06245b9f65d046a8b67621a371e0b7a2a0f1bc7809a2651c1ee6261", null ],
+      [ "SELECT_TARGET_AOE_ENEMY", "d4/d3c/a01418.html#a09291ebbaa06245b9f65d046a8b67621af8f6f83b9b85f662ac5ce0dfb463daa4", null ],
+      [ "SELECT_TARGET_ANY_ENEMY", "d4/d3c/a01418.html#a09291ebbaa06245b9f65d046a8b67621a25807921690235c31bdc32b599e04508", null ],
+      [ "SELECT_TARGET_SINGLE_FRIEND", "d4/d3c/a01418.html#a09291ebbaa06245b9f65d046a8b67621a316f9dbbb2b5f3bc0667436767f540cb", null ],
+      [ "SELECT_TARGET_AOE_FRIEND", "d4/d3c/a01418.html#a09291ebbaa06245b9f65d046a8b67621a21f9e37e67ab22ebd4bec53351757e38", null ],
+      [ "SELECT_TARGET_ANY_FRIEND", "d4/d3c/a01418.html#a09291ebbaa06245b9f65d046a8b67621a0af0a125ae9df4fecd57d759643832b3", null ]
     ] ]
 ];

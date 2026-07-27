@@ -1,7 +1,6 @@
 var a16118 =
 [
-    [ "npc_ahnkahar_nerubian", "d5/d7f/a16118.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "d5/d7f/a16118.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "d5/d7f/a16118.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "d5/d7f/a16118.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "npc_aquementasAI", "de/dcc/a16122.html", "de/dcc/a16122" ],
+    [ "npc_aquementas", "d5/d7f/a16118.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "d5/d7f/a16118.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

@@ -1,7 +1,7 @@
 var a25622 =
 [
-    [ "HandleDummy", "d1/dc3/a25622.html#ae1f9429b4e5b8965c65f246e03efbaf0", null ],
-    [ "PrepareSpellScript", "d1/dc3/a25622.html#abde4e8528f1af9a595fb32741e397397", null ],
-    [ "Register", "d1/dc3/a25622.html#a3f10fa7accb675d36560ef5bb6ccb84e", null ],
-    [ "Validate", "d1/dc3/a25622.html#af1658e856195d22042de5beab1eec212", null ]
+    [ "HandleOnEffectApply", "d1/dc3/a25622.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "d1/dc3/a25622.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "d1/dc3/a25622.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "d1/dc3/a25622.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

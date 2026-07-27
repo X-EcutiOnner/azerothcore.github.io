@@ -1,7 +1,7 @@
 var a18098 =
 [
-    [ "HandleScript", "d4/d57/a18098.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "d4/d57/a18098.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "d4/d57/a18098.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "d4/d57/a18098.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "FilterTargets", "d4/d57/a18098.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "d4/d57/a18098.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "d4/d57/a18098.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "d4/d57/a18098.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

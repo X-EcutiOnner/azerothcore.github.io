@@ -1,7 +1,5 @@
 var a12862 =
 [
-    [ "HandleScript", "d2/d0d/a12862.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
-    [ "PrepareSpellScript", "d2/d0d/a12862.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
-    [ "Register", "d2/d0d/a12862.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
-    [ "Validate", "d2/d0d/a12862.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
+    [ "at_dragonspire_hall", "d2/d0d/a12862.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
+    [ "OnTrigger", "d2/d0d/a12862.html#a1a7bd95653e84b7fd436d71c162c087e", null ]
 ];

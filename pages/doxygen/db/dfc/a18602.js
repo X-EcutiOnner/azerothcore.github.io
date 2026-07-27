@@ -1,11 +1,11 @@
 var a18602 =
 [
-    [ "npc_terenas_menethilAI", "db/dfc/a18602.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
-    [ "CanAIAttack", "db/dfc/a18602.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
-    [ "DamageTaken", "db/dfc/a18602.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
-    [ "DoAction", "db/dfc/a18602.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
-    [ "EnterEvadeMode", "db/dfc/a18602.html#ada5313b34e8c20c82ac97396e54e27df", null ],
-    [ "UpdateAI", "db/dfc/a18602.html#a6210ca6e5e954d5c66d2108359efc888", null ],
-    [ "_events", "db/dfc/a18602.html#ae61e4919b99a2b9195a389992947a125", null ],
-    [ "_instance", "db/dfc/a18602.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
+    [ "NonTankLKTargetSelector", "db/dfc/a18602.html#a41c5372505c0c74e93f2c583a0259777", null ],
+    [ "operator()", "db/dfc/a18602.html#a2e496088092b9885f8e2391c2df91993", null ],
+    [ "_exclude1", "db/dfc/a18602.html#abe4e56597fa2918b15a003413887ac71", null ],
+    [ "_exclude2", "db/dfc/a18602.html#a6aa63c93c4e68998f621349760d9ab43", null ],
+    [ "_maxDist", "db/dfc/a18602.html#ac7e28c908079fbd2e1ca5374731d521e", null ],
+    [ "_playerOnly", "db/dfc/a18602.html#a5ab89af79aa4840c9a024996a848540c", null ],
+    [ "_reqLOS", "db/dfc/a18602.html#a61966d6b825f25b6bbf589676cef19f9", null ],
+    [ "_source", "db/dfc/a18602.html#a86e3ebd2425b76103df7413b5ed4af70", null ]
 ];

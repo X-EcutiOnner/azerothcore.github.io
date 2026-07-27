@@ -1,14 +1,11 @@
 var a12498 =
 [
-    [ "boss_general_angerforge", "de/db7/a12498.html#a0f65a3a8acdca0361f468538b4c8bb5e", null ],
-    [ "JustEngagedWith", "de/db7/a12498.html#a5b2e7aead30ad3c07786c616c0b2f44e", null ],
-    [ "Reset", "de/db7/a12498.html#a8f05f134eb43a6812bc2d41734d2429e", null ],
-    [ "SummonAdds", "de/db7/a12498.html#a723891cc60b4d84b29d395e4ddffff57", null ],
-    [ "SummonMedics", "de/db7/a12498.html#ac21b4424cdf3e5e336970e1f8d5aea98", null ],
-    [ "UpdateAI", "de/db7/a12498.html#ae37de4567bf4a03779a87e9d650ac1ea", null ],
-    [ "_addsTimer", "de/db7/a12498.html#a1ddffcd960d1c06ade7b6de70faeb46d", null ],
-    [ "_cleaveTimer", "de/db7/a12498.html#a47958223deb7aa97aaf331bdffd9dd2d", null ],
-    [ "_hamStringTimer", "de/db7/a12498.html#adaa360262079ea390077cea70e401da5", null ],
-    [ "_medics", "de/db7/a12498.html#ac1039c144c16e70818a199d91cace370", null ],
-    [ "_mightyBlowTimer", "de/db7/a12498.html#a7bd4ccf9648804c972dec5d7a35eaaa4", null ]
+    [ "lfg_commandscript", "de/db7/a12498.html#a90faaca821e4162e0aea40a4d98af62c", null ],
+    [ "GetCommands", "de/db7/a12498.html#a324310f9b04675c277ceae44ea09fbaf", null ],
+    [ "HandleLfgCleanCommand", "de/db7/a12498.html#a93db689dbdb97a0318d62409a863767e", null ],
+    [ "HandleLfgCooldownClearCommand", "de/db7/a12498.html#a0e399ec509b9f419b7f034cc95409f7b", null ],
+    [ "HandleLfgGroupInfoCommand", "de/db7/a12498.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
+    [ "HandleLfgOptionsCommand", "de/db7/a12498.html#a73187a97c883d8d1bb3765943dd98c39", null ],
+    [ "HandleLfgPlayerInfoCommand", "de/db7/a12498.html#acdf12aff45f16904df5724ab158e3b97", null ],
+    [ "HandleLfgQueueInfoCommand", "de/db7/a12498.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
 ];

@@ -1,7 +1,9 @@
 var a17426 =
 [
-    [ "HandleApplyAura", "de/d00/a17426.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
-    [ "PrepareSpellScript", "de/d00/a17426.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
-    [ "Register", "de/d00/a17426.html#a80638966202cb9e27d204ea621e379ef", null ],
-    [ "Validate", "de/d00/a17426.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
+    [ "FilterTargets", "de/d00/a17426.html#aefebf504286394cf3caffa566543e4a4", null ],
+    [ "FilterTargetsNext", "de/d00/a17426.html#a356b6ace97d07df22a232d2287072b5e", null ],
+    [ "PrepareSpellScript", "de/d00/a17426.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
+    [ "Register", "de/d00/a17426.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
+    [ "Unload", "de/d00/a17426.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
+    [ "targetList", "de/d00/a17426.html#a3c839185938e0b67b97f652d1d15e213", null ]
 ];

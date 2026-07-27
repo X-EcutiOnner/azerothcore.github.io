@@ -1,6 +1,9 @@
 var a11410 =
 [
-    [ "PetAbandon", "db/d8f/a11410.html#aeac05969ce6bdb41a02f7ffe56126dfd", null ],
-    [ "Read", "db/d8f/a11410.html#a58ebb244de4bd65a85f75dcc24250883", null ],
-    [ "PetGUID", "db/d8f/a11410.html#a7175c081b7cb691ceb4729c1abc5028e", null ]
+    [ "RandomRoll", "db/d8f/a11410.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
+    [ "Write", "db/d8f/a11410.html#aab5879874745603dd448a7f5084d60d4", null ],
+    [ "Max", "db/d8f/a11410.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
+    [ "Min", "db/d8f/a11410.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
+    [ "Result", "db/d8f/a11410.html#a34fd2c1d018bb292836724671163ff07", null ],
+    [ "Roller", "db/d8f/a11410.html#af02aa97826259885791d0f4afc0c1a84", null ]
 ];

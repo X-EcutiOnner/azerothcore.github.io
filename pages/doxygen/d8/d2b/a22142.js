@@ -1,15 +1,12 @@
 var a22142 =
 [
-    [ "OutdoorPvPEP", "d8/d2b/a22142.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
-    [ "BuffTeams", "d8/d2b/a22142.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
-    [ "FillInitialWorldStates", "d8/d2b/a22142.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
-    [ "HandlePlayerEnterZone", "d8/d2b/a22142.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
-    [ "HandlePlayerLeaveZone", "d8/d2b/a22142.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
-    [ "SendRemoveWorldStates", "d8/d2b/a22142.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
-    [ "SetControlledState", "d8/d2b/a22142.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
-    [ "SetupOutdoorPvP", "d8/d2b/a22142.html#acecc8126180c027cb3d685231e55d873", null ],
-    [ "Update", "d8/d2b/a22142.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
-    [ "EP_ControlsId", "d8/d2b/a22142.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
-    [ "m_AllianceTowersControlled", "d8/d2b/a22142.html#a09e5cf029656af3fc740b236596d42ee", null ],
-    [ "m_HordeTowersControlled", "d8/d2b/a22142.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
+    [ "npc_tournament_training_dummyAI", "d8/d2b/a22142.html#ab84a35b5145c74f16dfbbe020dd9a73b", null ],
+    [ "DamageTaken", "d8/d2b/a22142.html#a98c18794124922e6946a82a324410837", null ],
+    [ "EnterEvadeMode", "d8/d2b/a22142.html#a3f31d705284b0fad2f00c9210ff06646", null ],
+    [ "MoveInLineOfSight", "d8/d2b/a22142.html#a7a05c8682767f5a2d847e99eeed8e00f", null ],
+    [ "Reset", "d8/d2b/a22142.html#a7339ffe52dc789f9480afca7141a169e", null ],
+    [ "SpellHit", "d8/d2b/a22142.html#a5cd56075333fb59ddd8d4a48dc2eecdf", null ],
+    [ "UpdateAI", "d8/d2b/a22142.html#a8bba917f0e0d67cd7a0121ab71d5a419", null ],
+    [ "events", "d8/d2b/a22142.html#a77fa2ef2f15208ab8b284c71e0227fc4", null ],
+    [ "isVulnerable", "d8/d2b/a22142.html#a4a4d3029a329e6eb253bc57c5f7b2a98", null ]
 ];

@@ -1,9 +1,8 @@
 var a20118 =
 [
-    [ "boss_freya_nature_bomb", "df/de9/a20118.html#a050672942ab467557d21a930ab22827c", null ],
-    [ "Reset", "df/de9/a20118.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
-    [ "UpdateAI", "df/de9/a20118.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
-    [ "_explodeTimer", "df/de9/a20118.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
-    [ "_goGUID", "df/de9/a20118.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
-    [ "Timer", "df/de9/a20118.html#affadb797817ddf512209d1d71097baf3", null ]
+    [ "HandlePeriodic", "df/de9/a20118.html#a2724a85983561a14db8b06ae492ead55", null ],
+    [ "OnRemove", "df/de9/a20118.html#a6d0f941f30d8c850e48396fffd13768d", null ],
+    [ "PrepareAuraScript", "df/de9/a20118.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
+    [ "Register", "df/de9/a20118.html#a85270947972be9c299a642b31969ef68", null ],
+    [ "Validate", "df/de9/a20118.html#a91ebb4e69d02deb5129965f543c474d1", null ]
 ];

@@ -1,7 +1,20 @@
 var a09078 =
 [
-    [ "HealthOrderPred", "de/daa/a09078.html#ac5d0408da69ecd6415c6f4eae61d11d8", null ],
-    [ "operator()", "de/daa/a09078.html#acb5867bddd0e5107139d52ff99817f5c", null ],
-    [ "operator()", "de/daa/a09078.html#ad9cae47d98b31687958cfca56b29c213", null ],
-    [ "_ascending", "de/daa/a09078.html#a93e2e41a9849d6c2ecfffcaffa74acee", null ]
+    [ "StaticTransport", "de/daa/a09078.html#a85d28733791b54ab76af97338c83d293", null ],
+    [ "~StaticTransport", "de/daa/a09078.html#ade4493306f4ae366de36318ecb135c18", null ],
+    [ "AddPassenger", "de/daa/a09078.html#a2139a5fe8d531e332d6e12678fb3167b", null ],
+    [ "BuildUpdate", "de/daa/a09078.html#a79bfe2856ccc526b03b308158db9e8fc", null ],
+    [ "CleanupsBeforeDelete", "de/daa/a09078.html#aec75e819a3de528d282e0a1b72c3d460", null ],
+    [ "Create", "de/daa/a09078.html#a5e9c6c3a75d54314783c3b5bab48c66f", null ],
+    [ "GetPauseTime", "de/daa/a09078.html#a6be1d21626f3749b695413d9a6703823", null ],
+    [ "GetPeriod", "de/daa/a09078.html#aedf0413dbd588acf5c8646390f003060", null ],
+    [ "LoadFromDB", "de/daa/a09078.html#a6d0f5b6c6d445132cb37082d12320afd", null ],
+    [ "LoadGameObjectFromDB", "de/daa/a09078.html#a50b6b6bca35e44e246bde1c1b02b3d69", null ],
+    [ "RelocateToProgress", "de/daa/a09078.html#acf98efbbabb71e4e9f7cf0a152b33e2b", null ],
+    [ "RemovePassenger", "de/daa/a09078.html#ad4362ce7937c48ce0e5eb68ae97f789f", null ],
+    [ "SetPauseTime", "de/daa/a09078.html#aaa57cb09072c6a7f22af38055f83b3b1", null ],
+    [ "Update", "de/daa/a09078.html#aa904c077782b7760e0247c941c4e9d01", null ],
+    [ "UpdatePassengerPositions", "de/daa/a09078.html#a79c30c2463d714d8980dcfa73351b493", null ],
+    [ "UpdatePosition", "de/daa/a09078.html#a9b2661d0b90270aa97fe550b8ae27c95", null ],
+    [ "_needDoInitialRelocation", "de/daa/a09078.html#a54f37a0c74b4cc2afbebaf53ebcf2e2b", null ]
 ];

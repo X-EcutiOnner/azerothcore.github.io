@@ -1,14 +1,8 @@
 var a17386 =
 [
-    [ "boss_drakkari_colossusAI", "de/da3/a17386.html#a28594cf76c5b1977a4f70ba0c3811646", null ],
-    [ "DoAction", "de/da3/a17386.html#a8e72a38f6a605cafa2667ca585cf0761", null ],
-    [ "JustReachedHome", "de/da3/a17386.html#a93f73f204d07b4805f4a7dd240a96d13", null ],
-    [ "JustSummoned", "de/da3/a17386.html#ab58d286bb6f0ea94c2eb70e52e513ad4", null ],
-    [ "MoveInLineOfSight", "de/da3/a17386.html#ae1151f6fc9f9ca011a7d476f7d1c6927", null ],
-    [ "Reset", "de/da3/a17386.html#a5e9c6da15df58a206533a7c718056c3e", null ],
-    [ "ScheduleTasks", "de/da3/a17386.html#afefbba70f93142110dcf9d7940d91d2c", null ],
-    [ "SummonedCreatureDespawn", "de/da3/a17386.html#a58658947c4fc115ea9c1d6f1edd1332e", null ],
-    [ "SummonedCreatureDies", "de/da3/a17386.html#a59f9efbc2964eec057606d69458b4402", null ],
-    [ "UpdateAI", "de/da3/a17386.html#afc816b7d1c2705675560ddd13ecce22d", null ],
-    [ "_secondEmerge", "de/da3/a17386.html#a2e97f8f1f5c53efba04afc213f410870", null ]
+    [ "npc_hor_raging_ghoul", "de/da3/a17386.html#a733d4ad92566a13ace3427aae6696bac", null ],
+    [ "JustDied", "de/da3/a17386.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
+    [ "Reset", "de/da3/a17386.html#aad6424be7dd53b59016963cefffe40e5", null ],
+    [ "UpdateAI", "de/da3/a17386.html#af4024393b318ca702c6652e042036b26", null ],
+    [ "leaped", "de/da3/a17386.html#a69dea538a87ae47de221768b6de42315", null ]
 ];

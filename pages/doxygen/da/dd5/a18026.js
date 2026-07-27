@@ -1,7 +1,7 @@
 var a18026 =
 [
-    [ "npc_coldflameAI", "da/dd5/a18026.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "da/dd5/a18026.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "da/dd5/a18026.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "da/dd5/a18026.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "npc_gunship_boarding_leaderAI", "da/dd5/a18026.html#ac20099905fd6fddda2561b88cf077b77", null ],
+    [ "JustEngagedWith", "da/dd5/a18026.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
+    [ "UpdateAI", "da/dd5/a18026.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
+    [ "_events", "da/dd5/a18026.html#affb899bbaa288e72a48d5518367b023d", null ]
 ];

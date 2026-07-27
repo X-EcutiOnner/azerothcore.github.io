@@ -1,49 +1,5 @@
 var a08170 =
 [
-    [ "OnlineState", "d2/d8c/a08170.html#a43ab9ac10caef78cdbffa76cc5966136", [
-      [ "ONLINE_STATE_ONLINE", "d2/d8c/a08170.html#a43ab9ac10caef78cdbffa76cc5966136a07297cc3bbf383f37c988510a3a7dd42", null ],
-      [ "ONLINE_STATE_SUPPRESSED", "d2/d8c/a08170.html#a43ab9ac10caef78cdbffa76cc5966136ae9bc854a73f3ff2c3313e901e6194d3d", null ],
-      [ "ONLINE_STATE_OFFLINE", "d2/d8c/a08170.html#a43ab9ac10caef78cdbffa76cc5966136a478f5e04eb6506eb74e35b6d102431b3", null ]
-    ] ],
-    [ "TauntState", "d2/d8c/a08170.html#afde3ad95e7dc1e55650daa67128913b2", [
-      [ "TAUNT_STATE_DETAUNT", "d2/d8c/a08170.html#afde3ad95e7dc1e55650daa67128913b2a25093cfbc278cf0c973b289fc96e6adc", null ],
-      [ "TAUNT_STATE_NONE", "d2/d8c/a08170.html#afde3ad95e7dc1e55650daa67128913b2adbbbc767d9c945a1352c15448b46b814", null ],
-      [ "TAUNT_STATE_TAUNT", "d2/d8c/a08170.html#afde3ad95e7dc1e55650daa67128913b2abd016a6664098518b2c315c4ac7d3798", null ]
-    ] ],
-    [ "ThreatReference", "d2/d8c/a08170.html#aa6479b1cfc15757d4256a6adadb18d69", null ],
-    [ "~ThreatReference", "d2/d8c/a08170.html#ab7f68bbba88ab2ffb6b9f2bb9f4b9ad5", null ],
-    [ "ThreatReference", "d2/d8c/a08170.html#a99681f92a258647ae89fc3317f24c437", null ],
-    [ "AddThreat", "d2/d8c/a08170.html#aea29e619b5c5663f485040c898b93980", null ],
-    [ "ClearThreat", "d2/d8c/a08170.html#a031c33fcc3a29175602f7614b42fb6c3", null ],
-    [ "FlagsAllowFighting", "d2/d8c/a08170.html#a1b7f5a5b937f845cdce28c494709b33b", null ],
-    [ "GetOnlineState", "d2/d8c/a08170.html#a702426d7ada863b2f26b909ff12b72c1", null ],
-    [ "GetOwner", "d2/d8c/a08170.html#a4c574bfbfad1b0ca260d294240c1085f", null ],
-    [ "GetTauntState", "d2/d8c/a08170.html#aa4cdfd8d283d0afdd06e7463a592518d", null ],
-    [ "GetThreat", "d2/d8c/a08170.html#aa2816ee3da3318132494977bdc84228a", null ],
-    [ "GetVictim", "d2/d8c/a08170.html#ae30a1a5821f60c939301d753a59a6537", null ],
-    [ "HeapNotifyDecreased", "d2/d8c/a08170.html#a225a1a78da5da2d285554f067c63bc18", null ],
-    [ "HeapNotifyIncreased", "d2/d8c/a08170.html#a4223654bfa099f8cfc7040d1aaebcb80", null ],
-    [ "IsAvailable", "d2/d8c/a08170.html#aec4e69d6d9b84743d350705d3d74fed5", null ],
-    [ "IsDetaunted", "d2/d8c/a08170.html#a6737f529b5ea18201cef1983665eecb0", null ],
-    [ "IsOffline", "d2/d8c/a08170.html#a988ec221e1b0f5df54679bcdf9763907", null ],
-    [ "IsOnline", "d2/d8c/a08170.html#a8552434b31a71bef1730a266da3bd8b6", null ],
-    [ "IsSuppressed", "d2/d8c/a08170.html#a333a9178229706b9755a0f5eebb18143", null ],
-    [ "IsTaunting", "d2/d8c/a08170.html#a40e2b0455b90ef55146276d9498a7281", null ],
-    [ "ModifyThreatByPercent", "d2/d8c/a08170.html#a331c12f2fb44f6aa8698c0664bceb9e1", null ],
-    [ "operator=", "d2/d8c/a08170.html#abeef186d1e3e3a63ccf26731406f0019", null ],
-    [ "ScaleThreat", "d2/d8c/a08170.html#a3707675a0579b2fd35ebe03e739f5014", null ],
-    [ "ShouldBeOffline", "d2/d8c/a08170.html#a9185d24ff9cd735a5e504d0bf2a51f26", null ],
-    [ "ShouldBeSuppressed", "d2/d8c/a08170.html#a469279b622f405ce9049d0c13fe64b62", null ],
-    [ "UnregisterAndFree", "d2/d8c/a08170.html#a1033d7348fddc24bfd56a9b2437555d1", null ],
-    [ "UpdateOffline", "d2/d8c/a08170.html#a235cc72319c3e653b2a993eb3a947dc7", null ],
-    [ "UpdateTauntState", "d2/d8c/a08170.html#ab11a80c911e8b2dece4099347a56ce62", null ],
-    [ "CompareThreatLessThan", "d2/d8c/a08170.html#aec0e6964906625aed78a2fa2b70bcd53", null ],
-    [ "ThreatManager", "d2/d8c/a08170.html#a3ae6c5d55f39ae66627eaddd702b4cb6", null ],
-    [ "_baseAmount", "d2/d8c/a08170.html#a3b84571e5a83ab4934c9176c695fc0e6", null ],
-    [ "_mgr", "d2/d8c/a08170.html#a4daf2582acdc8cfccd18f6a1e96e3091", null ],
-    [ "_online", "d2/d8c/a08170.html#aad1e98407ab158ff4bac75b2bacfd5b5", null ],
-    [ "_owner", "d2/d8c/a08170.html#a7d9f03e6953250ea6d6999a41c59e24c", null ],
-    [ "_taunted", "d2/d8c/a08170.html#a984afbb4c0fedc24038cb87bd28b75ed", null ],
-    [ "_tempModifier", "d2/d8c/a08170.html#a117569165c1d157d2a55813fdd539bad", null ],
-    [ "_victim", "d2/d8c/a08170.html#a94122da9c97d4c8745c0a7450c8932d2", null ]
+    [ "Quest", "d2/d8c/a08170.html#aca1cbcd3319031b549c0ec6441b2c821", null ],
+    [ "QuestLevel", "d2/d8c/a08170.html#ad162701af62caac909ef9f57f68bf848", null ]
 ];

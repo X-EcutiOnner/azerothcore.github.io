@@ -1,7 +1,6 @@
 var a17462 =
 [
-    [ "HandlePeriodic", "d4/da1/a17462.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
-    [ "PrepareAuraScript", "d4/da1/a17462.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
-    [ "Register", "d4/da1/a17462.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
-    [ "Validate", "d4/da1/a17462.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
+    [ "instance_pit_of_saron_InstanceScript", "dc/d19/a17466.html", "dc/d19/a17466" ],
+    [ "instance_pit_of_saron", "d4/da1/a17462.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
+    [ "GetInstanceScript", "d4/da1/a17462.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
 ];

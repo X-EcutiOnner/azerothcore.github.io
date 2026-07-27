@@ -1,6 +1,7 @@
 var a18142 =
 [
-    [ "HandleScript", "dd/de1/a18142.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
-    [ "PrepareSpellScript", "dd/de1/a18142.html#a50560d754709e6b9ec6863142c1ffce3", null ],
-    [ "Register", "dd/de1/a18142.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
+    [ "PrepareSpellScript", "dd/de1/a18142.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
+    [ "Register", "dd/de1/a18142.html#aff4f05a5a4742a408646000b7cece38c", null ],
+    [ "RemovePassengers", "dd/de1/a18142.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
+    [ "Validate", "dd/de1/a18142.html#a2a8da9d150804f979f2313f623ad7760", null ]
 ];

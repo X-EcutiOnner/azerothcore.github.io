@@ -1,18 +1,14 @@
 var a16162 =
 [
-    [ "boss_taldaram", "d0/d1f/a16162.html#a6438d3534aca5e4a92afb3e6c6e24f73", null ],
-    [ "DamageTaken", "d0/d1f/a16162.html#a2252fef717c2da047dc2d823e70660c0", null ],
-    [ "DoAction", "d0/d1f/a16162.html#aee1cf0553e8c7ebebea4a83f2d7e6d5d", null ],
-    [ "InitializeAI", "d0/d1f/a16162.html#a3d5b4628d6fb2db91ed073b042eefdc4", null ],
-    [ "JustDied", "d0/d1f/a16162.html#a4b6c0f51fd3a2a8c00ef095eeeea785d", null ],
-    [ "JustEngagedWith", "d0/d1f/a16162.html#a07e1cb5b53906f92a1f485340aa004e5", null ],
-    [ "JustSummoned", "d0/d1f/a16162.html#a5ae9201a71fa665908f924647b262825", null ],
-    [ "KilledUnit", "d0/d1f/a16162.html#a8fe516a08547ec03e8114b07e9c87d1f", null ],
-    [ "MovementInform", "d0/d1f/a16162.html#a17ca98f742a06b1496b2216e984811d8", null ],
-    [ "OnAuraRemove", "d0/d1f/a16162.html#ab8c64f75675db04f9ed8a37939e882e4", null ],
-    [ "Reset", "d0/d1f/a16162.html#ae26fec572206d2f1f9acc229ee797496", null ],
-    [ "ScheduleCombatEvents", "d0/d1f/a16162.html#a247e5357fcdf8da8e00bef09f3568ca3", null ],
-    [ "SpellHitTarget", "d0/d1f/a16162.html#a0f228ea10a538a9ecf70b9f54d399150", null ],
-    [ "vanishDamage", "d0/d1f/a16162.html#a85d8c95320e6f1f486a39043218f0350", null ],
-    [ "victimSperePos", "d0/d1f/a16162.html#a06efb376b0d08207a0efce74770f21dc", null ]
+    [ "npc_taskmaster_fizzuleAI", "d0/d1f/a16162.html#ac792f91930c869ce919f8fd96b3fb076", null ],
+    [ "DoFriend", "d0/d1f/a16162.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
+    [ "JustEngagedWith", "d0/d1f/a16162.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
+    [ "ReceiveEmote", "d0/d1f/a16162.html#a21d0d70086f085b715a12d05fbe5d611", null ],
+    [ "Reset", "d0/d1f/a16162.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
+    [ "SpellHit", "d0/d1f/a16162.html#a4c35104935a3a6264c853a657dc42244", null ],
+    [ "UpdateAI", "d0/d1f/a16162.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
+    [ "factionNorm", "d0/d1f/a16162.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
+    [ "FlareCount", "d0/d1f/a16162.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
+    [ "IsFriend", "d0/d1f/a16162.html#ab7e6bd2e023545c73fba758267551eee", null ],
+    [ "ResetTimer", "d0/d1f/a16162.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
 ];

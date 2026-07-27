@@ -1,8 +1,6 @@
 var a19486 =
 [
-    [ "Load", "d2/ded/a19486.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
-    [ "OnRemove", "d2/ded/a19486.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
-    [ "PrepareAuraScript", "d2/ded/a19486.html#aae6c3a215b09fd2270976190600e2cc4", null ],
-    [ "Register", "d2/ded/a19486.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
-    [ "Validate", "d2/ded/a19486.html#ae4ac76269793280335d76a78e5dced91", null ]
+    [ "boss_gothikAI", "dc/db8/a19490.html", "dc/db8/a19490" ],
+    [ "boss_gothik", "d2/ded/a19486.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
+    [ "GetAI", "d2/ded/a19486.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
 ];

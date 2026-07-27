@@ -1,16 +1,7 @@
 var a05734 =
 [
-    [ "difference_type", "d1/d52/a05734.html#aeb2086c6034a734b92b3cb8d0382a293", null ],
-    [ "iterator_category", "d1/d52/a05734.html#a60f6936503d386c555d012e8763611ca", null ],
-    [ "pointer", "d1/d52/a05734.html#aa25ef6456bed8f4e599a48c7c1448363", null ],
-    [ "reference", "d1/d52/a05734.html#a95fa5b0dac0017e43bc5683fb040836d", null ],
-    [ "value_type", "d1/d52/a05734.html#ab19bfdfea57f6de2bbef93aff14481ec", null ],
-    [ "CheckedBufferOutputIterator", "d1/d52/a05734.html#a49de38fe9f4e296bcd229d486864c65e", null ],
-    [ "check", "d1/d52/a05734.html#ab8414d5a971d77718de7f610bb000443", null ],
-    [ "operator*", "d1/d52/a05734.html#a2d4635aa952b03df738046667197b6f9", null ],
-    [ "operator++", "d1/d52/a05734.html#a1bdbf99823ee46a88094480b5040211b", null ],
-    [ "operator++", "d1/d52/a05734.html#a8a72bd229fb92e389ec311142ca2a139", null ],
-    [ "remaining", "d1/d52/a05734.html#ae804b558c6912a00405070e170572407", null ],
-    [ "_buf", "d1/d52/a05734.html#abee1c6def8872acea5f34f0ae22aa467", null ],
-    [ "_end", "d1/d52/a05734.html#a83a86f648edeeaf34b01581b972b2f1d", null ]
+    [ "MetricStopWatch", "d1/d52/a05734.html#a2007207e0985949f478fdeee300ea0d5", null ],
+    [ "~MetricStopWatch", "d1/d52/a05734.html#a712b660e090531e69455096afeb60c4c", null ],
+    [ "_logger", "d1/d52/a05734.html#a3af6d8a1a621f5e39b2d691ffbe2375c", null ],
+    [ "_startTime", "d1/d52/a05734.html#a74ad62e26a4f6598c76ca5c2d928d3a2", null ]
 ];

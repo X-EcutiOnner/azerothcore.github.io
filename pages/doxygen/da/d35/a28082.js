@@ -1,12 +1,11 @@
 var a28082 =
 [
-    [ "npc_elder_clearwaterAI", "da/d35/a28082.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
-    [ "DoAction", "da/d35/a28082.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
-    [ "GetData", "da/d35/a28082.html#a077c02bf06b16439225a5cf8d83babf2", null ],
-    [ "UpdateAI", "da/d35/a28082.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
-    [ "events", "da/d35/a28082.html#a267fec22dc3d7272cae74267d0567618", null ],
-    [ "finished", "da/d35/a28082.html#af51d6abb8fc8b59d068156a4859a377e", null ],
-    [ "finishWarning", "da/d35/a28082.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
-    [ "preWarning", "da/d35/a28082.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
-    [ "startWarning", "da/d35/a28082.html#a01545211dec4338ac44304ebc7f18a97", null ]
+    [ "npc_dream_fogAI", "da/d35/a28082.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
+    [ "GetRandomUnitFromDragonThreatList", "da/d35/a28082.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
+    [ "Reset", "da/d35/a28082.html#a595eeeae54d4bf323287fc408f706ac6", null ],
+    [ "ScheduleEvents", "da/d35/a28082.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
+    [ "SetGUID", "da/d35/a28082.html#a3666423921a5405ea220ba098f3f91fe", null ],
+    [ "UpdateAI", "da/d35/a28082.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
+    [ "_dragonGUID", "da/d35/a28082.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
+    [ "_targetGUID", "da/d35/a28082.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
 ];

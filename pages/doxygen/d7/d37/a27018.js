@@ -1,6 +1,6 @@
 var a27018 =
 [
-    [ "HandleAfterCast", "d7/d37/a27018.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "d7/d37/a27018.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "d7/d37/a27018.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "HandleScriptEffect", "d7/d37/a27018.html#ab958c74ba8b40488751e5137eb0b6a66", null ],
+    [ "PrepareSpellScript", "d7/d37/a27018.html#a810fcbfe27f3c6991d1c5f599609b6f7", null ],
+    [ "Register", "d7/d37/a27018.html#a12c61c9057250f12ea50be74ba74c948", null ]
 ];

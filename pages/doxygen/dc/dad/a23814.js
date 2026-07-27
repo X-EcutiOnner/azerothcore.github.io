@@ -1,6 +1,11 @@
 var a23814 =
 [
-    [ "npc_dragonmaw_peonAI", "d2/d9c/a23818.html", "d2/d9c/a23818" ],
-    [ "npc_dragonmaw_peon", "dc/dad/a23814.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
-    [ "GetAI", "dc/dad/a23814.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
+    [ "boss_high_astromancer_solarian", "dc/dad/a23814.html#a2db48cc179539f81b55188de08a7e180", null ],
+    [ "AttackStart", "dc/dad/a23814.html#acaf94134aef553447e766a5e431c8b83", null ],
+    [ "JustDied", "dc/dad/a23814.html#a510eb2e4f0770670d6767bc2545375b7", null ],
+    [ "JustEngagedWith", "dc/dad/a23814.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
+    [ "JustSummoned", "dc/dad/a23814.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
+    [ "KilledUnit", "dc/dad/a23814.html#a561a78193615575b7e43e0f21387f1b8", null ],
+    [ "Reset", "dc/dad/a23814.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
+    [ "UpdateAI", "dc/dad/a23814.html#a07a76c34a978c31212390cf10ed3e382", null ]
 ];

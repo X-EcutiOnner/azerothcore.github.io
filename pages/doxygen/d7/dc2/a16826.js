@@ -1,6 +1,8 @@
 var a16826 =
 [
-    [ "boss_jaraxxusAI", "d5/d1b/a16830.html", "d5/d1b/a16830" ],
-    [ "boss_jaraxxus", "d7/dc2/a16826.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "d7/dc2/a16826.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "npc_announcer_toc5AI", "d5/d1b/a16830.html", "d5/d1b/a16830" ],
+    [ "npc_announcer_toc5", "d7/dc2/a16826.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
+    [ "GetAI", "d7/dc2/a16826.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
+    [ "OnGossipHello", "d7/dc2/a16826.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
+    [ "OnGossipSelect", "d7/dc2/a16826.html#a9017488c652fd75882db75914f4a2db2", null ]
 ];

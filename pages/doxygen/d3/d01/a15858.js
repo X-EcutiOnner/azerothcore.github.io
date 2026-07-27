@@ -1,6 +1,5 @@
 var a15858 =
 [
-    [ "Creature", "d3/d01/a15858.html#a77b33f8998f85808b58052079b1cab54", null ],
-    [ "TextId", "d3/d01/a15858.html#ad691f3cd40035e96547adf7528229119", null ],
-    [ "Timer", "d3/d01/a15858.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
+    [ "go_ravager_cage", "d3/d01/a15858.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "d3/d01/a15858.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

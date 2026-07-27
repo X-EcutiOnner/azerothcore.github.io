@@ -1,6 +1,7 @@
 var a22342 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "dd/de6/a22346.html", "dd/de6/a22346" ],
-    [ "instance_shadow_labyrinth", "d6/d3b/a22342.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
-    [ "GetInstanceScript", "d6/d3b/a22342.html#af9edf624413593a5cdf025dd9a1c3631", null ]
+    [ "HandleDummy", "d6/d3b/a22342.html#acdf98990ad575fec751a541cac3bcffa", null ],
+    [ "PrepareSpellScript", "d6/d3b/a22342.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
+    [ "Register", "d6/d3b/a22342.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
+    [ "Validate", "d6/d3b/a22342.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
 ];

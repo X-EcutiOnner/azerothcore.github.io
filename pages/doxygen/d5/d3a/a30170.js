@@ -1,10 +1,9 @@
 var a30170 =
 [
-    [ "attackSpeed", "d5/d3a/a30170.html#a3ed307380e02b4fd94d5270b223b3cd1", null ],
-    [ "creatureType", "d5/d3a/a30170.html#ad6fed69c6a454cb8b5dc485c9bdf2a9c", null ],
-    [ "flags1", "d5/d3a/a30170.html#aff9bcd8c0bcc91b237ae9cced99beda2", null ],
-    [ "ID", "d5/d3a/a30170.html#a44ec31a0e9a853e9e62c8c755f226853", null ],
-    [ "modelID_A", "d5/d3a/a30170.html#a137e83bf250ed8ceac7ad362044d0a55", null ],
-    [ "modelID_H", "d5/d3a/a30170.html#a0f1c32f6dbf9397eb2349ab4fb1aa8f8", null ],
-    [ "stanceSpell", "d5/d3a/a30170.html#a18f4d6a3a157eab436fa5790b6eeb520", null ]
+    [ "WDT_file", "d5/d3a/a30170.html#afa32849d31abde3cb2c9f3b558816368", null ],
+    [ "~WDT_file", "d5/d3a/a30170.html#a29bf710b8346204eb848017450afebe1", null ],
+    [ "free", "d5/d3a/a30170.html#aee6c7e1e402cf986e754753c5e8aee72", null ],
+    [ "prepareLoadedData", "d5/d3a/a30170.html#add675f96f010e67ca1df01b029c9ebfb", null ],
+    [ "main", "d5/d3a/a30170.html#a89ddf5d1527ac16a5d05790769d266b3", null ],
+    [ "mphd", "d5/d3a/a30170.html#a1d216a266e5e6390e9bd2e02c9d3c7f2", null ]
 ];

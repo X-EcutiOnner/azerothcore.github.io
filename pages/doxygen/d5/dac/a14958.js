@@ -1,18 +1,8 @@
 var a14958 =
 [
-    [ "boss_archimonde", "d5/dac/a14958.html#a25e52499f80d4c3edb4dd5cf02b95d18", null ],
-    [ "DoAction", "d5/dac/a14958.html#aba420f926ccdfc6feeb16a0e6d67267f", null ],
-    [ "DoCastDoomFire", "d5/dac/a14958.html#a409cad381c6562f44fcf8f66a5965ec4", null ],
-    [ "EnterEvadeMode", "d5/dac/a14958.html#aac09090d17c336e9935cfce7ff1c8d60", null ],
-    [ "JustEngagedWith", "d5/dac/a14958.html#a31c526a5e72c4244df101918388c777c", null ],
-    [ "JustSummoned", "d5/dac/a14958.html#a6db990f64d884f1290c77b8ec73b8fb0", null ],
-    [ "KilledUnit", "d5/dac/a14958.html#a341ab97e59cfe989572fdcceff434e4e", null ],
-    [ "Reset", "d5/dac/a14958.html#a905918f9fc654c4c1fa1aa99980d39e6", null ],
-    [ "SetGUID", "d5/dac/a14958.html#ac4246d0fd80ed0edfd39b2008a97eeca", null ],
-    [ "UnleashSoulCharge", "d5/dac/a14958.html#a93f93fe116c75a24dc15bb521b038a27", null ],
-    [ "_availableAuras", "d5/dac/a14958.html#a552869a0fd5141094a021e3aaaada051", null ],
-    [ "_availableSpells", "d5/dac/a14958.html#a388a8bafb4407e371a58d3a7d090c754", null ],
-    [ "_enraged", "d5/dac/a14958.html#a1e295ff6ae857c7a022acf967afd0de0", null ],
-    [ "_isChanneling", "d5/dac/a14958.html#ad967688caad8a6c7530bfd4709aecb06", null ],
-    [ "_wispCount", "d5/dac/a14958.html#aa2ec2fcd92ed81f76fb238af9dbad53e", null ]
+    [ "npc_love_in_air_snivel_real", "d5/dac/a14958.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
+    [ "Talk", "d5/dac/a14958.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
+    [ "UpdateAI", "d5/dac/a14958.html#a22ed25da8fe3441ef0e4183390983f40", null ],
+    [ "actionCounter", "d5/dac/a14958.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
+    [ "actionTimer", "d5/dac/a14958.html#a3bbee1ff355581772b337268775b8fbc", null ]
 ];

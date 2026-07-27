@@ -1,10 +1,9 @@
 var a29846 =
 [
-    [ "WDTFile", "df/d63/a29846.html#a10c133d9b2f8d39cb6c2b3d8c2791b78", null ],
-    [ "~WDTFile", "df/d63/a29846.html#a445fe73204fd378e2b63a83d9f5dca0a", null ],
-    [ "GetMap", "df/d63/a29846.html#aa952c5bfe52a1aa851984a7e6dc963c9", null ],
-    [ "init", "df/d63/a29846.html#a91a33f89cae35254f52e8c4f1c33e2cb", null ],
-    [ "_file", "df/d63/a29846.html#a54ab64288144b9cf4904e67bb359e524", null ],
-    [ "_wmoNames", "df/d63/a29846.html#a6ec4f95ff866585403670b620a42a857", null ],
-    [ "filename", "df/d63/a29846.html#ab3dac8623598bac1152a514a00126bf6", null ]
+    [ "CountQuestOnCreature", "df/d63/a29846.html#a4bf05b65d940e61567667d0939e177e5", null ],
+    [ "SetUp", "df/d63/a29846.html#a4788953a58bbea222cf59662b4427e72", null ],
+    [ "SimulateReload", "df/d63/a29846.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
+    [ "SimulateSpawn1Object", "df/d63/a29846.html#a82c53349ba3754a75b2c1570fe413d09", null ],
+    [ "TearDown", "df/d63/a29846.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
+    [ "creatureQuestMap", "df/d63/a29846.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
 ];

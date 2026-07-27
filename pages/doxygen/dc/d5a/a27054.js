@@ -1,9 +1,6 @@
 var a27054 =
 [
-    [ "HandleHeal", "dc/d5a/a27054.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
-    [ "Load", "dc/d5a/a27054.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
-    [ "PrepareSpellScript", "dc/d5a/a27054.html#a91eb46af707897f228e5d1bbd199a833", null ],
-    [ "Register", "dc/d5a/a27054.html#ae28f1b0c23511153eafc037cae067bc0", null ],
-    [ "firstHeal", "dc/d5a/a27054.html#a405326e6e1cd82816aef1712fdf335a0", null ],
-    [ "riptide", "dc/d5a/a27054.html#acaec32f6730bc2e04e613aa982d285bf", null ]
+    [ "CheckRequirement", "dc/d5a/a27054.html#acaae3858de4d56028e3cb4581a57450c", null ],
+    [ "PrepareSpellScript", "dc/d5a/a27054.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
+    [ "Register", "dc/d5a/a27054.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
 ];

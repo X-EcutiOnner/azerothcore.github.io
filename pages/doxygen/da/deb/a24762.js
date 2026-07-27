@@ -1,6 +1,6 @@
 var a24762 =
 [
-    [ "CheckAreaTarget", "da/deb/a24762.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
-    [ "PrepareAuraScript", "da/deb/a24762.html#afbc45652033397067a439b45afd2e90e", null ],
-    [ "Register", "da/deb/a24762.html#aa24679e1243470056f74249e1b26767d", null ]
+    [ "CalculateAmount", "da/deb/a24762.html#a8deb31d3b6244f4d8de6050c99b3192e", null ],
+    [ "PrepareAuraScript", "da/deb/a24762.html#a4090baaee0e4330d3776b5774c5c923a", null ],
+    [ "Register", "da/deb/a24762.html#a4db48f3a549a04caf746a9459b1c5640", null ]
 ];

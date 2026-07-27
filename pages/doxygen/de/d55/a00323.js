@@ -1,11 +1,16 @@
 var a00323 =
 [
-    [ "ChaseMovementGenerator< T >", "dd/d72/a10440.html", "dd/d72/a10440" ],
-    [ "FollowMovementGenerator< T >", "dd/d31/a10444.html", "dd/d31/a10444" ],
-    [ "ChaseMovementMode", "de/d55/a00323.html#af39517224af91107d618ec9d8131101d", [
-      [ "CHASE_MODE_NORMAL", "de/d55/a00323.html#af39517224af91107d618ec9d8131101dad82b9b74d55fa53dfd547c94f1a92cd3", null ],
-      [ "CHASE_MODE_BACKPEDAL", "de/d55/a00323.html#af39517224af91107d618ec9d8131101da4d0b7e85b5d121658e67d6a04c5ed0bd", null ],
-      [ "CHASE_MODE_DISTANCING", "de/d55/a00323.html#af39517224af91107d618ec9d8131101da216aafcb8ec8951233b472fa74108337", null ],
-      [ "CHASE_MODE_FANNING", "de/d55/a00323.html#af39517224af91107d618ec9d8131101dad3363c812ead03b0c7ae11cec5dfa618", null ]
-    ] ]
+    [ "MMAP::NavMeshDeleter", "db/dd7/a05302.html", "db/dd7/a05302" ],
+    [ "MMAP::NavMeshQueryDeleter", "d2/d63/a05306.html", "d2/d63/a05306" ],
+    [ "MMAP::MMapMgr", "d8/dfd/a05310.html", "d8/dfd/a05310" ],
+    [ "ManagedNavMeshQuery", "de/d55/a00323.html#aa9864ce68a669d59d8baee4cb742900b", null ],
+    [ "MMAP_LOAD_RESULT", "de/d55/a00323.html#a329271d76c3ed7ad6d255d45094b4868", [
+      [ "MMAP_LOAD_RESULT_ERROR", "de/d55/a00323.html#a329271d76c3ed7ad6d255d45094b4868a1725e868fc9dcc9ae0939b0bfcdb9d44", null ],
+      [ "MMAP_LOAD_RESULT_OK", "de/d55/a00323.html#a329271d76c3ed7ad6d255d45094b4868a9ee52933929b5bdab0f48f9efcbf451a", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "de/d55/a00323.html#a329271d76c3ed7ad6d255d45094b4868a4678f59f424bfc2185fd0e8263e07d88", null ]
+    ] ],
+    [ "dtCustomAlloc", "de/d55/a00323.html#a8c3ce5a3a39694b1e2f88333bcf5b8c7", null ],
+    [ "dtCustomFree", "de/d55/a00323.html#a2486cfb0dce2e78cd1bc4c379612e64b", null ],
+    [ "MAP_FILE_NAME_FORMAT", "de/d55/a00323.html#a1d57d156046bda88886b7488ab0b83bc", null ],
+    [ "TILE_FILE_NAME_FORMAT", "de/d55/a00323.html#a27e34ce3b8808f2aa889e5c4e623059a", null ]
 ];

@@ -1,6 +1,20 @@
 var a17986 =
 [
-    [ "npc_vengeful_shadeAI", "d3/dd4/a17990.html", "d3/dd4/a17990" ],
-    [ "npc_vengeful_shade", "da/ddf/a17986.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "da/ddf/a17986.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "npc_high_overlord_saurfang_igbAI", "da/ddf/a17986.html#a1fce8cbcb5259774c0019c19bae334d0", null ],
+    [ "AttackStart", "da/ddf/a17986.html#a7c04475d2de487a26aa3e7f58ad219e5", null ],
+    [ "CanAIAttack", "da/ddf/a17986.html#a58b5476b42ea1d249cb3795da86509db", null ],
+    [ "DamageTaken", "da/ddf/a17986.html#ae2715e5410ddf25734469594f72c7373", null ],
+    [ "DoAction", "da/ddf/a17986.html#acf222bf3f1204215918e339d57e6ee37", null ],
+    [ "EnterEvadeMode", "da/ddf/a17986.html#a8c66bcf54ba7d2c5a8d89a792e89fc8f", null ],
+    [ "JustEngagedWith", "da/ddf/a17986.html#aa98690c2c7002915c72e68f9136a9ace", null ],
+    [ "SetData", "da/ddf/a17986.html#ae3f9c7ef83cb3841f3081a5c8391ad85", null ],
+    [ "sGossipSelect", "da/ddf/a17986.html#af3f71dfd8888a9d7eccdaff50315bea1", null ],
+    [ "UpdateAI", "da/ddf/a17986.html#adf12312ee9a037b7cdbf384137a8ceb4", null ],
+    [ "_axethrowersYellCooldown", "da/ddf/a17986.html#ad98e613c8d4625687f9ab16979d21707", null ],
+    [ "_controller", "da/ddf/a17986.html#a259a8e82ed7a58f09d546fbcb317ea33", null ],
+    [ "_events", "da/ddf/a17986.html#a132fc1f697d32c76c10766c71948fe01", null ],
+    [ "_firstMageCooldown", "da/ddf/a17986.html#a984e2f3d3cf2b254717e2b4d1418216d", null ],
+    [ "_instance", "da/ddf/a17986.html#aecb488fb2e2682c107072ea66d02ea8f", null ],
+    [ "_rocketeersYellCooldown", "da/ddf/a17986.html#a0435dba6aff5287b1d10420a54a72d28", null ],
+    [ "checkTimer", "da/ddf/a17986.html#a1c610a1cf0ba5a27aeb98d51dff916fa", null ]
 ];

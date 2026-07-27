@@ -1,7 +1,14 @@
 var a15330 =
 [
-    [ "boss_kurinnaxx", "d4/d74/a15330.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
-    [ "InitializeAI", "d4/d74/a15330.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
-    [ "JustDied", "d4/d74/a15330.html#adb749c8737888a099ad7a3d58292a612", null ],
-    [ "JustEngagedWith", "d4/d74/a15330.html#a451cd7ee80b0428a199c33012562bdb3", null ]
+    [ "boss_captain_skarloc", "d4/d74/a15330.html#a196477160ab6d07dc644ddadf756a1e0", null ],
+    [ "InitializeAI", "d4/d74/a15330.html#a1c67fb99984f666b63f8f79c6783341d", null ],
+    [ "JustDied", "d4/d74/a15330.html#aca0d536010a53efdf9270146f15f9058", null ],
+    [ "JustEngagedWith", "d4/d74/a15330.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
+    [ "JustSummoned", "d4/d74/a15330.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
+    [ "KilledUnit", "d4/d74/a15330.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
+    [ "MovementInform", "d4/d74/a15330.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
+    [ "Reset", "d4/d74/a15330.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
+    [ "UpdateAI", "d4/d74/a15330.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
+    [ "_spawnedAdds", "d4/d74/a15330.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
+    [ "summons", "d4/d74/a15330.html#a83a9e5971411de1c136cbad91f73f487", null ]
 ];

@@ -1,6 +1,6 @@
 var a24314 =
 [
-    [ "CheckProc", "d7/dc1/a24314.html#a4e1d93c20d0926d3ac93c23d9c139df6", null ],
-    [ "PrepareAuraScript", "d7/dc1/a24314.html#a2e572b677ad3b754316066f3e53edbbb", null ],
-    [ "Register", "d7/dc1/a24314.html#acecdc9e5079c49b312521a65682b602a", null ]
+    [ "npc_unkor_the_ruthlessAI", "d9/d97/a24318.html", "d9/d97/a24318" ],
+    [ "npc_unkor_the_ruthless", "d7/dc1/a24314.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
+    [ "GetAI", "d7/dc1/a24314.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
 ];

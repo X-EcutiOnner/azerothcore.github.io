@@ -1,7 +1,10 @@
 var a13802 =
 [
-    [ "HandleAfterCast", "d4/d2b/a13802.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "d4/d2b/a13802.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "d4/d2b/a13802.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "d4/d2b/a13802.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "MoveDelayed", "d4/d2b/a13802.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
+    [ "Execute", "d4/d2b/a13802.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
+    [ "_o", "d4/d2b/a13802.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
+    [ "_owner", "d4/d2b/a13802.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
+    [ "_x", "d4/d2b/a13802.html#aa490d19022c27932e76af38281fe158b", null ],
+    [ "_y", "d4/d2b/a13802.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
+    [ "_z", "d4/d2b/a13802.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
 ];

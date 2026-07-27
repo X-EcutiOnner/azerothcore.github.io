@@ -1,6 +1,13 @@
 var a07878 =
 [
-    [ "value_type", "d3/d8d/a07878.html#ac51f8d3476c4a938e81dfae8656ac70b", null ],
-    [ "operator()", "d3/d8d/a07878.html#af40bcad820dec0ab0cf2758281f8a604", null ],
-    [ "operator()", "d3/d8d/a07878.html#a4d601f73c9ab190a46438f34db4e04e6", null ]
+    [ "WhoListCacheMgr", "d3/d8d/a07878.html#a2190c113c3d38bd316b17a4400c113e6", null ],
+    [ "~WhoListCacheMgr", "d3/d8d/a07878.html#ae32706d7786014e142dc1cb9ccd29d70", null ],
+    [ "WhoListCacheMgr", "d3/d8d/a07878.html#a366e452317179d647042c24c56faafa1", null ],
+    [ "WhoListCacheMgr", "d3/d8d/a07878.html#ae0358ae9260f929410f6518f89135161", null ],
+    [ "GetWhoList", "d3/d8d/a07878.html#a4dec6544342fdc5052b69dcc61148453", null ],
+    [ "instance", "d3/d8d/a07878.html#a1e8ce970e3213cd0361af303df98b387", null ],
+    [ "operator=", "d3/d8d/a07878.html#a80615aa0a66ac29765f27598e605c712", null ],
+    [ "operator=", "d3/d8d/a07878.html#ab8aff37f9e66aef40ccb794928bc001c", null ],
+    [ "Update", "d3/d8d/a07878.html#a3db2ef832cf1413fb2e565ca0d922a80", null ],
+    [ "_whoListStorage", "d3/d8d/a07878.html#a75495cb910c6de65d60a5080248e1e25", null ]
 ];

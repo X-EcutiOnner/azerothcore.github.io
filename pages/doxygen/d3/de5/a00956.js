@@ -1,4 +1,5 @@
 var a00956 =
 [
-    [ "ScriptRegistry< WorldScript >", "d3/de5/a00956.html#a4b01e55b7bd36b85062bfc12bfef108f", null ]
+    [ "WorldPackets::Combat::SetSheathed", "d9/d70/a11026.html", "d9/d70/a11026" ],
+    [ "WorldPackets::Combat::SAttackStop", "d3/dae/a11030.html", "d3/dae/a11030" ]
 ];

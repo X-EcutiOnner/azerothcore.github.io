@@ -1,7 +1,6 @@
 var a25858 =
 [
-    [ "CheckCast", "d3/d98/a25858.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
-    [ "HandleEffect", "d3/d98/a25858.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
-    [ "PrepareSpellScript", "d3/d98/a25858.html#aa63cb903e7c6037a6c08381334ccc126", null ],
-    [ "Register", "d3/d98/a25858.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
+    [ "HandleScriptEffect", "d3/d98/a25858.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
+    [ "PrepareSpellScript", "d3/d98/a25858.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
+    [ "Register", "d3/d98/a25858.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
 ];

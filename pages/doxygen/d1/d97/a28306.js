@@ -1,6 +1,5 @@
 var a28306 =
 [
-    [ "CheckCast", "d1/d97/a28306.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
-    [ "PrepareSpellScript", "d1/d97/a28306.html#aa3c18907c79309a8924a98bce41e27f1", null ],
-    [ "Register", "d1/d97/a28306.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
+    [ "go_dragonflayer_cage", "d1/d97/a28306.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "d1/d97/a28306.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

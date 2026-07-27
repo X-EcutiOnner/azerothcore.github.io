@@ -1,7 +1,7 @@
 var a19478 =
 [
-    [ "npc_eoe_wyrmrest_skytalon", "d6/ddc/a19478.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
-    [ "IsSummonedBy", "d6/ddc/a19478.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
-    [ "JustDied", "d6/ddc/a19478.html#a65df31829e801154ee20d55ad1c15721", null ],
-    [ "PassengerBoarded", "d6/ddc/a19478.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
+    [ "HandleScriptEffect", "d6/ddc/a19478.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
+    [ "PrepareSpellScript", "d6/ddc/a19478.html#a21a3175346c9b12c02205f2d33da3b86", null ],
+    [ "Register", "d6/ddc/a19478.html#af5f279ad20e9153f201262eaa7615978", null ],
+    [ "Validate", "d6/ddc/a19478.html#a635ff34619767f657778016e1eb901aa", null ]
 ];

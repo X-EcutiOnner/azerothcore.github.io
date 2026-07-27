@@ -1,5 +1,6 @@
 var a28186 =
 [
-    [ "npc_pet_trainerAI", "d8/d90/a28186.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
-    [ "sGossipSelect", "d8/d90/a28186.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
+    [ "go_heatAI", "d8/dfe/a28190.html", "d8/dfe/a28190" ],
+    [ "go_heat", "d8/d90/a28186.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
+    [ "GetAI", "d8/d90/a28186.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
 ];

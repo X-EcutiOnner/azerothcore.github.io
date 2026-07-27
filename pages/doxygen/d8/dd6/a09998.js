@@ -1,14 +1,7 @@
 var a09998 =
 [
-    [ "LootItemStorage", "d8/dd6/a09998.html#aa6ece474f05744f2ce24a9fef42734af", null ],
-    [ "~LootItemStorage", "d8/dd6/a09998.html#a36faeed6ef556fd13118c4ad34e38548", null ],
-    [ "AddNewStoredLoot", "d8/dd6/a09998.html#a4c463773b50ae1b312865fbf72dfed18", null ],
-    [ "instance", "d8/dd6/a09998.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b", null ],
-    [ "LoadStorageFromDB", "d8/dd6/a09998.html#a377c75f9d06eb246072b29d19baf2b62", null ],
-    [ "LoadStoredLoot", "d8/dd6/a09998.html#ad9804f564302d6ea4db4b84a6cbb093b", null ],
-    [ "RemoveEntryFromDB", "d8/dd6/a09998.html#a8ab68725c0525d162d325a2131db4c49", null ],
-    [ "RemoveStoredLoot", "d8/dd6/a09998.html#a414dee93f9852a64f01f9d9bf8dc8b40", null ],
-    [ "RemoveStoredLootItem", "d8/dd6/a09998.html#a6fd3f2ac820784ba51413b3781df3bcc", null ],
-    [ "RemoveStoredLootMoney", "d8/dd6/a09998.html#ab22d267a6701fedf824f801e4b703f70", null ],
-    [ "lootItemStore", "d8/dd6/a09998.html#a58ae52b9812e5752ba00d00a58eb56b0", null ]
+    [ "AddonHandler", "d8/dd6/a09998.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
+    [ "~AddonHandler", "d8/dd6/a09998.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
+    [ "BuildAddonPacket", "d8/dd6/a09998.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
+    [ "instance", "d8/dd6/a09998.html#a2925b829b803dd07e96685086357ef85", null ]
 ];

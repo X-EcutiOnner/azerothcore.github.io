@@ -1,8 +1,7 @@
 var a19802 =
 [
-    [ "brann_bronzebeardAI", "df/d43/a19806.html", "df/d43/a19806" ],
-    [ "brann_bronzebeard", "d7/d42/a19802.html#a66fd8785647896a1a5f7be041242cfd6", null ],
-    [ "GetAI", "d7/d42/a19802.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
-    [ "OnGossipHello", "d7/d42/a19802.html#a2714a2dde596db76706b8a86f97f82b8", null ],
-    [ "OnGossipSelect", "d7/d42/a19802.html#a0e0068a45012e50a9f645d393bdfe163", null ]
+    [ "HandlePull", "d7/d42/a19802.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
+    [ "PrepareSpellScript", "d7/d42/a19802.html#ac192245513e162a2842e47f5b0d64338", null ],
+    [ "Register", "d7/d42/a19802.html#af6c7a881c2fcf07461006fef63074e5e", null ],
+    [ "SelectTarget", "d7/d42/a19802.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
 ];

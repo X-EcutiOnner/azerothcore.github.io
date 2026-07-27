@@ -1,6 +1,7 @@
 var a16886 =
 [
-    [ "boss_dreadscaleAI", "d3/d58/a16890.html", "d3/d58/a16890" ],
-    [ "boss_dreadscale", "d7/d49/a16886.html#ab3276e515419303358b0ee59bc92c12e", null ],
-    [ "GetAI", "d7/d49/a16886.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
+    [ "HandleAfterHit", "d7/d49/a16886.html#a6fc446385881ddb4c94de73199649816", null ],
+    [ "PrepareSpellScript", "d7/d49/a16886.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
+    [ "Register", "d7/d49/a16886.html#aaae368b2f647aa6a56827550e50dafe1", null ],
+    [ "Validate", "d7/d49/a16886.html#ad4c84071b538b657fa1302982f8799b4", null ]
 ];

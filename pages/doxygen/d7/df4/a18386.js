@@ -1,6 +1,6 @@
 var a18386 =
 [
-    [ "HandleScript", "d7/df4/a18386.html#a038a827f7fe179ff56ab581efdf08790", null ],
-    [ "PrepareSpellScript", "d7/df4/a18386.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
-    [ "Register", "d7/df4/a18386.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
+    [ "boss_rotfaceAI", "de/d9a/a18390.html", "de/d9a/a18390" ],
+    [ "boss_rotface", "d7/df4/a18386.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "d7/df4/a18386.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

@@ -1,6 +1,6 @@
 var a24266 =
 [
-    [ "CheckTargets", "da/d9a/a24266.html#abb6ffb41731b05b868f82498b373d8b9", null ],
-    [ "PrepareSpellScript", "da/d9a/a24266.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
-    [ "Register", "da/d9a/a24266.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
+    [ "npc_kservantAI", "d2/dad/a24270.html", "d2/dad/a24270" ],
+    [ "npc_kservant", "da/d9a/a24266.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "da/d9a/a24266.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

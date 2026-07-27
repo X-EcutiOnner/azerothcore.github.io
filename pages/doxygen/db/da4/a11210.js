@@ -1,10 +1,13 @@
 var a11210 =
 [
-    [ "BuyItem", "db/da4/a11210.html#a3069d333bccadf53310ce86118b2c224", null ],
-    [ "Read", "db/da4/a11210.html#aeeda3c4a9200cfdc3372f1a3510f453b", null ],
-    [ "Count", "db/da4/a11210.html#a72fee9e84781ae2be25f9f15a2bb6de2", null ],
-    [ "Item", "db/da4/a11210.html#a07c03ec8db8e498b417b7dbabb9412b3", null ],
-    [ "Slot", "db/da4/a11210.html#a7db43e484bf82fb81ccca197c24df2d1", null ],
-    [ "Unk", "db/da4/a11210.html#aaf2b6aefb11379325b8cf9931abff638", null ],
-    [ "VendorGuid", "db/da4/a11210.html#aab9a5ff8f6f71a311e58e78b81ef7021", null ]
+    [ "GuildBankQueryResults", "db/da4/a11210.html#a8203a35b76fdc674794c5bd3c1acb9ed", null ],
+    [ "SetWithdrawalsRemaining", "db/da4/a11210.html#a52af0d2b4e092daf0719bdf325c51652", null ],
+    [ "Write", "db/da4/a11210.html#a4598c0c9d1f94c5aa0671f210e1597d4", null ],
+    [ "_withdrawalsRemainingPos", "db/da4/a11210.html#abe711cd2da225fdc73eabe2ad6bd3f5d", null ],
+    [ "FullUpdate", "db/da4/a11210.html#a42ca9b48981d7d338aecb7840c248f0f", null ],
+    [ "ItemInfo", "db/da4/a11210.html#ad799195b259f92aa4e71e1ee8fd99741", null ],
+    [ "Money", "db/da4/a11210.html#ad401eb3444f5ae50781e634e1f55eba1", null ],
+    [ "Tab", "db/da4/a11210.html#a72ac06ace5e7974d666e3fc3d626e3c0", null ],
+    [ "TabInfo", "db/da4/a11210.html#ad36f0ae1d897ef504ad9761c00db77ca", null ],
+    [ "WithdrawalsRemaining", "db/da4/a11210.html#a211288bde5a15f2d21df65acf087c7d0", null ]
 ];

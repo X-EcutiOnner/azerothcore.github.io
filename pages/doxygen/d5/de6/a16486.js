@@ -1,6 +1,7 @@
 var a16486 =
 [
-    [ "npc_living_infernoAI", "d5/de6/a16486.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "d5/de6/a16486.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "d5/de6/a16486.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "boss_sartharion_shadron", "d5/de6/a16486.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
+    [ "ExecuteEvent", "d5/de6/a16486.html#a1f1a235d4d5654e273ef821ebf962491", null ],
+    [ "Reset", "d5/de6/a16486.html#a8511eb55a486665a248d555337c25002", null ],
+    [ "SummonedCreatureDies", "d5/de6/a16486.html#a3967c70698675d2c925a1a0366bf1d00", null ]
 ];

@@ -1,14 +1,8 @@
 var a13418 =
 [
-    [ "boss_kirtonos_the_heraldAI", "d2/dd1/a13418.html#af68c553db0889c22b7b4b76c868d38e7", null ],
-    [ "DoAction", "d2/dd1/a13418.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
-    [ "EnterEvadeMode", "d2/dd1/a13418.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
-    [ "JustDied", "d2/dd1/a13418.html#a7ecf7396ebcb6f541586435996094f56", null ],
-    [ "JustEngagedWith", "d2/dd1/a13418.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
-    [ "MovementInform", "d2/dd1/a13418.html#a16379320eebb8223a79cf3927bdc507e", null ],
-    [ "UpdateAI", "d2/dd1/a13418.html#a7eedcb1416d05b95f6110751119aea02", null ],
-    [ "events", "d2/dd1/a13418.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
-    [ "events2", "d2/dd1/a13418.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
-    [ "instance", "d2/dd1/a13418.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
-    [ "TransformsCount", "d2/dd1/a13418.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
+    [ "CheckProc", "d2/dd1/a13418.html#a085f6affd2bf76fe66f9023e67725848", null ],
+    [ "HandleProc", "d2/dd1/a13418.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
+    [ "PrepareAuraScript", "d2/dd1/a13418.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
+    [ "Register", "d2/dd1/a13418.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
+    [ "Validate", "d2/dd1/a13418.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
 ];

@@ -1,7 +1,7 @@
 var a18226 =
 [
-    [ "HandleScript", "dc/d07/a18226.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
-    [ "PrepareSpellScript", "dc/d07/a18226.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
-    [ "Register", "dc/d07/a18226.html#a2278ecef3dc60082ccb8964a34e55587", null ],
-    [ "Validate", "dc/d07/a18226.html#aeee94330ee7ea9b4fd7447e642404119", null ]
+    [ "npc_coldflameAI", "dc/d07/a18226.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
+    [ "IsSummonedBy", "dc/d07/a18226.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
+    [ "UpdateAI", "dc/d07/a18226.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
+    [ "events", "dc/d07/a18226.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
 ];

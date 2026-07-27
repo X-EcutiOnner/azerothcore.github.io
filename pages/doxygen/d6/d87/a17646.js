@@ -1,6 +1,6 @@
 var a17646 =
 [
-    [ "boss_deathbringer_saurfangAI", "d0/db3/a17650.html", "d0/db3/a17650" ],
-    [ "boss_deathbringer_saurfang", "d6/d87/a17646.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
-    [ "GetAI", "d6/d87/a17646.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
+    [ "HandlePeriodic", "d6/d87/a17646.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "d6/d87/a17646.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "d6/d87/a17646.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

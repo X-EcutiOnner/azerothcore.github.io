@@ -1,4 +1,5 @@
 var a00839 =
 [
-    [ "ScriptRegistry< ConditionScript >", "df/de8/a00839.html#af6b3c804d07f366580a1a5b9dd95f5fd", null ]
+    [ "RaceMgr", "d7/d3d/a09046.html", "d7/d3d/a09046" ],
+    [ "sRaceMgr", "df/de8/a00839.html#a01771033df72a93fd53fc0caecbb5118", null ]
 ];

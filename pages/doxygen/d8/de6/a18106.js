@@ -1,7 +1,9 @@
 var a18106 =
 [
-    [ "HandleTriggerSpell", "d8/de6/a18106.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "d8/de6/a18106.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "d8/de6/a18106.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "d8/de6/a18106.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "HandleApply", "d8/de6/a18106.html#a5f23d41765ec949486094a0da45be7e8", null ],
+    [ "HandleRemove", "d8/de6/a18106.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
+    [ "Load", "d8/de6/a18106.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
+    [ "PrepareAuraScript", "d8/de6/a18106.html#aabf5fdf4578935db11e041e638fba187", null ],
+    [ "Register", "d8/de6/a18106.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
+    [ "SendClientControl", "d8/de6/a18106.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
 ];

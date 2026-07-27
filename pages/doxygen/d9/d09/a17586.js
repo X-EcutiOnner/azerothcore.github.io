@@ -1,6 +1,14 @@
 var a17586 =
 [
-    [ "PrepareSpellScript", "d9/d09/a17586.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
-    [ "Register", "d9/d09/a17586.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
-    [ "SetDest", "d9/d09/a17586.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
+    [ "boss_drakkari_colossusAI", "d9/d09/a17586.html#a28594cf76c5b1977a4f70ba0c3811646", null ],
+    [ "DoAction", "d9/d09/a17586.html#a8e72a38f6a605cafa2667ca585cf0761", null ],
+    [ "JustReachedHome", "d9/d09/a17586.html#a93f73f204d07b4805f4a7dd240a96d13", null ],
+    [ "JustSummoned", "d9/d09/a17586.html#ab58d286bb6f0ea94c2eb70e52e513ad4", null ],
+    [ "MoveInLineOfSight", "d9/d09/a17586.html#ae1151f6fc9f9ca011a7d476f7d1c6927", null ],
+    [ "Reset", "d9/d09/a17586.html#a5e9c6da15df58a206533a7c718056c3e", null ],
+    [ "ScheduleTasks", "d9/d09/a17586.html#afefbba70f93142110dcf9d7940d91d2c", null ],
+    [ "SummonedCreatureDespawn", "d9/d09/a17586.html#a58658947c4fc115ea9c1d6f1edd1332e", null ],
+    [ "SummonedCreatureDies", "d9/d09/a17586.html#a59f9efbc2964eec057606d69458b4402", null ],
+    [ "UpdateAI", "d9/d09/a17586.html#afc816b7d1c2705675560ddd13ecce22d", null ],
+    [ "_secondEmerge", "d9/d09/a17586.html#a2e97f8f1f5c53efba04afc213f410870", null ]
 ];

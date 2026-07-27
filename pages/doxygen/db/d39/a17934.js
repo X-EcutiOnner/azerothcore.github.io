@@ -1,7 +1,7 @@
 var a17934 =
 [
-    [ "HandleScript", "db/d39/a17934.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
-    [ "PrepareSpellScript", "db/d39/a17934.html#ab69926839f72ee76eba2b225aba9690c", null ],
-    [ "Register", "db/d39/a17934.html#aad8925e891d7537993f02f3bc2552fea", null ],
-    [ "SelectRandomTarget", "db/d39/a17934.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
+    [ "HandleScript", "db/d39/a17934.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
+    [ "PrepareSpellScript", "db/d39/a17934.html#a8f668b88a41585cabeace574b30b4f85", null ],
+    [ "Register", "db/d39/a17934.html#a8fae161a91fae297b99079bde218ced8", null ],
+    [ "Validate", "db/d39/a17934.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
 ];

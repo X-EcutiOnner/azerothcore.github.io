@@ -1,6 +1,9 @@
 var a15642 =
 [
-    [ "npc_injured_draeneiAI", "df/dbd/a15646.html", "df/dbd/a15646" ],
-    [ "npc_injured_draenei", "d2/de8/a15642.html#a660c0f0c4ed41d70ad0a50cde25c1d14", null ],
-    [ "GetAI", "d2/de8/a15642.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb", null ]
+    [ "npc_eye_tentacle", "d2/de8/a15642.html#a106deeb95d74597377d32e81695dc3c9", null ],
+    [ "JustDied", "d2/de8/a15642.html#aac965d97034f4f623172297e4f82647e", null ],
+    [ "JustEngagedWith", "d2/de8/a15642.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
+    [ "Reset", "d2/de8/a15642.html#a715439dfa31b4cf9df7ddd678d912108", null ],
+    [ "UpdateAI", "d2/de8/a15642.html#a48f9067f27d61e609a014669c1daedb9", null ],
+    [ "_portalGUID", "d2/de8/a15642.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
 ];

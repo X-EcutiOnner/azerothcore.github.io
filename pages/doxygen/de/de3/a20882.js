@@ -1,14 +1,8 @@
 var a20882 =
 [
-    [ "npc_massive_jormungarAI", "de/de3/a20882.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
-    [ "DoAction", "de/de3/a20882.html#a8084994ba056c907b2e487568fa7502a", null ],
-    [ "JustDied", "de/de3/a20882.html#a02b4e75227811250e2210f754e6e04f2", null ],
-    [ "JustEngagedWith", "de/de3/a20882.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
-    [ "JustReachedHome", "de/de3/a20882.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
-    [ "MoveInLineOfSight", "de/de3/a20882.html#a55c817111fab479c3abcfca8942f16e8", null ],
-    [ "Reset", "de/de3/a20882.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
-    [ "UpdateAI", "de/de3/a20882.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
-    [ "events", "de/de3/a20882.html#a92334b8178317a91a7d4336096d75f33", null ],
-    [ "m_pInstance", "de/de3/a20882.html#ad50a9852370798817fda318f71f27653", null ],
-    [ "summons", "de/de3/a20882.html#acfa84efc38b994706015e6d82fe1f653", null ]
+    [ "npc_pummeller", "de/de3/a20882.html#a0c67bf3781fde8d4580aad093bf87291", null ],
+    [ "Reset", "de/de3/a20882.html#abdb3f0984c03780aee9dd55496fc7835", null ],
+    [ "UpdateAI", "de/de3/a20882.html#a9d61c35dc7f86314c6beb581539fd55d", null ],
+    [ "_instance", "de/de3/a20882.html#a12df7fb27b7bd54d0bf60c3e5faee037", null ],
+    [ "_scheduler", "de/de3/a20882.html#abc1ba4d0e95d33fe42af1014c2e8448f", null ]
 ];

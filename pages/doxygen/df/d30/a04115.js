@@ -1,41 +1,17 @@
 var a04115 =
 [
-    [ "go_shadowforge_brazier", "db/dd8/a12604.html", "db/dd8/a12604" ],
-    [ "brd_ironhand_guardian", "d3/da7/a12608.html", "d3/da7/a12608" ],
-    [ "WaveCreature", "d8/d8d/a12612.html", "d8/d8d/a12612" ],
-    [ "at_ring_of_law", "d4/dcd/a12616.html", "d4/dcd/a12616" ],
-    [ "npc_grimstone", "d1/d72/a12620.html", "d1/d72/a12620" ],
-    [ "npc_phalanx", "d6/dbc/a12624.html", "d6/dbc/a12624" ],
-    [ "npc_rocknot", "d4/d59/a12628.html", "d4/d59/a12628" ],
-    [ "GrimstoneTexts", "df/d30/a04115.html#a0c9ac53db659fd636b9dc88ea37a3954", [
-      [ "SAY_TEXT1", "df/d30/a04115.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f", null ],
-      [ "SAY_TEXT2", "df/d30/a04115.html#a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134", null ],
-      [ "SAY_TEXT3", "df/d30/a04115.html#a0c9ac53db659fd636b9dc88ea37a3954a2ba8965d5901749a12d1480d8ac009b9", null ],
-      [ "SAY_TEXT4", "df/d30/a04115.html#a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c", null ],
-      [ "SAY_TEXT5", "df/d30/a04115.html#a0c9ac53db659fd636b9dc88ea37a3954abb8aafd7f2dbaa933f3d2c0f858cc16d", null ],
-      [ "SAY_TEXT6", "df/d30/a04115.html#a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803", null ]
+    [ "npc_daphne_stilwell", "d2/d82/a14302.html", "d2/d82/a14302" ],
+    [ "npc_daphne_stilwell::npc_daphne_stilwellAI", "de/dc7/a14306.html", "de/dc7/a14306" ],
+    [ "DaphneStilwell", "df/d30/a04115.html#a49d1cb4d511d2524f3bf3459da05a2fd", [
+      [ "SAY_DS_START", "df/d30/a04115.html#a49d1cb4d511d2524f3bf3459da05a2fdaa12c38d2f57b101a5272dde45bbf430e", null ],
+      [ "SAY_DS_DOWN_1", "df/d30/a04115.html#a49d1cb4d511d2524f3bf3459da05a2fda75bd441fc5d22c60e256684d8664aa46", null ],
+      [ "SAY_DS_DOWN_2", "df/d30/a04115.html#a49d1cb4d511d2524f3bf3459da05a2fda2fd750f4c8a0d85a69375e139be43d75", null ],
+      [ "SAY_DS_DOWN_3", "df/d30/a04115.html#a49d1cb4d511d2524f3bf3459da05a2fda14433601b23e5a16dcc971ea746d1128", null ],
+      [ "SAY_DS_PROLOGUE", "df/d30/a04115.html#a49d1cb4d511d2524f3bf3459da05a2fda402570a024e9b48018ca6b53ff7b83f8", null ],
+      [ "SPELL_SHOOT", "df/d30/a04115.html#a49d1cb4d511d2524f3bf3459da05a2fda1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "QUEST_TOME_VALOR", "df/d30/a04115.html#a49d1cb4d511d2524f3bf3459da05a2fda041a2f4b3f03948fc2f61e32e673973c", null ],
+      [ "NPC_DEFIAS_RAIDER", "df/d30/a04115.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050", null ],
+      [ "EQUIP_ID_RIFLE", "df/d30/a04115.html#a49d1cb4d511d2524f3bf3459da05a2fda31e0ac414da424f6923680055dd801d3", null ]
     ] ],
-    [ "IronhandData", "df/d30/a04115.html#a2351df48f090013a8239bcb029c39779", [
-      [ "IRONHAND_N_GROUPS", "df/d30/a04115.html#a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451", null ],
-      [ "SPELL_GOUT_OF_FLAMES", "df/d30/a04115.html#a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a", null ]
-    ] ],
-    [ "PhalanxSpells", "df/d30/a04115.html#a4e5bf673237e04bd7162baff3a0cec21", [
-      [ "SPELL_THUNDERCLAP", "df/d30/a04115.html#a4e5bf673237e04bd7162baff3a0cec21a7f4e66bb0a1b5b2705975420f645b16e", null ],
-      [ "SPELL_FIREBALLVOLLEY", "df/d30/a04115.html#a4e5bf673237e04bd7162baff3a0cec21a725c2e5b9167c2cb646bf3e8c31492df", null ],
-      [ "SPELL_MIGHTYBLOW", "df/d30/a04115.html#a4e5bf673237e04bd7162baff3a0cec21a16caf5a86b691c031c87f3f5ea65a251", null ]
-    ] ],
-    [ "RocknotQuests", "df/d30/a04115.html#a6b0d084d8af18bd5f9b8b009e51137db", [
-      [ "QUEST_ALE", "df/d30/a04115.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a", null ]
-    ] ],
-    [ "RocknotSays", "df/d30/a04115.html#a0fcf46ec361ec3eb9f40c6701294d8e0", [
-      [ "SAY_GOT_BEER", "df/d30/a04115.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22", null ]
-    ] ],
-    [ "RocknotSpells", "df/d30/a04115.html#aecb1fc71fc0abbbddedbf095e934edb4", [
-      [ "SPELL_DRUNKEN_RAGE", "df/d30/a04115.html#aecb1fc71fc0abbbddedbf095e934edb4a4523bad97d4b588a1cf849bee5a67125", null ]
-    ] ],
-    [ "AddSC_blackrock_depths", "df/d30/a04115.html#a2070b23fe45e3ac60f1b2db9b07efb22", null ],
-    [ "IRONHAND_FLAMES_TIMER", "df/d30/a04115.html#aaeadf68886d098aa12fbc52043317c2c", null ],
-    [ "IRONHAND_FLAMES_TIMER_RAND", "df/d30/a04115.html#a66b9acb193a7b1cc44113a9db0539905", null ],
-    [ "RingBoss", "df/d30/a04115.html#af2fce71fa3dcd5348828dd274e1872ec", null ],
-    [ "RingMobs", "df/d30/a04115.html#a26123366b238dd51ab03de9e763db822", null ]
+    [ "AddSC_westfall", "df/d30/a04115.html#a9c6e961944f462fc3c48a6400c76266c", null ]
 ];

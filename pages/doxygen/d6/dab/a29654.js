@@ -1,10 +1,8 @@
 var a29654 =
 [
-    [ "plane", "d6/de0/a29662.html", "d6/de0/a29662" ],
-    [ "prepareLoadedData", "d6/dab/a29654.html#a29dc30be1cb7f5439e023865ff5a4853", null ],
-    [ "fcc", "d6/dab/a29654.html#a8c64958fb4e18bc3bcfaf7dbfde9f178", null ],
-    [ "fcc_txt", "d6/dab/a29654.html#ab768fb1ba27812060cf2edeb5f4b876c", null ],
-    [ "max", "d6/dab/a29654.html#afadebfc1361985b6f5d45c27e22cb303", null ],
-    [ "min", "d6/dab/a29654.html#ac3ebf1557841088ef8912b68fe6df908", null ],
-    [ "size", "d6/dab/a29654.html#af92420cfd862486c73c35ac8a9f9fdee", null ]
+    [ "bp0", "d6/dab/a29654.html#ada8e047c960181610ff1942cbdfa2e27", null ],
+    [ "bp1", "d6/dab/a29654.html#aaf81afde542db481bde1e26fcc21b945", null ],
+    [ "bp2", "d6/dab/a29654.html#a36b28d1bc821bfd3970b6af0f38a9f10", null ],
+    [ "spellId", "d6/dab/a29654.html#a3f8e88d4761c5247c2cb9bff94d548aa", null ],
+    [ "triggered", "d6/dab/a29654.html#a0ee8feba0856c5497612e15128ba8273", null ]
 ];

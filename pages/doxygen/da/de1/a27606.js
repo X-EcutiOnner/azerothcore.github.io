@@ -1,5 +1,8 @@
 var a27606 =
 [
-    [ "achievement_bg_av_perfection", "da/de1/a27606.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "da/de1/a27606.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "CheckProc", "da/de1/a27606.html#a11d7fe14f7b3cca93578926f157ef0d5", null ],
+    [ "HandleProc", "da/de1/a27606.html#ac18d7286dd26ebbb868e01d17a412124", null ],
+    [ "PrepareAuraScript", "da/de1/a27606.html#a8af3179c6688cfe0940bcd932f6766fa", null ],
+    [ "Register", "da/de1/a27606.html#a239b3daf5f03f5e5930c7b6712a63d8a", null ],
+    [ "Validate", "da/de1/a27606.html#a9919c0a8d284a36b3162ed435d2f7711", null ]
 ];

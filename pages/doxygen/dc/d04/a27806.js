@@ -1,6 +1,7 @@
 var a27806 =
 [
-    [ "go_bear_trapAI", "d0/d7f/a27810.html", "d0/d7f/a27810" ],
-    [ "go_bear_trap", "dc/d04/a27806.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
-    [ "GetAI", "dc/d04/a27806.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
+    [ "HandleProc", "dc/d04/a27806.html#a28f109c403d3bb46dd4f9c18057cfcd9", null ],
+    [ "PrepareAuraScript", "dc/d04/a27806.html#a0eb7295583f2c45c88ae266d66813b5b", null ],
+    [ "Register", "dc/d04/a27806.html#ab8848a011ec8397bc5712ced54e09432", null ],
+    [ "Validate", "dc/d04/a27806.html#ae35703b7d676fde170241dd64c3c5411", null ]
 ];

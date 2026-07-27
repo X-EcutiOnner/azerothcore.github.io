@@ -1,7 +1,6 @@
 var a10814 =
 [
-    [ "ClientPacket", "df/d90/a10814.html#aa1d1946c07e248bae5927e83fdad9500", null ],
-    [ "ClientPacket", "df/d90/a10814.html#a1cdaaacca2695c4366647c7611073ff0", null ],
-    [ "GetOpcode", "df/d90/a10814.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
-    [ "Write", "df/d90/a10814.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
+    [ "LootScript", "df/d90/a10814.html#acb6898fdb67e5bdcf0de945da5ec667d", null ],
+    [ "IsDatabaseBound", "df/d90/a10814.html#ad60b605eac89be48efd339127e9cb9cd", null ],
+    [ "OnLootMoney", "df/d90/a10814.html#a56a57baead49f6815a9979b181a55375", null ]
 ];

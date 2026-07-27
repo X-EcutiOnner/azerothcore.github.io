@@ -1,6 +1,6 @@
 var a21962 =
 [
-    [ "HandleScript", "d6/d59/a21962.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
-    [ "PrepareSpellScript", "d6/d59/a21962.html#af0f5206d98dbc9de355abbeb03709c05", null ],
-    [ "Register", "d6/d59/a21962.html#a53d9d7de4922ed6509b6036921640352", null ]
+    [ "npc_lake_frogAI", "d6/dba/a21966.html", "d6/dba/a21966" ],
+    [ "npc_lake_frog", "d6/d59/a21962.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "d6/d59/a21962.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

@@ -1,7 +1,6 @@
 var a22706 =
 [
-    [ "PrepareAuraScript", "db/d6d/a22706.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "db/d6d/a22706.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "db/d6d/a22706.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "db/d6d/a22706.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "PrepareSpellScript", "db/d6d/a22706.html#abd6b61e7efbed1427b7603640ac7d474", null ],
+    [ "RecalculateDamage", "db/d6d/a22706.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
+    [ "Register", "db/d6d/a22706.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
 ];

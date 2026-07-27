@@ -1,13 +1,21 @@
 var a05850 =
 [
-    [ "Clear", "da/d81/a05850.html#adc64d35670bf0d41519cb9998d3db17e", null ],
-    [ "First", "da/d81/a05850.html#a8bbd41b304f7e69df565af75f4846bda", null ],
-    [ "GetNextGroupOccurrence", "da/d81/a05850.html#af2cb38062e4d62558d520be75b01bedb", null ],
-    [ "IsEmpty", "da/d81/a05850.html#a151898f14e9a1628ddb52b6840fcc4fc", null ],
-    [ "IsGroupQueued", "da/d81/a05850.html#ada8edd51338da19db3f282ccc6229516", null ],
-    [ "ModifyIf", "da/d81/a05850.html#a0ad5b4de404b1f8312341a28a1a58b5b", null ],
-    [ "Pop", "da/d81/a05850.html#a5f5d6b5a4a5e4ec93ff94619485736cb", null ],
-    [ "Push", "da/d81/a05850.html#aff6bc8c7fae6640b555ddb027cf0f6ab", null ],
-    [ "RemoveIf", "da/d81/a05850.html#a6efe3145679913fde4d4cc1f8cc819e6", null ],
-    [ "container", "da/d81/a05850.html#acc56bddf7e586a3a950f608efb730498", null ]
+    [ "EventProcessor", "da/d81/a05850.html#a5c430ef08365f5eeca0f3321991bfaac", null ],
+    [ "~EventProcessor", "da/d81/a05850.html#af30a066c911c3841d35854c900743b9e", null ],
+    [ "AddEvent", "da/d81/a05850.html#afd92abbbf10158540614eb615f7f2e2b", null ],
+    [ "AddEvent", "da/d81/a05850.html#a3ed0b93d52ff192098983a3e6a9c5acd", null ],
+    [ "AddEventAtOffset", "da/d81/a05850.html#a9f961ef09108513fd1ea06cf756744d3", null ],
+    [ "AddEventAtOffset", "da/d81/a05850.html#a1da0c3001bd6009d6bac25a969ed7196", null ],
+    [ "AddEventAtOffset", "da/d81/a05850.html#a1f1251ae4804bb53d8d7244d74ca6591", null ],
+    [ "AddEventAtOffset", "da/d81/a05850.html#a25566439bbb1d9de555e20380184b38f", null ],
+    [ "CalculateQueueTime", "da/d81/a05850.html#a2db97870b30361980b2d72ef806de951", null ],
+    [ "CalculateTime", "da/d81/a05850.html#a1a92f983f1dd415146c2875f80cba433", null ],
+    [ "CancelEventGroup", "da/d81/a05850.html#a29651ba6704e7908820af60ec37a2478", null ],
+    [ "HasEvents", "da/d81/a05850.html#a5f09366ac8e595f24b0c095f4127b9e7", null ],
+    [ "KillAllEvents", "da/d81/a05850.html#a15a65ecc2391f505266176cfc7f29c39", null ],
+    [ "ModifyEventTime", "da/d81/a05850.html#ad54487e1753d8ce12bdddb1358ddb0cc", null ],
+    [ "Update", "da/d81/a05850.html#a72fe67593c7684a55d27fb225ea51d05", null ],
+    [ "m_aborting", "da/d81/a05850.html#a7a1beec186648c90c112ead3cc5df064", null ],
+    [ "m_events", "da/d81/a05850.html#a168a435c77de52a151c735d3f004dbb9", null ],
+    [ "m_time", "da/d81/a05850.html#a829eb8c07982b66e98c0ca118b54aaef", null ]
 ];

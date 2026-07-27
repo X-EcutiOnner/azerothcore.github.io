@@ -1,5 +1,6 @@
 var a27926 =
 [
-    [ "go_hive_pod", "d3/df5/a27926.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
-    [ "OnGossipHello", "d3/df5/a27926.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
+    [ "AfterCheckProc", "d3/df5/a27926.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
+    [ "PrepareAuraScript", "d3/df5/a27926.html#aa184faf59edbad97ec361e66169137b9", null ],
+    [ "Register", "d3/df5/a27926.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
 ];

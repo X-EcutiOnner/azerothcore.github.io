@@ -1,9 +1,6 @@
 var a11230 =
 [
-    [ "WrapItem", "d6/de4/a11230.html#a7de705fe4ac1b4d71a6487533f40f2aa", null ],
-    [ "Read", "d6/de4/a11230.html#adcd87a65cc32bc0096b650a705de9a55", null ],
-    [ "GiftBag", "d6/de4/a11230.html#a45ebce1daa3de00eca9ff7fb352a9063", null ],
-    [ "GiftSlot", "d6/de4/a11230.html#acd6da351e2ad9108921e2d9c7b13e82b", null ],
-    [ "ItemBag", "d6/de4/a11230.html#a577a588900d74f22cfe67a1fbe82424b", null ],
-    [ "ItemSlot", "d6/de4/a11230.html#a6a4bd31c0d4b97a019caca716a79c073", null ]
+    [ "GuildBankTextQuery", "d6/de4/a11230.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
+    [ "Read", "d6/de4/a11230.html#af20bd5c8e58b891028613625fb14807d", null ],
+    [ "Tab", "d6/de4/a11230.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
 ];

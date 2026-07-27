@@ -1,7 +1,7 @@
 var a17542 =
 [
-    [ "HandleDummyTick", "de/dd5/a17542.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
-    [ "PrepareAuraScript", "de/dd5/a17542.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
-    [ "Register", "de/dd5/a17542.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
-    [ "Validate", "de/dd5/a17542.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
+    [ "HandleEffectPeriodic", "de/dd5/a17542.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
+    [ "PrepareAuraScript", "de/dd5/a17542.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
+    [ "Register", "de/dd5/a17542.html#a5a44978cec95fef30c9ea4308bda2508", null ],
+    [ "Validate", "de/dd5/a17542.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
 ];

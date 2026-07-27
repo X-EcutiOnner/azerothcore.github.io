@@ -1,7 +1,6 @@
 var a19502 =
 [
-    [ "Load", "d4/df9/a19502.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
-    [ "PrepareSpellScript", "d4/df9/a19502.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
-    [ "Register", "d4/df9/a19502.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
-    [ "SetDest", "d4/df9/a19502.html#a231a75702f4a98f51d1be45510c5d05f", null ]
+    [ "npc_gothik_triggerAI", "d3/dca/a19506.html", "d3/dca/a19506" ],
+    [ "npc_gothik_trigger", "d4/df9/a19502.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
+    [ "GetAI", "d4/df9/a19502.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
 ];

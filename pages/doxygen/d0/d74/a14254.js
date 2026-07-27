@@ -1,7 +1,7 @@
 var a14254 =
 [
-    [ "HandleEffect", "d0/d74/a14254.html#a8cda8eff109af7441d6990a236a52b80", null ],
-    [ "PrepareSpellScript", "d0/d74/a14254.html#acc2698ba702be211bef63cefa41005f4", null ],
-    [ "Register", "d0/d74/a14254.html#a5d6dccbb44a5d95055755673ad70707f", null ],
-    [ "Validate", "d0/d74/a14254.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "d0/d74/a14254.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
+    [ "Reset", "d0/d74/a14254.html#a18de805428ce0954a5fbfffbf5975342", null ],
+    [ "UpdateAI", "d0/d74/a14254.html#a48b191d0812bfe3212511a52ef0df817", null ],
+    [ "_events", "d0/d74/a14254.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
 ];

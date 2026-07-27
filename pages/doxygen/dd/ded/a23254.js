@@ -1,7 +1,6 @@
 var a23254 =
 [
-    [ "FilterTargets", "dd/ded/a23254.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
-    [ "HandleHit", "dd/ded/a23254.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
-    [ "PrepareSpellScript", "dd/ded/a23254.html#a376618b9811b2e1ec18697431094e22f", null ],
-    [ "Register", "dd/ded/a23254.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "df/dfc/a23258.html", "df/dfc/a23258" ],
+    [ "instance_serpent_shrine", "dd/ded/a23254.html#aac4fc7113307805138ba4ce4a9adff09", null ],
+    [ "GetInstanceScript", "dd/ded/a23254.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
 ];

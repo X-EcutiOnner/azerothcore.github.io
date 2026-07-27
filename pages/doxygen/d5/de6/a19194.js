@@ -1,6 +1,8 @@
 var a19194 =
 [
-    [ "boss_faerlinaAI", "d9/d8b/a19198.html", "d9/d8b/a19198" ],
-    [ "boss_faerlina", "d5/de6/a19194.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
-    [ "GetAI", "d5/de6/a19194.html#aed8214323ff5b792d9bd6aae478e7848", null ]
+    [ "CountTargets", "d5/de6/a19194.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "d5/de6/a19194.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "d5/de6/a19194.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "d5/de6/a19194.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "d5/de6/a19194.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

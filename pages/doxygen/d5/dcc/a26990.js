@@ -1,6 +1,8 @@
 var a26990 =
 [
-    [ "FilterTargets", "d5/dcc/a26990.html#ac157503562ac3ef9ddba2c358595ecc5", null ],
-    [ "PrepareSpellScript", "d5/dcc/a26990.html#af41d6353088c5565b0027265c9bd4d8b", null ],
-    [ "Register", "d5/dcc/a26990.html#a95e386af9016e598e932177cb400fd8b", null ]
+    [ "HandleEffectApply", "d5/dcc/a26990.html#aed959961fcd07649cd4914fcd38a3214", null ],
+    [ "if", "d5/dcc/a26990.html#a1518c08cb3b5cb716b8bd01692a5160d", null ],
+    [ "PrepareAuraScript", "d5/dcc/a26990.html#a42167bc6bf7992debea8582680251da4", null ],
+    [ "Register", "d5/dcc/a26990.html#aa2c23abd2b90a276bd7980cadc0397a4", null ],
+    [ "AuraEffectHandleModes", "d5/dcc/a26990.html#ac886dec8a2ce55af4ec58ab068c589fa", null ]
 ];

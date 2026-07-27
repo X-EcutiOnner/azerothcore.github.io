@@ -1,6 +1,7 @@
 var a27518 =
 [
-    [ "HandleEffectCalcSpellMod", "df/d4b/a27518.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
-    [ "PrepareAuraScript", "df/d4b/a27518.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
-    [ "Register", "df/d4b/a27518.html#af60592a9f1e595f31814eae405d03d5a", null ]
+    [ "HandleDummy", "df/d4b/a27518.html#a6990bc24605167d38772f391aa2a5376", null ],
+    [ "PrepareSpellScript", "df/d4b/a27518.html#af85da0790eb36b91266ffa45888068d6", null ],
+    [ "Register", "df/d4b/a27518.html#a619dab878b3d6e332a15d772dd148e26", null ],
+    [ "Validate", "df/d4b/a27518.html#a5a39713deabac73334442e1bdeb00aad", null ]
 ];

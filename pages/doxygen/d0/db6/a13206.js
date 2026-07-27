@@ -1,14 +1,15 @@
 var a13206 =
 [
-    [ "boss_priestess_delrissa", "d0/db6/a13206.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
-    [ "CheckInRoom", "d0/db6/a13206.html#afa963761e44412915a6d89f097f33b5d", null ],
-    [ "InitializeAI", "d0/db6/a13206.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
-    [ "JustDied", "d0/db6/a13206.html#a82d8c198f38c2aa881386e739dea6a08", null ],
-    [ "JustEngagedWith", "d0/db6/a13206.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
-    [ "JustSummoned", "d0/db6/a13206.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
-    [ "KilledUnit", "d0/db6/a13206.html#af0b41306f53c42745cce39069f446704", null ],
-    [ "Reset", "d0/db6/a13206.html#a60e39157aa3043284b2e1e032c0d9241", null ],
-    [ "SummonedCreatureDies", "d0/db6/a13206.html#a14757692ab4af5c1b5b311f059be9091", null ],
-    [ "HelpersKilled", "d0/db6/a13206.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
-    [ "PlayersKilled", "d0/db6/a13206.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
+    [ "boss_moroes", "d0/db6/a13206.html#ae477dcfd679dd7943ddd133bb0dd89df", null ],
+    [ "CheckGuestsInRoom", "d0/db6/a13206.html#ad34daa424532003e8da616aed3df6c82", null ],
+    [ "GetRandomGuest", "d0/db6/a13206.html#a73f4b3c1a3a46261cf62143f8359b55e", null ],
+    [ "InitializeGuests", "d0/db6/a13206.html#a815ca169e0787c92c09a5803007355aa", null ],
+    [ "JustDied", "d0/db6/a13206.html#a7d425d58b1e64ef174ff92e1263de544", null ],
+    [ "JustEngagedWith", "d0/db6/a13206.html#aa0bf31d8298b4ec6ce205cefd0766194", null ],
+    [ "KilledUnit", "d0/db6/a13206.html#a3d28056a0d26d426d84363fb0c4f7e4d", null ],
+    [ "Reset", "d0/db6/a13206.html#a677f2b8375981d904183dd804f4b32b8", null ],
+    [ "UpdateAI", "d0/db6/a13206.html#aa639032a49b3e9bd4209d17e0863db32", null ],
+    [ "_activeGuests", "d0/db6/a13206.html#a651f53f476f205785d596ed9d52fdb89", null ],
+    [ "_events2", "d0/db6/a13206.html#ae1c0474e0a940a803d82d3fe6d3ff37f", null ],
+    [ "_vanished", "d0/db6/a13206.html#a60d99b80815a2b2626638d6410ce64a2", null ]
 ];

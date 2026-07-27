@@ -1,5 +1,6 @@
 var a02453 =
 [
-    [ "send_commandscript", "d8/dbf/a12528.html", "d8/dbf/a12528" ],
-    [ "AddSC_send_commandscript", "d3/d27/a02453.html#a9f3fee551f6ca7aa7dad83edb2dfe480", null ]
+    [ "ChatHandler", "d0/d92/a07918.html", "d0/d92/a07918" ],
+    [ "CliHandler", "d0/d8a/a07922.html", "d0/d8a/a07922" ],
+    [ "AddonChannelCommandHandler", "dc/d3d/a07926.html", "dc/d3d/a07926" ]
 ];

@@ -1,7 +1,7 @@
 var a17626 =
 [
-    [ "OnProc", "d6/dc9/a17626.html#a5b6e96abb900da33657cdbbd137138e3", null ],
-    [ "PrepareAuraScript", "d6/dc9/a17626.html#a5502476536a923e77af67c4bbcf005e3", null ],
-    [ "Register", "d6/dc9/a17626.html#aca08edf219504156d6157c95702bb815", null ],
-    [ "Validate", "d6/dc9/a17626.html#a52b1231f37e8b3d810614365659a98b6", null ]
+    [ "HandleApplyAura", "d6/dc9/a17626.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
+    [ "PrepareSpellScript", "d6/dc9/a17626.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
+    [ "Register", "d6/dc9/a17626.html#a80638966202cb9e27d204ea621e379ef", null ],
+    [ "Validate", "d6/dc9/a17626.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
 ];

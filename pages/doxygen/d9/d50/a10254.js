@@ -1,10 +1,7 @@
 var a10254 =
 [
-    [ "ID", "d9/d50/a10254.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
-    [ "Map", "d9/d50/a10254.html#af4e60380e8434e5b8f573d2172ddf656", null ],
-    [ "name", "d9/d50/a10254.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
-    [ "wnameLow", "d9/d50/a10254.html#a148ead3270ad02213204792d6063cead", null ],
-    [ "x", "d9/d50/a10254.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
-    [ "y", "d9/d50/a10254.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
-    [ "z", "d9/d50/a10254.html#adf56d09898752230a4fa1629849ac945", null ]
+    [ "operator<", "d9/d50/a10254.html#adb62060523d8d5b11f16f3202a157f26", null ],
+    [ "respawnTime", "d9/d50/a10254.html#aaed69c7c6f9f78ecb365e233f1ff6dab", null ],
+    [ "spawnId", "d9/d50/a10254.html#a6faeab5132f3e539848ebe29cee5a5a4", null ],
+    [ "type", "d9/d50/a10254.html#a1400b212e0889c54047225ba57e95c94", null ]
 ];

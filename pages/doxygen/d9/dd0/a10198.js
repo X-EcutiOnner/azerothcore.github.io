@@ -1,7 +1,9 @@
 var a10198 =
 [
-    [ "MapPreloadRequest", "d9/dd0/a10198.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
-    [ "call", "d9/dd0/a10198.html#a688f4e2c5517c29c10c0810325211b50", null ],
-    [ "_mapId", "d9/dd0/a10198.html#aa207469ff8369f9b5559b35404d16847", null ],
-    [ "_updater", "d9/dd0/a10198.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
+    [ "RectangleBoundary", "d9/dd0/a10198.html#af401f84700a15fa1d4fcf78358a74735", null ],
+    [ "IsWithinBoundaryArea", "d9/dd0/a10198.html#a2d6c735d080382263a401d91da37b934", null ],
+    [ "_maxX", "d9/dd0/a10198.html#a3eff421dfe942634814e7526334f1c07", null ],
+    [ "_maxY", "d9/dd0/a10198.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
+    [ "_minX", "d9/dd0/a10198.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
+    [ "_minY", "d9/dd0/a10198.html#af5a7e35d5d9ff23c722643141f01a916", null ]
 ];

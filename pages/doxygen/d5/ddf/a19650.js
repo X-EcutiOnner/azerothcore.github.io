@@ -1,7 +1,6 @@
 var a19650 =
 [
-    [ "HandleProc", "d5/ddf/a19650.html#adb7714eca4c317ab76db0ecbc813669e", null ],
-    [ "PrepareAuraScript", "d5/ddf/a19650.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
-    [ "Register", "d5/ddf/a19650.html#a445ce7331c36e507aa24466ff9a67781", null ],
-    [ "Validate", "d5/ddf/a19650.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
+    [ "boss_thaddiusAI", "d7/d2c/a19654.html", "d7/d2c/a19654" ],
+    [ "boss_thaddius", "d5/ddf/a19650.html#aff97b030b861feb646e1b22f60ee3605", null ],
+    [ "GetAI", "d5/ddf/a19650.html#acf841c6897396f517a74932fc3480e69", null ]
 ];

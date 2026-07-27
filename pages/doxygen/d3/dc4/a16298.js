@@ -1,10 +1,6 @@
 var a16298 =
 [
-    [ "HandleDummy", "d3/dc4/a16298.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
-    [ "HandleSchoolDamage", "d3/dc4/a16298.html#a8372b7d176c94689b1b7fe99add7812e", null ],
-    [ "Load", "d3/dc4/a16298.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
-    [ "PrepareSpellScript", "d3/dc4/a16298.html#a3fd71e2a93f99f19443640a2147b1663", null ],
-    [ "Register", "d3/dc4/a16298.html#a8278d362a4354ccf81665ce0067c9a06", null ],
-    [ "Validate", "d3/dc4/a16298.html#a414b1e1396910b87a671305ce9dcab09", null ],
-    [ "_spawned", "d3/dc4/a16298.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
+    [ "npc_shadowpriest_sezzizAI", "dd/da6/a16302.html", "dd/da6/a16302" ],
+    [ "npc_shadowpriest_sezziz", "d3/dc4/a16298.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
+    [ "GetAI", "d3/dc4/a16298.html#a1513b766f18dbc290b6682582fd33b1d", null ]
 ];

@@ -1,7 +1,6 @@
 var a23070 =
 [
-    [ "HandleScript", "d1/df1/a23070.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
-    [ "PrepareSpellScript", "d1/df1/a23070.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
-    [ "Register", "d1/df1/a23070.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
-    [ "Validate", "d1/df1/a23070.html#a46aca18049e02d50f57579b3fdc705bd", null ]
+    [ "PrepareAuraScript", "d1/df1/a23070.html#a0dca39c324a5431d4861c1f20a34355e", null ],
+    [ "Register", "d1/df1/a23070.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
+    [ "Update", "d1/df1/a23070.html#a6201eaa3b961e838a535b80679996ada", null ]
 ];

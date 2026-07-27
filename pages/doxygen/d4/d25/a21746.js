@@ -1,7 +1,6 @@
 var a21746 =
 [
-    [ "Absorb", "d4/d25/a21746.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "d4/d25/a21746.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "d4/d25/a21746.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "d4/d25/a21746.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "npc_hourglass_of_eternityAI", "d8/d83/a21750.html", "d8/d83/a21750" ],
+    [ "npc_hourglass_of_eternity", "d4/d25/a21746.html#a40500ff582ead06bd646be86baad7d35", null ],
+    [ "GetAI", "d4/d25/a21746.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
 ];

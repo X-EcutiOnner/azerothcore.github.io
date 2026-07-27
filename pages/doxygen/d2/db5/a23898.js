@@ -1,6 +1,8 @@
 var a23898 =
 [
-    [ "npc_kservantAI", "d8/d38/a23902.html", "d8/d38/a23902" ],
-    [ "npc_kservant", "d2/db5/a23898.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "d2/db5/a23898.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "boss_void_reaver", "d2/db5/a23898.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
+    [ "JustDied", "d2/db5/a23898.html#a49e6f52b11177bdac07adff92c2675f5", null ],
+    [ "JustEngagedWith", "d2/db5/a23898.html#a9260d05e11f4dec6fc25432a0524706b", null ],
+    [ "KilledUnit", "d2/db5/a23898.html#adc234fc43308771a42d99049876cad1b", null ],
+    [ "Reset", "d2/db5/a23898.html#a02c36ea960de24991f879943991a93c6", null ]
 ];

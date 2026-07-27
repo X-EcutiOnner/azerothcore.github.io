@@ -1,9 +1,7 @@
 var a26914 =
 [
-    [ "CheckCast", "d7/d4a/a26914.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
-    [ "FilterTargets", "d7/d4a/a26914.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
-    [ "HandleDummy", "d7/d4a/a26914.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
-    [ "PrepareSpellScript", "d7/d4a/a26914.html#a9c992e732b525e29f684947398d20efb", null ],
-    [ "Register", "d7/d4a/a26914.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
-    [ "Validate", "d7/d4a/a26914.html#abca1e5aa46e7753588c8120090775195", null ]
+    [ "HandleApplyEffect", "d7/d4a/a26914.html#af95120b26a165196e0310956c245f36f", null ],
+    [ "HandleRemoveEffect", "d7/d4a/a26914.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
+    [ "PrepareAuraScript", "d7/d4a/a26914.html#ae19e002407db1466f0655db3d14fe0d7", null ],
+    [ "Register", "d7/d4a/a26914.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
 ];

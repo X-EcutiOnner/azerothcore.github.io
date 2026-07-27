@@ -1,6 +1,8 @@
 var a18982 =
 [
-    [ "HandleScript", "d0/df8/a18982.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "d0/df8/a18982.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "d0/df8/a18982.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "DecayPeriodicTimer", "d0/df8/a18982.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "d0/df8/a18982.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "d0/df8/a18982.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "d0/df8/a18982.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "d0/df8/a18982.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

@@ -1,7 +1,7 @@
 var a13154 =
 [
-    [ "PeriodicTick", "d1/d76/a13154.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
-    [ "PrepareAuraScript", "d1/d76/a13154.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
-    [ "Register", "d1/d76/a13154.html#a2681d44b149e9f1d797df4147e20e686", null ],
-    [ "Validate", "d1/d76/a13154.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
+    [ "npc_kernobeeAI", "d1/d2d/a13158.html", "d1/d2d/a13158" ],
+    [ "npc_kernobee", "d1/d76/a13154.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
+    [ "GetAI", "d1/d76/a13154.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
+    [ "OnQuestAccept", "d1/d76/a13154.html#a378653fb57a1e49703202ca4e30a6474", null ]
 ];

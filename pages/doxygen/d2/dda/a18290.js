@@ -1,6 +1,6 @@
 var a18290 =
 [
-    [ "FilterTargets", "d2/dda/a18290.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
-    [ "PrepareSpellScript", "d2/dda/a18290.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
-    [ "Register", "d2/dda/a18290.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
+    [ "npc_gas_cloudAI", "da/dcf/a18294.html", "da/dcf/a18294" ],
+    [ "npc_gas_cloud", "d2/dda/a18290.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
+    [ "GetAI", "d2/dda/a18290.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
 ];

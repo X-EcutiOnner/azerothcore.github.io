@@ -1,11 +1,12 @@
 var a07734 =
 [
-    [ "BattlegroundICScore", "d1/d4c/a07734.html#a3b8798fdb479885fbe4b7cecb2f84f68", null ],
-    [ "BuildObjectivesBlock", "d1/d4c/a07734.html#a4a10d0be9c318048feb4e76ffae9472c", null ],
-    [ "GetAttr1", "d1/d4c/a07734.html#af6c42bbd1b8f3f94fe838ce5df610a80", null ],
-    [ "GetAttr2", "d1/d4c/a07734.html#a758fa51038f232c7d65cd0168a4608c2", null ],
-    [ "UpdateScore", "d1/d4c/a07734.html#a690ede108b8ce8dfa45a2b7457e53a3c", null ],
-    [ "BattlegroundIC", "d1/d4c/a07734.html#a2d7503354e4bdce9f2a06d48b649da2f", null ],
-    [ "BasesAssaulted", "d1/d4c/a07734.html#a5050b80f9d1855cb8b97830f9e80124f", null ],
-    [ "BasesDefended", "d1/d4c/a07734.html#a70c2965b6b1e99239e0dcc1c03ccb552", null ]
+    [ "BGQueueInviteEvent", "d1/d4c/a07734.html#acee27900339fdcebbfd21bb0e602654d", null ],
+    [ "~BGQueueInviteEvent", "d1/d4c/a07734.html#a09f9f27ecbc273b25e5941966a4fa925", null ],
+    [ "Abort", "d1/d4c/a07734.html#a07f5520ab61cdfd4eadc5d0815067135", null ],
+    [ "Execute", "d1/d4c/a07734.html#a444aceb1c29c951271bab5186a7f3064", null ],
+    [ "m_ArenaType", "d1/d4c/a07734.html#a1b7d1161d46578606396efd515ab1739", null ],
+    [ "m_BgInstanceGUID", "d1/d4c/a07734.html#ad9adc44cc1cde3b0b820740852bdb3ce", null ],
+    [ "m_BgTypeId", "d1/d4c/a07734.html#a608c24288f24bc4da77124257320c741", null ],
+    [ "m_PlayerGuid", "d1/d4c/a07734.html#a200b4bcd336846df60ec11de8d829d7d", null ],
+    [ "m_RemoveTime", "d1/d4c/a07734.html#a4c78e5a74eaf859db40772008557201f", null ]
 ];

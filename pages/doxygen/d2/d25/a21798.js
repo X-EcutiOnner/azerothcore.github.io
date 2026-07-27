@@ -1,6 +1,6 @@
 var a21798 =
 [
-    [ "npc_frostbrood_skytalonAI", "d5/deb/a21802.html", "d5/deb/a21802" ],
-    [ "npc_frostbrood_skytalon", "d2/d25/a21798.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "d2/d25/a21798.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "npc_heated_battleAI", "d2/d25/a21798.html#a2b73957d7890549f4b02488c5527fcef", null ],
+    [ "DamageTaken", "d2/d25/a21798.html#a8422c157214195d7166ede35c9c05d19", null ],
+    [ "Reset", "d2/d25/a21798.html#a11a4f3270ff260e30da89017dad38433", null ]
 ];

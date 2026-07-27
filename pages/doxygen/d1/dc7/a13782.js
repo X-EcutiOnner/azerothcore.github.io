@@ -1,7 +1,8 @@
 var a13782 =
 [
-    [ "HandlePull", "d1/dc7/a13782.html#a5a43bb53d3c534054498f8366d617e5a", null ],
-    [ "PrepareSpellScript", "d1/dc7/a13782.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
-    [ "RaycastToObstacle", "d1/dc7/a13782.html#ad6dfdf70e9ffd43510c4791f804ce340", null ],
-    [ "Register", "d1/dc7/a13782.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
+    [ "CheckCast", "d1/dc7/a13782.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
+    [ "HandleScriptEffect", "d1/dc7/a13782.html#a22f630cb9df4b435a5624f2865915753", null ],
+    [ "PrepareSpellScript", "d1/dc7/a13782.html#a6e6b27ade1cac743946a976dbf343066", null ],
+    [ "Register", "d1/dc7/a13782.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
+    [ "Validate", "d1/dc7/a13782.html#a85779288126b21f516f2feb0238ee65b", null ]
 ];

@@ -1,6 +1,6 @@
 var a17494 =
 [
-    [ "boss_prince_taldaramAI", "d9/d30/a17498.html", "d9/d30/a17498" ],
-    [ "boss_prince_taldaram_icc", "dd/da4/a17494.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
-    [ "GetAI", "dd/da4/a17494.html#a2a8c89206ab72afc68260f41a246da3b", null ]
+    [ "npc_pos_tyrannus_eventsAI", "d9/d30/a17498.html", "d9/d30/a17498" ],
+    [ "npc_pos_tyrannus_events", "dd/da4/a17494.html#a9e61db8b2b30e86fc5e554b3f4d51b7c", null ],
+    [ "GetAI", "dd/da4/a17494.html#ae5863e99d77815de71c1774e908b3f65", null ]
 ];

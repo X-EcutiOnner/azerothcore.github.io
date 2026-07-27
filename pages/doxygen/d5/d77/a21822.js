@@ -1,6 +1,5 @@
 var a21822 =
 [
-    [ "npc_mcmanus", "d5/d77/a21822.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "d5/d77/a21822.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "d5/d77/a21822.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "at_q24545_frostmourne_cavern", "d5/d77/a21822.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
+    [ "OnTrigger", "d5/d77/a21822.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
 ];

@@ -1,12 +1,10 @@
 var a15138 =
 [
-    [ "boss_lieutenant_drake", "d7/d02/a15138.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
-    [ "InitializeAI", "d7/d02/a15138.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
-    [ "JustDied", "d7/d02/a15138.html#aca7654e30aac96fa509f99f3447121ec", null ],
-    [ "JustEngagedWith", "d7/d02/a15138.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
-    [ "KilledUnit", "d7/d02/a15138.html#a833c889c28ea35a6198fe753b604a8ed", null ],
-    [ "MovementInform", "d7/d02/a15138.html#aec6e332bc5739552cbbec27569c55759", null ],
-    [ "UpdateAI", "d7/d02/a15138.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
-    [ "pathId", "d7/d02/a15138.html#ac63f9c885296a797799c0cd83b0ade64", null ],
-    [ "runSecondPath", "d7/d02/a15138.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
+    [ "boss_anetheron", "d7/d02/a15138.html#a6c103caa3f137756599a75bff03a6648", null ],
+    [ "DoAction", "d7/d02/a15138.html#a2fd485de26c820fec5240f9141a09964", null ],
+    [ "JustDied", "d7/d02/a15138.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
+    [ "JustEngagedWith", "d7/d02/a15138.html#aa34ac87ad4014fbecb481be7896c577c", null ],
+    [ "JustSummoned", "d7/d02/a15138.html#af9c156e28c7eca710d8367bd2a99387d", null ],
+    [ "KilledUnit", "d7/d02/a15138.html#a4471af823278a3664574729bf5c749be", null ],
+    [ "PathEndReached", "d7/d02/a15138.html#a75ed708e2769a77defa5c9a0b22dcae9", null ]
 ];

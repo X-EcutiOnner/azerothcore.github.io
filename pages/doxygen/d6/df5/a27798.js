@@ -1,6 +1,7 @@
 var a27798 =
 [
-    [ "go_heatAI", "d1/d61/a27802.html", "d1/d61/a27802" ],
-    [ "go_heat", "d6/df5/a27798.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
-    [ "GetAI", "d6/df5/a27798.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
+    [ "HandleProc", "d6/df5/a27798.html#a4294ab4682ea26f78eb4c90c59e86953", null ],
+    [ "PrepareAuraScript", "d6/df5/a27798.html#ac5d22623791d195aa767d5a28e9639b7", null ],
+    [ "Register", "d6/df5/a27798.html#a135abc0548ba189fcf6bd662d7ae8940", null ],
+    [ "Validate", "d6/df5/a27798.html#ac10227e6423f61b0fd67803f01fd4a0e", null ]
 ];

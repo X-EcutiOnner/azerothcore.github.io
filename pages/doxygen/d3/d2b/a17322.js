@@ -1,13 +1,12 @@
 var a17322 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "d3/d2b/a17322.html#a2b8f5479565297c95ecdc4882e7d27ae", null ],
-    [ "DoAction", "d3/d2b/a17322.html#aa1df5c0f5612a9fc9a4e78fb901dc8e7", null ],
-    [ "JustSummoned", "d3/d2b/a17322.html#acdfc5d370da977ab69752016368cc9b0", null ],
-    [ "MovementInform", "d3/d2b/a17322.html#a95c033e4e2ca224be09ce993f4e7996d", null ],
-    [ "SummonedCreatureDespawn", "d3/d2b/a17322.html#af31de5c7f901baf4d8c62964fee8ead8", null ],
-    [ "UpdateAI", "d3/d2b/a17322.html#ad22fbcd52404c1e9c1fc71f3bc6b7525", null ],
-    [ "events", "d3/d2b/a17322.html#a44045ae5151625a4d7aacb69e9c934e5", null ],
-    [ "i", "d3/d2b/a17322.html#aa185914ee8a2352e4d233f1fc4800390", null ],
-    [ "pInstance", "d3/d2b/a17322.html#ac38febd0bce9338346d0c1aa6ba50de3", null ],
-    [ "summons", "d3/d2b/a17322.html#ad0f2097f168ea5983e3eece24cb82bfa", null ]
+    [ "boss_marwyn", "d3/d2b/a17322.html#ad0d7ef02952d4f4a2c8ce1f5099e4bdd", null ],
+    [ "DoAction", "d3/d2b/a17322.html#a7bd848b407d33942f05b48b6284506bb", null ],
+    [ "EnterEvadeMode", "d3/d2b/a17322.html#a93849e995d62ba5a220e08157d8758fa", null ],
+    [ "JustDied", "d3/d2b/a17322.html#a89fd620d0e74675d671cb69cc917d024", null ],
+    [ "JustEngagedWith", "d3/d2b/a17322.html#a038ed3e1a8c9f3f3bc7f7eca584ad5cd", null ],
+    [ "KilledUnit", "d3/d2b/a17322.html#aad4dd7a1fb79c704c7e59581f938d2e9", null ],
+    [ "Reset", "d3/d2b/a17322.html#a0e25c5d894b7e20c6a1781410847c1fa", null ],
+    [ "UpdateAI", "d3/d2b/a17322.html#ae8d1b8908983af8bff1f13641472817f", null ],
+    [ "_startingFight", "d3/d2b/a17322.html#aee335b57c5249ecd4ce843e0f1694e80", null ]
 ];

@@ -1,8 +1,7 @@
 var a15310 =
 [
-    [ "HandleScript", "d0/dd3/a15310.html#ac58aef1b295e32c8a44852278edc18f8", null ],
-    [ "Load", "d0/dd3/a15310.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
-    [ "PrepareSpellScript", "d0/dd3/a15310.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
-    [ "Register", "d0/dd3/a15310.html#a95f4abd67d6baf75980ff28a7518503d", null ],
-    [ "Validate", "d0/dd3/a15310.html#a98271e7adb17b11e39241154a83b0d0d", null ]
+    [ "npc_cos_chromie_middle", "d0/dd3/a15310.html#a1bb7229781c122d362e781d2737d0fd3", null ],
+    [ "OnGossipHello", "d0/dd3/a15310.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
+    [ "OnGossipSelect", "d0/dd3/a15310.html#a37ebdd257ef22554c81cf3c062856141", null ],
+    [ "OnQuestAccept", "d0/dd3/a15310.html#ad9e733b4dd69f58d880aebcfe06cbf96", null ]
 ];

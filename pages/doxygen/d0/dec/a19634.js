@@ -1,12 +1,10 @@
 var a19634 =
 [
-    [ "npc_oculus_drakeAI", "d0/dec/a19634.html#a214d9b77a5653f1a5f60106081eaf683", null ],
-    [ "IsSummonedBy", "d0/dec/a19634.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
-    [ "MovementInform", "d0/dec/a19634.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
-    [ "PassengerBoarded", "d0/dec/a19634.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
-    [ "SpellHitTarget", "d0/dec/a19634.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
-    [ "UpdateAI", "d0/dec/a19634.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
-    [ "despawnTimer", "d0/dec/a19634.html#a560dc0936a78267a4036b209c6718732", null ],
-    [ "JustSummoned", "d0/dec/a19634.html#a8b656a464525e881944e72e9486b0eb9", null ],
-    [ "m_pInstance", "d0/dec/a19634.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
+    [ "boss_razuvious_minionAI", "d0/dec/a19634.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
+    [ "DoAction", "d0/dec/a19634.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
+    [ "JustEngagedWith", "d0/dec/a19634.html#ada2e7a5ac1f129572a0689afce49d310", null ],
+    [ "KilledUnit", "d0/dec/a19634.html#ab1a6f582098c9d1218551af0aae1815d", null ],
+    [ "Reset", "d0/dec/a19634.html#a170de8517a03a0e78b1e67652869fd9a", null ],
+    [ "ScheduleAttackDummy", "d0/dec/a19634.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
+    [ "UpdateAI", "d0/dec/a19634.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
 ];

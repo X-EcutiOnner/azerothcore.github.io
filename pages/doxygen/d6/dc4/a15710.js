@@ -1,11 +1,15 @@
 var a15710 =
 [
-    [ "npc_kerlonianAI", "d6/dc4/a15710.html#a0f7a4566ca93a174c92fe10e904af480", null ],
-    [ "ClearSleeping", "d6/dc4/a15710.html#aea2815d79da4fa006ea150f052255b9d", null ],
-    [ "MoveInLineOfSight", "d6/dc4/a15710.html#a8b0a606510d278f26099a125d583377a", null ],
-    [ "Reset", "d6/dc4/a15710.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
-    [ "SetSleeping", "d6/dc4/a15710.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
-    [ "SpellHit", "d6/dc4/a15710.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
-    [ "UpdateFollowerAI", "d6/dc4/a15710.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
-    [ "FallAsleepTimer", "d6/dc4/a15710.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
+    [ "boss_skeram", "d6/dc4/a15710.html#a293710a88c91a181ee1000939386e176", null ],
+    [ "DoTeleport", "d6/dc4/a15710.html#a96166ddebd5906868b872c39a6755a70", null ],
+    [ "EnterEvadeMode", "d6/dc4/a15710.html#ab050e31d661c8c089d175de231b0eeb2", null ],
+    [ "JustDied", "d6/dc4/a15710.html#a6b30a6ca5167aae41ad70bd502265d2b", null ],
+    [ "JustEngagedWith", "d6/dc4/a15710.html#a7904bcd8f02209a40c9dfff8d3f5ad4b", null ],
+    [ "JustSummoned", "d6/dc4/a15710.html#a3e3d74bc646a96e20a88d3541f806c62", null ],
+    [ "KilledUnit", "d6/dc4/a15710.html#a185cb6686d37e064278260ebe5fae13a", null ],
+    [ "Reset", "d6/dc4/a15710.html#a08c9c2c577ef4b713594ca67f4c87a68", null ],
+    [ "UpdateAI", "d6/dc4/a15710.html#aaf29331e0fac71479747d62fd9f1e301", null ],
+    [ "_copiesGUIDs", "d6/dc4/a15710.html#a28f1465938dc2141779d5171ea09ecd0", null ],
+    [ "_flag", "d6/dc4/a15710.html#a0abcf1e8721aa972be70774d5be7b53b", null ],
+    [ "_hpct", "d6/dc4/a15710.html#a5c8760788264a9a04a28c05a0247676c", null ]
 ];

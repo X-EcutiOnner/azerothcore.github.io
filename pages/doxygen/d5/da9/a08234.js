@@ -1,7 +1,9 @@
 var a08234 =
 [
-    [ "LfgJoinResultData", "d5/da9/a08234.html#a1d711d49a6b49f55eb3771352b294b95", null ],
-    [ "lockmap", "d5/da9/a08234.html#aff918b3c02ca76982a964402175f8ad7", null ],
-    [ "result", "d5/da9/a08234.html#aa713cbc1930962d520883523f6f6446c", null ],
-    [ "state", "d5/da9/a08234.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
+    [ "PvPCombatReference", "d5/da9/a08234.html#a1439519e8f8665e345cd1bd3d28031aa", null ],
+    [ "RefreshTimer", "d5/da9/a08234.html#ad8d05318d995aca2196c06768695b48e", null ],
+    [ "Update", "d5/da9/a08234.html#a88d3291f9e29fa72f610b6c2a224fa4a", null ],
+    [ "CombatManager", "d5/da9/a08234.html#ae013513b37e5f4a92a90f8c59f9291c1", null ],
+    [ "_combatTimer", "d5/da9/a08234.html#accd9e37fa63f110daebb0086027f8ab6", null ],
+    [ "PVP_COMBAT_TIMEOUT", "d5/da9/a08234.html#ae7026b02e2701be7a84d6da26bd3a432", null ]
 ];

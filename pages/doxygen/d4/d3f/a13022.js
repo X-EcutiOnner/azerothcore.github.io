@@ -1,7 +1,8 @@
 var a13022 =
 [
-    [ "npc_malchezaar_axe", "d4/d3f/a13022.html#a1a5615f2def10add30e7917b770ebc74", null ],
-    [ "Initialize", "d4/d3f/a13022.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
-    [ "JustEngagedWith", "d4/d3f/a13022.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
-    [ "UpdateAI", "d4/d3f/a13022.html#a202ba6922a426f87909eefbccd070175", null ]
+    [ "boss_garr", "d4/d3f/a13022.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
+    [ "JustEngagedWith", "d4/d3f/a13022.html#abab82d2e00b373ea1f0e444de23f4987", null ],
+    [ "Reset", "d4/d3f/a13022.html#a64bcae059cfa97def7e52a42d404a016", null ],
+    [ "UpdateAI", "d4/d3f/a13022.html#a2a412224072b47de6780ea7b8d543743", null ],
+    [ "massEruptionTimer", "d4/d3f/a13022.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
 ];

@@ -1,12 +1,12 @@
 var a13690 =
 [
-    [ "npc_kiljaeden_controller", "dc/d03/a13690.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
-    [ "JustDied", "dc/d03/a13690.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
-    [ "JustSummoned", "dc/d03/a13690.html#af28211012d8398a450439b8e24bf60ce", null ],
-    [ "Reset", "dc/d03/a13690.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
-    [ "ResetOrbs", "dc/d03/a13690.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
-    [ "SummonedCreatureDies", "dc/d03/a13690.html#aed2772552dd500c180c3db4aeef8359a", null ],
-    [ "UpdateAI", "dc/d03/a13690.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
-    [ "instance", "dc/d03/a13690.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
-    [ "summons", "dc/d03/a13690.html#a116a739b2bff3257b35ff7946a3d1995", null ]
+    [ "boss_sacrolash", "dc/d03/a13690.html#a6e251340b2ba8a8300611cf229b93095", null ],
+    [ "CheckInRoom", "dc/d03/a13690.html#ae650b6019d2f9191e1b532176159804d", null ],
+    [ "DoAction", "dc/d03/a13690.html#adbcbd24a90549978032d31d1beeaa4e6", null ],
+    [ "JustDied", "dc/d03/a13690.html#a17c995220572cf803c36470ca80840e2", null ],
+    [ "JustEngagedWith", "dc/d03/a13690.html#a822576bf8588d4e45f1532e1980cc7c7", null ],
+    [ "JustSummoned", "dc/d03/a13690.html#a94214bc45414f61ff53102d6136b7b5c", null ],
+    [ "KilledUnit", "dc/d03/a13690.html#a4d99da498db0e5a60c7c25fcb91e5270", null ],
+    [ "Reset", "dc/d03/a13690.html#aa3128dae87d181e7ab93cf3a13723982", null ],
+    [ "_isSisterDead", "dc/d03/a13690.html#a248d37df91c82069321fc5ea8b1e885d", null ]
 ];

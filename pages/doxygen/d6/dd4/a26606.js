@@ -1,6 +1,7 @@
 var a26606 =
 [
-    [ "HandleDummyEffect", "d6/dd4/a26606.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
-    [ "PrepareSpellScript", "d6/dd4/a26606.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
-    [ "Register", "d6/dd4/a26606.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
+    [ "PrepareSpellScript", "d6/dd4/a26606.html#ade3a3f956ae8be922bd1d2204919d360", null ],
+    [ "Register", "d6/dd4/a26606.html#a71d397da4a4804cf6023806c15e8bedf", null ],
+    [ "TriggerHypothermia", "d6/dd4/a26606.html#af40f92afae93778e477c50ddf18c8adc", null ],
+    [ "Validate", "d6/dd4/a26606.html#a1f0cef532c2bd13d94e647722f85457a", null ]
 ];

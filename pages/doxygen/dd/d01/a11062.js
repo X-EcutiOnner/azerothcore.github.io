@@ -1,8 +1,16 @@
 var a11062 =
 [
-    [ "GuildBankQueryTab", "dd/d01/a11062.html#a29fc27016b597f051898db7bb30214c8", null ],
-    [ "Read", "dd/d01/a11062.html#ab4e17c592b05ce041f5f52f2bc711d41", null ],
-    [ "Banker", "dd/d01/a11062.html#af21ec3aa4cf912fd5b82e6ae16459e06", null ],
-    [ "FullUpdate", "dd/d01/a11062.html#a4f9758c10f7c7294dffaa01b8e0b723f", null ],
-    [ "Tab", "dd/d01/a11062.html#a949488c1696f92cb0a081cf28bffb48f", null ]
+    [ "AreaID", "dd/d01/a11062.html#a7bd695ba9365b53703204e45c930b254", null ],
+    [ "ClassID", "dd/d01/a11062.html#a794961a2e9f4773254b2439837150b50", null ],
+    [ "Gender", "dd/d01/a11062.html#aadb29895c835e820168ad7d3f608d3b8", null ],
+    [ "Guid", "dd/d01/a11062.html#a9dad860d61da34048ab2d52ada0cb43f", null ],
+    [ "LastSave", "dd/d01/a11062.html#acb553637ff289603411fa5795a361deb", null ],
+    [ "Level", "dd/d01/a11062.html#a585acb139537e8def9e4ba076a332b6b", null ],
+    [ "Name", "dd/d01/a11062.html#ad50c43162525d8ad2ea33e48c01e838e", null ],
+    [ "Note", "dd/d01/a11062.html#aa351a270de4cba2faddc5179cb854b94", null ],
+    [ "OfficerNote", "dd/d01/a11062.html#aedaee0b4511ddd82cc75e91cb04e175a", null ],
+    [ "RankID", "dd/d01/a11062.html#a02f6f0dcf1be3a6befe959388d9aedd8", null ],
+    [ "Status", "dd/d01/a11062.html#aa6342565a23693718b5ef84f90b83350", null ],
+    [ "TotalXP", "dd/d01/a11062.html#ad3ee1ba956ea725db8588e3be3c57b18", null ],
+    [ "WeeklyXP", "dd/d01/a11062.html#a7fb40a5bce99fcf70176ebe344424ed2", null ]
 ];

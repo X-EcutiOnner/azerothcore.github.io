@@ -1,6 +1,6 @@
 var a21030 =
 [
-    [ "HandleOnHit", "d0/d27/a21030.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "d0/d27/a21030.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "d0/d27/a21030.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "FilterTargets", "d0/d27/a21030.html#adaeee235184ddc36e90e532091183056", null ],
+    [ "PrepareSpellScript", "d0/d27/a21030.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
+    [ "Register", "d0/d27/a21030.html#ab79041a2536878498744555475bce5c8", null ]
 ];

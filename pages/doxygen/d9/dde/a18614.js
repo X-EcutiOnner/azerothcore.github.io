@@ -1,6 +1,7 @@
 var a18614 =
 [
-    [ "npc_spirit_wardenAI", "dc/ddd/a18618.html", "dc/ddd/a18618" ],
-    [ "npc_spirit_warden", "d9/dde/a18614.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "d9/dde/a18614.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "StartMovementEvent", "d9/dde/a18614.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
+    [ "Execute", "d9/dde/a18614.html#af1a043d953bcffe9341292e85cae2f55", null ],
+    [ "_owner", "d9/dde/a18614.html#ac2f4166af128a161c471b243144856ba", null ],
+    [ "_summoner", "d9/dde/a18614.html#afe1f7bcb3569758bc075380a24527067", null ]
 ];

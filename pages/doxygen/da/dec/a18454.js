@@ -1,15 +1,7 @@
 var a18454 =
 [
-    [ "npc_tirion_fordringAI", "da/dec/a18454.html#aa0f94cef85e96cda4a2e280eaa7110de", null ],
-    [ "CanAIAttack", "da/dec/a18454.html#a1bdef323e9c7364fab789abc39ef00a0", null ],
-    [ "DoAction", "da/dec/a18454.html#a5fd5b3fde84ed04c794546d11fe946d7", null ],
-    [ "EnterEvadeMode", "da/dec/a18454.html#a1275cee8f49c67920041ad8d50c62aa4", null ],
-    [ "JustReachedHome", "da/dec/a18454.html#a6e6c7c2f4f8e60126fd4adc42fe3b4f4", null ],
-    [ "MovementInform", "da/dec/a18454.html#a7284240c4eafbc80748d5e2867a64a9f", null ],
-    [ "Reset", "da/dec/a18454.html#ac41e569535322bb5907fa4116bbac739", null ],
-    [ "sGossipSelect", "da/dec/a18454.html#a56599a97f019121160b2f6ac43019772", null ],
-    [ "SpellHit", "da/dec/a18454.html#ae68b900f87c646cfb3ece5518b59e687", null ],
-    [ "UpdateAI", "da/dec/a18454.html#a3f729624820266f1cf1e5577c5047c3b", null ],
-    [ "_events", "da/dec/a18454.html#a7bb0d243cc9b3e836dd99864f2a5e669", null ],
-    [ "_instance", "da/dec/a18454.html#a223a7f09ae03971487bb55e770503f7e", null ]
+    [ "FrostBombExplosion", "da/dec/a18454.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "da/dec/a18454.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "da/dec/a18454.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "da/dec/a18454.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

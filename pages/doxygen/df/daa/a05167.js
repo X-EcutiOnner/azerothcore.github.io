@@ -1,5 +1,5 @@
 var a05167 =
 [
-    [ "MDDF", "d0/daf/a30021.html", "d0/daf/a30021" ],
-    [ "MODF", "d4/da1/a30025.html", "d4/da1/a30025" ]
+    [ "TotemCreated", "da/dec/a11658.html", "da/dec/a11658" ],
+    [ "TotemDestroyed", "d5/d96/a11654.html", "d5/d96/a11654" ]
 ];

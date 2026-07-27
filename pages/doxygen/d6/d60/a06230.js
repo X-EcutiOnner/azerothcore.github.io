@@ -1,6 +1,11 @@
 var a06230 =
 [
-    [ "changed", "d6/d60/a06230.html#af0cf916cd514f64f53f98c108ff63591", null ],
-    [ "counter", "d6/d60/a06230.html#a5ba0b1002e0bfd61ad17b2130a207cb1", null ],
-    [ "date", "d6/d60/a06230.html#a9a6769cf4ca7ba55752adc8cdeba71f5", null ]
+    [ "SQLQueryHolderCallback", "d6/d60/a06230.html#afc2cb6a483d17ae115e947bc88fe592b", null ],
+    [ "SQLQueryHolderCallback", "d6/d60/a06230.html#a7fddb08e9e10cdb8a437de3ee53494db", null ],
+    [ "AfterComplete", "d6/d60/a06230.html#a40f0a73f4b92bc0f7ad8659f748c7c17", null ],
+    [ "InvokeIfReady", "d6/d60/a06230.html#a7e540699d496834c0a36782fb7da03f1", null ],
+    [ "operator=", "d6/d60/a06230.html#a031861856be6b3e5f18718f3c6129f9c", null ],
+    [ "m_callback", "d6/d60/a06230.html#aa055fe02b0158a9098e6eccdc32e9ff4", null ],
+    [ "m_future", "d6/d60/a06230.html#a7dc3e5e72d47135660a29a0418e17c44", null ],
+    [ "m_holder", "d6/d60/a06230.html#a09b018fb4d8e0e67249b1117c657ecc2", null ]
 ];

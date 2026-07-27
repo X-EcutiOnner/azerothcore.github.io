@@ -1,7 +1,7 @@
 var a19182 =
 [
-    [ "HandleTriggerSpell", "df/dd4/a19182.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
-    [ "PrepareAuraScript", "df/dd4/a19182.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
-    [ "Register", "df/dd4/a19182.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
-    [ "Validate", "df/dd4/a19182.html#a813bad39641956fff697580f271416d2", null ]
+    [ "OnApply", "df/dd4/a19182.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
+    [ "OnRemove", "df/dd4/a19182.html#a697a7c76f944b5df956a9de07746b7a9", null ],
+    [ "PrepareAuraScript", "df/dd4/a19182.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
+    [ "Register", "df/dd4/a19182.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
 ];

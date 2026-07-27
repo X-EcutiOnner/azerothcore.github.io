@@ -1,6 +1,5 @@
 var a28630 =
 [
-    [ "AreaGroupId", "d8/d08/a28630.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "d8/d08/a28630.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "d8/d08/a28630.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "d8/d08/a28630.html#afaa929276f8b131005c9b94daa9a09f9", null ],
+    [ "OnPlayerCompleteQuest", "d8/d08/a28630.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
 ];

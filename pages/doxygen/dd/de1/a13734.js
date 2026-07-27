@@ -1,8 +1,8 @@
 var a13734 =
 [
-    [ "HandleApply", "dd/de1/a13734.html#a2c64240e8675fc76598600ae2632570f", null ],
-    [ "HandleRemove", "dd/de1/a13734.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
-    [ "PrepareAuraScript", "dd/de1/a13734.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
-    [ "Register", "dd/de1/a13734.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
-    [ "Validate", "dd/de1/a13734.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
+    [ "npc_demonic_vapor", "dd/de1/a13734.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
+    [ "IsSummonedBy", "dd/de1/a13734.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
+    [ "Reset", "dd/de1/a13734.html#a7d2b88ab26904cedaac34f03567806bc", null ],
+    [ "UpdateAI", "dd/de1/a13734.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
+    [ "_timer", "dd/de1/a13734.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
 ];

@@ -1,9 +1,6 @@
 var a15322 =
 [
-    [ "npc_buru_egg", "d1/d79/a15322.html#a6aa2896342b802caecde1c1dffcf4907", null ],
-    [ "JustDied", "d1/d79/a15322.html#a3de169b252374f0b2daed3ecb5a11502", null ],
-    [ "JustEngagedWith", "d1/d79/a15322.html#a8cde6848569671876a17b00d75228ebe", null ],
-    [ "JustSummoned", "d1/d79/a15322.html#abebb96dcb3d653bddd4210da6567fb87", null ],
-    [ "UpdateAI", "d1/d79/a15322.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
-    [ "_instance", "d1/d79/a15322.html#a5b168226755a57368f17827e3457a0ca", null ]
+    [ "instance_culling_of_stratholme_InstanceMapScript", "da/dff/a15326.html", "da/dff/a15326" ],
+    [ "instance_culling_of_stratholme", "d1/d79/a15322.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
+    [ "GetInstanceScript", "d1/d79/a15322.html#ad8cbcb198666d44d79d6255d066c8315", null ]
 ];

@@ -1,5 +1,6 @@
 var a04778 =
 [
-    [ "DataMap", "d3/dcf/a05796.html", "d3/dcf/a05796" ],
-    [ "DataMap::Base", "d0/d5d/a05800.html", "d0/d5d/a05800" ]
+    [ "GetLibraryVersion", "d1/d03/a04778.html#aefa4bd51f34aad2d1a141c00a2310092", null ],
+    [ "Library_End", "d1/d03/a04778.html#aff44554b66bd7ef0e21f1db5beb0b81a", null ],
+    [ "Library_Init", "d1/d03/a04778.html#a70b74137156f0a22792c3cf95c54decc", null ]
 ];

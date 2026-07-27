@@ -1,5 +1,7 @@
 var a29546 =
 [
-    [ "SetUp", "df/d9f/a29546.html#a3619a9661686511df0868c65b9099c9f", null ],
-    [ "_allEntries", "df/d9f/a29546.html#a6f2997373f401c494a4a4fb1677b82af", null ]
+    [ "MockAuraStub", "df/d9f/a29546.html#a9f0561eabca5230f8fe27384e0deb6b8", null ],
+    [ "MOCK_METHOD", "df/d9f/a29546.html#a727233484b563f548c9f0e2d8a78b9a6", null ],
+    [ "MOCK_METHOD", "df/d9f/a29546.html#a9581f1887abbe708bc4e2da24e1996b5", null ],
+    [ "MOCK_METHOD", "df/d9f/a29546.html#abe2d675e124d5cb9115e8f726b1c7d8b", null ]
 ];

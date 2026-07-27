@@ -1,6 +1,6 @@
 var a22062 =
 [
-    [ "PrepareSpellScript", "d6/dbe/a22062.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "d6/dbe/a22062.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "d6/dbe/a22062.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "npc_llod_genericAI", "da/d46/a22066.html", "da/d46/a22066" ],
+    [ "npc_llod_generic", "d6/dbe/a22062.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
+    [ "GetAI", "d6/dbe/a22062.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
 ];

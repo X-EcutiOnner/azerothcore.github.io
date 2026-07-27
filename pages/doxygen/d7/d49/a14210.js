@@ -1,12 +1,7 @@
 var a14210 =
 [
-    [ "npc_forest_frog", "d7/d49/a14210.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
-    [ "DoSpawnRandom", "d7/d49/a14210.html#aac140826b8c4b7ce55925b5abeee936e", null ],
-    [ "JustEngagedWith", "d7/d49/a14210.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
-    [ "MovementInform", "d7/d49/a14210.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
-    [ "SpellHit", "d7/d49/a14210.html#a9501955507e1f236bb48384928fd6a32", null ],
-    [ "UpdateAI", "d7/d49/a14210.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
-    [ "eventTimer", "d7/d49/a14210.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
-    [ "instance", "d7/d49/a14210.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
-    [ "PlayerGUID", "d7/d49/a14210.html#a3544a83bb22e12d247e562ef32e378c0", null ]
+    [ "OnApply", "d7/d49/a14210.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
+    [ "OnRemove", "d7/d49/a14210.html#a810203874163cf04798c3edbe69b747e", null ],
+    [ "PrepareAuraScript", "d7/d49/a14210.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
+    [ "Register", "d7/d49/a14210.html#af2ad52165de188897fdeb8d62646b7cc", null ]
 ];

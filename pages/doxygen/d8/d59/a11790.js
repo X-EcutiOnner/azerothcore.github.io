@@ -1,10 +1,9 @@
 var a11790 =
 [
-    [ "Aura", "d8/d59/a11790.html#ab87ff32c7b9d25f238245df1b646c49a", null ],
-    [ "DispelType", "d8/d59/a11790.html#a964f9e427d50b8630ef1221914adad89", null ],
-    [ "Effect", "d8/d59/a11790.html#a61a5bcfce9d99c09aa58fd99afb97e5c", null ],
-    [ "ImmuneAoE", "d8/d59/a11790.html#a2b195291886ba333efd63d0edded1bb4", null ],
-    [ "ImmuneChain", "d8/d59/a11790.html#a81a36e982f45209bfd6d1b0bad843cc1", null ],
-    [ "Mechanic", "d8/d59/a11790.html#a01290d95abdbcf391557c7d72be05ebe", null ],
-    [ "School", "d8/d59/a11790.html#a587a27eae3c94be00522b6b84521ed3c", null ]
+    [ "EncryptableAndCompressiblePacket", "d8/d59/a11790.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
+    [ "CompressIfNeeded", "d8/d59/a11790.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
+    [ "NeedsCompression", "d8/d59/a11790.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
+    [ "NeedsEncryption", "d8/d59/a11790.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
+    [ "_encrypt", "d8/d59/a11790.html#a37a68eddad23001a85a4a2f77e237810", null ],
+    [ "SocketQueueLink", "d8/d59/a11790.html#a88f11ce75f439fd290bdc09156d559c2", null ]
 ];

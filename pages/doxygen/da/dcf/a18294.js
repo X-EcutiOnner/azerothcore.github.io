@@ -1,6 +1,6 @@
 var a18294 =
 [
-    [ "CheckProc", "da/dcf/a18294.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "da/dcf/a18294.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "da/dcf/a18294.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "npc_gas_cloudAI", "da/dcf/a18294.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
+    [ "CastMainSpell", "da/dcf/a18294.html#a61681f6f9616fe33274302d4160c709b", null ],
+    [ "_newTargetSelectTimer", "da/dcf/a18294.html#a6989b904abaa5b71362e43664f4b084d", null ]
 ];

@@ -1,6 +1,8 @@
 var a20966 =
 [
-    [ "npc_ritual_channelerAI", "d7/d49/a20970.html", "d7/d49/a20970" ],
-    [ "npc_ritual_channeler", "de/dbb/a20966.html#adab372002549b009e3f937ec67e49f3f", null ],
-    [ "GetAI", "de/dbb/a20966.html#aa416545438d701cbfc2567ba5ae536c8", null ]
+    [ "boss_yoggsaron_guardian_of_ys", "de/dbb/a20966.html#ad66fab16b309b62895578d46e8a2e730", null ],
+    [ "JustDied", "de/dbb/a20966.html#a12ce3fef2fba8d92945249cf8920a0b4", null ],
+    [ "Reset", "de/dbb/a20966.html#ac803a9da5223db459b9ec48435e59c30", null ],
+    [ "UpdateAI", "de/dbb/a20966.html#a573576eaff2cbd4f779675e19ad53dea", null ],
+    [ "_spellTimer", "de/dbb/a20966.html#a5922d21c4606ab9a41e20948dc926cea", null ]
 ];

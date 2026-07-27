@@ -1,7 +1,5 @@
 var a20570 =
 [
-    [ "npc_xt002_life_spark", "db/d9f/a20570.html#ac524bfb0dd21bb59d4c602db04f14f64", null ],
-    [ "Reset", "db/d9f/a20570.html#aa1bd9ed78b8586b46d297f186c9c430c", null ],
-    [ "UpdateAI", "db/d9f/a20570.html#ab6f284dd4d5dad3d38bae062abe544fa", null ],
-    [ "_attackTimer", "db/d9f/a20570.html#aa8b46e7a044c90fe9e342e9bffe7e4dc", null ]
+    [ "achievement_ignis_shattered", "db/d9f/a20570.html#adbe893b0dd409eb3f10768f81f182f61", null ],
+    [ "OnCheck", "db/d9f/a20570.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
 ];

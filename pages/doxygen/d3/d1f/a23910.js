@@ -1,6 +1,7 @@
 var a23910 =
 [
-    [ "PrepareSpellScript", "d3/d1f/a23910.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
-    [ "Register", "d3/d1f/a23910.html#ac57aee08a131bcf7db11bc105f32242c", null ],
-    [ "SetDest", "d3/d1f/a23910.html#a26362c4873890bb60c2526bf07058746", null ]
+    [ "boss_gatewatcher_gyrokill", "d3/d1f/a23910.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "d3/d1f/a23910.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "d3/d1f/a23910.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "d3/d1f/a23910.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

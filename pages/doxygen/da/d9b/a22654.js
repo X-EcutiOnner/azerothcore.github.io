@@ -1,7 +1,8 @@
 var a22654 =
 [
-    [ "HandleOnHit", "da/d9b/a22654.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "da/d9b/a22654.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "da/d9b/a22654.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "da/d9b/a22654.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "npc_anzu_spirit", "da/d9b/a22654.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
+    [ "IsSummonedBy", "da/d9b/a22654.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
+    [ "Reset", "da/d9b/a22654.html#acef3f7093f93b6c227d145523cdc487a", null ],
+    [ "UpdateAI", "da/d9b/a22654.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
+    [ "_scheduler", "da/d9b/a22654.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
 ];

@@ -1,7 +1,6 @@
 var a23102 =
 [
-    [ "CalcPeriodic", "df/d33/a23102.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
-    [ "PrepareAuraScript", "df/d33/a23102.html#a290913502dfe3dfb42b44a964468b97c", null ],
-    [ "Register", "df/d33/a23102.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
-    [ "Update", "df/d33/a23102.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
+    [ "boss_doomlordkazzakAI", "d9/dcd/a23106.html", "d9/dcd/a23106" ],
+    [ "boss_doomlord_kazzak", "df/d33/a23102.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
+    [ "GetAI", "df/d33/a23102.html#a460a32ce37aae852b48f1990406da9a4", null ]
 ];

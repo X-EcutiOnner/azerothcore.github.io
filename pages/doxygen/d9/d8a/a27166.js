@@ -1,8 +1,9 @@
 var a27166 =
 [
-    [ "CheckProc", "d9/d8a/a27166.html#a825ef4acafa2371f27ca8ca6465610f9", null ],
-    [ "HandleProc", "d9/d8a/a27166.html#a311916a7939ea2c4c2e23d6e4778aba4", null ],
-    [ "PrepareAuraScript", "d9/d8a/a27166.html#a89c7a57718cdb23f7235ff2379a7a192", null ],
-    [ "Register", "d9/d8a/a27166.html#abff50b0398b596898db4638fbadffa9c", null ],
-    [ "Validate", "d9/d8a/a27166.html#abedd0e9efa9c595e1142f0358d135d1b", null ]
+    [ "CheckCast", "d9/d8a/a27166.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
+    [ "HandleActiveObject", "d9/d8a/a27166.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
+    [ "HandleDummy", "d9/d8a/a27166.html#a39dd06ae92d04060ee41897318a701fd", null ],
+    [ "Load", "d9/d8a/a27166.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
+    [ "PrepareSpellScript", "d9/d8a/a27166.html#a016e480d7b2267c9bf824c9cb029f134", null ],
+    [ "Register", "d9/d8a/a27166.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
 ];

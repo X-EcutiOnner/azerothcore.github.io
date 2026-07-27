@@ -1,6 +1,5 @@
 var a21266 =
 [
-    [ "npc_warmage_coldarraAI", "d8/d63/a21270.html", "d8/d63/a21270" ],
-    [ "npc_warmage_coldarra", "d4/d5e/a21266.html#a358f8ab26991798ff076ac764cd7abe2", null ],
-    [ "GetAI", "d4/d5e/a21266.html#aa29181e0ad61b44eff685267f3231382", null ]
+    [ "go_palehoof_sphere", "d4/d5e/a21266.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
+    [ "OnGossipHello", "d4/d5e/a21266.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
 ];

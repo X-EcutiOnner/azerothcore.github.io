@@ -1,5 +1,6 @@
 var a15470 =
 [
-    [ "at_cthun_center", "dc/dc8/a15470.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
-    [ "OnTrigger", "dc/dc8/a15470.html#af744df9577e84ab64749076324e574c9", null ]
+    [ "npc_idol_room_spawnerAI", "de/d0e/a15474.html", "de/d0e/a15474" ],
+    [ "npc_idol_room_spawner", "dc/dc8/a15470.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "dc/dc8/a15470.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

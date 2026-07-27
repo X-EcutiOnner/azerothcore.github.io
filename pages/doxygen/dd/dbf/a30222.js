@@ -1,6 +1,13 @@
 var a30222 =
 [
-    [ "categoryMask", "dd/dbf/a30222.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "dd/dbf/a30222.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "dd/dbf/a30222.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "liquidTris", "dd/dbf/a30222.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
+    [ "liquidType", "dd/dbf/a30222.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
+    [ "liquidVerts", "dd/dbf/a30222.html#a52796933ab018f27d12f625673f7f8a9", null ],
+    [ "offMeshConnectionDirs", "dd/dbf/a30222.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
+    [ "offMeshConnectionRads", "dd/dbf/a30222.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
+    [ "offMeshConnections", "dd/dbf/a30222.html#a706feac90bb398da61296bac9d0b7176", null ],
+    [ "offMeshConnectionsAreas", "dd/dbf/a30222.html#af5af113433bb2776e6735195e57ab6f7", null ],
+    [ "offMeshConnectionsFlags", "dd/dbf/a30222.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
+    [ "solidTris", "dd/dbf/a30222.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
+    [ "solidVerts", "dd/dbf/a30222.html#a915387c2cfa7111de4a957646a2aace4", null ]
 ];

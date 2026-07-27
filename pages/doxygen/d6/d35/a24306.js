@@ -1,7 +1,6 @@
 var a24306 =
 [
-    [ "HandleProc", "d6/d35/a24306.html#a8503eadfd6d636659e66bda9bfd36d00", null ],
-    [ "PrepareAuraScript", "d6/d35/a24306.html#a9571ec1951d45eaf4e1a2e1e7851aaa6", null ],
-    [ "Register", "d6/d35/a24306.html#a73879765519b238791577db82561b548", null ],
-    [ "Validate", "d6/d35/a24306.html#abcdd9441cfc3922b70e3a4f1ece01efd", null ]
+    [ "PrepareSpellScript", "d6/d35/a24306.html#a190f6dc3d9b336324da29f627a743fe9", null ],
+    [ "Register", "d6/d35/a24306.html#a3afc8035b852bc31abd3228e88d59819", null ],
+    [ "SetDest", "d6/d35/a24306.html#a85d66a58597954501305ad5b674cc8a2", null ]
 ];

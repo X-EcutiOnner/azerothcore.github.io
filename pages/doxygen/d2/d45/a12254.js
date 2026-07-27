@@ -1,11 +1,7 @@
 var a12254 =
 [
-    [ "instance_commandscript", "d2/d45/a12254.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
-    [ "GetCommands", "d2/d45/a12254.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
-    [ "HandleInstanceGetBossStateCommand", "d2/d45/a12254.html#a0530ca6481073d6bafd11596546140b0", null ],
-    [ "HandleInstanceListBindsCommand", "d2/d45/a12254.html#abf42411f9c78ce59b21b34691e3d4233", null ],
-    [ "HandleInstanceSaveDataCommand", "d2/d45/a12254.html#a4b494a8b1de470612436fbb9fa433416", null ],
-    [ "HandleInstanceSetBossStateCommand", "d2/d45/a12254.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
-    [ "HandleInstanceStatsCommand", "d2/d45/a12254.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
-    [ "HandleInstanceUnbindCommand", "d2/d45/a12254.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
+    [ "PlayerDumpReader", "d2/d45/a12254.html#ad630b61e298fb1ddf165481c9a14e077", null ],
+    [ "LoadDump", "d2/d45/a12254.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
+    [ "LoadDumpFromFile", "d2/d45/a12254.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
+    [ "LoadDumpFromString", "d2/d45/a12254.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
 ];

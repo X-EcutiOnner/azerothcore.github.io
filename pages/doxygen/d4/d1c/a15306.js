@@ -1,7 +1,6 @@
 var a15306 =
 [
-    [ "HandleScript", "d4/d1c/a15306.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
-    [ "Load", "d4/d1c/a15306.html#a2dc1edf537f58133fb4daabde9f43843", null ],
-    [ "PrepareSpellScript", "d4/d1c/a15306.html#ae856c6e70ededa95c0308596a9f980af", null ],
-    [ "Register", "d4/d1c/a15306.html#ac2e82c7e626658faa968f75c26688b43", null ]
+    [ "npc_cos_chromie_start", "d4/d1c/a15306.html#ae8f810af1e593ad16958049f6ad19616", null ],
+    [ "OnGossipSelect", "d4/d1c/a15306.html#a80db05062f24dd2d5bc0bb6996cf8a30", null ],
+    [ "OnQuestAccept", "d4/d1c/a15306.html#a81ff4586ca64f198748aa84e1ffd9018", null ]
 ];

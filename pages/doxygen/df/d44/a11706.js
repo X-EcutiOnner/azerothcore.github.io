@@ -1,6 +1,12 @@
 var a11706 =
 [
-    [ "WorldObjectSpellConeTargetCheck", "df/d44/a11706.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
-    [ "operator()", "df/d44/a11706.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
-    [ "_coneAngle", "df/d44/a11706.html#a8f946789292320ea8b205dec5d1e1975", null ]
+    [ "Build", "df/d44/a11706.html#aa5ed2806342a36723f1317105ebc13fa", null ],
+    [ "FormatVersion", "df/d44/a11706.html#abf0c90aa56c9f74e4139b4a1ead3115e", null ],
+    [ "Locale", "df/d44/a11706.html#acdcbe4c10ad6143b756638349c185ae5", null ],
+    [ "OptionalDataSize", "df/d44/a11706.html#a88c79f6e69197e23ce191bcef187c0fe", null ],
+    [ "SessionKey", "df/d44/a11706.html#aff4e4f46725d72923bac3e197ae7d2e3", null ],
+    [ "Signature", "df/d44/a11706.html#a34b88d6d83daeee7827176993c152de4", null ],
+    [ "SnifferId", "df/d44/a11706.html#a95d3f116ef30a096970ee4f3dd10e2ed", null ],
+    [ "SniffStartTicks", "df/d44/a11706.html#a1884076ea4fe5af08964471d0058fd4d", null ],
+    [ "SniffStartUnixtime", "df/d44/a11706.html#a8923983e21b7a7f1dd3ee4f21b7df592", null ]
 ];

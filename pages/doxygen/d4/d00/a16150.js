@@ -1,6 +1,7 @@
 var a16150 =
 [
-    [ "ModDestHeight", "d4/d00/a16150.html#a8bda9327c4244af41c513528ad5c818c", null ],
-    [ "PrepareSpellScript", "d4/d00/a16150.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
-    [ "Register", "d4/d00/a16150.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
+    [ "npc_giltharesAI", "d8/df3/a16154.html", "d8/df3/a16154" ],
+    [ "npc_gilthares", "d4/d00/a16150.html#af1e0746350b32b68825710e1c3ed91a5", null ],
+    [ "GetAI", "d4/d00/a16150.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
+    [ "OnQuestAccept", "d4/d00/a16150.html#aa165513a4d25a6d1d704c226903e9271", null ]
 ];

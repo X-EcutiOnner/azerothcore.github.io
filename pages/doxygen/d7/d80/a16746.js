@@ -1,7 +1,16 @@
 var a16746 =
 [
-    [ "npc_toc_mageAI", "d7/d80/a16746.html#a188831088c892f68cef7498468b24899", null ],
-    [ "myCanCast", "d7/d80/a16746.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
-    [ "UpdateAI", "d7/d80/a16746.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
-    [ "events", "d7/d80/a16746.html#ab1910ce98f3d1b14e45acba22782d536", null ]
+    [ "npc_argent_soldierAI", "d7/d80/a16746.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
+    [ "DamageTaken", "d7/d80/a16746.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
+    [ "JustDied", "d7/d80/a16746.html#aedf4dcd909c1009fedfde593522454ec", null ],
+    [ "JustEngagedWith", "d7/d80/a16746.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
+    [ "Reset", "d7/d80/a16746.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
+    [ "SetData", "d7/d80/a16746.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
+    [ "UpdateAI", "d7/d80/a16746.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
+    [ "WaypointReached", "d7/d80/a16746.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
+    [ "WaypointReached", "d7/d80/a16746.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "bCheck", "d7/d80/a16746.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
+    [ "events", "d7/d80/a16746.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
+    [ "pInstance", "d7/d80/a16746.html#ac9951514f27f343ae96e856f484e7baf", null ],
+    [ "uiWaypoint", "d7/d80/a16746.html#a87382571221c608017fd2d4cb99193dc", null ]
 ];

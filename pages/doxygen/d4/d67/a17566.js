@@ -1,6 +1,5 @@
 var a17566 =
 [
-    [ "ChangeSummonPos", "d4/d67/a17566.html#a2c3d69419762c7f78688a22017a8c535", null ],
-    [ "PrepareSpellScript", "d4/d67/a17566.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
-    [ "Register", "d4/d67/a17566.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
+    [ "at_tyrannus_event_starter", "d4/d67/a17566.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
+    [ "OnTrigger", "d4/d67/a17566.html#adccf396220ef7de47e7afeca791de894", null ]
 ];

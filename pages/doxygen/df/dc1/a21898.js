@@ -1,6 +1,6 @@
 var a21898 =
 [
-    [ "npc_time_lost_proto_drakeAI", "db/d5c/a21902.html", "db/d5c/a21902" ],
-    [ "npc_time_lost_proto_drake", "df/dc1/a21898.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
-    [ "GetAI", "df/dc1/a21898.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
+    [ "HandleScriptEffect", "df/dc1/a21898.html#aab68c7fac277f4da5a6cf8bf8e6256ea", null ],
+    [ "PrepareSpellScript", "df/dc1/a21898.html#a6b7f628a138ac395a8cc122902ec38b4", null ],
+    [ "Register", "df/dc1/a21898.html#aacf2bbf7b8396fd7cfbfaf34a66f9b61", null ]
 ];

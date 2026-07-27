@@ -1,9 +1,8 @@
 var a13754 =
 [
-    [ "boss_muru", "df/de9/a13754.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
-    [ "DamageTaken", "df/de9/a13754.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
-    [ "JustEngagedWith", "df/de9/a13754.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
-    [ "JustSummoned", "df/de9/a13754.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
-    [ "MoveInLineOfSight", "df/de9/a13754.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
-    [ "Reset", "df/de9/a13754.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
+    [ "FilterTargets", "df/de9/a13754.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
+    [ "HandleAfterCast", "df/de9/a13754.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
+    [ "Load", "df/de9/a13754.html#aecfa38940ea3dd287179bdef3d290487", null ],
+    [ "PrepareSpellScript", "df/de9/a13754.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
+    [ "Register", "df/de9/a13754.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
 ];

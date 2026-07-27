@@ -1,19 +1,9 @@
 var a10582 =
 [
-    [ "AllGameObjectScript", "df/d78/a10582.html#ac6640c81043e19d7c73ed6208dd119dd", null ],
-    [ "CanGameObjectGossipHello", "df/d78/a10582.html#a33efc883fe64cdc52aa9b03f9377da97", null ],
-    [ "CanGameObjectGossipSelect", "df/d78/a10582.html#a317305c7dc81fede50d73f65fbc2bb42", null ],
-    [ "CanGameObjectGossipSelectCode", "df/d78/a10582.html#ac0b0ce8b06f371a6adfb69b926797790", null ],
-    [ "CanGameObjectQuestAccept", "df/d78/a10582.html#a0c99183b04355ecfb3460bc371b58805", null ],
-    [ "CanGameObjectQuestReward", "df/d78/a10582.html#a55eb61a5e4386908db998ceff1dff359", null ],
-    [ "GetGameObjectAI", "df/d78/a10582.html#afe0c610693bc883415952ba350596788", null ],
-    [ "OnGameObjectAddWorld", "df/d78/a10582.html#ae07275a83e4e1ae65371739bdc342d7f", null ],
-    [ "OnGameObjectDamaged", "df/d78/a10582.html#ab551bd870ab2e6513d95fcfb3e62d8c5", null ],
-    [ "OnGameObjectDestroyed", "df/d78/a10582.html#a3861b881456c1af3e9231d90519367d6", null ],
-    [ "OnGameObjectLootStateChanged", "df/d78/a10582.html#a599b35bb426d3c91c5457c838bfe910d", null ],
-    [ "OnGameObjectModifyHealth", "df/d78/a10582.html#a4d5607d755f044fed3a23c122bceddff", null ],
-    [ "OnGameObjectRemoveWorld", "df/d78/a10582.html#aca2171a8521195f06ea00c21f219d8f5", null ],
-    [ "OnGameObjectSaveToDB", "df/d78/a10582.html#ae4bb28ae318f13a72109a3874f2ca12d", null ],
-    [ "OnGameObjectStateChanged", "df/d78/a10582.html#ab0ab47240bdb815d404f8bd41fb3bdaa", null ],
-    [ "OnGameObjectUpdate", "df/d78/a10582.html#ada8cc5373b75025199ca62856242d0ab", null ]
+    [ "entry", "df/d78/a10582.html#a63e9b557b5e712d30580376ad811ff6c", null ],
+    [ "map", "df/d78/a10582.html#a762951c4230f0b40a59071e20852bf77", null ],
+    [ "o", "df/d78/a10582.html#a70e425f84949f6964a33250e6e9650ef", null ],
+    [ "x", "df/d78/a10582.html#a46b691dd3a31a59f56a4a7b36a35a982", null ],
+    [ "y", "df/d78/a10582.html#a38be6df7cf824ed47991c9fabb6fb06b", null ],
+    [ "z", "df/d78/a10582.html#ade7151bc8f29d91e33e7c78790d7ea55", null ]
 ];

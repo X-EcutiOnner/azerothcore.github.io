@@ -1,6 +1,6 @@
 var a11158 =
 [
-    [ "SetRaidDifficultyClient", "dd/d1c/a11158.html#afba49b9e3994eb461ac1b827d0c0fac7", null ],
-    [ "Read", "dd/d1c/a11158.html#a347a86f33f0c31a1c3279028d7dfc46c", null ],
-    [ "Mode", "dd/d1c/a11158.html#a445a55f5069f60a184b119c57cfedf9a", null ]
+    [ "GuildOfficerRemoveMember", "dd/d1c/a11158.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
+    [ "Read", "dd/d1c/a11158.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
+    [ "Removee", "dd/d1c/a11158.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
 ];

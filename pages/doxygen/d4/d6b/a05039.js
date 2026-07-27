@@ -1,7 +1,6 @@
 var a05039 =
 [
-    [ "GameobjectModelData", "d7/ded/a05364.html", "d7/ded/a05364" ],
-    [ "ModelList", "d4/d6b/a05039.html#a2f908ce58f8fea2d0606bfe603d719d1", null ],
-    [ "LoadGameObjectModelList", "d4/d6b/a05039.html#a5a80774080fc05f90c7d92213fda6788", null ],
-    [ "model_list", "d4/d6b/a05039.html#aa0a0fd13eaa3eba090a3085d41303f12", null ]
+    [ "IntegrationTestFixture", "dc/dd6/a29570.html", "dc/dd6/a29570" ],
+    [ "TEST_FACTION_HOSTILE_TO_ALL", "d4/d6b/a05039.html#a2ba0fc21bd7fc2eb0be55b83f098c883", null ],
+    [ "TEST_FACTION_HOSTILE_TO_MONSTERS", "d4/d6b/a05039.html#af72a10157e381ef81a175a8ac4844d73", null ]
 ];

@@ -1,5 +1,6 @@
 var a22122 =
 [
-    [ "OutdoorPvP_eastern_plaguelands", "db/d17/a22122.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
-    [ "GetOutdoorPvP", "db/d17/a22122.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
+    [ "ChangeSummonPos", "db/d17/a22122.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "db/d17/a22122.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "db/d17/a22122.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

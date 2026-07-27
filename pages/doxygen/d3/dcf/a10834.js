@@ -1,6 +1,6 @@
 var a10834 =
 [
-    [ "ShowBank", "d3/dcf/a10834.html#a57c189db7f6338f73d4e0028d846cfcf", null ],
-    [ "Write", "d3/dcf/a10834.html#a39e1b86a7d4d6163ab504797be1af505", null ],
-    [ "Banker", "d3/dcf/a10834.html#aeceda879d837508d95b79fbd3ee8d892", null ]
+    [ "OutdoorPvPScript", "d3/dcf/a10834.html#a1dfe19b5cc4e1eb2ad02ad8773aff290", null ],
+    [ "GetOutdoorPvP", "d3/dcf/a10834.html#aa213974f384c88ab65f7b7308dadb026", null ],
+    [ "IsDatabaseBound", "d3/dcf/a10834.html#ac22c6a9945738270452848f997d2818f", null ]
 ];

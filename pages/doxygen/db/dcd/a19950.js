@@ -1,11 +1,19 @@
 var a19950 =
 [
-    [ "npc_auriaya_feral_defender", "db/dcd/a19950.html#a84425204b0ad06789edb331ed8495774", null ],
-    [ "DoAction", "db/dcd/a19950.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
-    [ "JustDied", "db/dcd/a19950.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
-    [ "JustEngagedWith", "db/dcd/a19950.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
-    [ "Reset", "db/dcd/a19950.html#a02b09b7dfdd4036827bb474a57296491", null ],
-    [ "UpdateAI", "db/dcd/a19950.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
-    [ "_feralEssenceStack", "db/dcd/a19950.html#a1ffc377dbad787a5eb132758124df534", null ],
-    [ "_summons", "db/dcd/a19950.html#a0b7960f590ba76068c377cf08291ce35", null ]
+    [ "boss_bjarngrim", "db/dcd/a19950.html#a1bf90864479939ba3f251c38b173e23a", null ],
+    [ "InitializeWaypoints", "db/dcd/a19950.html#a87eab2b27b48d98b94a030936722781e", null ],
+    [ "JustDied", "db/dcd/a19950.html#a5a1ea3f7825d5a90feabc2b18865e75f", null ],
+    [ "JustEngagedWith", "db/dcd/a19950.html#ad150ab7d9837861e8c4673a78978bb11", null ],
+    [ "JustRespawned", "db/dcd/a19950.html#ab698e8ea0de311b167d95c01ef1bee69", null ],
+    [ "KilledUnit", "db/dcd/a19950.html#abd4d83ebc59cac8cf97fa495d42675f8", null ],
+    [ "RemoveStanceAura", "db/dcd/a19950.html#a55a695e27192313c6cbe263a739e669e", null ],
+    [ "Reset", "db/dcd/a19950.html#a1f61ac153bb78129c89e6caba7dc7522", null ],
+    [ "RollStance", "db/dcd/a19950.html#acd511435f9d77aa4839e1c856382ea51", null ],
+    [ "UpdateEscortAI", "db/dcd/a19950.html#ab0c5aea43ef8c40c0af6a336dccd2b97", null ],
+    [ "WaypointReached", "db/dcd/a19950.html#a9706ccb196a09fe5f16efb20578f83f0", null ],
+    [ "WaypointReached", "db/dcd/a19950.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "events", "db/dcd/a19950.html#ac72b38eced65a3246b4c83a82caf44cb", null ],
+    [ "m_pInstance", "db/dcd/a19950.html#ad72abbd2eaa7d56fd1b409ffd2980d87", null ],
+    [ "m_uiStance", "db/dcd/a19950.html#aec11755c71f056c8294a8af1c1084353", null ],
+    [ "summons", "db/dcd/a19950.html#a9cacb3d985fb9e4b2501ab4b4334cdab", null ]
 ];

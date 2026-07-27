@@ -1,7 +1,6 @@
 var a14054 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d5/dfa/a14054.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
-    [ "Reset", "d5/dfa/a14054.html#a18de805428ce0954a5fbfffbf5975342", null ],
-    [ "UpdateAI", "d5/dfa/a14054.html#a48b191d0812bfe3212511a52ef0df817", null ],
-    [ "_events", "d5/dfa/a14054.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
+    [ "npc_grand_magister_rommathAI", "d5/da0/a14058.html", "d5/da0/a14058" ],
+    [ "npc_grand_magister_rommath", "d5/dfa/a14054.html#a63b9786bfbd9c7b462b0549e2f6941ea", null ],
+    [ "GetAI", "d5/dfa/a14054.html#abd64eff4712e8209e39e938b1813250c", null ]
 ];

@@ -1,8 +1,14 @@
 var a23226 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "db/d45/a23226.html#aebc047b45cb4560a38df89db75f8efab", null ],
-    [ "Initialize", "db/d45/a23226.html#a115a36ec26e15e23be4d78250d86d814", null ],
-    [ "OnGameObjectCreate", "db/d45/a23226.html#a0639fcd867616d1f04aacde44020bb30", null ],
-    [ "SetBossState", "db/d45/a23226.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
-    [ "felIronChestGUID", "db/d45/a23226.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
+    [ "boss_the_lurker_below", "db/d45/a23226.html#ac76c71b6a47e1a936256d9c5901c27ab", null ],
+    [ "AttackStart", "db/d45/a23226.html#af0f6fbe31dbcd6df4e8f1b57730e093b", null ],
+    [ "DamageTaken", "db/d45/a23226.html#ae7c05744013753b29072ec1b5d9f2570", null ],
+    [ "DoAction", "db/d45/a23226.html#a30e07055aa632066a75ad48f3e8109e2", null ],
+    [ "EnterEvadeMode", "db/d45/a23226.html#a522164e819db5062225f7d5704cdaa36", null ],
+    [ "JustEngagedWith", "db/d45/a23226.html#aa31e26b77e0c2403a338f781bf14c94b", null ],
+    [ "Reset", "db/d45/a23226.html#ae592707182d64689e6578813b3617ee3", null ],
+    [ "SchedulerPhaseOne", "db/d45/a23226.html#a42dd2ed36209e7be61788d054e2754b5", null ],
+    [ "SchedulerPhaseTwo", "db/d45/a23226.html#aa910c20d3ee26d6d2e71818008eb3b5c", null ],
+    [ "SummonedCreatureDies", "db/d45/a23226.html#a5ec68a1bc5b22e03fe485448257ad7df", null ],
+    [ "UpdateAI", "db/d45/a23226.html#a92d854cb21b272bd09674c724b1aa862", null ]
 ];

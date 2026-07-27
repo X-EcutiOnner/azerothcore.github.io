@@ -1,5 +1,15 @@
 var a29562 =
 [
-    [ "SetUp", "d4/d5c/a29562.html#a2f34b980c62df0c4cbebece70acb396f", null ],
-    [ "_unit", "d4/d5c/a29562.html#ab0992f0862085b81aac8ec6680c590c1", null ]
+    [ "DamageInfoStubBuilder", "d4/d5c/a29562.html#a282b4f92722f9cf12358a9f603df6902", null ],
+    [ "Build", "d4/d5c/a29562.html#ad50ac35ca7a10f0eb20383fbde4a54dc", null ],
+    [ "WithAbsorb", "d4/d5c/a29562.html#a3533bbda604c4ed6ac467f28ecb60fbe", null ],
+    [ "WithAttackType", "d4/d5c/a29562.html#a4fd9332aa42002056d3f9191cd4435d7", null ],
+    [ "WithBlock", "d4/d5c/a29562.html#a81381d471627ddd6e86678551ca4ab5b", null ],
+    [ "WithDamage", "d4/d5c/a29562.html#abf9d30cde831f2094a181a312bcfe9df", null ],
+    [ "WithHitMask", "d4/d5c/a29562.html#a161f5ea9ae33541dfcfd600fc5546b20", null ],
+    [ "WithOriginalDamage", "d4/d5c/a29562.html#a3265aa4aa273cc9ededb6c9673f6c9e3", null ],
+    [ "WithResist", "d4/d5c/a29562.html#a76827724d8b8d780dc5d136ca01e51e6", null ],
+    [ "WithSchoolMask", "d4/d5c/a29562.html#ab540fcb56c4034daea104a1b844bdb3a", null ],
+    [ "WithSpellInfo", "d4/d5c/a29562.html#a681fe7d0c7f3b4136ad4ba2a662e6393", null ],
+    [ "_stub", "d4/d5c/a29562.html#abf06c6b638dcd9489fa0e3d755433514", null ]
 ];

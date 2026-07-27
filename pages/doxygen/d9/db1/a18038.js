@@ -1,7 +1,6 @@
 var a18038 =
 [
-    [ "HandleScriptEffect", "d9/db1/a18038.html#abeb703f8f050677bafb8f5ce4173751a", null ],
-    [ "PrepareSpellScript", "d9/db1/a18038.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
-    [ "Register", "d9/db1/a18038.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
-    [ "SelectTarget", "d9/db1/a18038.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
+    [ "npc_gunship_mageAI", "d8/d42/a18042.html", "d8/d42/a18042" ],
+    [ "npc_gunship_mage", "d9/db1/a18038.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
+    [ "GetAI", "d9/db1/a18038.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
 ];

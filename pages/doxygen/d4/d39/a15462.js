@@ -1,6 +1,6 @@
 var a15462 =
 [
-    [ "OnPeriodic", "d4/d39/a15462.html#a08dce8b98afadc134166a615b4496151", null ],
-    [ "PrepareAuraScript", "d4/d39/a15462.html#a9ebb34665b176e4e60f085da65183d8e", null ],
-    [ "Register", "d4/d39/a15462.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
+    [ "npc_belnistraszAI", "d7/d5a/a15466.html", "d7/d5a/a15466" ],
+    [ "npc_belnistrasz", "d4/d39/a15462.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
+    [ "GetAI", "d4/d39/a15462.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
 ];

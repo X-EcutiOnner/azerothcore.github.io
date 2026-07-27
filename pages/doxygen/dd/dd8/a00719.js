@@ -1,6 +1,5 @@
 var a00719 =
 [
-    [ "fireworkShowGameobjectOrgrimmar", "dd/dd8/a00719.html#aa00988212bcd8875445e2b120c00025c", null ],
-    [ "fireworkShowOrgrimmar", "dd/dd8/a00719.html#a20e15c8e61c734af478a4849bd54c9d3", null ],
-    [ "fireworkShowScheduleOrgrimmar", "dd/dd8/a00719.html#a2e2ca4fa893601a2122f94a72c18401f", null ]
+    [ "_ModifyUInt32", "dd/dd8/a00719.html#ab53d40bc3b1cf5c14440f3e212aa4f08", null ],
+    [ "m_diminishing_k", "dd/dd8/a00719.html#a826ceb2644eb2661137e2983dd779164", null ]
 ];

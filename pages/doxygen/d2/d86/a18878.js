@@ -1,6 +1,7 @@
 var a18878 =
 [
-    [ "npc_captain_brandonAI", "d2/d86/a18878.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "d2/d86/a18878.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "d2/d86/a18878.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "AuraRemoveEvent", "d2/d86/a18878.html#a094b9437c7cadb465738daf5684c9725", null ],
+    [ "Execute", "d2/d86/a18878.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
+    [ "_spellId", "d2/d86/a18878.html#a6fad41839e07e9545859be7c3afcfc36", null ],
+    [ "_trigger", "d2/d86/a18878.html#aad8c27befc102dae6823d5d74fed50b4", null ]
 ];

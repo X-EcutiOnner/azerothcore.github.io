@@ -1,6 +1,9 @@
 var a25650 =
 [
-    [ "HandleProc", "d3/de3/a25650.html#aa333d52d905e722554d8d61c4b9cb656", null ],
-    [ "PrepareAuraScript", "d3/de3/a25650.html#aac4320b061d627e4ffef737d2e858ef3", null ],
-    [ "Register", "d3/de3/a25650.html#ad58fea9afa6a3596437a324ec525982e", null ]
+    [ "DoCheckCast", "d3/de3/a25650.html#a09c7bd66988c38cb019656842ed87366", null ],
+    [ "HandleDummy", "d3/de3/a25650.html#a183e2ac37a432ea2902b31e24a474cea", null ],
+    [ "HandleScriptEffect", "d3/de3/a25650.html#a396b1129f15056d0b22c7887f56bea99", null ],
+    [ "PrepareSpellScript", "d3/de3/a25650.html#aad4de93de822a742e02ac8d5d395d482", null ],
+    [ "Register", "d3/de3/a25650.html#a84fc18d6a2d92aefa2cc4d8095780314", null ],
+    [ "Validate", "d3/de3/a25650.html#a2565f0ad3bb988ad37dd6a60f08c995c", null ]
 ];

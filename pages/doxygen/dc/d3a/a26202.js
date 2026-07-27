@@ -1,7 +1,8 @@
 var a26202 =
 [
-    [ "HandleProc", "dc/d3a/a26202.html#a8ef5ced5c1078116dd4b4a1015798ccf", null ],
-    [ "PrepareAuraScript", "dc/d3a/a26202.html#a4dccd6d5422fa64a52103dad76c99b6b", null ],
-    [ "Register", "dc/d3a/a26202.html#a208025fdf008145564719bd3a0c35097", null ],
-    [ "Validate", "dc/d3a/a26202.html#a8bf0bbc831bbd6c476fc8f018402ec3c", null ]
+    [ "HandleScript", "dc/d3a/a26202.html#ad99c741ef4bf707ec4b4726a3610d827", null ],
+    [ "Load", "dc/d3a/a26202.html#ab7aac5c557c76fdd195565a99d746dc9", null ],
+    [ "PrepareSpellScript", "dc/d3a/a26202.html#abb6e76d537d61b5b38ce4488d230d6de", null ],
+    [ "Register", "dc/d3a/a26202.html#a2f7e819dfa30f4f0d3645fde9c87408c", null ],
+    [ "Validate", "dc/d3a/a26202.html#a0767c66cbc288bee6ee0eb3a4fde315f", null ]
 ];

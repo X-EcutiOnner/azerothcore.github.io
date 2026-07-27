@@ -1,7 +1,9 @@
 var a24994 =
 [
-    [ "HandleScript", "d9/dc0/a24994.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
-    [ "PrepareSpellScript", "d9/dc0/a24994.html#a7909f23da8385abdabb62e5196d88d38", null ],
-    [ "Register", "d9/dc0/a24994.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
-    [ "Validate", "d9/dc0/a24994.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
+    [ "PrepareAuraScript", "d9/dc0/a24994.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "d9/dc0/a24994.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "d9/dc0/a24994.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "d9/dc0/a24994.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "d9/dc0/a24994.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "d9/dc0/a24994.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

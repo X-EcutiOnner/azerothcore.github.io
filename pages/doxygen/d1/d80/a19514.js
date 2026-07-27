@@ -1,6 +1,6 @@
 var a19514 =
 [
-    [ "ChargeRifts", "d1/d80/a19514.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "d1/d80/a19514.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "d1/d80/a19514.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "boss_grobbulusAI", "d2/d28/a19518.html", "d2/d28/a19518" ],
+    [ "boss_grobbulus", "d1/d80/a19514.html#acf1b781e86e33a363b68354d34d3c015", null ],
+    [ "GetAI", "d1/d80/a19514.html#ae918614566a0b9979aef4e1aeaac394c", null ]
 ];

@@ -1,6 +1,11 @@
 var a13314 =
 [
-    [ "npc_scarlet_courierAI", "da/d9b/a13318.html", "da/d9b/a13318" ],
-    [ "npc_scarlet_courier", "d9/d3b/a13314.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
-    [ "GetAI", "d9/d3b/a13314.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
+    [ "npc_demon_chain", "d9/d3b/a13314.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
+    [ "AttackStart", "d9/d3b/a13314.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
+    [ "IsSummonedBy", "d9/d3b/a13314.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
+    [ "JustDied", "d9/d3b/a13314.html#a35d1b7de8612f11cdf61b9d663990686", null ],
+    [ "JustEngagedWith", "d9/d3b/a13314.html#a9743ebc31c5159a03889bfd40b09d749", null ],
+    [ "MoveInLineOfSight", "d9/d3b/a13314.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
+    [ "Reset", "d9/d3b/a13314.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
+    [ "sacrificeGUID", "d9/d3b/a13314.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
 ];

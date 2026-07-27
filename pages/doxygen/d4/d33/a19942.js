@@ -1,15 +1,9 @@
 var a19942 =
 [
-    [ "boss_auriaya", "d4/d33/a19942.html#a2d946ada185a29bf00dc49d28089e64e", null ],
-    [ "DoAction", "d4/d33/a19942.html#aa58503020e3382e0c541047b233945a7", null ],
-    [ "ExecuteEvent", "d4/d33/a19942.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
-    [ "GetData", "d4/d33/a19942.html#a44781b758392f8f519b9684617757620", null ],
-    [ "JustDied", "d4/d33/a19942.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
-    [ "JustEngagedWith", "d4/d33/a19942.html#ac80d7bbc334e20df9e85540556b8714e", null ],
-    [ "JustSummoned", "d4/d33/a19942.html#aaec8af440e83fd614041cb63115adc48", null ],
-    [ "KilledUnit", "d4/d33/a19942.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
-    [ "Reset", "d4/d33/a19942.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
-    [ "SummonedCreatureDies", "d4/d33/a19942.html#a928a8d7c084125136bdef1ab0a3a4737", null ],
-    [ "_feralDied", "d4/d33/a19942.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
-    [ "_nineLives", "d4/d33/a19942.html#a26d80573eda1aa1005e1bc5453c182af", null ]
+    [ "HandleOnEffectApply", "d4/d33/a19942.html#a6ab047004cc901331d747641f218cf6a", null ],
+    [ "HandleOnEffectRemove", "d4/d33/a19942.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
+    [ "PrepareAuraScript", "d4/d33/a19942.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
+    [ "Register", "d4/d33/a19942.html#a83b0d414a6e97b434f82492fa01ac385", null ],
+    [ "Validate", "d4/d33/a19942.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
+    [ "_drakeGUID", "d4/d33/a19942.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
 ];

@@ -1,6 +1,9 @@
 var a21646 =
 [
-    [ "npc_attracted_reef_bullAI", "df/df0/a21646.html#aa8917a912fb31a5987332e53e8d268e7", null ],
-    [ "MovementInform", "df/df0/a21646.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
-    [ "SpellHit", "df/df0/a21646.html#ab06ee7ef84d881262ae682b69fae3135", null ]
+    [ "npc_bloodmage_laurithAI", "df/df0/a21646.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "df/df0/a21646.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "df/df0/a21646.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
+    [ "UpdateAI", "df/df0/a21646.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "df/df0/a21646.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "df/df0/a21646.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

@@ -1,8 +1,6 @@
 var a18438 =
 [
-    [ "HeightDifferenceCheck", "de/d03/a18438.html#aa8b61811e435cce456e5cb1d798be66e", null ],
-    [ "operator()", "de/d03/a18438.html#a1db203642683f85176f2a35eb3d10c34", null ],
-    [ "_baseObject", "de/d03/a18438.html#a7c274be02ca58429dffaee2ea34153c6", null ],
-    [ "_difference", "de/d03/a18438.html#af95e2bf67c8316dda982896978c45a68", null ],
-    [ "_reverse", "de/d03/a18438.html#a89074844d5fd8b02ed99c09ac4cc5b85", null ]
+    [ "DespawnSelf", "de/d03/a18438.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "de/d03/a18438.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "de/d03/a18438.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

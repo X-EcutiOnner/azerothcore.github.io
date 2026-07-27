@@ -1,6 +1,5 @@
 var a22542 =
 [
-    [ "boss_essence_of_sufferingAI", "de/d5a/a22546.html", "de/d5a/a22546" ],
-    [ "boss_essence_of_suffering", "de/dcc/a22542.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "de/dcc/a22542.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "outdoorpvp_na_halaa_creatures", "de/dcc/a22542.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
+    [ "UpdateAI", "de/dcc/a22542.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
 ];

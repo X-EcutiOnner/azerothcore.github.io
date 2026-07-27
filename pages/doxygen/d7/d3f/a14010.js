@@ -1,10 +1,6 @@
 var a14010 =
 [
-    [ "npc_tyrion_spybotAI", "d7/d3f/a14010.html#aedad685279012266637d29069ead9063", null ],
-    [ "Reset", "d7/d3f/a14010.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
-    [ "UpdateAI", "d7/d3f/a14010.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
-    [ "WaypointReached", "d7/d3f/a14010.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
-    [ "WaypointReached", "d7/d3f/a14010.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "uiPhase", "d7/d3f/a14010.html#af5dbb99fe18d96665efd04bd53294636", null ],
-    [ "uiTimer", "d7/d3f/a14010.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
+    [ "npc_lor_themar_theron", "d7/d3f/a14010.html#acf8b65675cc46949440a829fc1adf5fc", null ],
+    [ "JustDied", "d7/d3f/a14010.html#ad2615cc062c8c1f4b01fc9e253fe34d4", null ],
+    [ "UpdateAI", "d7/d3f/a14010.html#aa9eafbacdb75bfbf772c901ce96119c6", null ]
 ];

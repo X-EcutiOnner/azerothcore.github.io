@@ -1,6 +1,7 @@
 var a21974 =
 [
-    [ "HandleDamage", "de/df7/a21974.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
-    [ "PrepareSpellScript", "de/df7/a21974.html#a23b6afe1e35edc4013767b119b8e0218", null ],
-    [ "Register", "de/df7/a21974.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
+    [ "HandleAfterEffectApply", "de/df7/a21974.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "de/df7/a21974.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "de/df7/a21974.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "de/df7/a21974.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

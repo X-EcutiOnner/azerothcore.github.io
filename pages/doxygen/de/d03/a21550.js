@@ -1,7 +1,6 @@
 var a21550 =
 [
-    [ "HandleScriptEffect", "de/d03/a21550.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
-    [ "PrepareSpellScript", "de/d03/a21550.html#adf6593e47a5766c40e7e3859fce00f81", null ],
-    [ "Register", "de/d03/a21550.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
-    [ "Validate", "de/d03/a21550.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
+    [ "npc_sinkhole_kill_creditAI", "d9/da7/a21554.html", "d9/da7/a21554" ],
+    [ "npc_sinkhole_kill_credit", "de/d03/a21550.html#a627d01aaaa3408986f2b4d171624e680", null ],
+    [ "GetAI", "de/d03/a21550.html#a4d734432f132bea2c4525d049fbcfa67", null ]
 ];

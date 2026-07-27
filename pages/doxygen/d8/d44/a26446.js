@@ -1,10 +1,9 @@
 var a26446 =
 [
-    [ "CalculateAPAmount", "d8/d44/a26446.html#a611247fcbdaeeb416a8cfbaf1a0fc415", null ],
-    [ "CalculateResistanceAmount", "d8/d44/a26446.html#aa3fd9aa18ea2afa20c7c2298a8699812", null ],
-    [ "CalculateSPAmount", "d8/d44/a26446.html#a9ae59870127884029a938684786e67a9", null ],
-    [ "CalculateStatAmount", "d8/d44/a26446.html#a4ac5ffabf820d73d4a92a4a0628370e9", null ],
-    [ "HandleEffectApply", "d8/d44/a26446.html#aaca0801f75839ebd9568c4cd31011a1e", null ],
-    [ "PrepareAuraScript", "d8/d44/a26446.html#aa90952337607986eaf7485200a32c353", null ],
-    [ "Register", "d8/d44/a26446.html#a88520214bd87511b615965593f1b927f", null ]
+    [ "HandleAfterCast", "d8/d44/a26446.html#afd2fbc51ac1e99789994021af36688f3", null ],
+    [ "HandleTriggerSpell", "d8/d44/a26446.html#ae140ab00101f081454b55e12a7c54440", null ],
+    [ "Load", "d8/d44/a26446.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
+    [ "PrepareSpellScript", "d8/d44/a26446.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
+    [ "Register", "d8/d44/a26446.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
+    [ "_triggerSpellId", "d8/d44/a26446.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
 ];

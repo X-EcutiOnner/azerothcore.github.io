@@ -1,6 +1,7 @@
 var a23278 =
 [
-    [ "PrepareSpellScript", "d3/d91/a23278.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "d3/d91/a23278.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "d3/d91/a23278.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "HandleEffectRemove", "d3/d91/a23278.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
+    [ "HandlePeriodic", "d3/d91/a23278.html#a5137e24394fa14129c44d92c79eef117", null ],
+    [ "PrepareAuraScript", "d3/d91/a23278.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
+    [ "Register", "d3/d91/a23278.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
 ];

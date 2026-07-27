@@ -1,8 +1,7 @@
 var a18922 =
 [
-    [ "npc_arthas_teleport_visualAI", "df/de3/a18922.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "df/de3/a18922.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "df/de3/a18922.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "df/de3/a18922.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "df/de3/a18922.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "npc_valithria_portalAI", "df/de3/a18922.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
+    [ "GetData", "df/de3/a18922.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
+    [ "OnSpellClick", "df/de3/a18922.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
+    [ "_used", "df/de3/a18922.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
 ];

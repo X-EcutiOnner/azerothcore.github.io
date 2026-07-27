@@ -1,7 +1,7 @@
 var a15542 =
 [
-    [ "boss_glob_of_viscidus", "de/d2f/a15542.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
-    [ "InitializeAI", "de/d2f/a15542.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
-    [ "MovementInform", "de/d2f/a15542.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
-    [ "UpdateAI", "de/d2f/a15542.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
+    [ "FilterTargets", "de/d2f/a15542.html#a59e477333a54ec828a429d15b35d4936", null ],
+    [ "HandleScript", "de/d2f/a15542.html#a983fe53aa52e53a45685055fde04a3b7", null ],
+    [ "PrepareSpellScript", "de/d2f/a15542.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
+    [ "Register", "de/d2f/a15542.html#a45ac61990990f16c98eaa7136297afc5", null ]
 ];

@@ -1,10 +1,6 @@
 var a08742 =
 [
-    [ "ObjectGuidGeneratorBase", "de/d9c/a08742.html#a8af6741cc884915ee86b489fc970fed1", null ],
-    [ "~ObjectGuidGeneratorBase", "de/d9c/a08742.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
-    [ "Generate", "de/d9c/a08742.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
-    [ "GetNextAfterMaxUsed", "de/d9c/a08742.html#abf1f20b97af8071459bd850e7106a442", null ],
-    [ "HandleCounterOverflow", "de/d9c/a08742.html#ada7a44ac47b112491c575c38465740fc", null ],
-    [ "Set", "de/d9c/a08742.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
-    [ "_nextGuid", "de/d9c/a08742.html#a4a14102e019aa10f41b050054cacca22", null ]
+    [ "DamageMax", "de/d9c/a08742.html#afc0bd7960848f6434c182a3fadc1e256", null ],
+    [ "DamageMin", "de/d9c/a08742.html#acbab962cbc25ad032c97216feac281bb", null ],
+    [ "DamageType", "de/d9c/a08742.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
 ];

@@ -1,5 +1,6 @@
 var a21694 =
 [
-    [ "npc_black_knight_graveyardAI", "dc/dd7/a21694.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
-    [ "MoveInLineOfSight", "dc/dd7/a21694.html#aa5c80b5759656e3865d6721161f9f005", null ]
+    [ "npc_archmage_landalockAI", "d9/de8/a21698.html", "d9/de8/a21698" ],
+    [ "npc_archmage_landalock", "dc/dd7/a21694.html#ac7379ff07740123312af66ead64df4c6", null ],
+    [ "GetAI", "dc/dd7/a21694.html#a92cfa8c2660413681297bfe12815c938", null ]
 ];

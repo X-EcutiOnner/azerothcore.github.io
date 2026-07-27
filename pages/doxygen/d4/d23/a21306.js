@@ -1,13 +1,9 @@
 var a21306 =
 [
-    [ "npc_preparations_for_war_vehicle", "d4/d23/a21306.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
-    [ "MovementInform", "d4/d23/a21306.html#a5380670d521c7805a045aeac26c7c686", null ],
-    [ "PassengerBoarded", "d4/d23/a21306.html#a84b4af01c9854cbae3fca5a59aa83763", null ],
-    [ "SpellHit", "d4/d23/a21306.html#acf861b4dae849862241f6a6a8abdcdd8", null ],
-    [ "UpdateAI", "d4/d23/a21306.html#ae40a23070d96ecf122e9de5571a845ef", null ],
-    [ "passenger_x", "d4/d23/a21306.html#ac2eb8ea5fa8f5c5206ae799e4b74b213", null ],
-    [ "passenger_y", "d4/d23/a21306.html#afd99c49b3c3b996c92def21229f1ec87", null ],
-    [ "passenger_z", "d4/d23/a21306.html#a18d051868134d8c62f64923905bf19db", null ],
-    [ "searchForShipTimer", "d4/d23/a21306.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
-    [ "transportEntry", "d4/d23/a21306.html#aa0083566387cd42750aaa56b1fa23fed", null ]
+    [ "CastTheNextTwoSpells", "d4/d23/a21306.html#a70a154ea5c19c36630e94c5214ee6722", null ],
+    [ "OnPeriodic", "d4/d23/a21306.html#ac9b99d9328affec2787691f80e0cc9c3", null ],
+    [ "PrepareAuraScript", "d4/d23/a21306.html#ac7450be0713ce98e7986d322a58289f6", null ],
+    [ "PushBackTheNextTwoSpells", "d4/d23/a21306.html#a9e470116c80cf56b425e344d73e44533", null ],
+    [ "Register", "d4/d23/a21306.html#ad948e7cb5a64ed5bd202c10b28285d9c", null ],
+    [ "_summonSpells", "d4/d23/a21306.html#a578dbb8c828e3acf36b21a38628c94e1", null ]
 ];

@@ -1,10 +1,8 @@
 var a10082 =
 [
-    [ "DoublePosition", "d7/de1/a10086.html", "d7/de1/a10086" ],
-    [ "~AreaBoundary", "d2/d7a/a10082.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
-    [ "AreaBoundary", "d2/d7a/a10082.html#adf670910c492c08d3384c2dd1824e7ce", null ],
-    [ "IsWithinBoundary", "d2/d7a/a10082.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
-    [ "IsWithinBoundary", "d2/d7a/a10082.html#a1d407f77ce0388263fc0ee6224734213", null ],
-    [ "IsWithinBoundaryArea", "d2/d7a/a10082.html#ae5580b0044dba24d100831fe51ee1abc", null ],
-    [ "_isInvertedBoundary", "d2/d7a/a10082.html#ad416f29594688ce670549d6fdcce4314", null ]
+    [ "BossInfo", "d2/d7a/a10082.html#a455f533d647927d182176c3cceb21f42", null ],
+    [ "boundary", "d2/d7a/a10082.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
+    [ "door", "d2/d7a/a10082.html#a858af8825ed4fe183ee19b6f10239304", null ],
+    [ "minion", "d2/d7a/a10082.html#abec1469d41f286d02c34223171373cd3", null ],
+    [ "state", "d2/d7a/a10082.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
 ];

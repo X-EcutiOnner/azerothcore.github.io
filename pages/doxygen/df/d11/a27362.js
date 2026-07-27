@@ -1,10 +1,6 @@
 var a27362 =
 [
-    [ "CheckProc", "df/d11/a27362.html#a257202ac9b80a67ce58d9e3491164d22", null ],
-    [ "HandleProc", "df/d11/a27362.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
-    [ "HandleTick", "df/d11/a27362.html#a5e436c530e5ef70bc4de4305676ed196", null ],
-    [ "PrepareAuraScript", "df/d11/a27362.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
-    [ "Register", "df/d11/a27362.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
-    [ "RemoveEffect", "df/d11/a27362.html#a333ad80d8478f59713ee049f935d7885", null ],
-    [ "Validate", "df/d11/a27362.html#aed3cb37f0230463978b210add84bd31d", null ]
+    [ "HandleProc", "df/d11/a27362.html#a88c2793fb6043d4d4e970a99df38681a", null ],
+    [ "PrepareAuraScript", "df/d11/a27362.html#aa2b2e8a0b209d96828ad8c5dd84726b6", null ],
+    [ "Register", "df/d11/a27362.html#a9e69ca6fa962ccf17c090243a91b4d51", null ]
 ];

@@ -1,8 +1,6 @@
 var a27050 =
 [
-    [ "ApplyDebuff", "dc/d8d/a27050.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
-    [ "PrepareSpellScript", "dc/d8d/a27050.html#aa37525d089348f58e3d871830caa3417", null ],
-    [ "Register", "dc/d8d/a27050.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
-    [ "RemoveInvalidTargets", "dc/d8d/a27050.html#a0451b75aa962065a01a5806992e01b16", null ],
-    [ "Validate", "dc/d8d/a27050.html#ac69d777fdf7a2d3c527621dee256690c", null ]
+    [ "HandleScript", "dc/d8d/a27050.html#ae81570045d4984ee5682a0333b1b142d", null ],
+    [ "PrepareSpellScript", "dc/d8d/a27050.html#acb074781e07961998362349a7616fc4e", null ],
+    [ "Register", "dc/d8d/a27050.html#aaf41593da5ebb1118ccb10a5d4d32b26", null ]
 ];

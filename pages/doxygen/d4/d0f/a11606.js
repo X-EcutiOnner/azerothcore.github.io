@@ -1,5 +1,6 @@
 var a11606 =
 [
-    [ "SocketAdded", "d4/d0f/a11606.html#a01090d6713f49dc026f77f8481b492cb", null ],
-    [ "SocketRemoved", "d4/d0f/a11606.html#a4a978f9304e4aeabfb9ce1998b8a27cc", null ]
+    [ "QuestGiverQuestInvalid", "d4/d0f/a11606.html#a7220ac375523d524f905042722522bfb", null ],
+    [ "Write", "d4/d0f/a11606.html#aed56e88c0fc568d524913c0863a45622", null ],
+    [ "FailureReason", "d4/d0f/a11606.html#a7c2cc4153399abfbaa4b2b2811d2fde2", null ]
 ];

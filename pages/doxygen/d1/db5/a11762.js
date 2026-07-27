@@ -1,7 +1,7 @@
 var a11762 =
 [
-    [ "ap_bonus", "d1/db5/a11762.html#a98410b8bb89434cd7e1747462f8039dc", null ],
-    [ "ap_dot_bonus", "d1/db5/a11762.html#a09caeec47b138d9eff3539795416a09a", null ],
-    [ "direct_damage", "d1/db5/a11762.html#abab1af227a6c8e592b8a9bd15589535d", null ],
-    [ "dot_damage", "d1/db5/a11762.html#a92491d8d1e61612d88c7c830d7912be5", null ]
+    [ "Player", "d1/db5/a11762.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d1/db5/a11762.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "FactionChange", "d1/db5/a11762.html#adff657ead29df26ead5e20a8ecf44e87", null ],
+    [ "Race", "d1/db5/a11762.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
 ];

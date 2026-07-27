@@ -1,6 +1,6 @@
 var a28102 =
 [
-    [ "spawnedCreatureEntry", "d0/db7/a28102.html#a32b390dfff99d5fd3c49359779718af4", null ],
-    [ "spawnType", "d0/db7/a28102.html#a056dabf4092da4ef3155a661607ca772", null ],
-    [ "thisCreatureEntry", "d0/db7/a28102.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
+    [ "npc_spirit_shadeAI", "d8/dd2/a28106.html", "d8/dd2/a28106" ],
+    [ "npc_spirit_shade", "d0/db7/a28102.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "d0/db7/a28102.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

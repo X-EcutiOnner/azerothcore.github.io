@@ -1,6 +1,6 @@
 var a16742 =
 [
-    [ "npc_toc_mageAI", "d7/d80/a16746.html", "d7/d80/a16746" ],
-    [ "npc_toc_mage", "dd/d5b/a16742.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
-    [ "GetAI", "dd/d5b/a16742.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
+    [ "npc_argent_soldierAI", "d7/d80/a16746.html", "d7/d80/a16746" ],
+    [ "npc_argent_soldier", "dd/d5b/a16742.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
+    [ "GetAI", "dd/d5b/a16742.html#adfeed3d533104b9617dfbb06925a3d44", null ]
 ];

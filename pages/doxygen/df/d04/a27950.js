@@ -1,6 +1,7 @@
 var a27950 =
 [
-    [ "guard_shattrath_scryerAI", "d3/dad/a27954.html", "d3/dad/a27954" ],
-    [ "guard_shattrath_scryer", "df/d04/a27950.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "df/d04/a27950.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "HandleProc", "df/d04/a27950.html#a39a69b837c5844d345f5a311f5760bf6", null ],
+    [ "PrepareAuraScript", "df/d04/a27950.html#a673557238631dbca8954f516718f0eb2", null ],
+    [ "Register", "df/d04/a27950.html#aa9f71fd65dd63f66a7ff3c7757174e67", null ],
+    [ "Validate", "df/d04/a27950.html#aedf17c34772c0e2030388fc9b17aec38", null ]
 ];

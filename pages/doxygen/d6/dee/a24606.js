@@ -1,8 +1,8 @@
 var a24606 =
 [
-    [ "HandleSchoolDMG", "d6/dee/a24606.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
-    [ "HandleScriptEffect", "d6/dee/a24606.html#a06f9cf29387b49f3e5950661173c77eb", null ],
-    [ "PrepareSpellScript", "d6/dee/a24606.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
-    [ "Register", "d6/dee/a24606.html#a9bdbf7578509976d482a26869e9068aa", null ],
-    [ "Validate", "d6/dee/a24606.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
+    [ "HandleEffectApply", "d6/dee/a24606.html#a88e98bcb11fb16696f789878f79c665c", null ],
+    [ "HandleEffectRemove", "d6/dee/a24606.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2", null ],
+    [ "PrepareAuraScript", "d6/dee/a24606.html#a64f9e0f3d0376342767b912e32642c6c", null ],
+    [ "Register", "d6/dee/a24606.html#a72d6639589588282ea15cfe83c9e9b76", null ],
+    [ "Validate", "d6/dee/a24606.html#ac936c92c3a24fba95505243cd3e79c21", null ]
 ];

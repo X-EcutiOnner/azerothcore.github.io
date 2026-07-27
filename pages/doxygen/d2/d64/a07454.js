@@ -1,23 +1,9 @@
 var a07454 =
 [
-    [ "AuctionHouseWorkerThread", "d2/d64/a07454.html#ac008f885bf78e4bfe1e847bcb9b39f04", null ],
-    [ "AddAuctionSearchUpdateToQueue", "d2/d64/a07454.html#afeef919ad04cfedbca376668997a69f4", null ],
-    [ "BuildListAuctionItems", "d2/d64/a07454.html#a4f645c52213b513d3869c3934fec56df", null ],
-    [ "GetSearchableAuctionMap", "d2/d64/a07454.html#a8f0ed06055dd0c50bb65017289c6104c", null ],
-    [ "ProcessSearchRequests", "d2/d64/a07454.html#a3cc7697e74c9acd6dd902a75044d64d3", null ],
-    [ "ProcessSearchUpdates", "d2/d64/a07454.html#a8901d50705c3e4a4977a547aef241d1d", null ],
-    [ "Run", "d2/d64/a07454.html#a78eb3d86cdb1f7590af5a5f54ac97b6a", null ],
-    [ "SearchBidderListRequest", "d2/d64/a07454.html#af23c367773406ed52439f21d4b288264", null ],
-    [ "SearchListRequest", "d2/d64/a07454.html#a2b455c5d62c280c97d30d3b02ce7601d", null ],
-    [ "SearchOwnerListRequest", "d2/d64/a07454.html#a99371b6ef770b00d4c32227392234732", null ],
-    [ "SearchUpdateAdd", "d2/d64/a07454.html#a64414f54c6a84546bee85eb4e46ae04f", null ],
-    [ "SearchUpdateBid", "d2/d64/a07454.html#ac42f800d004e90bc728df43d3c9c7244", null ],
-    [ "SearchUpdateRemove", "d2/d64/a07454.html#a31f1510cd146eac4718c6577caf72cc4", null ],
-    [ "Stop", "d2/d64/a07454.html#ae5e76c712f46e8801c2b63e335a246ff", null ],
-    [ "_auctionUpdatesQueue", "d2/d64/a07454.html#aecd36ccabd34131c42ec1d7964b8840a", null ],
-    [ "_requestQueue", "d2/d64/a07454.html#a8b92df23eb97b8f3b11c495dbdb15696", null ],
-    [ "_responseQueue", "d2/d64/a07454.html#a68a0b0ea5c3292989471f00346ca1318", null ],
-    [ "_searchableAuctionMap", "d2/d64/a07454.html#a68f698401f671fb75901daea75575ce0", null ],
-    [ "_stopped", "d2/d64/a07454.html#af4d4c4672e67953c7c909174652b99d1", null ],
-    [ "_workerThread", "d2/d64/a07454.html#a9a386c2dc09b128fd427d5a2b44653c5", null ]
+    [ "ObjectGuidVector", "d2/d64/a07454.html#aa49ab82006c390e7110013b44c018c0f", null ],
+    [ "~ObjectGuidVector", "d2/d64/a07454.html#a07fe3304a0edffa1f17a0ce5f97d01e6", null ],
+    [ "GetObjectVector", "d2/d64/a07454.html#a94ee201dcf0750edb84cedb151e9ff22", null ],
+    [ "UpdateObjects", "d2/d64/a07454.html#a8b6dad1739f51bba936257410a968c6e", null ],
+    [ "_guidVector", "d2/d64/a07454.html#aefce0edc7881ca01ba8c8c98067e165d", null ],
+    [ "_objectVector", "d2/d64/a07454.html#a78137cb1ae9930c11f87a4a8ed5e7e26", null ]
 ];

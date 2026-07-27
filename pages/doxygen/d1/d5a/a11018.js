@@ -1,6 +1,7 @@
 var a11018 =
 [
-    [ "GuildUpdateInfoText", "d1/d5a/a11018.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
-    [ "Read", "d1/d5a/a11018.html#a7019344fef99c5479602d7bc1176e9ee", null ],
-    [ "InfoText", "d1/d5a/a11018.html#a786802ce427465d66a4cea1365743975", null ]
+    [ "ChatServerMessage", "d1/d5a/a11018.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
+    [ "Write", "d1/d5a/a11018.html#af8bad4d39693290674bda2e2ad8685bf", null ],
+    [ "MessageID", "d1/d5a/a11018.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
+    [ "StringParam", "d1/d5a/a11018.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
 ];

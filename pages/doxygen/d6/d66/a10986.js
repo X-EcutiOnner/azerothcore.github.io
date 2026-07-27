@@ -1,5 +1,5 @@
 var a10986 =
 [
-    [ "GuildEventLogQuery", "d6/d66/a10986.html#af66d667a4b722745fa4f855870ef332c", null ],
-    [ "Read", "d6/d66/a10986.html#a48881f116070d5a7c03e7cace86656f6", null ]
+    [ "LogoutComplete", "d6/d66/a10986.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
+    [ "Write", "d6/d66/a10986.html#a0d958bc07b674ed3339833351fec7d3a", null ]
 ];

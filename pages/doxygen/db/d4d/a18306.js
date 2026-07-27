@@ -1,6 +1,7 @@
 var a18306 =
 [
-    [ "HandleSpecial", "db/d4d/a18306.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "db/d4d/a18306.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "db/d4d/a18306.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "HandleTriggerSpell", "db/d4d/a18306.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "db/d4d/a18306.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "db/d4d/a18306.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "db/d4d/a18306.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

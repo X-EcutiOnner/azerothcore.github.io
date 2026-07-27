@@ -1,4 +1,8 @@
 var a00749 =
 [
-    [ "GridRefMgr< OBJECT >", "d2/da7/a09492.html", "d2/da7/a09492" ]
+    [ "CorpseUpdateFieldFlags", "d5/de8/a00749.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
+    [ "DynamicObjectUpdateFieldFlags", "d5/de8/a00749.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
+    [ "GameObjectUpdateFieldFlags", "d5/de8/a00749.html#aee13b862f51557c371d3d93341128895", null ],
+    [ "ItemUpdateFieldFlags", "d5/de8/a00749.html#ac1cca7ecf1650663132e3e220d771adf", null ],
+    [ "UnitUpdateFieldFlags", "d5/de8/a00749.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
 ];

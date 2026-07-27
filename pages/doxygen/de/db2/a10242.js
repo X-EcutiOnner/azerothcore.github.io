@@ -1,12 +1,6 @@
 var a10242 =
 [
-    [ "BanAccount", "de/db2/a10242.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
-    [ "BanAccountByPlayerName", "de/db2/a10242.html#a35f92762d69fe32e49b9b239c74e4734", null ],
-    [ "BanCharacter", "de/db2/a10242.html#ad5048b36828bfe20a95dfb85515de831", null ],
-    [ "BanIP", "de/db2/a10242.html#a404890eab19b97773e6c9aef8cc65707", null ],
-    [ "instance", "de/db2/a10242.html#aa495dfaab6af98c43f645acf516a5630", null ],
-    [ "RemoveBanAccount", "de/db2/a10242.html#ae831e6227442edc70469229d5d73fa3f", null ],
-    [ "RemoveBanAccountByPlayerName", "de/db2/a10242.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
-    [ "RemoveBanCharacter", "de/db2/a10242.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
-    [ "RemoveBanIP", "de/db2/a10242.html#afcf4857007432ebff042c85c5daf2325", null ]
+    [ "AllowMount", "de/db2/a10242.html#a611108f0c1f623bb0761a174e477df22", null ],
+    [ "Parent", "de/db2/a10242.html#a6298c3dd0c8939b1cf228727c363918e", null ],
+    [ "ScriptId", "de/db2/a10242.html#ac9cdaf7fc486bc89b5c5d95ac13146da", null ]
 ];

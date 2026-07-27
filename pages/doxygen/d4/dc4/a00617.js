@@ -1,25 +1,49 @@
 var a00617 =
 [
-    [ "SpawnGroupTemplateData", "dc/d3a/a10280.html", "dc/d3a/a10280" ],
-    [ "SpawnData", "db/dcb/a10284.html", "db/dcb/a10284" ],
-    [ "SpawnGroupFlags", "d4/dc4/a00617.html#a4d92d9f9c1ddb3ba951f249d8c3a9567", [
-      [ "SPAWNGROUP_FLAG_NONE", "d4/dc4/a00617.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a8e60132edd361c998c88ad58f487ff01", null ],
-      [ "SPAWNGROUP_FLAG_SYSTEM", "d4/dc4/a00617.html#a4d92d9f9c1ddb3ba951f249d8c3a9567ac7f000051c11e8e64e44d8e559df0769", null ],
-      [ "SPAWNGROUP_FLAG_COMPATIBILITY_MODE", "d4/dc4/a00617.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a425a0006a686cbb29860ce5ada6e6dc7", null ],
-      [ "SPAWNGROUP_FLAG_MANUAL_SPAWN", "d4/dc4/a00617.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a417fbb81820d8e43c7975f6e101f64da", null ],
-      [ "SPAWNGROUP_FLAG_DYNAMIC_SPAWN_RATE", "d4/dc4/a00617.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a08739c177a3fc0d8fefdd0952cbdb81f", null ],
-      [ "SPAWNGROUP_FLAG_ESCORTQUESTNPC", "d4/dc4/a00617.html#a4d92d9f9c1ddb3ba951f249d8c3a9567aed165c7835a95c52ad8dd1f9b56719c1", null ],
-      [ "SPAWNGROUP_FLAG_ALL", "d4/dc4/a00617.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a0d4be6bc9136b5fa19e8ba1146bfe5e6", null ]
+    [ "DoorData", "d0/d65/a10062.html", "d0/d65/a10062" ],
+    [ "BossBoundaryEntry", "d8/d5b/a10066.html", "d8/d5b/a10066" ],
+    [ "BossBoundaryData", "df/d2c/a10070.html", "df/d2c/a10070" ],
+    [ "MinionData", "de/df4/a10074.html", "de/df4/a10074" ],
+    [ "ObjectData", "d6/dd8/a10078.html", "d6/dd8/a10078" ],
+    [ "BossInfo", "d2/d7a/a10082.html", "d2/d7a/a10082" ],
+    [ "DoorInfo", "d7/de1/a10086.html", "d7/de1/a10086" ],
+    [ "MinionInfo", "d2/dc1/a10090.html", "d2/dc1/a10090" ],
+    [ "InstanceScript", "d6/d08/a10094.html", "d6/d08/a10094" ],
+    [ "OUT_LOAD_INST_DATA", "d4/dc4/a00617.html#aafbf0073420e9a897ec0f243f4793a0f", null ],
+    [ "OUT_LOAD_INST_DATA_COMPLETE", "d4/dc4/a00617.html#a490e19560f068912b0e3dbd61c689b44", null ],
+    [ "OUT_LOAD_INST_DATA_FAIL", "d4/dc4/a00617.html#a141fd6fe34ebbd5c3ad507db42f41b4a", null ],
+    [ "OUT_SAVE_INST_DATA", "d4/dc4/a00617.html#a65ed3183971093dcebed99d1ec6d6d63", null ],
+    [ "OUT_SAVE_INST_DATA_COMPLETE", "d4/dc4/a00617.html#a3a93295e3500f757163145c03e90db3d", null ],
+    [ "DoorInfoMap", "d4/dc4/a00617.html#ab665e2d424a75aeb6703ccd08050676c", null ],
+    [ "DoorInfoMapBounds", "d4/dc4/a00617.html#ac55e7bd9aa319ccb4e7a22a3e35c3326", null ],
+    [ "DoorSet", "d4/dc4/a00617.html#a17be047bdb4b0361cdee9637ff279e9f", null ],
+    [ "MinionInfoMap", "d4/dc4/a00617.html#a3b05920ad054e3f59bf988485603d2de", null ],
+    [ "MinionSet", "d4/dc4/a00617.html#add004a84abc4c98dae65145dce2d17bb", null ],
+    [ "ObjectGuidMap", "d4/dc4/a00617.html#a3c451c29106077a2c6f8f88facbb2c69", null ],
+    [ "ObjectInfoMap", "d4/dc4/a00617.html#ac2936b863aac3fd2483eae5e234ac053", null ],
+    [ "ObjectStateMap", "d4/dc4/a00617.html#a4edbb4a71661ac569a73338c83672f9d", null ],
+    [ "DoorType", "d4/dc4/a00617.html#ac3549b9e861c142e11e5ad86b8b6947e", [
+      [ "DOOR_TYPE_ROOM", "d4/dc4/a00617.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70", null ],
+      [ "DOOR_TYPE_PASSAGE", "d4/dc4/a00617.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905", null ],
+      [ "DOOR_TYPE_SPAWN_HOLE", "d4/dc4/a00617.html#ac3549b9e861c142e11e5ad86b8b6947ea05ae5ae0867f3b0c721a17ac307ff7bb", null ],
+      [ "MAX_DOOR_TYPES", "d4/dc4/a00617.html#ac3549b9e861c142e11e5ad86b8b6947eac54cf58ec577ca37abba35d02ff97571", null ]
     ] ],
-    [ "SpawnObjectType", "d4/dc4/a00617.html#aca6d138cc8cbaa4fbb8366f26ecc6178", [
-      [ "SPAWN_TYPE_CREATURE", "d4/dc4/a00617.html#aca6d138cc8cbaa4fbb8366f26ecc6178a9c8e9a64f5a962ba5e1c699347c9a095", null ],
-      [ "SPAWN_TYPE_GAMEOBJECT", "d4/dc4/a00617.html#aca6d138cc8cbaa4fbb8366f26ecc6178a4986d513041762627e4ec53cb8ed2fa6", null ],
-      [ "SPAWN_TYPE_MAX", "d4/dc4/a00617.html#aca6d138cc8cbaa4fbb8366f26ecc6178a7fac2ccc2b6c53a62bd265c85b74278f", null ]
+    [ "EncounterFrameType", "d4/dc4/a00617.html#a2b83b4959bad3f736ee0463c50b9477d", [
+      [ "ENCOUNTER_FRAME_ENGAGE", "d4/dc4/a00617.html#a2b83b4959bad3f736ee0463c50b9477daf39a3442170d2b9d97b31f1aa952053a", null ],
+      [ "ENCOUNTER_FRAME_DISENGAGE", "d4/dc4/a00617.html#a2b83b4959bad3f736ee0463c50b9477daade40d90f5283e0cf9f587ddbe1bcc22", null ],
+      [ "ENCOUNTER_FRAME_UPDATE_PRIORITY", "d4/dc4/a00617.html#a2b83b4959bad3f736ee0463c50b9477dab466d621ed48059fed64ca588282a9bc", null ],
+      [ "ENCOUNTER_FRAME_ADD_TIMER", "d4/dc4/a00617.html#a2b83b4959bad3f736ee0463c50b9477dac4db9282020e33d1fff31aeeeac8d689", null ],
+      [ "ENCOUNTER_FRAME_ENABLE_OBJECTIVE", "d4/dc4/a00617.html#a2b83b4959bad3f736ee0463c50b9477da0f44e24d1a7751fed4d394719579336c", null ],
+      [ "ENCOUNTER_FRAME_UPDATE_OBJECTIVE", "d4/dc4/a00617.html#a2b83b4959bad3f736ee0463c50b9477dac2613e711f746c05f27d7aa0eae3d51b", null ],
+      [ "ENCOUNTER_FRAME_DISABLE_OBJECTIVE", "d4/dc4/a00617.html#a2b83b4959bad3f736ee0463c50b9477dac1903193f76dfb04f3009b98b4ddce1c", null ],
+      [ "ENCOUNTER_FRAME_REFRESH_FRAMES", "d4/dc4/a00617.html#a2b83b4959bad3f736ee0463c50b9477dac4ca16adedcc16b4cac2ad580ed3e8ec", null ]
     ] ],
-    [ "SpawnObjectTypeMask", "d4/dc4/a00617.html#a8d96153354cfa6d243ff15afdd439ab1", [
-      [ "SPAWN_TYPEMASK_CREATURE", "d4/dc4/a00617.html#a8d96153354cfa6d243ff15afdd439ab1a871f80356238edfc1535510a303f4ee2", null ],
-      [ "SPAWN_TYPEMASK_GAMEOBJECT", "d4/dc4/a00617.html#a8d96153354cfa6d243ff15afdd439ab1adfa26ca9fc2b3160505b0766be0da326", null ],
-      [ "SPAWN_TYPEMASK_ALL", "d4/dc4/a00617.html#a8d96153354cfa6d243ff15afdd439ab1ae97f493d106f1ed915209a294b4f4108", null ]
-    ] ],
-    [ "SPAWNGROUP_MAP_UNSET", "d4/dc4/a00617.html#a9041bb5e3b05220cb101faac61b48fd7", null ]
+    [ "EncounterState", "d4/dc4/a00617.html#ab6cf09cd975286c705a19a75a947d438", [
+      [ "NOT_STARTED", "d4/dc4/a00617.html#ab6cf09cd975286c705a19a75a947d438ae7d82dfe80ea0bd4feea8ee49ea2eab5", null ],
+      [ "IN_PROGRESS", "d4/dc4/a00617.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012", null ],
+      [ "FAIL", "d4/dc4/a00617.html#ab6cf09cd975286c705a19a75a947d438a936c4a5547a9360243178f726f6b2715", null ],
+      [ "DONE", "d4/dc4/a00617.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749", null ],
+      [ "SPECIAL", "d4/dc4/a00617.html#ab6cf09cd975286c705a19a75a947d438aaa5259d84d06214a7b0503d636790465", null ],
+      [ "TO_BE_DECIDED", "d4/dc4/a00617.html#ab6cf09cd975286c705a19a75a947d438af259c60d63b511a33d9f0d1094c45958", null ]
+    ] ]
 ];

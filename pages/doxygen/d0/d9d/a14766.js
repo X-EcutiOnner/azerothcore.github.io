@@ -1,7 +1,7 @@
 var a14766 =
 [
-    [ "HandleScript", "d0/d9d/a14766.html#a78899a874a645d531dd4d89f2bd5478a", null ],
-    [ "PrepareSpellScript", "d0/d9d/a14766.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
-    [ "Register", "d0/d9d/a14766.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
-    [ "Validate", "d0/d9d/a14766.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
+    [ "npc_direbrew_minion", "d0/d9d/a14766.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "d0/d9d/a14766.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "d0/d9d/a14766.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "d0/d9d/a14766.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

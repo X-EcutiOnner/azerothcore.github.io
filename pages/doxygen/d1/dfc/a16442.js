@@ -1,8 +1,6 @@
 var a16442 =
 [
-    [ "Load", "d1/dfc/a16442.html#a55dc086667f0fe23e513608e951276ed", null ],
-    [ "Phase", "d1/dfc/a16442.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
-    [ "PrepareSpellScript", "d1/dfc/a16442.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
-    [ "Register", "d1/dfc/a16442.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
-    [ "Validate", "d1/dfc/a16442.html#a87192df547adaf3cb060155d9cf4da79", null ]
+    [ "boss_krik_thirAI", "dc/d4d/a16446.html", "dc/d4d/a16446" ],
+    [ "boss_krik_thir", "d1/dfc/a16442.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
+    [ "GetAI", "d1/dfc/a16442.html#a10e582440092d5c6558c2a11d60907aa", null ]
 ];

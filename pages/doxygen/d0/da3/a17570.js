@@ -1,7 +1,5 @@
 var a17570 =
 [
-    [ "HandleDummyTick", "d0/da3/a17570.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
-    [ "PrepareAuraScript", "d0/da3/a17570.html#a577523701b5a4ea2def4999e634c8862", null ],
-    [ "Register", "d0/da3/a17570.html#aaad9185c62333de4d6704b22780edd28", null ],
-    [ "Validate", "d0/da3/a17570.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
+    [ "endPosition", "d0/da3/a17570.html#a8a88b0191d28ef6af8f41db627552602", null ],
+    [ "entry", "d0/da3/a17570.html#ac4e55af666e269440953ced038c1a8de", null ]
 ];

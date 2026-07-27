@@ -1,7 +1,7 @@
 var a12742 =
 [
-    [ "HandleDummy", "db/d25/a12742.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
-    [ "PrepareSpellScript", "db/d25/a12742.html#a6ec124990f202af0c6063c285bf04d88", null ],
-    [ "Register", "db/d25/a12742.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
-    [ "Validate", "db/d25/a12742.html#ae35efa08f507aac5b72166a216d01870", null ]
+    [ "boss_magmus", "db/d25/a12742.html#aacd115473f44148837153a3a5842748c", null ],
+    [ "JustEngagedWith", "db/d25/a12742.html#a810cd11145957fe02f2099e9db7e59c8", null ],
+    [ "Reset", "db/d25/a12742.html#af12976d66c690add0d08968799946174", null ],
+    [ "UpdateAI", "db/d25/a12742.html#ab3e7dc0c1917a67ee9fe532239125b00", null ]
 ];

@@ -1,10 +1,9 @@
 var a05162 =
 [
-    [ "PoolQuestReloadTest", "d3/d4a/a29676.html", "d3/d4a/a29676" ],
-    [ "TEST_F", "d1/dab/a05162.html#ae965ec2c5a54532198d25c78231d7888", null ],
-    [ "TEST_F", "d1/dab/a05162.html#ae1ebd88d38dd3fe29dacfb916249f401", null ],
-    [ "TEST_F", "d1/dab/a05162.html#a88949b970cd89daff9f2c804fbbd30f8", null ],
-    [ "TEST_F", "d1/dab/a05162.html#a51f076a8299a77b2bed17414ee1ab77d", null ],
-    [ "TEST_CREATURE_ID", "d1/dab/a05162.html#a9d99cbff2ccde67787a3c4448497f949", null ],
-    [ "TEST_QUEST_ID", "d1/dab/a05162.html#acd85c89c48bf6aa262bd81ed03493826", null ]
+    [ "Hello", "d5/df9/a11450.html", "d5/df9/a11450" ],
+    [ "TrainerBuyFailed", "d5/db4/a11466.html", "d5/db4/a11466" ],
+    [ "TrainerBuySpell", "da/d10/a11462.html", "da/d10/a11462" ],
+    [ "TrainerBuySucceeded", "da/ddf/a11470.html", "da/ddf/a11470" ],
+    [ "TrainerList", "d7/d97/a11458.html", "d7/d97/a11458" ],
+    [ "TrainerListSpell", "d2/d16/a11454.html", "d2/d16/a11454" ]
 ];

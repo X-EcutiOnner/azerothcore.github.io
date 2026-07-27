@@ -1,9 +1,7 @@
 var a16538 =
 [
-    [ "npc_memoryAI", "dc/d65/a16538.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "dc/d65/a16538.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "dc/d65/a16538.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "dc/d65/a16538.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "dc/d65/a16538.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "dc/d65/a16538.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "dc/d65/a16538.html#aed531e61508d4d404827f47c6348a5e6", null ],
+    [ "JustEngagedWith", "dc/d65/a16538.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
+    [ "UpdateAI", "dc/d65/a16538.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
+    [ "_events", "dc/d65/a16538.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
 ];

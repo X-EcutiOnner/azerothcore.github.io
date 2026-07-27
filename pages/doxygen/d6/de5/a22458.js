@@ -1,13 +1,19 @@
 var a22458 =
 [
-    [ "boss_illidari_council_memberAI", "d6/de5/a22458.html#ac32366dfad13cd37ced2428d041e25c9", null ],
-    [ "DamageTaken", "d6/de5/a22458.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
-    [ "DoAction", "d6/de5/a22458.html#a203310b84d71a24145b1c39e7faff182", null ],
-    [ "EnterEvadeMode", "d6/de5/a22458.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
-    [ "JustDied", "d6/de5/a22458.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
-    [ "JustEngagedWith", "d6/de5/a22458.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
-    [ "KilledUnit", "d6/de5/a22458.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
-    [ "Reset", "d6/de5/a22458.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
-    [ "events", "d6/de5/a22458.html#ad47a350f5ed066e04816e72961a80bd0", null ],
-    [ "instance", "d6/de5/a22458.html#adb11720cd0fd87a42b9a78490a70251e", null ]
+    [ "npc_overlord_drakuru_betrayal", "d6/de5/a22458.html#ab15331d6fd3a2783a4c95d49e4dbe7b2", null ],
+    [ "DamageTaken", "d6/de5/a22458.html#a7425750b8bd904de4bdf90a70f17ba52", null ],
+    [ "DoAction", "d6/de5/a22458.html#aece047445959751d8bff83ed3555a382", null ],
+    [ "EnterEvadeMode", "d6/de5/a22458.html#ae7927006050c6eab309671b2d39ac74e", null ],
+    [ "IsPlayerOnQuest", "d6/de5/a22458.html#a95f42c51b10eeeb8f238572f4190b777", null ],
+    [ "JustEngagedWith", "d6/de5/a22458.html#a3781dde3a7fb066620ada4bda214d9d7", null ],
+    [ "JustSummoned", "d6/de5/a22458.html#a7a28c8050615a13148092b1d6f0f8bea", null ],
+    [ "MoveInLineOfSight", "d6/de5/a22458.html#a27173bdb8e63f52563cbf15f10bfeb8a", null ],
+    [ "Reset", "d6/de5/a22458.html#aafcf7f832f3c5412bc1c71fc59dec003", null ],
+    [ "SpellHit", "d6/de5/a22458.html#a92cd659095e45c414a2c05672a70aaeb", null ],
+    [ "SpellHitTarget", "d6/de5/a22458.html#abd7728d7ac2a59b436385069ffc62c9d", null ],
+    [ "UpdateAI", "d6/de5/a22458.html#a25d0591a131f2e49b9d5c97ed2f2586e", null ],
+    [ "_lichGUID", "d6/de5/a22458.html#ae921b29ac3e5d5f7b39cd660848242f0", null ],
+    [ "_playerGUID", "d6/de5/a22458.html#a3f4a61d141c51a29eaefc8118b5311e0", null ],
+    [ "_state", "d6/de5/a22458.html#ac99fa024d5c71c37e94d0ff17808e2d4", null ],
+    [ "_summons", "d6/de5/a22458.html#a2fbda53115c9b69d2d01a77b3b60710d", null ]
 ];

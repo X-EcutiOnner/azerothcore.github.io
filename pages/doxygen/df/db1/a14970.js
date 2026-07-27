@@ -1,9 +1,7 @@
 var a14970 =
 [
-    [ "boss_azgalor", "df/db1/a14970.html#ac794e0eacc2d543fa62e4b521089f080", null ],
-    [ "DoAction", "df/db1/a14970.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
-    [ "JustDied", "df/db1/a14970.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
-    [ "JustEngagedWith", "df/db1/a14970.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
-    [ "KilledUnit", "df/db1/a14970.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
-    [ "_recentlySpoken", "df/db1/a14970.html#abea34396ddde0aa02a073b2f3119fec9", null ]
+    [ "OnApply", "df/db1/a14970.html#a42148069675e663456bb5495fa5c8702", null ],
+    [ "OnPeriodic", "df/db1/a14970.html#ad3582b02b369e3029e20817dd19aede0", null ],
+    [ "PrepareAuraScript", "df/db1/a14970.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
+    [ "Register", "df/db1/a14970.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
 ];

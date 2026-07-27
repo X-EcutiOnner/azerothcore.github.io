@@ -1,12 +1,11 @@
 var a17658 =
 [
-    [ "npc_high_overlord_saurfangAI", "d6/da5/a17658.html#a5c31259d9eb26e09d2b645d826e75328", null ],
-    [ "DoAction", "d6/da5/a17658.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
-    [ "MovementInform", "d6/da5/a17658.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
-    [ "Reset", "d6/da5/a17658.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
-    [ "SpellHit", "d6/da5/a17658.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
-    [ "UpdateAI", "d6/da5/a17658.html#a92124e7490a066bf63836397a3bdc71b", null ],
-    [ "_events", "d6/da5/a17658.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
-    [ "_guardList", "d6/da5/a17658.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
-    [ "_instance", "d6/da5/a17658.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
+    [ "boss_slad_ranAI", "d6/da5/a17658.html#ad85e2fd51d67739026a96bc757bc7801", null ],
+    [ "GetData", "d6/da5/a17658.html#a58e1188a418acdc1f327e7df90c5c122", null ],
+    [ "JustDied", "d6/da5/a17658.html#a636ca76497c33a5175986e80bbcda44a", null ],
+    [ "JustEngagedWith", "d6/da5/a17658.html#ac30b38805d0421b1be509c7d5609c648", null ],
+    [ "KilledUnit", "d6/da5/a17658.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
+    [ "Reset", "d6/da5/a17658.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
+    [ "SetData", "d6/da5/a17658.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
+    [ "_achievement", "d6/da5/a17658.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
 ];

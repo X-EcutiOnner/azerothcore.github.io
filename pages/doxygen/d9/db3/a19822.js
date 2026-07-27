@@ -1,6 +1,12 @@
 var a19822 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "dd/d12/a19826.html", "dd/d12/a19826" ],
-    [ "instance_halls_of_stone", "d9/db3/a19822.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "d9/db3/a19822.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "instance_nexus_InstanceMapScript", "d9/db3/a19822.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "d9/db3/a19822.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "KillAllFrayers", "d9/db3/a19822.html#a7c696467deba7a2f15d5175e3427bd20", null ],
+    [ "OnCreatureCreate", "d9/db3/a19822.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "d9/db3/a19822.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "d9/db3/a19822.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "d9/db3/a19822.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "d9/db3/a19822.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
+    [ "_frayerGUIDs", "d9/db3/a19822.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
 ];

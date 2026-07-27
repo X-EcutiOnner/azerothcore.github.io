@@ -1,8 +1,13 @@
 var a16178 =
 [
-    [ "instance_ahnkahet_InstanceScript", "d7/da2/a16178.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
-    [ "IsAllSpheresActivated", "d7/da2/a16178.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
-    [ "OnGameObjectCreate", "d7/da2/a16178.html#ad00fdc90a61e1c927323daa2149f8466", null ],
-    [ "SetData", "d7/da2/a16178.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
-    [ "taldaramPlatform_GUID", "d7/da2/a16178.html#a840ce69595c384be321c1167513d151e", null ]
+    [ "npc_wizzlecrank_shredderAI", "d7/da2/a16178.html#a055c4b426219aa3372a83d2e2021d916", null ],
+    [ "JustSummoned", "d7/da2/a16178.html#a7cad21f0b3286ed75256a49c315069ce", null ],
+    [ "Reset", "d7/da2/a16178.html#a86929e8a2f3433f37e4dda03e3011193", null ],
+    [ "UpdateEscortAI", "d7/da2/a16178.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
+    [ "WaypointReached", "d7/da2/a16178.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
+    [ "WaypointReached", "d7/da2/a16178.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "WaypointStart", "d7/da2/a16178.html#a00857e372e53950338ed71d672edb780", null ],
+    [ "IsPostEvent", "d7/da2/a16178.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
+    [ "PostEventCount", "d7/da2/a16178.html#aa5284a284c074f32cee85d29aea00f2f", null ],
+    [ "PostEventTimer", "d7/da2/a16178.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
 ];

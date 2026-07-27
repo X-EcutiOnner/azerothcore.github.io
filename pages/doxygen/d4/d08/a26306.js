@@ -1,7 +1,7 @@
 var a26306 =
 [
-    [ "OnProc", "d4/d08/a26306.html#a304fd48cc79d3e7371212632d276b2ff", null ],
-    [ "PrepareAuraScript", "d4/d08/a26306.html#a239f9448d36bee4cfb46d95bf20c0148", null ],
-    [ "Register", "d4/d08/a26306.html#a28be437c5f3e8bca0f54be97cb5c5a1f", null ],
-    [ "Validate", "d4/d08/a26306.html#adc217147d7c150d66dad4d3e922cff96", null ]
+    [ "HandleScript", "d4/d08/a26306.html#a899d96d5fdf1fa7c46a35b681ec90daa", null ],
+    [ "PrepareSpellScript", "d4/d08/a26306.html#a8b49884cc187b32368ac5493bc65d339", null ],
+    [ "Register", "d4/d08/a26306.html#a591928501bc5b0d4c43b04ec6fa8972d", null ],
+    [ "Validate", "d4/d08/a26306.html#aba754e86c9c87f251a1fa2dff955018e", null ]
 ];

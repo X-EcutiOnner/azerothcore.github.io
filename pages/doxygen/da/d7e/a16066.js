@@ -1,6 +1,6 @@
 var a16066 =
 [
-    [ "HandleSummon", "da/d7e/a16066.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "da/d7e/a16066.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "da/d7e/a16066.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "SpellId", "da/d7e/a16066.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "da/d7e/a16066.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "da/d7e/a16066.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

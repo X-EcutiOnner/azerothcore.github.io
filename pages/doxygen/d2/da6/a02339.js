@@ -1,10 +1,6 @@
 var a02339 =
 [
-    [ "UpdateException", "db/d70/a06252.html", "db/d70/a06252" ],
-    [ "DBUpdaterUtil", "db/d2c/a06256.html", "db/d2c/a06256" ],
-    [ "DBUpdater< T >", "d2/d34/a06260.html", "d2/d34/a06260" ],
-    [ "BaseLocation", "d2/da6/a02339.html#a0c382fe144b0dc101a8b2b9d4ef51010", [
-      [ "LOCATION_REPOSITORY", "d2/da6/a02339.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550", null ],
-      [ "LOCATION_DOWNLOAD", "d2/da6/a02339.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c", null ]
-    ] ]
+    [ "FlyByCamera", "d8/d84/a08286.html", "d8/d84/a08286" ],
+    [ "GetFlyByCameras", "d2/da6/a02339.html#a8079cfd87f117ce26e31f3da14e63cf9", null ],
+    [ "LoadM2Cameras", "d2/da6/a02339.html#a9971ebb80eba223b5767bcfa8f713267", null ]
 ];

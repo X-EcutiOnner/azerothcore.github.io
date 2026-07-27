@@ -1,10 +1,6 @@
 var a20854 =
 [
-    [ "npc_dragonflayer_forge_master", "de/da7/a20854.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "de/da7/a20854.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "de/da7/a20854.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "de/da7/a20854.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "de/da7/a20854.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "de/da7/a20854.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "de/da7/a20854.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "PrepareSpellScript", "de/da7/a20854.html#a3c8337cc17ec735fc97f5195a1e820b6", null ],
+    [ "Register", "de/da7/a20854.html#ae0cc2794b1d2b8de442dbf30f7da8883", null ],
+    [ "SelectPillar", "de/da7/a20854.html#a2eaa34f9f3b3d255fc5091fb5b48f60a", null ]
 ];

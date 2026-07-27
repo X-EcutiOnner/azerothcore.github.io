@@ -1,8 +1,9 @@
 var a25670 =
 [
-    [ "HandleDummy", "d9/d09/a25670.html#a3db6982f1162ac6b03771a0e7e432e6d", null ],
-    [ "Load", "d9/d09/a25670.html#a9671be7920dfd3bde2033f0ae43259b0", null ],
-    [ "PrepareSpellScript", "d9/d09/a25670.html#ad50c9141d40b7089fd24a8657d496a8d", null ],
-    [ "Register", "d9/d09/a25670.html#a249a857b1cf5b0c3be6018cb233c75d1", null ],
-    [ "Validate", "d9/d09/a25670.html#ac209048bd5688417c391c2c9b8a72d8b", null ]
+    [ "CheckIfCorpseNear", "d9/d09/a25670.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
+    [ "HandleDummy", "d9/d09/a25670.html#a913c0137d2a13c810bbae869cc6cf734", null ],
+    [ "Load", "d9/d09/a25670.html#a3f36968d10bde12c7e2eda8db4145252", null ],
+    [ "PrepareSpellScript", "d9/d09/a25670.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
+    [ "Register", "d9/d09/a25670.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
+    [ "Validate", "d9/d09/a25670.html#a51b075f95211025b2a7719a3ee70a6be", null ]
 ];

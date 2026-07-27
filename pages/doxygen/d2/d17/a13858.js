@@ -1,7 +1,9 @@
 var a13858 =
 [
-    [ "HandleScriptEffect", "d2/d17/a13858.html#aa537704c2066df4f5b4c60a775026a83", null ],
-    [ "PrepareSpellScript", "d2/d17/a13858.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
-    [ "Register", "d2/d17/a13858.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
-    [ "Validate", "d2/d17/a13858.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
+    [ "boss_muru", "d2/d17/a13858.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
+    [ "DamageTaken", "d2/d17/a13858.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
+    [ "JustEngagedWith", "d2/d17/a13858.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
+    [ "JustSummoned", "d2/d17/a13858.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
+    [ "MoveInLineOfSight", "d2/d17/a13858.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
+    [ "Reset", "d2/d17/a13858.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
 ];

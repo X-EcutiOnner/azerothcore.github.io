@@ -1,17 +1,12 @@
 var a15266 =
 [
-    [ "npc_belnistraszAI", "da/db8/a15266.html#ac57c5de9140d8d37b15b4a30f4ffc0a1", null ],
-    [ "JustDied", "da/db8/a15266.html#aece63cabcfb2bcf54992dc2b4832ca92", null ],
-    [ "JustEngagedWith", "da/db8/a15266.html#ab03f29b1f76b7d67e7d7bb3407e2cd41", null ],
-    [ "JustExitedCombat", "da/db8/a15266.html#a070871d7ece3583ae5304cfdadd807b0", null ],
-    [ "MovementInform", "da/db8/a15266.html#ae64e10d0cc860bf033b76538455b9f8e", null ],
-    [ "Reset", "da/db8/a15266.html#aecf1ef9b7f6eecec9489d27ce41deea2", null ],
-    [ "sQuestAccept", "da/db8/a15266.html#aa18258b7f80c040d6a5fb9fbbb321efe", null ],
-    [ "UpdateAI", "da/db8/a15266.html#a45481c2ef18ab3fec727813de96eb1b6", null ],
-    [ "channeling", "da/db8/a15266.html#a88ff13ec705d11475de5a2080998c905", null ],
-    [ "eventInProgress", "da/db8/a15266.html#ae9ce796b17c7791d83e949fa406a2b80", null ],
-    [ "eventProgress", "da/db8/a15266.html#ad32a0387dbf95b6aa40b3311d6ba8348", null ],
-    [ "events", "da/db8/a15266.html#af9c1f14a7a7b7380e9fb99ecdaf80126", null ],
-    [ "instance", "da/db8/a15266.html#a61f3bcbf36e630bbb455405eb89ccf00", null ],
-    [ "spawnerCount", "da/db8/a15266.html#aa5124160ecba044a3752f68945068776", null ]
+    [ "boss_mal_ganisAI", "da/db8/a15266.html#aa8b70930372cd0729686f7c6032d3152", null ],
+    [ "DamageTaken", "da/db8/a15266.html#a4873386266ce3b4b849377028ff746a5", null ],
+    [ "JustDied", "da/db8/a15266.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
+    [ "JustEngagedWith", "da/db8/a15266.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
+    [ "KilledUnit", "da/db8/a15266.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
+    [ "Reset", "da/db8/a15266.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
+    [ "UpdateAI", "da/db8/a15266.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
+    [ "events", "da/db8/a15266.html#a194c002efe244b8c94a072faf72be771", null ],
+    [ "finished", "da/db8/a15266.html#ac4c90c814aa55781f863c958253e9df2", null ]
 ];

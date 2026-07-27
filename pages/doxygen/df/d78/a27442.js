@@ -1,7 +1,8 @@
 var a27442 =
 [
-    [ "FilterTargets", "df/d78/a27442.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
-    [ "PrepareSpellScript", "df/d78/a27442.html#a954f00317eab544dd57e657368aab7fb", null ],
-    [ "Register", "df/d78/a27442.html#a1804684c8685372faf2e88e56b48f5be", null ],
-    [ "Validate", "df/d78/a27442.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
+    [ "ApplyDebuff", "df/d78/a27442.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "df/d78/a27442.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "df/d78/a27442.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "df/d78/a27442.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "df/d78/a27442.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

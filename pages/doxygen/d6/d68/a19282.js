@@ -1,6 +1,6 @@
 var a19282 =
 [
-    [ "HandleHit", "d6/d68/a19282.html#aa6302d9372bf6ea514d49d8c8e280781", null ],
-    [ "PrepareSpellScript", "d6/d68/a19282.html#a87b57541a36d711ecbca6f485915c9ab", null ],
-    [ "Register", "d6/d68/a19282.html#ad7290a8d786f64fdf7b5b04a7770ff6d", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d5/dbc/a19286.html", "d5/dbc/a19286" ],
+    [ "npc_icc_skybreaker_luminary", "d6/d68/a19282.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
+    [ "GetAI", "d6/d68/a19282.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
 ];

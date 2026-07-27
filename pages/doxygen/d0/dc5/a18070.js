@@ -1,6 +1,6 @@
 var a18070 =
 [
-    [ "boss_professor_putricideAI", "d7/df2/a18074.html", "d7/df2/a18074" ],
-    [ "boss_professor_putricide", "d0/dc5/a18070.html#a80776dad5c0205aa6a98752f43e85e32", null ],
-    [ "GetAI", "d0/dc5/a18070.html#a7c84089d24bb0c77a5203884254e0925", null ]
+    [ "PrepareSpellScript", "d0/dc5/a18070.html#a47df21229183b628c1d82bf34cbbe396", null ],
+    [ "Register", "d0/dc5/a18070.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
+    [ "RelocateTransportOffset", "d0/dc5/a18070.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
 ];

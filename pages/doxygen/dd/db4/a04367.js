@@ -1,21 +1,9 @@
 var a04367 =
 [
-    [ "LocationXYZ", "dc/df8/a14080.html", "dc/df8/a14080" ],
-    [ "npc_rinji", "df/d3e/a14084.html", "df/d3e/a14084" ],
-    [ "npc_rinji::npc_rinjiAI", "d7/da2/a14088.html", "d7/da2/a14088" ],
-    [ "Rinji", "dd/db4/a04367.html#ab769c87cc823749a5fe9cc0ed4f59133", [
-      [ "SAY_RIN_BY_OUTRUNNER", "dd/db4/a04367.html#ab769c87cc823749a5fe9cc0ed4f59133a3aaaf930cf9ab49ca1d76cc6ed5e766c", null ],
-      [ "SAY_RIN_FREE", "dd/db4/a04367.html#ab769c87cc823749a5fe9cc0ed4f59133a18a3ea60620bdbd5ef82292e56df01d3", null ],
-      [ "SAY_RIN_HELP", "dd/db4/a04367.html#ab769c87cc823749a5fe9cc0ed4f59133af6414cba0564a077856ea0ee01cde0e0", null ],
-      [ "SAY_RIN_COMPLETE", "dd/db4/a04367.html#ab769c87cc823749a5fe9cc0ed4f59133a2e8b271174b0c30e02c7d465daca4632", null ],
-      [ "SAY_RIN_PROGRESS_1", "dd/db4/a04367.html#ab769c87cc823749a5fe9cc0ed4f59133a8f06b066d2b30fd7440ab8d0c0450aa5", null ],
-      [ "SAY_RIN_PROGRESS_2", "dd/db4/a04367.html#ab769c87cc823749a5fe9cc0ed4f59133a9d77a031db4f3a40f412949a95be80c5", null ],
-      [ "QUEST_RINJI_TRAPPED", "dd/db4/a04367.html#ab769c87cc823749a5fe9cc0ed4f59133aeb5734ecb62da42fe708673351c073e8", null ],
-      [ "NPC_RANGER", "dd/db4/a04367.html#ab769c87cc823749a5fe9cc0ed4f59133aec7fcfc9b715f5aeadff781115a0e69e", null ],
-      [ "NPC_OUTRUNNER", "dd/db4/a04367.html#ab769c87cc823749a5fe9cc0ed4f59133abc36fa763814aa6d572492b462e191a2", null ],
-      [ "GO_RINJI_CAGE", "dd/db4/a04367.html#ab769c87cc823749a5fe9cc0ed4f59133a8b71e8dfde4865f3891f672d000410fb", null ]
-    ] ],
-    [ "AddSC_hinterlands", "dd/db4/a04367.html#a0b6f7497a7db75be5fe9d90d14c46720", null ],
-    [ "AmbushMoveTo", "dd/db4/a04367.html#aa2e998c0f3d966c32be9106221fe957c", null ],
-    [ "AmbushSpawn", "dd/db4/a04367.html#ace1d91ebeb7be507ec886616fad7eef4", null ]
+    [ "OutdoorPvP_hellfire_peninsula", "dd/d67/a22526.html", "dd/d67/a22526" ],
+    [ "AddSC_outdoorpvp_hp", "dd/db4/a04367.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
+    [ "HP_LANG_CAPTURE_A", "dd/db4/a04367.html#a642fe1233b764402bae812604b684442", null ],
+    [ "HP_LANG_CAPTURE_H", "dd/db4/a04367.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd", null ],
+    [ "HP_LANG_LOSE_A", "dd/db4/a04367.html#a1b9adf9c71e549e4545c2e4eabe58dd5", null ],
+    [ "HP_LANG_LOSE_H", "dd/db4/a04367.html#ad62cd8f07ac98311202494985c6ae9c8", null ]
 ];

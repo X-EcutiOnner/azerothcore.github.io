@@ -1,6 +1,6 @@
 var a21078 =
 [
-    [ "instance_vault_of_archavon_InstanceMapScript", "dd/d25/a21082.html", "dd/d25/a21082" ],
-    [ "instance_vault_of_archavon", "dd/de4/a21078.html#a0be8d95ff0f3b751e6f833689e436310", null ],
-    [ "GetInstanceScript", "dd/de4/a21078.html#abb955a8873a3a3021e164225dd1f857a", null ]
+    [ "OnEffect", "dd/de4/a21078.html#aa24cfd6feec65f466e74c68484815c1e", null ],
+    [ "PrepareSpellScript", "dd/de4/a21078.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
+    [ "Register", "dd/de4/a21078.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
 ];

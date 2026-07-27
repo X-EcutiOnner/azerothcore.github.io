@@ -1,6 +1,8 @@
 var a19670 =
 [
-    [ "PrepareSpellScript", "d3/db2/a19670.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
-    [ "Register", "d3/db2/a19670.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
-    [ "SetDest", "d3/db2/a19670.html#a24341aae14ed77101d4c31f2fbe11463", null ]
+    [ "HandleAfterCast", "d3/db2/a19670.html#ac816f81a668ac3018be8f5dc4698039b", null ],
+    [ "HandleDummy", "d3/db2/a19670.html#a3009faa525c22779a0b2534b96821cfd", null ],
+    [ "PrepareSpellScript", "d3/db2/a19670.html#aca38f23f080314ab73ec2494bf877716", null ],
+    [ "Register", "d3/db2/a19670.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
+    [ "Validate", "d3/db2/a19670.html#af945e399992deb3aef5c81ad393ee50f", null ]
 ];

@@ -1,6 +1,8 @@
 var a15866 =
 [
-    [ "SpellId", "df/de6/a15866.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "df/de6/a15866.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "df/de6/a15866.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "npc_death_ravagerAI", "df/de6/a15866.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "df/de6/a15866.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "df/de6/a15866.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "df/de6/a15866.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "df/de6/a15866.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

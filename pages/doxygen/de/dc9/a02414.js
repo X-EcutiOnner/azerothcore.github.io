@@ -1,11 +1,7 @@
 var a02414 =
 [
-    [ "AddOutdoorPvPScripts", "de/dc9/a02414.html#a489bdfb4854732e561b6b13b70f67a0f", null ],
-    [ "AddSC_outdoorpvp_ep", "de/dc9/a02414.html#ac97adfc1efbcf82840cffa915a55fecb", null ],
-    [ "AddSC_outdoorpvp_gh", "de/dc9/a02414.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ],
-    [ "AddSC_outdoorpvp_hp", "de/dc9/a02414.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
-    [ "AddSC_outdoorpvp_na", "de/dc9/a02414.html#a03015585e7619177355fefd05f85e1c7", null ],
-    [ "AddSC_outdoorpvp_si", "de/dc9/a02414.html#a6dfd2849f525333510ae4febbbc3ae1f", null ],
-    [ "AddSC_outdoorpvp_tf", "de/dc9/a02414.html#a6df553c8dd6e9b81e83110e7beab3646", null ],
-    [ "AddSC_outdoorpvp_zm", "de/dc9/a02414.html#a3077d08865fa83f84cf956c392a9091c", null ]
+    [ "ChannelMgr", "d5/d75/a07906.html", "d5/d75/a07906" ],
+    [ "AllianceChannelMgr", "de/d0e/a07910.html", "de/d0e/a07910" ],
+    [ "HordeChannelMgr", "d2/dd7/a07914.html", "d2/dd7/a07914" ],
+    [ "MAX_CHANNEL_PASS_STR", "de/dc9/a02414.html#a06f16ee81d2214d67575f108b76f6333", null ]
 ];

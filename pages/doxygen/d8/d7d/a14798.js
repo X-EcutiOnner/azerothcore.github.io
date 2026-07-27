@@ -1,8 +1,6 @@
 var a14798 =
 [
-    [ "OnApply", "d8/d7d/a14798.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
-    [ "OnRemove", "d8/d7d/a14798.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
-    [ "PrepareAuraScript", "d8/d7d/a14798.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
-    [ "Register", "d8/d7d/a14798.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
-    [ "Validate", "d8/d7d/a14798.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
+    [ "PeriodicTick", "d8/d7d/a14798.html#a0832c36a9497674374b2998398bfc3a4", null ],
+    [ "PrepareAuraScript", "d8/d7d/a14798.html#a89acb64235da1ff59da90a509fbeec9d", null ],
+    [ "Register", "d8/d7d/a14798.html#aab689a2cb84dcd064736171035640584", null ]
 ];

@@ -1,9 +1,8 @@
 var a11466 =
 [
-    [ "TotemCreated", "d5/db4/a11466.html#a24c9e483d1edb526330311c719d750df", null ],
-    [ "Write", "d5/db4/a11466.html#a554900ae7442f00a63c983ea7ea74510", null ],
-    [ "Duration", "d5/db4/a11466.html#aff6335b86ac051bccb623124905c7180", null ],
-    [ "Slot", "d5/db4/a11466.html#a0889c816fbef728f1a0a6c530c801eac", null ],
-    [ "SpellID", "d5/db4/a11466.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
-    [ "Totem", "d5/db4/a11466.html#a684d15c5368e8065c78e9320eebb676b", null ]
+    [ "TrainerBuyFailed", "d5/db4/a11466.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
+    [ "Write", "d5/db4/a11466.html#a75c3bff5da4699fc412793caef1b75af", null ],
+    [ "SpellID", "d5/db4/a11466.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
+    [ "TrainerFailedReason", "d5/db4/a11466.html#a746ff497fba16adb16bbb647dff385df", null ],
+    [ "TrainerGUID", "d5/db4/a11466.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
 ];

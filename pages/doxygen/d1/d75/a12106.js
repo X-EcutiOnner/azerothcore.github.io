@@ -1,5 +1,6 @@
 var a12106 =
 [
-    [ "data", "db/d39/a05023.html#ga4e97bd1d129d33b86a11c79c8cfa437b", null ],
-    [ "ScriptId", "db/d39/a05023.html#gaa452a9be01e00154512cb55980737ae6", null ]
+    [ "EffectAbsorbHandler", "d1/d75/a12106.html#a29bb773b8271acf651b08f33ce358720", null ],
+    [ "Call", "d1/d75/a12106.html#a56bfb0fd0d860678920445d1182c09ef", null ],
+    [ "pEffectHandlerScript", "d1/d75/a12106.html#a519489b8d951173a806e86cfe075faf1", null ]
 ];

@@ -1,7 +1,5 @@
 var a17942 =
 [
-    [ "PrepareSpellScript", "d7/d51/a17942.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
-    [ "Register", "d7/d51/a17942.html#aff4f05a5a4742a408646000b7cece38c", null ],
-    [ "RemovePassengers", "d7/d51/a17942.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
-    [ "Validate", "d7/d51/a17942.html#a2a8da9d150804f979f2313f623ad7760", null ]
+    [ "achievement_flu_shot_shortage", "d7/d51/a17942.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
+    [ "OnCheck", "d7/d51/a17942.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
 ];

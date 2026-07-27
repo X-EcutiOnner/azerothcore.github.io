@@ -1,10 +1,7 @@
 var a24022 =
 [
-    [ "npc_pet_gen_imp_in_a_bottle", "d3/d47/a24022.html#aa32b7770c2719d77d46fcf6d22989284", null ],
-    [ "InitializeAI", "d3/d47/a24022.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
-    [ "UpdateAI", "d3/d47/a24022.html#a453ec855bb21a30cb72b540ff8f77035", null ],
-    [ "_data", "d3/d47/a24022.html#a982ec923536c2c33353a3673aa425b6a", null ],
-    [ "_hasParty", "d3/d47/a24022.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
-    [ "_ownerGUID", "d3/d47/a24022.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
-    [ "_talkTimer", "d3/d47/a24022.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
+    [ "HandleDummy", "d3/d47/a24022.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "d3/d47/a24022.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "d3/d47/a24022.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "d3/d47/a24022.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

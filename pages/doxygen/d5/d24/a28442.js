@@ -1,12 +1,13 @@
 var a28442 =
 [
-    [ "categoryId", "d5/d24/a28442.html#a1de0e4302757f18c08b90b40e059737b", null ],
-    [ "count", "d5/d24/a28442.html#a93aac150067979467f56d9919ff665a4", null ],
-    [ "flags", "d5/d24/a28442.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
-    [ "ID", "d5/d24/a28442.html#a843fee247948d02f7aaf04144cb37ef5", null ],
-    [ "mapID", "d5/d24/a28442.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
-    [ "name", "d5/d24/a28442.html#a806cfeddc475994f1b421679bd9699e6", null ],
-    [ "points", "d5/d24/a28442.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
-    [ "refAchievement", "d5/d24/a28442.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
-    [ "requiredFaction", "d5/d24/a28442.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
+    [ "npc_nelsonAI", "d5/d24/a28442.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
+    [ "DoAction", "d5/d24/a28442.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
+    [ "JustEngagedWith", "d5/d24/a28442.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
+    [ "JustSummoned", "d5/d24/a28442.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
+    [ "Reset", "d5/d24/a28442.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
+    [ "SpellHit", "d5/d24/a28442.html#afab81d8a6077c755c186bb619944d78d", null ],
+    [ "SummonedCreatureDies", "d5/d24/a28442.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
+    [ "UpdateAI", "d5/d24/a28442.html#ac68749942f37de5f9105556fe7b904b7", null ],
+    [ "events", "d5/d24/a28442.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
+    [ "shouldDespawn", "d5/d24/a28442.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
 ];

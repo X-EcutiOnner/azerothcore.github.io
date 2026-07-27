@@ -1,10 +1,16 @@
 var a11950 =
 [
-    [ "AcoreStringChatBuilder", "d3/d05/a11950.html#a7e280083c80fd119d365649fd4578fc9", null ],
-    [ "operator()", "d3/d05/a11950.html#a09a2a03dca2b8470cd1d1f7c8273868b", null ],
-    [ "_args", "d3/d05/a11950.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc", null ],
-    [ "_msgType", "d3/d05/a11950.html#adbabf871f33692b0ecddc8cc0fb75586", null ],
-    [ "_source", "d3/d05/a11950.html#ac5222737ea1b95b6d75afc532838f8be", null ],
-    [ "_target", "d3/d05/a11950.html#ab659b7c7bd6426a023cf8668322327b8", null ],
-    [ "_textId", "d3/d05/a11950.html#a3d29de9c5d80c3df488aa01fa380a84a", null ]
+    [ "AttributesMask", "d3/d05/a11950.html#a7cc9dfa91e034f5052ebd3bf8eaea42a", null ],
+    [ "Chance", "d3/d05/a11950.html#aea5ca609c75ea7b314aec8ae0246297e", null ],
+    [ "Charges", "d3/d05/a11950.html#a75f0484dad60eec59b399a188fd9908f", null ],
+    [ "Cooldown", "d3/d05/a11950.html#a4e6185aea35599a3efc2e806145cb1d2", null ],
+    [ "DisableEffectsMask", "d3/d05/a11950.html#adc34c0ba25af2e1b1fc3b0fc7c45c019", null ],
+    [ "HitMask", "d3/d05/a11950.html#a8ac3331576b4eb761157fa3d0d622bea", null ],
+    [ "ProcFlags", "d3/d05/a11950.html#a9e5de790c4f61537397a1ce2bce8a9b0", null ],
+    [ "ProcsPerMinute", "d3/d05/a11950.html#a3815765c08f6b95cae6efb93fa98623b", null ],
+    [ "SchoolMask", "d3/d05/a11950.html#acf72c4a783235770bbff952bdc002324", null ],
+    [ "SpellFamilyMask", "d3/d05/a11950.html#a8688e9282cb78d4f24b310cc2521c22b", null ],
+    [ "SpellFamilyName", "d3/d05/a11950.html#a2cb738b0d4579503fcb9bca7988f7e36", null ],
+    [ "SpellPhaseMask", "d3/d05/a11950.html#ab4c4bfa1493a7a5924d3cd094127f973", null ],
+    [ "SpellTypeMask", "d3/d05/a11950.html#a99e20d3979a532e1ca90ee83edcff3eb", null ]
 ];

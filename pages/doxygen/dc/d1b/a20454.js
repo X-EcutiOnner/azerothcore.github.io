@@ -1,11 +1,8 @@
 var a20454 =
 [
-    [ "npc_ulduar_expedition_engineer", "dc/d1b/a20454.html#af3fe5048712bae3add6867e998c2824d", null ],
-    [ "Reset", "dc/d1b/a20454.html#a7bbdbdaed353d450161e470e5f656c17", null ],
-    [ "SetData", "dc/d1b/a20454.html#a9a714463750de3513e65174f796fb4de", null ],
-    [ "UpdateAI", "dc/d1b/a20454.html#a78de5d8e8194e1ae362f9eb666a55404", null ],
-    [ "fixingGUID", "dc/d1b/a20454.html#af8f7c3106d392a7b6697af3ffd14121f", null ],
-    [ "pInstance", "dc/d1b/a20454.html#a1516880c5fb17bccd95d8e3b615c4175", null ],
-    [ "timer", "dc/d1b/a20454.html#a57f187130777929a921e2c35b6f43559", null ],
-    [ "working", "dc/d1b/a20454.html#a3450381dc89cabede2ccde6feab96dad", null ]
+    [ "npc_ulduar_flash_freeze", "dc/d1b/a20454.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
+    [ "DamageTaken", "dc/d1b/a20454.html#af381d671e1b64c6135ed6c76b1eef213", null ],
+    [ "UpdateAI", "dc/d1b/a20454.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
+    [ "_instance", "dc/d1b/a20454.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
+    [ "timer", "dc/d1b/a20454.html#a016272492e1843b09c7c8b40537a463a", null ]
 ];

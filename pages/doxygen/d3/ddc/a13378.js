@@ -1,8 +1,7 @@
 var a13378 =
 [
-    [ "HandleHit", "d3/ddc/a13378.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
-    [ "PrepareSpellScript", "d3/ddc/a13378.html#a53f170244b390f7035e131fb5c79cb3f", null ],
-    [ "Register", "d3/ddc/a13378.html#a248124b837cf71f7d422154db4581747", null ],
-    [ "Validate", "d3/ddc/a13378.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
-    [ "_emote", "d3/ddc/a13378.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
+    [ "PeriodicTick", "d3/ddc/a13378.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
+    [ "PrepareAuraScript", "d3/ddc/a13378.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
+    [ "Register", "d3/ddc/a13378.html#a2681d44b149e9f1d797df4147e20e686", null ],
+    [ "Validate", "d3/ddc/a13378.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
 ];

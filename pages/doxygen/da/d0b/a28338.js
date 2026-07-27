@@ -1,6 +1,6 @@
 var a28338 =
 [
-    [ "X", "da/d0b/a28338.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "da/d0b/a28338.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "da/d0b/a28338.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "guard_shattrath_scryerAI", "d6/dfb/a28342.html", "d6/dfb/a28342" ],
+    [ "guard_shattrath_scryer", "da/d0b/a28338.html#a2ee4d6881d7c24cd848c590b84207663", null ],
+    [ "GetAI", "da/d0b/a28338.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
 ];

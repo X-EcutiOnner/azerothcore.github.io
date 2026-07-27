@@ -1,15 +1,7 @@
 var a19038 =
 [
-    [ "npc_icc_valkyr_heraldAI", "d1/d00/a19038.html#afd9cd5e7f1048940cdc46d1b7e93d2a1", null ],
-    [ "CanAIAttack", "d1/d00/a19038.html#a80efc0d2e192c316640c8136c533aa6b", null ],
-    [ "JustEngagedWith", "d1/d00/a19038.html#aee4e6801cb31ed631568a32c22aa809b", null ],
-    [ "JustReachedHome", "d1/d00/a19038.html#a84da1485b45ab1229fc2ca6e2e6564f8", null ],
-    [ "JustSummoned", "d1/d00/a19038.html#af63753b3de60bcdb79989bfa8d582176", null ],
-    [ "MoveInLineOfSight", "d1/d00/a19038.html#ab048b3536a8b169e85ee4297f04005ba", null ],
-    [ "Reset", "d1/d00/a19038.html#a0eefcf657c8b00b8f4a586f72467e1ca", null ],
-    [ "SpellHitTarget", "d1/d00/a19038.html#aab96b7e137f9348ab4d33629c198f011", null ],
-    [ "SummonedCreatureDespawn", "d1/d00/a19038.html#ae3e1b98b21f46d9d7c895c1e03794696", null ],
-    [ "UpdateAI", "d1/d00/a19038.html#a55cbb21aecfd78efc96d465cf61728ae", null ],
-    [ "events", "d1/d00/a19038.html#a28b3fdd5f60a2277604b9c4a4766f7bc", null ],
-    [ "summons", "d1/d00/a19038.html#a379afe20ef8acbbc510485da74a41487", null ]
+    [ "npc_frost_freeze_trapAI", "d1/d00/a19038.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "d1/d00/a19038.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "d1/d00/a19038.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "d1/d00/a19038.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

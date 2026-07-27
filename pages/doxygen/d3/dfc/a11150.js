@@ -1,6 +1,6 @@
 var a11150 =
 [
-    [ "ResetFailedNotify", "d3/dfc/a11150.html#a82e12a0f207590b6176253cf36a22d2f", null ],
-    [ "Write", "d3/dfc/a11150.html#af03055514ef0e1e97f24c66d2cd94185", null ],
-    [ "MapId", "d3/dfc/a11150.html#a17f065fc6d5438d74f38bde67a841be7", null ]
+    [ "GuildDemoteMember", "d3/dfc/a11150.html#aa3d68021828c516d7b1995811e8df7d7", null ],
+    [ "Read", "d3/dfc/a11150.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
+    [ "Demotee", "d3/dfc/a11150.html#a60c7e56c201d794fb473a62fccc160bb", null ]
 ];

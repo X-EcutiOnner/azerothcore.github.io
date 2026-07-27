@@ -1,6 +1,7 @@
 var a19906 =
 [
-    [ "CastRunesEvent", "da/dcc/a19906.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
-    [ "Execute", "da/dcc/a19906.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
-    [ "_owner", "da/dcc/a19906.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
+    [ "HandleProc", "da/dcc/a19906.html#adb7714eca4c317ab76db0ecbc813669e", null ],
+    [ "PrepareAuraScript", "da/dcc/a19906.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
+    [ "Register", "da/dcc/a19906.html#a445ce7331c36e507aa24466ff9a67781", null ],
+    [ "Validate", "da/dcc/a19906.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
 ];

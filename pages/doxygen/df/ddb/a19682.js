@@ -1,8 +1,5 @@
 var a19682 =
 [
-    [ "HandleEffectPeriodic", "df/ddb/a19682.html#abb453e3d38677be7082f2cd4e43134cc", null ],
-    [ "HandleOnEffectApply", "df/ddb/a19682.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
-    [ "PrepareAuraScript", "df/ddb/a19682.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
-    [ "Register", "df/ddb/a19682.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
-    [ "Validate", "df/ddb/a19682.html#a09481646f8ec90b0135d93d83cc18929", null ]
+    [ "at_thaddius_entrance", "df/ddb/a19682.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "_OnTrigger", "df/ddb/a19682.html#a5e8954c265ead9ab5347b8921e5bd1bb", null ]
 ];

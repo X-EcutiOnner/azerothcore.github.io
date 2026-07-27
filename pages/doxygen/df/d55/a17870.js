@@ -1,6 +1,6 @@
 var a17870 =
 [
-    [ "PrepareSpellScript", "df/d55/a17870.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "df/d55/a17870.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "df/d55/a17870.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "npc_saurfang_eventAI", "d1/d15/a17874.html", "d1/d15/a17874" ],
+    [ "npc_saurfang_event", "df/d55/a17870.html#a3bfce5457466360458498833098d660c", null ],
+    [ "GetAI", "df/d55/a17870.html#a953842d2fa3380a8331faf3a42cb3177", null ]
 ];

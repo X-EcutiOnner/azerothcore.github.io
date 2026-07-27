@@ -1,7 +1,8 @@
 var a20282 =
 [
-    [ "HandleEffectPeriodic", "dd/dbb/a20282.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
-    [ "PrepareAuraScript", "dd/dbb/a20282.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
-    [ "Register", "dd/dbb/a20282.html#aed86a298340cc05fbe2a8a68396423bb", null ],
-    [ "Validate", "dd/dbb/a20282.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
+    [ "OnApply", "dd/dbb/a20282.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
+    [ "OnRemove", "dd/dbb/a20282.html#ab967233994aa3ff07b272f010b2c1545", null ],
+    [ "PrepareAuraScript", "dd/dbb/a20282.html#a788480ec4aaa57e643f55daca17c6ded", null ],
+    [ "Register", "dd/dbb/a20282.html#a63a3e30704b282a430dcdbb9073a66df", null ],
+    [ "Validate", "dd/dbb/a20282.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
 ];

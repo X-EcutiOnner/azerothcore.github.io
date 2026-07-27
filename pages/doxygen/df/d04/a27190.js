@@ -1,6 +1,6 @@
 var a27190 =
 [
-    [ "HandleProc", "df/d04/a27190.html#a933975b17f340d9f458dc95b77aa43ac", null ],
-    [ "PrepareAuraScript", "df/d04/a27190.html#ad9df49f481d936068ebee0d2f6179e9f", null ],
-    [ "Register", "df/d04/a27190.html#a54dd9a2a6646282897cabec00f092525", null ]
+    [ "HandleDummy", "df/d04/a27190.html#a73628636431d3549d6e3530c6ef23c08", null ],
+    [ "PrepareSpellScript", "df/d04/a27190.html#ab90d3031b356e8004fa62c9562f1ba1f", null ],
+    [ "Register", "df/d04/a27190.html#a7f42cf47831d3c8544453530a1454ddc", null ]
 ];

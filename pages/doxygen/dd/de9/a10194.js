@@ -1,9 +1,14 @@
 var a10194 =
 [
-    [ "MapUpdateRequest", "dd/de9/a10194.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "dd/de9/a10194.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "dd/de9/a10194.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "dd/de9/a10194.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "dd/de9/a10194.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "dd/de9/a10194.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "DoublePosition", "dd/de9/a10194.html#a59190a2456f052c6ffa6e181ced94a4f", null ],
+    [ "DoublePosition", "dd/de9/a10194.html#a9900e06c36c6ebc4edd0ba45264990b8", null ],
+    [ "DoublePosition", "dd/de9/a10194.html#a543ff52f7b278f68cc36ee880932e744", null ],
+    [ "GetDoubleExactDist2dSq", "dd/de9/a10194.html#ae17b4e695ff23a8ec323405801f2013a", null ],
+    [ "GetDoublePositionX", "dd/de9/a10194.html#a7c769d1762f99150a46ceaa2b2bfa8e8", null ],
+    [ "GetDoublePositionY", "dd/de9/a10194.html#a201096c85022d54b1d9dbe9264df901f", null ],
+    [ "GetDoublePositionZ", "dd/de9/a10194.html#a01fc3985229b6bd03e6d1da95f871c17", null ],
+    [ "sync", "dd/de9/a10194.html#a75e75187d6663591a39c87bc1086aebd", null ],
+    [ "DoublePosX", "dd/de9/a10194.html#a4f9ffbbe4396f3ec26a81139f5868e2e", null ],
+    [ "DoublePosY", "dd/de9/a10194.html#a90839893f3a58a72a07177d3eee1d691", null ],
+    [ "DoublePosZ", "dd/de9/a10194.html#a19af503e9623ccaeb032bfe9f0a0ed63", null ]
 ];

@@ -1,6 +1,7 @@
 var a26102 =
 [
-    [ "OnRemove", "d2/d57/a26102.html#ae1f257e43effcb396d57d42db3063afd", null ],
-    [ "PrepareAuraScript", "d2/d57/a26102.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
-    [ "Register", "d2/d57/a26102.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
+    [ "HandleDummy", "d2/d57/a26102.html#a5d95d2329c750692d9a4facae9ddf781", null ],
+    [ "PrepareSpellScript", "d2/d57/a26102.html#a2699b3bc033bdd896d0f9a4b3c067354", null ],
+    [ "Register", "d2/d57/a26102.html#a8d83f9e52ba19f75647e99760439c380", null ],
+    [ "Validate", "d2/d57/a26102.html#a24610d5652ef85e883b1bac9256b30f7", null ]
 ];

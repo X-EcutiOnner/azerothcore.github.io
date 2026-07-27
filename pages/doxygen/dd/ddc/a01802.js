@@ -1,4 +1,4 @@
 var a01802 =
 [
-    [ "LoginQueryHolder", "dd/dee/a09980.html", "dd/dee/a09980" ]
+    [ "CommandScript", "d8/dc5/a10742.html", "d8/dc5/a10742" ]
 ];

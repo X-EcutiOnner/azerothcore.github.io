@@ -1,11 +1,8 @@
 var a13326 =
 [
-    [ "npc_a_special_surpriseAI", "dd/d3d/a13326.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
-    [ "MeetQuestCondition", "dd/d3d/a13326.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
-    [ "MoveInLineOfSight", "dd/d3d/a13326.html#af0b183b951f1eba8114da1f7a1284d09", null ],
-    [ "Reset", "dd/d3d/a13326.html#a9526f6b257eade275b828d2b30328533", null ],
-    [ "UpdateAI", "dd/d3d/a13326.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
-    [ "ExecuteSpeech_Counter", "dd/d3d/a13326.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
-    [ "ExecuteSpeech_Timer", "dd/d3d/a13326.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
-    [ "PlayerGUID", "dd/d3d/a13326.html#a683cdbd0ef9d0562842aace5b440594f", null ]
+    [ "npc_tito", "dd/d3d/a13326.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
+    [ "JustEngagedWith", "dd/d3d/a13326.html#a71335c1474e8a29edf76addacb737fa9", null ],
+    [ "UpdateAI", "dd/d3d/a13326.html#ac357c29e68d8480d94349da844efd3ad", null ],
+    [ "_scheduler", "dd/d3d/a13326.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
+    [ "instance", "dd/d3d/a13326.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
 ];

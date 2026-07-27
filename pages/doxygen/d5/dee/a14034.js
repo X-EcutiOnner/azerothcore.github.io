@@ -1,11 +1,17 @@
 var a14034 =
 [
-    [ "npc_highborne_lamenterAI", "d5/dee/a14034.html#ad91cd657166a12d3c34adcf7b11d076f", null ],
-    [ "JustEngagedWith", "d5/dee/a14034.html#a77a978fdb0ba0de506f66ec0b2906229", null ],
-    [ "Reset", "d5/dee/a14034.html#a7cf9338767e8edf0a87a5552703de87a", null ],
-    [ "UpdateAI", "d5/dee/a14034.html#a1048c558b825b58dbc7a3d97869a3e88", null ],
-    [ "EventCast", "d5/dee/a14034.html#a02ed3216c8b71e3d2be695866dbc0089", null ],
-    [ "EventCastTimer", "d5/dee/a14034.html#afc490ae2382fd7097b3877c7f9eadf6b", null ],
-    [ "EventMove", "d5/dee/a14034.html#aca22c73db989f0393926067506794e43", null ],
-    [ "EventMoveTimer", "d5/dee/a14034.html#a36d1993262eb0a7200e2bec625f5b4d1", null ]
+    [ "npc_rinjiAI", "d5/dee/a14034.html#ab613818b92530269f0802077eccc92d0", null ],
+    [ "DoSpawnAmbush", "d5/dee/a14034.html#af2535d7364641fadc98bca91ace9c906", null ],
+    [ "JustEngagedWith", "d5/dee/a14034.html#ae5ca00ee9baead3392a9239dfb68d377", null ],
+    [ "JustRespawned", "d5/dee/a14034.html#a471f2e8da91639d4e68ad64a11d7b950", null ],
+    [ "JustSummoned", "d5/dee/a14034.html#a09d65e7bd5a76552208eee920cfcb4f9", null ],
+    [ "Reset", "d5/dee/a14034.html#ada230a1b7b0f3c8b2b41c706856681b8", null ],
+    [ "sQuestAccept", "d5/dee/a14034.html#a15b9a0756ae6cebac690c8bb997e99d2", null ],
+    [ "UpdateEscortAI", "d5/dee/a14034.html#a60f05b58b115f3f2ea11206778893547", null ],
+    [ "WaypointReached", "d5/dee/a14034.html#a9463060a57b85113b71482c8a0974f60", null ],
+    [ "WaypointReached", "d5/dee/a14034.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_IsByOutrunner", "d5/dee/a14034.html#adecc4eb9f90969621b52b97ff594558d", null ],
+    [ "postEventCount", "d5/dee/a14034.html#a601f142bd2a04ed303611044bac91035", null ],
+    [ "postEventTimer", "d5/dee/a14034.html#a5154e551143e81d431f706ad07b78ca0", null ],
+    [ "spawnId", "d5/dee/a14034.html#a3fc84d1e0f5243c6e8f292ddcac15ace", null ]
 ];

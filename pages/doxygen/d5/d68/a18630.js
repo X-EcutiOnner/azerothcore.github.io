@@ -1,6 +1,6 @@
 var a18630 =
 [
-    [ "npc_icc_lk_checktargetAI", "de/d6c/a18634.html", "de/d6c/a18634" ],
-    [ "npc_icc_lk_checktarget", "d5/d68/a18630.html#a3a2cc943e731e472694dcb13417090da", null ],
-    [ "GetAI", "d5/d68/a18630.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
+    [ "LichKingMovieEvent", "d5/d68/a18630.html#a3e48e13dc5166c73a9f379045988f86a", null ],
+    [ "Execute", "d5/d68/a18630.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
+    [ "_owner", "d5/d68/a18630.html#a7ed68f442a644d6bb7a036812351d89e", null ]
 ];

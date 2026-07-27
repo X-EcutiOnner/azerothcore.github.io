@@ -1,8 +1,12 @@
 var a14166 =
 [
-    [ "FilterTargets", "d4/df8/a14166.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
-    [ "OnHit", "d4/df8/a14166.html#ac25886536c353f09838188362fb8ae84", null ],
-    [ "PrepareSpellScript", "d4/df8/a14166.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
-    [ "Register", "d4/df8/a14166.html#afa419365236c09914f758846978e2cbb", null ],
-    [ "Validate", "d4/df8/a14166.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
+    [ "npc_koltira_deathweaver", "d4/df8/a14166.html#a4d71e3da1340693b08127d9647efb7bb", null ],
+    [ "MovementInform", "d4/df8/a14166.html#a708ed9530e94397252d28b0f25e5f0c0", null ],
+    [ "Reset", "d4/df8/a14166.html#a5997672bc9bea9d119b79fdc9bd70b2e", null ],
+    [ "sGossipSelect", "d4/df8/a14166.html#a23a56674749f287a59fa34fe3027a800", null ],
+    [ "sQuestAccept", "d4/df8/a14166.html#a099e6f33720417ff376343ad9e64abae", null ],
+    [ "StartEvent", "d4/df8/a14166.html#a8c40b2c1d232d2cf4cc4e1f2e99a431c", null ],
+    [ "SummonedCreatureDies", "d4/df8/a14166.html#abd016ea1f5bc6e2167e5e09d1d05bf27", null ],
+    [ "UpdateAI", "d4/df8/a14166.html#a110d20298f724095b1c526714268c98e", null ],
+    [ "_valrothGUID", "d4/df8/a14166.html#ab2f9e13993b7b0a357a3264c487e77aa", null ]
 ];

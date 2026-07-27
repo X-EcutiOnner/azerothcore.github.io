@@ -1,7 +1,7 @@
 var a17246 =
 [
-    [ "HandlePeriodicTick", "d6/dfd/a17246.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
-    [ "PrepareAuraScript", "d6/dfd/a17246.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
-    [ "Register", "d6/dfd/a17246.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
-    [ "Validate", "d6/dfd/a17246.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
+    [ "HandleEffectRemove", "d6/dfd/a17246.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "d6/dfd/a17246.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "d6/dfd/a17246.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "d6/dfd/a17246.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

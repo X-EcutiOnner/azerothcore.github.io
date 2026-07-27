@@ -1,5 +1,7 @@
 var a27590 =
 [
-    [ "achievement_bg_sa_artillery", "de/dcf/a27590.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "de/dcf/a27590.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "CheckProc", "de/dcf/a27590.html#a982264a8ea20344b66269a3edd814db7", null ],
+    [ "HandleProc", "de/dcf/a27590.html#adf79a132d1ae20e27b07dc77e103fb3c", null ],
+    [ "PrepareAuraScript", "de/dcf/a27590.html#abd0ac0c324e3323140812c7d4c937e1e", null ],
+    [ "Register", "de/dcf/a27590.html#ac24fe502aa899f953b694fe3ebf46012", null ]
 ];

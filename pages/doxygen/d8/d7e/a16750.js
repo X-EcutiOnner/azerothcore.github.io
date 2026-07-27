@@ -1,6 +1,6 @@
 var a16750 =
 [
-    [ "npc_toc_hunterAI", "d1/dd8/a16754.html", "d1/dd8/a16754" ],
-    [ "npc_toc_hunter", "d8/d7e/a16750.html#a73d4113df71626af7b8294e08373965e", null ],
-    [ "GetAI", "d8/d7e/a16750.html#a8b9d2a8186aefb3e411bd20c006207d4", null ]
+    [ "FilterTargets", "d8/d7e/a16750.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
+    [ "PrepareSpellScript", "d8/d7e/a16750.html#a5ede43deece629a38f5482280983b59a", null ],
+    [ "Register", "d8/d7e/a16750.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
 ];

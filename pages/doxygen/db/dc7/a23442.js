@@ -1,6 +1,7 @@
 var a23442 =
 [
-    [ "OnApply", "db/dc7/a23442.html#a472220f22165c6d21eab5f4b5f75921e", null ],
-    [ "PrepareAuraScript", "db/dc7/a23442.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
-    [ "Register", "db/dc7/a23442.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
+    [ "HandleScript", "db/dc7/a23442.html#a8933535f9507b90b54032c17985cc3c6", null ],
+    [ "PrepareSpellScript", "db/dc7/a23442.html#acadb563eaeffac47b3f883f9d8c37994", null ],
+    [ "Register", "db/dc7/a23442.html#a797ae84dcb0fc13b0799934bde71809c", null ],
+    [ "Validate", "db/dc7/a23442.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
 ];

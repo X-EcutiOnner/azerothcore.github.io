@@ -1,8 +1,6 @@
 var a24862 =
 [
-    [ "AchievementCredit", "dc/db2/a24862.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "dc/db2/a24862.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "dc/db2/a24862.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "dc/db2/a24862.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "dc/db2/a24862.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "HandleAfterCast", "dc/db2/a24862.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
+    [ "PrepareSpellScript", "dc/db2/a24862.html#a602d7c920aa73a9c3c69222854093036", null ],
+    [ "Register", "dc/db2/a24862.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
 ];

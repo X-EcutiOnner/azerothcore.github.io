@@ -1,8 +1,9 @@
 var a26726 =
 [
-    [ "HandleDummy", "d7/d88/a26726.html#a923fa966dc7109f7cb02c25bbd23b0ff", null ],
-    [ "Load", "d7/d88/a26726.html#a5b336f402a256c80d8d3f8c5b1cbda2f", null ],
-    [ "PrepareSpellScript", "d7/d88/a26726.html#a79dc24ba1f2f059d77a06b457a78fcf1", null ],
-    [ "Register", "d7/d88/a26726.html#afb1c744f263b21c30a5dfd3675acb364", null ],
-    [ "Validate", "d7/d88/a26726.html#acaaeacf371538cafbbb4cc7cc036280e", null ]
+    [ "CheckCast", "d7/d88/a26726.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
+    [ "HandleTriggerSpellHit", "d7/d88/a26726.html#aca027bb2995456bfcedd33c06966eb88", null ],
+    [ "HandleTriggerSpellLaunch", "d7/d88/a26726.html#aa67bf9f81086a3837037d67306979072", null ],
+    [ "PrepareSpellScript", "d7/d88/a26726.html#a9247b5f3a376bebdcf857565b5049944", null ],
+    [ "Register", "d7/d88/a26726.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
+    [ "Validate", "d7/d88/a26726.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
 ];

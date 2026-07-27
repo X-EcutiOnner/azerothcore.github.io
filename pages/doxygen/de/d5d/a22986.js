@@ -1,9 +1,11 @@
 var a22986 =
 [
-    [ "boss_mennu_the_betrayer", "de/d5d/a22986.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
-    [ "JustDied", "de/d5d/a22986.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
-    [ "JustEngagedWith", "de/d5d/a22986.html#a535b9af1677b8af50515818a18e88d27", null ],
-    [ "JustSummoned", "de/d5d/a22986.html#a59949872270890ef794a77029074210b", null ],
-    [ "KilledUnit", "de/d5d/a22986.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
-    [ "Reset", "de/d5d/a22986.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
+    [ "boss_supremus", "de/d5d/a22986.html#af1f094534b0e2dec70422839a02327cd", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "de/d5d/a22986.html#a2654bf5b1d5b6da723d4968219e069a9", null ],
+    [ "FindHatefulStrikeTarget", "de/d5d/a22986.html#af560466902d0d372662020e1a67b627c", null ],
+    [ "JustEngagedWith", "de/d5d/a22986.html#a7d3a5e2c183db7639a7c25f309359ed1", null ],
+    [ "JustSummoned", "de/d5d/a22986.html#a7265a01fa79213ab6d8b82a4c92b7661", null ],
+    [ "Reset", "de/d5d/a22986.html#a0eaa29849a2571417d4826d238d72e25", null ],
+    [ "SchedulePhase", "de/d5d/a22986.html#a87e3943d6c645138853aa97644f9df0e", null ],
+    [ "SummonedCreatureDespawn", "de/d5d/a22986.html#a2ae72bfef577654e676a64eb2e4efa7a", null ]
 ];

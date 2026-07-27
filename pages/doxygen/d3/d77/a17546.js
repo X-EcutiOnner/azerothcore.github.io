@@ -1,6 +1,6 @@
 var a17546 =
 [
-    [ "AddExtraDamage", "d3/d77/a17546.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "d3/d77/a17546.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "d3/d77/a17546.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "SlaveRunEvent", "d3/d77/a17546.html#a4560b275b0870cdbd192b2610893b47c", null ],
+    [ "Execute", "d3/d77/a17546.html#a81db67be136525dea5a9cd84180be165", null ],
+    [ "_owner", "d3/d77/a17546.html#a33e2ce4cea1edf2e0967696c41667f15", null ]
 ];

@@ -1,6 +1,6 @@
 var a19830 =
 [
-    [ "CosmicSmashDamageEvent", "d5/dc2/a19830.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "d5/dc2/a19830.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "d5/dc2/a19830.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "boss_drakosAI", "d5/d70/a19834.html", "d5/d70/a19834" ],
+    [ "boss_drakos", "d5/dc2/a19830.html#aa70ae2809af4f24eea0b83b42d695448", null ],
+    [ "GetAI", "d5/dc2/a19830.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
 ];

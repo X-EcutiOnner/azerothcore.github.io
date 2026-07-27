@@ -1,7 +1,7 @@
 var a26958 =
 [
-    [ "HandleEffect", "d8/dcd/a26958.html#ab33c9312c9ac4096140a82f381d83235", null ],
-    [ "PrepareSpellScript", "d8/dcd/a26958.html#a6117d7b2720f719d801b5f6e0e719f5f", null ],
-    [ "Register", "d8/dcd/a26958.html#a1f5983124756eca5666ca6adbe5a4544", null ],
-    [ "Validate", "d8/dcd/a26958.html#a08f7e508b50fc44ced0b7ff04e22b333", null ]
+    [ "HandleProc", "d8/dcd/a26958.html#a512ec25fe649e42930d64effa4f7868b", null ],
+    [ "PrepareAuraScript", "d8/dcd/a26958.html#ac1c7dcf63d7c67ec5fad424531519b58", null ],
+    [ "Register", "d8/dcd/a26958.html#a6118148ac0e641a6c3e4490c2cdd86c0", null ],
+    [ "Validate", "d8/dcd/a26958.html#a22dea9fb57d89b1d4813722968b5429f", null ]
 ];

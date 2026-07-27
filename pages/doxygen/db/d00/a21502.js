@@ -1,6 +1,7 @@
 var a21502 =
 [
-    [ "npc_q24545_vegardAI", "df/d52/a21506.html", "df/d52/a21506" ],
-    [ "npc_q24545_vegard", "db/d00/a21502.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "db/d00/a21502.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "npc_azure_invader", "db/d00/a21502.html#a6b7fcdd4e5166a932e85fcc6ec57d086", null ],
+    [ "Reset", "db/d00/a21502.html#a51d349d0254f2d5a67f27298952fbb06", null ],
+    [ "UpdateAI", "db/d00/a21502.html#a6677b18604e15017d15f1d3b0386cfae", null ],
+    [ "_events", "db/d00/a21502.html#ac178244e22f71a15d7af91946cf961ef", null ]
 ];

@@ -1,6 +1,7 @@
 var a18510 =
 [
-    [ "npc_icc_ice_sphereAI", "de/d76/a18514.html", "de/d76/a18514" ],
-    [ "npc_icc_ice_sphere", "d9/d9f/a18510.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
-    [ "GetAI", "d9/d9f/a18510.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
+    [ "PeriodicTick", "d9/d9f/a18510.html#a79b63e30f37df8a961b57c4b10669800", null ],
+    [ "PrepareAuraScript", "d9/d9f/a18510.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
+    [ "Register", "d9/d9f/a18510.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
+    [ "Validate", "d9/d9f/a18510.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
 ];

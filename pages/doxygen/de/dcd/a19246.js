@@ -1,6 +1,7 @@
 var a19246 =
 [
-    [ "npc_gothik_triggerAI", "d0/d4e/a19250.html", "d0/d4e/a19250" ],
-    [ "npc_gothik_trigger", "de/dcd/a19246.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
-    [ "GetAI", "de/dcd/a19246.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
+    [ "HandleEffectPeriodic", "de/dcd/a19246.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
+    [ "PrepareAuraScript", "de/dcd/a19246.html#ae040da0db1147652266e1f373838df37", null ],
+    [ "Register", "de/dcd/a19246.html#ab11b84522134ee4d13504df3c19f69b8", null ],
+    [ "Validate", "de/dcd/a19246.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
 ];

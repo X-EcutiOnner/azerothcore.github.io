@@ -1,20 +1,11 @@
 var a15970 =
 [
-    [ "npc_twiggy_flatheadAI", "d4/dcd/a15970.html#a03aee9619eafa0f497390c520cbfaf24", null ],
-    [ "CleanUp", "d4/dcd/a15970.html#adfe48ed23633691608b289c4751c788a", null ],
-    [ "EnterEvadeMode", "d4/dcd/a15970.html#a9fd1519e6196ba4db30740b16904964b", null ],
-    [ "JustEngagedWith", "d4/dcd/a15970.html#aa601e079ed93d4d21f2ea2decf6cdab3", null ],
-    [ "MoveInLineOfSight", "d4/dcd/a15970.html#a95188ce1d3abba7dfeef5a9cbd6d3306", null ],
-    [ "Reset", "d4/dcd/a15970.html#ab98c38a9d8c3cb3e1ac67f321cfe90fb", null ],
-    [ "UpdateAI", "d4/dcd/a15970.html#a0a9cefdaf419143eed6e6aa89489e8dd", null ],
-    [ "AffrayChallenger", "d4/dcd/a15970.html#a42354987ab877f7c113ac44b50d4a660", null ],
-    [ "BigWill", "d4/dcd/a15970.html#a4a017e9153c04e34b2c9c3ae30583856", null ],
-    [ "ChallengerChecker", "d4/dcd/a15970.html#a9908c43715426b75c06c1e2032f4fcca", null ],
-    [ "ChallengerDown", "d4/dcd/a15970.html#a8777dbc5bd40e29a46d1195414a3f754", null ],
-    [ "EventBigWill", "d4/dcd/a15970.html#a32d931e4aabbabedd05ae243038cca8e", null ],
-    [ "EventGrate", "d4/dcd/a15970.html#a8bc3907272941dbf2218cc0dbafb205f", null ],
-    [ "EventInProgress", "d4/dcd/a15970.html#a4dd84ae18a7f79238f110659db03b984", null ],
-    [ "PlayerGUID", "d4/dcd/a15970.html#aa510117962fc5294113f2f88a1f2a652", null ],
-    [ "Wave", "d4/dcd/a15970.html#a5a38a9a8da1b9cd03e800fcd90e38d1a", null ],
-    [ "WaveTimer", "d4/dcd/a15970.html#a8a0d2b9db7f49cdb367dcf6f68bc1633", null ]
+    [ "npc_troll_volunteerAI", "d4/dcd/a15970.html#a7eb0c508122616a6781c8b23210e4062", null ],
+    [ "GetMountId", "d4/dcd/a15970.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
+    [ "InitializeAI", "d4/dcd/a15970.html#a1c758c7601624e0620778e13e8ec60a0", null ],
+    [ "MovementInform", "d4/dcd/a15970.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
+    [ "Reset", "d4/dcd/a15970.html#a31439533de41c2a459af2b4d3af76139", null ],
+    [ "SpellHit", "d4/dcd/a15970.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
+    [ "_complete", "d4/dcd/a15970.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
+    [ "_mountModel", "d4/dcd/a15970.html#ae226345bd324b9c337dc96570117d82b", null ]
 ];

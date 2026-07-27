@@ -1,6 +1,8 @@
 var a14414 =
 [
-    [ "LaunchHit", "de/d21/a14414.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
-    [ "PrepareSpellScript", "de/d21/a14414.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
-    [ "Register", "de/d21/a14414.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
+    [ "npc_zulaman_hostageAI", "dc/d6b/a14418.html", "dc/d6b/a14418" ],
+    [ "npc_zulaman_hostage", "de/d21/a14414.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "de/d21/a14414.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "de/d21/a14414.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "de/d21/a14414.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

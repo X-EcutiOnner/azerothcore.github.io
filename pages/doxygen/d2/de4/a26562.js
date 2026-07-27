@@ -1,7 +1,6 @@
 var a26562 =
 [
-    [ "CheckProc", "d2/de4/a26562.html#adc34c24521c893499c72bc0fe8a946eb", null ],
-    [ "PrepareAuraScript", "d2/de4/a26562.html#a1e7cf41ceb818d7d234c1b998e7280be", null ],
-    [ "Register", "d2/de4/a26562.html#a60a2902196abf3239fe6b8f7defcd609", null ],
-    [ "Validate", "d2/de4/a26562.html#a13e108f88a07f0b46291cdc718022437", null ]
+    [ "HandleProc", "d2/de4/a26562.html#a746a66c768e1987eb3752a41b19b822d", null ],
+    [ "PrepareAuraScript", "d2/de4/a26562.html#a396023bc98b70b6357630e45a2278afc", null ],
+    [ "Register", "d2/de4/a26562.html#a6af4e80cf3c88320a6157e986a4b719f", null ]
 ];

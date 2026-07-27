@@ -1,6 +1,11 @@
 var a06250 =
 [
-    [ "GameObjectAIFactory", "dd/d9a/a06250.html#a2f658540a81d207694b6d2d783009380", null ],
-    [ "Create", "dd/d9a/a06250.html#a94fa057baafbbad4b81b97aea34354a3", null ],
-    [ "Permit", "dd/d9a/a06250.html#ae8b7e45a73f87249e27a4dae596b0d52", null ]
+    [ "SQLOperation", "dd/d9a/a06250.html#a0f69657715b7d24458227b22a3b40b1a", null ],
+    [ "~SQLOperation", "dd/d9a/a06250.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
+    [ "SQLOperation", "dd/d9a/a06250.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
+    [ "call", "dd/d9a/a06250.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
+    [ "Execute", "dd/d9a/a06250.html#aff1090554bc4a6fe7a33270e63416e19", null ],
+    [ "operator=", "dd/d9a/a06250.html#ac31349ed45ea051540ac345bd4b814d5", null ],
+    [ "SetConnection", "dd/d9a/a06250.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
+    [ "m_conn", "dd/d9a/a06250.html#adf322db48064fcf4528f713f857f1b40", null ]
 ];

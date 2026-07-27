@@ -1,7 +1,6 @@
 var a19170 =
 [
-    [ "OnRemove", "d7/d5b/a19170.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "d7/d5b/a19170.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "d7/d5b/a19170.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "d7/d5b/a19170.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "OnRemove", "d7/d5b/a19170.html#a748868eb89f1fb3ccfec5ea9f8603168", null ],
+    [ "PrepareAuraScript", "d7/d5b/a19170.html#a9033a0ef5963800d13b898f7c02ff7b2", null ],
+    [ "Register", "d7/d5b/a19170.html#a7ac0cff5f8f918e7a61bbc600419d3c3", null ]
 ];

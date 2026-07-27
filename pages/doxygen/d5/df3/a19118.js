@@ -1,5 +1,8 @@
 var a19118 =
 [
-    [ "creatureEntry", "d5/df3/a19118.html#afab12c40af70303dff2a9553d47dbb7d", null ],
-    [ "questId", "d5/df3/a19118.html#ace2a7dd58d442b6afb2173311c89593b", null ]
+    [ "npc_arthas_teleport_visualAI", "d5/df3/a19118.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "d5/df3/a19118.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "d5/df3/a19118.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "d5/df3/a19118.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "d5/df3/a19118.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

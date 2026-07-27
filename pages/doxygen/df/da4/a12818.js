@@ -1,10 +1,20 @@
 var a12818 =
 [
-    [ "boss_golemagg", "df/da4/a12818.html#ac7a23be0a51bd73b5c5b8215ba31412e", null ],
-    [ "DamageTaken", "df/da4/a12818.html#acf0917a65764074ebb11d51cb537c2f5", null ],
-    [ "Reset", "df/da4/a12818.html#ac663539bac3bcd858dfbfba6095172dd", null ],
-    [ "UpdateAI", "df/da4/a12818.html#aa68a9ff1858591b65ad650c18954bdea", null ],
-    [ "earthquakeTimer", "df/da4/a12818.html#ad581b8e54e08342041886b180c139db0", null ],
-    [ "enraged", "df/da4/a12818.html#a27a5041fcf93a3da6fe2130af24de386", null ],
-    [ "pyroblastTimer", "df/da4/a12818.html#aae54e1e74dd44329af4f66bf26b2e277", null ]
+    [ "boss_rend_blackhand", "df/da4/a12818.html#a978a2a5262df73afa1e661b23c27a57a", null ],
+    [ "EnterEvadeMode", "df/da4/a12818.html#a21ca0c54590356cc58675e71add93c3a", null ],
+    [ "IsSummonedBy", "df/da4/a12818.html#aa9d1bfa716b0427d7f23578b8ca954e1", null ],
+    [ "JustDied", "df/da4/a12818.html#a498218ab4298cdab728b8a5403d98de1", null ],
+    [ "JustEngagedWith", "df/da4/a12818.html#a494550b92a25c99470c72697e87eff87", null ],
+    [ "JustSummoned", "df/da4/a12818.html#aeebd94ed5b08587dfab88b8826f64173", null ],
+    [ "MovementInform", "df/da4/a12818.html#ae8869425b1f03f6f430585d563de0b27", null ],
+    [ "Reset", "df/da4/a12818.html#afcea6a09eabe661051fc58d5de9a3802", null ],
+    [ "SetData", "df/da4/a12818.html#abe31d366de24aefd9c0c9c534494af11", null ],
+    [ "SummonedCreatureDespawn", "df/da4/a12818.html#ae5a8775c0cf1ad5dee501a50a22e25f9", null ],
+    [ "SummonedCreatureDies", "df/da4/a12818.html#a49d4011af4ee01ff3dc8708d0950b03b", null ],
+    [ "SummonWave", "df/da4/a12818.html#a127365a60504f988bcd7bc1858e0fb94", null ],
+    [ "UpdateAI", "df/da4/a12818.html#afdca704e8aca473986037ab2bc16194e", null ],
+    [ "_currentWave", "df/da4/a12818.html#a9e4ffc20609e50188e0f5a552b164590", null ],
+    [ "_gythEvent", "df/da4/a12818.html#a3699984d920375e9631105bf0a47469b", null ],
+    [ "_victorGUID", "df/da4/a12818.html#a8337c912349eb2798c33fd5794a28437", null ],
+    [ "_waveDoorGUID", "df/da4/a12818.html#a5a4085439515aeed3f3f6aba0764ba68", null ]
 ];

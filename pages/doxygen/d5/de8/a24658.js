@@ -1,6 +1,11 @@
 var a24658 =
 [
-    [ "CheckAreaTarget", "d5/de8/a24658.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
-    [ "PrepareAuraScript", "d5/de8/a24658.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
-    [ "Register", "d5/de8/a24658.html#a6647a8e35009cf8559e4957a666f037a", null ]
+    [ "CalcPeriodic", "d5/de8/a24658.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
+    [ "CalculateAPAmount", "d5/de8/a24658.html#ab23f26c3470f629f0a20f28faf272a68", null ],
+    [ "CalculateHealthAmount", "d5/de8/a24658.html#a4f827a906ac279e143ba8545545090ad", null ],
+    [ "CalculateSPAmount", "d5/de8/a24658.html#ae94493ffed217a218e21c05e002cec00", null ],
+    [ "HandleEffectApply", "d5/de8/a24658.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
+    [ "HandlePeriodic", "d5/de8/a24658.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
+    [ "PrepareAuraScript", "d5/de8/a24658.html#a5052689d815e0a0543693b39b7454deb", null ],
+    [ "Register", "d5/de8/a24658.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
 ];

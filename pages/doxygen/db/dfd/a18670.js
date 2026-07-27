@@ -1,4 +1,7 @@
 var a18670 =
 [
-    [ "operator()", "db/dfd/a18670.html#adb7207ebbfe52e2f84f9b8d3249b54d1", null ]
+    [ "HandleScript", "db/dfd/a18670.html#a0ddd74672b48fd7bf5d3b4d4b6467e4a", null ],
+    [ "PrepareSpellScript", "db/dfd/a18670.html#a598baad08c685bba54ad5306e0d521b4", null ],
+    [ "Register", "db/dfd/a18670.html#a471bac09c68708daefe6a39f283caa4c", null ],
+    [ "Validate", "db/dfd/a18670.html#a162e50b7136687aae7a8df0bb93dd8fe", null ]
 ];

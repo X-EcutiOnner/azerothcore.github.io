@@ -1,6 +1,8 @@
 var a17230 =
 [
-    [ "boss_ickAI", "d2/d96/a17234.html", "d2/d96/a17234" ],
-    [ "boss_ick", "d2/dea/a17230.html#af97d7f96bc48ba245e28c18614b9369e", null ],
-    [ "GetAI", "d2/dea/a17230.html#a355285766712a31b704c23fe85d19e5f", null ]
+    [ "HandleRemove", "d2/dea/a17230.html#a362b16f69a19adae6b673bd9ead55a83", null ],
+    [ "PeriodicTick", "d2/dea/a17230.html#aa432052d61dc48066433b41b84ffbe5f", null ],
+    [ "PrepareAuraScript", "d2/dea/a17230.html#a3ffbd618820adf77b2c64a29816f5204", null ],
+    [ "Register", "d2/dea/a17230.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
+    [ "Validate", "d2/dea/a17230.html#abed6574398a7d005e95feba6b54243a1", null ]
 ];

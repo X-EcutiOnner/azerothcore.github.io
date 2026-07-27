@@ -1,4 +1,6 @@
 var a01061 =
 [
-    [ "ScriptRegistry< GroupScript >", "de/d9e/a01061.html#a6ad2435b6116a997a5bacd47b955d688", null ]
+    [ "WorldPackets::Packet", "d1/db8/a10922.html", "d1/db8/a10922" ],
+    [ "WorldPackets::ServerPacket", "d8/d6e/a10926.html", "d8/d6e/a10926" ],
+    [ "WorldPackets::ClientPacket", "d4/df1/a10930.html", "d4/df1/a10930" ]
 ];

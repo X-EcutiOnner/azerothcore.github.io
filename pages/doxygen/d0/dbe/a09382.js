@@ -1,7 +1,7 @@
 var a09382 =
 [
-    [ "GetAntiDosPolicyForOpcode", "d0/dbe/a09382.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
-    [ "instance", "d0/dbe/a09382.html#a859596f153aa470fa503f67092e26160", null ],
-    [ "LoadAntiDosOpcodePolicies", "d0/dbe/a09382.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
-    [ "_antiDosOpcodePolicies", "d0/dbe/a09382.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
+    [ "IsFitToRequirements", "d0/dbe/a09382.html#ac175634ed2eab2911c3749fa208a073a", null ],
+    [ "castFlags", "d0/dbe/a09382.html#a03cd65a460ea252818de9230cb656c1c", null ],
+    [ "spellId", "d0/dbe/a09382.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
+    [ "userType", "d0/dbe/a09382.html#adcf285572403481cb418bddebc5f4bfa", null ]
 ];

@@ -1,15 +1,14 @@
 var a08258 =
 [
-    [ "LfgProposal", "d5/df4/a08258.html#ad67e8b90ee53576adcab0ac41e523699", null ],
-    [ "cancelTime", "d5/df4/a08258.html#ad702ce8bccc9fbb81457456f1133e2e0", null ],
-    [ "dungeonId", "d5/df4/a08258.html#a3f4f1e3120ed950e2272789c757a401f", null ],
-    [ "encounters", "d5/df4/a08258.html#a6f0fb2094c6237c8bba4321b432115ad", null ],
-    [ "group", "d5/df4/a08258.html#ac04263773858dfe70e7dd627a62113dc", null ],
-    [ "id", "d5/df4/a08258.html#a580dfb67b8040a6267cbd20938cb8667", null ],
-    [ "isNew", "d5/df4/a08258.html#a81989ce9df0046cfde2d805cc4edb59f", null ],
-    [ "leader", "d5/df4/a08258.html#a12f8574ad017641808e522e1e9fdff49", null ],
-    [ "players", "d5/df4/a08258.html#a7d0cc59e08db6fd186de1875c7313b3d", null ],
-    [ "queues", "d5/df4/a08258.html#a7d0a8fabf7aaa632df03f8838fd2a3b4", null ],
-    [ "showorder", "d5/df4/a08258.html#a3d388b633378c35f0efe5927fa78beef", null ],
-    [ "state", "d5/df4/a08258.html#abd3f0fe86587f41c443735164924a3ae", null ]
+    [ "ThreatListIterator", "d5/df4/a08258.html#a6fd3aa74e738a871fc79292789fe8002", null ],
+    [ "operator!=", "d5/df4/a08258.html#ab048192b55edc518d7e88a16ef3fe75c", null ],
+    [ "operator!=", "d5/df4/a08258.html#adfa9c371d231a572a2ea728163e34614", null ],
+    [ "operator*", "d5/df4/a08258.html#a4d45ae04b885844bd84fc8ba13316991", null ],
+    [ "operator++", "d5/df4/a08258.html#aff62dfcc3d94c8355a42693ab1b97774", null ],
+    [ "operator->", "d5/df4/a08258.html#a78606724fb7081a2e3e579f0ce71a43f", null ],
+    [ "operator==", "d5/df4/a08258.html#ac6f2a13304c433d61d1b69bb6d649347", null ],
+    [ "operator==", "d5/df4/a08258.html#a95c5850a5ce04c18451df6c610814fc3", null ],
+    [ "_current", "d5/df4/a08258.html#a8f3e33ae4fb15668fbf5d562bfa793d7", null ],
+    [ "_generator", "d5/df4/a08258.html#ab777887451473dfe77f428d40f8359ba", null ],
+    [ "ThreatManager", "d5/df4/a08258.html#a974a09cd8ac71d4298b01f019ef7e63b", null ]
 ];

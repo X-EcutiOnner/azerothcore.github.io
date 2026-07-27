@@ -1,6 +1,6 @@
 var a19674 =
 [
-    [ "HandlePeriodic", "db/d14/a19674.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
-    [ "PrepareAuraScript", "db/d14/a19674.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
-    [ "Register", "db/d14/a19674.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
+    [ "npc_teslaAI", "da/dcc/a19678.html", "da/dcc/a19678" ],
+    [ "npc_tesla", "db/d14/a19674.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
+    [ "GetAI", "db/d14/a19674.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
 ];

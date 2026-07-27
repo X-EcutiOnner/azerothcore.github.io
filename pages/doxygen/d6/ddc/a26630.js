@@ -1,6 +1,6 @@
 var a26630 =
 [
-    [ "HandleScriptEffect", "d6/ddc/a26630.html#ab958c74ba8b40488751e5137eb0b6a66", null ],
-    [ "PrepareSpellScript", "d6/ddc/a26630.html#a810fcbfe27f3c6991d1c5f599609b6f7", null ],
-    [ "Register", "d6/ddc/a26630.html#a12c61c9057250f12ea50be74ba74c948", null ]
+    [ "HandleRemove", "d6/ddc/a26630.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
+    [ "PrepareAuraScript", "d6/ddc/a26630.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
+    [ "Register", "d6/ddc/a26630.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
 ];

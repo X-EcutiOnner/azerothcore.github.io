@@ -1,8 +1,10 @@
 var a27330 =
 [
-    [ "CheckProc", "db/d59/a27330.html#a610313f5085c7c0109b5936e94de00fe", null ],
-    [ "OnProc", "db/d59/a27330.html#ad87c4cbd332dc19be3bc8ec9982a385b", null ],
-    [ "PrepareAuraScript", "db/d59/a27330.html#aae4d26e262f80681811c9b50c2a63642", null ],
-    [ "Register", "db/d59/a27330.html#a8fdcd2b4489011294d9f58d5ff0beb3f", null ],
-    [ "Validate", "db/d59/a27330.html#a00ef3cd4b2ee5739f5f7288ccbd6a1c6", null ]
+    [ "HandleProc", "db/d59/a27330.html#af7ed59bccd5a9db04e37753e813377b6", null ],
+    [ "OnRemove", "db/d59/a27330.html#a7dbe609ad8ced19cfa2b5625ed2a3923", null ],
+    [ "PrepareAuraScript", "db/d59/a27330.html#a2280ebe1a928d0962c7f67e22405db18", null ],
+    [ "Register", "db/d59/a27330.html#a1e53dfab9d98846d404ea7f57555c941", null ],
+    [ "SetRedirectTarget", "db/d59/a27330.html#a6ed3efbadf6936d9c2f81ab1b97595ab", null ],
+    [ "Validate", "db/d59/a27330.html#ad371bd41e4653c0a8b729321dbc830a1", null ],
+    [ "_redirectTarget", "db/d59/a27330.html#a9baf177530d3096f06e8f37220cfb0fa", null ]
 ];

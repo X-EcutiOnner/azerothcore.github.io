@@ -1,7 +1,7 @@
 var a14130 =
 [
-    [ "Load", "d9/d6f/a14130.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
-    [ "OnRemove", "d9/d6f/a14130.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
-    [ "PrepareAuraScript", "d9/d6f/a14130.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
-    [ "Register", "d9/d6f/a14130.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
+    [ "HandleScriptEffect", "d9/d6f/a14130.html#a1cdba27f7311021407307bcd35235fed", null ],
+    [ "PrepareSpellScript", "d9/d6f/a14130.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
+    [ "Register", "d9/d6f/a14130.html#a9794991aa1710ce37112888eeb572796", null ],
+    [ "Validate", "d9/d6f/a14130.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
 ];

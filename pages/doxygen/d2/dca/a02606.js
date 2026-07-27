@@ -1,41 +1,45 @@
 var a02606 =
 [
-    [ "npc_sergeant_bly", "df/d80/a16232.html", "df/d80/a16232" ],
-    [ "npc_sergeant_bly::npc_sergeant_blyAI", "d3/d7a/a16236.html", "d3/d7a/a16236" ],
-    [ "go_troll_cage", "da/de1/a16240.html", "da/de1/a16240" ],
-    [ "go_troll_cage::go_troll_cageAI", "dc/d9d/a16244.html", "dc/d9d/a16244" ],
-    [ "npc_weegli_blastfuse", "d8/ddd/a16248.html", "d8/ddd/a16248" ],
-    [ "npc_weegli_blastfuse::npc_weegli_blastfuseAI", "d9/df6/a16252.html", "d9/df6/a16252" ],
-    [ "npc_shadowpriest_sezziz", "d3/d82/a16256.html", "d3/d82/a16256" ],
-    [ "npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI", "dd/d91/a16260.html", "dd/d91/a16260" ],
-    [ "GOSSIP_BLY", "d2/dca/a02606.html#acf686abbef9b59acbf66095340991aab", null ],
-    [ "GOSSIP_WEEGLI", "d2/dca/a02606.html#abd5fb74b4c5971cd2993555c6ac4d1eb", null ],
-    [ "blySays", "d2/dca/a02606.html#a0170bb25aee4171b17fd972a5eb000a9", [
-      [ "SAY_1", "d2/dca/a02606.html#a0170bb25aee4171b17fd972a5eb000a9a307d891e05530d70a32ad2047cfe6dab", null ],
-      [ "SAY_2", "d2/dca/a02606.html#a0170bb25aee4171b17fd972a5eb000a9a73b0208d974ac93026e31ca8864dd390", null ]
+    [ "AhnKahetScriptName", "d2/dca/a02606.html#a506431ce00265fd3122a043804560c86", null ],
+    [ "DataHeader", "d2/dca/a02606.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterAhnKahetCreatureAI", "d2/dca/a02606.html#aa9d11f00daa1d5fe3fccebf717ab93f6", null ],
+    [ "AhnKahetActions", "d2/dca/a02606.html#ab602224ee107d47ea7a8fd34e7e11dcf", [
+      [ "ACTION_REMOVE_PRISON", "d2/dca/a02606.html#ab602224ee107d47ea7a8fd34e7e11dcfa16fb04e016b069c88508a114006910a8", null ]
     ] ],
-    [ "blySpells", "d2/dca/a02606.html#ac73b1b4ffaee22ad6c602a211a9bfccf", [
-      [ "SPELL_BLYS_BAND_ESCAPE", "d2/dca/a02606.html#ac73b1b4ffaee22ad6c602a211a9bfccfaa9a43afdd35ceaa8e5947c583cda6c83", null ],
-      [ "SPELL_SHIELD_BASH", "d2/dca/a02606.html#ac73b1b4ffaee22ad6c602a211a9bfccfa0d74cfe7662c959a043f01770a2c7bf4", null ],
-      [ "SPELL_REVENGE", "d2/dca/a02606.html#ac73b1b4ffaee22ad6c602a211a9bfccfa3494dd9ccea3b72ec038a01f6f6fd66f", null ]
+    [ "AhnKahetCreatures", "d2/dca/a02606.html#a0a7022dbeba8e4c5922bca61c1ac6be0", [
+      [ "NPC_ELDER_NADOX", "d2/dca/a02606.html#a0a7022dbeba8e4c5922bca61c1ac6be0adefb6eeafb4e1c648ef5431666cee303", null ],
+      [ "NPC_PRINCE_TALDARAM", "d2/dca/a02606.html#a0a7022dbeba8e4c5922bca61c1ac6be0ae7602060d95905d39d735be974c99c5f", null ],
+      [ "NPC_JEDOGA_SHADOWSEEKER", "d2/dca/a02606.html#a0a7022dbeba8e4c5922bca61c1ac6be0a8f4808be30a572ba6dc967dde518e092", null ],
+      [ "NPC_HERALD_VOLAZJ", "d2/dca/a02606.html#a0a7022dbeba8e4c5922bca61c1ac6be0a5c1e93f3700ea72caa137ad6848e3c85", null ],
+      [ "NPC_AMANITAR", "d2/dca/a02606.html#a0a7022dbeba8e4c5922bca61c1ac6be0a34c1714ae003f663cb2b8951810d661f", null ],
+      [ "NPC_JEDOGA_CONTROLLER", "d2/dca/a02606.html#a0a7022dbeba8e4c5922bca61c1ac6be0acf6f2f93580795c52ed4700df297d549", null ],
+      [ "NPC_TWILIGHT_WORSHIPPER", "d2/dca/a02606.html#a0a7022dbeba8e4c5922bca61c1ac6be0ab0141026243071cdda0cc9e51f1e1c99", null ]
     ] ],
-    [ "ShadowPriestSezzizEnum", "d2/dca/a02606.html#a4e0ee96bd227c57408d323b236131e7d", [
-      [ "SPELL_SHADOW_BOLT", "d2/dca/a02606.html#a4e0ee96bd227c57408d323b236131e7da8872edea8a2ac8c4e895c975482b9413", null ],
-      [ "SPELL_PSYCHIC_SCREEM", "d2/dca/a02606.html#a4e0ee96bd227c57408d323b236131e7da804b244c7e3d670c7c0c96c2deac50aa", null ],
-      [ "SPELL_RENEW", "d2/dca/a02606.html#a4e0ee96bd227c57408d323b236131e7daaf085a0eea027f75c291005b97cb46bd", null ],
-      [ "SPELL_HEAL", "d2/dca/a02606.html#a4e0ee96bd227c57408d323b236131e7da69fcca2d13e03c684fa0459f960ef9a7", null ]
+    [ "AhnkahetData", "d2/dca/a02606.html#aff905f3bb30004af8919ddfe3d29e8dd", [
+      [ "DATA_ELDER_NADOX", "d2/dca/a02606.html#aff905f3bb30004af8919ddfe3d29e8dda770adca9032e015945b302877eea180f", null ],
+      [ "DATA_PRINCE_TALDARAM", "d2/dca/a02606.html#aff905f3bb30004af8919ddfe3d29e8ddaaedbd25489af19057ce8227250867ce0", null ],
+      [ "DATA_JEDOGA_SHADOWSEEKER", "d2/dca/a02606.html#aff905f3bb30004af8919ddfe3d29e8dda5898d17f647609f063f3a809dc2fec66", null ],
+      [ "DATA_HERALD_VOLAZJ", "d2/dca/a02606.html#aff905f3bb30004af8919ddfe3d29e8dda30b8528fb302a8f32b4db9e72b4889e5", null ],
+      [ "DATA_AMANITAR", "d2/dca/a02606.html#aff905f3bb30004af8919ddfe3d29e8dda7146f172ca0fe8e80c667a510874a94f", null ],
+      [ "DATA_PRINCE_TALDARAM_PLATFORM", "d2/dca/a02606.html#aff905f3bb30004af8919ddfe3d29e8dda75ab4b9865126fdcf77107ef317fe7cc", null ]
     ] ],
-    [ "weegliSays", "d2/dca/a02606.html#a326e8498672fa7a2db9a390d360f7391", [
-      [ "SAY_WEEGLI_OHNO", "d2/dca/a02606.html#a326e8498672fa7a2db9a390d360f7391aa1b27f3d4e49ae3cbea7b8b49371b41d", null ],
-      [ "SAY_WEEGLI_OK_I_GO", "d2/dca/a02606.html#a326e8498672fa7a2db9a390d360f7391aa92731cc39b2cffc724a22e3189198ea", null ],
-      [ "SAY_WEEGLI_OUT_OF_HERE", "d2/dca/a02606.html#a326e8498672fa7a2db9a390d360f7391aaa6eaf7f9cc5bb0b7c42aed2439da05c", null ]
+    [ "AhnkahetObjects", "d2/dca/a02606.html#a497b1d427e80ac610cd1cc5e3bc2a02f", [
+      [ "GO_TELDARAM_DOOR", "d2/dca/a02606.html#a497b1d427e80ac610cd1cc5e3bc2a02fa597526245130273d3e77a1e411a81811", null ],
+      [ "GO_TELDARAM_SPHERE1", "d2/dca/a02606.html#a497b1d427e80ac610cd1cc5e3bc2a02fa4586ff1377f4e4c184e57a56e7f962ed", null ],
+      [ "GO_TELDARAM_SPHERE2", "d2/dca/a02606.html#a497b1d427e80ac610cd1cc5e3bc2a02fa637eb0aff225b388e0c611a9cbccd03e", null ],
+      [ "GO_TELDARAM_PLATFORM", "d2/dca/a02606.html#a497b1d427e80ac610cd1cc5e3bc2a02fa9ae027e64960ba5d20a93c5123469e74", null ]
     ] ],
-    [ "weegliSpells", "d2/dca/a02606.html#aa5d64b9165276a134e188d143807850c", [
-      [ "SPELL_BOMB", "d2/dca/a02606.html#aa5d64b9165276a134e188d143807850ca436b889374ecd412c15675983fdae5be", null ],
-      [ "SPELL_GOBLIN_LAND_MINE", "d2/dca/a02606.html#aa5d64b9165276a134e188d143807850ca04bb850750b0183913ab1008cba1833f", null ],
-      [ "SPELL_SHOOT", "d2/dca/a02606.html#aa5d64b9165276a134e188d143807850ca1b728fa1bb0194534b5b491d35ed871c", null ],
-      [ "SPELL_WEEGLIS_BARREL", "d2/dca/a02606.html#aa5d64b9165276a134e188d143807850ca1e379d7bc2f35c29e7b00ee0bf88357f", null ]
+    [ "AhnKahetPersistentData", "d2/dca/a02606.html#acc056f2f7be3fe09395716ca57e7c7f3", [
+      [ "DATA_TELDRAM_SPHERE1", "d2/dca/a02606.html#acc056f2f7be3fe09395716ca57e7c7f3a748636fe536f29e09b02edcebc095d56", null ],
+      [ "DATA_TELDRAM_SPHERE2", "d2/dca/a02606.html#acc056f2f7be3fe09395716ca57e7c7f3aa71df9961714e4f37168c84236d3ca51", null ],
+      [ "MAX_PERSISTENT_DATA", "d2/dca/a02606.html#acc056f2f7be3fe09395716ca57e7c7f3ade8daf2d97d89b7bc637c9b5550e0449", null ]
     ] ],
-    [ "AddSC_zulfarrak", "d2/dca/a02606.html#a43b63d5d69b80ee6283471aacf5c9c87", null ],
-    [ "shadowpriestSezzizAdds", "d2/dca/a02606.html#ab3c6a2de23edecc492c7ca4de5c860c7", null ]
+    [ "AhnkahetSpells", "d2/dca/a02606.html#a04c8c0beb3d5fd05b695be78e77cfe8d", [
+      [ "SPELL_SHADOW_SICKLE", "d2/dca/a02606.html#a04c8c0beb3d5fd05b695be78e77cfe8dacf16c95dd7397632ddf94f2d9f3c3c39", null ]
+    ] ],
+    [ "AhnKahetTexts", "d2/dca/a02606.html#ad2ad73bb93c442e3d70b9efad1b6c305", [
+      [ "SAY_SPHERE_ACTIVATED", "d2/dca/a02606.html#ad2ad73bb93c442e3d70b9efad1b6c305aea5e4c72402492816a8bafad5323cff8", null ]
+    ] ],
+    [ "GetAhnKahetAI", "d2/dca/a02606.html#a7d67882176cbe7ff747f0bb785985b00", null ],
+    [ "MAX_ENCOUNTER", "d2/dca/a02606.html#a42b654ad1177faa1b68541d8c6ca1fae", null ]
 ];

@@ -1,6 +1,7 @@
 var a20654 =
 [
-    [ "boss_yoggsaron_descend_portal", "db/dd2/a20654.html#aa64788351819e9c7f5505c929818770d", null ],
-    [ "OnSpellClick", "db/dd2/a20654.html#af72e8c3611b5e134e39ab9695405e08e", null ],
-    [ "_instance", "db/dd2/a20654.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
+    [ "FilterTargets", "db/dd2/a20654.html#a4ea7a7ee257a74c7ae1da47b9a75f852", null ],
+    [ "HandleScript", "db/dd2/a20654.html#a3b5fa94cdc2da133ae0cfaab9f949a57", null ],
+    [ "PrepareSpellScript", "db/dd2/a20654.html#a9e29a54a0c4bbc32b5d9fffe6d34a41d", null ],
+    [ "Register", "db/dd2/a20654.html#a53f90eb4dc7cdeab5bee4ab1a21691ac", null ]
 ];

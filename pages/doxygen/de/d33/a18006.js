@@ -1,7 +1,6 @@
 var a18006 =
 [
-    [ "OnPeriodic", "de/d33/a18006.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
-    [ "PrepareAuraScript", "de/d33/a18006.html#a0e87dae1be4f69e6412129f14056eb79", null ],
-    [ "Register", "de/d33/a18006.html#a1b26d102252bf7e0fd480076820d343f", null ],
-    [ "Validate", "de/d33/a18006.html#a211d52aa385a874730abc43b083f2d22", null ]
+    [ "npc_igb_ship_crewAI", "de/d29/a18010.html", "de/d29/a18010" ],
+    [ "npc_igb_ship_crew", "de/d33/a18006.html#a5f4380aba94766a6a75b97026998b881", null ],
+    [ "GetAI", "de/d33/a18006.html#a48955817e21a01a726b50685b467c229", null ]
 ];

@@ -1,6 +1,7 @@
 var a11322 =
 [
-    [ "ComplainResult", "db/db8/a11322.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
-    [ "Write", "db/db8/a11322.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
-    [ "Unk", "db/db8/a11322.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
+    [ "BuybackItem", "db/db8/a11322.html#a05dec559746537669fcf32f52a171b44", null ],
+    [ "Read", "db/db8/a11322.html#aefe27701674c75f8937f72ee418a6692", null ],
+    [ "Slot", "db/db8/a11322.html#ac4faf4646da9a9fe7c1567527ca28a27", null ],
+    [ "VendorGuid", "db/db8/a11322.html#a6be9d8d3f564621780e458c4a785b709", null ]
 ];

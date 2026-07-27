@@ -1,6 +1,6 @@
 var a21070 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d5/d82/a21074.html", "d5/d82/a21074" ],
-    [ "npc_frozen_orb_stalker", "d6/dfe/a21070.html#a7f025c829106aa6668427f913d07a722", null ],
-    [ "GetAI", "d6/dfe/a21070.html#af33e27138a70286bac561113ed09f350", null ]
+    [ "ModSanityStacks", "d6/dfe/a21070.html#a38b8425689f91b91e23096d658b462cf", null ],
+    [ "PrepareSpellScript", "d6/dfe/a21070.html#a43362033f7422a0b9918ddd3b7e480cc", null ],
+    [ "Register", "d6/dfe/a21070.html#a6d5e27f728ee3980d33d417fb437c9c6", null ]
 ];

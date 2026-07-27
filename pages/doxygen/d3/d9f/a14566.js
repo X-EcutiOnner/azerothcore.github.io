@@ -1,7 +1,9 @@
 var a14566 =
 [
-    [ "npc_direbrew_minion", "d3/d9f/a14566.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
-    [ "IsSummonedBy", "d3/d9f/a14566.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
-    [ "Reset", "d3/d9f/a14566.html#a21fb7a778e9025ca4185951460a96d08", null ],
-    [ "_instance", "d3/d9f/a14566.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
+    [ "npc_shade_of_jindo", "d3/d9f/a14566.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
+    [ "IsSummonedBy", "d3/d9f/a14566.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
+    [ "JustEngagedWith", "d3/d9f/a14566.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
+    [ "Reset", "d3/d9f/a14566.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
+    [ "UpdateAI", "d3/d9f/a14566.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
+    [ "_scheduler", "d3/d9f/a14566.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
 ];

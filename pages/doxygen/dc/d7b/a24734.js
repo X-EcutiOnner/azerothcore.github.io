@@ -1,6 +1,7 @@
 var a24734 =
 [
-    [ "HandleDummy", "dc/d7b/a24734.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
-    [ "PrepareSpellScript", "dc/d7b/a24734.html#af310c2b28ed816b9fbe494f81c42043c", null ],
-    [ "Register", "dc/d7b/a24734.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
+    [ "AfterApply", "dc/d7b/a24734.html#adae232af9445638b3d54e81d414483b7", null ],
+    [ "AfterRemove", "dc/d7b/a24734.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
+    [ "PrepareAuraScript", "dc/d7b/a24734.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
+    [ "Register", "dc/d7b/a24734.html#abff75ea597dcc017a359a5ef3ada4314", null ]
 ];

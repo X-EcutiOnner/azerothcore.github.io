@@ -1,6 +1,5 @@
 var a00785 =
 [
-    [ "ScriptMgr", "d8/d88/a10856.html", "d8/d88/a10856" ],
-    [ "ScriptRegistry< TScript >", "d8/dde/a10860.html", "d8/dde/a10860" ],
-    [ "sScriptMgr", "d3/d00/a00785.html#ae8161e629869974bc49b1cbfc73c1087", null ]
+    [ "Vehicle", "de/d5d/a09194.html", "de/d5d/a09194" ],
+    [ "VehicleDespawnEvent", "d8/def/a09198.html", "d8/def/a09198" ]
 ];

@@ -1,7 +1,6 @@
 var a21170 =
 [
-    [ "npc_azure_captain", "dc/d38/a21170.html#abbdba89267506b8dd1e93ea0e059979c", null ],
-    [ "Reset", "dc/d38/a21170.html#ae9b8cc434f2b5690f3abc55d557cbd54", null ],
-    [ "UpdateAI", "dc/d38/a21170.html#a9aacf1533414ade27973ddcc46434978", null ],
-    [ "_events", "dc/d38/a21170.html#a6a69ea3d3eb75601f723a10eab68c260", null ]
+    [ "CheckRequirement", "dc/d38/a21170.html#ad0a1865c8f534310ec2d4c8abc698761", null ],
+    [ "PrepareSpellScript", "dc/d38/a21170.html#a06e1b98a589717bdef6444912a7ad602", null ],
+    [ "Register", "dc/d38/a21170.html#a089a8055517acd9ddc31bf1bd16cbf17", null ]
 ];

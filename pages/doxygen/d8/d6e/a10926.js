@@ -1,6 +1,9 @@
 var a10926 =
 [
-    [ "GuildCreate", "d8/d6e/a10926.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
-    [ "Read", "d8/d6e/a10926.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
-    [ "GuildName", "d8/d6e/a10926.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
+    [ "ServerPacket", "d8/d6e/a10926.html#a4d2bf169dd705b886da8ff58a7ef4bd2", null ],
+    [ "Clear", "d8/d6e/a10926.html#aa54f2fa66cfe4682ca56cf01f9e1296a", null ],
+    [ "GetOpcode", "d8/d6e/a10926.html#a639ab6c078d7c746bcb328526df705be", null ],
+    [ "Move", "d8/d6e/a10926.html#a659397042201ae571bb564872e54d2c6", null ],
+    [ "Read", "d8/d6e/a10926.html#ae49aa7bce566d9f0ea3c7bbb487a119d", null ],
+    [ "ShrinkToFit", "d8/d6e/a10926.html#a6fa19a94d57484aaff3498be01495258", null ]
 ];

@@ -1,7 +1,7 @@
 var a27486 =
 [
-    [ "HandleEffect", "d7/d5d/a27486.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
-    [ "PrepareSpellScript", "d7/d5d/a27486.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
-    [ "Register", "d7/d5d/a27486.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
-    [ "Validate", "d7/d5d/a27486.html#ab6d78ecb650f13df3376baced8c40a63", null ]
+    [ "HandleDummy", "d7/d5d/a27486.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
+    [ "PrepareSpellScript", "d7/d5d/a27486.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
+    [ "Register", "d7/d5d/a27486.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
+    [ "Validate", "d7/d5d/a27486.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
 ];

@@ -1,6 +1,6 @@
 var a17846 =
 [
-    [ "npc_gunship_gunnerAI", "d4/d7d/a17850.html", "d4/d7d/a17850" ],
-    [ "npc_gunship_gunner", "d5/dca/a17846.html#a409711f22b35eae0c0d48bc23545e592", null ],
-    [ "GetAI", "d5/dca/a17846.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
+    [ "boss_deathbringer_saurfangAI", "d4/d7d/a17850.html", "d4/d7d/a17850" ],
+    [ "boss_deathbringer_saurfang", "d5/dca/a17846.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "d5/dca/a17846.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

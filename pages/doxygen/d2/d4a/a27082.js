@@ -1,7 +1,7 @@
 var a27082 =
 [
-    [ "CheckProc", "d2/d4a/a27082.html#a4efa486733390dea566e1169902db915", null ],
-    [ "PrepareAuraScript", "d2/d4a/a27082.html#a241b65bdcb6aefa4e37b61c5007149f6", null ],
-    [ "Register", "d2/d4a/a27082.html#a5c70bb3ff8d2c3d9a2ab8aad729917bb", null ],
-    [ "Validate", "d2/d4a/a27082.html#a7c5d82eba0bba896294cffc94843414c", null ]
+    [ "HandleEffectPeriodic", "d2/d4a/a27082.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
+    [ "PrepareAuraScript", "d2/d4a/a27082.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
+    [ "Register", "d2/d4a/a27082.html#ac3741617faacf83a707f1359aab1886e", null ],
+    [ "Validate", "d2/d4a/a27082.html#a9378252b6711cc0bec3e63efce026495", null ]
 ];

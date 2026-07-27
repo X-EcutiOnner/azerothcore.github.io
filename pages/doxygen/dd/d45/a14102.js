@@ -1,7 +1,6 @@
 var a14102 =
 [
-    [ "npc_daphne_stilwellAI", "d1/d1b/a14106.html", "d1/d1b/a14106" ],
-    [ "npc_daphne_stilwell", "dd/d45/a14102.html#ad844c5f0409936d7068ee55271506041", null ],
-    [ "GetAI", "dd/d45/a14102.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
-    [ "OnQuestAccept", "dd/d45/a14102.html#ad7b293efc802506a825f202e34cb0f4d", null ]
+    [ "npc_marzon_silent_bladeAI", "d1/d1b/a14106.html", "d1/d1b/a14106" ],
+    [ "npc_marzon_silent_blade", "dd/d45/a14102.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
+    [ "GetAI", "dd/d45/a14102.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
 ];

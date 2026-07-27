@@ -1,6 +1,13 @@
 var a01382 =
 [
-    [ "Transport", "d3/d6a/a09048.html", "d3/d6a/a09048" ],
-    [ "MotionTransport", "d0/d3d/a09052.html", "d0/d3d/a09052" ],
-    [ "StaticTransport", "d4/de4/a09056.html", "d4/de4/a09056" ]
+    [ "FollowerAI", "d5/d3f/a06630.html", "d5/d3f/a06630" ],
+    [ "eFollowState", "de/d9d/a01382.html#a1ec9c3a60a913ecbf16778626ccf0138", [
+      [ "STATE_FOLLOW_NONE", "de/d9d/a01382.html#a1ec9c3a60a913ecbf16778626ccf0138a8d3724990b83869077eeef397588a9ae", null ],
+      [ "STATE_FOLLOW_INPROGRESS", "de/d9d/a01382.html#a1ec9c3a60a913ecbf16778626ccf0138aa4c302e4ec6ca00eb8d737e1b43e9e0b", null ],
+      [ "STATE_FOLLOW_RETURNING", "de/d9d/a01382.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523", null ],
+      [ "STATE_FOLLOW_PAUSED", "de/d9d/a01382.html#a1ec9c3a60a913ecbf16778626ccf0138ab64828a6eee48ed5f0060f66fef4dbe6", null ],
+      [ "STATE_FOLLOW_COMPLETE", "de/d9d/a01382.html#a1ec9c3a60a913ecbf16778626ccf0138a73636e044fe9883bf259a17bc617e7c9", null ],
+      [ "STATE_FOLLOW_PREEVENT", "de/d9d/a01382.html#a1ec9c3a60a913ecbf16778626ccf0138a5ed17b2670a724e36c47de32fa5e821b", null ],
+      [ "STATE_FOLLOW_POSTEVENT", "de/d9d/a01382.html#a1ec9c3a60a913ecbf16778626ccf0138a77b50e5da22490d74b38dcebae6e6c6a", null ]
+    ] ]
 ];

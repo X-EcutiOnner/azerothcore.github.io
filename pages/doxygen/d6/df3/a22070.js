@@ -1,5 +1,6 @@
 var a22070 =
 [
-    [ "achievement_wg_vehicular_gnomeslaughter", "d6/df3/a22070.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
-    [ "OnCheck", "d6/df3/a22070.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
+    [ "npc_lord_areteAI", "d4/d54/a22074.html", "d4/d54/a22074" ],
+    [ "npc_lord_arete", "d6/df3/a22070.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
+    [ "GetAI", "d6/df3/a22070.html#a212d003e9acb5f141197b5c4d10163a4", null ]
 ];

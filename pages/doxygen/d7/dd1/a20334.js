@@ -1,6 +1,6 @@
 var a20334 =
 [
-    [ "FilterTargets", "d7/dd1/a20334.html#ae8d940a89be9b63286911bd55dcd3844", null ],
-    [ "PrepareSpellScript", "d7/dd1/a20334.html#a8f4b4d82e53c8f820b620896478681a9", null ],
-    [ "Register", "d7/dd1/a20334.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
+    [ "CheckCast", "d7/dd1/a20334.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "d7/dd1/a20334.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "d7/dd1/a20334.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

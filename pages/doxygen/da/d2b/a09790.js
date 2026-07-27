@@ -1,7 +1,10 @@
 var a09790 =
 [
-    [ "ObjectTypeIdCheck", "da/d2b/a09790.html#a40af6d4d15e92aaaf2c9bb53ce9bb290", null ],
-    [ "operator()", "da/d2b/a09790.html#a9cbd09a6021bef7819a0002952264293", null ],
-    [ "_equals", "da/d2b/a09790.html#ab08a6e18731ccb822a71a1530f6966c3", null ],
-    [ "_typeId", "da/d2b/a09790.html#a70e9a07e4c2c559bc55b8003db3af3be", null ]
+    [ "AnyAoETargetUnitInObjectRangeCheck", "da/d2b/a09790.html#a93d850e2d5f094b97ca5c09bf1d236a9", null ],
+    [ "operator()", "da/d2b/a09790.html#af9a0c32593544a73aae22cd397eef63a", null ],
+    [ "_spellInfo", "da/d2b/a09790.html#a1317c9df0d5792ad3122ff1ed1a31458", null ],
+    [ "i_funit", "da/d2b/a09790.html#aa00b184a24ea73293114f92126f58f24", null ],
+    [ "i_obj", "da/d2b/a09790.html#aa4acf0089c978408e30b08d539f2512f", null ],
+    [ "i_range", "da/d2b/a09790.html#ad386efa8206906fd99816694a6a8d69b", null ],
+    [ "i_targetForPlayer", "da/d2b/a09790.html#af5ce329f3493b97f59c61c3e87af48b1", null ]
 ];

@@ -1,6 +1,7 @@
 var a14554 =
 [
-    [ "CheckItem", "d4/d2c/a14554.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
-    [ "PrepareSpellScript", "d4/d2c/a14554.html#a0fa160f1218cf838444f894716cb8aed", null ],
-    [ "Register", "d4/d2c/a14554.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
+    [ "HandleScriptEffect", "d4/d2c/a14554.html#ace68732d578fbaeb2b209bfded88853a", null ],
+    [ "PrepareSpellScript", "d4/d2c/a14554.html#a42a69995e8f527a383e96e2ead832f72", null ],
+    [ "Register", "d4/d2c/a14554.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
+    [ "Validate", "d4/d2c/a14554.html#a7697caf8e5390d290b353fb6a291aa10", null ]
 ];

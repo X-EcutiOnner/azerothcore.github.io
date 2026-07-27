@@ -1,10 +1,12 @@
 var a30246 =
 [
-    [ "area_id", "da/d7f/a30246.html#acbd77950bf9548d266e568640cf38458", null ],
-    [ "map_id", "da/d7f/a30246.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
-    [ "virtual_map_id", "da/d7f/a30246.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
-    [ "x1", "da/d7f/a30246.html#a78967fef40841f705c2564a177cb36f3", null ],
-    [ "x2", "da/d7f/a30246.html#a037dca812715df0b4f2551f8684b537c", null ],
-    [ "y1", "da/d7f/a30246.html#a7f90073656e1cd00a88add9f8d881d11", null ],
-    [ "y2", "da/d7f/a30246.html#ad8e0164952e5565488d5443f269ec79e", null ]
+    [ "Model", "da/d7f/a30246.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
+    [ "~Model", "da/d7f/a30246.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
+    [ "_unload", "da/d7f/a30246.html#a9b02ed73fa006bc057157b636029ab6f", null ],
+    [ "ConvertToVMAPModel", "da/d7f/a30246.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
+    [ "open", "da/d7f/a30246.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
+    [ "filename", "da/d7f/a30246.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
+    [ "header", "da/d7f/a30246.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
+    [ "indices", "da/d7f/a30246.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
+    [ "vertices", "da/d7f/a30246.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
 ];

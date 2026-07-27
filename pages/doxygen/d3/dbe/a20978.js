@@ -1,6 +1,6 @@
 var a20978 =
 [
-    [ "CalculateAmount", "d3/dbe/a20978.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "d3/dbe/a20978.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "d3/dbe/a20978.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "boss_yoggsaron_death_orb", "d3/dbe/a20978.html#a8e967885da35381db767d941a2174a82", null ],
+    [ "UpdateAI", "d3/dbe/a20978.html#a9557c25da8cfdc6b7e62ff9b2b78714b", null ],
+    [ "_startTimer", "d3/dbe/a20978.html#a272b6b4c6c8f1f9fed933b9e1fd6f749", null ]
 ];

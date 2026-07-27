@@ -1,6 +1,5 @@
 var a13294 =
 [
-    [ "HandleScriptEffect", "d3/d90/a13294.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
-    [ "PrepareSpellScript", "d3/d90/a13294.html#ad110e0dba330acde845c47501256cf5d", null ],
-    [ "Register", "d3/d90/a13294.html#ab6971aa466055a1280cd258e26645157", null ]
+    [ "at_karazhan_mirkblood_approach", "d3/d90/a13294.html#a032600991e9fc1aaf026adf2e63314e5", null ],
+    [ "OnTrigger", "d3/d90/a13294.html#aaece848faa4f1086ac0b16802a1e765e", null ]
 ];

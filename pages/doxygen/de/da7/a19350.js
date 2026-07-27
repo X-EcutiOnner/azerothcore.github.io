@@ -1,6 +1,5 @@
 var a19350 =
 [
-    [ "boss_nothAI", "d1/dcc/a19354.html", "d1/dcc/a19354" ],
-    [ "boss_noth", "de/da7/a19350.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
-    [ "GetAI", "de/da7/a19350.html#a534f30792c051ab44c6c07c9347893e5", null ]
+    [ "at_icc_gauntlet_event", "de/da7/a19350.html#ae8790bad655661aeda887f56b9393847", null ],
+    [ "OnTrigger", "de/da7/a19350.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
 ];

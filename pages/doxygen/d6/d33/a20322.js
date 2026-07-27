@@ -1,7 +1,6 @@
 var a20322 =
 [
-    [ "FilterTargetsInitial", "d6/d33/a20322.html#a2477349cffb8da02936545ba0bd03d0f", null ],
-    [ "Load", "d6/d33/a20322.html#a4606d10a2699e3fb5290cefdc0876505", null ],
-    [ "PrepareSpellScript", "d6/d33/a20322.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
-    [ "Register", "d6/d33/a20322.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
+    [ "PrepareSpellScript", "d6/d33/a20322.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
+    [ "RecalculateDamage", "d6/d33/a20322.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
+    [ "Register", "d6/d33/a20322.html#af2b5382122be41a6b1ee4ab721b417da", null ]
 ];

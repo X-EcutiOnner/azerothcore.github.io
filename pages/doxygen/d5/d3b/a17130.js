@@ -1,8 +1,9 @@
 var a17130 =
 [
-    [ "npc_hor_leaderAI", "d5/d70/a17134.html", "d5/d70/a17134" ],
-    [ "npc_hor_leader", "d5/d3b/a17130.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
-    [ "GetAI", "d5/d3b/a17130.html#a55e7357aa6dff1efdff08541e88413e9", null ],
-    [ "OnGossipHello", "d5/d3b/a17130.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
-    [ "OnGossipSelect", "d5/d3b/a17130.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
+    [ "npc_concentrated_ballAI", "d5/d3b/a17130.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
+    [ "DoAction", "d5/d3b/a17130.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
+    [ "MovementInform", "d5/d3b/a17130.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
+    [ "MoveToNextPoint", "d5/d3b/a17130.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
+    [ "UpdateAI", "d5/d3b/a17130.html#a6509ff14639bca29b6877db54102d004", null ],
+    [ "despawning", "d5/d3b/a17130.html#a24145c6c4c38b5a1853647d24871090d", null ]
 ];

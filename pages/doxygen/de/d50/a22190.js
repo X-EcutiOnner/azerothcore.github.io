@@ -1,5 +1,6 @@
 var a22190 =
 [
-    [ "OutdoorPvP_silithus", "de/d50/a22190.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
-    [ "GetOutdoorPvP", "de/d50/a22190.html#a126d6acc77218addd10072199ccd2470", null ]
+    [ "npc_vekjik", "de/d50/a22190.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "de/d50/a22190.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "de/d50/a22190.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

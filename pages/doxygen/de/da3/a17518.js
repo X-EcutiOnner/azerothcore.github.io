@@ -1,6 +1,6 @@
 var a17518 =
 [
-    [ "npc_dark_nucleusAI", "d2/deb/a17522.html", "d2/deb/a17522" ],
-    [ "npc_dark_nucleus", "de/da3/a17518.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
-    [ "GetAI", "de/da3/a17518.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
+    [ "npc_pos_martin_or_gorkun_secondAI", "d2/deb/a17522.html", "d2/deb/a17522" ],
+    [ "npc_pos_martin_or_gorkun_second", "de/da3/a17518.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
+    [ "GetAI", "de/da3/a17518.html#a180936e3bb98eb55d29ebd51350906c0", null ]
 ];

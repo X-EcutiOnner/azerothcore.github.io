@@ -1,7 +1,7 @@
 var a18622 =
 [
-    [ "HandleProc", "d6/d7d/a18622.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "d6/d7d/a18622.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "d6/d7d/a18622.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "d6/d7d/a18622.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "TriggerWickedSpirit", "d6/d7d/a18622.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
+    [ "Execute", "d6/d7d/a18622.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
+    [ "_counter", "d6/d7d/a18622.html#a24b85a62208f881418f97b0a8cb10f27", null ],
+    [ "_owner", "d6/d7d/a18622.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
 ];

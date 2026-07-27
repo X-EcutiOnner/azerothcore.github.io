@@ -1,14 +1,6 @@
 var a16398 =
 [
-    [ "npc_halion_controllerAI", "d1/db3/a16398.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
-    [ "DoAction", "d1/db3/a16398.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
-    [ "Reset", "d1/db3/a16398.html#a3004aecb50815287d5f832f2a8a0d250", null ],
-    [ "SetData", "d1/db3/a16398.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
-    [ "UpdateAI", "d1/db3/a16398.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
-    [ "UpdateCorporeality", "d1/db3/a16398.html#ac82987f2b2b069b90c509c477004bae6", null ],
-    [ "_corporeality", "d1/db3/a16398.html#a4c23df1bb774ac724bdf537453592671", null ],
-    [ "_events", "d1/db3/a16398.html#a92e3f116260265a2d0dbeef769eee03e", null ],
-    [ "_instance", "d1/db3/a16398.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
-    [ "_materialDamage", "d1/db3/a16398.html#afcc510b0d4be10ed057d1a304b803b69", null ],
-    [ "_twilightDamage", "d1/db3/a16398.html#a13a9efcb11ed31725c45011508407287", null ]
+    [ "PrepareSpellScript", "d1/db3/a16398.html#a2a3602af522bb8658c1bfdede1234efd", null ],
+    [ "Register", "d1/db3/a16398.html#aba235111ea4e186064a85295466f2a3f", null ],
+    [ "SetDest", "d1/db3/a16398.html#a89827e4db37bea4847c79265d95386c6", null ]
 ];

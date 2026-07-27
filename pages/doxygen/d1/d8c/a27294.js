@@ -1,9 +1,10 @@
 var a27294 =
 [
-    [ "CheckCast", "d1/d8c/a27294.html#a441927e0d8d7304030440c19458eb34d", null ],
-    [ "HandleScriptEffect", "d1/d8c/a27294.html#a10e9691aa15869c82fba79072a314d7e", null ],
-    [ "PrepareSpellScript", "d1/d8c/a27294.html#a90b8ae945aeb85ad6e8a120501288979", null ],
-    [ "Register", "d1/d8c/a27294.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
-    [ "Validate", "d1/d8c/a27294.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
-    [ "iTypes", "d1/d8c/a27294.html#ae852b9df34612c074eab23b025c86870", null ]
+    [ "Absorb", "d1/d8c/a27294.html#aedee311aa77597674b3665eaf74e98c8", null ],
+    [ "CalculateAmount", "d1/d8c/a27294.html#a5fdabb367ab86589d733d1da906446ab", null ],
+    [ "Load", "d1/d8c/a27294.html#a7418b17f23b9eeacceb0970df3cb1d99", null ],
+    [ "PrepareAuraScript", "d1/d8c/a27294.html#a1de52fae7a5ed3eeeb46be11eb2eac21", null ],
+    [ "Register", "d1/d8c/a27294.html#abfc540163e9eb34cbf8a48d39bede840", null ],
+    [ "Validate", "d1/d8c/a27294.html#a6cca564b6d13063ce7cd72ed8b6adf67", null ],
+    [ "absorbChance", "d1/d8c/a27294.html#a293be81af42d810126eda35b1d27e3bc", null ]
 ];

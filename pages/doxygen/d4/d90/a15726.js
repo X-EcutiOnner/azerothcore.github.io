@@ -1,10 +1,8 @@
 var a15726 =
 [
-    [ "npc_rabid_thistle_bearAI", "d4/d90/a15726.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
-    [ "Initialize", "d4/d90/a15726.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
-    [ "Reset", "d4/d90/a15726.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
-    [ "SpellHit", "d4/d90/a15726.html#a62bde5a122748564cc806046bf9dcbaa", null ],
-    [ "UpdateAI", "d4/d90/a15726.html#a8f6c5b873756a58760b2861bc8b86804", null ],
-    [ "_events", "d4/d90/a15726.html#ad3852bf4588c453642e75fcdc544767b", null ],
-    [ "_playerGUID", "d4/d90/a15726.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
+    [ "boss_veklor", "d4/d90/a15726.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d4/d90/a15726.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d4/d90/a15726.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d4/d90/a15726.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d4/d90/a15726.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

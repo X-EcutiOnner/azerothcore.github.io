@@ -1,6 +1,7 @@
 var a22098 =
 [
-    [ "npc_released_offspring_harkoaAI", "d3/d5a/a22098.html#ab1002f002987b6ea2366129afd48d65c", null ],
-    [ "MovementInform", "d3/d5a/a22098.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
-    [ "Reset", "d3/d5a/a22098.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
+    [ "HandleDummy", "d3/d5a/a22098.html#abfb58e49821e6a563940e8ba518db850", null ],
+    [ "PrepareSpellScript", "d3/d5a/a22098.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
+    [ "Register", "d3/d5a/a22098.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
+    [ "Validate", "d3/d5a/a22098.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
 ];

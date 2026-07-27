@@ -1,6 +1,9 @@
 var a28614 =
 [
-    [ "npc_stable_masterAI", "dc/d43/a28618.html", "dc/d43/a28618" ],
-    [ "npc_stable_master", "db/d2e/a28614.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "db/d2e/a28614.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "npc_arcanite_dragonling", "db/d2e/a28614.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "db/d2e/a28614.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "db/d2e/a28614.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "db/d2e/a28614.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "db/d2e/a28614.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "db/d2e/a28614.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

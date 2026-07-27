@@ -1,8 +1,7 @@
 var a03056 =
 [
-    [ "instance_the_botanica", "d0/d32/a23620.html", "d0/d32/a23620" ],
-    [ "instance_the_botanica::instance_the_botanica_InstanceMapScript", "d3/dcc/a23624.html", "d3/dcc/a23624" ],
-    [ "spell_botanica_call_of_the_falcon_aura", "df/de4/a23628.html", "df/de4/a23628" ],
-    [ "spell_botanica_shift_form_aura", "d8/d9f/a23632.html", "d8/d9f/a23632" ],
-    [ "AddSC_instance_the_botanica", "d4/d90/a03056.html#a42bac8d93a9aac296390fec4cb6b94cb", null ]
+    [ "instance_eye_of_eternity", "de/da9/a19766.html", "de/da9/a19766" ],
+    [ "AddSC_instance_eye_of_eternity", "d4/d90/a03056.html#acd10e2ef086dd7938d397abc8ced1de3", null ],
+    [ "creatureData", "d4/d90/a03056.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "gameobjectData", "d4/d90/a03056.html#a845a92716bd40c99a93eb0715cd737b0", null ]
 ];

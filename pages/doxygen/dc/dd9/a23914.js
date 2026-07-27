@@ -1,7 +1,7 @@
 var a23914 =
 [
-    [ "HandleEffectRemove", "dc/dd9/a23914.html#a63c0fede080591df9ebf8b3de2cd2fc3", null ],
-    [ "PrepareAuraScript", "dc/dd9/a23914.html#a19ce53b5731b0789896612fa55f38849", null ],
-    [ "Register", "dc/dd9/a23914.html#a7d60c5b18bbf77a18ab683a101782ada", null ],
-    [ "Validate", "dc/dd9/a23914.html#ae3c3c1bce38882cd5de32295813b1a47", null ]
+    [ "boss_gatewatcher_iron_hand", "dc/dd9/a23914.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "dc/dd9/a23914.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "dc/dd9/a23914.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "dc/dd9/a23914.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

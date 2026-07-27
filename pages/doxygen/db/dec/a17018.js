@@ -1,6 +1,8 @@
 var a17018 =
 [
-    [ "boss_trollgoreAI", "df/d1d/a17022.html", "df/d1d/a17022" ],
-    [ "boss_trollgore", "db/dec/a17018.html#a95102f1fae6c667e0780b8b388fc156b", null ],
-    [ "GetAI", "db/dec/a17018.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
+    [ "npc_toc_pet_hunterAI", "db/dec/a17018.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "db/dec/a17018.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "db/dec/a17018.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "db/dec/a17018.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "db/dec/a17018.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];

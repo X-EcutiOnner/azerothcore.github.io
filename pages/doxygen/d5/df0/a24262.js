@@ -1,16 +1,15 @@
 var a24262 =
 [
-    [ "CheckCast", "d5/df0/a24262.html#a28e769267a83e4c499dca83a3f5708eb", null ],
-    [ "CheckReagents", "d5/df0/a24262.html#aa8a2efb4807c29aeb5bf786e05113b61", null ],
-    [ "CheckTarget", "d5/df0/a24262.html#ae339cf884f1d2f877e988ef6f6b555bf", null ],
-    [ "CheckTargets", "d5/df0/a24262.html#af1013668080685cd86ae6abb52258fb1", null ],
-    [ "ConsumeReagents", "d5/df0/a24262.html#aa5df00ed970db696b92b51566e098f3f", null ],
-    [ "GetGhoulSpellId", "d5/df0/a24262.html#a9f94b3d279c036fb4b1c5b69934e63f2", null ],
-    [ "HandleRaiseDead", "d5/df0/a24262.html#a3d1e0191d99e970f42d825632fe0f7e2", null ],
-    [ "Load", "d5/df0/a24262.html#a05ea44a20f08f9010faca13a0f4d0f39", null ],
-    [ "PrepareSpellScript", "d5/df0/a24262.html#a9565c8459a6d8cfed85c9120aca9715f", null ],
-    [ "Register", "d5/df0/a24262.html#a0ebef363de4a802b242c806517ad0fb5", null ],
-    [ "Validate", "d5/df0/a24262.html#a0ab8ee639fa83e954e964994c75451c8", null ],
-    [ "_corpse", "d5/df0/a24262.html#adbc699b3bfd33f595ea287ca833ea2d4", null ],
-    [ "_result", "d5/df0/a24262.html#aefebf79fa61b9f4d12929d54bd48389f", null ]
+    [ "dragonmaw_race_npc", "d5/df0/a24262.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
+    [ "FailQuest", "d5/df0/a24262.html#a15a1223f9dc5d3979485a753687f169e", null ],
+    [ "FinishRace", "d5/df0/a24262.html#a2439f54aca4ff28c23d351245099a4fc", null ],
+    [ "MovementInform", "d5/df0/a24262.html#ad0b4ef357605a44a4188c29292303dcf", null ],
+    [ "PathEndReached", "d5/df0/a24262.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
+    [ "Reset", "d5/df0/a24262.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
+    [ "sQuestAccept", "d5/df0/a24262.html#a539fcaf1dc25a34531d032032c19182e", null ],
+    [ "StartRace", "d5/df0/a24262.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
+    [ "StartRaceAttacks", "d5/df0/a24262.html#a341528843b89a29711f60a1b932da616", null ],
+    [ "TakeOff", "d5/df0/a24262.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
+    [ "UpdateAI", "d5/df0/a24262.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
+    [ "_playerGUID", "d5/df0/a24262.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
 ];

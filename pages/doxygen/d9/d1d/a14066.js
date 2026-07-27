@@ -1,7 +1,6 @@
 var a14066 =
 [
-    [ "HandleScript", "d9/d1d/a14066.html#acd4373ab762d00d262984c36190d6f93", null ],
-    [ "PrepareSpellScript", "d9/d1d/a14066.html#a113216b272d0386f248a75bfcf30c6a3", null ],
-    [ "Register", "d9/d1d/a14066.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
-    [ "Validate", "d9/d1d/a14066.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
+    [ "npc_corporal_keeshanAI", "d2/d0c/a14070.html", "d2/d0c/a14070" ],
+    [ "npc_corporal_keeshan", "d9/d1d/a14066.html#a0ca9459a7f283e040f14e0052762f587", null ],
+    [ "GetAI", "d9/d1d/a14066.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
 ];

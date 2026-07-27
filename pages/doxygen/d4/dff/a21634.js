@@ -1,6 +1,14 @@
 var a21634 =
 [
-    [ "HandleOnEffectRemove", "d4/dff/a21634.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "d4/dff/a21634.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "d4/dff/a21634.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "npc_hidden_cultistAI", "d4/dff/a21634.html#a970aaa2401664337147696624cc8cac4", null ],
+    [ "AttackPlayer", "d4/dff/a21634.html#a55e3b02d05f35d134fc605a13efe9018", null ],
+    [ "Initialize", "d4/dff/a21634.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
+    [ "PreScript", "d4/dff/a21634.html#a92be5361e2b28152adcca0629b286bb8", null ],
+    [ "Reset", "d4/dff/a21634.html#afe38e448d86cdf910870d72a3890ae1f", null ],
+    [ "sGossipSelect", "d4/dff/a21634.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
+    [ "UpdateAI", "d4/dff/a21634.html#a0bba4d10439d47d44ff856c7fec18595", null ],
+    [ "_emoteState", "d4/dff/a21634.html#adb4e884787dc480358c5be22d276ec49", null ],
+    [ "_events", "d4/dff/a21634.html#ab0494e33d16a43aa1426784d1882e41c", null ],
+    [ "_npcFlags", "d4/dff/a21634.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
+    [ "_playerGUID", "d4/dff/a21634.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
 ];

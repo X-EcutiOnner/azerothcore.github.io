@@ -1,8 +1,7 @@
 var a21506 =
 [
-    [ "npc_q24545_vegardAI", "df/d52/a21506.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
-    [ "JustDied", "df/d52/a21506.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
-    [ "KilledUnit", "df/d52/a21506.html#a2d78117a6c2a29f52f1905595425964a", null ],
-    [ "UpdateAI", "df/d52/a21506.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
-    [ "events", "df/d52/a21506.html#a68f48d92cc5559025e635d599c2882e3", null ]
+    [ "npc_azure_binder", "df/d52/a21506.html#ae273e78765faeb3e9604b7ce89ef6e6c", null ],
+    [ "Reset", "df/d52/a21506.html#a0a11617ac11bf6aacacc3b36ce90fdca", null ],
+    [ "UpdateAI", "df/d52/a21506.html#add9f304212a1a10267e564cd939f3751", null ],
+    [ "_events", "df/d52/a21506.html#a0026fdd57e09f02b46010d696bb0a5da", null ]
 ];

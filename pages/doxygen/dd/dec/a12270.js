@@ -1,11 +1,6 @@
 var a12270 =
 [
-    [ "lfg_commandscript", "dd/dec/a12270.html#a90faaca821e4162e0aea40a4d98af62c", null ],
-    [ "GetCommands", "dd/dec/a12270.html#a324310f9b04675c277ceae44ea09fbaf", null ],
-    [ "HandleLfgCleanCommand", "dd/dec/a12270.html#a93db689dbdb97a0318d62409a863767e", null ],
-    [ "HandleLfgCooldownClearCommand", "dd/dec/a12270.html#a0e399ec509b9f419b7f034cc95409f7b", null ],
-    [ "HandleLfgGroupInfoCommand", "dd/dec/a12270.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
-    [ "HandleLfgOptionsCommand", "dd/dec/a12270.html#a73187a97c883d8d1bb3765943dd98c39", null ],
-    [ "HandleLfgPlayerInfoCommand", "dd/dec/a12270.html#acdf12aff45f16904df5724ab158e3b97", null ],
-    [ "HandleLfgQueueInfoCommand", "dd/dec/a12270.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
+    [ "Command", "dd/dec/a12270.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
+    [ "Data", "dd/dec/a12270.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
+    [ "DataSize", "dd/dec/a12270.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
 ];

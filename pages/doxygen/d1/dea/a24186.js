@@ -1,10 +1,16 @@
 var a24186 =
 [
-    [ "Absorb", "d1/dea/a24186.html#a99db0d1254ddcfa9e7afb241e73b3235", null ],
-    [ "CalculateAmount", "d1/dea/a24186.html#a279a025cac490ee3647f47584b59179f", null ],
-    [ "Load", "d1/dea/a24186.html#a3fededdbfca9d12e6dbd097620e104be", null ],
-    [ "PrepareAuraScript", "d1/dea/a24186.html#a818875a8073491eab2508182bd941e25", null ],
-    [ "Register", "d1/dea/a24186.html#a2419bff95bad81a0f63c4988f14eb3f9", null ],
-    [ "Validate", "d1/dea/a24186.html#a60eb14be1b3108b7b896a27eab35569b", null ],
-    [ "absorbPct", "d1/dea/a24186.html#ac51bad58076a6dfa520fd3e9ea0c76b5", null ]
+    [ "npc_dragonmaw_peonAI", "d1/dea/a24186.html#a6f1255fead5357001ec85fdaa6980249", null ],
+    [ "CreditPlayer", "d1/dea/a24186.html#a5cf28e156cab2e2066bb94bc99233a2b", null ],
+    [ "JustEngagedWith", "d1/dea/a24186.html#abd5b37793aa2fb150c808b7dc7270763", null ],
+    [ "MovementInform", "d1/dea/a24186.html#a0ee4038f90d54c75c48b2448dacb5724", null ],
+    [ "Reset", "d1/dea/a24186.html#a9d876ec76b51f743c71e67749c21d939", null ],
+    [ "SpellHit", "d1/dea/a24186.html#abe5162608ba0acd7360a630562ff5935", null ],
+    [ "UpdateAI", "d1/dea/a24186.html#a98a045606d9e689ef25a5068b81b1ebf", null ],
+    [ "events", "d1/dea/a24186.html#a7d6fb37d1953630aa79f8665eca0db61", null ],
+    [ "PlayerGUID", "d1/dea/a24186.html#ad6838d98e34a32cbed42c77cdf096070", null ],
+    [ "Tapped", "d1/dea/a24186.html#ae393f8d3cb47f38a4c4314a262826d03", null ],
+    [ "x", "d1/dea/a24186.html#acebbfa8da88d8d683ba5ea6463f6b5f7", null ],
+    [ "y", "d1/dea/a24186.html#ae5a1d416c712803ec0b80ae7ccf29e2d", null ],
+    [ "z", "d1/dea/a24186.html#a7722420716c030b5abe7b760199df14d", null ]
 ];

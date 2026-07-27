@@ -1,30 +1,6 @@
 var a28070 =
 [
-    [ "NPCStaveQuestAI", "db/d24/a28070.html#a2bd2185cd62cc725324c9cc4ab3dfcbc", null ],
-    [ "AttackedBy", "db/d24/a28070.html#a20069078ff60d49baafe02e8c7a95973", null ],
-    [ "AttackStart", "db/d24/a28070.html#a0b2b9c251344f27d75a01e2ebc53dd5d", null ],
-    [ "ClearLootIfUnfair", "db/d24/a28070.html#adf1af974ba78d33dba14847d075cb40b", null ],
-    [ "EvadeOnFeignDeath", "db/d24/a28070.html#a2f6e72696b409907a367c13f2207127b", null ],
-    [ "GetFormEntry", "db/d24/a28070.html#a7c1442ba2f7e31b72942a61f0d0f716c", null ],
-    [ "GetGossipPlayer", "db/d24/a28070.html#a47582d2c7207f3461057feb5e0a4c189", null ],
-    [ "InNormalForm", "db/d24/a28070.html#a4ac102757e65c86433b7a758aeb248ba", null ],
-    [ "IsAllowedEntry", "db/d24/a28070.html#a46f79efa1c53ff1a59ef60de50896ce7", null ],
-    [ "IsFairFight", "db/d24/a28070.html#ab54a0fd2dad83d2bd1d179fb9639edf0", null ],
-    [ "JustDied", "db/d24/a28070.html#a220e3c50c24ebfd33e368c159665076d", null ],
-    [ "PlayerEligibleForReward", "db/d24/a28070.html#a073e4e3a7f303ea632dc2c4770c556d4", null ],
-    [ "PrepareForEncounter", "db/d24/a28070.html#a5adddedf655d743566adc76e4a1a9dc6", null ],
-    [ "QuestIncomplete", "db/d24/a28070.html#a41eb9c433d6b5afff7620fc22953e858", null ],
-    [ "ResetState", "db/d24/a28070.html#ad134dbf9931d2d7f3d9c2b7d14fcb76c", null ],
-    [ "RevealForm", "db/d24/a28070.html#ab1f2c4d3673ced2eec226741d73f38b0", null ],
-    [ "SetHomePosition", "db/d24/a28070.html#a803fd42a51521c869b2e734f124eca9d", null ],
-    [ "StoreAttackerGuidValue", "db/d24/a28070.html#af18005dd457c320709921bcdd0f7895d", null ],
-    [ "StorePlayerGUID", "db/d24/a28070.html#aca5c4a4b283b1fdffd646807a1002e42", null ],
-    [ "UnitIsUnfair", "db/d24/a28070.html#acb429c642b2004869c54cd4000eb2c59", null ],
-    [ "ValidThreatlist", "db/d24/a28070.html#a4970b26483198e990dd399f876074383", null ],
-    [ "attackerGuids", "db/d24/a28070.html#a03e24a838a78c445f55618e66f0387d4", null ],
-    [ "encounterStarted", "db/d24/a28070.html#a22bd1b0b08fac1e91c5e07db7b93c548", null ],
-    [ "entryKeys", "db/d24/a28070.html#a0ea30f49ac6a9f78a9c0429f2c20c4c5", null ],
-    [ "entryList", "db/d24/a28070.html#a1a9ccd1d254bdb80b87d997d91afd6d7", null ],
-    [ "gossipPlayerGUID", "db/d24/a28070.html#a286967eb3806c73746bcb8524ecbda24", null ],
-    [ "playerGUID", "db/d24/a28070.html#a81644c431d107dda59c726fdbc4b671c", null ]
+    [ "AreaTrigger_at_area_52_entrance", "db/d24/a28070.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "db/d24/a28070.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "db/d24/a28070.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

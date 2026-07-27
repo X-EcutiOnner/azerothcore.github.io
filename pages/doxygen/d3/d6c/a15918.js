@@ -1,6 +1,9 @@
 var a15918 =
 [
-    [ "npc_aquementasAI", "d3/d87/a15922.html", "d3/d87/a15922" ],
-    [ "npc_aquementas", "d3/d6c/a15918.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
-    [ "GetAI", "d3/d6c/a15918.html#a8a071b3073d69306feb84aca347a22c8", null ]
+    [ "npc_prospector_remtravelAI", "d3/d6c/a15918.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d3/d6c/a15918.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d3/d6c/a15918.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d3/d6c/a15918.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d3/d6c/a15918.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ],
+    [ "WaypointReached", "d3/d6c/a15918.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

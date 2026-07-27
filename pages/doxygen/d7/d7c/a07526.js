@@ -1,11 +1,12 @@
 var a07526 =
 [
-    [ "WGWorkshop", "d7/d7c/a07526.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
-    [ "GiveControlTo", "d7/d7c/a07526.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
-    [ "Save", "d7/d7c/a07526.html#adede1c780178f20dc8339320a021e4b6", null ],
-    [ "UpdateGraveyardAndWorkshop", "d7/d7c/a07526.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
-    [ "bf", "d7/d7c/a07526.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
-    [ "state", "d7/d7c/a07526.html#a279d47c85843e884edef1f82b9654cd8", null ],
-    [ "teamControl", "d7/d7c/a07526.html#a196c8d0094a34c18835840e046fd39ef", null ],
-    [ "workshopId", "d7/d7c/a07526.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
+    [ "Type", "d7/d7c/a07526.html#a758c9729d907d872a5e5365539486408", [
+      [ "ADD", "d7/d7c/a07526.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
+      [ "REMOVE", "d7/d7c/a07526.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
+      [ "UPDATE_BID", "d7/d7c/a07526.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
+    ] ],
+    [ "AuctionSearcherUpdate", "d7/d7c/a07526.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
+    [ "~AuctionSearcherUpdate", "d7/d7c/a07526.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
+    [ "listFaction", "d7/d7c/a07526.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
+    [ "updateType", "d7/d7c/a07526.html#af6ee8672029884bdbec327242ce5d5d2", null ]
 ];

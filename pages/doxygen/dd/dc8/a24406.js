@@ -1,6 +1,9 @@
 var a24406 =
 [
-    [ "HandleEffectCalcSpellMod", "dd/dc8/a24406.html#aaf21dafa72b58245f548ed946a49659d", null ],
-    [ "PrepareAuraScript", "dd/dc8/a24406.html#ac05d3ae466ad64ac590f399827aac0c9", null ],
-    [ "Register", "dd/dc8/a24406.html#a46a643985647d8a8e033b637b31214a5", null ]
+    [ "npc_pet_gen_fetch_ball", "dd/dc8/a24406.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
+    [ "IsSummonedBy", "dd/dc8/a24406.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
+    [ "SpellHitTarget", "dd/dc8/a24406.html#a87bdded236f6584d9b71507a1253f7d0", null ],
+    [ "UpdateAI", "dd/dc8/a24406.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
+    [ "checkTimer", "dd/dc8/a24406.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
+    [ "targetGUID", "dd/dc8/a24406.html#ae474374af7c2270e218ed236d90c789c", null ]
 ];

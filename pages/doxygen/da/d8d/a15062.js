@@ -1,6 +1,7 @@
 var a15062 =
 [
-    [ "boss_mal_ganisAI", "d7/d6e/a15066.html", "d7/d6e/a15066" ],
-    [ "boss_mal_ganis", "da/d8d/a15062.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
-    [ "GetAI", "da/d8d/a15062.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
+    [ "GetVisualThrow", "da/d8d/a15062.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
+    [ "HandleDummy", "da/d8d/a15062.html#adca1aacf89dcf452f1c98cae97f09690", null ],
+    [ "PrepareSpellScript", "da/d8d/a15062.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
+    [ "Register", "da/d8d/a15062.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
 ];

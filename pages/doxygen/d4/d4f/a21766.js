@@ -1,6 +1,6 @@
 var a21766 =
 [
-    [ "ChangeSummonPos", "d4/d4f/a21766.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "d4/d4f/a21766.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "d4/d4f/a21766.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "npc_mindless_ghoulAI", "d4/d4f/a21766.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
+    [ "CanAIAttack", "d4/d4f/a21766.html#a18fbc44ad760a69d952d003622ec75b2", null ],
+    [ "JustDied", "d4/d4f/a21766.html#a272067bef6dbab24024f7de990c10b64", null ]
 ];

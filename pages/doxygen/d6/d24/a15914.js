@@ -1,8 +1,7 @@
 var a15914 =
 [
-    [ "npc_kaya_flathoofAI", "d6/d24/a15914.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
-    [ "JustSummoned", "d6/d24/a15914.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
-    [ "Reset", "d6/d24/a15914.html#af9be00be9867622a16103bd21311327f", null ],
-    [ "WaypointReached", "d6/d24/a15914.html#a8fcbb19279b925138ba96d2a450fc404", null ],
-    [ "WaypointReached", "d6/d24/a15914.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_prospector_remtravelAI", "d3/d6c/a15918.html", "d3/d6c/a15918" ],
+    [ "npc_prospector_remtravel", "d6/d24/a15914.html#aa213161fc60e615682252125f6c58f7f", null ],
+    [ "GetAI", "d6/d24/a15914.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
+    [ "OnQuestAccept", "d6/d24/a15914.html#a4bc2e5264a7a2184bf8d90b7d4045cc8", null ]
 ];

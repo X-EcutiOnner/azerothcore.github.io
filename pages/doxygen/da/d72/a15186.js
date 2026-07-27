@@ -1,6 +1,6 @@
 var a15186 =
 [
-    [ "NpcRunToHome", "da/d72/a15186.html#ac190e89b494554e391e6ebd878d7f8e8", null ],
-    [ "Execute", "da/d72/a15186.html#a0da766e3bae0d8d97a46ef82b3873cc0", null ],
-    [ "_owner", "da/d72/a15186.html#a7dd38171a6e55665fc28a74212313e51", null ]
+    [ "FilterTargets", "da/d72/a15186.html#a45b0713b2942199bf0e19752fe765aac", null ],
+    [ "PrepareSpellScript", "da/d72/a15186.html#a7f7177d7754a99743202f69a0342f587", null ],
+    [ "Register", "da/d72/a15186.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
 ];

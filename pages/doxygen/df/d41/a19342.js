@@ -1,8 +1,6 @@
 var a19342 =
 [
-    [ "boss_maexxna_webwrapAI", "df/d41/a19342.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
-    [ "IsSummonedBy", "df/d41/a19342.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
-    [ "JustDied", "df/d41/a19342.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
-    [ "UpdateAI", "df/d41/a19342.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
-    [ "victimGUID", "df/d41/a19342.html#a54081ebfc0df639b7e18b5f079802c92", null ]
+    [ "npc_icc_putricades_trapAI", "dc/d36/a19346.html", "dc/d36/a19346" ],
+    [ "npc_icc_putricades_trap", "df/d41/a19342.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
+    [ "GetAI", "df/d41/a19342.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
 ];

@@ -1,8 +1,6 @@
 var a23014 =
 [
-    [ "boss_mekgineer_steamrigger", "d2/d4d/a23014.html#a930dcbade7135d0c689bcc0718815547", null ],
-    [ "JustDied", "d2/d4d/a23014.html#a79272c233bc0256cca62700fc7a01421", null ],
-    [ "JustEngagedWith", "d2/d4d/a23014.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
-    [ "JustSummoned", "d2/d4d/a23014.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
-    [ "KilledUnit", "d2/d4d/a23014.html#a84374438458cb7e034f91d4b65cd22f1", null ]
+    [ "HandleEffectRemove", "d2/d4d/a23014.html#a99891cf49d35a857cd014fe83bc83e43", null ],
+    [ "PrepareAuraScript", "d2/d4d/a23014.html#ab8fed8e7b561146cca35fe8534ea248c", null ],
+    [ "Register", "d2/d4d/a23014.html#a5a65a3fca846dc40aeb31e4ff56958ca", null ]
 ];

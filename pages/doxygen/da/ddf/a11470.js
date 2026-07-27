@@ -1,10 +1,7 @@
 var a11470 =
 [
-    [ "WorldStateInfo", "d4/d57/a11474.html", "d4/d57/a11474" ],
-    [ "InitWorldStates", "da/ddf/a11470.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
-    [ "Write", "da/ddf/a11470.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
-    [ "AreaID", "da/ddf/a11470.html#a98ac08c68b5c004fd352f38c7084531f", null ],
-    [ "MapID", "da/ddf/a11470.html#a657c3043204c6957e8438c3c3c7068f3", null ],
-    [ "Worldstates", "da/ddf/a11470.html#a29ffba2a130f0b93d61b2025255502fb", null ],
-    [ "ZoneID", "da/ddf/a11470.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
+    [ "TrainerBuySucceeded", "da/ddf/a11470.html#ae00367a55429030c107fc8f6bb7db288", null ],
+    [ "Write", "da/ddf/a11470.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
+    [ "SpellID", "da/ddf/a11470.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
+    [ "TrainerGUID", "da/ddf/a11470.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
 ];

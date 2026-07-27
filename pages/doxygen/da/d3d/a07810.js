@@ -1,17 +1,9 @@
 var a07810 =
 [
-    [ "HasFlag", "da/d3d/a07810.html#a23315bfbd0748f82c948051697079c24", null ],
-    [ "IsModerator", "da/d3d/a07810.html#af664dc84e5a60301c4fce6fda8971062", null ],
-    [ "IsMuted", "da/d3d/a07810.html#a5d1e0f8e424033e34338940677ca054c", null ],
-    [ "IsOwner", "da/d3d/a07810.html#a4687757cb7df9778f0f5eb67714c917c", null ],
-    [ "IsOwnerGM", "da/d3d/a07810.html#ad4e1573168c91372dc4af2847d4ad454", null ],
-    [ "SetFlag", "da/d3d/a07810.html#a9cb5a3ce70a2afcc553992f4a65b80e1", null ],
-    [ "SetModerator", "da/d3d/a07810.html#a0a0cbaa77040171b7b50f89914946a8a", null ],
-    [ "SetMuted", "da/d3d/a07810.html#adf989acef0b1e53a9dc2d3210db646b7", null ],
-    [ "SetOwner", "da/d3d/a07810.html#aac6a9ea0bf478901e62c729ac6a3e9cd", null ],
-    [ "SetOwnerGM", "da/d3d/a07810.html#a2e4be6dfb921ad07ebd0de3abb81f5e4", null ],
-    [ "_gmStatus", "da/d3d/a07810.html#a15686cee4d1d0d8f39c13341bc9df624", null ],
-    [ "flags", "da/d3d/a07810.html#ae9ed61476c5f13dddf4aa5e98fe8c5c4", null ],
-    [ "player", "da/d3d/a07810.html#afba1915e2dd4109928180e33884b8412", null ],
-    [ "plrPtr", "da/d3d/a07810.html#a5c986d75e173cc42160143ae7621ab6b", null ]
+    [ "entry", "da/d3d/a07810.html#a2238cabe763a588a5572611e0aefe6ba", null ],
+    [ "o", "da/d3d/a07810.html#a0ebd9ea966eb66cf80b8f3c003db60c0", null ],
+    [ "type", "da/d3d/a07810.html#a561ac93f5c1bcc26dacbd0212b602eac", null ],
+    [ "x", "da/d3d/a07810.html#a616d422b4e8c99ec3285a87f553d4091", null ],
+    [ "y", "da/d3d/a07810.html#a34de8c83a7bc8b33ac0cabdfb1bd3459", null ],
+    [ "z", "da/d3d/a07810.html#a78cff0661e6d9440574306ec01389d42", null ]
 ];

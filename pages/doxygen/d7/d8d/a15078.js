@@ -1,6 +1,6 @@
 var a15078 =
 [
-    [ "boss_salrammAI", "da/d01/a15082.html", "da/d01/a15082" ],
-    [ "boss_salramm", "d7/d8d/a15078.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
-    [ "GetAI", "d7/d8d/a15078.html#ab6b400f0d329d4def074d012de47f53d", null ]
+    [ "PrepareAuraScript", "d7/d8d/a15078.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
+    [ "RecalculateHook", "d7/d8d/a15078.html#af3952993947dfb24381083d21a9e64cb", null ],
+    [ "Register", "d7/d8d/a15078.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
 ];

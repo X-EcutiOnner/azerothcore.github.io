@@ -1,8 +1,9 @@
 var a09662 =
 [
-    [ "AnyUnfriendlyUnitInObjectRangeCheck", "d8/db5/a09662.html#a2d83b68a7991d3b3dc2355ecde1efa5d", null ],
-    [ "operator()", "d8/db5/a09662.html#a5b02b45b937d6b2b0b141967c70f93d9", null ],
-    [ "i_funit", "d8/db5/a09662.html#a55222acf6dbb538a213eb604f67f40ce", null ],
-    [ "i_obj", "d8/db5/a09662.html#a5d7e5e8898bd092c1055739fae82f693", null ],
-    [ "i_range", "d8/db5/a09662.html#aa1c728ceea2ddc2e88ea07132a3fe250", null ]
+    [ "UnitListSearcher", "d8/db5/a09662.html#a24c0de32dc3baa927962626421a343ae", null ],
+    [ "Visit", "d8/db5/a09662.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d", null ],
+    [ "Visit", "d8/db5/a09662.html#a92f9b0407e609b6c61f10d93aa49912f", null ],
+    [ "Visit", "d8/db5/a09662.html#a5fddd281a9f9cd10cf3948d4bf7b626f", null ],
+    [ "i_check", "d8/db5/a09662.html#a508a47e6261e7ae6e5669aee853ff99e", null ],
+    [ "i_phaseMask", "d8/db5/a09662.html#a43c863350bea423cf4a720c4c680fd4c", null ]
 ];

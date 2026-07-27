@@ -1,6 +1,7 @@
 var a26326 =
 [
-    [ "CalculateAmount", "df/d4a/a26326.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
-    [ "PrepareAuraScript", "df/d4a/a26326.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
-    [ "Register", "df/d4a/a26326.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
+    [ "HandleProc", "df/d4a/a26326.html#a7bf47ecb24b3427dda1980f68b41cfe8", null ],
+    [ "PrepareAuraScript", "df/d4a/a26326.html#a92468411049bd05eda99e676edefcf6e", null ],
+    [ "Register", "df/d4a/a26326.html#a32ca1fb3bb75fb98cb8aec38adf54325", null ],
+    [ "Validate", "df/d4a/a26326.html#a9a531733a3e7426a3bf6aa50ab86f4d9", null ]
 ];

@@ -1,6 +1,6 @@
 var a20610 =
 [
-    [ "x", "d2/d36/a20610.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "d2/d36/a20610.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "d2/d36/a20610.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "OnPeriodic", "d2/d36/a20610.html#a8a12342f694499043e8ed4446fd92d36", null ],
+    [ "PrepareAuraScript", "d2/d36/a20610.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
+    [ "Register", "d2/d36/a20610.html#a381709d53101832de6b2161c4a33a0d4", null ]
 ];

@@ -1,6 +1,7 @@
 var a19562 =
 [
-    [ "instance_nexus_InstanceMapScript", "d6/df4/a19566.html", "d6/df4/a19566" ],
-    [ "instance_nexus", "d6/db9/a19562.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
-    [ "GetInstanceScript", "d6/db9/a19562.html#a156210ba08caa0572c775dbd5851b250", null ]
+    [ "FilterTargets", "d6/db9/a19562.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "d6/db9/a19562.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "d6/db9/a19562.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "d6/db9/a19562.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

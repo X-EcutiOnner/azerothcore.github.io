@@ -1,37 +1,41 @@
 var a02627 =
 [
-    [ "npc_ame", "da/d75/a16176.html", "da/d75/a16176" ],
-    [ "npc_ame::npc_ameAI", "df/d8f/a16180.html", "df/d8f/a16180" ],
-    [ "npc_ringo", "d8/db6/a16184.html", "d8/db6/a16184" ],
-    [ "npc_ringo::npc_ringoAI", "db/df8/a16188.html", "db/df8/a16188" ],
-    [ "AmeData", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0", [
-      [ "SAY_READY", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0a82af2bd2787802be3ff2ee4588ea9be4", null ],
-      [ "SAY_AGGRO1", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0a17fd4d94120185f67ee94a41652285a5", null ],
-      [ "SAY_SEARCH", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0a843a1ad765b601ed599c443b66ae5d77", null ],
-      [ "SAY_AGGRO2", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0af73eb45ca3cf512147f1d25e1254c224", null ],
-      [ "SAY_AGGRO3", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0aa623912b4ba266583234ba5df070e02e", null ],
-      [ "SAY_FINISH", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0a0e5b4f2c41b1953cea52b7f41d134838", null ],
-      [ "SPELL_DEMORALIZINGSHOUT", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0a8477c04b326171f69326346981b724e1", null ],
-      [ "QUEST_CHASING_AME", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827", null ],
-      [ "ENTRY_TARLORD", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0ab6db2c46b771ac7d038f25d35308beec", null ],
-      [ "ENTRY_TARLORD1", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0ae1f81eb98b3fa0fc40666dedb0ece35f", null ],
-      [ "ENTRY_STOMPER", "dc/d34/a02627.html#abbb0f5e31bd003a50e94cc712dbab7c0af0775f5d04bd4e00f048e939fed6e64a", null ]
+    [ "AzjolNerubScriptName", "dc/d34/a02627.html#a49c3c3627ce229fce6b1f55755bcb7d7", null ],
+    [ "DataHeader", "dc/d34/a02627.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterAzjolNerubCreatureAI", "dc/d34/a02627.html#a4a60f3abea9a1edadc00e60726067bba", null ],
+    [ "ANActions", "dc/d34/a02627.html#a353c804af4bd1bd2a5d5193704607689", [
+      [ "ACTION_MINION_DIED", "dc/d34/a02627.html#a353c804af4bd1bd2a5d5193704607689a185e4f622f3b411d7980209389e63777", null ]
     ] ],
-    [ "Ringo", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592", [
-      [ "SAY_RIN_START", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592abd4cb0c4d5414164403e75fca667915b", null ],
-      [ "SAY_FAINT", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592a39f7b5e8a7fc4ed40e62cedfa93923bd", null ],
-      [ "SAY_WAKE", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592aadb6c63e08a18de76bcc95ca2e830a6e", null ],
-      [ "SAY_RIN_END_1", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae8753384ff9e53b533a5a1cebd16ce64", null ],
-      [ "SAY_SPR_END_2", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592a1a913192c37c18a19114eebee21e1a85", null ],
-      [ "SAY_RIN_END_3", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae29a03470647c5d13bcb1729160b1d8b", null ],
-      [ "EMOTE_RIN_END_4", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592aeeed58bd2d47e0450374129434bcf296", null ],
-      [ "EMOTE_RIN_END_5", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac0c11a39be96e25065c399ff7dd7c484", null ],
-      [ "SAY_RIN_END_6", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592a699867c1deab61d85853622b099cd728", null ],
-      [ "SAY_SPR_END_7", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac165214832e6be5740245dd6239ef2c9", null ],
-      [ "EMOTE_RIN_END_8", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac034860ad6513469b74ad5b7cc76edc7", null ],
-      [ "SPELL_REVIVE_RINGO", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592a9fc3d4c57ff3ca56f344b70df866e766", null ],
-      [ "QUEST_A_LITTLE_HELP", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592a6ab7d20ae4eca495ad164638b1e68b51", null ],
-      [ "NPC_SPRAGGLE", "dc/d34/a02627.html#a1eb7864fe2b6e6ec59692fb2f7c02592a4bc3afbb0cf9626825ffda0b610e2e64", null ]
+    [ "ANData", "dc/d34/a02627.html#a38e14ca59c29a20c7d83feecae87365e", [
+      [ "DATA_KRIKTHIR", "dc/d34/a02627.html#a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c", null ],
+      [ "DATA_HADRONOX", "dc/d34/a02627.html#a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8", null ],
+      [ "DATA_ANUBARAK", "dc/d34/a02627.html#a38e14ca59c29a20c7d83feecae87365ea635a7e23dc02368d27e70d3dd833bdbf", null ],
+      [ "MAX_ENCOUNTERS", "dc/d34/a02627.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25", null ],
+      [ "DATA_GASHRA", "dc/d34/a02627.html#a38e14ca59c29a20c7d83feecae87365ea1a73c13c178a2320b1f47ff2f992649f", null ],
+      [ "DATA_NARJIL", "dc/d34/a02627.html#a38e14ca59c29a20c7d83feecae87365ea2d61b5fd45428eb96d2ecd538da08fb6", null ],
+      [ "DATA_SILTHIK", "dc/d34/a02627.html#a38e14ca59c29a20c7d83feecae87365ea8cfb18f4044960fc20ceb21676d64eb2", null ]
     ] ],
-    [ "AddSC_ungoro_crater", "dc/d34/a02627.html#a6e2c88161cee97e0e405ef83abcc653f", null ]
+    [ "ANIds", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080eb", [
+      [ "NPC_WATCHER_NARJIL", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f", null ],
+      [ "NPC_WATCHER_GASHRA", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8", null ],
+      [ "NPC_WATCHER_SILTHIK", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08", null ],
+      [ "NPC_ANUBAR_SKIRMISHER", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080ebaab6881c6b204dd808545bca2050e3fcf", null ],
+      [ "NPC_ANUBAR_SHADOWCASTER", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080ebacc327c02c47a2a2ad6994c7c87132127", null ],
+      [ "NPC_ANUBAR_WARRIOR", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080eba0e94bdd3b8ef0aba807bba8e440a07ca", null ],
+      [ "NPC_SKITTERING_SWARMER", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429", null ],
+      [ "NPC_SKITTERING_INFECTIOR", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b", null ],
+      [ "NPC_KRIKTHIR_THE_GATEWATCHER", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582", null ],
+      [ "NPC_HADRONOX", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a", null ],
+      [ "NPC_ANUBARAK", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080eba9ccdc8bccffd48df50721fc98c1b6bc3", null ],
+      [ "NPC_WORLD_TRIGGER_LAOI", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080eba8ad05c18f75770b596b6a87987d4ecdd", null ],
+      [ "NPC_ANUB_AR_CHAMPION", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc", null ],
+      [ "NPC_ANUB_AR_NECROMANCER", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea", null ],
+      [ "NPC_ANUB_AR_CRYPTFIEND", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c", null ],
+      [ "GO_KRIKTHIR_DOORS", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b", null ],
+      [ "GO_ANUBARAK_DOORS1", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316", null ],
+      [ "GO_ANUBARAK_DOORS2", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc", null ],
+      [ "GO_ANUBARAK_DOORS3", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0", null ],
+      [ "SPELL_WEB_WRAP_TRIGGER", "dc/d34/a02627.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b", null ]
+    ] ],
+    [ "GetAzjolNerubAI", "dc/d34/a02627.html#a19b3f42ba299e1f42de805f494cd5812", null ]
 ];

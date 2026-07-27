@@ -1,20 +1,15 @@
 var a13402 =
 [
-    [ "boss_darkmaster_gandlingAI", "de/d6f/a13402.html#a1fbd651c6f5ad3630ae450c6a523360c", null ],
-    [ "FindRoom", "de/d6f/a13402.html#a7ca1847b3223c82f7c190546809c49bc", null ],
-    [ "GetData", "de/d6f/a13402.html#a06e03e66d7a99a98ba915057c0082217", null ],
-    [ "JustDied", "de/d6f/a13402.html#afaac9e6939e0d873f576129546560fba", null ],
-    [ "JustEngagedWith", "de/d6f/a13402.html#aa71a73d3804187c6b89566ec3d1cd6ed", null ],
-    [ "JustSummoned", "de/d6f/a13402.html#a24e4031367eb59ad7a9ea352bd0b4ccd", null ],
-    [ "OpenAllGates", "de/d6f/a13402.html#ab28b7d97956c21515c9872d8f9122f18", null ],
-    [ "Reset", "de/d6f/a13402.html#a8244b7b91de9a0413193001f41288f7f", null ],
-    [ "SetData", "de/d6f/a13402.html#a1b7ed8e98d4a271dfd8df76738cc0072", null ],
-    [ "SetGate", "de/d6f/a13402.html#a32fbc731852f46fbdd36b36764dd2303", null ],
-    [ "SpawnMobsInRoom", "de/d6f/a13402.html#a68adf734efff345529dbb74bebe15798", null ],
-    [ "SpellHitTarget", "de/d6f/a13402.html#ae98715a31cd22febb1725977556a48aa", null ],
-    [ "SummonedCreatureDespawn", "de/d6f/a13402.html#aa0abb31ac1a05c4a99e4b8079410867a", null ],
-    [ "UpdateAI", "de/d6f/a13402.html#a2c525445ad39ddc47366f3f632014d89", null ],
-    [ "current_room", "de/d6f/a13402.html#a597f7ee62ee41ff6a1a12a6c9dd7cd93", null ],
-    [ "Guardians", "de/d6f/a13402.html#a3681da718192f0f961282fa4f655355e", null ],
-    [ "summons", "de/d6f/a13402.html#a745d411fc485892529cb4cc6f06ba3af", null ]
+    [ "npc_image_of_medivhAI", "de/d6f/a13402.html#a1afe3245dc18db3c0bf6801b5ca20d31", null ],
+    [ "JustEngagedWith", "de/d6f/a13402.html#a1013be426b3567d8cbd1c45debc914c5", null ],
+    [ "NextStep", "de/d6f/a13402.html#a87160b37ba61af4866fe3f410813fe9f", null ],
+    [ "Reset", "de/d6f/a13402.html#af2e7dd7f1038bb5662fe7375a7e052c4", null ],
+    [ "UpdateAI", "de/d6f/a13402.html#a321d689d645b4630e2e93e6251d5130c", null ],
+    [ "ArcanagosGUID", "de/d6f/a13402.html#a877c693b6ac736aa874926d8efe0d79a", null ],
+    [ "ATimer", "de/d6f/a13402.html#a28aef0767b6adb0ccf0479dd50dc11a8", null ],
+    [ "EventStarted", "de/d6f/a13402.html#a9a662b435218a3e13ca58eb4a6b3af86", null ],
+    [ "instance", "de/d6f/a13402.html#a2e02aa8d441426aa51f46121eec0becb", null ],
+    [ "MTimer", "de/d6f/a13402.html#a16c3f6d5bd1cc288590bd096233e0bfb", null ],
+    [ "Step", "de/d6f/a13402.html#a9d7b9bdcf9e185284dba5251a0deb0b3", null ],
+    [ "YellTimer", "de/d6f/a13402.html#a34ad7cabe4cb86e23deb30ca0ce77db0", null ]
 ];

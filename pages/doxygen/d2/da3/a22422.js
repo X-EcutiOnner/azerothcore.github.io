@@ -1,7 +1,6 @@
 var a22422 =
 [
-    [ "HandleOnEffectApply", "d2/da3/a22422.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
-    [ "HandleOnEffectRemove", "d2/da3/a22422.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
-    [ "PrepareAuraScript", "d2/da3/a22422.html#a45df29f911b1232e306e04a182648904", null ],
-    [ "Register", "d2/da3/a22422.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
+    [ "CheckCast", "d2/da3/a22422.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
+    [ "PrepareSpellScript", "d2/da3/a22422.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
+    [ "Register", "d2/da3/a22422.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
 ];

@@ -1,7 +1,15 @@
 var a12626 =
 [
-    [ "boss_urok_doomhowl", "da/d03/a12626.html#af1ee215f3d8d6471587ef184bdb0d47c", null ],
-    [ "InitializeAI", "da/d03/a12626.html#acb14f233eff038e0cc2ef0b44cac5357", null ],
-    [ "JustEngagedWith", "da/d03/a12626.html#acf6c649e69b5e7104aa2ffca01fef6dc", null ],
-    [ "UpdateAI", "da/d03/a12626.html#aff302dd58a2f0ef8d801b0b6813d3233", null ]
+    [ "worldstate_commandscript", "da/d03/a12626.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
+    [ "GetCommands", "da/d03/a12626.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
+    [ "HandleScourgeInvasionBattlesWonCommand", "da/d03/a12626.html#a1c2167ce554327d674161b7c4f63585c", null ],
+    [ "HandleScourgeInvasionCommand", "da/d03/a12626.html#a11aeedef82a93f8799fd788a8c492335", null ],
+    [ "HandleScourgeInvasionStartZone", "da/d03/a12626.html#af242372bd32ed79d839af82f82423837", null ],
+    [ "HandleScourgeInvasionStateCommand", "da/d03/a12626.html#a5ba0b973087f921dbb764037c8b36134", null ],
+    [ "HandleSunsReachReclamationCounterCommand", "da/d03/a12626.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
+    [ "HandleSunsReachReclamationPhaseCommand", "da/d03/a12626.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
+    [ "HandleSunsReachReclamationStatusCommand", "da/d03/a12626.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
+    [ "HandleSunsReachReclamationSubPhaseCommand", "da/d03/a12626.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
+    [ "HandleSunwellGateCommand", "da/d03/a12626.html#a45b73e47c8e9b21063d02922a83e103b", null ],
+    [ "HandleSunwellGateCounterCommand", "da/d03/a12626.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
 ];

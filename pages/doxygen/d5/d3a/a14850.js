@@ -1,9 +1,5 @@
 var a14850 =
 [
-    [ "HandlePeriodic", "d5/d3a/a14850.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
-    [ "Load", "d5/d3a/a14850.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
-    [ "PrepareAuraScript", "d5/d3a/a14850.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
-    [ "Register", "d5/d3a/a14850.html#ac331de3219ae7da9e35e962011540bdf", null ],
-    [ "Validate", "d5/d3a/a14850.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
-    [ "_buffGiven", "d5/d3a/a14850.html#aec2476ad5e046213b90af04ad91f0230", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "d5/d3a/a14850.html#a40207493c75d8a63284e08f1f75d56c4", null ],
+    [ "MoveInLineOfSight", "d5/d3a/a14850.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
 ];

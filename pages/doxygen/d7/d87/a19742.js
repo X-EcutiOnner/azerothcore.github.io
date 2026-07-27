@@ -1,6 +1,8 @@
 var a19742 =
 [
-    [ "boss_krystallusAI", "d0/dec/a19746.html", "d0/dec/a19746" ],
-    [ "boss_krystallus", "d7/d87/a19742.html#a1d7453c9d67594bfdbd650fea897666a", null ],
-    [ "GetAI", "d7/d87/a19742.html#aba14bcfa00a5d997959abd94af647bf4", null ]
+    [ "Load", "d7/d87/a19742.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
+    [ "OnRemove", "d7/d87/a19742.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
+    [ "PrepareAuraScript", "d7/d87/a19742.html#aae6c3a215b09fd2270976190600e2cc4", null ],
+    [ "Register", "d7/d87/a19742.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
+    [ "Validate", "d7/d87/a19742.html#ae4ac76269793280335d76a78e5dced91", null ]
 ];

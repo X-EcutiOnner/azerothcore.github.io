@@ -1,4 +1,5 @@
 var a02222 =
 [
-    [ "BasicStatementTask", "d5/d32/a06040.html", "d5/d32/a06040" ]
+    [ "Movement::SplineBase", "de/deb/a10558.html", "de/deb/a10558" ],
+    [ "Movement::Spline< length_type >", "d0/dad/a10562.html", "d0/dad/a10562" ]
 ];

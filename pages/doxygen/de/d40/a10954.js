@@ -1,6 +1,6 @@
 var a10954 =
 [
-    [ "GuildUpdateMotdText", "de/d40/a10954.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
-    [ "Read", "de/d40/a10954.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
-    [ "MotdText", "de/d40/a10954.html#a5b2ee458a919be7f912d49cf984490ac", null ]
+    [ "GetEvent", "de/d40/a10954.html#aabf338a9824038abbd0934a3bef0a269", null ],
+    [ "Read", "de/d40/a10954.html#a344db9b28e7247dc0285a3468a789721", null ],
+    [ "EventId", "de/d40/a10954.html#a31de21c2af87d174d139eef870cbb5fd", null ]
 ];

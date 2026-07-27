@@ -1,8 +1,6 @@
 var a25074 =
 [
-    [ "HandleApply", "d4/d16/a25074.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
-    [ "OnPeriodic", "d4/d16/a25074.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
-    [ "PrepareAuraScript", "d4/d16/a25074.html#a344d1a92623865876174c0e88ce8ab4b", null ],
-    [ "Register", "d4/d16/a25074.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
-    [ "Validate", "d4/d16/a25074.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
+    [ "OnPeriodic", "d4/d16/a25074.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
+    [ "PrepareAuraScript", "d4/d16/a25074.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
+    [ "Register", "d4/d16/a25074.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
 ];

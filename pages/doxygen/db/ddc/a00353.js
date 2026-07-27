@@ -1,9 +1,7 @@
 var a00353 =
 [
-    [ "GetChaseRange", "db/ddc/a00353.html#a24fd9652d12d1ba9d62b8d6273664c55", null ],
-    [ "GetTargetSpeedInMotion", "db/ddc/a00353.html#a56719695683e0a1fbeaeb49d31f62d74", null ],
-    [ "GetVelocity", "db/ddc/a00353.html#a955c196fa9c96bf11e2d887d6cbac50c", null ],
-    [ "IsMutualChase", "db/ddc/a00353.html#a53d496abdea10dead20c7e6a9cb09cd6", null ],
-    [ "IsValidPredictedPosition", "db/ddc/a00353.html#a27995927630ed43ca4a79dff89cfb99c", null ],
-    [ "PredictPosition", "db/ddc/a00353.html#ada5b031ff95410ba84fd734c95c68099", null ]
+    [ "GameobjectModelData", "d0/d12/a05386.html", "d0/d12/a05386" ],
+    [ "ModelList", "db/ddc/a00353.html#a2f908ce58f8fea2d0606bfe603d719d1", null ],
+    [ "LoadGameObjectModelList", "db/ddc/a00353.html#a5a80774080fc05f90c7d92213fda6788", null ],
+    [ "model_list", "db/ddc/a00353.html#aa0a0fd13eaa3eba090a3085d41303f12", null ]
 ];

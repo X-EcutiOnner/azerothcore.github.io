@@ -1,5 +1,7 @@
 var a00467 =
 [
-    [ "GetAISpellInfo", "d7/d5e/a00467.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
-    [ "IsValidCombatTarget", "d7/d5e/a00467.html#a981f03ba3b8c59eb1fa9d22df158ba19", null ]
+    [ "Tokenize", "d7/d5e/a00467.html#ac486e8c9cdad8809eacd83339cdb121d", null ],
+    [ "Tokenize", "d7/d5e/a00467.html#a6d70d7cc315896984da481f843d6f95f", null ],
+    [ "Tokenize", "d7/d5e/a00467.html#aafa458089884fd3ec682db1762ced09d", null ],
+    [ "Tokenize", "d7/d5e/a00467.html#a6b121485ace4118b9006db1fb89f90f2", null ]
 ];

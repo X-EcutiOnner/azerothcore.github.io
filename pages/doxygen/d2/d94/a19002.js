@@ -1,6 +1,5 @@
 var a19002 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "d4/d82/a19006.html", "d4/d82/a19006" ],
-    [ "npc_icc_skybreaker_hierophant", "d2/d94/a19002.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
-    [ "GetAI", "d2/d94/a19002.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
+    [ "achievement_portal_jockey", "d2/d94/a19002.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
+    [ "OnCheck", "d2/d94/a19002.html#a2695b1fee353be7340f319c632a43efc", null ]
 ];

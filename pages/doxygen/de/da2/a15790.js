@@ -1,7 +1,8 @@
 var a15790 =
 [
-    [ "HandleDummy", "de/da2/a15790.html#a30a87266b89021caf7d05c45397f70d1", null ],
-    [ "PrepareSpellScript", "de/da2/a15790.html#a43a92b346088d710719722e8feed9634", null ],
-    [ "Register", "de/da2/a15790.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
-    [ "Validate", "de/da2/a15790.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
+    [ "npc_obsidian_eradicator", "de/da2/a15790.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "de/da2/a15790.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "de/da2/a15790.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "de/da2/a15790.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "de/da2/a15790.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

@@ -1,6 +1,7 @@
 var a23438 =
 [
-    [ "HandleCast", "d1/d87/a23438.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "d1/d87/a23438.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "d1/d87/a23438.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "HandleScript", "d1/d87/a23438.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
+    [ "PrepareSpellScript", "d1/d87/a23438.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
+    [ "Register", "d1/d87/a23438.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
+    [ "Validate", "d1/d87/a23438.html#a46aca18049e02d50f57579b3fdc705bd", null ]
 ];

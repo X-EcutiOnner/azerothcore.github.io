@@ -1,6 +1,5 @@
 var a12330 =
 [
-    [ "player_settings_commandscript", "d1/d55/a12330.html#ab8585064d4d358d7d48eed97379a3a78", null ],
-    [ "GetCommands", "d1/d55/a12330.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
-    [ "HandleSettingsAnnouncerFlags", "d1/d55/a12330.html#af505117caa66ed4222e52ff91c486b6e", null ]
+    [ "data", "d6/de9/a05083.html#ga4e97bd1d129d33b86a11c79c8cfa437b", null ],
+    [ "ScriptId", "d6/de9/a05083.html#gaa452a9be01e00154512cb55980737ae6", null ]
 ];

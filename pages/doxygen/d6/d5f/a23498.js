@@ -1,7 +1,6 @@
 var a23498 =
 [
-    [ "Load", "d6/d5f/a23498.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "d6/d5f/a23498.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "d6/d5f/a23498.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "d6/d5f/a23498.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "CalculateDamage", "d6/d5f/a23498.html#a170fb61e3a7358d42cc6506067fb978a", null ],
+    [ "PrepareSpellScript", "d6/d5f/a23498.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
+    [ "Register", "d6/d5f/a23498.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
 ];

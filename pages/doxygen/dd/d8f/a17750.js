@@ -1,9 +1,6 @@
 var a17750 =
 [
-    [ "npc_stinky_iccAI", "dd/d8f/a17750.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
-    [ "JustDied", "dd/d8f/a17750.html#a7fa392980e2d30c935b79377df8dc694", null ],
-    [ "JustEngagedWith", "dd/d8f/a17750.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
-    [ "Reset", "dd/d8f/a17750.html#ac66e3398598576fdc889a7b56646eecf", null ],
-    [ "UpdateAI", "dd/d8f/a17750.html#af6e04824ea1682c529e8579a306d34ca", null ],
-    [ "events", "dd/d8f/a17750.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
+    [ "HandleScript", "dd/d8f/a17750.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
+    [ "PrepareSpellScript", "dd/d8f/a17750.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
+    [ "Register", "dd/d8f/a17750.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
 ];

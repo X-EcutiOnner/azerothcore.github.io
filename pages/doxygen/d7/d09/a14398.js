@@ -1,12 +1,6 @@
 var a14398 =
 [
-    [ "npc_chained_spirit", "d7/d09/a14398.html#a5f407e700a2086f971bed0e8c0def0db", null ],
-    [ "DoAction", "d7/d09/a14398.html#a7205ef13ca0d164a9222c049bc582254", null ],
-    [ "JustDied", "d7/d09/a14398.html#a3b405503231173e7ff7aa52e34f63da5", null ],
-    [ "MovementInform", "d7/d09/a14398.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
-    [ "Reset", "d7/d09/a14398.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
-    [ "SetGUID", "d7/d09/a14398.html#a794cf63fabc0c3f7ab9214750fa232a9", null ],
-    [ "UpdateAI", "d7/d09/a14398.html#a38d14b69c71bf2902a916028580fbfad", null ],
-    [ "instance", "d7/d09/a14398.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
-    [ "revivePlayerGUID", "d7/d09/a14398.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
+    [ "go", "d7/d09/a14398.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
+    [ "npc", "d7/d09/a14398.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
+    [ "pos", "d7/d09/a14398.html#a51175880a326101b29879d7a6a62c48d", null ]
 ];

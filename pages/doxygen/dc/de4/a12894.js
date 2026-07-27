@@ -1,9 +1,12 @@
 var a12894 =
 [
-    [ "npc_mc_core_hound", "dc/de4/a12894.html#a4768b06f344d6bbf7e3d0cef16e1b75d", null ],
-    [ "DamageTaken", "dc/de4/a12894.html#a1b9cd2776b1a3f363915fc91e1e34414", null ],
-    [ "Reset", "dc/de4/a12894.html#ab2bfa697f694b5b35129b361e171e2a4", null ],
-    [ "UpdateAI", "dc/de4/a12894.html#a9c5081e9c622eb0679cd396caed002b9", null ],
-    [ "instance", "dc/de4/a12894.html#a54da081c07184ebd5eed1ffe9a1dd8ee", null ],
-    [ "serratedBiteTimer", "dc/de4/a12894.html#afbe528a9f7d2afc6d33bf11f589d9dea", null ]
+    [ "go_suppression_device", "dc/de4/a12894.html#ae8d3a5e9ca0bd621065bad9b8ee2733b", null ],
+    [ "Activate", "dc/de4/a12894.html#aab10f7c30f4c7fcf89aa295d830da56f", null ],
+    [ "Deactivate", "dc/de4/a12894.html#aaf01b7e3317e4b032e7c202ebfcb9a68", null ],
+    [ "DoAction", "dc/de4/a12894.html#a036467db9b2661e7048216b03451861b", null ],
+    [ "InitializeAI", "dc/de4/a12894.html#a6f40d8e47699b711466d8d36bdaa424c", null ],
+    [ "UpdateAI", "dc/de4/a12894.html#a00fb90b16c82f9d968cc29275c05675a", null ],
+    [ "_active", "dc/de4/a12894.html#a1accabc06137c07e9f74ea91d068672c", null ],
+    [ "_events", "dc/de4/a12894.html#a43fc9da45057e18811a0efc69e01edc8", null ],
+    [ "_instance", "dc/de4/a12894.html#a8c6b389e2df34d5f47b2599fc78ad072", null ]
 ];

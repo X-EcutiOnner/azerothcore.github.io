@@ -1,6 +1,6 @@
 var a24466 =
 [
-    [ "CheckCast", "d2/de0/a24466.html#aefa91f15300520de7cffad4f4ca82ccf", null ],
-    [ "PrepareSpellScript", "d2/de0/a24466.html#a605e7b8849186c3c2df731cac743a208", null ],
-    [ "Register", "d2/de0/a24466.html#a62533bff915db8323b53352f17c4825f", null ]
+    [ "HandleEffectRemove", "d2/de0/a24466.html#a9472b79a272aff36be657b66883d822f", null ],
+    [ "PrepareAuraScript", "d2/de0/a24466.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
+    [ "Register", "d2/de0/a24466.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
 ];

@@ -1,5 +1,7 @@
 var a08850 =
 [
-    [ "PlayerClassInfo", "dd/d67/a08850.html#a6a0a6db24e144593356e0505946e8f06", null ],
-    [ "levelInfo", "dd/d67/a08850.html#aa234b353361ef0017ec974ca4c8e86f1", null ]
+    [ "UsedPos", "dd/d67/a08850.html#aef230e392619ad4abc2da649d11b2394", null ],
+    [ "dist", "dd/d67/a08850.html#ae73cbe8b0cf3ce714f6654df3a8874de", null ],
+    [ "sign", "dd/d67/a08850.html#a2b5f97425309d56482a1f287b6d5be69", null ],
+    [ "size", "dd/d67/a08850.html#a4ad5a2df36ae9c1cd9130c5efd27af58", null ]
 ];

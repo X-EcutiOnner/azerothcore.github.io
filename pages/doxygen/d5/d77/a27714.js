@@ -1,7 +1,8 @@
 var a27714 =
 [
-    [ "npc_spirit_shadeAI", "d5/d77/a27714.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "d5/d77/a27714.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "d5/d77/a27714.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "d5/d77/a27714.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "HandleDummyTick", "d5/d77/a27714.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
+    [ "HandleRemove", "d5/d77/a27714.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
+    [ "PrepareAuraScript", "d5/d77/a27714.html#a06e45d5f63ef1395b5949482e8393098", null ],
+    [ "Register", "d5/d77/a27714.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
+    [ "Validate", "d5/d77/a27714.html#a9a2da4d163a96526e14f5de76798a784", null ]
 ];

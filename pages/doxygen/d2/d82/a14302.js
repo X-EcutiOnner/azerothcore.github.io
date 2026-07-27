@@ -1,11 +1,7 @@
 var a14302 =
 [
-    [ "boss_hakkarAI", "d2/d82/a14302.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
-    [ "ApplyHakkarPowerStacks", "d2/d82/a14302.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
-    [ "CheckInRoom", "d2/d82/a14302.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
-    [ "EnterEvadeMode", "d2/d82/a14302.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
-    [ "JustDied", "d2/d82/a14302.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
-    [ "JustEngagedWith", "d2/d82/a14302.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
-    [ "Reset", "d2/d82/a14302.html#a52db5743c09088e2e9f1aff1513960f2", null ],
-    [ "UpdateAI", "d2/d82/a14302.html#a1119212465bcf293991d7a520c6ffe42", null ]
+    [ "npc_daphne_stilwellAI", "de/dc7/a14306.html", "de/dc7/a14306" ],
+    [ "npc_daphne_stilwell", "d2/d82/a14302.html#ad844c5f0409936d7068ee55271506041", null ],
+    [ "GetAI", "d2/d82/a14302.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
+    [ "OnQuestAccept", "d2/d82/a14302.html#a421a7eb4c1391eb82f7874b081c66a36", null ]
 ];

@@ -1,17 +1,13 @@
 var a10578 =
 [
-    [ "AllCreatureScript", "de/dfd/a10578.html#ae933414c901fc5d3606fd5c239156f1b", null ],
-    [ "CanCreatureGossipHello", "de/dfd/a10578.html#a2cf3bd5ad27bf97fde905bc69a6dec5e", null ],
-    [ "CanCreatureGossipSelect", "de/dfd/a10578.html#a551633c543dd01e876ee10452b98fb5e", null ],
-    [ "CanCreatureGossipSelectCode", "de/dfd/a10578.html#aa193e968ecc1639ca33fee052dafb0b3", null ],
-    [ "CanCreatureQuestAccept", "de/dfd/a10578.html#af45ef5e7a0a6b3ca6126d5af87753b5c", null ],
-    [ "CanCreatureQuestReward", "de/dfd/a10578.html#a31659a18df4206122a56ce69f3e4809d", null ],
-    [ "GetCreatureAI", "de/dfd/a10578.html#a1e568b6f85a8b60a65a987c8d081ca3e", null ],
-    [ "OnAllCreatureUpdate", "de/dfd/a10578.html#abba47678a4f5e73c2db3b27b4cfa3dbe", null ],
-    [ "OnBeforeCreatureSelectLevel", "de/dfd/a10578.html#a136f18625787127115566bb4625fc490", null ],
-    [ "OnCreatureAddWorld", "de/dfd/a10578.html#aa5ba65ba430a95724a814311382c9a67", null ],
-    [ "OnCreatureRemoveWorld", "de/dfd/a10578.html#aba119c6b59f3dd4a489bb227c1b1208d", null ],
-    [ "OnCreatureSaveToDB", "de/dfd/a10578.html#acad4f67abbd5906f38be136be2ae1f53", null ],
-    [ "OnCreatureSelectLevel", "de/dfd/a10578.html#a72e4b4f205e153cb72c3401028b065c9", null ],
-    [ "OnFfaPvpStateUpdate", "de/dfd/a10578.html#a8022ccb5b3d0b6d900512f3d8ea6dbfa", null ]
+    [ "entry", "de/dfd/a10578.html#a300fb240386044aab139e777d6244d19", null ],
+    [ "map", "de/dfd/a10578.html#a2ec529bbd5b03490899a5c3a41cf739a", null ],
+    [ "o", "de/dfd/a10578.html#a379e36eac68d8ff487c90fdb9be0e83d", null ],
+    [ "rot0", "de/dfd/a10578.html#a8b808a7545a7efaf0bf352ec663ca9ba", null ],
+    [ "rot1", "de/dfd/a10578.html#a9aa433644fc5bedbb3749eacfd9a57fd", null ],
+    [ "rot2", "de/dfd/a10578.html#ae7c9755e9ae6293b3be8bdc121040f7f", null ],
+    [ "rot3", "de/dfd/a10578.html#a60460fc3030b24eef0246dae28af2282", null ],
+    [ "x", "de/dfd/a10578.html#a1587c3d17c78e1a94a1f2bc30b831c02", null ],
+    [ "y", "de/dfd/a10578.html#ab42ebe981ba589e3d67110487bd88255", null ],
+    [ "z", "de/dfd/a10578.html#a389d430f290dbb66d46ccb81daac6f0d", null ]
 ];

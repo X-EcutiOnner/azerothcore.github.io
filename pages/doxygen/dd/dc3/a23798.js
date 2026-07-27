@@ -1,10 +1,7 @@
 var a23798 =
 [
-    [ "npc_infernal_attackerAI", "dd/dc3/a23798.html#ae04c4e026f22bd650bb33940b923df9a", null ],
-    [ "IsSummonedBy", "dd/dc3/a23798.html#a926e6cd6772784872a905de7245007ac", null ],
-    [ "JustDied", "dd/dc3/a23798.html#a1822131520f98dd5f1dd637282f20ae3", null ],
-    [ "Reset", "dd/dc3/a23798.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
-    [ "SpellHit", "dd/dc3/a23798.html#a956f3fb1e341519817599df08afc2589", null ],
-    [ "UpdateAI", "dd/dc3/a23798.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
-    [ "casterGUID", "dd/dc3/a23798.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
+    [ "CastQuill", "dd/dc3/a23798.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "dd/dc3/a23798.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "dd/dc3/a23798.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "dd/dc3/a23798.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

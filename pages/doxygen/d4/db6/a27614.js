@@ -1,5 +1,6 @@
 var a27614 =
 [
-    [ "achievement_tilted", "d4/db6/a27614.html#a868d7b8a437434d6dc34b5000c429e66", null ],
-    [ "OnCheck", "d4/db6/a27614.html#a61d3eb78450383485699532d96f79d93", null ]
+    [ "HandleProc", "d4/db6/a27614.html#afb4fb2152937e62982aab2a17820d1d9", null ],
+    [ "PrepareAuraScript", "d4/db6/a27614.html#a43ec587b6e8ac94baba7253dfec47640", null ],
+    [ "Register", "d4/db6/a27614.html#ad0824cc4c53915239d609aa117fc4691", null ]
 ];

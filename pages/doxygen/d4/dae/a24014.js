@@ -1,8 +1,9 @@
 var a24014 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "d4/dae/a24014.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "d4/dae/a24014.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "d4/dae/a24014.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "d4/dae/a24014.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "d4/dae/a24014.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d4/dae/a24014.html#a273d585416dc92d39d5ec3824c08504d", null ],
+    [ "IsSummonedBy", "d4/dae/a24014.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
+    [ "Reset", "d4/dae/a24014.html#a06fa50580efeab8d847a05f20956d175", null ],
+    [ "UpdateAI", "d4/dae/a24014.html#a8261a259cfbee0d3610ee441406fafcd", null ],
+    [ "playerGuid", "d4/dae/a24014.html#aab717dd49284c483759a6223dbd7e6ea", null ],
+    [ "timer", "d4/dae/a24014.html#afba1b71178c563a3db906057cd20de45", null ]
 ];

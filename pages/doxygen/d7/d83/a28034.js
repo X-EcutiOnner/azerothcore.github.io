@@ -1,11 +1,7 @@
 var a28034 =
 [
-    [ "npc_artoriusAI", "d7/d83/a28034.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
-    [ "DamageTaken", "d7/d83/a28034.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
-    [ "DoAction", "d7/d83/a28034.html#abbfc9ee752d97f1694dbd739719843c2", null ],
-    [ "JustEngagedWith", "d7/d83/a28034.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
-    [ "Reset", "d7/d83/a28034.html#a862cc52a9251e2dfe486f1152dae9500", null ],
-    [ "SpellHit", "d7/d83/a28034.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
-    [ "UpdateAI", "d7/d83/a28034.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
-    [ "events", "d7/d83/a28034.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
+    [ "CharacterDeleteActionIpLogger", "d7/d83/a28034.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "d7/d83/a28034.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "d7/d83/a28034.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "d7/d83/a28034.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

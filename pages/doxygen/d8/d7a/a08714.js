@@ -1,16 +1,12 @@
 var a08714 =
 [
-    [ "UpdateState", "d8/d7a/a08714.html#aa4f58928ebfbd115280b12866d9b7d23", [
-      [ "NotUpdating", "d8/d7a/a08714.html#aa4f58928ebfbd115280b12866d9b7d23a29cf8e7615ba78787e84d5298e9835ba", null ],
-      [ "PendingAdd", "d8/d7a/a08714.html#aa4f58928ebfbd115280b12866d9b7d23acc2e650db938ff5bf5525de448cd8ddf", null ],
-      [ "Updating", "d8/d7a/a08714.html#aa4f58928ebfbd115280b12866d9b7d23ad1caed37f15232d71507dbf81af2a919", null ]
-    ] ],
-    [ "UpdatableMapObject", "d8/d7a/a08714.html#a5602f3b21fe1299e300e71d645f3eaee", null ],
-    [ "GetMapUpdateListOffset", "d8/d7a/a08714.html#a52bf945e86eba8c73701a3e378503eeb", null ],
-    [ "GetUpdateState", "d8/d7a/a08714.html#a90b2d1a9f5b356f013ac4a357020de66", null ],
-    [ "SetMapUpdateListOffset", "d8/d7a/a08714.html#aef864d62d4cbefb63647fe691d69dfd4", null ],
-    [ "SetUpdateState", "d8/d7a/a08714.html#a7c95f861c7e13c17e2ebf8088882a709", null ],
-    [ "Map", "d8/d7a/a08714.html#ad2f32e921244459f7cc6d50355429cc6", null ],
-    [ "_mapUpdateListOffset", "d8/d7a/a08714.html#af4aaf71a3308e72af67f20bf0e7ced57", null ],
-    [ "_mapUpdateState", "d8/d7a/a08714.html#a46f9010396bb1bd84fb654bbe2795f8e", null ]
+    [ "QuaternionData", "d8/d7a/a08714.html#a8a582c133d5fba901470a776c7144432", null ],
+    [ "QuaternionData", "d8/d7a/a08714.html#a7f68a7bf3da861de017168eef5b8c6a0", null ],
+    [ "FromEulerAnglesZYX", "d8/d7a/a08714.html#a4c5f4bc5c0bd4fff3f3ad77e6fd74c09", null ],
+    [ "IsUnit", "d8/d7a/a08714.html#ab0330c115f97ff6368d8e8ab9820191e", null ],
+    [ "ToEulerAnglesZYX", "d8/d7a/a08714.html#a65c564f6ae82c8f1bfb8f7786b5f0b90", null ],
+    [ "w", "d8/d7a/a08714.html#a1f5567b478ebb94161786c85a29ad66a", null ],
+    [ "x", "d8/d7a/a08714.html#aca37b701a67eefbf72922a5e7bf98cb2", null ],
+    [ "y", "d8/d7a/a08714.html#ac222999cbb4681893fe591a5afc3587d", null ],
+    [ "z", "d8/d7a/a08714.html#a7418b0e143cc32169864d77870db5ad7", null ]
 ];

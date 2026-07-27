@@ -1,15 +1,18 @@
 var a17422 =
 [
-    [ "boss_gal_darah", "de/d44/a17422.html#a036b5f96ecf5096040f16e0205e4d57c", null ],
-    [ "GetData", "de/d44/a17422.html#a1f8ec6a0a95b10953506e08275db7a2c", null ],
-    [ "JustDied", "de/d44/a17422.html#a98f53f7131155114da1eeb19f5a50daa", null ],
-    [ "JustEngagedWith", "de/d44/a17422.html#acf7696bdfa868808f29a90dbec4b0688", null ],
-    [ "JustReachedHome", "de/d44/a17422.html#aba3c2011a01d4e00b7e1c28f0c4326b9", null ],
-    [ "JustSummoned", "de/d44/a17422.html#a490e259cf452c417864c978510d06fd2", null ],
-    [ "KilledUnit", "de/d44/a17422.html#a799e52cfe029164149017ea7f963937f", null ],
-    [ "Reset", "de/d44/a17422.html#a712339fe4a06d6a4836f4cbb5bd01625", null ],
-    [ "ScheduleEvents", "de/d44/a17422.html#ad5acba3d3bc049bb5bdcb95d31ef06d6", null ],
-    [ "SpellHit", "de/d44/a17422.html#a3f8cbe22aa2e0d39272b5b4dbfc5f06b", null ],
-    [ "_stampedeVictim", "de/d44/a17422.html#a0d34c4486c4188fcc6eb75e904d52a61", null ],
-    [ "impaledList", "de/d44/a17422.html#a08f311b7b7cec3bc4056b7d7071bfbf0", null ]
+    [ "boss_garfrostAI", "de/d44/a17422.html#af9f0a6bc8b982b025312d6b2c1f91549", null ],
+    [ "DamageTaken", "de/d44/a17422.html#a7a033f54f2c994c74b7125fb549af513", null ],
+    [ "EnterEvadeMode", "de/d44/a17422.html#acca25c3bf34760ed1f0e451d8d304ab6", null ],
+    [ "JustDied", "de/d44/a17422.html#a6439d3163c49973b36ae10c85b9dd11e", null ],
+    [ "JustEngagedWith", "de/d44/a17422.html#a06e1b8d8e0b1f0fd5fac0b2a4bad4ad6", null ],
+    [ "KilledUnit", "de/d44/a17422.html#af3751410e925a20c21b282d1b2de3bf3", null ],
+    [ "MovementInform", "de/d44/a17422.html#aadebdb2dd4402be150711f98dfab3f5f", null ],
+    [ "Reset", "de/d44/a17422.html#a916fd78cf3fd309ab8b13c96325002f2", null ],
+    [ "SetData", "de/d44/a17422.html#a3563e70e731836857837b1d4ac135130", null ],
+    [ "SpellHitTarget", "de/d44/a17422.html#ab7a4941d3d4565215ab3ac200ee1d534", null ],
+    [ "UpdateAI", "de/d44/a17422.html#a27cf76c48504dfb21f1a4a0caf9dd4cb", null ],
+    [ "bCanSayBoulderHit", "de/d44/a17422.html#a587196314c341334418ea19c7f9ea597", null ],
+    [ "events", "de/d44/a17422.html#addafeb61c54f95e71d9c45de3bddd25b", null ],
+    [ "phase", "de/d44/a17422.html#a917a6a57e8c55b9be92f01e2e7422508", null ],
+    [ "pInstance", "de/d44/a17422.html#a57ded0b0c7085ea978c01efa28e7d096", null ]
 ];

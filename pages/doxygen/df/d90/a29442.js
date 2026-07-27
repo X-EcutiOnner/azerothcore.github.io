@@ -1,9 +1,7 @@
 var a29442 =
 [
-    [ "SetUp", "df/d90/a29442.html#a20b3a8161766a47ae37349f02cbe5b90", null ],
-    [ "TearDown", "df/d90/a29442.html#a9b41e4a95a6ca160c70272dfb90b5f8a", null ],
-    [ "creatureQuestMap", "df/d90/a29442.html#ae8b815994792f237cf6e1803b9eaa7f7", null ],
-    [ "TEST_CREATURE_ID", "df/d90/a29442.html#a80a79959d4b5520f7acf671677a671e9", null ],
-    [ "TEST_POOL_ID", "df/d90/a29442.html#aa81759d0539b72ad3cdda7d2231f8e63", null ],
-    [ "TEST_QUEST_ID", "df/d90/a29442.html#a26e68107bb625d0c5b6281c7df9199be", null ]
+    [ "TalentSpellPos", "df/d90/a29442.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
+    [ "TalentSpellPos", "df/d90/a29442.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
+    [ "rank", "df/d90/a29442.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
+    [ "talent_id", "df/d90/a29442.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
 ];

@@ -1,5 +1,6 @@
 var a22990 =
 [
-    [ "boss_quagmirran", "dc/d0a/a22990.html#a7f6289b86216b052f434a1417023e22c", null ],
-    [ "JustEngagedWith", "dc/d0a/a22990.html#a28253b6653bd2e26e7f246c71a88b625", null ]
+    [ "npc_supremus_punch_invisible_stalker", "dc/d0a/a22990.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "dc/d0a/a22990.html#a2220bc31f2ef91a154a9a4eae38aa14b", null ],
+    [ "UpdateAI", "dc/d0a/a22990.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

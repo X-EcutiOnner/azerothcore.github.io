@@ -1,7 +1,6 @@
 var a02315 =
 [
-    [ "FieldTypeToString", "d7/d0c/a02315.html#a9b1d39b7abfe176191c0ed27188ed310", null ],
-    [ "InitializeDatabaseFieldMetadata", "d7/d0c/a02315.html#a5e0e57902060d1fcd32688acb949b98e", null ],
-    [ "MysqlTypeToFieldType", "d7/d0c/a02315.html#a1a26932646b97d033efdf53078561a90", null ],
-    [ "SizeForType", "d7/d0c/a02315.html#ae077e892df09ce687a0a50be949ad69f", null ]
+    [ "CharacterCacheEntry", "d0/db7/a07866.html", "d0/db7/a07866" ],
+    [ "CharacterCache", "d0/dd3/a07870.html", "d0/dd3/a07870" ],
+    [ "sCharacterCache", "d7/d0c/a02315.html#a7a32c898b33d6163d83a32f46d58517c", null ]
 ];

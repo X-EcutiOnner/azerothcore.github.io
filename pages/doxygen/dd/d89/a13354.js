@@ -1,7 +1,12 @@
 var a13354 =
 [
-    [ "CheckCast", "dd/d89/a13354.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
-    [ "HandleScriptEffect", "dd/d89/a13354.html#af265f0bba7028f45763a7f9afea2d051", null ],
-    [ "PrepareSpellScript", "dd/d89/a13354.html#a27518fd5482e65e0324100057e747d68", null ],
-    [ "Register", "dd/d89/a13354.html#a07789d7d092eb1b6633200442466c52b", null ]
+    [ "boss_bigbadwolf", "dd/d89/a13354.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
+    [ "EnterEvadeMode", "dd/d89/a13354.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
+    [ "JustDied", "dd/d89/a13354.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
+    [ "JustEngagedWith", "dd/d89/a13354.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
+    [ "JustReachedHome", "dd/d89/a13354.html#a7755bf925d919c73075a41f8774280c0", null ],
+    [ "KilledUnit", "dd/d89/a13354.html#a8e004a1feac796ed467eba744f211827", null ],
+    [ "UpdateAI", "dd/d89/a13354.html#ab788a0155a3ffe6535d58263eea16dee", null ],
+    [ "_scheduler", "dd/d89/a13354.html#a661d9b619be30764ba5b89d71de870e9", null ],
+    [ "instance", "dd/d89/a13354.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
 ];

@@ -1,8 +1,6 @@
 var a18750 =
 [
-    [ "npc_suppresserAI", "d0/d14/a18750.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
-    [ "AttackStart", "d0/d14/a18750.html#ae36105de1df1dd9841332d9a8e7799be", null ],
-    [ "IsSummonedBy", "d0/d14/a18750.html#a35ec340b2d02a14707fc353428b1298d", null ],
-    [ "UpdateAI", "d0/d14/a18750.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
-    [ "_instance", "d0/d14/a18750.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
+    [ "ModDestHeight", "d0/d14/a18750.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
+    [ "PrepareSpellScript", "d0/d14/a18750.html#a288f8917d73be30234e465778b1f6544", null ],
+    [ "Register", "d0/d14/a18750.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
 ];

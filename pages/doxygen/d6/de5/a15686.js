@@ -1,7 +1,6 @@
 var a15686 =
 [
-    [ "npc_prophet_velen", "d6/de5/a15686.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
-    [ "JustDied", "d6/de5/a15686.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
-    [ "Reset", "d6/de5/a15686.html#a5beec39fd545129d0f124bb19524f95c", null ],
-    [ "UpdateAI", "d6/de5/a15686.html#a2d016ecfedc5c7e886e7412081b54792", null ]
+    [ "FilterTargets", "d6/de5/a15686.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
+    [ "PrepareSpellScript", "d6/de5/a15686.html#a32b0be74a9127f920e22aa03c910a005", null ],
+    [ "Register", "d6/de5/a15686.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
 ];

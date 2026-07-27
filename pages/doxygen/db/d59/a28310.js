@@ -1,5 +1,6 @@
 var a28310 =
 [
-    [ "ServerMailReward", "db/d59/a28310.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
-    [ "OnPlayerLogin", "db/d59/a28310.html#ada945e805278d54746b6fabaf48b4546", null ]
+    [ "go_amberpine_outhouse", "db/d59/a28310.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
+    [ "OnGossipHello", "db/d59/a28310.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
+    [ "OnGossipSelect", "db/d59/a28310.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
 ];

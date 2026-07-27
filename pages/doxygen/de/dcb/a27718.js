@@ -1,6 +1,7 @@
 var a27718 =
 [
-    [ "boss_emerissAI", "d2/d76/a27722.html", "d2/d76/a27722" ],
-    [ "boss_emeriss", "de/dcb/a27718.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "de/dcb/a27718.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "HandleTeleport", "de/dcb/a27718.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "de/dcb/a27718.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "de/dcb/a27718.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "de/dcb/a27718.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

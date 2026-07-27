@@ -1,6 +1,9 @@
 var a26886 =
 [
-    [ "HandleSendEvent", "df/d2d/a26886.html#a8126102215aa6eedd638b89d1a6b7110", null ],
-    [ "PrepareSpellScript", "df/d2d/a26886.html#abc57ba05637e2c51bf2d1fb918a93667", null ],
-    [ "Register", "df/d2d/a26886.html#ac37abad48c398bdb22529c1a44327d34", null ]
+    [ "CheckCast", "df/d2d/a26886.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
+    [ "HandleDummy", "df/d2d/a26886.html#a7f79495525687fba6229f48935b2558a", null ],
+    [ "Load", "df/d2d/a26886.html#a0c73457e44a3d64bdccee78d28893672", null ],
+    [ "PrepareSpellScript", "df/d2d/a26886.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
+    [ "Register", "df/d2d/a26886.html#ab9f09394ab301350a2abaefde90632fe", null ],
+    [ "Validate", "df/d2d/a26886.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
 ];

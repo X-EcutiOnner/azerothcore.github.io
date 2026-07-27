@@ -1,8 +1,5 @@
 var a08246 =
 [
-    [ "LfgPlayerRewardData", "d3/d99/a08246.html#afe99288f8d7028a5a54317e73e3f2c01", null ],
-    [ "done", "d3/d99/a08246.html#a91ba12acf66d631af2de45513f20b702", null ],
-    [ "quest", "d3/d99/a08246.html#abd051091fec6835f63bafa98a045142b", null ],
-    [ "rdungeonEntry", "d3/d99/a08246.html#a87623ce14ef1d123d226e37e227a566d", null ],
-    [ "sdungeonEntry", "d3/d99/a08246.html#abe9c93ab7f3a421dd3c44414a0987277", null ]
+    [ "ThreatReferenceImpl", "d3/d99/a08246.html#ae69492bf301cc65e2554ac6d46039086", null ],
+    [ "_handle", "d3/d99/a08246.html#a500806ed499b69bcae1d9a05071dea2c", null ]
 ];

@@ -1,6 +1,6 @@
 var a14426 =
 [
-    [ "HandleObjectAreaTargetSelect", "d9/d76/a14426.html#aa7695bddd766d5adefb04710d41894f6", null ],
-    [ "PrepareSpellScript", "d9/d76/a14426.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
-    [ "Register", "d9/d76/a14426.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
+    [ "OnEffect", "d9/d76/a14426.html#ab87d53faac04ced3c11088e260782068", null ],
+    [ "PrepareSpellScript", "d9/d76/a14426.html#af618e8d84029dda5e48b699cbcf671be", null ],
+    [ "Register", "d9/d76/a14426.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
 ];

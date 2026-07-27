@@ -1,5 +1,6 @@
 var a27570 =
 [
-    [ "achievement_bg_control_all_nodes", "d4/def/a27570.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
-    [ "OnCheck", "d4/def/a27570.html#a69609eb5488519fa5a1f43b13a80e280", null ]
+    [ "CheckProc", "d4/def/a27570.html#a705be9d078a9c7b04bcec0594cab9ac5", null ],
+    [ "PrepareAuraScript", "d4/def/a27570.html#a68fd79f1f62bcc748f9cce4423632f7f", null ],
+    [ "Register", "d4/def/a27570.html#acac1c6d063090bf191fcd202d7d07c20", null ]
 ];

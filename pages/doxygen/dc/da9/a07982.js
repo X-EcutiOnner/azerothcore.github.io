@@ -1,18 +1,10 @@
 var a07982 =
 [
-    [ "ChatCommandResult", "dc/da9/a07982.html#ade9593924f234a1fd4c1c1af0e2ba1f1", null ],
-    [ "ChatCommandResult", "dc/da9/a07982.html#a50e51a5c55d146c67d834c86aee4daef", null ],
-    [ "ChatCommandResult", "dc/da9/a07982.html#abcee148bb3da225ec4a4c67abcc90316", null ],
-    [ "ChatCommandResult", "dc/da9/a07982.html#a8b18e436b6e7d8040b2a9667d06baaa0", null ],
-    [ "ChatCommandResult", "dc/da9/a07982.html#aabf608d55fbdbed0db92a80049e8835f", null ],
-    [ "ChatCommandResult", "dc/da9/a07982.html#a48cf3f3df0e07e220d44096e7b628a72", null ],
-    [ "ChatCommandResult", "dc/da9/a07982.html#a9b7c7996bcc4a601c957d2bfc66ec41c", null ],
-    [ "GetErrorMessage", "dc/da9/a07982.html#abb0aa9f55f86ab7d54b7b3a894dcd237", null ],
-    [ "HasErrorMessage", "dc/da9/a07982.html#a74f331d2e68ddf7cefc14b4c47369311", null ],
-    [ "IsSuccessful", "dc/da9/a07982.html#aa4373a403bed4b58eac5e83099f32b4f", null ],
-    [ "operator bool", "dc/da9/a07982.html#a7b92f80ef21e6a0a799f3b4197453117", null ],
-    [ "operator*", "dc/da9/a07982.html#af89a617e842edaf1a4ee1cff95d2c4e3", null ],
-    [ "operator=", "dc/da9/a07982.html#a50c4384a9719bc33f1e997dadc177bb6", null ],
-    [ "operator=", "dc/da9/a07982.html#ae927434b72c1017f1dedced244d7021a", null ],
-    [ "_storage", "dc/da9/a07982.html#ab825b76e8cb19ad6d6bc6cb35780e89b", null ]
+    [ "value_type", "dc/da9/a07982.html#a821f7b556a5e7dd88e406eb856a5b635", null ],
+    [ "operator()", "dc/da9/a07982.html#a51db58c653c279b30d19e9188894adec", null ],
+    [ "operator()", "dc/da9/a07982.html#a6225e55f229eca06eef7e6c27531bbe9", null ],
+    [ "operator()", "dc/da9/a07982.html#ab516399a6965a67daed318a1058c87ef", null ],
+    [ "operator()", "dc/da9/a07982.html#abeeef774a78ec84f0020686aab425a5c", null ],
+    [ "operator()", "dc/da9/a07982.html#a0d4e9cb0ae75752363793d29599afbdc", null ],
+    [ "operator()", "dc/da9/a07982.html#a4a277a9ad5764e42c53746999e004b88", null ]
 ];

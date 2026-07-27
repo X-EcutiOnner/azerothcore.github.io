@@ -1,7 +1,6 @@
 var a28382 =
 [
-    [ "HandleDummy", "d0/d06/a28382.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
-    [ "PrepareSpellScript", "d0/d06/a28382.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
-    [ "Register", "d0/d06/a28382.html#a3fda4d652c1264b3cfababdd98297c61", null ],
-    [ "Validate", "d0/d06/a28382.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
+    [ "trigger_periodicAI", "da/d36/a28386.html", "da/d36/a28386" ],
+    [ "trigger_periodic", "d0/d06/a28382.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
+    [ "GetAI", "d0/d06/a28382.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
 ];

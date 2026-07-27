@@ -1,5 +1,7 @@
 var a19534 =
 [
-    [ "achievement_intense_cold", "d4/dc7/a19534.html#a2377357d6bfc03e5b91354428d3da3de", null ],
-    [ "OnCheck", "d4/dc7/a19534.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
+    [ "HandleRemove", "d4/dc7/a19534.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
+    [ "PrepareAuraScript", "d4/dc7/a19534.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
+    [ "Register", "d4/dc7/a19534.html#ad7ba015a7878adad0820cf378d2632ca", null ],
+    [ "Validate", "d4/dc7/a19534.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
 ];

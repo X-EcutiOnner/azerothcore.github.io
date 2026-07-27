@@ -1,11 +1,13 @@
 var a13610 =
 [
-    [ "spell_eredar_twins_handle_touch_periodic", "d2/d57/a13610.html#aa41bba6ce2889eb2a58409b611f53e49", null ],
-    [ "OnPeriodic", "d2/d57/a13610.html#a8d863af82300eacc1456a08f8461d5a7", null ],
-    [ "PrepareAuraScript", "d2/d57/a13610.html#af04b38478379a10c5d94a7e4216ad9fa", null ],
-    [ "Register", "d2/d57/a13610.html#a4908c5c3e6afdf0305dfb4729cfba503", null ],
-    [ "Validate", "d2/d57/a13610.html#aebeee23df951737b99e7a4ab026cbb1b", null ],
-    [ "_aura", "d2/d57/a13610.html#a0b1df96674584554d53688e993c2a310", null ],
-    [ "_effectIndex", "d2/d57/a13610.html#aa873d0475c70db5c5ba9cea802dc3569", null ],
-    [ "_touchSpell", "d2/d57/a13610.html#ae60a5c2918105785805dc45b3942ee4a", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "d2/d57/a13610.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
+    [ "Initialize", "d2/d57/a13610.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
+    [ "OnCreatureCreate", "d2/d57/a13610.html#a3f9cca96886b97f7657edc04f4997d41", null ],
+    [ "OnGameObjectCreate", "d2/d57/a13610.html#ad420b6b549b8d76a80844d81548b1143", null ],
+    [ "ReadSaveDataMore", "d2/d57/a13610.html#a83a24703aafb973809618d3ac3ac0375", null ],
+    [ "SetData", "d2/d57/a13610.html#abdc105e9306d9abc776259be97e2488f", null ],
+    [ "WriteSaveDataMore", "d2/d57/a13610.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
+    [ "_apothecaryHummel", "d2/d57/a13610.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
+    [ "_crazedApothecaryGeneratorGUIDs", "d2/d57/a13610.html#a00880eedbbc2deb4dc36e4c851558861", null ],
+    [ "_encounters", "d2/d57/a13610.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
 ];

@@ -1,6 +1,8 @@
 var a23058 =
 [
-    [ "HandleScript", "d8/d4b/a23058.html#ae45f8a366c1594d3723b83ee6e006957", null ],
-    [ "PrepareSpellScript", "d8/d4b/a23058.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
-    [ "Register", "d8/d4b/a23058.html#a6b9e449a64747f0a5715424295b1c30f", null ]
+    [ "CalcPeriodic", "d8/d4b/a23058.html#aad87c25b9b3255a4871bec39d9787299", null ],
+    [ "PrepareAuraScript", "d8/d4b/a23058.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
+    [ "Register", "d8/d4b/a23058.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
+    [ "Update", "d8/d4b/a23058.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
+    [ "Validate", "d8/d4b/a23058.html#ae4f7bfb1cd95666acada217173876352", null ]
 ];

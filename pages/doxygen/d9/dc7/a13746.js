@@ -1,7 +1,8 @@
 var a13746 =
 [
-    [ "FilterTargets", "d9/dc7/a13746.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
-    [ "HandleHit", "d9/dc7/a13746.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
-    [ "PrepareSpellScript", "d9/dc7/a13746.html#a905e1f979284a368463ad4829891b6ee", null ],
-    [ "Register", "d9/dc7/a13746.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
+    [ "HandleApply", "d9/dc7/a13746.html#a2e07ffc92d44757fe2b074244048dbf4", null ],
+    [ "HandleRemove", "d9/dc7/a13746.html#ae0d8cb63cf62e5015daa56463524aa27", null ],
+    [ "PrepareAuraScript", "d9/dc7/a13746.html#a4a59bd5c9ce7b74d29cdd6132f94c0bf", null ],
+    [ "Register", "d9/dc7/a13746.html#a3b91d692ad34b7ce965887590780e146", null ],
+    [ "Validate", "d9/dc7/a13746.html#aa3ee5b49e9e1009d5be34214eefd2a6d", null ]
 ];

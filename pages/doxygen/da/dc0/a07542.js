@@ -1,7 +1,7 @@
 var a07542 =
 [
-    [ "ArenaSeasonReward", "da/dc0/a07542.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
-    [ "operator==", "da/dc0/a07542.html#a2f04bbb871ab3b90f5dc3121e2bff213", null ],
-    [ "entry", "da/dc0/a07542.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
-    [ "type", "da/dc0/a07542.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
+    [ "AuctionSorter", "da/dc0/a07542.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b", null ],
+    [ "operator()", "da/dc0/a07542.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7", null ],
+    [ "_loc_idx", "da/dc0/a07542.html#a11708aa660757db95c88d9dc7e9b9521", null ],
+    [ "_sort", "da/dc0/a07542.html#a9c777b91d8b80940daee0b32c4f11c37", null ]
 ];

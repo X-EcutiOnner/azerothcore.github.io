@@ -1,7 +1,6 @@
 var a08210 =
 [
-    [ "global_sequence", "dd/da2/a08210.html#afbd5f7baa1b1daf4dda4fe0cf503a97b", null ],
-    [ "interpolation_type", "dd/da2/a08210.html#ac3315ce2b2261a6fd23b0c72ea34aa5e", null ],
-    [ "timestamps", "dd/da2/a08210.html#a8bf7fdd2652275ae553b921196e68d1c", null ],
-    [ "values", "dd/da2/a08210.html#a9d4ea5dfc36b34541e5ba7350df645e1", null ]
+    [ "value_type", "dd/da2/a08210.html#a77339e0f85d207328398ee7121f044d8", null ],
+    [ "StoreTo", "dd/da2/a08210.html#a50290d7098ae9458bfb9c347934a4a0c", null ],
+    [ "tag", "dd/da2/a08210.html#a2833cad2eab45d89d029727ce22bb808", null ]
 ];

@@ -1,6 +1,6 @@
 var a25222 =
 [
-    [ "FilterTargets", "d2/d2c/a25222.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
-    [ "PrepareSpellScript", "d2/d2c/a25222.html#a9fb910382c89750e38cb36bed48a1597", null ],
-    [ "Register", "d2/d2c/a25222.html#a667b10129d2d23f72712be523dc93180", null ]
+    [ "HandleScriptEffect", "d2/d2c/a25222.html#ab3f415ae783f2a778178cc3319b32773", null ],
+    [ "PrepareSpellScript", "d2/d2c/a25222.html#a4ba7f7935c4acda891190dc375086dee", null ],
+    [ "Register", "d2/d2c/a25222.html#ad9b1571b4faf7d0fc6df7f6a8eb05c8a", null ]
 ];

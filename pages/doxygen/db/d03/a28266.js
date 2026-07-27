@@ -1,6 +1,5 @@
 var a28266 =
 [
-    [ "npc_necropolis_proxy", "db/d03/a28266.html#a73f92ee73673172989d48064e5984db0", null ],
-    [ "SpellHit", "db/d03/a28266.html#a90d1ab55683a6409403e24291643cca5", null ],
-    [ "SpellHitTarget", "db/d03/a28266.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
+    [ "go_tele_to_dalaran_crystal", "db/d03/a28266.html#ab41268b7d568e8f189338f27cd90a62c", null ],
+    [ "OnGossipHello", "db/d03/a28266.html#a7f754a29249653ca7848494310ef1a8d", null ]
 ];

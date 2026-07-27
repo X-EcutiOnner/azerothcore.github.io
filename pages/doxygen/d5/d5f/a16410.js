@@ -1,7 +1,9 @@
 var a16410 =
 [
-    [ "HandleDummy", "d5/d5f/a16410.html#ad0782bfbd977954aac6170ee9111aef6", null ],
-    [ "PrepareSpellScript", "d5/d5f/a16410.html#ac456524856c4a3c4913423693a8fd50c", null ],
-    [ "Register", "d5/d5f/a16410.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
-    [ "Validate", "d5/d5f/a16410.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
+    [ "npc_anub_ar_crusher", "d5/d5f/a16410.html#a0520d606e8f8fa6f2c1262e025ea2c1c", null ],
+    [ "DamageTaken", "d5/d5f/a16410.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2", null ],
+    [ "DoEngagedWith", "d5/d5f/a16410.html#a70238afe4b9ae58b99067581db6734c8", null ],
+    [ "DoEvent", "d5/d5f/a16410.html#ac20630563a1869f56f538968cb8bb1ea", null ],
+    [ "JustDied", "d5/d5f/a16410.html#a66dc8cb3dc096dc0aa5b464879773df7", null ],
+    [ "_hadFrenzy", "d5/d5f/a16410.html#a0e3c9d35a654e82d5f845b820de2a9a1", null ]
 ];

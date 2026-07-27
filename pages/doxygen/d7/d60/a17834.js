@@ -1,6 +1,6 @@
 var a17834 =
 [
-    [ "npc_gunship_boarding_add_realAI", "d7/d60/a17834.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
-    [ "UpdateAI", "d7/d60/a17834.html#a33ac355c8f61907574a0736a24cbee82", null ],
-    [ "_events", "d7/d60/a17834.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
+    [ "FilterTargets", "d7/d60/a17834.html#a59255a2cee0f9d8a75ca183647851779", null ],
+    [ "PrepareSpellScript", "d7/d60/a17834.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
+    [ "Register", "d7/d60/a17834.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
 ];

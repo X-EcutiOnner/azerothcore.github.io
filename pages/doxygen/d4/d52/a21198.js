@@ -1,10 +1,14 @@
 var a21198 =
 [
-    [ "npc_sinkhole_kill_creditAI", "d4/d52/a21198.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
-    [ "Reset", "d4/d52/a21198.html#a677990d64d2963ff995d9d8522c5aa81", null ],
-    [ "SpellHit", "d4/d52/a21198.html#a95eaf518fb18b67820d6195cd525b017", null ],
-    [ "UpdateAI", "d4/d52/a21198.html#a75611004a543bece9d3f51914547f2fe", null ],
-    [ "casterGuid", "d4/d52/a21198.html#a147921788b07f5e776e03aaf15049cf0", null ],
-    [ "phase", "d4/d52/a21198.html#aa45455a8d540d6f942c948cf56d11f05", null ],
-    [ "phaseTimer", "d4/d52/a21198.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
+    [ "boss_dalronn_the_controller", "d4/d52/a21198.html#a57718e928fa273bba3c40a05d5888a3d", null ],
+    [ "DoAction", "d4/d52/a21198.html#ad11e43d40a61f093b5e51482437467b8", null ],
+    [ "JustDied", "d4/d52/a21198.html#a28a669b56392b599e124573778e33134", null ],
+    [ "JustEngagedWith", "d4/d52/a21198.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
+    [ "JustSummoned", "d4/d52/a21198.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
+    [ "KilledUnit", "d4/d52/a21198.html#a96a173e30ad81c77217b0693d1d15839", null ],
+    [ "Reset", "d4/d52/a21198.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
+    [ "UpdateAI", "d4/d52/a21198.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
+    [ "events", "d4/d52/a21198.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
+    [ "pInstance", "d4/d52/a21198.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
+    [ "summons", "d4/d52/a21198.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
 ];

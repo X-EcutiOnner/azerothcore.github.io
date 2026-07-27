@@ -1,7 +1,7 @@
 var a26134 =
 [
-    [ "CalculateSpellAmount", "da/d0e/a26134.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
-    [ "CheckCast", "da/d0e/a26134.html#af043f7ee0f80baf667e64225effd57d1", null ],
-    [ "PrepareSpellScript", "da/d0e/a26134.html#a233ac4020722078d865cf980d7fa76cf", null ],
-    [ "Register", "da/d0e/a26134.html#a3648ecd94430e21dd014795156c1eb98", null ]
+    [ "HandleEnergize", "da/d0e/a26134.html#a283e713252166a863aa96530d6e7608b", null ],
+    [ "Load", "da/d0e/a26134.html#a89847e0e9435a708c5722ff928f7033f", null ],
+    [ "PrepareSpellScript", "da/d0e/a26134.html#a8847e05e6eeafd801fca5423d0689432", null ],
+    [ "Register", "da/d0e/a26134.html#ae0778ffd8cf203e22510ee91b0394303", null ]
 ];

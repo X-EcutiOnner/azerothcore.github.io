@@ -1,7 +1,6 @@
 var a17766 =
 [
-    [ "DelayedMovementEvent", "d2/d14/a17766.html#a21241cde30f66ae42edb311542f7405c", null ],
-    [ "Execute", "d2/d14/a17766.html#a8287761226ee671905151891779b6efb", null ],
-    [ "_dest", "d2/d14/a17766.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
-    [ "_owner", "d2/d14/a17766.html#a046942728282a997068de447271f3cbe", null ]
+    [ "ChangeSummonPos", "d2/d14/a17766.html#a2c3d69419762c7f78688a22017a8c535", null ],
+    [ "PrepareSpellScript", "d2/d14/a17766.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
+    [ "Register", "d2/d14/a17766.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
 ];

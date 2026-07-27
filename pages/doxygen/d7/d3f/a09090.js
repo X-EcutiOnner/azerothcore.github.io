@@ -1,14 +1,11 @@
 var a09090 =
 [
-    [ "SafeUnitPointer", "d7/d3f/a09090.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
-    [ "SafeUnitPointer", "d7/d3f/a09090.html#a9ac4023d6ec32f96c757206dd4aa3fd6", null ],
-    [ "~SafeUnitPointer", "d7/d3f/a09090.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
-    [ "Initialize", "d7/d3f/a09090.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
-    [ "operator Unit *", "d7/d3f/a09090.html#afee1d290f436472dd719ff83f41721f5", null ],
-    [ "operator->", "d7/d3f/a09090.html#af63a04a7c6e6cb3002f5a99f90f70328", null ],
-    [ "operator=", "d7/d3f/a09090.html#a44f522d9c22861f853df0286a3764d3e", null ],
-    [ "SetPointedTo", "d7/d3f/a09090.html#a6603c67b736224a8e6559340afa8b275", null ],
-    [ "UnitDeleted", "d7/d3f/a09090.html#a872b0a86328fb03e5feccdf364ea5cce", null ],
-    [ "defaultValue", "d7/d3f/a09090.html#a38dce117cb135c9b84918a9bbc884f28", null ],
-    [ "ptr", "d7/d3f/a09090.html#aa8bf5e4728aeb1ca7a8de1a727a84884", null ]
+    [ "UnitActionBarEntry", "d7/d3f/a09090.html#a41f9020c4811b14fc543ddece6af86d7", null ],
+    [ "GetAction", "d7/d3f/a09090.html#afd77e2f64ec856059759d05ddf77876e", null ],
+    [ "GetType", "d7/d3f/a09090.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
+    [ "IsActionBarForSpell", "d7/d3f/a09090.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
+    [ "SetAction", "d7/d3f/a09090.html#aa00953783b0b3de3beb755a054c77730", null ],
+    [ "SetActionAndType", "d7/d3f/a09090.html#a110840d38445795957ee0425175b4fb6", null ],
+    [ "SetType", "d7/d3f/a09090.html#a38e0dcad391d09e475f90be5a5382f78", null ],
+    [ "packedData", "d7/d3f/a09090.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
 ];

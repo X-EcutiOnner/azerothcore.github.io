@@ -1,10 +1,8 @@
 var a24594 =
 [
-    [ "HandleEffectApply", "d7/d36/a24594.html#ac977d07e0b054af33345538f10d80c56", null ],
-    [ "HandleEffectRemove", "d7/d36/a24594.html#acd9c460acb60eae5db8874c246014147", null ],
-    [ "PrepareAuraScript", "d7/d36/a24594.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
-    [ "Register", "d7/d36/a24594.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
-    [ "_hasFlag", "d7/d36/a24594.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
-    [ "_itemId", "d7/d36/a24594.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
-    [ "_modelId", "d7/d36/a24594.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
+    [ "HandleDamage", "d7/d36/a24594.html#a2c5149eb0b6698240c25b63e71af0854", null ],
+    [ "PrepareSpellScript", "d7/d36/a24594.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
+    [ "Register", "d7/d36/a24594.html#ad29179d9159700b52b0c21a779cd060b", null ],
+    [ "Suicide", "d7/d36/a24594.html#a981f8547eae9b317111bf9a7016510ab", null ],
+    [ "Validate", "d7/d36/a24594.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
 ];

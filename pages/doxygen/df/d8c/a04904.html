@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Asio/IpNetwork.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Modules/OmenOfClarityGlyphLockTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,41 +105,100 @@ $(document).ready(function(){initNavTree('df/d8c/a04904.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">IpNetwork.h File Reference</div></div>
+<a href="#define-members">Macros</a> &#124;
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">OmenOfClarityGlyphLockTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">IpAddress.h</a>&quot;</code><br />
-<code>#include &lt;boost/asio/ip/network_v4.hpp&gt;</code><br />
-<code>#include &lt;boost/asio/ip/network_v6.hpp&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">TestPlayer.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TestMap.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldMock.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptDefines/PlayerScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
+<code>#include &lt;unordered_set&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d91/a29838.html">anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}::TestOocPlayerScript</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d4e/a29842.html">anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}::OmenOfClarityGlyphLockTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:d3/df0/a05067"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df0/a05067.html">Acore</a></td></tr>
+<tr class="memitem:d7/d48/a05183"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d48/a05183.html">anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d2/d3f/a05069"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3f/a05069.html">Acore::Net</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a3c2cf023118b4939342706355b5e3e23"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d8c/a04904.html#a3c2cf023118b4939342706355b5e3e23">TEST_F</a>(fixture,  name)&#160;&#160;&#160;void fixture##_##name()</td></tr>
+<tr class="separator:a3c2cf023118b4939342706355b5e3e23"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:af108d05a57113d16ab9c8f3b26870be2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3f/a05069.html#af108d05a57113d16ab9c8f3b26870be2">Acore::Net::IsInNetwork</a> (boost::asio::ip::address_v4 const &amp;networkAddress, boost::asio::ip::address_v4 const &amp;mask, boost::asio::ip::address_v4 const &amp;clientAddress)</td></tr>
-<tr class="separator:af108d05a57113d16ab9c8f3b26870be2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af75b2c10ca445dc89c53b7ed8d17eae0"><td class="memItemLeft" align="right" valign="top">boost::asio::ip::address_v4&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3f/a05069.html#af75b2c10ca445dc89c53b7ed8d17eae0">Acore::Net::GetDefaultNetmaskV4</a> (boost::asio::ip::address_v4 const &amp;networkAddress)</td></tr>
-<tr class="separator:af75b2c10ca445dc89c53b7ed8d17eae0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2617cb1c747a45e5af4e2c32cc29d5de"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3f/a05069.html#a2617cb1c747a45e5af4e2c32cc29d5de">Acore::Net::IsInNetwork</a> (boost::asio::ip::address_v6 const &amp;networkAddress, <a class="el" href="../../d8/d7c/a04601.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> prefixLength, boost::asio::ip::address_v6 const &amp;clientAddress)</td></tr>
-<tr class="separator:a2617cb1c747a45e5af4e2c32cc29d5de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4722da81a67d7591147f462b57ebd1e5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d48/a05183.html#a4722da81a67d7591147f462b57ebd1e5">anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}::TEST_F</a> (OmenOfClarityGlyphLockTest, GlyphSlotStaysLockedAfterLevelingTo80)</td></tr>
+<tr class="separator:a4722da81a67d7591147f462b57ebd1e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aad251365da79c581dfd771c07e08a849"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d48/a05183.html#aad251365da79c581dfd771c07e08a849">anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}::TEST_F</a> (OmenOfClarityGlyphLockTest, GlyphSlotOpensNormallyWhenFeatureDisabled)</td></tr>
+<tr class="separator:aad251365da79c581dfd771c07e08a849"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4dbab8c4aad98a9d7a180aa0900d811e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d48/a05183.html#a4dbab8c4aad98a9d7a180aa0900d811e">anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}::TEST_F</a> (OmenOfClarityGlyphLockTest, GlyphSlotStaysLockedThroughMultipleLevelUps)</td></tr>
+<tr class="separator:a4dbab8c4aad98a9d7a180aa0900d811e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa1f3de6a8cef69842c080eca3d39fd62"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d48/a05183.html#aa1f3de6a8cef69842c080eca3d39fd62">anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}::TEST_F</a> (OmenOfClarityGlyphLockTest, QuestCompletionLocksSlotThenLevelUpKeepsItLocked)</td></tr>
+<tr class="separator:aa1f3de6a8cef69842c080eca3d39fd62"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a5500fe8bc94c2f7444d0ece5685c4de6"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../dc/d19/a00515.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d48/a05183.html#a5500fe8bc94c2f7444d0ece5685c4de6">anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}::OOC_LOCKED_GLYPH_SLOT</a> = 5</td></tr>
+<tr class="separator:a5500fe8bc94c2f7444d0ece5685c4de6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c8ee271438dfdfb1361e57c07c7b890"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d48/a05183.html#a8c8ee271438dfdfb1361e57c07c7b890">anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}::OOC_LOCKED_SLOT_BIT</a> = 0x20</td></tr>
+<tr class="separator:a8c8ee271438dfdfb1361e57c07c7b890"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0fd5f656624a7c48c5e042c0f1572004"><td class="memItemLeft" align="right" valign="top">static std::unordered_set&lt; <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d48/a05183.html#a0fd5f656624a7c48c5e042c0f1572004">anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}::s_testOocEnabled</a></td></tr>
+<tr class="separator:a0fd5f656624a7c48c5e042c0f1572004"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a3c2cf023118b4939342706355b5e3e23" name="a3c2cf023118b4939342706355b5e3e23"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c2cf023118b4939342706355b5e3e23">&#9670;&#160;</a></span>TEST_F</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define TEST_F</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">fixture, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">name&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td>&#160;&#160;&#160;void fixture##_##name()</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_fc9741c162534defc29969ffbc5109e0.html">Asio</a></li><li class="navelem"><a class="el" href="../../df/d8c/a04904.html">IpNetwork.h</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 21:47:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_ea4c1b50a572fe0f418ec2f6e29d2b3b.html">Modules</a></li><li class="navelem"><a class="el" href="../../df/d8c/a04904.html">OmenOfClarityGlyphLockTest.cpp</a></li>
+    <li class="footer">Generated on Mon Jul 27 2026 21:43:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

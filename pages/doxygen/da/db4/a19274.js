@@ -1,6 +1,6 @@
 var a19274 =
 [
-    [ "FilterTargets", "da/db4/a19274.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
-    [ "PrepareSpellScript", "da/db4/a19274.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
-    [ "Register", "da/db4/a19274.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d8/dad/a19278.html", "d8/dad/a19278" ],
+    [ "npc_icc_skybreaker_vicar", "da/db4/a19274.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
+    [ "GetAI", "da/db4/a19274.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
 ];

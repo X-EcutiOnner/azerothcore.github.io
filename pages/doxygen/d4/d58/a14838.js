@@ -1,7 +1,6 @@
 var a14838 =
 [
-    [ "HandleDummy", "d4/d58/a14838.html#a05c3589ee04eed87449f652db065f0e9", null ],
-    [ "PrepareSpellScript", "d4/d58/a14838.html#afb79a2cf5359e7ec69746cd89d8cd727", null ],
-    [ "Register", "d4/d58/a14838.html#a51207fcd4f272e120fe1af2ac78c1f80", null ],
-    [ "Validate", "d4/d58/a14838.html#a5fc6dae87ffb634cc0de389196751b22", null ]
+    [ "npc_cw_area_triggerAI", "d8/d80/a14842.html", "d8/d80/a14842" ],
+    [ "npc_cw_area_trigger", "d4/d58/a14838.html#a11af64ac4ab078566bf8f68a36781939", null ],
+    [ "GetAI", "d4/d58/a14838.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
 ];

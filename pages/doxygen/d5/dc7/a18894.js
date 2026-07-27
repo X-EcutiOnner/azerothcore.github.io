@@ -1,6 +1,6 @@
 var a18894 =
 [
-    [ "npc_captain_rupertAI", "d5/dc7/a18894.html#ae91de64c440e71e612f34e37b90076d5", null ],
-    [ "Reset", "d5/dc7/a18894.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
-    [ "UpdateAI", "d5/dc7/a18894.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
+    [ "npc_green_dragon_combat_triggerAI", "db/dc5/a18898.html", "db/dc5/a18898" ],
+    [ "npc_green_dragon_combat_trigger", "d5/dc7/a18894.html#acec675494f5e5e9609bf34b7f25cb569", null ],
+    [ "GetAI", "d5/dc7/a18894.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
 ];

@@ -1,10 +1,12 @@
 var a10546 =
 [
-    [ "Flags", "d0/d62/a10546.html#abf9c2701e766951e5a211bf6bf85b175", null ],
-    [ "ID", "d0/d62/a10546.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
-    [ "needSave", "d0/d62/a10546.html#aae888b1bf10f654ee212f3d687c111e9", null ],
-    [ "needSend", "d0/d62/a10546.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
-    [ "ReputationListID", "d0/d62/a10546.html#a052caeeae1ecdca831097591e0fddaf6", null ],
-    [ "roundedUp", "d0/d62/a10546.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
-    [ "Standing", "d0/d62/a10546.html#ae87da6cada559e11a9607e194013d671", null ]
+    [ "FacingInfo", "d0/d62/a10546.html#a1ac825c359704924c66e46eada64e34e", null ],
+    [ "FacingInfo", "d0/d62/a10546.html#a7820b3ce134dcca05b9b15299eb3b33f", null ],
+    [ "FacingInfo", "d0/d62/a10546.html#add6411db27c1d313d2f133adf0c35755", null ],
+    [ "angle", "d0/d62/a10546.html#ac56b304c2c5df7ab72c6fcbd2f845b02", null ],
+    [ "f", "d0/d62/a10546.html#a811011ef77b57be8ae86de7396f67d51", null ],
+    [ "target", "d0/d62/a10546.html#a064b5265b4bb2a0053908bf6031b8f65", null ],
+    [ "x", "d0/d62/a10546.html#ac08687158cc0bcfbc9814b1cbbe95684", null ],
+    [ "y", "d0/d62/a10546.html#ad7fcfb6b1c5402a0570748d343eadfcc", null ],
+    [ "z", "d0/d62/a10546.html#a5ff017b732d47684f675041e44227754", null ]
 ];

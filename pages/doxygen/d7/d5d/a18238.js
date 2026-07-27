@@ -1,6 +1,7 @@
 var a18238 =
 [
-    [ "DespawnSelf", "d7/d5d/a18238.html#a7009dd0e842898d03caa89e92447749d", null ],
-    [ "PrepareAuraScript", "d7/d5d/a18238.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
-    [ "Register", "d7/d5d/a18238.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
+    [ "HandleScriptEffect", "d7/d5d/a18238.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "d7/d5d/a18238.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "d7/d5d/a18238.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "d7/d5d/a18238.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

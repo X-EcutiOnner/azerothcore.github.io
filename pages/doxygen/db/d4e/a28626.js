@@ -1,14 +1,8 @@
 var a28626 =
 [
-    [ "IsFlyable", "db/d4e/a28626.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
-    [ "IsSanctuary", "db/d4e/a28626.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
-    [ "area_level", "db/d4e/a28626.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
-    [ "area_name", "db/d4e/a28626.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
-    [ "exploreFlag", "db/d4e/a28626.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
-    [ "flags", "db/d4e/a28626.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
-    [ "ID", "db/d4e/a28626.html#ad02bb9fce21f464e38223581074a9e21", null ],
-    [ "LiquidTypeOverride", "db/d4e/a28626.html#abe743a4b542c4356aab9d41f3fae7457", null ],
-    [ "mapid", "db/d4e/a28626.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
-    [ "team", "db/d4e/a28626.html#ae18e0efef83e663452715f6be15ecaef", null ],
-    [ "zone", "db/d4e/a28626.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
+    [ "npc_traveler_mammoth_vendor", "db/d4e/a28626.html#af3b5fc14371eb03e8259799b296967c1", null ],
+    [ "Reset", "db/d4e/a28626.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
+    [ "UpdateAI", "db/d4e/a28626.html#a98129bb78476ddc0b1a09593b8894fff", null ],
+    [ "_hasEjected", "db/d4e/a28626.html#af801e9849a795358c812fddf69ec8434", null ],
+    [ "_playerGuid", "db/d4e/a28626.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
 ];

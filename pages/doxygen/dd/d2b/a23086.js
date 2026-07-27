@@ -1,6 +1,6 @@
 var a23086 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d8/dcc/a23090.html", "d8/dcc/a23090" ],
-    [ "instance_the_underbog", "dd/d2b/a23086.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "dd/d2b/a23086.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "HandleProc", "dd/d2b/a23086.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
+    [ "PrepareAuraScript", "dd/d2b/a23086.html#a94b244ef26355d53c874aec6d26f3a53", null ],
+    [ "Register", "dd/d2b/a23086.html#a9499d88802213ceb877e19d1651324f2", null ]
 ];

@@ -1,6 +1,7 @@
 var a21074 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d5/d82/a21074.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
-    [ "JustSummoned", "d5/d82/a21074.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
-    [ "Reset", "d5/d82/a21074.html#a064ccb90afeb9b36d501850482c60bc4", null ]
+    [ "HandleEffectCalcPeriodic", "d5/d82/a21074.html#af01eb94174952de52615734055b17c1a", null ],
+    [ "HandleEffectPeriodic", "d5/d82/a21074.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
+    [ "PrepareAuraScript", "d5/d82/a21074.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
+    [ "Register", "d5/d82/a21074.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
 ];

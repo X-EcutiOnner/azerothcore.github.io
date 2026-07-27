@@ -1,7 +1,6 @@
 var a21374 =
 [
-    [ "npc_cosmetic_toy_plane", "d1/da8/a21374.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "d1/da8/a21374.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "d1/da8/a21374.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "d1/da8/a21374.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "boss_emalonAI", "d2/d3b/a21378.html", "d2/d3b/a21378" ],
+    [ "boss_emalon", "d1/da8/a21374.html#a2dd481292e02337bebd450f5c9821886", null ],
+    [ "GetAI", "d1/da8/a21374.html#a345b0663ba89de5e37b87a436c48e446", null ]
 ];

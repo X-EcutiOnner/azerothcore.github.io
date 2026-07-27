@@ -1,6 +1,7 @@
 var a21398 =
 [
-    [ "npc_future_youAI", "da/dd3/a21402.html", "da/dd3/a21402" ],
-    [ "npc_future_you", "d9/d8f/a21398.html#a36e363156bcb32fee468989062817bd5", null ],
-    [ "GetAI", "d9/d8f/a21398.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
+    [ "HandleDummy", "d9/d8f/a21398.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "d9/d8f/a21398.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "d9/d8f/a21398.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "d9/d8f/a21398.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

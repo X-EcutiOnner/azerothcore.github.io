@@ -1,7 +1,8 @@
 var a21298 =
 [
-    [ "HandleProc", "d4/d9c/a21298.html#aeb5b70614b266bac0792906bf89a5b97", null ],
-    [ "PrepareAuraScript", "d4/d9c/a21298.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
-    [ "Register", "d4/d9c/a21298.html#a163e0099271f21362deeb1ba1f169f3f", null ],
-    [ "Validate", "d4/d9c/a21298.html#abdb889e4c6d19f756c143d7b36f82257", null ]
+    [ "FilterTargets", "d4/d9c/a21298.html#a028ef84c884536a28650ace1e56f8061", null ],
+    [ "HandleScript", "d4/d9c/a21298.html#a16466b4c07c06c57493082b0e84b3c66", null ],
+    [ "PrepareSpellScript", "d4/d9c/a21298.html#ad43892487ca38342a61522548b34cd2c", null ],
+    [ "Register", "d4/d9c/a21298.html#a90470761baccdcf8c5430006004abf29", null ],
+    [ "Validate", "d4/d9c/a21298.html#a1664dcb92887f6974e1750472c02d168", null ]
 ];

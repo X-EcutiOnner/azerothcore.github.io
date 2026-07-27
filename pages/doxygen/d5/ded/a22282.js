@@ -1,12 +1,8 @@
 var a22282 =
 [
-    [ "boss_anzu", "d5/ded/a22282.html#aef8c5c57afa95936d8c2809fa1257799", null ],
-    [ "JustEngagedWith", "d5/ded/a22282.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
-    [ "Reset", "d5/ded/a22282.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
-    [ "SummonBroods", "d5/ded/a22282.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
-    [ "SummonedCreatureDies", "d5/ded/a22282.html#a2e35df609db069c8d31afffabcfead34", null ],
-    [ "SummonSpirits", "d5/ded/a22282.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
-    [ "UpdateAI", "d5/ded/a22282.html#a06373460d454bfaf8db793e591cc0abd", null ],
-    [ "AnzuSpiritPos", "d5/ded/a22282.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
-    [ "talkTimer", "d5/ded/a22282.html#a2afae53534d9e777c90d09456f834b5d", null ]
+    [ "npc_freed_protodrakeAI", "d5/ded/a22282.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "d5/ded/a22282.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "d5/ded/a22282.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "d5/ded/a22282.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "d5/ded/a22282.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

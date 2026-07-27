@@ -1,9 +1,6 @@
 var a14754 =
 [
-    [ "npc_love_in_air_snivel", "d8/d2f/a14754.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
-    [ "AllowAction", "d8/d2f/a14754.html#af1097317f62bbb8f8456124001c73576", null ],
-    [ "MoveInLineOfSight", "d8/d2f/a14754.html#ae6537707109b95fad20e521d07867cdd", null ],
-    [ "Reset", "d8/d2f/a14754.html#a2385ea44d9f44735b193add4a0d0485b", null ],
-    [ "UpdateAI", "d8/d2f/a14754.html#a9e712994663e3442359d2f574ebc812c", null ],
-    [ "delay", "d8/d2f/a14754.html#a548db6245ef875ec47279246e437934c", null ]
+    [ "CheckItem", "d8/d2f/a14754.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
+    [ "PrepareSpellScript", "d8/d2f/a14754.html#a0fa160f1218cf838444f894716cb8aed", null ],
+    [ "Register", "d8/d2f/a14754.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
 ];

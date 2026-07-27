@@ -1,6 +1,8 @@
 var a21530 =
 [
-    [ "npc_torturer_lecraftAI", "d9/ddc/a21534.html", "d9/ddc/a21534" ],
-    [ "npc_torturer_lecraft", "de/dd5/a21530.html#a789f8bdafe96d5cb01225b940a80c651", null ],
-    [ "GetAI", "de/dd5/a21530.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
+    [ "npc_azure_sorceror", "de/dd5/a21530.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
+    [ "Reset", "de/dd5/a21530.html#af4bc0ff9b938302c399bff528dd06769", null ],
+    [ "UpdateAI", "de/dd5/a21530.html#a36675e89aab24a92589a33f88fbec2bd", null ],
+    [ "_arcaneStreamOnCooldown", "de/dd5/a21530.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
+    [ "_events", "de/dd5/a21530.html#a3bd018057b31c90afd19ac6943d44591", null ]
 ];

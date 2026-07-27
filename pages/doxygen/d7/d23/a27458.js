@@ -1,7 +1,9 @@
 var a27458 =
 [
-    [ "HandleDummy", "d7/d23/a27458.html#a3af91500357eb127f813334bdf538dbd", null ],
-    [ "PrepareSpellScript", "d7/d23/a27458.html#ae34ff5e6027efecc34fa770690df5887", null ],
-    [ "Register", "d7/d23/a27458.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
-    [ "Validate", "d7/d23/a27458.html#a0b107442c0b76a018cc019f776c0b785", null ]
+    [ "CalculateAmount", "d7/d23/a27458.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
+    [ "CheckProc", "d7/d23/a27458.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
+    [ "HandleProc", "d7/d23/a27458.html#a741570ba77f70d90b437198f63e565f3", null ],
+    [ "PrepareAuraScript", "d7/d23/a27458.html#af4e49e2362994f247c119c16c013e4b3", null ],
+    [ "Register", "d7/d23/a27458.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
+    [ "Validate", "d7/d23/a27458.html#a939d6815bcaee9b9d2b062313aac912a", null ]
 ];

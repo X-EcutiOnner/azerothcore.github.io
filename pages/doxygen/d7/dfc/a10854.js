@@ -1,6 +1,10 @@
 var a10854 =
 [
-    [ "ShowingCloak", "d7/dfc/a10854.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
-    [ "Read", "d7/dfc/a10854.html#ad72ae43efc070655aa078d9985369442", null ],
-    [ "ShowCloak", "d7/dfc/a10854.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
+    [ "ArgsType", "d7/dfc/a10854.html#a4ea4d3b165a196482ebe96af9c462658", null ],
+    [ "AuraScriptType", "d7/dfc/a10854.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
+    [ "SpellScriptType", "d7/dfc/a10854.html#a790a8ef2b59bfe6298486648858506ed", null ],
+    [ "GenericSpellAndAuraScriptLoader", "d7/dfc/a10854.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
+    [ "GetAuraScript", "d7/dfc/a10854.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
+    [ "GetSpellScript", "d7/dfc/a10854.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
+    [ "_args", "d7/dfc/a10854.html#aad6527f64ede0d896880ffa90d05a378", null ]
 ];

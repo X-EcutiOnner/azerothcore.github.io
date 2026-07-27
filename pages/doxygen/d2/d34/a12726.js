@@ -1,9 +1,7 @@
 var a12726 =
 [
-    [ "FilterTargets", "d2/d34/a12726.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "d2/d34/a12726.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "d2/d34/a12726.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "d2/d34/a12726.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "d2/d34/a12726.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "d2/d34/a12726.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "boss_gorosh_the_dervish", "d2/d34/a12726.html#a49b79326e3eae3f42be4955f30982ffe", null ],
+    [ "JustEngagedWith", "d2/d34/a12726.html#ad3b7ab3db30d16549cd85c471bbb190b", null ],
+    [ "UpdateAI", "d2/d34/a12726.html#adf24561c335f1023f44f76709e66bc83", null ],
+    [ "nextWhirlwindTime", "d2/d34/a12726.html#a61b57a2db3d097a0da74a502fb272339", null ]
 ];

@@ -1,7 +1,6 @@
 var a10946 =
 [
-    [ "Flags", "d5/deb/a10946.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
-    [ "TabFlags", "d5/deb/a10946.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
-    [ "TabWithdrawItemLimit", "d5/deb/a10946.html#af16392abbddf27a8b21fd21d998501e6", null ],
-    [ "WithdrawGoldLimit", "d5/deb/a10946.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
+    [ "BuyBankSlotResult", "d5/deb/a10946.html#a93b60814becc451c38f06f9702a9e027", null ],
+    [ "Write", "d5/deb/a10946.html#a55a6609863b0d3ef966f222526268acb", null ],
+    [ "Result", "d5/deb/a10946.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
 ];

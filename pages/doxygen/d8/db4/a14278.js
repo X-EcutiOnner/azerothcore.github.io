@@ -1,6 +1,6 @@
 var a14278 =
 [
-    [ "boss_gahzranka", "d8/db4/a14278.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "d8/db4/a14278.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "d8/db4/a14278.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "da/dd0/a14282.html", "da/dd0/a14282" ],
+    [ "npc_lady_sylvanas_windrunner_bfu", "d8/db4/a14278.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
+    [ "GetAI", "d8/db4/a14278.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
 ];

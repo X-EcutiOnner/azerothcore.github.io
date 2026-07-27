@@ -1,5 +1,5 @@
 var a27074 =
 [
-    [ "EarthenPowerTargetSelector", "df/def/a27074.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
-    [ "operator()", "df/def/a27074.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
+    [ "spell_q55_sacred_cleansing", "df/def/a27074.html#a4aa8a16350a7a55706841471fd985ca2", null ],
+    [ "GetSpellScript", "df/def/a27074.html#a50a8f2d777169aaeef88533b66b88fb2", null ]
 ];

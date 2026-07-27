@@ -1,7 +1,6 @@
 var a18158 =
 [
-    [ "HandleSummon", "d3/ddd/a18158.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "d3/ddd/a18158.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "d3/ddd/a18158.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "d3/ddd/a18158.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "DaranavanMoveEvent", "d3/ddd/a18158.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
+    [ "Execute", "d3/ddd/a18158.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
+    [ "_darnavan", "d3/ddd/a18158.html#a7585edb957755efbc6064f232d50ea4e", null ]
 ];

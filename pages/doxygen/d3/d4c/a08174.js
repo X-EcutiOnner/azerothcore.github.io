@@ -1,6 +1,6 @@
 var a08174 =
 [
-    [ "ConditionSourceInfo", "d3/d4c/a08174.html#adc6441ec52fab3ab8d2b58a146a3fef3", null ],
-    [ "mConditionTargets", "d3/d4c/a08174.html#acb67deba44021698a447e8288bca0bd4", null ],
-    [ "mLastFailedCondition", "d3/d4c/a08174.html#a099d3457a0a15d8feeacc0dc8c32d439", null ]
+    [ "Rank", "d3/d4c/a08174.html#abd26e25c76d5344dfdd94547b2f310d4", null ],
+    [ "Spell", "d3/d4c/a08174.html#a0cb15c7c1e640b5a6acc8f8d94e6c719", null ],
+    [ "Talent", "d3/d4c/a08174.html#ae39546dc8db233709131b388a3868c1a", null ]
 ];

@@ -1,5 +1,6 @@
 var a20266 =
 [
-    [ "achievement_staying_buffed_all_winter_10", "df/de1/a20266.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
-    [ "OnCheck", "df/de1/a20266.html#a67587b1659a8d026e73b42311148541a", null ]
+    [ "npc_pool_of_tar", "df/de1/a20266.html#a03de46dfa133992d094ab607a49b7236", null ],
+    [ "DamageTaken", "df/de1/a20266.html#ac72ad742cb16e27abf25fe0e88408315", null ],
+    [ "SpellHit", "df/de1/a20266.html#a61886862df88b41bf0c6959c9a564cea", null ]
 ];

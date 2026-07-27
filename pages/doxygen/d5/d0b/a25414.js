@@ -1,9 +1,7 @@
 var a25414 =
 [
-    [ "getMountSpellId", "d5/d0b/a25414.html#afe306ed6057050baf342ee717723764d", null ],
-    [ "OnApply", "d5/d0b/a25414.html#aa8bee986d413be60d00ac1d2111ef719", null ],
-    [ "OnRemove", "d5/d0b/a25414.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
-    [ "PrepareAuraScript", "d5/d0b/a25414.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
-    [ "Register", "d5/d0b/a25414.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
-    [ "Validate", "d5/d0b/a25414.html#a6868f6e88c9179efd921b266c83f6daf", null ]
+    [ "PrepareAuraScript", "d5/d0b/a25414.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
+    [ "Register", "d5/d0b/a25414.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
+    [ "TriggerFoodBuff", "d5/d0b/a25414.html#a5d125413491dd377d61b8e30c4979fdd", null ],
+    [ "Validate", "d5/d0b/a25414.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
 ];

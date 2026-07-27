@@ -1,8 +1,7 @@
 var a10982 =
 [
-    [ "OtherGUID", "da/db8/a10982.html#a3f7486a2e4e07fef318414eaaa9037da", null ],
-    [ "PlayerGUID", "da/db8/a10982.html#ae3d1217ddbfccd601fcbc57b78739a94", null ],
-    [ "RankID", "da/db8/a10982.html#a1aebcb39f85c2b44101a311a6ccefdfd", null ],
-    [ "TransactionDate", "da/db8/a10982.html#a4a8054876b35134e5dfe2cf84887e66f", null ],
-    [ "TransactionType", "da/db8/a10982.html#aa48b69aa9078fb150470d66201b34786", null ]
+    [ "LogoutResponse", "da/db8/a10982.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
+    [ "Write", "da/db8/a10982.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
+    [ "Instant", "da/db8/a10982.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
+    [ "LogoutResult", "da/db8/a10982.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
 ];

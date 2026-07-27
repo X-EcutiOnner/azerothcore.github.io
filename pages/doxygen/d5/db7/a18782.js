@@ -1,6 +1,7 @@
 var a18782 =
 [
-    [ "PeriodicTick", "d5/db7/a18782.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
-    [ "PrepareAuraScript", "d5/db7/a18782.html#a0767ac60151517b803e871a0fcb25967", null ],
-    [ "Register", "d5/db7/a18782.html#afd1e28b224035aef5ac109f38d7e118d", null ]
+    [ "CheckTargetCount", "d5/db7/a18782.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "d5/db7/a18782.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "d5/db7/a18782.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "d5/db7/a18782.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

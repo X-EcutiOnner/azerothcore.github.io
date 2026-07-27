@@ -1,7 +1,6 @@
 var a12042 =
 [
-    [ "Command", "dd/d8c/a12042.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "dd/d8c/a12042.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "dd/d8c/a12042.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "dd/d8c/a12042.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "BeforeHitHandler", "dd/d8c/a12042.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
+    [ "Call", "dd/d8c/a12042.html#a393057cca72c41e193508bf150ed0b1f", null ],
+    [ "_pBeforeHitHandlerScript", "dd/d8c/a12042.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
 ];

@@ -1,8 +1,12 @@
 var a01010 =
 [
-    [ "LootScript", "d2/df2/a10776.html", "d2/df2/a10776" ],
-    [ "LootHook", "d0/d2b/a01010.html#a39ce94de1e8ce6b7055130ac7f40632b", [
-      [ "LOOTHOOK_ON_LOOT_MONEY", "d0/d2b/a01010.html#a39ce94de1e8ce6b7055130ac7f40632ba71990fd8692b46e728ad526346d0f1f1", null ],
-      [ "LOOTHOOK_END", "d0/d2b/a01010.html#a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea", null ]
-    ] ]
+    [ "WorldPackets::Pet::DismissCritter", "d7/d90/a11530.html", "d7/d90/a11530" ],
+    [ "WorldPackets::Pet::PetAbandon", "df/d71/a11534.html", "df/d71/a11534" ],
+    [ "WorldPackets::Pet::PetStopAttack", "dd/d35/a11538.html", "dd/d35/a11538" ],
+    [ "WorldPackets::Pet::PetSpellAutocast", "d2/df7/a11542.html", "d2/df7/a11542" ],
+    [ "WorldPackets::Pet::PetLearnedSpell", "d1/d94/a11546.html", "d1/d94/a11546" ],
+    [ "WorldPackets::Pet::PetUnlearnedSpell", "df/dda/a11550.html", "df/dda/a11550" ],
+    [ "WorldPackets::Pet::RequestPetInfo", "d6/d22/a11554.html", "d6/d22/a11554" ],
+    [ "WorldPackets::Pet::PetActionSound", "d6/d63/a11558.html", "d6/d63/a11558" ],
+    [ "WorldPackets::Pet::PetDismissSound", "d7/dc0/a11562.html", "d7/dc0/a11562" ]
 ];

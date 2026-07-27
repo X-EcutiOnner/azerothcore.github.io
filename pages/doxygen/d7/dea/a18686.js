@@ -1,7 +1,7 @@
 var a18686 =
 [
-    [ "ValithriaDespawner", "d7/dea/a18686.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
-    [ "Execute", "d7/dea/a18686.html#a4f8c63f52996da14078a7196cae3a00d", null ],
-    [ "operator()", "d7/dea/a18686.html#a05bae39d642f294f2ef98151d66ba382", null ],
-    [ "_creature", "d7/dea/a18686.html#a64bf6181ad867efd987edec141ca3bf0", null ]
+    [ "OnRemove", "d7/dea/a18686.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "d7/dea/a18686.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "d7/dea/a18686.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "d7/dea/a18686.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

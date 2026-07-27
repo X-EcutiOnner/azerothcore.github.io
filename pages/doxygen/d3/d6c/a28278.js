@@ -1,8 +1,6 @@
 var a28278 =
 [
-    [ "npc_minion_spawner", "d3/d6c/a28278.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "d3/d6c/a28278.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "d3/d6c/a28278.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "d3/d6c/a28278.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "d3/d6c/a28278.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "go_bashir_crystalforge", "d3/d6c/a28278.html#a8b68a63933e14d82198580912fddc280", null ],
+    [ "OnGossipHello", "d3/d6c/a28278.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
+    [ "OnGossipSelect", "d3/d6c/a28278.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
 ];

@@ -1,6 +1,5 @@
 var a27994 =
 [
-    [ "trigger_periodicAI", "dd/d80/a27998.html", "dd/d80/a27998" ],
-    [ "trigger_periodic", "d0/d0a/a27994.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
-    [ "GetAI", "d0/d0a/a27994.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
+    [ "achievement_everything_counts", "d0/d0a/a27994.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
+    [ "OnCheck", "d0/d0a/a27994.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
 ];

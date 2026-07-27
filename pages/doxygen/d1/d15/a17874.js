@@ -1,11 +1,8 @@
 var a17874 =
 [
-    [ "CountTargets", "d1/d15/a17874.html#a54f6526359fba124a988ba35c2876fd1", null ],
-    [ "Load", "d1/d15/a17874.html#a32a76ca53528bbfabfcefd2dc6aef4cc", null ],
-    [ "PrepareSpellScript", "d1/d15/a17874.html#a4991d88429ea951c55ef08a90f364d31", null ],
-    [ "Register", "d1/d15/a17874.html#a8bac27d885c8ea0c659c22599c4e97b4", null ],
-    [ "TeleportPlayer", "d1/d15/a17874.html#ac886eae598b55ed4aa9ddbf9ce3a01bd", null ],
-    [ "TriggerWipe", "d1/d15/a17874.html#a0f79722e00e6255d1ed1bf5846d5c839", null ],
-    [ "Validate", "d1/d15/a17874.html#ad2e586d688b413f9ef9a5688d203106a", null ],
-    [ "_playerCount", "d1/d15/a17874.html#a7c116e74c485ca44e5e6e710cfeb5bba", null ]
+    [ "npc_saurfang_eventAI", "d1/d15/a17874.html#a8436a87576c92ecc0b45106683d20e93", null ],
+    [ "DoAction", "d1/d15/a17874.html#a45201c4a5b94fad948efe1d08e63e262", null ],
+    [ "SetData", "d1/d15/a17874.html#a7f012a54ebce5307940eb7957f028d52", null ],
+    [ "SpellHit", "d1/d15/a17874.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
+    [ "_index", "d1/d15/a17874.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
 ];

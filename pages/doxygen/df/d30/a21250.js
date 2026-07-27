@@ -1,7 +1,6 @@
 var a21250 =
 [
-    [ "npc_bonker_togglevoltAI", "da/dab/a21254.html", "da/dab/a21254" ],
-    [ "npc_bonker_togglevolt", "df/d30/a21250.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
-    [ "GetAI", "df/d30/a21250.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
-    [ "OnQuestAccept", "df/d30/a21250.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
+    [ "npc_ravenous_furbolgAI", "da/dab/a21254.html", "da/dab/a21254" ],
+    [ "npc_ravenous_furbolg", "df/d30/a21250.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "df/d30/a21250.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

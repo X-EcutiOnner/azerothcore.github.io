@@ -1,6 +1,7 @@
 var a11886 =
 [
-    [ "EffectUpdatePeriodicHandler", "d2/d0a/a11886.html#a6b18a259aa84c847bcc064c5243eb590", null ],
-    [ "Call", "d2/d0a/a11886.html#a38802863e7859453cbbe58ad91018c67", null ],
-    [ "pEffectHandlerScript", "d2/d0a/a11886.html#a0e51245e089fcd9532d5789056ab944c", null ]
+    [ "chance", "d2/d0a/a11886.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
+    [ "triggeredByAura", "d2/d0a/a11886.html#abb48d6093570ba9c5488f200544a1e83", null ],
+    [ "triggeredByEffIdx", "d2/d0a/a11886.html#a82d752dedab39f417af225add6af1403", null ],
+    [ "triggeredSpell", "d2/d0a/a11886.html#a02ac12119655f9ab82347d21cc68803a", null ]
 ];

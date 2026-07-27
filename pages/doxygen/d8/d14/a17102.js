@@ -1,10 +1,21 @@
 var a17102 =
 [
-    [ "HandleAfterEffectAbsorb", "d8/d14/a17102.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "d8/d14/a17102.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "d8/d14/a17102.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "d8/d14/a17102.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "d8/d14/a17102.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "d8/d14/a17102.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "d8/d14/a17102.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "boss_twin_valkyrAI", "d8/d14/a17102.html#a3a10c07715e5ef03c28f132df18e80bd", null ],
+    [ "DoAction", "d8/d14/a17102.html#a1a9c9f90108d203c2aca8c401763936f", null ],
+    [ "EnterEvadeMode", "d8/d14/a17102.html#a624969393687e10c2f8fca72d9394265", null ],
+    [ "GetSister", "d8/d14/a17102.html#a0c0998e2d4981dd3a1e2580497c1f3ef", null ],
+    [ "JustDied", "d8/d14/a17102.html#ad3ac59a0c0477a0819fd799b3bc305f6", null ],
+    [ "JustEngagedWith", "d8/d14/a17102.html#a2c0015cadfcc90e1c730d8f9c02151e8", null ],
+    [ "JustReachedHome", "d8/d14/a17102.html#af6127deaa5ff11a4ae2983e34d538bef", null ],
+    [ "JustSummoned", "d8/d14/a17102.html#a6b08f13c0213acf91b72b6341896406e", null ],
+    [ "KilledUnit", "d8/d14/a17102.html#a6b6706c12a0abbc36a022eb3af1925ec", null ],
+    [ "myDoMeleeAttackIfReady", "d8/d14/a17102.html#a8a488e8d0acab2737c0503ce89fd3d2a", null ],
+    [ "SummonedCreatureDespawn", "d8/d14/a17102.html#ae49793079dbec2dbe5e807f998705b20", null ],
+    [ "UpdateAI", "d8/d14/a17102.html#aea878cd12d640ce4e3d87deb85c20b9f", null ],
+    [ "UpdateSharedHealth", "d8/d14/a17102.html#a4101d2174de103be7154875beaafa65d", null ],
+    [ "events", "d8/d14/a17102.html#a08867e9274660a8913034bf3d80e559f", null ],
+    [ "LastSynchroHP", "d8/d14/a17102.html#aa66ac25aa73c505df972cf95dca85a71", null ],
+    [ "pInstance", "d8/d14/a17102.html#a653a89ac515061fca04240fa71a6630a", null ],
+    [ "SpecialMask", "d8/d14/a17102.html#a8ca507c7a288a5cb9a8160129820e4e0", null ],
+    [ "summons", "d8/d14/a17102.html#adeb3d3d3eb868ed1a9c211450404b659", null ]
 ];

@@ -1,7 +1,7 @@
 var a22394 =
 [
-    [ "HandleScriptEffect", "d4/d01/a22394.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
-    [ "PrepareSpellScript", "d4/d01/a22394.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
-    [ "Register", "d4/d01/a22394.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
-    [ "Validate", "d4/d01/a22394.html#a9ce122d497e72e3a46b1857d722af48d", null ]
+    [ "npc_wg_siege_machineAI", "d4/d01/a22394.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "d4/d01/a22394.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "d4/d01/a22394.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "d4/d01/a22394.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

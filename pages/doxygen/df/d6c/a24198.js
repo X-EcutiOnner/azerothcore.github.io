@@ -1,7 +1,7 @@
 var a24198 =
 [
-    [ "CorpseExplosionCheck", "df/d6c/a24198.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
-    [ "operator()", "df/d6c/a24198.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
-    [ "_allowGhoul", "df/d6c/a24198.html#abd42a0731af969ceccdfceae722ba276", null ],
-    [ "_casterGUID", "df/d6c/a24198.html#a497df87745f452716c652e9b1be6d46f", null ]
+    [ "o", "df/d6c/a24198.html#a3785e9b55ea3a7140086ce1f86232109", null ],
+    [ "x", "df/d6c/a24198.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
+    [ "y", "df/d6c/a24198.html#a10fbad67977d8dd3911eb629c1797684", null ],
+    [ "z", "df/d6c/a24198.html#a69fc2438e52f6c0de3af13900ff38166", null ]
 ];

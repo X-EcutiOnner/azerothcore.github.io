@@ -1,6 +1,8 @@
 var a15046 =
 [
-    [ "boss_epochAI", "d2/d7f/a15050.html", "d2/d7f/a15050" ],
-    [ "boss_epoch", "de/da5/a15046.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
-    [ "GetAI", "de/da5/a15046.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
+    [ "CheckCast", "de/da5/a15046.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
+    [ "HandleDummy", "de/da5/a15046.html#ad39da0510c21855dd74abd93f33621c9", null ],
+    [ "PrepareSpellScript", "de/da5/a15046.html#a727093fec8cc8422cbbaa79d821338c8", null ],
+    [ "Register", "de/da5/a15046.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
+    [ "Validate", "de/da5/a15046.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
 ];

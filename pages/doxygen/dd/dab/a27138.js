@@ -1,8 +1,7 @@
 var a27138 =
 [
-    [ "CheckProc", "dd/dab/a27138.html#a9fedf04ae5a49ad2f2b0c9f34f5813f6", null ],
-    [ "HandleProc", "dd/dab/a27138.html#ad41f37b773e528385151f8059974b821", null ],
-    [ "PrepareAuraScript", "dd/dab/a27138.html#acd65db816c8562108272e6849481f0ca", null ],
-    [ "Register", "dd/dab/a27138.html#a56d85b502b6660ab4ecccc92dd799720", null ],
-    [ "Validate", "dd/dab/a27138.html#aa722dde17ef9142578d50b19b8c4c8e5", null ]
+    [ "HandleScript", "dd/dab/a27138.html#a1b20a7fb4487876f305aa3a8d493ed17", null ],
+    [ "PrepareSpellScript", "dd/dab/a27138.html#a5ac848029ef03f6779cf094f4b80dd24", null ],
+    [ "Register", "dd/dab/a27138.html#a3d378e0eac09b00792b293b2cd7f3192", null ],
+    [ "Validate", "dd/dab/a27138.html#a36963610ad939ec36848ff70185f47a2", null ]
 ];

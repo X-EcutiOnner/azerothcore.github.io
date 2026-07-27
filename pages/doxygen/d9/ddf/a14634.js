@@ -1,5 +1,7 @@
 var a14634 =
 [
-    [ "at_bring_your_orphan_to", "d9/ddf/a14634.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
-    [ "OnTrigger", "d9/ddf/a14634.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
+    [ "HandleApply", "d9/ddf/a14634.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
+    [ "HandleRemove", "d9/ddf/a14634.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
+    [ "PrepareAuraScript", "d9/ddf/a14634.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
+    [ "Register", "d9/ddf/a14634.html#af2343add2ed014832bd34d11519b391b", null ]
 ];

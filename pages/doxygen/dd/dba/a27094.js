@@ -1,7 +1,7 @@
 var a27094 =
 [
-    [ "HandleDummy", "dd/dba/a27094.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
-    [ "PrepareSpellScript", "dd/dba/a27094.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
-    [ "Register", "dd/dba/a27094.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
-    [ "Validate", "dd/dba/a27094.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
+    [ "HandleEffectApply", "dd/dba/a27094.html#a475d0bab96e226853368be3b68c5a2d3", null ],
+    [ "HandleEffectRemove", "dd/dba/a27094.html#aa22a095e40789ac562a64c20d7eadb28", null ],
+    [ "PrepareAuraScript", "dd/dba/a27094.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
+    [ "Register", "dd/dba/a27094.html#a91e75a059828a30d509fd22be19048f8", null ]
 ];

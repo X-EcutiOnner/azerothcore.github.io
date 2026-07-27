@@ -1,8 +1,8 @@
 var a18658 =
 [
-    [ "npc_lk_wicked_spiritAI", "df/db8/a18658.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
-    [ "CanAIAttack", "df/db8/a18658.html#ae094420b1a6e134632baa0b086c806c6", null ],
-    [ "JustDied", "df/db8/a18658.html#adf153fab1c8639b2b5790ed418afb85d", null ],
-    [ "JustRespawned", "df/db8/a18658.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
-    [ "Reset", "df/db8/a18658.html#a8b15079251b6855679d738a342126006", null ]
+    [ "FilterTargets", "df/db8/a18658.html#a242fa53c2da9ac557623281bccf2af92", null ],
+    [ "HandleSendEvent", "df/db8/a18658.html#a6120e057e2ee39d34eaeab79782add8d", null ],
+    [ "Load", "df/db8/a18658.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
+    [ "PrepareSpellScript", "df/db8/a18658.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
+    [ "Register", "df/db8/a18658.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
 ];

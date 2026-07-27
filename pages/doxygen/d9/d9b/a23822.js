@@ -1,5 +1,7 @@
 var a23822 =
 [
-    [ "npc_karynaku", "d9/d9b/a23822.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
-    [ "OnQuestAccept", "d9/d9b/a23822.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
+    [ "OnApply", "d9/d9b/a23822.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "d9/d9b/a23822.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "d9/d9b/a23822.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "d9/d9b/a23822.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

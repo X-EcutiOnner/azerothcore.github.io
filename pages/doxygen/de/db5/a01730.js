@@ -1,4 +1,4 @@
 var a01730 =
 [
-    [ "sWorldUpdateTime", "de/db5/a01730.html#aa415d38dafe4c1c78c951de9fed8393b", null ]
+    [ "ScriptRegistry< CreatureScript >", "de/db5/a01730.html#adb066a45d02e899835d90ecde5d40ccd", null ]
 ];

@@ -1,5 +1,8 @@
 var a13614 =
 [
-    [ "at_sunwell_eredar_twins", "dc/d3f/a13614.html#afc183c384bc87321186b20e0ac168c1f", null ],
-    [ "_OnTrigger", "dc/d3f/a13614.html#aa862756c9905e2cb10d60c70b47919aa", null ]
+    [ "CalcPeriodic", "dc/d3f/a13614.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
+    [ "HandleDummyTick", "dc/d3f/a13614.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
+    [ "HandleUpdatePeriodic", "dc/d3f/a13614.html#a70ef86fd58eec1422bac6b61a4123842", null ],
+    [ "PrepareAuraScript", "dc/d3f/a13614.html#a9a97a6ab249728dbad4d3603640a7963", null ],
+    [ "Register", "dc/d3f/a13614.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
 ];

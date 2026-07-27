@@ -1,6 +1,10 @@
 var a08990 =
 [
-    [ "GlobalCooldown", "d3/d0d/a08990.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
-    [ "cast_time", "d3/d0d/a08990.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
-    [ "duration", "d3/d0d/a08990.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
+    [ "EquipmentSet", "d3/d0d/a08990.html#acd3085c12c795daceae86e94448109e2", null ],
+    [ "Guid", "d3/d0d/a08990.html#aae529ea61a2ad4f114b6a108564f5474", null ],
+    [ "IconName", "d3/d0d/a08990.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
+    [ "IgnoreMask", "d3/d0d/a08990.html#af116e824d23f000f424f3b261618e827", null ],
+    [ "Items", "d3/d0d/a08990.html#a113e6e5883afe38d446a6d435cd34a01", null ],
+    [ "Name", "d3/d0d/a08990.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
+    [ "state", "d3/d0d/a08990.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
 ];

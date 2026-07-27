@@ -1,6 +1,6 @@
 var a23966 =
 [
-    [ "go_ancient_skull_pile", "df/db4/a23966.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
-    [ "OnGossipHello", "df/db4/a23966.html#afc258eaeb7586f0f539223c21f82ea63", null ],
-    [ "OnGossipSelect", "df/db4/a23966.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
+    [ "npc_deaths_fel_cannonAI", "d4/dda/a23970.html", "d4/dda/a23970" ],
+    [ "npc_deaths_fel_cannon", "df/db4/a23966.html#a87ecaca75061928600b5114d3913dd26", null ],
+    [ "GetAI", "df/db4/a23966.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
 ];

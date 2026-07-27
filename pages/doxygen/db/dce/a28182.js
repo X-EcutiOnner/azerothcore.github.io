@@ -1,6 +1,6 @@
 var a28182 =
 [
-    [ "npc_pet_trainerAI", "d8/d90/a28186.html", "d8/d90/a28186" ],
-    [ "npc_pet_trainer", "db/dce/a28182.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "db/dce/a28182.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "go_flamesAI", "db/dce/a28182.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
+    [ "UpdateAI", "db/dce/a28182.html#a2d4c91f0bff924335881d1096c0af313", null ],
+    [ "timer", "db/dce/a28182.html#ae53c7c6c669e982babf304f173b58b1a", null ]
 ];

@@ -1,6 +1,6 @@
 var a12986 =
 [
-    [ "HandleDummy", "d8/d05/a12986.html#a9551867737eea27a9acf2d3d475e9b3c", null ],
-    [ "PrepareSpellScript", "d8/d05/a12986.html#a3e14dd6a6f26a163282846f714e2ffb5", null ],
-    [ "Register", "d8/d05/a12986.html#a7be884a657889e1b18d1499c8a053c18", null ]
+    [ "HandleOnHit", "d8/d05/a12986.html#a804097903354ab3a730f0fe3eb5ec863", null ],
+    [ "PrepareSpellScript", "d8/d05/a12986.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
+    [ "Register", "d8/d05/a12986.html#a53bed6f1af71fd309a04bc004d07be80", null ]
 ];

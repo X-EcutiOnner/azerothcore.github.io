@@ -1,8 +1,5 @@
 var a28282 =
 [
-    [ "npc_cultist_engineer", "d4/d18/a28282.html#a02675a96d20902d147b0370fa1715d81", null ],
-    [ "JustDied", "d4/d18/a28282.html#a4b4d561f827553998caa204e0e1b9e54", null ],
-    [ "Reset", "d4/d18/a28282.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
-    [ "sGossipSelect", "d4/d18/a28282.html#ab26d124cbfdc4d649fef6058e9637845", null ],
-    [ "UpdateAI", "d4/d18/a28282.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
+    [ "go_scourge_cage", "d4/d18/a28282.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
+    [ "OnGossipHello", "d4/d18/a28282.html#ab4e97cd290342d623d212cc7cec227d5", null ]
 ];

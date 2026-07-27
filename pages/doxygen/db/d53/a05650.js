@@ -1,8 +1,9 @@
 var a05650 =
 [
-    [ "LogOperation", "db/d53/a05650.html#a19e5e4731bd71697876110348f86d737", null ],
-    [ "~LogOperation", "db/d53/a05650.html#aae305e293044badac1a628edd501ed35", null ],
-    [ "call", "db/d53/a05650.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
-    [ "logger", "db/d53/a05650.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
-    [ "msg", "db/d53/a05650.html#a665effc48367f396f3e714f5d3d56d75", null ]
+    [ "Count", "db/d53/a05650.html#a05f606f459c905632d1452727bc93a0d", null ],
+    [ "GetElements", "db/d53/a05650.html#a260f2bd14ae022a5810539ba87cec51e", null ],
+    [ "GetElements", "db/d53/a05650.html#ab67e427fb3f82553e2253288e036d1ae", null ],
+    [ "Insert", "db/d53/a05650.html#a791a9c0d1c878323960e529e0c7b66c8", null ],
+    [ "Remove", "db/d53/a05650.html#abfb5e987b1c711d259896708887ca6d7", null ],
+    [ "i_elements", "db/d53/a05650.html#a095f3a1caf74ca4e9e12ecca538a0cc4", null ]
 ];

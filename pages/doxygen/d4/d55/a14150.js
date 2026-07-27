@@ -1,10 +1,8 @@
 var a14150 =
 [
-    [ "boss_alyson_antille", "d4/d55/a14150.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
-    [ "GetNearbyFriendlies", "d4/d55/a14150.html#ab99596d5c2eafac8c678378d509bf585", null ],
-    [ "JustEngagedWith", "d4/d55/a14150.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
-    [ "RandomReverseFriendlyList", "d4/d55/a14150.html#afef27de229ba2c3b8beb30809a313237", null ],
-    [ "Reset", "d4/d55/a14150.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
-    [ "UpdateAI", "d4/d55/a14150.html#a15157be42d166a239ab658fc04292e44", null ],
-    [ "_friendlyList", "d4/d55/a14150.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
+    [ "npc_dkc1_gothik", "d4/d55/a14150.html#ac55410228faf60379873234d7322c488", null ],
+    [ "DoAction", "d4/d55/a14150.html#aba7e9c3326400012162402d3ead2837f", null ],
+    [ "MoveInLineOfSight", "d4/d55/a14150.html#aa409a5ecaa71388131a2be4c62d2cf85", null ],
+    [ "UpdateAI", "d4/d55/a14150.html#a7fbe2d52d179bcc8113407054befae00", null ],
+    [ "spoken", "d4/d55/a14150.html#a4ed4b960104211c61067b1e66752eb74", null ]
 ];

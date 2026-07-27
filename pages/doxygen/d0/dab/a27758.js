@@ -1,6 +1,6 @@
 var a27758 =
 [
-    [ "go_witherbark_totem_bundleAI", "d2/d18/a27762.html", "d2/d18/a27762" ],
-    [ "go_witherbark_totem_bundle", "d0/dab/a27758.html#affcdff7ec6894add0acec842028efd2e", null ],
-    [ "GetAI", "d0/dab/a27758.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
+    [ "PrepareAuraScript", "d0/dab/a27758.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "d0/dab/a27758.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "d0/dab/a27758.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

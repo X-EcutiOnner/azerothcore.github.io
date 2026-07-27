@@ -1,17 +1,10 @@
 var a02147 =
 [
-    [ "DeleteSpellFromAllPlayers", "d3/d28/a02147.html#af0dec25ac7c118b67a71a0356eb37877", null ],
-    [ "GetDiminishingReturnsGroupForSpell", "d3/d28/a02147.html#a35697cceaf39daf069d06c53e8e3cdf7", null ],
-    [ "GetDiminishingReturnsGroupType", "d3/d28/a02147.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1", null ],
-    [ "GetDiminishingReturnsLimitDuration", "d3/d28/a02147.html#a2ba27d428865ac3f87bf6f6843271d3f", null ],
-    [ "GetDiminishingReturnsMaxLevel", "d3/d28/a02147.html#ad621262d491c800fb5ddd016250dd46f", null ],
-    [ "InitTriggerAuraData", "d3/d28/a02147.html#a70fb722e03fe637ce7c9979a00725a3c", null ],
-    [ "IsDiminishingReturnsGroupDurationLimited", "d3/d28/a02147.html#a423a80c889a3456a2b55e0e9c22ad060", null ],
-    [ "IsPartOfSkillLine", "d3/d28/a02147.html#a18102741b602d3b4473f75d4f619a09b", null ],
-    [ "IsPrimaryProfessionSkill", "d3/d28/a02147.html#a09c4e23bd85fab812b67beafbbf1b7b3", null ],
-    [ "LoadPetDefaultSpells_helper", "d3/d28/a02147.html#a26626d5f5404864fcd622872f5cd8af1", null ],
-    [ "isAlwaysTriggeredAura", "d3/d28/a02147.html#a59735a3ed46ce3add4f949e4c9e041f8", null ],
-    [ "isTriggerAura", "d3/d28/a02147.html#ad51bed43268eefcceebdda05d85c6a61", null ],
-    [ "procPrepared", "d3/d28/a02147.html#a11410c456e972de7cfb44bbe17709cc4", null ],
-    [ "spellTypeMask", "d3/d28/a02147.html#aacbfece2441a495ad1e709acd28bc9b7", null ]
+    [ "QEmote", "d9/db8/a10010.html", "d9/db8/a10010" ],
+    [ "GossipTextOption", "d0/dcf/a10014.html", "d0/dcf/a10014" ],
+    [ "GossipText", "d3/d77/a10018.html", "d3/d77/a10018" ],
+    [ "PageTextLocale", "d3/d59/a10022.html", "d3/d59/a10022" ],
+    [ "NpcTextLocale", "da/d24/a10026.html", "da/d24/a10026" ],
+    [ "MAX_GOSSIP_TEXT_EMOTES", "d3/d28/a02147.html#a705783094711e028814c1c59a16c2c4f", null ],
+    [ "MAX_GOSSIP_TEXT_OPTIONS", "d3/d28/a02147.html#a114c9636000e930cd1dc1ef7e444814f", null ]
 ];

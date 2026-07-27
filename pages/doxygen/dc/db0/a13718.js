@@ -1,6 +1,5 @@
 var a13718 =
 [
-    [ "FilterTargets", "dc/db0/a13718.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
-    [ "PrepareSpellScript", "dc/db0/a13718.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
-    [ "Register", "dc/db0/a13718.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
+    [ "at_sunwell_eredar_twins", "dc/db0/a13718.html#afc183c384bc87321186b20e0ac168c1f", null ],
+    [ "_OnTrigger", "dc/db0/a13718.html#aa862756c9905e2cb10d60c70b47919aa", null ]
 ];

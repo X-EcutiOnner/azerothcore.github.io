@@ -1,9 +1,13 @@
 var a14070 =
 [
-    [ "npc_thrall_bfuAI", "dd/d4e/a14074.html", "dd/d4e/a14074" ],
-    [ "npc_thrall_bfu", "d2/d0c/a14070.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
-    [ "GetAI", "d2/d0c/a14070.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
-    [ "OnGossipHello", "d2/d0c/a14070.html#a71a7108464de9245879c8a1c08932e2a", null ],
-    [ "OnGossipSelect", "d2/d0c/a14070.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
-    [ "OnQuestReward", "d2/d0c/a14070.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
+    [ "npc_corporal_keeshanAI", "d2/d0c/a14070.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
+    [ "Reset", "d2/d0c/a14070.html#a311488932a3de9153490d41e3fae92fb", null ],
+    [ "sQuestAccept", "d2/d0c/a14070.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
+    [ "UpdateAI", "d2/d0c/a14070.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
+    [ "WaypointReached", "d2/d0c/a14070.html#a3edc9ab54068e47f955116db70454f6c", null ],
+    [ "WaypointReached", "d2/d0c/a14070.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "mockingBlowTimer", "d2/d0c/a14070.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
+    [ "phase", "d2/d0c/a14070.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
+    [ "shieldBashTimer", "d2/d0c/a14070.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
+    [ "timer", "d2/d0c/a14070.html#a3107368f175aa7f4e8c405248ef917df", null ]
 ];

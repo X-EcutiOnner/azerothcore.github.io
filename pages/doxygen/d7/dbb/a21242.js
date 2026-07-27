@@ -1,7 +1,6 @@
 var a21242 =
 [
-    [ "npc_mootoo_the_youngerAI", "db/da9/a21246.html", "db/da9/a21246" ],
-    [ "npc_mootoo_the_younger", "d7/dbb/a21242.html#a91e10489ed6a98cfa764fd4de8448317", null ],
-    [ "GetAI", "d7/dbb/a21242.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
-    [ "OnQuestAccept", "d7/dbb/a21242.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
+    [ "npc_ferocious_rhinoAI", "db/da9/a21246.html", "db/da9/a21246" ],
+    [ "npc_ferocious_rhino", "d7/dbb/a21242.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
+    [ "GetAI", "d7/dbb/a21242.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
 ];

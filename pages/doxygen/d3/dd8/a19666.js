@@ -1,6 +1,8 @@
 var a19666 =
 [
-    [ "HandleEffectCalcAmount", "d3/dd8/a19666.html#afa50ce616d36dd59c7195209074d6182", null ],
-    [ "PrepareAuraScript", "d3/dd8/a19666.html#a4638b99dac7653f13d59c3928a78b3b9", null ],
-    [ "Register", "d3/dd8/a19666.html#a691d5a99eec9e367c518d0244f25bd41", null ]
+    [ "HandleDamage", "d3/dd8/a19666.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
+    [ "HandleTargets", "d3/dd8/a19666.html#ac36e689bad93aa17738f390680764a7e", null ],
+    [ "PrepareSpellScript", "d3/dd8/a19666.html#a149db071722ce12cded16087c8eec1df", null ],
+    [ "Register", "d3/dd8/a19666.html#abd073f34a414fab7ee23ee933863f1c7", null ],
+    [ "Validate", "d3/dd8/a19666.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
 ];

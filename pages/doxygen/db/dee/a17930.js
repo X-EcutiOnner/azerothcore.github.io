@@ -1,6 +1,7 @@
 var a17930 =
 [
-    [ "IgbArtilleryCheck", "db/dee/a17930.html#a78b65928551ed799cf3f446f0603c50e", null ],
-    [ "operator()", "db/dee/a17930.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
-    [ "_entry", "db/dee/a17930.html#a98a6a0836414da82c288e372e982f69f", null ]
+    [ "ExtraEffect", "db/dee/a17930.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "db/dee/a17930.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "db/dee/a17930.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "db/dee/a17930.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

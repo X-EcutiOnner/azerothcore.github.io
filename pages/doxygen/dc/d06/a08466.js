@@ -1,13 +1,11 @@
 var a08466 =
 [
-    [ "AnimationInfo", "dc/d06/a08466.html#aa443028e95ae416e09f1acfef0575803", null ],
-    [ "Building", "dc/d06/a08466.html#a53c177a0b800f7e0952bff948fca636c", null ],
-    [ "CapturePoint", "dc/d06/a08466.html#a200f05ff1207f21ef67cb9c14d3a4767", null ],
-    [ "FishingHole", "dc/d06/a08466.html#a1ccae6fe25f6c9377c5c2933b6301254", null ],
-    [ "Health", "dc/d06/a08466.html#af70b72663064c9c4b88c93a824f1e14b", null ],
-    [ "MaxHealth", "dc/d06/a08466.html#ab606f11596c1dd3d1cf7588346338721", null ],
-    [ "MaxOpens", "dc/d06/a08466.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
-    [ "OPvPObj", "dc/d06/a08466.html#a565624b690fa7fabf21b175548765652", null ],
-    [ "PathProgress", "dc/d06/a08466.html#a9e07a147b2be08a78f052e0cdb817111", null ],
-    [ "Transport", "dc/d06/a08466.html#a0e552fe0bfca9c74cbe9c6f72fc044e5", null ]
+    [ "AddItem", "dc/d06/a08466.html#a46f6533323fd15632c3f9a8b96ef6f3f", null ],
+    [ "Clear", "dc/d06/a08466.html#a70c7400c4bc60923fd538890774445de", null ],
+    [ "Empty", "dc/d06/a08466.html#ab55fa73ab327294de2c5f6906fc1fbdb", null ],
+    [ "FindItemCostPair", "dc/d06/a08466.html#a61dc4394afdd3a360559ffec1655c343", null ],
+    [ "GetItem", "dc/d06/a08466.html#aa764da5b4647c84813e3aa6b46de7593", null ],
+    [ "GetItemCount", "dc/d06/a08466.html#ae80634592ce705c77c5aa53960f89c24", null ],
+    [ "RemoveItem", "dc/d06/a08466.html#a974925f2979910348a0af795893b310b", null ],
+    [ "m_items", "dc/d06/a08466.html#aa16668e54fce8fffe8651644cdef4335", null ]
 ];

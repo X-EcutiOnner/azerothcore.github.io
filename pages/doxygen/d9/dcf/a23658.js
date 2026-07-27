@@ -1,6 +1,6 @@
 var a23658 =
 [
-    [ "npc_aeranasAI", "d9/dea/a23662.html", "d9/dea/a23662" ],
-    [ "npc_aeranas", "d9/dcf/a23658.html#a6ea71481ef6a223a329b805081122537", null ],
-    [ "GetAI", "d9/dcf/a23658.html#a81167df6665bdca81ee13468dec19643", null ]
+    [ "boss_porung", "d9/dcf/a23658.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "d9/dcf/a23658.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "d9/dcf/a23658.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

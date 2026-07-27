@@ -1,7 +1,8 @@
 var a10202 =
 [
-    [ "LFGUpdateRequest", "d4/d86/a10202.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
-    [ "call", "d4/d86/a10202.html#a15258001db5870a0f52bb0c72cba3587", null ],
-    [ "m_diff", "d4/d86/a10202.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
-    [ "m_updater", "d4/d86/a10202.html#a1bb4423241495aebab83ebc1acf66510", null ]
+    [ "CircleBoundary", "d4/d86/a10202.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
+    [ "CircleBoundary", "d4/d86/a10202.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
+    [ "IsWithinBoundaryArea", "d4/d86/a10202.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
+    [ "_center", "d4/d86/a10202.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
+    [ "_radiusSq", "d4/d86/a10202.html#acbb3cc0c546f0e557a48a45425355950", null ]
 ];

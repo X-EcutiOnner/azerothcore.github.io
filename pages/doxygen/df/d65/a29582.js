@@ -1,5 +1,6 @@
 var a29582 =
 [
-    [ "CreateBasicProcEntry", "df/d65/a29582.html#a047473844c17b28cab20159721fc9ee8", null ],
-    [ "SetUp", "df/d65/a29582.html#ad9848a18a0b1fa950cabcfa1584e0103", null ]
+    [ "lastExtraAttackSpell", "df/d65/a29582.html#a0b7c47a0c1a328703648936a1da3245f", null ],
+    [ "triggeredSpellHasExtraAttacks", "df/d65/a29582.html#ad58a8f2f91c6a32371feab14e51e8e29", null ],
+    [ "triggerSpellId", "df/d65/a29582.html#a01a4d76e7e2bf15a3ae06926fa1189c9", null ]
 ];

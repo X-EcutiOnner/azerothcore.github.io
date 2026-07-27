@@ -1,9 +1,5 @@
 var a07670 =
 [
-    [ "CapturePointInfo", "d5/d6a/a07670.html#a47ba3bbadd15909726e87dc5adc67686", null ],
-    [ "_captured", "d5/d6a/a07670.html#aac26833d9951853183095b3985254e03", null ],
-    [ "_iconCapture", "d5/d6a/a07670.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
-    [ "_iconNone", "d5/d6a/a07670.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
-    [ "_ownerTeamId", "d5/d6a/a07670.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
-    [ "_state", "d5/d6a/a07670.html#a98cb154218423e295b8007c62222831c", null ]
+    [ "CreateFilterByUserInput", "d5/d6a/a07670.html#ae35ff456f56290032c4c62d252a83690", null ],
+    [ "ParseTypes", "d5/d6a/a07670.html#a79a78392d31f1fbf3d8475572d570c1c", null ]
 ];

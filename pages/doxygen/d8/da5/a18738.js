@@ -1,6 +1,7 @@
 var a18738 =
 [
-    [ "npc_blazing_skeletonAI", "de/dac/a18742.html", "de/dac/a18742" ],
-    [ "npc_blazing_skeleton", "d8/da5/a18738.html#a158720704479946048472ffe0beec492", null ],
-    [ "GetAI", "d8/da5/a18738.html#af29ea4620ebafaa4d47ec9f37758af77", null ]
+    [ "OnPeriodic", "d8/da5/a18738.html#a9635bf496ee3098e412ba7de633250b3", null ],
+    [ "PrepareAuraScript", "d8/da5/a18738.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
+    [ "Register", "d8/da5/a18738.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
+    [ "Validate", "d8/da5/a18738.html#a5675fef373315edd34d096bb91c733b0", null ]
 ];

@@ -1,7 +1,8 @@
 var a27370 =
 [
-    [ "CalculateAmount", "df/d34/a27370.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
-    [ "PrepareAuraScript", "df/d34/a27370.html#a20dad49a99420556f393a16525eb14b4", null ],
-    [ "Register", "df/d34/a27370.html#ad7d339ab137ebd640981f7789e1757f0", null ],
-    [ "Validate", "df/d34/a27370.html#a341acb2dd25c1db94777f7036f3338ac", null ]
+    [ "CheckProc", "df/d34/a27370.html#a019b47e139e155c0803c0ce9a3a42f82", null ],
+    [ "HandleProc", "df/d34/a27370.html#a92fff2ae3b59c3dd62e92a11312f87ae", null ],
+    [ "PrepareAuraScript", "df/d34/a27370.html#a91ef63b96918e797e677423d51f94112", null ],
+    [ "Register", "df/d34/a27370.html#a5625b3a60a607bd07d4328aa1886cfc5", null ],
+    [ "Validate", "df/d34/a27370.html#ab6178007664afc34556336ec9620cd4f", null ]
 ];

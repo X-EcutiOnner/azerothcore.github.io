@@ -1,6 +1,6 @@
 var a29210 =
 [
-    [ "auraName", "dd/d34/a29210.html#a953f930e046655ca0d8f373362d3f334", null ],
-    [ "isAlwaysTriggeredAura", "dd/d34/a29210.html#a05786c8e0daef9a2da98f832c230d99c", null ],
-    [ "procFlags", "dd/d34/a29210.html#aed48a1ad923118ac0a86d864e1e98519", null ]
+    [ "ID", "dd/d34/a29210.html#a7d40e334785d96a2e57d28f87a59778a", null ],
+    [ "maxCount", "dd/d34/a29210.html#a5edc6442e026b12dae654fa86440a11a", null ],
+    [ "mode", "dd/d34/a29210.html#a76553ecf9f880a5e5967f818123742fd", null ]
 ];

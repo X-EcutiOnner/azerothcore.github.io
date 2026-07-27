@@ -1,6 +1,11 @@
 var a21918 =
 [
-    [ "npc_freed_protodrakeAI", "d0/d18/a21922.html", "d0/d18/a21922" ],
-    [ "npc_freed_protodrake", "d7/d6b/a21918.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
-    [ "GetAI", "d7/d6b/a21918.html#a9680bf65cb97327396f58c297df1c8f5", null ]
+    [ "npc_emilyAI", "d7/d6b/a21918.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "d7/d6b/a21918.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "d7/d6b/a21918.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "d7/d6b/a21918.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "d7/d6b/a21918.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "WaypointReached", "d7/d6b/a21918.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_mrfloppyGUID", "d7/d6b/a21918.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "d7/d6b/a21918.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

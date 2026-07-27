@@ -1,9 +1,7 @@
 var a29042 =
 [
-    [ "adtId", "d8/d2d/a29042.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
-    [ "areaId", "d8/d2d/a29042.html#a7f652c68036429350543fc5a2cc6861e", null ],
-    [ "Flags", "d8/d2d/a29042.html#a60f9a61948d1e28587c9d1a338730f37", null ],
-    [ "groupId", "d8/d2d/a29042.html#a09052bad3028899580ffedd556672b64", null ],
-    [ "Id", "d8/d2d/a29042.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
-    [ "rootId", "d8/d2d/a29042.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
+    [ "bit_index", "d8/d2d/a29042.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "d8/d2d/a29042.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "d8/d2d/a29042.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "d8/d2d/a29042.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

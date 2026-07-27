@@ -1,7 +1,10 @@
 var a12522 =
 [
-    [ "boss_moira_bronzebeard", "da/de7/a12522.html#aaab4b597fd97619c2a41e2a6425810de", null ],
-    [ "CastOnEmperorIfPossible", "da/de7/a12522.html#a413aab0c096319ea17d6c6a078b056ea", null ],
-    [ "JustEngagedWith", "da/de7/a12522.html#a6bf08072a59fe72ce4a3e27a9e289d3c", null ],
-    [ "UpdateAI", "da/de7/a12522.html#a8319c70b3391721164ac1a01d8f6be9c", null ]
+    [ "mmaps_commandscript", "da/de7/a12522.html#a1dbdfd26bdb685315a3012453080a56f", null ],
+    [ "GetCommands", "da/de7/a12522.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
+    [ "HandleMmapLoadedTilesCommand", "da/de7/a12522.html#a40d5b7e733298210c686fe89490b6f61", null ],
+    [ "HandleMmapLocCommand", "da/de7/a12522.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
+    [ "HandleMmapPathCommand", "da/de7/a12522.html#a2c876439ad6d9ff7523f140d97743dea", null ],
+    [ "HandleMmapStatsCommand", "da/de7/a12522.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
+    [ "HandleMmapTestArea", "da/de7/a12522.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
 ];

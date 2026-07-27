@@ -1,7 +1,6 @@
 var a09466 =
 [
-    [ "V8Type", "d1/d73/a09466.html#a385ac15640b76e43eda077c451dcd745", null ],
-    [ "V9Type", "d1/d73/a09466.html#a9b7daa2ba0e72e137243ac061efaa2a5", null ],
-    [ "v8", "d1/d73/a09466.html#a55d7b001e047c31686b110cc4b1aa295", null ],
-    [ "v9", "d1/d73/a09466.html#ab4f6ec9aefc2721bd216582d7a882aa3", null ]
+    [ "m_guid", "d1/d73/a09466.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
+    [ "m_instance", "d1/d73/a09466.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
+    [ "m_state", "d1/d73/a09466.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
 ];

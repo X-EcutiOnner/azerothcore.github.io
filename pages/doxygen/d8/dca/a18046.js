@@ -1,6 +1,6 @@
 var a18046 =
 [
-    [ "HandleScriptEffect", "d8/dca/a18046.html#ac6017cbe86b328aef00f707051c67e5f", null ],
-    [ "PrepareSpellScript", "d8/dca/a18046.html#a3e21794652b0ffea67571f9b294b4961", null ],
-    [ "Register", "d8/dca/a18046.html#a4d070dff98fed842e0a3839e918f7c5a", null ]
+    [ "npc_gunship_gunnerAI", "da/d7d/a18050.html", "da/d7d/a18050" ],
+    [ "npc_gunship_gunner", "d8/dca/a18046.html#a409711f22b35eae0c0d48bc23545e592", null ],
+    [ "GetAI", "d8/dca/a18046.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
 ];

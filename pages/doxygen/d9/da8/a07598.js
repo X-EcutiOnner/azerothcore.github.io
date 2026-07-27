@@ -1,10 +1,8 @@
 var a07598 =
 [
-    [ "BattlegroundChatBuilder", "d9/da8/a07598.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
-    [ "do_helper", "d9/da8/a07598.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
-    [ "operator()", "d9/da8/a07598.html#ab84296c320b09a387de6e6e6a2326b83", null ],
-    [ "_args", "d9/da8/a07598.html#a32a72bf1110179cc58dcf2df914c7389", null ],
-    [ "_msgtype", "d9/da8/a07598.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
-    [ "_source", "d9/da8/a07598.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
-    [ "_textId", "d9/da8/a07598.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
+    [ "entry", "d9/da8/a07598.html#ab47ef3b15c887f46fb1bf9c88f5cc5d8", null ],
+    [ "o", "d9/da8/a07598.html#af2bf42b7d1a18e7ee1125a305ee7bc79", null ],
+    [ "x", "d9/da8/a07598.html#a4fb658cf54f9534e0686a8fa5b2328c7", null ],
+    [ "y", "d9/da8/a07598.html#aa761c9076be145dab6d2cac773bb6e7a", null ],
+    [ "z", "d9/da8/a07598.html#ac9ff501bbf00d80f5b9350a78ffbb6fb", null ]
 ];

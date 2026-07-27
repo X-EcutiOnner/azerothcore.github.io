@@ -1,9 +1,10 @@
 var a06530 =
 [
-    [ "Escort_Waypoint", "d9/d07/a06530.html#a272aeeba02403a21c4900e6b0844a328", null ],
-    [ "id", "d9/d07/a06530.html#a6a763373fcc37e5a463b54e1e1a68235", null ],
-    [ "WaitTimeMs", "d9/d07/a06530.html#a467a869dba9243bd165e4c480e339705", null ],
-    [ "x", "d9/d07/a06530.html#a4d751062b2ab46734049bf8939a30731", null ],
-    [ "y", "d9/d07/a06530.html#a88648b1bd70afad73d402c40abcd68b5", null ],
-    [ "z", "d9/d07/a06530.html#a810ad58fe70fd6402f01ed7e70b450e0", null ]
+    [ "DefaultTargetSelector", "d9/d07/a06530.html#a4ec61d03309c7d8a977afb2060b549a3", null ],
+    [ "operator()", "d9/d07/a06530.html#aa028e0b06c45bc1eaaa8ca0bb2208a35", null ],
+    [ "except", "d9/d07/a06530.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e", null ],
+    [ "m_aura", "d9/d07/a06530.html#a93cae8f794de101a6a0a821961c312b8", null ],
+    [ "m_dist", "d9/d07/a06530.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f", null ],
+    [ "m_playerOnly", "d9/d07/a06530.html#aa7d50214f6fcb051279373e3373a6f68", null ],
+    [ "me", "d9/d07/a06530.html#a4e468ce5a085ef402659db46f71d6262", null ]
 ];

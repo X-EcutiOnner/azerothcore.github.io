@@ -1,5 +1,6 @@
 var a18314 =
 [
-    [ "operator()", "dd/da8/a18314.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
-    [ "operator()", "dd/da8/a18314.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
+    [ "FilterTargets", "dd/da8/a18314.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
+    [ "PrepareSpellScript", "dd/da8/a18314.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
+    [ "Register", "dd/da8/a18314.html#a32e04a1110d651701b8eab1648c69a57", null ]
 ];

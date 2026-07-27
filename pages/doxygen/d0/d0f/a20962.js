@@ -1,18 +1,15 @@
 var a20962 =
 [
-    [ "boss_svalaAI", "d0/d0f/a20962.html#a568466d621043157958bea38595d42a8", null ],
-    [ "EnterEvadeMode", "d0/d0f/a20962.html#a7808767e79ebe4c5ac784ff7a32874f6", null ],
-    [ "JustDied", "d0/d0f/a20962.html#aa85b0d305074d0df887fbb7ba42a3b20", null ],
-    [ "JustEngagedWith", "d0/d0f/a20962.html#ae36faacbbd22ddde8d8f25540e583c14", null ],
-    [ "JustSummoned", "d0/d0f/a20962.html#ad4bf163bf81dee06bead6f9a8aaa2a3a", null ],
-    [ "KilledUnit", "d0/d0f/a20962.html#a440053a21489b6e4691fc4a6e5984908", null ],
-    [ "Reset", "d0/d0f/a20962.html#a9c6fca6d70c7c53048b137b7d8cc0861", null ],
-    [ "SetData", "d0/d0f/a20962.html#a86f376743055f99c066ad1a7c960b6c7", null ],
-    [ "UpdateAI", "d0/d0f/a20962.html#a47b7405bd2fd6789f61172cbacd12fa0", null ],
-    [ "ArthasGUID", "d0/d0f/a20962.html#a42e1753c8a66cc292799c890b9177a3e", null ],
-    [ "events", "d0/d0f/a20962.html#abe87bb56b844c75dd9b24a4d45c94e7f", null ],
-    [ "events2", "d0/d0f/a20962.html#a542d2bc22970ee5835b2e15322dc2e58", null ],
-    [ "instance", "d0/d0f/a20962.html#a58f451d373d8336d5b8b38e33a1eeea8", null ],
-    [ "Started", "d0/d0f/a20962.html#a5d4b4c94062db7601fdc918f9727e03b", null ],
-    [ "summons", "d0/d0f/a20962.html#a3d14b708a8156a6c9025ff92aa3774c4", null ]
+    [ "boss_yoggsaron_cloud", "d0/d0f/a20962.html#a4efbeab85d5770784f1474176a23fd74", null ],
+    [ "AttackStart", "d0/d0f/a20962.html#a280ad77f30f06c01ee16434794814767", null ],
+    [ "DoAction", "d0/d0f/a20962.html#ad7452d20420fc1fc30088e455a9cdfc3", null ],
+    [ "InitWaypoint", "d0/d0f/a20962.html#a390c25b21c29aafb616bd2c827352ffe", null ],
+    [ "JustSummoned", "d0/d0f/a20962.html#a2c321419548e8ce151d639c3fbd7b1b4", null ],
+    [ "MoveInLineOfSight", "d0/d0f/a20962.html#a798009bca30677a645529b1313cc89ae", null ],
+    [ "Reset", "d0/d0f/a20962.html#ad548ae65a05f600487a57899760ebab0", null ],
+    [ "UpdateEscortAI", "d0/d0f/a20962.html#aba8043fca75864e583da9c5167efce3b", null ],
+    [ "WaypointReached", "d0/d0f/a20962.html#aae9f3ac55a3008fcc88d78c907056827", null ],
+    [ "WaypointReached", "d0/d0f/a20962.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_checkTimer", "d0/d0f/a20962.html#aa6fda2f2b1d3405bd1aca66e37abbcd8", null ],
+    [ "_isSummoning", "d0/d0f/a20962.html#a339bf4c5ef6449d42aa3c36759a99aa4", null ]
 ];

@@ -1,11 +1,13 @@
 var a17458 =
 [
-    [ "boss_slad_ranAI", "dc/d9e/a17458.html#ad85e2fd51d67739026a96bc757bc7801", null ],
-    [ "GetData", "dc/d9e/a17458.html#a58e1188a418acdc1f327e7df90c5c122", null ],
-    [ "JustDied", "dc/d9e/a17458.html#a636ca76497c33a5175986e80bbcda44a", null ],
-    [ "JustEngagedWith", "dc/d9e/a17458.html#ac30b38805d0421b1be509c7d5609c648", null ],
-    [ "KilledUnit", "dc/d9e/a17458.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
-    [ "Reset", "dc/d9e/a17458.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
-    [ "SetData", "dc/d9e/a17458.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
-    [ "_achievement", "dc/d9e/a17458.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
+    [ "boss_tyrannusAI", "dc/d9e/a17458.html#a753de14d2cecaaed2c7b24e09397b008", null ],
+    [ "CanAIAttack", "dc/d9e/a17458.html#a0cb60f308637cbd152faf274b3e5f636", null ],
+    [ "DoAction", "dc/d9e/a17458.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
+    [ "EnterEvadeMode", "dc/d9e/a17458.html#a9d18bab323c676020dede77a498a5b77", null ],
+    [ "JustDied", "dc/d9e/a17458.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
+    [ "KilledUnit", "dc/d9e/a17458.html#abf7c8909143dac641c00cca160bef964", null ],
+    [ "Reset", "dc/d9e/a17458.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
+    [ "UpdateAI", "dc/d9e/a17458.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
+    [ "events", "dc/d9e/a17458.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
+    [ "pInstance", "dc/d9e/a17458.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
 ];

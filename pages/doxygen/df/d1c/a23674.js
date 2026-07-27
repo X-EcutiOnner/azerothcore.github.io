@@ -1,6 +1,7 @@
 var a23674 =
 [
-    [ "npc_wounded_blood_elfAI", "d4/d77/a23678.html", "d4/d77/a23678" ],
-    [ "npc_wounded_blood_elf", "df/d1c/a23674.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "df/d1c/a23674.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "HandleOnApply", "df/d1c/a23674.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
+    [ "HandleOnRemove", "df/d1c/a23674.html#aed5f87523c58d94c8f98b76c06abb140", null ],
+    [ "PrepareAuraScript", "df/d1c/a23674.html#ab32413873bec92540f9e85e8013b7ea2", null ],
+    [ "Register", "df/d1c/a23674.html#a0653d8688f98822580a3243a0d47c17a", null ]
 ];

@@ -1,5 +1,10 @@
 var a29430 =
 [
-    [ "MakeTime", "d0/d9a/a29430.html#a26f7c5c9395291b98facf91b7ba9530b", null ],
-    [ "PackTwoDates", "d0/d9a/a29430.html#a62c6e33dcbd3970319b3f8a791063d15", null ]
+    [ "area_id", "d0/d9a/a29430.html#acbd77950bf9548d266e568640cf38458", null ],
+    [ "map_id", "d0/d9a/a29430.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
+    [ "virtual_map_id", "d0/d9a/a29430.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
+    [ "x1", "d0/d9a/a29430.html#a78967fef40841f705c2564a177cb36f3", null ],
+    [ "x2", "d0/d9a/a29430.html#a037dca812715df0b4f2551f8684b537c", null ],
+    [ "y1", "d0/d9a/a29430.html#a7f90073656e1cd00a88add9f8d881d11", null ],
+    [ "y2", "d0/d9a/a29430.html#ad8e0164952e5565488d5443f269ec79e", null ]
 ];

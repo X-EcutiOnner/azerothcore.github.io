@@ -1,7 +1,7 @@
 var a15706 =
 [
-    [ "npc_kerlonianAI", "d6/dc4/a15710.html", "d6/dc4/a15710" ],
-    [ "npc_kerlonian", "d1/dc1/a15706.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "d1/dc1/a15706.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "d1/dc1/a15706.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "npc_sartura_royal_guard", "d1/dc1/a15706.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "d1/dc1/a15706.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "d1/dc1/a15706.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "d1/dc1/a15706.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

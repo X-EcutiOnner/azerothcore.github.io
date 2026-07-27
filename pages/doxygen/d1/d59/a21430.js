@@ -1,6 +1,6 @@
 var a21430 =
 [
-    [ "CheckCast", "d1/d59/a21430.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
-    [ "PrepareSpellScript", "d1/d59/a21430.html#abff433d61c798d17882292b6b0956a58", null ],
-    [ "Register", "d1/d59/a21430.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
+    [ "npc_frozen_orb_stalkerAI", "d1/d59/a21430.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
+    [ "JustSummoned", "d1/d59/a21430.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
+    [ "Reset", "d1/d59/a21430.html#a064ccb90afeb9b36d501850482c60bc4", null ]
 ];

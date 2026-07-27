@@ -1,10 +1,5 @@
 var a10906 =
 [
-    [ "EnvironmentalDamageLog", "d4/db9/a10906.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
-    [ "Write", "d4/db9/a10906.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
-    [ "Absorbed", "d4/db9/a10906.html#a443df04be3afe2021532716140ffb099", null ],
-    [ "Amount", "d4/db9/a10906.html#a073e22176d44f5806313c2a4bd3e263a", null ],
-    [ "Resisted", "d4/db9/a10906.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
-    [ "Type", "d4/db9/a10906.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
-    [ "Victim", "d4/db9/a10906.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
+    [ "UpdatableScript", "d4/db9/a10906.html#a2d6cf85d1eb98438b5022804296eff11", null ],
+    [ "OnUpdate", "d4/db9/a10906.html#abf328325e08aa0d6adf36e6f70b02328", null ]
 ];

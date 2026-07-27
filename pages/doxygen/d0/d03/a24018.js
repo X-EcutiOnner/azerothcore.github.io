@@ -1,6 +1,7 @@
 var a24018 =
 [
-    [ "PrepareSpellScript", "d0/d03/a24018.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
-    [ "RecalculateDamage", "d0/d03/a24018.html#af01757d0968da2a096d800782ed7e66e", null ],
-    [ "Register", "d0/d03/a24018.html#a62b6613707a2a9b78d52bffe92de604e", null ]
+    [ "HandleEffect", "d0/d03/a24018.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "d0/d03/a24018.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "d0/d03/a24018.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "d0/d03/a24018.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

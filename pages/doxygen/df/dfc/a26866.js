@@ -1,6 +1,10 @@
 var a26866 =
 [
-    [ "HandleScript", "df/dfc/a26866.html#acde0ae837d0cd3af0f38481027200291", null ],
-    [ "PrepareSpellScript", "df/dfc/a26866.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
-    [ "Register", "df/dfc/a26866.html#a2dc2628984358628afe7d9b62ced7794", null ]
+    [ "CalculateAmount", "df/dfc/a26866.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
+    [ "CheckDropCharge", "df/dfc/a26866.html#a69bcdbce43cee47873a2ba54ff03d928", null ],
+    [ "HandleUpdateSpellclick", "df/dfc/a26866.html#a89956d7f3a6404d5b60e46034867c82c", null ],
+    [ "InitializeAmount", "df/dfc/a26866.html#a4b0656e78d748d974d6d77a43cfa7910", null ],
+    [ "PrepareAuraScript", "df/dfc/a26866.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
+    [ "Register", "df/dfc/a26866.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ],
+    [ "_remainingAmount", "df/dfc/a26866.html#aa9a60ff01b89cb7c800d068e92c00ce3", null ]
 ];

@@ -1,7 +1,14 @@
 var a23714 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "db/d68/a23714.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
-    [ "JustEngagedWith", "db/d68/a23714.html#a4038d707731f64f588e307c22c859902", null ],
-    [ "MoveInLineOfSight", "db/d68/a23714.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
-    [ "Reset", "db/d68/a23714.html#a29132346f117ba785039057619edb9e7", null ]
+    [ "npc_warden_mellicharAI", "db/d68/a23714.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
+    [ "AttackStart", "db/d68/a23714.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
+    [ "DamageTaken", "db/d68/a23714.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
+    [ "JustDied", "db/d68/a23714.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
+    [ "JustEngagedWith", "db/d68/a23714.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
+    [ "JustSummoned", "db/d68/a23714.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
+    [ "MoveInLineOfSight", "db/d68/a23714.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
+    [ "Reset", "db/d68/a23714.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
+    [ "SetData", "db/d68/a23714.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
+    [ "SummonedCreatureDies", "db/d68/a23714.html#a58e1011986be65725d4db3d782bc72ac", null ],
+    [ "UpdateAI", "db/d68/a23714.html#a944cff5367213d561a7e6df5faf2a216", null ]
 ];

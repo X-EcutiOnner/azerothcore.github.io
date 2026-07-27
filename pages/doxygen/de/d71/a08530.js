@@ -1,25 +1,15 @@
 var a08530 =
 [
-    [ "ClientUpdateMaskType", "de/d71/a08530.html#a7638c508cfb0f5480eec2f9d650b0eb4", null ],
-    [ "UpdateMaskCount", "de/d71/a08530.html#a667c2f210ee4a2417a2a3ba486d1332f", [
-      [ "CLIENT_UPDATE_MASK_BITS", "de/d71/a08530.html#a667c2f210ee4a2417a2a3ba486d1332fac06e5fd027ae17cd4eaf7faa2580098b", null ]
-    ] ],
-    [ "UpdateMask", "de/d71/a08530.html#a72e9de07108361222addde025ea8362f", null ],
-    [ "UpdateMask", "de/d71/a08530.html#ae0cefda1282f8c29a6557e1c25e007de", null ],
-    [ "~UpdateMask", "de/d71/a08530.html#a986a2b81e0b4f86486ccc455ff6ad79a", null ],
-    [ "AppendToPacket", "de/d71/a08530.html#afe89109ca16f687072062408e311f793", null ],
-    [ "Clear", "de/d71/a08530.html#a39cffd3822966011d83d7241ee3c5548", null ],
-    [ "GetBit", "de/d71/a08530.html#a69f7c72de49699d5730f3a10d55f30e2", null ],
-    [ "GetBlockCount", "de/d71/a08530.html#a5c0d2086346e4522e422add9622e1117", null ],
-    [ "GetCount", "de/d71/a08530.html#a1f6e2b930533b303c173166bf3588613", null ],
-    [ "operator&=", "de/d71/a08530.html#af15db8c732b94437fd1323a911eab5ce", null ],
-    [ "operator=", "de/d71/a08530.html#a3c94144194d52a00888b8bb0760e2d5a", null ],
-    [ "operator|", "de/d71/a08530.html#a487d62a6a039803da615d265a176f138", null ],
-    [ "operator|=", "de/d71/a08530.html#a81b64e6574c61533b07491920eddf413", null ],
-    [ "SetBit", "de/d71/a08530.html#af3390cfa31c39629968a871be2c763fc", null ],
-    [ "SetCount", "de/d71/a08530.html#ad6ec4d5a2b6a85a2ec72b559efbdeb35", null ],
-    [ "UnsetBit", "de/d71/a08530.html#aaac0596975c08d04736996c608eff29f", null ],
-    [ "_bits", "de/d71/a08530.html#ab34e66bf840ac230da0cfa35ef332145", null ],
-    [ "_blockCount", "de/d71/a08530.html#ad58cc5d2dbf8854f36ef4a19f5b6f51b", null ],
-    [ "_fieldCount", "de/d71/a08530.html#a6c7ed53833620c2754b1e0db85a96ece", null ]
+    [ "Guardian", "de/d71/a08530.html#a14bd59fddfc552c4a25c6bc4ad714508", null ],
+    [ "GetDebugInfo", "de/d71/a08530.html#ace47e7d3fb3162786329cbcf1c6cab46", null ],
+    [ "InitStats", "de/d71/a08530.html#a698ac009e39a2e8461b40135b75609ef", null ],
+    [ "InitStatsForLevel", "de/d71/a08530.html#a7d0ae55d55f4c3ea35de601c2c6c6e6b", null ],
+    [ "InitSummon", "de/d71/a08530.html#a1d5ebfa5ac5754293172041dc3a2c47d", null ],
+    [ "UpdateAllStats", "de/d71/a08530.html#ae2f3d68429afb154f790d65dae6406b3", null ],
+    [ "UpdateArmor", "de/d71/a08530.html#adc8ed8497f8450ccad92f79322d9f452", null ],
+    [ "UpdateAttackPowerAndDamage", "de/d71/a08530.html#af40269c3c63fc12b21f18c67ef067a0f", null ],
+    [ "UpdateDamagePhysical", "de/d71/a08530.html#aa45ffb532a2a8075d8e4acb818c08d70", null ],
+    [ "UpdateMaxHealth", "de/d71/a08530.html#a62c41f7922bc1c2e1697a1eea65cdb72", null ],
+    [ "UpdateMaxPower", "de/d71/a08530.html#a620010832de5fc7d6d1a8545321f9dea", null ],
+    [ "UpdateStats", "de/d71/a08530.html#a6b615ed2f01623991fa45907a09cc642", null ]
 ];

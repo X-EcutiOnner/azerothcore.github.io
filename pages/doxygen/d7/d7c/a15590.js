@@ -1,8 +1,23 @@
 var a15590 =
 [
-    [ "npc_obsidian_eradicator", "d7/d7c/a15590.html#a84a6c414b3d74468143984e57f83e383", null ],
-    [ "JustEngagedWith", "d7/d7c/a15590.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
-    [ "Reset", "d7/d7c/a15590.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
-    [ "UpdateAI", "d7/d7c/a15590.html#a1697d83e89559f047d5bab652007bb61", null ],
-    [ "_targetGUIDs", "d7/d7c/a15590.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d7/d7c/a15590.html#a1dfadd96c9cc420bb7c90ec8a2d0a1a2", null ],
+    [ "CallNextRajaxxLeader", "d7/d7c/a15590.html#a12de9882d8e71f68e7b52e4b3972dca4", null ],
+    [ "GetData", "d7/d7c/a15590.html#abe72d94186f5d5b9b97c82ac65f71fd6", null ],
+    [ "GetGuidData", "d7/d7c/a15590.html#a8a2c4b3677d8da475d1e5ea035becf15", null ],
+    [ "OnCreatureCreate", "d7/d7c/a15590.html#ac2b2bfb3ae426a82affbf363a49049ef", null ],
+    [ "OnCreatureEvade", "d7/d7c/a15590.html#af59d38b0842a962b94efcbf9af8e56ca", null ],
+    [ "OnPlayerEnter", "d7/d7c/a15590.html#aca8fbf17f8d583c1568a965bdf2b22f4", null ],
+    [ "OnUnitDeath", "d7/d7c/a15590.html#afc601fed830c0d8fe63cbf7741ff1c55", null ],
+    [ "ResetRajaxxWaves", "d7/d7c/a15590.html#a3a6aa2cc867de4842b10632ea761fb1e", null ],
+    [ "SetData", "d7/d7c/a15590.html#a4a9acbb13d81d88674b62aa49ac8a2e3", null ],
+    [ "SetGuidData", "d7/d7c/a15590.html#ac8f2440e439654e977d4a9a4b2b50b52", null ],
+    [ "_andorovGUID", "d7/d7c/a15590.html#a52168c9369fe1e691378577ea700115c", null ],
+    [ "_buruGUID", "d7/d7c/a15590.html#afbf08e65630819d5c60ecaa3d4d5bc42", null ],
+    [ "_buruPhase", "d7/d7c/a15590.html#ab8192edc41599ce20cc66efaaba5479a", null ],
+    [ "_kurinnaxxGUID", "d7/d7c/a15590.html#af1077bb8af7e756d9d548a4fe3fbd17b", null ],
+    [ "_moamGUID", "d7/d7c/a15590.html#a1025fdcd1b84e5d2c4eaa79d918ecd78", null ],
+    [ "_ossirianGUID", "d7/d7c/a15590.html#a254a550649a8f806f98d6eb90f593b54", null ],
+    [ "_paralyzedGUID", "d7/d7c/a15590.html#abc537534538f78cabf6534371ab090e9", null ],
+    [ "_rajaxWaveCounter", "d7/d7c/a15590.html#a010079e135c41de850419149ec2857f3", null ],
+    [ "_rajaxxGUID", "d7/d7c/a15590.html#aa92f25482c7c6d2bf7944a080beb858c", null ]
 ];

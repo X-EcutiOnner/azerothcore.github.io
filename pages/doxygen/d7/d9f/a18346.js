@@ -1,6 +1,6 @@
 var a18346 =
 [
-    [ "npc_spinestalkerAI", "dc/dcc/a18350.html", "dc/dcc/a18350" ],
-    [ "npc_spinestalker", "d7/d9f/a18346.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "d7/d9f/a18346.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "HandleScript", "d7/d9f/a18346.html#abd766c298f8aa363d28198b6a5d7e374", null ],
+    [ "PrepareSpellScript", "d7/d9f/a18346.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
+    [ "Register", "d7/d9f/a18346.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
 ];

@@ -1,6 +1,5 @@
 var a20226 =
 [
-    [ "FilterTargets", "d4/d80/a20226.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "d4/d80/a20226.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "d4/d80/a20226.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "achievement_auriaya_crazy_cat_lady", "d4/d80/a20226.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
+    [ "OnCheck", "d4/d80/a20226.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
 ];

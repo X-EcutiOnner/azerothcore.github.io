@@ -1,8 +1,11 @@
 var a05218 =
 [
-    [ "AreaInfo", "d5/d9b/a05222.html", "d5/d9b/a05222" ],
-    [ "LiquidInfo", "d6/d11/a05226.html", "d6/d11/a05226" ],
-    [ "areaInfo", "dc/d72/a05218.html#a0d30ac3fa0cefd6eafc1690c75f46f0f", null ],
-    [ "floorZ", "dc/d72/a05218.html#af7c8710b5d296c1d792b4fc34302278f", null ],
-    [ "liquidInfo", "dc/d72/a05218.html#ae59e1e7fdf4913c48a0d82e1d19366a7", null ]
+    [ "IoContext", "dc/d72/a05218.html#a6ba4b629a3704fcb5d110a71f09900be", null ],
+    [ "IoContext", "dc/d72/a05218.html#a8dc945d02df9d28f3dda6c17f1c91502", null ],
+    [ "get_executor", "dc/d72/a05218.html#aa642c9d6e49d2396c267c6fc404b2a6b", null ],
+    [ "operator IoContextBaseNamespace::IoContextBase &", "dc/d72/a05218.html#a51e3067d9ba9b0b4a557a7e586b1ef91", null ],
+    [ "operator IoContextBaseNamespace::IoContextBase const &", "dc/d72/a05218.html#af4aa281948ab71b76bc8f66b735425b3", null ],
+    [ "run", "dc/d72/a05218.html#a086cd2ed56d61cf1ec0dbfdec16c50fe", null ],
+    [ "stop", "dc/d72/a05218.html#a1165b11f60d138d56eba43657fc299cd", null ],
+    [ "_impl", "dc/d72/a05218.html#a22cdb3c45a6dbacb13f90f654bc0c65d", null ]
 ];

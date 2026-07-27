@@ -1,6 +1,6 @@
 var a20746 =
 [
-    [ "HandleScript", "dc/d7e/a20746.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
-    [ "PrepareSpellScript", "dc/d7e/a20746.html#ab2a4155f6029850c61e84d7c180addae", null ],
-    [ "Register", "dc/d7e/a20746.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
+    [ "npc_razorscale_devouring_flame", "dc/d7e/a20746.html#a86c3d4cdf0d9757612264f62fd9e283e", null ],
+    [ "EnterEvadeMode", "dc/d7e/a20746.html#a7d32fe90b53b3d681627d84bf3825bc2", null ],
+    [ "Reset", "dc/d7e/a20746.html#adb6acc83d528f71a69e854e46b2405c3", null ]
 ];

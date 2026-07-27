@@ -1,8 +1,6 @@
 var a19862 =
 [
-    [ "HandlePeriodic", "d7/d8f/a19862.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "d7/d8f/a19862.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "d7/d8f/a19862.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "d7/d8f/a19862.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "d7/d8f/a19862.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "boss_varosAI", "d8/d4f/a19866.html", "d8/d4f/a19866" ],
+    [ "boss_varos", "d7/d8f/a19862.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
+    [ "GetAI", "d7/d8f/a19862.html#a36733c4eb6179e43d61a1c37480666ea", null ]
 ];

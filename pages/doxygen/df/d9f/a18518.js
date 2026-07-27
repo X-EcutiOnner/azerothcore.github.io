@@ -1,6 +1,6 @@
 var a18518 =
 [
-    [ "HandleScript", "df/d9f/a18518.html#aa05c6e510e933a71a6bce8d653632ebd", null ],
-    [ "PrepareSpellScript", "df/d9f/a18518.html#add6b78f0396a34c36e0dff1928889e43", null ],
-    [ "Register", "df/d9f/a18518.html#a587247f7417cefa2b8aa5a8edb8e2616", null ]
+    [ "FilterTargets", "df/d9f/a18518.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
+    [ "PrepareSpellScript", "df/d9f/a18518.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
+    [ "Register", "df/d9f/a18518.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
 ];

@@ -1,7 +1,8 @@
 var a09810 =
 [
-    [ "PowerCheck", "df/dee/a09810.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
-    [ "operator()", "df/dee/a09810.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
-    [ "_equals", "df/dee/a09810.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
-    [ "_power", "df/dee/a09810.html#a922a57b62b4289835b539a69b0f58fa1", null ]
+    [ "NearestHostileUnitInAttackDistanceCheck", "df/dee/a09810.html#a0b1d14f1347a3749a91ef6e888ccb23e", null ],
+    [ "NearestHostileUnitInAttackDistanceCheck", "df/dee/a09810.html#a5645c9808db082b0301ec8b2ea93ce7f", null ],
+    [ "operator()", "df/dee/a09810.html#adc28281742cd1f6a49152481b48f944e", null ],
+    [ "m_range", "df/dee/a09810.html#ab79296a88ed07257edbe3449c2515b40", null ],
+    [ "me", "df/dee/a09810.html#a298d2489b9bf30aa510407afca79a374", null ]
 ];

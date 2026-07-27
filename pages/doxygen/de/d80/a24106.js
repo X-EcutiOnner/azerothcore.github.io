@@ -1,6 +1,6 @@
 var a24106 =
 [
-    [ "PrepareSpellScript", "de/d80/a24106.html#a2585b06bbebf291d170df58daf6fdd4e", null ],
-    [ "RecalculateDamage", "de/d80/a24106.html#a1fe9f9d4892b0ca8cb6699b555fb9268", null ],
-    [ "Register", "de/d80/a24106.html#a834484683d2d782b4f4c027091108172", null ]
+    [ "npc_commander_dawnforgeAI", "d3/d25/a24110.html", "d3/d25/a24110" ],
+    [ "npc_commander_dawnforge", "de/d80/a24106.html#ab4d430725f68f906e9c8def66b1d6646", null ],
+    [ "GetAI", "de/d80/a24106.html#a6089b087b7c3b18659e23c677814318b", null ]
 ];

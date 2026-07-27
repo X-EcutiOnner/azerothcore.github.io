@@ -1,6 +1,6 @@
 var a13398 =
 [
-    [ "boss_darkmaster_gandlingAI", "de/d6f/a13402.html", "de/d6f/a13402" ],
-    [ "boss_darkmaster_gandling", "d1/ddd/a13398.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
-    [ "GetAI", "d1/ddd/a13398.html#a21ea53862614303af31a517a53d1fbf6", null ]
+    [ "npc_image_of_medivhAI", "de/d6f/a13402.html", "de/d6f/a13402" ],
+    [ "npc_image_of_medivh", "d1/ddd/a13398.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
+    [ "GetAI", "d1/ddd/a13398.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
 ];

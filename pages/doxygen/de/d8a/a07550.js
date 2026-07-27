@@ -1,19 +1,15 @@
 var a07550 =
 [
-    [ "ArenaSeasonRewardGroupsBySeasonContainer", "de/d8a/a07550.html#a510f51e8cd7ad494dc2f0dd25640e924", null ],
-    [ "BroadcastUpdatedWorldState", "de/d8a/a07550.html#ae40b9d3ff73604045d1d7f6c59487f95", null ],
-    [ "CanDeleteArenaTeams", "de/d8a/a07550.html#a6d2302f89f8756d7ceaf210cdabea9e8", null ],
-    [ "ChangeCurrentSeason", "de/d8a/a07550.html#a05f9e4be327f8ecb65729cec2d811851", null ],
-    [ "DeleteArenaTeams", "de/d8a/a07550.html#ad28595c2f09c2cecd46ba8811374ae21", null ],
-    [ "GameEventForArenaSeason", "de/d8a/a07550.html#a3bef72c5136e9920f8b4e0438f3f1628", null ],
-    [ "GetCurrentSeason", "de/d8a/a07550.html#ae07db874a46e7d1cc8c60105635bbdf0", null ],
-    [ "GetSeasonState", "de/d8a/a07550.html#abff2ff6a3e08f37b00405f5f688cb08d", null ],
-    [ "instance", "de/d8a/a07550.html#ad9299d5394ee20830fe9aca038575ce0", null ],
-    [ "LoadActiveSeason", "de/d8a/a07550.html#a81c47f17e571dd5ba2c2617bdef09694", null ],
-    [ "LoadRewards", "de/d8a/a07550.html#a495f7d12cbe5a4bfb09a9a6de45c17e1", null ],
-    [ "RewardTeamsForTheSeason", "de/d8a/a07550.html#a4c1069779f69aa3eae885540fa2b31e6", null ],
-    [ "SetSeasonState", "de/d8a/a07550.html#a118910793bb11fba35b0cd6b28e248a8", null ],
-    [ "_arenaSeasonRewardGroupsStore", "de/d8a/a07550.html#a90d508c6ffb7c7277d0e6c6f27bafc33", null ],
-    [ "_currentSeason", "de/d8a/a07550.html#a168a36d3ae1818f22acfb168e932c10c", null ],
-    [ "_currentSeasonState", "de/d8a/a07550.html#af73eb610ed7b0e908c206aac14f2c452", null ]
+    [ "AuctionHouseSearcher", "de/d8a/a07550.html#adee77153a7b9efeac149e6c951082986", null ],
+    [ "~AuctionHouseSearcher", "de/d8a/a07550.html#a84842935539c5ef8b02815cc8697e568", null ],
+    [ "AddAuction", "de/d8a/a07550.html#a09e01dd8840a50f6b6dd5f70ad9ec10c", null ],
+    [ "NotifyAllWorkers", "de/d8a/a07550.html#a443577cfba0af003e7e0e8834474a6c1", null ],
+    [ "NotifyOneWorker", "de/d8a/a07550.html#a1b70b786bf6e57d9d9cae8f34f0d779b", null ],
+    [ "QueueSearchRequest", "de/d8a/a07550.html#a53caf3298638d325a8b9e97584296ad3", null ],
+    [ "RemoveAuction", "de/d8a/a07550.html#a145da4d009d9814a4e76fae0d02f33e4", null ],
+    [ "Update", "de/d8a/a07550.html#ac8c7b88346dc99bed5fe8d0efb28eebb", null ],
+    [ "UpdateBid", "de/d8a/a07550.html#a7bb50e3e903c73a83469e7323917d40d", null ],
+    [ "_requestQueue", "de/d8a/a07550.html#ac221abeb9a760c90d6110310970e6463", null ],
+    [ "_responseQueue", "de/d8a/a07550.html#a772e65025ae498b8837222ae98f49c28", null ],
+    [ "_workerThreads", "de/d8a/a07550.html#aa1cedd8cb22b840599b97bf7c7df0949", null ]
 ];

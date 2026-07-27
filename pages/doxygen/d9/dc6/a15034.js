@@ -1,10 +1,7 @@
 var a15034 =
 [
-    [ "npc_hyjal_frost_wyrm", "d9/dc6/a15034.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "d9/dc6/a15034.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "d9/dc6/a15034.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "d9/dc6/a15034.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "d9/dc6/a15034.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "d9/dc6/a15034.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "d9/dc6/a15034.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "HandleFinish", "d9/dc6/a15034.html#a8927aaa07145b46067d5807c2048330a", null ],
+    [ "PrepareSpellScript", "d9/dc6/a15034.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
+    [ "Register", "d9/dc6/a15034.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
+    [ "Validate", "d9/dc6/a15034.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
 ];

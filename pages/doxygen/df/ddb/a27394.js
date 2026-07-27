@@ -1,7 +1,6 @@
 var a27394 =
 [
-    [ "HandleProc", "df/ddb/a27394.html#a9296b52700f070af311047166f6a913b", null ],
-    [ "PrepareAuraScript", "df/ddb/a27394.html#a067cc24e65f79bab10b9d1258fad3460", null ],
-    [ "Register", "df/ddb/a27394.html#affbd8840159048b6ea55ab98900d38c0", null ],
-    [ "Validate", "df/ddb/a27394.html#a31af0dd20daa2892f7c0a6baf2bf4485", null ]
+    [ "FilterTargets", "df/ddb/a27394.html#a34ca370993295225a779ee6537295112", null ],
+    [ "PrepareSpellScript", "df/ddb/a27394.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
+    [ "Register", "df/ddb/a27394.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
 ];

@@ -1,11 +1,8 @@
 var a10358 =
 [
-    [ "EffectMovementGenerator", "d5/d3b/a10358.html#a5b00ae06964d5c572bf2c6d14c82147e", null ],
-    [ "Finalize", "d5/d3b/a10358.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
-    [ "GetMovementGeneratorType", "d5/d3b/a10358.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
-    [ "Initialize", "d5/d3b/a10358.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
-    [ "Reset", "d5/d3b/a10358.html#a9627573a7206e12ff469e8e6e076862b", null ],
-    [ "Update", "d5/d3b/a10358.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
-    [ "i_spline", "d5/d3b/a10358.html#a35b92e440aa2af623f62d4fe8ecf216e", null ],
-    [ "m_Id", "d5/d3b/a10358.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
+    [ "GetAINotifyDelay", "d5/d3b/a10358.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
+    [ "GetReqMoveDistSq", "d5/d3b/a10358.html#a58687646bbf83723e8ad2925ee50452c", null ],
+    [ "GetVisibilityNotifyDelay", "d5/d3b/a10358.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
+    [ "Update", "d5/d3b/a10358.html#aa95443d7050249a44cad2f16fa0026e5", null ],
+    [ "visibilitySettingsIndex", "d5/d3b/a10358.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
 ];

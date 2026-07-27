@@ -1,6 +1,8 @@
 var a17822 =
 [
-    [ "npc_gunship_boarding_leaderAI", "dc/df6/a17826.html", "dc/df6/a17826" ],
-    [ "npc_gunship_boarding_leader", "db/d96/a17822.html#a8390eadab34a89643252f573588b140a", null ],
-    [ "GetAI", "db/d96/a17822.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
+    [ "OnApply", "db/d96/a17822.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "db/d96/a17822.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "db/d96/a17822.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "db/d96/a17822.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "db/d96/a17822.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

@@ -1,5 +1,6 @@
 var a21386 =
 [
-    [ "go_the_pearl_of_the_depths", "d3/d28/a21386.html#a0e09ddcde0eef050400d90e9a268823a", null ],
-    [ "OnGossipHello", "d3/d28/a21386.html#a745ea14136a78759a3afd7714c6d784a", null ]
+    [ "HandleOnHit", "d3/d28/a21386.html#aa3f90eb49ae947b5729f722750cb8711", null ],
+    [ "PrepareSpellScript", "d3/d28/a21386.html#a3b62711a0ba478d6321a93d436359939", null ],
+    [ "Register", "d3/d28/a21386.html#af7bdde31f1221d5679983a41e3eca204", null ]
 ];

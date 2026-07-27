@@ -1,20 +1,17 @@
 var a01529 =
 [
-    [ "lfg::LfgQueueData", "d0/de8/a08352.html", "d0/de8/a08352" ],
-    [ "lfg::LfgWaitTime", "d0/dac/a08356.html", "d0/dac/a08356" ],
-    [ "lfg::LFGQueue", "d1/d53/a08360.html", "d1/d53/a08360" ],
-    [ "LfgCompatibleContainer", "db/dce/a01529.html#a96438cca4cead6c1fc5d31ef643129e9", null ],
-    [ "LfgQueueDataContainer", "db/dce/a01529.html#aa2afec59ce753c11c3d8fddf4fb33991", null ],
-    [ "LfgWaitTimesContainer", "db/dce/a01529.html#a58714a43cbdc03f4008681528fb20447", null ],
-    [ "LfgCompatibility", "db/dce/a01529.html#a33c5b3513de4cd3c5a525f31008618b6", [
-      [ "LFG_COMPATIBILITY_PENDING", "db/dce/a01529.html#a33c5b3513de4cd3c5a525f31008618b6a9bd6f6c66c07537c541c6cf47da9311a", null ],
-      [ "LFG_INCOMPATIBLES_WRONG_GROUP_SIZE", "db/dce/a01529.html#a33c5b3513de4cd3c5a525f31008618b6ab6f6918e09882dce7eb53394dc960123", null ],
-      [ "LFG_INCOMPATIBLES_TOO_MUCH_PLAYERS", "db/dce/a01529.html#a33c5b3513de4cd3c5a525f31008618b6aab66f0e7b36ded30473ed953e96346a1", null ],
-      [ "LFG_INCOMPATIBLES_MULTIPLE_LFG_GROUPS", "db/dce/a01529.html#a33c5b3513de4cd3c5a525f31008618b6a5c52733040385425e0b4fafbbe962c57", null ],
-      [ "LFG_INCOMPATIBLES_HAS_IGNORES", "db/dce/a01529.html#a33c5b3513de4cd3c5a525f31008618b6a232b96c8bc336a74ef0d50fe5092b21b", null ],
-      [ "LFG_INCOMPATIBLES_NO_ROLES", "db/dce/a01529.html#a33c5b3513de4cd3c5a525f31008618b6ad009d10da76a97578ce600e26e253a63", null ],
-      [ "LFG_INCOMPATIBLES_NO_DUNGEONS", "db/dce/a01529.html#a33c5b3513de4cd3c5a525f31008618b6a6db8294000b56babf9050ec1fa80bd33", null ],
-      [ "LFG_COMPATIBLES_WITH_LESS_PLAYERS", "db/dce/a01529.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e", null ],
-      [ "LFG_COMPATIBLES_MATCH", "db/dce/a01529.html#a33c5b3513de4cd3c5a525f31008618b6a9dc8d1185a27e48d0f6953fccaa49ba0", null ]
+    [ "Arena", "d5/dbe/a07622.html", "d5/dbe/a07622" ],
+    [ "ArenaBroadcastTexts", "db/dce/a01529.html#a407f2036481e3d9e2def3daa50546c71", [
+      [ "ARENA_TEXT_START_ONE_MINUTE", "db/dce/a01529.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854", null ],
+      [ "ARENA_TEXT_START_THIRTY_SECONDS", "db/dce/a01529.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084", null ],
+      [ "ARENA_TEXT_START_FIFTEEN_SECONDS", "db/dce/a01529.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9", null ],
+      [ "ARENA_TEXT_START_BATTLE_HAS_BEGUN", "db/dce/a01529.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd", null ]
+    ] ],
+    [ "ArenaSpellIds", "db/dce/a01529.html#a05b7784b7a9a1ce8e6367f6f9bb875d9", [
+      [ "SPELL_ALLIANCE_GOLD_FLAG", "db/dce/a01529.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c", null ],
+      [ "SPELL_ALLIANCE_GREEN_FLAG", "db/dce/a01529.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f", null ],
+      [ "SPELL_HORDE_GOLD_FLAG", "db/dce/a01529.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0", null ],
+      [ "SPELL_HORDE_GREEN_FLAG", "db/dce/a01529.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222", null ],
+      [ "SPELL_LAST_MAN_STANDING", "db/dce/a01529.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd", null ]
     ] ]
 ];

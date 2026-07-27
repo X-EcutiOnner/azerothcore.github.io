@@ -1,11 +1,18 @@
 var a08074 =
 [
-    [ "EnchantId", "d4/d98/a08074.html#ad68d4f09195ba9c2a74bc9187e1cc1dd", null ],
-    [ "GemEnchantId", "d4/d98/a08074.html#a680481a1dcc0a163cabeb02e426d89cd", null ],
-    [ "IsBuggedInspectLink", "d4/d98/a08074.html#a1db96c31b140774302c633e99bcea93f", null ],
-    [ "Item", "d4/d98/a08074.html#a89b08bf0a3fb31ef6c0f71919b05195e", null ],
-    [ "RandomProperty", "d4/d98/a08074.html#a07871677ea967da347a6debafa7c91e7", null ],
-    [ "RandomSuffix", "d4/d98/a08074.html#a39126c77bdd1d3d850a20cf02bb034ae", null ],
-    [ "RandomSuffixBaseAmount", "d4/d98/a08074.html#aa9a99d071ee623b0df6f456199e1262a", null ],
-    [ "RenderLevel", "d4/d98/a08074.html#acb1024455a3b847ea13390c05b79cd0c", null ]
+    [ "ChatCommandResult", "d4/d98/a08074.html#ade9593924f234a1fd4c1c1af0e2ba1f1", null ],
+    [ "ChatCommandResult", "d4/d98/a08074.html#a50e51a5c55d146c67d834c86aee4daef", null ],
+    [ "ChatCommandResult", "d4/d98/a08074.html#abcee148bb3da225ec4a4c67abcc90316", null ],
+    [ "ChatCommandResult", "d4/d98/a08074.html#a8b18e436b6e7d8040b2a9667d06baaa0", null ],
+    [ "ChatCommandResult", "d4/d98/a08074.html#aabf608d55fbdbed0db92a80049e8835f", null ],
+    [ "ChatCommandResult", "d4/d98/a08074.html#a48cf3f3df0e07e220d44096e7b628a72", null ],
+    [ "ChatCommandResult", "d4/d98/a08074.html#a9b7c7996bcc4a601c957d2bfc66ec41c", null ],
+    [ "GetErrorMessage", "d4/d98/a08074.html#abb0aa9f55f86ab7d54b7b3a894dcd237", null ],
+    [ "HasErrorMessage", "d4/d98/a08074.html#a74f331d2e68ddf7cefc14b4c47369311", null ],
+    [ "IsSuccessful", "d4/d98/a08074.html#aa4373a403bed4b58eac5e83099f32b4f", null ],
+    [ "operator bool", "d4/d98/a08074.html#a7b92f80ef21e6a0a799f3b4197453117", null ],
+    [ "operator*", "d4/d98/a08074.html#af89a617e842edaf1a4ee1cff95d2c4e3", null ],
+    [ "operator=", "d4/d98/a08074.html#a50c4384a9719bc33f1e997dadc177bb6", null ],
+    [ "operator=", "d4/d98/a08074.html#ae927434b72c1017f1dedced244d7021a", null ],
+    [ "_storage", "d4/d98/a08074.html#ab825b76e8cb19ad6d6bc6cb35780e89b", null ]
 ];

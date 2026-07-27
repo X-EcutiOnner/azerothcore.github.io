@@ -1,7 +1,7 @@
 var a26270 =
 [
-    [ "CheckAreaTarget", "db/d7e/a26270.html#a2d240518259d2452d263fc436de5056e", null ],
-    [ "PrepareAuraScript", "db/d7e/a26270.html#a0b97b273f13805f027e5f5113d4a8e40", null ],
-    [ "Register", "db/d7e/a26270.html#a50406feea1b2cf34ad101a3b1fd25d7c", null ],
-    [ "Validate", "db/d7e/a26270.html#adfd1ccae4029680415409df737aa2533", null ]
+    [ "HandleProc", "db/d7e/a26270.html#a682a80e8abf8c7dc94921389eb0a15b1", null ],
+    [ "PrepareAuraScript", "db/d7e/a26270.html#af0d99e25521ece82c1179ec033ba4216", null ],
+    [ "Register", "db/d7e/a26270.html#a6ad6a77042b9a48b5017980b2fddefce", null ],
+    [ "Validate", "db/d7e/a26270.html#a147bfdbb7339eb47989f84ed6be86862", null ]
 ];

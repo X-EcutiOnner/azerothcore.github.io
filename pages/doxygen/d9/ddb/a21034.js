@@ -1,6 +1,9 @@
 var a21034 =
 [
-    [ "boss_koralonAI", "d0/df1/a21038.html", "d0/df1/a21038" ],
-    [ "boss_koralon", "d9/ddb/a21034.html#a43b9fb1224abeba44080fb02062451b0", null ],
-    [ "GetAI", "d9/ddb/a21034.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
+    [ "HandleOnEffectApply", "d9/ddb/a21034.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
+    [ "OnPeriodic", "d9/ddb/a21034.html#a49ad44eba19416743bd26252d1b40d71", null ],
+    [ "PrepareAuraScript", "d9/ddb/a21034.html#ae0c475babb67cebb245d6d85b50cd694", null ],
+    [ "Register", "d9/ddb/a21034.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
+    [ "Validate", "d9/ddb/a21034.html#ab383a0a207aa78b7efcd400765ad0838", null ],
+    [ "_targetGUID", "d9/ddb/a21034.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
 ];

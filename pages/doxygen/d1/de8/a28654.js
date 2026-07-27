@@ -1,7 +1,6 @@
 var a28654 =
 [
-    [ "Class", "d1/de8/a28654.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
-    [ "Gender", "d1/de8/a28654.html#aba6251a7020c6e66b9fc7a21859df271", null ],
-    [ "ItemId", "d1/de8/a28654.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
-    [ "Race", "d1/de8/a28654.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
+    [ "npc_necropolis_relay", "d1/de8/a28654.html#a044958acd1449d664532aeea7d0cb2fd", null ],
+    [ "SpellHit", "d1/de8/a28654.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
+    [ "SpellHitTarget", "d1/de8/a28654.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
 ];

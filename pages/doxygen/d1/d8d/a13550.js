@@ -1,5 +1,7 @@
 var a13550 =
 [
-    [ "at_malfurion_stormrage", "d1/d8d/a13550.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
-    [ "OnTrigger", "d1/d8d/a13550.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
+    [ "OnApply", "d1/d8d/a13550.html#a278a1eb6d5f856a620f5a33de294b0ec", null ],
+    [ "OnRemove", "d1/d8d/a13550.html#a8300f726a41882e3d3f54adc0e5bfb29", null ],
+    [ "PrepareAuraScript", "d1/d8d/a13550.html#a46ba800f3a3512951b83e428bc5373b9", null ],
+    [ "Register", "d1/d8d/a13550.html#a4a59d431c7d7607e614c4ec035e3acf7", null ]
 ];

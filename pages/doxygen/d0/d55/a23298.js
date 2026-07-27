@@ -1,7 +1,13 @@
 var a23298 =
 [
-    [ "FilterTargets", "d0/d55/a23298.html#a834163302ff10875227806d7d4945988", null ],
-    [ "HandleScriptEffect", "d0/d55/a23298.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
-    [ "PrepareSpellScript", "d0/d55/a23298.html#a079e72d57550e03956088b4be1d11422", null ],
-    [ "Register", "d0/d55/a23298.html#abd4e0f268652652d3828ba8d350de849", null ]
+    [ "npc_ahune_bunny", "d0/d55/a23298.html#ae28e0d2dbaab082488d5582b75cd8482", null ],
+    [ "DoAction", "d0/d55/a23298.html#ad071787c47254f603ba7692889733202", null ],
+    [ "JustDied", "d0/d55/a23298.html#a8733a3e495ebf69df4f9d1213df50170", null ],
+    [ "JustSummoned", "d0/d55/a23298.html#a2c5c97b497cd15a1453bbd21d279a29b", null ],
+    [ "ResetFlameCallers", "d0/d55/a23298.html#a60a74aabbf42116079081134a332a100", null ],
+    [ "UpdateAI", "d0/d55/a23298.html#aa8dff40dde7820b1ce4e06c8d27e4ecb", null ],
+    [ "_events", "d0/d55/a23298.html#af84154fff16cbdb15586b3b07223e010", null ],
+    [ "_instance", "d0/d55/a23298.html#a9be0d062379e5a3dfa19af1eb1a4243e", null ],
+    [ "_submerged", "d0/d55/a23298.html#a15fdcc2fda18e118f398ccc055f52942", null ],
+    [ "_summons", "d0/d55/a23298.html#a8f9e25f0d8a66b18e887b061592c6950", null ]
 ];

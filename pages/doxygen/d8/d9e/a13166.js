@@ -1,8 +1,12 @@
 var a13166 =
 [
-    [ "npc_barnesAI", "de/d6b/a13170.html", "de/d6b/a13170" ],
-    [ "npc_barnes", "d8/d9e/a13166.html#aacdc737a94397a90b48b635293fe9c80", null ],
-    [ "GetAI", "d8/d9e/a13166.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
-    [ "OnGossipHello", "d8/d9e/a13166.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
-    [ "OnGossipSelect", "d8/d9e/a13166.html#aa04d577e318f16f581f82761b6014eb5", null ]
+    [ "BoardCell", "d8/d9e/a13166.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
+    [ "Reset", "d8/d9e/a13166.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
+    [ "SetData", "d8/d9e/a13166.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
+    [ "SetPiece", "d8/d9e/a13166.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
+    [ "col", "d8/d9e/a13166.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
+    [ "pieceEntry", "d8/d9e/a13166.html#a7697506ccc800d38968e457c44bfa019", null ],
+    [ "pieceGUID", "d8/d9e/a13166.html#a74f494e406c56d4c61d79539acea684c", null ],
+    [ "row", "d8/d9e/a13166.html#a195c187e134be546f224cbb0eef8c844", null ],
+    [ "triggerGUID", "d8/d9e/a13166.html#a9cafdea50739b014a97e60611adcd3f1", null ]
 ];

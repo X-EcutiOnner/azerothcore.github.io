@@ -1,7 +1,5 @@
 var a22050 =
 [
-    [ "HandleScript", "df/dab/a22050.html#a1811115f1732912bdfaeeb8272db2304", null ],
-    [ "PrepareSpellScript", "df/dab/a22050.html#a50c24464dd88717bf78971d679715d7b", null ],
-    [ "Register", "df/dab/a22050.html#ab48b37db40865d60d7cda3260ec15ba8", null ],
-    [ "Validate", "df/dab/a22050.html#a0f0e4621965ea7ed7a108bca6d232ad0", null ]
+    [ "npc_black_knight_graveyardAI", "df/dab/a22050.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "df/dab/a22050.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

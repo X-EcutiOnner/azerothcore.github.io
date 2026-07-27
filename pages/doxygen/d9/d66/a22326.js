@@ -1,10 +1,8 @@
 var a22326 =
 [
-    [ "boss_murmur", "d9/d66/a22326.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
-    [ "CastSuppressionOOC", "d9/d66/a22326.html#aab66339a7436c3c483297b25f6859558", null ],
-    [ "EnterEvadeMode", "d9/d66/a22326.html#aa0f549c83a92302ece2323c75dd29acc", null ],
-    [ "JustEngagedWith", "d9/d66/a22326.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
-    [ "Reset", "d9/d66/a22326.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
-    [ "SetGUID", "d9/d66/a22326.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
-    [ "ShouldCastResonance", "d9/d66/a22326.html#ade07217a85655a513d7a472d24589691", null ]
+    [ "spell_loosen_grip", "d9/d66/a22326.html#ae35f230e0c66e88f59558748c80470dd", null ],
+    [ "HandleScript", "d9/d66/a22326.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
+    [ "PrepareSpellScript", "d9/d66/a22326.html#a219dc7d735f82d8e3b85390f0a881743", null ],
+    [ "Register", "d9/d66/a22326.html#a8b446d8b5ab00b984272c74b06663326", null ],
+    [ "_stacksToLose", "d9/d66/a22326.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
 ];

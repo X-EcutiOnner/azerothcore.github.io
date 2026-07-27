@@ -1,9 +1,7 @@
 var a20782 =
 [
-    [ "npc_ulduar_keeperAI", "db/d1c/a20782.html#ac69d21f3820f2c01a80ff664c317d111", null ],
-    [ "DoAction", "db/d1c/a20782.html#a03011d04761926d67e43c0bea5a0901f", null ],
-    [ "Reset", "db/d1c/a20782.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
-    [ "SpellHit", "db/d1c/a20782.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
-    [ "UpdateAI", "db/d1c/a20782.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
-    [ "_keeper", "db/d1c/a20782.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
+    [ "HandleScript", "db/d1c/a20782.html#ab2cfe77248b3e0e3d04c203635f2f4fa", null ],
+    [ "PrepareSpellScript", "db/d1c/a20782.html#a07041d1278d7c12ca40e341fdf0a0b4e", null ],
+    [ "Register", "db/d1c/a20782.html#af75bed8e253cb372f1bceb0ae1e54e1a", null ],
+    [ "Validate", "db/d1c/a20782.html#aa2d5bae5c41f6975aecc4d951a565e81", null ]
 ];

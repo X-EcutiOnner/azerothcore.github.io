@@ -1,5 +1,10 @@
 var a02540 =
 [
-    [ "modify_commandscript", "d6/d1b/a12456.html", "d6/d1b/a12456" ],
-    [ "AddSC_modify_commandscript", "d4/db0/a02540.html#a9cbb6ad3c630cbeb9ba39b4552f72e87", null ]
+    [ "SecretMgr", "d6/db4/a29502.html", "d6/db4/a29502" ],
+    [ "SecretMgr::Secret", "dc/dc5/a29506.html", "dc/dc5/a29506" ],
+    [ "sSecretMgr", "d4/db0/a02540.html#a5104e1ebeb8cbf71ec16e9492a3ad622", null ],
+    [ "Secrets", "d4/db0/a02540.html#ab54b0ec728a299f0ff9e8a7796297a01", [
+      [ "SECRET_TOTP_MASTER_KEY", "d4/db0/a02540.html#ab54b0ec728a299f0ff9e8a7796297a01a414121b0e05fa3a392ffe0da5afe0fe9", null ],
+      [ "NUM_SECRETS", "d4/db0/a02540.html#ab54b0ec728a299f0ff9e8a7796297a01a087643d0aa89a708bad0f254697489c6", null ]
+    ] ]
 ];

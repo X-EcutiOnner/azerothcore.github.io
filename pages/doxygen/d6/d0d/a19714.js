@@ -1,12 +1,10 @@
 var a19714 =
 [
-    [ "boss_loken", "d6/d0d/a19714.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
-    [ "JustDied", "d6/d0d/a19714.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
-    [ "JustEngagedWith", "d6/d0d/a19714.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
-    [ "KilledUnit", "d6/d0d/a19714.html#a85ae3094927f7484216b44582f9a2bf6", null ],
-    [ "MoveInLineOfSight", "d6/d0d/a19714.html#ac9f3115629e5595d06c213d3e04afa68", null ],
-    [ "OnAuraRemove", "d6/d0d/a19714.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
-    [ "Reset", "d6/d0d/a19714.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
-    [ "ScheduleTasks", "d6/d0d/a19714.html#a600e211be40226679212a7078b26f3ed", null ],
-    [ "_introDone", "d6/d0d/a19714.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
+    [ "npc_power_spark", "d6/d0d/a19714.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
+    [ "DamageTaken", "d6/d0d/a19714.html#afe33d511823666929232bfd0179ee72a", null ],
+    [ "DoAction", "d6/d0d/a19714.html#ab99a859ee718d49ce59171e7e7159abc", null ],
+    [ "UpdateAI", "d6/d0d/a19714.html#ab36e75c87aa262a57be1594289284730", null ],
+    [ "_checkTimer", "d6/d0d/a19714.html#ae63f0f359037363b840fe51a797969b5", null ],
+    [ "_instance", "d6/d0d/a19714.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
+    [ "_moveTimer", "d6/d0d/a19714.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
 ];

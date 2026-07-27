@@ -1,15 +1,21 @@
 var a12446 =
 [
-    [ "boss_vanndarAI", "dd/d2c/a12446.html#ada061b4363340602fd1f4744433d9cf9", null ],
-    [ "AttackStart", "dd/d2c/a12446.html#a76ab9327e04b82b534a9b3ea59b377d1", null ],
-    [ "EnterEvadeMode", "dd/d2c/a12446.html#a9ba6e2620a25728bf30d4d813a82b781", null ],
-    [ "JustEngagedWith", "dd/d2c/a12446.html#abde00baf4099361b8c26e6e0cf6c1517", null ],
-    [ "Reset", "dd/d2c/a12446.html#a1c2fdf4351a43047f02bec1d46423cb8", null ],
-    [ "UpdateAI", "dd/d2c/a12446.html#ab410ed8d64cd91bd6c4b78b2ed678eab", null ],
-    [ "Attacked", "dd/d2c/a12446.html#ac5994c76a9d84cf303021a9298673d68", null ],
-    [ "AvatarTimer", "dd/d2c/a12446.html#a3bed38b10a87baf50e9c9a57229bd464", null ],
-    [ "ResetTimer", "dd/d2c/a12446.html#ae1c4e16cd9ad68e4700d68ed64baa8e2", null ],
-    [ "StormboltTimer", "dd/d2c/a12446.html#a71ef70c1b504be2b00be1a70e85bc18a", null ],
-    [ "ThunderclapTimer", "dd/d2c/a12446.html#a681a103b6cf937dad3fb15e5be358c26", null ],
-    [ "YellTimer", "dd/d2c/a12446.html#a2b8503aaae0fd5e8cd92bb9650ee6ee3", null ]
+    [ "disable_commandscript", "dd/d2c/a12446.html#ae49c0e3ad4aa3147194478180837c07e", null ],
+    [ "GetCommands", "dd/d2c/a12446.html#a5c0400ab0321c2d181f6288fd828c56a", null ],
+    [ "HandleAddDisableAchievementCriteriaCommand", "dd/d2c/a12446.html#a52376d1885f74d00589acb3443860df9", null ],
+    [ "HandleAddDisableBattlegroundCommand", "dd/d2c/a12446.html#a8a03b1d32ebf568222d28723c48f8f78", null ],
+    [ "HandleAddDisableMapCommand", "dd/d2c/a12446.html#aea64728b1a70aab3813190c4d5df3859", null ],
+    [ "HandleAddDisableOutdoorPvPCommand", "dd/d2c/a12446.html#a3c0250b78258394e78fd918dc43f90a2", null ],
+    [ "HandleAddDisableQuestCommand", "dd/d2c/a12446.html#a94537f796e64c68df4600041e2cc0da4", null ],
+    [ "HandleAddDisables", "dd/d2c/a12446.html#aaa2d58ba9e21e868ecbdbdfac0b6ebdf", null ],
+    [ "HandleAddDisableSpellCommand", "dd/d2c/a12446.html#a23ddab0c714a5adea49d14ecde36391b", null ],
+    [ "HandleAddDisableVmapCommand", "dd/d2c/a12446.html#aa1df5e4cbc89182eb9e31b4fa9a5325f", null ],
+    [ "HandleRemoveDisableAchievementCriteriaCommand", "dd/d2c/a12446.html#ac5088383c36894c7bd753ee99086e508", null ],
+    [ "HandleRemoveDisableBattlegroundCommand", "dd/d2c/a12446.html#a9b67a979abb6cde08b4926606a35bf93", null ],
+    [ "HandleRemoveDisableMapCommand", "dd/d2c/a12446.html#ab0d61b762d728c1a35e20cda3c347c55", null ],
+    [ "HandleRemoveDisableOutdoorPvPCommand", "dd/d2c/a12446.html#a0dfe1ac5224935dd42c6a30daf6cc099", null ],
+    [ "HandleRemoveDisableQuestCommand", "dd/d2c/a12446.html#a60e20d885194bbff5da3e824e05a35b2", null ],
+    [ "HandleRemoveDisables", "dd/d2c/a12446.html#a529428b7674ca3446a441bdf65fab756", null ],
+    [ "HandleRemoveDisableSpellCommand", "dd/d2c/a12446.html#aaa457682d8621801d457eb734673d745", null ],
+    [ "HandleRemoveDisableVmapCommand", "dd/d2c/a12446.html#aae06939a2fc52aedce54a75db4b3c218", null ]
 ];

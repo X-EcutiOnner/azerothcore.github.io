@@ -1,6 +1,6 @@
 var a27726 =
 [
-    [ "boss_taerarAI", "d6/d60/a27730.html", "d6/d60/a27730" ],
-    [ "boss_taerar", "d5/de0/a27726.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "d5/de0/a27726.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "HandleAfterHit", "d5/de0/a27726.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
+    [ "PrepareSpellScript", "d5/de0/a27726.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
+    [ "Register", "d5/de0/a27726.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
 ];

@@ -1,20 +1,17 @@
 var a00473 =
 [
-    [ "PetAI", "d1/d49/a06492.html", "d1/d49/a06492" ],
-    [ "SpecialPets", "dc/d8e/a00473.html#a22fe79e956db2d74e141a56fef6d1cff", [
-      [ "ENTRY_IMP", "dc/d8e/a00473.html#a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896", null ],
-      [ "ENTRY_WATER_ELEMENTAL", "dc/d8e/a00473.html#a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5", null ],
-      [ "ENTRY_WATER_ELEMENTAL_PERM", "dc/d8e/a00473.html#a22fe79e956db2d74e141a56fef6d1cffa2cec2788a794b1b4d9559fb23d4a5a99", null ],
-      [ "IMP_FIREBOLT_RANK_1", "dc/d8e/a00473.html#a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c", null ],
-      [ "IMP_FIREBOLT_RANK_2", "dc/d8e/a00473.html#a22fe79e956db2d74e141a56fef6d1cffa641520548259a83c82be403219e71406", null ],
-      [ "IMP_FIREBOLT_RANK_3", "dc/d8e/a00473.html#a22fe79e956db2d74e141a56fef6d1cffad5d762472639e0c0e4c4e12facf8cab6", null ],
-      [ "IMP_FIREBOLT_RANK_4", "dc/d8e/a00473.html#a22fe79e956db2d74e141a56fef6d1cffa7eccd511642f2e5d0537d5059511aba7", null ],
-      [ "IMP_FIREBOLT_RANK_5", "dc/d8e/a00473.html#a22fe79e956db2d74e141a56fef6d1cffaf3a0d7d7c4554f335bec7b31ac1821ac", null ],
-      [ "IMP_FIREBOLT_RANK_6", "dc/d8e/a00473.html#a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5", null ],
-      [ "IMP_FIREBOLT_RANK_7", "dc/d8e/a00473.html#a22fe79e956db2d74e141a56fef6d1cffa789304c4db65564436821950d063de7a", null ],
-      [ "IMP_FIREBOLT_RANK_8", "dc/d8e/a00473.html#a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25", null ],
-      [ "IMP_FIREBOLT_RANK_9", "dc/d8e/a00473.html#a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948", null ],
-      [ "WATER_ELEMENTAL_WATERBOLT_1", "dc/d8e/a00473.html#a22fe79e956db2d74e141a56fef6d1cffa1afbd4a095d65be61fa03e05a1c49e1d", null ],
-      [ "WATER_ELEMENTAL_WATERBOLT_2", "dc/d8e/a00473.html#a22fe79e956db2d74e141a56fef6d1cffa5d7df8261631aa8076f63045a79896e1", null ]
-    ] ]
+    [ "FormatArgs", "dc/d8e/a00473.html#a300bea6aa9ed219f5f3636b900db3ac9", null ],
+    [ "FormatString", "dc/d8e/a00473.html#a32c972cafca136b88de5b298d6cba338", null ],
+    [ "FormatStringView", "dc/d8e/a00473.html#a9a310e3057a14b5ee0f7520e08cb0410", null ],
+    [ "AddSuffixIfNotExists", "dc/d8e/a00473.html#a712bea71ec99d750664fd46c690a1ad9", null ],
+    [ "format_as", "dc/d8e/a00473.html#aaa7f21af5991452196a22cd79e127825", null ],
+    [ "IsFormatEmptyOrNull", "dc/d8e/a00473.html#a6f5584cc7346fd1972b3e8a74036467f", null ],
+    [ "IsFormatEmptyOrNull", "dc/d8e/a00473.html#a84459e91f517fc4f79414cc23370b9f1", null ],
+    [ "MakeFormatArgs", "dc/d8e/a00473.html#abd5773b7124dcbc8deb88f522cdcc86f", null ],
+    [ "StringFormat", "dc/d8e/a00473.html#a1b97349dfcb88c6974882d7e34c55895", null ],
+    [ "StringFormatTo", "dc/d8e/a00473.html#a7c53f407c3169d5a97d012ca3470880d", null ],
+    [ "StringVFormat", "dc/d8e/a00473.html#acc68f8d815604ae13c370c09fbb60efd", null ],
+    [ "StringVFormatTo", "dc/d8e/a00473.html#a17112c1b25595793b63f24de06f90081", null ],
+    [ "Trim", "dc/d8e/a00473.html#ad9cd9e0eab5d7794778d1270b2720337", null ],
+    [ "TrimRightInPlace", "dc/d8e/a00473.html#ac78200daa5bc5f1d4c50a1df47a7a4db", null ]
 ];

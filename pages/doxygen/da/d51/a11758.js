@@ -1,7 +1,11 @@
 var a11758 =
 [
-    [ "attributeMask", "da/d51/a11758.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
-    [ "customChance", "da/d51/a11758.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
-    [ "PPMChance", "da/d51/a11758.html#adb76c11f0073a2738374c98c01fda009", null ],
-    [ "procEx", "da/d51/a11758.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
+    [ "Player", "da/d51/a11758.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "da/d51/a11758.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Face", "da/d51/a11758.html#a6334464eea38be514f3faa7538b39a5a", null ],
+    [ "FacialHair", "da/d51/a11758.html#a44643270b211d275eb94283842791407", null ],
+    [ "Gender", "da/d51/a11758.html#a14321ea3595debe2836eceab8a82f944", null ],
+    [ "HairColor", "da/d51/a11758.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
+    [ "HairStyle", "da/d51/a11758.html#ade5b2dff213547ab4d707070f8979085", null ],
+    [ "Skin", "da/d51/a11758.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
 ];

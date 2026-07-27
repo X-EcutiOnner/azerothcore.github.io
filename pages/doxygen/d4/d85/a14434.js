@@ -1,7 +1,6 @@
 var a14434 =
 [
-    [ "HandleApply", "d4/d85/a14434.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
-    [ "HandleRemove", "d4/d85/a14434.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
-    [ "PrepareAuraScript", "d4/d85/a14434.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
-    [ "Register", "d4/d85/a14434.html#af2343add2ed014832bd34d11519b391b", null ]
+    [ "npc_eagle_trash_aggro_trigger", "d4/d85/a14434.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "d4/d85/a14434.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "d4/d85/a14434.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

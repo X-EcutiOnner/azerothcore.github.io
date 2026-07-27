@@ -1,7 +1,6 @@
 var a18394 =
 [
-    [ "HandleInfusion", "d2/da3/a18394.html#a9f77330d81fef646dd5d5399800cba66", null ],
-    [ "PrepareSpellScript", "d2/da3/a18394.html#ae0a272902b0a9f74058c1dbe62974358", null ],
-    [ "Register", "d2/da3/a18394.html#ad759f6215e722f799156b4bdddcb7af1", null ],
-    [ "Validate", "d2/da3/a18394.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
+    [ "npc_little_oozeAI", "de/d0e/a18398.html", "de/d0e/a18398" ],
+    [ "npc_little_ooze", "d2/da3/a18394.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
+    [ "GetAI", "d2/da3/a18394.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
 ];

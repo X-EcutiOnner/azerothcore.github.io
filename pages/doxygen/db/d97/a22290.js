@@ -1,8 +1,9 @@
 var a22290 =
 [
-    [ "boss_darkweaver_syth", "db/d97/a22290.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "db/d97/a22290.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "db/d97/a22290.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "db/d97/a22290.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "db/d97/a22290.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "HandlePeriodic", "db/d97/a22290.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "db/d97/a22290.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "db/d97/a22290.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "db/d97/a22290.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "db/d97/a22290.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "db/d97/a22290.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

@@ -1,13 +1,7 @@
 var a22126 =
 [
-    [ "OPvPCapturePointEP_EWT", "d7/dd1/a22126.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
-    [ "ChangeState", "d7/dd1/a22126.html#ac00c50b89e1218f87506778096a9d7cd", null ],
-    [ "FillInitialWorldStates", "d7/dd1/a22126.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
-    [ "HandlePlayerEnter", "d7/dd1/a22126.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
-    [ "HandlePlayerLeave", "d7/dd1/a22126.html#a2638b24dca375420778845963e307db3", null ],
-    [ "SendChangePhase", "d7/dd1/a22126.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
-    [ "SummonSupportUnitAtNorthpassTower", "d7/dd1/a22126.html#ad70a8cc485072cd9af892290584062d8", null ],
-    [ "UpdateTowerState", "d7/dd1/a22126.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
-    [ "m_TowerState", "d7/dd1/a22126.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
-    [ "m_UnitsSummonedSideId", "d7/dd1/a22126.html#a0319f0d51624df44419976e7abd1b813", null ]
+    [ "HandleScriptEffect", "d7/dd1/a22126.html#ad20cf97a7dd442d5670a22095b487a01", null ],
+    [ "PrepareSpellScript", "d7/dd1/a22126.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
+    [ "Register", "d7/dd1/a22126.html#a996ea344ea2a3312cb8886565b80972d", null ],
+    [ "Validate", "d7/dd1/a22126.html#a29bf5a9615e02281f426bf521a045567", null ]
 ];

@@ -1,7 +1,6 @@
 var a16026 =
 [
-    [ "npc_ringoAI", "d3/d47/a16030.html", "d3/d47/a16030" ],
-    [ "npc_ringo", "d3/d7a/a16026.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
-    [ "GetAI", "d3/d7a/a16026.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
-    [ "OnQuestAccept", "d3/d7a/a16026.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
+    [ "npc_omenAI", "d3/d47/a16030.html", "d3/d47/a16030" ],
+    [ "npc_omen", "d3/d7a/a16026.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "d3/d7a/a16026.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

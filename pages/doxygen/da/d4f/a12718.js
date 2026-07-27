@@ -1,10 +1,8 @@
 var a12718 =
 [
-    [ "npc_corrupted_totem", "da/d4f/a12718.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
-    [ "IsSummonedBy", "da/d4f/a12718.html#ae8314903c9006b7bca94a47115a0d05b", null ],
-    [ "JustDied", "da/d4f/a12718.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
-    [ "Reset", "da/d4f/a12718.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
-    [ "SetAura", "da/d4f/a12718.html#a509688befda49f789f77ee0e4170a74e", null ],
-    [ "UpdateAI", "da/d4f/a12718.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
-    [ "_auraAdded", "da/d4f/a12718.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
+    [ "boss_eviscerator", "da/d4f/a12718.html#a2228d79b63df840eb4cb28117f24dcf9", null ],
+    [ "DamageTaken", "da/d4f/a12718.html#af31de4643026e44c80252e156a39bc69", null ],
+    [ "JustEngagedWith", "da/d4f/a12718.html#a14ec212beaa553f8f68e7718e29dcbd9", null ],
+    [ "UpdateAI", "da/d4f/a12718.html#af974908902d30b8144d1b734e795d6ea", null ],
+    [ "SpellShieldReady", "da/d4f/a12718.html#abeac01454b05ca88a89093b0f74c4a1f", null ]
 ];

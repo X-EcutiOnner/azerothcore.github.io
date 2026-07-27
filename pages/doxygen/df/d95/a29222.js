@@ -1,13 +1,9 @@
 var a29222 =
 [
-    [ "AuraConfig", "da/df1/a29226.html", "da/df1/a29226" ],
-    [ "ProcRecord", "db/d23/a29230.html", "db/d23/a29230" ],
-    [ "ProcChainGuardSimulator", "df/d95/a29222.html#ad729e5f44922b9b6c44c9a4d732818e7", null ],
-    [ "CanProc", "df/d95/a29222.html#a267703c4a51bf3e8020e3298c85b74b3", null ],
-    [ "GetProcDeep", "df/d95/a29222.html#afe8e4320a882c474f883347860ad4d47", null ],
-    [ "GetRecords", "df/d95/a29222.html#ae21baa9f43fb78e30dedfc6608684e9e", null ],
-    [ "SetCantProc", "df/d95/a29222.html#ab479d1a30e547ce04775abe397cfea14", null ],
-    [ "SimulateTriggerAurasProc", "df/d95/a29222.html#ab0a0af1461f0f94a87273f468bc5454d", null ],
-    [ "_procDeep", "df/d95/a29222.html#a5fd0de564b32520971082df9620d40b4", null ],
-    [ "_records", "df/d95/a29222.html#abdecfb4d1da86f5a5d4cd7c92c228617", null ]
+    [ "itemId", "df/d95/a29222.html#ae125712e5569c9699b4748b6a15fbc12", null ],
+    [ "items_to_triggerspell", "df/d95/a29222.html#a8496a2f3fa3e230def04b996fc585760", null ],
+    [ "name", "df/d95/a29222.html#a9b62f843833d524f200782d44151503d", null ],
+    [ "required_skill_id", "df/d95/a29222.html#ab3058ac725fb8f105b9359d5a5147942", null ],
+    [ "required_skill_value", "df/d95/a29222.html#a58d0997a73cf48061545edbc0201f544", null ],
+    [ "spells", "df/d95/a29222.html#a8aac032992efe1bfbba0e49693562c7f", null ]
 ];

@@ -1,10 +1,7 @@
 var a10050 =
 [
-    [ "MailReceiver", "de/dff/a10050.html#a6fba3ff0ab3167197f569631d766ce14", null ],
-    [ "MailReceiver", "de/dff/a10050.html#af0b094a704463ed76b1c08bc3cab0380", null ],
-    [ "MailReceiver", "de/dff/a10050.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
-    [ "GetPlayer", "de/dff/a10050.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
-    [ "GetPlayerGUIDLow", "de/dff/a10050.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
-    [ "m_receiver", "de/dff/a10050.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
-    [ "m_receiver_lowguid", "de/dff/a10050.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
+    [ "extended", "de/dff/a10050.html#a6cd2390616ebbc07b0fa55886d1e545d", null ],
+    [ "guidLow", "de/dff/a10050.html#a6d6358cd25aaf909fb02e01b994a6a92", null ],
+    [ "instanceId", "de/dff/a10050.html#a3f4f3f829d354ccc92491445d1efd1b2", null ],
+    [ "perm", "de/dff/a10050.html#a73b641d14a2d5d9781f706ccc2865415", null ]
 ];

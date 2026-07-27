@@ -1,6 +1,7 @@
 var a27802 =
 [
-    [ "go_heatAI", "d1/d61/a27802.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
-    [ "UpdateAI", "d1/d61/a27802.html#a2332206ee47b2cea9e4707d16ea79325", null ],
-    [ "timer", "d1/d61/a27802.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
+    [ "HandleProc", "d1/d61/a27802.html#a1ebfd477399cbac2cba33cfd90db72e6", null ],
+    [ "PrepareAuraScript", "d1/d61/a27802.html#aadbaea984fedb04e77b92174efd5e83d", null ],
+    [ "Register", "d1/d61/a27802.html#aedd1652a571275a305db70fbbe6f725c", null ],
+    [ "Validate", "d1/d61/a27802.html#a28c281aeef80409b419753f71da80f92", null ]
 ];

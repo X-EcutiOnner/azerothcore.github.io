@@ -1,7 +1,7 @@
 var a13190 =
 [
-    [ "HandleDummy", "da/d13/a13190.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
-    [ "PrepareSpellScript", "da/d13/a13190.html#a5738144c85424e11f33aada38273e24e", null ],
-    [ "Register", "da/d13/a13190.html#a206a4d40e082246193ba36c9080cdac1", null ],
-    [ "Validate", "da/d13/a13190.html#a0718461731d563d2c948848f60101d49", null ]
+    [ "boss_maiden_of_virtue", "da/d13/a13190.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "da/d13/a13190.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "da/d13/a13190.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "da/d13/a13190.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

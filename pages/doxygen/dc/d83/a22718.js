@@ -1,6 +1,7 @@
 var a22718 =
 [
-    [ "HandleProc", "dc/d83/a22718.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "dc/d83/a22718.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "dc/d83/a22718.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "HandleProc", "dc/d83/a22718.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
+    [ "PrepareAuraScript", "dc/d83/a22718.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
+    [ "Register", "dc/d83/a22718.html#a6b764182501a1d192f90dc20bbd6549e", null ],
+    [ "Validate", "dc/d83/a22718.html#ad89123425cca5bd02a18526a11595a1a", null ]
 ];

@@ -1,6 +1,7 @@
 var a16466 =
 [
-    [ "PrepareSpellScript", "da/dd1/a16466.html#a743f910c3854e2c4e726e97c55fa7038", null ],
-    [ "Register", "da/dd1/a16466.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
-    [ "RemoveNotBetween", "da/dd1/a16466.html#aba462e5b8e9336a508d19606f98750b5", null ]
+    [ "OnRemove", "da/dd1/a16466.html#afb0821bc8774e634eefdd87efe6af945", null ],
+    [ "PrepareAuraScript", "da/dd1/a16466.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
+    [ "Register", "da/dd1/a16466.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
+    [ "Validate", "da/dd1/a16466.html#aa794b76c4d9590b867dda57f02724d95", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: PlayerNameMapHolder Namespace Reference</title>
+<title>AzerothCore: Acore::Types Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,180 +105,88 @@ $(document).ready(function(){initNavTree('dd/d15/a05117.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#typedef-members">Typedefs</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">PlayerNameMapHolder Namespace Reference</div></div>
+<a href="#typedef-members">Typedefs</a>  </div>
+  <div class="headertitle"><div class="title">Acore::Types Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
 Typedefs</h2></td></tr>
-<tr class="memitem:a2a540ae6cb73c9914f0253464b155227"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; std::string, <a class="el" href="../../de/d91/a09004.html">Player</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d15/a05117.html#a2a540ae6cb73c9914f0253464b155227">MapType</a></td></tr>
-<tr class="separator:a2a540ae6cb73c9914f0253464b155227"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a3ba44f9ba2a1ff4fd122944f95ef06bd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d15/a05117.html#a3ba44f9ba2a1ff4fd122944f95ef06bd">Insert</a> (<a class="el" href="../../de/d91/a09004.html">Player</a> *p)</td></tr>
-<tr class="separator:a3ba44f9ba2a1ff4fd122944f95ef06bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8f833a3f02f1e431170dd5d052b0f919"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d15/a05117.html#a8f833a3f02f1e431170dd5d052b0f919">Remove</a> (<a class="el" href="../../de/d91/a09004.html">Player</a> *p)</td></tr>
-<tr class="separator:a8f833a3f02f1e431170dd5d052b0f919"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9c5298580060e7a6078ffb5f4008c549"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d15/a05117.html#a9c5298580060e7a6078ffb5f4008c549">RemoveByName</a> (std::string const &amp;name)</td></tr>
-<tr class="separator:a9c5298580060e7a6078ffb5f4008c549"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a42d065468e6e62b7161ba0c17e1d75ea"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d91/a09004.html">Player</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d15/a05117.html#a42d065468e6e62b7161ba0c17e1d75ea">Find</a> (std::string const &amp;name)</td></tr>
-<tr class="separator:a42d065468e6e62b7161ba0c17e1d75ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:aa8fcdd0ac947e92edddddd4e2daf61dd"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../dd/d15/a05117.html#a2a540ae6cb73c9914f0253464b155227">MapType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d15/a05117.html#aa8fcdd0ac947e92edddddd4e2daf61dd">PlayerNameMap</a></td></tr>
-<tr class="separator:aa8fcdd0ac947e92edddddd4e2daf61dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa6a7b1e80be2ae7ec2efb76185ee7b44"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:aa6a7b1e80be2ae7ec2efb76185ee7b44"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/d15/a05117.html#aa6a7b1e80be2ae7ec2efb76185ee7b44">is_chrono_v</a> = std::enable_if_t&lt; std::is_same_v&lt; <a class="el" href="../../d1/d0b/a00452.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d1/d0b/a00452.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d1/d0b/a00452.html#af2161f9db850581e2228078614990df8">Minutes</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d1/d0b/a00452.html#aa0f87984d2b3835a61dffc22ae8bf083">Hours</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d1/d0b/a00452.html#af5dc5e7ad7b3f6d8e84530de842d125b">Days</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d1/d0b/a00452.html#a983745490d3d3a0322c4ccf0f418f179">Weeks</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d1/d0b/a00452.html#ab4fa20b33a9b5ee358963159b01d72f3">Years</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d1/d0b/a00452.html#a5f2ffeea2459944dfaa4443f1efb7f42">Months</a>, T &gt;, T &gt;</td></tr>
+<tr class="separator:aa6a7b1e80be2ae7ec2efb76185ee7b44"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d4fe40146df0d52c6917d8cc920ac84"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a6d4fe40146df0d52c6917d8cc920ac84"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/d15/a05117.html#a6d4fe40146df0d52c6917d8cc920ac84">is_default</a> = std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;||std::is_same_v&lt; std::vector&lt; <a class="el" href="../../dc/d19/a00515.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt;, T &gt; &gt;</td></tr>
+<tr class="separator:a6d4fe40146df0d52c6917d8cc920ac84"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae544e1b7f5a34959b1b48592f67dd4e7"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:ae544e1b7f5a34959b1b48592f67dd4e7"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/d15/a05117.html#ae544e1b7f5a34959b1b48592f67dd4e7">is_enum_v</a> = std::enable_if_t&lt; std::is_enum_v&lt; T &gt; &gt;</td></tr>
+<tr class="separator:ae544e1b7f5a34959b1b48592f67dd4e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67eb68c20f5616b2ea2a16a87784360a"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a67eb68c20f5616b2ea2a16a87784360a"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/d15/a05117.html#a67eb68c20f5616b2ea2a16a87784360a">is_non_string_view_v</a> = std::enable_if_t&lt;!std::is_base_of_v&lt; std::string_view, T &gt; &gt;</td></tr>
+<tr class="separator:a67eb68c20f5616b2ea2a16a87784360a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Typedef Documentation</h2>
-<a id="a2a540ae6cb73c9914f0253464b155227" name="a2a540ae6cb73c9914f0253464b155227"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2a540ae6cb73c9914f0253464b155227">&#9670;&#160;</a></span>MapType</h2>
+<a id="aa6a7b1e80be2ae7ec2efb76185ee7b44" name="aa6a7b1e80be2ae7ec2efb76185ee7b44"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa6a7b1e80be2ae7ec2efb76185ee7b44">&#9670;&#160;</a></span>is_chrono_v</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::unordered_map&lt;std::string, <a class="el" href="../../de/d91/a09004.html">Player</a>*&gt; <a class="el" href="../../dd/d15/a05117.html#a2a540ae6cb73c9914f0253464b155227">PlayerNameMapHolder::MapType</a></td>
+          <td class="memname">using <a class="el" href="../../dd/d15/a05117.html#aa6a7b1e80be2ae7ec2efb76185ee7b44">Acore::Types::is_chrono_v</a> = typedef std::enable_if_t&lt;std::is_same_v&lt;<a class="el" href="../../d1/d0b/a00452.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>, T&gt; || std::is_same_v&lt;<a class="el" href="../../d1/d0b/a00452.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>, T&gt; || std::is_same_v&lt;<a class="el" href="../../d1/d0b/a00452.html#af2161f9db850581e2228078614990df8">Minutes</a>, T&gt; || std::is_same_v&lt;<a class="el" href="../../d1/d0b/a00452.html#aa0f87984d2b3835a61dffc22ae8bf083">Hours</a>, T&gt; || std::is_same_v&lt;<a class="el" href="../../d1/d0b/a00452.html#af5dc5e7ad7b3f6d8e84530de842d125b">Days</a>, T&gt; || std::is_same_v&lt;<a class="el" href="../../d1/d0b/a00452.html#a983745490d3d3a0322c4ccf0f418f179">Weeks</a>, T&gt; || std::is_same_v&lt;<a class="el" href="../../d1/d0b/a00452.html#ab4fa20b33a9b5ee358963159b01d72f3">Years</a>, T&gt; || std::is_same_v&lt;<a class="el" href="../../d1/d0b/a00452.html#a5f2ffeea2459944dfaa4443f1efb7f42">Months</a>, T&gt;, T&gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a42d065468e6e62b7161ba0c17e1d75ea" name="a42d065468e6e62b7161ba0c17e1d75ea"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a42d065468e6e62b7161ba0c17e1d75ea">&#9670;&#160;</a></span>Find()</h2>
+<a id="a6d4fe40146df0d52c6917d8cc920ac84" name="a6d4fe40146df0d52c6917d8cc920ac84"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6d4fe40146df0d52c6917d8cc920ac84">&#9670;&#160;</a></span>is_default</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d91/a09004.html">Player</a> * PlayerNameMapHolder::Find </td>
-          <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>name</em></td><td>)</td>
-          <td></td>
+          <td class="memname">using <a class="el" href="../../dd/d15/a05117.html#a6d4fe40146df0d52c6917d8cc920ac84">Acore::Types::is_default</a> = typedef std::enable_if_t&lt;std::is_arithmetic_v&lt;T&gt; || std::is_same_v&lt;std::vector&lt;<a class="el" href="../../dc/d19/a00515.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;, T&gt; &gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  104</span>    {</div>
-<div class="line"><span class="lineno">  105</span>        std::string charName(name);</div>
-<div class="line"><span class="lineno">  106</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d9/dff/a02099.html#af55111c173fd16ba2898f3046dfa3d9a">normalizePlayerName</a>(charName))</div>
-<div class="line"><span class="lineno">  107</span>            <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  108</span> </div>
-<div class="line"><span class="lineno">  109</span>        <span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../dd/d15/a05117.html#aa8fcdd0ac947e92edddddd4e2daf61dd">PlayerNameMap</a>.find(charName);</div>
-<div class="line"><span class="lineno">  110</span>        <span class="keywordflow">return</span> (itr != <a class="code hl_variable" href="../../dd/d15/a05117.html#aa8fcdd0ac947e92edddddd4e2daf61dd">PlayerNameMap</a>.end()) ? itr-&gt;second : <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  111</span>    }</div>
-<div class="ttc" id="aa02099_html_af55111c173fd16ba2898f3046dfa3d9a"><div class="ttname"><a href="../../d9/dff/a02099.html#af55111c173fd16ba2898f3046dfa3d9a">normalizePlayerName</a></div><div class="ttdeci">bool normalizePlayerName(std::string &amp;name)</div><div class="ttdef"><b>Definition:</b> ObjectMgr.cpp:209</div></div>
-<div class="ttc" id="aa05117_html_aa8fcdd0ac947e92edddddd4e2daf61dd"><div class="ttname"><a href="../../dd/d15/a05117.html#aa8fcdd0ac947e92edddddd4e2daf61dd">PlayerNameMapHolder::PlayerNameMap</a></div><div class="ttdeci">static MapType PlayerNameMap</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:86</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00209">normalizePlayerName()</a>, and <a class="el" href="../../#l00086">PlayerNameMap</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00271">ObjectAccessor::FindPlayerByName()</a>.</p>
 
 </div>
 </div>
-<a id="a3ba44f9ba2a1ff4fd122944f95ef06bd" name="a3ba44f9ba2a1ff4fd122944f95ef06bd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3ba44f9ba2a1ff4fd122944f95ef06bd">&#9670;&#160;</a></span>Insert()</h2>
+<a id="ae544e1b7f5a34959b1b48592f67dd4e7" name="ae544e1b7f5a34959b1b48592f67dd4e7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae544e1b7f5a34959b1b48592f67dd4e7">&#9670;&#160;</a></span>is_enum_v</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">void PlayerNameMapHolder::Insert </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d91/a09004.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>p</em></td><td>)</td>
-          <td></td>
+          <td class="memname">using <a class="el" href="../../dd/d15/a05117.html#ae544e1b7f5a34959b1b48592f67dd4e7">Acore::Types::is_enum_v</a> = typedef std::enable_if_t&lt;std::is_enum_v&lt;T&gt; &gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   89</span>    {</div>
-<div class="line"><span class="lineno">   90</span>        <a class="code hl_variable" href="../../dd/d15/a05117.html#aa8fcdd0ac947e92edddddd4e2daf61dd">PlayerNameMap</a>[p-&gt;<a class="code hl_function" href="../../d8/d88/a08788.html#a7e67658eb5aa058bc7f46bf6b11a797c">GetName</a>()] = p;</div>
-<div class="line"><span class="lineno">   91</span>    }</div>
-<div class="ttc" id="aa08788_html_a7e67658eb5aa058bc7f46bf6b11a797c"><div class="ttname"><a href="../../d8/d88/a08788.html#a7e67658eb5aa058bc7f46bf6b11a797c">WorldObject::GetName</a></div><div class="ttdeci">std::string const &amp; GetName() const</div><div class="ttdef"><b>Definition:</b> Object.h:528</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00528">WorldObject::GetName()</a>, and <a class="el" href="../../#l00086">PlayerNameMap</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00333">ObjectAccessor::AddObject()</a>, and <a class="el" href="../../#l00346">ObjectAccessor::UpdatePlayerNameMapReference()</a>.</p>
 
 </div>
 </div>
-<a id="a8f833a3f02f1e431170dd5d052b0f919" name="a8f833a3f02f1e431170dd5d052b0f919"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8f833a3f02f1e431170dd5d052b0f919">&#9670;&#160;</a></span>Remove()</h2>
+<a id="a67eb68c20f5616b2ea2a16a87784360a" name="a67eb68c20f5616b2ea2a16a87784360a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a67eb68c20f5616b2ea2a16a87784360a">&#9670;&#160;</a></span>is_non_string_view_v</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">void PlayerNameMapHolder::Remove </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d91/a09004.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>p</em></td><td>)</td>
-          <td></td>
+          <td class="memname">using <a class="el" href="../../dd/d15/a05117.html#a67eb68c20f5616b2ea2a16a87784360a">Acore::Types::is_non_string_view_v</a> = typedef std::enable_if_t&lt;!std::is_base_of_v&lt;std::string_view, T&gt; &gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   94</span>    {</div>
-<div class="line"><span class="lineno">   95</span>        <a class="code hl_variable" href="../../dd/d15/a05117.html#aa8fcdd0ac947e92edddddd4e2daf61dd">PlayerNameMap</a>.erase(p-&gt;<a class="code hl_function" href="../../d8/d88/a08788.html#a7e67658eb5aa058bc7f46bf6b11a797c">GetName</a>());</div>
-<div class="line"><span class="lineno">   96</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00528">WorldObject::GetName()</a>, and <a class="el" href="../../#l00086">PlayerNameMap</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00340">ObjectAccessor::RemoveObject()</a>.</p>
-
-</div>
-</div>
-<a id="a9c5298580060e7a6078ffb5f4008c549" name="a9c5298580060e7a6078ffb5f4008c549"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9c5298580060e7a6078ffb5f4008c549">&#9670;&#160;</a></span>RemoveByName()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void PlayerNameMapHolder::RemoveByName </td>
-          <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>name</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   99</span>    {</div>
-<div class="line"><span class="lineno">  100</span>        <a class="code hl_variable" href="../../dd/d15/a05117.html#aa8fcdd0ac947e92edddddd4e2daf61dd">PlayerNameMap</a>.erase(name);</div>
-<div class="line"><span class="lineno">  101</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00086">PlayerNameMap</a>, and <a class="el" href="../../#l00098">RemoveByName()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00098">RemoveByName()</a>, and <a class="el" href="../../#l00346">ObjectAccessor::UpdatePlayerNameMapReference()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="aa8fcdd0ac947e92edddddd4e2daf61dd" name="aa8fcdd0ac947e92edddddd4e2daf61dd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa8fcdd0ac947e92edddddd4e2daf61dd">&#9670;&#160;</a></span>PlayerNameMap</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dd/d15/a05117.html#a2a540ae6cb73c9914f0253464b155227">MapType</a> PlayerNameMapHolder::PlayerNameMap</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00103">Find()</a>, <a class="el" href="../../#l00088">Insert()</a>, <a class="el" href="../../#l00093">Remove()</a>, and <a class="el" href="../../#l00098">RemoveByName()</a>.</p>
 
 </div>
 </div>
@@ -287,8 +195,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/d15/a05117.html">PlayerNameMapHolder</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 21:49:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d82/a05088.html">Acore</a></li><li class="navelem"><a class="el" href="../../dd/d15/a05117.html">Types</a></li>
+    <li class="footer">Generated on Mon Jul 27 2026 21:45:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

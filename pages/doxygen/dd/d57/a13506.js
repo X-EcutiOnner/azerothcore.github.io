@@ -1,13 +1,20 @@
 var a13506 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "dd/d57/a13506.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
-    [ "Initialize", "dd/d57/a13506.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
-    [ "OnCreatureCreate", "dd/d57/a13506.html#a3f9cca96886b97f7657edc04f4997d41", null ],
-    [ "OnGameObjectCreate", "dd/d57/a13506.html#ad420b6b549b8d76a80844d81548b1143", null ],
-    [ "ReadSaveDataMore", "dd/d57/a13506.html#a83a24703aafb973809618d3ac3ac0375", null ],
-    [ "SetData", "dd/d57/a13506.html#abdc105e9306d9abc776259be97e2488f", null ],
-    [ "WriteSaveDataMore", "dd/d57/a13506.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
-    [ "_apothecaryHummel", "dd/d57/a13506.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
-    [ "_crazedApothecaryGeneratorGUIDs", "dd/d57/a13506.html#a00880eedbbc2deb4dc36e4c851558861", null ],
-    [ "_encounters", "dd/d57/a13506.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
+    [ "boss_darkmaster_gandlingAI", "dd/d57/a13506.html#a1fbd651c6f5ad3630ae450c6a523360c", null ],
+    [ "FindRoom", "dd/d57/a13506.html#a7ca1847b3223c82f7c190546809c49bc", null ],
+    [ "GetData", "dd/d57/a13506.html#a06e03e66d7a99a98ba915057c0082217", null ],
+    [ "JustDied", "dd/d57/a13506.html#afaac9e6939e0d873f576129546560fba", null ],
+    [ "JustEngagedWith", "dd/d57/a13506.html#aa71a73d3804187c6b89566ec3d1cd6ed", null ],
+    [ "JustSummoned", "dd/d57/a13506.html#a24e4031367eb59ad7a9ea352bd0b4ccd", null ],
+    [ "OpenAllGates", "dd/d57/a13506.html#ab28b7d97956c21515c9872d8f9122f18", null ],
+    [ "Reset", "dd/d57/a13506.html#a8244b7b91de9a0413193001f41288f7f", null ],
+    [ "SetData", "dd/d57/a13506.html#a1b7ed8e98d4a271dfd8df76738cc0072", null ],
+    [ "SetGate", "dd/d57/a13506.html#a32fbc731852f46fbdd36b36764dd2303", null ],
+    [ "SpawnMobsInRoom", "dd/d57/a13506.html#a68adf734efff345529dbb74bebe15798", null ],
+    [ "SpellHitTarget", "dd/d57/a13506.html#ae98715a31cd22febb1725977556a48aa", null ],
+    [ "SummonedCreatureDespawn", "dd/d57/a13506.html#aa0abb31ac1a05c4a99e4b8079410867a", null ],
+    [ "UpdateAI", "dd/d57/a13506.html#a2c525445ad39ddc47366f3f632014d89", null ],
+    [ "current_room", "dd/d57/a13506.html#a597f7ee62ee41ff6a1a12a6c9dd7cd93", null ],
+    [ "Guardians", "dd/d57/a13506.html#a3681da718192f0f961282fa4f655355e", null ],
+    [ "summons", "dd/d57/a13506.html#a745d411fc485892529cb4cc6f06ba3af", null ]
 ];

@@ -1,7 +1,6 @@
 var a28178 =
 [
-    [ "npc_wormholeAI", "d4/df4/a28178.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "d4/df4/a28178.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "d4/df4/a28178.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "d4/df4/a28178.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "go_flamesAI", "db/dce/a28182.html", "db/dce/a28182" ],
+    [ "go_flames", "d4/df4/a28178.html#a75d49202eaf2078b8276e59944d1ec89", null ],
+    [ "GetAI", "d4/df4/a28178.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
 ];

@@ -1,7 +1,6 @@
 var a16166 =
 [
-    [ "HandleScript", "d7/def/a16166.html#ae9939f2795b8ba428277c7d658af715c", null ],
-    [ "PrepareSpellScript", "d7/def/a16166.html#aabe244008103ff317e3fc1e26b04115a", null ],
-    [ "Register", "d7/def/a16166.html#a4f492bdd96ef190354f37c95217bb696", null ],
-    [ "Validate", "d7/def/a16166.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
+    [ "npc_twiggy_flatheadAI", "d7/d9a/a16170.html", "d7/d9a/a16170" ],
+    [ "npc_twiggy_flathead", "d7/def/a16166.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
+    [ "GetAI", "d7/def/a16166.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
 ];

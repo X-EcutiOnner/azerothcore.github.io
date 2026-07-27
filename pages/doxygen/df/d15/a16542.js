@@ -1,6 +1,7 @@
 var a16542 =
 [
-    [ "npc_argent_soldierAI", "dd/d32/a16546.html", "dd/d32/a16546" ],
-    [ "npc_argent_soldier", "df/d15/a16542.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
-    [ "GetAI", "df/d15/a16542.html#adfeed3d533104b9617dfbb06925a3d44", null ]
+    [ "CheckDistance", "df/d15/a16542.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
+    [ "PrepareSpellScript", "df/d15/a16542.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
+    [ "Register", "df/d15/a16542.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
+    [ "Validate", "df/d15/a16542.html#aa5d7a420154b156ca24e73de2faf912a", null ]
 ];

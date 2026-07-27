@@ -1,6 +1,6 @@
 var a06486 =
 [
-    [ "PermissibleOrderPred", "d8/dd0/a06486.html#a0f99979c533fb388a2086f419c110f2b", null ],
-    [ "operator()", "d8/dd0/a06486.html#a42027be1e7cb7a3589caeafea25d2f75", null ],
-    [ "_obj", "d8/dd0/a06486.html#a5872cf90e79107749c4900cb471b2f16", null ]
+    [ "NullGameObjectAI", "d8/dd0/a06486.html#a54f6ae6e03fbe423d895ec306fe091db", null ],
+    [ "Permissible", "d8/dd0/a06486.html#a850b58bfcc5e613f31fc95e556ed7f91", null ],
+    [ "UpdateAI", "d8/dd0/a06486.html#a01b2b14306c75fafe58295a30e5d01e0", null ]
 ];

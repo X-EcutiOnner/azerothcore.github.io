@@ -1,5 +1,5 @@
 var a10994 =
 [
-    [ "GuildPermissionsQuery", "db/df0/a10994.html#a6ab30e173d26362db0065f4f9f8fa5f8", null ],
-    [ "Read", "db/df0/a10994.html#aec20af8c3c8236627353287fe2eaa0a7", null ]
+    [ "LogoutCancelAck", "db/df0/a10994.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
+    [ "Write", "db/df0/a10994.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
 ];

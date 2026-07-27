@@ -1,12 +1,14 @@
 var a13198 =
 [
-    [ "boss_felblood_kaelthas", "db/ddf/a13198.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
-    [ "DamageTaken", "db/ddf/a13198.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
-    [ "DoAction", "db/ddf/a13198.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
-    [ "GravityLapseSequence", "db/ddf/a13198.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
-    [ "JustDied", "db/ddf/a13198.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
-    [ "JustEngagedWith", "db/ddf/a13198.html#a1d8806d7813d11aa61e043e420852218", null ],
-    [ "LapseAction", "db/ddf/a13198.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
-    [ "Reset", "db/ddf/a13198.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
-    [ "_gravityLapseCounter", "db/ddf/a13198.html#ab4e884a341fa25a555c160f6978861fc", null ]
+    [ "boss_midnight", "db/ddf/a13198.html#aacf45b21a30d671d5e9720a30336f72c", null ],
+    [ "CanMeleeHit", "db/ddf/a13198.html#ad46a3726f398e5db56612d78d33fb13f", null ],
+    [ "DamageTaken", "db/ddf/a13198.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
+    [ "DoAction", "db/ddf/a13198.html#a6831149d56f432aa3116d4172ef95a18", null ],
+    [ "EnterEvadeMode", "db/ddf/a13198.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
+    [ "JustEngagedWith", "db/ddf/a13198.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
+    [ "JustSummoned", "db/ddf/a13198.html#a2644deaf0a2970835b0cd508565e7279", null ],
+    [ "KilledUnit", "db/ddf/a13198.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
+    [ "Reset", "db/ddf/a13198.html#a4f9cb414779705c179bc5447975b35e9", null ],
+    [ "UpdateAI", "db/ddf/a13198.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
+    [ "_phase", "db/ddf/a13198.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
 ];

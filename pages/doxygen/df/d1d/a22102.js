@@ -1,6 +1,7 @@
 var a22102 =
 [
-    [ "npc_crusade_recruitAI", "d8/de8/a22106.html", "d8/de8/a22106" ],
-    [ "npc_crusade_recruit", "df/d1d/a22102.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "df/d1d/a22102.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "Absorb", "df/d1d/a22102.html#a784b48553696734abac77545df2fc045", null ],
+    [ "CalculateAmount", "df/d1d/a22102.html#a456ee99a71062f6217bda7561e4e7766", null ],
+    [ "PrepareAuraScript", "df/d1d/a22102.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
+    [ "Register", "df/d1d/a22102.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
 ];

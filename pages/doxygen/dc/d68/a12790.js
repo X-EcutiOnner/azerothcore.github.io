@@ -1,9 +1,8 @@
 var a12790 =
 [
-    [ "HandleAfterApply", "dc/d68/a12790.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
-    [ "HandleAfterRemove", "dc/d68/a12790.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
-    [ "PeriodicTick", "dc/d68/a12790.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
-    [ "PrepareAuraScript", "dc/d68/a12790.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
-    [ "Register", "dc/d68/a12790.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
-    [ "Validate", "dc/d68/a12790.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
+    [ "boss_highlord_omokk", "dc/d68/a12790.html#a31dd2c47b3ed33fa65d3b6a7a5cb384c", null ],
+    [ "JustDied", "dc/d68/a12790.html#a2a8931227eb65759ceebd27919976cb5", null ],
+    [ "JustEngagedWith", "dc/d68/a12790.html#a0bd4e1e0f72a0b6a8792d508c401caf8", null ],
+    [ "Reset", "dc/d68/a12790.html#ada6bf702dc1827e60b558b4fb752b789", null ],
+    [ "UpdateAI", "dc/d68/a12790.html#a131ebd1dd8d95c7d910af1b21442c861", null ]
 ];

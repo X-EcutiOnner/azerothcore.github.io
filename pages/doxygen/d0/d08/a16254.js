@@ -1,6 +1,6 @@
 var a16254 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "db/d06/a16258.html", "db/d06/a16258" ],
-    [ "instance_azjol_nerub", "d0/d08/a16254.html#a61476a0d15136d2bdb3a65eca72963da", null ],
-    [ "GetInstanceScript", "d0/d08/a16254.html#a8bb8477669c6369afe508a400bd4d489", null ]
+    [ "creatureID", "d0/d08/a16254.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "d0/d08/a16254.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "d0/d08/a16254.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

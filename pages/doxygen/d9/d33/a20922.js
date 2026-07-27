@@ -1,6 +1,7 @@
 var a20922 =
 [
-    [ "boss_skadi_graufAI", "de/d94/a20926.html", "de/d94/a20926" ],
-    [ "boss_skadi_grauf", "d9/d33/a20922.html#a571db2d2ae21f38b7051319da0f042f6", null ],
-    [ "GetAI", "d9/d33/a20922.html#ab464e605bf001eee5517ad805066af57", null ]
+    [ "FilterTargets", "d9/d33/a20922.html#a582691eca81b6db6d78ca925ad8fb084", null ],
+    [ "PrepareSpellScript", "d9/d33/a20922.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
+    [ "RecalculateDamage", "d9/d33/a20922.html#a02c1af0414de344056b2375488f23c01", null ],
+    [ "Register", "d9/d33/a20922.html#a1e030067944878000b731edf456d6bc8", null ]
 ];

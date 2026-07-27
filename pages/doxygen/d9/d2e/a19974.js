@@ -1,11 +1,6 @@
 var a19974 =
 [
-    [ "boss_flame_leviathan_defense_turret", "d9/d2e/a19974.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
-    [ "CanAIAttack", "d9/d2e/a19974.html#a17020dc7facabb0cacac3209277a73f7", null ],
-    [ "DamageTaken", "d9/d2e/a19974.html#ac15aadce1954d827b7e833ed761faf10", null ],
-    [ "JustDied", "d9/d2e/a19974.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
-    [ "KilledUnit", "d9/d2e/a19974.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
-    [ "UpdateAI", "d9/d2e/a19974.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
-    [ "_instance", "d9/d2e/a19974.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
-    [ "_setHealth", "d9/d2e/a19974.html#a413187aa01c119d088846a216f093baa", null ]
+    [ "CalculateDamage", "d9/d2e/a19974.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "d9/d2e/a19974.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "d9/d2e/a19974.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

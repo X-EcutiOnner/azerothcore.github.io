@@ -1,10 +1,6 @@
 var a15074 =
 [
-    [ "boss_meathookAI", "d4/d55/a15074.html#abb35c98da760db634545b81d740cd51a", null ],
-    [ "JustDied", "d4/d55/a15074.html#a44ebee45de335ff6f653e9d60a364458", null ],
-    [ "JustEngagedWith", "d4/d55/a15074.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
-    [ "KilledUnit", "d4/d55/a15074.html#a54deac512294bb0901d072faef3166b1", null ],
-    [ "Reset", "d4/d55/a15074.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
-    [ "UpdateAI", "d4/d55/a15074.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
-    [ "events", "d4/d55/a15074.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
+    [ "OnAuraRemove", "d4/d55/a15074.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "d4/d55/a15074.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "d4/d55/a15074.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

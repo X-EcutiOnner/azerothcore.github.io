@@ -1,6 +1,5 @@
 var a14518 =
 [
-    [ "HandleEffectRemove", "d5/d02/a14518.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
-    [ "PrepareAuraScript", "d5/d02/a14518.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
-    [ "Register", "d5/d02/a14518.html#aa436788f638fedacb217ca508da5f426", null ]
+    [ "at_zulgurub_bloodfire_pit_speech", "d5/d02/a14518.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
+    [ "_OnTrigger", "d5/d02/a14518.html#aeb9d0e2da05a7a11ce54dbe91ca75d69", null ]
 ];

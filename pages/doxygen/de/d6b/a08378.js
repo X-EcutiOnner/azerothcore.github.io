@@ -1,7 +1,6 @@
 var a08378 =
 [
-    [ "VendorItemCount", "de/d6b/a08378.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
-    [ "count", "de/d6b/a08378.html#aff4c062138792ffb37dadb19b725c87c", null ],
-    [ "itemId", "de/d6b/a08378.html#a225158bbb56d6666ba4918155f08f993", null ],
-    [ "lastIncrementTime", "de/d6b/a08378.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
+    [ "LfgWaitTime", "de/d6b/a08378.html#a1d80e0848c06c658a4c0587b686fe09d", null ],
+    [ "number", "de/d6b/a08378.html#ae6bd7db37ac17752edbc8d336081b91e", null ],
+    [ "time", "de/d6b/a08378.html#a0d0ef1b3552e5298763a3f28714bc864", null ]
 ];

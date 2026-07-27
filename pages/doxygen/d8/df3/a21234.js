@@ -1,6 +1,6 @@
 var a21234 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "dd/d92/a21238.html", "dd/d92/a21238" ],
-    [ "npc_imprisoned_beryl_sorcerer", "d8/df3/a21234.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
-    [ "GetAI", "d8/df3/a21234.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
+    [ "npc_massive_jormungarAI", "dd/d92/a21238.html", "dd/d92/a21238" ],
+    [ "npc_massive_jormungar", "d8/df3/a21234.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
+    [ "GetAI", "d8/df3/a21234.html#a68e3557e967ef633ba59fa81e661b80c", null ]
 ];

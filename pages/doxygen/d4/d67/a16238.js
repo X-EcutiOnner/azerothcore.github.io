@@ -1,5 +1,12 @@
 var a16238 =
 [
-    [ "achievement_hadronox_denied", "d4/d67/a16238.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
-    [ "OnCheck", "d4/d67/a16238.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
+    [ "DialogueHelper", "d4/d67/a16238.html#a3566655e8781bf5f9dff514fcd659421", null ],
+    [ "DialogueUpdate", "d4/d67/a16238.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
+    [ "DoNextDialogueStep", "d4/d67/a16238.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
+    [ "GetSpeakerByEntry", "d4/d67/a16238.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
+    [ "JustDidDialogueStep", "d4/d67/a16238.html#a79e80634f1780895669f5c810958fd4f", null ],
+    [ "StartNextDialogueText", "d4/d67/a16238.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
+    [ "_actionTimer", "d4/d67/a16238.html#a33b8551c136bcbc896b29d935c155a75", null ],
+    [ "_currentEntry", "d4/d67/a16238.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
+    [ "_dialogueArray", "d4/d67/a16238.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
 ];

@@ -1,9 +1,14 @@
 var a20466 =
 [
-    [ "npc_ulduar_dark_rune_watcher", "d5/ddd/a20466.html#aaddea3969eaab06df6b7e5d08f6ad626", null ],
-    [ "CanAIAttack", "d5/ddd/a20466.html#ae87ae4e671855f9e18eef6ba7f455463", null ],
-    [ "Reset", "d5/ddd/a20466.html#a66ac44c21691994b0b45c096dd7a0d56", null ],
-    [ "UpdateAI", "d5/ddd/a20466.html#a008399ff99fbf7c298485450cd3bd4e3", null ],
-    [ "timer1", "d5/ddd/a20466.html#a8e7520f4f33604ebd8177b12ca610ea3", null ],
-    [ "timer2", "d5/ddd/a20466.html#a1be016384a7fd92e96786ff6caf6c77d", null ]
+    [ "npc_ulduar_hodir_druid", "d5/ddd/a20466.html#aac822cf4203af0e0173004ccc33abc21", null ],
+    [ "AttackStart", "d5/ddd/a20466.html#a67884f16c32f849bc68d68256c19d21a", null ],
+    [ "CanAIAttack", "d5/ddd/a20466.html#a81b0f60596e63ec618a9a9e1d8bc6c9d", null ],
+    [ "EnterEvadeMode", "d5/ddd/a20466.html#a22a10571e9cfe69200fd4a8fd383e500", null ],
+    [ "JustDied", "d5/ddd/a20466.html#a6cfefe7ccb156a658e8e2dad603b3fce", null ],
+    [ "MoveInLineOfSight", "d5/ddd/a20466.html#aa2e3e904c5f7fee4236a9395b95ef3e9", null ],
+    [ "ScheduleAbilities", "d5/ddd/a20466.html#ac8bee382634e20a49178be8b224eca2d", null ],
+    [ "SpellHit", "d5/ddd/a20466.html#a1053d484f30df43fba465981cd3cfa38", null ],
+    [ "UpdateAI", "d5/ddd/a20466.html#abcd580306a3abb5663bbac33f68115eb", null ],
+    [ "_instance", "d5/ddd/a20466.html#add7048881ec8b0dd2c09e34813c7c353", null ],
+    [ "events", "d5/ddd/a20466.html#a323184c52fcbc3e18eb74c96db716327", null ]
 ];

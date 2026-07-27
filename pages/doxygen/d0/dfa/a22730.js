@@ -1,5 +1,6 @@
 var a22730 =
 [
-    [ "PrepareSpellScript", "d0/dfa/a22730.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
-    [ "Register", "d0/dfa/a22730.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
+    [ "HandleScriptEffect", "d0/dfa/a22730.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "d0/dfa/a22730.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "d0/dfa/a22730.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

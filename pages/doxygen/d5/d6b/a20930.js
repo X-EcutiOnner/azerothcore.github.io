@@ -1,7 +1,9 @@
 var a20930 =
 [
-    [ "FilterTargets", "d5/d6b/a20930.html#aacfc70299b20cfef5b2feac954779f1c", null ],
-    [ "HandleDamageCalc", "d5/d6b/a20930.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
-    [ "PrepareSpellScript", "d5/d6b/a20930.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
-    [ "Register", "d5/d6b/a20930.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
+    [ "OnProc", "d5/d6b/a20930.html#a94de5901e43000e99b478e9194d59ecd", null ],
+    [ "PrepareAuraScript", "d5/d6b/a20930.html#a1b4efd5e774d4bd561a30830c3be8045", null ],
+    [ "Register", "d5/d6b/a20930.html#acc8a07807e5c306af285cb5889ef2c41", null ],
+    [ "Validate", "d5/d6b/a20930.html#ad17cfc0369da547475e43bd2970cf3f2", null ],
+    [ "_lastOrbTime", "d5/d6b/a20930.html#a4522510d836abf625b019674c1c5281f", null ],
+    [ "OrbCooldown", "d5/d6b/a20930.html#a4a0204623a0db8d1474d0e72e71226eb", null ]
 ];

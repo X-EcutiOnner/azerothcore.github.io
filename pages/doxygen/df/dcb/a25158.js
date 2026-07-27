@@ -1,5 +1,7 @@
 var a25158 =
 [
-    [ "PrepareSpellScript", "df/dcb/a25158.html#af2a8cfb5f732691622b4c633f4dde253", null ],
-    [ "Register", "df/dcb/a25158.html#ae171d4b40e72498a5dbb4ac65ee1619d", null ]
+    [ "HandleScript", "df/dcb/a25158.html#af386e49e9020328f123c4da7d82d4b0c", null ],
+    [ "PrepareSpellScript", "df/dcb/a25158.html#a5e4618514d33bbc18fcc26c83279e430", null ],
+    [ "Register", "df/dcb/a25158.html#a3560275f387f7b0de34f9d1c255241fe", null ],
+    [ "Validate", "df/dcb/a25158.html#a108e58cb90719b572f3578f0d44d0627", null ]
 ];

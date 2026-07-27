@@ -1,9 +1,9 @@
 var a08930 =
 [
-    [ "PendingSpellCastRequest", "d9/d07/a08930.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
-    [ "cancelInProgress", "d9/d07/a08930.html#a726b6e423b23f8c12c65e07809462ad1", null ],
-    [ "category", "d9/d07/a08930.html#a51a702f257b784dac4556397dd1c0be4", null ],
-    [ "isItem", "d9/d07/a08930.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
-    [ "requestPacket", "d9/d07/a08930.html#a6ee868c6161e49dc8774ab357f313116", null ],
-    [ "spellId", "d9/d07/a08930.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
+    [ "ActionButton", "d9/d07/a08930.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
+    [ "GetAction", "d9/d07/a08930.html#a7c10f6089fab30179cfe8175b740477a", null ],
+    [ "GetType", "d9/d07/a08930.html#abe5bc143770d411cff0d8c8c425b1253", null ],
+    [ "SetActionAndType", "d9/d07/a08930.html#a29d804ed78d79f64e868e9741b37d7be", null ],
+    [ "packedData", "d9/d07/a08930.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
+    [ "uState", "d9/d07/a08930.html#a6384e73650da93c96d3b4cc42b151b63", null ]
 ];

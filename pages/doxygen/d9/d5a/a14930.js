@@ -1,7 +1,13 @@
 var a14930 =
 [
-    [ "HandleOnHit", "d9/d5a/a14930.html#ae3241486a612293b5421a523f6d854d9", null ],
-    [ "PrepareSpellScript", "d9/d5a/a14930.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
-    [ "Register", "d9/d5a/a14930.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
-    [ "Validate", "d9/d5a/a14930.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
+    [ "boss_headless_horseman_head", "d9/d5a/a14930.html#a12343a1bb6e30681b0c82ba649bd5b8a", null ],
+    [ "DamageTaken", "d9/d5a/a14930.html#a73e75350937736ad7cfe725b785b3768", null ],
+    [ "GetOwner", "d9/d5a/a14930.html#ab72d1f1891401754ffe032ed0534882d", null ],
+    [ "Reset", "d9/d5a/a14930.html#a367e8b82d6d3bb08e7106c71295610f9", null ],
+    [ "SpellHit", "d9/d5a/a14930.html#adcd9ce9755f8dbc1391b4d2b3f5e1669", null ],
+    [ "SpellHitTarget", "d9/d5a/a14930.html#a0d73ba0831118d135137953f91e7c5d7", null ],
+    [ "UpdateAI", "d9/d5a/a14930.html#a300dec039465535914bf6879423a0962", null ],
+    [ "handled", "d9/d5a/a14930.html#a72c0d0c8c534fa8fdc1370203c30c3a3", null ],
+    [ "pct", "d9/d5a/a14930.html#a9752326bac7ecbcdfde5b12f55b20be2", null ],
+    [ "timer", "d9/d5a/a14930.html#ae7c669e65659459fd83f91b5e9ed1347", null ]
 ];

@@ -1,7 +1,7 @@
 var a23306 =
 [
-    [ "HandleOnApply", "df/d6f/a23306.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
-    [ "HandleOnRemove", "df/d6f/a23306.html#aed5f87523c58d94c8f98b76c06abb140", null ],
-    [ "PrepareAuraScript", "df/d6f/a23306.html#ab32413873bec92540f9e85e8013b7ea2", null ],
-    [ "Register", "df/d6f/a23306.html#a0653d8688f98822580a3243a0d47c17a", null ]
+    [ "npc_ahune_ice_spear_bunny", "df/d6f/a23306.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "df/d6f/a23306.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "df/d6f/a23306.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "df/d6f/a23306.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

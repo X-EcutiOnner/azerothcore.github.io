@@ -1,9 +1,22 @@
 var a12198 =
 [
-    [ "accountId", "df/d96/a12198.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
-    [ "accountName", "df/d96/a12198.html#a4849bd1f43fd15eea1991948abdc576d", null ],
-    [ "deleteDate", "df/d96/a12198.html#a65a101727094841d34e8775bb7504cba", null ],
-    [ "level", "df/d96/a12198.html#a3eb08758389ea4d3e2329ffb7af9fff4", null ],
-    [ "lowGuid", "df/d96/a12198.html#a11fd07e662184f750ac0a5e547a22437", null ],
-    [ "name", "df/d96/a12198.html#a0e85dce38305e222c5654315ed68bfc1", null ]
+    [ "CreatureTextMgr", "df/d96/a12198.html#a00cc7ebfdb0702de8af841dcbbddcc3b", null ],
+    [ "~CreatureTextMgr", "df/d96/a12198.html#a6f77e1f030bb16b585f9a75059a06f31", null ],
+    [ "GetLocalizedChatString", "df/d96/a12198.html#a169c53804fb5bf4ecd509ee90482ebf5", null ],
+    [ "GetRangeForChatType", "df/d96/a12198.html#aeddebd7d3fcf604ee4d11b77ff87fd53", null ],
+    [ "GetTextMap", "df/d96/a12198.html#a5237341864a3082126bed703d68312b2", null ],
+    [ "GetTextOptions", "df/d96/a12198.html#abf52920783a936f46500e158fcf0fd8c", null ],
+    [ "instance", "df/d96/a12198.html#a92acbdab30a8942859e01526144b9989", null ],
+    [ "LoadCreatureTextLocales", "df/d96/a12198.html#a826a3cd2e991c358a98fced5512297dd", null ],
+    [ "LoadCreatureTextOptions", "df/d96/a12198.html#a1159c9ba36268a33dbeb52a78dda72f2", null ],
+    [ "LoadCreatureTexts", "df/d96/a12198.html#a129039b5a7d2de067656cd6e47de43dd", null ],
+    [ "SendChat", "df/d96/a12198.html#a93c7fa546a0f41e7d59c6782aecee070", null ],
+    [ "SendChatPacket", "df/d96/a12198.html#a0b94720ae3ab22ba8bb961f26f47548b", null ],
+    [ "SendEmote", "df/d96/a12198.html#a8b9dc67f09242b5ade7405663ca52fda", null ],
+    [ "SendNonChatPacket", "df/d96/a12198.html#a2303c6343e233beb3f7a1ebda40e080e", null ],
+    [ "SendSound", "df/d96/a12198.html#aa36b6dd5010eea049973122bec4fceb1", null ],
+    [ "TextExist", "df/d96/a12198.html#aa92d99a93a387193a10eb7a30c59b86e", null ],
+    [ "mLocaleTextMap", "df/d96/a12198.html#a12ecf289ef6d78691b6ab23f3cdd9fd8", null ],
+    [ "mTextMap", "df/d96/a12198.html#ad25faab453d0f5d6270797eeeb5e2e40", null ],
+    [ "mTextOptionsMap", "df/d96/a12198.html#aef06823ec3f9b56e8ee25b28b453193f", null ]
 ];

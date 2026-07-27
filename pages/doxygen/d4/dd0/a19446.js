@@ -1,7 +1,13 @@
 var a19446 =
 [
-    [ "npc_naxxramas_trigger", "d4/dd0/a19446.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
-    [ "Reset", "d4/dd0/a19446.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
-    [ "UpdateAI", "d4/dd0/a19446.html#acd051dd7790aa37cd2375479433509cb", null ],
-    [ "_events", "d4/dd0/a19446.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
+    [ "boss_anubrekhan", "d4/dd0/a19446.html#ad748de528ca78739236b9586ddaa19bd", null ],
+    [ "JustDied", "d4/dd0/a19446.html#a9dfb1b89c4f47235e463d90f17522113", null ],
+    [ "JustEngagedWith", "d4/dd0/a19446.html#a97d56653381e7a7f8c724263148cd61e", null ],
+    [ "JustSummoned", "d4/dd0/a19446.html#af1a01ff6c9790e1660619767c16cfd94", null ],
+    [ "KilledUnit", "d4/dd0/a19446.html#a73906e3681c767e5818d380e77525ba2", null ],
+    [ "MoveInLineOfSight", "d4/dd0/a19446.html#a9fcbc921973e0bd02867217d15efcc64", null ],
+    [ "Reset", "d4/dd0/a19446.html#a1a495fddf89c4c92136d1fd61fba6594", null ],
+    [ "SummonCryptGuards", "d4/dd0/a19446.html#a30d2e7464cffc6894882897ed0d66c6a", null ],
+    [ "SummonedCreatureDies", "d4/dd0/a19446.html#a12b4f2878b54f5bd34c470d2c7b40098", null ],
+    [ "_sayGreet", "d4/dd0/a19446.html#a7f61eb4aab4d0bf81480dea011b11f95", null ]
 ];

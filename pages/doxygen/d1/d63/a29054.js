@@ -1,8 +1,14 @@
 var a29054 =
 [
-    [ "MapDifficulty", "d1/d63/a29054.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
-    [ "MapDifficulty", "d1/d63/a29054.html#a227aec55b5b774076882ea34f70d5d88", null ],
-    [ "hasErrorMessage", "d1/d63/a29054.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
-    [ "maxPlayers", "d1/d63/a29054.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
-    [ "resetTime", "d1/d63/a29054.html#a7190131620b9eee0897ac7b4dd62949e", null ]
+    [ "HasFlag", "d1/d63/a29054.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
+    [ "alliance", "d1/d63/a29054.html#a44c3824aef4f4724c189727f12801a5b", null ],
+    [ "CinematicSequence", "d1/d63/a29054.html#a33a01b1c26b21706d9898af246f2a0df", null ],
+    [ "expansion", "d1/d63/a29054.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
+    [ "FactionID", "d1/d63/a29054.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
+    [ "Flags", "d1/d63/a29054.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
+    [ "model_f", "d1/d63/a29054.html#a4807227fd863e247b18d29db0ea8236a", null ],
+    [ "model_m", "d1/d63/a29054.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
+    [ "name", "d1/d63/a29054.html#a4970323e45feb3f74b47420648371ab6", null ],
+    [ "RaceID", "d1/d63/a29054.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
+    [ "TeamID", "d1/d63/a29054.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
 ];

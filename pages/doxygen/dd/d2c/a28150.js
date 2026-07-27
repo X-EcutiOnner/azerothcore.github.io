@@ -1,14 +1,6 @@
 var a28150 =
 [
-    [ "npc_garments_of_questsAI", "dd/d2c/a28150.html#a079f719ca488ed6fde2783b5db4f328b", null ],
-    [ "JustEngagedWith", "dd/d2c/a28150.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
-    [ "Reset", "dd/d2c/a28150.html#aaaaa3e41deae0057bd659be5c579d226", null ],
-    [ "SpellHit", "dd/d2c/a28150.html#ad22195dba70ced744b319bc1ad83c083", null ],
-    [ "UpdateAI", "dd/d2c/a28150.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
-    [ "WaypointReached", "dd/d2c/a28150.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
-    [ "WaypointReached", "dd/d2c/a28150.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "CanRun", "dd/d2c/a28150.html#a93c41781e4cb037b56773bbbf36181b7", null ],
-    [ "CasterGUID", "dd/d2c/a28150.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
-    [ "IsHealed", "dd/d2c/a28150.html#a96db66704eabf028362d5f8b5c424712", null ],
-    [ "RunAwayTimer", "dd/d2c/a28150.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
+    [ "go_witherbark_totem_bundleAI", "df/d08/a28154.html", "df/d08/a28154" ],
+    [ "go_witherbark_totem_bundle", "dd/d2c/a28150.html#affcdff7ec6894add0acec842028efd2e", null ],
+    [ "GetAI", "dd/d2c/a28150.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
 ];

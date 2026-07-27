@@ -1,8 +1,8 @@
 var a10958 =
 [
-    [ "GuildCommandResult", "dd/da6/a10958.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
-    [ "Write", "dd/da6/a10958.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
-    [ "Command", "dd/da6/a10958.html#a099cf9f39c403f76971d006245b03f29", null ],
-    [ "Name", "dd/da6/a10958.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
-    [ "Result", "dd/da6/a10958.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
+    [ "GuildFilter", "dd/da6/a10958.html#a20ffe6a8d19489014484722b1481cb65", null ],
+    [ "Read", "dd/da6/a10958.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63", null ],
+    [ "MaximumLevel", "dd/da6/a10958.html#a3e23b4e2e5bda01b55ad26ea66222f78", null ],
+    [ "MinimumLevel", "dd/da6/a10958.html#a0c6523d46a325841cc5511a2a0f3e5c2", null ],
+    [ "MinimumRank", "dd/da6/a10958.html#a363df89cbe7b5aba7c7df69b65468c49", null ]
 ];

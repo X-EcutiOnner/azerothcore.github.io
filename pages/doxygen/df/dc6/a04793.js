@@ -1,7 +1,5 @@
 var a04793 =
 [
-    [ "Acore::Impl::MPSCQueueNonIntrusive< T >", "de/d6e/a05724.html", "de/d6e/a05724" ],
-    [ "Acore::Impl::MPSCQueueNonIntrusive< T >::Node", "d8/dcc/a05728.html", "d8/dcc/a05728" ],
-    [ "Acore::Impl::MPSCQueueIntrusive< T, IntrusiveLink >", "d8/d78/a05732.html", "d8/d78/a05732" ],
-    [ "MPSCQueue", "df/dc6/a04793.html#a6443361dced56bb64db991f954b2df47", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "df/dc6/a04793.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "MverMagic", "df/dc6/a04793.html#a076cdc3e61f69e52913492840fc864cf", null ]
 ];

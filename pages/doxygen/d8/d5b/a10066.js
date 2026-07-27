@@ -1,8 +1,5 @@
 var a10066 =
 [
-    [ "ServerMailCondition", "d8/d5b/a10066.html#a2ee7d2f3587159c95883fe32674cb586", null ],
-    [ "CheckCondition", "d8/d5b/a10066.html#a3c223658629357f05d8879555717f624", null ],
-    [ "state", "d8/d5b/a10066.html#a309f739872afaf644331335b27649561", null ],
-    [ "type", "d8/d5b/a10066.html#a3b318e7743ca48fcf8ba849398a06968", null ],
-    [ "value", "d8/d5b/a10066.html#af709199aed99633cc70d9118ee4fd4fc", null ]
+    [ "bossId", "d8/d5b/a10066.html#af9fc7d02d16d4fb3547273428553cf05", null ],
+    [ "boundary", "d8/d5b/a10066.html#a7b474c6b9225102ba08864256d07d9e6", null ]
 ];

@@ -1,5 +1,6 @@
 var a22146 =
 [
-    [ "OutdoorPvP_grizzly_hills", "da/d7b/a22146.html#aa020d8120c62874fb15b4623bbb714d9", null ],
-    [ "GetOutdoorPvP", "da/d7b/a22146.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
+    [ "npc_blessed_bannerAI", "d2/d82/a22150.html", "d2/d82/a22150" ],
+    [ "npc_blessed_banner", "da/d7b/a22146.html#a779a0c653088b2d206226e146a19101f", null ],
+    [ "GetAI", "da/d7b/a22146.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
 ];

@@ -1,8 +1,11 @@
 var a13714 =
 [
-    [ "FilterTargets", "de/da9/a13714.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
-    [ "HandleScriptEffect", "de/da9/a13714.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
-    [ "PrepareSpellScript", "de/da9/a13714.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
-    [ "Register", "de/da9/a13714.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
-    [ "Validate", "de/da9/a13714.html#a5493864b068de82015bc157f3d0899b3", null ]
+    [ "spell_eredar_twins_handle_touch_periodic", "de/da9/a13714.html#aa41bba6ce2889eb2a58409b611f53e49", null ],
+    [ "OnPeriodic", "de/da9/a13714.html#a8d863af82300eacc1456a08f8461d5a7", null ],
+    [ "PrepareAuraScript", "de/da9/a13714.html#af04b38478379a10c5d94a7e4216ad9fa", null ],
+    [ "Register", "de/da9/a13714.html#a4908c5c3e6afdf0305dfb4729cfba503", null ],
+    [ "Validate", "de/da9/a13714.html#aebeee23df951737b99e7a4ab026cbb1b", null ],
+    [ "_aura", "de/da9/a13714.html#a0b1df96674584554d53688e993c2a310", null ],
+    [ "_effectIndex", "de/da9/a13714.html#aa873d0475c70db5c5ba9cea802dc3569", null ],
+    [ "_touchSpell", "de/da9/a13714.html#ae60a5c2918105785805dc45b3942ee4a", null ]
 ];

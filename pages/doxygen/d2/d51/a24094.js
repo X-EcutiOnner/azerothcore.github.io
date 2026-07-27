@@ -1,7 +1,5 @@
 var a24094 =
 [
-    [ "CheckCast", "d2/d51/a24094.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "d2/d51/a24094.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "d2/d51/a24094.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "d2/d51/a24094.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "go_warmaul_prison", "d2/d51/a24094.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
+    [ "OnGossipHello", "d2/d51/a24094.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
 ];

@@ -1,11 +1,11 @@
 var a14618 =
 [
-    [ "npc_high_oracle_soo_roo", "db/df3/a14618.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
-    [ "MoveInLineOfSight", "db/df3/a14618.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
-    [ "Reset", "db/df3/a14618.html#a89a60a83a46e0095045b2353e50483ed", null ],
-    [ "UpdateAI", "db/df3/a14618.html#ac22cfa519e478da643a51ae887f306fd", null ],
-    [ "orphanGUID", "db/df3/a14618.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
-    [ "phase", "db/df3/a14618.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
-    [ "playerGUID", "db/df3/a14618.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
-    [ "timer", "db/df3/a14618.html#aa5238d3ee361374681947de874391a1f", null ]
+    [ "boss_marli", "db/df3/a14618.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
+    [ "_chargePlayer", "db/df3/a14618.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
+    [ "_schedulePhaseSpider", "db/df3/a14618.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
+    [ "_schedulePhaseTroll", "db/df3/a14618.html#ad6977930dac1cddd2162f7db1b239c83", null ],
+    [ "JustDied", "db/df3/a14618.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
+    [ "JustEngagedWith", "db/df3/a14618.html#ac74bd382c3dc826f7e4426bec3557094", null ],
+    [ "Reset", "db/df3/a14618.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
+    [ "_phase", "db/df3/a14618.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
 ];

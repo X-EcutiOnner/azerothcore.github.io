@@ -1,10 +1,10 @@
 var a07602 =
 [
-    [ "Battleground2ChatBuilder", "d1/d8d/a07602.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1", null ],
-    [ "operator()", "d1/d8d/a07602.html#a7c0ee21531ba43d9d2ab427d95da2ec5", null ],
-    [ "_arg1", "d1/d8d/a07602.html#aa6959944406804f01baa18cd898bfc41", null ],
-    [ "_arg2", "d1/d8d/a07602.html#aebfaeac77c40d4c7938cbdd488defc51", null ],
-    [ "_msgtype", "d1/d8d/a07602.html#a770d30e207e41a8f985776787d53f2cf", null ],
-    [ "_source", "d1/d8d/a07602.html#a8867dd698d0457688202e1a9378255d2", null ],
-    [ "_textId", "d1/d8d/a07602.html#a632cab30adc21c22f1a8890b1627262a", null ]
+    [ "CreatureBottom", "d1/d8d/a07602.html#aaa8fe59aa58bf02934bf87f636582637", null ],
+    [ "CreatureTop", "d1/d8d/a07602.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
+    [ "GameObject", "d1/d8d/a07602.html#abc26a328692fc048d9040c44f360f4c4", null ],
+    [ "nbCreatureBottom", "d1/d8d/a07602.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
+    [ "nbCreatureTop", "d1/d8d/a07602.html#a38ab7536e0682efd7080b823569d504b", null ],
+    [ "nbObject", "d1/d8d/a07602.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
+    [ "towerEntry", "d1/d8d/a07602.html#a1c0edf97a599773b688954f2e966e794", null ]
 ];

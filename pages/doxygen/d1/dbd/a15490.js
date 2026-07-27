@@ -1,8 +1,7 @@
 var a15490 =
 [
-    [ "npc_ouro_spawner", "d1/dbd/a15490.html#acb18739e5a1734312ffdda35321e5f34", null ],
-    [ "JustSummoned", "d1/dbd/a15490.html#a722dada5bf97c730462a0de2b082d5ff", null ],
-    [ "MoveInLineOfSight", "d1/dbd/a15490.html#a83c0972db4435ccf1af069574e4056f4", null ],
-    [ "Reset", "d1/dbd/a15490.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
-    [ "hasSummoned", "d1/dbd/a15490.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
+    [ "npc_hive_zara_larva", "d1/dbd/a15490.html#a50fb5738d7b0818689216fee0915a0de", null ],
+    [ "JustSummoned", "d1/dbd/a15490.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
+    [ "MovementInform", "d1/dbd/a15490.html#a6890c58106450d654062f548a80cb42f", null ],
+    [ "_instance", "d1/dbd/a15490.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
 ];

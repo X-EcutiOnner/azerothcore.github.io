@@ -1,6 +1,10 @@
 var a15426 =
 [
-    [ "FilterTargets", "d2/d2b/a15426.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
-    [ "PrepareSpellScript", "d2/d2b/a15426.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
-    [ "Register", "d2/d2b/a15426.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
+    [ "CurrId", "d2/d2b/a15426.html#a13ab14a7f8ef49fcbfa72b3c383c902a", null ],
+    [ "DestId", "d2/d2b/a15426.html#ab29acec583ffa5055ff17c7216cab1b7", null ],
+    [ "O", "d2/d2b/a15426.html#a291850314eca39626b811cdf82eadaca", null ],
+    [ "SpellId", "d2/d2b/a15426.html#a98b5a11c4f105696d444222113de4607", null ],
+    [ "X", "d2/d2b/a15426.html#a90b233e77c593720f434d78cae72458e", null ],
+    [ "Y", "d2/d2b/a15426.html#a03176c6113b5fb3c873dc57e06c27d79", null ],
+    [ "Z", "d2/d2b/a15426.html#a921c5e8c4b44edb9466cb59e94ac5441", null ]
 ];

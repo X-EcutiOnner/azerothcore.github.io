@@ -1,5 +1,5 @@
 var a23478 =
 [
-    [ "npc_thaladred", "df/d59/a23478.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
-    [ "ScheduleEvents", "df/d59/a23478.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
+    [ "npc_invisible_tractor_beam_source", "df/d59/a23478.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
+    [ "IsSummonedBy", "df/d59/a23478.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
 ];

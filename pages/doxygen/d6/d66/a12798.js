@@ -1,8 +1,14 @@
 var a12798 =
 [
-    [ "boss_garr", "d6/d66/a12798.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
-    [ "JustEngagedWith", "d6/d66/a12798.html#abab82d2e00b373ea1f0e444de23f4987", null ],
-    [ "Reset", "d6/d66/a12798.html#a64bcae059cfa97def7e52a42d404a016", null ],
-    [ "UpdateAI", "d6/d66/a12798.html#a2a412224072b47de6780ea7b8d543743", null ],
-    [ "massEruptionTimer", "d6/d66/a12798.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
+    [ "boss_mor_grayhoof", "d6/d66/a12798.html#aef1001233a51ad3bb9963c540d39d79b", null ],
+    [ "CastRandomSpell", "d6/d66/a12798.html#a00756d64d24088ebf408153fcb59ff13", null ],
+    [ "DamageTaken", "d6/d66/a12798.html#a164a911eb9a86964a61866c05d44512f", null ],
+    [ "JustDied", "d6/d66/a12798.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
+    [ "JustEngagedWith", "d6/d66/a12798.html#a043f6ee099efd0d49982b2966604e65a", null ],
+    [ "Reset", "d6/d66/a12798.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
+    [ "UpdateAI", "d6/d66/a12798.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
+    [ "_phase", "d6/d66/a12798.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
+    [ "_scheduler", "d6/d66/a12798.html#ad2a897281d308475957e2636c6536fdd", null ],
+    [ "_sleepTargetGUID", "d6/d66/a12798.html#a8baa606696dc8acf532e8badfc6c624b", null ],
+    [ "_sleepTargetThreat", "d6/d66/a12798.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
 ];

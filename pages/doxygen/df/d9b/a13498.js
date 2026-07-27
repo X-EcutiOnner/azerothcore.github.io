@@ -1,7 +1,6 @@
 var a13498 =
 [
-    [ "OnPeriodic", "df/d9b/a13498.html#ab193b7cf8a8fe91879317e7d21522976", null ],
-    [ "PrepareAuraScript", "df/d9b/a13498.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
-    [ "Register", "df/d9b/a13498.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
-    [ "Validate", "df/d9b/a13498.html#a290b864756ceff85d52ba3f974a28217", null ]
+    [ "HandleAfterHit", "df/d9b/a13498.html#a52864ee174e34f16827cbe863d152789", null ],
+    [ "PrepareSpellScript", "df/d9b/a13498.html#a0cbcdcae0c2e5736ce3f750fb1738d36", null ],
+    [ "Register", "df/d9b/a13498.html#a8efcb11b1dacbf2f7fb840d94fccecb4", null ]
 ];

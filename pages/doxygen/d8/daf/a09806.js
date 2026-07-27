@@ -1,6 +1,9 @@
 var a09806 =
 [
-    [ "RandomCheck", "d8/daf/a09806.html#aca7a234c6eef8876abb02af723e9485d", null ],
-    [ "operator()", "d8/daf/a09806.html#a9886987fa2b675ab404102ebe828c9f3", null ],
-    [ "_chance", "d8/daf/a09806.html#aad026a0ad4539dd5336c3a6b820e351d", null ]
+    [ "NearestHostileUnitCheck", "d8/daf/a09806.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
+    [ "NearestHostileUnitCheck", "d8/daf/a09806.html#a2fe620370289850eb0362823de2072d1", null ],
+    [ "operator()", "d8/daf/a09806.html#a04c85a77d660bbc74279d1062dabc375", null ],
+    [ "i_playerOnly", "d8/daf/a09806.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
+    [ "m_range", "d8/daf/a09806.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
+    [ "me", "d8/daf/a09806.html#a67cef25e6f725ea42f0377df34d48495", null ]
 ];

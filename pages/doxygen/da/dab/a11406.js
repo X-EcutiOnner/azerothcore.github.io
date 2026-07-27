@@ -1,6 +1,7 @@
 var a11406 =
 [
-    [ "DismissCritter", "da/dab/a11406.html#a87e35583063b340f014d21cd02c54cab", null ],
-    [ "Read", "da/dab/a11406.html#a411b65505e8a332ecf9291a670dc38c4", null ],
-    [ "CritterGUID", "da/dab/a11406.html#a89c071e81c9d39c099c32c4976f15304", null ]
+    [ "RandomRollClient", "da/dab/a11406.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
+    [ "Read", "da/dab/a11406.html#ab682763f35a40f776b1742927df0a336", null ],
+    [ "Max", "da/dab/a11406.html#a45a1e140ed402f54deb4c0798360a43a", null ],
+    [ "Min", "da/dab/a11406.html#a3cd07e7891b43b453b56013d76f51f71", null ]
 ];

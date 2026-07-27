@@ -1,8 +1,7 @@
 var a18134 =
 [
-    [ "FilterTargets", "de/d4c/a18134.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
-    [ "HandleScript", "de/d4c/a18134.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
-    [ "PrepareSpellScript", "de/d4c/a18134.html#ae6b30b8da52141c385f985435cac99a1", null ],
-    [ "Register", "de/d4c/a18134.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
-    [ "Validate", "de/d4c/a18134.html#accff1f03fb7c0d56cb197bb18348635c", null ]
+    [ "HandleScript", "de/d4c/a18134.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "de/d4c/a18134.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "de/d4c/a18134.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "de/d4c/a18134.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

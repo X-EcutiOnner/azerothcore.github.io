@@ -1,10 +1,8 @@
 var a10274 =
 [
-    [ "ChaseRange", "d1/d6c/a10274.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
-    [ "ChaseRange", "d1/d6c/a10274.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
-    [ "ChaseRange", "d1/d6c/a10274.html#a397b3789449b1c178f11f64313498c4d", null ],
-    [ "MaxRange", "d1/d6c/a10274.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
-    [ "MaxTolerance", "d1/d6c/a10274.html#a7909b18028d43c84eca5feee3e41469c", null ],
-    [ "MinRange", "d1/d6c/a10274.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
-    [ "MinTolerance", "d1/d6c/a10274.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
+    [ "GetNavMesh", "d1/d6c/a10274.html#a81e3e8249f22accbd06f9e80aa3fccf9", null ],
+    [ "GetNavMeshQuery", "d1/d6c/a10274.html#af524ac62385fdd4d4c6a4f01afafbb49", null ],
+    [ "MapCollisionData", "d1/d6c/a10274.html#a472038a89678719bf8868ab0c75e394f", null ],
+    [ "_navMesh", "d1/d6c/a10274.html#ae41a024489dbe5d11ba6dceed6b7442f", null ],
+    [ "_navMeshQuery", "d1/d6c/a10274.html#a237375e56702f7e83c9e13e1f959cfdb", null ]
 ];

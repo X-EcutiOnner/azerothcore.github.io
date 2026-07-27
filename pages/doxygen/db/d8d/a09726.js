@@ -1,8 +1,8 @@
 var a09726 =
 [
-    [ "AnyAssistCreatureInRangeCheck", "db/d8d/a09726.html#a2e9cbff4e627fe8ccf67997123afe0a6", null ],
-    [ "operator()", "db/d8d/a09726.html#a314a4800047f7e661cd011010b3f148e", null ],
-    [ "i_enemy", "db/d8d/a09726.html#a37318ae783e6cf4a658063aab149e8a3", null ],
-    [ "i_funit", "db/d8d/a09726.html#add1071091d1696c3f537483810dcb6f1", null ],
-    [ "i_range", "db/d8d/a09726.html#a4bcf67be5bae4649d82586349d30be04", null ]
+    [ "NearestGameObjectCheck", "db/d8d/a09726.html#aa8ede7ca83cc53cc5b4a8a057f6e8477", null ],
+    [ "NearestGameObjectCheck", "db/d8d/a09726.html#a366ef1710823d1e52eb2df650e60562f", null ],
+    [ "operator()", "db/d8d/a09726.html#a00df56adb5c6459c59b5ae4e0b85f0d3", null ],
+    [ "i_obj", "db/d8d/a09726.html#aeaec0e0f53cb870e1f0a93f8b05b74bc", null ],
+    [ "i_range", "db/d8d/a09726.html#a92fc9a7ac2995ad962173ae3a794e825", null ]
 ];

@@ -1,6 +1,9 @@
 var a14006 =
 [
-    [ "npc_tyrion_spybotAI", "d7/d3f/a14010.html", "d7/d3f/a14010" ],
-    [ "npc_tyrion_spybot", "d8/d47/a14006.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
-    [ "GetAI", "d8/d47/a14006.html#af81b70437703edc8d99fe24249891dd6", null ]
+    [ "npc_partygoer", "d8/d47/a14006.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "d8/d47/a14006.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "d8/d47/a14006.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "d8/d47/a14006.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "d8/d47/a14006.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "d8/d47/a14006.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

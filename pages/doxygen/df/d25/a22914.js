@@ -1,10 +1,11 @@
 var a22914 =
 [
-    [ "Spells", "df/d25/a22914.html#a70ca1841fb1db54e6f76b96331e05cf1", [
-      [ "SPELL_GROW", "df/d25/a22914.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
-      [ "SPELL_SPORE_CLOUD", "df/d25/a22914.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
-    ] ],
-    [ "npc_rancid_mushroom", "df/d25/a22914.html#a15896957b94de57de9eda5a199a05d4c", null ],
-    [ "InitializeAI", "df/d25/a22914.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
-    [ "UpdateAI", "df/d25/a22914.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
+    [ "boss_essence_of_sufferingAI", "df/d25/a22914.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
+    [ "DamageTaken", "df/d25/a22914.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
+    [ "DoAction", "df/d25/a22914.html#a08724d74523866969b12d13846eb4c1e", null ],
+    [ "JustEngagedWith", "df/d25/a22914.html#aa2fce36768ad6e23a955cd215ca759db", null ],
+    [ "KilledUnit", "df/d25/a22914.html#a3699b19f23cf15115ff8c92691a6d334", null ],
+    [ "MovementInform", "df/d25/a22914.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
+    [ "Reset", "df/d25/a22914.html#affa55b69784d8f881598189c361c986e", null ],
+    [ "UpdateAI", "df/d25/a22914.html#abb60432720b3720832ccc83d454a3808", null ]
 ];

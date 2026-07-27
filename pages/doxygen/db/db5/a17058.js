@@ -1,8 +1,6 @@
 var a17058 =
 [
-    [ "npc_fos_corrupted_soul_fragment", "db/db5/a17058.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
-    [ "Reset", "db/db5/a17058.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
-    [ "UpdateAI", "db/db5/a17058.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
-    [ "Instance", "db/db5/a17058.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
-    [ "Timer", "db/db5/a17058.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
+    [ "npc_snobold_vassalAI", "d3/d93/a17062.html", "d3/d93/a17062" ],
+    [ "npc_snobold_vassal", "db/db5/a17058.html#a243cefbc15931ebbb555936d54583314", null ],
+    [ "GetAI", "db/db5/a17058.html#a77976a59f600591454fac197ded613ef", null ]
 ];

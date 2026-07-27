@@ -1,7 +1,6 @@
 var a22470 =
 [
-    [ "boss_lady_malande", "de/d45/a22470.html#a8cb693d203463dcba809e7ffc23c6868", null ],
-    [ "AttackStart", "de/d45/a22470.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
-    [ "JustEngagedWith", "de/d45/a22470.html#af4b5f376e387851e15517de03636acde", null ],
-    [ "UpdateAI", "de/d45/a22470.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
+    [ "npc_crusade_recruitAI", "de/d43/a22474.html", "de/d43/a22474" ],
+    [ "npc_crusade_recruit", "de/d45/a22470.html#a6e130f153c506255ef5ece1baf006028", null ],
+    [ "GetAI", "de/d45/a22470.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
 ];

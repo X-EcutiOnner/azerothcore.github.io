@@ -1,9 +1,12 @@
 var a12470 =
 [
-    [ "npc_phalanx", "df/d92/a12470.html#a03c79151dcdc13fef4ce83957addd44a", null ],
-    [ "Reset", "df/d92/a12470.html#a9297d5fb869eb9a65ef9143a56347a53", null ],
-    [ "UpdateAI", "df/d92/a12470.html#aad01cc9d5ac167c21547e8b0b2bda4a7", null ],
-    [ "_fireballVolleyTimer", "df/d92/a12470.html#a54ad76cd7e8d3be058ad3d5153e5b144", null ],
-    [ "_mightyBlowTimer", "df/d92/a12470.html#ad59e6e32b53dbf797bc62e116ae2a12d", null ],
-    [ "_thunderClapTimer", "df/d92/a12470.html#a3b0c33207bf5090abeb9860585c222b4", null ]
+    [ "group_commandscript", "df/d92/a12470.html#ad2890427cfe3649b2e0fe0896693372c", null ],
+    [ "GetCommands", "df/d92/a12470.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
+    [ "HandleGroupDisbandCommand", "df/d92/a12470.html#a538539340a697e02453ddcfa669fb646", null ],
+    [ "HandleGroupInvitesCommand", "df/d92/a12470.html#a614878b840aee6bab067db81fa59a8c7", null ],
+    [ "HandleGroupJoinCommand", "df/d92/a12470.html#a382e8532c653464e90b45569e813ae37", null ],
+    [ "HandleGroupLeaderCommand", "df/d92/a12470.html#a899858a63add3c68e0e1446d29216c00", null ],
+    [ "HandleGroupListCommand", "df/d92/a12470.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
+    [ "HandleGroupRemoveCommand", "df/d92/a12470.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
+    [ "HandleGroupReviveCommand", "df/d92/a12470.html#a13968d61ec037aacc8070bc675290f94", null ]
 ];

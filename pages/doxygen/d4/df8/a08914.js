@@ -1,9 +1,7 @@
 var a08914 =
 [
-    [ "achievements", "d4/df8/a08914.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
-    [ "items", "d4/df8/a08914.html#a2873836588f37b9a5cf691da2b6fa715", null ],
-    [ "levelMax", "d4/df8/a08914.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
-    [ "levelMin", "d4/df8/a08914.html#a823016216268e13116a46bcb40ea0e70", null ],
-    [ "quests", "d4/df8/a08914.html#a6150aa58762a13dcbfcb55507df77809", null ],
-    [ "reqItemLevel", "d4/df8/a08914.html#a97f262e488e178dad0c33f228808f69e", null ]
+    [ "IsInSpec", "d4/df8/a08914.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
+    [ "Active", "d4/df8/a08914.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
+    [ "specMask", "d4/df8/a08914.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
+    [ "State", "d4/df8/a08914.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
 ];

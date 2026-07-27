@@ -1,7 +1,8 @@
 var a24782 =
 [
-    [ "HandleProc", "dd/d6c/a24782.html#af768269d315e998fc2042794c3a03b58", null ],
-    [ "PrepareAuraScript", "dd/d6c/a24782.html#ae3da67d626ee11c57a85a3af99ff07a5", null ],
-    [ "Register", "dd/d6c/a24782.html#a2df1cff47861cbf3198e573c6031b54e", null ],
-    [ "Validate", "dd/d6c/a24782.html#a84f40eec148c55108085db5e7b05cb0e", null ]
+    [ "AfterRemove", "dd/d6c/a24782.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
+    [ "HandleDispel", "dd/d6c/a24782.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
+    [ "PrepareAuraScript", "dd/d6c/a24782.html#a44e66753516d693c31dba27c9d1ad250", null ],
+    [ "Register", "dd/d6c/a24782.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
+    [ "Validate", "dd/d6c/a24782.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
 ];

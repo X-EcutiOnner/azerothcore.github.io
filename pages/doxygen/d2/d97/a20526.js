@@ -1,5 +1,5 @@
 var a20526 =
 [
-    [ "go_thorim_lever", "d2/d97/a20526.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "d2/d97/a20526.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "achievement_getting_cold_in_here", "d2/d97/a20526.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
+    [ "OnCheck", "d2/d97/a20526.html#aeafd382d378381f754da6ee04d382276", null ]
 ];

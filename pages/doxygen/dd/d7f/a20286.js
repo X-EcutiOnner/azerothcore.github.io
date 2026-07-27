@@ -1,7 +1,8 @@
 var a20286 =
 [
-    [ "HandleScript", "dd/d7f/a20286.html#a760bb60198017605111d02af98c827b1", null ],
-    [ "PrepareSpellScript", "dd/d7f/a20286.html#a6128956f1037b62fff2e6f10ec22d956", null ],
-    [ "Register", "dd/d7f/a20286.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
-    [ "Validate", "dd/d7f/a20286.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
+    [ "FilterTargets", "dd/d7f/a20286.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
+    [ "HandleScript", "dd/d7f/a20286.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
+    [ "PrepareSpellScript", "dd/d7f/a20286.html#aea46762f43b31923617f740e0545fe98", null ],
+    [ "Register", "dd/d7f/a20286.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
+    [ "Validate", "dd/d7f/a20286.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
 ];

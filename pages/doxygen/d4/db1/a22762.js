@@ -1,12 +1,7 @@
 var a22762 =
 [
-    [ "boss_fathomguard_sharkkis", "d4/db1/a22762.html#affc3a4422ce62311879bef6df104c9b9", null ],
-    [ "EnterEvadeMode", "d4/db1/a22762.html#a344072e382566575168cdcf57d0f6481", null ],
-    [ "JustDied", "d4/db1/a22762.html#a1a4fdf91f6d8d0e3e0672e174152a59d", null ],
-    [ "JustEngagedWith", "d4/db1/a22762.html#a5724db6f55f1c5ed2e351603a1b26943", null ],
-    [ "JustSummoned", "d4/db1/a22762.html#a31098d1e91412b797663fe677114af20", null ],
-    [ "Reset", "d4/db1/a22762.html#a5d8b89e2d4a203df5ec574b96df0d489", null ],
-    [ "UpdateAI", "d4/db1/a22762.html#ab71689fda10d6d31dd2bfc72026bd755", null ],
-    [ "_instance", "d4/db1/a22762.html#ad3dc90987a8b01fcd55799f66d18906c", null ],
-    [ "_summons", "d4/db1/a22762.html#a73f887b3f829027fc336a8e4a9c5b963", null ]
+    [ "HandleScriptEffect", "d4/db1/a22762.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
+    [ "PrepareSpellScript", "d4/db1/a22762.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
+    [ "Register", "d4/db1/a22762.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
+    [ "Validate", "d4/db1/a22762.html#a9ce122d497e72e3a46b1857d722af48d", null ]
 ];

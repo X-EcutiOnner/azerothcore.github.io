@@ -1,10 +1,11 @@
 var a28026 =
 [
-    [ "go_evil_book_for_dummies", "d1/d55/a28026.html#a69f599910bce0070c6b1af547c459b72", null ],
-    [ "HasLeatherSpecialty", "d1/d55/a28026.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
-    [ "OnGossipHello", "d1/d55/a28026.html#aeb29351e2faf135298419488eb16cc7e", null ],
-    [ "OnGossipSelect", "d1/d55/a28026.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
-    [ "SendActionMenu", "d1/d55/a28026.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
-    [ "SendConfirmLearn", "d1/d55/a28026.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
-    [ "SendConfirmUnlearn", "d1/d55/a28026.html#af9c10b0423327d8644020e8f5e26a603", null ]
+    [ "AccountActionIpLogger", "d1/d55/a28026.html#a73cad77bd83243cb10c4a1b4d7081e0b", null ],
+    [ "AccountIPLogAction", "d1/d55/a28026.html#a9c978dafb71e67b8b278806df507e34b", null ],
+    [ "OnAccountLogin", "d1/d55/a28026.html#a2952adcd73d775b924671e5a69adaccb", null ],
+    [ "OnEmailChange", "d1/d55/a28026.html#aa15d0cc4e6ed3818fa18a927074f5f0c", null ],
+    [ "OnFailedAccountLogin", "d1/d55/a28026.html#a8225c45bcb83e1ddd91a8dcd0f7da9cd", null ],
+    [ "OnFailedEmailChange", "d1/d55/a28026.html#a9fd73dc7b6954dfb4fc94a1f1288ccd2", null ],
+    [ "OnFailedPasswordChange", "d1/d55/a28026.html#a0663e15ea1a29b3daa672c8b6a25548f", null ],
+    [ "OnPasswordChange", "d1/d55/a28026.html#a4b71aa9c1790e6d4033d884a17ce0a2f", null ]
 ];

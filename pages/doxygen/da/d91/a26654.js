@@ -1,7 +1,7 @@
 var a26654 =
 [
-    [ "CheckTarget", "da/d91/a26654.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "da/d91/a26654.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "da/d91/a26654.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "da/d91/a26654.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "PeriodicTick", "da/d91/a26654.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
+    [ "PrepareAuraScript", "da/d91/a26654.html#ad332660b3b30ecb7b5c949c702574879", null ],
+    [ "Register", "da/d91/a26654.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
+    [ "Validate", "da/d91/a26654.html#a426b39c9733464c5d69d707d4e931f64", null ]
 ];

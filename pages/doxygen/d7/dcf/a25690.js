@@ -1,6 +1,6 @@
 var a25690 =
 [
-    [ "HandleTriggerSpell", "d7/dcf/a25690.html#a2c9f565aec4c42900037dd387549df18", null ],
-    [ "PrepareAuraScript", "d7/dcf/a25690.html#a5864bbba50001cdb84b0015d08134c56", null ],
-    [ "Register", "d7/dcf/a25690.html#a5a41ac9e41201ec3defc05c324a792c9", null ]
+    [ "CheckCast", "d7/dcf/a25690.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
+    [ "PrepareSpellScript", "d7/dcf/a25690.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
+    [ "Register", "d7/dcf/a25690.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
 ];

@@ -1,7 +1,5 @@
 var a13722 =
 [
-    [ "HandleSchoolDamage", "db/db7/a13722.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
-    [ "PrepareSpellScript", "db/db7/a13722.html#a8063f3d669e07dc0768607feb9a2f763", null ],
-    [ "Register", "db/db7/a13722.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
-    [ "Validate", "db/db7/a13722.html#af90ae09274b0082bd8bd674ca43596f6", null ]
+    [ "go_eredar_twins_blaze", "db/db7/a13722.html#a19d28875d3506d337e0ecbd93169f140", null ],
+    [ "InitializeAI", "db/db7/a13722.html#a8769ad96e4c4a2396cf4c294d8d982eb", null ]
 ];

@@ -1,8 +1,9 @@
 var a28646 =
 [
-    [ "gender", "d8/d45/a28646.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
-    [ "hair_id", "d8/d45/a28646.html#af4646a9adb0a1dc18b34158de2116b84", null ],
-    [ "Id", "d8/d45/a28646.html#a05de87081cf628e806d6518eef1424e4", null ],
-    [ "race", "d8/d45/a28646.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
-    [ "type", "d8/d45/a28646.html#a289bb362ba13235c754647ba67be1e56", null ]
+    [ "npc_necropolis_health", "d8/d45/a28646.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
+    [ "DespawnNecropolis", "d8/d45/a28646.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
+    [ "JustDied", "d8/d45/a28646.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
+    [ "SpellHit", "d8/d45/a28646.html#ad4a9f9b166ab8107a16da918082c6625", null ],
+    [ "SpellHitTarget", "d8/d45/a28646.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
+    [ "_zapCount", "d8/d45/a28646.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
 ];

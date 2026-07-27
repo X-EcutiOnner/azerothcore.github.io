@@ -1,11 +1,15 @@
 var a21534 =
 [
-    [ "npc_torturer_lecraftAI", "d9/ddc/a21534.html#a0886d83c8ab8b7db728928ecf922031b", null ],
-    [ "JustEngagedWith", "d9/ddc/a21534.html#ac6fa83aa5673bd6c90e128f06e56049e", null ],
-    [ "Reset", "d9/ddc/a21534.html#a13177e318e7777ecb13ba71c4f10f425", null ],
-    [ "SpellHit", "d9/ddc/a21534.html#a837805efcb6c99de55646a232f151ae8", null ],
-    [ "UpdateAI", "d9/ddc/a21534.html#a45919da006b0e767ec38810a6fcbac5d", null ],
-    [ "_events", "d9/ddc/a21534.html#a7879e11a94c32266ed11dc352ae7e802", null ],
-    [ "_playerGUID", "d9/ddc/a21534.html#ab792ceb52fe5c04851f69b9c2922822d", null ],
-    [ "_textCounter", "d9/ddc/a21534.html#aa7560f419ca1486efb9d6c3bda3cedf1", null ]
+    [ "npc_azure_saboteur", "d9/ddc/a21534.html#a051e99f11de367f810d9404a723173fd", null ],
+    [ "FinishPointReached", "d9/ddc/a21534.html#a451777273b76e4651b1f4309e8477c9f", null ],
+    [ "InitializeAI", "d9/ddc/a21534.html#acf28368986b940b571f493bd663e8e09", null ],
+    [ "MoveInLineOfSight", "d9/ddc/a21534.html#a1a65d5100befd33a104a13eef0800ae7", null ],
+    [ "UpdateAI", "d9/ddc/a21534.html#af5cf21e08a62b09793e99a92df1ef1b7", null ],
+    [ "WaypointReached", "d9/ddc/a21534.html#a7c6f44f0dcdb0d5abc18e304383d3b96", null ],
+    [ "WaypointReached", "d9/ddc/a21534.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_boss", "d9/ddc/a21534.html#ab23d685ca979bba79a3d9a14117350f8", null ],
+    [ "_count", "d9/ddc/a21534.html#aa431780ab6b90976494058a602377825", null ],
+    [ "_events", "d9/ddc/a21534.html#a7ee513b49f09971f5fea099e8c9b7bc7", null ],
+    [ "_instance", "d9/ddc/a21534.html#ab220c76d2fd72df36b5b92ee897d9d14", null ],
+    [ "_isOpening", "d9/ddc/a21534.html#a59ecc6687f1d5d948c6988d14f577ffd", null ]
 ];

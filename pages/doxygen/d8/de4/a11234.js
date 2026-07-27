@@ -1,7 +1,7 @@
 var a11234 =
 [
-    [ "SocketGems", "d8/de4/a11234.html#a29700bfeaee0bbfec3700d48c3d37dfd", null ],
-    [ "Read", "d8/de4/a11234.html#a0e3a56488604a59a8da0bb77a1b26681", null ],
-    [ "GemGuids", "d8/de4/a11234.html#acd8001a74aa4e2b4b7614c20e4ddfd5a", null ],
-    [ "ItemGuid", "d8/de4/a11234.html#a2be27cf0fdd4ed6e6b7a9618eebe8914", null ]
+    [ "GuildBankTextQueryResult", "d8/de4/a11234.html#aa1e25895e246c3a688d7850e517858d3", null ],
+    [ "Write", "d8/de4/a11234.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
+    [ "Tab", "d8/de4/a11234.html#abfc5522a0f94086474493db85ed1ef73", null ],
+    [ "Text", "d8/de4/a11234.html#ae78c1d1b802e12efd058987117158ec3", null ]
 ];

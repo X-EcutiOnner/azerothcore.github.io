@@ -1,7 +1,7 @@
 var a19210 =
 [
-    [ "OnApply", "de/d47/a19210.html#a72a01dea703436b2a220a9976da60fa6", null ],
-    [ "PrepareAuraScript", "de/d47/a19210.html#adb17425258d4fb2c0c464236e15f32d7", null ],
-    [ "Register", "de/d47/a19210.html#af026c126029c68ed8b7c6c1886720e4c", null ],
-    [ "Validate", "de/d47/a19210.html#a5674396828adf4e80102ed2277f1e08a", null ]
+    [ "HandleScript", "de/d47/a19210.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
+    [ "PrepareSpellScript", "de/d47/a19210.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
+    [ "Register", "de/d47/a19210.html#afb0289c9906d0383a22dfd0e848573f8", null ],
+    [ "Validate", "de/d47/a19210.html#a69344370af56f033e1c1ba16f4dee174", null ]
 ];

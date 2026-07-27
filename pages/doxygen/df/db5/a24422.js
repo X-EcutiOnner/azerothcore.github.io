@@ -1,7 +1,10 @@
 var a24422 =
 [
-    [ "HandleProc", "df/db5/a24422.html#a1982ba611c17042d0bff8bac66280218", null ],
-    [ "PrepareAuraScript", "df/db5/a24422.html#a459fde61325e3aeb1e339670138aacce", null ],
-    [ "Register", "df/db5/a24422.html#a151f0e7f04a9ee01189de20686a15bc4", null ],
-    [ "Validate", "df/db5/a24422.html#af57da6008a6ff796487b2da68644104b", null ]
+    [ "npc_pet_hunter_snake_trap", "df/db5/a24422.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
+    [ "InitializeAI", "df/db5/a24422.html#a91931c2ac0fd4981f9bf8a2f8f7db672", null ],
+    [ "JustEngagedWith", "df/db5/a24422.html#a695af9c49daa05c787dac03c4af91645", null ],
+    [ "MoveInLineOfSight", "df/db5/a24422.html#a099a34f12399fe24349644da3dafe7a4", null ],
+    [ "UpdateAI", "df/db5/a24422.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
+    [ "_isViper", "df/db5/a24422.html#ab49c69ca25014ef63e775b236255e4c1", null ],
+    [ "_spellTimer", "df/db5/a24422.html#ab9397451e2e8320ca77560a19baeee3f", null ]
 ];

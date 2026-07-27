@@ -1,11 +1,6 @@
 var a19554 =
 [
-    [ "boss_ormorok", "de/d6c/a19554.html#aa4862339ed41d5c593a93ef605d85a39", null ],
-    [ "JustDied", "de/d6c/a19554.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
-    [ "JustEngagedWith", "de/d6c/a19554.html#a22ac203db7c3b445e653798743e48764", null ],
-    [ "JustSummoned", "de/d6c/a19554.html#acc149b49e6658454610a7871e3c82b5e", null ],
-    [ "KilledUnit", "de/d6c/a19554.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
-    [ "Reset", "de/d6c/a19554.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
-    [ "UpdateAI", "de/d6c/a19554.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
-    [ "_spikesCount", "de/d6c/a19554.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
+    [ "boss_kelthuzad_minionAI", "df/db0/a19558.html", "df/db0/a19558" ],
+    [ "boss_kelthuzad_minion", "de/d6c/a19554.html#a4c6d430035c964b4063139c0cda6bfff", null ],
+    [ "GetAI", "de/d6c/a19554.html#ab951068fedced148653ebf9124ba5e3d", null ]
 ];

@@ -1,9 +1,20 @@
 var a12334 =
 [
-    [ "pool_commandscript", "d2/d7d/a12334.html#a41308abbe25e1e50325923f62f2fa3af", null ],
-    [ "GetCommands", "d2/d7d/a12334.html#a973b565473bd8f9ef5cfd61740d114b4", null ],
-    [ "HandlePoolInfoCommand", "d2/d7d/a12334.html#aac45a4a6c51a92aa03acde1789e1a039", null ],
-    [ "HandlePoolLookupCommand", "d2/d7d/a12334.html#a377a405a1dae394c6f17579c0f2751eb", null ],
-    [ "ListPoolMembers", "d2/d7d/a12334.html#a5bdc763ea21fe5c6b98d19b33d7dc570", null ],
-    [ "StatusTag", "d2/d7d/a12334.html#ad72421c1425d9a8cd4809b372d2c1e5b", null ]
+    [ "Weather", "d6/de9/a05083.html#gab528c044ef69c717d477eee8eac299b0", null ],
+    [ "~Weather", "d6/de9/a05083.html#ga8db480edb9459ebf73a1363c6fea0b27", null ],
+    [ "GetScriptId", "d6/de9/a05083.html#ga07ff1c03b6fb225388d418496c18d3be", null ],
+    [ "GetWeatherState", "d6/de9/a05083.html#gaed38cecb6af95222638b2177fa48757c", null ],
+    [ "GetZone", "d6/de9/a05083.html#ga5cf53e440c7da53eb6524ea1d658b0e6", null ],
+    [ "ReGenerate", "d6/de9/a05083.html#gaea61d86d9a64dd5dbc8ea843aad97eb6", null ],
+    [ "SendFineWeatherUpdateToPlayer", "d6/de9/a05083.html#gac976d0c6f66bd6ab52932a289e0f9551", null ],
+    [ "SendWeatherUpdateToPlayer", "d6/de9/a05083.html#gaf9ff2442cc875af4b6ca4bec7f41c965", null ],
+    [ "SetWeather", "d6/de9/a05083.html#ga32e650a32fc1e01bdb6fbfd960fd022f", null ],
+    [ "Update", "d6/de9/a05083.html#gaf7a3484daa8221287a4c325fb3a8080c", null ],
+    [ "UpdateWeather", "d6/de9/a05083.html#gad4885daeab81309a42c2c1fdebcf33ad", null ],
+    [ "m_grade", "d6/de9/a05083.html#ga5638d204d5986f64eed9d343d086895e", null ],
+    [ "m_map", "d6/de9/a05083.html#ga3495c619f0ddde94913cbaea0a6354fa", null ],
+    [ "m_timer", "d6/de9/a05083.html#gadba1100bafe6db8a242bdad35663e909", null ],
+    [ "m_type", "d6/de9/a05083.html#ga19d9ed53043ba2b9eb3bdc27921501eb", null ],
+    [ "m_weatherChances", "d6/de9/a05083.html#gaeb74bbd4568c726a2443318aea6313d0", null ],
+    [ "m_zone", "d6/de9/a05083.html#ga1fd12588331e8f86399378b7bb12317b", null ]
 ];

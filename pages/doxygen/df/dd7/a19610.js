@@ -1,15 +1,16 @@
 var a19610 =
 [
-    [ "boss_varosAI", "df/dd7/a19610.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
-    [ "EnterEvadeMode", "df/dd7/a19610.html#a0b7eeef4529b47357d729852cdeab002", null ],
-    [ "JustDied", "df/dd7/a19610.html#a2724167a66a059e1c0ca1612d8405d68", null ],
-    [ "JustEngagedWith", "df/dd7/a19610.html#a2f25555ca2884f6bffb289d209e87740", null ],
-    [ "JustSummoned", "df/dd7/a19610.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
-    [ "MoveInLineOfSight", "df/dd7/a19610.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
-    [ "Reset", "df/dd7/a19610.html#aef24d04954a26bb6381c860403e84288", null ],
-    [ "UpdateAI", "df/dd7/a19610.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
-    [ "events", "df/dd7/a19610.html#a36746118770c936e7606962365e102d8", null ],
-    [ "pInstance", "df/dd7/a19610.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
-    [ "step", "df/dd7/a19610.html#af4c8e11f0aad369f09902eb1ccc48059", null ],
-    [ "ZapAngle", "df/dd7/a19610.html#aef225fcf580c5e500d3242ac4be24260", null ]
+    [ "boss_nothAI", "df/dd7/a19610.html#a0a1f8e88396b04d070c4034b2419f0bb", null ],
+    [ "EnterEvadeMode", "df/dd7/a19610.html#af0c4cfb04564b23840ee88dfa1badf55", null ],
+    [ "IsInRoom", "df/dd7/a19610.html#a8e9c27804ae01e46285a3bed42091754", null ],
+    [ "JustDied", "df/dd7/a19610.html#a18dd73c178eff3170d371c4bd4062b76", null ],
+    [ "JustEngagedWith", "df/dd7/a19610.html#aed044bf36d56b2241e591eb45999900b", null ],
+    [ "JustSummoned", "df/dd7/a19610.html#a61e814ce0a861ba98ccc21d8d6df128a", null ],
+    [ "KilledUnit", "df/dd7/a19610.html#a1d5b013cdbaab702a85fc1d344ad6f6a", null ],
+    [ "Reset", "df/dd7/a19610.html#a311754fa1fa1b112272395179e3b1bff", null ],
+    [ "StartBalconyPhase", "df/dd7/a19610.html#ac890e5f4e6e9e40d78e75d2c86bd6740", null ],
+    [ "StartGroundPhase", "df/dd7/a19610.html#a3ae5f948e2faf051b1cb88cd638c612e", null ],
+    [ "SummonHelper", "df/dd7/a19610.html#abfe6252bec42fdc3d7738aef3dd2ec74", null ],
+    [ "UpdateAI", "df/dd7/a19610.html#a87f4e825fb8f9f48991d5dcf94af78e3", null ],
+    [ "timesInBalcony", "df/dd7/a19610.html#a249c96d4230bd2b43c4be733317c4bc4", null ]
 ];

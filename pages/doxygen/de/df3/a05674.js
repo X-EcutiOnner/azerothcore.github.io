@@ -1,12 +1,8 @@
 var a05674 =
 [
-    [ "Node", "d6/de4/a05678.html", "d6/de4/a05678" ],
-    [ "MPSCQueueNonIntrusive", "de/df3/a05674.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
-    [ "~MPSCQueueNonIntrusive", "de/df3/a05674.html#a599e2093215f70dc4f2f7db08965d816", null ],
-    [ "MPSCQueueNonIntrusive", "de/df3/a05674.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
-    [ "Dequeue", "de/df3/a05674.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
-    [ "Enqueue", "de/df3/a05674.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
-    [ "operator=", "de/df3/a05674.html#a75063e89049903fb5305d67ea1a02034", null ],
-    [ "_head", "de/df3/a05674.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
-    [ "_tail", "de/df3/a05674.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
+    [ "Decode", "de/df3/a05674.html#aba5ab7c59ce77414bca38bfcde32d1c0", null ],
+    [ "Encode", "de/df3/a05674.html#ad6cde2310ca52940df1bbf93deff6b91", null ],
+    [ "BITS_PER_CHAR", "de/df3/a05674.html#a5efb6c842ab7733dc26fd67f1a00ccdf", null ],
+    [ "DECODE_ERROR", "de/df3/a05674.html#a8fccf3d4b22e835fc4dca6b942771a2a", null ],
+    [ "PADDING", "de/df3/a05674.html#a2e5699431f24ca6b745294b935b99240", null ]
 ];

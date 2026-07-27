@@ -1,5 +1,7 @@
 var a27618 =
 [
-    [ "achievement_not_even_a_scratch", "d4/dec/a27618.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "d4/dec/a27618.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "HandleProc", "d4/dec/a27618.html#a4dbe9fedd6aabfd75f80c7ed6ab1d324", null ],
+    [ "PrepareAuraScript", "d4/dec/a27618.html#ae1ac0e47e529c729f04fb2e37ae4c1f9", null ],
+    [ "Register", "d4/dec/a27618.html#affb8d0a167e6f1bef1aaabd5eb99fe38", null ],
+    [ "Validate", "d4/dec/a27618.html#ae068298d60cdf9623748a8b6c77faabd", null ]
 ];

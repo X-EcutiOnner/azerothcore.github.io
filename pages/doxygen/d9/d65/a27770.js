@@ -1,5 +1,7 @@
 var a27770 =
 [
-    [ "go_ethereum_prison", "d9/d65/a27770.html#a1872dab11a8470194ab35f87e217aa8a", null ],
-    [ "OnGossipHello", "d9/d65/a27770.html#a73479b0512ea778336fad4bd5cd9b909", null ]
+    [ "HandleProc", "d9/d65/a27770.html#a864e976a61091512a7eab904e5390234", null ],
+    [ "PrepareAuraScript", "d9/d65/a27770.html#a8cd8814aa7c53aa28399b4ff51f0fa41", null ],
+    [ "Register", "d9/d65/a27770.html#a8509759360e3443ceca9a9fcbd729996", null ],
+    [ "Validate", "d9/d65/a27770.html#a7687471989fc9595e36201dba74b8689", null ]
 ];

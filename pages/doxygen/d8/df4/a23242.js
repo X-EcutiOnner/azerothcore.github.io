@@ -1,8 +1,9 @@
 var a23242 =
 [
-    [ "HandleDummyApply", "d8/df4/a23242.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "d8/df4/a23242.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "d8/df4/a23242.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "d8/df4/a23242.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "d8/df4/a23242.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "boss_morogrim_tidewalker", "d8/df4/a23242.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "d8/df4/a23242.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "d8/df4/a23242.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "d8/df4/a23242.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "d8/df4/a23242.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "d8/df4/a23242.html#a78ed1d1f8c55407497a4fb679587975d", null ]
 ];

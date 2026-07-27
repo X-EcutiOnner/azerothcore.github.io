@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Entities/Vehicle/VehicleDefines.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/AI/ScriptedAI/ScriptedGossip.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,320 +105,349 @@ $(document).ready(function(){initNavTree('d2/d29/a01376.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">VehicleDefines.h File Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">ScriptedGossip.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Map.h</a>&quot;</code><br />
-<code>#include &lt;map&gt;</code><br />
-<code>#include &lt;vector&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptedGossip.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dbc/a09180.html">PassengerInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d87/a09184.html">VehicleSeatAddon</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9f/a09188.html">VehicleSeat</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d94/a09192.html">VehicleAccessory</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d2c/a09196.html">TransportBase</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:af5d682a742080008bd21db9bba6e162f"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../d6/d94/a09192.html">VehicleAccessory</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d29/a01376.html#af5d682a742080008bd21db9bba6e162f">VehicleAccessoryList</a></td></tr>
-<tr class="separator:af5d682a742080008bd21db9bba6e162f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5b46179616c0e205a7c933e02f87160b"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d8/d7c/a04601.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d2/d29/a01376.html#af5d682a742080008bd21db9bba6e162f">VehicleAccessoryList</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d29/a01376.html#a5b46179616c0e205a7c933e02f87160b">VehicleAccessoryContainer</a></td></tr>
-<tr class="separator:a5b46179616c0e205a7c933e02f87160b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2dadb2596b27d20ebbc12696cb7b9a74"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d8/d7c/a04601.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a>, <a class="el" href="../../db/d9f/a09188.html">VehicleSeat</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d29/a01376.html#a2dadb2596b27d20ebbc12696cb7b9a74">SeatMap</a></td></tr>
-<tr class="separator:a2dadb2596b27d20ebbc12696cb7b9a74"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a0d0e3226055ad5266e487b58fd01cebd"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebd">PowerType</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f">POWER_STEAM</a> = 61
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9">POWER_PYRITE</a> = 41
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434">POWER_HEAT</a> = 101
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097">POWER_OOZE</a> = 121
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68">POWER_BLOOD</a> = 141
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1">POWER_WRATH</a> = 142
-<br />
- }</td></tr>
-<tr class="separator:a0d0e3226055ad5266e487b58fd01cebd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6f71ae83254cc7417ec04e6ac2a55f7a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7a">VehicleFlags</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b">VEHICLE_FLAG_NO_STRAFE</a> = 0x00000001
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f">VEHICLE_FLAG_NO_JUMPING</a> = 0x00000002
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1">VEHICLE_FLAG_FULLSPEEDTURNING</a> = 0x00000004
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f">VEHICLE_FLAG_ALLOW_PITCHING</a> = 0x00000010
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5">VEHICLE_FLAG_FULLSPEEDPITCHING</a> = 0x00000020
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22">VEHICLE_FLAG_CUSTOM_PITCH</a> = 0x00000040
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103">VEHICLE_FLAG_ADJUST_AIM_ANGLE</a> = 0x00000400
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5">VEHICLE_FLAG_ADJUST_AIM_POWER</a> = 0x00000800
-<br />
- }</td></tr>
-<tr class="separator:a6f71ae83254cc7417ec04e6ac2a55f7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5829b6d4bd25b5c2a56495142fa8ca54"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d29/a01376.html#a5829b6d4bd25b5c2a56495142fa8ca54">VehicleSpells</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119">VEHICLE_SPELL_RIDE_HARDCODED</a> = 46598
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae">VEHICLE_SPELL_PARACHUTE</a> = 45472
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe">VEHICLE_SPELL_GEIST_CONTROL_END</a> = 58119
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b">VEHICLE_SPELL_SHADE_CONTROL_END</a> = 58664
-<br />
- }</td></tr>
-<tr class="separator:a5829b6d4bd25b5c2a56495142fa8ca54"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7f17d71c7e2664769a8e8a8b40cb5116"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d29/a01376.html#a7f17d71c7e2664769a8e8a8b40cb5116">VehicleExitParameters</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb">VehicleExitParamNone</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427">VehicleExitParamOffset</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d">VehicleExitParamDest</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0">VehicleExitParamMax</a>
-<br />
- }</td></tr>
-<tr class="separator:a7f17d71c7e2664769a8e8a8b40cb5116"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aecacfdf074f78c4655fc7b038cce5c06"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d29/a01376.html#aecacfdf074f78c4655fc7b038cce5c06">VehicleNPCs</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8">NPC_EIDOLON_WATCHER</a> = 31110
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d29/a01376.html#aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612">NPC_LITHE_STALKER</a> = 30895
-<br />
- }</td></tr>
-<tr class="separator:aecacfdf074f78c4655fc7b038cce5c06"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:af077a82741577a63a075c7d40b3b3dc5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d29/a01376.html#af077a82741577a63a075c7d40b3b3dc5">ClearGossipMenuFor</a> (<a class="el" href="../../d0/d0b/a09026.html">Player</a> *player)</td></tr>
+<tr class="separator:af077a82741577a63a075c7d40b3b3dc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1d54254ae4ddb1bb0e9e2c74dffe5bf5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d29/a01376.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5">AddGossipItemFor</a> (<a class="el" href="../../d0/d0b/a09026.html">Player</a> *player, <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> icon, std::string const &amp;text, <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> sender, <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> action)</td></tr>
+<tr class="separator:a1d54254ae4ddb1bb0e9e2c74dffe5bf5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd7e8e52a911742a99728cf9408e23b8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d29/a01376.html#acd7e8e52a911742a99728cf9408e23b8">AddGossipItemFor</a> (<a class="el" href="../../d0/d0b/a09026.html">Player</a> *player, <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> icon, std::string const &amp;text, <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> sender, <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> action, std::string const &amp;popupText, <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> popupMoney, bool coded)</td></tr>
+<tr class="separator:acd7e8e52a911742a99728cf9408e23b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a21e32e886a589c9093660b3c4c58f72c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d29/a01376.html#a21e32e886a589c9093660b3c4c58f72c">AddGossipItemFor</a> (<a class="el" href="../../d0/d0b/a09026.html">Player</a> *player, <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> gossipMenuID, <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> gossipMenuItemID, <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> sender, <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> action, <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> boxMoney)</td></tr>
+<tr class="separator:a21e32e886a589c9093660b3c4c58f72c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab43ecd551b53630add88fbf882236f78"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d29/a01376.html#ab43ecd551b53630add88fbf882236f78">SendGossipMenuFor</a> (<a class="el" href="../../d0/d0b/a09026.html">Player</a> *player, <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> npcTextID, <a class="el" href="../../d4/d6d/a08826.html">ObjectGuid</a> const &amp;guid)</td></tr>
+<tr class="separator:ab43ecd551b53630add88fbf882236f78"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad893abf2b09592b57715ef4a3222a2b3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d29/a01376.html#ad893abf2b09592b57715ef4a3222a2b3">SendGossipMenuFor</a> (<a class="el" href="../../d0/d0b/a09026.html">Player</a> *player, <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> npcTextID, <a class="el" href="../../d9/d86/a08398.html">Creature</a> const *creature)</td></tr>
+<tr class="separator:ad893abf2b09592b57715ef4a3222a2b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af8f7e54dac5ecc86e92d780c3918cb09"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d29/a01376.html#af8f7e54dac5ecc86e92d780c3918cb09">CloseGossipMenuFor</a> (<a class="el" href="../../d0/d0b/a09026.html">Player</a> *player)</td></tr>
+<tr class="separator:af8f7e54dac5ecc86e92d780c3918cb09"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="a2dadb2596b27d20ebbc12696cb7b9a74" name="a2dadb2596b27d20ebbc12696cb7b9a74"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2dadb2596b27d20ebbc12696cb7b9a74">&#9670;&#160;</a></span>SeatMap</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a21e32e886a589c9093660b3c4c58f72c" name="a21e32e886a589c9093660b3c4c58f72c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a21e32e886a589c9093660b3c4c58f72c">&#9670;&#160;</a></span>AddGossipItemFor() <span class="overload">[1/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::map&lt;<a class="el" href="../../d8/d7c/a04601.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a>, <a class="el" href="../../db/d9f/a09188.html">VehicleSeat</a>&gt; <a class="el" href="../../d2/d29/a01376.html#a2dadb2596b27d20ebbc12696cb7b9a74">SeatMap</a></td>
+          <td class="memname">void AddGossipItemFor </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d0b/a09026.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>gossipMenuID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>gossipMenuItemID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>sender</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>action</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>boxMoney</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   41</span>{</div>
+<div class="line"><span class="lineno">   42</span>    player-&gt;<a class="code hl_variable" href="../../d0/d0b/a09026.html#af9651858db4302e3dff8ec5bff131f72">PlayerTalkClass</a>-&gt;<a class="code hl_function" href="../../d1/d3b/a08510.html#acc519746fa45290cde3967dc5f604158">GetGossipMenu</a>().<a class="code hl_function" href="../../de/df3/a08502.html#a47c99098962324ba20efb029df24fd3e">AddMenuItem</a>(gossipMenuID, gossipMenuItemID, sender, action, boxMoney);</div>
+<div class="line"><span class="lineno">   43</span>}</div>
+<div class="ttc" id="aa08502_html_a47c99098962324ba20efb029df24fd3e"><div class="ttname"><a href="../../de/df3/a08502.html#a47c99098962324ba20efb029df24fd3e">GossipMenu::AddMenuItem</a></div><div class="ttdeci">void AddMenuItem(int32 menuItemId, uint8 icon, std::string const &amp;message, uint32 sender, uint32 action, std::string const &amp;boxMessage, uint32 boxMoney, bool coded=false)</div><div class="ttdef"><b>Definition:</b> GossipDef.cpp:41</div></div>
+<div class="ttc" id="aa08510_html_acc519746fa45290cde3967dc5f604158"><div class="ttname"><a href="../../d1/d3b/a08510.html#acc519746fa45290cde3967dc5f604158">PlayerMenu::GetGossipMenu</a></div><div class="ttdeci">GossipMenu &amp; GetGossipMenu()</div><div class="ttdef"><b>Definition:</b> GossipDef.h:264</div></div>
+<div class="ttc" id="aa09026_html_af9651858db4302e3dff8ec5bff131f72"><div class="ttname"><a href="../../d0/d0b/a09026.html#af9651858db4302e3dff8ec5bff131f72">Player::PlayerTalkClass</a></div><div class="ttdeci">PlayerMenu * PlayerTalkClass</div><div class="ttdef"><b>Definition:</b> Player.h:2284</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00041">GossipMenu::AddMenuItem()</a>, <a class="el" href="../../#l00264">PlayerMenu::GetGossipMenu()</a>, and <a class="el" href="../../#l02284">Player::PlayerTalkClass</a>.</p>
 
 </div>
 </div>
-<a id="a5b46179616c0e205a7c933e02f87160b" name="a5b46179616c0e205a7c933e02f87160b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5b46179616c0e205a7c933e02f87160b">&#9670;&#160;</a></span>VehicleAccessoryContainer</h2>
+<a id="a1d54254ae4ddb1bb0e9e2c74dffe5bf5" name="a1d54254ae4ddb1bb0e9e2c74dffe5bf5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1d54254ae4ddb1bb0e9e2c74dffe5bf5">&#9670;&#160;</a></span>AddGossipItemFor() <span class="overload">[2/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::map&lt;<a class="el" href="../../d8/d7c/a04601.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d2/d29/a01376.html#af5d682a742080008bd21db9bba6e162f">VehicleAccessoryList</a>&gt; <a class="el" href="../../d2/d29/a01376.html#a5b46179616c0e205a7c933e02f87160b">VehicleAccessoryContainer</a></td>
+          <td class="memname">void AddGossipItemFor </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d0b/a09026.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="af5d682a742080008bd21db9bba6e162f" name="af5d682a742080008bd21db9bba6e162f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af5d682a742080008bd21db9bba6e162f">&#9670;&#160;</a></span>VehicleAccessoryList</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">typedef std::vector&lt;<a class="el" href="../../d6/d94/a09192.html">VehicleAccessory</a>&gt; <a class="el" href="../../d2/d29/a01376.html#af5d682a742080008bd21db9bba6e162f">VehicleAccessoryList</a></td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>icon</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a0d0e3226055ad5266e487b58fd01cebd" name="a0d0e3226055ad5266e487b58fd01cebd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0d0e3226055ad5266e487b58fd01cebd">&#9670;&#160;</a></span>PowerType</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebd">PowerType</a></td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>text</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>sender</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>action</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f" name="a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f"></a>POWER_STEAM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9" name="a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9"></a>POWER_PYRITE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434" name="a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434"></a>POWER_HEAT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097" name="a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097"></a>POWER_OOZE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68" name="a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68"></a>POWER_BLOOD&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1" name="a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1"></a>POWER_WRATH&#160;</td><td class="fielddoc"></td></tr>
-</table>
 <div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f">POWER_STEAM</a>                                  = 61,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9">POWER_PYRITE</a>                                 = 41,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434">POWER_HEAT</a>                                   = 101,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097">POWER_OOZE</a>                                   = 121,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68">POWER_BLOOD</a>                                  = 141,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1">POWER_WRATH</a>                                  = 142</div>
-<div class="line"><span class="lineno">   36</span>};</div>
-<div class="ttc" id="aa01376_html_a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f"><div class="ttname"><a href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f">POWER_STEAM</a></div><div class="ttdeci">@ POWER_STEAM</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:30</div></div>
-<div class="ttc" id="aa01376_html_a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68"><div class="ttname"><a href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68">POWER_BLOOD</a></div><div class="ttdeci">@ POWER_BLOOD</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:34</div></div>
-<div class="ttc" id="aa01376_html_a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9"><div class="ttname"><a href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9">POWER_PYRITE</a></div><div class="ttdeci">@ POWER_PYRITE</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:31</div></div>
-<div class="ttc" id="aa01376_html_a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434"><div class="ttname"><a href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434">POWER_HEAT</a></div><div class="ttdeci">@ POWER_HEAT</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:32</div></div>
-<div class="ttc" id="aa01376_html_a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1"><div class="ttname"><a href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1">POWER_WRATH</a></div><div class="ttdeci">@ POWER_WRATH</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:35</div></div>
-<div class="ttc" id="aa01376_html_a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097"><div class="ttname"><a href="../../d2/d29/a01376.html#a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097">POWER_OOZE</a></div><div class="ttdeci">@ POWER_OOZE</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:33</div></div>
+<div class="line"><span class="lineno">   30</span>    player-&gt;<a class="code hl_variable" href="../../d0/d0b/a09026.html#af9651858db4302e3dff8ec5bff131f72">PlayerTalkClass</a>-&gt;<a class="code hl_function" href="../../d1/d3b/a08510.html#acc519746fa45290cde3967dc5f604158">GetGossipMenu</a>().<a class="code hl_function" href="../../de/df3/a08502.html#a47c99098962324ba20efb029df24fd3e">AddMenuItem</a>(-1, icon, text, sender, action, <span class="stringliteral">&quot;&quot;</span>, 0);</div>
+<div class="line"><span class="lineno">   31</span>}</div>
 </div><!-- fragment -->
-</div>
-</div>
-<a id="a7f17d71c7e2664769a8e8a8b40cb5116" name="a7f17d71c7e2664769a8e8a8b40cb5116"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7f17d71c7e2664769a8e8a8b40cb5116">&#9670;&#160;</a></span>VehicleExitParameters</h2>
+<p class="reference">References <a class="el" href="../../#l00041">GossipMenu::AddMenuItem()</a>, <a class="el" href="../../#l00264">PlayerMenu::GetGossipMenu()</a>, and <a class="el" href="../../#l02284">Player::PlayerTalkClass</a>.</p>
 
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum class <a class="el" href="../../d2/d29/a01376.html#a7f17d71c7e2664769a8e8a8b40cb5116">VehicleExitParameters</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb" name="a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb"></a>VehicleExitParamNone&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427" name="a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427"></a>VehicleExitParamOffset&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d" name="a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d"></a>VehicleExitParamDest&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0" name="a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0"></a>VehicleExitParamMax&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   60</span>{</div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb">VehicleExitParamNone</a>    = 0, <span class="comment">// provided parameters will be ignored</span></div>
-<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427">VehicleExitParamOffset</a>  = 1, <span class="comment">// provided parameters will be used as offset values</span></div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d">VehicleExitParamDest</a>    = 2, <span class="comment">// provided parameters will be used as absolute destination</span></div>
-<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0">VehicleExitParamMax</a></div>
-<div class="line"><span class="lineno">   65</span>};</div>
-<div class="ttc" id="aa01376_html_a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0"><div class="ttname"><a href="../../d2/d29/a01376.html#a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0">VehicleExitParameters::VehicleExitParamMax</a></div><div class="ttdeci">@ VehicleExitParamMax</div></div>
-<div class="ttc" id="aa01376_html_a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d"><div class="ttname"><a href="../../d2/d29/a01376.html#a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d">VehicleExitParameters::VehicleExitParamDest</a></div><div class="ttdeci">@ VehicleExitParamDest</div></div>
-<div class="ttc" id="aa01376_html_a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427"><div class="ttname"><a href="../../d2/d29/a01376.html#a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427">VehicleExitParameters::VehicleExitParamOffset</a></div><div class="ttdeci">@ VehicleExitParamOffset</div></div>
-<div class="ttc" id="aa01376_html_a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb"><div class="ttname"><a href="../../d2/d29/a01376.html#a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb">VehicleExitParameters::VehicleExitParamNone</a></div><div class="ttdeci">@ VehicleExitParamNone</div></div>
-</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00272">npc_pet_gen_argent_pony_bridle::OnGossipHello()</a>, <a class="el" href="../../#l00725">npc_grandmother::OnGossipHello()</a>, <a class="el" href="../../#l00331">npc_barnes::OnGossipHello()</a>, <a class="el" href="../../#l00882">npc_varian_wrynn::OnGossipHello()</a>, <a class="el" href="../../#l02202">npc_thrall_bfu::OnGossipHello()</a>, <a class="el" href="../../#l00283">npc_zulaman_hostage::OnGossipHello()</a>, <a class="el" href="../../#l00349">npc_arthas::OnGossipHello()</a>, <a class="el" href="../../#l00069">npcs_riverbreeze_and_silversky::OnGossipHello()</a>, <a class="el" href="../../#l00064">npc_bunthen_plainswind::OnGossipHello()</a>, <a class="el" href="../../#l00136">npc_silva_filnaveth::OnGossipHello()</a>, <a class="el" href="../../#l00233">npc_plucky::OnGossipHello()</a>, <a class="el" href="../../#l00047">npc_announcer_toc5::OnGossipHello()</a>, <a class="el" href="../../#l00037">npc_announcer_toc10::OnGossipHello()</a>, <a class="el" href="../../#l00189">npc_fos_leader::OnGossipHello()</a>, <a class="el" href="../../#l00140">npc_hor_leader::OnGossipHello()</a>, <a class="el" href="../../#l00748">npc_high_overlord_saurfang_icc::OnGossipHello()</a>, <a class="el" href="../../#l00962">npc_muradin_bronzebeard_icc::OnGossipHello()</a>, <a class="el" href="../../#l00166">npc_oculus_drakegiver::OnGossipHello()</a>, <a class="el" href="../../#l00147">brann_bronzebeard::OnGossipHello()</a>, <a class="el" href="../../#l00163">npc_ulduar_keeper::OnGossipHello()</a>, <a class="el" href="../../#l00238">npc_shandy_dalaran::OnGossipHello()</a>, <a class="el" href="../../#l00253">npc_mcmanus::OnGossipHello()</a>, <a class="el" href="../../#l00352">npc_vekjik::OnGossipHello()</a>, <a class="el" href="../../#l00814">npc_adventurous_dwarf::OnGossipHello()</a>, <a class="el" href="../../#l00135">npc_wg_demolisher_engineer::OnGossipHello()</a>, <a class="el" href="../../#l00216">npc_wg_spirit_guide::OnGossipHello()</a>, <a class="el" href="../../#l00296">npc_wg_queue::OnGossipHello()</a>, <a class="el" href="../../#l00415">npc_wg_quest_giver::OnGossipHello()</a>, <a class="el" href="../../#l00186">npc_finklestein::OnGossipHello()</a>, <a class="el" href="../../#l00268">npc_captain_saeed::OnGossipHello()</a>, <a class="el" href="../../#l00036">npc_innkeeper::OnGossipHello()</a>, <a class="el" href="../../#l00466">npc_prof_alchemy::OnGossipHello()</a>, <a class="el" href="../../#l00631">npc_prof_blacksmith::OnGossipHello()</a>, <a class="el" href="../../#l00850">npc_prof_leather::OnGossipHello()</a>, <a class="el" href="../../#l00950">npc_prof_tailor::OnGossipHello()</a>, <a class="el" href="../../#l00438">npc_artorius::OnGossipHello()</a>, <a class="el" href="../../#l00847">npc_simone::OnGossipHello()</a>, <a class="el" href="../../#l01056">npc_nelson::OnGossipHello()</a>, <a class="el" href="../../#l01231">npc_franklin::OnGossipHello()</a>, <a class="el" href="../../#l00075">npc_taxi::OnGossipHello()</a>, <a class="el" href="../../#l01507">npc_sayge::OnGossipHello()</a>, <a class="el" href="../../#l01705">npc_wormhole::OnGossipHello()</a>, <a class="el" href="../../#l01866">npc_locksmith::OnGossipHello()</a>, <a class="el" href="../../#l01971">npc_experience::OnGossipHello()</a>, <a class="el" href="../../#l01120">go_evil_book_for_dummies::OnGossipHello()</a>, <a class="el" href="../../#l00044">icecrown_citadel_teleport::OnGossipHello()</a>, <a class="el" href="../../#l00525">go_skull_pile::OnGossipHello()</a>, <a class="el" href="../../#l00603">go_ancient_skull_pile::OnGossipHello()</a>, <a class="el" href="../../#l01116">go_fel_crystalforge::OnGossipHello()</a>, <a class="el" href="../../#l01175">go_bashir_crystalforge::OnGossipHello()</a>, <a class="el" href="../../#l01563">go_amberpine_outhouse::OnGossipHello()</a>, <a class="el" href="../../#l00701">npc_grandmother::OnGossipSelect()</a>, <a class="el" href="../../#l00299">npc_barnes::OnGossipSelect()</a>, <a class="el" href="../../#l00304">npc_arthas::OnGossipSelect()</a>, <a class="el" href="../../#l00192">npc_ulduar_keeper::OnGossipSelect()</a>, <a class="el" href="../../#l00368">npc_vekjik::OnGossipSelect()</a>, <a class="el" href="../../#l00901">npc_prof_leather::OnGossipSelect()</a>, <a class="el" href="../../#l00237">npc_oculus_drakegiver::OnGossipSelect()</a>, <a class="el" href="../../#l01129">go_fel_crystalforge::OnGossipSelect()</a>, <a class="el" href="../../#l01188">go_bashir_crystalforge::OnGossipSelect()</a>, <a class="el" href="../../#l01532">npc_sayge::SendAction()</a>, <a class="el" href="../../#l00542">npc_prof_alchemy::SendConfirmLearn()</a>, <a class="el" href="../../#l00752">npc_prof_blacksmith::SendConfirmLearn()</a>, <a class="el" href="../../#l01035">npc_prof_tailor::SendConfirmLearn()</a>, <a class="el" href="../../#l01193">go_evil_book_for_dummies::SendConfirmLearn()</a>, <a class="el" href="../../#l00567">npc_prof_alchemy::SendConfirmUnlearn()</a>, <a class="el" href="../../#l00777">npc_prof_blacksmith::SendConfirmUnlearn()</a>, <a class="el" href="../../#l01060">npc_prof_tailor::SendConfirmUnlearn()</a>, <a class="el" href="../../#l01210">go_evil_book_for_dummies::SendConfirmUnlearn()</a>, <a class="el" href="../../#l01349">npc_echo_of_medivh::sGossipHello()</a>, <a class="el" href="../../#l01946">npc_chesspiece::sGossipHello()</a>, <a class="el" href="../../#l01855">npc_highlord_darion_mograine::sGossipHello()</a>, <a class="el" href="../../#l00269">npc_sergeant_bly::npc_sergeant_blyAI::sGossipHello()</a>, and <a class="el" href="../../#l00553">npc_weegli_blastfuse::npc_weegli_blastfuseAI::sGossipHello()</a>.</p>
+
 </div>
 </div>
-<a id="a6f71ae83254cc7417ec04e6ac2a55f7a" name="a6f71ae83254cc7417ec04e6ac2a55f7a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6f71ae83254cc7417ec04e6ac2a55f7a">&#9670;&#160;</a></span>VehicleFlags</h2>
+<a id="acd7e8e52a911742a99728cf9408e23b8" name="acd7e8e52a911742a99728cf9408e23b8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acd7e8e52a911742a99728cf9408e23b8">&#9670;&#160;</a></span>AddGossipItemFor() <span class="overload">[3/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7a">VehicleFlags</a></td>
+          <td class="memname">void AddGossipItemFor </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d0b/a09026.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>icon</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>text</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>sender</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>action</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>popupText</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>popupMoney</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>coded</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b" name="a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b"></a>VEHICLE_FLAG_NO_STRAFE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f" name="a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f"></a>VEHICLE_FLAG_NO_JUMPING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1" name="a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1"></a>VEHICLE_FLAG_FULLSPEEDTURNING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f" name="a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f"></a>VEHICLE_FLAG_ALLOW_PITCHING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5" name="a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5"></a>VEHICLE_FLAG_FULLSPEEDPITCHING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22" name="a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22"></a>VEHICLE_FLAG_CUSTOM_PITCH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103" name="a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103"></a>VEHICLE_FLAG_ADJUST_AIM_ANGLE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5" name="a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5"></a>VEHICLE_FLAG_ADJUST_AIM_POWER&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   39</span>{</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b">VEHICLE_FLAG_NO_STRAFE</a>                       = 0x00000001,           <span class="comment">// Sets MOVEFLAG2_NO_STRAFE</span></div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f">VEHICLE_FLAG_NO_JUMPING</a>                      = 0x00000002,           <span class="comment">// Sets MOVEFLAG2_NO_JUMPING</span></div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1">VEHICLE_FLAG_FULLSPEEDTURNING</a>                = 0x00000004,           <span class="comment">// Sets MOVEFLAG2_FULLSPEEDTURNING</span></div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f">VEHICLE_FLAG_ALLOW_PITCHING</a>                  = 0x00000010,           <span class="comment">// Sets MOVEFLAG2_ALLOW_PITCHING</span></div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5">VEHICLE_FLAG_FULLSPEEDPITCHING</a>               = 0x00000020,           <span class="comment">// Sets MOVEFLAG2_FULLSPEEDPITCHING</span></div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22">VEHICLE_FLAG_CUSTOM_PITCH</a>                    = 0x00000040,           <span class="comment">// If set use pitchMin and pitchMax from DBC, otherwise pitchMin = -pi/2, pitchMax = pi/2</span></div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103">VEHICLE_FLAG_ADJUST_AIM_ANGLE</a>                = 0x00000400,           <span class="comment">// Lua_IsVehicleAimAngleAdjustable</span></div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5">VEHICLE_FLAG_ADJUST_AIM_POWER</a>                = 0x00000800,           <span class="comment">// Lua_IsVehicleAimPowerAdjustable</span></div>
-<div class="line"><span class="lineno">   48</span>};</div>
-<div class="ttc" id="aa01376_html_a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f"><div class="ttname"><a href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f">VEHICLE_FLAG_NO_JUMPING</a></div><div class="ttdeci">@ VEHICLE_FLAG_NO_JUMPING</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:41</div></div>
-<div class="ttc" id="aa01376_html_a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103"><div class="ttname"><a href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103">VEHICLE_FLAG_ADJUST_AIM_ANGLE</a></div><div class="ttdeci">@ VEHICLE_FLAG_ADJUST_AIM_ANGLE</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:46</div></div>
-<div class="ttc" id="aa01376_html_a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b"><div class="ttname"><a href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b">VEHICLE_FLAG_NO_STRAFE</a></div><div class="ttdeci">@ VEHICLE_FLAG_NO_STRAFE</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:40</div></div>
-<div class="ttc" id="aa01376_html_a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1"><div class="ttname"><a href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1">VEHICLE_FLAG_FULLSPEEDTURNING</a></div><div class="ttdeci">@ VEHICLE_FLAG_FULLSPEEDTURNING</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:42</div></div>
-<div class="ttc" id="aa01376_html_a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f"><div class="ttname"><a href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f">VEHICLE_FLAG_ALLOW_PITCHING</a></div><div class="ttdeci">@ VEHICLE_FLAG_ALLOW_PITCHING</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:43</div></div>
-<div class="ttc" id="aa01376_html_a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22"><div class="ttname"><a href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22">VEHICLE_FLAG_CUSTOM_PITCH</a></div><div class="ttdeci">@ VEHICLE_FLAG_CUSTOM_PITCH</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:45</div></div>
-<div class="ttc" id="aa01376_html_a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5"><div class="ttname"><a href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5">VEHICLE_FLAG_ADJUST_AIM_POWER</a></div><div class="ttdeci">@ VEHICLE_FLAG_ADJUST_AIM_POWER</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:47</div></div>
-<div class="ttc" id="aa01376_html_a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5"><div class="ttname"><a href="../../d2/d29/a01376.html#a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5">VEHICLE_FLAG_FULLSPEEDPITCHING</a></div><div class="ttdeci">@ VEHICLE_FLAG_FULLSPEEDPITCHING</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:44</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   35</span>{</div>
+<div class="line"><span class="lineno">   36</span>    player-&gt;<a class="code hl_variable" href="../../d0/d0b/a09026.html#af9651858db4302e3dff8ec5bff131f72">PlayerTalkClass</a>-&gt;<a class="code hl_function" href="../../d1/d3b/a08510.html#acc519746fa45290cde3967dc5f604158">GetGossipMenu</a>().<a class="code hl_function" href="../../de/df3/a08502.html#a47c99098962324ba20efb029df24fd3e">AddMenuItem</a>(-1, icon, text, sender, action, popupText, popupMoney, coded);</div>
+<div class="line"><span class="lineno">   37</span>}</div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00041">GossipMenu::AddMenuItem()</a>, <a class="el" href="../../#l00264">PlayerMenu::GetGossipMenu()</a>, and <a class="el" href="../../#l02284">Player::PlayerTalkClass</a>.</p>
+
 </div>
 </div>
-<a id="aecacfdf074f78c4655fc7b038cce5c06" name="aecacfdf074f78c4655fc7b038cce5c06"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aecacfdf074f78c4655fc7b038cce5c06">&#9670;&#160;</a></span>VehicleNPCs</h2>
+<a id="af077a82741577a63a075c7d40b3b3dc5" name="af077a82741577a63a075c7d40b3b3dc5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af077a82741577a63a075c7d40b3b3dc5">&#9670;&#160;</a></span>ClearGossipMenuFor()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d29/a01376.html#aecacfdf074f78c4655fc7b038cce5c06">VehicleNPCs</a></td>
+          <td class="memname">void ClearGossipMenuFor </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d0b/a09026.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8" name="aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8"></a>NPC_EIDOLON_WATCHER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612" name="aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612"></a>NPC_LITHE_STALKER&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   68</span>{</div>
-<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8">NPC_EIDOLON_WATCHER</a>                         = 31110,</div>
-<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612">NPC_LITHE_STALKER</a>                           = 30895</div>
-<div class="line"><span class="lineno">   71</span>};</div>
-<div class="ttc" id="aa01376_html_aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8"><div class="ttname"><a href="../../d2/d29/a01376.html#aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8">NPC_EIDOLON_WATCHER</a></div><div class="ttdeci">@ NPC_EIDOLON_WATCHER</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:69</div></div>
-<div class="ttc" id="aa01376_html_aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612"><div class="ttname"><a href="../../d2/d29/a01376.html#aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612">NPC_LITHE_STALKER</a></div><div class="ttdeci">@ NPC_LITHE_STALKER</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:70</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   23</span>{</div>
+<div class="line"><span class="lineno">   24</span>    player-&gt;<a class="code hl_variable" href="../../d0/d0b/a09026.html#af9651858db4302e3dff8ec5bff131f72">PlayerTalkClass</a>-&gt;<a class="code hl_function" href="../../d1/d3b/a08510.html#a64e6ddbdb6e894f56578339efa62e752">ClearMenus</a>();</div>
+<div class="line"><span class="lineno">   25</span>}</div>
+<div class="ttc" id="aa08510_html_a64e6ddbdb6e894f56578339efa62e752"><div class="ttname"><a href="../../d1/d3b/a08510.html#a64e6ddbdb6e894f56578339efa62e752">PlayerMenu::ClearMenus</a></div><div class="ttdeci">void ClearMenus()</div><div class="ttdef"><b>Definition:</b> GossipDef.cpp:187</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00187">PlayerMenu::ClearMenus()</a>, and <a class="el" href="../../#l02284">Player::PlayerTalkClass</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00661">go_ahune_ice_stone::GossipSelect()</a>, <a class="el" href="../../#l01243">Creature::isCanInteractWithBattleMaster()</a>, <a class="el" href="../../#l00024">ScriptMgr::OnGossipHello()</a>, <a class="el" href="../../#l00850">npc_prof_leather::OnGossipHello()</a>, <a class="el" href="../../#l00220">npc_plucky::OnGossipSelect()</a>, <a class="el" href="../../#l00165">npc_taxi::OnGossipSelect()</a>, <a class="el" href="../../#l01911">npc_locksmith::OnGossipSelect()</a>, <a class="el" href="../../#l01988">npc_experience::OnGossipSelect()</a>, <a class="el" href="../../#l00592">npc_prof_alchemy::OnGossipSelect()</a>, <a class="el" href="../../#l00811">npc_prof_blacksmith::OnGossipSelect()</a>, <a class="el" href="../../#l01085">npc_prof_tailor::OnGossipSelect()</a>, <a class="el" href="../../#l01578">npc_sayge::OnGossipSelect()</a>, <a class="el" href="../../#l00701">npc_grandmother::OnGossipSelect()</a>, <a class="el" href="../../#l00299">npc_barnes::OnGossipSelect()</a>, <a class="el" href="../../#l00856">npc_varian_wrynn::OnGossipSelect()</a>, <a class="el" href="../../#l02172">npc_thrall_bfu::OnGossipSelect()</a>, <a class="el" href="../../#l00290">npc_zulaman_hostage::OnGossipSelect()</a>, <a class="el" href="../../#l00304">npc_arthas::OnGossipSelect()</a>, <a class="el" href="../../#l00058">npcs_riverbreeze_and_silversky::OnGossipSelect()</a>, <a class="el" href="../../#l00044">npc_bunthen_plainswind::OnGossipSelect()</a>, <a class="el" href="../../#l00116">npc_silva_filnaveth::OnGossipSelect()</a>, <a class="el" href="../../#l00760">npc_high_overlord_saurfang_icc::OnGossipSelect()</a>, <a class="el" href="../../#l00974">npc_muradin_bronzebeard_icc::OnGossipSelect()</a>, <a class="el" href="../../#l00192">npc_ulduar_keeper::OnGossipSelect()</a>, <a class="el" href="../../#l00368">npc_vekjik::OnGossipSelect()</a>, <a class="el" href="../../#l00832">npc_adventurous_dwarf::OnGossipSelect()</a>, <a class="el" href="../../#l00783">npc_wg_quest_giver::OnGossipSelect()</a>, <a class="el" href="../../#l00063">npc_innkeeper::OnGossipSelect()</a>, <a class="el" href="../../#l00901">npc_prof_leather::OnGossipSelect()</a>, <a class="el" href="../../#l01727">npc_wormhole::OnGossipSelect()</a>, <a class="el" href="../../#l00206">npc_fos_leader::OnGossipSelect()</a>, <a class="el" href="../../#l00171">npc_hor_leader::OnGossipSelect()</a>, <a class="el" href="../../#l00237">npc_oculus_drakegiver::OnGossipSelect()</a>, <a class="el" href="../../#l00251">npc_captain_saeed::OnGossipSelect()</a>, <a class="el" href="../../#l00232">npc_thrall_old_hillsbrad::OnGossipSelect()</a>, <a class="el" href="../../#l01746">npc_hor_leader_second::OnGossipSelect()</a>, <a class="el" href="../../#l00087">icecrown_citadel_teleport::OnGossipSelect()</a>, <a class="el" href="../../#l01577">go_amberpine_outhouse::OnGossipSelect()</a>, <a class="el" href="../../#l01227">go_evil_book_for_dummies::OnGossipSelect()</a>, <a class="el" href="../../#l00513">go_skull_pile::OnGossipSelect()</a>, <a class="el" href="../../#l00589">go_ancient_skull_pile::OnGossipSelect()</a>, <a class="el" href="../../#l01129">go_fel_crystalforge::OnGossipSelect()</a>, <a class="el" href="../../#l01188">go_bashir_crystalforge::OnGossipSelect()</a>, <a class="el" href="../../#l00024">ScriptMgr::OnQuestAccept()</a>, <a class="el" href="../../#l00115">ScriptMgr::OnQuestComplete()</a>, <a class="el" href="../../#l00126">ScriptMgr::OnQuestReward()</a>, <a class="el" href="../../#l00104">ScriptMgr::OnQuestSelect()</a>, <a class="el" href="../../#l01855">npc_highlord_darion_mograine::sGossipHello()</a>, <a class="el" href="../../#l00642">npc_alexstraza_the_lifebinder::sGossipSelect()</a>, <a class="el" href="../../#l01868">npc_highlord_darion_mograine::sGossipSelect()</a>, <a class="el" href="../../#l00256">npc_sergeant_bly::npc_sergeant_blyAI::sGossipSelect()</a>, and <a class="el" href="../../#l00540">npc_weegli_blastfuse::npc_weegli_blastfuseAI::sGossipSelect()</a>.</p>
+
 </div>
 </div>
-<a id="a5829b6d4bd25b5c2a56495142fa8ca54" name="a5829b6d4bd25b5c2a56495142fa8ca54"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5829b6d4bd25b5c2a56495142fa8ca54">&#9670;&#160;</a></span>VehicleSpells</h2>
+<a id="af8f7e54dac5ecc86e92d780c3918cb09" name="af8f7e54dac5ecc86e92d780c3918cb09"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af8f7e54dac5ecc86e92d780c3918cb09">&#9670;&#160;</a></span>CloseGossipMenuFor()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d29/a01376.html#a5829b6d4bd25b5c2a56495142fa8ca54">VehicleSpells</a></td>
+          <td class="memname">void CloseGossipMenuFor </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d0b/a09026.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119" name="a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119"></a>VEHICLE_SPELL_RIDE_HARDCODED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae" name="a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae"></a>VEHICLE_SPELL_PARACHUTE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe" name="a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe"></a>VEHICLE_SPELL_GEIST_CONTROL_END&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b" name="a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b"></a>VEHICLE_SPELL_SHADE_CONTROL_END&#160;</td><td class="fielddoc"></td></tr>
-</table>
+<div class="fragment"><div class="line"><span class="lineno">   57</span>{</div>
+<div class="line"><span class="lineno">   58</span>    player-&gt;<a class="code hl_variable" href="../../d0/d0b/a09026.html#af9651858db4302e3dff8ec5bff131f72">PlayerTalkClass</a>-&gt;<a class="code hl_function" href="../../d1/d3b/a08510.html#a1071f28b7138ecbd7e94d95175059ba1">SendCloseGossip</a>();</div>
+<div class="line"><span class="lineno">   59</span>}</div>
+<div class="ttc" id="aa08510_html_a1071f28b7138ecbd7e94d95175059ba1"><div class="ttname"><a href="../../d1/d3b/a08510.html#a1071f28b7138ecbd7e94d95175059ba1">PlayerMenu::SendCloseGossip</a></div><div class="ttdeci">void SendCloseGossip()</div><div class="ttdef"><b>Definition:</b> GossipDef.cpp:239</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l02284">Player::PlayerTalkClass</a>, and <a class="el" href="../../#l00239">PlayerMenu::SendCloseGossip()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01055">go_wind_stone::go_wind_stoneAI::GossipSelect()</a>, <a class="el" href="../../#l00661">go_ahune_ice_stone::GossipSelect()</a>, <a class="el" href="../../#l00574">npc_essence_of_twin::OnGossipHello()</a>, <a class="el" href="../../#l00220">npc_plucky::OnGossipSelect()</a>, <a class="el" href="../../#l00240">npc_wg_spirit_guide::OnGossipSelect()</a>, <a class="el" href="../../#l00165">npc_taxi::OnGossipSelect()</a>, <a class="el" href="../../#l01911">npc_locksmith::OnGossipSelect()</a>, <a class="el" href="../../#l00328">npc_wg_queue::OnGossipSelect()</a>, <a class="el" href="../../#l00298">npc_pet_gen_argent_pony_bridle::OnGossipSelect()</a>, <a class="el" href="../../#l00299">npc_barnes::OnGossipSelect()</a>, <a class="el" href="../../#l00856">npc_varian_wrynn::OnGossipSelect()</a>, <a class="el" href="../../#l02172">npc_thrall_bfu::OnGossipSelect()</a>, <a class="el" href="../../#l00290">npc_zulaman_hostage::OnGossipSelect()</a>, <a class="el" href="../../#l00304">npc_arthas::OnGossipSelect()</a>, <a class="el" href="../../#l00058">npcs_riverbreeze_and_silversky::OnGossipSelect()</a>, <a class="el" href="../../#l00044">npc_bunthen_plainswind::OnGossipSelect()</a>, <a class="el" href="../../#l00116">npc_silva_filnaveth::OnGossipSelect()</a>, <a class="el" href="../../#l00760">npc_high_overlord_saurfang_icc::OnGossipSelect()</a>, <a class="el" href="../../#l00974">npc_muradin_bronzebeard_icc::OnGossipSelect()</a>, <a class="el" href="../../#l00184">brann_bronzebeard::OnGossipSelect()</a>, <a class="el" href="../../#l00192">npc_ulduar_keeper::OnGossipSelect()</a>, <a class="el" href="../../#l00256">npc_shandy_dalaran::OnGossipSelect()</a>, <a class="el" href="../../#l00368">npc_vekjik::OnGossipSelect()</a>, <a class="el" href="../../#l00157">npc_wg_demolisher_engineer::OnGossipSelect()</a>, <a class="el" href="../../#l00063">npc_innkeeper::OnGossipSelect()</a>, <a class="el" href="../../#l01727">npc_wormhole::OnGossipSelect()</a>, <a class="el" href="../../#l00089">npc_announcer_toc5::OnGossipSelect()</a>, <a class="el" href="../../#l00073">npc_announcer_toc10::OnGossipSelect()</a>, <a class="el" href="../../#l00206">npc_fos_leader::OnGossipSelect()</a>, <a class="el" href="../../#l00171">npc_hor_leader::OnGossipSelect()</a>, <a class="el" href="../../#l00237">npc_oculus_drakegiver::OnGossipSelect()</a>, <a class="el" href="../../#l00268">npc_mcmanus::OnGossipSelect()</a>, <a class="el" href="../../#l00205">npc_finklestein::OnGossipSelect()</a>, <a class="el" href="../../#l00251">npc_captain_saeed::OnGossipSelect()</a>, <a class="el" href="../../#l00154">boss_azuregos::OnGossipSelect()</a>, <a class="el" href="../../#l00323">npc_hyjal_tyrande::OnGossipSelect()</a>, <a class="el" href="../../#l00232">npc_thrall_old_hillsbrad::OnGossipSelect()</a>, <a class="el" href="../../#l03873">npc_icc_buff_switcher::OnGossipSelect()</a>, <a class="el" href="../../#l00675">npc_tirions_gambit_tirion::OnGossipSelect()</a>, <a class="el" href="../../#l00430">npc_artorius::OnGossipSelect()</a>, <a class="el" href="../../#l00836">npc_simone::OnGossipSelect()</a>, <a class="el" href="../../#l01048">npc_nelson::OnGossipSelect()</a>, <a class="el" href="../../#l01220">npc_franklin::OnGossipSelect()</a>, <a class="el" href="../../#l00087">icecrown_citadel_teleport::OnGossipSelect()</a>, <a class="el" href="../../#l01577">go_amberpine_outhouse::OnGossipSelect()</a>, <a class="el" href="../../#l00513">go_skull_pile::OnGossipSelect()</a>, <a class="el" href="../../#l00589">go_ancient_skull_pile::OnGossipSelect()</a>, <a class="el" href="../../#l01477">go_pumpkin_shrine::OnGossipSelect()</a>, <a class="el" href="../../#l01037">go_apexis_relic::OnGossipSelect()</a>, <a class="el" href="../../#l00414">ProcessCastaction()</a>, <a class="el" href="../../#l00429">ProcessUnlearnAction()</a>, <a class="el" href="../../#l00045">boss_gloomrel::sGossipSelect()</a>, <a class="el" href="../../#l00093">boss_doomrel::sGossipSelect()</a>, <a class="el" href="../../#l00092">boss_apothecary_hummel::boss_apothecary_hummelAI::sGossipSelect()</a>, <a class="el" href="../../#l01536">npc_coren_direbrew::sGossipSelect()</a>, <a class="el" href="../../#l00503">boss_majordomo::sGossipSelect()</a>, <a class="el" href="../../#l00491">boss_victor_nefarius::sGossipSelect()</a>, <a class="el" href="../../#l00267">boss_vaelastrasz::sGossipSelect()</a>, <a class="el" href="../../#l00393">npc_harrison_jones::sGossipSelect()</a>, <a class="el" href="../../#l00121">npc_brewfest_keg_reciver::sGossipSelect()</a>, <a class="el" href="../../#l00642">npc_alexstraza_the_lifebinder::sGossipSelect()</a>, <a class="el" href="../../#l01369">npc_echo_of_medivh::sGossipSelect()</a>, <a class="el" href="../../#l01999">npc_chesspiece::sGossipSelect()</a>, <a class="el" href="../../#l01868">npc_highlord_darion_mograine::sGossipSelect()</a>, <a class="el" href="../../#l00550">npc_tharnarian::npc_tharnarianAI::sGossipSelect()</a>, <a class="el" href="../../#l00256">npc_sergeant_bly::npc_sergeant_blyAI::sGossipSelect()</a>, <a class="el" href="../../#l00540">npc_weegli_blastfuse::npc_weegli_blastfuseAI::sGossipSelect()</a>, <a class="el" href="../../#l01142">npc_hidden_cultist::npc_hidden_cultistAI::sGossipSelect()</a>, <a class="el" href="../../#l00182">npc_general_andorov::sGossipSelect()</a>, <a class="el" href="../../#l00539">npc_koltira_deathweaver::sGossipSelect()</a>, <a class="el" href="../../#l00693">npc_expedition_commander::sGossipSelect()</a>, <a class="el" href="../../#l00708">npc_crusade_recruit::npc_crusade_recruitAI::sGossipSelect()</a>, <a class="el" href="../../#l00779">npc_akama_illidan::sGossipSelect()</a>, <a class="el" href="../../#l00346">npc_akama_shade::sGossipSelect()</a>, and <a class="el" href="../../#l00762">npc_cultist_engineer::sGossipSelect()</a>.</p>
+
+</div>
+</div>
+<a id="ad893abf2b09592b57715ef4a3222a2b3" name="ad893abf2b09592b57715ef4a3222a2b3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad893abf2b09592b57715ef4a3222a2b3">&#9670;&#160;</a></span>SendGossipMenuFor() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void SendGossipMenuFor </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d0b/a09026.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>npcTextID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d86/a08398.html">Creature</a> const *&#160;</td>
+          <td class="paramname"><em>creature</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119">VEHICLE_SPELL_RIDE_HARDCODED</a>                 = 46598,</div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae">VEHICLE_SPELL_PARACHUTE</a>                      = 45472,</div>
-<div class="line"><span class="lineno">   54</span> </div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe">VEHICLE_SPELL_GEIST_CONTROL_END</a>              = 58119,</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b">VEHICLE_SPELL_SHADE_CONTROL_END</a>              = 58664</div>
-<div class="line"><span class="lineno">   57</span>};</div>
-<div class="ttc" id="aa01376_html_a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae"><div class="ttname"><a href="../../d2/d29/a01376.html#a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae">VEHICLE_SPELL_PARACHUTE</a></div><div class="ttdeci">@ VEHICLE_SPELL_PARACHUTE</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:53</div></div>
-<div class="ttc" id="aa01376_html_a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b"><div class="ttname"><a href="../../d2/d29/a01376.html#a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b">VEHICLE_SPELL_SHADE_CONTROL_END</a></div><div class="ttdeci">@ VEHICLE_SPELL_SHADE_CONTROL_END</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:56</div></div>
-<div class="ttc" id="aa01376_html_a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe"><div class="ttname"><a href="../../d2/d29/a01376.html#a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe">VEHICLE_SPELL_GEIST_CONTROL_END</a></div><div class="ttdeci">@ VEHICLE_SPELL_GEIST_CONTROL_END</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:55</div></div>
-<div class="ttc" id="aa01376_html_a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119"><div class="ttname"><a href="../../d2/d29/a01376.html#a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119">VEHICLE_SPELL_RIDE_HARDCODED</a></div><div class="ttdeci">@ VEHICLE_SPELL_RIDE_HARDCODED</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:52</div></div>
+<div class="line"><span class="lineno">   52</span>    <span class="keywordflow">if</span> (creature)</div>
+<div class="line"><span class="lineno">   53</span>        <a class="code hl_function" href="../../d2/d29/a01376.html#ab43ecd551b53630add88fbf882236f78">SendGossipMenuFor</a>(player, npcTextID, creature-&gt;GetGUID());</div>
+<div class="line"><span class="lineno">   54</span>}</div>
+<div class="ttc" id="aa01376_html_ab43ecd551b53630add88fbf882236f78"><div class="ttname"><a href="../../d2/d29/a01376.html#ab43ecd551b53630add88fbf882236f78">SendGossipMenuFor</a></div><div class="ttdeci">void SendGossipMenuFor(Player *player, uint32 npcTextID, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> ScriptedGossip.cpp:45</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00114">Object::GetGUID()</a>, and <a class="el" href="../../#l00045">SendGossipMenuFor()</a>.</p>
+
+</div>
+</div>
+<a id="ab43ecd551b53630add88fbf882236f78" name="ab43ecd551b53630add88fbf882236f78"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab43ecd551b53630add88fbf882236f78">&#9670;&#160;</a></span>SendGossipMenuFor() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void SendGossipMenuFor </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d0b/a09026.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>npcTextID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/d6d/a08826.html">ObjectGuid</a> const &amp;&#160;</td>
+          <td class="paramname"><em>guid</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   46</span>{</div>
+<div class="line"><span class="lineno">   47</span>    player-&gt;<a class="code hl_variable" href="../../d0/d0b/a09026.html#af9651858db4302e3dff8ec5bff131f72">PlayerTalkClass</a>-&gt;<a class="code hl_function" href="../../d1/d3b/a08510.html#a78a00a19e9e55fe5582dd70183b01e8b">SendGossipMenu</a>(npcTextID, guid);</div>
+<div class="line"><span class="lineno">   48</span>}</div>
+<div class="ttc" id="aa08510_html_a78a00a19e9e55fe5582dd70183b01e8b"><div class="ttname"><a href="../../d1/d3b/a08510.html#a78a00a19e9e55fe5582dd70183b01e8b">PlayerMenu::SendGossipMenu</a></div><div class="ttdeci">void SendGossipMenu(uint32 titleTextId, ObjectGuid objectGUID)</div><div class="ttdef"><b>Definition:</b> GossipDef.cpp:193</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l02284">Player::PlayerTalkClass</a>, and <a class="el" href="../../#l00193">PlayerMenu::SendGossipMenu()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01243">Creature::isCanInteractWithBattleMaster()</a>, <a class="el" href="../../#l00272">npc_pet_gen_argent_pony_bridle::OnGossipHello()</a>, <a class="el" href="../../#l00725">npc_grandmother::OnGossipHello()</a>, <a class="el" href="../../#l00331">npc_barnes::OnGossipHello()</a>, <a class="el" href="../../#l00882">npc_varian_wrynn::OnGossipHello()</a>, <a class="el" href="../../#l02202">npc_thrall_bfu::OnGossipHello()</a>, <a class="el" href="../../#l00283">npc_zulaman_hostage::OnGossipHello()</a>, <a class="el" href="../../#l00349">npc_arthas::OnGossipHello()</a>, <a class="el" href="../../#l00069">npcs_riverbreeze_and_silversky::OnGossipHello()</a>, <a class="el" href="../../#l00064">npc_bunthen_plainswind::OnGossipHello()</a>, <a class="el" href="../../#l00136">npc_silva_filnaveth::OnGossipHello()</a>, <a class="el" href="../../#l00233">npc_plucky::OnGossipHello()</a>, <a class="el" href="../../#l00047">npc_announcer_toc5::OnGossipHello()</a>, <a class="el" href="../../#l00037">npc_announcer_toc10::OnGossipHello()</a>, <a class="el" href="../../#l00189">npc_fos_leader::OnGossipHello()</a>, <a class="el" href="../../#l00140">npc_hor_leader::OnGossipHello()</a>, <a class="el" href="../../#l00748">npc_high_overlord_saurfang_icc::OnGossipHello()</a>, <a class="el" href="../../#l00962">npc_muradin_bronzebeard_icc::OnGossipHello()</a>, <a class="el" href="../../#l00166">npc_oculus_drakegiver::OnGossipHello()</a>, <a class="el" href="../../#l00147">brann_bronzebeard::OnGossipHello()</a>, <a class="el" href="../../#l00163">npc_ulduar_keeper::OnGossipHello()</a>, <a class="el" href="../../#l00238">npc_shandy_dalaran::OnGossipHello()</a>, <a class="el" href="../../#l00253">npc_mcmanus::OnGossipHello()</a>, <a class="el" href="../../#l00352">npc_vekjik::OnGossipHello()</a>, <a class="el" href="../../#l00814">npc_adventurous_dwarf::OnGossipHello()</a>, <a class="el" href="../../#l00135">npc_wg_demolisher_engineer::OnGossipHello()</a>, <a class="el" href="../../#l00216">npc_wg_spirit_guide::OnGossipHello()</a>, <a class="el" href="../../#l00296">npc_wg_queue::OnGossipHello()</a>, <a class="el" href="../../#l00415">npc_wg_quest_giver::OnGossipHello()</a>, <a class="el" href="../../#l00186">npc_finklestein::OnGossipHello()</a>, <a class="el" href="../../#l00268">npc_captain_saeed::OnGossipHello()</a>, <a class="el" href="../../#l00036">npc_innkeeper::OnGossipHello()</a>, <a class="el" href="../../#l00466">npc_prof_alchemy::OnGossipHello()</a>, <a class="el" href="../../#l00631">npc_prof_blacksmith::OnGossipHello()</a>, <a class="el" href="../../#l00850">npc_prof_leather::OnGossipHello()</a>, <a class="el" href="../../#l00950">npc_prof_tailor::OnGossipHello()</a>, <a class="el" href="../../#l00438">npc_artorius::OnGossipHello()</a>, <a class="el" href="../../#l00847">npc_simone::OnGossipHello()</a>, <a class="el" href="../../#l01056">npc_nelson::OnGossipHello()</a>, <a class="el" href="../../#l01231">npc_franklin::OnGossipHello()</a>, <a class="el" href="../../#l00075">npc_taxi::OnGossipHello()</a>, <a class="el" href="../../#l00273">npc_riggle_bassbait::OnGossipHello()</a>, <a class="el" href="../../#l01507">npc_sayge::OnGossipHello()</a>, <a class="el" href="../../#l01705">npc_wormhole::OnGossipHello()</a>, <a class="el" href="../../#l01866">npc_locksmith::OnGossipHello()</a>, <a class="el" href="../../#l01971">npc_experience::OnGossipHello()</a>, <a class="el" href="../../#l01120">go_evil_book_for_dummies::OnGossipHello()</a>, <a class="el" href="../../#l00044">icecrown_citadel_teleport::OnGossipHello()</a>, <a class="el" href="../../#l00525">go_skull_pile::OnGossipHello()</a>, <a class="el" href="../../#l00603">go_ancient_skull_pile::OnGossipHello()</a>, <a class="el" href="../../#l01116">go_fel_crystalforge::OnGossipHello()</a>, <a class="el" href="../../#l01175">go_bashir_crystalforge::OnGossipHello()</a>, <a class="el" href="../../#l01340">go_table_theka::OnGossipHello()</a>, <a class="el" href="../../#l01563">go_amberpine_outhouse::OnGossipHello()</a>, <a class="el" href="../../#l00701">npc_grandmother::OnGossipSelect()</a>, <a class="el" href="../../#l00299">npc_barnes::OnGossipSelect()</a>, <a class="el" href="../../#l00304">npc_arthas::OnGossipSelect()</a>, <a class="el" href="../../#l00044">npc_bunthen_plainswind::OnGossipSelect()</a>, <a class="el" href="../../#l00116">npc_silva_filnaveth::OnGossipSelect()</a>, <a class="el" href="../../#l00192">npc_ulduar_keeper::OnGossipSelect()</a>, <a class="el" href="../../#l00368">npc_vekjik::OnGossipSelect()</a>, <a class="el" href="../../#l00901">npc_prof_leather::OnGossipSelect()</a>, <a class="el" href="../../#l00237">npc_oculus_drakegiver::OnGossipSelect()</a>, <a class="el" href="../../#l01129">go_fel_crystalforge::OnGossipSelect()</a>, <a class="el" href="../../#l01188">go_bashir_crystalforge::OnGossipSelect()</a>, <a class="el" href="../../#l01532">npc_sayge::SendAction()</a>, <a class="el" href="../../#l00702">npc_prof_blacksmith::SendActionMenu()</a>, <a class="el" href="../../#l00542">npc_prof_alchemy::SendConfirmLearn()</a>, <a class="el" href="../../#l00752">npc_prof_blacksmith::SendConfirmLearn()</a>, <a class="el" href="../../#l01035">npc_prof_tailor::SendConfirmLearn()</a>, <a class="el" href="../../#l01193">go_evil_book_for_dummies::SendConfirmLearn()</a>, <a class="el" href="../../#l00567">npc_prof_alchemy::SendConfirmUnlearn()</a>, <a class="el" href="../../#l00777">npc_prof_blacksmith::SendConfirmUnlearn()</a>, <a class="el" href="../../#l01060">npc_prof_tailor::SendConfirmUnlearn()</a>, <a class="el" href="../../#l01210">go_evil_book_for_dummies::SendConfirmUnlearn()</a>, <a class="el" href="../../#l00050">SendGossipMenuFor()</a>, <a class="el" href="../../#l01349">npc_echo_of_medivh::sGossipHello()</a>, <a class="el" href="../../#l01946">npc_chesspiece::sGossipHello()</a>, <a class="el" href="../../#l01855">npc_highlord_darion_mograine::sGossipHello()</a>, <a class="el" href="../../#l00476">npc_aged_dying_ancient_kodo::sGossipHello()</a>, <a class="el" href="../../#l00269">npc_sergeant_bly::npc_sergeant_blyAI::sGossipHello()</a>, and <a class="el" href="../../#l00553">npc_weegli_blastfuse::npc_weegli_blastfuseAI::sGossipHello()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -426,8 +455,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_7668c9a7a4fe0af4092e9bdba7b199c4.html">Vehicle</a></li><li class="navelem"><a class="el" href="../../d2/d29/a01376.html">VehicleDefines.h</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 21:47:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_5e5741f7891ede41bef7ecc492194021.html">AI</a></li><li class="navelem"><a class="el" href="../../dir_1f3214457037742cde290c7511bc5bd6.html">ScriptedAI</a></li><li class="navelem"><a class="el" href="../../d2/d29/a01376.html">ScriptedGossip.cpp</a></li>
+    <li class="footer">Generated on Mon Jul 27 2026 21:42:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

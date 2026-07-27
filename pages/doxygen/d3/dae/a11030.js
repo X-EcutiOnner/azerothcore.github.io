@@ -1,6 +1,8 @@
 var a11030 =
 [
-    [ "GuildDemoteMember", "d3/dae/a11030.html#aa3d68021828c516d7b1995811e8df7d7", null ],
-    [ "Read", "d3/dae/a11030.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
-    [ "Demotee", "d3/dae/a11030.html#a60c7e56c201d794fb473a62fccc160bb", null ]
+    [ "SAttackStop", "d3/dae/a11030.html#ad3ca327e00c9df8d947cdda3eb2f5eb3", null ],
+    [ "Write", "d3/dae/a11030.html#ae2143b20488064400c306004ee678a89", null ],
+    [ "Attacker", "d3/dae/a11030.html#a18e66148dc50a7ea7f98a57a122285ee", null ],
+    [ "NowDead", "d3/dae/a11030.html#a25cd247bb50f752c3230ad4b5f777b2d", null ],
+    [ "Victim", "d3/dae/a11030.html#a9ca02aaaab5d223a64f8ba0cec320e8e", null ]
 ];

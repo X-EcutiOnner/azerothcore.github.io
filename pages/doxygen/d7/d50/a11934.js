@@ -1,6 +1,8 @@
 var a11934 =
 [
-    [ "EffectProcHandler", "d7/d50/a11934.html#a613d5e85c3a7449e4f31719966dcdcc1", null ],
-    [ "Call", "d7/d50/a11934.html#ae03d27451f687319629b3c54c5a7eed5", null ],
-    [ "_EffectHandlerScript", "d7/d50/a11934.html#a8cb9ec4cfee59bc44063ac5cbf25844f", null ]
+    [ "DirectionType", "d7/d50/a11934.html#a8491033c0286895c2d4d3280cfd529f0", null ],
+    [ "ObjectType", "d7/d50/a11934.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
+    [ "ReferenceType", "d7/d50/a11934.html#a44e310a789c4c5a288f07c9254ad389a", null ],
+    [ "SelectionCategory", "d7/d50/a11934.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
+    [ "SelectionCheckType", "d7/d50/a11934.html#a35c8d221b47de13408a0256598fa9d63", null ]
 ];

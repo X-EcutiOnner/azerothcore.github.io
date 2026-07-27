@@ -1,6 +1,5 @@
 var a20706 =
 [
-    [ "FilterTargets", "d1/d27/a20706.html#a7efa78a7991b7ca859c7d622f973265d", null ],
-    [ "PrepareSpellScript", "d1/d27/a20706.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
-    [ "Register", "d1/d27/a20706.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_11", "d1/d27/a20706.html#a5d8980111e029b4c9311737f3985ab61", null ],
+    [ "OnCheck", "d1/d27/a20706.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
 ];

@@ -1,22 +1,12 @@
 var a01112 =
 [
-    [ "ServerMailCondition", "d2/d5d/a10136.html", "d2/d5d/a10136" ],
-    [ "ServerMailItems", "df/d01/a10140.html", "df/d01/a10140" ],
-    [ "ServerMail", "da/df8/a10144.html", "da/df8/a10144" ],
-    [ "ServerMailMgr", "d5/d9e/a10148.html", "d5/d9e/a10148" ],
-    [ "sServerMailMgr", "d0/d39/a01112.html#a6423d219eaead162b40b6021eadca0c4", null ],
-    [ "ServerMailContainer", "d0/d39/a01112.html#a9c10c94a0a8508b3af2e92d3455d063b", null ],
-    [ "ServerMailConditionType", "d0/d39/a01112.html#ab25c41bc314095f74fe678a33e086a2b", [
-      [ "Invalid", "d0/d39/a01112.html#ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b", null ],
-      [ "Level", "d0/d39/a01112.html#ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153", null ],
-      [ "PlayTime", "d0/d39/a01112.html#ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3", null ],
-      [ "Quest", "d0/d39/a01112.html#ab25c41bc314095f74fe678a33e086a2ba07bf513a88c3df282a30cb374f8a933d", null ],
-      [ "Achievement", "d0/d39/a01112.html#ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e", null ],
-      [ "Reputation", "d0/d39/a01112.html#ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092", null ],
-      [ "Faction", "d0/d39/a01112.html#ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201", null ],
-      [ "Race", "d0/d39/a01112.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879", null ],
-      [ "Class", "d0/d39/a01112.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af", null ],
-      [ "AccountFlags", "d0/d39/a01112.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225", null ]
-    ] ],
-    [ "ServerMailConditionTypePairs", "d0/d39/a01112.html#af981b509cb816fa6720cf16cceaa9081", null ]
+    [ "AddonInfo", "de/de6/a06446.html", "de/de6/a06446" ],
+    [ "SavedAddon", "d1/d9c/a06450.html", "d1/d9c/a06450" ],
+    [ "BannedAddon", "d3/d89/a06454.html", "d3/d89/a06454" ],
+    [ "STANDARD_ADDON_CRC", "d0/d39/a01112.html#a084249e215f787f3163d5d06ad2d256f", null ],
+    [ "BannedAddonList", "d0/d39/a01112.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
+    [ "GetAddonInfo", "d0/d39/a01112.html#a6edf9a462d4afcaff40e69da1e75cca5", null ],
+    [ "GetBannedAddons", "d0/d39/a01112.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "d0/d39/a01112.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "d0/d39/a01112.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
 ];

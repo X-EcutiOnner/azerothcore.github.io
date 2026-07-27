@@ -1,6 +1,7 @@
 var a27594 =
 [
-    [ "achievement_arena_by_type", "d5/dad/a27594.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d5/dad/a27594.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d5/dad/a27594.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "HandleProc", "d5/dad/a27594.html#a8f2bbc26b297039a02a7f1a8ce7d79e3", null ],
+    [ "PrepareAuraScript", "d5/dad/a27594.html#aa55d2774f59d8e8435facba876521236", null ],
+    [ "Register", "d5/dad/a27594.html#a3fb6281aa70ce55d4b020e24c747a7f3", null ],
+    [ "Validate", "d5/dad/a27594.html#a09492d02ca945634ca8c4620debbefa8", null ]
 ];

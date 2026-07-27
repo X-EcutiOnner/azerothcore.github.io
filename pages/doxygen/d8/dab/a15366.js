@@ -1,6 +1,10 @@
 var a15366 =
 [
-    [ "FilterTargets", "d8/dab/a15366.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
-    [ "PrepareSpellScript", "d8/dab/a15366.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
-    [ "Register", "d8/dab/a15366.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
+    [ "boss_aeonus", "d8/dab/a15366.html#af823ef2187b852dc72d2f63020e1701b", null ],
+    [ "IsSummonedBy", "d8/dab/a15366.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
+    [ "JustDied", "d8/dab/a15366.html#a649275c31e61f542a13fd791ee85277b", null ],
+    [ "JustEngagedWith", "d8/dab/a15366.html#a5f193144e36a889630d5dbadb4aa665f", null ],
+    [ "JustReachedHome", "d8/dab/a15366.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
+    [ "KilledUnit", "d8/dab/a15366.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
+    [ "MoveInLineOfSight", "d8/dab/a15366.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
 ];

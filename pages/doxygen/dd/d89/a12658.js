@@ -1,6 +1,6 @@
 var a12658 =
 [
-    [ "OnEffect", "dd/d89/a12658.html#a1b5999f392cec9fea4431c3f746ee034", null ],
-    [ "PrepareSpellScript", "dd/d89/a12658.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
-    [ "Register", "dd/d89/a12658.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
+    [ "boss_galvangarAI", "d0/d1e/a12662.html", "d0/d1e/a12662" ],
+    [ "boss_galvangar", "dd/d89/a12658.html#a3949cfd3c987bdf52d313568de9379ba", null ],
+    [ "GetAI", "dd/d89/a12658.html#a9fd978eb38ae3e2d8d65cf4214e673e3", null ]
 ];

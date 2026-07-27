@@ -1,5 +1,6 @@
 var a27650 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "de/d20/a27650.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "de/d20/a27650.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "HandleAuraApply", "de/d20/a27650.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
+    [ "PrepareAuraScript", "de/d20/a27650.html#a7596065e5ffcacf099a5984f5d940c11", null ],
+    [ "Register", "de/d20/a27650.html#a8efa76b28dddad68fee132f37791f231", null ]
 ];

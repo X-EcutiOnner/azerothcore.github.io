@@ -1,7 +1,9 @@
 var a26714 =
 [
-    [ "HandleDummy", "d3/d8b/a26714.html#a367bd26543382ad71668fbe4f524d823", null ],
-    [ "PrepareSpellScript", "d3/d8b/a26714.html#a71cde3f81fdb253d8e93a19be104e9db", null ],
-    [ "Register", "d3/d8b/a26714.html#a7c73e3381592bef44d2265aff296b301", null ],
-    [ "Validate", "d3/d8b/a26714.html#a03d59b6859286dbe460b348df6de63d7", null ]
+    [ "spell_pal_judgement", "d3/d8b/a26714.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
+    [ "HandleScriptEffect", "d3/d8b/a26714.html#add419a824dbebdc168d2b6dc49d07913", null ],
+    [ "PrepareSpellScript", "d3/d8b/a26714.html#a2cffed69c16a1a6189048ed52af35152", null ],
+    [ "Register", "d3/d8b/a26714.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
+    [ "Validate", "d3/d8b/a26714.html#a3971c195a279338253771675131b4802", null ],
+    [ "_spellId", "d3/d8b/a26714.html#ad49ea02800078c672747f4fdbbab1d20", null ]
 ];

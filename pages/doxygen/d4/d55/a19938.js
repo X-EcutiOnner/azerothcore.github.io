@@ -1,5 +1,8 @@
 var a19938 =
 [
-    [ "achievement_cant_do_that_while_stunned", "d4/d55/a19938.html#a4d474b36f61631688ea723d2e4033574", null ],
-    [ "OnCheck", "d4/d55/a19938.html#a0b108bdcab0bc412975e61247f226bf8", null ]
+    [ "HandleEffectPeriodic", "d4/d55/a19938.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "d4/d55/a19938.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "d4/d55/a19938.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "d4/d55/a19938.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "d4/d55/a19938.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

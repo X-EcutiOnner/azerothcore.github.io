@@ -1,12 +1,14 @@
 var a22554 =
 [
-    [ "boss_essence_of_desireAI", "d6/d8c/a22554.html#a02f6dec07038297c15c264fb501b01ab", null ],
-    [ "DamageTaken", "d6/d8c/a22554.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
-    [ "DoAction", "d6/d8c/a22554.html#ad55459d8e75f34783c1516be05cbb97f", null ],
-    [ "JustEngagedWith", "d6/d8c/a22554.html#a0976078399b2190cca25aa2ae5c3c201", null ],
-    [ "KilledUnit", "d6/d8c/a22554.html#a07509843bd658e3fc0b02cb817da37e9", null ],
-    [ "MovementInform", "d6/d8c/a22554.html#ad65068c5f56db269b4dc711745f96cfb", null ],
-    [ "Reset", "d6/d8c/a22554.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
-    [ "UpdateAI", "d6/d8c/a22554.html#af348a1b996a8e7704ba55185ef79fe7d", null ],
-    [ "_recentlySpoken", "d6/d8c/a22554.html#a6507c0da056a74d961d28e96120cd676", null ]
+    [ "OutdoorPvPNA", "d6/d8c/a22554.html#acbdae42245c71e4274296649d8d08e9e", null ],
+    [ "FillInitialWorldStates", "d6/d8c/a22554.html#a49ac785929dd16bf0735b32b787763e9", null ],
+    [ "GetCapturePoint", "d6/d8c/a22554.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
+    [ "HandleKill", "d6/d8c/a22554.html#ab55683b771104878c69239314a9782f4", null ],
+    [ "HandleKillImpl", "d6/d8c/a22554.html#a2ede6e7dc54424d9729a094557b14792", null ],
+    [ "HandlePlayerEnterZone", "d6/d8c/a22554.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
+    [ "HandlePlayerLeaveZone", "d6/d8c/a22554.html#ae7dd540746946513cd7bf8e29296c068", null ],
+    [ "SendRemoveWorldStates", "d6/d8c/a22554.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
+    [ "SetupOutdoorPvP", "d6/d8c/a22554.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
+    [ "Update", "d6/d8c/a22554.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
+    [ "m_obj", "d6/d8c/a22554.html#a7538d64bb494644eae3cc7db03dd631f", null ]
 ];

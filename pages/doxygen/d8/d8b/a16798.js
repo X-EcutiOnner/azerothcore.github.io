@@ -1,6 +1,8 @@
 var a16798 =
 [
-    [ "npc_toc_retro_paladinAI", "d2/d40/a16802.html", "d2/d40/a16802" ],
-    [ "npc_toc_retro_paladin", "d8/d8b/a16798.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
-    [ "GetAI", "d8/d8b/a16798.html#a1213c99792aa4362275bc827aa2f037e", null ]
+    [ "npc_toc5_player_vehicleAI", "d8/d8b/a16798.html#afa00a6254b482aae5397be04860ac8ba", null ],
+    [ "BeforeSpellClick", "d8/d8b/a16798.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
+    [ "OnCharmed", "d8/d8b/a16798.html#ace805882a25a9d075d811714e607fa2b", null ],
+    [ "PassengerBoarded", "d8/d8b/a16798.html#aca35804df751185193ff5865255d3687", null ],
+    [ "Reset", "d8/d8b/a16798.html#a5439b98d544124836d2cf9762f764cea", null ]
 ];

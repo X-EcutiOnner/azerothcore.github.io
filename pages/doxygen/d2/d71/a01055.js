@@ -1,4 +1,6 @@
 var a01055 =
 [
-    [ "ScriptRegistry< AreaTriggerScript >", "d2/d71/a01055.html#a0447158682f05ead25ae60d49a490088", null ]
+    [ "EncryptableAndCompressiblePacket", "d8/d59/a11790.html", "d8/d59/a11790" ],
+    [ "ClientPktHeader", "df/df3/a11794.html", "df/df3/a11794" ],
+    [ "WorldSocket", "d4/dfc/a11798.html", "d4/dfc/a11798" ]
 ];

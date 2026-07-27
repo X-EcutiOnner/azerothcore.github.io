@@ -1,5 +1,6 @@
 var a20122 =
 [
-    [ "achievement_freya_getting_back_to_nature", "dd/d6b/a20122.html#aa4078b573a9335fc52c9b9609590b12f", null ],
-    [ "OnCheck", "dd/d6b/a20122.html#a850a32450379284784f019a5eb5ff0ff", null ]
+    [ "HandlePeriodic", "dd/d6b/a20122.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "dd/d6b/a20122.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "dd/d6b/a20122.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

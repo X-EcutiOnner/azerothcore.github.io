@@ -1,9 +1,6 @@
 var a26522 =
 [
-    [ "CheckProc", "dc/daf/a26522.html#ac0e2bf5c1a96ce0502561bb6bcb6ad97", null ],
-    [ "HandleDispel", "dc/daf/a26522.html#a64235032423050de10581165c57f8b0a", null ],
-    [ "HandleProc", "dc/daf/a26522.html#ab1c1196f003f7ff0bf6f6eae5bd6de9a", null ],
-    [ "PrepareAuraScript", "dc/daf/a26522.html#af7ba0eb96dca76a288dd034665822069", null ],
-    [ "Register", "dc/daf/a26522.html#ababc8b42c64740655864d2834a639384", null ],
-    [ "Validate", "dc/daf/a26522.html#a03ecf2489369cbb7a6dff555db153a96", null ]
+    [ "CalculateAmount", "dc/daf/a26522.html#a3491a0a1d2f00f76730ddc53a66c8179", null ],
+    [ "PrepareAuraScript", "dc/daf/a26522.html#a667883298cee173af941cfc07022f318", null ],
+    [ "Register", "dc/daf/a26522.html#a22514461b79f736e3ab595fa7fb48b68", null ]
 ];

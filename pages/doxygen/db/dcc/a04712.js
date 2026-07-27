@@ -1,16 +1,8 @@
 var a04712 =
 [
-    [ "RandomEngine", "dd/dce/a05840.html", "dd/dce/a05840" ],
-    [ "frand", "db/dcc/a04712.html#aa28484fcb823a22578601847e4b0ddb4", null ],
-    [ "irand", "db/dcc/a04712.html#a0a5e53ee066789ecb565abc05fe36dbc", null ],
-    [ "rand32", "db/dcc/a04712.html#ab91ed86274e1e52eb314784862b61696", null ],
-    [ "rand_chance", "db/dcc/a04712.html#a60564a0d93e0c87809379e0c1fa7acd1", null ],
-    [ "rand_norm", "db/dcc/a04712.html#ad552d8147f66d6ec0cd44271e8799599", null ],
-    [ "randtime", "db/dcc/a04712.html#a2fc61a89dc958460e6eabe08d87a4021", null ],
-    [ "randtime", "db/dcc/a04712.html#ad7a1463dbba108f4bfc0d800fa6f99c1", null ],
-    [ "roll_chance_f", "db/dcc/a04712.html#a4b15099bc81731469c5078a778673c94", null ],
-    [ "roll_chance_i", "db/dcc/a04712.html#a50320d4edff86db31b25138ae72161ad", null ],
-    [ "urand", "db/dcc/a04712.html#a3648faa6a1353eac6d2eec0b399c5aba", null ],
-    [ "urandms", "db/dcc/a04712.html#a1a4ee564518371004a4d34135600bfa0", null ],
-    [ "urandweighted", "db/dcc/a04712.html#a673de62907a2657190e58678691d3b36", null ]
+    [ "PingOperation", "dc/d9a/a06090.html", "dc/d9a/a06090" ],
+    [ "DatabaseIncompatibleVersion", "db/dcc/a04712.html#a31d71bc4748fa66e040eb20dc995e12e", null ],
+    [ "DatabaseWorkerPool< CharacterDatabaseConnection >", "db/dcc/a04712.html#aa3cb93fc2ebcb628d94ae0dd8ddf8a18", null ],
+    [ "DatabaseWorkerPool< LoginDatabaseConnection >", "db/dcc/a04712.html#a8751940b74a554bf0a86046325e0c5ed", null ],
+    [ "DatabaseWorkerPool< WorldDatabaseConnection >", "db/dcc/a04712.html#a25e66781580e4e7fcbd8e8ca6ef9f13a", null ]
 ];

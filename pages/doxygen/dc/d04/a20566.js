@@ -1,12 +1,8 @@
 var a20566 =
 [
-    [ "npc_xt002_boombot", "dc/d04/a20566.html#a40d523365cd398085b7f8dc96c3a52a1", null ],
-    [ "DamageTaken", "dc/d04/a20566.html#a6686960dcf9050c62f707f80f8e378e9", null ],
-    [ "Explode", "dc/d04/a20566.html#a4c0c94a400b20cb910cb6c10e18af31a", null ],
-    [ "JustDied", "dc/d04/a20566.html#ae0de009da55f76fc28aea4bf2c3853da", null ],
-    [ "MovementInform", "dc/d04/a20566.html#ab112bdd9d3e2cd680d2a937d5ce37af6", null ],
-    [ "Reset", "dc/d04/a20566.html#a0b5e372dc3c7fadb6d0ccf5138487a9d", null ],
-    [ "UpdateAI", "dc/d04/a20566.html#a2a8b91db7af5f9f935623fe2b2ba3455", null ],
-    [ "_boomed", "dc/d04/a20566.html#a4307aaf92856d146095497cf74ef3e67", null ],
-    [ "_locked", "dc/d04/a20566.html#ad46600f129729931422b5c9c70568e3f", null ]
+    [ "CheckProc", "dc/d04/a20566.html#ad609f81da8229b5f8c219b3dce4e7602", null ],
+    [ "HandleProc", "dc/d04/a20566.html#aa3fae300f8738edeb5d68de2608462ab", null ],
+    [ "PrepareAuraScript", "dc/d04/a20566.html#a21c070876fa64fa8d65db71c90c73747", null ],
+    [ "Register", "dc/d04/a20566.html#a3aa412142b1809933cc9c2616f9b4ce5", null ],
+    [ "Validate", "dc/d04/a20566.html#a930130b75796d42866e0459832e7841b", null ]
 ];

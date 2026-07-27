@@ -1,7 +1,8 @@
 var a14998 =
 [
-    [ "hyjalJainaAI", "d5/d69/a15002.html", "d5/d69/a15002" ],
-    [ "npc_hyjal_jaina", "dc/d77/a14998.html#a6616aa6c38818770610259312a392a3f", null ],
-    [ "GetAI", "dc/d77/a14998.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
-    [ "OnGossipSelect", "dc/d77/a14998.html#a47853fa317b1a9325fcbe555867139f6", null ]
+    [ "OnApply", "dc/d77/a14998.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
+    [ "OnRemove", "dc/d77/a14998.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
+    [ "PrepareAuraScript", "dc/d77/a14998.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
+    [ "Register", "dc/d77/a14998.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
+    [ "Validate", "dc/d77/a14998.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
 ];

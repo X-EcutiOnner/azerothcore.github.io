@@ -1,7 +1,9 @@
 var a21186 =
 [
-    [ "npc_violet_hold_defense_system", "d9/dd0/a21186.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "d9/dd0/a21186.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "d9/dd0/a21186.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ],
-    [ "_tickCount", "d9/dd0/a21186.html#a4a7504069b05480428278fd09d5e59ba", null ]
+    [ "npc_vrykul_skeleton", "d9/dd0/a21186.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
+    [ "DamageTaken", "d9/dd0/a21186.html#a840244c4183987e4fda533edb2ddeff2", null ],
+    [ "Reset", "d9/dd0/a21186.html#af950342b2177c84c101485736855b998", null ],
+    [ "UpdateAI", "d9/dd0/a21186.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
+    [ "events", "d9/dd0/a21186.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
+    [ "pInstance", "d9/dd0/a21186.html#a834f0162540683c20f9fa0f9e32eee33", null ]
 ];

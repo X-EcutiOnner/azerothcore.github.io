@@ -1,6 +1,6 @@
 var a26598 =
 [
-    [ "CheckCast", "d8/def/a26598.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "d8/def/a26598.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "d8/def/a26598.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "CheckProc", "d8/def/a26598.html#a0158185a5c1c3b3d1d79f93bbb9c6fa7", null ],
+    [ "PrepareAuraScript", "d8/def/a26598.html#a50084bc759ee453a3f5552ca2e039de2", null ],
+    [ "Register", "d8/def/a26598.html#ab79fcdd56767e0199b96d24d71bea452", null ]
 ];

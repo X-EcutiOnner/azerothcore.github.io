@@ -1,6 +1,6 @@
 var a15566 =
 [
-    [ "aqsentinelAI", "dd/dae/a15570.html", "dd/dae/a15570" ],
-    [ "npc_anubisath_sentinel", "da/d05/a15566.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
-    [ "GetAI", "da/d05/a15566.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
+    [ "FilterTargets", "da/d05/a15566.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
+    [ "PrepareSpellScript", "da/d05/a15566.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
+    [ "Register", "da/d05/a15566.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
 ];

@@ -1,10 +1,9 @@
 var a13514 =
 [
-    [ "HandleDummyTick", "d6/d40/a13514.html#a036291aee8b08212ecead4afce01adf4", null ],
-    [ "Load", "d6/d40/a13514.html#aaecea41af42790dfe9aeba3c56480668", null ],
-    [ "OnApply", "d6/d40/a13514.html#a37b425f877e7415b245c119c29521c4b", null ],
-    [ "PrepareAuraScript", "d6/d40/a13514.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
-    [ "Register", "d6/d40/a13514.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
-    [ "Validate", "d6/d40/a13514.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
-    [ "_forsakenSpell", "d6/d40/a13514.html#ae2aee05482e4854120fc581ecec41f95", null ]
+    [ "npc_risen_guardianAI", "d6/d40/a13514.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
+    [ "IsSummonedBy", "d6/d40/a13514.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
+    [ "KilledUnit", "d6/d40/a13514.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
+    [ "Gandling", "d6/d40/a13514.html#a93013b905260aa51341b22d1627cc986", null ],
+    [ "instance", "d6/d40/a13514.html#a96f1835989f646c708b8ef0cc9999e63", null ],
+    [ "room", "d6/d40/a13514.html#a5862a184b6daa92da133cc6c360a993d", null ]
 ];

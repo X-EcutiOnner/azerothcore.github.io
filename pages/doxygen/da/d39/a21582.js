@@ -1,7 +1,10 @@
 var a21582 =
 [
-    [ "HandleScriptEffect", "da/d39/a21582.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "da/d39/a21582.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "da/d39/a21582.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "da/d39/a21582.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "npc_jenny", "da/d39/a21582.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "da/d39/a21582.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "da/d39/a21582.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "da/d39/a21582.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "da/d39/a21582.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "da/d39/a21582.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "da/d39/a21582.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

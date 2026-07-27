@@ -1,5 +1,5 @@
 var a27990 =
 [
-    [ "item_generic_limit_chance_above_60", "d1/d7f/a27990.html#abc18809810f0a7668020d01c482be84b", null ],
-    [ "OnCastItemCombatSpell", "d1/d7f/a27990.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
+    [ "achievement_sickly_gazelle", "d1/d7f/a27990.html#abb613cb222c727923c4c5ce843db3a5f", null ],
+    [ "OnCheck", "d1/d7f/a27990.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
 ];

@@ -1,15 +1,5 @@
 var a19322 =
 [
-    [ "boss_loathebAI", "dd/dba/a19322.html#a60256114947b0e9c01f5308108485935", null ],
-    [ "IsInRoom", "dd/dba/a19322.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
-    [ "JustDied", "dd/dba/a19322.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
-    [ "JustEngagedWith", "dd/dba/a19322.html#a1abcf157e05eeb634f8e857a2de35538", null ],
-    [ "JustSummoned", "dd/dba/a19322.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
-    [ "KilledUnit", "dd/dba/a19322.html#a4dac78bba24069050dd9df729dd58b45", null ],
-    [ "Reset", "dd/dba/a19322.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
-    [ "SummonedCreatureDies", "dd/dba/a19322.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
-    [ "UpdateAI", "dd/dba/a19322.html#ab009008f892493b822e5ea5491c58525", null ],
-    [ "doomCounter", "dd/dba/a19322.html#aed5c631ede2eea27451a74ae21221325", null ],
-    [ "events", "dd/dba/a19322.html#adc49463bbe227f892e31716516032c64", null ],
-    [ "summons", "dd/dba/a19322.html#a37ef117714403002afb4faa4978f136b", null ]
+    [ "npc_icc_buff_switcher", "dd/dba/a19322.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
+    [ "OnGossipSelect", "dd/dba/a19322.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
 ];

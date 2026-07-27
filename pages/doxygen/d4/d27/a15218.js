@@ -1,6 +1,8 @@
 var a15218 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d5/de5/a15222.html", "d5/de5/a15222" ],
-    [ "instance_maraudon", "d4/d27/a15218.html#aaae11d2569d04b42840b101a5702cf24", null ],
-    [ "GetInstanceScript", "d4/d27/a15218.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
+    [ "hyjalTyrandeAI", "d4/d27/a15218.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
+    [ "JustDied", "d4/d27/a15218.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
+    [ "JustEngagedWith", "d4/d27/a15218.html#a158589b567d22c8f6e0be462bad8299d", null ],
+    [ "Reset", "d4/d27/a15218.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
+    [ "UpdateAI", "d4/d27/a15218.html#a9e825f9d87df6227b73eb965488eff8a", null ]
 ];

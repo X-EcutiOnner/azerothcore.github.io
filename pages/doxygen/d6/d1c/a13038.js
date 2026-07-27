@@ -1,9 +1,6 @@
 var a13038 =
 [
-    [ "FilterTargets", "d6/d1c/a13038.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "d6/d1c/a13038.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "d6/d1c/a13038.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "d6/d1c/a13038.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "d6/d1c/a13038.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "d6/d1c/a13038.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "boss_gehennas", "d6/d1c/a13038.html#ab533dfd33dfcc42b1c282340e77ed979", null ],
+    [ "ExecuteEvent", "d6/d1c/a13038.html#aa11c5e8facc17b03220595a61045036f", null ],
+    [ "JustEngagedWith", "d6/d1c/a13038.html#af4f3b198a1a606efe829376b4515c7bc", null ]
 ];

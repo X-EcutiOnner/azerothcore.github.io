@@ -1,10 +1,6 @@
 var a20790 =
 [
-    [ "npc_ulduar_snow_mound", "dc/d32/a20790.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
-    [ "MoveInLineOfSight", "dc/d32/a20790.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
-    [ "UpdateAI", "dc/d32/a20790.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
-    [ "_activated", "dc/d32/a20790.html#ac48f6985d857276e0e59c2a429f5b359", null ],
-    [ "_count", "dc/d32/a20790.html#a1856c3bba24842f33720a83e1de40421", null ],
-    [ "_counter", "dc/d32/a20790.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
-    [ "_scheduler", "dc/d32/a20790.html#aafe42af9ba1402cad91326eb1037e476", null ]
+    [ "FilterTargets", "dc/d32/a20790.html#aa7fcef13b5a4ba40092f2f95842349ff", null ],
+    [ "PrepareSpellScript", "dc/d32/a20790.html#a5b94fde8602f7f00342bd81dc9c8cc11", null ],
+    [ "Register", "dc/d32/a20790.html#a6d990937a5fd06a877b775f719ba5a9f", null ]
 ];

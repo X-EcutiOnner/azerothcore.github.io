@@ -1,5 +1,8 @@
 var a18634 =
 [
-    [ "npc_icc_lk_checktargetAI", "de/d6c/a18634.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
-    [ "CanAIAttack", "de/d6c/a18634.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
+    [ "NecroticPlagueTargetCheck", "de/d6c/a18634.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
+    [ "operator()", "de/d6c/a18634.html#a801a176e367a9f4446fe080845477654", null ],
+    [ "_notAura1", "de/d6c/a18634.html#a4f52417f233e1ab06210726670f719f3", null ],
+    [ "_notAura2", "de/d6c/a18634.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
+    [ "_sourceObj", "de/d6c/a18634.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
 ];

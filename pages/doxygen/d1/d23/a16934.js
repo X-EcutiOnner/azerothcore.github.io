@@ -1,7 +1,6 @@
 var a16934 =
 [
-    [ "HandleAfterEffectAbsorb", "d1/d23/a16934.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "d1/d23/a16934.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "d1/d23/a16934.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "d1/d23/a16934.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "npc_toc_warlockAI", "dc/d7d/a16938.html", "dc/d7d/a16938" ],
+    [ "npc_toc_warlock", "d1/d23/a16934.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
+    [ "GetAI", "d1/d23/a16934.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
 ];

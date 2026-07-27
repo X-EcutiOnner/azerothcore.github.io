@@ -1,11 +1,14 @@
 var a22314 =
 [
-    [ "boss_blackheart_the_inciter", "d5/d7f/a22314.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "d5/d7f/a22314.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "d5/d7f/a22314.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "d5/d7f/a22314.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "d5/d7f/a22314.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "d5/d7f/a22314.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "d5/d7f/a22314.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "d5/d7f/a22314.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "npc_wild_wyrm", "d5/d7f/a22314.html#a7adb3a9f2d17c55995218219c2af13a6", null ],
+    [ "DamageTaken", "d5/d7f/a22314.html#a0ff51f46c203f3b1b8dea063463c5c4d", null ],
+    [ "DoAction", "d5/d7f/a22314.html#afdd165233995f79aa9ec82d7c2c1f258", null ],
+    [ "InitSpellsForPhase", "d5/d7f/a22314.html#adcc805b0880d95c185af4a587474c2d2", null ],
+    [ "MovementInform", "d5/d7f/a22314.html#aeaa4f0327f06ee67a63fd15b914ffac8", null ],
+    [ "PassengerBoarded", "d5/d7f/a22314.html#a362052015873c615448bec978d744c9e", null ],
+    [ "Reset", "d5/d7f/a22314.html#a2e826c49b41a389ddfbeac3d3c7933f5", null ],
+    [ "SpellHit", "d5/d7f/a22314.html#a3d12d555ab7c992ca37e826609b3cd72", null ],
+    [ "UpdateAI", "d5/d7f/a22314.html#adbbf5b93476eef2ef54f51d2523a726e", null ],
+    [ "_phase", "d5/d7f/a22314.html#a7fa0ac4d2feaf62b08c4667c8f0b7474", null ],
+    [ "_playerGuid", "d5/d7f/a22314.html#ade2cc59d0afcf5ebfd7c6fbd694e0809", null ]
 ];

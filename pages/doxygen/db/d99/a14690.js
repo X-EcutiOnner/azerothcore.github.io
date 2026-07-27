@@ -1,6 +1,6 @@
 var a14690 =
 [
-    [ "HandleDummy", "db/d99/a14690.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
-    [ "PrepareSpellScript", "db/d99/a14690.html#a87a787c6ab3804847c90266f570381c6", null ],
-    [ "Register", "db/d99/a14690.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
+    [ "npc_brewfest_keg_reciver", "db/d99/a14690.html#af12e7608f3f715650e6c265ac18920e4", null ],
+    [ "MoveInLineOfSight", "db/d99/a14690.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
+    [ "sGossipSelect", "db/d99/a14690.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
 ];

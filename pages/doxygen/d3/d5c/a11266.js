@@ -1,7 +1,6 @@
 var a11266 =
 [
-    [ "PlayMusic", "d3/d5c/a11266.html#afee4b7ae9ac5f4f2b7365d3d00e7b581", null ],
-    [ "PlayMusic", "d3/d5c/a11266.html#ad3d833f70de5937365c2351aa5206bbf", null ],
-    [ "Write", "d3/d5c/a11266.html#ad01a67d76fe9dff269eac9108a27c75a", null ],
-    [ "SoundKitID", "d3/d5c/a11266.html#ad2342dd0c1461283c595af29c3bc9fe6", null ]
+    [ "SetDungeonDifficultyClient", "d3/d5c/a11266.html#ae3bb2ac16b8712a3eb731913af26961c", null ],
+    [ "Read", "d3/d5c/a11266.html#a6f92ee86dc73b1a51a9c4683997e6c4f", null ],
+    [ "Mode", "d3/d5c/a11266.html#a3cb1f62fba1849dfb59c9b8f46fe4c27", null ]
 ];

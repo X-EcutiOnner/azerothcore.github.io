@@ -1,7 +1,8 @@
 var a29098 =
 [
-    [ "RealmHandle", "db/dd7/a29098.html#a120fb45f2301188a843ab2e712f768e4", null ],
-    [ "RealmHandle", "db/dd7/a29098.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
-    [ "operator<", "db/dd7/a29098.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
-    [ "Realm", "db/dd7/a29098.html#a31af0d9064a295b1579fce3c80217bfd", null ]
+    [ "difficulty", "db/dd7/a29098.html#a2a04df701c13dc49053b09a9587a72a8", null ],
+    [ "encounterIndex", "db/dd7/a29098.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
+    [ "encounterName", "db/dd7/a29098.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
+    [ "id", "db/dd7/a29098.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
+    [ "mapId", "db/dd7/a29098.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
 ];

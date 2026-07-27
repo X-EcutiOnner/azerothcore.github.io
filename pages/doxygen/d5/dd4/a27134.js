@@ -1,7 +1,8 @@
 var a27134 =
 [
-    [ "HandleDummy", "d5/dd4/a27134.html#abd35c974f5ebec4c8845c05ab4f6d309", null ],
-    [ "PrepareSpellScript", "d5/dd4/a27134.html#a99deca1c5c8631342be400cb863eefb2", null ],
-    [ "Register", "d5/dd4/a27134.html#aa5ecc51b030fe7280e824ade641216d3", null ],
-    [ "Validate", "d5/dd4/a27134.html#a731503d3769718695d109ad71160e67a", null ]
+    [ "Load", "d5/dd4/a27134.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
+    [ "OnRemove", "d5/dd4/a27134.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
+    [ "PrepareAuraScript", "d5/dd4/a27134.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
+    [ "Register", "d5/dd4/a27134.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
+    [ "Validate", "d5/dd4/a27134.html#a3820e716d20809896c84c1ca781af4d1", null ]
 ];

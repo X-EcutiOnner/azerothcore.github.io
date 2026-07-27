@@ -1,9 +1,10 @@
 var a27046 =
 [
-    [ "Absorb", "df/d3f/a27046.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
-    [ "CalculateAmount", "df/d3f/a27046.html#a820c27c2161063307a10903cbbc5c0fa", null ],
-    [ "Load", "df/d3f/a27046.html#a7b71990051faaa083110408c13b8401f", null ],
-    [ "PrepareAuraScript", "df/d3f/a27046.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
-    [ "Register", "df/d3f/a27046.html#aa443ab0eed74229883884fbced0426d7", null ],
-    [ "absorbPct", "df/d3f/a27046.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
+    [ "GetTarget", "df/d3f/a27046.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
+    [ "HandleEffectPeriodicPlatform", "df/d3f/a27046.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
+    [ "HandleEffectPeriodicSelf", "df/d3f/a27046.html#a2272a970ca5edca6f7353beb2279c29c", null ],
+    [ "PerformKick", "df/d3f/a27046.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
+    [ "PrepareAuraScript", "df/d3f/a27046.html#a489f1da8f8008db8f096470f28455ef9", null ],
+    [ "Register", "df/d3f/a27046.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
+    [ "AuraEffectHandleModes", "df/d3f/a27046.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
 ];

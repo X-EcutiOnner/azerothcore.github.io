@@ -1,6 +1,11 @@
 var a20242 =
 [
-    [ "HandleAfterEffectApply", "d9/d1d/a20242.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "PrepareAuraScript", "d9/d1d/a20242.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "d9/d1d/a20242.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
+    [ "boss_flame_leviathan_defense_turret", "d9/d1d/a20242.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
+    [ "CanAIAttack", "d9/d1d/a20242.html#a17020dc7facabb0cacac3209277a73f7", null ],
+    [ "DamageTaken", "d9/d1d/a20242.html#ac15aadce1954d827b7e833ed761faf10", null ],
+    [ "JustDied", "d9/d1d/a20242.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
+    [ "KilledUnit", "d9/d1d/a20242.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
+    [ "UpdateAI", "d9/d1d/a20242.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
+    [ "_instance", "d9/d1d/a20242.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
+    [ "_setHealth", "d9/d1d/a20242.html#a413187aa01c119d088846a216f093baa", null ]
 ];

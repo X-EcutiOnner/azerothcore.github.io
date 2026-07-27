@@ -1,6 +1,7 @@
 var a11010 =
 [
-    [ "GuildAddRank", "dc/d38/a11010.html#a59c75f3e40e57b5e64f6fa9753a7e0b9", null ],
-    [ "Read", "dc/d38/a11010.html#a23636e4b8bd37ea85a282fb1630a969e", null ],
-    [ "Name", "dc/d38/a11010.html#a25969282befa638dfb08cf12f14bce53", null ]
+    [ "Emote", "dc/d38/a11010.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
+    [ "Write", "dc/d38/a11010.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
+    [ "EmoteID", "dc/d38/a11010.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
+    [ "Guid", "dc/d38/a11010.html#ab96a1c0933e90872f54eb0995098274a", null ]
 ];

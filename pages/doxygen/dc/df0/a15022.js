@@ -1,6 +1,5 @@
 var a15022 =
 [
-    [ "HandleHeal", "dc/df0/a15022.html#a953536a9a393af9472bdd89018449df0", null ],
-    [ "PrepareSpellScript", "dc/df0/a15022.html#a70503fc6042001a860d361f2597b7153", null ],
-    [ "Register", "dc/df0/a15022.html#a383479896e6deb96e50b827370ccfd4d", null ]
+    [ "PrepareSpellScript", "dc/df0/a15022.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
+    [ "Register", "dc/df0/a15022.html#a06111bf70ee53fee6e90284f8d92642e", null ]
 ];

@@ -1,6 +1,17 @@
 var a16090 =
 [
-    [ "npc_weegli_blastfuseAI", "dc/ded/a16094.html", "dc/ded/a16094" ],
-    [ "npc_weegli_blastfuse", "d0/d0c/a16090.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "d0/d0c/a16090.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "npc_anachronos_quest_triggerAI", "d0/d0c/a16090.html#aec19da0dd982c643b15dd3f9fae7338e", null ],
+    [ "CheckEventFail", "d0/d0c/a16090.html#a9cb72ea49977b65c42c80f6e53cfa021", null ],
+    [ "LiveCounter", "d0/d0c/a16090.html#aa19310d516a578dcd2d13d4298da0f58", null ],
+    [ "Reset", "d0/d0c/a16090.html#ab69245d2f874bef9796c151e5a27aaf7", null ],
+    [ "SummonNextWave", "d0/d0c/a16090.html#af2cc55a3f35a70a4a9630b4b843f8db7", null ],
+    [ "UpdateAI", "d0/d0c/a16090.html#af8aa57d58c05da9a8194bc6565d7a096", null ],
+    [ "Announced", "d0/d0c/a16090.html#a4e516705efff20a62124514ba14c8161", null ],
+    [ "AnnounceTimer", "d0/d0c/a16090.html#a7772c5b4f80b75ffe7b0641321029059", null ],
+    [ "EventStarted", "d0/d0c/a16090.html#ad70b899bedb2b338a306f45e2b4eafd4", null ],
+    [ "Failed", "d0/d0c/a16090.html#a60af9e06e872adfab6e7dbac73dfbece", null ],
+    [ "LiveCount", "d0/d0c/a16090.html#ae959e46865951c2783fe97e824180050", null ],
+    [ "PlayerGUID", "d0/d0c/a16090.html#a2c459e96b3599cda8560582a4fb4253a", null ],
+    [ "WaveCount", "d0/d0c/a16090.html#ac3a32a11e5f99d081371c49363509deb", null ],
+    [ "WaveTimer", "d0/d0c/a16090.html#a5294c9cd61713bc209a1b65f3b0a252e", null ]
 ];

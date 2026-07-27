@@ -1,9 +1,8 @@
 var a28666 =
 [
-    [ "CinematicSequence", "d9/d83/a28666.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
-    [ "ClassID", "d9/d83/a28666.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
-    [ "expansion", "d9/d83/a28666.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
-    [ "name", "d9/d83/a28666.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
-    [ "powerType", "d9/d83/a28666.html#a74aec35dc161a7e830453b9365a6f107", null ],
-    [ "spellfamily", "d9/d83/a28666.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
+    [ "npc_cultist_engineer", "d9/d83/a28666.html#a02675a96d20902d147b0370fa1715d81", null ],
+    [ "JustDied", "d9/d83/a28666.html#a4b4d561f827553998caa204e0e1b9e54", null ],
+    [ "Reset", "d9/d83/a28666.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
+    [ "sGossipSelect", "d9/d83/a28666.html#ab26d124cbfdc4d649fef6058e9637845", null ],
+    [ "UpdateAI", "d9/d83/a28666.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
 ];

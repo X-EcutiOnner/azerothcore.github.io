@@ -1,8 +1,8 @@
 var a13778 =
 [
-    [ "HandleApply", "db/db6/a13778.html#a717e3428afd59fa3a5e9916887d88273", null ],
-    [ "HandleRemove", "db/db6/a13778.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
-    [ "PrepareAuraScript", "db/db6/a13778.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
-    [ "Register", "db/db6/a13778.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
-    [ "Validate", "db/db6/a13778.html#a393a46618a4e1928b8149e04b4823726", null ]
+    [ "OnPeriodic", "db/db6/a13778.html#acd400b0a061d1814591e33d16bf4180a", null ],
+    [ "OnRemove", "db/db6/a13778.html#a3da85c726007690220e9b4f81d30f185", null ],
+    [ "PrepareAuraScript", "db/db6/a13778.html#a216d723f309ffa46df4bba7af79752c8", null ],
+    [ "Register", "db/db6/a13778.html#a43fe84c2717d73e20a2562f596a84f36", null ],
+    [ "Validate", "db/db6/a13778.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
 ];

@@ -1,7 +1,6 @@
 var a24222 =
 [
-    [ "HandleDummy", "da/d67/a24222.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
-    [ "PrepareSpellScript", "da/d67/a24222.html#a2fe4b009fa3741c180e18730af5853e3", null ],
-    [ "Register", "da/d67/a24222.html#a762c2320ab8d48e1284d81962a4b078f", null ],
-    [ "Validate", "da/d67/a24222.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
+    [ "npc_illidari_spawnAI", "d7/d2a/a24226.html", "d7/d2a/a24226" ],
+    [ "npc_illidari_spawn", "da/d67/a24222.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "da/d67/a24222.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];

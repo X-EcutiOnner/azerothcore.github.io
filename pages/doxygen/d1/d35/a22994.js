@@ -1,6 +1,6 @@
 var a22994 =
 [
-    [ "boss_rokmar_the_crackler", "d1/d35/a22994.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
-    [ "JustEngagedWith", "d1/d35/a22994.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
-    [ "Reset", "d1/d35/a22994.html#aed9cf4a866d5e70647125a08885fb809", null ]
+    [ "ShadowOfDeathSelector", "d1/d35/a22994.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "d1/d35/a22994.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "d1/d35/a22994.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

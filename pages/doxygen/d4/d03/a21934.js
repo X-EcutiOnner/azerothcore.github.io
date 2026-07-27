@@ -1,6 +1,8 @@
 var a21934 =
 [
-    [ "HandleScriptEffect", "d4/d03/a21934.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
-    [ "PrepareSpellScript", "d4/d03/a21934.html#afa4ad1b205bf963b4230881738baf938", null ],
-    [ "Register", "d4/d03/a21934.html#a0d8925effced854471e2fbec9c631b91", null ]
+    [ "npc_ravenous_worgAI", "d4/d03/a21934.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d4/d03/a21934.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d4/d03/a21934.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d4/d03/a21934.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d4/d03/a21934.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

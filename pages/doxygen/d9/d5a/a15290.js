@@ -1,7 +1,8 @@
 var a15290 =
 [
-    [ "npc_hive_zara_larva", "d9/d5a/a15290.html#a50fb5738d7b0818689216fee0915a0de", null ],
-    [ "JustSummoned", "d9/d5a/a15290.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
-    [ "MovementInform", "d9/d5a/a15290.html#a6890c58106450d654062f548a80cb42f", null ],
-    [ "_instance", "d9/d5a/a15290.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
+    [ "npc_arthasAI", "d8/d42/a15294.html", "d8/d42/a15294" ],
+    [ "npc_arthas", "d9/d5a/a15290.html#a87c280ff9861187b0a713f795e657266", null ],
+    [ "GetAI", "d9/d5a/a15290.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
+    [ "OnGossipHello", "d9/d5a/a15290.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
+    [ "OnGossipSelect", "d9/d5a/a15290.html#aeca2f4baa3c943281c676c6498393165", null ]
 ];

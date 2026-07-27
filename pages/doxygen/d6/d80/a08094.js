@@ -1,6 +1,5 @@
 var a08094 =
 [
-    [ "value_type", "d6/d80/a08094.html#a6ffbf1b2887c79b97a1804a601ea585e", null ],
-    [ "StoreTo", "d6/d80/a08094.html#a872daea2854f6243884ec35734f94d2e", null ],
-    [ "tag", "d6/d80/a08094.html#acbb2b3fc4989e4bb51e3440dcb753719", null ]
+    [ "value_type", "d6/d80/a08094.html#ae75362e108b0a7323fe92cae75c4729c", null ],
+    [ "TryConsume", "d6/d80/a08094.html#a19112294c2e36c8e36fb3f77f2ccabba", null ]
 ];

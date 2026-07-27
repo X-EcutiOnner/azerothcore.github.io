@@ -1,9 +1,14 @@
 var a21718 =
 [
-    [ "npc_lord_areteAI", "d8/d88/a21718.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "d8/d88/a21718.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "d8/d88/a21718.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "d8/d88/a21718.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "d8/d88/a21718.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "d8/d88/a21718.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "npc_dalaran_mageAI", "d8/d88/a21718.html#ae896a065d2975c5f4d0a125261796215", null ],
+    [ "Initialize", "d8/d88/a21718.html#a8ede1e1e4599f288f5a8c20c40c11236", null ],
+    [ "JustEngagedWith", "d8/d88/a21718.html#a05e9c672ab73029c70fa3d2605b6174d", null ],
+    [ "Reset", "d8/d88/a21718.html#adee723525f46e5476e135e3043f5feb9", null ],
+    [ "UpdateAI", "d8/d88/a21718.html#ab3d5812e38c1fcc1c01af3fdbd27a61e", null ],
+    [ "blink_timer", "d8/d88/a21718.html#ae888e0e5d3302e0a47b6e3d41f166c67", null ],
+    [ "blizzard_timer", "d8/d88/a21718.html#a5da62a7ee9abf7a94c2543076d6479a6", null ],
+    [ "CoC_Timer", "d8/d88/a21718.html#a8a86c02e2c3759ec1f64087943d37b26", null ],
+    [ "frostfire_timer", "d8/d88/a21718.html#ab91070d41571e0070a7c92bf0694f4cc", null ],
+    [ "frostnova_timer", "d8/d88/a21718.html#a77e9a7686cece7ee97236ce6386f82bf", null ],
+    [ "restoremana_timer", "d8/d88/a21718.html#a33da20a649faa6ee7e61db79846ac4a7", null ]
 ];

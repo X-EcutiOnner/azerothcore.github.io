@@ -1,6 +1,9 @@
 var a19718 =
 [
-    [ "CalculateDamage", "d2/dbb/a19718.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "d2/dbb/a19718.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "d2/dbb/a19718.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "npc_nexus_lord", "d2/dbb/a19718.html#ab66ba12059e8a028972d21afc11fb309", null ],
+    [ "AttackStart", "d2/dbb/a19718.html#aefd1ce41b00825bb81ddb6a59d835d21", null ],
+    [ "JustDied", "d2/dbb/a19718.html#ae97f816c5fcb71343d8483345723c300", null ],
+    [ "JustEngagedWith", "d2/dbb/a19718.html#a9a5c55b8c2f85908739d68c7487f629f", null ],
+    [ "UpdateAI", "d2/dbb/a19718.html#acdd7954382f0de84e90d329ec0720a6d", null ],
+    [ "timer", "d2/dbb/a19718.html#a42a9c4d7b1251357cd73a7ad2c410d82", null ]
 ];

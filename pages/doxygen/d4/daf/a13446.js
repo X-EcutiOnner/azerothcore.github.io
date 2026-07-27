@@ -1,7 +1,5 @@
 var a13446 =
 [
-    [ "OnApply", "d4/daf/a13446.html#a278a1eb6d5f856a620f5a33de294b0ec", null ],
-    [ "OnRemove", "d4/daf/a13446.html#a8300f726a41882e3d3f54adc0e5bfb29", null ],
-    [ "PrepareAuraScript", "d4/daf/a13446.html#a46ba800f3a3512951b83e428bc5373b9", null ],
-    [ "Register", "d4/daf/a13446.html#a4a59d431c7d7607e614c4ec035e3acf7", null ]
+    [ "boss_eramas_brightblaze", "d4/daf/a13446.html#a14d1528750036f27948f5de8a2b44bd3", null ],
+    [ "JustEngagedWith", "d4/daf/a13446.html#ad34613d2795f7371a43891488044392a", null ]
 ];

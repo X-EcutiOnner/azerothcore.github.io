@@ -1,6 +1,7 @@
 var a13710 =
 [
-    [ "HandlePeriodic", "d7/d05/a13710.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
-    [ "PrepareAuraScript", "d7/d05/a13710.html#a7ac99d626990f068a00f403847bfa6bc", null ],
-    [ "Register", "d7/d05/a13710.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
+    [ "HandleScript", "d7/d05/a13710.html#aae2f572a523431f6764f08e4719adbcf", null ],
+    [ "PrepareSpellScript", "d7/d05/a13710.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
+    [ "Register", "d7/d05/a13710.html#ae3b002197564318cc92242bd925d35af", null ],
+    [ "Validate", "d7/d05/a13710.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
 ];

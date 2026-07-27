@@ -1,7 +1,6 @@
 var a19886 =
 [
-    [ "HandlePeriodic", "d3/d0f/a19886.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
-    [ "PrepareAuraScript", "d3/d0f/a19886.html#ad78b06733a8609dd39e885db2f23edba", null ],
-    [ "Register", "d3/d0f/a19886.html#ac9ae9be546964752869163896c4045dd", null ],
-    [ "Validate", "d3/d0f/a19886.html#afcca84d03b29ef7569c03f973a6c191b", null ]
+    [ "npc_oculus_drakeAI", "db/dee/a19890.html", "db/dee/a19890" ],
+    [ "npc_oculus_drake", "d3/d0f/a19886.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
+    [ "GetAI", "d3/d0f/a19886.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
 ];

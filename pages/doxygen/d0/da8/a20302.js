@@ -1,14 +1,7 @@
 var a20302 =
 [
-    [ "boss_kologarn_arms", "d0/da8/a20302.html#a938ba2bc623d8bfea80e76743adadd6b", null ],
-    [ "AttackStart", "d0/da8/a20302.html#aa900d84701962847fe8c50ca42a9e395", null ],
-    [ "DamageTaken", "d0/da8/a20302.html#ab9dfb82063b299c4b983ea48e78a17be", null ],
-    [ "EnterEvadeMode", "d0/da8/a20302.html#abb2cf784779f808ab5d5340047ce95e4", null ],
-    [ "JustDied", "d0/da8/a20302.html#a165f77b79a3e601fe2269f20362df3ca", null ],
-    [ "MoveInLineOfSight", "d0/da8/a20302.html#a515d1d1eb959a03adca5e2c79da9082b", null ],
-    [ "PassengerBoarded", "d0/da8/a20302.html#aa0c14ab6b8b0081c1e8c43de1883ae59", null ],
-    [ "Reset", "d0/da8/a20302.html#a1d164aa9234edb81ed6d4e0713d16a91", null ],
-    [ "UpdateAI", "d0/da8/a20302.html#a013d5b17e93486679f625872331c94f6", null ],
-    [ "_combatStarted", "d0/da8/a20302.html#a8b4f90719ef93e7f8d8e435e090d566a", null ],
-    [ "_damageDone", "d0/da8/a20302.html#a0e196cc2602f325f4639d9e854f013b9", null ]
+    [ "HandleScript", "d0/da8/a20302.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
+    [ "PrepareSpellScript", "d0/da8/a20302.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
+    [ "Register", "d0/da8/a20302.html#a04a5b3a4f768200d74f4641508633d35", null ],
+    [ "Validate", "d0/da8/a20302.html#a78074b5b64b1ee5dfaab812f6c72bb9b", null ]
 ];

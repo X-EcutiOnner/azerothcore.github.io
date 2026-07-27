@@ -1,7 +1,6 @@
 var a15110 =
 [
-    [ "npc_cos_chromie_middle", "d0/ddd/a15110.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "d0/ddd/a15110.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "d0/ddd/a15110.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "d0/ddd/a15110.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "HandleScriptEffect", "d0/ddd/a15110.html#a2acaaf3716237f147429cb07779ae49e", null ],
+    [ "PrepareSpellScript", "d0/ddd/a15110.html#a55df717ede47b17a32ae33ecd64617cd", null ],
+    [ "Register", "d0/ddd/a15110.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
 ];

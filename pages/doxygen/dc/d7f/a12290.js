@@ -1,5 +1,4 @@
 var a12290 =
 [
-    [ "flag", "dc/d7f/a12290.html#abde26bce31a9153038294f78e9fdc18c", null ],
-    [ "text", "dc/d7f/a12290.html#a3bf2ae3fd8a347ee70e2c537d909ce30", null ]
+    [ "Result", "dc/d7f/a12290.html#afcac99b5c5e876f3da1a72c1063c465f", null ]
 ];

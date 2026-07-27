@@ -1,6 +1,6 @@
 var a19394 =
 [
-    [ "boss_thaddiusAI", "db/d7f/a19398.html", "db/d7f/a19398" ],
-    [ "boss_thaddius", "d8/d59/a19394.html#aff97b030b861feb646e1b22f60ee3605", null ],
-    [ "GetAI", "d8/d59/a19394.html#acf841c6897396f517a74932fc3480e69", null ]
+    [ "npc_isle_of_conquest_turretAI", "db/d7f/a19398.html", "db/d7f/a19398" ],
+    [ "npc_isle_of_conquest_turret", "d8/d59/a19394.html#ac080845203adef25e6841133b7e2f4dc", null ],
+    [ "GetAI", "d8/d59/a19394.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
 ];

@@ -1,6 +1,7 @@
 var a11562 =
 [
-    [ "WorldSession", "d7/dc0/a11562.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Guid", "d7/dc0/a11562.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
-    [ "Name", "d7/dc0/a11562.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
+    [ "PetDismissSound", "d7/dc0/a11562.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
+    [ "Write", "d7/dc0/a11562.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
+    [ "ModelId", "d7/dc0/a11562.html#aba65e6547adde55978ce7b2abb779d51", null ],
+    [ "ModelPosition", "d7/dc0/a11562.html#a06e6bff9d70996ba890c31ea74363dad", null ]
 ];

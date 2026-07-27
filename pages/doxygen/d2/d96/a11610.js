@@ -1,15 +1,8 @@
 var a11610 =
 [
-    [ "BaseSocketMgr", "d2/d96/a11610.html#a6f9671b94ae64c0c3482e085cb2a252f", null ],
-    [ "WorldSocketMgr", "d2/d96/a11610.html#a8e46ddcf7ba33a66c7226150400cc08b", null ],
-    [ "CreateThreads", "d2/d96/a11610.html#a04e98fcb25c09ff85e9536cf43fd4e6e", null ],
-    [ "GetApplicationSendBufferSize", "d2/d96/a11610.html#a8deeaffd7d25bacd8bfa15d29dff6aeb", null ],
-    [ "Instance", "d2/d96/a11610.html#aaa32a527707cb66916b1499a2e283250", null ],
-    [ "OnSocketAccept", "d2/d96/a11610.html#add84a09a7111cca079a11289c7ef672d", null ],
-    [ "OnSocketOpen", "d2/d96/a11610.html#a916e6d479b7281c26fc7820a2ed0255d", null ],
-    [ "StartWorldNetwork", "d2/d96/a11610.html#acaf85b16b490bfda8532b49456a38b71", null ],
-    [ "StopNetwork", "d2/d96/a11610.html#aede126ecfe75f2917aaf730330ea3b82", null ],
-    [ "_socketApplicationSendBufferSize", "d2/d96/a11610.html#a7a5ca8c2c9165d3cb1f46adbdfe917b0", null ],
-    [ "_socketSystemSendBufferSize", "d2/d96/a11610.html#a043da77b04a29c4c5fe81698ae279985", null ],
-    [ "_tcpNoDelay", "d2/d96/a11610.html#a6f440c4cde2deaa72cbc5dbd348a00b6", null ]
+    [ "QuestConfirmAccept", "d2/d96/a11610.html#a96504f0bcddeb3f339552d95052595c9", null ],
+    [ "Write", "d2/d96/a11610.html#add2f826fb7a8c9eed85e46a217dff0fc", null ],
+    [ "PlayerGuid", "d2/d96/a11610.html#a591f77f3c6de30ac07e62a5bedded7d5", null ],
+    [ "QuestId", "d2/d96/a11610.html#a4c857c0b173f5fd19f2a83123e8e0d44", null ],
+    [ "QuestTitle", "d2/d96/a11610.html#abf35fe4b947f0b645010009388d80bcd", null ]
 ];

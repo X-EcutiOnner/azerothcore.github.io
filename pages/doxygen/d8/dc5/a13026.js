@@ -1,7 +1,5 @@
 var a13026 =
 [
-    [ "FilterTargets", "d8/dc5/a13026.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
-    [ "Load", "d8/dc5/a13026.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
-    [ "PrepareSpellScript", "d8/dc5/a13026.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
-    [ "Register", "d8/dc5/a13026.html#ae366530ddacf45a92eaa36be7e706a84", null ]
+    [ "npc_garr_firesworn", "d8/dc5/a13026.html#a5efff706f522accd5f8be0d29080dea4", null ],
+    [ "DamageTaken", "d8/dc5/a13026.html#a172435821316d28c5b0043015c68595e", null ]
 ];

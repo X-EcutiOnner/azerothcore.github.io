@@ -1,8 +1,6 @@
 var a25854 =
 [
-    [ "CheckQuest", "d5/de5/a25854.html#ab7ebff0894832ac009cda89b7c28e252", null ],
-    [ "HandleDummy", "d5/de5/a25854.html#a365df14504a54e95e7d68d22a284e441", null ],
-    [ "HandleOpenObject", "d5/de5/a25854.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
-    [ "PrepareSpellScript", "d5/de5/a25854.html#a479e313031a2e71473238d8f645bf2d4", null ],
-    [ "Register", "d5/de5/a25854.html#a70f1a91e611cc2092aad44a909cd53db", null ]
+    [ "HandleDummy", "d5/de5/a25854.html#a7b56d07d46647a2790553d40e75da79d", null ],
+    [ "PrepareSpellScript", "d5/de5/a25854.html#aad36c108f4531c19ba552064ba0d3248", null ],
+    [ "Register", "d5/de5/a25854.html#a754fcf618f53b4b17c2bcae4740e561f", null ]
 ];

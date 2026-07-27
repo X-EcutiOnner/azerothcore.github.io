@@ -1,6 +1,12 @@
 var a09958 =
 [
-    [ "bossId", "dd/dbc/a09958.html#ac7ce1fcc568ad1fe6bc8a20957357ed8", null ],
-    [ "entry", "dd/dbc/a09958.html#a1a199d022692efe54e29a7cb90e73dee", null ],
-    [ "type", "dd/dbc/a09958.html#ab5654860b5c27654fa0346e9e92a71fc", null ]
+    [ "LogEntry", "dd/dbc/a09958.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
+    [ "LogEntry", "dd/dbc/a09958.html#aba3f6f501c59e356166abe71082c421b", null ],
+    [ "~LogEntry", "dd/dbc/a09958.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
+    [ "GetGUID", "dd/dbc/a09958.html#a7af4eac577f8da07540f81e185b2ad49", null ],
+    [ "GetTimestamp", "dd/dbc/a09958.html#a643c92439463707671bb08b72bf3a447", null ],
+    [ "SaveToDB", "dd/dbc/a09958.html#a1c00aa88973423a1c112c2776a14e78f", null ],
+    [ "m_guid", "dd/dbc/a09958.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
+    [ "m_guildId", "dd/dbc/a09958.html#a89e0192732a43dc44aff3730bc5ad445", null ],
+    [ "m_timestamp", "dd/dbc/a09958.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
 ];

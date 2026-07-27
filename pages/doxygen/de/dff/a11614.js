@@ -1,8 +1,7 @@
 var a11614 =
 [
-    [ "SkillDiscoveryEntry", "de/dff/a11614.html#a54c0f12153c6e63a37e5da44d233b271", null ],
-    [ "SkillDiscoveryEntry", "de/dff/a11614.html#a301cae078fe1943cae045e94dc3d38ad", null ],
-    [ "chance", "de/dff/a11614.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
-    [ "reqSkillValue", "de/dff/a11614.html#a61e0edc8fee1fa4045d846668d08449c", null ],
-    [ "spellId", "de/dff/a11614.html#a75ca40729917317173b2953c8f47f833", null ]
+    [ "QuestPushResult", "de/dff/a11614.html#a71a5435a0d9dbc648a83ec90ec99215f", null ],
+    [ "Write", "de/dff/a11614.html#a90c79fdc1bf593e4d51f3d7a6e423eac", null ],
+    [ "PlayerGuid", "de/dff/a11614.html#a449c6537a692edae94f173236d0d449e", null ],
+    [ "QuestShareMessage", "de/dff/a11614.html#af80f4138f3689721f44059a9250246f0", null ]
 ];

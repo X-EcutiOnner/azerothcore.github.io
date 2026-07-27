@@ -1,11 +1,7 @@
 var a11994 =
 [
-    [ "WorldUpdateTime", "dd/d2f/a11994.html#a97552c4ce99bd40919f199c17fe203ed", null ],
-    [ "LoadFromConfig", "dd/d2f/a11994.html#acb2b9d56504fc760e7df1c93621ab788", null ],
-    [ "RecordUpdateTime", "dd/d2f/a11994.html#a88d773c8029cebeab6b99444c25c8379", null ],
-    [ "RecordUpdateTimeDuration", "dd/d2f/a11994.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
-    [ "SetRecordUpdateTimeInterval", "dd/d2f/a11994.html#ada81050229ccacc49d5b6a9f6101174c", null ],
-    [ "_lastRecordTime", "dd/d2f/a11994.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
-    [ "_recordUpdateTimeInverval", "dd/d2f/a11994.html#a5486477b0a604f0207336e423f42c2b1", null ],
-    [ "_recordUpdateTimeMin", "dd/d2f/a11994.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
+    [ "maxvalue", "dd/d2f/a11994.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
+    [ "skill", "dd/d2f/a11994.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
+    [ "step", "dd/d2f/a11994.html#a1c882f7d43c65954cb99566225660312", null ],
+    [ "value", "dd/d2f/a11994.html#a064fece53cdaf07b072510b14200a968", null ]
 ];

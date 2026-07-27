@@ -1,7 +1,7 @@
 var a13598 =
 [
-    [ "CheckCast", "dd/d76/a13598.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
-    [ "PrepareSpellScript", "dd/d76/a13598.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
-    [ "Register", "dd/d76/a13598.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
-    [ "Validate", "dd/d76/a13598.html#a9208b9c010bb9cc379c195939351aa45", null ]
+    [ "OnPeriodic", "dd/d76/a13598.html#aa48b6f35302a8857465c6567f811dec6", null ],
+    [ "PrepareAuraScript", "dd/d76/a13598.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
+    [ "Register", "dd/d76/a13598.html#aa7708067531131738b86077638eda7ac", null ],
+    [ "Validate", "dd/d76/a13598.html#a665698b54201184185d96bd33f53e584", null ]
 ];

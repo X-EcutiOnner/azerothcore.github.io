@@ -1,10 +1,9 @@
 var a20662 =
 [
-    [ "boss_yoggsaron_immortal_guardian", "d9/d2b/a20662.html#a14839f96771d185718e88a4e371b31f6", null ],
-    [ "DamageTaken", "d9/d2b/a20662.html#a9bf936d6a501e53ce98786f043562a71", null ],
-    [ "Reset", "d9/d2b/a20662.html#a1173d401233670a45b31040b8e5d98cb", null ],
-    [ "SpellHit", "d9/d2b/a20662.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
-    [ "UpdateAI", "d9/d2b/a20662.html#adaae7e2cd52951095cb82819d9874426", null ],
-    [ "_spellTimer", "d9/d2b/a20662.html#a521b956c116a23523fdfceb95a42c1e2", null ],
-    [ "_visualTimer", "d9/d2b/a20662.html#acb9f5de4ad41ce56f7c6d05a19783517", null ]
+    [ "npc_ulduar_bot_summon_trigger", "d9/d2b/a20662.html#a16d36c154b6851c0081cc05f838b0fed", null ],
+    [ "DoAction", "d9/d2b/a20662.html#a776782a85892d2d674773573be25bfa0", null ],
+    [ "Reset", "d9/d2b/a20662.html#a4ec8487028b188347cf0c9a080076fe6", null ],
+    [ "UpdateAI", "d9/d2b/a20662.html#a788d3eaba382e3af897678f6709a0242", null ],
+    [ "_option", "d9/d2b/a20662.html#a39c909b67fcdc81542470b6e96256fd5", null ],
+    [ "_timer", "d9/d2b/a20662.html#a2530742a19275efe92eeded4dce67567", null ]
 ];

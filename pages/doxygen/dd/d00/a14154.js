@@ -1,7 +1,6 @@
 var a14154 =
 [
-    [ "HandleDispel", "dd/d00/a14154.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "dd/d00/a14154.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "dd/d00/a14154.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "dd/d00/a14154.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "HandleScriptEffect", "dd/d00/a14154.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
+    [ "PrepareSpellScript", "dd/d00/a14154.html#ad110e0dba330acde845c47501256cf5d", null ],
+    [ "Register", "dd/d00/a14154.html#ab6971aa466055a1280cd258e26645157", null ]
 ];

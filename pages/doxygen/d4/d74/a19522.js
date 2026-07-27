@@ -1,5 +1,6 @@
 var a19522 =
 [
-    [ "achievement_chaos_theory", "d4/d74/a19522.html#a3068009fa1fb400439a2c72f00296484", null ],
-    [ "OnCheck", "d4/d74/a19522.html#a68d9a577cb7e005d81f52077707e3555", null ]
+    [ "boss_grobbulus_poison_cloudAI", "dd/db6/a19526.html", "dd/db6/a19526" ],
+    [ "boss_grobbulus_poison_cloud", "d4/d74/a19522.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
+    [ "GetAI", "d4/d74/a19522.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
 ];

@@ -1,15 +1,7 @@
 var a22782 =
 [
-    [ "boss_hydross_the_unstable", "dc/d6a/a22782.html#a8e385f4f7f448033b00828540aa16cde", null ],
-    [ "JustDied", "dc/d6a/a22782.html#ad05fa00eade9614ed54b03a9a4d5d348", null ],
-    [ "JustEngagedWith", "dc/d6a/a22782.html#a4fd2138ce9962d89410b57702d7df33d", null ],
-    [ "JustReachedHome", "dc/d6a/a22782.html#a03cbe48effc4cd3a2821312e60578ed4", null ],
-    [ "JustSummoned", "dc/d6a/a22782.html#a3e9031d95c9e62cbd83eeba4af6c965a", null ],
-    [ "KilledUnit", "dc/d6a/a22782.html#a252d3abdf24c06922c88823bc5e535f3", null ],
-    [ "Reset", "dc/d6a/a22782.html#a0bcad41c74800ab58df8b5ea54d2ec8e", null ],
-    [ "SetForm", "dc/d6a/a22782.html#ac80b0611533998d15406d45385d37629", null ],
-    [ "SummonedCreatureDespawn", "dc/d6a/a22782.html#afe4b76f528045506586f8289eaee27aa", null ],
-    [ "SummonMovementInform", "dc/d6a/a22782.html#af74b63bf239de38f8dd04e69a6ea2b54", null ],
-    [ "SummonTaintedElementalOOC", "dc/d6a/a22782.html#a219094dc5a81acb7d7ae86d5d7945da8", null ],
-    [ "_recentlySpoken", "dc/d6a/a22782.html#acfd0f1a6331b08659c5fffa7850d30b4", null ]
+    [ "OnPeriodic", "dc/d6a/a22782.html#aa5d2f7530277a6a4d4a85ec5d244b9bc", null ],
+    [ "PrepareAuraScript", "dc/d6a/a22782.html#a973ccf17f6499bc84306a18b07fcef7b", null ],
+    [ "Register", "dc/d6a/a22782.html#a07b3b1df6626a9fb657270eb1d9f386a", null ],
+    [ "Validate", "dc/d6a/a22782.html#a006d67e9e82cce68930b90b00d3555a4", null ]
 ];

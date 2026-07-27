@@ -1,6 +1,7 @@
 var a16646 =
 [
-    [ "npc_swarm_scarabAI", "d2/deb/a16650.html", "d2/deb/a16650" ],
-    [ "npc_swarm_scarab", "d0/d74/a16646.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
-    [ "GetAI", "d0/d74/a16646.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
+    [ "OnApply", "d0/d74/a16646.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "d0/d74/a16646.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "d0/d74/a16646.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "d0/d74/a16646.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

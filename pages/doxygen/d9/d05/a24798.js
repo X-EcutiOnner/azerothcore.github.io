@@ -1,7 +1,6 @@
 var a24798 =
 [
-    [ "HandleEffectPeriodic", "d9/d05/a24798.html#a3a2e7653276964fd36c93b41aa8f25ea", null ],
-    [ "PrepareAuraScript", "d9/d05/a24798.html#a893a539f4eeb0b9f027c5a306cc7bd53", null ],
-    [ "Register", "d9/d05/a24798.html#a36792fd068ec7444aa118ec63cf972a7", null ],
-    [ "Validate", "d9/d05/a24798.html#aa57af116294cfba007586506ba1dbeb5", null ]
+    [ "CalculateAmount", "d9/d05/a24798.html#a60d451e6b359501b138564085c87a99f", null ],
+    [ "PrepareAuraScript", "d9/d05/a24798.html#a22059b71bcfdfb9a3be59feaf8005d3f", null ],
+    [ "Register", "d9/d05/a24798.html#ab33586608d444404c07edc4ffbb717ee", null ]
 ];

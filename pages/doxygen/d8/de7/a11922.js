@@ -1,6 +1,7 @@
 var a11922 =
 [
-    [ "CheckEffectProcHandler", "d8/de7/a11922.html#ac91e234c2ec9d458a70f501e9b672af0", null ],
-    [ "Call", "d8/de7/a11922.html#aca4c845623e63c38310986b86e312247", null ],
-    [ "_HandlerScript", "d8/de7/a11922.html#a0bb540e91e691b31191983614fa737dc", null ]
+    [ "DiminishDurationLimit", "d8/de7/a11922.html#a18e94b40a8746c854b2fcca37ceb14f6", null ],
+    [ "DiminishGroup", "d8/de7/a11922.html#ad48e4fbc6984602d0196accea51867de", null ],
+    [ "DiminishMaxLevel", "d8/de7/a11922.html#a4b04f3f569b5b73d2f8a9eda429c3f5d", null ],
+    [ "DiminishReturnType", "d8/de7/a11922.html#a64a6fc19521245f1145ab6c769175803", null ]
 ];

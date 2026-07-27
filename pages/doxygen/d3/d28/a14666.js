@@ -1,9 +1,6 @@
 var a14666 =
 [
-    [ "entries", "d3/d28/a14666.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
-    [ "entries", "d3/d28/a14666.html#a953850b267eb6f599bb49d82080bdf64", null ],
-    [ "revelerId", "d3/d28/a14666.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
-    [ "schedule", "d3/d28/a14666.html#a318d5e1c78e24df88077fe33ba5d9b5b", null ],
-    [ "size", "d3/d28/a14666.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
-    [ "spawns", "d3/d28/a14666.html#a54ef87964b52bb4fc2cc2846afd7e7d3", null ]
+    [ "boss_wushoolayAI", "d3/d28/a14666.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
+    [ "JustEngagedWith", "d3/d28/a14666.html#af519da543fff63a39a6fbe48f90f2f22", null ],
+    [ "UpdateAI", "d3/d28/a14666.html#acfaacee2a97212eb15056c1552b9e06b", null ]
 ];
