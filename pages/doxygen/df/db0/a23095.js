@@ -1,7 +1,6 @@
 var a23095 =
 [
-    [ "PeriodicTick", "df/db0/a23095.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
-    [ "PrepareAuraScript", "df/db0/a23095.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
-    [ "Register", "df/db0/a23095.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
-    [ "Validate", "df/db0/a23095.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
+    [ "PrepareAuraScript", "df/db0/a23095.html#a0dca39c324a5431d4861c1f20a34355e", null ],
+    [ "Register", "df/db0/a23095.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
+    [ "Update", "df/db0/a23095.html#a6201eaa3b961e838a535b80679996ada", null ]
 ];

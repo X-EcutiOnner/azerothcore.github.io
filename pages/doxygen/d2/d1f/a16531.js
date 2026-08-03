@@ -1,8 +1,6 @@
 var a16531 =
 [
-    [ "OnApply", "d2/d1f/a16531.html#a96321003a002be0e4838901f03f8a5d8", null ],
-    [ "OnRemove", "d2/d1f/a16531.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
-    [ "PrepareAuraScript", "d2/d1f/a16531.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
-    [ "Register", "d2/d1f/a16531.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
-    [ "Validate", "d2/d1f/a16531.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "da/dd3/a16535.html", "da/dd3/a16535" ],
+    [ "npc_baltharus_the_warborn_clone", "d2/d1f/a16531.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
+    [ "GetAI", "d2/d1f/a16531.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
 ];

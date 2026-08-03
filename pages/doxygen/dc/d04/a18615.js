@@ -1,7 +1,6 @@
 var a18615 =
 [
-    [ "OnRemove", "dc/d04/a18615.html#a106935d92ef6ba7909c57264e26b5522", null ],
-    [ "PrepareAuraScript", "dc/d04/a18615.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
-    [ "Register", "dc/d04/a18615.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
-    [ "Validate", "dc/d04/a18615.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
+    [ "VileSpiritActivateEvent", "dc/d04/a18615.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
+    [ "Execute", "dc/d04/a18615.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
+    [ "_owner", "dc/d04/a18615.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
 ];

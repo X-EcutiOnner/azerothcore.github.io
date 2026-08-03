@@ -1,7 +1,7 @@
 var a10235 =
 [
-    [ "MapPreloadRequest", "d4/d0f/a10235.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
-    [ "call", "d4/d0f/a10235.html#a688f4e2c5517c29c10c0810325211b50", null ],
-    [ "_mapId", "d4/d0f/a10235.html#aa207469ff8369f9b5559b35404d16847", null ],
-    [ "_updater", "d4/d0f/a10235.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
+    [ "resetNotify", "d4/d0f/a10235.html#a1472e21d9af04662f3574bc2c7d3890c", null ],
+    [ "Visit", "d4/d0f/a10235.html#adfcdcf148b002c641638ddc70d577b14", null ],
+    [ "Visit", "d4/d0f/a10235.html#adf95512d4304962a5740b38c32ea28a7", null ],
+    [ "Visit", "d4/d0f/a10235.html#a725fc2c2504eecaa15841c27b367cd55", null ]
 ];

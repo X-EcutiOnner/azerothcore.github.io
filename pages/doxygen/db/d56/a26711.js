@@ -1,7 +1,7 @@
 var a26711 =
 [
-    [ "HandleProc", "db/d56/a26711.html#a512ec25fe649e42930d64effa4f7868b", null ],
-    [ "PrepareAuraScript", "db/d56/a26711.html#ac1c7dcf63d7c67ec5fad424531519b58", null ],
-    [ "Register", "db/d56/a26711.html#a6118148ac0e641a6c3e4490c2cdd86c0", null ],
-    [ "Validate", "db/d56/a26711.html#a22dea9fb57d89b1d4813722968b5429f", null ]
+    [ "OnProc", "db/d56/a26711.html#a304fd48cc79d3e7371212632d276b2ff", null ],
+    [ "PrepareAuraScript", "db/d56/a26711.html#a239f9448d36bee4cfb46d95bf20c0148", null ],
+    [ "Register", "db/d56/a26711.html#a28be437c5f3e8bca0f54be97cb5c5a1f", null ],
+    [ "Validate", "db/d56/a26711.html#adc217147d7c150d66dad4d3e922cff96", null ]
 ];

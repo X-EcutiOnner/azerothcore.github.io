@@ -1,12 +1,8 @@
 var a15167 =
 [
-    [ "boss_epochAI", "d8/dbb/a15167.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
-    [ "JustDied", "d8/dbb/a15167.html#a780aa5bc86c80aaeeffad441b2873121", null ],
-    [ "JustEngagedWith", "d8/dbb/a15167.html#ae742dceac5979faebb58a133e9bd91f0", null ],
-    [ "KilledUnit", "d8/dbb/a15167.html#af41946feab7b86d812f706bd7abbf1bd", null ],
-    [ "Reset", "d8/dbb/a15167.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
-    [ "SpellHitTarget", "d8/dbb/a15167.html#ab87dfcf635a65b02be29186d2990fef3", null ],
-    [ "UpdateAI", "d8/dbb/a15167.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
-    [ "events", "d8/dbb/a15167.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
-    [ "warps", "d8/dbb/a15167.html#a478113af1ce565c729604c6039f55551", null ]
+    [ "boss_azgalor", "d8/dbb/a15167.html#ac794e0eacc2d543fa62e4b521089f080", null ],
+    [ "DoAction", "d8/dbb/a15167.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
+    [ "JustDied", "d8/dbb/a15167.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
+    [ "JustEngagedWith", "d8/dbb/a15167.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
+    [ "KilledUnit", "d8/dbb/a15167.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ]
 ];

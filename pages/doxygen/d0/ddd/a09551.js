@@ -1,8 +1,12 @@
 var a09551 =
 [
-    [ "AIRelocationNotifier", "d0/ddd/a09551.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
-    [ "Visit", "d0/ddd/a09551.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
-    [ "Visit", "d0/ddd/a09551.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
-    [ "i_unit", "d0/ddd/a09551.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
-    [ "isCreature", "d0/ddd/a09551.html#a199f4b91d00dd4db90855e5521d87a95", null ]
+    [ "FloatHeightData", "d1/d88/a09563.html", "d1/d88/a09563" ],
+    [ "Uint16HeightData", "d9/d7e/a09555.html", "d9/d7e/a09555" ],
+    [ "Uint8HeightData", "dd/d27/a09559.html", "dd/d27/a09559" ],
+    [ "HeightPlanesType", "d0/ddd/a09551.html#ab64c3cfcd01805f43ec4ef41fb3bc48d", null ],
+    [ "floatHeightData", "d0/ddd/a09551.html#abd47b99dfa1f23b0741b66cfd4837eaa", null ],
+    [ "gridHeight", "d0/ddd/a09551.html#a1f989ab0921de350dc2410129028201f", null ],
+    [ "minHeightPlanes", "d0/ddd/a09551.html#aa04f68f079e1f488cf69acd24dcd7899", null ],
+    [ "uint16HeightData", "d0/ddd/a09551.html#aec022a29ba14a18fdd33e8f65e1cd977", null ],
+    [ "uint8HeightData", "d0/ddd/a09551.html#a60a4a267b4164347e9f3ead6b5abfe14", null ]
 ];

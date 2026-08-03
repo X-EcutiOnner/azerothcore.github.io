@@ -1,9 +1,8 @@
 var a19139 =
 [
-    [ "npc_icc_skybreaker_vicarAI", "d0/df1/a19139.html#ae74a306850b328f536b55e5c24c040ab", null ],
-    [ "AttackStart", "d0/df1/a19139.html#a52b753e1f599eb02385d980a78cd3c78", null ],
-    [ "JustEngagedWith", "d0/df1/a19139.html#afdb4215cd0578de7342b152783666ed6", null ],
-    [ "Reset", "d0/df1/a19139.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
-    [ "UpdateAI", "d0/df1/a19139.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
-    [ "events", "d0/df1/a19139.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
+    [ "npc_vampiric_fiend", "d0/df1/a19139.html#a4ddef98ac3b9d166980243b0dbe821f7", null ],
+    [ "EnterEvadeMode", "d0/df1/a19139.html#ac9f90234d1f100c671f70b249a339314", null ],
+    [ "JustEngagedWith", "d0/df1/a19139.html#a6167d1529b88c3b85cf21547b89bbc98", null ],
+    [ "UpdateAI", "d0/df1/a19139.html#aba3a8c1bfaa1f841f820e9540bc2267a", null ],
+    [ "_scheduler", "d0/df1/a19139.html#a8978bf1ffc6009b29c738ebe3232887f", null ]
 ];

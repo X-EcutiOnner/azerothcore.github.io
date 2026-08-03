@@ -1,20 +1,11 @@
 var a14615 =
 [
-    [ "npc_dark_iron_attack_generator", "db/d72/a14615.html#aef208e008b00af62710c8479bf7b6618", null ],
-    [ "AllowStart", "db/d72/a14615.html#a4c0bdf682ced38cd1555ac6c6dd82361", null ],
-    [ "FinishAttackDueToWin", "db/d72/a14615.html#abe15db24f6cd2c0c4c7fb5572635f09a", null ],
-    [ "FinishEventDueToLoss", "db/d72/a14615.html#ab2dc568f820e3b0b7c863f83e6ca45fc", null ],
-    [ "GetRandomBartender", "db/d72/a14615.html#aefe0e7e40ca5aad089aa27c5151e01fa", null ],
-    [ "JustEngagedWith", "db/d72/a14615.html#a7588ef6382ae081d76423f8233667c5b", null ],
-    [ "MoveInLineOfSight", "db/d72/a14615.html#ae21b69752a1e45eeef318ccf1e5a3b24", null ],
-    [ "PrepareEvent", "db/d72/a14615.html#a4371fcc13d221b843275d1d0e7f896fb", null ],
-    [ "Reset", "db/d72/a14615.html#ab9b3a7d524b8764ef9d00dac3ea75418", null ],
-    [ "SpellHit", "db/d72/a14615.html#a829946c679b3eff97b1eb3ede6cd91d8", null ],
-    [ "UpdateAI", "db/d72/a14615.html#a1038fdc5453c78ebaef26b305be23963", null ],
-    [ "events", "db/d72/a14615.html#a6692f1a74acae5ddebbe8dc8790db07a", null ],
-    [ "guzzlerCounter", "db/d72/a14615.html#a1a5cc21ee54e3d8d7acb1e3235d4e427", null ],
-    [ "kegCounter", "db/d72/a14615.html#a3282d8a556e6e3b84a9597c317722d8e", null ],
-    [ "revelerGUIDs", "db/d72/a14615.html#a873ec2bf87b3d616e60d26aa561258bf", null ],
-    [ "summons", "db/d72/a14615.html#a5ac0502b880031c937f915a7dbca2262", null ],
-    [ "thrown", "db/d72/a14615.html#ac372ce0664ec10b7f60026fa808a74d0", null ]
+    [ "boss_marli", "db/d72/a14615.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
+    [ "_chargePlayer", "db/d72/a14615.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
+    [ "_schedulePhaseSpider", "db/d72/a14615.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
+    [ "_schedulePhaseTroll", "db/d72/a14615.html#ad6977930dac1cddd2162f7db1b239c83", null ],
+    [ "JustDied", "db/d72/a14615.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
+    [ "JustEngagedWith", "db/d72/a14615.html#ac74bd382c3dc826f7e4426bec3557094", null ],
+    [ "Reset", "db/d72/a14615.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
+    [ "_phase", "db/d72/a14615.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
 ];

@@ -1,5 +1,6 @@
 var a20387 =
 [
-    [ "achievement_staying_buffed_all_winter_25", "d9/da8/a20387.html#a91f0ab3bada837cff6414350b98a27a3", null ],
-    [ "OnCheck", "d9/da8/a20387.html#a36591082184bc8466e124bad9a910545", null ]
+    [ "FilterTargets", "d9/da8/a20387.html#a977f0687005cdbd585be0704e5ce20d8", null ],
+    [ "PrepareSpellScript", "d9/da8/a20387.html#a96f279fbc08f23f0b7e7f807dc0ddd7a", null ],
+    [ "Register", "d9/da8/a20387.html#a1038ca2384a31671dab1d72e1232cfe1", null ]
 ];

@@ -1,7 +1,6 @@
 var a20431 =
 [
-    [ "FilterTargetsInitial", "d5/d06/a20431.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
-    [ "Load", "d5/d06/a20431.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
-    [ "PrepareSpellScript", "d5/d06/a20431.html#a4d1e588557fa3fa432d4015fda930877", null ],
-    [ "Register", "d5/d06/a20431.html#a0428375ddb89907e7f1728757d55d052", null ]
+    [ "id", "d5/d06/a20431.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "x", "d5/d06/a20431.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
+    [ "y", "d5/d06/a20431.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
 ];

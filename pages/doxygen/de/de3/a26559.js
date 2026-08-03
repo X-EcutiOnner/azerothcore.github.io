@@ -1,7 +1,6 @@
 var a26559 =
 [
-    [ "OnProc", "de/de3/a26559.html#a0a85e641521f1e9b7fd074f7edde97ac", null ],
-    [ "PrepareAuraScript", "de/de3/a26559.html#a4ff27309c8848a6155ad28809ace5cba", null ],
-    [ "Register", "de/de3/a26559.html#a20b6a18ce3fac99689b958b384da7836", null ],
-    [ "Validate", "de/de3/a26559.html#ac4275cca4f974a5a131e4dc1be8eed23", null ]
+    [ "HandleDummy", "de/de3/a26559.html#acb433ef020fbd090259ac969a35842ea", null ],
+    [ "PrepareSpellScript", "de/de3/a26559.html#a9440e067db7bc5c48c973dfd61f1a95e", null ],
+    [ "Register", "de/de3/a26559.html#a349e674aa5e07f59dc0a0d78a25aa0cd", null ]
 ];

@@ -1,15 +1,13 @@
 var a23431 =
 [
-    [ "npc_shattered_hand_scout", "d2/dec/a23431.html#a51a57eaaad75817a9b5a81210e01ed51", null ],
-    [ "DamageTaken", "d2/dec/a23431.html#ad37c34ae2dee082f1b4eed90bc4a3618", null ],
-    [ "FireArrows", "d2/dec/a23431.html#aa3043011d7d9e7b7c5826b9afc7581d1", null ],
-    [ "GetPorung", "d2/dec/a23431.html#a575b12c40aeccd6d0cdd63f71a3b93d6", null ],
-    [ "MoveInLineOfSight", "d2/dec/a23431.html#a2ddb6fd6aa6221768ff71257f4bdd81b", null ],
-    [ "MovementInform", "d2/dec/a23431.html#a6f6198c2faf68823b1d4c8237044784b", null ],
-    [ "Reset", "d2/dec/a23431.html#a1fcf0da2cc4a0554f04b3624b68de598", null ],
-    [ "SetData", "d2/dec/a23431.html#a9416dd89c4728538971abc5975c7080f", null ],
-    [ "UpdateAI", "d2/dec/a23431.html#a91c2c7eca064d6eaafe5ecaeca4344b4", null ],
-    [ "_firstZealots", "d2/dec/a23431.html#a2b5fd63b01e4ecb96b006e3870b37609", null ],
-    [ "_scheduler", "d2/dec/a23431.html#a376f6eab11f8399493d5d33b5c4ea35a", null ],
-    [ "_zealotGUIDs", "d2/dec/a23431.html#a26381a05bb007fdb4b7da97a19a878da", null ]
+    [ "boss_ghazan", "d2/dec/a23431.html#ae730362fcf3606c67b6b85147de98fb6", null ],
+    [ "DoAction", "d2/dec/a23431.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
+    [ "InitializeAI", "d2/dec/a23431.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
+    [ "JustEngagedWith", "d2/dec/a23431.html#ad4136f0f63d267284f36756793c0efa7", null ],
+    [ "JustReachedHome", "d2/dec/a23431.html#af9f2dd854036d5c8b9c6703499836199", null ],
+    [ "MovementInform", "d2/dec/a23431.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
+    [ "Reset", "d2/dec/a23431.html#afc9522a26060643f2f9d25a8a98691b7", null ],
+    [ "UpdateAI", "d2/dec/a23431.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
+    [ "_movedToPlatform", "d2/dec/a23431.html#aa6c0c391355ac0b698d67796efd63062", null ],
+    [ "_reachedPlatform", "d2/dec/a23431.html#af3476318b4721bd52facaf735eabb1f9", null ]
 ];

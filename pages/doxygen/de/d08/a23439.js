@@ -1,13 +1,8 @@
 var a23439 =
 [
-    [ "boss_warbringer_omrogg", "de/d08/a23439.html#a20f790595640cd41d636ad43c8837cda", null ],
-    [ "HandleHeadTalk", "de/d08/a23439.html#aaa324c065f6c2bbf75688f5910be09d1", null ],
-    [ "JustDied", "de/d08/a23439.html#a8a2abaceda580ac2ed4f1c736281828f", null ],
-    [ "JustEngagedWith", "de/d08/a23439.html#ae1710f22f8a72f661498c4fbc6d108a5", null ],
-    [ "KilledUnit", "de/d08/a23439.html#add6b54c4744be120b6b5fd53912ce1fd", null ],
-    [ "ScheduleBurningPhase", "de/d08/a23439.html#afd20a8bd1f6f083e0725d962ec747e26", null ],
-    [ "ScheduleNonBurningPhase", "de/d08/a23439.html#a176217a0767e8153d07996461ac68f60", null ],
-    [ "SetData", "de/d08/a23439.html#a4d1154d64c999316f9ae02ab76cbc870", null ],
-    [ "UpdateAI", "de/d08/a23439.html#a90369760ed0e52f1ffc6d3e7c4e39ec2", null ],
-    [ "_headTalk", "de/d08/a23439.html#ae657addceb26f4d02d734fa0790a1ae2", null ]
+    [ "boss_hungarfen", "de/d08/a23439.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "de/d08/a23439.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "de/d08/a23439.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "de/d08/a23439.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "de/d08/a23439.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

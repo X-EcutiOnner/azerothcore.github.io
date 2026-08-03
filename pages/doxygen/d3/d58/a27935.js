@@ -1,6 +1,6 @@
 var a27935 =
 [
-    [ "go_flamesAI", "d3/d58/a27935.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "d3/d58/a27935.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "d3/d58/a27935.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "HandleEffectCalcSpellMod", "d3/d58/a27935.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "d3/d58/a27935.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "d3/d58/a27935.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

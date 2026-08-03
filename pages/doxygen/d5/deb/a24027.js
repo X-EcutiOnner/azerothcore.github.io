@@ -1,6 +1,5 @@
 var a24027 =
 [
-    [ "CheckRequirement", "d5/deb/a24027.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
-    [ "PrepareSpellScript", "d5/deb/a24027.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
-    [ "Register", "d5/deb/a24027.html#aa4f62292b32347179a5534e4bc0417f8", null ]
+    [ "go_simon_cluster", "d5/deb/a24027.html#adac53a8451abd6ace227a66afc7e61e8", null ],
+    [ "OnGossipHello", "d5/deb/a24027.html#a9fd9799604de44c91803511c45b67786", null ]
 ];

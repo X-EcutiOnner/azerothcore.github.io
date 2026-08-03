@@ -1,17 +1,12 @@
 var a10723 =
 [
-    [ "GuildScript", "d8/d95/a10723.html#a9f2e849a2fb4a1cb901080f129692482", null ],
-    [ "CanGuildSendBankList", "d8/d95/a10723.html#a293f3d822ae075246f1a7552ce9b0424", null ],
-    [ "IsDatabaseBound", "d8/d95/a10723.html#aae0601f04ec90533bb7699c68f68fe8f", null ],
-    [ "OnAddMember", "d8/d95/a10723.html#a908df71c0d9be1258e624f4e977e8d75", null ],
-    [ "OnBankEvent", "d8/d95/a10723.html#a8f29c847a68fb41dd3bca4ac257ee159", null ],
-    [ "OnCreate", "d8/d95/a10723.html#acfc89fe841629beca8de15c23c48a6c7", null ],
-    [ "OnDisband", "d8/d95/a10723.html#a5c840084ca74af0556ac5d6256bfd75d", null ],
-    [ "OnEvent", "d8/d95/a10723.html#ad0733568cee8ded5c89d8404166201bb", null ],
-    [ "OnInfoChanged", "d8/d95/a10723.html#a3ce284c112b61c6077b509d55a52f388", null ],
-    [ "OnItemMove", "d8/d95/a10723.html#a2309a1ae2828cb7c758a5cf0329f1f5a", null ],
-    [ "OnMemberDepositMoney", "d8/d95/a10723.html#a64d676d964b408b6fde7ab9185951eb0", null ],
-    [ "OnMemberWitdrawMoney", "d8/d95/a10723.html#a503c5116512f8ac45506732674aa5635", null ],
-    [ "OnMOTDChanged", "d8/d95/a10723.html#ac5886f63fbc5da499843677339f4944b", null ],
-    [ "OnRemoveMember", "d8/d95/a10723.html#a0231be74a2625a91fc617980dfc41ca3", null ]
+    [ "ArenaScript", "d8/d95/a10723.html#a6ee4251edaae00038858fa340c2c840e", null ],
+    [ "CanAddMember", "d8/d95/a10723.html#aa85728dd471c2f4d58ed1794e741d060", null ],
+    [ "CanSaveArenaStatsForMember", "d8/d95/a10723.html#a73719d3e62d1f7cf1f174292975f0f4f", null ],
+    [ "CanSaveToDB", "d8/d95/a10723.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
+    [ "IsDatabaseBound", "d8/d95/a10723.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
+    [ "OnArenaStart", "d8/d95/a10723.html#ae67b000b16f56309da56f672a9f2b423", null ],
+    [ "OnBeforeArenaCheckWinConditions", "d8/d95/a10723.html#a2b46190a3243f2306a74295975dca317", null ],
+    [ "OnBeforeArenaTeamMemberUpdate", "d8/d95/a10723.html#a548ac21d5bd9be263935a298a3b5cd16", null ],
+    [ "OnGetPoints", "d8/d95/a10723.html#a13b22ad00d3742589532e6e522258834", null ]
 ];

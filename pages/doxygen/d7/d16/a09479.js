@@ -1,7 +1,7 @@
 var a09479 =
 [
-    [ "flags", "d7/d16/a09479.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
-    [ "fourcc", "d7/d16/a09479.html#a93b48dd741d13ff036eac8a77df9f916", null ],
-    [ "gridHeight", "d7/d16/a09479.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
-    [ "gridMaxHeight", "d7/d16/a09479.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
+    [ "GetAntiDosPolicyForOpcode", "d7/d16/a09479.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
+    [ "instance", "d7/d16/a09479.html#a859596f153aa470fa503f67092e26160", null ],
+    [ "LoadAntiDosOpcodePolicies", "d7/d16/a09479.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
+    [ "_antiDosOpcodePolicies", "d7/d16/a09479.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
 ];

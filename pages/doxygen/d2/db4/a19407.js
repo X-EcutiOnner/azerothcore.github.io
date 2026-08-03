@@ -1,6 +1,6 @@
 var a19407 =
 [
-    [ "boss_kelthuzadAI", "d1/db7/a19411.html", "d1/db7/a19411" ],
-    [ "boss_kelthuzad", "d2/db4/a19407.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
-    [ "GetAI", "d2/db4/a19407.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
+    [ "npc_ioc_gunship_captainAI", "d1/db7/a19411.html", "d1/db7/a19411" ],
+    [ "npc_ioc_gunship_captain", "d2/db4/a19407.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
+    [ "GetAI", "d2/db4/a19407.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
 ];

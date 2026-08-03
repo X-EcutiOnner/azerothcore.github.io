@@ -1,7 +1,7 @@
 var a21387 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d1/d1b/a21387.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
-    [ "Reset", "d1/d1b/a21387.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
-    [ "UpdateAI", "d1/d1b/a21387.html#a75f16f2b028ca341db6e08536be06bfa", null ],
-    [ "uiTimer", "d1/d1b/a21387.html#a0cf5f0413b1cded835252a38e272f835", null ]
+    [ "HandlePeriodicDummy", "d1/d1b/a21387.html#a295f37cddccc696d450a0c4380d43c29", null ],
+    [ "PrepareAuraScript", "d1/d1b/a21387.html#a9453aa189ba53de3d89bbab183927cfc", null ],
+    [ "Register", "d1/d1b/a21387.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
+    [ "Validate", "d1/d1b/a21387.html#a475480c072aaccde7b00cf28aedff3ec", null ]
 ];

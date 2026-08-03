@@ -1,7 +1,11 @@
 var a23315 =
 [
-    [ "boss_the_maker", "d9/d01/a23315.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "d9/d01/a23315.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "d9/d01/a23315.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "d9/d01/a23315.html#a40643ca00fe7d7029a291335e47c722a", null ]
+    [ "boss_ahune", "d9/d01/a23315.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "d9/d01/a23315.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "d9/d01/a23315.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "d9/d01/a23315.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "d9/d01/a23315.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "d9/d01/a23315.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "d9/d01/a23315.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "d9/d01/a23315.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

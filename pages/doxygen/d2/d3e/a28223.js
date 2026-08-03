@@ -1,8 +1,7 @@
 var a28223 =
 [
-    [ "npc_riggle_bassbaitAI", "d9/d9b/a28227.html", "d9/d9b/a28227" ],
-    [ "npc_riggle_bassbait", "d2/d3e/a28223.html#afc4280099cda3c28c4634d649e636839", null ],
-    [ "GetAI", "d2/d3e/a28223.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
-    [ "OnGossipHello", "d2/d3e/a28223.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
-    [ "OnQuestReward", "d2/d3e/a28223.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
+    [ "go_bear_trapAI", "d2/d3e/a28223.html#ad97484d73bcea6a84909004c099eec34", null ],
+    [ "Initialize", "d2/d3e/a28223.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
+    [ "UpdateAI", "d2/d3e/a28223.html#a8901922d736bb0391da5618593ced5c5", null ],
+    [ "_events", "d2/d3e/a28223.html#a59f37a130326818dd922763ae9058fe7", null ]
 ];

@@ -1,9 +1,9 @@
 var a03989 =
 [
-    [ "boss_darkmaster_gandling", "d3/d88/a13502.html", "d3/d88/a13502" ],
-    [ "boss_darkmaster_gandling::boss_darkmaster_gandlingAI", "dd/d57/a13506.html", "dd/d57/a13506" ],
-    [ "npc_risen_guardian", "d4/df0/a13510.html", "d4/df0/a13510" ],
-    [ "npc_risen_guardian::npc_risen_guardianAI", "d6/d40/a13514.html", "d6/d40/a13514" ],
+    [ "boss_darkmaster_gandling", "de/d47/a13507.html", "de/d47/a13507" ],
+    [ "boss_darkmaster_gandling::boss_darkmaster_gandlingAI", "df/d73/a13511.html", "df/d73/a13511" ],
+    [ "npc_risen_guardian", "d2/d4b/a13515.html", "d2/d4b/a13515" ],
+    [ "npc_risen_guardian::npc_risen_guardianAI", "d0/d93/a13519.html", "d0/d93/a13519" ],
     [ "BossData", "dd/d27/a03989.html#aef437a440c77ebda3ee1ebf1099e168d", [
       [ "DATA_PLAYER_KILLED", "dd/d27/a03989.html#aef437a440c77ebda3ee1ebf1099e168da16e75107231054f283248f12ae3887c0", null ],
       [ "GANDLING_ROOM_TO_USE", "dd/d27/a03989.html#aef437a440c77ebda3ee1ebf1099e168da58b81c15b7763fb90a6a786fc0cb73d8", null ]
@@ -1550,6 +1550,7 @@ var a03989 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

@@ -1,8 +1,5 @@
 var a24379 =
 [
-    [ "HandleEffectApply", "df/dc7/a24379.html#a9a93b47a1f24554a94e364b07f74ba55", null ],
-    [ "HandleEffectRemove", "df/dc7/a24379.html#abb7f01239b5a982ded0244d781c4d856", null ],
-    [ "PrepareAuraScript", "df/dc7/a24379.html#a9517667d1f79557b3ec2ef6fdfd1bc1b", null ],
-    [ "Register", "df/dc7/a24379.html#ae2847d4059ad2822be5703c4d0c79bdb", null ],
-    [ "Validate", "df/dc7/a24379.html#abc30fd53a7f9234755c292db533ba99c", null ]
+    [ "npc_pet_dk_dancing_rune_weapon", "df/dc7/a24379.html#ac838b907d56c97a911d7c7454c65e180", null ],
+    [ "InitializeAI", "df/dc7/a24379.html#aafeac4a22f366591d6d66b6150e099e2", null ]
 ];

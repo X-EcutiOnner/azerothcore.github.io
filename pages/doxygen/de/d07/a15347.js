@@ -1,22 +1,8 @@
 var a15347 =
 [
-    [ "boss_onyxia", "de/d07/a15347.html#ab46b86e0eeee3918d1308a1fdb48e22f", null ],
-    [ "CheckInRoom", "de/d07/a15347.html#a4278354db54db2190f8e5639d51f180e", null ],
-    [ "DamageTaken", "de/d07/a15347.html#abf2607b4eb644bd42edc9e723ec92ef4", null ],
-    [ "DoAction", "de/d07/a15347.html#a9e6a94b225caf455f9072c3a430ba49e", null ],
-    [ "HandleWhelpSpam", "de/d07/a15347.html#aa03a986845d79dba3c60446d84ec7189", null ],
-    [ "Initialize", "de/d07/a15347.html#ae64cfe5c532c4eae8e76c4ddd845e278", null ],
-    [ "JustEngagedWith", "de/d07/a15347.html#a1dff56a293babebe82b3947c53a1e0e9", null ],
-    [ "JustSummoned", "de/d07/a15347.html#a424a1815a0f51097c184f7582f1b2f45", null ],
-    [ "MovementInform", "de/d07/a15347.html#a1413f44b212b651f276ecb1e2f01c36a", null ],
-    [ "Reset", "de/d07/a15347.html#a837fb19b4c85d87ebf026b2f692696bb", null ],
-    [ "SetPhase", "de/d07/a15347.html#a7b0df8fb7524d223c14f360c2eb9e282", null ],
-    [ "SpellHitTarget", "de/d07/a15347.html#ace3d7dd677a4716e13f4c0c1c5944471", null ],
-    [ "UpdateAI", "de/d07/a15347.html#ad04fc48bd1aa5ffa5570c0e44b2a112c", null ],
-    [ "bManyWhelpsAvailable", "de/d07/a15347.html#a78565986741d7225de01c283613ba8f2", null ],
-    [ "CurrentWP", "de/d07/a15347.html#a1b1544c5aea342607a8bc83b49396340", null ],
-    [ "Phase", "de/d07/a15347.html#a3b10bf8659039752648b2035da7808d6", null ],
-    [ "whelpCount", "de/d07/a15347.html#a447ca146d4fad7506a274dea1068ec84", null ],
-    [ "whelpSpam", "de/d07/a15347.html#ab465e9d7dd63ca51559b9b8f1ed9921e", null ],
-    [ "whelpSpamTimer", "de/d07/a15347.html#a0990000f7fd0041b8da642d1dd714406", null ]
+    [ "npc_thrall_old_hillsbradAI", "d4/db6/a15351.html", "d4/db6/a15351" ],
+    [ "npc_thrall_old_hillsbrad", "de/d07/a15347.html#a3e6fa750b095af3beac806a619e18328", null ],
+    [ "GetAI", "de/d07/a15347.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
+    [ "OnGossipHello", "de/d07/a15347.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
+    [ "OnGossipSelect", "de/d07/a15347.html#a17fcb00850503903f430506654e035c0", null ]
 ];

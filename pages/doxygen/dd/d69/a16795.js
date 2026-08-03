@@ -1,7 +1,8 @@
 var a16795 =
 [
-    [ "HandleEffectPeriodic", "dd/d69/a16795.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "dd/d69/a16795.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "dd/d69/a16795.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "dd/d69/a16795.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "npc_toc5_player_vehicleAI", "dd/d69/a16795.html#afa00a6254b482aae5397be04860ac8ba", null ],
+    [ "BeforeSpellClick", "dd/d69/a16795.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
+    [ "OnCharmed", "dd/d69/a16795.html#ace805882a25a9d075d811714e607fa2b", null ],
+    [ "PassengerBoarded", "dd/d69/a16795.html#aca35804df751185193ff5865255d3687", null ],
+    [ "Reset", "dd/d69/a16795.html#a5439b98d544124836d2cf9762f764cea", null ]
 ];

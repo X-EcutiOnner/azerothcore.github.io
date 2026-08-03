@@ -1,6 +1,5 @@
 var a23255 =
 [
-    [ "HandleScriptEffect", "d3/deb/a23255.html#abba5817280db6579e3e6e0b964655c6e", null ],
-    [ "PrepareSpellScript", "d3/deb/a23255.html#a846fa43c9907ddb6243c006327757a1c", null ],
-    [ "Register", "d3/deb/a23255.html#a7daa26f4035912bff4811b0bfee35fee", null ]
+    [ "go_strange_pool", "d3/deb/a23255.html#aa44feb353ad1cb440e5b6707112af680", null ],
+    [ "OnGossipHello", "d3/deb/a23255.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
 ];

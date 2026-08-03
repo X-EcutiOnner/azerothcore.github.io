@@ -1,8 +1,7 @@
 var a17739 =
 [
-    [ "OnApply", "dd/d3f/a17739.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
-    [ "OnRemove", "dd/d3f/a17739.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
-    [ "PrepareAuraScript", "dd/d3f/a17739.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
-    [ "Register", "dd/d3f/a17739.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
-    [ "Validate", "dd/d3f/a17739.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
+    [ "HandleDummyTick", "dd/d3f/a17739.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
+    [ "PrepareAuraScript", "dd/d3f/a17739.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
+    [ "Register", "dd/d3f/a17739.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
+    [ "Validate", "dd/d3f/a17739.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
 ];

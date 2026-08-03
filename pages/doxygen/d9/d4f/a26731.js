@@ -1,6 +1,6 @@
 var a26731 =
 [
-    [ "CheckCast", "d9/d4f/a26731.html#a624ee45c92b37da12204dcc95dc815ca", null ],
-    [ "PrepareSpellScript", "d9/d4f/a26731.html#acdbb427ed3ebe9e2b8089a5bb50489a9", null ],
-    [ "Register", "d9/d4f/a26731.html#abc4e276c4759bad63b692a467f2f88f2", null ]
+    [ "CalculateAmount", "d9/d4f/a26731.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
+    [ "PrepareAuraScript", "d9/d4f/a26731.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
+    [ "Register", "d9/d4f/a26731.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
 ];

@@ -1,10 +1,10 @@
 var a07839 =
 [
-    [ "ChannelRights", "d1/d1b/a07839.html#a7fbfd84470bf1b4bf564eec0315f6c8d", null ],
-    [ "ChannelRights", "d1/d1b/a07839.html#ac689ce079b171bbbdbc062ad7521f21c", null ],
-    [ "flags", "d1/d1b/a07839.html#ad7fdc943a5a97c3c812108243192f6ae", null ],
-    [ "joinMessage", "d1/d1b/a07839.html#af8797ef8c642f3a954b1581fb54ed545", null ],
-    [ "moderators", "d1/d1b/a07839.html#ac80f92b9e633bf309970179b32e29cee", null ],
-    [ "speakDelay", "d1/d1b/a07839.html#a9883582d36b8cc67ab5d649670441000", null ],
-    [ "speakMessage", "d1/d1b/a07839.html#a4b7dc06e8839da5a6d50b5d4dae76c1b", null ]
+    [ "BattlegroundNA", "d1/d1b/a07839.html#abf646e63e474ac5bb381078ffd0f286e", null ],
+    [ "FillInitialWorldStates", "d1/d1b/a07839.html#af0932b648d2a4a4288409d8da360e06b", null ],
+    [ "HandleAreaTrigger", "d1/d1b/a07839.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
+    [ "HandlePlayerUnderMap", "d1/d1b/a07839.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
+    [ "SetupBattleground", "d1/d1b/a07839.html#addc3350a283fdac24e7aa88c23a7945a", null ],
+    [ "StartingEventCloseDoors", "d1/d1b/a07839.html#a316492a374884822045971f6dc3db1e2", null ],
+    [ "StartingEventOpenDoors", "d1/d1b/a07839.html#a72a953c5047a434d28b98e6185173140", null ]
 ];

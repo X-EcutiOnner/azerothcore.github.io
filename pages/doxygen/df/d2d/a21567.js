@@ -1,6 +1,5 @@
 var a21567 =
 [
-    [ "npc_heated_battleAI", "df/d2d/a21567.html#a2b73957d7890549f4b02488c5527fcef", null ],
-    [ "DamageTaken", "df/d2d/a21567.html#a8422c157214195d7166ede35c9c05d19", null ],
-    [ "Reset", "df/d2d/a21567.html#a11a4f3270ff260e30da89017dad38433", null ]
+    [ "npc_khunok_the_behemothAI", "df/d2d/a21567.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
+    [ "MoveInLineOfSight", "df/d2d/a21567.html#a5d54954a159da764aa7b83579e03688c", null ]
 ];

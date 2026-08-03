@@ -1,6 +1,6 @@
 var a27571 =
 [
-    [ "HandleCast", "d1/d71/a27571.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
-    [ "PrepareSpellScript", "d1/d71/a27571.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
-    [ "Register", "d1/d71/a27571.html#a81bc86c83ffc70602410912870e61700", null ]
+    [ "CheckProc", "d1/d71/a27571.html#a945c4617cba249ee76045ce032f12c3c", null ],
+    [ "PrepareAuraScript", "d1/d71/a27571.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
+    [ "Register", "d1/d71/a27571.html#a912dd7ea10038103bb6d242bb7723830", null ]
 ];

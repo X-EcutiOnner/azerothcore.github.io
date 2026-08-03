@@ -1,6 +1,6 @@
 var a21103 =
 [
-    [ "CalculateAmount", "d6/d10/a21103.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "d6/d10/a21103.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "d6/d10/a21103.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "OnRemove", "d6/d10/a21103.html#a3cac25c6136b5dce491b24b7fb0ed33a", null ],
+    [ "PrepareAuraScript", "d6/d10/a21103.html#a2afc759693aa4dfbd0ac33b1b770e995", null ],
+    [ "Register", "d6/d10/a21103.html#a8fbcf904caf526f37d4a7984791d9fd0", null ]
 ];

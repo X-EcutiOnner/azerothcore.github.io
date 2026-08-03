@@ -1,6 +1,7 @@
 var a23647 =
 [
-    [ "HandleScriptEffect", "d1/d45/a23647.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
-    [ "PrepareSpellScript", "d1/d45/a23647.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
-    [ "Register", "d1/d45/a23647.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
+    [ "FilterTargets", "d1/d45/a23647.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
+    [ "HandleHit", "d1/d45/a23647.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
+    [ "PrepareSpellScript", "d1/d45/a23647.html#a376618b9811b2e1ec18697431094e22f", null ],
+    [ "Register", "d1/d45/a23647.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
 ];

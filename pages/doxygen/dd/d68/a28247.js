@@ -1,10 +1,7 @@
 var a28247 =
 [
-    [ "npc_air_force_botsAI", "dd/d68/a28247.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "dd/d68/a28247.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "dd/d68/a28247.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "dd/d68/a28247.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "dd/d68/a28247.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "dd/d68/a28247.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedGUID", "dd/d68/a28247.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "go_pirate_day_musicAI", "dd/d68/a28247.html#a1abe263949b7a07e5143779efcddc7eb", null ],
+    [ "UpdateAI", "dd/d68/a28247.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
+    [ "_events", "dd/d68/a28247.html#a233ae55a05876c665455b106ef50d57e", null ],
+    [ "rnd", "dd/d68/a28247.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
 ];

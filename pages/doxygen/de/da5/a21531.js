@@ -1,6 +1,7 @@
 var a21531 =
 [
-    [ "npc_mindless_ghoulAI", "d7/dd8/a21535.html", "d7/dd8/a21535" ],
-    [ "npc_mindless_ghoul", "de/da5/a21531.html#ac5bf71e719c0df04687f426a022fd65e", null ],
-    [ "GetAI", "de/da5/a21531.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
+    [ "npc_azure_captain", "de/da5/a21531.html#abbdba89267506b8dd1e93ea0e059979c", null ],
+    [ "Reset", "de/da5/a21531.html#ae9b8cc434f2b5690f3abc55d557cbd54", null ],
+    [ "UpdateAI", "de/da5/a21531.html#a9aacf1533414ade27973ddcc46434978", null ],
+    [ "_events", "de/da5/a21531.html#a6a69ea3d3eb75601f723a10eab68c260", null ]
 ];

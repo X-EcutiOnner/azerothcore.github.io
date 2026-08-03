@@ -1,7 +1,6 @@
 var a24359 =
 [
-    [ "HandleDummy", "da/d2a/a24359.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
-    [ "PrepareSpellScript", "da/d2a/a24359.html#a2fe4b009fa3741c180e18730af5853e3", null ],
-    [ "Register", "da/d2a/a24359.html#a762c2320ab8d48e1284d81962a4b078f", null ],
-    [ "Validate", "da/d2a/a24359.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
+    [ "go_ancient_skull_pile", "da/d2a/a24359.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
+    [ "OnGossipHello", "da/d2a/a24359.html#afc258eaeb7586f0f539223c21f82ea63", null ],
+    [ "OnGossipSelect", "da/d2a/a24359.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
 ];

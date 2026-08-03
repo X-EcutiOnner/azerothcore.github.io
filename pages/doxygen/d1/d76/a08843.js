@@ -1,9 +1,5 @@
 var a08843 =
 [
-    [ "PetInfo", "d9/d6f/a08847.html", "d9/d6f/a08847" ],
-    [ "GetUnslottedHunterPet", "d1/d76/a08843.html#a4e0e22a135703c989976694a32912cbd", null ],
-    [ "CurrentPet", "d1/d76/a08843.html#a7a9f76452985abc65560773ac413208f", null ],
-    [ "MaxStabledPets", "d1/d76/a08843.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
-    [ "StabledPets", "d1/d76/a08843.html#a6bd064e692fff316581d08680b163026", null ],
-    [ "UnslottedPets", "d1/d76/a08843.html#a8e6f6e36722dd883e6df962a1e950346", null ]
+    [ "ObjectGuidGenerator", "d1/d76/a08843.html#a1d917989d9bf681546d0e3e9b20593e0", null ],
+    [ "Generate", "d1/d76/a08843.html#ae863a6f3ad3b71ab0ca19c60e4f7d862", null ]
 ];

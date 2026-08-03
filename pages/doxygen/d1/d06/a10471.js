@@ -1,12 +1,6 @@
 var a10471 =
 [
-    [ "FacingInfo", "d1/d06/a10471.html#a1ac825c359704924c66e46eada64e34e", null ],
-    [ "FacingInfo", "d1/d06/a10471.html#a7820b3ce134dcca05b9b15299eb3b33f", null ],
-    [ "FacingInfo", "d1/d06/a10471.html#add6411db27c1d313d2f133adf0c35755", null ],
-    [ "angle", "d1/d06/a10471.html#ac56b304c2c5df7ab72c6fcbd2f845b02", null ],
-    [ "f", "d1/d06/a10471.html#a811011ef77b57be8ae86de7396f67d51", null ],
-    [ "target", "d1/d06/a10471.html#a064b5265b4bb2a0053908bf6031b8f65", null ],
-    [ "x", "d1/d06/a10471.html#ac08687158cc0bcfbc9814b1cbbe95684", null ],
-    [ "y", "d1/d06/a10471.html#ad7fcfb6b1c5402a0570748d343eadfcc", null ],
-    [ "z", "d1/d06/a10471.html#a5ff017b732d47684f675041e44227754", null ]
+    [ "AssistanceMovementGenerator", "d1/d06/a10471.html#a649b7d2833aaf895a5f6f290131c88f5", null ],
+    [ "Finalize", "d1/d06/a10471.html#af92bc6f83b1f4b1262736bf582b13ac3", null ],
+    [ "GetMovementGeneratorType", "d1/d06/a10471.html#a0791e081895efd553ba2048fc5b851ea", null ]
 ];

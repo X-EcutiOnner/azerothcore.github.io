@@ -1,8 +1,6 @@
 var a09107 =
 [
-    [ "PowerPctOrderPred", "de/dda/a09107.html#a4e765952cfbc1c83413a8f1c148b1fe4", null ],
-    [ "operator()", "de/dda/a09107.html#a215b641a9364c7fcb82778c98f214271", null ],
-    [ "operator()", "de/dda/a09107.html#a42cec64c5eaf01f8b6b7e334f57b1d4a", null ],
-    [ "_ascending", "de/dda/a09107.html#aed7be288f876fdd35c1cdba53626b03c", null ],
-    [ "_power", "de/dda/a09107.html#ad3d61a7c5c84d91bc26c99e778105b7c", null ]
+    [ "spellIdImmunityPredicate", "de/dda/a09107.html#a04893e34d418a0649d51dfa82b559d9c", null ],
+    [ "operator()", "de/dda/a09107.html#ae97afff7a6b3ea5dca917d3dbb9ef818", null ],
+    [ "_type", "de/dda/a09107.html#a125dfe727d668b5b9820adf1f7f0e0a8", null ]
 ];

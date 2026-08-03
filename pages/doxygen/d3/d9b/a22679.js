@@ -1,6 +1,8 @@
 var a22679 =
 [
-    [ "boss_essence_of_sufferingAI", "df/d3b/a22683.html", "df/d3b/a22683" ],
-    [ "boss_essence_of_suffering", "d3/d9b/a22679.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "d3/d9b/a22679.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "npc_anzu_spirit", "d3/d9b/a22679.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
+    [ "IsSummonedBy", "d3/d9b/a22679.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
+    [ "Reset", "d3/d9b/a22679.html#acef3f7093f93b6c227d145523cdc487a", null ],
+    [ "UpdateAI", "d3/d9b/a22679.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
+    [ "_scheduler", "d3/d9b/a22679.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
 ];

@@ -1,7 +1,7 @@
 var a22843 =
 [
-    [ "PrepareAuraScript", "da/d20/a22843.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "da/d20/a22843.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "da/d20/a22843.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "da/d20/a22843.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "VerasEnvenom", "da/d20/a22843.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "da/d20/a22843.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "da/d20/a22843.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "da/d20/a22843.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

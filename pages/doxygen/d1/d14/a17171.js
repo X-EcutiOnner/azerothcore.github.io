@@ -1,14 +1,5 @@
 var a17171 =
 [
-    [ "boss_bronjahm", "d1/d14/a17171.html#a44666a47b298efe48c4e86b8677d9845", null ],
-    [ "DamageTaken", "d1/d14/a17171.html#ab89333e2ee43ad384bdc71ac6f83c92e", null ],
-    [ "EnterEvadeMode", "d1/d14/a17171.html#a5d515921e780974e2a70937ada8b232d", null ],
-    [ "JustDied", "d1/d14/a17171.html#ad50a7aee4ebf9d0d5d9141b96e154996", null ],
-    [ "JustEngagedWith", "d1/d14/a17171.html#a767d4a601d7f912cd71823a51b31af1f", null ],
-    [ "JustReachedHome", "d1/d14/a17171.html#af2146b1ddb8cdc3e27d1cf573fe65df0", null ],
-    [ "JustSummoned", "d1/d14/a17171.html#a47c7a8a8413b139cf2d217d33f39aa3d", null ],
-    [ "KilledUnit", "d1/d14/a17171.html#aaaf64571ce6a542be93c6efe105278e8", null ],
-    [ "Reset", "d1/d14/a17171.html#a313bd4510e18ecb529b6358d28a3dc3f", null ],
-    [ "SpellHitTarget", "d1/d14/a17171.html#a3be47710012bd75a71574f7a4c69f678", null ],
-    [ "UpdateAI", "d1/d14/a17171.html#a6d60b720210a9f196b1c006b557e7d25", null ]
+    [ "achievement_better_off_dred", "d1/d14/a17171.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
+    [ "OnCheck", "d1/d14/a17171.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
 ];

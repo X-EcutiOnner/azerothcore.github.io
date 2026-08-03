@@ -1,6 +1,6 @@
 var a17755 =
 [
-    [ "HandleScript", "dc/dbc/a17755.html#acd11d50f398857dc2a24bd2d63e52222", null ],
-    [ "PrepareSpellScript", "dc/dbc/a17755.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
-    [ "Register", "dc/dbc/a17755.html#ad7f12515dc21ab6b19148370fd491629", null ]
+    [ "ModAuraStack", "dc/dbc/a17755.html#a7535ef148e047e32a5f7a1944585e396", null ],
+    [ "PrepareSpellScript", "dc/dbc/a17755.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
+    [ "Register", "dc/dbc/a17755.html#ab44b362197e74b98b3ffeb98eff52742", null ]
 ];

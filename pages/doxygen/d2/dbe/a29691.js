@@ -1,4 +1,8 @@
 var a29691 =
 [
-    [ "SetUp", "d2/dbe/a29691.html#a5d3dc5ba1a52545537d327fec12ea1cb", null ]
+    [ "bp0", "d2/dbe/a29691.html#ada8e047c960181610ff1942cbdfa2e27", null ],
+    [ "bp1", "d2/dbe/a29691.html#aaf81afde542db481bde1e26fcc21b945", null ],
+    [ "bp2", "d2/dbe/a29691.html#a36b28d1bc821bfd3970b6af0f38a9f10", null ],
+    [ "spellId", "d2/dbe/a29691.html#a3f8e88d4761c5247c2cb9bff94d548aa", null ],
+    [ "triggered", "d2/dbe/a29691.html#a0ee8feba0856c5497612e15128ba8273", null ]
 ];

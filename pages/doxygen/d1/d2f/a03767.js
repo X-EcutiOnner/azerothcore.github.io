@@ -1,8 +1,8 @@
 var a03767 =
 [
-    [ "boss_baron_geddon", "d8/d58/a13010.html", "d8/d58/a13010" ],
-    [ "spell_geddon_inferno_aura", "df/d75/a13014.html", "df/d75/a13014" ],
-    [ "spell_geddon_armageddon_aura", "d1/d5c/a13018.html", "d1/d5c/a13018" ],
+    [ "boss_baron_geddon", "d2/d83/a13015.html", "d2/d83/a13015" ],
+    [ "spell_geddon_inferno_aura", "dd/d71/a13019.html", "dd/d71/a13019" ],
+    [ "spell_geddon_armageddon_aura", "d8/db3/a13023.html", "d8/db3/a13023" ],
     [ "Emotes", "d1/d2f/a03767.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "d3/d83/a03854.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "d3/d83/a03854.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],
@@ -2802,6 +2802,7 @@ var a03767 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

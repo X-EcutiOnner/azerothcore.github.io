@@ -1,6 +1,10 @@
 var a13259 =
 [
-    [ "instance_karazhan_InstanceMapScript", "d0/db6/a13263.html", "d0/db6/a13263" ],
-    [ "instance_karazhan", "dd/d06/a13259.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
-    [ "GetInstanceScript", "dd/d06/a13259.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
+    [ "boss_servant_quarters", "dd/d06/a13259.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
+    [ "JustDied", "dd/d06/a13259.html#a3b9df7ab573f22a9e15761cb662db404", null ],
+    [ "JustEngagedWith", "dd/d06/a13259.html#afe4a4a78824851f63ce560a60d55cee3", null ],
+    [ "MovementInform", "dd/d06/a13259.html#a00d31d9421903b6a92c03a3bd0382328", null ],
+    [ "Reset", "dd/d06/a13259.html#a273a09b1242968a5dd45ab9866fbe481", null ],
+    [ "UpdateAI", "dd/d06/a13259.html#a6a41cfd67310077803733190645050e4", null ],
+    [ "_scheduler", "dd/d06/a13259.html#a520142de5e8d2911684b18c85a3f37e2", null ]
 ];

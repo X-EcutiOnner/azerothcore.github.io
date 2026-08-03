@@ -1,6 +1,7 @@
 var a21411 =
 [
-    [ "npc_bloodmage_laurithAI", "d6/d00/a21415.html", "d6/d00/a21415" ],
-    [ "npc_bloodmage_laurith", "d8/df5/a21411.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
-    [ "GetAI", "d8/df5/a21411.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
+    [ "PrepareAuraScript", "d8/df5/a21411.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
+    [ "Register", "d8/df5/a21411.html#a7225d1f83921e4de06516c1db5a5038a", null ],
+    [ "TriggerFists", "d8/df5/a21411.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
+    [ "Validate", "d8/df5/a21411.html#a977897c569245148eb94892bb42d4ca5", null ]
 ];

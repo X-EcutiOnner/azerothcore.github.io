@@ -1,6 +1,9 @@
 var a21963 =
 [
-    [ "npc_bushwhackerAI", "dd/dcd/a21967.html", "dd/dcd/a21967" ],
-    [ "npc_bushwhacker", "d4/dbc/a21963.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
-    [ "GetAI", "d4/dbc/a21963.html#ab3190b66069e820abf3637bb877066a0", null ]
+    [ "npc_venture_co_stragglerAI", "d4/dbc/a21963.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
+    [ "Reset", "d4/dbc/a21963.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
+    [ "SpellHit", "d4/dbc/a21963.html#ae1919454c270d10342079b60a727a306", null ],
+    [ "UpdateAI", "d4/dbc/a21963.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
+    [ "_events", "d4/dbc/a21963.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
+    [ "_playerGUID", "d4/dbc/a21963.html#a649493944b143782d995b5bdda3714b4", null ]
 ];

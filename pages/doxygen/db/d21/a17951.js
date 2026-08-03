@@ -1,6 +1,6 @@
 var a17951 =
 [
-    [ "npc_gunship_boarding_add_realAI", "db/d21/a17951.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
-    [ "UpdateAI", "db/d21/a17951.html#a33ac355c8f61907574a0736a24cbee82", null ],
-    [ "_events", "db/d21/a17951.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
+    [ "Cooldown", "db/d21/a17951.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
+    [ "Entry", "db/d21/a17951.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
+    [ "TargetPosition", "db/d21/a17951.html#ac47af49622012b4ad40357cadc5214b3", null ]
 ];

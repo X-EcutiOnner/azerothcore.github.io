@@ -1,10 +1,7 @@
 var a24167 =
 [
-    [ "npc_pet_gen_plump_turkey", "d5/de6/a24167.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
-    [ "MovementInform", "d5/de6/a24167.html#af27c91388891add6d00e251bf3187743", null ],
-    [ "UpdateAI", "d5/de6/a24167.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
-    [ "checkTimer", "d5/de6/a24167.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
-    [ "goGUID", "d5/de6/a24167.html#a5fa88e045430adea9e72a3744bf72780", null ],
-    [ "jumping", "d5/de6/a24167.html#a8486512b7594f2ce759fcb580f1baf34", null ],
-    [ "jumpTimer", "d5/de6/a24167.html#ad53a9abad41ab6a792a55b854155135d", null ]
+    [ "CheckRequirement", "d5/de6/a24167.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "d5/de6/a24167.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "d5/de6/a24167.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "d5/de6/a24167.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

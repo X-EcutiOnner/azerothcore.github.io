@@ -1,6 +1,6 @@
 var a17691 =
 [
-    [ "OnAbsorb", "df/d1c/a17691.html#aa6582457cd0502ca263433d04b40b64f", null ],
-    [ "PrepareAuraScript", "df/d1c/a17691.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
-    [ "Register", "df/d1c/a17691.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
+    [ "boss_prince_taldaramAI", "d6/db7/a17695.html", "d6/db7/a17695" ],
+    [ "boss_prince_taldaram_icc", "df/d1c/a17691.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
+    [ "GetAI", "df/d1c/a17691.html#a2a8c89206ab72afc68260f41a246da3b", null ]
 ];

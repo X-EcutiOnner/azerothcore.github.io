@@ -1,6 +1,8 @@
 var a26947 =
 [
-    [ "HandleEffectPeriodic", "d2/d99/a26947.html#ab283b40ceb6dcd0a835550531321ce92", null ],
-    [ "PrepareAuraScript", "d2/d99/a26947.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
-    [ "Register", "d2/d99/a26947.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
+    [ "AfterCheckProc", "d2/d99/a26947.html#ad817bc9b07538434956bf64ea1dd0367", null ],
+    [ "HandleProc", "d2/d99/a26947.html#af972e6ed5524dadd618d6cd907c0241b", null ],
+    [ "PrepareAuraScript", "d2/d99/a26947.html#a0fbc28d9a524b6dff6783077ecd0b3b9", null ],
+    [ "Register", "d2/d99/a26947.html#a2cab6b2b0ff567fca6530fa4d917aec1", null ],
+    [ "Validate", "d2/d99/a26947.html#aa15febbd22621da12b567fc429917bf0", null ]
 ];

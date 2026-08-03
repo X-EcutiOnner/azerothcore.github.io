@@ -1,7 +1,7 @@
 var a26535 =
 [
-    [ "HandleProc", "d8/d4d/a26535.html#acec80390545c0ae674aeed8155333e6b", null ],
-    [ "PrepareAuraScript", "d8/d4d/a26535.html#a84a503ad6d4848333640ddd347a7476a", null ],
-    [ "Register", "d8/d4d/a26535.html#ae79f1ce6dc1d6c0823c8da8b6086efab", null ],
-    [ "Validate", "d8/d4d/a26535.html#a11a4d6e297251b5611e3faa1c3c33e13", null ]
+    [ "CalculateSpellAmount", "d8/d4d/a26535.html#ae99e08e78cf8192ea2d6210432d7a72d", null ],
+    [ "CheckCast", "d8/d4d/a26535.html#af043f7ee0f80baf667e64225effd57d1", null ],
+    [ "PrepareSpellScript", "d8/d4d/a26535.html#a233ac4020722078d865cf980d7fa76cf", null ],
+    [ "Register", "d8/d4d/a26535.html#a3648ecd94430e21dd014795156c1eb98", null ]
 ];

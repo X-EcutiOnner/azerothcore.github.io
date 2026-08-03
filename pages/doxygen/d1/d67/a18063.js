@@ -1,9 +1,9 @@
 var a18063 =
 [
-    [ "CheckAreaTarget", "d1/d67/a18063.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
-    [ "HandleApply", "d1/d67/a18063.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
-    [ "Load", "d1/d67/a18063.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
-    [ "PrepareAuraScript", "d1/d67/a18063.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
-    [ "Register", "d1/d67/a18063.html#a8f476129e0678149463c4b16232f6cb6", null ],
-    [ "_teamIdInInstance", "d1/d67/a18063.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
+    [ "CheckAreaTarget", "d1/d67/a18063.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
+    [ "HandleApply", "d1/d67/a18063.html#a9ce86d32957af07313af379b4176d0b3", null ],
+    [ "HandleRemove", "d1/d67/a18063.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
+    [ "Load", "d1/d67/a18063.html#aa10821981f3e80262850e5c46449d5d0", null ],
+    [ "PrepareAuraScript", "d1/d67/a18063.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
+    [ "Register", "d1/d67/a18063.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
 ];

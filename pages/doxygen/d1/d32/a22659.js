@@ -1,9 +1,8 @@
 var a22659 =
 [
-    [ "FilterTargets", "d1/d32/a22659.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "d1/d32/a22659.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "d1/d32/a22659.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "d1/d32/a22659.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "d1/d32/a22659.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "d1/d32/a22659.html#a814083360970284a325621f45e109b5b", null ]
+    [ "boss_pandemonius", "d1/d32/a22659.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "d1/d32/a22659.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "d1/d32/a22659.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "d1/d32/a22659.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "d1/d32/a22659.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

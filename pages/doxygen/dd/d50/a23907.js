@@ -1,6 +1,6 @@
 var a23907 =
 [
-    [ "HandleEffectRemove", "dd/d50/a23907.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
-    [ "PrepareAuraScript", "dd/d50/a23907.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
-    [ "Register", "dd/d50/a23907.html#ac02217c103db141d75377e233e1e4242", null ]
+    [ "HandleScriptEffect", "dd/d50/a23907.html#a724e857ad8604ef4546c8823bb7bd632", null ],
+    [ "PrepareSpellScript", "dd/d50/a23907.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
+    [ "Register", "dd/d50/a23907.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
 ];

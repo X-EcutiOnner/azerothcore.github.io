@@ -1,6 +1,9 @@
 var a10019 =
 [
-    [ "DoorInfo", "dc/dfd/a10019.html#a26f4849a1d68df466e6db0ccbb8d001b", null ],
-    [ "bossInfo", "dc/dfd/a10019.html#a14f7742a1b272d0cd76dda6ce28cde26", null ],
-    [ "type", "dc/dfd/a10019.html#ad77a91752ea10a11c8e73655e63dd5c1", null ]
+    [ "BroadcastTextID", "dc/dfd/a10019.html#a756f24dbee852a7fbe152c0cb082c412", null ],
+    [ "Emotes", "dc/dfd/a10019.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
+    [ "Language", "dc/dfd/a10019.html#a33bc5a0c156918b00380710aeb275d3d", null ],
+    [ "Probability", "dc/dfd/a10019.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
+    [ "Text_0", "dc/dfd/a10019.html#a046d637b91807db067c6e7050184322d", null ],
+    [ "Text_1", "dc/dfd/a10019.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
 ];

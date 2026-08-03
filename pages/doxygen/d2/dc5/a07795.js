@@ -1,11 +1,9 @@
 var a07795 =
 [
-    [ "BattlegroundSAScore", "d2/dc5/a07795.html#afb1312e304eee973740cfe208657c5b9", null ],
-    [ "BuildObjectivesBlock", "d2/dc5/a07795.html#a57bf8241b404571cda5a8e113c334eab", null ],
-    [ "GetAttr1", "d2/dc5/a07795.html#aa31cd91ede928c57cd201dba61f7f585", null ],
-    [ "GetAttr2", "d2/dc5/a07795.html#aba47bb1ec440f405bfde8513c60ae576", null ],
-    [ "UpdateScore", "d2/dc5/a07795.html#a169a2a0a51edb6564e98c4b55f3e8a3b", null ],
-    [ "BattlegroundSA", "d2/dc5/a07795.html#ab31c13442be48941f5dab4214b95cde9", null ],
-    [ "DemolishersDestroyed", "d2/dc5/a07795.html#ac49c28efa42cfad7232268de4be45e66", null ],
-    [ "GatesDestroyed", "d2/dc5/a07795.html#aeb1310b64150dd51f91722574a9dd3fc", null ]
+    [ "BattlegroundEYLosingPointStruct", "d2/dc5/a07795.html#ae3f19e55206e1a8097fe173a8a37aa12", null ],
+    [ "DespawnObjectTypeAlliance", "d2/dc5/a07795.html#a210828d05ea9948484631b7408a3bb4b", null ],
+    [ "DespawnObjectTypeHorde", "d2/dc5/a07795.html#a335205cb71b7055db4c01a5e562001b6", null ],
+    [ "MessageIdAlliance", "d2/dc5/a07795.html#afe89eccc8c21351edb4ce943d937e521", null ],
+    [ "MessageIdHorde", "d2/dc5/a07795.html#a8295974ee1f663dd0d22bcc4f0e0fa92", null ],
+    [ "SpawnNeutralObjectType", "d2/dc5/a07795.html#a57c1a6f485ea6617b5218da411cae38f", null ]
 ];

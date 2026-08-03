@@ -1,10 +1,10 @@
 var a03926 =
 [
-    [ "OrcMoveEvent", "d2/def/a12830.html", "d2/def/a12830" ],
-    [ "OrcDeathEvent", "d3/dd3/a12834.html", "d3/dd3/a12834" ],
-    [ "boss_the_beast", "df/d72/a12838.html", "df/d72/a12838" ],
-    [ "at_trigger_the_beast_movement", "d2/de1/a12842.html", "d2/de1/a12842" ],
-    [ "at_the_beast_room", "d9/de7/a12846.html", "d9/de7/a12846" ],
+    [ "OrcMoveEvent", "d6/d9c/a12835.html", "d6/d9c/a12835" ],
+    [ "OrcDeathEvent", "da/de3/a12839.html", "da/de3/a12839" ],
+    [ "boss_the_beast", "dd/d1f/a12843.html", "dd/d1f/a12843" ],
+    [ "at_trigger_the_beast_movement", "db/d84/a12847.html", "db/d84/a12847" ],
+    [ "at_the_beast_room", "d9/d97/a12851.html", "d9/d97/a12851" ],
     [ "BeastMisc", "d1/d59/a03926.html#a90702f385b86278a300e5589aa870fe7", [
       [ "DATA_BEAST_REACHED", "d1/d59/a03926.html#a90702f385b86278a300e5589aa870fe7ab652dbca9c4dc475326463e0e5305849", null ],
       [ "DATA_BEAST_ROOM", "d1/d59/a03926.html#a90702f385b86278a300e5589aa870fe7a5f756bc946db358d3d20ce9b3ff1cffd", null ],
@@ -2777,6 +2777,7 @@ var a03926 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

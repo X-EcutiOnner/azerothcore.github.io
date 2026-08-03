@@ -1,9 +1,10 @@
 var a07735 =
 [
-    [ "BattlegroundEYLosingPointStruct", "db/dfa/a07735.html#ae3f19e55206e1a8097fe173a8a37aa12", null ],
-    [ "DespawnObjectTypeAlliance", "db/dfa/a07735.html#a210828d05ea9948484631b7408a3bb4b", null ],
-    [ "DespawnObjectTypeHorde", "db/dfa/a07735.html#a335205cb71b7055db4c01a5e562001b6", null ],
-    [ "MessageIdAlliance", "db/dfa/a07735.html#afe89eccc8c21351edb4ce943d937e521", null ],
-    [ "MessageIdHorde", "db/dfa/a07735.html#a8295974ee1f663dd0d22bcc4f0e0fa92", null ],
-    [ "SpawnNeutralObjectType", "db/dfa/a07735.html#a57c1a6f485ea6617b5218da411cae38f", null ]
+    [ "SelectionPool", "db/dfa/a07735.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
+    [ "AddGroup", "db/dfa/a07735.html#a87fe4747536355ad7affda76640a082e", null ],
+    [ "GetPlayerCount", "db/dfa/a07735.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
+    [ "Init", "db/dfa/a07735.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
+    [ "KickGroup", "db/dfa/a07735.html#a74fb708546a8612ca52b24b8472b71ef", null ],
+    [ "PlayerCount", "db/dfa/a07735.html#a0c08c47f68dbb45175efc524f4553e16", null ],
+    [ "SelectedGroups", "db/dfa/a07735.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
 ];

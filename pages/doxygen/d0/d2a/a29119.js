@@ -1,8 +1,5 @@
 var a29119 =
 [
-    [ "Color", "d0/d2a/a29119.html#a670fb4e2a31958f81d46047f74d9916f", null ],
-    [ "Comparator", "d0/d2a/a29119.html#ace0bdad11edd9db12e45d374da623793", null ],
-    [ "CompareColor", "d0/d2a/a29119.html#a801e2221bbb1b6aab67a57381901cf08", null ],
-    [ "ID", "d0/d2a/a29119.html#aae73769db40326d298bb1d04eef38871", null ],
-    [ "Value", "d0/d2a/a29119.html#ac314a9a6b447d386e31a286811f66538", null ]
+    [ "ID", "d0/d2a/a29119.html#a01bcdc3543d3ff250354acf5e0724c14", null ],
+    [ "spellId", "d0/d2a/a29119.html#aabbb95c091e0b0946bcb05746b1c23f3", null ]
 ];

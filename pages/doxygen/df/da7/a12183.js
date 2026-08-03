@@ -1,16 +1,13 @@
 var a12183 =
 [
-    [ "CheckContainer", "df/da7/a12183.html#a08e083224760d2bca1996da9cd9cb014", null ],
-    [ "CheckResultContainer", "df/da7/a12183.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
-    [ "WardenCheckMgr", "df/da7/a12183.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
-    [ "~WardenCheckMgr", "df/da7/a12183.html#a0d89190f580435337c328da4bf2497b8", null ],
-    [ "GetMaxValidCheckId", "df/da7/a12183.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
-    [ "GetWardenDataById", "df/da7/a12183.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
-    [ "GetWardenResultById", "df/da7/a12183.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
-    [ "instance", "df/da7/a12183.html#aba9de1e123070338dc0049db8d8f0663", null ],
-    [ "LoadWardenChecks", "df/da7/a12183.html#ad02847547a06d98c582d09992dce9d11", null ],
-    [ "LoadWardenOverrides", "df/da7/a12183.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
-    [ "CheckIdPool", "df/da7/a12183.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
-    [ "CheckResultStore", "df/da7/a12183.html#a4f0224b8377827aced304b28fdefbda7", null ],
-    [ "CheckStore", "df/da7/a12183.html#aac59e154d81b838f27c577af87b86bd1", null ]
+    [ "PlayerTextBuilder", "df/da7/a12183.html#a0740c581636009448fe2c29084db41ae", null ],
+    [ "operator()", "df/da7/a12183.html#a64d2905971ecd645e364a774f320a721", null ],
+    [ "_gender", "df/da7/a12183.html#aece205d3d523dcf6fefbdd9914943723", null ],
+    [ "_language", "df/da7/a12183.html#a934d4a519c2c7b4017805b3bc24a4714", null ],
+    [ "_msgType", "df/da7/a12183.html#af546f2788870b8b10b3405695ef81171", null ],
+    [ "_source", "df/da7/a12183.html#a9fe9f865b0ba84b5497e63947893533e", null ],
+    [ "_talker", "df/da7/a12183.html#a8a8cd00cc76e048500800938a773aa06", null ],
+    [ "_target", "df/da7/a12183.html#ac97cf187d079c5162e47bebb7024faa5", null ],
+    [ "_textGroup", "df/da7/a12183.html#ab44fe12e73da36acb1199987e8573467", null ],
+    [ "_textId", "df/da7/a12183.html#a17b33a9a05a77722219a85a71f3bbc5e", null ]
 ];

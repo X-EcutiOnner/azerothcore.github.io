@@ -1,6 +1,6 @@
 var a26883 =
 [
-    [ "HandleEffectApply", "d6/d3c/a26883.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
-    [ "PrepareAuraScript", "d6/d3c/a26883.html#a707504eccf42af77f6e6e927d208bc8c", null ],
-    [ "Register", "d6/d3c/a26883.html#a7aeaa28997bbe966274a738cf45323ed", null ]
+    [ "FilterTargets", "d6/d3c/a26883.html#a17626abdbc4066956b76945b11b3f0c6", null ],
+    [ "PrepareSpellScript", "d6/d3c/a26883.html#abfeb75060c1f930b33003dd1e458f882", null ],
+    [ "Register", "d6/d3c/a26883.html#a8e5146a57f181b17280d198bcd2e216d", null ]
 ];

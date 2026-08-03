@@ -1,7 +1,7 @@
 var a27479 =
 [
-    [ "HandleRemove", "d1/d94/a27479.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "d1/d94/a27479.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "d1/d94/a27479.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "d1/d94/a27479.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "CalculateAmount", "d1/d94/a27479.html#adc34e5742173d039f6050d5ccc0a2cae", null ],
+    [ "PrepareAuraScript", "d1/d94/a27479.html#aa966d001c3687403dfa2b13e998ca241", null ],
+    [ "Register", "d1/d94/a27479.html#aeecb9756d4304ed2316b6d2a8f0d6ac4", null ],
+    [ "Validate", "d1/d94/a27479.html#af1eee4d8e966d66fea04173e7481b5ce", null ]
 ];

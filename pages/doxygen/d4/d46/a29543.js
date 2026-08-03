@@ -1,11 +1,11 @@
 var a29543 =
 [
-    [ "SetUp", "d4/d46/a29543.html#a6905326495d9902c04075e1278ceee09", null ],
-    [ "TearDown", "d4/d46/a29543.html#a93922bbc8b0748ea2744da16bb9be908", null ],
-    [ "_map", "d4/d46/a29543.html#a7488073f59af18ddff83352153bce0f9", null ],
-    [ "_previousWorld", "d4/d46/a29543.html#a5098326e6ea76115910d5d87e9146106", null ],
-    [ "_snake", "d4/d46/a29543.html#a8fa5bbd89471aa9b332b27d2183b823d", null ],
-    [ "_targetA", "d4/d46/a29543.html#a57f036093e543f841c808380d3bb6708", null ],
-    [ "_targetB", "d4/d46/a29543.html#ae722aaab98cdbd47252f6b95df507679", null ],
-    [ "_worldMock", "d4/d46/a29543.html#ac4ea643a5b5a1e40790a254b2809c11b", null ]
+    [ "IsAvailable", "d4/d46/a29543.html#adfebd7a162ebae8396669de031c768a6", null ],
+    [ "operator bool", "d4/d46/a29543.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
+    [ "operator*", "d4/d46/a29543.html#a24733bf06b4a91abcf4945aa5303a275", null ],
+    [ "operator->", "d4/d46/a29543.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
+    [ "SecretMgr", "d4/d46/a29543.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
+    [ "lock", "d4/d46/a29543.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
+    [ "state", "d4/d46/a29543.html#a87dfa4e0dea4892689d328d4ca27af75", null ],
+    [ "value", "d4/d46/a29543.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
 ];

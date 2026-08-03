@@ -1,9 +1,6 @@
 var a29715 =
 [
-    [ "CreateSpellInfo", "de/d78/a29715.html#a83fe2676ce2ae1374600de46967aeae5", null ],
-    [ "SetUp", "de/d78/a29715.html#abd89fcaf8f8c38b5d992a21430f9ecdb", null ],
-    [ "TearDown", "de/d78/a29715.html#acb5697251398888a4cc282c359cfc4ec", null ],
-    [ "_originalWorld", "de/d78/a29715.html#ae44f699ee1acedae6ead179c3f012594", null ],
-    [ "_spellInfos", "de/d78/a29715.html#ac06654664782d249c4233f79990c817b", null ],
-    [ "_worldMock", "de/d78/a29715.html#a98d5f98dfc4d63705920b7b164530022", null ]
+    [ "SetUp", "de/d78/a29715.html#a3b073d640ac36d1a7ca92db5bc96bfde", null ],
+    [ "TearDown", "de/d78/a29715.html#a558a475bde12e46cc17b6246bf2dc223", null ],
+    [ "rbacData", "de/d78/a29715.html#a75551f5a3e94383cbc31bc1af4dbf19a", null ]
 ];

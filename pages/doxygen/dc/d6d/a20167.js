@@ -1,6 +1,7 @@
 var a20167 =
 [
-    [ "CheckAreaTarget", "dc/d6d/a20167.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
-    [ "PrepareAuraScript", "dc/d6d/a20167.html#a921b2f67c417244310398bd93061d61c", null ],
-    [ "Register", "dc/d6d/a20167.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
+    [ "OnRemove", "dc/d6d/a20167.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
+    [ "PrepareAuraScript", "dc/d6d/a20167.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
+    [ "Register", "dc/d6d/a20167.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
+    [ "Validate", "dc/d6d/a20167.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
 ];

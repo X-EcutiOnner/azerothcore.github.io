@@ -1,11 +1,5 @@
 var a20615 =
 [
-    [ "boss_thorim_sif_blizzard", "dc/d64/a20615.html#a7d4054eb43079fe13e5a7a6c85b461ec", null ],
-    [ "AttackStart", "dc/d64/a20615.html#ab41c744d8573b1f8ce5e82e798c9bd4f", null ],
-    [ "InitWaypoint", "dc/d64/a20615.html#a55424c77633aaa62e12581a818736441", null ],
-    [ "JustEngagedWith", "dc/d64/a20615.html#a019b50cc265dff0e92417482b85ccf64", null ],
-    [ "MoveInLineOfSight", "dc/d64/a20615.html#a6e5333d6a87956d2052c2212a3dcb0fa", null ],
-    [ "Reset", "dc/d64/a20615.html#a347fcc28a0bc660b9fa93fe7fc54eea0", null ],
-    [ "WaypointReached", "dc/d64/a20615.html#af69dfd0ec232c7e45d13b117988ba924", null ],
-    [ "WaypointReached", "dc/d64/a20615.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "achievement_kologarn_with_open_arms", "dc/d64/a20615.html#a94af961be5bbdf7783925148731ce7e4", null ],
+    [ "OnCheck", "dc/d64/a20615.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
 ];

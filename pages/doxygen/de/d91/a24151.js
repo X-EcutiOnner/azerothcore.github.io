@@ -1,8 +1,7 @@
 var a24151 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "de/d91/a24151.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "de/d91/a24151.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "de/d91/a24151.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "de/d91/a24151.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "de/d91/a24151.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "npc_maxx_a_million_escortAI", "dd/dc4/a24155.html", "dd/dc4/a24155" ],
+    [ "npc_maxx_a_million_escort", "de/d91/a24151.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "de/d91/a24151.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "de/d91/a24151.html#aa9a3c655ed09b1264afd8e9ca6965bf5", null ]
 ];

@@ -1,10 +1,5 @@
 var a20331 =
 [
-    [ "HandleEffectPeriodic", "db/d79/a20331.html#aa62be73e00d9cb512806787eaf1c4144", null ],
-    [ "Load", "db/d79/a20331.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
-    [ "PrepareAuraScript", "db/d79/a20331.html#ad9664bff267b330565d3c706e1752e9d", null ],
-    [ "Register", "db/d79/a20331.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
-    [ "Validate", "db/d79/a20331.html#a3f6653b4ca202d9b0971189930e8b463", null ],
-    [ "_counter", "db/d79/a20331.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
-    [ "_prev", "db/d79/a20331.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
+    [ "achievement_flame_leviathan_shutout", "db/d79/a20331.html#a555e0d206b7f730665d301c7e03b23e6", null ],
+    [ "OnCheck", "db/d79/a20331.html#af548232f563fd387bc8ee25b696a2f99", null ]
 ];

@@ -1,6 +1,7 @@
 var a21523 =
 [
-    [ "npc_future_youAI", "d8/d88/a21527.html", "d8/d88/a21527" ],
-    [ "npc_future_you", "df/d99/a21523.html#a36e363156bcb32fee468989062817bd5", null ],
-    [ "GetAI", "df/d99/a21523.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
+    [ "npc_azure_stalker", "df/d99/a21523.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
+    [ "Reset", "df/d99/a21523.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
+    [ "UpdateAI", "df/d99/a21523.html#a22352aad7c55a4d454b9732469395139", null ],
+    [ "_events", "df/d99/a21523.html#ad83249d787d2f763ac2d01723ff305ef", null ]
 ];

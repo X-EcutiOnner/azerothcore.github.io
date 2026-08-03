@@ -1,6 +1,7 @@
 var a11959 =
 [
-    [ "HitHandler", "d9/d7b/a11959.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
-    [ "Call", "d9/d7b/a11959.html#a157baaa3ceba62a9910cba5377bd7699", null ],
-    [ "pHitHandlerScript", "d9/d7b/a11959.html#ac24144e49930a01a3049740a4072f626", null ]
+    [ "attributeMask", "d9/d7b/a11959.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
+    [ "customChance", "d9/d7b/a11959.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
+    [ "PPMChance", "d9/d7b/a11959.html#adb76c11f0073a2738374c98c01fda009", null ],
+    [ "procEx", "d9/d7b/a11959.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
 ];

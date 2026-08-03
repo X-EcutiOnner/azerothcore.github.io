@@ -1,6 +1,5 @@
 var a19691 =
 [
-    [ "boss_drakosAI", "de/d3f/a19695.html", "de/d3f/a19695" ],
-    [ "boss_drakos", "df/d15/a19691.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "df/d15/a19691.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "npc_mr_bigglesworth", "df/d15/a19691.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
+    [ "JustDied", "df/d15/a19691.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
 ];

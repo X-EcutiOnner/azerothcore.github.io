@@ -1,12 +1,17 @@
 var a07567 =
 [
-    [ "Arena", "db/d1c/a07567.html#a74f105bc709d4728fb07f1984abfd345", null ],
-    [ "AddPlayer", "db/d1c/a07567.html#ae24fe304d35c0c09379203135e936450", null ],
-    [ "CheckWinConditions", "db/d1c/a07567.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
-    [ "EndBattleground", "db/d1c/a07567.html#a2be61602189b530a16a9ca954d180914", null ],
-    [ "FillInitialWorldStates", "db/d1c/a07567.html#a592100d0f0ed492a5cdf941e57db787f", null ],
-    [ "HandleKillPlayer", "db/d1c/a07567.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
-    [ "RemovePlayer", "db/d1c/a07567.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
-    [ "RemovePlayerAtLeave", "db/d1c/a07567.html#acae21233e11b21b612e5c051bfa7720e", null ],
-    [ "UpdateArenaWorldState", "db/d1c/a07567.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
+    [ "BfGraveyard", "db/d1c/a07567.html#a47eb2f535fdce943de03d8daca7f0fd8", null ],
+    [ "~BfGraveyard", "db/d1c/a07567.html#a18171fd6fbfe7529bb61fd444e762f36", null ],
+    [ "GetControlTeamId", "db/d1c/a07567.html#ac417eb4b9ff8f7c6f19e2148eb81131c", null ],
+    [ "GetDistance", "db/d1c/a07567.html#ae290db2a83278c27803d62267aebfb71", null ],
+    [ "GetGraveyardId", "db/d1c/a07567.html#ac7944db0403c37282ca90550f8ca4118", null ],
+    [ "GetSpiritGuide", "db/d1c/a07567.html#a30536791ab71cc2a0a73cdf0993ca2d3", null ],
+    [ "GiveControlTo", "db/d1c/a07567.html#a9fe22d9ebbe1b652322b9a8e5f18ee91", null ],
+    [ "HasNpc", "db/d1c/a07567.html#a5f02be27972ae3f9aa8213ddb8c8b8d2", null ],
+    [ "Initialize", "db/d1c/a07567.html#a348c0a492efab96df8855f94969c7300", null ],
+    [ "SetSpirit", "db/d1c/a07567.html#ab4385a55321e8cf90e91bd10a04f1ddf", null ],
+    [ "Bf", "db/d1c/a07567.html#a30abf6abb0dc36c9376f6f405a0a9f4e", null ],
+    [ "ControlTeam", "db/d1c/a07567.html#a4d97eae10ede29d7e617b237e2c3fe20", null ],
+    [ "GraveyardId", "db/d1c/a07567.html#a06d1c713e7180a9b4c32882835122212", null ],
+    [ "SpiritGuide", "db/d1c/a07567.html#a528a36fbd481cb5173d742ac125a2f62", null ]
 ];

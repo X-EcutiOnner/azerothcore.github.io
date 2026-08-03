@@ -1,7 +1,4 @@
 var a11495 =
 [
-    [ "TimeQueryResponse", "dd/dd9/a11495.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
-    [ "Write", "dd/dd9/a11495.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
-    [ "ServerTime", "dd/dd9/a11495.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
-    [ "TimeResponse", "dd/dd9/a11495.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
+    [ "Validate", "dd/dd9/a11495.html#a25f2d2033711c905ed702d844416c250", null ]
 ];

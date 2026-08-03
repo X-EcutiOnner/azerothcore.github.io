@@ -1,7 +1,7 @@
 var a04601 =
 [
-    [ "boss_infinite_corruptor", "db/d8c/a15254.html", "db/d8c/a15254" ],
-    [ "boss_infinite_corruptor::boss_infinite_corruptorAI", "da/d94/a15258.html", "da/d94/a15258" ],
+    [ "boss_infinite_corruptor", "d0/d2d/a15251.html", "d0/d2d/a15251" ],
+    [ "boss_infinite_corruptor::boss_infinite_corruptorAI", "df/d27/a15255.html", "df/d27/a15255" ],
     [ "Events", "d8/d7c/a04601.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d0/dbc/a03752.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d0/dbc/a03752.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -2767,6 +2767,7 @@ var a04601 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

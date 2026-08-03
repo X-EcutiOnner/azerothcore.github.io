@@ -1,6 +1,7 @@
 var a16539 =
 [
-    [ "HandleForceCast", "d1/d5e/a16539.html#a975b69649aba9de341f4e52c82a3c111", null ],
-    [ "PrepareSpellScript", "d1/d5e/a16539.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
-    [ "Register", "d1/d5e/a16539.html#a794a59e5fd3bda75f30d559f422895b5", null ]
+    [ "CheckDistance", "d1/d5e/a16539.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
+    [ "PrepareSpellScript", "d1/d5e/a16539.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
+    [ "Register", "d1/d5e/a16539.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
+    [ "Validate", "d1/d5e/a16539.html#aa5d7a420154b156ca24e73de2faf912a", null ]
 ];

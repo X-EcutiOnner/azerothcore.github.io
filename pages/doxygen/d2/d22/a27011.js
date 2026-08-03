@@ -1,6 +1,6 @@
 var a27011 =
 [
-    [ "PrepareAuraScript", "d2/d22/a27011.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
-    [ "Register", "d2/d22/a27011.html#a91f4b2b8796c7efab2f622893a393619", null ],
-    [ "AuraEffectHandleModes", "d2/d22/a27011.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
+    [ "CheckCast", "d2/d22/a27011.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
+    [ "PrepareSpellScript", "d2/d22/a27011.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
+    [ "Register", "d2/d22/a27011.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
 ];

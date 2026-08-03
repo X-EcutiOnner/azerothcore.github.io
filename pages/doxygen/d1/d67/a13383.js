@@ -1,7 +1,7 @@
 var a13383 =
 [
-    [ "HandleScriptEffect", "d1/d67/a13383.html#a1cdba27f7311021407307bcd35235fed", null ],
-    [ "PrepareSpellScript", "d1/d67/a13383.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
-    [ "Register", "d1/d67/a13383.html#a9794991aa1710ce37112888eeb572796", null ],
-    [ "Validate", "d1/d67/a13383.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
+    [ "PeriodicTick", "d1/d67/a13383.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
+    [ "PrepareAuraScript", "d1/d67/a13383.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
+    [ "Register", "d1/d67/a13383.html#a2681d44b149e9f1d797df4147e20e686", null ],
+    [ "Validate", "d1/d67/a13383.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
 ];

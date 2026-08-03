@@ -1,6 +1,7 @@
 var a16035 =
 [
-    [ "npc_aquementasAI", "d9/d77/a16039.html", "d9/d77/a16039" ],
-    [ "npc_aquementas", "d4/d13/a16035.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
-    [ "GetAI", "d4/d13/a16035.html#a8a071b3073d69306feb84aca347a22c8", null ]
+    [ "npc_giant_spotlightAI", "d4/d13/a16035.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "d4/d13/a16035.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "d4/d13/a16035.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "d4/d13/a16035.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

@@ -1,6 +1,6 @@
 var a17595 =
 [
-    [ "StandUpEvent", "d0/db2/a17595.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
-    [ "Execute", "d0/db2/a17595.html#a56bc1071300ff8f81e62839685e8f53a", null ],
-    [ "_owner", "d0/db2/a17595.html#a456a494140657d81b203834f7b88d5d1", null ]
+    [ "npc_living_mojoAI", "db/d8c/a17599.html", "db/d8c/a17599" ],
+    [ "npc_living_mojo", "d0/db2/a17595.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "d0/db2/a17595.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

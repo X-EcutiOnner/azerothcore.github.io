@@ -1,7 +1,7 @@
 var a25419 =
 [
-    [ "HandleDummy", "d1/dc4/a25419.html#a5b25d03bb22995e1ba9deb7eec4ee35a", null ],
-    [ "Load", "d1/dc4/a25419.html#a833d9abe12cb4fff1700b97bc7215c1d", null ],
-    [ "PrepareSpellScript", "d1/dc4/a25419.html#a547b3f71f9fc502dc589ad7b9b6f3cc2", null ],
-    [ "Register", "d1/dc4/a25419.html#ae7d502253b0c47921e40da4aa87b0eef", null ]
+    [ "EjectPassenger", "d1/dc4/a25419.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
+    [ "PrepareSpellScript", "d1/dc4/a25419.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
+    [ "Register", "d1/dc4/a25419.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
+    [ "Validate", "d1/dc4/a25419.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
 ];

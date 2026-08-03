@@ -1,7 +1,7 @@
 var a16911 =
 [
-    [ "npc_toc_enh_shamanAI", "d3/daa/a16911.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "d3/daa/a16911.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "d3/daa/a16911.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "d3/daa/a16911.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "npc_toc_paladinAI", "d3/daa/a16911.html#a025d39c04e864ebd77f4f930ec20b1e5", null ],
+    [ "myCanCast", "d3/daa/a16911.html#a06130e6e440d0b25d8b5566de6190cbc", null ],
+    [ "UpdateAI", "d3/daa/a16911.html#a32943f1c3ffd0239c85ac1b81786f049", null ],
+    [ "events", "d3/daa/a16911.html#ae47a32bbb05cf2f634ae18bc672ec004", null ]
 ];

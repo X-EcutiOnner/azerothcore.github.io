@@ -1,17 +1,7 @@
 var a29479 =
 [
-    [ "SetUp", "d4/d84/a29479.html#a33892cef920194ce17a4214cbcb5e121", null ],
-    [ "TearDown", "d4/d84/a29479.html#a24f14af6367811ce0d723cbec878b171", null ],
-    [ "PERM_ADMIN_1", "d4/d84/a29479.html#a672ecd08a005d73126fe8670785a42d3", null ],
-    [ "PERM_ADMIN_2", "d4/d84/a29479.html#a6b5c599d3b6586dccf829953df596197", null ],
-    [ "PERM_GM_1", "d4/d84/a29479.html#a0e05f907e00713517154426b99250684", null ],
-    [ "PERM_GM_2", "d4/d84/a29479.html#ae70a8f0c6dcd4a80e09c1a8d3af717e4", null ],
-    [ "PERM_MOD_1", "d4/d84/a29479.html#a1ca61ce12e74ab1274396570a66b20e8", null ],
-    [ "PERM_MOD_2", "d4/d84/a29479.html#a16d04ded09be3ef901ce71166a5f47e5", null ],
-    [ "PERM_PLAYER_1", "d4/d84/a29479.html#a947d93a663cf65d175795597fd471b05", null ],
-    [ "PERM_PLAYER_2", "d4/d84/a29479.html#af8ca567b623c9148b810486c7a23736a", null ],
-    [ "ROLE_ADMIN", "d4/d84/a29479.html#aefc211c8148b3a009dcf1f2b6364d379", null ],
-    [ "ROLE_GM", "d4/d84/a29479.html#a16113a522ad1e512c7f81ea293ffaa5c", null ],
-    [ "ROLE_MOD", "d4/d84/a29479.html#a7311596e545687f3398f3203e9e7d6d8", null ],
-    [ "ROLE_PLAYER", "d4/d84/a29479.html#a9e3cd3dc656e8911ac328abcfd85162a", null ]
+    [ "TalentSpellPos", "d4/d84/a29479.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
+    [ "TalentSpellPos", "d4/d84/a29479.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
+    [ "rank", "d4/d84/a29479.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
+    [ "talent_id", "d4/d84/a29479.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
 ];

@@ -1,5 +1,6 @@
 var a23227 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d5/d4d/a23227.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
-    [ "Initialize", "d5/d4d/a23227.html#a9c7c10020eef3db4794283c0f946d086", null ]
+    [ "HandleScriptEffect", "d5/d4d/a23227.html#a18fb2e73a00f1de7c62049eadfcbc658", null ],
+    [ "PrepareSpellScript", "d5/d4d/a23227.html#ae80b4ca96692035c399d1621b632fe66", null ],
+    [ "Register", "d5/d4d/a23227.html#ac655157c74104a51f045e114fc63a42d", null ]
 ];

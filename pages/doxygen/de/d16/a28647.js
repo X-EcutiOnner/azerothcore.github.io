@@ -1,4 +1,5 @@
 var a28647 =
 [
-    [ "Id", "de/d16/a28647.html#aebb809589854147a8a521263968ed6d9", null ]
+    [ "npc_controller", "de/d16/a28647.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
+    [ "OnCharmed", "de/d16/a28647.html#a69628677de225d76a8c89b4626e0f32b", null ]
 ];

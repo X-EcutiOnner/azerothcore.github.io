@@ -1,9 +1,10 @@
 var a08163 =
 [
-    [ "HyperlinkColor", "dd/d21/a08163.html#a4b246814aa2e2ac930e1e9e4e79345f0", null ],
-    [ "operator==", "dd/d21/a08163.html#aad186f06a8d61834ec94d29d305fa0f2", null ],
-    [ "a", "dd/d21/a08163.html#a57d68da0bcaec609d89efb18185b7f03", null ],
-    [ "b", "dd/d21/a08163.html#a5ef7a2aab07e2e9a5097a27a466adeca", null ],
-    [ "g", "dd/d21/a08163.html#a4570365880f14c7f7c5e7d96332ae150", null ],
-    [ "r", "dd/d21/a08163.html#a1b4e0f604b95a773d28b93601af8ffe0", null ]
+    [ "Achievement", "dd/d21/a08163.html#a03caf33cfc9f75dfdbba2dedc747e0ce", null ],
+    [ "CharacterId", "dd/d21/a08163.html#a0ec541a4e11d9e19f7cced7e839b1ebb", null ],
+    [ "Criteria", "dd/d21/a08163.html#a4eae1ba9b211d8c8307000ddae428348", null ],
+    [ "Day", "dd/d21/a08163.html#a216aaf4eed90eeb05662631e8f89b4ab", null ],
+    [ "IsFinished", "dd/d21/a08163.html#a1aff3d0a28a12f0e4ee10bca376f335c", null ],
+    [ "Month", "dd/d21/a08163.html#a9be9cfb6a40c527e8f6b6ad381ed5b42", null ],
+    [ "Year", "dd/d21/a08163.html#a85612eac22d3233e620eb11e6e1b48b0", null ]
 ];

@@ -1,7 +1,6 @@
 var a15251 =
 [
-    [ "boss_epoch_hunter", "d0/d2d/a15251.html#a652d14ebfced39b8164687a713780600", null ],
-    [ "JustDied", "d0/d2d/a15251.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
-    [ "JustEngagedWith", "d0/d2d/a15251.html#a2571f98f36d1271f3911617e0fdfba54", null ],
-    [ "KilledUnit", "d0/d2d/a15251.html#a61456e680e9108dd841e83d97536ef1b", null ]
+    [ "boss_infinite_corruptorAI", "df/d27/a15255.html", "df/d27/a15255" ],
+    [ "boss_infinite_corruptor", "d0/d2d/a15251.html#a78a939073ab44b818cefdb25419f92be", null ],
+    [ "GetAI", "d0/d2d/a15251.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
 ];

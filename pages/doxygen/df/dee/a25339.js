@@ -1,7 +1,7 @@
 var a25339 =
 [
-    [ "HandleProc", "df/dee/a25339.html#af2da4e2be8fbb73a398308a0cdc86112", null ],
-    [ "PrepareAuraScript", "df/dee/a25339.html#af463b573b0202e74f77c46fadca3b5e0", null ],
-    [ "Register", "df/dee/a25339.html#a6e435d0802370379fa0d1707442eaa58", null ],
-    [ "Validate", "df/dee/a25339.html#a1fe293134b3f57386ab412357ce968e4", null ]
+    [ "HandleApplyEffect", "df/dee/a25339.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
+    [ "Load", "df/dee/a25339.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
+    [ "PrepareAuraScript", "df/dee/a25339.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
+    [ "Register", "df/dee/a25339.html#aed57fbbf473b8f15fa177261e4678e96", null ]
 ];

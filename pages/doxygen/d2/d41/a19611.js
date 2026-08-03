@@ -1,8 +1,6 @@
 var a19611 =
 [
-    [ "Load", "d2/d41/a19611.html#af8ef90a44a5405e58dbb3003642c078b", null ],
-    [ "PrepareSpellScript", "d2/d41/a19611.html#a40649371440d62e4ba8af1b077880d0b", null ],
-    [ "Register", "d2/d41/a19611.html#ae2e6dbec0ace878477b6024e45d8dac0", null ],
-    [ "SendThreeTargets", "d2/d41/a19611.html#ab16b83839ce9136da84691640020f846", null ],
-    [ "Validate", "d2/d41/a19611.html#a27686bfd0d6029cc4667738b0af4bec4", null ]
+    [ "boss_patchwerkAI", "d9/d51/a19615.html", "d9/d51/a19615" ],
+    [ "boss_patchwerk", "d2/d41/a19611.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
+    [ "GetAI", "d2/d41/a19611.html#a03f2dec61192405760958e26d998d67e", null ]
 ];

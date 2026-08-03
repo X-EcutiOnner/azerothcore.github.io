@@ -1,8 +1,6 @@
 var a20299 =
 [
-    [ "npc_ulduar_flash_freeze", "d6/d89/a20299.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
-    [ "DamageTaken", "d6/d89/a20299.html#af381d671e1b64c6135ed6c76b1eef213", null ],
-    [ "UpdateAI", "d6/d89/a20299.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
-    [ "_instance", "d6/d89/a20299.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
-    [ "timer", "d6/d89/a20299.html#a016272492e1843b09c7c8b40537a463a", null ]
+    [ "OnPeriodic", "d6/d89/a20299.html#a379c55df994c58932fef7e7a59fd8426", null ],
+    [ "PrepareAuraScript", "d6/d89/a20299.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
+    [ "Register", "d6/d89/a20299.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
 ];

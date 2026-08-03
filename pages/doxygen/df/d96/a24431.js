@@ -1,7 +1,9 @@
 var a24431 =
 [
-    [ "HandleProc", "df/d96/a24431.html#a60def76554cd5cf94d84ec1240d651dc", null ],
-    [ "PrepareAuraScript", "df/d96/a24431.html#ae78484c4af6ddfcd6bf60df191f9db48", null ],
-    [ "Register", "df/d96/a24431.html#a276526f7f988ce579dc67dc37eebbe87", null ],
-    [ "Validate", "df/d96/a24431.html#a65986abd9db0dcfb70c8c8b21ff208ac", null ]
+    [ "npc_pet_gen_fetch_ball", "df/d96/a24431.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
+    [ "IsSummonedBy", "df/d96/a24431.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
+    [ "SpellHitTarget", "df/d96/a24431.html#a87bdded236f6584d9b71507a1253f7d0", null ],
+    [ "UpdateAI", "df/d96/a24431.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
+    [ "checkTimer", "df/d96/a24431.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
+    [ "targetGUID", "df/d96/a24431.html#ae474374af7c2270e218ed236d90c789c", null ]
 ];

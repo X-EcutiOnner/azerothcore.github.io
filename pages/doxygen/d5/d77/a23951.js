@@ -1,6 +1,6 @@
 var a23951 =
 [
-    [ "npc_dragonmaw_peonAI", "d2/d1b/a23955.html", "d2/d1b/a23955" ],
-    [ "npc_dragonmaw_peon", "d5/d77/a23951.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
-    [ "GetAI", "d5/d77/a23951.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
+    [ "HandleAfterRemove", "d5/d77/a23951.html#ac9756a8f206c114ff6443331ca266184", null ],
+    [ "PrepareAuraScript", "d5/d77/a23951.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
+    [ "Register", "d5/d77/a23951.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
 ];

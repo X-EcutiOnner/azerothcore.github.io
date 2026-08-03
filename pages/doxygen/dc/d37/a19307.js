@@ -1,13 +1,13 @@
 var a19307 =
 [
-    [ "boss_anubrekhan", "dc/d37/a19307.html#ad748de528ca78739236b9586ddaa19bd", null ],
-    [ "JustDied", "dc/d37/a19307.html#a9dfb1b89c4f47235e463d90f17522113", null ],
-    [ "JustEngagedWith", "dc/d37/a19307.html#a97d56653381e7a7f8c724263148cd61e", null ],
-    [ "JustSummoned", "dc/d37/a19307.html#af1a01ff6c9790e1660619767c16cfd94", null ],
-    [ "KilledUnit", "dc/d37/a19307.html#a73906e3681c767e5818d380e77525ba2", null ],
-    [ "MoveInLineOfSight", "dc/d37/a19307.html#a9fcbc921973e0bd02867217d15efcc64", null ],
-    [ "Reset", "dc/d37/a19307.html#a1a495fddf89c4c92136d1fd61fba6594", null ],
-    [ "SummonCryptGuards", "dc/d37/a19307.html#a30d2e7464cffc6894882897ed0d66c6a", null ],
-    [ "SummonedCreatureDies", "dc/d37/a19307.html#a12b4f2878b54f5bd34c470d2c7b40098", null ],
-    [ "_sayGreet", "dc/d37/a19307.html#a7f61eb4aab4d0bf81480dea011b11f95", null ]
+    [ "npc_icc_spire_frostwyrm", "dc/d37/a19307.html#a8fdfc70108e3294e0fcc3c7ed895074e", null ],
+    [ "CanAIAttack", "dc/d37/a19307.html#ab3364130aacf675602317651a244ae2c", null ],
+    [ "DoAction", "dc/d37/a19307.html#a44edf33b25bdfce3b2bd3a8ec487fd9e", null ],
+    [ "JustEngagedWith", "dc/d37/a19307.html#abfc762cea6b7e40aaaff50b933410127", null ],
+    [ "JustReachedHome", "dc/d37/a19307.html#a144e8cafc020f5c43aae1fdc4a38a10d", null ],
+    [ "MovementInform", "dc/d37/a19307.html#a8e7f148580d91d42959e972ef18b271b", null ],
+    [ "Reset", "dc/d37/a19307.html#a572add30e78af15a8d5d6918169802da", null ],
+    [ "UpdateAI", "dc/d37/a19307.html#ad193a9355e11ea25792e6285d375a488", null ],
+    [ "_canResetFlyingEffects", "dc/d37/a19307.html#a262d843fcb13a444ae377729135ca14d", null ],
+    [ "_scheduler", "dc/d37/a19307.html#a822096df7b1803d92e05ca27d544bd26", null ]
 ];

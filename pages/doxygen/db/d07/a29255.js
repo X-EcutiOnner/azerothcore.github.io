@@ -1,13 +1,7 @@
 var a29255 =
 [
-    [ "Secret", "d8/dcd/a29259.html", "d8/dcd/a29259" ],
-    [ "SecretMgr", "db/d07/a29255.html#a28ee0858a14656d7fc464eb604b127b7", null ],
-    [ "~SecretMgr", "db/d07/a29255.html#ae6f15def262312b17456583b4e548d99", null ],
-    [ "SecretMgr", "db/d07/a29255.html#ab48b891b84f116dc5efffe0a10a82f79", null ],
-    [ "AttemptLoad", "db/d07/a29255.html#a65c2fd304c0f851f81cd80037deac8fb", null ],
-    [ "AttemptTransition", "db/d07/a29255.html#a4b6cbe75e50ec3e4765fdb9e965ee84f", null ],
-    [ "GetSecret", "db/d07/a29255.html#aff0b6ca546a62a3d6e7da52c3a2752bd", null ],
-    [ "Initialize", "db/d07/a29255.html#a929de7b687d7c6bb91ef35306134ebac", null ],
-    [ "instance", "db/d07/a29255.html#a27e237503dc523367fa94bd28a289d97", null ],
-    [ "_secrets", "db/d07/a29255.html#a143bb8b3855a9f28df72abc9cfc94f3c", null ]
+    [ "AllocationPct", "db/d07/a29255.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
+    [ "Enchantment", "db/d07/a29255.html#a45e694082c1dbdeef5229561f617d584", null ],
+    [ "ID", "db/d07/a29255.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
+    [ "Name", "db/d07/a29255.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
 ];

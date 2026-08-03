@@ -1,14 +1,7 @@
 var a12391 =
 [
-    [ "list_commandscript", "d4/d21/a12391.html#a5a85953a46afe08fe05a11fe69c934dc", null ],
-    [ "GetCommands", "d4/d21/a12391.html#a949c6e6f372afb50e1116b6414acdd7c", null ],
-    [ "HandleListAllAurasCommand", "d4/d21/a12391.html#a93f1fe9131b917c813058899efede2a5", null ],
-    [ "HandleListAurasByIdCommand", "d4/d21/a12391.html#a3c59e8b85175ef056b07f566c231c221", null ],
-    [ "HandleListAurasByNameCommand", "d4/d21/a12391.html#a78d6be53ddae80068e2d9c04ea494e24", null ],
-    [ "HandleListCreatureCommand", "d4/d21/a12391.html#a48388f1c839cec6597c74740ec49fa68", null ],
-    [ "HandleListItemCommand", "d4/d21/a12391.html#a7d0aadb081f25c3d533951bd9841f103", null ],
-    [ "HandleListObjectCommand", "d4/d21/a12391.html#ac8b32be8650c9e54388320d650c9761b", null ],
-    [ "HandleListRespawnsCommand", "d4/d21/a12391.html#a463e9471442ef3fa465d3d223876a2db", null ],
-    [ "ListAurasCommand", "d4/d21/a12391.html#a98c9f6fb42e8030d76f234cdb02a72fb", null ],
-    [ "ShouldListAura", "d4/d21/a12391.html#afc42154ec5e978b366780fb600b17e8d", null ]
+    [ "achievement_commandscript", "d4/d21/a12391.html#ac1c40d7b3b628cc206c44eae18592292", null ],
+    [ "GetCommands", "d4/d21/a12391.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
+    [ "HandleAchievementAddCommand", "d4/d21/a12391.html#a81a8dc82481b38763d846444b9846da7", null ],
+    [ "HandleAchievementCheckAllCommand", "d4/d21/a12391.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
 ];

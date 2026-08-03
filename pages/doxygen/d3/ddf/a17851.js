@@ -1,7 +1,8 @@
 var a17851 =
 [
-    [ "HandleScript", "d3/ddf/a17851.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
-    [ "PrepareSpellScript", "d3/ddf/a17851.html#a8f668b88a41585cabeace574b30b4f85", null ],
-    [ "Register", "d3/ddf/a17851.html#a8fae161a91fae297b99079bde218ced8", null ],
-    [ "Validate", "d3/ddf/a17851.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
+    [ "npc_high_overlord_saurfangAI", "d9/d97/a17855.html", "d9/d97/a17855" ],
+    [ "npc_high_overlord_saurfang_icc", "d3/ddf/a17851.html#ac02fe80550572e142406c2d80c0392df", null ],
+    [ "GetAI", "d3/ddf/a17851.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
+    [ "OnGossipHello", "d3/ddf/a17851.html#a515a87f751527412222cfdd968febe7c", null ],
+    [ "OnGossipSelect", "d3/ddf/a17851.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
 ];

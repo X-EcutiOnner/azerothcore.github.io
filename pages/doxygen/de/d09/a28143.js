@@ -1,6 +1,6 @@
 var a28143 =
 [
-    [ "npc_innkeeper", "de/d09/a28143.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "de/d09/a28143.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "de/d09/a28143.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "boss_taerarAI", "dc/de9/a28147.html", "dc/de9/a28147" ],
+    [ "boss_taerar", "de/d09/a28143.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "de/d09/a28143.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

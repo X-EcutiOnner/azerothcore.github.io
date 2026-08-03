@@ -1,7 +1,7 @@
 var a16919 =
 [
-    [ "npc_toc_retro_paladinAI", "d9/ddd/a16919.html#afe933281cea61c9a4f3ded76290a3b72", null ],
-    [ "myCanCast", "d9/ddd/a16919.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
-    [ "UpdateAI", "d9/ddd/a16919.html#a105d6b9c133c1147b310826d7be416f5", null ],
-    [ "events", "d9/ddd/a16919.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
+    [ "npc_toc_priestAI", "d9/ddd/a16919.html#aa362d2136193a8738e311bba18b87c90", null ],
+    [ "myCanCast", "d9/ddd/a16919.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
+    [ "UpdateAI", "d9/ddd/a16919.html#ae51d2ac95320909150c673b76c9856c7", null ],
+    [ "events", "d9/ddd/a16919.html#aa5be20e87351424e0e4698540fc1fef4", null ]
 ];

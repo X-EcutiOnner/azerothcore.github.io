@@ -1,7 +1,5 @@
 var a25571 =
 [
-    [ "CheckProc", "de/dcf/a25571.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
-    [ "HandleProc", "de/dcf/a25571.html#a5cf9cea911ead2f261522e55e94c745a", null ],
-    [ "PrepareAuraScript", "de/dcf/a25571.html#a3f2b20607f90ad641769eb284ddfab85", null ],
-    [ "Register", "de/dcf/a25571.html#a55557026689613e91aeabce1af442237", null ]
+    [ "PrepareSpellScript", "de/dcf/a25571.html#a5dcaeafcb11c79f7f2171a5a0c47e6f5", null ],
+    [ "Register", "de/dcf/a25571.html#a0ca6ec06108f964432f1cafc00b96313", null ]
 ];

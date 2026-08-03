@@ -1,8 +1,12 @@
 var a05165 =
 [
-    [ "CorpseMapPositionQuery", "de/d1a/a11582.html", "de/d1a/a11582" ],
-    [ "NameQuery", "d5/da0/a11566.html", "d5/da0/a11566" ],
-    [ "NameQueryResponse", "db/d6c/a11570.html", "db/d6c/a11570" ],
-    [ "TimeQuery", "d1/df1/a11574.html", "d1/df1/a11574" ],
-    [ "TimeQueryResponse", "db/d39/a11578.html", "db/d39/a11578" ]
+    [ "DismissCritter", "d8/dad/a11535.html", "d8/dad/a11535" ],
+    [ "PetAbandon", "d0/d04/a11539.html", "d0/d04/a11539" ],
+    [ "PetActionSound", "d8/dc7/a11563.html", "d8/dc7/a11563" ],
+    [ "PetDismissSound", "dd/d35/a11567.html", "dd/d35/a11567" ],
+    [ "PetLearnedSpell", "d4/dc2/a11551.html", "d4/dc2/a11551" ],
+    [ "PetSpellAutocast", "dd/dc8/a11547.html", "dd/dc8/a11547" ],
+    [ "PetStopAttack", "db/d6b/a11543.html", "db/d6b/a11543" ],
+    [ "PetUnlearnedSpell", "d5/d92/a11555.html", "d5/d92/a11555" ],
+    [ "RequestPetInfo", "d7/d9d/a11559.html", "d7/d9d/a11559" ]
 ];

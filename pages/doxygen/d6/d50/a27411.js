@@ -1,6 +1,6 @@
 var a27411 =
 [
-    [ "HandleAuraApply", "d6/d50/a27411.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
-    [ "PrepareAuraScript", "d6/d50/a27411.html#a6eedadacba366104fdca2791862be216", null ],
-    [ "Register", "d6/d50/a27411.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
+    [ "HandleEffectApply", "d6/d50/a27411.html#ab77ea5638ea12f2e305487b1080d0b0b", null ],
+    [ "PrepareAuraScript", "d6/d50/a27411.html#aed642c73ab31fb63aa497ada45863ae6", null ],
+    [ "Register", "d6/d50/a27411.html#ab9c68d7368ed71d2c5585df31b09cdd7", null ]
 ];

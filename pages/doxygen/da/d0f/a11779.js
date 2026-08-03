@@ -1,14 +1,19 @@
 var a11779 =
 [
-    [ "alive", "da/d0f/a11779.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
-    [ "crit", "da/d0f/a11779.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
-    [ "damage", "da/d0f/a11779.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
-    [ "damageBeforeTakenMods", "da/d0f/a11779.html#a85196e5b5865856962898c18001880c7", null ],
-    [ "effectMask", "da/d0f/a11779.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
-    [ "missCondition", "da/d0f/a11779.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
-    [ "processed", "da/d0f/a11779.html#a2de96d62297ff614fc3702bec035ce5b", null ],
-    [ "reflectResult", "da/d0f/a11779.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
-    [ "scaleAura", "da/d0f/a11779.html#a89bba366b26686d41288e9b2e725eb75", null ],
-    [ "targetGUID", "da/d0f/a11779.html#acf55c1dd6f00c94296c592d988f959cf", null ],
-    [ "timeDelay", "da/d0f/a11779.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
+    [ "PacketThrottlingMap", "da/d0f/a11779.html#aa41dd21032403490c49a400651c98855", null ],
+    [ "Policy", "da/d0f/a11779.html#abdee2870dbaa3341ecd6f682f87a63aa", [
+      [ "Process", "da/d0f/a11779.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe", null ],
+      [ "Kick", "da/d0f/a11779.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd", null ],
+      [ "Ban", "da/d0f/a11779.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9", null ],
+      [ "Log", "da/d0f/a11779.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b", null ],
+      [ "BlockingThrottle", "da/d0f/a11779.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb", null ],
+      [ "DropPacket", "da/d0f/a11779.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970", null ]
+    ] ],
+    [ "DosProtection", "da/d0f/a11779.html#a8e43f21b9c729db604c9afd90f68dc20", null ],
+    [ "DosProtection", "da/d0f/a11779.html#a8850d18ae254633f6bde5c85cbcef830", null ],
+    [ "EvaluateOpcode", "da/d0f/a11779.html#a575c7bcb895ad0a3d0456f0a99ee5ec7", null ],
+    [ "operator=", "da/d0f/a11779.html#a98394089b867ff6e8107b7975a67737d", null ],
+    [ "World", "da/d0f/a11779.html#a7b4bcdf992c21ae83363f25df05b1d25", null ],
+    [ "_PacketThrottlingMap", "da/d0f/a11779.html#ab74f0cf257d3db9076e3a8771de63eb3", null ],
+    [ "Session", "da/d0f/a11779.html#a3f3f5397fb30cdf14141480659b18208", null ]
 ];

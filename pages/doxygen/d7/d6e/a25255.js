@@ -1,8 +1,8 @@
 var a25255 =
 [
-    [ "OnApply", "d7/d6e/a25255.html#acf25199409ab6f991db15a784749aaf1", null ],
-    [ "OnRemove", "d7/d6e/a25255.html#a700513c27a2ae22581bbc61c8c4b523a", null ],
-    [ "PrepareAuraScript", "d7/d6e/a25255.html#ae6f93ab542d8f05a95745d7b10d1856a", null ],
-    [ "Register", "d7/d6e/a25255.html#a9332cb72f66e83f648b4ed02c8c074eb", null ],
-    [ "Validate", "d7/d6e/a25255.html#a09017d12ecf0ae0c3091cea17640782c", null ]
+    [ "AchievementCredit", "d7/d6e/a25255.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "d7/d6e/a25255.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "d7/d6e/a25255.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "d7/d6e/a25255.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "d7/d6e/a25255.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

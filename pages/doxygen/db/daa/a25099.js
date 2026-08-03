@@ -1,8 +1,6 @@
 var a25099 =
 [
-    [ "CheckCast", "db/daa/a25099.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
-    [ "HandleScript", "db/daa/a25099.html#a2c1702398e4cbdcc106679d534a27743", null ],
-    [ "PrepareSpellScript", "db/daa/a25099.html#a613bdf7841744632c1e6de147e0352b9", null ],
-    [ "Register", "db/daa/a25099.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
-    [ "Validate", "db/daa/a25099.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
+    [ "OnPeriodic", "db/daa/a25099.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
+    [ "PrepareAuraScript", "db/daa/a25099.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
+    [ "Register", "db/daa/a25099.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
 ];

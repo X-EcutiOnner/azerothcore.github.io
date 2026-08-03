@@ -1,6 +1,6 @@
 var a21891 =
 [
-    [ "ChangeSummonPos", "d5/dfc/a21891.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "d5/dfc/a21891.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "d5/dfc/a21891.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "npc_torturer_lecraftAI", "de/d25/a21895.html", "de/d25/a21895" ],
+    [ "npc_torturer_lecraft", "d5/dfc/a21891.html#a789f8bdafe96d5cb01225b940a80c651", null ],
+    [ "GetAI", "d5/dfc/a21891.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
 ];

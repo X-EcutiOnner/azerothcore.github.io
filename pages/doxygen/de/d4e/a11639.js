@@ -1,8 +1,5 @@
 var a11639 =
 [
-    [ "ServerPktHeader", "de/d4e/a11639.html#a761e294fccc02055a46bfc46656da706", null ],
-    [ "getHeaderLength", "de/d4e/a11639.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
-    [ "isLargePacket", "de/d4e/a11639.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
-    [ "header", "de/d4e/a11639.html#adc69128832b16124c284c584e7540b11", null ],
-    [ "size", "de/d4e/a11639.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
+    [ "QuestGiverQuestAutoLaunch", "de/d4e/a11639.html#a802f7bba88a650bc577cfc1fa29cb016", null ],
+    [ "Read", "de/d4e/a11639.html#a8e5d0c7821d7055fd7ad9f3f83589f57", null ]
 ];

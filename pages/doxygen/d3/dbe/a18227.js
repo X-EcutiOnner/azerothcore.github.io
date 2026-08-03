@@ -1,6 +1,6 @@
 var a18227 =
 [
-    [ "HandleScript", "d3/dbe/a18227.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
-    [ "PrepareSpellScript", "d3/dbe/a18227.html#a68c0462bd108b04621f8288328f78b18", null ],
-    [ "Register", "d3/dbe/a18227.html#aedaec0afc414800bc481a434592ffb5d", null ]
+    [ "npc_bone_spikeAI", "d8/d3e/a18231.html", "d8/d3e/a18231" ],
+    [ "npc_bone_spike", "d3/dbe/a18227.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "d3/dbe/a18227.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

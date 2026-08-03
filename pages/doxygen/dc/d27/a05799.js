@@ -1,9 +1,13 @@
 var a05799 =
 [
-    [ "IteratorPair", "dc/d27/a05799.html#ad2e586dfd291c34c82ec71d66e59f36c", null ],
-    [ "IteratorPair", "dc/d27/a05799.html#a446d4e8dd1146b053987d48d0dcef59d", null ],
-    [ "IteratorPair", "dc/d27/a05799.html#ae8b79501762f0c0ba6e2d769c56e9f8f", null ],
-    [ "begin", "dc/d27/a05799.html#a59ff07f1663a3f98f2e10a895ab37ae4", null ],
-    [ "end", "dc/d27/a05799.html#aa515ca48852213fb51a4d83e9d5c91d2", null ],
-    [ "_iterators", "dc/d27/a05799.html#a9b08728bc90076dd1db392982840c31e", null ]
+    [ "Node", "d5/d41/a05803.html", "d5/d41/a05803" ],
+    [ "StringType", "dc/d27/a05799.html#a190468425cf4a0621df5dc11462a005d", null ],
+    [ "StringViewType", "dc/d27/a05799.html#a3bffdd73d3b80a5709bab0c14d510b76", null ],
+    [ "AhoCorasick", "dc/d27/a05799.html#a4dc282eb219843ea3ec64802a0a99397", null ],
+    [ "Build", "dc/d27/a05799.html#acadbe68a1fac7c78d834e3e41e90c03c", null ],
+    [ "Clear", "dc/d27/a05799.html#a2a1f1025a714e141f17031bdcc5014ab", null ],
+    [ "ContainsAny", "dc/d27/a05799.html#adc4ef2a2b7484c5f7423c5227391166d", null ],
+    [ "Empty", "dc/d27/a05799.html#a776d8978db1f9fe958bd271d51ad7cf6", null ],
+    [ "Insert", "dc/d27/a05799.html#a1a08a72b3dcb19b69dff27f570352249", null ],
+    [ "_nodes", "dc/d27/a05799.html#a8454549daa1da98e8e0579acac2f4915", null ]
 ];

@@ -1,7 +1,6 @@
 var a11659 =
 [
-    [ "MapSessionFilter", "d6/d6a/a11659.html#ad11a700c36f8f45640402e96edc74b49", null ],
-    [ "~MapSessionFilter", "d6/d6a/a11659.html#a82960e741c8f64d24a764a915f14e2b8", null ],
-    [ "Process", "d6/d6a/a11659.html#a54483596fe2a5a0d30fab9a13506b375", null ],
-    [ "ProcessUnsafe", "d6/d6a/a11659.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
+    [ "TotemDestroyed", "d6/d6a/a11659.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
+    [ "Read", "d6/d6a/a11659.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
+    [ "Slot", "d6/d6a/a11659.html#a41eebde65aa696c2dec812da0aeab633", null ]
 ];

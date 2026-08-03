@@ -1,5 +1,8 @@
 var a17287 =
 [
-    [ "at_hor_shadow_throne", "dd/ddc/a17287.html#a342808808be75079acf6a2f930afe930", null ],
-    [ "OnTrigger", "dd/ddc/a17287.html#a0166b1a58f4171c4d9893010df5831c4", null ]
+    [ "npc_fos_leaderAI", "dd/ddc/a17287.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
+    [ "DoAction", "dd/ddc/a17287.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
+    [ "Reset", "dd/ddc/a17287.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
+    [ "UpdateAI", "dd/ddc/a17287.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
+    [ "events", "dd/ddc/a17287.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
 ];

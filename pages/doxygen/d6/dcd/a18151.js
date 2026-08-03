@@ -1,10 +1,6 @@
 var a18151 =
 [
-    [ "npc_bone_spikeAI", "d6/dcd/a18151.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
-    [ "DoAction", "d6/dcd/a18151.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
-    [ "IsSummonedBy", "d6/dcd/a18151.html#af2794484ee3ebf0579ce7357d222240d", null ],
-    [ "JustDied", "d6/dcd/a18151.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
-    [ "UpdateAI", "d6/dcd/a18151.html#a8eff2bcc6507c65e563ed272977f224e", null ],
-    [ "events", "d6/dcd/a18151.html#a6a35900435d41d0603919f29415667a5", null ],
-    [ "hasTrappedUnit", "d6/dcd/a18151.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
+    [ "CheckProc", "d6/dcd/a18151.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "d6/dcd/a18151.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "d6/dcd/a18151.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

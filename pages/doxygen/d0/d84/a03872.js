@@ -1,8 +1,8 @@
 var a03872 =
 [
-    [ "boss_razorgore", "d9/d89/a12978.html", "d9/d89/a12978" ],
-    [ "go_orb_of_domination", "d0/d4e/a12982.html", "d0/d4e/a12982" ],
-    [ "spell_egg_event", "d8/d05/a12986.html", "d8/d05/a12986" ],
+    [ "boss_razorgore", "d8/d0e/a12983.html", "d8/d0e/a12983" ],
+    [ "go_orb_of_domination", "dc/d3c/a12987.html", "dc/d3c/a12987" ],
+    [ "spell_egg_event", "d5/d7c/a12991.html", "d5/d7c/a12991" ],
     [ "EVENTS", "d0/d84/a03872.html#a0383e5bf22653a832beeabda82c1eeb3", [
       [ "EVENT_CLEAVE", "d0/d84/a03872.html#a0383e5bf22653a832beeabda82c1eeb3ad4266671217cc53e473a6844d92ef36a", null ],
       [ "EVENT_STOMP", "d0/d84/a03872.html#a0383e5bf22653a832beeabda82c1eeb3aae6a7bd26e8ee17a505a5f6c6f720316", null ],
@@ -64,7 +64,8 @@ var a03872 =
       [ "EVENT_FROST_BOMB", "de/da4/a03005.html#a0383e5bf22653a832beeabda82c1eeb3a4f1abcbf6dd50f3b0d3c6088aa4415bd", null ],
       [ "EVENT_SUMMON_EMERGENCY_FIRE_BOTS", "de/da4/a03005.html#a0383e5bf22653a832beeabda82c1eeb3ab8af7426c971eafffea092e255453c50", null ],
       [ "EVENT_EMERGENCY_BOT_CHECK", "de/da4/a03005.html#a0383e5bf22653a832beeabda82c1eeb3a5f79c6464a77e10c074d45618ad189d7", null ],
-      [ "EVENT_EMERGENCY_BOT_ATTACK", "de/da4/a03005.html#a0383e5bf22653a832beeabda82c1eeb3aafc05f1a1784838cc87a3691268a59ba", null ]
+      [ "EVENT_EMERGENCY_BOT_ATTACK", "de/da4/a03005.html#a0383e5bf22653a832beeabda82c1eeb3aafc05f1a1784838cc87a3691268a59ba", null ],
+      [ "EVENT_ROCKET_FIRE", "de/da4/a03005.html#a0383e5bf22653a832beeabda82c1eeb3a5dbacfc471203229de7653f199fbe544", null ]
     ] ],
     [ "Say", "d0/d84/a03872.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_AGGRO", "d6/da9/a03869.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe", null ],
@@ -1655,6 +1656,7 @@ var a03872 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

@@ -1,4 +1,4 @@
 var a05307 =
 [
-    [ "GetBounds", "d3/dac/a05307.html#aa539d8da20d440e595ceec02dcd2e4f3", null ]
+    [ "operator()", "d3/dac/a05307.html#a70ec58f039b03d2fed3cb7692622c4dc", null ]
 ];

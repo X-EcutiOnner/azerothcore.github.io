@@ -1,7 +1,5 @@
 var a19991 =
 [
-    [ "HandleDummyEffect", "d5/d96/a19991.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
-    [ "PrepareSpellScript", "d5/d96/a19991.html#a84a4f52928873e58b1fc49e783c5083a", null ],
-    [ "Register", "d5/d96/a19991.html#a90c00bcb1768d696addab407425e406a", null ],
-    [ "SelectTarget", "d5/d96/a19991.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
+    [ "at_hol_hall_of_watchers", "d5/d96/a19991.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
+    [ "_OnTrigger", "d5/d96/a19991.html#adc0ed221142741010c5607f9473ed2f1", null ]
 ];

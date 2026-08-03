@@ -1,8 +1,11 @@
 var a09055 =
 [
-    [ "DiminishingReturn", "d0/d0c/a09055.html#acd4828637710636d0164fced285c854d", null ],
-    [ "DRGroup", "d0/d0c/a09055.html#add3ab95d65e283a326e1922129941ae4", null ],
-    [ "hitCount", "d0/d0c/a09055.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
-    [ "hitTime", "d0/d0c/a09055.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
-    [ "stack", "d0/d0c/a09055.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
+    [ "FriendInfo", "d0/d0c/a09055.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
+    [ "FriendInfo", "d0/d0c/a09055.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
+    [ "Area", "d0/d0c/a09055.html#adf16884b55545ed9302dbb54d653867b", null ],
+    [ "Class", "d0/d0c/a09055.html#a8b797fcfda05d52d4297f32e458be519", null ],
+    [ "Flags", "d0/d0c/a09055.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
+    [ "Level", "d0/d0c/a09055.html#a70d9a74f4587f648db5bf49b61091213", null ],
+    [ "Note", "d0/d0c/a09055.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
+    [ "Status", "d0/d0c/a09055.html#a380f11d65b34e1e598b7861987cecfe6", null ]
 ];

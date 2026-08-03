@@ -1,8 +1,7 @@
 var a19799 =
 [
-    [ "HandleEffectPeriodic", "d3/d57/a19799.html#abb453e3d38677be7082f2cd4e43134cc", null ],
-    [ "HandleOnEffectApply", "d3/d57/a19799.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
-    [ "PrepareAuraScript", "d3/d57/a19799.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
-    [ "Register", "d3/d57/a19799.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
-    [ "Validate", "d3/d57/a19799.html#a09481646f8ec90b0135d93d83cc18929", null ]
+    [ "HandlePull", "d3/d57/a19799.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
+    [ "PrepareSpellScript", "d3/d57/a19799.html#ac192245513e162a2842e47f5b0d64338", null ],
+    [ "Register", "d3/d57/a19799.html#af6c7a881c2fcf07461006fef63074e5e", null ],
+    [ "SelectTarget", "d3/d57/a19799.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
 ];

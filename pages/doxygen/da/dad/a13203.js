@@ -1,11 +1,14 @@
 var a13203 =
 [
-    [ "npc_kilrek", "da/dad/a13203.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
-    [ "JustDied", "da/dad/a13203.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
-    [ "JustEngagedWith", "da/dad/a13203.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
-    [ "Reset", "da/dad/a13203.html#ae0b375abe5ec909cfaff96c257da0325", null ],
-    [ "UpdateAI", "da/dad/a13203.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
-    [ "_scheduler", "da/dad/a13203.html#a93663ee806385f617e81a03062dd94d6", null ],
-    [ "instance", "da/dad/a13203.html#a13b969fa86ef57f9508117a73252a36b", null ],
-    [ "TerestianGUID", "da/dad/a13203.html#a411476da379bf687cd007e25ba11280e", null ]
+    [ "boss_midnight", "da/dad/a13203.html#aacf45b21a30d671d5e9720a30336f72c", null ],
+    [ "CanMeleeHit", "da/dad/a13203.html#ad46a3726f398e5db56612d78d33fb13f", null ],
+    [ "DamageTaken", "da/dad/a13203.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
+    [ "DoAction", "da/dad/a13203.html#a6831149d56f432aa3116d4172ef95a18", null ],
+    [ "EnterEvadeMode", "da/dad/a13203.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
+    [ "JustEngagedWith", "da/dad/a13203.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
+    [ "JustSummoned", "da/dad/a13203.html#a2644deaf0a2970835b0cd508565e7279", null ],
+    [ "KilledUnit", "da/dad/a13203.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
+    [ "Reset", "da/dad/a13203.html#a4f9cb414779705c179bc5447975b35e9", null ],
+    [ "UpdateAI", "da/dad/a13203.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
+    [ "_phase", "da/dad/a13203.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
 ];

@@ -1,9 +1,7 @@
 var a25115 =
 [
-    [ "spell_gen_lifebloom", "dd/d2b/a25115.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
-    [ "AfterRemove", "dd/d2b/a25115.html#aea962f603e56c1bd33fccaef0c89d917", null ],
-    [ "PrepareAuraScript", "dd/d2b/a25115.html#ac11134bdc3588795ce6e256c5b02055f", null ],
-    [ "Register", "dd/d2b/a25115.html#ab4a552402ee9f90834320d6fc668cff3", null ],
-    [ "Validate", "dd/d2b/a25115.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
-    [ "_spellId", "dd/d2b/a25115.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
+    [ "HandleEffectApply", "dd/d2b/a25115.html#a03c31d2d1ff8a01a03c7fa6f67a5c9c3", null ],
+    [ "HandleEffectRemove", "dd/d2b/a25115.html#a54420a5b6c4cc0e0b468f573cd4625bf", null ],
+    [ "PrepareAuraScript", "dd/d2b/a25115.html#a39e61e11ede11f029485a73e4d995809", null ],
+    [ "Register", "dd/d2b/a25115.html#a9b0a61f6f7ad9f01a293451705675eb0", null ]
 ];

@@ -1,7 +1,7 @@
 var a29147 =
 [
-    [ "from", "d6/d1a/a29147.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
-    [ "ID", "d6/d1a/a29147.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
-    [ "price", "d6/d1a/a29147.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
-    [ "to", "d6/d1a/a29147.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
+    [ "EmoteType", "d6/d1a/a29147.html#a2d319652021081fdb02472c32a28e318", null ],
+    [ "Flags", "d6/d1a/a29147.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
+    [ "Id", "d6/d1a/a29147.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
+    [ "UnitStandState", "d6/d1a/a29147.html#ada83e548faa01917a5db19eaa15dbbec", null ]
 ];

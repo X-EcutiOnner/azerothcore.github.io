@@ -1,13 +1,7 @@
 var a21107 =
 [
-    [ "MoveX", "d0/db2/a21107.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "d0/db2/a21107.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "d0/db2/a21107.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "d0/db2/a21107.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "d0/db2/a21107.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "d0/db2/a21107.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "d0/db2/a21107.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "d0/db2/a21107.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "d0/db2/a21107.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "d0/db2/a21107.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "HandleProc", "d0/db2/a21107.html#a1b8782a4f22522cfe224073515abdf45", null ],
+    [ "PrepareAuraScript", "d0/db2/a21107.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
+    [ "Register", "d0/db2/a21107.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
+    [ "Validate", "d0/db2/a21107.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
 ];

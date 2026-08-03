@@ -1,7 +1,5 @@
 var a28307 =
 [
-    [ "npc_steam_tonkAI", "d4/d08/a28307.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "d4/d08/a28307.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "d4/d08/a28307.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "d4/d08/a28307.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "go_scourge_cage", "d4/d08/a28307.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
+    [ "OnGossipHello", "d4/d08/a28307.html#ab4e97cd290342d623d212cc7cec227d5", null ]
 ];

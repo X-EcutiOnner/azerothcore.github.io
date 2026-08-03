@@ -1,8 +1,7 @@
 var a26459 =
 [
-    [ "Load", "d7/d77/a26459.html#a7662d85a5469c20edf6d2eefca820db3", null ],
-    [ "PrepareAuraScript", "d7/d77/a26459.html#a252bd975a7639eab4e151249db974b7c", null ],
-    [ "Register", "d7/d77/a26459.html#a51723a22f1062f44e8eb6848e1398595", null ],
-    [ "Split", "d7/d77/a26459.html#a08e982eae6030fdc679663bfd38bca47", null ],
-    [ "remainingAmount", "d7/d77/a26459.html#afaab88988769ddc720deb44f06de3d7d", null ]
+    [ "HandleProc", "d7/d77/a26459.html#a00864fa29b0f4e01f0ec3b007ba56913", null ],
+    [ "PrepareAuraScript", "d7/d77/a26459.html#a83020e052309f9905adde86bac3ef925", null ],
+    [ "Register", "d7/d77/a26459.html#a7d0a5ebb4f9f9742694967bf23a76ba8", null ],
+    [ "Validate", "d7/d77/a26459.html#ac296ca5433b5bf1fc0d8c3401e43d912", null ]
 ];

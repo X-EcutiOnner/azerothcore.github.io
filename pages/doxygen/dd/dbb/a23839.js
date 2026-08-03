@@ -1,7 +1,11 @@
 var a23839 =
 [
-    [ "npc_maghar_captiveAI", "db/d0e/a23843.html", "db/d0e/a23843" ],
-    [ "npc_maghar_captive", "dd/dbb/a23839.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
-    [ "GetAI", "dd/dbb/a23839.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
-    [ "OnQuestAccept", "dd/dbb/a23839.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
+    [ "boss_high_astromancer_solarian", "dd/dbb/a23839.html#a2db48cc179539f81b55188de08a7e180", null ],
+    [ "AttackStart", "dd/dbb/a23839.html#acaf94134aef553447e766a5e431c8b83", null ],
+    [ "JustDied", "dd/dbb/a23839.html#a510eb2e4f0770670d6767bc2545375b7", null ],
+    [ "JustEngagedWith", "dd/dbb/a23839.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
+    [ "JustSummoned", "dd/dbb/a23839.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
+    [ "KilledUnit", "dd/dbb/a23839.html#a561a78193615575b7e43e0f21387f1b8", null ],
+    [ "Reset", "dd/dbb/a23839.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
+    [ "UpdateAI", "dd/dbb/a23839.html#a07a76c34a978c31212390cf10ed3e382", null ]
 ];

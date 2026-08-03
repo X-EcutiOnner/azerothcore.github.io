@@ -1,8 +1,6 @@
 var a25991 =
 [
-    [ "CheckQuest", "d8/dda/a25991.html#ab7ebff0894832ac009cda89b7c28e252", null ],
-    [ "HandleDummy", "d8/dda/a25991.html#a365df14504a54e95e7d68d22a284e441", null ],
-    [ "HandleOpenObject", "d8/dda/a25991.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
-    [ "PrepareSpellScript", "d8/dda/a25991.html#a479e313031a2e71473238d8f645bf2d4", null ],
-    [ "Register", "d8/dda/a25991.html#a70f1a91e611cc2092aad44a909cd53db", null ]
+    [ "FilterTargets", "d8/dda/a25991.html#abe299fbad07f800e90b1614ec661c185", null ],
+    [ "PrepareSpellScript", "d8/dda/a25991.html#a53bae2b6575436705adff74caf9225b7", null ],
+    [ "Register", "d8/dda/a25991.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
 ];

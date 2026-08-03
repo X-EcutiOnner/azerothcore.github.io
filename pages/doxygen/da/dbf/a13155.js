@@ -1,9 +1,10 @@
 var a13155 =
 [
-    [ "FilterTargets", "da/dbf/a13155.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "da/dbf/a13155.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "da/dbf/a13155.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "da/dbf/a13155.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "da/dbf/a13155.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "da/dbf/a13155.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "instance_gnomeregan_InstanceMapScript", "da/dbf/a13155.html#a0080fdf557ad8159a8934dce5b39a535", null ],
+    [ "OnCreatureCreate", "da/dbf/a13155.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
+    [ "OnGameObjectCreate", "da/dbf/a13155.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
+    [ "ReadSaveDataMore", "da/dbf/a13155.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
+    [ "SetData", "da/dbf/a13155.html#af800a1906c532f61f0299f8aa9359a66", null ],
+    [ "WriteSaveDataMore", "da/dbf/a13155.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
+    [ "_encounters", "da/dbf/a13155.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
 ];

@@ -1,6 +1,11 @@
 var a14499 =
 [
-    [ "boss_mandokirAI", "db/d01/a14503.html", "db/d01/a14503" ],
-    [ "boss_mandokir", "d4/d66/a14499.html#aad13c8302cef7fb4981f0d2178630def", null ],
-    [ "GetAI", "d4/d66/a14499.html#a215842d5ab23824ec20db64e2fa4407e", null ]
+    [ "boss_hakkarAI", "d4/d66/a14499.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
+    [ "ApplyHakkarPowerStacks", "d4/d66/a14499.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
+    [ "CheckInRoom", "d4/d66/a14499.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
+    [ "EnterEvadeMode", "d4/d66/a14499.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
+    [ "JustDied", "d4/d66/a14499.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
+    [ "JustEngagedWith", "d4/d66/a14499.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
+    [ "Reset", "d4/d66/a14499.html#a52db5743c09088e2e9f1aff1513960f2", null ],
+    [ "UpdateAI", "d4/d66/a14499.html#a1119212465bcf293991d7a520c6ffe42", null ]
 ];

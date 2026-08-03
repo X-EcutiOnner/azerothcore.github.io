@@ -1,7 +1,6 @@
 var a15803 =
 [
-    [ "npc_prophet_velen", "df/de5/a15803.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
-    [ "JustDied", "df/de5/a15803.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
-    [ "Reset", "df/de5/a15803.html#a5beec39fd545129d0f124bb19524f95c", null ],
-    [ "UpdateAI", "df/de5/a15803.html#a2d016ecfedc5c7e886e7412081b54792", null ]
+    [ "HandleDummy", "df/de5/a15803.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
+    [ "PrepareSpellScript", "df/de5/a15803.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
+    [ "Register", "df/de5/a15803.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
 ];

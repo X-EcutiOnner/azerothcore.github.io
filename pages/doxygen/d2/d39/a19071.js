@@ -1,7 +1,6 @@
 var a19071 =
 [
-    [ "HandleScript", "d2/d39/a19071.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "d2/d39/a19071.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "d2/d39/a19071.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "d2/d39/a19071.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "npc_captain_brandonAI", "d2/d39/a19071.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "d2/d39/a19071.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "d2/d39/a19071.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

@@ -1,6 +1,5 @@
 var a28327 =
 [
-    [ "npc_locksmith", "d9/dec/a28327.html#af959a6395ebc33109405f18f262e4ecb", null ],
-    [ "OnGossipHello", "d9/dec/a28327.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
-    [ "OnGossipSelect", "d9/dec/a28327.html#a62ec02e226255ff1f81895391a6494b8", null ]
+    [ "go_soulwellAI", "d9/dec/a28327.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
+    [ "GossipHello", "d9/dec/a28327.html#a3df147478af8930d9b6108a183e9478f", null ]
 ];

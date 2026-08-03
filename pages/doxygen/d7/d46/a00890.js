@@ -1,8 +1,8 @@
 var a00890 =
 [
-    [ "FormationInfo", "df/d29/a08478.html", "df/d29/a08478" ],
-    [ "FormationMgr", "de/dcb/a08482.html", "de/dcb/a08482" ],
-    [ "CreatureGroup", "d4/de6/a08486.html", "d4/de6/a08486" ],
+    [ "FormationInfo", "d8/d0e/a08483.html", "d8/d0e/a08483" ],
+    [ "FormationMgr", "d0/d81/a08487.html", "d0/d81/a08487" ],
+    [ "CreatureGroup", "dd/d5b/a08491.html", "dd/d5b/a08491" ],
     [ "sFormationMgr", "d7/d46/a00890.html#ae80a51404625cee821a8727ed7369352", null ],
     [ "CreatureGroupInfoType", "d7/d46/a00890.html#a2c3447bf21f430bff136da6811d93a61", null ],
     [ "GroupAIFlags", "d7/d46/a00890.html#a3754da8cc6b209da0180cd76de20869c", [

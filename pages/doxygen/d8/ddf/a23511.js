@@ -1,10 +1,6 @@
 var a23511 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d8/ddf/a23511.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
-    [ "GetGuidData", "d8/ddf/a23511.html#aa4bedf168359eaf5332476a6de99c830", null ],
-    [ "OnGameObjectCreate", "d8/ddf/a23511.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
-    [ "SetBossState", "d8/ddf/a23511.html#a2937e4ea47af542a476bd3399ecc7233", null ],
-    [ "SetData", "d8/ddf/a23511.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
-    [ "StasisPodGUIDs", "d8/ddf/a23511.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
-    [ "WardensShieldGUID", "d8/ddf/a23511.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
+    [ "HandleScriptEffect", "d8/ddf/a23511.html#abba5817280db6579e3e6e0b964655c6e", null ],
+    [ "PrepareSpellScript", "d8/ddf/a23511.html#a846fa43c9907ddb6243c006327757a1c", null ],
+    [ "Register", "d8/ddf/a23511.html#a7daa26f4035912bff4811b0bfee35fee", null ]
 ];

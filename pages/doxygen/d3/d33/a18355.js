@@ -1,6 +1,7 @@
 var a18355 =
 [
-    [ "DespawnSelf", "d3/d33/a18355.html#a7009dd0e842898d03caa89e92447749d", null ],
-    [ "PrepareAuraScript", "d3/d33/a18355.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
-    [ "Register", "d3/d33/a18355.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
+    [ "HandleSummon", "d3/d33/a18355.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
+    [ "PrepareSpellScript", "d3/d33/a18355.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
+    [ "Register", "d3/d33/a18355.html#a01281869dc98a0af5027695391f1221f", null ],
+    [ "Validate", "d3/d33/a18355.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
 ];

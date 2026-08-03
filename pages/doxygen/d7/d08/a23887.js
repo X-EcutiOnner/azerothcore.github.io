@@ -1,7 +1,6 @@
 var a23887 =
 [
-    [ "npc_bessyAI", "d5/d8a/a23891.html", "d5/d8a/a23891" ],
-    [ "npc_bessy", "d7/d08/a23887.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "d7/d08/a23887.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "d7/d08/a23887.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "HandlePeriodic", "d7/d08/a23887.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
+    [ "PrepareAuraScript", "d7/d08/a23887.html#a75d72d196ded2ee109d0231d4342890a", null ],
+    [ "Register", "d7/d08/a23887.html#a148013ea68bbc573bddc1c3639dba019", null ]
 ];

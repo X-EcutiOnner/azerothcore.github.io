@@ -1,8 +1,10 @@
 var a28139 =
 [
-    [ "trigger_periodicAI", "d9/d5c/a28139.html#a696d62fed28de9c67827dad111cf320b", null ],
-    [ "UpdateAI", "d9/d5c/a28139.html#aed31d60765eff7dd11790714e28e729e", null ],
-    [ "interval", "d9/d5c/a28139.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
-    [ "spell", "d9/d5c/a28139.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
-    [ "timer", "d9/d5c/a28139.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
+    [ "boss_emerissAI", "d9/d5c/a28139.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
+    [ "DamageTaken", "d9/d5c/a28139.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
+    [ "ExecuteEvent", "d9/d5c/a28139.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
+    [ "JustEngagedWith", "d9/d5c/a28139.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
+    [ "KilledUnit", "d9/d5c/a28139.html#ad851169bc09a362137e211dd10d30a1b", null ],
+    [ "Reset", "d9/d5c/a28139.html#a44dfb325c4e8413662052137edc710ef", null ],
+    [ "_stage", "d9/d5c/a28139.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
 ];

@@ -1,7 +1,6 @@
 var a24231 =
 [
-    [ "CheckCast", "dc/dfd/a24231.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "dc/dfd/a24231.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "dc/dfd/a24231.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "dc/dfd/a24231.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "npc_torloth_the_magnificentAI", "d4/de0/a24235.html", "d4/de0/a24235" ],
+    [ "npc_torloth_the_magnificent", "dc/dfd/a24231.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
+    [ "GetAI", "dc/dfd/a24231.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
 ];

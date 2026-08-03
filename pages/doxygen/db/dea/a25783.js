@@ -1,8 +1,8 @@
 var a25783 =
 [
-    [ "CheckProc", "db/dea/a25783.html#a8b3f8cf17dda2322d0e9f8f4211cbd20", null ],
-    [ "HandleProc", "db/dea/a25783.html#ae034bd626880858c9701ed963de993c9", null ],
-    [ "isException", "db/dea/a25783.html#aa5f4fcd1b9b710e2931460207cfc6dea", null ],
-    [ "PrepareAuraScript", "db/dea/a25783.html#a50348fd27947f67df03bf4ddbec89cca", null ],
-    [ "Register", "db/dea/a25783.html#aaa14b34ac54b4caee76ff72d07dd5c2d", null ]
+    [ "CheckProc", "db/dea/a25783.html#a86e6da13f7162318e5c0a7c6f89c69c2", null ],
+    [ "HandleProc", "db/dea/a25783.html#a4ac70c7765266f36b7689ffcc2bed15d", null ],
+    [ "PrepareAuraScript", "db/dea/a25783.html#acc41c53bf96695dc8cc43ccaf08e4125", null ],
+    [ "Register", "db/dea/a25783.html#a1dcd66a66f7b069fede39b57f0abbb56", null ],
+    [ "Validate", "db/dea/a25783.html#a269711969d98851c8275e3f44a706b97", null ]
 ];

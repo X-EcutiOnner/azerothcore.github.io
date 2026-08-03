@@ -1,6 +1,9 @@
 var a08931 =
 [
-    [ "SkillStatusData", "d7/dc3/a08931.html#a7594ceb20110da34f3aa68ac69996b94", null ],
-    [ "pos", "d7/dc3/a08931.html#a51ccb328b807f2c7fd275d843218f466", null ],
-    [ "uState", "d7/dc3/a08931.html#a232801ad25897a82739916d5be4fdc22", null ]
+    [ "category", "d7/dc3/a08931.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
+    [ "end", "d7/dc3/a08931.html#a8cc857ef51745900398765164a450a50", null ],
+    [ "itemid", "d7/dc3/a08931.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
+    [ "maxduration", "d7/dc3/a08931.html#a94b98afb7651e2c6b99ee79f85702259", null ],
+    [ "needSendToClient", "d7/dc3/a08931.html#a678f56b6723567f984a0188b85a6f9df", null ],
+    [ "sendToSpectator", "d7/dc3/a08931.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
 ];

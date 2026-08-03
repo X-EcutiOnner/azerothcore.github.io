@@ -1,7 +1,6 @@
 var a17943 =
 [
-    [ "npc_gunship_boarding_leaderAI", "d3/d9c/a17943.html#ac20099905fd6fddda2561b88cf077b77", null ],
-    [ "JustEngagedWith", "d3/d9c/a17943.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
-    [ "UpdateAI", "d3/d9c/a17943.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
-    [ "_events", "d3/d9c/a17943.html#affb899bbaa288e72a48d5518367b023d", null ]
+    [ "npc_stinky_iccAI", "dc/d12/a17947.html", "dc/d12/a17947" ],
+    [ "npc_stinky_icc", "d3/d9c/a17943.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
+    [ "GetAI", "d3/d9c/a17943.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
 ];

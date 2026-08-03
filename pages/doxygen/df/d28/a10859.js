@@ -1,7 +1,10 @@
 var a10859 =
 [
-    [ "AutoBankItem", "df/d28/a10859.html#a02d39ddc9eda90be709b2fa9c1f6023d", null ],
-    [ "Read", "df/d28/a10859.html#a8651192c6040cdf5d257c134dde1208c", null ],
-    [ "Bag", "df/d28/a10859.html#a69f9b65ecb778c94c6e9278e5f98d31b", null ],
-    [ "Slot", "df/d28/a10859.html#a970f2ca85a76de1a25ad40a9ebf0029f", null ]
+    [ "ArgsType", "df/d28/a10859.html#a4ea4d3b165a196482ebe96af9c462658", null ],
+    [ "AuraScriptType", "df/d28/a10859.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
+    [ "SpellScriptType", "df/d28/a10859.html#a790a8ef2b59bfe6298486648858506ed", null ],
+    [ "GenericSpellAndAuraScriptLoader", "df/d28/a10859.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
+    [ "GetAuraScript", "df/d28/a10859.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
+    [ "GetSpellScript", "df/d28/a10859.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
+    [ "_args", "df/d28/a10859.html#aad6527f64ede0d896880ffa90d05a378", null ]
 ];

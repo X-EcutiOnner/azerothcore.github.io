@@ -1,8 +1,8 @@
 var a11727 =
 [
-    [ "SkillPerfectItemEntry", "da/d7e/a11727.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
-    [ "SkillPerfectItemEntry", "da/d7e/a11727.html#a678f9908440187faad38c0e1ffaf82de", null ],
-    [ "perfectCreateChance", "da/d7e/a11727.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
-    [ "perfectItemType", "da/d7e/a11727.html#a057605f8867d4df5cb290318598a2908", null ],
-    [ "requiredSpecialization", "da/d7e/a11727.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
+    [ "ServerPktHeader", "da/d7e/a11727.html#a761e294fccc02055a46bfc46656da706", null ],
+    [ "getHeaderLength", "da/d7e/a11727.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
+    [ "isLargePacket", "da/d7e/a11727.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
+    [ "header", "da/d7e/a11727.html#adc69128832b16124c284c584e7540b11", null ],
+    [ "size", "da/d7e/a11727.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
 ];

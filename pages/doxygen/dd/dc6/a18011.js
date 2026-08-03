@@ -1,6 +1,12 @@
 var a18011 =
 [
-    [ "IgbTeleportOnVictoryCheck", "dd/dc6/a18011.html#a29ee8cac93b9920e598da9205406e608", null ],
-    [ "operator()", "dd/dc6/a18011.html#acf85943e238179e911434358f1593be2", null ],
-    [ "_inst", "dd/dc6/a18011.html#a015353ecb66da16c697152b7ad3c527e", null ]
+    [ "gunship_npc_AI", "dd/dc6/a18011.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
+    [ "EnterEvadeMode", "dd/dc6/a18011.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
+    [ "JustDied", "dd/dc6/a18011.html#ad40c976be4decd9054dad031a4caab78", null ],
+    [ "MovementInform", "dd/dc6/a18011.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
+    [ "SetData", "dd/dc6/a18011.html#acfd5e331155d7787ada33acbca73fece", null ],
+    [ "SetSlotInfo", "dd/dc6/a18011.html#afdfc3f9add2952f90baf24d55425670f", null ],
+    [ "Index", "dd/dc6/a18011.html#ae120874514cf5921136821b820a04da7", null ],
+    [ "Instance", "dd/dc6/a18011.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
+    [ "Slot", "dd/dc6/a18011.html#a59d237475ae309755d429cfac77d6630", null ]
 ];

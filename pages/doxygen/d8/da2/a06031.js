@@ -1,11 +1,8 @@
 var a06031 =
 [
-    [ "DatabaseWorker", "d8/da2/a06031.html#a64450680e7b6e31bb42ce4f79788eb27", null ],
-    [ "~DatabaseWorker", "d8/da2/a06031.html#a170c873cbc917ece6a87591450dbe5a9", null ],
-    [ "DatabaseWorker", "d8/da2/a06031.html#aa43f1d875400b0ba6c031e0811397ed3", null ],
-    [ "operator=", "d8/da2/a06031.html#a15e753c757da609b55a66380f526091a", null ],
-    [ "WorkerThread", "d8/da2/a06031.html#ab74cbccbb68bfbbab58550eced982d1a", null ],
-    [ "_connection", "d8/da2/a06031.html#a2f21d73b584d9e5f17afc7a0ac78f129", null ],
-    [ "_queue", "d8/da2/a06031.html#a9c47ad6c0d4dca85a63be45c4e678a70", null ],
-    [ "_workerThread", "d8/da2/a06031.html#ad02a90f600f1996c053f36e186edf292", null ]
+    [ "cmd", "d8/da2/a06031.html#a14df856ae931474a7c58d0e35caf6ad0", null ],
+    [ "number_of_keys", "d8/da2/a06031.html#aaa44734bb96b91894c038b3f34b4db0d", null ],
+    [ "R1", "d8/da2/a06031.html#a054648a96d1c66bae6fdb9a174e7b1e6", null ],
+    [ "R2", "d8/da2/a06031.html#a72fa4a4d0b6098fdf8e5c8f9a33f08ad", null ],
+    [ "R3", "d8/da2/a06031.html#a819a5ba3a19583fd0cfd0558cf218e54", null ]
 ];

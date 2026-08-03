@@ -1,6 +1,11 @@
 var a25643 =
 [
-    [ "HandleProc", "d0/dbb/a25643.html#a04796308cb57993dea310e0aca051c46", null ],
-    [ "PrepareAuraScript", "d0/dbb/a25643.html#a1a0291eb2ca9073b0bac8dc8c7d22550", null ],
-    [ "Register", "d0/dbb/a25643.html#a191d0bcc015b92a6f2481b3b5c196cab", null ]
+    [ "CalcPeriodic", "d0/dbb/a25643.html#ab5feede17fa79c9d02fa459586eaca41", null ],
+    [ "CalculateAPAmount", "d0/dbb/a25643.html#af2b1da799f1b3c0373dc6782dabbf89c", null ],
+    [ "CalculateResistanceAmount", "d0/dbb/a25643.html#a51828f07b0e099c5931161f7aeebaab7", null ],
+    [ "CalculateSPAmount", "d0/dbb/a25643.html#a255ed8f5158e715313e44b13f30b099f", null ],
+    [ "CalculateStatAmount", "d0/dbb/a25643.html#ade1b7256d19b526a7f4b1520f6b2f663", null ],
+    [ "HandlePeriodic", "d0/dbb/a25643.html#a136c8cedca7630543b8937e77571ead1", null ],
+    [ "PrepareAuraScript", "d0/dbb/a25643.html#a638a2544d9216bec90c433100c0663a0", null ],
+    [ "Register", "d0/dbb/a25643.html#a55605257006d8218250932357f325bb8", null ]
 ];

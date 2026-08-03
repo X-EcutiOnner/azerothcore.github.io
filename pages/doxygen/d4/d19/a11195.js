@@ -1,8 +1,6 @@
 var a11195 =
 [
-    [ "SetRaidDifficulty", "d4/d19/a11195.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
-    [ "Write", "d4/d19/a11195.html#a3da812593b22ef506a9d61e16b5485d1", null ],
-    [ "Difficulty", "d4/d19/a11195.html#a1952e2d54b77437731b693f4eace83ac", null ],
-    [ "IsInGroup", "d4/d19/a11195.html#a8833543c4f179be97476a26152ec049b", null ],
-    [ "Unk", "d4/d19/a11195.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
+    [ "GuildBankRemainingWithdrawMoney", "d4/d19/a11195.html#afdb4e226091e8280b4ef26bd51edebdd", null ],
+    [ "Write", "d4/d19/a11195.html#aecc28f8734a66c562c7baa1575b07ff9", null ],
+    [ "RemainingWithdrawMoney", "d4/d19/a11195.html#a015ba615ebe4ea09df8233f6a85332f4", null ]
 ];

@@ -1,6 +1,9 @@
 var a20731 =
 [
-    [ "x", "d5/dcd/a20731.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "d5/dcd/a20731.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "d5/dcd/a20731.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "npc_expedition_trapper", "d5/dcd/a20731.html#ac924a9b9e23624de1460b0cdfe8c8a1b", null ],
+    [ "DoAction", "d5/dcd/a20731.html#a094ecbf1a719223d50c7d070989aa782", null ],
+    [ "MovementInform", "d5/dcd/a20731.html#ae2a0c15b4a7d59f4222e818d0fcf303b", null ],
+    [ "SetData", "d5/dcd/a20731.html#a11241b1513209a9964569ab29eb5dc64", null ],
+    [ "UpdateAI", "d5/dcd/a20731.html#a16a39f855263ebde21ddb03d4fe60460", null ],
+    [ "_idx", "d5/dcd/a20731.html#ae24ec016a0f29f7bcb41935e1991f9fa", null ]
 ];

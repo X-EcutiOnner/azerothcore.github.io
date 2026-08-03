@@ -1,20 +1,13 @@
 var a23323 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "da/d34/a23323.html#adb0173cb42642836f7734d8b0fb3e98f", null ],
-    [ "ActivateCell", "da/d34/a23323.html#abd718216778850455c758d79a5866958", null ],
-    [ "ActivatePrisoners", "da/d34/a23323.html#a18488afb78747a35ce7e3b4b9a2468b5", null ],
-    [ "GetGuidData", "da/d34/a23323.html#af7f6acc97bf16f4d31236dcbb2d94007", null ],
-    [ "Initialize", "da/d34/a23323.html#a3441a24486ec686d42b7320e6f105139", null ],
-    [ "OnCreatureCreate", "da/d34/a23323.html#ac58da5acec155e596791464c48f29773", null ],
-    [ "OnGameObjectCreate", "da/d34/a23323.html#a3894ce1d0dff79cee2ff0df51d19e1ea", null ],
-    [ "OnUnitDeath", "da/d34/a23323.html#a78b07bfe30c7f329046ff572f783c4b9", null ],
-    [ "PrisonerDied", "da/d34/a23323.html#a16315f7921b1960c7720f855cdddee96", null ],
-    [ "ResetPrisoner", "da/d34/a23323.html#a57f58c502b5fb2064307adb8c4976979", null ],
-    [ "ResetPrisoners", "da/d34/a23323.html#ac46b0ed98e69ac0d5b8582bb21a81dc8", null ],
-    [ "ResetPrisons", "da/d34/a23323.html#a728bbc185bb91cf024f8ff3bd878a10e", null ],
-    [ "SetBossState", "da/d34/a23323.html#aad428e00762795d8f817d6cfa25505fe", null ],
-    [ "StorePrisoner", "da/d34/a23323.html#ade72b3e7a2129b8a4f722990aef5ac5f", null ],
-    [ "_prisonerCounter", "da/d34/a23323.html#a50c371edc425191f610a0e8a6b44d2ab", null ],
-    [ "_prisonersCell", "da/d34/a23323.html#a3492a327f4c0d637fd5701f3997c1887", null ],
-    [ "_prisonGUIDs", "da/d34/a23323.html#a9a737e495b638ec65fbd306c6aa0267c", null ]
+    [ "npc_ahune_bunny", "da/d34/a23323.html#ae28e0d2dbaab082488d5582b75cd8482", null ],
+    [ "DoAction", "da/d34/a23323.html#ad071787c47254f603ba7692889733202", null ],
+    [ "JustDied", "da/d34/a23323.html#a8733a3e495ebf69df4f9d1213df50170", null ],
+    [ "JustSummoned", "da/d34/a23323.html#a2c5c97b497cd15a1453bbd21d279a29b", null ],
+    [ "ResetFlameCallers", "da/d34/a23323.html#a60a74aabbf42116079081134a332a100", null ],
+    [ "UpdateAI", "da/d34/a23323.html#aa8dff40dde7820b1ce4e06c8d27e4ecb", null ],
+    [ "_events", "da/d34/a23323.html#af84154fff16cbdb15586b3b07223e010", null ],
+    [ "_instance", "da/d34/a23323.html#a9be0d062379e5a3dfa19af1eb1a4243e", null ],
+    [ "_submerged", "da/d34/a23323.html#a15fdcc2fda18e118f398ccc055f52942", null ],
+    [ "_summons", "da/d34/a23323.html#a8f9e25f0d8a66b18e887b061592c6950", null ]
 ];

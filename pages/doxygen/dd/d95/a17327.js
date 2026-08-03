@@ -1,7 +1,8 @@
 var a17327 =
 [
-    [ "UtherBatteredHiltEvent", "dd/d95/a17327.html#a7bb34b75a3e371260a231aea72f75b40", null ],
-    [ "Execute", "dd/d95/a17327.html#ad2eb37877155b6dbc9916338e30d0306", null ],
-    [ "_eventId", "dd/d95/a17327.html#a5045e057b2c5d468aa579751d2c799b8", null ],
-    [ "_owner", "dd/d95/a17327.html#a588974708f4a48f5a7b097a63a0c0899", null ]
+    [ "npc_hor_leaderAI", "d7/dee/a17331.html", "d7/dee/a17331" ],
+    [ "npc_hor_leader", "dd/d95/a17327.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
+    [ "GetAI", "dd/d95/a17327.html#a55e7357aa6dff1efdff08541e88413e9", null ],
+    [ "OnGossipHello", "dd/d95/a17327.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
+    [ "OnGossipSelect", "dd/d95/a17327.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
 ];

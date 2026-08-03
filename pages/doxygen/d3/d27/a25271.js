@@ -1,6 +1,6 @@
 var a25271 =
 [
-    [ "OnProc", "d3/d27/a25271.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "d3/d27/a25271.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "d3/d27/a25271.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "CheckSeat", "d3/d27/a25271.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
+    [ "PrepareSpellScript", "d3/d27/a25271.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
+    [ "Register", "d3/d27/a25271.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
 ];

@@ -1,5 +1,6 @@
 var a20595 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "d3/dc5/a20595.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "d3/dc5/a20595.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "HandleInstaKill", "d3/dc5/a20595.html#a593786eb89bf77e05dad4b502ffc1925", null ],
+    [ "PrepareSpellScript", "d3/dc5/a20595.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
+    [ "Register", "d3/dc5/a20595.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
 ];

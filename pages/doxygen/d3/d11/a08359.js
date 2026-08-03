@@ -1,8 +1,9 @@
 var a08359 =
 [
-    [ "TemporaryThreatModifierEvent", "d3/d11/a08359.html#afd58a1128ac6629d7541ba1bfd4ef886", null ],
-    [ "Execute", "d3/d11/a08359.html#a2bbd75ad5e293e78e4bffe880f371d1e", null ],
-    [ "m_owner", "d3/d11/a08359.html#ab786c99d73f0048a993ce7cee8c3b875", null ],
-    [ "m_threatValue", "d3/d11/a08359.html#aacb0f6e66d22a93ff074b4cbcf12b788", null ],
-    [ "m_threatVictimGUID", "d3/d11/a08359.html#aeae82bd80c9b8b08573c6e3baf359f55", null ]
+    [ "cancelTime", "d3/d11/a08359.html#ac1d5edf075556c488aff36799ee6cb96", null ],
+    [ "dungeons", "d3/d11/a08359.html#a1e6c1deaf47dc835bbab7a1741a57fe2", null ],
+    [ "leader", "d3/d11/a08359.html#ad92b0bd391dae5f934b7d6f8a39351d8", null ],
+    [ "rDungeonId", "d3/d11/a08359.html#af07fdfed0b56211af723db06959013f6", null ],
+    [ "roles", "d3/d11/a08359.html#a3759dc8140194b09be842365dc0053d7", null ],
+    [ "state", "d3/d11/a08359.html#aa70ef2d83084359af7bcc9e2de60ce77", null ]
 ];

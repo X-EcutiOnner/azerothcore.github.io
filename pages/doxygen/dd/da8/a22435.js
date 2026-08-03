@@ -1,8 +1,6 @@
 var a22435 =
 [
-    [ "FilterTargets", "dd/da8/a22435.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "dd/da8/a22435.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "dd/da8/a22435.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "dd/da8/a22435.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "dd/da8/a22435.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "HandleSummon", "dd/da8/a22435.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
+    [ "PrepareSpellScript", "dd/da8/a22435.html#ae7f071e9d9a82892be31090385679c9f", null ],
+    [ "Register", "dd/da8/a22435.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
 ];

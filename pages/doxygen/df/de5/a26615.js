@@ -1,7 +1,7 @@
 var a26615 =
 [
-    [ "HandleScriptEffect", "df/de5/a26615.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
-    [ "Load", "df/de5/a26615.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
-    [ "PrepareSpellScript", "df/de5/a26615.html#ade09cd376d00df8b5e709026e353f409", null ],
-    [ "Register", "df/de5/a26615.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
+    [ "HandleProc", "df/de5/a26615.html#a00e4e7a77373767f4a68f0ee209d4e7d", null ],
+    [ "PrepareAuraScript", "df/de5/a26615.html#a1b93f0cedfac153c2dab9d331d9fae0f", null ],
+    [ "Register", "df/de5/a26615.html#a6d171ec8688075496ec7d9f2325a5a1c", null ],
+    [ "Validate", "df/de5/a26615.html#a74be985272c75fff9592927ea010a9d9", null ]
 ];

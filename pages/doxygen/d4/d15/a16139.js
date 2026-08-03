@@ -1,11 +1,12 @@
 var a16139 =
 [
-    [ "npc_ameAI", "d4/d15/a16139.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
-    [ "JustDied", "d4/d15/a16139.html#a9b77f94f112477509c3163945ceb8201", null ],
-    [ "JustSummoned", "d4/d15/a16139.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
-    [ "Reset", "d4/d15/a16139.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
-    [ "UpdateAI", "d4/d15/a16139.html#a0a073e4c216985607aa51099044ff6c5", null ],
-    [ "WaypointReached", "d4/d15/a16139.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
-    [ "WaypointReached", "d4/d15/a16139.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "DemoralizingShoutTimer", "d4/d15/a16139.html#ab5d1786735adea4bce1bba8adf42a877", null ]
+    [ "npc_toogaAI", "d4/d15/a16139.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
+    [ "MoveInLineOfSight", "d4/d15/a16139.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
+    [ "MovementInform", "d4/d15/a16139.html#a9315e8ba2688903aaf5b871a7490a700", null ],
+    [ "Reset", "d4/d15/a16139.html#acfedaf5cc989451a4259a65661685f66", null ],
+    [ "UpdateFollowerAI", "d4/d15/a16139.html#a742791e714be1ff713ab87e7d515bd9e", null ],
+    [ "CheckSpeechTimer", "d4/d15/a16139.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
+    [ "PhasePostEvent", "d4/d15/a16139.html#a4996291afa64e35f3604b2a85ea03dda", null ],
+    [ "PostEventTimer", "d4/d15/a16139.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
+    [ "TortaGUID", "d4/d15/a16139.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
 ];

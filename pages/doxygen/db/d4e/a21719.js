@@ -1,6 +1,6 @@
 var a21719 =
 [
-    [ "CheckRequirement", "db/d4e/a21719.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "db/d4e/a21719.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "db/d4e/a21719.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "npc_dalaran_mageAI", "d8/dc2/a21723.html", "d8/dc2/a21723" ],
+    [ "npc_dalaran_mage", "db/d4e/a21719.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
+    [ "GetAI", "db/d4e/a21719.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
 ];

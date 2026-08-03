@@ -1,7 +1,6 @@
 var a08271 =
 [
-    [ "LfgJoinResultData", "d2/ded/a08271.html#a1d711d49a6b49f55eb3771352b294b95", null ],
-    [ "lockmap", "d2/ded/a08271.html#aff918b3c02ca76982a964402175f8ad7", null ],
-    [ "result", "d2/ded/a08271.html#aa713cbc1930962d520883523f6f6446c", null ],
-    [ "state", "d2/ded/a08271.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
+    [ "ConditionSourceInfo", "d2/ded/a08271.html#adc6441ec52fab3ab8d2b58a146a3fef3", null ],
+    [ "mConditionTargets", "d2/ded/a08271.html#acb67deba44021698a447e8288bca0bd4", null ],
+    [ "mLastFailedCondition", "d2/ded/a08271.html#a099d3457a0a15d8feeacc0dc8c32d439", null ]
 ];

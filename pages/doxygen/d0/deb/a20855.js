@@ -1,7 +1,6 @@
 var a20855 =
 [
-    [ "HandleScriptEffect", "d0/deb/a20855.html#aae469190c1edc1fe45914bad1dac4e93", null ],
-    [ "PrepareSpellScript", "d0/deb/a20855.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
-    [ "Register", "d0/deb/a20855.html#a97265071f226fbd17c37d432cf9e2350", null ],
-    [ "Validate", "d0/deb/a20855.html#aeec0bdd2e39db2da657247376ddcd195", null ]
+    [ "PrepareSpellScript", "d0/deb/a20855.html#a3c8337cc17ec735fc97f5195a1e820b6", null ],
+    [ "Register", "d0/deb/a20855.html#ae0cc2794b1d2b8de442dbf30f7da8883", null ],
+    [ "SelectPillar", "d0/deb/a20855.html#a2eaa34f9f3b3d255fc5091fb5b48f60a", null ]
 ];

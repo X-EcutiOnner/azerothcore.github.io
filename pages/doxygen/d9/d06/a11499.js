@@ -1,6 +1,4 @@
 var a11499 =
 [
-    [ "CorpseMapPositionQuery", "d9/d06/a11499.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
-    [ "Read", "d9/d06/a11499.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
-    [ "unk", "d9/d06/a11499.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
+    [ "Validate", "d9/d06/a11499.html#a4512047d5f150789a00428a8431fd55f", null ]
 ];

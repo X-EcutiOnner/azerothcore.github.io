@@ -1,13 +1,13 @@
 var a14827 =
 [
-    [ "npc_costumed_orphan_matron", "d7/d7d/a14827.html#a0b913090588613ac00ea928f6273d56f", null ],
-    [ "DoAction", "d7/d7d/a14827.html#a7a7739f89604ffb5afc6bab75118340e", null ],
-    [ "GetInitXYZ", "d7/d7d/a14827.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533", null ],
-    [ "Reset", "d7/d7d/a14827.html#a962de50b13079f3337c4e41eb2d98b55", null ],
-    [ "sGossipHello", "d7/d7d/a14827.html#a1a9c58c087b8addf8e482375737d6c49", null ],
-    [ "sQuestAccept", "d7/d7d/a14827.html#adac5d514261a210a701442da13ba1587", null ],
-    [ "UpdateAI", "d7/d7d/a14827.html#a4679d807df8749265ba0453c5b7588f1", null ],
-    [ "allowQuest", "d7/d7d/a14827.html#a722f4bfd0fb8b2665ff2b79d3208bc90", null ],
-    [ "eventStarted", "d7/d7d/a14827.html#a5292ab4e45fe3a858b3a59ef4a79bb34", null ],
-    [ "horseGUID", "d7/d7d/a14827.html#a92cfd09cefd26933ae322f2cc2716927", null ]
+    [ "npc_alexstraza_the_lifebinder", "d7/d7d/a14827.html#a7c30258540803bde75843cb070b6a288", null ],
+    [ "MoveInLineOfSight", "d7/d7d/a14827.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
+    [ "Reset", "d7/d7d/a14827.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
+    [ "SetData", "d7/d7d/a14827.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "sGossipSelect", "d7/d7d/a14827.html#a642390a59ff46236dc3b429f371ea8cd", null ],
+    [ "UpdateAI", "d7/d7d/a14827.html#ad13b21d571833210b1c069b7ea8bea05", null ],
+    [ "orphanGUID", "d7/d7d/a14827.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
+    [ "phase", "d7/d7d/a14827.html#a98216e43888854ac93f22169a0e253e5", null ],
+    [ "playerGUID", "d7/d7d/a14827.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
+    [ "timer", "d7/d7d/a14827.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
 ];

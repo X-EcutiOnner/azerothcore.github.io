@@ -1,7 +1,6 @@
 var a21807 =
 [
-    [ "HandleScript", "db/d53/a21807.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
-    [ "PrepareSpellScript", "db/d53/a21807.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
-    [ "Register", "db/d53/a21807.html#a9b8efef83b515f2250bda500ff741aa3", null ],
-    [ "Validate", "db/d53/a21807.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
+    [ "HandleSendEvent", "db/d53/a21807.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "db/d53/a21807.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "db/d53/a21807.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

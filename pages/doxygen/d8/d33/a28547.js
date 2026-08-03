@@ -1,7 +1,6 @@
 var a28547 =
 [
-    [ "AllocationPct", "d8/d33/a28547.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
-    [ "Enchantment", "d8/d33/a28547.html#a45e694082c1dbdeef5229561f617d584", null ],
-    [ "ID", "d8/d33/a28547.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
-    [ "Name", "d8/d33/a28547.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
+    [ "npc_injured_patientAI", "d9/d40/a28551.html", "d9/d40/a28551" ],
+    [ "npc_injured_patient", "d8/d33/a28547.html#a0b7ef214aa1b20df088dee0976c73783", null ],
+    [ "GetAI", "d8/d33/a28547.html#a0c042bb81e684f903d28d7879af99d4a", null ]
 ];

@@ -1,9 +1,10 @@
 var a18171 =
 [
-    [ "CountTargets", "df/d67/a18171.html#aa72b762d802c27047d485a8a314c6c6d", null ],
-    [ "Load", "df/d67/a18171.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
-    [ "PrepareSpellScript", "df/d67/a18171.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
-    [ "Register", "df/d67/a18171.html#a86cad92c07fa31c730a3b560d33ed824", null ],
-    [ "SplitDamage", "df/d67/a18171.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
-    [ "_targetCount", "df/d67/a18171.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
+    [ "npc_cult_fanaticAI", "df/d67/a18171.html#a766e536288b84110f88a8bd282e97932", null ],
+    [ "JustEngagedWith", "df/d67/a18171.html#a709b75f4b1519bc7c6988985a22d076f", null ],
+    [ "Reset", "df/d67/a18171.html#a772830df1d16d0463c8c00f14c337db0", null ],
+    [ "SpellHit", "df/d67/a18171.html#a17c02a83b522c9717de3d89517104e42", null ],
+    [ "UpdateAI", "df/d67/a18171.html#ac79afdab3721d78d2b7e5da360083cea", null ],
+    [ "_instance", "df/d67/a18171.html#a7448fdf85cccfcb12509b0274205bff4", null ],
+    [ "events", "df/d67/a18171.html#a9576978141062fa1babbbc5ed42483c4", null ]
 ];

@@ -1,7 +1,7 @@
 var a21375 =
 [
-    [ "npc_bonker_togglevoltAI", "d5/d3e/a21379.html", "d5/d3e/a21379" ],
-    [ "npc_bonker_togglevolt", "dc/d39/a21375.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
-    [ "GetAI", "dc/d39/a21375.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
-    [ "OnQuestAccept", "dc/d39/a21375.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
+    [ "HandleScript", "dc/d39/a21375.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "dc/d39/a21375.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "dc/d39/a21375.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "dc/d39/a21375.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

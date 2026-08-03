@@ -1,13 +1,17 @@
 var a22267 =
 [
-    [ "OPvPCapturePointEP_NPT", "d4/d47/a22267.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
-    [ "ChangeState", "d4/d47/a22267.html#a9e046ace6129ce67568ed7c15130b617", null ],
-    [ "FillInitialWorldStates", "d4/d47/a22267.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
-    [ "HandlePlayerEnter", "d4/d47/a22267.html#ace643b7f7bc793934972c61c618045eb", null ],
-    [ "HandlePlayerLeave", "d4/d47/a22267.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
-    [ "SendChangePhase", "d4/d47/a22267.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
-    [ "SummonGO", "d4/d47/a22267.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
-    [ "UpdateTowerState", "d4/d47/a22267.html#ad8cfefcc567346273914e8039b039835", null ],
-    [ "m_SummonedGOSideId", "d4/d47/a22267.html#aa034240d169c9ab7276786bb188abc70", null ],
-    [ "m_TowerState", "d4/d47/a22267.html#a703b68024362d13ceaf9012202b72e7d", null ]
+    [ "npc_frosthound", "d4/d47/a22267.html#a90dc4d1debb64354154760b52f8b1129", null ],
+    [ "AttackStart", "d4/d47/a22267.html#adf6969c7670584747e407a3bede8c928", null ],
+    [ "EnterEvadeMode", "d4/d47/a22267.html#ad0a16989c8c65eaa58deec6f885719f3", null ],
+    [ "JustDied", "d4/d47/a22267.html#a5a20cbca9da2f80c02d0697c84689c7a", null ],
+    [ "JustEngagedWith", "d4/d47/a22267.html#a8c9d22bfd32c12b3cf60f89f6856b5a5", null ],
+    [ "JustSummoned", "d4/d47/a22267.html#a93858959a06e4f1aa014fca3044949bc", null ],
+    [ "OnCharmed", "d4/d47/a22267.html#aaf081193bdae7ef30c153a3d40dcefe7", null ],
+    [ "PassengerBoarded", "d4/d47/a22267.html#a0126be35e4bbb613c9e0a1a04bef3681", null ],
+    [ "Reset", "d4/d47/a22267.html#ac2056fafcb04a827c83bc199a89a8a74", null ],
+    [ "UpdateAI", "d4/d47/a22267.html#ab163e819369b6b90b5782ab8d1cecbaf", null ],
+    [ "WaypointReached", "d4/d47/a22267.html#a9f6238bd211a1a465815c8cdd9bac1d2", null ],
+    [ "WaypointReached", "d4/d47/a22267.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_completionWaypoint", "d4/d47/a22267.html#adfeb6a7a2755ebc0d1252cedf0f54727", null ],
+    [ "_summons", "d4/d47/a22267.html#a103a499ecce73bc4505a85a21c143e73", null ]
 ];

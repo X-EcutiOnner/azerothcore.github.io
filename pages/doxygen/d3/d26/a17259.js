@@ -1,11 +1,6 @@
 var a17259 =
 [
-    [ "npc_phantom_mage", "d3/d26/a17259.html#a96702110e1bd587aaa88a076773cac72", null ],
-    [ "AttackStart", "d3/d26/a17259.html#a79170c6d6aa434d291e50cd2153ee25a", null ],
-    [ "DoAction", "d3/d26/a17259.html#a8adf87e600eeab3678f369ab48b73927", null ],
-    [ "EnterEvadeMode", "d3/d26/a17259.html#a270f664ad9545f672405d051d1a8932a", null ],
-    [ "JustDied", "d3/d26/a17259.html#a9728d3deb8c8ef6ab82b76f79de20732", null ],
-    [ "JustEngagedWith", "d3/d26/a17259.html#a4cd8e7ba55317eb6ed2e0a7fbbebc80a", null ],
-    [ "Reset", "d3/d26/a17259.html#a3900181fe1328a3450e2e71bf30abbd7", null ],
-    [ "UpdateAI", "d3/d26/a17259.html#a919416fd6b52060e271e79afaaf14085", null ]
+    [ "PrepareSpellScript", "d3/d26/a17259.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
+    [ "RecalculateDamage", "d3/d26/a17259.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
+    [ "Register", "d3/d26/a17259.html#a1a740e697fc84f5f035f2ec251872009", null ]
 ];

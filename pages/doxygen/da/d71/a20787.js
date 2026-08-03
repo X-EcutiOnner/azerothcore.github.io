@@ -1,11 +1,7 @@
 var a20787 =
 [
-    [ "boss_yoggsaron_lich_king", "da/d71/a20787.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
-    [ "NextStep", "da/d71/a20787.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
-    [ "Reset", "da/d71/a20787.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
-    [ "Say", "da/d71/a20787.html#ac7687fe1253701c702cf2c17986727ec", null ],
-    [ "UpdateAI", "da/d71/a20787.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
-    [ "_checkTimer", "da/d71/a20787.html#a196ffc443569494bed79f623dd9cdca3", null ],
-    [ "_running", "da/d71/a20787.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
-    [ "_step", "da/d71/a20787.html#a97244534b8c6a69807388b620df2263f", null ]
+    [ "HandleFused", "da/d71/a20787.html#ab5ea77be32486664ff6c5ff7dc01f7dd", null ],
+    [ "PrepareAuraScript", "da/d71/a20787.html#a438c63656d2a976883fa13232cc5dc6e", null ],
+    [ "Register", "da/d71/a20787.html#a17300c74645f9298d8422535a61fe077", null ],
+    [ "Validate", "da/d71/a20787.html#a55ca732a3d0e3a69f055fd915037a5f0", null ]
 ];

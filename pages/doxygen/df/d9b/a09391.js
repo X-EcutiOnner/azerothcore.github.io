@@ -1,7 +1,8 @@
 var a09391 =
 [
-    [ "QuestPOIPoint", "df/d9b/a09391.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
-    [ "QuestPOIPoint", "df/d9b/a09391.html#a2e80e5a83ab336a8b019f38297862efa", null ],
-    [ "x", "df/d9b/a09391.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
-    [ "y", "df/d9b/a09391.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
+    [ "target_mapId", "df/d9b/a09391.html#af6d7558707c026a6d64f2d7b65a344be", null ],
+    [ "target_Orientation", "df/d9b/a09391.html#a5f6bf883e167b683e048ce9eeebb7cb0", null ],
+    [ "target_X", "df/d9b/a09391.html#a3ef5faea7a6fd9b173ea35036b3390b2", null ],
+    [ "target_Y", "df/d9b/a09391.html#a6660d360eaa47098506f246927130e32", null ],
+    [ "target_Z", "df/d9b/a09391.html#a32fee5f497804089feb738be84548dc1", null ]
 ];

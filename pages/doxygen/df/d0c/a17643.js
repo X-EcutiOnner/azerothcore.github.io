@@ -1,6 +1,6 @@
 var a17643 =
 [
-    [ "npc_ball_of_flameAI", "de/d63/a17647.html", "de/d63/a17647" ],
-    [ "npc_ball_of_flame", "df/d0c/a17643.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
-    [ "GetAI", "df/d0c/a17643.html#ac0309668f9f0ca85a644d4928966e577", null ]
+    [ "HandlePeriodic", "df/d0c/a17643.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "df/d0c/a17643.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "df/d0c/a17643.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

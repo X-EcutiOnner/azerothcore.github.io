@@ -1,10 +1,5 @@
 var a29143 =
 [
-    [ "ID", "d7/d55/a29143.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "d7/d55/a29143.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "d7/d55/a29143.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "d7/d55/a29143.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "d7/d55/a29143.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "d7/d55/a29143.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "d7/d55/a29143.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "Id", "d7/d55/a29143.html#a79e4b857b811a044aed0ce33422df801", null ],
+    [ "quality_mod", "d7/d55/a29143.html#a756e7b316cc365f15f24e5e4637303a6", null ]
 ];

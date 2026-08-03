@@ -1,6 +1,9 @@
 var a11075 =
 [
-    [ "GuildPromoteMember", "dc/dcc/a11075.html#af623a381aa80e827c2c29987501626ae", null ],
-    [ "Read", "dc/dcc/a11075.html#a3350c1a8c81aa1368a254288849b462b", null ],
-    [ "Promotee", "dc/dcc/a11075.html#af8addf6e9bc45364f595582e8f285cde", null ]
+    [ "GuildRoster", "dc/dcc/a11075.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
+    [ "Write", "dc/dcc/a11075.html#a544a539999827d4eb8923cbbcdf42bac", null ],
+    [ "InfoText", "dc/dcc/a11075.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
+    [ "MemberData", "dc/dcc/a11075.html#a964fc72bf3ada77c171fd1f691449241", null ],
+    [ "RankData", "dc/dcc/a11075.html#a67b0a12fae93c5807030c1062f328abb", null ],
+    [ "WelcomeText", "dc/dcc/a11075.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
 ];

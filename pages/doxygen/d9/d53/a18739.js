@@ -1,7 +1,6 @@
 var a18739 =
 [
-    [ "HandleProc", "d9/d53/a18739.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "d9/d53/a18739.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "d9/d53/a18739.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "d9/d53/a18739.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "npc_valkyr_shadowguardAI", "d4/d99/a18743.html", "d4/d99/a18743" ],
+    [ "npc_valkyr_shadowguard", "d9/d53/a18739.html#a8ee90e21499eebf240c57419454c3829", null ],
+    [ "GetAI", "d9/d53/a18739.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
 ];

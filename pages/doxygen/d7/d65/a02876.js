@@ -1,9 +1,9 @@
 var a02876 =
 [
-    [ "boss_razuvious", "dd/d8b/a19622.html", "dd/d8b/a19622" ],
-    [ "boss_razuvious::boss_razuviousAI", "d5/df3/a19626.html", "d5/df3/a19626" ],
-    [ "boss_razuvious_minion", "d4/d16/a19630.html", "d4/d16/a19630" ],
-    [ "boss_razuvious_minion::boss_razuvious_minionAI", "d0/dec/a19634.html", "d0/dec/a19634" ],
+    [ "boss_razuvious", "d8/dc4/a19619.html", "d8/dc4/a19619" ],
+    [ "boss_razuvious::boss_razuviousAI", "d7/d78/a19623.html", "d7/d78/a19623" ],
+    [ "boss_razuvious_minion", "df/d98/a19627.html", "df/d98/a19627" ],
+    [ "boss_razuvious_minion::boss_razuvious_minionAI", "d5/d78/a19631.html", "d5/d78/a19631" ],
     [ "Actions", "d7/d65/a02876.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d9/dfd/a01610.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d9/dfd/a01610.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -1654,6 +1654,7 @@ var a02876 =
       [ "SPELL_DARK_MATTER_VISUAL_CHANNEL", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5a760280be3f540c227e26d34756ef35", null ],
       [ "SPELL_DARK_MATTER", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a499b41edf9950331bd113593a13de1a4", null ],
       [ "SPELL_SEARING_GAZE", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a04d1058c4758a85da757fd74bf51501c", null ],
+      [ "SPELL_STEALTH", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab05b1ff486cc81800d4e40014eae5576", null ],
       [ "SPELL_TRIBUNAL_CREDIT_MARKER", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae1d7527e391c622243fa0fb5740b73eb", null ],
       [ "QUEST_HALLS_OF_STONE", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f4d823dced8973dbb7061fdbdb76b52", null ],
       [ "POINT_BRANN_INTRO", "dd/dfd/a03017.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa8ce0b2e94a1e1c1e093138984867bff", null ],
@@ -1741,6 +1742,7 @@ var a02876 =
       [ "EVENT_PHASE_ONE", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6b9ce13a0146076fc808a80ed99ccac7", null ],
       [ "EVENT_PHASE_TWO", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1bb0a83e28cfe9a4b28e66a80d9d5750", null ],
       [ "EVENT_PHASE_THREE", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a399f435f01db5b6781c8ab55b185c10b", null ],
+      [ "EVENT_PHASE_WIPE_RECOVERY", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a24bc0ff79a0142f8199261b4a51ff588", null ],
       [ "CRITERIA_NOT_GETTING_OLDER", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3d6aaca72ce1c9989df53cdba6145162", null ],
       [ "YS_P3_LUNATIC_GAZE", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab3149894fe283b632ed01890bb16a6ec", null ],
       [ "DATA_GET_KEEPERS_COUNT", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a13bbe1d42655f757a07ed9cabb167487", null ],
@@ -4213,6 +4215,7 @@ var a02876 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

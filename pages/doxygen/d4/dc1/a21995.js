@@ -1,7 +1,6 @@
 var a21995 =
 [
-    [ "HandleSendEvent", "d4/dc1/a21995.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "d4/dc1/a21995.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "d4/dc1/a21995.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "d4/dc1/a21995.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "HandleOnEffectRemove", "d4/dc1/a21995.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "d4/dc1/a21995.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "d4/dc1/a21995.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

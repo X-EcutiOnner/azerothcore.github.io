@@ -1,8 +1,9 @@
 var a27471 =
 [
-    [ "CheckProc", "d0/db9/a27471.html#a610313f5085c7c0109b5936e94de00fe", null ],
-    [ "OnProc", "d0/db9/a27471.html#ad87c4cbd332dc19be3bc8ec9982a385b", null ],
-    [ "PrepareAuraScript", "d0/db9/a27471.html#aae4d26e262f80681811c9b50c2a63642", null ],
-    [ "Register", "d0/db9/a27471.html#a8fdcd2b4489011294d9f58d5ff0beb3f", null ],
-    [ "Validate", "d0/db9/a27471.html#a00ef3cd4b2ee5739f5f7288ccbd6a1c6", null ]
+    [ "HandleHeal", "d0/db9/a27471.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
+    [ "Load", "d0/db9/a27471.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
+    [ "PrepareSpellScript", "d0/db9/a27471.html#a91eb46af707897f228e5d1bbd199a833", null ],
+    [ "Register", "d0/db9/a27471.html#ae28f1b0c23511153eafc037cae067bc0", null ],
+    [ "firstHeal", "d0/db9/a27471.html#a405326e6e1cd82816aef1712fdf335a0", null ],
+    [ "riptide", "d0/db9/a27471.html#acaec32f6730bc2e04e613aa982d285bf", null ]
 ];

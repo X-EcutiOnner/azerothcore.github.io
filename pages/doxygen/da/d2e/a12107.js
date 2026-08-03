@@ -1,11 +1,7 @@
 var a12107 =
 [
-    [ "WorldUpdateTime", "da/d2e/a12107.html#a97552c4ce99bd40919f199c17fe203ed", null ],
-    [ "LoadFromConfig", "da/d2e/a12107.html#acb2b9d56504fc760e7df1c93621ab788", null ],
-    [ "RecordUpdateTime", "da/d2e/a12107.html#a88d773c8029cebeab6b99444c25c8379", null ],
-    [ "RecordUpdateTimeDuration", "da/d2e/a12107.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
-    [ "SetRecordUpdateTimeInterval", "da/d2e/a12107.html#ada81050229ccacc49d5b6a9f6101174c", null ],
-    [ "_lastRecordTime", "da/d2e/a12107.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
-    [ "_recordUpdateTimeInverval", "da/d2e/a12107.html#a5486477b0a604f0207336e423f42c2b1", null ],
-    [ "_recordUpdateTimeMin", "da/d2e/a12107.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
+    [ "EffectApplyHandler", "da/d2e/a12107.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "da/d2e/a12107.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "da/d2e/a12107.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "da/d2e/a12107.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

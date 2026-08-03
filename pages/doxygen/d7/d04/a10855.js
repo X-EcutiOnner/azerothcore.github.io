@@ -1,7 +1,7 @@
 var a10855 =
 [
-    [ "ClientPacket", "d7/d04/a10855.html#aa1d1946c07e248bae5927e83fdad9500", null ],
-    [ "ClientPacket", "d7/d04/a10855.html#a1cdaaacca2695c4366647c7611073ff0", null ],
-    [ "GetOpcode", "d7/d04/a10855.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
-    [ "Write", "d7/d04/a10855.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
+    [ "SpellScriptLoader", "d7/d04/a10855.html#a3b6fe2ba310f95c438b7cf941865fe46", null ],
+    [ "GetAuraScript", "d7/d04/a10855.html#a9c60850e39ffe3d151a128b12777859d", null ],
+    [ "GetSpellScript", "d7/d04/a10855.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
+    [ "IsDatabaseBound", "d7/d04/a10855.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
 ];

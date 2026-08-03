@@ -1,6 +1,5 @@
 var a22759 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "df/d8a/a22759.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "df/d8a/a22759.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
-    [ "UpdateAI", "df/d8a/a22759.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "ChargeTargetSelector", "df/d8a/a22759.html#a064e7d9008bfc85b7c636490c7aaf714", null ],
+    [ "operator()", "df/d8a/a22759.html#a596223da822f5a08281fe709cca95909", null ]
 ];

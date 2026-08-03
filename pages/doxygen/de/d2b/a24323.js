@@ -1,10 +1,7 @@
 var a24323 =
 [
-    [ "Absorb", "de/d2b/a24323.html#a99db0d1254ddcfa9e7afb241e73b3235", null ],
-    [ "CalculateAmount", "de/d2b/a24323.html#a279a025cac490ee3647f47584b59179f", null ],
-    [ "Load", "de/d2b/a24323.html#a3fededdbfca9d12e6dbd097620e104be", null ],
-    [ "PrepareAuraScript", "de/d2b/a24323.html#a818875a8073491eab2508182bd941e25", null ],
-    [ "Register", "de/d2b/a24323.html#a2419bff95bad81a0f63c4988f14eb3f9", null ],
-    [ "Validate", "de/d2b/a24323.html#a60eb14be1b3108b7b896a27eab35569b", null ],
-    [ "absorbPct", "de/d2b/a24323.html#ac51bad58076a6dfa520fd3e9ea0c76b5", null ]
+    [ "HandleSendEvent", "de/d2b/a24323.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
+    [ "PrepareSpellScript", "de/d2b/a24323.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
+    [ "Register", "de/d2b/a24323.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
+    [ "Validate", "de/d2b/a24323.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
 ];

@@ -1,6 +1,6 @@
 var a21327 =
 [
-    [ "npc_khunok_the_behemothAI", "db/d3c/a21331.html", "db/d3c/a21331" ],
-    [ "npc_khunok_the_behemoth", "d3/d6d/a21327.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "d3/d6d/a21327.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "npc_ritual_channelerAI", "db/d3c/a21331.html", "db/d3c/a21331" ],
+    [ "npc_ritual_channeler", "d3/d6d/a21327.html#adab372002549b009e3f937ec67e49f3f", null ],
+    [ "GetAI", "d3/d6d/a21327.html#aa416545438d701cbfc2567ba5ae536c8", null ]
 ];

@@ -1,15 +1,8 @@
 var a09915 =
 [
-    [ "LogHolder", "d9/d4f/a09915.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
-    [ "AddEvent", "d9/d4f/a09915.html#a5f6d81d9048290815053bb4aa3531d73", null ],
-    [ "CanInsert", "d9/d4f/a09915.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
-    [ "GetGuildId", "d9/d4f/a09915.html#ada98449548b389a1cd8177087e3aa5e8", null ],
-    [ "GetGuildLog", "d9/d4f/a09915.html#a17593c12663e8c4251f94636e511c73a", null ],
-    [ "GetGuildLog", "d9/d4f/a09915.html#ae43929001324d6bece4e45bc95115535", null ],
-    [ "GetNextGUID", "d9/d4f/a09915.html#aed00250b6a1036a91dd971af510f7750", null ],
-    [ "LoadEvent", "d9/d4f/a09915.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
-    [ "m_guildId", "d9/d4f/a09915.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
-    [ "m_log", "d9/d4f/a09915.html#aca25adbc1c1e9397c837a53793568b64", null ],
-    [ "m_maxRecords", "d9/d4f/a09915.html#a755788eaede72a131f74ae7de88c37b4", null ],
-    [ "m_nextGUID", "d9/d4f/a09915.html#a267cecce9b2f244235800c93a086e8e2", null ]
+    [ "LocalizedPacketDo", "d9/d4f/a09915.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
+    [ "~LocalizedPacketDo", "d9/d4f/a09915.html#a4296260b2011e1f7c300987073863ca9", null ],
+    [ "operator()", "d9/d4f/a09915.html#a43449bdf0302e426b8cb4341326196b1", null ],
+    [ "i_builder", "d9/d4f/a09915.html#a2c794905898feb502bfc5d3760f962b8", null ],
+    [ "i_data_cache", "d9/d4f/a09915.html#a2bbff655e1a5268981c48e3ee028b104", null ]
 ];

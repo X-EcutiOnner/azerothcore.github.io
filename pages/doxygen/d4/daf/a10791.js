@@ -1,25 +1,5 @@
 var a10791 =
 [
-    [ "UnitScript", "d4/daf/a10791.html#a109b6b1a101953feb0f157729f3df5d2", null ],
-    [ "CanSetPhaseMask", "d4/daf/a10791.html#a95d2e7dd7074494fdd4f530f9684c1bf", null ],
-    [ "DealDamage", "d4/daf/a10791.html#a4b161e889eee3572a41c33a144d12cdf", null ],
-    [ "IfNormalReaction", "d4/daf/a10791.html#a355d024283b4ce02a2fdcf551c75c3b2", null ],
-    [ "IsCustomBuildValuesUpdate", "d4/daf/a10791.html#a1859b5ca0970c3a358a4ba0207f281de", null ],
-    [ "ModifyHealReceived", "d4/daf/a10791.html#ac2f40d7ca52538ae874f60a7acbf443b", null ],
-    [ "ModifyMeleeDamage", "d4/daf/a10791.html#acde1701dd3d6207da2e76d7d1753f9c7", null ],
-    [ "ModifyPeriodicDamageAurasTick", "d4/daf/a10791.html#ae0703adbc70a14443c0370de77e95190", null ],
-    [ "ModifySpellDamageTaken", "d4/daf/a10791.html#a375db3302ef33bcc5c874b0b53bbc345", null ],
-    [ "OnAuraApply", "d4/daf/a10791.html#a334ac1a9d8e29aa064d3625d59c7a167", null ],
-    [ "OnAuraRemove", "d4/daf/a10791.html#a2ed2cf6d9725ae342adfada023538a28", null ],
-    [ "OnBeforeRollMeleeOutcomeAgainst", "d4/daf/a10791.html#a627a99cd078d2cbd52519874f0bd0aff", null ],
-    [ "OnDamage", "d4/daf/a10791.html#a5541573db45b4404ae0b613251ad1a13", null ],
-    [ "OnDisplayIdChange", "d4/daf/a10791.html#a43cd3dd2e6cd311b1045b8f5d7d6ac83", null ],
-    [ "OnHeal", "d4/daf/a10791.html#adcdc8430e14bccfe399a7e1a3edd2b69", null ],
-    [ "OnPatchValuesUpdate", "d4/daf/a10791.html#a0a751a8fb5c99375b667214915822e96", null ],
-    [ "OnUnitDeath", "d4/daf/a10791.html#a7bb5f4ea3ae8edb55df455648863d93f", null ],
-    [ "OnUnitEnterCombat", "d4/daf/a10791.html#a8d04617af120a1e23ad57a45440744bb", null ],
-    [ "OnUnitEnterEvadeMode", "d4/daf/a10791.html#a9df6f81297f53007f1227778466e912f", null ],
-    [ "OnUnitSetShapeshiftForm", "d4/daf/a10791.html#acacf12c000646710abf931429a0852c0", null ],
-    [ "OnUnitUpdate", "d4/daf/a10791.html#a36e7ba9d74892f59d0a36b76e78f4f80", null ],
-    [ "ShouldTrackValuesUpdatePosByIndex", "d4/daf/a10791.html#a7b74be81d24bc7265d5566d67d044aad", null ]
+    [ "FactoryGameObjectScript", "d4/daf/a10791.html#ac0981bdae743da11b99d7df1c967a703", null ],
+    [ "GetAI", "d4/daf/a10791.html#a9a39e94f28729ea1fb4b6231d588b42c", null ]
 ];

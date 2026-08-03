@@ -1,6 +1,6 @@
 var a22007 =
 [
-    [ "PrepareSpellScript", "df/db8/a22007.html#a87014fc73af805b7ad052d1f4f45d7cd", null ],
-    [ "Register", "df/db8/a22007.html#a306252bb3bc9af689400981b198f66e8", null ],
-    [ "SetDest", "df/db8/a22007.html#a0bffbc57932a2efe33a9912d608eb79d", null ]
+    [ "npc_attracted_reef_bullAI", "df/db8/a22007.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "df/db8/a22007.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "df/db8/a22007.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

@@ -1,7 +1,7 @@
 var a25395 =
 [
-    [ "HandleScriptEffect", "d8/d8a/a25395.html#ab1d476e7a07da5db80908fb669b6fa6b", null ],
-    [ "PrepareSpellScript", "d8/d8a/a25395.html#acf30d245bab2e7a1ee1121008345e667", null ],
-    [ "Register", "d8/d8a/a25395.html#a303a38a41f3d9be6e3083690b234e51f", null ],
-    [ "Validate", "d8/d8a/a25395.html#a77a3256cdea185ce0ea95d88283c55d7", null ]
+    [ "PrepareSpellScript", "d8/d8a/a25395.html#a65d5717a25e371e09c44148c679dd390", null ],
+    [ "Register", "d8/d8a/a25395.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
+    [ "RemoveInvalidTargets", "d8/d8a/a25395.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
+    [ "Validate", "d8/d8a/a25395.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
 ];

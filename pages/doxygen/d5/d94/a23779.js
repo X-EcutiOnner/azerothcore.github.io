@@ -1,6 +1,7 @@
 var a23779 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d4/d80/a23783.html", "d4/d80/a23783" ],
-    [ "npc_oscillating_frequency_scanner_master_bunny", "d5/d94/a23779.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
-    [ "GetAI", "d5/d94/a23779.html#a60d55e2eda4484ceea4e475ac8653977", null ]
+    [ "HandleCast", "d5/d94/a23779.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
+    [ "PrepareSpellScript", "d5/d94/a23779.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
+    [ "Register", "d5/d94/a23779.html#a6ae0573ea69573df64cd57ba84f99918", null ],
+    [ "Validate", "d5/d94/a23779.html#ab5794ca5c0863ce40194ed40e156279a", null ]
 ];

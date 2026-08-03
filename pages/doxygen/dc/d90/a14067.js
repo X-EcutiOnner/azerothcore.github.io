@@ -1,6 +1,6 @@
 var a14067 =
 [
-    [ "npc_grand_magister_rommathAI", "dd/d5d/a14071.html", "dd/d5d/a14071" ],
-    [ "npc_grand_magister_rommath", "dc/d90/a14067.html#a63b9786bfbd9c7b462b0549e2f6941ea", null ],
-    [ "GetAI", "dc/d90/a14067.html#abd64eff4712e8209e39e938b1813250c", null ]
+    [ "CheckProc", "dc/d90/a14067.html#af6d00234388ceb5d1c9acd8775c66788", null ],
+    [ "PrepareAuraScript", "dc/d90/a14067.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
+    [ "Register", "dc/d90/a14067.html#acad1e829a317d15e73549047ece67eda", null ]
 ];

@@ -1,6 +1,7 @@
 var a25647 =
 [
-    [ "PrepareSpellScript", "d1/d69/a25647.html#a3a77016a3a8314969ce41cc6483761ec", null ],
-    [ "Register", "d1/d69/a25647.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
-    [ "SetDest", "d1/d69/a25647.html#a724217c09faa57ec2e6dad034e8709ed", null ]
+    [ "HandleOnEffectApply", "d1/d69/a25647.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "d1/d69/a25647.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "d1/d69/a25647.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "d1/d69/a25647.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

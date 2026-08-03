@@ -1,5 +1,6 @@
 var a21955 =
 [
-    [ "go_brazier", "d3/d78/a21955.html#a432a07256fde679a889de7ba0f64f092", null ],
-    [ "OnGossipHello", "d3/d78/a21955.html#a3e0be690d58be4d7bbbb5b624ac4bd5b", null ]
+    [ "CheckRequirement", "d3/d78/a21955.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
+    [ "PrepareSpellScript", "d3/d78/a21955.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
+    [ "Register", "d3/d78/a21955.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
 ];

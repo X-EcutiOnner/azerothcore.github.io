@@ -1,7 +1,6 @@
 var a15459 =
 [
-    [ "FilterTargets", "df/d7e/a15459.html#a59e477333a54ec828a429d15b35d4936", null ],
-    [ "HandleScript", "df/d7e/a15459.html#a983fe53aa52e53a45685055fde04a3b7", null ],
-    [ "PrepareSpellScript", "df/d7e/a15459.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
-    [ "Register", "df/d7e/a15459.html#a45ac61990990f16c98eaa7136297afc5", null ]
+    [ "npc_belnistraszAI", "d2/d58/a15463.html", "d2/d58/a15463" ],
+    [ "npc_belnistrasz", "df/d7e/a15459.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
+    [ "GetAI", "df/d7e/a15459.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
 ];

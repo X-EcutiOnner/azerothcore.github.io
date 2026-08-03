@@ -1,16 +1,7 @@
 var a15307 =
 [
-    [ "npc_medivh_bm", "d5/d60/a15307.html#a23f04c433faf7da663b2edffb2a0440d", null ],
-    [ "AttackStart", "d5/d60/a15307.html#a8eb87f4d80d83725af017657c599d458", null ],
-    [ "DoAction", "d5/d60/a15307.html#aa5a54d0b2b069947dd59eee77cbdf21b", null ],
-    [ "JustDied", "d5/d60/a15307.html#ad6dbbef1b6fbccd9dd224af1a15a6c90", null ],
-    [ "JustSummoned", "d5/d60/a15307.html#a16d8d3be1dd148e149f4e49570f092a6", null ],
-    [ "MoveInLineOfSight", "d5/d60/a15307.html#a87f092fccd5b485bdf0bd0449bd57265", null ],
-    [ "Reset", "d5/d60/a15307.html#a1a33f613b083763c952882cdb82a35c1", null ],
-    [ "SummonOrcs", "d5/d60/a15307.html#a13964b4c460a664442be7eebe768edf5", null ],
-    [ "UpdateAI", "d5/d60/a15307.html#aefc693d7be0c06c5056cae18d4e4eb1e", null ],
-    [ "_airArray", "d5/d60/a15307.html#a6e766596b69b52690635ee91e6e8d164", null ],
-    [ "_events", "d5/d60/a15307.html#a1d4fe5bc964d12e812a178c68e2f037f", null ],
-    [ "_groundArray", "d5/d60/a15307.html#a6fd3a75ddec2a6bda3e5d1bd3e33722c", null ],
-    [ "_instance", "d5/d60/a15307.html#a45e129d61c3987e4bff94485db739eb1", null ]
+    [ "npc_cos_chromie_middle", "d5/d60/a15307.html#a1bb7229781c122d362e781d2737d0fd3", null ],
+    [ "OnGossipHello", "d5/d60/a15307.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
+    [ "OnGossipSelect", "d5/d60/a15307.html#a37ebdd257ef22554c81cf3c062856141", null ],
+    [ "OnQuestAccept", "d5/d60/a15307.html#ad9e733b4dd69f58d880aebcfe06cbf96", null ]
 ];

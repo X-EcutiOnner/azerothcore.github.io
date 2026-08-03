@@ -1,14 +1,13 @@
 var a29435 =
 [
-    [ "SetUp", "d8/d7e/a29435.html#a77eba369912e1969b3f049cb3a5c0ca4", null ],
-    [ "TearDown", "d8/d7e/a29435.html#adc8da5178618fb9742ea60920560d6ff", null ],
-    [ "PERM_ADMIN_1", "d8/d7e/a29435.html#afaa2c4b6a7112d04a95cd85143b0f4f0", null ],
-    [ "PERM_GM_1", "d8/d7e/a29435.html#a378e309848a3ee8b3f0e610572ba6124", null ],
-    [ "PERM_MOD_1", "d8/d7e/a29435.html#a05f115edd8aa321527de060f17c2e956", null ],
-    [ "PERM_PLAYER_1", "d8/d7e/a29435.html#a2c61447c90608ed3b714ba4e28efca76", null ],
-    [ "PERM_PLAYER_2", "d8/d7e/a29435.html#a31cc52a84454c48879c558f9698cd29b", null ],
-    [ "SEC_ADMINISTRATOR", "d8/d7e/a29435.html#aaddb5fa0a6d385cda760eaf92a7f59b3", null ],
-    [ "SEC_GAMEMASTER", "d8/d7e/a29435.html#ac922fc5904bb31a878f28a210b1a5740", null ],
-    [ "SEC_MODERATOR", "d8/d7e/a29435.html#a82e9196ebe8fe4f4672abe9cfbc6f163", null ],
-    [ "SEC_PLAYER", "d8/d7e/a29435.html#ad8c087c8b8503262387306039b44f09c", null ]
+    [ "actionFlag", "d8/d7e/a29435.html#a6257ae486eff937cf12be64f0e850ca6", null ],
+    [ "arrivalEventID", "d8/d7e/a29435.html#a1ffe17f529066091b18451a1121ce6ac", null ],
+    [ "delay", "d8/d7e/a29435.html#aef005db912b0a57ecc5d62c66d838826", null ],
+    [ "departureEventID", "d8/d7e/a29435.html#a670a033aaf0ff48676373baf9235d670", null ],
+    [ "index", "d8/d7e/a29435.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
+    [ "mapid", "d8/d7e/a29435.html#aa2c6fb8a785e297c72384043698dd401", null ],
+    [ "path", "d8/d7e/a29435.html#aa0692acbae0d4639c89ece77265d7858", null ],
+    [ "x", "d8/d7e/a29435.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
+    [ "y", "d8/d7e/a29435.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
+    [ "z", "d8/d7e/a29435.html#af48d85940d7f204091e8438427a72e2d", null ]
 ];

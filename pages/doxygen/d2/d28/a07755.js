@@ -1,9 +1,12 @@
 var a07755 =
 [
-    [ "entry", "d2/d28/a07755.html#a2238cabe763a588a5572611e0aefe6ba", null ],
-    [ "o", "d2/d28/a07755.html#a0ebd9ea966eb66cf80b8f3c003db60c0", null ],
-    [ "type", "d2/d28/a07755.html#a561ac93f5c1bcc26dacbd0212b602eac", null ],
-    [ "x", "d2/d28/a07755.html#a616d422b4e8c99ec3285a87f553d4091", null ],
-    [ "y", "d2/d28/a07755.html#a34de8c83a7bc8b33ac0cabdfb1bd3459", null ],
-    [ "z", "d2/d28/a07755.html#a78cff0661e6d9440574306ec01389d42", null ]
+    [ "NodeId", "d2/d28/a07755.html#a039c468fa0b6110809f0617496c0146c", null ],
+    [ "TextAllianceAssaulted", "d2/d28/a07755.html#a345b2ce7c48e9d10d03ff484a0108389", null ],
+    [ "TextAllianceClaims", "d2/d28/a07755.html#a0671602a29f33e353a8a339540beae18", null ],
+    [ "TextAllianceDefended", "d2/d28/a07755.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250", null ],
+    [ "TextAllianceTaken", "d2/d28/a07755.html#a281a0378999ed5966f5d28cc4310fbcd", null ],
+    [ "TextHordeAssaulted", "d2/d28/a07755.html#a7fb668b0b9563bb0779bf4a5daefded8", null ],
+    [ "TextHordeClaims", "d2/d28/a07755.html#acddac09017717cf5b2893ab83e1d10c8", null ],
+    [ "TextHordeDefended", "d2/d28/a07755.html#a00cea010cfe6fb9702e5cb00003e5bef", null ],
+    [ "TextHordeTaken", "d2/d28/a07755.html#a2bbd1b49b9b72784d07be9db2a27fe77", null ]
 ];

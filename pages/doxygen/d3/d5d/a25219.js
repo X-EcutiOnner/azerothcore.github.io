@@ -1,7 +1,7 @@
 var a25219 =
 [
-    [ "HandleScript", "d3/d5d/a25219.html#a1097b1548b2785ac7ffd916ee5531fe9", null ],
-    [ "PrepareSpellScript", "d3/d5d/a25219.html#a47dc9761bf10b1290963ff7eebe0121a", null ],
-    [ "Register", "d3/d5d/a25219.html#a984b2af5268fbf294a0292502b8ddb44", null ],
-    [ "Validate", "d3/d5d/a25219.html#a0cfbc2dcb836e7c37dd03cb3d0728621", null ]
+    [ "HandleScript", "d3/d5d/a25219.html#a8ec57aed0788f58e2c50fc08793a5749", null ],
+    [ "PrepareSpellScript", "d3/d5d/a25219.html#a56c9ab120239252982cab8b96ac8c5fe", null ],
+    [ "Register", "d3/d5d/a25219.html#a8c727b2b00858abcce058b16d66ca62a", null ],
+    [ "Validate", "d3/d5d/a25219.html#af3ffb9930eaba8703065719bbcf02f56", null ]
 ];

@@ -1,5 +1,6 @@
 var a18923 =
 [
-    [ "achievement_portal_jockey", "db/dc2/a18923.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
-    [ "OnCheck", "db/dc2/a18923.html#a2695b1fee353be7340f319c632a43efc", null ]
+    [ "npc_valithria_cloudAI", "d9/d64/a18927.html", "d9/d64/a18927" ],
+    [ "npc_valithria_cloud", "db/dc2/a18923.html#a11d1bdc4c6e8210e2d0706f33d369dde", null ],
+    [ "GetAI", "db/dc2/a18923.html#afeff905cec1245dbac6fa59673aef015", null ]
 ];

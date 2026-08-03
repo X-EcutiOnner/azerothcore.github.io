@@ -1,8 +1,6 @@
 var a19919 =
 [
-    [ "brann_bronzebeardAI", "d4/d02/a19923.html", "d4/d02/a19923" ],
-    [ "brann_bronzebeard", "db/dbf/a19919.html#a66fd8785647896a1a5f7be041242cfd6", null ],
-    [ "GetAI", "db/dbf/a19919.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
-    [ "OnGossipHello", "db/dbf/a19919.html#a2714a2dde596db76706b8a86f97f82b8", null ],
-    [ "OnGossipSelect", "db/dbf/a19919.html#a0e0068a45012e50a9f645d393bdfe163", null ]
+    [ "HandleEffectCalcAmount", "db/dbf/a19919.html#afa50ce616d36dd59c7195209074d6182", null ],
+    [ "PrepareAuraScript", "db/dbf/a19919.html#a4638b99dac7653f13d59c3928a78b3b9", null ],
+    [ "Register", "db/dbf/a19919.html#a691d5a99eec9e367c518d0244f25bd41", null ]
 ];

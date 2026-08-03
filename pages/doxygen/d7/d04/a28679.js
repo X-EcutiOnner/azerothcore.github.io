@@ -1,8 +1,6 @@
 var a28679 =
 [
-    [ "NoRuneCost", "d7/d04/a28679.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
-    [ "NoRunicPowerGain", "d7/d04/a28679.html#a97da075ecd116ef27fd4265bb8380667", null ],
-    [ "ID", "d7/d04/a28679.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
-    [ "RuneCost", "d7/d04/a28679.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
-    [ "runePowerGain", "d7/d04/a28679.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
+    [ "npc_necropolis_relay", "d7/d04/a28679.html#a044958acd1449d664532aeea7d0cb2fd", null ],
+    [ "SpellHit", "d7/d04/a28679.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
+    [ "SpellHitTarget", "d7/d04/a28679.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
 ];

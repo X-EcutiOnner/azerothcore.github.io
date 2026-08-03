@@ -1,7 +1,9 @@
 var a24275 =
 [
-    [ "CheckProc", "dc/d54/a24275.html#abd74252153fc4fc9a4e561005ea58b3f", null ],
-    [ "HandleProc", "dc/d54/a24275.html#a8ab07569658cf2fa02193691bcab14ac", null ],
-    [ "PrepareAuraScript", "dc/d54/a24275.html#ae169eb2c0e194f8f34ee2a0d5fd973d3", null ],
-    [ "Register", "dc/d54/a24275.html#a72d89db31c1fbd5c3b49b4c05a2d90f4", null ]
+    [ "npc_korkron_or_wildhammer", "dc/d54/a24275.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
+    [ "IsSummonedBy", "dc/d54/a24275.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
+    [ "JustDied", "dc/d54/a24275.html#a2b216f372b3681b4c96a711568c2a93b", null ],
+    [ "MovementInform", "dc/d54/a24275.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
+    [ "Reset", "dc/d54/a24275.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
+    [ "_playerGUID", "dc/d54/a24275.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
 ];

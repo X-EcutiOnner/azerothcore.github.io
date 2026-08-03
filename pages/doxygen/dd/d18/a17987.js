@@ -1,6 +1,6 @@
 var a17987 =
 [
-    [ "PrepareSpellScript", "dd/d18/a17987.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "dd/d18/a17987.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "dd/d18/a17987.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "npc_muradin_bronzebeard_igbAI", "d0/d43/a17991.html", "d0/d43/a17991" ],
+    [ "npc_muradin_bronzebeard_igb", "dd/d18/a17987.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
+    [ "GetAI", "dd/d18/a17987.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
 ];

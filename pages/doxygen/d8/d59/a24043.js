@@ -1,5 +1,7 @@
 var a24043 =
 [
-    [ "npc_shattrath_daily_quest", "d8/d59/a24043.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "d8/d59/a24043.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "HandleEffect", "d8/d59/a24043.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "d8/d59/a24043.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "d8/d59/a24043.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "d8/d59/a24043.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

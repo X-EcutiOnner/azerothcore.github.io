@@ -1,8 +1,7 @@
 var a22123 =
 [
-    [ "npc_oathbound_warder", "d9/d5e/a22123.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
-    [ "AttackStart", "d9/d5e/a22123.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
-    [ "InitializeAI", "d9/d5e/a22123.html#a62c4c568ad615013afa46c7da84d057a", null ],
-    [ "JustEngagedWith", "d9/d5e/a22123.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
-    [ "UpdateAI", "d9/d5e/a22123.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
+    [ "Absorb", "d9/d5e/a22123.html#a784b48553696734abac77545df2fc045", null ],
+    [ "CalculateAmount", "d9/d5e/a22123.html#a456ee99a71062f6217bda7561e4e7766", null ],
+    [ "PrepareAuraScript", "d9/d5e/a22123.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
+    [ "Register", "d9/d5e/a22123.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
 ];

@@ -1,5 +1,6 @@
 var a27751 =
 [
-    [ "achievement_sa_defense_of_the_ancients", "de/dfd/a27751.html#a678cffdece32710a42a92db0c092f3a5", null ],
-    [ "OnCheck", "de/dfd/a27751.html#af23e346f9b022f490b84c8081f847a2f", null ]
+    [ "HandleAfterHit", "de/dfd/a27751.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
+    [ "PrepareSpellScript", "de/dfd/a27751.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
+    [ "Register", "de/dfd/a27751.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
 ];

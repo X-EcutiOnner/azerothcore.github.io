@@ -1,8 +1,6 @@
 var a13959 =
 [
-    [ "HandleEffectApply", "dc/db8/a13959.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
-    [ "HandleEffectRemove", "dc/db8/a13959.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
-    [ "Load", "dc/db8/a13959.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
-    [ "PrepareAuraScript", "dc/db8/a13959.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
-    [ "Register", "dc/db8/a13959.html#a6a90296c9903ce65913f3bba29dea176", null ]
+    [ "npc_professor_phizzlethorpeAI", "d1/d47/a13963.html", "d1/d47/a13963" ],
+    [ "npc_professor_phizzlethorpe", "dc/db8/a13959.html#a8d32b4a107533c81033c617b0b97027d", null ],
+    [ "GetAI", "dc/db8/a13959.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
 ];

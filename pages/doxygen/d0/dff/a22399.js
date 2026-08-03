@@ -1,8 +1,5 @@
 var a22399 =
 [
-    [ "npc_yor", "d0/dff/a22399.html#a43ed8720d06c035085d481dbe6539dca", null ],
-    [ "JustEngagedWith", "d0/dff/a22399.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
-    [ "Reset", "d0/dff/a22399.html#aa698540b646fd870b33afbaf19ddbe07", null ],
-    [ "UpdateAI", "d0/dff/a22399.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
-    [ "_scheduler", "d0/dff/a22399.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
+    [ "npc_wg_spirit_guideAI", "d0/dff/a22399.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
+    [ "UpdateAI", "d0/dff/a22399.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
 ];

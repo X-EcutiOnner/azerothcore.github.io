@@ -1,11 +1,19 @@
 var a12607 =
 [
-    [ "boss_emperor_dagran_thaurissan", "d2/d85/a12607.html#a33efe0ee1573c4b43cdf58bdce303e5d", null ],
-    [ "JustDied", "d2/d85/a12607.html#a526a7726e2838ef4c49cca8dd6fc68c9", null ],
-    [ "JustEngagedWith", "d2/d85/a12607.html#a182564d95dc677ea33e47995638a9a58", null ],
-    [ "KilledUnit", "d2/d85/a12607.html#a7f7ae37e4abbe37f4fa46b98af3ac03a", null ],
-    [ "SetData", "d2/d85/a12607.html#a5ccda3d76afe43804c86e193afa9b80c", null ],
-    [ "UpdateAI", "d2/d85/a12607.html#ab1c7da00e8e1a20d2592ec26862867fc", null ],
-    [ "hasYelled", "d2/d85/a12607.html#aaadeb10c22c598cd10ccde83425fbf71", null ],
-    [ "SenatorYells", "d2/d85/a12607.html#ad94aef1875a5a863f78dc84a964638f9", null ]
+    [ "server_commandscript", "d2/d85/a12607.html#a61d8b3a9f967996b533e62e94fe4c8ca", null ],
+    [ "GetCommands", "d2/d85/a12607.html#a850c21f1ece40c576d3bf622f1c3e18f", null ],
+    [ "HandleServerCorpsesCommand", "d2/d85/a12607.html#a01ae63f31c7f03f6c0006fe4583a14a3", null ],
+    [ "HandleServerDebugCommand", "d2/d85/a12607.html#ac78145cb5c0888449756e4dbb36c005f", null ],
+    [ "HandleServerExitCommand", "d2/d85/a12607.html#ab894b36baa95de647fb329fce6eed8fb", null ],
+    [ "HandleServerIdleRestartCommand", "d2/d85/a12607.html#ae18a92337d6cf8e62eafdf5f39d7b5a8", null ],
+    [ "HandleServerIdleShutDownCommand", "d2/d85/a12607.html#aa431504b2755304c4263121a7a437ce4", null ],
+    [ "HandleServerInfoCommand", "d2/d85/a12607.html#a6c63114c474f69621b013dbb57b47bf2", null ],
+    [ "HandleServerMotdCommand", "d2/d85/a12607.html#aa10d866fcb8567fbc625d2a297a116a6", null ],
+    [ "HandleServerRestartCommand", "d2/d85/a12607.html#a3ec7dd1f81f3b4b8adcb5f04f4d20f3f", null ],
+    [ "HandleServerSetClosedCommand", "d2/d85/a12607.html#a2ba489469cdb3c8da944f7d6547ae462", null ],
+    [ "HandleServerSetLogLevelCommand", "d2/d85/a12607.html#a1ce5627c1d948b5a5c86db54357de02a", null ],
+    [ "HandleServerSetMotdCommand", "d2/d85/a12607.html#a8cf2076d5e5fa3b35fddba117cd990bb", null ],
+    [ "HandleServerSetSecurityCommand", "d2/d85/a12607.html#aa2057e6a08f0bfd355aec0abf75d7c3f", null ],
+    [ "HandleServerShutDownCancelCommand", "d2/d85/a12607.html#ae64357518538c1ce4d03a8d9968b4035", null ],
+    [ "HandleServerShutDownCommand", "d2/d85/a12607.html#a514149a8d1dfc4513e0c71b69901767d", null ]
 ];

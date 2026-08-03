@@ -1,9 +1,14 @@
 var a15835 =
 [
-    [ "npc_prospector_remtravelAI", "d8/dfa/a15835.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
-    [ "JustEngagedWith", "d8/dfa/a15835.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
-    [ "JustSummoned", "d8/dfa/a15835.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
-    [ "Reset", "d8/dfa/a15835.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
-    [ "WaypointReached", "d8/dfa/a15835.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ],
-    [ "WaypointReached", "d8/dfa/a15835.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_draenei_survivorAI", "d8/dfa/a15835.html#a8766dcf9afd6d26d619bead82b549a8f", null ],
+    [ "JustEngagedWith", "d8/dfa/a15835.html#a6d0b790ad7466b14bf0bba0aa37eebf2", null ],
+    [ "MoveInLineOfSight", "d8/dfa/a15835.html#a2b3f0a595fde04ad1e054331a596e225", null ],
+    [ "Reset", "d8/dfa/a15835.html#a3db19a846ce3b4810321eb02d314633f", null ],
+    [ "SpellHit", "d8/dfa/a15835.html#a079789d2f6a03b1c7b0ac7dc43a2550a", null ],
+    [ "UpdateAI", "d8/dfa/a15835.html#aa3fd8e3747fa69b5156e932fddaf6fa7", null ],
+    [ "CanSayHelp", "d8/dfa/a15835.html#a6bf8c4eb06fe661da0c850424843bd42", null ],
+    [ "pCaster", "d8/dfa/a15835.html#a35ad8350e51fd520b75cd0289f19cb09", null ],
+    [ "RunAwayTimer", "d8/dfa/a15835.html#a233885b12615bfbc927d8845d0cff3fd", null ],
+    [ "SayHelpTimer", "d8/dfa/a15835.html#a8d77b110c6af6615d5d39e0870cbe890", null ],
+    [ "SayThanksTimer", "d8/dfa/a15835.html#a4f2d829af97d6fb5ef13e3922ebe99e8", null ]
 ];

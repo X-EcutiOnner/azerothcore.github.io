@@ -1,9 +1,7 @@
 var a25411 =
 [
-    [ "DoCheckCast", "dc/dcd/a25411.html#a09c7bd66988c38cb019656842ed87366", null ],
-    [ "HandleDummy", "dc/dcd/a25411.html#a183e2ac37a432ea2902b31e24a474cea", null ],
-    [ "HandleScriptEffect", "dc/dcd/a25411.html#a396b1129f15056d0b22c7887f56bea99", null ],
-    [ "PrepareSpellScript", "dc/dcd/a25411.html#aad4de93de822a742e02ac8d5d395d482", null ],
-    [ "Register", "dc/dcd/a25411.html#a84fc18d6a2d92aefa2cc4d8095780314", null ],
-    [ "Validate", "dc/dcd/a25411.html#a2565f0ad3bb988ad37dd6a60f08c995c", null ]
+    [ "HandleEffectPeriodic", "dc/dcd/a25411.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
+    [ "PrepareAuraScript", "dc/dcd/a25411.html#affc698127fe0656df25bd094c02a7e50", null ],
+    [ "Register", "dc/dcd/a25411.html#a4707bfaeb86b3540920a6772e1726e26", null ],
+    [ "Validate", "dc/dcd/a25411.html#aef839f163d7e623a54b163e1c27542cd", null ]
 ];

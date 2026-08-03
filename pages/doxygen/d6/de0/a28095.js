@@ -1,10 +1,6 @@
 var a28095 =
 [
-    [ "guard_shattrath_scryerAI", "d6/de0/a28095.html#a97accbf467ca1190f8a05512b3857164", null ],
-    [ "Reset", "d6/de0/a28095.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
-    [ "UpdateAI", "d6/de0/a28095.html#ad759cca08b0093522e190ddc038e2c73", null ],
-    [ "banishTimer", "d6/de0/a28095.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
-    [ "canTeleport", "d6/de0/a28095.html#a84188b40b44deae5714466bb23bf2f0d", null ],
-    [ "exileTimer", "d6/de0/a28095.html#a97fbc3f54c23049fd91ad432cd560698", null ],
-    [ "playerGUID", "d6/de0/a28095.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
+    [ "AreaTrigger_at_area_52_entrance", "d6/de0/a28095.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "d6/de0/a28095.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "d6/de0/a28095.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

@@ -1,5 +1,7 @@
 var a14235 =
 [
-    [ "npc_mikhail", "d8/d40/a14235.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
-    [ "OnQuestAccept", "d8/d40/a14235.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
+    [ "o", "d8/d40/a14235.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
+    [ "x", "d8/d40/a14235.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
+    [ "y", "d8/d40/a14235.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
+    [ "z", "d8/d40/a14235.html#abf42d988d416ebe409100c4b860d26db", null ]
 ];

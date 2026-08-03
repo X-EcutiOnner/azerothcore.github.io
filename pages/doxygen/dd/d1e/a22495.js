@@ -1,6 +1,6 @@
 var a22495 =
 [
-    [ "FilterTargets", "dd/d1e/a22495.html#abd3fafc2120b7069790dd9822cd62adc", null ],
-    [ "PrepareSpellScript", "dd/d1e/a22495.html#aebc0441481a2c458fc904175df931a9e", null ],
-    [ "Register", "dd/d1e/a22495.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
+    [ "npc_crusade_recruitAI", "d6/d3c/a22499.html", "d6/d3c/a22499" ],
+    [ "npc_crusade_recruit", "dd/d1e/a22495.html#a6e130f153c506255ef5ece1baf006028", null ],
+    [ "GetAI", "dd/d1e/a22495.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
 ];

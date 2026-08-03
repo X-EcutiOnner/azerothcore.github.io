@@ -1,6 +1,8 @@
 var a18855 =
 [
-    [ "npc_blazing_skeletonAI", "d0/d04/a18859.html", "d0/d04/a18859" ],
-    [ "npc_blazing_skeleton", "d7/dce/a18855.html#a158720704479946048472ffe0beec492", null ],
-    [ "GetAI", "d7/dce/a18855.html#af29ea4620ebafaa4d47ec9f37758af77", null ]
+    [ "npc_lk_wicked_spiritAI", "d7/dce/a18855.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "d7/dce/a18855.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "d7/dce/a18855.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "d7/dce/a18855.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "d7/dce/a18855.html#a8b15079251b6855679d738a342126006", null ]
 ];

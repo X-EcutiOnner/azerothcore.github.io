@@ -1,6 +1,5 @@
 var a13659 =
 [
-    [ "instance_sunken_temple_InstanceMapScript", "de/def/a13663.html", "de/def/a13663" ],
-    [ "instance_sunken_temple", "dd/dd9/a13659.html#a123b052c1cd1487588c88bf2611bc53b", null ],
-    [ "GetInstanceScript", "dd/dd9/a13659.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
+    [ "at_malfurion_stormrage", "dd/dd9/a13659.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
+    [ "OnTrigger", "dd/dd9/a13659.html#aaeae64b901ee7b0752425e35af9f4af6", null ]
 ];

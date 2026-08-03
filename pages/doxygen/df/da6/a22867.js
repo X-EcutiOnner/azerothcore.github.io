@@ -1,5 +1,7 @@
 var a22867 =
 [
-    [ "PrepareSpellScript", "df/da6/a22867.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
-    [ "Register", "df/da6/a22867.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
+    [ "boss_veras_darkshadow", "df/da6/a22867.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "df/da6/a22867.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "df/da6/a22867.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "df/da6/a22867.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

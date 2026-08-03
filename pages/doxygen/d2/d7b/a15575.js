@@ -1,6 +1,6 @@
 var a15575 =
 [
-    [ "FilterTargets", "d2/d7b/a15575.html#a3ec2840ab1d853a1546c64a2d158e75f", null ],
-    [ "PrepareSpellScript", "d2/d7b/a15575.html#a511e54100036307aa5d37bc959405c73", null ],
-    [ "Register", "d2/d7b/a15575.html#a31d1d590f0e6fc2e56322d606961828f", null ]
+    [ "HandleDamageCalc", "d2/d7b/a15575.html#a03eb92eff300872cd5fca452a99375ab", null ],
+    [ "PrepareSpellScript", "d2/d7b/a15575.html#ac07421b62bb6044dad89431839a70bd8", null ],
+    [ "Register", "d2/d7b/a15575.html#a70cbf764ab475e2358fa6630798cab9d", null ]
 ];

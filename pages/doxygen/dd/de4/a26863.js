@@ -1,7 +1,7 @@
 var a26863 =
 [
-    [ "HandleDummy", "dd/de4/a26863.html#aa9b579a8a7a23b94d9a2c8c7f932ff78", null ],
-    [ "PrepareSpellScript", "dd/de4/a26863.html#ae1dfa086c89a4180d42d231064d88602", null ],
-    [ "Register", "dd/de4/a26863.html#a256c152beadbfce6bf245779295b8758", null ],
-    [ "Validate", "dd/de4/a26863.html#acb4144be3326bcaae9c559d8e7b9d7ec", null ]
+    [ "FilterTargets", "dd/de4/a26863.html#ad679149423fda97ad5744318520022b1", null ],
+    [ "PrepareSpellScript", "dd/de4/a26863.html#ac57c48690c5ad1b907f56287aee949a4", null ],
+    [ "Register", "dd/de4/a26863.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
+    [ "Validate", "dd/de4/a26863.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
 ];

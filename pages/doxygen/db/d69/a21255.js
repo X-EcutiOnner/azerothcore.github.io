@@ -1,6 +1,6 @@
 var a21255 =
 [
-    [ "instance_violet_hold_InstanceMapScript", "d3/da9/a21259.html", "d3/da9/a21259" ],
-    [ "instance_violet_hold", "db/d69/a21255.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
-    [ "GetInstanceScript", "db/d69/a21255.html#ab459840bcb0c8bcc58d20e658be0f63a", null ]
+    [ "npc_ravenous_furbolgAI", "d3/da9/a21259.html", "d3/da9/a21259" ],
+    [ "npc_ravenous_furbolg", "db/d69/a21255.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "db/d69/a21255.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

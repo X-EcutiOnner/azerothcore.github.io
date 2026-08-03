@@ -1,8 +1,6 @@
 var a21127 =
 [
-    [ "CheckProc", "dd/ddb/a21127.html#ac955cc78dd3206816906dd06b3e006f6", null ],
-    [ "HandleProc", "dd/ddb/a21127.html#a966d23cc5714fe35d80b2964dddda536", null ],
-    [ "PrepareAuraScript", "dd/ddb/a21127.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
-    [ "Register", "dd/ddb/a21127.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
-    [ "Validate", "dd/ddb/a21127.html#a5d8e764dafd26548af8588593bf27990", null ]
+    [ "instance_ulduar_InstanceMapScript", "dc/dd5/a21131.html", "dc/dd5/a21131" ],
+    [ "instance_ulduar", "dd/ddb/a21127.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
+    [ "GetInstanceScript", "dd/ddb/a21127.html#ae263428f4229c75b22f990dabe6b3c06", null ]
 ];

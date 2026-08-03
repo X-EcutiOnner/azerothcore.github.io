@@ -1,13 +1,18 @@
 var a22767 =
 [
-    [ "boss_teron_gorefiend", "dc/d17/a22767.html#a81845f22aa383cdc57912ee9655b7bf9", null ],
-    [ "JustDied", "dc/d17/a22767.html#aa080c8d17bc51142c1cecadf7a0376a2", null ],
-    [ "JustEngagedWith", "dc/d17/a22767.html#a9f658d42cf27a54c62a71e28b5dfadee", null ],
-    [ "JustSummoned", "dc/d17/a22767.html#a71db567c5be7396add349e2f1b455a50", null ],
-    [ "KilledUnit", "dc/d17/a22767.html#a70dbf2b2a08cf915866afd51f8a74018", null ],
-    [ "Reset", "dc/d17/a22767.html#af32df2d958c618dc08d3da40b92bf3aa", null ],
-    [ "SetData", "dc/d17/a22767.html#a139c351471a3f19c7e59cf8e40913820", null ],
-    [ "UpdateAI", "dc/d17/a22767.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1", null ],
-    [ "_intro", "dc/d17/a22767.html#a99c62157084373e8eddd4497360cc047", null ],
-    [ "_recentlySpoken", "dc/d17/a22767.html#adef80b4509a6a72e7021fd3cc11de697", null ]
+    [ "npc_akama_illidan", "dc/d17/a22767.html#ae300c0493c788863d69a7d9f5ab40ff5", null ],
+    [ "DamageTaken", "dc/d17/a22767.html#a4b95cb3a3502805a915f7c6751ecf70c", null ],
+    [ "DoAction", "dc/d17/a22767.html#af68f04faaf8a1893a82674cf1f2dd453", null ],
+    [ "JustEngagedWith", "dc/d17/a22767.html#a8c78b3586673ee9e330272494ee74eab", null ],
+    [ "JustReachedHome", "dc/d17/a22767.html#a8804c0e0b77673fee6beb3c0cd58be59", null ],
+    [ "JustSummoned", "dc/d17/a22767.html#a54b185a813a4271eef06173b8109d6cf", null ],
+    [ "KilledUnit", "dc/d17/a22767.html#a7838b6161a2ea9e0231f142a534de767", null ],
+    [ "MovementInform", "dc/d17/a22767.html#a32116d23bd508d9791f31fbc257398d0", null ],
+    [ "PathEndReached", "dc/d17/a22767.html#abd9dd31fe80a96d656c7dafd77564ad0", null ],
+    [ "Reset", "dc/d17/a22767.html#ac3af6f0ddb0f07a6a254e2c0b3bd3ef0", null ],
+    [ "sGossipSelect", "dc/d17/a22767.html#a6ab4ddfeaa2448e79577936d87d66398", null ],
+    [ "SummonedCreatureDies", "dc/d17/a22767.html#a1b4a1bfec1034feccba676b35a3caf93", null ],
+    [ "UpdateAI", "dc/d17/a22767.html#a3531d35b6d996bde197447e69e50a6fb", null ],
+    [ "instance", "dc/d17/a22767.html#a752a22acf6eab1d1045cac099b22fe57", null ],
+    [ "summons", "dc/d17/a22767.html#ab63791d4fd316a47af93a6f93118d331", null ]
 ];

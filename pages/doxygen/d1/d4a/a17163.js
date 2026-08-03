@@ -1,7 +1,6 @@
 var a17163 =
 [
-    [ "HandleEffectRemove", "d1/d4a/a17163.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
-    [ "Load", "d1/d4a/a17163.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
-    [ "PrepareAuraScript", "d1/d4a/a17163.html#a97411ddf89a10a962ba74d294eb653e7", null ],
-    [ "Register", "d1/d4a/a17163.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
+    [ "OnPeriodic", "d1/d4a/a17163.html#a6f2e191d76f894517aed395866b7e508", null ],
+    [ "PrepareAuraScript", "d1/d4a/a17163.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
+    [ "Register", "d1/d4a/a17163.html#a6094dc303c034e49fb4e543874db080b", null ]
 ];

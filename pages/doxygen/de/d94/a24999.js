@@ -1,8 +1,8 @@
 var a24999 =
 [
-    [ "AchievementCredit", "de/d94/a24999.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "de/d94/a24999.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "de/d94/a24999.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "de/d94/a24999.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "de/d94/a24999.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "HandleSchoolDMG", "de/d94/a24999.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
+    [ "HandleScriptEffect", "de/d94/a24999.html#a06f9cf29387b49f3e5950661173c77eb", null ],
+    [ "PrepareSpellScript", "de/d94/a24999.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
+    [ "Register", "de/d94/a24999.html#a9bdbf7578509976d482a26869e9068aa", null ],
+    [ "Validate", "de/d94/a24999.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
 ];

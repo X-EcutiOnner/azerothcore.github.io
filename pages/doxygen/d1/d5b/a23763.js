@@ -1,6 +1,6 @@
 var a23763 =
 [
-    [ "npc_simon_bunnyAI", "d0/d4c/a23767.html", "d0/d4c/a23767" ],
-    [ "npc_simon_bunny", "d1/d5b/a23763.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
-    [ "GetAI", "d1/d5b/a23763.html#ac0c97609916321a1599c0722803a050f", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d0/d4c/a23767.html", "d0/d4c/a23767" ],
+    [ "instance_arcatraz", "d1/d5b/a23763.html#a6fc8860651573353b54fd26bddea32aa", null ],
+    [ "GetInstanceScript", "d1/d5b/a23763.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
 ];

@@ -1,6 +1,7 @@
 var a08323 =
 [
-    [ "LfgWaitTime", "df/dd4/a08323.html#a1d80e0848c06c658a4c0587b686fe09d", null ],
-    [ "number", "df/dd4/a08323.html#ae6bd7db37ac17752edbc8d336081b91e", null ],
-    [ "time", "df/dd4/a08323.html#a0d0ef1b3552e5298763a3f28714bc864", null ]
+    [ "RBEntryInfo", "df/dd4/a08323.html#aa720dd6cae9ee7163bb9b84918249644", null ],
+    [ "RBEntryInfo", "df/dd4/a08323.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
+    [ "comment", "df/dd4/a08323.html#a7284eac7208dba21a52b79257aad7dbc", null ],
+    [ "roles", "df/dd4/a08323.html#ab891dec65b0070ede1233080eadd0190", null ]
 ];

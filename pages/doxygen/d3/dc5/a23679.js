@@ -1,7 +1,5 @@
 var a23679 =
 [
-    [ "boss_gatewatcher_gyrokill", "d3/dc5/a23679.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
-    [ "JustDied", "d3/dc5/a23679.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
-    [ "JustEngagedWith", "d3/dc5/a23679.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
-    [ "KilledUnit", "d3/dc5/a23679.html#a274355d0303d9bf5761758f175826bd1", null ]
+    [ "at_rp_nethekurse", "d3/dc5/a23679.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
+    [ "_OnTrigger", "d3/dc5/a23679.html#a93001d6dda7b2711f1efe100ffab5879", null ]
 ];

@@ -1,6 +1,5 @@
 var a27087 =
 [
-    [ "HandleRemove", "d4/de1/a27087.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
-    [ "PrepareAuraScript", "d4/de1/a27087.html#a132193c0c13a2f89b9b29391d524023a", null ],
-    [ "Register", "d4/de1/a27087.html#a246294a7b9a128a9ec464562846332fc", null ]
+    [ "PrepareSpellScript", "d4/de1/a27087.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
+    [ "Register", "d4/de1/a27087.html#a6318da4bfeb63dee75a971106bdc2146", null ]
 ];

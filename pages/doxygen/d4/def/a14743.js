@@ -1,11 +1,9 @@
 var a14743 =
 [
-    [ "npc_the_etymidian", "d4/def/a14743.html#af491016ac89b67947650a5ca9c379875", null ],
-    [ "MoveInLineOfSight", "d4/def/a14743.html#adde2d86e30442eb1b47219e934e24407", null ],
-    [ "Reset", "d4/def/a14743.html#a714edf3ba5f7a6d59242c991764effc5", null ],
-    [ "UpdateAI", "d4/def/a14743.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
-    [ "orphanGUID", "d4/def/a14743.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
-    [ "phase", "d4/def/a14743.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
-    [ "playerGUID", "d4/def/a14743.html#a7371e361c018360315e20086b0b99079", null ],
-    [ "timer", "d4/def/a14743.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
+    [ "npc_brew_bubble", "d4/def/a14743.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
+    [ "DoAction", "d4/def/a14743.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
+    [ "MoveInLineOfSight", "d4/def/a14743.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
+    [ "Reset", "d4/def/a14743.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
+    [ "UpdateAI", "d4/def/a14743.html#a25018deaa206620f6e98ba722f689b8d", null ],
+    [ "timer", "d4/def/a14743.html#a4bee73add756ba4b3137818b2dacd27f", null ]
 ];

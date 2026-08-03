@@ -1,6 +1,8 @@
 var a10227 =
 [
-    [ "UpdateRequest", "d6/d1e/a10227.html#a23b3dbcff54691b2710109a822a486a0", null ],
-    [ "~UpdateRequest", "d6/d1e/a10227.html#a240bdc56685c270c597588231c3bf8f8", null ],
-    [ "call", "d6/d1e/a10227.html#a8221fa415f828a4866f85f3983f7dab9", null ]
+    [ "BoundaryUnionBoundary", "d6/d1e/a10227.html#a074536112fffc805dec44bd9cd602642", null ],
+    [ "~BoundaryUnionBoundary", "d6/d1e/a10227.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
+    [ "IsWithinBoundaryArea", "d6/d1e/a10227.html#a8dc91861fa6641008236e5a83030e0d1", null ],
+    [ "_b1", "d6/d1e/a10227.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
+    [ "_b2", "d6/d1e/a10227.html#ae70530673803bd2ee85bf722fe42718b", null ]
 ];

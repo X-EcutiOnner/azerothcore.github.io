@@ -1,7 +1,11 @@
 var a22719 =
 [
-    [ "CalculateAmount", "d6/df1/a22719.html#adad1c8a513ce8a1badbd40c291363de1", null ],
-    [ "PrepareAuraScript", "d6/df1/a22719.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
-    [ "Register", "d6/df1/a22719.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
-    [ "Update", "d6/df1/a22719.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
+    [ "boss_murmur", "d6/df1/a22719.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
+    [ "CastSuppressionOOC", "d6/df1/a22719.html#aab66339a7436c3c483297b25f6859558", null ],
+    [ "DamageTaken", "d6/df1/a22719.html#a6446fe6c0ae5ece0cd70c8d9dbccb0f5", null ],
+    [ "EnterEvadeMode", "d6/df1/a22719.html#aa0f549c83a92302ece2323c75dd29acc", null ],
+    [ "JustEngagedWith", "d6/df1/a22719.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
+    [ "Reset", "d6/df1/a22719.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
+    [ "SetGUID", "d6/df1/a22719.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
+    [ "ShouldCastResonance", "d6/df1/a22719.html#ade07217a85655a513d7a472d24589691", null ]
 ];

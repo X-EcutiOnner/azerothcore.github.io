@@ -1,6 +1,6 @@
 var a23427 =
 [
-    [ "boss_porung", "d4/dce/a23427.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "d4/dce/a23427.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "d4/dce/a23427.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d4/dce/a23427.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "d4/dce/a23427.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "d4/dce/a23427.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

@@ -1,12 +1,14 @@
 var a19315 =
 [
-    [ "boss_faerlinaAI", "d0/d72/a19315.html#a3a97178599b9053c23a079ed1a2ed163", null ],
-    [ "JustDied", "d0/d72/a19315.html#a7ac2e510568a9dad710beaad42db0544", null ],
-    [ "JustEngagedWith", "d0/d72/a19315.html#a830dfa4fed62b4588ea8866174d3653a", null ],
-    [ "KilledUnit", "d0/d72/a19315.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
-    [ "MoveInLineOfSight", "d0/d72/a19315.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
-    [ "Reset", "d0/d72/a19315.html#acee81492b9b751df587a3a2cdd691ab3", null ],
-    [ "SpellHit", "d0/d72/a19315.html#aa4fac163e31dcd9353238f993259d5ec", null ],
-    [ "SummonHelpers", "d0/d72/a19315.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
-    [ "_introDone", "d0/d72/a19315.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "d0/d72/a19315.html#a4a459289a55871990abc0adc4ba8278c", null ],
+    [ "AttackStart", "d0/d72/a19315.html#a3412c5664c1c1354b615e8f798824b91", null ],
+    [ "JustReachedHome", "d0/d72/a19315.html#a161fd53eca71cb0a3b8fb8d483b7e49b", null ],
+    [ "MoveInLineOfSight", "d0/d72/a19315.html#acfbaa73491940a916f8d0a0b852bcc61", null ],
+    [ "MovementInform", "d0/d72/a19315.html#ad14a1d8cfe749d54a801a3902aa49e1d", null ],
+    [ "Reset", "d0/d72/a19315.html#aa60d5d2d534aa6e9fe7c77703bab5fce", null ],
+    [ "UpdateAI", "d0/d72/a19315.html#a8946357cad01050641bcdf51edce192f", null ],
+    [ "currPipeWP", "d0/d72/a19315.html#af8a298ccbd6f22a0a4416ed6cb082e67", null ],
+    [ "events", "d0/d72/a19315.html#aa39171910383c74583f24663d6c23f3b", null ],
+    [ "forward", "d0/d72/a19315.html#a28eb6d3f007f45b9db4eafafe71b779c", null ],
+    [ "needMove", "d0/d72/a19315.html#ae08f9c54d08b0eae5ad71d69f06a6544", null ]
 ];

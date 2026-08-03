@@ -1,6 +1,5 @@
 var a19135 =
 [
-    [ "npc_icc_skybreaker_vicarAI", "d0/df1/a19139.html", "d0/df1/a19139" ],
-    [ "npc_icc_skybreaker_vicar", "d3/dea/a19135.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
-    [ "GetAI", "d3/dea/a19135.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
+    [ "npc_darkfallen_noble", "d3/dea/a19135.html#a566c1938cadfb6fd9d171f84529e9495", null ],
+    [ "ScheduleSpells", "d3/dea/a19135.html#a0f7de7ee2cf7d4eacccd42bd63b8cf6f", null ]
 ];

@@ -1,6 +1,6 @@
 var a16899 =
 [
-    [ "npc_toc_rogueAI", "d2/d31/a16903.html", "d2/d31/a16903" ],
-    [ "npc_toc_rogue", "d8/d06/a16899.html#a925840be9698e381358235a827c20b8a", null ],
-    [ "GetAI", "d8/d06/a16899.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
+    [ "npc_toc_shamanAI", "d2/d31/a16903.html", "d2/d31/a16903" ],
+    [ "npc_toc_shaman", "d8/d06/a16899.html#a26e3a539d8d918057e9f81b9ee83f17d", null ],
+    [ "GetAI", "d8/d06/a16899.html#a7102a3aec6c229a04b617c562512bf29", null ]
 ];

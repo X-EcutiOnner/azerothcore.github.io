@@ -1,6 +1,9 @@
 var a24883 =
 [
-    [ "HandleOnEffectHit", "da/d74/a24883.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "da/d74/a24883.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "da/d74/a24883.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "FilterTargets", "da/d74/a24883.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
+    [ "PrepareSpellScript", "da/d74/a24883.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
+    [ "Register", "da/d74/a24883.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
+    [ "SetTargets", "da/d74/a24883.html#ac77e95af9b08118e87e3329eab5515ea", null ],
+    [ "Validate", "da/d74/a24883.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
+    [ "_targets", "da/d74/a24883.html#acc66768f54c514552f0ab01274c24f17", null ]
 ];

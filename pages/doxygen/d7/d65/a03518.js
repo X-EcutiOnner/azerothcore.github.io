@@ -1,9 +1,9 @@
 var a03518 =
 [
-    [ "boss_najentus", "d8/d51/a23026.html", "d8/d51/a23026" ],
-    [ "spell_najentus_needle_spine", "de/dbe/a23030.html", "de/dbe/a23030" ],
-    [ "spell_najentus_hurl_spine", "dc/d6b/a23034.html", "dc/d6b/a23034" ],
-    [ "spell_najentus_remove_spines", "d9/d6d/a23038.html", "d9/d6d/a23038" ],
+    [ "boss_najentus", "da/d6a/a23051.html", "da/d6a/a23051" ],
+    [ "spell_najentus_needle_spine", "d9/dbd/a23055.html", "d9/dbd/a23055" ],
+    [ "spell_najentus_hurl_spine", "db/d47/a23059.html", "db/d47/a23059" ],
+    [ "spell_najentus_remove_spines", "d3/d3a/a23063.html", "d3/d3a/a23063" ],
     [ "Events", "d7/d65/a03518.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d0/dbc/a03752.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d0/dbc/a03752.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -1561,6 +1561,7 @@ var a03518 =
       [ "SPELL_DARK_MATTER_VISUAL_CHANNEL", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5a760280be3f540c227e26d34756ef35", null ],
       [ "SPELL_DARK_MATTER", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a499b41edf9950331bd113593a13de1a4", null ],
       [ "SPELL_SEARING_GAZE", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a04d1058c4758a85da757fd74bf51501c", null ],
+      [ "SPELL_STEALTH", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab05b1ff486cc81800d4e40014eae5576", null ],
       [ "SPELL_TRIBUNAL_CREDIT_MARKER", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae1d7527e391c622243fa0fb5740b73eb", null ],
       [ "QUEST_HALLS_OF_STONE", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f4d823dced8973dbb7061fdbdb76b52", null ],
       [ "POINT_BRANN_INTRO", "dd/dfd/a03017.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa8ce0b2e94a1e1c1e093138984867bff", null ],
@@ -1648,6 +1649,7 @@ var a03518 =
       [ "EVENT_PHASE_ONE", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6b9ce13a0146076fc808a80ed99ccac7", null ],
       [ "EVENT_PHASE_TWO", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1bb0a83e28cfe9a4b28e66a80d9d5750", null ],
       [ "EVENT_PHASE_THREE", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a399f435f01db5b6781c8ab55b185c10b", null ],
+      [ "EVENT_PHASE_WIPE_RECOVERY", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a24bc0ff79a0142f8199261b4a51ff588", null ],
       [ "CRITERIA_NOT_GETTING_OLDER", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3d6aaca72ce1c9989df53cdba6145162", null ],
       [ "YS_P3_LUNATIC_GAZE", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab3149894fe283b632ed01890bb16a6ec", null ],
       [ "DATA_GET_KEEPERS_COUNT", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a13bbe1d42655f757a07ed9cabb167487", null ],
@@ -3432,6 +3434,7 @@ var a03518 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

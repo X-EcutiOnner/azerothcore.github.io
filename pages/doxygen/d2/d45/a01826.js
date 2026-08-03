@@ -1,6 +1,6 @@
 var a01826 =
 [
-    [ "WorldScript", "d2/d3a/a10886.html", "d2/d3a/a10886" ],
+    [ "WorldScript", "dd/db5/a10891.html", "dd/db5/a10891" ],
     [ "WorldHook", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493", [
       [ "WORLDHOOK_ON_OPEN_STATE_CHANGE", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493a1115383e9c9ccf62f08548733c8f5f1c", null ],
       [ "WORLDHOOK_ON_AFTER_CONFIG_LOAD", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7", null ],

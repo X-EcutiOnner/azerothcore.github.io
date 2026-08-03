@@ -1,7 +1,7 @@
 var a01508 =
 [
-    [ "HolidayRule", "d2/d3d/a09250.html", "d2/d3d/a09250" ],
-    [ "HolidayDateCalculator", "d2/d02/a09254.html", "d2/d02/a09254" ],
+    [ "HolidayRule", "d2/d40/a09255.html", "d2/d40/a09255" ],
+    [ "HolidayDateCalculator", "d2/d61/a09259.html", "d2/d61/a09259" ],
     [ "HolidayCalculationType", "d0/deb/a01508.html#a5ecfaf291957bc268c8975a08797a5cb", [
       [ "FIXED_DATE", "d0/deb/a01508.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387", null ],
       [ "NTH_WEEKDAY", "d0/deb/a01508.html#a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1", null ],

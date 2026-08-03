@@ -1,4 +1,6 @@
 var a22315 =
 [
-    [ "idPatrol", "d2/d51/a22315.html#a1fbc40a9798b89ae8b903b1f5a6a8e67", null ]
+    [ "HandleScriptEffect", "d2/d51/a22315.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
+    [ "PrepareSpellScript", "d2/d51/a22315.html#afa4ad1b205bf963b4230881738baf938", null ],
+    [ "Register", "d2/d51/a22315.html#a0d8925effced854471e2fbec9c631b91", null ]
 ];

@@ -1,5 +1,6 @@
 var a08383 =
 [
-    [ "BoxText", "d0/dfa/a08383.html#a00882f98df67222d396ae9992084a1cd", null ],
-    [ "OptionText", "d0/dfa/a08383.html#ab69f2dac8061cf8f6762a683243934fa", null ]
+    [ "LfgWaitTime", "d0/dfa/a08383.html#a1d80e0848c06c658a4c0587b686fe09d", null ],
+    [ "number", "d0/dfa/a08383.html#ae6bd7db37ac17752edbc8d336081b91e", null ],
+    [ "time", "d0/dfa/a08383.html#a0d0ef1b3552e5298763a3f28714bc864", null ]
 ];

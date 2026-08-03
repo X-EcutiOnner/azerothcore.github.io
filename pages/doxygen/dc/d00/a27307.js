@@ -1,8 +1,7 @@
 var a27307 =
 [
-    [ "CheckProc", "dc/d00/a27307.html#a825ef4acafa2371f27ca8ca6465610f9", null ],
-    [ "HandleProc", "dc/d00/a27307.html#a311916a7939ea2c4c2e23d6e4778aba4", null ],
-    [ "PrepareAuraScript", "dc/d00/a27307.html#a89c7a57718cdb23f7235ff2379a7a192", null ],
-    [ "Register", "dc/d00/a27307.html#abff50b0398b596898db4638fbadffa9c", null ],
-    [ "Validate", "dc/d00/a27307.html#abedd0e9efa9c595e1142f0358d135d1b", null ]
+    [ "CalcPeriodic", "dc/d00/a27307.html#af787d0c8738284e757f808e7d138bdc6", null ],
+    [ "PrepareAuraScript", "dc/d00/a27307.html#a383db196133bbecee06fe443fdb1bc24", null ],
+    [ "Register", "dc/d00/a27307.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
+    [ "Update", "dc/d00/a27307.html#af3f4a7b82e099313d609df7f85f02d00", null ]
 ];

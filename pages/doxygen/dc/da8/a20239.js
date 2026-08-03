@@ -1,5 +1,12 @@
 var a20239 =
 [
-    [ "achievement_freya_getting_back_to_nature", "dc/da8/a20239.html#aa4078b573a9335fc52c9b9609590b12f", null ],
-    [ "OnCheck", "dc/da8/a20239.html#a850a32450379284784f019a5eb5ff0ff", null ]
+    [ "npc_freya_ward", "dc/da8/a20239.html#aeb5b3a3495622b05faf41d2ec0a82e3f", null ],
+    [ "DoAction", "dc/da8/a20239.html#ac52ff5e24ff5361808fce4d8d1574ada", null ],
+    [ "JustSummoned", "dc/da8/a20239.html#a71cd4c583a1f33168d12bbe473d0482e", null ],
+    [ "Reset", "dc/da8/a20239.html#a134ff84f2cfa3a00cdd6158da6641369", null ],
+    [ "SummonedCreatureDespawn", "dc/da8/a20239.html#a20fde559565c47f4451581e5d1a61e99", null ],
+    [ "UpdateAI", "dc/da8/a20239.html#a62122abe02ae9351617eb3af9e36e88e", null ],
+    [ "_castTimer", "dc/da8/a20239.html#afe313ebbc5c711183a9e623d8213ae64", null ],
+    [ "_summoned", "dc/da8/a20239.html#aecae1e0f3b84d97cef40023a36dd4254", null ],
+    [ "summons", "dc/da8/a20239.html#abf3d2443c9badc35097b6e5c818f1c88", null ]
 ];

@@ -1,6 +1,7 @@
 var a20503 =
 [
-    [ "ModDest", "d4/d4f/a20503.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
-    [ "PrepareSpellScript", "d4/d4f/a20503.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
-    [ "Register", "d4/d4f/a20503.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
+    [ "HandleEffectPeriodic", "d4/d4f/a20503.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
+    [ "PrepareAuraScript", "d4/d4f/a20503.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
+    [ "Register", "d4/d4f/a20503.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
+    [ "Validate", "d4/d4f/a20503.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
 ];

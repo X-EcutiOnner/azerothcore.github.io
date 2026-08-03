@@ -1,7 +1,6 @@
 var a19619 =
 [
-    [ "Load", "d8/dc4/a19619.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
-    [ "PrepareSpellScript", "d8/dc4/a19619.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
-    [ "Register", "d8/dc4/a19619.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
-    [ "SetDest", "d8/dc4/a19619.html#a231a75702f4a98f51d1be45510c5d05f", null ]
+    [ "boss_razuviousAI", "d7/d78/a19623.html", "d7/d78/a19623" ],
+    [ "boss_razuvious", "d8/dc4/a19619.html#ac1a2942f4a7957c671b075df7bf20215", null ],
+    [ "GetAI", "d8/dc4/a19619.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
 ];

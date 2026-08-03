@@ -1,14 +1,16 @@
 var a24211 =
 [
-    [ "npc_pet_mage_mirror_image", "d4/dc3/a24211.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
-    [ "EnterEvadeMode", "d4/dc3/a24211.html#a858b070fb53112dc78554f0b20cd876a", null ],
-    [ "InitializeAI", "d4/dc3/a24211.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
-    [ "MySelectNextTarget", "d4/dc3/a24211.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
-    [ "Reset", "d4/dc3/a24211.html#a79a8c153ab61c619d928ec5535e67077", null ],
-    [ "UpdateAI", "d4/dc3/a24211.html#aa219b3adc38b625c6885089895b941b4", null ],
-    [ "_delayAttack", "d4/dc3/a24211.html#ab65a74ef0f1e253bf9df4e4f7c6856a3", null ],
-    [ "_ebonGargoyleGUID", "d4/dc3/a24211.html#a8be57d06114f108e74b850ce66722bf3", null ],
-    [ "checktarget", "d4/dc3/a24211.html#a074611355768dc2072da69ed9d72242b", null ],
-    [ "dist", "d4/dc3/a24211.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
-    [ "selectionTimer", "d4/dc3/a24211.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
+    [ "npc_dragonmaw_peonAI", "d4/dc3/a24211.html#a6f1255fead5357001ec85fdaa6980249", null ],
+    [ "CreditPlayer", "d4/dc3/a24211.html#a5cf28e156cab2e2066bb94bc99233a2b", null ],
+    [ "JustEngagedWith", "d4/dc3/a24211.html#abd5b37793aa2fb150c808b7dc7270763", null ],
+    [ "MovementInform", "d4/dc3/a24211.html#a0ee4038f90d54c75c48b2448dacb5724", null ],
+    [ "Reset", "d4/dc3/a24211.html#a9d876ec76b51f743c71e67749c21d939", null ],
+    [ "SpellHit", "d4/dc3/a24211.html#abe5162608ba0acd7360a630562ff5935", null ],
+    [ "UpdateAI", "d4/dc3/a24211.html#a98a045606d9e689ef25a5068b81b1ebf", null ],
+    [ "events", "d4/dc3/a24211.html#a7d6fb37d1953630aa79f8665eca0db61", null ],
+    [ "PlayerGUID", "d4/dc3/a24211.html#ad6838d98e34a32cbed42c77cdf096070", null ],
+    [ "Tapped", "d4/dc3/a24211.html#ae393f8d3cb47f38a4c4314a262826d03", null ],
+    [ "x", "d4/dc3/a24211.html#acebbfa8da88d8d683ba5ea6463f6b5f7", null ],
+    [ "y", "d4/dc3/a24211.html#ae5a1d416c712803ec0b80ae7ccf29e2d", null ],
+    [ "z", "d4/dc3/a24211.html#a7722420716c030b5abe7b760199df14d", null ]
 ];

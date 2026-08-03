@@ -1,6 +1,8 @@
 var a20883 =
 [
-    [ "achievement_yogg_saron_darkness", "da/d7c/a20883.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
-    [ "OnCheck", "da/d7c/a20883.html#a809902fca87abaeb4334132763624ed6", null ],
-    [ "_keepersCount", "da/d7c/a20883.html#a765ec4606bb489760ed1e15db10de1dc", null ]
+    [ "npc_pummeller", "da/d7c/a20883.html#a0c67bf3781fde8d4580aad093bf87291", null ],
+    [ "Reset", "da/d7c/a20883.html#abdb3f0984c03780aee9dd55496fc7835", null ],
+    [ "UpdateAI", "da/d7c/a20883.html#a9d61c35dc7f86314c6beb581539fd55d", null ],
+    [ "_instance", "da/d7c/a20883.html#a12df7fb27b7bd54d0bf60c3e5faee037", null ],
+    [ "_scheduler", "da/d7c/a20883.html#abc1ba4d0e95d33fe42af1014c2e8448f", null ]
 ];

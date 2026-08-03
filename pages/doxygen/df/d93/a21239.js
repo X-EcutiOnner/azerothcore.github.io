@@ -1,6 +1,6 @@
 var a21239 =
 [
-    [ "HandleEffectPeriodic", "df/d93/a21239.html#a508ff9e362d586497839aa29ceae1227", null ],
-    [ "PrepareAuraScript", "df/d93/a21239.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
-    [ "Register", "df/d93/a21239.html#a4b08cefe7d334635b70d389cc9df4901", null ]
+    [ "npc_massive_jormungarAI", "dc/d0d/a21243.html", "dc/d0d/a21243" ],
+    [ "npc_massive_jormungar", "df/d93/a21239.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
+    [ "GetAI", "df/d93/a21239.html#a68e3557e967ef633ba59fa81e661b80c", null ]
 ];

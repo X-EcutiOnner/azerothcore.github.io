@@ -1,12 +1,12 @@
 var a01394 =
 [
-    [ "SummonList", "dd/d48/a06594.html", "dd/d48/a06594" ],
-    [ "EntryCheckPredicate", "da/d58/a06598.html", "da/d58/a06598" ],
-    [ "PlayerOrPetCheck", "dd/d84/a06602.html", "dd/d84/a06602" ],
-    [ "ScriptedAI", "d4/d2f/a06606.html", "d4/d2f/a06606" ],
-    [ "HealthCheckEventData", "da/dd2/a06610.html", "da/dd2/a06610" ],
-    [ "BossAI", "de/df4/a06614.html", "de/df4/a06614" ],
-    [ "WorldBossAI", "db/d03/a06618.html", "db/d03/a06618" ],
+    [ "SummonList", "d0/dd4/a06595.html", "d0/dd4/a06595" ],
+    [ "EntryCheckPredicate", "d7/d0a/a06599.html", "d7/d0a/a06599" ],
+    [ "PlayerOrPetCheck", "d2/db9/a06603.html", "d2/db9/a06603" ],
+    [ "ScriptedAI", "de/dc7/a06607.html", "de/dc7/a06607" ],
+    [ "HealthCheckEventData", "dc/d81/a06611.html", "dc/d81/a06611" ],
+    [ "BossAI", "da/d7d/a06615.html", "da/d7d/a06615" ],
+    [ "WorldBossAI", "dc/d4f/a06619.html", "dc/d4f/a06619" ],
     [ "ObjectList", "d6/d2f/a01394.html#acc68161fe019b33e9356ea1473fba71d", null ],
     [ "HealthCheckStatus", "d6/d2f/a01394.html#a1384618281f5e166102c6c947f81ddee", [
       [ "HEALTH_CHECK_PROCESSED", "d6/d2f/a01394.html#a1384618281f5e166102c6c947f81ddeeac0619e7e216f157ecace46cdd98b4b6d", null ],

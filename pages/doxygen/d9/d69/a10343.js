@@ -1,15 +1,9 @@
 var a10343 =
 [
-    [ "EscortMovementGenerator", "d9/d69/a10343.html#a91a6caae81e7715fdcf4c7134f88bc0b", null ],
-    [ "DoFinalize", "d9/d69/a10343.html#a4c191a86f5ecc30ae5b34d7578d58d3e", null ],
-    [ "DoInitialize", "d9/d69/a10343.html#ad068798c6e186c1eb1a79f3872955e97", null ],
-    [ "DoReset", "d9/d69/a10343.html#ac4934d70ab62e08488cfc29c13355a7f", null ],
-    [ "DoUpdate", "d9/d69/a10343.html#a524bb8f72836dc5d1b63e429436b3a77", null ],
-    [ "GetMovementGeneratorType", "d9/d69/a10343.html#a0733162a5a0cab2593150f288edeb27b", null ],
-    [ "GetSplineId", "d9/d69/a10343.html#a61d74b098d1ae692ce305fa493aaa6d2", null ],
-    [ "unitSpeedChanged", "d9/d69/a10343.html#a235e330c4c3368af00d37028915684ff", null ],
-    [ "_forcedMovement", "d9/d69/a10343.html#a44019e4185abeb123a163a20c8f47d18", null ],
-    [ "_splineId", "d9/d69/a10343.html#af6286fa4ed6afcc8a6c5f03575c774e6", null ],
-    [ "i_recalculateSpeed", "d9/d69/a10343.html#a9f7048c5e49cc09f809496312a0c6550", null ],
-    [ "m_precomputedPath", "d9/d69/a10343.html#a46eb2812a1b2a56e584b925cae2169eb", null ]
+    [ "TransportAnimation", "d9/d69/a10343.html#a775b84b54deefd38af40222afd82d572", null ],
+    [ "GetAnimNode", "d9/d69/a10343.html#a73b56750c90afce38dbf57793bae16f3", null ],
+    [ "GetAnimRotation", "d9/d69/a10343.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
+    [ "Path", "d9/d69/a10343.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
+    [ "Rotations", "d9/d69/a10343.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
+    [ "TotalTime", "d9/d69/a10343.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
 ];

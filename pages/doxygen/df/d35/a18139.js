@@ -1,6 +1,7 @@
 var a18139 =
 [
-    [ "npc_coldflameAI", "dc/ddc/a18143.html", "dc/ddc/a18143" ],
-    [ "npc_coldflame", "df/d35/a18139.html#a573b887358e2ba2281c4c119a267c33f", null ],
-    [ "GetAI", "df/d35/a18139.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
+    [ "PrepareSpellScript", "df/d35/a18139.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
+    [ "Register", "df/d35/a18139.html#aff4f05a5a4742a408646000b7cece38c", null ],
+    [ "RemovePassengers", "df/d35/a18139.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
+    [ "Validate", "df/d35/a18139.html#a2a8da9d150804f979f2313f623ad7760", null ]
 ];

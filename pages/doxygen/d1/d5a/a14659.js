@@ -1,6 +1,6 @@
 var a14659 =
 [
-    [ "HandleDummyEffect", "d1/d5a/a14659.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
-    [ "PrepareSpellScript", "d1/d5a/a14659.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
-    [ "Register", "d1/d5a/a14659.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
+    [ "boss_wushoolayAI", "de/dd0/a14663.html", "de/dd0/a14663" ],
+    [ "boss_wushoolay", "d1/d5a/a14659.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
+    [ "GetAI", "d1/d5a/a14659.html#a70b476358956fd05d6effb75517e2b3d", null ]
 ];

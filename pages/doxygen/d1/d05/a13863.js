@@ -1,7 +1,9 @@
 var a13863 =
 [
-    [ "FilterTargets", "d1/d05/a13863.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
-    [ "HandleHit", "d1/d05/a13863.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
-    [ "PrepareSpellScript", "d1/d05/a13863.html#a905e1f979284a368463ad4829891b6ee", null ],
-    [ "Register", "d1/d05/a13863.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
+    [ "boss_muru", "d1/d05/a13863.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
+    [ "DamageTaken", "d1/d05/a13863.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
+    [ "JustEngagedWith", "d1/d05/a13863.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
+    [ "JustSummoned", "d1/d05/a13863.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
+    [ "MoveInLineOfSight", "d1/d05/a13863.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
+    [ "Reset", "d1/d05/a13863.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
 ];

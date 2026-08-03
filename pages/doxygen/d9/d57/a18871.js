@@ -1,6 +1,9 @@
 var a18871 =
 [
-    [ "npc_blistering_zombieAI", "d8/d8c/a18875.html", "d8/d8c/a18875" ],
-    [ "npc_blistering_zombie", "d9/d57/a18871.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
-    [ "GetAI", "d9/d57/a18871.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
+    [ "DelayedCastEvent", "d9/d57/a18871.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
+    [ "Execute", "d9/d57/a18871.html#ae2925429b3049e44d2afd2e8b990af71", null ],
+    [ "_despawnTime", "d9/d57/a18871.html#afcaeafb72df77c36b5496588c219fac4", null ],
+    [ "_originalCaster", "d9/d57/a18871.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
+    [ "_spellId", "d9/d57/a18871.html#abe28a6749101233302634ed226a289e8", null ],
+    [ "_trigger", "d9/d57/a18871.html#a85471a151a3165cc906f3a41103c3f5d", null ]
 ];

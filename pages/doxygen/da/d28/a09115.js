@@ -1,7 +1,8 @@
 var a09115 =
 [
-    [ "HealthOrderPred", "da/d28/a09115.html#ac5d0408da69ecd6415c6f4eae61d11d8", null ],
-    [ "operator()", "da/d28/a09115.html#acb5867bddd0e5107139d52ff99817f5c", null ],
-    [ "operator()", "da/d28/a09115.html#ad9cae47d98b31687958cfca56b29c213", null ],
-    [ "_ascending", "da/d28/a09115.html#a93e2e41a9849d6c2ecfffcaffa74acee", null ]
+    [ "DiminishingReturn", "da/d28/a09115.html#acd4828637710636d0164fced285c854d", null ],
+    [ "DRGroup", "da/d28/a09115.html#add3ab95d65e283a326e1922129941ae4", null ],
+    [ "hitCount", "da/d28/a09115.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
+    [ "hitTime", "da/d28/a09115.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
+    [ "stack", "da/d28/a09115.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
 ];

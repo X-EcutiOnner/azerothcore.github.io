@@ -1,7 +1,8 @@
 var a21867 =
 [
-    [ "HandleDummy", "d2/d68/a21867.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "d2/d68/a21867.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "d2/d68/a21867.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "d2/d68/a21867.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "npc_q24545_vegardAI", "d2/d68/a21867.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "d2/d68/a21867.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "d2/d68/a21867.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "d2/d68/a21867.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "d2/d68/a21867.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

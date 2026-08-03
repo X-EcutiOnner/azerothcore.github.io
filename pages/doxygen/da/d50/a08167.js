@@ -1,12 +1,5 @@
 var a08167 =
 [
-    [ "HyperlinkInfo", "da/d50/a08167.html#aa61aad1a1e2cf1a699ff67ee25cc474b", null ],
-    [ "HyperlinkInfo", "da/d50/a08167.html#ac08518b3afb878fc7979807d764b7872", null ],
-    [ "operator bool", "da/d50/a08167.html#a834ac95bb310f6653208026e203e065f", null ],
-    [ "color", "da/d50/a08167.html#a38c0121d4001ad938d9bc53ca08217db", null ],
-    [ "data", "da/d50/a08167.html#a7d7d839de8eb48a25e2b687b69a092ea", null ],
-    [ "ok", "da/d50/a08167.html#a54c7a812f79593258002d367110b2403", null ],
-    [ "tag", "da/d50/a08167.html#a2171d081c4eb0a23d00e637dfa64bcfc", null ],
-    [ "tail", "da/d50/a08167.html#a065d1a0942abbe5739f44126d5c3ce00", null ],
-    [ "text", "da/d50/a08167.html#a2b914c9bdc41771b8cb058468bfa23db", null ]
+    [ "Glyph", "da/d50/a08167.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
+    [ "Slot", "da/d50/a08167.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
 ];

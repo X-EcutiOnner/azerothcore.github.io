@@ -1,11 +1,12 @@
 var a23583 =
 [
-    [ "boss_high_astromancer_solarian", "dc/ddf/a23583.html#a2db48cc179539f81b55188de08a7e180", null ],
-    [ "AttackStart", "dc/ddf/a23583.html#acaf94134aef553447e766a5e431c8b83", null ],
-    [ "JustDied", "dc/ddf/a23583.html#a510eb2e4f0770670d6767bc2545375b7", null ],
-    [ "JustEngagedWith", "dc/ddf/a23583.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
-    [ "JustSummoned", "dc/ddf/a23583.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
-    [ "KilledUnit", "dc/ddf/a23583.html#a561a78193615575b7e43e0f21387f1b8", null ],
-    [ "Reset", "dc/ddf/a23583.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
-    [ "UpdateAI", "dc/ddf/a23583.html#a07a76c34a978c31212390cf10ed3e382", null ]
+    [ "boss_omor_the_unscarred", "dc/ddf/a23583.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "dc/ddf/a23583.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "dc/ddf/a23583.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "dc/ddf/a23583.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "dc/ddf/a23583.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "dc/ddf/a23583.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "dc/ddf/a23583.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "dc/ddf/a23583.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "dc/ddf/a23583.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

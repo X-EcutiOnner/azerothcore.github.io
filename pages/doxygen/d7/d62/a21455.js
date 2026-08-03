@@ -1,8 +1,10 @@
 var a21455 =
 [
-    [ "npc_shandy_dalaranAI", "d9/df8/a21459.html", "d9/df8/a21459" ],
-    [ "npc_shandy_dalaran", "d7/d62/a21455.html#a7077c769a252af8ba37b5ff5d524463e", null ],
-    [ "GetAI", "d7/d62/a21455.html#a641551a2aef739e1679912ae27ddb888", null ],
-    [ "OnGossipHello", "d7/d62/a21455.html#a91287aaba09fce091c9d826e75208f84", null ],
-    [ "OnGossipSelect", "d7/d62/a21455.html#ad005a17da187e0cfd03d2faf0099c448", null ]
+    [ "npc_erekem_guard", "d7/d62/a21455.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5", null ],
+    [ "JustEngagedWith", "d7/d62/a21455.html#a05c81c2b1ec3bb48ae3003f8d825ffc0", null ],
+    [ "MoveInLineOfSight", "d7/d62/a21455.html#a31ea4b54a0adae7e3fee31d38af87c3e", null ],
+    [ "Reset", "d7/d62/a21455.html#aacdc16855938d9f133b751f91b5e9402", null ],
+    [ "UpdateAI", "d7/d62/a21455.html#ae57b5c4e61d9e9475c66b68797a51f09", null ],
+    [ "_events", "d7/d62/a21455.html#a13829cd26d18c42213be1f6640a2b979", null ],
+    [ "_instance", "d7/d62/a21455.html#af890899c6d5e0b67fa5b0336c5a31dfc", null ]
 ];

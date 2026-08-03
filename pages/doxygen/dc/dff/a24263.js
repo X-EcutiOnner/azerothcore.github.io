@@ -1,6 +1,9 @@
 var a24263 =
 [
-    [ "HandleSummon", "dc/dff/a24263.html#a00e265d830ea3e8a0a1952984c438071", null ],
-    [ "PrepareSpellScript", "dc/dff/a24263.html#a96df13b19964b6e89babb312465b90bc", null ],
-    [ "Register", "dc/dff/a24263.html#a5341e4ddf1b1ef94099c337114164ba8", null ]
+    [ "npc_enraged_spiritAI", "dc/dff/a24263.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
+    [ "JustDied", "dc/dff/a24263.html#a9322622f679dbc311bd8983f5037bd2e", null ],
+    [ "JustEngagedWith", "dc/dff/a24263.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
+    [ "Reset", "dc/dff/a24263.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
+    [ "UpdateAI", "dc/dff/a24263.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
+    [ "_scheduler", "dc/dff/a24263.html#afa6825696b0622849f877b392df4b326", null ]
 ];

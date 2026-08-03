@@ -1,7 +1,5 @@
 var a15811 =
 [
-    [ "npc_webbed_creatureAI", "d4/d64/a15811.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
-    [ "JustDied", "d4/d64/a15811.html#a153d461124ec9266ffcac147a217f6d9", null ],
-    [ "JustEngagedWith", "d4/d64/a15811.html#ac52ad6512bcaee35932f856abdac80d4", null ],
-    [ "Reset", "d4/d64/a15811.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
+    [ "at_battleguard_sartura", "d4/d64/a15811.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
+    [ "OnTrigger", "d4/d64/a15811.html#ae4313968b247a65c3a075b090cd3d5e9", null ]
 ];

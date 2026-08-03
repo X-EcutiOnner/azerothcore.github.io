@@ -1,11 +1,18 @@
 var a12499 =
 [
-    [ "spectator_commandscript", "d4/dca/a12499.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
-    [ "GetCommands", "d4/dca/a12499.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
-    [ "HandleSpectatorCommand", "d4/dca/a12499.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
-    [ "HandleSpectatorLeaveCommand", "d4/dca/a12499.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
-    [ "HandleSpectatorResetCommand", "d4/dca/a12499.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
-    [ "HandleSpectatorSpectateCommand", "d4/dca/a12499.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
-    [ "HandleSpectatorVersionCommand", "d4/dca/a12499.html#aaf7c57603d263f7ab919f12d9680f058", null ],
-    [ "HandleSpectatorWatchCommand", "d4/dca/a12499.html#a1ee822e332374b375962d1ae87adbc61", null ]
+    [ "learn_commandscript", "d4/dca/a12499.html#a7ef51367ab7ab1c360390ff5552c0f51", null ],
+    [ "GetCommands", "d4/dca/a12499.html#a8c8f73f3c1d5dbddd5a3d2e89ea326d8", null ],
+    [ "HandleLearnAllCraftsCommand", "d4/dca/a12499.html#ae25064fa03d022277a368f52a17e5b70", null ],
+    [ "HandleLearnAllDefaultCommand", "d4/dca/a12499.html#a985d2a10f01808c4bff2922b1530e911", null ],
+    [ "HandleLearnAllGMCommand", "d4/dca/a12499.html#a88e28ec43968c5a8b0bfd1f190d89a98", null ],
+    [ "HandleLearnAllLangCommand", "d4/dca/a12499.html#aaf4d779b47511db72727fe44fb1bbd2d", null ],
+    [ "HandleLearnAllMyClassCommand", "d4/dca/a12499.html#a956716b7743dfc6de922b0badf40aeda", null ],
+    [ "HandleLearnAllMyPetTalentsCommand", "d4/dca/a12499.html#a2a7cc02eb4417907b50d49bab39110cf", null ],
+    [ "HandleLearnAllMyQuestSpells", "d4/dca/a12499.html#af7393dfd87f9742cfc7220896c4eeb1b", null ],
+    [ "HandleLearnAllMyTalentsCommand", "d4/dca/a12499.html#aaa19e92798ac56355a95e625ead56556", null ],
+    [ "HandleLearnAllMyTrainerSpellsCommand", "d4/dca/a12499.html#a1e08e9289a6dccde021f3712db106c64", null ],
+    [ "HandleLearnAllRecipesCommand", "d4/dca/a12499.html#a44b538a1031ad69bec762f1a791cf11f", null ],
+    [ "HandleLearnCommand", "d4/dca/a12499.html#ab59da6873596596ee84509cb0060e760", null ],
+    [ "HandleLearnSkillRecipesHelper", "d4/dca/a12499.html#ae8bd0389415fdeb70d369b694b953619", null ],
+    [ "HandleUnLearnCommand", "d4/dca/a12499.html#a2dc980af9662b3b1c783e3603732ca01", null ]
 ];

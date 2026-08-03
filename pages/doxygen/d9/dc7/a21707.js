@@ -1,7 +1,6 @@
 var a21707 =
 [
-    [ "HandleScriptEffect", "d9/dc7/a21707.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "d9/dc7/a21707.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "d9/dc7/a21707.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "d9/dc7/a21707.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "npc_mageguard_dalaranAI", "d8/d04/a21711.html", "d8/d04/a21711" ],
+    [ "npc_mageguard_dalaran", "d9/dc7/a21707.html#a0cec4f232b665325c421cecb5839885f", null ],
+    [ "GetAI", "d9/dc7/a21707.html#a10cbddceb53a2d432da2224128c59b28", null ]
 ];

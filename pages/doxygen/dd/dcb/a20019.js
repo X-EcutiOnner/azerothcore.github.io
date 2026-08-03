@@ -1,16 +1,6 @@
 var a20019 =
 [
-    [ "boss_steelbreaker", "dd/dcb/a20019.html#a724e315f9508b02cadc5560f6525afc7", null ],
-    [ "DoAction", "dd/dcb/a20019.html#a2f945dac566b3d24009b486cb4e37cd3", null ],
-    [ "JustDied", "dd/dcb/a20019.html#af69b423bd844f946dede44e136344077", null ],
-    [ "JustEngagedWith", "dd/dcb/a20019.html#afa14e6571e7772d9c978d45a94a40afa", null ],
-    [ "JustReachedHome", "dd/dcb/a20019.html#ad73d9abcfdf9a2fcf3345a024db1f653", null ],
-    [ "KilledUnit", "dd/dcb/a20019.html#a153f72f75fc0758591b418fe82c2628d", null ],
-    [ "Reset", "dd/dcb/a20019.html#a66e5f9c30d30ed7dc42b8ae3ef4f46b6", null ],
-    [ "SpellHit", "dd/dcb/a20019.html#adf32e50b2fc6f8d373933cc0295c7d54", null ],
-    [ "UpdateAI", "dd/dcb/a20019.html#ad96ac1dcde103ddf71b2ded15e757834", null ],
-    [ "UpdatePhase", "dd/dcb/a20019.html#a42ab7be0d80ece19dd726ed29d425183", null ],
-    [ "_phase", "dd/dcb/a20019.html#a1b94dfb3b76278475aae50720a2e85c0", null ],
-    [ "events", "dd/dcb/a20019.html#add48973c02460691e0f32a3ae3897836", null ],
-    [ "pInstance", "dd/dcb/a20019.html#acf1e2229be9f931d0825ce252116b499", null ]
+    [ "boss_sjonnirAI", "d1/d17/a20023.html", "d1/d17/a20023" ],
+    [ "boss_sjonnir", "dd/dcb/a20019.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
+    [ "GetAI", "dd/dcb/a20019.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
 ];

@@ -1,6 +1,6 @@
 var a17123 =
 [
-    [ "OnPeriodic", "dd/d93/a17123.html#ab71faf6fb2900e176aac245317113758", null ],
-    [ "PrepareAuraScript", "dd/d93/a17123.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
-    [ "Register", "dd/d93/a17123.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
+    [ "npc_concentrated_ballAI", "d6/d6f/a17127.html", "d6/d6f/a17127" ],
+    [ "npc_concentrated_ball", "dd/d93/a17123.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
+    [ "GetAI", "dd/d93/a17123.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
 ];

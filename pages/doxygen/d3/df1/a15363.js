@@ -1,6 +1,10 @@
 var a15363 =
 [
-    [ "instance_ragefire_chasm_InstanceMapScript", "d7/d01/a15367.html", "d7/d01/a15367" ],
-    [ "instance_ragefire_chasm", "d3/df1/a15363.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
-    [ "GetInstanceScript", "d3/df1/a15363.html#a0568996a61ef91688b9f223cb3782e5a", null ]
+    [ "boss_aeonus", "d3/df1/a15363.html#af823ef2187b852dc72d2f63020e1701b", null ],
+    [ "IsSummonedBy", "d3/df1/a15363.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
+    [ "JustDied", "d3/df1/a15363.html#a649275c31e61f542a13fd791ee85277b", null ],
+    [ "JustEngagedWith", "d3/df1/a15363.html#a5f193144e36a889630d5dbadb4aa665f", null ],
+    [ "JustReachedHome", "d3/df1/a15363.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
+    [ "KilledUnit", "d3/df1/a15363.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
+    [ "MoveInLineOfSight", "d3/df1/a15363.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
 ];

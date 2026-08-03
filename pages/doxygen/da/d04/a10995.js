@@ -1,6 +1,5 @@
 var a10995 =
 [
-    [ "GuildUpdateMotdText", "da/d04/a10995.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
-    [ "Read", "da/d04/a10995.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
-    [ "MotdText", "da/d04/a10995.html#a5b2ee458a919be7f912d49cf984490ac", null ]
+    [ "LogoutCancel", "da/d04/a10995.html#a179fccf74fa969e6a32492f35d6f28c8", null ],
+    [ "Read", "da/d04/a10995.html#a9ed27bc4472b7e4e225793b4f2e5a34d", null ]
 ];

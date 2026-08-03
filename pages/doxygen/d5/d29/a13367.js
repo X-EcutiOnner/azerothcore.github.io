@@ -1,12 +1,18 @@
 var a13367 =
 [
-    [ "boss_vexallus", "d5/d29/a13367.html#a68c32ed70274e9f135b7a9107f888c91", null ],
-    [ "JustDied", "d5/d29/a13367.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
-    [ "JustEngagedWith", "d5/d29/a13367.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
-    [ "JustSummoned", "d5/d29/a13367.html#a9bc7808889da754bae9c935418975f90", null ],
-    [ "KilledUnit", "d5/d29/a13367.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
-    [ "Reset", "d5/d29/a13367.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
-    [ "SummonedCreatureDies", "d5/d29/a13367.html#a4bd88222143d8db098312cff8a2fc969", null ],
-    [ "_energyCooldown", "d5/d29/a13367.html#a395d2186d70d1b7e29dbada7750da354", null ],
-    [ "_energyCount", "d5/d29/a13367.html#a4afa4a245b8863c7b0898773932642c8", null ]
+    [ "boss_romulo", "d5/d29/a13367.html#a497e0e57d2abb6640081c1d141a588ff", null ],
+    [ "DamageTaken", "d5/d29/a13367.html#a603db3883d03367406cbcf3f2cb28a08", null ],
+    [ "DoAction", "d5/d29/a13367.html#acc23f4f4f5856b9956a764c1f69bbc92", null ],
+    [ "EnterEvadeMode", "d5/d29/a13367.html#ab4dda6b70337668dd36a582e8439c3db", null ],
+    [ "JustDied", "d5/d29/a13367.html#aa60d8fe07db9444f25eec9de9e5bf365", null ],
+    [ "JustEngagedWith", "d5/d29/a13367.html#ab13e2a4ebe8a1956f6de460cdb9b199d", null ],
+    [ "JustReachedHome", "d5/d29/a13367.html#af8bff3f1c107dc7d8beae7956a25fbcc", null ],
+    [ "KilledUnit", "d5/d29/a13367.html#ae4ca6736913cc8df4d016876a8fd8576", null ],
+    [ "Reset", "d5/d29/a13367.html#a15703ee7df979b8ee5892dacf84066e2", null ],
+    [ "ScheduleCombat", "d5/d29/a13367.html#a4cc20dccb171d1f4d3c680b6b5310e73", null ],
+    [ "UpdateAI", "d5/d29/a13367.html#ac42df238a2ad354a2fb21ebb558734c6", null ],
+    [ "_scheduler", "d5/d29/a13367.html#a456abfa48f038e904c427179c2a10edb", null ],
+    [ "instance", "d5/d29/a13367.html#aae979b72844ff8fcc70956925df4fa9b", null ],
+    [ "isFakingDeath", "d5/d29/a13367.html#a88ccbe761b4703e4f309d1bb3fca4085", null ],
+    [ "phase", "d5/d29/a13367.html#ab549436aec35727665150d51f1c25714", null ]
 ];

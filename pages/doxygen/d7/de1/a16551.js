@@ -1,10 +1,5 @@
 var a16551 =
 [
-    [ "spell_halion_damage_aoe_summon", "d7/de1/a16551.html#a6152e7a0515076af2c7c2155506257b0", null ],
-    [ "HandleSummon", "d7/de1/a16551.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
-    [ "PrepareSpellScript", "d7/de1/a16551.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
-    [ "Register", "d7/de1/a16551.html#aa1f9239a2910d53c85539abba6333893", null ],
-    [ "Validate", "d7/de1/a16551.html#acb359257b29354b5962d9865e06137e7", null ],
-    [ "_auraSpell", "d7/de1/a16551.html#a497a74eca703470964157639a6f372e2", null ],
-    [ "_explosionSpell", "d7/de1/a16551.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
+    [ "at_baltharus_plateau", "d7/de1/a16551.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
+    [ "OnTrigger", "d7/de1/a16551.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
 ];

@@ -106,12 +106,20 @@ $(document).ready(function(){initNavTree('d9/dc1/a03194.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle"><div class="title">transport_zeppelins.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">GameObjectScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Map.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedGossip.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TaskScheduler.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TransportMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">WorldState.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">transport_zeppelin.h</a>&quot;</code><br />
 </div>
@@ -119,18 +127,136 @@ $(document).ready(function(){initNavTree('d9/dc1/a03194.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d6d/a28706.html">go_transport_the_iron_eagle</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d9a/a28731.html">go_transport_the_iron_eagle</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da0/a28710.html">go_transport_the_thundercaller</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc0/a28735.html">go_transport_the_thundercaller</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d51/a28714.html">go_transport_the_purple_princess</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da7/a28739.html">go_transport_the_purple_princess</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d30/a28743.html">go_transport_westguard_zeppelin</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d39/a28747.html">npc_harrowmeiser</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d7f/a28751.html">npc_bombardier_petrov</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a0e0fe2cb0f4a9bbe66f9c22b27bff6d8"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc1/a03194.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8">WestguardZeppelinGossip</a> { <br />
+&#160;&#160;<a class="el" href="../../d9/dc1/a03194.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a8b342611236abf02aaad1241d1d4f3f2">GOSSIP_TEXT_PETROV_EN_ROUTE</a> = 11322
+, <br />
+&#160;&#160;<a class="el" href="../../d9/dc1/a03194.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3f7e2f6adc88c144caf7f7521a0bb7b6">GOSSIP_TEXT_PETROV_ARRIVING</a> = 11324
+, <br />
+&#160;&#160;<a class="el" href="../../d9/dc1/a03194.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a009f416c7361b1fafcea3f573775ebc6">GOSSIP_TEXT_HARROWMEISER_DOCKED</a> = 11328
+, <br />
+&#160;&#160;<a class="el" href="../../d9/dc1/a03194.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8ac2cd73cf7e8eb367f4e0544b739e93e5">GOSSIP_TEXT_HARROWMEISER_ARRIVING</a> = 11330
+, <br />
+&#160;&#160;<a class="el" href="../../d9/dc1/a03194.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3ba4b73f33d738448822c000e484530e">GOSSIP_TEXT_HARROWMEISER_EN_ROUTE</a> = 11332
+<br />
+ }</td></tr>
+<tr class="separator:a0e0fe2cb0f4a9bbe66f9c22b27bff6d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b83dccc97ebc1973dc36dfd05ae2386"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc1/a03194.html#a5b83dccc97ebc1973dc36dfd05ae2386">WestguardZeppelinWorldState</a> { <a class="el" href="../../d9/dc1/a03194.html#a5b83dccc97ebc1973dc36dfd05ae2386a0d5bc5fecd6fbd35e7f673dce78382bf">WORLD_STATE_ZEPPELIN_ETA</a> = 3078
+ }</td></tr>
+<tr class="separator:a5b83dccc97ebc1973dc36dfd05ae2386"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a995847cc028949a255a4a2051a5c7d66"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66">WestguardZeppelinState</a> { <br />
+&#160;&#160;<a class="el" href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359">ZEPPELIN_STATE_EN_ROUTE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66a918740afaf387b482fdab2c47ae61f6b">ZEPPELIN_STATE_ARRIVING</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66a61a3259c6cfe55ee3eddc2a9f15dd8a4">ZEPPELIN_STATE_DOCKED</a>
+<br />
+ }</td></tr>
+<tr class="separator:a995847cc028949a255a4a2051a5c7d66"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
+<tr class="memitem:a55f8950da51c1f03c25714d67e9dbb23"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66">WestguardZeppelinState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc1/a03194.html#a55f8950da51c1f03c25714d67e9dbb23">GetWestguardZeppelinState</a> (<a class="el" href="../../d9/d85/a09031.html">Player</a> *player, <a class="el" href="../../d6/d49/a10255.html">Map</a> *map)</td></tr>
+<tr class="separator:a55f8950da51c1f03c25714d67e9dbb23"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a29051596b0a3382db98c6b72f7ff3173"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc1/a03194.html#a29051596b0a3382db98c6b72f7ff3173">AddSC_transport_zeppelins</a> ()</td></tr>
 <tr class="separator:a29051596b0a3382db98c6b72f7ff3173"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8" name="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8">&#9670;&#160;</a></span>WestguardZeppelinGossip</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d9/dc1/a03194.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8">WestguardZeppelinGossip</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a8b342611236abf02aaad1241d1d4f3f2" name="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a8b342611236abf02aaad1241d1d4f3f2"></a>GOSSIP_TEXT_PETROV_EN_ROUTE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3f7e2f6adc88c144caf7f7521a0bb7b6" name="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3f7e2f6adc88c144caf7f7521a0bb7b6"></a>GOSSIP_TEXT_PETROV_ARRIVING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a009f416c7361b1fafcea3f573775ebc6" name="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a009f416c7361b1fafcea3f573775ebc6"></a>GOSSIP_TEXT_HARROWMEISER_DOCKED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8ac2cd73cf7e8eb367f4e0544b739e93e5" name="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8ac2cd73cf7e8eb367f4e0544b739e93e5"></a>GOSSIP_TEXT_HARROWMEISER_ARRIVING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3ba4b73f33d738448822c000e484530e" name="a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3ba4b73f33d738448822c000e484530e"></a>GOSSIP_TEXT_HARROWMEISER_EN_ROUTE&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  143</span>{</div>
+<div class="line"><span class="lineno">  144</span>    <a class="code hl_enumvalue" href="../../d9/dc1/a03194.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a8b342611236abf02aaad1241d1d4f3f2">GOSSIP_TEXT_PETROV_EN_ROUTE</a>       = 11322,</div>
+<div class="line"><span class="lineno">  145</span>    <a class="code hl_enumvalue" href="../../d9/dc1/a03194.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3f7e2f6adc88c144caf7f7521a0bb7b6">GOSSIP_TEXT_PETROV_ARRIVING</a>       = 11324,</div>
+<div class="line"><span class="lineno">  146</span>    <a class="code hl_enumvalue" href="../../d9/dc1/a03194.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a009f416c7361b1fafcea3f573775ebc6">GOSSIP_TEXT_HARROWMEISER_DOCKED</a>   = 11328,</div>
+<div class="line"><span class="lineno">  147</span>    <a class="code hl_enumvalue" href="../../d9/dc1/a03194.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8ac2cd73cf7e8eb367f4e0544b739e93e5">GOSSIP_TEXT_HARROWMEISER_ARRIVING</a> = 11330,</div>
+<div class="line"><span class="lineno">  148</span>    <a class="code hl_enumvalue" href="../../d9/dc1/a03194.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3ba4b73f33d738448822c000e484530e">GOSSIP_TEXT_HARROWMEISER_EN_ROUTE</a> = 11332,</div>
+<div class="line"><span class="lineno">  149</span>};</div>
+<div class="ttc" id="aa03194_html_a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a009f416c7361b1fafcea3f573775ebc6"><div class="ttname"><a href="../../d9/dc1/a03194.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a009f416c7361b1fafcea3f573775ebc6">GOSSIP_TEXT_HARROWMEISER_DOCKED</a></div><div class="ttdeci">@ GOSSIP_TEXT_HARROWMEISER_DOCKED</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:146</div></div>
+<div class="ttc" id="aa03194_html_a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3ba4b73f33d738448822c000e484530e"><div class="ttname"><a href="../../d9/dc1/a03194.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3ba4b73f33d738448822c000e484530e">GOSSIP_TEXT_HARROWMEISER_EN_ROUTE</a></div><div class="ttdeci">@ GOSSIP_TEXT_HARROWMEISER_EN_ROUTE</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:148</div></div>
+<div class="ttc" id="aa03194_html_a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3f7e2f6adc88c144caf7f7521a0bb7b6"><div class="ttname"><a href="../../d9/dc1/a03194.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a3f7e2f6adc88c144caf7f7521a0bb7b6">GOSSIP_TEXT_PETROV_ARRIVING</a></div><div class="ttdeci">@ GOSSIP_TEXT_PETROV_ARRIVING</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:145</div></div>
+<div class="ttc" id="aa03194_html_a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a8b342611236abf02aaad1241d1d4f3f2"><div class="ttname"><a href="../../d9/dc1/a03194.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8a8b342611236abf02aaad1241d1d4f3f2">GOSSIP_TEXT_PETROV_EN_ROUTE</a></div><div class="ttdeci">@ GOSSIP_TEXT_PETROV_EN_ROUTE</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:144</div></div>
+<div class="ttc" id="aa03194_html_a0e0fe2cb0f4a9bbe66f9c22b27bff6d8ac2cd73cf7e8eb367f4e0544b739e93e5"><div class="ttname"><a href="../../d9/dc1/a03194.html#a0e0fe2cb0f4a9bbe66f9c22b27bff6d8ac2cd73cf7e8eb367f4e0544b739e93e5">GOSSIP_TEXT_HARROWMEISER_ARRIVING</a></div><div class="ttdeci">@ GOSSIP_TEXT_HARROWMEISER_ARRIVING</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:147</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a995847cc028949a255a4a2051a5c7d66" name="a995847cc028949a255a4a2051a5c7d66"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a995847cc028949a255a4a2051a5c7d66">&#9670;&#160;</a></span>WestguardZeppelinState</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66">WestguardZeppelinState</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359" name="a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359"></a>ZEPPELIN_STATE_EN_ROUTE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a995847cc028949a255a4a2051a5c7d66a918740afaf387b482fdab2c47ae61f6b" name="a995847cc028949a255a4a2051a5c7d66a918740afaf387b482fdab2c47ae61f6b"></a>ZEPPELIN_STATE_ARRIVING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a995847cc028949a255a4a2051a5c7d66a61a3259c6cfe55ee3eddc2a9f15dd8a4" name="a995847cc028949a255a4a2051a5c7d66a61a3259c6cfe55ee3eddc2a9f15dd8a4"></a>ZEPPELIN_STATE_DOCKED&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  160</span>{</div>
+<div class="line"><span class="lineno">  161</span>    <a class="code hl_enumvalue" href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359">ZEPPELIN_STATE_EN_ROUTE</a>,</div>
+<div class="line"><span class="lineno">  162</span>    <a class="code hl_enumvalue" href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66a918740afaf387b482fdab2c47ae61f6b">ZEPPELIN_STATE_ARRIVING</a>,</div>
+<div class="line"><span class="lineno">  163</span>    <a class="code hl_enumvalue" href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66a61a3259c6cfe55ee3eddc2a9f15dd8a4">ZEPPELIN_STATE_DOCKED</a>,</div>
+<div class="line"><span class="lineno">  164</span>};</div>
+<div class="ttc" id="aa03194_html_a995847cc028949a255a4a2051a5c7d66a61a3259c6cfe55ee3eddc2a9f15dd8a4"><div class="ttname"><a href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66a61a3259c6cfe55ee3eddc2a9f15dd8a4">ZEPPELIN_STATE_DOCKED</a></div><div class="ttdeci">@ ZEPPELIN_STATE_DOCKED</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:163</div></div>
+<div class="ttc" id="aa03194_html_a995847cc028949a255a4a2051a5c7d66a918740afaf387b482fdab2c47ae61f6b"><div class="ttname"><a href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66a918740afaf387b482fdab2c47ae61f6b">ZEPPELIN_STATE_ARRIVING</a></div><div class="ttdeci">@ ZEPPELIN_STATE_ARRIVING</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:162</div></div>
+<div class="ttc" id="aa03194_html_a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359"><div class="ttname"><a href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359">ZEPPELIN_STATE_EN_ROUTE</a></div><div class="ttdeci">@ ZEPPELIN_STATE_EN_ROUTE</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:161</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a5b83dccc97ebc1973dc36dfd05ae2386" name="a5b83dccc97ebc1973dc36dfd05ae2386"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5b83dccc97ebc1973dc36dfd05ae2386">&#9670;&#160;</a></span>WestguardZeppelinWorldState</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d9/dc1/a03194.html#a5b83dccc97ebc1973dc36dfd05ae2386">WestguardZeppelinWorldState</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5b83dccc97ebc1973dc36dfd05ae2386a0d5bc5fecd6fbd35e7f673dce78382bf" name="a5b83dccc97ebc1973dc36dfd05ae2386a0d5bc5fecd6fbd35e7f673dce78382bf"></a>WORLD_STATE_ZEPPELIN_ETA&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  155</span>{</div>
+<div class="line"><span class="lineno">  156</span>    <a class="code hl_enumvalue" href="../../d9/dc1/a03194.html#a5b83dccc97ebc1973dc36dfd05ae2386a0d5bc5fecd6fbd35e7f673dce78382bf">WORLD_STATE_ZEPPELIN_ETA</a> = 3078,</div>
+<div class="line"><span class="lineno">  157</span>};</div>
+<div class="ttc" id="aa03194_html_a5b83dccc97ebc1973dc36dfd05ae2386a0d5bc5fecd6fbd35e7f673dce78382bf"><div class="ttname"><a href="../../d9/dc1/a03194.html#a5b83dccc97ebc1973dc36dfd05ae2386a0d5bc5fecd6fbd35e7f673dce78382bf">WORLD_STATE_ZEPPELIN_ETA</a></div><div class="ttdeci">@ WORLD_STATE_ZEPPELIN_ETA</div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:156</div></div>
+</div><!-- fragment -->
+</div>
+</div>
 <h2 class="groupheader">Function Documentation</h2>
 <a id="a29051596b0a3382db98c6b72f7ff3173" name="a29051596b0a3382db98c6b72f7ff3173"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a29051596b0a3382db98c6b72f7ff3173">&#9670;&#160;</a></span>AddSC_transport_zeppelins()</h2>
@@ -146,19 +272,120 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  105</span>{</div>
-<div class="line"><span class="lineno">  106</span>    <a class="code hl_define" href="../../d4/d29/a01817.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a>(<a class="code hl_struct" href="../../df/d6d/a28706.html">go_transport_the_iron_eagle</a>);</div>
-<div class="line"><span class="lineno">  107</span>    <a class="code hl_define" href="../../d4/d29/a01817.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a>(<a class="code hl_struct" href="../../d1/da0/a28710.html">go_transport_the_thundercaller</a>);</div>
-<div class="line"><span class="lineno">  108</span>    <a class="code hl_define" href="../../d4/d29/a01817.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a>(<a class="code hl_struct" href="../../d9/d51/a28714.html">go_transport_the_purple_princess</a>);</div>
-<div class="line"><span class="lineno">  109</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  266</span>{</div>
+<div class="line"><span class="lineno">  267</span>    <a class="code hl_define" href="../../d4/d29/a01817.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a>(<a class="code hl_struct" href="../../d7/d9a/a28731.html">go_transport_the_iron_eagle</a>);</div>
+<div class="line"><span class="lineno">  268</span>    <a class="code hl_define" href="../../d4/d29/a01817.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a>(<a class="code hl_struct" href="../../d1/dc0/a28735.html">go_transport_the_thundercaller</a>);</div>
+<div class="line"><span class="lineno">  269</span>    <a class="code hl_define" href="../../d4/d29/a01817.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a>(<a class="code hl_struct" href="../../dc/da7/a28739.html">go_transport_the_purple_princess</a>);</div>
+<div class="line"><span class="lineno">  270</span>    <a class="code hl_define" href="../../d4/d29/a01817.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a>(<a class="code hl_struct" href="../../d3/d30/a28743.html">go_transport_westguard_zeppelin</a>);</div>
+<div class="line"><span class="lineno">  271</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/d39/a28747.html">npc_harrowmeiser</a>();</div>
+<div class="line"><span class="lineno">  272</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d7f/a28751.html">npc_bombardier_petrov</a>();</div>
+<div class="line"><span class="lineno">  273</span>}</div>
 <div class="ttc" id="aa01817_html_a87397a2ba2a1acd88f62793eae9aa30e"><div class="ttname"><a href="../../d4/d29/a01817.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a></div><div class="ttdeci">#define RegisterGameObjectAI(ai_name)</div><div class="ttdef"><b>Definition:</b> GameObjectScript.h:77</div></div>
-<div class="ttc" id="aa28706_html"><div class="ttname"><a href="../../df/d6d/a28706.html">go_transport_the_iron_eagle</a></div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:25</div></div>
-<div class="ttc" id="aa28710_html"><div class="ttname"><a href="../../d1/da0/a28710.html">go_transport_the_thundercaller</a></div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:49</div></div>
-<div class="ttc" id="aa28714_html"><div class="ttname"><a href="../../d9/d51/a28714.html">go_transport_the_purple_princess</a></div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:79</div></div>
+<div class="ttc" id="aa28731_html"><div class="ttname"><a href="../../d7/d9a/a28731.html">go_transport_the_iron_eagle</a></div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:32</div></div>
+<div class="ttc" id="aa28735_html"><div class="ttname"><a href="../../d1/dc0/a28735.html">go_transport_the_thundercaller</a></div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:56</div></div>
+<div class="ttc" id="aa28739_html"><div class="ttname"><a href="../../dc/da7/a28739.html">go_transport_the_purple_princess</a></div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:86</div></div>
+<div class="ttc" id="aa28743_html"><div class="ttname"><a href="../../d3/d30/a28743.html">go_transport_westguard_zeppelin</a></div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:113</div></div>
+<div class="ttc" id="aa28747_html"><div class="ttname"><a href="../../d9/d39/a28747.html">npc_harrowmeiser</a></div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:220</div></div>
+<div class="ttc" id="aa28751_html"><div class="ttname"><a href="../../dc/d7f/a28751.html">npc_bombardier_petrov</a></div><div class="ttdef"><b>Definition:</b> transport_zeppelins.cpp:246</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00077">RegisterGameObjectAI</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00041">AddWorldScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a55f8950da51c1f03c25714d67e9dbb23" name="a55f8950da51c1f03c25714d67e9dbb23"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a55f8950da51c1f03c25714d67e9dbb23">&#9670;&#160;</a></span>GetWestguardZeppelinState()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66">WestguardZeppelinState</a> GetWestguardZeppelinState </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d85/a09031.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d49/a10255.html">Map</a> *&#160;</td>
+          <td class="paramname"><em>map</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  169</span>{</div>
+<div class="line"><span class="lineno">  170</span>    <a class="code hl_class" href="../../d2/dd9/a09079.html">MotionTransport</a> <span class="keyword">const</span>* zeppelin = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  171</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d2/db0/a09075.html">Transport</a>* transport : map-&gt;<a class="code hl_function" href="../../d6/d49/a10255.html#a7f81bb1122ae428b4a765ff62edf495a">GetAllTransports</a>())</div>
+<div class="line"><span class="lineno">  172</span>        <span class="keywordflow">if</span> (transport-&gt;GetEntry() == <a class="code hl_enumvalue" href="../../d1/d30/a03185.html#ab056b3dcfb6a8a0900235d92e3b5677aa263fae717f9aaa910f37e7aebcda407d">GO_WESTGUARD_ZEPPELIN</a>)</div>
+<div class="line"><span class="lineno">  173</span>        {</div>
+<div class="line"><span class="lineno">  174</span>            zeppelin = transport-&gt;<a class="code hl_function" href="../../d2/d95/a08583.html#a5aae646746017d2cab8aa0f625cb4d42">ToMotionTransport</a>();</div>
+<div class="line"><span class="lineno">  175</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  176</span>        }</div>
+<div class="line"><span class="lineno">  177</span> </div>
+<div class="line"><span class="lineno">  178</span>    <span class="keywordflow">if</span> (!zeppelin || !zeppelin-&gt;<a class="code hl_function" href="../../d2/dd9/a09079.html#a57eb95df116519359de5d29e2a8c7163">GetPeriod</a>())</div>
+<div class="line"><span class="lineno">  179</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359">ZEPPELIN_STATE_EN_ROUTE</a>;</div>
+<div class="line"><span class="lineno">  180</span> </div>
+<div class="line"><span class="lineno">  181</span>    <a class="code hl_typedef" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> dockArriveTime = 0;</div>
+<div class="line"><span class="lineno">  182</span>    <a class="code hl_typedef" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> dockDepartTime = 0;</div>
+<div class="line"><span class="lineno">  183</span>    <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d0/d80/a10335.html">KeyFrame</a> <span class="keyword">const</span>&amp; frame : zeppelin-&gt;<a class="code hl_function" href="../../d2/dd9/a09079.html#a4644371fc5f276dac58a53cd6da3c89f">GetKeyFrames</a>())</div>
+<div class="line"><span class="lineno">  184</span>    {</div>
+<div class="line"><span class="lineno">  185</span>        <span class="keywordflow">if</span> (frame.Node-&gt;arrivalEventID == <a class="code hl_enumvalue" href="../../d1/d30/a03185.html#a79ab5591f9534775ed690dc76f71b042a9a576d577517ddbcaeb801b9833b7f84">EVENT_WK_ARRIVAL</a>)</div>
+<div class="line"><span class="lineno">  186</span>            dockArriveTime = frame.ArriveTime;</div>
+<div class="line"><span class="lineno">  187</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (frame.Node-&gt;departureEventID == <a class="code hl_enumvalue" href="../../d1/d30/a03185.html#a79ab5591f9534775ed690dc76f71b042ac6234171b69b268fec1236327f9372d0">EVENT_WK_DEPARTURE</a>)</div>
+<div class="line"><span class="lineno">  188</span>            dockDepartTime = frame.DepartureTime;</div>
+<div class="line"><span class="lineno">  189</span>    }</div>
+<div class="line"><span class="lineno">  190</span> </div>
+<div class="line"><span class="lineno">  191</span>    <span class="keywordflow">if</span> (!dockArriveTime)</div>
+<div class="line"><span class="lineno">  192</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359">ZEPPELIN_STATE_EN_ROUTE</a>;</div>
+<div class="line"><span class="lineno">  193</span> </div>
+<div class="line"><span class="lineno">  194</span>    <a class="code hl_typedef" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> period = zeppelin-&gt;<a class="code hl_function" href="../../d2/dd9/a09079.html#a57eb95df116519359de5d29e2a8c7163">GetPeriod</a>();</div>
+<div class="line"><span class="lineno">  195</span>    <a class="code hl_typedef" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> timer = zeppelin-&gt;<a class="code hl_function" href="../../d2/db0/a09075.html#a4ecab9f8617918aea3a26cc0feb9c021">GetPathProgress</a>() % period;</div>
+<div class="line"><span class="lineno">  196</span> </div>
+<div class="line"><span class="lineno">  197</span>    <span class="comment">// the dock is covered by the last and the first stop frame of the path, so the docked</span></div>
+<div class="line"><span class="lineno">  198</span>    <span class="comment">// window normally wraps the end of one period into the start of the next</span></div>
+<div class="line"><span class="lineno">  199</span>    <span class="keywordtype">bool</span> <span class="keyword">const</span> docked = dockArriveTime &gt; dockDepartTime</div>
+<div class="line"><span class="lineno">  200</span>        ? timer &gt;= dockArriveTime || timer &lt; dockDepartTime</div>
+<div class="line"><span class="lineno">  201</span>        : timer &gt;= dockArriveTime &amp;&amp; timer &lt; dockDepartTime;</div>
+<div class="line"><span class="lineno">  202</span> </div>
+<div class="line"><span class="lineno">  203</span>    <span class="keywordflow">if</span> (docked)</div>
+<div class="line"><span class="lineno">  204</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66a61a3259c6cfe55ee3eddc2a9f15dd8a4">ZEPPELIN_STATE_DOCKED</a>;</div>
+<div class="line"><span class="lineno">  205</span> </div>
+<div class="line"><span class="lineno">  206</span>    <span class="comment">// modular so it stays correct whichever way around the two stop frames sit</span></div>
+<div class="line"><span class="lineno">  207</span>    <a class="code hl_typedef" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> msUntilArrival = (dockArriveTime + period - timer) % period;</div>
+<div class="line"><span class="lineno">  208</span>    <span class="keywordflow">if</span> (msUntilArrival &lt;= <a class="code hl_variable" href="../../d4/d8c/a00035.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a> * <a class="code hl_variable" href="../../d4/d8c/a00035.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>)</div>
+<div class="line"><span class="lineno">  209</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66a918740afaf387b482fdab2c47ae61f6b">ZEPPELIN_STATE_ARRIVING</a>;</div>
+<div class="line"><span class="lineno">  210</span> </div>
+<div class="line"><span class="lineno">  211</span>    <span class="comment">// the texts read &quot;less than X minutes&quot;, so round up</span></div>
+<div class="line"><span class="lineno">  212</span>    player-&gt;<a class="code hl_function" href="../../d9/d85/a09031.html#a2a12863caf54ad9a8af56bda556d7a4b">SendUpdateWorldState</a>(<a class="code hl_enumvalue" href="../../d9/dc1/a03194.html#a5b83dccc97ebc1973dc36dfd05ae2386a0d5bc5fecd6fbd35e7f673dce78382bf">WORLD_STATE_ZEPPELIN_ETA</a>,</div>
+<div class="line"><span class="lineno">  213</span>        (msUntilArrival + <a class="code hl_variable" href="../../d4/d8c/a00035.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a> * <a class="code hl_variable" href="../../d4/d8c/a00035.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a> - 1) / (<a class="code hl_variable" href="../../d4/d8c/a00035.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a> * <a class="code hl_variable" href="../../d4/d8c/a00035.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>));</div>
+<div class="line"><span class="lineno">  214</span> </div>
+<div class="line"><span class="lineno">  215</span>    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d9/dc1/a03194.html#a995847cc028949a255a4a2051a5c7d66adcf2c64c018d9f5ef429b0f89883a359">ZEPPELIN_STATE_EN_ROUTE</a>;</div>
+<div class="line"><span class="lineno">  216</span>}</div>
+<div class="ttc" id="aa00035_html_a84190f79c8167211609f67284e066c58"><div class="ttname"><a href="../../d4/d8c/a00035.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a></div><div class="ttdeci">constexpr auto IN_MILLISECONDS</div><div class="ttdef"><b>Definition:</b> Common.h:53</div></div>
+<div class="ttc" id="aa00035_html_afacf27522adfacf698390ddafc53fa30"><div class="ttname"><a href="../../d4/d8c/a00035.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a></div><div class="ttdeci">constexpr auto MINUTE</div><div class="ttdef"><b>Definition:</b> Common.h:47</div></div>
+<div class="ttc" id="aa00515_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa03185_html_a79ab5591f9534775ed690dc76f71b042a9a576d577517ddbcaeb801b9833b7f84"><div class="ttname"><a href="../../d1/d30/a03185.html#a79ab5591f9534775ed690dc76f71b042a9a576d577517ddbcaeb801b9833b7f84">EVENT_WK_ARRIVAL</a></div><div class="ttdeci">@ EVENT_WK_ARRIVAL</div><div class="ttdef"><b>Definition:</b> transport_zeppelin.h:26</div></div>
+<div class="ttc" id="aa03185_html_a79ab5591f9534775ed690dc76f71b042ac6234171b69b268fec1236327f9372d0"><div class="ttname"><a href="../../d1/d30/a03185.html#a79ab5591f9534775ed690dc76f71b042ac6234171b69b268fec1236327f9372d0">EVENT_WK_DEPARTURE</a></div><div class="ttdeci">@ EVENT_WK_DEPARTURE</div><div class="ttdef"><b>Definition:</b> transport_zeppelin.h:39</div></div>
+<div class="ttc" id="aa03185_html_ab056b3dcfb6a8a0900235d92e3b5677aa263fae717f9aaa910f37e7aebcda407d"><div class="ttname"><a href="../../d1/d30/a03185.html#ab056b3dcfb6a8a0900235d92e3b5677aa263fae717f9aaa910f37e7aebcda407d">GO_WESTGUARD_ZEPPELIN</a></div><div class="ttdeci">@ GO_WESTGUARD_ZEPPELIN</div><div class="ttdef"><b>Definition:</b> transport_zeppelin.h:61</div></div>
+<div class="ttc" id="aa08583_html_a5aae646746017d2cab8aa0f625cb4d42"><div class="ttname"><a href="../../d2/d95/a08583.html#a5aae646746017d2cab8aa0f625cb4d42">GameObject::ToMotionTransport</a></div><div class="ttdeci">MotionTransport * ToMotionTransport()</div><div class="ttdef"><b>Definition:</b> GameObject.h:328</div></div>
+<div class="ttc" id="aa09031_html_a2a12863caf54ad9a8af56bda556d7a4b"><div class="ttname"><a href="../../d9/d85/a09031.html#a2a12863caf54ad9a8af56bda556d7a4b">Player::SendUpdateWorldState</a></div><div class="ttdeci">void SendUpdateWorldState(uint32 variable, uint32 value) const</div><div class="ttdef"><b>Definition:</b> PlayerUpdates.cpp:2242</div></div>
+<div class="ttc" id="aa09075_html"><div class="ttname"><a href="../../d2/db0/a09075.html">Transport</a></div><div class="ttdef"><b>Definition:</b> Transport.h:30</div></div>
+<div class="ttc" id="aa09075_html_a4ecab9f8617918aea3a26cc0feb9c021"><div class="ttname"><a href="../../d2/db0/a09075.html#a4ecab9f8617918aea3a26cc0feb9c021">Transport::GetPathProgress</a></div><div class="ttdeci">uint32 GetPathProgress() const</div><div class="ttdef"><b>Definition:</b> Transport.h:43</div></div>
+<div class="ttc" id="aa09079_html"><div class="ttname"><a href="../../d2/dd9/a09079.html">MotionTransport</a></div><div class="ttdef"><b>Definition:</b> Transport.h:51</div></div>
+<div class="ttc" id="aa09079_html_a4644371fc5f276dac58a53cd6da3c89f"><div class="ttname"><a href="../../d2/dd9/a09079.html#a4644371fc5f276dac58a53cd6da3c89f">MotionTransport::GetKeyFrames</a></div><div class="ttdeci">KeyFrameVec const &amp; GetKeyFrames() const</div><div class="ttdef"><b>Definition:</b> Transport.h:77</div></div>
+<div class="ttc" id="aa09079_html_a57eb95df116519359de5d29e2a8c7163"><div class="ttname"><a href="../../d2/dd9/a09079.html#a57eb95df116519359de5d29e2a8c7163">MotionTransport::GetPeriod</a></div><div class="ttdeci">uint32 GetPeriod() const</div><div class="ttdef"><b>Definition:</b> Transport.h:81</div></div>
+<div class="ttc" id="aa10255_html_a7f81bb1122ae428b4a765ff62edf495a"><div class="ttname"><a href="../../d6/d49/a10255.html#a7f81bb1122ae428b4a765ff62edf495a">Map::GetAllTransports</a></div><div class="ttdeci">TransportsContainer const &amp; GetAllTransports() const</div><div class="ttdef"><b>Definition:</b> Map.h:519</div></div>
+<div class="ttc" id="aa10335_html"><div class="ttname"><a href="../../d0/d80/a10335.html">KeyFrame</a></div><div class="ttdef"><b>Definition:</b> TransportMgr.h:42</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00026">EVENT_WK_ARRIVAL</a>, <a class="el" href="../../#l00039">EVENT_WK_DEPARTURE</a>, <a class="el" href="../../#l00519">Map::GetAllTransports()</a>, <a class="el" href="../../#l00077">MotionTransport::GetKeyFrames()</a>, <a class="el" href="../../#l00043">Transport::GetPathProgress()</a>, <a class="el" href="../../#l00081">MotionTransport::GetPeriod()</a>, <a class="el" href="../../#l00061">GO_WESTGUARD_ZEPPELIN</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00047">MINUTE</a>, <a class="el" href="../../#l02242">Player::SendUpdateWorldState()</a>, <a class="el" href="../../#l00328">GameObject::ToMotionTransport()</a>, <a class="el" href="../../#l00156">WORLD_STATE_ZEPPELIN_ETA</a>, <a class="el" href="../../#l00162">ZEPPELIN_STATE_ARRIVING</a>, <a class="el" href="../../#l00163">ZEPPELIN_STATE_DOCKED</a>, and <a class="el" href="../../#l00161">ZEPPELIN_STATE_EN_ROUTE</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00224">npc_harrowmeiser::OnGossipHello()</a>, and <a class="el" href="../../#l00250">npc_bombardier_petrov::OnGossipHello()</a>.</p>
 
 </div>
 </div>
@@ -168,7 +395,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_0a0414616ece51a8570c4e36029d4e29.html">World</a></li><li class="navelem"><a class="el" href="../../d9/dc1/a03194.html">transport_zeppelins.cpp</a></li>
-    <li class="footer">Generated on Mon Jul 27 2026 21:43:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 3 2026 21:44:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,7 @@
 var a00599 =
 [
-    [ "rbac::RBACPermission", "d1/dbe/a06310.html", "d1/dbe/a06310" ],
-    [ "rbac::RBACData", "de/ded/a06314.html", "de/ded/a06314" ],
+    [ "rbac::RBACPermission", "d7/d8c/a06311.html", "d7/d8c/a06311" ],
+    [ "rbac::RBACData", "db/d7f/a06315.html", "db/d7f/a06315" ],
     [ "RBACPermissionContainer", "d5/d8a/a00599.html#af0c998db2902079aaa8ce1c4939335a7", null ],
     [ "RBACCommandResult", "d5/d8a/a00599.html#ad98ed22d3c49d77a33cc774e4a2e1b55", [
       [ "RBAC_OK", "d5/d8a/a00599.html#ad98ed22d3c49d77a33cc774e4a2e1b55a2239af138da21b5bd0d06b9aa1cc122f", null ],

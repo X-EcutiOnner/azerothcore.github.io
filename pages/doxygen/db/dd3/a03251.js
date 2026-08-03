@@ -1,12 +1,12 @@
 var a03251 =
 [
-    [ "npc_love_in_air_supply_sentry", "d1/db8/a14950.html", "d1/db8/a14950" ],
-    [ "npc_love_in_air_snivel", "d1/dce/a14954.html", "d1/dce/a14954" ],
-    [ "npc_love_in_air_snivel_real", "d5/dac/a14958.html", "d5/dac/a14958" ],
-    [ "spell_love_in_air_perfume_immune", "d4/dcc/a14962.html", "d4/dcc/a14962" ],
-    [ "spell_item_create_heart_candy", "df/d55/a14966.html", "df/d55/a14966" ],
-    [ "spell_love_is_in_the_air_romantic_picnic", "df/db1/a14970.html", "df/db1/a14970" ],
-    [ "spell_gen_aura_service_uniform", "d1/dd6/a14974.html", "d1/dd6/a14974" ],
+    [ "npc_love_in_air_supply_sentry", "db/d9d/a14947.html", "db/d9d/a14947" ],
+    [ "npc_love_in_air_snivel", "d3/d24/a14951.html", "d3/d24/a14951" ],
+    [ "npc_love_in_air_snivel_real", "d4/d7a/a14955.html", "d4/d7a/a14955" ],
+    [ "spell_love_in_air_perfume_immune", "d3/d36/a14959.html", "d3/d36/a14959" ],
+    [ "spell_item_create_heart_candy", "d5/dc8/a14963.html", "d5/dc8/a14963" ],
+    [ "spell_love_is_in_the_air_romantic_picnic", "dc/dee/a14967.html", "dc/dee/a14967" ],
+    [ "spell_gen_aura_service_uniform", "d4/d4b/a14971.html", "d4/d4b/a14971" ],
     [ "CreateHeartCandy", "db/dd3/a03251.html#a2b366c81ccbae806e6b8b58cd8ee079a", [
       [ "SPELL_CREATE_HEART_CANDY_1", "db/dd3/a03251.html#a2b366c81ccbae806e6b8b58cd8ee079aa31a214038bcf7d15ed56ca53ad12c8a4", null ],
       [ "SPELL_CREATE_HEART_CANDY_2", "db/dd3/a03251.html#a2b366c81ccbae806e6b8b58cd8ee079aacb451943546eb8cc10fe892cd4573edf", null ],
@@ -1598,6 +1598,7 @@ var a03251 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

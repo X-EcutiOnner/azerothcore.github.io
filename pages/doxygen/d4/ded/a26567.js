@@ -1,11 +1,8 @@
 var a26567 =
 [
-    [ "CheckProc", "d4/ded/a26567.html#aeeb075a2dcaf57b328e4196959c40390", null ],
-    [ "HandleApplyDoT", "d4/ded/a26567.html#a4f832f97ae2f777c659876e20b7515a5", null ],
-    [ "HandleSeal", "d4/ded/a26567.html#aca82977aa1ee943bc557a76d09dba147", null ],
-    [ "Load", "d4/ded/a26567.html#a16545533c0a45b6bde0da3fbeaed75ae", null ],
-    [ "PrepareAuraScript", "d4/ded/a26567.html#a9d33b5c75d975f6e7f0accdf7eb10155", null ],
-    [ "Register", "d4/ded/a26567.html#a3030a2b5bb530abe673ab2cfae8351ce", null ],
-    [ "Validate", "d4/ded/a26567.html#ade8e79f41a0ec1904f33b2628eac966e", null ],
-    [ "_isVengeance", "d4/ded/a26567.html#a194bdf6e15ecf61533d40c0990e392a4", null ]
+    [ "CheckProc", "d4/ded/a26567.html#a9895aa713e01c6322363c743049c1bc8", null ],
+    [ "HandleProc", "d4/ded/a26567.html#ab75f7630b98e266b08d0317bd852b1a9", null ],
+    [ "PrepareAuraScript", "d4/ded/a26567.html#a7a1066e9cde0a782db105ef32003274d", null ],
+    [ "Register", "d4/ded/a26567.html#aac269ad519a8c15334526629786b60b3", null ],
+    [ "Validate", "d4/ded/a26567.html#a42f67d758360e142c9434186a07c1a71", null ]
 ];

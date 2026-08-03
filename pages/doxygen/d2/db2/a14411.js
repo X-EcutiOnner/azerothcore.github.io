@@ -1,8 +1,8 @@
 var a14411 =
 [
-    [ "boss_grilekAI", "d2/db2/a14411.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
-    [ "JustEngagedWith", "d2/db2/a14411.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
-    [ "Reset", "d2/db2/a14411.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
-    [ "UpdateAI", "d2/db2/a14411.html#a19438103c9a582a7d36d805c80131e8c", null ],
-    [ "_pursuitTargetGUID", "d2/db2/a14411.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
+    [ "npc_zulaman_hostageAI", "d2/d07/a14415.html", "d2/d07/a14415" ],
+    [ "npc_zulaman_hostage", "d2/db2/a14411.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "d2/db2/a14411.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "d2/db2/a14411.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "d2/db2/a14411.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

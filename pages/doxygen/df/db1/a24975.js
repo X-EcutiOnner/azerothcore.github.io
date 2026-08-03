@@ -1,6 +1,10 @@
 var a24975 =
 [
-    [ "PrepareSpellScript", "df/db1/a24975.html#a47d6dbe250410458fe54421158545efb", null ],
-    [ "Register", "df/db1/a24975.html#ae2334b3fcfa916eb4b9ae1ca85a9687e", null ],
-    [ "SetDest", "df/db1/a24975.html#aa037240eae1a1dd2c2670fed7dcc4e8c", null ]
+    [ "HandleTickUpdate", "df/db1/a24975.html#aa9c1d6c644a3e42b21d1025fc3b06f69", null ],
+    [ "PrepareAuraScript", "df/db1/a24975.html#aa930d63d22acf8e7aebbdd828cd09f36", null ],
+    [ "Register", "df/db1/a24975.html#abf597eb55f63858528325eef387fc344", null ],
+    [ "SetTickHeal", "df/db1/a24975.html#a2eabcc9aa3898c11062677eca73d1de1", null ],
+    [ "Validate", "df/db1/a24975.html#ab59a1830ca97e1bda455da330a894d5c", null ],
+    [ "_baseReduction", "df/db1/a24975.html#a8a3a8adce3dde9300e380500c6877d37", null ],
+    [ "_baseTick", "df/db1/a24975.html#acd801570e2a1b274ed0d9e8bcc6b66f0", null ]
 ];

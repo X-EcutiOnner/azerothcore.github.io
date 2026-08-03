@@ -1,8 +1,11 @@
 var a20819 =
 [
-    [ "FilterTargets", "d5/d87/a20819.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "d5/d87/a20819.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "d5/d87/a20819.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "d5/d87/a20819.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "d5/d87/a20819.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "boss_thorim_sif_blizzard", "d5/d87/a20819.html#a7d4054eb43079fe13e5a7a6c85b461ec", null ],
+    [ "AttackStart", "d5/d87/a20819.html#ab41c744d8573b1f8ce5e82e798c9bd4f", null ],
+    [ "InitWaypoint", "d5/d87/a20819.html#a55424c77633aaa62e12581a818736441", null ],
+    [ "JustEngagedWith", "d5/d87/a20819.html#a019b50cc265dff0e92417482b85ccf64", null ],
+    [ "MoveInLineOfSight", "d5/d87/a20819.html#a6e5333d6a87956d2052c2212a3dcb0fa", null ],
+    [ "Reset", "d5/d87/a20819.html#a347fcc28a0bc660b9fa93fe7fc54eea0", null ],
+    [ "WaypointReached", "d5/d87/a20819.html#af69dfd0ec232c7e45d13b117988ba924", null ],
+    [ "WaypointReached", "d5/d87/a20819.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

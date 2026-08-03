@@ -1,7 +1,8 @@
 var a14155 =
 [
-    [ "o", "d0/d80/a14155.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
-    [ "x", "d0/d80/a14155.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
-    [ "y", "d0/d80/a14155.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
-    [ "z", "d0/d80/a14155.html#abf42d988d416ebe409100c4b860d26db", null ]
+    [ "npc_dkc1_gothik", "d0/d80/a14155.html#ac55410228faf60379873234d7322c488", null ],
+    [ "DoAction", "d0/d80/a14155.html#aba7e9c3326400012162402d3ead2837f", null ],
+    [ "MoveInLineOfSight", "d0/d80/a14155.html#aa409a5ecaa71388131a2be4c62d2cf85", null ],
+    [ "UpdateAI", "d0/d80/a14155.html#a7fbe2d52d179bcc8113407054befae00", null ],
+    [ "spoken", "d0/d80/a14155.html#a4ed4b960104211c61067b1e66752eb74", null ]
 ];

@@ -1,9 +1,10 @@
 var a28367 =
 [
-    [ "npc_arcanite_dragonling", "d9/da1/a28367.html#a9b7e4cefa312a16c90018d655ad94758", null ],
-    [ "CanAIAttack", "d9/da1/a28367.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
-    [ "IsSummonedBy", "d9/da1/a28367.html#a921b35a91c4f21258efdb41fd87413db", null ],
-    [ "JustEngagedWith", "d9/da1/a28367.html#a65f6d779681861117f750b70154b3e0d", null ],
-    [ "Reset", "d9/da1/a28367.html#a4468d91430add821bf7a7ab11d8063da", null ],
-    [ "UpdateAI", "d9/da1/a28367.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
+    [ "guard_shattrath_scryerAI", "d9/da1/a28367.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "d9/da1/a28367.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "d9/da1/a28367.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "d9/da1/a28367.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "d9/da1/a28367.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "d9/da1/a28367.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "d9/da1/a28367.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

@@ -1,6 +1,7 @@
 var a14375 =
 [
-    [ "boss_arlokkAI", "d8/d16/a14379.html", "d8/d16/a14379" ],
-    [ "boss_arlokk", "da/d02/a14375.html#a55bb21239e05acff18d2fb147449800e", null ],
-    [ "GetAI", "da/d02/a14375.html#a58b8cc7a198784b48faaab1b069d397c", null ]
+    [ "spell", "da/d02/a14375.html#a55423d09b2f1775dc386a36168ad764d", null ],
+    [ "spiritEntry", "da/d02/a14375.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
+    [ "text", "da/d02/a14375.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
+    [ "unaura", "da/d02/a14375.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
 ];

@@ -1,8 +1,7 @@
 var a20987 =
 [
-    [ "CheckProc", "da/d0e/a20987.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
-    [ "HandleProc", "da/d0e/a20987.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
-    [ "PrepareAuraScript", "da/d0e/a20987.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
-    [ "Register", "da/d0e/a20987.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
-    [ "Validate", "da/d0e/a20987.html#ad4176f188412053b9205820fb6183d38", null ]
+    [ "boss_yoggsaron_corruptor_tentacle", "da/d0e/a20987.html#afc092be8079630b1214c98b8896a22c3", null ],
+    [ "DoAction", "da/d0e/a20987.html#adf9489b954cc83a26263ffffe4ef2dd5", null ],
+    [ "SelectCorruptionTarget", "da/d0e/a20987.html#a8b868941372af612e269e013594a5c14", null ],
+    [ "UpdateAI", "da/d0e/a20987.html#a2f8911a615d32689088a6c358ac80d3f", null ]
 ];

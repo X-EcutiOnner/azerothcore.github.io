@@ -1,8 +1,16 @@
 var a10103 =
 [
-    [ "ServerMailCondition", "d1/dd1/a10103.html#a2ee7d2f3587159c95883fe32674cb586", null ],
-    [ "CheckCondition", "d1/dd1/a10103.html#a3c223658629357f05d8879555717f624", null ],
-    [ "state", "d1/dd1/a10103.html#a309f739872afaf644331335b27649561", null ],
-    [ "type", "d1/dd1/a10103.html#a3b318e7743ca48fcf8ba849398a06968", null ],
-    [ "value", "d1/dd1/a10103.html#af709199aed99633cc70d9118ee4fd4fc", null ]
+    [ "StoredLootItem", "d1/dd1/a10103.html#a32da4030f3e58b7fae5001511c6caa40", null ],
+    [ "conditionLootId", "d1/dd1/a10103.html#a9be27c3407923df6b15bef993dd58830", null ],
+    [ "count", "d1/dd1/a10103.html#a25c63cc5a94ecc3bf803e83be5aabc39", null ],
+    [ "follow_loot_rules", "d1/dd1/a10103.html#ac945688a64f92c40ada1abd5847d9b0d", null ],
+    [ "freeforall", "d1/dd1/a10103.html#a41a3c4caf90fc8c42d2e0e5192201d19", null ],
+    [ "is_blocked", "d1/dd1/a10103.html#a895cc61dd542959c3726dbc54abf7434", null ],
+    [ "is_counted", "d1/dd1/a10103.html#a801a125a5035167f3f511560a29808c4", null ],
+    [ "is_underthreshold", "d1/dd1/a10103.html#ae11badaeeccbb3af7f150d4ca55347a3", null ],
+    [ "itemid", "d1/dd1/a10103.html#afac1addff36f4cd08626ac7ae1ce0cff", null ],
+    [ "itemIndex", "d1/dd1/a10103.html#a076564a43a586c6b6d17cd64fca8e9fb", null ],
+    [ "needs_quest", "d1/dd1/a10103.html#ae7530d417ac10c5766fc25664b427d50", null ],
+    [ "randomPropertyId", "d1/dd1/a10103.html#a12e1cb9403cc4f6ceb770c8cf50a1d17", null ],
+    [ "randomSuffix", "d1/dd1/a10103.html#a2588c810dcd51a5c0c6558b99493602b", null ]
 ];

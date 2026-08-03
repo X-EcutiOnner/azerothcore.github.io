@@ -1,5 +1,7 @@
 var a15731 =
 [
-    [ "at_battleguard_sartura", "dc/df8/a15731.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
-    [ "OnTrigger", "dc/df8/a15731.html#a6a7b9f210ce0c2844b4f2412c0fe440e", null ]
+    [ "FilterTargets", "dc/df8/a15731.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
+    [ "HandleOnHit", "dc/df8/a15731.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
+    [ "PrepareSpellScript", "dc/df8/a15731.html#ad7372e543391a23c003b4121e0dd8a09", null ],
+    [ "Register", "dc/df8/a15731.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: FindLoopingStartTimeTest Class Reference</title>
+<title>AzerothCore: Member List</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d6/d50/a29660.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('da/d40/a29663.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,184 +104,34 @@ $(document).ready(function(){initNavTree('d6/d50/a29660.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#pro-static-methods">Static Protected Member Functions</a> &#124;
-<a href="#pro-static-attribs">Static Protected Attributes</a> &#124;
-<a href="../../dc/dad/a29657.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">FindLoopingStartTimeTest Class Reference</div></div>
+  <div class="headertitle"><div class="title">SpellProcEntryBuilder Member List</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="dynheader">
-Inheritance diagram for FindLoopingStartTimeTest:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d6/d50/a29660.png" alt=""/>
- </div></div>
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-static-methods" name="pro-static-methods"></a>
-Static Protected Member Functions</h2></td></tr>
-<tr class="memitem:aafef969ff6e16b69727166c02e2d3d70"><td class="memItemLeft" align="right" valign="top">static time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d50/a29660.html#aafef969ff6e16b69727166c02e2d3d70">MakeTime</a> (int year, int month, int day, int hour=0)</td></tr>
-<tr class="separator:aafef969ff6e16b69727166c02e2d3d70"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3650ca0f9c8030fe4bd9ca770506e105"><td class="memItemLeft" align="right" valign="top">static uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d50/a29660.html#a3650ca0f9c8030fe4bd9ca770506e105">PackAnchor</a> (int year, int month, int day, int hour, int minute)</td></tr>
-<tr class="separator:a3650ca0f9c8030fe4bd9ca770506e105"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-static-attribs" name="pro-static-attribs"></a>
-Static Protected Attributes</h2></td></tr>
-<tr class="memitem:afcc01c96e3ec426969c1f90f7b87fe5a"><td class="memItemLeft" align="right" valign="top">static constexpr uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d50/a29660.html#afcc01c96e3ec426969c1f90f7b87fe5a">OCCURENCE_MIN</a> = 60480</td></tr>
-<tr class="separator:afcc01c96e3ec426969c1f90f7b87fe5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="aafef969ff6e16b69727166c02e2d3d70" name="aafef969ff6e16b69727166c02e2d3d70"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aafef969ff6e16b69727166c02e2d3d70">&#9670;&#160;</a></span>MakeTime()</h2>
 
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static time_t FindLoopingStartTimeTest::MakeTime </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>year</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>month</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>day</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>hour</em> = <code>0</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1440</span>    {</div>
-<div class="line"><span class="lineno"> 1441</span>        std::tm t = {};</div>
-<div class="line"><span class="lineno"> 1442</span>        t.tm_year = year - 1900;</div>
-<div class="line"><span class="lineno"> 1443</span>        t.tm_mon = month - 1;</div>
-<div class="line"><span class="lineno"> 1444</span>        t.tm_mday = day;</div>
-<div class="line"><span class="lineno"> 1445</span>        t.tm_hour = hour;</div>
-<div class="line"><span class="lineno"> 1446</span>        t.tm_isdst = -1;</div>
-<div class="line"><span class="lineno"> 1447</span>        <span class="keywordflow">return</span> mktime(&amp;t);</div>
-<div class="line"><span class="lineno"> 1448</span>    }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a3650ca0f9c8030fe4bd9ca770506e105" name="a3650ca0f9c8030fe4bd9ca770506e105"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3650ca0f9c8030fe4bd9ca770506e105">&#9670;&#160;</a></span>PackAnchor()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static uint32_t FindLoopingStartTimeTest::PackAnchor </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>year</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>month</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>day</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>hour</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>minute</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1451</span>    {</div>
-<div class="line"><span class="lineno"> 1452</span>        uint32_t packed = 0;</div>
-<div class="line"><span class="lineno"> 1453</span>        packed |= (<span class="keyword">static_cast&lt;</span>uint32_t<span class="keyword">&gt;</span>(year - 2000) &amp; 0x1F) &lt;&lt; 24;</div>
-<div class="line"><span class="lineno"> 1454</span>        packed |= (<span class="keyword">static_cast&lt;</span>uint32_t<span class="keyword">&gt;</span>(month - 1) &amp; 0xF) &lt;&lt; 20;</div>
-<div class="line"><span class="lineno"> 1455</span>        packed |= (<span class="keyword">static_cast&lt;</span>uint32_t<span class="keyword">&gt;</span>(day - 1) &amp; 0x3F) &lt;&lt; 14;</div>
-<div class="line"><span class="lineno"> 1456</span>        packed |= (<span class="keyword">static_cast&lt;</span>uint32_t<span class="keyword">&gt;</span>(hour) &amp; 0x1F) &lt;&lt; 6;</div>
-<div class="line"><span class="lineno"> 1457</span>        packed |= (<span class="keyword">static_cast&lt;</span>uint32_t<span class="keyword">&gt;</span>(minute) &amp; 0x3F);</div>
-<div class="line"><span class="lineno"> 1458</span>        <span class="keywordflow">return</span> packed;</div>
-<div class="line"><span class="lineno"> 1459</span>    }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="afcc01c96e3ec426969c1f90f7b87fe5a" name="afcc01c96e3ec426969c1f90f7b87fe5a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afcc01c96e3ec426969c1f90f7b87fe5a">&#9670;&#160;</a></span>OCCURENCE_MIN</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr uint32_t FindLoopingStartTimeTest::OCCURENCE_MIN = 60480</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-</div><!-- contents -->
+<p>This is the complete list of members for <a class="el" href="../../da/d40/a29663.html">SpellProcEntryBuilder</a>, including all inherited members.</p>
+<table class="directory">
+  <tr class="even"><td class="entry"><a class="el" href="../../da/d40/a29663.html#a42632c6cb19221bbca3441f46e1f1b3c">_entry</a></td><td class="entry"><a class="el" href="../../da/d40/a29663.html">SpellProcEntryBuilder</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/d40/a29663.html#a2a69603215e9fa526304f420bd5a490c">Build</a>() const</td><td class="entry"><a class="el" href="../../da/d40/a29663.html">SpellProcEntryBuilder</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/d40/a29663.html#ad5df1abe27dde6d70c030bd19ed5c928">SpellProcEntryBuilder</a>()</td><td class="entry"><a class="el" href="../../da/d40/a29663.html">SpellProcEntryBuilder</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/d40/a29663.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(uint32 attributesMask)</td><td class="entry"><a class="el" href="../../da/d40/a29663.html">SpellProcEntryBuilder</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/d40/a29663.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(float chance)</td><td class="entry"><a class="el" href="../../da/d40/a29663.html">SpellProcEntryBuilder</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/d40/a29663.html#a6b8ecf0c38751be02b7003a7547d550f">WithCharges</a>(uint32 charges)</td><td class="entry"><a class="el" href="../../da/d40/a29663.html">SpellProcEntryBuilder</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/d40/a29663.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(Milliseconds cooldown)</td><td class="entry"><a class="el" href="../../da/d40/a29663.html">SpellProcEntryBuilder</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/d40/a29663.html#ad414f75756b0fd284c636568dd74e57c">WithDisableEffectsMask</a>(uint32 disableEffectsMask)</td><td class="entry"><a class="el" href="../../da/d40/a29663.html">SpellProcEntryBuilder</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/d40/a29663.html#a1cdd7bec2aa80d5036d614ad0296a695">WithHitMask</a>(uint32 hitMask)</td><td class="entry"><a class="el" href="../../da/d40/a29663.html">SpellProcEntryBuilder</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/d40/a29663.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(uint32 procFlags)</td><td class="entry"><a class="el" href="../../da/d40/a29663.html">SpellProcEntryBuilder</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/d40/a29663.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(float ppm)</td><td class="entry"><a class="el" href="../../da/d40/a29663.html">SpellProcEntryBuilder</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/d40/a29663.html#a713d576e3a6daf3c6f96b662b5789f14">WithSchoolMask</a>(uint32 schoolMask)</td><td class="entry"><a class="el" href="../../da/d40/a29663.html">SpellProcEntryBuilder</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/d40/a29663.html#a57a1699a8238dd535a44908734e3c7fd">WithSpellFamilyMask</a>(flag96 familyMask)</td><td class="entry"><a class="el" href="../../da/d40/a29663.html">SpellProcEntryBuilder</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/d40/a29663.html#abf221ae8a8ef5e995bbe9b3f01f004c1">WithSpellFamilyName</a>(uint32 familyName)</td><td class="entry"><a class="el" href="../../da/d40/a29663.html">SpellProcEntryBuilder</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/d40/a29663.html#ae7ddfcb398c2f5e52834bd74d25754dc">WithSpellPhaseMask</a>(uint32 spellPhaseMask)</td><td class="entry"><a class="el" href="../../da/d40/a29663.html">SpellProcEntryBuilder</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/d40/a29663.html#aa0691e03294c5317fdd173d4dd70edc1">WithSpellTypeMask</a>(uint32 spellTypeMask)</td><td class="entry"><a class="el" href="../../da/d40/a29663.html">SpellProcEntryBuilder</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+</table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d6/d50/a29660.html">FindLoopingStartTimeTest</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 21:48:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 3 2026 21:45:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

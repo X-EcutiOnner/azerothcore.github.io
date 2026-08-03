@@ -1,6 +1,7 @@
 var a23471 =
 [
-    [ "npc_millhouse_manastormAI", "d9/d88/a23475.html", "d9/d88/a23475" ],
-    [ "npc_millhouse_manastorm", "d2/d2a/a23471.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
-    [ "GetAI", "d2/d2a/a23471.html#ac4516785f7daf544718fc201197ba977", null ]
+    [ "HandleScript", "d2/d2a/a23471.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
+    [ "PrepareSpellScript", "d2/d2a/a23471.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
+    [ "Register", "d2/d2a/a23471.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
+    [ "Validate", "d2/d2a/a23471.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
 ];

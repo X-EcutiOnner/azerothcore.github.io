@@ -1,8 +1,6 @@
 var a22383 =
 [
-    [ "CalcPeriodic", "dc/dad/a22383.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
-    [ "OnRemove", "dc/dad/a22383.html#af120bb9d6a0c3d338706613540849412", null ],
-    [ "PrepareAuraScript", "dc/dad/a22383.html#ad413f14193013058e1775f80b457a81d", null ],
-    [ "Register", "dc/dad/a22383.html#aa35fc5865f108712e450661e67c384ce", null ],
-    [ "Update", "dc/dad/a22383.html#aebc61b57ed8038488ec06c14483b2099", null ]
+    [ "HandleEffectRemove", "dc/dad/a22383.html#a08c55501b95d4c92971fd5c95aaef1a7", null ],
+    [ "PrepareAuraScript", "dc/dad/a22383.html#aa0df1c7c112cf44fbe5a89894a1292b3", null ],
+    [ "Register", "dc/dad/a22383.html#a6f6ae6c012090337eb3f9ca4fd39749d", null ]
 ];

@@ -1,6 +1,7 @@
 var a17927 =
 [
-    [ "npc_igb_ship_crewAI", "d0/da6/a17927.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "d0/da6/a17927.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "d0/da6/a17927.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "ExtraEffect", "d0/da6/a17927.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "d0/da6/a17927.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "d0/da6/a17927.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "d0/da6/a17927.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

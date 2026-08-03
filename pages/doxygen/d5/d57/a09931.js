@@ -1,10 +1,8 @@
 var a09931 =
 [
-    [ "PlayerMoveItemData", "d5/d57/a09931.html#a2f707719b409975ddd3023d2239403d6", null ],
-    [ "CanStore", "d5/d57/a09931.html#a00680db86d45ad8e8652218fce05139d", null ],
-    [ "InitItem", "d5/d57/a09931.html#a34298fd6ac20ab0e02c6350dcc5a4d33", null ],
-    [ "IsBank", "d5/d57/a09931.html#ae4d45104dccf78581b4228a31fe192ad", null ],
-    [ "LogBankEvent", "d5/d57/a09931.html#a36516c5ca1aaa13afa9e61831a175068", null ],
-    [ "RemoveItem", "d5/d57/a09931.html#a482460f04b20349e909bac36f893a35a", null ],
-    [ "StoreItem", "d5/d57/a09931.html#a017e3bd414548e66f980587e81e598e5", null ]
+    [ "flags", "d5/d57/a09931.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
+    [ "group", "d5/d57/a09931.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
+    [ "guid", "d5/d57/a09931.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
+    [ "name", "d5/d57/a09931.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
+    [ "roles", "d5/d57/a09931.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
 ];

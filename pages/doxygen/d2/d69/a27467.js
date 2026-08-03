@@ -1,7 +1,8 @@
 var a27467 =
 [
-    [ "HandleTeleport", "d2/d69/a27467.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
-    [ "PrepareAuraScript", "d2/d69/a27467.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
-    [ "Register", "d2/d69/a27467.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
-    [ "Validate", "d2/d69/a27467.html#adabf22bd591a10662ffbf0354a18a936", null ]
+    [ "ApplyDebuff", "d2/d69/a27467.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "d2/d69/a27467.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "d2/d69/a27467.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "d2/d69/a27467.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "d2/d69/a27467.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

@@ -1,7 +1,17 @@
 var a06207 =
 [
-    [ "TransactionWithResultTask", "d3/d2f/a06207.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
-    [ "Execute", "d3/d2f/a06207.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
-    [ "GetFuture", "d3/d2f/a06207.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
-    [ "m_result", "d3/d2f/a06207.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
+    [ "QueryCallbackData", "d3/d2f/a06207.html#a43aa5b63c21480a9a02e5b1705f5e46a", null ],
+    [ "QueryCallbackData", "d3/d2f/a06207.html#af3d8b55a1a392e1f471bcf7ce16d8f45", null ],
+    [ "QueryCallbackData", "d3/d2f/a06207.html#a81f06a2940c72077d0f8bbe0d6292c5e", null ],
+    [ "~QueryCallbackData", "d3/d2f/a06207.html#a7a748ec0f04555caf696be1792701134", null ],
+    [ "QueryCallbackData", "d3/d2f/a06207.html#aea307606758c54a99e020421acaa5697", null ],
+    [ "operator=", "d3/d2f/a06207.html#a135161ac21cd4f11f2178acc8316afea", null ],
+    [ "operator=", "d3/d2f/a06207.html#a5b4baade8dd78ab3dc00e1003f679fb3", null ],
+    [ "ConstructActiveMember", "d3/d2f/a06207.html#a63276ee687270e668e7c51876ced5fb1", null ],
+    [ "DestroyActiveMember", "d3/d2f/a06207.html#aac0ba6a0017441eb25c4b294fde99186", null ],
+    [ "MoveFrom", "d3/d2f/a06207.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ],
+    [ "QueryCallback", "d3/d2f/a06207.html#a3bf0675bb0e337d06f1e7ef31d7622fe", null ],
+    [ "_isPrepared", "d3/d2f/a06207.html#ad4e5dcd8f5648dfa36116b9944813ec6", null ],
+    [ "_prepared", "d3/d2f/a06207.html#ab87a39965f1ca9d48d6e5a88fde51976", null ],
+    [ "_string", "d3/d2f/a06207.html#a384db60c65e7823fdbc0ff430ac8dfe1", null ]
 ];

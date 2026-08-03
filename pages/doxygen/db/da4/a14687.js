@@ -1,6 +1,6 @@
 var a14687 =
 [
-    [ "npc_direbrew_antagonist", "db/da4/a14687.html#a30fed4e6888d98af576dea8e13c510d3", null ],
-    [ "DoAction", "db/da4/a14687.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
-    [ "JustEngagedWith", "db/da4/a14687.html#aaf54b03d66d726901c289ff28d362787", null ]
+    [ "npc_brewfest_keg_reciver", "db/da4/a14687.html#af12e7608f3f715650e6c265ac18920e4", null ],
+    [ "MoveInLineOfSight", "db/da4/a14687.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
+    [ "sGossipSelect", "db/da4/a14687.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
 ];

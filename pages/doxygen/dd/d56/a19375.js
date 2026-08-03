@@ -1,6 +1,6 @@
 var a19375 =
 [
-    [ "boss_grobbulusAI", "d9/d18/a19379.html", "d9/d18/a19379" ],
-    [ "boss_grobbulus", "dd/d56/a19375.html#acf1b781e86e33a363b68354d34d3c015", null ],
-    [ "GetAI", "dd/d56/a19375.html#ae918614566a0b9979aef4e1aeaac394c", null ]
+    [ "RespawnEvent", "dd/d56/a19375.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
+    [ "Execute", "dd/d56/a19375.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
+    [ "_owner", "dd/d56/a19375.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
 ];

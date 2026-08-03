@@ -1,26 +1,8 @@
 var a08987 =
 [
-    [ "PlayerTaxi", "dd/df9/a08987.html#a33cfc1b5bf7cc5eb253855967a532d8b", null ],
-    [ "~PlayerTaxi", "dd/df9/a08987.html#ab8ba2e4cebd37f540e45d1f41cf46fb4", null ],
-    [ "AddTaxiDestination", "dd/df9/a08987.html#a1ecef7f42bb7197ce7c6ca35c7010ec3", null ],
-    [ "AppendTaximaskTo", "dd/df9/a08987.html#ab18bdbd8b7e04949d6d4b9adfabf8451", null ],
-    [ "ClearTaxiDestinations", "dd/df9/a08987.html#ab4422be16e69b1f32bce002ab71ab5a5", null ],
-    [ "empty", "dd/df9/a08987.html#a76919e4ba603f6a1b88a3c213767e09d", null ],
-    [ "GetCurrentTaxiPath", "dd/df9/a08987.html#ae4a6a1a97932c90ca79a282f131711e7", null ],
-    [ "GetFlightMasterFactionTemplate", "dd/df9/a08987.html#a487e2760da8446a3c34dddc2d4c5c0f5", null ],
-    [ "GetPath", "dd/df9/a08987.html#a031051c85f1ce8fb8ab172c86bb4382b", null ],
-    [ "GetTaxiDestination", "dd/df9/a08987.html#aa54293e7ea1125b0e7dd2a79f9a7e0a0", null ],
-    [ "GetTaxiSource", "dd/df9/a08987.html#a4313e575d9bd2a60852f5e944f79ac71", null ],
-    [ "InitTaxiNodesForLevel", "dd/df9/a08987.html#ae63c6941e0e8b7c0920cc1f255641e4d", null ],
-    [ "IsTaximaskNodeKnown", "dd/df9/a08987.html#a76220474a42fc4207bb6f40b589a6511", null ],
-    [ "LoadTaxiDestinationsFromString", "dd/df9/a08987.html#a6261b2b052d1a8385a480372450c7191", null ],
-    [ "LoadTaxiMask", "dd/df9/a08987.html#a010941cce9bf3b9c37d951c2ece4b3d4", null ],
-    [ "NextTaxiDestination", "dd/df9/a08987.html#aa417f33d57d94db8c8aa9df56e329835", null ],
-    [ "SaveTaxiDestinationsToString", "dd/df9/a08987.html#a0cffd730b09becde5f65882bc5c0832c", null ],
-    [ "SetFlightMasterFactionTemplateId", "dd/df9/a08987.html#a2be37f977bdf5dc787e1923b4d1ed12e", null ],
-    [ "SetTaximaskNode", "dd/df9/a08987.html#a34a9653fbdc2b4a7c86a990fcc080e64", null ],
-    [ "operator<<", "dd/df9/a08987.html#aa8a947319a6f00895a3c443f5cb258ad", null ],
-    [ "m_flightMasterFactionId", "dd/df9/a08987.html#a52ed114d167bcc8079fe37c410b25b31", null ],
-    [ "m_TaxiDestinations", "dd/df9/a08987.html#a3aff323ba6dfee2f8776efb49e3ebfbf", null ],
-    [ "m_taximask", "dd/df9/a08987.html#abf0d776badac2d25cf823609d5fec799", null ]
+    [ "EnchantDuration", "dd/df9/a08987.html#a1ce5f81deaa60494c247673c113632d8", null ],
+    [ "EnchantDuration", "dd/df9/a08987.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
+    [ "item", "dd/df9/a08987.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
+    [ "leftduration", "dd/df9/a08987.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
+    [ "slot", "dd/df9/a08987.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
 ];

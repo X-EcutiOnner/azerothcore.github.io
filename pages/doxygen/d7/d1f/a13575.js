@@ -1,7 +1,7 @@
 var a13575 =
 [
-    [ "boss_apothecary_hummelAI", "da/d8e/a13579.html", "da/d8e/a13579" ],
-    [ "boss_apothecary_hummel", "d7/d1f/a13575.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
-    [ "GetAI", "d7/d1f/a13575.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
-    [ "OnQuestReward", "d7/d1f/a13575.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
+    [ "npc_apothecary_genericAI", "d7/d1f/a13575.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "d7/d1f/a13575.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "d7/d1f/a13575.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "d7/d1f/a13575.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

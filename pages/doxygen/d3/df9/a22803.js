@@ -1,6 +1,7 @@
 var a22803 =
 [
-    [ "HandleSchoolDamage", "d3/df9/a22803.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
-    [ "PrepareSpellScript", "d3/df9/a22803.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
-    [ "Register", "d3/df9/a22803.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
+    [ "HandleDummy", "d3/df9/a22803.html#af5ac581f7d471300fba2c23548037eea", null ],
+    [ "PrepareSpellScript", "d3/df9/a22803.html#adda61c05b544b52d98af5b7a76d4f808", null ],
+    [ "Register", "d3/df9/a22803.html#a270a64dffdce230d97515f116ec49706", null ],
+    [ "Validate", "d3/df9/a22803.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
 ];

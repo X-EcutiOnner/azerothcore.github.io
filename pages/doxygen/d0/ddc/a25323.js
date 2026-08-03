@@ -1,7 +1,6 @@
 var a25323 =
 [
-    [ "HandleProc", "d0/ddc/a25323.html#a5a658d1feb1e1ae1d4866bab40ca03e6", null ],
-    [ "PrepareAuraScript", "d0/ddc/a25323.html#ab424a5c9da846e0b7ac93620163140fb", null ],
-    [ "Register", "d0/ddc/a25323.html#a2258b59fc50468dd5c8fa97e1fcb2dd9", null ],
-    [ "Validate", "d0/ddc/a25323.html#a8466306b9a95f8a57e1998c57ba10ca2", null ]
+    [ "HandleScriptEffect", "d0/ddc/a25323.html#a422a77760004d6d6fac6bacdb1d436ff", null ],
+    [ "PrepareSpellScript", "d0/ddc/a25323.html#a1d7e2beafb55464f928ea5904441d698", null ],
+    [ "Register", "d0/ddc/a25323.html#aeaa8321255f377b85884df25a455554f", null ]
 ];

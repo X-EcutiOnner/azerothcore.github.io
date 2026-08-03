@@ -1,9 +1,7 @@
 var a24175 =
 [
-    [ "npc_pet_gen_fetch_ball", "d4/d10/a24175.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
-    [ "IsSummonedBy", "d4/d10/a24175.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
-    [ "SpellHitTarget", "d4/d10/a24175.html#a87bdded236f6584d9b71507a1253f7d0", null ],
-    [ "UpdateAI", "d4/d10/a24175.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
-    [ "checkTimer", "d4/d10/a24175.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
-    [ "targetGUID", "d4/d10/a24175.html#ae474374af7c2270e218ed236d90c789c", null ]
+    [ "HandleEffectApply", "d4/d10/a24175.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "d4/d10/a24175.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "d4/d10/a24175.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "d4/d10/a24175.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

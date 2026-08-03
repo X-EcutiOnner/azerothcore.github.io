@@ -1,13 +1,11 @@
 var a21015 =
 [
-    [ "npc_ferocious_rhinoAI", "d6/da4/a21015.html#ad70d0aeba4b73330c5087bc84a533389", null ],
-    [ "DoAction", "d6/da4/a21015.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
-    [ "JustDied", "d6/da4/a21015.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
-    [ "JustEngagedWith", "d6/da4/a21015.html#aab35078fe4518b6647f98e316d02898a", null ],
-    [ "JustReachedHome", "d6/da4/a21015.html#ab8105d6c8c70037c208c83c13c35242d", null ],
-    [ "MoveInLineOfSight", "d6/da4/a21015.html#a97e32d32a692f223b96746f3ef1086c5", null ],
-    [ "Reset", "d6/da4/a21015.html#a6d317407c2de2f954b5dd2a6db137304", null ],
-    [ "UpdateAI", "d6/da4/a21015.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
-    [ "events", "d6/da4/a21015.html#af23061de7d8566c7435c2c64c53dff89", null ],
-    [ "m_pInstance", "d6/da4/a21015.html#a97e00db40792c559dd06327c9960abe4", null ]
+    [ "boss_yoggsaron_llane", "d6/da4/a21015.html#a42e3d189cff0da5995401e4bc8dfffdd", null ],
+    [ "NextStep", "d6/da4/a21015.html#ab8b6446fe7d424ad7d943af915cc4b8a", null ],
+    [ "Reset", "d6/da4/a21015.html#a0df3a85717ab26ad1ac889d6fe4d8007", null ],
+    [ "Say", "d6/da4/a21015.html#a0ae3106eac830ed9f14f17e5fa1d45ec", null ],
+    [ "UpdateAI", "d6/da4/a21015.html#a58ec957cd59b944439fe514e728e2902", null ],
+    [ "_checkTimer", "d6/da4/a21015.html#a3043382e2727bc78a74acaec28697045", null ],
+    [ "_running", "d6/da4/a21015.html#ab7e1b1ed82f311b12f28f1622e6ad378", null ],
+    [ "_step", "d6/da4/a21015.html#a91a71f85bab9e4d1234964ef534e51c2", null ]
 ];

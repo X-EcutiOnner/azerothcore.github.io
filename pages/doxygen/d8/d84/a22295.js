@@ -1,5 +1,9 @@
 var a22295 =
 [
-    [ "OutdoorPvP_hellfire_peninsula", "d8/d84/a22295.html#a8ef74076d03225c889c6f027fbbfe25d", null ],
-    [ "GetOutdoorPvP", "d8/d84/a22295.html#aee93a8191457d7a264053809a5c082e8", null ]
+    [ "npc_brunnhildar_prisonerAI", "d8/d84/a22295.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "d8/d84/a22295.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "d8/d84/a22295.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "d8/d84/a22295.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "d8/d84/a22295.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "d8/d84/a22295.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

@@ -1,6 +1,6 @@
 var a01844 =
 [
-    [ "AllSpellScript", "d2/da2/a10706.html", "d2/da2/a10706" ],
+    [ "AllSpellScript", "da/df5/a10711.html", "da/df5/a10711" ],
     [ "SpellSC", "d2/dbd/a01844.html#a743e879dd1df387001a0db3b0bf31d0e", null ],
     [ "AllSpellHook", "d2/dbd/a01844.html#afe0b21412f82a634ffd412b1aca51cbc", [
       [ "ALLSPELLHOOK_ON_CALC_MAX_DURATION", "d2/dbd/a01844.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97", null ],

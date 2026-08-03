@@ -1,9 +1,8 @@
 var a24763 =
 [
-    [ "PrepareAuraScript", "df/db6/a24763.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
-    [ "Register", "df/db6/a24763.html#a04efbc64bfa0312bc1f372e403803c32", null ],
-    [ "Update", "df/db6/a24763.html#aa463442b994b6275b2e12fe06ae7805c", null ],
-    [ "amplitude", "df/db6/a24763.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
-    [ "amplitude", "df/db6/a24763.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
-    [ "isPeriodic", "df/db6/a24763.html#a0732bf60822bbb547be014566d0e092c", null ]
+    [ "CheckProc", "df/db6/a24763.html#a1b7b855383b04bd1b627c6f1e33ad7a5", null ],
+    [ "HandleProc", "df/db6/a24763.html#a726af9faf0170050f662cb1cc99e6ec8", null ],
+    [ "PrepareAuraScript", "df/db6/a24763.html#a204655e4eea1cf8694c62ddae6d5a760", null ],
+    [ "Register", "df/db6/a24763.html#a23e8088d6d9626ec4c3f8fc6e66c1e24", null ],
+    [ "Validate", "df/db6/a24763.html#a5a3006bb5d54d68b8eb529a8c680c5c0", null ]
 ];

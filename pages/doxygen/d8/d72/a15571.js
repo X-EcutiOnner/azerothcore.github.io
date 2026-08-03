@@ -1,9 +1,7 @@
 var a15571 =
 [
-    [ "npc_giant_eye_tentacle", "d8/d72/a15571.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
-    [ "JustDied", "d8/d72/a15571.html#a72cac50a711868256a41c543d0cef3da", null ],
-    [ "JustEngagedWith", "d8/d72/a15571.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
-    [ "Reset", "d8/d72/a15571.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
-    [ "UpdateAI", "d8/d72/a15571.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
-    [ "_portalGUID", "d8/d72/a15571.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
+    [ "boss_rajaxx", "d8/d72/a15571.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
+    [ "JustDied", "d8/d72/a15571.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
+    [ "JustEngagedWith", "d8/d72/a15571.html#a8dad79921559359b6aa7149641925fe5", null ],
+    [ "UpdateAI", "d8/d72/a15571.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
 ];

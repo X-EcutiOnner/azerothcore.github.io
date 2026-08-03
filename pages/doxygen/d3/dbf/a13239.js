@@ -1,8 +1,6 @@
 var a13239 =
 [
-    [ "npc_cyclone", "d3/dbf/a13239.html#afdc4f98b031f832702929c6a7f192ab5", null ],
-    [ "JustEngagedWith", "d3/dbf/a13239.html#a61d0710868c91f707643a436c0d79485", null ],
-    [ "Reset", "d3/dbf/a13239.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
-    [ "UpdateAI", "d3/dbf/a13239.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
-    [ "_scheduler", "d3/dbf/a13239.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
+    [ "FilterTargets", "d3/dbf/a13239.html#adae7a812a222a60f9c89cac4ea327011", null ],
+    [ "PrepareSpellScript", "d3/dbf/a13239.html#a9576a48a3aa761c103f72586cd93970c", null ],
+    [ "Register", "d3/dbf/a13239.html#aaadad68c322eac268ea7a45f9c369c59", null ]
 ];

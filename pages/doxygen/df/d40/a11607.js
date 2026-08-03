@@ -1,7 +1,6 @@
 var a11607 =
 [
-    [ "OpcodeHandler", "d7/de8/a05037.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "d7/de8/a05037.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "d7/de8/a05037.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "d7/de8/a05037.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "QuestUpdateFailedTimer", "df/d40/a11607.html#ae31656f1e3b3d145809113a8b7ce4400", null ],
+    [ "Write", "df/d40/a11607.html#a35a0b6609205c7eaa1ea6c3e4e1486ac", null ],
+    [ "QuestId", "df/d40/a11607.html#afce18ee4eea44b6c223ff2efc782d31d", null ]
 ];

@@ -1,9 +1,16 @@
 var a29575 =
 [
-    [ "CountQuestOnCreature", "d6/d99/a29575.html#a4bf05b65d940e61567667d0939e177e5", null ],
-    [ "SetUp", "d6/d99/a29575.html#a4788953a58bbea222cf59662b4427e72", null ],
-    [ "SimulateReload", "d6/d99/a29575.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
-    [ "SimulateSpawn1Object", "d6/d99/a29575.html#a82c53349ba3754a75b2c1570fe413d09", null ],
-    [ "TearDown", "d6/d99/a29575.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
-    [ "creatureQuestMap", "d6/d99/a29575.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
+    [ "AuraApplicationStub", "d6/d99/a29575.html#afaa194023ae92143078166c9a142a41d", null ],
+    [ "~AuraApplicationStub", "d6/d99/a29575.html#ada36445f6f090c6652e0567a5333bb53", null ],
+    [ "GetEffectMask", "d6/d99/a29575.html#ad74cccf28b56c1fe88988df229319dae", null ],
+    [ "GetSlot", "d6/d99/a29575.html#a30f0ddd6c6bbc974958a33ecee39135e", null ],
+    [ "HasEffect", "d6/d99/a29575.html#ad4040b722b12e54aa630abfa78cdaabd", null ],
+    [ "IsPositive", "d6/d99/a29575.html#a1bf6810ab9723ce50ddf46789d2a5045", null ],
+    [ "SetEffect", "d6/d99/a29575.html#a97383d45b0a015579a0f315474ecfcc5", null ],
+    [ "SetEffectMask", "d6/d99/a29575.html#a1fab3395f580b30fa7b2257cbcacd26a", null ],
+    [ "SetPositive", "d6/d99/a29575.html#a653fb81ddfa4c7ad855d9f1fefe172f4", null ],
+    [ "SetSlot", "d6/d99/a29575.html#a824a2ec07e911fdb02054eff2091f2ea", null ],
+    [ "_effectMask", "d6/d99/a29575.html#a9027c5f622263c32b6f7bc4a11883ddc", null ],
+    [ "_isPositive", "d6/d99/a29575.html#afc3220aa9f0403a987ad07cec1c42ced", null ],
+    [ "_slot", "d6/d99/a29575.html#aa4afd58cae5bcfd203d61a1044d72d57", null ]
 ];

@@ -1,8 +1,7 @@
 var a18763 =
 [
-    [ "npc_lk_spirit_bombAI", "df/d64/a18763.html#a366fb54e68c0e603000183cd68daf6b7", null ],
-    [ "IsSummonedBy", "df/d64/a18763.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
-    [ "MovementInform", "df/d64/a18763.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
-    [ "UpdateAI", "df/d64/a18763.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
-    [ "timer", "df/d64/a18763.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
+    [ "PrepareSpellScript", "df/d64/a18763.html#a3283e829757b50bb52f66ee1e64033ae", null ],
+    [ "Register", "df/d64/a18763.html#a0162c92c32210f2873686610f4f00b87", null ],
+    [ "TriggerHeal", "df/d64/a18763.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
+    [ "Validate", "df/d64/a18763.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
 ];

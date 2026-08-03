@@ -1,5 +1,5 @@
 var a01199 =
 [
-    [ "ThreatManager::Heap", "d4/dfb/a08242.html", null ],
-    [ "ThreatReferenceImpl", "d3/d99/a08246.html", "d3/d99/a08246" ]
+    [ "ThreatManager::Heap", "dc/db7/a08247.html", null ],
+    [ "ThreatReferenceImpl", "de/dad/a08251.html", "de/dad/a08251" ]
 ];

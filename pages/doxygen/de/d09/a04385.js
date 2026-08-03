@@ -1,10 +1,10 @@
 var a04385 =
 [
-    [ "DialogueEntry", "de/d60/a16234.html", "de/d60/a16234" ],
-    [ "DialogueHelper", "d4/d67/a16238.html", "d4/d67/a16238" ],
-    [ "npc_ranshalla", "df/d86/a16242.html", "df/d86/a16242" ],
-    [ "npc_ranshalla::npc_ranshallaAI", "da/d85/a16246.html", "da/d85/a16246" ],
-    [ "go_elune_fire", "dc/dbe/a16250.html", "dc/dbe/a16250" ],
+    [ "DialogueEntry", "d2/d7e/a16231.html", "d2/d7e/a16231" ],
+    [ "DialogueHelper", "db/d09/a16235.html", "db/d09/a16235" ],
+    [ "npc_ranshalla", "da/d23/a16239.html", "da/d23/a16239" ],
+    [ "npc_ranshalla::npc_ranshallaAI", "d0/d89/a16243.html", "d0/d89/a16243" ],
+    [ "go_elune_fire", "d2/d95/a16247.html", "d2/d95/a16247" ],
     [ "Dummies", "de/d09/a04385.html#a2bbe982dfe66b7d2feb6449e4b33ac2e", [
       [ "NPC_PRIESTESS_DATA_1", "de/d09/a04385.html#a2bbe982dfe66b7d2feb6449e4b33ac2ea0594ed0eed6a55af01b29286273cadef", null ],
       [ "NPC_PRIESTESS_DATA_2", "de/d09/a04385.html#a2bbe982dfe66b7d2feb6449e4b33ac2ea4236792aa6debd5b26af8a27358513fc", null ],
@@ -2295,6 +2295,7 @@ var a04385 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

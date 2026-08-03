@@ -1,11 +1,8 @@
 var a05339 =
 [
-    [ "~GameObjectModelOwnerBase", "dc/d54/a05339.html#a307c744710782fcb0d5c287b23c74d69", null ],
-    [ "DebugVisualizeCorner", "dc/d54/a05339.html#acf130fbdfb086a9c6d35d145116357c8", null ],
-    [ "GetDisplayId", "dc/d54/a05339.html#ae3eddc6c841c3644f50cb3300f80cee2", null ],
-    [ "GetOrientation", "dc/d54/a05339.html#a35c11d2346c5156b95558729d84b3fe8", null ],
-    [ "GetPhaseMask", "dc/d54/a05339.html#a6b55de1c8de5a50245d7e5a833766d0f", null ],
-    [ "GetPosition", "dc/d54/a05339.html#a82e89b7fac5f46a25519674930294ed8", null ],
-    [ "GetScale", "dc/d54/a05339.html#abf8e9a74f58ec34bc6f1f8d853100f69", null ],
-    [ "IsSpawned", "dc/d54/a05339.html#ad824da6970d512c344160714cd7ec434", null ]
+    [ "LocationInfoCallback", "dc/d54/a05339.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
+    [ "operator()", "dc/d54/a05339.html#abd524e5a87daa798258d7851c526cd88", null ],
+    [ "locInfo", "dc/d54/a05339.html#a9a8b8529a571b3652cd898b2888d8027", null ],
+    [ "prims", "dc/d54/a05339.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
+    [ "result", "dc/d54/a05339.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
 ];

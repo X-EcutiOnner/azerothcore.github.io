@@ -1,11 +1,18 @@
 var a20391 =
 [
-    [ "npc_ulduar_iron_construct", "d5/d37/a20391.html#ab44bf86ea4a50f365e37ba888d0b2f6d", null ],
-    [ "JustDied", "d5/d37/a20391.html#ae102f4c7b9bc4246e0720287739e419a", null ],
-    [ "JustReachedHome", "d5/d37/a20391.html#a77609f7939725001d7a31c4d92f00358", null ],
-    [ "MoveInLineOfSight", "d5/d37/a20391.html#a6f8bfc52f6f8b6fbd4b8fb01bc827b8a", null ],
-    [ "Reset", "d5/d37/a20391.html#a2fcec0917d5266b286cbb0995ef6ee34", null ],
-    [ "SpellHit", "d5/d37/a20391.html#a0c786f44d9f255464fadb1c53b6fc004", null ],
-    [ "UpdateAI", "d5/d37/a20391.html#afc56384db98a225a223c9214414508ea", null ],
-    [ "timer", "d5/d37/a20391.html#a397277972454f710d7236ba36a67c977", null ]
+    [ "boss_vezax", "d5/d37/a20391.html#a8e9210793b5b00d81bf5f1a3eb214f29", null ],
+    [ "DoAction", "d5/d37/a20391.html#ac7c14cfbae5d031615e7f62ded2045c1", null ],
+    [ "GetData", "d5/d37/a20391.html#addfa8398f2a1c21b7ed44547fa6e2899", null ],
+    [ "JustDied", "d5/d37/a20391.html#a1ce855485a7edaace620956cb620ed39", null ],
+    [ "JustEngagedWith", "d5/d37/a20391.html#ac22557ea0f60a04d51f016cc09d99417", null ],
+    [ "JustReachedHome", "d5/d37/a20391.html#ad57dabcfafbd2a10b1dbb39751600bb9", null ],
+    [ "KilledUnit", "d5/d37/a20391.html#ab339f12be1e9da262f6243cfe22908c2", null ],
+    [ "MoveInLineOfSight", "d5/d37/a20391.html#a79c3312d27ef44cf3aa2fb4b94e0ee0a", null ],
+    [ "Reset", "d5/d37/a20391.html#a44ceea000e547d0e56994e9075a09a52", null ],
+    [ "SpellHitTarget", "d5/d37/a20391.html#ab9288041d27b2cf2bf352085ba13ace1", null ],
+    [ "UpdateAI", "d5/d37/a20391.html#a88331ae2f7cc9625aaf36836abf244f0", null ],
+    [ "bAchievShadowdodger", "d5/d37/a20391.html#a7462985f6bd9daeec15d639fc076bbf9", null ],
+    [ "berserk", "d5/d37/a20391.html#adc5e49598b2a9c463a91da0d50dbe3dc", null ],
+    [ "hardmodeAvailable", "d5/d37/a20391.html#ae43a0164f3ac1876b6e6cd5f6f241ffb", null ],
+    [ "vaporsCount", "d5/d37/a20391.html#a6f7205d1c455cc3344025e28d4eb8ed6", null ]
 ];

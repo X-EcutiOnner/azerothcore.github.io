@@ -1,8 +1,5 @@
 var a06435 =
 [
-    [ "GuardAI", "da/d5b/a06435.html#ac1f0ba47d8e32c65845808170330b7af", null ],
-    [ "EnterEvadeMode", "da/d5b/a06435.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
-    [ "JustDied", "da/d5b/a06435.html#a96820cdcb632d3a71f9deacf4998a774", null ],
-    [ "Permissible", "da/d5b/a06435.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
-    [ "Reset", "da/d5b/a06435.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
+    [ "changed", "da/d5b/a06435.html#a98ad429a8aa7a190e94f943a2ec5edf2", null ],
+    [ "date", "da/d5b/a06435.html#a3c6c1cca7f125fc98323669e4e9c775d", null ]
 ];

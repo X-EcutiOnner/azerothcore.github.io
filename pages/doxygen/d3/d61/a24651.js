@@ -1,7 +1,6 @@
 var a24651 =
 [
-    [ "HandleProc", "d3/d61/a24651.html#a75ddeb7696c7c2fdb8a6e9a96e2a9c48", null ],
-    [ "PrepareAuraScript", "d3/d61/a24651.html#a3e05e2ac9230a7db5bd6af31e5db88db", null ],
-    [ "Register", "d3/d61/a24651.html#a7b066f171e0f1b1642bded97c55e73f2", null ],
-    [ "Validate", "d3/d61/a24651.html#a37a1e84853948e87347b497f3d9aa675", null ]
+    [ "RaiseDeadCheck", "d3/d61/a24651.html#abc6439e5b457f2f6e832f504167a392d", null ],
+    [ "operator()", "d3/d61/a24651.html#a9647e6afd21e7397f05349e66bea4326", null ],
+    [ "_caster", "d3/d61/a24651.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
 ];

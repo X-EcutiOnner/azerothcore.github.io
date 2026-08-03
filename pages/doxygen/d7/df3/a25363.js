@@ -1,6 +1,7 @@
 var a25363 =
 [
-    [ "CheckCast", "d7/df3/a25363.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
-    [ "PrepareSpellScript", "d7/df3/a25363.html#a0bc2de519e0c84688fad609444d28afa", null ],
-    [ "Register", "d7/df3/a25363.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
+    [ "HandleEffectApply", "d7/df3/a25363.html#abf780eeca61aef7e44617aa0ed2ff8b8", null ],
+    [ "OnRemove", "d7/df3/a25363.html#af2cfa66cd7dbc7c671efa06c497cc03e", null ],
+    [ "PrepareAuraScript", "d7/df3/a25363.html#ab6c5d1fd94c763126ef77f9efd4a7116", null ],
+    [ "Register", "d7/df3/a25363.html#a473189971d0a03e7305b7b9e41dc5207", null ]
 ];

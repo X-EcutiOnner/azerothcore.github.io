@@ -1,7 +1,7 @@
 var a25583 =
 [
-    [ "HandleDummy", "d8/ddf/a25583.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
-    [ "HandleScriptEffect", "d8/ddf/a25583.html#a30d760a8708b49a185eb000249a9a5eb", null ],
-    [ "PrepareSpellScript", "d8/ddf/a25583.html#a102d8493d285757c789cbba4a1bdc688", null ],
-    [ "Register", "d8/ddf/a25583.html#ab4031ddb745995128854c149f7706045", null ]
+    [ "HandleProc", "d8/ddf/a25583.html#a5a658d1feb1e1ae1d4866bab40ca03e6", null ],
+    [ "PrepareAuraScript", "d8/ddf/a25583.html#ab424a5c9da846e0b7ac93620163140fb", null ],
+    [ "Register", "d8/ddf/a25583.html#a2258b59fc50468dd5c8fa97e1fcb2dd9", null ],
+    [ "Validate", "d8/ddf/a25583.html#a8466306b9a95f8a57e1998c57ba10ca2", null ]
 ];

@@ -1,7 +1,6 @@
 var a20859 =
 [
-    [ "HandleScriptEffect", "d2/d66/a20859.html#a173ee086127655cdfcca507fd5b15b2e", null ],
-    [ "PrepareSpellScript", "d2/d66/a20859.html#a005d47b18a820c35ec596b5539db94eb", null ],
-    [ "Register", "d2/d66/a20859.html#a20a0d554e80707c1517422cb747f38e8", null ],
-    [ "Validate", "d2/d66/a20859.html#a5ca44686e26def56adc2b98d88145235", null ]
+    [ "OnPeriodic", "d2/d66/a20859.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "d2/d66/a20859.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "d2/d66/a20859.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

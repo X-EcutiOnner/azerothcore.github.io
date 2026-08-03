@@ -1,7 +1,5 @@
 var a27099 =
 [
-    [ "HandleEffect", "df/d93/a27099.html#ab33c9312c9ac4096140a82f381d83235", null ],
-    [ "PrepareSpellScript", "df/d93/a27099.html#a6117d7b2720f719d801b5f6e0e719f5f", null ],
-    [ "Register", "df/d93/a27099.html#a1f5983124756eca5666ca6adbe5a4544", null ],
-    [ "Validate", "df/d93/a27099.html#a08f7e508b50fc44ced0b7ff04e22b333", null ]
+    [ "spell_q55_sacred_cleansing", "df/d93/a27099.html#a4aa8a16350a7a55706841471fd985ca2", null ],
+    [ "GetSpellScript", "df/d93/a27099.html#a50a8f2d777169aaeef88533b66b88fb2", null ]
 ];

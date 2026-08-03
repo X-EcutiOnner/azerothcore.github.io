@@ -1,6 +1,8 @@
 var a11975 =
 [
-    [ "DestinationTargetSelectHandler", "db/dd1/a11975.html#ab5ffcc89b7232afddd6bc47e7c347b79", null ],
-    [ "Call", "db/dd1/a11975.html#a81ae2eb856507ee22308ae2739854382", null ],
-    [ "DestinationTargetSelectHandlerScript", "db/dd1/a11975.html#a95e882b892a79b464a521a8367b2e9b7", null ]
+    [ "target_mapId", "db/dd1/a11975.html#a6dbbb558810388e0d051d84a0279a444", null ],
+    [ "target_Orientation", "db/dd1/a11975.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
+    [ "target_X", "db/dd1/a11975.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
+    [ "target_Y", "db/dd1/a11975.html#a6f432d8770adebf513346713b7890b5c", null ],
+    [ "target_Z", "db/dd1/a11975.html#a3af706b81f8fbef12277c518964f717a", null ]
 ];

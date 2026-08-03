@@ -1,5 +1,7 @@
 var a27799 =
 [
-    [ "AreaTrigger_at_scent_larkorwi", "d6/d2e/a27799.html#a967a43eae4cc986754eed9ee8291c17e", null ],
-    [ "OnTrigger", "d6/d2e/a27799.html#aeeb339afa5a7dd4b028aea800026998e", null ]
+    [ "HandleProc", "d6/d2e/a27799.html#a79bcdad48c19c0db70960552f6b4e2d3", null ],
+    [ "PrepareAuraScript", "d6/d2e/a27799.html#a760f228c118e9a89a3adc2767290f6f5", null ],
+    [ "Register", "d6/d2e/a27799.html#ace2673bc17210f349e47586c0e626dc5", null ],
+    [ "Validate", "d6/d2e/a27799.html#acdc499d8cae2de0edcfd2c19319e0175", null ]
 ];

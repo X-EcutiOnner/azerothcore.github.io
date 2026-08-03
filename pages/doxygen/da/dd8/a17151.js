@@ -1,6 +1,6 @@
 var a17151 =
 [
-    [ "HandleScriptEffect", "da/dd8/a17151.html#a90b13b2a093fdd430a383d7ea4126290", null ],
-    [ "PrepareSpellScript", "da/dd8/a17151.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
-    [ "Register", "da/dd8/a17151.html#a53c8d47ee21637055ad901946be1e2c2", null ]
+    [ "npc_announcer_toc10", "da/dd8/a17151.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
+    [ "OnGossipHello", "da/dd8/a17151.html#afcc5262e7c49b7456af146de14805a06", null ],
+    [ "OnGossipSelect", "da/dd8/a17151.html#a9a2bf1d3a215332744ca473041cc0520", null ]
 ];

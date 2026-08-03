@@ -1,9 +1,7 @@
 var a28255 =
 [
-    [ "npc_chicken_cluckAI", "d8/d71/a28255.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "d8/d71/a28255.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "d8/d71/a28255.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "d8/d71/a28255.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "d8/d71/a28255.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "d8/d71/a28255.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "go_darkmoon_faire_musicAI", "d8/d71/a28255.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
+    [ "UpdateAI", "d8/d71/a28255.html#af3d802bd852fc0483f72781edb13b5d5", null ],
+    [ "_events", "d8/d71/a28255.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
+    [ "rnd", "d8/d71/a28255.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
 ];

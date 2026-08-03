@@ -1,12 +1,10 @@
 var a12175 =
 [
-    [ "Action", "d4/d0e/a12175.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
-    [ "Address", "d4/d0e/a12175.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
-    [ "CheckId", "d4/d0e/a12175.html#a51a0cea0381f2b64e9d240ac39591172", null ],
-    [ "Comment", "d4/d0e/a12175.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
-    [ "Data", "d4/d0e/a12175.html#a962795028d40645fe67e4290ea64b10b", null ],
-    [ "IdStr", "d4/d0e/a12175.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
-    [ "Length", "d4/d0e/a12175.html#abe0249d9550042e696eb74edf06aaec8", null ],
-    [ "Str", "d4/d0e/a12175.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
-    [ "Type", "d4/d0e/a12175.html#aca31cdb700dca4801dfa514812639c70", null ]
+    [ "AcoreStringChatBuilder", "d4/d0e/a12175.html#a7e280083c80fd119d365649fd4578fc9", null ],
+    [ "operator()", "d4/d0e/a12175.html#a09a2a03dca2b8470cd1d1f7c8273868b", null ],
+    [ "_args", "d4/d0e/a12175.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc", null ],
+    [ "_msgType", "d4/d0e/a12175.html#adbabf871f33692b0ecddc8cc0fb75586", null ],
+    [ "_source", "d4/d0e/a12175.html#ac5222737ea1b95b6d75afc532838f8be", null ],
+    [ "_target", "d4/d0e/a12175.html#ab659b7c7bd6426a023cf8668322327b8", null ],
+    [ "_textId", "d4/d0e/a12175.html#a3d29de9c5d80c3df488aa01fa380a84a", null ]
 ];

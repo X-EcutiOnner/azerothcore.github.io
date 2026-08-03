@@ -1,11 +1,10 @@
 var a08995 =
 [
-    [ "FriendInfo", "da/d31/a08995.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
-    [ "FriendInfo", "da/d31/a08995.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
-    [ "Area", "da/d31/a08995.html#adf16884b55545ed9302dbb54d653867b", null ],
-    [ "Class", "da/d31/a08995.html#a8b797fcfda05d52d4297f32e458be519", null ],
-    [ "Flags", "da/d31/a08995.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
-    [ "Level", "da/d31/a08995.html#a70d9a74f4587f648db5bf49b61091213", null ],
-    [ "Note", "da/d31/a08995.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
-    [ "Status", "da/d31/a08995.html#a380f11d65b34e1e598b7861987cecfe6", null ]
+    [ "EquipmentSet", "da/d31/a08995.html#acd3085c12c795daceae86e94448109e2", null ],
+    [ "Guid", "da/d31/a08995.html#aae529ea61a2ad4f114b6a108564f5474", null ],
+    [ "IconName", "da/d31/a08995.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
+    [ "IgnoreMask", "da/d31/a08995.html#af116e824d23f000f424f3b261618e827", null ],
+    [ "Items", "da/d31/a08995.html#a113e6e5883afe38d446a6d435cd34a01", null ],
+    [ "Name", "da/d31/a08995.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
+    [ "state", "da/d31/a08995.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
 ];

@@ -1,8 +1,8 @@
 var a22251 =
 [
-    [ "HandleApply", "da/d6e/a22251.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "da/d6e/a22251.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "da/d6e/a22251.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "da/d6e/a22251.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "da/d6e/a22251.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "CheckCast", "da/d6e/a22251.html#ab1584c391ac81b8338387acc6187001f", null ],
+    [ "HandleDummy", "da/d6e/a22251.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
+    [ "PrepareSpellScript", "da/d6e/a22251.html#a08d9ffb7dcbe786071979166e0489336", null ],
+    [ "Register", "da/d6e/a22251.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
+    [ "Validate", "da/d6e/a22251.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
 ];

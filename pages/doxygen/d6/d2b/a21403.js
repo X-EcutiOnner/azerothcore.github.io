@@ -1,14 +1,7 @@
 var a21403 =
 [
-    [ "npc_hidden_cultistAI", "d6/d2b/a21403.html#a970aaa2401664337147696624cc8cac4", null ],
-    [ "AttackPlayer", "d6/d2b/a21403.html#a55e3b02d05f35d134fc605a13efe9018", null ],
-    [ "Initialize", "d6/d2b/a21403.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
-    [ "PreScript", "d6/d2b/a21403.html#a92be5361e2b28152adcca0629b286bb8", null ],
-    [ "Reset", "d6/d2b/a21403.html#afe38e448d86cdf910870d72a3890ae1f", null ],
-    [ "sGossipSelect", "d6/d2b/a21403.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
-    [ "UpdateAI", "d6/d2b/a21403.html#a0bba4d10439d47d44ff856c7fec18595", null ],
-    [ "_emoteState", "d6/d2b/a21403.html#adb4e884787dc480358c5be22d276ec49", null ],
-    [ "_events", "d6/d2b/a21403.html#ab0494e33d16a43aa1426784d1882e41c", null ],
-    [ "_npcFlags", "d6/d2b/a21403.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
-    [ "_playerGUID", "d6/d2b/a21403.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
+    [ "HandleDummy", "d6/d2b/a21403.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "d6/d2b/a21403.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "d6/d2b/a21403.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "d6/d2b/a21403.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

@@ -1,9 +1,9 @@
 var a04079 =
 [
-    [ "boss_nightbane", "dc/dc4/a13222.html", "dc/dc4/a13222" ],
-    [ "go_blackened_urn", "d1/d15/a13226.html", "d1/d15/a13226" ],
-    [ "npc_nightbane_helper_target", "d6/d6b/a13230.html", "d6/d6b/a13230" ],
-    [ "spell_nightbane_fireball_barrage", "d5/d8c/a13234.html", "d5/d8c/a13234" ],
+    [ "boss_nightbane", "dc/dc3/a13227.html", "dc/dc3/a13227" ],
+    [ "go_blackened_urn", "d6/d3d/a13231.html", "d6/d3d/a13231" ],
+    [ "npc_nightbane_helper_target", "d6/de6/a13235.html", "d6/de6/a13235" ],
+    [ "spell_nightbane_fireball_barrage", "d3/dbf/a13239.html", "d3/dbf/a13239" ],
     [ "Actions", "da/d33/a04079.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d9/dfd/a01610.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d9/dfd/a01610.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -2307,6 +2307,7 @@ var a04079 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

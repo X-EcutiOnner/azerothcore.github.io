@@ -1,7 +1,11 @@
 var a22747 =
 [
-    [ "HandleEffectApply", "da/d46/a22747.html#a5857dbdb088de67cc15717dca0c5f7b5", null ],
-    [ "HandleEffectRemove", "da/d46/a22747.html#aab0536f7f73d9e354a526f56f587fff0", null ],
-    [ "PrepareAuraScript", "da/d46/a22747.html#a80a6b51bc6c1457edc0fb8a0089513d1", null ],
-    [ "Register", "da/d46/a22747.html#a194ff31e6168bca23881f3804154d479", null ]
+    [ "boss_gurtogg_bloodboil", "da/d46/a22747.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
+    [ "CanAIAttack", "da/d46/a22747.html#a60e6439bab689eb88a18612b6b46c713", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "da/d46/a22747.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
+    [ "JustDied", "da/d46/a22747.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
+    [ "JustEngagedWith", "da/d46/a22747.html#a0847173efbae252c2fbbaf1be17097cb", null ],
+    [ "JustSummoned", "da/d46/a22747.html#ae718666a1da0e93cb0965c42c40b51df", null ],
+    [ "KilledUnit", "da/d46/a22747.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
+    [ "Reset", "da/d46/a22747.html#add25677d422b8bddcb753465451f0584", null ]
 ];

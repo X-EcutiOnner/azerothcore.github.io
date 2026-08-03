@@ -1,7 +1,9 @@
 var a19303 =
 [
-    [ "HandleScript", "d7/d23/a19303.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
-    [ "Launch", "d7/d23/a19303.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
-    [ "PrepareSpellScript", "d7/d23/a19303.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
-    [ "Register", "d7/d23/a19303.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
+    [ "npc_icc_severed_essenceAI", "d7/d23/a19303.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
+    [ "CanAIAttack", "d7/d23/a19303.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
+    [ "DoAction", "d7/d23/a19303.html#a938af3a7de5b26432e1ad515a326a032", null ],
+    [ "UpdateAI", "d7/d23/a19303.html#a66e3324baa87ba109dd968a517ee82a5", null ],
+    [ "Class", "d7/d23/a19303.html#aa627713be3a2ac01336d158d96aaccc7", null ],
+    [ "events", "d7/d23/a19303.html#a1bab216925c4123d633d9613bb80365c", null ]
 ];

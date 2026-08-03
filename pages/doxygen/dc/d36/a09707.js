@@ -1,8 +1,9 @@
 var a09707 =
 [
-    [ "NearestAttackableNoTotemUnitInObjectRangeCheck", "dc/d36/a09707.html#a1f0bf90a7b9c57d05c54e3db6827aec1", null ],
-    [ "operator()", "dc/d36/a09707.html#a08f8e473914c8a7bddbf26568294c18b", null ],
-    [ "i_obj", "dc/d36/a09707.html#a949ff3bcc3530206d83512d293647a2b", null ],
-    [ "i_owner", "dc/d36/a09707.html#a64f58427bbab3276bdc53450b33eca12", null ],
-    [ "i_range", "dc/d36/a09707.html#af52388830cec17e32b1d368739b4555a", null ]
+    [ "PlayerDistWorker", "dc/d36/a09707.html#a53c207607485724ba7c3aa5e9fd02b51", null ],
+    [ "Visit", "dc/d36/a09707.html#a6cb5d9bdf26bc96a24e5660ca3b3758b", null ],
+    [ "Visit", "dc/d36/a09707.html#a2658f12f90953f1057a9377b21824879", null ],
+    [ "i_dist", "dc/d36/a09707.html#aad16511b6a9aaa3eb561f636475ffe97", null ],
+    [ "i_do", "dc/d36/a09707.html#a0e1738a71d7feda9f607ee964ff1fff2", null ],
+    [ "i_searcher", "dc/d36/a09707.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f", null ]
 ];

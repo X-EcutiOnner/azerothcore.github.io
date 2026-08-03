@@ -1,25 +1,9 @@
 var a09919 =
 [
-    [ "RankInfo", "d6/d1b/a09919.html#a4b97f6372e87ab4061748cc58bd00096", null ],
-    [ "RankInfo", "d6/d1b/a09919.html#a02c7283862334b5133f5971cee5da927", null ],
-    [ "RankInfo", "d6/d1b/a09919.html#aaacf8ce1bfa6429cb5980d74f076cbd3", null ],
-    [ "CreateMissingTabsIfNeeded", "d6/d1b/a09919.html#a17e8ee39681804bac73a2c699b470c37", null ],
-    [ "GetBankMoneyPerDay", "d6/d1b/a09919.html#adb568b8ad70d0b42d834af5e2bf528d2", null ],
-    [ "GetBankTabRights", "d6/d1b/a09919.html#a5be65cec8e2e82c027ef4062ea63c1f1", null ],
-    [ "GetBankTabSlotsPerDay", "d6/d1b/a09919.html#a7cc652b0170a7f786a5a0263b4251d2d", null ],
-    [ "GetId", "d6/d1b/a09919.html#a1a99822f0c886d59ac57b6eb73ff2b42", null ],
-    [ "GetName", "d6/d1b/a09919.html#a3cfcabc23d610dd6130333edcd482485", null ],
-    [ "GetRights", "d6/d1b/a09919.html#a59565228481689cdc073e7120a6de9f3", null ],
-    [ "LoadFromDB", "d6/d1b/a09919.html#ae9f8001f2546582256b7d916d4f2b1d6", null ],
-    [ "SaveToDB", "d6/d1b/a09919.html#a9fb87796b8e18ed9dd2fee53844c243f", null ],
-    [ "SetBankMoneyPerDay", "d6/d1b/a09919.html#a1c553e020fe7d79564ddfc3aa74bbfae", null ],
-    [ "SetBankTabSlotsAndRights", "d6/d1b/a09919.html#a9f1c622c8af7a8f7f9af027eb01b9dc6", null ],
-    [ "SetName", "d6/d1b/a09919.html#a30e276b031dc1e279cfbf38aa1c9b851", null ],
-    [ "SetRights", "d6/d1b/a09919.html#a8b46f3a8f91cd3a187e00d37a6ddd419", null ],
-    [ "m_bankMoneyPerDay", "d6/d1b/a09919.html#a715985e1b8e8e2aa2d0b48877ae37e8f", null ],
-    [ "m_bankTabRightsAndSlots", "d6/d1b/a09919.html#aeb209d1e53f55b5b48bcd00979014eb8", null ],
-    [ "m_guildId", "d6/d1b/a09919.html#a86f162bdf86255f89666e20f44d114a0", null ],
-    [ "m_name", "d6/d1b/a09919.html#a96281f4a307ca7657a3ba9f04c9331c3", null ],
-    [ "m_rankId", "d6/d1b/a09919.html#ad7ff7ee31212be87b5cb580edef3cc16", null ],
-    [ "m_rights", "d6/d1b/a09919.html#a058febd98eb3d116acbe1bc0d04a983c", null ]
+    [ "WorldPacketList", "d6/d1b/a09919.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
+    [ "LocalizedPacketListDo", "d6/d1b/a09919.html#ab52133e238752f725f18580018a84cd2", null ],
+    [ "~LocalizedPacketListDo", "d6/d1b/a09919.html#a8442452027bcb5c98d60830e016803b5", null ],
+    [ "operator()", "d6/d1b/a09919.html#adea9610e36d436563ba1f472481aed85", null ],
+    [ "i_builder", "d6/d1b/a09919.html#a83bda52b10d30f7fd633c285b79e740b", null ],
+    [ "i_data_cache", "d6/d1b/a09919.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
 ];

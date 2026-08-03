@@ -1,11 +1,18 @@
 var a09059 =
 [
-    [ "DispelInfo", "db/db0/a09059.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
-    [ "GetDispeller", "db/db0/a09059.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
-    [ "GetDispellerSpellId", "db/db0/a09059.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
-    [ "GetRemovedCharges", "db/db0/a09059.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
-    [ "SetRemovedCharges", "db/db0/a09059.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
-    [ "_chargesRemoved", "db/db0/a09059.html#a5b6105f37470acb57bbda3e14ee664be", null ],
-    [ "_dispellerSpell", "db/db0/a09059.html#a484e6d516c5de30413e97f2c4abb5515", null ],
-    [ "_dispellerUnit", "db/db0/a09059.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
+    [ "PlayerSocialMap", "db/db0/a09059.html#abfb2167fc86ea41b8cf66eebdaa95ceb", null ],
+    [ "PlayerSocial", "db/db0/a09059.html#ad505f01fad548b70cf070a86dce40278", null ],
+    [ "_checkContact", "db/db0/a09059.html#a1c94f00cd1955a8c93dea5d4e67f166a", null ],
+    [ "AddToSocialList", "db/db0/a09059.html#af7bf3dd0cddc41715d5122829aa5f281", null ],
+    [ "GetNumberOfSocialsWithFlag", "db/db0/a09059.html#ad4b6d7563aa448307c71fd01d0b748c3", null ],
+    [ "GetPlayerGUID", "db/db0/a09059.html#a253736ece6f1b1ec6617929ca92d2e77", null ],
+    [ "HasFriend", "db/db0/a09059.html#a8c5e3e13b6e912de5048c6a1d6e4003a", null ],
+    [ "HasIgnore", "db/db0/a09059.html#afdda7de77a9c5b48730b9b7fca36b080", null ],
+    [ "RemoveFromSocialList", "db/db0/a09059.html#a422b92edba3d2b3a7eaa5749dbceea4f", null ],
+    [ "SendSocialList", "db/db0/a09059.html#aa31ca078f363c5d5f6cfabcc4126fa9b", null ],
+    [ "SetFriendNote", "db/db0/a09059.html#ace28c99a43b6c9645550d0c30f8184df", null ],
+    [ "SetPlayerGUID", "db/db0/a09059.html#a1206fafb9f3ea29ee954e4f7684e0051", null ],
+    [ "SocialMgr", "db/db0/a09059.html#ac90a13e772eca1f96d98f76cfc8bf396", null ],
+    [ "m_playerGUID", "db/db0/a09059.html#accf6a40286cca75dd9d5eed8cc3c6790", null ],
+    [ "m_playerSocialMap", "db/db0/a09059.html#a608444605a276e67a868b7ceac94a954", null ]
 ];

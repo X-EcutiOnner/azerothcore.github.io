@@ -1,6 +1,6 @@
 var a10967 =
 [
-    [ "GuildCreate", "d5/de3/a10967.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
-    [ "Read", "d5/de3/a10967.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
-    [ "GuildName", "d5/de3/a10967.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
+    [ "ArenaTeam", "d5/de3/a10967.html#ab199427a8f1a5c4063aef2aeb390714f", null ],
+    [ "Read", "d5/de3/a10967.html#a9953d33b35eca1b91ed1618609c6acea", null ],
+    [ "ArenaTeamId", "d5/de3/a10967.html#aecda79f3715bd7ff5a6e872800ef256d", null ]
 ];

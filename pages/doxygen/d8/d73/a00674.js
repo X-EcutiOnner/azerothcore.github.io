@@ -1,6 +1,6 @@
 var a00674 =
 [
-    [ "Corpse", "da/da3/a08394.html", "da/da3/a08394" ],
+    [ "Corpse", "d4/d5f/a08399.html", "d4/d5f/a08399" ],
     [ "CORPSE_RECLAIM_RADIUS", "d8/d73/a00674.html#a1cebf109f41dcdac8a90086696642782", null ],
     [ "MAX_CORPSE_TYPE", "d8/d73/a00674.html#aec0512ffe7d6a8f7dd8330c334bb4fc3", null ],
     [ "CorpseFlags", "d8/d73/a00674.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537c", [

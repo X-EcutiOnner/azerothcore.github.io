@@ -1,6 +1,6 @@
 var a21699 =
 [
-    [ "npc_ravenous_worgAI", "db/dc6/a21703.html", "db/dc6/a21703" ],
-    [ "npc_ravenous_worg", "d6/da0/a21699.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
-    [ "GetAI", "d6/da0/a21699.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
+    [ "npc_archmage_landalockAI", "db/dc6/a21703.html", "db/dc6/a21703" ],
+    [ "npc_archmage_landalock", "d6/da0/a21699.html#ac7379ff07740123312af66ead64df4c6", null ],
+    [ "GetAI", "d6/da0/a21699.html#a92cfa8c2660413681297bfe12815c938", null ]
 ];

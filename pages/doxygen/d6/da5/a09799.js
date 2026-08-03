@@ -1,8 +1,8 @@
 var a09799 =
 [
-    [ "AllCreaturesOfEntryInRange", "d6/da5/a09799.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
-    [ "operator()", "d6/da5/a09799.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
-    [ "m_fRange", "d6/da5/a09799.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
-    [ "m_pObject", "d6/da5/a09799.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
-    [ "m_uiEntry", "d6/da5/a09799.html#abf653360d2ee482728fb137a37fe0512", null ]
+    [ "AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck", "d6/da5/a09799.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf", null ],
+    [ "operator()", "d6/da5/a09799.html#a2b38f9e66b1ba3bb678d763937852e02", null ],
+    [ "i_funit", "d6/da5/a09799.html#aed6fe2e6d17e2076a373b32de071cd18", null ],
+    [ "i_obj", "d6/da5/a09799.html#a65245ce627d5ccfde557f2d7e744ead6", null ],
+    [ "i_range", "d6/da5/a09799.html#aff91ead572f2ed0d1912dbd0180196d5", null ]
 ];

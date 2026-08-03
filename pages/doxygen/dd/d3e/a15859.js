@@ -1,28 +1,6 @@
 var a15859 =
 [
-    [ "npc_cork_gizeltonAI", "dd/d3e/a15859.html#a3f5f08b4ac364fddf14e8405cdc27b68", null ],
-    [ "CheckCaravan", "dd/d3e/a15859.html#aa0d89f971b6e210d8550e89839e28f44", null ],
-    [ "CheckPlayer", "dd/d3e/a15859.html#acd3edee41c80992ee97130eac6912c18", null ],
-    [ "EnterEvadeMode", "dd/d3e/a15859.html#ab639db8fe4637a2068d94bb5e99d88ea", null ],
-    [ "ImmuneFlagSet", "dd/d3e/a15859.html#aee85ef406a6bc0644ec2e35a4a7f22d5", null ],
-    [ "Initialize", "dd/d3e/a15859.html#a91131055a31dc828ccb2e3ba087d5062", null ],
-    [ "InitializeAI", "dd/d3e/a15859.html#a4c39fd26b4ab6bd861988c19ab3ead37", null ],
-    [ "JustDied", "dd/d3e/a15859.html#ab34fe1b0bac1a694c6e76d3cebf67172", null ],
-    [ "JustRespawned", "dd/d3e/a15859.html#a6b860a2b93654f92fb821b8907a3cc91", null ],
-    [ "RelocateSummons", "dd/d3e/a15859.html#a22d63ca89f2ebce396eb0a5a6cb69d13", null ],
-    [ "RemoveSummons", "dd/d3e/a15859.html#a53c900f7bfa720bfdfc22531ac916c5b", null ],
-    [ "SetData", "dd/d3e/a15859.html#a26576302fc0f6897d604030431651908", null ],
-    [ "SetGUID", "dd/d3e/a15859.html#a280f23ef905d43679562fc24466582f3", null ],
-    [ "SummonedCreatureDespawn", "dd/d3e/a15859.html#a4dabd8ae79a6b956264dea7ba2359e7d", null ],
-    [ "SummonedCreatureDies", "dd/d3e/a15859.html#a85cd2486bad6cda8867eba29538842e9", null ],
-    [ "SummonHelpers", "dd/d3e/a15859.html#a38986eddc806f76fdefa99de1cd46fb5", null ],
-    [ "SummonsFollow", "dd/d3e/a15859.html#a81a72db27d196b2fb6696b6466d26449", null ],
-    [ "UpdateEscortAI", "dd/d3e/a15859.html#a2c3704eaa58cc11e86a9e1eb60e3e543", null ],
-    [ "WaypointReached", "dd/d3e/a15859.html#ab9d7763f86dcbaa3bf6e2c12c5d872e7", null ],
-    [ "WaypointReached", "dd/d3e/a15859.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_faction", "dd/d3e/a15859.html#a4ff6b0e39f7cbf8ba5f4c79159a03e45", null ],
-    [ "_playerGUID", "dd/d3e/a15859.html#a94277075d53a9d9115894e3bf378d106", null ],
-    [ "events", "dd/d3e/a15859.html#a251f091e5b314341c8e5131bf38188f0", null ],
-    [ "headNorth", "dd/d3e/a15859.html#aace73f2e878ebaf30634431f9f1068ab", null ],
-    [ "summons", "dd/d3e/a15859.html#a9af9323b3bf6df4a85445d9859609c78", null ]
+    [ "npc_death_ravagerAI", "d9/d5b/a15863.html", "d9/d5b/a15863" ],
+    [ "npc_death_ravager", "dd/d3e/a15859.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "dd/d3e/a15859.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

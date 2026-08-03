@@ -1,7 +1,6 @@
 var a11867 =
 [
-    [ "attributeMask", "d3/d5c/a11867.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
-    [ "customChance", "d3/d5c/a11867.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
-    [ "PPMChance", "d3/d5c/a11867.html#adb76c11f0073a2738374c98c01fda009", null ],
-    [ "procEx", "d3/d5c/a11867.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
+    [ "ChannelTargetData", "d3/d5c/a11867.html#a551ade29c4e2e43ac938aeb3bf67e0ad", null ],
+    [ "channelGUID", "d3/d5c/a11867.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
+    [ "spellDst", "d3/d5c/a11867.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
 ];

@@ -1,10 +1,5 @@
 var a28719 =
 [
-    [ "ID", "d0/d42/a28719.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "d0/d42/a28719.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "d0/d42/a28719.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "d0/d42/a28719.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "d0/d42/a28719.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "d0/d42/a28719.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "d0/d42/a28719.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "ServerMailReward", "d0/d42/a28719.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnPlayerLogin", "d0/d42/a28719.html#ada945e805278d54746b6fabaf48b4546", null ]
 ];

@@ -1,7 +1,6 @@
 var a25155 =
 [
-    [ "HandleEffectPeriodic", "de/da2/a25155.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
-    [ "PrepareAuraScript", "de/da2/a25155.html#affc698127fe0656df25bd094c02a7e50", null ],
-    [ "Register", "de/da2/a25155.html#a4707bfaeb86b3540920a6772e1726e26", null ],
-    [ "Validate", "de/da2/a25155.html#aef839f163d7e623a54b163e1c27542cd", null ]
+    [ "CheckAreaTarget", "de/da2/a25155.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
+    [ "PrepareAuraScript", "de/da2/a25155.html#afbc45652033397067a439b45afd2e90e", null ],
+    [ "Register", "de/da2/a25155.html#aa24679e1243470056f74249e1b26767d", null ]
 ];

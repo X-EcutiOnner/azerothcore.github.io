@@ -1,4 +1,7 @@
 var a22391 =
 [
-    [ "instance_auchenai_crypts_InstanceMapScript", "d8/d46/a22391.html#af67e3aa61d9fe3ed3876b1bd2df9ff3c", null ]
+    [ "npc_wg_demolisher_engineer", "d8/d46/a22391.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d8/d46/a22391.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d8/d46/a22391.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d8/d46/a22391.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

@@ -1,12 +1,6 @@
 var a07751 =
 [
-    [ "CapturePointInfo", "dc/d54/a07751.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
-    [ "IsUncontrolled", "dc/d54/a07751.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
-    [ "IsUnderControl", "dc/d54/a07751.html#a3f33897525f5104e2e7733dd6247c090", null ],
-    [ "IsUnderControl", "dc/d54/a07751.html#af6b021020b120b87c300981b8bb60992", null ],
-    [ "_areaTrigger", "dc/d54/a07751.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
-    [ "_barStatus", "dc/d54/a07751.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
-    [ "_ownerTeamId", "dc/d54/a07751.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
-    [ "_playersCount", "dc/d54/a07751.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
-    [ "player", "dc/d54/a07751.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
+    [ "CanAnnounce", "dc/d54/a07751.html#a67afe4b43884ac1c58f054427b2ef7dd", null ],
+    [ "CanAnnounce", "dc/d54/a07751.html#ab791cf85fc2e08330d3f777e1797c01c", null ],
+    [ "instance", "dc/d54/a07751.html#ad76f570ce82ffcde5484e612c10c6f59", null ]
 ];

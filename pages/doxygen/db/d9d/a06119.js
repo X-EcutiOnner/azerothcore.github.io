@@ -1,14 +1,10 @@
 var a06119 =
 [
-    [ "difference_type", "db/d9d/a06119.html#aa5abd2b7fa1dc64ac1eb085521b27d6f", null ],
-    [ "iterator_category", "db/d9d/a06119.html#acaafbe30e2be9953852968b633d8237f", null ],
-    [ "pointer", "db/d9d/a06119.html#a33215a042f7b7ddb243e8434a4c26346", null ],
-    [ "reference", "db/d9d/a06119.html#a5618bd9b42f553be7feaf26fac8fe3ba", null ],
-    [ "value_type", "db/d9d/a06119.html#aa4866b181d8cd3264394657a2dac99a8", null ],
-    [ "ResultIterator", "db/d9d/a06119.html#a0a7d6ac1eee62492330353b15edb4fd0", null ],
-    [ "operator!=", "db/d9d/a06119.html#a56f56c284c3001703ec4ee6ac705066f", null ],
-    [ "operator*", "db/d9d/a06119.html#a4c7ba1d0e7251aeab6b255bf1c78defd", null ],
-    [ "operator++", "db/d9d/a06119.html#ae66f3f0e1fd5af21ff0854826fb37075", null ],
-    [ "operator->", "db/d9d/a06119.html#a0b6cee284fea4a4023cc688614432b69", null ],
-    [ "_ptr", "db/d9d/a06119.html#a0be3611fcc2a6eb680a6f4aaba57068e", null ]
+    [ "MySQLConnectionInfo", "db/d9d/a06119.html#ae60c54053d71eb9325df10701b1f42d3", null ],
+    [ "database", "db/d9d/a06119.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
+    [ "host", "db/d9d/a06119.html#a2659372561aae5feb8da121984354ef3", null ],
+    [ "password", "db/d9d/a06119.html#af5a51bd38ce1d58f65444d69b0283966", null ],
+    [ "port_or_socket", "db/d9d/a06119.html#a37b89660afb3ee085e817836e9d1d01f", null ],
+    [ "ssl", "db/d9d/a06119.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
+    [ "user", "db/d9d/a06119.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
 ];

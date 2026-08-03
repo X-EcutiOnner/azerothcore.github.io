@@ -1,6 +1,9 @@
 var a27331 =
 [
-    [ "HandleProc", "dc/d3a/a27331.html#a933975b17f340d9f458dc95b77aa43ac", null ],
-    [ "PrepareAuraScript", "dc/d3a/a27331.html#ad9df49f481d936068ebee0d2f6179e9f", null ],
-    [ "Register", "dc/d3a/a27331.html#a54dd9a2a6646282897cabec00f092525", null ]
+    [ "CheckCast", "dc/d3a/a27331.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
+    [ "FilterTargets", "dc/d3a/a27331.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
+    [ "HandleDummy", "dc/d3a/a27331.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
+    [ "PrepareSpellScript", "dc/d3a/a27331.html#a9c992e732b525e29f684947398d20efb", null ],
+    [ "Register", "dc/d3a/a27331.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
+    [ "Validate", "dc/d3a/a27331.html#abca1e5aa46e7753588c8120090775195", null ]
 ];

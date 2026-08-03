@@ -1,10 +1,19 @@
 var a08911 =
 [
-    [ "DuelInfo", "dc/daf/a08911.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
-    [ "Initiator", "dc/daf/a08911.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
-    [ "IsMounted", "dc/daf/a08911.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
-    [ "Opponent", "dc/daf/a08911.html#a2765770367c839ad28f804e2df3205cb", null ],
-    [ "OutOfBoundsTime", "dc/daf/a08911.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
-    [ "StartTime", "dc/daf/a08911.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
-    [ "State", "dc/daf/a08911.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
+    [ "CinematicMgr", "dc/daf/a08911.html#ac6d3a6361ec36a26dbea43e994d169f8", null ],
+    [ "~CinematicMgr", "dc/daf/a08911.html#a8c9788deb0f2dd3b49b935262b752d57", null ],
+    [ "EndCinematic", "dc/daf/a08911.html#a8a47c7cff4414c6aea3aa31fa483cc60", null ],
+    [ "GetActiveCinematicCamera", "dc/daf/a08911.html#a0535dee9b0ec7aa6176809c6dca16b30", null ],
+    [ "GetRemoteSightPosition", "dc/daf/a08911.html#a6665f77804ae876fe7bb9c43e2415ea3", null ],
+    [ "IsOnCinematic", "dc/daf/a08911.html#a904cb7a2db9b9e92e8539b736487ad0e", null ],
+    [ "SetActiveCinematicCamera", "dc/daf/a08911.html#afa5c37702ecdb71e09e552b92fa5ad71", null ],
+    [ "StartCinematic", "dc/daf/a08911.html#a8de8388c8f90dc84c1ce0342f17d45aa", null ],
+    [ "StartCinematicCamera", "dc/daf/a08911.html#a69857bfd9eafbb8580938619aba9a9b9", null ],
+    [ "UpdateCinematic", "dc/daf/a08911.html#a629943ec0d64f2eba830da551222598d", null ],
+    [ "_activeCinematicCameraId", "dc/daf/a08911.html#aa64550198cbacf5fdedd2d30d015d99d", null ],
+    [ "_cinematicCamera", "dc/daf/a08911.html#aceda58e6f506fbefc70292abb0687411", null ],
+    [ "_cinematicDiff", "dc/daf/a08911.html#a96d52cf985cbf4a2192e88de846d4a92", null ],
+    [ "_cinematicUpdateTimer", "dc/daf/a08911.html#aa7d5e62f0fd5542e9c99c0ac5b9ae898", null ],
+    [ "_player", "dc/daf/a08911.html#a1f471f895c8cda67733cf3df29441886", null ],
+    [ "_remoteSightPosition", "dc/daf/a08911.html#a3c747cf6679bb2533789581fcb09f246", null ]
 ];

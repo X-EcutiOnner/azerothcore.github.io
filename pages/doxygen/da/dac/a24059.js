@@ -1,7 +1,6 @@
 var a24059 =
 [
-    [ "HandleEffectRemove", "da/dac/a24059.html#a317c238b165ad331beb447ea5d0de7e1", null ],
-    [ "PrepareAuraScript", "da/dac/a24059.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
-    [ "Register", "da/dac/a24059.html#a13fdde1557249328306a57e159d821a7", null ],
-    [ "Validate", "da/dac/a24059.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
+    [ "npc_ancestral_wolfAI", "da/dc6/a24063.html", "da/dc6/a24063" ],
+    [ "npc_ancestral_wolf", "da/dac/a24059.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "da/dac/a24059.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

@@ -1,7 +1,6 @@
 var a17527 =
 [
-    [ "HandleDummy", "d5/de2/a17527.html#a367f4ebd296aa0fd54ff9ef6185a1c92", null ],
-    [ "PrepareSpellScript", "d5/de2/a17527.html#ab6e33bf137a54c9cd792aefb0ecd2ef1", null ],
-    [ "Register", "d5/de2/a17527.html#a371073fb37337719115242fc8758026f", null ],
-    [ "Validate", "d5/de2/a17527.html#ad5df08da54defc89a7a552c39de089c3", null ]
+    [ "npc_pos_freed_slaveAI", "d5/de2/a17527.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "d5/de2/a17527.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "d5/de2/a17527.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

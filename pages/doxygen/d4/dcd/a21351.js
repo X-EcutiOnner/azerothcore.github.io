@@ -1,10 +1,18 @@
 var a21351 =
 [
-    [ "npc_jenny", "d4/dcd/a21351.html#ab845ba4551900a03c5a995d348a1be55", null ],
-    [ "DamageTaken", "d4/dcd/a21351.html#a8700091c82bfff473f3d5563deb69e0b", null ],
-    [ "Initialize", "d4/dcd/a21351.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
-    [ "MoveInLineOfSight", "d4/dcd/a21351.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
-    [ "UpdateFollowerAI", "d4/dcd/a21351.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
-    [ "_events", "d4/dcd/a21351.html#aa98caf8b706551470c943b4b722a85ae", null ],
-    [ "_fezzix", "d4/dcd/a21351.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
+    [ "boss_ymironAI", "d4/dcd/a21351.html#a3a4d81b7a0f3f27f94fea60eff043696", null ],
+    [ "EnterEvadeMode", "d4/dcd/a21351.html#a8fbc8526e82efea3e2eddedc421b85a2", null ],
+    [ "JustDied", "d4/dcd/a21351.html#ad1da47485b8f17ea550a1b6bc943eb9a", null ],
+    [ "JustEngagedWith", "d4/dcd/a21351.html#aed0cc8f034454db0046a5adce7f9d8a0", null ],
+    [ "KilledUnit", "d4/dcd/a21351.html#ae1d69402520e1cf4d3a17c0ca9af35bd", null ],
+    [ "MovementInform", "d4/dcd/a21351.html#a6e3c14da21d45bb7ddfba25d4487bba7", null ],
+    [ "Reset", "d4/dcd/a21351.html#a2b6619a51641a82109e98fd4decd22e3", null ],
+    [ "SpellHitTarget", "d4/dcd/a21351.html#a2f2782926ee9a59fc5188d02347f9ca8", null ],
+    [ "UpdateAI", "d4/dcd/a21351.html#aaa447c1c6092bfc7c1d117d32b2c5673", null ],
+    [ "BoatNum", "d4/dcd/a21351.html#ac5663f283d1a97fea1646c1ec230a7dc", null ],
+    [ "BoatOrder", "d4/dcd/a21351.html#a319095910309b0a78d321c4d33994542", null ],
+    [ "events", "d4/dcd/a21351.html#af2d8d9a2ec7ec5876c99ae909d3befd2", null ],
+    [ "pInstance", "d4/dcd/a21351.html#a115529fcbc5a0c8b57152be49915d575", null ],
+    [ "summons", "d4/dcd/a21351.html#aaa5d90d3940c84adebce772c594b0ee2", null ],
+    [ "summons2", "d4/dcd/a21351.html#aa82280ec0e02924d653b62298ed7e471", null ]
 ];

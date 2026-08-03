@@ -1,9 +1,6 @@
 var a06451 =
 [
-    [ "CritterAI", "da/d09/a06451.html#aa211359ea8b80ac0ed27e9b337e333f1", null ],
-    [ "EnterEvadeMode", "da/d09/a06451.html#a989d1fc00af900320dcf27cce7f247dc", null ],
-    [ "JustEngagedWith", "da/d09/a06451.html#a2f52eb5c527895168f18ed5ddcc560a9", null ],
-    [ "MovementInform", "da/d09/a06451.html#a54c44d28e4b2b3231afeb8de343dee43", null ],
-    [ "Permissible", "da/d09/a06451.html#ae43183a24398fe3af1cb8275b9b4c6c6", null ],
-    [ "UpdateAI", "da/d09/a06451.html#af860be127a671f5448cb731aa2f701b0", null ]
+    [ "SavedAddon", "da/d09/a06451.html#a6252c2ac491d0ebd9e84556f26cfa8cd", null ],
+    [ "CRC", "da/d09/a06451.html#a7d04d21a29aa589429aab0d95172ca95", null ],
+    [ "Name", "da/d09/a06451.html#a075de88ce6e643cffb7c5bb55f7b1095", null ]
 ];

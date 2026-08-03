@@ -1,6 +1,6 @@
 var a27675 =
 [
-    [ "AfterCheckProc", "d8/de9/a27675.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
-    [ "PrepareAuraScript", "d8/de9/a27675.html#aa184faf59edbad97ec361e66169137b9", null ],
-    [ "Register", "d8/de9/a27675.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
+    [ "HandleAuraApply", "d8/de9/a27675.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
+    [ "PrepareAuraScript", "d8/de9/a27675.html#a7596065e5ffcacf099a5984f5d940c11", null ],
+    [ "Register", "d8/de9/a27675.html#a8efa76b28dddad68fee132f37791f231", null ]
 ];

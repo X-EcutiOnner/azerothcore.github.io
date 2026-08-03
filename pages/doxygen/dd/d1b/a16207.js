@@ -1,6 +1,6 @@
 var a16207 =
 [
-    [ "npc_weegli_blastfuseAI", "df/da2/a16211.html", "df/da2/a16211" ],
-    [ "npc_weegli_blastfuse", "dd/d1b/a16207.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "dd/d1b/a16207.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "npc_cairne_bloodhoofAI", "df/da2/a16211.html", "df/da2/a16211" ],
+    [ "npc_cairne_bloodhoof", "dd/d1b/a16207.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
+    [ "GetAI", "dd/d1b/a16207.html#a1c34470c46ae9e98684de0e786be28b7", null ]
 ];

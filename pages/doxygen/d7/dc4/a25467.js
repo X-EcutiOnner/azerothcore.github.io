@@ -1,8 +1,7 @@
 var a25467 =
 [
-    [ "HandleFinish", "d7/dc4/a25467.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "d7/dc4/a25467.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "d7/dc4/a25467.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "d7/dc4/a25467.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "d7/dc4/a25467.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "HandleDummy", "d7/dc4/a25467.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
+    [ "PrepareSpellScript", "d7/dc4/a25467.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
+    [ "Register", "d7/dc4/a25467.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
+    [ "Validate", "d7/dc4/a25467.html#ad4bb369ef46122cd45c38d876884d350", null ]
 ];

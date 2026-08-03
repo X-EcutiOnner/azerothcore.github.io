@@ -1,6 +1,7 @@
 var a19195 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "d5/d37/a19199.html", "d5/d37/a19199" ],
-    [ "npc_icc_gauntlet_controller", "dc/d9d/a19195.html#a5fc4c941842e25bc3da93686e588627b", null ],
-    [ "GetAI", "dc/d9d/a19195.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
+    [ "HandleQuestComplete", "dc/d9d/a19195.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
+    [ "HandleScript", "dc/d9d/a19195.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
+    [ "PrepareSpellScript", "dc/d9d/a19195.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
+    [ "Register", "dc/d9d/a19195.html#a3258d4517cfc758080691bab429624d7", null ]
 ];

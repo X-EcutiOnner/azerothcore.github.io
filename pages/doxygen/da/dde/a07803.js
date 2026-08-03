@@ -1,11 +1,9 @@
 var a07803 =
 [
-    [ "BattlegroundWGScore", "da/dde/a07803.html#a43b7933c5e217376e5bb10e9b5bb208b", null ],
-    [ "BuildObjectivesBlock", "da/dde/a07803.html#a804e56dbd666336d961cce2b0e4d6452", null ],
-    [ "GetAttr1", "da/dde/a07803.html#aab49f39d88989b153f1eb979fbbfaeb3", null ],
-    [ "GetAttr2", "da/dde/a07803.html#a191e205e08ef15cc36dabedc32614fd2", null ],
-    [ "UpdateScore", "da/dde/a07803.html#aa560d7f5f13dd235d43a9e3571090055", null ],
-    [ "BattlegroundWS", "da/dde/a07803.html#a4285b67c5d8593dce759422a4eb78c77", null ],
-    [ "FlagCaptures", "da/dde/a07803.html#a23ff00f10d07c1a601e9e1d0eb05b1da", null ],
-    [ "FlagReturns", "da/dde/a07803.html#ab400c9fb692ff157eb4809f0536c05f7", null ]
+    [ "BattlegroundEYScore", "da/dde/a07803.html#a91c17f1ff1924439b05840cd11ede36f", null ],
+    [ "BuildObjectivesBlock", "da/dde/a07803.html#a8a915f38f28ee3929c7922b9fa8f38d6", null ],
+    [ "GetAttr1", "da/dde/a07803.html#a43d4b01a1f3c8325795d90f2a97c230c", null ],
+    [ "UpdateScore", "da/dde/a07803.html#afad034f453c54587b86532a37335ab18", null ],
+    [ "BattlegroundEY", "da/dde/a07803.html#a5d809f1fdf1bb7a29d7504e432e10b8f", null ],
+    [ "FlagCaptures", "da/dde/a07803.html#a057a335c7491c1031666e6d10cf314b2", null ]
 ];

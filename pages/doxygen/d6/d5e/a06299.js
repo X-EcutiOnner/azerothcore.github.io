@@ -1,9 +1,11 @@
 var a06299 =
 [
-    [ "itemId", "d6/d5e/a06299.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
-    [ "mailTemplate", "d6/d5e/a06299.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
-    [ "sender", "d6/d5e/a06299.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
-    [ "subject", "d6/d5e/a06299.html#a45644f308278529f822080f8274180d8", null ],
-    [ "text", "d6/d5e/a06299.html#a4d57dcb4d130552f5bf756308d79307c", null ],
-    [ "titleId", "d6/d5e/a06299.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
+    [ "AppliedFileEntry", "d6/d5e/a06299.html#ac925dd4c2f889ae84e8be8cba9a0ef06", null ],
+    [ "GetStateAsString", "d6/d5e/a06299.html#a803f0ee67f0d3944b0933cf97723b5d3", null ],
+    [ "StateConvert", "d6/d5e/a06299.html#a16274f0e9e6669be265ba75f79c4b10f", null ],
+    [ "StateConvert", "d6/d5e/a06299.html#ac35fc4abcc60015c56765ceebc6fdb8f", null ],
+    [ "hash", "d6/d5e/a06299.html#af39f798a10c2675e870d4d62f1d0a10c", null ],
+    [ "name", "d6/d5e/a06299.html#a8fc429eae6816054b5828952a5698a4c", null ],
+    [ "state", "d6/d5e/a06299.html#a7899f60d95db04e776b7ccfbc1003cfb", null ],
+    [ "timestamp", "d6/d5e/a06299.html#a13703e88b76f26858696b33a8bc8f862", null ]
 ];

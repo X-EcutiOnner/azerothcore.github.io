@@ -1,7 +1,6 @@
 var a25139 =
 [
-    [ "PrepareSpellScript", "d6/d69/a25139.html#a65d5717a25e371e09c44148c679dd390", null ],
-    [ "Register", "d6/d69/a25139.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
-    [ "RemoveInvalidTargets", "d6/d69/a25139.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
-    [ "Validate", "d6/d69/a25139.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
+    [ "HandleOnEffectHit", "d6/d69/a25139.html#a07b15e180ee79149cad15b32b3c94359", null ],
+    [ "PrepareSpellScript", "d6/d69/a25139.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
+    [ "Register", "d6/d69/a25139.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
 ];

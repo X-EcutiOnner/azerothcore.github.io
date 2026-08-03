@@ -1,6 +1,8 @@
 var a27015 =
 [
-    [ "HandleFinish", "da/ddd/a27015.html#ac4c50220d86f809644e339fc578d9b4a", null ],
-    [ "PrepareSpellScript", "da/ddd/a27015.html#a5a14594ed93150e34626a7e0edb8171b", null ],
-    [ "Register", "da/ddd/a27015.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
+    [ "HandleEffectApply", "da/ddd/a27015.html#aed959961fcd07649cd4914fcd38a3214", null ],
+    [ "if", "da/ddd/a27015.html#a1518c08cb3b5cb716b8bd01692a5160d", null ],
+    [ "PrepareAuraScript", "da/ddd/a27015.html#a42167bc6bf7992debea8582680251da4", null ],
+    [ "Register", "da/ddd/a27015.html#aa2c23abd2b90a276bd7980cadc0397a4", null ],
+    [ "AuraEffectHandleModes", "da/ddd/a27015.html#ac886dec8a2ce55af4ec58ab068c589fa", null ]
 ];

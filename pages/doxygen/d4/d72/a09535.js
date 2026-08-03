@@ -1,12 +1,6 @@
 var a09535 =
 [
-    [ "VisibleNotifier", "d4/d72/a09535.html#ae449b96de3eff1759869438dd90f6513", null ],
-    [ "SendToSelf", "d4/d72/a09535.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
-    [ "Visit", "d4/d72/a09535.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
-    [ "Visit", "d4/d72/a09535.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
-    [ "Visit", "d4/d72/a09535.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
-    [ "i_data", "d4/d72/a09535.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
-    [ "i_gobjOnly", "d4/d72/a09535.html#a019182fa8a629d796982f9cc565d9bc3", null ],
-    [ "i_player", "d4/d72/a09535.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
-    [ "i_visibleNow", "d4/d72/a09535.html#a34d766816baaad7b1b3623360ec9abeb", null ]
+    [ "flags", "d4/d72/a09535.html#a953acfd67349f028a839390ebe7fc398", null ],
+    [ "fourcc", "d4/d72/a09535.html#a14d0e9cf761aae3ef914f3bff86ef216", null ],
+    [ "gridArea", "d4/d72/a09535.html#a4ee571320d5d346bbf74709677bbee05", null ]
 ];

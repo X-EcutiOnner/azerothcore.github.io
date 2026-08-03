@@ -1,6 +1,8 @@
 var a21535 =
 [
-    [ "npc_mindless_ghoulAI", "d7/dd8/a21535.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "d7/dd8/a21535.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "d7/dd8/a21535.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "npc_azure_sorceror", "d7/dd8/a21535.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
+    [ "Reset", "d7/dd8/a21535.html#af4bc0ff9b938302c399bff528dd06769", null ],
+    [ "UpdateAI", "d7/dd8/a21535.html#a36675e89aab24a92589a33f88fbec2bd", null ],
+    [ "_arcaneStreamOnCooldown", "d7/dd8/a21535.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
+    [ "_events", "d7/dd8/a21535.html#a3bd018057b31c90afd19ac6943d44591", null ]
 ];

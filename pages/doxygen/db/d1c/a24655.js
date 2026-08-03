@@ -1,8 +1,16 @@
 var a24655 =
 [
-    [ "CheckProc", "db/d1c/a24655.html#ab960abbaa9d2728ff1c471e491844e2f", null ],
-    [ "HandleProc", "db/d1c/a24655.html#a23746c343ca01160b73822e3457514d5", null ],
-    [ "PrepareAuraScript", "db/d1c/a24655.html#a2ddb4cb53c7aabb8e1e09eb1036fafe0", null ],
-    [ "Register", "db/d1c/a24655.html#a78dbfa8833c8f8958e8e9a38cc9812a7", null ],
-    [ "Validate", "db/d1c/a24655.html#a715de16d0510d8b2cbd9e281c3e3274a", null ]
+    [ "CheckCast", "db/d1c/a24655.html#a28e769267a83e4c499dca83a3f5708eb", null ],
+    [ "CheckReagents", "db/d1c/a24655.html#aa8a2efb4807c29aeb5bf786e05113b61", null ],
+    [ "CheckTarget", "db/d1c/a24655.html#ae339cf884f1d2f877e988ef6f6b555bf", null ],
+    [ "CheckTargets", "db/d1c/a24655.html#af1013668080685cd86ae6abb52258fb1", null ],
+    [ "ConsumeReagents", "db/d1c/a24655.html#aa5df00ed970db696b92b51566e098f3f", null ],
+    [ "GetGhoulSpellId", "db/d1c/a24655.html#a9f94b3d279c036fb4b1c5b69934e63f2", null ],
+    [ "HandleRaiseDead", "db/d1c/a24655.html#a3d1e0191d99e970f42d825632fe0f7e2", null ],
+    [ "Load", "db/d1c/a24655.html#a05ea44a20f08f9010faca13a0f4d0f39", null ],
+    [ "PrepareSpellScript", "db/d1c/a24655.html#a9565c8459a6d8cfed85c9120aca9715f", null ],
+    [ "Register", "db/d1c/a24655.html#a0ebef363de4a802b242c806517ad0fb5", null ],
+    [ "Validate", "db/d1c/a24655.html#a0ab8ee639fa83e954e964994c75451c8", null ],
+    [ "_corpse", "db/d1c/a24655.html#adbc699b3bfd33f595ea287ca833ea2d4", null ],
+    [ "_result", "db/d1c/a24655.html#aefebf79fa61b9f4d12929d54bd48389f", null ]
 ];

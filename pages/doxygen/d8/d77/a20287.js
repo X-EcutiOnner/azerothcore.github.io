@@ -1,6 +1,7 @@
 var a20287 =
 [
-    [ "id", "d8/d77/a20287.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
-    [ "x", "d8/d77/a20287.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
-    [ "y", "d8/d77/a20287.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
+    [ "FilterTargets", "d8/d77/a20287.html#a3d864f0428b7e53774d06069037ca5b2", null ],
+    [ "HandleScript", "d8/d77/a20287.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
+    [ "PrepareSpellScript", "d8/d77/a20287.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
+    [ "Register", "d8/d77/a20287.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
 ];

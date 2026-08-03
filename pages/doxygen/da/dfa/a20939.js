@@ -1,6 +1,6 @@
 var a20939 =
 [
-    [ "CheckRequirement", "da/dfa/a20939.html#ad0a1865c8f534310ec2d4c8abc698761", null ],
-    [ "PrepareSpellScript", "da/dfa/a20939.html#a06e1b98a589717bdef6444912a7ad602", null ],
-    [ "Register", "da/dfa/a20939.html#a089a8055517acd9ddc31bf1bd16cbf17", null ]
+    [ "HandleScript", "da/dfa/a20939.html#a679cf770e38e1fda66f8a64fff53f968", null ],
+    [ "PrepareSpellScript", "da/dfa/a20939.html#a89fe5ca5efcc45278bdd9017cfeaaf3f", null ],
+    [ "Register", "da/dfa/a20939.html#adc76a70e73cba42c0f9935b3b43d17cd", null ]
 ];

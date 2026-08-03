@@ -1,9 +1,9 @@
 var a04100 =
 [
-    [ "instance_scarlet_monastery", "db/d87/a13486.html", "db/d87/a13486" ],
-    [ "instance_scarlet_monastery::instance_scarlet_monastery_InstanceMapScript", "d3/dae/a13490.html", "d3/dae/a13490" ],
-    [ "spell_forgiveness_dummy_visual", "d3/d2d/a13494.html", "d3/d2d/a13494" ],
-    [ "spell_transform_ghost_visual", "df/d9b/a13498.html", "df/d9b/a13498" ],
+    [ "instance_scarlet_monastery", "d0/d96/a13491.html", "d0/d96/a13491" ],
+    [ "instance_scarlet_monastery::instance_scarlet_monastery_InstanceMapScript", "d0/d6e/a13495.html", "d0/d6e/a13495" ],
+    [ "spell_forgiveness_dummy_visual", "de/d3e/a13499.html", "de/d3e/a13499" ],
+    [ "spell_transform_ghost_visual", "d8/d32/a13503.html", "d8/d32/a13503" ],
     [ "AshbringerEventMisc", "d1/da3/a04100.html#a19acf5cf631b82922ff0a2ca3149ee9d", [
       [ "NPC_COMMANDER_MOGRAINE", "d1/da3/a04100.html#a19acf5cf631b82922ff0a2ca3149ee9da99fb6334a74eb255ea0b762a807f9587", null ],
       [ "NPC_INQUISITOR_WHITEMANE", "d1/da3/a04100.html#a19acf5cf631b82922ff0a2ca3149ee9da097781861b71fede32d782fa6683de61", null ],

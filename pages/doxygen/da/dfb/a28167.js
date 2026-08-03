@@ -1,8 +1,9 @@
 var a28167 =
 [
-    [ "npc_artoriusAI", "d6/d4c/a28171.html", "d6/d4c/a28171" ],
-    [ "npc_artorius", "da/dfb/a28167.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
-    [ "GetAI", "da/dfb/a28167.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
-    [ "OnGossipHello", "da/dfb/a28167.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
-    [ "OnGossipSelect", "da/dfb/a28167.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
+    [ "ChatLogScript", "da/dfb/a28167.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerCanUseChat", "da/dfb/a28167.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
+    [ "OnPlayerCanUseChat", "da/dfb/a28167.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
+    [ "OnPlayerCanUseChat", "da/dfb/a28167.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
+    [ "OnPlayerCanUseChat", "da/dfb/a28167.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
+    [ "OnPlayerCanUseChat", "da/dfb/a28167.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
 ];

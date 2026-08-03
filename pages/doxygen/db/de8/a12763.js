@@ -1,5 +1,5 @@
 var a12763 =
 [
-    [ "go_father_flame", "db/de8/a12763.html#aa23829f617c48bb6da57ff7977886e75", null ],
-    [ "OnStateChanged", "db/de8/a12763.html#ad0e85a66d65d908c532c2bfde0605b39", null ]
+    [ "boss_gloomrel", "db/de8/a12763.html#a2fe4ce0ddf75725dcb388a346ee13af8", null ],
+    [ "sGossipSelect", "db/de8/a12763.html#a28b2c02b2a4195c90ce313324f056131", null ]
 ];

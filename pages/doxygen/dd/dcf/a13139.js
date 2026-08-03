@@ -1,7 +1,11 @@
 var a13139 =
 [
-    [ "npc_malchezaar_axe", "dd/dcf/a13139.html#a1a5615f2def10add30e7917b770ebc74", null ],
-    [ "Initialize", "dd/dcf/a13139.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
-    [ "JustEngagedWith", "dd/dcf/a13139.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
-    [ "UpdateAI", "dd/dcf/a13139.html#a202ba6922a426f87909eefbccd070175", null ]
+    [ "boss_mr_smiteAI", "dd/dcf/a13139.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
+    [ "JustEngagedWith", "dd/dcf/a13139.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
+    [ "MovementInform", "dd/dcf/a13139.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
+    [ "Reset", "dd/dcf/a13139.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
+    [ "UpdateAI", "dd/dcf/a13139.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
+    [ "events", "dd/dcf/a13139.html#a3471692c39233f3c25cdc875c0078f2c", null ],
+    [ "health34", "dd/dcf/a13139.html#adc83683c2f6a7073469cd2f5aa325717", null ],
+    [ "health67", "dd/dcf/a13139.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
 ];

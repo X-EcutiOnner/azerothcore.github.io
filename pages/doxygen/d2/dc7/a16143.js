@@ -1,7 +1,6 @@
 var a16143 =
 [
-    [ "npc_ringoAI", "d9/dba/a16147.html", "d9/dba/a16147" ],
-    [ "npc_ringo", "d2/dc7/a16143.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
-    [ "GetAI", "d2/dc7/a16143.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
-    [ "OnQuestAccept", "d2/dc7/a16143.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
+    [ "npc_tyrande_whisperwind", "d2/dc7/a16143.html#af716e954e59221d26ee88032e895fa18", null ],
+    [ "JustDied", "d2/dc7/a16143.html#a707f6167de4eafc6d81613d0edc29436", null ],
+    [ "UpdateAI", "d2/dc7/a16143.html#a598bd2dec22715413dcbd7ed6ca3be3c", null ]
 ];

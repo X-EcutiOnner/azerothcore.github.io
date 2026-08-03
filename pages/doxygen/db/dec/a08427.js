@@ -1,10 +1,10 @@
 var a08427 =
 [
-    [ "FormationMgr", "db/dec/a08427.html#ade1aa22473c112aed65d537929b07908", null ],
-    [ "~FormationMgr", "db/dec/a08427.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0", null ],
-    [ "AddCreatureToGroup", "db/dec/a08427.html#aef758bdbc8f93c8981aedd51d7e10a07", null ],
-    [ "instance", "db/dec/a08427.html#a871fec234a94e4adae07315a008acec3", null ],
-    [ "LoadCreatureFormations", "db/dec/a08427.html#af0ecde62fc5c4a3a2b3be16c58f51fde", null ],
-    [ "RemoveCreatureFromGroup", "db/dec/a08427.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364", null ],
-    [ "CreatureGroupMap", "db/dec/a08427.html#ac11a3dfbe6a4f7df01d966f14b0aecd9", null ]
+    [ "CreatureModel", "db/dec/a08427.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
+    [ "CreatureModel", "db/dec/a08427.html#a02b05bf92c3341b90173b4aa998087ba", null ],
+    [ "CreatureDisplayID", "db/dec/a08427.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
+    [ "DefaultInvisibleModel", "db/dec/a08427.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
+    [ "DefaultVisibleModel", "db/dec/a08427.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
+    [ "DisplayScale", "db/dec/a08427.html#ad842b73233b84c451710767f5e58f10a", null ],
+    [ "Probability", "db/dec/a08427.html#a7736d6480dca65a68afb82a830b35874", null ]
 ];

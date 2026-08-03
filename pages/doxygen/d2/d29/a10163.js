@@ -1,7 +1,25 @@
 var a10163 =
 [
-    [ "ownerGUID", "d2/d29/a10163.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
-    [ "script", "d2/d29/a10163.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
-    [ "sourceGUID", "d2/d29/a10163.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
-    [ "targetGUID", "d2/d29/a10163.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
+    [ "MailItemMap", "d2/d29/a10163.html#afad4472f25a020fd6c8d6452840d021c", null ],
+    [ "MailDraft", "d2/d29/a10163.html#a8a7a37890b6a280f2b08659e5e59b354", null ],
+    [ "MailDraft", "d2/d29/a10163.html#adbadad7d9522146672759298c981f7db", null ],
+    [ "AddCOD", "d2/d29/a10163.html#a8d863191bb48369359ad170aab7145e0", null ],
+    [ "AddItem", "d2/d29/a10163.html#ae0c2b4bac4dd8f2a8c53608c45cbb11a", null ],
+    [ "AddMoney", "d2/d29/a10163.html#a4d0be4ea780f25c5302278b5748b6a6b", null ],
+    [ "deleteIncludedItems", "d2/d29/a10163.html#a0b5a445213d5fcc598ed016f1cbf2cf8", null ],
+    [ "GetBody", "d2/d29/a10163.html#ae60b40718fffcdda286161e342d1738d", null ],
+    [ "GetCOD", "d2/d29/a10163.html#a2b4d799ab7ec945b60c07747981ad0a5", null ],
+    [ "GetMailTemplateId", "d2/d29/a10163.html#ab5906ccf0213f8be241fbb177fef53bd", null ],
+    [ "GetMoney", "d2/d29/a10163.html#a461ee77c1d85b07513d5f453c8c8507a", null ],
+    [ "GetSubject", "d2/d29/a10163.html#a671268ee9b384c5c8c954bb62b3a41a0", null ],
+    [ "prepareItems", "d2/d29/a10163.html#ad6481e16a4dbe15b30a942278943c1d2", null ],
+    [ "SendMailTo", "d2/d29/a10163.html#aaee8965aaa66351954bdc7db246151d7", null ],
+    [ "SendReturnToSender", "d2/d29/a10163.html#ab57f00b07519984be8e0f3eb03955ee2", null ],
+    [ "m_body", "d2/d29/a10163.html#aea4413d56053710844b37518596e7b38", null ],
+    [ "m_COD", "d2/d29/a10163.html#a73472d56d74d215494975e6ce6580008", null ],
+    [ "m_items", "d2/d29/a10163.html#a58eef2cacd7834941404a366afc52a9d", null ],
+    [ "m_mailTemplateId", "d2/d29/a10163.html#a8a7997191ebeaebbdd78677c99409278", null ],
+    [ "m_mailTemplateItemsNeed", "d2/d29/a10163.html#aa8fced0ed98a18667c9d9a55027e99e9", null ],
+    [ "m_money", "d2/d29/a10163.html#a8915b8116364db1265eba0ce0d0471c2", null ],
+    [ "m_subject", "d2/d29/a10163.html#aa71d5223f51ffe20c1bf0c91f567d6f8", null ]
 ];

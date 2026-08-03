@@ -1,7 +1,7 @@
 var a16239 =
 [
-    [ "HandleDummy", "da/d23/a16239.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
-    [ "PrepareSpellScript", "da/d23/a16239.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
-    [ "Register", "da/d23/a16239.html#a4359ad73b513a368509a066a039ddf53", null ],
-    [ "_targetCount", "da/d23/a16239.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
+    [ "npc_ranshallaAI", "d0/d89/a16243.html", "d0/d89/a16243" ],
+    [ "npc_ranshalla", "da/d23/a16239.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
+    [ "GetAI", "da/d23/a16239.html#a1a81651366cc05d3ad6e9929160fe059", null ],
+    [ "OnQuestAccept", "da/d23/a16239.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
 ];

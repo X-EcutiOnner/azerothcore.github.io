@@ -1,6 +1,8 @@
 var a27395 =
 [
-    [ "HandleSchoolDMG", "d4/d81/a27395.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
-    [ "PrepareSpellScript", "d4/d81/a27395.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
-    [ "Register", "d4/d81/a27395.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
+    [ "CheckProc", "d4/d81/a27395.html#a019b47e139e155c0803c0ce9a3a42f82", null ],
+    [ "HandleProc", "d4/d81/a27395.html#a92fff2ae3b59c3dd62e92a11312f87ae", null ],
+    [ "PrepareAuraScript", "d4/d81/a27395.html#a91ef63b96918e797e677423d51f94112", null ],
+    [ "Register", "d4/d81/a27395.html#a5625b3a60a607bd07d4328aa1886cfc5", null ],
+    [ "Validate", "d4/d81/a27395.html#ab6178007664afc34556336ec9620cd4f", null ]
 ];

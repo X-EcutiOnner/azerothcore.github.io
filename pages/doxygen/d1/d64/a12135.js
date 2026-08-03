@@ -1,5 +1,6 @@
 var a12135 =
 [
-    [ "PlayerDump", "d1/d64/a12135.html#a457c89834631206d39453721e41af28e", null ],
-    [ "InitializeTables", "d1/d64/a12135.html#a69c8e6c412ac09099752a3ad388f5467", null ]
+    [ "AuraProcHandler", "d1/d64/a12135.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
+    [ "Call", "d1/d64/a12135.html#abc0c3be9dee08e995c282f20900f3c46", null ],
+    [ "_HandlerScript", "d1/d64/a12135.html#ada8d7a5659598b0092739a91ba2653bd", null ]
 ];

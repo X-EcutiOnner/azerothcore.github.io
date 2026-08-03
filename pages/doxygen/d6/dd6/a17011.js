@@ -1,6 +1,6 @@
 var a17011 =
 [
-    [ "boss_icehowlAI", "da/d9d/a17015.html", "da/d9d/a17015" ],
-    [ "boss_icehowl", "d6/dd6/a17011.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
-    [ "GetAI", "d6/dd6/a17011.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
+    [ "npc_toc_pet_hunterAI", "da/d9d/a17015.html", "da/d9d/a17015" ],
+    [ "npc_toc_pet_hunter", "d6/dd6/a17011.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
+    [ "GetAI", "d6/dd6/a17011.html#a9febc3086b0627324277f45d49cdd03f", null ]
 ];

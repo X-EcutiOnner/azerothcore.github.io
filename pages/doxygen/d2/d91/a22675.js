@@ -1,15 +1,12 @@
 var a22675 =
 [
-    [ "boss_reliquary_of_soulsAI", "d2/d91/a22675.html#abee29aab1d28a168be3b381d0765a804", null ],
-    [ "AttackStart", "d2/d91/a22675.html#af59a9972dfdb264248e78206ea0d834c", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d2/d91/a22675.html#a67343cecd292c2dc40f8c5a275d95fdf", null ],
-    [ "DoAction", "d2/d91/a22675.html#aa281dd9c7dc0c6f15c2bfcbf60384006", null ],
-    [ "JustDied", "d2/d91/a22675.html#a6e19cb7d94579a70ac11f7173cf930c6", null ],
-    [ "JustEngagedWith", "d2/d91/a22675.html#a88eef17a5f475b38a37b0e1adcc0cbbc", null ],
-    [ "JustSummoned", "d2/d91/a22675.html#ad3c7679c2341951bbeb49aafad7196cd", null ],
-    [ "MoveInLineOfSight", "d2/d91/a22675.html#a315a0ad69f566ff63b06fd0d47ce32d8", null ],
-    [ "PhaseTransitionSpawns", "d2/d91/a22675.html#a96235ed84a30458eb5f76d87ed47dc89", null ],
-    [ "Reset", "d2/d91/a22675.html#a5dc6ec0521e2ddfb63a6818ad2de0d8b", null ],
-    [ "SummonedCreatureDies", "d2/d91/a22675.html#a51ac7df8689bf899eaaf4cde566d8202", null ],
-    [ "UpdateAI", "d2/d91/a22675.html#a4289e678a69e35db5e4ea75fddd7e8e4", null ]
+    [ "boss_anzu", "d2/d91/a22675.html#aef8c5c57afa95936d8c2809fa1257799", null ],
+    [ "JustEngagedWith", "d2/d91/a22675.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
+    [ "Reset", "d2/d91/a22675.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
+    [ "SummonBroods", "d2/d91/a22675.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
+    [ "SummonedCreatureDies", "d2/d91/a22675.html#a2e35df609db069c8d31afffabcfead34", null ],
+    [ "SummonSpirits", "d2/d91/a22675.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
+    [ "UpdateAI", "d2/d91/a22675.html#a06373460d454bfaf8db793e591cc0abd", null ],
+    [ "AnzuSpiritPos", "d2/d91/a22675.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
+    [ "talkTimer", "d2/d91/a22675.html#a2afae53534d9e777c90d09456f834b5d", null ]
 ];

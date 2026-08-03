@@ -1,6 +1,8 @@
 var a12723 =
 [
-    [ "OrcMoveEvent", "df/d32/a12723.html#a71f7fe243741a1629bdd846fc97f0112", null ],
-    [ "Execute", "df/d32/a12723.html#a58a3c88ed3c6b534016179949b85ff9e", null ],
-    [ "_me", "df/d32/a12723.html#ad8d09bbb659d44e9f4b9171cea7ef7e8", null ]
+    [ "boss_eviscerator", "df/d32/a12723.html#a2228d79b63df840eb4cb28117f24dcf9", null ],
+    [ "DamageTaken", "df/d32/a12723.html#af31de4643026e44c80252e156a39bc69", null ],
+    [ "JustEngagedWith", "df/d32/a12723.html#a14ec212beaa553f8f68e7718e29dcbd9", null ],
+    [ "UpdateAI", "df/d32/a12723.html#af974908902d30b8144d1b734e795d6ea", null ],
+    [ "SpellShieldReady", "df/d32/a12723.html#abeac01454b05ca88a89093b0f74c4a1f", null ]
 ];

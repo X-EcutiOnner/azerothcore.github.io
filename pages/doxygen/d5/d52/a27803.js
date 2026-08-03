@@ -1,5 +1,6 @@
 var a27803 =
 [
-    [ "AreaTrigger_at_last_rites", "d5/d52/a27803.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
-    [ "OnTrigger", "d5/d52/a27803.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
+    [ "CheckProc", "d5/d52/a27803.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
+    [ "PrepareAuraScript", "d5/d52/a27803.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
+    [ "Register", "d5/d52/a27803.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
 ];

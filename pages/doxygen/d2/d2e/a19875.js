@@ -1,6 +1,10 @@
 var a19875 =
 [
-    [ "boss_maiden_of_griefAI", "da/d9b/a19879.html", "da/d9b/a19879" ],
-    [ "boss_maiden_of_grief", "d2/d2e/a19875.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
-    [ "GetAI", "d2/d2e/a19875.html#af8d2e6392a0c73add801910945b2558e", null ]
+    [ "npc_oculus_drakegiverAI", "da/d9b/a19879.html", "da/d9b/a19879" ],
+    [ "npc_oculus_drakegiver", "d2/d2e/a19875.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
+    [ "GetAI", "d2/d2e/a19875.html#aa26a2b82c5e4076ce704d5884895d903", null ],
+    [ "OnGossipHello", "d2/d2e/a19875.html#ac00d09d2d81121d562e3303704229c18", null ],
+    [ "OnGossipSelect", "d2/d2e/a19875.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
+    [ "RemoveEssence", "d2/d2e/a19875.html#a70513d873111c590ca4e33cb446a4438", null ],
+    [ "StoreEssence", "d2/d2e/a19875.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
 ];

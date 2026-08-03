@@ -1,6 +1,6 @@
 var a24247 =
 [
-    [ "HandlePeriodic", "d0/dac/a24247.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
-    [ "PrepareAuraScript", "d0/dac/a24247.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
-    [ "Register", "d0/dac/a24247.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
+    [ "npc_illidari_spawnAI", "de/d15/a24251.html", "de/d15/a24251" ],
+    [ "npc_illidari_spawn", "d0/dac/a24247.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "d0/dac/a24247.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];

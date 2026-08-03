@@ -1,5 +1,6 @@
 var a11595 =
 [
-    [ "PacketHandler", "da/d0b/a11595.html#a7ca20eda3de42ab35ef45c56f1d6d73e", null ],
-    [ "Call", "da/d0b/a11595.html#a42ac77b81d5280c7f1c54991649ab501", null ]
+    [ "QuestUpdateComplete", "da/d0b/a11595.html#a1e6d102e4063facad1230b55d4048702", null ],
+    [ "Write", "da/d0b/a11595.html#a2ec714ac25e784446e8a614587bd79b3", null ],
+    [ "QuestId", "da/d0b/a11595.html#ac44a95d88d2970ee3e8bf0a8c57d578d", null ]
 ];

@@ -1,8 +1,5 @@
 var a22567 =
 [
-    [ "Load", "d2/d68/a22567.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "d2/d68/a22567.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "d2/d68/a22567.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "d2/d68/a22567.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "d2/d68/a22567.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "outdoorpvp_na_halaa_creatures", "d2/d68/a22567.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
+    [ "UpdateAI", "d2/d68/a22567.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
 ];

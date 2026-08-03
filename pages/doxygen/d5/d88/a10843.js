@@ -1,11 +1,11 @@
 var a10843 =
 [
-    [ "PointMoveMap", "d5/d88/a10843.html#a777e97ebcf367638578d1c189480ad99", null ],
-    [ "SystemMgr", "d5/d88/a10843.html#ac7fd54676b46afcbc520e4c58fcdce75", null ],
-    [ "~SystemMgr", "d5/d88/a10843.html#ab192b30aa7ff1edd27bb23e87a7ac4c5", null ],
-    [ "GetPointMoveList", "d5/d88/a10843.html#af9f998f9778cebce3edb39b7296994d5", null ],
-    [ "instance", "d5/d88/a10843.html#a71b78a44a3656802d55211d68fb19e12", null ],
-    [ "LoadScriptWaypoints", "d5/d88/a10843.html#af8097171a2ffc49600397c6a519dddc3", null ],
-    [ "_empty", "d5/d88/a10843.html#a4c90cb038afeb09c107979348bd3ca01", null ],
-    [ "m_mPointMoveMap", "d5/d88/a10843.html#a3603d019adf647df9f314a7ca61a25dd", null ]
+    [ "PetScript", "d5/d88/a10843.html#a8acfb58efba8975dbfdfd36e34dd667e", null ],
+    [ "CanResetTalents", "d5/d88/a10843.html#ab4e5e0b19285573753ef6e9b7e8fd535", null ],
+    [ "CanUnlearnSpellDefault", "d5/d88/a10843.html#af150efd719bbb619df792ebc6705bb0a", null ],
+    [ "CanUnlearnSpellSet", "d5/d88/a10843.html#a84cba94813ffa26e1a245b814feb0349", null ],
+    [ "IsDatabaseBound", "d5/d88/a10843.html#a16fae7cdf068c6e3d9e46882548d4c20", null ],
+    [ "OnCalculateMaxTalentPointsForLevel", "d5/d88/a10843.html#a1263b06233902fbede9fc5df80cc8ad4", null ],
+    [ "OnInitStatsForLevel", "d5/d88/a10843.html#a65a33c4f374f2e9739680ad172118c26", null ],
+    [ "OnPetAddToWorld", "d5/d88/a10843.html#a3012323c5c1424512b611b6956a32554", null ]
 ];

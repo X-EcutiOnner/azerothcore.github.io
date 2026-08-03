@@ -1,6 +1,6 @@
 var a18255 =
 [
-    [ "HandlePeriodic", "de/d8f/a18255.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
-    [ "PrepareAuraScript", "de/d8f/a18255.html#a5d855d79247dff6f949a5e099abb9352", null ],
-    [ "Register", "de/d8f/a18255.html#ae797de0ed29b3ca179c07d759b469228", null ]
+    [ "AbominationDespawner", "de/d8f/a18255.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "de/d8f/a18255.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "de/d8f/a18255.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

@@ -1,11 +1,6 @@
 var a24411 =
 [
-    [ "HandleAfterHit", "de/d6f/a24411.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
-    [ "HandleDummy", "de/d6f/a24411.html#abb3f92850fa6fff94c682b990c361fe6", null ],
-    [ "Load", "de/d6f/a24411.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
-    [ "PrepareSpellScript", "de/d6f/a24411.html#adea0e24654cd87b3aee07ce2183b9517", null ],
-    [ "Register", "de/d6f/a24411.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
-    [ "Validate", "de/d6f/a24411.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
-    [ "guid", "de/d6f/a24411.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
-    [ "multiplier", "de/d6f/a24411.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
+    [ "PrepareSpellScript", "de/d6f/a24411.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
+    [ "RecalculateDamage", "de/d6f/a24411.html#af01757d0968da2a096d800782ed7e66e", null ],
+    [ "Register", "de/d6f/a24411.html#a62b6613707a2a9b78d52bffe92de604e", null ]
 ];

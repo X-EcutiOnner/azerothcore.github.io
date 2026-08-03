@@ -1,8 +1,5 @@
 var a13467 =
 [
-    [ "CheckCast", "d2/d9f/a13467.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
-    [ "HandleScriptEffect", "d2/d9f/a13467.html#a36bb2b95651889eaa0321a7a327e173f", null ],
-    [ "PrepareSpellScript", "d2/d9f/a13467.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
-    [ "Register", "d2/d9f/a13467.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
-    [ "Validate", "d2/d9f/a13467.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
+    [ "boss_apoko", "d2/d9f/a13467.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
+    [ "JustEngagedWith", "d2/d9f/a13467.html#a7ad52b258863bd818b3e5d1143de7629", null ]
 ];

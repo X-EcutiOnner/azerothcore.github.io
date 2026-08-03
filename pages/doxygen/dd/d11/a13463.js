@@ -1,7 +1,6 @@
 var a13463 =
 [
-    [ "HandleHit", "dd/d11/a13463.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
-    [ "Load", "dd/d11/a13463.html#affe2cd261752db89b1b418eb18a3370c", null ],
-    [ "PrepareSpellScript", "dd/d11/a13463.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
-    [ "Register", "dd/d11/a13463.html#aaadaf49a3757e78d69ffc32768945d16", null ]
+    [ "boss_garaxxas", "dd/d11/a13463.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
+    [ "JustEngagedWith", "dd/d11/a13463.html#aebfd7b63d714468ed69e920fb89c345d", null ],
+    [ "Reset", "dd/d11/a13463.html#a56e6489ce49971cb066444888355626e", null ]
 ];

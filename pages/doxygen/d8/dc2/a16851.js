@@ -1,6 +1,6 @@
 var a16851 =
 [
-    [ "npc_toc_warlockAI", "da/d70/a16855.html", "da/d70/a16855" ],
-    [ "npc_toc_warlock", "d8/dc2/a16851.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
-    [ "GetAI", "d8/dc2/a16851.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
+    [ "npc_frost_sphereAI", "da/d70/a16855.html", "da/d70/a16855" ],
+    [ "npc_frost_sphere", "d8/dc2/a16851.html#a0256ba1c53853307f8b66e22b10bef24", null ],
+    [ "GetAI", "d8/dc2/a16851.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
 ];

@@ -1,6 +1,6 @@
 var a18627 =
 [
-    [ "npc_icc_ice_sphereAI", "d5/d62/a18631.html", "d5/d62/a18631" ],
-    [ "npc_icc_ice_sphere", "d7/d27/a18627.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
-    [ "GetAI", "d7/d27/a18627.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
+    [ "LichKingMovieEvent", "d7/d27/a18627.html#a3e48e13dc5166c73a9f379045988f86a", null ],
+    [ "Execute", "d7/d27/a18627.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
+    [ "_owner", "d7/d27/a18627.html#a7ed68f442a644d6bb7a036812351d89e", null ]
 ];

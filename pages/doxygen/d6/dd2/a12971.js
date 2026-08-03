@@ -1,6 +1,7 @@
 var a12971 =
 [
-    [ "HandleHit", "d6/dd2/a12971.html#a5245f935c0cafd14e492214a51d85ad3", null ],
-    [ "PrepareSpellScript", "d6/dd2/a12971.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
-    [ "Register", "d6/dd2/a12971.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
+    [ "HandleDummy", "d6/dd2/a12971.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
+    [ "PrepareSpellScript", "d6/dd2/a12971.html#a6ec124990f202af0c6063c285bf04d88", null ],
+    [ "Register", "d6/dd2/a12971.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
+    [ "Validate", "d6/dd2/a12971.html#ae35efa08f507aac5b72166a216d01870", null ]
 ];

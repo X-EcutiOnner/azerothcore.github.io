@@ -1,6 +1,7 @@
 var a24723 =
 [
-    [ "HandleScript", "dd/db3/a24723.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
-    [ "PrepareSpellScript", "dd/db3/a24723.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
-    [ "Register", "dd/db3/a24723.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
+    [ "HandleProc", "dd/db3/a24723.html#a66726023cd4e12b2766db027623aacf1", null ],
+    [ "PrepareAuraScript", "dd/db3/a24723.html#aaec1b616a6d57d5a2554ee7cc76d835d", null ],
+    [ "Register", "dd/db3/a24723.html#a12bb8475758402da599ae8fbc2f28b31", null ],
+    [ "Validate", "dd/db3/a24723.html#abba724498ed4e20d8ca028f270d0bbb4", null ]
 ];

@@ -1,10 +1,10 @@
 var a28535 =
 [
-    [ "ID", "d2/ddc/a28535.html#a906c42770a619884f08b67e2870bff93", null ],
-    [ "reqarenapoints", "d2/ddc/a28535.html#a5d45007a832d6120e29c7821c07646de", null ],
-    [ "reqarenaslot", "d2/ddc/a28535.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
-    [ "reqhonorpoints", "d2/ddc/a28535.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
-    [ "reqitem", "d2/ddc/a28535.html#a9cba8872c909260a55dcfdf7f4726899", null ],
-    [ "reqitemcount", "d2/ddc/a28535.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
-    [ "reqpersonalarenarating", "d2/ddc/a28535.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
+    [ "npc_dancing_flamesAI", "d2/ddc/a28535.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "d2/ddc/a28535.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "d2/ddc/a28535.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "d2/ddc/a28535.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "d2/ddc/a28535.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "d2/ddc/a28535.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "d2/ddc/a28535.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

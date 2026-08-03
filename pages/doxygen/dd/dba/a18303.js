@@ -1,6 +1,7 @@
 var a18303 =
 [
-    [ "boss_rotfaceAI", "df/d77/a18307.html", "df/d77/a18307" ],
-    [ "boss_rotface", "dd/dba/a18303.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
-    [ "GetAI", "dd/dba/a18303.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
+    [ "HandleTriggerSpell", "dd/dba/a18303.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "dd/dba/a18303.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "dd/dba/a18303.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "dd/dba/a18303.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

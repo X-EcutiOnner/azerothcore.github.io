@@ -1,5 +1,5 @@
 var a12567 =
 [
-    [ "go_shadowforge_brazier", "de/d35/a12567.html#a35a7aa318b20bc2b0e3081be506e835e", null ],
-    [ "GossipHello", "de/d35/a12567.html#a1bbe1da11b4a15bb2ced7df0ae614626", null ]
+    [ "Chance", "de/d35/a12567.html#a20ae19fc80deceb81adccb91b341fb82", null ],
+    [ "Entry", "de/d35/a12567.html#ae8b951678ec65907370ffe700cd668c8", null ]
 ];

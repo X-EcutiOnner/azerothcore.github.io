@@ -1,10 +1,10 @@
 var a02813 =
 [
-    [ "WeeklyQuest", "d5/dfd/a19374.html", "d5/dfd/a19374" ],
-    [ "RespawnEvent", "d3/d16/a19378.html", "d3/d16/a19378" ],
-    [ "DelayedCastMincharEvent", "d5/d41/a19382.html", "d5/d41/a19382" ],
-    [ "instance_icecrown_citadel", "d8/ded/a19386.html", "d8/ded/a19386" ],
-    [ "instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript", "db/d1c/a19390.html", "db/d1c/a19390" ],
+    [ "WeeklyQuest", "d8/d2a/a19371.html", "d8/d2a/a19371" ],
+    [ "RespawnEvent", "dd/d56/a19375.html", "dd/d56/a19375" ],
+    [ "DelayedCastMincharEvent", "d9/d18/a19379.html", "d9/d18/a19379" ],
+    [ "instance_icecrown_citadel", "d9/d1d/a19383.html", "d9/d1d/a19383" ],
+    [ "instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript", "d5/dfe/a19387.html", "d5/dfe/a19387" ],
     [ "EventIds", "d3/d85/a02813.html#acb64662cd19d8282959c12081cb2b4b4", [
       [ "EVENT_DRAGONSPIRE_ROOM_STORE", "dc/dce/a03908.html#acb64662cd19d8282959c12081cb2b4b4ab5e1f4a5290781237c4337916b99a96a", null ],
       [ "EVENT_DRAGONSPIRE_ROOM_CHECK", "dc/dce/a03908.html#acb64662cd19d8282959c12081cb2b4b4adeb0aa4435158cf9a960477680a6cb50", null ],
@@ -1613,6 +1613,7 @@ var a02813 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

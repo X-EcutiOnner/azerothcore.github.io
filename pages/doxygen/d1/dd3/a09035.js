@@ -1,11 +1,10 @@
 var a09035 =
 [
-    [ "UnitActionBarEntry", "d1/dd3/a09035.html#a41f9020c4811b14fc543ddece6af86d7", null ],
-    [ "GetAction", "d1/dd3/a09035.html#afd77e2f64ec856059759d05ddf77876e", null ],
-    [ "GetType", "d1/dd3/a09035.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
-    [ "IsActionBarForSpell", "d1/dd3/a09035.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
-    [ "SetAction", "d1/dd3/a09035.html#aa00953783b0b3de3beb755a054c77730", null ],
-    [ "SetActionAndType", "d1/dd3/a09035.html#a110840d38445795957ee0425175b4fb6", null ],
-    [ "SetType", "d1/dd3/a09035.html#a38e0dcad391d09e475f90be5a5382f78", null ],
-    [ "packedData", "d1/dd3/a09035.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
+    [ "Index", "d1/dd3/a09035.html#a28b25d822326a1b7d5ec7f95ce084bac", [
+      [ "REGULAR", "d1/dd3/a09035.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
+      [ "ADDON", "d1/dd3/a09035.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
+      [ "MAX", "d1/dd3/a09035.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
+    ] ],
+    [ "Count", "d1/dd3/a09035.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
+    [ "Time", "d1/dd3/a09035.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
 ];

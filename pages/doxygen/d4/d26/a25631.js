@@ -1,6 +1,6 @@
 var a25631 =
 [
-    [ "PrepareSpellScript", "d4/d26/a25631.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
-    [ "Register", "d4/d26/a25631.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
-    [ "SelectTarget", "d4/d26/a25631.html#a3153b6c6814922cd7220e19b06f2a602", null ]
+    [ "CalculateAmount", "d4/d26/a25631.html#a83bf0327aade6f6a33293a442ad10911", null ],
+    [ "PrepareAuraScript", "d4/d26/a25631.html#aa964f4eb7391dab54ff744fc94306de1", null ],
+    [ "Register", "d4/d26/a25631.html#a37d29d87bec2fe2908b7d3e47f5e1caa", null ]
 ];

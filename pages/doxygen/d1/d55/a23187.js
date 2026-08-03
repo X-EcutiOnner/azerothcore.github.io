@@ -1,7 +1,6 @@
 var a23187 =
 [
-    [ "npc_underbog_mushroom", "d1/d55/a23187.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
-    [ "InitializeAI", "d1/d55/a23187.html#a7c192010cc63715eaa3f38b1d1372936", null ],
-    [ "UpdateAI", "d1/d55/a23187.html#a9a8ed51b12809152ebe78dda69944d77", null ],
-    [ "_scheduler", "d1/d55/a23187.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
+    [ "HandleEffectApply", "d1/d55/a23187.html#adbfce9b247a8a36d143243955372dc91", null ],
+    [ "PrepareAuraScript", "d1/d55/a23187.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6", null ],
+    [ "Register", "d1/d55/a23187.html#afb919ed484440d382b9d1ac7cf6f3f14", null ]
 ];

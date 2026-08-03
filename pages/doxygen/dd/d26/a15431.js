@@ -1,9 +1,7 @@
 var a15431 =
 [
-    [ "spell_gen_ayamiss_swarmer_loop", "dd/d26/a15431.html#ad910e172ef6866f102fa3407f676169a", null ],
-    [ "HandleScript", "dd/d26/a15431.html#acd0dffad436cb414deb546b192957783", null ],
-    [ "Load", "dd/d26/a15431.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
-    [ "PrepareSpellScript", "dd/d26/a15431.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
-    [ "Register", "dd/d26/a15431.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
-    [ "_pathId", "dd/d26/a15431.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
+    [ "npc_onyxian_lair_guard", "dd/d26/a15431.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "dd/d26/a15431.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "dd/d26/a15431.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "dd/d26/a15431.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

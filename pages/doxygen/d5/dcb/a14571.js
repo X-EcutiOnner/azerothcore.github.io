@@ -1,10 +1,7 @@
 var a14571 =
 [
-    [ "npc_zealot_zath", "d5/dcb/a14571.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
-    [ "JustDied", "d5/dcb/a14571.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
-    [ "JustEngagedWith", "d5/dcb/a14571.html#a25e059f40de51d880f4ec209ff4dd924", null ],
-    [ "Reset", "d5/dcb/a14571.html#abc4e40afd644f2c89444f3fe475817c0", null ],
-    [ "UpdateAI", "d5/dcb/a14571.html#a467ce2437ec112b42f864ef412c0c976", null ],
-    [ "_scheduler", "d5/dcb/a14571.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
-    [ "instance", "d5/dcb/a14571.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
+    [ "HandleOnHit", "d5/dcb/a14571.html#a561799e6241b1fe17cd09f17c447107b", null ],
+    [ "PrepareSpellScript", "d5/dcb/a14571.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
+    [ "Register", "d5/dcb/a14571.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
+    [ "Validate", "d5/dcb/a14571.html#adb339686c5e9dcb298712455dc8435bf", null ]
 ];

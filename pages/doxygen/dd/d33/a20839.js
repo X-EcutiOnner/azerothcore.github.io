@@ -1,8 +1,11 @@
 var a20839 =
 [
-    [ "FilterTargets", "dd/d33/a20839.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
-    [ "HandleDummyEffect", "dd/d33/a20839.html#ab1f662fa107d176386067ffc6467d90f", null ],
-    [ "PrepareSpellScript", "dd/d33/a20839.html#a069cc54bf009830ad781c790b4fcedad", null ],
-    [ "Register", "dd/d33/a20839.html#ac91532151b689bde35d7120b1e9aec5b", null ],
-    [ "Validate", "dd/d33/a20839.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
+    [ "boss_thorim_ancient_rune_giant", "dd/d33/a20839.html#a0af1f7772d93899651d93fdc4a690b7d", null ],
+    [ "DoAction", "dd/d33/a20839.html#a615eb1cf45c8e09af0f9a248f1c6bbe8", null ],
+    [ "JustDied", "dd/d33/a20839.html#a64b0ab5d6e3a51a926eaef236754b7bf", null ],
+    [ "JustEngagedWith", "dd/d33/a20839.html#a98fa309963245a0c57676ff019085fac", null ],
+    [ "Reset", "dd/d33/a20839.html#a66c30135e900b4b9e6d43d08e5e14f24", null ],
+    [ "UpdateAI", "dd/d33/a20839.html#a903d7448d9441866475d77fce8ca6d37", null ],
+    [ "_isInCombat", "dd/d33/a20839.html#a148ff1fa8010466de069032f660cd08e", null ],
+    [ "events", "dd/d33/a20839.html#adb60fcfd3cde775f06e883d2e62b5ba1", null ]
 ];

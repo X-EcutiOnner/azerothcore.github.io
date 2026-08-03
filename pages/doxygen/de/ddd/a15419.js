@@ -1,7 +1,10 @@
 var a15419 =
 [
-    [ "HandleScript", "de/ddd/a15419.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
-    [ "PrepareSpellScript", "de/ddd/a15419.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
-    [ "Register", "de/ddd/a15419.html#aff966352a2babe6e6daed91f02e1190a", null ],
-    [ "Validate", "de/ddd/a15419.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
+    [ "instance_maraudon_InstanceMapScript", "de/ddd/a15419.html#a9c46508320d3973006561444feae0586", null ],
+    [ "Initialize", "de/ddd/a15419.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
+    [ "OnGameObjectCreate", "de/ddd/a15419.html#a3a287b97db58c3489815f20ee0d37977", null ],
+    [ "ReadSaveDataMore", "de/ddd/a15419.html#ac2cd336874b25ad20dac104037de1df5", null ],
+    [ "SetData", "de/ddd/a15419.html#a6e90bf60a076c164e432128f7ec62fba", null ],
+    [ "WriteSaveDataMore", "de/ddd/a15419.html#a6e4072342e66689d343912de85e66b34", null ],
+    [ "_encounters", "de/ddd/a15419.html#af2e752a791d75e50001060c4a9f18173", null ]
 ];

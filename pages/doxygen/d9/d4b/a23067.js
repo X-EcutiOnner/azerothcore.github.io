@@ -1,13 +1,6 @@
 var a23067 =
 [
-    [ "npc_ahune_bunny", "d9/d4b/a23067.html#ae28e0d2dbaab082488d5582b75cd8482", null ],
-    [ "DoAction", "d9/d4b/a23067.html#ad071787c47254f603ba7692889733202", null ],
-    [ "JustDied", "d9/d4b/a23067.html#a8733a3e495ebf69df4f9d1213df50170", null ],
-    [ "JustSummoned", "d9/d4b/a23067.html#a2c5c97b497cd15a1453bbd21d279a29b", null ],
-    [ "ResetFlameCallers", "d9/d4b/a23067.html#a60a74aabbf42116079081134a332a100", null ],
-    [ "UpdateAI", "d9/d4b/a23067.html#aa8dff40dde7820b1ce4e06c8d27e4ecb", null ],
-    [ "_events", "d9/d4b/a23067.html#af84154fff16cbdb15586b3b07223e010", null ],
-    [ "_instance", "d9/d4b/a23067.html#a9be0d062379e5a3dfa19af1eb1a4243e", null ],
-    [ "_submerged", "d9/d4b/a23067.html#a15fdcc2fda18e118f398ccc055f52942", null ],
-    [ "_summons", "d9/d4b/a23067.html#a8f9e25f0d8a66b18e887b061592c6950", null ]
+    [ "instance_black_temple_InstanceMapScript", "dd/d85/a23071.html", "dd/d85/a23071" ],
+    [ "instance_black_temple", "d9/d4b/a23067.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "d9/d4b/a23067.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

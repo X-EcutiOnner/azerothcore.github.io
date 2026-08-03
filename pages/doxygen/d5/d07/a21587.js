@@ -1,15 +1,10 @@
 var a21587 =
 [
-    [ "npc_q24545_lich_kingAI", "d5/d07/a21587.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
-    [ "CleanAll", "d5/d07/a21587.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
-    [ "JustSummoned", "d5/d07/a21587.html#a6049433795be30eb31e240a4939ad42f", null ],
-    [ "Reset", "d5/d07/a21587.html#aebd396de51edef790cd0b599c94f78a0", null ],
-    [ "SetData", "d5/d07/a21587.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
-    [ "SetGUID", "d5/d07/a21587.html#ac7c41ebfa7979907aea246af20bcf368", null ],
-    [ "SpellHitTarget", "d5/d07/a21587.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
-    [ "SummonedCreatureDespawn", "d5/d07/a21587.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
-    [ "UpdateAI", "d5/d07/a21587.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
-    [ "events", "d5/d07/a21587.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
-    [ "playerGUID", "d5/d07/a21587.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
-    [ "summons", "d5/d07/a21587.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
+    [ "npc_jenny", "d5/d07/a21587.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "d5/d07/a21587.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "d5/d07/a21587.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "d5/d07/a21587.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "d5/d07/a21587.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "d5/d07/a21587.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "d5/d07/a21587.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

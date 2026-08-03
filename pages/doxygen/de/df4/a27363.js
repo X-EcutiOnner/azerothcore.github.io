@@ -1,6 +1,6 @@
 var a27363 =
 [
-    [ "HandleProc", "de/df4/a27363.html#afb4fb2152937e62982aab2a17820d1d9", null ],
-    [ "PrepareAuraScript", "de/df4/a27363.html#a43ec587b6e8ac94baba7253dfec47640", null ],
-    [ "Register", "de/df4/a27363.html#ad0824cc4c53915239d609aa117fc4691", null ]
+    [ "HandleRemove", "de/df4/a27363.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
+    [ "PrepareAuraScript", "de/df4/a27363.html#a132193c0c13a2f89b9b29391d524023a", null ],
+    [ "Register", "de/df4/a27363.html#a246294a7b9a128a9ec464562846332fc", null ]
 ];

@@ -1,10 +1,6 @@
 var a24523 =
 [
-    [ "CalculateAPAmount", "de/d98/a24523.html#af1d4558f6132d3c2abc71ec1dabee2e8", null ],
-    [ "CalculateResistanceAmount", "de/d98/a24523.html#a5d6e7b92f4335176388a877e72c0e92c", null ],
-    [ "CalculateSPAmount", "de/d98/a24523.html#a40c96996d19b9f7eeed3fda4271b9f87", null ],
-    [ "CalculateStatAmount", "de/d98/a24523.html#ae4f96de2c558a4b0fd7659442aa3d92b", null ],
-    [ "HandleEffectApply", "de/d98/a24523.html#aeebb14424a6ae336edd4b66d824d648a", null ],
-    [ "PrepareAuraScript", "de/d98/a24523.html#a7e3dc351574f6d6ad3424eb7df7092df", null ],
-    [ "Register", "de/d98/a24523.html#ab5713a34ced4d2e2a67b43e98d7a55c0", null ]
+    [ "PrepareSpellScript", "de/d98/a24523.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
+    [ "Register", "de/d98/a24523.html#a4b349a325759517c35d04202e5df9cec", null ],
+    [ "SetDest", "de/d98/a24523.html#a951f733ab2452655a3b579f8ed190fb0", null ]
 ];

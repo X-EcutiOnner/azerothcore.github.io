@@ -1,10 +1,7 @@
 var a21975 =
 [
-    [ "npc_engineer_heliceAI", "db/d98/a21975.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
-    [ "JustDied", "db/d98/a21975.html#aba224727b86a2bfc39a47b70b424ccef", null ],
-    [ "Reset", "db/d98/a21975.html#ade3f7f526dd8973c155aafb939db3778", null ],
-    [ "UpdateAI", "db/d98/a21975.html#a1c333511dd6e82cd22af111e12a701c4", null ],
-    [ "WaypointReached", "db/d98/a21975.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
-    [ "WaypointReached", "db/d98/a21975.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "m_uiChatTimer", "db/d98/a21975.html#aa305bc2b5711d0745650f80275204ea8", null ]
+    [ "HandleScript", "db/d98/a21975.html#a95de3ae27cfd764380ab1648b49af38d", null ],
+    [ "Load", "db/d98/a21975.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
+    [ "PrepareSpellScript", "db/d98/a21975.html#a442138710213b9b120d8ce57b733205a", null ],
+    [ "Register", "db/d98/a21975.html#af9d8f764a6a02737f8b559f067156df6", null ]
 ];

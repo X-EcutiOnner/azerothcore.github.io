@@ -1,8 +1,6 @@
 var a15319 =
 [
-    [ "Load", "d7/d6c/a15319.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
-    [ "PeriodicTick", "d7/d6c/a15319.html#ae4761ac3bce02903a7266511d80503f9", null ],
-    [ "PrepareAuraScript", "d7/d6c/a15319.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
-    [ "Register", "d7/d6c/a15319.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
-    [ "_ticks", "d7/d6c/a15319.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
+    [ "instance_culling_of_stratholme_InstanceMapScript", "d7/d5a/a15323.html", "d7/d5a/a15323" ],
+    [ "instance_culling_of_stratholme", "d7/d6c/a15319.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
+    [ "GetInstanceScript", "d7/d6c/a15319.html#ad8cbcb198666d44d79d6255d066c8315", null ]
 ];

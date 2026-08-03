@@ -1,6 +1,7 @@
 var a26519 =
 [
-    [ "CheckCast", "d6/de6/a26519.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "d6/de6/a26519.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "d6/de6/a26519.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "HandleDummy", "d6/de6/a26519.html#a870b9834d0860a2d017b74fbf33ae668", null ],
+    [ "Load", "d6/de6/a26519.html#ae971bd1dccc9280620b6ea44dd552bd4", null ],
+    [ "PrepareSpellScript", "d6/de6/a26519.html#aac68e0f75f39ab25cf490dc381414b96", null ],
+    [ "Register", "d6/de6/a26519.html#ad2840c719abd010c629747da138e9e32", null ]
 ];

@@ -1,6 +1,6 @@
 var a26871 =
 [
-    [ "HandleDummy", "df/dea/a26871.html#a39c913c3e3225a9b27d17d4ceadd3c70", null ],
-    [ "PrepareSpellScript", "df/dea/a26871.html#a7936186af106ae3ddeec3bc9b39ff127", null ],
-    [ "Register", "df/dea/a26871.html#aa8ce1f0413e19d8f6d403b220fc6749c", null ]
+    [ "FilterTargets", "df/dea/a26871.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
+    [ "PrepareSpellScript", "df/dea/a26871.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
+    [ "Register", "df/dea/a26871.html#a4db02c58be57a797c26b07656d1b5409", null ]
 ];

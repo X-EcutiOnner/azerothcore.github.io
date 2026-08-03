@@ -1,10 +1,9 @@
 var a09675 =
 [
-    [ "NearestGameObjectEntryInObjectRangeCheck", "d4/d84/a09675.html#a7d57ae865868d4848caf088c4520b2a7", null ],
-    [ "NearestGameObjectEntryInObjectRangeCheck", "d4/d84/a09675.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
-    [ "operator()", "d4/d84/a09675.html#ad0c6798e28784ed547102414f4c6a31f", null ],
-    [ "i_entry", "d4/d84/a09675.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
-    [ "i_obj", "d4/d84/a09675.html#a104b8bece6ea78ba049dc592e54311be", null ],
-    [ "i_onlySpawned", "d4/d84/a09675.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
-    [ "i_range", "d4/d84/a09675.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
+    [ "CreatureLastSearcher", "d4/d84/a09675.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d", null ],
+    [ "Visit", "d4/d84/a09675.html#ae6774df4ffff18cd4f3b4c07724db4f4", null ],
+    [ "Visit", "d4/d84/a09675.html#a08635cefbba5dca34734569816d2edb8", null ],
+    [ "i_check", "d4/d84/a09675.html#a2b9afe2c43af6e68f7fa5ba661790ef9", null ],
+    [ "i_object", "d4/d84/a09675.html#ab8a14acb8d0fc9835d1325430fa1a367", null ],
+    [ "i_phaseMask", "d4/d84/a09675.html#a9dd25e3437e1c1e5e4c8d68ab3548500", null ]
 ];

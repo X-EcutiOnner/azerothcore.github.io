@@ -1,7 +1,7 @@
 var a16283 =
 [
-    [ "HandleScript", "d7/ddf/a16283.html#ae9939f2795b8ba428277c7d658af715c", null ],
-    [ "PrepareSpellScript", "d7/ddf/a16283.html#aabe244008103ff317e3fc1e26b04115a", null ],
-    [ "Register", "d7/ddf/a16283.html#a4f492bdd96ef190354f37c95217bb696", null ],
-    [ "Validate", "d7/ddf/a16283.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
+    [ "go_troll_cageAI", "d7/ddf/a16283.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
+    [ "GossipHello", "d7/ddf/a16283.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
+    [ "initBlyCrewMember", "d7/ddf/a16283.html#a6bfb77ec97367d8704885acfef801b74", null ],
+    [ "instance", "d7/ddf/a16283.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
 ];

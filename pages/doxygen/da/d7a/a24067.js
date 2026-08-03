@@ -1,7 +1,6 @@
 var a24067 =
 [
-    [ "HandleSendEvent", "da/d7a/a24067.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "da/d7a/a24067.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "da/d7a/a24067.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "da/d7a/a24067.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "npc_wounded_blood_elfAI", "dd/d96/a24071.html", "dd/d96/a24071" ],
+    [ "npc_wounded_blood_elf", "da/d7a/a24067.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "da/d7a/a24067.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

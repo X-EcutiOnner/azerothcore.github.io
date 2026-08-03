@@ -1,17 +1,10 @@
 var a10703 =
 [
-    [ "GameObjectScript", "df/ddc/a10703.html#a9d9cf73435a16d7fef450134c03980bb", null ],
-    [ "GetAI", "df/ddc/a10703.html#a05492473fa28c0f7c80770aa3445ce4e", null ],
-    [ "GetDialogStatus", "df/ddc/a10703.html#ac526fbe66b9b1e9edca51f9fd20a40b9", null ],
-    [ "IsDatabaseBound", "df/ddc/a10703.html#a020e07dfd6e99b55bf5c8e56cfdd3948", null ],
-    [ "OnDamaged", "df/ddc/a10703.html#a2fb7d0f8f01ce083643bc0cb810fc612", null ],
-    [ "OnDestroyed", "df/ddc/a10703.html#a042676e98453494ab49bb90216755052", null ],
-    [ "OnGameObjectStateChanged", "df/ddc/a10703.html#a4992d88f026bf906852f085db4e8768e", null ],
-    [ "OnGossipHello", "df/ddc/a10703.html#a58b56fc92ae87aea0530eceba1f3088d", null ],
-    [ "OnGossipSelect", "df/ddc/a10703.html#a612884c70eed9c56958ab49dc1e2bb1f", null ],
-    [ "OnGossipSelectCode", "df/ddc/a10703.html#ac9c9feb4d08ea0e5ad202ada205a9772", null ],
-    [ "OnLootStateChanged", "df/ddc/a10703.html#ab93c178f2137e92da28665d28bfec1d5", null ],
-    [ "OnModifyHealth", "df/ddc/a10703.html#a1ff457beae2b6249a9d3ecd08fd1b5a4", null ],
-    [ "OnQuestAccept", "df/ddc/a10703.html#afd22217feca39340d68b9c7fd6c1caa8", null ],
-    [ "OnQuestReward", "df/ddc/a10703.html#a233712ff412081583a8295cf512da48d", null ]
+    [ "AllItemScript", "df/ddc/a10703.html#a705a1e113fe6b22608a6b560e477334f", null ],
+    [ "CanItemExpire", "df/ddc/a10703.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
+    [ "CanItemQuestAccept", "df/ddc/a10703.html#a545e2bc7436a064146025954eaf5ae92", null ],
+    [ "CanItemRemove", "df/ddc/a10703.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
+    [ "CanItemUse", "df/ddc/a10703.html#a89d237f426840658e4423fb9cc7428db", null ],
+    [ "OnItemGossipSelect", "df/ddc/a10703.html#a7157f72c6d09988b60480d1671892cde", null ],
+    [ "OnItemGossipSelectCode", "df/ddc/a10703.html#ae7409c8dff580bd85fbf82272324efea", null ]
 ];

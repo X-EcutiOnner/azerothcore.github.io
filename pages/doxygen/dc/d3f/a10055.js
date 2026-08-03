@@ -1,7 +1,7 @@
 var a10055 =
 [
-    [ "QuestItem", "dc/d3f/a10055.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
-    [ "QuestItem", "dc/d3f/a10055.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
-    [ "index", "dc/d3f/a10055.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
-    [ "is_looted", "dc/d3f/a10055.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
+    [ "extended", "dc/d3f/a10055.html#a6cd2390616ebbc07b0fa55886d1e545d", null ],
+    [ "guidLow", "dc/d3f/a10055.html#a6d6358cd25aaf909fb02e01b994a6a92", null ],
+    [ "instanceId", "dc/d3f/a10055.html#a3f4f3f829d354ccc92491445d1efd1b2", null ],
+    [ "perm", "dc/d3f/a10055.html#a73b641d14a2d5d9781f706ccc2865415", null ]
 ];

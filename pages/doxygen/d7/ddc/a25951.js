@@ -1,6 +1,7 @@
 var a25951 =
 [
-    [ "HandleOpenObject", "d7/ddc/a25951.html#ab658c13615fac1861470bb4b853e76a4", null ],
-    [ "PrepareSpellScript", "d7/ddc/a25951.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
-    [ "Register", "d7/ddc/a25951.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
+    [ "HandleProc", "d7/ddc/a25951.html#a9d23a4c0986f56e08c5e687ddae621f9", null ],
+    [ "PrepareAuraScript", "d7/ddc/a25951.html#a37d8d2e9c4618ecbbf314b98286e28b9", null ],
+    [ "Register", "d7/ddc/a25951.html#a2e1b7aed322de7023075fdd69660f2f6", null ],
+    [ "Validate", "d7/ddc/a25951.html#a6e807b19f98f8237e5d6f254cb0987a6", null ]
 ];

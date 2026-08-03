@@ -1,7 +1,8 @@
 var a12967 =
 [
-    [ "HandlePeriodic", "df/d16/a12967.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "df/d16/a12967.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "df/d16/a12967.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "df/d16/a12967.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "FilterTargets", "df/d16/a12967.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
+    [ "FilterTargetsEff", "df/d16/a12967.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
+    [ "PrepareSpellScript", "df/d16/a12967.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
+    [ "Register", "df/d16/a12967.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
+    [ "targetList", "df/d16/a12967.html#a874dc7877ecfae332c9f826f01afce0f", null ]
 ];

@@ -1,6 +1,6 @@
 var a21335 =
 [
-    [ "npc_nerubar_victimAI", "d0/d99/a21339.html", "d0/d99/a21339" ],
-    [ "npc_nerubar_victim", "d3/d72/a21335.html#a4fe80597d3e56776f0f04965fc706097", null ],
-    [ "GetAI", "d3/d72/a21335.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
+    [ "HandleDummyEffect", "d3/d72/a21335.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
+    [ "PrepareSpellScript", "d3/d72/a21335.html#a07376c95cb2ec41d86a24be59094d207", null ],
+    [ "Register", "d3/d72/a21335.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
 ];

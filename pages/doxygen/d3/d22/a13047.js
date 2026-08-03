@@ -1,7 +1,10 @@
 var a13047 =
 [
-    [ "npc_kernobeeAI", "d3/dd4/a13051.html", "d3/dd4/a13051" ],
-    [ "npc_kernobee", "d3/d22/a13047.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
-    [ "GetAI", "d3/d22/a13047.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
-    [ "OnQuestAccept", "d3/d22/a13047.html#aa830285cf19211b8233620257735ab62", null ]
+    [ "boss_golemagg", "d3/d22/a13047.html#ac7a23be0a51bd73b5c5b8215ba31412e", null ],
+    [ "DamageTaken", "d3/d22/a13047.html#acf0917a65764074ebb11d51cb537c2f5", null ],
+    [ "Reset", "d3/d22/a13047.html#ac663539bac3bcd858dfbfba6095172dd", null ],
+    [ "UpdateAI", "d3/d22/a13047.html#aa68a9ff1858591b65ad650c18954bdea", null ],
+    [ "earthquakeTimer", "d3/d22/a13047.html#ad581b8e54e08342041886b180c139db0", null ],
+    [ "enraged", "d3/d22/a13047.html#a27a5041fcf93a3da6fe2130af24de386", null ],
+    [ "pyroblastTimer", "d3/d22/a13047.html#aae54e1e74dd44329af4f66bf26b2e277", null ]
 ];

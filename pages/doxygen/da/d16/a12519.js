@@ -1,15 +1,12 @@
 var a12519 =
 [
-    [ "worldstate_commandscript", "da/d16/a12519.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
-    [ "GetCommands", "da/d16/a12519.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
-    [ "HandleScourgeInvasionBattlesWonCommand", "da/d16/a12519.html#a1c2167ce554327d674161b7c4f63585c", null ],
-    [ "HandleScourgeInvasionCommand", "da/d16/a12519.html#a11aeedef82a93f8799fd788a8c492335", null ],
-    [ "HandleScourgeInvasionStartZone", "da/d16/a12519.html#af242372bd32ed79d839af82f82423837", null ],
-    [ "HandleScourgeInvasionStateCommand", "da/d16/a12519.html#a5ba0b973087f921dbb764037c8b36134", null ],
-    [ "HandleSunsReachReclamationCounterCommand", "da/d16/a12519.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
-    [ "HandleSunsReachReclamationPhaseCommand", "da/d16/a12519.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
-    [ "HandleSunsReachReclamationStatusCommand", "da/d16/a12519.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
-    [ "HandleSunsReachReclamationSubPhaseCommand", "da/d16/a12519.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
-    [ "HandleSunwellGateCommand", "da/d16/a12519.html#a45b73e47c8e9b21063d02922a83e103b", null ],
-    [ "HandleSunwellGateCounterCommand", "da/d16/a12519.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
+    [ "message_commandscript", "da/d16/a12519.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
+    [ "GetCommands", "da/d16/a12519.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
+    [ "HandleAnnounceCommand", "da/d16/a12519.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
+    [ "HandleGMAnnounceCommand", "da/d16/a12519.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
+    [ "HandleGMNameAnnounceCommand", "da/d16/a12519.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
+    [ "HandleGMNotifyCommand", "da/d16/a12519.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
+    [ "HandleNameAnnounceCommand", "da/d16/a12519.html#a786902b70345712c6dba9f638695dd9e", null ],
+    [ "HandleNotifyCommand", "da/d16/a12519.html#a0d53b2414931451b30abd2fe5acee1af", null ],
+    [ "HandleWhispersCommand", "da/d16/a12519.html#a9a02c97677250136f9717968a9f47b73", null ]
 ];

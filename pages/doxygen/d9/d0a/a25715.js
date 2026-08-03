@@ -1,8 +1,6 @@
 var a25715 =
 [
-    [ "HandleDummy", "d9/d0a/a25715.html#a0604906219798bec87624f8179292317", null ],
-    [ "Load", "d9/d0a/a25715.html#a99d0d9dd5818a9252536879a3a1dab66", null ],
-    [ "PrepareSpellScript", "d9/d0a/a25715.html#a51602256218ee899b7391b2b7af0ee7b", null ],
-    [ "Register", "d9/d0a/a25715.html#a7b065390e95c9673a28d1c49158766ff", null ],
-    [ "Validate", "d9/d0a/a25715.html#a0bf9973fae74a700623805352908aa69", null ]
+    [ "CheckCast", "d9/d0a/a25715.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
+    [ "PrepareSpellScript", "d9/d0a/a25715.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
+    [ "Register", "d9/d0a/a25715.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
 ];

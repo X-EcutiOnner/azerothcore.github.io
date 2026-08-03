@@ -1,7 +1,7 @@
 var a02975 =
 [
-    [ "boss_maiden_of_grief", "d2/d54/a20014.html", "d2/d54/a20014" ],
-    [ "boss_maiden_of_grief::boss_maiden_of_griefAI", "d2/ddf/a20018.html", "d2/ddf/a20018" ],
+    [ "boss_maiden_of_grief", "d2/d20/a20011.html", "d2/d20/a20011" ],
+    [ "boss_maiden_of_grief::boss_maiden_of_griefAI", "df/d37/a20015.html", "df/d37/a20015" ],
     [ "maidenEvents", "d1/d24/a02975.html#aea422c10a74cba6e6b02928aed3498fa", [
       [ "EVENT_NONE", "d1/d24/a02975.html#aea422c10a74cba6e6b02928aed3498faa939a6cc6d749a232a23ff324dca6d48c", null ],
       [ "EVENT_STORM", "d1/d24/a02975.html#aea422c10a74cba6e6b02928aed3498faab8f407096c5f3f605cb87401cd5dd01e", null ],

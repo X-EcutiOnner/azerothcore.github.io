@@ -1,12 +1,13 @@
 var a15255 =
 [
-    [ "boss_lieutenant_drake", "df/d27/a15255.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
-    [ "InitializeAI", "df/d27/a15255.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
-    [ "JustDied", "df/d27/a15255.html#aca7654e30aac96fa509f99f3447121ec", null ],
-    [ "JustEngagedWith", "df/d27/a15255.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
-    [ "KilledUnit", "df/d27/a15255.html#a833c889c28ea35a6198fe753b604a8ed", null ],
-    [ "MovementInform", "df/d27/a15255.html#aec6e332bc5739552cbbec27569c55759", null ],
-    [ "UpdateAI", "df/d27/a15255.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
-    [ "pathId", "df/d27/a15255.html#ac63f9c885296a797799c0cd83b0ade64", null ],
-    [ "runSecondPath", "df/d27/a15255.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
+    [ "boss_infinite_corruptorAI", "df/d27/a15255.html#add36192941eaabf7f3d1d41c572783bd", null ],
+    [ "DoAction", "df/d27/a15255.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
+    [ "JustDied", "df/d27/a15255.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
+    [ "JustEngagedWith", "df/d27/a15255.html#a644725505db4fc7a98c4255d0eb34616", null ],
+    [ "JustSummoned", "df/d27/a15255.html#a2b12c03184b169a56a0e6696a107dc35", null ],
+    [ "Reset", "df/d27/a15255.html#a4dbff495bfcda6fb715dec68616e1764", null ],
+    [ "UpdateAI", "df/d27/a15255.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
+    [ "beamTimer", "df/d27/a15255.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
+    [ "events", "df/d27/a15255.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
+    [ "summons", "df/d27/a15255.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
 ];

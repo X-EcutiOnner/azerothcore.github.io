@@ -1,22 +1,13 @@
 var a19839 =
 [
-    [ "boss_volkhan", "d2/dcb/a19839.html#aed5ec3ddb0fcff2a96d8ef8c0135b728", null ],
-    [ "DoAction", "d2/dcb/a19839.html#a51f1c6cf70be4f7c534b04c8663b3b46", null ],
-    [ "GetNextPos", "d2/dcb/a19839.html#a26e6fea3ae1c0cd17bc57b9ff1ccefa6", null ],
-    [ "GoToAnvil", "d2/dcb/a19839.html#a7c4550a151110cd0a1224629726f846e", null ],
-    [ "HasActiveGolem", "d2/dcb/a19839.html#a31f94b488a7c659af73fd68f58d0a8ed", null ],
-    [ "JustDied", "d2/dcb/a19839.html#acc8230a2351ae0fb2309071a03a32ded", null ],
-    [ "JustEngagedWith", "d2/dcb/a19839.html#a455d3fa27b8923dc74a676e10ff3ec46", null ],
-    [ "JustSummoned", "d2/dcb/a19839.html#a4028f7914da8580382348e444c0107c0", null ],
-    [ "KilledUnit", "d2/dcb/a19839.html#aac8893e2caa527ad4949a88121d38075", null ],
-    [ "MovementInform", "d2/dcb/a19839.html#ab17e425121949c9229b689676bd106c2", null ],
-    [ "Reset", "d2/dcb/a19839.html#a3f12d464fa4d471f905962ed9fc4237e", null ],
-    [ "SpellHitTarget", "d2/dcb/a19839.html#a87e14a0076a263b160d00d917e5fde2e", null ],
-    [ "UpdateAI", "d2/dcb/a19839.html#a6ab1851c270e58d0157949fd323aa693", null ],
-    [ "PointID", "d2/dcb/a19839.html#adfc8f7e938fdb89e3961bb8e5346ad49", null ],
-    [ "ShatteredCount", "d2/dcb/a19839.html#ab309004bce968bb858722b6bb1936b97", null ],
-    [ "shatteredStompCast", "d2/dcb/a19839.html#aa31c9cab5a6d0b053dcbb59eed250cff", null ],
-    [ "x", "d2/dcb/a19839.html#a3c8fcf00e363b3c195ce29c49fbb12c8", null ],
-    [ "y", "d2/dcb/a19839.html#aa61700b296b51c758e34753251f9c626", null ],
-    [ "z", "d2/dcb/a19839.html#a78e5238c287a005f79764c221a38ee41", null ]
+    [ "npc_oculus_unstable_sphereAI", "d2/dcb/a19839.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
+    [ "AttackStart", "d2/dcb/a19839.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
+    [ "MoveInLineOfSight", "d2/dcb/a19839.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
+    [ "MovementInform", "d2/dcb/a19839.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
+    [ "PickNewLocation", "d2/dcb/a19839.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
+    [ "Reset", "d2/dcb/a19839.html#ac2e391d0149b62823ac9074d45c694cf", null ],
+    [ "UpdateAI", "d2/dcb/a19839.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
+    [ "gonext", "d2/dcb/a19839.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
+    [ "located", "d2/dcb/a19839.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
+    [ "timer", "d2/dcb/a19839.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
 ];

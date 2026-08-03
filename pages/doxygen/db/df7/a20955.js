@@ -1,9 +1,6 @@
 var a20955 =
 [
-    [ "npc_vrykul_skeleton", "db/df7/a20955.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
-    [ "DamageTaken", "db/df7/a20955.html#a840244c4183987e4fda533edb2ddeff2", null ],
-    [ "Reset", "db/df7/a20955.html#af950342b2177c84c101485736855b998", null ],
-    [ "UpdateAI", "db/df7/a20955.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
-    [ "events", "db/df7/a20955.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
-    [ "pInstance", "db/df7/a20955.html#a834f0162540683c20f9fa0f9e32eee33", null ]
+    [ "x", "db/df7/a20955.html#ae4223168378b602a0a96dbb424a22be4", null ],
+    [ "y", "db/df7/a20955.html#a30f361d8104e4de44541d75945105963", null ],
+    [ "z", "db/df7/a20955.html#ae68a79519c35302b89976ac29bb77e26", null ]
 ];

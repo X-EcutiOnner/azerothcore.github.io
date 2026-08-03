@@ -1,7 +1,6 @@
 var a17743 =
 [
-    [ "OnProc", "de/ded/a17743.html#a5b6e96abb900da33657cdbbd137138e3", null ],
-    [ "PrepareAuraScript", "de/ded/a17743.html#a5502476536a923e77af67c4bbcf005e3", null ],
-    [ "Register", "de/ded/a17743.html#aca08edf219504156d6157c95702bb815", null ],
-    [ "Validate", "de/ded/a17743.html#a52b1231f37e8b3d810614365659a98b6", null ]
+    [ "AddExtraDamage", "de/ded/a17743.html#adeedfdd7555dfd009c99db6f002f7488", null ],
+    [ "PrepareSpellScript", "de/ded/a17743.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
+    [ "Register", "de/ded/a17743.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
 ];

@@ -1,10 +1,9 @@
 var a18595 =
 [
-    [ "npc_shambling_horror_iccAI", "d8/d2b/a18595.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
-    [ "CanAIAttack", "d8/d2b/a18595.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
-    [ "DamageTaken", "d8/d2b/a18595.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
-    [ "Reset", "d8/d2b/a18595.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
-    [ "UpdateAI", "d8/d2b/a18595.html#abae6058591022057e93d48da3db1b8bc", null ],
-    [ "_events", "d8/d2b/a18595.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
-    [ "_frenzied", "d8/d2b/a18595.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
+    [ "ShadowTrapLKTargetSelector", "d8/d2b/a18595.html#a33561775948e07ac6ade2037f237441d", null ],
+    [ "operator()", "d8/d2b/a18595.html#a3770329509c6ab2f16ae369ea8d72645", null ],
+    [ "_maxDist", "d8/d2b/a18595.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
+    [ "_playerOnly", "d8/d2b/a18595.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
+    [ "_reqLOS", "d8/d2b/a18595.html#a7911be23196f59d55028affc3be23c20", null ],
+    [ "_source", "d8/d2b/a18595.html#af416013aabf3b217b07228072076603d", null ]
 ];

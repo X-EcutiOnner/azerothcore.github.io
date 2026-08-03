@@ -1,5 +1,6 @@
 var a27723 =
 [
-    [ "achievement_bg_ic_glaive_grave", "de/d8d/a27723.html#a97e1cead0102a120b3bd14592ea26034", null ],
-    [ "OnCheck", "de/d8d/a27723.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
+    [ "FilterTargets", "de/d8d/a27723.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
+    [ "PrepareSpellScript", "de/d8d/a27723.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
+    [ "Register", "de/d8d/a27723.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
 ];

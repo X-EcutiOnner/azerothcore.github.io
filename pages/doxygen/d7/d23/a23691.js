@@ -1,7 +1,7 @@
 var a23691 =
 [
-    [ "HandleDamage", "d7/d23/a23691.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "d7/d23/a23691.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "d7/d23/a23691.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "d7/d23/a23691.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "FilterTargets", "d7/d23/a23691.html#a834163302ff10875227806d7d4945988", null ],
+    [ "HandleScriptEffect", "d7/d23/a23691.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
+    [ "PrepareSpellScript", "d7/d23/a23691.html#a079e72d57550e03956088b4be1d11422", null ],
+    [ "Register", "d7/d23/a23691.html#abd4e0f268652652d3828ba8d350de849", null ]
 ];

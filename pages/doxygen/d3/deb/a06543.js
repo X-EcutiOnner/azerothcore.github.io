@@ -1,6 +1,10 @@
 var a06543 =
 [
-    [ "EntryCheckPredicate", "d3/deb/a06543.html#a23365e4591c0906f5d04db7dc6599fbf", null ],
-    [ "operator()", "d3/deb/a06543.html#ab384b205f8a719e1b5b0d0ab00575313", null ],
-    [ "_entry", "d3/deb/a06543.html#aa83f4537369e740de2d689252409d269", null ]
+    [ "PowerUsersSelector", "d3/deb/a06543.html#aa13229f12601a551a34628b92c0eddf3", null ],
+    [ "operator()", "d3/deb/a06543.html#ac93e678f198787fd6691e0bb8d63d6e3", null ],
+    [ "_dist", "d3/deb/a06543.html#a1c63646bffb486c51ca07e0f8a70dd59", null ],
+    [ "_me", "d3/deb/a06543.html#a7f6dda10c26982d9633fae57b64af7ef", null ],
+    [ "_playerOnly", "d3/deb/a06543.html#aea809984a6dd46c22f414e44c9794309", null ],
+    [ "_power", "d3/deb/a06543.html#a9a518903606768e505e7230fe9344bbf", null ],
+    [ "_withTank", "d3/deb/a06543.html#a0b682b6d926ced8eecff642a4bb51756", null ]
 ];

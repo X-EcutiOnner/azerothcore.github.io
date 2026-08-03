@@ -1,10 +1,8 @@
 var a10087 =
 [
-    [ "MailReceiver", "db/dfb/a10087.html#a6fba3ff0ab3167197f569631d766ce14", null ],
-    [ "MailReceiver", "db/dfb/a10087.html#af0b094a704463ed76b1c08bc3cab0380", null ],
-    [ "MailReceiver", "db/dfb/a10087.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
-    [ "GetPlayer", "db/dfb/a10087.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
-    [ "GetPlayerGUIDLow", "db/dfb/a10087.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
-    [ "m_receiver", "db/dfb/a10087.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
-    [ "m_receiver_lowguid", "db/dfb/a10087.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
+    [ "BossInfo", "db/dfb/a10087.html#a455f533d647927d182176c3cceb21f42", null ],
+    [ "boundary", "db/dfb/a10087.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
+    [ "door", "db/dfb/a10087.html#a858af8825ed4fe183ee19b6f10239304", null ],
+    [ "minion", "db/dfb/a10087.html#abec1469d41f286d02c34223171373cd3", null ],
+    [ "state", "db/dfb/a10087.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
 ];

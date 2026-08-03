@@ -1,9 +1,9 @@
 var a23783 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d4/d80/a23783.html#a273d585416dc92d39d5ec3824c08504d", null ],
-    [ "IsSummonedBy", "d4/d80/a23783.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
-    [ "Reset", "d4/d80/a23783.html#a06fa50580efeab8d847a05f20956d175", null ],
-    [ "UpdateAI", "d4/d80/a23783.html#a8261a259cfbee0d3610ee441406fafcd", null ],
-    [ "playerGuid", "d4/d80/a23783.html#aab717dd49284c483759a6223dbd7e6ea", null ],
-    [ "timer", "d4/d80/a23783.html#afba1b71178c563a3db906057cd20de45", null ]
+    [ "boss_high_botanist_freywinn", "d4/d80/a23783.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
+    [ "JustDied", "d4/d80/a23783.html#a7b370482ea195d0305cba339ce0cbab3", null ],
+    [ "JustEngagedWith", "d4/d80/a23783.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
+    [ "KilledUnit", "d4/d80/a23783.html#a80a997e0d12c175da0a46d7362890b9c", null ],
+    [ "ResumeEncounter", "d4/d80/a23783.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
+    [ "SummonedCreatureDies", "d4/d80/a23783.html#a7f1a02d4b944191471f59ba728b6372e", null ]
 ];

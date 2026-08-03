@@ -1,8 +1,7 @@
 var a15911 =
 [
-    [ "FilterTargets", "d8/d43/a15911.html#a47b8055fa1b28968e8323ca98613aa83", null ],
-    [ "HandleScript", "d8/d43/a15911.html#a8f7984e510d8947a2ae4b0734409866b", null ],
-    [ "PrepareSpellScript", "d8/d43/a15911.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
-    [ "Register", "d8/d43/a15911.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
-    [ "Validate", "d8/d43/a15911.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
+    [ "npc_prospector_remtravelAI", "dc/dde/a15915.html", "dc/dde/a15915" ],
+    [ "npc_prospector_remtravel", "d8/d43/a15911.html#aa213161fc60e615682252125f6c58f7f", null ],
+    [ "GetAI", "d8/d43/a15911.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
+    [ "OnQuestAccept", "d8/d43/a15911.html#a4bc2e5264a7a2184bf8d90b7d4045cc8", null ]
 ];

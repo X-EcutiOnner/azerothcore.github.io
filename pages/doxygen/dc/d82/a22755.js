@@ -1,11 +1,6 @@
 var a22755 =
 [
-    [ "boss_supremus", "dc/d82/a22755.html#af1f094534b0e2dec70422839a02327cd", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "dc/d82/a22755.html#a2654bf5b1d5b6da723d4968219e069a9", null ],
-    [ "FindHatefulStrikeTarget", "dc/d82/a22755.html#af560466902d0d372662020e1a67b627c", null ],
-    [ "JustEngagedWith", "dc/d82/a22755.html#a7d3a5e2c183db7639a7c25f309359ed1", null ],
-    [ "JustSummoned", "dc/d82/a22755.html#a7265a01fa79213ab6d8b82a4c92b7661", null ],
-    [ "Reset", "dc/d82/a22755.html#a0eaa29849a2571417d4826d238d72e25", null ],
-    [ "SchedulePhase", "dc/d82/a22755.html#a87e3943d6c645138853aa97644f9df0e", null ],
-    [ "SummonedCreatureDespawn", "dc/d82/a22755.html#a2ae72bfef577654e676a64eb2e4efa7a", null ]
+    [ "HandleScriptEffect", "dc/d82/a22755.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "dc/d82/a22755.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "dc/d82/a22755.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

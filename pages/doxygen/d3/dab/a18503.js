@@ -1,6 +1,6 @@
 var a18503 =
 [
-    [ "HandleScript", "d3/dab/a18503.html#a038a827f7fe179ff56ab581efdf08790", null ],
-    [ "PrepareSpellScript", "d3/dab/a18503.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
-    [ "Register", "d3/dab/a18503.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
+    [ "HandleSpecial", "d3/dab/a18503.html#afa540e8c748ca3083667528e2449bc65", null ],
+    [ "PrepareSpellScript", "d3/dab/a18503.html#a9472211ffdaa33802099b22b2a721645", null ],
+    [ "Register", "d3/dab/a18503.html#ab868b10372ff2ef401d19b126acf00c6", null ]
 ];

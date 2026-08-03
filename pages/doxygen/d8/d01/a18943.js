@@ -1,13 +1,8 @@
 var a18943 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d8/d01/a18943.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
-    [ "Reset", "d8/d01/a18943.html#a80051b1b2a663997304b1754a3f9ff25", null ],
-    [ "SetData", "d8/d01/a18943.html#a5642aab7afc50a7494c43ae7a130d571", null ],
-    [ "UpdateAI", "d8/d01/a18943.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
-    [ "_bolvarFordragon", "d8/d01/a18943.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
-    [ "_damnedKills", "d8/d01/a18943.html#a56e035884d2ab94629c133efc1fc8feb", null ],
-    [ "_events", "d8/d01/a18943.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
-    [ "_factionNPC", "d8/d01/a18943.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
-    [ "_instance", "d8/d01/a18943.html#acd16d6200b08df23576aa9ccbb060d31", null ],
-    [ "_theLichKing", "d8/d01/a18943.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
+    [ "npc_suppresserAI", "d8/d01/a18943.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "d8/d01/a18943.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "d8/d01/a18943.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "d8/d01/a18943.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "d8/d01/a18943.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

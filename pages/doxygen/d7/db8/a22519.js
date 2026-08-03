@@ -1,8 +1,13 @@
 var a22519 =
 [
-    [ "npc_parasitic_shadowfiend", "d7/db8/a22519.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
-    [ "CanAIAttack", "d7/db8/a22519.html#ac7600aed313f1413cb9b522d60d30329", null ],
-    [ "EnterEvadeMode", "d7/db8/a22519.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
-    [ "IsSummonedBy", "d7/db8/a22519.html#a306c696d4243c4525d0a3908a212135d", null ],
-    [ "UpdateAI", "d7/db8/a22519.html#a2706a4ba7876f299b02d2e720f512af2", null ]
+    [ "OPvPCapturePointEP_EWT", "d7/db8/a22519.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
+    [ "ChangeState", "d7/db8/a22519.html#ac00c50b89e1218f87506778096a9d7cd", null ],
+    [ "FillInitialWorldStates", "d7/db8/a22519.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
+    [ "HandlePlayerEnter", "d7/db8/a22519.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
+    [ "HandlePlayerLeave", "d7/db8/a22519.html#a2638b24dca375420778845963e307db3", null ],
+    [ "SendChangePhase", "d7/db8/a22519.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
+    [ "SummonSupportUnitAtNorthpassTower", "d7/db8/a22519.html#ad70a8cc485072cd9af892290584062d8", null ],
+    [ "UpdateTowerState", "d7/db8/a22519.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
+    [ "m_TowerState", "d7/db8/a22519.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
+    [ "m_UnitsSummonedSideId", "d7/db8/a22519.html#a0319f0d51624df44419976e7abd1b813", null ]
 ];

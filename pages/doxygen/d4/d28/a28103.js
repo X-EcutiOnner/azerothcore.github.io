@@ -1,10 +1,6 @@
 var a28103 =
 [
-    [ "guard_shattrath_aldorAI", "d4/d28/a28103.html#a88961dfe4100dfe207af693a1eed86ad", null ],
-    [ "Reset", "d4/d28/a28103.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
-    [ "UpdateAI", "d4/d28/a28103.html#ac87ee12d4487971b68c70f06f63eb410", null ],
-    [ "banishTimer", "d4/d28/a28103.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
-    [ "canTeleport", "d4/d28/a28103.html#af4d933b56431d2f2755d87fb05922458", null ],
-    [ "exileTimer", "d4/d28/a28103.html#a8d56205206f3e14184922f96873456ad", null ],
-    [ "playerGUID", "d4/d28/a28103.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
+    [ "npc_dream_fogAI", "de/d44/a28107.html", "de/d44/a28107" ],
+    [ "npc_dream_fog", "d4/d28/a28103.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "d4/d28/a28103.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

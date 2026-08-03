@@ -1,7 +1,10 @@
 var a21615 =
 [
-    [ "FilterTargets", "db/d90/a21615.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "db/d90/a21615.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "db/d90/a21615.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "db/d90/a21615.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "npc_bonker_togglevoltAI", "db/d90/a21615.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "db/d90/a21615.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "db/d90/a21615.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "db/d90/a21615.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "db/d90/a21615.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "WaypointReached", "db/d90/a21615.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "Bonker_agro", "db/d90/a21615.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

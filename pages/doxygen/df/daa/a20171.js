@@ -1,6 +1,6 @@
 var a20171 =
 [
-    [ "PrepareSpellScript", "df/daa/a20171.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
-    [ "RecalculateDamage", "df/daa/a20171.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
-    [ "Register", "df/daa/a20171.html#af2b5382122be41a6b1ee4ab721b417da", null ]
+    [ "HandleInstaKill", "df/daa/a20171.html#a9371a2cc86616fd04e47939d45f01cae", null ],
+    [ "PrepareSpellScript", "df/daa/a20171.html#a38eed301f1db3ea7ac15b626e5927500", null ],
+    [ "Register", "df/daa/a20171.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
 ];

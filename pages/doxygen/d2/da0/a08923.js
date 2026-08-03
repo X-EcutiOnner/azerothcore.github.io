@@ -1,7 +1,8 @@
 var a08923 =
 [
-    [ "SetRuneState", "d2/da0/a08923.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
-    [ "lastUsedRune", "d2/da0/a08923.html#a88c702716eb3032c20ae5ed74922d923", null ],
-    [ "runes", "d2/da0/a08923.html#aac485530bfa81d54d9da3213fe917c29", null ],
-    [ "runeState", "d2/da0/a08923.html#ae58297e0766578b234604a97641501a1", null ]
+    [ "IsInSpec", "d2/da0/a08923.html#a77968b5562467f85bda04b6f2f41ca29", null ],
+    [ "inSpellBook", "d2/da0/a08923.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
+    [ "specMask", "d2/da0/a08923.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
+    [ "State", "d2/da0/a08923.html#a062758af7e92f7e2263ca0a0fd329151", null ],
+    [ "talentID", "d2/da0/a08923.html#aca9b191361652002f5178179a939e41b", null ]
 ];

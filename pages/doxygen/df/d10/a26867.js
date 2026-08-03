@@ -1,8 +1,8 @@
 var a26867 =
 [
-    [ "HandleDummy", "df/d10/a26867.html#a923fa966dc7109f7cb02c25bbd23b0ff", null ],
-    [ "Load", "df/d10/a26867.html#a5b336f402a256c80d8d3f8c5b1cbda2f", null ],
-    [ "PrepareSpellScript", "df/d10/a26867.html#a79dc24ba1f2f059d77a06b457a78fcf1", null ],
-    [ "Register", "df/d10/a26867.html#afb1c744f263b21c30a5dfd3675acb364", null ],
-    [ "Validate", "df/d10/a26867.html#acaaeacf371538cafbbb4cc7cc036280e", null ]
+    [ "CheckProc", "df/d10/a26867.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
+    [ "HandleProc", "df/d10/a26867.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
+    [ "PrepareAuraScript", "df/d10/a26867.html#a876c1bda52c99c52249444414196b1d4", null ],
+    [ "Register", "df/d10/a26867.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
+    [ "Validate", "df/d10/a26867.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
 ];

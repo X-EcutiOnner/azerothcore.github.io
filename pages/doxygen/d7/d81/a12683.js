@@ -1,8 +1,8 @@
 var a12683 =
 [
-    [ "boss_highlord_omokk", "d7/d81/a12683.html#a31dd2c47b3ed33fa65d3b6a7a5cb384c", null ],
-    [ "JustDied", "d7/d81/a12683.html#a2a8931227eb65759ceebd27919976cb5", null ],
-    [ "JustEngagedWith", "d7/d81/a12683.html#a0bd4e1e0f72a0b6a8792d508c401caf8", null ],
-    [ "Reset", "d7/d81/a12683.html#ada6bf702dc1827e60b558b4fb752b789", null ],
-    [ "UpdateAI", "d7/d81/a12683.html#a131ebd1dd8d95c7d910af1b21442c861", null ]
+    [ "brd_ironhand_guardian", "d7/d81/a12683.html#a635a59a53948b6e252a15384d784a969", null ],
+    [ "SetData", "d7/d81/a12683.html#a7677681c4d39ed73f4143caa66a1a5de", null ],
+    [ "UpdateAI", "d7/d81/a12683.html#a8840ead9b577888ec2ac15d68ddffe71", null ],
+    [ "_flamesEnabled", "d7/d81/a12683.html#a1b162039fc21a7eddddd22ed9c97e9cb", null ],
+    [ "events", "d7/d81/a12683.html#a01047164b0728cb6d08a7f41cf092a58", null ]
 ];

@@ -1,4 +1,7 @@
 var a19063 =
 [
-    [ "operator()", "d8/d07/a19063.html#a57b4f62b35a093665bb32073a086b8c5", null ]
+    [ "npc_captain_arnathAI", "d8/d07/a19063.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "d8/d07/a19063.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "d8/d07/a19063.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "d8/d07/a19063.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

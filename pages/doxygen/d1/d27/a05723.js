@@ -1,6 +1,8 @@
 var a05723 =
 [
-    [ "Lock", "d1/d27/a05723.html#a0f0b6620e023294fface21ac3f893bdf", null ],
-    [ "Lock", "d1/d27/a05723.html#a415c0e24ca5ab6bc6956ac4d43db0a29", null ],
-    [ "Lock", "d1/d27/a05723.html#a887ed48e8f289cf90fa89870dd53477a", null ]
+    [ "LogOperation", "d1/d27/a05723.html#a19e5e4731bd71697876110348f86d737", null ],
+    [ "~LogOperation", "d1/d27/a05723.html#aae305e293044badac1a628edd501ed35", null ],
+    [ "call", "d1/d27/a05723.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
+    [ "logger", "d1/d27/a05723.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
+    [ "msg", "d1/d27/a05723.html#a665effc48367f396f3e714f5d3d56d75", null ]
 ];

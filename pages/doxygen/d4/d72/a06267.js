@@ -1,6 +1,10 @@
 var a06267 =
 [
-    [ "changed", "d4/d72/a06267.html#af0cf916cd514f64f53f98c108ff63591", null ],
-    [ "counter", "d4/d72/a06267.html#a5ba0b1002e0bfd61ad17b2130a207cb1", null ],
-    [ "date", "d4/d72/a06267.html#a9a6769cf4ca7ba55752adc8cdeba71f5", null ]
+    [ "TransactionCallback", "d4/d72/a06267.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
+    [ "TransactionCallback", "d4/d72/a06267.html#adeff62976c11d9d90169e4650640118b", null ],
+    [ "AfterComplete", "d4/d72/a06267.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
+    [ "InvokeIfReady", "d4/d72/a06267.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
+    [ "operator=", "d4/d72/a06267.html#ab73d1741c21ea9fd86f65a647768e972", null ],
+    [ "m_callback", "d4/d72/a06267.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
+    [ "m_future", "d4/d72/a06267.html#a381e889074bc5ca48574d37fe6eea00f", null ]
 ];

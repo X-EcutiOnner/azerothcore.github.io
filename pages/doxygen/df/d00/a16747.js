@@ -1,8 +1,6 @@
 var a16747 =
 [
-    [ "npc_announcer_toc5AI", "df/d00/a16747.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
-    [ "DamageTaken", "df/d00/a16747.html#a53458483699ac026ff2cd36b5f061571", null ],
-    [ "MovementInform", "df/d00/a16747.html#acdcf4110b3815635ad173a70e7a1e603", null ],
-    [ "Reset", "df/d00/a16747.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
-    [ "UpdateAI", "df/d00/a16747.html#ad2c596253d67d051f497a8d77859846d", null ]
+    [ "FilterTargets", "df/d00/a16747.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
+    [ "PrepareSpellScript", "df/d00/a16747.html#a5ede43deece629a38f5482280983b59a", null ],
+    [ "Register", "df/d00/a16747.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
 ];

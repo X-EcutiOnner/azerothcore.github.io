@@ -1,7 +1,6 @@
 var a18371 =
 [
-    [ "FrostBombExplosion", "d3/dad/a18371.html#ac7d318e241e6442e8aa084b27ea50236", null ],
-    [ "Execute", "d3/dad/a18371.html#a0b6521266f18b621260286c530ff3f36", null ],
-    [ "_owner", "d3/dad/a18371.html#aa9ff39ce43c351e8815f895896fa759b", null ],
-    [ "_sindragosaGUID", "d3/dad/a18371.html#a5afc3d543c8fa457c90735f841aa161c", null ]
+    [ "ExtraEffect", "d3/dad/a18371.html#a10dfb36a835589208482e1c8833d8f46", null ],
+    [ "PrepareSpellScript", "d3/dad/a18371.html#a972ff2bdc7d3660820e05326600be6f6", null ],
+    [ "Register", "d3/dad/a18371.html#ae337e67a220b72b44878d02be33e3888", null ]
 ];

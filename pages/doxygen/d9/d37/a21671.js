@@ -1,8 +1,7 @@
 var a21671 =
 [
-    [ "OnRemove", "d9/d37/a21671.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
-    [ "PrepareAuraScript", "d9/d37/a21671.html#a183b5a3b1332695e3c047bb63435389a", null ],
-    [ "Register", "d9/d37/a21671.html#aad41ab76cc0a882f272e8f79867a7015", null ],
-    [ "Validate", "d9/d37/a21671.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
-    [ "spellIds", "d9/d37/a21671.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
+    [ "npc_warmage_violetstand", "d9/d37/a21671.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "d9/d37/a21671.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "d9/d37/a21671.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "d9/d37/a21671.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

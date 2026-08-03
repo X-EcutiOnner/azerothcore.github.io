@@ -1,10 +1,10 @@
 var a01595 =
 [
-    [ "GroupQueueInfo", "db/d64/a07722.html", "db/d64/a07722" ],
-    [ "BattlegroundQueue", "d8/d58/a07726.html", "d8/d58/a07726" ],
-    [ "BattlegroundQueue::SelectionPool", "d9/d1c/a07730.html", "d9/d1c/a07730" ],
-    [ "BGQueueInviteEvent", "d1/d4c/a07734.html", "d1/d4c/a07734" ],
-    [ "BGQueueRemoveEvent", "d3/d49/a07738.html", "d3/d49/a07738" ],
+    [ "GroupQueueInfo", "d8/d20/a07727.html", "d8/d20/a07727" ],
+    [ "BattlegroundQueue", "d3/d50/a07731.html", "d3/d50/a07731" ],
+    [ "BattlegroundQueue::SelectionPool", "db/dfa/a07735.html", "db/dfa/a07735" ],
+    [ "BGQueueInviteEvent", "d2/dc4/a07739.html", "d2/dc4/a07739" ],
+    [ "BGQueueRemoveEvent", "d1/ddf/a07743.html", "d1/ddf/a07743" ],
     [ "BattlegroundQueueGroupTypes", "dc/dbf/a01595.html#a589e9d4a3badd48f91fddc2afa661b17", [
       [ "BG_QUEUE_PREMADE_ALLIANCE", "dc/dbf/a01595.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4", null ],
       [ "BG_QUEUE_PREMADE_HORDE", "dc/dbf/a01595.html#a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c", null ],

@@ -1,6 +1,7 @@
 var a14991 =
 [
-    [ "OnAuraRemove", "d7/d15/a14991.html#ad16e8b64999771154360afad71454c07", null ],
-    [ "PrepareAuraScript", "d7/d15/a14991.html#a70963be80861e10ecd093e40b77e7078", null ],
-    [ "Register", "d7/d15/a14991.html#a7381cbea873fb57485e4539aa478d236", null ]
+    [ "CheckProc", "d7/d15/a14991.html#a4be98e79967d43908c0f642caab59348", null ],
+    [ "OnApply", "d7/d15/a14991.html#a30d33268b58507c228a4628031bffca0", null ],
+    [ "PrepareAuraScript", "d7/d15/a14991.html#a16dc3f52152d63b5512690c761f9915a", null ],
+    [ "Register", "d7/d15/a14991.html#a6494e4d7277e910ffa3b30c333117f00", null ]
 ];

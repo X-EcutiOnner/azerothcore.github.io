@@ -1,6 +1,7 @@
 var a27979 =
 [
-    [ "go_darkmoon_faire_musicAI", "d7/de4/a27983.html", "d7/de4/a27983" ],
-    [ "go_darkmoon_faire_music", "dd/db8/a27979.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
-    [ "GetAI", "dd/db8/a27979.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
+    [ "HandleDummy", "dd/db8/a27979.html#a120ae48454922c30b0df0a1caf464216", null ],
+    [ "PrepareSpellScript", "dd/db8/a27979.html#ad8cde850116b8d4beef798724c6e4283", null ],
+    [ "Register", "dd/db8/a27979.html#a516709e073a7cc84ada03058195da728", null ],
+    [ "Validate", "dd/db8/a27979.html#ad647af566f06c7e76ef573f670d514ca", null ]
 ];

@@ -1,7 +1,10 @@
 var a21559 =
 [
-    [ "CheckRequirement", "d5/dbc/a21559.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "d5/dbc/a21559.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "d5/dbc/a21559.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "d5/dbc/a21559.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "npc_sinkhole_kill_creditAI", "d5/dbc/a21559.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
+    [ "Reset", "d5/dbc/a21559.html#a677990d64d2963ff995d9d8522c5aa81", null ],
+    [ "SpellHit", "d5/dbc/a21559.html#a95eaf518fb18b67820d6195cd525b017", null ],
+    [ "UpdateAI", "d5/dbc/a21559.html#a75611004a543bece9d3f51914547f2fe", null ],
+    [ "casterGuid", "d5/dbc/a21559.html#a147921788b07f5e776e03aaf15049cf0", null ],
+    [ "phase", "d5/dbc/a21559.html#aa45455a8d540d6f942c948cf56d11f05", null ],
+    [ "phaseTimer", "d5/dbc/a21559.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
 ];

@@ -1,5 +1,8 @@
 var a28055 =
 [
-    [ "go_soulwellAI", "db/db1/a28055.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
-    [ "GossipHello", "db/db1/a28055.html#a3df147478af8930d9b6108a183e9478f", null ]
+    [ "CharacterActionIpLogger", "db/db1/a28055.html#a39861f7348a79031a8215b435ba81059", null ],
+    [ "CharacterIPLogAction", "db/db1/a28055.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
+    [ "OnPlayerCreate", "db/db1/a28055.html#a48844efac9d9af9c6415ad49d2473688", null ],
+    [ "OnPlayerLogin", "db/db1/a28055.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
+    [ "OnPlayerLogout", "db/db1/a28055.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
 ];

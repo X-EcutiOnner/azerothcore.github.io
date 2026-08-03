@@ -1,7 +1,5 @@
 var a23503 =
 [
-    [ "boss_zereketh_the_unbound", "db/de1/a23503.html#abb2fc5cbe7514142160818016fda1936", null ],
-    [ "JustDied", "db/de1/a23503.html#ac5d96da9a33a536f2002cce11453ded3", null ],
-    [ "JustEngagedWith", "db/de1/a23503.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
-    [ "KilledUnit", "db/de1/a23503.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
+    [ "npc_invisible_tractor_beam_source", "db/de1/a23503.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
+    [ "IsSummonedBy", "db/de1/a23503.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
 ];

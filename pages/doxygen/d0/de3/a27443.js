@@ -1,6 +1,7 @@
 var a27443 =
 [
-    [ "HandleDummy", "d0/de3/a27443.html#a2560417162a1c17cb067cdfeb2fc909d", null ],
-    [ "PrepareSpellScript", "d0/de3/a27443.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c", null ],
-    [ "Register", "d0/de3/a27443.html#a27aece218c848064ae387491f9176099", null ]
+    [ "CheckProc", "d0/de3/a27443.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
+    [ "HandleProc", "d0/de3/a27443.html#a91ee1b654a3a26e027407635a45b80b3", null ],
+    [ "PrepareAuraScript", "d0/de3/a27443.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
+    [ "Register", "d0/de3/a27443.html#ab06a732203303d5533bdc4b217640d2d", null ]
 ];

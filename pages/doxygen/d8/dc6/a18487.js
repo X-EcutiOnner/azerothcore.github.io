@@ -1,6 +1,6 @@
 var a18487 =
 [
-    [ "npc_sindragosa_trashAI", "de/d26/a18491.html", "de/d26/a18491" ],
-    [ "npc_sindragosa_trash", "d8/dc6/a18487.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
-    [ "GetAI", "d8/dc6/a18487.html#ab1de715d98236a853a793d830bc601d7", null ]
+    [ "FilterTargets", "d8/dc6/a18487.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
+    [ "PrepareSpellScript", "d8/dc6/a18487.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
+    [ "Register", "d8/dc6/a18487.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
 ];

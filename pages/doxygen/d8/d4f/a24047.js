@@ -1,6 +1,7 @@
 var a24047 =
 [
-    [ "PrepareSpellScript", "d8/d4f/a24047.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
-    [ "Register", "d8/d4f/a24047.html#ac57aee08a131bcf7db11bc105f32242c", null ],
-    [ "SetDest", "d8/d4f/a24047.html#a26362c4873890bb60c2526bf07058746", null ]
+    [ "HandleDummy", "d8/d4f/a24047.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "d8/d4f/a24047.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "d8/d4f/a24047.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "d8/d4f/a24047.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

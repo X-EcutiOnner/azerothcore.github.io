@@ -1,12 +1,11 @@
 var a13315 =
 [
-    [ "boss_felblood_kaelthas", "d3/d7c/a13315.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
-    [ "DamageTaken", "d3/d7c/a13315.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
-    [ "DoAction", "d3/d7c/a13315.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
-    [ "GravityLapseSequence", "d3/d7c/a13315.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
-    [ "JustDied", "d3/d7c/a13315.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
-    [ "JustEngagedWith", "d3/d7c/a13315.html#a1d8806d7813d11aa61e043e420852218", null ],
-    [ "LapseAction", "d3/d7c/a13315.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
-    [ "Reset", "d3/d7c/a13315.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
-    [ "_gravityLapseCounter", "d3/d7c/a13315.html#ab4e884a341fa25a555c160f6978861fc", null ]
+    [ "npc_kilrek", "d3/d7c/a13315.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
+    [ "JustDied", "d3/d7c/a13315.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
+    [ "JustEngagedWith", "d3/d7c/a13315.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
+    [ "Reset", "d3/d7c/a13315.html#ae0b375abe5ec909cfaff96c257da0325", null ],
+    [ "UpdateAI", "d3/d7c/a13315.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
+    [ "_scheduler", "d3/d7c/a13315.html#a93663ee806385f617e81a03062dd94d6", null ],
+    [ "instance", "d3/d7c/a13315.html#a13b969fa86ef57f9508117a73252a36b", null ],
+    [ "TerestianGUID", "d3/d7c/a13315.html#a411476da379bf687cd007e25ba11280e", null ]
 ];

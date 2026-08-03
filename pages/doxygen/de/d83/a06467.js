@@ -1,12 +1,9 @@
 var a06467 =
 [
-    [ "TotemAI", "de/d83/a06467.html#ad57f973e52d22f45b5171faeb28f2e91", null ],
-    [ "AttackStart", "de/d83/a06467.html#aa5bb81b51ec79a4328016cca34363880", null ],
-    [ "DoAction", "de/d83/a06467.html#a9457dae982b3c1d411aa42ff2f30feac", null ],
-    [ "EnterEvadeMode", "de/d83/a06467.html#acd8ed4528ac7c16182a0470e49b422f6", null ],
-    [ "MoveInLineOfSight", "de/d83/a06467.html#a796d05b45b4ba4dc23f04897fc2ce253", null ],
-    [ "Permissible", "de/d83/a06467.html#a75a0cdb27da98b47cf3ccbd2e594cd18", null ],
-    [ "SpellHit", "de/d83/a06467.html#a7a5fc1dc37708fab628bc78bb28575be", null ],
-    [ "UpdateAI", "de/d83/a06467.html#a2b5b3c8bb51d83bfa8f3474a868fcb19", null ],
-    [ "i_victimGuid", "de/d83/a06467.html#ae651f8f7a02261c1a0e37a6c7ddde4be", null ]
+    [ "CasterAI", "de/d83/a06467.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
+    [ "AttackStart", "de/d83/a06467.html#a28386fd1a275c002445e5eaf90314a3d", null ],
+    [ "InitializeAI", "de/d83/a06467.html#a2a24cdc24b665c52363dae587572fc4d", null ],
+    [ "JustEngagedWith", "de/d83/a06467.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
+    [ "UpdateAI", "de/d83/a06467.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
+    [ "m_attackDist", "de/d83/a06467.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
 ];

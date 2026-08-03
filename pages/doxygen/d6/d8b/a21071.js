@@ -1,6 +1,6 @@
 var a21071 =
 [
-    [ "CanBeAppliedOn", "d6/d8b/a21071.html#ad92126f58e8ac8c83449725bc29fda8b", null ],
-    [ "PrepareAuraScript", "d6/d8b/a21071.html#aaa7631a3d8a5476da6e051de90f34ee4", null ],
-    [ "Register", "d6/d8b/a21071.html#a9a3e0c1a86cfc1b9747810cfca76f784", null ]
+    [ "ModSanityStacks", "d6/d8b/a21071.html#a38b8425689f91b91e23096d658b462cf", null ],
+    [ "PrepareSpellScript", "d6/d8b/a21071.html#a43362033f7422a0b9918ddd3b7e480cc", null ],
+    [ "Register", "d6/d8b/a21071.html#a6d5e27f728ee3980d33d417fb437c9c6", null ]
 ];

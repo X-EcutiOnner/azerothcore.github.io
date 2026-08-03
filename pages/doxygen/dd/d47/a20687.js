@@ -1,12 +1,5 @@
 var a20687 =
 [
-    [ "npc_xt002_boombot", "dd/d47/a20687.html#a40d523365cd398085b7f8dc96c3a52a1", null ],
-    [ "DamageTaken", "dd/d47/a20687.html#a6686960dcf9050c62f707f80f8e378e9", null ],
-    [ "Explode", "dd/d47/a20687.html#a4c0c94a400b20cb910cb6c10e18af31a", null ],
-    [ "JustDied", "dd/d47/a20687.html#ae0de009da55f76fc28aea4bf2c3853da", null ],
-    [ "MovementInform", "dd/d47/a20687.html#ab112bdd9d3e2cd680d2a937d5ce37af6", null ],
-    [ "Reset", "dd/d47/a20687.html#a0b5e372dc3c7fadb6d0ccf5138487a9d", null ],
-    [ "UpdateAI", "dd/d47/a20687.html#a2a8b91db7af5f9f935623fe2b2ba3455", null ],
-    [ "_boomed", "dd/d47/a20687.html#a4307aaf92856d146095497cf74ef3e67", null ],
-    [ "_locked", "dd/d47/a20687.html#ad46600f129729931422b5c9c70568e3f", null ]
+    [ "npc_ulduar_flames_spread", "dd/d47/a20687.html#aea2856e8ea84dfb447017a4d8b2ab088", null ],
+    [ "SpellHit", "dd/d47/a20687.html#af8cad4be1736f377721b7a0a63cfafe7", null ]
 ];

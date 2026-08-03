@@ -1,8 +1,6 @@
 var a28215 =
 [
-    [ "npc_elder_clearwaterAI", "dc/d8d/a28219.html", "dc/d8d/a28219" ],
-    [ "npc_elder_clearwater", "dd/d3d/a28215.html#abeee1650938a71762bb0c148ea9834d1", null ],
-    [ "GetAI", "dd/d3d/a28215.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
-    [ "OnGossipHello", "dd/d3d/a28215.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
-    [ "OnQuestReward", "dd/d3d/a28215.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
+    [ "go_heatAI", "dd/d3d/a28215.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
+    [ "UpdateAI", "dd/d3d/a28215.html#a2332206ee47b2cea9e4707d16ea79325", null ],
+    [ "timer", "dd/d3d/a28215.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
 ];

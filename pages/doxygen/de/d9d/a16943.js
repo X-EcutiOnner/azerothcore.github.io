@@ -1,6 +1,7 @@
 var a16943 =
 [
-    [ "boss_jaraxxusAI", "dc/db0/a16947.html", "dc/db0/a16947" ],
-    [ "boss_jaraxxus", "de/d9d/a16943.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "de/d9d/a16943.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "npc_toc_mageAI", "de/d9d/a16943.html#a188831088c892f68cef7498468b24899", null ],
+    [ "myCanCast", "de/d9d/a16943.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
+    [ "UpdateAI", "de/d9d/a16943.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
+    [ "events", "de/d9d/a16943.html#ab1910ce98f3d1b14e45acba22782d536", null ]
 ];

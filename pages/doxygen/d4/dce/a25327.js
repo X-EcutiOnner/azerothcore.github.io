@@ -1,7 +1,7 @@
 var a25327 =
 [
-    [ "HandleProc", "d4/dce/a25327.html#a87508c28fead56ca60c947d78ff8bae2", null ],
-    [ "PrepareAuraScript", "d4/dce/a25327.html#a514ba9c8222312bb213fcebb418d2499", null ],
-    [ "Register", "d4/dce/a25327.html#aebe4db9304449686a544c8e4c4f26b81", null ],
-    [ "Validate", "d4/dce/a25327.html#a9888b4bf71e8bb9e4b1c3caf74c48b31", null ]
+    [ "HandleScriptEffect", "d4/dce/a25327.html#a4444d5f146e875bae40edbcc8ed408cb", null ],
+    [ "PrepareSpellScript", "d4/dce/a25327.html#af4320dd6567d8c9cb2a1492095a98459", null ],
+    [ "Register", "d4/dce/a25327.html#ab9360c3a883dd5a7df9836306d9762ec", null ],
+    [ "Validate", "d4/dce/a25327.html#a51ebef5e7fff9dfaab553ecae7be732f", null ]
 ];

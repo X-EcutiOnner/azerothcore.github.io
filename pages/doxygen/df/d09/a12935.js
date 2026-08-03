@@ -1,10 +1,7 @@
 var a12935 =
 [
-    [ "boss_golemagg", "df/d09/a12935.html#ac7a23be0a51bd73b5c5b8215ba31412e", null ],
-    [ "DamageTaken", "df/d09/a12935.html#acf0917a65764074ebb11d51cb537c2f5", null ],
-    [ "Reset", "df/d09/a12935.html#ac663539bac3bcd858dfbfba6095172dd", null ],
-    [ "UpdateAI", "df/d09/a12935.html#aa68a9ff1858591b65ad650c18954bdea", null ],
-    [ "earthquakeTimer", "df/d09/a12935.html#ad581b8e54e08342041886b180c139db0", null ],
-    [ "enraged", "df/d09/a12935.html#a27a5041fcf93a3da6fe2130af24de386", null ],
-    [ "pyroblastTimer", "df/d09/a12935.html#aae54e1e74dd44329af4f66bf26b2e277", null ]
+    [ "ClassCallSelector", "df/d09/a12935.html#a223895c97121b0727aac258c12c89e0b", null ],
+    [ "operator()", "df/d09/a12935.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
+    [ "_me", "df/d09/a12935.html#a5347a24609a21ae0a342682104b1dc14", null ],
+    [ "_targetClass", "df/d09/a12935.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
 ];

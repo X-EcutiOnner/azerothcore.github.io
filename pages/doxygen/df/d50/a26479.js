@@ -1,6 +1,6 @@
 var a26479 =
 [
-    [ "HandleDummy", "df/d50/a26479.html#a1e9ecf50304f5ccd8578befea898bf81", null ],
-    [ "PrepareSpellScript", "df/d50/a26479.html#a9cf7d1dd37f6df4651ffc83e6aa0b1c0", null ],
-    [ "Register", "df/d50/a26479.html#a98a5ad12cdb54f48d6014fda3915fd70", null ]
+    [ "CheckProc", "df/d50/a26479.html#aa8a8c89cf55ab6796a81671d0312a481", null ],
+    [ "PrepareAuraScript", "df/d50/a26479.html#a9c88f86a4edafda286725008ecfeab6c", null ],
+    [ "Register", "df/d50/a26479.html#ad75f33c72dff282e4a8976c92e0b4e76", null ]
 ];

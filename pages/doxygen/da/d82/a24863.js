@@ -1,6 +1,8 @@
 var a24863 =
 [
-    [ "ModDest", "da/d82/a24863.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "da/d82/a24863.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "da/d82/a24863.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "AfterApply", "da/d82/a24863.html#a9c2591beacd941893338109719c03e3f", null ],
+    [ "AfterRemove", "da/d82/a24863.html#a0be2a66b615dd926de7073392a8e5062", null ],
+    [ "PrepareAuraScript", "da/d82/a24863.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
+    [ "Register", "da/d82/a24863.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
+    [ "Validate", "da/d82/a24863.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
 ];

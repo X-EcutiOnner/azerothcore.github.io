@@ -1,5 +1,5 @@
 var a19215 =
 [
-    [ "at_icc_putricide_trap", "d1/da1/a19215.html#a9d4183629deada9c22750b8a34e94583", null ],
-    [ "OnTrigger", "d1/da1/a19215.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
+    [ "at_icc_saurfang_portal", "d1/da1/a19215.html#a7f30058251c520634a0b7bad08380e5d", null ],
+    [ "OnTrigger", "d1/da1/a19215.html#a8980fe0e67aa33335f0fdb947a294213", null ]
 ];

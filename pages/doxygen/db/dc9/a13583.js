@@ -1,7 +1,8 @@
 var a13583 =
 [
-    [ "npc_apothecary_genericAI", "db/dc9/a13583.html#afb2b04b51e28d0795e7781effa68dffd", null ],
-    [ "DoAction", "db/dc9/a13583.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
-    [ "MovementInform", "db/dc9/a13583.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
-    [ "_movePos", "db/dc9/a13583.html#a53d10ab64df212b043cc21e054f6528c", null ]
+    [ "npc_apothecary_baxter", "db/dc9/a13583.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
+    [ "JustDied", "db/dc9/a13583.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
+    [ "Reset", "db/dc9/a13583.html#afee5103029bd761c48cbf6a11655c44a", null ],
+    [ "UpdateAI", "db/dc9/a13583.html#ad06090f599d0fda3a88f3182c990a49f", null ],
+    [ "_scheduler", "db/dc9/a13583.html#a6d813041e055f3c2b28be7cba3acde13", null ]
 ];

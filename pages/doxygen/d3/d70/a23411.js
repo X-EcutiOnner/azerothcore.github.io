@@ -1,17 +1,10 @@
 var a23411 =
 [
-    [ "boss_grand_warlock_nethekurse", "d3/d70/a23411.html#a4eefeb639cf5f0753feb6cfd99cda187", null ],
-    [ "DoAction", "d3/d70/a23411.html#a8288f8c28b61dac574254435534b5e3f", null ],
-    [ "IntroRP", "d3/d70/a23411.html#ae071f8cc7ef44e6c6cf205295debea5f", null ],
-    [ "JustDied", "d3/d70/a23411.html#a48a2ec7beeb5c9685fc627317acea949", null ],
-    [ "JustEngagedWith", "d3/d70/a23411.html#a117d2d737433ea89b37ea1ee58e6c237", null ],
-    [ "JustReachedHome", "d3/d70/a23411.html#afe62561de66fbe7fa92c365a51f01adc", null ],
-    [ "KilledUnit", "d3/d70/a23411.html#ac29fa30bfa8377a07cbfdd1f0964ebfb", null ],
-    [ "Reset", "d3/d70/a23411.html#aceef7aace38f5246ad67a1591b7f301c", null ],
-    [ "SetData", "d3/d70/a23411.html#a6c647262ce7df78c46af6b725cbcc250", null ],
-    [ "UpdateAI", "d3/d70/a23411.html#aca0bd4c71aafd2d1c54e2ca87d538e9a", null ],
-    [ "_canAggro", "d3/d70/a23411.html#a9c577798d5bc87654e6984af02d95c34", null ],
-    [ "_introStarted", "d3/d70/a23411.html#ac7d0737aa28c51cc63d93b8774e536f0", null ],
-    [ "PeonEngagedCount", "d3/d70/a23411.html#a886a0e792cf5ac6afa9670703cb568ff", null ],
-    [ "PeonKilledCount", "d3/d70/a23411.html#a8837d810df1d8b8a505d2d6c98ac8be8", null ]
+    [ "boss_warlord_kalithresh", "d3/d70/a23411.html#afcf2288fbea2d5010c41344ce0247559", null ],
+    [ "JustDied", "d3/d70/a23411.html#a1947562aa9dafea371e2f2da824a3f65", null ],
+    [ "JustEngagedWith", "d3/d70/a23411.html#a2712f5c363c3929550b77ef2536b1385", null ],
+    [ "KilledUnit", "d3/d70/a23411.html#a06855288497f5335a236867ef681d3f8", null ],
+    [ "MoveInLineOfSight", "d3/d70/a23411.html#a544da19b6c3a6f159ed6b1639def1071", null ],
+    [ "Reset", "d3/d70/a23411.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
+    [ "_introDone", "d3/d70/a23411.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
 ];

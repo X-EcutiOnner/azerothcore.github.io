@@ -1,6 +1,6 @@
 var a23007 =
 [
-    [ "FilterTargets", "d3/d70/a23007.html#af545460920658bc8ee0444f7c0d51970", null ],
-    [ "PrepareSpellScript", "d3/d70/a23007.html#a0bf365a43b99905fb7ae8152fe5b2687", null ],
-    [ "Register", "d3/d70/a23007.html#ac12cde698f5b0bbcdf433821772c7519", null ]
+    [ "PrepareSpellScript", "d3/d70/a23007.html#ad786920d6180b8e2829f3a56ec50c488", null ],
+    [ "Register", "d3/d70/a23007.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
+    [ "SetDest", "d3/d70/a23007.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
 ];

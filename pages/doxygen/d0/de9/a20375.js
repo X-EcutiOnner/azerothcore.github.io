@@ -1,5 +1,9 @@
 var a20375 =
 [
-    [ "achievement_i_could_say_that_this_cache_was_rare", "d0/de9/a20375.html#a8ec1949d92f21fe57f967e510453da3e", null ],
-    [ "OnCheck", "d0/de9/a20375.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
+    [ "boss_freya_nature_bomb", "d0/de9/a20375.html#a050672942ab467557d21a930ab22827c", null ],
+    [ "Reset", "d0/de9/a20375.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
+    [ "UpdateAI", "d0/de9/a20375.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
+    [ "_explodeTimer", "d0/de9/a20375.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
+    [ "_goGUID", "d0/de9/a20375.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
+    [ "Timer", "d0/de9/a20375.html#affadb797817ddf512209d1d71097baf3", null ]
 ];

@@ -1,8 +1,8 @@
 var a23487 =
 [
-    [ "HandleEffectApply", "d1/d59/a23487.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
-    [ "HandleEffectRemove", "d1/d59/a23487.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
-    [ "PrepareAuraScript", "d1/d59/a23487.html#a438a8ba3688e0832853bae4183695494", null ],
-    [ "Register", "d1/d59/a23487.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
-    [ "Validate", "d1/d59/a23487.html#ab07b244e53b397bc9e9842655617a80d", null ]
+    [ "npc_underbat", "d1/d59/a23487.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
+    [ "JustEngagedWith", "d1/d59/a23487.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
+    [ "Reset", "d1/d59/a23487.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
+    [ "UpdateAI", "d1/d59/a23487.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
+    [ "_scheduler", "d1/d59/a23487.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
 ];

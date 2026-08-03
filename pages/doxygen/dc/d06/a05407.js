@@ -1,7 +1,4 @@
 var a05407 =
 [
-    [ "operator()", "dc/d06/a05407.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
-    [ "closestEntity", "dc/d06/a05407.html#ab377424b7edd0274f61967619700f841", null ],
-    [ "hitLocation", "dc/d06/a05407.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
-    [ "hitNormal", "dc/d06/a05407.html#a57f40f48c26829f7da9e48efd839d773", null ]
+    [ "GetBounds", "dc/d06/a05407.html#a18367901bcdf982ed7390aa1f80b5a1a", null ]
 ];

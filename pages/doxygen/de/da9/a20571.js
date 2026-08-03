@@ -1,11 +1,14 @@
 var a20571 =
 [
-    [ "npc_ulduar_expedition_engineer", "de/da9/a20571.html#af3fe5048712bae3add6867e998c2824d", null ],
-    [ "Reset", "de/da9/a20571.html#a7bbdbdaed353d450161e470e5f656c17", null ],
-    [ "SetData", "de/da9/a20571.html#a9a714463750de3513e65174f796fb4de", null ],
-    [ "UpdateAI", "de/da9/a20571.html#a78de5d8e8194e1ae362f9eb666a55404", null ],
-    [ "fixingGUID", "de/da9/a20571.html#af8f7c3106d392a7b6697af3ffd14121f", null ],
-    [ "pInstance", "de/da9/a20571.html#a1516880c5fb17bccd95d8e3b615c4175", null ],
-    [ "timer", "de/da9/a20571.html#a57f187130777929a921e2c35b6f43559", null ],
-    [ "working", "de/da9/a20571.html#a3450381dc89cabede2ccde6feab96dad", null ]
+    [ "boss_kologarn_arms", "de/da9/a20571.html#a938ba2bc623d8bfea80e76743adadd6b", null ],
+    [ "AttackStart", "de/da9/a20571.html#aa900d84701962847fe8c50ca42a9e395", null ],
+    [ "DamageTaken", "de/da9/a20571.html#ab9dfb82063b299c4b983ea48e78a17be", null ],
+    [ "EnterEvadeMode", "de/da9/a20571.html#abb2cf784779f808ab5d5340047ce95e4", null ],
+    [ "JustDied", "de/da9/a20571.html#a165f77b79a3e601fe2269f20362df3ca", null ],
+    [ "MoveInLineOfSight", "de/da9/a20571.html#a515d1d1eb959a03adca5e2c79da9082b", null ],
+    [ "PassengerBoarded", "de/da9/a20571.html#aa0c14ab6b8b0081c1e8c43de1883ae59", null ],
+    [ "Reset", "de/da9/a20571.html#a1d164aa9234edb81ed6d4e0713d16a91", null ],
+    [ "UpdateAI", "de/da9/a20571.html#a013d5b17e93486679f625872331c94f6", null ],
+    [ "_combatStarted", "de/da9/a20571.html#a8b4f90719ef93e7f8d8e435e090d566a", null ],
+    [ "_damageDone", "de/da9/a20571.html#a0e196cc2602f325f4639d9e854f013b9", null ]
 ];

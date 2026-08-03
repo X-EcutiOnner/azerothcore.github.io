@@ -1,9 +1,8 @@
 var a29131 =
 [
-    [ "Category", "d6/d3f/a29131.html#acd933f251a1faa1f705420307136681d", null ],
-    [ "Faction", "d6/d3f/a29131.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
-    [ "Flags", "d6/d3f/a29131.html#a8b41ed573eae71196664a61bac83fe3e", null ],
-    [ "Id", "d6/d3f/a29131.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
-    [ "Slot", "d6/d3f/a29131.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
-    [ "Type", "d6/d3f/a29131.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
+    [ "DamagedDisplayId", "d6/d3f/a29131.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
+    [ "DestroyedDisplayId", "d6/d3f/a29131.html#afc891df0c9491a34f784e8f141434be5", null ],
+    [ "Id", "d6/d3f/a29131.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
+    [ "RebuildingDisplayId", "d6/d3f/a29131.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
+    [ "SmokeDisplayId", "d6/d3f/a29131.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
 ];

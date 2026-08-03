@@ -1,6 +1,6 @@
 var a19075 =
 [
-    [ "PrepareSpellScript", "d9/dae/a19075.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "d9/dae/a19075.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "d9/dae/a19075.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "npc_captain_grondelAI", "df/de4/a19079.html", "df/de4/a19079" ],
+    [ "npc_captain_grondel", "d9/dae/a19075.html#a54a53f8e3cde87405219c815a56d523c", null ],
+    [ "GetAI", "d9/dae/a19075.html#a2a7725e81294e80701b7742d2605ec00", null ]
 ];

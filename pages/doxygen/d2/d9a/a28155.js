@@ -1,7 +1,5 @@
 var a28155 =
 [
-    [ "npc_prof_leather", "d2/d9a/a28155.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
-    [ "HasLeatherSpecialty", "d2/d9a/a28155.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
-    [ "OnGossipHello", "d2/d9a/a28155.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
-    [ "OnGossipSelect", "d2/d9a/a28155.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
+    [ "MarkOfNatureTargetSelector", "d2/d9a/a28155.html#ae737da5ff93360fde8c4c818f41d7853", null ],
+    [ "operator()", "d2/d9a/a28155.html#a1515fd40dcccaba5947e93eabf241336", null ]
 ];

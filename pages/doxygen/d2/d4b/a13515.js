@@ -1,6 +1,6 @@
 var a13515 =
 [
-    [ "boss_darkmaster_gandlingAI", "d0/d93/a13519.html", "d0/d93/a13519" ],
-    [ "boss_darkmaster_gandling", "d2/d4b/a13515.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
-    [ "GetAI", "d2/d4b/a13515.html#a21ea53862614303af31a517a53d1fbf6", null ]
+    [ "npc_risen_guardianAI", "d0/d93/a13519.html", "d0/d93/a13519" ],
+    [ "npc_risen_guardian", "d2/d4b/a13515.html#a472274c69abe912f5781c60911204eb5", null ],
+    [ "GetAI", "d2/d4b/a13515.html#a568f57a442adcd64c8c3d2e4d5df729f", null ]
 ];

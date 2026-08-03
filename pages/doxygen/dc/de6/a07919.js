@@ -1,6 +1,4 @@
 var a07919 =
 [
-    [ "value_type", "dc/de6/a07919.html#adbfeb8f2823f763fdae25b87fbbdcfbf", null ],
-    [ "operator()", "dc/de6/a07919.html#abeff0e73688ad4745201c5d817f7a442", null ],
-    [ "operator()", "dc/de6/a07919.html#a8ee9220d4226b4dd028f3f9c438f34ba", null ]
+    [ "HordeChannelMgr", "dc/de6/a07919.html#a9354a4b4122500bba602254d0c9f3b98", null ]
 ];

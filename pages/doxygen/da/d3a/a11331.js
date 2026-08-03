@@ -1,9 +1,11 @@
 var a11331 =
 [
-    [ "RandomRoll", "da/d3a/a11331.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
-    [ "Write", "da/d3a/a11331.html#aab5879874745603dd448a7f5084d60d4", null ],
-    [ "Max", "da/d3a/a11331.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
-    [ "Min", "da/d3a/a11331.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
-    [ "Result", "da/d3a/a11331.html#a34fd2c1d018bb292836724671163ff07", null ],
-    [ "Roller", "da/d3a/a11331.html#af02aa97826259885791d0f4afc0c1a84", null ]
+    [ "BuyItemInSlot", "da/d3a/a11331.html#a9a15be940d8eb216614dca5055be094a", null ],
+    [ "Read", "da/d3a/a11331.html#a2608e83a41fb44c8469d2b9196702627", null ],
+    [ "BagGuid", "da/d3a/a11331.html#abb9a1c7ac98c1cd848e4da8faf4e3925", null ],
+    [ "BagSlot", "da/d3a/a11331.html#abdcb3b7e8a633b59d264ff1c860ec9c9", null ],
+    [ "Count", "da/d3a/a11331.html#a3d057f2bdafb46887a97dbba8bb5aa04", null ],
+    [ "Item", "da/d3a/a11331.html#a1fdfad3b4dd000c0f6d6d60f30bdd981", null ],
+    [ "Slot", "da/d3a/a11331.html#aae1dba7644a82933a801f581551479bc", null ],
+    [ "VendorGuid", "da/d3a/a11331.html#ac65b0fc2609531c8657c4d83cf50dbfe", null ]
 ];

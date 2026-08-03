@@ -1,14 +1,6 @@
 var a20311 =
 [
-    [ "npc_ulduar_hodir_druid", "dc/d39/a20311.html#aac822cf4203af0e0173004ccc33abc21", null ],
-    [ "AttackStart", "dc/d39/a20311.html#a67884f16c32f849bc68d68256c19d21a", null ],
-    [ "CanAIAttack", "dc/d39/a20311.html#a81b0f60596e63ec618a9a9e1d8bc6c9d", null ],
-    [ "EnterEvadeMode", "dc/d39/a20311.html#a22a10571e9cfe69200fd4a8fd383e500", null ],
-    [ "JustDied", "dc/d39/a20311.html#a6cfefe7ccb156a658e8e2dad603b3fce", null ],
-    [ "MoveInLineOfSight", "dc/d39/a20311.html#aa2e3e904c5f7fee4236a9395b95ef3e9", null ],
-    [ "ScheduleAbilities", "dc/d39/a20311.html#ac8bee382634e20a49178be8b224eca2d", null ],
-    [ "SpellHit", "dc/d39/a20311.html#a1053d484f30df43fba465981cd3cfa38", null ],
-    [ "UpdateAI", "dc/d39/a20311.html#abcd580306a3abb5663bbac33f68115eb", null ],
-    [ "_instance", "dc/d39/a20311.html#add7048881ec8b0dd2c09e34813c7c353", null ],
-    [ "events", "dc/d39/a20311.html#a323184c52fcbc3e18eb74c96db716327", null ]
+    [ "PrepareSpellScript", "dc/d39/a20311.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
+    [ "RecalculateDamage", "dc/d39/a20311.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
+    [ "Register", "dc/d39/a20311.html#af2b5382122be41a6b1ee4ab721b417da", null ]
 ];

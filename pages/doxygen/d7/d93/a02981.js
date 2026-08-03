@@ -1,58 +1,50 @@
 var a02981 =
 [
-    [ "Yells", "d6/dfd/a20054.html", "d6/dfd/a20054" ],
-    [ "brann_bronzebeard", "d8/d35/a20058.html", "d8/d35/a20058" ],
-    [ "brann_bronzebeard::brann_bronzebeardAI", "d2/daa/a20062.html", "d2/daa/a20062" ],
-    [ "spell_taunt_brann", "de/df4/a20066.html", "de/df4/a20066" ],
-    [ "spell_hos_dark_matter", "dc/dc1/a20070.html", "dc/dc1/a20070" ],
-    [ "spell_hos_dark_matter_size", "d2/d24/a20074.html", "d2/d24/a20074" ],
-    [ "GOSSIP_ITEM_1", "d7/d93/a02981.html#a4f7e6d5fa5cb408e00605d73f02590f9", null ],
-    [ "GOSSIP_ITEM_2", "d7/d93/a02981.html#a320c0ccd04527287746bd25b6db6e150", null ],
-    [ "GOSSIP_ITEM_3", "d7/d93/a02981.html#a3107224f02eeaa2f2c4395d097421ac3", null ],
-    [ "GOSSIP_ITEM_4", "d7/d93/a02981.html#a6a580f93566f9fac20ea19a6f577a994", null ],
-    [ "TEXT_ID_SJONNIR_DOOR", "d7/d93/a02981.html#abba2181424564ef9e71012e15d377c66", null ],
-    [ "TEXT_ID_SJONNIR_END", "d7/d93/a02981.html#a12d1a1a47bf9af610ea5547c3f3f1780", null ],
-    [ "TEXT_ID_START", "d7/d93/a02981.html#ad69093d251198970c46efa1deec3177d", null ],
-    [ "TEXT_ID_TRIBUNAL_END", "d7/d93/a02981.html#ae1a59d257c3fd890a3da77af8e5d80c8", null ],
-    [ "TEXT_ID_TRIBUNAL_START", "d7/d93/a02981.html#a674012f692fed40a3aa04e4fedba0462", null ],
-    [ "events", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84", [
-      [ "EVENT_SARTURA_WHIRLWIND", "d8/d3a/a04439.html#ad29858f6d8ab73f2970f41cb21a76b84ab9ca33cc16c2b82d1ff2f4361607d180", null ],
-      [ "EVENT_SARTURA_WHIRLWIND_RANDOM", "d8/d3a/a04439.html#ad29858f6d8ab73f2970f41cb21a76b84a0963f59968bcf20bcda9da76e151f691", null ],
-      [ "EVENT_SARTURA_WHIRLWIND_END", "d8/d3a/a04439.html#ad29858f6d8ab73f2970f41cb21a76b84aa6c2e6b44a6b6a9e5a08a897e2947c12", null ],
-      [ "EVENT_SPELL_BERSERK", "d8/d3a/a04439.html#ad29858f6d8ab73f2970f41cb21a76b84ac98fdfb490fa896cecb40ae427f4ea75", null ],
-      [ "EVENT_SARTURA_SUNDERING_CLEAVE", "d8/d3a/a04439.html#ad29858f6d8ab73f2970f41cb21a76b84a1f971ef9ea8a68f3ddec81062b2d4d9c", null ],
-      [ "EVENT_GUARD_WHIRLWIND", "d8/d3a/a04439.html#ad29858f6d8ab73f2970f41cb21a76b84ad1b32b1cb6f4f2623ab24da8eb0e090f", null ],
-      [ "EVENT_GUARD_WHIRLWIND_RANDOM", "d8/d3a/a04439.html#ad29858f6d8ab73f2970f41cb21a76b84ac203e34251b5f89370dd4e971b9ac20c", null ],
-      [ "EVENT_GUARD_WHIRLWIND_END", "d8/d3a/a04439.html#ad29858f6d8ab73f2970f41cb21a76b84a24bcb77f42cf30ab017d8602b974a49f", null ],
-      [ "EVENT_GUARD_KNOCKBACK", "d8/d3a/a04439.html#ad29858f6d8ab73f2970f41cb21a76b84a34ac1d72343b97f5595bc71c8c85c4d0", null ],
-      [ "EVENT_NONE", "db/d6c/a02969.html#ad29858f6d8ab73f2970f41cb21a76b84a939a6cc6d749a232a23ff324dca6d48c", null ],
-      [ "EVENT_BOULDER", "db/d6c/a02969.html#ad29858f6d8ab73f2970f41cb21a76b84a295161f0049efe83985b3c22ac4af27b", null ],
-      [ "EVENT_STOMP", "db/d6c/a02969.html#ad29858f6d8ab73f2970f41cb21a76b84aae6a7bd26e8ee17a505a5f6c6f720316", null ],
-      [ "EVENT_GROUND_SLAM", "db/d6c/a02969.html#ad29858f6d8ab73f2970f41cb21a76b84a715b039dea752d6c6c517cb12c503e5e", null ],
-      [ "EVENT_GROUND_SPIKE", "db/d6c/a02969.html#ad29858f6d8ab73f2970f41cb21a76b84a990d801452a3350349a1834c5905a761", null ],
-      [ "EVENT_SHATTER", "db/d6c/a02969.html#ad29858f6d8ab73f2970f41cb21a76b84a67fb1e75418e5f4394f0dea3f005a0bf", null ],
-      [ "EVENT_REMOVE_STONED", "db/d6c/a02969.html#ad29858f6d8ab73f2970f41cb21a76b84a0f0428ad90955e9b7bfc3992f60d4d4e", null ],
-      [ "EVENT_ABEDNEUM_VISUAL", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a0c99f199ddac08f2f22b41e25053f3bc", null ],
-      [ "EVENT_KADDRAK_VISUAL", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84abaf9e84448ce010882f5bb58131cb290", null ],
-      [ "EVENT_MARNAK_VISUAL", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a053edfcb70fba8dc373d09c67cf5d44b", null ],
-      [ "EVENT_ABEDNEUM_HEAD", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a0fc69f85ba7f434cd1748dc07a4f8847", null ],
-      [ "EVENT_KADDRAK_HEAD", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84af6f3efd93b28ae89ffedf7ee06b85232", null ],
-      [ "EVENT_MARNAK_HEAD", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84ae9a82c765c1953aa759a7e8fe4ab3e32", null ],
-      [ "EVENT_KADDRAK_SWITCH_EYE", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a617aeb68cc0e9d66a2b553b95f3c9b8e", null ],
-      [ "EVENT_SUMMON_MONSTERS", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a5a55fcd60a599ecaeb0fbed7ca34fab6", null ],
-      [ "EVENT_SUMMON_STORMCALLER", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a192b5e7085565e5d38f9e733cd5500b3", null ],
-      [ "EVENT_SUMMON_CUSTODIAN", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84af9f86979a32a911283c8ceec6562bec1", null ],
-      [ "EVENT_DARK_MATTER_START", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a36f49ab8665772a869203d9ddce12fc5", null ],
-      [ "EVENT_DARK_MATTER_END", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a92f4e9c52e32718866c881412db387df", null ],
-      [ "EVENT_TRIBUNAL_END", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a4d21f6b1d525bb698e543bd65a2df849", null ],
-      [ "EVENT_BREEN_WAITING", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a1bac27c9c1397829d321f2e835c5fc32", null ],
-      [ "EVENT_TALK_FACE_CHANGE", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a3dec7366e61b1063a5dae6662f6d495a", null ],
-      [ "EVENT_SKY_ROOM_FLOOR_CHANGE", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a39bf43d92d488b98bc985d81835a30f3", null ],
-      [ "EVENT_GO_TO_SJONNIR", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a64eed60887955b393f1fb523df7b8423", null ],
-      [ "EVENT_DOOR_OPEN", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a9e0a63e0752a49e2d88d16f9c0ea1f31", null ],
-      [ "EVENT_RESUME_ESCORT", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a9ae1710782337208a17c60c46b94b664", null ],
-      [ "EVENT_SJONNIR_END_BRANN_YELL", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a8c6a534f5136ea5afc39456abb238709", null ],
-      [ "EVENT_SJONNIR_END_BRANN_LAST_YELL", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84afd5ace2f46f54788b16af10faadbe086", null ]
+    [ "brann_bronzebeard", "de/d34/a20051.html", "de/d34/a20051" ],
+    [ "spell_taunt_brann", "d2/d31/a20055.html", "d2/d31/a20055" ],
+    [ "spell_hos_dark_matter", "d4/dcf/a20059.html", "d4/dcf/a20059" ],
+    [ "spell_hos_dark_matter_size", "d0/dab/a20063.html", "d0/dab/a20063" ],
+    [ "AbedneumTexts", "d7/d93/a02981.html#a9ef4533570e18e9822999d106551f6e9", [
+      [ "SAY_ABEDNEUM_WARNING", "d7/d93/a02981.html#a9ef4533570e18e9822999d106551f6e9a64b9823adad714333f63ec91f4078306", null ],
+      [ "SAY_ABEDNEUM_CRITICAL", "d7/d93/a02981.html#a9ef4533570e18e9822999d106551f6e9a55df08b2dc5eaec74ef9e3b2ab59d787", null ],
+      [ "SAY_ABEDNEUM_FAILSAFE", "d7/d93/a02981.html#a9ef4533570e18e9822999d106551f6e9a23bcc1fd3c9f2e88ba16c19df4a16afb", null ],
+      [ "SAY_ABEDNEUM_ONLINE", "d7/d93/a02981.html#a9ef4533570e18e9822999d106551f6e9a918ada34fab08ffecf35561ffa007f34", null ],
+      [ "SAY_ABEDNEUM_LORE_1", "d7/d93/a02981.html#a9ef4533570e18e9822999d106551f6e9a0772bc5dd0d0117975f05a0523fdb02f", null ],
+      [ "SAY_ABEDNEUM_LORE_2", "d7/d93/a02981.html#a9ef4533570e18e9822999d106551f6e9a5da5bf2561d20ff2678b4f83a99ceac1", null ],
+      [ "SAY_ABEDNEUM_LORE_3", "d7/d93/a02981.html#a9ef4533570e18e9822999d106551f6e9a60e56b60192706a74b2cfe609c5144f8", null ],
+      [ "SAY_ABEDNEUM_SESSION_END", "d7/d93/a02981.html#a9ef4533570e18e9822999d106551f6e9ab30e5f96b06ddd7950efb35e932c481c", null ]
+    ] ],
+    [ "BrannMovement", "d7/d93/a02981.html#ac477ade52ee62c3c5a3172a75f66ef2b", [
+      [ "PATH_ESCORT", "d7/d93/a02981.html#ac477ade52ee62c3c5a3172a75f66ef2baad37e5267c61b3154576082cc5f0d943", null ],
+      [ "PATH_SJONNIR_FIGHT", "d7/d93/a02981.html#ac477ade52ee62c3c5a3172a75f66ef2ba9a8236def89f7c8f7b775ce3a11912aa", null ],
+      [ "POINT_TRIBUNAL_CONSOLE", "d7/d93/a02981.html#ac477ade52ee62c3c5a3172a75f66ef2ba0992bd8fb041dd636e6de6b5d277e683", null ],
+      [ "POINT_TRIBUNAL_LORE", "d7/d93/a02981.html#ac477ade52ee62c3c5a3172a75f66ef2ba5ab20ea713fb8e58ff3dfee0d3632b7c", null ],
+      [ "POINT_TRIBUNAL_LEAVE", "d7/d93/a02981.html#ac477ade52ee62c3c5a3172a75f66ef2ba84be68f5df8e8ed02b58ec5769d9311f", null ],
+      [ "POINT_SJONNIR_DOOR", "d7/d93/a02981.html#ac477ade52ee62c3c5a3172a75f66ef2baffe4948593c6767fd0b05044c8ef68e3", null ],
+      [ "POINT_SJONNIR_FIGHT", "d7/d93/a02981.html#ac477ade52ee62c3c5a3172a75f66ef2ba87ec6b1d3c9baa4799717f5f97f45de3", null ],
+      [ "POINT_SJONNIR_DEAD", "d7/d93/a02981.html#ac477ade52ee62c3c5a3172a75f66ef2ba3168ef58a10841a5f7723e335f91aea7", null ]
+    ] ],
+    [ "ContextGroups", "d7/d93/a02981.html#a4d506003ef46dcfcd2997e90578fcbd5", [
+      [ "CONTEXT_GROUP_TRANSITION", "d7/d93/a02981.html#a4d506003ef46dcfcd2997e90578fcbd5a35bb131a8193b5c62336a1bc5e9a3097", null ]
+    ] ],
+    [ "GossipIDs", "d7/d93/a02981.html#a49fc24188539cabd30ad001d855d225a", [
+      [ "TRIBUNAL_BEFORE", "d7/d93/a02981.html#a49fc24188539cabd30ad001d855d225aae8692a3df639ca2ee892cfde012069fe", null ],
+      [ "TRIBUNAL_START", "d7/d93/a02981.html#a49fc24188539cabd30ad001d855d225aa19325b1dbca60213242d09362ed70cad", null ],
+      [ "TRIBUNAL_END", "d7/d93/a02981.html#a49fc24188539cabd30ad001d855d225aa43b90fe8a54e5b5a5fee9c5386e3ab1b", null ],
+      [ "SJONNIR_DOOR", "d7/d93/a02981.html#a49fc24188539cabd30ad001d855d225aaae46a5ae7525a1689cc0ace597b18afb", null ],
+      [ "SJONNIR_END", "d7/d93/a02981.html#a49fc24188539cabd30ad001d855d225aaff3700d402ddbf5ff5a2645aa560cbc1", null ]
+    ] ],
+    [ "KaddrakTexts", "d7/d93/a02981.html#a43db9499054e2ceb650b4491eda910f5", [
+      [ "SAY_KADDRAK_SECURITY", "d7/d93/a02981.html#a43db9499054e2ceb650b4491eda910f5abca3953a2e8e3a32e3926d6efb8327c0", null ],
+      [ "SAY_KADDRAK_LORE_1", "d7/d93/a02981.html#a43db9499054e2ceb650b4491eda910f5a942c83118f25edba51970d2502fc87b6", null ],
+      [ "SAY_KADDRAK_LORE_2", "d7/d93/a02981.html#a43db9499054e2ceb650b4491eda910f5aa33681fd6fae5e56bcae0d085927ccfd", null ],
+      [ "SAY_KADDRAK_LORE_3", "d7/d93/a02981.html#a43db9499054e2ceb650b4491eda910f5a879f2c3a685b543b489da332acfa3097", null ]
+    ] ],
+    [ "MarnakTexts", "d7/d93/a02981.html#a4e39611af9b1d1973bdbfbe0f4771c1b", [
+      [ "SAY_MARNAK_THREAT", "d7/d93/a02981.html#a4e39611af9b1d1973bdbfbe0f4771c1ba3a871977909e941782b8e8c76d6bd308", null ],
+      [ "SAY_MARNAK_LORE_1", "d7/d93/a02981.html#a4e39611af9b1d1973bdbfbe0f4771c1baffcff0d6da8f1a115a431b1398eeb6ba", null ],
+      [ "SAY_MARNAK_LORE_2", "d7/d93/a02981.html#a4e39611af9b1d1973bdbfbe0f4771c1ba1b73f5a9fb793fe744a2c6fbb828e4a3", null ],
+      [ "SAY_MARNAK_LORE_3", "d7/d93/a02981.html#a4e39611af9b1d1973bdbfbe0f4771c1ba3652b40fd6afc34cedd1e43f63aaeb1b", null ]
     ] ],
     [ "Misc", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "d6/d9d/a03917.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -376,6 +368,7 @@ var a02981 =
       [ "SPELL_DARK_MATTER_VISUAL_CHANNEL", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5a760280be3f540c227e26d34756ef35", null ],
       [ "SPELL_DARK_MATTER", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a499b41edf9950331bd113593a13de1a4", null ],
       [ "SPELL_SEARING_GAZE", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a04d1058c4758a85da757fd74bf51501c", null ],
+      [ "SPELL_STEALTH", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab05b1ff486cc81800d4e40014eae5576", null ],
       [ "SPELL_TRIBUNAL_CREDIT_MARKER", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae1d7527e391c622243fa0fb5740b73eb", null ],
       [ "QUEST_HALLS_OF_STONE", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f4d823dced8973dbb7061fdbdb76b52", null ],
       [ "POINT_BRANN_INTRO", "dd/dfd/a03017.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa8ce0b2e94a1e1c1e093138984867bff", null ],
@@ -463,6 +456,7 @@ var a02981 =
       [ "EVENT_PHASE_ONE", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6b9ce13a0146076fc808a80ed99ccac7", null ],
       [ "EVENT_PHASE_TWO", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1bb0a83e28cfe9a4b28e66a80d9d5750", null ],
       [ "EVENT_PHASE_THREE", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a399f435f01db5b6781c8ab55b185c10b", null ],
+      [ "EVENT_PHASE_WIPE_RECOVERY", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a24bc0ff79a0142f8199261b4a51ff588", null ],
       [ "CRITERIA_NOT_GETTING_OLDER", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3d6aaca72ce1c9989df53cdba6145162", null ],
       [ "YS_P3_LUNATIC_GAZE", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab3149894fe283b632ed01890bb16a6ec", null ],
       [ "DATA_GET_KEEPERS_COUNT", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a13bbe1d42655f757a07ed9cabb167487", null ],
@@ -867,6 +861,15 @@ var a02981 =
       [ "NPC_UNDERBOG_MUSHROOM", "dd/d74/a03476.html#a6986ec7b2d3274669934af9795f26d5cae2a004a214013d7bcbb198034ba1663c", null ],
       [ "NPC_GHAZAN", "dd/d74/a03476.html#a6986ec7b2d3274669934af9795f26d5cadbdc51501c67d1a7a538089511849597", null ]
     ] ],
+    [ "TalkGroups", "d7/d93/a02981.html#a7a40225a6feb0b51d788fe1bb65b7051", [
+      [ "TALK_GROUP_PHASE1", "d7/d93/a02981.html#a7a40225a6feb0b51d788fe1bb65b7051aeeab16a9362856bdfefbd3c24cd03545", null ],
+      [ "TALK_GROUP_PHASE2", "d7/d93/a02981.html#a7a40225a6feb0b51d788fe1bb65b7051a0fe68d45c33157a639db9e0fd0ecdd83", null ],
+      [ "TALK_GROUP_PHASE3", "d7/d93/a02981.html#a7a40225a6feb0b51d788fe1bb65b7051afc2feb27cf50d850ae2d76ee912cb7d7", null ],
+      [ "TALK_GROUP_EVENT_END", "d7/d93/a02981.html#a7a40225a6feb0b51d788fe1bb65b7051a73cd5657a543869ef3aa205be774a749", null ]
+    ] ],
     [ "AddSC_brann_bronzebeard", "d7/d93/a02981.html#a6fad81042eb92391e8c315ed53ffbe96", null ],
-    [ "Conversation", "d7/d93/a02981.html#af29954c04100a3f9567cc28ec229d4f4", null ]
+    [ "brannDoorDone", "d7/d93/a02981.html#af73336b727ca644f61d8908e6ef3ba67", null ],
+    [ "brannEscortDonePoint", "d7/d93/a02981.html#a6f218c9038722860aed7c1f5cc8b9988", null ],
+    [ "brannSjonnirDone", "d7/d93/a02981.html#ae5a76b22d14ecae1e4880b7b379e44f9", null ],
+    [ "brannTribunalEventDonePoint", "d7/d93/a02981.html#a4a7a99e31a4c3a2d6d4ea55835e8d8d7", null ]
 ];

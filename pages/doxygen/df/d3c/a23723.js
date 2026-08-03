@@ -1,8 +1,5 @@
 var a23723 =
 [
-    [ "instance_mechanar_InstanceMapScript", "df/d3c/a23723.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
-    [ "OnCreatureCreate", "df/d3c/a23723.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
-    [ "OnGameObjectCreate", "df/d3c/a23723.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
-    [ "OnGameObjectRemove", "df/d3c/a23723.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
-    [ "_pathaleonGUID", "df/d3c/a23723.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
+    [ "at_shattered_halls_execution", "df/d3c/a23723.html#a73f1d1f03960acd070b7996257f7a526", null ],
+    [ "OnTrigger", "df/d3c/a23723.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
 ];

@@ -1,6 +1,10 @@
 var a21599 =
 [
-    [ "SACDeactivateEvent", "df/d32/a21599.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
-    [ "Execute", "df/d32/a21599.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
-    [ "_owner", "df/d32/a21599.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "df/d32/a21599.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "df/d32/a21599.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "df/d32/a21599.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "df/d32/a21599.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "df/d32/a21599.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "df/d32/a21599.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "df/d32/a21599.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

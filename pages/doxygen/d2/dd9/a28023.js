@@ -1,5 +1,5 @@
 var a28023 =
 [
-    [ "go_tele_to_violet_stand", "d2/dd9/a28023.html#a63350db1dfd400c565e30775378d48cc", null ],
-    [ "OnGossipHello", "d2/dd9/a28023.html#a4d075584f065501a2c3be9ef82387f43", null ]
+    [ "achievement_bg_av_perfection", "d2/dd9/a28023.html#a8a0ef996bdb1244026268922b301184c", null ],
+    [ "OnCheck", "d2/dd9/a28023.html#a17e700c17b5144b571f2aeed92a77749", null ]
 ];

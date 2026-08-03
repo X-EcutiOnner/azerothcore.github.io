@@ -1,10 +1,7 @@
 var a23935 =
 [
-    [ "npc_infernal_attackerAI", "d9/d6c/a23935.html#ae04c4e026f22bd650bb33940b923df9a", null ],
-    [ "IsSummonedBy", "d9/d6c/a23935.html#a926e6cd6772784872a905de7245007ac", null ],
-    [ "JustDied", "d9/d6c/a23935.html#a1822131520f98dd5f1dd637282f20ae3", null ],
-    [ "Reset", "d9/d6c/a23935.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
-    [ "SpellHit", "d9/d6c/a23935.html#a956f3fb1e341519817599df08afc2589", null ],
-    [ "UpdateAI", "d9/d6c/a23935.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
-    [ "casterGUID", "d9/d6c/a23935.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
+    [ "boss_gatewatcher_gyrokill", "d9/d6c/a23935.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "d9/d6c/a23935.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "d9/d6c/a23935.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "d9/d6c/a23935.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

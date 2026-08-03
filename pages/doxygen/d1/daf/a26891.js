@@ -1,7 +1,10 @@
 var a26891 =
 [
-    [ "HandleScript", "d1/daf/a26891.html#a1b20a7fb4487876f305aa3a8d493ed17", null ],
-    [ "PrepareSpellScript", "d1/daf/a26891.html#a5ac848029ef03f6779cf094f4b80dd24", null ],
-    [ "Register", "d1/daf/a26891.html#a3d378e0eac09b00792b293b2cd7f3192", null ],
-    [ "Validate", "d1/daf/a26891.html#a36963610ad939ec36848ff70185f47a2", null ]
+    [ "CalculateAmount", "d1/daf/a26891.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
+    [ "CheckDropCharge", "d1/daf/a26891.html#a69bcdbce43cee47873a2ba54ff03d928", null ],
+    [ "HandleUpdateSpellclick", "d1/daf/a26891.html#a89956d7f3a6404d5b60e46034867c82c", null ],
+    [ "InitializeAmount", "d1/daf/a26891.html#a4b0656e78d748d974d6d77a43cfa7910", null ],
+    [ "PrepareAuraScript", "d1/daf/a26891.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
+    [ "Register", "d1/daf/a26891.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ],
+    [ "_remainingAmount", "d1/daf/a26891.html#aa9a60ff01b89cb7c800d068e92c00ce3", null ]
 ];

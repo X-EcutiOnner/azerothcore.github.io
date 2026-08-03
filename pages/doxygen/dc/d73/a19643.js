@@ -1,7 +1,6 @@
 var a19643 =
 [
-    [ "boss_commander_stoutbeard", "dc/d73/a19643.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
-    [ "JustDied", "dc/d73/a19643.html#a2fd835408045715058ba476aa56cb4f7", null ],
-    [ "JustEngagedWith", "dc/d73/a19643.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
-    [ "KilledUnit", "dc/d73/a19643.html#acf7016c65f020dca9228bd2d2fd89299", null ]
+    [ "FilterTargets", "dc/d73/a19643.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
+    [ "PrepareSpellScript", "dc/d73/a19643.html#a452937a4e95b40366f915213ec475a84", null ],
+    [ "Register", "dc/d73/a19643.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
 ];

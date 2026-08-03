@@ -1,8 +1,10 @@
 var a09695 =
 [
-    [ "FriendlyMissingBuffInRange", "df/dc8/a09695.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
-    [ "operator()", "df/dc8/a09695.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
-    [ "i_obj", "df/dc8/a09695.html#aba43edf48b2b0184b52143707c3531f4", null ],
-    [ "i_range", "df/dc8/a09695.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
-    [ "i_spell", "df/dc8/a09695.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
+    [ "PlayerListSearcherWithSharedVision", "df/dc8/a09695.html#aace01efe09c3190b81651d237e2e9a8a", null ],
+    [ "Visit", "df/dc8/a09695.html#a5348d9887ebfd9c0a0016b31d3db8ffb", null ],
+    [ "Visit", "df/dc8/a09695.html#a34c24d8e219b8dbbdf27c1d36489f3fa", null ],
+    [ "Visit", "df/dc8/a09695.html#ac45ae498dc7f74426b66344d9367046a", null ],
+    [ "i_check", "df/dc8/a09695.html#a7261e79c2980cfb61686c01254d70c8b", null ],
+    [ "i_objects", "df/dc8/a09695.html#ac8e5495912121d8d3baac9d02e947815", null ],
+    [ "i_phaseMask", "df/dc8/a09695.html#a9bd8d6c842ac2f4cf1f10441216f906c", null ]
 ];

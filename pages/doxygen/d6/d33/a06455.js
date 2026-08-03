@@ -1,6 +1,8 @@
 var a06455 =
 [
-    [ "TriggerAI", "d6/d33/a06455.html#ad8cc7eae28b11af049db88e0d8ff149b", null ],
-    [ "IsSummonedBy", "d6/d33/a06455.html#a0bcffd9eab068e35d71e3176c33359f1", null ],
-    [ "Permissible", "d6/d33/a06455.html#aa979e7a4774b35bf83ed137543d517b1", null ]
+    [ "BannedAddon", "d6/d33/a06455.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
+    [ "Id", "d6/d33/a06455.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
+    [ "NameMD5", "d6/d33/a06455.html#a67c4437044d747ff9867a71967697767", null ],
+    [ "Timestamp", "d6/d33/a06455.html#af62257c39a4ae1eba959086e981b0d19", null ],
+    [ "VersionMD5", "d6/d33/a06455.html#acb8dbe824f71363eb81504f43a126d96", null ]
 ];

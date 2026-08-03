@@ -1,12 +1,9 @@
 var a09483 =
 [
-    [ "flags", "d5/dae/a09483.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
-    [ "fourcc", "d5/dae/a09483.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
-    [ "height", "d5/dae/a09483.html#ab064dde684394c3aa84f9b151749d524", null ],
-    [ "liquidFlags", "d5/dae/a09483.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
-    [ "liquidLevel", "d5/dae/a09483.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
-    [ "liquidType", "d5/dae/a09483.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
-    [ "offsetX", "d5/dae/a09483.html#a2ddee980eda8b7321b55ba44697688b5", null ],
-    [ "offsetY", "d5/dae/a09483.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
-    [ "width", "d5/dae/a09483.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
+    [ "CellArea", "d5/dae/a09483.html#ace8ca84753b4ec8681415386fb135053", null ],
+    [ "CellArea", "d5/dae/a09483.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
+    [ "operator!", "d5/dae/a09483.html#a386d4a562c27155012daedc361541e3b", null ],
+    [ "ResizeBorders", "d5/dae/a09483.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
+    [ "high_bound", "d5/dae/a09483.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
+    [ "low_bound", "d5/dae/a09483.html#a374fe9802c798e6ece359a8025b6e1df", null ]
 ];

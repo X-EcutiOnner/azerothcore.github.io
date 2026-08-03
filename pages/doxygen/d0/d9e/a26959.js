@@ -1,6 +1,9 @@
 var a26959 =
 [
-    [ "PrepareSpellScript", "d0/d9e/a26959.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
-    [ "Register", "d0/d9e/a26959.html#ab58938808e460e843e42f2b6fa644e8a", null ],
-    [ "SetDest", "d0/d9e/a26959.html#ab87932c73a2e53647bda584aeb58f789", null ]
+    [ "CheckProcDummy", "d0/d9e/a26959.html#ae4e6d0683039ca5e8ff1877248048b3b", null ],
+    [ "CheckProcTriggerSpell", "d0/d9e/a26959.html#affbff48ab9421bda51b3a5781188546d", null ],
+    [ "HandleProcDummy", "d0/d9e/a26959.html#a0113a45bd4c28d1769df7b675de697ed", null ],
+    [ "PrepareAuraScript", "d0/d9e/a26959.html#af7d9ac7e014bbda32275bb584f5e2660", null ],
+    [ "Register", "d0/d9e/a26959.html#aa575597dab0670e768e20a3a06c6dc0a", null ],
+    [ "Validate", "d0/d9e/a26959.html#a63844728796945e892985720296d0c07", null ]
 ];

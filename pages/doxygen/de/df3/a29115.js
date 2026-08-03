@@ -1,16 +1,10 @@
 var a29115 =
 [
-    [ "amount", "de/df3/a29115.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
-    [ "aura_id", "de/df3/a29115.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
-    [ "charges", "de/df3/a29115.html#ade74be0906ef080347ac81ed48379cd1", null ],
-    [ "description", "de/df3/a29115.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
-    [ "EnchantmentCondition", "de/df3/a29115.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
-    [ "GemID", "de/df3/a29115.html#a324fd42b7184f5c626c33323a4d72b07", null ],
-    [ "ID", "de/df3/a29115.html#af46fa8808024e75705b812b695bd1590", null ],
-    [ "requiredLevel", "de/df3/a29115.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
-    [ "requiredSkill", "de/df3/a29115.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
-    [ "requiredSkillValue", "de/df3/a29115.html#a7a57764dad60c9369826638c1355127e", null ],
-    [ "slot", "de/df3/a29115.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
-    [ "spellid", "de/df3/a29115.html#a694edc79cf8ba571338bff2a3aad512d", null ],
-    [ "type", "de/df3/a29115.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
+    [ "HasFlag", "de/df3/a29115.html#abe23ca5437589a38ea57bc93a6197911", null ],
+    [ "CollisionHeight", "de/df3/a29115.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
+    [ "CollisionWidth", "de/df3/a29115.html#ab79497759cf169348b8922301fc43b2f", null ],
+    [ "Flags", "de/df3/a29115.html#a3bb96e232124771e78f8b5db53405106", null ],
+    [ "Id", "de/df3/a29115.html#aa19fec147703c7542be260c8ec5a0446", null ],
+    [ "MountHeight", "de/df3/a29115.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
+    [ "Scale", "de/df3/a29115.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
 ];

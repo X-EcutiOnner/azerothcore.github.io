@@ -1,13 +1,10 @@
 var a23499 =
 [
-    [ "boss_wrath_scryer_soccothrates", "d4/d67/a23499.html#a771980c1022e7699c3eb02baccb68a93", null ],
-    [ "InitializeAI", "d4/d67/a23499.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
-    [ "JustDied", "d4/d67/a23499.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
-    [ "JustEngagedWith", "d4/d67/a23499.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
-    [ "KilledUnit", "d4/d67/a23499.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
-    [ "MoveInLineOfSight", "d4/d67/a23499.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
-    [ "Reset", "d4/d67/a23499.html#a85435a23d36f13e348112348a26e7d12", null ],
-    [ "UpdateAI", "d4/d67/a23499.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
-    [ "events2", "d4/d67/a23499.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
-    [ "preFight", "d4/d67/a23499.html#a193889ee2815b93a1c9aeee394170fc4", null ]
+    [ "boss_gruul", "d4/d67/a23499.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
+    [ "JustDied", "d4/d67/a23499.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
+    [ "JustEngagedWith", "d4/d67/a23499.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
+    [ "KilledUnit", "d4/d67/a23499.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
+    [ "Reset", "d4/d67/a23499.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
+    [ "UpdateAI", "d4/d67/a23499.html#a3503b84f4fb896d439ccd49a997e4087", null ],
+    [ "_caveInTimer", "d4/d67/a23499.html#a66766f93a5ff543bbb0c9b805aaf253c", null ]
 ];

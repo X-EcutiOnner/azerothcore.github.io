@@ -1,7 +1,6 @@
 var a16419 =
 [
-    [ "HandleHit", "d1/dae/a16419.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "d1/dae/a16419.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "d1/dae/a16419.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "d1/dae/a16419.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "npc_anub_ar_crusher_necromancer", "d1/dae/a16419.html#a469d30b357551c4ce77f040bea79e951", null ],
+    [ "DoEngagedWith", "d1/dae/a16419.html#ab83cd9a16b191547f9307b80d8c697f6", null ],
+    [ "DoEvent", "d1/dae/a16419.html#a67889b3a207ab26b7895e2f7996359b1", null ]
 ];

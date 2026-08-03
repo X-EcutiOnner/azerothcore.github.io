@@ -1,7 +1,8 @@
 var a19027 =
 [
-    [ "npc_impaling_spearAI", "d9/da5/a19027.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
-    [ "Reset", "d9/da5/a19027.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
-    [ "UpdateAI", "d9/da5/a19027.html#acb187a58b0ba256b4e003655ac36db34", null ],
-    [ "_vehicleCheckTimer", "d9/da5/a19027.html#a264874b9f6f0609792d4b3a325e54f59", null ]
+    [ "npc_rotting_frost_giantAI", "d9/da5/a19027.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "d9/da5/a19027.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "d9/da5/a19027.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "d9/da5/a19027.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "d9/da5/a19027.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

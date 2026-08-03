@@ -1,6 +1,6 @@
 var a21571 =
 [
-    [ "HandleSendEvent", "d4/d04/a21571.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "d4/d04/a21571.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "d4/d04/a21571.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "npc_nerubar_victimAI", "d5/d92/a21575.html", "d5/d92/a21575" ],
+    [ "npc_nerubar_victim", "d4/d04/a21571.html#a4fe80597d3e56776f0f04965fc706097", null ],
+    [ "GetAI", "d4/d04/a21571.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
 ];

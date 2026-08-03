@@ -1,9 +1,6 @@
 var a08179 =
 [
-    [ "PvPCombatReference", "dc/dcc/a08179.html#a1439519e8f8665e345cd1bd3d28031aa", null ],
-    [ "RefreshTimer", "dc/dcc/a08179.html#ad8d05318d995aca2196c06768695b48e", null ],
-    [ "Update", "dc/dcc/a08179.html#a88d3291f9e29fa72f610b6c2a224fa4a", null ],
-    [ "CombatManager", "dc/dcc/a08179.html#ae013513b37e5f4a92a90f8c59f9291c1", null ],
-    [ "_combatTimer", "dc/dcc/a08179.html#accd9e37fa63f110daebb0086027f8ab6", null ],
-    [ "PVP_COMBAT_TIMEOUT", "dc/dcc/a08179.html#ae7026b02e2701be7a84d6da26bd3a432", null ]
+    [ "Rank", "dc/dcc/a08179.html#abd26e25c76d5344dfdd94547b2f310d4", null ],
+    [ "Spell", "dc/dcc/a08179.html#a0cb15c7c1e640b5a6acc8f8d94e6c719", null ],
+    [ "Talent", "dc/dcc/a08179.html#ae39546dc8db233709131b388a3868c1a", null ]
 ];

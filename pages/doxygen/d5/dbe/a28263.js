@@ -1,10 +1,6 @@
 var a28263 =
 [
-    [ "npc_dancing_flamesAI", "d5/dbe/a28263.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "d5/dbe/a28263.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "d5/dbe/a28263.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "d5/dbe/a28263.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "d5/dbe/a28263.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "d5/dbe/a28263.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "d5/dbe/a28263.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "go_midsummer_musicAI", "d5/dbe/a28263.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
+    [ "UpdateAI", "d5/dbe/a28263.html#adf185ee702e9e74f65204b90786f9eb4", null ],
+    [ "_events", "d5/dbe/a28263.html#a31e45a754930cdc3206fe2b7f754d234", null ]
 ];

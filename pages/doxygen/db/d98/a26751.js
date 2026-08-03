@@ -1,6 +1,9 @@
 var a26751 =
 [
-    [ "HandleFinish", "db/d98/a26751.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
-    [ "PrepareSpellScript", "db/d98/a26751.html#a8113f61816473399f0ceab18b104d058", null ],
-    [ "Register", "db/d98/a26751.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
+    [ "CheckCast", "db/d98/a26751.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
+    [ "HandleTriggerSpellHit", "db/d98/a26751.html#aca027bb2995456bfcedd33c06966eb88", null ],
+    [ "HandleTriggerSpellLaunch", "db/d98/a26751.html#aa67bf9f81086a3837037d67306979072", null ],
+    [ "PrepareSpellScript", "db/d98/a26751.html#a9247b5f3a376bebdcf857565b5049944", null ],
+    [ "Register", "db/d98/a26751.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
+    [ "Validate", "db/d98/a26751.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
 ];

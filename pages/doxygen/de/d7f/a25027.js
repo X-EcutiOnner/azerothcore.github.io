@@ -1,8 +1,13 @@
 var a25027 =
 [
-    [ "OnApply", "de/d7f/a25027.html#a9ea247d39fa51d9722c17e6ea83a0e55", null ],
-    [ "OnRemove", "de/d7f/a25027.html#abd45d59ecd41274bd02c17fb066a521e", null ],
-    [ "PrepareAuraScript", "de/d7f/a25027.html#af30811301599459bf2a99a68608a053f", null ],
-    [ "Register", "de/d7f/a25027.html#a0eb56dc80c02932a0d7cf4cca7079c75", null ],
-    [ "Validate", "de/d7f/a25027.html#a29c5049e4455737ff96596a18af118d0", null ]
+    [ "CalcPeriodic", "de/d7f/a25027.html#a08dca1818a687bb5862779e261dafb00", null ],
+    [ "CalculateExpertiseAmount", "de/d7f/a25027.html#a44703f4a1c5cfb74083bf74d7b77c23c", null ],
+    [ "CalculateHitAmount", "de/d7f/a25027.html#af6e9dda7381a80d4de93c1a7402a2e2b", null ],
+    [ "CalculateSpellHitAmount", "de/d7f/a25027.html#ab31dfffdf449c1eef74c2bcd43469109", null ],
+    [ "HandleEffectApply", "de/d7f/a25027.html#a6ba389f156263462f5e80e3a9fb6f62e", null ],
+    [ "HandlePeriodic", "de/d7f/a25027.html#ac97a33580dc873af7b580d4fdf7ed9f6", null ],
+    [ "PrepareAuraScript", "de/d7f/a25027.html#ad9aeb68e7d512f55f38f5a64d1d80f7f", null ],
+    [ "Register", "de/d7f/a25027.html#a803e26c6a4c06feedd80a4d94452aca5", null ],
+    [ "cap", "de/d7f/a25027.html#a9c3e35d01ad863d146566efe7cca2637", null ],
+    [ "maxChance", "de/d7f/a25027.html#a34933c7fe8b570214c821347f4ba974b", null ]
 ];

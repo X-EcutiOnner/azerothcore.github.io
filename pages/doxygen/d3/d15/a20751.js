@@ -1,18 +1,10 @@
 var a20751 =
 [
-    [ "boss_yoggsaron_brain", "d3/d15/a20751.html#a36521541acc73c7cb67d88dfd7cfe2ab", null ],
-    [ "DamageTaken", "d3/d15/a20751.html#ae6447e894e75f49c61876450f2cdc7ff", null ],
-    [ "DoAction", "d3/d15/a20751.html#aff1761f23cd984cc5db31026f84b4218", null ],
-    [ "GetData", "d3/d15/a20751.html#a30593cbb193bf868f99d54279e04d39e", null ],
-    [ "JustSummoned", "d3/d15/a20751.html#a5b1aa2863bcec9dff0f87a6d4154daf6", null ],
-    [ "PrepareChamberIllusion", "d3/d15/a20751.html#ad162b38c8b4d638c6f3f6c673b6554d4", null ],
-    [ "PrepareIceCrownIllusion", "d3/d15/a20751.html#adf41fc4e1adda0e969e06f490fe59414", null ],
-    [ "PrepareStormwindIllusion", "d3/d15/a20751.html#a193b18ba9aa03583659002c6a339c0c7", null ],
-    [ "Reset", "d3/d15/a20751.html#a9d75d3a6e7d89d8d1c4e472b8fe82161", null ],
-    [ "UpdateAI", "d3/d15/a20751.html#a7146ec81c014dd9c19a18ccf0fe30d87", null ],
-    [ "_activeIllusion", "d3/d15/a20751.html#aebc5e80be39aea6be68b9b1e78ec770f", null ],
-    [ "_brainDamaged", "d3/d15/a20751.html#a9b8045951ba23deda3db3f9bfcee0754", null ],
-    [ "_induceTimer", "d3/d15/a20751.html#a3c0d87cf1dc824321aa02034f800f14b", null ],
-    [ "_tentacleCount", "d3/d15/a20751.html#a58a8dcda9f7f41f061af4cb6b26657fd", null ],
-    [ "summons", "d3/d15/a20751.html#ae51cea57d22cfac38efdddde1bed15f9", null ]
+    [ "npc_razorscale_dark_rune_watcher", "d3/d15/a20751.html#aff56f4cadfeb72f6a96f8ac86b27a6a1", null ],
+    [ "CanAIAttack", "d3/d15/a20751.html#a68ef8f2c7014850c5107cc22deff8658", null ],
+    [ "JustEngagedWith", "d3/d15/a20751.html#a303994b6f5e2ae6e4d6f0e44d9eb60a9", null ],
+    [ "Reset", "d3/d15/a20751.html#aaab4be32140991366f1a004622bf3b31", null ],
+    [ "UpdateAI", "d3/d15/a20751.html#a8d1518f80cc6427d0334770a5aaf130a", null ],
+    [ "_events", "d3/d15/a20751.html#a15fa73dea3b9b86a6d1b42f9d1296d6e", null ],
+    [ "_instance", "d3/d15/a20751.html#ac08ba6b60827408aeb1b63a48a57fa9e", null ]
 ];

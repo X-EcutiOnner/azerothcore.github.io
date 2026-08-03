@@ -1,8 +1,7 @@
 var a15903 =
 [
-    [ "CheckRequirement", "d7/d10/a15903.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "d7/d10/a15903.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "d7/d10/a15903.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "d7/d10/a15903.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "d7/d10/a15903.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_kerlonianAI", "db/de1/a15907.html", "db/de1/a15907" ],
+    [ "npc_kerlonian", "d7/d10/a15903.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
+    [ "GetAI", "d7/d10/a15903.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
+    [ "OnQuestAccept", "d7/d10/a15903.html#a353f482c843066031397b1bfaf193b5f", null ]
 ];

@@ -1,8 +1,8 @@
 var a22031 =
 [
-    [ "npc_time_lost_proto_drakeAI", "da/d0f/a22031.html#ab98805519233eda932c6131aca059a8b", null ],
-    [ "InitializeAI", "da/d0f/a22031.html#a6b99780951a126a97db88e7307c1d1b9", null ],
-    [ "JustEngagedWith", "da/d0f/a22031.html#ab95266d60769aa4099ca0f1bf678f237", null ],
-    [ "Reset", "da/d0f/a22031.html#a418ea9621040e3c717c4e24f73539f44", null ],
-    [ "UpdateAI", "da/d0f/a22031.html#abb28428b77beada6a378541ba11d090b", null ]
+    [ "AfterApply", "da/d0f/a22031.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
+    [ "AfterRemove", "da/d0f/a22031.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
+    [ "PrepareAuraScript", "da/d0f/a22031.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
+    [ "Register", "da/d0f/a22031.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
+    [ "Validate", "da/d0f/a22031.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
 ];

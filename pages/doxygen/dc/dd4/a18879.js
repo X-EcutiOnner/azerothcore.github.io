@@ -1,6 +1,7 @@
 var a18879 =
 [
-    [ "npc_gluttonous_abominationAI", "dc/d2b/a18883.html", "dc/d2b/a18883" ],
-    [ "npc_gluttonous_abomination", "dc/dd4/a18879.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
-    [ "GetAI", "dc/dd4/a18879.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
+    [ "ValithriaDespawner", "dc/dd4/a18879.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "dc/dd4/a18879.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "dc/dd4/a18879.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "dc/dd4/a18879.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

@@ -1,9 +1,6 @@
 var a21727 =
 [
-    [ "npc_venture_co_stragglerAI", "d5/d11/a21727.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
-    [ "Reset", "d5/d11/a21727.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
-    [ "SpellHit", "d5/d11/a21727.html#ae1919454c270d10342079b60a727a306", null ],
-    [ "UpdateAI", "d5/d11/a21727.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
-    [ "_events", "d5/d11/a21727.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
-    [ "_playerGUID", "d5/d11/a21727.html#a649493944b143782d995b5bdda3714b4", null ]
+    [ "npc_dalaran_warriorAI", "d4/db8/a21731.html", "d4/db8/a21731" ],
+    [ "npc_dalaran_warrior", "d5/d11/a21727.html#a13d44b85173232ddedcc35184d50549c", null ],
+    [ "GetAI", "d5/d11/a21727.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
 ];

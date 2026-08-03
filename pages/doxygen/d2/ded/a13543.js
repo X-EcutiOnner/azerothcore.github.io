@@ -1,7 +1,6 @@
 var a13543 =
 [
-    [ "HandleScript", "d2/ded/a13543.html#a6ce169d6c1b106195f787b52ea433311", null ],
-    [ "PrepareSpellScript", "d2/ded/a13543.html#a4f71583df2193274365944e6d228247c", null ],
-    [ "Register", "d2/ded/a13543.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
-    [ "Validate", "d2/ded/a13543.html#a51025308f88001f1f66d7f68f174f325", null ]
+    [ "instance_scholomance_InstanceMapScript", "dd/d09/a13547.html", "dd/d09/a13547" ],
+    [ "instance_scholomance", "d2/ded/a13543.html#ace7a781c45623419daad6143480d8fe2", null ],
+    [ "GetInstanceScript", "d2/ded/a13543.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
 ];

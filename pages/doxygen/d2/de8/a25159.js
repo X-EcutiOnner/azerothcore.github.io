@@ -1,6 +1,6 @@
 var a25159 =
 [
-    [ "PrepareSpellScript", "d2/de8/a25159.html#abb178100d4e5fa4032118f86aa34127d", null ],
-    [ "Register", "d2/de8/a25159.html#a50e902cc281b909259097a8bed5651f2", null ],
-    [ "RemoveVehicleAuras", "d2/de8/a25159.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
+    [ "HandleEffectPeriodicUpdate", "d2/de8/a25159.html#a554353fede78b89bf488230254d7892b", null ],
+    [ "PrepareAuraScript", "d2/de8/a25159.html#adf20aaafff83bae614ff3c614a08a54b", null ],
+    [ "Register", "d2/de8/a25159.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
 ];

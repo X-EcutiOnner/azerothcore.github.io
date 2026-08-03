@@ -1,5 +1,8 @@
 var a25543 =
 [
-    [ "PrepareSpellScript", "de/da0/a25543.html#acb39fd85035670fb98dcea66c29b2ff7", null ],
-    [ "Register", "de/da0/a25543.html#a7fe416070962ba582d59ddff70c13590", null ]
+    [ "CalcPeriodic", "de/da0/a25543.html#ab11cad89fe213256353c88c351a8743b", null ],
+    [ "HandleUpdatePeriodic", "de/da0/a25543.html#a096bc5640e42232f7754251daf5b6a8a", null ],
+    [ "OnApply", "de/da0/a25543.html#ae00430a1418a0c3e91ae340f1a33f157", null ],
+    [ "PrepareAuraScript", "de/da0/a25543.html#a85b849676d1c4c08921edff8d472da04", null ],
+    [ "Register", "de/da0/a25543.html#a75a4f12269c7684335c3c09cd5002586", null ]
 ];

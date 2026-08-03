@@ -1,8 +1,8 @@
 var a05667 =
 [
-    [ "LogOperation", "d6/dda/a05667.html#a19e5e4731bd71697876110348f86d737", null ],
-    [ "~LogOperation", "d6/dda/a05667.html#aae305e293044badac1a628edd501ed35", null ],
-    [ "call", "d6/dda/a05667.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
-    [ "logger", "d6/dda/a05667.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
-    [ "msg", "d6/dda/a05667.html#a665effc48367f396f3e714f5d3d56d75", null ]
+    [ "Decode", "d6/dda/a05667.html#aacf2a55e180aa5ee475ac76c6af4d47a", null ],
+    [ "Encode", "d6/dda/a05667.html#a51c8847dc9b75161f4d2d366324dc50f", null ],
+    [ "BITS_PER_CHAR", "d6/dda/a05667.html#a10f3736ee2ed8e79e1236798e2b1d2be", null ],
+    [ "DECODE_ERROR", "d6/dda/a05667.html#ace6b211be8a36043942f0a1aaee063b1", null ],
+    [ "PADDING", "d6/dda/a05667.html#af099d69cc636a7ad298ec9e38b2f20d2", null ]
 ];

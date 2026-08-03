@@ -1,7 +1,6 @@
 var a18267 =
 [
-    [ "CheckRequirement", "dc/d30/a18267.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
-    [ "CheckRequirementInternal", "dc/d30/a18267.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
-    [ "PrepareSpellScript", "dc/d30/a18267.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
-    [ "Register", "dc/d30/a18267.html#a95a250aeb3a41922c529f476d39f18e4", null ]
+    [ "boss_professor_putricideAI", "d8/d8c/a18271.html", "d8/d8c/a18271" ],
+    [ "boss_professor_putricide", "dc/d30/a18267.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "dc/d30/a18267.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

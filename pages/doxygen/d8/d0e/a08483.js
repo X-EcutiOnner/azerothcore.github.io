@@ -1,6 +1,11 @@
 var a08483 =
 [
-    [ "ForcedUnsummonDelayEvent", "d8/d0e/a08483.html#aadabfc349c81e02743add4307977c2fd", null ],
-    [ "Execute", "d8/d0e/a08483.html#a86d7bd6f9f47ef37382b725f0d64877b", null ],
-    [ "m_owner", "d8/d0e/a08483.html#a3954577354fb882ec1def262502ed2e6", null ]
+    [ "FormationInfo", "d8/d0e/a08483.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
+    [ "HasGroupFlag", "d8/d0e/a08483.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
+    [ "follow_angle", "d8/d0e/a08483.html#a928ce7047d511c316a5367faf7f96673", null ],
+    [ "follow_dist", "d8/d0e/a08483.html#a3b59ee5129e208cc3df407a921362393", null ],
+    [ "groupAI", "d8/d0e/a08483.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
+    [ "leaderGUID", "d8/d0e/a08483.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
+    [ "point_1", "d8/d0e/a08483.html#a84298ff533bebc633689742c7f9299ae", null ],
+    [ "point_2", "d8/d0e/a08483.html#acc308b497de18211b99eec4311b256a4", null ]
 ];

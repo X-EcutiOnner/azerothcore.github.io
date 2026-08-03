@@ -1,6 +1,6 @@
 var a18567 =
 [
-    [ "npc_tirion_fordringAI", "df/d1e/a18571.html", "df/d1e/a18571" ],
-    [ "npc_tirion_fordring_tft", "d5/d0b/a18567.html#a04036d958e7ac643c9ba8d9073bca404", null ],
-    [ "GetAI", "d5/d0b/a18567.html#a41dcfa415831091531cbf46e946f442d", null ]
+    [ "npc_sindragosa_trashAI", "df/d1e/a18571.html", "df/d1e/a18571" ],
+    [ "npc_sindragosa_trash", "d5/d0b/a18567.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
+    [ "GetAI", "d5/d0b/a18567.html#ab1de715d98236a853a793d830bc601d7", null ]
 ];

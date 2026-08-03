@@ -1,6 +1,5 @@
 var a26239 =
 [
-    [ "OnRemove", "da/d19/a26239.html#ae1f257e43effcb396d57d42db3063afd", null ],
-    [ "PrepareAuraScript", "da/d19/a26239.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
-    [ "Register", "da/d19/a26239.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
+    [ "PrepareSpellScript", "da/d19/a26239.html#a5f3b3fb1c42f21d309923e12f1272408", null ],
+    [ "Register", "da/d19/a26239.html#afc19789732c46589dca40d46cdb12d9e", null ]
 ];

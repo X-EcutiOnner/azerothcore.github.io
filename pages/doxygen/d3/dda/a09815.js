@@ -1,7 +1,8 @@
 var a09815 =
 [
-    [ "PlayerAtMinimumRangeAway", "d3/dda/a09815.html#a12eb5ff486232f88c7303741ebd8e65e", null ],
-    [ "operator()", "d3/dda/a09815.html#a1cfda97a0590e033f9b6043c8de2d0a0", null ],
-    [ "fRange", "d3/dda/a09815.html#a0c58929de429694f24877525287f15a6", null ],
-    [ "unit", "d3/dda/a09815.html#a4ea0f83c3287079cff40fac15272fa94", null ]
+    [ "NearestHostileUnitInAttackDistanceCheck", "d3/dda/a09815.html#a0b1d14f1347a3749a91ef6e888ccb23e", null ],
+    [ "NearestHostileUnitInAttackDistanceCheck", "d3/dda/a09815.html#a5645c9808db082b0301ec8b2ea93ce7f", null ],
+    [ "operator()", "d3/dda/a09815.html#adc28281742cd1f6a49152481b48f944e", null ],
+    [ "m_range", "d3/dda/a09815.html#ab79296a88ed07257edbe3449c2515b40", null ],
+    [ "me", "d3/dda/a09815.html#a298d2489b9bf30aa510407afca79a374", null ]
 ];

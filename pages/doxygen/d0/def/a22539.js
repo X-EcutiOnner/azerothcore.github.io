@@ -1,6 +1,5 @@
 var a22539 =
 [
-    [ "HandleScriptEffect", "d0/def/a22539.html#aa60961c2609184e739dea3be8ba992d5", null ],
-    [ "PrepareSpellScript", "d0/def/a22539.html#aacde592314399112786b024153389024", null ],
-    [ "Register", "d0/def/a22539.html#a3a2299da6fd73d14c7771e7a2c8a4ebd", null ]
+    [ "OutdoorPvP_grizzly_hills", "d0/def/a22539.html#aa020d8120c62874fb15b4623bbb714d9", null ],
+    [ "GetOutdoorPvP", "d0/def/a22539.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
 ];

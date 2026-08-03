@@ -1,6 +1,12 @@
 var a17863 =
 [
-    [ "npc_stinky_iccAI", "da/d1d/a17867.html", "da/d1d/a17867" ],
-    [ "npc_stinky_icc", "da/da6/a17863.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
-    [ "GetAI", "da/da6/a17863.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "da/da6/a17863.html#a4313164857ebd174fe33a9a16340b332", null ],
+    [ "DoAction", "da/da6/a17863.html#a16eeb7d0ed6c943c088285462131cd51", null ],
+    [ "MovementInform", "da/da6/a17863.html#a9a2e367f30ee16ca55e634de8e22551e", null ],
+    [ "Reset", "da/da6/a17863.html#ad5d5a9de05e472d24fe399b4de79a3d0", null ],
+    [ "SpellHit", "da/da6/a17863.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
+    [ "UpdateAI", "da/da6/a17863.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
+    [ "_events", "da/da6/a17863.html#ae7079b335373cc06a040756328e7f714", null ],
+    [ "_guardList", "da/da6/a17863.html#a1cbd87af34584979b37dfff8b29f9623", null ],
+    [ "_instance", "da/da6/a17863.html#af1d8694678b10e5393c658ba0b20f47a", null ]
 ];

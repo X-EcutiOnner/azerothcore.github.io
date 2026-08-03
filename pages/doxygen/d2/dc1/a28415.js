@@ -1,8 +1,6 @@
 var a28415 =
 [
-    [ "npc_minion_spawner", "d2/dc1/a28415.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "d2/dc1/a28415.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "d2/dc1/a28415.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "d2/dc1/a28415.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "d2/dc1/a28415.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "npc_innkeeper", "d2/dc1/a28415.html#a006f27d898ead8827d8b98d8b93d430d", null ],
+    [ "OnGossipHello", "d2/dc1/a28415.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
+    [ "OnGossipSelect", "d2/dc1/a28415.html#ab6cf511f5b032050336a77d1e4598dda", null ]
 ];

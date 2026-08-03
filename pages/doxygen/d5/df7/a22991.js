@@ -1,6 +1,12 @@
 var a22991 =
 [
-    [ "HandleScriptEffect", "d5/df7/a22991.html#a9e42f1af6fabb7df066cc2488a831418", null ],
-    [ "PrepareSpellScript", "d5/df7/a22991.html#a866496b087288a3cb8f00d4dbdb5d2ec", null ],
-    [ "Register", "d5/df7/a22991.html#a0fdb5d866d714d1d3bc71c4439a7f593", null ]
+    [ "npc_creature_generator_akama", "d5/df7/a22991.html#a8e91cadea7f135ff692635e4d39923e0", null ],
+    [ "DoAction", "d5/df7/a22991.html#a01efeecd374056da287e4a1e468472b6", null ],
+    [ "JustSummoned", "d5/df7/a22991.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
+    [ "Reset", "d5/df7/a22991.html#a23cf08661802f247147bb23cff30eeab", null ],
+    [ "SummonedCreatureDies", "d5/df7/a22991.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
+    [ "UpdateAI", "d5/df7/a22991.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
+    [ "instance", "d5/df7/a22991.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
+    [ "spawnCounter", "d5/df7/a22991.html#a02d8acace195438fe6e8d4705a043078", null ],
+    [ "summons", "d5/df7/a22991.html#a3d532e607c48298ca0464ee630dd27b3", null ]
 ];

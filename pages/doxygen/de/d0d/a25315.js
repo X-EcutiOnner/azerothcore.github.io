@@ -1,5 +1,7 @@
 var a25315 =
 [
-    [ "PrepareSpellScript", "de/d0d/a25315.html#a800936a311c05236dbd0c9c2f0edd5d9", null ],
-    [ "Register", "de/d0d/a25315.html#ae176a1f643797b5367a593bbb2acc506", null ]
+    [ "HandleChargeEffect", "de/d0d/a25315.html#ad8d2871e6277dd982653fa864010d084", null ],
+    [ "HandleScriptEffect", "de/d0d/a25315.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc", null ],
+    [ "PrepareSpellScript", "de/d0d/a25315.html#a1f8722308e1a5bef546dcb939d73dca7", null ],
+    [ "Register", "de/d0d/a25315.html#a2cdda449ab11438347e7dd32fd058e6d", null ]
 ];

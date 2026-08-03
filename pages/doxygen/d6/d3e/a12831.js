@@ -1,13 +1,11 @@
 var a12831 =
 [
-    [ "boss_nefarian", "d6/d3e/a12831.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
-    [ "JustDied", "d6/d3e/a12831.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
-    [ "JustEngagedWith", "d6/d3e/a12831.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
-    [ "KilledUnit", "d6/d3e/a12831.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
-    [ "MovementInform", "d6/d3e/a12831.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
-    [ "PathEndReached", "d6/d3e/a12831.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
-    [ "Reset", "d6/d3e/a12831.html#a5d687fce34b17e22c605c263395e823b", null ],
-    [ "UpdateAI", "d6/d3e/a12831.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
-    [ "_introDone", "d6/d3e/a12831.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
-    [ "classesPresent", "d6/d3e/a12831.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
+    [ "boss_solakar_flamewreath", "d6/d3e/a12831.html#aff732901de1306b363e5a3d9994b3c9b", null ],
+    [ "ExecuteEvent", "d6/d3e/a12831.html#a72bf587aae341ba70bd219c8d97fe9a1", null ],
+    [ "InitializeAI", "d6/d3e/a12831.html#a21875946b8e9cfa8711f36f98a61a034", null ],
+    [ "JustDied", "d6/d3e/a12831.html#ae4d59238a359487e44985e040ee27732", null ],
+    [ "JustEngagedWith", "d6/d3e/a12831.html#af6a0c97341547ea852d9a09d3b66358e", null ],
+    [ "Reset", "d6/d3e/a12831.html#ae83c926a718af8ee0d90b8a9be800031", null ],
+    [ "UpdateAI", "d6/d3e/a12831.html#ad211f24ce4019724060441529ceaa780", null ],
+    [ "resetTimer", "d6/d3e/a12831.html#a602092d8262420bc51eef286b7c96d84", null ]
 ];

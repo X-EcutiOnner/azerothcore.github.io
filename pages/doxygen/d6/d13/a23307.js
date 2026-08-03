@@ -1,7 +1,10 @@
 var a23307 =
 [
-    [ "PeriodicTick", "d6/d13/a23307.html#a53541105e40202e4a73ecc38d84e9eca", null ],
-    [ "PrepareAuraScript", "d6/d13/a23307.html#a79c8829a86db535e254db009d5286430", null ],
-    [ "Register", "d6/d13/a23307.html#a58cd762eb10d224bb188aaf167c816b9", null ],
-    [ "Validate", "d6/d13/a23307.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
+    [ "Spells", "d6/d13/a23307.html#a70ca1841fb1db54e6f76b96331e05cf1", [
+      [ "SPELL_GROW", "d6/d13/a23307.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
+      [ "SPELL_SPORE_CLOUD", "d6/d13/a23307.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
+    ] ],
+    [ "npc_rancid_mushroom", "d6/d13/a23307.html#a15896957b94de57de9eda5a199a05d4c", null ],
+    [ "InitializeAI", "d6/d13/a23307.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
+    [ "UpdateAI", "d6/d13/a23307.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
 ];

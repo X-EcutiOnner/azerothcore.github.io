@@ -1,7 +1,7 @@
 var a27627 =
 [
-    [ "HandleEffect", "db/dcd/a27627.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
-    [ "PrepareSpellScript", "db/dcd/a27627.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
-    [ "Register", "db/dcd/a27627.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
-    [ "Validate", "db/dcd/a27627.html#ab6d78ecb650f13df3376baced8c40a63", null ]
+    [ "HandleProc", "db/dcd/a27627.html#a9531d72f68dfc46cb6a49c9d10ee14dc", null ],
+    [ "PrepareAuraScript", "db/dcd/a27627.html#a4bd22c4f4cbd80ca26b0e27081dcb406", null ],
+    [ "Register", "db/dcd/a27627.html#a5cdc48d549e97060e837c6396e19cfb4", null ],
+    [ "Validate", "db/dcd/a27627.html#ad69695289aca17548b11199a84bbaf37", null ]
 ];

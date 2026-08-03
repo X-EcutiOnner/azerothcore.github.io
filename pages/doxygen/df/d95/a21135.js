@@ -1,11 +1,8 @@
 var a21135 =
 [
-    [ "boss_archavonAI", "df/d95/a21135.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
-    [ "AttackStart", "df/d95/a21135.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
-    [ "JustDied", "df/d95/a21135.html#a3974065a80dedf3e673452e7f6f8e449", null ],
-    [ "JustEngagedWith", "df/d95/a21135.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
-    [ "Reset", "df/d95/a21135.html#a7d101626f39947dd54b574491a5e6d72", null ],
-    [ "UpdateAI", "df/d95/a21135.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
-    [ "events", "df/d95/a21135.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
-    [ "pInstance", "df/d95/a21135.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
+    [ "npc_ulduar_keeperAI", "d0/dce/a21139.html", "d0/dce/a21139" ],
+    [ "npc_ulduar_keeper", "df/d95/a21135.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "df/d95/a21135.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "df/d95/a21135.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "df/d95/a21135.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

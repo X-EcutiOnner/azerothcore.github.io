@@ -1,6 +1,5 @@
 var a25563 =
 [
-    [ "HandleDummyTick", "dd/d70/a25563.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
-    [ "PrepareAuraScript", "dd/d70/a25563.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
-    [ "Register", "dd/d70/a25563.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
+    [ "PrepareSpellScript", "dd/d70/a25563.html#a939db3d626f3451edd605ced6d9b2ebe", null ],
+    [ "Register", "dd/d70/a25563.html#a5b356ca08e33c8eb127bec763f105792", null ]
 ];

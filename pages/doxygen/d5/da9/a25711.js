@@ -1,8 +1,6 @@
 var a25711 =
 [
-    [ "HandleProc", "d5/da9/a25711.html#ad92c7804b26bd29d135e55c8adad9093", null ],
-    [ "OnRemove", "d5/da9/a25711.html#afa8e065ed835243f3ebb95c10792adf8", null ],
-    [ "PrepareAuraScript", "d5/da9/a25711.html#a5e986f77b23fd0402089ea36f0360c79", null ],
-    [ "Register", "d5/da9/a25711.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
-    [ "Validate", "d5/da9/a25711.html#a51f81afec6ff0918530208d9de9dae24", null ]
+    [ "HandleStackDrop", "d5/da9/a25711.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
+    [ "PrepareAuraScript", "d5/da9/a25711.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
+    [ "Register", "d5/da9/a25711.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
 ];

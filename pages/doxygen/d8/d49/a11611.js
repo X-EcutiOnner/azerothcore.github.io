@@ -1,6 +1,6 @@
 var a11611 =
 [
-    [ "ClientOpcodeHandler", "d7/de8/a05037.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
-    [ "Call", "d7/de8/a05037.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
-    [ "ProcessingPlace", "d7/de8/a05037.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
+    [ "QuestGiverQuestInvalid", "d8/d49/a11611.html#a7220ac375523d524f905042722522bfb", null ],
+    [ "Write", "d8/d49/a11611.html#aed56e88c0fc568d524913c0863a45622", null ],
+    [ "FailureReason", "d8/d49/a11611.html#a7c2cc4153399abfbaa4b2b2811d2fde2", null ]
 ];

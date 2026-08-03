@@ -1,7 +1,5 @@
 var a21747 =
 [
-    [ "HandleDummy", "d6/daa/a21747.html#abb5726c8afa66a946eefc8767094ea9b", null ],
-    [ "PrepareSpellScript", "d6/daa/a21747.html#ab5d9f8125c75bbd8fbb2717516d3eddd", null ],
-    [ "Register", "d6/daa/a21747.html#a38efc59fcbb40469521419723a1dceb3", null ],
-    [ "Validate", "d6/daa/a21747.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e", null ]
+    [ "go_the_pearl_of_the_depths", "d6/daa/a21747.html#a0e09ddcde0eef050400d90e9a268823a", null ],
+    [ "OnGossipHello", "d6/daa/a21747.html#a745ea14136a78759a3afd7714c6d784a", null ]
 ];

@@ -1,7 +1,6 @@
 var a25415 =
 [
-    [ "HandleDummy", "d8/ddf/a25415.html#a4b23e39151d0bced8bb729435a56352d", null ],
-    [ "Load", "d8/ddf/a25415.html#aaa341815d71652a13f3ca449af6ac14f", null ],
-    [ "PrepareSpellScript", "d8/ddf/a25415.html#ac0e7d279312a59dd62d7d91eb3ef82b7", null ],
-    [ "Register", "d8/ddf/a25415.html#a19a2247cebd2af38a1bd30af213ad633", null ]
+    [ "PrepareSpellScript", "d8/ddf/a25415.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "d8/ddf/a25415.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "d8/ddf/a25415.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

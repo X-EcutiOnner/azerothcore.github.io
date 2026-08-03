@@ -1,11 +1,5 @@
 var a15055 =
 [
-    [ "boss_anetheron", "da/d0f/a15055.html#a6c103caa3f137756599a75bff03a6648", null ],
-    [ "DoAction", "da/d0f/a15055.html#a2fd485de26c820fec5240f9141a09964", null ],
-    [ "JustDied", "da/d0f/a15055.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
-    [ "JustEngagedWith", "da/d0f/a15055.html#aa34ac87ad4014fbecb481be7896c577c", null ],
-    [ "JustSummoned", "da/d0f/a15055.html#af9c156e28c7eca710d8367bd2a99387d", null ],
-    [ "KilledUnit", "da/d0f/a15055.html#a4471af823278a3664574729bf5c749be", null ],
-    [ "PathEndReached", "da/d0f/a15055.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
-    [ "_recentlySpoken", "da/d0f/a15055.html#accd9455c3b1d536ca177be6028f3503d", null ]
+    [ "npc_pilgrims_bounty_plate", "da/d0f/a15055.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
+    [ "SpellHit", "da/d0f/a15055.html#a7797b7a532336542ef37f0643df8dec0", null ]
 ];

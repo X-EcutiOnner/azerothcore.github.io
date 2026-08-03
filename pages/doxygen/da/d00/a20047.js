@@ -1,8 +1,9 @@
 var a20047 =
 [
-    [ "OnPeriodic", "da/d00/a20047.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
-    [ "OnRemove", "da/d00/a20047.html#ac6d961793ddb6423540da9d97e016b82", null ],
-    [ "PrepareAuraScript", "da/d00/a20047.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
-    [ "Register", "da/d00/a20047.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
-    [ "Validate", "da/d00/a20047.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "da/d00/a20047.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
+    [ "JustEngagedWith", "da/d00/a20047.html#a9e6527bc46d7b685d938833d18796cee", null ],
+    [ "MoveInLineOfSight", "da/d00/a20047.html#a7449e135f088a2d4b22a423c71118093", null ],
+    [ "MovementInform", "da/d00/a20047.html#ac04d90e974f85282737bb5081a123106", null ],
+    [ "UpdateAI", "da/d00/a20047.html#afccd77c8e90d129fb3a347205a2102db", null ],
+    [ "events", "da/d00/a20047.html#a73c135ec94b41a752fc203c5e20128d0", null ]
 ];

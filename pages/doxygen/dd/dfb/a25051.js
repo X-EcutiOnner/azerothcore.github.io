@@ -1,7 +1,6 @@
 var a25051 =
 [
-    [ "HandleScript", "dd/dfb/a25051.html#a8b20e2ffed94ec9438dc9b756ba76693", null ],
-    [ "PrepareSpellScript", "dd/dfb/a25051.html#a9e29ea947d5415471d991a4e1cd699ac", null ],
-    [ "Register", "dd/dfb/a25051.html#aa4bc27415893009581b317637599a85a", null ],
-    [ "Validate", "dd/dfb/a25051.html#a77ed10819633ae2bc381023da0feb31b", null ]
+    [ "CheckAreaTarget", "dd/dfb/a25051.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
+    [ "PrepareAuraScript", "dd/dfb/a25051.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
+    [ "Register", "dd/dfb/a25051.html#a6647a8e35009cf8559e4957a666f037a", null ]
 ];

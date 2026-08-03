@@ -1,7 +1,10 @@
 var a10863 =
 [
-    [ "AutoStoreBankItem", "d0/da5/a10863.html#a1cdb7e9c7da7e646af14ac4ac3b7e950", null ],
-    [ "Read", "d0/da5/a10863.html#a2a482b716f537866a815085ead9cfd38", null ],
-    [ "Bag", "d0/da5/a10863.html#a08d2992816ee94b6757c2811b54ed437", null ],
-    [ "Slot", "d0/da5/a10863.html#aaf2cd8c1c3d67301cc40af78f138daa0", null ]
+    [ "TicketScript", "d0/da5/a10863.html#aec2b310ba0b26aa84a245207256edb0e", null ],
+    [ "IsDatabaseBound", "d0/da5/a10863.html#afa21fa5aaf58c4ff964bcb3f81afbb32", null ],
+    [ "OnTicketClose", "d0/da5/a10863.html#add082bd9a2d3a068bbb8f3a97d130887", null ],
+    [ "OnTicketCreate", "d0/da5/a10863.html#a3436bbc78425bf5144c81f6309060b33", null ],
+    [ "OnTicketResolve", "d0/da5/a10863.html#abd4d9cdf0fd99c10d6d86c395adecb9a", null ],
+    [ "OnTicketStatusUpdate", "d0/da5/a10863.html#ae30b28cef4497cbed153c3e98e26d00d", null ],
+    [ "OnTicketUpdateLastChange", "d0/da5/a10863.html#a3535e5592bc5f9ceb6b642b80a4f46b7", null ]
 ];

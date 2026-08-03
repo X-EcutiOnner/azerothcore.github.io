@@ -1,18 +1,10 @@
 var a12827 =
 [
-    [ "boss_victor_nefarius", "d0/d5b/a12827.html#a9d4a7d8fd46382e6f0f538dd426f760d", null ],
-    [ "BeginEvent", "d0/d5b/a12827.html#afdd6dfe4ad32135f8aeaa2e9963ccaf4", null ],
-    [ "DoAction", "d0/d5b/a12827.html#ad6d5d43db3e2abbc1ca9cf796e94f6fe", null ],
-    [ "Initialize", "d0/d5b/a12827.html#a9af31a337899d1fc089db542c9980512", null ],
-    [ "JustDied", "d0/d5b/a12827.html#a2ff548e6fd5df2877772e425d9354415", null ],
-    [ "JustReachedHome", "d0/d5b/a12827.html#a49eecb765afd0ad88bbe93ca664d67cc", null ],
-    [ "JustSummoned", "d0/d5b/a12827.html#aac1786270619ae0a40d5bc20e036b34e", null ],
-    [ "Reset", "d0/d5b/a12827.html#aac8e08f7c731890edfdf9664873ec83c", null ],
-    [ "SetData", "d0/d5b/a12827.html#adfdcaeb8047b728eeee28b32136d02ab", null ],
-    [ "sGossipSelect", "d0/d5b/a12827.html#a238965424e584e1ed97e831ab125bc23", null ],
-    [ "SummonedCreatureDies", "d0/d5b/a12827.html#a97f23bbb8ee7fa322bde2c3c36ef2083", null ],
-    [ "UpdateAI", "d0/d5b/a12827.html#a782353216a18dda7c0afb6c1d2fa9e6a", null ],
-    [ "_killedAdds", "d0/d5b/a12827.html#a17528d290fc57596969d4ac8020d0520", null ],
-    [ "_nefarianLeftTunnel", "d0/d5b/a12827.html#a7b6018c7b8b7d8080ffb90f99c732090", null ],
-    [ "_nefarianRightTunnel", "d0/d5b/a12827.html#a22a9f85d12a129db428ef63fd4f4c6db", null ]
+    [ "npc_rookery_hatcher", "d0/d5b/a12827.html#ab4740540a6fc2661c3c99bd2569a0bfa", null ],
+    [ "InitializeAI", "d0/d5b/a12827.html#a58d6bb3ba8d39c0e92d30f4c124e3734", null ],
+    [ "JustEngagedWith", "d0/d5b/a12827.html#a9d2e256f8df44254cc0301fe2b1fa628", null ],
+    [ "UpdateAI", "d0/d5b/a12827.html#a011cf0384a7bf6dd502a767d6667140a", null ],
+    [ "events", "d0/d5b/a12827.html#ab49d35c9d22408b01e27c8c7933433e0", null ],
+    [ "targetEgg", "d0/d5b/a12827.html#a4fd5ed979e2c3d600e89e4592b7da98c", null ],
+    [ "targetPosition", "d0/d5b/a12827.html#ac49345c80e58f7c0094fe1b62ac4bf84", null ]
 ];

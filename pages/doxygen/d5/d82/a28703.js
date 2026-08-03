@@ -1,5 +1,4 @@
 var a28703 =
 [
-    [ "Price", "d5/d82/a28703.html#a9cf01cf0d41d49613b4ceaf1eeb1716b", null ],
-    [ "Slot", "d5/d82/a28703.html#aa53247914bda0ceca015b8b9ca117379", null ]
+    [ "operator()", "d5/d82/a28703.html#a76ede7ef27a41a284821e690c88375c9", null ]
 ];

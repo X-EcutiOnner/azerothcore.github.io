@@ -1,7 +1,8 @@
 var a19115 =
 [
-    [ "HandleDummy", "d4/d57/a19115.html#a4bfc155129bd80c94b4b59474f30d748", null ],
-    [ "PrepareSpellScript", "d4/d57/a19115.html#a9c72772f9d17b34562bd11418d67872d", null ],
-    [ "Register", "d4/d57/a19115.html#a10c9f511da4eb366117d356c118408c6", null ],
-    [ "Validate", "d4/d57/a19115.html#a655f2081d17c06c155641efc45efc1f8", null ]
+    [ "npc_arthas_teleport_visualAI", "d4/d57/a19115.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "d4/d57/a19115.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "d4/d57/a19115.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "d4/d57/a19115.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "d4/d57/a19115.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

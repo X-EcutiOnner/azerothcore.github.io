@@ -1,6 +1,9 @@
 var a10867 =
 [
-    [ "BuyBankSlot", "d3/d64/a10867.html#a0bc11087e9359c6ac762f915b11287d8", null ],
-    [ "Read", "d3/d64/a10867.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
-    [ "Banker", "d3/d64/a10867.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
+    [ "TransportScript", "d3/d64/a10867.html#ac328f301c960bc154ada0e5f1fed294e", null ],
+    [ "IsDatabaseBound", "d3/d64/a10867.html#a956f0d757e5d974566fa8fac0df731e5", null ],
+    [ "OnAddCreaturePassenger", "d3/d64/a10867.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
+    [ "OnAddPassenger", "d3/d64/a10867.html#a806f4829b47429900271f6dde7eaa625", null ],
+    [ "OnRelocate", "d3/d64/a10867.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
+    [ "OnRemovePassenger", "d3/d64/a10867.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
 ];

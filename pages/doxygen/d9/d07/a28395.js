@@ -1,5 +1,5 @@
 var a28395 =
 [
-    [ "npc_necropolis", "d9/d07/a28395.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
-    [ "SpellHit", "d9/d07/a28395.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
+    [ "item_petrov_cluster_bombs", "d9/d07/a28395.html#a1a76760f7c4617a40d96b9833e7466df", null ],
+    [ "OnUse", "d9/d07/a28395.html#aeecb6a7756b4af06f46951dfb51c054f", null ]
 ];

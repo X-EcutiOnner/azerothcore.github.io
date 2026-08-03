@@ -1,6 +1,10 @@
 var a10659 =
 [
-    [ "BattlegroundMapScript", "df/d90/a10659.html#a61e1c0f145064cbc6c8708824a359e4c", null ],
-    [ "checkValidity", "df/d90/a10659.html#a90584770132eb71cffc6e25a674750ad", null ],
-    [ "isAfterLoadScript", "df/d90/a10659.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
+    [ "QuestStatusData", "df/d90/a10659.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
+    [ "CreatureOrGOCount", "df/d90/a10659.html#aa5892dc0744a41ac565568307f12ad35", null ],
+    [ "Explored", "df/d90/a10659.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
+    [ "ItemCount", "df/d90/a10659.html#a466999cea52f65bf58916bc34750bf95", null ],
+    [ "PlayerCount", "df/d90/a10659.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
+    [ "Status", "df/d90/a10659.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
+    [ "Timer", "df/d90/a10659.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
 ];

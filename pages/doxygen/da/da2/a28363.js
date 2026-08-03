@@ -1,6 +1,6 @@
 var a28363 =
 [
-    [ "npc_venomhide_hatchlingAI", "da/da2/a28363.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "da/da2/a28363.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "da/da2/a28363.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "guard_shattrath_scryerAI", "d9/da1/a28367.html", "d9/da1/a28367" ],
+    [ "guard_shattrath_scryer", "da/da2/a28363.html#a2ee4d6881d7c24cd848c590b84207663", null ],
+    [ "GetAI", "da/da2/a28363.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
 ];

@@ -1,7 +1,7 @@
 var a12895 =
 [
-    [ "HandleEffectScriptEffect", "d6/dea/a12895.html#a8157c4b213b3b4e260222976e283e2ae", null ],
-    [ "PrepareSpellScript", "d6/dea/a12895.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
-    [ "Register", "d6/dea/a12895.html#aeda056b568b4956ba35b32a3f20c053e", null ],
-    [ "Validate", "d6/dea/a12895.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
+    [ "boss_broodlord", "d6/dea/a12895.html#a3194ef765e313daaa4a0e476ec3edafa", null ],
+    [ "JustDied", "d6/dea/a12895.html#ac3f6f747fbe61e70562f14b9aa304765", null ],
+    [ "JustEngagedWith", "d6/dea/a12895.html#acb7214857320945a646574b0130a9585", null ],
+    [ "UpdateAI", "d6/dea/a12895.html#a5cdb166366938797de9d691096f0f155", null ]
 ];

@@ -1,8 +1,6 @@
 var a17771 =
 [
-    [ "npc_high_overlord_saurfangAI", "db/d56/a17775.html", "db/d56/a17775" ],
-    [ "npc_high_overlord_saurfang_icc", "d0/d41/a17771.html#ac02fe80550572e142406c2d80c0392df", null ],
-    [ "GetAI", "d0/d41/a17771.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
-    [ "OnGossipHello", "d0/d41/a17771.html#a515a87f751527412222cfdd968febe7c", null ],
-    [ "OnGossipSelect", "d0/d41/a17771.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
+    [ "OnAbsorb", "d0/d41/a17771.html#aa6582457cd0502ca263433d04b40b64f", null ],
+    [ "PrepareAuraScript", "d0/d41/a17771.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
+    [ "Register", "d0/d41/a17771.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
 ];

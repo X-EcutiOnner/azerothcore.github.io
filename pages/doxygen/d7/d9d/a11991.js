@@ -1,6 +1,8 @@
 var a11991 =
 [
-    [ "EffectBase", "d7/d9d/a11991.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
-    [ "CheckEffect", "d7/d9d/a11991.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
-    [ "ToString", "d7/d9d/a11991.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
+    [ "first", "d7/d9d/a11991.html#a49aea8bfed353c2c552f6195b8e9f60a", null ],
+    [ "last", "d7/d9d/a11991.html#a05a8077c7ec39bcca66fe84aa1da7040", null ],
+    [ "next", "d7/d9d/a11991.html#a0a7791b7069912a013299e7afaf4142f", null ],
+    [ "prev", "d7/d9d/a11991.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f", null ],
+    [ "rank", "d7/d9d/a11991.html#a0b58cef8fc18f91fa59b8c7d7b9f9872", null ]
 ];

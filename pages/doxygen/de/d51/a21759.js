@@ -1,6 +1,6 @@
 var a21759 =
 [
-    [ "HandleOnEffectRemove", "de/d51/a21759.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "de/d51/a21759.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "de/d51/a21759.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "npc_future_youAI", "da/d26/a21763.html", "da/d26/a21763" ],
+    [ "npc_future_you", "de/d51/a21759.html#a36e363156bcb32fee468989062817bd5", null ],
+    [ "GetAI", "de/d51/a21759.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
 ];

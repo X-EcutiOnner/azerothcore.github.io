@@ -1,11 +1,8 @@
 var a13027 =
 [
-    [ "boss_mr_smiteAI", "dc/d17/a13027.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
-    [ "JustEngagedWith", "dc/d17/a13027.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
-    [ "MovementInform", "dc/d17/a13027.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
-    [ "Reset", "dc/d17/a13027.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
-    [ "UpdateAI", "dc/d17/a13027.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
-    [ "events", "dc/d17/a13027.html#a3471692c39233f3c25cdc875c0078f2c", null ],
-    [ "health34", "dc/d17/a13027.html#adc83683c2f6a7073469cd2f5aa325717", null ],
-    [ "health67", "dc/d17/a13027.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
+    [ "boss_garr", "dc/d17/a13027.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
+    [ "JustEngagedWith", "dc/d17/a13027.html#abab82d2e00b373ea1f0e444de23f4987", null ],
+    [ "Reset", "dc/d17/a13027.html#a64bcae059cfa97def7e52a42d404a016", null ],
+    [ "UpdateAI", "dc/d17/a13027.html#a2a412224072b47de6780ea7b8d543743", null ],
+    [ "massEruptionTimer", "dc/d17/a13027.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
 ];

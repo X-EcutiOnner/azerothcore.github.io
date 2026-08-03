@@ -1,6 +1,9 @@
 var a17891 =
 [
-    [ "npc_gunshipAI", "d5/d39/a17895.html", "d5/d39/a17895" ],
-    [ "npc_gunship", "dc/d5c/a17891.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
-    [ "GetAI", "dc/d5c/a17891.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
+    [ "FilterTargetsInitial", "dc/d5c/a17891.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
+    [ "FilterTargetsSubsequent", "dc/d5c/a17891.html#a11732039155235c287757980129d5a8e", null ],
+    [ "Load", "dc/d5c/a17891.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
+    [ "PrepareSpellScript", "dc/d5c/a17891.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
+    [ "Register", "dc/d5c/a17891.html#a56a4e65df08a95fddde75162358155c2", null ],
+    [ "_target", "dc/d5c/a17891.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
 ];

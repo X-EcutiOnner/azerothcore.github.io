@@ -1,7 +1,7 @@
 var a24347 =
 [
-    [ "CheckClass", "d0/db6/a24347.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
-    [ "HandleScript", "d0/db6/a24347.html#a4f4f7004be5629efdc48b52b6667edba", null ],
-    [ "PrepareSpellScript", "d0/db6/a24347.html#a599ce758681c5196bd40e4c7b86635cc", null ],
-    [ "Register", "d0/db6/a24347.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
+    [ "npc_isla_starmaneAI", "d2/daf/a24351.html", "d2/daf/a24351" ],
+    [ "npc_isla_starmane", "d0/db6/a24347.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
+    [ "GetAI", "d0/db6/a24347.html#a0ea2dbaab4115772f92849e06aa85575", null ],
+    [ "OnQuestAccept", "d0/db6/a24347.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
 ];

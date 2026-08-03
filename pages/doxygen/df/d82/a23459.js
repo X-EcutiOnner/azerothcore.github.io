@@ -1,6 +1,8 @@
 var a23459 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "dd/d13/a23463.html", "dd/d13/a23463" ],
-    [ "instance_shattered_halls", "df/d82/a23459.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "df/d82/a23459.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "boss_the_black_stalker", "df/d82/a23459.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "df/d82/a23459.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "df/d82/a23459.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "df/d82/a23459.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "df/d82/a23459.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

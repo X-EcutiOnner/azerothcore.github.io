@@ -1,10 +1,14 @@
 var a07635 =
 [
-    [ "BattlegroundChatBuilder", "d7/df5/a07635.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
-    [ "do_helper", "d7/df5/a07635.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
-    [ "operator()", "d7/df5/a07635.html#ab84296c320b09a387de6e6e6a2326b83", null ],
-    [ "_args", "d7/df5/a07635.html#a32a72bf1110179cc58dcf2df914c7389", null ],
-    [ "_msgtype", "d7/df5/a07635.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
-    [ "_source", "d7/df5/a07635.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
-    [ "_textId", "d7/df5/a07635.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
+    [ "ArenaTeamScore", "d7/df5/a07635.html#a017cd1a4d90a466b42aeab8ff1a12f3a", null ],
+    [ "~ArenaTeamScore", "d7/df5/a07635.html#ade081f31c498ee03a80f73fe70a56cc7", null ],
+    [ "Assign", "d7/df5/a07635.html#a28c3a055e1ad69693470f38fe676f0c6", null ],
+    [ "BuildRatingInfoBlock", "d7/df5/a07635.html#ae3e2b8e8a29c50ca20a42a0364349764", null ],
+    [ "BuildTeamInfoBlock", "d7/df5/a07635.html#aa876e0cf0b36f8fdb9efe8989092f143", null ],
+    [ "Reset", "d7/df5/a07635.html#a90611fd5e656d2d62917003ff0a5ff00", null ],
+    [ "Arena", "d7/df5/a07635.html#a5f488c25aa439166d145713c67e7d085", null ],
+    [ "Battleground", "d7/df5/a07635.html#a0c4048053f5f5cabe5bfbfdde8eded86", null ],
+    [ "MatchmakerRating", "d7/df5/a07635.html#a1e82169562a459371f973932d22e2f15", null ],
+    [ "RatingChange", "d7/df5/a07635.html#a61c85f158b767a6c81de87d7ad5007db", null ],
+    [ "TeamName", "d7/df5/a07635.html#ab99de3b9213f3ccab1791858df6aa3e8", null ]
 ];

@@ -1,9 +1,6 @@
 var a20507 =
 [
-    [ "OnApply", "d9/da4/a20507.html#aaf6e89fc5d101b1622666a6fe15f20e7", null ],
-    [ "OnRemove", "d9/da4/a20507.html#a9bfdefb3e212cca086dec752687e2b93", null ],
-    [ "OnRemoveSelf", "d9/da4/a20507.html#a3076446d6761263fdb7f973f01be3cf2", null ],
-    [ "PrepareAuraScript", "d9/da4/a20507.html#a685d6c0ffcc258f9d6857242cb28f6a8", null ],
-    [ "Register", "d9/da4/a20507.html#a1369972dfbf969cb39efa88075fc13df", null ],
-    [ "Validate", "d9/da4/a20507.html#ada8c858f70beb71765fd0f796209677b", null ]
+    [ "HandleAfterEffectApply", "d9/da4/a20507.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
+    [ "PrepareAuraScript", "d9/da4/a20507.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
+    [ "Register", "d9/da4/a20507.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
 ];

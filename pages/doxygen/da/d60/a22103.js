@@ -1,6 +1,6 @@
 var a22103 =
 [
-    [ "HandleDamage", "da/d60/a22103.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
-    [ "PrepareSpellScript", "da/d60/a22103.html#a23b6afe1e35edc4013767b119b8e0218", null ],
-    [ "Register", "da/d60/a22103.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
+    [ "npc_boneguard_footmanAI", "da/d60/a22103.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "da/d60/a22103.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "da/d60/a22103.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

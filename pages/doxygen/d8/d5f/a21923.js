@@ -1,6 +1,11 @@
 var a21923 =
 [
-    [ "npc_frostbrood_skytalonAI", "da/dc4/a21927.html", "da/dc4/a21927" ],
-    [ "npc_frostbrood_skytalon", "d8/d5f/a21923.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "d8/d5f/a21923.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "npc_emilyAI", "d8/d5f/a21923.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "d8/d5f/a21923.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "d8/d5f/a21923.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "d8/d5f/a21923.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "d8/d5f/a21923.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "WaypointReached", "d8/d5f/a21923.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_mrfloppyGUID", "d8/d5f/a21923.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "d8/d5f/a21923.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

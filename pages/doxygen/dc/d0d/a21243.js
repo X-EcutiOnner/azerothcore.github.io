@@ -1,12 +1,14 @@
 var a21243 =
 [
-    [ "boss_xevozz", "dc/d0d/a21243.html#aea402ffbe689ca65e29b30899862a8bc", null ],
-    [ "EnterEvadeMode", "dc/d0d/a21243.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
-    [ "ExecuteEvent", "dc/d0d/a21243.html#af5b37fc643f2b22468a38655fce63d25", null ],
-    [ "JustDied", "dc/d0d/a21243.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
-    [ "JustEngagedWith", "dc/d0d/a21243.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
-    [ "JustSummoned", "dc/d0d/a21243.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
-    [ "KilledUnit", "dc/d0d/a21243.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
-    [ "MoveInLineOfSight", "dc/d0d/a21243.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
-    [ "SummonedCreatureDespawn", "dc/d0d/a21243.html#a1493a5acdfcca7d01446564db622239e", null ]
+    [ "npc_massive_jormungarAI", "dc/d0d/a21243.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
+    [ "DoAction", "dc/d0d/a21243.html#a8084994ba056c907b2e487568fa7502a", null ],
+    [ "JustDied", "dc/d0d/a21243.html#a02b4e75227811250e2210f754e6e04f2", null ],
+    [ "JustEngagedWith", "dc/d0d/a21243.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
+    [ "JustReachedHome", "dc/d0d/a21243.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
+    [ "MoveInLineOfSight", "dc/d0d/a21243.html#a55c817111fab479c3abcfca8942f16e8", null ],
+    [ "Reset", "dc/d0d/a21243.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
+    [ "UpdateAI", "dc/d0d/a21243.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
+    [ "events", "dc/d0d/a21243.html#a92334b8178317a91a7d4336096d75f33", null ],
+    [ "m_pInstance", "dc/d0d/a21243.html#ad50a9852370798817fda318f71f27653", null ],
+    [ "summons", "dc/d0d/a21243.html#acfa84efc38b994706015e6d82fe1f653", null ]
 ];

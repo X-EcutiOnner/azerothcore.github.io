@@ -1,6 +1,8 @@
 var a27943 =
 [
-    [ "go_heatAI", "d0/d6f/a27943.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
-    [ "UpdateAI", "d0/d6f/a27943.html#a2332206ee47b2cea9e4707d16ea79325", null ],
-    [ "timer", "d0/d6f/a27943.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
+    [ "CheckProc", "d0/d6f/a27943.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
+    [ "HandleEffectProc", "d0/d6f/a27943.html#af01d160cb2a55124361a2dd113acd0a7", null ],
+    [ "PrepareAuraScript", "d0/d6f/a27943.html#aeffb8490a7208ae6e32a505283afbc03", null ],
+    [ "Register", "d0/d6f/a27943.html#a5436413d098dde4b0fa1ed2259a47779", null ],
+    [ "Validate", "d0/d6f/a27943.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
 ];

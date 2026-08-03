@@ -1,8 +1,8 @@
 var a20175 =
 [
-    [ "HandleOnEffectApply", "dd/d93/a20175.html#a83ff54727e886161c5568a60833932d1", null ],
-    [ "HandleOnEffectRemove", "dd/d93/a20175.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
-    [ "PrepareAuraScript", "dd/d93/a20175.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
-    [ "Register", "dd/d93/a20175.html#ae07af138c6f9c565799574b4f8343492", null ],
-    [ "Validate", "dd/d93/a20175.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
+    [ "OnPeriodic", "dd/d93/a20175.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
+    [ "OnRemove", "dd/d93/a20175.html#ac6d961793ddb6423540da9d97e016b82", null ],
+    [ "PrepareAuraScript", "dd/d93/a20175.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
+    [ "Register", "dd/d93/a20175.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
+    [ "Validate", "dd/d93/a20175.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
 ];

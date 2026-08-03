@@ -1,6 +1,11 @@
 var a15179 =
 [
-    [ "boss_mal_ganisAI", "dd/d37/a15183.html", "dd/d37/a15183" ],
-    [ "boss_mal_ganis", "dc/d4a/a15179.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
-    [ "GetAI", "dc/d4a/a15179.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
+    [ "boss_kazrogal", "dc/d4a/a15179.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
+    [ "DoAction", "dc/d4a/a15179.html#a7721debceeefaeb69e71855b8e8742f8", null ],
+    [ "GetMarkRepeatTimer", "dc/d4a/a15179.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
+    [ "JustDied", "dc/d4a/a15179.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
+    [ "JustEngagedWith", "dc/d4a/a15179.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
+    [ "KilledUnit", "dc/d4a/a15179.html#ab1439114a84d85947106d979f38d12fa", null ],
+    [ "Reset", "dc/d4a/a15179.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
+    [ "_markCounter", "dc/d4a/a15179.html#a54ef8b88bf62e260e19a964d1926ef4a", null ]
 ];

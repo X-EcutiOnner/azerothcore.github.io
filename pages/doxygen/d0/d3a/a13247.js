@@ -1,12 +1,10 @@
 var a13247 =
 [
-    [ "boss_bigbadwolf", "d0/d3a/a13247.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
-    [ "EnterEvadeMode", "d0/d3a/a13247.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
-    [ "JustDied", "d0/d3a/a13247.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
-    [ "JustEngagedWith", "d0/d3a/a13247.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
-    [ "JustReachedHome", "d0/d3a/a13247.html#a7755bf925d919c73075a41f8774280c0", null ],
-    [ "KilledUnit", "d0/d3a/a13247.html#a8e004a1feac796ed467eba744f211827", null ],
-    [ "UpdateAI", "d0/d3a/a13247.html#ab788a0155a3ffe6535d58263eea16dee", null ],
-    [ "_scheduler", "d0/d3a/a13247.html#a661d9b619be30764ba5b89d71de870e9", null ],
-    [ "instance", "d0/d3a/a13247.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
+    [ "npc_netherspite_infernal", "d0/d3a/a13247.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "d0/d3a/a13247.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "d0/d3a/a13247.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "d0/d3a/a13247.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "d0/d3a/a13247.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "d0/d3a/a13247.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "d0/d3a/a13247.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

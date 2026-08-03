@@ -1,7 +1,11 @@
 var a23543 =
 [
-    [ "boss_warp_splinter", "d8/d3f/a23543.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
-    [ "JustDied", "d8/d3f/a23543.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
-    [ "JustEngagedWith", "d8/d3f/a23543.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
-    [ "KilledUnit", "d8/d3f/a23543.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
+    [ "boss_krosh_firehand", "d8/d3f/a23543.html#a1ef3618844f086de7875f26e7e6190f9", null ],
+    [ "AttackStart", "d8/d3f/a23543.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
+    [ "JustDied", "d8/d3f/a23543.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
+    [ "JustEngagedWith", "d8/d3f/a23543.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
+    [ "Reset", "d8/d3f/a23543.html#a989c4b762a7cdb228b245e91881d97a2", null ],
+    [ "UpdateAI", "d8/d3f/a23543.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
+    [ "_scheduler", "d8/d3f/a23543.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
+    [ "instance", "d8/d3f/a23543.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
 ];

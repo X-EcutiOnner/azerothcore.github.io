@@ -1,6 +1,6 @@
 var a25015 =
 [
-    [ "CheckSeat", "da/d1e/a25015.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
-    [ "PrepareSpellScript", "da/d1e/a25015.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
-    [ "Register", "da/d1e/a25015.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
+    [ "CheckProc", "da/d1e/a25015.html#a68d2d8168e405ea4250e2e43a1a350fa", null ],
+    [ "PrepareAuraScript", "da/d1e/a25015.html#a9d797e7bc7133f4a626f4352b2fe7141", null ],
+    [ "Register", "da/d1e/a25015.html#a5b96bb8c2ff456b63bbd200f54294251", null ]
 ];

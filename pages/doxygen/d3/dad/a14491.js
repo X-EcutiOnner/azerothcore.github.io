@@ -1,7 +1,8 @@
 var a14491 =
 [
-    [ "HandleOnHit", "d3/dad/a14491.html#a561799e6241b1fe17cd09f17c447107b", null ],
-    [ "PrepareSpellScript", "d3/dad/a14491.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
-    [ "Register", "d3/dad/a14491.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
-    [ "Validate", "d3/dad/a14491.html#adb339686c5e9dcb298712455dc8435bf", null ]
+    [ "boss_grilekAI", "d3/dad/a14491.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
+    [ "JustEngagedWith", "d3/dad/a14491.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
+    [ "Reset", "d3/dad/a14491.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
+    [ "UpdateAI", "d3/dad/a14491.html#a19438103c9a582a7d36d805c80131e8c", null ],
+    [ "_pursuitTargetGUID", "d3/dad/a14491.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
 ];

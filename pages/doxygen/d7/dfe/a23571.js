@@ -1,6 +1,7 @@
 var a23571 =
 [
-    [ "HandlePeriodic", "d7/dfe/a23571.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
-    [ "PrepareAuraScript", "d7/dfe/a23571.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
-    [ "Register", "d7/dfe/a23571.html#acf77c76f02671da215c7103b60ed77ac", null ]
+    [ "boss_the_maker", "d7/dfe/a23571.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
+    [ "JustDied", "d7/dfe/a23571.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
+    [ "JustEngagedWith", "d7/dfe/a23571.html#a6b0a4442dbabde69ca9352017ee23675", null ],
+    [ "KilledUnit", "d7/dfe/a23571.html#a40643ca00fe7d7029a291335e47c722a", null ]
 ];

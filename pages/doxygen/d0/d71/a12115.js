@@ -1,7 +1,6 @@
 var a12115 =
 [
-    [ "PlayerGuid", "d0/d71/a12115.html#a629a600c48376d04293c225390f747ff", null ],
-    [ "PrimaryKey", "d0/d71/a12115.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
-    [ "StoredType", "d0/d71/a12115.html#a9bea7cf549813010b55c23417d65edc6", null ],
-    [ "TableName", "d0/d71/a12115.html#a0f308af88812c110c490c94368bda482", null ]
+    [ "EffectManaShieldHandler", "d0/d71/a12115.html#a234fb0f6749072f9cc6310f80b3b9583", null ],
+    [ "Call", "d0/d71/a12115.html#a30ac72ee0a22ac3e71bcb2eeda903dbc", null ],
+    [ "pEffectHandlerScript", "d0/d71/a12115.html#a1aec2af2a69a90b8038d612d9ebddc2b", null ]
 ];

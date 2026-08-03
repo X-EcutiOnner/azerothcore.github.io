@@ -1,7 +1,7 @@
 var a23119 =
 [
-    [ "HandleScriptEffect", "de/dfd/a23119.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
-    [ "PrepareSpellScript", "de/dfd/a23119.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
-    [ "Register", "de/dfd/a23119.html#a14772c25b70078c0034b8de17de5b77a", null ],
-    [ "Validate", "de/dfd/a23119.html#a8318385367bf6c6b09e0978c461f5d59", null ]
+    [ "HandleScriptEffect", "de/dfd/a23119.html#a0038e566bc5054e4208fd727fcc266fa", null ],
+    [ "PrepareSpellScript", "de/dfd/a23119.html#abb661bacf4cec1f2e15f4aeda2ab991e", null ],
+    [ "Register", "de/dfd/a23119.html#a416b811c2676c598df0ac0e5906a94d3", null ],
+    [ "Validate", "de/dfd/a23119.html#a11e82a2b40dbbd9949a1dda3bd715679", null ]
 ];

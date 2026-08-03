@@ -1,6 +1,5 @@
 var a22467 =
 [
-    [ "PrepareSpellScript", "d9/d64/a22467.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "d9/d64/a22467.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "d9/d64/a22467.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "achievement_wg_within_our_grasp", "d9/d64/a22467.html#a9edbd15bc6989c6948e21391a683d22d", null ],
+    [ "OnCheck", "d9/d64/a22467.html#a10b659c4b52322536333e3d191796c27", null ]
 ];

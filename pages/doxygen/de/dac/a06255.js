@@ -1,12 +1,15 @@
 var a06255 =
 [
-    [ "RBACPermission", "de/dac/a06255.html#ab7e942f35ee798e52b6e44b5eb35957d", null ],
-    [ "AddLinkedPermission", "de/dac/a06255.html#abadc5213769b1aa15ed3fea56087760e", null ],
-    [ "GetId", "de/dac/a06255.html#ac9626c0aae11a3189fc15d086fb0bd96", null ],
-    [ "GetLinkedPermissions", "de/dac/a06255.html#aabdbec412cd1a1192c8fb4089ab268aa", null ],
-    [ "GetName", "de/dac/a06255.html#a39784b6e1cb1018dd47a1f223bcf8ac3", null ],
-    [ "RemoveLinkedPermission", "de/dac/a06255.html#a31dcbc98d2a850f5924c0183c90fd58a", null ],
-    [ "_id", "de/dac/a06255.html#ab467166c941c8dc01d3d2bd3ce7a06fc", null ],
-    [ "_name", "de/dac/a06255.html#ae02a379ae6f8bee804942a4ca6d98aba", null ],
-    [ "_perms", "de/dac/a06255.html#a2c9bd034968018bb631f4d5145c16fff", null ]
+    [ "TransactionBase", "de/dac/a06255.html#a663d13ba0b22e0711d135073ff80ee47", null ],
+    [ "~TransactionBase", "de/dac/a06255.html#a6ce7e6ef81bb466463bace35cdd49476", null ],
+    [ "Append", "de/dac/a06255.html#a867b7a92080104278aef5fb4975a4a52", null ],
+    [ "Append", "de/dac/a06255.html#aa0a81814abe26d456018c3bc9153cd4d", null ],
+    [ "AppendPreparedStatement", "de/dac/a06255.html#a8e099a4f8775b5e5e3b95ad0273a716f", null ],
+    [ "Cleanup", "de/dac/a06255.html#a35e0ce11de325a1b286d90a2936d4aa3", null ],
+    [ "GetSize", "de/dac/a06255.html#a261ad9d7423562ccbe2cac6d75c203bd", null ],
+    [ "DatabaseWorkerPool", "de/dac/a06255.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
+    [ "MySQLConnection", "de/dac/a06255.html#a06fa417f69e0a67da8f249333b1d189d", null ],
+    [ "TransactionTask", "de/dac/a06255.html#a377add6d6b5e34e774d2497d58f4a180", null ],
+    [ "_cleanedUp", "de/dac/a06255.html#aa82af96128bfcee997423a54396d40d4", null ],
+    [ "m_queries", "de/dac/a06255.html#a156f1a8316358c05285778e5734eade1", null ]
 ];

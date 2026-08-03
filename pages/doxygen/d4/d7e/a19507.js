@@ -1,6 +1,7 @@
 var a19507 =
 [
-    [ "FilterTargets", "d4/d7e/a19507.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
-    [ "PrepareSpellScript", "d4/d7e/a19507.html#a452937a4e95b40366f915213ec475a84", null ],
-    [ "Register", "d4/d7e/a19507.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
+    [ "FilterTargets", "d4/d7e/a19507.html#a56ff062a6014099623466145a66284cc", null ],
+    [ "PrepareSpellScript", "d4/d7e/a19507.html#aa14623bb948ff457e52979facf74ffab", null ],
+    [ "Register", "d4/d7e/a19507.html#a9494bea35088161c9a520395d714fde1", null ],
+    [ "Validate", "d4/d7e/a19507.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
 ];

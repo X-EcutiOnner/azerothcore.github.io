@@ -1,7 +1,8 @@
 var a22655 =
 [
-    [ "CheckProc", "da/d5c/a22655.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "da/d5c/a22655.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "da/d5c/a22655.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "da/d5c/a22655.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "npc_yor", "da/d5c/a22655.html#a43ed8720d06c035085d481dbe6539dca", null ],
+    [ "JustEngagedWith", "da/d5c/a22655.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
+    [ "Reset", "da/d5c/a22655.html#aa698540b646fd870b33afbaf19ddbe07", null ],
+    [ "UpdateAI", "da/d5c/a22655.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
+    [ "_scheduler", "da/d5c/a22655.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
 ];

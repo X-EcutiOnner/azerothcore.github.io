@@ -1,7 +1,10 @@
 var a08463 =
 [
-    [ "entry", "d9/da0/a08463.html#ad0d74d6216c9b6cb6fbeda55fb002072", null ],
-    [ "pos", "d9/da0/a08463.html#af264c1262d9fcd204a2a536847a613b1", null ],
-    [ "respawnTime", "d9/da0/a08463.html#abeadd86c92a8c301626dde6943da1b9b", null ],
-    [ "rot", "d9/da0/a08463.html#a776668c1b71e0cf9f3e0f0619498ae72", null ]
+    [ "auras", "d9/da0/a08463.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
+    [ "bytes1", "d9/da0/a08463.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
+    [ "bytes2", "d9/da0/a08463.html#aedf06568867bbb5db5ca8017727dab9d", null ],
+    [ "emote", "d9/da0/a08463.html#a82f7be10807af7b25dd41c643be066fc", null ],
+    [ "mount", "d9/da0/a08463.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
+    [ "path_id", "d9/da0/a08463.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
+    [ "visibilityDistanceType", "d9/da0/a08463.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
 ];

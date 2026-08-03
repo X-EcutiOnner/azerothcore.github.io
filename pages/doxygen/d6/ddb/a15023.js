@@ -1,6 +1,6 @@
 var a15023 =
 [
-    [ "HandleScriptEffect", "d6/ddb/a15023.html#a3d22cc828a2aa59d45e5d648161926fd", null ],
-    [ "PrepareSpellScript", "d6/ddb/a15023.html#a0ecf5662d9cc1296ebdac82233f1fe7c", null ],
-    [ "Register", "d6/ddb/a15023.html#aee5d9189b6df318b57e919511a185a99", null ]
+    [ "HandleAfterEffectRemove", "d6/ddb/a15023.html#acf650fe6fe65164c12fbb06b45e092c9", null ],
+    [ "PrepareAuraScript", "d6/ddb/a15023.html#a3b54e232c0502eaa03b314a05dce1835", null ],
+    [ "Register", "d6/ddb/a15023.html#a9bacd9538b1ab1cf9aa74e7675ff5b6b", null ]
 ];

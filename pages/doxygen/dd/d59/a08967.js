@@ -1,9 +1,10 @@
 var a08967 =
 [
-    [ "PendingSpellCastRequest", "dd/d59/a08967.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
-    [ "cancelInProgress", "dd/d59/a08967.html#a726b6e423b23f8c12c65e07809462ad1", null ],
-    [ "category", "dd/d59/a08967.html#a51a702f257b784dac4556397dd1c0be4", null ],
-    [ "isItem", "dd/d59/a08967.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
-    [ "requestPacket", "dd/d59/a08967.html#a6ee868c6161e49dc8774ab357f313116", null ],
-    [ "spellId", "dd/d59/a08967.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
+    [ "PvPInfo", "dd/d59/a08967.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
+    [ "EndTimer", "dd/d59/a08967.html#ae06b5030552c02f30fe8386633a753df", null ],
+    [ "FFAPvPEndTimer", "dd/d59/a08967.html#a739dfc63dfe39429a44ea682d9120522", null ],
+    [ "IsHostile", "dd/d59/a08967.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
+    [ "IsInFFAPvPArea", "dd/d59/a08967.html#a8a654926248b3974587af1eb9c064d15", null ],
+    [ "IsInHostileArea", "dd/d59/a08967.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
+    [ "IsInNoPvPArea", "dd/d59/a08967.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
 ];

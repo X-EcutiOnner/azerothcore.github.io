@@ -1,9 +1,5 @@
 var a05631 =
 [
-    [ "IpLocationRecord", "dc/d03/a05631.html#a1dba2f8a7697c7e6fd427089d556c19a", null ],
-    [ "IpLocationRecord", "dc/d03/a05631.html#a10ffefef6ba7d81a23d5d29bc2ee599d", null ],
-    [ "CountryCode", "dc/d03/a05631.html#a9b54a497801e9da396955893473eb7da", null ],
-    [ "CountryName", "dc/d03/a05631.html#acbc8ea139970e7acbad06302d5666eb9", null ],
-    [ "IpFrom", "dc/d03/a05631.html#a97d36332086a339e07b73955f23acd57", null ],
-    [ "IpTo", "dc/d03/a05631.html#a844dfff114f6ce64b79c459527965bfb", null ]
+    [ "_elements", "dc/d03/a05631.html#adca71d306b9b5ee6b1dc0dc75cec1f2c", null ],
+    [ "_TailElements", "dc/d03/a05631.html#a7d3b640a8d68089436c3792b3db088f1", null ]
 ];

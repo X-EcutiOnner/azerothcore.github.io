@@ -1,5 +1,8 @@
 var a15795 =
 [
-    [ "go_bristlelimb_cage", "d3/d91/a15795.html#ab965b9c529577a5e58639285fa35d3d7", null ],
-    [ "OnGossipHello", "d3/d91/a15795.html#a6f29e07550767c1c0610f46e4921503f", null ]
+    [ "npc_obsidian_nullifier", "d3/d91/a15795.html#a9dbb6d681e348057564750fcd7e8050a", null ],
+    [ "JustEngagedWith", "d3/d91/a15795.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
+    [ "Reset", "d3/d91/a15795.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
+    [ "UpdateAI", "d3/d91/a15795.html#a37cf1d335dd3735b262e82828c4f904a", null ],
+    [ "_targetGUIDs", "d3/d91/a15795.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
 ];

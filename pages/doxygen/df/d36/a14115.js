@@ -1,6 +1,6 @@
 var a14115 =
 [
-    [ "npc_marzon_silent_bladeAI", "d8/df4/a14119.html", "d8/df4/a14119" ],
-    [ "npc_marzon_silent_blade", "df/d36/a14115.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
-    [ "GetAI", "df/d36/a14115.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
+    [ "npc_tyrion_spybotAI", "d8/df4/a14119.html", "d8/df4/a14119" ],
+    [ "npc_tyrion_spybot", "df/d36/a14115.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
+    [ "GetAI", "df/d36/a14115.html#af81b70437703edc8d99fe24249891dd6", null ]
 ];

@@ -1,6 +1,6 @@
 var a20007 =
 [
-    [ "PrepareSpellScript", "dc/d88/a20007.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
-    [ "RecalculateDamage", "dc/d88/a20007.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
-    [ "Register", "dc/d88/a20007.html#aac131aa2d2e5342cf0303b918a077b45", null ]
+    [ "CalculateDamage", "dc/d88/a20007.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "dc/d88/a20007.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "dc/d88/a20007.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

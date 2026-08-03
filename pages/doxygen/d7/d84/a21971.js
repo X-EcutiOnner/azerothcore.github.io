@@ -1,7 +1,11 @@
 var a21971 =
 [
-    [ "npc_engineer_heliceAI", "db/d98/a21975.html", "db/d98/a21975" ],
-    [ "npc_engineer_helice", "d7/d84/a21971.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
-    [ "GetAI", "d7/d84/a21971.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
-    [ "OnQuestAccept", "d7/d84/a21971.html#ae0979d68744372d5d4669b6f014eb123", null ]
+    [ "npc_lake_frogAI", "d7/d84/a21971.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
+    [ "ReceiveEmote", "d7/d84/a21971.html#abd58e65b6829c70818c578ed615a980b", null ],
+    [ "Reset", "d7/d84/a21971.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
+    [ "sGossipSelect", "d7/d84/a21971.html#a95906677ff65e004408ae65df3f49b5c", null ],
+    [ "UpdateAI", "d7/d84/a21971.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
+    [ "_events", "d7/d84/a21971.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
+    [ "_following", "d7/d84/a21971.html#a0078f9134a61f0ec2465ce103523e341", null ],
+    [ "_runningScript", "d7/d84/a21971.html#af76102ba6c9ffd80baa95623b7312980", null ]
 ];

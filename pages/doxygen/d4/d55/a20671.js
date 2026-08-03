@@ -1,19 +1,7 @@
 var a20671 =
 [
-    [ "npc_xt002_heart", "d4/d55/a20671.html#a9bec1ea1a31987ce5839b79eb9c184b4", null ],
-    [ "AttackStart", "d4/d55/a20671.html#aec5be66b591d5340ed99edc46edc83bf", null ],
-    [ "DamageTaken", "d4/d55/a20671.html#a97c110ef2c0c7008a9d52d9f1ef41115", null ],
-    [ "DoAction", "d4/d55/a20671.html#a3b89ec3c162656dcb45f51390a95c70b", null ],
-    [ "JustDied", "d4/d55/a20671.html#a4f62cabc74ad43cf53f2257902982dff", null ],
-    [ "JustSummoned", "d4/d55/a20671.html#a13dc0cd623322cfc28c09c08bddd9207", null ],
-    [ "MoveInLineOfSight", "d4/d55/a20671.html#aacd3f88442e2e0df4eeec91b4cb47392", null ],
-    [ "SendEnergyToCorner", "d4/d55/a20671.html#a76d4d662c2e5a69bfda9feed09779661", null ],
-    [ "SpellHitTarget", "d4/d55/a20671.html#ae1af02a02eea9382f9b031571d26c828", null ],
-    [ "SummonPiles", "d4/d55/a20671.html#a9138c36d94f474128f03135592f153bd", null ],
-    [ "UpdateAI", "d4/d55/a20671.html#a78037a956bffce8d53f96194c78808bf", null ],
-    [ "_damageDone", "d4/d55/a20671.html#a98695e419690a21e2aa3d7a19a6949c8", null ],
-    [ "_pummelerCount", "d4/d55/a20671.html#ab8c844bc8206917cd67f8646616af828", null ],
-    [ "_spawnSelection", "d4/d55/a20671.html#aeb1aab8cebce1c7622b6959a62cffe92", null ],
-    [ "_timerSpawn", "d4/d55/a20671.html#a568c7cabf8ecd0aa97b72663effbb2a1", null ],
-    [ "summons", "d4/d55/a20671.html#ab8c334a1a81def29e18bc1da109e6bf3", null ]
+    [ "HandleEffectPeriodic", "d4/d55/a20671.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "d4/d55/a20671.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "d4/d55/a20671.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "d4/d55/a20671.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

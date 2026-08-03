@@ -1,5 +1,5 @@
 var a19219 =
 [
-    [ "at_icc_spire_frostwyrm", "d7/dc1/a19219.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
-    [ "_OnTrigger", "d7/dc1/a19219.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
+    [ "at_icc_shutdown_traps", "d7/dc1/a19219.html#aa13f5d78d3032e8114e9978f42468f64", null ],
+    [ "OnTrigger", "d7/dc1/a19219.html#abb31b3f6d0b159b625d731ac47127005", null ]
 ];

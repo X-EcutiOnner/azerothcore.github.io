@@ -1,7 +1,6 @@
 var a27283 =
 [
-    [ "AfterRemove", "d8/d44/a27283.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
-    [ "PrepareAuraScript", "d8/d44/a27283.html#af338af238305f1872275e1e5e9fdee16", null ],
-    [ "Register", "d8/d44/a27283.html#aa266e794be35b51a399b13ee2d06199d", null ],
-    [ "Validate", "d8/d44/a27283.html#af58098eb7a904e20846cf728f5adc18b", null ]
+    [ "PrepareAuraScript", "d8/d44/a27283.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
+    [ "Register", "d8/d44/a27283.html#a91f4b2b8796c7efab2f622893a393619", null ],
+    [ "AuraEffectHandleModes", "d8/d44/a27283.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
 ];

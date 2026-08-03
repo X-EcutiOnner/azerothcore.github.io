@@ -1,10 +1,7 @@
 var a19743 =
 [
-    [ "npc_oculus_drakegiverAI", "dc/d1b/a19743.html#a4bba380256a0ede70b8d90611249b444", null ],
-    [ "MovementInform", "dc/d1b/a19743.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
-    [ "UpdateAI", "dc/d1b/a19743.html#a652a8c364687d51de62356964f6f33f9", null ],
-    [ "m_pInstance", "dc/d1b/a19743.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
-    [ "moved", "dc/d1b/a19743.html#a069e202a84d99cd757862bd1a43b5562", null ],
-    [ "resetPosition", "dc/d1b/a19743.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
-    [ "timer", "dc/d1b/a19743.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
+    [ "FilterTargets", "dc/d1b/a19743.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "dc/d1b/a19743.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "dc/d1b/a19743.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "dc/d1b/a19743.html#a5fcc9cc654d6495f535600a6eef4c968", null ]
 ];

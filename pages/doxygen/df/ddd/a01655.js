@@ -1,6 +1,6 @@
 var a01655 =
 [
-    [ "BattlegroundRL", "d5/dc1/a07838.html", "d5/dc1/a07838" ],
+    [ "BattlegroundRL", "da/db4/a07843.html", "da/db4/a07843" ],
     [ "BattlegroundRLObjects", "df/ddd/a01655.html#a07ba947d37c83568823ee5313377497a", [
       [ "BG_RL_OBJECT_TYPE_DOOR_1", "df/ddd/a01655.html#a07ba947d37c83568823ee5313377497aa4af54ddc0fa71a41b26c859580db7fb0", null ],
       [ "BG_RL_OBJECT_TYPE_DOOR_2", "df/ddd/a01655.html#a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1", null ],

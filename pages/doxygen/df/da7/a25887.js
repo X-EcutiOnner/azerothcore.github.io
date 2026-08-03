@@ -1,6 +1,6 @@
 var a25887 =
 [
-    [ "CheckCast", "df/da7/a25887.html#a5e32bb12dd6a4feedf88b73e18dc57cc", null ],
-    [ "PrepareSpellScript", "df/da7/a25887.html#ae6b0bc8d2a443b805b44f49d79ccc949", null ],
-    [ "Register", "df/da7/a25887.html#a2ef6ded94a244c51ed71315b39e85636", null ]
+    [ "OnRemove", "df/da7/a25887.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
+    [ "PrepareAuraScript", "df/da7/a25887.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
+    [ "Register", "df/da7/a25887.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
 ];

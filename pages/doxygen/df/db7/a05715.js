@@ -1,8 +1,13 @@
 var a05715 =
 [
-    [ "GeneralLock", "df/db7/a05715.html#ad0fac66b181e166108c871274bce7a93", null ],
-    [ "~GeneralLock", "df/db7/a05715.html#a455c73434c26cac8bf9761900d648589", null ],
-    [ "GeneralLock", "df/db7/a05715.html#aecc7bf4d8ac0c4bc16a89a16e196330c", null ],
-    [ "operator=", "df/db7/a05715.html#a876a9be3c642991811028892bcae42c4", null ],
-    [ "i_mutex", "df/db7/a05715.html#a80b98e278d3afb1867ff5f159eda5055", null ]
+    [ "Logger", "df/db7/a05715.html#a79033d763c69dbfb95b1c591f1cc680b", null ],
+    [ "addAppender", "df/db7/a05715.html#aabacae0a84994e5567f9c87829909fdd", null ],
+    [ "delAppender", "df/db7/a05715.html#a1fb8747bf7b652b9dfbf9ee830a82c8b", null ],
+    [ "getLogLevel", "df/db7/a05715.html#aba945b0f037b7de27976d3a6e1a0fbbd", null ],
+    [ "getName", "df/db7/a05715.html#ae95167d7bb330ecc0a49779a5635d1e2", null ],
+    [ "setLogLevel", "df/db7/a05715.html#a00fdcdbeb39a2d5d4fb27cc36c35c101", null ],
+    [ "write", "df/db7/a05715.html#a3627f98e8676ee7b68a34a4d9439082e", null ],
+    [ "appenders", "df/db7/a05715.html#aa93931f2386ebc6dbf2464f536ed54f9", null ],
+    [ "level", "df/db7/a05715.html#a3b1d9dd7bd391ac7bed560918f82a03b", null ],
+    [ "name", "df/db7/a05715.html#ada299a7dd268085371557213e36695a9", null ]
 ];

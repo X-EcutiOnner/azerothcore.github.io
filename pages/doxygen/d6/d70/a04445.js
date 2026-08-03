@@ -1,9 +1,9 @@
 var a04445 =
 [
-    [ "npc_anubisath_sentinel", "d5/d66/a15766.html", "d5/d66/a15766" ],
-    [ "npc_anubisath_sentinel::aqsentinelAI", "d8/d3c/a15770.html", "d8/d3c/a15770" ],
-    [ "spell_anubisath_mortal_strike", "d5/d81/a15774.html", "d5/d81/a15774" ],
-    [ "spell_mana_burn_area", "df/d40/a15778.html", "df/d40/a15778" ],
+    [ "npc_anubisath_sentinel", "db/d35/a15763.html", "db/d35/a15763" ],
+    [ "npc_anubisath_sentinel::aqsentinelAI", "d9/d94/a15767.html", "d9/d94/a15767" ],
+    [ "spell_anubisath_mortal_strike", "df/dd3/a15771.html", "df/dd3/a15771" ],
+    [ "spell_mana_burn_area", "df/d47/a15775.html", "df/d47/a15775" ],
     [ "Spells", "d6/d70/a04445.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d9/dfd/a01610.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d9/dfd/a01610.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],
@@ -1534,6 +1534,7 @@ var a04445 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

@@ -1,7 +1,14 @@
 var a23855 =
 [
-    [ "npc_kurenai_captiveAI", "d7/d50/a23859.html", "d7/d50/a23859" ],
-    [ "npc_kurenai_captive", "d8/d12/a23855.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
-    [ "GetAI", "d8/d12/a23855.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
-    [ "OnQuestAccept", "d8/d12/a23855.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
+    [ "advisor_baseAI", "d8/d12/a23855.html#a3c68b7ee961af2d9dabb15c7e054d45b", null ],
+    [ "DamageTaken", "d8/d12/a23855.html#a678d09ec3b3d5a4d922a0fc117192349", null ],
+    [ "JustDied", "d8/d12/a23855.html#a8da09edce761f1f1e1b7eb96ec7a529b", null ],
+    [ "JustEngagedWith", "d8/d12/a23855.html#a1e4b1ff264f4c1586515f56531b77dea", null ],
+    [ "JustRespawned", "d8/d12/a23855.html#a6491439ac2fd4acec3379a17be92251e", null ],
+    [ "Reset", "d8/d12/a23855.html#a008c30414ecebf4e2996d06b81539255", null ],
+    [ "ScheduleEvents", "d8/d12/a23855.html#a24d22ccec834770bc5bcf44119fb0045", null ],
+    [ "SpellHit", "d8/d12/a23855.html#a4fc41f3985244b6baf25b3417f67054e", null ],
+    [ "UpdateAI", "d8/d12/a23855.html#aa89d3479b2e0bd8dd18572135aa45235", null ],
+    [ "_feigning", "d8/d12/a23855.html#ae1c2011ba993c8d589bf6fe45602ac41", null ],
+    [ "_preventDeath", "d8/d12/a23855.html#ab6c4a3f241fa5417f0a1d450ddb811ca", null ]
 ];

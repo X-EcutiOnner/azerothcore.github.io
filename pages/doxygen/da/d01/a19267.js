@@ -1,6 +1,9 @@
 var a19267 =
 [
-    [ "npc_four_car_garageAI", "da/d01/a19267.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
-    [ "JustDied", "da/d01/a19267.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
-    [ "PassengerBoarded", "da/d01/a19267.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "da/d01/a19267.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
+    [ "AttackStart", "da/d01/a19267.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
+    [ "JustEngagedWith", "da/d01/a19267.html#a7648c626ded6d3abef798b46c77f991d", null ],
+    [ "Reset", "da/d01/a19267.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
+    [ "UpdateAI", "da/d01/a19267.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
+    [ "events", "da/d01/a19267.html#a5aaffc1e78c255c95893be1537e520d6", null ]
 ];

@@ -1,10 +1,6 @@
 var a23063 =
 [
-    [ "npc_frozen_core", "d3/d3a/a23063.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
-    [ "DoAction", "d3/d3a/a23063.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
-    [ "Initialize", "d3/d3a/a23063.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
-    [ "JustDied", "d3/d3a/a23063.html#a476e086b0379e0cef3a44d250b020d6a", null ],
-    [ "UpdateAI", "d3/d3a/a23063.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
-    [ "_events", "d3/d3a/a23063.html#a3a5efec3279644ef713722e1556a3c84", null ],
-    [ "_instance", "d3/d3a/a23063.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
+    [ "PrepareSpellScript", "d3/d3a/a23063.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
+    [ "Register", "d3/d3a/a23063.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
+    [ "RemoveSpines", "d3/d3a/a23063.html#a076b056328ba6181a6ec907f21258f9d", null ]
 ];

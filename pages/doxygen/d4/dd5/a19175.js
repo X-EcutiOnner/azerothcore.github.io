@@ -1,6 +1,7 @@
 var a19175 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "d0/d1e/a19179.html", "d0/d1e/a19179" ],
-    [ "npc_icc_vengeful_fleshreaper", "d4/dd5/a19175.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
-    [ "GetAI", "d4/dd5/a19175.html#abf1903616dbf52718313c8b404b504a5", null ]
+    [ "HandleScript", "d4/dd5/a19175.html#ace11e192a27b2da98ff62c4eee7980ba", null ],
+    [ "PrepareSpellScript", "d4/dd5/a19175.html#a8a6351b7f87101ac8328b6e76784978c", null ],
+    [ "Register", "d4/dd5/a19175.html#ad57068b21218492078e2d2bfe76cc3c9", null ],
+    [ "Validate", "d4/dd5/a19175.html#af6f1dd22aef0595315460c149d920dff", null ]
 ];

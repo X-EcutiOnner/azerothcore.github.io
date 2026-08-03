@@ -1,7 +1,9 @@
 var a19395 =
 [
-    [ "HandleRemove", "d7/dab/a19395.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "d7/dab/a19395.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "d7/dab/a19395.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "d7/dab/a19395.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "npc_isle_of_conquest_turretAI", "d7/dab/a19395.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
+    [ "JustDied", "d7/dab/a19395.html#a88390da94298bea9c445bb422a806d23", null ],
+    [ "SpellHit", "d7/dab/a19395.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
+    [ "UpdateAI", "d7/dab/a19395.html#a81c039a2a230b261967842161757b6f8", null ],
+    [ "events", "d7/dab/a19395.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
+    [ "faction", "d7/dab/a19395.html#aca941c070a97278c8ec27d7e6b4edede", null ]
 ];

@@ -1,6 +1,6 @@
 var a18019 =
 [
-    [ "HandlePeriodicTick", "df/d40/a18019.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
-    [ "PrepareAuraScript", "df/d40/a18019.html#a9962029ce4a5223d7aa05068e8d83326", null ],
-    [ "Register", "df/d40/a18019.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
+    [ "npc_gunship_boarding_leaderAI", "d7/d92/a18023.html", "d7/d92/a18023" ],
+    [ "npc_gunship_boarding_leader", "df/d40/a18019.html#a8390eadab34a89643252f573588b140a", null ],
+    [ "GetAI", "df/d40/a18019.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
 ];

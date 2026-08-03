@@ -1,8 +1,9 @@
 var a21631 =
 [
-    [ "npc_q24545_vegardAI", "dd/d41/a21631.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
-    [ "JustDied", "dd/d41/a21631.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
-    [ "KilledUnit", "dd/d41/a21631.html#a2d78117a6c2a29f52f1905595425964a", null ],
-    [ "UpdateAI", "dd/d41/a21631.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
-    [ "events", "dd/d41/a21631.html#a68f48d92cc5559025e635d599c2882e3", null ]
+    [ "npc_warmage_coldarraAI", "dd/d41/a21631.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
+    [ "AttackStart", "dd/d41/a21631.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
+    [ "JustEngagedWith", "dd/d41/a21631.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
+    [ "Reset", "dd/d41/a21631.html#adf5094ba2bee34ec793124e798d5af8f", null ],
+    [ "UpdateAI", "dd/d41/a21631.html#a14b221265cc38b4061c52b687274a398", null ],
+    [ "m_uiTimer", "dd/d41/a21631.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
 ];

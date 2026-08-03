@@ -1,8 +1,6 @@
 var a18551 =
 [
-    [ "NecroticPlagueTargetCheck", "d7/d47/a18551.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
-    [ "operator()", "d7/d47/a18551.html#a801a176e367a9f4446fe080845477654", null ],
-    [ "_notAura1", "d7/d47/a18551.html#a4f52417f233e1ab06210726670f719f3", null ],
-    [ "_notAura2", "d7/d47/a18551.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
-    [ "_sourceObj", "d7/d47/a18551.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
+    [ "npc_rimefangAI", "dc/d2b/a18555.html", "dc/d2b/a18555" ],
+    [ "npc_rimefang", "d7/d47/a18551.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
+    [ "GetAI", "d7/d47/a18551.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
 ];

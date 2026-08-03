@@ -1,13 +1,18 @@
 var a21459 =
 [
-    [ "npc_shandy_dalaranAI", "d9/df8/a21459.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
-    [ "Reset", "d9/df8/a21459.html#a38f0630d4e18cea01de343afdcb96db3", null ],
-    [ "RollTask", "d9/df8/a21459.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
-    [ "SetData", "d9/df8/a21459.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
-    [ "UpdateAI", "d9/df8/a21459.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
-    [ "_aquanosGUID", "d9/df8/a21459.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
-    [ "_canWash", "d9/df8/a21459.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
-    [ "_events", "d9/df8/a21459.html#a3fbae63669c8382097b0bcb936301945", null ],
-    [ "_lCount", "d9/df8/a21459.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
-    [ "_lSource", "d9/df8/a21459.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
+    [ "boss_ichoron", "d9/df8/a21459.html#abdcfe5b89cb1e2413de309a316e472f8", null ],
+    [ "DoAction", "d9/df8/a21459.html#abe3d4e3f3c435f7cbe5b5b00c5dbb190", null ],
+    [ "DoExplodeCompleted", "d9/df8/a21459.html#ae56fae748297a02404b984277a1dd25f", null ],
+    [ "EnterEvadeMode", "d9/df8/a21459.html#a635d040533afa80e293ba9dbc141152a", null ],
+    [ "IchoronDoCastToAllHostilePlayers", "d9/df8/a21459.html#aadcf249665816ada6c2efa7f30f743f0", null ],
+    [ "JustDied", "d9/df8/a21459.html#ac85c574360da81216074b32dc9d40f74", null ],
+    [ "JustEngagedWith", "d9/df8/a21459.html#ae5353b8cf2d14b169c6d65064d81d0e4", null ],
+    [ "JustSummoned", "d9/df8/a21459.html#a45f9889887270ea51af6dcb1379408a9", null ],
+    [ "KilledUnit", "d9/df8/a21459.html#a2bf779fb863f09654d51fdb37af6ed47", null ],
+    [ "MoveInLineOfSight", "d9/df8/a21459.html#a4e323050c78bd1b95f691d0edc4fea3f", null ],
+    [ "Reset", "d9/df8/a21459.html#aa3ea79b6cb639d659868e9ddd0e97df1", null ],
+    [ "SummonedCreatureDespawn", "d9/df8/a21459.html#aaabedddd146e71e51db11772c635f8a2", null ],
+    [ "UpdateAI", "d9/df8/a21459.html#a7f1902ff2071f4f1a6232d6970a0b6b0", null ],
+    [ "_isExploded", "d9/df8/a21459.html#a23180ff62429fd94a08627f40ce5cbde", null ],
+    [ "_isFrenzy", "d9/df8/a21459.html#a02f51f706c2183708ae29a990379e25a", null ]
 ];

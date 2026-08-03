@@ -1,5 +1,7 @@
 var a24775 =
 [
-    [ "PrepareSpellScript", "d0/def/a24775.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
-    [ "Register", "d0/def/a24775.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
+    [ "HandleProc", "d0/def/a24775.html#ae8764fc6c284a13f610e55933b24102e", null ],
+    [ "PrepareAuraScript", "d0/def/a24775.html#a9ea55387324cbcecc72b82a58bcd9a48", null ],
+    [ "Register", "d0/def/a24775.html#ae65e0a22aab9802ed869b7fb6e823d9e", null ],
+    [ "Validate", "d0/def/a24775.html#aafa30eef7a8c8aac3699edc4afb97f19", null ]
 ];

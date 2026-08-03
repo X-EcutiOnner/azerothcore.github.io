@@ -1,19 +1,13 @@
 var a21267 =
 [
-    [ "violet_hold_trashAI", "dc/d9b/a21267.html#a87011739810f39291655bc835f9995bd", null ],
-    [ "AttackStart", "dc/d9b/a21267.html#ab2d2157977ae2482217fa8ac344b30af", null ],
-    [ "ClearDoorSealAura", "dc/d9b/a21267.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
-    [ "CreatureStartAttackDoor", "dc/d9b/a21267.html#a1e64a9f7c82275969e099b5012a32924", null ],
-    [ "EnterEvadeMode", "dc/d9b/a21267.html#ab189607a468514d6c472ac40e6f3d85b", null ],
-    [ "InitializeAI", "dc/d9b/a21267.html#aef3db235b8e28b8e2728cb0f2fb59053", null ],
-    [ "JustDied", "dc/d9b/a21267.html#acd512cd3722a2edf0ca539272ded3c79", null ],
-    [ "JustEngagedWith", "dc/d9b/a21267.html#a16e7677aa9597dda938a67c51febde6c", null ],
-    [ "JustReachedHome", "dc/d9b/a21267.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
-    [ "MoveInLineOfSight", "dc/d9b/a21267.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
-    [ "UpdateAI", "dc/d9b/a21267.html#a8647797343650fcd4f6304bce3742883", null ],
-    [ "WaypointReached", "dc/d9b/a21267.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
-    [ "WaypointReached", "dc/d9b/a21267.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "Instance", "dc/d9b/a21267.html#a9ebdc7d8619de49dcd742a1c08005770", null ],
-    [ "PortalLoc", "dc/d9b/a21267.html#a17d81d130cfeff5b5ae0ee30c594f5ca", null ],
-    [ "UseAlternate", "dc/d9b/a21267.html#aa584f9f52bfc3e37a6d3a80958e51e48", null ]
+    [ "npc_frenzied_worgenAI", "dc/d9b/a21267.html#a3a87e1285fb40a4fe31e7e9c2916f2a8", null ],
+    [ "DoAction", "dc/d9b/a21267.html#a7b7b34c2206cd1003c2abff3fb839c34", null ],
+    [ "JustDied", "dc/d9b/a21267.html#a33b723baef468ef79e67aaadba1b2691", null ],
+    [ "JustEngagedWith", "dc/d9b/a21267.html#a902bb6f89a2a210f2e0d18ebad7613f9", null ],
+    [ "JustReachedHome", "dc/d9b/a21267.html#a9b50182cd407811d0f0aeeba378a37ee", null ],
+    [ "MoveInLineOfSight", "dc/d9b/a21267.html#a3c2b76ccb6e00a24619f769f0d44ba2b", null ],
+    [ "Reset", "dc/d9b/a21267.html#adccac21b6eff18db096eb79dab4a27a0", null ],
+    [ "UpdateAI", "dc/d9b/a21267.html#ad83478b5946fd93e1b4fe7916342b1ee", null ],
+    [ "events", "dc/d9b/a21267.html#a8619650ae4396aafbdc1533f8b174ab8", null ],
+    [ "m_pInstance", "dc/d9b/a21267.html#a425720ce11714b145685f6d9c78a3dc1", null ]
 ];

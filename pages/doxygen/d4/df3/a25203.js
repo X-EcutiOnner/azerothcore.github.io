@@ -1,7 +1,7 @@
 var a25203 =
 [
-    [ "HandleDamage", "d4/df3/a25203.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
-    [ "PrepareSpellScript", "d4/df3/a25203.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
-    [ "Register", "d4/df3/a25203.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
-    [ "Validate", "d4/df3/a25203.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
+    [ "HandleScript", "d4/df3/a25203.html#a9fb69011ce5245925eb6a4fd011d18b2", null ],
+    [ "PrepareSpellScript", "d4/df3/a25203.html#ab9300ff0efc4a36d652a1b56c031dc2f", null ],
+    [ "Register", "d4/df3/a25203.html#aa0828fa1a3cf75e8222607a4f2fff950", null ],
+    [ "Validate", "d4/df3/a25203.html#a9469ebca2d40dd2944f2fb7286fc64ff", null ]
 ];

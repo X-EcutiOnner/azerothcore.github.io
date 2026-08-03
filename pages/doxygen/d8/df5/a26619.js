@@ -1,10 +1,9 @@
 var a26619 =
 [
-    [ "CalculateAmount", "d8/df5/a26619.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
-    [ "CheckDropCharge", "d8/df5/a26619.html#a69bcdbce43cee47873a2ba54ff03d928", null ],
-    [ "HandleUpdateSpellclick", "d8/df5/a26619.html#a89956d7f3a6404d5b60e46034867c82c", null ],
-    [ "InitializeAmount", "d8/df5/a26619.html#a4b0656e78d748d974d6d77a43cfa7910", null ],
-    [ "PrepareAuraScript", "d8/df5/a26619.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
-    [ "Register", "d8/df5/a26619.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ],
-    [ "_remainingAmount", "d8/df5/a26619.html#aa9a60ff01b89cb7c800d068e92c00ce3", null ]
+    [ "AllowT10Proc", "d8/df5/a26619.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
+    [ "OnRemove", "d8/df5/a26619.html#a52807f94eba44a9b574577a0b27acb22", null ],
+    [ "PrepareAuraScript", "d8/df5/a26619.html#a430303b7df445d38da9316324359c2d6", null ],
+    [ "Register", "d8/df5/a26619.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
+    [ "Validate", "d8/df5/a26619.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
+    [ "_canProcT10", "d8/df5/a26619.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
 ];

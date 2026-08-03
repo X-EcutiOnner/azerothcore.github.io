@@ -1,8 +1,6 @@
 var a23299 =
 [
-    [ "boss_broggok", "d5/d94/a23299.html#ae20c04793116d3e8eab62d2ee27010df", null ],
-    [ "DoAction", "d5/d94/a23299.html#af5de5a1747c502f72af015c09d050354", null ],
-    [ "JustEngagedWith", "d5/d94/a23299.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
-    [ "JustSummoned", "d5/d94/a23299.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
-    [ "Reset", "d5/d94/a23299.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
+    [ "HandleEffectRemove", "d5/d94/a23299.html#a4000209ccbcbc62a51db3e7b672ea69d", null ],
+    [ "PrepareAuraScript", "d5/d94/a23299.html#adc6f982b0e3cc56039746f425cb09113", null ],
+    [ "Register", "d5/d94/a23299.html#a5ceecc2f9a9664755b5e492fda54a560", null ]
 ];

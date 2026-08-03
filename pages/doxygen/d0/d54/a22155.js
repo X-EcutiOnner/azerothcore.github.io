@@ -1,7 +1,5 @@
 var a22155 =
 [
-    [ "npc_wg_quest_giver", "d0/d54/a22155.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d0/d54/a22155.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d0/d54/a22155.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d0/d54/a22155.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "npc_guardian_pavilionAI", "d0/d54/a22155.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "d0/d54/a22155.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

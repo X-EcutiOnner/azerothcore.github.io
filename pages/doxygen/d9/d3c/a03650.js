@@ -1,9 +1,9 @@
 var a03650 =
 [
-    [ "instance_shadowfang_keep", "dc/de5/a13606.html", "dc/de5/a13606" ],
-    [ "instance_shadowfang_keep::instance_shadowfang_keep_InstanceMapScript", "d2/d57/a13610.html", "d2/d57/a13610" ],
-    [ "spell_shadowfang_keep_haunting_spirits_aura", "dc/d3f/a13614.html", "dc/d3f/a13614" ],
-    [ "spell_shadowfang_keep_forsaken_skills_aura", "d7/dc0/a13618.html", "d7/dc0/a13618" ],
+    [ "instance_shadowfang_keep", "dc/d22/a13611.html", "dc/d22/a13611" ],
+    [ "instance_shadowfang_keep::instance_shadowfang_keep_InstanceMapScript", "d4/d8a/a13615.html", "d4/d8a/a13615" ],
+    [ "spell_shadowfang_keep_haunting_spirits_aura", "dd/d18/a13619.html", "dd/d18/a13619" ],
+    [ "spell_shadowfang_keep_forsaken_skills_aura", "d6/d55/a13623.html", "d6/d55/a13623" ],
     [ "ForsakenSpells", "d9/d3c/a03650.html#a389d5779db9178608ade2fdc2e7a2d66", [
       [ "SPELL_FORSAKEN_SKILL_SWORD", "d9/d3c/a03650.html#a389d5779db9178608ade2fdc2e7a2d66a66434c0d78770abb5cb5e3a50074f5cb", null ],
       [ "SPELL_FORSAKEN_SKILL_SHADOW", "d9/d3c/a03650.html#a389d5779db9178608ade2fdc2e7a2d66ab350c0bad170d89027779476282a594c", null ]
@@ -1538,6 +1538,7 @@ var a03650 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

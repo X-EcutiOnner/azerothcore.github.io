@@ -1,5 +1,8 @@
 var a17819 =
 [
-    [ "achievement_ive_gone_and_made_a_mess", "dc/df8/a17819.html#a0e71ea3afae02176f81231e51155c038", null ],
-    [ "OnCheck", "dc/df8/a17819.html#a638cead986783523c7c35ecb9d885b11", null ]
+    [ "OnApply", "dc/df8/a17819.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "dc/df8/a17819.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "dc/df8/a17819.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "dc/df8/a17819.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "dc/df8/a17819.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

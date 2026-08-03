@@ -1,6 +1,6 @@
 var a16003 =
 [
-    [ "npc_anachronos_quest_triggerAI", "d6/d58/a16007.html", "d6/d58/a16007" ],
-    [ "npc_anachronos_quest_trigger", "dc/de4/a16003.html#ad39871952acd3152b51820fe360f4ebd", null ],
-    [ "GetAI", "dc/de4/a16003.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
+    [ "HandleDummy", "dc/de4/a16003.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
+    [ "PrepareSpellScript", "dc/de4/a16003.html#adc581ed46587afcc8be3800ae79105f6", null ],
+    [ "Register", "dc/de4/a16003.html#a7d09808ea2fdec450fcd129e996bd245", null ]
 ];

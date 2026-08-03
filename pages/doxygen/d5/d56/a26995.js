@@ -1,6 +1,6 @@
 var a26995 =
 [
-    [ "HandleEffectPeriodic", "d5/d56/a26995.html#a29eb3f3dadd45ccab069222fc36cea09", null ],
-    [ "PrepareAuraScript", "d5/d56/a26995.html#aaa8296439ffe69eafdd1cece8ec346ad", null ],
-    [ "Register", "d5/d56/a26995.html#a0a62a0bcf39a781289e1467384ac82cb", null ]
+    [ "CheckDummy", "d5/d56/a26995.html#ad2f75ba479a8523b0fffaae86204a25c", null ],
+    [ "PrepareAuraScript", "d5/d56/a26995.html#a7cd3757fddecca39b1b0bd95bb2b8e5b", null ],
+    [ "Register", "d5/d56/a26995.html#af0b1e469fec71b28ca349b9be9c6fdd7", null ]
 ];

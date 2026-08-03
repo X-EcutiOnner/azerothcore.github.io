@@ -1,7 +1,6 @@
 var a21283 =
 [
-    [ "npc_azure_raider", "dd/de0/a21283.html#a841b0fb8a0ca5ca82f3183835281d0e7", null ],
-    [ "Reset", "dd/de0/a21283.html#a3579986a1769467cb17d3b15242e0551", null ],
-    [ "UpdateAI", "dd/de0/a21283.html#a7aa0c785e976167ef384d7c4dac3294f", null ],
-    [ "_events", "dd/de0/a21283.html#a8d25c785974cb8c50b55b547b982b06f", null ]
+    [ "boss_skadi_graufAI", "d3/d33/a21287.html", "d3/d33/a21287" ],
+    [ "boss_skadi_grauf", "dd/de0/a21283.html#a571db2d2ae21f38b7051319da0f042f6", null ],
+    [ "GetAI", "dd/de0/a21283.html#ab464e605bf001eee5517ad805066af57", null ]
 ];

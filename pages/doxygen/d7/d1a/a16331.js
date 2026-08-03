@@ -1,6 +1,8 @@
 var a16331 =
 [
-    [ "npc_anub_ar_crusher_champion", "d7/d1a/a16331.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
-    [ "DoEngagedWith", "d7/d1a/a16331.html#a2dcef4fe57880ba725dff52455a7a428", null ],
-    [ "DoEvent", "d7/d1a/a16331.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
+    [ "HandleAfterCast", "d7/d1a/a16331.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
+    [ "HandleDummyEffect", "d7/d1a/a16331.html#a539c233fc820248930e1988c4074b9c8", null ],
+    [ "Load", "d7/d1a/a16331.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
+    [ "PrepareSpellScript", "d7/d1a/a16331.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
+    [ "Register", "d7/d1a/a16331.html#ae90184fd34636b33755b732ec82fd52f", null ]
 ];

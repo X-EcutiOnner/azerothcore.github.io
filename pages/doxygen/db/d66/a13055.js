@@ -1,6 +1,6 @@
 var a13055 =
 [
-    [ "HandleTriggerSpell", "db/d66/a13055.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "db/d66/a13055.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "db/d66/a13055.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "boss_lucifron", "db/d66/a13055.html#a632be7d3aaa9cc2360fce6871918a4b1", null ],
+    [ "ExecuteEvent", "db/d66/a13055.html#ae392b01817d9160ef0c80387406ad6fa", null ],
+    [ "JustEngagedWith", "db/d66/a13055.html#a9ebfc9877165aaadd2ea446995f4cf99", null ]
 ];

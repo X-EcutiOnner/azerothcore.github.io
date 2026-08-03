@@ -1,7 +1,7 @@
 var a27547 =
 [
-    [ "HandleProc", "d4/d16/a27547.html#a4294ab4682ea26f78eb4c90c59e86953", null ],
-    [ "PrepareAuraScript", "d4/d16/a27547.html#ac5d22623791d195aa767d5a28e9639b7", null ],
-    [ "Register", "d4/d16/a27547.html#a135abc0548ba189fcf6bd662d7ae8940", null ],
-    [ "Validate", "d4/d16/a27547.html#ac10227e6423f61b0fd67803f01fd4a0e", null ]
+    [ "PeriodicTick", "d4/d16/a27547.html#a0093da1cb71f87bb7302bf6ccc9a255c", null ],
+    [ "PrepareAuraScript", "d4/d16/a27547.html#afd362a7dd0373e9480445a99023a5c8c", null ],
+    [ "Register", "d4/d16/a27547.html#a0332788648661d5c2665c5d1431e4ca7", null ],
+    [ "Validate", "d4/d16/a27547.html#aecb5c0c9f5258a3ce7ff18cf08f89845", null ]
 ];

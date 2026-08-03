@@ -1,6 +1,5 @@
 var a28063 =
 [
-    [ "go_amberpine_outhouse", "d3/da4/a28063.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
-    [ "OnGossipHello", "d3/da4/a28063.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
-    [ "OnGossipSelect", "d3/da4/a28063.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "d3/da4/a28063.html#aa2e9a01adad7e195860bbc6c55131024", null ],
+    [ "OnTrigger", "d3/da4/a28063.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
 ];

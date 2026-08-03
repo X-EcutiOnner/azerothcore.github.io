@@ -1,7 +1,6 @@
 var a29991 =
 [
-    [ "_pad", "dc/d96/a29991.html#ad6e8aff776dfb6fa95c30d0318b3af25", null ],
-    [ "Count", "dc/d96/a29991.html#ac90dd584efc679554d4cee31c988c7c8", null ],
-    [ "Name", "dc/d96/a29991.html#ae93b772cbbe91b9ed55c78e22317c8dd", null ],
-    [ "StartIndex", "dc/d96/a29991.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa", null ]
+    [ "CreateArmorProcConfig", "dc/d96/a29991.html#aae16272567352cb8730edcba3908a08f", null ],
+    [ "CreateWeaponProcConfig", "dc/d96/a29991.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
+    [ "SetUp", "dc/d96/a29991.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
 ];

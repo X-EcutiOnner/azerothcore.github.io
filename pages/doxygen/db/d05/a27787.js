@@ -1,5 +1,7 @@
 var a27787 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "db/d05/a27787.html#aa2e9a01adad7e195860bbc6c55131024", null ],
-    [ "OnTrigger", "db/d05/a27787.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
+    [ "CalculateAmount", "db/d05/a27787.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
+    [ "PrepareAuraScript", "db/d05/a27787.html#a20dad49a99420556f393a16525eb14b4", null ],
+    [ "Register", "db/d05/a27787.html#ad7d339ab137ebd640981f7789e1757f0", null ],
+    [ "Validate", "db/d05/a27787.html#a341acb2dd25c1db94777f7036f3338ac", null ]
 ];

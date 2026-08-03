@@ -1,7 +1,6 @@
 var a28623 =
 [
-    [ "Id", "d1/d40/a28623.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
-    [ "MaxLevel", "d1/d40/a28623.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
-    [ "Modifier", "d1/d40/a28623.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
-    [ "StatMod", "d1/d40/a28623.html#ab639dd94c53707ca160e13f71342730d", null ]
+    [ "npc_stable_masterAI", "dd/d8c/a28627.html", "dd/d8c/a28627" ],
+    [ "npc_stable_master", "d1/d40/a28623.html#ad327340f47e10bec7f077192227b0899", null ],
+    [ "GetAI", "d1/d40/a28623.html#a7e34e18d2dad465eb88b0388fa830490", null ]
 ];

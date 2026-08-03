@@ -1,7 +1,9 @@
 var a12951 =
 [
-    [ "HandleDummy", "d1/df2/a12951.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
-    [ "PrepareSpellScript", "d1/df2/a12951.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
-    [ "Register", "d1/df2/a12951.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
-    [ "Validate", "d1/df2/a12951.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
+    [ "npc_drakonid_spawner", "d1/df2/a12951.html#a2b657e800dc5cc30c618391413ded116", null ],
+    [ "DoAction", "d1/df2/a12951.html#ab013cff0430c09fe1045fdc735e45182", null ],
+    [ "IsSummonedBy", "d1/df2/a12951.html#a6a2170e0f20736d69006ce6d6c769476", null ],
+    [ "SummonedCreatureDies", "d1/df2/a12951.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
+    [ "UpdateAI", "d1/df2/a12951.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
+    [ "_owner", "d1/df2/a12951.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
 ];

@@ -1,11 +1,10 @@
 var a08411 =
 [
-    [ "AddItem", "d3/da9/a08411.html#a46f6533323fd15632c3f9a8b96ef6f3f", null ],
-    [ "Clear", "d3/da9/a08411.html#a70c7400c4bc60923fd538890774445de", null ],
-    [ "Empty", "d3/da9/a08411.html#ab55fa73ab327294de2c5f6906fc1fbdb", null ],
-    [ "FindItemCostPair", "d3/da9/a08411.html#a61dc4394afdd3a360559ffec1655c343", null ],
-    [ "GetItem", "d3/da9/a08411.html#aa764da5b4647c84813e3aa6b46de7593", null ],
-    [ "GetItemCount", "d3/da9/a08411.html#ae80634592ce705c77c5aa53960f89c24", null ],
-    [ "RemoveItem", "d3/da9/a08411.html#a974925f2979910348a0af795893b310b", null ],
-    [ "m_items", "d3/da9/a08411.html#aa16668e54fce8fffe8651644cdef4335", null ]
+    [ "AssistDelayEvent", "d3/da9/a08411.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
+    [ "AssistDelayEvent", "d3/da9/a08411.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
+    [ "AddAssistant", "d3/da9/a08411.html#a987303ec41927528e9a5abfd9ab75512", null ],
+    [ "Execute", "d3/da9/a08411.html#a5afd295abeb1295e43f48b8951b24c35", null ],
+    [ "m_assistants", "d3/da9/a08411.html#ac6de6befda582bd38f92afda01204e94", null ],
+    [ "m_owner", "d3/da9/a08411.html#aabcce364c8009e8172b9d090059ce48c", null ],
+    [ "m_victim", "d3/da9/a08411.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
 ];

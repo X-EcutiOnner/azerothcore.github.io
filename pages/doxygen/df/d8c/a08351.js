@@ -1,10 +1,7 @@
 var a08351 =
 [
-    [ "AssistDelayEvent", "df/d8c/a08351.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
-    [ "AssistDelayEvent", "df/d8c/a08351.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
-    [ "AddAssistant", "df/d8c/a08351.html#a987303ec41927528e9a5abfd9ab75512", null ],
-    [ "Execute", "df/d8c/a08351.html#a5afd295abeb1295e43f48b8951b24c35", null ],
-    [ "m_assistants", "df/d8c/a08351.html#ac6de6befda582bd38f92afda01204e94", null ],
-    [ "m_owner", "df/d8c/a08351.html#aabcce364c8009e8172b9d090059ce48c", null ],
-    [ "m_victim", "df/d8c/a08351.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
+    [ "LfgProposalPlayer", "df/d8c/a08351.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
+    [ "accept", "df/d8c/a08351.html#acbf0ce1e12307569487096dc5ca544a6", null ],
+    [ "group", "df/d8c/a08351.html#a900f24e9caaa1569eeea93b4284139a1", null ],
+    [ "role", "df/d8c/a08351.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
 ];

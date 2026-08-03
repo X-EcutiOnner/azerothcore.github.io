@@ -1,9 +1,12 @@
 var a12843 =
 [
-    [ "FilterTargets", "dd/d1f/a12843.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "dd/d1f/a12843.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "dd/d1f/a12843.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "dd/d1f/a12843.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "dd/d1f/a12843.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "dd/d1f/a12843.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "boss_the_beast", "dd/d1f/a12843.html#ab98bce804078b4184b1bf6e844db9c67", null ],
+    [ "FindNearbyOrcs", "dd/d1f/a12843.html#a46da3f960ea3c38791c23a3e282db9c7", null ],
+    [ "JustEngagedWith", "dd/d1f/a12843.html#a9740b134ce1b21c42c9082d9fdc97264", null ],
+    [ "Reset", "dd/d1f/a12843.html#a7a72f5aeb54fe6de6c71dfac2c906881", null ],
+    [ "SetData", "dd/d1f/a12843.html#a8ceb3a1c53c2c5385d4a779b2ac283da", null ],
+    [ "UpdateAI", "dd/d1f/a12843.html#ad7db422aefc711b437176b729c6ac151", null ],
+    [ "_beastReached", "dd/d1f/a12843.html#a7345b0091bcfd894ce8fdff9431254f6", null ],
+    [ "_nearbyOrcsGUIDs", "dd/d1f/a12843.html#a20b867be394f3c5d9bbf851ba724ca3a", null ],
+    [ "_orcYelled", "dd/d1f/a12843.html#a7079c59c50343f460e2aac2bcf19709c", null ]
 ];

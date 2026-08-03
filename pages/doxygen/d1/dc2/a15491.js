@@ -1,7 +1,5 @@
 var a15491 =
 [
-    [ "boss_rajaxx", "d1/dc2/a15491.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "d1/dc2/a15491.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "d1/dc2/a15491.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "d1/dc2/a15491.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "npc_hive_zara_swarmer", "d1/dc2/a15491.html#a374fa63e210e0be8a074af9199126a9e", null ],
+    [ "PathEndReached", "d1/dc2/a15491.html#a3b3510bd00853395b756e1d83d96a474", null ]
 ];

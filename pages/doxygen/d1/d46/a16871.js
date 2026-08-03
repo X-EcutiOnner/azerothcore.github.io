@@ -1,8 +1,11 @@
 var a16871 =
 [
-    [ "npc_toc_hunterAI", "d1/d46/a16871.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
-    [ "JustSummoned", "d1/d46/a16871.html#aa270248ad9e0c319234ff0741270b465", null ],
-    [ "myCanCast", "d1/d46/a16871.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
-    [ "UpdateAI", "d1/d46/a16871.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
-    [ "events", "d1/d46/a16871.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
+    [ "npc_anubarak_spikeAI", "d1/d46/a16871.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
+    [ "DamageTaken", "d1/d46/a16871.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
+    [ "DoAction", "d1/d46/a16871.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
+    [ "Reset", "d1/d46/a16871.html#af5b4a1227467d86d9dbba57362fdf360", null ],
+    [ "SelectNewTarget", "d1/d46/a16871.html#ab9ed5d53703464c488267f578a214fb8", null ],
+    [ "UpdateAI", "d1/d46/a16871.html#af8d6d840785c718d963c7b150cd12d9c", null ],
+    [ "events", "d1/d46/a16871.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
+    [ "TargetGUID", "d1/d46/a16871.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
 ];

@@ -1,5 +1,6 @@
 var a28615 =
 [
-    [ "id", "d2/def/a28615.html#a4667f55651f20c85f5b3da9384bac078", null ],
-    [ "QuestRewFactionValue", "d2/def/a28615.html#a9a42feddeef8e054cd52b72cfc812867", null ]
+    [ "npc_spring_rabbitAI", "d5/d75/a28619.html", "d5/d75/a28619" ],
+    [ "npc_spring_rabbit", "d2/def/a28615.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
+    [ "GetAI", "d2/def/a28615.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
 ];

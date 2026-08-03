@@ -1,14 +1,8 @@
 var a20967 =
 [
-    [ "boss_dalronn_the_controller", "dd/d45/a20967.html#a57718e928fa273bba3c40a05d5888a3d", null ],
-    [ "DoAction", "dd/d45/a20967.html#ad11e43d40a61f093b5e51482437467b8", null ],
-    [ "JustDied", "dd/d45/a20967.html#a28a669b56392b599e124573778e33134", null ],
-    [ "JustEngagedWith", "dd/d45/a20967.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
-    [ "JustSummoned", "dd/d45/a20967.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
-    [ "KilledUnit", "dd/d45/a20967.html#a96a173e30ad81c77217b0693d1d15839", null ],
-    [ "Reset", "dd/d45/a20967.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
-    [ "UpdateAI", "dd/d45/a20967.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
-    [ "events", "dd/d45/a20967.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
-    [ "pInstance", "dd/d45/a20967.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
-    [ "summons", "dd/d45/a20967.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
+    [ "boss_yoggsaron_guardian_of_ys", "dd/d45/a20967.html#ad66fab16b309b62895578d46e8a2e730", null ],
+    [ "JustDied", "dd/d45/a20967.html#a12ce3fef2fba8d92945249cf8920a0b4", null ],
+    [ "Reset", "dd/d45/a20967.html#ac803a9da5223db459b9ec48435e59c30", null ],
+    [ "UpdateAI", "dd/d45/a20967.html#a573576eaff2cbd4f779675e19ad53dea", null ],
+    [ "_spellTimer", "dd/d45/a20967.html#a5922d21c4606ab9a41e20948dc926cea", null ]
 ];

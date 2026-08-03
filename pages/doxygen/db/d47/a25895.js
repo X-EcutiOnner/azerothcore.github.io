@@ -1,7 +1,6 @@
 var a25895 =
 [
-    [ "HandleEnergize", "db/d47/a25895.html#a283e713252166a863aa96530d6e7608b", null ],
-    [ "Load", "db/d47/a25895.html#a89847e0e9435a708c5722ff928f7033f", null ],
-    [ "PrepareSpellScript", "db/d47/a25895.html#a8847e05e6eeafd801fca5423d0689432", null ],
-    [ "Register", "db/d47/a25895.html#ae0778ffd8cf203e22510ee91b0394303", null ]
+    [ "PrepareSpellScript", "db/d47/a25895.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
+    [ "Register", "db/d47/a25895.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
+    [ "SelectTarget", "db/d47/a25895.html#a3153b6c6814922cd7220e19b06f2a602", null ]
 ];

@@ -1,5 +1,6 @@
 var a21339 =
 [
-    [ "npc_nerubar_victimAI", "d0/d99/a21339.html#a494976030dd48544742dd14fc09ffdbd", null ],
-    [ "JustDied", "d0/d99/a21339.html#abe3813465cad08800708726cb7ffa021", null ]
+    [ "CalculateAmount", "d0/d99/a21339.html#a79019ef395c9b66f6a88759b0517005d", null ],
+    [ "PrepareAuraScript", "d0/d99/a21339.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
+    [ "Register", "d0/d99/a21339.html#a9bce52699983fe798c903385faa42462", null ]
 ];

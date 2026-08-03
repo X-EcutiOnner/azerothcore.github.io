@@ -1,7 +1,8 @@
 var a20403 =
 [
-    [ "HandleScript", "df/d0c/a20403.html#a760bb60198017605111d02af98c827b1", null ],
-    [ "PrepareSpellScript", "df/d0c/a20403.html#a6128956f1037b62fff2e6f10ec22d956", null ],
-    [ "Register", "df/d0c/a20403.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
-    [ "Validate", "df/d0c/a20403.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
+    [ "OnApply", "df/d0c/a20403.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "df/d0c/a20403.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "df/d0c/a20403.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "df/d0c/a20403.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "df/d0c/a20403.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

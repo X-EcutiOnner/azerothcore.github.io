@@ -1,6 +1,6 @@
 var a12047 =
 [
-    [ "EffectProcHandler", "d9/dd1/a12047.html#a613d5e85c3a7449e4f31719966dcdcc1", null ],
-    [ "Call", "d9/dd1/a12047.html#ae03d27451f687319629b3c54c5a7eed5", null ],
-    [ "_EffectHandlerScript", "d9/dd1/a12047.html#a8cb9ec4cfee59bc44063ac5cbf25844f", null ]
+    [ "BeforeHitHandler", "d9/dd1/a12047.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
+    [ "Call", "d9/dd1/a12047.html#a393057cca72c41e193508bf150ed0b1f", null ],
+    [ "_pBeforeHitHandlerScript", "d9/dd1/a12047.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
 ];

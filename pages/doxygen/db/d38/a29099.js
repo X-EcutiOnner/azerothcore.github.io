@@ -1,7 +1,5 @@
 var a29099 =
 [
-    [ "Flags", "db/d38/a29099.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "db/d38/a29099.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "db/d38/a29099.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "db/d38/a29099.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "cinematicCamera", "db/d38/a29099.html#a87e5f6de255dc0c75423eace2768a1dc", null ],
+    [ "Id", "db/d38/a29099.html#a9c3dc0e60728c1c76594385d6860f265", null ]
 ];

@@ -1,6 +1,7 @@
 var a13387 =
 [
-    [ "CheckRequirement", "d3/d54/a13387.html#a31d69034f463d552afa4063bf89271da", null ],
-    [ "PrepareSpellScript", "d3/d54/a13387.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
-    [ "Register", "d3/d54/a13387.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
+    [ "HandleDummy", "d3/d54/a13387.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
+    [ "PrepareSpellScript", "d3/d54/a13387.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
+    [ "Register", "d3/d54/a13387.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
+    [ "Validate", "d3/d54/a13387.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
 ];

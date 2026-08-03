@@ -1,10 +1,7 @@
 var a28159 =
 [
-    [ "npc_prof_tailor", "d1/d34/a28159.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "d1/d34/a28159.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "d1/d34/a28159.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "d1/d34/a28159.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "d1/d34/a28159.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "d1/d34/a28159.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "d1/d34/a28159.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "HandlePeriodic", "d1/d34/a28159.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "d1/d34/a28159.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "d1/d34/a28159.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "d1/d34/a28159.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];

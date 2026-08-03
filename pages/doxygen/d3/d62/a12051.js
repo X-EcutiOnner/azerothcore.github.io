@@ -1,7 +1,6 @@
 var a12051 =
 [
-    [ "ScriptStateStore", "d3/d62/a12051.html#a51baffee5c9dbf255591db8ea13ee516", null ],
-    [ "_auraApplication", "d3/d62/a12051.html#af5098bcedac048808e11bf2f82d705a7", null ],
-    [ "_currentScriptState", "d3/d62/a12051.html#adddf594d9468b16455da6e2aef683d44", null ],
-    [ "_defaultActionPrevented", "d3/d62/a12051.html#a63cf373d469af72bc96a3e72351e3256", null ]
+    [ "HitHandler", "d3/d62/a12051.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
+    [ "Call", "d3/d62/a12051.html#a157baaa3ceba62a9910cba5377bd7699", null ],
+    [ "pHitHandlerScript", "d3/d62/a12051.html#ac24144e49930a01a3049740a4072f626", null ]
 ];

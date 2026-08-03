@@ -1,6 +1,6 @@
 var a16687 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "dc/d12/a16691.html", "dc/d12/a16691" ],
-    [ "npc_black_knight_skeletal_gryphon", "d1/dfb/a16687.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
-    [ "GetAI", "d1/dfb/a16687.html#aad244f95877a208b56a2b6544984d724", null ]
+    [ "boss_saviana_ragefireAI", "dc/d12/a16691.html", "dc/d12/a16691" ],
+    [ "boss_saviana_ragefire", "d1/dfb/a16687.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
+    [ "GetAI", "d1/dfb/a16687.html#a0a0073d8710af066d9711636f4d5b01e", null ]
 ];

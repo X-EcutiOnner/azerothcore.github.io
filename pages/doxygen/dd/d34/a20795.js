@@ -1,11 +1,5 @@
 var a20795 =
 [
-    [ "boss_yoggsaron_neltharion", "dd/d34/a20795.html#ac7ef088876e15e5edc94e4bd92b7f39d", null ],
-    [ "NextStep", "dd/d34/a20795.html#ac0824d322b7e5825686e8a5c2dd4ec94", null ],
-    [ "Reset", "dd/d34/a20795.html#ab26d57690c1d2477678dc9759aefeab2", null ],
-    [ "Say", "dd/d34/a20795.html#a79d315f37b0f0beceddcae85dcb8697f", null ],
-    [ "UpdateAI", "dd/d34/a20795.html#a3728f095ee83c3ea9063b1679f1b3dc9", null ],
-    [ "_checkTimer", "dd/d34/a20795.html#a2adcf3f46d4003ae2044eda474e51983", null ],
-    [ "_running", "dd/d34/a20795.html#acd807afae6aa88c2e385765231a56a86", null ],
-    [ "_step", "dd/d34/a20795.html#a4e4265f17cbc8cfc3dbe09dca7af7939", null ]
+    [ "achievement_quick_shave", "dd/d34/a20795.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
+    [ "OnCheck", "dd/d34/a20795.html#a151c479da3d4cec05999ad8a249b100c", null ]
 ];

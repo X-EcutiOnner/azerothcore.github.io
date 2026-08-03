@@ -1,6 +1,10 @@
 var a20887 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "d7/d75/a20887.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "d7/d75/a20887.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "d7/d75/a20887.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "npc_boombot", "d7/d75/a20887.html#a6747aef56fd6710020c8aa5b4d96e0a1", null ],
+    [ "DamageTaken", "d7/d75/a20887.html#a9f657c3f979b1f35f1cd5129474b33f1", null ],
+    [ "Reset", "d7/d75/a20887.html#af47d7810bfe4f4ad7185ec7167cd49bf", null ],
+    [ "UpdateAI", "d7/d75/a20887.html#a11b997bea629230932a1e01e89a556f2", null ],
+    [ "_boomed", "d7/d75/a20887.html#a3e08d47064301a42e71fa33f9d58a5a3", null ],
+    [ "_instance", "d7/d75/a20887.html#aeacd93855b35591fbfc54a8c1f622621", null ],
+    [ "_scheduler", "d7/d75/a20887.html#af45ea755ec5c6a16b2b1fde7ef0e93f8", null ]
 ];

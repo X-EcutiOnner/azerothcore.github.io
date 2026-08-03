@@ -1,6 +1,6 @@
 var a21319 =
 [
-    [ "npc_sinkhole_kill_creditAI", "d0/d6a/a21323.html", "d0/d6a/a21323" ],
-    [ "npc_sinkhole_kill_credit", "d2/df1/a21319.html#a627d01aaaa3408986f2b4d171624e680", null ],
-    [ "GetAI", "d2/df1/a21319.html#a4d734432f132bea2c4525d049fbcfa67", null ]
+    [ "boss_svalaAI", "d0/d6a/a21323.html", "d0/d6a/a21323" ],
+    [ "boss_svala", "d2/df1/a21319.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
+    [ "GetAI", "d2/df1/a21319.html#a0c3b94635eca667a28496cf799efad25", null ]
 ];

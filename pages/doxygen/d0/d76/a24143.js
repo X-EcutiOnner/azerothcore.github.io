@@ -1,7 +1,7 @@
 var a24143 =
 [
-    [ "npc_pet_gen_target_following_bomb", "d0/d76/a24143.html#a447c2cd258d784ca1d79c79412a1a426", null ],
-    [ "UpdateAI", "d0/d76/a24143.html#ac68f18d68a313623c04e885f9506f287", null ],
-    [ "bombSpellId", "d0/d76/a24143.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
-    [ "checkTimer", "d0/d76/a24143.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
+    [ "npc_bessyAI", "d6/d2b/a24147.html", "d6/d2b/a24147" ],
+    [ "npc_bessy", "d0/d76/a24143.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d0/d76/a24143.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d0/d76/a24143.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

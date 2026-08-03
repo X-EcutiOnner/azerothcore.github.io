@@ -1,5 +1,6 @@
 var a12771 =
 [
-    [ "at_scarshield_infiltrator", "dc/d20/a12771.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
-    [ "OnTrigger", "dc/d20/a12771.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
+    [ "RestoreAttack", "dc/d20/a12771.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
+    [ "Execute", "dc/d20/a12771.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
+    [ "_boss", "dc/d20/a12771.html#a493ef909da834b0befd90f57f54fb10c", null ]
 ];

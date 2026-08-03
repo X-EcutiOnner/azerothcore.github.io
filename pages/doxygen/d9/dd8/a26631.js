@@ -1,6 +1,7 @@
 var a26631 =
 [
-    [ "FilterTargets", "d9/dd8/a26631.html#a23c7b977f7e213322b3702367d6a28c7", null ],
-    [ "PrepareSpellScript", "d9/dd8/a26631.html#a7000b2fd940c914933c486e847932b62", null ],
-    [ "Register", "d9/dd8/a26631.html#a870ee08d0341f6640710a87c97a6b98b", null ]
+    [ "PrepareSpellScript", "d9/dd8/a26631.html#ade3a3f956ae8be922bd1d2204919d360", null ],
+    [ "Register", "d9/dd8/a26631.html#a71d397da4a4804cf6023806c15e8bedf", null ],
+    [ "TriggerHypothermia", "d9/dd8/a26631.html#af40f92afae93778e477c50ddf18c8adc", null ],
+    [ "Validate", "d9/dd8/a26631.html#a1f0cef532c2bd13d94e647722f85457a", null ]
 ];

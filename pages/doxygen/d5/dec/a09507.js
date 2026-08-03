@@ -1,16 +1,10 @@
 var a09507 =
 [
-    [ "LiquidEntryType", "d5/dec/a09507.html#a025eadf79f31d447fc80efabbb2f9f22", null ],
-    [ "LiquidFlagsType", "d5/dec/a09507.html#a5bd1b8c77ed4830cc558985e98aa1d01", null ],
-    [ "LiquidMapType", "d5/dec/a09507.html#a554cc712f06b4a0eb9bf81c4a41b9030", null ],
-    [ "liquidEntry", "d5/dec/a09507.html#a1d69fc74b38f6e596704e26e93281314", null ],
-    [ "liquidFlags", "d5/dec/a09507.html#a9ebf22bb06a9254e7175083dc51af9dd", null ],
-    [ "liquidGlobalEntry", "d5/dec/a09507.html#a48274eeefa423c48ff860c8ffc110a30", null ],
-    [ "liquidGlobalFlags", "d5/dec/a09507.html#abdd9bfcaf91f30c3e543e632c347aa88", null ],
-    [ "liquidHeight", "d5/dec/a09507.html#a40f757a6fa57ade760cf1001925a0560", null ],
-    [ "liquidLevel", "d5/dec/a09507.html#a45b8bab4cc66e6e5be5ef51ad27bf1cc", null ],
-    [ "liquidMap", "d5/dec/a09507.html#ae6ddffb70a92aea580bacebb5a0e4d11", null ],
-    [ "liquidOffX", "d5/dec/a09507.html#a310d68fbb4d88272b7ae93492331ce4b", null ],
-    [ "liquidOffY", "d5/dec/a09507.html#ae8b485a43a960a810f5951df6419bd54", null ],
-    [ "liquidWidth", "d5/dec/a09507.html#afee2d2d96fc879729a070d2b5eb114e0", null ]
+    [ "GridObjectLoader", "d5/dec/a09507.html#a57cd46fee6f747221761aa3114c40ba6", null ],
+    [ "AddObjectHelper", "d5/dec/a09507.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
+    [ "LoadAllCellsInGrid", "d5/dec/a09507.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
+    [ "LoadCreatures", "d5/dec/a09507.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
+    [ "LoadGameObjects", "d5/dec/a09507.html#ad577dbb6544e806d25b496796651ba5b", null ],
+    [ "_grid", "d5/dec/a09507.html#abe551354634514fa3998eccb10fcbefe", null ],
+    [ "_map", "d5/dec/a09507.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
 ];

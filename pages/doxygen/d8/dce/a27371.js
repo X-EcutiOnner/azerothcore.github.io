@@ -1,6 +1,8 @@
 var a27371 =
 [
-    [ "PeriodicTick", "d8/dce/a27371.html#a14e79a7bb4a5b11ddc74ab366e79a907", null ],
-    [ "PrepareAuraScript", "d8/dce/a27371.html#a0448cdf379053396f8649946e52ce690", null ],
-    [ "Register", "d8/dce/a27371.html#a2dab21ddb3c33341d560643d27042402", null ]
+    [ "HandleRootRemove", "d8/dce/a27371.html#a9678ce2254825b67eb7a16312e960ba9", null ],
+    [ "HandleSnareRemove", "d8/dce/a27371.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
+    [ "PrepareSpellScript", "d8/dce/a27371.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
+    [ "Register", "d8/dce/a27371.html#a119675dccea898932ca090577022b6ba", null ],
+    [ "Validate", "d8/dce/a27371.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
 ];

@@ -1,6 +1,6 @@
 var a21091 =
 [
-    [ "npc_ritual_channelerAI", "d6/d55/a21095.html", "d6/d55/a21095" ],
-    [ "npc_ritual_channeler", "d1/dc5/a21091.html#adab372002549b009e3f937ec67e49f3f", null ],
-    [ "GetAI", "d1/dc5/a21091.html#aa416545438d701cbfc2567ba5ae536c8", null ]
+    [ "CheckCast", "d1/dc5/a21091.html#a715a58956db4253c8adfed039833debd", null ],
+    [ "PrepareSpellScript", "d1/dc5/a21091.html#a3b03178d8ab54db36a19ba5a27444917", null ],
+    [ "Register", "d1/dc5/a21091.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
 ];

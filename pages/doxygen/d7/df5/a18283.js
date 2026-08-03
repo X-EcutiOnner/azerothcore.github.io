@@ -1,6 +1,5 @@
 var a18283 =
 [
-    [ "FilterTargetsInitial", "d7/df5/a18283.html#a92cc71f268793c616bed66d9a489a145", null ],
-    [ "PrepareSpellScript", "d7/df5/a18283.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
-    [ "Register", "d7/df5/a18283.html#a91b96940a9e72e632989b49f7e475dba", null ]
+    [ "npc_volatile_oozeAI", "d7/df5/a18283.html#af042d4c22482aabcdad6fa867dfe093f", null ],
+    [ "CastMainSpell", "d7/df5/a18283.html#a91890785174ecc60c9553a0aedf1961b", null ]
 ];

@@ -1,5 +1,6 @@
 var a29655 =
 [
-    [ "SetUp", "db/d14/a29655.html#a502fcdf3eb4a377df1616262ca7b8d01", null ],
-    [ "_now", "db/d14/a29655.html#a1209729d4d037c8bb63d685fa9bdd07a", null ]
+    [ "canProcDuringTrigger", "db/d14/a29655.html#a10e8ad619c9766fdf49cd29662c3d9e0", null ],
+    [ "procDeepDuringTrigger", "db/d14/a29655.html#a5df33ebca29ea3ce1088307c138a28e4", null ],
+    [ "spellId", "db/d14/a29655.html#ac63803a380695f311a39cd62a4f298b4", null ]
 ];

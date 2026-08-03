@@ -1,7 +1,6 @@
 var a07487 =
 [
-    [ "AuctionSorter", "dc/d19/a07487.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b", null ],
-    [ "operator()", "dc/d19/a07487.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7", null ],
-    [ "_loc_idx", "dc/d19/a07487.html#a11708aa660757db95c88d9dc7e9b9521", null ],
-    [ "_sort", "dc/d19/a07487.html#a9c777b91d8b80940daee0b32c4f11c37", null ]
+    [ "charges", "dc/d19/a07487.html#a583aee5baaad873bcbcc2acad403d0bf", null ],
+    [ "duration", "dc/d19/a07487.html#a36445b0d9d75886a0697c75513eb6c41", null ],
+    [ "id", "dc/d19/a07487.html#ab19975d2dd203aa1124f2e06fb637171", null ]
 ];

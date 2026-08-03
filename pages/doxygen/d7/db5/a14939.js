@@ -1,5 +1,5 @@
 var a14939 =
 [
-    [ "PrepareSpellScript", "d7/db5/a14939.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
-    [ "Register", "d7/db5/a14939.html#a06111bf70ee53fee6e90284f8d92642e", null ]
+    [ "go_loosely_turned_soilAI", "d7/db5/a14939.html#a603641bc52d26521d64afaaeed3abc4d", null ],
+    [ "CanBeSeen", "d7/db5/a14939.html#a424b51b08d17ceb04b015cd535256889", null ]
 ];

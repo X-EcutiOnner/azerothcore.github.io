@@ -1,7 +1,6 @@
 var a27967 =
 [
-    [ "go_brewfest_musicAI", "df/d50/a27967.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
-    [ "UpdateAI", "df/d50/a27967.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
-    [ "_currentMusicEvent", "df/d50/a27967.html#ad26a0309bdd4eafce4dfa310db929357", null ],
-    [ "_events", "df/d50/a27967.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
+    [ "HandleProc", "df/d50/a27967.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
+    [ "PrepareAuraScript", "df/d50/a27967.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
+    [ "Register", "df/d50/a27967.html#adf0852d1aad8097143df205a66a49f2f", null ]
 ];

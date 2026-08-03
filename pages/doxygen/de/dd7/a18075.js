@@ -1,6 +1,8 @@
 var a18075 =
 [
-    [ "DaranavanMoveEvent", "de/dd7/a18075.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
-    [ "Execute", "de/dd7/a18075.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
-    [ "_darnavan", "de/dd7/a18075.html#a7585edb957755efbc6064f232d50ea4e", null ]
+    [ "Load", "de/dd7/a18075.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
+    [ "PrepareSpellScript", "de/dd7/a18075.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
+    [ "Register", "de/dd7/a18075.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
+    [ "RelocateDest", "de/dd7/a18075.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
+    [ "SelectTransport", "de/dd7/a18075.html#a0564852176d80ee6593baa3abb18238a", null ]
 ];

@@ -1,6 +1,6 @@
 var a25983 =
 [
-    [ "OnPeriodic", "d7/dac/a25983.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
-    [ "PrepareAuraScript", "d7/dac/a25983.html#ad3d091510685ebc2d87aadb658cacf58", null ],
-    [ "Register", "d7/dac/a25983.html#a9552ba0f4c18623b6b00ababa034942c", null ]
+    [ "PartyTimeEmoteEvent", "d7/dac/a25983.html#a525efd58fc8465658208058e6dc5d31c", null ],
+    [ "Execute", "d7/dac/a25983.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
+    [ "_player", "d7/dac/a25983.html#a61ecb44828c6e4c868def8899791feb3", null ]
 ];

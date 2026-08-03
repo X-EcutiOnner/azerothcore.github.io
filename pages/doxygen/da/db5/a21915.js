@@ -1,6 +1,7 @@
 var a21915 =
 [
-    [ "npc_blessed_bannerAI", "da/d38/a21919.html", "da/d38/a21919" ],
-    [ "npc_blessed_banner", "da/db5/a21915.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "da/db5/a21915.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "OnRemove", "da/db5/a21915.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "da/db5/a21915.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "da/db5/a21915.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "da/db5/a21915.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

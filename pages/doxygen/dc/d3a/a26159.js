@@ -1,6 +1,7 @@
 var a26159 =
 [
-    [ "CheckProc", "dc/d3a/a26159.html#adb21bbda83cf0fdc30e64cabc0fb0d1c", null ],
-    [ "PrepareAuraScript", "dc/d3a/a26159.html#a5fd08c4ff5ba410458a67eb91e612267", null ],
-    [ "Register", "dc/d3a/a26159.html#a13c9e5a0a2a6945dfa5a4425be08703d", null ]
+    [ "HandleEnergize", "dc/d3a/a26159.html#a283e713252166a863aa96530d6e7608b", null ],
+    [ "Load", "dc/d3a/a26159.html#a89847e0e9435a708c5722ff928f7033f", null ],
+    [ "PrepareSpellScript", "dc/d3a/a26159.html#a8847e05e6eeafd801fca5423d0689432", null ],
+    [ "Register", "dc/d3a/a26159.html#ae0778ffd8cf203e22510ee91b0394303", null ]
 ];

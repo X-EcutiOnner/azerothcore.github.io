@@ -1,10 +1,6 @@
 var a10303 =
 [
-    [ "CreateWorldPacket", "d6/d62/a10303.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
-    [ "GetMotd", "d6/d62/a10303.html#ab589dd8bfad950e02ee716ea9005253f", null ],
-    [ "GetMotdPacket", "d6/d62/a10303.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
-    [ "instance", "d6/d62/a10303.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
-    [ "LoadMotd", "d6/d62/a10303.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
-    [ "LoadMotdLocale", "d6/d62/a10303.html#a21aa89787d5b0bbf69158f799122edd5", null ],
-    [ "SetMotd", "d6/d62/a10303.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
+    [ "UpdateRequest", "d6/d62/a10303.html#a23b3dbcff54691b2710109a822a486a0", null ],
+    [ "~UpdateRequest", "d6/d62/a10303.html#a240bdc56685c270c597588231c3bf8f8", null ],
+    [ "call", "d6/d62/a10303.html#a8221fa415f828a4866f85f3983f7dab9", null ]
 ];

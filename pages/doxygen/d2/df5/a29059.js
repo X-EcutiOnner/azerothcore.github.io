@@ -1,8 +1,7 @@
 var a29059 =
 [
-    [ "canLink", "d2/df5/a29059.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
-    [ "categoryId", "d2/df5/a29059.html#abf285e69e8e2a90626a157cb0c50d158", null ],
-    [ "id", "d2/df5/a29059.html#a7740b26f1bde19a05b002c00eded25e3", null ],
-    [ "name", "d2/df5/a29059.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
-    [ "spellIcon", "d2/df5/a29059.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
+    [ "cutPercent", "d2/df5/a29059.html#a8581a6a5198dab10680f477a477a7c80", null ],
+    [ "depositPercent", "d2/df5/a29059.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
+    [ "faction", "d2/df5/a29059.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
+    [ "houseId", "d2/df5/a29059.html#a1bf77c1b14731def0e3de44143df2eed", null ]
 ];

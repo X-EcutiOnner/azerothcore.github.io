@@ -1,6 +1,9 @@
 var a11059 =
 [
-    [ "GuildUpdateInfoText", "dd/d2f/a11059.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
-    [ "Read", "dd/d2f/a11059.html#a7019344fef99c5479602d7bc1176e9ee", null ],
-    [ "InfoText", "dd/d2f/a11059.html#a786802ce427465d66a4cea1365743975", null ]
+    [ "GuildInfoResponse", "dd/d2f/a11059.html#a256cb81ad2e08050be99c9e1061c2009", null ],
+    [ "Write", "dd/d2f/a11059.html#a3222d0018c9593400d3d01258b82371e", null ],
+    [ "CreateDate", "dd/d2f/a11059.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
+    [ "GuildName", "dd/d2f/a11059.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
+    [ "NumAccounts", "dd/d2f/a11059.html#a21b42f1654aa10f7872d87635fea66ac", null ],
+    [ "NumMembers", "dd/d2f/a11059.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
 ];

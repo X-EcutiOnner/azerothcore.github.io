@@ -1,10 +1,8 @@
 var a23707 =
 [
-    [ "npc_raging_flames", "de/d26/a23707.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
-    [ "EnterEvadeMode", "de/d26/a23707.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
-    [ "FixateRandomTarget", "de/d26/a23707.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
-    [ "InitializeAI", "de/d26/a23707.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
-    [ "IsSummonedBy", "de/d26/a23707.html#ae42c4329be355807af92c1c803e61500", null ],
-    [ "Reset", "de/d26/a23707.html#a34ac2249e507784d81c4040e87a646e0", null ],
-    [ "UpdateAI", "de/d26/a23707.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
+    [ "npc_warchief_portal", "de/d26/a23707.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "de/d26/a23707.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "de/d26/a23707.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "de/d26/a23707.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "de/d26/a23707.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

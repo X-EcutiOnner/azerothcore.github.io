@@ -1,5 +1,4 @@
 var a06303 =
 [
-    [ "Subject", "d5/d7d/a06303.html#ad9bd686973c6e59518889bd5d9b6a11f", null ],
-    [ "Text", "d5/d7d/a06303.html#a95f203f9e53a61988a4d2af6ac6820a2", null ]
+    [ "operator()", "d5/d7d/a06303.html#a7e4711e6ff92c3aca3a86fd911981786", null ]
 ];

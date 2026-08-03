@@ -1,8 +1,10 @@
 var a19979 =
 [
-    [ "HandlePeriodic", "d0/d07/a19979.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "d0/d07/a19979.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "d0/d07/a19979.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "d0/d07/a19979.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "d0/d07/a19979.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "npc_molten_golem", "d0/d07/a19979.html#a38350948396b7df97837780531f79515", null ],
+    [ "DamageTaken", "d0/d07/a19979.html#aa3521246b0c2bed18b5466879ec1d107", null ],
+    [ "DoAction", "d0/d07/a19979.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
+    [ "Reset", "d0/d07/a19979.html#a24e23d0959bcda5be05786381a35ac77", null ],
+    [ "UpdateAI", "d0/d07/a19979.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
+    [ "events", "d0/d07/a19979.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
+    [ "m_pInstance", "d0/d07/a19979.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
 ];

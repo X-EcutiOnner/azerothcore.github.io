@@ -1,17 +1,8 @@
 var a07507 =
 [
-    [ "BfGraveyard", "df/d3b/a07507.html#a47eb2f535fdce943de03d8daca7f0fd8", null ],
-    [ "~BfGraveyard", "df/d3b/a07507.html#a18171fd6fbfe7529bb61fd444e762f36", null ],
-    [ "GetControlTeamId", "df/d3b/a07507.html#ac417eb4b9ff8f7c6f19e2148eb81131c", null ],
-    [ "GetDistance", "df/d3b/a07507.html#ae290db2a83278c27803d62267aebfb71", null ],
-    [ "GetGraveyardId", "df/d3b/a07507.html#ac7944db0403c37282ca90550f8ca4118", null ],
-    [ "GetSpiritGuide", "df/d3b/a07507.html#a30536791ab71cc2a0a73cdf0993ca2d3", null ],
-    [ "GiveControlTo", "df/d3b/a07507.html#a9fe22d9ebbe1b652322b9a8e5f18ee91", null ],
-    [ "HasNpc", "df/d3b/a07507.html#a5f02be27972ae3f9aa8213ddb8c8b8d2", null ],
-    [ "Initialize", "df/d3b/a07507.html#a348c0a492efab96df8855f94969c7300", null ],
-    [ "SetSpirit", "df/d3b/a07507.html#ab4385a55321e8cf90e91bd10a04f1ddf", null ],
-    [ "Bf", "df/d3b/a07507.html#a30abf6abb0dc36c9376f6f405a0a9f4e", null ],
-    [ "ControlTeam", "df/d3b/a07507.html#a4d97eae10ede29d7e617b237e2c3fe20", null ],
-    [ "GraveyardId", "df/d3b/a07507.html#a06d1c713e7180a9b4c32882835122212", null ],
-    [ "SpiritGuide", "df/d3b/a07507.html#a528a36fbd481cb5173d742ac125a2f62", null ]
+    [ "faction", "df/d3b/a07507.html#acb80e9b49dda9771679b871cf862d876", null ],
+    [ "loc_idx", "df/d3b/a07507.html#ac88c2c37d92c9e4a8502a870a580fa01", null ],
+    [ "locdbc_idx", "df/d3b/a07507.html#a572c98b3437aff883f68d0eea4b26eb6", null ],
+    [ "playerGuid", "df/d3b/a07507.html#a6aaee409b729275b9089d7db5145ba58", null ],
+    [ "usablePlayerInfo", "df/d3b/a07507.html#a0a2be15a1a7c4d84fe53930c15571157", null ]
 ];

@@ -1,6 +1,6 @@
 var a10951 =
 [
-    [ "SetSheathed", "df/ddd/a10951.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
-    [ "Read", "df/ddd/a10951.html#ae2158689450e3a9207b6992ea5223106", null ],
-    [ "CurrentSheathState", "df/ddd/a10951.html#a8363787ac7959f19234def2707ef0b32", null ]
+    [ "BuyBankSlotResult", "df/ddd/a10951.html#a93b60814becc451c38f06f9702a9e027", null ],
+    [ "Write", "df/ddd/a10951.html#a55a6609863b0d3ef966f222526268acb", null ],
+    [ "Result", "df/ddd/a10951.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
 ];

@@ -1,10 +1,8 @@
 var a21363 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "d5/d5e/a21363.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
-    [ "GotStinged", "d5/d5e/a21363.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
-    [ "JustEngagedWith", "d5/d5e/a21363.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
-    [ "Reset", "d5/d5e/a21363.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
-    [ "SpellHit", "d5/d5e/a21363.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
-    [ "UpdateAI", "d5/d5e/a21363.html#a21def23073eeec051c1c97a813e0ea84", null ],
-    [ "rebuff", "d5/d5e/a21363.html#ac83c25091fdd3c7876a88927b758261f", null ]
+    [ "CheckProc", "d5/d5e/a21363.html#ac955cc78dd3206816906dd06b3e006f6", null ],
+    [ "HandleProc", "d5/d5e/a21363.html#a966d23cc5714fe35d80b2964dddda536", null ],
+    [ "PrepareAuraScript", "d5/d5e/a21363.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
+    [ "Register", "d5/d5e/a21363.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
+    [ "Validate", "d5/d5e/a21363.html#a5d8e764dafd26548af8588593bf27990", null ]
 ];

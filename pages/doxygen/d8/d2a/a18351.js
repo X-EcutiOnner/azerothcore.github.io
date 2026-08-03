@@ -1,6 +1,6 @@
 var a18351 =
 [
-    [ "CheckTarget", "d8/d2a/a18351.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "d8/d2a/a18351.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "d8/d2a/a18351.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "OnRemove", "d8/d2a/a18351.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
+    [ "PrepareAuraScript", "d8/d2a/a18351.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
+    [ "Register", "d8/d2a/a18351.html#afa993cb14444989feac16c9fa2d7b8df", null ]
 ];

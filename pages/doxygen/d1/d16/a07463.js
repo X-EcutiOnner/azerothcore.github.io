@@ -1,6 +1,9 @@
 var a07463 =
 [
-    [ "AuctionSearchBidderListRequest", "d1/d16/a07463.html#a193c39468959c998a2ccae74342983d2", null ],
-    [ "outbiddedAuctionIds", "d1/d16/a07463.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
-    [ "ownerGuid", "d1/d16/a07463.html#a6fb69f4996993f264466c50e7485c4a6", null ]
+    [ "SmartWaypointMgr", "d1/d16/a07463.html#ad9168edcc4fd16260178d4a9277f71ba", null ],
+    [ "~SmartWaypointMgr", "d1/d16/a07463.html#a7299029b0e2063740fd2fe9d9b218749", null ],
+    [ "GetPath", "d1/d16/a07463.html#ab3fb0cb109b9bf28ee09173f4340c351", null ],
+    [ "instance", "d1/d16/a07463.html#a7ae477d4d210d938e167453d9085e520", null ],
+    [ "LoadFromDB", "d1/d16/a07463.html#a9b5cdb29d31e7de0a407f600aef482af", null ],
+    [ "waypoint_map", "d1/d16/a07463.html#ac34eb4bd79106db2574cce0208a785e5", null ]
 ];

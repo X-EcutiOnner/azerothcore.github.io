@@ -1,5 +1,6 @@
 var a09431 =
 [
-    [ "HolesType", "d4/d5c/a09431.html#a72531c15631ba45fe0c0ed962557e993", null ],
-    [ "holes", "d4/d5c/a09431.html#a496f77513e47d89adfcc2f32d4bc1242", null ]
+    [ "faction", "d4/d5c/a09431.html#aaad6e04ef66264f040ddd91ae7f4e04b", null ],
+    [ "faction_rank", "d4/d5c/a09431.html#a1ffb9cddf950edfb17e9779691b09f07", null ],
+    [ "faction_rate", "d4/d5c/a09431.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4", null ]
 ];

@@ -1,6 +1,6 @@
 var a11447 =
 [
-    [ "DismissCritter", "d9/d11/a11447.html#a87e35583063b340f014d21cd02c54cab", null ],
-    [ "Read", "d9/d11/a11447.html#a411b65505e8a332ecf9291a670dc38c4", null ],
-    [ "CritterGUID", "d9/d11/a11447.html#a89c071e81c9d39c099c32c4976f15304", null ]
+    [ "ComplainResult", "d9/d11/a11447.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
+    [ "Write", "d9/d11/a11447.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
+    [ "Unk", "d9/d11/a11447.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
 ];

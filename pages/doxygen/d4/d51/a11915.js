@@ -1,7 +1,8 @@
 var a11915 =
 [
-    [ "CategoryRecoveryTime", "d4/d51/a11915.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
-    [ "RecoveryTime", "d4/d51/a11915.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
-    [ "StartRecoveryCategory", "d4/d51/a11915.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
-    [ "StartRecoveryTime", "d4/d51/a11915.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
+    [ "ReflectEvent", "d4/d51/a11915.html#a1669aec08a3a09143c57e4889c8fad08", null ],
+    [ "Execute", "d4/d51/a11915.html#a37fb766d70932e8a431dba363c603531", null ],
+    [ "_caster", "d4/d51/a11915.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
+    [ "_spellInfo", "d4/d51/a11915.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
+    [ "_targetGUID", "d4/d51/a11915.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
 ];

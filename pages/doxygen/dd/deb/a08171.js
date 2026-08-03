@@ -1,7 +1,11 @@
 var a08171 =
 [
-    [ "HyperlinkDataTokenizer", "dd/deb/a08171.html#a1fb14152c61205ce31fcf2bfeaeceeaf", null ],
-    [ "IsEmpty", "dd/deb/a08171.html#a4f74f1647780c9f2769443dbfeba6a7e", null ],
-    [ "TryConsumeTo", "dd/deb/a08171.html#a42e18263129c27149bf9a91b3dc42418", null ],
-    [ "_str", "dd/deb/a08171.html#ab497f7f0b3cab4b8c4813ba443ff1c91", null ]
+    [ "EnchantId", "dd/deb/a08171.html#ad68d4f09195ba9c2a74bc9187e1cc1dd", null ],
+    [ "GemEnchantId", "dd/deb/a08171.html#a680481a1dcc0a163cabeb02e426d89cd", null ],
+    [ "IsBuggedInspectLink", "dd/deb/a08171.html#a1db96c31b140774302c633e99bcea93f", null ],
+    [ "Item", "dd/deb/a08171.html#a89b08bf0a3fb31ef6c0f71919b05195e", null ],
+    [ "RandomProperty", "dd/deb/a08171.html#a07871677ea967da347a6debafa7c91e7", null ],
+    [ "RandomSuffix", "dd/deb/a08171.html#a39126c77bdd1d3d850a20cf02bb034ae", null ],
+    [ "RandomSuffixBaseAmount", "dd/deb/a08171.html#aa9a99d071ee623b0df6f456199e1262a", null ],
+    [ "RenderLevel", "dd/deb/a08171.html#acb1024455a3b847ea13390c05b79cd0c", null ]
 ];

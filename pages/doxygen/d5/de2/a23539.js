@@ -1,10 +1,10 @@
 var a23539 =
 [
-    [ "boss_thorngrin_the_tender", "d5/de2/a23539.html#ad960b1084fc08d2870975c7c6c44ab2b", null ],
-    [ "JustDied", "d5/de2/a23539.html#a4bc13108f7cb240fedb44ccae2b54047", null ],
-    [ "JustEngagedWith", "d5/de2/a23539.html#a647ed5b29861b719d3c4a11fd110c512", null ],
-    [ "KilledUnit", "d5/de2/a23539.html#ab3731c5b56e1c01aa5d78d84a5e60234", null ],
-    [ "MoveInLineOfSight", "d5/de2/a23539.html#a9467e59287b3e917907de82507d1a16d", null ],
-    [ "Reset", "d5/de2/a23539.html#af3f1471cbcdadfe3a86421d7232fb4b9", null ],
-    [ "_intro", "d5/de2/a23539.html#a48fc89c7e9814d90a8724ca38c5e2fe8", null ]
+    [ "boss_blindeye_the_seer", "d5/de2/a23539.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
+    [ "JustDied", "d5/de2/a23539.html#ad70a72b18587da82d26bde8f10d63700", null ],
+    [ "JustEngagedWith", "d5/de2/a23539.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
+    [ "Reset", "d5/de2/a23539.html#aabbda75266615f64ce88ce092e68bfa4", null ],
+    [ "UpdateAI", "d5/de2/a23539.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
+    [ "_scheduler", "d5/de2/a23539.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
+    [ "instance", "d5/de2/a23539.html#a74462f26d66da3ca370825858060b1c2", null ]
 ];

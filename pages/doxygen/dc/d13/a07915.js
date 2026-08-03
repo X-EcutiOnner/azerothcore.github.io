@@ -1,6 +1,4 @@
 var a07915 =
 [
-    [ "value_type", "dc/d13/a07915.html#ac51f8d3476c4a938e81dfae8656ac70b", null ],
-    [ "operator()", "dc/d13/a07915.html#af40bcad820dec0ab0cf2758281f8a604", null ],
-    [ "operator()", "dc/d13/a07915.html#a4d601f73c9ab190a46438f34db4e04e6", null ]
+    [ "AllianceChannelMgr", "dc/d13/a07915.html#a7d90a6a0d987ac461668642c9ecfb619", null ]
 ];

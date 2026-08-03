@@ -1,6 +1,6 @@
 var a23575 =
 [
-    [ "HandleCast", "d6/dc9/a23575.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "d6/dc9/a23575.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "d6/dc9/a23575.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "d7/d36/a23579.html", "d7/d36/a23579" ],
+    [ "instance_blood_furnace", "d6/dc9/a23575.html#a925a045fa518e72c1eff02fe3c66202b", null ],
+    [ "GetInstanceScript", "d6/dc9/a23575.html#a885ba94e1777dfd6586daca304622d3d", null ]
 ];

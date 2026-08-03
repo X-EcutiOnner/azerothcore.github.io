@@ -1,6 +1,6 @@
 var a19011 =
 [
-    [ "npc_captain_rupertAI", "d7/df1/a19011.html#ae91de64c440e71e612f34e37b90076d5", null ],
-    [ "Reset", "d7/df1/a19011.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
-    [ "UpdateAI", "d7/df1/a19011.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
+    [ "CaptainSurviveTalk", "d7/df1/a19011.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "d7/df1/a19011.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "d7/df1/a19011.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

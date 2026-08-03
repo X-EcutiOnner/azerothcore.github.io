@@ -1,7 +1,8 @@
 var a12443 =
 [
-    [ "player_commandscript", "d5/db6/a12443.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
-    [ "GetCommands", "d5/db6/a12443.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
-    [ "HandlePlayerLearnCommand", "d5/db6/a12443.html#a6ca511bcecf73049665772cb80dbcf40", null ],
-    [ "HandlePlayerUnLearnCommand", "d5/db6/a12443.html#a22fddb5da1278fe794a78a899c423bfd", null ]
+    [ "CreatureCountWorker", "d5/db6/a12443.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
+    [ "GetTopCreatureCount", "d5/db6/a12443.html#a5d4d009b6685dd71703f96f9945a463e", null ],
+    [ "Visit", "d5/db6/a12443.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
+    [ "Visit", "d5/db6/a12443.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
+    [ "creatureIds", "d5/db6/a12443.html#a3a6f946c40b1006164793dbaed2b3948", null ]
 ];

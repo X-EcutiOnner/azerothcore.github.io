@@ -1,10 +1,7 @@
 var a05239 =
 [
-    [ "AreaInfo", "d5/d5a/a05239.html#a7cd6d0845a1fea33d4f51deb5890f9f1", null ],
-    [ "AreaInfo", "d5/d5a/a05239.html#acdd6c482f37134fdc962a55771003b5c", null ],
-    [ "adtId", "d5/d5a/a05239.html#aee38e987da24645d36792a1024235035", null ],
-    [ "groupId", "d5/d5a/a05239.html#a6472ad95a025769da84943fc490860e1", null ],
-    [ "mogpFlags", "d5/d5a/a05239.html#ae97f4c32ecee4844f2cb0fec92cb21ec", null ],
-    [ "rootId", "d5/d5a/a05239.html#a5af47da55bdcb6a92356a33112a41da5", null ],
-    [ "uniqueId", "d5/d5a/a05239.html#a4496a2c21c4bca0e8acbd563de282338", null ]
+    [ "indices", "d5/d5a/a05239.html#a23cadbd54502fb4edc68e052e5774664", null ],
+    [ "maxPrims", "d5/d5a/a05239.html#a0c46f35977fe683a19e7cb1e580a814b", null ],
+    [ "numPrims", "d5/d5a/a05239.html#a623b9ee05707ecdbaa816c797e358e86", null ],
+    [ "primBound", "d5/d5a/a05239.html#a3304ad5d821f178941fd44da897213de", null ]
 ];

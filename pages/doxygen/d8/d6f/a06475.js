@@ -1,10 +1,9 @@
 var a06475 =
 [
-    [ "DefaultTargetSelector", "d8/d6f/a06475.html#a4ec61d03309c7d8a977afb2060b549a3", null ],
-    [ "operator()", "d8/d6f/a06475.html#aa028e0b06c45bc1eaaa8ca0bb2208a35", null ],
-    [ "except", "d8/d6f/a06475.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e", null ],
-    [ "m_aura", "d8/d6f/a06475.html#a93cae8f794de101a6a0a821961c312b8", null ],
-    [ "m_dist", "d8/d6f/a06475.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f", null ],
-    [ "m_playerOnly", "d8/d6f/a06475.html#aa7d50214f6fcb051279373e3373a6f68", null ],
-    [ "me", "d8/d6f/a06475.html#a4e468ce5a085ef402659db46f71d6262", null ]
+    [ "TurretAI", "d8/d6f/a06475.html#a0aaa1ee5eb1b2e83657ef24479d9a91e", null ],
+    [ "AttackStart", "d8/d6f/a06475.html#ab6eb7cf777595a4b196373123da19bea", null ],
+    [ "CanAIAttack", "d8/d6f/a06475.html#a47c1c38ddcc1f473104fb698fe338684", null ],
+    [ "Permissible", "d8/d6f/a06475.html#aac81fb574d70369fb006fb7ba22a0784", null ],
+    [ "UpdateAI", "d8/d6f/a06475.html#aa2d308443a31d8a06bbc63517695dfef", null ],
+    [ "m_minRange", "d8/d6f/a06475.html#a4cffbf9bcb29468dad6a6583c905b99a", null ]
 ];

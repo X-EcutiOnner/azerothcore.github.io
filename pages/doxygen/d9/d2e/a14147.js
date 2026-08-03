@@ -1,6 +1,7 @@
 var a14147 =
 [
-    [ "npc_highborne_lamenterAI", "d6/d98/a14151.html", "d6/d98/a14151" ],
-    [ "npc_highborne_lamenter", "d9/d2e/a14147.html#a40316cf73a688e34e95dd41feef8612a", null ],
-    [ "GetAI", "d9/d2e/a14147.html#aad8ccb43b325b797f60a16e338458a1e", null ]
+    [ "HandleScriptEffect", "d9/d2e/a14147.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
+    [ "PrepareSpellScript", "d9/d2e/a14147.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
+    [ "Register", "d9/d2e/a14147.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
+    [ "Validate", "d9/d2e/a14147.html#a20f7416465ba1cc04426f24037e8074e", null ]
 ];

@@ -1,6 +1,6 @@
 var a11651 =
 [
-    [ "AccountData", "dd/d43/a11651.html#a593303fb86ec3ac592ee933b8d057fe8", null ],
-    [ "Data", "dd/d43/a11651.html#aa45f3f93f643b4dd9ea4d269e3b5462d", null ],
-    [ "Time", "dd/d43/a11651.html#a38b2049e50845641cc380b6786e68ac5", null ]
+    [ "QuestConfirmAcceptClient", "dd/d43/a11651.html#ac45767c9cf0e197e185a8936598fc9ea", null ],
+    [ "Read", "dd/d43/a11651.html#a483980152418879fd1a55db2fa4bf68a", null ],
+    [ "QuestId", "dd/d43/a11651.html#a25b4b779fdf9e642b2fe13faf03d50b1", null ]
 ];

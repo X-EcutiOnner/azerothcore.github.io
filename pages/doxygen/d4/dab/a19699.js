@@ -1,6 +1,7 @@
 var a19699 =
 [
-    [ "npc_oculus_unstable_sphereAI", "da/d1e/a19703.html", "da/d1e/a19703" ],
-    [ "npc_oculus_unstable_sphere", "d4/dab/a19699.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
-    [ "GetAI", "d4/dab/a19699.html#adda2a9e7eab03444742e85729673ab2f", null ]
+    [ "npc_naxxramas_trigger", "d4/dab/a19699.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "d4/dab/a19699.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "d4/dab/a19699.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "d4/dab/a19699.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

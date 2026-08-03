@@ -1,5 +1,28 @@
 var a12163 =
 [
-    [ "Command", "d0/d9c/a12163.html#af0e8f46d4352430d12f932b5a9e4c44e", null ],
-    [ "Seed", "d0/d9c/a12163.html#a8770c7de1b983d75214d1de39d0c02ab", null ]
+    [ "ToCloud9Sidecar", "d0/d9c/a12163.html#a589421382a8dc17eec8731ef6d13d95a", null ],
+    [ "~ToCloud9Sidecar", "d0/d9c/a12163.html#aca4fc146244a3a1b6327a8ea3f112a69", null ],
+    [ "ClusterModeEnabled", "d0/d9c/a12163.html#aa9917148a6e18765ece1844e64b3383d", null ],
+    [ "Deinit", "d0/d9c/a12163.html#a21f705425061c38ea6a5e2a5addb4304", null ],
+    [ "GenerateCharacterGuid", "d0/d9c/a12163.html#a47bc9d8f4350cb174f41e7e42d7ca357", null ],
+    [ "GenerateInstanceGuid", "d0/d9c/a12163.html#a3e7e099b45128f6305768a0162099b83", null ],
+    [ "GenerateItemGuid", "d0/d9c/a12163.html#a0d35aef2baec8f6ec6660faa301e7b8b", null ],
+    [ "Init", "d0/d9c/a12163.html#ac0d268c448e89eeb402bf5f3689b3bd4", null ],
+    [ "instance", "d0/d9c/a12163.html#a774f8f01e13ce579dd5371d668e79d68", null ],
+    [ "IsCrossrealm", "d0/d9c/a12163.html#a938ffe063cd3d8d4cad907cd13b6de90", null ],
+    [ "IsMapAssigned", "d0/d9c/a12163.html#ab977a2799b9896f30e3fb2c94dfd4644", null ],
+    [ "NatsPublish", "d0/d9c/a12163.html#a56c2f618c3d6e1d05eecd8b244bcc7fc", null ],
+    [ "NatsSubscribe", "d0/d9c/a12163.html#a9c0446bbb14271dc645f64ffb9b55162", null ],
+    [ "OnBattlegroundStatusChanged", "d0/d9c/a12163.html#a0013b36048b6f3b030e9f3d2560969f6", null ],
+    [ "OnMapsReassigned", "d0/d9c/a12163.html#af2f0fa733ac543aba10f9156955bddd6", null ],
+    [ "OnPlayerLeftBattleground", "d0/d9c/a12163.html#a12de10ab97a1ed01027d38baa03687a2", null ],
+    [ "ProcessAsyncTasks", "d0/d9c/a12163.html#a67eebe7b2853518db492ae2271ba5b0d", null ],
+    [ "ProcessGrpcOrHttpRequests", "d0/d9c/a12163.html#ae220b9c9ea580e1d597b366dd7832a90", null ],
+    [ "ProcessHooks", "d0/d9c/a12163.html#accf7d35797dd41733e0aacf21ce652fb", null ],
+    [ "SetupGrpcHandlers", "d0/d9c/a12163.html#abd173b93577f8ac8816b49635d4df312", null ],
+    [ "SetupHooks", "d0/d9c/a12163.html#aed5bde100a87de663bea3171ee39755e", null ],
+    [ "_assignedMapsByID", "d0/d9c/a12163.html#a9fe828ab362d91f54da66a7fef8e53f6", null ],
+    [ "_asyncTasksProcessor", "d0/d9c/a12163.html#a1d0d6bac62686eeab487a3c344bed278", null ],
+    [ "_clusterModeEnabled", "d0/d9c/a12163.html#a883582b58ea2ebf715a2783f2083598f", null ],
+    [ "_isCrossrealm", "d0/d9c/a12163.html#a29f7b3fc72047b816a8873ba96485a39", null ]
 ];

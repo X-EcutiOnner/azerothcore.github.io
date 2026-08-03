@@ -1,8 +1,6 @@
 var a08735 =
 [
-    [ "Reset", "dd/d6f/a08735.html#a28a5bd110553457c86d7f77e78041713", null ],
-    [ "cosAngle", "dd/d6f/a08735.html#a37f49fc816f37dff8c1947f4de7f04d5", null ],
-    [ "sinAngle", "dd/d6f/a08735.html#af2a184b7c8e7f324607a0b7468bcb8f6", null ],
-    [ "xyspeed", "dd/d6f/a08735.html#a6fada60d677d89580c3a718d42a75d17", null ],
-    [ "zspeed", "dd/d6f/a08735.html#ad0a5a36aeabc9b8d8ea27cecae30ae31", null ]
+    [ "item_count", "dd/d6f/a08735.html#a437fe00f34ad414e3c9f81d01a153d13", null ],
+    [ "setid", "dd/d6f/a08735.html#ab8c24b76b1c0eb92c0fe52ca9baf293a", null ],
+    [ "spells", "dd/d6f/a08735.html#af8156bad9771ed816fd861d3eb992aaa", null ]
 ];

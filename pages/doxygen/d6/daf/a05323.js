@@ -1,13 +1,8 @@
 var a05323 =
 [
-    [ "GroupModel_Raw", "d6/daf/a05323.html#a8decfdc365b823f8f147ee9bfa3613b0", null ],
-    [ "~GroupModel_Raw", "d6/daf/a05323.html#a1381249a1bbe9c1cf383097ef94c6eb7", null ],
-    [ "Read", "d6/daf/a05323.html#ad3bcd782124868cd1df0efea2b500ba5", null ],
-    [ "bounds", "d6/daf/a05323.html#a830d79fdd2f21164bd805051352a3aa8", null ],
-    [ "GroupWMOID", "d6/daf/a05323.html#ab9e9650c5ebf5a81b92cff27dd23a25a", null ],
-    [ "liquid", "d6/daf/a05323.html#ac801d04ca4c643d2b8eba5199a8d0fac", null ],
-    [ "liquidflags", "d6/daf/a05323.html#ac379f459d0fff6b1848dc52bd21ef393", null ],
-    [ "mogpflags", "d6/daf/a05323.html#a339767ed24a9f0ecf426e47d3bf6e4b5", null ],
-    [ "triangles", "d6/daf/a05323.html#af692734697f525672027f251addebe6d", null ],
-    [ "vertexArray", "d6/daf/a05323.html#ad73c215408218900973df4dbdd8fcd18", null ]
+    [ "ModelFileMap", "d6/daf/a05323.html#ae609ba50932b7bac6ac0c1c7d0800b5d", null ],
+    [ "AcquireModelInstance", "d6/daf/a05323.html#af6dc1b3c77f5eeff5ff4b9bc5c4024b0", null ],
+    [ "instance", "d6/daf/a05323.html#a6cae2913accf21c262dafa01c14b1795", null ],
+    [ "_loadedModels", "d6/daf/a05323.html#a406474470aaa0da5b752817cc5ea81ae", null ],
+    [ "_lock", "d6/daf/a05323.html#ab258d227875d9aad8f399fae3f57f0ab", null ]
 ];

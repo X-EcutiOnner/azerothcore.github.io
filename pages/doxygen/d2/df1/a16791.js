@@ -1,11 +1,6 @@
 var a16791 =
 [
-    [ "npc_anubarak_spikeAI", "d2/df1/a16791.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
-    [ "DamageTaken", "d2/df1/a16791.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
-    [ "DoAction", "d2/df1/a16791.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
-    [ "Reset", "d2/df1/a16791.html#af5b4a1227467d86d9dbba57362fdf360", null ],
-    [ "SelectNewTarget", "d2/df1/a16791.html#ab9ed5d53703464c488267f578a214fb8", null ],
-    [ "UpdateAI", "d2/df1/a16791.html#af8d6d840785c718d963c7b150cd12d9c", null ],
-    [ "events", "d2/df1/a16791.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
-    [ "TargetGUID", "d2/df1/a16791.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
+    [ "npc_toc5_player_vehicleAI", "dd/d69/a16795.html", "dd/d69/a16795" ],
+    [ "npc_toc5_player_vehicle", "d2/df1/a16791.html#a8786627999d3d1681d9de58cd8c46744", null ],
+    [ "GetAI", "d2/df1/a16791.html#af89c559eff828130df821c0c30c61f7a", null ]
 ];

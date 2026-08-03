@@ -1,5 +1,6 @@
 var a27907 =
 [
-    [ "go_arena_ready_marker", "d1/dd5/a27907.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
-    [ "OnGossipHello", "d1/dd5/a27907.html#a9f51ead2b56d51427ff23be9688388d8", null ]
+    [ "FilterTargets", "d1/dd5/a27907.html#a6224b3193474f569d09edaf29b40c2fb", null ],
+    [ "PrepareSpellScript", "d1/dd5/a27907.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
+    [ "Register", "d1/dd5/a27907.html#a2fab1592d19331239b1ef63045389886", null ]
 ];

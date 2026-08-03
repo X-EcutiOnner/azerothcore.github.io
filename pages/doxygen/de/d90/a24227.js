@@ -1,6 +1,8 @@
 var a24227 =
 [
-    [ "FilterTargets", "de/d90/a24227.html#adab73c94c659d7421c9c6887d956cd83", null ],
-    [ "PrepareSpellScript", "de/d90/a24227.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
-    [ "Register", "de/d90/a24227.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
+    [ "CreatureId", "de/d90/a24227.html#a127341c70f8785ceb556b1c11b23f477", null ],
+    [ "SpawnCount", "de/d90/a24227.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
+    [ "SpawnTimer", "de/d90/a24227.html#aa57ff686c5fde12269e231333d8a8bef", null ],
+    [ "UsedSpawnPoint", "de/d90/a24227.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
+    [ "YellTimer", "de/d90/a24227.html#a6346259269af7f2936f959f87288dd69", null ]
 ];

@@ -1,5 +1,7 @@
 var a22351 =
 [
-    [ "OutdoorPvP_zangarmarsh", "dd/dfd/a22351.html#ae287d5df21bf75efab6c651f4f3d875e", null ],
-    [ "GetOutdoorPvP", "dd/dfd/a22351.html#a145ddfe383663ed3fb46960e39691f8f", null ]
+    [ "HandleScript", "dd/dfd/a22351.html#ad38771460ddf0f95783718775690d1f0", null ],
+    [ "PrepareSpellScript", "dd/dfd/a22351.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
+    [ "Register", "dd/dfd/a22351.html#a3ba23fd54c35c2d2866db647811c948d", null ],
+    [ "Validate", "dd/dfd/a22351.html#a6a58808356785c25032c2befd429ff2b", null ]
 ];

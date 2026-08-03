@@ -1,6 +1,6 @@
 var a18219 =
 [
-    [ "PrepareSpellScript", "d8/d3a/a18219.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "d8/d3a/a18219.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "d8/d3a/a18219.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "npc_coldflameAI", "d0/d13/a18223.html", "d0/d13/a18223" ],
+    [ "npc_coldflame", "d8/d3a/a18219.html#a573b887358e2ba2281c4c119a267c33f", null ],
+    [ "GetAI", "d8/d3a/a18219.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
 ];

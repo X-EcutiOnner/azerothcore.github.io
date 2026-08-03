@@ -1,6 +1,7 @@
 var a22831 =
 [
-    [ "HandleEffectRemove", "db/d06/a22831.html#a99f96034b5976615c38e13e5e55c61b6", null ],
-    [ "PrepareAuraScript", "db/d06/a22831.html#a0515a72abd37df13606876021659b995", null ],
-    [ "Register", "db/d06/a22831.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
+    [ "HandleDummy", "db/d06/a22831.html#adb4e8218eb498d430ececfa357bc1d8a", null ],
+    [ "PrepareSpellScript", "db/d06/a22831.html#a85f582794bf8ca2c80add8d9fe35f9f5", null ],
+    [ "Register", "db/d06/a22831.html#af5926d8570de13e66aa1870184620b94", null ],
+    [ "Validate", "db/d06/a22831.html#aa2839c6dba3d0c6ecfeb19f5ff3a39d2", null ]
 ];

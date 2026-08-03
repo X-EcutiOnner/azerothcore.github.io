@@ -1,6 +1,7 @@
 var a30011 =
 [
-    [ "height", "d6/d1a/a30011.html#a7638f586a055c48a46e36471543ff72f", null ],
-    [ "unk1", "d6/d1a/a30011.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
-    [ "unk2", "d6/d1a/a30011.html#a394a04f6e985824aa259a42b11b97136", null ]
+    [ "SetUp", "d6/d1a/a30011.html#ab58c026bc6bbcf94aaec896c654e949f", null ],
+    [ "DAGGER_SPEED", "d6/d1a/a30011.html#a2e9b2005f350f0aec0a905eef5bc0bb6", null ],
+    [ "SWORD_SPEED", "d6/d1a/a30011.html#ac960eb9c5e15274b63b684d8908ed68b", null ],
+    [ "TWO_HANDED_SPEED", "d6/d1a/a30011.html#a7dbbfc5825a36bf3950a8dff54e0ca5a", null ]
 ];

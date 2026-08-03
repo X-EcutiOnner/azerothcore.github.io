@@ -1,7 +1,8 @@
 var a26523 =
 [
-    [ "CheckProc", "d6/dcf/a26523.html#ad9511694733ed76ed2e55ffc1005345e", null ],
-    [ "HandleProc", "d6/dcf/a26523.html#a8021759730e413476d768495e856c544", null ],
-    [ "PrepareAuraScript", "d6/dcf/a26523.html#a2d226a3b38dbe3da64f3ae9a3c47f9ea", null ],
-    [ "Register", "d6/dcf/a26523.html#a2d8e2b52076b519e083c71b99b482c32", null ]
+    [ "Absorb", "d6/dcf/a26523.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
+    [ "CalculateAmount", "d6/dcf/a26523.html#a20d5b4776ebeb859b0641af640e41d80", null ],
+    [ "PrepareAuraScript", "d6/dcf/a26523.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
+    [ "Register", "d6/dcf/a26523.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
+    [ "Validate", "d6/dcf/a26523.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
 ];

@@ -1,5 +1,4 @@
 var a10831 =
 [
-    [ "UpdatableScript", "d0/d7c/a10831.html#a2d6cf85d1eb98438b5022804296eff11", null ],
-    [ "OnUpdate", "d0/d7c/a10831.html#abf328325e08aa0d6adf36e6f70b02328", null ]
+    [ "ModuleScript", "d0/d7c/a10831.html#a3a3ed7e84ec582e973bda44af6bcbe04", null ]
 ];

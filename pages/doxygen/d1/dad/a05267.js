@@ -1,16 +1,5 @@
 var a05267 =
 [
-    [ "GetLiquidFlagsFn", "d1/dad/a05267.html#a172996acb562d916b51132e7e0072140", null ],
-    [ "IsVMAPDisabledForFn", "d1/dad/a05267.html#a178edb6185bbdefbc08f2cf78205c1c6", null ],
-    [ "VMapMgr2", "d1/dad/a05267.html#ac16d324a4ab5f27b18fe5f992f5288cd", null ],
-    [ "~VMapMgr2", "d1/dad/a05267.html#afbbc51ff81e1aa107352354eb712b556", null ],
-    [ "convertPositionToInternalRep", "d1/dad/a05267.html#ade8ab3f66eb603aae40a80fab7c52e67", null ],
-    [ "existsMap", "d1/dad/a05267.html#a07b3ebc028b5832083bca9751b4f681c", null ],
-    [ "getDirFileName", "d1/dad/a05267.html#ad2ad6e5bd41a585cf94c2e7d56358178", null ],
-    [ "GetLiquidFlagsDummy", "d1/dad/a05267.html#a11761ce698c3e240366b03dd57142b25", null ],
-    [ "getMapFileName", "d1/dad/a05267.html#aecec356ccb3fd3ddb52c7d889bd2c80d", null ],
-    [ "IsVMAPDisabledForDummy", "d1/dad/a05267.html#a87d4d0a1553502c8c15fb12077ec34d2", null ],
-    [ "processCommand", "d1/dad/a05267.html#a8ed4fc4a7b268adbef8cb7846be4aa88", null ],
-    [ "GetLiquidFlagsPtr", "d1/dad/a05267.html#ae6be88472cb03382ebd998178371cb60", null ],
-    [ "IsVMAPDisabledForPtr", "d1/dad/a05267.html#a38ceb27a94583eafa30dddd92239d6ca", null ]
+    [ "GetBounds", "d1/dad/a05267.html#af54bd6c6ebe09db97b585d15e04ed707", null ],
+    [ "GetBounds2", "d1/dad/a05267.html#ac79766d4e41cfb637ed0224b4f42f1c2", null ]
 ];

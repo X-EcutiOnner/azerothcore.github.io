@@ -1,6 +1,6 @@
 var a17531 =
 [
-    [ "HandleScriptEffect", "d1/da7/a17531.html#ab9c289e946cfaf2b63f2526914d79812", null ],
-    [ "PrepareSpellScript", "d1/da7/a17531.html#a832f8ab737254760fe2b91f19d119781", null ],
-    [ "Register", "d1/da7/a17531.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
+    [ "npc_pos_leader_secondAI", "db/dc0/a17535.html", "db/dc0/a17535" ],
+    [ "npc_pos_leader_second", "d1/da7/a17531.html#ac4758674cc97eae0937264fa028e6da5", null ],
+    [ "GetAI", "d1/da7/a17531.html#ac403cfc86247990d78c9cf4179df8b87", null ]
 ];

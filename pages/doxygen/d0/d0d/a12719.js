@@ -1,11 +1,11 @@
 var a12719 =
 [
-    [ "boss_solakar_flamewreath", "d0/d0d/a12719.html#aff732901de1306b363e5a3d9994b3c9b", null ],
-    [ "ExecuteEvent", "d0/d0d/a12719.html#a72bf587aae341ba70bd219c8d97fe9a1", null ],
-    [ "InitializeAI", "d0/d0d/a12719.html#a21875946b8e9cfa8711f36f98a61a034", null ],
-    [ "JustDied", "d0/d0d/a12719.html#ae4d59238a359487e44985e040ee27732", null ],
-    [ "JustEngagedWith", "d0/d0d/a12719.html#af6a0c97341547ea852d9a09d3b66358e", null ],
-    [ "Reset", "d0/d0d/a12719.html#ae83c926a718af8ee0d90b8a9be800031", null ],
-    [ "UpdateAI", "d0/d0d/a12719.html#ad211f24ce4019724060441529ceaa780", null ],
-    [ "resetTimer", "d0/d0d/a12719.html#a602092d8262420bc51eef286b7c96d84", null ]
+    [ "boss_emperor_dagran_thaurissan", "d0/d0d/a12719.html#a33efe0ee1573c4b43cdf58bdce303e5d", null ],
+    [ "JustDied", "d0/d0d/a12719.html#a526a7726e2838ef4c49cca8dd6fc68c9", null ],
+    [ "JustEngagedWith", "d0/d0d/a12719.html#a182564d95dc677ea33e47995638a9a58", null ],
+    [ "KilledUnit", "d0/d0d/a12719.html#a7f7ae37e4abbe37f4fa46b98af3ac03a", null ],
+    [ "SetData", "d0/d0d/a12719.html#a5ccda3d76afe43804c86e193afa9b80c", null ],
+    [ "UpdateAI", "d0/d0d/a12719.html#ab1c7da00e8e1a20d2592ec26862867fc", null ],
+    [ "hasYelled", "d0/d0d/a12719.html#aaadeb10c22c598cd10ccde83425fbf71", null ],
+    [ "SenatorYells", "d0/d0d/a12719.html#ad94aef1875a5a863f78dc84a964638f9", null ]
 ];

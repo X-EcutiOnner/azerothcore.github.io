@@ -1,8 +1,18 @@
 var a21235 =
 [
-    [ "boss_moragg", "dd/de3/a21235.html#a42d2508369286e5e635d47cce0b939f4", null ],
-    [ "EnterEvadeMode", "dd/de3/a21235.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
-    [ "ExecuteEvent", "dd/de3/a21235.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
-    [ "JustEngagedWith", "dd/de3/a21235.html#a29da7214373c1919b65f3512655c8bc3", null ],
-    [ "MoveInLineOfSight", "dd/de3/a21235.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
+    [ "boss_palehoofAI", "dd/de3/a21235.html#aa49a4e6e2f942ab0efeb83d0fe672f9f", null ],
+    [ "DoAction", "dd/de3/a21235.html#ae94606f2b382e07cd3f4b9be48b1ca2d", null ],
+    [ "JustDied", "dd/de3/a21235.html#a1484b82afc3072d1b1fc5e2c9b0204b0", null ],
+    [ "JustEngagedWith", "dd/de3/a21235.html#abd00a0b514c11d8fa3786e1e61333138", null ],
+    [ "JustReachedHome", "dd/de3/a21235.html#aae6517c4816eb9bbc5dfe245d69edd87", null ],
+    [ "KilledUnit", "dd/de3/a21235.html#abf68aba465731a0ea7de305861ad4875", null ],
+    [ "MoveInLineOfSight", "dd/de3/a21235.html#ae969093bfb3466e332c1de7e65ceeb5d", null ],
+    [ "Reset", "dd/de3/a21235.html#a61d1cedcc30fbccbebbdc768d6a18900", null ],
+    [ "UpdateAI", "dd/de3/a21235.html#ac7da92990a0d48e418115943ba7bdd51", null ],
+    [ "Counter", "dd/de3/a21235.html#a5b8c197cd3c482d5a4d5a14f9c5019e7", null ],
+    [ "events", "dd/de3/a21235.html#a18325a2a5cca9910bf7e35a21c16400b", null ],
+    [ "m_pInstance", "dd/de3/a21235.html#abffb9efc207c98a30e1bfcf7b87fdb6d", null ],
+    [ "OrbGUID", "dd/de3/a21235.html#ab75e8eea72bde1bd15fe40e347373ab4", null ],
+    [ "RandomUnfreeze", "dd/de3/a21235.html#a02d34d4cd26706e1108c99cc0b4afbba", null ],
+    [ "summons", "dd/de3/a21235.html#a098d738ccbc2764867643bf4336c04da", null ]
 ];

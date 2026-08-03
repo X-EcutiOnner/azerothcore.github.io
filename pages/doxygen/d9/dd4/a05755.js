@@ -1,17 +1,13 @@
 var a05755 =
 [
-    [ "CircularBuffer", "d9/dd4/a05755.html#a169d3975fbe8eda83c02f62b34347bc9", null ],
-    [ "capacity", "d9/dd4/a05755.html#aed04549e911fb6ecebbac1cbd01e9dcd", null ],
-    [ "content", "d9/dd4/a05755.html#ad364f8ee7c9176b912ea053e2f3c928f", null ],
-    [ "empty", "d9/dd4/a05755.html#a7509cc5ef0dd0a9f731c47b05929580c", null ],
-    [ "full", "d9/dd4/a05755.html#a2a2f13f00dca028142c250b5f2183097", null ],
-    [ "peak_back", "d9/dd4/a05755.html#ad4bb17889033526da4605ebddd60f3c7", null ],
-    [ "put", "d9/dd4/a05755.html#a2a5e093804731b69969c18e49a206572", null ],
-    [ "size", "d9/dd4/a05755.html#af429f831da3fd31618d1c1612cd94ce7", null ],
-    [ "buf_", "d9/dd4/a05755.html#aa2b9389da6cd912b4dd54d89ca1d69ee", null ],
-    [ "full_", "d9/dd4/a05755.html#a1dfcbf9f9d2760d7d82144c57ff8a60e", null ],
-    [ "head_", "d9/dd4/a05755.html#a43ba1c722307cdbbf38f8ba1ec7f64c6", null ],
-    [ "max_size_", "d9/dd4/a05755.html#a4ad34b67dc4924addf79905732203d2a", null ],
-    [ "mutex_", "d9/dd4/a05755.html#aa4762ba2167d8b9560ff39328b4b3afa", null ],
-    [ "tail_", "d9/dd4/a05755.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f", null ]
+    [ "MPSCQueueIntrusive", "d9/dd4/a05755.html#a8e05361abed759932c49b0fc71ed09c1", null ],
+    [ "~MPSCQueueIntrusive", "d9/dd4/a05755.html#a8155857825ceb1b7154ea82a63dbce08", null ],
+    [ "MPSCQueueIntrusive", "d9/dd4/a05755.html#afaee06af7734e53ce50674e4ef7277b2", null ],
+    [ "Dequeue", "d9/dd4/a05755.html#a798e36f41ef34c226690f76e9dc03fd6", null ],
+    [ "Enqueue", "d9/dd4/a05755.html#a233004b906cfa66cdd285233105dddf7", null ],
+    [ "operator=", "d9/dd4/a05755.html#a93cdd07d00b7dff8a7da5bf4846b26c7", null ],
+    [ "_dummy", "d9/dd4/a05755.html#ad4d3a9cebe46fc524e474b7854a20b03", null ],
+    [ "_dummyPtr", "d9/dd4/a05755.html#a115e9affe6159ae8aa08c6fc358e400c", null ],
+    [ "_head", "d9/dd4/a05755.html#a7fb32fbb507e82f9e8a6c1691e281fcd", null ],
+    [ "_tail", "d9/dd4/a05755.html#ac7e333db415e6301a02052c53779d1d4", null ]
 ];

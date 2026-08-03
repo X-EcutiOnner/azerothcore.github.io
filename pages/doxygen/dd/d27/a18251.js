@@ -1,8 +1,9 @@
 var a18251 =
 [
-    [ "FilterTargets", "dd/d27/a18251.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
-    [ "HandleScript", "dd/d27/a18251.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
-    [ "PrepareSpellScript", "dd/d27/a18251.html#ae6b30b8da52141c385f985435cac99a1", null ],
-    [ "Register", "dd/d27/a18251.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
-    [ "Validate", "dd/d27/a18251.html#accff1f03fb7c0d56cb197bb18348635c", null ]
+    [ "CountTargets", "dd/d27/a18251.html#aa72b762d802c27047d485a8a314c6c6d", null ],
+    [ "Load", "dd/d27/a18251.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
+    [ "PrepareSpellScript", "dd/d27/a18251.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
+    [ "Register", "dd/d27/a18251.html#a86cad92c07fa31c730a3b560d33ed824", null ],
+    [ "SplitDamage", "dd/d27/a18251.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
+    [ "_targetCount", "dd/d27/a18251.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
 ];

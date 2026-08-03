@@ -1,8 +1,6 @@
 var a20411 =
 [
-    [ "CheckProc", "da/ded/a20411.html#ad609f81da8229b5f8c219b3dce4e7602", null ],
-    [ "HandleProc", "da/ded/a20411.html#aa3fae300f8738edeb5d68de2608462ab", null ],
-    [ "PrepareAuraScript", "da/ded/a20411.html#a21c070876fa64fa8d65db71c90c73747", null ],
-    [ "Register", "da/ded/a20411.html#a3aa412142b1809933cc9c2616f9b4ce5", null ],
-    [ "Validate", "da/ded/a20411.html#a930130b75796d42866e0459832e7841b", null ]
+    [ "FilterTargets", "da/ded/a20411.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
+    [ "PrepareSpellScript", "da/ded/a20411.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
+    [ "Register", "da/ded/a20411.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
 ];

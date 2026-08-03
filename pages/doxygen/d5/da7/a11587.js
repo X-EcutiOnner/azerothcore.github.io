@@ -1,7 +1,6 @@
 var a11587 =
 [
-    [ "UpdateWorldState", "d5/da7/a11587.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
-    [ "Write", "d5/da7/a11587.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
-    [ "Value", "d5/da7/a11587.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
-    [ "VariableID", "d5/da7/a11587.html#aa73278b324822f509f48e6edcdaed457", null ]
+    [ "CorpseMapPositionQuery", "d5/da7/a11587.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
+    [ "Read", "d5/da7/a11587.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
+    [ "unk", "d5/da7/a11587.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
 ];

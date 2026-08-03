@@ -1,7 +1,8 @@
 var a20823 =
 [
-    [ "FilterTargets", "da/d58/a20823.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
-    [ "HandleDummyEffect", "da/d58/a20823.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
-    [ "PrepareSpellScript", "da/d58/a20823.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
-    [ "Register", "da/d58/a20823.html#a337cdb940a2001ac370768b02126d3c0", null ]
+    [ "boss_thorim_pillar", "da/d58/a20823.html#aec2fc6e420499c9ce991753b912bef1e", null ],
+    [ "Reset", "da/d58/a20823.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
+    [ "SpellHit", "da/d58/a20823.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
+    [ "UpdateAI", "da/d58/a20823.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
+    [ "_resetTimer", "da/d58/a20823.html#ac9c8ef8622496593b5f91611d22120b3", null ]
 ];

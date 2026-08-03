@@ -1,5 +1,8 @@
 var a20879 =
 [
-    [ "achievement_yogg_saron_drive_me_crazy", "de/d7e/a20879.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
-    [ "OnCheck", "de/d7e/a20879.html#a029fdd68e0643b53971efbb1056f19d8", null ]
+    [ "npc_scrapbot", "de/d7e/a20879.html#a088bac1bf5cb91be8f18368c08c5414a", null ],
+    [ "Reset", "de/d7e/a20879.html#a2dca509a6e2b46674165e5559717f69c", null ],
+    [ "UpdateAI", "de/d7e/a20879.html#ade90c75baf598900adaa300cef28cb6a", null ],
+    [ "_instance", "de/d7e/a20879.html#afb8296b4d9105ee99abc534656289ae2", null ],
+    [ "_scheduler", "de/d7e/a20879.html#a4deb841588ea244e4290bb8ffb69b483", null ]
 ];

@@ -1,10 +1,12 @@
 var a23155 =
 [
-    [ "boss_warlord_kalithresh", "da/df6/a23155.html#afcf2288fbea2d5010c41344ce0247559", null ],
-    [ "JustDied", "da/df6/a23155.html#a1947562aa9dafea371e2f2da824a3f65", null ],
-    [ "JustEngagedWith", "da/df6/a23155.html#a2712f5c363c3929550b77ef2536b1385", null ],
-    [ "KilledUnit", "da/df6/a23155.html#a06855288497f5335a236867ef681d3f8", null ],
-    [ "MoveInLineOfSight", "da/df6/a23155.html#a544da19b6c3a6f159ed6b1639def1071", null ],
-    [ "Reset", "da/df6/a23155.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
-    [ "_introDone", "da/df6/a23155.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
+    [ "boss_fathomguard_sharkkis", "da/df6/a23155.html#affc3a4422ce62311879bef6df104c9b9", null ],
+    [ "EnterEvadeMode", "da/df6/a23155.html#a344072e382566575168cdcf57d0f6481", null ],
+    [ "JustDied", "da/df6/a23155.html#a1a4fdf91f6d8d0e3e0672e174152a59d", null ],
+    [ "JustEngagedWith", "da/df6/a23155.html#a5724db6f55f1c5ed2e351603a1b26943", null ],
+    [ "JustSummoned", "da/df6/a23155.html#a31098d1e91412b797663fe677114af20", null ],
+    [ "Reset", "da/df6/a23155.html#a5d8b89e2d4a203df5ec574b96df0d489", null ],
+    [ "UpdateAI", "da/df6/a23155.html#ab71689fda10d6d31dd2bfc72026bd755", null ],
+    [ "_instance", "da/df6/a23155.html#ad3dc90987a8b01fcd55799f66d18906c", null ],
+    [ "_summons", "da/df6/a23155.html#a73f887b3f829027fc336a8e4a9c5b963", null ]
 ];

@@ -1,7 +1,6 @@
 var a05243 =
 [
-    [ "LiquidInfo", "da/dc9/a05243.html#a0caefac43d2f5c59446e2a9f7e565c11", null ],
-    [ "LiquidInfo", "da/dc9/a05243.html#abfae4e75223a93b5b71840f60710afb9", null ],
-    [ "level", "da/dc9/a05243.html#ade8f31cc9adc77ff82724134b5ebba24", null ],
-    [ "type", "da/dc9/a05243.html#a46eda7aed64f2a5b0bd5ce1f88942c20", null ]
+    [ "node", "da/dc9/a05243.html#a5b76f0ea514d55ed9ba8ea6c4bdf7491", null ],
+    [ "tfar", "da/dc9/a05243.html#ad53b746617dd5a46930dae493d7488d9", null ],
+    [ "tnear", "da/dc9/a05243.html#a938ca2ace2aa498abdda93ee824b6f09", null ]
 ];

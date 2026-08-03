@@ -1,15 +1,10 @@
 var a14279 =
 [
-    [ "npc_janalai_hatcher", "dc/d78/a14279.html#a337e21f5a014d0f9d7a1f614b7245f36", null ],
-    [ "AttackStart", "dc/d78/a14279.html#a5a7826964349ed9adbbdeb7c733dd915", null ],
-    [ "JustEngagedWith", "dc/d78/a14279.html#a54c251278dcfa22052b6c6e49a4abd89", null ],
-    [ "MoveInLineOfSight", "dc/d78/a14279.html#a4ae2157e37bb93b7465e029e526a6ce4", null ],
-    [ "MovementInform", "dc/d78/a14279.html#a3a0170bc53f9f8f96090e34097b90c2c", null ],
-    [ "MoveToNewWaypoint", "dc/d78/a14279.html#ab775a888ae1002eed3ed548ab89ca2e4", null ],
-    [ "Reset", "dc/d78/a14279.html#ab1c3945160c55b2b2d63763eacced473", null ],
-    [ "UpdateAI", "dc/d78/a14279.html#ab5cc0c5f73593128b6d6e023aa4ce609", null ],
-    [ "_isHatching", "dc/d78/a14279.html#aae712db69c870d00d07a37b8611ecaf4", null ],
-    [ "_repeatCount", "dc/d78/a14279.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12", null ],
-    [ "_side", "dc/d78/a14279.html#a177ddd5ff96902363ab708f0c737fc20", null ],
-    [ "_waypoint", "dc/d78/a14279.html#ab39ab27d8057b52b77637faefd48e8e6", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "dc/d78/a14279.html#af7d495f489979690615d091bbd9d539b", null ],
+    [ "CanAIAttack", "dc/d78/a14279.html#af332a66852c9499912d8ef4959f394f5", null ],
+    [ "InitializeAI", "dc/d78/a14279.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
+    [ "JustRespawned", "dc/d78/a14279.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
+    [ "Reset", "dc/d78/a14279.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
+    [ "UpdateAI", "dc/d78/a14279.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
+    [ "_events", "dc/d78/a14279.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
 ];

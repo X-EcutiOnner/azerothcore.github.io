@@ -1,8 +1,8 @@
 var a19159 =
 [
-    [ "Class", "d5/d99/a19159.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "d5/d99/a19159.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
-    [ "id", "d5/d99/a19159.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "d5/d99/a19159.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "d5/d99/a19159.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "OnApply", "d5/d99/a19159.html#ab36c99093a1659e65cd7e41524fdeeff", null ],
+    [ "OnRemove", "d5/d99/a19159.html#a433df999703d10b8d5001af75e8b2c97", null ],
+    [ "PrepareAuraScript", "d5/d99/a19159.html#af6c809fb292cafd052b22b345df23b7f", null ],
+    [ "Register", "d5/d99/a19159.html#ad116dbd8b69a1f7e8951a170b1872d97", null ],
+    [ "Validate", "d5/d99/a19159.html#a9d122f2335fdab34791e2eedff022aef", null ]
 ];

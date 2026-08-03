@@ -1,6 +1,8 @@
 var a14211 =
 [
-    [ "npc_andorhal_towerAI", "d4/d94/a14215.html", "d4/d94/a14215" ],
-    [ "npc_andorhal_tower", "d4/dc4/a14211.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
-    [ "GetAI", "d4/dc4/a14211.html#a51139c28da736d26bf27a061862d24ee", null ]
+    [ "HandleHit", "d4/dc4/a14211.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
+    [ "PrepareSpellScript", "d4/dc4/a14211.html#a53f170244b390f7035e131fb5c79cb3f", null ],
+    [ "Register", "d4/dc4/a14211.html#a248124b837cf71f7d422154db4581747", null ],
+    [ "Validate", "d4/dc4/a14211.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
+    [ "_emote", "d4/dc4/a14211.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
 ];

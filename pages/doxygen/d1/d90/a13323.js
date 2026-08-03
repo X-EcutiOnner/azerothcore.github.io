@@ -1,14 +1,11 @@
 var a13323 =
 [
-    [ "boss_priestess_delrissa", "d1/d90/a13323.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
-    [ "CheckInRoom", "d1/d90/a13323.html#afa963761e44412915a6d89f097f33b5d", null ],
-    [ "InitializeAI", "d1/d90/a13323.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
-    [ "JustDied", "d1/d90/a13323.html#a82d8c198f38c2aa881386e739dea6a08", null ],
-    [ "JustEngagedWith", "d1/d90/a13323.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
-    [ "JustSummoned", "d1/d90/a13323.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
-    [ "KilledUnit", "d1/d90/a13323.html#af0b41306f53c42745cce39069f446704", null ],
-    [ "Reset", "d1/d90/a13323.html#a60e39157aa3043284b2e1e032c0d9241", null ],
-    [ "SummonedCreatureDies", "d1/d90/a13323.html#a14757692ab4af5c1b5b311f059be9091", null ],
-    [ "HelpersKilled", "d1/d90/a13323.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
-    [ "PlayersKilled", "d1/d90/a13323.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
+    [ "boss_terestian_illhoof", "d1/d90/a13323.html#a5750bf4f12ac01216335a926f885e136", null ],
+    [ "JustDied", "d1/d90/a13323.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
+    [ "JustEngagedWith", "d1/d90/a13323.html#adc1f9195954eda7ec406ac9a084b7508", null ],
+    [ "JustSummoned", "d1/d90/a13323.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
+    [ "KilledUnit", "d1/d90/a13323.html#ab7de8b406de200eec981fab79a56dcd7", null ],
+    [ "Reset", "d1/d90/a13323.html#a685b00f0e3317740412adfc48df1c3fb", null ],
+    [ "SpellHit", "d1/d90/a13323.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
+    [ "SummonKilrek", "d1/d90/a13323.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
 ];

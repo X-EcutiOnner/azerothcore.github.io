@@ -1,6 +1,6 @@
 var a16619 =
 [
-    [ "HandleScript", "de/d02/a16619.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "de/d02/a16619.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "de/d02/a16619.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "HandleForceCast", "de/d02/a16619.html#a975b69649aba9de341f4e52c82a3c111", null ],
+    [ "PrepareSpellScript", "de/d02/a16619.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
+    [ "Register", "de/d02/a16619.html#a794a59e5fd3bda75f30d559f422895b5", null ]
 ];

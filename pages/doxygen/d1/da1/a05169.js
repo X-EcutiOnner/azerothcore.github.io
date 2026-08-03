@@ -1,5 +1,5 @@
 var a05169 =
 [
-    [ "MODD", "d3/dd8/a30069.html", "d3/dd8/a30069" ],
-    [ "MODS", "da/de5/a30065.html", "da/de5/a30065" ]
+    [ "InitWorldStates", "d4/de2/a11667.html", "d4/de2/a11667" ],
+    [ "UpdateWorldState", "d8/d7a/a11675.html", "d8/d7a/a11675" ]
 ];

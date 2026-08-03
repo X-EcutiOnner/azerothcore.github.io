@@ -1,8 +1,17 @@
 var a11527 =
 [
-    [ "QuestConfirmAccept", "dc/d47/a11527.html#a96504f0bcddeb3f339552d95052595c9", null ],
-    [ "Write", "dc/d47/a11527.html#add2f826fb7a8c9eed85e46a217dff0fc", null ],
-    [ "PlayerGuid", "dc/d47/a11527.html#a591f77f3c6de30ac07e62a5bedded7d5", null ],
-    [ "QuestId", "dc/d47/a11527.html#a4c857c0b173f5fd19f2a83123e8e0d44", null ],
-    [ "QuestTitle", "dc/d47/a11527.html#abf35fe4b947f0b645010009388d80bcd", null ]
+    [ "CompactArray", "dc/d47/a11527.html#a167096f1966862ec92556b6f5d3aa3b8", null ],
+    [ "CompactArray", "dc/d47/a11527.html#a70adda7a73d5c54b1d29668f23778c9f", null ],
+    [ "CompactArray", "dc/d47/a11527.html#a757f7d94e52fa821dc1fdb03877574f3", null ],
+    [ "Clear", "dc/d47/a11527.html#ae213ad313a4b0688763e882a2010c494", null ],
+    [ "GetMask", "dc/d47/a11527.html#a3a421d4ee2e7459cbc945c6c70c1993f", null ],
+    [ "GetSize", "dc/d47/a11527.html#a656c3568cd73d10dd6f9cda1809ff509", null ],
+    [ "Insert", "dc/d47/a11527.html#a313aedf5c623505860a227149cb64b5a", null ],
+    [ "operator!=", "dc/d47/a11527.html#adaade1e09d979a6e98b90253f442a9e5", null ],
+    [ "operator=", "dc/d47/a11527.html#a75f0995b55269fc2d0bca87a0294fcb3", null ],
+    [ "operator=", "dc/d47/a11527.html#a14d76ffa09769e341dea769424ac586c", null ],
+    [ "operator==", "dc/d47/a11527.html#a24c7c9794991ec3bf4ecefa93f8ee23e", null ],
+    [ "operator[]", "dc/d47/a11527.html#af146d3e880ec34358ff6a07247f741d8", null ],
+    [ "_contents", "dc/d47/a11527.html#a1e0ff07a4905517dc6e92a3615bc36d0", null ],
+    [ "_mask", "dc/d47/a11527.html#a85ef9a03e561e385f41de88e6e0f98c0", null ]
 ];

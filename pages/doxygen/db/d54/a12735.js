@@ -1,5 +1,7 @@
 var a12735 =
 [
-    [ "at_trigger_the_beast_movement", "db/d54/a12735.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
-    [ "OnTrigger", "db/d54/a12735.html#a333d685d765497a950fde35067d876a1", null ]
+    [ "boss_grizzle", "db/d54/a12735.html#af5d864d2e06859a3c21506b8def424d0", null ],
+    [ "JustEngagedWith", "db/d54/a12735.html#ad925b3a8190037e1768b1c5565656be7", null ],
+    [ "UpdateAI", "db/d54/a12735.html#a72c28686adf331ed291585f830041041", null ],
+    [ "nextTremorTime", "db/d54/a12735.html#a220d7e426d7bd2034cf2dc70d0a18f26", null ]
 ];

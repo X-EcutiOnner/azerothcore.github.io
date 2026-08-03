@@ -1,6 +1,7 @@
 var a21039 =
 [
-    [ "boss_skadiAI", "df/da4/a21043.html", "df/da4/a21043" ],
-    [ "boss_skadi", "d7/d15/a21039.html#a124c1c1de7ba232b3256a65547370464", null ],
-    [ "GetAI", "d7/d15/a21039.html#ac2986670096fdd69a2e584bb9fcc1bbb", null ]
+    [ "OnApply", "d7/d15/a21039.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
+    [ "OnRemove", "d7/d15/a21039.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
+    [ "PrepareAuraScript", "d7/d15/a21039.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
+    [ "Register", "d7/d15/a21039.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
 ];

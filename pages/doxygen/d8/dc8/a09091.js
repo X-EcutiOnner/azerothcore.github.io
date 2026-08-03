@@ -1,11 +1,9 @@
 var a09091 =
 [
-    [ "SpellPeriodicAuraLogInfo", "d8/dc8/a09091.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
-    [ "absorb", "d8/dc8/a09091.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
-    [ "auraEff", "d8/dc8/a09091.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
-    [ "critical", "d8/dc8/a09091.html#a51041b901727b4f595d2a886520626ff", null ],
-    [ "damage", "d8/dc8/a09091.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
-    [ "multiplier", "d8/dc8/a09091.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
-    [ "overDamage", "d8/dc8/a09091.html#a51904be3790c99bded697b2cf7c8db23", null ],
-    [ "resist", "d8/dc8/a09091.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
+    [ "GlobalCooldownMgr", "d8/dc8/a09091.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
+    [ "AddGlobalCooldown", "d8/dc8/a09091.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
+    [ "CancelGlobalCooldown", "d8/dc8/a09091.html#aed6b479416104dc536116fdb1e24fcf3", null ],
+    [ "GetGlobalCooldown", "d8/dc8/a09091.html#ae44caed35e93f834ff68394c1ab6434b", null ],
+    [ "HasGlobalCooldown", "d8/dc8/a09091.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
+    [ "m_GlobalCooldowns", "d8/dc8/a09091.html#a80d03691d36758733f326b65992f266e", null ]
 ];

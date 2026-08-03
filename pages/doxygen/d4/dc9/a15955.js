@@ -1,7 +1,6 @@
 var a15955 =
 [
-    [ "npc_giant_spotlightAI", "d4/dc9/a15955.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "d4/dc9/a15955.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "d4/dc9/a15955.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "d4/dc9/a15955.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "npc_tiger_matriarchAI", "dc/d94/a15959.html", "dc/d94/a15959" ],
+    [ "npc_tiger_matriarch", "d4/dc9/a15955.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "d4/dc9/a15955.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

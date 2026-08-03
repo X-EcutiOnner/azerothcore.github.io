@@ -1,8 +1,7 @@
 var a28631 =
 [
-    [ "ClassMask", "d9/dfe/a28631.html#a563ba1618ffefa5470696e37f65c70d4", null ],
-    [ "Flags", "d9/dfe/a28631.html#af89c32a22f018557fe016e0784a82384", null ],
-    [ "RaceMask", "d9/dfe/a28631.html#acff47bf5c075d669f95b0d229674f9bc", null ],
-    [ "SkillID", "d9/dfe/a28631.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
-    [ "SkillTierID", "d9/dfe/a28631.html#ab6153043461b71336e12b00957499075", null ]
+    [ "npc_venomhide_hatchlingAI", "d8/d4a/a28635.html", "d8/d4a/a28635" ],
+    [ "npc_venomhide_hatchling", "d9/dfe/a28631.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
+    [ "GetAI", "d9/dfe/a28631.html#a96110b752965d751ab7b466c4f67e333", null ],
+    [ "OnGossipHello", "d9/dfe/a28631.html#a404d875592b847ddb9f3250c9d954bfc", null ]
 ];

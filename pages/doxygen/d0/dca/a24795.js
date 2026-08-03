@@ -1,6 +1,7 @@
 var a24795 =
 [
-    [ "CheckAreaTarget", "d0/dca/a24795.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
-    [ "PrepareAuraScript", "d0/dca/a24795.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
-    [ "Register", "d0/dca/a24795.html#a6647a8e35009cf8559e4957a666f037a", null ]
+    [ "HandleScriptEffect", "d0/dca/a24795.html#a3a33f0ec477ff3b4b19fc98760a2dae7", null ],
+    [ "PrepareSpellScript", "d0/dca/a24795.html#ae29c4f69a34e71011192df12509e2935", null ],
+    [ "Register", "d0/dca/a24795.html#ae37da44bde25f6bdb5b4a382ab66b7be", null ],
+    [ "Validate", "d0/dca/a24795.html#af9056c179b8089cf0b304b3ce61ea92f", null ]
 ];

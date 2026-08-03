@@ -1,7 +1,6 @@
 var a15407 =
 [
-    [ "npc_hive_zara_larva", "d6/da7/a15407.html#a50fb5738d7b0818689216fee0915a0de", null ],
-    [ "JustSummoned", "d6/da7/a15407.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
-    [ "MovementInform", "d6/da7/a15407.html#a6890c58106450d654062f548a80cb42f", null ],
-    [ "_instance", "d6/da7/a15407.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
+    [ "instance_dire_maul_InstanceMapScript", "dd/d6d/a15411.html", "dd/d6d/a15411" ],
+    [ "instance_dire_maul", "d6/da7/a15407.html#a54ac2c7095a99481c7efbe4237533fac", null ],
+    [ "GetInstanceScript", "d6/da7/a15407.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
 ];

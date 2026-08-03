@@ -1,14 +1,22 @@
 var a10115 =
 [
-    [ "ServerMailMgr", "d8/dc8/a10115.html#aeec2235e9dd9b36b868634d850f02a5b", null ],
-    [ "~ServerMailMgr", "d8/dc8/a10115.html#adba54af38e90ecae21e79835910ba195", null ],
-    [ "ConditionTypeUsesConditionState", "d8/dc8/a10115.html#a2e7a8cdc7ebdb51204823fd30a0449b3", null ],
-    [ "GetAllServerMailStore", "d8/dc8/a10115.html#acb4521f696c6f11c977dc9d8b76e0c16", null ],
-    [ "GetServerMailConditionType", "d8/dc8/a10115.html#a57f8aea4b5bb15ff77b9ebd8e65e8092", null ],
-    [ "instance", "d8/dc8/a10115.html#abc85cb07f717384fac09f4e2b0f59af1", null ],
-    [ "LoadMailServerTemplates", "d8/dc8/a10115.html#a1a01dd7a8e5c45bc7c97203e4a04a768", null ],
-    [ "LoadMailServerTemplatesConditions", "d8/dc8/a10115.html#a6bb75bdb34a25dd01fdc7e81b4e9b897", null ],
-    [ "LoadMailServerTemplatesItems", "d8/dc8/a10115.html#a49aea924f27804d21fbe06e72e159df3", null ],
-    [ "SendServerMail", "d8/dc8/a10115.html#a85c3556138304b75ad3dec0014e56def", null ],
-    [ "_serverMailStore", "d8/dc8/a10115.html#a96ae3a78694ca97d112c5d92884f2415", null ]
+    [ "LootGroup", "d8/dc8/a10115.html#a66528563891f68cc71cf2e82c0c55f78", null ],
+    [ "~LootGroup", "d8/dc8/a10115.html#a8e99105a3db65b4f8afcf032ce3bb33f", null ],
+    [ "LootGroup", "d8/dc8/a10115.html#a0bf71d71cb78e1e8864feac535adf100", null ],
+    [ "AddEntry", "d8/dc8/a10115.html#a6724f160613257f2d48c0e675a372c48", null ],
+    [ "CheckLootRefs", "d8/dc8/a10115.html#ac7690d157243edebe340baf2e274546f", null ],
+    [ "CollectLootIds", "d8/dc8/a10115.html#a41a24435f67bcf4fa8bf8447b5d4d9ba", null ],
+    [ "CopyConditions", "d8/dc8/a10115.html#a55a98102081eca760af46fe2158ad6e4", null ],
+    [ "GetEqualChancedItemList", "d8/dc8/a10115.html#a273b39ba11c62186f6b49f9eadf512c6", null ],
+    [ "GetExplicitlyChancedItemList", "d8/dc8/a10115.html#a5654d18106376d9fb168dfd8e27f1355", null ],
+    [ "HasQuestDrop", "d8/dc8/a10115.html#adee692736847d987093655aac3f23be8", null ],
+    [ "HasQuestDropForPlayer", "d8/dc8/a10115.html#a0cc5c4a880c400b432d2ac0c482430ed", null ],
+    [ "operator=", "d8/dc8/a10115.html#a7ca1a5e58a5e78430209e1207b732265", null ],
+    [ "Process", "d8/dc8/a10115.html#a0f9d7b304045ed812b6203376dc442db", null ],
+    [ "RawTotalChance", "d8/dc8/a10115.html#a5a4dfbbfaf6c6f87217c124f387d7951", null ],
+    [ "Roll", "d8/dc8/a10115.html#a77483c54ae8cb9747726bfa0e7d7225f", null ],
+    [ "TotalChance", "d8/dc8/a10115.html#ab306f81dc00d214e0ec8ac3903eff42e", null ],
+    [ "Verify", "d8/dc8/a10115.html#a5486b1c43c6af31681d5c442957d5cf1", null ],
+    [ "EqualChanced", "d8/dc8/a10115.html#a517a0800528f49cdb3202ff5bcf5280d", null ],
+    [ "ExplicitlyChanced", "d8/dc8/a10115.html#a18c4cf84cf4c6f02a66ba45fa2978f49", null ]
 ];

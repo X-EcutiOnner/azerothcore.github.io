@@ -1,5 +1,5 @@
 var a11127 =
 [
-    [ "Icon", "dc/de6/a11127.html#ae47c09144b18e42aa48499de3e3fe276", null ],
-    [ "Name", "dc/de6/a11127.html#a19c79529bbfe25701c9f8253f3e0f9d8", null ]
+    [ "Flags", "dc/de6/a11127.html#af1d25fa760cdbfa907a1b6e0002f0e70", null ],
+    [ "WithdrawItemLimit", "dc/de6/a11127.html#aa7bb5355ee174f3b9dd32c659e0f7806", null ]
 ];

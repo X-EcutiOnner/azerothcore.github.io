@@ -1,15 +1,6 @@
 var a15655 =
 [
-    [ "boss_viscidus", "d2/d9a/a15655.html#a41dd3ce982a180a2ad415b559508f0ff", null ],
-    [ "CheckInRoom", "d2/d9a/a15655.html#a528a368eceb55cc7d41d615c6c1ebf15", null ],
-    [ "DamageTaken", "d2/d9a/a15655.html#adb41e6f64c1fe61cf623539353b0c959", null ],
-    [ "InitSpells", "d2/d9a/a15655.html#a24357bfc552ecb5205e50241cadb05f4", null ],
-    [ "JustEngagedWith", "d2/d9a/a15655.html#a7dfb0ba7d90697d3deac263249cfa977", null ],
-    [ "Reset", "d2/d9a/a15655.html#ac9153bd98e4c39b63547c3a9a8798d80", null ],
-    [ "SoftReset", "d2/d9a/a15655.html#ad2b4c6835ff113e4a538024f02ff968e", null ],
-    [ "SpellHit", "d2/d9a/a15655.html#a43df1ee33d5a9b4794b246ce680a6318", null ],
-    [ "SummonedCreatureDies", "d2/d9a/a15655.html#a6a52391b49ba3501a1bb5e8c55f07683", null ],
-    [ "UpdateAI", "d2/d9a/a15655.html#a1a194c161b485d2abbb862506b6c239f", null ],
-    [ "_hitcounter", "d2/d9a/a15655.html#a12ee60a91dab2f95aab6e9914351344a", null ],
-    [ "_phase", "d2/d9a/a15655.html#a321f1f96af51d3d70de0cca89512d965", null ]
+    [ "FilterTargets", "d2/d9a/a15655.html#a3ec2840ab1d853a1546c64a2d158e75f", null ],
+    [ "PrepareSpellScript", "d2/d9a/a15655.html#a511e54100036307aa5d37bc959405c73", null ],
+    [ "Register", "d2/d9a/a15655.html#a31d1d590f0e6fc2e56322d606961828f", null ]
 ];

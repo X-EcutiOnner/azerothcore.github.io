@@ -1,6 +1,7 @@
 var a19003 =
 [
-    [ "npc_captain_grondelAI", "dd/d0a/a19003.html#afbc971fc03584b87229318309d51a2f5", null ],
-    [ "Reset", "dd/d0a/a19003.html#a7d3878822e77fba66891e87e23bd3740", null ],
-    [ "UpdateAI", "dd/d0a/a19003.html#a4af8548092b49653805224bd4c0ac0a2", null ]
+    [ "FrostwingVrykulSearcher", "dd/d0a/a19003.html#a10aa54184b42a0538dc4f325204399e9", null ],
+    [ "operator()", "dd/d0a/a19003.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
+    [ "_range", "dd/d0a/a19003.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
+    [ "_source", "dd/d0a/a19003.html#af5d3c93f41698e71c867336d0453d40a", null ]
 ];

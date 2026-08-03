@@ -1,6 +1,7 @@
 var a22839 =
 [
-    [ "PrepareAuraScript", "da/d20/a22839.html#a0dca39c324a5431d4861c1f20a34355e", null ],
-    [ "Register", "da/d20/a22839.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
-    [ "Update", "da/d20/a22839.html#a6201eaa3b961e838a535b80679996ada", null ]
+    [ "OnPeriodic", "da/d20/a22839.html#a165d47b116b0a53e37b05f664960e6ec", null ],
+    [ "PrepareAuraScript", "da/d20/a22839.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
+    [ "Register", "da/d20/a22839.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
+    [ "Validate", "da/d20/a22839.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
 ];

@@ -1,5 +1,5 @@
 var a28655 =
 [
-    [ "CastTime", "d0/dfc/a28655.html#af0bf895b1a5d61974cb63230b786c55e", null ],
-    [ "ID", "d0/dfc/a28655.html#a41b1059fc4059bd198925861a9414497", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "d0/dfc/a28655.html#afaa929276f8b131005c9b94daa9a09f9", null ],
+    [ "OnPlayerCompleteQuest", "d0/dfc/a28655.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
 ];

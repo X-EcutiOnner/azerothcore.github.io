@@ -1,6 +1,6 @@
 var a20323 =
 [
-    [ "DestroyWinterCache", "de/dba/a20323.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
-    [ "PrepareSpellScript", "de/dba/a20323.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
-    [ "Register", "de/dba/a20323.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
+    [ "CheckCast", "de/dba/a20323.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "de/dba/a20323.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "de/dba/a20323.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

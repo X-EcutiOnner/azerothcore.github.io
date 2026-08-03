@@ -1,6 +1,5 @@
 var a20267 =
 [
-    [ "FilterTargets", "d2/db2/a20267.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "d2/db2/a20267.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "d2/db2/a20267.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "go_ulduar_tower", "d2/db2/a20267.html#afc1add1a0543921f52afe1eb907f5de3", null ],
+    [ "OnDestroyed", "d2/db2/a20267.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
 ];

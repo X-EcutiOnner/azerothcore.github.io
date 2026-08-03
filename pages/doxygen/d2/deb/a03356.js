@@ -1,9 +1,9 @@
 var a03356 =
 [
-    [ "boss_mechano_lord_capacitus", "d8/d26/a23918.html", "d8/d26/a23918" ],
-    [ "spell_capacitus_polarity_charge", "df/da9/a23922.html", "df/da9/a23922" ],
-    [ "spell_capacitus_polarity_charge_aura", "d0/d14/a23926.html", "d0/d14/a23926" ],
-    [ "spell_capacitus_polarity_shift", "d6/d03/a23930.html", "d6/d03/a23930" ],
+    [ "boss_mechano_lord_capacitus", "de/dfb/a23943.html", "de/dfb/a23943" ],
+    [ "spell_capacitus_polarity_charge", "df/dbd/a23947.html", "df/dbd/a23947" ],
+    [ "spell_capacitus_polarity_charge_aura", "d5/d77/a23951.html", "d5/d77/a23951" ],
+    [ "spell_capacitus_polarity_shift", "d2/d1b/a23955.html", "d2/d1b/a23955" ],
     [ "polarityShift", "d2/deb/a03356.html#adfcb85d87bd0304f358a9d2549e866aa", [
       [ "SPELL_POSITIVE_POLARITY", "d2/deb/a03356.html#adfcb85d87bd0304f358a9d2549e866aaa795738ba63917afbc0763ca952c1acf2", null ],
       [ "SPELL_POSITIVE_CHARGE_STACK", "d2/deb/a03356.html#adfcb85d87bd0304f358a9d2549e866aaa9a8ba6564944a1455aee4c76339e7ae5", null ],
@@ -1542,6 +1542,7 @@ var a03356 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

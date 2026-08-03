@@ -1,12 +1,12 @@
 var a12479 =
 [
-    [ "rbac_commandscript", "df/db6/a12479.html#ad5d80b189a8ddaf6b5927c81668a7d74", null ],
-    [ "GetCommands", "df/db6/a12479.html#a79aea8dac765cfb1a2f12264b58b4227", null ],
-    [ "GetRBACData", "df/db6/a12479.html#a00da7ed9027950938ec869e678111502", null ],
-    [ "GetSecurityLevelName", "df/db6/a12479.html#afcfc224e4b39db42ed6efeb5e49ecc7a", null ],
-    [ "HandleRBACListPermissionsCommand", "df/db6/a12479.html#a80f84e8eeebfd70b4ac7bc049bf4759c", null ],
-    [ "HandleRBACPermDenyCommand", "df/db6/a12479.html#acc074437ff26c253cf91772de9117fbf", null ],
-    [ "HandleRBACPermGrantCommand", "df/db6/a12479.html#ad4254acff93e13b7218b086281d13676", null ],
-    [ "HandleRBACPermListCommand", "df/db6/a12479.html#a324227f3398500ca0a5b7dd141698951", null ],
-    [ "HandleRBACPermRevokeCommand", "df/db6/a12479.html#adf8932879f77b25833cf55dc2924ac29", null ]
+    [ "guild_commandscript", "df/db6/a12479.html#a4394d242740505ad128e4cebf4b617f0", null ],
+    [ "GetCommands", "df/db6/a12479.html#a6b0a700e7fa3251373c1405d245f6931", null ],
+    [ "HandleGuildCreateCommand", "df/db6/a12479.html#a2d2c2414b9b08a5d510fccd223b34a36", null ],
+    [ "HandleGuildDeleteCommand", "df/db6/a12479.html#a4bbef641c86de37611e7ff1c906b4048", null ],
+    [ "HandleGuildInfoCommand", "df/db6/a12479.html#adbe43a3a362608e37dd7d6652a83adfc", null ],
+    [ "HandleGuildInviteCommand", "df/db6/a12479.html#a67210b9845ca4475e6ab3d0d7cc0dbab", null ],
+    [ "HandleGuildRankCommand", "df/db6/a12479.html#adbea3b610c98354866fec52a43fedda0", null ],
+    [ "HandleGuildRenameCommand", "df/db6/a12479.html#ac946b4284c85e43b1ca29f69df9a8f27", null ],
+    [ "HandleGuildUninviteCommand", "df/db6/a12479.html#aa7b134de9c3632cc1e147064c9ffcb5f", null ]
 ];

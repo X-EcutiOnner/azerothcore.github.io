@@ -1,12 +1,6 @@
 var a15183 =
 [
-    [ "boss_mal_ganisAI", "dd/d37/a15183.html#aa8b70930372cd0729686f7c6032d3152", null ],
-    [ "DamageTaken", "dd/d37/a15183.html#a4873386266ce3b4b849377028ff746a5", null ],
-    [ "JustDied", "dd/d37/a15183.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
-    [ "JustEngagedWith", "dd/d37/a15183.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
-    [ "KilledUnit", "dd/d37/a15183.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
-    [ "Reset", "dd/d37/a15183.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
-    [ "UpdateAI", "dd/d37/a15183.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
-    [ "events", "dd/d37/a15183.html#a194c002efe244b8c94a072faf72be771", null ],
-    [ "finished", "dd/d37/a15183.html#ac4c90c814aa55781f863c958253e9df2", null ]
+    [ "FilterTargets", "dd/d37/a15183.html#a45b0713b2942199bf0e19752fe765aac", null ],
+    [ "PrepareSpellScript", "dd/d37/a15183.html#a7f7177d7754a99743202f69a0342f587", null ],
+    [ "Register", "dd/d37/a15183.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
 ];

@@ -1,5 +1,6 @@
 var a28599 =
 [
-    [ "Id", "d6/d93/a28599.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
-    [ "PowerType", "d6/d93/a28599.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
+    [ "npc_locksmith", "d6/d93/a28599.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "d6/d93/a28599.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "d6/d93/a28599.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

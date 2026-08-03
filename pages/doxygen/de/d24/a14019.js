@@ -1,9 +1,8 @@
 var a14019 =
 [
-    [ "npc_partygoer", "de/d24/a14019.html#af053caedfd1fa8173b875f521d279418", null ],
-    [ "Initialize", "de/d24/a14019.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
-    [ "Reset", "de/d24/a14019.html#ad1936099ec5696a2a593e5041b0360c6", null ],
-    [ "UpdateAI", "de/d24/a14019.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
-    [ "_events", "de/d24/a14019.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
-    [ "_facing", "de/d24/a14019.html#a9e934091894987ec091b03090bf733e5", null ]
+    [ "npc_ranger_lilatha", "de/d24/a14019.html#abd13a89b41a289edefb9bc21588f8d29", null ],
+    [ "Reset", "de/d24/a14019.html#a3e804e483b51961193ee1079caba40be", null ],
+    [ "sQuestAccept", "de/d24/a14019.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
+    [ "WaypointReached", "de/d24/a14019.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ],
+    [ "WaypointReached", "de/d24/a14019.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

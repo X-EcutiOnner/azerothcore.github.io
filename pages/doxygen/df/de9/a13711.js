@@ -1,9 +1,6 @@
 var a13711 =
 [
-    [ "spell_eredar_twins_apply_touch", "df/de9/a13711.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
-    [ "HandleApplyTouch", "df/de9/a13711.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
-    [ "PrepareSpellScript", "df/de9/a13711.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
-    [ "Register", "df/de9/a13711.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
-    [ "Validate", "df/de9/a13711.html#a36ff1d126191de7880d98242b3b714b5", null ],
-    [ "_touchSpell", "df/de9/a13711.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
+    [ "FilterTargets", "df/de9/a13711.html#a78675c3421e0243de9e136b646c56be1", null ],
+    [ "PrepareSpellScript", "df/de9/a13711.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
+    [ "Register", "df/de9/a13711.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
 ];

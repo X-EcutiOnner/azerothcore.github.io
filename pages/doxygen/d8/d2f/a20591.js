@@ -1,5 +1,6 @@
 var a20591 =
 [
-    [ "achievement_quick_shave", "d8/d2f/a20591.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "d8/d2f/a20591.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "OnRemoveStun", "d8/d2f/a20591.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
+    [ "PrepareAuraScript", "d8/d2f/a20591.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
+    [ "Register", "d8/d2f/a20591.html#a3166cfcd2acdcd4460217503d4008367", null ]
 ];

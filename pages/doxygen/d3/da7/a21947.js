@@ -1,6 +1,7 @@
 var a21947 =
 [
-    [ "npc_mcmanus", "d3/da7/a21947.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "d3/da7/a21947.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "d3/da7/a21947.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "HandleScriptEffect", "d3/da7/a21947.html#a2d39a073c351860db735301b4cf9c79f", null ],
+    [ "PrepareSpellScript", "d3/da7/a21947.html#a3674adaef23f1531af360a65c14efadd", null ],
+    [ "Register", "d3/da7/a21947.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
+    [ "Validate", "d3/da7/a21947.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
 ];

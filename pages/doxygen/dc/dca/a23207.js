@@ -1,7 +1,6 @@
 var a23207 =
 [
-    [ "HandleScript", "dc/dca/a23207.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
-    [ "PrepareSpellScript", "dc/dca/a23207.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
-    [ "Register", "dc/dca/a23207.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
-    [ "Validate", "dc/dca/a23207.html#a46aca18049e02d50f57579b3fdc705bd", null ]
+    [ "HandleScriptEffect", "dc/dca/a23207.html#a766edc5924124c869b04ec82cd2bc693", null ],
+    [ "PrepareSpellScript", "dc/dca/a23207.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
+    [ "Register", "dc/dca/a23207.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
 ];

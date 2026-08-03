@@ -1,8 +1,8 @@
 var a03593 =
 [
-    [ "boss_broggok", "d5/d64/a23530.html", "d5/d64/a23530" ],
-    [ "go_broggok_lever", "d1/d9e/a23534.html", "d1/d9e/a23534" ],
-    [ "spell_broggok_poison_cloud", "d7/dfa/a23538.html", "d7/dfa/a23538" ],
+    [ "boss_broggok", "dd/d68/a23555.html", "dd/d68/a23555" ],
+    [ "go_broggok_lever", "d7/dfb/a23559.html", "d7/dfb/a23559" ],
+    [ "spell_broggok_poison_cloud", "d2/db6/a23563.html", "d2/db6/a23563" ],
     [ "Say", "d7/d7b/a03593.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_AGGRO", "d6/da9/a03869.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_LEASH", "d6/da9/a03869.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a", null ],
@@ -1592,6 +1592,7 @@ var a03593 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

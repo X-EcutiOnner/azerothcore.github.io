@@ -1,5 +1,6 @@
 var a20663 =
 [
-    [ "achievement_thorim_lose_your_illusion", "d5/d77/a20663.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
-    [ "OnCheck", "d5/d77/a20663.html#a322df4f30445a84085615925f74a8a6b", null ]
+    [ "ModDest", "d5/d77/a20663.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
+    [ "PrepareSpellScript", "d5/d77/a20663.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
+    [ "Register", "d5/d77/a20663.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
 ];

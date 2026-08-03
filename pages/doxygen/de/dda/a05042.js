@@ -1,15 +1,15 @@
 var a05042 =
 [
-    [ "ProcChanceTestHelper", "d9/dc0/a29574.html", "d9/dc0/a29574" ],
-    [ "ProcChanceTestHelper::TriggeredSpellConfig", "dd/d5d/a29578.html", "dd/d5d/a29578" ],
-    [ "ProcChanceTestHelper::ExtraAttackProcConfig", "df/d65/a29582.html", "df/d65/a29582" ],
-    [ "ProcChanceTestHelper::PPMModifierConfig", "d5/dcf/a29586.html", "d5/dcf/a29586" ],
-    [ "ProcChanceTestHelper::EquipmentConfig", "d3/dd9/a29590.html", "d3/dd9/a29590" ],
-    [ "ProcChanceTestHelper::CascadeProcConfig", "de/ddc/a29594.html", "de/ddc/a29594" ],
-    [ "ProcChanceTestHelper::TakenAutoTriggerConfig", "da/d54/a29598.html", "da/d54/a29598" ],
-    [ "ProcChanceTestHelper::ConditionsConfig", "d5/dc6/a29602.html", "d5/dc6/a29602" ],
-    [ "ProcTestScenario", "df/d2d/a29606.html", "df/d2d/a29606" ],
-    [ "ProcChainGuardSimulator", "d7/de2/a29610.html", "d7/de2/a29610" ],
-    [ "ProcChainGuardSimulator::AuraConfig", "d1/d86/a29614.html", "d1/d86/a29614" ],
-    [ "ProcChainGuardSimulator::ProcRecord", "df/dec/a29618.html", "df/dec/a29618" ]
+    [ "ProcChanceTestHelper", "dd/d89/a29611.html", "dd/d89/a29611" ],
+    [ "ProcChanceTestHelper::TriggeredSpellConfig", "d8/d73/a29615.html", "d8/d73/a29615" ],
+    [ "ProcChanceTestHelper::ExtraAttackProcConfig", "d6/d3d/a29619.html", "d6/d3d/a29619" ],
+    [ "ProcChanceTestHelper::PPMModifierConfig", "dd/d3a/a29623.html", "dd/d3a/a29623" ],
+    [ "ProcChanceTestHelper::EquipmentConfig", "dc/dea/a29627.html", "dc/dea/a29627" ],
+    [ "ProcChanceTestHelper::CascadeProcConfig", "d7/d60/a29631.html", "d7/d60/a29631" ],
+    [ "ProcChanceTestHelper::TakenAutoTriggerConfig", "d5/d69/a29635.html", "d5/d69/a29635" ],
+    [ "ProcChanceTestHelper::ConditionsConfig", "df/dcc/a29639.html", "df/dcc/a29639" ],
+    [ "ProcTestScenario", "de/d0d/a29643.html", "de/d0d/a29643" ],
+    [ "ProcChainGuardSimulator", "db/d5b/a29647.html", "db/d5b/a29647" ],
+    [ "ProcChainGuardSimulator::AuraConfig", "d1/df6/a29651.html", "d1/df6/a29651" ],
+    [ "ProcChainGuardSimulator::ProcRecord", "db/d14/a29655.html", "db/d14/a29655" ]
 ];

@@ -1,8 +1,8 @@
 var a03614 =
 [
-    [ "boss_warchief_kargath_bladefist", "d4/d77/a23678.html", "d4/d77/a23678" ],
-    [ "npc_warchief_portal", "d4/d75/a23682.html", "d4/d75/a23682" ],
-    [ "spell_blade_dance_targeting", "db/d17/a23686.html", "db/d17/a23686" ],
+    [ "boss_warchief_kargath_bladefist", "d4/dd5/a23703.html", "d4/dd5/a23703" ],
+    [ "npc_warchief_portal", "de/d26/a23707.html", "de/d26/a23707" ],
+    [ "spell_blade_dance_targeting", "d6/df7/a23711.html", "d6/df7/a23711" ],
     [ "Creatures", "d3/df2/a03614.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d0/dbc/a03752.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d0/dbc/a03752.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],
@@ -2286,6 +2286,7 @@ var a03614 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

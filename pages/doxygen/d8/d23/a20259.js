@@ -1,8 +1,7 @@
 var a20259 =
 [
-    [ "OnApply", "d8/d23/a20259.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
-    [ "OnRemove", "d8/d23/a20259.html#a4709f570f9014eb36bc8c65269470373", null ],
-    [ "PrepareAuraScript", "d8/d23/a20259.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
-    [ "Register", "d8/d23/a20259.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
-    [ "Validate", "d8/d23/a20259.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
+    [ "npc_storm_beacon_spawn", "d8/d23/a20259.html#a999b6421a0ef6eec2987716a60352a5e", null ],
+    [ "UpdateAI", "d8/d23/a20259.html#a93dbd7a26d6333f18329142280cc743d", null ],
+    [ "_amount", "d8/d23/a20259.html#acb5d1f2b6590da32f36882339729c4e9", null ],
+    [ "_checkTimer", "d8/d23/a20259.html#a9717b52f26045707fd852b955d29a5e6", null ]
 ];

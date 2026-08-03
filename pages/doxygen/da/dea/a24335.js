@@ -1,7 +1,6 @@
 var a24335 =
 [
-    [ "CorpseExplosionCheck", "da/dea/a24335.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
-    [ "operator()", "da/dea/a24335.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
-    [ "_allowGhoul", "da/dea/a24335.html#abd42a0731af969ceccdfceae722ba276", null ],
-    [ "_casterGUID", "da/dea/a24335.html#a497df87745f452716c652e9b1be6d46f", null ]
+    [ "PrepareSpellScript", "da/dea/a24335.html#ac781a5ff389268d1f18867ff5585ca71", null ],
+    [ "Register", "da/dea/a24335.html#a5cb9e02774ea6c307e76183253ffb472", null ],
+    [ "SetDest", "da/dea/a24335.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
 ];

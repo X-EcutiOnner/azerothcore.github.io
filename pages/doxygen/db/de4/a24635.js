@@ -1,6 +1,8 @@
 var a24635 =
 [
-    [ "CheckProc", "db/de4/a24635.html#a67f31710f6a3e843b9d3539710100898", null ],
-    [ "PrepareAuraScript", "db/de4/a24635.html#ad59ef816bd24f6215cc853386859dbb4", null ],
-    [ "Register", "db/de4/a24635.html#af499437b1af535488792f44c18ad9bf7", null ]
+    [ "HandleEffectApply", "db/de4/a24635.html#a9a93b47a1f24554a94e364b07f74ba55", null ],
+    [ "HandleEffectRemove", "db/de4/a24635.html#abb7f01239b5a982ded0244d781c4d856", null ],
+    [ "PrepareAuraScript", "db/de4/a24635.html#a9517667d1f79557b3ec2ef6fdfd1bc1b", null ],
+    [ "Register", "db/de4/a24635.html#ae2847d4059ad2822be5703c4d0c79bdb", null ],
+    [ "Validate", "db/de4/a24635.html#abc30fd53a7f9234755c292db533ba99c", null ]
 ];

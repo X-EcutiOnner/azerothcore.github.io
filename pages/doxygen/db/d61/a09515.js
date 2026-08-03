@@ -1,9 +1,6 @@
 var a09515 =
 [
-    [ "LiquidData", "db/d61/a09515.html#ac2435178323f480d2dae449b49b39146", null ],
-    [ "DepthLevel", "db/d61/a09515.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
-    [ "Entry", "db/d61/a09515.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
-    [ "Flags", "db/d61/a09515.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
-    [ "Level", "db/d61/a09515.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
-    [ "Status", "db/d61/a09515.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
+    [ "Visit", "db/d61/a09515.html#ae01a3252ecf5083da0c5be5d4a845636", null ],
+    [ "Visit", "db/d61/a09515.html#a7624bb11d51edffdc49fc9a95df847ef", null ],
+    [ "Visit", "db/d61/a09515.html#a412c9cbe22dc645c87e002ddb1772a90", null ]
 ];

@@ -1,6 +1,6 @@
 var a22695 =
 [
-    [ "boss_essence_of_angerAI", "df/dc7/a22699.html", "df/dc7/a22699" ],
-    [ "boss_essence_of_anger", "d0/d50/a22695.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "d0/d50/a22695.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "df/dc7/a22699.html", "df/dc7/a22699" ],
+    [ "instance_sethekk_halls", "d0/d50/a22695.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "d0/d50/a22695.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

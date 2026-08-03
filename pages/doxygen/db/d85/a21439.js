@@ -1,6 +1,6 @@
 var a21439 =
 [
-    [ "npc_steam_powered_auctioneerAI", "df/d59/a21443.html", "df/d59/a21443" ],
-    [ "npc_steam_powered_auctioneer", "db/d85/a21439.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
-    [ "GetAI", "db/d85/a21439.html#a39a2f0c187078c759bc4a391e0a81068", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "df/d59/a21443.html", "df/d59/a21443" ],
+    [ "instance_vault_of_archavon", "db/d85/a21439.html#a0be8d95ff0f3b751e6f833689e436310", null ],
+    [ "GetInstanceScript", "db/d85/a21439.html#abb955a8873a3a3021e164225dd1f857a", null ]
 ];

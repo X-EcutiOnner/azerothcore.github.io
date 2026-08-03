@@ -1,7 +1,6 @@
 var a19067 =
 [
-    [ "Land", "d9/ddf/a19067.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
-    [ "PrepareSpellScript", "d9/ddf/a19067.html#a31e45adb87719c311fb5b94b2b744487", null ],
-    [ "Register", "d9/ddf/a19067.html#a652eca6ec8079b2835d911807857c8a8", null ],
-    [ "RemoveAliveTarget", "d9/ddf/a19067.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
+    [ "npc_captain_brandonAI", "d2/d39/a19071.html", "d2/d39/a19071" ],
+    [ "npc_captain_brandon", "d9/ddf/a19067.html#ad522dd280882d894b5d32e7c888f2360", null ],
+    [ "GetAI", "d9/ddf/a19067.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
 ];

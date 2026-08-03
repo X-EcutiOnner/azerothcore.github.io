@@ -1,6 +1,5 @@
 var a28747 =
 [
-    [ "AreaGroupId", "d9/d39/a28747.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "d9/d39/a28747.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "d9/d39/a28747.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "npc_harrowmeiser", "d9/d39/a28747.html#a30a44ae739447e14ded0c0af6c73e76e", null ],
+    [ "OnGossipHello", "d9/d39/a28747.html#a3d4b6bc9a85315b0f31347068b3c5317", null ]
 ];

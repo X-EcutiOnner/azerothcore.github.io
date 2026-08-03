@@ -1,5 +1,6 @@
 var a28111 =
 [
-    [ "item_incendiary_explosives", "d6/da4/a28111.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "d6/da4/a28111.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "boss_ysondreAI", "d8/df3/a28115.html", "d8/df3/a28115" ],
+    [ "boss_ysondre", "d6/da4/a28111.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
+    [ "GetAI", "d6/da4/a28111.html#a0da215d7bc8ee86216887e682b9335c3", null ]
 ];

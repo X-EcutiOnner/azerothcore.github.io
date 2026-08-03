@@ -1,9 +1,7 @@
 var a23823 =
 [
-    [ "npc_fel_guard_houndAI", "df/d89/a23823.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
-    [ "MovementInform", "df/d89/a23823.html#a127a0d7b61fde64c0ced52192f438f12", null ],
-    [ "Reset", "df/d89/a23823.html#ab979c3602897b1148ffd5d4a81941197", null ],
-    [ "UpdateAI", "df/d89/a23823.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
-    [ "checkTimer", "df/d89/a23823.html#ad22bb6efafb4396cd0137c1384240029", null ],
-    [ "helboarGUID", "df/d89/a23823.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
+    [ "CastQuill", "df/d89/a23823.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "df/d89/a23823.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "df/d89/a23823.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "df/d89/a23823.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

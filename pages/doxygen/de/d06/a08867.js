@@ -1,10 +1,5 @@
 var a08867 =
 [
-    [ "SpellModifier", "de/d06/a08867.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
-    [ "mask", "de/d06/a08867.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
-    [ "op", "de/d06/a08867.html#a21d017f0c8d3108a0eb5f48798103356", null ],
-    [ "ownerAura", "de/d06/a08867.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
-    [ "spellId", "de/d06/a08867.html#a465803efab27b2ba0a49c6571b65b908", null ],
-    [ "type", "de/d06/a08867.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
-    [ "value", "de/d06/a08867.html#a31742662ba8112c9e9b972897a928e57", null ]
+    [ "PositionXYStreamer", "de/d06/a08867.html#a6f165ea30ccb7cdeba0c4e197b3a0e5b", null ],
+    [ "Pos", "de/d06/a08867.html#afb17e60540233b8861b6e967d0e44e07", null ]
 ];

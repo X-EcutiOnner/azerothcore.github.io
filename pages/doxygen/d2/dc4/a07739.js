@@ -1,10 +1,12 @@
 var a07739 =
 [
-    [ "BattlegroundEYCapturingPointStruct", "d2/dc4/a07739.html#a54164bcb9e4235b15d8a5d8a27fbe41c", null ],
-    [ "DespawnNeutralObjectType", "d2/dc4/a07739.html#a77b4eac66780587e6be0eb380e29c9ce", null ],
-    [ "GraveyardId", "d2/dc4/a07739.html#a23524562fd9c875b29092ee7e7a4e44b", null ],
-    [ "MessageIdAlliance", "d2/dc4/a07739.html#af3295d59367354a4ddaac12258e793b8", null ],
-    [ "MessageIdHorde", "d2/dc4/a07739.html#a5c82eae433ee69b5bda8c96049a06422", null ],
-    [ "SpawnObjectTypeAlliance", "d2/dc4/a07739.html#aeeeecdf09990c74ffc868a135854d49b", null ],
-    [ "SpawnObjectTypeHorde", "d2/dc4/a07739.html#a4b25984504b15c7249d2e5866ad35962", null ]
+    [ "BGQueueInviteEvent", "d2/dc4/a07739.html#acee27900339fdcebbfd21bb0e602654d", null ],
+    [ "~BGQueueInviteEvent", "d2/dc4/a07739.html#a09f9f27ecbc273b25e5941966a4fa925", null ],
+    [ "Abort", "d2/dc4/a07739.html#a07f5520ab61cdfd4eadc5d0815067135", null ],
+    [ "Execute", "d2/dc4/a07739.html#a444aceb1c29c951271bab5186a7f3064", null ],
+    [ "m_ArenaType", "d2/dc4/a07739.html#a1b7d1161d46578606396efd515ab1739", null ],
+    [ "m_BgInstanceGUID", "d2/dc4/a07739.html#ad9adc44cc1cde3b0b820740852bdb3ce", null ],
+    [ "m_BgTypeId", "d2/dc4/a07739.html#a608c24288f24bc4da77124257320c741", null ],
+    [ "m_PlayerGuid", "d2/dc4/a07739.html#a200b4bcd336846df60ec11de8d829d7d", null ],
+    [ "m_RemoveTime", "d2/dc4/a07739.html#a4c78e5a74eaf859db40772008557201f", null ]
 ];

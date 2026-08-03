@@ -1,4 +1,6 @@
 var a24179 =
 [
-    [ "npc_pet_gen_moth", "d1/dce/a24179.html#a527b48528cce28f6b468af170e5ae45f", null ]
+    [ "npc_invis_infernal_casterAI", "d7/d81/a24183.html", "d7/d81/a24183" ],
+    [ "npc_invis_infernal_caster", "d1/dce/a24179.html#a9aed081ef904075830428bbc76f53874", null ],
+    [ "GetAI", "d1/dce/a24179.html#aede0c5cc390ea423169b1cba66d929cd", null ]
 ];

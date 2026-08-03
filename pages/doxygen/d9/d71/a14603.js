@@ -1,6 +1,6 @@
 var a14603 =
 [
-    [ "npc_brewfest_keg_thrower", "d9/d71/a14603.html#a29da1efd21fe6737684607e5b360ea84", null ],
-    [ "CanBeSeen", "d9/d71/a14603.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
-    [ "MoveInLineOfSight", "d9/d71/a14603.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
+    [ "OnRemove", "d9/d71/a14603.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
+    [ "PrepareAuraScript", "d9/d71/a14603.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
+    [ "Register", "d9/d71/a14603.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
 ];

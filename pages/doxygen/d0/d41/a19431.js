@@ -1,6 +1,8 @@
 var a19431 =
 [
-    [ "HandleAfterHit", "d0/d41/a19431.html#a4f9ee2b8830fc812a78154f8b54a0a47", null ],
-    [ "PrepareSpellScript", "d0/d41/a19431.html#a75d2e4bc16170348893654d53c1bb6d7", null ],
-    [ "Register", "d0/d41/a19431.html#a5e33a371d519c2fdc8561f2ac8d9dd82", null ]
+    [ "HandleScript", "d0/d41/a19431.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
+    [ "HandleScript2", "d0/d41/a19431.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
+    [ "Load", "d0/d41/a19431.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
+    [ "PrepareSpellScript", "d0/d41/a19431.html#a2d1dbae570206b358878020879708000", null ],
+    [ "Register", "d0/d41/a19431.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
 ];

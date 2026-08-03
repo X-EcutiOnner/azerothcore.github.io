@@ -1,6 +1,7 @@
 var a26923 =
 [
-    [ "OnApply", "d7/d8c/a26923.html#a50ced6d5a475ccad9429dfbb05130394", null ],
-    [ "PrepareAuraScript", "d7/d8c/a26923.html#abd02e129b1201449d473a66aea77d569", null ],
-    [ "Register", "d7/d8c/a26923.html#a8c09775f642335252c6e548900dc9d3a", null ]
+    [ "HandleHeal", "d7/d8c/a26923.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
+    [ "PrepareSpellScript", "d7/d8c/a26923.html#a9de9260bc1e2582138c58a708e5d899c", null ],
+    [ "Register", "d7/d8c/a26923.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
+    [ "Validate", "d7/d8c/a26923.html#aa300822cf5455404482124a6853fb314", null ]
 ];

@@ -1,6 +1,7 @@
 var a23699 =
 [
-    [ "HandleDummy", "de/d02/a23699.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
-    [ "PrepareSpellScript", "de/d02/a23699.html#af511bcad63ff423bf04a430f56959f40", null ],
-    [ "Register", "de/d02/a23699.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
+    [ "HandleOnApply", "de/d02/a23699.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
+    [ "HandleOnRemove", "de/d02/a23699.html#aed5f87523c58d94c8f98b76c06abb140", null ],
+    [ "PrepareAuraScript", "de/d02/a23699.html#ab32413873bec92540f9e85e8013b7ea2", null ],
+    [ "Register", "de/d02/a23699.html#a0653d8688f98822580a3243a0d47c17a", null ]
 ];

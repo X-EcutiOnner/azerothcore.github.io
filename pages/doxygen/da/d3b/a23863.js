@@ -1,5 +1,6 @@
 var a23863 =
 [
-    [ "go_warmaul_prison", "da/d3b/a23863.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
-    [ "OnGossipHello", "da/d3b/a23863.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
+    [ "npc_capernian", "da/d3b/a23863.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "da/d3b/a23863.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "da/d3b/a23863.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

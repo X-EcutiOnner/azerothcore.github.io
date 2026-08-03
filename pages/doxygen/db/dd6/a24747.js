@@ -1,6 +1,7 @@
 var a24747 =
 [
-    [ "PrepareSpellScript", "db/dd6/a24747.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
-    [ "RecalculateDamage", "db/dd6/a24747.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
-    [ "Register", "db/dd6/a24747.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
+    [ "CalculateAmount", "db/dd6/a24747.html#a44c3c1c97f0b87b261614e7eb0ce7d4d", null ],
+    [ "PrepareAuraScript", "db/dd6/a24747.html#aaf070525419cc8af56cd0002bbef2391", null ],
+    [ "Register", "db/dd6/a24747.html#ad37c82f88ebfb8c68aef2e574c0c4dcf", null ],
+    [ "Validate", "db/dd6/a24747.html#a3b8d5d04ec015240d941790bd02598f8", null ]
 ];

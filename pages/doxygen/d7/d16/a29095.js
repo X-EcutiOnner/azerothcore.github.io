@@ -1,7 +1,8 @@
 var a29095 =
 [
-    [ "ID", "d7/d16/a29095.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "d7/d16/a29095.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "d7/d16/a29095.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "d7/d16/a29095.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "ID", "d7/d16/a29095.html#a36958c346c8554d9ab1cfb73ac583818", null ],
+    [ "Model", "d7/d16/a29095.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
+    [ "Origin", "d7/d16/a29095.html#a684c69add50ee545ee606ae456a93336", null ],
+    [ "OriginFacing", "d7/d16/a29095.html#a460723250353c7720cd87677991283cf", null ],
+    [ "SoundID", "d7/d16/a29095.html#aa56be05c7ab4015738e049d75ff365c6", null ]
 ];

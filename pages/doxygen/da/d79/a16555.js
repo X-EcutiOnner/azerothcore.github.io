@@ -1,7 +1,6 @@
 var a16555 =
 [
-    [ "HandleScriptEffect", "da/d79/a16555.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "da/d79/a16555.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "da/d79/a16555.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "da/d79/a16555.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "boss_general_zarithrianAI", "df/d68/a16559.html", "df/d68/a16559" ],
+    [ "boss_general_zarithrian", "da/d79/a16555.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
+    [ "GetAI", "da/d79/a16555.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
 ];

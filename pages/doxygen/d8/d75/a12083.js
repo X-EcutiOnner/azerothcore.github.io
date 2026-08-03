@@ -1,8 +1,6 @@
 var a12083 =
 [
-    [ "CreatureTextId", "d8/d75/a12083.html#ae8058e922bafc69b718ca4be1be39688", null ],
-    [ "operator<", "d8/d75/a12083.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
-    [ "entry", "d8/d75/a12083.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
-    [ "textGroup", "d8/d75/a12083.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
-    [ "textId", "d8/d75/a12083.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
+    [ "EffectBase", "d8/d75/a12083.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
+    [ "CheckEffect", "d8/d75/a12083.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
+    [ "ToString", "d8/d75/a12083.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
 ];

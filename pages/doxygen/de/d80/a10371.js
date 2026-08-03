@@ -1,12 +1,6 @@
 var a10371 =
 [
-    [ "RotateMovementGenerator", "de/d80/a10371.html#a89a6559b4380210972e82c6ca6d5a9db", null ],
-    [ "Finalize", "de/d80/a10371.html#afd7588c7877b116cc9626a774b89d584", null ],
-    [ "GetMovementGeneratorType", "de/d80/a10371.html#a20677803edf5d93ceae3bf76ef426a81", null ],
-    [ "Initialize", "de/d80/a10371.html#a18fea8760bb24912af9349a06ff7b596", null ],
-    [ "Reset", "de/d80/a10371.html#a3e177762fcfc11ac47aa820b46b93ed0", null ],
-    [ "Update", "de/d80/a10371.html#a0dc8600e3aa862a81735dfb927232e53", null ],
-    [ "m_direction", "de/d80/a10371.html#a8717e890670d9f4e2ff66c0981d14aa6", null ],
-    [ "m_duration", "de/d80/a10371.html#a2cb8d5fc3d26c24e62c7373f1ce49b13", null ],
-    [ "m_maxDuration", "de/d80/a10371.html#a7cf10886bdd50ccbc5900b9229958e01", null ]
+    [ "IsNeutralOrFriendlyToTeam", "de/d80/a10371.html#aeeea8efaff8fe3f5044a7d5627a89cb6", null ],
+    [ "safeLocId", "de/d80/a10371.html#a4f6003cc76b70c83fbb8301cc9d5a7ad", null ],
+    [ "teamId", "de/d80/a10371.html#a287b04900d70f8ff8c6f6542edbd40a6", null ]
 ];

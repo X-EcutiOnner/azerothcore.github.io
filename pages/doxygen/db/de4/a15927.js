@@ -1,6 +1,7 @@
 var a15927 =
 [
-    [ "npc_bunthen_plainswind", "db/de4/a15927.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "db/de4/a15927.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "db/de4/a15927.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "npc_tharnarianAI", "d1/d5c/a15931.html", "d1/d5c/a15931" ],
+    [ "npc_tharnarian", "db/de4/a15927.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
+    [ "GetAI", "db/de4/a15927.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
+    [ "OnQuestReward", "db/de4/a15927.html#a88e82aa6c08fa85491c87d7a558efd9b", null ]
 ];

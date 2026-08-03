@@ -1,6 +1,8 @@
 var a23359 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "de/dd5/a23363.html", "de/dd5/a23363" ],
-    [ "instance_hellfire_ramparts", "d8/d09/a23359.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
-    [ "GetInstanceScript", "d8/d09/a23359.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
+    [ "FilterTargets", "d8/d09/a23359.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
+    [ "HandleDummy", "d8/d09/a23359.html#addb3580259be74126b7de36d1b0a8a97", null ],
+    [ "PrepareSpellScript", "d8/d09/a23359.html#aba82de0886d03037de4564f9908b8c89", null ],
+    [ "Register", "d8/d09/a23359.html#a1650962493d48f5553a9e2771e594f1f", null ],
+    [ "Validate", "d8/d09/a23359.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
 ];

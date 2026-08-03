@@ -1,6 +1,7 @@
 var a25903 =
 [
-    [ "HandleDummy", "df/dce/a25903.html#a9530db7f75987879285d224fb8381c2b", null ],
-    [ "PrepareSpellScript", "df/dce/a25903.html#ad1c1bdb577739f769802127960aaf9e5", null ],
-    [ "Register", "df/dce/a25903.html#ae3a340132caf3f8839631c92015d47a0", null ]
+    [ "CheckProc", "df/dce/a25903.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
+    [ "HandleProc", "df/dce/a25903.html#a27569fe686e50246768fca4a7625fe0d", null ],
+    [ "PrepareAuraScript", "df/dce/a25903.html#a4f4eaa4aeeac9257804957671c16233f", null ],
+    [ "Register", "df/dce/a25903.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
 ];

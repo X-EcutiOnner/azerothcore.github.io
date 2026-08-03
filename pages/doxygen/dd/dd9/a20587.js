@@ -1,9 +1,7 @@
 var a20587 =
 [
-    [ "npc_ulduar_dark_rune_sentinel", "dd/dd9/a20587.html#aa618a5c21a3f8c8ad5fa9b1dbd0ad267", null ],
-    [ "CanAIAttack", "dd/dd9/a20587.html#a6549068c5035af4e9ed8f67d38c8b23f", null ],
-    [ "Reset", "dd/dd9/a20587.html#ab5401b3309fffcaebbcbc6b665ab77a1", null ],
-    [ "UpdateAI", "dd/dd9/a20587.html#ae0c37055a213f91a46b68d7286ef3867", null ],
-    [ "timer1", "dd/dd9/a20587.html#a836d5ed8691a08303622389475380eae", null ],
-    [ "timer2", "dd/dd9/a20587.html#aa1985f0abdfa41a0fb9568e30048f24b", null ]
+    [ "FilterTargetsInitial", "dd/dd9/a20587.html#a2477349cffb8da02936545ba0bd03d0f", null ],
+    [ "Load", "dd/dd9/a20587.html#a4606d10a2699e3fb5290cefdc0876505", null ],
+    [ "PrepareSpellScript", "dd/dd9/a20587.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
+    [ "Register", "dd/dd9/a20587.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
 ];

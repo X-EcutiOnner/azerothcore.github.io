@@ -1,8 +1,26 @@
 var a08399 =
 [
-    [ "bounding_radius", "d4/d5f/a08399.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
-    [ "combat_reach", "d4/d5f/a08399.html#ac271edb10093db19e4df1396053f820d", null ],
-    [ "gender", "d4/d5f/a08399.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
-    [ "is_trigger", "d4/d5f/a08399.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
-    [ "modelid_other_gender", "d4/d5f/a08399.html#a222b3c513a64b385954ea549e67f4255", null ]
+    [ "Corpse", "d4/d5f/a08399.html#a2f7783ce9a9be85c3212fe86a349766d", null ],
+    [ "~Corpse", "d4/d5f/a08399.html#a38729445517f20d2427c115364da045f", null ],
+    [ "AddToWorld", "d4/d5f/a08399.html#a8c5111652979636e59e655eedf47f978", null ],
+    [ "BuildValuesUpdate", "d4/d5f/a08399.html#ab30d247f740518529f51dc8bccdd8a75", null ],
+    [ "Create", "d4/d5f/a08399.html#a34e2fc9d1f64dedd9da4428b532f145c", null ],
+    [ "Create", "d4/d5f/a08399.html#a0f709c964269b438fcc2562868e72834", null ],
+    [ "DeleteFromDB", "d4/d5f/a08399.html#af1d47fcea8651554eb239bb7d9816491", null ],
+    [ "DeleteFromDB", "d4/d5f/a08399.html#a0797893bed1654fac3a6bd7a0cbd7225", null ],
+    [ "GetCellCoord", "d4/d5f/a08399.html#a9345be6ba96317ba7efc9ef1bbbf9b44", null ],
+    [ "GetGhostTime", "d4/d5f/a08399.html#a92e3fd5bebe85204829e5ff97bd3c44f", null ],
+    [ "GetOwnerGUID", "d4/d5f/a08399.html#a50a75a8cf344fdb395d456d5cc947489", null ],
+    [ "GetType", "d4/d5f/a08399.html#ade09571ad69b115ad968e11fd85c480c", null ],
+    [ "IsExpired", "d4/d5f/a08399.html#a025404f6d3fcd7392960b48d636236d4", null ],
+    [ "LoadCorpseFromDB", "d4/d5f/a08399.html#ab2a0905d1f24692065227e7bbfe4e5c4", null ],
+    [ "RemoveFromWorld", "d4/d5f/a08399.html#a659f796ae11a5872226a6aa64323be59", null ],
+    [ "ResetGhostTime", "d4/d5f/a08399.html#a28d222b38b604d2ecc566ef78b4eb8f9", null ],
+    [ "SaveToDB", "d4/d5f/a08399.html#a10bff6f7d0e2597ef9db67aafd8249ea", null ],
+    [ "SetCellCoord", "d4/d5f/a08399.html#abc0a2bc92c1344f9af6b53e8ecdf70f1", null ],
+    [ "_cellCoord", "d4/d5f/a08399.html#a0196d9ba2d908262a65ff8fa8f34b76b", null ],
+    [ "loot", "d4/d5f/a08399.html#a7f839a667b4a10014760a0f4451298b1", null ],
+    [ "lootRecipient", "d4/d5f/a08399.html#a57a9b6a244d82265bd625bb465e6cc9d", null ],
+    [ "m_time", "d4/d5f/a08399.html#a97122518c52f502e7c38753805d76472", null ],
+    [ "m_type", "d4/d5f/a08399.html#a6017c84645e7e633871c92786ed25838", null ]
 ];

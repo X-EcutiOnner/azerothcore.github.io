@@ -1,10 +1,13 @@
 var a19575 =
 [
-    [ "npc_power_spark", "d9/dc4/a19575.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
-    [ "DamageTaken", "d9/dc4/a19575.html#afe33d511823666929232bfd0179ee72a", null ],
-    [ "DoAction", "d9/dc4/a19575.html#ab99a859ee718d49ce59171e7e7159abc", null ],
-    [ "UpdateAI", "d9/dc4/a19575.html#ab36e75c87aa262a57be1594289284730", null ],
-    [ "_checkTimer", "d9/dc4/a19575.html#ae63f0f359037363b840fe51a797969b5", null ],
-    [ "_instance", "d9/dc4/a19575.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
-    [ "_moveTimer", "d9/dc4/a19575.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
+    [ "boss_loathebAI", "d9/dc4/a19575.html#a60256114947b0e9c01f5308108485935", null ],
+    [ "IsInRoom", "d9/dc4/a19575.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
+    [ "JustDied", "d9/dc4/a19575.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
+    [ "JustEngagedWith", "d9/dc4/a19575.html#a1abcf157e05eeb634f8e857a2de35538", null ],
+    [ "JustSummoned", "d9/dc4/a19575.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
+    [ "KilledUnit", "d9/dc4/a19575.html#a4dac78bba24069050dd9df729dd58b45", null ],
+    [ "Reset", "d9/dc4/a19575.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
+    [ "SummonedCreatureDies", "d9/dc4/a19575.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
+    [ "UpdateAI", "d9/dc4/a19575.html#ab009008f892493b822e5ea5491c58525", null ],
+    [ "doomCounter", "d9/dc4/a19575.html#aed5c631ede2eea27451a74ae21221325", null ]
 ];

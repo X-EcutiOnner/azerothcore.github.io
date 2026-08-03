@@ -1,7 +1,13 @@
 var a14927 =
 [
-    [ "HandleEffectApply", "df/d52/a14927.html#a404f2134734e1d21201033b3f26e611e", null ],
-    [ "HandleEffectPeriodic", "df/d52/a14927.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
-    [ "PrepareAuraScript", "df/d52/a14927.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
-    [ "Register", "df/d52/a14927.html#ad239472c15ca0c73b053d112f538ecff", null ]
+    [ "boss_headless_horseman_head", "df/d52/a14927.html#a12343a1bb6e30681b0c82ba649bd5b8a", null ],
+    [ "DamageTaken", "df/d52/a14927.html#a73e75350937736ad7cfe725b785b3768", null ],
+    [ "GetOwner", "df/d52/a14927.html#ab72d1f1891401754ffe032ed0534882d", null ],
+    [ "Reset", "df/d52/a14927.html#a367e8b82d6d3bb08e7106c71295610f9", null ],
+    [ "SpellHit", "df/d52/a14927.html#adcd9ce9755f8dbc1391b4d2b3f5e1669", null ],
+    [ "SpellHitTarget", "df/d52/a14927.html#a0d73ba0831118d135137953f91e7c5d7", null ],
+    [ "UpdateAI", "df/d52/a14927.html#a300dec039465535914bf6879423a0962", null ],
+    [ "handled", "df/d52/a14927.html#a72c0d0c8c534fa8fdc1370203c30c3a3", null ],
+    [ "pct", "df/d52/a14927.html#a9752326bac7ecbcdfde5b12f55b20be2", null ],
+    [ "timer", "df/d52/a14927.html#ae7c669e65659459fd83f91b5e9ed1347", null ]
 ];

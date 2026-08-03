@@ -1,8 +1,17 @@
 var a11731 =
 [
-    [ "SkillExtraItemEntry", "d9/d53/a11731.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
-    [ "SkillExtraItemEntry", "d9/d53/a11731.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
-    [ "additionalCreateChance", "d9/d53/a11731.html#a299d886468e9caf22f9d6ce80a64c247", null ],
-    [ "newMaxOrEntry", "d9/d53/a11731.html#adfda967d36154b039495f0b289a5c9d1", null ],
-    [ "requiredSpecialization", "d9/d53/a11731.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
+    [ "WorldPacket", "d9/d53/a11731.html#a6329945c46586b75f41f4f3b0410a046", null ],
+    [ "WorldPacket", "d9/d53/a11731.html#a121222c627cfce905891be1611705a1a", null ],
+    [ "WorldPacket", "d9/d53/a11731.html#af406fe2f357035990fd5eccf37f3fb93", null ],
+    [ "WorldPacket", "d9/d53/a11731.html#a2880e36e172096407778fcbbdfe917bc", null ],
+    [ "WorldPacket", "d9/d53/a11731.html#a251580581b403cc113aa743c0196ceea", null ],
+    [ "WorldPacket", "d9/d53/a11731.html#a224a2ad18da5d8dd7a7bcbb887870243", null ],
+    [ "GetOpcode", "d9/d53/a11731.html#a666547feae3b83bfbba424a541287239", null ],
+    [ "GetReceivedTime", "d9/d53/a11731.html#a467aa36509adcb07f51bc8af24137c3e", null ],
+    [ "Initialize", "d9/d53/a11731.html#a6b7d58fb0230383629fa888d3aa9dbd8", null ],
+    [ "operator=", "d9/d53/a11731.html#ad44064a3c2c73f6289a9db539b408f50", null ],
+    [ "operator=", "d9/d53/a11731.html#aa1196a05e7b338543b3b94188e59721f", null ],
+    [ "SetOpcode", "d9/d53/a11731.html#acb55a3f9540c39bf88300473c29605ed", null ],
+    [ "m_opcode", "d9/d53/a11731.html#a4ff77d8a27744f07bbab70cdc4a3ef91", null ],
+    [ "m_receivedTime", "d9/d53/a11731.html#abb78776ad3a0f19e5e3d226666612b49", null ]
 ];

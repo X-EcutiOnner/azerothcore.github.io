@@ -1,13 +1,11 @@
 var a20231 =
 [
-    [ "boss_freya_summons", "d5/d6a/a20231.html#a1d53e3d32307347532f96ca2b27734cb", null ],
-    [ "DoAction", "d5/d6a/a20231.html#aa8e03a2aced95f104e6714a469bf2de3", null ],
-    [ "JustDied", "d5/d6a/a20231.html#a15d9b71a31a840917b449c0094049e00", null ],
-    [ "JustEngagedWith", "d5/d6a/a20231.html#a0bf2a4bc2e6f62cdec5c15d04fff2f11", null ],
-    [ "Reset", "d5/d6a/a20231.html#af7e842a7bc2be806816a942026670d71", null ],
-    [ "UpdateAI", "d5/d6a/a20231.html#abc3634dce208478e82d3c9bb19d222df", null ],
-    [ "_hasDied", "d5/d6a/a20231.html#a145f46cfda95e50fa30c98581a30de9e", null ],
-    [ "_isTrio", "d5/d6a/a20231.html#a642a937b7d4082b5f9f0fbe4df352aba", null ],
-    [ "_stackCount", "d5/d6a/a20231.html#af1c54be4cab9c465ae9bf04427050d7a", null ],
-    [ "events", "d5/d6a/a20231.html#a3fc5f9be80cc03bed2a83cdacfc5d7ec", null ]
+    [ "boss_flame_leviathan_defense_turret", "d5/d6a/a20231.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
+    [ "CanAIAttack", "d5/d6a/a20231.html#a17020dc7facabb0cacac3209277a73f7", null ],
+    [ "DamageTaken", "d5/d6a/a20231.html#ac15aadce1954d827b7e833ed761faf10", null ],
+    [ "JustDied", "d5/d6a/a20231.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
+    [ "KilledUnit", "d5/d6a/a20231.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
+    [ "UpdateAI", "d5/d6a/a20231.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
+    [ "_instance", "d5/d6a/a20231.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
+    [ "_setHealth", "d5/d6a/a20231.html#a413187aa01c119d088846a216f093baa", null ]
 ];

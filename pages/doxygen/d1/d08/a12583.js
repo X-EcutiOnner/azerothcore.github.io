@@ -1,22 +1,11 @@
 var a12583 =
 [
-    [ "npc_grimstone", "d1/d08/a12583.html#a03d41532eb767f0e09982ede11f0fb80", null ],
-    [ "HandleGameObject", "d1/d08/a12583.html#a66240c764417e9d5750e3dcce8167384", null ],
-    [ "JustSummoned", "d1/d08/a12583.html#aea0c13489f4f17008b44d054b9a1cf3a", null ],
-    [ "Reset", "d1/d08/a12583.html#a4d1bc515c8302157e61f8fd4ad17b701", null ],
-    [ "SpawnWave", "d1/d08/a12583.html#a85b795cfd49343d300cdd1b1f028e141", null ],
-    [ "SummonBoss", "d1/d08/a12583.html#a5129e8d6f753fa0dc2f387bce2a76c24", null ],
-    [ "SummonedCreatureDies", "d1/d08/a12583.html#a0a55b772ca85554507ed36ba620c14c4", null ],
-    [ "UpdateEscortAI", "d1/d08/a12583.html#a848b405425ef4bb3dc20a4ec4ea081af", null ],
-    [ "updateReset", "d1/d08/a12583.html#afe73a3b9a9e7c9e24ea5ba09c23c05fa", null ],
-    [ "WaypointReached", "d1/d08/a12583.html#a4d381cecdada9577012e2c7914b7c5f9", null ],
-    [ "WaypointReached", "d1/d08/a12583.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "BossSpawnId", "d1/d08/a12583.html#a145a7bbecf4e061f44355948367f33bc", null ],
-    [ "eventPhase", "d1/d08/a12583.html#a0cb794b7343a42cc55c1be563acd4e52", null ],
-    [ "eventTimer", "d1/d08/a12583.html#aa246b08433ad44365e2bfe47a9025001", null ],
-    [ "instance", "d1/d08/a12583.html#a119ff38285b880d33266a7340ff1fe53", null ],
-    [ "MobSpawnId", "d1/d08/a12583.html#a5a54226cc0ada2095dccf93b7a18bae3", null ],
-    [ "resetTimer", "d1/d08/a12583.html#a1995b112b7e0735d0ab2d367150f05d3", null ],
-    [ "summons", "d1/d08/a12583.html#a7ed3101f9d8e81d819a7d73581952508", null ],
-    [ "theldrenEvent", "d1/d08/a12583.html#a720b408aa7e1a033c7ff28e65a505eea", null ]
+    [ "quest_commandscript", "d1/d08/a12583.html#a98804583ded14bc50d252475289dda4f", null ],
+    [ "GetCommands", "d1/d08/a12583.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
+    [ "HandleQuestAdd", "d1/d08/a12583.html#acd1410f224a1d69bba1321999ebf25bc", null ],
+    [ "HandleQuestComplete", "d1/d08/a12583.html#a044c30fdaedd07060284bd37fd2e226c", null ],
+    [ "HandleQuestRemove", "d1/d08/a12583.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
+    [ "HandleQuestReward", "d1/d08/a12583.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ],
+    [ "HandleQuestStatus", "d1/d08/a12583.html#adbba92d0cf47879e94710c971fd994ff", null ],
+    [ "QuestStatusToString", "d1/d08/a12583.html#a179c2aec0a6bf010a83841ef089134ad", null ]
 ];

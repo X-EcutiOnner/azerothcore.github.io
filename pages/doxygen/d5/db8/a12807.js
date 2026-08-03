@@ -1,7 +1,9 @@
 var a12807 =
 [
-    [ "HandleScript", "d5/db8/a12807.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
-    [ "PrepareSpellScript", "d5/db8/a12807.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
-    [ "Register", "d5/db8/a12807.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
-    [ "Validate", "d5/db8/a12807.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
+    [ "boss_overlord_wyrmthalak", "d5/db8/a12807.html#a412ced7f6cbb2c02b174824b57132ab3", null ],
+    [ "JustDied", "d5/db8/a12807.html#a66f2bda1b2352c42a15be505f6d610c6", null ],
+    [ "JustEngagedWith", "d5/db8/a12807.html#a4673b2e6c3b7143ab088b699c7f41d8a", null ],
+    [ "Reset", "d5/db8/a12807.html#a8c4bff3d35d4ddb5c6c8994cb4ee9d67", null ],
+    [ "UpdateAI", "d5/db8/a12807.html#afcca6360598b40df4c35bff752eee3f4", null ],
+    [ "_summoned", "d5/db8/a12807.html#a4ccbe2c20ef1303141005a79ec418705", null ]
 ];

@@ -1,7 +1,6 @@
 var a18531 =
 [
-    [ "StartMovementEvent", "d6/d29/a18531.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
-    [ "Execute", "d6/d29/a18531.html#af1a043d953bcffe9341292e85cae2f55", null ],
-    [ "_owner", "d6/d29/a18531.html#ac2f4166af128a161c471b243144856ba", null ],
-    [ "_summoner", "d6/d29/a18531.html#afe1f7bcb3569758bc075380a24527067", null ]
+    [ "FilterTargets", "d6/d29/a18531.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
+    [ "PrepareSpellScript", "d6/d29/a18531.html#a24466e7a04722cc7559b086f89d2edc8", null ],
+    [ "Register", "d6/d29/a18531.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
 ];

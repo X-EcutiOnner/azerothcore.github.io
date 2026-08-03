@@ -1,9 +1,10 @@
 var a08335 =
 [
-    [ "LFGGroupScript", "d6/d21/a08335.html#adb7730ba67910121a255a6da535d2fc2", null ],
-    [ "OnAddMember", "d6/d21/a08335.html#a43c29f1c4b0f78b203a8798e34e9bc4c", null ],
-    [ "OnChangeLeader", "d6/d21/a08335.html#a3616c537eb39fe130c8fb24d93a0ead9", null ],
-    [ "OnDisband", "d6/d21/a08335.html#a7d8d28f1919e407ed93474d970733d86", null ],
-    [ "OnInviteMember", "d6/d21/a08335.html#a25add922fa708babe08c3bdaaa0c0d92", null ],
-    [ "OnRemoveMember", "d6/d21/a08335.html#a1385adec817221a83653a6fa03e57858", null ]
+    [ "LfgUpdateData", "d6/d21/a08335.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
+    [ "LfgUpdateData", "d6/d21/a08335.html#a656873ea6ef9b3f23791827617a000c6", null ],
+    [ "LfgUpdateData", "d6/d21/a08335.html#a248682a712dd43b8c4601830aae4ddec", null ],
+    [ "comment", "d6/d21/a08335.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
+    [ "dungeons", "d6/d21/a08335.html#a0e9b49693248b438dbc508e230a870db", null ],
+    [ "state", "d6/d21/a08335.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
+    [ "updateType", "d6/d21/a08335.html#a146e43854f66bf57f703d7089a24481e", null ]
 ];

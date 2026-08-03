@@ -1,6 +1,7 @@
 var a11567 =
 [
-    [ "PushQuestToParty", "dd/d35/a11567.html#a3c49c83653ef26f2dcaf5c73c29066e0", null ],
-    [ "Read", "dd/d35/a11567.html#aacb4c91a7fa1cd2c7db6dd9b7825e70c", null ],
-    [ "QuestId", "dd/d35/a11567.html#a0d30347159622093b52d0936d93a63bf", null ]
+    [ "PetDismissSound", "dd/d35/a11567.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
+    [ "Write", "dd/d35/a11567.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
+    [ "ModelId", "dd/d35/a11567.html#aba65e6547adde55978ce7b2abb779d51", null ],
+    [ "ModelPosition", "dd/d35/a11567.html#a06e6bff9d70996ba890c31ea74363dad", null ]
 ];

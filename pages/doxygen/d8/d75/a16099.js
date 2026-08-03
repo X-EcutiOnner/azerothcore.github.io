@@ -1,7 +1,6 @@
 var a16099 =
 [
-    [ "npc_lakota_windsongAI", "d7/dc7/a16103.html", "d7/dc7/a16103" ],
-    [ "npc_lakota_windsong", "d8/d75/a16099.html#a08a585ac36189ec23354c7acb26d223d", null ],
-    [ "GetAI", "d8/d75/a16099.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
-    [ "OnQuestAccept", "d8/d75/a16099.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
+    [ "go_wind_stoneAI", "d7/dc7/a16103.html", "d7/dc7/a16103" ],
+    [ "go_wind_stone", "d8/d75/a16099.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
+    [ "GetAI", "d8/d75/a16099.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
 ];

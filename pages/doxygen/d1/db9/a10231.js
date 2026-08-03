@@ -1,9 +1,8 @@
 var a10231 =
 [
-    [ "MapUpdateRequest", "d1/db9/a10231.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "d1/db9/a10231.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "d1/db9/a10231.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "d1/db9/a10231.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "d1/db9/a10231.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "d1/db9/a10231.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "BoundaryIntersectBoundary", "d1/db9/a10231.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
+    [ "~BoundaryIntersectBoundary", "d1/db9/a10231.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
+    [ "IsWithinBoundaryArea", "d1/db9/a10231.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
+    [ "_b1", "d1/db9/a10231.html#ab0239437fa92e39d144bf3856eb347c7", null ],
+    [ "_b2", "d1/db9/a10231.html#a41e100c17db99990981293399660824c", null ]
 ];

@@ -1,7 +1,7 @@
 var a19463 =
 [
-    [ "OnPeriodic", "d6/d18/a19463.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
-    [ "PrepareAuraScript", "d6/d18/a19463.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
-    [ "Register", "d6/d18/a19463.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
-    [ "Validate", "d6/d18/a19463.html#a54cfed486827216817adb740efa6646e", null ]
+    [ "OnApply", "d6/d18/a19463.html#a72a01dea703436b2a220a9976da60fa6", null ],
+    [ "PrepareAuraScript", "d6/d18/a19463.html#adb17425258d4fb2c0c464236e15f32d7", null ],
+    [ "Register", "d6/d18/a19463.html#af026c126029c68ed8b7c6c1886720e4c", null ],
+    [ "Validate", "d6/d18/a19463.html#a5674396828adf4e80102ed2277f1e08a", null ]
 ];

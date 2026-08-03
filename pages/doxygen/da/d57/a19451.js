@@ -1,15 +1,12 @@
 var a19451 =
 [
-    [ "boss_maexxnaAI", "da/d57/a19451.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
-    [ "DoCastWebWrap", "da/d57/a19451.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
-    [ "IsInRoom", "da/d57/a19451.html#a957bd38232c020611fc24dd8a6e55640", null ],
-    [ "JustDied", "da/d57/a19451.html#a4f0121aedeff9d44b28e888f5f3d0382", null ],
-    [ "JustEngagedWith", "da/d57/a19451.html#a9974fc771b3663878964aeb20914fe43", null ],
-    [ "JustSummoned", "da/d57/a19451.html#ab45b74b3067b42089fee804844ea41dd", null ],
-    [ "KilledUnit", "da/d57/a19451.html#a11cda2b905ef2381c317a01e4163be00", null ],
-    [ "Reset", "da/d57/a19451.html#a78385da6845ce8e3075616c24696d0cc", null ],
-    [ "UpdateAI", "da/d57/a19451.html#a6f0453babfa84764467970369894eb97", null ],
-    [ "events", "da/d57/a19451.html#a6ddb73eeb18560a08e72dd6ccc5d0c83", null ],
-    [ "summons", "da/d57/a19451.html#a7ea3de40dfd638db7e34c523a0461335", null ],
-    [ "wraps", "da/d57/a19451.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
+    [ "boss_faerlinaAI", "da/d57/a19451.html#a3a97178599b9053c23a079ed1a2ed163", null ],
+    [ "JustDied", "da/d57/a19451.html#a7ac2e510568a9dad710beaad42db0544", null ],
+    [ "JustEngagedWith", "da/d57/a19451.html#a830dfa4fed62b4588ea8866174d3653a", null ],
+    [ "KilledUnit", "da/d57/a19451.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
+    [ "MoveInLineOfSight", "da/d57/a19451.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
+    [ "Reset", "da/d57/a19451.html#acee81492b9b751df587a3a2cdd691ab3", null ],
+    [ "SpellHit", "da/d57/a19451.html#aa4fac163e31dcd9353238f993259d5ec", null ],
+    [ "SummonHelpers", "da/d57/a19451.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
+    [ "_introDone", "da/d57/a19451.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
 ];

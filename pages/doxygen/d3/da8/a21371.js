@@ -1,8 +1,11 @@
 var a21371 =
 [
-    [ "npc_mootoo_the_youngerAI", "d3/da8/a21371.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "d3/da8/a21371.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "d3/da8/a21371.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "d3/da8/a21371.html#ac758a992ed0d62a272930c84d617b348", null ],
-    [ "WaypointReached", "d3/da8/a21371.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "boss_archavonAI", "d3/da8/a21371.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
+    [ "AttackStart", "d3/da8/a21371.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
+    [ "JustDied", "d3/da8/a21371.html#a3974065a80dedf3e673452e7f6f8e449", null ],
+    [ "JustEngagedWith", "d3/da8/a21371.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
+    [ "Reset", "d3/da8/a21371.html#a7d101626f39947dd54b574491a5e6d72", null ],
+    [ "UpdateAI", "d3/da8/a21371.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
+    [ "events", "d3/da8/a21371.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
+    [ "pInstance", "d3/da8/a21371.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
 ];

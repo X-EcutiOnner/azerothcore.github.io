@@ -1,6 +1,5 @@
 var a24299 =
 [
-    [ "CheckProc", "d5/dda/a24299.html#ace3662e092d02de975929741c470230d", null ],
-    [ "PrepareAuraScript", "d5/dda/a24299.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
-    [ "Register", "d5/dda/a24299.html#ae6432106538261827c3eac3dde1450f2", null ]
+    [ "npc_shattrath_daily_quest", "d5/dda/a24299.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "d5/dda/a24299.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

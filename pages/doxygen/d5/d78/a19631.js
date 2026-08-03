@@ -1,6 +1,10 @@
 var a19631 =
 [
-    [ "ChargeRifts", "d5/d78/a19631.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "d5/d78/a19631.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "d5/d78/a19631.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "boss_razuvious_minionAI", "d5/d78/a19631.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
+    [ "DoAction", "d5/d78/a19631.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
+    [ "JustEngagedWith", "d5/d78/a19631.html#ada2e7a5ac1f129572a0689afce49d310", null ],
+    [ "KilledUnit", "d5/d78/a19631.html#ab1a6f582098c9d1218551af0aae1815d", null ],
+    [ "Reset", "d5/d78/a19631.html#a170de8517a03a0e78b1e67652869fd9a", null ],
+    [ "ScheduleAttackDummy", "d5/d78/a19631.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
+    [ "UpdateAI", "d5/d78/a19631.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
 ];

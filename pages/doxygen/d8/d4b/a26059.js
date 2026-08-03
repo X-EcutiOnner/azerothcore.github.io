@@ -1,8 +1,8 @@
 var a26059 =
 [
-    [ "AfterApply", "d8/d4b/a26059.html#a972d3ec2a26bbf93e47f696f44ff22b0", null ],
-    [ "AfterRemove", "d8/d4b/a26059.html#a29d4dbe7d36d256cf89fdde1bbabac85", null ],
-    [ "PrepareAuraScript", "d8/d4b/a26059.html#a1e44672c1f47dbd8e57f7653d905e3e6", null ],
-    [ "Register", "d8/d4b/a26059.html#a293ea418e290d96bbcaaed24cad663b0", null ],
-    [ "Validate", "d8/d4b/a26059.html#aa67afc85c142006efad986859f14941c", null ]
+    [ "OnRemove", "d8/d4b/a26059.html#a645e869079e711a87f1a957b42a35e98", null ],
+    [ "OnStackChange", "d8/d4b/a26059.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
+    [ "PrepareAuraScript", "d8/d4b/a26059.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
+    [ "Register", "d8/d4b/a26059.html#ac86068a892255e38244c487a7456cd9f", null ],
+    [ "Validate", "d8/d4b/a26059.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
 ];

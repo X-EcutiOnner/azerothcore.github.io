@@ -1,11 +1,12 @@
 var a16343 =
 [
-    [ "spell_hadronox_summon_periodic_aura", "de/d77/a16343.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
-    [ "HandlePeriodic", "de/d77/a16343.html#a048695baf71d307e5aaa00e54586c9f7", null ],
-    [ "OnApply", "de/d77/a16343.html#a4466547bc1a5259a33354f2008d6cce7", null ],
-    [ "PrepareAuraScript", "de/d77/a16343.html#a4205560054e5baed86aecba3b98fc202", null ],
-    [ "Register", "de/d77/a16343.html#a09efdcddaed4af2833139ca20ef94376", null ],
-    [ "Validate", "de/d77/a16343.html#a20827683249c17625242e205bb51f9e8", null ],
-    [ "_delay", "de/d77/a16343.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
-    [ "_spellEntry", "de/d77/a16343.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
+    [ "npc_twilight_volunteer", "de/d77/a16343.html#a3062041fcabf972e0a3d4753363c37b3", null ],
+    [ "AttackStart", "de/d77/a16343.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
+    [ "DoAction", "de/d77/a16343.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
+    [ "EnterEvadeMode", "de/d77/a16343.html#abd88e6fe0565babb92ccae17df0421d6", null ],
+    [ "MovementInform", "de/d77/a16343.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
+    [ "UpdateAI", "de/d77/a16343.html#a93288a45982b172c201e2442a4c91114", null ],
+    [ "events", "de/d77/a16343.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
+    [ "isSacraficeTarget", "de/d77/a16343.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
+    [ "pInstance", "de/d77/a16343.html#ad58453e078520fa23238a96115e5f38f", null ]
 ];

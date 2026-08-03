@@ -1,8 +1,6 @@
 var a13795 =
 [
-    [ "CheckCast", "d1/d3b/a13795.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
-    [ "HandleScriptEffect", "d1/d3b/a13795.html#a22f630cb9df4b435a5624f2865915753", null ],
-    [ "PrepareSpellScript", "d1/d3b/a13795.html#a6e6b27ade1cac743946a976dbf343066", null ],
-    [ "Register", "d1/d3b/a13795.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
-    [ "Validate", "d1/d3b/a13795.html#a85779288126b21f516f2feb0238ee65b", null ]
+    [ "CastArmageddon", "d1/d3b/a13795.html#a2e90929b63e6151252aa01a55dbd801f", null ],
+    [ "Execute", "d1/d3b/a13795.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
+    [ "_caster", "d1/d3b/a13795.html#a1e70887099a7a47b7c26517d4363ad93", null ]
 ];

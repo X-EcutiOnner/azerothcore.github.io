@@ -1,5 +1,9 @@
 var a22739 =
 [
-    [ "npc_ashtongue_sorcerer", "d1/dcc/a22739.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
-    [ "MovementInform", "d1/dcc/a22739.html#a56fa93f83e8a536b13667c8f780961b7", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "d1/dcc/a22739.html#ada5f19c96bfe623b110389ede032ef53", null ],
+    [ "GetData", "d1/dcc/a22739.html#ad876ebd581c470f5a3075129076bd1fb", null ],
+    [ "Initialize", "d1/dcc/a22739.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
+    [ "OnCreatureCreate", "d1/dcc/a22739.html#a118b4a7a7c872327ec2868c5b0417636", null ],
+    [ "OnUnitDeath", "d1/dcc/a22739.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
+    [ "_ritualistsAliveCount", "d1/dcc/a22739.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
 ];

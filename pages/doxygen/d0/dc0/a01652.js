@@ -1,6 +1,6 @@
 var a01652 =
 [
-    [ "BattlegroundRV", "d8/d39/a07842.html", "d8/d39/a07842" ],
+    [ "BattlegroundRV", "de/dbe/a07847.html", "de/dbe/a07847" ],
     [ "BattlegroundRVData", "d0/dc0/a01652.html#adfa778416d2a81f8fea9a8c211baf34c", [
       [ "BG_RV_STATE_OPEN_FENCES", "d0/dc0/a01652.html#adfa778416d2a81f8fea9a8c211baf34caecbfbc0c2c667f1549323a8f96e601b5", null ],
       [ "BG_RV_STATE_SWITCH_PILLARS", "d0/dc0/a01652.html#adfa778416d2a81f8fea9a8c211baf34ca90f1ce9eb7e79af7a348559d2d731a15", null ],

@@ -1,8 +1,11 @@
 var a05363 =
 [
-    [ "GModelRayCallback", "d3/dea/a05363.html#a39bc53ae3bf18800ea215a5a54568606", null ],
-    [ "operator()", "d3/dea/a05363.html#af0072bed861fb89a63c37fd72482ed42", null ],
-    [ "hit", "d3/dea/a05363.html#ad8861bd8f8c15ff9955c62f5cb1e13bf", null ],
-    [ "triangles", "d3/dea/a05363.html#a09ef515a1b16d184071e708ed9245b3d", null ],
-    [ "vertices", "d3/dea/a05363.html#af80815b123c6611f38e3d5b41e501546", null ]
+    [ "material", "d3/dea/a05363.html#a29addcb613bc63a100633e612d1dc2d2", null ],
+    [ "pos_x", "d3/dea/a05363.html#a02e9d8789336d77e34bffa19adbab394", null ],
+    [ "pos_y", "d3/dea/a05363.html#ac3162ce321a1f21e4e6fe35041e49a6a", null ],
+    [ "pos_z", "d3/dea/a05363.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3", null ],
+    [ "xtiles", "d3/dea/a05363.html#a94789843c68d705184e6332ac46bd69d", null ],
+    [ "xverts", "d3/dea/a05363.html#a0548c3fdb216c115a7d3843e4fbc6de3", null ],
+    [ "ytiles", "d3/dea/a05363.html#ac50224cdce231460c78c3e0f077b555d", null ],
+    [ "yverts", "d3/dea/a05363.html#aa9ecb62b53af527b3bd855b8e93ba604", null ]
 ];

@@ -1,6 +1,8 @@
 var a21899 =
 [
-    [ "npc_guardian_pavilionAI", "d1/d0a/a21903.html", "d1/d0a/a21903" ],
-    [ "npc_guardian_pavilion", "da/d98/a21899.html#aecc7e93f2b50351584049f031362e0f0", null ],
-    [ "GetAI", "da/d98/a21899.html#a89e55b3267cd93ae688573678851c7b9", null ]
+    [ "AfterApply", "da/d98/a21899.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "da/d98/a21899.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "da/d98/a21899.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "da/d98/a21899.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "da/d98/a21899.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

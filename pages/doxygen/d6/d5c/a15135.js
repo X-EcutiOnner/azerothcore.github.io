@@ -1,8 +1,10 @@
 var a15135 =
 [
-    [ "hyjalTyrandeAI", "d6/d5c/a15135.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
-    [ "JustDied", "d6/d5c/a15135.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
-    [ "JustEngagedWith", "d6/d5c/a15135.html#a158589b567d22c8f6e0be462bad8299d", null ],
-    [ "Reset", "d6/d5c/a15135.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
-    [ "UpdateAI", "d6/d5c/a15135.html#a9e825f9d87df6227b73eb965488eff8a", null ]
+    [ "boss_anetheron", "d6/d5c/a15135.html#a6c103caa3f137756599a75bff03a6648", null ],
+    [ "DoAction", "d6/d5c/a15135.html#a2fd485de26c820fec5240f9141a09964", null ],
+    [ "JustDied", "d6/d5c/a15135.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
+    [ "JustEngagedWith", "d6/d5c/a15135.html#aa34ac87ad4014fbecb481be7896c577c", null ],
+    [ "JustSummoned", "d6/d5c/a15135.html#af9c156e28c7eca710d8367bd2a99387d", null ],
+    [ "KilledUnit", "d6/d5c/a15135.html#a4471af823278a3664574729bf5c749be", null ],
+    [ "PathEndReached", "d6/d5c/a15135.html#a75ed708e2769a77defa5c9a0b22dcae9", null ]
 ];

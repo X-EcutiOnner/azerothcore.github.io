@@ -1,7 +1,8 @@
 var a18579 =
 [
-    [ "HandleScript", "dd/d67/a18579.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
-    [ "PrepareSpellScript", "dd/d67/a18579.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
-    [ "Register", "dd/d67/a18579.html#ad83d563da98ad189f2198a061b1cd50f", null ],
-    [ "Validate", "dd/d67/a18579.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
+    [ "FilterTargets", "dd/d67/a18579.html#a14e392760361b95578bc95de10cdd8aa", null ],
+    [ "HandleForcedCast", "dd/d67/a18579.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
+    [ "PrepareSpellScript", "dd/d67/a18579.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
+    [ "Register", "dd/d67/a18579.html#ac2105e66f692c6a991ac9190b1901505", null ],
+    [ "Validate", "dd/d67/a18579.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
 ];

@@ -1,7 +1,8 @@
 var a18367 =
 [
-    [ "FrostwyrmLandEvent", "df/d69/a18367.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
-    [ "Execute", "df/d69/a18367.html#a4da77796a223e6233ac6d908f7700623", null ],
-    [ "_dest", "df/d69/a18367.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
-    [ "_owner", "df/d69/a18367.html#a6336050092606ebb27a180abff55dfa2", null ]
+    [ "HandleScript", "df/d69/a18367.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
+    [ "PrepareSpellScript", "df/d69/a18367.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
+    [ "Register", "df/d69/a18367.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
+    [ "SelectTarget", "df/d69/a18367.html#a36d575c6a63e94905bf435bc9d39e588", null ],
+    [ "Validate", "df/d69/a18367.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
 ];

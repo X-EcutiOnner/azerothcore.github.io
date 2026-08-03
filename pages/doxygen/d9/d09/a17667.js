@@ -1,6 +1,6 @@
 var a17667 =
 [
-    [ "HandleScript", "d9/d09/a17667.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
-    [ "PrepareSpellScript", "d9/d09/a17667.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
-    [ "Register", "d9/d09/a17667.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
+    [ "instance_gundrak_InstanceMapScript", "df/d5c/a17671.html", "df/d5c/a17671" ],
+    [ "instance_gundrak", "d9/d09/a17667.html#ad6acbbcd96740a011f2a72a63fb211c3", null ],
+    [ "GetInstanceScript", "d9/d09/a17667.html#a738b4ea54d1e0d7b1db90b9cc3a9c83c", null ]
 ];

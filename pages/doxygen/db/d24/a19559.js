@@ -1,5 +1,7 @@
 var a19559 =
 [
-    [ "npc_living_poison", "db/d24/a19559.html#a277440068846eac71c795880a16475dd", null ],
-    [ "UpdateAI", "db/d24/a19559.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
+    [ "FilterTargets", "db/d24/a19559.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "db/d24/a19559.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "db/d24/a19559.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "db/d24/a19559.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

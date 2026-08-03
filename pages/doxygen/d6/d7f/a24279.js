@@ -1,6 +1,6 @@
 var a24279 =
 [
-    [ "PrepareSpellScript", "d6/d7f/a24279.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
-    [ "RecalculateDamage", "d6/d7f/a24279.html#ab6a781160532d7cbb3bb3304eb412514", null ],
-    [ "Register", "d6/d7f/a24279.html#a82395d00066e90abc58103b18a5ef4dc", null ]
+    [ "PrepareSpellScript", "d6/d7f/a24279.html#aa858fff409e5c75d865c91cb5fbef679", null ],
+    [ "Register", "d6/d7f/a24279.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
+    [ "SetDest", "d6/d7f/a24279.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
 ];

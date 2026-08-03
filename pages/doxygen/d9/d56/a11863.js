@@ -1,16 +1,11 @@
 var a11863 =
 [
-    [ "AttributesMask", "d9/d56/a11863.html#a7cc9dfa91e034f5052ebd3bf8eaea42a", null ],
-    [ "Chance", "d9/d56/a11863.html#aea5ca609c75ea7b314aec8ae0246297e", null ],
-    [ "Charges", "d9/d56/a11863.html#a75f0484dad60eec59b399a188fd9908f", null ],
-    [ "Cooldown", "d9/d56/a11863.html#a4e6185aea35599a3efc2e806145cb1d2", null ],
-    [ "DisableEffectsMask", "d9/d56/a11863.html#adc34c0ba25af2e1b1fc3b0fc7c45c019", null ],
-    [ "HitMask", "d9/d56/a11863.html#a8ac3331576b4eb761157fa3d0d622bea", null ],
-    [ "ProcFlags", "d9/d56/a11863.html#a9e5de790c4f61537397a1ce2bce8a9b0", null ],
-    [ "ProcsPerMinute", "d9/d56/a11863.html#a3815765c08f6b95cae6efb93fa98623b", null ],
-    [ "SchoolMask", "d9/d56/a11863.html#acf72c4a783235770bbff952bdc002324", null ],
-    [ "SpellFamilyMask", "d9/d56/a11863.html#a8688e9282cb78d4f24b310cc2521c22b", null ],
-    [ "SpellFamilyName", "d9/d56/a11863.html#a2cb738b0d4579503fcb9bca7988f7e36", null ],
-    [ "SpellPhaseMask", "d9/d56/a11863.html#ab4c4bfa1493a7a5924d3cd094127f973", null ],
-    [ "SpellTypeMask", "d9/d56/a11863.html#a99e20d3979a532e1ca90ee83edcff3eb", null ]
+    [ "SpellValue", "d9/d56/a11863.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
+    [ "AuraDuration", "d9/d56/a11863.html#af44c190ba8a8636d78f8d271656bdd02", null ],
+    [ "AuraStackAmount", "d9/d56/a11863.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
+    [ "EffectBasePoints", "d9/d56/a11863.html#a4de44adea4dc620f0871215e4d4f611d", null ],
+    [ "ForcedCritResult", "d9/d56/a11863.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
+    [ "MaxAffectedTargets", "d9/d56/a11863.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
+    [ "MiscVal", "d9/d56/a11863.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
+    [ "RadiusMod", "d9/d56/a11863.html#a135bbce8300101411e87a70467dbbd57", null ]
 ];

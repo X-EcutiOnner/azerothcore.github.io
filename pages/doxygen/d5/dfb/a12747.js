@@ -1,7 +1,7 @@
 var a12747 =
 [
-    [ "boss_warmaster_voone", "d5/dfb/a12747.html#a5dd3b0140dda8ef141c9598a427f6633", null ],
-    [ "DamageTaken", "d5/dfb/a12747.html#a48e135857ef9e7e524e07ed979f137e6", null ],
-    [ "ExecuteEvent", "d5/dfb/a12747.html#a2ff38398f38e61f91bd1aa7222867fd3", null ],
-    [ "JustEngagedWith", "d5/dfb/a12747.html#a961113ecf4c46f52001d153a60ea238a", null ]
+    [ "boss_magmus", "d5/dfb/a12747.html#aacd115473f44148837153a3a5842748c", null ],
+    [ "JustEngagedWith", "d5/dfb/a12747.html#a810cd11145957fe02f2099e9db7e59c8", null ],
+    [ "Reset", "d5/dfb/a12747.html#af12976d66c690add0d08968799946174", null ],
+    [ "UpdateAI", "d5/dfb/a12747.html#ab3e7dc0c1917a67ee9fe532239125b00", null ]
 ];

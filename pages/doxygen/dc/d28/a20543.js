@@ -1,5 +1,18 @@
 var a20543 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_11", "dc/d28/a20543.html#a5d8980111e029b4c9311737f3985ab61", null ],
-    [ "OnCheck", "dc/d28/a20543.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
+    [ "boss_ignis", "dc/d28/a20543.html#a0e254ab7aadb175bdbeac0cffd7044f7", null ],
+    [ "DoAction", "dc/d28/a20543.html#a5b93db8acc8e938ff4784858beeb44b3", null ],
+    [ "EnterEvadeMode", "dc/d28/a20543.html#a738218ee23e2e0d1f3338f958a77aabc", null ],
+    [ "GetData", "dc/d28/a20543.html#a90c4bf03b702264356f5826030ac16de", null ],
+    [ "JustDied", "dc/d28/a20543.html#ae82a27c0483beae93d2386ff9af3377f", null ],
+    [ "JustEngagedWith", "dc/d28/a20543.html#a3abac1b16ae9f42d0349d6472f2e1071", null ],
+    [ "JustReachedHome", "dc/d28/a20543.html#a07e03344eb0f47fe9791e6273c04b3ea", null ],
+    [ "KilledUnit", "dc/d28/a20543.html#a43ab13fd49fbc98fd6c81b38cd6e6f1d", null ],
+    [ "MoveInLineOfSight", "dc/d28/a20543.html#af5873189f7e2d8c27e709d04a4cbee13", null ],
+    [ "Reset", "dc/d28/a20543.html#ab3519e58bcf9feb942412a370fa0e205", null ],
+    [ "SpellHit", "dc/d28/a20543.html#af9a8dc94e2aeead55ab824dee7a63578", null ],
+    [ "UpdateAI", "dc/d28/a20543.html#af8b0ccfce6876b85b12e51328d4ec39f", null ],
+    [ "bShattered", "dc/d28/a20543.html#a4dca823efebb77be49e52df5ce45f42e", null ],
+    [ "counter", "dc/d28/a20543.html#a5efc99a75040decc5fddb83e64cb3930", null ],
+    [ "lastShatterMSTime", "dc/d28/a20543.html#a8b1e02c682f5d14fc03f439180265407", null ]
 ];

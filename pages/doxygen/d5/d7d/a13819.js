@@ -1,6 +1,6 @@
 var a13819 =
 [
-    [ "FixOrientation", "d5/d7d/a13819.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
-    [ "Execute", "d5/d7d/a13819.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
-    [ "_owner", "d5/d7d/a13819.html#a5f12db3774bdeef25a300780c00db1fb", null ]
+    [ "HandlePeriodic", "d5/d7d/a13819.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
+    [ "PrepareAuraScript", "d5/d7d/a13819.html#a7ac99d626990f068a00f403847bfa6bc", null ],
+    [ "Register", "d5/d7d/a13819.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
 ];

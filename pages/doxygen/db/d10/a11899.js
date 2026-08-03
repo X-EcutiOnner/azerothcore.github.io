@@ -1,8 +1,7 @@
 var a11899 =
 [
-    [ "first", "db/d10/a11899.html#a49aea8bfed353c2c552f6195b8e9f60a", null ],
-    [ "last", "db/d10/a11899.html#a05a8077c7ec39bcca66fe84aa1da7040", null ],
-    [ "next", "db/d10/a11899.html#a0a7791b7069912a013299e7afaf4142f", null ],
-    [ "prev", "db/d10/a11899.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f", null ],
-    [ "rank", "db/d10/a11899.html#a0b58cef8fc18f91fa59b8c7d7b9f9872", null ]
+    [ "WorldObjectSpellNearbyTargetCheck", "db/d10/a11899.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
+    [ "operator()", "db/d10/a11899.html#a731ee07d028a5ee63ecd14321c83664d", null ],
+    [ "_position", "db/d10/a11899.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
+    [ "_range", "db/d10/a11899.html#abfec0df490876b2b83dcdee4da75a77f", null ]
 ];

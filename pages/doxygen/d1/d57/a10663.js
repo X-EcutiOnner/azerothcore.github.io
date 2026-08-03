@@ -1,6 +1,10 @@
 var a10663 =
 [
-    [ "BattlegroundScript", "d1/d57/a10663.html#a306231f1c7346a00a3f877c7cef3897b", null ],
-    [ "GetBattleground", "d1/d57/a10663.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
-    [ "IsDatabaseBound", "d1/d57/a10663.html#a35b571d570c85a861af6f949b51453cb", null ]
+    [ "Flags", "d1/d57/a10663.html#abf9c2701e766951e5a211bf6bf85b175", null ],
+    [ "ID", "d1/d57/a10663.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
+    [ "needSave", "d1/d57/a10663.html#aae888b1bf10f654ee212f3d687c111e9", null ],
+    [ "needSend", "d1/d57/a10663.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
+    [ "ReputationListID", "d1/d57/a10663.html#a052caeeae1ecdca831097591e0fddaf6", null ],
+    [ "roundedUp", "d1/d57/a10663.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
+    [ "Standing", "d1/d57/a10663.html#ae87da6cada559e11a9607e194013d671", null ]
 ];

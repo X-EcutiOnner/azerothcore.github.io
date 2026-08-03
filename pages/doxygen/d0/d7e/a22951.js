@@ -1,6 +1,6 @@
 var a22951 =
 [
-    [ "HandleScriptEffect", "d0/d7e/a22951.html#a766edc5924124c869b04ec82cd2bc693", null ],
-    [ "PrepareSpellScript", "d0/d7e/a22951.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
-    [ "Register", "d0/d7e/a22951.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
+    [ "boss_essence_of_angerAI", "da/d7e/a22955.html", "da/d7e/a22955" ],
+    [ "boss_essence_of_anger", "d0/d7e/a22951.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
+    [ "GetAI", "d0/d7e/a22951.html#a70a460f31b7f878e532b695ca822ab5d", null ]
 ];

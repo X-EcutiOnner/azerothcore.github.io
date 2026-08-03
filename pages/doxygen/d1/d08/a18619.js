@@ -1,7 +1,7 @@
 var a18619 =
 [
-    [ "CheckTargetCount", "d1/d08/a18619.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
-    [ "PrepareSpellScript", "d1/d08/a18619.html#abd32198867e7f01b21b7de6224a597d4", null ],
-    [ "Register", "d1/d08/a18619.html#a671bede7fbc68085cd6075f412822869", null ],
-    [ "Validate", "d1/d08/a18619.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
+    [ "TriggerWickedSpirit", "d1/d08/a18619.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
+    [ "Execute", "d1/d08/a18619.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
+    [ "_counter", "d1/d08/a18619.html#a24b85a62208f881418f97b0a8cb10f27", null ],
+    [ "_owner", "d1/d08/a18619.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
 ];

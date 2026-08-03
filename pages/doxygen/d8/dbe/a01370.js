@@ -1,13 +1,13 @@
 var a01370 =
 [
-    [ "DefaultTargetSelector", "d9/d07/a06530.html", "d9/d07/a06530" ],
-    [ "SpellTargetSelector", "d3/d8f/a06534.html", "d3/d8f/a06534" ],
-    [ "NonTankTargetSelector", "df/d7e/a06538.html", "df/d7e/a06538" ],
-    [ "PowerUsersSelector", "d6/d95/a06542.html", "d6/d95/a06542" ],
-    [ "RangeSelector", "db/db0/a06546.html", "db/db0/a06546" ],
-    [ "UnitAI", "d1/df9/a06550.html", "d1/df9/a06550" ],
-    [ "PlayerAI", "de/d9f/a06554.html", "de/d9f/a06554" ],
-    [ "SimpleCharmedAI", "d4/d30/a06558.html", "d4/d30/a06558" ],
+    [ "DefaultTargetSelector", "d5/d96/a06531.html", "d5/d96/a06531" ],
+    [ "SpellTargetSelector", "d0/d64/a06535.html", "d0/d64/a06535" ],
+    [ "NonTankTargetSelector", "da/d97/a06539.html", "da/d97/a06539" ],
+    [ "PowerUsersSelector", "d3/deb/a06543.html", "d3/deb/a06543" ],
+    [ "RangeSelector", "dc/d8b/a06547.html", "dc/d8b/a06547" ],
+    [ "UnitAI", "df/d2f/a06551.html", "df/d2f/a06551" ],
+    [ "PlayerAI", "dc/de9/a06555.html", "dc/de9/a06555" ],
+    [ "SimpleCharmedAI", "d5/d4e/a06559.html", "d5/d4e/a06559" ],
     [ "CAST_AI", "d8/dbe/a01370.html#a0476b18cfebeb691aabb4344ec4f8af3", null ],
     [ "ENSURE_AI", "d8/dbe/a01370.html#afbd9552e4d9ae2fb45fe846c8e9775cf", null ],
     [ "SelectTargetMethod", "d8/dbe/a01370.html#a482ee472018cb5f0e11addaabad35c3d", [

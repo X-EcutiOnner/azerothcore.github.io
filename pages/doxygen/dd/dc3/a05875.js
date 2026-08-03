@@ -1,13 +1,7 @@
 var a05875 =
 [
-    [ "Clear", "dd/dc3/a05875.html#adc64d35670bf0d41519cb9998d3db17e", null ],
-    [ "First", "dd/dc3/a05875.html#a8bbd41b304f7e69df565af75f4846bda", null ],
-    [ "GetNextGroupOccurrence", "dd/dc3/a05875.html#af2cb38062e4d62558d520be75b01bedb", null ],
-    [ "IsEmpty", "dd/dc3/a05875.html#a151898f14e9a1628ddb52b6840fcc4fc", null ],
-    [ "IsGroupQueued", "dd/dc3/a05875.html#ada8edd51338da19db3f282ccc6229516", null ],
-    [ "ModifyIf", "dd/dc3/a05875.html#a0ad5b4de404b1f8312341a28a1a58b5b", null ],
-    [ "Pop", "dd/dc3/a05875.html#a5f5d6b5a4a5e4ec93ff94619485736cb", null ],
-    [ "Push", "dd/dc3/a05875.html#aff6bc8c7fae6640b555ddb027cf0f6ab", null ],
-    [ "RemoveIf", "dd/dc3/a05875.html#a6efe3145679913fde4d4cc1f8cc819e6", null ],
-    [ "container", "dd/dc3/a05875.html#acc56bddf7e586a3a950f608efb730498", null ]
+    [ "EnumText", "dd/dc3/a05875.html#a8eaf5ce52dcc9fd44476f9add1140e0d", null ],
+    [ "Constant", "dd/dc3/a05875.html#a020a7ebf3b1ee476d5f7ee605f43525d", null ],
+    [ "Description", "dd/dc3/a05875.html#ab08504e4ec70c5495f5a45856f2e6976", null ],
+    [ "Title", "dd/dc3/a05875.html#a7326575ea4083e28ac62556526a092a4", null ]
 ];

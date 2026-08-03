@@ -1,6 +1,7 @@
 var a18995 =
 [
-    [ "npc_captain_brandonAI", "d6/d4d/a18995.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "d6/d4d/a18995.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "d6/d4d/a18995.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "OnApply", "d6/d4d/a18995.html#ac35f5d98980f54470a75a72b3578681f", null ],
+    [ "OnRemove", "d6/d4d/a18995.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
+    [ "PrepareAuraScript", "d6/d4d/a18995.html#a83c90d16fa151026a1e02927e31922ee", null ],
+    [ "Register", "d6/d4d/a18995.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
 ];

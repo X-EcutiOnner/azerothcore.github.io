@@ -1,6 +1,9 @@
 var a09027 =
 [
-    [ "GlobalCooldown", "de/ddb/a09027.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
-    [ "cast_time", "de/ddb/a09027.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
-    [ "duration", "de/ddb/a09027.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
+    [ "PendingSpellCastRequest", "de/ddb/a09027.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
+    [ "cancelInProgress", "de/ddb/a09027.html#a726b6e423b23f8c12c65e07809462ad1", null ],
+    [ "category", "de/ddb/a09027.html#a51a702f257b784dac4556397dd1c0be4", null ],
+    [ "isItem", "de/ddb/a09027.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
+    [ "requestPacket", "de/ddb/a09027.html#a6ee868c6161e49dc8774ab357f313116", null ],
+    [ "spellId", "de/ddb/a09027.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
 ];

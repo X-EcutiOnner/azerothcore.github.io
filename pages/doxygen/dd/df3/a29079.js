@@ -1,5 +1,7 @@
 var a29079 =
 [
-    [ "CastTime", "dd/df3/a29079.html#af0bf895b1a5d61974cb63230b786c55e", null ],
-    [ "ID", "dd/df3/a29079.html#a41b1059fc4059bd198925861a9414497", null ]
+    [ "bit_index", "dd/df3/a29079.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "dd/df3/a29079.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "dd/df3/a29079.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "dd/df3/a29079.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

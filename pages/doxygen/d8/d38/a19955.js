@@ -1,9 +1,12 @@
 var a19955 =
 [
-    [ "npc_brann_bronzebeard_algalon", "d8/d38/a19955.html#ac00755dca7e187b55516be889386c499", null ],
-    [ "DoAction", "d8/d38/a19955.html#a6d44478868a74ed7baac757258334806", null ],
-    [ "MovementInform", "d8/d38/a19955.html#a33af1a38ab2827aec38f95e57e54f589", null ],
-    [ "UpdateAI", "d8/d38/a19955.html#ad74f8f8a31431dd2eaa4279e6a8fae36", null ],
-    [ "_currentPoint", "d8/d38/a19955.html#a5403badf59f96111aefaddf78379e65f", null ],
-    [ "events", "d8/d38/a19955.html#ae63e7d3c53c3039186221c8b59c43e3e", null ]
+    [ "boss_ionar", "d8/d38/a19955.html#a323da67c3ff33d09d07cf0369600a473", null ],
+    [ "JustDied", "d8/d38/a19955.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
+    [ "JustEngagedWith", "d8/d38/a19955.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
+    [ "KilledUnit", "d8/d38/a19955.html#ae6b1225147bc146066185d4d21c19f14", null ],
+    [ "Reset", "d8/d38/a19955.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
+    [ "ScheduleEvents", "d8/d38/a19955.html#af74dda7ad9cd156036689694b3bb9986", null ],
+    [ "SpellHit", "d8/d38/a19955.html#a85c0ba28de5a684435246539d2106dcd", null ],
+    [ "Split", "d8/d38/a19955.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
+    [ "UpdateAI", "d8/d38/a19955.html#ad6fb218e743bad9fec357ea7d862744d", null ]
 ];

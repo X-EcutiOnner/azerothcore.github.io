@@ -1,6 +1,15 @@
 var a19847 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d7/df7/a19851.html", "d7/df7/a19851" ],
-    [ "instance_halls_of_lightning", "dd/de3/a19847.html#a24395866efe2c7d1f7727be2557a8b46", null ],
-    [ "GetInstanceScript", "dd/de3/a19847.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
+    [ "boss_eregosAI", "dd/de3/a19847.html#a5b09dacbddd6075c2ebf4d62a387a8b6", null ],
+    [ "DamageTaken", "dd/de3/a19847.html#a7a4b4443aed576f080a56a27e15edfd4", null ],
+    [ "JustDied", "dd/de3/a19847.html#ade16be2804b857fc8e93a62d4be42380", null ],
+    [ "JustEngagedWith", "dd/de3/a19847.html#a1544782732beba5d7114c3bb70419ae1", null ],
+    [ "JustSummoned", "dd/de3/a19847.html#a33ef5a080e457f4e08e7997b467b0974", null ],
+    [ "KilledUnit", "dd/de3/a19847.html#a30ad32a4a63ae17eef4fc703a6749d38", null ],
+    [ "MoveInLineOfSight", "dd/de3/a19847.html#ac622481abb0190bdc7654b383766a9ed", null ],
+    [ "Reset", "dd/de3/a19847.html#aeec469c2c9d0ad27461478ee57c30c56", null ],
+    [ "UpdateAI", "dd/de3/a19847.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36", null ],
+    [ "events", "dd/de3/a19847.html#ae6f1f2e3146525596c3dbb646283b744", null ],
+    [ "pInstance", "dd/de3/a19847.html#abf0b366d7b0931ccc30711a33736dda8", null ],
+    [ "shiftNumber", "dd/de3/a19847.html#a16c90dba1f0a7f4cc2025e294dbac455", null ]
 ];

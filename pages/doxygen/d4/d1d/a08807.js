@@ -1,5 +1,11 @@
 var a08807 =
 [
-    [ "PositionXYStreamer", "d4/d1d/a08807.html#a6f165ea30ccb7cdeba0c4e197b3a0e5b", null ],
-    [ "Pos", "d4/d1d/a08807.html#afb17e60540233b8861b6e967d0e44e07", null ]
+    [ "MovableMapObject", "d4/d1d/a08807.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
+    [ "GetCurrentCell", "d4/d1d/a08807.html#a6d7d87cff5f00f3b370584675caf7870", null ],
+    [ "SetCurrentCell", "d4/d1d/a08807.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
+    [ "Map", "d4/d1d/a08807.html#ad2f32e921244459f7cc6d50355429cc6", null ],
+    [ "ObjectGridLoader", "d4/d1d/a08807.html#a9551c85ae0e43e4d212225c643da2262", null ],
+    [ "RandomMovementGenerator", "d4/d1d/a08807.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
+    [ "_currentCell", "d4/d1d/a08807.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
+    [ "_moveState", "d4/d1d/a08807.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
 ];

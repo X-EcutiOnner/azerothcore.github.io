@@ -1,5 +1,7 @@
 var a27755 =
 [
-    [ "achievement_tilted", "d2/d9e/a27755.html#a868d7b8a437434d6dc34b5000c429e66", null ],
-    [ "OnCheck", "d2/d9e/a27755.html#a61d3eb78450383485699532d96f79d93", null ]
+    [ "HandleRemove", "d2/d9e/a27755.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
+    [ "PrepareAuraScript", "d2/d9e/a27755.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
+    [ "Register", "d2/d9e/a27755.html#a338ee9c0eddd309ce2a791160059bad6", null ],
+    [ "Validate", "d2/d9e/a27755.html#ae8272b65a070fc959af003f701567c3c", null ]
 ];

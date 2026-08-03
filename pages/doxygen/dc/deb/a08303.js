@@ -1,8 +1,5 @@
 var a08303 =
 [
-    [ "cancelTime", "dc/deb/a08303.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
-    [ "inProgress", "dc/deb/a08303.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
-    [ "reason", "dc/deb/a08303.html#a279a5575ca0956266ae81b7a165874cf", null ],
-    [ "victim", "dc/deb/a08303.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
-    [ "votes", "dc/deb/a08303.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
+    [ "number", "dc/deb/a08303.html#af111e542d7a276e27d2b14757293bc42", null ],
+    [ "offset_elements", "dc/deb/a08303.html#ad633b2e9afc82762c6b43675844f8fea", null ]
 ];

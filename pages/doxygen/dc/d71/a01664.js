@@ -1,6 +1,6 @@
 var a01664 =
 [
-    [ "BattlegroundScore", "db/d4e/a07742.html", "db/d4e/a07742" ],
+    [ "BattlegroundScore", "dc/df1/a07747.html", "dc/df1/a07747" ],
     [ "ScoreType", "dc/d71/a01664.html#aa5c51730b458b3ddc7b23ce42f320f18", [
       [ "SCORE_KILLING_BLOWS", "dc/d71/a01664.html#aa5c51730b458b3ddc7b23ce42f320f18a22caa690e4e043a997818fdf5a449046", null ],
       [ "SCORE_DEATHS", "dc/d71/a01664.html#aa5c51730b458b3ddc7b23ce42f320f18a4ba4987db8c69483e0652a21dace8412", null ],

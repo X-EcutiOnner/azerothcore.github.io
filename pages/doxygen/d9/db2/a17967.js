@@ -1,10 +1,8 @@
 var a17967 =
 [
-    [ "npc_gunship_gunnerAI", "d9/db2/a17967.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
-    [ "AttackStart", "d9/db2/a17967.html#ac21b90c1892c15882794384517ef9fd2", null ],
-    [ "CanAIAttack", "d9/db2/a17967.html#aef351305ef34fa316809697125a3bc9a", null ],
-    [ "MovementInform", "d9/db2/a17967.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
-    [ "UpdateAI", "d9/db2/a17967.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
-    [ "anyValid", "d9/db2/a17967.html#a00c7dc23618c60826241133a0067c1c4", null ],
-    [ "checkTimer", "d9/db2/a17967.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
+    [ "ResetEncounterEvent", "d9/db2/a17967.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "d9/db2/a17967.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "d9/db2/a17967.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "d9/db2/a17967.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "d9/db2/a17967.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

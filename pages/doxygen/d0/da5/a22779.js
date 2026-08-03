@@ -1,7 +1,7 @@
 var a22779 =
 [
-    [ "CalculateAmount", "d0/da5/a22779.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
-    [ "PrepareAuraScript", "d0/da5/a22779.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
-    [ "Register", "d0/da5/a22779.html#a6d0d47536e6ef74a88c97019843d478c", null ],
-    [ "Update", "d0/da5/a22779.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
+    [ "npc_blade_of_azzinoth", "d0/da5/a22779.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d0/da5/a22779.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d0/da5/a22779.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d0/da5/a22779.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

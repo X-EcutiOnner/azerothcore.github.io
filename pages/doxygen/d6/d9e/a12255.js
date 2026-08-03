@@ -1,9 +1,13 @@
 var a12255 =
 [
-    [ "map", "d6/d9e/a12255.html#a274c6d61203c24b3c680055244e1f590", null ],
-    [ "mouth", "d6/d9e/a12255.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
-    [ "mouthGuid", "d6/d9e/a12255.html#a2245c14e379c83bdd47165e829de2e41", null ],
-    [ "necropolisCount", "d6/d9e/a12255.html#aec44e315616920ba8224be8c4831f5e9", null ],
-    [ "remainingNecropoli", "d6/d9e/a12255.html#a3c18c61fcd44c32f9e0009479db85399", null ],
-    [ "zoneId", "d6/d9e/a12255.html#a98e1490705f74627cf9e5483857f3f25", null ]
+    [ "PlayerDumpWriter", "d6/d9e/a12255.html#a060152c060b37c4bf1208a99edc4a840", null ],
+    [ "AppendTable", "d6/d9e/a12255.html#a7f285fddf6d33dd1664b5af801f110e9", null ],
+    [ "GetDump", "d6/d9e/a12255.html#a17457008e1262c0aed284469e55841c6", null ],
+    [ "PopulateGuids", "d6/d9e/a12255.html#aab122c84eefe801ac23211ec5a41e888", null ],
+    [ "WriteDumpToFile", "d6/d9e/a12255.html#a81612bfc0d161595f4de1a6133d5c46d", null ],
+    [ "WriteDumpToString", "d6/d9e/a12255.html#a43d30815c9b3b2608e0fecad7bba7254", null ],
+    [ "_items", "d6/d9e/a12255.html#a5da825b82a09809ded2ce2c88458cc26", null ],
+    [ "_itemSets", "d6/d9e/a12255.html#a33ff3a269064d883eff84ec83c394e92", null ],
+    [ "_mails", "d6/d9e/a12255.html#a2863e88ee13debe77e4b1d3d0960d18a", null ],
+    [ "_pets", "d6/d9e/a12255.html#a33325b0514324020bba98364a7f59de5", null ]
 ];

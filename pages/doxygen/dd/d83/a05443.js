@@ -1,10 +1,6 @@
 var a05443 =
 [
-    [ "Hash", "dd/d83/a05443.html#ae23bd592ac284f3068c36688d084c24f", null ],
-    [ "Verify", "dd/d83/a05443.html#a7a041ffc17e4d4291f81d4090f31e1fd", null ],
-    [ "DEFAULT_ITERATIONS", "dd/d83/a05443.html#a898bbe9b4ffddef1eb067915740d6100", null ],
-    [ "DEFAULT_MEMORY_COST", "dd/d83/a05443.html#a413b8cdff629f26836a776412362056d", null ],
-    [ "ENCODED_HASH_LEN", "dd/d83/a05443.html#a07dd0a8033f54177570f62a2a1a0da3d", null ],
-    [ "HASH_LEN", "dd/d83/a05443.html#a923313625297d08ff3ca9a04bbe527aa", null ],
-    [ "PARALLELISM", "dd/d83/a05443.html#a4aabf2fcc43b23c9d565ced3a2adb405", null ]
+    [ "NodeArray", "dd/d83/a05443.html#ad14de28828d5dd9c425e47a261125423", null ],
+    [ "AddNode", "dd/d83/a05443.html#a370b6e8633c2c739ff68c0399e315a7e", null ],
+    [ "_nodes", "dd/d83/a05443.html#a581a71d15d245efc585297c218313134", null ]
 ];

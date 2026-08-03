@@ -1,14 +1,6 @@
 var a20307 =
 [
-    [ "npc_ulduar_hodir_priest", "df/d06/a20307.html#af18269ae027e71f86796e723111227b4", null ],
-    [ "AttackStart", "df/d06/a20307.html#ad86f47516d9f245a4ae241bba26b37a4", null ],
-    [ "CanAIAttack", "df/d06/a20307.html#a8545bd2492bd32d333e8d144b3d548a5", null ],
-    [ "EnterEvadeMode", "df/d06/a20307.html#a9d3f3e950b0f9c9a7b85ba3835000a80", null ],
-    [ "JustDied", "df/d06/a20307.html#a3ac7967a61a774670e25aa3c0477d7ac", null ],
-    [ "MoveInLineOfSight", "df/d06/a20307.html#abc0c766a88dd64e8f5bbcc2afd883552", null ],
-    [ "ScheduleAbilities", "df/d06/a20307.html#a10b5f3575c2de311d54c15220c68f4b7", null ],
-    [ "SpellHit", "df/d06/a20307.html#a2dd6faeb45ba2278e1b4693d20550d4e", null ],
-    [ "UpdateAI", "df/d06/a20307.html#a450b21ab190ec335d910b38a6a2d9329", null ],
-    [ "_instance", "df/d06/a20307.html#adb189dbf0e536f469f1a0d82d42de6de", null ],
-    [ "events", "df/d06/a20307.html#a803e3f35c784716170f9fa8c4484b66c", null ]
+    [ "CheckAreaTarget", "df/d06/a20307.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "df/d06/a20307.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "df/d06/a20307.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

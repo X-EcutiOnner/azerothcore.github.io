@@ -1,7 +1,6 @@
 var a21855 =
 [
-    [ "npc_tirions_gambit_tirionAI", "d9/d40/a21859.html", "d9/d40/a21859" ],
-    [ "npc_tirions_gambit_tirion", "df/db1/a21855.html#ad52abd46ccdd3b4409671679434c193c", null ],
-    [ "GetAI", "df/db1/a21855.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
-    [ "OnGossipSelect", "df/db1/a21855.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
+    [ "npc_q24545_vegard_dummyAI", "d9/d40/a21859.html", "d9/d40/a21859" ],
+    [ "npc_q24545_vegard_dummy", "df/db1/a21855.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "df/db1/a21855.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

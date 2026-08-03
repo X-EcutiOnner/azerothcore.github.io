@@ -1,8 +1,8 @@
 var a15863 =
 [
-    [ "npc_aged_dying_ancient_kodo", "d9/d5b/a15863.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
-    [ "JustRespawned", "d9/d5b/a15863.html#ab401f9002bd49b26cc0526112e715d1e", null ],
-    [ "MoveInLineOfSight", "d9/d5b/a15863.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
-    [ "sGossipHello", "d9/d5b/a15863.html#a8bd41050426cdee7da37d1370e5a7363", null ],
-    [ "SpellHit", "d9/d5b/a15863.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
+    [ "npc_death_ravagerAI", "d9/d5b/a15863.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "d9/d5b/a15863.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "d9/d5b/a15863.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "d9/d5b/a15863.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "d9/d5b/a15863.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

@@ -1,7 +1,5 @@
 var a28359 =
 [
-    [ "npc_venomhide_hatchlingAI", "da/da2/a28363.html", "da/da2/a28363" ],
-    [ "npc_venomhide_hatchling", "da/da6/a28359.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
-    [ "GetAI", "da/da6/a28359.html#a96110b752965d751ab7b466c4f67e333", null ],
-    [ "OnGossipHello", "da/da6/a28359.html#a404d875592b847ddb9f3250c9d954bfc", null ]
+    [ "go_duskwither_spire_power_source", "da/da6/a28359.html#aab69de16e8b744af2671e2ed882ee94a", null ],
+    [ "OnGossipHello", "da/da6/a28359.html#a2c7fd017e7985b99bff187119157a041", null ]
 ];

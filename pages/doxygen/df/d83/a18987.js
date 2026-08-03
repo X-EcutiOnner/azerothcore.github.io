@@ -1,7 +1,7 @@
 var a18987 =
 [
-    [ "npc_captain_arnathAI", "df/d83/a18987.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "df/d83/a18987.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "df/d83/a18987.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "df/d83/a18987.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "PeriodicTick", "df/d83/a18987.html#ac1bace4fc66349364c84b5784967e9bf", null ],
+    [ "PrepareAuraScript", "df/d83/a18987.html#a358193e3340112c04f79c043548c3de0", null ],
+    [ "Register", "df/d83/a18987.html#a28f52bc253899aa407e67f9a089c815c", null ],
+    [ "Validate", "df/d83/a18987.html#a0dde3447e38e45cea94df44449a19a01", null ]
 ];

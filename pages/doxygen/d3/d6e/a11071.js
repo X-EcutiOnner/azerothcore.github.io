@@ -1,6 +1,7 @@
 var a11071 =
 [
-    [ "GuildDemoteMember", "d3/d6e/a11071.html#aa3d68021828c516d7b1995811e8df7d7", null ],
-    [ "Read", "d3/d6e/a11071.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
-    [ "Demotee", "d3/d6e/a11071.html#a60c7e56c201d794fb473a62fccc160bb", null ]
+    [ "Flags", "d3/d6e/a11071.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
+    [ "TabFlags", "d3/d6e/a11071.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
+    [ "TabWithdrawItemLimit", "d3/d6e/a11071.html#af16392abbddf27a8b21fd21d998501e6", null ],
+    [ "WithdrawGoldLimit", "d3/d6e/a11071.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
 ];

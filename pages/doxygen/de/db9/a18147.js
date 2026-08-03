@@ -1,6 +1,5 @@
 var a18147 =
 [
-    [ "npc_bone_spikeAI", "d6/dcd/a18151.html", "d6/dcd/a18151" ],
-    [ "npc_bone_spike", "de/db9/a18147.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "de/db9/a18147.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "achievement_im_on_a_boat", "de/db9/a18147.html#aa25d330534aab023ec798e86976a6d50", null ],
+    [ "OnCheck", "de/db9/a18147.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
 ];

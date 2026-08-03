@@ -1,9 +1,5 @@
 var a28399 =
 [
-    [ "npc_necropolis_health", "da/d7c/a28399.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
-    [ "DespawnNecropolis", "da/d7c/a28399.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
-    [ "JustDied", "da/d7c/a28399.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
-    [ "SpellHit", "da/d7c/a28399.html#ad4a9f9b166ab8107a16da918082c6625", null ],
-    [ "SpellHitTarget", "da/d7c/a28399.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
-    [ "_zapCount", "da/d7c/a28399.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
+    [ "item_captured_frog", "da/d7c/a28399.html#ad41b743c98c9534453eca8cf1f367366", null ],
+    [ "OnUse", "da/d7c/a28399.html#a1156467ca046a077ea494f92c488bf54", null ]
 ];

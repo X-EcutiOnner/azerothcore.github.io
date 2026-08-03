@@ -1,6 +1,6 @@
 var a15443 =
 [
-    [ "HandleDummyHitTarget", "da/dd7/a15443.html#ae773d73496578170061baedd8f7daec1", null ],
-    [ "PrepareSpellScript", "da/dd7/a15443.html#a822fe6d19c2ee0d02dc5561b4f910cf9", null ],
-    [ "Register", "da/dd7/a15443.html#a651cc94581130224ba23e864f8ad7060", null ]
+    [ "instance_ragefire_chasm_InstanceMapScript", "d5/d17/a15447.html", "d5/d17/a15447" ],
+    [ "instance_ragefire_chasm", "da/dd7/a15443.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
+    [ "GetInstanceScript", "da/dd7/a15443.html#a0568996a61ef91688b9f223cb3782e5a", null ]
 ];

@@ -1,5 +1,6 @@
 var a10519 =
 [
-    [ "ScriptId", "d1/ddd/a10519.html#a6b17e959f80e7b3f2f3352a345eebcf9", null ],
-    [ "TypeId", "d1/ddd/a10519.html#aaddf1f172211966f5d727e6238889223", null ]
+    [ "FallInitializer", "d1/ddd/a10519.html#a618345df62b821d286caadc7179b7d83", null ],
+    [ "operator()", "d1/ddd/a10519.html#a7a9b294b6820e229cd95f4fc9bde825b", null ],
+    [ "start_elevation", "d1/ddd/a10519.html#ab94604fb6eee50832001908c12044130", null ]
 ];

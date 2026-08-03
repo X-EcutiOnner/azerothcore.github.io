@@ -1,6 +1,7 @@
 var a23939 =
 [
-    [ "npc_mature_netherwing_drakeAI", "de/dfb/a23943.html", "de/dfb/a23943" ],
-    [ "npc_mature_netherwing_drake", "d8/daf/a23939.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "d8/daf/a23939.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "boss_gatewatcher_iron_hand", "d8/daf/a23939.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "d8/daf/a23939.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "d8/daf/a23939.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "d8/daf/a23939.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

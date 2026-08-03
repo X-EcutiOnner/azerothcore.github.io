@@ -1,9 +1,11 @@
 var a10851 =
 [
-    [ "ServerPacket", "d1/de3/a10851.html#a4d2bf169dd705b886da8ff58a7ef4bd2", null ],
-    [ "Clear", "d1/de3/a10851.html#aa54f2fa66cfe4682ca56cf01f9e1296a", null ],
-    [ "GetOpcode", "d1/de3/a10851.html#a639ab6c078d7c746bcb328526df705be", null ],
-    [ "Move", "d1/de3/a10851.html#a659397042201ae571bb564872e54d2c6", null ],
-    [ "Read", "d1/de3/a10851.html#ae49aa7bce566d9f0ea3c7bbb487a119d", null ],
-    [ "ShrinkToFit", "d1/de3/a10851.html#a6fa19a94d57484aaff3498be01495258", null ]
+    [ "ServerScript", "d1/de3/a10851.html#aba875505244ddfcea9db09dd79574128", null ],
+    [ "CanPacketReceive", "d1/de3/a10851.html#ada6045c5dcd48a011d66bd2998000d27", null ],
+    [ "CanPacketSend", "d1/de3/a10851.html#ae7d02121a95adcc53263d006bc14da2f", null ],
+    [ "OnNetworkStart", "d1/de3/a10851.html#ab51ce520816236687820d1f72bae0ed6", null ],
+    [ "OnNetworkStart", "d1/de3/a10851.html#a22b726d849ee171482ca7d6e0e1e4527", null ],
+    [ "OnNetworkStop", "d1/de3/a10851.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
+    [ "OnSocketClose", "d1/de3/a10851.html#a8386aef9c139f06732a5f36eadccec6c", null ],
+    [ "OnSocketOpen", "d1/de3/a10851.html#a22e84aee366a0010a753b7ed3403172f", null ]
 ];

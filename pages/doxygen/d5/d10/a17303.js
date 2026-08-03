@@ -1,8 +1,6 @@
 var a17303 =
 [
-    [ "npc_hor_raging_ghoul", "d5/d10/a17303.html#a733d4ad92566a13ace3427aae6696bac", null ],
-    [ "JustDied", "d5/d10/a17303.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
-    [ "Reset", "d5/d10/a17303.html#aad6424be7dd53b59016963cefffe40e5", null ],
-    [ "UpdateAI", "d5/d10/a17303.html#af4024393b318ca702c6652e042036b26", null ],
-    [ "leaped", "d5/d10/a17303.html#a69dea538a87ae47de221768b6de42315", null ]
+    [ "entry", "d5/d10/a17303.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d5/d10/a17303.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d5/d10/a17303.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

@@ -1,13 +1,9 @@
 var a28639 =
 [
-    [ "AcquireMethod", "d2/ddb/a28639.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
-    [ "ClassMask", "d2/ddb/a28639.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
-    [ "ID", "d2/ddb/a28639.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
-    [ "MinSkillLineRank", "d2/ddb/a28639.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
-    [ "RaceMask", "d2/ddb/a28639.html#acfd38780584b90ca40a1e1cd59605832", null ],
-    [ "SkillLine", "d2/ddb/a28639.html#a0050dcf5c82f785dfc93079debe54a13", null ],
-    [ "Spell", "d2/ddb/a28639.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
-    [ "SupercededBySpell", "d2/ddb/a28639.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
-    [ "TrivialSkillLineRankHigh", "d2/ddb/a28639.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
-    [ "TrivialSkillLineRankLow", "d2/ddb/a28639.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
+    [ "npc_arcanite_dragonling", "d2/ddb/a28639.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "d2/ddb/a28639.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "d2/ddb/a28639.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "d2/ddb/a28639.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "d2/ddb/a28639.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "d2/ddb/a28639.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

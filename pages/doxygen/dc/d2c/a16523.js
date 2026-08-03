@@ -1,7 +1,6 @@
 var a16523 =
 [
-    [ "npc_orb_carrierAI", "dc/d2c/a16523.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "dc/d2c/a16523.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "dc/d2c/a16523.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "dc/d2c/a16523.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "boss_baltharus_the_warbornAI", "d6/d5d/a16527.html", "d6/d5d/a16527" ],
+    [ "boss_baltharus_the_warborn", "dc/d2c/a16523.html#aababb8862273d60f140dce675131783d", null ],
+    [ "GetAI", "dc/d2c/a16523.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
 ];

@@ -1,6 +1,7 @@
 var a21979 =
 [
-    [ "npc_jungle_punch_targetAI", "dd/d56/a21983.html", "dd/d56/a21983" ],
-    [ "npc_jungle_punch_target", "df/d79/a21979.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
-    [ "GetAI", "df/d79/a21979.html#abb38ccb55abfe0f48f360469031c6902", null ]
+    [ "HandleAfterEffectApply", "df/d79/a21979.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "df/d79/a21979.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "df/d79/a21979.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "df/d79/a21979.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

@@ -1,12 +1,5 @@
 var a12535 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "da/dec/a12535.html#af3620678992778edbb859622e057893a", null ],
-    [ "AttackStart", "da/dec/a12535.html#aed39eaed8648ce78349c49ee33918b93", null ],
-    [ "EnterEvadeMode", "da/dec/a12535.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
-    [ "JustRespawned", "da/dec/a12535.html#a460c6912063587214ba0f2e01878d827", null ],
-    [ "Reset", "da/dec/a12535.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
-    [ "UpdateAI", "da/dec/a12535.html#a7bf1631810c8446bc157f8ff220199b7", null ],
-    [ "_attacked", "da/dec/a12535.html#a56d7211a3565c19b499f7de2eda6c862", null ],
-    [ "_hasAura", "da/dec/a12535.html#a1c0049100cde1c62daf80779d1135156", null ],
-    [ "events", "da/dec/a12535.html#a49b8e01897cd5347bbd06cac254163f4", null ]
+    [ "flag", "da/dec/a12535.html#ae1419ecdb46b888ad0250ff77ccb9b6e", null ],
+    [ "text", "da/dec/a12535.html#a87700bc5f863f448b346c2aec2152ba4", null ]
 ];

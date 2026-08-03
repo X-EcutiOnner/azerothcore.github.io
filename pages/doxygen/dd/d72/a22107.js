@@ -1,7 +1,7 @@
 var a22107 =
 [
-    [ "OnApply", "dd/d72/a22107.html#ad026db5f19c376d9a87f7a1554502809", null ],
-    [ "OnRemove", "dd/d72/a22107.html#a0264c6f6f41da3644a803265399f1d82", null ],
-    [ "PrepareAuraScript", "dd/d72/a22107.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
-    [ "Register", "dd/d72/a22107.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
+    [ "npc_tirions_gambit_tirionAI", "dd/d0f/a22111.html", "dd/d0f/a22111" ],
+    [ "npc_tirions_gambit_tirion", "dd/d72/a22107.html#ad52abd46ccdd3b4409671679434c193c", null ],
+    [ "GetAI", "dd/d72/a22107.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
+    [ "OnGossipSelect", "dd/d72/a22107.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
 ];

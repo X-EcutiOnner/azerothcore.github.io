@@ -1,6 +1,9 @@
 var a16735 =
 [
-    [ "instance_trial_of_the_champion_InstanceMapScript", "d5/db1/a16739.html", "d5/db1/a16739" ],
-    [ "instance_trial_of_the_champion", "dd/d74/a16735.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
-    [ "GetInstanceScript", "dd/d74/a16735.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
+    [ "npc_memoryAI", "dd/d74/a16735.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "dd/d74/a16735.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "dd/d74/a16735.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "dd/d74/a16735.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "dd/d74/a16735.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "dd/d74/a16735.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

@@ -1,7 +1,8 @@
 var a09247 =
 [
-    [ "IsFitToRequirements", "d0/df9/a09247.html#ac175634ed2eab2911c3749fa208a073a", null ],
-    [ "castFlags", "d0/df9/a09247.html#a03cd65a460ea252818de9230cb656c1c", null ],
-    [ "spellId", "d0/df9/a09247.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
-    [ "userType", "d0/df9/a09247.html#adcf285572403481cb418bddebc5f4bfa", null ]
+    [ "Entry", "d0/df9/a09247.html#ac9fa29db15e06513805124a56cd073e8", null ],
+    [ "ExtendedCost", "d0/df9/a09247.html#ac826dc078ef456ed93bf23175bce243d", null ],
+    [ "Incrtime", "d0/df9/a09247.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
+    [ "Item", "d0/df9/a09247.html#aa500da847d94a9b70cb3a26b782059b3", null ],
+    [ "MaxCount", "d0/df9/a09247.html#a04534ff42e5889995b5203a3257bc864", null ]
 ];

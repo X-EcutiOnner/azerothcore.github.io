@@ -1,9 +1,6 @@
 var a27847 =
 [
-    [ "boss_lethonAI", "de/d31/a27847.html#ac5d53a746f5286776b2e510f1de86790", null ],
-    [ "DamageTaken", "de/d31/a27847.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
-    [ "JustEngagedWith", "de/d31/a27847.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
-    [ "Reset", "de/d31/a27847.html#a0e53d139f64d104557e157a91176a47a", null ],
-    [ "SpellHitTarget", "de/d31/a27847.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
-    [ "_stage", "de/d31/a27847.html#aa267296ee60efc7d39a20dc05afec081", null ]
+    [ "HandleCast", "de/d31/a27847.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
+    [ "PrepareSpellScript", "de/d31/a27847.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
+    [ "Register", "de/d31/a27847.html#a81bc86c83ffc70602410912870e61700", null ]
 ];

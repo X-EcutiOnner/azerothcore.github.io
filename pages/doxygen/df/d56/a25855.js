@@ -1,9 +1,7 @@
 var a25855 =
 [
-    [ "CheckRequirement", "df/d56/a25855.html#adab261a5221ca54b15cc414d291908fe", null ],
-    [ "HandleDummy", "df/d56/a25855.html#abb7a734244bb18d75304a0510f9efb8d", null ],
-    [ "Load", "df/d56/a25855.html#a418eef16d1e3aeff67013f45409c092a", null ],
-    [ "PrepareSpellScript", "df/d56/a25855.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
-    [ "Register", "df/d56/a25855.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
-    [ "Validate", "df/d56/a25855.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
+    [ "CalculateDamageAmount", "df/d56/a25855.html#a2f608e8391e61434ef1b164c023854fe", null ],
+    [ "CalculateManaLeechAmount", "df/d56/a25855.html#a8a4946d1718d8045a72c92355ff38ecb", null ],
+    [ "PrepareAuraScript", "df/d56/a25855.html#a63d24d3ca4b2de1aa7f67376ded7bc59", null ],
+    [ "Register", "df/d56/a25855.html#aa6e74e89930fd3cc564c3cba86e3687e", null ]
 ];

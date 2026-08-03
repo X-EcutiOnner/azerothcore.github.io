@@ -1,5 +1,7 @@
 var a28643 =
 [
-    [ "ID", "d8/dea/a28643.html#a142c8a5e22234e6317ff113618559b8b", null ],
-    [ "Value", "d8/dea/a28643.html#a693631ac3ce915a1c4adf565517eacf9", null ]
+    [ "npc_crashin_thrashin_robot", "d8/dea/a28643.html#ad21336d212498b1c9ef5d46979d147ab", null ],
+    [ "IsSummonedBy", "d8/dea/a28643.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
+    [ "UpdateAI", "d8/dea/a28643.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
+    [ "_scheduler", "d8/dea/a28643.html#a55778501d154d0a9e77f76054e926f85", null ]
 ];

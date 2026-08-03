@@ -1,8 +1,7 @@
 var a13095 =
 [
-    [ "HandleEffectRemove", "df/d06/a13095.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
-    [ "if", "df/d06/a13095.html#a9e9aec7bc2773270c1063b1a3c44c07a", null ],
-    [ "PrepareAuraScript", "df/d06/a13095.html#a4055f781a914de631187b00ba7aefeef", null ],
-    [ "Register", "df/d06/a13095.html#aefb4bbae43558abde871548088784613", null ],
-    [ "AuraEffectHandleModes", "df/d06/a13095.html#a7d419ba41e68b70740a867a2265824bd", null ]
+    [ "HandleScript", "df/d06/a13095.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
+    [ "PrepareSpellScript", "df/d06/a13095.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
+    [ "Register", "df/d06/a13095.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
+    [ "Validate", "df/d06/a13095.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
 ];

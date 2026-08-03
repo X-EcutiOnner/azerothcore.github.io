@@ -1,7 +1,7 @@
 var a22743 =
 [
-    [ "npc_ashtongue_channeler", "d0/dc6/a22743.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "d0/dc6/a22743.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "d0/dc6/a22743.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "d0/dc6/a22743.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "HandleProc", "d0/dc6/a22743.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
+    [ "PrepareAuraScript", "d0/dc6/a22743.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
+    [ "Register", "d0/dc6/a22743.html#a6b764182501a1d192f90dc20bbd6549e", null ],
+    [ "Validate", "d0/dc6/a22743.html#ad89123425cca5bd02a18526a11595a1a", null ]
 ];

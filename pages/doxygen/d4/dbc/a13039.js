@@ -1,6 +1,7 @@
 var a13039 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "d8/d3d/a13043.html", "d8/d3d/a13043" ],
-    [ "instance_gnomeregan", "d4/dbc/a13039.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "d4/dbc/a13039.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "HandleHit", "d4/dbc/a13039.html#a18f86449945ade16140ee934a7d8703e", null ],
+    [ "PrepareSpellScript", "d4/dbc/a13039.html#abaf09043858db27b05fbe544d7a15a8f", null ],
+    [ "Register", "d4/dbc/a13039.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
+    [ "Validate", "d4/dbc/a13039.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
 ];

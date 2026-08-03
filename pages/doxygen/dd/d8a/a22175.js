@@ -1,7 +1,6 @@
 var a22175 =
 [
-    [ "HandleScript", "dd/d8a/a22175.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "dd/d8a/a22175.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "dd/d8a/a22175.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "dd/d8a/a22175.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "npc_frostbrood_skytalonAI", "d0/db1/a22179.html", "d0/db1/a22179" ],
+    [ "npc_frostbrood_skytalon", "dd/d8a/a22175.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
+    [ "GetAI", "dd/d8a/a22175.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
 ];

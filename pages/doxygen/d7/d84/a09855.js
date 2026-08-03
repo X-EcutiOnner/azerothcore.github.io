@@ -1,8 +1,8 @@
 var a09855 =
 [
-    [ "LocalizedPacketDo", "d7/d84/a09855.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
-    [ "~LocalizedPacketDo", "d7/d84/a09855.html#a4296260b2011e1f7c300987073863ca9", null ],
-    [ "operator()", "d7/d84/a09855.html#a43449bdf0302e426b8cb4341326196b1", null ],
-    [ "i_builder", "d7/d84/a09855.html#a2c794905898feb502bfc5d3760f962b8", null ],
-    [ "i_data_cache", "d7/d84/a09855.html#a2bbff655e1a5268981c48e3ee028b104", null ]
+    [ "AllGameObjectsMatchingOneEntryInRange", "d7/d84/a09855.html#ad64e96c8484be1354ad4a3c0b6754d95", null ],
+    [ "operator()", "d7/d84/a09855.html#afc81f329be9d6d8eb8bfd2ade94c5665", null ],
+    [ "m_fRange", "d7/d84/a09855.html#aa76b1a6c8a919c1e5b37c74b33859464", null ],
+    [ "m_pObject", "d7/d84/a09855.html#ac2bae147199d0b1b592a560017128c4e", null ],
+    [ "m_uiEntries", "d7/d84/a09855.html#a3eb95fd72147ab8195da44a46c2cf0e6", null ]
 ];

@@ -1,6 +1,7 @@
 var a14351 =
 [
-    [ "npc_eagle_trash_aggro_trigger", "de/d37/a14351.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
-    [ "MoveInLineOfSight", "de/d37/a14351.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
-    [ "_instance", "de/d37/a14351.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
+    [ "HandleDispel", "de/d37/a14351.html#a415977576283972ce4a1050c70826d7c", null ],
+    [ "PrepareAuraScript", "de/d37/a14351.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
+    [ "Register", "de/d37/a14351.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
+    [ "Validate", "de/d37/a14351.html#ac496e7bef875ca46660217e74fc3bc74", null ]
 ];

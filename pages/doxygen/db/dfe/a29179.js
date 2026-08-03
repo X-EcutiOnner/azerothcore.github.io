@@ -1,9 +1,6 @@
 var a29179 =
 [
-    [ "adtId", "db/dfe/a29179.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
-    [ "areaId", "db/dfe/a29179.html#a7f652c68036429350543fc5a2cc6861e", null ],
-    [ "Flags", "db/dfe/a29179.html#a60f9a61948d1e28587c9d1a338730f37", null ],
-    [ "groupId", "db/dfe/a29179.html#a09052bad3028899580ffedd556672b64", null ],
-    [ "Id", "db/dfe/a29179.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
-    [ "rootId", "db/dfe/a29179.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
+    [ "Id", "db/dfe/a29179.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "db/dfe/a29179.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "db/dfe/a29179.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

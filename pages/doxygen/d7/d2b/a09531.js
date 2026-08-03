@@ -1,22 +1,14 @@
 var a09531 =
 [
-    [ "MapGridManager", "d7/d2b/a09531.html#af08729c03f8641a00ab1cc1b014214df", null ],
-    [ "CreateGrid", "d7/d2b/a09531.html#ac5daa221eb530e0b34a1950431cb4496", null ],
-    [ "GetCreatedCellsInGridCount", "d7/d2b/a09531.html#a322e14ef979b97017a7547194de6c1f0", null ],
-    [ "GetCreatedCellsInMapCount", "d7/d2b/a09531.html#a26255c8542bcfd6b706f73a401b4c5d2", null ],
-    [ "GetCreatedGridsCount", "d7/d2b/a09531.html#a7994a71cea924e66996161b049eb1d44", null ],
-    [ "GetGrid", "d7/d2b/a09531.html#a60c3abc9dbb707cee6d2c2ed02217c23", null ],
-    [ "GetLoadedGridsCount", "d7/d2b/a09531.html#a8acd42cf15f78053070102f530c443a2", null ],
-    [ "IsGridCreated", "d7/d2b/a09531.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a", null ],
-    [ "IsGridLoaded", "d7/d2b/a09531.html#a4cdf5925d6ebb358f501554c8b296424", null ],
-    [ "IsGridsFullyCreated", "d7/d2b/a09531.html#a479daebe69f976c11649c9c571eb18e0", null ],
-    [ "IsGridsFullyLoaded", "d7/d2b/a09531.html#ae2dd77cb2af985085103d49b4242f4a8", null ],
-    [ "IsValidGridCoordinates", "d7/d2b/a09531.html#a7d7957242615d753383e05a0ee5a1f82", null ],
-    [ "LoadGrid", "d7/d2b/a09531.html#aab0a821d9672cd485c4966034c2243d5", null ],
-    [ "UnloadGrid", "d7/d2b/a09531.html#ae381b54e599dce0c02815faf82711200", null ],
-    [ "_createdGridsCount", "d7/d2b/a09531.html#a6976d52c3af458e4d5885d2523cfafab", null ],
-    [ "_gridLock", "d7/d2b/a09531.html#aa2c2218a81a5d042925e5675948e242f", null ],
-    [ "_loadedGridsCount", "d7/d2b/a09531.html#a5a93290a0bbeec830a3223a72823ca4b", null ],
-    [ "_map", "d7/d2b/a09531.html#a16a35fb94355d6542a2ef634f5411243", null ],
-    [ "_mapGrid", "d7/d2b/a09531.html#acfac0df3926498e8a9aa581581f84e2c", null ]
+    [ "areaMapOffset", "d7/d2b/a09531.html#a70f82337112bb8cbff0b3344666885a1", null ],
+    [ "areaMapSize", "d7/d2b/a09531.html#adfbbb622974b7942f47dd16d2300246f", null ],
+    [ "buildMagic", "d7/d2b/a09531.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
+    [ "heightMapOffset", "d7/d2b/a09531.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
+    [ "heightMapSize", "d7/d2b/a09531.html#a71c9cd42801697a927543e3acd4c3daf", null ],
+    [ "holesOffset", "d7/d2b/a09531.html#a876d70dcd6ccec9ad09de77718c02150", null ],
+    [ "holesSize", "d7/d2b/a09531.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
+    [ "liquidMapOffset", "d7/d2b/a09531.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
+    [ "liquidMapSize", "d7/d2b/a09531.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
+    [ "mapMagic", "d7/d2b/a09531.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
+    [ "versionMagic", "d7/d2b/a09531.html#abe722f653ba057fbba84401acbaffbfa", null ]
 ];

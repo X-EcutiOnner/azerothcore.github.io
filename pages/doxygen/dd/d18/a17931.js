@@ -1,12 +1,7 @@
 var a17931 =
 [
-    [ "gunship_npc_AI", "dd/d18/a17931.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
-    [ "EnterEvadeMode", "dd/d18/a17931.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
-    [ "JustDied", "dd/d18/a17931.html#ad40c976be4decd9054dad031a4caab78", null ],
-    [ "MovementInform", "dd/d18/a17931.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
-    [ "SetData", "dd/d18/a17931.html#acfd5e331155d7787ada33acbca73fece", null ],
-    [ "SetSlotInfo", "dd/d18/a17931.html#afdfc3f9add2952f90baf24d55425670f", null ],
-    [ "Index", "dd/d18/a17931.html#ae120874514cf5921136821b820a04da7", null ],
-    [ "Instance", "dd/d18/a17931.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
-    [ "Slot", "dd/d18/a17931.html#a59d237475ae309755d429cfac77d6630", null ]
+    [ "HandleScript", "dd/d18/a17931.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
+    [ "PrepareSpellScript", "dd/d18/a17931.html#a8f668b88a41585cabeace574b30b4f85", null ],
+    [ "Register", "dd/d18/a17931.html#a8fae161a91fae297b99079bde218ced8", null ],
+    [ "Validate", "dd/d18/a17931.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
 ];

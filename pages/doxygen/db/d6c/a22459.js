@@ -1,7 +1,5 @@
 var a22459 =
 [
-    [ "npc_voidtraveler", "db/d6c/a22459.html#a07e473c14836a0612acd52078a93f2d8", null ],
-    [ "Reset", "db/d6c/a22459.html#a6efe0725917c92657220de2b60579289", null ],
-    [ "UpdateAI", "db/d6c/a22459.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
-    [ "_scheduler", "db/d6c/a22459.html#a1809494e7803103f6bc1698e780dcfbc", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "db/d6c/a22459.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "db/d6c/a22459.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

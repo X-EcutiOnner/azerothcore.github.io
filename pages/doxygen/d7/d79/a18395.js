@@ -1,11 +1,11 @@
 var a18395 =
 [
-    [ "npc_ice_tombAI", "d7/d79/a18395.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
-    [ "DamageTaken", "d7/d79/a18395.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
-    [ "JustDied", "d7/d79/a18395.html#a237f27260aaa9176d81b67b11d063660", null ],
-    [ "SetGUID", "d7/d79/a18395.html#ac406bece1d1f1517b5837e311feef9ae", null ],
-    [ "UpdateAI", "d7/d79/a18395.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
-    [ "_asphyxiationTimer", "d7/d79/a18395.html#a6790d9c852279624a549f60bf26e1eb2", null ],
-    [ "_existenceCheckTimer", "d7/d79/a18395.html#ab3dbf40235549be89e42951d93593ea2", null ],
-    [ "_trappedPlayerGUID", "d7/d79/a18395.html#a8a7666594e59bdac449f2284387b8e2c", null ]
+    [ "npc_little_oozeAI", "d7/d79/a18395.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
+    [ "EnterEvadeMode", "d7/d79/a18395.html#a0bd4bfcc8c373a449f297011289e5530", null ],
+    [ "IsSummonedBy", "d7/d79/a18395.html#afb9763ade36bd742398a8bca961c136b", null ],
+    [ "JustDied", "d7/d79/a18395.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
+    [ "UpdateAI", "d7/d79/a18395.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
+    [ "events", "d7/d79/a18395.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
+    [ "firstUpdate", "d7/d79/a18395.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
+    [ "instance", "d7/d79/a18395.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
 ];

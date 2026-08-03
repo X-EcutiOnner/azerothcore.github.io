@@ -1,7 +1,4 @@
 var a22647 =
 [
-    [ "PrepareAuraScript", "d8/d9f/a22647.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
-    [ "Register", "d8/d9f/a22647.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
-    [ "Update", "d8/d9f/a22647.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
-    [ "Validate", "d8/d9f/a22647.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
+    [ "instance_auchenai_crypts_InstanceMapScript", "d8/d9f/a22647.html#af67e3aa61d9fe3ed3876b1bd2df9ff3c", null ]
 ];

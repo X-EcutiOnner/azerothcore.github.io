@@ -1,7 +1,8 @@
 var a09823 =
 [
-    [ "AllWorldObjectsInRange", "d0/d32/a09823.html#a63f46d510df0fa3153d4b3325676a468", null ],
-    [ "operator()", "d0/d32/a09823.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
-    [ "m_fRange", "d0/d32/a09823.html#a6afe3ef05369dce8ee205db219f97846", null ],
-    [ "m_pObject", "d0/d32/a09823.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
+    [ "AnyAssistCreatureInRangeCheck", "d0/d32/a09823.html#a2e9cbff4e627fe8ccf67997123afe0a6", null ],
+    [ "operator()", "d0/d32/a09823.html#a314a4800047f7e661cd011010b3f148e", null ],
+    [ "i_enemy", "d0/d32/a09823.html#a37318ae783e6cf4a658063aab149e8a3", null ],
+    [ "i_funit", "d0/d32/a09823.html#add1071091d1696c3f537483810dcb6f1", null ],
+    [ "i_range", "d0/d32/a09823.html#a4bcf67be5bae4649d82586349d30be04", null ]
 ];

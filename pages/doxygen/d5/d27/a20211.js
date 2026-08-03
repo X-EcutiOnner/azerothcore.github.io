@@ -1,11 +1,7 @@
 var a20211 =
 [
-    [ "boss_freya_elder_brightleaf", "d5/d27/a20211.html#a7454f4dec1f1ccc471f42eeee513f272", null ],
-    [ "JustDied", "d5/d27/a20211.html#a98aed4b2a4ebf10c807d9bb54c65a273", null ],
-    [ "JustEngagedWith", "d5/d27/a20211.html#ad0f003e5b57b7c7df4b860df2f8e1e85", null ],
-    [ "KilledUnit", "d5/d27/a20211.html#a3c45c1c87f793cb4dbd447065b09d108", null ],
-    [ "Reset", "d5/d27/a20211.html#ae9687c330856da6d5e7bed9bccbe8e52", null ],
-    [ "UpdateAI", "d5/d27/a20211.html#aa53a5a5ada35c8717c58553b397d58d9", null ],
-    [ "events", "d5/d27/a20211.html#aaa459ae8f2e0f83330359d45259d9f79", null ],
-    [ "summons", "d5/d27/a20211.html#a0c11c362ecc29e91f21c87ca0fb3d92e", null ]
+    [ "HandleOnHit", "d5/d27/a20211.html#a3a0f411a652a5753a543f57433212425", null ],
+    [ "PrepareSpellScript", "d5/d27/a20211.html#a93008907295d79e9c98747bc416b6b5a", null ],
+    [ "Register", "d5/d27/a20211.html#a858cc1c717a7cadc9eac41b89738d7e1", null ],
+    [ "Validate", "d5/d27/a20211.html#a56f021a02c261dfb694e57af35c0ca14", null ]
 ];

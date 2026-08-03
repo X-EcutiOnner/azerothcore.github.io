@@ -1,6 +1,6 @@
 var a17611 =
 [
-    [ "boss_prince_taldaramAI", "d7/d4e/a17615.html", "d7/d4e/a17615" ],
-    [ "boss_prince_taldaram_icc", "d8/dda/a17611.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
-    [ "GetAI", "d8/dda/a17611.html#a2a8c89206ab72afc68260f41a246da3b", null ]
+    [ "HandleScriptEffect", "d8/dda/a17611.html#ab9c289e946cfaf2b63f2526914d79812", null ],
+    [ "PrepareSpellScript", "d8/dda/a17611.html#a832f8ab737254760fe2b91f19d119781", null ],
+    [ "Register", "d8/dda/a17611.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
 ];

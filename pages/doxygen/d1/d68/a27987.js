@@ -1,6 +1,5 @@
 var a27987 =
 [
-    [ "go_midsummer_musicAI", "d4/daa/a27991.html", "d4/daa/a27991" ],
-    [ "go_midsummer_music", "d1/d68/a27987.html#a39c38fc78b47b16be9eebee0ccd5041d", null ],
-    [ "GetAI", "d1/d68/a27987.html#a1baf09bdbf67c0a85219454c1cd61d2b", null ]
+    [ "achievement_bg_control_all_nodes", "d1/d68/a27987.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "d1/d68/a27987.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

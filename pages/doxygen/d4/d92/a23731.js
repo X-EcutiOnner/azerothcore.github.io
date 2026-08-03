@@ -1,14 +1,16 @@
 var a23731 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d4/d92/a23731.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
-    [ "Initialize", "d4/d92/a23731.html#a187340b00067f2f65a7e48845a6edaba", null ],
-    [ "JustSummoned", "d4/d92/a23731.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
-    [ "Reset", "d4/d92/a23731.html#a92a6cbe0515752440284d18bae0adf66", null ],
-    [ "SpellHit", "d4/d92/a23731.html#a517f7412208de83604d0d6806fbc0b34", null ],
-    [ "UpdateAI", "d4/d92/a23731.html#ab4fb75f1b84c2722f936387a6942028b", null ],
-    [ "CannonGUID", "d4/d92/a23731.html#a220e111467cfb6f02e996f012123e09b", null ],
-    [ "count", "d4/d92/a23731.html#ac78f94033239dcf247be9a48d0535081", null ],
-    [ "events", "d4/d92/a23731.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
-    [ "PartyTime", "d4/d92/a23731.html#a1780c656fb539be6dcd74e271cea4c53", null ],
-    [ "PlayerGUID", "d4/d92/a23731.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
+    [ "npc_millhouse_manastormAI", "d4/d92/a23731.html#ac86df4d5887c4c1b719ce47f00b32995", null ],
+    [ "AttackStart", "d4/d92/a23731.html#a032cc1ad7a07ead4ced3afe99601d94f", null ],
+    [ "DamageTaken", "d4/d92/a23731.html#a30ed336d552596211b3bfc316d223968", null ],
+    [ "InitializeAI", "d4/d92/a23731.html#a7e8f7483b7cf4ba5d87386940e632339", null ],
+    [ "JustDied", "d4/d92/a23731.html#aaa22ed7812600c1670d12d6887d316d6", null ],
+    [ "JustEngagedWith", "d4/d92/a23731.html#a5e643192572f29f954a31b7b949f6525", null ],
+    [ "KilledUnit", "d4/d92/a23731.html#ac3ba302f496d03c171d1d3f4dbf175da", null ],
+    [ "Reset", "d4/d92/a23731.html#a74076048ea382816fa9c98a0d759af46", null ],
+    [ "UpdateAI", "d4/d92/a23731.html#a7dad659c4ba1db0460c23a3dc573eff2", null ],
+    [ "_usedIceblock", "d4/d92/a23731.html#af0ce341df018dafdce89f75fcb9f0063", null ],
+    [ "events", "d4/d92/a23731.html#aa9aadd461e32cf8a65b185d77f62d838", null ],
+    [ "events2", "d4/d92/a23731.html#ac762ce5981457cbcf6ec73236bab2486", null ],
+    [ "instance", "d4/d92/a23731.html#aff28c68ed9575440f5732df855ab4372", null ]
 ];

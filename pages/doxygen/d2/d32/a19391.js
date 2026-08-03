@@ -1,6 +1,6 @@
 var a19391 =
 [
-    [ "FilterTargets", "d2/d32/a19391.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
-    [ "PrepareSpellScript", "d2/d32/a19391.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
-    [ "Register", "d2/d32/a19391.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
+    [ "npc_isle_of_conquest_turretAI", "d7/dab/a19395.html", "d7/dab/a19395" ],
+    [ "npc_isle_of_conquest_turret", "d2/d32/a19391.html#ac080845203adef25e6841133b7e2f4dc", null ],
+    [ "GetAI", "d2/d32/a19391.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
 ];

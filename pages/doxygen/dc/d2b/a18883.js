@@ -1,9 +1,6 @@
 var a18883 =
 [
-    [ "npc_gluttonous_abominationAI", "dc/d2b/a18883.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
-    [ "JustDied", "dc/d2b/a18883.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
-    [ "JustSummoned", "dc/d2b/a18883.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
-    [ "Reset", "dc/d2b/a18883.html#a45588181429a74ac024e0390c76fa57a", null ],
-    [ "UpdateAI", "dc/d2b/a18883.html#a33ef03a9f005ff187493275a9c2683a7", null ],
-    [ "_events", "dc/d2b/a18883.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
+    [ "boss_valithria_dreamwalkerAI", "d3/d8b/a18887.html", "d3/d8b/a18887" ],
+    [ "boss_valithria_dreamwalker", "dc/d2b/a18883.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
+    [ "GetAI", "dc/d2b/a18883.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
 ];

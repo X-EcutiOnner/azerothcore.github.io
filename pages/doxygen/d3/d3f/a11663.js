@@ -1,6 +1,9 @@
 var a11663 =
 [
-    [ "WorldSessionFilter", "d3/d3f/a11663.html#aba91eb2dfd56201534743b2d458fa111", null ],
-    [ "~WorldSessionFilter", "d3/d3f/a11663.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
-    [ "Process", "d3/d3f/a11663.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
+    [ "TotemCreated", "d3/d3f/a11663.html#a24c9e483d1edb526330311c719d750df", null ],
+    [ "Write", "d3/d3f/a11663.html#a554900ae7442f00a63c983ea7ea74510", null ],
+    [ "Duration", "d3/d3f/a11663.html#aff6335b86ac051bccb623124905c7180", null ],
+    [ "Slot", "d3/d3f/a11663.html#a0889c816fbef728f1a0a6c530c801eac", null ],
+    [ "SpellID", "d3/d3f/a11663.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
+    [ "Totem", "d3/d3f/a11663.html#a684d15c5368e8065c78e9320eebb676b", null ]
 ];

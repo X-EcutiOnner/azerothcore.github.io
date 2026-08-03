@@ -1,9 +1,15 @@
 var a16327 =
 [
-    [ "npc_anub_ar_crusher", "da/de1/a16327.html#a0520d606e8f8fa6f2c1262e025ea2c1c", null ],
-    [ "DamageTaken", "da/de1/a16327.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2", null ],
-    [ "DoEngagedWith", "da/de1/a16327.html#a70238afe4b9ae58b99067581db6734c8", null ],
-    [ "DoEvent", "da/de1/a16327.html#ac20630563a1869f56f538968cb8bb1ea", null ],
-    [ "JustDied", "da/de1/a16327.html#a66dc8cb3dc096dc0aa5b464879773df7", null ],
-    [ "_hadFrenzy", "da/de1/a16327.html#a0e3c9d35a654e82d5f845b820de2a9a1", null ]
+    [ "boss_volazj", "da/de1/a16327.html#ac1f0bc7b55a554d29e55a376680bf747", null ],
+    [ "CheckPhaseMinions", "da/de1/a16327.html#aa79bf97b6772956795bd2f16b85e061f", null ],
+    [ "GetPlrInsanityAuraId", "da/de1/a16327.html#a5b6936cedb3fc411ae58f3dc3f6b689a", null ],
+    [ "JustDied", "da/de1/a16327.html#a6c85c56c2483c3e8b4de67b94a45e0a6", null ],
+    [ "JustEngagedWith", "da/de1/a16327.html#a135c5606742474e77ffd0ee0a3c3ee69", null ],
+    [ "KilledUnit", "da/de1/a16327.html#abdf2cb95f0d3d7756584c338f2e2db25", null ],
+    [ "Reset", "da/de1/a16327.html#a0377375b89b02db3cae01390fdd13ee2", null ],
+    [ "ResetPlayersPhaseMask", "da/de1/a16327.html#afbfa62f2b72a95434348f74fdda46da6", null ],
+    [ "ScheduleTasks", "da/de1/a16327.html#a44a8aa836a45e5a9827814bb731d2882", null ],
+    [ "SetData", "da/de1/a16327.html#aa8b5ae6214f0c764f15b096876d614d7", null ],
+    [ "UpdateAI", "da/de1/a16327.html#aceac85fb06c81ccd171b024ad0d57ffe", null ],
+    [ "insanityPhase", "da/de1/a16327.html#ae90de1e956eb3653c8c2f0c04d89585b", null ]
 ];

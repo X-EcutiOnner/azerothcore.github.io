@@ -1,9 +1,8 @@
 var a09859 =
 [
-    [ "WorldPacketList", "da/de6/a09859.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
-    [ "LocalizedPacketListDo", "da/de6/a09859.html#ab52133e238752f725f18580018a84cd2", null ],
-    [ "~LocalizedPacketListDo", "da/de6/a09859.html#a8442452027bcb5c98d60830e016803b5", null ],
-    [ "operator()", "da/de6/a09859.html#adea9610e36d436563ba1f472481aed85", null ],
-    [ "i_builder", "da/de6/a09859.html#a83bda52b10d30f7fd633c285b79e740b", null ],
-    [ "i_data_cache", "da/de6/a09859.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
+    [ "AllCreaturesOfEntryInRange", "da/de6/a09859.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
+    [ "operator()", "da/de6/a09859.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
+    [ "m_fRange", "da/de6/a09859.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
+    [ "m_pObject", "da/de6/a09859.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
+    [ "m_uiEntry", "da/de6/a09859.html#abf653360d2ee482728fb137a37fe0512", null ]
 ];

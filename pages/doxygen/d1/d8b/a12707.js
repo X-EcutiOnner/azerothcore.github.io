@@ -1,11 +1,14 @@
 var a12707 =
 [
-    [ "boss_quartermaster_zigris", "d1/d8b/a12707.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
-    [ "DamageTaken", "d1/d8b/a12707.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
-    [ "JustDied", "d1/d8b/a12707.html#a9295bbcffd7968051a789e8dfb634e23", null ],
-    [ "JustEngagedWith", "d1/d8b/a12707.html#af482c06e00e7f6c15b290115998a27a9", null ],
-    [ "Reset", "d1/d8b/a12707.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
-    [ "SpellHitTarget", "d1/d8b/a12707.html#a38197746cc73ada1378e6e1a5555ef79", null ],
-    [ "UpdateAI", "d1/d8b/a12707.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
-    [ "_hasDrunkPotion", "d1/d8b/a12707.html#a25335533bc43171687e03f1ed22d4fb3", null ]
+    [ "boss_ambassador_flamelash", "d1/d8b/a12707.html#a4eec2a22080fb99671d4596a131957b1", null ],
+    [ "DoAction", "d1/d8b/a12707.html#ae34494448f93104750da92ff20730dc1", null ],
+    [ "getValidRandomPosition", "d1/d8b/a12707.html#a4585ec9b91b506fd78f344c1e8e83697", null ],
+    [ "JustDied", "d1/d8b/a12707.html#afdf68272e1acd47a8c6e4a0c18f0b6bf", null ],
+    [ "JustEngagedWith", "d1/d8b/a12707.html#a1629ac221933d038d71c256de914121b", null ],
+    [ "Reset", "d1/d8b/a12707.html#aa6e66bf78c714fad816e654ed37801e5", null ],
+    [ "SummonSpirits", "d1/d8b/a12707.html#a2674933aca19741e3c27eee7636e6774", null ],
+    [ "TurnRunes", "d1/d8b/a12707.html#a1332d0405911dcba90420a49936502aa", null ],
+    [ "UpdateAI", "d1/d8b/a12707.html#a891ab6cb21b16f9a6bd08934bbe7257d", null ],
+    [ "_foundValidPosition", "d1/d8b/a12707.html#ac6c1674f7e6b5c9f2f4be052cdf509a1", null ],
+    [ "_validPosition", "d1/d8b/a12707.html#a2a11c3d01e99c6737c8b7459336bb021", null ]
 ];

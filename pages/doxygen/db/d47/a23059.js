@@ -1,11 +1,6 @@
 var a23059 =
 [
-    [ "boss_ahune", "db/d47/a23059.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "db/d47/a23059.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "db/d47/a23059.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "db/d47/a23059.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "db/d47/a23059.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "db/d47/a23059.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "db/d47/a23059.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "db/d47/a23059.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "HandleSchoolDamage", "db/d47/a23059.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
+    [ "PrepareSpellScript", "db/d47/a23059.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
+    [ "Register", "db/d47/a23059.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
 ];

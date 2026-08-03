@@ -1,14 +1,6 @@
 var a28179 =
 [
-    [ "npc_preciousAI", "d4/d82/a28179.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
-    [ "FlagForDespawn", "d4/d82/a28179.html#a934a5147c1cc9937189011fb061657da", null ],
-    [ "GetData", "d4/d82/a28179.html#a91c93f8d58501b705809653639ec05d1", null ],
-    [ "InitializeAI", "d4/d82/a28179.html#aa15843c4029f2df2ee04d21b5157602a", null ],
-    [ "JustEngagedWith", "d4/d82/a28179.html#a58bc4149111605850f070a77ee776313", null ],
-    [ "JustReachedHome", "d4/d82/a28179.html#a31893e9441b24398554370a58ef8bd78", null ],
-    [ "Reset", "d4/d82/a28179.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
-    [ "SetData", "d4/d82/a28179.html#a2246203bca5b716852abd631320b790c", null ],
-    [ "UpdateAI", "d4/d82/a28179.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
-    [ "events", "d4/d82/a28179.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
-    [ "flaggedForDespawn", "d4/d82/a28179.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
+    [ "go_witherbark_totem_bundleAI", "d4/d82/a28179.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "d4/d82/a28179.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "d4/d82/a28179.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

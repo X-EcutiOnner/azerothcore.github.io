@@ -1,6 +1,10 @@
 var a07607 =
 [
-    [ "ArenaTeamFilterByTypes", "d2/d08/a07607.html#ac28ee86767c48219dbe141620c87e129", null ],
-    [ "Filter", "d2/d08/a07607.html#a7c04437788359b40db1c0d4492d51497", null ],
-    [ "_validTypes", "d2/d08/a07607.html#aa3b5ce8932b00b092813af239d83b7d1", null ]
+    [ "CreatureBottom", "d2/d08/a07607.html#aaa8fe59aa58bf02934bf87f636582637", null ],
+    [ "CreatureTop", "d2/d08/a07607.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
+    [ "GameObject", "d2/d08/a07607.html#abc26a328692fc048d9040c44f360f4c4", null ],
+    [ "nbCreatureBottom", "d2/d08/a07607.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
+    [ "nbCreatureTop", "d2/d08/a07607.html#a38ab7536e0682efd7080b823569d504b", null ],
+    [ "nbObject", "d2/d08/a07607.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
+    [ "towerEntry", "d2/d08/a07607.html#a1c0edf97a599773b688954f2e966e794", null ]
 ];

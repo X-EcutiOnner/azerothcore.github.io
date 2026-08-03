@@ -1,7 +1,10 @@
 var a11227 =
 [
-    [ "AutoEquipItem", "d1/d86/a11227.html#a60accc2bf5c484753f94a8fe947e8f36", null ],
-    [ "Read", "d1/d86/a11227.html#a187bcedbc110adc332c0cb1de2bd7d9c", null ],
-    [ "SourceBag", "d1/d86/a11227.html#ad8fe37595168bc57fcd4af46bdbfafdc", null ],
-    [ "SourceSlot", "d1/d86/a11227.html#aee1f081b0775d7fc9eb67764a9249ec5", null ]
+    [ "Count", "d1/d86/a11227.html#a97b56650a40ff3d39c6281d43261f06f", null ],
+    [ "EntryType", "d1/d86/a11227.html#a7c4db5da5d5e501172b8581e4e7bb865", null ],
+    [ "ItemID", "d1/d86/a11227.html#a1daad03864355f94d90315fea68892d4", null ],
+    [ "Money", "d1/d86/a11227.html#a856d32f52e85b2b7329f85b8e04ad0ee", null ],
+    [ "OtherTab", "d1/d86/a11227.html#a359c633cc0034dc8ae8b7db69d3dd739", null ],
+    [ "PlayerGUID", "d1/d86/a11227.html#a90e01e455d373204617b2747ca95fe04", null ],
+    [ "TimeOffset", "d1/d86/a11227.html#a11cf13b65aafbd4dc70399362f4f87fe", null ]
 ];

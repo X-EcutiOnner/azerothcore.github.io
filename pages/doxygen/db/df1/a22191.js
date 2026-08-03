@@ -1,6 +1,6 @@
 var a22191 =
 [
-    [ "CheckCast", "db/df1/a22191.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "db/df1/a22191.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "db/df1/a22191.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "npc_still_at_it_triggerAI", "dd/db4/a22195.html", "dd/db4/a22195" ],
+    [ "npc_still_at_it_trigger", "db/df1/a22191.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
+    [ "GetAI", "db/df1/a22191.html#ae273ea6295f50248d303983d4b4137df", null ]
 ];

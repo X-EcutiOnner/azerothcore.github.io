@@ -1,6 +1,7 @@
 var a21611 =
 [
-    [ "GhoulTargetCheck", "d0/d84/a21611.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "d0/d84/a21611.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "d0/d84/a21611.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "npc_bonker_togglevoltAI", "db/d90/a21615.html", "db/d90/a21615" ],
+    [ "npc_bonker_togglevolt", "d0/d84/a21611.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
+    [ "GetAI", "d0/d84/a21611.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
+    [ "OnQuestAccept", "d0/d84/a21611.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
 ];

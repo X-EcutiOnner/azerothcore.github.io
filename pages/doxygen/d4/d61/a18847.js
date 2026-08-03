@@ -1,6 +1,6 @@
 var a18847 =
 [
-    [ "npc_valithria_cloudAI", "d9/dac/a18851.html", "d9/dac/a18851" ],
-    [ "npc_valithria_cloud", "d4/d61/a18847.html#a11d1bdc4c6e8210e2d0706f33d369dde", null ],
-    [ "GetAI", "d4/d61/a18847.html#afeff905cec1245dbac6fa59673aef015", null ]
+    [ "ActivateSpirit", "d4/d61/a18847.html#ae5c9f8e693a98c828e0e922870552952", null ],
+    [ "PrepareSpellScript", "d4/d61/a18847.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
+    [ "Register", "d4/d61/a18847.html#a2b1d27e93a879681098a83d17c4d686a", null ]
 ];

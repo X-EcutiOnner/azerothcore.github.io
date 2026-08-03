@@ -1,9 +1,6 @@
 var a18027 =
 [
-    [ "CalculatePower", "dc/d8c/a18027.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
-    [ "Load", "dc/d8c/a18027.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
-    [ "PrepareSpellScript", "dc/d8c/a18027.html#a49489a8e4e39735efa560f53236dfc2c", null ],
-    [ "PreventPowerGainOnHit", "dc/d8c/a18027.html#a5eebe6f82a6d7306d6e232b755531939", null ],
-    [ "Register", "dc/d8c/a18027.html#a67b59c096848adaad5566cbc2140da59", null ],
-    [ "Validate", "dc/d8c/a18027.html#a355500a6f3bfed084030738041d0e3b9", null ]
+    [ "npc_gunship_boarding_add_realAI", "d1/ded/a18031.html", "d1/ded/a18031" ],
+    [ "npc_gunship_boarding_add", "dc/d8c/a18027.html#aa80871f80bae7186d3665f73d757e108", null ],
+    [ "GetAI", "dc/d8c/a18027.html#ad7e173bffccca6d852ba545427235447", null ]
 ];

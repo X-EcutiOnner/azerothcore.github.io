@@ -1,6 +1,6 @@
 var a23803 =
 [
-    [ "npc_ancestral_wolfAI", "d1/db4/a23807.html", "d1/db4/a23807" ],
-    [ "npc_ancestral_wolf", "d4/de6/a23803.html#a7cadf2848a086db63792f8068ee9463d", null ],
-    [ "GetAI", "d4/de6/a23803.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
+    [ "instance_the_botanica_InstanceMapScript", "d1/db4/a23807.html", "d1/db4/a23807" ],
+    [ "instance_the_botanica", "d4/de6/a23803.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
+    [ "GetInstanceScript", "d4/de6/a23803.html#a335f671443ca0fb9db5956cefdf37182", null ]
 ];

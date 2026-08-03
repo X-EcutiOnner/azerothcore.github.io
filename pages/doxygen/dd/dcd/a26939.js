@@ -1,6 +1,7 @@
 var a26939 =
 [
-    [ "HandleTriggerSpell", "dd/dcd/a26939.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
-    [ "PrepareAuraScript", "dd/dcd/a26939.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
-    [ "Register", "dd/dcd/a26939.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
+    [ "HandleApplyEffect", "dd/dcd/a26939.html#af95120b26a165196e0310956c245f36f", null ],
+    [ "HandleRemoveEffect", "dd/dcd/a26939.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
+    [ "PrepareAuraScript", "dd/dcd/a26939.html#ae19e002407db1466f0655db3d14fe0d7", null ],
+    [ "Register", "dd/dcd/a26939.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
 ];

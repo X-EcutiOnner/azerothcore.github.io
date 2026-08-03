@@ -1,5 +1,6 @@
 var a14767 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "d0/d4f/a14767.html#a40207493c75d8a63284e08f1f75d56c4", null ],
-    [ "MoveInLineOfSight", "d0/d4f/a14767.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
+    [ "npc_direbrew_antagonist", "d0/d4f/a14767.html#a30fed4e6888d98af576dea8e13c510d3", null ],
+    [ "DoAction", "d0/d4f/a14767.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
+    [ "JustEngagedWith", "d0/d4f/a14767.html#aaf54b03d66d726901c289ff28d362787", null ]
 ];

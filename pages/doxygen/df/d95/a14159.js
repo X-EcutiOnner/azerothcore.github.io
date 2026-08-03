@@ -1,8 +1,6 @@
 var a14159 =
 [
-    [ "npc_varian_wrynnAI", "de/d13/a14163.html", "de/d13/a14163" ],
-    [ "npc_varian_wrynn", "df/d95/a14159.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
-    [ "GetAI", "df/d95/a14159.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
-    [ "OnGossipHello", "df/d95/a14159.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
-    [ "OnGossipSelect", "df/d95/a14159.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
+    [ "HandleScriptEffect", "df/d95/a14159.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
+    [ "PrepareSpellScript", "df/d95/a14159.html#ad110e0dba330acde845c47501256cf5d", null ],
+    [ "Register", "df/d95/a14159.html#ab6971aa466055a1280cd258e26645157", null ]
 ];

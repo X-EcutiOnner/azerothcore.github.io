@@ -1,5 +1,5 @@
 var a01004 =
 [
-    [ "WorldPackets::Totem::TotemDestroyed", "d5/d96/a11654.html", "d5/d96/a11654" ],
-    [ "WorldPackets::Totem::TotemCreated", "da/dec/a11658.html", "da/dec/a11658" ]
+    [ "WorldPackets::Totem::TotemDestroyed", "d6/d6a/a11659.html", "d6/d6a/a11659" ],
+    [ "WorldPackets::Totem::TotemCreated", "d3/d3f/a11663.html", "d3/d3f/a11663" ]
 ];

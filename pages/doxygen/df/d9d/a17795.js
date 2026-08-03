@@ -1,9 +1,25 @@
 var a17795 =
 [
-    [ "CheckProc", "df/d9d/a17795.html#a13426f7a45e9434f980b42f174b22da8", null ],
-    [ "HandlePeriodicTick", "df/d9d/a17795.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
-    [ "HandleProc", "df/d9d/a17795.html#abf744d64dae5835bff3877eeaa919af3", null ],
-    [ "PrepareAuraScript", "df/d9d/a17795.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
-    [ "Register", "df/d9d/a17795.html#a1b72c10256365de71b8f9fadf5886338", null ],
-    [ "Validate", "df/d9d/a17795.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
+    [ "boss_blood_queen_lana_thelAI", "df/d9d/a17795.html#ab28467f9b11a87162dae0306a1f2fb20", null ],
+    [ "CanAIAttack", "df/d9d/a17795.html#a4b6ce34090fcf21eb68560c078278303", null ],
+    [ "CleanAuras", "df/d9d/a17795.html#a78b0d391090e9d2424da315bf1f696e9", null ],
+    [ "DoAction", "df/d9d/a17795.html#a2e7d45ce9d7a0e05b60c9e94f736d1b3", null ],
+    [ "EnterEvadeMode", "df/d9d/a17795.html#afb02799e3fad05e2e0d48ea5b3be7526", null ],
+    [ "GoToMinchar", "df/d9d/a17795.html#acb939a02a912d1db13947a939f4c554c", null ],
+    [ "JustDied", "df/d9d/a17795.html#a475fcf43849c5cd2144020f57c2a461f", null ],
+    [ "JustEngagedWith", "df/d9d/a17795.html#a01866a1f5a20bd9b4ccf754051dedd10", null ],
+    [ "KilledUnit", "df/d9d/a17795.html#aebb53f7599dd3a55953946b7cc9e76d6", null ],
+    [ "MovementInform", "df/d9d/a17795.html#a4b74cb2b2f36ae115327e8a0532fdc23", null ],
+    [ "Reset", "df/d9d/a17795.html#abc58e7c6c384ea4c342d6b153557c4b1", null ],
+    [ "SetGUID", "df/d9d/a17795.html#a7a6f58a3af0e9b2bf4665f6ab161cf88", null ],
+    [ "UpdateAI", "df/d9d/a17795.html#a13fe9d7463efbecf63d78fce59fc4fab", null ],
+    [ "WasBloodbolted", "df/d9d/a17795.html#a76f5eca557f9d25c8025a909b1de8faf", null ],
+    [ "WasVampire", "df/d9d/a17795.html#a7a74b7241f0ff736bdff7088ee384695", null ],
+    [ "_bloodboltedPlayers", "df/d9d/a17795.html#a1c5ef6d44112d67a29dde74371ab644a", null ],
+    [ "_creditBloodQuickening", "df/d9d/a17795.html#a3534b15706cd35ad8de485fc430207b1", null ],
+    [ "_killMinchar", "df/d9d/a17795.html#ac617b5511beacd7b98d0e9ae8773e7dc", null ],
+    [ "_offtankGUID", "df/d9d/a17795.html#a8a4d21d7ab9ad827c88a7869000c3628", null ],
+    [ "_tankGUID", "df/d9d/a17795.html#a231f68b31fdd105559c186d4edbfc47b", null ],
+    [ "_vampires", "df/d9d/a17795.html#af808b2b543ea9b27b4b03d0e561fb90e", null ],
+    [ "bEnteredCombat", "df/d9d/a17795.html#aca37d322e154ae01ceb4e96b3b42d5d0", null ]
 ];

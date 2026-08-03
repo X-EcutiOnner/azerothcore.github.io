@@ -1,7 +1,6 @@
 var a24091 =
 [
-    [ "npc_isla_starmaneAI", "d9/de2/a24095.html", "d9/de2/a24095" ],
-    [ "npc_isla_starmane", "dd/d40/a24091.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
-    [ "GetAI", "dd/d40/a24091.html#a0ea2dbaab4115772f92849e06aa85575", null ],
-    [ "OnQuestAccept", "dd/d40/a24091.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
+    [ "go_magtheridons_head", "dd/d40/a24091.html#af5816b083f1856196bec7a75f0a995f3", null ],
+    [ "InitializeAI", "dd/d40/a24091.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
+    [ "OnStateChanged", "dd/d40/a24091.html#a28682d161074b71e1f2d70236ff2b897", null ]
 ];

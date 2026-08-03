@@ -1,10 +1,8 @@
 var a15843 =
 [
-    [ "npc_rabid_thistle_bearAI", "da/d31/a15843.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
-    [ "Initialize", "da/d31/a15843.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
-    [ "Reset", "da/d31/a15843.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
-    [ "SpellHit", "da/d31/a15843.html#a62bde5a122748564cc806046bf9dcbaa", null ],
-    [ "UpdateAI", "da/d31/a15843.html#a8f6c5b873756a58760b2861bc8b86804", null ],
-    [ "_events", "da/d31/a15843.html#ad3852bf4588c453642e75fcdc544767b", null ],
-    [ "_playerGUID", "da/d31/a15843.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
+    [ "npc_injured_draeneiAI", "da/d31/a15843.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
+    [ "JustEngagedWith", "da/d31/a15843.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
+    [ "MoveInLineOfSight", "da/d31/a15843.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
+    [ "Reset", "da/d31/a15843.html#adcb601f739a91ce71926791885152471", null ],
+    [ "UpdateAI", "da/d31/a15843.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
 ];

@@ -1,29 +1,6 @@
 var a15159 =
 [
-    [ "instance_mount_hyjal_InstanceMapScript", "d3/ddb/a15159.html#ab824542973eede5a3a3f7dc995e8cc28", null ],
-    [ "GetData", "d3/ddb/a15159.html#ae30c50dfcced56db0c3f42c4deb2bef9", null ],
-    [ "Initialize", "d3/ddb/a15159.html#ac3fffb02ed557b60e22852bdd79cdc9a", null ],
-    [ "OnCreatureCreate", "d3/ddb/a15159.html#a28b8c1e3332dd9ccce42fd3fcb262e2f", null ],
-    [ "OnGameObjectCreate", "d3/ddb/a15159.html#a2048cde72727c5d6b493d67b56ed91f8", null ],
-    [ "OnPlayerInWaterStateUpdate", "d3/ddb/a15159.html#ac07e909721d1416608ea01e8819e3b00", null ],
-    [ "OnUnitDeath", "d3/ddb/a15159.html#a1626532eb4df7ae481032fb9991c5d8f", null ],
-    [ "ResetWaves", "d3/ddb/a15159.html#a183567e69317fe373bf1b17a2a767063", null ],
-    [ "ScheduleWaves", "d3/ddb/a15159.html#afdcceea6e0459b9c5c1e4098227d20dd", null ],
-    [ "SetData", "d3/ddb/a15159.html#a87fd932691795e2d3fb9c8e6de12a20f", null ],
-    [ "Update", "d3/ddb/a15159.html#a4f3824bd9afad19cbffa05c62fdf517b", null ],
-    [ "_ancientGemAlliance", "d3/ddb/a15159.html#a1dc1a47ecf057b4d08e9827c5a859213", null ],
-    [ "_ancientGemHorde", "d3/ddb/a15159.html#a3cd0132363583f8ab24f37e74743abd8", null ],
-    [ "_baseAlliance", "d3/ddb/a15159.html#add9c97be76cdb85bb0cfd24bdf5c99e9", null ],
-    [ "_baseHorde", "d3/ddb/a15159.html#a74d576ec11f4b6027b42ed503e54d3e3", null ],
-    [ "_baseNightElf", "d3/ddb/a15159.html#a4f6a23e1e4c3c406a169908dddc64c00", null ],
-    [ "_bossWave", "d3/ddb/a15159.html#a57e6038adc5c5bfcf30c79559de8dd1e", null ],
-    [ "_currentWave", "d3/ddb/a15159.html#a419ef8bcf249e7aac9c8ea11611fb0c1", null ],
-    [ "_encounterNPCs", "d3/ddb/a15159.html#ae8cdcced3902234317dc419bd04126e0", null ],
-    [ "_infernalTargets", "d3/ddb/a15159.html#a6d48f27c687dc23bb2e60cae55fd33f4", null ],
-    [ "_initialWaves", "d3/ddb/a15159.html#a62fcbef0038fe9a7138acf202d6e7378", null ],
-    [ "_retreat", "d3/ddb/a15159.html#ad9242c9a8e4ea51243b8e526eb82a51b", null ],
-    [ "_roaringFlameAlliance", "d3/ddb/a15159.html#a9c5f35107d7e4311e7d8f65a6eccfb7a", null ],
-    [ "_roaringFlameHorde", "d3/ddb/a15159.html#ac4a2ec6b3fb06cfd9b11486e62e076a3", null ],
-    [ "_summonedNPCs", "d3/ddb/a15159.html#a9bea0d89252e7b6154b2acd67960818a", null ],
-    [ "_trash", "d3/ddb/a15159.html#af7ce9eec953c1986b618b8e3be02ec1a", null ]
+    [ "HandleHit", "d3/ddb/a15159.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
+    [ "PrepareSpellScript", "d3/ddb/a15159.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
+    [ "Register", "d3/ddb/a15159.html#a64a861b5c25df5780390aa55899393d7", null ]
 ];

@@ -1,6 +1,5 @@
 var a08159 =
 [
-    [ "value_type", "d2/def/a08159.html#a39c517c76f9109f1bccd27cd04ec88cd", null ],
-    [ "StoreTo", "d2/def/a08159.html#a5658d34ee9af224a3d19ba5d5123535e", null ],
-    [ "tag", "d2/def/a08159.html#a3538ae91cb7d37c3d0a6a4964f4baaf9", null ]
+    [ "IsColorValid", "d2/def/a08159.html#a075621e69c80c128ec44cfb4f3ba0cf6", null ],
+    [ "IsTextValid", "d2/def/a08159.html#a33f6c3e46c24571a8eec083087618fed", null ]
 ];

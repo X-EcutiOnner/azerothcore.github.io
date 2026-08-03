@@ -1,6 +1,10 @@
 var a26135 =
 [
-    [ "CheckProc", "da/d78/a26135.html#ae67afabe644d2e11f85950d02325373a", null ],
-    [ "PrepareAuraScript", "da/d78/a26135.html#adf2825375a332d2829778d2a57c6f511", null ],
-    [ "Register", "da/d78/a26135.html#ad9f4946abaf474e31b518b57e1de5bf1", null ]
+    [ "CalcPeriodic", "da/d78/a26135.html#a6ec300503503fa6f12a48a8494d41edd", null ],
+    [ "Load", "da/d78/a26135.html#a349827fe659ff3bee0a5dfc677c04825", null ],
+    [ "PrepareAuraScript", "da/d78/a26135.html#a8c12c4ae3835322602347b654d96a8b7", null ],
+    [ "Register", "da/d78/a26135.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
+    [ "Update", "da/d78/a26135.html#afa9e6eec798c354231b5f95e260c7111", null ],
+    [ "Validate", "da/d78/a26135.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
+    [ "_spell_id", "da/d78/a26135.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
 ];

@@ -1,6 +1,7 @@
 var a20655 =
 [
-    [ "OnPeriodic", "d5/df7/a20655.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
-    [ "PrepareAuraScript", "d5/df7/a20655.html#a6aa46e818199da206e6543005a7fe87f", null ],
-    [ "Register", "d5/df7/a20655.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
+    [ "PrepareSpellScript", "d5/df7/a20655.html#afae92a0d4e41fc2fd00b1fd0b6b11a22", null ],
+    [ "PreventSummon", "d5/df7/a20655.html#a57fcc7a0e078c344e50863ba1951f244", null ],
+    [ "Register", "d5/df7/a20655.html#a3813bf7e198f5f3c146b4639fa83a067", null ],
+    [ "SetDest", "d5/df7/a20655.html#a4d49ebdf1dab3b4952e4f4c7c50ca16b", null ]
 ];

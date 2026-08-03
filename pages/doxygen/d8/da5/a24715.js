@@ -1,6 +1,7 @@
 var a24715 =
 [
-    [ "HandleHeal", "d8/da5/a24715.html#a682a496d59201774de50951ffd2c7c0d", null ],
-    [ "PrepareSpellScript", "d8/da5/a24715.html#a10dd1c0f67ff07f8e35ba0322c934899", null ],
-    [ "Register", "d8/da5/a24715.html#abc29f509e703f3807241b63f728a69af", null ]
+    [ "CheckProc", "d8/da5/a24715.html#a841b1a19cafcbf3b3bf82867cbb23384", null ],
+    [ "HandleProc", "d8/da5/a24715.html#a1d2e356b47d793bf9193b03f635ce579", null ],
+    [ "PrepareAuraScript", "d8/da5/a24715.html#addfa11cf74409b4bb369c2bbf583c13c", null ],
+    [ "Register", "d8/da5/a24715.html#a180fbfc09087cb2cd919734c447fef10", null ]
 ];

@@ -1,14 +1,14 @@
 var a10191 =
 [
-    [ "BattlegroundMap", "dd/d4e/a10191.html#a3a9af8a69ac8d188d7fb86f2a9dda2c3", null ],
-    [ "~BattlegroundMap", "dd/d4e/a10191.html#a327d241fd7930e9b3a98ba50014d5131", null ],
-    [ "AddPlayerToMap", "dd/d4e/a10191.html#a0325279a2affc7b20a415a3b90a32fc0", null ],
-    [ "CannotEnter", "dd/d4e/a10191.html#a493a1932eee44c346d9cfb7d13789bb6", null ],
-    [ "GetBG", "dd/d4e/a10191.html#a2fcb965981bb03571f12c11cdbac54a4", null ],
-    [ "InitVisibilityDistance", "dd/d4e/a10191.html#af2d6847765d10fab527d77b26dd770ad", null ],
-    [ "RemoveAllPlayers", "dd/d4e/a10191.html#a5093cbf8005d06452eeb202513323c1e", null ],
-    [ "RemovePlayerFromMap", "dd/d4e/a10191.html#aeddb9dfae8601e95b0a93cefc12c2612", null ],
-    [ "SetBG", "dd/d4e/a10191.html#aaa9e5f830953b1a37a684ac566e9b768", null ],
-    [ "SetUnload", "dd/d4e/a10191.html#a4c03b1aa9c4c53697ad6284825a1b9c1", null ],
-    [ "m_bg", "dd/d4e/a10191.html#aa38fff695728ddedc94dd6eb6bd7bf3b", null ]
+    [ "ServerMailMgr", "dd/d4e/a10191.html#aeec2235e9dd9b36b868634d850f02a5b", null ],
+    [ "~ServerMailMgr", "dd/d4e/a10191.html#adba54af38e90ecae21e79835910ba195", null ],
+    [ "ConditionTypeUsesConditionState", "dd/d4e/a10191.html#a2e7a8cdc7ebdb51204823fd30a0449b3", null ],
+    [ "GetAllServerMailStore", "dd/d4e/a10191.html#acb4521f696c6f11c977dc9d8b76e0c16", null ],
+    [ "GetServerMailConditionType", "dd/d4e/a10191.html#a57f8aea4b5bb15ff77b9ebd8e65e8092", null ],
+    [ "instance", "dd/d4e/a10191.html#abc85cb07f717384fac09f4e2b0f59af1", null ],
+    [ "LoadMailServerTemplates", "dd/d4e/a10191.html#a1a01dd7a8e5c45bc7c97203e4a04a768", null ],
+    [ "LoadMailServerTemplatesConditions", "dd/d4e/a10191.html#a6bb75bdb34a25dd01fdc7e81b4e9b897", null ],
+    [ "LoadMailServerTemplatesItems", "dd/d4e/a10191.html#a49aea924f27804d21fbe06e72e159df3", null ],
+    [ "SendServerMail", "dd/d4e/a10191.html#a85c3556138304b75ad3dec0014e56def", null ],
+    [ "_serverMailStore", "dd/d4e/a10191.html#a96ae3a78694ca97d112c5d92884f2415", null ]
 ];

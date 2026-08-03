@@ -1,8 +1,9 @@
 var a13311 =
 [
-    [ "CheckProc", "d7/d88/a13311.html#a085f6affd2bf76fe66f9023e67725848", null ],
-    [ "HandleProc", "d7/d88/a13311.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
-    [ "PrepareAuraScript", "d7/d88/a13311.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
-    [ "Register", "d7/d88/a13311.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
-    [ "Validate", "d7/d88/a13311.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
+    [ "go_blood_drenched_doorAI", "d7/d88/a13311.html#af431fff2778278cbd3e27b3906201373", null ],
+    [ "GossipHello", "d7/d88/a13311.html#aa3d9c4ee80d6fb42103a3f02abdd8d20", null ],
+    [ "UpdateAI", "d7/d88/a13311.html#a644ac9ce05242714d1b87150852539f3", null ],
+    [ "events", "d7/d88/a13311.html#a2c51ffa6a3992fe55c2e22cb783409c9", null ],
+    [ "mirkblood", "d7/d88/a13311.html#a07e1b098c31efe45e2df4f85f71109e4", null ],
+    [ "opener", "d7/d88/a13311.html#aa70272eb79e875ba7d7767a1bf82afe9", null ]
 ];

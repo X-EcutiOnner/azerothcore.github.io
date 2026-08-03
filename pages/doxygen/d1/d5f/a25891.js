@@ -1,7 +1,6 @@
 var a25891 =
 [
-    [ "HandleHeal", "d1/d5f/a25891.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
-    [ "Load", "d1/d5f/a25891.html#a4dd5016439e8798083fe3d4fa5458731", null ],
-    [ "PrepareSpellScript", "d1/d5f/a25891.html#a248ae6d2c8f8d6c014a0164105773836", null ],
-    [ "Register", "d1/d5f/a25891.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
+    [ "HandleActivateObject", "d1/d5f/a25891.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
+    [ "PrepareSpellScript", "d1/d5f/a25891.html#a684079434128bacd3d8b8b71c14dc56a", null ],
+    [ "Register", "d1/d5f/a25891.html#a266301f59c809c03d0ccfc48a2ace302", null ]
 ];

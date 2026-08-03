@@ -1,7 +1,9 @@
 var a20691 =
 [
-    [ "npc_xt002_life_spark", "de/da1/a20691.html#ac524bfb0dd21bb59d4c602db04f14f64", null ],
-    [ "Reset", "de/da1/a20691.html#aa1bd9ed78b8586b46d297f186c9c430c", null ],
-    [ "UpdateAI", "de/da1/a20691.html#ab6f284dd4d5dad3d38bae062abe544fa", null ],
-    [ "_attackTimer", "de/da1/a20691.html#aa8b46e7a044c90fe9e342e9bffe7e4dc", null ]
+    [ "npc_ulduar_emergency_fire_bot", "de/da1/a20691.html#ae6e7e18bae098db633de891ab52ca0d3", null ],
+    [ "AttackStart", "de/da1/a20691.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
+    [ "MoveInLineOfSight", "de/da1/a20691.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
+    [ "MovementInform", "de/da1/a20691.html#a6f7306e3da54511ddbef772044f76950", null ],
+    [ "UpdateAI", "de/da1/a20691.html#a653df31873aca5acb86020cc1e14f4a0", null ],
+    [ "_events", "de/da1/a20691.html#a99f051bd7a1136375103005f0615c4f2", null ]
 ];

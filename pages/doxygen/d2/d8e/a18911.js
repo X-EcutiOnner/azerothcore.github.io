@@ -1,7 +1,13 @@
 var a18911 =
 [
-    [ "PeriodicTick", "d2/d8e/a18911.html#ac1bace4fc66349364c84b5784967e9bf", null ],
-    [ "PrepareAuraScript", "d2/d8e/a18911.html#a358193e3340112c04f79c043548c3de0", null ],
-    [ "Register", "d2/d8e/a18911.html#a28f52bc253899aa407e67f9a089c815c", null ],
-    [ "Validate", "d2/d8e/a18911.html#a0dde3447e38e45cea94df44449a19a01", null ]
+    [ "npc_risen_archmageAI", "d2/d8e/a18911.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
+    [ "CanAIAttack", "d2/d8e/a18911.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
+    [ "DoAction", "d2/d8e/a18911.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
+    [ "JustEnteredCombat", "d2/d8e/a18911.html#a50bd33c1b28b3691f42a5f167f27e342", null ],
+    [ "JustSummoned", "d2/d8e/a18911.html#aff6e86057086db1319bb680e52e41634", null ],
+    [ "Reset", "d2/d8e/a18911.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
+    [ "UpdateAI", "d2/d8e/a18911.html#ae78dc64f858573b234210ca175e5bdd9", null ],
+    [ "_events", "d2/d8e/a18911.html#a6dff9ff5332c0bc337840882689f47ed", null ],
+    [ "_instance", "d2/d8e/a18911.html#a1b4e12b199bf3ada517c895c5f387c4a", null ],
+    [ "_isInitialArchmage", "d2/d8e/a18911.html#ac871eeab6510fa9f5e8f38f35f299149", null ]
 ];

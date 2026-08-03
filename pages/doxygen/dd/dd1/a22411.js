@@ -1,6 +1,7 @@
 var a22411 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "d0/dc7/a22415.html", "d0/dc7/a22415" ],
-    [ "instance_mana_tombs", "dd/dd1/a22411.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
-    [ "GetInstanceScript", "dd/dd1/a22411.html#a26e4dad0957df886bc446396ab48ceda", null ]
+    [ "npc_wg_quest_giver", "dd/dd1/a22411.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "dd/dd1/a22411.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "dd/dd1/a22411.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "dd/dd1/a22411.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

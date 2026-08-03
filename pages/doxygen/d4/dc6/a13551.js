@@ -1,6 +1,7 @@
 var a13551 =
 [
-    [ "instance_scholomance_InstanceMapScript", "d6/d00/a13555.html", "d6/d00/a13555" ],
-    [ "instance_scholomance", "d4/dc6/a13551.html#ace7a781c45623419daad6143480d8fe2", null ],
-    [ "GetInstanceScript", "d4/dc6/a13551.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
+    [ "HandleEffectApply", "d4/dc6/a13551.html#a710536e0a3bacf173d037041e755bd82", null ],
+    [ "HandleEffectRemove", "d4/dc6/a13551.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
+    [ "PrepareAuraScript", "d4/dc6/a13551.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
+    [ "Register", "d4/dc6/a13551.html#a9092818bdb15a12163aae633049cb7f6", null ]
 ];

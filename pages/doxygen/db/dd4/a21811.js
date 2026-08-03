@@ -1,7 +1,7 @@
 var a21811 =
 [
-    [ "HandleScript", "db/dd4/a21811.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
-    [ "PrepareSpellScript", "db/dd4/a21811.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
-    [ "Register", "db/dd4/a21811.html#a713b82bc3d82a8324ce4dd090059f463", null ],
-    [ "Validate", "db/dd4/a21811.html#ac8e362d9f76350da106e128138737c5c", null ]
+    [ "HandleApplyEffect", "db/dd4/a21811.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
+    [ "HandleRemoveEffect", "db/dd4/a21811.html#a243933fec9ccd650303ea5badbea725b", null ],
+    [ "PrepareAuraScript", "db/dd4/a21811.html#ac0e1fc0694dd51e245340d3658592447", null ],
+    [ "Register", "db/dd4/a21811.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
 ];

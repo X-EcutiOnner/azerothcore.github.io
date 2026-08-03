@@ -1,9 +1,6 @@
 var a22291 =
 [
-    [ "OPvPCapturePointGH", "d9/d5c/a22291.html#a6e46100e50212310af4301c492d5773e", null ],
-    [ "ChangeState", "d9/d5c/a22291.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
-    [ "FillInitialWorldStates", "d9/d5c/a22291.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
-    [ "HandlePlayerEnter", "d9/d5c/a22291.html#afea733c44d129d9a5af78a8337d9e04a", null ],
-    [ "HandlePlayerLeave", "d9/d5c/a22291.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
-    [ "SendChangePhase", "d9/d5c/a22291.html#aec741b9102829bf77850dc06a49bb8da", null ]
+    [ "npc_brunnhildar_prisonerAI", "d8/d84/a22295.html", "d8/d84/a22295" ],
+    [ "npc_brunnhildar_prisoner", "d9/d5c/a22291.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
+    [ "GetAI", "d9/d5c/a22291.html#aa2a1787849c74a5163a39137c9d03d57", null ]
 ];

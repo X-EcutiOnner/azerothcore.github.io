@@ -1,5 +1,6 @@
 var a21095 =
 [
-    [ "npc_ritual_channelerAI", "d6/d55/a21095.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "d6/d55/a21095.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "HandleScript", "d6/d55/a21095.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
+    [ "PrepareSpellScript", "d6/d55/a21095.html#ab2a4155f6029850c61e84d7c180addae", null ],
+    [ "Register", "d6/d55/a21095.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
 ];

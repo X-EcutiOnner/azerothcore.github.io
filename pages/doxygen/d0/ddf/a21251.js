@@ -1,11 +1,13 @@
 var a21251 =
 [
-    [ "npc_vh_void_sentry", "d0/ddf/a21251.html#adeb66953fb7540aab5190b825ff98ec8", null ],
-    [ "DoAction", "d0/ddf/a21251.html#a37ed72c221f23cd653694c10d536eec4", null ],
-    [ "JustDied", "d0/ddf/a21251.html#aabf96934586d38d6f958c1571c0b3b56", null ],
-    [ "SummonedCreatureDespawn", "d0/ddf/a21251.html#aa0ac1eb51911672653ec6fd48d2ef316", null ],
-    [ "UpdateAI", "d0/ddf/a21251.html#a417af2ca21310ca105d7561e3ab21272", null ],
-    [ "_events", "d0/ddf/a21251.html#a30899a2d4d8a82b26251911dc3b48008", null ],
-    [ "_instance", "d0/ddf/a21251.html#a80dc77a2deaf0f922f3f096f40b253e1", null ],
-    [ "_summonedGuid", "d0/ddf/a21251.html#a223e85ca87d89c51d0bc02e00d591aec", null ]
+    [ "npc_ferocious_rhinoAI", "d0/ddf/a21251.html#ad70d0aeba4b73330c5087bc84a533389", null ],
+    [ "DoAction", "d0/ddf/a21251.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
+    [ "JustDied", "d0/ddf/a21251.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
+    [ "JustEngagedWith", "d0/ddf/a21251.html#aab35078fe4518b6647f98e316d02898a", null ],
+    [ "JustReachedHome", "d0/ddf/a21251.html#ab8105d6c8c70037c208c83c13c35242d", null ],
+    [ "MoveInLineOfSight", "d0/ddf/a21251.html#a97e32d32a692f223b96746f3ef1086c5", null ],
+    [ "Reset", "d0/ddf/a21251.html#a6d317407c2de2f954b5dd2a6db137304", null ],
+    [ "UpdateAI", "d0/ddf/a21251.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
+    [ "events", "d0/ddf/a21251.html#af23061de7d8566c7435c2c64c53dff89", null ],
+    [ "m_pInstance", "d0/ddf/a21251.html#a97e00db40792c559dd06327c9960abe4", null ]
 ];

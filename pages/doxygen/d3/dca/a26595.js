@@ -1,8 +1,8 @@
 var a26595 =
 [
-    [ "CheckProc", "d3/dca/a26595.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
-    [ "HandleProc", "d3/dca/a26595.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
-    [ "PrepareAuraScript", "d3/dca/a26595.html#a876c1bda52c99c52249444414196b1d4", null ],
-    [ "Register", "d3/dca/a26595.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
-    [ "Validate", "d3/dca/a26595.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
+    [ "HandleProc", "d3/dca/a26595.html#ab98571b7f614d66c44c25d0d2c6aa738", null ],
+    [ "PrepareAuraScript", "d3/dca/a26595.html#a194c83ebc29c4522b5fc313a3ab4d1dd", null ],
+    [ "Register", "d3/dca/a26595.html#a6dfd4dc774e58a8881b20a31d4c1be56", null ],
+    [ "Validate", "d3/dca/a26595.html#a886d2b1a2bf2f25bde5248edcef9733d", null ],
+    [ "_critStreak", "d3/dca/a26595.html#a4a8e3c9d8754844d74e72cb328c44221", null ]
 ];

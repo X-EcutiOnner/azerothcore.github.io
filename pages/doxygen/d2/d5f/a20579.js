@@ -1,8 +1,7 @@
 var a20579 =
 [
-    [ "npc_ulduar_dark_rune_guardian", "d2/d5f/a20579.html#a225445f5593694dd6b7d9c338735690f", null ],
-    [ "CanAIAttack", "d2/d5f/a20579.html#a0e739a36a33d7ab401a55d629230e2df", null ],
-    [ "Reset", "d2/d5f/a20579.html#a4839f5722ba8d12beb679ac7edd0fe0e", null ],
-    [ "UpdateAI", "d2/d5f/a20579.html#acecc92ef5ad06821854f3afe4f2b673e", null ],
-    [ "timer2", "d2/d5f/a20579.html#a5a3af42aaff640e8e286eda5a658c411", null ]
+    [ "FilterTargetsInitial", "d2/d5f/a20579.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
+    [ "Load", "d2/d5f/a20579.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
+    [ "PrepareSpellScript", "d2/d5f/a20579.html#a4d1e588557fa3fa432d4015fda930877", null ],
+    [ "Register", "d2/d5f/a20579.html#a0428375ddb89907e7f1728757d55d052", null ]
 ];

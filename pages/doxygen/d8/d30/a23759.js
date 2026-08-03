@@ -1,7 +1,7 @@
 var a23759 =
 [
-    [ "npc_daranelleAI", "d8/d30/a23759.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "d8/d30/a23759.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "d8/d30/a23759.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "d8/d30/a23759.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "boss_zereketh_the_unbound", "d8/d30/a23759.html#abb2fc5cbe7514142160818016fda1936", null ],
+    [ "JustDied", "d8/d30/a23759.html#ac5d96da9a33a536f2002cce11453ded3", null ],
+    [ "JustEngagedWith", "d8/d30/a23759.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
+    [ "KilledUnit", "d8/d30/a23759.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
 ];

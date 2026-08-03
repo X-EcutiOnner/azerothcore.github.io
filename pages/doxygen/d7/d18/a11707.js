@@ -1,7 +1,12 @@
 var a11707 =
 [
-    [ "IsValidOpcode", "d7/d18/a11707.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "d7/d18/a11707.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "d7/d18/a11707.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "d7/d18/a11707.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "OpcodeTable", "db/df6/a05082.html#gacb286fdd22f1781abfb0d820b1f345aa", null ],
+    [ "OpcodeTable", "db/df6/a05082.html#ga0d719536cf746ad04a8ecc4fcca4a869", null ],
+    [ "~OpcodeTable", "db/df6/a05082.html#gac4e0724e0795156122c4fd8f07ade628", null ],
+    [ "Initialize", "db/df6/a05082.html#gac64814869d378e5bb7fa18144693fac1", null ],
+    [ "operator=", "db/df6/a05082.html#ga2153d4fe6b752cc2269cbfec7e8c3c84", null ],
+    [ "operator[]", "db/df6/a05082.html#gaa2cde2ecf8628ce12487ec9ce8fa37d1", null ],
+    [ "ValidateAndSetClientOpcode", "db/df6/a05082.html#ga95313e8e04ed3ab47f7104db9cf1db09", null ],
+    [ "ValidateAndSetServerOpcode", "db/df6/a05082.html#ga42b9c6fd72c2f463ab5cb3fb562151b6", null ],
+    [ "_internalTableClient", "db/df6/a05082.html#ga8c0d7f9f6248f9652fd8b8021b9a7677", null ]
 ];

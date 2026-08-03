@@ -1,6 +1,8 @@
 var a16951 =
 [
-    [ "npc_fel_infernalAI", "df/d80/a16955.html", "df/d80/a16955" ],
-    [ "npc_fel_infernal", "d6/da9/a16951.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
-    [ "GetAI", "d6/da9/a16951.html#a768201a7516c9972800c941cf2079a11", null ]
+    [ "npc_toc_hunterAI", "d6/da9/a16951.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "d6/da9/a16951.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "d6/da9/a16951.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "d6/da9/a16951.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "d6/da9/a16951.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

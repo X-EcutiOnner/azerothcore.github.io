@@ -1,8 +1,8 @@
 var a11823 =
 [
-    [ "ReflectEvent", "df/d92/a11823.html#a1669aec08a3a09143c57e4889c8fad08", null ],
-    [ "Execute", "df/d92/a11823.html#a37fb766d70932e8a431dba363c603531", null ],
-    [ "_caster", "df/d92/a11823.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
-    [ "_spellInfo", "df/d92/a11823.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
-    [ "_targetGUID", "df/d92/a11823.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
+    [ "SkillExtraItemEntry", "df/d92/a11823.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
+    [ "SkillExtraItemEntry", "df/d92/a11823.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
+    [ "additionalCreateChance", "df/d92/a11823.html#a299d886468e9caf22f9d6ce80a64c247", null ],
+    [ "newMaxOrEntry", "df/d92/a11823.html#adfda967d36154b039495f0b289a5c9d1", null ],
+    [ "requiredSpecialization", "df/d92/a11823.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
 ];

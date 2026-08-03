@@ -1,5 +1,8 @@
 var a17859 =
 [
-    [ "achievement_flu_shot_shortage", "d2/d28/a17859.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
-    [ "OnCheck", "d2/d28/a17859.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "da/da6/a17863.html", "da/da6/a17863" ],
+    [ "npc_muradin_bronzebeard_icc", "d2/d28/a17859.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
+    [ "GetAI", "d2/d28/a17859.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
+    [ "OnGossipHello", "d2/d28/a17859.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
+    [ "OnGossipSelect", "d2/d28/a17859.html#a46c4893be723a848d985ff55e28d55a2", null ]
 ];

@@ -1,8 +1,5 @@
 var a05619 =
 [
-    [ "Decode", "de/dba/a05619.html#aba5ab7c59ce77414bca38bfcde32d1c0", null ],
-    [ "Encode", "de/dba/a05619.html#ad6cde2310ca52940df1bbf93deff6b91", null ],
-    [ "BITS_PER_CHAR", "de/dba/a05619.html#a5efb6c842ab7733dc26fd67f1a00ccdf", null ],
-    [ "DECODE_ERROR", "de/dba/a05619.html#a8fccf3d4b22e835fc4dca6b942771a2a", null ],
-    [ "PADDING", "de/dba/a05619.html#a2e5699431f24ca6b745294b935b99240", null ]
+    [ "_elements", "de/dba/a05619.html#acad24401d356f811f4660a6c845843e7", null ],
+    [ "_TailElements", "de/dba/a05619.html#a3c5144877b9dcd68e1c2db2043796213", null ]
 ];

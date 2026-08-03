@@ -1,6 +1,7 @@
 var a19119 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "d2/daf/a19123.html", "d2/daf/a19123" ],
-    [ "npc_icc_skybreaker_hierophant", "d3/dd9/a19119.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
-    [ "GetAI", "d3/dd9/a19119.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
+    [ "ICCOrbControllerMinionSearch", "d3/dd9/a19119.html#ad910375b1559d9f806f162ce308de6af", null ],
+    [ "operator()", "d3/dd9/a19119.html#a4b7f4833f5dc780cc0c946b530bb9767", null ],
+    [ "_checkCasting", "d3/dd9/a19119.html#a46624ac7610ccc72baa93d68bf89e070", null ],
+    [ "_owner", "d3/dd9/a19119.html#a056aa0d3240c47c65138ec4469e39953", null ]
 ];

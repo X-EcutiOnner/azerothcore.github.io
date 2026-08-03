@@ -1,30 +1,6 @@
 var a06587 =
 [
-    [ "SmartGameObjectAI", "df/d90/a06587.html#a09107a74c456282dba6233a112779edf", null ],
-    [ "~SmartGameObjectAI", "df/d90/a06587.html#a42014c4916ea308fc44a50a29c729379", null ],
-    [ "Destroyed", "df/d90/a06587.html#aa80f351b7a9e8511015f17df470ed4ef", null ],
-    [ "EventInform", "df/d90/a06587.html#a692787e8922b922bf461496c13084027", null ],
-    [ "GetData", "df/d90/a06587.html#a05fca984c83c7670b410332220ac4a91", null ],
-    [ "GetScript", "df/d90/a06587.html#a8fdf6339cad962502381081955776634", null ],
-    [ "GossipHello", "df/d90/a06587.html#a319ac690004b4d0328e3a70696bb6c83", null ],
-    [ "GossipSelect", "df/d90/a06587.html#ab5cb3c976d87d9e9f255734f5e7c74d2", null ],
-    [ "GossipSelectCode", "df/d90/a06587.html#a64a59b5f17c806746a68788ec1c58495", null ],
-    [ "InitializeAI", "df/d90/a06587.html#a3234fa3fc75125edca47ef0360f3029d", null ],
-    [ "JustSummoned", "df/d90/a06587.html#af5bbf64c3111ef16c5c5f90e80458798", null ],
-    [ "OnGameEvent", "df/d90/a06587.html#a343888265676cb96eaa331d15a2611fe", null ],
-    [ "OnStateChanged", "df/d90/a06587.html#a780451b264fed3f96f8a609160571e7c", null ],
-    [ "Permissible", "df/d90/a06587.html#a831cff86ed6b80c723f48627d2dc5c39", null ],
-    [ "QuestAccept", "df/d90/a06587.html#ac78b290274eb2e5c3645a355269b4c45", null ],
-    [ "QuestReward", "df/d90/a06587.html#ac6a37e9b53bc84189ab8e162edd7d3f4", null ],
-    [ "Reset", "df/d90/a06587.html#aecc82f80b4ee35ad038632b1efca6d60", null ],
-    [ "SetData", "df/d90/a06587.html#ad10cb622572546ae9161249f89973a21", null ],
-    [ "SetData", "df/d90/a06587.html#ac3868517374f4ab9bdcbeb0159fa45c9", null ],
-    [ "SetScript9", "df/d90/a06587.html#a2f734116e0725bb9e56b146dd1571078", null ],
-    [ "SpellHit", "df/d90/a06587.html#a756339608c62aa91f0b3a166a7710a60", null ],
-    [ "SummonedCreatureDespawn", "df/d90/a06587.html#ad50857cdf19bc9db0fe689662f035bcb", null ],
-    [ "SummonedCreatureDies", "df/d90/a06587.html#ae5cecad493fbf61fd6b32a83c999dc66", null ],
-    [ "SummonedCreatureEvade", "df/d90/a06587.html#a039cfca6aff126ccd16fc7e0f3a3db3f", null ],
-    [ "UpdateAI", "df/d90/a06587.html#a36fa0a078ecd806ba4f7730396122a09", null ],
-    [ "aiDataSet", "df/d90/a06587.html#a82a6b7187a3b4f61717973a279a97142", null ],
-    [ "mScript", "df/d90/a06587.html#acb32f3f31274b5938a450e199cad8852", null ]
+    [ "GameObjectAIFactory", "df/d90/a06587.html#a2f658540a81d207694b6d2d783009380", null ],
+    [ "Create", "df/d90/a06587.html#a94fa057baafbbad4b81b97aea34354a3", null ],
+    [ "Permit", "df/d90/a06587.html#ae8b7e45a73f87249e27a4dae596b0d52", null ]
 ];

@@ -1,26 +1,7 @@
 var a20471 =
 [
-    [ "boss_mimiron", "df/da2/a20471.html#acb08d1e24173014a7c443dc2eaea76ce", null ],
-    [ "AttackStart", "df/da2/a20471.html#aee739c9b16ae36af6104b54bde9cf7f7", null ],
-    [ "CloseDoorAndButton", "df/da2/a20471.html#ab5aa46f62dcb16febafb8bb081b1ec38", null ],
-    [ "EnterEvadeMode", "df/da2/a20471.html#a9f39f9afa3f561115c4f7e630364f566", null ],
-    [ "GetData", "df/da2/a20471.html#ab3aa6e8702c74ee27fa776c0a9bef77d", null ],
-    [ "JustEngagedWith", "df/da2/a20471.html#ab9ce3920c2a06deb31bcf25f1b2947a8", null ],
-    [ "JustReachedHome", "df/da2/a20471.html#a9e84d80c2e194c6d51b9d67d0c72db19", null ],
-    [ "MoveInLineOfSight", "df/da2/a20471.html#a0b1497cf1fc3cca2db670b74eb4745ee", null ],
-    [ "Reset", "df/da2/a20471.html#aec9cce9e0fcab78cfcf37e605cc6c08a", null ],
-    [ "ResetGameObjects", "df/da2/a20471.html#ac3a10be85349fc62ef14ecd937159e61", null ],
-    [ "SetData", "df/da2/a20471.html#aa9578fe08ab058a64e67935d262224ac", null ],
-    [ "SpellHit", "df/da2/a20471.html#af4e88527fb72bcbc1dc0a57b6007a461", null ],
-    [ "UpdateAI", "df/da2/a20471.html#adea87e321b4c401109ab4c37e314aca2", null ],
-    [ "_achievBombBot", "df/da2/a20471.html#a916517ab6ec6b4bfe0bcbb445312a9a0", null ],
-    [ "_achievProximityMine", "df/da2/a20471.html#a1fe4524d60414c100e0489bb77396033", null ],
-    [ "_achievRocketStrike", "df/da2/a20471.html#a406cf4b6b01e1fbd6e995173c5cade4a", null ],
-    [ "_allowedFlameSpreadTime", "df/da2/a20471.html#a34e2409dc2384851746d04301b926fdb", null ],
-    [ "_berserk", "df/da2/a20471.html#af85af0d10226de45a42a9d3317244e7a", null ],
-    [ "_changeAllowedFlameSpreadTime", "df/da2/a20471.html#a7d56123e4cc29207b53c0673084ee79e", null ],
-    [ "_hardmode", "df/da2/a20471.html#af4b21f8bb94becdd9082e39d81003a2b", null ],
-    [ "_isEvading", "df/da2/a20471.html#aa46c9828cdd36bb353ae75bea6d205b3", null ],
-    [ "_minutesTalkNum", "df/da2/a20471.html#a4dbed164732f74205cd248afbb2fb46e", null ],
-    [ "_outOfCombatTimer", "df/da2/a20471.html#a73c2e0d120706ec09638bbc20bda81b6", null ]
+    [ "HandleEffectPeriodic", "df/da2/a20471.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "df/da2/a20471.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "df/da2/a20471.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "df/da2/a20471.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

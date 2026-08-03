@@ -1,6 +1,7 @@
 var a26599 =
 [
-    [ "FilterTargets", "d6/dbe/a26599.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
-    [ "PrepareSpellScript", "d6/dbe/a26599.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
-    [ "Register", "d6/dbe/a26599.html#a4db02c58be57a797c26b07656d1b5409", null ]
+    [ "HandleProc", "d6/dbe/a26599.html#ad97c3b5df293ed8afae3e662467088c2", null ],
+    [ "PrepareAuraScript", "d6/dbe/a26599.html#a691f14220a619e1915636417927aaa13", null ],
+    [ "Register", "d6/dbe/a26599.html#a4f3c644a91dab0641ef489fd2da171a2", null ],
+    [ "Validate", "d6/dbe/a26599.html#a6fee4af68a8d312bcb543e0c67932cc9", null ]
 ];

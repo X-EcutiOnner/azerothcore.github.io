@@ -1,9 +1,6 @@
 var a11759 =
 [
-    [ "SpellEvent", "db/d72/a11759.html#abca64eb7d39df9788cef9df7e8634368", null ],
-    [ "~SpellEvent", "db/d72/a11759.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
-    [ "Abort", "db/d72/a11759.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
-    [ "Execute", "db/d72/a11759.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
-    [ "IsDeletable", "db/d72/a11759.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
-    [ "m_Spell", "db/d72/a11759.html#a22cce1d722f5086932ae3e97c58d2921", null ]
+    [ "WorldSession", "db/d72/a11759.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Guid", "db/d72/a11759.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
+    [ "Name", "db/d72/a11759.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
 ];

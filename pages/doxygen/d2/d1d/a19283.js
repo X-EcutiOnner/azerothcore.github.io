@@ -1,10 +1,9 @@
 var a19283 =
 [
-    [ "boss_isle_of_conquestAI", "d2/d1d/a19283.html#a7880ea86e7a03f5b14875065a83a206a", null ],
-    [ "CheckRageBuff", "d2/d1d/a19283.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
-    [ "JustEngagedWith", "d2/d1d/a19283.html#a878635ef0673325943e6026ad76c2b06", null ],
-    [ "Reset", "d2/d1d/a19283.html#add59669e5f6c3c882ac008c720349573", null ],
-    [ "UpdateAI", "d2/d1d/a19283.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
-    [ "events", "d2/d1d/a19283.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
-    [ "rage", "d2/d1d/a19283.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d2/d1d/a19283.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "d2/d1d/a19283.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "d2/d1d/a19283.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "d2/d1d/a19283.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "d2/d1d/a19283.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "d2/d1d/a19283.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

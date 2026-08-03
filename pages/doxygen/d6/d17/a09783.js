@@ -1,8 +1,9 @@
 var a09783 =
 [
-    [ "NearestPlayerInObjectRangeCheck", "d6/d17/a09783.html#ae8e57c69baf8bdaf0448864d4afbb1a4", null ],
-    [ "NearestPlayerInObjectRangeCheck", "d6/d17/a09783.html#aac3d406d10a036b92a55bcd955411165", null ],
-    [ "operator()", "d6/d17/a09783.html#a5d7ed3141c03d2209d5a3b1a689d1668", null ],
-    [ "i_obj", "d6/d17/a09783.html#a9cd17091269bcfc2b48fefc12ac9b127", null ],
-    [ "i_range", "d6/d17/a09783.html#ab55f93d7c5d6ca3461bcbe49010fcb83", null ]
+    [ "AnyGroupedUnitInObjectRangeCheck", "d6/d17/a09783.html#a2c775f62eeabcb8af5306cbcedae322e", null ],
+    [ "operator()", "d6/d17/a09783.html#a3c316eacdd1c74c69d8297871f84d7b9", null ],
+    [ "_raid", "d6/d17/a09783.html#a6a9cffd02435913a5d7ee53cd1e8cc0b", null ],
+    [ "_range", "d6/d17/a09783.html#a01b4592ac61d58ff39e5bb2eb1a1b997", null ],
+    [ "_refUnit", "d6/d17/a09783.html#ad083243ef5487aa374b19e3c82b0457c", null ],
+    [ "_source", "d6/d17/a09783.html#a91de967d2376ea96b1fc0838094915cf", null ]
 ];

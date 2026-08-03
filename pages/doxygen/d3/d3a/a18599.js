@@ -1,7 +1,11 @@
 var a18599 =
 [
-    [ "OnPeriodic", "d3/d3a/a18599.html#accd12b06341f3168c74cb18926614f7f", null ],
-    [ "OnUpdate", "d3/d3a/a18599.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
-    [ "PrepareAuraScript", "d3/d3a/a18599.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
-    [ "Register", "d3/d3a/a18599.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
+    [ "NonTankLKTargetSelector", "d3/d3a/a18599.html#a41c5372505c0c74e93f2c583a0259777", null ],
+    [ "operator()", "d3/d3a/a18599.html#a2e496088092b9885f8e2391c2df91993", null ],
+    [ "_exclude1", "d3/d3a/a18599.html#abe4e56597fa2918b15a003413887ac71", null ],
+    [ "_exclude2", "d3/d3a/a18599.html#a6aa63c93c4e68998f621349760d9ab43", null ],
+    [ "_maxDist", "d3/d3a/a18599.html#ac7e28c908079fbd2e1ca5374731d521e", null ],
+    [ "_playerOnly", "d3/d3a/a18599.html#a5ab89af79aa4840c9a024996a848540c", null ],
+    [ "_reqLOS", "d3/d3a/a18599.html#a61966d6b825f25b6bbf589676cef19f9", null ],
+    [ "_source", "d3/d3a/a18599.html#a86e3ebd2425b76103df7413b5ed4af70", null ]
 ];

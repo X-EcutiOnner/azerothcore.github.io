@@ -1,7 +1,6 @@
 var a11235 =
 [
-    [ "ReadItem", "df/db3/a11235.html#a099da7490ccf30ee0bde5f85e6197a76", null ],
-    [ "Read", "df/db3/a11235.html#a61ae8ba19d04f3001614f8dd2ad408ed", null ],
-    [ "Bag", "df/db3/a11235.html#a16c02f27e986ac3d093668092d67a3c9", null ],
-    [ "Slot", "df/db3/a11235.html#a1d181a1cec1021cf68a5d9b80d2753c3", null ]
+    [ "GuildBankTextQuery", "df/db3/a11235.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
+    [ "Read", "df/db3/a11235.html#af20bd5c8e58b891028613625fb14807d", null ],
+    [ "Tab", "df/db3/a11235.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
 ];

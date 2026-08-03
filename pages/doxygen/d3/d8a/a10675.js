@@ -1,15 +1,6 @@
 var a10675 =
 [
-    [ "CreatureScript", "d3/d8a/a10675.html#afa0053e299f9125cc288ea38652edecb", null ],
-    [ "GetAI", "d3/d8a/a10675.html#a24ba3529655943afdf6598450d14e6c2", null ],
-    [ "GetDialogStatus", "d3/d8a/a10675.html#a41562245c4a44843363d6b0ce32ce48d", null ],
-    [ "IsDatabaseBound", "d3/d8a/a10675.html#af19c64d23391f8b835f79bc6cf315caa", null ],
-    [ "OnFfaPvpStateUpdate", "d3/d8a/a10675.html#a316efb5c026588eb4bce8a0ce6b5cc0f", null ],
-    [ "OnGossipHello", "d3/d8a/a10675.html#a6268b132444845302ada504f48629a4f", null ],
-    [ "OnGossipSelect", "d3/d8a/a10675.html#a30f160576b4cb97d940ecf3468834667", null ],
-    [ "OnGossipSelectCode", "d3/d8a/a10675.html#ad99f4a96106b9dc5cf9c29304d781d6a", null ],
-    [ "OnQuestAccept", "d3/d8a/a10675.html#a6b106a237886f49e523ae7b07e9c5979", null ],
-    [ "OnQuestComplete", "d3/d8a/a10675.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b", null ],
-    [ "OnQuestReward", "d3/d8a/a10675.html#aba2be0f342cb9811bd0ebee954d7d36e", null ],
-    [ "OnQuestSelect", "d3/d8a/a10675.html#a1e054fb61dd560aa7718d59127ad4b51", null ]
+    [ "AchievementCriteriaScript", "d3/d8a/a10675.html#a09da24737dee882300a5e268688b94e6", null ],
+    [ "IsDatabaseBound", "d3/d8a/a10675.html#a2fe9a4224304d62c5c4920dbf09aab52", null ],
+    [ "OnCheck", "d3/d8a/a10675.html#a9fab6f158219db6d5a65b0b302cf285e", null ]
 ];

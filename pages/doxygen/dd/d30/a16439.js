@@ -1,8 +1,6 @@
 var a16439 =
 [
-    [ "RestoreFight", "dd/d30/a16439.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "RestoreFight", "dd/d30/a16439.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "Execute", "dd/d30/a16439.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "Execute", "dd/d30/a16439.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "_owner", "dd/d30/a16439.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
+    [ "boss_krik_thirAI", "d0/ded/a16443.html", "d0/ded/a16443" ],
+    [ "boss_krik_thir", "dd/d30/a16439.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
+    [ "GetAI", "dd/d30/a16439.html#a10e582440092d5c6558c2a11d60907aa", null ]
 ];

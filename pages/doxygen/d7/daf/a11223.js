@@ -1,9 +1,6 @@
 var a11223 =
 [
-    [ "SwapItem", "d7/daf/a11223.html#a603871bfd69a2bcc2083de350f48875a", null ],
-    [ "Read", "d7/daf/a11223.html#a475122a155c96446ecad1b92ef5c7a19", null ],
-    [ "DestinationBag", "d7/daf/a11223.html#a30a5a1fccf9c028fa207e58dd0ff82b6", null ],
-    [ "DestinationSlot", "d7/daf/a11223.html#a0cf0b21ebfccb843ee23831e17982081", null ],
-    [ "SourceBag", "d7/daf/a11223.html#a19d0895bf7a25da8d8bdaceed14ff0a1", null ],
-    [ "SourceSlot", "d7/daf/a11223.html#ab080d55f63eb07c8db090123260bee23", null ]
+    [ "GuildBankLogQuery", "d7/daf/a11223.html#ab094e91a48d0259b4247157b92997bb2", null ],
+    [ "Read", "d7/daf/a11223.html#a5eed269e9285a33ffc61fcfa7d639083", null ],
+    [ "Tab", "d7/daf/a11223.html#ae966e3ac144b86e20f65b742ff3be9e3", null ]
 ];

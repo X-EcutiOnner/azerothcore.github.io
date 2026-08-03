@@ -1,6 +1,7 @@
 var a19907 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "db/d7c/a19911.html", "db/d7c/a19911" ],
-    [ "boss_sjonnir_malformed_ooze", "d6/dc4/a19907.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
-    [ "GetAI", "d6/dc4/a19907.html#a22807bb07692511c5ec87073d98c2604", null ]
+    [ "CalcDamage", "d6/dc4/a19907.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
+    [ "PrepareSpellScript", "d6/dc4/a19907.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
+    [ "Register", "d6/dc4/a19907.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
+    [ "Validate", "d6/dc4/a19907.html#a773c608119a84cc3f02e7b4d786f2741", null ]
 ];

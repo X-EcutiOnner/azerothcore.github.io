@@ -1,7 +1,7 @@
 var a11799 =
 [
-    [ "chance", "d6/d6c/a11799.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
-    [ "triggeredByAura", "d6/d6c/a11799.html#abb48d6093570ba9c5488f200544a1e83", null ],
-    [ "triggeredByEffIdx", "d6/d6c/a11799.html#a82d752dedab39f417af225add6af1403", null ],
-    [ "triggeredSpell", "d6/d6c/a11799.html#a02ac12119655f9ab82347d21cc68803a", null ]
+    [ "IsValidOpcode", "d6/d6c/a11799.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
+    [ "IsValidSize", "d6/d6c/a11799.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
+    [ "cmd", "d6/d6c/a11799.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
+    [ "size", "d6/d6c/a11799.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
 ];

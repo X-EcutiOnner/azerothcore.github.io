@@ -1,8 +1,6 @@
 var a15071 =
 [
-    [ "npc_doomfire_spirit", "d7/d85/a15071.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
-    [ "Reset", "d7/d85/a15071.html#a0600718fad91723eba74b903583c5942", null ],
-    [ "TryTeleportInDirection", "d7/d85/a15071.html#a7fc48df636df66a006a8179fd63e2a65", null ],
-    [ "UpdateAI", "d7/d85/a15071.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
-    [ "turnConstant", "d7/d85/a15071.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
+    [ "OnAuraRemove", "d7/d85/a15071.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "d7/d85/a15071.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "d7/d85/a15071.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

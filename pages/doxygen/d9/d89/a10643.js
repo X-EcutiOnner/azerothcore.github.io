@@ -1,12 +1,12 @@
 var a10643 =
 [
-    [ "ArenaScript", "d9/d89/a10643.html#acba88d9008e08873f3f20b92d69e8912", null ],
-    [ "CanAddMember", "d9/d89/a10643.html#aa85728dd471c2f4d58ed1794e741d060", null ],
-    [ "CanSaveArenaStatsForMember", "d9/d89/a10643.html#a73719d3e62d1f7cf1f174292975f0f4f", null ],
-    [ "CanSaveToDB", "d9/d89/a10643.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
-    [ "IsDatabaseBound", "d9/d89/a10643.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
-    [ "OnArenaStart", "d9/d89/a10643.html#ae67b000b16f56309da56f672a9f2b423", null ],
-    [ "OnBeforeArenaCheckWinConditions", "d9/d89/a10643.html#a2b46190a3243f2306a74295975dca317", null ],
-    [ "OnBeforeArenaTeamMemberUpdate", "d9/d89/a10643.html#a548ac21d5bd9be263935a298a3b5cd16", null ],
-    [ "OnGetPoints", "d9/d89/a10643.html#a13b22ad00d3742589532e6e522258834", null ]
+    [ "QuestLocale", "d9/d89/a10643.html#a887d474a470ee0278fb4b465a7ad9547", null ],
+    [ "AreaDescription", "d9/d89/a10643.html#a5c6c5a8d1fb500afef514c80c9d87e4e", null ],
+    [ "CompletedText", "d9/d89/a10643.html#aad432417f836b2cbe03d3e53e4e76f14", null ],
+    [ "Details", "d9/d89/a10643.html#afd23d37c92f2b28e1c125bba0d670497", null ],
+    [ "Objectives", "d9/d89/a10643.html#ae1ecea0f255f34b547302bfc2c0b6ad4", null ],
+    [ "ObjectiveText", "d9/d89/a10643.html#ae41f7f50ab68e5783ceec37e6f8ff5b0", null ],
+    [ "OfferRewardText", "d9/d89/a10643.html#aaba6d07625232a77e3457454f7d4fa77", null ],
+    [ "RequestItemsText", "d9/d89/a10643.html#a764d2092084454844e59c484fb637017", null ],
+    [ "Title", "d9/d89/a10643.html#ab75b38241e31b9137c1d85334b3a3f30", null ]
 ];

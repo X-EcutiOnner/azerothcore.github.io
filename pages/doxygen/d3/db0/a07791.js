@@ -1,5 +1,7 @@
 var a07791 =
 [
-    [ "time", "d3/db0/a07791.html#a4270f34fef655cb9ff9998b36055c3ec", null ],
-    [ "winner", "d3/db0/a07791.html#a728a3e4efbae3be9224c70f2d70000cf", null ]
+    [ "BattlegroundEYPointIconsStruct", "d3/db0/a07791.html#a322379024d155d293d1c0083c510d232", null ],
+    [ "WorldStateAllianceControlledIndex", "d3/db0/a07791.html#a449932bc2357e26c79520fcf01a71a2a", null ],
+    [ "WorldStateControlIndex", "d3/db0/a07791.html#a82e87048f934b67821bc8ba308ed101d", null ],
+    [ "WorldStateHordeControlledIndex", "d3/db0/a07791.html#a1118c998cf9a319f9c81c100d23c25d3", null ]
 ];

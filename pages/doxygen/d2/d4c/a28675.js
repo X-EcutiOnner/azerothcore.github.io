@@ -1,7 +1,6 @@
 var a28675 =
 [
-    [ "Flags", "d2/d4c/a28675.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "d2/d4c/a28675.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "d2/d4c/a28675.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "d2/d4c/a28675.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "npc_necropolis_proxy", "d2/d4c/a28675.html#a73f92ee73673172989d48064e5984db0", null ],
+    [ "SpellHit", "d2/d4c/a28675.html#a90d1ab55683a6409403e24291643cca5", null ],
+    [ "SpellHitTarget", "d2/d4c/a28675.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
 ];

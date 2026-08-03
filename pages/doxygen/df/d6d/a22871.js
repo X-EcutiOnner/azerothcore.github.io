@@ -1,6 +1,6 @@
 var a22871 =
 [
-    [ "boss_doomlordkazzakAI", "d7/d95/a22875.html", "d7/d95/a22875" ],
-    [ "boss_doomlord_kazzak", "df/d6d/a22871.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
-    [ "GetAI", "df/d6d/a22871.html#a460a32ce37aae852b48f1990406da9a4", null ]
+    [ "CalculateAmount", "df/d6d/a22871.html#aeeabfef0accc4e0d1f78f7422dc30a99", null ],
+    [ "PrepareAuraScript", "df/d6d/a22871.html#a5cf70fe73d01e08e78a2d00e5bc95e8e", null ],
+    [ "Register", "df/d6d/a22871.html#a0d2e97463f268892965e307628aaa931", null ]
 ];

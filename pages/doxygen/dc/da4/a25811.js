@@ -1,8 +1,7 @@
 var a25811 =
 [
-    [ "CheckRequirement", "dc/da4/a25811.html#a3ed8450641baeee915fc5a129f9c7434", null ],
-    [ "HandleScript", "dc/da4/a25811.html#a92e3137bb92545876ca67028bcc86a4f", null ],
-    [ "Load", "dc/da4/a25811.html#a56326701447b3a88d9022ca1f1c184a6", null ],
-    [ "PrepareSpellScript", "dc/da4/a25811.html#a94d4155e98a4ac5764d8bfd705b05602", null ],
-    [ "Register", "dc/da4/a25811.html#a9b440dd8bf21b70d068021d05832a3fc", null ]
+    [ "CalcPeriodic", "dc/da4/a25811.html#a5847ba4daad49dca2527513055fa4429", null ],
+    [ "PrepareAuraScript", "dc/da4/a25811.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
+    [ "Register", "dc/da4/a25811.html#a08f851e5582831d5dd05878c4a55db67", null ],
+    [ "Update", "dc/da4/a25811.html#a3ab2716cbccc1311992de44e6591d966", null ]
 ];

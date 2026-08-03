@@ -1,19 +1,14 @@
 var a07787 =
 [
-    [ "BattlegroundRV", "dd/dbb/a07787.html#ad8c16fa336cd5b0d98eb0009ef094632", null ],
-    [ "CheckPositionForUnit", "dd/dbb/a07787.html#a17665265c5ab837b4e2a0cdc461a7d0a", null ],
-    [ "FillInitialWorldStates", "dd/dbb/a07787.html#a62c7201196fabb6000d2df52b8323e6a", null ],
-    [ "GetPillarAtPosition", "dd/dbb/a07787.html#a0cd6f84233993bde76be990abab75f23", null ],
-    [ "GetPillarIdForPos", "dd/dbb/a07787.html#a4edb8efce09dece515e8b833142d2c55", null ],
-    [ "HandleAreaTrigger", "dd/dbb/a07787.html#aa75f63f77d1f7e8bafffe1d8cb7de9b8", null ],
-    [ "HandlePlayerUnderMap", "dd/dbb/a07787.html#a4cb2e77a45fd02a5db85b6979d622afa", null ],
-    [ "Init", "dd/dbb/a07787.html#a67853fccaddfcd946015a96c5b108641", null ],
-    [ "PostUpdateImpl", "dd/dbb/a07787.html#a9707d8805f031c01c14d78fdc1790a64", null ],
-    [ "SetupBattleground", "dd/dbb/a07787.html#abbd1a364665655cfc4f059fa63384536", null ],
-    [ "StartingEventOpenDoors", "dd/dbb/a07787.html#a450c1d8a9ad4712ab4042256ba7d9d08", null ],
-    [ "TeleportUnitToNewZ", "dd/dbb/a07787.html#ac5b158259ccc5168275c0e00ea041db0", null ],
-    [ "UpdatePillars", "dd/dbb/a07787.html#a76d16c8ab6778a6fc8a4c988a46f0306", null ],
-    [ "_checkPlayersTimer", "dd/dbb/a07787.html#a7c876ff9156f81b168aec7cf673d39b3", null ],
-    [ "_state", "dd/dbb/a07787.html#acce3fce40dbbb403749dcdb986e1d970", null ],
-    [ "_timer", "dd/dbb/a07787.html#ac5f9a8627e919eb224d78d726da1a7a1", null ]
+    [ "BattlegroundDS", "dd/dbb/a07787.html#a041cd3c81d341ff12e2e103da44c19b8", null ],
+    [ "FillInitialWorldStates", "dd/dbb/a07787.html#a0c7a45aa22e390d2760bf32720435d5e", null ],
+    [ "HandleAreaTrigger", "dd/dbb/a07787.html#a91e0be32f0169b9ac8749003ae3cdae7", null ],
+    [ "HandlePlayerUnderMap", "dd/dbb/a07787.html#a97ed6f531b1de3eaf93c585e205e7f54", null ],
+    [ "PostUpdateImpl", "dd/dbb/a07787.html#a57cfca32a361d43f19163dc6e7408e96", null ],
+    [ "SetupBattleground", "dd/dbb/a07787.html#ae008bf979e6984856237938dfe743ec7", null ],
+    [ "StartingEventCloseDoors", "dd/dbb/a07787.html#ae215043c2c10df9f9339e2a6dbcb185e", null ],
+    [ "StartingEventOpenDoors", "dd/dbb/a07787.html#ab9ab60253daa5318dcdb6675c8919cd5", null ],
+    [ "_events", "dd/dbb/a07787.html#a79112a1631ec6541cf19ecef712bb66f", null ],
+    [ "_pipeKnockBackCount", "dd/dbb/a07787.html#a32490dab9fd8ea9ae9afd8cf66feb087", null ],
+    [ "_pipeKnockBackTimer", "dd/dbb/a07787.html#aaef0cac1f3283c56117efcc484a0abfc", null ]
 ];

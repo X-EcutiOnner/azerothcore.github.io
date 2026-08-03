@@ -1,7 +1,5 @@
 var a22583 =
 [
-    [ "OnPeriodic", "d7/dc7/a22583.html#a165d47b116b0a53e37b05f664960e6ec", null ],
-    [ "PrepareAuraScript", "d7/dc7/a22583.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
-    [ "Register", "d7/dc7/a22583.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
-    [ "Validate", "d7/dc7/a22583.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
+    [ "OutdoorPvP_silithus", "d7/dc7/a22583.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
+    [ "GetOutdoorPvP", "d7/dc7/a22583.html#a126d6acc77218addd10072199ccd2470", null ]
 ];

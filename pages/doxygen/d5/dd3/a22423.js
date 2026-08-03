@@ -1,8 +1,6 @@
 var a22423 =
 [
-    [ "npc_anzu_spirit", "d5/dd3/a22423.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
-    [ "IsSummonedBy", "d5/dd3/a22423.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
-    [ "Reset", "d5/dd3/a22423.html#acef3f7093f93b6c227d145523cdc487a", null ],
-    [ "UpdateAI", "d5/dd3/a22423.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
-    [ "_scheduler", "d5/dd3/a22423.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
+    [ "go_wg_vehicle_teleporterAI", "dc/dab/a22427.html", "dc/dab/a22427" ],
+    [ "go_wg_vehicle_teleporter", "d5/dd3/a22423.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
+    [ "GetAI", "d5/dd3/a22423.html#a113aaf42c095000c1a016bfe60df11e7", null ]
 ];

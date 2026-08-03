@@ -1,7 +1,7 @@
 var a27875 =
 [
-    [ "FilterTargets", "d4/d5c/a27875.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "d4/d5c/a27875.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "d4/d5c/a27875.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "d4/d5c/a27875.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "HandleDummy", "d4/d5c/a27875.html#a3af91500357eb127f813334bdf538dbd", null ],
+    [ "PrepareSpellScript", "d4/d5c/a27875.html#ae34ff5e6027efecc34fa770690df5887", null ],
+    [ "Register", "d4/d5c/a27875.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
+    [ "Validate", "d4/d5c/a27875.html#a0b107442c0b76a018cc019f776c0b785", null ]
 ];

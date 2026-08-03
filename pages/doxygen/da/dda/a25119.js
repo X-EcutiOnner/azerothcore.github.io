@@ -1,10 +1,6 @@
 var a25119 =
 [
-    [ "spell_gen_summon_elemental", "da/dda/a25119.html#ae2dece3ac20afe16430e741fab909fa1", null ],
-    [ "AfterApply", "da/dda/a25119.html#a97fbc7e3f60b6aae5d9783bbd9a2415d", null ],
-    [ "AfterRemove", "da/dda/a25119.html#aeec3688e66a7e9f0207b219e9dcdb265", null ],
-    [ "PrepareAuraScript", "da/dda/a25119.html#a3ad6e5615bb080abae4e18673cd40b6d", null ],
-    [ "Register", "da/dda/a25119.html#ac364e1a3c4b5a1cfd35d8dcec0a42345", null ],
-    [ "Validate", "da/dda/a25119.html#ac2284d4f192fe402ebcf6ad75e777c2a", null ],
-    [ "_spellId", "da/dda/a25119.html#a6ac27b65f909a8c832cf3d301c8db0ce", null ]
+    [ "ModDest", "da/dda/a25119.html#a99d08536d2555390a7399a6d2fc199e6", null ],
+    [ "PrepareSpellScript", "da/dda/a25119.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
+    [ "Register", "da/dda/a25119.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
 ];

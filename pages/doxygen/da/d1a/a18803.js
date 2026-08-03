@@ -1,7 +1,7 @@
 var a18803 =
 [
-    [ "ValithriaDespawner", "da/d1a/a18803.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
-    [ "Execute", "da/d1a/a18803.html#a4f8c63f52996da14078a7196cae3a00d", null ],
-    [ "operator()", "da/d1a/a18803.html#a05bae39d642f294f2ef98151d66ba382", null ],
-    [ "_creature", "da/d1a/a18803.html#a64bf6181ad867efd987edec141ca3bf0", null ]
+    [ "CalculateBonus", "da/d1a/a18803.html#ae149a739150cb7eb9fb67f19130c0510", null ],
+    [ "OnPeriodic", "da/d1a/a18803.html#a19697bd65a325870becc1c30d7deff36", null ],
+    [ "PrepareAuraScript", "da/d1a/a18803.html#a77c272d4a26323c421e4b264f79d5b66", null ],
+    [ "Register", "da/d1a/a18803.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
 ];

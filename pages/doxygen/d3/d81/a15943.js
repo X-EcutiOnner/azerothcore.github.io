@@ -1,6 +1,8 @@
 var a15943 =
 [
-    [ "npc_omenAI", "d2/dd7/a15947.html", "d2/dd7/a15947" ],
-    [ "npc_omen", "d3/d81/a15943.html#aff955303a8b9741838779a59dd496f62", null ],
-    [ "GetAI", "d3/d81/a15943.html#a8023ad3298000d9819c46f46a93166d4", null ]
+    [ "npc_aged_dying_ancient_kodo", "d3/d81/a15943.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
+    [ "JustRespawned", "d3/d81/a15943.html#ab401f9002bd49b26cc0526112e715d1e", null ],
+    [ "MoveInLineOfSight", "d3/d81/a15943.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
+    [ "sGossipHello", "d3/d81/a15943.html#a8bd41050426cdee7da37d1370e5a7363", null ],
+    [ "SpellHit", "d3/d81/a15943.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
 ];

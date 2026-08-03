@@ -1,7 +1,6 @@
 var a23019 =
 [
-    [ "FilterTargets", "db/d93/a23019.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
-    [ "HandleDummy", "db/d93/a23019.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
-    [ "PrepareSpellScript", "db/d93/a23019.html#ae7714acbe0a08781e3bc297847c47870", null ],
-    [ "Register", "db/d93/a23019.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
+    [ "ShadowOfDeathSelector", "db/d93/a23019.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "db/d93/a23019.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "db/d93/a23019.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

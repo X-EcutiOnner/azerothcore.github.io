@@ -1,6 +1,7 @@
 var a27507 =
 [
-    [ "PrepareAuraScript", "df/d36/a27507.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "df/d36/a27507.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "df/d36/a27507.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "HandleDispel", "df/d36/a27507.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
+    [ "PrepareAuraScript", "df/d36/a27507.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
+    [ "Register", "df/d36/a27507.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
+    [ "Validate", "df/d36/a27507.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
 ];

@@ -1,5 +1,6 @@
 var a19031 =
 [
-    [ "npc_alchemist_adrianna", "d0/def/a19031.html#a310d375bc73c51e407580b063a6543fa", null ],
-    [ "OnGossipHello", "d0/def/a19031.html#a02ec6a66037d72e30bbe821ceee38691", null ]
+    [ "npc_frost_freeze_trapAI", "dc/d02/a19035.html", "dc/d02/a19035" ],
+    [ "npc_frost_freeze_trap", "d0/def/a19031.html#ac58ed2598fd4250f220208a91343f9b8", null ],
+    [ "GetAI", "d0/def/a19031.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
 ];

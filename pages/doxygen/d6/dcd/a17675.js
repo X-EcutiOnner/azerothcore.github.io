@@ -1,6 +1,6 @@
 var a17675 =
 [
-    [ "ModAuraStack", "d6/dcd/a17675.html#a7535ef148e047e32a5f7a1944585e396", null ],
-    [ "PrepareSpellScript", "d6/dcd/a17675.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
-    [ "Register", "d6/dcd/a17675.html#ab44b362197e74b98b3ffeb98eff52742", null ]
+    [ "StandUpEvent", "d6/dcd/a17675.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
+    [ "Execute", "d6/dcd/a17675.html#a56bc1071300ff8f81e62839685e8f53a", null ],
+    [ "_owner", "d6/dcd/a17675.html#a456a494140657d81b203834f7b88d5d1", null ]
 ];

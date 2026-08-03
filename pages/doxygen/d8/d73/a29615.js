@@ -1,5 +1,8 @@
 var a29615 =
 [
-    [ "aura", "d8/d73/a29615.html#a6a57282648f4792e6dfaf4c892be90eb", null ],
-    [ "effect", "d8/d73/a29615.html#a24ce38279cb514bab8ef9924d93b5dfc", null ]
+    [ "auraHasCanProcFromProcs", "d8/d73/a29615.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
+    [ "isTriggered", "d8/d73/a29615.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
+    [ "procAuraSpellId", "d8/d73/a29615.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
+    [ "spellHasNotAProc", "d8/d73/a29615.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
+    [ "triggeredByAuraSpellId", "d8/d73/a29615.html#ad62562e342e1d090e3f26f7c40a35795", null ]
 ];

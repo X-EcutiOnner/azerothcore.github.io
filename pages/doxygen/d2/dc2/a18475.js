@@ -1,17 +1,11 @@
 var a18475 =
 [
-    [ "npc_rimefangAI", "d2/dc2/a18475.html#ae89b397bafdcb06e94fa94c18ef0d2c8", null ],
-    [ "DoAction", "d2/dc2/a18475.html#a79d34453b3ace5c1f80b12b862890e3c", null ],
-    [ "InitializeAI", "d2/dc2/a18475.html#ae515d0b1d383c48e40fa4795edd1b247", null ],
-    [ "JustDied", "d2/dc2/a18475.html#ab3cd1550cda44cecf889f4bf28f976ba", null ],
-    [ "JustEngagedWith", "d2/dc2/a18475.html#ad161bb0a6c76d223b1e687a1cc604375", null ],
-    [ "JustReachedHome", "d2/dc2/a18475.html#a7b15a9c6db1a48c3766afcb41d66b61f", null ],
-    [ "JustRespawned", "d2/dc2/a18475.html#a47ed52a4a0511d7b1e3eb4bd5da409ca", null ],
-    [ "MovementInform", "d2/dc2/a18475.html#aacd146fbfac94b8f82b3971ff74644cc", null ],
-    [ "Reset", "d2/dc2/a18475.html#a8956324e2806393d26bf146f4e2c48b0", null ],
-    [ "UpdateAI", "d2/dc2/a18475.html#a00872042199924a14089c1057c479ff7", null ],
-    [ "_events", "d2/dc2/a18475.html#ade0c279565236eb3fd59fd43eef4c3e1", null ],
-    [ "_icyBlastCounter", "d2/dc2/a18475.html#aef3e7d4cd3d23f407ef4ba5aa5c737c9", null ],
-    [ "_instance", "d2/dc2/a18475.html#ad12541907c439117cf8c8a6741c07445", null ],
-    [ "_summoned", "d2/dc2/a18475.html#aa27dd1e338145a65915262a8d44f7519", null ]
+    [ "npc_ice_tombAI", "d2/dc2/a18475.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
+    [ "DamageTaken", "d2/dc2/a18475.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
+    [ "JustDied", "d2/dc2/a18475.html#a237f27260aaa9176d81b67b11d063660", null ],
+    [ "SetGUID", "d2/dc2/a18475.html#ac406bece1d1f1517b5837e311feef9ae", null ],
+    [ "UpdateAI", "d2/dc2/a18475.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
+    [ "_asphyxiationTimer", "d2/dc2/a18475.html#a6790d9c852279624a549f60bf26e1eb2", null ],
+    [ "_existenceCheckTimer", "d2/dc2/a18475.html#ab3dbf40235549be89e42951d93593ea2", null ],
+    [ "_trappedPlayerGUID", "d2/dc2/a18475.html#a8a7666594e59bdac449f2284387b8e2c", null ]
 ];

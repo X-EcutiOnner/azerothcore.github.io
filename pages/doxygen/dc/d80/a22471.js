@@ -1,7 +1,9 @@
 var a22471 =
 [
-    [ "HandleOnHit", "dc/d80/a22471.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "dc/d80/a22471.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "dc/d80/a22471.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "dc/d80/a22471.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "npc_finklesteinAI", "d5/d6a/a22475.html", "d5/d6a/a22475" ],
+    [ "npc_finklestein", "dc/d80/a22471.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "dc/d80/a22471.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "dc/d80/a22471.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "dc/d80/a22471.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "dc/d80/a22471.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

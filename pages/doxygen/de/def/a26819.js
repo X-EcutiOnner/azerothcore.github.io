@@ -1,6 +1,7 @@
 var a26819 =
 [
-    [ "CheckProc", "de/def/a26819.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
-    [ "PrepareAuraScript", "de/def/a26819.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
-    [ "Register", "de/def/a26819.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
+    [ "HandleProc", "de/def/a26819.html#a9601839ce1fff4e1be66f435a78693ac", null ],
+    [ "PrepareAuraScript", "de/def/a26819.html#ae7b3804ed0fe40c85d245e2762fd8181", null ],
+    [ "Register", "de/def/a26819.html#a588226cc60a7ff0f8a05e8ec34c855e5", null ],
+    [ "Validate", "de/def/a26819.html#aea68ea2da0853d72d94a19b98db9375f", null ]
 ];

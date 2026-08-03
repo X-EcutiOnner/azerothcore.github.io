@@ -1,17 +1,19 @@
 var a07847 =
 [
-    [ "HasFlag", "de/dbe/a07847.html#a23315bfbd0748f82c948051697079c24", null ],
-    [ "IsModerator", "de/dbe/a07847.html#af664dc84e5a60301c4fce6fda8971062", null ],
-    [ "IsMuted", "de/dbe/a07847.html#a5d1e0f8e424033e34338940677ca054c", null ],
-    [ "IsOwner", "de/dbe/a07847.html#a4687757cb7df9778f0f5eb67714c917c", null ],
-    [ "IsOwnerGM", "de/dbe/a07847.html#ad4e1573168c91372dc4af2847d4ad454", null ],
-    [ "SetFlag", "de/dbe/a07847.html#a9cb5a3ce70a2afcc553992f4a65b80e1", null ],
-    [ "SetModerator", "de/dbe/a07847.html#a0a0cbaa77040171b7b50f89914946a8a", null ],
-    [ "SetMuted", "de/dbe/a07847.html#adf989acef0b1e53a9dc2d3210db646b7", null ],
-    [ "SetOwner", "de/dbe/a07847.html#aac6a9ea0bf478901e62c729ac6a3e9cd", null ],
-    [ "SetOwnerGM", "de/dbe/a07847.html#a2e4be6dfb921ad07ebd0de3abb81f5e4", null ],
-    [ "_gmStatus", "de/dbe/a07847.html#a15686cee4d1d0d8f39c13341bc9df624", null ],
-    [ "flags", "de/dbe/a07847.html#ae9ed61476c5f13dddf4aa5e98fe8c5c4", null ],
-    [ "player", "de/dbe/a07847.html#afba1915e2dd4109928180e33884b8412", null ],
-    [ "plrPtr", "de/dbe/a07847.html#a5c986d75e173cc42160143ae7621ab6b", null ]
+    [ "BattlegroundRV", "de/dbe/a07847.html#ad8c16fa336cd5b0d98eb0009ef094632", null ],
+    [ "CheckPositionForUnit", "de/dbe/a07847.html#a17665265c5ab837b4e2a0cdc461a7d0a", null ],
+    [ "FillInitialWorldStates", "de/dbe/a07847.html#a62c7201196fabb6000d2df52b8323e6a", null ],
+    [ "GetPillarAtPosition", "de/dbe/a07847.html#a0cd6f84233993bde76be990abab75f23", null ],
+    [ "GetPillarIdForPos", "de/dbe/a07847.html#a4edb8efce09dece515e8b833142d2c55", null ],
+    [ "HandleAreaTrigger", "de/dbe/a07847.html#aa75f63f77d1f7e8bafffe1d8cb7de9b8", null ],
+    [ "HandlePlayerUnderMap", "de/dbe/a07847.html#a4cb2e77a45fd02a5db85b6979d622afa", null ],
+    [ "Init", "de/dbe/a07847.html#a67853fccaddfcd946015a96c5b108641", null ],
+    [ "PostUpdateImpl", "de/dbe/a07847.html#a9707d8805f031c01c14d78fdc1790a64", null ],
+    [ "SetupBattleground", "de/dbe/a07847.html#abbd1a364665655cfc4f059fa63384536", null ],
+    [ "StartingEventOpenDoors", "de/dbe/a07847.html#a450c1d8a9ad4712ab4042256ba7d9d08", null ],
+    [ "TeleportUnitToNewZ", "de/dbe/a07847.html#ac5b158259ccc5168275c0e00ea041db0", null ],
+    [ "UpdatePillars", "de/dbe/a07847.html#a76d16c8ab6778a6fc8a4c988a46f0306", null ],
+    [ "_checkPlayersTimer", "de/dbe/a07847.html#a7c876ff9156f81b168aec7cf673d39b3", null ],
+    [ "_state", "de/dbe/a07847.html#acce3fce40dbbb403749dcdb986e1d970", null ],
+    [ "_timer", "de/dbe/a07847.html#ac5f9a8627e919eb224d78d726da1a7a1", null ]
 ];

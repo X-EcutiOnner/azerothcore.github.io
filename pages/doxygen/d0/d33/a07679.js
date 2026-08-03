@@ -1,12 +1,15 @@
 var a07679 =
 [
-    [ "BGQueueInviteEvent", "d0/d33/a07679.html#acee27900339fdcebbfd21bb0e602654d", null ],
-    [ "~BGQueueInviteEvent", "d0/d33/a07679.html#a09f9f27ecbc273b25e5941966a4fa925", null ],
-    [ "Abort", "d0/d33/a07679.html#a07f5520ab61cdfd4eadc5d0815067135", null ],
-    [ "Execute", "d0/d33/a07679.html#a444aceb1c29c951271bab5186a7f3064", null ],
-    [ "m_ArenaType", "d0/d33/a07679.html#a1b7d1161d46578606396efd515ab1739", null ],
-    [ "m_BgInstanceGUID", "d0/d33/a07679.html#ad9adc44cc1cde3b0b820740852bdb3ce", null ],
-    [ "m_BgTypeId", "d0/d33/a07679.html#a608c24288f24bc4da77124257320c741", null ],
-    [ "m_PlayerGuid", "d0/d33/a07679.html#a200b4bcd336846df60ec11de8d829d7d", null ],
-    [ "m_RemoveTime", "d0/d33/a07679.html#a4c78e5a74eaf859db40772008557201f", null ]
+    [ "ModifyMatchmakerRating", "d0/d33/a07679.html#aaa6de888c3f85ef8cbe9baa2f997aba1", null ],
+    [ "ModifyPersonalRating", "d0/d33/a07679.html#a34401ea82507df97e540c698fa549b5f", null ],
+    [ "Class", "d0/d33/a07679.html#a5f6519e8ad3281a09608f8740927fbd3", null ],
+    [ "Guid", "d0/d33/a07679.html#ac0dc6765247a0f36b3d3ff527a678010", null ],
+    [ "MatchMakerRating", "d0/d33/a07679.html#ac91a344c7aecb72d17841413f5d935da", null ],
+    [ "MaxMMR", "d0/d33/a07679.html#afc86e111a1c699254c5ea761d0dda088", null ],
+    [ "Name", "d0/d33/a07679.html#a7917e705d8c15bbe2731c32375c34d16", null ],
+    [ "PersonalRating", "d0/d33/a07679.html#a03168b1bdc8e6dac30d3b63e692ce854", null ],
+    [ "SeasonGames", "d0/d33/a07679.html#ae3724b7268c161d5553b8cc1fae2cf75", null ],
+    [ "SeasonWins", "d0/d33/a07679.html#a7239187cef3a02839fe27577ad022ec9", null ],
+    [ "WeekGames", "d0/d33/a07679.html#a97906127f7eb1babe2bf2ebcda7c0a88", null ],
+    [ "WeekWins", "d0/d33/a07679.html#a5b9e5e02d59569080d34abd9b9728693", null ]
 ];

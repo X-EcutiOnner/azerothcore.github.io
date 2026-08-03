@@ -1,7 +1,24 @@
 var a12015 =
 [
-    [ "EffectApplyHandler", "df/dcb/a12015.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
-    [ "Call", "df/dcb/a12015.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
-    [ "mode", "df/dcb/a12015.html#ac776375c5a5de321edc572c87e983193", null ],
-    [ "pEffectHandlerScript", "df/dcb/a12015.html#acd715556a7661f688ce0de9afe62250a", null ]
+    [ "EffectAuraNameCheck", "d2/d99/a12027.html", "d2/d99/a12027" ],
+    [ "EffectHook", "de/de6/a12019.html", "de/de6/a12019" ],
+    [ "EffectNameCheck", "dc/da4/a12023.html", "dc/da4/a12023" ],
+    [ "_SpellScript", "df/dcb/a12015.html#a1094c9cbb65098fe0733ff54dce04388", null ],
+    [ "~_SpellScript", "df/dcb/a12015.html#a6a2621e4aeda24af6ec55b9a8c461262", null ],
+    [ "_GetScriptName", "df/dcb/a12015.html#ad3c16df6214a973fca3c62e4bc23f6a6", null ],
+    [ "_Init", "df/dcb/a12015.html#ae85c836ab2da173942a40b53561df1fb", null ],
+    [ "_Register", "df/dcb/a12015.html#ae22c1ed4b0e2742ee4c35de03c70d9d8", null ],
+    [ "_Unload", "df/dcb/a12015.html#a6b372f003568d60066449ee58a0469df", null ],
+    [ "_Validate", "df/dcb/a12015.html#af46024e85e0618c84bf72dc61df05673", null ],
+    [ "_ValidateSpellInfo", "df/dcb/a12015.html#a423786f1fc45a010a4ebc16db2645a1f", null ],
+    [ "_ValidateSpellInfo", "df/dcb/a12015.html#abb223d1713d7594bf4dfd1fc7c0dc5d5", null ],
+    [ "Load", "df/dcb/a12015.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443", null ],
+    [ "Register", "df/dcb/a12015.html#ab6fed9e44aa0c11342abffd74ee5bfe1", null ],
+    [ "Unload", "df/dcb/a12015.html#ad501b6dde3e42c3af93589b117e2cafc", null ],
+    [ "Validate", "df/dcb/a12015.html#a95e7862a5807bff409f13aea8306077e", null ],
+    [ "ValidateSpellInfo", "df/dcb/a12015.html#a9f7c76ac56838fbe61bf67d534979159", null ],
+    [ "ValidateSpellInfo", "df/dcb/a12015.html#a0ee15cbc62cccd346ce148c6acbe96f9", null ],
+    [ "m_currentScriptState", "df/dcb/a12015.html#a3f9d5cd0ea4eadbdb6a72f73875c0585", null ],
+    [ "m_scriptName", "df/dcb/a12015.html#a38bdb79ae6d11489dd6007485c1510de", null ],
+    [ "m_scriptSpellId", "df/dcb/a12015.html#ae2ab4203d324b2179ad06ffdb5d8626f", null ]
 ];

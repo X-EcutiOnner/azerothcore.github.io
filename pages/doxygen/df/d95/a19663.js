@@ -1,7 +1,8 @@
 var a19663 =
 [
-    [ "HandlePull", "df/d95/a19663.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "df/d95/a19663.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "df/d95/a19663.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "df/d95/a19663.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "HandleDamage", "df/d95/a19663.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
+    [ "HandleTargets", "df/d95/a19663.html#ac36e689bad93aa17738f390680764a7e", null ],
+    [ "PrepareSpellScript", "df/d95/a19663.html#a149db071722ce12cded16087c8eec1df", null ],
+    [ "Register", "df/d95/a19663.html#abd073f34a414fab7ee23ee933863f1c7", null ],
+    [ "Validate", "df/d95/a19663.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
 ];

@@ -1,6 +1,9 @@
 var a17947 =
 [
-    [ "npc_gunship_boarding_add_realAI", "db/d21/a17951.html", "db/d21/a17951" ],
-    [ "npc_gunship_boarding_add", "dc/d12/a17947.html#aa80871f80bae7186d3665f73d757e108", null ],
-    [ "GetAI", "dc/d12/a17947.html#ad7e173bffccca6d852ba545427235447", null ]
+    [ "npc_stinky_iccAI", "dc/d12/a17947.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
+    [ "JustDied", "dc/d12/a17947.html#a7fa392980e2d30c935b79377df8dc694", null ],
+    [ "JustEngagedWith", "dc/d12/a17947.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
+    [ "Reset", "dc/d12/a17947.html#ac66e3398598576fdc889a7b56646eecf", null ],
+    [ "UpdateAI", "dc/d12/a17947.html#af6e04824ea1682c529e8579a306d34ca", null ],
+    [ "events", "dc/d12/a17947.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
 ];

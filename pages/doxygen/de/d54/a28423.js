@@ -1,7 +1,10 @@
 var a28423 =
 [
-    [ "npc_flameshocker", "de/d54/a28423.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
-    [ "JustDied", "de/d54/a28423.html#aba94a5bcec75c649049d5816a53ace58", null ],
-    [ "Reset", "de/d54/a28423.html#a13cb88e2b33df2d910fb73053684b420", null ],
-    [ "UpdateAI", "de/d54/a28423.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
+    [ "npc_prof_blacksmith", "de/d54/a28423.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
+    [ "HasWeaponSub", "de/d54/a28423.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
+    [ "OnGossipHello", "de/d54/a28423.html#a9a432c1ec33578949110c877fc6a686d", null ],
+    [ "OnGossipSelect", "de/d54/a28423.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
+    [ "SendActionMenu", "de/d54/a28423.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
+    [ "SendConfirmLearn", "de/d54/a28423.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
+    [ "SendConfirmUnlearn", "de/d54/a28423.html#a851dc241d944bc888a00df85bff17e3a", null ]
 ];

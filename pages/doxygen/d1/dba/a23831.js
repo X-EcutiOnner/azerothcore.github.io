@@ -1,6 +1,6 @@
 var a23831 =
 [
-    [ "go_beaconAI", "d1/dba/a23831.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "d1/dba/a23831.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "_whelpGUIDs", "d1/dba/a23831.html#a083094ececd327c833649da6a755c635", null ]
+    [ "HandleCast", "d1/dba/a23831.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "d1/dba/a23831.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "d1/dba/a23831.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

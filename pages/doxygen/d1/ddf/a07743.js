@@ -1,9 +1,12 @@
 var a07743 =
 [
-    [ "BattlegroundEYScore", "d1/ddf/a07743.html#a91c17f1ff1924439b05840cd11ede36f", null ],
-    [ "BuildObjectivesBlock", "d1/ddf/a07743.html#a8a915f38f28ee3929c7922b9fa8f38d6", null ],
-    [ "GetAttr1", "d1/ddf/a07743.html#a43d4b01a1f3c8325795d90f2a97c230c", null ],
-    [ "UpdateScore", "d1/ddf/a07743.html#afad034f453c54587b86532a37335ab18", null ],
-    [ "BattlegroundEY", "d1/ddf/a07743.html#a5d809f1fdf1bb7a29d7504e432e10b8f", null ],
-    [ "FlagCaptures", "d1/ddf/a07743.html#a057a335c7491c1031666e6d10cf314b2", null ]
+    [ "BGQueueRemoveEvent", "d1/ddf/a07743.html#ab751b728f64b2928eefb21f756539d81", null ],
+    [ "~BGQueueRemoveEvent", "d1/ddf/a07743.html#aab9ea24041888975439aafb246c571c3", null ],
+    [ "Abort", "d1/ddf/a07743.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
+    [ "Execute", "d1/ddf/a07743.html#a42482ff784da4b23b568888a74a0b531", null ],
+    [ "m_BgInstanceGUID", "d1/ddf/a07743.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
+    [ "m_BgQueueTypeId", "d1/ddf/a07743.html#ac059a823ae49bd0250eec15845bf153b", null ],
+    [ "m_BgTypeId", "d1/ddf/a07743.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
+    [ "m_PlayerGuid", "d1/ddf/a07743.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
+    [ "m_RemoveTime", "d1/ddf/a07743.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
 ];

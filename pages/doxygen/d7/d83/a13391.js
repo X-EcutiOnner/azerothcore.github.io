@@ -1,7 +1,5 @@
 var a13391 =
 [
-    [ "HandleScriptEffect", "d7/d83/a13391.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
-    [ "PrepareSpellScript", "d7/d83/a13391.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
-    [ "Register", "d7/d83/a13391.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
-    [ "Validate", "d7/d83/a13391.html#a20f7416465ba1cc04426f24037e8074e", null ]
+    [ "textid", "d7/d83/a13391.html#a7dac5c31d7df501f28eee3e1dec0523a", null ],
+    [ "timer", "d7/d83/a13391.html#ab7851f383e7221c6ff2700ee345d9504", null ]
 ];

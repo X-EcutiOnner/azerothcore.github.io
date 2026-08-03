@@ -1,9 +1,9 @@
 var a21715 =
 [
-    [ "npc_wounded_skirmisher", "d3/dac/a21715.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
-    [ "Initialize", "d3/dac/a21715.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
-    [ "JustEngagedWith", "d3/dac/a21715.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
-    [ "Reset", "d3/dac/a21715.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
-    [ "SpellHit", "d3/dac/a21715.html#a891e879af5da1f181c94e528c59a81f1", null ],
-    [ "UpdateAI", "d3/dac/a21715.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
+    [ "npc_minigob_manabonk", "d3/dac/a21715.html#aade5e005b68b25ede4e653629390ceb9", null ],
+    [ "Reset", "d3/dac/a21715.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
+    [ "SelectTargetInDalaran", "d3/dac/a21715.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
+    [ "SendMailToPlayer", "d3/dac/a21715.html#a1973b7885c9fce15aab9843722bf112e", null ],
+    [ "UpdateAI", "d3/dac/a21715.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
+    [ "playerGUID", "d3/dac/a21715.html#ac8dccd333691f717fdbffe22126330d5", null ]
 ];

@@ -1,6 +1,8 @@
 var a13619 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "d6/d55/a13623.html", "d6/d55/a13623" ],
-    [ "instance_shadowfang_keep", "dd/d18/a13619.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
-    [ "GetInstanceScript", "dd/d18/a13619.html#a5c076ed86470247de5b4e3733b70fa25", null ]
+    [ "CalcPeriodic", "dd/d18/a13619.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
+    [ "HandleDummyTick", "dd/d18/a13619.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
+    [ "HandleUpdatePeriodic", "dd/d18/a13619.html#a70ef86fd58eec1422bac6b61a4123842", null ],
+    [ "PrepareAuraScript", "dd/d18/a13619.html#a9a97a6ab249728dbad4d3603640a7963", null ],
+    [ "Register", "dd/d18/a13619.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
 ];

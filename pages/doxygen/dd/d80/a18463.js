@@ -1,6 +1,6 @@
 var a18463 =
 [
-    [ "npc_spinestalkerAI", "d9/d35/a18467.html", "d9/d35/a18467" ],
-    [ "npc_spinestalker", "dd/d80/a18463.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "dd/d80/a18463.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "boss_sindragosaAI", "d9/d35/a18467.html", "d9/d35/a18467" ],
+    [ "boss_sindragosa", "dd/d80/a18463.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
+    [ "GetAI", "dd/d80/a18463.html#a005a6da9f4f9690416a108872b3c2b36", null ]
 ];

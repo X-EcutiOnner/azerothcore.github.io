@@ -1,9 +1,8 @@
 var a05173 =
 [
-    [ "MDLCallback", "d6/d5f/a05173.html#a241899d601778892a72080cceaa96318", null ],
-    [ "operator()", "d6/d5f/a05173.html#a7e65ac1aebc8ac951303ee8e7cd85623", null ],
-    [ "operator()", "d6/d5f/a05173.html#a2130223692a9d0f8491f7ea7ae24270c", null ],
-    [ "_callback", "d6/d5f/a05173.html#a8eae05fc208dcc7f50147bf55c47764c", null ],
-    [ "objects", "d6/d5f/a05173.html#a297d43aa55ffbb4f69f8e5888c8e116f", null ],
-    [ "objects_size", "d6/d5f/a05173.html#a92fa352db4ba43afd590677d0ae1e5d9", null ]
+    [ "anonymous_namespace{WeatherMgr.cpp}", "d3/d14/a05174.html", [
+      [ "_weatherData", "d3/d14/a05174.html#ab7d0026c60fbd90f9833172d25e7037f", null ]
+    ] ],
+    [ "GetWeatherData", "d6/de9/a05083.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
+    [ "LoadWeatherData", "d6/de9/a05083.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ]
 ];

@@ -1,6 +1,6 @@
 var a18771 =
 [
-    [ "npc_lk_wicked_spiritAI", "d1/d21/a18775.html", "d1/d21/a18775" ],
-    [ "npc_lk_wicked_spirit", "dd/dd1/a18771.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
-    [ "GetAI", "dd/dd1/a18771.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
+    [ "ModDestHeight", "dd/dd1/a18771.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
+    [ "PrepareSpellScript", "dd/dd1/a18771.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
+    [ "Register", "dd/dd1/a18771.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
 ];

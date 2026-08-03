@@ -1,8 +1,8 @@
 var a18951 =
 [
-    [ "npc_rotting_frost_giantAI", "dd/db8/a18951.html#a7b412075e17a81bf50aba63f96c16e53", null ],
-    [ "JustDied", "dd/db8/a18951.html#a68b4e823de82fdfd31ccf765192e8768", null ],
-    [ "Reset", "dd/db8/a18951.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
-    [ "UpdateAI", "dd/db8/a18951.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
-    [ "_events", "dd/db8/a18951.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
+    [ "npc_blistering_zombieAI", "dd/db8/a18951.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
+    [ "DamageTaken", "dd/db8/a18951.html#adf031992078214f90d859df2b54aac91", null ],
+    [ "UpdateAI", "dd/db8/a18951.html#ae081898b8dcaf45cd3069e79021de452", null ],
+    [ "casted", "dd/db8/a18951.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
+    [ "timer", "dd/db8/a18951.html#a8b865c2a87b1fc020d8250767febab0a", null ]
 ];

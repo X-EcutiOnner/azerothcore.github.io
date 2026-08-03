@@ -1,17 +1,6 @@
 var a16683 =
 [
-    [ "boss_black_knightAI", "df/d54/a16683.html#a46c906dfeb367134885dc5248b50dbd0", null ],
-    [ "DamageTaken", "df/d54/a16683.html#a8a9b3f248f3d889b1804c387396d3054", null ],
-    [ "DoAction", "df/d54/a16683.html#a1b16dda892b2e6c94352cf13e6b961f4", null ],
-    [ "EnterEvadeMode", "df/d54/a16683.html#a77d1dc632828691fa07a543544bd266c", null ],
-    [ "JustDied", "df/d54/a16683.html#a3bb0698d0d66e4a26e25569f97ea720d", null ],
-    [ "JustSummoned", "df/d54/a16683.html#a58c32a4802a93755d7c8129c01901cdf", null ],
-    [ "KilledUnit", "df/d54/a16683.html#a01121270bc30a75630e5da96c9f61519", null ],
-    [ "Reset", "df/d54/a16683.html#ae67498247b9d631c4ca6af0acb1c76af", null ],
-    [ "SpellHitTarget", "df/d54/a16683.html#a718a51ec39cb9a10225a7bc76a069a3b", null ],
-    [ "UpdateAI", "df/d54/a16683.html#af8600ff24856d079df7e9c59f49850b2", null ],
-    [ "events", "df/d54/a16683.html#a189de3b3ef51c7870399a7a31503ae24", null ],
-    [ "Phase", "df/d54/a16683.html#ac25e3299bc9787d5bbad22263ebab235", null ],
-    [ "pInstance", "df/d54/a16683.html#acde711225a78e54d4bc1e0fde41e951d", null ],
-    [ "summons", "df/d54/a16683.html#a73e1c3688a853b70527e862efe05bc11", null ]
+    [ "npc_living_infernoAI", "df/d54/a16683.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "df/d54/a16683.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "df/d54/a16683.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

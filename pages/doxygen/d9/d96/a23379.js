@@ -1,8 +1,9 @@
 var a23379 =
 [
-    [ "HandleDummyApply", "d9/d96/a23379.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "d9/d96/a23379.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "d9/d96/a23379.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "d9/d96/a23379.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "d9/d96/a23379.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "boss_mennu_the_betrayer", "d9/d96/a23379.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
+    [ "JustDied", "d9/d96/a23379.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
+    [ "JustEngagedWith", "d9/d96/a23379.html#a535b9af1677b8af50515818a18e88d27", null ],
+    [ "JustSummoned", "d9/d96/a23379.html#a59949872270890ef794a77029074210b", null ],
+    [ "KilledUnit", "d9/d96/a23379.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
+    [ "Reset", "d9/d96/a23379.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
 ];

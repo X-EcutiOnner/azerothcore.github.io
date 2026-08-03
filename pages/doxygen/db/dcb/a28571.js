@@ -1,5 +1,7 @@
 var a28571 =
 [
-    [ "content", "db/dcb/a28571.html#a936eb07adb8a41480dfc196127b7e5c0", null ],
-    [ "ID", "db/dcb/a28571.html#a1a33aff67b979c3c7a76c26debb5fc25", null ]
+    [ "npc_sayge", "db/dcb/a28571.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
+    [ "OnGossipHello", "db/dcb/a28571.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
+    [ "OnGossipSelect", "db/dcb/a28571.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
+    [ "SendAction", "db/dcb/a28571.html#aed1988335672423d024546654aa95298", null ]
 ];

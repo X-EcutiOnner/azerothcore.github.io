@@ -1,5 +1,7 @@
 var a23883 =
 [
-    [ "at_commander_dawnforge", "da/d5a/a23883.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "da/d5a/a23883.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
+    [ "HandleEffect", "da/d5a/a23883.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
+    [ "PrepareSpellScript", "da/d5a/a23883.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
+    [ "Register", "da/d5a/a23883.html#ac406946bb793125d49006e3a877c9638", null ],
+    [ "SelectTarget", "da/d5a/a23883.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
 ];

@@ -1,10 +1,8 @@
 var a23051 =
 [
-    [ "Spells", "da/d6a/a23051.html#a70ca1841fb1db54e6f76b96331e05cf1", [
-      [ "SPELL_GROW", "da/d6a/a23051.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
-      [ "SPELL_SPORE_CLOUD", "da/d6a/a23051.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
-    ] ],
-    [ "npc_rancid_mushroom", "da/d6a/a23051.html#a15896957b94de57de9eda5a199a05d4c", null ],
-    [ "InitializeAI", "da/d6a/a23051.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
-    [ "UpdateAI", "da/d6a/a23051.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
+    [ "boss_najentus", "da/d6a/a23051.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "da/d6a/a23051.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "da/d6a/a23051.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "da/d6a/a23051.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "da/d6a/a23051.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ]
 ];

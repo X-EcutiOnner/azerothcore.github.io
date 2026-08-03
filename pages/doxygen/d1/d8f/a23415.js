@@ -1,6 +1,6 @@
 var a23415 =
 [
-    [ "PrepareSpellScript", "d1/d8f/a23415.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "d1/d8f/a23415.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "d1/d8f/a23415.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "HandleAfterRemove", "d1/d8f/a23415.html#a74610b06095572aa2c898cd84e0fb229", null ],
+    [ "PrepareAuraScript", "d1/d8f/a23415.html#ac0d686490ff37810e0116dea4d0b6077", null ],
+    [ "Register", "d1/d8f/a23415.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
 ];

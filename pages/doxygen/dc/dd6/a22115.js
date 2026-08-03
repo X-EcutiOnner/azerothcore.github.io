@@ -1,7 +1,7 @@
 var a22115 =
 [
-    [ "HandleDummy", "dc/dd6/a22115.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
-    [ "PrepareAuraScript", "dc/dd6/a22115.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
-    [ "Register", "dc/dd6/a22115.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
-    [ "Validate", "dc/dd6/a22115.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
+    [ "GetSeatNumber", "dc/dd6/a22115.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
+    [ "HandleDummy", "dc/dd6/a22115.html#ac5945381452559e1d5655f5345bdeff3", null ],
+    [ "PrepareSpellScript", "dc/dd6/a22115.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
+    [ "Register", "dc/dd6/a22115.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
 ];

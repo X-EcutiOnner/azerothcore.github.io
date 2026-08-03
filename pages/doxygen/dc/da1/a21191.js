@@ -1,8 +1,9 @@
 var a21191 =
 [
-    [ "npc_frozen_orbAI", "dc/da1/a21191.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "dc/da1/a21191.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "dc/da1/a21191.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "dc/da1/a21191.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "dc/da1/a21191.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "npc_vrykul_skeleton", "dc/da1/a21191.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
+    [ "DamageTaken", "dc/da1/a21191.html#a840244c4183987e4fda533edb2ddeff2", null ],
+    [ "Reset", "dc/da1/a21191.html#af950342b2177c84c101485736855b998", null ],
+    [ "UpdateAI", "dc/da1/a21191.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
+    [ "events", "dc/da1/a21191.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
+    [ "pInstance", "dc/da1/a21191.html#a834f0162540683c20f9fa0f9e32eee33", null ]
 ];

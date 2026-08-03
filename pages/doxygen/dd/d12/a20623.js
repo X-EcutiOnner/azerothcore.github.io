@@ -1,12 +1,19 @@
 var a20623 =
 [
-    [ "boss_thorim_start_npcs", "dd/d12/a20623.html#a3ed7da48fc86ea00124181bb943a778d", null ],
-    [ "DamageTaken", "dd/d12/a20623.html#a4821ee0619dac4cdcd9434f57d83f0c9", null ],
-    [ "JustDied", "dd/d12/a20623.html#af5a00c3bc633464e9fd5d02991845294", null ],
-    [ "JustEngagedWith", "dd/d12/a20623.html#a636dd7264dd01aa5fc3c69af17425103", null ],
-    [ "Reset", "dd/d12/a20623.html#a37092466e579fe54a1dffe2ae0a2f689", null ],
-    [ "UpdateAI", "dd/d12/a20623.html#a7cca60ceab19727e68fcd4a3629978c4", null ],
-    [ "_isCaster", "dd/d12/a20623.html#aa3c48c6d8d548cb39a6c7eea8f807dde", null ],
-    [ "_playerAttack", "dd/d12/a20623.html#ab1bf0c011692377fc591610c5131d5e2", null ],
-    [ "events", "dd/d12/a20623.html#affdeecbfa6bb62659c4a2f5ef1d1fafa", null ]
+    [ "npc_ulduar_leviathan_mkii", "dd/d12/a20623.html#a90485942ab092db2f28b165f761eb495", null ],
+    [ "AttackStart", "dd/d12/a20623.html#a35ab8ffefb3717fa26c554e8d48ff2ac", null ],
+    [ "DamageTaken", "dd/d12/a20623.html#ac2443db8d15b5ee3597fefdc6389f114", null ],
+    [ "EnterEvadeMode", "dd/d12/a20623.html#a47ceec21f91030a1810392ecc0adafd2", null ],
+    [ "GetS3", "dd/d12/a20623.html#aba4be715815acca2ace025002750277e", null ],
+    [ "KilledUnit", "dd/d12/a20623.html#a8f40ca6bd9515e6d645e6140f21adb06", null ],
+    [ "MoveInLineOfSight", "dd/d12/a20623.html#abb2cbb6e0999fbd0eacba4c414458b8a", null ],
+    [ "PassengerBoarded", "dd/d12/a20623.html#a2ea5689299a108e729bde24de63e71aa", null ],
+    [ "Reset", "dd/d12/a20623.html#afaa3072c296341693ef4803330a13929", null ],
+    [ "SetData", "dd/d12/a20623.html#a83a6d7d5c94c4cf8b76474ef8f3b0608", null ],
+    [ "SpellHit", "dd/d12/a20623.html#a790900963d9e073f4f8e4a0546721f52", null ],
+    [ "UpdateAI", "dd/d12/a20623.html#a79b9146be412e5862b47cd34073a2fd7", null ],
+    [ "_events", "dd/d12/a20623.html#a8569f601aa9a6963d41d00e30f041727", null ],
+    [ "_isEvading", "dd/d12/a20623.html#a61fed1e77c98422cda155255dc7730d7", null ],
+    [ "_phase", "dd/d12/a20623.html#aadcf5849e2a2098e8183aebbc3c16c91", null ],
+    [ "instance", "dd/d12/a20623.html#a1756b869c05920f3b9d64931c036fdb7", null ]
 ];

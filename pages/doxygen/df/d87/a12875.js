@@ -1,5 +1,5 @@
 var a12875 =
 [
-    [ "go_orb_of_domination", "df/d87/a12875.html#ad1378efcf7a54adac256a44bbdfe4357", null ],
-    [ "GossipHello", "df/d87/a12875.html#a95628cbeeb6b2af6a79546ff3661815e", null ]
+    [ "go_father_flame", "df/d87/a12875.html#aa23829f617c48bb6da57ff7977886e75", null ],
+    [ "OnStateChanged", "df/d87/a12875.html#ad0e85a66d65d908c532c2bfde0605b39", null ]
 ];

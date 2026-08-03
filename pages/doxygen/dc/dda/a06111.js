@@ -1,9 +1,8 @@
 var a06111 =
 [
-    [ "SQLQueryHolderTask", "dc/dda/a06111.html#a017ab0275ea42132bb1e4ece7111572e", null ],
-    [ "~SQLQueryHolderTask", "dc/dda/a06111.html#a0d1122160565c8f20f9a48390352c770", null ],
-    [ "Execute", "dc/dda/a06111.html#a1dc2cdfee574ecbb8fd7bc595ca2f170", null ],
-    [ "GetFuture", "dc/dda/a06111.html#a73199c4e5805933c9f79091797dedc5d", null ],
-    [ "m_holder", "dc/dda/a06111.html#a64b624b8e77c819f5b47d592edc0979d", null ],
-    [ "m_result", "dc/dda/a06111.html#ab27ce22bdb505509662d862e92fe7e77", null ]
+    [ "Statements", "dc/dda/a06111.html#a6dc31cb64a22e90cc5275bf6fcaaf000", null ],
+    [ "LoginDatabaseConnection", "dc/dda/a06111.html#aed22866380f9331ff73d4437a779206c", null ],
+    [ "LoginDatabaseConnection", "dc/dda/a06111.html#a27fa1397706cf8b986fe0a05a82a910b", null ],
+    [ "~LoginDatabaseConnection", "dc/dda/a06111.html#a7514a6e42889d5d75dcce2e804fff7b8", null ],
+    [ "DoPrepareStatements", "dc/dda/a06111.html#a3f826d59e4efa55d7825f90f434ae889", null ]
 ];

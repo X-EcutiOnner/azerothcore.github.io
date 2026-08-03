@@ -1,8 +1,11 @@
 var a18687 =
 [
-    [ "Load", "d0/d46/a18687.html#add67e02f44e3658bff98faf7a9466ba3", null ],
-    [ "OnPeriodic", "d0/d46/a18687.html#a3e523e0bb23e4aba279ba6704206bfc4", null ],
-    [ "PrepareAuraScript", "d0/d46/a18687.html#a399fc30c23c03d3c4964ec23faed7c18", null ],
-    [ "Register", "d0/d46/a18687.html#a4ee6fe23e45481eea16f77d8de72742e", null ],
-    [ "_is25Man", "d0/d46/a18687.html#ab7776e2d8eff0de1176d5d5efa853c6d", null ]
+    [ "AddMissingStack", "d0/d46/a18687.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
+    [ "CheckAura", "d0/d46/a18687.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
+    [ "FilterTargets", "d0/d46/a18687.html#ab6c86c3680823329d5f3aad985aa316a", null ],
+    [ "Load", "d0/d46/a18687.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
+    [ "PrepareSpellScript", "d0/d46/a18687.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
+    [ "Register", "d0/d46/a18687.html#af0e6f1fc6687de1abcc1689116150088", null ],
+    [ "_hadInitialAura", "d0/d46/a18687.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
+    [ "_hadJumpingAura", "d0/d46/a18687.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
 ];

@@ -1,7 +1,5 @@
 var a28315 =
 [
-    [ "npc_wormholeAI", "d2/d5e/a28315.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "d2/d5e/a28315.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "d2/d5e/a28315.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "d2/d5e/a28315.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "go_jotunheim_cage", "d2/d5e/a28315.html#a28c9312de97a822e34f05c7358b42df4", null ],
+    [ "OnGossipHello", "d2/d5e/a28315.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
 ];

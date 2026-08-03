@@ -1,14 +1,12 @@
 var a11895 =
 [
-    [ "IsFitToRequirements", "de/d67/a11895.html#af1585273701356a591bf9d9483e996a3", null ],
-    [ "areaId", "de/d67/a11895.html#af7e6f7b027388447a1f99e759975ca09", null ],
-    [ "auraSpell", "de/d67/a11895.html#adaf2f6f7c56701fe42a2674aca74fba0", null ],
-    [ "autocast", "de/d67/a11895.html#a38b42b82e4a588e102eb393cc907cd27", null ],
-    [ "gender", "de/d67/a11895.html#af4314cba9c91fd1e2c09905c17c67d22", null ],
-    [ "questEnd", "de/d67/a11895.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f", null ],
-    [ "questEndStatus", "de/d67/a11895.html#ac6c7ed326628642da138bb3835db9a1d", null ],
-    [ "questStart", "de/d67/a11895.html#afc99b14a3724fef7c5dd70e976a479a8", null ],
-    [ "questStartStatus", "de/d67/a11895.html#a7f4466dfd9ab56850a36d0d09ff84798", null ],
-    [ "raceMask", "de/d67/a11895.html#a402373ff841bd2aa47b4b36a581624cc", null ],
-    [ "spellId", "de/d67/a11895.html#a8a299d901e2c13cdc3c00d6cf0a856d3", null ]
+    [ "WorldObjectSpellTargetCheck", "de/d67/a11895.html#a370a66c484d486ac6d2d3419a019c7cd", null ],
+    [ "~WorldObjectSpellTargetCheck", "de/d67/a11895.html#a1d519b04f171d230b21da3cc637497cf", null ],
+    [ "operator()", "de/d67/a11895.html#a2ae263977948d2195b22a737c36bad20", null ],
+    [ "_caster", "de/d67/a11895.html#ac090f8e47bcdfccb85fb791856355827", null ],
+    [ "_condList", "de/d67/a11895.html#a70b9331b5871e2e4d92d642715c8192a", null ],
+    [ "_condSrcInfo", "de/d67/a11895.html#a288c53998aa7b744f6e3eaeba68fe6d8", null ],
+    [ "_referer", "de/d67/a11895.html#a1a24eaafdf716de984a5943e049d10f7", null ],
+    [ "_spellInfo", "de/d67/a11895.html#a66bd07338943ee307be19f22326b29b7", null ],
+    [ "_targetSelectionType", "de/d67/a11895.html#a0e629a6fd0da179ea0c98c93d2337603", null ]
 ];

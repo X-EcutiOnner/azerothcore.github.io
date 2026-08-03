@@ -1,7 +1,6 @@
 var a13307 =
 [
-    [ "HandleDummy", "db/d8f/a13307.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
-    [ "PrepareSpellScript", "db/d8f/a13307.html#a5738144c85424e11f33aada38273e24e", null ],
-    [ "Register", "db/d8f/a13307.html#a206a4d40e082246193ba36c9080cdac1", null ],
-    [ "Validate", "db/d8f/a13307.html#a0718461731d563d2c948848f60101d49", null ]
+    [ "go_blood_drenched_doorAI", "d7/d88/a13311.html", "d7/d88/a13311" ],
+    [ "go_blood_drenched_door", "db/d8f/a13307.html#a32451e046236bc66b605088cab35fefc", null ],
+    [ "GetAI", "db/d8f/a13307.html#a983405ff279eabe0bc607fb85bd47eb9", null ]
 ];

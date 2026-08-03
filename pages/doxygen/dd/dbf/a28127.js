@@ -1,5 +1,6 @@
 var a28127 =
 [
-    [ "item_captured_frog", "dd/dbf/a28127.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "dd/dbf/a28127.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "npc_spirit_shadeAI", "dc/de4/a28131.html", "dc/de4/a28131" ],
+    [ "npc_spirit_shade", "dd/dbf/a28127.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "dd/dbf/a28127.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

@@ -1,6 +1,6 @@
 var a25627 =
 [
-    [ "HandleActivateObject", "da/dab/a25627.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "da/dab/a25627.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "da/dab/a25627.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "CheckCast", "da/dab/a25627.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
+    [ "PrepareSpellScript", "da/dab/a25627.html#a0bc2de519e0c84688fad609444d28afa", null ],
+    [ "Register", "da/dab/a25627.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
 ];

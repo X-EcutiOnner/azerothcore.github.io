@@ -1,12 +1,5 @@
 var a29319 =
 [
-    [ "HealInfoStubBuilder", "d3/db3/a29319.html#a57945de96ad065451cadb47edba287c8", null ],
-    [ "Build", "d3/db3/a29319.html#a291565d223df00ce9d09c0315e803448", null ],
-    [ "WithAbsorb", "d3/db3/a29319.html#aa09160afe48114a7a3566be328f64658", null ],
-    [ "WithEffectiveHeal", "d3/db3/a29319.html#a34a359322b018cffc5f54ca999c11b11", null ],
-    [ "WithHeal", "d3/db3/a29319.html#a812e06b07eeb18c1d379409b77a80b89", null ],
-    [ "WithHitMask", "d3/db3/a29319.html#ab788ddcc209140ed3c10b02785471dcb", null ],
-    [ "WithOverheal", "d3/db3/a29319.html#a89c12c30725eb2bdc3889005a38d54eb", null ],
-    [ "WithSpellInfo", "d3/db3/a29319.html#a4dc784241fbe998437cceb953fb83e1f", null ],
-    [ "_stub", "d3/db3/a29319.html#ad0da544c651e387d8c6e9b272aa3db7b", null ]
+    [ "Exp", "d3/db3/a29319.html#aa34490babd6ccdc45857947db3f36d60", null ],
+    [ "id", "d3/db3/a29319.html#abe177efe7ea9d1d1ae8e7d09655c7193", null ]
 ];

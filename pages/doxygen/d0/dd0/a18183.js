@@ -1,6 +1,6 @@
 var a18183 =
 [
-    [ "MalleableGooSelector", "d0/dd0/a18183.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
-    [ "operator()", "d0/dd0/a18183.html#adf73957539fdcc604f849944473e0015", null ],
-    [ "me", "d0/dd0/a18183.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
+    [ "npc_vengeful_shadeAI", "d5/dba/a18187.html", "d5/dba/a18187" ],
+    [ "npc_vengeful_shade", "d0/dd0/a18183.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
+    [ "GetAI", "d0/dd0/a18183.html#afa2c672015b43d83bd55050ed020f7e5", null ]
 ];

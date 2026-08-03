@@ -1,11 +1,11 @@
 var a02741 =
 [
-    [ "boss_bronjahm", "d8/dcf/a17254.html", "d8/dcf/a17254" ],
-    [ "npc_fos_corrupted_soul_fragment", "d0/d37/a17258.html", "d0/d37/a17258" ],
-    [ "spell_bronjahm_magic_bane", "d7/dfc/a17262.html", "d7/dfc/a17262" ],
-    [ "spell_bronjahm_soulstorm_channel_ooc_aura", "d0/da8/a17266.html", "d0/da8/a17266" ],
-    [ "spell_bronjahm_soulstorm_visual_aura", "d3/df0/a17270.html", "d3/df0/a17270" ],
-    [ "spell_bronjahm_soulstorm_targeting", "dc/d7c/a17274.html", "dc/d7c/a17274" ],
+    [ "boss_bronjahm", "df/d98/a17251.html", "df/d98/a17251" ],
+    [ "npc_fos_corrupted_soul_fragment", "db/d99/a17255.html", "db/d99/a17255" ],
+    [ "spell_bronjahm_magic_bane", "d3/d26/a17259.html", "d3/d26/a17259" ],
+    [ "spell_bronjahm_soulstorm_channel_ooc_aura", "dd/d4a/a17263.html", "dd/d4a/a17263" ],
+    [ "spell_bronjahm_soulstorm_visual_aura", "d1/d8d/a17267.html", "d1/d8d/a17267" ],
+    [ "spell_bronjahm_soulstorm_targeting", "de/d22/a17271.html", "de/d22/a17271" ],
     [ "Events", "d6/d0b/a02741.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d0/dbc/a03752.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d0/dbc/a03752.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -2771,6 +2771,7 @@ var a02741 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

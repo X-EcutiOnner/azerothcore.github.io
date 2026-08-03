@@ -1,7 +1,19 @@
 var a14703 =
 [
-    [ "FilterTargets", "da/d26/a14703.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
-    [ "HandleDummy", "da/d26/a14703.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
-    [ "PrepareSpellScript", "da/d26/a14703.html#a6ac4db072beae6ae7a700774667da613", null ],
-    [ "Register", "da/d26/a14703.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
+    [ "npc_dark_iron_guzzler", "da/d26/a14703.html#a53ce152d0bf8e727ed0b385bb2293363", null ],
+    [ "AttackStart", "da/d26/a14703.html#a47295b69eaecf3c001c43a1550dd1a80", null ],
+    [ "DamageTaken", "da/d26/a14703.html#affd1f78b5c1df26824b08416d6bd03a1", null ],
+    [ "FindNextKeg", "da/d26/a14703.html#ac063799097f89c09f30bed79151e8ed6", null ],
+    [ "GetTarget", "da/d26/a14703.html#a076305d37ce348b24b35f7956385e8fc", null ],
+    [ "JustEngagedWith", "da/d26/a14703.html#ae8142b745e493ab4a77b9df12ea9474d", null ],
+    [ "KilledUnit", "da/d26/a14703.html#a018513f23158fcd6f929a90cfecfde4c", null ],
+    [ "MoveInLineOfSight", "da/d26/a14703.html#aaa4df56f1f587029b24626ae1aca552a", null ],
+    [ "MovementInform", "da/d26/a14703.html#ada6c7f97e25eb545926d6531495bb397", null ],
+    [ "Reset", "da/d26/a14703.html#af608024d4b41fa218a7baeae9bee72ef", null ],
+    [ "SayText", "da/d26/a14703.html#a872bdd2e2ff2b72c983658c63d74e2c3", null ],
+    [ "SpellHit", "da/d26/a14703.html#ae195867416885e570c2c9a4837ac33c1", null ],
+    [ "UpdateAI", "da/d26/a14703.html#a5decab6f76369ec9ce037dd050898423", null ],
+    [ "attacking", "da/d26/a14703.html#a18a1d7e61b99819666366c6791154e01", null ],
+    [ "targetGUID", "da/d26/a14703.html#a620df1502373954020a910853cb6dd3a", null ],
+    [ "timer", "da/d26/a14703.html#a9748d587b61c148a27be690a6354473f", null ]
 ];

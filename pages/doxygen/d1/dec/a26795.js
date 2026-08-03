@@ -1,7 +1,9 @@
 var a26795 =
 [
-    [ "CheckTarget", "d1/dec/a26795.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "d1/dec/a26795.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "d1/dec/a26795.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "d1/dec/a26795.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "CheckProc", "d1/dec/a26795.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
+    [ "HandleProc", "d1/dec/a26795.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
+    [ "PrepareAuraScript", "d1/dec/a26795.html#a9585ecde57ccfa26f59174732e3132fc", null ],
+    [ "Register", "d1/dec/a26795.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
+    [ "Validate", "d1/dec/a26795.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
+    [ "_triggeredSpellId", "d1/dec/a26795.html#a560ade778e046213f60f48364ea3800c", null ]
 ];

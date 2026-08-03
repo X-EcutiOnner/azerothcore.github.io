@@ -1,8 +1,7 @@
 var a11023 =
 [
-    [ "OtherGUID", "df/d2c/a11023.html#a3f7486a2e4e07fef318414eaaa9037da", null ],
-    [ "PlayerGUID", "df/d2c/a11023.html#ae3d1217ddbfccd601fcbc57b78739a94", null ],
-    [ "RankID", "df/d2c/a11023.html#a1aebcb39f85c2b44101a311a6ccefdfd", null ],
-    [ "TransactionDate", "df/d2c/a11023.html#a4a8054876b35134e5dfe2cf84887e66f", null ],
-    [ "TransactionType", "df/d2c/a11023.html#aa48b69aa9078fb150470d66201b34786", null ]
+    [ "ChatServerMessage", "df/d2c/a11023.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
+    [ "Write", "df/d2c/a11023.html#af8bad4d39693290674bda2e2ad8685bf", null ],
+    [ "MessageID", "df/d2c/a11023.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
+    [ "StringParam", "df/d2c/a11023.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
 ];

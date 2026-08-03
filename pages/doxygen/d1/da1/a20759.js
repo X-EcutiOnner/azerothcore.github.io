@@ -1,8 +1,10 @@
 var a20759 =
 [
-    [ "boss_yoggsaron_crusher_tentacle", "d1/da1/a20759.html#a1649412beffbc87ce046a591775b02b2", null ],
-    [ "DamageTaken", "d1/da1/a20759.html#aa38dbd7050000d3aab774a7b719912f4", null ],
-    [ "DoAction", "d1/da1/a20759.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
-    [ "Reset", "d1/da1/a20759.html#aba082f8d2fa200eca9c52336df544221", null ],
-    [ "UpdateAI", "d1/da1/a20759.html#ae22a12401dc98534da1cb771468a58ce", null ]
+    [ "npc_razorscale_dark_rune_sentinel", "d1/da1/a20759.html#ab05b135a3c4cc45c132b3bb38127494c", null ],
+    [ "CanAIAttack", "d1/da1/a20759.html#a99f74f401c846f56f6adf70a755e5a84", null ],
+    [ "JustEngagedWith", "d1/da1/a20759.html#afdba7ecd994d92484a75444387bffaee", null ],
+    [ "Reset", "d1/da1/a20759.html#ad83e4b28dc7562a627f9d1330c3bb2fc", null ],
+    [ "UpdateAI", "d1/da1/a20759.html#a621e7a4804a74ce74717a9b0212ab8a3", null ],
+    [ "_events", "d1/da1/a20759.html#a5dc9139c7d2897b6f1a9e9d86a5f663a", null ],
+    [ "_instance", "d1/da1/a20759.html#a83f67be54dde276f3ed5efd867450756", null ]
 ];

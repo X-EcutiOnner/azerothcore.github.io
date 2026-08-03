@@ -1,7 +1,11 @@
 var a14699 =
 [
-    [ "HandleScriptEffect", "d5/d78/a14699.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
-    [ "PrepareSpellScript", "d5/d78/a14699.html#a3d906994c11e52e89c842189be73ddfd", null ],
-    [ "Register", "d5/d78/a14699.html#a4cdab36e2265c696207a39e16549ab13", null ],
-    [ "Validate", "d5/d78/a14699.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
+    [ "npc_dark_iron_attack_mole_machine", "d5/d78/a14699.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "d5/d78/a14699.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "d5/d78/a14699.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "d5/d78/a14699.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "d5/d78/a14699.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "d5/d78/a14699.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "d5/d78/a14699.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "d5/d78/a14699.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

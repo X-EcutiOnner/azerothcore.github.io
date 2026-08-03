@@ -1,9 +1,10 @@
 var a24415 =
 [
-    [ "Absorb", "d8/d81/a24415.html#ae5101c9adc7b9d09daf9c78d5e6d9d14", null ],
-    [ "CalculateAmount", "d8/d81/a24415.html#a0e88abc0dfc1f0aa5c52f3602f99d45a", null ],
-    [ "Load", "d8/d81/a24415.html#ab7eae0747736dea5633ef51eb0945fae", null ],
-    [ "PrepareAuraScript", "d8/d81/a24415.html#a760b72149ee11ad88e290c9537b3094b", null ],
-    [ "Register", "d8/d81/a24415.html#a0d25efee128ee95f9ad268b53358f376", null ],
-    [ "absorbPct", "d8/d81/a24415.html#a31091ef6a0d39e1d498420a85f6c84fa", null ]
+    [ "npc_pet_gen_imp_in_a_bottle", "d8/d81/a24415.html#aa32b7770c2719d77d46fcf6d22989284", null ],
+    [ "InitializeAI", "d8/d81/a24415.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
+    [ "UpdateAI", "d8/d81/a24415.html#a453ec855bb21a30cb72b540ff8f77035", null ],
+    [ "_data", "d8/d81/a24415.html#a982ec923536c2c33353a3673aa425b6a", null ],
+    [ "_hasParty", "d8/d81/a24415.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
+    [ "_ownerGUID", "d8/d81/a24415.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
+    [ "_talkTimer", "d8/d81/a24415.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
 ];

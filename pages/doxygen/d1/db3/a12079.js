@@ -1,4 +1,6 @@
 var a12079 =
 [
-    [ "Text", "d1/db3/a12079.html#ab4b16957cc9e845b0f763b4241ba5c89", null ]
+    [ "AuraDispelHandler", "d1/db3/a12079.html#ab6e675b4db931c601b3d6aef65ae0ff6", null ],
+    [ "Call", "d1/db3/a12079.html#a147d8a6d95f011f27600d052ef7b4000", null ],
+    [ "pHandlerScript", "d1/db3/a12079.html#ab7dd73a36aa517354a023deb7db0cf19", null ]
 ];

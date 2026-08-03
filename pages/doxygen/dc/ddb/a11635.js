@@ -1,12 +1,8 @@
 var a11635 =
 [
-    [ "PacketLog", "dc/ddb/a11635.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
-    [ "~PacketLog", "dc/ddb/a11635.html#a595a42f9aaa94d6c46d185955df801e0", null ],
-    [ "CanLogPacket", "dc/ddb/a11635.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
-    [ "Initialize", "dc/ddb/a11635.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
-    [ "instance", "dc/ddb/a11635.html#a484418a51ca0bf150d17b23d97979bf4", null ],
-    [ "LogPacket", "dc/ddb/a11635.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
-    [ "_file", "dc/ddb/a11635.html#a03346a709f7586f6445e03b9a3b6af04", null ],
-    [ "_initializeFlag", "dc/ddb/a11635.html#a490cafe009f7b2ecb303a76c781f8960", null ],
-    [ "_logPacketLock", "dc/ddb/a11635.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
+    [ "QuestPushResultClient", "dc/ddb/a11635.html#a900078368c8626a81dc4718f5aed7b71", null ],
+    [ "Read", "dc/ddb/a11635.html#a63dcedbd02a64775a60c45cb2b30eea7", null ],
+    [ "PlayerGuid", "dc/ddb/a11635.html#afafc0742bc5d17222b981142fc10a9c5", null ],
+    [ "QuestId", "dc/ddb/a11635.html#ada7d9d3d874403ffb3472affb40c0f2b", null ],
+    [ "QuestShareMessage", "dc/ddb/a11635.html#a83d8ff8ab8c8e3e883066cc6035ec307", null ]
 ];

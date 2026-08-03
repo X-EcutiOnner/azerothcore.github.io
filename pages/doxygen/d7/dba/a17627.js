@@ -1,6 +1,7 @@
 var a17627 =
 [
-    [ "npc_blood_queen_lana_thelAI", "da/d4f/a17631.html", "da/d4f/a17631" ],
-    [ "npc_blood_queen_lana_thel", "d7/dba/a17627.html#a39adef3ae54efd4433805bd8ad4719be", null ],
-    [ "GetAI", "d7/dba/a17627.html#a02d928ac4ef1704cee2498ebe6533561", null ]
+    [ "HandleScriptEffect", "d7/dba/a17627.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
+    [ "PrepareSpellScript", "d7/dba/a17627.html#aac410690d906867216b40a49d8f15318", null ],
+    [ "Register", "d7/dba/a17627.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
+    [ "Validate", "d7/dba/a17627.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
 ];

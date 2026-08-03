@@ -1,15 +1,13 @@
 var a14095 =
 [
-    [ "npc_deathstalker_fearleia", "dd/db2/a14095.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
-    [ "JustDied", "dd/db2/a14095.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
-    [ "JustEngagedWith", "dd/db2/a14095.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
-    [ "JustSummoned", "dd/db2/a14095.html#a8ef363de7292d366eea128b55b1acaeb", null ],
-    [ "Reset", "dd/db2/a14095.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
-    [ "sQuestAccept", "dd/db2/a14095.html#a5da116182685dfac72139b40266f2884", null ],
-    [ "SummonCreatureWithRandomTarget", "dd/db2/a14095.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
-    [ "SummonedCreatureDespawn", "dd/db2/a14095.html#a36415976d5ae2034578581bdec183f33", null ],
-    [ "UpdateAI", "dd/db2/a14095.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
-    [ "_playerGUID", "dd/db2/a14095.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
-    [ "_questInProgress", "dd/db2/a14095.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
-    [ "_summons", "dd/db2/a14095.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
+    [ "npc_ravenclaw_apparitionAI", "dd/db2/a14095.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
+    [ "EmoteCrowd", "dd/db2/a14095.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
+    [ "JustDied", "dd/db2/a14095.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
+    [ "JustSummoned", "dd/db2/a14095.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
+    [ "SummonCrowd", "dd/db2/a14095.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
+    [ "UpdateAI", "dd/db2/a14095.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
+    [ "events", "dd/db2/a14095.html#a27522107b5e1f54909294f800f26663f", null ],
+    [ "HasEnded", "dd/db2/a14095.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
+    [ "summons", "dd/db2/a14095.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
+    [ "TalkRNG", "dd/db2/a14095.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
 ];

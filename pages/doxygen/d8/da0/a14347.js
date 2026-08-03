@@ -1,9 +1,10 @@
 var a14347 =
 [
-    [ "npc_amanishi_lookout", "d8/da0/a14347.html#adf34c160c531164a459092f45588a7be", null ],
-    [ "DoAction", "d8/da0/a14347.html#ab43e3372000af268c81e2701070e1b03", null ],
-    [ "MoveInLineOfSight", "d8/da0/a14347.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
-    [ "MovementInform", "d8/da0/a14347.html#ae9e6d22a781392107a7e50e5815c116c", null ],
-    [ "Reset", "d8/da0/a14347.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
-    [ "_instance", "d8/da0/a14347.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
+    [ "boss_alyson_antille", "d8/da0/a14347.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
+    [ "GetNearbyFriendlies", "d8/da0/a14347.html#ab99596d5c2eafac8c678378d509bf585", null ],
+    [ "JustEngagedWith", "d8/da0/a14347.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
+    [ "RandomReverseFriendlyList", "d8/da0/a14347.html#afef27de229ba2c3b8beb30809a313237", null ],
+    [ "Reset", "d8/da0/a14347.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
+    [ "UpdateAI", "d8/da0/a14347.html#a15157be42d166a239ab658fc04292e44", null ],
+    [ "_friendlyList", "d8/da0/a14347.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
 ];

@@ -1,6 +1,8 @@
 var a19935 =
 [
-    [ "HandleApplyTouch", "d3/d29/a19935.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "d3/d29/a19935.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "d3/d29/a19935.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "HandleEffectPeriodic", "d3/d29/a19935.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "d3/d29/a19935.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "d3/d29/a19935.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "d3/d29/a19935.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "d3/d29/a19935.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

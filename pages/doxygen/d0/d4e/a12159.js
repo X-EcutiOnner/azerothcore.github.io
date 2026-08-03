@@ -1,6 +1,8 @@
 var a12159 =
 [
-    [ "Command", "d0/d4e/a12159.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
-    [ "Data", "d0/d4e/a12159.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
-    [ "DataSize", "d0/d4e/a12159.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
+    [ "ToCloud9GuildHooks", "d0/d4e/a12159.html#af92ed08219fca9b8967779a936332bee", null ],
+    [ "~ToCloud9GuildHooks", "d0/d4e/a12159.html#a6352d89ded523200d4a60b91ff5c7fa4", null ],
+    [ "OnGuildMemberAdded", "d0/d4e/a12159.html#aea11728fdf49e5a6677051ab61d87180", null ],
+    [ "OnGuildMemberLeft", "d0/d4e/a12159.html#adada89524f817edcc5d2cfafb93ee6a1", null ],
+    [ "OnGuildMemberRemoved", "d0/d4e/a12159.html#a98d80a4bec269157bebfabbddfd60054", null ]
 ];

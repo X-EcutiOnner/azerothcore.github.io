@@ -1,7 +1,7 @@
 var a18347 =
 [
-    [ "HandleCast", "d1/db0/a18347.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "d1/db0/a18347.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "d1/db0/a18347.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "d1/db0/a18347.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "CheckRequirement", "d1/db0/a18347.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
+    [ "CheckRequirementInternal", "d1/db0/a18347.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
+    [ "PrepareSpellScript", "d1/db0/a18347.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
+    [ "Register", "d1/db0/a18347.html#a95a250aeb3a41922c529f476d39f18e4", null ]
 ];

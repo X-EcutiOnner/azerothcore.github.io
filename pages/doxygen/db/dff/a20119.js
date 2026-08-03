@@ -1,7 +1,7 @@
 var a20119 =
 [
-    [ "npc_storm_beacon_spawn", "db/dff/a20119.html#a999b6421a0ef6eec2987716a60352a5e", null ],
-    [ "UpdateAI", "db/dff/a20119.html#a93dbd7a26d6333f18329142280cc743d", null ],
-    [ "_amount", "db/dff/a20119.html#acb5d1f2b6590da32f36882339729c4e9", null ],
-    [ "_checkTimer", "db/dff/a20119.html#a9717b52f26045707fd852b955d29a5e6", null ]
+    [ "HandleDummyEffect", "db/dff/a20119.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "db/dff/a20119.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "db/dff/a20119.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "db/dff/a20119.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

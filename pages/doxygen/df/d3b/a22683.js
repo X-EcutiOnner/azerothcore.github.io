@@ -1,12 +1,8 @@
 var a22683 =
 [
-    [ "boss_essence_of_sufferingAI", "df/d3b/a22683.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
-    [ "DamageTaken", "df/d3b/a22683.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
-    [ "DoAction", "df/d3b/a22683.html#a08724d74523866969b12d13846eb4c1e", null ],
-    [ "JustEngagedWith", "df/d3b/a22683.html#aa2fce36768ad6e23a955cd215ca759db", null ],
-    [ "KilledUnit", "df/d3b/a22683.html#a3699b19f23cf15115ff8c92691a6d334", null ],
-    [ "MovementInform", "df/d3b/a22683.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
-    [ "Reset", "df/d3b/a22683.html#affa55b69784d8f881598189c361c986e", null ],
-    [ "UpdateAI", "df/d3b/a22683.html#abb60432720b3720832ccc83d454a3808", null ],
-    [ "_recentlySpoken", "df/d3b/a22683.html#a71a28a61e97f6278836649411493484f", null ]
+    [ "boss_darkweaver_syth", "df/d3b/a22683.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "df/d3b/a22683.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "df/d3b/a22683.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "df/d3b/a22683.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "df/d3b/a22683.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

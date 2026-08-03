@@ -1,6 +1,5 @@
 var a15495 =
 [
-    [ "HandleDamageCalc", "d1/d9b/a15495.html#a03eb92eff300872cd5fca452a99375ab", null ],
-    [ "PrepareSpellScript", "d1/d9b/a15495.html#ac07421b62bb6044dad89431839a70bd8", null ],
-    [ "Register", "d1/d9b/a15495.html#a70cbf764ab475e2358fa6630798cab9d", null ]
+    [ "pathId", "d1/d9b/a15495.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
+    [ "spellId", "d1/d9b/a15495.html#af495f984d5b81baeaa61ddca127a9508", null ]
 ];

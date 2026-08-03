@@ -1,6 +1,10 @@
 var a25259 =
 [
-    [ "HandleScript", "db/d15/a25259.html#a3f63c080d2a74def0920cceaea18e1e2", null ],
-    [ "PrepareSpellScript", "db/d15/a25259.html#a438c4c1763688210384b24305aeebe52", null ],
-    [ "Register", "db/d15/a25259.html#a27b25fbbdd912505738728414b79380c", null ]
+    [ "Load", "db/d15/a25259.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
+    [ "OnPeriodic", "db/d15/a25259.html#ab1dc8acb8072f70625375480742fee5e", null ],
+    [ "PrepareAuraScript", "db/d15/a25259.html#a2e81d03893b23aa8dc9c615683206f75", null ],
+    [ "Register", "db/d15/a25259.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
+    [ "Validate", "db/d15/a25259.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
+    [ "_applyTimes", "db/d15/a25259.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
+    [ "stackAmount", "db/d15/a25259.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
 ];

@@ -1,11 +1,7 @@
 var a11047 =
 [
-    [ "GuildSetRankPermissions", "de/d4f/a11047.html#a8b3fd3e4da77c6fb70db28721ec46714", null ],
-    [ "Read", "de/d4f/a11047.html#a534550862a3c634697e8277f31ad4c25", null ],
-    [ "Flags", "de/d4f/a11047.html#adea48131efa7c05b84c4de596933bfbe", null ],
-    [ "RankID", "de/d4f/a11047.html#a0c4a8b29918d69580c749e3b48485515", null ],
-    [ "RankName", "de/d4f/a11047.html#a24dde2aa8dd0ae1b9e8b37317334e0d4", null ],
-    [ "TabFlags", "de/d4f/a11047.html#af19e6fd8ddfe980f8c1f1110e9332bad", null ],
-    [ "TabWithdrawItemLimit", "de/d4f/a11047.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c", null ],
-    [ "WithdrawGoldLimit", "de/d4f/a11047.html#a1c02002facce05010028ac8dcae7fa3f", null ]
+    [ "QueryGuildInfoResponse", "de/d4f/a11047.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
+    [ "Write", "de/d4f/a11047.html#abda9452eba38e76c460f910eb3aad5fa", null ],
+    [ "GuildId", "de/d4f/a11047.html#a04eec0531238fa55a91afa11c394fbce", null ],
+    [ "Info", "de/d4f/a11047.html#a749e992a19264b259f62d403b4925abe", null ]
 ];

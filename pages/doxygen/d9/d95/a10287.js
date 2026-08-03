@@ -1,8 +1,19 @@
 var a10287 =
 [
-    [ "GetAINotifyDelay", "d9/d95/a10287.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
-    [ "GetReqMoveDistSq", "d9/d95/a10287.html#a58687646bbf83723e8ad2925ee50452c", null ],
-    [ "GetVisibilityNotifyDelay", "d9/d95/a10287.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
-    [ "Update", "d9/d95/a10287.html#aa95443d7050249a44cad2f16fa0026e5", null ],
-    [ "visibilitySettingsIndex", "d9/d95/a10287.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
+    [ "InstancedMaps", "d9/d95/a10287.html#a2d08c599bf826c4c98aaa9109e3b7a57", null ],
+    [ "MapInstanced", "d9/d95/a10287.html#af30e91e40c171ddbf7400f310283c43c", null ],
+    [ "~MapInstanced", "d9/d95/a10287.html#aa27d6f90288f23d34117c7d68160e04c", null ],
+    [ "CannotEnter", "d9/d95/a10287.html#a29f973e3e4bdfcfb0ea9bf6639b38108", null ],
+    [ "CreateBattleground", "d9/d95/a10287.html#ad57ef8f1654b494b8c20f6af461653f4", null ],
+    [ "CreateInstance", "d9/d95/a10287.html#a6d04039bbbde5717e50606d48c3ea954", null ],
+    [ "CreateInstanceForPlayer", "d9/d95/a10287.html#a9151fb7f7438abddf7aa17d015c600ab", null ],
+    [ "DelayedUpdate", "d9/d95/a10287.html#a8f58a4c872089f8fce60ddc31623611e", null ],
+    [ "DestroyInstance", "d9/d95/a10287.html#aaff2d76ae18bb7416e0cc8c16e0375d7", null ],
+    [ "FindInstanceMap", "d9/d95/a10287.html#a6ec8d0547ce589613f53a2c8d0f4a7fa", null ],
+    [ "GetInstancedMaps", "d9/d95/a10287.html#aff2cc0a1f57f06ead9a3e999c1c7dba0", null ],
+    [ "InitVisibilityDistance", "d9/d95/a10287.html#a29380bc11b3e33278338bcff32b3cbec", null ],
+    [ "UnloadAll", "d9/d95/a10287.html#a7fb86dd2f4b60721aabf3923c461f1fc", null ],
+    [ "Update", "d9/d95/a10287.html#a0fce5af3a96e35e9cbe44d73bac8b2df", null ],
+    [ "MapMgr", "d9/d95/a10287.html#ae6ac74470769d45e3c75291134ab77df", null ],
+    [ "m_InstancedMaps", "d9/d95/a10287.html#a655e624aad00ec0345aa17ce635666bf", null ]
 ];

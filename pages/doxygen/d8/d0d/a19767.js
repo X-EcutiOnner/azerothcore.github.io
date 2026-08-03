@@ -1,7 +1,6 @@
 var a19767 =
 [
-    [ "HandleProc", "d8/d0d/a19767.html#adb7714eca4c317ab76db0ecbc813669e", null ],
-    [ "PrepareAuraScript", "d8/d0d/a19767.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
-    [ "Register", "d8/d0d/a19767.html#a445ce7331c36e507aa24466ff9a67781", null ],
-    [ "Validate", "d8/d0d/a19767.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
+    [ "ChargeRifts", "d8/d0d/a19767.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "d8/d0d/a19767.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "d8/d0d/a19767.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

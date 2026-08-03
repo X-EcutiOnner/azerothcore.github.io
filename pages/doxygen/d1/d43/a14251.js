@@ -1,7 +1,7 @@
 var a14251 =
 [
-    [ "FilterTargets", "d1/d43/a14251.html#aebe9055301495dd3a21736b9a2a35f31", null ],
-    [ "HandleDamageCalc", "d1/d43/a14251.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
-    [ "PrepareSpellScript", "d1/d43/a14251.html#a03b8e21e58988d9fc774205263c0817f", null ],
-    [ "Register", "d1/d43/a14251.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "d1/d43/a14251.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
+    [ "Reset", "d1/d43/a14251.html#a18de805428ce0954a5fbfffbf5975342", null ],
+    [ "UpdateAI", "d1/d43/a14251.html#a48b191d0812bfe3212511a52ef0df817", null ],
+    [ "_events", "d1/d43/a14251.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
 ];

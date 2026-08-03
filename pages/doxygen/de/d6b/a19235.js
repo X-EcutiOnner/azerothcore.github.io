@@ -1,5 +1,6 @@
 var a19235 =
 [
-    [ "creatureEntry", "de/d6b/a19235.html#afab12c40af70303dff2a9553d47dbb7d", null ],
-    [ "questId", "de/d6b/a19235.html#ace2a7dd58d442b6afb2173311c89593b", null ]
+    [ "HandleScript", "de/d6b/a19235.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
+    [ "PrepareSpellScript", "de/d6b/a19235.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
+    [ "Register", "de/d6b/a19235.html#ad0c6d34103244cded41481c745dafe58", null ]
 ];

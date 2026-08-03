@@ -1,6 +1,11 @@
 var a16423 =
 [
-    [ "HandleLeapBack", "da/d9a/a16423.html#a71a9b9967528c1153ad1215635bc7d01", null ],
-    [ "PrepareSpellScript", "da/d9a/a16423.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
-    [ "Register", "da/d9a/a16423.html#a6ef11d0538616315fa7cf098748aa01f", null ]
+    [ "spell_hadronox_summon_periodic_aura", "da/d9a/a16423.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
+    [ "HandlePeriodic", "da/d9a/a16423.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "da/d9a/a16423.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "da/d9a/a16423.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "da/d9a/a16423.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "da/d9a/a16423.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "da/d9a/a16423.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
+    [ "_spellEntry", "da/d9a/a16423.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

@@ -1,5 +1,7 @@
 var a25307 =
 [
-    [ "PrepareSpellScript", "db/d8e/a25307.html#ac83289482a8f83a2af80e2f9f35b6716", null ],
-    [ "Register", "db/d8e/a25307.html#a5e2cdc942b9972f79ff0a4fac2f0d77d", null ]
+    [ "HandleScript", "db/d8e/a25307.html#a8b20e2ffed94ec9438dc9b756ba76693", null ],
+    [ "PrepareSpellScript", "db/d8e/a25307.html#a9e29ea947d5415471d991a4e1cd699ac", null ],
+    [ "Register", "db/d8e/a25307.html#aa4bc27415893009581b317637599a85a", null ],
+    [ "Validate", "db/d8e/a25307.html#a77ed10819633ae2bc381023da0feb31b", null ]
 ];

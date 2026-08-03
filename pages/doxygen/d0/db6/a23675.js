@@ -1,9 +1,6 @@
 var a23675 =
 [
-    [ "instance_the_eye_InstanceMapScript", "d0/db6/a23675.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
-    [ "GetGuidData", "d0/db6/a23675.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
-    [ "OnGameObjectCreate", "d0/db6/a23675.html#a56c6933c2c231c228ca147107fbfc930", null ],
-    [ "BridgeWindowGUID", "d0/db6/a23675.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
-    [ "KaelStateLeftGUID", "d0/db6/a23675.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
-    [ "KaelStateRightGUID", "d0/db6/a23675.html#a25ba703325800d2976eff860437f3d57", null ]
+    [ "HandleEffect", "d0/db6/a23675.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
+    [ "PrepareSpellScript", "d0/db6/a23675.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
+    [ "Register", "d0/db6/a23675.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
 ];

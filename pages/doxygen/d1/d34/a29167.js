@@ -1,9 +1,11 @@
 var a29167 =
 [
-    [ "TimeSeg", "d1/d34/a29167.html#a16782e722a5bada41691841fe594b7a6", null ],
-    [ "TransportEntry", "d1/d34/a29167.html#afcdb94a38d68d2ff8af225dc599db8a4", null ],
-    [ "W", "d1/d34/a29167.html#a4158a2babefbf4e148a64fe16bf113f6", null ],
-    [ "X", "d1/d34/a29167.html#a9c7cb1fd0463d1158d971db6f15431ff", null ],
-    [ "Y", "d1/d34/a29167.html#a7f0ff898e752e2e904ebee1412643df6", null ],
-    [ "Z", "d1/d34/a29167.html#a87647d71a965e80154ca36dc05421585", null ]
+    [ "Displayid", "d1/d34/a29167.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
+    [ "filename", "d1/d34/a29167.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
+    [ "maxX", "d1/d34/a29167.html#a10563ae885d34e516825a18db95b40e7", null ],
+    [ "maxY", "d1/d34/a29167.html#a711286df6d2bd74246dee2170052c17a", null ],
+    [ "maxZ", "d1/d34/a29167.html#acb74e32790b2c60cca5faef1caa225e4", null ],
+    [ "minX", "d1/d34/a29167.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
+    [ "minY", "d1/d34/a29167.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
+    [ "minZ", "d1/d34/a29167.html#ac88aefc2530212b9dff10e018c4e9305", null ]
 ];

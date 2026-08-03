@@ -1,6 +1,6 @@
 var a00518 =
 [
-    [ "AutobroadcastMgr", "d4/d28/a07554.html", "d4/d28/a07554" ],
+    [ "AutobroadcastMgr", "df/dcb/a07559.html", "df/dcb/a07559" ],
     [ "sAutobroadcastMgr", "d5/dee/a00518.html#a34abff2dadcb74370b0749fe9fda3878", null ],
     [ "AnnounceType", "d5/dee/a00518.html#a28a4ef2f64643c76d8be05bf9eafc731", [
       [ "World", "d5/dee/a00518.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],

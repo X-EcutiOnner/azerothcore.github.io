@@ -1,8 +1,6 @@
 var a17995 =
 [
-    [ "Load", "d8/d72/a17995.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
-    [ "PrepareSpellScript", "d8/d72/a17995.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
-    [ "Register", "d8/d72/a17995.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
-    [ "RelocateDest", "d8/d72/a17995.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
-    [ "SelectTransport", "d8/d72/a17995.html#a0564852176d80ee6593baa3abb18238a", null ]
+    [ "npc_zafod_boomboxAI", "d5/d5b/a17999.html", "d5/d5b/a17999" ],
+    [ "npc_zafod_boombox", "d8/d72/a17995.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "d8/d72/a17995.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

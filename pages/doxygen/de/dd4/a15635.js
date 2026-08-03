@@ -1,14 +1,13 @@
 var a15635 =
 [
-    [ "boss_twinemperorsAI", "de/dd4/a15635.html#ae0857b191dbbf086533062aee5885237", null ],
-    [ "DamageTaken", "de/dd4/a15635.html#a118151851f36de9dfc22971a965cb047", null ],
-    [ "DoAction", "de/dd4/a15635.html#a2b5e585749b7a59663813c7a9d56c223", null ],
-    [ "EnterEvadeMode", "de/dd4/a15635.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
-    [ "GetTwin", "de/dd4/a15635.html#af23aa54bca9752c242e80331862ace4d", null ],
-    [ "IAmVeklor", "de/dd4/a15635.html#acdccdde2ee573f51e1783ea493577258", null ],
-    [ "JustDied", "de/dd4/a15635.html#a9cc74619908c2aa9f8deda2689616735", null ],
-    [ "JustEngagedWith", "de/dd4/a15635.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
-    [ "KilledUnit", "de/dd4/a15635.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
-    [ "UpdateAI", "de/dd4/a15635.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
-    [ "_introDone", "de/dd4/a15635.html#a1b4689b0c403f7246ae100e4f716b138", null ]
+    [ "boss_cthun", "de/dd4/a15635.html#a287ee7b65708971e4fdfa7b814486935", null ],
+    [ "DoAction", "de/dd4/a15635.html#a04ae38b67d358f1d34820b855aab3869", null ],
+    [ "JustDied", "de/dd4/a15635.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
+    [ "JustEngagedWith", "de/dd4/a15635.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
+    [ "Reset", "de/dd4/a15635.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
+    [ "ScheduleTasks", "de/dd4/a15635.html#a5a0514e56217bb3b30b22b2681542adb", null ],
+    [ "SummonedCreatureDies", "de/dd4/a15635.html#a49d76bb4cf30ee66fae6114313394961", null ],
+    [ "UpdateAI", "de/dd4/a15635.html#a7d2685597f1eec2459fe509e5b97681f", null ],
+    [ "_fleshTentaclesKilled", "de/dd4/a15635.html#a139de83ae488c40d40a4587509cd197d", null ],
+    [ "WisperTimer", "de/dd4/a15635.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
 ];

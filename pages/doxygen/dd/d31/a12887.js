@@ -1,7 +1,6 @@
 var a12887 =
 [
-    [ "HandleRemove", "dd/d31/a12887.html#a754b44b62c131e20e1be94b3407e2006", null ],
-    [ "PrepareAuraScript", "dd/d31/a12887.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
-    [ "Register", "dd/d31/a12887.html#a02cd375ec140f7614104b7e56df13430", null ],
-    [ "Validate", "dd/d31/a12887.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
+    [ "OnEffect", "dd/d31/a12887.html#a1b5999f392cec9fea4431c3f746ee034", null ],
+    [ "PrepareSpellScript", "dd/d31/a12887.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
+    [ "Register", "dd/d31/a12887.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
 ];

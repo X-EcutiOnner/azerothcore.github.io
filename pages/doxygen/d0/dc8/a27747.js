@@ -1,5 +1,8 @@
 var a27747 =
 [
-    [ "achievement_bg_av_perfection", "d0/dc8/a27747.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "d0/dc8/a27747.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "CheckProc", "d0/dc8/a27747.html#a610313f5085c7c0109b5936e94de00fe", null ],
+    [ "OnProc", "d0/dc8/a27747.html#ad87c4cbd332dc19be3bc8ec9982a385b", null ],
+    [ "PrepareAuraScript", "d0/dc8/a27747.html#aae4d26e262f80681811c9b50c2a63642", null ],
+    [ "Register", "d0/dc8/a27747.html#a8fdcd2b4489011294d9f58d5ff0beb3f", null ],
+    [ "Validate", "d0/dc8/a27747.html#a00ef3cd4b2ee5739f5f7288ccbd6a1c6", null ]
 ];

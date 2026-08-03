@@ -1,16 +1,10 @@
 var a29835 =
 [
-    [ "Iterator", "dc/dfd/a29835.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "Iterator", "dc/dfd/a29835.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "operator!=", "dc/dfd/a29835.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
-    [ "operator!=", "dc/dfd/a29835.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
-    [ "operator*", "dc/dfd/a29835.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator*", "dc/dfd/a29835.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator++", "dc/dfd/a29835.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator++", "dc/dfd/a29835.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator->", "dc/dfd/a29835.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
-    [ "operator->", "dc/dfd/a29835.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
-    [ "operator==", "dc/dfd/a29835.html#a2d9cf3e798a1fcce3682c186952290df", null ],
-    [ "operator==", "dc/dfd/a29835.html#a2d9cf3e798a1fcce3682c186952290df", null ],
-    [ "record", "dc/dfd/a29835.html#a948512c44e53dfa177b85f82e9fd6160", null ]
+    [ "SetUp", "dc/dfd/a29835.html#a577c64b32e7d6e1055f23a9204a9dc9d", null ],
+    [ "TearDown", "dc/dfd/a29835.html#a154bc25a4e054558748b5599b56de11f", null ],
+    [ "_creatureA", "dc/dfd/a29835.html#a95e6c0f1f7a8692ec255c052b40416df", null ],
+    [ "_creatureB", "dc/dfd/a29835.html#af5d64516264eeb9f1acadeeba44b79c2", null ],
+    [ "_map", "dc/dfd/a29835.html#ada2e0d28b42465ea6f7c8de71142efd0", null ],
+    [ "_previousWorld", "dc/dfd/a29835.html#a2805a828f7a7c92845f7c712b90af381", null ],
+    [ "_worldMock", "dc/dfd/a29835.html#ab8d82db4b26a11e286ec603c63ea1613", null ]
 ];

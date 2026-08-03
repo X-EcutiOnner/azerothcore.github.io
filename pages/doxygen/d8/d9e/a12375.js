@@ -1,6 +1,7 @@
 var a12375 =
 [
-    [ "inventory_commandscript", "d8/d9e/a12375.html#a765d3606093dd3e15bb59c058333dca7", null ],
-    [ "GetCommands", "d8/d9e/a12375.html#ac002b65cbe2e5dafc7614c7afa4a20e6", null ],
-    [ "HandleInventoryCountCommand", "d8/d9e/a12375.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3", null ]
+    [ "map", "d8/d9e/a12375.html#ab52fa79b07a9fad5b0cf8a28669a94eb", null ],
+    [ "pallid", "d8/d9e/a12375.html#a0693df9090f40b7b1b8dba0003b6092e", null ],
+    [ "pallidGuid", "d8/d9e/a12375.html#ae78b3d7448e8f43a993f46208039f0b1", null ],
+    [ "zoneId", "d8/d9e/a12375.html#ad035d67dce95aa1ad7a1f39b1cf7b847", null ]
 ];

@@ -1,6 +1,8 @@
 var a11815 =
 [
-    [ "WorldObjectSpellConeTargetCheck", "d2/d5f/a11815.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
-    [ "operator()", "d2/d5f/a11815.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
-    [ "_coneAngle", "d2/d5f/a11815.html#a8f946789292320ea8b205dec5d1e1975", null ]
+    [ "SkillDiscoveryEntry", "d2/d5f/a11815.html#a54c0f12153c6e63a37e5da44d233b271", null ],
+    [ "SkillDiscoveryEntry", "d2/d5f/a11815.html#a301cae078fe1943cae045e94dc3d38ad", null ],
+    [ "chance", "d2/d5f/a11815.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
+    [ "reqSkillValue", "d2/d5f/a11815.html#a61e0edc8fee1fa4045d846668d08449c", null ],
+    [ "spellId", "d2/d5f/a11815.html#a75ca40729917317173b2953c8f47f833", null ]
 ];

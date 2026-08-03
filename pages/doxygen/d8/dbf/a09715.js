@@ -1,9 +1,10 @@
 var a09715 =
 [
-    [ "AnyFriendlyUnitInObjectRangeCheck", "d8/dbf/a09715.html#a4ed3a469f35cb7b64ad5f144281b7910", null ],
-    [ "operator()", "d8/dbf/a09715.html#a6e1026191fd4b1b45696a60f45b1b7b8", null ],
-    [ "i_funit", "d8/dbf/a09715.html#a9ebd1a1d9716dfda55509396947c1a83", null ],
-    [ "i_obj", "d8/dbf/a09715.html#adacade7450b0af19540ea705e1bd438b", null ],
-    [ "i_playerOnly", "d8/dbf/a09715.html#a6b0d852333ee74a20281ce7de5a45b98", null ],
-    [ "i_range", "d8/dbf/a09715.html#a2af638499152888a698b0fc1570e46ed", null ]
+    [ "AnyDeadUnitSpellTargetInRangeCheck", "d8/dbf/a09715.html#a212c308a02716ff382e820e86e233ed3", null ],
+    [ "operator()", "d8/dbf/a09715.html#af328df880d17a62e2dbed0ff4231fc39", null ],
+    [ "operator()", "d8/dbf/a09715.html#adcc69b9ef03a68aa235e40449a80b701", null ],
+    [ "operator()", "d8/dbf/a09715.html#a2f2483cf7078681cb3acf28560e61184", null ],
+    [ "operator()", "d8/dbf/a09715.html#aba0bf4c320a684b68743a06e724a369e", null ],
+    [ "i_check", "d8/dbf/a09715.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
+    [ "i_spellInfo", "d8/dbf/a09715.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
 ];

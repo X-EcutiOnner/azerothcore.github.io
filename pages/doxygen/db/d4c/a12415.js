@@ -1,10 +1,8 @@
 var a12415 =
 [
-    [ "mmaps_commandscript", "db/d4c/a12415.html#a1dbdfd26bdb685315a3012453080a56f", null ],
-    [ "GetCommands", "db/d4c/a12415.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
-    [ "HandleMmapLoadedTilesCommand", "db/d4c/a12415.html#a40d5b7e733298210c686fe89490b6f61", null ],
-    [ "HandleMmapLocCommand", "db/d4c/a12415.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
-    [ "HandleMmapPathCommand", "db/d4c/a12415.html#a2c876439ad6d9ff7523f140d97743dea", null ],
-    [ "HandleMmapStatsCommand", "db/d4c/a12415.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
-    [ "HandleMmapTestArea", "db/d4c/a12415.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
+    [ "cache_commandscript", "db/d4c/a12415.html#a709e1d02632aed18113c1adb52e962b5", null ],
+    [ "GetCommands", "db/d4c/a12415.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
+    [ "HandleCacheDeleteCommand", "db/d4c/a12415.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
+    [ "HandleCacheInfoCommand", "db/d4c/a12415.html#aa9bce5578450a35909a4e481bc21867f", null ],
+    [ "HandleCacheRefreshCommand", "db/d4c/a12415.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
 ];

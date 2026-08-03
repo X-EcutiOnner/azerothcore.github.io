@@ -1,14 +1,11 @@
 var a21487 =
 [
-    [ "npc_dalaran_mageAI", "d2/dbe/a21487.html#ae896a065d2975c5f4d0a125261796215", null ],
-    [ "Initialize", "d2/dbe/a21487.html#a8ede1e1e4599f288f5a8c20c40c11236", null ],
-    [ "JustEngagedWith", "d2/dbe/a21487.html#a05e9c672ab73029c70fa3d2605b6174d", null ],
-    [ "Reset", "d2/dbe/a21487.html#adee723525f46e5476e135e3043f5feb9", null ],
-    [ "UpdateAI", "d2/dbe/a21487.html#ab3d5812e38c1fcc1c01af3fdbd27a61e", null ],
-    [ "blink_timer", "d2/dbe/a21487.html#ae888e0e5d3302e0a47b6e3d41f166c67", null ],
-    [ "blizzard_timer", "d2/dbe/a21487.html#a5da62a7ee9abf7a94c2543076d6479a6", null ],
-    [ "CoC_Timer", "d2/dbe/a21487.html#a8a86c02e2c3759ec1f64087943d37b26", null ],
-    [ "frostfire_timer", "d2/dbe/a21487.html#ab91070d41571e0070a7c92bf0694f4cc", null ],
-    [ "frostnova_timer", "d2/dbe/a21487.html#a77e9a7686cece7ee97236ce6386f82bf", null ],
-    [ "restoremana_timer", "d2/dbe/a21487.html#a33da20a649faa6ee7e61db79846ac4a7", null ]
+    [ "npc_vh_void_sentry", "d2/dbe/a21487.html#adeb66953fb7540aab5190b825ff98ec8", null ],
+    [ "DoAction", "d2/dbe/a21487.html#a37ed72c221f23cd653694c10d536eec4", null ],
+    [ "JustDied", "d2/dbe/a21487.html#aabf96934586d38d6f958c1571c0b3b56", null ],
+    [ "SummonedCreatureDespawn", "d2/dbe/a21487.html#aa0ac1eb51911672653ec6fd48d2ef316", null ],
+    [ "UpdateAI", "d2/dbe/a21487.html#a417af2ca21310ca105d7561e3ab21272", null ],
+    [ "_events", "d2/dbe/a21487.html#a30899a2d4d8a82b26251911dc3b48008", null ],
+    [ "_instance", "d2/dbe/a21487.html#a80dc77a2deaf0f922f3f096f40b253e1", null ],
+    [ "_summonedGuid", "d2/dbe/a21487.html#a223e85ca87d89c51d0bc02e00d591aec", null ]
 ];

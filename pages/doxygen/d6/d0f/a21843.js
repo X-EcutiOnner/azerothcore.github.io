@@ -1,9 +1,12 @@
 var a21843 =
 [
-    [ "npc_lord_areteAI", "d6/d0f/a21843.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "d6/d0f/a21843.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "d6/d0f/a21843.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "d6/d0f/a21843.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "d6/d0f/a21843.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "d6/d0f/a21843.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "npc_q24545_wretched_ghoulAI", "d6/d0f/a21843.html#a0e4d9b3acd1de2cd44d0a6a22007e026", null ],
+    [ "Activate", "d6/d0f/a21843.html#a52f64cef6159a3bfe29a6ac551b5bbe2", null ],
+    [ "AttackStart", "d6/d0f/a21843.html#a9453e2fe00c656ded0bad4d9036dbd2a", null ],
+    [ "CanAIAttack", "d6/d0f/a21843.html#a9cf57308ea588cc2febb0bb2666c2afe", null ],
+    [ "Deactivate", "d6/d0f/a21843.html#af7dd65b8c0a1b5b55752d7f6b85f21cc", null ],
+    [ "DoAction", "d6/d0f/a21843.html#a77aad4a0446fac68a5d1785acbe825eb", null ],
+    [ "JustDied", "d6/d0f/a21843.html#a2fc9b40d72eea88b2245e6b01b17384a", null ],
+    [ "JustRespawned", "d6/d0f/a21843.html#ab30068f7082176c279e0667f72d750a3", null ],
+    [ "Reset", "d6/d0f/a21843.html#ad94a4789b5ba019d021682f15df13589", null ]
 ];

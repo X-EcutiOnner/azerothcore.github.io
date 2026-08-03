@@ -1,6 +1,7 @@
 var a20895 =
 [
-    [ "instance_ulduar_InstanceMapScript", "dc/dff/a20899.html", "dc/dff/a20899" ],
-    [ "instance_ulduar", "dd/d21/a20895.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "dd/d21/a20895.html#ae263428f4229c75b22f990dabe6b3c06", null ]
+    [ "npc_xt_void_zone", "dd/d21/a20895.html#ac392b70098ff8a486d1eb42c4dcd1551", null ],
+    [ "Reset", "dd/d21/a20895.html#a72b02a51f71370f83b58d3fdb32dccd2", null ],
+    [ "UpdateAI", "dd/d21/a20895.html#a7b49046e49cdf6b94ed6368197daeace", null ],
+    [ "_scheduler", "dd/d21/a20895.html#acfd9e9a23c88e74ad96a14f8fb560612", null ]
 ];

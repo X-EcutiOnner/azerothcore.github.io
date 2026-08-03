@@ -1,9 +1,8 @@
 var a26639 =
 [
-    [ "CheckCast", "db/d72/a26639.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
-    [ "HandleDummy", "db/d72/a26639.html#a7f79495525687fba6229f48935b2558a", null ],
-    [ "Load", "db/d72/a26639.html#a0c73457e44a3d64bdccee78d28893672", null ],
-    [ "PrepareSpellScript", "db/d72/a26639.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
-    [ "Register", "db/d72/a26639.html#ab9f09394ab301350a2abaefde90632fe", null ],
-    [ "Validate", "db/d72/a26639.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
+    [ "CheckProc", "db/d72/a26639.html#a05580997d10960d8a8186c42b008894f", null ],
+    [ "OnRemove", "db/d72/a26639.html#a55cc4caf383fa643dd9df6c335937063", null ],
+    [ "PrepareAuraScript", "db/d72/a26639.html#a19bbc19f6a8f2e59903319eb56afacea", null ],
+    [ "Register", "db/d72/a26639.html#a2caaa38b44038e58f1715deb2af1a7ec", null ],
+    [ "Validate", "db/d72/a26639.html#a93fe3df6878e3edb540a70871dd98e7d", null ]
 ];

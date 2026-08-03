@@ -1,7 +1,6 @@
 var a23235 =
 [
-    [ "OnApply", "d8/d5d/a23235.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "d8/d5d/a23235.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "d8/d5d/a23235.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "d8/d5d/a23235.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "FilterTargets", "d8/d5d/a23235.html#ac20676c292d87276e444bad56d71960d", null ],
+    [ "PrepareSpellScript", "d8/d5d/a23235.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
+    [ "Register", "d8/d5d/a23235.html#ae356b768872de3e87806c19bf8cccb08", null ]
 ];

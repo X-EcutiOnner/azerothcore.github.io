@@ -1,14 +1,19 @@
 var a28763 =
 [
-    [ "IsFlyable", "d3/d4e/a28763.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
-    [ "IsSanctuary", "d3/d4e/a28763.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
-    [ "area_level", "d3/d4e/a28763.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
-    [ "area_name", "d3/d4e/a28763.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
-    [ "exploreFlag", "d3/d4e/a28763.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
-    [ "flags", "d3/d4e/a28763.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
-    [ "ID", "d3/d4e/a28763.html#ad02bb9fce21f464e38223581074a9e21", null ],
-    [ "LiquidTypeOverride", "d3/d4e/a28763.html#abe743a4b542c4356aab9d41f3fae7457", null ],
-    [ "mapid", "d3/d4e/a28763.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
-    [ "team", "d3/d4e/a28763.html#ae18e0efef83e663452715f6be15ecaef", null ],
-    [ "zone", "d3/d4e/a28763.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
+    [ "difference_type", "d3/d4e/a28763.html#ae4b37510a14d178636d2caeb518152d8", null ],
+    [ "iterator_category", "d3/d4e/a28763.html#a1b18e314fae6548a7b7a2a9bb1eff74d", null ],
+    [ "pointer", "d3/d4e/a28763.html#a734ca6242c1ab2c6ac1b3126f6ee81f0", null ],
+    [ "reference", "d3/d4e/a28763.html#a17541a5d418dd9835eab783fc5c50b4e", null ],
+    [ "value_type", "d3/d4e/a28763.html#a5f84eca02dd9a1a3003cd6cf748c4be7", null ],
+    [ "DBCStorageIterator", "d3/d4e/a28763.html#a5d579fb01742b5b7bbd92de4d44b0ca4", null ],
+    [ "DBCStorageIterator", "d3/d4e/a28763.html#a76f99de60a6ff7306b0e585b0a49def9", null ],
+    [ "operator!=", "d3/d4e/a28763.html#afc1a89496edd42c09ef4d4c11a384d81", null ],
+    [ "operator*", "d3/d4e/a28763.html#a3b70157f0d4ebfb0d3df49e1c528767b", null ],
+    [ "operator++", "d3/d4e/a28763.html#a88bf008d6f2d553a22f41a2bc1777a7d", null ],
+    [ "operator++", "d3/d4e/a28763.html#a10439a8b58f835bd5bbda9af42536eea", null ],
+    [ "operator->", "d3/d4e/a28763.html#adb031d50b1a6e19300fdd713101d7cfc", null ],
+    [ "operator==", "d3/d4e/a28763.html#a4d25ca9a7f276d71a39fc8f05ac2ec8f", null ],
+    [ "_end", "d3/d4e/a28763.html#aa6463048b19614ca3703bd840bee5060", null ],
+    [ "_index", "d3/d4e/a28763.html#a93c4239222a0dcac3051bd97f4e60b24", null ],
+    [ "_pos", "d3/d4e/a28763.html#a3b7fdda5aed3be63b253912d25f3a02a", null ]
 ];

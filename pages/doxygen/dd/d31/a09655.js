@@ -1,10 +1,8 @@
 var a09655 =
 [
-    [ "AnyDeadUnitSpellTargetInRangeCheck", "dd/d31/a09655.html#a212c308a02716ff382e820e86e233ed3", null ],
-    [ "operator()", "dd/d31/a09655.html#af328df880d17a62e2dbed0ff4231fc39", null ],
-    [ "operator()", "dd/d31/a09655.html#adcc69b9ef03a68aa235e40449a80b701", null ],
-    [ "operator()", "dd/d31/a09655.html#a2f2483cf7078681cb3acf28560e61184", null ],
-    [ "operator()", "dd/d31/a09655.html#aba0bf4c320a684b68743a06e724a369e", null ],
-    [ "i_check", "dd/d31/a09655.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
-    [ "i_spellInfo", "dd/d31/a09655.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
+    [ "GameObjectWorker", "dd/d31/a09655.html#a79dd3983b007d982bbb1f0b33c5c7a54", null ],
+    [ "Visit", "dd/d31/a09655.html#a754197d7a9aa3203cda964cbee81ae9a", null ],
+    [ "Visit", "dd/d31/a09655.html#a47a10a6790179eb5b78cbb66dd9d7b54", null ],
+    [ "_func", "dd/d31/a09655.html#abeaa251f909368e3ebeeff4dcefbda94", null ],
+    [ "_phaseMask", "dd/d31/a09655.html#accfe66385f5bbfb461d0493c22fde20e", null ]
 ];

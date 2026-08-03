@@ -1,7 +1,6 @@
 var a21423 =
 [
-    [ "HandleProc", "d0/db1/a21423.html#aeb5b70614b266bac0792906bf89a5b97", null ],
-    [ "PrepareAuraScript", "d0/db1/a21423.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
-    [ "Register", "d0/db1/a21423.html#a163e0099271f21362deeb1ba1f169f3f", null ],
-    [ "Validate", "d0/db1/a21423.html#abdb889e4c6d19f756c143d7b36f82257", null ]
+    [ "npc_frozen_orbAI", "d9/da3/a21427.html", "d9/da3/a21427" ],
+    [ "npc_frozen_orb", "d0/db1/a21423.html#ac14966722e39b2b6b3a907756701ed98", null ],
+    [ "GetAI", "d0/db1/a21423.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
 ];

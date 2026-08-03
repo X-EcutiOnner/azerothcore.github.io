@@ -1,5 +1,7 @@
 var a15007 =
 [
-    [ "achievement_pb_terokkar_turkey_time", "db/d3e/a15007.html#a68e536379b04e060f44819c9831766c2", null ],
-    [ "OnCheck", "db/d3e/a15007.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
+    [ "HandleEffectApply", "db/d3e/a15007.html#a404f2134734e1d21201033b3f26e611e", null ],
+    [ "HandleEffectPeriodic", "db/d3e/a15007.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
+    [ "PrepareAuraScript", "db/d3e/a15007.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
+    [ "Register", "db/d3e/a15007.html#ad239472c15ca0c73b053d112f538ecff", null ]
 ];

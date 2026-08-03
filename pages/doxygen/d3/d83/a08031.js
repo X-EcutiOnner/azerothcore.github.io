@@ -1,7 +1,7 @@
 var a08031 =
 [
-    [ "value_type", "d3/d83/a08031.html#a7a7bb2f2de595ea6ca37885da6f63b9f", null ],
-    [ "TryConsume", "d3/d83/a08031.html#ad98dd12bf2b9d4c5a3812d91232c4b8e", null ],
-    [ "_storage", "d3/d83/a08031.html#a0480bb23bf5c47ac03935901211952b5", null ],
-    [ "_string", "d3/d83/a08031.html#ae0538263243f423c8f86459300aec8d7", null ]
+    [ "V", "d3/d83/a08031.html#aab662b1ba92ab8eb76558f97191142cc", null ],
+    [ "TryAtIndex", "d3/d83/a08031.html#aeff1865d7499b0b112cc39c44fd07112", null ],
+    [ "TryConsume", "d3/d83/a08031.html#ae2a889829917ed0dd76194194efc9b13", null ],
+    [ "N", "d3/d83/a08031.html#aa2c2048ce2e64b2398eeea3f0d789245", null ]
 ];

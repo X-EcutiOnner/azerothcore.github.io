@@ -1,7 +1,7 @@
 var a22787 =
 [
-    [ "HandleEffectApply", "db/d36/a22787.html#aff0dbed165d0e751db725f7eaaf76a11", null ],
-    [ "Load", "db/d36/a22787.html#a1dfb5b2004041e7165cc9f5deb4b1e82", null ],
-    [ "PrepareAuraScript", "db/d36/a22787.html#a3dbd01e52ed2a630f0c014f941fc1b5e", null ],
-    [ "Register", "db/d36/a22787.html#a647f21e79e3fef72cf84439fc84e708f", null ]
+    [ "HandleScriptEffect", "db/d36/a22787.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
+    [ "PrepareSpellScript", "db/d36/a22787.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
+    [ "Register", "db/d36/a22787.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
+    [ "Validate", "db/d36/a22787.html#a9ce122d497e72e3a46b1857d722af48d", null ]
 ];

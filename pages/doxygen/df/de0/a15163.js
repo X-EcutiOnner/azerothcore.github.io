@@ -1,6 +1,7 @@
 var a15163 =
 [
-    [ "boss_epochAI", "d8/dbb/a15167.html", "d8/dbb/a15167" ],
-    [ "boss_epoch", "df/de0/a15163.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
-    [ "GetAI", "df/de0/a15163.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
+    [ "PeriodicTick", "df/de0/a15163.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
+    [ "PrepareAuraScript", "df/de0/a15163.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
+    [ "Register", "df/de0/a15163.html#a24058b120f4fa06b89f6d582c53a365a", null ],
+    [ "Validate", "df/de0/a15163.html#a093b09be5abde91a1487d67a7a554d30", null ]
 ];

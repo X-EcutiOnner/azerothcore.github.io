@@ -1,9 +1,10 @@
 var a17199 =
 [
-    [ "HandlePeriodicTick", "d4/dcb/a17199.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
-    [ "Load", "d4/dcb/a17199.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
-    [ "PrepareAuraScript", "d4/dcb/a17199.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
-    [ "Register", "d4/dcb/a17199.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
-    [ "Validate", "d4/dcb/a17199.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
-    [ "dir", "d4/dcb/a17199.html#a7dd1959596e8ad1628498215249eb7a2", null ]
+    [ "boss_tharon_jaAI", "d4/dcb/a17199.html#a03025fa529e932f23479ff19b0cd8238", null ],
+    [ "DoAction", "d4/dcb/a17199.html#a655fd83c2d671847fea9ae393c132fb9", null ],
+    [ "JustDied", "d4/dcb/a17199.html#a7928b5db061f1073e1decc2d40601195", null ],
+    [ "JustEngagedWith", "d4/dcb/a17199.html#aab194a8f802eeb625d1a74960acbe154", null ],
+    [ "KilledUnit", "d4/dcb/a17199.html#a41e929a3768768eb06bafdee3269fd24", null ],
+    [ "Reset", "d4/dcb/a17199.html#a272e8565a9b00a27505b301d52814eee", null ],
+    [ "UpdateAI", "d4/dcb/a17199.html#a6f482cabcb0bd56711878a5ea297b950", null ]
 ];

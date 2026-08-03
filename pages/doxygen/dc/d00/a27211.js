@@ -1,8 +1,6 @@
 var a27211 =
 [
-    [ "Apply", "dc/d00/a27211.html#ac3145df90b6b179fece1c76da114e395", null ],
-    [ "HandleEffectPeriodic", "dc/d00/a27211.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
-    [ "PrepareAuraScript", "dc/d00/a27211.html#aa911ba0b5a13a933bf50a072799a040f", null ],
-    [ "Register", "dc/d00/a27211.html#ae0dff9b5002d3d3361d794a75645057f", null ],
-    [ "Validate", "dc/d00/a27211.html#ad81184b508474a89fbafc63594ef0ab1", null ]
+    [ "HandleTriggerSpell", "dc/d00/a27211.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
+    [ "PrepareAuraScript", "dc/d00/a27211.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
+    [ "Register", "dc/d00/a27211.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
 ];

@@ -1,7 +1,6 @@
 var a22667 =
 [
-    [ "SuckBackEvent", "d4/d28/a22667.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "d4/d28/a22667.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "d4/d28/a22667.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "d4/d28/a22667.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "d3/d96/a22671.html", "d3/d96/a22671" ],
+    [ "instance_mana_tombs", "d4/d28/a22667.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
+    [ "GetInstanceScript", "d4/d28/a22667.html#a26e4dad0957df886bc446396ab48ceda", null ]
 ];

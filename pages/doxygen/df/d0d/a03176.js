@@ -1,6 +1,6 @@
 var a03176 =
 [
-    [ "npc_taxi", "d1/dba/a28458.html", "d1/dba/a28458" ],
+    [ "npc_taxi", "dc/dc8/a28483.html", "dc/dc8/a28483" ],
     [ "Misc", "df/d0d/a03176.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "d6/d9d/a03917.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "d6/d9d/a03917.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],
@@ -323,6 +323,7 @@ var a03176 =
       [ "SPELL_DARK_MATTER_VISUAL_CHANNEL", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5a760280be3f540c227e26d34756ef35", null ],
       [ "SPELL_DARK_MATTER", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a499b41edf9950331bd113593a13de1a4", null ],
       [ "SPELL_SEARING_GAZE", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a04d1058c4758a85da757fd74bf51501c", null ],
+      [ "SPELL_STEALTH", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab05b1ff486cc81800d4e40014eae5576", null ],
       [ "SPELL_TRIBUNAL_CREDIT_MARKER", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae1d7527e391c622243fa0fb5740b73eb", null ],
       [ "QUEST_HALLS_OF_STONE", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f4d823dced8973dbb7061fdbdb76b52", null ],
       [ "POINT_BRANN_INTRO", "dd/dfd/a03017.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa8ce0b2e94a1e1c1e093138984867bff", null ],
@@ -410,6 +411,7 @@ var a03176 =
       [ "EVENT_PHASE_ONE", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6b9ce13a0146076fc808a80ed99ccac7", null ],
       [ "EVENT_PHASE_TWO", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1bb0a83e28cfe9a4b28e66a80d9d5750", null ],
       [ "EVENT_PHASE_THREE", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a399f435f01db5b6781c8ab55b185c10b", null ],
+      [ "EVENT_PHASE_WIPE_RECOVERY", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a24bc0ff79a0142f8199261b4a51ff588", null ],
       [ "CRITERIA_NOT_GETTING_OLDER", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3d6aaca72ce1c9989df53cdba6145162", null ],
       [ "YS_P3_LUNATIC_GAZE", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab3149894fe283b632ed01890bb16a6ec", null ],
       [ "DATA_GET_KEEPERS_COUNT", "d6/d97/a03011.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a13bbe1d42655f757a07ed9cabb167487", null ],

@@ -1,7 +1,6 @@
 var a18155 =
 [
-    [ "HandleScriptEffect", "d7/d60/a18155.html#abeb703f8f050677bafb8f5ce4173751a", null ],
-    [ "PrepareSpellScript", "d7/d60/a18155.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
-    [ "Register", "d7/d60/a18155.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
-    [ "SelectTarget", "d7/d60/a18155.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
+    [ "DaranavanMoveEvent", "d7/d60/a18155.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
+    [ "Execute", "d7/d60/a18155.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
+    [ "_darnavan", "d7/d60/a18155.html#a7585edb957755efbc6064f232d50ea4e", null ]
 ];

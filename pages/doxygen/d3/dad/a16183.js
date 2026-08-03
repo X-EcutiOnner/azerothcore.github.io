@@ -1,6 +1,8 @@
 var a16183 =
 [
-    [ "HandleSummon", "d3/dad/a16183.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "d3/dad/a16183.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "d3/dad/a16183.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "npc_lakota_windsongAI", "d3/dad/a16183.html#a922172a38ca75adef66a2653eda7fa98", null ],
+    [ "DoSpawnBandits", "d3/dad/a16183.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
+    [ "Reset", "d3/dad/a16183.html#aee7a86275f93021e0e5db249b636bcd4", null ],
+    [ "WaypointReached", "d3/dad/a16183.html#a6435c8b1521206789131889e5fa527a6", null ],
+    [ "WaypointReached", "d3/dad/a16183.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

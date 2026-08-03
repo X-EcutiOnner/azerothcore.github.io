@@ -1,6 +1,6 @@
 var a22151 =
 [
-    [ "npc_wg_queueAI", "d8/de2/a22151.html#a3760738d61b6148042fc30bd96b88fdc", null ],
-    [ "UpdateAI", "d8/de2/a22151.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
-    [ "events", "d8/de2/a22151.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
+    [ "npc_guardian_pavilionAI", "d0/d54/a22155.html", "d0/d54/a22155" ],
+    [ "npc_guardian_pavilion", "d8/de2/a22151.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "d8/de2/a22151.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

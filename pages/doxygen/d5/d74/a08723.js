@@ -1,28 +1,6 @@
 var a08723 =
 [
-    [ "JumpInfo", "da/dc6/a08731.html", "da/dc6/a08731" ],
-    [ "TransportInfo", "d6/d51/a08727.html", "d6/d51/a08727" ],
-    [ "MovementInfo", "d5/d74/a08723.html#a809340998de55a9ffa895f7b27e1f2c3", null ],
-    [ "AddExtraMovementFlag", "d5/d74/a08723.html#aff0e449eb1567041f1a44c34e5fa85bc", null ],
-    [ "AddMovementFlag", "d5/d74/a08723.html#ae02908de40bf25e5d07d3bb248448a68", null ],
-    [ "GetExtraMovementFlags", "d5/d74/a08723.html#a7a9353ff367c80cddeaddd63fcd32ddb", null ],
-    [ "GetMovementFlags", "d5/d74/a08723.html#ade08354701baa32b9ff232d6b07e6097", null ],
-    [ "GetSpeedType", "d5/d74/a08723.html#a6f0c8141058d03f214afbd779a3420ee", null ],
-    [ "GetSpeedType", "d5/d74/a08723.html#a01585307a3db62a34f7d2e243dd52265", null ],
-    [ "HasExtraMovementFlag", "d5/d74/a08723.html#afad84c80474a806e8abb4626ccfbcfaf", null ],
-    [ "HasMovementFlag", "d5/d74/a08723.html#ad9571cb899d58cc60fbe2412be79116e", null ],
-    [ "OutDebug", "d5/d74/a08723.html#af8c4c6db42364ec712398b317238c90b", null ],
-    [ "RemoveMovementFlag", "d5/d74/a08723.html#ab38114c14a8848a082b4f265eab11c72", null ],
-    [ "SetFallTime", "d5/d74/a08723.html#a683565ad0865709083e81d07a8ce1395", null ],
-    [ "SetMovementFlags", "d5/d74/a08723.html#ace324e7171c3520efdce76d2bbc75c67", null ],
-    [ "fallTime", "d5/d74/a08723.html#abcf42fcf7d61044fd9fb5e6857e21ab5", null ],
-    [ "flags", "d5/d74/a08723.html#ab64213c21ac3cdfd769a5acdc7fce200", null ],
-    [ "flags2", "d5/d74/a08723.html#aa8dc40a9829334f2ca7fa4e7347f91a5", null ],
-    [ "guid", "d5/d74/a08723.html#a10c1c9721558fd98d33bb43b3bfff837", null ],
-    [ "jump", "d5/d74/a08723.html#a920a536b873fcc63dd6bb22882a7a8ea", null ],
-    [ "pitch", "d5/d74/a08723.html#af2945943a91efc4cd5f2f9a0b86424cf", null ],
-    [ "pos", "d5/d74/a08723.html#afc5605f3e357e6ca4f2c681329bb0302", null ],
-    [ "splineElevation", "d5/d74/a08723.html#ac524b47fa52b05e7c6a6b7c577c9291f", null ],
-    [ "time", "d5/d74/a08723.html#a90c332cb1b99ce1ac6eab39bc2a6e4b2", null ],
-    [ "transport", "d5/d74/a08723.html#ac2b0f738ec695f4c9f032daad3e1f041", null ]
+    [ "invisibilityType", "d5/d74/a08723.html#ac1e874a76fecd4d3eb061722713f6634", null ],
+    [ "InvisibilityValue", "d5/d74/a08723.html#a8e1741fca7c49f0618a3999e69ae5c81", null ],
+    [ "ParentRotation", "d5/d74/a08723.html#a5ae35d326afcb1b80847761c0376deaf", null ]
 ];

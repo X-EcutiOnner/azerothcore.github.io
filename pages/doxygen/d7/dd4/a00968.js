@@ -1,9 +1,9 @@
 var a00968 =
 [
-    [ "WorldPackets::NPC::Hello", "d5/df9/a11450.html", "d5/df9/a11450" ],
-    [ "WorldPackets::NPC::TrainerListSpell", "d2/d16/a11454.html", "d2/d16/a11454" ],
-    [ "WorldPackets::NPC::TrainerList", "d7/d97/a11458.html", "d7/d97/a11458" ],
-    [ "WorldPackets::NPC::TrainerBuySpell", "da/d10/a11462.html", "da/d10/a11462" ],
-    [ "WorldPackets::NPC::TrainerBuyFailed", "d5/db4/a11466.html", "d5/db4/a11466" ],
-    [ "WorldPackets::NPC::TrainerBuySucceeded", "da/ddf/a11470.html", "da/ddf/a11470" ]
+    [ "WorldPackets::NPC::Hello", "d9/d63/a11455.html", "d9/d63/a11455" ],
+    [ "WorldPackets::NPC::TrainerListSpell", "de/d80/a11459.html", "de/d80/a11459" ],
+    [ "WorldPackets::NPC::TrainerList", "d1/d27/a11463.html", "d1/d27/a11463" ],
+    [ "WorldPackets::NPC::TrainerBuySpell", "d5/d79/a11467.html", "d5/d79/a11467" ],
+    [ "WorldPackets::NPC::TrainerBuyFailed", "d2/d52/a11471.html", "d2/d52/a11471" ],
+    [ "WorldPackets::NPC::TrainerBuySucceeded", "df/dab/a11475.html", "df/dab/a11475" ]
 ];

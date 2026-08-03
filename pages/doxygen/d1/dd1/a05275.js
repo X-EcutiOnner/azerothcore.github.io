@@ -1,16 +1,9 @@
 var a05275 =
 [
-    [ "operator==", "d1/dd1/a05275.html#a98ac017bf29e25cd6ec48e7635895196", null ],
-    [ "baseUnitDim", "d1/dd1/a05275.html#a49b023bc34148196590dfd5c42fe49f6", null ],
-    [ "cellSizeHorizontal", "d1/dd1/a05275.html#a37b48fdf0ff629ff18e262cf1b74604a", null ],
-    [ "cellSizeVertical", "d1/dd1/a05275.html#aa3fa9b9705e7a0b4e514f9a900ed4dcd", null ],
-    [ "maxSimplificationError", "d1/dd1/a05275.html#afbd14408be8abc7887e79b766d3fe7a5", null ],
-    [ "padding0", "d1/dd1/a05275.html#a756affcba9ba67923634b050be35e2b7", null ],
-    [ "tilesPerMapEdge", "d1/dd1/a05275.html#a620f2c8f7dae449054a0c9f7fdbb7bdd", null ],
-    [ "vertexPerMapEdge", "d1/dd1/a05275.html#a6a95c1c214c3102d2618eaf3df850232", null ],
-    [ "vertexPerTileEdge", "d1/dd1/a05275.html#a88fd7166e3555df1307ad0e1a7dfc8f6", null ],
-    [ "walkableClimb", "d1/dd1/a05275.html#a6d1d6f164c716e71d0dff034c9e8042a", null ],
-    [ "walkableHeight", "d1/dd1/a05275.html#aaaf165b5e3b8361d37837e6b93609557", null ],
-    [ "walkableRadius", "d1/dd1/a05275.html#a16440d4ea4533b065cfa8aac216c275a", null ],
-    [ "walkableSlopeAngle", "d1/dd1/a05275.html#af825b2f1f457e551a58f343864e3c100", null ]
+    [ "DynamicTreeIntersectionCallback", "d1/dd1/a05275.html#a77d71c68e20f4d19059317b307c27441", null ],
+    [ "didHit", "d1/dd1/a05275.html#a616d15c3cce00574d604591bc8af4140", null ],
+    [ "operator()", "d1/dd1/a05275.html#a6235d0b9a1ebff77e0d16c90a9fb9b36", null ],
+    [ "_didHit", "d1/dd1/a05275.html#a1805d508be79660d90f991e4453c2c9a", null ],
+    [ "_ignoreFlags", "d1/dd1/a05275.html#a6559c66c8451c32078187a1c43b3a85e", null ],
+    [ "_phaseMask", "d1/dd1/a05275.html#a52e7470145db9cc4c2369024fbf7bbb8", null ]
 ];

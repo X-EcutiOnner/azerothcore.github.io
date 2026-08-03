@@ -1,13 +1,12 @@
 var a29847 =
 [
-    [ "MPQArchive", "de/dfa/a29847.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "de/dfa/a29847.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "MPQArchive", "de/dfa/a29847.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "de/dfa/a29847.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "close", "de/dfa/a29847.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "close", "de/dfa/a29847.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "GetFileListTo", "de/dfa/a29847.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "GetFileListTo", "de/dfa/a29847.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "isOpened", "de/dfa/a29847.html#a2026335b9ede29197acfaac8513456d5", null ],
-    [ "mpq_a", "de/dfa/a29847.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
+    [ "TestVisibilityScript", "de/dfa/a29847.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
+    [ "EnsureRegistered", "de/dfa/a29847.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
+    [ "OnPlayerSetServerSideVisibility", "de/dfa/a29847.html#a6b3701188303b644b28a52ec42bec846", null ],
+    [ "Reset", "de/dfa/a29847.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
+    [ "CallCount", "de/dfa/a29847.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
+    [ "Instance", "de/dfa/a29847.html#adcf0326aa1e32db109ec920857868138", null ],
+    [ "LastPlayer", "de/dfa/a29847.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
+    [ "LastSecurity", "de/dfa/a29847.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
+    [ "LastType", "de/dfa/a29847.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
 ];

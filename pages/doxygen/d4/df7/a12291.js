@@ -1,23 +1,12 @@
 var a12291 =
 [
-    [ "ban_commandscript", "d4/df7/a12291.html#aaece480aacb3cae7d0919a277d46eb31", null ],
-    [ "GetCommands", "d4/df7/a12291.html#a3079102518edbfd0e16576083e053a19", null ],
-    [ "HandleBanAccountByCharCommand", "d4/df7/a12291.html#a3a1a2890ddf2e70f26beacfb6e827647", null ],
-    [ "HandleBanAccountCommand", "d4/df7/a12291.html#af54b01c0b6db28488866fff9ad3d885e", null ],
-    [ "HandleBanCharacterCommand", "d4/df7/a12291.html#adc181572cfcaa15e649429df50d8d529", null ],
-    [ "HandleBanHelper", "d4/df7/a12291.html#a2685e26ced4dda5bfbbefaec02d59a5e", null ],
-    [ "HandleBanInfoAccountCommand", "d4/df7/a12291.html#a43048a5b00dec7476d83dca64cd41641", null ],
-    [ "HandleBanInfoCharacterCommand", "d4/df7/a12291.html#aea445f0a0a6cdb690fb88a53e2f794fb", null ],
-    [ "HandleBanInfoHelper", "d4/df7/a12291.html#ab0a56c9d565ccaf0cdd38beb3a36f4d9", null ],
-    [ "HandleBanInfoIPCommand", "d4/df7/a12291.html#ac32e4d00bb6e94a65eb63e0f0a9cc963", null ],
-    [ "HandleBanIPCommand", "d4/df7/a12291.html#a82cbdac404e6bc594d823fb4081e6df8", null ],
-    [ "HandleBanListAccountCommand", "d4/df7/a12291.html#adafc851259dfa7d8fb717f2e77e66a38", null ],
-    [ "HandleBanListCharacterCommand", "d4/df7/a12291.html#abf9fa4690f97f6f98511a20d9d4ea521", null ],
-    [ "HandleBanListHelper", "d4/df7/a12291.html#aec570c5ca3eeefc1be807ea1aa9577ab", null ],
-    [ "HandleBanListIPCommand", "d4/df7/a12291.html#a5c1ae1798c1ad498fa2993d098b5131c", null ],
-    [ "HandleUnBanAccountByCharCommand", "d4/df7/a12291.html#a3fd418aec25d220cd31d3637bbded380", null ],
-    [ "HandleUnBanAccountCommand", "d4/df7/a12291.html#aeb041ffecb3611151172b4f0c52f8018", null ],
-    [ "HandleUnBanCharacterCommand", "d4/df7/a12291.html#af55843929fa62402b2eb5cae71c2e4a5", null ],
-    [ "HandleUnBanHelper", "d4/df7/a12291.html#a2cc5ebe2fda5d9fe217fd8f4c62c644e", null ],
-    [ "HandleUnBanIPCommand", "d4/df7/a12291.html#a3f73d0989eaa2b9d840d24544ad90bfd", null ]
+    [ "Action", "d4/df7/a12291.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
+    [ "Address", "d4/df7/a12291.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
+    [ "CheckId", "d4/df7/a12291.html#a51a0cea0381f2b64e9d240ac39591172", null ],
+    [ "Comment", "d4/df7/a12291.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
+    [ "Data", "d4/df7/a12291.html#a962795028d40645fe67e4290ea64b10b", null ],
+    [ "IdStr", "d4/df7/a12291.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
+    [ "Length", "d4/df7/a12291.html#abe0249d9550042e696eb74edf06aaec8", null ],
+    [ "Str", "d4/df7/a12291.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
+    [ "Type", "d4/df7/a12291.html#aca31cdb700dca4801dfa514812639c70", null ]
 ];

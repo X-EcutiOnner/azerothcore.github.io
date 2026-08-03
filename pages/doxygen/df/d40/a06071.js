@@ -1,9 +1,6 @@
 var a06071 =
 [
-    [ "itemId", "df/d40/a06071.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
-    [ "mailTemplate", "df/d40/a06071.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
-    [ "sender", "df/d40/a06071.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
-    [ "subject", "df/d40/a06071.html#a45644f308278529f822080f8274180d8", null ],
-    [ "text", "df/d40/a06071.html#a4d57dcb4d130552f5bf756308d79307c", null ],
-    [ "titleId", "df/d40/a06071.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
+    [ "Append", "df/d40/a06071.html#a290b052f7cbd321c646e9e5e19484444", null ],
+    [ "Append", "df/d40/a06071.html#a867b7a92080104278aef5fb4975a4a52", null ],
+    [ "Append", "df/d40/a06071.html#aa0a81814abe26d456018c3bc9153cd4d", null ]
 ];

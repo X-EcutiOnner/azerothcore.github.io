@@ -1,18 +1,12 @@
 var a19471 =
 [
-    [ "boss_nothAI", "db/de5/a19471.html#a0a1f8e88396b04d070c4034b2419f0bb", null ],
-    [ "EnterEvadeMode", "db/de5/a19471.html#af0c4cfb04564b23840ee88dfa1badf55", null ],
-    [ "IsInRoom", "db/de5/a19471.html#a8e9c27804ae01e46285a3bed42091754", null ],
-    [ "JustDied", "db/de5/a19471.html#a18dd73c178eff3170d371c4bd4062b76", null ],
-    [ "JustEngagedWith", "db/de5/a19471.html#aed044bf36d56b2241e591eb45999900b", null ],
-    [ "JustSummoned", "db/de5/a19471.html#a61e814ce0a861ba98ccc21d8d6df128a", null ],
-    [ "KilledUnit", "db/de5/a19471.html#a1d5b013cdbaab702a85fc1d344ad6f6a", null ],
-    [ "Reset", "db/de5/a19471.html#a311754fa1fa1b112272395179e3b1bff", null ],
-    [ "StartBalconyPhase", "db/de5/a19471.html#ac890e5f4e6e9e40d78e75d2c86bd6740", null ],
-    [ "StartGroundPhase", "db/de5/a19471.html#a3ae5f948e2faf051b1cb88cd638c612e", null ],
-    [ "SummonHelper", "db/de5/a19471.html#abfe6252bec42fdc3d7738aef3dd2ec74", null ],
-    [ "UpdateAI", "db/de5/a19471.html#a87f4e825fb8f9f48991d5dcf94af78e3", null ],
-    [ "events", "db/de5/a19471.html#a3f3e282c6ee1d259f1f2a401f6195251", null ],
-    [ "summons", "db/de5/a19471.html#a4e95ad18274331e402124d4a8424cb18", null ],
-    [ "timesInBalcony", "db/de5/a19471.html#a249c96d4230bd2b43c4be733317c4bc4", null ]
+    [ "boss_gluthAI", "db/de5/a19471.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
+    [ "JustEngagedWith", "db/de5/a19471.html#a25cf670d7254cc8331752987a854c63b", null ],
+    [ "JustSummoned", "db/de5/a19471.html#acc09328210fbf1a6e81999d548676ae4", null ],
+    [ "KilledUnit", "db/de5/a19471.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
+    [ "MoveInLineOfSight", "db/de5/a19471.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
+    [ "Reset", "db/de5/a19471.html#acb9f68205a2a210737d43893a414ca52", null ],
+    [ "SelectPlayerInRoom", "db/de5/a19471.html#a1f8f87b00291d8164f607ac6262506cf", null ],
+    [ "SummonedCreatureDies", "db/de5/a19471.html#a115a1f1327a931067223734dbf414675", null ],
+    [ "UpdateAI", "db/de5/a19471.html#a2505f7ebda7b623edfedf96979a4a920", null ]
 ];

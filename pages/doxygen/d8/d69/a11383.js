@@ -1,8 +1,9 @@
 var a11383 =
 [
-    [ "TrainerBuyFailed", "d8/d69/a11383.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
-    [ "Write", "d8/d69/a11383.html#a75c3bff5da4699fc412793caef1b75af", null ],
-    [ "SpellID", "d8/d69/a11383.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
-    [ "TrainerFailedReason", "d8/d69/a11383.html#a746ff497fba16adb16bbb647dff385df", null ],
-    [ "TrainerGUID", "d8/d69/a11383.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
+    [ "Weather", "d8/d69/a11383.html#aa404c94fec05b825454a7309827767c6", null ],
+    [ "Weather", "d8/d69/a11383.html#a28f45d81441d2dde6917380978dfb4d0", null ],
+    [ "Write", "d8/d69/a11383.html#a641c7de3e527dcdff07b3f602880b5c8", null ],
+    [ "Abrupt", "d8/d69/a11383.html#a0abe1fcb36d21ac246174cdc98c0e261", null ],
+    [ "Intensity", "d8/d69/a11383.html#ac37cee2364921a50e2b1ec1b19ed69b7", null ],
+    [ "WeatherID", "d8/d69/a11383.html#a32e56458b1e562c124cfc0288a578134", null ]
 ];

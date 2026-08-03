@@ -1,5 +1,7 @@
 var a10971 =
 [
-    [ "GuildGetInfo", "df/d91/a10971.html#a585a6a49fe9747d5044ac185f1236cf5", null ],
-    [ "Read", "df/d91/a10971.html#aa2b107f35fcf348fb7f84c2971c5fa00", null ]
+    [ "CalendarComplain", "df/d91/a10971.html#a35252d9ee72257a0771f3faa274f8029", null ],
+    [ "Read", "df/d91/a10971.html#ae955f181fe7b36ba360d5b8e9a53db45", null ],
+    [ "ComplainGuid", "df/d91/a10971.html#a3a8ba139be8eef32193658fa235fc4c5", null ],
+    [ "EventId", "df/d91/a10971.html#a3cc5c6b822a697df900826b64b5b9759", null ]
 ];

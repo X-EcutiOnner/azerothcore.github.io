@@ -1,6 +1,7 @@
 var a25503 =
 [
-    [ "HandleFinish", "d4/d6c/a25503.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
-    [ "PrepareSpellScript", "d4/d6c/a25503.html#a62920503172dc58ac864a23e90a98dd9", null ],
-    [ "Register", "d4/d6c/a25503.html#ab40419508a1903869aa2b36a590301ba", null ]
+    [ "OnApply", "d4/d6c/a25503.html#a455a885611978a390cd4bfa76b05f82b", null ],
+    [ "PrepareAuraScript", "d4/d6c/a25503.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
+    [ "Register", "d4/d6c/a25503.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
+    [ "Validate", "d4/d6c/a25503.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
 ];

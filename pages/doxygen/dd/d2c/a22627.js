@@ -1,7 +1,12 @@
 var a22627 =
 [
-    [ "PrepareAuraScript", "dd/d2c/a22627.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "dd/d2c/a22627.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "dd/d2c/a22627.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "dd/d2c/a22627.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "boss_exarch_maladaar", "dd/d2c/a22627.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
+    [ "JustDied", "dd/d2c/a22627.html#ab1179a19af8948d430559db4074c41ed", null ],
+    [ "JustEngagedWith", "dd/d2c/a22627.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
+    [ "JustSummoned", "dd/d2c/a22627.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
+    [ "KilledUnit", "dd/d2c/a22627.html#adf35cb8b039676500d4040baa08b0d48", null ],
+    [ "MoveInLineOfSight", "dd/d2c/a22627.html#a14baacd30b9186c7492c981313421d5b", null ],
+    [ "Reset", "dd/d2c/a22627.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
+    [ "UpdateAI", "dd/d2c/a22627.html#a7646c4477135d3d3b8580432902babd4", null ],
+    [ "_talked", "dd/d2c/a22627.html#a15c4f122529b9f52823ea407c43433c5", null ]
 ];

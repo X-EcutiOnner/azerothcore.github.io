@@ -1,8 +1,7 @@
 var a11311 =
 [
-    [ "PlayObjectSound", "dd/d8b/a11311.html#ab322044d36abddeb2fafbf99261bb70b", null ],
-    [ "PlayObjectSound", "dd/d8b/a11311.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
-    [ "Write", "dd/d8b/a11311.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
-    [ "SoundKitID", "dd/d8b/a11311.html#a5e794706b8793d164a1189e9a6918735", null ],
-    [ "SourceObjectGUID", "dd/d8b/a11311.html#a82b226eba66e569c1f377f529e511361", null ]
+    [ "AutoEquipItem", "dd/d8b/a11311.html#a60accc2bf5c484753f94a8fe947e8f36", null ],
+    [ "Read", "dd/d8b/a11311.html#a187bcedbc110adc332c0cb1de2bd7d9c", null ],
+    [ "SourceBag", "dd/d8b/a11311.html#ad8fe37595168bc57fcd4af46bdbfafdc", null ],
+    [ "SourceSlot", "dd/d8b/a11311.html#aee1f081b0775d7fc9eb67764a9249ec5", null ]
 ];

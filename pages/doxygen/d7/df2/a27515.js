@@ -1,8 +1,8 @@
 var a27515 =
 [
-    [ "ApplyEffect", "d7/df2/a27515.html#ad29ed182a00516e736bb8d1381f4ac84", null ],
-    [ "HandleEffectPeriodicUpdate", "d7/df2/a27515.html#ad5319328c018dbb3ddbd58bfc08589c4", null ],
-    [ "PrepareAuraScript", "d7/df2/a27515.html#a7673ff384e88fa76efa52ecb60b97d9b", null ],
-    [ "Register", "d7/df2/a27515.html#ade5af0ec82bc43d89919ceaaa31bce20", null ],
-    [ "_tick_amount", "d7/df2/a27515.html#a33d9f114efa50a2fdfe7a17852a474f7", null ]
+    [ "ApplyDebuff", "d7/df2/a27515.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
+    [ "PrepareSpellScript", "d7/df2/a27515.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
+    [ "Register", "d7/df2/a27515.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
+    [ "RemoveInvalidTargets", "d7/df2/a27515.html#a1374c764b20b95febbca44c593bde218", null ],
+    [ "Validate", "d7/df2/a27515.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
 ];

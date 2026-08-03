@@ -1,7 +1,6 @@
 var a16563 =
 [
-    [ "OnApply", "d0/def/a16563.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
-    [ "OnRemove", "d0/def/a16563.html#a781994b0be4588f4df29399fc900ec69", null ],
-    [ "PrepareAuraScript", "d0/def/a16563.html#aee648b80e7352edffb20fd60697e1d88", null ],
-    [ "Register", "d0/def/a16563.html#a53c56711e31500f827123c08f44072cb", null ]
+    [ "npc_onyx_flamecallerAI", "d7/d7a/a16567.html", "d7/d7a/a16567" ],
+    [ "npc_onyx_flamecaller", "d0/def/a16563.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
+    [ "GetAI", "d0/def/a16563.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
 ];

@@ -1,6 +1,9 @@
 var a21931 =
 [
-    [ "PrepareSpellScript", "de/d4f/a21931.html#aa26d34552b04dca1db32390e769ff4dc", null ],
-    [ "RecalculateDamage", "de/d4f/a21931.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
-    [ "Register", "de/d4f/a21931.html#a58d28dea272b1237cf60efb45d67765d", null ]
+    [ "npc_mrfloppyAI", "de/d4f/a21931.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
+    [ "EnterEvadeMode", "de/d4f/a21931.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
+    [ "JustEngagedWith", "de/d4f/a21931.html#a490bf07de00cc5c59b5f0024317d8125", null ],
+    [ "MoveInLineOfSight", "de/d4f/a21931.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
+    [ "Reset", "de/d4f/a21931.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
+    [ "UpdateAI", "de/d4f/a21931.html#afad6db1ccd903fd18192f832a10a32f4", null ]
 ];

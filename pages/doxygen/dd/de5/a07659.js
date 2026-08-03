@@ -1,14 +1,6 @@
 var a07659 =
 [
-    [ "IsArena", "dd/de5/a07659.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
-    [ "BattlemasterEntry", "dd/de5/a07659.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
-    [ "Id", "dd/de5/a07659.html#a0fca37318585903f68695452a95011a9", null ],
-    [ "MaxLevel", "dd/de5/a07659.html#a790f55d480d1454a5f6e5713c04314b7", null ],
-    [ "MaxPlayersPerTeam", "dd/de5/a07659.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
-    [ "MaxStartDistSq", "dd/de5/a07659.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
-    [ "MinLevel", "dd/de5/a07659.html#a49fdf96a08376830a06956fd501cfa78", null ],
-    [ "MinPlayersPerTeam", "dd/de5/a07659.html#ac1bea263b53de8573cdb8eb890175495", null ],
-    [ "ScriptId", "dd/de5/a07659.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
-    [ "StartLocation", "dd/de5/a07659.html#a8477d2156c8aa5bb89da038d1a779698", null ],
-    [ "Weight", "dd/de5/a07659.html#aa7a051e8453599a7e82da763a6f91da2", null ]
+    [ "ArenaSeasonRewardDistributor", "dd/de5/a07659.html#a9b60eb5be0be5c1be68b9c371c99f28c", null ],
+    [ "DistributeRewards", "dd/de5/a07659.html#a93640633dc11edda2cd1fce4f1da496b", null ],
+    [ "_rewarder", "dd/de5/a07659.html#af2801ea5d098bebac111589e1fcf7004", null ]
 ];

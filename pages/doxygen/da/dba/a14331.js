@@ -1,8 +1,7 @@
 var a14331 =
 [
-    [ "npc_zulaman_hostageAI", "dd/d3a/a14335.html", "dd/d3a/a14335" ],
-    [ "npc_zulaman_hostage", "da/dba/a14331.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
-    [ "GetAI", "da/dba/a14331.html#a0ae144dc154dd028b409c9d2393f890c", null ],
-    [ "OnGossipHello", "da/dba/a14331.html#a89d68a976f916a4de2196b57ec0026b0", null ],
-    [ "OnGossipSelect", "da/dba/a14331.html#a114f6fbfab90944fd49babcba4b48a11", null ]
+    [ "FilterTargets", "da/dba/a14331.html#aebe9055301495dd3a21736b9a2a35f31", null ],
+    [ "HandleDamageCalc", "da/dba/a14331.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
+    [ "PrepareSpellScript", "da/dba/a14331.html#a03b8e21e58988d9fc774205263c0817f", null ],
+    [ "Register", "da/dba/a14331.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
 ];

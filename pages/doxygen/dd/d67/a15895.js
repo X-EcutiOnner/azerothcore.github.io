@@ -1,7 +1,6 @@
 var a15895 =
 [
-    [ "HandleDummy", "dd/d67/a15895.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
-    [ "PrepareSpellScript", "dd/d67/a15895.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
-    [ "Register", "dd/d67/a15895.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
-    [ "Validate", "dd/d67/a15895.html#a041c84fd605abd36b8f774903a5200dc", null ]
+    [ "npc_murkdeepAI", "d2/d76/a15899.html", "d2/d76/a15899" ],
+    [ "npc_murkdeep", "dd/d67/a15895.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
+    [ "GetAI", "dd/d67/a15895.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
 ];

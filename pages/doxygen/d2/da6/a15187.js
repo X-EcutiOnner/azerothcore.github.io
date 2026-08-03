@@ -1,6 +1,7 @@
 var a15187 =
 [
-    [ "boss_meathookAI", "d5/d62/a15191.html", "d5/d62/a15191" ],
-    [ "boss_meathook", "d2/da6/a15187.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
-    [ "GetAI", "d2/da6/a15187.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
+    [ "OnPeriodic", "d2/da6/a15187.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
+    [ "PrepareAuraScript", "d2/da6/a15187.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
+    [ "Register", "d2/da6/a15187.html#aeb388d608830aeb3b30f707304403b41", null ],
+    [ "Validate", "d2/da6/a15187.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
 ];

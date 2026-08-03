@@ -1,6 +1,18 @@
 var a17419 =
 [
-    [ "npc_pos_icicle_triggerAI", "de/d25/a17423.html", "de/d25/a17423" ],
-    [ "npc_pos_icicle_trigger", "df/df3/a17419.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
-    [ "GetAI", "df/df3/a17419.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
+    [ "boss_garfrostAI", "df/df3/a17419.html#af9f0a6bc8b982b025312d6b2c1f91549", null ],
+    [ "DamageTaken", "df/df3/a17419.html#a7a033f54f2c994c74b7125fb549af513", null ],
+    [ "EnterEvadeMode", "df/df3/a17419.html#acca25c3bf34760ed1f0e451d8d304ab6", null ],
+    [ "JustDied", "df/df3/a17419.html#a6439d3163c49973b36ae10c85b9dd11e", null ],
+    [ "JustEngagedWith", "df/df3/a17419.html#a06e1b8d8e0b1f0fd5fac0b2a4bad4ad6", null ],
+    [ "KilledUnit", "df/df3/a17419.html#af3751410e925a20c21b282d1b2de3bf3", null ],
+    [ "MovementInform", "df/df3/a17419.html#aadebdb2dd4402be150711f98dfab3f5f", null ],
+    [ "Reset", "df/df3/a17419.html#a916fd78cf3fd309ab8b13c96325002f2", null ],
+    [ "SetData", "df/df3/a17419.html#a3563e70e731836857837b1d4ac135130", null ],
+    [ "SpellHitTarget", "df/df3/a17419.html#ab7a4941d3d4565215ab3ac200ee1d534", null ],
+    [ "UpdateAI", "df/df3/a17419.html#a27cf76c48504dfb21f1a4a0caf9dd4cb", null ],
+    [ "bCanSayBoulderHit", "df/df3/a17419.html#a587196314c341334418ea19c7f9ea597", null ],
+    [ "events", "df/df3/a17419.html#addafeb61c54f95e71d9c45de3bddd25b", null ],
+    [ "phase", "df/df3/a17419.html#a917a6a57e8c55b9be92f01e2e7422508", null ],
+    [ "pInstance", "df/df3/a17419.html#a57ded0b0c7085ea978c01efa28e7d096", null ]
 ];

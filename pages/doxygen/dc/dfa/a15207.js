@@ -1,8 +1,8 @@
 var a15207 =
 [
-    [ "npc_arthasAI", "dd/de9/a15211.html", "dd/de9/a15211" ],
-    [ "npc_arthas", "dc/dfa/a15207.html#a87c280ff9861187b0a713f795e657266", null ],
-    [ "GetAI", "dc/dfa/a15207.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
-    [ "OnGossipHello", "dc/dfa/a15207.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
-    [ "OnGossipSelect", "dc/dfa/a15207.html#aeca2f4baa3c943281c676c6498393165", null ]
+    [ "hyjalThrallAI", "dc/dfa/a15207.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
+    [ "JustDied", "dc/dfa/a15207.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
+    [ "JustEngagedWith", "dc/dfa/a15207.html#a96706138634275ae7639c14f53cdd842", null ],
+    [ "Reset", "dc/dfa/a15207.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
+    [ "UpdateAI", "dc/dfa/a15207.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
 ];

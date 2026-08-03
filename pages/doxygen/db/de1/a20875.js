@@ -1,7 +1,8 @@
 var a20875 =
 [
-    [ "HandleProc", "db/de1/a20875.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "db/de1/a20875.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "db/de1/a20875.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "db/de1/a20875.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "npc_xt002_heart", "db/de1/a20875.html#aa4a3c9e4a66f1d6adab07282961685e9", null ],
+    [ "DoAction", "db/de1/a20875.html#a3150ab74ea50c9de6d937b3271e782de", null ],
+    [ "JustDied", "db/de1/a20875.html#a4f62cabc74ad43cf53f2257902982dff", null ],
+    [ "Reset", "db/de1/a20875.html#a0b60b84d9fc0abcb44d3f432420a7865", null ],
+    [ "_instance", "db/de1/a20875.html#a90edf95809c2d8a25b3f75526d2d3db7", null ]
 ];

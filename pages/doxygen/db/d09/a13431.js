@@ -1,6 +1,6 @@
 var a13431 =
 [
-    [ "npc_scarlet_courierAI", "d3/d81/a13435.html", "d3/d81/a13435" ],
-    [ "npc_scarlet_courier", "db/d09/a13431.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
-    [ "GetAI", "db/d09/a13431.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
+    [ "HandleAfterCast", "db/d09/a13431.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
+    [ "PrepareSpellScript", "db/d09/a13431.html#aa0956db2d03405a54893bc30516f5839", null ],
+    [ "Register", "db/d09/a13431.html#a45726adacf1d30b5488df54f57447c0c", null ]
 ];

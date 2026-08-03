@@ -1,9 +1,8 @@
 var a13879 =
 [
-    [ "npc_dark_fiend", "dc/d4e/a13879.html#a8c4ebf7ba2f991df7053d40108330609", null ],
-    [ "DamageTaken", "dc/d4e/a13879.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
-    [ "Reset", "dc/d4e/a13879.html#a5622d14f84ad8e47da773852f1778d56", null ],
-    [ "UpdateAI", "dc/d4e/a13879.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
-    [ "_lastVictimGUID", "dc/d4e/a13879.html#abcccb35701f21d417e3c13709cc24281", null ],
-    [ "_spellCast", "dc/d4e/a13879.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
+    [ "HandleApply", "dc/d4e/a13879.html#a9dce02909356193476e66586aee87f1d", null ],
+    [ "OnPeriodic", "dc/d4e/a13879.html#add4f000f81d5d4112719c6dd7464163c", null ],
+    [ "PrepareAuraScript", "dc/d4e/a13879.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
+    [ "Register", "dc/d4e/a13879.html#abc349f12f375b1f284eb78a363e8172a", null ],
+    [ "Validate", "dc/d4e/a13879.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
 ];

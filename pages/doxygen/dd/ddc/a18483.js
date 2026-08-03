@@ -1,5 +1,6 @@
 var a18483 =
 [
-    [ "at_sindragosa_lair", "dd/ddc/a18483.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
-    [ "OnTrigger", "dd/ddc/a18483.html#a07074bff20272042ed05be83dd818ee9", null ]
+    [ "UnchainedMagicTargetSelector", "dd/ddc/a18483.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
+    [ "operator()", "dd/ddc/a18483.html#af28ce8f46154ae6152e9025775a7f84f", null ],
+    [ "_removeHealers", "dd/ddc/a18483.html#a35a7981ce5495cba8b3a5391e4031431", null ]
 ];

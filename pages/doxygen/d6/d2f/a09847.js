@@ -1,7 +1,6 @@
 var a09847 =
 [
-    [ "PowerCheck", "d6/d2f/a09847.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
-    [ "operator()", "d6/d2f/a09847.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
-    [ "_equals", "d6/d2f/a09847.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
-    [ "_power", "d6/d2f/a09847.html#a922a57b62b4289835b539a69b0f58fa1", null ]
+    [ "AllFriendlyCreaturesInGrid", "d6/d2f/a09847.html#a6ad66997d093ffa52e2d80337dcb5460", null ],
+    [ "operator()", "d6/d2f/a09847.html#aca2b8ed7de69c57bb270e0c663781f97", null ],
+    [ "unit", "d6/d2f/a09847.html#a3842fa1eceabaa2d40b2bab4393cb431", null ]
 ];

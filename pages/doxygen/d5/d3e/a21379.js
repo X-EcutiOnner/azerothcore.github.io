@@ -1,10 +1,6 @@
 var a21379 =
 [
-    [ "npc_bonker_togglevoltAI", "d5/d3e/a21379.html#adfd43a6a804a35e235262e55f0155ffe", null ],
-    [ "JustDied", "d5/d3e/a21379.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
-    [ "Reset", "d5/d3e/a21379.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
-    [ "UpdateEscortAI", "d5/d3e/a21379.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
-    [ "WaypointReached", "d5/d3e/a21379.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
-    [ "WaypointReached", "d5/d3e/a21379.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "Bonker_agro", "d5/d3e/a21379.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
+    [ "boss_emalonAI", "d0/d4d/a21383.html", "d0/d4d/a21383" ],
+    [ "boss_emalon", "d5/d3e/a21379.html#a2dd481292e02337bebd450f5c9821886", null ],
+    [ "GetAI", "d5/d3e/a21379.html#a345b0663ba89de5e37b87a436c48e446", null ]
 ];

@@ -1,12 +1,12 @@
 var a19887 =
 [
-    [ "boss_sjonnirAI", "df/d6e/a19887.html#a53127766553d1bee4d7331e6f4fcda05", null ],
-    [ "ActivatePipe", "df/d6e/a19887.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
-    [ "DoAction", "df/d6e/a19887.html#afb2f73908bc17c763a8028af4b499481", null ],
-    [ "JustDied", "df/d6e/a19887.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
-    [ "JustEngagedWith", "df/d6e/a19887.html#aade776baf55155bb3814129ddc2f9632", null ],
-    [ "KilledUnit", "df/d6e/a19887.html#ac79740a8c5e4263f2917647c74e995aa", null ],
-    [ "Reset", "df/d6e/a19887.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
-    [ "ScheduleTasks", "df/d6e/a19887.html#a5c3c31c5be424795e4e96291c910c73c", null ],
-    [ "SlugeCount", "df/d6e/a19887.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
+    [ "npc_oculus_drakeAI", "df/d6e/a19887.html#a214d9b77a5653f1a5f60106081eaf683", null ],
+    [ "IsSummonedBy", "df/d6e/a19887.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
+    [ "MovementInform", "df/d6e/a19887.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
+    [ "PassengerBoarded", "df/d6e/a19887.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
+    [ "SpellHitTarget", "df/d6e/a19887.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
+    [ "UpdateAI", "df/d6e/a19887.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
+    [ "despawnTimer", "df/d6e/a19887.html#a560dc0936a78267a4036b209c6718732", null ],
+    [ "JustSummoned", "df/d6e/a19887.html#a8b656a464525e881944e72e9486b0eb9", null ],
+    [ "m_pInstance", "df/d6e/a19887.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
 ];

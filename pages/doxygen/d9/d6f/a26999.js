@@ -1,6 +1,7 @@
 var a26999 =
 [
-    [ "HandleScript", "d9/d6f/a26999.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
-    [ "PrepareSpellScript", "d9/d6f/a26999.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
-    [ "Register", "d9/d6f/a26999.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
+    [ "HandleProc", "d9/d6f/a26999.html#ac65d59f4632194120b58b34561f2c812", null ],
+    [ "PrepareAuraScript", "d9/d6f/a26999.html#ac9ab849c618fb1172dbde50876a4f5f3", null ],
+    [ "Register", "d9/d6f/a26999.html#aea263594afe1d0e2fe3fac906dfb7e4e", null ],
+    [ "Validate", "d9/d6f/a26999.html#afe98e7e6dfbe3bcdaaa353e608dc69d6", null ]
 ];

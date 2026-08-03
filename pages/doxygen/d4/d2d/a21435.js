@@ -1,7 +1,6 @@
 var a21435 =
 [
-    [ "npc_warmage_violetstand", "d4/d2d/a21435.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "d4/d2d/a21435.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "d4/d2d/a21435.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "d4/d2d/a21435.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_frozen_orb_stalkerAI", "d4/d2d/a21435.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
+    [ "JustSummoned", "d4/d2d/a21435.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
+    [ "Reset", "d4/d2d/a21435.html#a064ccb90afeb9b36d501850482c60bc4", null ]
 ];

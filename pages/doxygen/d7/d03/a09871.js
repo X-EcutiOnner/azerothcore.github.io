@@ -1,8 +1,8 @@
 var a09871 =
 [
-    [ "flags", "d7/d03/a09871.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "d7/d03/a09871.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "d7/d03/a09871.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "d7/d03/a09871.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "d7/d03/a09871.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "AllDeadCreaturesInRange", "d7/d03/a09871.html#a31b4976c3ea6203b9a1e7f7970a97977", null ],
+    [ "operator()", "d7/d03/a09871.html#a3638a8d3c5791b590ec717e4f1ba9cef", null ],
+    [ "_obj", "d7/d03/a09871.html#a4ca7fcf9945e698a790d01d3fadae98e", null ],
+    [ "_range", "d7/d03/a09871.html#a431ada86a2b864d53773a85b05d8da4f", null ],
+    [ "_reqAlive", "d7/d03/a09871.html#aefd0d77b69b5df9b99c148e0254fda09", null ]
 ];

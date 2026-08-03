@@ -1,13 +1,5 @@
 var a29063 =
 [
-    [ "AcquireMethod", "dc/dc4/a29063.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
-    [ "ClassMask", "dc/dc4/a29063.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
-    [ "ID", "dc/dc4/a29063.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
-    [ "MinSkillLineRank", "dc/dc4/a29063.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
-    [ "RaceMask", "dc/dc4/a29063.html#acfd38780584b90ca40a1e1cd59605832", null ],
-    [ "SkillLine", "dc/dc4/a29063.html#a0050dcf5c82f785dfc93079debe54a13", null ],
-    [ "Spell", "dc/dc4/a29063.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
-    [ "SupercededBySpell", "dc/dc4/a29063.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
-    [ "TrivialSkillLineRankHigh", "dc/dc4/a29063.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
-    [ "TrivialSkillLineRankLow", "dc/dc4/a29063.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
+    [ "ID", "dc/dc4/a29063.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "dc/dc4/a29063.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

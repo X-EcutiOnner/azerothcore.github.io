@@ -1,6 +1,6 @@
 var a01379 =
 [
-    [ "TSpellSummary", "df/d2f/a06590.html", "df/d2f/a06590" ],
+    [ "TSpellSummary", "d1/d7f/a06591.html", "d1/d7f/a06591" ],
     [ "eNPCs", "d0/d9b/a01379.html#abaecf87f40b40c4c71ec596a0b73e911", [
       [ "NPC_BROODLORD", "d0/d9b/a01379.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],
       [ "NPC_JAN_ALAI", "d0/d9b/a01379.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],

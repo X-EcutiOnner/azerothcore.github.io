@@ -1,6 +1,5 @@
 var a18863 =
 [
-    [ "npc_suppresserAI", "dd/d0d/a18867.html", "dd/d0d/a18867" ],
-    [ "npc_suppresser", "d9/d2b/a18863.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
-    [ "GetAI", "d9/d2b/a18863.html#a48869515abbac1491337a93b987231da", null ]
+    [ "achievement_neck_deep_in_vile", "d9/d2b/a18863.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "d9/d2b/a18863.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

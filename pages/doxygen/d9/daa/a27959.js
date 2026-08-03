@@ -1,6 +1,6 @@
 var a27959 =
 [
-    [ "go_l70_etc_musicAI", "d9/daa/a27959.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "d9/daa/a27959.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "d9/daa/a27959.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "HandleProc", "d9/daa/a27959.html#a6b321d6ee3002f32b546aeaed0925183", null ],
+    [ "PrepareAuraScript", "d9/daa/a27959.html#a4186315ab8fa250fd108c2de1c650f9e", null ],
+    [ "Register", "d9/daa/a27959.html#a3817a49fbcac2d70ded5a39b3cce8ea7", null ]
 ];

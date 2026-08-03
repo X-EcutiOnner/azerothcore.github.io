@@ -1,13 +1,9 @@
 var a09575 =
 [
-    [ "WorldObjectListSearcher", "d2/d02/a09575.html#aad6ee62da3f21c7838767dd3af871ad7", null ],
-    [ "Visit", "d2/d02/a09575.html#a154998e616ba17d66cf4899debc92ca1", null ],
-    [ "Visit", "d2/d02/a09575.html#a64e8d7854baa93e4390703fe986f6777", null ],
-    [ "Visit", "d2/d02/a09575.html#a28ded6ec2d69f1a1bd298a9aa11206e1", null ],
-    [ "Visit", "d2/d02/a09575.html#a18572bc1f4cfde19476ac9df393296b2", null ],
-    [ "Visit", "d2/d02/a09575.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7", null ],
-    [ "Visit", "d2/d02/a09575.html#a8cebd0149bfccc4fdeb30dda9505f0c0", null ],
-    [ "i_check", "d2/d02/a09575.html#a6ae05d2ed15201356600cda7d0d5a6c3", null ],
-    [ "i_mapTypeMask", "d2/d02/a09575.html#a1d6dc64937ae790d7414456e4644c13b", null ],
-    [ "i_phaseMask", "d2/d02/a09575.html#a6b29bb94ed2ec6f508b25d45c11f72fd", null ]
+    [ "LiquidData", "d2/d02/a09575.html#ac2435178323f480d2dae449b49b39146", null ],
+    [ "DepthLevel", "d2/d02/a09575.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
+    [ "Entry", "d2/d02/a09575.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
+    [ "Flags", "d2/d02/a09575.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
+    [ "Level", "d2/d02/a09575.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
+    [ "Status", "d2/d02/a09575.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
 ];

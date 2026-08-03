@@ -1,7 +1,6 @@
 var a13143 =
 [
-    [ "FilterTargets", "d0/d10/a13143.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
-    [ "Load", "d0/d10/a13143.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
-    [ "PrepareSpellScript", "d0/d10/a13143.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
-    [ "Register", "d0/d10/a13143.html#ae366530ddacf45a92eaa36be7e706a84", null ]
+    [ "instance_deadmines_InstanceMapScript", "d0/d41/a13147.html", "d0/d41/a13147" ],
+    [ "instance_deadmines", "d0/d10/a13143.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
+    [ "GetInstanceScript", "d0/d10/a13143.html#ac5cb65972d52324cedf662cc44dca626", null ]
 ];

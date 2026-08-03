@@ -1,10 +1,8 @@
 var a11903 =
 [
-    [ "Aura", "d2/d5a/a11903.html#ab87ff32c7b9d25f238245df1b646c49a", null ],
-    [ "DispelType", "d2/d5a/a11903.html#a964f9e427d50b8630ef1221914adad89", null ],
-    [ "Effect", "d2/d5a/a11903.html#a61a5bcfce9d99c09aa58fd99afb97e5c", null ],
-    [ "ImmuneAoE", "d2/d5a/a11903.html#a2b195291886ba333efd63d0edded1bb4", null ],
-    [ "ImmuneChain", "d2/d5a/a11903.html#a81a36e982f45209bfd6d1b0bad843cc1", null ],
-    [ "Mechanic", "d2/d5a/a11903.html#a01290d95abdbcf391557c7d72be05ebe", null ],
-    [ "School", "d2/d5a/a11903.html#a587a27eae3c94be00522b6b84521ed3c", null ]
+    [ "WorldObjectSpellAreaTargetCheck", "d2/d5a/a11903.html#a0a6275bc4d2bbf7da27e4b0df7245ec2", null ],
+    [ "operator()", "d2/d5a/a11903.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
+    [ "_position", "d2/d5a/a11903.html#a680c45dd148161657da011a1772375ca", null ],
+    [ "_range", "d2/d5a/a11903.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ],
+    [ "_searchReason", "d2/d5a/a11903.html#aad544cdfe9423a7967dfed64aeaed995", null ]
 ];

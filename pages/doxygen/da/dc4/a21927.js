@@ -1,9 +1,6 @@
 var a21927 =
 [
-    [ "npc_frostbrood_skytalonAI", "da/dc4/a21927.html#afc14c60466f9f0f1b20062758f18c00d", null ],
-    [ "IsSummonedBy", "da/dc4/a21927.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
-    [ "MovementInform", "da/dc4/a21927.html#ae763333503176eb7e8ce407868243958", null ],
-    [ "SpellHit", "da/dc4/a21927.html#a24bb49f47dcf85c95039d0495a89e126", null ],
-    [ "UpdateAI", "da/dc4/a21927.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
-    [ "events", "da/dc4/a21927.html#a8575d258d63e28626cffd7fc2160bee6", null ]
+    [ "npc_mrfloppyAI", "de/d4f/a21931.html", "de/d4f/a21931" ],
+    [ "npc_mrfloppy", "da/dc4/a21927.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "da/dc4/a21927.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

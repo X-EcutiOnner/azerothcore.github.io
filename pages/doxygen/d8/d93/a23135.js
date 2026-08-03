@@ -1,6 +1,8 @@
 var a23135 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "d0/d7c/a23139.html", "d0/d7c/a23139" ],
-    [ "instance_the_slave_pens", "d8/d93/a23135.html#a765f7b66ad3bed1828524ecb143742f2", null ],
-    [ "GetInstanceScript", "d8/d93/a23135.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
+    [ "CalculateAmount", "d8/d93/a23135.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
+    [ "OnPeriodic", "d8/d93/a23135.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
+    [ "PrepareAuraScript", "d8/d93/a23135.html#a1278420b279449c1c6a53b1a7b53f539", null ],
+    [ "Register", "d8/d93/a23135.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
+    [ "Validate", "d8/d93/a23135.html#a601c2db3a8e47d48b956ed102cbca104", null ]
 ];

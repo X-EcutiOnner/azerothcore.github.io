@@ -1,6 +1,5 @@
 var a17191 =
 [
-    [ "FilterTargets", "d6/d46/a17191.html#a36879a2920f43562bb0ff89c76d758e4", null ],
-    [ "PrepareSpellScript", "d6/d46/a17191.html#afeb95c5fe970ebc147d509981b026e98", null ],
-    [ "Register", "d6/d46/a17191.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
+    [ "achievement_oh_novos", "d6/d46/a17191.html#a31ca1f458c384401af107cb8f709ef61", null ],
+    [ "OnCheck", "d6/d46/a17191.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
 ];

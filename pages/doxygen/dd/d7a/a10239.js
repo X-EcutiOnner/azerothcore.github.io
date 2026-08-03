@@ -1,7 +1,7 @@
 var a10239 =
 [
-    [ "LFGUpdateRequest", "dd/d7a/a10239.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
-    [ "call", "dd/d7a/a10239.html#a15258001db5870a0f52bb0c72cba3587", null ],
-    [ "m_diff", "dd/d7a/a10239.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
-    [ "m_updater", "dd/d7a/a10239.html#a1bb4423241495aebab83ebc1acf66510", null ]
+    [ "ownerGUID", "dd/d7a/a10239.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
+    [ "script", "dd/d7a/a10239.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
+    [ "sourceGUID", "dd/d7a/a10239.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
+    [ "targetGUID", "dd/d7a/a10239.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
 ];

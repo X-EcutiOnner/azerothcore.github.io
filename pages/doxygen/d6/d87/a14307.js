@@ -1,7 +1,6 @@
 var a14307 =
 [
-    [ "OnPeriodic", "d6/d87/a14307.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
-    [ "PrepareAuraScript", "d6/d87/a14307.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
-    [ "Register", "d6/d87/a14307.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
-    [ "Validate", "d6/d87/a14307.html#a7ed214de6769314a45540e9afdb82949", null ]
+    [ "npc_tapoke_slim_jahnAI", "dd/d37/a14311.html", "dd/d37/a14311" ],
+    [ "npc_tapoke_slim_jahn", "d6/d87/a14307.html#a61e36b57f8ba78c371d454efb1512579", null ],
+    [ "GetAI", "d6/d87/a14307.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
 ];

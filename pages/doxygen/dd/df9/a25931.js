@@ -1,9 +1,6 @@
 var a25931 =
 [
-    [ "OnEffectHitTargetDisarm", "dd/df9/a25931.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
-    [ "OnEffectHitTargetStun", "dd/df9/a25931.html#a5a5253b6d152b1af78de663c09451536", null ],
-    [ "OnEffectLaunchTargetDisarm", "dd/df9/a25931.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
-    [ "OnEffectLaunchTargetStun", "dd/df9/a25931.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
-    [ "PrepareSpellScript", "dd/df9/a25931.html#a113219d3376a23f8889f26f10744e7cb", null ],
-    [ "Register", "dd/df9/a25931.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
+    [ "HandlePeriodicTick", "dd/df9/a25931.html#a058eeb1e0489340763a58d92d4bed832", null ],
+    [ "PrepareAuraScript", "dd/df9/a25931.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
+    [ "Register", "dd/df9/a25931.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
 ];

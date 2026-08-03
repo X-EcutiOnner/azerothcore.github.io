@@ -1,5 +1,5 @@
 var a28595 =
 [
-    [ "id", "d4/d09/a28595.html#a22e48015dd880199e131089e35b1ce05", null ],
-    [ "spellId", "d4/d09/a28595.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
+    [ "npc_pet_trainerAI", "d4/d09/a28595.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
+    [ "sGossipSelect", "d4/d09/a28595.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
 ];

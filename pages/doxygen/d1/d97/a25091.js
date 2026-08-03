@@ -1,7 +1,6 @@
 var a25091 =
 [
-    [ "PrepareSpellScript", "d1/d97/a25091.html#aad8061898087fbf5eb6527cbaa70927d", null ],
-    [ "RecalculateDamage", "d1/d97/a25091.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
-    [ "Register", "d1/d97/a25091.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
-    [ "_damagePct", "d1/d97/a25091.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
+    [ "PrepareAuraScript", "d1/d97/a25091.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
+    [ "Register", "d1/d97/a25091.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
+    [ "AuraEffectHandleModes", "d1/d97/a25091.html#aed1cfe63d82450b526e154678fb97ac4", null ]
 ];

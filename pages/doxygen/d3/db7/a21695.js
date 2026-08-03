@@ -1,9 +1,13 @@
 var a21695 =
 [
-    [ "npc_mrfloppyAI", "d3/db7/a21695.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
-    [ "EnterEvadeMode", "d3/db7/a21695.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
-    [ "JustEngagedWith", "d3/db7/a21695.html#a490bf07de00cc5c59b5f0024317d8125", null ],
-    [ "MoveInLineOfSight", "d3/db7/a21695.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
-    [ "Reset", "d3/db7/a21695.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
-    [ "UpdateAI", "d3/db7/a21695.html#afad6db1ccd903fd18192f832a10a32f4", null ]
+    [ "npc_shandy_dalaranAI", "d3/db7/a21695.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
+    [ "Reset", "d3/db7/a21695.html#a38f0630d4e18cea01de343afdcb96db3", null ],
+    [ "RollTask", "d3/db7/a21695.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
+    [ "SetData", "d3/db7/a21695.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
+    [ "UpdateAI", "d3/db7/a21695.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
+    [ "_aquanosGUID", "d3/db7/a21695.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
+    [ "_canWash", "d3/db7/a21695.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
+    [ "_events", "d3/db7/a21695.html#a3fbae63669c8382097b0bcb936301945", null ],
+    [ "_lCount", "d3/db7/a21695.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
+    [ "_lSource", "d3/db7/a21695.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
 ];

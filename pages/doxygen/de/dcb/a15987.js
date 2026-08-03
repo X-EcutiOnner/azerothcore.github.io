@@ -1,6 +1,7 @@
 var a15987 =
 [
-    [ "npc_anachronos_the_ancientAI", "db/d56/a15991.html", "db/d56/a15991" ],
-    [ "npc_anachronos_the_ancient", "de/dcb/a15987.html#a720884359886e6f881190471005f4cfc", null ],
-    [ "GetAI", "de/dcb/a15987.html#a345c801231907d98f2ab2425b1d35cbc", null ]
+    [ "HandleDummy", "de/dcb/a15987.html#a30a87266b89021caf7d05c45397f70d1", null ],
+    [ "PrepareSpellScript", "de/dcb/a15987.html#a43a92b346088d710719722e8feed9634", null ],
+    [ "Register", "de/dcb/a15987.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
+    [ "Validate", "de/dcb/a15987.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
 ];

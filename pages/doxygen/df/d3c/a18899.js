@@ -1,6 +1,6 @@
 var a18899 =
 [
-    [ "PeriodicTick", "df/d3c/a18899.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
-    [ "PrepareAuraScript", "df/d3c/a18899.html#a0767ac60151517b803e871a0fcb25967", null ],
-    [ "Register", "df/d3c/a18899.html#afd1e28b224035aef5ac109f38d7e118d", null ]
+    [ "npc_the_lich_king_controllerAI", "df/d3c/a18903.html", "df/d3c/a18903" ],
+    [ "npc_the_lich_king_controller", "df/d3c/a18899.html#a32b14d699737497ba7c90d8ef17557d7", null ],
+    [ "GetAI", "df/d3c/a18899.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
 ];

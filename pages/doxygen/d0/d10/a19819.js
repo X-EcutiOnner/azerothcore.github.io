@@ -1,12 +1,12 @@
 var a19819 =
 [
-    [ "boss_ionar", "d0/d10/a19819.html#a323da67c3ff33d09d07cf0369600a473", null ],
-    [ "JustDied", "d0/d10/a19819.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
-    [ "JustEngagedWith", "d0/d10/a19819.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
-    [ "KilledUnit", "d0/d10/a19819.html#ae6b1225147bc146066185d4d21c19f14", null ],
-    [ "Reset", "d0/d10/a19819.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
-    [ "ScheduleEvents", "d0/d10/a19819.html#af74dda7ad9cd156036689694b3bb9986", null ],
-    [ "SpellHit", "d0/d10/a19819.html#a85c0ba28de5a684435246539d2106dcd", null ],
-    [ "Split", "d0/d10/a19819.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
-    [ "UpdateAI", "d0/d10/a19819.html#ad6fb218e743bad9fec357ea7d862744d", null ]
+    [ "instance_nexus_InstanceMapScript", "d0/d10/a19819.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "d0/d10/a19819.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "KillAllFrayers", "d0/d10/a19819.html#a7c696467deba7a2f15d5175e3427bd20", null ],
+    [ "OnCreatureCreate", "d0/d10/a19819.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "d0/d10/a19819.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "d0/d10/a19819.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "d0/d10/a19819.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "d0/d10/a19819.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
+    [ "_frayerGUIDs", "d0/d10/a19819.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
 ];

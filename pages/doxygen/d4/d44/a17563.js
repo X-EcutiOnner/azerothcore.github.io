@@ -1,6 +1,5 @@
 var a17563 =
 [
-    [ "HandlePeriodic", "d4/d44/a17563.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
-    [ "PrepareAuraScript", "d4/d44/a17563.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
-    [ "Register", "d4/d44/a17563.html#a9753daf5cdc812e9027c1153b450686d", null ]
+    [ "at_tyrannus_event_starter", "d4/d44/a17563.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
+    [ "OnTrigger", "d4/d44/a17563.html#adccf396220ef7de47e7afeca791de894", null ]
 ];

@@ -1,6 +1,6 @@
 var a17055 =
 [
-    [ "HandleEffectPeriodic", "d4/de2/a17055.html#a8775f4e2cb6be96f57596413d560206c", null ],
-    [ "PrepareAuraScript", "d4/de2/a17055.html#a45118f9887d248a5eb840b945dee5b79", null ],
-    [ "Register", "d4/de2/a17055.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
+    [ "npc_snobold_vassalAI", "d8/d73/a17059.html", "d8/d73/a17059" ],
+    [ "npc_snobold_vassal", "d4/de2/a17055.html#a243cefbc15931ebbb555936d54583314", null ],
+    [ "GetAI", "d4/de2/a17055.html#a77976a59f600591454fac197ded613ef", null ]
 ];

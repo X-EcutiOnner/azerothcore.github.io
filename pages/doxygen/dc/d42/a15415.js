@@ -1,5 +1,6 @@
 var a15415 =
 [
-    [ "pathId", "dc/d42/a15415.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
-    [ "spellId", "dc/d42/a15415.html#af495f984d5b81baeaa61ddca127a9508", null ]
+    [ "instance_maraudon_InstanceMapScript", "de/ddd/a15419.html", "de/ddd/a15419" ],
+    [ "instance_maraudon", "dc/d42/a15415.html#aaae11d2569d04b42840b101a5702cf24", null ],
+    [ "GetInstanceScript", "dc/d42/a15415.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
 ];

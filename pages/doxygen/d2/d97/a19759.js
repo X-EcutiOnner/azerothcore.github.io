@@ -1,8 +1,6 @@
 var a19759 =
 [
-    [ "npc_centrifuge_constructAI", "d2/d97/a19759.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "d2/d97/a19759.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "d2/d97/a19759.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "d2/d97/a19759.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "d2/d97/a19759.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "HandleScript", "d2/d97/a19759.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
+    [ "PrepareSpellScript", "d2/d97/a19759.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
+    [ "Register", "d2/d97/a19759.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
 ];

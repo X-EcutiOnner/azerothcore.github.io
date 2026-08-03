@@ -1,5 +1,8 @@
 var a22283 =
 [
-    [ "OutdoorPvP_grizzly_hills", "d2/de2/a22283.html#aa020d8120c62874fb15b4623bbb714d9", null ],
-    [ "GetOutdoorPvP", "d2/de2/a22283.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
+    [ "npc_time_lost_proto_drakeAI", "d2/de2/a22283.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "InitializeAI", "d2/de2/a22283.html#a6b99780951a126a97db88e7307c1d1b9", null ],
+    [ "JustEngagedWith", "d2/de2/a22283.html#ab95266d60769aa4099ca0f1bf678f237", null ],
+    [ "Reset", "d2/de2/a22283.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "UpdateAI", "d2/de2/a22283.html#abb28428b77beada6a378541ba11d090b", null ]
 ];

@@ -1,9 +1,16 @@
 var a14335 =
 [
-    [ "npc_zulaman_hostageAI", "dd/d3a/a14335.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
-    [ "JustDied", "dd/d3a/a14335.html#af87bdebb039f1da5736408cf3aad6487", null ],
-    [ "JustEngagedWith", "dd/d3a/a14335.html#af0aa229973da1a6230a854439658e9ed", null ],
-    [ "UpdateAI", "dd/d3a/a14335.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
-    [ "IsLoot", "dd/d3a/a14335.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
-    [ "PlayerGUID", "dd/d3a/a14335.html#a49f15c5a94d005c56218d00ac6732b82", null ]
+    [ "boss_halazzi", "dd/d3a/a14335.html#aed961a9e12b44dfd97bd31c981184be5", null ],
+    [ "AttackStart", "dd/d3a/a14335.html#a000c3b6b8a73fd8f858b87724dfcf123", null ],
+    [ "DamageTaken", "dd/d3a/a14335.html#aaa698dfa4d4a991968eebee3330e967a", null ],
+    [ "DoAction", "dd/d3a/a14335.html#a1685c7c99a797ec332b67797a294d83a", null ],
+    [ "EnterPhase", "dd/d3a/a14335.html#a951a0c9fc4fc737abbaaae77dfd4e43b", null ],
+    [ "JustDied", "dd/d3a/a14335.html#aa607a13fef1b8c195ba0aa09fafdaaae", null ],
+    [ "JustEngagedWith", "dd/d3a/a14335.html#a1dd4992bfca0bf658bd7a385300578ae", null ],
+    [ "JustSummoned", "dd/d3a/a14335.html#a152267cb31912106443ceea9488fee0a", null ],
+    [ "KilledUnit", "dd/d3a/a14335.html#a4d69fa8e754f823a599c52e227361600", null ],
+    [ "Reset", "dd/d3a/a14335.html#a9d9a82e5ae8dadfefcf2c929325cb60e", null ],
+    [ "SpellHit", "dd/d3a/a14335.html#a36141673391a423174db874ca425ea07", null ],
+    [ "_phase", "dd/d3a/a14335.html#a1f76fd0c02eec20aa2c222b278420dd8", null ],
+    [ "_transformCount", "dd/d3a/a14335.html#a9a86487f20e48d6be123bd61aaf13f7f", null ]
 ];

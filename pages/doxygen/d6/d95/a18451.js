@@ -1,6 +1,7 @@
 var a18451 =
 [
-    [ "FilterTargets", "d6/d95/a18451.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
-    [ "PrepareSpellScript", "d6/d95/a18451.html#a24466e7a04722cc7559b086f89d2edc8", null ],
-    [ "Register", "d6/d95/a18451.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
+    [ "FrostBombExplosion", "d6/d95/a18451.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "d6/d95/a18451.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "d6/d95/a18451.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "d6/d95/a18451.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

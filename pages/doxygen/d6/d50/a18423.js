@@ -1,6 +1,7 @@
 var a18423 =
 [
-    [ "HandleSpecial", "d6/d50/a18423.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "d6/d50/a18423.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "d6/d50/a18423.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "HandleScript", "d6/d50/a18423.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
+    [ "PrepareSpellScript", "d6/d50/a18423.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
+    [ "Register", "d6/d50/a18423.html#a2278ecef3dc60082ccb8964a34e55587", null ],
+    [ "Validate", "d6/d50/a18423.html#aeee94330ee7ea9b4fd7447e642404119", null ]
 ];

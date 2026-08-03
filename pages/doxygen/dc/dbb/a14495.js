@@ -1,5 +1,6 @@
 var a14495 =
 [
-    [ "npc_brain_wash_totem", "dc/dbb/a14495.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
-    [ "EnterEvadeMode", "dc/dbb/a14495.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
+    [ "boss_hakkarAI", "d4/d66/a14499.html", "d4/d66/a14499" ],
+    [ "boss_hakkar", "dc/dbb/a14495.html#a834bd1f223154fbf1be94bf43136da28", null ],
+    [ "GetAI", "dc/dbb/a14495.html#aff3a089e30dcddfde4db372104153723", null ]
 ];

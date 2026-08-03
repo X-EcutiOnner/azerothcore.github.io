@@ -1,5 +1,6 @@
 var a11551 =
 [
-    [ "QuestGiverQuestAutoLaunch", "d4/dc2/a11551.html#a802f7bba88a650bc577cfc1fa29cb016", null ],
-    [ "Read", "d4/dc2/a11551.html#a8e5d0c7821d7055fd7ad9f3f83589f57", null ]
+    [ "PetLearnedSpell", "d4/dc2/a11551.html#a5d105cca08515b9550998f2c86b13a1a", null ],
+    [ "Write", "d4/dc2/a11551.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
+    [ "SpellID", "d4/dc2/a11551.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
 ];

@@ -1,7 +1,6 @@
 var a14887 =
 [
-    [ "OnApply", "d1/d30/a14887.html#a42148069675e663456bb5495fa5c8702", null ],
-    [ "OnPeriodic", "d1/d30/a14887.html#ad3582b02b369e3029e20817dd19aede0", null ],
-    [ "PrepareAuraScript", "d1/d30/a14887.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
-    [ "Register", "d1/d30/a14887.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
+    [ "HandleDummy", "d1/d30/a14887.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
+    [ "PrepareSpellScript", "d1/d30/a14887.html#a87a787c6ab3804847c90266f570381c6", null ],
+    [ "Register", "d1/d30/a14887.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
 ];

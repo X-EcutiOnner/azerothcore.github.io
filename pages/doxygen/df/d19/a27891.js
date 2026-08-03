@@ -1,9 +1,6 @@
 var a27891 =
 [
-    [ "ChatLogScript", "df/d19/a27891.html#ade8c407083cf094f0767412e7b6d7730", null ],
-    [ "OnPlayerCanUseChat", "df/d19/a27891.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
-    [ "OnPlayerCanUseChat", "df/d19/a27891.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
-    [ "OnPlayerCanUseChat", "df/d19/a27891.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
-    [ "OnPlayerCanUseChat", "df/d19/a27891.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
-    [ "OnPlayerCanUseChat", "df/d19/a27891.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
+    [ "HandleDummy", "df/d19/a27891.html#a68a86f7f86324336dc837622e01fa6af", null ],
+    [ "PrepareSpellScript", "df/d19/a27891.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
+    [ "Register", "df/d19/a27891.html#ad168c9164d1edd23abfbf05141b96de4", null ]
 ];

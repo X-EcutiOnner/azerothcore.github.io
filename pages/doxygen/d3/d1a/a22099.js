@@ -1,7 +1,6 @@
 var a22099 =
 [
-    [ "HandleScript", "d3/d1a/a22099.html#ad38771460ddf0f95783718775690d1f0", null ],
-    [ "PrepareSpellScript", "d3/d1a/a22099.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
-    [ "Register", "d3/d1a/a22099.html#a3ba23fd54c35c2d2866db647811c948d", null ],
-    [ "Validate", "d3/d1a/a22099.html#a6a58808356785c25032c2befd429ff2b", null ]
+    [ "npc_boneguard_footmanAI", "da/d60/a22103.html", "da/d60/a22103" ],
+    [ "npc_boneguard_footman", "d3/d1a/a22099.html#aba17f89b9546deff5401ad33224b2b3e", null ],
+    [ "GetAI", "d3/d1a/a22099.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
 ];

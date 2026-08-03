@@ -1,9 +1,6 @@
 var a18795 =
 [
-    [ "DelayedCastEvent", "dc/d7c/a18795.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
-    [ "Execute", "dc/d7c/a18795.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "dc/d7c/a18795.html#afcaeafb72df77c36b5496588c219fac4", null ],
-    [ "_originalCaster", "dc/d7c/a18795.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "dc/d7c/a18795.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "dc/d7c/a18795.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "npc_terenas_menethilAI", "d1/d59/a18799.html", "d1/d59/a18799" ],
+    [ "npc_terenas_menethil", "dc/d7c/a18795.html#a6b6850598c582e3d44c13275302fd32d", null ],
+    [ "GetAI", "dc/d7c/a18795.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
 ];

@@ -1,10 +1,12 @@
 var a13971 =
 [
-    [ "npc_professor_phizzlethorpeAI", "db/d80/a13971.html#a92af4732575008c1a4f061cef0f23902", null ],
-    [ "JustEngagedWith", "db/d80/a13971.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
-    [ "JustSummoned", "db/d80/a13971.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
-    [ "sQuestAccept", "db/d80/a13971.html#ad4a4bd9af581abe832933da69b18d76f", null ],
-    [ "UpdateAI", "db/d80/a13971.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
-    [ "WaypointReached", "db/d80/a13971.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ],
-    [ "WaypointReached", "db/d80/a13971.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "boss_twilight_corrupter", "db/d80/a13971.html#afe140d6231d9ad8543e17c4a8a8230c0", null ],
+    [ "InitializeAI", "db/d80/a13971.html#afe06461e9f3e1549da6631d2f89406c4", null ],
+    [ "JustEngagedWith", "db/d80/a13971.html#a84803153e7e7d5d7efe0106139214b1f", null ],
+    [ "KilledUnit", "db/d80/a13971.html#aa18d2fc90e1ccd322ec9d3128ba206d2", null ],
+    [ "MoveInLineOfSight", "db/d80/a13971.html#a637cdd43f2f9a4f773b4b8e8f3c88730", null ],
+    [ "Reset", "db/d80/a13971.html#a27720f58056206c09bce41ae50018a83", null ],
+    [ "UpdateAI", "db/d80/a13971.html#a580fbaa55a5c0193c1ef2c6b281d8d9e", null ],
+    [ "_introSpoken", "db/d80/a13971.html#a1924750c9d41ed588a29aace3c40742d", null ],
+    [ "_scheduler", "db/d80/a13971.html#a6c49eee2be24199418096cc48c50d384", null ]
 ];

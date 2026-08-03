@@ -1,7 +1,6 @@
 var a19339 =
 [
-    [ "HandleScriptEffect", "d7/d5c/a19339.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
-    [ "PrepareSpellScript", "d7/d5c/a19339.html#a21a3175346c9b12c02205f2d33da3b86", null ],
-    [ "Register", "d7/d5c/a19339.html#af5f279ad20e9153f201262eaa7615978", null ],
-    [ "Validate", "d7/d5c/a19339.html#a635ff34619767f657778016e1eb901aa", null ]
+    [ "npc_icc_putricades_trapAI", "d0/dcf/a19343.html", "d0/dcf/a19343" ],
+    [ "npc_icc_putricades_trap", "d7/d5c/a19339.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
+    [ "GetAI", "d7/d5c/a19339.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
 ];

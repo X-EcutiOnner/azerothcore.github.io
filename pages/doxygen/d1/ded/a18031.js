@@ -1,9 +1,6 @@
 var a18031 =
 [
-    [ "CalculateDamage", "d1/ded/a18031.html#a6a9e90d9463825b38b69afc234b35b39", null ],
-    [ "PrepareSpellScript", "d1/ded/a18031.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
-    [ "Register", "d1/ded/a18031.html#a2722814a55469e5bae572766ed36309b", null ],
-    [ "RemoveEnergy", "d1/ded/a18031.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
-    [ "StoreEnergy", "d1/ded/a18031.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
-    [ "_energyLeft", "d1/ded/a18031.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
+    [ "npc_gunship_boarding_add_realAI", "d1/ded/a18031.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
+    [ "UpdateAI", "d1/ded/a18031.html#a33ac355c8f61907574a0736a24cbee82", null ],
+    [ "_events", "d1/ded/a18031.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
 ];

@@ -1,7 +1,9 @@
 var a21311 =
 [
-    [ "npc_violet_hold_defense_system", "dc/d0e/a21311.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "dc/d0e/a21311.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "dc/d0e/a21311.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ],
-    [ "_tickCount", "dc/d0e/a21311.html#a4a7504069b05480428278fd09d5e59ba", null ]
+    [ "CastTheNextTwoSpells", "dc/d0e/a21311.html#a70a154ea5c19c36630e94c5214ee6722", null ],
+    [ "OnPeriodic", "dc/d0e/a21311.html#ac9b99d9328affec2787691f80e0cc9c3", null ],
+    [ "PrepareAuraScript", "dc/d0e/a21311.html#ac7450be0713ce98e7986d322a58289f6", null ],
+    [ "PushBackTheNextTwoSpells", "dc/d0e/a21311.html#a9e470116c80cf56b425e344d73e44533", null ],
+    [ "Register", "dc/d0e/a21311.html#ad948e7cb5a64ed5bd202c10b28285d9c", null ],
+    [ "_summonSpells", "dc/d0e/a21311.html#a578dbb8c828e3acf36b21a38628c94e1", null ]
 ];

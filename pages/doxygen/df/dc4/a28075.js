@@ -1,5 +1,5 @@
 var a28075 =
 [
-    [ "go_veil_skith_cage", "df/dc4/a28075.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
-    [ "OnGossipHello", "df/dc4/a28075.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
+    [ "AreaTrigger_at_scent_larkorwi", "df/dc4/a28075.html#a967a43eae4cc986754eed9ee8291c17e", null ],
+    [ "OnTrigger", "df/dc4/a28075.html#aeeb339afa5a7dd4b028aea800026998e", null ]
 ];

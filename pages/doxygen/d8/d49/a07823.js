@@ -1,13 +1,8 @@
 var a07823 =
 [
-    [ "WhoListCacheMgr", "d8/d49/a07823.html#a2190c113c3d38bd316b17a4400c113e6", null ],
-    [ "~WhoListCacheMgr", "d8/d49/a07823.html#ae32706d7786014e142dc1cb9ccd29d70", null ],
-    [ "WhoListCacheMgr", "d8/d49/a07823.html#a366e452317179d647042c24c56faafa1", null ],
-    [ "WhoListCacheMgr", "d8/d49/a07823.html#ae0358ae9260f929410f6518f89135161", null ],
-    [ "GetWhoList", "d8/d49/a07823.html#a4dec6544342fdc5052b69dcc61148453", null ],
-    [ "instance", "d8/d49/a07823.html#a1e8ce970e3213cd0361af303df98b387", null ],
-    [ "operator=", "d8/d49/a07823.html#a80615aa0a66ac29765f27598e605c712", null ],
-    [ "operator=", "d8/d49/a07823.html#ab8aff37f9e66aef40ccb794928bc001c", null ],
-    [ "Update", "d8/d49/a07823.html#a3db2ef832cf1413fb2e565ca0d922a80", null ],
-    [ "_whoListStorage", "d8/d49/a07823.html#a75495cb910c6de65d60a5080248e1e25", null ]
+    [ "NodeId", "d8/d49/a07823.html#a09d4904c622dd7810e154bc0f3bd7eaf", null ],
+    [ "TextAllianceTaken", "d8/d49/a07823.html#a20cb8eaefa0e45b45a57645c62409ba4", null ],
+    [ "TextAssaulted", "d8/d49/a07823.html#a2e49a6d7f8ca935800062d98f1c660de", null ],
+    [ "TextDefended", "d8/d49/a07823.html#a27ee2d5be23a110943438a8888b14202", null ],
+    [ "TextHordeTaken", "d8/d49/a07823.html#a835c00ebdc2fe61f7e7757b0ed26bd1d", null ]
 ];

@@ -1,6 +1,8 @@
 var a17871 =
 [
-    [ "Cooldown", "d0/dc2/a17871.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
-    [ "Entry", "d0/dc2/a17871.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
-    [ "TargetPosition", "d0/dc2/a17871.html#ac47af49622012b4ad40357cadc5214b3", null ]
+    [ "npc_saurfang_eventAI", "d0/dc2/a17871.html#a8436a87576c92ecc0b45106683d20e93", null ],
+    [ "DoAction", "d0/dc2/a17871.html#a45201c4a5b94fad948efe1d08e63e262", null ],
+    [ "SetData", "d0/dc2/a17871.html#a7f012a54ebce5307940eb7957f028d52", null ],
+    [ "SpellHit", "d0/dc2/a17871.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
+    [ "_index", "d0/dc2/a17871.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
 ];

@@ -1,5 +1,6 @@
 var a10743 =
 [
-    [ "MailScript", "d3/d47/a10743.html#a009eaf9dd8d44427e8e5c91a92ebb5c5", null ],
-    [ "OnBeforeMailDraftSendMailTo", "d3/d47/a10743.html#ab4e3f0552ffc705ef44e8ca6c36f2be7", null ]
+    [ "BattlegroundScript", "d3/d47/a10743.html#a482219a4f398dbc40b33f6e8de6f98e3", null ],
+    [ "GetBattleground", "d3/d47/a10743.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
+    [ "IsDatabaseBound", "d3/d47/a10743.html#a35b571d570c85a861af6f949b51453cb", null ]
 ];

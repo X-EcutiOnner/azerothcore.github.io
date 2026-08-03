@@ -1,8 +1,9 @@
 var a16103 =
 [
-    [ "npc_lakota_windsongAI", "d7/dc7/a16103.html#a922172a38ca75adef66a2653eda7fa98", null ],
-    [ "DoSpawnBandits", "d7/dc7/a16103.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
-    [ "Reset", "d7/dc7/a16103.html#aee7a86275f93021e0e5db249b636bcd4", null ],
-    [ "WaypointReached", "d7/dc7/a16103.html#a6435c8b1521206789131889e5fa527a6", null ],
-    [ "WaypointReached", "d7/dc7/a16103.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "go_wind_stoneAI", "d7/dc7/a16103.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
+    [ "GossipHello", "d7/dc7/a16103.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
+    [ "GossipSelect", "d7/dc7/a16103.html#aff4dedbf3a6fea405722f7064633edb1", null ],
+    [ "InitializeAI", "d7/dc7/a16103.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
+    [ "SummonNPC", "d7/dc7/a16103.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
+    [ "_creatureGuid", "d7/dc7/a16103.html#a50ad8b248381a6d9fac7a291796966d6", null ]
 ];

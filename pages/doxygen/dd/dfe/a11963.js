@@ -1,10 +1,7 @@
 var a11963 =
 [
-    [ "TargetHook", "dd/dfe/a11963.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
-    [ "CheckEffect", "dd/dfe/a11963.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
-    [ "GetTarget", "dd/dfe/a11963.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
-    [ "ToString", "dd/dfe/a11963.html#a424e03e457dc15a2689f344e614a882f", null ],
-    [ "area", "dd/dfe/a11963.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
-    [ "dest", "dd/dfe/a11963.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
-    [ "targetType", "dd/dfe/a11963.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
+    [ "ap_bonus", "dd/dfe/a11963.html#a98410b8bb89434cd7e1747462f8039dc", null ],
+    [ "ap_dot_bonus", "dd/dfe/a11963.html#a09caeec47b138d9eff3539795416a09a", null ],
+    [ "direct_damage", "dd/dfe/a11963.html#abab1af227a6c8e592b8a9bd15589535d", null ],
+    [ "dot_damage", "dd/dfe/a11963.html#a92491d8d1e61612d88c7c830d7912be5", null ]
 ];

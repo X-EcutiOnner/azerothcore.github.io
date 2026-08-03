@@ -1,8 +1,10 @@
 var a08927 =
 [
-    [ "EnchantDuration", "dc/de5/a08927.html#a1ce5f81deaa60494c247673c113632d8", null ],
-    [ "EnchantDuration", "dc/de5/a08927.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
-    [ "item", "dc/de5/a08927.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
-    [ "leftduration", "dc/de5/a08927.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
-    [ "slot", "dc/de5/a08927.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
+    [ "SpellModifier", "dc/de5/a08927.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
+    [ "mask", "dc/de5/a08927.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
+    [ "op", "dc/de5/a08927.html#a21d017f0c8d3108a0eb5f48798103356", null ],
+    [ "ownerAura", "dc/de5/a08927.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
+    [ "spellId", "dc/de5/a08927.html#a465803efab27b2ba0a49c6571b65b908", null ],
+    [ "type", "dc/de5/a08927.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
+    [ "value", "dc/de5/a08927.html#a31742662ba8112c9e9b972897a928e57", null ]
 ];

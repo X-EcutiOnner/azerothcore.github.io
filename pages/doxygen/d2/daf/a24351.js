@@ -1,9 +1,11 @@
 var a24351 =
 [
-    [ "CheckCast", "d2/daf/a24351.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "d2/daf/a24351.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "d2/daf/a24351.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "d2/daf/a24351.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "d2/daf/a24351.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "d2/daf/a24351.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "npc_isla_starmaneAI", "d2/daf/a24351.html#a0cb655d324ddde173dcfdee069c0f694", null ],
+    [ "JustDied", "d2/daf/a24351.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
+    [ "JustEngagedWith", "d2/daf/a24351.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
+    [ "JustRespawned", "d2/daf/a24351.html#a69b395a9b9504737109870c5e8db74c8", null ],
+    [ "UpdateEscortAI", "d2/daf/a24351.html#af4b8c80e7443bb671be253238b124910", null ],
+    [ "WaypointReached", "d2/daf/a24351.html#a5d00583afa4e811e4f3cb8400787a990", null ],
+    [ "WaypointReached", "d2/daf/a24351.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "events", "d2/daf/a24351.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
 ];

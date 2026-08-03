@@ -1,9 +1,6 @@
 var a12091 =
 [
-    [ "CreatureTextLocalizer", "d3/d60/a12091.html#a799f1007b9977224d71da1451c3454e1", null ],
-    [ "~CreatureTextLocalizer", "d3/d60/a12091.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
-    [ "operator()", "d3/d60/a12091.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
-    [ "_builder", "d3/d60/a12091.html#a1d8d97d3e423810d044a8155b182899d", null ],
-    [ "_msgType", "d3/d60/a12091.html#adf9260955b0141e85ff47c66350244e2", null ],
-    [ "_packetCache", "d3/d60/a12091.html#a660b352a1c1855f4b10a8aebef88133f", null ]
+    [ "EffectUpdatePeriodicHandler", "d3/d60/a12091.html#a6b18a259aa84c847bcc064c5243eb590", null ],
+    [ "Call", "d3/d60/a12091.html#a38802863e7859453cbbe58ad91018c67", null ],
+    [ "pEffectHandlerScript", "d3/d60/a12091.html#a0e51245e089fcd9532d5789056ab944c", null ]
 ];

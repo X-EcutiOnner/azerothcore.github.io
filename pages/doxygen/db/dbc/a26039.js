@@ -1,7 +1,7 @@
 var a26039 =
 [
-    [ "HandleProc", "db/dbc/a26039.html#a96626872760ab607782e7e37ca04c709", null ],
-    [ "PrepareAuraScript", "db/dbc/a26039.html#adff2f298c4bf31f82e06986f94a8e73d", null ],
-    [ "Register", "db/dbc/a26039.html#ad2010635f85ec3a96a3cd2b1dcb09f2f", null ],
-    [ "Validate", "db/dbc/a26039.html#a869c5a4800371d63a7b05767262b0a7d", null ]
+    [ "HandleScript", "db/dbc/a26039.html#a5b35bbac405dc2b03f195cb29786d5a6", null ],
+    [ "Load", "db/dbc/a26039.html#a61f1a4514e9900e4e14fded3c0b05593", null ],
+    [ "PrepareSpellScript", "db/dbc/a26039.html#abfac1629b7724a3b17b94480c31867af", null ],
+    [ "Register", "db/dbc/a26039.html#a62b9c194106e261245496441176c8d53", null ]
 ];

@@ -1,9 +1,9 @@
 var a03074 =
 [
-    [ "boss_drakos", "d5/dc2/a19830.html", "d5/dc2/a19830" ],
-    [ "boss_drakos::boss_drakosAI", "d5/d70/a19834.html", "d5/d70/a19834" ],
-    [ "npc_oculus_unstable_sphere", "d0/d76/a19838.html", "d0/d76/a19838" ],
-    [ "npc_oculus_unstable_sphere::npc_oculus_unstable_sphereAI", "df/ddb/a19842.html", "df/ddb/a19842" ],
+    [ "boss_drakos", "d9/d15/a19827.html", "d9/d15/a19827" ],
+    [ "boss_drakos::boss_drakosAI", "db/d5b/a19831.html", "db/d5b/a19831" ],
+    [ "npc_oculus_unstable_sphere", "d0/d93/a19835.html", "d0/d93/a19835" ],
+    [ "npc_oculus_unstable_sphere::npc_oculus_unstable_sphereAI", "d2/dcb/a19839.html", "d2/dcb/a19839" ],
     [ "DrakosNPCs", "d1/d44/a03074.html#a9b6e942098b05e96df3467d6c45f057c", [
       [ "NPC_UNSTABLE_SPHERE", "d1/d44/a03074.html#a9b6e942098b05e96df3467d6c45f057ca6fbda431676e3cb2a0fe335145f2d815", null ]
     ] ],
@@ -2772,6 +2772,7 @@ var a03074 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

@@ -1,7 +1,6 @@
 var a21875 =
 [
-    [ "HandleDummy", "de/d73/a21875.html#a85874062bceced2694fff725649df892", null ],
-    [ "PrepareSpellScript", "de/d73/a21875.html#a47bae4bdc488480f91517465d8e1b784", null ],
-    [ "Register", "de/d73/a21875.html#a7131340678ca685db98e2087661321a9", null ],
-    [ "Validate", "de/d73/a21875.html#af1b74ceee10fc48a0b85d4a284103950", null ]
+    [ "npc_spiritual_insightAI", "de/d73/a21875.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "de/d73/a21875.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "de/d73/a21875.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

@@ -1,7 +1,7 @@
 var a10935 =
 [
-    [ "Emote", "db/ddc/a10935.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
-    [ "Write", "db/ddc/a10935.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
-    [ "EmoteID", "db/ddc/a10935.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
-    [ "Guid", "db/ddc/a10935.html#ab96a1c0933e90872f54eb0995098274a", null ]
+    [ "ClientPacket", "db/ddc/a10935.html#aa1d1946c07e248bae5927e83fdad9500", null ],
+    [ "ClientPacket", "db/ddc/a10935.html#a1cdaaacca2695c4366647c7611073ff0", null ],
+    [ "GetOpcode", "db/ddc/a10935.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
+    [ "Write", "db/ddc/a10935.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
 ];

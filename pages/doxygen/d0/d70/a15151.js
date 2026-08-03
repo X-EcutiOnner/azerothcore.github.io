@@ -1,10 +1,8 @@
 var a15151 =
 [
-    [ "npc_hyjal_frost_wyrm", "d0/d70/a15151.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "d0/d70/a15151.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "d0/d70/a15151.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "d0/d70/a15151.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "d0/d70/a15151.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "d0/d70/a15151.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "d0/d70/a15151.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "npc_doomfire_spirit", "d0/d70/a15151.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
+    [ "Reset", "d0/d70/a15151.html#a0600718fad91723eba74b903583c5942", null ],
+    [ "TryTeleportInDirection", "d0/d70/a15151.html#a7fc48df636df66a006a8179fd63e2a65", null ],
+    [ "UpdateAI", "d0/d70/a15151.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
+    [ "turnConstant", "d0/d70/a15151.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
 ];

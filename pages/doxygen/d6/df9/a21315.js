@@ -1,8 +1,8 @@
 var a21315 =
 [
-    [ "HandleEffectRemove", "d6/df9/a21315.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "d6/df9/a21315.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "d6/df9/a21315.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "d6/df9/a21315.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "d6/df9/a21315.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "CountTargets", "d6/df9/a21315.html#aaf8528038c6b3172d4810ed773f71644", null ],
+    [ "HandleDummy", "d6/df9/a21315.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
+    [ "PrepareSpellScript", "d6/df9/a21315.html#a1f31273cb1826cd07196eacfbdc46673", null ],
+    [ "Register", "d6/df9/a21315.html#adce6a5d920ac616dc0579fcd96c49288", null ],
+    [ "_targetCount", "d6/df9/a21315.html#acfd8832cb9a197dddb034a003b318911", null ]
 ];

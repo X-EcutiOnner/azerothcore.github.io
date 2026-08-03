@@ -1,11 +1,6 @@
 var a27051 =
 [
-    [ "AddTarget", "d2/dd5/a27051.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
-    [ "HandleApply", "d2/dd5/a27051.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
-    [ "HandleEffectPeriodic", "d2/dd5/a27051.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
-    [ "HandleRemove", "d2/dd5/a27051.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
-    [ "PrepareAuraScript", "d2/dd5/a27051.html#abd535f756fae06c9fae613d69ef4e353", null ],
-    [ "Register", "d2/dd5/a27051.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
-    [ "Validate", "d2/dd5/a27051.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
-    [ "_targets", "d2/dd5/a27051.html#ad2467bc150cb08766c57cca23d4d9843", null ]
+    [ "HandleScriptEffect", "d2/dd5/a27051.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
+    [ "PrepareSpellScript", "d2/dd5/a27051.html#a0223c05b5832c64b248e82eba770f7fa", null ],
+    [ "Register", "d2/dd5/a27051.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
 ];

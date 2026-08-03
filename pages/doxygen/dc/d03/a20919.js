@@ -1,11 +1,8 @@
 var a20919 =
 [
-    [ "npc_ulduar_storm_tempered_keeper", "dc/d03/a20919.html#ae4dc8352fd0ff41974a33a4500d19e74", null ],
-    [ "JustDied", "dc/d03/a20919.html#a8051e2b824a6c0df08dafab6e25d6bc7", null ],
-    [ "JustEngagedWith", "dc/d03/a20919.html#a1bd5ba0e92e09953bc1ecb69a61c98f1", null ],
-    [ "JustSummoned", "dc/d03/a20919.html#a9b1f8cd15790dbd179e313546f9754bf", null ],
-    [ "Reset", "dc/d03/a20919.html#a5bbb71bfbeb2c4e09d20a94ed7913183", null ],
-    [ "UpdateAI", "dc/d03/a20919.html#a9f36f099f7db4c3e1a06b8d4082e58c5", null ],
-    [ "events", "dc/d03/a20919.html#a4a79bd561fa63230a52730da20d7143c", null ],
-    [ "otherGUID", "dc/d03/a20919.html#a4fb550c7e49ea5078ec0ab59cda2c6d8", null ]
+    [ "npc_xt_toy_pile", "dc/d03/a20919.html#a843e7d05cf62baa5c006077f8dad107d", null ],
+    [ "SpellHit", "dc/d03/a20919.html#a82af3830eaf524c587334e8eb193925f", null ],
+    [ "_lastSummonTime", "dc/d03/a20919.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
+    [ "SummonCooldown", "dc/d03/a20919.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
+    [ "SummonDistance", "dc/d03/a20919.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
 ];

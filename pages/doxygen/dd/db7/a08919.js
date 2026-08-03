@@ -1,8 +1,7 @@
 var a08919 =
 [
-    [ "BaseRune", "dd/db7/a08919.html#ad5a4b3afd246f5a4c071e3c4f350f132", null ],
-    [ "ConvertAura", "dd/db7/a08919.html#a41c55cb4c1b3f69c6a424359f60e34e1", null ],
-    [ "Cooldown", "dd/db7/a08919.html#a8eeb0f5208c29d43ab493a22f73eb0a6", null ],
-    [ "CurrentRune", "dd/db7/a08919.html#a2cebb551231f0364a1751e5d1a37fcda", null ],
-    [ "GracePeriod", "dd/db7/a08919.html#a3fa13f205dbaaca5bdcc7406f73b4e6a", null ]
+    [ "IsInSpec", "dd/db7/a08919.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
+    [ "Active", "dd/db7/a08919.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
+    [ "specMask", "dd/db7/a08919.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
+    [ "State", "dd/db7/a08919.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
 ];

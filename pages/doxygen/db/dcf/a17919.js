@@ -1,5 +1,17 @@
 var a17919 =
 [
-    [ "npc_zafod_boomboxAI", "db/dcf/a17919.html#a6540d8f5787ce1da211123721ef659f3", null ],
-    [ "sGossipSelect", "db/dcf/a17919.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
+    [ "boss_festergutAI", "db/dcf/a17919.html#a7649f45cfc8bf05bf46b4e50319b4fb3", null ],
+    [ "EnterEvadeMode", "db/dcf/a17919.html#a001e00435bb01b464573dbff8338c64a", null ],
+    [ "GetData", "db/dcf/a17919.html#aea4509b130c9b5a8a5dd054ac8783312", null ],
+    [ "JustDied", "db/dcf/a17919.html#abd0f4f55cfb026d0e25ff7a825d390d1", null ],
+    [ "JustEngagedWith", "db/dcf/a17919.html#ad5538ae8933a4fd492ab45560dea785e", null ],
+    [ "JustReachedHome", "db/dcf/a17919.html#a7e371063b84df1f8fe1df1a5bff38ca9", null ],
+    [ "KilledUnit", "db/dcf/a17919.html#a3af6cacb219928c3c89f7ce3d980ae88", null ],
+    [ "RemoveBlight", "db/dcf/a17919.html#a5807cd013ebe935f69bc1824386afd72", null ],
+    [ "Reset", "db/dcf/a17919.html#aeb046d9ef4aa9b7b94aa1ee1727ab1be", null ],
+    [ "SetData", "db/dcf/a17919.html#af8678cd7e9ddd7ef8095217e4820e7af", null ],
+    [ "UpdateAI", "db/dcf/a17919.html#ac2b9e850d425336f2bdc6a1d9a707fa0", null ],
+    [ "_gasDummyGUID", "db/dcf/a17919.html#a742b6ab0990d54e011ac36fde2c2cca2", null ],
+    [ "_inhaleCounter", "db/dcf/a17919.html#aed5b7fce1ebf9f76fffa2ba682c54b4e", null ],
+    [ "_maxInoculatedStack", "db/dcf/a17919.html#aeda8f6f959f7b7bd311aabde940a05ca", null ]
 ];

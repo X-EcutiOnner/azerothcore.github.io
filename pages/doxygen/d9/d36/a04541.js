@@ -1,8 +1,8 @@
 var a04541 =
 [
-    [ "boss_rajaxx", "db/da1/a15574.html", "db/da1/a15574" ],
-    [ "spell_rajaxx_thundercrash", "d8/d99/a15578.html", "d8/d99/a15578" ],
-    [ "npc_general_andorov", "d3/d65/a15582.html", "d3/d65/a15582" ],
+    [ "boss_rajaxx", "d8/d72/a15571.html", "d8/d72/a15571" ],
+    [ "spell_rajaxx_thundercrash", "d2/d7b/a15575.html", "d2/d7b/a15575" ],
+    [ "npc_general_andorov", "d3/dc9/a15579.html", "d3/dc9/a15579" ],
     [ "AndorovMisc", "d9/d36/a04541.html#adfc3eda6f1c0f62c59171b07b63a3b70", [
       [ "FACTION_ANDOROV_ESCORT", "d9/d36/a04541.html#adfc3eda6f1c0f62c59171b07b63a3b70a5f587733fae72c0e10bf101bdf781343", null ],
       [ "SPELL_AURA_OF_COMMAND", "d9/d36/a04541.html#adfc3eda6f1c0f62c59171b07b63a3b70a66c411861d5bf2a38581a29d3e18ddbc", null ],
@@ -2780,6 +2780,7 @@ var a04541 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

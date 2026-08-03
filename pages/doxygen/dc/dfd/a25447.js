@@ -1,6 +1,6 @@
 var a25447 =
 [
-    [ "HandleStackDrop", "dc/dfd/a25447.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
-    [ "PrepareAuraScript", "dc/dfd/a25447.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
-    [ "Register", "dc/dfd/a25447.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
+    [ "HandleScriptEffect", "dc/dfd/a25447.html#a78a131bdf6a1406604edd130c28d664b", null ],
+    [ "PrepareSpellScript", "dc/dfd/a25447.html#a3b2d739227e57667a284ae4600ec1bb6", null ],
+    [ "Register", "dc/dfd/a25447.html#a8a70913369aa733160366f37ff1c3470", null ]
 ];

@@ -1,8 +1,11 @@
 var a16559 =
 [
-    [ "Load", "df/d68/a16559.html#a55dc086667f0fe23e513608e951276ed", null ],
-    [ "Phase", "df/d68/a16559.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
-    [ "PrepareSpellScript", "df/d68/a16559.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
-    [ "Register", "df/d68/a16559.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
-    [ "Validate", "df/d68/a16559.html#a87192df547adaf3cb060155d9cf4da79", null ]
+    [ "boss_general_zarithrianAI", "df/d68/a16559.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "df/d68/a16559.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "df/d68/a16559.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "df/d68/a16559.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "df/d68/a16559.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "df/d68/a16559.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "df/d68/a16559.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "df/d68/a16559.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

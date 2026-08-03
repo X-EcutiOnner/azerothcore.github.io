@@ -1,7 +1,7 @@
 var a17051 =
 [
-    [ "HandleAfterEffectAbsorb", "d2/d59/a17051.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "d2/d59/a17051.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "d2/d59/a17051.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "d2/d59/a17051.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "FilterTargets", "d2/d59/a17051.html#a304da18e36ff67c34b80ab39583f8c96", null ],
+    [ "HandleScript", "d2/d59/a17051.html#adf99670bcf862288f513d2a26cbc256a", null ],
+    [ "PrepareSpellScript", "d2/d59/a17051.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
+    [ "Register", "d2/d59/a17051.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
 ];

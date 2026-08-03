@@ -1,6 +1,6 @@
 var a16679 =
 [
-    [ "boss_black_knightAI", "df/d54/a16683.html", "df/d54/a16683" ],
-    [ "boss_black_knight", "d0/d25/a16679.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "d0/d25/a16679.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "npc_living_infernoAI", "df/d54/a16683.html", "df/d54/a16683" ],
+    [ "npc_living_inferno", "d0/d25/a16679.html#a7df2bb522e67b6f1864604c7b0182078", null ],
+    [ "GetAI", "d0/d25/a16679.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
 ];

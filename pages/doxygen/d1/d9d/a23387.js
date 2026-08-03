@@ -1,6 +1,6 @@
 var a23387 =
 [
-    [ "HandleHit", "d1/d9d/a23387.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
-    [ "PrepareSpellScript", "d1/d9d/a23387.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
-    [ "Register", "d1/d9d/a23387.html#acb1b681f587817614c2b3684585369db", null ]
+    [ "boss_rokmar_the_crackler", "d1/d9d/a23387.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "d1/d9d/a23387.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "d1/d9d/a23387.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

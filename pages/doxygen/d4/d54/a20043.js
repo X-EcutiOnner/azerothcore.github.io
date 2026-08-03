@@ -1,6 +1,6 @@
 var a20043 =
 [
-    [ "HandleInstaKill", "d4/d54/a20043.html#a9371a2cc86616fd04e47939d45f01cae", null ],
-    [ "PrepareSpellScript", "d4/d54/a20043.html#a38eed301f1db3ea7ac15b626e5927500", null ],
-    [ "Register", "d4/d54/a20043.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "da/d00/a20047.html", "da/d00/a20047" ],
+    [ "boss_sjonnir_malformed_ooze", "d4/d54/a20043.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "d4/d54/a20043.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

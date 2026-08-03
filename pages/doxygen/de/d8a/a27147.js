@@ -1,6 +1,7 @@
 var a27147 =
 [
-    [ "CheckProc", "de/d8a/a27147.html#ae8f06d0b6738c92a2e4a45fe0ca81cb9", null ],
-    [ "PrepareAuraScript", "de/d8a/a27147.html#aafd3eba8af1edb89ded08b056f9b497c", null ],
-    [ "Register", "de/d8a/a27147.html#aeb1d84b45afc05b8b9ca5cea2a50f5a4", null ]
+    [ "HandleDummy", "de/d8a/a27147.html#ad2367c1fd551187b6f19f795abb15ea6", null ],
+    [ "PrepareSpellScript", "de/d8a/a27147.html#a125f7550ce826f74ac14902bc82d5021", null ],
+    [ "Register", "de/d8a/a27147.html#a35e9132e2414383caafbde699de6061d", null ],
+    [ "Validate", "de/d8a/a27147.html#a530489a10287a6dd281d518683b1a3f3", null ]
 ];

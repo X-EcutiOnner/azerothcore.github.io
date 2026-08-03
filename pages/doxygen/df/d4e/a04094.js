@@ -1,6 +1,6 @@
 var a04094 =
 [
-    [ "npc_king_magni_bronzebeard", "df/dfe/a14038.html", "df/dfe/a14038" ],
+    [ "npc_king_magni_bronzebeard", "d6/d2a/a14043.html", "d6/d2a/a14043" ],
     [ "KingMagniBronzebeard", "df/d4e/a04094.html#a4b1dfd5f3e79f13d25d2d89aa1469c3e", [
       [ "SOUND_AGGRO", "df/d4e/a04094.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa", null ],
       [ "SPELL_AVATAR", "df/d4e/a04094.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35", null ],

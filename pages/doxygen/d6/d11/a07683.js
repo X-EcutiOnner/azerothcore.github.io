@@ -1,12 +1,9 @@
 var a07683 =
 [
-    [ "BGQueueRemoveEvent", "d6/d11/a07683.html#ab751b728f64b2928eefb21f756539d81", null ],
-    [ "~BGQueueRemoveEvent", "d6/d11/a07683.html#aab9ea24041888975439aafb246c571c3", null ],
-    [ "Abort", "d6/d11/a07683.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
-    [ "Execute", "d6/d11/a07683.html#a42482ff784da4b23b568888a74a0b531", null ],
-    [ "m_BgInstanceGUID", "d6/d11/a07683.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
-    [ "m_BgQueueTypeId", "d6/d11/a07683.html#ac059a823ae49bd0250eec15845bf153b", null ],
-    [ "m_BgTypeId", "d6/d11/a07683.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
-    [ "m_PlayerGuid", "d6/d11/a07683.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
-    [ "m_RemoveTime", "d6/d11/a07683.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
+    [ "Rank", "d6/d11/a07683.html#a9bcd8dc00437bcf015565eeb43263578", null ],
+    [ "Rating", "d6/d11/a07683.html#ab43875cc3ae58eb636a490c2c0f5c1f6", null ],
+    [ "SeasonGames", "d6/d11/a07683.html#a124c6d64f22c13707764eedd79fe1912", null ],
+    [ "SeasonWins", "d6/d11/a07683.html#ad274601b85ea634524b1c00979e09465", null ],
+    [ "WeekGames", "d6/d11/a07683.html#a1d0092200b2c9428e821473949cfda77", null ],
+    [ "WeekWins", "d6/d11/a07683.html#a313afef901bd5a9347f2074a7ca1bfe0", null ]
 ];

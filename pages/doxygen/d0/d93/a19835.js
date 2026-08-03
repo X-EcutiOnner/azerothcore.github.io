@@ -1,6 +1,6 @@
 var a19835 =
 [
-    [ "CalculateDamage", "d0/d93/a19835.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "d0/d93/a19835.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "d0/d93/a19835.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "npc_oculus_unstable_sphereAI", "d2/dcb/a19839.html", "d2/dcb/a19839" ],
+    [ "npc_oculus_unstable_sphere", "d0/d93/a19835.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
+    [ "GetAI", "d0/d93/a19835.html#adda2a9e7eab03444742e85729673ab2f", null ]
 ];

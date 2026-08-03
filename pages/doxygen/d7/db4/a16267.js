@@ -1,6 +1,6 @@
 var a16267 =
 [
-    [ "ModDestHeight", "d7/db4/a16267.html#a8bda9327c4244af41c513528ad5c818c", null ],
-    [ "PrepareSpellScript", "d7/db4/a16267.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
-    [ "Register", "d7/db4/a16267.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
+    [ "HandleOpenLock", "d7/db4/a16267.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "d7/db4/a16267.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "d7/db4/a16267.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

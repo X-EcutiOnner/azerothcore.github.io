@@ -1,12 +1,9 @@
 var a29463 =
 [
-    [ "SetUp", "d4/ddd/a29463.html#a58cd90b7a71da405118c094ff47fc6ca", null ],
-    [ "TearDown", "d4/ddd/a29463.html#a07e717efe62018e9f8f646a81afbb567", null ],
-    [ "PERM_A", "d4/ddd/a29463.html#a38613fb2c500e82fe60a520cfa67e754", null ],
-    [ "PERM_B", "d4/ddd/a29463.html#a4e9d8cbc4d41fa8dfbbf600bb8188b4c", null ],
-    [ "PERM_C", "d4/ddd/a29463.html#a819e1345b06cac6338459683c702d355", null ],
-    [ "PERM_MOD_1", "d4/ddd/a29463.html#a4069369cc39fcca52fa6430a4778d86f", null ],
-    [ "ROLE_PLAYER", "d4/ddd/a29463.html#a72830036ef06ce28131379219963c7cb", null ],
-    [ "SEC_MODERATOR", "d4/ddd/a29463.html#abe3cf16e5aeaf4ca6ef0e8c989ef6917", null ],
-    [ "SEC_PLAYER", "d4/ddd/a29463.html#a411050ede39af85c2846fcc154f140e3", null ]
+    [ "adtId", "d4/ddd/a29463.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
+    [ "areaId", "d4/ddd/a29463.html#a7f652c68036429350543fc5a2cc6861e", null ],
+    [ "Flags", "d4/ddd/a29463.html#a60f9a61948d1e28587c9d1a338730f37", null ],
+    [ "groupId", "d4/ddd/a29463.html#a09052bad3028899580ffedd556672b64", null ],
+    [ "Id", "d4/ddd/a29463.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
+    [ "rootId", "d4/ddd/a29463.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
 ];

@@ -1,8 +1,7 @@
 var a13747 =
 [
-    [ "npc_demonic_vapor", "d6/d83/a13747.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
-    [ "IsSummonedBy", "d6/d83/a13747.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
-    [ "Reset", "d6/d83/a13747.html#a7d2b88ab26904cedaac34f03567806bc", null ],
-    [ "UpdateAI", "d6/d83/a13747.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
-    [ "_timer", "d6/d83/a13747.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
+    [ "HandleScriptEffect", "d6/d83/a13747.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
+    [ "PrepareSpellScript", "d6/d83/a13747.html#af9deee89e837e07486a7555632008eb2", null ],
+    [ "Register", "d6/d83/a13747.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
+    [ "Validate", "d6/d83/a13747.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
 ];

@@ -1,8 +1,9 @@
 var a05163 =
 [
-    [ "ByteSize", "d5/df1/a11494.html", "d5/df1/a11494" ],
-    [ "Hyperlinks", "dc/d77/a11502.html", "dc/d77/a11502" ],
-    [ "NoHyperlinks", "da/d63/a11506.html", "da/d63/a11506" ],
-    [ "RawBytes", "d6/d9d/a11490.html", "d6/d9d/a11490" ],
-    [ "Utf8", "de/d9f/a11498.html", "de/d9f/a11498" ]
+    [ "Hello", "d9/d63/a11455.html", "d9/d63/a11455" ],
+    [ "TrainerBuyFailed", "d2/d52/a11471.html", "d2/d52/a11471" ],
+    [ "TrainerBuySpell", "d5/d79/a11467.html", "d5/d79/a11467" ],
+    [ "TrainerBuySucceeded", "df/dab/a11475.html", "df/dab/a11475" ],
+    [ "TrainerList", "d1/d27/a11463.html", "d1/d27/a11463" ],
+    [ "TrainerListSpell", "de/d80/a11459.html", "de/d80/a11459" ]
 ];

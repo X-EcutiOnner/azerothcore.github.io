@@ -1,6 +1,11 @@
 var a17711 =
 [
-    [ "boss_blood_queen_lana_thelAI", "dc/ded/a17715.html", "dc/ded/a17715" ],
-    [ "boss_blood_queen_lana_thel", "de/d80/a17711.html#a9f8fa906f01082caacd106abc2707b07", null ],
-    [ "GetAI", "de/d80/a17711.html#a7873efd945bdb24228866f639e32879b", null ]
+    [ "npc_blood_queen_lana_thelAI", "de/d80/a17711.html#a7b099b90600e433e304dee1f356a9909", null ],
+    [ "MoveInLineOfSight", "de/d80/a17711.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
+    [ "MovementInform", "de/d80/a17711.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
+    [ "Reset", "de/d80/a17711.html#a539b0e158c800e1aade54f37aa99751e", null ],
+    [ "UpdateAI", "de/d80/a17711.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
+    [ "_events", "de/d80/a17711.html#a8ec7641bab991fc584b066fae55690bf", null ],
+    [ "_instance", "de/d80/a17711.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
+    [ "_introDone", "de/d80/a17711.html#a40c642758a751e072e41343bb75ad306", null ]
 ];

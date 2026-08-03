@@ -1,7 +1,9 @@
 var a18959 =
 [
-    [ "npc_frost_freeze_trapAI", "d2/d7c/a18959.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
-    [ "DoAction", "d2/d7c/a18959.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
-    [ "UpdateAI", "d2/d7c/a18959.html#ae8efccb090f38968f3c0ca51f022013b", null ],
-    [ "_events", "d2/d7c/a18959.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
+    [ "npc_gluttonous_abominationAI", "d2/d7c/a18959.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
+    [ "JustDied", "d2/d7c/a18959.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
+    [ "JustSummoned", "d2/d7c/a18959.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
+    [ "Reset", "d2/d7c/a18959.html#a45588181429a74ac024e0390c76fa57a", null ],
+    [ "UpdateAI", "d2/d7c/a18959.html#a33ef03a9f005ff187493275a9c2683a7", null ],
+    [ "_events", "d2/d7c/a18959.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
 ];

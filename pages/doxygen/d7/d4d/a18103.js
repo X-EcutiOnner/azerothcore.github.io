@@ -1,6 +1,9 @@
 var a18103 =
 [
-    [ "npc_vengeful_shadeAI", "d2/d47/a18107.html", "d2/d47/a18107" ],
-    [ "npc_vengeful_shade", "d7/d4d/a18103.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "d7/d4d/a18103.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "HandleApply", "d7/d4d/a18103.html#a5f23d41765ec949486094a0da45be7e8", null ],
+    [ "HandleRemove", "d7/d4d/a18103.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
+    [ "Load", "d7/d4d/a18103.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
+    [ "PrepareAuraScript", "d7/d4d/a18103.html#aabf5fdf4578935db11e041e638fba187", null ],
+    [ "Register", "d7/d4d/a18103.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
+    [ "SendClientControl", "d7/d4d/a18103.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
 ];

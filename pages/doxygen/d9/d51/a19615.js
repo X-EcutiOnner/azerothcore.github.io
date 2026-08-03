@@ -1,7 +1,10 @@
 var a19615 =
 [
-    [ "FilterTargets", "d9/d51/a19615.html#a6beccd163ab8442a1ed39c553716cb73", null ],
-    [ "Load", "d9/d51/a19615.html#a5df67c2dbd14a75435f68939240daae6", null ],
-    [ "PrepareSpellScript", "d9/d51/a19615.html#a5be9bf364ae2dece862ed1eee93f9294", null ],
-    [ "Register", "d9/d51/a19615.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e", null ]
+    [ "boss_patchwerkAI", "d9/d51/a19615.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "d9/d51/a19615.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "d9/d51/a19615.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "d9/d51/a19615.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "d9/d51/a19615.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "d9/d51/a19615.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "d9/d51/a19615.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

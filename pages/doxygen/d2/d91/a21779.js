@@ -1,10 +1,6 @@
 var a21779 =
 [
-    [ "npc_Apothecary_HanesAI", "d2/d91/a21779.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
-    [ "JustDied", "d2/d91/a21779.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
-    [ "Reset", "d2/d91/a21779.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
-    [ "UpdateEscortAI", "d2/d91/a21779.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
-    [ "WaypointReached", "d2/d91/a21779.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
-    [ "WaypointReached", "d2/d91/a21779.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "PotTimer", "d2/d91/a21779.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d2/d91/a21779.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
+    [ "MovementInform", "d2/d91/a21779.html#a999bc868db485578fcc70ae7e056b778", null ],
+    [ "Reset", "d2/d91/a21779.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
 ];

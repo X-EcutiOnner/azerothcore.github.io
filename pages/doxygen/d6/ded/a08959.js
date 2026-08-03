@@ -1,9 +1,5 @@
 var a08959 =
 [
-    [ "EntryPointData", "d6/ded/a08959.html#a1852523ba9ca889cdd6731c63de759e2", null ],
-    [ "ClearTaxiPath", "d6/ded/a08959.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
-    [ "HasTaxiPath", "d6/ded/a08959.html#afd310b2f367ec7df76f01689ea120e6e", null ],
-    [ "joinPos", "d6/ded/a08959.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
-    [ "mountSpell", "d6/ded/a08959.html#a06e1cadac24a2ab90e57373692f829dc", null ],
-    [ "taxiPath", "d6/ded/a08959.html#a5af670fa420b250c22e0f3237e753a6f", null ]
+    [ "Rank", "d6/ded/a08959.html#a61797c7cb799308a7c20a954d287be17", null ],
+    [ "SkillId", "d6/ded/a08959.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
 ];

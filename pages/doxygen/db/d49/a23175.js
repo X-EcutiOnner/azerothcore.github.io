@@ -1,13 +1,14 @@
 var a23175 =
 [
-    [ "boss_ghazan", "db/d49/a23175.html#ae730362fcf3606c67b6b85147de98fb6", null ],
-    [ "DoAction", "db/d49/a23175.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
-    [ "InitializeAI", "db/d49/a23175.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
-    [ "JustEngagedWith", "db/d49/a23175.html#ad4136f0f63d267284f36756793c0efa7", null ],
-    [ "JustReachedHome", "db/d49/a23175.html#af9f2dd854036d5c8b9c6703499836199", null ],
-    [ "MovementInform", "db/d49/a23175.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
-    [ "Reset", "db/d49/a23175.html#afc9522a26060643f2f9d25a8a98691b7", null ],
-    [ "UpdateAI", "db/d49/a23175.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
-    [ "_movedToPlatform", "db/d49/a23175.html#aa6c0c391355ac0b698d67796efd63062", null ],
-    [ "_reachedPlatform", "db/d49/a23175.html#af3476318b4721bd52facaf735eabb1f9", null ]
+    [ "boss_hydross_the_unstable", "db/d49/a23175.html#a8e385f4f7f448033b00828540aa16cde", null ],
+    [ "JustDied", "db/d49/a23175.html#ad05fa00eade9614ed54b03a9a4d5d348", null ],
+    [ "JustEngagedWith", "db/d49/a23175.html#a4fd2138ce9962d89410b57702d7df33d", null ],
+    [ "JustReachedHome", "db/d49/a23175.html#a03cbe48effc4cd3a2821312e60578ed4", null ],
+    [ "JustSummoned", "db/d49/a23175.html#a3e9031d95c9e62cbd83eeba4af6c965a", null ],
+    [ "KilledUnit", "db/d49/a23175.html#a252d3abdf24c06922c88823bc5e535f3", null ],
+    [ "Reset", "db/d49/a23175.html#a0bcad41c74800ab58df8b5ea54d2ec8e", null ],
+    [ "SetForm", "db/d49/a23175.html#ac80b0611533998d15406d45385d37629", null ],
+    [ "SummonedCreatureDespawn", "db/d49/a23175.html#afe4b76f528045506586f8289eaee27aa", null ],
+    [ "SummonMovementInform", "db/d49/a23175.html#af74b63bf239de38f8dd04e69a6ea2b54", null ],
+    [ "SummonTaintedElementalOOC", "db/d49/a23175.html#a219094dc5a81acb7d7ae86d5d7945da8", null ]
 ];

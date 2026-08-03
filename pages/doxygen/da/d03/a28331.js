@@ -1,6 +1,5 @@
 var a28331 =
 [
-    [ "npc_experience", "da/d03/a28331.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "da/d03/a28331.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "da/d03/a28331.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "go_dragonflayer_cage", "da/d03/a28331.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "da/d03/a28331.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

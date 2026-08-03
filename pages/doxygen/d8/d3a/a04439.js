@@ -1,7 +1,7 @@
 var a04439 =
 [
-    [ "boss_sartura", "dd/dae/a15702.html", "dd/dae/a15702" ],
-    [ "npc_sartura_royal_guard", "d1/dc1/a15706.html", "d1/dc1/a15706" ],
+    [ "boss_sartura", "d5/d94/a15699.html", "d5/d94/a15699" ],
+    [ "npc_sartura_royal_guard", "d7/d63/a15703.html", "d7/d63/a15703" ],
     [ "events", "d8/d3a/a04439.html#ad29858f6d8ab73f2970f41cb21a76b84", [
       [ "EVENT_SARTURA_WHIRLWIND", "d8/d3a/a04439.html#ad29858f6d8ab73f2970f41cb21a76b84ab9ca33cc16c2b82d1ff2f4361607d180", null ],
       [ "EVENT_SARTURA_WHIRLWIND_RANDOM", "d8/d3a/a04439.html#ad29858f6d8ab73f2970f41cb21a76b84a0963f59968bcf20bcda9da76e151f691", null ],
@@ -18,28 +18,7 @@ var a04439 =
       [ "EVENT_GROUND_SLAM", "db/d6c/a02969.html#ad29858f6d8ab73f2970f41cb21a76b84a715b039dea752d6c6c517cb12c503e5e", null ],
       [ "EVENT_GROUND_SPIKE", "db/d6c/a02969.html#ad29858f6d8ab73f2970f41cb21a76b84a990d801452a3350349a1834c5905a761", null ],
       [ "EVENT_SHATTER", "db/d6c/a02969.html#ad29858f6d8ab73f2970f41cb21a76b84a67fb1e75418e5f4394f0dea3f005a0bf", null ],
-      [ "EVENT_REMOVE_STONED", "db/d6c/a02969.html#ad29858f6d8ab73f2970f41cb21a76b84a0f0428ad90955e9b7bfc3992f60d4d4e", null ],
-      [ "EVENT_ABEDNEUM_VISUAL", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a0c99f199ddac08f2f22b41e25053f3bc", null ],
-      [ "EVENT_KADDRAK_VISUAL", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84abaf9e84448ce010882f5bb58131cb290", null ],
-      [ "EVENT_MARNAK_VISUAL", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a053edfcb70fba8dc373d09c67cf5d44b", null ],
-      [ "EVENT_ABEDNEUM_HEAD", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a0fc69f85ba7f434cd1748dc07a4f8847", null ],
-      [ "EVENT_KADDRAK_HEAD", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84af6f3efd93b28ae89ffedf7ee06b85232", null ],
-      [ "EVENT_MARNAK_HEAD", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84ae9a82c765c1953aa759a7e8fe4ab3e32", null ],
-      [ "EVENT_KADDRAK_SWITCH_EYE", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a617aeb68cc0e9d66a2b553b95f3c9b8e", null ],
-      [ "EVENT_SUMMON_MONSTERS", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a5a55fcd60a599ecaeb0fbed7ca34fab6", null ],
-      [ "EVENT_SUMMON_STORMCALLER", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a192b5e7085565e5d38f9e733cd5500b3", null ],
-      [ "EVENT_SUMMON_CUSTODIAN", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84af9f86979a32a911283c8ceec6562bec1", null ],
-      [ "EVENT_DARK_MATTER_START", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a36f49ab8665772a869203d9ddce12fc5", null ],
-      [ "EVENT_DARK_MATTER_END", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a92f4e9c52e32718866c881412db387df", null ],
-      [ "EVENT_TRIBUNAL_END", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a4d21f6b1d525bb698e543bd65a2df849", null ],
-      [ "EVENT_BREEN_WAITING", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a1bac27c9c1397829d321f2e835c5fc32", null ],
-      [ "EVENT_TALK_FACE_CHANGE", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a3dec7366e61b1063a5dae6662f6d495a", null ],
-      [ "EVENT_SKY_ROOM_FLOOR_CHANGE", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a39bf43d92d488b98bc985d81835a30f3", null ],
-      [ "EVENT_GO_TO_SJONNIR", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a64eed60887955b393f1fb523df7b8423", null ],
-      [ "EVENT_DOOR_OPEN", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a9e0a63e0752a49e2d88d16f9c0ea1f31", null ],
-      [ "EVENT_RESUME_ESCORT", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a9ae1710782337208a17c60c46b94b664", null ],
-      [ "EVENT_SJONNIR_END_BRANN_YELL", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84a8c6a534f5136ea5afc39456abb238709", null ],
-      [ "EVENT_SJONNIR_END_BRANN_LAST_YELL", "d7/d93/a02981.html#ad29858f6d8ab73f2970f41cb21a76b84afd5ace2f46f54788b16af10faadbe086", null ]
+      [ "EVENT_REMOVE_STONED", "db/d6c/a02969.html#ad29858f6d8ab73f2970f41cb21a76b84a0f0428ad90955e9b7bfc3992f60d4d4e", null ]
     ] ],
     [ "Says", "d8/d3a/a04439.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_START_FIGHT", "d9/d83/a03839.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e", null ],
@@ -2109,6 +2088,7 @@ var a04439 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

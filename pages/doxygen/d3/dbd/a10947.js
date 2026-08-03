@@ -1,10 +1,6 @@
 var a10947 =
 [
-    [ "EnvironmentalDamageLog", "d3/dbd/a10947.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
-    [ "Write", "d3/dbd/a10947.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
-    [ "Absorbed", "d3/dbd/a10947.html#a443df04be3afe2021532716140ffb099", null ],
-    [ "Amount", "d3/dbd/a10947.html#a073e22176d44f5806313c2a4bd3e263a", null ],
-    [ "Resisted", "d3/dbd/a10947.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
-    [ "Type", "d3/dbd/a10947.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
-    [ "Victim", "d3/dbd/a10947.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
+    [ "BuyBankSlot", "d3/dbd/a10947.html#a0bc11087e9359c6ac762f915b11287d8", null ],
+    [ "Read", "d3/dbd/a10947.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
+    [ "Banker", "d3/dbd/a10947.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
 ];

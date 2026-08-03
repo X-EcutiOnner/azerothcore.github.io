@@ -1,7 +1,7 @@
 var a05735 =
 [
-    [ "Lock", "d1/d64/a05739.html", "d1/d64/a05739" ],
-    [ "ClassLevelLockable", "d0/df5/a05735.html#a507181347374b55f335a9e872293c6e0", null ],
-    [ "Lock", "d0/df5/a05735.html#a5bf7608e05250fb524a1229bcf83ece3", null ],
-    [ "si_mtx", "d0/df5/a05735.html#a2bcba35930178d1cd094ed1c34320997", null ]
+    [ "MetricStopWatch", "d0/df5/a05735.html#a2007207e0985949f478fdeee300ea0d5", null ],
+    [ "~MetricStopWatch", "d0/df5/a05735.html#a712b660e090531e69455096afeb60c4c", null ],
+    [ "_logger", "d0/df5/a05735.html#a3af6d8a1a621f5e39b2d691ffbe2375c", null ],
+    [ "_startTime", "d0/df5/a05735.html#a74ad62e26a4f6598c76ca5c2d928d3a2", null ]
 ];

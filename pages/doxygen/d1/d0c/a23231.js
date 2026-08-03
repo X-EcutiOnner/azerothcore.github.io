@@ -1,8 +1,6 @@
 var a23231 =
 [
-    [ "npc_underbat", "d1/d0c/a23231.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "d1/d0c/a23231.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "d1/d0c/a23231.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "d1/d0c/a23231.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "d1/d0c/a23231.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "HandleDummy", "d1/d0c/a23231.html#a3347413822ce083085bcf1418fbdbae2", null ],
+    [ "PrepareSpellScript", "d1/d0c/a23231.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
+    [ "Register", "d1/d0c/a23231.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
 ];

@@ -1,11 +1,10 @@
 var a11627 =
 [
-    [ "OptionalData", "d2/d00/a11631.html", "d2/d00/a11631" ],
-    [ "ArrivalTicks", "d9/d6f/a11627.html#a8fa635d0c8f77a0e39fd66501490f6ea", null ],
-    [ "ConnectionId", "d9/d6f/a11627.html#abe8700ec99d55a66b22f8fbb28c833fa", null ],
-    [ "Direction", "d9/d6f/a11627.html#a03a38a8ceed9eb1ea5585fcfb1ab29b8", null ],
-    [ "Length", "d9/d6f/a11627.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc", null ],
-    [ "Opcode", "d9/d6f/a11627.html#a7fcc9281cd10ecf79929f9f17c855b65", null ],
-    [ "OptionalData", "d9/d6f/a11627.html#aa5219ee4193cccf913dabf6db5d6f57a", null ],
-    [ "OptionalDataSize", "d9/d6f/a11627.html#a03b79fe07bd5f0a1c254f2fb92a3ecba", null ]
+    [ "QuestUpdateAddKill", "d9/d6f/a11627.html#ac6e44b351690b0a24565a13cad87ec89", null ],
+    [ "Write", "d9/d6f/a11627.html#a6f2392423f15178d7a07665a808e6e64", null ],
+    [ "CreatureEntry", "d9/d6f/a11627.html#abc41116b77ad21277dbf88b7c904bfe7", null ],
+    [ "CurrentCount", "d9/d6f/a11627.html#a6427713c318210153964d9ee29df155b", null ],
+    [ "ObjectiveGuid", "d9/d6f/a11627.html#a00e241b298e0351d26c59ac59df3ad62", null ],
+    [ "QuestId", "d9/d6f/a11627.html#a9f7eccb75e106acd2d8a1372aa85fd4f", null ],
+    [ "RequiredCount", "d9/d6f/a11627.html#a0a1a4435755f778bb263ad65d305a5e9", null ]
 ];

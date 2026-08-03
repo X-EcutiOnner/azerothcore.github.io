@@ -1,10 +1,10 @@
 var a16547 =
 [
-    [ "spell_halion_marks_aura", "d7/d8e/a16547.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
-    [ "BeforeDispel", "d7/d8e/a16547.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
-    [ "OnRemove", "d7/d8e/a16547.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
-    [ "PrepareAuraScript", "d7/d8e/a16547.html#acd5285ea5c378b31526440d263c54770", null ],
-    [ "Register", "d7/d8e/a16547.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
-    [ "_removeSpellId", "d7/d8e/a16547.html#aeef9d928c6a8739337251e144558b169", null ],
-    [ "_summonSpellId", "d7/d8e/a16547.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
+    [ "npc_xerestraszaAI", "d7/d8e/a16547.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
+    [ "DoAction", "d7/d8e/a16547.html#af696ecee315892b2bf0233113d2f89f9", null ],
+    [ "Reset", "d7/d8e/a16547.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
+    [ "UpdateAI", "d7/d8e/a16547.html#a6389ab58f4b44c668590113ec75f2adf", null ],
+    [ "_events", "d7/d8e/a16547.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
+    [ "_introDone", "d7/d8e/a16547.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
+    [ "_isIntro", "d7/d8e/a16547.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
 ];

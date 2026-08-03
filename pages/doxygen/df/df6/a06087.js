@@ -1,10 +1,11 @@
 var a06087 =
 [
-    [ "PreparedStatementTask", "df/df6/a06087.html#a332f6ddad1ee338da3fa4bd2461a9c29", null ],
-    [ "~PreparedStatementTask", "df/df6/a06087.html#a4ca96ab46d5015b2c673164652146886", null ],
-    [ "Execute", "df/df6/a06087.html#ad4058410f5eba4f0f935696d38ba85ab", null ],
-    [ "GetFuture", "df/df6/a06087.html#a07031e5cff28553e33d98140847b9e0d", null ],
-    [ "m_has_result", "df/df6/a06087.html#a7c2841b7638c42caa4e8c1116110f8a3", null ],
-    [ "m_result", "df/df6/a06087.html#a841a7aefd9ea58a76cead1da65a786b2", null ],
-    [ "m_stmt", "df/df6/a06087.html#aba9082a717729915a4e4d640220a49d2", null ]
+    [ "DatabaseWorker", "df/df6/a06087.html#a64450680e7b6e31bb42ce4f79788eb27", null ],
+    [ "~DatabaseWorker", "df/df6/a06087.html#a170c873cbc917ece6a87591450dbe5a9", null ],
+    [ "DatabaseWorker", "df/df6/a06087.html#aa43f1d875400b0ba6c031e0811397ed3", null ],
+    [ "operator=", "df/df6/a06087.html#a15e753c757da609b55a66380f526091a", null ],
+    [ "WorkerThread", "df/df6/a06087.html#ab74cbccbb68bfbbab58550eced982d1a", null ],
+    [ "_connection", "df/df6/a06087.html#a2f21d73b584d9e5f17afc7a0ac78f129", null ],
+    [ "_queue", "df/df6/a06087.html#a9c47ad6c0d4dca85a63be45c4e678a70", null ],
+    [ "_workerThread", "df/df6/a06087.html#ad02a90f600f1996c053f36e186edf292", null ]
 ];

@@ -1,6 +1,7 @@
 var a25607 =
 [
-    [ "HandleDummy", "de/d65/a25607.html#ad086618ff3caadcf5126e12a1359503f", null ],
-    [ "PrepareSpellScript", "de/d65/a25607.html#a4b3a79a9ba01226038a1da886f6a2f7c", null ],
-    [ "Register", "de/d65/a25607.html#a214526ddc986ee829daf9090678e3a7b", null ]
+    [ "HandleProc", "de/d65/a25607.html#a8713f0e7fae54fc4f5ead19351bec0d8", null ],
+    [ "PrepareAuraScript", "de/d65/a25607.html#ac2a7ac008dca96bb8dc272118d184f3d", null ],
+    [ "Register", "de/d65/a25607.html#a36160ed669487cd87be364c2e37c0b0e", null ],
+    [ "Validate", "de/d65/a25607.html#acc97118979bfbcbb1d9fbd88e12c9650", null ]
 ];

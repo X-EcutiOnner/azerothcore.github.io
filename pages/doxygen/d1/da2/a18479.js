@@ -1,7 +1,10 @@
 var a18479 =
 [
-    [ "HandleTriggerMissile", "d1/da2/a18479.html#af6370594be48d35a12009fa10a38d91d", null ],
-    [ "PrepareSpellScript", "d1/da2/a18479.html#aeeca4381273f382c3abb68f34d229213", null ],
-    [ "Register", "d1/da2/a18479.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
-    [ "Validate", "d1/da2/a18479.html#abe0b9290ddf9beaa60a583840d90d914", null ]
+    [ "CountTargets", "d1/da2/a18479.html#a042c3f2ee73533b397a2d697d1da6563", null ],
+    [ "HandleDummy", "d1/da2/a18479.html#ab314680d5349c0c3e449694b92ab7311", null ],
+    [ "Load", "d1/da2/a18479.html#a534e9f5ee9aa29603cfc205c2c2d580f", null ],
+    [ "PrepareSpellScript", "d1/da2/a18479.html#a8b831c01cd9fd997279f6a81170786de", null ],
+    [ "Register", "d1/da2/a18479.html#ab0d87ba23eb252075cb0779b06813a31", null ],
+    [ "SelectDest", "d1/da2/a18479.html#a6061486d0067af51c8ef079224ea63f1", null ],
+    [ "_targetCount", "d1/da2/a18479.html#a58f839370a885c450e6742cbb3116784", null ]
 ];

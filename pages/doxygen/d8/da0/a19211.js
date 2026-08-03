@@ -1,5 +1,6 @@
 var a19211 =
 [
-    [ "at_icc_gauntlet_event", "d8/da0/a19211.html#ae8790bad655661aeda887f56b9393847", null ],
-    [ "OnTrigger", "d8/da0/a19211.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
+    [ "PrepareSpellScript", "d8/da0/a19211.html#aac12da39c503615036120e3e0cd55622", null ],
+    [ "Register", "d8/da0/a19211.html#a808d2283be9714c14f22a2df0a52dd61", null ],
+    [ "RelocateDest", "d8/da0/a19211.html#a843c9dc403404ddd2de667e57e01f00c", null ]
 ];

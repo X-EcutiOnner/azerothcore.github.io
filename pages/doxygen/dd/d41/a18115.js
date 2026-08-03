@@ -1,12 +1,6 @@
 var a18115 =
 [
-    [ "npc_darnavanAI", "dd/d41/a18115.html#ae06019c24910c873877398f29f5a1737", null ],
-    [ "JustDied", "dd/d41/a18115.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
-    [ "JustEngagedWith", "dd/d41/a18115.html#acbaedacea5ad19d82002c25b68623a27", null ],
-    [ "MovementInform", "dd/d41/a18115.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
-    [ "Reset", "dd/d41/a18115.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
-    [ "UpdateAI", "dd/d41/a18115.html#a2b3b5e168989db21fc047acaf01413d9", null ],
-    [ "_canCharge", "dd/d41/a18115.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
-    [ "_canShatter", "dd/d41/a18115.html#aa7750edc8051c8ee453143491dccf122", null ],
-    [ "events", "dd/d41/a18115.html#aa8a022ccb1367432480f72d305c752ac", null ]
+    [ "BurningPitchFilterCheck", "dd/d41/a18115.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
+    [ "operator()", "dd/d41/a18115.html#a24be987c8471d8a7096025debf6e60b1", null ],
+    [ "_entry", "dd/d41/a18115.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
 ];

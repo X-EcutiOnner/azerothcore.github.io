@@ -1,9 +1,7 @@
 var a18695 =
 [
-    [ "HandleScript", "d1/d0b/a18695.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
-    [ "Load", "d1/d0b/a18695.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
-    [ "PrepareSpellScript", "d1/d0b/a18695.html#a73931c9434114749b9db648665153083", null ],
-    [ "Register", "d1/d0b/a18695.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
-    [ "SelectTarget", "d1/d0b/a18695.html#a95be527c43ceeb4801f4e494753c1b59", null ],
-    [ "_target", "d1/d0b/a18695.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
+    [ "OnRemove", "d1/d0b/a18695.html#a106935d92ef6ba7909c57264e26b5522", null ],
+    [ "PrepareAuraScript", "d1/d0b/a18695.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
+    [ "Register", "d1/d0b/a18695.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
+    [ "Validate", "d1/d0b/a18695.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
 ];

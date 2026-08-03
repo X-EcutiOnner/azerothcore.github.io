@@ -1,10 +1,5 @@
 var a20215 =
 [
-    [ "boss_freya_elder_ironbranch", "d4/d31/a20215.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
-    [ "JustDied", "d4/d31/a20215.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
-    [ "JustEngagedWith", "d4/d31/a20215.html#a34d87135b8dac114a8783941dba69559", null ],
-    [ "KilledUnit", "d4/d31/a20215.html#a20b5a622ac233d1280169f54942c894f", null ],
-    [ "Reset", "d4/d31/a20215.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
-    [ "UpdateAI", "d4/d31/a20215.html#a00dade8af24a2240187fb4e52138c0d1", null ],
-    [ "events", "d4/d31/a20215.html#a8693a800da6890004f3ae82fd9898480", null ]
+    [ "achievement_auriaya_crazy_cat_lady", "d4/d31/a20215.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
+    [ "OnCheck", "d4/d31/a20215.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
 ];

@@ -1,6 +1,7 @@
 var a18535 =
 [
-    [ "VileSpiritActivateEvent", "d1/d3a/a18535.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
-    [ "Execute", "d1/d3a/a18535.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
-    [ "_owner", "d1/d3a/a18535.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
+    [ "PeriodicTick", "d1/d3a/a18535.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4", null ],
+    [ "PrepareAuraScript", "d1/d3a/a18535.html#afcadfbdd84608e827b89c64bf03c8501", null ],
+    [ "Register", "d1/d3a/a18535.html#a0e8e8685ce8c1eea2b60e8bf6aeed782", null ],
+    [ "Validate", "d1/d3a/a18535.html#a879b657d94c1faf6225fe64f907cdf82", null ]
 ];

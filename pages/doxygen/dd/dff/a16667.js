@@ -1,6 +1,6 @@
 var a16667 =
 [
-    [ "FilterTargets", "dd/dff/a16667.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
-    [ "PrepareSpellScript", "dd/dff/a16667.html#a5ede43deece629a38f5482280983b59a", null ],
-    [ "Register", "dd/dff/a16667.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
+    [ "OnSummon", "dd/dff/a16667.html#ae2766d12fb686356b46126848f356c5a", null ],
+    [ "PrepareSpellScript", "dd/dff/a16667.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
+    [ "Register", "dd/dff/a16667.html#a717394bfbea621ae637f9e87efddda62", null ]
 ];

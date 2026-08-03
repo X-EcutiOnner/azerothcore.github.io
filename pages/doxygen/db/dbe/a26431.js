@@ -1,10 +1,6 @@
 var a26431 =
 [
-    [ "Load", "db/dbe/a26431.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
-    [ "PrepareAuraScript", "db/dbe/a26431.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
-    [ "Register", "db/dbe/a26431.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
-    [ "Split", "db/dbe/a26431.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
-    [ "groupSize", "db/dbe/a26431.html#aa1e61b128f63c802dc623be551657df1", null ],
-    [ "minHpPct", "db/dbe/a26431.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
-    [ "remainingAmount", "db/dbe/a26431.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
+    [ "CheckProc", "db/dbe/a26431.html#a1642e1c445baac2be49a32797f21ca31", null ],
+    [ "PrepareAuraScript", "db/dbe/a26431.html#a116d2bc302ca74ae39d98f8d5849e757", null ],
+    [ "Register", "db/dbe/a26431.html#a8c0d81f8480be1853679d1f2a20ecfbb", null ]
 ];

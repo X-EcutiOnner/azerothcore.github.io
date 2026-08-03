@@ -1,10 +1,7 @@
 var a10003 =
 [
-    [ "const_iterator", "d6/df5/a10003.html#ac52d3ebfa7eaeb9d6fd08f0089b13918", null ],
-    [ "StorageType", "d6/df5/a10003.html#a6825a379d1af4254b920c14ab0068e7b", null ],
-    [ "BossBoundaryData", "d6/df5/a10003.html#a3f80cd89e43eae1a74e2b0a6a674d0cb", null ],
-    [ "~BossBoundaryData", "d6/df5/a10003.html#a446a3ec16cdce76058761fce972f1e57", null ],
-    [ "begin", "d6/df5/a10003.html#a326930360d22d5fdf9a895991f2c4e49", null ],
-    [ "end", "d6/df5/a10003.html#ab3dc9905d861b62c4551f45ee8b08ba5", null ],
-    [ "_data", "d6/df5/a10003.html#af60e90664c434a8d36115ca5dec889b5", null ]
+    [ "AddonHandler", "d6/df5/a10003.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
+    [ "~AddonHandler", "d6/df5/a10003.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
+    [ "BuildAddonPacket", "d6/df5/a10003.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
+    [ "instance", "d6/df5/a10003.html#a2925b829b803dd07e96685086357ef85", null ]
 ];

@@ -1,15 +1,8 @@
 var a16487 =
 [
-    [ "npc_onyx_flamecallerAI", "dc/dfb/a16487.html#aa0633855e57f6681cfc68a8dfee9a733", null ],
-    [ "AddWaypoints", "dc/dfb/a16487.html#a308b99ee4d07ed1de0cabd94dafd5dd8", null ],
-    [ "EnterEvadeMode", "dc/dfb/a16487.html#ac29163e2e69cffbf21249eb3828b5b72", null ],
-    [ "IsSummonedBy", "dc/dfb/a16487.html#afc6c4faffd83b2fa4ddbb4ae78b622d9", null ],
-    [ "JustEngagedWith", "dc/dfb/a16487.html#a3cba2cd9a920816bee993ae2986639a0", null ],
-    [ "Reset", "dc/dfb/a16487.html#a756a44feb79eb56f443ee16995a2566d", null ],
-    [ "UpdateEscortAI", "dc/dfb/a16487.html#aab57193b332fdde2dd237a9cb15a06c1", null ],
-    [ "WaypointReached", "dc/dfb/a16487.html#a8b510bce47929e85741f5debd857de8d", null ],
-    [ "WaypointReached", "dc/dfb/a16487.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_events", "dc/dfb/a16487.html#a9280b604135308078860c20667da9819", null ],
-    [ "_instance", "dc/dfb/a16487.html#a3fb01e6a8df3b8205f494f03faf8ace8", null ],
-    [ "_lavaGoutCount", "dc/dfb/a16487.html#a1f46c988316c1870f506a66f2390e79b", null ]
+    [ "boss_sartharion_vesperon", "dc/dfb/a16487.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
+    [ "ClearInstance", "dc/dfb/a16487.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
+    [ "ExecuteEvent", "dc/dfb/a16487.html#aefc42452e75c476aef39ba0df3a03d70", null ],
+    [ "Reset", "dc/dfb/a16487.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
+    [ "SummonedCreatureDies", "dc/dfb/a16487.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
 ];

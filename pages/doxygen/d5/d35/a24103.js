@@ -1,6 +1,6 @@
 var a24103 =
 [
-    [ "go_ancient_skull_pile", "d5/d35/a24103.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
-    [ "OnGossipHello", "d5/d35/a24103.html#afc258eaeb7586f0f539223c21f82ea63", null ],
-    [ "OnGossipSelect", "d5/d35/a24103.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d2/d5b/a24107.html", "d2/d5b/a24107" ],
+    [ "npc_creditmarker_visit_with_ancestors", "d5/d35/a24103.html#a60f7abac7198d8504d944828dceb1ffa", null ],
+    [ "GetAI", "d5/d35/a24103.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
 ];

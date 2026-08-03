@@ -1,9 +1,6 @@
 var a14475 =
 [
-    [ "boss_jindo", "dd/d54/a14475.html#a9aafe0282e0b5de90ce62b3f8b3cfb14", null ],
-    [ "EnterEvadeMode", "dd/d54/a14475.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500", null ],
-    [ "JustEngagedWith", "dd/d54/a14475.html#a7f612a1e5033c5097856222cee41f2af", null ],
-    [ "JustSummoned", "dd/d54/a14475.html#ac7382289d174ec70703b76dc4e451d39", null ],
-    [ "UpdateAI", "dd/d54/a14475.html#aad8885f79fc527954102fc1b78ca8ad7", null ],
-    [ "_scheduler", "dd/d54/a14475.html#a7ddbdc4d85936fd54fced20ff31e91cd", null ]
+    [ "boss_gahzranka", "dd/d54/a14475.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "dd/d54/a14475.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "dd/d54/a14475.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

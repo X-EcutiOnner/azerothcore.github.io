@@ -1,26 +1,10 @@
 var a09519 =
 [
-    [ "GetHeightPtr", "d3/dcb/a09519.html#a347927f9d7df887b2a6fd89d841e004c", null ],
-    [ "GridTerrainData", "d3/dcb/a09519.html#a1cf2965cea22f5a98ad2d737e372ac18", null ],
-    [ "~GridTerrainData", "d3/dcb/a09519.html#a7380c5dbf731134733b87cab470603a4", null ],
-    [ "getArea", "d3/dcb/a09519.html#a938710a8304ef342373d41581018c623", null ],
-    [ "getHeight", "d3/dcb/a09519.html#a1269f47abd6faf5304494c85628bb961", null ],
-    [ "getHeightFromFlat", "d3/dcb/a09519.html#adc73b5d06468dbf30b7b6507f6ac6474", null ],
-    [ "getHeightFromFloat", "d3/dcb/a09519.html#a43b34255bd40b0824ad161bd40c8a5ec", null ],
-    [ "getHeightFromUint16", "d3/dcb/a09519.html#a4ae5997baa9f9905cf13a3a214781df9", null ],
-    [ "getHeightFromUint8", "d3/dcb/a09519.html#af849394add099d86aa8ec9eb8c807f5d", null ],
-    [ "GetLiquidData", "d3/dcb/a09519.html#a07d7e85ff8386eaad8c9d1d32414e3b9", null ],
-    [ "getLiquidLevel", "d3/dcb/a09519.html#a2e3b2ea01f5ce3f93944529d73fa70de", null ],
-    [ "getMinHeight", "d3/dcb/a09519.html#ab39ef52957f9c1ece42c3fc11893a3fc", null ],
-    [ "isHole", "d3/dcb/a09519.html#abdf3da449ed62b2d7a54547178d21110", null ],
-    [ "Load", "d3/dcb/a09519.html#acacaa661126e761a863b5490a3e78e73", null ],
-    [ "LoadAreaData", "d3/dcb/a09519.html#a28f80f4acdb72dd9641a261178df0859", null ],
-    [ "LoadHeightData", "d3/dcb/a09519.html#ae50db87879b0b0bca66f0f0a625e2bc9", null ],
-    [ "LoadHolesData", "d3/dcb/a09519.html#a0741c8d46e938fcf7b18fe7c9254b629", null ],
-    [ "LoadLiquidData", "d3/dcb/a09519.html#ac3dc194ca16a7e9b604b2c2d14c478d8", null ],
-    [ "_gridGetHeight", "d3/dcb/a09519.html#a2425f13f62b37931192acdc02127c243", null ],
-    [ "_loadedAreaData", "d3/dcb/a09519.html#a6d4887b105ac3c7f6c49ef0d92a33780", null ],
-    [ "_loadedHeightData", "d3/dcb/a09519.html#aea51fcf34105d685405203093ce67085", null ],
-    [ "_loadedHoleData", "d3/dcb/a09519.html#a421f20b133fab6afa2295de1ebe5b51a", null ],
-    [ "_loadedLiquidData", "d3/dcb/a09519.html#a3d72914b55d6c6413ade869503b259cc", null ]
+    [ "iterator", "d3/dcb/a09519.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
+    [ "begin", "d3/dcb/a09519.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
+    [ "end", "d3/dcb/a09519.html#a266acb421cfc6ccc56dc2acff3202971", null ],
+    [ "getFirst", "d3/dcb/a09519.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
+    [ "getLast", "d3/dcb/a09519.html#a46a36813eaf752815a3f8c739db88a5d", null ],
+    [ "rbegin", "d3/dcb/a09519.html#ae69734978b5eec009a696861b7b7152b", null ],
+    [ "rend", "d3/dcb/a09519.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
 ];

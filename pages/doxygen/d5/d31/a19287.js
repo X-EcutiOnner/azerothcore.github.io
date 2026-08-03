@@ -1,7 +1,6 @@
 var a19287 =
 [
-    [ "OnRemove", "d5/d31/a19287.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "d5/d31/a19287.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "d5/d31/a19287.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "d5/d31/a19287.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "npc_icc_valkyr_heraldAI", "d0/d19/a19291.html", "d0/d19/a19291" ],
+    [ "npc_icc_valkyr_herald", "d5/d31/a19287.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
+    [ "GetAI", "d5/d31/a19287.html#a7537269841d0380d2dc9e4641705acf9", null ]
 ];

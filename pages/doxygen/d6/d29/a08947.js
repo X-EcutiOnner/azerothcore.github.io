@@ -1,8 +1,5 @@
 var a08947 =
 [
-    [ "checkLeaderOnly", "d6/d29/a08947.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
-    [ "faction", "d6/d29/a08947.html#a23c649e494795b27856b67225370a820", null ],
-    [ "id", "d6/d29/a08947.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
-    [ "note", "d6/d29/a08947.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
-    [ "priority", "d6/d29/a08947.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
+    [ "PlayerClassInfo", "d6/d29/a08947.html#a6a0a6db24e144593356e0505946e8f06", null ],
+    [ "levelInfo", "d6/d29/a08947.html#aa234b353361ef0017ec974ca4c8e86f1", null ]
 ];

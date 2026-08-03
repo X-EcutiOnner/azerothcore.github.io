@@ -1,4 +1,5 @@
 var a05643 =
 [
-    [ "InvalidAppenderArgsException", "d7/d3b/a05643.html#a5cfc42ea2456b9c7d60f06a1d469f1ae", null ]
+    [ "_elements", "d7/d3b/a05643.html#a40b7d4b51ba0849a77a41abc76407e39", null ],
+    [ "_TailElements", "d7/d3b/a05643.html#a8762b1028a8b81762e9b08fd45d13269", null ]
 ];

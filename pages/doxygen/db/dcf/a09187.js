@@ -1,8 +1,14 @@
 var a09187 =
 [
-    [ "Entry", "db/dcf/a09187.html#ac9fa29db15e06513805124a56cd073e8", null ],
-    [ "ExtendedCost", "db/dcf/a09187.html#ac826dc078ef456ed93bf23175bce243d", null ],
-    [ "Incrtime", "db/dcf/a09187.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
-    [ "Item", "db/dcf/a09187.html#aa500da847d94a9b70cb3a26b782059b3", null ],
-    [ "MaxCount", "db/dcf/a09187.html#a04534ff42e5889995b5203a3257bc864", null ]
+    [ "SafeUnitPointer", "db/dcf/a09187.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
+    [ "SafeUnitPointer", "db/dcf/a09187.html#a2ced82b4a80e1e2d91bbb1d63d5ca796", null ],
+    [ "~SafeUnitPointer", "db/dcf/a09187.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
+    [ "Initialize", "db/dcf/a09187.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
+    [ "operator Unit *", "db/dcf/a09187.html#afee1d290f436472dd719ff83f41721f5", null ],
+    [ "operator->", "db/dcf/a09187.html#af63a04a7c6e6cb3002f5a99f90f70328", null ],
+    [ "operator=", "db/dcf/a09187.html#a44f522d9c22861f853df0286a3764d3e", null ],
+    [ "SetPointedTo", "db/dcf/a09187.html#a6603c67b736224a8e6559340afa8b275", null ],
+    [ "UnitDeleted", "db/dcf/a09187.html#a872b0a86328fb03e5feccdf364ea5cce", null ],
+    [ "defaultValue", "db/dcf/a09187.html#a38dce117cb135c9b84918a9bbc884f28", null ],
+    [ "ptr", "db/dcf/a09187.html#aa8bf5e4728aeb1ca7a8de1a727a84884", null ]
 ];

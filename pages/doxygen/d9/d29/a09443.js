@@ -1,15 +1,17 @@
 var a09443 =
 [
-    [ "CoordPair", "d9/d29/a09443.html#a53b5f24cfdf13b246549a0c1543924c9", null ],
-    [ "CoordPair", "d9/d29/a09443.html#aab92ece0f01ebc00cdac4966e02fa8fd", null ],
-    [ "dec_x", "d9/d29/a09443.html#a69be5b72b710722120104f0c502fbb70", null ],
-    [ "dec_y", "d9/d29/a09443.html#aefa33f8766212bb71e5fd19a318142cc", null ],
-    [ "GetId", "d9/d29/a09443.html#ae4f7f304faf2c2363cffe2170b4c5c97", null ],
-    [ "inc_x", "d9/d29/a09443.html#aa6a4942253e87ae57e2d69a2563ddef1", null ],
-    [ "inc_y", "d9/d29/a09443.html#a120946c5a8c8b49bbdf9a1ee54ded9ec", null ],
-    [ "IsCoordValid", "d9/d29/a09443.html#a082960c54e2077df370f891c0534b44f", null ],
-    [ "normalize", "d9/d29/a09443.html#afac8086374bfc499e3a8d74d6afc58db", null ],
-    [ "operator=", "d9/d29/a09443.html#a27f81c359c4ae278d663e85eccbeebb9", null ],
-    [ "x_coord", "d9/d29/a09443.html#a101dd71af6a2cba18140aea2e502ef8b", null ],
-    [ "y_coord", "d9/d29/a09443.html#aacae12844cc0c0d70e26b137ad28f700", null ]
+    [ "ActionMenuID", "d9/d29/a09443.html#a486f9af68a02ae52d51772a3421db377", null ],
+    [ "ActionPoiID", "d9/d29/a09443.html#a9a20a64e29d0464c40f57286b9c1804d", null ],
+    [ "BoxBroadcastTextID", "d9/d29/a09443.html#a12882942190a9a568b9dc30214ee6a88", null ],
+    [ "BoxCoded", "d9/d29/a09443.html#a4f7ba04e2d1078909d9587569504f4cd", null ],
+    [ "BoxMoney", "d9/d29/a09443.html#ab00c368181ccaba98e878d49de6138e2", null ],
+    [ "BoxText", "d9/d29/a09443.html#ad794b3c4e84dedce43ff2c80d3c38d4a", null ],
+    [ "Conditions", "d9/d29/a09443.html#aa1632404bbc869b17dab8833f660c52b", null ],
+    [ "MenuID", "d9/d29/a09443.html#a6e5b1b2c86bd05b81626a7230349be9a", null ],
+    [ "OptionBroadcastTextID", "d9/d29/a09443.html#af8af4b4c27405908482db73797cd2d49", null ],
+    [ "OptionIcon", "d9/d29/a09443.html#a0b73f7ce36e7703725e6b0d01c2a4564", null ],
+    [ "OptionID", "d9/d29/a09443.html#adf2a8d247a88a062a75eb726dd43d019", null ],
+    [ "OptionNpcFlag", "d9/d29/a09443.html#a6f41e9adfcb11adabdd79b55c1d47bfc", null ],
+    [ "OptionText", "d9/d29/a09443.html#a2606ac76a4f3607e45676ed3f1df3a83", null ],
+    [ "OptionType", "d9/d29/a09443.html#af53a42c8d4ec23be46dfdb16abc9c4ff", null ]
 ];

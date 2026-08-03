@@ -1,7 +1,5 @@
 var a23435 =
 [
-    [ "FilterTargets", "dc/d6d/a23435.html#a834163302ff10875227806d7d4945988", null ],
-    [ "HandleScriptEffect", "dc/d6d/a23435.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
-    [ "PrepareSpellScript", "dc/d6d/a23435.html#a079e72d57550e03956088b4be1d11422", null ],
-    [ "Register", "dc/d6d/a23435.html#abd4e0f268652652d3828ba8d350de849", null ]
+    [ "at_underbog_ghazan", "dc/d6d/a23435.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
+    [ "_OnTrigger", "dc/d6d/a23435.html#a82d82a14a3d5c5125c331df126b9006a", null ]
 ];

@@ -1,7 +1,5 @@
 var a22607 =
 [
-    [ "boss_lady_malande", "d9/d35/a22607.html#a8cb693d203463dcba809e7ffc23c6868", null ],
-    [ "AttackStart", "d9/d35/a22607.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
-    [ "JustEngagedWith", "d9/d35/a22607.html#af4b5f376e387851e15517de03636acde", null ],
-    [ "UpdateAI", "d9/d35/a22607.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
+    [ "OutdoorPvP_zangarmarsh", "d9/d35/a22607.html#ae287d5df21bf75efab6c651f4f3d875e", null ],
+    [ "GetOutdoorPvP", "d9/d35/a22607.html#a145ddfe383663ed3fb46960e39691f8f", null ]
 ];

@@ -1,9 +1,8 @@
 var a17343 =
 [
-    [ "FilterTargets", "d3/dff/a17343.html#aefebf504286394cf3caffa566543e4a4", null ],
-    [ "FilterTargetsNext", "d3/dff/a17343.html#a356b6ace97d07df22a232d2287072b5e", null ],
-    [ "PrepareSpellScript", "d3/dff/a17343.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
-    [ "Register", "d3/dff/a17343.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
-    [ "Unload", "d3/dff/a17343.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "d3/dff/a17343.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "npc_phantom_hallucination", "d3/dff/a17343.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
+    [ "EnterEvadeMode", "d3/dff/a17343.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
+    [ "JustDied", "d3/dff/a17343.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
+    [ "UpdateAI", "d3/dff/a17343.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
+    [ "numOfUpd", "d3/dff/a17343.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
 ];

@@ -1,9 +1,8 @@
 var a17283 =
 [
-    [ "npc_hor_spiritual_reflection", "d6/d00/a17283.html#ade6e6c1f32f4353c131fce054d6b94c4", null ],
-    [ "EnterEvadeMode", "d6/d00/a17283.html#a3973e83b013df723849939635071324f", null ],
-    [ "JustDied", "d6/d00/a17283.html#a913d17e1534a5940b7841e38eae246f7", null ],
-    [ "JustEngagedWith", "d6/d00/a17283.html#ad47d12654c88cc94b7c17906e4096115", null ],
-    [ "Reset", "d6/d00/a17283.html#aa7dad28bbe53286ec298ba5480717e69", null ],
-    [ "UpdateAI", "d6/d00/a17283.html#a5093b6502bca95c22b2b0f0117f86047", null ]
+    [ "npc_fos_leaderAI", "dd/ddc/a17287.html", "dd/ddc/a17287" ],
+    [ "npc_fos_leader", "d6/d00/a17283.html#a4223072bc180e990ff9e01bf772def5b", null ],
+    [ "GetAI", "d6/d00/a17283.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
+    [ "OnGossipHello", "d6/d00/a17283.html#a3858054505d439902624378b9355f40d", null ],
+    [ "OnGossipSelect", "d6/d00/a17283.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
 ];

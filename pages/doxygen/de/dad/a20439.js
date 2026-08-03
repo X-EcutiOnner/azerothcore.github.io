@@ -1,7 +1,7 @@
 var a20439 =
 [
-    [ "FilterTargetsInitial", "de/dad/a20439.html#a2477349cffb8da02936545ba0bd03d0f", null ],
-    [ "Load", "de/dad/a20439.html#a4606d10a2699e3fb5290cefdc0876505", null ],
-    [ "PrepareSpellScript", "de/dad/a20439.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
-    [ "Register", "de/dad/a20439.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
+    [ "npc_ulduar_icicle", "de/dad/a20439.html#ac5f024031a70b4ca04ecc0a96fcbdcae", null ],
+    [ "UpdateAI", "de/dad/a20439.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
+    [ "timer1", "de/dad/a20439.html#ae277d302131abd17cef018872b12da06", null ],
+    [ "timer2", "de/dad/a20439.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
 ];

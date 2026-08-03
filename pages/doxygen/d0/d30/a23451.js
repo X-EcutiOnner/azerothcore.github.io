@@ -1,8 +1,6 @@
 var a23451 =
 [
-    [ "npc_warchief_portal", "d0/d30/a23451.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "d0/d30/a23451.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "d0/d30/a23451.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "d0/d30/a23451.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "d0/d30/a23451.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "HandleScript", "d0/d30/a23451.html#ae45f8a366c1594d3723b83ee6e006957", null ],
+    [ "PrepareSpellScript", "d0/d30/a23451.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
+    [ "Register", "d0/d30/a23451.html#a6b9e449a64747f0a5715424295b1c30f", null ]
 ];

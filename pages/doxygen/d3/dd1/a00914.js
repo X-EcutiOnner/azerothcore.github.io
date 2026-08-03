@@ -1,7 +1,7 @@
 var a00914 =
 [
-    [ "GameObjectValue", "db/dc8/a08558.html", "db/dc8/a08558" ],
-    [ "GameObject", "d2/d54/a08578.html", "d2/d54/a08578" ],
+    [ "GameObjectValue", "db/dcd/a08563.html", "db/dcd/a08563" ],
+    [ "GameObject", "d2/d95/a08583.html", "d2/d95/a08583" ],
     [ "FISHING_BOBBER_READY_TIME", "d3/dd1/a00914.html#aa7242bc5664b993aa0dfe458bf845b13", null ],
     [ "GameObjectAddonContainer", "d3/dd1/a00914.html#a7c5d40f7f9665e8525be2f1e94b0af47", null ],
     [ "GameObjectQuestItemList", "d3/dd1/a00914.html#a85906ca8ea219640b7ed904559623a4a", null ],

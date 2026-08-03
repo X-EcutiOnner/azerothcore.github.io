@@ -1,15 +1,15 @@
 var a18571 =
 [
-    [ "npc_tirion_fordringAI", "df/d1e/a18571.html#aa0f94cef85e96cda4a2e280eaa7110de", null ],
-    [ "CanAIAttack", "df/d1e/a18571.html#a1bdef323e9c7364fab789abc39ef00a0", null ],
-    [ "DoAction", "df/d1e/a18571.html#a5fd5b3fde84ed04c794546d11fe946d7", null ],
-    [ "EnterEvadeMode", "df/d1e/a18571.html#a1275cee8f49c67920041ad8d50c62aa4", null ],
-    [ "JustReachedHome", "df/d1e/a18571.html#a6e6c7c2f4f8e60126fd4adc42fe3b4f4", null ],
-    [ "MovementInform", "df/d1e/a18571.html#a7284240c4eafbc80748d5e2867a64a9f", null ],
-    [ "Reset", "df/d1e/a18571.html#ac41e569535322bb5907fa4116bbac739", null ],
-    [ "sGossipSelect", "df/d1e/a18571.html#a56599a97f019121160b2f6ac43019772", null ],
-    [ "SpellHit", "df/d1e/a18571.html#ae68b900f87c646cfb3ece5518b59e687", null ],
-    [ "UpdateAI", "df/d1e/a18571.html#a3f729624820266f1cf1e5577c5047c3b", null ],
-    [ "_events", "df/d1e/a18571.html#a7bb0d243cc9b3e836dd99864f2a5e669", null ],
-    [ "_instance", "df/d1e/a18571.html#a223a7f09ae03971487bb55e770503f7e", null ]
+    [ "npc_sindragosa_trashAI", "df/d1e/a18571.html#a7401a422bc4c2140c631bc118f396f25", null ],
+    [ "GetData", "df/d1e/a18571.html#a701b8189869bf20d2b3da31b73aed9da", null ],
+    [ "InitializeAI", "df/d1e/a18571.html#a3a8b341c7304faa2c238305f9dde29b0", null ],
+    [ "JustEngagedWith", "df/d1e/a18571.html#a0a7a0012105dea55fe4c8b51d9df5fc7", null ],
+    [ "JustRespawned", "df/d1e/a18571.html#a6438b9f864f178dc4e35e24a48066980", null ],
+    [ "Reset", "df/d1e/a18571.html#a823df6bb8b36ab38aa059e6d1313f2c0", null ],
+    [ "SetData", "df/d1e/a18571.html#a4aaa7f3963b24ac03e2fb8aaea7b62b2", null ],
+    [ "UpdateAI", "df/d1e/a18571.html#a12b995cc8c836efbf0eecc6591c85ff4", null ],
+    [ "_events", "df/d1e/a18571.html#ab789c21e742fe261f9f8aa63509a7d45", null ],
+    [ "_frostwyrmId", "df/d1e/a18571.html#ac2853246532bd913211fc743f4723ce0", null ],
+    [ "_instance", "df/d1e/a18571.html#aa2199507fdabe850b6af9a5ae0283fdc", null ],
+    [ "_isTaunted", "df/d1e/a18571.html#a50632ee1a85936748aabc5fb10f5e982", null ]
 ];

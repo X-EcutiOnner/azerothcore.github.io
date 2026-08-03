@@ -1,5 +1,8 @@
 var a27731 =
 [
-    [ "achievement_bg_sa_artillery", "d1/d8d/a27731.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "d1/d8d/a27731.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "CheckProc", "d1/d8d/a27731.html#afcda3b112699e108e2db6270836fce1b", null ],
+    [ "OnProc", "d1/d8d/a27731.html#ab953f817368120933828d6b3e5e200c0", null ],
+    [ "PrepareAuraScript", "d1/d8d/a27731.html#a33381b811abcd52f7a57e0f62fa73e5f", null ],
+    [ "Register", "d1/d8d/a27731.html#abfdd5179215432a3e89ea7b498d49867", null ],
+    [ "Validate", "d1/d8d/a27731.html#a19e8f1b9aab5ee4e718b304c87303627", null ]
 ];

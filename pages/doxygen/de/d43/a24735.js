@@ -1,10 +1,7 @@
 var a24735 =
 [
-    [ "FilterTargets", "de/d43/a24735.html#a033c63470d406ad2249c5aa223c00b2f", null ],
-    [ "HandleFinish", "de/d43/a24735.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
-    [ "HandleScript", "de/d43/a24735.html#a2c26838015f1b21715fc1438537e15d3", null ],
-    [ "Load", "de/d43/a24735.html#a669aefa81d57358ef452f4c247b2ceff", null ],
-    [ "PrepareSpellScript", "de/d43/a24735.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
-    [ "Register", "de/d43/a24735.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
-    [ "haveTarget", "de/d43/a24735.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
+    [ "HandleProc", "de/d43/a24735.html#afc5208979ec0ce81e2bb88b3bd429012", null ],
+    [ "PrepareAuraScript", "de/d43/a24735.html#a9eebffe3b716f7de63bfd6617e6ecf3b", null ],
+    [ "Register", "de/d43/a24735.html#a1f364414b053ffc92c2a219b713e8c38", null ],
+    [ "Validate", "de/d43/a24735.html#a12912ba28210850b8bc0b568357794af", null ]
 ];

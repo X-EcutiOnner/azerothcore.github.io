@@ -1,7 +1,7 @@
 var a15703 =
 [
-    [ "npc_vekniss_stinger", "d7/d63/a15703.html#ad48098961715a924270cb8bbbe77e4b0", null ],
-    [ "JustEngagedWith", "d7/d63/a15703.html#ae7c758687c81cfb223066f0a9348eab8", null ],
-    [ "Reset", "d7/d63/a15703.html#a2a79f3775aad83410ff2670aa438e811", null ],
-    [ "UpdateAI", "d7/d63/a15703.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
+    [ "npc_sartura_royal_guard", "d7/d63/a15703.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "d7/d63/a15703.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "d7/d63/a15703.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "d7/d63/a15703.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

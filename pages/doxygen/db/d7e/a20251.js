@@ -1,7 +1,9 @@
 var a20251 =
 [
-    [ "npc_ulduar_saronite_vapors", "db/d7e/a20251.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
-    [ "IsSummonedBy", "db/d7e/a20251.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
-    [ "JustDied", "db/d7e/a20251.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
-    [ "_instance", "db/d7e/a20251.html#ad304110ff1bfc33066cd17f04cf40181", null ]
+    [ "npc_thorims_hammer", "db/d7e/a20251.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
+    [ "Reset", "db/d7e/a20251.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
+    [ "UpdateAI", "db/d7e/a20251.html#a006414298b31eb0cfb964916298d66ce", null ],
+    [ "_beamTimer", "db/d7e/a20251.html#adcd5af2b86d1d8f119514f799c42444b", null ],
+    [ "_finishTime", "db/d7e/a20251.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
+    [ "_removeTimer", "db/d7e/a20251.html#a7b9a2435b0953c12e693c562193d45e0", null ]
 ];

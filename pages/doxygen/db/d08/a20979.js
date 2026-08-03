@@ -1,10 +1,6 @@
 var a20979 =
 [
-    [ "npc_dragonflayer_forge_master", "db/d08/a20979.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "db/d08/a20979.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "db/d08/a20979.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "db/d08/a20979.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "db/d08/a20979.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "db/d08/a20979.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "db/d08/a20979.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "boss_yoggsaron_death_orb", "db/d08/a20979.html#a8e967885da35381db767d941a2174a82", null ],
+    [ "UpdateAI", "db/d08/a20979.html#a9557c25da8cfdc6b7e62ff9b2b78714b", null ],
+    [ "_startTimer", "db/d08/a20979.html#a272b6b4c6c8f1f9fed933b9e1fd6f749", null ]
 ];

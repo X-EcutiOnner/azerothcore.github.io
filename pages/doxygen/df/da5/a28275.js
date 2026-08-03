@@ -1,6 +1,5 @@
 var a28275 =
 [
-    [ "npc_injured_patientAI", "da/d30/a28279.html", "da/d30/a28279" ],
-    [ "npc_injured_patient", "df/da5/a28275.html#a0b7ef214aa1b20df088dee0976c73783", null ],
-    [ "GetAI", "df/da5/a28275.html#a0c042bb81e684f903d28d7879af99d4a", null ]
+    [ "go_tablet_of_the_seven", "df/da5/a28275.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
+    [ "OnGossipHello", "df/da5/a28275.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
 ];

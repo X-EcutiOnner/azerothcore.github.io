@@ -1,9 +1,7 @@
 var a20499 =
 [
-    [ "npc_ulduar_bot_summon_trigger", "d1/de6/a20499.html#a16d36c154b6851c0081cc05f838b0fed", null ],
-    [ "DoAction", "d1/de6/a20499.html#a776782a85892d2d674773573be25bfa0", null ],
-    [ "Reset", "d1/de6/a20499.html#a4ec8487028b188347cf0c9a080076fe6", null ],
-    [ "UpdateAI", "d1/de6/a20499.html#a788d3eaba382e3af897678f6709a0242", null ],
-    [ "_option", "d1/de6/a20499.html#a39c909b67fcdc81542470b6e96256fd5", null ],
-    [ "_timer", "d1/de6/a20499.html#a2530742a19275efe92eeded4dce67567", null ]
+    [ "HandleAfterEffectApply", "d1/de6/a20499.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "d1/de6/a20499.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "d1/de6/a20499.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "d1/de6/a20499.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

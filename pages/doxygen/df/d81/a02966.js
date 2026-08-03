@@ -1,6 +1,6 @@
 var a02966 =
 [
-    [ "boss_xevozz", "db/d19/a21474.html", "db/d19/a21474" ],
+    [ "boss_xevozz", "d7/d0f/a21479.html", "d7/d0f/a21479" ],
     [ "eEvents", "df/d81/a02966.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "d4/d43/a03143.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
       [ "EVENT_CHECK_PLAYERS", "d4/d43/a03143.html#a1d3512b0adb171bd0db6aad2c9e70516a6c1847babeb1b838631eee5b2af3dc2b", null ],

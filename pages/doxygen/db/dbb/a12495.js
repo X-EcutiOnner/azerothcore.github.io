@@ -1,18 +1,10 @@
 var a12495 =
 [
-    [ "server_commandscript", "db/dbb/a12495.html#a61d8b3a9f967996b533e62e94fe4c8ca", null ],
-    [ "GetCommands", "db/dbb/a12495.html#a850c21f1ece40c576d3bf622f1c3e18f", null ],
-    [ "HandleServerCorpsesCommand", "db/dbb/a12495.html#a01ae63f31c7f03f6c0006fe4583a14a3", null ],
-    [ "HandleServerDebugCommand", "db/dbb/a12495.html#ac78145cb5c0888449756e4dbb36c005f", null ],
-    [ "HandleServerExitCommand", "db/dbb/a12495.html#ab894b36baa95de647fb329fce6eed8fb", null ],
-    [ "HandleServerIdleRestartCommand", "db/dbb/a12495.html#ae18a92337d6cf8e62eafdf5f39d7b5a8", null ],
-    [ "HandleServerIdleShutDownCommand", "db/dbb/a12495.html#aa431504b2755304c4263121a7a437ce4", null ],
-    [ "HandleServerInfoCommand", "db/dbb/a12495.html#a6c63114c474f69621b013dbb57b47bf2", null ],
-    [ "HandleServerMotdCommand", "db/dbb/a12495.html#aa10d866fcb8567fbc625d2a297a116a6", null ],
-    [ "HandleServerRestartCommand", "db/dbb/a12495.html#a3ec7dd1f81f3b4b8adcb5f04f4d20f3f", null ],
-    [ "HandleServerSetClosedCommand", "db/dbb/a12495.html#a2ba489469cdb3c8da944f7d6547ae462", null ],
-    [ "HandleServerSetLogLevelCommand", "db/dbb/a12495.html#a1ce5627c1d948b5a5c86db54357de02a", null ],
-    [ "HandleServerSetMotdCommand", "db/dbb/a12495.html#a8cf2076d5e5fa3b35fddba117cd990bb", null ],
-    [ "HandleServerShutDownCancelCommand", "db/dbb/a12495.html#ae64357518538c1ce4d03a8d9968b4035", null ],
-    [ "HandleServerShutDownCommand", "db/dbb/a12495.html#a514149a8d1dfc4513e0c71b69901767d", null ]
+    [ "item_commandscript", "db/dbb/a12495.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
+    [ "GetCommands", "db/dbb/a12495.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
+    [ "HandleItemMoveCommand", "db/dbb/a12495.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
+    [ "HandleItemRefundCommand", "db/dbb/a12495.html#af914e33be05148062abd89c754d939c9", null ],
+    [ "HandleItemRestoreCommand", "db/dbb/a12495.html#a84c67a46c513c1aac2b9d2563d693929", null ],
+    [ "HandleItemRestoreListCommand", "db/dbb/a12495.html#a40181310f4187a71a6f5f5f600a8f468", null ],
+    [ "HasItemDeletionConfig", "db/dbb/a12495.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
 ];

@@ -1,10 +1,9 @@
 var a20915 =
 [
-    [ "npc_ulduar_snow_mound", "d8/d63/a20915.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
-    [ "MoveInLineOfSight", "d8/d63/a20915.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
-    [ "UpdateAI", "d8/d63/a20915.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
-    [ "_activated", "d8/d63/a20915.html#ac48f6985d857276e0e59c2a429f5b359", null ],
-    [ "_count", "d8/d63/a20915.html#a1856c3bba24842f33720a83e1de40421", null ],
-    [ "_counter", "d8/d63/a20915.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
-    [ "_scheduler", "d8/d63/a20915.html#aafe42af9ba1402cad91326eb1037e476", null ]
+    [ "GetRandomToyPile", "d8/d63/a20915.html#a4e119696b212c6a57f11b284c2bb0c82", null ],
+    [ "HandleScript", "d8/d63/a20915.html#a62eb106c6a55406adc682b372a94aaef", null ],
+    [ "PrepareSpellScript", "d8/d63/a20915.html#acb19b4f65324ce419004e969274c4816", null ],
+    [ "Register", "d8/d63/a20915.html#aba572e339d50b51cb33d04270d29b733", null ],
+    [ "Validate", "d8/d63/a20915.html#a59acb2775caa76c05797d7c8dfd0f3fb", null ],
+    [ "ToyPileSearchDistance", "d8/d63/a20915.html#aa7c7f5e7298e89e431464105d5d8bbdf", null ]
 ];

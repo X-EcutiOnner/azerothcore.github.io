@@ -1,6 +1,7 @@
 var a09387 =
 [
-    [ "Conditions", "d7/d44/a09387.html#a93edc2f0d71164b683c844b713befa85", null ],
-    [ "MenuID", "d7/d44/a09387.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
-    [ "TextID", "d7/d44/a09387.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
+    [ "IsFitToRequirements", "d7/d44/a09387.html#ac175634ed2eab2911c3749fa208a073a", null ],
+    [ "castFlags", "d7/d44/a09387.html#a03cd65a460ea252818de9230cb656c1c", null ],
+    [ "spellId", "d7/d44/a09387.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
+    [ "userType", "d7/d44/a09387.html#adcf285572403481cb418bddebc5f4bfa", null ]
 ];

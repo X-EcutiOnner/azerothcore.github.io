@@ -1,8 +1,10 @@
 var a09991 =
 [
-    [ "InstResetEvent", "d8/d9e/a09991.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
-    [ "InstResetEvent", "d8/d9e/a09991.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
-    [ "difficulty", "d8/d9e/a09991.html#a67afe513dd42370ac4bb385a7128a324", null ],
-    [ "mapid", "d8/d9e/a09991.html#ad02e00b2782304fbd75973fe58eefd33", null ],
-    [ "type", "d8/d9e/a09991.html#ad211513c7ed39269d464190398dabaed", null ]
+    [ "PlayerMoveItemData", "d8/d9e/a09991.html#a2f707719b409975ddd3023d2239403d6", null ],
+    [ "CanStore", "d8/d9e/a09991.html#a00680db86d45ad8e8652218fce05139d", null ],
+    [ "InitItem", "d8/d9e/a09991.html#a34298fd6ac20ab0e02c6350dcc5a4d33", null ],
+    [ "IsBank", "d8/d9e/a09991.html#ae4d45104dccf78581b4228a31fe192ad", null ],
+    [ "LogBankEvent", "d8/d9e/a09991.html#a36516c5ca1aaa13afa9e61831a175068", null ],
+    [ "RemoveItem", "d8/d9e/a09991.html#a482460f04b20349e909bac36f893a35a", null ],
+    [ "StoreItem", "d8/d9e/a09991.html#a017e3bd414548e66f980587e81e598e5", null ]
 ];

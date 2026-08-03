@@ -1,7 +1,7 @@
 var a00695 =
 [
-    [ "PetStable", "d9/de3/a08898.html", "d9/de3/a08898" ],
-    [ "PetStable::PetInfo", "d2/df8/a08902.html", "d2/df8/a08902" ],
+    [ "PetStable", "d0/d2b/a08903.html", "d0/d2b/a08903" ],
+    [ "PetStable::PetInfo", "d1/db9/a08907.html", "d1/db9/a08907" ],
     [ "ActionFeedback", "d5/d5b/a00695.html#aeb5551b3f37a2573e008d2d5d865359d", [
       [ "FEEDBACK_NONE", "d5/d5b/a00695.html#aeb5551b3f37a2573e008d2d5d865359dac70a05f4ef81ef0dd1eb55ab74779fba", null ],
       [ "FEEDBACK_PET_DEAD", "d5/d5b/a00695.html#aeb5551b3f37a2573e008d2d5d865359da482a5e311921dbd1dfab7521309f18c1", null ],

@@ -1,7 +1,7 @@
 var a27651 =
 [
-    [ "HandleGlyph", "d7/d02/a27651.html#a9ec1133587bb6f0d7faa1beafc8415d9", null ],
-    [ "PrepareSpellScript", "d7/d02/a27651.html#adffd8b39adef397a886a66465e09f68b", null ],
-    [ "Register", "d7/d02/a27651.html#a77ff80bffd5c3f75dd60f2d901dfd84e", null ],
-    [ "Validate", "d7/d02/a27651.html#aa8bf4fc8457d122e46d12bc6b1cc7586", null ]
+    [ "HandleProc", "d7/d02/a27651.html#aa28268bdb7e3063cff0880baefe02824", null ],
+    [ "PrepareAuraScript", "d7/d02/a27651.html#a8b19c9d128d568be695f985e5ed28b2d", null ],
+    [ "Register", "d7/d02/a27651.html#a5a0f0e1558c1d4c687b94fe8874512ef", null ],
+    [ "Validate", "d7/d02/a27651.html#a8461f9dc90d1df9a91350d3e277fffeb", null ]
 ];

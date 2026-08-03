@@ -1,12 +1,7 @@
 var a23947 =
 [
-    [ "npc_enslaved_netherwing_drake", "df/dbd/a23947.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
-    [ "_GetPlayer", "df/dbd/a23947.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
-    [ "JustDied", "df/dbd/a23947.html#acde70c9d8c675a9a9dd14695dc752184", null ],
-    [ "MovementInform", "df/dbd/a23947.html#afa030a380365daa33c156a0d6be6a6d9", null ],
-    [ "Reset", "df/dbd/a23947.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
-    [ "SpellHit", "df/dbd/a23947.html#a195794e88870a0b1ca35473f5f0378a7", null ],
-    [ "UpdateAI", "df/dbd/a23947.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
-    [ "_playerGUID", "df/dbd/a23947.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
-    [ "_tapped", "df/dbd/a23947.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
+    [ "HandleDamage", "df/dbd/a23947.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
+    [ "HandleTargets", "df/dbd/a23947.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
+    [ "PrepareSpellScript", "df/dbd/a23947.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
+    [ "Register", "df/dbd/a23947.html#a8873614ae22c908cb2cf49129fc53be2", null ]
 ];

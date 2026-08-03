@@ -1,8 +1,7 @@
 var a20131 =
 [
-    [ "OnApply", "de/d9b/a20131.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "de/d9b/a20131.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "de/d9b/a20131.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "de/d9b/a20131.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "de/d9b/a20131.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "HandlePeriodic", "de/d9b/a20131.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
+    [ "PrepareAuraScript", "de/d9b/a20131.html#ad78b06733a8609dd39e885db2f23edba", null ],
+    [ "Register", "de/d9b/a20131.html#ac9ae9be546964752869163896c4045dd", null ],
+    [ "Validate", "de/d9b/a20131.html#afcca84d03b29ef7569c03f973a6c191b", null ]
 ];

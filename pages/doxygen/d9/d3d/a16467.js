@@ -1,10 +1,7 @@
 var a16467 =
 [
-    [ "npc_xerestraszaAI", "d9/d3d/a16467.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
-    [ "DoAction", "d9/d3d/a16467.html#af696ecee315892b2bf0233113d2f89f9", null ],
-    [ "Reset", "d9/d3d/a16467.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
-    [ "UpdateAI", "d9/d3d/a16467.html#a6389ab58f4b44c668590113ec75f2adf", null ],
-    [ "_events", "d9/d3d/a16467.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
-    [ "_introDone", "d9/d3d/a16467.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
-    [ "_isIntro", "d9/d3d/a16467.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
+    [ "HandleScriptEffect", "d9/d3d/a16467.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
+    [ "PrepareSpellScript", "d9/d3d/a16467.html#a392c40d469c3c1e816d5dc364fde824c", null ],
+    [ "Register", "d9/d3d/a16467.html#aa59c26b25ca0f440de36e450adf050a5", null ],
+    [ "Validate", "d9/d3d/a16467.html#a370f83112d901f9565734b11d12858f4", null ]
 ];

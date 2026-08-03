@@ -1,12 +1,8 @@
 var a19191 =
 [
-    [ "npc_icc_nerubar_broodkeeperAI", "de/d8a/a19191.html#a2e3abb6f8889b8df818e8260e6428375", null ],
-    [ "InitializeAI", "de/d8a/a19191.html#ac39bb8074ebb7106b426f507b73b368e", null ],
-    [ "JustEngagedWith", "de/d8a/a19191.html#ae69a8fd357856d0ec6a944ca8c0007ca", null ],
-    [ "MoveInLineOfSight", "de/d8a/a19191.html#a846fe2784308eb694f5f482133a33a7f", null ],
-    [ "MovementInform", "de/d8a/a19191.html#a9a5584eea4bc08f55ddfd7efe23bce2e", null ],
-    [ "Reset", "de/d8a/a19191.html#afbb260e4968865e7c4141e73a050e663", null ],
-    [ "UpdateAI", "de/d8a/a19191.html#ad63d3a91bdd677a9cdd497198860cac6", null ],
-    [ "_didWebBeam", "de/d8a/a19191.html#a8772cf938d30ddcc439d3912db578dfa", null ],
-    [ "events", "de/d8a/a19191.html#ac1b5b05f9fbaf1879c95bc7127fcb6e9", null ]
+    [ "CountTargets", "de/d8a/a19191.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "de/d8a/a19191.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "de/d8a/a19191.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "de/d8a/a19191.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "de/d8a/a19191.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

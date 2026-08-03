@@ -1,6 +1,8 @@
 var a25623 =
 [
-    [ "OnRemove", "d0/dd6/a25623.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
-    [ "PrepareAuraScript", "d0/dd6/a25623.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
-    [ "Register", "d0/dd6/a25623.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
+    [ "HandleEffectApply", "d0/dd6/a25623.html#a4af5930ce6445088070495765c78361c", null ],
+    [ "HandleEffectRemove", "d0/dd6/a25623.html#a6073ef880b4fa786b8f97567278904d8", null ],
+    [ "Load", "d0/dd6/a25623.html#a3e27cef303df9bc16e895ab65c7764b6", null ],
+    [ "PrepareAuraScript", "d0/dd6/a25623.html#a7b40247e633e734f7152352cd22599d9", null ],
+    [ "Register", "d0/dd6/a25623.html#a833b246d44bf09fda626eff0c11f6ee8", null ]
 ];

@@ -1,7 +1,7 @@
 var a06263 =
 [
-    [ "arg1", "d8/df3/a06263.html#aa2018e5823bcf013847605847231e3c2", null ],
-    [ "arg2", "d8/df3/a06263.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
-    [ "arg3", "d8/df3/a06263.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
-    [ "updateType", "d8/df3/a06263.html#a84cace2469c54d57b33abe5ca93588ca", null ]
+    [ "TransactionWithResultTask", "d8/df3/a06263.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
+    [ "Execute", "d8/df3/a06263.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
+    [ "GetFuture", "d8/df3/a06263.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
+    [ "m_result", "d8/df3/a06263.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
 ];

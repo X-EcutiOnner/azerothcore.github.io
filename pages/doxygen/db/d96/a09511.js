@@ -1,5 +1,5 @@
 var a09511 =
 [
-    [ "HolesType", "db/d96/a09511.html#a72531c15631ba45fe0c0ed962557e993", null ],
-    [ "holes", "db/d96/a09511.html#a496f77513e47d89adfcc2f32d4bc1242", null ]
+    [ "Visit", "db/d96/a09511.html#aa0f56809b23b117bde869576ddaa9dbd", null ],
+    [ "Visit", "db/d96/a09511.html#afab06305b5b3568b93d07f80efd616ae", null ]
 ];

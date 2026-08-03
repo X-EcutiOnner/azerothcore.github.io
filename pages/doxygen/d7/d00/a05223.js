@@ -1,9 +1,6 @@
 var a05223 =
 [
-    [ "DynamicTreeIntersectionCallback", "d7/d00/a05223.html#a77d71c68e20f4d19059317b307c27441", null ],
-    [ "didHit", "d7/d00/a05223.html#a616d15c3cce00574d604591bc8af4140", null ],
-    [ "operator()", "d7/d00/a05223.html#a9927d15de557ef58b7e4046e830f8dad", null ],
-    [ "_didHit", "d7/d00/a05223.html#a1805d508be79660d90f991e4453c2c9a", null ],
-    [ "_ignoreFlags", "d7/d00/a05223.html#a6559c66c8451c32078187a1c43b3a85e", null ],
-    [ "_phaseMask", "d7/d00/a05223.html#a52e7470145db9cc4c2369024fbf7bbb8", null ]
+    [ "Resolver", "d7/d00/a05223.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
+    [ "Resolve", "d7/d00/a05223.html#ab190f885c84753fe65405db6fb04bf7c", null ],
+    [ "_impl", "d7/d00/a05223.html#a08ed9183a6338606524c44f0fd5695a0", null ]
 ];

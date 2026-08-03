@@ -1,6 +1,7 @@
 var a26371 =
 [
-    [ "CheckProc", "db/da8/a26371.html#a6d19e939f4145f4226f88777e37c7514", null ],
-    [ "PrepareAuraScript", "db/da8/a26371.html#a821456f72ba2f38ecc31040560ea155f", null ],
-    [ "Register", "db/da8/a26371.html#a63a0773da832d8490d952de35fe5a29d", null ]
+    [ "HandleProc", "db/da8/a26371.html#a0564e0b3ae8c18c35d4c32feb7e365bd", null ],
+    [ "PrepareAuraScript", "db/da8/a26371.html#a07f8c8aa2ed37512b197084febed50ef", null ],
+    [ "Register", "db/da8/a26371.html#a10d283df17223afb32c238844bb5db67", null ],
+    [ "Validate", "db/da8/a26371.html#a1ee914e76abd22ba119740aa4aa6805e", null ]
 ];

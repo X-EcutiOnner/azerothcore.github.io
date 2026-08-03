@@ -1,7 +1,6 @@
 var a13611 =
 [
-    [ "OnPeriodic", "dc/d22/a13611.html#aa48b6f35302a8857465c6567f811dec6", null ],
-    [ "PrepareAuraScript", "dc/d22/a13611.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
-    [ "Register", "dc/d22/a13611.html#aa7708067531131738b86077638eda7ac", null ],
-    [ "Validate", "dc/d22/a13611.html#a665698b54201184185d96bd33f53e584", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "d4/d8a/a13615.html", "d4/d8a/a13615" ],
+    [ "instance_shadowfang_keep", "dc/d22/a13611.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
+    [ "GetInstanceScript", "dc/d22/a13611.html#a5c076ed86470247de5b4e3733b70fa25", null ]
 ];

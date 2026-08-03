@@ -1,7 +1,7 @@
 var a21295 =
 [
-    [ "npc_azure_captain", "d1/dd0/a21295.html#abbdba89267506b8dd1e93ea0e059979c", null ],
-    [ "Reset", "d1/dd0/a21295.html#ae9b8cc434f2b5690f3abc55d557cbd54", null ],
-    [ "UpdateAI", "d1/dd0/a21295.html#a9aacf1533414ade27973ddcc46434978", null ],
-    [ "_events", "d1/dd0/a21295.html#a6a69ea3d3eb75601f723a10eab68c260", null ]
+    [ "HandleScript", "d1/dd0/a21295.html#ac8d984ac87f51050113f7ac1a4625785", null ],
+    [ "PrepareSpellScript", "d1/dd0/a21295.html#a34f6166e27cb99e424dd081ffce704a5", null ],
+    [ "Register", "d1/dd0/a21295.html#a0dd5b7a8cf086ee3b5a6f30326874ee3", null ],
+    [ "Validate", "d1/dd0/a21295.html#a364c96f7253fde59e1a9a59a42c4d3a5", null ]
 ];

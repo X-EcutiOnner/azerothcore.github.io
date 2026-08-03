@@ -1,7 +1,6 @@
 var a20327 =
 [
-    [ "HandleEffectPeriodic", "d8/d0b/a20327.html#a428d1251465cc9947e7474eab83494e3", null ],
-    [ "PrepareAuraScript", "d8/d0b/a20327.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
-    [ "Register", "d8/d0b/a20327.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
-    [ "Validate", "d8/d0b/a20327.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
+    [ "achievement_flame_leviathan_towers", "d8/d0b/a20327.html#a491d66bdd373b6044e406126719ef910", null ],
+    [ "OnCheck", "d8/d0b/a20327.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
+    [ "_towerCount", "d8/d0b/a20327.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
 ];

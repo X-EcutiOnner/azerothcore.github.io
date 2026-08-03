@@ -1,6 +1,8 @@
 var a24295 =
 [
-    [ "HandleEffectApply", "de/d0c/a24295.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
-    [ "PrepareAuraScript", "de/d0c/a24295.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
-    [ "Register", "de/d0c/a24295.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
+    [ "npc_kservantAI", "de/d0c/a24295.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "de/d0c/a24295.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "de/d0c/a24295.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "de/d0c/a24295.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
+    [ "WaypointReached", "de/d0c/a24295.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

@@ -1,16 +1,20 @@
 var a13511 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "df/d73/a13511.html#a4abdd53f735be815cb2d43497d1531e0", null ],
-    [ "GetData", "df/d73/a13511.html#a07d9bcc1b1daa29f31be146aaa85993c", null ],
-    [ "GetGuidData", "df/d73/a13511.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
-    [ "OnCreatureCreate", "df/d73/a13511.html#a71fcfc166f945325a4ee149645a9ccef", null ],
-    [ "OnGameObjectCreate", "df/d73/a13511.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
-    [ "SetData", "df/d73/a13511.html#aaf498d563d070d6250a182f583651777", null ],
-    [ "_ashbringerNpcGUID", "df/d73/a13511.html#a1abdafc284def7ab4069a17c0aeda535", null ],
-    [ "_ashencounter", "df/d73/a13511.html#ac6f544cf00bb6d987c9128cce9c1aa10", null ],
-    [ "_doorChapelGUID", "df/d73/a13511.html#a9f5070bfd7326ccaa1ebe697524a814b", null ],
-    [ "_doorHighInquisitorGUID", "df/d73/a13511.html#a1c9c74f06b2e1db77d5e6c75e720290c", null ],
-    [ "_encounter", "df/d73/a13511.html#a9d025f0d9740eaec42fe4f45971a6cf9", null ],
-    [ "_mograineGUID", "df/d73/a13511.html#ad34fc11ed5bd36a8f3a84f183627deb1", null ],
-    [ "_whitemaneGUID", "df/d73/a13511.html#af6c6214f8d506815afeeb2af4ad4a71b", null ]
+    [ "boss_darkmaster_gandlingAI", "df/d73/a13511.html#a1fbd651c6f5ad3630ae450c6a523360c", null ],
+    [ "FindRoom", "df/d73/a13511.html#a7ca1847b3223c82f7c190546809c49bc", null ],
+    [ "GetData", "df/d73/a13511.html#a06e03e66d7a99a98ba915057c0082217", null ],
+    [ "JustDied", "df/d73/a13511.html#afaac9e6939e0d873f576129546560fba", null ],
+    [ "JustEngagedWith", "df/d73/a13511.html#aa71a73d3804187c6b89566ec3d1cd6ed", null ],
+    [ "JustSummoned", "df/d73/a13511.html#a24e4031367eb59ad7a9ea352bd0b4ccd", null ],
+    [ "OpenAllGates", "df/d73/a13511.html#ab28b7d97956c21515c9872d8f9122f18", null ],
+    [ "Reset", "df/d73/a13511.html#a8244b7b91de9a0413193001f41288f7f", null ],
+    [ "SetData", "df/d73/a13511.html#a1b7ed8e98d4a271dfd8df76738cc0072", null ],
+    [ "SetGate", "df/d73/a13511.html#a32fbc731852f46fbdd36b36764dd2303", null ],
+    [ "SpawnMobsInRoom", "df/d73/a13511.html#a68adf734efff345529dbb74bebe15798", null ],
+    [ "SpellHitTarget", "df/d73/a13511.html#ae98715a31cd22febb1725977556a48aa", null ],
+    [ "SummonedCreatureDespawn", "df/d73/a13511.html#aa0abb31ac1a05c4a99e4b8079410867a", null ],
+    [ "UpdateAI", "df/d73/a13511.html#a2c525445ad39ddc47366f3f632014d89", null ],
+    [ "current_room", "df/d73/a13511.html#a597f7ee62ee41ff6a1a12a6c9dd7cd93", null ],
+    [ "Guardians", "df/d73/a13511.html#a3681da718192f0f961282fa4f655355e", null ],
+    [ "summons", "df/d73/a13511.html#a745d411fc485892529cb4cc6f06ba3af", null ]
 ];

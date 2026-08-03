@@ -1,8 +1,9 @@
 var a18775 =
 [
-    [ "npc_lk_wicked_spiritAI", "d1/d21/a18775.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
-    [ "CanAIAttack", "d1/d21/a18775.html#ae094420b1a6e134632baa0b086c806c6", null ],
-    [ "JustDied", "d1/d21/a18775.html#adf153fab1c8639b2b5790ed418afb85d", null ],
-    [ "JustRespawned", "d1/d21/a18775.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
-    [ "Reset", "d1/d21/a18775.html#a8b15079251b6855679d738a342126006", null ]
+    [ "HandleScript", "d1/d21/a18775.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
+    [ "Load", "d1/d21/a18775.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
+    [ "PrepareSpellScript", "d1/d21/a18775.html#a73931c9434114749b9db648665153083", null ],
+    [ "Register", "d1/d21/a18775.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
+    [ "SelectTarget", "d1/d21/a18775.html#a95be527c43ceeb4801f4e494753c1b59", null ],
+    [ "_target", "d1/d21/a18775.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
 ];

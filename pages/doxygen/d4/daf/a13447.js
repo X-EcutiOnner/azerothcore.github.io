@@ -1,6 +1,5 @@
 var a13447 =
 [
-    [ "npc_acherus_necromancerAI", "df/da6/a13451.html", "df/da6/a13451" ],
-    [ "npc_acherus_necromancer", "d4/daf/a13447.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
-    [ "GetAI", "d4/daf/a13447.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
+    [ "boss_ellris_duskhallow", "d4/daf/a13447.html#a85dc1f923c8211180cc5b250fb509ba7", null ],
+    [ "JustEngagedWith", "d4/daf/a13447.html#a5bb5bc51b62ad371bf086c6ced2eee89", null ]
 ];

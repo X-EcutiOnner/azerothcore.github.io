@@ -1,6 +1,16 @@
 var a22987 =
 [
-    [ "OnPeriodic", "dc/d37/a22987.html#adfd5a3a6d9c16cd6acdb1f24e7874f20", null ],
-    [ "PrepareAuraScript", "dc/d37/a22987.html#a8444053fa146a4163ea905634be78dfc", null ],
-    [ "Register", "dc/d37/a22987.html#aad8868dc3d00fd3ea648abe7b536970d", null ]
+    [ "npc_akama_shade", "dc/d37/a22987.html#a95e956e162cb88d2814622bc10166ca5", null ],
+    [ "DamageTaken", "dc/d37/a22987.html#a962723ebc58a2b1f813fcc0715f9f2d2", null ],
+    [ "DoAction", "dc/d37/a22987.html#a59619f193d51e3bad05044aad2d96d9a", null ],
+    [ "EnterEvadeMode", "dc/d37/a22987.html#ae2441741caf0b91196469f67a38823bc", null ],
+    [ "JustEngagedWith", "dc/d37/a22987.html#a87df13ee30423c51e50670c535fdf99d", null ],
+    [ "JustSummoned", "dc/d37/a22987.html#a2372d2e64fb36b64f638583409cf9fa8", null ],
+    [ "MovementInform", "dc/d37/a22987.html#a4f1900d16dd36fbb9e573d59cf2176a1", null ],
+    [ "Reset", "dc/d37/a22987.html#a2d8161405dbb97cc1784e3cf49679d25", null ],
+    [ "sGossipSelect", "dc/d37/a22987.html#a8a18c7195f04caed0cf93655f556ad9a", null ],
+    [ "UpdateAI", "dc/d37/a22987.html#af9091eaa02a0967cbc2acb7d0160e5f1", null ],
+    [ "_died", "dc/d37/a22987.html#a1295073fb0f2dc19baeb16ad73ceb1df", null ],
+    [ "_sayLowHealth", "dc/d37/a22987.html#ae068b44aff8c9e4e1b75afab7959fda8", null ],
+    [ "instance", "dc/d37/a22987.html#a590f6a445bcda767c2197da05fc3cb15", null ]
 ];

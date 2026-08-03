@@ -1,8 +1,8 @@
 var a19675 =
 [
-    [ "npc_crystal_spike", "dd/d10/a19675.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "dd/d10/a19675.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "dd/d10/a19675.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "dd/d10/a19675.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "dd/d10/a19675.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "npc_teslaAI", "dd/d10/a19675.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "dd/d10/a19675.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "dd/d10/a19675.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "dd/d10/a19675.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "dd/d10/a19675.html#a962745569b07e368067ee483d2379840", null ]
 ];

@@ -1,9 +1,7 @@
 var a12283 =
 [
-    [ "autobroadcast_commandscript", "dd/d82/a12283.html#a00946e483860809c8b1d92e773c8eeef", null ],
-    [ "GetCommands", "dd/d82/a12283.html#a01d7689785a4267ac4bd57bfc0d269e9", null ],
-    [ "HandleAutobroadcastAddCommand", "dd/d82/a12283.html#a4217bea8d83682acbdd64a225c839227", null ],
-    [ "HandleAutobroadcastListCommand", "dd/d82/a12283.html#a0e4a07fd036d66fc5639a8e29fd45392", null ],
-    [ "HandleAutobroadcastLocaleCommand", "dd/d82/a12283.html#aaebf528b045b05b038d2a3f8801d3c85", null ],
-    [ "HandleAutobroadcastRemoveCommand", "dd/d82/a12283.html#af6445843506ac2b4c2b5c158480aab8c", null ]
+    [ "CompressedData", "dd/d82/a12283.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
+    [ "CompressedSize", "dd/d82/a12283.html#ab57879b41c825623a989db13a53f2f4e", null ],
+    [ "Id", "dd/d82/a12283.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
+    [ "Key", "dd/d82/a12283.html#ad100540b5c6722a19c938b134a985aed", null ]
 ];

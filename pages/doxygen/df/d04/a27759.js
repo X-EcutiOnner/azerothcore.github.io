@@ -1,5 +1,7 @@
 var a27759 =
 [
-    [ "achievement_not_even_a_scratch", "df/d04/a27759.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "df/d04/a27759.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "HandleDispel", "df/d04/a27759.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
+    [ "PrepareAuraScript", "df/d04/a27759.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
+    [ "Register", "df/d04/a27759.html#a2c67e4327fdd034978d4822311632980", null ],
+    [ "Validate", "df/d04/a27759.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
 ];

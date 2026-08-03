@@ -1,8 +1,7 @@
 var a11847 =
 [
-    [ "DirectionType", "dc/d83/a11847.html#a8491033c0286895c2d4d3280cfd529f0", null ],
-    [ "ObjectType", "dc/d83/a11847.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
-    [ "ReferenceType", "dc/d83/a11847.html#a44e310a789c4c5a288f07c9254ad389a", null ],
-    [ "SelectionCategory", "dc/d83/a11847.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
-    [ "SelectionCheckType", "dc/d83/a11847.html#a35c8d221b47de13408a0256598fa9d63", null ]
+    [ "DynObjAura", "dc/d83/a11847.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
+    [ "FillTargetMap", "dc/d83/a11847.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
+    [ "Remove", "dc/d83/a11847.html#ada3f65b4a817e2337da43da437b93a3b", null ],
+    [ "Aura::Create", "dc/d83/a11847.html#ae2c0fdfb409846fec5e861de60797112", null ]
 ];

@@ -1,14 +1,16 @@
 var a09567 =
 [
-    [ "WorldObjectSearcher", "dd/dfb/a09567.html#a4c8b6202710f1539e55eb8d30031ce62", null ],
-    [ "Visit", "dd/dfb/a09567.html#ace0642ee6949a06f9b94e350b49e64c1", null ],
-    [ "Visit", "dd/dfb/a09567.html#ac484deeb43ead6b9ea73182da97ff3ba", null ],
-    [ "Visit", "dd/dfb/a09567.html#a28a30052c55b2ffad85e8d2f4f008ff3", null ],
-    [ "Visit", "dd/dfb/a09567.html#a42fce9834443194e090e022f3f7618b0", null ],
-    [ "Visit", "dd/dfb/a09567.html#aae2b654236e3a85d9ba0b5ce48d5c315", null ],
-    [ "Visit", "dd/dfb/a09567.html#aa2742bc25a4773a487e9e8ff760644ea", null ],
-    [ "i_check", "dd/dfb/a09567.html#aa8af931f3d562aa1c31e774347db2e24", null ],
-    [ "i_mapTypeMask", "dd/dfb/a09567.html#a2910a3c0a932f2d3ea7d10d4541cbb39", null ],
-    [ "i_object", "dd/dfb/a09567.html#a8f705e476d2a32ca90d589d9b58b2c8d", null ],
-    [ "i_phaseMask", "dd/dfb/a09567.html#a5688db61fc9d297252987830eadb0ee5", null ]
+    [ "LiquidEntryType", "dd/dfb/a09567.html#a025eadf79f31d447fc80efabbb2f9f22", null ],
+    [ "LiquidFlagsType", "dd/dfb/a09567.html#a5bd1b8c77ed4830cc558985e98aa1d01", null ],
+    [ "LiquidMapType", "dd/dfb/a09567.html#a554cc712f06b4a0eb9bf81c4a41b9030", null ],
+    [ "liquidEntry", "dd/dfb/a09567.html#a1d69fc74b38f6e596704e26e93281314", null ],
+    [ "liquidFlags", "dd/dfb/a09567.html#a9ebf22bb06a9254e7175083dc51af9dd", null ],
+    [ "liquidGlobalEntry", "dd/dfb/a09567.html#a48274eeefa423c48ff860c8ffc110a30", null ],
+    [ "liquidGlobalFlags", "dd/dfb/a09567.html#abdd9bfcaf91f30c3e543e632c347aa88", null ],
+    [ "liquidHeight", "dd/dfb/a09567.html#a40f757a6fa57ade760cf1001925a0560", null ],
+    [ "liquidLevel", "dd/dfb/a09567.html#a45b8bab4cc66e6e5be5ef51ad27bf1cc", null ],
+    [ "liquidMap", "dd/dfb/a09567.html#ae6ddffb70a92aea580bacebb5a0e4d11", null ],
+    [ "liquidOffX", "dd/dfb/a09567.html#a310d68fbb4d88272b7ae93492331ce4b", null ],
+    [ "liquidOffY", "dd/dfb/a09567.html#ae8b485a43a960a810f5951df6419bd54", null ],
+    [ "liquidWidth", "dd/dfb/a09567.html#afee2d2d96fc879729a070d2b5eb114e0", null ]
 ];

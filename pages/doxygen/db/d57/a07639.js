@@ -1,10 +1,7 @@
 var a07639 =
 [
-    [ "Battleground2ChatBuilder", "db/d57/a07639.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1", null ],
-    [ "operator()", "db/d57/a07639.html#a7c0ee21531ba43d9d2ab427d95da2ec5", null ],
-    [ "_arg1", "db/d57/a07639.html#aa6959944406804f01baa18cd898bfc41", null ],
-    [ "_arg2", "db/d57/a07639.html#aebfaeac77c40d4c7938cbdd488defc51", null ],
-    [ "_msgtype", "db/d57/a07639.html#a770d30e207e41a8f985776787d53f2cf", null ],
-    [ "_source", "db/d57/a07639.html#a8867dd698d0457688202e1a9378255d2", null ],
-    [ "_textId", "db/d57/a07639.html#a632cab30adc21c22f1a8890b1627262a", null ]
+    [ "ArenaSeasonReward", "db/d57/a07639.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
+    [ "operator==", "db/d57/a07639.html#a22d6afdbc88c47d18dc840d537ae4150", null ],
+    [ "entry", "db/d57/a07639.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
+    [ "type", "db/d57/a07639.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
 ];

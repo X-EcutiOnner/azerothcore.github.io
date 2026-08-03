@@ -1,9 +1,9 @@
 var a13015 =
 [
-    [ "HandleEffectApply", "d2/d83/a13015.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
-    [ "HandleEffectRemove", "d2/d83/a13015.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
-    [ "Load", "d2/d83/a13015.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
-    [ "PrepareAuraScript", "d2/d83/a13015.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
-    [ "Register", "d2/d83/a13015.html#a201bafab6c483b08a6ae27054392dea9", null ],
-    [ "Validate", "d2/d83/a13015.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
+    [ "boss_baron_geddon", "d2/d83/a13015.html#a1e7cf41aff13c376dafa35a992c378d8", null ],
+    [ "DamageTaken", "d2/d83/a13015.html#a2a5a0ca6e40ac736171a8b80b0e66dad", null ],
+    [ "ExecuteEvent", "d2/d83/a13015.html#af81a1ef4345e55f3d537baeb0e9528f4", null ],
+    [ "JustEngagedWith", "d2/d83/a13015.html#ad0e720b1ea3e92fabeea8b78a6416f3f", null ],
+    [ "Reset", "d2/d83/a13015.html#aee0a2c6587a7f743491f3a3e31ed6527", null ],
+    [ "armageddonCasted", "d2/d83/a13015.html#a4ea01568770a91e6734d45e3730c62cc", null ]
 ];

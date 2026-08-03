@@ -1,10 +1,8 @@
 var a28163 =
 [
-    [ "go_evil_book_for_dummies", "db/dd3/a28163.html#a69f599910bce0070c6b1af547c459b72", null ],
-    [ "HasLeatherSpecialty", "db/dd3/a28163.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
-    [ "OnGossipHello", "db/dd3/a28163.html#aeb29351e2faf135298419488eb16cc7e", null ],
-    [ "OnGossipSelect", "db/dd3/a28163.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
-    [ "SendActionMenu", "db/dd3/a28163.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
-    [ "SendConfirmLearn", "db/dd3/a28163.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
-    [ "SendConfirmUnlearn", "db/dd3/a28163.html#af9c10b0423327d8644020e8f5e26a603", null ]
+    [ "FilterTargets", "db/dd3/a28163.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
+    [ "HandleEffect", "db/dd3/a28163.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
+    [ "PrepareSpellScript", "db/dd3/a28163.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
+    [ "Register", "db/dd3/a28163.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
+    [ "Validate", "db/dd3/a28163.html#aabc063155fad404ffd044c9f79b88051", null ]
 ];

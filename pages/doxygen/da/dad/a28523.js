@@ -1,11 +1,8 @@
 var a28523 =
 [
-    [ "ClassID", "da/dad/a28523.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
-    [ "DisplayInfoID", "da/dad/a28523.html#a87657df2ad024245ccb2192303f76b7a", null ],
-    [ "ID", "da/dad/a28523.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
-    [ "InventoryType", "da/dad/a28523.html#a6dc33fc40a299b010c18a7009aff648b", null ],
-    [ "Material", "da/dad/a28523.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
-    [ "SheatheType", "da/dad/a28523.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
-    [ "SoundOverrideSubclassID", "da/dad/a28523.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
-    [ "SubclassID", "da/dad/a28523.html#ac39254716573e335caf312f635353a2e", null ]
+    [ "npc_chicken_cluckAI", "d4/d1e/a28527.html", "d4/d1e/a28527" ],
+    [ "npc_chicken_cluck", "da/dad/a28523.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "da/dad/a28523.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "da/dad/a28523.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "da/dad/a28523.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

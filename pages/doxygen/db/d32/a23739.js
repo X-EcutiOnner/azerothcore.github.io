@@ -1,6 +1,14 @@
 var a23739 =
 [
-    [ "npc_deaths_fel_cannonAI", "db/d32/a23739.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
-    [ "Reset", "db/d32/a23739.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
-    [ "UpdateAI", "db/d32/a23739.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
+    [ "npc_warden_mellicharAI", "db/d32/a23739.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
+    [ "AttackStart", "db/d32/a23739.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
+    [ "DamageTaken", "db/d32/a23739.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
+    [ "JustDied", "db/d32/a23739.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
+    [ "JustEngagedWith", "db/d32/a23739.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
+    [ "JustSummoned", "db/d32/a23739.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
+    [ "MoveInLineOfSight", "db/d32/a23739.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
+    [ "Reset", "db/d32/a23739.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
+    [ "SetData", "db/d32/a23739.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
+    [ "SummonedCreatureDies", "db/d32/a23739.html#a58e1011986be65725d4db3d782bc72ac", null ],
+    [ "UpdateAI", "db/d32/a23739.html#a944cff5367213d561a7e6df5faf2a216", null ]
 ];

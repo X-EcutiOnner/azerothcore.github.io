@@ -1,6 +1,8 @@
 var a13331 =
 [
-    [ "boss_kagani_nightstrike", "df/dba/a13331.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
-    [ "JustEngagedWith", "df/dba/a13331.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
-    [ "MovementInform", "df/dba/a13331.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
+    [ "npc_tito", "df/dba/a13331.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
+    [ "JustEngagedWith", "df/dba/a13331.html#a71335c1474e8a29edf76addacb737fa9", null ],
+    [ "UpdateAI", "df/dba/a13331.html#ac357c29e68d8480d94349da844efd3ad", null ],
+    [ "_scheduler", "df/dba/a13331.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
+    [ "instance", "df/dba/a13331.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
 ];

@@ -1,6 +1,7 @@
 var a21047 =
 [
-    [ "boss_skadi_graufAI", "d2/d70/a21051.html", "d2/d70/a21051" ],
-    [ "boss_skadi_grauf", "d1/d77/a21047.html#a571db2d2ae21f38b7051319da0f042f6", null ],
-    [ "GetAI", "d1/d77/a21047.html#ab464e605bf001eee5517ad805066af57", null ]
+    [ "FilterTargets", "d1/d77/a21047.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
+    [ "HandleDummyEffect", "d1/d77/a21047.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
+    [ "PrepareSpellScript", "d1/d77/a21047.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
+    [ "Register", "d1/d77/a21047.html#a337cdb940a2001ac370768b02126d3c0", null ]
 ];

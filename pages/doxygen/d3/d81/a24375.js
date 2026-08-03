@@ -1,8 +1,8 @@
 var a24375 =
 [
-    [ "HandleEffectApply", "d3/d81/a24375.html#a88e98bcb11fb16696f789878f79c665c", null ],
-    [ "HandleEffectRemove", "d3/d81/a24375.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2", null ],
-    [ "PrepareAuraScript", "d3/d81/a24375.html#a64f9e0f3d0376342767b912e32642c6c", null ],
-    [ "Register", "d3/d81/a24375.html#a72d6639589588282ea15cfe83c9e9b76", null ],
-    [ "Validate", "d3/d81/a24375.html#ac936c92c3a24fba95505243cd3e79c21", null ]
+    [ "npc_pet_dk_army_of_the_dead", "d3/d81/a24375.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
+    [ "CanAIAttack", "d3/d81/a24375.html#a514fe49b143f57ef87359b3060911c02", null ],
+    [ "OwnerAttacked", "d3/d81/a24375.html#ad5189df825dc917e59c9b19e4a84cded", null ],
+    [ "OwnerAttackedBy", "d3/d81/a24375.html#a01f21e7c57f4bf7f9457c72fda4e9022", null ],
+    [ "UpdateAI", "d3/d81/a24375.html#ac44836f84d172dfac90dfb3eaaeeac6a", null ]
 ];

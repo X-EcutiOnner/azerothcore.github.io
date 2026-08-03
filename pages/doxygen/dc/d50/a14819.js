@@ -1,8 +1,11 @@
 var a14819 =
 [
-    [ "HandleDummy", "dc/d50/a14819.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
-    [ "Load", "dc/d50/a14819.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
-    [ "PrepareSpellScript", "dc/d50/a14819.html#af1d1ad32d41d79008d650b388353346b", null ],
-    [ "Register", "dc/d50/a14819.html#a53a7c4c025324b205a29f92dd48aefde", null ],
-    [ "handled", "dc/d50/a14819.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
+    [ "npc_elder_kekek", "dc/d50/a14819.html#a6084af39be5c70699c9fdcf3cd58e954", null ],
+    [ "MoveInLineOfSight", "dc/d50/a14819.html#a0c673e4fdf8e75d3bc8570db166bcd95", null ],
+    [ "Reset", "dc/d50/a14819.html#a97e615bdefba5baf459960fc2987cd69", null ],
+    [ "UpdateAI", "dc/d50/a14819.html#a5823bc7164d797c40d48b9b74642d9b5", null ],
+    [ "orphanGUID", "dc/d50/a14819.html#a98c79e46e051c35819c6025828a519cb", null ],
+    [ "phase", "dc/d50/a14819.html#a99fd9d984f92d5ba8b5876675855d4f6", null ],
+    [ "playerGUID", "dc/d50/a14819.html#a614ed3332f4af3c5178aa69da968a3d3", null ],
+    [ "timer", "dc/d50/a14819.html#a445c048d8858f5dc7c1e88308ed7e5ab", null ]
 ];

@@ -1,7 +1,6 @@
 var a21863 =
 [
-    [ "GetSeatNumber", "da/daf/a21863.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "da/daf/a21863.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "da/daf/a21863.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "da/daf/a21863.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "npc_q24545_vegardAI", "d2/d68/a21867.html", "d2/d68/a21867" ],
+    [ "npc_q24545_vegard", "da/daf/a21863.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
+    [ "GetAI", "da/daf/a21863.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
 ];

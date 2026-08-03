@@ -1,11 +1,6 @@
 var a23715 =
 [
-    [ "boss_pathaleon_the_calculator", "d3/db3/a23715.html#a679dc3ccc23c6def44e0f0669822e146", null ],
-    [ "CanAIAttack", "d3/db3/a23715.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
-    [ "DoAction", "d3/db3/a23715.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
-    [ "JustDied", "d3/db3/a23715.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
-    [ "JustEngagedWith", "d3/db3/a23715.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
-    [ "KilledUnit", "d3/db3/a23715.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
-    [ "Reset", "d3/db3/a23715.html#adc48067c3656bf768c3013ff266565c0", null ],
-    [ "_isEnraged", "d3/db3/a23715.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "d6/db0/a23719.html", "d6/db0/a23719" ],
+    [ "instance_shattered_halls", "d3/db3/a23715.html#a9d0d3b6baec34c679151791610cff3a7", null ],
+    [ "GetInstanceScript", "d3/db3/a23715.html#a82388466811b022a725ba721845cadf3", null ]
 ];

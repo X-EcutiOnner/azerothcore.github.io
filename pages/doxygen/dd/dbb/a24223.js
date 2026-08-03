@@ -1,9 +1,7 @@
 var a24223 =
 [
-    [ "npc_pet_shaman_fire_elemental", "dd/dbb/a24223.html#a3428642963fc9e7588ec92fd838f1af9", null ],
-    [ "InitializeAI", "dd/dbb/a24223.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
-    [ "JustEngagedWith", "dd/dbb/a24223.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
-    [ "UpdateAI", "dd/dbb/a24223.html#a2280e5cc5187a91917a1e517e80e960d", null ],
-    [ "_events", "dd/dbb/a24223.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
-    [ "_initAttack", "dd/dbb/a24223.html#a2df79acc05dd8489e9e994e044b45404", null ]
+    [ "o", "dd/dbb/a24223.html#a3785e9b55ea3a7140086ce1f86232109", null ],
+    [ "x", "dd/dbb/a24223.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
+    [ "y", "dd/dbb/a24223.html#a10fbad67977d8dd3911eb629c1797684", null ],
+    [ "z", "dd/dbb/a24223.html#a69fc2438e52f6c0de3af13900ff38166", null ]
 ];

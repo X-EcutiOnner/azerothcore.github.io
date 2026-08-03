@@ -1,7 +1,7 @@
 var a03677 =
 [
-    [ "instance_magisters_terrace", "d8/d7d/a13478.html", "d8/d7d/a13478" ],
-    [ "instance_magisters_terrace::instance_magisters_terrace_InstanceMapScript", "d2/d6f/a13482.html", "d2/d6f/a13482" ],
+    [ "instance_magisters_terrace", "d1/d63/a13483.html", "d1/d63/a13483" ],
+    [ "instance_magisters_terrace::instance_magisters_terrace_InstanceMapScript", "d4/dc1/a13487.html", "d4/dc1/a13487" ],
     [ "AddSC_instance_magisters_terrace", "d4/d78/a03677.html#a39e3bff767d59081afebb72eeb3a1646", null ],
     [ "boundaries", "d4/d78/a03677.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "d4/d78/a03677.html#a412286b689bd324fedd65ddd8dde8afb", null ],

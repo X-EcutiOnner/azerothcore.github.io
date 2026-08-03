@@ -1,5 +1,7 @@
 var a20367 =
 [
-    [ "achievement_cheese_the_freeze", "da/d30/a20367.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
-    [ "OnCheck", "da/d30/a20367.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
+    [ "boss_freya_healthy_spore", "da/d30/a20367.html#abc2492b9cf96cb00940b18fac549fb00", null ],
+    [ "Reset", "da/d30/a20367.html#abe3f794707aa722e73b1728700876083", null ],
+    [ "UpdateAI", "da/d30/a20367.html#ac8c952848687cd883aaefe466b799e3b", null ],
+    [ "_despawnTimer", "da/d30/a20367.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
 ];

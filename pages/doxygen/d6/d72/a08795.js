@@ -1,7 +1,8 @@
 var a08795 =
 [
-    [ "UsedPos", "d6/d72/a08795.html#aef230e392619ad4abc2da649d11b2394", null ],
-    [ "dist", "d6/d72/a08795.html#ae73cbe8b0cf3ce714f6654df3a8874de", null ],
-    [ "sign", "d6/d72/a08795.html#a2b5f97425309d56482a1f287b6d5be69", null ],
-    [ "size", "d6/d72/a08795.html#a4ad5a2df36ae9c1cd9130c5efd27af58", null ]
+    [ "Reset", "d6/d72/a08795.html#a28a5bd110553457c86d7f77e78041713", null ],
+    [ "cosAngle", "d6/d72/a08795.html#a37f49fc816f37dff8c1947f4de7f04d5", null ],
+    [ "sinAngle", "d6/d72/a08795.html#af2a184b7c8e7f324607a0b7468bcb8f6", null ],
+    [ "xyspeed", "d6/d72/a08795.html#a6fada60d677d89580c3a718d42a75d17", null ],
+    [ "zspeed", "d6/d72/a08795.html#ad0a5a36aeabc9b8d8ea27cecae30ae31", null ]
 ];

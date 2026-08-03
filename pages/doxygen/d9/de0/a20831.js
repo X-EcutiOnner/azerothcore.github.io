@@ -1,8 +1,9 @@
 var a20831 =
 [
-    [ "Absorb", "d9/de0/a20831.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
-    [ "CalculateAmount", "d9/de0/a20831.html#afe50bf22d07e68757caffb056ad55811", null ],
-    [ "PrepareAuraScript", "d9/de0/a20831.html#afa4ef1f7faa36a521c208dde10d09437", null ],
-    [ "Register", "d9/de0/a20831.html#aae020936d42da81c445f7d296660987b", null ],
-    [ "Validate", "d9/de0/a20831.html#a5852135c5214ee3938603632b0f21917", null ]
+    [ "boss_thorim_gauntlet_npcs", "d9/de0/a20831.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
+    [ "JustEngagedWith", "d9/de0/a20831.html#af10a444bada5743c837a9979726c79c9", null ],
+    [ "Reset", "d9/de0/a20831.html#a22fcffcc05f155524cadade389ec3607", null ],
+    [ "UpdateAI", "d9/de0/a20831.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
+    [ "_isCaster", "d9/de0/a20831.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
+    [ "events", "d9/de0/a20831.html#aec35e2b91841c386f083681673e15598", null ]
 ];

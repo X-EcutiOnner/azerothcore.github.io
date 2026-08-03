@@ -1,7 +1,5 @@
 var a20563 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d2/d72/a20563.html#a100678bddd6a0e859c72035d4642d8e2", null ],
-    [ "MoveInLineOfSight", "d2/d72/a20563.html#a870bdc842d8d7078302a36a20ef661e4", null ],
-    [ "_instance", "d2/d72/a20563.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
-    [ "_introSpoken", "d2/d72/a20563.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
+    [ "achievement_ignis_shattered", "d2/d72/a20563.html#adbe893b0dd409eb3f10768f81f182f61", null ],
+    [ "OnCheck", "d2/d72/a20563.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
 ];

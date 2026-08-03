@@ -1,14 +1,7 @@
 var a28427 =
 [
-    [ "FlameshockerCheck", "d1/d97/a28431.html", "d1/d97/a28431" ],
-    [ "npc_pallid_horror", "d0/d9c/a28427.html#ae43fa737cdc303d68f34ac2fbb356814", null ],
-    [ "CorpseRemoved", "d0/d9c/a28427.html#a700af3062528a6c41f7f0985f1820b36", null ],
-    [ "InitializeAI", "d0/d9c/a28427.html#a2711bdb05ad74a4d0425b4f61dcddab4", null ],
-    [ "JustDied", "d0/d9c/a28427.html#a6145be6ed4a56ec8f8e923187ceea47c", null ],
-    [ "JustSummoned", "d0/d9c/a28427.html#a801e04d47de8d86dcfbfa552de54cd0f", null ],
-    [ "ScheduleTasks", "d0/d9c/a28427.html#aa9e851cb55238bb4cf6c1e7a9d309c20", null ],
-    [ "SummonFlameshockers", "d0/d9c/a28427.html#afc2625ef0ddae00fd14d3dbf7952b0cf", null ],
-    [ "UpdateAI", "d0/d9c/a28427.html#a701b52b2977017c692368a5d363dd6bd", null ],
-    [ "UpdateWeather", "d0/d9c/a28427.html#ac9c5b8d4274e443f4c74b2b40aa5830f", null ],
-    [ "_summons", "d0/d9c/a28427.html#a0948ef0c5971a8b6ffee2269d8bca3a6", null ]
+    [ "npc_prof_leather", "d0/d9c/a28427.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
+    [ "HasLeatherSpecialty", "d0/d9c/a28427.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
+    [ "OnGossipHello", "d0/d9c/a28427.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
+    [ "OnGossipSelect", "d0/d9c/a28427.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
 ];

@@ -1,6 +1,6 @@
 var a12559 =
 [
-    [ "boss_vanndarAI", "d4/db5/a12563.html", "d4/db5/a12563" ],
-    [ "boss_vanndar", "d8/dfc/a12559.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
-    [ "GetAI", "d8/dfc/a12559.html#ad1879cc6123a323ada04c49a2c691349", null ]
+    [ "player_settings_commandscript", "d8/dfc/a12559.html#ab8585064d4d358d7d48eed97379a3a78", null ],
+    [ "GetCommands", "d8/dfc/a12559.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
+    [ "HandleSettingsAnnouncerFlags", "d8/dfc/a12559.html#af505117caa66ed4222e52ff91c486b6e", null ]
 ];

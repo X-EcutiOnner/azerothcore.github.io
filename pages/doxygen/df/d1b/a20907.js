@@ -1,9 +1,8 @@
 var a20907 =
 [
-    [ "npc_ulduar_keeperAI", "df/d1b/a20907.html#ac69d21f3820f2c01a80ff664c317d111", null ],
-    [ "DoAction", "df/d1b/a20907.html#a03011d04761926d67e43c0bea5a0901f", null ],
-    [ "Reset", "df/d1b/a20907.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
-    [ "SpellHit", "df/d1b/a20907.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
-    [ "UpdateAI", "df/d1b/a20907.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
-    [ "_keeper", "df/d1b/a20907.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
+    [ "OnPeriodic", "df/d1b/a20907.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
+    [ "OnRemove", "df/d1b/a20907.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
+    [ "PrepareAuraScript", "df/d1b/a20907.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
+    [ "Register", "df/d1b/a20907.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
+    [ "Validate", "df/d1b/a20907.html#aa56622a1e57c157260940023a6c70a35", null ]
 ];

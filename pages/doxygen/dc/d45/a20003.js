@@ -1,7 +1,7 @@
 var a20003 =
 [
-    [ "HandlePeriodic", "dc/d45/a20003.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
-    [ "PrepareAuraScript", "dc/d45/a20003.html#ad78b06733a8609dd39e885db2f23edba", null ],
-    [ "Register", "dc/d45/a20003.html#ac9ae9be546964752869163896c4045dd", null ],
-    [ "Validate", "dc/d45/a20003.html#afcca84d03b29ef7569c03f973a6c191b", null ]
+    [ "HandleScript", "dc/d45/a20003.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
+    [ "PrepareSpellScript", "dc/d45/a20003.html#a34337690029eedb60a17572dbbf1e1f9", null ],
+    [ "Register", "dc/d45/a20003.html#ad554d79e1a98490085b22f5038d058da", null ],
+    [ "Validate", "dc/d45/a20003.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
 ];

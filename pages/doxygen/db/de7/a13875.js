@@ -1,9 +1,7 @@
 var a13875 =
 [
-    [ "boss_entropius", "db/de7/a13875.html#a458deaa80c9694cd2608150bc5519c76", null ],
-    [ "EnterEvadeMode", "db/de7/a13875.html#a01889b192525af082471d092bff28c88", null ],
-    [ "JustDied", "db/de7/a13875.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
-    [ "JustEngagedWith", "db/de7/a13875.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
-    [ "Reset", "db/de7/a13875.html#ad9da990a540703d38cb45dd2da72c179", null ],
-    [ "UpdateAI", "db/de7/a13875.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
+    [ "npc_singularity", "db/de7/a13875.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "db/de7/a13875.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "db/de7/a13875.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "db/de7/a13875.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

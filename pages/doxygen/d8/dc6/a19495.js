@@ -1,10 +1,12 @@
 var a19495 =
 [
-    [ "boss_razuvious_minionAI", "d8/dc6/a19495.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
-    [ "DoAction", "d8/dc6/a19495.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
-    [ "JustEngagedWith", "d8/dc6/a19495.html#ada2e7a5ac1f129572a0689afce49d310", null ],
-    [ "KilledUnit", "d8/dc6/a19495.html#ab1a6f582098c9d1218551af0aae1815d", null ],
-    [ "Reset", "d8/dc6/a19495.html#a170de8517a03a0e78b1e67652869fd9a", null ],
-    [ "ScheduleAttackDummy", "d8/dc6/a19495.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
-    [ "UpdateAI", "d8/dc6/a19495.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
+    [ "npc_boss_gothik_minionAI", "d8/dc6/a19495.html#aa719d87c65294fc483b424b125619a10", null ],
+    [ "IsOnSameSide", "d8/dc6/a19495.html#a7d305be5e3d66c1317fa91e588223da0", null ],
+    [ "JustDied", "d8/dc6/a19495.html#a752b6eab9cf1b016962c6f535586b59d", null ],
+    [ "JustEngagedWith", "d8/dc6/a19495.html#ad86778d5a0e883a839b4a43425a57d7f", null ],
+    [ "KilledUnit", "d8/dc6/a19495.html#a6a09440d623dcee51b7e0d4ed77d624e", null ],
+    [ "Reset", "d8/dc6/a19495.html#a309401236c254cd850759a0cbb4004e0", null ],
+    [ "UpdateAI", "d8/dc6/a19495.html#a43744e96be00d8bc0afc34a570e79947", null ],
+    [ "events", "d8/dc6/a19495.html#ae2dde7b4fc655b1ae27410d299776c49", null ],
+    [ "livingSide", "d8/dc6/a19495.html#a2545d00e04bae9ee0a1bf9f9d6162c74", null ]
 ];

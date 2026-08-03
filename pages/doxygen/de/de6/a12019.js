@@ -1,6 +1,10 @@
 var a12019 =
 [
-    [ "EffectAbsorbHandler", "de/de6/a12019.html#a29bb773b8271acf651b08f33ce358720", null ],
-    [ "Call", "de/de6/a12019.html#a56bfb0fd0d860678920445d1182c09ef", null ],
-    [ "pEffectHandlerScript", "de/de6/a12019.html#a519489b8d951173a806e86cfe075faf1", null ]
+    [ "EffectHook", "de/de6/a12019.html#a4a197e061d918dfba2bc486f3393b00d", null ],
+    [ "~EffectHook", "de/de6/a12019.html#aa234f63b530764d12064acbe3f5c9299", null ],
+    [ "CheckEffect", "de/de6/a12019.html#ae8823c5d649d182f572818bf3db72902", null ],
+    [ "EffIndexToString", "de/de6/a12019.html#ab818ed274cfd66ecc565b8535b751517", null ],
+    [ "GetAffectedEffectsMask", "de/de6/a12019.html#a31faa86590e22f5ab3ca518f4df02840", null ],
+    [ "IsEffectAffected", "de/de6/a12019.html#a697041ffa562bb6fff792beb159c7af2", null ],
+    [ "effIndex", "de/de6/a12019.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
 ];

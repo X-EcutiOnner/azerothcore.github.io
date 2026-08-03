@@ -1,7 +1,7 @@
 var a13159 =
 [
-    [ "OnRemove", "d0/d8c/a13159.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
-    [ "PrepareAuraScript", "d0/d8c/a13159.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
-    [ "Register", "d0/d8c/a13159.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
-    [ "Validate", "d0/d8c/a13159.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
+    [ "npc_kernobeeAI", "d1/da2/a13163.html", "d1/da2/a13163" ],
+    [ "npc_kernobee", "d0/d8c/a13159.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
+    [ "GetAI", "d0/d8c/a13159.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
+    [ "OnQuestAccept", "d0/d8c/a13159.html#a378653fb57a1e49703202ca4e30a6474", null ]
 ];

@@ -1,6 +1,6 @@
 var a18543 =
 [
-    [ "LichKingDeathEvent", "d2/dda/a18543.html#a9aa328b60358034355b1eed5caacb9f8", null ],
-    [ "Execute", "d2/dda/a18543.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
-    [ "_owner", "d2/dda/a18543.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
+    [ "npc_spinestalkerAI", "d8/d5d/a18547.html", "d8/d5d/a18547" ],
+    [ "npc_spinestalker", "d2/dda/a18543.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
+    [ "GetAI", "d2/dda/a18543.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
 ];

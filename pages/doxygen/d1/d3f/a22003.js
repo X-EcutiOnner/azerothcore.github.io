@@ -1,6 +1,6 @@
 var a22003 =
 [
-    [ "HandleScript", "d1/d3f/a22003.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
-    [ "PrepareSpellScript", "d1/d3f/a22003.html#a5a4ce9453638d61fe52514240f0a9384", null ],
-    [ "Register", "d1/d3f/a22003.html#a889f931aaa37d3a283f4d585b384a68e", null ]
+    [ "npc_attracted_reef_bullAI", "df/db8/a22007.html", "df/db8/a22007" ],
+    [ "npc_attracted_reef_bull", "d1/d3f/a22003.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
+    [ "GetAI", "d1/d3f/a22003.html#af705e2768cd41c955af7f944c670ac85", null ]
 ];

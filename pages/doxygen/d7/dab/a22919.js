@@ -1,15 +1,8 @@
 var a22919 =
 [
-    [ "boss_hydross_the_unstable", "d7/dab/a22919.html#a8e385f4f7f448033b00828540aa16cde", null ],
-    [ "JustDied", "d7/dab/a22919.html#ad05fa00eade9614ed54b03a9a4d5d348", null ],
-    [ "JustEngagedWith", "d7/dab/a22919.html#a4fd2138ce9962d89410b57702d7df33d", null ],
-    [ "JustReachedHome", "d7/dab/a22919.html#a03cbe48effc4cd3a2821312e60578ed4", null ],
-    [ "JustSummoned", "d7/dab/a22919.html#a3e9031d95c9e62cbd83eeba4af6c965a", null ],
-    [ "KilledUnit", "d7/dab/a22919.html#a252d3abdf24c06922c88823bc5e535f3", null ],
-    [ "Reset", "d7/dab/a22919.html#a0bcad41c74800ab58df8b5ea54d2ec8e", null ],
-    [ "SetForm", "d7/dab/a22919.html#ac80b0611533998d15406d45385d37629", null ],
-    [ "SummonedCreatureDespawn", "d7/dab/a22919.html#afe4b76f528045506586f8289eaee27aa", null ],
-    [ "SummonMovementInform", "d7/dab/a22919.html#af74b63bf239de38f8dd04e69a6ea2b54", null ],
-    [ "SummonTaintedElementalOOC", "d7/dab/a22919.html#a219094dc5a81acb7d7ae86d5d7945da8", null ],
-    [ "_recentlySpoken", "d7/dab/a22919.html#acfd0f1a6331b08659c5fffa7850d30b4", null ]
+    [ "FilterTargets", "d7/dab/a22919.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
+    [ "HandleDummy", "d7/dab/a22919.html#ab89ab441f022ee017548ba49d128b92e", null ],
+    [ "PrepareSpellScript", "d7/dab/a22919.html#aa8578390d7d9379328c02ceb209e94ed", null ],
+    [ "Register", "d7/dab/a22919.html#a486387d707b7ad66ecb443ab2bb60778", null ],
+    [ "Validate", "d7/dab/a22919.html#ad5d695978794d796eb7139fce1530d57", null ]
 ];

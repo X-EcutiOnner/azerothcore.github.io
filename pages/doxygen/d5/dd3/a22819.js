@@ -1,9 +1,8 @@
 var a22819 =
 [
-    [ "HandleEffectApply", "d5/dd3/a22819.html#aca8ff864832d30e45bccfca12256560a", null ],
-    [ "HandleEffectRemove", "d5/dd3/a22819.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7", null ],
-    [ "Load", "d5/dd3/a22819.html#a3b9838f26673ce344ca40f9f487ef878", null ],
-    [ "PrepareAuraScript", "d5/dd3/a22819.html#a79b93c86a01d31d08cba15436856b794", null ],
-    [ "Register", "d5/dd3/a22819.html#aa6c04279944abd31c42bb5dc4319aaf2", null ],
-    [ "_turtleSet", "d5/dd3/a22819.html#a308b9e032576ae058e9f2469dcc8ff23", null ]
+    [ "Load", "d5/dd3/a22819.html#a4ff26763f05b07d882cd8d209464910e", null ],
+    [ "OnPeriodic", "d5/dd3/a22819.html#a3e3bb503a6b5f90741a4df668851accf", null ],
+    [ "PrepareAuraScript", "d5/dd3/a22819.html#a4126d35669859963f10ed1425a054298", null ],
+    [ "Register", "d5/dd3/a22819.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
+    [ "Validate", "d5/dd3/a22819.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
 ];

@@ -1,6 +1,6 @@
 var a21879 =
 [
-    [ "HandleDummy", "d6/d4a/a21879.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "d6/d4a/a21879.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "d6/d4a/a21879.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "d3/d4f/a21883.html", "d3/d4f/a21883" ],
+    [ "npc_commander_eligor_dawnbringer", "d6/d4a/a21879.html#a71d919af98464d6d63f948507f3ff08c", null ],
+    [ "GetAI", "d6/d4a/a21879.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
 ];

@@ -1,6 +1,7 @@
 var a10939 =
 [
-    [ "EmoteClient", "d7/de2/a10939.html#af98c098cb1019057d8027f39c168e1a9", null ],
-    [ "Read", "d7/de2/a10939.html#abad5fca865b7b99e595ce95137e8105c", null ],
-    [ "EmoteID", "d7/de2/a10939.html#a24503de36535106220984ffbf6ba0338", null ]
+    [ "AutoBankItem", "d7/de2/a10939.html#a02d39ddc9eda90be709b2fa9c1f6023d", null ],
+    [ "Read", "d7/de2/a10939.html#a8651192c6040cdf5d257c134dde1208c", null ],
+    [ "Bag", "d7/de2/a10939.html#a69f9b65ecb778c94c6e9278e5f98d31b", null ],
+    [ "Slot", "d7/de2/a10939.html#a970f2ca85a76de1a25ad40a9ebf0029f", null ]
 ];

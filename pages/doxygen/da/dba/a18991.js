@@ -1,6 +1,7 @@
 var a18991 =
 [
-    [ "npc_captain_brandonAI", "d6/d4d/a18995.html", "d6/d4d/a18995" ],
-    [ "npc_captain_brandon", "da/dba/a18991.html#ad522dd280882d894b5d32e7c888f2360", null ],
-    [ "GetAI", "da/dba/a18991.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
+    [ "HandleForceCast", "da/dba/a18991.html#accc757e0a23103242865f0ce3085f9d9", null ],
+    [ "Load", "da/dba/a18991.html#a7206571378a0196a8648659628bdeece", null ],
+    [ "PrepareSpellScript", "da/dba/a18991.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
+    [ "Register", "da/dba/a18991.html#ace665321732f59f13b2ef831c71c2f18", null ]
 ];

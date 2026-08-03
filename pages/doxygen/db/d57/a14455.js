@@ -1,9 +1,6 @@
 var a14455 =
 [
-    [ "boss_hazzarah", "db/d57/a14455.html#a73ba49b91addc9c03e1692587fe66a52", null ],
-    [ "CanAIAttack", "db/d57/a14455.html#a9038a5b4276fda8a6865217a7c494eec", null ],
-    [ "JustEngagedWith", "db/d57/a14455.html#a18e382c03ff923bb851a9cd8e2541788", null ],
-    [ "JustSummoned", "db/d57/a14455.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
-    [ "SummonedCreatureDies", "db/d57/a14455.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
-    [ "UpdateAI", "db/d57/a14455.html#a61d92f1650a84ed9684d33879e54bd09", null ]
+    [ "boss_arlokkAI", "d7/d85/a14459.html", "d7/d85/a14459" ],
+    [ "boss_arlokk", "db/d57/a14455.html#a55bb21239e05acff18d2fb147449800e", null ],
+    [ "GetAI", "db/d57/a14455.html#a58b8cc7a198784b48faaab1b069d397c", null ]
 ];

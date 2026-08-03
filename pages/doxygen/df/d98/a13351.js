@@ -1,6 +1,8 @@
 var a13351 =
 [
-    [ "boss_garaxxas", "df/d98/a13351.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
-    [ "JustEngagedWith", "df/d98/a13351.html#aebfd7b63d714468ed69e920fb89c345d", null ],
-    [ "Reset", "df/d98/a13351.html#a56e6489ce49971cb066444888355626e", null ]
+    [ "npc_cyclone", "df/d98/a13351.html#afdc4f98b031f832702929c6a7f192ab5", null ],
+    [ "JustEngagedWith", "df/d98/a13351.html#a61d0710868c91f707643a436c0d79485", null ],
+    [ "Reset", "df/d98/a13351.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
+    [ "UpdateAI", "df/d98/a13351.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
+    [ "_scheduler", "df/d98/a13351.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
 ];

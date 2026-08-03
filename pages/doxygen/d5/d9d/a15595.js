@@ -1,10 +1,8 @@
 var a15595 =
 [
-    [ "boss_huhuran", "d5/d9d/a15595.html#a64e0b20891992764c708cbb661c18196", null ],
-    [ "DamageTaken", "d5/d9d/a15595.html#adb47086f29b41f4168ad5d1b2728547d", null ],
-    [ "JustEngagedWith", "d5/d9d/a15595.html#a08f1d6550680d5bcf07332eade115730", null ],
-    [ "Reset", "d5/d9d/a15595.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
-    [ "UpdateAI", "d5/d9d/a15595.html#a23962e668f046b373f94ea6a2d75574a", null ],
-    [ "_berserk", "d5/d9d/a15595.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
-    [ "_hardEnrage", "d5/d9d/a15595.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
+    [ "npc_obsidian_destroyer", "d5/d9d/a15595.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "d5/d9d/a15595.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "d5/d9d/a15595.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "d5/d9d/a15595.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "d5/d9d/a15595.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

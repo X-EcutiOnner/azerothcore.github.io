@@ -1,9 +1,5 @@
 var a07535 =
 [
-    [ "entryAlliance", "dc/d39/a07535.html#a0e5dba26d6d335a9d1e5f40e737acddd", null ],
-    [ "entryHorde", "dc/d39/a07535.html#a374fff4b069e89489395246f378b4900", null ],
-    [ "o", "dc/d39/a07535.html#af8a4ec46795bcdbc77c76302a4cfe639", null ],
-    [ "x", "dc/d39/a07535.html#ab557bbe497fc769b390cf0799b6aaed9", null ],
-    [ "y", "dc/d39/a07535.html#a44a8f3fd8d3cac7cfe61471d8b785ad4", null ],
-    [ "z", "dc/d39/a07535.html#adebb903a00687e17d9088f5da2c97f4a", null ]
+    [ "AuctionSearchAdd", "dc/d39/a07535.html#a40116c721d736fe362a3dab56e6b3113", null ],
+    [ "searchableAuctionEntry", "dc/d39/a07535.html#a48e000b0e7d9411676fd2ccacf283163", null ]
 ];

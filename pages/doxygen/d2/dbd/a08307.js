@@ -1,20 +1,7 @@
 var a08307 =
 [
-    [ "LFGDungeonData", "d2/dbd/a08307.html#af609ccb3be2e80fa6cd0339f91f6d094", null ],
-    [ "LFGDungeonData", "d2/dbd/a08307.html#ada24faec77a2174bd436535eb283ebc2", null ],
-    [ "Entry", "d2/dbd/a08307.html#ad421a384c1e1c37ff897cc50421fe3d9", null ],
-    [ "difficulty", "d2/dbd/a08307.html#a310b9d83b84a6f8896ac62b89ca16be3", null ],
-    [ "expansion", "d2/dbd/a08307.html#a0d5bc7c615666f52aca24ee34d849992", null ],
-    [ "group", "d2/dbd/a08307.html#a8791fcc476a5ebec99327f497f53db04", null ],
-    [ "id", "d2/dbd/a08307.html#ae25732254c64f1a2bca8a938a240e509", null ],
-    [ "map", "d2/dbd/a08307.html#ac981fbb0aaf96ea75482273c50bc53e7", null ],
-    [ "maxlevel", "d2/dbd/a08307.html#a9419e8826804b6d0a2c8b65de3b513dd", null ],
-    [ "minlevel", "d2/dbd/a08307.html#a4ef8f3bbf52a2ac8c45eeaa61aa22e2d", null ],
-    [ "name", "d2/dbd/a08307.html#a6eef80ccf8defe89696cec1675033ea2", null ],
-    [ "o", "d2/dbd/a08307.html#a42dd178512ebfbba612889f3ff5384bb", null ],
-    [ "seasonal", "d2/dbd/a08307.html#ad8b1d936512ebb1075fe2a15f29abff1", null ],
-    [ "type", "d2/dbd/a08307.html#aaea170ae5069dc46022652bfacd22edf", null ],
-    [ "x", "d2/dbd/a08307.html#a90ca0afe02dfe5aa50bfd378e38de865", null ],
-    [ "y", "d2/dbd/a08307.html#a32ef5d26a8c16690889eed2e3e230de1", null ],
-    [ "z", "d2/dbd/a08307.html#a7ec9ddbd30f0cd2c602cfef7d2eb8956", null ]
+    [ "global_sequence", "d2/dbd/a08307.html#afbd5f7baa1b1daf4dda4fe0cf503a97b", null ],
+    [ "interpolation_type", "d2/dbd/a08307.html#ac3315ce2b2261a6fd23b0c72ea34aa5e", null ],
+    [ "timestamps", "d2/dbd/a08307.html#a8bf7fdd2652275ae553b921196e68d1c", null ],
+    [ "values", "d2/dbd/a08307.html#a9d4ea5dfc36b34541e5ba7350df645e1", null ]
 ];

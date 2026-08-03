@@ -1,7 +1,7 @@
 var a18055 =
 [
-    [ "DamageGunship", "d3/db9/a18055.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
-    [ "PrepareSpellScript", "d3/db9/a18055.html#aa698d016ae58d665c081976f20ec0385", null ],
-    [ "Register", "d3/db9/a18055.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
-    [ "Validate", "d3/db9/a18055.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
+    [ "npc_gunship_rocketeerAI", "d3/db9/a18055.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "d3/db9/a18055.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "d3/db9/a18055.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "d3/db9/a18055.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

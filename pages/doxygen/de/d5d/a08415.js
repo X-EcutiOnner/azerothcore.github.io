@@ -1,7 +1,7 @@
 var a08415 =
 [
-    [ "VendorItemCount", "de/d5d/a08415.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
-    [ "count", "de/d5d/a08415.html#aff4c062138792ffb37dadb19b725c87c", null ],
-    [ "itemId", "de/d5d/a08415.html#a225158bbb56d6666ba4918155f08f993", null ],
-    [ "lastIncrementTime", "de/d5d/a08415.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
+    [ "ForcedDespawnDelayEvent", "de/d5d/a08415.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
+    [ "Execute", "de/d5d/a08415.html#a735c709b269458911bd93da1902cbe25", null ],
+    [ "m_owner", "de/d5d/a08415.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
+    [ "m_respawnTimer", "de/d5d/a08415.html#a5db78930a1fda07f2020b23158ebb93d", null ]
 ];

@@ -1,11 +1,6 @@
 var a22887 =
 [
-    [ "boss_doomwalker", "de/dea/a22887.html#a47811086ff98b1a09af5300af94b6c0e", null ],
-    [ "JustDied", "de/dea/a22887.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
-    [ "JustEngagedWith", "de/dea/a22887.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
-    [ "KilledUnit", "de/dea/a22887.html#a2335eb642940397f73ee2a8051624e8e", null ],
-    [ "MoveInLineOfSight", "de/dea/a22887.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
-    [ "Reset", "de/dea/a22887.html#aba08b227d629c9f35e59f465e29c267b", null ],
-    [ "UpdateAI", "de/dea/a22887.html#a3105c50e512c6f709985cece619b131f", null ],
-    [ "_inEnrage", "de/dea/a22887.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
+    [ "HandleSharedRule", "de/dea/a22887.html#a94b783490dafae872b65e0bbfed156b9", null ],
+    [ "PrepareSpellScript", "de/dea/a22887.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
+    [ "Register", "de/dea/a22887.html#a31f2d90059e62da77a719a192d62328b", null ]
 ];

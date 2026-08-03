@@ -1,6 +1,7 @@
 var a12027 =
 [
-    [ "EffectSplitHandler", "d2/d99/a12027.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
-    [ "Call", "d2/d99/a12027.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
-    [ "pEffectHandlerScript", "d2/d99/a12027.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
+    [ "EffectAuraNameCheck", "d2/d99/a12027.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
+    [ "Check", "d2/d99/a12027.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
+    [ "ToString", "d2/d99/a12027.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
+    [ "effAurName", "d2/d99/a12027.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
 ];

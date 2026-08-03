@@ -1,8 +1,6 @@
 var a24967 =
 [
-    [ "HandleScript", "d0/dcb/a24967.html#a2376d12f379f75f5decfdc133c18403e", null ],
-    [ "Load", "d0/dcb/a24967.html#aa70bfd2e614f9bf68ad2972990f0f7f5", null ],
-    [ "PrepareSpellScript", "d0/dcb/a24967.html#ae4ce8cf3670a85bbaedbfcdc6cacd5b1", null ],
-    [ "Register", "d0/dcb/a24967.html#a0b32bf9d565d7d6f606150f70fc244a0", null ],
-    [ "Validate", "d0/dcb/a24967.html#a1aee8ca0cc33f949371fa5cbb4745ccd", null ]
+    [ "CalculateAmount", "d0/dcb/a24967.html#af8b61cade7f9daae4b982c2a4c8b4a73", null ],
+    [ "PrepareAuraScript", "d0/dcb/a24967.html#a3e1d132745f4739b8a3423cb55b0fc9d", null ],
+    [ "Register", "d0/dcb/a24967.html#a642ce3a74d7163b264ed4674e14fafbc", null ]
 ];

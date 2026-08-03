@@ -1,8 +1,9 @@
 var a12955 =
 [
-    [ "MajordomoAddData", "de/d65/a12955.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
-    [ "MajordomoAddData", "de/d65/a12955.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
-    [ "creatureEntry", "de/d65/a12955.html#ae3a0444e88158123f4d6359328e89a1d", null ],
-    [ "guid", "de/d65/a12955.html#a2f2b0aaace557361a21d1072f36933dc", null ],
-    [ "spawnPos", "de/d65/a12955.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
+    [ "FilterTargets", "de/d65/a12955.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
+    [ "HandleOnHitRogue", "de/d65/a12955.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
+    [ "HandleOnHitWarlock", "de/d65/a12955.html#a76f9e5e11a6f2e25868dba567d798002", null ],
+    [ "PrepareSpellScript", "de/d65/a12955.html#a4792a25aa6fe6126a94900784798dbee", null ],
+    [ "Register", "de/d65/a12955.html#a0f6146c64a86e953c042f8404bbfe683", null ],
+    [ "Validate", "de/d65/a12955.html#af65d372cdbb365eff73edb8cf18734c8", null ]
 ];

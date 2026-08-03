@@ -1,6 +1,6 @@
 var a21935 =
 [
-    [ "HandleHealPct", "d0/d36/a21935.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "d0/d36/a21935.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "d0/d36/a21935.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "npc_ravenous_worgAI", "d3/d6b/a21939.html", "d3/d6b/a21939" ],
+    [ "npc_ravenous_worg", "d0/d36/a21935.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "d0/d36/a21935.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

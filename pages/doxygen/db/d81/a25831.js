@@ -1,6 +1,7 @@
 var a25831 =
 [
-    [ "HandleDummy", "db/d81/a25831.html#ab146c4026bc8ad129bb3d421891d344b", null ],
-    [ "PrepareSpellScript", "db/d81/a25831.html#aa9743f357b9800ab2990fb584011b0a6", null ],
-    [ "Register", "db/d81/a25831.html#a3ca7b1dd1187fd39e362b3451b246a4c", null ]
+    [ "HandleScriptEffect", "db/d81/a25831.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
+    [ "PrepareSpellScript", "db/d81/a25831.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
+    [ "Register", "db/d81/a25831.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
+    [ "SelectTarget", "db/d81/a25831.html#a6a59b7ce696f959b2026cf8088079e89", null ]
 ];

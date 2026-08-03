@@ -1,8 +1,6 @@
 var a24291 =
 [
-    [ "CheckProc", "d6/d33/a24291.html#a6b62e970a78ae8187989f566e6d47317", null ],
-    [ "HandleApply", "d6/d33/a24291.html#a1a3550f989d9e97d17d3ae811371013a", null ],
-    [ "HandleProc", "d6/d33/a24291.html#a21000167be45c4a5503813e5a508b8fd", null ],
-    [ "PrepareAuraScript", "d6/d33/a24291.html#a7f8fea0f52ed4c98120195f205d6c0d7", null ],
-    [ "Register", "d6/d33/a24291.html#a8d97a7638c682b99e466155bd819df53", null ]
+    [ "npc_kservantAI", "de/d0c/a24295.html", "de/d0c/a24295" ],
+    [ "npc_kservant", "d6/d33/a24291.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "d6/d33/a24291.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

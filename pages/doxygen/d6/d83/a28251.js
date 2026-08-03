@@ -1,8 +1,6 @@
 var a28251 =
 [
-    [ "npc_chicken_cluckAI", "d8/d71/a28255.html", "d8/d71/a28255" ],
-    [ "npc_chicken_cluck", "d6/d83/a28251.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "d6/d83/a28251.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "d6/d83/a28251.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "d6/d83/a28251.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "go_darkmoon_faire_musicAI", "d8/d71/a28255.html", "d8/d71/a28255" ],
+    [ "go_darkmoon_faire_music", "d6/d83/a28251.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
+    [ "GetAI", "d6/d83/a28251.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
 ];

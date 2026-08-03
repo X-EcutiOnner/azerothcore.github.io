@@ -1,5 +1,6 @@
 var a12739 =
 [
-    [ "at_the_beast_room", "d8/da1/a12739.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
-    [ "OnTrigger", "d8/da1/a12739.html#a366c5e35c4030f998404886f1526ae37", null ]
+    [ "boss_hedrum", "d8/da1/a12739.html#adf610c943b7644aa2805934f54571492", null ],
+    [ "JustEngagedWith", "d8/da1/a12739.html#a18dd15e991417b68569b5a0e93499c0f", null ],
+    [ "UpdateAI", "d8/da1/a12739.html#a4af57f4f6d8bdaf1017788f343b5439d", null ]
 ];

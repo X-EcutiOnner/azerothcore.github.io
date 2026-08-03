@@ -1,7 +1,5 @@
 var a28723 =
 [
-    [ "from", "dc/d41/a28723.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
-    [ "ID", "dc/d41/a28723.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
-    [ "price", "dc/d41/a28723.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
-    [ "to", "dc/d41/a28723.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
+    [ "npc_suns_reach_reclamation", "dc/d41/a28723.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
+    [ "OnQuestReward", "dc/d41/a28723.html#aa403d14fccda7adbec1ffeb765079c25", null ]
 ];

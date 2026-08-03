@@ -1,6 +1,6 @@
 var a22927 =
 [
-    [ "HandleEffectRemove", "de/dca/a22927.html#a9e578e576d8fa4198cf1f0e9f03ba47a", null ],
-    [ "PrepareAuraScript", "de/dca/a22927.html#a5fa56f4d61c63487919bb2080795e391", null ],
-    [ "Register", "de/dca/a22927.html#a2d0bbef8b32c688b7409837b426d9cd1", null ]
+    [ "boss_reliquary_of_soulsAI", "d5/d50/a22931.html", "d5/d50/a22931" ],
+    [ "boss_reliquary_of_souls", "de/dca/a22927.html#a0c73fc6221da0b19903e534932ca6406", null ],
+    [ "GetAI", "de/dca/a22927.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
 ];

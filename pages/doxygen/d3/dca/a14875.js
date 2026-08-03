@@ -1,8 +1,6 @@
 var a14875 =
 [
-    [ "npc_love_in_air_snivel_real", "d3/dca/a14875.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
-    [ "Talk", "d3/dca/a14875.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
-    [ "UpdateAI", "d3/dca/a14875.html#a22ed25da8fe3441ef0e4183390983f40", null ],
-    [ "actionCounter", "d3/dca/a14875.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
-    [ "actionTimer", "d3/dca/a14875.html#a3bbee1ff355581772b337268775b8fbc", null ]
+    [ "HandleScript", "d3/dca/a14875.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
+    [ "PrepareSpellScript", "d3/dca/a14875.html#aab4303fff660c68db100e07a4423c39b", null ],
+    [ "Register", "d3/dca/a14875.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
 ];

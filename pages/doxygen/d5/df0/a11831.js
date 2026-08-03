@@ -1,7 +1,5 @@
 var a11831 =
 [
-    [ "SpellImmune", "d5/df0/a11831.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "d5/df0/a11831.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "d5/df0/a11831.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "d5/df0/a11831.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "AbsorbAuraOrderPred", "d5/df0/a11831.html#a30283854715c90496e14d260f913f5fa", null ],
+    [ "operator()", "d5/df0/a11831.html#a8f705a8b053ef6ff2e2827b4c7f9c643", null ]
 ];

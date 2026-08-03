@@ -1,6 +1,7 @@
 var a26787 =
 [
-    [ "HandleScriptEffect", "db/ded/a26787.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
-    [ "PrepareSpellScript", "db/ded/a26787.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
-    [ "Register", "db/ded/a26787.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
+    [ "CheckProc", "db/ded/a26787.html#ad9511694733ed76ed2e55ffc1005345e", null ],
+    [ "HandleProc", "db/ded/a26787.html#a8021759730e413476d768495e856c544", null ],
+    [ "PrepareAuraScript", "db/ded/a26787.html#a2d226a3b38dbe3da64f3ae9a3c47f9ea", null ],
+    [ "Register", "db/ded/a26787.html#a2d8e2b52076b519e083c71b99b482c32", null ]
 ];

@@ -1,7 +1,6 @@
 var a19827 =
 [
-    [ "OnRemove", "d9/d15/a19827.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
-    [ "PrepareAuraScript", "d9/d15/a19827.html#a2d278e60b34870110dab188896109e24", null ],
-    [ "Register", "d9/d15/a19827.html#ac15847527cc4d162b3b34b8ca8628864", null ],
-    [ "Validate", "d9/d15/a19827.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
+    [ "boss_drakosAI", "db/d5b/a19831.html", "db/d5b/a19831" ],
+    [ "boss_drakos", "d9/d15/a19827.html#aa70ae2809af4f24eea0b83b42d695448", null ],
+    [ "GetAI", "d9/d15/a19827.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
 ];

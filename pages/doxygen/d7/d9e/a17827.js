@@ -1,7 +1,9 @@
 var a17827 =
 [
-    [ "npc_icc_blood_beastAI", "d7/d9e/a17827.html#af52eff9f66451444c5acba6930c1bff6", null ],
-    [ "DoAction", "d7/d9e/a17827.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
-    [ "UpdateAI", "d7/d9e/a17827.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
-    [ "timer1", "d7/d9e/a17827.html#a1074059162f818088808795119f081be", null ]
+    [ "CheckTarget", "d7/d9e/a17827.html#a43fc6a16aca217ef043fa34a58391357", null ],
+    [ "HandlePresence", "d7/d9e/a17827.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
+    [ "OnCast", "d7/d9e/a17827.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
+    [ "PrepareSpellScript", "d7/d9e/a17827.html#abe559b32aa82f19abb0a6d664b75c748", null ],
+    [ "Register", "d7/d9e/a17827.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
+    [ "Validate", "d7/d9e/a17827.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
 ];

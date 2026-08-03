@@ -1,14 +1,6 @@
 var a14339 =
 [
-    [ "npc_harrison_jones", "d9/da1/a14339.html#ae408c9533166f8919c121053a3efff6c", null ],
-    [ "DoAction", "d9/da1/a14339.html#a2ecf8a9f807e879530ee6a094475e67b", null ],
-    [ "JustEngagedWith", "d9/da1/a14339.html#a884e5973ed597eeeb606f5b8a2b1c028", null ],
-    [ "MovementInform", "d9/da1/a14339.html#a5ee27ccc1aea33ecc8aee5b703e05174", null ],
-    [ "OpenMassiveGateAndCallGuards", "d9/da1/a14339.html#a8f15098ad66e2d13ddfababc2ad2e33b", null ],
-    [ "Reset", "d9/da1/a14339.html#a11b1b2da283ddaa475f3f42534702f5b", null ],
-    [ "sGossipSelect", "d9/da1/a14339.html#ae56b80041fa198063a9ce87729142420", null ],
-    [ "SpellHit", "d9/da1/a14339.html#ad3ead59986b9340529bb6c6f42dbc137", null ],
-    [ "UpdateAI", "d9/da1/a14339.html#a0c64f294257e98522e0f32171aee6080", null ],
-    [ "_instance", "d9/da1/a14339.html#adb995a4b18607a5bd7555ce6989c2525", null ],
-    [ "_phase", "d9/da1/a14339.html#a1620b4f7407aa49c3e16876148c49ba7", null ]
+    [ "cooldown", "d9/da1/a14339.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "d9/da1/a14339.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "d9/da1/a14339.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

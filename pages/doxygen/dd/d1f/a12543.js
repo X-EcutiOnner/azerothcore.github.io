@@ -1,6 +1,5 @@
 var a12543 =
 [
-    [ "boss_drektharAI", "d9/d5b/a12547.html", "d9/d5b/a12547" ],
-    [ "boss_drekthar", "dd/d1f/a12543.html#ac9296654b10191ac9d58219ba36f57b3", null ],
-    [ "GetAI", "dd/d1f/a12543.html#adeacbbc81ab675260c2cac1a6c76d3fe", null ]
+    [ "flag", "dd/d1f/a12543.html#a6cae645736c697e2c2bf51a70c230070", null ],
+    [ "text", "dd/d1f/a12543.html#aff011cbcd136992bfe6abb4e0e4a48ac", null ]
 ];

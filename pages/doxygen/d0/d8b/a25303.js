@@ -1,5 +1,6 @@
 var a25303 =
 [
-    [ "PrepareSpellScript", "d0/d8b/a25303.html#a939db3d626f3451edd605ced6d9b2ebe", null ],
-    [ "Register", "d0/d8b/a25303.html#a5b356ca08e33c8eb127bec763f105792", null ]
+    [ "HandleEffectPeriodic", "d0/d8b/a25303.html#a248ba0e88498e36355491b2b89063e17", null ],
+    [ "PrepareAuraScript", "d0/d8b/a25303.html#ac9aed434fe7602ef846e9f052402620e", null ],
+    [ "Register", "d0/d8b/a25303.html#a039eec910c802276b9e979253141cdee", null ]
 ];

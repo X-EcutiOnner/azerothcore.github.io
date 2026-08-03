@@ -1,6 +1,6 @@
 var a28759 =
 [
-    [ "AreaGroupId", "d3/d4d/a28759.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "d3/d4d/a28759.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "d3/d4d/a28759.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "X", "d3/d4d/a28759.html#a55bda49b2eb919415afaf780ca1977de", null ],
+    [ "Y", "d3/d4d/a28759.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
+    [ "Z", "d3/d4d/a28759.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
 ];

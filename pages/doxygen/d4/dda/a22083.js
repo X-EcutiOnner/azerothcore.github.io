@@ -1,14 +1,6 @@
 var a22083 =
 [
-    [ "npc_wild_wyrm", "d4/dda/a22083.html#a7adb3a9f2d17c55995218219c2af13a6", null ],
-    [ "DamageTaken", "d4/dda/a22083.html#a0ff51f46c203f3b1b8dea063463c5c4d", null ],
-    [ "DoAction", "d4/dda/a22083.html#afdd165233995f79aa9ec82d7c2c1f258", null ],
-    [ "InitSpellsForPhase", "d4/dda/a22083.html#adcc805b0880d95c185af4a587474c2d2", null ],
-    [ "MovementInform", "d4/dda/a22083.html#aeaa4f0327f06ee67a63fd15b914ffac8", null ],
-    [ "PassengerBoarded", "d4/dda/a22083.html#a362052015873c615448bec978d744c9e", null ],
-    [ "Reset", "d4/dda/a22083.html#a2e826c49b41a389ddfbeac3d3c7933f5", null ],
-    [ "SpellHit", "d4/dda/a22083.html#a3d12d555ab7c992ca37e826609b3cd72", null ],
-    [ "UpdateAI", "d4/dda/a22083.html#adbbf5b93476eef2ef54f51d2523a726e", null ],
-    [ "_phase", "d4/dda/a22083.html#a7fa0ac4d2feaf62b08c4667c8f0b7474", null ],
-    [ "_playerGuid", "d4/dda/a22083.html#ade2cc59d0afcf5ebfd7c6fbd694e0809", null ]
+    [ "npc_llod_genericAI", "d7/d55/a22087.html", "d7/d55/a22087" ],
+    [ "npc_llod_generic", "d4/dda/a22083.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
+    [ "GetAI", "d4/dda/a22083.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
 ];

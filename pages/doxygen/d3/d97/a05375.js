@@ -1,8 +1,13 @@
 var a05375 =
 [
-    [ "MeshTriangle", "d3/d97/a05375.html#af99ecf0b02af73e6727095df1dce8422", null ],
-    [ "MeshTriangle", "d3/d97/a05375.html#a36109fc79a9ca9c6bf19959fd1493e60", null ],
-    [ "idx0", "d3/d97/a05375.html#aed1048a2b6745215a7b8f70dec378371", null ],
-    [ "idx1", "d3/d97/a05375.html#a560bb163f63ff7202aade4d115f31664", null ],
-    [ "idx2", "d3/d97/a05375.html#ac939c5e66526c67c067288b9d6484cac", null ]
+    [ "GroupModel_Raw", "d3/d97/a05375.html#a8decfdc365b823f8f147ee9bfa3613b0", null ],
+    [ "~GroupModel_Raw", "d3/d97/a05375.html#a1381249a1bbe9c1cf383097ef94c6eb7", null ],
+    [ "Read", "d3/d97/a05375.html#ad3bcd782124868cd1df0efea2b500ba5", null ],
+    [ "bounds", "d3/d97/a05375.html#a830d79fdd2f21164bd805051352a3aa8", null ],
+    [ "GroupWMOID", "d3/d97/a05375.html#ab9e9650c5ebf5a81b92cff27dd23a25a", null ],
+    [ "liquid", "d3/d97/a05375.html#ac801d04ca4c643d2b8eba5199a8d0fac", null ],
+    [ "liquidflags", "d3/d97/a05375.html#ac379f459d0fff6b1848dc52bd21ef393", null ],
+    [ "mogpflags", "d3/d97/a05375.html#a339767ed24a9f0ecf426e47d3bf6e4b5", null ],
+    [ "triangles", "d3/d97/a05375.html#af692734697f525672027f251addebe6d", null ],
+    [ "vertexArray", "d3/d97/a05375.html#ad73c215408218900973df4dbdd8fcd18", null ]
 ];

@@ -1,11 +1,7 @@
 var a13707 =
 [
-    [ "boss_alythess", "db/d8e/a13707.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
-    [ "AttackStart", "db/d8e/a13707.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
-    [ "DoAction", "db/d8e/a13707.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
-    [ "JustDied", "db/d8e/a13707.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
-    [ "JustEngagedWith", "db/d8e/a13707.html#ac5047ee0124864304284c1142e885158", null ],
-    [ "KilledUnit", "db/d8e/a13707.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
-    [ "Reset", "db/d8e/a13707.html#ab5f990d305f42a2d00e182f617175672", null ],
-    [ "_isSisterDead", "db/d8e/a13707.html#a9f9fa0823685066b4990a17880782b9a", null ]
+    [ "CheckCast", "db/d8e/a13707.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "db/d8e/a13707.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "db/d8e/a13707.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "db/d8e/a13707.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

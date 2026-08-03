@@ -1,8 +1,6 @@
 var a11259 =
 [
-    [ "AutoStoreBagItem", "d7/df2/a11259.html#a09e4b117d8789d513a0e766986340140", null ],
-    [ "Read", "d7/df2/a11259.html#a172832ec72012278b000f38d761823b4", null ],
-    [ "DestinationBag", "d7/df2/a11259.html#a7472dfd7ccd78051bc8808832f8e74cb", null ],
-    [ "SourceBag", "d7/df2/a11259.html#a27e27653e6f00869070de7354adff52d", null ],
-    [ "SourceSlot", "d7/df2/a11259.html#a517202ccb270d78289630404beb61afc", null ]
+    [ "InstanceReset", "d7/df2/a11259.html#ab1ff5009dc40f18c30941e327e5c3863", null ],
+    [ "Write", "d7/df2/a11259.html#a0809c4de226d3aaab9817c393cef6055", null ],
+    [ "MapId", "d7/df2/a11259.html#a7b80bb32e524fe1d0ddadf955f1ec4a2", null ]
 ];

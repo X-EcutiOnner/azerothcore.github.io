@@ -1,6 +1,12 @@
 var a16495 =
 [
-    [ "boss_halionAI", "d8/d5a/a16499.html", "d8/d5a/a16499" ],
-    [ "boss_halion", "db/d9f/a16495.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
-    [ "GetAI", "db/d9f/a16495.html#a142314efb4f45ec146ab0225271d29b1", null ]
+    [ "HandleDummy", "db/d9f/a16495.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
+    [ "HandleSchoolDamage", "db/d9f/a16495.html#a8372b7d176c94689b1b7fe99add7812e", null ],
+    [ "HandleSummon", "db/d9f/a16495.html#a64ffa7d9c5cdd7fab345b2f0f8acc0f1", null ],
+    [ "Load", "db/d9f/a16495.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
+    [ "PrepareSpellScript", "db/d9f/a16495.html#a3fd71e2a93f99f19443640a2147b1663", null ],
+    [ "Register", "db/d9f/a16495.html#a8278d362a4354ccf81665ce0067c9a06", null ],
+    [ "Validate", "db/d9f/a16495.html#a414b1e1396910b87a671305ce9dcab09", null ],
+    [ "_dummyFired", "db/d9f/a16495.html#a9642ac8cfab23040b699606874ad08ca", null ],
+    [ "_spawned", "db/d9f/a16495.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
 ];

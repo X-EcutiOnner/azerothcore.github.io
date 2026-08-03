@@ -1,5 +1,7 @@
 var a18779 =
 [
-    [ "achievement_been_waiting_long_time", "d4/d5f/a18779.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "d4/d5f/a18779.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "CheckTargetCount", "d4/d5f/a18779.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "d4/d5f/a18779.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "d4/d5f/a18779.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "d4/d5f/a18779.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

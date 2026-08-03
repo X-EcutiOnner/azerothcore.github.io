@@ -1,11 +1,7 @@
 var a25079 =
 [
-    [ "GetPennatSpellId", "dd/d32/a25079.html#a1e327a79ce90cf7ebbec644ed15ff67f", null ],
-    [ "HandleApplyEffect", "dd/d32/a25079.html#a396c05708a89758e4038b327e09c65e8", null ],
-    [ "HandleRemoveEffect", "dd/d32/a25079.html#adf6fd3d2a36e1ff115b5c5109d37b7a4", null ],
-    [ "Load", "dd/d32/a25079.html#afc83ecf02a1702d48fb39d60419bdbf1", null ],
-    [ "PrepareAuraScript", "dd/d32/a25079.html#a0230d694e9325d7ac6ac6526ecb5a0e3", null ],
-    [ "Register", "dd/d32/a25079.html#a46782a9dfb8ee2100be00afb6aa8b9a7", null ],
-    [ "Validate", "dd/d32/a25079.html#a095b002671940f2b3504ae2646f76d5a", null ],
-    [ "_pennantSpellId", "dd/d32/a25079.html#a092f0d88ede12dea699b39d5df04131c", null ]
+    [ "HandleApply", "dd/d32/a25079.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
+    [ "HandlePeriodicTimer", "dd/d32/a25079.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
+    [ "PrepareAuraScript", "dd/d32/a25079.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
+    [ "Register", "dd/d32/a25079.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
 ];

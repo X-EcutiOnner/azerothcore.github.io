@@ -1,7 +1,6 @@
 var a27031 =
 [
-    [ "CalcPeriodic", "d0/dec/a27031.html#af787d0c8738284e757f808e7d138bdc6", null ],
-    [ "PrepareAuraScript", "d0/dec/a27031.html#a383db196133bbecee06fe443fdb1bc24", null ],
-    [ "Register", "d0/dec/a27031.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
-    [ "Update", "d0/dec/a27031.html#af3f4a7b82e099313d609df7f85f02d00", null ]
+    [ "HandleScriptEffect", "d0/dec/a27031.html#a8b60ae77f13045a582548fe5d1186d54", null ],
+    [ "PrepareSpellScript", "d0/dec/a27031.html#ad68619783c4a1aad5a24826bf5d89858", null ],
+    [ "Register", "d0/dec/a27031.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
 ];

@@ -1,7 +1,9 @@
 var a26195 =
 [
-    [ "HandleProc", "d9/dce/a26195.html#a00864fa29b0f4e01f0ec3b007ba56913", null ],
-    [ "PrepareAuraScript", "d9/dce/a26195.html#a83020e052309f9905adde86bac3ef925", null ],
-    [ "Register", "d9/dce/a26195.html#a7d0a5ebb4f9f9742694967bf23a76ba8", null ],
-    [ "Validate", "d9/dce/a26195.html#ac296ca5433b5bf1fc0d8c3401e43d912", null ]
+    [ "OnEffectHitTargetDisarm", "d9/dce/a26195.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
+    [ "OnEffectHitTargetStun", "d9/dce/a26195.html#a5a5253b6d152b1af78de663c09451536", null ],
+    [ "OnEffectLaunchTargetDisarm", "d9/dce/a26195.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
+    [ "OnEffectLaunchTargetStun", "d9/dce/a26195.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
+    [ "PrepareSpellScript", "d9/dce/a26195.html#a113219d3376a23f8889f26f10744e7cb", null ],
+    [ "Register", "d9/dce/a26195.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
 ];

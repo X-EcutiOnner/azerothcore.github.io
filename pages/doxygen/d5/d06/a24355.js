@@ -1,7 +1,8 @@
 var a24355 =
 [
-    [ "CheckCast", "d5/d06/a24355.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "d5/d06/a24355.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "d5/d06/a24355.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "d5/d06/a24355.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "go_skull_pile", "d5/d06/a24355.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "d5/d06/a24355.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "d5/d06/a24355.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "d5/d06/a24355.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "d5/d06/a24355.html#af74fcd75404c0886128401d661067394", null ]
 ];

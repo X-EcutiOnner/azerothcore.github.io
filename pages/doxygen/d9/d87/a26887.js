@@ -1,8 +1,7 @@
 var a26887 =
 [
-    [ "Load", "d9/d87/a26887.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
-    [ "OnRemove", "d9/d87/a26887.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
-    [ "PrepareAuraScript", "d9/d87/a26887.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
-    [ "Register", "d9/d87/a26887.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
-    [ "Validate", "d9/d87/a26887.html#a3820e716d20809896c84c1ca781af4d1", null ]
+    [ "HandleScriptEffect", "d9/d87/a26887.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
+    [ "Load", "d9/d87/a26887.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
+    [ "PrepareSpellScript", "d9/d87/a26887.html#ade09cd376d00df8b5e709026e353f409", null ],
+    [ "Register", "d9/d87/a26887.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
 ];

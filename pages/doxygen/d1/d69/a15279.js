@@ -1,11 +1,13 @@
 var a15279 =
 [
-    [ "npc_tarethaAI", "d1/d69/a15279.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
-    [ "AttackStart", "d1/d69/a15279.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
-    [ "DoAction", "d1/d69/a15279.html#adbb40db0b70532a20731cf5039e44d0b", null ],
-    [ "MoveInLineOfSight", "d1/d69/a15279.html#afa0427372e43316851018bf78274707f", null ],
-    [ "Reset", "d1/d69/a15279.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
-    [ "WaypointReached", "d1/d69/a15279.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
-    [ "WaypointReached", "d1/d69/a15279.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "instance", "d1/d69/a15279.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
+    [ "boss_salrammAI", "d1/d69/a15279.html#ae1055878b3919e29d44ee26efcbe044f", null ],
+    [ "ExplodeGhoul", "d1/d69/a15279.html#adc64d8b10b28b98254c528732fff0516", null ],
+    [ "JustDied", "d1/d69/a15279.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
+    [ "JustEngagedWith", "d1/d69/a15279.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
+    [ "JustSummoned", "d1/d69/a15279.html#afd70403a8644f310f37335c6c9bf5b55", null ],
+    [ "KilledUnit", "d1/d69/a15279.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
+    [ "Reset", "d1/d69/a15279.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
+    [ "UpdateAI", "d1/d69/a15279.html#aa2350dc05884593b1361f9f09b8d9392", null ],
+    [ "events", "d1/d69/a15279.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
+    [ "summons", "d1/d69/a15279.html#a813c09e121730d4ae2e623ac3c37d570", null ]
 ];

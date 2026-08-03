@@ -1,6 +1,7 @@
 var a14935 =
 [
-    [ "HandleAfterEffectApply", "db/d11/a14935.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
-    [ "PrepareAuraScript", "db/d11/a14935.html#a917379c33352721b5b76c1d9dac0c025", null ],
-    [ "Register", "db/d11/a14935.html#a846d79564d76d6000c2276045775d7da", null ]
+    [ "go_loosely_turned_soilAI", "d7/db5/a14939.html", "d7/db5/a14939" ],
+    [ "go_loosely_turned_soil", "db/d11/a14935.html#a3b4d51e2b3a604e030962127269236f1", null ],
+    [ "GetAI", "db/d11/a14935.html#acead5810a848f8837fa65af1f2ac00bd", null ],
+    [ "OnQuestReward", "db/d11/a14935.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
 ];

@@ -1,6 +1,9 @@
 var a23267 =
 [
-    [ "CalculateDamage", "da/ddf/a23267.html#a170fb61e3a7358d42cc6506067fb978a", null ],
-    [ "PrepareSpellScript", "da/ddf/a23267.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
-    [ "Register", "da/ddf/a23267.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
+    [ "boss_morogrim_tidewalker", "da/ddf/a23267.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "da/ddf/a23267.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "da/ddf/a23267.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "da/ddf/a23267.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "da/ddf/a23267.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "da/ddf/a23267.html#a78ed1d1f8c55407497a4fb679587975d", null ]
 ];

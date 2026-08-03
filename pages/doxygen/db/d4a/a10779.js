@@ -1,10 +1,7 @@
 var a10779 =
 [
-    [ "ArgsType", "db/d4a/a10779.html#a4ea4d3b165a196482ebe96af9c462658", null ],
-    [ "AuraScriptType", "db/d4a/a10779.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
-    [ "SpellScriptType", "db/d4a/a10779.html#a790a8ef2b59bfe6298486648858506ed", null ],
-    [ "GenericSpellAndAuraScriptLoader", "db/d4a/a10779.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
-    [ "GetAuraScript", "db/d4a/a10779.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
-    [ "GetSpellScript", "db/d4a/a10779.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
-    [ "_args", "db/d4a/a10779.html#aad6527f64ede0d896880ffa90d05a378", null ]
+    [ "GameEventScript", "db/d4a/a10779.html#a3985d493941ff03552a73103fe536b40", null ],
+    [ "OnEventCheck", "db/d4a/a10779.html#aadab9593da561e9b19202d09b53cba36", null ],
+    [ "OnStart", "db/d4a/a10779.html#a0e61a9e1379aef55af93a593af84a3cc", null ],
+    [ "OnStop", "db/d4a/a10779.html#a4813f26f03e5ba79a740bf30558e604c", null ]
 ];

@@ -1,4 +1,6 @@
 var a29635 =
 [
-    [ "SetUp", "d5/d69/a29635.html#ac3f2160779c59e93dd155c766563bc98", null ]
+    [ "auraName", "d5/d69/a29635.html#a953f930e046655ca0d8f373362d3f334", null ],
+    [ "isAlwaysTriggeredAura", "d5/d69/a29635.html#a05786c8e0daef9a2da98f832c230d99c", null ],
+    [ "procFlags", "d5/d69/a29635.html#aed48a1ad923118ac0a86d864e1e98519", null ]
 ];

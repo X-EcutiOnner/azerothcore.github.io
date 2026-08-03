@@ -1,7 +1,12 @@
 var a12811 =
 [
-    [ "boss_ebonroc", "de/d9d/a12811.html#a74725561727d5bf0dd266f50d377c9c8", null ],
-    [ "JustEngagedWith", "de/d9d/a12811.html#a84250d1bc0986130404433c80162ecac", null ],
-    [ "MovementInform", "de/d9d/a12811.html#afa0e5ad6e2eb3d8df539266623dbffb4", null ],
-    [ "UpdateAI", "de/d9d/a12811.html#a8d7b9b681ae8c1e4102cb90456611732", null ]
+    [ "boss_pyroguard_emberseer", "de/d9d/a12811.html#a4c1bd9e71776fa088a84009565dc527d", null ],
+    [ "JustDied", "de/d9d/a12811.html#a6f0e58c7107563f40e864eede5a907d5", null ],
+    [ "JustEngagedWith", "de/d9d/a12811.html#a1c9662393ea5862ee26f5242e184fd74", null ],
+    [ "OpenDoors", "de/d9d/a12811.html#a80761b3fad5864ce80dae81d31df748c", null ],
+    [ "Reset", "de/d9d/a12811.html#a7eda06b39dc920040e205595a0f8efa2", null ],
+    [ "SetData", "de/d9d/a12811.html#a533c643c9b65813f48fd92ee73670fae", null ],
+    [ "SpellHit", "de/d9d/a12811.html#aa9842818e2ab218ac175cebfc82f6adf", null ],
+    [ "UpdateAI", "de/d9d/a12811.html#a7e12a0ef98e8c751a33e4492ae368074", null ],
+    [ "UpdateRunes", "de/d9d/a12811.html#af80bdd2eb6200d3abbcb08b57798f1e5", null ]
 ];

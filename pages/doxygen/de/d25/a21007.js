@@ -1,14 +1,10 @@
 var a21007 =
 [
-    [ "npc_massive_jormungarAI", "de/d25/a21007.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
-    [ "DoAction", "de/d25/a21007.html#a8084994ba056c907b2e487568fa7502a", null ],
-    [ "JustDied", "de/d25/a21007.html#a02b4e75227811250e2210f754e6e04f2", null ],
-    [ "JustEngagedWith", "de/d25/a21007.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
-    [ "JustReachedHome", "de/d25/a21007.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
-    [ "MoveInLineOfSight", "de/d25/a21007.html#a55c817111fab479c3abcfca8942f16e8", null ],
-    [ "Reset", "de/d25/a21007.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
-    [ "UpdateAI", "de/d25/a21007.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
-    [ "events", "de/d25/a21007.html#a92334b8178317a91a7d4336096d75f33", null ],
-    [ "m_pInstance", "de/d25/a21007.html#ad50a9852370798817fda318f71f27653", null ],
-    [ "summons", "de/d25/a21007.html#acfa84efc38b994706015e6d82fe1f653", null ]
+    [ "boss_yoggsaron_immortal_guardian", "de/d25/a21007.html#a14839f96771d185718e88a4e371b31f6", null ],
+    [ "DamageTaken", "de/d25/a21007.html#a9bf936d6a501e53ce98786f043562a71", null ],
+    [ "Reset", "de/d25/a21007.html#a1173d401233670a45b31040b8e5d98cb", null ],
+    [ "SpellHit", "de/d25/a21007.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
+    [ "UpdateAI", "de/d25/a21007.html#adaae7e2cd52951095cb82819d9874426", null ],
+    [ "_spellTimer", "de/d25/a21007.html#a521b956c116a23523fdfceb95a42c1e2", null ],
+    [ "_visualTimer", "de/d25/a21007.html#acb9f5de4ad41ce56f7c6d05a19783517", null ]
 ];

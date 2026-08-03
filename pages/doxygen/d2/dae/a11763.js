@@ -1,12 +1,11 @@
 var a11763 =
 [
-    [ "SpellDestination", "d2/dae/a11763.html#aa91f31101de3139b2e2d2976dac94686", null ],
-    [ "SpellDestination", "d2/dae/a11763.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
-    [ "SpellDestination", "d2/dae/a11763.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
-    [ "SpellDestination", "d2/dae/a11763.html#a7b8949fa80249aee8bebc56620ec746c", null ],
-    [ "Relocate", "d2/dae/a11763.html#ab565861d5013130639013e3c4d22d712", null ],
-    [ "RelocateOffset", "d2/dae/a11763.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
-    [ "_position", "d2/dae/a11763.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
-    [ "_transportGUID", "d2/dae/a11763.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
-    [ "_transportOffset", "d2/dae/a11763.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
+    [ "Player", "d2/dae/a11763.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d2/dae/a11763.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Face", "d2/dae/a11763.html#a6334464eea38be514f3faa7538b39a5a", null ],
+    [ "FacialHair", "d2/dae/a11763.html#a44643270b211d275eb94283842791407", null ],
+    [ "Gender", "d2/dae/a11763.html#a14321ea3595debe2836eceab8a82f944", null ],
+    [ "HairColor", "d2/dae/a11763.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
+    [ "HairStyle", "d2/dae/a11763.html#ade5b2dff213547ab4d707070f8979085", null ],
+    [ "Skin", "d2/dae/a11763.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
 ];

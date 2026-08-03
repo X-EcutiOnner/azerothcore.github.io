@@ -1,5 +1,8 @@
 var a25147 =
 [
-    [ "PrepareSpellScript", "df/d0b/a25147.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
-    [ "Register", "df/d0b/a25147.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
+    [ "Absorb", "df/d0b/a25147.html#aecfcbafe098adddba0a73965c447558c", null ],
+    [ "Load", "df/d0b/a25147.html#a1883cb4c86478359dd1ff8df25e2ec65", null ],
+    [ "PrepareAuraScript", "df/d0b/a25147.html#a3a65787dd5b7c1c796b98ce79f180d4d", null ],
+    [ "Register", "df/d0b/a25147.html#ab6bea7d62539841fa21fa8f3c8122707", null ],
+    [ "_limit", "df/d0b/a25147.html#a5985a97749e318e3ccba4c96724d8704", null ]
 ];

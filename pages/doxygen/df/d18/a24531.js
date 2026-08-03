@@ -1,6 +1,7 @@
 var a24531 =
 [
-    [ "CalculateAmount", "df/d18/a24531.html#a8deb31d3b6244f4d8de6050c99b3192e", null ],
-    [ "PrepareAuraScript", "df/d18/a24531.html#a4090baaee0e4330d3776b5774c5c923a", null ],
-    [ "Register", "df/d18/a24531.html#a4db48f3a549a04caf746a9459b1c5640", null ]
+    [ "CheckProc", "df/d18/a24531.html#abd74252153fc4fc9a4e561005ea58b3f", null ],
+    [ "HandleProc", "df/d18/a24531.html#a8ab07569658cf2fa02193691bcab14ac", null ],
+    [ "PrepareAuraScript", "df/d18/a24531.html#ae169eb2c0e194f8f34ee2a0d5fd973d3", null ],
+    [ "Register", "df/d18/a24531.html#a72d89db31c1fbd5c3b49b4c05a2d90f4", null ]
 ];

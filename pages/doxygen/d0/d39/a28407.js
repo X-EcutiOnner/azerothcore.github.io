@@ -1,6 +1,6 @@
 var a28407 =
 [
-    [ "npc_necropolis_relay", "d0/d39/a28407.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "d0/d39/a28407.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "d0/d39/a28407.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "trigger_periodicAI", "d1/d87/a28411.html", "d1/d87/a28411" ],
+    [ "trigger_periodic", "d0/d39/a28407.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
+    [ "GetAI", "d0/d39/a28407.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
 ];

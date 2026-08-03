@@ -1,6 +1,7 @@
 var a11563 =
 [
-    [ "QuestConfirmAcceptClient", "d8/dc7/a11563.html#ac45767c9cf0e197e185a8936598fc9ea", null ],
-    [ "Read", "d8/dc7/a11563.html#a483980152418879fd1a55db2fa4bf68a", null ],
-    [ "QuestId", "d8/dc7/a11563.html#a25b4b779fdf9e642b2fe13faf03d50b1", null ]
+    [ "PetActionSound", "d8/dc7/a11563.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
+    [ "Write", "d8/dc7/a11563.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
+    [ "Action", "d8/dc7/a11563.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
+    [ "UnitGUID", "d8/dc7/a11563.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
 ];

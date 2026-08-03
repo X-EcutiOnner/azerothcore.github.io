@@ -1,6 +1,6 @@
 var a01064 =
 [
-    [ "LogHeader", "df/d44/a11706.html", "df/d44/a11706" ],
-    [ "PacketHeader", "d0/d20/a11710.html", "d0/d20/a11710" ],
-    [ "PacketHeader::OptionalData", "d9/dc8/a11714.html", "d9/dc8/a11714" ]
+    [ "LogHeader", "d6/d31/a11711.html", "d6/d31/a11711" ],
+    [ "PacketHeader", "d3/d65/a11715.html", "d3/d65/a11715" ],
+    [ "PacketHeader::OptionalData", "da/da2/a11719.html", "da/da2/a11719" ]
 ];

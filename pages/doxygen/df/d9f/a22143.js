@@ -1,5 +1,6 @@
 var a22143 =
 [
-    [ "npc_wg_spirit_guideAI", "df/d9f/a22143.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
-    [ "UpdateAI", "df/d9f/a22143.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
+    [ "ChangeSummonPos", "df/d9f/a22143.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "df/d9f/a22143.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "df/d9f/a22143.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

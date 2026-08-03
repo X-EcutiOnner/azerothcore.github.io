@@ -1,13 +1,8 @@
 var a23071 =
 [
-    [ "npc_earthen_ring_flamecaller", "dd/d85/a23071.html#ab402dd321fa0df641b674324386d7591", null ],
-    [ "DoAction", "dd/d85/a23071.html#af745c83529a34a89c430d6113703fff5", null ],
-    [ "LookOpening", "dd/d85/a23071.html#adfc752e7700a816b66b639007a1a90fa", null ],
-    [ "MovementInform", "dd/d85/a23071.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
-    [ "Reset", "dd/d85/a23071.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
-    [ "SpellHit", "dd/d85/a23071.html#ab9c5ad7e56033997042031566748ee2b", null ],
-    [ "UpdateAI", "dd/d85/a23071.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
-    [ "_events", "dd/d85/a23071.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
-    [ "_instance", "dd/d85/a23071.html#a79aa6e628a50ed485cc55513c28362dc", null ],
-    [ "_mySpot", "dd/d85/a23071.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
+    [ "instance_black_temple_InstanceMapScript", "dd/d85/a23071.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
+    [ "OnCreatureCreate", "dd/d85/a23071.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
+    [ "OnGameObjectCreate", "dd/d85/a23071.html#a564a49814ceb3b3161a6476335ab653a", null ],
+    [ "SetBossState", "dd/d85/a23071.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
+    [ "ashtongueGUIDs", "dd/d85/a23071.html#a85fa9c5231f13529a0741b0f92266c90", null ]
 ];

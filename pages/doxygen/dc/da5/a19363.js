@@ -1,6 +1,6 @@
 var a19363 =
 [
-    [ "npc_gothik_triggerAI", "dd/d6a/a19367.html", "dd/d6a/a19367" ],
-    [ "npc_gothik_trigger", "dc/da5/a19363.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
-    [ "GetAI", "dc/da5/a19363.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
+    [ "icecrown_citadel_teleport", "dc/da5/a19363.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "dc/da5/a19363.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "dc/da5/a19363.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

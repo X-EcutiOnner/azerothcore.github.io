@@ -1,6 +1,8 @@
 var a25979 =
 [
-    [ "OnPeriodic", "d6/dcc/a25979.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
-    [ "PrepareAuraScript", "d6/dcc/a25979.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
-    [ "Register", "d6/dcc/a25979.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
+    [ "HandleDummy", "d6/dcc/a25979.html#a0604906219798bec87624f8179292317", null ],
+    [ "Load", "d6/dcc/a25979.html#a99d0d9dd5818a9252536879a3a1dab66", null ],
+    [ "PrepareSpellScript", "d6/dcc/a25979.html#a51602256218ee899b7391b2b7af0ee7b", null ],
+    [ "Register", "d6/dcc/a25979.html#a7b065390e95c9673a28d1c49158766ff", null ],
+    [ "Validate", "d6/dcc/a25979.html#a0bf9973fae74a700623805352908aa69", null ]
 ];

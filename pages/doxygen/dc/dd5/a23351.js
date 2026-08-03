@@ -1,12 +1,7 @@
 var a23351 =
 [
-    [ "boss_watchkeeper_gargolmar", "dc/dd5/a23351.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
-    [ "JustDied", "dc/dd5/a23351.html#a39be5796b39bea913105fc48dda0d186", null ],
-    [ "JustEngagedWith", "dc/dd5/a23351.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
-    [ "KilledUnit", "dc/dd5/a23351.html#a22736c2680f41cfd3443a76cd4de9352", null ],
-    [ "MoveInLineOfSight", "dc/dd5/a23351.html#adec9837fdb2595ce57acffb279a7d011", null ],
-    [ "Reset", "dc/dd5/a23351.html#a356b7fe9071b073b74b21913e35e7408", null ],
-    [ "UpdateAI", "dc/dd5/a23351.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
-    [ "_hasSpoken", "dc/dd5/a23351.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
-    [ "_taunted", "dc/dd5/a23351.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
+    [ "PeriodicTick", "dc/dd5/a23351.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
+    [ "PrepareAuraScript", "dc/dd5/a23351.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
+    [ "Register", "dc/dd5/a23351.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
+    [ "Validate", "dc/dd5/a23351.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
 ];

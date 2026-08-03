@@ -1,10 +1,5 @@
 var a10071 =
 [
-    [ "iterator", "d6/d8f/a10071.html#a9fada63aa17222fc5e216f3904affafd", null ],
-    [ "begin", "d6/d8f/a10071.html#aee3a4701c5bc51f4028fe53f18675989", null ],
-    [ "end", "d6/d8f/a10071.html#ad61defd77296790a6c5d0a43bacbbe4b", null ],
-    [ "getFirst", "d6/d8f/a10071.html#ae47bba95a17db31a42231da948245387", null ],
-    [ "getLast", "d6/d8f/a10071.html#ac03e93ac8ad6fc91ec9d2961b8904217", null ],
-    [ "rbegin", "d6/d8f/a10071.html#af68f1d93a80e13976798dfed0063a1e4", null ],
-    [ "rend", "d6/d8f/a10071.html#a92c30fb269bc99820b6964a99ee86d98", null ]
+    [ "bossId", "d6/d8f/a10071.html#af9fc7d02d16d4fb3547273428553cf05", null ],
+    [ "boundary", "d6/d8f/a10071.html#a7b474c6b9225102ba08864256d07d9e6", null ]
 ];

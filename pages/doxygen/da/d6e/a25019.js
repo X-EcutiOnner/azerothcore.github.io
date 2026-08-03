@@ -1,7 +1,9 @@
 var a25019 =
 [
-    [ "CalculateAmount", "da/d6e/a25019.html#a40ba021accd581745f07f2586545853c", null ],
-    [ "Load", "da/d6e/a25019.html#aa963b658637360305bb5f3d59eb9d061", null ],
-    [ "PrepareAuraScript", "da/d6e/a25019.html#a8fedbff305709145a7c004787ee50402", null ],
-    [ "Register", "da/d6e/a25019.html#ade9b6a408a1d5a83bdadd5bd2b0fbb2a", null ]
+    [ "PrepareAuraScript", "da/d6e/a25019.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "da/d6e/a25019.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "da/d6e/a25019.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "da/d6e/a25019.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "da/d6e/a25019.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "da/d6e/a25019.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

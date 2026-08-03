@@ -1,8 +1,6 @@
 var a05915 =
 [
-    [ "cmd", "d1/d77/a05915.html#a14df856ae931474a7c58d0e35caf6ad0", null ],
-    [ "number_of_keys", "d1/d77/a05915.html#aaa44734bb96b91894c038b3f34b4db0d", null ],
-    [ "R1", "d1/d77/a05915.html#a054648a96d1c66bae6fdb9a174e7b1e6", null ],
-    [ "R2", "d1/d77/a05915.html#a72fa4a4d0b6098fdf8e5c8f9a33f08ad", null ],
-    [ "R3", "d1/d77/a05915.html#a819a5ba3a19583fd0cfd0558cf218e54", null ]
+    [ "FromString", "d1/d77/a05915.html#a9d10adc7fc7e9ba967ce0704ff369019", null ],
+    [ "FromString", "d1/d77/a05915.html#a465a6f446d3482578b583d54f0109516", null ],
+    [ "ToString", "d1/d77/a05915.html#a8e3130708d0068bd82f9c2861b130303", null ]
 ];

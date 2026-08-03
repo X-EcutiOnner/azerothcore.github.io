@@ -1,6 +1,5 @@
 var a14507 =
 [
-    [ "npc_ohganAI", "d8/d62/a14511.html", "d8/d62/a14511" ],
-    [ "npc_ohgan", "d0/dd3/a14507.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
-    [ "GetAI", "d0/dd3/a14507.html#a129dc2fcd449850403e0dcb99725da90", null ]
+    [ "at_zulgurub_bridge_speech", "d0/dd3/a14507.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
+    [ "_OnTrigger", "d0/dd3/a14507.html#a1a3dbb3cbfbeb50c653134b8bae773f0", null ]
 ];

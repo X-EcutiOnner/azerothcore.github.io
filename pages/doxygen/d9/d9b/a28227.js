@@ -1,7 +1,6 @@
 var a28227 =
 [
-    [ "npc_riggle_bassbaitAI", "d9/d9b/a28227.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "d9/d9b/a28227.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "d9/d9b/a28227.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "d9/d9b/a28227.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "go_l70_etc_musicAI", "d7/d71/a28231.html", "d7/d71/a28231" ],
+    [ "go_l70_etc_music", "d9/d9b/a28227.html#a766dccca12fc7959273ba1e3a278564f", null ],
+    [ "GetAI", "d9/d9b/a28227.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
 ];

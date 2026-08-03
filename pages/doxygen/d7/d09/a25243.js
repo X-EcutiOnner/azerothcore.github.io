@@ -1,7 +1,6 @@
 var a25243 =
 [
-    [ "OnApply", "d7/d09/a25243.html#a455a885611978a390cd4bfa76b05f82b", null ],
-    [ "PrepareAuraScript", "d7/d09/a25243.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
-    [ "Register", "d7/d09/a25243.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
-    [ "Validate", "d7/d09/a25243.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
+    [ "HandleScriptEffect", "d7/d09/a25243.html#a514697f3fdcbf9274453d6d71c0c4816", null ],
+    [ "PrepareSpellScript", "d7/d09/a25243.html#a5bcff624e9a396a2f90115dc99d93ae9", null ],
+    [ "Register", "d7/d09/a25243.html#aebcc23e4f4a1c5ab90fb06a47755ec2b", null ]
 ];

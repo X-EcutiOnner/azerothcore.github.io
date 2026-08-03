@@ -1,14 +1,12 @@
 var a07811 =
 [
-    [ "AccountId", "d2/dda/a07811.html#ae1921d1e949cec70ebbd52779b775df6", null ],
-    [ "ArenaTeamId", "d2/dda/a07811.html#a1d094e514af9970b0239cc8e27da06bc", null ],
-    [ "Class", "d2/dda/a07811.html#a19dbbbdce9dbf9993d57edbebeeaf425", null ],
-    [ "GroupGuid", "d2/dda/a07811.html#a4b6f5540de2e47959a053696698e8e05", null ],
-    [ "Guid", "d2/dda/a07811.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532", null ],
-    [ "GuildId", "d2/dda/a07811.html#a4fba749bb66642a1601c5cb37c756222", null ],
-    [ "Level", "d2/dda/a07811.html#a41ea77c9e690336b709259bfccbd939f", null ],
-    [ "MailCount", "d2/dda/a07811.html#a8a74e276dec82ac3f2950b8637ed9213", null ],
-    [ "Name", "d2/dda/a07811.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b", null ],
-    [ "Race", "d2/dda/a07811.html#aa57c5abbbd7218d26e4156b310229766", null ],
-    [ "Sex", "d2/dda/a07811.html#a91c17eef26be0a18823a9834853c296a", null ]
+    [ "CapturePointInfo", "d2/dda/a07811.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
+    [ "IsUncontrolled", "d2/dda/a07811.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
+    [ "IsUnderControl", "d2/dda/a07811.html#a3f33897525f5104e2e7733dd6247c090", null ],
+    [ "IsUnderControl", "d2/dda/a07811.html#af6b021020b120b87c300981b8bb60992", null ],
+    [ "_areaTrigger", "d2/dda/a07811.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
+    [ "_barStatus", "d2/dda/a07811.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
+    [ "_ownerTeamId", "d2/dda/a07811.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
+    [ "_playersCount", "d2/dda/a07811.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
+    [ "player", "d2/dda/a07811.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
 ];

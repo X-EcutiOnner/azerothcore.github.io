@@ -1,11 +1,9 @@
 var a14535 =
 [
-    [ "boss_marli", "d2/dd0/a14535.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
-    [ "_chargePlayer", "d2/dd0/a14535.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
-    [ "_schedulePhaseSpider", "d2/dd0/a14535.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
-    [ "_schedulePhaseTroll", "d2/dd0/a14535.html#ad6977930dac1cddd2162f7db1b239c83", null ],
-    [ "JustDied", "d2/dd0/a14535.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
-    [ "JustEngagedWith", "d2/dd0/a14535.html#ac74bd382c3dc826f7e4426bec3557094", null ],
-    [ "Reset", "d2/dd0/a14535.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
-    [ "_phase", "d2/dd0/a14535.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
+    [ "boss_hazzarah", "d2/dd0/a14535.html#a73ba49b91addc9c03e1692587fe66a52", null ],
+    [ "CanAIAttack", "d2/dd0/a14535.html#a9038a5b4276fda8a6865217a7c494eec", null ],
+    [ "JustEngagedWith", "d2/dd0/a14535.html#a18e382c03ff923bb851a9cd8e2541788", null ],
+    [ "JustSummoned", "d2/dd0/a14535.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
+    [ "SummonedCreatureDies", "d2/dd0/a14535.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
+    [ "UpdateAI", "d2/dd0/a14535.html#a61d92f1650a84ed9684d33879e54bd09", null ]
 ];

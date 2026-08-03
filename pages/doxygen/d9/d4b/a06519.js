@@ -1,9 +1,7 @@
 var a06519 =
 [
-    [ "AISpellInfoType", "d9/d4b/a06519.html#a3b6d2057522e7b79c87a16d4b9cced98", null ],
-    [ "condition", "d9/d4b/a06519.html#af357bcc7eaeaf88a107a6309c468d53d", null ],
-    [ "cooldown", "d9/d4b/a06519.html#a6ea49fdc98ece29ceee63352424e9366", null ],
-    [ "maxRange", "d9/d4b/a06519.html#ab421f918f3cb479d2d0390cd98cdeae3", null ],
-    [ "realCooldown", "d9/d4b/a06519.html#a3ee8081ca5749ef9b5991a5505104ee9", null ],
-    [ "target", "d9/d4b/a06519.html#a8f9c1d3fbbabc73f4b47ffe21e7a06c4", null ]
+    [ "ReactorAI", "d9/d4b/a06519.html#aaea292c46945399cf7c855e642941c2d", null ],
+    [ "MoveInLineOfSight", "d9/d4b/a06519.html#a224608a62a15d679863d68d7d0e32dde", null ],
+    [ "Permissible", "d9/d4b/a06519.html#a1b0845464b0d356be7bf38e65ab5eb19", null ],
+    [ "UpdateAI", "d9/d4b/a06519.html#a10c4c10d9ac942990d1a1ef9eb6603ad", null ]
 ];

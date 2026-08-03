@@ -1,7 +1,5 @@
 var a11807 =
 [
-    [ "WorldObjectSpellNearbyTargetCheck", "d0/dd1/a11807.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
-    [ "operator()", "d0/dd1/a11807.html#a731ee07d028a5ee63ecd14321c83664d", null ],
-    [ "_position", "d0/dd1/a11807.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
-    [ "_range", "d0/dd1/a11807.html#abfec0df490876b2b83dcdee4da75a77f", null ]
+    [ "SocketAdded", "d0/dd1/a11807.html#a01090d6713f49dc026f77f8481b492cb", null ],
+    [ "SocketRemoved", "d0/dd1/a11807.html#a4a978f9304e4aeabfb9ce1998b8a27cc", null ]
 ];

@@ -1,5 +1,6 @@
 var a14859 =
 [
-    [ "go_loosely_turned_soilAI", "d8/da6/a14859.html#a603641bc52d26521d64afaaeed3abc4d", null ],
-    [ "CanBeSeen", "d8/da6/a14859.html#a424b51b08d17ceb04b015cd535256889", null ]
+    [ "gameobjectId", "d8/da6/a14859.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "d8/da6/a14859.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "d8/da6/a14859.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

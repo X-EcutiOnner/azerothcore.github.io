@@ -1,6 +1,6 @@
 var a28335 =
 [
-    [ "npc_fireworkAI", "de/d94/a28339.html", "de/d94/a28339" ],
-    [ "npc_firework", "d6/dec/a28335.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
-    [ "GetAI", "d6/dec/a28335.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
+    [ "go_amberpine_outhouse", "d6/dec/a28335.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
+    [ "OnGossipHello", "d6/dec/a28335.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
+    [ "OnGossipSelect", "d6/dec/a28335.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
 ];

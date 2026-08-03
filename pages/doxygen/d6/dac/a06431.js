@@ -1,6 +1,5 @@
 var a06431 =
 [
-    [ "NullGameObjectAI", "d6/dac/a06431.html#a54f6ae6e03fbe423d895ec306fe091db", null ],
-    [ "Permissible", "d6/dac/a06431.html#a850b58bfcc5e613f31fc95e556ed7f91", null ],
-    [ "UpdateAI", "d6/dac/a06431.html#a01b2b14306c75fafe58295a30e5d01e0", null ]
+    [ "Subject", "d6/dac/a06431.html#ad9bd686973c6e59518889bd5d9b6a11f", null ],
+    [ "Text", "d6/dac/a06431.html#a95f203f9e53a61988a4d2af6ac6820a2", null ]
 ];

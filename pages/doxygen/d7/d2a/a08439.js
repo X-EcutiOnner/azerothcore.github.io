@@ -1,5 +1,5 @@
 var a08439 =
 [
-    [ "GossipActionMenuId", "d7/d2a/a08439.html#a377beba97be2b81a0c2bbeb933f1927b", null ],
-    [ "GossipActionPoi", "d7/d2a/a08439.html#afdaf27e370e3c84659fdc3784cafad29", null ]
+    [ "Name", "d7/d2a/a08439.html#aa971d38e5169f2b7b610cf6cf0aec928", null ],
+    [ "Title", "d7/d2a/a08439.html#a344cbaef4846d4c9c76e1d783dd2b4fc", null ]
 ];

@@ -1,6 +1,6 @@
 var a00020 =
 [
-    [ "Acore::Asio::IoContext", "dc/d72/a05218.html", "dc/d72/a05218" ],
+    [ "Acore::Asio::IoContext", "d8/d9b/a05219.html", "d8/d9b/a05219" ],
     [ "IoContextBase", "db/db2/a00020.html#a0ec391e3d78f246934f76abd937aecd8", null ],
     [ "IoContextBaseNamespace", "db/db2/a00020.html#ad5308134581a9f19bfac4d556ec345b9", null ],
     [ "get_io_context", "db/db2/a00020.html#a47f8fe35925492e3f01d723115279f2e", null ],

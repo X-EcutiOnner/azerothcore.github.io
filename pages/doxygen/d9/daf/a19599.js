@@ -1,7 +1,7 @@
 var a19599 =
 [
-    [ "HandleScript", "d9/daf/a19599.html#a8e54c3526406fcb6963667c05b5f2cce", null ],
-    [ "Load", "d9/daf/a19599.html#a94661c7652572b1671a611b35c8f68a7", null ],
-    [ "PrepareSpellScript", "d9/daf/a19599.html#a269f558a231a4c9af55a54c6c7090d1b", null ],
-    [ "Register", "d9/daf/a19599.html#a09352bd458fe3dbeacea38c5104656ff", null ]
+    [ "OnPeriodic", "d9/daf/a19599.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
+    [ "PrepareAuraScript", "d9/daf/a19599.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
+    [ "Register", "d9/daf/a19599.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
+    [ "Validate", "d9/daf/a19599.html#a54cfed486827216817adb740efa6646e", null ]
 ];

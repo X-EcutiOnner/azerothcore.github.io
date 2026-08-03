@@ -1,8 +1,5 @@
 var a05152 =
 [
-    [ "AutoBankItem", "dd/d3a/a10934.html", "dd/d3a/a10934" ],
-    [ "AutoStoreBankItem", "d2/dac/a10938.html", "d2/dac/a10938" ],
-    [ "BuyBankSlot", "de/de2/a10942.html", "de/de2/a10942" ],
-    [ "BuyBankSlotResult", "d5/deb/a10946.html", "d5/deb/a10946" ],
-    [ "ShowBank", "df/daf/a10950.html", "df/daf/a10950" ]
+    [ "ScriptTypeInfo", "d3/d6e/a10895.html", "d3/d6e/a10895" ],
+    [ "ScriptRegistryTypes", "d5/d9c/a05152.html#aeb8e82d65431497fd236110fed3408b8", null ]
 ];

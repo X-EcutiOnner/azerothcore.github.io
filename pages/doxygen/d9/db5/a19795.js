@@ -1,8 +1,9 @@
 var a19795 =
 [
-    [ "HandleOnEffectApply", "d9/db5/a19795.html#ac852d761940494f78b50ba3b060057a2", null ],
-    [ "HandleOnEffectRemove", "d9/db5/a19795.html#a6764750586be8b57d52a2dba87d89e76", null ],
-    [ "PrepareAuraScript", "d9/db5/a19795.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
-    [ "Register", "d9/db5/a19795.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
-    [ "Validate", "d9/db5/a19795.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
+    [ "HandleApply", "d9/db5/a19795.html#a29679ed64fc288dc0e85beed2971d4be", null ],
+    [ "HandleRemove", "d9/db5/a19795.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
+    [ "Load", "d9/db5/a19795.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
+    [ "PrepareAuraScript", "d9/db5/a19795.html#a2804f25643e59f3922291abcb055b641", null ],
+    [ "Register", "d9/db5/a19795.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
+    [ "Validate", "d9/db5/a19795.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
 ];

@@ -1,5 +1,5 @@
 var a08767 =
 [
-    [ "PackedGuidReader", "d2/d3b/a08767.html#aec7af2ed383e06998a0fa12b94da90e3", null ],
-    [ "Guid", "d2/d3b/a08767.html#a4de5d725a22f0a8ae4bb83cb51a72588", null ]
+    [ "Description", "d2/d3b/a08767.html#a4187f2b02014c83bc4f1b3d65d229311", null ],
+    [ "Name", "d2/d3b/a08767.html#a787ca2c05ddac7ee5c3a5c28a02b8494", null ]
 ];

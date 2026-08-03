@@ -1,5 +1,5 @@
 var a20527 =
 [
-    [ "npc_ulduar_flames_spread", "df/d62/a20527.html#aea2856e8ea84dfb447017a4d8b2ab088", null ],
-    [ "SpellHit", "df/d62/a20527.html#af8cad4be1736f377721b7a0a63cfafe7", null ]
+    [ "achievement_i_have_the_coolest_friends", "df/d62/a20527.html#a87fd2d5702fe33ee8b09042c66897636", null ],
+    [ "OnCheck", "df/d62/a20527.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
 ];

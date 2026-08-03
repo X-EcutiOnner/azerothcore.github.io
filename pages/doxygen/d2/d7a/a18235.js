@@ -1,7 +1,7 @@
 var a18235 =
 [
-    [ "HandleExtraEffect", "d2/d7a/a18235.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "d2/d7a/a18235.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "d2/d7a/a18235.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "d2/d7a/a18235.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "HandleScriptEffect", "d2/d7a/a18235.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "d2/d7a/a18235.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "d2/d7a/a18235.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "d2/d7a/a18235.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

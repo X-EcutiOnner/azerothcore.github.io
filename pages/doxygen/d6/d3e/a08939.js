@@ -1,7 +1,6 @@
 var a08939 =
 [
-    [ "ItemPosCount", "d6/d3e/a08939.html#a43458da1fc31d827b6de726754f7901e", null ],
-    [ "isContainedIn", "d6/d3e/a08939.html#a6977c544a2d39ca5872b75f27517974f", null ],
-    [ "count", "d6/d3e/a08939.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
-    [ "pos", "d6/d3e/a08939.html#ad8954f1a6323316510cfe0f332ee495f", null ]
+    [ "PlayerCreateInfoItem", "d6/d3e/a08939.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
+    [ "item_amount", "d6/d3e/a08939.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
+    [ "item_id", "d6/d3e/a08939.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
 ];

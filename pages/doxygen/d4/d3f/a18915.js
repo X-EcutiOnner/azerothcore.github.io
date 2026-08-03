@@ -1,7 +1,6 @@
 var a18915 =
 [
-    [ "HandleForceCast", "d4/d3f/a18915.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "d4/d3f/a18915.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "d4/d3f/a18915.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "d4/d3f/a18915.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "npc_valithria_portalAI", "dc/d6e/a18919.html", "dc/d6e/a18919" ],
+    [ "npc_valithria_portal", "d4/d3f/a18915.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
+    [ "GetAI", "d4/d3f/a18915.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
 ];

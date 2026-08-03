@@ -1,14 +1,14 @@
 var a07499 =
 [
-    [ "AutobroadcastsMap", "dc/d7b/a07499.html#a9064ad588e8a02d9b60974af4da1c7cf", null ],
-    [ "AutobroadcastsWeightMap", "dc/d7b/a07499.html#a75e5b978794a7010c8d9d3390d8690f9", null ],
-    [ "instance", "dc/d7b/a07499.html#aead196df7f590d43c89f179ca0bd4a68", null ],
-    [ "LoadAutobroadcasts", "dc/d7b/a07499.html#a48748969b122aee47d03697b6e9a2ee1", null ],
-    [ "LoadAutobroadcastsLocalized", "dc/d7b/a07499.html#a105fa2c33da0662785551027430d40c6", null ],
-    [ "SendAutobroadcasts", "dc/d7b/a07499.html#a225907be4944713af11c312185c8aea7", null ],
-    [ "SendNotificationAnnouncement", "dc/d7b/a07499.html#ace584bb6b66c8944e1405ec0af686d3a", null ],
-    [ "SendWorldAnnouncement", "dc/d7b/a07499.html#a8be8fd36f843ffd435989c99ce0f9229", null ],
-    [ "_announceType", "dc/d7b/a07499.html#a3889edc4001e26519d9df042a8b477fc", null ],
-    [ "_autobroadcasts", "dc/d7b/a07499.html#a06d42010fea307a03aac0ca4e6886f1d", null ],
-    [ "_autobroadcastsWeights", "dc/d7b/a07499.html#aadbd8ca926a64be4fbbe832fd633ee88", null ]
+    [ "getAll", "dc/d7b/a07499.html#a736642258b38fa05f04df4f4ac9069db", null ],
+    [ "inventoryType", "dc/d7b/a07499.html#a521224ce63856745ed64c39f6cbdddc4", null ],
+    [ "itemClass", "dc/d7b/a07499.html#a97bc36937a55f3e9a88dabf9a4e4f0b5", null ],
+    [ "itemSubClass", "dc/d7b/a07499.html#acf154bf30417c1a202ae85b4dd1adead", null ],
+    [ "levelmax", "dc/d7b/a07499.html#a902d715d89a5ca66072393ccefbb1ead", null ],
+    [ "levelmin", "dc/d7b/a07499.html#ac437de5977b177a586381c8665439a56", null ],
+    [ "listfrom", "dc/d7b/a07499.html#a2be6266f0bbc631d476710cbe291fab1", null ],
+    [ "quality", "dc/d7b/a07499.html#a1f234ab443ed5e14aafa02ec3ba5cfde", null ],
+    [ "sorting", "dc/d7b/a07499.html#a6f2e07af2aafb8eb53d845acd7f5ad71", null ],
+    [ "usable", "dc/d7b/a07499.html#ad81a5f3c2c58e620673539b6271ff8e9", null ],
+    [ "wsearchedname", "dc/d7b/a07499.html#a0a3764bd2ad869d9fe04aaced1f271ba", null ]
 ];

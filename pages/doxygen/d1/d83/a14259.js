@@ -1,6 +1,7 @@
 var a14259 =
 [
-    [ "cooldown", "d1/d83/a14259.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
-    [ "spell", "d1/d83/a14259.html#a00ee3238030686e1cc66562f7cefb27a", null ],
-    [ "target", "d1/d83/a14259.html#a16e54dbd059baac1b6e7229621339d83", null ]
+    [ "boss_blight_wormAI", "d1/d83/a14259.html#af267e395fbd539f871e498dc6745c610", null ],
+    [ "Reset", "d1/d83/a14259.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
+    [ "UpdateAI", "d1/d83/a14259.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
+    [ "_events", "d1/d83/a14259.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
 ];

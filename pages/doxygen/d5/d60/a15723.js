@@ -1,6 +1,8 @@
 var a15723 =
 [
-    [ "HandleDummy", "d5/d60/a15723.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
-    [ "PrepareSpellScript", "d5/d60/a15723.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
-    [ "Register", "d5/d60/a15723.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
+    [ "boss_veklor", "d5/d60/a15723.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d5/d60/a15723.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d5/d60/a15723.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d5/d60/a15723.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d5/d60/a15723.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

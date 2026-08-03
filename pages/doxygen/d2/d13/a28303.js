@@ -1,6 +1,6 @@
 var a28303 =
 [
-    [ "npc_steam_tonkAI", "d4/d08/a28307.html", "d4/d08/a28307" ],
-    [ "npc_steam_tonk", "d2/d13/a28303.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
-    [ "GetAI", "d2/d13/a28303.html#a38e51485a3610a204a45677fce15c943", null ]
+    [ "go_bashir_crystalforge", "d2/d13/a28303.html#a8b68a63933e14d82198580912fddc280", null ],
+    [ "OnGossipHello", "d2/d13/a28303.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
+    [ "OnGossipSelect", "d2/d13/a28303.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
 ];

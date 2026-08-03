@@ -1,8 +1,15 @@
 var a12675 =
 [
-    [ "CheckProc", "df/d26/a12675.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "df/d26/a12675.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "df/d26/a12675.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "df/d26/a12675.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "df/d26/a12675.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "boss_vanndarAI", "df/d26/a12675.html#ada061b4363340602fd1f4744433d9cf9", null ],
+    [ "AttackStart", "df/d26/a12675.html#a76ab9327e04b82b534a9b3ea59b377d1", null ],
+    [ "EnterEvadeMode", "df/d26/a12675.html#a9ba6e2620a25728bf30d4d813a82b781", null ],
+    [ "JustEngagedWith", "df/d26/a12675.html#abde00baf4099361b8c26e6e0cf6c1517", null ],
+    [ "Reset", "df/d26/a12675.html#a1c2fdf4351a43047f02bec1d46423cb8", null ],
+    [ "UpdateAI", "df/d26/a12675.html#ab410ed8d64cd91bd6c4b78b2ed678eab", null ],
+    [ "Attacked", "df/d26/a12675.html#ac5994c76a9d84cf303021a9298673d68", null ],
+    [ "AvatarTimer", "df/d26/a12675.html#a3bed38b10a87baf50e9c9a57229bd464", null ],
+    [ "ResetTimer", "df/d26/a12675.html#ae1c4e16cd9ad68e4700d68ed64baa8e2", null ],
+    [ "StormboltTimer", "df/d26/a12675.html#a71ef70c1b504be2b00be1a70e85bc18a", null ],
+    [ "ThunderclapTimer", "df/d26/a12675.html#a681a103b6cf937dad3fb15e5be358c26", null ],
+    [ "YellTimer", "df/d26/a12675.html#a2b8503aaae0fd5e8cd92bb9650ee6ee3", null ]
 ];

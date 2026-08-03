@@ -1,19 +1,13 @@
 var a09939 =
 [
-    [ "GuildContainer", "d4/d4a/a09939.html#aa9afb05ecb2eb6ee427503a4ea76f7ca", null ],
-    [ "GuildMgr", "d4/d4a/a09939.html#a0d4a44461eb4c54ddb6646dfd1c11a68", null ],
-    [ "~GuildMgr", "d4/d4a/a09939.html#ae90afb785961e122afc419a61dfb20c1", null ],
-    [ "AddGuild", "d4/d4a/a09939.html#a5b63dae4f2252c452c797b83477d2280", null ],
-    [ "GenerateGuildId", "d4/d4a/a09939.html#a8ad7c4fc3e292e6cecd4964ad22cd135", null ],
-    [ "GetGuildById", "d4/d4a/a09939.html#a04f4586ea6461c6f7165efba2bf666a1", null ],
-    [ "GetGuildByLeader", "d4/d4a/a09939.html#a5198534a243b70104ce17a7871fcfb27", null ],
-    [ "GetGuildByName", "d4/d4a/a09939.html#af9ff736e84a18d8dfce3826c9459df37", null ],
-    [ "GetGuildNameById", "d4/d4a/a09939.html#ad32af675831da389755da5f3e4e47361", null ],
-    [ "instance", "d4/d4a/a09939.html#aef69fd59528ec594c76ae390a4ba05bd", null ],
-    [ "LoadGuilds", "d4/d4a/a09939.html#ac1eb56686e276e11838e9150696b5045", null ],
-    [ "RemoveGuild", "d4/d4a/a09939.html#a51728f1c2780cdb105cb35947739cbd7", null ],
-    [ "ResetTimes", "d4/d4a/a09939.html#ad2670ee42ff5252a879ccc5cbb730833", null ],
-    [ "SetNextGuildId", "d4/d4a/a09939.html#ae1ae88575b7fcb37d4ee1d76f79c0c45", null ],
-    [ "GuildStore", "d4/d4a/a09939.html#a174158d11bf6102462a094ff4a8fa402", null ],
-    [ "NextGuildId", "d4/d4a/a09939.html#a75e150f66ebccfc05824a4f7b66a9210", null ]
+    [ "GroupReference", "d4/d4a/a09939.html#ab1a008e85d413c67696d4d568a98bde7", null ],
+    [ "~GroupReference", "d4/d4a/a09939.html#ab586405a850b0985e6b9f08cc6bdf32e", null ],
+    [ "getSubGroup", "d4/d4a/a09939.html#a8217ca810bc251005dfe8a2e3b810e1e", null ],
+    [ "next", "d4/d4a/a09939.html#a6f8f406f1209dd7060904d40f5424b41", null ],
+    [ "next", "d4/d4a/a09939.html#ac913ec0703c28cda068375d01c9cd72d", null ],
+    [ "setSubGroup", "d4/d4a/a09939.html#a303caf55ea463398237e6a825f30b143", null ],
+    [ "sourceObjectDestroyLink", "d4/d4a/a09939.html#a458157654c27def9b36b68ae099ca7b3", null ],
+    [ "targetObjectBuildLink", "d4/d4a/a09939.html#aa7c8acd113fefc7b6d2b9dff94bb047c", null ],
+    [ "targetObjectDestroyLink", "d4/d4a/a09939.html#a4c15e8dbb9f990f9ab66c5e1466d0616", null ],
+    [ "iSubGroup", "d4/d4a/a09939.html#a528073b16a119cfa81e6f37c6e72cc03", null ]
 ];

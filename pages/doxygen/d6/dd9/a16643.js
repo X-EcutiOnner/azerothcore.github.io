@@ -1,6 +1,7 @@
 var a16643 =
 [
-    [ "boss_paletressAI", "d1/dfa/a16647.html", "d1/dfa/a16647" ],
-    [ "boss_paletress", "d6/dd9/a16643.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
-    [ "GetAI", "d6/dd9/a16643.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
+    [ "OnApply", "d6/dd9/a16643.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "d6/dd9/a16643.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "d6/dd9/a16643.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "d6/dd9/a16643.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

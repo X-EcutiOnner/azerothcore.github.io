@@ -1,7 +1,6 @@
 var a26423 =
 [
-    [ "HandleDummy", "d3/d43/a26423.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
-    [ "PrepareSpellScript", "d3/d43/a26423.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
-    [ "Register", "d3/d43/a26423.html#adadd0254d68281ac1063bcc57574ed77", null ],
-    [ "Validate", "d3/d43/a26423.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
+    [ "CheckProc", "d3/d43/a26423.html#adb21bbda83cf0fdc30e64cabc0fb0d1c", null ],
+    [ "PrepareAuraScript", "d3/d43/a26423.html#a5fd08c4ff5ba410458a67eb91e612267", null ],
+    [ "Register", "d3/d43/a26423.html#a13c9e5a0a2a6945dfa5a4425be08703d", null ]
 ];

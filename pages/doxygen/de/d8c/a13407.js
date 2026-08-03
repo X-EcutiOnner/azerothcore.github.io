@@ -1,8 +1,15 @@
 var a13407 =
 [
-    [ "npc_dkc1_gothikAI", "de/d8c/a13407.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "de/d8c/a13407.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "de/d8c/a13407.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "de/d8c/a13407.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "de/d8c/a13407.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "npc_image_of_medivhAI", "de/d8c/a13407.html#a1afe3245dc18db3c0bf6801b5ca20d31", null ],
+    [ "JustEngagedWith", "de/d8c/a13407.html#a1013be426b3567d8cbd1c45debc914c5", null ],
+    [ "NextStep", "de/d8c/a13407.html#a87160b37ba61af4866fe3f410813fe9f", null ],
+    [ "Reset", "de/d8c/a13407.html#af2e7dd7f1038bb5662fe7375a7e052c4", null ],
+    [ "UpdateAI", "de/d8c/a13407.html#a321d689d645b4630e2e93e6251d5130c", null ],
+    [ "ArcanagosGUID", "de/d8c/a13407.html#a877c693b6ac736aa874926d8efe0d79a", null ],
+    [ "ATimer", "de/d8c/a13407.html#a28aef0767b6adb0ccf0479dd50dc11a8", null ],
+    [ "EventStarted", "de/d8c/a13407.html#a9a662b435218a3e13ca58eb4a6b3af86", null ],
+    [ "instance", "de/d8c/a13407.html#a2e02aa8d441426aa51f46121eec0becb", null ],
+    [ "MTimer", "de/d8c/a13407.html#a16c3f6d5bd1cc288590bd096233e0bfb", null ],
+    [ "Step", "de/d8c/a13407.html#a9d7b9bdcf9e185284dba5251a0deb0b3", null ],
+    [ "YellTimer", "de/d8c/a13407.html#a34ad7cabe4cb86e23deb30ca0ce77db0", null ]
 ];

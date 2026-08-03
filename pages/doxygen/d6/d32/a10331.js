@@ -1,5 +1,6 @@
 var a10331 =
 [
-    [ "MovementGeneratorFactory", "d6/d32/a10331.html#a8b473ae9fa2af60a7fa92727ce163305", null ],
-    [ "Create", "d6/d32/a10331.html#af3a494507c8d910bd98bb0989d42ba6f", null ]
+    [ "SplineRawInitializer", "d6/d32/a10331.html#a2aba4b3ca8e2312cc9e910ef4b3a5a26", null ],
+    [ "operator()", "d6/d32/a10331.html#a878f8d8b2bc4b7c0e5c92d3055a437af", null ],
+    [ "_points", "d6/d32/a10331.html#a3cea33c8d33407f7d2d8ea96a85a58c5", null ]
 ];

@@ -1,7 +1,8 @@
 var a23627 =
 [
-    [ "HandleEffect", "d3/d8d/a23627.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
-    [ "PrepareSpellScript", "d3/d8d/a23627.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
-    [ "Register", "d3/d8d/a23627.html#ac406946bb793125d49006e3a877c9638", null ],
-    [ "SelectTarget", "d3/d8d/a23627.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
+    [ "npc_target_trigger", "d3/d8d/a23627.html#a238058ba80130c6239b7267db3247196", null ],
+    [ "Reset", "d3/d8d/a23627.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
+    [ "UpdateAI", "d3/d8d/a23627.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
+    [ "_cast", "d3/d8d/a23627.html#a4ec89ca960323f7ad135d5a425a82416", null ],
+    [ "_scheduler", "d3/d8d/a23627.html#a9b418b09e25c8f96692b4e2626339c96", null ]
 ];

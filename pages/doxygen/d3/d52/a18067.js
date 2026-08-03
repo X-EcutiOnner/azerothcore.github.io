@@ -1,5 +1,6 @@
 var a18067 =
 [
-    [ "achievement_im_on_a_boat", "d3/d52/a18067.html#aa25d330534aab023ec798e86976a6d50", null ],
-    [ "OnCheck", "d3/d52/a18067.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
+    [ "PrepareSpellScript", "d3/d52/a18067.html#a47df21229183b628c1d82bf34cbbe396", null ],
+    [ "Register", "d3/d52/a18067.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
+    [ "RelocateTransportOffset", "d3/d52/a18067.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
 ];

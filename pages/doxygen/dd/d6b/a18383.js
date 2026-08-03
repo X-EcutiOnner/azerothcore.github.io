@@ -1,6 +1,6 @@
 var a18383 =
 [
-    [ "boss_sindragosaAI", "d3/db9/a18387.html", "d3/db9/a18387" ],
-    [ "boss_sindragosa", "dd/d6b/a18383.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
-    [ "GetAI", "dd/d6b/a18383.html#a005a6da9f4f9690416a108872b3c2b36", null ]
+    [ "boss_rotfaceAI", "d3/db9/a18387.html", "d3/db9/a18387" ],
+    [ "boss_rotface", "dd/d6b/a18383.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "dd/d6b/a18383.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

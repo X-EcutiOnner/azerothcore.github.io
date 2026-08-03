@@ -1,7 +1,5 @@
 var a12851 =
 [
-    [ "HandlePeriodic", "d9/d97/a12851.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "d9/d97/a12851.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "d9/d97/a12851.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "d9/d97/a12851.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "at_the_beast_room", "d9/d97/a12851.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
+    [ "OnTrigger", "d9/d97/a12851.html#a366c5e35c4030f998404886f1526ae37", null ]
 ];

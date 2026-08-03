@@ -1,5 +1,4 @@
 var a13187 =
 [
-    [ "at_karazhan_mirkblood_approach", "d9/d10/a13187.html#a032600991e9fc1aaf026adf2e63314e5", null ],
-    [ "OnTrigger", "d9/d10/a13187.html#aaece848faa4f1086ac0b16802a1e765e", null ]
+    [ "PrepareAuraScript", "d9/d10/a13187.html#aae5dc71af1a0fade2da9ee88875896a5", null ]
 ];

@@ -1,7 +1,6 @@
 var a07483 =
 [
-    [ "AuctionSearchUpdateBid", "da/d94/a07483.html#ad7ecaf272e5cc8fe61e0b448d05b6d27", null ],
-    [ "auctionId", "da/d94/a07483.html#a6ebbff1fcebe77ed4735483ad481fd00", null ],
-    [ "bid", "da/d94/a07483.html#a14b7f79b2aa0b020c8c940d6b01c4efc", null ],
-    [ "bidderGuid", "da/d94/a07483.html#a843bcff41f694075ea056d9a3c71467f", null ]
+    [ "AuctionSortInfo", "da/d94/a07483.html#a4ceca7230706e6906942306595686502", null ],
+    [ "isDesc", "da/d94/a07483.html#a0077ee9a4d8727c460e07efd517ae0c6", null ],
+    [ "sortOrder", "da/d94/a07483.html#ac6afc258e0eca83f8e2fd8996e83231b", null ]
 ];

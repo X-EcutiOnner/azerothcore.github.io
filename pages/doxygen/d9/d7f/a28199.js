@@ -1,8 +1,9 @@
 var a28199 =
 [
-    [ "npc_franklinAI", "df/d8a/a28203.html", "df/d8a/a28203" ],
-    [ "npc_franklin", "d9/d7f/a28199.html#aab059dfa69e52083892e3170c8838e0a", null ],
-    [ "GetAI", "d9/d7f/a28199.html#a10933878afe9d0cc78fa1113341fd522", null ],
-    [ "OnGossipHello", "d9/d7f/a28199.html#a318d512914b135800caabe0efbb1c467", null ],
-    [ "OnGossipSelect", "d9/d7f/a28199.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
+    [ "go_tadpole_cageAI", "d9/d7f/a28199.html#a87dc192a13cecf834d49cd04451224cd", null ],
+    [ "GossipHello", "d9/d7f/a28199.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
+    [ "OnStateChanged", "d9/d7f/a28199.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
+    [ "SummonTadpoles", "d9/d7f/a28199.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
+    [ "UpdateAI", "d9/d7f/a28199.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
+    [ "requireSummon", "d9/d7f/a28199.html#a9884081855fc45776a6b12b9a68890e4", null ]
 ];

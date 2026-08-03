@@ -1,6 +1,6 @@
 var a24283 =
 [
-    [ "CheckProc", "d0/da1/a24283.html#afec3e119cb5ef12632b603225ccb5b8d", null ],
-    [ "PrepareAuraScript", "d0/da1/a24283.html#a2f42e70482f71a4c275f70897b90ed72", null ],
-    [ "Register", "d0/da1/a24283.html#a048f59b6b0d52232e3a953f173324fc2", null ]
+    [ "CheckRequirement", "d0/da1/a24283.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "d0/da1/a24283.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "d0/da1/a24283.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

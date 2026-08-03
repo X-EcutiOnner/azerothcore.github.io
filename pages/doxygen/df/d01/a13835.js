@@ -1,6 +1,7 @@
 var a13835 =
 [
-    [ "FilterTargets", "df/d01/a13835.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
-    [ "PrepareSpellScript", "df/d01/a13835.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
-    [ "Register", "df/d01/a13835.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
+    [ "HandleRemove", "df/d01/a13835.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
+    [ "PrepareAuraScript", "df/d01/a13835.html#a6fa407996b59d98d0eeef877ee89784d", null ],
+    [ "Register", "df/d01/a13835.html#a7dc81b47954ee8c10b99f389740de0be", null ],
+    [ "Validate", "df/d01/a13835.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
 ];

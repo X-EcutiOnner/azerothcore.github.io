@@ -1,7 +1,7 @@
 var a27375 =
 [
-    [ "HandleProc", "d6/d10/a27375.html#aa28268bdb7e3063cff0880baefe02824", null ],
-    [ "PrepareAuraScript", "d6/d10/a27375.html#a8b19c9d128d568be695f985e5ed28b2d", null ],
-    [ "Register", "d6/d10/a27375.html#a5a0f0e1558c1d4c687b94fe8874512ef", null ],
-    [ "Validate", "d6/d10/a27375.html#a8461f9dc90d1df9a91350d3e277fffeb", null ]
+    [ "HandleEffect", "d6/d10/a27375.html#ab33c9312c9ac4096140a82f381d83235", null ],
+    [ "PrepareSpellScript", "d6/d10/a27375.html#a6117d7b2720f719d801b5f6e0e719f5f", null ],
+    [ "Register", "d6/d10/a27375.html#a1f5983124756eca5666ca6adbe5a4544", null ],
+    [ "Validate", "d6/d10/a27375.html#a08f7e508b50fc44ced0b7ff04e22b333", null ]
 ];

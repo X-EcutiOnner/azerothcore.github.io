@@ -1,7 +1,5 @@
 var a15083 =
 [
-    [ "PeriodicTick", "de/dab/a15083.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
-    [ "PrepareAuraScript", "de/dab/a15083.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
-    [ "Register", "de/dab/a15083.html#a24058b120f4fa06b89f6d582c53a365a", null ],
-    [ "Validate", "de/dab/a15083.html#a093b09be5abde91a1487d67a7a554d30", null ]
+    [ "achievement_pb_pilgrims_peril", "de/dab/a15083.html#a9516eab18d7e1401a5637913d8ec9595", null ],
+    [ "OnCheck", "de/dab/a15083.html#a78c92eab532448080c1d28dc8fcabaca", null ]
 ];

@@ -1,10 +1,6 @@
 var a23311 =
 [
-    [ "boss_kelidan_the_breaker", "d1/d9f/a23311.html#a6774e4a0315b30266f6c55da608cd193", null ],
-    [ "ApplyImmunities", "d1/d9f/a23311.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
-    [ "DoAction", "d1/d9f/a23311.html#a3fa0117ce1079f651025116684f5e2f4", null ],
-    [ "JustDied", "d1/d9f/a23311.html#a4d3f0171b7889a96f19999b28e549866", null ],
-    [ "JustEngagedWith", "d1/d9f/a23311.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
-    [ "KilledUnit", "d1/d9f/a23311.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
-    [ "Reset", "d1/d9f/a23311.html#a46c592f6c46ea568ad368702e1640e06", null ]
+    [ "HandlePeriodic", "d1/d9f/a23311.html#a25c698e911ec02d9cd7f757ba87281df", null ],
+    [ "PrepareAuraScript", "d1/d9f/a23311.html#a7bf79bc5e5f509b52965f03e998db399", null ],
+    [ "Register", "d1/d9f/a23311.html#ab3eec9f591384c7c1c684651c38aa614", null ]
 ];

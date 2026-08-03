@@ -1,14 +1,16 @@
 var a16079 =
 [
-    [ "npc_taskmaster_fizzuleAI", "de/dbb/a16079.html#ac792f91930c869ce919f8fd96b3fb076", null ],
-    [ "DoFriend", "de/dbb/a16079.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
-    [ "JustEngagedWith", "de/dbb/a16079.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
-    [ "ReceiveEmote", "de/dbb/a16079.html#a21d0d70086f085b715a12d05fbe5d611", null ],
-    [ "Reset", "de/dbb/a16079.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
-    [ "SpellHit", "de/dbb/a16079.html#a4c35104935a3a6264c853a657dc42244", null ],
-    [ "UpdateAI", "de/dbb/a16079.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
-    [ "factionNorm", "de/dbb/a16079.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
-    [ "FlareCount", "de/dbb/a16079.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
-    [ "IsFriend", "de/dbb/a16079.html#ab7e6bd2e023545c73fba758267551eee", null ],
-    [ "ResetTimer", "de/dbb/a16079.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
+    [ "npc_qiraj_war_spawnAI", "de/dbb/a16079.html#a1122bc3961300ba39c02613ba0fcd909", null ],
+    [ "JustDied", "de/dbb/a16079.html#ada3362722a2f7a4ac5e3e807385c30fc", null ],
+    [ "JustEngagedWith", "de/dbb/a16079.html#a628da97f8b8bda848880c53a509ad1f5", null ],
+    [ "Reset", "de/dbb/a16079.html#a617104afe4d5cca5cd0d98fe12cb1608", null ],
+    [ "UpdateAI", "de/dbb/a16079.html#afeed6ddc214d7d6ba6156a90e4465cb2", null ],
+    [ "hasTarget", "de/dbb/a16079.html#ad36ad196f757d6014f7aa7cf7afb167b", null ],
+    [ "MobGUID", "de/dbb/a16079.html#a4148121a56275770ee84744a0288b6c5", null ],
+    [ "PlayerGUID", "de/dbb/a16079.html#a9e4294e9b7ce773263e0bd16512602ce", null ],
+    [ "SpellTimer1", "de/dbb/a16079.html#a8979a90473c62aad604857d92574e5f1", null ],
+    [ "SpellTimer2", "de/dbb/a16079.html#a91cb2356a92ef987bd1ba6d31b560ec1", null ],
+    [ "SpellTimer3", "de/dbb/a16079.html#aeea20bb2f78ece03df38a3e9aa5d8b59", null ],
+    [ "SpellTimer4", "de/dbb/a16079.html#a301971cf821e68e6be3223d4076f8b49", null ],
+    [ "Timers", "de/dbb/a16079.html#a460bbddfe94e9c84eaa0ad83e087ebf4", null ]
 ];

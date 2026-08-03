@@ -1,6 +1,5 @@
 var a29367 =
 [
-    [ "canProcDuringTrigger", "df/d88/a29367.html#a10e8ad619c9766fdf49cd29662c3d9e0", null ],
-    [ "procDeepDuringTrigger", "df/d88/a29367.html#a5df33ebca29ea3ce1088307c138a28e4", null ],
-    [ "spellId", "df/d88/a29367.html#ac63803a380695f311a39cd62a4f298b4", null ]
+    [ "Flags", "df/d88/a29367.html#a0cb97c73af91dcfdd151c38aa46828cc", null ],
+    [ "Id", "df/d88/a29367.html#a85e0e36dbc79f309d7f50b087ebcd166", null ]
 ];

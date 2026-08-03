@@ -1,9 +1,13 @@
 var a09639 =
 [
-    [ "PlayerLastSearcher", "d3/dbc/a09639.html#a0a4c736bbde38ccb0a0a8ceafdb751c7", null ],
-    [ "Visit", "d3/dbc/a09639.html#a25785fbe4cb8ac9a8753705b9df3b507", null ],
-    [ "Visit", "d3/dbc/a09639.html#a19e60fc9fc43ad3a718132a2884e41b0", null ],
-    [ "i_check", "d3/dbc/a09639.html#a93f5e1dd1f680cc9467671b59d2c5a12", null ],
-    [ "i_object", "d3/dbc/a09639.html#a2d9af6a6ef1105b19c49852fce17b8e6", null ],
-    [ "i_phaseMask", "d3/dbc/a09639.html#ad5bfaa4154c99e34515da98db7dccadf", null ]
+    [ "WorldObjectWorker", "d3/dbc/a09639.html#a15dd68579f1a92f015cfac8577db7422", null ],
+    [ "Visit", "d3/dbc/a09639.html#ae264461e49602fd0b8a17e30ed554c64", null ],
+    [ "Visit", "d3/dbc/a09639.html#a3021825347d132f1368a77d29a8318df", null ],
+    [ "Visit", "d3/dbc/a09639.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
+    [ "Visit", "d3/dbc/a09639.html#a7de6ea339a8113d242dd099ca4d36927", null ],
+    [ "Visit", "d3/dbc/a09639.html#a29196fa36ce32a0cec68d0d67372a400", null ],
+    [ "Visit", "d3/dbc/a09639.html#a17097541c49264c15ebfe474f54aeca2", null ],
+    [ "i_do", "d3/dbc/a09639.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
+    [ "i_mapTypeMask", "d3/dbc/a09639.html#a6f8e447b9693154f56ce010869acadb9", null ],
+    [ "i_phaseMask", "d3/dbc/a09639.html#affa6245985c5d271900be12104ab6bb6", null ]
 ];

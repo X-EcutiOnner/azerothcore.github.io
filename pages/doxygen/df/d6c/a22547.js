@@ -1,7 +1,9 @@
 var a22547 =
 [
-    [ "HandleDummy", "df/d6c/a22547.html#af5ac581f7d471300fba2c23548037eea", null ],
-    [ "PrepareSpellScript", "df/d6c/a22547.html#adda61c05b544b52d98af5b7a76d4f808", null ],
-    [ "Register", "df/d6c/a22547.html#a270a64dffdce230d97515f116ec49706", null ],
-    [ "Validate", "df/d6c/a22547.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
+    [ "OPvPCapturePointGH", "df/d6c/a22547.html#a6e46100e50212310af4301c492d5773e", null ],
+    [ "ChangeState", "df/d6c/a22547.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
+    [ "FillInitialWorldStates", "df/d6c/a22547.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
+    [ "HandlePlayerEnter", "df/d6c/a22547.html#afea733c44d129d9a5af78a8337d9e04a", null ],
+    [ "HandlePlayerLeave", "df/d6c/a22547.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
+    [ "SendChangePhase", "df/d6c/a22547.html#aec741b9102829bf77850dc06a49bb8da", null ]
 ];

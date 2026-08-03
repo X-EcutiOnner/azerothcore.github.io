@@ -1,6 +1,10 @@
 var a14023 =
 [
-    [ "npc_lor_themar_theron", "dc/dff/a14023.html#acf8b65675cc46949440a829fc1adf5fc", null ],
-    [ "JustDied", "dc/dff/a14023.html#ad2615cc062c8c1f4b01fc9e253fe34d4", null ],
-    [ "UpdateAI", "dc/dff/a14023.html#aa9eafbacdb75bfbf772c901ce96119c6", null ]
+    [ "npc_sentinel_leader", "dc/dff/a14023.html#a583c43b047dd5c172938d60ef647ecd5", null ],
+    [ "JustEngagedWith", "dc/dff/a14023.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
+    [ "MovementInform", "dc/dff/a14023.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
+    [ "Reset", "dc/dff/a14023.html#ad638ba6ce33753af6a0165c053a90d78", null ],
+    [ "UpdateAI", "dc/dff/a14023.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
+    [ "_events", "dc/dff/a14023.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
+    [ "_helpCalled", "dc/dff/a14023.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
 ];

@@ -1,6 +1,22 @@
 var a29595 =
 [
-    [ "hasAttr", "d8/d97/a29595.html#aec6e687803471c9e36fb371be3994db9", null ],
-    [ "name", "d8/d97/a29595.html#aff9bdbf422a9e22dacc2bbbea0c99a73", null ],
-    [ "spellId", "d8/d97/a29595.html#a6b7e7e5d028fb5c006f8785a53394535", null ]
+    [ "HealInfoStub", "d8/d97/a29595.html#afa2b7c6e93b387f16e2b545adc4fa05c", null ],
+    [ "HealInfoStub", "d8/d97/a29595.html#ae011c5a0f72cd5581e661793c3ac2fdc", null ],
+    [ "~HealInfoStub", "d8/d97/a29595.html#ae599d81216cbcaa69f206ac6eca6d886", null ],
+    [ "GetAbsorb", "d8/d97/a29595.html#aae8cd0f206d4dbd78b56838cdb49dad6", null ],
+    [ "GetEffectiveHeal", "d8/d97/a29595.html#aa19e94b9523f803f2af09fb77382f3c2", null ],
+    [ "GetHeal", "d8/d97/a29595.html#abc0ad944af22920bc105b1b4c71ad467", null ],
+    [ "GetHitMask", "d8/d97/a29595.html#ac110638d1729fae0ba6594d7f092d4b0", null ],
+    [ "GetOverheal", "d8/d97/a29595.html#a5af3db6eed10c8b2cd17f0509f6085fa", null ],
+    [ "GetSpellInfo", "d8/d97/a29595.html#a05ce52ae6ea15c8043dfeae236466017", null ],
+    [ "SetAbsorb", "d8/d97/a29595.html#a5f7988705654a3b6f460ddbbecb3992b", null ],
+    [ "SetEffectiveHeal", "d8/d97/a29595.html#ad8c263f50edf324a72ca366f6caf4377", null ],
+    [ "SetHeal", "d8/d97/a29595.html#a6dede4a2256ff21fde331ae05d257718", null ],
+    [ "SetHitMask", "d8/d97/a29595.html#a4f50475819621d56efd4e359ed004483", null ],
+    [ "SetSpellInfo", "d8/d97/a29595.html#a2e5ac0bb798710d33e0ff4c29c8507a0", null ],
+    [ "_absorb", "d8/d97/a29595.html#a1b6726177d88f4da4b4fa36e96136711", null ],
+    [ "_effectiveHeal", "d8/d97/a29595.html#aab54619f78456698c646d83ac448e1e2", null ],
+    [ "_heal", "d8/d97/a29595.html#a44c86cf0c0d87d9ceb9574ced0990845", null ],
+    [ "_hitMask", "d8/d97/a29595.html#a2228ffd4334cc5adff51e67394d19de9", null ],
+    [ "_spellInfo", "d8/d97/a29595.html#a94cd95b537e2510047da23a7f9176aa6", null ]
 ];

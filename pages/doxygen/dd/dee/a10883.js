@@ -1,8 +1,6 @@
 var a10883 =
 [
-    [ "GuildFilter", "dd/dee/a10883.html#a20ffe6a8d19489014484722b1481cb65", null ],
-    [ "Read", "dd/dee/a10883.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63", null ],
-    [ "MaximumLevel", "dd/dee/a10883.html#a3e23b4e2e5bda01b55ad26ea66222f78", null ],
-    [ "MinimumLevel", "dd/dee/a10883.html#a0c6523d46a325841cc5511a2a0f3e5c2", null ],
-    [ "MinimumRank", "dd/dee/a10883.html#a363df89cbe7b5aba7c7df69b65468c49", null ]
+    [ "WorldMapScript", "dd/dee/a10883.html#a87448909610514b3a7d75f9ef5076696", null ],
+    [ "checkValidity", "dd/dee/a10883.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
+    [ "isAfterLoadScript", "dd/dee/a10883.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
 ];

@@ -1,7 +1,7 @@
 var a22543 =
 [
-    [ "HandleEffectRemove", "d6/d58/a22543.html#a09124a4351930a35e33359e95ca88580", null ],
-    [ "PrepareAuraScript", "d6/d58/a22543.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
-    [ "Register", "d6/d58/a22543.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
-    [ "Validate", "d6/d58/a22543.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
+    [ "OutdoorPvPGH", "d6/d58/a22543.html#a619492e0a1fdf75f37554a2f19268660", null ],
+    [ "HandleKill", "d6/d58/a22543.html#a78cf572faf727c302f9be496d91004e0", null ],
+    [ "SendRemoveWorldStates", "d6/d58/a22543.html#a92c7e489717072ddc34f707fbe462cb2", null ],
+    [ "SetupOutdoorPvP", "d6/d58/a22543.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
 ];

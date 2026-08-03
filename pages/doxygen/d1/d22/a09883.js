@@ -1,5 +1,7 @@
 var a09883 =
 [
-    [ "getFirst", "d1/d22/a09883.html#ab6524f9fba08d034c78a38ab1045ace9", null ],
-    [ "getFirst", "d1/d22/a09883.html#a74a687ba16e352c3fa5eafd1cfdd7b0e", null ]
+    [ "AllWorldObjectsInRange", "d1/d22/a09883.html#a63f46d510df0fa3153d4b3325676a468", null ],
+    [ "operator()", "d1/d22/a09883.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
+    [ "m_fRange", "d1/d22/a09883.html#a6afe3ef05369dce8ee205db219f97846", null ],
+    [ "m_pObject", "d1/d22/a09883.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
 ];

@@ -1,16 +1,10 @@
 var a11667 =
 [
-    [ "Player", "d4/de2/a11667.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d4/de2/a11667.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "CharCount", "d4/de2/a11667.html#aad61b8ca0caf09d6b62ee9fffd78cceb", null ],
-    [ "Class", "d4/de2/a11667.html#a41e354593f59bc8546688a37c2a5e504", null ],
-    [ "Face", "d4/de2/a11667.html#aba49d87691e9d2b10d430450c3f66493", null ],
-    [ "FacialHair", "d4/de2/a11667.html#a5a88b2c2556dd1239c417ea4fcc55287", null ],
-    [ "Gender", "d4/de2/a11667.html#ac4ed75d1527549051a92cbb958fa8eb4", null ],
-    [ "HairColor", "d4/de2/a11667.html#a0ded70bbcf30bba4de4ac0ee88fb6eb6", null ],
-    [ "HairStyle", "d4/de2/a11667.html#aa4b2800384a89a5c30c2edb7ff567865", null ],
-    [ "Name", "d4/de2/a11667.html#a4f81603fda1ae148e6d6174ea8d861fe", null ],
-    [ "OutfitId", "d4/de2/a11667.html#a15baddc70b46d48bd9f128e73aaac606", null ],
-    [ "Race", "d4/de2/a11667.html#aeee5ee1a2dc34e1b2ad1f8edd31679ff", null ],
-    [ "Skin", "d4/de2/a11667.html#a0fbfb41f3fd0c9d0ba2bfc7f04df648e", null ]
+    [ "WorldStateInfo", "d5/d7d/a11671.html", "d5/d7d/a11671" ],
+    [ "InitWorldStates", "d4/de2/a11667.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
+    [ "Write", "d4/de2/a11667.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
+    [ "AreaID", "d4/de2/a11667.html#a98ac08c68b5c004fd352f38c7084531f", null ],
+    [ "MapID", "d4/de2/a11667.html#a657c3043204c6957e8438c3c3c7068f3", null ],
+    [ "Worldstates", "d4/de2/a11667.html#a29ffba2a130f0b93d61b2025255502fb", null ],
+    [ "ZoneID", "d4/de2/a11667.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
 ];

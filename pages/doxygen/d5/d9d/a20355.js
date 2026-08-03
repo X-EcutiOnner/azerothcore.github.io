@@ -1,7 +1,10 @@
 var a20355 =
 [
-    [ "HandleEffectPeriodic", "d5/d9d/a20355.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
-    [ "PrepareAuraScript", "d5/d9d/a20355.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
-    [ "Register", "d5/d9d/a20355.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
-    [ "Validate", "d5/d9d/a20355.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
+    [ "boss_freya_elder_ironbranch", "d5/d9d/a20355.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
+    [ "JustDied", "d5/d9d/a20355.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
+    [ "JustEngagedWith", "d5/d9d/a20355.html#a34d87135b8dac114a8783941dba69559", null ],
+    [ "KilledUnit", "d5/d9d/a20355.html#a20b5a622ac233d1280169f54942c894f", null ],
+    [ "Reset", "d5/d9d/a20355.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
+    [ "UpdateAI", "d5/d9d/a20355.html#a00dade8af24a2240187fb4e52138c0d1", null ],
+    [ "events", "d5/d9d/a20355.html#a8693a800da6890004f3ae82fd9898480", null ]
 ];

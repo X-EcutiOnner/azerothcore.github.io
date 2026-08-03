@@ -1,8 +1,8 @@
 var a22427 =
 [
-    [ "boss_darkweaver_syth", "dc/dab/a22427.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "dc/dab/a22427.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "dc/dab/a22427.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "dc/dab/a22427.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "dc/dab/a22427.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "go_wg_vehicle_teleporterAI", "dc/dab/a22427.html#af84e73765b1a4d810b41613824999186", null ],
+    [ "IsFriendly", "dc/dab/a22427.html#adca817c8919958db888d5e9c759ad545", null ],
+    [ "IsValidVehicle", "dc/dab/a22427.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
+    [ "UpdateAI", "dc/dab/a22427.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
+    [ "_checkTimer", "dc/dab/a22427.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
 ];

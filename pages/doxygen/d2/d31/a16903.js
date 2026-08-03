@@ -1,7 +1,7 @@
 var a16903 =
 [
-    [ "npc_toc_rogueAI", "d2/d31/a16903.html#a34027e7d10edbfba8e046f4785e37899", null ],
-    [ "myCanCast", "d2/d31/a16903.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
-    [ "UpdateAI", "d2/d31/a16903.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
-    [ "events", "d2/d31/a16903.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
+    [ "npc_toc_shamanAI", "d2/d31/a16903.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
+    [ "myCanCast", "d2/d31/a16903.html#a993739662d2687c27219853669b8a485", null ],
+    [ "UpdateAI", "d2/d31/a16903.html#a2ad17245685feb3f085ef9a669459c61", null ],
+    [ "events", "d2/d31/a16903.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
 ];

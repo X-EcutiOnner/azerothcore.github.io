@@ -1,7 +1,6 @@
 var a15623 =
 [
-    [ "npc_sartura_royal_guard", "d3/d0f/a15623.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
-    [ "JustEngagedWith", "d3/d0f/a15623.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
-    [ "Reset", "d3/d0f/a15623.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
-    [ "UpdateAI", "d3/d0f/a15623.html#a2ed50f65847133c897facecbaa4711d8", null ]
+    [ "FilterTargets", "d3/d0f/a15623.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
+    [ "PrepareSpellScript", "d3/d0f/a15623.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
+    [ "Register", "d3/d0f/a15623.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
 ];

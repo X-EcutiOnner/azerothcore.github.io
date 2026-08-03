@@ -1,6 +1,8 @@
 var a21471 =
 [
-    [ "npc_mageguard_dalaranAI", "d9/d6f/a21475.html", "d9/d6f/a21475" ],
-    [ "npc_mageguard_dalaran", "d3/d8f/a21471.html#a0cec4f232b665325c421cecb5839885f", null ],
-    [ "GetAI", "d3/d8f/a21471.html#a10cbddceb53a2d432da2224128c59b28", null ]
+    [ "boss_moragg", "d3/d8f/a21471.html#a42d2508369286e5e635d47cce0b939f4", null ],
+    [ "EnterEvadeMode", "d3/d8f/a21471.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
+    [ "ExecuteEvent", "d3/d8f/a21471.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
+    [ "JustEngagedWith", "d3/d8f/a21471.html#a29da7214373c1919b65f3512655c8bc3", null ],
+    [ "MoveInLineOfSight", "d3/d8f/a21471.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
 ];

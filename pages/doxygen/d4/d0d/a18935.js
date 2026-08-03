@@ -1,6 +1,7 @@
 var a18935 =
 [
-    [ "CaptainSurviveTalk", "d4/d0d/a18935.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "d4/d0d/a18935.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "d4/d0d/a18935.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "npc_blazing_skeletonAI", "d4/d0d/a18935.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
+    [ "Reset", "d4/d0d/a18935.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
+    [ "UpdateAI", "d4/d0d/a18935.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
+    [ "_events", "d4/d0d/a18935.html#aab1b04989d5e3fc289f00bc121df193d", null ]
 ];

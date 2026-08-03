@@ -1,7 +1,6 @@
 var a23523 =
 [
-    [ "HandleCast", "d9/d88/a23523.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
-    [ "PrepareSpellScript", "d9/d88/a23523.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
-    [ "Register", "d9/d88/a23523.html#a6ae0573ea69573df64cd57ba84f99918", null ],
-    [ "Validate", "d9/d88/a23523.html#ab5794ca5c0863ce40194ed40e156279a", null ]
+    [ "CalculateDamage", "d9/d88/a23523.html#a170fb61e3a7358d42cc6506067fb978a", null ],
+    [ "PrepareSpellScript", "d9/d88/a23523.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
+    [ "Register", "d9/d88/a23523.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
 ];

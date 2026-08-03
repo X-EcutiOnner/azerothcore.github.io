@@ -1,6 +1,7 @@
 var a15935 =
 [
-    [ "npc_clintar_spiritAI", "d5/d0e/a15939.html", "d5/d0e/a15939" ],
-    [ "npc_clintar_spirit", "d6/dbb/a15935.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
-    [ "GetAI", "d6/dbb/a15935.html#a118198504f6f93c86302275a11582d60", null ]
+    [ "npc_cork_gizeltonAI", "d5/d0e/a15939.html", "d5/d0e/a15939" ],
+    [ "npc_cork_gizelton", "d6/dbb/a15935.html#a915aa2abc18109e7d0197863f59536f2", null ],
+    [ "GetAI", "d6/dbb/a15935.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
+    [ "OnQuestAccept", "d6/dbb/a15935.html#a11dc1fea0a24add451272b537298fc13", null ]
 ];

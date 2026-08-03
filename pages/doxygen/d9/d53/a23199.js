@@ -1,12 +1,6 @@
 var a23199 =
 [
-    [ "boss_swamplord_muselek", "d9/d53/a23199.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
-    [ "AttackStart", "d9/d53/a23199.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
-    [ "CanShootVictim", "d9/d53/a23199.html#af84af5e4b344fc5f5da9f2047519710a", null ],
-    [ "JustDied", "d9/d53/a23199.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
-    [ "JustEngagedWith", "d9/d53/a23199.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
-    [ "KilledUnit", "d9/d53/a23199.html#a9f2afd6aacb9befa956079a42fbace37", null ],
-    [ "Reset", "d9/d53/a23199.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
-    [ "_canChase", "d9/d53/a23199.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
-    [ "_markTarget", "d9/d53/a23199.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
+    [ "HandleScriptEffect", "d9/d53/a23199.html#a6489e3a58421da7c448a24d6673564c5", null ],
+    [ "PrepareSpellScript", "d9/d53/a23199.html#a5afd50fdc8393a12cd39a56c342f9179", null ],
+    [ "Register", "d9/d53/a23199.html#a274d65aa393a65e19bbb67a5d07c7428", null ]
 ];

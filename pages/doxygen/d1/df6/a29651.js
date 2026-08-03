@@ -1,4 +1,6 @@
 var a29651 =
 [
-    [ "SetUp", "d1/df6/a29651.html#a7b0f5dcd90ca7fe8be7cd26746c836a6", null ]
+    [ "hasInstantTargetProcs", "d1/df6/a29651.html#a043a2884a456208d85bc3bf8d4733682", null ],
+    [ "isRemoved", "d1/df6/a29651.html#a3f593c8bba6edde580f84fcc5ce9215b", null ],
+    [ "spellId", "d1/df6/a29651.html#aee26a119051d638047018aeb93d593f6", null ]
 ];

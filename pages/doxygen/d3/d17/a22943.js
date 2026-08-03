@@ -1,6 +1,6 @@
 var a22943 =
 [
-    [ "HandleScriptEffect", "d3/d17/a22943.html#a6489e3a58421da7c448a24d6673564c5", null ],
-    [ "PrepareSpellScript", "d3/d17/a22943.html#a5afd50fdc8393a12cd39a56c342f9179", null ],
-    [ "Register", "d3/d17/a22943.html#a274d65aa393a65e19bbb67a5d07c7428", null ]
+    [ "boss_essence_of_desireAI", "d4/d32/a22947.html", "d4/d32/a22947" ],
+    [ "boss_essence_of_desire", "d3/d17/a22943.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
+    [ "GetAI", "d3/d17/a22943.html#a14b66470c508fa24e214062aeec0aae6", null ]
 ];

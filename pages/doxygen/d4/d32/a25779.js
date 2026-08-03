@@ -1,7 +1,8 @@
 var a25779 =
 [
-    [ "HandleScript", "d4/d32/a25779.html#a7c7f92d21898322c501f582a524f4052", null ],
-    [ "Load", "d4/d32/a25779.html#a600eb87e8bbedd3504e3d259f89e3785", null ],
-    [ "PrepareSpellScript", "d4/d32/a25779.html#a8ae826705bd1a1f1da3160be73926d7b", null ],
-    [ "Register", "d4/d32/a25779.html#abda715e38cf19fa7276ec4f4a12d3b63", null ]
+    [ "HandleRapidFireProc", "d4/d32/a25779.html#a174eb1d766c0ae7f59fabdefe565e1de", null ],
+    [ "HandleRapidKillingProc", "d4/d32/a25779.html#a12f24814d41837c8ddb8a42c8e932077", null ],
+    [ "PrepareAuraScript", "d4/d32/a25779.html#aa75ea03f718a90a49d81ff49d765c74d", null ],
+    [ "Register", "d4/d32/a25779.html#af1d93d8ea32a74f7bb6c115f21c5c6c3", null ],
+    [ "Validate", "d4/d32/a25779.html#a01598fbd355dfdd4517d4221ad5ae323", null ]
 ];

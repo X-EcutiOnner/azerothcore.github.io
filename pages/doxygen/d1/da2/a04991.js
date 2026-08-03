@@ -1,8 +1,8 @@
 var a04991 =
 [
-    [ "anonymous_namespace{SpellImmunityTest.cpp}::EffectDesc", "dd/d09/a29890.html", "dd/d09/a29890" ],
-    [ "anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc", "d5/d71/a29894.html", "d5/d71/a29894" ],
-    [ "anonymous_namespace{SpellImmunityTest.cpp}::EffectApplyResult", "d1/d4c/a29898.html", "d1/d4c/a29898" ],
+    [ "anonymous_namespace{SpellImmunityTest.cpp}::EffectDesc", "db/d7b/a29927.html", "db/d7b/a29927" ],
+    [ "anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc", "de/d2c/a29931.html", "de/d2c/a29931" ],
+    [ "anonymous_namespace{SpellImmunityTest.cpp}::EffectApplyResult", "d5/de4/a29935.html", "d5/de4/a29935" ],
     [ "AuraType", "d1/da2/a04991.html#ab3c8788e4514711f326743e17cf18f33", [
       [ "AURA_NONE", "d1/da2/a04991.html#ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c", null ],
       [ "AURA_MOD_DECREASE_SPEED", "d1/da2/a04991.html#ab3c8788e4514711f326743e17cf18f33a1bb3542c472e476df1856aac0f5ccf48", null ],

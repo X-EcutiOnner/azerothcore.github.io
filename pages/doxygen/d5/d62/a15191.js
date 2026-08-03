@@ -1,10 +1,9 @@
 var a15191 =
 [
-    [ "boss_meathookAI", "d5/d62/a15191.html#abb35c98da760db634545b81d740cd51a", null ],
-    [ "JustDied", "d5/d62/a15191.html#a44ebee45de335ff6f653e9d60a364458", null ],
-    [ "JustEngagedWith", "d5/d62/a15191.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
-    [ "KilledUnit", "d5/d62/a15191.html#a54deac512294bb0901d072faef3166b1", null ],
-    [ "Reset", "d5/d62/a15191.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
-    [ "UpdateAI", "d5/d62/a15191.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
-    [ "events", "d5/d62/a15191.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
+    [ "boss_rage_winterchill", "d5/d62/a15191.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "d5/d62/a15191.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "d5/d62/a15191.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "d5/d62/a15191.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "d5/d62/a15191.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "d5/d62/a15191.html#aec47befdf3246710a5158780fa797fa7", null ]
 ];

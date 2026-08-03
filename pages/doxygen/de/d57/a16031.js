@@ -1,8 +1,6 @@
 var a16031 =
 [
-    [ "npc_kaya_flathoofAI", "de/d57/a16031.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
-    [ "JustSummoned", "de/d57/a16031.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
-    [ "Reset", "de/d57/a16031.html#af9be00be9867622a16103bd21311327f", null ],
-    [ "WaypointReached", "de/d57/a16031.html#a8fcbb19279b925138ba96d2a450fc404", null ],
-    [ "WaypointReached", "de/d57/a16031.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_giant_spotlightAI", "d4/d13/a16035.html", "d4/d13/a16035" ],
+    [ "npc_giant_spotlight", "de/d57/a16031.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
+    [ "GetAI", "de/d57/a16031.html#af002a3d0194c991c1f78c720de63cfea", null ]
 ];

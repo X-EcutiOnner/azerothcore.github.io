@@ -1,6 +1,7 @@
 var a16463 =
 [
-    [ "npc_xerestraszaAI", "d9/d3d/a16467.html", "d9/d3d/a16467" ],
-    [ "npc_xerestrasza", "d1/db2/a16463.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
-    [ "GetAI", "d1/db2/a16463.html#a5e0ede0054969d4787db56781dc55846", null ]
+    [ "OnRemove", "d1/db2/a16463.html#afb0821bc8774e634eefdd87efe6af945", null ],
+    [ "PrepareAuraScript", "d1/db2/a16463.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
+    [ "Register", "d1/db2/a16463.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
+    [ "Validate", "d1/db2/a16463.html#aa794b76c4d9590b867dda57f02724d95", null ]
 ];

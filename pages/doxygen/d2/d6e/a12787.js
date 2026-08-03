@@ -1,12 +1,8 @@
 var a12787 =
 [
-    [ "go_suppression_device", "d2/d6e/a12787.html#ae8d3a5e9ca0bd621065bad9b8ee2733b", null ],
-    [ "Activate", "d2/d6e/a12787.html#aab10f7c30f4c7fcf89aa295d830da56f", null ],
-    [ "Deactivate", "d2/d6e/a12787.html#aaf01b7e3317e4b032e7c202ebfcb9a68", null ],
-    [ "DoAction", "d2/d6e/a12787.html#a036467db9b2661e7048216b03451861b", null ],
-    [ "InitializeAI", "d2/d6e/a12787.html#a6f40d8e47699b711466d8d36bdaa424c", null ],
-    [ "UpdateAI", "d2/d6e/a12787.html#a00fb90b16c82f9d968cc29275c05675a", null ],
-    [ "_active", "d2/d6e/a12787.html#a1accabc06137c07e9f74ea91d068672c", null ],
-    [ "_events", "d2/d6e/a12787.html#a43fc9da45057e18811a0efc69e01edc8", null ],
-    [ "_instance", "d2/d6e/a12787.html#a8c6b389e2df34d5f47b2599fc78ad072", null ]
+    [ "CheckProc", "d2/d6e/a12787.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "d2/d6e/a12787.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "d2/d6e/a12787.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "d2/d6e/a12787.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "d2/d6e/a12787.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

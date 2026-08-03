@@ -1,9 +1,7 @@
 var a26355 =
 [
-    [ "AllowT10Proc", "d6/d83/a26355.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
-    [ "OnRemove", "d6/d83/a26355.html#a52807f94eba44a9b574577a0b27acb22", null ],
-    [ "PrepareAuraScript", "d6/d83/a26355.html#a430303b7df445d38da9316324359c2d6", null ],
-    [ "Register", "d6/d83/a26355.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
-    [ "Validate", "d6/d83/a26355.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
-    [ "_canProcT10", "d6/d83/a26355.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
+    [ "HandlePeriodicDummy", "d6/d83/a26355.html#ac8ca6a69b47cb2316b93e1953e233f8f", null ],
+    [ "PrepareAuraScript", "d6/d83/a26355.html#a1c85329bcafd6c327d1862feabc1eed0", null ],
+    [ "Register", "d6/d83/a26355.html#a0c43d96bf2e59fd67790f327cf14d71e", null ],
+    [ "Validate", "d6/d83/a26355.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5", null ]
 ];

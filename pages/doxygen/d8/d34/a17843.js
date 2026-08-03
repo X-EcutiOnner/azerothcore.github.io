@@ -1,8 +1,6 @@
 var a17843 =
 [
-    [ "HandleHit", "d8/d34/a17843.html#ace9793d64d5378ef33bf30e8d0be8bd6", null ],
-    [ "HandleScript", "d8/d34/a17843.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "d8/d34/a17843.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "d8/d34/a17843.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "d8/d34/a17843.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "boss_deathbringer_saurfangAI", "d6/ddf/a17847.html", "d6/ddf/a17847" ],
+    [ "boss_deathbringer_saurfang", "d8/d34/a17843.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "d8/d34/a17843.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

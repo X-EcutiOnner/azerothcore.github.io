@@ -1,10 +1,10 @@
 var a24191 =
 [
-    [ "npc_pet_hunter_snake_trap", "d1/d7f/a24191.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "InitializeAI", "d1/d7f/a24191.html#a91931c2ac0fd4981f9bf8a2f8f7db672", null ],
-    [ "JustEngagedWith", "d1/d7f/a24191.html#a695af9c49daa05c787dac03c4af91645", null ],
-    [ "MoveInLineOfSight", "d1/d7f/a24191.html#a099a34f12399fe24349644da3dafe7a4", null ],
-    [ "UpdateAI", "d1/d7f/a24191.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_isViper", "d1/d7f/a24191.html#ab49c69ca25014ef63e775b236255e4c1", null ],
-    [ "_spellTimer", "d1/d7f/a24191.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "npc_infernal_attackerAI", "d1/d7f/a24191.html#ae04c4e026f22bd650bb33940b923df9a", null ],
+    [ "IsSummonedBy", "d1/d7f/a24191.html#a926e6cd6772784872a905de7245007ac", null ],
+    [ "JustDied", "d1/d7f/a24191.html#a1822131520f98dd5f1dd637282f20ae3", null ],
+    [ "Reset", "d1/d7f/a24191.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
+    [ "SpellHit", "d1/d7f/a24191.html#a956f3fb1e341519817599df08afc2589", null ],
+    [ "UpdateAI", "d1/d7f/a24191.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
+    [ "casterGUID", "d1/d7f/a24191.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
 ];

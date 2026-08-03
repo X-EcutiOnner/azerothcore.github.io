@@ -1,7 +1,7 @@
 var a12143 =
 [
-    [ "PlayerDumpReader", "d7/dce/a12143.html#ad630b61e298fb1ddf165481c9a14e077", null ],
-    [ "LoadDump", "d7/dce/a12143.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
-    [ "LoadDumpFromFile", "d7/dce/a12143.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
-    [ "LoadDumpFromString", "d7/dce/a12143.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
+    [ "ScriptStateStore", "d7/dce/a12143.html#a51baffee5c9dbf255591db8ea13ee516", null ],
+    [ "_auraApplication", "d7/dce/a12143.html#af5098bcedac048808e11bf2f82d705a7", null ],
+    [ "_currentScriptState", "d7/dce/a12143.html#adddf594d9468b16455da6e2aef683d44", null ],
+    [ "_defaultActionPrevented", "d7/dce/a12143.html#a63cf373d469af72bc96a3e72351e3256", null ]
 ];

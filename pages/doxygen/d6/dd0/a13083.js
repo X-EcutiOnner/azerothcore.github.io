@@ -1,7 +1,6 @@
 var a13083 =
 [
-    [ "boss_maiden_of_virtue", "d6/dd0/a13083.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
-    [ "JustDied", "d6/dd0/a13083.html#a6eded246318f6b47b46f45168e4a8069", null ],
-    [ "JustEngagedWith", "d6/dd0/a13083.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
-    [ "KilledUnit", "d6/dd0/a13083.html#a32dd66a297d11f5ffac1841bae15727a", null ]
+    [ "HandleHit", "d6/dd0/a13083.html#a5245f935c0cafd14e492214a51d85ad3", null ],
+    [ "PrepareSpellScript", "d6/dd0/a13083.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
+    [ "Register", "d6/dd0/a13083.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
 ];

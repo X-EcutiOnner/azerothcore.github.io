@@ -1,9 +1,7 @@
 var a18735 =
 [
-    [ "npc_spirit_wardenAI", "d0/d62/a18735.html#a3391168478345d8b5c1fee151f6e9f04", null ],
-    [ "JustDied", "d0/d62/a18735.html#aa762c0bea6361107312e8231508dc655", null ],
-    [ "Reset", "d0/d62/a18735.html#ad6076663f65f43874feb0ecfc57718a4", null ],
-    [ "UpdateAI", "d0/d62/a18735.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
-    [ "_events", "d0/d62/a18735.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
-    [ "_instance", "d0/d62/a18735.html#a58ebb8e42e77add79fc888248013eb24", null ]
+    [ "OnPeriodic", "d0/d62/a18735.html#a9635bf496ee3098e412ba7de633250b3", null ],
+    [ "PrepareAuraScript", "d0/d62/a18735.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
+    [ "Register", "d0/d62/a18735.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
+    [ "Validate", "d0/d62/a18735.html#a5675fef373315edd34d096bb91c733b0", null ]
 ];

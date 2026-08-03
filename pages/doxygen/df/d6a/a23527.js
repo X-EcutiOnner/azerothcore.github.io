@@ -1,9 +1,10 @@
 var a23527 =
 [
-    [ "boss_high_botanist_freywinn", "df/d6a/a23527.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
-    [ "JustDied", "df/d6a/a23527.html#a7b370482ea195d0305cba339ce0cbab3", null ],
-    [ "JustEngagedWith", "df/d6a/a23527.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
-    [ "KilledUnit", "df/d6a/a23527.html#a80a997e0d12c175da0a46d7362890b9c", null ],
-    [ "ResumeEncounter", "df/d6a/a23527.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
-    [ "SummonedCreatureDies", "df/d6a/a23527.html#a7f1a02d4b944191471f59ba728b6372e", null ]
+    [ "boss_high_king_maulgar", "df/d6a/a23527.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
+    [ "DoAction", "df/d6a/a23527.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
+    [ "JustDied", "df/d6a/a23527.html#ad235febd755745313b72394c633c3723", null ],
+    [ "JustEngagedWith", "df/d6a/a23527.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
+    [ "KilledUnit", "df/d6a/a23527.html#a2059016597039929103c053d6524ebf7", null ],
+    [ "Reset", "df/d6a/a23527.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
+    [ "UpdateAI", "df/d6a/a23527.html#ae540909dbbb3cf93e37503cd755c3001", null ]
 ];

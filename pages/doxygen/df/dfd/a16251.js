@@ -1,8 +1,6 @@
 var a16251 =
 [
-    [ "HandleAfterCast", "df/dfd/a16251.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
-    [ "HandleDummyEffect", "df/dfd/a16251.html#a539c233fc820248930e1988c4074b9c8", null ],
-    [ "Load", "df/dfd/a16251.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
-    [ "PrepareSpellScript", "df/dfd/a16251.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
-    [ "Register", "df/dfd/a16251.html#ae90184fd34636b33755b732ec82fd52f", null ]
+    [ "creatureID", "df/dfd/a16251.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "df/dfd/a16251.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "df/dfd/a16251.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

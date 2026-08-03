@@ -1,9 +1,5 @@
 var a19131 =
 [
-    [ "npc_icc_skybreaker_marksmanAI", "dd/dee/a19131.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
-    [ "AttackStart", "dd/dee/a19131.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
-    [ "JustEngagedWith", "dd/dee/a19131.html#a7648c626ded6d3abef798b46c77f991d", null ],
-    [ "Reset", "dd/dee/a19131.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
-    [ "UpdateAI", "dd/dee/a19131.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
-    [ "events", "dd/dee/a19131.html#a5aaffc1e78c255c95893be1537e520d6", null ]
+    [ "npc_darkfallen_blood_knight", "dd/dee/a19131.html#ad5b43cff525dc18855a0b51a23fa6fd0", null ],
+    [ "ScheduleSpells", "dd/dee/a19131.html#ad275e8b9562587a61b8db4440eaf43b3", null ]
 ];

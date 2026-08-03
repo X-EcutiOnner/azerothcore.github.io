@@ -1,5 +1,7 @@
 var a19231 =
 [
-    [ "at_frozen_throne_teleport", "d9/d2b/a19231.html#a8065b9f9b55b267be1757775f84de349", null ],
-    [ "OnTrigger", "d9/d2b/a19231.html#ae1f9476b7f47320f545e702e9317bd03", null ]
+    [ "OnRemove", "d9/d2b/a19231.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
+    [ "PrepareAuraScript", "d9/d2b/a19231.html#acf654e563f47df9ad033d7080f47662b", null ],
+    [ "Register", "d9/d2b/a19231.html#aad4497ba7cad48b9547e8696714d8c23", null ],
+    [ "Validate", "d9/d2b/a19231.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
 ];

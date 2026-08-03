@@ -1,6 +1,9 @@
 var a29415 =
 [
-    [ "SetUp", "de/dc7/a29415.html#abb19e39864b83953d4521914a78ed608", null ],
-    [ "TearDown", "de/dc7/a29415.html#a72dfb16bc49f5ebc3cfc34e7058e4ac9", null ],
-    [ "rbacData", "de/dc7/a29415.html#a96c1c7558b15f241f429f479ae36f497", null ]
+    [ "Category", "de/dc7/a29415.html#acd933f251a1faa1f705420307136681d", null ],
+    [ "Faction", "de/dc7/a29415.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
+    [ "Flags", "de/dc7/a29415.html#a8b41ed573eae71196664a61bac83fe3e", null ],
+    [ "Id", "de/dc7/a29415.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
+    [ "Slot", "de/dc7/a29415.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
+    [ "Type", "de/dc7/a29415.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
 ];

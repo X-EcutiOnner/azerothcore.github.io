@@ -1,7 +1,6 @@
 var a24495 =
 [
-    [ "HandleProc", "df/d7d/a24495.html#a15592382213762145eb30d85bfcbd60a", null ],
-    [ "PrepareAuraScript", "df/d7d/a24495.html#a82201b03b7b642e7898889412a617712", null ],
-    [ "Register", "df/d7d/a24495.html#aba014f9b0000d19cabbc5a9c763b934b", null ],
-    [ "Validate", "df/d7d/a24495.html#af586c09b1ba0b25d37c43624d3871c4e", null ]
+    [ "FilterTargets", "df/d7d/a24495.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
+    [ "PrepareSpellScript", "df/d7d/a24495.html#aea49df3f6b93223ed72c3a9875232b74", null ],
+    [ "Register", "df/d7d/a24495.html#a8f0e0b6363303def780d35415c88b4d6", null ]
 ];

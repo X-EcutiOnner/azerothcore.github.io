@@ -1,9 +1,7 @@
 var a23491 =
 [
-    [ "boss_dalliah_the_doomsayer", "df/d5d/a23491.html#ad6edf9623942297b28bc7420ec0cc733", null ],
-    [ "InitializeAI", "df/d5d/a23491.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
-    [ "JustDied", "df/d5d/a23491.html#a431edc9c25fb125d7d267073eb1c1423", null ],
-    [ "JustEngagedWith", "df/d5d/a23491.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
-    [ "KilledUnit", "df/d5d/a23491.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
-    [ "Reset", "df/d5d/a23491.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
+    [ "OnApply", "df/d5d/a23491.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "df/d5d/a23491.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "df/d5d/a23491.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "df/d5d/a23491.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

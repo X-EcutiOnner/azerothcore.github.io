@@ -1,8 +1,6 @@
 var a18907 =
 [
-    [ "FilterTargets", "dd/d62/a18907.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
-    [ "HandleForceCast", "dd/d62/a18907.html#ae783cf255be823bf7c9125f288479e97", null ],
-    [ "Load", "dd/d62/a18907.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
-    [ "PrepareSpellScript", "dd/d62/a18907.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
-    [ "Register", "dd/d62/a18907.html#a454a8909be4bb85f255ea696041ea447", null ]
+    [ "npc_risen_archmageAI", "d2/d8e/a18911.html", "d2/d8e/a18911" ],
+    [ "npc_risen_archmage", "dd/d62/a18907.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
+    [ "GetAI", "dd/d62/a18907.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
 ];

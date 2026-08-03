@@ -1,6 +1,6 @@
 var a16123 =
 [
-    [ "HandleDummy", "d0/d69/a16123.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "d0/d69/a16123.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "d0/d69/a16123.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_custodian_of_timeAI", "dc/d3a/a16127.html", "dc/d3a/a16127" ],
+    [ "npc_custodian_of_time", "d0/d69/a16123.html#a6018b30119ce819853a3c662b3d5347e", null ],
+    [ "GetAI", "d0/d69/a16123.html#a57217b2dab1cab110f1c59526ca13c86", null ]
 ];

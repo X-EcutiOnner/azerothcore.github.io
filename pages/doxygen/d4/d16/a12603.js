@@ -1,6 +1,9 @@
 var a12603 =
 [
-    [ "boss_anubshiah", "d4/d16/a12603.html#aa8e436501ebf08465a9742dedb5901fc", null ],
-    [ "JustEngagedWith", "d4/d16/a12603.html#aedd04c5765ca4360d8290fac7e7b9c55", null ],
-    [ "UpdateAI", "d4/d16/a12603.html#a0a3cbdd6be45415723cbadb40478831a", null ]
+    [ "send_commandscript", "d4/d16/a12603.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
+    [ "GetCommands", "d4/d16/a12603.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
+    [ "HandleSendItemsCommand", "d4/d16/a12603.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
+    [ "HandleSendMailCommand", "d4/d16/a12603.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
+    [ "HandleSendMessageCommand", "d4/d16/a12603.html#a91017e6171ac9e4dfff6c2036228de47", null ],
+    [ "HandleSendMoneyCommand", "d4/d16/a12603.html#a1b1e995a2854e338866527ee9634d544", null ]
 ];

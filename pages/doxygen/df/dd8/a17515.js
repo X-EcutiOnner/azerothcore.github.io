@@ -1,6 +1,6 @@
 var a17515 =
 [
-    [ "npc_living_mojoAI", "d9/df3/a17519.html", "d9/df3/a17519" ],
-    [ "npc_living_mojo", "df/dd8/a17515.html#af24190023549b4ec5fa47b5959618a8a", null ],
-    [ "GetAI", "df/dd8/a17515.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
+    [ "npc_pos_martin_or_gorkun_secondAI", "d9/df3/a17519.html", "d9/df3/a17519" ],
+    [ "npc_pos_martin_or_gorkun_second", "df/dd8/a17515.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
+    [ "GetAI", "df/dd8/a17515.html#a180936e3bb98eb55d29ebd51350906c0", null ]
 ];

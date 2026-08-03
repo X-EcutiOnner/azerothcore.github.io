@@ -1,7 +1,8 @@
 var a20399 =
 [
-    [ "HandleEffectPeriodic", "d4/d96/a20399.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
-    [ "PrepareAuraScript", "d4/d96/a20399.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
-    [ "Register", "d4/d96/a20399.html#aed86a298340cc05fbe2a8a68396423bb", null ],
-    [ "Validate", "d4/d96/a20399.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
+    [ "npc_ulduar_saronite_animus", "d4/d96/a20399.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
+    [ "JustDied", "d4/d96/a20399.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
+    [ "UpdateAI", "d4/d96/a20399.html#afc7899752e25669b37ab04b50fb2d604", null ],
+    [ "_instance", "d4/d96/a20399.html#a6f2bf52c82185365efe88941b7922504", null ],
+    [ "timer", "d4/d96/a20399.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
 ];

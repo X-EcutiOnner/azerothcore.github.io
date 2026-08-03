@@ -1,6 +1,5 @@
 var a28031 =
 [
-    [ "go_bashir_crystalforge", "de/dec/a28031.html#a8b68a63933e14d82198580912fddc280", null ],
-    [ "OnGossipHello", "de/dec/a28031.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
-    [ "OnGossipSelect", "de/dec/a28031.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
+    [ "achievement_tilted", "de/dec/a28031.html#a868d7b8a437434d6dc34b5000c429e66", null ],
+    [ "OnCheck", "de/dec/a28031.html#a61d3eb78450383485699532d96f79d93", null ]
 ];

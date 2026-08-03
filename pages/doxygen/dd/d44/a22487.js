@@ -1,7 +1,6 @@
 var a22487 =
 [
-    [ "HandleProc", "dd/d44/a22487.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
-    [ "PrepareAuraScript", "dd/d44/a22487.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
-    [ "Register", "dd/d44/a22487.html#a6b764182501a1d192f90dc20bbd6549e", null ],
-    [ "Validate", "dd/d44/a22487.html#ad89123425cca5bd02a18526a11595a1a", null ]
+    [ "npc_released_offspring_harkoaAI", "d4/d4c/a22491.html", "d4/d4c/a22491" ],
+    [ "npc_released_offspring_harkoa", "dd/d44/a22487.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
+    [ "GetAI", "dd/d44/a22487.html#ae3d2a02c496be1b2606fce596625d12e", null ]
 ];

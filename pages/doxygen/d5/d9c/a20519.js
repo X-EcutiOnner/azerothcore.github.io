@@ -1,5 +1,5 @@
 var a20519 =
 [
-    [ "go_ulduar_do_not_push_this_button", "d5/d9c/a20519.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "d5/d9c/a20519.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "achievement_getting_cold_in_here", "d5/d9c/a20519.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
+    [ "OnCheck", "d5/d9c/a20519.html#aeafd382d378381f754da6ee04d382276", null ]
 ];

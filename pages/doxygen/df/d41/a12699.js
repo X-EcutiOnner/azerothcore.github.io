@@ -1,12 +1,9 @@
 var a12699 =
 [
-    [ "boss_pyroguard_emberseer", "df/d41/a12699.html#a4c1bd9e71776fa088a84009565dc527d", null ],
-    [ "JustDied", "df/d41/a12699.html#a6f0e58c7107563f40e864eede5a907d5", null ],
-    [ "JustEngagedWith", "df/d41/a12699.html#a1c9662393ea5862ee26f5242e184fd74", null ],
-    [ "OpenDoors", "df/d41/a12699.html#a80761b3fad5864ce80dae81d31df748c", null ],
-    [ "Reset", "df/d41/a12699.html#a7eda06b39dc920040e205595a0f8efa2", null ],
-    [ "SetData", "df/d41/a12699.html#a533c643c9b65813f48fd92ee73670fae", null ],
-    [ "SpellHit", "df/d41/a12699.html#aa9842818e2ab218ac175cebfc82f6adf", null ],
-    [ "UpdateAI", "df/d41/a12699.html#a7e12a0ef98e8c751a33e4492ae368074", null ],
-    [ "UpdateRunes", "df/d41/a12699.html#af80bdd2eb6200d3abbcb08b57798f1e5", null ]
+    [ "npc_phalanx", "df/d41/a12699.html#a03c79151dcdc13fef4ce83957addd44a", null ],
+    [ "Reset", "df/d41/a12699.html#a9297d5fb869eb9a65ef9143a56347a53", null ],
+    [ "UpdateAI", "df/d41/a12699.html#aad01cc9d5ac167c21547e8b0b2bda4a7", null ],
+    [ "_fireballVolleyTimer", "df/d41/a12699.html#a54ad76cd7e8d3be058ad3d5153e5b144", null ],
+    [ "_mightyBlowTimer", "df/d41/a12699.html#ad59e6e32b53dbf797bc62e116ae2a12d", null ],
+    [ "_thunderClapTimer", "df/d41/a12699.html#a3b0c33207bf5090abeb9860585c222b4", null ]
 ];

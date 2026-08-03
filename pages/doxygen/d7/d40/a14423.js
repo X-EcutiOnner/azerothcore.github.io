@@ -1,5 +1,6 @@
 var a14423 =
 [
-    [ "at_zulgurub_entrance_speech", "d7/d40/a14423.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "d7/d40/a14423.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
+    [ "OnEffect", "d7/d40/a14423.html#ab87d53faac04ced3c11088e260782068", null ],
+    [ "PrepareSpellScript", "d7/d40/a14423.html#af618e8d84029dda5e48b699cbcf671be", null ],
+    [ "Register", "d7/d40/a14423.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
 ];

@@ -1,8 +1,9 @@
 var a27463 =
 [
-    [ "HandleDummyTick", "df/dc1/a27463.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
-    [ "HandleRemove", "df/dc1/a27463.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
-    [ "PrepareAuraScript", "df/dc1/a27463.html#a06e45d5f63ef1395b5949482e8393098", null ],
-    [ "Register", "df/dc1/a27463.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
-    [ "Validate", "df/dc1/a27463.html#a9a2da4d163a96526e14f5de76798a784", null ]
+    [ "Absorb", "df/dc1/a27463.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
+    [ "CalculateAmount", "df/dc1/a27463.html#a820c27c2161063307a10903cbbc5c0fa", null ],
+    [ "Load", "df/dc1/a27463.html#a7b71990051faaa083110408c13b8401f", null ],
+    [ "PrepareAuraScript", "df/dc1/a27463.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
+    [ "Register", "df/dc1/a27463.html#aa443ab0eed74229883884fbced0426d7", null ],
+    [ "absorbPct", "df/dc1/a27463.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
 ];

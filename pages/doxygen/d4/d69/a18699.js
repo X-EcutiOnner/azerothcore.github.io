@@ -1,7 +1,7 @@
 var a18699 =
 [
-    [ "CheckTargetCount", "d4/d69/a18699.html#a44f558248f944464c773105728cffbca", null ],
-    [ "PrepareSpellScript", "d4/d69/a18699.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
-    [ "Register", "d4/d69/a18699.html#aeda833ca8483d337311086b9d0a14081", null ],
-    [ "Validate", "d4/d69/a18699.html#aee84751e352dbfc12472fc15924c48fa", null ]
+    [ "CheckTargetCount", "d4/d69/a18699.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
+    [ "PrepareSpellScript", "d4/d69/a18699.html#abd32198867e7f01b21b7de6224a597d4", null ],
+    [ "Register", "d4/d69/a18699.html#a671bede7fbc68085cd6075f412822869", null ],
+    [ "Validate", "d4/d69/a18699.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
 ];

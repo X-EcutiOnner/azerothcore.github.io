@@ -1,8 +1,14 @@
 var a15715 =
 [
-    [ "npc_obsidian_nullifier", "df/d51/a15715.html#a9dbb6d681e348057564750fcd7e8050a", null ],
-    [ "JustEngagedWith", "df/d51/a15715.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
-    [ "Reset", "df/d51/a15715.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
-    [ "UpdateAI", "df/d51/a15715.html#a37cf1d335dd3735b262e82828c4f904a", null ],
-    [ "_targetGUIDs", "df/d51/a15715.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
+    [ "boss_twinemperorsAI", "df/d51/a15715.html#ae0857b191dbbf086533062aee5885237", null ],
+    [ "DamageTaken", "df/d51/a15715.html#a118151851f36de9dfc22971a965cb047", null ],
+    [ "DoAction", "df/d51/a15715.html#a2b5e585749b7a59663813c7a9d56c223", null ],
+    [ "EnterEvadeMode", "df/d51/a15715.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
+    [ "GetTwin", "df/d51/a15715.html#af23aa54bca9752c242e80331862ace4d", null ],
+    [ "IAmVeklor", "df/d51/a15715.html#acdccdde2ee573f51e1783ea493577258", null ],
+    [ "JustDied", "df/d51/a15715.html#a9cc74619908c2aa9f8deda2689616735", null ],
+    [ "JustEngagedWith", "df/d51/a15715.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
+    [ "KilledUnit", "df/d51/a15715.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
+    [ "UpdateAI", "df/d51/a15715.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
+    [ "_introDone", "df/d51/a15715.html#a1b4689b0c403f7246ae100e4f716b138", null ]
 ];

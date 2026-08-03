@@ -1,12 +1,13 @@
 var a23327 =
 [
-    [ "boss_omor_the_unscarred", "d3/d4a/a23327.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "d3/d4a/a23327.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "d3/d4a/a23327.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "d3/d4a/a23327.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "d3/d4a/a23327.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "d3/d4a/a23327.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "d3/d4a/a23327.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "d3/d4a/a23327.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "d3/d4a/a23327.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "npc_earthen_ring_flamecaller", "d3/d4a/a23327.html#ab402dd321fa0df641b674324386d7591", null ],
+    [ "DoAction", "d3/d4a/a23327.html#af745c83529a34a89c430d6113703fff5", null ],
+    [ "LookOpening", "d3/d4a/a23327.html#adfc752e7700a816b66b639007a1a90fa", null ],
+    [ "MovementInform", "d3/d4a/a23327.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
+    [ "Reset", "d3/d4a/a23327.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
+    [ "SpellHit", "d3/d4a/a23327.html#ab9c5ad7e56033997042031566748ee2b", null ],
+    [ "UpdateAI", "d3/d4a/a23327.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
+    [ "_events", "d3/d4a/a23327.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
+    [ "_instance", "d3/d4a/a23327.html#a79aa6e628a50ed485cc55513c28362dc", null ],
+    [ "_mySpot", "d3/d4a/a23327.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
 ];

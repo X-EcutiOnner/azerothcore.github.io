@@ -1,7 +1,8 @@
 var a25355 =
 [
-    [ "HandleProc", "db/d5f/a25355.html#a107d4e1650c6044b60ab711b01c607f6", null ],
-    [ "PrepareAuraScript", "db/d5f/a25355.html#ad14fb132bbbcb7d378521530372a5a7c", null ],
-    [ "Register", "db/d5f/a25355.html#ad49679e2b6966ddcd70bb48c44927bad", null ],
-    [ "Validate", "db/d5f/a25355.html#adfd2e27d6f40356bfacf7cad424e7e4d", null ]
+    [ "CheckCast", "db/d5f/a25355.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
+    [ "HandleScript", "db/d5f/a25355.html#a2c1702398e4cbdcc106679d534a27743", null ],
+    [ "PrepareSpellScript", "db/d5f/a25355.html#a613bdf7841744632c1e6de147e0352b9", null ],
+    [ "Register", "db/d5f/a25355.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
+    [ "Validate", "db/d5f/a25355.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
 ];

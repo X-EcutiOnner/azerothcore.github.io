@@ -1,6 +1,5 @@
 var a24255 =
 [
-    [ "HandleAfterCast", "d8/de9/a24255.html#aaa65e67362ded5318e89272acf073bf3", null ],
-    [ "PrepareSpellScript", "d8/de9/a24255.html#a7d0dd936965845c14e7b54846facdb89", null ],
-    [ "Register", "d8/de9/a24255.html#ab7b767743d62d9763bea710b7552a8cf", null ]
+    [ "go_crystal_prison", "d8/de9/a24255.html#a0faca8b76f9650ee5cc7825b90463365", null ],
+    [ "OnQuestAccept", "d8/de9/a24255.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
 ];

@@ -1,14 +1,6 @@
 var a09003 =
 [
-    [ "SocialMap", "dc/dbe/a09003.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
-    [ "SocialMgr", "dc/dbe/a09003.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
-    [ "~SocialMgr", "dc/dbe/a09003.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
-    [ "BroadcastToFriendListers", "dc/dbe/a09003.html#a55b35ea17ebfea4ff31710186b87865f", null ],
-    [ "GetFriendInfo", "dc/dbe/a09003.html#a7d0c4638b6fde1bf614d90492160ee55", null ],
-    [ "instance", "dc/dbe/a09003.html#a223f3d7811d8c360da7f467b70af808f", null ],
-    [ "LoadFromDB", "dc/dbe/a09003.html#aab17f5c27494cfdf2b1c5d5038f446a0", null ],
-    [ "MakeFriendStatusPacket", "dc/dbe/a09003.html#af30fe2f3223dc7ad9094e44393420d3a", null ],
-    [ "RemovePlayerSocial", "dc/dbe/a09003.html#af537c83cc3d481dde68d0a60aa122289", null ],
-    [ "SendFriendStatus", "dc/dbe/a09003.html#acf245ca689bd5c0efe4a791b9e0e3c5f", null ],
-    [ "m_socialMap", "dc/dbe/a09003.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
+    [ "SavedItem", "dc/dbe/a09003.html#a7261d44eefdbd56df651a57a71f5af6e", null ],
+    [ "dstpos", "dc/dbe/a09003.html#af844c8b955858b1ead94798c6326fa03", null ],
+    [ "item", "dc/dbe/a09003.html#afaa651441e306c13acc3cd1aa3084170", null ]
 ];

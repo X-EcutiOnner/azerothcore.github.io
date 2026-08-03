@@ -1,8 +1,6 @@
 var a19851 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d7/df7/a19851.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
-    [ "CheckAchievementCriteriaMeet", "d7/df7/a19851.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
-    [ "SetData", "d7/df7/a19851.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
-    [ "_bjarngrimAchievement", "d7/df7/a19851.html#aba06463eb70c68716f571951395c6e2a", null ],
-    [ "_volkhanAchievement", "d7/df7/a19851.html#a52db8081961566ef2002424f00b60189", null ]
+    [ "boss_uromAI", "df/de4/a19855.html", "df/de4/a19855" ],
+    [ "boss_urom", "d7/df7/a19851.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
+    [ "GetAI", "d7/df7/a19851.html#ac381b851f3cc746fb323ff238892c537", null ]
 ];

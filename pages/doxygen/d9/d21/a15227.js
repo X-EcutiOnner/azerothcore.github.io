@@ -1,7 +1,10 @@
 var a15227 =
 [
-    [ "npc_cos_chromie_middle", "d9/d21/a15227.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "d9/d21/a15227.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "d9/d21/a15227.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "d9/d21/a15227.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "npc_hyjal_gargoyle", "d9/d21/a15227.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
+    [ "AttackStart", "d9/d21/a15227.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
+    [ "DoAction", "d9/d21/a15227.html#ae213c71426f438dd2b27699d7de23664", null ],
+    [ "JustEngagedWith", "d9/d21/a15227.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
+    [ "PathEndReached", "d9/d21/a15227.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
+    [ "Reset", "d9/d21/a15227.html#af314bb183bde44680eeb136d2a08c142", null ],
+    [ "UpdateAI", "d9/d21/a15227.html#ac1ca0648b08430a8bcbf99980222b684", null ]
 ];

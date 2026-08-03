@@ -1,8 +1,5 @@
 var a10611 =
 [
-    [ "AllCommandScript", "d9/da8/a10611.html#a7ff235b904eecdd4d02d2025c4078980", null ],
-    [ "IsDatabaseBound", "d9/da8/a10611.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
-    [ "OnBeforeIsInvokerVisible", "d9/da8/a10611.html#a6f85dc271c1b61244978aa4474e708b0", null ],
-    [ "OnHandleDevCommand", "d9/da8/a10611.html#aba983f0e052ece230617573f04a35c92", null ],
-    [ "OnTryExecuteCommand", "d9/da8/a10611.html#a3a116836453073e77bbd8ab974f36f47", null ]
+    [ "petitionGuid", "d9/da8/a10611.html#adafc1020d722bd3885429041ce9a292c", null ],
+    [ "signatureMap", "d9/da8/a10611.html#a70bd865a5b11ffc0ceed08b683548b42", null ]
 ];

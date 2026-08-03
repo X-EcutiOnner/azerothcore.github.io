@@ -1,6 +1,11 @@
 var a12819 =
 [
-    [ "boss_flamegor", "d6/d87/a12819.html#a721c23d631d305c102117566f609f10a", null ],
-    [ "JustEngagedWith", "d6/d87/a12819.html#aebbcd35868c64d2a0b1f660720f84575", null ],
-    [ "UpdateAI", "d6/d87/a12819.html#a086f8bd08ba22fff7e399bf9588cbffd", null ]
+    [ "boss_quartermaster_zigris", "d6/d87/a12819.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
+    [ "DamageTaken", "d6/d87/a12819.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
+    [ "JustDied", "d6/d87/a12819.html#a9295bbcffd7968051a789e8dfb634e23", null ],
+    [ "JustEngagedWith", "d6/d87/a12819.html#af482c06e00e7f6c15b290115998a27a9", null ],
+    [ "Reset", "d6/d87/a12819.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
+    [ "SpellHitTarget", "d6/d87/a12819.html#a38197746cc73ada1378e6e1a5555ef79", null ],
+    [ "UpdateAI", "d6/d87/a12819.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
+    [ "_hasDrunkPotion", "d6/d87/a12819.html#a25335533bc43171687e03f1ed22d4fb3", null ]
 ];

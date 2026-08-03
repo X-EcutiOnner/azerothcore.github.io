@@ -1,6 +1,8 @@
 var a14167 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d0/d17/a14171.html", "d0/d17/a14171" ],
-    [ "npc_jaina_proudmoore_bfu", "d6/d93/a14167.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "d6/d93/a14167.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "HandleDummy", "d6/d93/a14167.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
+    [ "HandleScript", "d6/d93/a14167.html#a528ce741ebde0fb6b796431da800e439", null ],
+    [ "PrepareSpellScript", "d6/d93/a14167.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
+    [ "Register", "d6/d93/a14167.html#a8dea4b47777324b88c7e022f11741b25", null ],
+    [ "Validate", "d6/d93/a14167.html#a6f49345b2beea56b4eaad390a6062118", null ]
 ];

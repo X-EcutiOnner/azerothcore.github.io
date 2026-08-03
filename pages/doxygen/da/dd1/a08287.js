@@ -1,7 +1,16 @@
 var a08287 =
 [
-    [ "LfgReward", "da/dd1/a08287.html#afe2ea037fa24064c2bf04cfc6303d903", null ],
-    [ "firstQuest", "da/dd1/a08287.html#a28162b1e43a5309ab01ca99b45d29799", null ],
-    [ "maxLevel", "da/dd1/a08287.html#aae6e46155dc790ed7c63f5f0b8e08395", null ],
-    [ "otherQuest", "da/dd1/a08287.html#a96de83c64efc3009d7d5cd04a61e71b2", null ]
+    [ "DisableMap", "da/dd1/a08287.html#adf2cad99fa4b2b3ddbff05931928c1c5", null ],
+    [ "DisableTypeMap", "da/dd1/a08287.html#a70c68e93cdd77f5e54bae1b96c66da13", null ],
+    [ "DisableMgr", "da/dd1/a08287.html#afadb62b96ab43f983f8a8c3077cbe205", null ],
+    [ "~DisableMgr", "da/dd1/a08287.html#ae1483ae3fdeeb98cceb29905f7181b1a", null ],
+    [ "AddDisable", "da/dd1/a08287.html#a343955ca73dabce8e7b81bf2803992fc", null ],
+    [ "CheckQuestDisables", "da/dd1/a08287.html#a2f9fa5dadf6f2da5f01651d37d996377", null ],
+    [ "HandleDisableType", "da/dd1/a08287.html#a203bb85bc7ecb9be3cf09b5d093b90fa", null ],
+    [ "instance", "da/dd1/a08287.html#ac3787801d677b0ed6592476d648743db", null ],
+    [ "IsDisabledFor", "da/dd1/a08287.html#accac4f17d8411544e22ba2231b04f36f", null ],
+    [ "IsPathfindingEnabled", "da/dd1/a08287.html#a8dce4846886ded6ec2b882820abdc517", null ],
+    [ "IsVMAPDisabledFor", "da/dd1/a08287.html#a38b182e1836b2197303b2809006f5148", null ],
+    [ "LoadDisables", "da/dd1/a08287.html#adb464165caf6cd436499fa84969eeaf8", null ],
+    [ "m_DisableMap", "da/dd1/a08287.html#a7a299346248eb6dc692f9e56ae9efffd", null ]
 ];

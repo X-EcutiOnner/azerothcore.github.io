@@ -1,9 +1,9 @@
 var a09223 =
 [
-    [ "LiquidData", "d1/dd1/a09223.html#ac2435178323f480d2dae449b49b39146", null ],
-    [ "DepthLevel", "d1/dd1/a09223.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
-    [ "Entry", "d1/dd1/a09223.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
-    [ "Flags", "d1/dd1/a09223.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
-    [ "Level", "d1/dd1/a09223.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
-    [ "Status", "d1/dd1/a09223.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
+    [ "TransportBase", "d1/dd1/a09223.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
+    [ "~TransportBase", "d1/dd1/a09223.html#a81dca3435a1a1666a90acd8e154e3287", null ],
+    [ "CalculatePassengerOffset", "d1/dd1/a09223.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
+    [ "CalculatePassengerOffset", "d1/dd1/a09223.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
+    [ "CalculatePassengerPosition", "d1/dd1/a09223.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
+    [ "CalculatePassengerPosition", "d1/dd1/a09223.html#a328fbc464c56eca89138380182a0108c", null ]
 ];

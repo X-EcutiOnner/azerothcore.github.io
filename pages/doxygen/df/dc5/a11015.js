@@ -1,7 +1,7 @@
 var a11015 =
 [
-    [ "GuildInvite", "df/dc5/a11015.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
-    [ "Write", "df/dc5/a11015.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
-    [ "GuildName", "df/dc5/a11015.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
-    [ "InviterName", "df/dc5/a11015.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
+    [ "Emote", "df/dc5/a11015.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
+    [ "Write", "df/dc5/a11015.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
+    [ "EmoteID", "df/dc5/a11015.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
+    [ "Guid", "df/dc5/a11015.html#ab96a1c0933e90872f54eb0995098274a", null ]
 ];

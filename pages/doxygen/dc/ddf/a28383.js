@@ -1,5 +1,5 @@
 var a28383 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "dc/ddf/a28383.html#afaa929276f8b131005c9b94daa9a09f9", null ],
-    [ "OnPlayerCompleteQuest", "dc/ddf/a28383.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
+    [ "item_incendiary_explosives", "dc/ddf/a28383.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
+    [ "OnUse", "dc/ddf/a28383.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
 ];

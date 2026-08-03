@@ -1,7 +1,6 @@
 var a15823 =
 [
-    [ "npc_kerlonianAI", "d8/d4c/a15827.html", "d8/d4c/a15827" ],
-    [ "npc_kerlonian", "d9/d28/a15823.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "d9/d28/a15823.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "d9/d28/a15823.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "npc_muglashAI", "d8/d4c/a15827.html", "d8/d4c/a15827" ],
+    [ "npc_muglash", "d9/d28/a15823.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
+    [ "GetAI", "d9/d28/a15823.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
 ];

@@ -1,6 +1,6 @@
 var a26971 =
 [
-    [ "PrepareSpellScript", "d5/df0/a26971.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
-    [ "Register", "d5/df0/a26971.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
-    [ "SetDest", "d5/df0/a26971.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
+    [ "HandleProc", "d5/df0/a26971.html#ac81521531646341356525465bac2a816", null ],
+    [ "PrepareAuraScript", "d5/df0/a26971.html#aa57cede2bfc6354c8b95410d8fb50575", null ],
+    [ "Register", "d5/df0/a26971.html#a8daf8414ff4705741dfed0e818607741", null ]
 ];

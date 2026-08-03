@@ -1,7 +1,6 @@
 var a28371 =
 [
-    [ "npc_crashin_thrashin_robot", "de/d1d/a28371.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "de/d1d/a28371.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "de/d1d/a28371.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "de/d1d/a28371.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "guard_shattrath_aldorAI", "d3/d76/a28375.html", "d3/d76/a28375" ],
+    [ "guard_shattrath_aldor", "de/d1d/a28371.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "de/d1d/a28371.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

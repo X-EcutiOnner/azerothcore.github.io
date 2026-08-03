@@ -1,6 +1,5 @@
 var a26235 =
 [
-    [ "CheckProc", "d4/d6f/a26235.html#af38c2b1c556a1fcdb1157468cd02811e", null ],
-    [ "PrepareAuraScript", "d4/d6f/a26235.html#a42b97406721d3493a378394132a55981", null ],
-    [ "Register", "d4/d6f/a26235.html#af4d514906f66af1b2f2392bcfc5e8b9c", null ]
+    [ "PrepareSpellScript", "d4/d6f/a26235.html#ac08a5b38ac3012ad31c8ecdf4ca36585", null ],
+    [ "Register", "d4/d6f/a26235.html#a7d6187a7aa8f8d67efe15ffc74fa1873", null ]
 ];

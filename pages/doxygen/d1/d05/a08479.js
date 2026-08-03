@@ -1,10 +1,7 @@
 var a08479 =
 [
-    [ "Puppet", "d1/d05/a08479.html#ab0082936291e6b7f5370656c7c9ed948", null ],
-    [ "GetOwner", "d1/d05/a08479.html#a38760bce8e8ebf28ae0143ad2931afd5", null ],
-    [ "InitStats", "d1/d05/a08479.html#ac5dd23d7cf6d4b4a2ba073ae1128181b", null ],
-    [ "InitSummon", "d1/d05/a08479.html#abfc97f1d25cb1ac27b1bed6f61867fa3", null ],
-    [ "RemoveFromWorld", "d1/d05/a08479.html#a61dcfc821c2221d1747fcb2180e03bfd", null ],
-    [ "Update", "d1/d05/a08479.html#a5281497d7689e1dd10f89b5a9f83006f", null ],
-    [ "m_owner", "d1/d05/a08479.html#adae18eabdba52ef8a9f7c5c8768e060c", null ]
+    [ "CreatureSpellCooldown", "d1/d05/a08479.html#a6d234a93951992640df5720a2885be3e", null ],
+    [ "CreatureSpellCooldown", "d1/d05/a08479.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
+    [ "category", "d1/d05/a08479.html#a27330a80d711087f1894b2ce816c33b8", null ],
+    [ "end", "d1/d05/a08479.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
 ];

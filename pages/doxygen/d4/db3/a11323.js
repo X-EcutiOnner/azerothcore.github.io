@@ -1,8 +1,8 @@
 var a11323 =
 [
-    [ "MinimapPing", "d4/db3/a11323.html#a846074f55e6224bf322b96c7bfe9e008", null ],
-    [ "Write", "d4/db3/a11323.html#a94eb49e309ce83b04ccaf8f7e3e8bde7", null ],
-    [ "MapX", "d4/db3/a11323.html#ab747a36a7dfefb0692e8c6abb1d161e2", null ],
-    [ "MapY", "d4/db3/a11323.html#a2f8504ddba41dd09f69763d66331373b", null ],
-    [ "SourceGuid", "d4/db3/a11323.html#abf5d5980b360cbf9332460b01d5816f5", null ]
+    [ "SellItem", "d4/db3/a11323.html#a5c7bdfba6d948b9fdaea3416bce03e5e", null ],
+    [ "Read", "d4/db3/a11323.html#a7387e53c30f41dc8f5fd3ffbe4e4a347", null ],
+    [ "Count", "d4/db3/a11323.html#a0116f5d02f18bf1a315fbf81b6467239", null ],
+    [ "ItemGuid", "d4/db3/a11323.html#a92ae3a3dc04a699c4f201026c08974ca", null ],
+    [ "VendorGuid", "d4/db3/a11323.html#a13200b200096a11e93a6d23fd6122378", null ]
 ];

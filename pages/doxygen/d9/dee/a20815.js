@@ -1,7 +1,7 @@
 var a20815 =
 [
-    [ "OnApply", "d9/dee/a20815.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
-    [ "OnRemove", "d9/dee/a20815.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
-    [ "PrepareAuraScript", "d9/dee/a20815.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
-    [ "Register", "d9/dee/a20815.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
+    [ "boss_thorim_trap", "d9/dee/a20815.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
+    [ "Reset", "d9/dee/a20815.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
+    [ "UpdateAI", "d9/dee/a20815.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
+    [ "_checkTimer", "d9/dee/a20815.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
 ];

@@ -1,8 +1,6 @@
 var a27531 =
 [
-    [ "CheckProc", "de/db2/a27531.html#a4713f3cdce1ee793a8f2232202314ff7", null ],
-    [ "HandleProc", "de/db2/a27531.html#ab892bc268feccba594a5b4b0be3e86f7", null ],
-    [ "PrepareAuraScript", "de/db2/a27531.html#a92a141fcf24f63bc41f6f828f72bf277", null ],
-    [ "Register", "de/db2/a27531.html#a93806efcc1e5976cca2eab57c9e55a7e", null ],
-    [ "Validate", "de/db2/a27531.html#a28801b99335380a7e366e766b6aaea2c", null ]
+    [ "CheckProc", "de/db2/a27531.html#a3b98aef2d745773a55ac10daded629e7", null ],
+    [ "PrepareAuraScript", "de/db2/a27531.html#ab49dc1c178c4089fe8f708da3cd22bf2", null ],
+    [ "Register", "de/db2/a27531.html#a5c0c53a39fdc770f8c6e9a86cd87c74a", null ]
 ];

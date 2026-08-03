@@ -1,9 +1,12 @@
 var a07623 =
 [
-    [ "Rank", "d4/d4f/a07623.html#a9bcd8dc00437bcf015565eeb43263578", null ],
-    [ "Rating", "d4/d4f/a07623.html#ab43875cc3ae58eb636a490c2c0f5c1f6", null ],
-    [ "SeasonGames", "d4/d4f/a07623.html#a124c6d64f22c13707764eedd79fe1912", null ],
-    [ "SeasonWins", "d4/d4f/a07623.html#ad274601b85ea634524b1c00979e09465", null ],
-    [ "WeekGames", "d4/d4f/a07623.html#a1d0092200b2c9428e821473949cfda77", null ],
-    [ "WeekWins", "d4/d4f/a07623.html#a313afef901bd5a9347f2074a7ca1bfe0", null ]
+    [ "WGWorkshop", "d4/d4f/a07623.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
+    [ "GiveControlTo", "d4/d4f/a07623.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
+    [ "IsCapturable", "d4/d4f/a07623.html#a269e23cf24ca2fd133830dafbb8d02c0", null ],
+    [ "Save", "d4/d4f/a07623.html#adede1c780178f20dc8339320a021e4b6", null ],
+    [ "UpdateGraveyardAndWorkshop", "d4/d4f/a07623.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
+    [ "bf", "d4/d4f/a07623.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
+    [ "state", "d4/d4f/a07623.html#a279d47c85843e884edef1f82b9654cd8", null ],
+    [ "teamControl", "d4/d4f/a07623.html#a196c8d0094a34c18835840e046fd39ef", null ],
+    [ "workshopId", "d4/d4f/a07623.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
 ];

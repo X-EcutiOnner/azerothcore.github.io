@@ -1,6 +1,27 @@
 var a14203 =
 [
-    [ "npc_the_scourge_cauldronAI", "dc/d50/a14207.html", "dc/d50/a14207" ],
-    [ "npc_the_scourge_cauldron", "d3/d5e/a14203.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
-    [ "GetAI", "d3/d5e/a14203.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
+    [ "npc_highlord_darion_mograine", "d3/d5e/a14203.html#a4cb9fe5dfd71a43ef26e507d89447eff", null ],
+    [ "DoAction", "d3/d5e/a14203.html#a03dba6d9ce356bb83b3cc4b7b301c040", null ],
+    [ "FinishFight", "d3/d5e/a14203.html#a252c88447aea37a91556507c3decd99d", null ],
+    [ "GetData", "d3/d5e/a14203.html#ad82b05e51766c3a4c31c72c9f60596a1", null ],
+    [ "GetEntryFromSummons", "d3/d5e/a14203.html#a0eb1adec635b224a8e4f041606d46856", null ],
+    [ "JustDied", "d3/d5e/a14203.html#a707c15d931651ea85437c259a1a84971", null ],
+    [ "JustEngagedWith", "d3/d5e/a14203.html#aa07c3ee6c928cb383ce4904f81215e52", null ],
+    [ "JustRespawned", "d3/d5e/a14203.html#a918e690e583f56b614c40962e6f03584", null ],
+    [ "JustSummoned", "d3/d5e/a14203.html#ad1412213e4b7798b8d57e494d2804d6f", null ],
+    [ "MovementInform", "d3/d5e/a14203.html#a1b9fd81e5da9464338f31f5f8c90cdfa", null ],
+    [ "Reset", "d3/d5e/a14203.html#aaff5b7f078177efc4e4bf1f7201fd7a8", null ],
+    [ "SendInitialWorldStates", "d3/d5e/a14203.html#a646eff2f368a7dbd621f6a630b303436", null ],
+    [ "SendUpdateWorldState", "d3/d5e/a14203.html#a3be4356e7114fdcaf343d64ff101dbcf", null ],
+    [ "sGossipHello", "d3/d5e/a14203.html#aadce21a79e49b42c8bf950408f7055c7", null ],
+    [ "sGossipSelect", "d3/d5e/a14203.html#a9acef8952a1963862117f2f2442d5bc4", null ],
+    [ "SummonedCreatureDies", "d3/d5e/a14203.html#a97316e53810639305928a489e940a924", null ],
+    [ "UpdateAI", "d3/d5e/a14203.html#a7a19ac34b9968eeb5de9881ae8754d9b", null ],
+    [ "battleStarted", "d3/d5e/a14203.html#affef58a695b73f2e17b48da915125425", null ],
+    [ "defendersRemaining", "d3/d5e/a14203.html#ae0cbe16959c269a86a28aeda681048e9", null ],
+    [ "events", "d3/d5e/a14203.html#ac73f0fa5d4f25080e81f04832fff149e", null ],
+    [ "resetExecuted", "d3/d5e/a14203.html#abce72b1d643e2468f980e554eb5bbc78", null ],
+    [ "scourgeRemaining", "d3/d5e/a14203.html#a03ffe1ba56d04252ba86fb92c2a17cc3", null ],
+    [ "startTimeRemaining", "d3/d5e/a14203.html#aeb08e9ca11dd9aeedbc7079182c5a534", null ],
+    [ "summons", "d3/d5e/a14203.html#a7eb1df2352397d310c103021fb9cf6aa", null ]
 ];

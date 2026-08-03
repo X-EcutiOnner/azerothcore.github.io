@@ -1,8 +1,7 @@
 var a21527 =
 [
-    [ "npc_future_youAI", "d8/d88/a21527.html#a7608c050dd198e3133050e222b42f62b", null ],
-    [ "EnterEvadeMode", "d8/d88/a21527.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
-    [ "MoveInLineOfSight", "d8/d88/a21527.html#a35b67f9e948f5ffbde8a423190ece603", null ],
-    [ "Reset", "d8/d88/a21527.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
-    [ "UpdateAI", "d8/d88/a21527.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
+    [ "npc_azure_spellbreaker", "d8/d88/a21527.html#ae884adc9619d3458d81a2029bd490893", null ],
+    [ "Reset", "d8/d88/a21527.html#a32e4674bac67f1a259c68c32ef0d1358", null ],
+    [ "UpdateAI", "d8/d88/a21527.html#a938a93a71490bb42158e2215d125509f", null ],
+    [ "_events", "d8/d88/a21527.html#a9f526cff54cb949cc68046e7816c3c89", null ]
 ];

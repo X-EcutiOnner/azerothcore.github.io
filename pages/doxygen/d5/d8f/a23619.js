@@ -1,6 +1,8 @@
 var a23619 =
 [
-    [ "HandlePeriodic", "d5/d8f/a23619.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
-    [ "PrepareAuraScript", "d5/d8f/a23619.html#a2b809a60626119f6bcf595bd3581c2be", null ],
-    [ "Register", "d5/d8f/a23619.html#a299f84e9c12406c79a56999a13de5c1c", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d5/d8f/a23619.html#aebc047b45cb4560a38df89db75f8efab", null ],
+    [ "Initialize", "d5/d8f/a23619.html#a115a36ec26e15e23be4d78250d86d814", null ],
+    [ "OnGameObjectCreate", "d5/d8f/a23619.html#a0639fcd867616d1f04aacde44020bb30", null ],
+    [ "SetBossState", "d5/d8f/a23619.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
+    [ "felIronChestGUID", "d5/d8f/a23619.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
 ];

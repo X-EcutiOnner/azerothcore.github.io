@@ -1,6 +1,8 @@
 var a17387 =
 [
-    [ "npc_pos_leaderAI", "d9/d1c/a17391.html", "d9/d1c/a17391" ],
-    [ "npc_pos_leader", "d8/d87/a17387.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
-    [ "GetAI", "d8/d87/a17387.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
+    [ "npc_hor_risen_witch_doctor", "d8/d87/a17387.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
+    [ "JustDied", "d8/d87/a17387.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
+    [ "JustEngagedWith", "d8/d87/a17387.html#ae612bec2e909abb2574298f4a34116f3", null ],
+    [ "Reset", "d8/d87/a17387.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
+    [ "UpdateAI", "d8/d87/a17387.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
 ];

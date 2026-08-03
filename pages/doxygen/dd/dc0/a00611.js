@@ -1,8 +1,8 @@
 var a00611 =
 [
-    [ "AuctionEntry", "db/d86/a07466.html", "db/d86/a07466" ],
-    [ "AuctionHouseObject", "d8/dd6/a07470.html", "d8/dd6/a07470" ],
-    [ "AuctionHouseMgr", "d4/d7b/a07474.html", "d4/d7b/a07474" ],
+    [ "AuctionEntry", "d1/d33/a07471.html", "d1/d33/a07471" ],
+    [ "AuctionHouseObject", "dd/d24/a07475.html", "dd/d24/a07475" ],
+    [ "AuctionHouseMgr", "db/d2e/a07479.html", "db/d2e/a07479" ],
     [ "AUCTION_SEARCH_DELAY", "dd/dc0/a00611.html#a2f8bc5839b2833512daadb09efb7794d", null ],
     [ "MAX_AUCTION_HOUSE_FACTIONS", "dd/dc0/a00611.html#a948e0dd86eca242e8907f45c5f16edac", null ],
     [ "MAX_AUCTION_ITEMS", "dd/dc0/a00611.html#aa87bb3f5c1101ca4c260c6bb743a846e", null ],

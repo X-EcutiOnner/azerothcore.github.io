@@ -1,7 +1,8 @@
 var a24367 =
 [
-    [ "CalcDamage", "d0/d3d/a24367.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
-    [ "PrepareSpellScript", "d0/d3d/a24367.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
-    [ "Register", "d0/d3d/a24367.html#a857a010e6426e931ca872f66803b99b9", null ],
-    [ "Validate", "d0/d3d/a24367.html#ab64625ce305efb9dc92780c945b4fd62", null ]
+    [ "npc_pet_dk_ghoul", "d0/d3d/a24367.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
+    [ "IsSummonedBy", "d0/d3d/a24367.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
+    [ "JustDied", "d0/d3d/a24367.html#a6095e3619b470283b9875b90e2805b54", null ],
+    [ "UpdateAI", "d0/d3d/a24367.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
+    [ "_summonTargetGUID", "d0/d3d/a24367.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
 ];

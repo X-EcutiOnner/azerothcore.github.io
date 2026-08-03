@@ -1,7 +1,7 @@
 var a03833 =
 [
-    [ "RestoreAttack", "d3/db0/a12766.html", "d3/db0/a12766" ],
-    [ "instance_blackrock_depths", "df/d3f/a12770.html", "df/d3f/a12770" ],
+    [ "RestoreAttack", "dc/d20/a12771.html", "dc/d20/a12771" ],
+    [ "instance_blackrock_depths", "d6/d89/a12775.html", "d6/d89/a12775" ],
     [ "Distances", "de/d6a/a03833.html#a47a83b3a7eee5cb11315a17f5dbed3dc", [
       [ "RADIUS_RING_OF_LAW", "de/d6a/a03833.html#a47a83b3a7eee5cb11315a17f5dbed3dcade7cc40d61a38a77844fadc76a813d62", null ],
       [ "DISTANCE_EMPEROR_ROOM", "de/d6a/a03833.html#a47a83b3a7eee5cb11315a17f5dbed3dca45c8cb2cfc126efde444fcec67c4cb71", null ]

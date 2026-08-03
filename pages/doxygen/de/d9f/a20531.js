@@ -1,9 +1,5 @@
 var a20531 =
 [
-    [ "npc_ulduar_emergency_fire_bot", "de/d9f/a20531.html#ae6e7e18bae098db633de891ab52ca0d3", null ],
-    [ "AttackStart", "de/d9f/a20531.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
-    [ "MoveInLineOfSight", "de/d9f/a20531.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
-    [ "MovementInform", "de/d9f/a20531.html#a6f7306e3da54511ddbef772044f76950", null ],
-    [ "UpdateAI", "de/d9f/a20531.html#a653df31873aca5acb86020cc1e14f4a0", null ],
-    [ "_events", "de/d9f/a20531.html#a99f051bd7a1136375103005f0615c4f2", null ]
+    [ "achievement_staying_buffed_all_winter_10", "de/d9f/a20531.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
+    [ "OnCheck", "de/d9f/a20531.html#a67587b1659a8d026e73b42311148541a", null ]
 ];

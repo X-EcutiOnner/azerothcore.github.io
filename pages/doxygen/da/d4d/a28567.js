@@ -1,7 +1,7 @@
 var a28567 =
 [
-    [ "ID", "da/d4d/a28567.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
-    [ "Index", "da/d4d/a28567.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
-    [ "Skill", "da/d4d/a28567.html#aed5e58cf605d3c28cd0d26015722be03", null ],
-    [ "Type", "da/d4d/a28567.html#a39b0b548efd795c162926bddcdd301b5", null ]
+    [ "npc_guardianAI", "da/d4d/a28567.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "da/d4d/a28567.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "da/d4d/a28567.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "da/d4d/a28567.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

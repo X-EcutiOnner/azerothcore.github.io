@@ -1,12 +1,7 @@
 var a12731 =
 [
-    [ "boss_the_beast", "df/dce/a12731.html#ab98bce804078b4184b1bf6e844db9c67", null ],
-    [ "FindNearbyOrcs", "df/dce/a12731.html#a46da3f960ea3c38791c23a3e282db9c7", null ],
-    [ "JustEngagedWith", "df/dce/a12731.html#a9740b134ce1b21c42c9082d9fdc97264", null ],
-    [ "Reset", "df/dce/a12731.html#a7a72f5aeb54fe6de6c71dfac2c906881", null ],
-    [ "SetData", "df/dce/a12731.html#a8ceb3a1c53c2c5385d4a779b2ac283da", null ],
-    [ "UpdateAI", "df/dce/a12731.html#ad7db422aefc711b437176b729c6ac151", null ],
-    [ "_beastReached", "df/dce/a12731.html#a7345b0091bcfd894ce8fdff9431254f6", null ],
-    [ "_nearbyOrcsGUIDs", "df/dce/a12731.html#a20b867be394f3c5d9bbf851ba724ca3a", null ],
-    [ "_orcYelled", "df/dce/a12731.html#a7079c59c50343f460e2aac2bcf19709c", null ]
+    [ "boss_gorosh_the_dervish", "df/dce/a12731.html#a49b79326e3eae3f42be4955f30982ffe", null ],
+    [ "JustEngagedWith", "df/dce/a12731.html#ad3b7ab3db30d16549cd85c471bbb190b", null ],
+    [ "UpdateAI", "df/dce/a12731.html#adf24561c335f1023f44f76709e66bc83", null ],
+    [ "nextWhirlwindTime", "df/dce/a12731.html#a61b57a2db3d097a0da74a502fb272339", null ]
 ];

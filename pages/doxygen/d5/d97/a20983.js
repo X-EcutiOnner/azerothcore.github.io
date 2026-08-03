@@ -1,10 +1,8 @@
 var a20983 =
 [
-    [ "npc_enslaved_proto_drake", "d5/d97/a20983.html#aec835fdc8b1beb270176d5341d26c265", null ],
-    [ "MovementInform", "d5/d97/a20983.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
-    [ "Reset", "d5/d97/a20983.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
-    [ "SetData", "d5/d97/a20983.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
-    [ "UpdateAI", "d5/d97/a20983.html#a252f84198df610bac44b6bd9cd80602e", null ],
-    [ "_events", "d5/d97/a20983.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
-    [ "_setData", "d5/d97/a20983.html#adb997badd8831dea7763eaecc93b7773", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "d5/d97/a20983.html#a1649412beffbc87ce046a591775b02b2", null ],
+    [ "DamageTaken", "d5/d97/a20983.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "d5/d97/a20983.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "d5/d97/a20983.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "d5/d97/a20983.html#ae22a12401dc98534da1cb771468a58ce", null ]
 ];

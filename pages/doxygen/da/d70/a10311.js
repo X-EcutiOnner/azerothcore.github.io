@@ -1,10 +1,7 @@
 var a10311 =
 [
-    [ "ChaseRange", "da/d70/a10311.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
-    [ "ChaseRange", "da/d70/a10311.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
-    [ "ChaseRange", "da/d70/a10311.html#a397b3789449b1c178f11f64313498c4d", null ],
-    [ "MaxRange", "da/d70/a10311.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
-    [ "MaxTolerance", "da/d70/a10311.html#a7909b18028d43c84eca5feee3e41469c", null ],
-    [ "MinRange", "da/d70/a10311.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
-    [ "MinTolerance", "da/d70/a10311.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
+    [ "MapPreloadRequest", "da/d70/a10311.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
+    [ "call", "da/d70/a10311.html#a688f4e2c5517c29c10c0810325211b50", null ],
+    [ "_mapId", "da/d70/a10311.html#aa207469ff8369f9b5559b35404d16847", null ],
+    [ "_updater", "da/d70/a10311.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
 ];

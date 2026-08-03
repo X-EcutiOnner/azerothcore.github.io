@@ -1,5 +1,5 @@
 var a28087 =
 [
-    [ "go_duskwither_spire_power_source", "d7/d87/a28087.html#aab69de16e8b744af2671e2ed882ee94a", null ],
-    [ "OnGossipHello", "d7/d87/a28087.html#a2c7fd017e7985b99bff187119157a041", null ]
+    [ "AreaTrigger_at_sentry_point", "d7/d87/a28087.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
+    [ "OnTrigger", "d7/d87/a28087.html#ab59fb74f4f988c208359855d2e4d9918", null ]
 ];

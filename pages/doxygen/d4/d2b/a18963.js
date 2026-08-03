@@ -1,6 +1,6 @@
 var a18963 =
 [
-    [ "npc_crok_scourgebaneAI", "d9/d33/a18967.html", "d9/d33/a18967" ],
-    [ "npc_crok_scourgebane", "d4/d2b/a18963.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "d4/d2b/a18963.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "HandleScript", "d4/d2b/a18963.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
+    [ "PrepareSpellScript", "d4/d2b/a18963.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
+    [ "Register", "d4/d2b/a18963.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
 ];

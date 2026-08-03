@@ -1,6 +1,4 @@
 var a05987 =
 [
-    [ "handler", "d4/df8/a05987.html#a8074991652af9e5c8752dd4ff5e6e6cc", null ],
-    [ "packetSize", "d4/df8/a05987.html#a952f7f7ff3017efa4c3d127baa848785", null ],
-    [ "status", "d4/df8/a05987.html#aaf1066ba6414c519c889e3e8e52d38f2", null ]
+    [ "type", "d4/df8/a05987.html#a64a76023297787362eb6aae9746eee66", null ]
 ];

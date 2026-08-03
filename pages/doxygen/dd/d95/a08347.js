@@ -1,10 +1,7 @@
 var a08347 =
 [
-    [ "AssistDelayEvent", "dd/d95/a08347.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
-    [ "AssistDelayEvent", "dd/d95/a08347.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
-    [ "AddAssistant", "dd/d95/a08347.html#a987303ec41927528e9a5abfd9ab75512", null ],
-    [ "Execute", "dd/d95/a08347.html#a5afd295abeb1295e43f48b8951b24c35", null ],
-    [ "m_assistants", "dd/d95/a08347.html#ac6de6befda582bd38f92afda01204e94", null ],
-    [ "m_owner", "dd/d95/a08347.html#aabcce364c8009e8172b9d090059ce48c", null ],
-    [ "m_victim", "dd/d95/a08347.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
+    [ "LfgReward", "dd/d95/a08347.html#afe2ea037fa24064c2bf04cfc6303d903", null ],
+    [ "firstQuest", "dd/d95/a08347.html#a28162b1e43a5309ab01ca99b45d29799", null ],
+    [ "maxLevel", "dd/d95/a08347.html#aae6e46155dc790ed7c63f5f0b8e08395", null ],
+    [ "otherQuest", "dd/d95/a08347.html#a96de83c64efc3009d7d5cd04a61e71b2", null ]
 ];

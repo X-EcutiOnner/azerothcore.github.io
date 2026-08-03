@@ -1,6 +1,6 @@
 var a06323 =
 [
-    [ "SavedAddon", "dd/d54/a06323.html#a6252c2ac491d0ebd9e84556f26cfa8cd", null ],
-    [ "CRC", "dd/d54/a06323.html#a7d04d21a29aa589429aab0d95172ca95", null ],
-    [ "Name", "dd/d54/a06323.html#a075de88ce6e643cffb7c5bb55f7b1095", null ]
+    [ "changed", "dd/d54/a06323.html#af0cf916cd514f64f53f98c108ff63591", null ],
+    [ "counter", "dd/d54/a06323.html#a5ba0b1002e0bfd61ad17b2130a207cb1", null ],
+    [ "date", "dd/d54/a06323.html#a9a6769cf4ca7ba55752adc8cdeba71f5", null ]
 ];

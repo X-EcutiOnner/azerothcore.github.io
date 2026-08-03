@@ -1,6 +1,6 @@
 var a20851 =
 [
-    [ "OnEffect", "d4/d7c/a20851.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "d4/d7c/a20851.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "d4/d7c/a20851.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "OnPeriodic", "d4/d7c/a20851.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
+    [ "PrepareAuraScript", "d4/d7c/a20851.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
+    [ "Register", "d4/d7c/a20851.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
 ];

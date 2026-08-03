@@ -1,8 +1,9 @@
 var a13267 =
 [
-    [ "CalcPeriodic", "dd/d89/a13267.html#a493609298c152df8216641ba2e5861cd", null ],
-    [ "PrepareAuraScript", "dd/d89/a13267.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
-    [ "Register", "dd/d89/a13267.html#a44002db5980dfc1db816cf61fd446491", null ],
-    [ "Update", "dd/d89/a13267.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
-    [ "Validate", "dd/d89/a13267.html#a060e189aaa4396681d42906b65c9196f", null ]
+    [ "FilterTargets", "dd/d89/a13267.html#a88b91e40b330d39bd04a7873128fb858", null ],
+    [ "HandleFinish", "dd/d89/a13267.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
+    [ "PrepareSpellScript", "dd/d89/a13267.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
+    [ "Register", "dd/d89/a13267.html#ab2008e585589cbf313170064d37c4aa9", null ],
+    [ "Validate", "dd/d89/a13267.html#af4963be6c544a1706a6dc30dcbf18309", null ],
+    [ "_targets", "dd/d89/a13267.html#a2f75199a90e52cff770f46bce76d5149", null ]
 ];

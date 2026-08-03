@@ -1,6 +1,20 @@
 var a16475 =
 [
-    [ "boss_general_zarithrianAI", "d9/d5c/a16479.html", "d9/d5c/a16479" ],
-    [ "boss_general_zarithrian", "d1/da0/a16475.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
-    [ "GetAI", "d1/da0/a16475.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
+    [ "boss_sartharion_dragonAI", "d1/da0/a16475.html#ac77eaacb9a5360802e862c95e54ec8ef", null ],
+    [ "ClearInstance", "d1/da0/a16475.html#a9e1fb29994441dd2d41aeb2c04205d7b", null ],
+    [ "DoAction", "d1/da0/a16475.html#aeb49e63300a317f0e969159266fd8ea1", null ],
+    [ "HandleExtraEvent", "d1/da0/a16475.html#a152126a6deb6b79943f667e1dccfe7e5", null ],
+    [ "JustDied", "d1/da0/a16475.html#a9c664ff661a3e83b98e1a28c81d662b0", null ],
+    [ "JustEngagedWith", "d1/da0/a16475.html#a2988e9a5a8edd9aa807d8b13867fe6d7", null ],
+    [ "JustSummoned", "d1/da0/a16475.html#a16582179f25ddc130f97bb70fe80316f", null ],
+    [ "KilledUnit", "d1/da0/a16475.html#a09428ec63c8589a527accf8b024f6666", null ],
+    [ "MoveInLineOfSight", "d1/da0/a16475.html#a75cd7f27019e4013adde104e7663e5bc", null ],
+    [ "MovementInform", "d1/da0/a16475.html#a6870b91b1d36c79add8bd86a8e1fac4d", null ],
+    [ "RemoveTwilightPortal", "d1/da0/a16475.html#a26aff742f99b04bfaf56fa46158ce306", null ],
+    [ "Reset", "d1/da0/a16475.html#a86acfe30f898bd6b709c4743ae808867", null ],
+    [ "UpdateAI", "d1/da0/a16475.html#a0e9382d8dce8251336d81539b7d82e15", null ],
+    [ "currentPatrolPoint", "d1/da0/a16475.html#a308e282df080758c41c70f49f8977098", null ],
+    [ "extraEvents", "d1/da0/a16475.html#a0018fdf6e4567a74e5b16e4e09a00836", null ],
+    [ "isCalledBySartharion", "d1/da0/a16475.html#a45a92a0754572b8d619fddbd1bdb234f", null ],
+    [ "portalGUID", "d1/da0/a16475.html#a852ab0dabe5b6d8e6b0a53e6425ff085", null ]
 ];

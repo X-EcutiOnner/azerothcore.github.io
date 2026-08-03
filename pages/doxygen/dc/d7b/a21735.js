@@ -1,11 +1,7 @@
 var a21735 =
 [
-    [ "npc_lake_frogAI", "dc/d7b/a21735.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
-    [ "ReceiveEmote", "dc/d7b/a21735.html#abd58e65b6829c70818c578ed615a980b", null ],
-    [ "Reset", "dc/d7b/a21735.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
-    [ "sGossipSelect", "dc/d7b/a21735.html#a95906677ff65e004408ae65df3f49b5c", null ],
-    [ "UpdateAI", "dc/d7b/a21735.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
-    [ "_events", "dc/d7b/a21735.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
-    [ "_following", "dc/d7b/a21735.html#a0078f9134a61f0ec2465ce103523e341", null ],
-    [ "_runningScript", "dc/d7b/a21735.html#af76102ba6c9ffd80baa95623b7312980", null ]
+    [ "npc_cosmetic_toy_plane", "dc/d7b/a21735.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "dc/d7b/a21735.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "dc/d7b/a21735.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "dc/d7b/a21735.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

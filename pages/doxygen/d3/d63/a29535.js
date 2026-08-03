@@ -1,11 +1,9 @@
 var a29535 =
 [
-    [ "SetUp", "d3/d63/a29535.html#abb28ef64461635a540dad471b7b12ebc", null ],
-    [ "TearDown", "d3/d63/a29535.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
-    [ "_previousWorld", "d3/d63/a29535.html#a2633d21816e5aa3e4a649292f07a3369", null ],
-    [ "_worldMock", "d3/d63/a29535.html#ae1629c69438e29ea7be460120132b68b", null ],
-    [ "arenaTeams", "d3/d63/a29535.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
-    [ "team1", "d3/d63/a29535.html#a325d8058950e53d17e16fd90cd105776", null ],
-    [ "team2", "d3/d63/a29535.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
-    [ "team3", "d3/d63/a29535.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
+    [ "flags", "d3/d63/a29535.html#a064de2e88c563121bbb78549a7bab868", null ],
+    [ "_flags", "d3/d63/a29535.html#a16f1b30a57eb6703e8073ef55d988391", null ],
+    [ "bits", "d3/d63/a29535.html#a529f1856635132646457c57f3546f4ec", null ],
+    [ "configKey", "d3/d63/a29535.html#af14d118016b9e01612769c00f13aa2d6", null ],
+    [ "oldKey", "d3/d63/a29535.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
+    [ "owner", "d3/d63/a29535.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
 ];

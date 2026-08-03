@@ -1,9 +1,9 @@
 var a04085 =
 [
-    [ "boss_malchezaar", "d8/d3b/a13238.html", "d8/d3b/a13238" ],
-    [ "npc_netherspite_infernal", "d7/d06/a13242.html", "d7/d06/a13242" ],
-    [ "npc_malchezaar_axe", "dd/d72/a13246.html", "dd/d72/a13246" ],
-    [ "spell_malchezaar_enfeeble", "d9/d27/a13250.html", "d9/d27/a13250" ],
+    [ "boss_malchezaar", "d7/d9f/a13243.html", "d7/d9f/a13243" ],
+    [ "npc_netherspite_infernal", "d0/d3a/a13247.html", "d0/d3a/a13247" ],
+    [ "npc_malchezaar_axe", "d0/d63/a13251.html", "d0/d63/a13251" ],
+    [ "spell_malchezaar_enfeeble", "da/d43/a13255.html", "da/d43/a13255" ],
     [ "creatures", "d0/d0f/a04085.html#a6e089756759f99eebae6d3e5c1e939b0", [
       [ "NPC_NETHERSPITE_INFERNAL", "d0/d0f/a04085.html#a6e089756759f99eebae6d3e5c1e939b0af33521ce9c53da3dbaafe94761ee78c9", null ],
       [ "NPC_MALCHEZAARS_AXE", "d0/d0f/a04085.html#a6e089756759f99eebae6d3e5c1e939b0ab5a522f5291ed3fcd44c1f41c7a4c575", null ],
@@ -1640,6 +1640,7 @@ var a04085 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

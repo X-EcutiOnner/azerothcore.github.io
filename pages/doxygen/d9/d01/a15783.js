@@ -1,8 +1,7 @@
 var a15783 =
 [
-    [ "npc_death_ravagerAI", "d9/d01/a15783.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "d9/d01/a15783.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "d9/d01/a15783.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "d9/d01/a15783.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "d9/d01/a15783.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "npc_vekniss_stinger", "d9/d01/a15783.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "d9/d01/a15783.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "d9/d01/a15783.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "d9/d01/a15783.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

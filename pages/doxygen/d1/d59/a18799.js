@@ -1,7 +1,11 @@
 var a18799 =
 [
-    [ "AuraRemoveEvent", "d1/d59/a18799.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "d1/d59/a18799.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "d1/d59/a18799.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "d1/d59/a18799.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "npc_terenas_menethilAI", "d1/d59/a18799.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
+    [ "CanAIAttack", "d1/d59/a18799.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
+    [ "DamageTaken", "d1/d59/a18799.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
+    [ "DoAction", "d1/d59/a18799.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
+    [ "EnterEvadeMode", "d1/d59/a18799.html#ada5313b34e8c20c82ac97396e54e27df", null ],
+    [ "UpdateAI", "d1/d59/a18799.html#a6210ca6e5e954d5c66d2108359efc888", null ],
+    [ "_events", "d1/d59/a18799.html#ae61e4919b99a2b9195a389992947a125", null ],
+    [ "_instance", "d1/d59/a18799.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
 ];

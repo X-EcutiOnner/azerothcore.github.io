@@ -1,8 +1,11 @@
 var a17535 =
 [
-    [ "boss_eck", "db/dc0/a17535.html#a665b54f72e674c8f65dd09daba5413db", null ],
-    [ "InitializeAI", "db/dc0/a17535.html#a92e5117337d372e1700d074f02c06df6", null ],
-    [ "JustEngagedWith", "db/dc0/a17535.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
-    [ "MovementInform", "db/dc0/a17535.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
-    [ "SpellHitTarget", "db/dc0/a17535.html#a63125d970933d6fa1f196aa28c588f40", null ]
+    [ "npc_pos_leader_secondAI", "db/dc0/a17535.html#a2ded8591da2548921cd016d592d1f1c8", null ],
+    [ "DoAction", "db/dc0/a17535.html#a941d3b42d6a0e58496b724af56fee44a", null ],
+    [ "MovementInform", "db/dc0/a17535.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
+    [ "SpellHitTarget", "db/dc0/a17535.html#ae630b7b225379831d15a11f66507bc6a", null ],
+    [ "UpdateAI", "db/dc0/a17535.html#a640aea9ce4a47dd13d417748e533fc33", null ],
+    [ "barrierGUID", "db/dc0/a17535.html#a452c096475581c12bf2f4ccb12448026", null ],
+    [ "events", "db/dc0/a17535.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
+    [ "pInstance", "db/dc0/a17535.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
 ];

@@ -1,7 +1,10 @@
 var a09831 =
 [
-    [ "ObjectGUIDCheck", "d1/ded/a09831.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
-    [ "operator()", "d1/ded/a09831.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
-    [ "_equals", "d1/ded/a09831.html#a413d991eeee0294a54f3c803e296c3ac", null ],
-    [ "_GUID", "d1/ded/a09831.html#a0e97bfe0e160177549a831df8e9b4555", null ]
+    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d1/ded/a09831.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
+    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d1/ded/a09831.html#a1e25384d08beeee84d83e401f5a5a565", null ],
+    [ "operator()", "d1/ded/a09831.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
+    [ "i_alive", "d1/ded/a09831.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
+    [ "i_entry", "d1/ded/a09831.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
+    [ "i_obj", "d1/ded/a09831.html#aa0340c79c37f3494b01c52f034705aa4", null ],
+    [ "i_range", "d1/ded/a09831.html#a695af00612b17e0182ad76a5c3be2356", null ]
 ];

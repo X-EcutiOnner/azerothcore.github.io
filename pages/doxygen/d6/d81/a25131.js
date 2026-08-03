@@ -1,7 +1,6 @@
 var a25131 =
 [
-    [ "HandleScript", "d6/d81/a25131.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
-    [ "PrepareSpellScript", "d6/d81/a25131.html#a7909f23da8385abdabb62e5196d88d38", null ],
-    [ "Register", "d6/d81/a25131.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
-    [ "Validate", "d6/d81/a25131.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
+    [ "OnPeriodic", "d6/d81/a25131.html#a5fdf44f34765d0386d5c5490620c944a", null ],
+    [ "PrepareAuraScript", "d6/d81/a25131.html#a3c3044795e183eef2c801781100b11c7", null ],
+    [ "Register", "d6/d81/a25131.html#a1221c3287c3fd7add356e84430508684", null ]
 ];

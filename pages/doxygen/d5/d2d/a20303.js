@@ -1,6 +1,7 @@
 var a20303 =
 [
-    [ "npc_ulduar_toasty_fire", "d5/d2d/a20303.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
-    [ "DoAction", "d5/d2d/a20303.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
-    [ "SpellHit", "d5/d2d/a20303.html#ad1ac241490db52177ae13640d7ae3eec", null ]
+    [ "HandleScript", "d5/d2d/a20303.html#a9580f04e1543262026818f0944bb96c3", null ],
+    [ "PrepareSpellScript", "d5/d2d/a20303.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
+    [ "Register", "d5/d2d/a20303.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
+    [ "Validate", "d5/d2d/a20303.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
 ];

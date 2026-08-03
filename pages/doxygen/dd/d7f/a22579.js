@@ -1,8 +1,14 @@
 var a22579 =
 [
-    [ "HandleScriptEffect", "dd/d7f/a22579.html#a8e5b81581fff787f691521d03fed66fc", null ],
-    [ "Load", "dd/d7f/a22579.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
-    [ "PrepareSpellScript", "dd/d7f/a22579.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
-    [ "Register", "dd/d7f/a22579.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
-    [ "Validate", "dd/d7f/a22579.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
+    [ "OutdoorPvPNA", "dd/d7f/a22579.html#acbdae42245c71e4274296649d8d08e9e", null ],
+    [ "FillInitialWorldStates", "dd/d7f/a22579.html#a49ac785929dd16bf0735b32b787763e9", null ],
+    [ "GetCapturePoint", "dd/d7f/a22579.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
+    [ "HandleKill", "dd/d7f/a22579.html#ab55683b771104878c69239314a9782f4", null ],
+    [ "HandleKillImpl", "dd/d7f/a22579.html#a2ede6e7dc54424d9729a094557b14792", null ],
+    [ "HandlePlayerEnterZone", "dd/d7f/a22579.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
+    [ "HandlePlayerLeaveZone", "dd/d7f/a22579.html#ae7dd540746946513cd7bf8e29296c068", null ],
+    [ "SendRemoveWorldStates", "dd/d7f/a22579.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
+    [ "SetupOutdoorPvP", "dd/d7f/a22579.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
+    [ "Update", "dd/d7f/a22579.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
+    [ "m_obj", "dd/d7f/a22579.html#a7538d64bb494644eae3cc7db03dd631f", null ]
 ];

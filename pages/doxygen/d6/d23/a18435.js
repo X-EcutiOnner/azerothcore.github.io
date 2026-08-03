@@ -1,6 +1,6 @@
 var a18435 =
 [
-    [ "FilterTargets", "d6/d23/a18435.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
-    [ "PrepareSpellScript", "d6/d23/a18435.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
-    [ "Register", "d6/d23/a18435.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
+    [ "DespawnSelf", "d6/d23/a18435.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "d6/d23/a18435.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "d6/d23/a18435.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

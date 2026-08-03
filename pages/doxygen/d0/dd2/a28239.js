@@ -1,6 +1,7 @@
 var a28239 =
 [
-    [ "spawnedCreatureEntry", "d0/dd2/a28239.html#a32b390dfff99d5fd3c49359779718af4", null ],
-    [ "spawnType", "d0/dd2/a28239.html#a056dabf4092da4ef3155a661607ca772", null ],
-    [ "thisCreatureEntry", "d0/dd2/a28239.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
+    [ "go_brewfest_musicAI", "d0/dd2/a28239.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "d0/dd2/a28239.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "d0/dd2/a28239.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "d0/dd2/a28239.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

@@ -1,8 +1,8 @@
 var a09743 =
 [
-    [ "CallOfHelpCreatureInRangeDo", "dd/df2/a09743.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
-    [ "operator()", "dd/df2/a09743.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
-    [ "i_enemy", "dd/df2/a09743.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
-    [ "i_funit", "dd/df2/a09743.html#aff1768cd844e4e23821cf78f9d360e06", null ],
-    [ "i_range", "dd/df2/a09743.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
+    [ "MostHPMissingInRange", "dd/df2/a09743.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
+    [ "operator()", "dd/df2/a09743.html#a420388204d8a1420552b902fbcb2bebe", null ],
+    [ "i_hp", "dd/df2/a09743.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
+    [ "i_obj", "dd/df2/a09743.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
+    [ "i_range", "dd/df2/a09743.html#acef63da9004997c7f25056651284efa9", null ]
 ];

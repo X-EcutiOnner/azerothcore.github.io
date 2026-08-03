@@ -1,15 +1,10 @@
 var a06423 =
 [
-    [ "VehicleAI", "dc/d3e/a06423.html#aeb8d08eeea0ac12a72ff5dbaf40e9835", null ],
-    [ "AttackStart", "dc/d3e/a06423.html#ad06972054ef4525411e859d291226783", null ],
-    [ "CheckConditions", "dc/d3e/a06423.html#afcee52b5173ec8b9850da63c1d58cded", null ],
-    [ "LoadConditions", "dc/d3e/a06423.html#a2c49067fa9953ba4db4cc6b03a7a9fb0", null ],
-    [ "MoveInLineOfSight", "dc/d3e/a06423.html#a48213b69fa4f0034cdc3cd60841d0636", null ],
-    [ "OnCharmed", "dc/d3e/a06423.html#a2a593f895c6296c4100af075d971b5b3", null ],
-    [ "Permissible", "dc/d3e/a06423.html#a39ad0764dce6586aef86fcd96c2c221c", null ],
-    [ "UpdateAI", "dc/d3e/a06423.html#aac593372592d33fa008a66c6dcec1840", null ],
-    [ "conditions", "dc/d3e/a06423.html#ae95dc46465404271faaae4b2dc61277a", null ],
-    [ "m_ConditionsTimer", "dc/d3e/a06423.html#a3a46c5f18b019852460170e1200b11b4", null ],
-    [ "m_DismissTimer", "dc/d3e/a06423.html#a34000f32495dbee3a550147e1e86d761", null ],
-    [ "m_DoDismiss", "dc/d3e/a06423.html#a505c1bacb159950e19518ad3b5740a3e", null ]
+    [ "Storage", "dc/d3e/a06423.html#a49a70316b169e50ad64ff51d6a568bbc", null ],
+    [ "AchievementCriteriaDataSet", "dc/d3e/a06423.html#a5055f8710c48379035e132e8f20577dc", null ],
+    [ "Add", "dc/d3e/a06423.html#a297f02665679b19961998fb529d064e4", null ],
+    [ "Meets", "dc/d3e/a06423.html#a8edbe32d695308633fa7abfc91d2a1a1", null ],
+    [ "SetCriteriaId", "dc/d3e/a06423.html#addedfd39d9948923a2704b51eaacecbc", null ],
+    [ "_criteria_id", "dc/d3e/a06423.html#a0abc37729d2f3c400bb7cfde212f51c0", null ],
+    [ "_storage", "dc/d3e/a06423.html#a6abf189d95226b370cfcfe7b628ed7c0", null ]
 ];

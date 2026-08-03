@@ -1,11 +1,9 @@
 var a23271 =
 [
-    [ "boss_high_king_maulgar", "d1/d8a/a23271.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
-    [ "DoAction", "d1/d8a/a23271.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
-    [ "JustDied", "d1/d8a/a23271.html#ad235febd755745313b72394c633c3723", null ],
-    [ "JustEngagedWith", "d1/d8a/a23271.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
-    [ "KilledUnit", "d1/d8a/a23271.html#a2059016597039929103c053d6524ebf7", null ],
-    [ "Reset", "d1/d8a/a23271.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
-    [ "UpdateAI", "d1/d8a/a23271.html#ae540909dbbb3cf93e37503cd755c3001", null ],
-    [ "_recentlySpoken", "d1/d8a/a23271.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
+    [ "FilterTargets", "d1/d8a/a23271.html#a9049c113d65b15a9a8e1143980a84b23", null ],
+    [ "HandleDummy", "d1/d8a/a23271.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
+    [ "Load", "d1/d8a/a23271.html#a8cad82701e0147e14f826243175e1c32", null ],
+    [ "PrepareSpellScript", "d1/d8a/a23271.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
+    [ "Register", "d1/d8a/a23271.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
+    [ "_targetNumber", "d1/d8a/a23271.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
 ];

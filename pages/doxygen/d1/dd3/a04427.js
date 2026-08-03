@@ -1,8 +1,8 @@
 var a04427 =
 [
-    [ "boss_huhuran", "da/d79/a15678.html", "da/d79/a15678" ],
-    [ "spell_huhuran_wyvern_sting", "d2/db3/a15682.html", "d2/db3/a15682" ],
-    [ "spell_huhuran_poison_bolt", "d6/de5/a15686.html", "d6/de5/a15686" ],
+    [ "boss_huhuran", "d1/d2c/a15675.html", "d1/d2c/a15675" ],
+    [ "spell_huhuran_wyvern_sting", "de/d11/a15679.html", "de/d11/a15679" ],
+    [ "spell_huhuran_poison_bolt", "d6/dad/a15683.html", "d6/dad/a15683" ],
     [ "Emotes", "d1/dd3/a04427.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "d3/d83/a03854.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "d3/d83/a03854.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],
@@ -2802,6 +2802,7 @@ var a04427 =
       [ "SPELL_SARTHARION_FLAME_BREATH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "d6/d41/a02930.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

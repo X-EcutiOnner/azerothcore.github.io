@@ -1,8 +1,5 @@
 var a28083 =
 [
-    [ "go_bellsAI", "d6/d7b/a28083.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "d6/d7b/a28083.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "d6/d7b/a28083.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "d6/d7b/a28083.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "d6/d7b/a28083.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "AreaTrigger_at_nats_landing", "d6/d7b/a28083.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
+    [ "OnTrigger", "d6/d7b/a28083.html#a67434f74300fa3463e679afb7d344467", null ]
 ];

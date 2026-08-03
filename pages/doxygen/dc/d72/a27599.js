@@ -1,7 +1,6 @@
 var a27599 =
 [
-    [ "HandleDummy", "dc/d72/a27599.html#a3af91500357eb127f813334bdf538dbd", null ],
-    [ "PrepareSpellScript", "dc/d72/a27599.html#ae34ff5e6027efecc34fa770690df5887", null ],
-    [ "Register", "dc/d72/a27599.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
-    [ "Validate", "dc/d72/a27599.html#a0b107442c0b76a018cc019f776c0b785", null ]
+    [ "PeriodicTick", "dc/d72/a27599.html#a8765e8f662c4279669c955108ff356e3", null ],
+    [ "PrepareAuraScript", "dc/d72/a27599.html#a15f077618950e4526ffcee9ee172d89f", null ],
+    [ "Register", "dc/d72/a27599.html#aeeca3a2be368025147702c4aa8c518ce", null ]
 ];

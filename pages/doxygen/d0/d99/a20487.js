@@ -1,11 +1,5 @@
 var a20487 =
 [
-    [ "npc_ulduar_proximity_mine", "d0/d99/a20487.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
-    [ "AttackStart", "d0/d99/a20487.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
-    [ "CanAIAttack", "d0/d99/a20487.html#a18311072271a18b279c5bf21f7da2482", null ],
-    [ "MoveInLineOfSight", "d0/d99/a20487.html#a6a406f8098dac7038173f51e9f85a79b", null ],
-    [ "UpdateAI", "d0/d99/a20487.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
-    [ "_exploded", "d0/d99/a20487.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
-    [ "_timer", "d0/d99/a20487.html#afe009de55826305826105bd29458d0eb", null ],
-    [ "_timer2", "d0/d99/a20487.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
+    [ "FlashFreezeCheck", "d0/d99/a20487.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
+    [ "operator()", "d0/d99/a20487.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
 ];

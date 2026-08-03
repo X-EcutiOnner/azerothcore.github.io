@@ -1,7 +1,9 @@
 var a11387 =
 [
-    [ "TrainerBuySucceeded", "d1/d5b/a11387.html#ae00367a55429030c107fc8f6bb7db288", null ],
-    [ "Write", "d1/d5b/a11387.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
-    [ "SpellID", "d1/d5b/a11387.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
-    [ "TrainerGUID", "d1/d5b/a11387.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
+    [ "LevelUpInfo", "d1/d5b/a11387.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
+    [ "Write", "d1/d5b/a11387.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
+    [ "HealthDelta", "d1/d5b/a11387.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
+    [ "Level", "d1/d5b/a11387.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
+    [ "PowerDelta", "d1/d5b/a11387.html#a697da64ac234c24fe73e68d408697ee6", null ],
+    [ "StatDelta", "d1/d5b/a11387.html#a580e4a3cd77631e960b7753542375d6d", null ]
 ];

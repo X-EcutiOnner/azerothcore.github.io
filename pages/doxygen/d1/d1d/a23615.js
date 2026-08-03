@@ -1,5 +1,6 @@
 var a23615 =
 [
-    [ "npc_thaladred", "d1/d1d/a23615.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
-    [ "ScheduleEvents", "d1/d1d/a23615.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d5/d8f/a23619.html", "d5/d8f/a23619" ],
+    [ "instance_hellfire_ramparts", "d1/d1d/a23615.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "d1/d1d/a23615.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

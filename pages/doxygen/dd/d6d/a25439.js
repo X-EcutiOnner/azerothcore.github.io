@@ -1,6 +1,7 @@
 var a25439 =
 [
-    [ "OnRemove", "dd/d6d/a25439.html#ac3a6d7bdc95605e3c73f8115b4a68da0", null ],
-    [ "PrepareAuraScript", "dd/d6d/a25439.html#ab1e3a55a35dbbb4bd781ac8c51608e6a", null ],
-    [ "Register", "dd/d6d/a25439.html#aecd068248e174c4b676ff9f43dd0856f", null ]
+    [ "PrepareAuraScript", "dd/d6d/a25439.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
+    [ "Register", "dd/d6d/a25439.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
+    [ "TriggerFoodBuff", "dd/d6d/a25439.html#a5d125413491dd377d61b8e30c4979fdd", null ],
+    [ "Validate", "dd/d6d/a25439.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
 ];

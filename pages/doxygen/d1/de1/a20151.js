@@ -1,6 +1,6 @@
 var a20151 =
 [
-    [ "HandleScript", "d1/de1/a20151.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
-    [ "PrepareSpellScript", "d1/de1/a20151.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
-    [ "Register", "d1/de1/a20151.html#a04a5b3a4f768200d74f4641508633d35", null ]
+    [ "CastRunesEvent", "d1/de1/a20151.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "d1/de1/a20151.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "d1/de1/a20151.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

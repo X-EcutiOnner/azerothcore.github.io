@@ -1,10 +1,6 @@
 var a18091 =
 [
-    [ "npc_cult_fanaticAI", "d9/dc0/a18091.html#a766e536288b84110f88a8bd282e97932", null ],
-    [ "JustEngagedWith", "d9/dc0/a18091.html#a709b75f4b1519bc7c6988985a22d076f", null ],
-    [ "Reset", "d9/dc0/a18091.html#a772830df1d16d0463c8c00f14c337db0", null ],
-    [ "SpellHit", "d9/dc0/a18091.html#a17c02a83b522c9717de3d89517104e42", null ],
-    [ "UpdateAI", "d9/dc0/a18091.html#ac79afdab3721d78d2b7e5da360083cea", null ],
-    [ "_instance", "d9/dc0/a18091.html#a7448fdf85cccfcb12509b0274205bff4", null ],
-    [ "events", "d9/dc0/a18091.html#a9576978141062fa1babbbc5ed42483c4", null ]
+    [ "IgbTeleportOnVictoryCheck", "d9/dc0/a18091.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "d9/dc0/a18091.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "d9/dc0/a18091.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

@@ -1,5 +1,8 @@
 var a27791 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "de/d77/a27791.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "de/d77/a27791.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "ApplyEffect", "de/d77/a27791.html#ad29ed182a00516e736bb8d1381f4ac84", null ],
+    [ "HandleEffectPeriodicUpdate", "de/d77/a27791.html#ad5319328c018dbb3ddbd58bfc08589c4", null ],
+    [ "PrepareAuraScript", "de/d77/a27791.html#a7673ff384e88fa76efa52ecb60b97d9b", null ],
+    [ "Register", "de/d77/a27791.html#ade5af0ec82bc43d89919ceaaa31bce20", null ],
+    [ "_tick_amount", "de/d77/a27791.html#a33d9f114efa50a2fdfe7a17852a474f7", null ]
 ];

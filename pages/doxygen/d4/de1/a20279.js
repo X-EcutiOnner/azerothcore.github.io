@@ -1,5 +1,8 @@
 var a20279 =
 [
-    [ "achievement_smell_saronite", "d4/de1/a20279.html#a42dce2aefa2561952dcf5289126035a8", null ],
-    [ "OnCheck", "d4/de1/a20279.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
+    [ "OnApply", "d4/de1/a20279.html#a5aec8606684637bbdb1e819254f5d483", null ],
+    [ "OnRemove", "d4/de1/a20279.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
+    [ "PrepareAuraScript", "d4/de1/a20279.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
+    [ "Register", "d4/de1/a20279.html#af1db6ca387cf0733ba4b9c324172d692", null ],
+    [ "Validate", "d4/de1/a20279.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
 ];

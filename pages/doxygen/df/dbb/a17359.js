@@ -1,8 +1,10 @@
 var a17359 =
 [
-    [ "boss_krickAI", "df/dbb/a17359.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
-    [ "DoAction", "df/dbb/a17359.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
-    [ "UpdateAI", "df/dbb/a17359.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
-    [ "events", "df/dbb/a17359.html#a75349e2fc35832e7944fa4f772380baa", null ],
-    [ "pInstance", "df/dbb/a17359.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
+    [ "boss_frostsworn_general", "df/dbb/a17359.html#adae1b1d60e78a33b875ac08312a454cf", null ],
+    [ "EnterEvadeMode", "df/dbb/a17359.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
+    [ "JustDied", "df/dbb/a17359.html#a14741cafce857fa819418ec3208c62fc", null ],
+    [ "JustEngagedWith", "df/dbb/a17359.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
+    [ "Reset", "df/dbb/a17359.html#a1576562e5fe2247235b152029aa8edce", null ],
+    [ "UpdateAI", "df/dbb/a17359.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
+    [ "instance", "df/dbb/a17359.html#ab04347cee4d7542171d622cfde936cb1", null ]
 ];

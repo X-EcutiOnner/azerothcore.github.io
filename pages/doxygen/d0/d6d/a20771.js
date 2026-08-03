@@ -1,9 +1,6 @@
 var a20771 =
 [
-    [ "boss_yoggsaron_keeper", "d0/d6d/a20771.html#ad2098933656371b1bf80ec3ea859c418", null ],
-    [ "DoAction", "d0/d6d/a20771.html#a9e3d251810b55072458003356213ae15", null ],
-    [ "JustEngagedWith", "d0/d6d/a20771.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
-    [ "JustSummoned", "d0/d6d/a20771.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
-    [ "UpdateAI", "d0/d6d/a20771.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
-    [ "_summons", "d0/d6d/a20771.html#aa840eff5f3d8b24225046113737936b4", null ]
+    [ "go_razorscale_mole_machineAI", "d8/da0/a20775.html", "d8/da0/a20775" ],
+    [ "go_razorscale_mole_machine", "d0/d6d/a20771.html#a94d4c7900c139202cd0e57489ecb5a02", null ],
+    [ "GetAI", "d0/d6d/a20771.html#a56de10f80d50b667bfae81994a618304", null ]
 ];

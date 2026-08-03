@@ -1,10 +1,6 @@
 var a18099 =
 [
-    [ "npc_cult_adherentAI", "de/d46/a18099.html#a1ea249a25b188a949213788614f4049e", null ],
-    [ "JustEngagedWith", "de/d46/a18099.html#ab97e0177fbc9fc7135dc7a7de0e6e31a", null ],
-    [ "Reset", "de/d46/a18099.html#ab0b54e45468b5ebed0194c441cce434e", null ],
-    [ "SpellHit", "de/d46/a18099.html#ab0d83d53a7f0d14cb15e133e426f2f02", null ],
-    [ "UpdateAI", "de/d46/a18099.html#ad89638cf5859615ba2e3a0deb6701751", null ],
-    [ "_instance", "de/d46/a18099.html#a970e99fba28d6e3e0cb759c87a866273", null ],
-    [ "events", "de/d46/a18099.html#aa53025d3fe95086dc0c23d5d563df7c4", null ]
+    [ "HandlePeriodicTick", "de/d46/a18099.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "de/d46/a18099.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "de/d46/a18099.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

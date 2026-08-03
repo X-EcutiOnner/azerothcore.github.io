@@ -1,15 +1,13 @@
 var a19019 =
 [
-    [ "npc_frostwing_vrykulAI", "dd/d1f/a19019.html#ab68f844aa58f5d22586ba6d7526fc7ae", null ],
-    [ "AttackStart", "dd/d1f/a19019.html#a42a53fedc36aa71f52900a416e414fc6", null ],
-    [ "CanAIAttack", "dd/d1f/a19019.html#a91300d1178a2b433bd8830ec1066368e", null ],
-    [ "JustEngagedWith", "dd/d1f/a19019.html#abc75688914cd4f984448dd3f21527d89", null ],
-    [ "JustSummoned", "dd/d1f/a19019.html#a116908f5689d6d75570379f13ed0bd90", null ],
-    [ "Reset", "dd/d1f/a19019.html#a4baa20089b50acee617c4b85bc6b8478", null ],
-    [ "SpellHitTarget", "dd/d1f/a19019.html#a645dd6d85676cdd7ec1845c184dd2f93", null ],
-    [ "UpdateAI", "dd/d1f/a19019.html#a810d1b1829623836f88b5a3ddfc277c5", null ],
-    [ "events", "dd/d1f/a19019.html#accae0992a349361d85200863f5ac4f81", null ],
-    [ "events2", "dd/d1f/a19019.html#a16682657d7cfb03ccd9f31d481c7af83", null ],
-    [ "isRanged", "dd/d1f/a19019.html#a6f2e29ca9c859fe96648a2b55ccb773f", null ],
-    [ "summons", "dd/d1f/a19019.html#ac75d1c18a8f70ff88f5925a3df6e5924", null ]
+    [ "npc_highlord_tirion_fordringAI", "dd/d1f/a19019.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
+    [ "Reset", "dd/d1f/a19019.html#a80051b1b2a663997304b1754a3f9ff25", null ],
+    [ "SetData", "dd/d1f/a19019.html#a5642aab7afc50a7494c43ae7a130d571", null ],
+    [ "UpdateAI", "dd/d1f/a19019.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
+    [ "_bolvarFordragon", "dd/d1f/a19019.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
+    [ "_damnedKills", "dd/d1f/a19019.html#a56e035884d2ab94629c133efc1fc8feb", null ],
+    [ "_events", "dd/d1f/a19019.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
+    [ "_factionNPC", "dd/d1f/a19019.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
+    [ "_instance", "dd/d1f/a19019.html#acd16d6200b08df23576aa9ccbb060d31", null ],
+    [ "_theLichKing", "dd/d1f/a19019.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
 ];

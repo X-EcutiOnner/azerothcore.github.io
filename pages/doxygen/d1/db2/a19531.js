@@ -1,8 +1,7 @@
 var a19531 =
 [
-    [ "HandleAfterCast", "d1/db2/a19531.html#ac816f81a668ac3018be8f5dc4698039b", null ],
-    [ "HandleDummy", "d1/db2/a19531.html#a3009faa525c22779a0b2534b96821cfd", null ],
-    [ "PrepareSpellScript", "d1/db2/a19531.html#aca38f23f080314ab73ec2494bf877716", null ],
-    [ "Register", "d1/db2/a19531.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
-    [ "Validate", "d1/db2/a19531.html#af945e399992deb3aef5c81ad393ee50f", null ]
+    [ "HandleRemove", "d1/db2/a19531.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
+    [ "PrepareAuraScript", "d1/db2/a19531.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
+    [ "Register", "d1/db2/a19531.html#ad7ba015a7878adad0820cf378d2632ca", null ],
+    [ "Validate", "d1/db2/a19531.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
 ];

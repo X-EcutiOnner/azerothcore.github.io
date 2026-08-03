@@ -1,6 +1,6 @@
 var a17679 =
 [
-    [ "HandleStackDrop", "d2/d27/a17679.html#a5c1064d764a6bfa4b3fde8bf57316e44", null ],
-    [ "PrepareAuraScript", "d2/d27/a17679.html#a294db521fc56c4fe5e50317fedd8a86d", null ],
-    [ "Register", "d2/d27/a17679.html#a45b1fd2c1896023d71a0916100376e57", null ]
+    [ "ShockVortexExplodeEvent", "d2/d27/a17679.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "d2/d27/a17679.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "d2/d27/a17679.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

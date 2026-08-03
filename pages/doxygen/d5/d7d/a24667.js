@@ -1,8 +1,11 @@
 var a24667 =
 [
-    [ "CheckProc", "d5/d7d/a24667.html#a1b9f36ea8dae6ad947a75bbe23f7fc2d", null ],
-    [ "HandleProc", "d5/d7d/a24667.html#a506420e3e109bf8f4e7c83b101c80c3c", null ],
-    [ "PrepareAuraScript", "d5/d7d/a24667.html#a5e81587c47cbb6f331b6d5f8f22d7616", null ],
-    [ "Register", "d5/d7d/a24667.html#a38de7578466df47ebe6fc7b5bfab616b", null ],
-    [ "Validate", "d5/d7d/a24667.html#ad81044da0924211cbbaccc671839983c", null ]
+    [ "HandleAfterHit", "d5/d7d/a24667.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
+    [ "HandleDummy", "d5/d7d/a24667.html#abb3f92850fa6fff94c682b990c361fe6", null ],
+    [ "Load", "d5/d7d/a24667.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
+    [ "PrepareSpellScript", "d5/d7d/a24667.html#adea0e24654cd87b3aee07ce2183b9517", null ],
+    [ "Register", "d5/d7d/a24667.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
+    [ "Validate", "d5/d7d/a24667.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
+    [ "guid", "d5/d7d/a24667.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
+    [ "multiplier", "d5/d7d/a24667.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
 ];

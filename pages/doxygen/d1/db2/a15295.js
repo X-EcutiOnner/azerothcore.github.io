@@ -1,6 +1,6 @@
 var a15295 =
 [
-    [ "instance_the_black_morass_InstanceMapScript", "db/d8e/a15299.html", "db/d8e/a15299" ],
-    [ "instance_the_black_morass", "d1/db2/a15295.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
-    [ "GetInstanceScript", "d1/db2/a15295.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
+    [ "npc_crate_helperAI", "db/d8e/a15299.html", "db/d8e/a15299" ],
+    [ "npc_crate_helper", "d1/db2/a15295.html#ae08751928234656dcda84dd5c7e4cc37", null ],
+    [ "GetAI", "d1/db2/a15295.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
 ];

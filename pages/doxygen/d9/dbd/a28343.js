@@ -1,6 +1,5 @@
 var a28343 =
 [
-    [ "npc_spring_rabbitAI", "da/def/a28347.html", "da/def/a28347" ],
-    [ "npc_spring_rabbit", "d9/dbd/a28343.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "d9/dbd/a28343.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "go_massive_seaforium_charge", "d9/dbd/a28343.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "d9/dbd/a28343.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

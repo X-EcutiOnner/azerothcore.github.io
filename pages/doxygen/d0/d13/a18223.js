@@ -1,7 +1,7 @@
 var a18223 =
 [
-    [ "HandleTriggerSpell", "d0/d13/a18223.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "d0/d13/a18223.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "d0/d13/a18223.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "d0/d13/a18223.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "npc_coldflameAI", "d0/d13/a18223.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
+    [ "IsSummonedBy", "d0/d13/a18223.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
+    [ "UpdateAI", "d0/d13/a18223.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
+    [ "events", "d0/d13/a18223.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
 ];

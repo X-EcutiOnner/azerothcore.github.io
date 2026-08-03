@@ -1,17 +1,13 @@
 var a14591 =
 [
-    [ "instance_zulgurub_InstanceMapScript", "d6/d14/a14591.html#aacbb3bb0d212ffafae475c74790d9c63", null ],
-    [ "GetData", "d6/d14/a14591.html#ae8c0fa463d3e5b5dafb7b14b5d32a4b1", null ],
-    [ "GetGuidData", "d6/d14/a14591.html#a0da827e64e90a1f97b75038621a195ff", null ],
-    [ "OnCreatureCreate", "d6/d14/a14591.html#a951c6f5e1dc460cd820fba49add52898", null ],
-    [ "OnGameObjectCreate", "d6/d14/a14591.html#a7649a9bcdfafd3c8d7001555e60910af", null ],
-    [ "RemoveHakkarPowerStack", "d6/d14/a14591.html#a0234565dc9c87e32bcd0a7f19e2336b6", null ],
-    [ "SetBossState", "d6/d14/a14591.html#aaf5d69e4993591e0f936e2109df1fb07", null ],
-    [ "_arlokkGUID", "d6/d14/a14591.html#a92d30a8e0691e5bc6a58ff26cc06df36", null ],
-    [ "_edgeOfMadnessGUID", "d6/d14/a14591.html#aa7bbbb942592651857f933503da0e808", null ],
-    [ "_gahzrankaGUID", "d6/d14/a14591.html#af0e854382a2316363c50d60f03095097", null ],
-    [ "_goGongOfBethekkGUID", "d6/d14/a14591.html#a1f33ff891c8289a49dd2b979a064c323", null ],
-    [ "_hakkarGUID", "d6/d14/a14591.html#aeca34a55f3c378311ae1b46313cf22de", null ],
-    [ "_jindoTheHexxerGUID", "d6/d14/a14591.html#a48ec95fa51ddf50aa0249a3798bbc898", null ],
-    [ "_vilebranchSpeakerGUID", "d6/d14/a14591.html#a07cff6b252eb9b08855bc8bd7e5d7735", null ]
+    [ "npc_ohganAI", "d6/d14/a14591.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
+    [ "JustDied", "d6/d14/a14591.html#a89e506868e3191362545e34d21528b8f", null ],
+    [ "JustEngagedWith", "d6/d14/a14591.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
+    [ "KilledUnit", "d6/d14/a14591.html#a4e202eef928e54bd52160705bba5cc35", null ],
+    [ "Reset", "d6/d14/a14591.html#ac3e1bc9dc819138741eb3b4448051547", null ],
+    [ "SetGUID", "d6/d14/a14591.html#a575531a144c46ae3084e56e452125f16", null ],
+    [ "UpdateAI", "d6/d14/a14591.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
+    [ "_scheduler", "d6/d14/a14591.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
+    [ "instance", "d6/d14/a14591.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
+    [ "reviveGUID", "d6/d14/a14591.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
 ];

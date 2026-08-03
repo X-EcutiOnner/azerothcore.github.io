@@ -1,14 +1,8 @@
 var a22395 =
 [
-    [ "boss_nexusprince_shaffar", "df/dcd/a22395.html#a2e861fb53bca7a40e967971b5e7be533", null ],
-    [ "JustDied", "df/dcd/a22395.html#abf2fef0888bced83511883027bf4d500", null ],
-    [ "JustEngagedWith", "df/dcd/a22395.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
-    [ "JustSummoned", "df/dcd/a22395.html#a576240b46ce0988f0ef86e1460c831ef", null ],
-    [ "KilledUnit", "df/dcd/a22395.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
-    [ "MoveInLineOfSight", "df/dcd/a22395.html#a71e501225d88851210d2e0e58de27f99", null ],
-    [ "Reset", "df/dcd/a22395.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
-    [ "SummonedCreatureDespawn", "df/dcd/a22395.html#ab806564e96708ca12f444249abd3c88c", null ],
-    [ "UpdateAI", "df/dcd/a22395.html#a147500575a3821262ec718ec023b458c", null ],
-    [ "HasTaunted", "df/dcd/a22395.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
-    [ "summons", "df/dcd/a22395.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
+    [ "npc_wg_spirit_guideAI", "d0/dff/a22399.html", "d0/dff/a22399" ],
+    [ "npc_wg_spirit_guide", "df/dcd/a22395.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
+    [ "GetAI", "df/dcd/a22395.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
+    [ "OnGossipHello", "df/dcd/a22395.html#a2d46078cb47f817239685d168f7f2e35", null ],
+    [ "OnGossipSelect", "df/dcd/a22395.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
 ];

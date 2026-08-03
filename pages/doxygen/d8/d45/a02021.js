@@ -1,6 +1,6 @@
 var a02021 =
 [
-    [ "SpellEvent", "db/d3d/a11846.html", "db/d3d/a11846" ],
+    [ "SpellEvent", "d3/d98/a11851.html", "d3/d98/a11851" ],
     [ "DEBUG_TRAJ", "d8/d45/a02021.html#ac27bc73435b380df600d6da0b753a144", null ],
     [ "GCDLimits", "d8/d45/a02021.html#aea36520bcbaa2ebe9c062b9c5d9df777", [
       [ "MIN_GCD", "d8/d45/a02021.html#aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f", null ],

@@ -1,7 +1,10 @@
 var a14599 =
 [
-    [ "FilterTargets", "d5/dd3/a14599.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
-    [ "HandleEffect", "d5/dd3/a14599.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
-    [ "PrepareSpellScript", "d5/dd3/a14599.html#a08127992c96fb02e87e9ade65a5375d5", null ],
-    [ "Register", "d5/dd3/a14599.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
+    [ "npc_vilebranch_speaker", "d5/dd3/a14599.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
+    [ "JustDied", "d5/dd3/a14599.html#aa7708f176879db3acd50399b74e4a90c", null ],
+    [ "JustEngagedWith", "d5/dd3/a14599.html#a236afb8512c2d941479f8a7c18f688a6", null ],
+    [ "Reset", "d5/dd3/a14599.html#a248195a137cb91f10a882ec12974c7c5", null ],
+    [ "UpdateAI", "d5/dd3/a14599.html#a75f263fa9241319b58bf77cbf1b75088", null ],
+    [ "_scheduler", "d5/dd3/a14599.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
+    [ "instance", "d5/dd3/a14599.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
 ];

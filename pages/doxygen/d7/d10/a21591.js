@@ -1,5 +1,7 @@
 var a21591 =
 [
-    [ "at_q24545_frostmourne_cavern", "d7/d10/a21591.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
-    [ "OnTrigger", "d7/d10/a21591.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
+    [ "HandleScriptEffect", "d7/d10/a21591.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
+    [ "PrepareSpellScript", "d7/d10/a21591.html#a73b5af95ee4f593337c3803574d190db", null ],
+    [ "Register", "d7/d10/a21591.html#a930de2343532feb50b86304f32269e4c", null ],
+    [ "Validate", "d7/d10/a21591.html#ae9bfedf7e89487217ad927459e259c04", null ]
 ];

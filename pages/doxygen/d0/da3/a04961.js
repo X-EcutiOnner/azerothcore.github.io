@@ -1,6 +1,6 @@
 var a04961 =
 [
-    [ "SpellProcTestEntry", "d6/d2a/a29994.html", "d6/d2a/a29994" ],
+    [ "SpellProcTestEntry", "d6/d2e/a30031.html", "d6/d2e/a30031" ],
     [ "GetAllSpellProcTestEntries", "d0/da3/a04961.html#a39025d5b336e745566f739e9d1f68e78", null ],
     [ "GroupByHitMask", "d0/da3/a04961.html#a9c10a33f80d5dad16ac98bf115774ded", null ],
     [ "GroupByProcFlags", "d0/da3/a04961.html#a8a30ea152f1ec07a3e93549376c04b74", null ],

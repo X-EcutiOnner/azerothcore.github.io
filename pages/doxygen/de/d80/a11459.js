@@ -1,8 +1,11 @@
 var a11459 =
 [
-    [ "PetSpellAutocast", "de/d80/a11459.html#ab858647d14031a2a6109d1e923402d08", null ],
-    [ "Read", "de/d80/a11459.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
-    [ "AutocastEnabled", "de/d80/a11459.html#a3c04543dcd5382682654b3860b84c6a3", null ],
-    [ "PetGUID", "de/d80/a11459.html#aeed828abebf683078ee61204c91e28c9", null ],
-    [ "SpellID", "de/d80/a11459.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
+    [ "MoneyCost", "de/d80/a11459.html#a8f88c27f149bf304f46b00dec2aa4a30", null ],
+    [ "PointCost", "de/d80/a11459.html#aebcad3f23dbca753ad970081af0a78c9", null ],
+    [ "ReqAbility", "de/d80/a11459.html#acc13f04eb19a4555ae1a54594f1d858b", null ],
+    [ "ReqLevel", "de/d80/a11459.html#a9478dc1065bc10ebc591ff8022e43993", null ],
+    [ "ReqSkillLine", "de/d80/a11459.html#a5267f4615e01571a4a16d17d6914981b", null ],
+    [ "ReqSkillRank", "de/d80/a11459.html#ae6f9640e257d83d633c48168edc658b6", null ],
+    [ "SpellID", "de/d80/a11459.html#accf0f9aa4c8f2130f6926235dca69476", null ],
+    [ "Usable", "de/d80/a11459.html#a35d7186073a231f0dd1fe5920eec175b", null ]
 ];

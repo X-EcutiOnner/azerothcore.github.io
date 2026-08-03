@@ -1,6 +1,6 @@
 var a14195 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "d3/ddc/a14199.html", "d3/ddc/a14199" ],
-    [ "npc_lady_sylvanas_windrunner_bfu", "d2/d5a/a14195.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
-    [ "GetAI", "d2/d5a/a14195.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
+    [ "OnRemove", "d2/d5a/a14195.html#aedad236b202300eee0925e3600b87bfa", null ],
+    [ "PrepareAuraScript", "d2/d5a/a14195.html#acfdeb98e274989e378d4d4c800306a24", null ],
+    [ "Register", "d2/d5a/a14195.html#a0d820ca108e3aabe87ab5867d997264c", null ]
 ];

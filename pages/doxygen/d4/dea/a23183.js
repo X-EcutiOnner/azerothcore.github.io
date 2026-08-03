@@ -1,8 +1,6 @@
 var a23183 =
 [
-    [ "boss_hungarfen", "d4/dea/a23183.html#a009b8d34731d2310a53195024b434935", null ],
-    [ "JustEngagedWith", "d4/dea/a23183.html#a3612bb373ecdba4245587fd94257ba62", null ],
-    [ "Reset", "d4/dea/a23183.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
-    [ "UpdateAI", "d4/dea/a23183.html#a1765bd54c04a3479e837b3d0e241300e", null ],
-    [ "_scheduler", "d4/dea/a23183.html#a702185681abb6cfc4add7078ff5bbb52", null ]
+    [ "HandleEffectRemove", "d4/dea/a23183.html#a9e578e576d8fa4198cf1f0e9f03ba47a", null ],
+    [ "PrepareAuraScript", "d4/dea/a23183.html#a5fa56f4d61c63487919bb2080795e391", null ],
+    [ "Register", "d4/dea/a23183.html#a2d0bbef8b32c688b7409837b426d9cd1", null ]
 ];

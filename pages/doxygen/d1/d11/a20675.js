@@ -1,9 +1,9 @@
 var a20675 =
 [
-    [ "npc_xt002_scrapbot", "d1/d11/a20675.html#a0c7270ccbac5c12af8aaec998408046f", null ],
-    [ "JustDied", "d1/d11/a20675.html#ac6c9cf84bf11e31bcaf620d4c92fa3d0", null ],
-    [ "MovementInform", "d1/d11/a20675.html#a7c167b396927f73736531b53056bc262", null ],
-    [ "Reset", "d1/d11/a20675.html#aa9753f72910da1bb56a090e77fc029fb", null ],
-    [ "UpdateAI", "d1/d11/a20675.html#a3f5cffc3225ced1ccdf3fc0964cc2c05", null ],
-    [ "_locked", "d1/d11/a20675.html#aaa4e129ebea658b0f2e224e024f6010f", null ]
+    [ "HandleEffectPeriodic", "d1/d11/a20675.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "Load", "d1/d11/a20675.html#a60deabce505dd3993dca0e71402dc190", null ],
+    [ "PrepareAuraScript", "d1/d11/a20675.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "d1/d11/a20675.html#a524c071390365b7dab59bc7a79b50f15", null ],
+    [ "_lastMSTime", "d1/d11/a20675.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
+    [ "_lastOrientation", "d1/d11/a20675.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
 ];

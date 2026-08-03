@@ -1,6 +1,6 @@
 var a18259 =
 [
-    [ "HandleScript", "de/d46/a18259.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
-    [ "PrepareSpellScript", "de/d46/a18259.html#a50560d754709e6b9ec6863142c1ffce3", null ],
-    [ "Register", "de/d46/a18259.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
+    [ "UnboundPlagueTargetSelector", "de/d46/a18259.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "de/d46/a18259.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "de/d46/a18259.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

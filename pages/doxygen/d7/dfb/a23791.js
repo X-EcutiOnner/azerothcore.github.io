@@ -1,7 +1,8 @@
 var a23791 =
 [
-    [ "HandleDummy", "d7/dfb/a23791.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d7/dfb/a23791.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d7/dfb/a23791.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d7/dfb/a23791.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "boss_laj", "d7/dfb/a23791.html#a3c9323ab4b5530504588ea62aed2edff", null ],
+    [ "Reset", "d7/dfb/a23791.html#ace690a0662376addaa40093f3f119c31", null ],
+    [ "ScheduleTasks", "d7/dfb/a23791.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
+    [ "_lastTransform", "d7/dfb/a23791.html#a097eacaaf77a09bec087530bad587b11", null ],
+    [ "_transformContainer", "d7/dfb/a23791.html#a313e66ceeb4e359251dad65383e7f568", null ]
 ];

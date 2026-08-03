@@ -1,9 +1,12 @@
 var a21479 =
 [
-    [ "npc_minigob_manabonk", "d7/d0f/a21479.html#aade5e005b68b25ede4e653629390ceb9", null ],
-    [ "Reset", "d7/d0f/a21479.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
-    [ "SelectTargetInDalaran", "d7/d0f/a21479.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
-    [ "SendMailToPlayer", "d7/d0f/a21479.html#a1973b7885c9fce15aab9843722bf112e", null ],
-    [ "UpdateAI", "d7/d0f/a21479.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
-    [ "playerGUID", "d7/d0f/a21479.html#ac8dccd333691f717fdbffe22126330d5", null ]
+    [ "boss_xevozz", "d7/d0f/a21479.html#aea402ffbe689ca65e29b30899862a8bc", null ],
+    [ "EnterEvadeMode", "d7/d0f/a21479.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
+    [ "ExecuteEvent", "d7/d0f/a21479.html#af5b37fc643f2b22468a38655fce63d25", null ],
+    [ "JustDied", "d7/d0f/a21479.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
+    [ "JustEngagedWith", "d7/d0f/a21479.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
+    [ "JustSummoned", "d7/d0f/a21479.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
+    [ "KilledUnit", "d7/d0f/a21479.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
+    [ "MoveInLineOfSight", "d7/d0f/a21479.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
+    [ "SummonedCreatureDespawn", "d7/d0f/a21479.html#a1493a5acdfcca7d01446564db622239e", null ]
 ];

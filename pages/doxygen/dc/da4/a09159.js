@@ -1,9 +1,8 @@
 var a09159 =
 [
-    [ "VehicleAccessory", "dc/da4/a09159.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
-    [ "AccessoryEntry", "dc/da4/a09159.html#a6e3cd6b20680974235c146d34b16295a", null ],
-    [ "IsMinion", "dc/da4/a09159.html#ace3fd27311370e4db4103f2c3ac70410", null ],
-    [ "SeatId", "dc/da4/a09159.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
-    [ "SummonedType", "dc/da4/a09159.html#afc843c62c580c860471b0e49f5901363", null ],
-    [ "SummonTime", "dc/da4/a09159.html#a13a024b3ceacf38ce4907b079d732420", null ]
+    [ "AttackPosition", "dc/da4/a09159.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
+    [ "operator=", "dc/da4/a09159.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
+    [ "operator==", "dc/da4/a09159.html#a320adced006c0f70456492c9e9dc99c2", null ],
+    [ "_pos", "dc/da4/a09159.html#a77783e0e6e83836ad6e5903535ad9370", null ],
+    [ "_taken", "dc/da4/a09159.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
 ];

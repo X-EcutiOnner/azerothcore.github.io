@@ -1,8 +1,7 @@
 var a13767 =
 [
-    [ "FilterTargets", "d8/d2a/a13767.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
-    [ "HandleAfterCast", "d8/d2a/a13767.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
-    [ "Load", "d8/d2a/a13767.html#aecfa38940ea3dd287179bdef3d290487", null ],
-    [ "PrepareSpellScript", "d8/d2a/a13767.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
-    [ "Register", "d8/d2a/a13767.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
+    [ "boss_kalec", "d8/d2a/a13767.html#a9c36e31c750e93840f30f001cdaca0da", null ],
+    [ "JustDied", "d8/d2a/a13767.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
+    [ "JustEngagedWith", "d8/d2a/a13767.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
+    [ "UpdateAI", "d8/d2a/a13767.html#ab55da7584fa7f545761a5bd547245747", null ]
 ];

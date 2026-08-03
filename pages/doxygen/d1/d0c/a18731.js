@@ -1,6 +1,8 @@
 var a18731 =
 [
-    [ "npc_spirit_wardenAI", "d0/d62/a18735.html", "d0/d62/a18735" ],
-    [ "npc_spirit_warden", "d1/d0c/a18731.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "d1/d0c/a18731.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "ChangeDamageAndGrow", "d1/d0c/a18731.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "d1/d0c/a18731.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "d1/d0c/a18731.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "d1/d0c/a18731.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "d1/d0c/a18731.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

@@ -1,9 +1,8 @@
 var a22087 =
 [
-    [ "HandlePeriodic", "d7/d55/a22087.html#a0943e7887ff935ccea21d913429e25a0", null ],
-    [ "OnRemove", "d7/d55/a22087.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
-    [ "PrepareAuraScript", "d7/d55/a22087.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
-    [ "Register", "d7/d55/a22087.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
-    [ "_tickNumber", "d7/d55/a22087.html#a3f8943e288e96f639fb805869749879b", null ],
-    [ "_warning", "d7/d55/a22087.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
+    [ "npc_llod_genericAI", "d7/d55/a22087.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "d7/d55/a22087.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "d7/d55/a22087.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "d7/d55/a22087.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "d7/d55/a22087.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

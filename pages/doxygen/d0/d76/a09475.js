@@ -1,6 +1,5 @@
 var a09475 =
 [
-    [ "flags", "d0/d76/a09475.html#a953acfd67349f028a839390ebe7fc398", null ],
-    [ "fourcc", "d0/d76/a09475.html#a14d0e9cf761aae3ef914f3bff86ef216", null ],
-    [ "gridArea", "d0/d76/a09475.html#a4ee571320d5d346bbf74709677bbee05", null ]
+    [ "MaxAllowedCount", "d0/d76/a09475.html#afb0dcc50d8e9aa85fe2904050d646042", null ],
+    [ "Policy", "d0/d76/a09475.html#a8b2bbd3d9f52166c1235b0d306042609", null ]
 ];

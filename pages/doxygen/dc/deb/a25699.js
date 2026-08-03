@@ -1,6 +1,9 @@
 var a25699 =
 [
-    [ "HandleScript", "dc/deb/a25699.html#a9309c0e435240bc656b3bfde2d923a9a", null ],
-    [ "PrepareSpellScript", "dc/deb/a25699.html#a74dc9d9a57ed410b3c0d690418bfb4eb", null ],
-    [ "Register", "dc/deb/a25699.html#a8769cbce815d1f1c457979743e10535c", null ]
+    [ "CheckProc", "dc/deb/a25699.html#a05a15654fd3c6175b59ab18197fc3c77", null ],
+    [ "HandleProc", "dc/deb/a25699.html#a5345da73b9c4c9fe4ae5d272e3574955", null ],
+    [ "OnRemove", "dc/deb/a25699.html#a27b1b744d88b4c870c0baa0b8f88317f", null ],
+    [ "PrepareAuraScript", "dc/deb/a25699.html#a2e13f63459342fb749594f7fbb517c80", null ],
+    [ "Register", "dc/deb/a25699.html#a6fc9a3945a736ba4a62ad754090d8525", null ],
+    [ "Validate", "dc/deb/a25699.html#a008ec43da50deb568ec453e992f89887", null ]
 ];

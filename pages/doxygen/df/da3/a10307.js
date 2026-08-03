@@ -1,8 +1,9 @@
 var a10307 =
 [
-    [ "AbstractFollower", "df/da3/a10307.html#a08d292896f2419dd73ae68c8e1238d4b", null ],
-    [ "~AbstractFollower", "df/da3/a10307.html#acb394f5326ab5ea5146c79788a085647", null ],
-    [ "GetTarget", "df/da3/a10307.html#a43f037557454528a956c379d9efb42ac", null ],
-    [ "SetTarget", "df/da3/a10307.html#ad49748abec4bb2fe06cc8ba2699bdbd0", null ],
-    [ "_target", "df/da3/a10307.html#aa4e43d8e60442eee41398648fd7fd45d", null ]
+    [ "MapUpdateRequest", "df/da3/a10307.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
+    [ "call", "df/da3/a10307.html#a2cb96db357347d47596725e5c345b02f", null ],
+    [ "m_diff", "df/da3/a10307.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
+    [ "m_map", "df/da3/a10307.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
+    [ "m_updater", "df/da3/a10307.html#aeb063738175aa8ddc751290f922ffef2", null ],
+    [ "s_diff", "df/da3/a10307.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
 ];

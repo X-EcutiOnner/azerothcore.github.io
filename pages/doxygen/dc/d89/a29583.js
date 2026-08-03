@@ -1,4 +1,7 @@
 var a29583 =
 [
-    [ "SetUp", "dc/d89/a29583.html#ad6602a4579ff5c20d4a8a4a0bec0a155", null ]
+    [ "MockAuraStub", "dc/d89/a29583.html#a9f0561eabca5230f8fe27384e0deb6b8", null ],
+    [ "MOCK_METHOD", "dc/d89/a29583.html#a727233484b563f548c9f0e2d8a78b9a6", null ],
+    [ "MOCK_METHOD", "dc/d89/a29583.html#a9581f1887abbe708bc4e2da24e1996b5", null ],
+    [ "MOCK_METHOD", "dc/d89/a29583.html#abe2d675e124d5cb9115e8f726b1c7d8b", null ]
 ];

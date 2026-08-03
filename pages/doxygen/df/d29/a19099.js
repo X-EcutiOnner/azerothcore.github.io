@@ -1,6 +1,6 @@
 var a19099 =
 [
-    [ "HandleScript", "df/d29/a19099.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "df/d29/a19099.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "df/d29/a19099.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "npc_impaling_spearAI", "d7/da1/a19103.html", "d7/da1/a19103" ],
+    [ "npc_impaling_spear", "df/d29/a19099.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "df/d29/a19099.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

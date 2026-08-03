@@ -1,7 +1,9 @@
 var a23075 =
 [
-    [ "npc_ahune_ice_spear_bunny", "d2/dd0/a23075.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
-    [ "InitializeAI", "d2/dd0/a23075.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
-    [ "UpdateAI", "d2/dd0/a23075.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
-    [ "_scheduler", "d2/dd0/a23075.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
+    [ "HandleEffectApply", "d2/dd0/a23075.html#aca8ff864832d30e45bccfca12256560a", null ],
+    [ "HandleEffectRemove", "d2/dd0/a23075.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7", null ],
+    [ "Load", "d2/dd0/a23075.html#a3b9838f26673ce344ca40f9f487ef878", null ],
+    [ "PrepareAuraScript", "d2/dd0/a23075.html#a79b93c86a01d31d08cba15436856b794", null ],
+    [ "Register", "d2/dd0/a23075.html#aa6c04279944abd31c42bb5dc4319aaf2", null ],
+    [ "_turtleSet", "d2/dd0/a23075.html#a308b9e032576ae058e9f2469dcc8ff23", null ]
 ];

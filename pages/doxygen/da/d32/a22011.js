@@ -1,6 +1,6 @@
 var a22011 =
 [
-    [ "HandleScriptEffect", "da/d32/a22011.html#a1dac2806b74471332aec0595118005a3", null ],
-    [ "PrepareSpellScript", "da/d32/a22011.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
-    [ "Register", "da/d32/a22011.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
+    [ "npc_plaguehound_trackerAI", "d9/dc6/a22015.html", "d9/dc6/a22015" ],
+    [ "npc_plaguehound_tracker", "da/d32/a22011.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "da/d32/a22011.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

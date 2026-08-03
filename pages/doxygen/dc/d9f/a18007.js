@@ -1,6 +1,6 @@
 var a18007 =
 [
-    [ "PrepareSpellScript", "dc/d9f/a18007.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
-    [ "Register", "dc/d9f/a18007.html#a651f52f7d242251ff69d100fd69376e4", null ],
-    [ "SelectTarget", "dc/d9f/a18007.html#aede083ebebe38deb5898ff028564ef95", null ]
+    [ "npc_igb_ship_crewAI", "dc/d9f/a18007.html#a3ca741b305e3235b0521f094d7abe732", null ],
+    [ "CanAIAttack", "dc/d9f/a18007.html#a2c834dc151493957fc116865699ae7f5", null ],
+    [ "_instance", "dc/d9f/a18007.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
 ];

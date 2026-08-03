@@ -1,6 +1,6 @@
 var a04721 =
 [
-    [ "CharacterDatabaseConnection", "de/de4/a06106.html", "de/de4/a06106" ],
+    [ "CharacterDatabaseConnection", "d0/d0b/a06107.html", "d0/d0b/a06107" ],
     [ "CharacterDatabaseStatements", "d0/dae/a04721.html#a76116b4fa282d8e35bf8f8e940b5cba7", [
       [ "CHAR_DEL_QUEST_POOL_SAVE", "d0/dae/a04721.html#a76116b4fa282d8e35bf8f8e940b5cba7a494e95a33cf6fd5a044ae914d78eba5f", null ],
       [ "CHAR_INS_QUEST_POOL_SAVE", "d0/dae/a04721.html#a76116b4fa282d8e35bf8f8e940b5cba7ad81f4bf1ca36a95f1881b582d1a52f08", null ],

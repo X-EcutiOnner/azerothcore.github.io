@@ -1,7 +1,8 @@
 var a19595 =
 [
-    [ "npc_eoe_wyrmrest_skytalon", "da/d1e/a19595.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
-    [ "IsSummonedBy", "da/d1e/a19595.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
-    [ "JustDied", "da/d1e/a19595.html#a65df31829e801154ee20d55ad1c15721", null ],
-    [ "PassengerBoarded", "da/d1e/a19595.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
+    [ "boss_maexxna_webwrapAI", "da/d1e/a19595.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
+    [ "IsSummonedBy", "da/d1e/a19595.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
+    [ "JustDied", "da/d1e/a19595.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
+    [ "UpdateAI", "da/d1e/a19595.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
+    [ "victimGUID", "da/d1e/a19595.html#a54081ebfc0df639b7e18b5f079802c92", null ]
 ];

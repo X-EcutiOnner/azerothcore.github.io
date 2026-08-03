@@ -1,8 +1,9 @@
 var a20743 =
 [
-    [ "boss_yoggsaron_guardian_of_ys", "d0/d20/a20743.html#ad66fab16b309b62895578d46e8a2e730", null ],
-    [ "JustDied", "d0/d20/a20743.html#a12ce3fef2fba8d92945249cf8920a0b4", null ],
-    [ "Reset", "d0/d20/a20743.html#ac803a9da5223db459b9ec48435e59c30", null ],
-    [ "UpdateAI", "d0/d20/a20743.html#a573576eaff2cbd4f779675e19ad53dea", null ],
-    [ "_spellTimer", "d0/d20/a20743.html#a5922d21c4606ab9a41e20948dc926cea", null ]
+    [ "npc_razorscale_harpoon_fire_state", "d0/d20/a20743.html#a5bcb95382dc80bae1f4f05c306fb52bf", null ],
+    [ "DoAction", "d0/d20/a20743.html#aa7a12bae703c1a7d215dc0181f9ad532", null ],
+    [ "GetData", "d0/d20/a20743.html#ae552669fbd1a66a457cc30a2ed13c8fd", null ],
+    [ "Reset", "d0/d20/a20743.html#aad5f2d32fffaacec3485b0743f4267aa", null ],
+    [ "SpellHit", "d0/d20/a20743.html#a660573750d12c82394a9f911a3973e02", null ],
+    [ "_repairProgress", "d0/d20/a20743.html#af1c14d6762f9fc9f3a78f040a544bde4", null ]
 ];

@@ -1,7 +1,7 @@
 var a21795 =
 [
-    [ "HandleScriptEffect", "d5/d40/a21795.html#a7b0fca053f225beda41942d8fee86383", null ],
-    [ "PrepareSpellScript", "d5/d40/a21795.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
-    [ "Register", "d5/d40/a21795.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
-    [ "Validate", "d5/d40/a21795.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
+    [ "CheckRequirement", "d5/d40/a21795.html#a41beb2c890137328734d6adb14e08302", null ],
+    [ "PrepareSpellScript", "d5/d40/a21795.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
+    [ "Register", "d5/d40/a21795.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
+    [ "SetDest", "d5/d40/a21795.html#a431a556ab73f91ed63f5983e537834a5", null ]
 ];

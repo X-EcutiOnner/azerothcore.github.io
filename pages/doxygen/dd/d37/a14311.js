@@ -1,7 +1,12 @@
 var a14311 =
 [
-    [ "HandleScript", "dd/d37/a14311.html#ac45614416a710794b3e3a5cee239e28a", null ],
-    [ "PrepareSpellScript", "dd/d37/a14311.html#a832aee6557e27bfa418957297a05bea3", null ],
-    [ "Register", "dd/d37/a14311.html#a2f5d255de09818203e498c0090bdd3fb", null ],
-    [ "Validate", "dd/d37/a14311.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
+    [ "npc_tapoke_slim_jahnAI", "dd/d37/a14311.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
+    [ "AttackedBy", "dd/d37/a14311.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
+    [ "DamageTaken", "dd/d37/a14311.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
+    [ "JustEngagedWith", "dd/d37/a14311.html#a544b8eaee365217a4a735ed39b4607b2", null ],
+    [ "JustSummoned", "dd/d37/a14311.html#ae468305fbe930baf0a1547f2e6de9953", null ],
+    [ "Reset", "dd/d37/a14311.html#a5aeaa5511584d1095639e7df584019c5", null ],
+    [ "WaypointReached", "dd/d37/a14311.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
+    [ "WaypointReached", "dd/d37/a14311.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "IsFriendSummoned", "dd/d37/a14311.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
 ];

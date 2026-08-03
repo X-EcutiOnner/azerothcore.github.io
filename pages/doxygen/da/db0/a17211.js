@@ -1,6 +1,6 @@
 var a17211 =
 [
-    [ "npc_fos_leader_secondAI", "df/dd0/a17215.html", "df/dd0/a17215" ],
-    [ "npc_fos_leader_second", "da/db0/a17211.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
-    [ "GetAI", "da/db0/a17211.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
+    [ "HandleScript", "da/db0/a17211.html#a4786e0c38f03f7e671174d0641526681", null ],
+    [ "PrepareSpellScript", "da/db0/a17211.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
+    [ "Register", "da/db0/a17211.html#a943117bfb56b846e99d04bd9a348af8d", null ]
 ];

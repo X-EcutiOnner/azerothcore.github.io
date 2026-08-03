@@ -1,6 +1,7 @@
 var a17603 =
 [
-    [ "boss_prince_kelesethAI", "d1/df8/a17607.html", "d1/df8/a17607" ],
-    [ "boss_prince_keleseth_icc", "d2/d00/a17603.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
-    [ "GetAI", "d2/d00/a17603.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
+    [ "HandleDummy", "d2/d00/a17603.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "d2/d00/a17603.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "d2/d00/a17603.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "d2/d00/a17603.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

@@ -1,6 +1,11 @@
 var a20843 =
 [
-    [ "OnRemove", "d7/d89/a20843.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
-    [ "PrepareAuraScript", "d7/d89/a20843.html#a5fb0837417b915676549370cc76c477d", null ],
-    [ "Register", "d7/d89/a20843.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
+    [ "boss_thorim_arena_npcs", "d7/d89/a20843.html#a849567e412254aa8d0d7da33b6b1522f", null ],
+    [ "CanAIAttack", "d7/d89/a20843.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
+    [ "JustEngagedWith", "d7/d89/a20843.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
+    [ "Reset", "d7/d89/a20843.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
+    [ "SelectT", "d7/d89/a20843.html#a3fa38189c886a486aabb39a372834938", null ],
+    [ "UpdateAI", "d7/d89/a20843.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
+    [ "_isCaster", "d7/d89/a20843.html#abfd184437df3983659a9ae21a13638fb", null ],
+    [ "events", "d7/d89/a20843.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
 ];

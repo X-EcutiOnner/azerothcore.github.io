@@ -1,8 +1,6 @@
 var a19583 =
 [
-    [ "npc_scion_of_eternity", "d1/d7b/a19583.html#ac1a9111bc835a3d2cffc43b840985763", null ],
-    [ "AttackStart", "d1/d7b/a19583.html#a86b5e235096ad107217f36150c618d73", null ],
-    [ "JustDied", "d1/d7b/a19583.html#aff0f8d0d57afb6ef3df7b259ec5860fa", null ],
-    [ "MoveInLineOfSight", "d1/d7b/a19583.html#a25424c349fc39f7b42d36ac055f91ad9", null ],
-    [ "UpdateAI", "d1/d7b/a19583.html#a49be60ccd03d75cf56931b870ddf086c", null ]
+    [ "boss_maexxnaAI", "d5/da4/a19587.html", "d5/da4/a19587" ],
+    [ "boss_maexxna", "d1/d7b/a19583.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
+    [ "GetAI", "d1/d7b/a19583.html#ab438df4cb61625da35552ca7c867dc64", null ]
 ];

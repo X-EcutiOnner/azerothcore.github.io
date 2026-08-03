@@ -1,6 +1,6 @@
 var a21543 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "da/d26/a21543.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "da/d26/a21543.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "da/d26/a21543.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "HandleEffectPeriodic", "da/d26/a21543.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "da/d26/a21543.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "da/d26/a21543.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

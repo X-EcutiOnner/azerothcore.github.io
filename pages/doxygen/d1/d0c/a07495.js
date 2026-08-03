@@ -1,15 +1,16 @@
 var a07495 =
 [
-    [ "AuctionHouseSearcher", "d1/d0c/a07495.html#adee77153a7b9efeac149e6c951082986", null ],
-    [ "~AuctionHouseSearcher", "d1/d0c/a07495.html#a84842935539c5ef8b02815cc8697e568", null ],
-    [ "AddAuction", "d1/d0c/a07495.html#a09e01dd8840a50f6b6dd5f70ad9ec10c", null ],
-    [ "NotifyAllWorkers", "d1/d0c/a07495.html#a443577cfba0af003e7e0e8834474a6c1", null ],
-    [ "NotifyOneWorker", "d1/d0c/a07495.html#a1b70b786bf6e57d9d9cae8f34f0d779b", null ],
-    [ "QueueSearchRequest", "d1/d0c/a07495.html#a53caf3298638d325a8b9e97584296ad3", null ],
-    [ "RemoveAuction", "d1/d0c/a07495.html#a145da4d009d9814a4e76fae0d02f33e4", null ],
-    [ "Update", "d1/d0c/a07495.html#ac8c7b88346dc99bed5fe8d0efb28eebb", null ],
-    [ "UpdateBid", "d1/d0c/a07495.html#a7bb50e3e903c73a83469e7323917d40d", null ],
-    [ "_requestQueue", "d1/d0c/a07495.html#ac221abeb9a760c90d6110310970e6463", null ],
-    [ "_responseQueue", "d1/d0c/a07495.html#a772e65025ae498b8837222ae98f49c28", null ],
-    [ "_workerThreads", "d1/d0c/a07495.html#aa1cedd8cb22b840599b97bf7c7df0949", null ]
+    [ "BuildAuctionInfo", "d1/d0c/a07495.html#ae220020b8cbb4e751bfa5798ea95d594", null ],
+    [ "CompareAuctionEntry", "d1/d0c/a07495.html#a7daa9aa634bf2b589ef1906dfc0704d0", null ],
+    [ "SetItemNames", "d1/d0c/a07495.html#a7d56d87bcd100bcb470bc7710c59bf9e", null ],
+    [ "bid", "d1/d0c/a07495.html#a0b2c836d635d9a170b2d70b763c4907b", null ],
+    [ "bidderGuid", "d1/d0c/a07495.html#ada14d168bde5da2b39c93a240941a80a", null ],
+    [ "buyout", "d1/d0c/a07495.html#a978fea69d5c823f71e681903a432ec51", null ],
+    [ "expire_time", "d1/d0c/a07495.html#aa3556fd353c58fda259c7dec52bb3b90", null ],
+    [ "Id", "d1/d0c/a07495.html#aa52368fdef3baed1aed4af459f764b8b", null ],
+    [ "item", "d1/d0c/a07495.html#a05df9a39681c0014a1c398b9bca1cbfe", null ],
+    [ "listFaction", "d1/d0c/a07495.html#a988bdc1b8ae87c3797b24534e853213f", null ],
+    [ "ownerGuid", "d1/d0c/a07495.html#a75e8c535be797d015ed970d896a56c29", null ],
+    [ "ownerName", "d1/d0c/a07495.html#aaca6e4de9cfbc62eb1815c2cf79be123", null ],
+    [ "startbid", "d1/d0c/a07495.html#ae3459d9794539591ae3727bdd6de3e2b", null ]
 ];

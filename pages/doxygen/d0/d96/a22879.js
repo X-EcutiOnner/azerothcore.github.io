@@ -1,8 +1,9 @@
 var a22879 =
 [
-    [ "CalculateAmount", "d0/d96/a22879.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
-    [ "OnPeriodic", "d0/d96/a22879.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
-    [ "PrepareAuraScript", "d0/d96/a22879.html#a1278420b279449c1c6a53b1a7b53f539", null ],
-    [ "Register", "d0/d96/a22879.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
-    [ "Validate", "d0/d96/a22879.html#a601c2db3a8e47d48b956ed102cbca104", null ]
+    [ "HandleAfterCast", "d0/d96/a22879.html#a32928b579ef42f377e911ef27197ed61", null ],
+    [ "HandleDummy", "d0/d96/a22879.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
+    [ "Load", "d0/d96/a22879.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
+    [ "PrepareSpellScript", "d0/d96/a22879.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
+    [ "Register", "d0/d96/a22879.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
+    [ "_targetCount", "d0/d96/a22879.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
 ];

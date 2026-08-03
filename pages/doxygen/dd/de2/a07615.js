@@ -1,5 +1,6 @@
 var a07615 =
 [
-    [ "CreateFilterByUserInput", "dd/de2/a07615.html#ae35ff456f56290032c4c62d252a83690", null ],
-    [ "ParseTypes", "dd/de2/a07615.html#a79a78392d31f1fbf3d8475572d570c1c", null ]
+    [ "attackText", "dd/de2/a07615.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
+    [ "takenText", "dd/de2/a07615.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
+    [ "worldstate", "dd/de2/a07615.html#a342ef087df4f9326952728c2192a3da3", null ]
 ];

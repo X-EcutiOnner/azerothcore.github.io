@@ -1,10 +1,10 @@
 var a23815 =
 [
-    [ "npc_wounded_blood_elfAI", "d9/df1/a23815.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "d9/df1/a23815.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "d9/df1/a23815.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "d9/df1/a23815.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "d9/df1/a23815.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "d9/df1/a23815.html#a5affcb00e28a582f8926ab2226001cd0", null ],
-    [ "WaypointReached", "d9/df1/a23815.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "CheckProc", "d9/df1/a23815.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
+    [ "Load", "d9/df1/a23815.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
+    [ "PrepareAuraScript", "d9/df1/a23815.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
+    [ "Register", "d9/df1/a23815.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
+    [ "_lastForm", "d9/df1/a23815.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
+    [ "_lastSchool", "d9/df1/a23815.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
+    [ "_swapTime", "d9/df1/a23815.html#af832dc200e928df3849ab7d7f93cb412", null ]
 ];

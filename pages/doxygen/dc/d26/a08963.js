@@ -1,10 +1,18 @@
 var a08963 =
 [
-    [ "TradeStatusInfo", "dc/d26/a08963.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
-    [ "IsTargetResult", "dc/d26/a08963.html#a10427d72e5bafd643648638a1fe7e854", null ],
-    [ "ItemLimitedByLimitCategory", "dc/d26/a08963.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
-    [ "Result", "dc/d26/a08963.html#ac90552353a0fb8ff175fec99bf573981", null ],
-    [ "Slot", "dc/d26/a08963.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
-    [ "Status", "dc/d26/a08963.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
-    [ "TraderGuid", "dc/d26/a08963.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
+    [ "PlayerInfo", "dc/d26/a08963.html#a8a26bdeb267824135b3f84baa2585baa", null ],
+    [ "action", "dc/d26/a08963.html#a0f68412598a9741e9b5ce7a42c82d129", null ],
+    [ "areaId", "dc/d26/a08963.html#a60d086c6e6879e6c5d8b5a24c0ae7bf8", null ],
+    [ "castSpells", "dc/d26/a08963.html#a35ab273058db0828c91f01d823467e02", null ],
+    [ "customSpells", "dc/d26/a08963.html#ab40e5fd724fab03afbbd38713e1dd4bf", null ],
+    [ "displayId_f", "dc/d26/a08963.html#adf14854368c9351fe2fba3215194f2f9", null ],
+    [ "displayId_m", "dc/d26/a08963.html#a2ce7d9aa7fc52bd9768c75b88f88b256", null ],
+    [ "item", "dc/d26/a08963.html#ad76819034c64c0c691561eff683b7e57", null ],
+    [ "levelInfo", "dc/d26/a08963.html#abbff546bbe2cc0ea643c41456c1f0d9f", null ],
+    [ "mapId", "dc/d26/a08963.html#ad8d359374f74de40c1c591bb61976405", null ],
+    [ "orientation", "dc/d26/a08963.html#a041a37c356d50860cab9f1ced33a28d0", null ],
+    [ "positionX", "dc/d26/a08963.html#a55a076dc53e8c2d0b2ab11b1087ebccd", null ],
+    [ "positionY", "dc/d26/a08963.html#a7314ecd469357e2eb46ed3d133a5a7a0", null ],
+    [ "positionZ", "dc/d26/a08963.html#ad21a8dd3353d3f141bcc9af65e607aee", null ],
+    [ "skills", "dc/d26/a08963.html#a3bec7891e115ab3cff40c3d95174981c", null ]
 ];

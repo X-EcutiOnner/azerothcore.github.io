@@ -1,7 +1,6 @@
 var a25739 =
 [
-    [ "HandleDummy", "d1/dcc/a25739.html#a7a8016e1403caa0432242c5c3240f107", null ],
-    [ "PrepareSpellScript", "d1/dcc/a25739.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
-    [ "Register", "d1/dcc/a25739.html#abd09f5df3f31af619f24214f90791a53", null ],
-    [ "Validate", "d1/dcc/a25739.html#ab14aedfdb61d54334f60e57968fcf081", null ]
+    [ "CheckProc", "d1/dcc/a25739.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
+    [ "PrepareAuraScript", "d1/dcc/a25739.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
+    [ "Register", "d1/dcc/a25739.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
 ];

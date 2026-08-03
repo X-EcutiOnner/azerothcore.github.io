@@ -1,14 +1,14 @@
 var a12507 =
 [
-    [ "tele_commandscript", "df/d1b/a12507.html#a13d522c3480c5b82071d5f77bd41f942", null ],
-    [ "DoNameTeleport", "df/d1b/a12507.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
-    [ "GetCommands", "df/d1b/a12507.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
-    [ "HandleTeleAddCommand", "df/d1b/a12507.html#a8d429a38c01a19f8c89c87937ef24248", null ],
-    [ "HandleTeleCommand", "df/d1b/a12507.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
-    [ "HandleTeleDelCommand", "df/d1b/a12507.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
-    [ "HandleTeleGroupCommand", "df/d1b/a12507.html#af83e529b482654851a7a1ee77beb107e", null ],
-    [ "HandleTeleNameCommand", "df/d1b/a12507.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
-    [ "HandleTeleNameNpcIdCommand", "df/d1b/a12507.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
-    [ "HandleTeleNameNpcNameCommand", "df/d1b/a12507.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
-    [ "HandleTeleNameNpcSpawnIdCommand", "df/d1b/a12507.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
+    [ "list_commandscript", "df/d1b/a12507.html#a5a85953a46afe08fe05a11fe69c934dc", null ],
+    [ "GetCommands", "df/d1b/a12507.html#a949c6e6f372afb50e1116b6414acdd7c", null ],
+    [ "HandleListAllAurasCommand", "df/d1b/a12507.html#a93f1fe9131b917c813058899efede2a5", null ],
+    [ "HandleListAurasByIdCommand", "df/d1b/a12507.html#a3c59e8b85175ef056b07f566c231c221", null ],
+    [ "HandleListAurasByNameCommand", "df/d1b/a12507.html#a78d6be53ddae80068e2d9c04ea494e24", null ],
+    [ "HandleListCreatureCommand", "df/d1b/a12507.html#a48388f1c839cec6597c74740ec49fa68", null ],
+    [ "HandleListItemCommand", "df/d1b/a12507.html#a7d0aadb081f25c3d533951bd9841f103", null ],
+    [ "HandleListObjectCommand", "df/d1b/a12507.html#ac8b32be8650c9e54388320d650c9761b", null ],
+    [ "HandleListRespawnsCommand", "df/d1b/a12507.html#a463e9471442ef3fa465d3d223876a2db", null ],
+    [ "ListAurasCommand", "df/d1b/a12507.html#a98c9f6fb42e8030d76f234cdb02a72fb", null ],
+    [ "ShouldListAura", "df/d1b/a12507.html#afc42154ec5e978b366780fb600b17e8d", null ]
 ];

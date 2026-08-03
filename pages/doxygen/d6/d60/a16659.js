@@ -1,6 +1,7 @@
 var a16659 =
 [
-    [ "npc_argent_soldierAI", "d7/df1/a16663.html", "d7/df1/a16663" ],
-    [ "npc_argent_soldier", "d6/d60/a16659.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
-    [ "GetAI", "d6/d60/a16659.html#adfeed3d533104b9617dfbb06925a3d44", null ]
+    [ "TwilightCutterSelector", "d6/d60/a16659.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
+    [ "operator()", "d6/d60/a16659.html#a6374425df156bdf202d53a2c73ef784c", null ],
+    [ "_caster", "d6/d60/a16659.html#a784c95ef6472e711f4200f194222d179", null ],
+    [ "_cutterCaster", "d6/d60/a16659.html#a7f713777a36a8d127c2865e4610b1288", null ]
 ];

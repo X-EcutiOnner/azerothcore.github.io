@@ -1,6 +1,6 @@
 var a21491 =
 [
-    [ "npc_dalaran_warriorAI", "dd/d4b/a21495.html", "dd/d4b/a21495" ],
-    [ "npc_dalaran_warrior", "d0/d11/a21491.html#a13d44b85173232ddedcc35184d50549c", null ],
-    [ "GetAI", "d0/d11/a21491.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
+    [ "instance_violet_hold_InstanceMapScript", "dd/d4b/a21495.html", "dd/d4b/a21495" ],
+    [ "instance_violet_hold", "d0/d11/a21491.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
+    [ "GetInstanceScript", "d0/d11/a21491.html#ab459840bcb0c8bcc58d20e658be0f63a", null ]
 ];

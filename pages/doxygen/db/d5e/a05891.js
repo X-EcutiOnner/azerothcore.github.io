@@ -1,9 +1,8 @@
 var a05891 =
 [
-    [ "TimeTrackerSmall", "db/d5e/a05891.html#a38a962c928eac8546d1fd37a094077cc", null ],
-    [ "GetExpiry", "db/d5e/a05891.html#a2ebcfabed1bf252b6afb6c3182142c7b", null ],
-    [ "Passed", "db/d5e/a05891.html#af4455d0ebb784497e9fd1a08cc915062", null ],
-    [ "Reset", "db/d5e/a05891.html#ab8a3c45ffe0e83132e708b5e87625c02", null ],
-    [ "Update", "db/d5e/a05891.html#a6c10a37051caf7c16f1aa057bf2bf7da", null ],
-    [ "i_expiryTime", "db/d5e/a05891.html#a332f650bcfc81fb4b0de1b58ff1e0c9b", null ]
+    [ "category", "db/d5e/a05891.html#a6a53b4b68647fdde65e3c2363127fc4f", null ],
+    [ "char_type", "db/d5e/a05891.html#aaecf7407fc4cff91008168377114d7cd", null ],
+    [ "ACLogSink", "db/d5e/a05891.html#a070880d742fd84b44c4614a76952e589", null ],
+    [ "write", "db/d5e/a05891.html#adad5e421ed10b296eae8b9c52f5e76f5", null ],
+    [ "callback_", "db/d5e/a05891.html#a360b91b740efaa05309725f6678eb22a", null ]
 ];

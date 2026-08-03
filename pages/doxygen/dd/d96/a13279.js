@@ -1,5 +1,11 @@
 var a13279 =
 [
-    [ "textid", "dd/d96/a13279.html#a7dac5c31d7df501f28eee3e1dec0523a", null ],
-    [ "timer", "dd/d96/a13279.html#ab7851f383e7221c6ff2700ee345d9504", null ]
+    [ "boss_tenris_mirkblood", "dd/d96/a13279.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
+    [ "DamageTaken", "dd/d96/a13279.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
+    [ "EnterEvadeMode", "dd/d96/a13279.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
+    [ "JustEngagedWith", "dd/d96/a13279.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
+    [ "KilledUnit", "dd/d96/a13279.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
+    [ "Reset", "dd/d96/a13279.html#a88d46f6e972525979687b315db90dc30", null ],
+    [ "SpellHit", "dd/d96/a13279.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
+    [ "_mirrorTarget", "dd/d96/a13279.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
 ];

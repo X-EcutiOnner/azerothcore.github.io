@@ -1,7 +1,8 @@
 var a23635 =
 [
-    [ "Load", "df/dc9/a23635.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "df/dc9/a23635.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "df/dc9/a23635.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "df/dc9/a23635.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "HandleDummyApply", "df/dc9/a23635.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "df/dc9/a23635.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "df/dc9/a23635.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "df/dc9/a23635.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "df/dc9/a23635.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

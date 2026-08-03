@@ -1,20 +1,11 @@
 var a12223 =
 [
-    [ "Weather", "d5/dbd/a05038.html#gab528c044ef69c717d477eee8eac299b0", null ],
-    [ "~Weather", "d5/dbd/a05038.html#ga8db480edb9459ebf73a1363c6fea0b27", null ],
-    [ "GetScriptId", "d5/dbd/a05038.html#ga07ff1c03b6fb225388d418496c18d3be", null ],
-    [ "GetWeatherState", "d5/dbd/a05038.html#gaed38cecb6af95222638b2177fa48757c", null ],
-    [ "GetZone", "d5/dbd/a05038.html#ga5cf53e440c7da53eb6524ea1d658b0e6", null ],
-    [ "ReGenerate", "d5/dbd/a05038.html#gaea61d86d9a64dd5dbc8ea843aad97eb6", null ],
-    [ "SendFineWeatherUpdateToPlayer", "d5/dbd/a05038.html#gac976d0c6f66bd6ab52932a289e0f9551", null ],
-    [ "SendWeatherUpdateToPlayer", "d5/dbd/a05038.html#gaf9ff2442cc875af4b6ca4bec7f41c965", null ],
-    [ "SetWeather", "d5/dbd/a05038.html#ga32e650a32fc1e01bdb6fbfd960fd022f", null ],
-    [ "Update", "d5/dbd/a05038.html#gaf7a3484daa8221287a4c325fb3a8080c", null ],
-    [ "UpdateWeather", "d5/dbd/a05038.html#gad4885daeab81309a42c2c1fdebcf33ad", null ],
-    [ "m_grade", "d5/dbd/a05038.html#ga5638d204d5986f64eed9d343d086895e", null ],
-    [ "m_map", "d5/dbd/a05038.html#ga3495c619f0ddde94913cbaea0a6354fa", null ],
-    [ "m_timer", "d5/dbd/a05038.html#gadba1100bafe6db8a242bdad35663e909", null ],
-    [ "m_type", "d5/dbd/a05038.html#ga19d9ed53043ba2b9eb3bdc27921501eb", null ],
-    [ "m_weatherChances", "d5/dbd/a05038.html#gaeb74bbd4568c726a2443318aea6313d0", null ],
-    [ "m_zone", "d5/dbd/a05038.html#ga1fd12588331e8f86399378b7bb12317b", null ]
+    [ "WorldUpdateTime", "d2/deb/a12223.html#a97552c4ce99bd40919f199c17fe203ed", null ],
+    [ "LoadFromConfig", "d2/deb/a12223.html#acb2b9d56504fc760e7df1c93621ab788", null ],
+    [ "RecordUpdateTime", "d2/deb/a12223.html#a88d773c8029cebeab6b99444c25c8379", null ],
+    [ "RecordUpdateTimeDuration", "d2/deb/a12223.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
+    [ "SetRecordUpdateTimeInterval", "d2/deb/a12223.html#ada81050229ccacc49d5b6a9f6101174c", null ],
+    [ "_lastRecordTime", "d2/deb/a12223.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
+    [ "_recordUpdateTimeInverval", "d2/deb/a12223.html#a5486477b0a604f0207336e423f42c2b1", null ],
+    [ "_recordUpdateTimeMin", "d2/deb/a12223.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
 ];

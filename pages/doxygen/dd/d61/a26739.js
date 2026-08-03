@@ -1,6 +1,9 @@
 var a26739 =
 [
-    [ "CheckCast", "dd/d61/a26739.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "dd/d61/a26739.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "dd/d61/a26739.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "spell_pal_judgement", "dd/d61/a26739.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
+    [ "HandleScriptEffect", "dd/d61/a26739.html#add419a824dbebdc168d2b6dc49d07913", null ],
+    [ "PrepareSpellScript", "dd/d61/a26739.html#a2cffed69c16a1a6189048ed52af35152", null ],
+    [ "Register", "dd/d61/a26739.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
+    [ "Validate", "dd/d61/a26739.html#a3971c195a279338253771675131b4802", null ],
+    [ "_spellId", "dd/d61/a26739.html#ad49ea02800078c672747f4fdbbab1d20", null ]
 ];

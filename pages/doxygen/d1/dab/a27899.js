@@ -1,6 +1,6 @@
 var a27899 =
 [
-    [ "go_witherbark_totem_bundleAI", "da/d7c/a27903.html", "da/d7c/a27903" ],
-    [ "go_witherbark_totem_bundle", "d1/dab/a27899.html#affcdff7ec6894add0acec842028efd2e", null ],
-    [ "GetAI", "d1/dab/a27899.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
+    [ "HandleHeal", "d1/dab/a27899.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "d1/dab/a27899.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "d1/dab/a27899.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

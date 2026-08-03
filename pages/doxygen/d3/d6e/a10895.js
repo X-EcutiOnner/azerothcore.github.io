@@ -1,6 +1,8 @@
 var a10895 =
 [
-    [ "ShowingCloak", "d3/d6e/a10895.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
-    [ "Read", "d3/d6e/a10895.html#ad72ae43efc070655aa078d9985369442", null ],
-    [ "ShowCloak", "d3/d6e/a10895.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
+    [ "type", "d3/d6e/a10895.html#a93b2e49d8b93d48c1fcf9ce460f965d6", null ],
+    [ "EnabledHooks", "d3/d6e/a10895.html#ac0ca0ab60e350e783c1297a657e32cdc", null ],
+    [ "HasEnabledHooks", "d3/d6e/a10895.html#a8cad14090933423a3bd83b87af723810", null ],
+    [ "LegacyDbValidationCandidate", "d3/d6e/a10895.html#a1c71456b199770112365ee54f0bd28ad", null ],
+    [ "PromotedAfterDbLoad", "d3/d6e/a10895.html#a1800cba1759f5cdee36e47e3aa4ab2e8", null ]
 ];

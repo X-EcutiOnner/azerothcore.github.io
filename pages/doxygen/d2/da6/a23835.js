@@ -1,6 +1,6 @@
 var a23835 =
 [
-    [ "go_magtheridons_head", "d2/da6/a23835.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "d2/da6/a23835.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "d2/da6/a23835.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "OnApply", "d2/da6/a23835.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "d2/da6/a23835.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "d2/da6/a23835.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

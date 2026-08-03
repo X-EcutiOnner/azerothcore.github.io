@@ -1,7 +1,8 @@
 var a21763 =
 [
-    [ "HandleScript", "da/d26/a21763.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "da/d26/a21763.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "da/d26/a21763.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "da/d26/a21763.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_future_youAI", "da/d26/a21763.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "da/d26/a21763.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "da/d26/a21763.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "da/d26/a21763.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "da/d26/a21763.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

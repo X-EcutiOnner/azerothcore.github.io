@@ -1,8 +1,8 @@
 var a03038 =
 [
-    [ "boss_ionar", "d9/d21/a19958.html", "d9/d21/a19958" ],
-    [ "npc_spark_of_ionar", "de/d0f/a19962.html", "de/d0f/a19962" ],
-    [ "spell_ionar_static_overload", "d0/d29/a19966.html", "d0/d29/a19966" ],
+    [ "boss_ionar", "d8/d38/a19955.html", "d8/d38/a19955" ],
+    [ "npc_spark_of_ionar", "d1/d61/a19959.html", "d1/d61/a19959" ],
+    [ "spell_ionar_static_overload", "d4/dcb/a19963.html", "d4/dcb/a19963" ],
     [ "IonarEvents", "d8/d23/a03038.html#a55c0c07978cfe70c0de268fffe25dc01", [
       [ "EVENT_BALL_LIGHTNING", "d8/d23/a03038.html#a55c0c07978cfe70c0de268fffe25dc01a78c3786c67000c32de404a9427b52b06", null ],
       [ "EVENT_STATIC_OVERLOAD", "d8/d23/a03038.html#a55c0c07978cfe70c0de268fffe25dc01ae3a111aaab2ee8146af4226e5480bd76", null ],

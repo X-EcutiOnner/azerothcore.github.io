@@ -1,7 +1,6 @@
 var a10247 =
 [
-    [ "flags", "db/d9b/a10247.html#a7db863994aa6692d1e2359d2c6814cd2", null ],
-    [ "groupId", "db/d9b/a10247.html#ac7efc48c61e715027a8d651fda543ada", null ],
-    [ "mapId", "db/d9b/a10247.html#ad53e068ead632ca66fbebe81e783fc52", null ],
-    [ "name", "db/d9b/a10247.html#a55368217a847f946def13b2123b22ed3", null ]
+    [ "AllowMount", "db/d9b/a10247.html#a611108f0c1f623bb0761a174e477df22", null ],
+    [ "Parent", "db/d9b/a10247.html#a6298c3dd0c8939b1cf228727c363918e", null ],
+    [ "ScriptId", "db/d9b/a10247.html#ac9cdaf7fc486bc89b5c5d95ac13146da", null ]
 ];

@@ -1,10 +1,10 @@
 var a10579 =
 [
-    [ "QuestStatusData", "d4/d3b/a10579.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
-    [ "CreatureOrGOCount", "d4/d3b/a10579.html#aa5892dc0744a41ac565568307f12ad35", null ],
-    [ "Explored", "d4/d3b/a10579.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
-    [ "ItemCount", "d4/d3b/a10579.html#a466999cea52f65bf58916bc34750bf95", null ],
-    [ "PlayerCount", "d4/d3b/a10579.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
-    [ "Status", "d4/d3b/a10579.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
-    [ "Timer", "d4/d3b/a10579.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
+    [ "WaypointMgr", "d4/d3b/a10579.html#a2f038884959f10348bd5b7af3abee7db", null ],
+    [ "GetPath", "d4/d3b/a10579.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
+    [ "instance", "d4/d3b/a10579.html#aacd2ed943503288057b3fb9a935a56e9", null ],
+    [ "Load", "d4/d3b/a10579.html#a69ae451ce07f2e68be81b1a86649115d", null ],
+    [ "LoadWaypointAddons", "d4/d3b/a10579.html#a84df91143dd387b5d4adc7aa8d63045e", null ],
+    [ "ReloadPath", "d4/d3b/a10579.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
+    [ "_waypointStore", "d4/d3b/a10579.html#a15d1c47c7e839538c354ba91775bd9e7", null ]
 ];

@@ -1,10 +1,11 @@
 var a10175 =
 [
-    [ "ZoneDynamicInfo", "d0/dac/a10175.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
-    [ "DefaultWeather", "d0/dac/a10175.html#a8c2c7772596ec58413bee2077e46790f", null ],
-    [ "LightFadeInTime", "d0/dac/a10175.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
-    [ "MusicId", "d0/dac/a10175.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
-    [ "OverrideLightId", "d0/dac/a10175.html#a0d43acd5539d3449b7c36ee88518346e", null ],
-    [ "WeatherGrade", "d0/dac/a10175.html#a923c3231c49554addd1522f0ccc50e2d", null ],
-    [ "WeatherId", "d0/dac/a10175.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
+    [ "DeleteEmptyExpiredMail", "d0/dac/a10175.html#a3cd0e2570c8c684d09931331dfb5837f", null ],
+    [ "instance", "d0/dac/a10175.html#abe24c4d840d5f2b05958a44cd63b8b35", null ],
+    [ "LoadMailCounts", "d0/dac/a10175.html#a6786cc5036259c23256b669da1146012", null ],
+    [ "OnMailDeleted", "d0/dac/a10175.html#a699bf593d7f00470878504141e7fe3df", null ],
+    [ "OnMailReturned", "d0/dac/a10175.html#ac355df32c38e8619cf18cee283894c64", null ],
+    [ "OnMailSent", "d0/dac/a10175.html#ad22a9a0cf09a5dc7acaf14dfdd0bcdbf", null ],
+    [ "RecountMailCount", "d0/dac/a10175.html#a595b8b31c9695c8bbec64e2f982853d0", null ],
+    [ "ReturnOrDeleteOldMails", "d0/dac/a10175.html#ab4ef5f6ca91286c732b257f267b06f14", null ]
 ];

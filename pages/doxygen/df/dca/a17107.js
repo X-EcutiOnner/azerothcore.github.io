@@ -1,7 +1,5 @@
 var a17107 =
 [
-    [ "HandleScript", "df/dca/a17107.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
-    [ "PrepareSpellScript", "df/dca/a17107.html#a71b28156c628aacbc6cb481038c0e76c", null ],
-    [ "Register", "df/dca/a17107.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
-    [ "Validate", "df/dca/a17107.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
+    [ "boss_eydisAI", "df/dca/a17107.html#a0e97e184b2a2f610730cd3d455702955", null ],
+    [ "JustSummoned", "df/dca/a17107.html#aa5ae64cfe003a25859364a12cb871199", null ]
 ];

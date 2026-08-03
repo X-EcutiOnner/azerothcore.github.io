@@ -1,6 +1,25 @@
 var a20343 =
 [
-    [ "FilterTargets", "d6/d6c/a20343.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "d6/d6c/a20343.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "d6/d6c/a20343.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "boss_freya", "d6/d6c/a20343.html#a5379adaaa876662bcc6ffcd38cfc59bb", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d6/d6c/a20343.html#a195b0021b1ac0274884fb2106ee8d85d", null ],
+    [ "DamageTaken", "d6/d6c/a20343.html#a8ba5d1999e8f4ae7fb240436771d6c39", null ],
+    [ "DoAction", "d6/d6c/a20343.html#a099f983a17e002990aaecbb0995bb3b0", null ],
+    [ "GetData", "d6/d6c/a20343.html#aa648b02fb1531fd434fce9ccf62332c0", null ],
+    [ "JustEngagedWith", "d6/d6c/a20343.html#a85a00b03079df9ce9b8fa035820c959b", null ],
+    [ "JustReachedHome", "d6/d6c/a20343.html#a577c8714fef829a57533c1cfbd400dc0", null ],
+    [ "KilledUnit", "d6/d6c/a20343.html#a378a92e671be526e4f30feeb3ecf25e7", null ],
+    [ "MovementInform", "d6/d6c/a20343.html#a80b5910abe85c2f1350c5f91aabd3fa4", null ],
+    [ "Reset", "d6/d6c/a20343.html#abadf6447f33116039e82065ce44f4322", null ],
+    [ "SpawnWave", "d6/d6c/a20343.html#af1f486e8725a2710b237fe233f7fe181", null ],
+    [ "SpellHit", "d6/d6c/a20343.html#a3d449abdf7cc8241bedbcfe8f9d37175", null ],
+    [ "SpellHitTarget", "d6/d6c/a20343.html#a22c4097731727de032fd6db3c9cef7cf", null ],
+    [ "UpdateAI", "d6/d6c/a20343.html#a1ea7d6b65ceaa7d1c485685df40682f9", null ],
+    [ "_backToNature", "d6/d6c/a20343.html#ab29a12f6a5ff5fd6ce579ebfceb6323c", null ],
+    [ "_deforestation", "d6/d6c/a20343.html#a6c3e874ea83c564c93b6c7599e1174bd", null ],
+    [ "_elderGUID", "d6/d6c/a20343.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],
+    [ "_lumberjacked", "d6/d6c/a20343.html#aa35101951b2d47848b69170ab36ae414", null ],
+    [ "_respawningTrio", "d6/d6c/a20343.html#a9e0326bd0eff372fca2b5e0e310dd1da", null ],
+    [ "_setPermutation", "d6/d6c/a20343.html#a987265a1775e47ac50e873c38cc1a753", null ],
+    [ "_spawnedAmount", "d6/d6c/a20343.html#aafbd2fcaccdc5890f513054d6840ed55", null ],
+    [ "_trioKilled", "d6/d6c/a20343.html#ae141a7cf3554c606738774fe96a371dc", null ]
 ];

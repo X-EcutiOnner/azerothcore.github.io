@@ -1,7 +1,9 @@
 var a18143 =
 [
-    [ "npc_coldflameAI", "dc/ddc/a18143.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "dc/ddc/a18143.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "dc/ddc/a18143.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "dc/ddc/a18143.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "CheckAreaTarget", "dc/ddc/a18143.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
+    [ "HandleApply", "dc/ddc/a18143.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
+    [ "Load", "dc/ddc/a18143.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
+    [ "PrepareAuraScript", "dc/ddc/a18143.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
+    [ "Register", "dc/ddc/a18143.html#a8f476129e0678149463c4b16232f6cb6", null ],
+    [ "_teamIdInInstance", "dc/ddc/a18143.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
 ];

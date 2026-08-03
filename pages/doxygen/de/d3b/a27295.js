@@ -1,6 +1,6 @@
 var a27295 =
 [
-    [ "CheckProc", "de/d3b/a27295.html#a945c4617cba249ee76045ce032f12c3c", null ],
-    [ "PrepareAuraScript", "de/d3b/a27295.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
-    [ "Register", "de/d3b/a27295.html#a912dd7ea10038103bb6d242bb7723830", null ]
+    [ "HandleScript", "de/d3b/a27295.html#a54c724bd8786c894ecaa584c164c2e53", null ],
+    [ "PrepareSpellScript", "de/d3b/a27295.html#a4505b9196609ae9339fe7e5948963663", null ],
+    [ "Register", "de/d3b/a27295.html#ae293d6a2a477f716f357516781246069", null ]
 ];

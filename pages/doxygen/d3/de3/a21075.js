@@ -1,9 +1,7 @@
 var a21075 =
 [
-    [ "CastTheNextTwoSpells", "d3/de3/a21075.html#a70a154ea5c19c36630e94c5214ee6722", null ],
-    [ "OnPeriodic", "d3/de3/a21075.html#ac9b99d9328affec2787691f80e0cc9c3", null ],
-    [ "PrepareAuraScript", "d3/de3/a21075.html#ac7450be0713ce98e7986d322a58289f6", null ],
-    [ "PushBackTheNextTwoSpells", "d3/de3/a21075.html#a9e470116c80cf56b425e344d73e44533", null ],
-    [ "Register", "d3/de3/a21075.html#ad948e7cb5a64ed5bd202c10b28285d9c", null ],
-    [ "_summonSpells", "d3/de3/a21075.html#a578dbb8c828e3acf36b21a38628c94e1", null ]
+    [ "HandleEffectCalcPeriodic", "d3/de3/a21075.html#af01eb94174952de52615734055b17c1a", null ],
+    [ "HandleEffectPeriodic", "d3/de3/a21075.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
+    [ "PrepareAuraScript", "d3/de3/a21075.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
+    [ "Register", "d3/de3/a21075.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
 ];

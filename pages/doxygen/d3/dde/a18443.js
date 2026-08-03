@@ -1,9 +1,12 @@
 var a18443 =
 [
-    [ "AfterApply", "d3/dde/a18443.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
-    [ "ExtraRemoveEffect", "d3/dde/a18443.html#a9f427761fcca9029eb75d586e5876fcd", null ],
-    [ "PeriodicTick", "d3/dde/a18443.html#a82430399e44001343f322b2c3b7769a5", null ],
-    [ "PrepareAuraScript", "d3/dde/a18443.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
-    [ "Register", "d3/dde/a18443.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
-    [ "Validate", "d3/dde/a18443.html#ae20873e93fbace6272a793993fb45349", null ]
+    [ "npc_precious_iccAI", "d3/dde/a18443.html#a90dff89c652339ecf7479d2c9233962a", null ],
+    [ "JustDied", "d3/dde/a18443.html#a06671144929a3783f17397b818016032", null ],
+    [ "JustEngagedWith", "d3/dde/a18443.html#a05cd30f0bf149d16c75ad3f717cb9dcc", null ],
+    [ "JustSummoned", "d3/dde/a18443.html#adafed6974cbd70ccfc0f9ee83732d162", null ],
+    [ "Reset", "d3/dde/a18443.html#a9ecb9771140d1248c08c56886c8d4ca9", null ],
+    [ "SummonedCreatureDespawn", "d3/dde/a18443.html#af59e24c588861fe7d1bcd456780f571a", null ],
+    [ "UpdateAI", "d3/dde/a18443.html#a1fd3a4d7d16bb93be68d8b135546ab1e", null ],
+    [ "events", "d3/dde/a18443.html#a4ac57f4ffe0886f463378b42525e2e4d", null ],
+    [ "summons", "d3/dde/a18443.html#ab752e504c7cf463a4447a07fbb67211c", null ]
 ];

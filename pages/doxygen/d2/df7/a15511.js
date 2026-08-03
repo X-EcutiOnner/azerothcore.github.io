@@ -1,7 +1,9 @@
 var a15511 =
 [
-    [ "npc_hivezara_stinger", "d2/df7/a15511.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "d2/df7/a15511.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "d2/df7/a15511.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "d2/df7/a15511.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "spell_gen_ayamiss_swarmer_loop", "d2/df7/a15511.html#ad910e172ef6866f102fa3407f676169a", null ],
+    [ "HandleScript", "d2/df7/a15511.html#acd0dffad436cb414deb546b192957783", null ],
+    [ "Load", "d2/df7/a15511.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
+    [ "PrepareSpellScript", "d2/df7/a15511.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
+    [ "Register", "d2/df7/a15511.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
+    [ "_pathId", "d2/df7/a15511.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
 ];

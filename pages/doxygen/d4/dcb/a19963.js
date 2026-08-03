@@ -1,11 +1,7 @@
 var a19963 =
 [
-    [ "npc_living_constellation", "d4/dcb/a19963.html#afb5daeb17d2a7c1ae6093ebac41addb7", null ],
-    [ "DoAction", "d4/dcb/a19963.html#a45ba20e86f9d3c041260c88130521a61", null ],
-    [ "GetData", "d4/dcb/a19963.html#ad698d91c81b0872385d9c5bee9ca8dd7", null ],
-    [ "Reset", "d4/dcb/a19963.html#a66e2b985ccc92ff996017ece6d4ef74c", null ],
-    [ "SpellHit", "d4/dcb/a19963.html#a402c1da5e1dfbeadd8413fa0d77146d5", null ],
-    [ "UpdateAI", "d4/dcb/a19963.html#a0f7faec1aa3c67b8f03076ae0a52169d", null ],
-    [ "_isActive", "d4/dcb/a19963.html#a810c918ac2523f04d8364f507e6c01bb", null ],
-    [ "events", "d4/dcb/a19963.html#aaa9152db699878d67e8b8288d729fca3", null ]
+    [ "OnRemove", "d4/dcb/a19963.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "d4/dcb/a19963.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "d4/dcb/a19963.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "d4/dcb/a19963.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

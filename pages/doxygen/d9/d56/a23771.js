@@ -1,5 +1,8 @@
 var a23771 =
 [
-    [ "go_simon_cluster", "d9/d56/a23771.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "d9/d56/a23771.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "boss_commander_sarannis", "d9/d56/a23771.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "d9/d56/a23771.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "d9/d56/a23771.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "d9/d56/a23771.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "d9/d56/a23771.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

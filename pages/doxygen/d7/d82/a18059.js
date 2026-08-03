@@ -1,7 +1,8 @@
 var a18059 =
 [
-    [ "PrepareSpellScript", "d7/d82/a18059.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
-    [ "Register", "d7/d82/a18059.html#aff4f05a5a4742a408646000b7cece38c", null ],
-    [ "RemovePassengers", "d7/d82/a18059.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
-    [ "Validate", "d7/d82/a18059.html#a2a8da9d150804f979f2313f623ad7760", null ]
+    [ "HandlePeriodic", "d7/d82/a18059.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "d7/d82/a18059.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "d7/d82/a18059.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "d7/d82/a18059.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "d7/d82/a18059.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

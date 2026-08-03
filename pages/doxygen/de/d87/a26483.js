@@ -1,11 +1,7 @@
 var a26483 =
 [
-    [ "CheckCast", "de/d87/a26483.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
-    [ "HandleMaxHealthHeal", "de/d87/a26483.html#a019833641487ac07cb2c8740d5686a41", null ],
-    [ "HandleScript", "de/d87/a26483.html#a35b9d69b8147ef06527b8533ef376e72", null ],
-    [ "Load", "de/d87/a26483.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
-    [ "PrepareSpellScript", "de/d87/a26483.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
-    [ "Register", "de/d87/a26483.html#afd716f555ac73287bd268c6124b15b1c", null ],
-    [ "Validate", "de/d87/a26483.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
-    [ "_manaAmount", "de/d87/a26483.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
+    [ "CalcPeriodic", "de/d87/a26483.html#a404e5309016cfcaa3071c0216978699e", null ],
+    [ "PrepareAuraScript", "de/d87/a26483.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
+    [ "Register", "de/d87/a26483.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
+    [ "AuraEffectHandleModes", "de/d87/a26483.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
 ];

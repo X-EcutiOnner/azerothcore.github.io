@@ -1,9 +1,7 @@
 var a08331 =
 [
-    [ "LFGPlayerScript", "d5/d2f/a08331.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
-    [ "OnPlayerBindToInstance", "d5/d2f/a08331.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
-    [ "OnPlayerLevelChanged", "d5/d2f/a08331.html#afd530a2823a7187b49645c9d0625c8ba", null ],
-    [ "OnPlayerLogin", "d5/d2f/a08331.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
-    [ "OnPlayerLogout", "d5/d2f/a08331.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
-    [ "OnPlayerMapChanged", "d5/d2f/a08331.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
+    [ "LfgJoinResultData", "d5/d2f/a08331.html#a1d711d49a6b49f55eb3771352b294b95", null ],
+    [ "lockmap", "d5/d2f/a08331.html#aff918b3c02ca76982a964402175f8ad7", null ],
+    [ "result", "d5/d2f/a08331.html#aa713cbc1930962d520883523f6f6446c", null ],
+    [ "state", "d5/d2f/a08331.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
 ];

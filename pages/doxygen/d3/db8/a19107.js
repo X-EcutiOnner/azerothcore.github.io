@@ -1,7 +1,5 @@
 var a19107 =
 [
-    [ "HandleEffectPeriodic", "d3/db8/a19107.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
-    [ "PrepareAuraScript", "d3/db8/a19107.html#ae040da0db1147652266e1f373838df37", null ],
-    [ "Register", "d3/db8/a19107.html#ab11b84522134ee4d13504df3c19f69b8", null ],
-    [ "Validate", "d3/db8/a19107.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
+    [ "npc_alchemist_adrianna", "d3/db8/a19107.html#a310d375bc73c51e407580b063a6543fa", null ],
+    [ "OnGossipHello", "d3/db8/a19107.html#a02ec6a66037d72e30bbe821ceee38691", null ]
 ];

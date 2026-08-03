@@ -1,12 +1,12 @@
 var a04475 =
 [
-    [ "npc_aquementas", "d5/d7f/a16118.html", "d5/d7f/a16118" ],
-    [ "npc_aquementas::npc_aquementasAI", "de/dcc/a16122.html", "de/dcc/a16122" ],
-    [ "npc_custodian_of_time", "d1/d57/a16126.html", "d1/d57/a16126" ],
-    [ "npc_custodian_of_time::npc_custodian_of_timeAI", "da/d28/a16130.html", "da/d28/a16130" ],
-    [ "npc_steward_of_time", "d6/d36/a16134.html", "d6/d36/a16134" ],
-    [ "npc_tooga", "d6/d5e/a16138.html", "d6/d5e/a16138" ],
-    [ "npc_tooga::npc_toogaAI", "d8/dac/a16142.html", "d8/dac/a16142" ],
+    [ "npc_aquementas", "db/d65/a16115.html", "db/d65/a16115" ],
+    [ "npc_aquementas::npc_aquementasAI", "d1/d06/a16119.html", "d1/d06/a16119" ],
+    [ "npc_custodian_of_time", "d0/d69/a16123.html", "d0/d69/a16123" ],
+    [ "npc_custodian_of_time::npc_custodian_of_timeAI", "dc/d3a/a16127.html", "dc/d3a/a16127" ],
+    [ "npc_steward_of_time", "d1/db1/a16131.html", "d1/db1/a16131" ],
+    [ "npc_tooga", "d7/dab/a16135.html", "d7/dab/a16135" ],
+    [ "npc_tooga::npc_toogaAI", "d4/d15/a16139.html", "d4/d15/a16139" ],
     [ "Aquementas", "d5/d8a/a04475.html#a664764efa00aaadfd6e4510fe26486d8", [
       [ "AGGRO_YELL_AQUE", "d5/d8a/a04475.html#a664764efa00aaadfd6e4510fe26486d8a704ce77b08e582a06d3e38b4714ff5e3", null ],
       [ "SPELL_AQUA_JET", "d5/d8a/a04475.html#a664764efa00aaadfd6e4510fe26486d8a4ee489332c793185c566210d9bf91269", null ],

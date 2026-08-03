@@ -1,10 +1,10 @@
 var a29243 =
 [
-    [ "BugfixVersion", "dc/d2f/a29243.html#a461f8c749a874405584dc1fd3fe1d805", null ],
-    [ "Build", "dc/d2f/a29243.html#a6cc7aff1b397df7333b9bb0003282abd", null ],
-    [ "HotfixVersion", "dc/d2f/a29243.html#a0df61c036a57b8a3efde5d180dc38131", null ],
-    [ "MacHash", "dc/d2f/a29243.html#ad59772e86371318fe975760e303fa7d9", null ],
-    [ "MajorVersion", "dc/d2f/a29243.html#a0eb78564680f771e325536a0ab77382a", null ],
-    [ "MinorVersion", "dc/d2f/a29243.html#a7140f7ef9540eff08fabf74ded68b9cc", null ],
-    [ "WindowsHash", "dc/d2f/a29243.html#a96abd69a458dfc4363c4e545fc7fabab", null ]
+    [ "ID", "dc/d2f/a29243.html#a906c42770a619884f08b67e2870bff93", null ],
+    [ "reqarenapoints", "dc/d2f/a29243.html#a5d45007a832d6120e29c7821c07646de", null ],
+    [ "reqarenaslot", "dc/d2f/a29243.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
+    [ "reqhonorpoints", "dc/d2f/a29243.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
+    [ "reqitem", "dc/d2f/a29243.html#a9cba8872c909260a55dcfdf7f4726899", null ],
+    [ "reqitemcount", "dc/d2f/a29243.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
+    [ "reqpersonalarenarating", "dc/d2f/a29243.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
 ];

@@ -1,7 +1,12 @@
 var a19327 =
 [
-    [ "OnApply", "da/dea/a19327.html#a72a01dea703436b2a220a9976da60fa6", null ],
-    [ "PrepareAuraScript", "da/dea/a19327.html#adb17425258d4fb2c0c464236e15f32d7", null ],
-    [ "Register", "da/dea/a19327.html#af026c126029c68ed8b7c6c1886720e4c", null ],
-    [ "Validate", "da/dea/a19327.html#a5674396828adf4e80102ed2277f1e08a", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "da/dea/a19327.html#a2e3abb6f8889b8df818e8260e6428375", null ],
+    [ "InitializeAI", "da/dea/a19327.html#ac39bb8074ebb7106b426f507b73b368e", null ],
+    [ "JustEngagedWith", "da/dea/a19327.html#ae69a8fd357856d0ec6a944ca8c0007ca", null ],
+    [ "MoveInLineOfSight", "da/dea/a19327.html#a846fe2784308eb694f5f482133a33a7f", null ],
+    [ "MovementInform", "da/dea/a19327.html#a9a5584eea4bc08f55ddfd7efe23bce2e", null ],
+    [ "Reset", "da/dea/a19327.html#afbb260e4968865e7c4141e73a050e663", null ],
+    [ "UpdateAI", "da/dea/a19327.html#ad63d3a91bdd677a9cdd497198860cac6", null ],
+    [ "_didWebBeam", "da/dea/a19327.html#a8772cf938d30ddcc439d3912db578dfa", null ],
+    [ "events", "da/dea/a19327.html#ac1b5b05f9fbaf1879c95bc7127fcb6e9", null ]
 ];

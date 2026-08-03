@@ -1,6 +1,7 @@
 var a21195 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d1/d63/a21199.html", "d1/d63/a21199" ],
-    [ "npc_frozen_orb_stalker", "dd/d11/a21195.html#a7f025c829106aa6668427f913d07a722", null ],
-    [ "GetAI", "dd/d11/a21195.html#af33e27138a70286bac561113ed09f350", null ]
+    [ "HandleEffectPeriodic", "dd/d11/a21195.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
+    [ "PrepareAuraScript", "dd/d11/a21195.html#a748cd347867557b5048d9ba0c112cd80", null ],
+    [ "Register", "dd/d11/a21195.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
+    [ "Validate", "dd/d11/a21195.html#afa86789ef14b1d06094705ba6cfb9205", null ]
 ];

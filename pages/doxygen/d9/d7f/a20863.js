@@ -1,6 +1,5 @@
 var a20863 =
 [
-    [ "CheckCast", "d9/d7f/a20863.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "d9/d7f/a20863.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "d9/d7f/a20863.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "d9/d7f/a20863.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "d9/d7f/a20863.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

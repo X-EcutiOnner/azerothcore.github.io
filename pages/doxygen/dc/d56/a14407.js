@@ -1,6 +1,12 @@
 var a14407 =
 [
-    [ "boss_grilekAI", "d2/db2/a14411.html", "d2/db2/a14411" ],
-    [ "boss_grilek", "dc/d56/a14407.html#acffe0061db18c5725c8c290822c5fed7", null ],
-    [ "GetAI", "dc/d56/a14407.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
+    [ "npc_forest_frog", "dc/d56/a14407.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
+    [ "DoSpawnRandom", "dc/d56/a14407.html#aac140826b8c4b7ce55925b5abeee936e", null ],
+    [ "JustEngagedWith", "dc/d56/a14407.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
+    [ "MovementInform", "dc/d56/a14407.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
+    [ "SpellHit", "dc/d56/a14407.html#a9501955507e1f236bb48384928fd6a32", null ],
+    [ "UpdateAI", "dc/d56/a14407.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
+    [ "eventTimer", "dc/d56/a14407.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
+    [ "instance", "dc/d56/a14407.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
+    [ "PlayerGUID", "dc/d56/a14407.html#a3544a83bb22e12d247e562ef32e378c0", null ]
 ];

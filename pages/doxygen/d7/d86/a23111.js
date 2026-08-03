@@ -1,7 +1,6 @@
 var a23111 =
 [
-    [ "HandleProc", "d7/d86/a23111.html#a03b2be5894d489a6021aff2744aee0e0", null ],
-    [ "PrepareAuraScript", "d7/d86/a23111.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
-    [ "Register", "d7/d86/a23111.html#a804e1bc3d570d28cb2e06155054f3169", null ],
-    [ "Validate", "d7/d86/a23111.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
+    [ "HandleProc", "d7/d86/a23111.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
+    [ "PrepareAuraScript", "d7/d86/a23111.html#a94b244ef26355d53c874aec6d26f3a53", null ],
+    [ "Register", "d7/d86/a23111.html#a9499d88802213ceb877e19d1651324f2", null ]
 ];

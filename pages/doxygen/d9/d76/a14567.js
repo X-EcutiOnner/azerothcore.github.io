@@ -1,10 +1,6 @@
 var a14567 =
 [
-    [ "npc_zealot_lorkhan", "d9/d76/a14567.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
-    [ "JustDied", "d9/d76/a14567.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
-    [ "JustEngagedWith", "d9/d76/a14567.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
-    [ "Reset", "d9/d76/a14567.html#abecbd4a2ea2cf3281244933fe7484239", null ],
-    [ "UpdateAI", "d9/d76/a14567.html#a68c35734f8886b2c241dcbc178899206", null ],
-    [ "_scheduler", "d9/d76/a14567.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
-    [ "instance", "d9/d76/a14567.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
+    [ "HandleOnHit", "d9/d76/a14567.html#a76b09288d14d399735250607e2105eb3", null ],
+    [ "PrepareSpellScript", "d9/d76/a14567.html#a2270ce546ae286ffa701d094df591aa2", null ],
+    [ "Register", "d9/d76/a14567.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
 ];

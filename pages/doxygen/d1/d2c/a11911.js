@@ -1,4 +1,5 @@
 var a11911 =
 [
-    [ "spellid", "d1/d2c/a11911.html#a14f5dd3b53f06437074965e9b7753e89", null ]
+    [ "WorldObjectSpellTrajTargetCheck", "d1/d2c/a11911.html#a0c08b6b4c7878678eb419a556f718be0", null ],
+    [ "operator()", "d1/d2c/a11911.html#aa1f7772cdb19914cc365a325f801b5d5", null ]
 ];

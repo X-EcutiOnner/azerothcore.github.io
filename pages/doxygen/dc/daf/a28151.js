@@ -1,10 +1,7 @@
 var a28151 =
 [
-    [ "npc_prof_blacksmith", "dc/daf/a28151.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "dc/daf/a28151.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "dc/daf/a28151.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "dc/daf/a28151.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "dc/daf/a28151.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "dc/daf/a28151.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "dc/daf/a28151.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "FilterTargets", "dc/daf/a28151.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
+    [ "HandleEffect", "dc/daf/a28151.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
+    [ "PrepareSpellScript", "dc/daf/a28151.html#a53b5772c87574beb5b295c26fe983b76", null ],
+    [ "Register", "dc/daf/a28151.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
 ];

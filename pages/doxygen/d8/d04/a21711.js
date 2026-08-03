@@ -1,7 +1,9 @@
 var a21711 =
 [
-    [ "HandleScriptEffect", "d8/d04/a21711.html#a2d39a073c351860db735301b4cf9c79f", null ],
-    [ "PrepareSpellScript", "d8/d04/a21711.html#a3674adaef23f1531af360a65c14efadd", null ],
-    [ "Register", "d8/d04/a21711.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
-    [ "Validate", "d8/d04/a21711.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
+    [ "npc_mageguard_dalaranAI", "d8/d04/a21711.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
+    [ "AttackStart", "d8/d04/a21711.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
+    [ "JustEngagedWith", "d8/d04/a21711.html#aac463689ae5a488ec2acb8a0310689d8", null ],
+    [ "MoveInLineOfSight", "d8/d04/a21711.html#aafb32462693e0efd9c80cf335f489754", null ],
+    [ "Reset", "d8/d04/a21711.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
+    [ "UpdateAI", "d8/d04/a21711.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
 ];

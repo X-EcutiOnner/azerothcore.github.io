@@ -1,6 +1,9 @@
 var a22439 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "db/d87/a22443.html", "db/d87/a22443" ],
-    [ "instance_sethekk_halls", "d2/d26/a22439.html#ab50d296266cf377bfb34750ec36963ef", null ],
-    [ "GetInstanceScript", "d2/d26/a22439.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
+    [ "HandleFinish", "d2/d26/a22439.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "d2/d26/a22439.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "d2/d26/a22439.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "d2/d26/a22439.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "d2/d26/a22439.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "d2/d26/a22439.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

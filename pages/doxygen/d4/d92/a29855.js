@@ -1,13 +1,10 @@
 var a29855 =
 [
-    [ "MPQArchive", "d4/d92/a29855.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "d4/d92/a29855.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "MPQArchive", "d4/d92/a29855.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "d4/d92/a29855.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "close", "d4/d92/a29855.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "close", "d4/d92/a29855.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "GetFileListTo", "d4/d92/a29855.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "GetFileListTo", "d4/d92/a29855.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "isOpened", "d4/d92/a29855.html#a2026335b9ede29197acfaac8513456d5", null ],
-    [ "mpq_a", "d4/d92/a29855.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
+    [ "FakeAura", "d4/d92/a29855.html#a72674203b5aa768aaec46bc824c66ad8", null ],
+    [ "IsExpired", "d4/d92/a29855.html#af55fe68d7548abe43fbbe391163dcbf4", null ],
+    [ "IsRemoved", "d4/d92/a29855.html#ad4b4a547d5596ad39d46125ded1c0863", null ],
+    [ "expired", "d4/d92/a29855.html#a9de4d15b90ea8e89a5a3dd95122f5ff9", null ],
+    [ "removed", "d4/d92/a29855.html#a0ea41ca4e60c4c56228687ca6038695f", null ],
+    [ "spellId", "d4/d92/a29855.html#ab08e902dae2b24d869c2befe1e9a74a2", null ],
+    [ "updated", "d4/d92/a29855.html#aacbde7f93cb160ed272a4b3ddd18f1ee", null ]
 ];

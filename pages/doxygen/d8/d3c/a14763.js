@@ -1,6 +1,7 @@
 var a14763 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "d0/d4f/a14767.html", "d0/d4f/a14767" ],
-    [ "npc_grizzlemaw_cw_trigger", "d8/d3c/a14763.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
-    [ "GetAI", "d8/d3c/a14763.html#a1a834bda866033a3cca4fc4ece447313", null ]
+    [ "npc_direbrew_minion", "d8/d3c/a14763.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "d8/d3c/a14763.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "d8/d3c/a14763.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "d8/d3c/a14763.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

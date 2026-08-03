@@ -1,7 +1,6 @@
 var a26199 =
 [
-    [ "HandleProc", "df/d1c/a26199.html#a19c34d190abeab629f48cbbaaa066cf8", null ],
-    [ "PrepareAuraScript", "df/d1c/a26199.html#aaf5c649ef33b57ac964613308d3357d1", null ],
-    [ "Register", "df/d1c/a26199.html#aed9d3ef3406aea2656b34230229241de", null ],
-    [ "Validate", "df/d1c/a26199.html#a7f0074e18ffddba1383b01ce774ecff5", null ]
+    [ "PrepareSpellScript", "df/d1c/a26199.html#a738e105a48f6c603f3d9a690f44b8745", null ],
+    [ "Register", "df/d1c/a26199.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
+    [ "SetDest", "df/d1c/a26199.html#a59641895cead08de4a4503262505ee73", null ]
 ];

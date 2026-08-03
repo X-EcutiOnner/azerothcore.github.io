@@ -1,6 +1,6 @@
 var a24207 =
 [
-    [ "DeathEvent", "d4/dd1/a24207.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "d4/dd1/a24207.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "d4/dd1/a24207.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "npc_dragonmaw_peonAI", "d4/dc3/a24211.html", "d4/dc3/a24211" ],
+    [ "npc_dragonmaw_peon", "d4/dd1/a24207.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
+    [ "GetAI", "d4/dd1/a24207.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
 ];

@@ -1,5 +1,7 @@
 var a19183 =
 [
-    [ "npc_icc_buff_switcher", "de/d20/a19183.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
-    [ "OnGossipSelect", "de/d20/a19183.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
+    [ "HandleEvent", "de/d20/a19183.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
+    [ "PrepareSpellScript", "de/d20/a19183.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
+    [ "Register", "de/d20/a19183.html#a96c6a479141f765b9c0f96b5f148a428", null ],
+    [ "Validate", "de/d20/a19183.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
 ];

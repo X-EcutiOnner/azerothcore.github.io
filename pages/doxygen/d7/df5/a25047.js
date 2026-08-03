@@ -1,6 +1,6 @@
 var a25047 =
 [
-    [ "HandleEffectPeriodic", "d7/df5/a25047.html#a248ba0e88498e36355491b2b89063e17", null ],
-    [ "PrepareAuraScript", "d7/df5/a25047.html#ac9aed434fe7602ef846e9f052402620e", null ],
-    [ "Register", "d7/df5/a25047.html#a039eec910c802276b9e979253141cdee", null ]
+    [ "CheckAreaTarget", "d7/df5/a25047.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
+    [ "PrepareAuraScript", "d7/df5/a25047.html#a2b6dbd33e34357917f662000a1cd932f", null ],
+    [ "Register", "d7/df5/a25047.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
 ];

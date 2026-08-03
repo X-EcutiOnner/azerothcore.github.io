@@ -1,8 +1,5 @@
 var a26511 =
 [
-    [ "CheckProc", "d5/de4/a26511.html#ad6222902fd6882322ba082981e151c45", null ],
-    [ "HandleProc", "d5/de4/a26511.html#a4d90d29e4e11470076c759831836057d", null ],
-    [ "PrepareAuraScript", "d5/de4/a26511.html#a5be2448ea5014c611dbaa262d49ff151", null ],
-    [ "Register", "d5/de4/a26511.html#a4f78fb7ae8bef4e9dd2a29205bcec83e", null ],
-    [ "Validate", "d5/de4/a26511.html#a9d0797992a6f3bfd5bd9f678c4465a4c", null ]
+    [ "Trigger", "d5/de4/a26511.html#aa16aba75a066e83cb56660a0e29e7453", null ],
+    [ "Validate", "d5/de4/a26511.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
 ];

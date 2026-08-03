@@ -1,7 +1,8 @@
 var a21551 =
 [
-    [ "CheckCast", "d3/df8/a21551.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
-    [ "HandleScript", "d3/df8/a21551.html#a8128bb2d7588409dae73bed78d5285a7", null ],
-    [ "PrepareSpellScript", "d3/df8/a21551.html#aee17a8a21ec5df027082c6990189dccc", null ],
-    [ "Register", "d3/df8/a21551.html#a2a97265e102e9ce31997d99275b42973", null ]
+    [ "HandleEffectRemove", "d3/df8/a21551.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "d3/df8/a21551.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "d3/df8/a21551.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "d3/df8/a21551.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "d3/df8/a21551.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

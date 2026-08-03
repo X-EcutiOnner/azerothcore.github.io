@@ -1,9 +1,6 @@
 var a21395 =
 [
-    [ "npc_warmage_coldarraAI", "d8/d7f/a21395.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "d8/d7f/a21395.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "d8/d7f/a21395.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "d8/d7f/a21395.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "d8/d7f/a21395.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "d8/d7f/a21395.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "boss_koralonAI", "db/d40/a21399.html", "db/d40/a21399" ],
+    [ "boss_koralon", "d8/d7f/a21395.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "d8/d7f/a21395.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

@@ -1,11 +1,6 @@
 var a13443 =
 [
-    [ "npc_a_special_surpriseAI", "dd/d6c/a13443.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
-    [ "MeetQuestCondition", "dd/d6c/a13443.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
-    [ "MoveInLineOfSight", "dd/d6c/a13443.html#af0b183b951f1eba8114da1f7a1284d09", null ],
-    [ "Reset", "dd/d6c/a13443.html#a9526f6b257eade275b828d2b30328533", null ],
-    [ "UpdateAI", "dd/d6c/a13443.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
-    [ "ExecuteSpeech_Counter", "dd/d6c/a13443.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
-    [ "ExecuteSpeech_Timer", "dd/d6c/a13443.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
-    [ "PlayerGUID", "dd/d6c/a13443.html#a683cdbd0ef9d0562842aace5b440594f", null ]
+    [ "boss_kagani_nightstrike", "dd/d6c/a13443.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
+    [ "JustEngagedWith", "dd/d6c/a13443.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
+    [ "MovementInform", "dd/d6c/a13443.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
 ];

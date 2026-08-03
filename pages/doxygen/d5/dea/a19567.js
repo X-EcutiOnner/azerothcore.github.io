@@ -1,5 +1,6 @@
 var a19567 =
 [
-    [ "at_naxxramas_hub_portal", "d5/dea/a19567.html#a946086e8a4651240b84526a1b2d54065", null ],
-    [ "OnTrigger", "d5/dea/a19567.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
+    [ "HandleAfterHit", "d5/dea/a19567.html#a4f9ee2b8830fc812a78154f8b54a0a47", null ],
+    [ "PrepareSpellScript", "d5/dea/a19567.html#a75d2e4bc16170348893654d53c1bb6d7", null ],
+    [ "Register", "d5/dea/a19567.html#a5e33a371d519c2fdc8561f2ac8d9dd82", null ]
 ];

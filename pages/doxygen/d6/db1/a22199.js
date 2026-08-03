@@ -1,6 +1,6 @@
 var a22199 =
 [
-    [ "PrepareSpellScript", "d6/db1/a22199.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "d6/db1/a22199.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "d6/db1/a22199.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "npc_mcmanus", "d6/db1/a22199.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
+    [ "OnGossipHello", "d6/db1/a22199.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
+    [ "OnGossipSelect", "d6/db1/a22199.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
 ];

@@ -1,9 +1,5 @@
 var a28339 =
 [
-    [ "npc_fireworkAI", "de/d94/a28339.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "de/d94/a28339.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "de/d94/a28339.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "de/d94/a28339.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "de/d94/a28339.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "de/d94/a28339.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "go_hive_pod", "de/d94/a28339.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "de/d94/a28339.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

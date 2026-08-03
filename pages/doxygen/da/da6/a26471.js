@@ -1,8 +1,9 @@
 var a26471 =
 [
-    [ "CheckCast", "da/da6/a26471.html#a0d7910cd2b9d9f4174575532502d40f9", null ],
-    [ "HandleDummy", "da/da6/a26471.html#a1eac1eb5f39093ff48942e82728478dd", null ],
-    [ "PrepareSpellScript", "da/da6/a26471.html#adbb58b75232560d101b291c0d99a2a20", null ],
-    [ "Register", "da/da6/a26471.html#a6acb46e81171e13f50ac1f01bf83013b", null ],
-    [ "Validate", "da/da6/a26471.html#a4b67c348685a8094668e4ed2f0c78446", null ]
+    [ "HandleAfterCast", "da/da6/a26471.html#afd2fbc51ac1e99789994021af36688f3", null ],
+    [ "HandleTriggerSpell", "da/da6/a26471.html#ae140ab00101f081454b55e12a7c54440", null ],
+    [ "Load", "da/da6/a26471.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
+    [ "PrepareSpellScript", "da/da6/a26471.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
+    [ "Register", "da/da6/a26471.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
+    [ "_triggerSpellId", "da/da6/a26471.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
 ];

@@ -1,6 +1,6 @@
 var a26623 =
 [
-    [ "HandleAfterHit", "df/d17/a26623.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "df/d17/a26623.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "df/d17/a26623.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "CheckProc", "df/d17/a26623.html#a0158185a5c1c3b3d1d79f93bbb9c6fa7", null ],
+    [ "PrepareAuraScript", "df/d17/a26623.html#a50084bc759ee453a3f5552ca2e039de2", null ],
+    [ "Register", "df/d17/a26623.html#ab79fcdd56767e0199b96d24d71bea452", null ]
 ];

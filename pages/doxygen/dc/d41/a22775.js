@@ -1,7 +1,8 @@
 var a22775 =
 [
-    [ "Absorb", "dc/d41/a22775.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
-    [ "HandleEffectRemove", "dc/d41/a22775.html#a3d4026e5208acb948c089a4bedba0de8", null ],
-    [ "PrepareAuraScript", "dc/d41/a22775.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
-    [ "Register", "dc/d41/a22775.html#a983cf678001efcbccc4b34a9ad919881", null ]
+    [ "npc_parasitic_shadowfiend", "dc/d41/a22775.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
+    [ "CanAIAttack", "dc/d41/a22775.html#ac7600aed313f1413cb9b522d60d30329", null ],
+    [ "EnterEvadeMode", "dc/d41/a22775.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
+    [ "IsSummonedBy", "dc/d41/a22775.html#a306c696d4243c4525d0a3908a212135d", null ],
+    [ "UpdateAI", "dc/d41/a22775.html#a2706a4ba7876f299b02d2e720f512af2", null ]
 ];

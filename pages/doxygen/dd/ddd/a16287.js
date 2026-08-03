@@ -1,6 +1,6 @@
 var a16287 =
 [
-    [ "PrepareSpellScript", "dd/ddd/a16287.html#a74a2601e2c160bb4a9b18d421775e6b3", null ],
-    [ "Register", "dd/ddd/a16287.html#a17a07973a3c043683fc4fe0d1fc45156", null ],
-    [ "SetDest", "dd/ddd/a16287.html#a3751a14d6e36140ee368d8ded6df03ee", null ]
+    [ "npc_weegli_blastfuseAI", "d6/d5b/a16291.html", "d6/d5b/a16291" ],
+    [ "npc_weegli_blastfuse", "dd/ddd/a16287.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
+    [ "GetAI", "dd/ddd/a16287.html#a701681d8771756dac20d30c2e03a1349", null ]
 ];

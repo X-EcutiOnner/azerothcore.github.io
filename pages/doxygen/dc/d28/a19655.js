@@ -1,14 +1,6 @@
 var a19655 =
 [
-    [ "boss_magus_telestra", "dc/d28/a19655.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
-    [ "AttackStart", "dc/d28/a19655.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
-    [ "GetData", "dc/d28/a19655.html#a713f93edc709edabe003c305efdd709c", null ],
-    [ "JustDied", "dc/d28/a19655.html#ac69759755637749a58f712b86d3bf9ac", null ],
-    [ "JustEngagedWith", "dc/d28/a19655.html#a91b4569027b3414814bf1f2e86441fc6", null ],
-    [ "JustSummoned", "dc/d28/a19655.html#a1fc0f30287916d6606829987d29d9387", null ],
-    [ "KilledUnit", "dc/d28/a19655.html#a85b333905e5dcd34dbe001306924529a", null ],
-    [ "Reset", "dc/d28/a19655.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
-    [ "SpellHit", "dc/d28/a19655.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
-    [ "UpdateAI", "dc/d28/a19655.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
-    [ "achievement", "dc/d28/a19655.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ]
+    [ "boss_thaddius_summonAI", "d7/d31/a19659.html", "d7/d31/a19659" ],
+    [ "boss_thaddius_summon", "dc/d28/a19655.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
+    [ "GetAI", "dc/d28/a19655.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
 ];

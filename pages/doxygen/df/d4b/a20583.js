@@ -1,9 +1,6 @@
 var a20583 =
 [
-    [ "npc_ulduar_dark_rune_watcher", "df/d4b/a20583.html#aaddea3969eaab06df6b7e5d08f6ad626", null ],
-    [ "CanAIAttack", "df/d4b/a20583.html#ae87ae4e671855f9e18eef6ba7f455463", null ],
-    [ "Reset", "df/d4b/a20583.html#a66ac44c21691994b0b45c096dd7a0d56", null ],
-    [ "UpdateAI", "df/d4b/a20583.html#a008399ff99fbf7c298485450cd3bd4e3", null ],
-    [ "timer1", "df/d4b/a20583.html#a8e7520f4f33604ebd8177b12ca610ea3", null ],
-    [ "timer2", "df/d4b/a20583.html#a1be016384a7fd92e96786ff6caf6c77d", null ]
+    [ "boss_kologarn_pit_kill_bunny", "df/d4b/a20583.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
+    [ "Reset", "df/d4b/a20583.html#afd7482896b66f040b8d57b9b6ac37059", null ],
+    [ "UpdateAI", "df/d4b/a20583.html#ad863666aec3db81f73165148ffc98033", null ]
 ];

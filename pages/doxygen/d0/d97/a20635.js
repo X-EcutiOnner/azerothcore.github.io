@@ -1,11 +1,11 @@
 var a20635 =
 [
-    [ "boss_thorim_ancient_rune_giant", "d0/d97/a20635.html#a0af1f7772d93899651d93fdc4a690b7d", null ],
-    [ "DoAction", "d0/d97/a20635.html#a615eb1cf45c8e09af0f9a248f1c6bbe8", null ],
-    [ "JustDied", "d0/d97/a20635.html#a64b0ab5d6e3a51a926eaef236754b7bf", null ],
-    [ "JustEngagedWith", "d0/d97/a20635.html#a98fa309963245a0c57676ff019085fac", null ],
-    [ "Reset", "d0/d97/a20635.html#a66c30135e900b4b9e6d43d08e5e14f24", null ],
-    [ "UpdateAI", "d0/d97/a20635.html#a903d7448d9441866475d77fce8ca6d37", null ],
-    [ "_isInCombat", "d0/d97/a20635.html#a148ff1fa8010466de069032f660cd08e", null ],
-    [ "events", "d0/d97/a20635.html#adb60fcfd3cde775f06e883d2e62b5ba1", null ]
+    [ "npc_ulduar_proximity_mine", "d0/d97/a20635.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
+    [ "AttackStart", "d0/d97/a20635.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "d0/d97/a20635.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "d0/d97/a20635.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "d0/d97/a20635.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "_exploded", "d0/d97/a20635.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
+    [ "_timer", "d0/d97/a20635.html#afe009de55826305826105bd29458d0eb", null ],
+    [ "_timer2", "d0/d97/a20635.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
 ];

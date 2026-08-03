@@ -1,7 +1,7 @@
 var a16135 =
 [
-    [ "npc_ameAI", "d4/d15/a16139.html", "d4/d15/a16139" ],
-    [ "npc_ame", "d7/dab/a16135.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
-    [ "GetAI", "d7/dab/a16135.html#a09f7688c38d56319791f7543eb32f317", null ],
-    [ "OnQuestAccept", "d7/dab/a16135.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
+    [ "npc_toogaAI", "d4/d15/a16139.html", "d4/d15/a16139" ],
+    [ "npc_tooga", "d7/dab/a16135.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "d7/dab/a16135.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "d7/dab/a16135.html#a45ae4f9be8d69553d557b33df9fbde3b", null ]
 ];

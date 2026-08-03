@@ -1,13 +1,6 @@
 var a06555 =
 [
-    [ "HealthCheckEventData", "dc/de9/a06555.html#a2610f9688b27212eb3470f55718c61f0", null ],
-    [ "GetDelay", "dc/de9/a06555.html#a9bab6c9834517c4260f814f258d52d5c", null ],
-    [ "HasBeenProcessed", "dc/de9/a06555.html#abe8549b1e96fc3ea7e4154cd30ff5389", null ],
-    [ "IsPending", "dc/de9/a06555.html#a367c865eb488a2a95ce7e98536ccb311", null ],
-    [ "UpdateStatus", "dc/de9/a06555.html#aae2283a58be68424fbe01c37a29e1c5e", null ],
-    [ "_allowedWhileCasting", "dc/de9/a06555.html#aff327c455fbd912579725956c99c3a2d", null ],
-    [ "_delay", "dc/de9/a06555.html#ad23fcf00ca53ef2772185b2008a84de5", null ],
-    [ "_exec", "dc/de9/a06555.html#a66c38460690d77fb021c91fa676c3a12", null ],
-    [ "_healthPct", "dc/de9/a06555.html#a420edc39ff982d55ae82207a0cfe7689", null ],
-    [ "_status", "dc/de9/a06555.html#a787509d0963c134539e4dec7525b5608", null ]
+    [ "PlayerAI", "dc/de9/a06555.html#a880c670caddc1f24e42f229457039c67", null ],
+    [ "OnCharmed", "dc/de9/a06555.html#adf7ab64ed2a81c932730e39d885e4c67", null ],
+    [ "me", "dc/de9/a06555.html#a70a995521c55fb3d73d14e6be883eccc", null ]
 ];

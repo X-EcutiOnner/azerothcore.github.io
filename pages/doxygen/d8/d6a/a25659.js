@@ -1,6 +1,7 @@
 var a25659 =
 [
-    [ "HandleSummon", "d8/d6a/a25659.html#ad1ee0eb347454d50216610a266226d68", null ],
-    [ "PrepareSpellScript", "d8/d6a/a25659.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
-    [ "Register", "d8/d6a/a25659.html#aa145041af68291f107c3ff11ce15b85e", null ]
+    [ "HandleScriptEffect", "d8/d6a/a25659.html#ab1d476e7a07da5db80908fb669b6fa6b", null ],
+    [ "PrepareSpellScript", "d8/d6a/a25659.html#acf30d245bab2e7a1ee1121008345e667", null ],
+    [ "Register", "d8/d6a/a25659.html#a303a38a41f3d9be6e3083690b234e51f", null ],
+    [ "Validate", "d8/d6a/a25659.html#a77a3256cdea185ce0ea95d88283c55d7", null ]
 ];

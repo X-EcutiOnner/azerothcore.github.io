@@ -1,5 +1,5 @@
 var a28047 =
 [
-    [ "go_table_theka", "d8/d1c/a28047.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "d8/d1c/a28047.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "achievement_fa_la_la_la_ogrila", "d8/d1c/a28047.html#ab98a8ab33fec62936bf3c235659c1445", null ],
+    [ "OnCheck", "d8/d1c/a28047.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
 ];

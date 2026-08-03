@@ -1,8 +1,9 @@
 var a15643 =
 [
-    [ "boss_veklor", "de/da9/a15643.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
-    [ "AttackStart", "de/da9/a15643.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
-    [ "IAmVeklor", "de/da9/a15643.html#a4c43713c24b5537f292be1e0fcaee703", null ],
-    [ "JustEngagedWith", "de/da9/a15643.html#a05913da666b1715eac68441195dd9df4", null ],
-    [ "SpellHit", "de/da9/a15643.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
+    [ "npc_claw_tentacle", "de/da9/a15643.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
+    [ "JustDied", "de/da9/a15643.html#aa566b417d1b766668133dd1d6a58293f", null ],
+    [ "JustEngagedWith", "de/da9/a15643.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
+    [ "Reset", "de/da9/a15643.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
+    [ "UpdateAI", "de/da9/a15643.html#ae7d521445680167add653717c7ae4c86", null ],
+    [ "_portalGUID", "de/da9/a15643.html#ab979781a8f77267348595cfa17341bae", null ]
 ];

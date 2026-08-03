@@ -1,6 +1,10 @@
 var a22971 =
 [
-    [ "HandleScriptEffect", "df/df0/a22971.html#a18fb2e73a00f1de7c62049eadfcbc658", null ],
-    [ "PrepareSpellScript", "df/df0/a22971.html#ae80b4ca96692035c399d1621b632fe66", null ],
-    [ "Register", "df/df0/a22971.html#ac655157c74104a51f045e114fc63a42d", null ]
+    [ "CalculateAmount", "df/df0/a22971.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
+    [ "CheckProc", "df/df0/a22971.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
+    [ "HandleProc", "df/df0/a22971.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
+    [ "PrepareAuraScript", "df/df0/a22971.html#a6e066884663276dbba82e46ca5f66e59", null ],
+    [ "Register", "df/df0/a22971.html#ac4154f0746e77229e8d349021d5b9c30", null ],
+    [ "Update", "df/df0/a22971.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
+    [ "Validate", "df/df0/a22971.html#a4f10d23f63c47b408b70373623b877a8", null ]
 ];

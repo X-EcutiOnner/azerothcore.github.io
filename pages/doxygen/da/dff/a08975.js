@@ -1,10 +1,9 @@
 var a08975 =
 [
-    [ "Index", "da/dff/a08975.html#a28b25d822326a1b7d5ec7f95ce084bac", [
-      [ "REGULAR", "da/dff/a08975.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
-      [ "ADDON", "da/dff/a08975.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
-      [ "MAX", "da/dff/a08975.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
-    ] ],
-    [ "Count", "da/dff/a08975.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
-    [ "Time", "da/dff/a08975.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
+    [ "areaFlag", "da/dff/a08975.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
+    [ "areaID", "da/dff/a08975.html#a455a890a1d82d31873873ac497cb83b7", null ],
+    [ "x1", "da/dff/a08975.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
+    [ "x2", "da/dff/a08975.html#aebdb021c0b9c40d624d5115b24616a12", null ],
+    [ "y1", "da/dff/a08975.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
+    [ "y2", "da/dff/a08975.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
 ];

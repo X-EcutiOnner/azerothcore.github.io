@@ -1,11 +1,10 @@
 var a16479 =
 [
-    [ "boss_general_zarithrianAI", "d9/d5c/a16479.html#a4168a5883052810d137f59d3b104bc24", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d9/d5c/a16479.html#a22f6ff041e61c94df73a938162fa26f5", null ],
-    [ "JustDied", "d9/d5c/a16479.html#a49be533142c82a95a136dc2dcbf4843c", null ],
-    [ "JustEngagedWith", "d9/d5c/a16479.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
-    [ "JustSummoned", "d9/d5c/a16479.html#acb694d20b35d57a315aa4662562af210", null ],
-    [ "KilledUnit", "d9/d5c/a16479.html#ad385477740b728e63acff7c184df3c09", null ],
-    [ "Reset", "d9/d5c/a16479.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
-    [ "UpdateAI", "d9/d5c/a16479.html#a3a7e578d64a760cd38712c725eecc97d", null ]
+    [ "boss_sartharion_tenebron", "d9/d5c/a16479.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
+    [ "ClearInstance", "d9/d5c/a16479.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
+    [ "ExecuteEvent", "d9/d5c/a16479.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
+    [ "JustDied", "d9/d5c/a16479.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
+    [ "JustSummoned", "d9/d5c/a16479.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
+    [ "Reset", "d9/d5c/a16479.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
+    [ "summons2", "d9/d5c/a16479.html#a59b131fcd2298640390fcd0f662f132d", null ]
 ];

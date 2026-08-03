@@ -1,5 +1,7 @@
 var a23999 =
 [
-    [ "go_crystal_prison", "d1/d16/a23999.html#a0faca8b76f9650ee5cc7825b90463365", null ],
-    [ "OnQuestAccept", "d1/d16/a23999.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
+    [ "OnPeriodic", "d1/d16/a23999.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "d1/d16/a23999.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "d1/d16/a23999.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "d1/d16/a23999.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

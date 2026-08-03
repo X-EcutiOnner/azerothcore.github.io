@@ -1,7 +1,10 @@
 var a09711 =
 [
-    [ "AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck", "d8/d11/a09711.html#a038f512c564e4ae18571ac1836897edb", null ],
-    [ "operator()", "d8/d11/a09711.html#a3bc09bf6fc4481c67190f57dc4198f6e", null ],
-    [ "i_funit", "d8/d11/a09711.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6", null ],
-    [ "i_range", "d8/d11/a09711.html#a953943e53e25b6887bfab8cc1c19620a", null ]
+    [ "AnyDeadUnitObjectInRangeCheck", "d8/d11/a09711.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
+    [ "operator()", "d8/d11/a09711.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
+    [ "operator()", "d8/d11/a09711.html#ae885f49537043421a92b44c201bec358", null ],
+    [ "operator()", "d8/d11/a09711.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
+    [ "operator()", "d8/d11/a09711.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
+    [ "i_range", "d8/d11/a09711.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
+    [ "i_searchObj", "d8/d11/a09711.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
 ];

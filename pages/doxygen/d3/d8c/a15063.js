@@ -1,7 +1,6 @@
 var a15063 =
 [
-    [ "HandleProc", "d3/d8c/a15063.html#a6d1d8eb2ad0085df31d4f0e00c632fb2", null ],
-    [ "PrepareAuraScript", "d3/d8c/a15063.html#a95e3495f3e696ee908c4b17cf6dee370", null ],
-    [ "Register", "d3/d8c/a15063.html#a9beecfcf0f11b551bfdc840e10db2432", null ],
-    [ "Validate", "d3/d8c/a15063.html#a18398f81a80f9a1f47958de3be7b9189", null ]
+    [ "HandleDummy", "d3/d8c/a15063.html#aa75140309e66c28590a64e10676356da", null ],
+    [ "PrepareSpellScript", "d3/d8c/a15063.html#a21c4872e16c18c2918dfbea366e61df3", null ],
+    [ "Register", "d3/d8c/a15063.html#a841c9277224cbae878946deb288b87a1", null ]
 ];

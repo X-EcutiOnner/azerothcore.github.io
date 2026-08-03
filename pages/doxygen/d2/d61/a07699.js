@@ -1,11 +1,10 @@
 var a07699 =
 [
-    [ "BattlegroundABScore", "d2/d61/a07699.html#ae219ecb551c89ad5a5cb22f1996a598b", null ],
-    [ "BuildObjectivesBlock", "d2/d61/a07699.html#a86ac6e9b19eaa7ed257f25f9f73c22cf", null ],
-    [ "GetAttr1", "d2/d61/a07699.html#af0f066f76f4d84e844946862ae819b4f", null ],
-    [ "GetAttr2", "d2/d61/a07699.html#a8ac00679dd8dfeef81f159b7a2b22027", null ],
-    [ "UpdateScore", "d2/d61/a07699.html#a43aaefd97c8880cbf70381282d81f7cf", null ],
-    [ "BattlegroundAB", "d2/d61/a07699.html#ad5365fcb2edd84180065badd1572ba8e", null ],
-    [ "BasesAssaulted", "d2/d61/a07699.html#a25643abf67d1ae2f8498951c11833994", null ],
-    [ "BasesDefended", "d2/d61/a07699.html#a450504481d335230b3e035d4337694be", null ]
+    [ "Battleground2ChatBuilder", "d2/d61/a07699.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1", null ],
+    [ "operator()", "d2/d61/a07699.html#a7c0ee21531ba43d9d2ab427d95da2ec5", null ],
+    [ "_arg1", "d2/d61/a07699.html#aa6959944406804f01baa18cd898bfc41", null ],
+    [ "_arg2", "d2/d61/a07699.html#aebfaeac77c40d4c7938cbdd488defc51", null ],
+    [ "_msgtype", "d2/d61/a07699.html#a770d30e207e41a8f985776787d53f2cf", null ],
+    [ "_source", "d2/d61/a07699.html#a8867dd698d0457688202e1a9378255d2", null ],
+    [ "_textId", "d2/d61/a07699.html#a632cab30adc21c22f1a8890b1627262a", null ]
 ];

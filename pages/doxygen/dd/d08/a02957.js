@@ -1,7 +1,7 @@
 var a02957 =
 [
-    [ "boss_zuramat", "d1/d45/a21478.html", "d1/d45/a21478" ],
-    [ "npc_vh_void_sentry", "de/d30/a21482.html", "de/d30/a21482" ],
+    [ "boss_zuramat", "d5/d36/a21483.html", "d5/d36/a21483" ],
+    [ "npc_vh_void_sentry", "d2/dbe/a21487.html", "d2/dbe/a21487" ],
     [ "eCreatures", "dd/d08/a02957.html#a59602e8f26d052c0b6f6bdfe896510b8", [
       [ "NPC_ONYXIA", "d3/d74/a04418.html#a59602e8f26d052c0b6f6bdfe896510b8ac5297157e46436388d2a4e835c06de6e", null ],
       [ "NPC_ONYXIAN_WHELP", "d3/d74/a04418.html#a59602e8f26d052c0b6f6bdfe896510b8a29f399e186a17314b99be364d738371a", null ],

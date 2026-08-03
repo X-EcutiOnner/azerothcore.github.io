@@ -1,6 +1,6 @@
 var a27639 =
 [
-    [ "HandleScript", "d0/d2f/a27639.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
-    [ "PrepareSpellScript", "d0/d2f/a27639.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
-    [ "Register", "d0/d2f/a27639.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
+    [ "HandleProc", "d0/d2f/a27639.html#afb4fb2152937e62982aab2a17820d1d9", null ],
+    [ "PrepareAuraScript", "d0/d2f/a27639.html#a43ec587b6e8ac94baba7253dfec47640", null ],
+    [ "Register", "d0/d2f/a27639.html#ad0824cc4c53915239d609aa117fc4691", null ]
 ];

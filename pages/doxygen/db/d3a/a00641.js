@@ -1,6 +1,6 @@
 var a00641 =
 [
-    [ "BanMgr", "db/d4f/a10350.html", "db/d4f/a10350" ],
+    [ "BanMgr", "df/db8/a10355.html", "df/db8/a10355" ],
     [ "sBan", "db/d3a/a00641.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
     [ "BanReturn", "db/d3a/a00641.html#a4dd4670ead55e2780d09a66ab39943a7", [
       [ "BAN_SUCCESS", "db/d3a/a00641.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],

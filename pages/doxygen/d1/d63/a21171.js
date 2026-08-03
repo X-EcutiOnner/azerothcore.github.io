@@ -1,7 +1,5 @@
 var a21171 =
 [
-    [ "PrepareAuraScript", "d1/d63/a21171.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
-    [ "Register", "d1/d63/a21171.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
-    [ "TriggerFists", "d1/d63/a21171.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
-    [ "Validate", "d1/d63/a21171.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
+    [ "npc_salvaged_siege_engine", "d1/d63/a21171.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
+    [ "BeforeSpellClick", "d1/d63/a21171.html#aed2500b2315b5e508ea3d06a2355d023", null ]
 ];

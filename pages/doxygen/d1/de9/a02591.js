@@ -1,9 +1,9 @@
 var a02591 =
 [
-    [ "npc_pet_hunter_snake_trap", "df/db5/a24422.html", "df/db5/a24422" ],
-    [ "spell_pet_guard_dog", "d9/d88/a24426.html", "d9/d88/a24426" ],
-    [ "spell_pet_silverback", "d2/d25/a24430.html", "d2/d25/a24430" ],
-    [ "spell_pet_culling_the_herd", "d4/da5/a24434.html", "d4/da5/a24434" ],
+    [ "npc_pet_hunter_snake_trap", "d0/da8/a24447.html", "d0/da8/a24447" ],
+    [ "spell_pet_guard_dog", "d7/df8/a24451.html", "d7/df8/a24451" ],
+    [ "spell_pet_silverback", "d9/d3a/a24455.html", "d9/d3a/a24455" ],
+    [ "spell_pet_culling_the_herd", "d3/d51/a24459.html", "d3/d51/a24459" ],
     [ "HunterSpells", "d1/de9/a02591.html#a87efb4c7cf60464c813daf57f8006a7e", [
       [ "SPELL_HUNTER_CRIPPLING_POISON", "d1/de9/a02591.html#a87efb4c7cf60464c813daf57f8006a7ea919b3819273ed109abc5ff9e1f17f280", null ],
       [ "SPELL_HUNTER_DEADLY_POISON_PASSIVE", "d1/de9/a02591.html#a87efb4c7cf60464c813daf57f8006a7ead1a8eca1edbd63099142576708bdcdbf", null ],

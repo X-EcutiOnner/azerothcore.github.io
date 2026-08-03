@@ -1,9 +1,7 @@
 var a27823 =
 [
-    [ "emerald_dragonAI", "da/d2e/a27823.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
-    [ "ExecuteEvent", "da/d2e/a27823.html#a6e60f146c7b86a119f269bf755831ac6", null ],
-    [ "JustSummoned", "da/d2e/a27823.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
-    [ "KilledUnit", "da/d2e/a27823.html#a69b24bf865ecd38822d5602314cddf11", null ],
-    [ "Reset", "da/d2e/a27823.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
-    [ "UpdateAI", "da/d2e/a27823.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
+    [ "HandleProc", "da/d2e/a27823.html#a4294ab4682ea26f78eb4c90c59e86953", null ],
+    [ "PrepareAuraScript", "da/d2e/a27823.html#ac5d22623791d195aa767d5a28e9639b7", null ],
+    [ "Register", "da/d2e/a27823.html#a135abc0548ba189fcf6bd662d7ae8940", null ],
+    [ "Validate", "da/d2e/a27823.html#ac10227e6423f61b0fd67803f01fd4a0e", null ]
 ];

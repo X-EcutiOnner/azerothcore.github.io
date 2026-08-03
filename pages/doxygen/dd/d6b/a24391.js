@@ -1,10 +1,6 @@
 var a24391 =
 [
-    [ "HandleEffectRemove", "dd/d6b/a24391.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
-    [ "HandleImprovedBloodPresence", "dd/d6b/a24391.html#a020c0ae1f74856ae070ab2104232a079", null ],
-    [ "HandleImprovedFrostPresence", "dd/d6b/a24391.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
-    [ "HandleImprovedUnholyPresence", "dd/d6b/a24391.html#a5da86bb3686327787da5f46fc756f0a0", null ],
-    [ "PrepareAuraScript", "dd/d6b/a24391.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
-    [ "Register", "dd/d6b/a24391.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
-    [ "Validate", "dd/d6b/a24391.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
+    [ "achievement", "dd/d6b/a24391.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "dd/d6b/a24391.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "dd/d6b/a24391.html#ab8c1bedac4bccf5c47eda591c9e5e9d1", null ]
 ];

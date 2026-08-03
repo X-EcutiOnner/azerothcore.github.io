@@ -1,18 +1,16 @@
 var a20247 =
 [
-    [ "boss_vezax", "dc/d4b/a20247.html#a8e9210793b5b00d81bf5f1a3eb214f29", null ],
-    [ "DoAction", "dc/d4b/a20247.html#ac7c14cfbae5d031615e7f62ded2045c1", null ],
-    [ "GetData", "dc/d4b/a20247.html#addfa8398f2a1c21b7ed44547fa6e2899", null ],
-    [ "JustDied", "dc/d4b/a20247.html#a1ce855485a7edaace620956cb620ed39", null ],
-    [ "JustEngagedWith", "dc/d4b/a20247.html#ac22557ea0f60a04d51f016cc09d99417", null ],
-    [ "JustReachedHome", "dc/d4b/a20247.html#ad57dabcfafbd2a10b1dbb39751600bb9", null ],
-    [ "KilledUnit", "dc/d4b/a20247.html#ab339f12be1e9da262f6243cfe22908c2", null ],
-    [ "MoveInLineOfSight", "dc/d4b/a20247.html#a79c3312d27ef44cf3aa2fb4b94e0ee0a", null ],
-    [ "Reset", "dc/d4b/a20247.html#a44ceea000e547d0e56994e9075a09a52", null ],
-    [ "SpellHitTarget", "dc/d4b/a20247.html#ab9288041d27b2cf2bf352085ba13ace1", null ],
-    [ "UpdateAI", "dc/d4b/a20247.html#a88331ae2f7cc9625aaf36836abf244f0", null ],
-    [ "bAchievShadowdodger", "dc/d4b/a20247.html#a7462985f6bd9daeec15d639fc076bbf9", null ],
-    [ "berserk", "dc/d4b/a20247.html#adc5e49598b2a9c463a91da0d50dbe3dc", null ],
-    [ "hardmodeAvailable", "dc/d4b/a20247.html#ae43a0164f3ac1876b6e6cd5f6f241ffb", null ],
-    [ "vaporsCount", "dc/d4b/a20247.html#a6f7205d1c455cc3344025e28d4eb8ed6", null ]
+    [ "npc_mimirons_inferno", "dc/d4b/a20247.html#aedcded9302c0cb9e29475f471bd0612e", null ],
+    [ "AttackStart", "dc/d4b/a20247.html#a43a03388c06ef38ab29a1b4d5bc701c6", null ],
+    [ "DoAction", "dc/d4b/a20247.html#ade97188bb54f7b5a15a8a596355e4170", null ],
+    [ "JustSummoned", "dc/d4b/a20247.html#a77ddb0fbd9f0c2334df122d91913300b", null ],
+    [ "MoveInLineOfSight", "dc/d4b/a20247.html#acc2e756af50ebde8300c46ec6f369760", null ],
+    [ "Reset", "dc/d4b/a20247.html#afbd0bcdbb24bf1dbdaacecf4b602922b", null ],
+    [ "SummonedCreatureDespawn", "dc/d4b/a20247.html#a9b5176d6f1712d36283b0ebeeddee5b2", null ],
+    [ "UpdateAI", "dc/d4b/a20247.html#afd800c3a1430fe19edf6fe21763b15d8", null ],
+    [ "WaypointReached", "dc/d4b/a20247.html#a13cda9fcb49493477e4a4111d9858ec1", null ],
+    [ "WaypointReached", "dc/d4b/a20247.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_recastTimer", "dc/d4b/a20247.html#ac74ee90383d6ac140d6187c6115716ed", null ],
+    [ "_spellTimer", "dc/d4b/a20247.html#a0683c956325801b63e7e31b8485f35bd", null ],
+    [ "summons", "dc/d4b/a20247.html#a7a0be8291200404285277c3689c54106", null ]
 ];

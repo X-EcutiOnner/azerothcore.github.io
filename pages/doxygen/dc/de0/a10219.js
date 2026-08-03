@@ -1,12 +1,13 @@
 var a10219 =
 [
-    [ "MapReference", "dc/de0/a10219.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
-    [ "~MapReference", "dc/de0/a10219.html#a1e93b44871737991140718322fd1cd69", null ],
-    [ "next", "dc/de0/a10219.html#a352ef695a8968a17e921861b7d6242c1", null ],
-    [ "next", "dc/de0/a10219.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
-    [ "nocheck_prev", "dc/de0/a10219.html#a6cfff18295cf049ff554b0f140680890", null ],
-    [ "nockeck_prev", "dc/de0/a10219.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
-    [ "sourceObjectDestroyLink", "dc/de0/a10219.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
-    [ "targetObjectBuildLink", "dc/de0/a10219.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
-    [ "targetObjectDestroyLink", "dc/de0/a10219.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
+    [ "ParallelogramBoundary", "dc/de0/a10219.html#ace1e1ffbcb84343ca2641541fe000691", null ],
+    [ "IsWithinBoundaryArea", "dc/de0/a10219.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
+    [ "_a", "dc/de0/a10219.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
+    [ "_abx", "dc/de0/a10219.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
+    [ "_aby", "dc/de0/a10219.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
+    [ "_b", "dc/de0/a10219.html#a9d5d06cc3673f89644e45e62f96510db", null ],
+    [ "_c", "dc/de0/a10219.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
+    [ "_d", "dc/de0/a10219.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
+    [ "_dax", "dc/de0/a10219.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
+    [ "_day", "dc/de0/a10219.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
 ];

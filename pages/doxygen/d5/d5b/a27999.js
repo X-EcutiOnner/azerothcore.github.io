@@ -1,9 +1,5 @@
 var a27999 =
 [
-    [ "go_gilded_brazierAI", "d5/d5b/a27999.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
-    [ "GossipHello", "d5/d5b/a27999.html#afac9e217c294e72ff5f2526422e6321e", null ],
-    [ "Initialize", "d5/d5b/a27999.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
-    [ "UpdateAI", "d5/d5b/a27999.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
-    [ "_events", "d5/d5b/a27999.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
-    [ "_playerGUID", "d5/d5b/a27999.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
+    [ "achievement_bg_ic_glaive_grave", "d5/d5b/a27999.html#a97e1cead0102a120b3bd14592ea26034", null ],
+    [ "OnCheck", "d5/d5b/a27999.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
 ];

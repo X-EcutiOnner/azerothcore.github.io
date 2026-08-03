@@ -1,12 +1,7 @@
 var a22359 =
 [
-    [ "OPvPCapturePointZM_Beacon", "da/d6b/a22359.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
-    [ "ChangeState", "da/d6b/a22359.html#a5bbe87c18c814358596a9648fd92b129", null ],
-    [ "FillInitialWorldStates", "da/d6b/a22359.html#a94511cd0d2d1dccaa1ed8276b273a2fb", null ],
-    [ "HandlePlayerEnter", "da/d6b/a22359.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
-    [ "HandlePlayerLeave", "da/d6b/a22359.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
-    [ "SendChangePhase", "da/d6b/a22359.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
-    [ "UpdateTowerState", "da/d6b/a22359.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
-    [ "m_TowerState", "da/d6b/a22359.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
-    [ "m_TowerType", "da/d6b/a22359.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
+    [ "OnApply", "da/d6b/a22359.html#ad026db5f19c376d9a87f7a1554502809", null ],
+    [ "OnRemove", "da/d6b/a22359.html#a0264c6f6f41da3644a803265399f1d82", null ],
+    [ "PrepareAuraScript", "da/d6b/a22359.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
+    [ "Register", "da/d6b/a22359.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
 ];

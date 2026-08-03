@@ -1,6 +1,9 @@
 var a29555 =
 [
-    [ "ForceInitValues", "d6/dff/a29555.html#a51bcb2ec0bf6b92a0ed7a29abd675bf5", null ],
-    [ "Player", "d6/dff/a29555.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
-    [ "UpdateObjectVisibility", "d6/dff/a29555.html#a2b00c7bea40d5cbd4343d859555060a3", null ]
+    [ "chargeConsumed", "d6/dff/a29555.html#a49f170e5f66cecdf6d719d1f6ac97254", null ],
+    [ "cooldownSet", "d6/dff/a29555.html#a60219087858953e3ea124b1b784516b2", null ],
+    [ "effectMask", "d6/dff/a29555.html#ae0feb161d225551bba25d466541cde84", null ],
+    [ "procChance", "d6/dff/a29555.html#a0299896836a739f2601a5ee1078f53bb", null ],
+    [ "shouldProc", "d6/dff/a29555.html#a497babcaf1a36b0abd10b4e360c231f2", null ],
+    [ "spellsCast", "d6/dff/a29555.html#a12d58d19ba4df25b8bd9dc6e1d089408", null ]
 ];

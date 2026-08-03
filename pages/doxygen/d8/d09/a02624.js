@@ -1,10 +1,10 @@
 var a02624 =
 [
-    [ "instance_azjol_nerub", "d5/d4d/a16454.html", "d5/d4d/a16454" ],
-    [ "instance_azjol_nerub::instance_azjol_nerub_InstanceScript", "d5/d84/a16458.html", "d5/d84/a16458" ],
-    [ "spell_azjol_nerub_fixate", "d6/d10/a16462.html", "d6/d10/a16462" ],
-    [ "spell_azjol_nerub_web_wrap_aura", "da/dd1/a16466.html", "da/dd1/a16466" ],
-    [ "spell_azjol_drain_power", "d7/d57/a16470.html", "d7/d57/a16470" ],
+    [ "instance_azjol_nerub", "d4/d40/a16451.html", "d4/d40/a16451" ],
+    [ "instance_azjol_nerub::instance_azjol_nerub_InstanceScript", "db/d01/a16455.html", "db/d01/a16455" ],
+    [ "spell_azjol_nerub_fixate", "d9/d8c/a16459.html", "d9/d8c/a16459" ],
+    [ "spell_azjol_nerub_web_wrap_aura", "d1/db2/a16463.html", "d1/db2/a16463" ],
+    [ "spell_azjol_drain_power", "d9/d3d/a16467.html", "d9/d3d/a16467" ],
     [ "DrainPowerSpells", "d8/d09/a02624.html#aedcc9d94ea725aa97c3761980e653527", [
       [ "SPELL_DRAIN_POWER_AURA", "d8/d09/a02624.html#aedcc9d94ea725aa97c3761980e653527ae0ad6955af5cca2c49a4502fa6b7dea9", null ]
     ] ],

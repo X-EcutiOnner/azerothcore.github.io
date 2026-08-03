@@ -1,8 +1,6 @@
 var a26183 =
 [
-    [ "HandleProc", "dc/de9/a26183.html#ad470545a3c3f1ffaad2d895f122522e1", null ],
-    [ "OnRemove", "dc/de9/a26183.html#adc9b9b988aa1342c34a49622f54d8484", null ],
-    [ "PrepareAuraScript", "dc/de9/a26183.html#ab3008bcdeb90825213d2352812ff21d5", null ],
-    [ "Register", "dc/de9/a26183.html#a9ee52d89eeff45a4f9df1982da6f7d78", null ],
-    [ "Validate", "dc/de9/a26183.html#a0ea66a92b78e59b50181b54ab285b9db", null ]
+    [ "HandleDummy", "dc/de9/a26183.html#a1daf78c552ffd963f181eded01b570a9", null ],
+    [ "PrepareSpellScript", "dc/de9/a26183.html#adaa82dfd828ed915cfc16f95e73cd224", null ],
+    [ "Register", "dc/de9/a26183.html#a63771475c954e4bddf6c1fc4c04990e0", null ]
 ];

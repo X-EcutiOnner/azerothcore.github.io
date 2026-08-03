@@ -1,20 +1,15 @@
 var a05399 =
 [
-    [ "Cell", "d1/d5e/a05403.html", "d1/d5e/a05403" ],
-    [ "MemberTable", "dc/daf/a05399.html#a53d3129df77e91fe5a16a990f94412fb", null ],
-    [ "RegularGrid2D", "dc/daf/a05399.html#ad46cc1766cbe53425691d25266836162", null ],
-    [ "~RegularGrid2D", "dc/daf/a05399.html#af105482aa4349d2f7f937fb95ec7f2a8", null ],
-    [ "balance", "dc/daf/a05399.html#ae4bc431aff07874774243907c6c71539", null ],
-    [ "contains", "dc/daf/a05399.html#a03a3daaf4be4e818315eb1051bed786f", null ],
-    [ "getGrid", "dc/daf/a05399.html#a17d16d7813e95d09000563cd1f059414", null ],
-    [ "getGridFor", "dc/daf/a05399.html#a038d866c2d0b029b1b60991f0d7ac106", null ],
-    [ "insert", "dc/daf/a05399.html#acd03acd7829c13772c49580724ca4b1c", null ],
-    [ "intersectPoint", "dc/daf/a05399.html#a3eb8cf138465b05159a8411d5f723bcb", null ],
-    [ "intersectRay", "dc/daf/a05399.html#abd2a34c305726b54aa1b76ba5e9353b8", null ],
-    [ "intersectRay", "dc/daf/a05399.html#a8ff8f11a1e48a2ee247609c5d01330eb", null ],
-    [ "intersectZAllignedRay", "dc/daf/a05399.html#a1e06727cad432d3f3ce9ca6f08c2ac76", null ],
-    [ "remove", "dc/daf/a05399.html#a862fd48782df471f0b8ab84bdd4ae51b", null ],
-    [ "size", "dc/daf/a05399.html#a6e7ce25838521cf8dde65aa6f70f404f", null ],
-    [ "memberTable", "dc/daf/a05399.html#a2343374187eaf1b4a4dcf6d5cf4611d1", null ],
-    [ "nodes", "dc/daf/a05399.html#a1f31b8ce99c32652c8b8c3b5063fe83d", null ]
+    [ "GetBounds", "dc/daf/a05399.html#a74182e3f2b6cd6eb1ec9a09a76749537", null ],
+    [ "operator==", "dc/daf/a05399.html#aa32a53f51fd441bb19c4e3f6a269f33e", null ],
+    [ "readFromFile", "dc/daf/a05399.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
+    [ "writeToFile", "dc/daf/a05399.html#af7ab85f7ab03ed4c9eadde9bba1a1857", null ],
+    [ "adtId", "dc/daf/a05399.html#a4ebcfe8326eff028e722c9972a16200b", null ],
+    [ "flags", "dc/daf/a05399.html#acfc7a76db09013abfad8e42aaae59f52", null ],
+    [ "iBound", "dc/daf/a05399.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],
+    [ "ID", "dc/daf/a05399.html#ab2fdb441870d6ac7ddc05640ec1d0598", null ],
+    [ "iPos", "dc/daf/a05399.html#abb5966f87710bc6a1f5da766c99b3e12", null ],
+    [ "iRot", "dc/daf/a05399.html#a6d0b4f6bde1a20b246e4b22cc43e25af", null ],
+    [ "iScale", "dc/daf/a05399.html#aad355d0fb09ff0360ed19610bef92d8e", null ],
+    [ "name", "dc/daf/a05399.html#a66e19a4a28f8fc0c537f1315d9bddcfb", null ]
 ];

@@ -1,5 +1,9 @@
 var a12455 =
 [
-    [ "Chance", "d6/d3c/a12455.html#a20ae19fc80deceb81adccb91b341fb82", null ],
-    [ "Entry", "d6/d3c/a12455.html#ae8b951678ec65907370ffe700cd668c8", null ]
+    [ "event_commandscript", "d6/d3c/a12455.html#a160db0ad8874b0834ef863043b1796ae", null ],
+    [ "GetCommands", "d6/d3c/a12455.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
+    [ "HandleEventActiveListCommand", "d6/d3c/a12455.html#a6752be35103bb585984083a449c85714", null ],
+    [ "HandleEventInfoCommand", "d6/d3c/a12455.html#a1f0815bccd6cef61826ada4e349708d9", null ],
+    [ "HandleEventStartCommand", "d6/d3c/a12455.html#ad46dbd8892db3548d889d4127461c8e3", null ],
+    [ "HandleEventStopCommand", "d6/d3c/a12455.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
 ];

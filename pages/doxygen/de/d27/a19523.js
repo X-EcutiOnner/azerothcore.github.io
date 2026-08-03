@@ -1,17 +1,9 @@
 var a19523 =
 [
-    [ "boss_thaddius_summonAI", "de/d27/a19523.html#aa5050ea97f0f92a39f3db856af5cd28e", null ],
-    [ "DoAction", "de/d27/a19523.html#a3b95513bd72806a928c0f57cf6ceb45a", null ],
-    [ "EnterEvadeMode", "de/d27/a19523.html#ad2258d2039a789f99ad4c0766726df85", null ],
-    [ "JustDied", "de/d27/a19523.html#a1629c28098312defb57611967adf34fe", null ],
-    [ "JustEngagedWith", "de/d27/a19523.html#af96f6054547e377f401972273e6e86aa", null ],
-    [ "KilledUnit", "de/d27/a19523.html#a16771a7a854f85dcc26e3510d31454af", null ],
-    [ "Reset", "de/d27/a19523.html#a762fb33bd8fe4ac457b9b7b9c44b5d4c", null ],
-    [ "UpdateAI", "de/d27/a19523.html#a6f99135eb20d77cca69ec20fe4fbd002", null ],
-    [ "events", "de/d27/a19523.html#a18dd6a61746effdf03cd0afbadd8a368", null ],
-    [ "instance", "de/d27/a19523.html#a122582c974aa1e68638ea196ea2f6771", null ],
-    [ "myCoil", "de/d27/a19523.html#a2c21b7023f7396566f7486591a653079", null ],
-    [ "overload", "de/d27/a19523.html#a6d054ec2a0f26f9f3a5b142bacca0ae5", null ],
-    [ "pullTimer", "de/d27/a19523.html#a6080f32e1d90fa3e2e7bd9447abbad87", null ],
-    [ "visualTimer", "de/d27/a19523.html#a3587b09a23d7aad81effd14bbda03291", null ]
+    [ "boss_grobbulus_poison_cloudAI", "de/d27/a19523.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
+    [ "KilledUnit", "de/d27/a19523.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
+    [ "Reset", "de/d27/a19523.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
+    [ "UpdateAI", "de/d27/a19523.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
+    [ "auraVisualTimer", "de/d27/a19523.html#a74aea4294c26414d3b60983d14d36e31", null ],
+    [ "sizeTimer", "de/d27/a19523.html#a73f775b30ad36a595e0d8532067ba042", null ]
 ];

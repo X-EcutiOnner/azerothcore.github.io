@@ -1,6 +1,6 @@
 var a18671 =
 [
-    [ "ModDest", "da/da7/a18671.html#a71638bdecb0f580dceff7858441056d8", null ],
-    [ "PrepareSpellScript", "da/da7/a18671.html#a741227928e07585b156ec716ae8b13da", null ],
-    [ "Register", "da/da7/a18671.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
+    [ "npc_shambling_horror_iccAI", "df/d26/a18675.html", "df/d26/a18675" ],
+    [ "npc_shambling_horror_icc", "da/da7/a18671.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
+    [ "GetAI", "da/da7/a18671.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
 ];

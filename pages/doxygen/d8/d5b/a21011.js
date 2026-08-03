@@ -1,6 +1,11 @@
 var a21011 =
 [
-    [ "npc_ferocious_rhinoAI", "d6/da4/a21015.html", "d6/da4/a21015" ],
-    [ "npc_ferocious_rhino", "d8/d5b/a21011.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
-    [ "GetAI", "d8/d5b/a21011.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
+    [ "boss_yoggsaron_lich_king", "d8/d5b/a21011.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
+    [ "NextStep", "d8/d5b/a21011.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
+    [ "Reset", "d8/d5b/a21011.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
+    [ "Say", "d8/d5b/a21011.html#ac7687fe1253701c702cf2c17986727ec", null ],
+    [ "UpdateAI", "d8/d5b/a21011.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
+    [ "_checkTimer", "d8/d5b/a21011.html#a196ffc443569494bed79f623dd9cdca3", null ],
+    [ "_running", "d8/d5b/a21011.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
+    [ "_step", "d8/d5b/a21011.html#a97244534b8c6a69807388b620df2263f", null ]
 ];

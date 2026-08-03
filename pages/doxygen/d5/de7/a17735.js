@@ -1,9 +1,13 @@
 var a17735 =
 [
-    [ "FilterTargets", "d5/de7/a17735.html#a7b490400378893a19cdaf52af25f3a51", null ],
-    [ "HandleScript", "d5/de7/a17735.html#acee46fb0af45364478a92db59fcc3f24", null ],
-    [ "Load", "d5/de7/a17735.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
-    [ "PrepareSpellScript", "d5/de7/a17735.html#abb8fac43566f92b19e644edc38ab5d73", null ],
-    [ "Register", "d5/de7/a17735.html#a1add221102b7067ffc130969f5172eae", null ],
-    [ "Validate", "d5/de7/a17735.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
+    [ "npc_kinetic_bombAI", "d5/de7/a17735.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
+    [ "DoAction", "d5/de7/a17735.html#a52e913b244e58f99745926d021dc0d95", null ],
+    [ "IsSummonedBy", "d5/de7/a17735.html#a03dc3870b23105bb1d0d207adefe2541", null ],
+    [ "Reset", "d5/de7/a17735.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
+    [ "UpdateAI", "d5/de7/a17735.html#a1ce9bf99879796652878990a773e6a2c", null ],
+    [ "_events", "d5/de7/a17735.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
+    [ "_groundZ", "d5/de7/a17735.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
+    [ "_x", "d5/de7/a17735.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
+    [ "_y", "d5/de7/a17735.html#a5d9f4039c87e1e57234af51cd4617022", null ],
+    [ "exploded", "d5/de7/a17735.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
 ];

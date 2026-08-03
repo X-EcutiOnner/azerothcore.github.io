@@ -1,17 +1,7 @@
 var a17935 =
 [
-    [ "npc_gunship_boarding_addAI", "d0/d9f/a17935.html#accf0e65592983cc0199cb445aea55f99", null ],
-    [ "CanAIAttack", "d0/d9f/a17935.html#a7d30e525342d1cb13103a4d7ebe1bb39", null ],
-    [ "DamageTaken", "d0/d9f/a17935.html#a3b4eac0143e3c9eb2730c9bcf54f90b0", null ],
-    [ "EnterEvadeMode", "d0/d9f/a17935.html#a5350433e352e0302d03c750a143880cf", null ],
-    [ "MovementInform", "d0/d9f/a17935.html#aa2bd88e4539ddc99f888d41fcb78c383", null ],
-    [ "SetData", "d0/d9f/a17935.html#a4fd0655356a2f9b5820e0f42f267715e", null ],
-    [ "SetSlotInfo", "d0/d9f/a17935.html#adb50c92c76763733dbec025769d62a40", null ],
-    [ "UpdateAI", "d0/d9f/a17935.html#af25bee85b38d70d1b792d7c1752e45f5", null ],
-    [ "_usedDesperateResolve", "d0/d9f/a17935.html#aaf154d9774154e868d563b3c47916746", null ],
-    [ "anyValid", "d0/d9f/a17935.html#a7fafebb9c6076dbe7fc621788910f63b", null ],
-    [ "checkTimer", "d0/d9f/a17935.html#a9a6b6d68743b1e1e993fa32435ba6722", null ],
-    [ "Index", "d0/d9f/a17935.html#a18b570e7bae0e2c4d0dcfc788d9deec3", null ],
-    [ "Instance", "d0/d9f/a17935.html#a07eeeedf7c1315a41c073cfc83361c9f", null ],
-    [ "Slot", "d0/d9f/a17935.html#a1aef6abcddaca26da2d09d3d2e6e1152", null ]
+    [ "HandleScript", "d0/d9f/a17935.html#a276018baa590b942d90c457faea10040", null ],
+    [ "PrepareSpellScript", "d0/d9f/a17935.html#a0bdef74dbd65d938eb5eac32f6612fe1", null ],
+    [ "Register", "d0/d9f/a17935.html#a7afc131b5dd31ec6b225fdd38f0edf34", null ],
+    [ "Validate", "d0/d9f/a17935.html#a4d16e1aec2b24cd70366308f25619cf2", null ]
 ];

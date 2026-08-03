@@ -1,11 +1,14 @@
 var a25379 =
 [
-    [ "CalcPeriodic", "de/dbb/a25379.html#ab5feede17fa79c9d02fa459586eaca41", null ],
-    [ "CalculateAPAmount", "de/dbb/a25379.html#af2b1da799f1b3c0373dc6782dabbf89c", null ],
-    [ "CalculateResistanceAmount", "de/dbb/a25379.html#a51828f07b0e099c5931161f7aeebaab7", null ],
-    [ "CalculateSPAmount", "de/dbb/a25379.html#a255ed8f5158e715313e44b13f30b099f", null ],
-    [ "CalculateStatAmount", "de/dbb/a25379.html#ade1b7256d19b526a7f4b1520f6b2f663", null ],
-    [ "HandlePeriodic", "de/dbb/a25379.html#a136c8cedca7630543b8937e77571ead1", null ],
-    [ "PrepareAuraScript", "de/dbb/a25379.html#a638a2544d9216bec90c433100c0663a0", null ],
-    [ "Register", "de/dbb/a25379.html#a55605257006d8218250932357f325bb8", null ]
+    [ "spell_gen_mount", "de/dbb/a25379.html#aae8c5c328dda0668bf8cdabc2c9cd29f", null ],
+    [ "HandleMount", "de/dbb/a25379.html#a81085b5efd8d9bd7c82ebb1cf6604793", null ],
+    [ "PrepareSpellScript", "de/dbb/a25379.html#a49e2046d30352a6e22dab2530e909fa7", null ],
+    [ "Register", "de/dbb/a25379.html#a8175ecc0c407d5c4646f038d7b62e92b", null ],
+    [ "Validate", "de/dbb/a25379.html#accef27fc13ff34af52860ad6ac62e7f3", null ],
+    [ "_mount0", "de/dbb/a25379.html#abd6347074186b7c47ac5a2c760f4db33", null ],
+    [ "_mount100", "de/dbb/a25379.html#a5e56853140f188ff1babc61c507f8300", null ],
+    [ "_mount150", "de/dbb/a25379.html#a1237697623e4831c25efcde1ab370031", null ],
+    [ "_mount280", "de/dbb/a25379.html#aa9d0a936795d06dd78ef3c4d5aaf0320", null ],
+    [ "_mount310", "de/dbb/a25379.html#ac06b80d14cc106281c3e6bf3f6a5c727", null ],
+    [ "_mount60", "de/dbb/a25379.html#a53ce7d1b5a39cce2bede77aad647dc7e", null ]
 ];

@@ -1,8 +1,7 @@
 var a21999 =
 [
-    [ "CheckCast", "d2/d18/a21999.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "d2/d18/a21999.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "d2/d18/a21999.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "d2/d18/a21999.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "d2/d18/a21999.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "HandleScript", "d2/d18/a21999.html#a7fec959237546201ea94d5f87068e1c5", null ],
+    [ "PrepareSpellScript", "d2/d18/a21999.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
+    [ "Register", "d2/d18/a21999.html#a0aab07a4950f60a290491aa13103b332", null ],
+    [ "Validate", "d2/d18/a21999.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
 ];

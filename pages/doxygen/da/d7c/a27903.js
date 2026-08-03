@@ -1,6 +1,7 @@
 var a27903 =
 [
-    [ "go_witherbark_totem_bundleAI", "da/d7c/a27903.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "da/d7c/a27903.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "da/d7c/a27903.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "HandleEffect", "da/d7c/a27903.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
+    [ "PrepareSpellScript", "da/d7c/a27903.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
+    [ "Register", "da/d7c/a27903.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
+    [ "Validate", "da/d7c/a27903.html#ab6d78ecb650f13df3376baced8c40a63", null ]
 ];

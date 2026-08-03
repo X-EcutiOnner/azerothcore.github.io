@@ -1,7 +1,8 @@
 var a26071 =
 [
-    [ "AfterRemove", "d8/d9c/a26071.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
-    [ "PrepareAuraScript", "d8/d9c/a26071.html#a13f11ec412f18d805282b3810aff5e90", null ],
-    [ "Register", "d8/d9c/a26071.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
-    [ "Validate", "d8/d9c/a26071.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
+    [ "HandleDummy", "d8/d9c/a26071.html#a3db6982f1162ac6b03771a0e7e432e6d", null ],
+    [ "Load", "d8/d9c/a26071.html#a9671be7920dfd3bde2033f0ae43259b0", null ],
+    [ "PrepareSpellScript", "d8/d9c/a26071.html#ad50c9141d40b7089fd24a8657d496a8d", null ],
+    [ "Register", "d8/d9c/a26071.html#a249a857b1cf5b0c3be6018cb233c75d1", null ],
+    [ "Validate", "d8/d9c/a26071.html#ac209048bd5688417c391c2c9b8a72d8b", null ]
 ];

@@ -1,11 +1,9 @@
 var a24427 =
 [
-    [ "CalcPeriodic", "d1/d1c/a24427.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
-    [ "CalculateAPAmount", "d1/d1c/a24427.html#ab23f26c3470f629f0a20f28faf272a68", null ],
-    [ "CalculateHealthAmount", "d1/d1c/a24427.html#a4f827a906ac279e143ba8545545090ad", null ],
-    [ "CalculateSPAmount", "d1/d1c/a24427.html#ae94493ffed217a218e21c05e002cec00", null ],
-    [ "HandleEffectApply", "d1/d1c/a24427.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
-    [ "HandlePeriodic", "d1/d1c/a24427.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
-    [ "PrepareAuraScript", "d1/d1c/a24427.html#a5052689d815e0a0543693b39b7454deb", null ],
-    [ "Register", "d1/d1c/a24427.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
+    [ "npc_pet_gen_toxic_wasteling", "d1/d1c/a24427.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "d1/d1c/a24427.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "d1/d1c/a24427.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "d1/d1c/a24427.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "d1/d1c/a24427.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "d1/d1c/a24427.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

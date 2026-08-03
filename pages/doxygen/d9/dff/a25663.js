@@ -1,5 +1,8 @@
 var a25663 =
 [
-    [ "PrepareSpellScript", "d9/dff/a25663.html#a065d81d698c978bcdd234712807e9098", null ],
-    [ "Register", "d9/dff/a25663.html#a3efcd145189b27272495110c799cf14f", null ]
+    [ "CheckProc", "d9/dff/a25663.html#a2b0ff2594877249d0bdb4656fa67b83f", null ],
+    [ "HandleProc", "d9/dff/a25663.html#ac1aebc16e7944ac3f8305d9ff27bc998", null ],
+    [ "PrepareAuraScript", "d9/dff/a25663.html#a19557020af9ca276f72c1d3e4ba8b27b", null ],
+    [ "Register", "d9/dff/a25663.html#a43f7bb634cb165fab5e2187256f50c3f", null ],
+    [ "Validate", "d9/dff/a25663.html#a7762ce25775b98dba14b4ac465cad711", null ]
 ];

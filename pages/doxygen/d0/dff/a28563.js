@@ -1,7 +1,6 @@
 var a28563 =
 [
-    [ "Id", "d0/dff/a28563.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
-    [ "SoundBank", "d0/dff/a28563.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
-    [ "SpellId", "d0/dff/a28563.html#aa010947f5fbec6867b005b25728e720b", null ],
-    [ "Type", "d0/dff/a28563.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
+    [ "npc_guardianAI", "da/d4d/a28567.html", "da/d4d/a28567" ],
+    [ "npc_guardian", "d0/dff/a28563.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
+    [ "GetAI", "d0/dff/a28563.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
 ];

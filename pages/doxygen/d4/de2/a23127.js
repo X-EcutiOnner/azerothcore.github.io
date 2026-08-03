@@ -1,5 +1,6 @@
 var a23127 =
 [
-    [ "boss_quagmirran", "d4/de2/a23127.html#a7f6289b86216b052f434a1417023e22c", null ],
-    [ "JustEngagedWith", "d4/de2/a23127.html#a28253b6653bd2e26e7f246c71a88b625", null ]
+    [ "boss_doomlordkazzakAI", "d7/d1f/a23131.html", "d7/d1f/a23131" ],
+    [ "boss_doomlord_kazzak", "d4/de2/a23127.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
+    [ "GetAI", "d4/de2/a23127.html#a460a32ce37aae852b48f1990406da9a4", null ]
 ];

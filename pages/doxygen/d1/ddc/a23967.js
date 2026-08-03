@@ -1,7 +1,6 @@
 var a23967 =
 [
-    [ "o", "d1/ddc/a23967.html#a3785e9b55ea3a7140086ce1f86232109", null ],
-    [ "x", "d1/ddc/a23967.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
-    [ "y", "d1/ddc/a23967.html#a10fbad67977d8dd3911eb629c1797684", null ],
-    [ "z", "d1/ddc/a23967.html#a69fc2438e52f6c0de3af13900ff38166", null ]
+    [ "HandlePeriodic", "d1/ddc/a23967.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
+    [ "PrepareAuraScript", "d1/ddc/a23967.html#a438425f3002028a0978e0dbab580ca03", null ],
+    [ "Register", "d1/ddc/a23967.html#af4b26607e8838b7bbbe8777f57601341", null ]
 ];

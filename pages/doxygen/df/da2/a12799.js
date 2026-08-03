@@ -1,6 +1,14 @@
 var a12799 =
 [
-    [ "go_chromaggus_lever", "df/da2/a12799.html#aa592f93028e323ed10102121d2d6b20e", null ],
-    [ "GossipHello", "df/da2/a12799.html#abfb91ccfeb90152dc252f0110fb51715", null ],
-    [ "_instance", "df/da2/a12799.html#a481373f4c49d76d3d0a41efcf2821f8f", null ]
+    [ "boss_lord_valthalak", "df/da2/a12799.html#a26fd09b5f1e3429cacb90f3aaff1a105", null ],
+    [ "DamageTaken", "df/da2/a12799.html#adf174f2b50e76a721c034a13f1946875", null ],
+    [ "IsSummonedBy", "df/da2/a12799.html#aaa4f24a056e7a0598ff7a399802ac32c", null ],
+    [ "JustDied", "df/da2/a12799.html#a084cc36f08a1decd2d262b7a9eb59f6b", null ],
+    [ "JustEngagedWith", "df/da2/a12799.html#aaa9835ca1d7d81ee177202138be4bad5", null ],
+    [ "Reset", "df/da2/a12799.html#a0494a1b6cc00b40f627a58d790424567", null ],
+    [ "StartFighting", "df/da2/a12799.html#a3135ff2a25ee9c4286623cb570cc03f3", null ],
+    [ "StartTalking", "df/da2/a12799.html#ace3e47ef60b3761d860677648fabdd9d", null ],
+    [ "UpdateAI", "df/da2/a12799.html#a49a438bff5aadc58ae69b00cd2ce68d1", null ],
+    [ "_frenzy15", "df/da2/a12799.html#acc7ba74226b04ee9a62233e473f68f7b", null ],
+    [ "_frenzy40", "df/da2/a12799.html#a7d8cd5bedfb8c5bfc1ac4bdc0efff2bf", null ]
 ];

@@ -1,6 +1,7 @@
 var a12007 =
 [
-    [ "EffectCalcPeriodicHandler", "d5/da7/a12007.html#a17288ee3b2951f1f2a8dc36a598b9a27", null ],
-    [ "Call", "d5/da7/a12007.html#a6a7eeb9599a10aa4ab918a2c2456a186", null ],
-    [ "pEffectHandlerScript", "d5/da7/a12007.html#a57673f457c08edfbf7fc1877aa071721", null ]
+    [ "CategoryRecoveryTime", "d5/da7/a12007.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
+    [ "RecoveryTime", "d5/da7/a12007.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
+    [ "StartRecoveryCategory", "d5/da7/a12007.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
+    [ "StartRecoveryTime", "d5/da7/a12007.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
 ];

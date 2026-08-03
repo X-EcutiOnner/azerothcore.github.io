@@ -1,6 +1,6 @@
 var a28211 =
 [
-    [ "npc_taxi", "d8/d47/a28211.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "d8/d47/a28211.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "d8/d47/a28211.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "go_heatAI", "dd/d3d/a28215.html", "dd/d3d/a28215" ],
+    [ "go_heat", "d8/d47/a28211.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
+    [ "GetAI", "d8/d47/a28211.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
 ];

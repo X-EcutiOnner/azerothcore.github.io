@@ -1,7 +1,7 @@
 var a16535 =
 [
-    [ "HandlePeriodic", "da/dd3/a16535.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "da/dd3/a16535.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "da/dd3/a16535.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "da/dd3/a16535.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "da/dd3/a16535.html#aed531e61508d4d404827f47c6348a5e6", null ],
+    [ "JustEngagedWith", "da/dd3/a16535.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
+    [ "UpdateAI", "da/dd3/a16535.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
+    [ "_events", "da/dd3/a16535.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
 ];

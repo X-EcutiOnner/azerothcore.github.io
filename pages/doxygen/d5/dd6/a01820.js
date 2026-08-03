@@ -1,6 +1,6 @@
 var a01820 =
 [
-    [ "MiscScript", "db/d67/a10822.html", "db/d67/a10822" ],
+    [ "MiscScript", "d2/d0b/a10827.html", "d2/d0b/a10827" ],
     [ "MiscHook", "d5/dd6/a01820.html#af37f873b1735a7e1f78da6f2f334c134", [
       [ "MISCHOOK_ON_CONSTRUCT_OBJECT", "d5/dd6/a01820.html#af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb", null ],
       [ "MISCHOOK_ON_DESTRUCT_OBJECT", "d5/dd6/a01820.html#af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f", null ],

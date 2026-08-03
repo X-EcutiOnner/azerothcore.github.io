@@ -1,6 +1,8 @@
 var a24619 =
 [
-    [ "HandleKnockBack", "dd/db4/a24619.html#ae50d143953074b83183482770046e131", null ],
-    [ "PrepareSpellScript", "dd/db4/a24619.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
-    [ "Register", "dd/db4/a24619.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
+    [ "HandleDamage", "dd/db4/a24619.html#a2c5149eb0b6698240c25b63e71af0854", null ],
+    [ "PrepareSpellScript", "dd/db4/a24619.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
+    [ "Register", "dd/db4/a24619.html#ad29179d9159700b52b0c21a779cd060b", null ],
+    [ "Suicide", "dd/db4/a24619.html#a981f8547eae9b317111bf9a7016510ab", null ],
+    [ "Validate", "dd/db4/a24619.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
 ];

@@ -1,7 +1,5 @@
 var a13275 =
 [
-    [ "HandleDummy", "dc/d21/a13275.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
-    [ "PrepareSpellScript", "dc/d21/a13275.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
-    [ "Register", "dc/d21/a13275.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
-    [ "Validate", "dc/d21/a13275.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
+    [ "at_karazhan_atiesh_aran", "dc/d21/a13275.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
+    [ "OnTrigger", "dc/d21/a13275.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
 ];

@@ -1,5 +1,6 @@
 var a09207 =
 [
-    [ "NextPage", "d9/da8/a09207.html#add4d8a2e79e4a6c1c1b7ad9b63dd07ef", null ],
-    [ "Text", "d9/da8/a09207.html#a9c13498341adce66590cb198b720f96f", null ]
+    [ "Reset", "d9/da8/a09207.html#acccf504073283011dc32b05a5a87b85a", null ],
+    [ "Guid", "d9/da8/a09207.html#a738a014abc8cb5df525642acc218576b", null ],
+    [ "IsUnselectable", "d9/da8/a09207.html#a037411c58c414d0c5a39915b7acd578d", null ]
 ];

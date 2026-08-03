@@ -1,9 +1,6 @@
 var a15563 =
 [
-    [ "npc_claw_tentacle", "de/d71/a15563.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
-    [ "JustDied", "de/d71/a15563.html#aa566b417d1b766668133dd1d6a58293f", null ],
-    [ "JustEngagedWith", "de/d71/a15563.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
-    [ "Reset", "de/d71/a15563.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
-    [ "UpdateAI", "de/d71/a15563.html#ae7d521445680167add653717c7ae4c86", null ],
-    [ "_portalGUID", "de/d71/a15563.html#ab979781a8f77267348595cfa17341bae", null ]
+    [ "FilterTargets", "de/d71/a15563.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
+    [ "PrepareSpellScript", "de/d71/a15563.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
+    [ "Register", "de/d71/a15563.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
 ];
