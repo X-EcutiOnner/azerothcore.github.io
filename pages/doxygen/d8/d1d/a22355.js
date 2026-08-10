@@ -1,6 +1,7 @@
 var a22355 =
 [
-    [ "HandleDamage", "d8/d1d/a22355.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
-    [ "PrepareSpellScript", "d8/d1d/a22355.html#a23b6afe1e35edc4013767b119b8e0218", null ],
-    [ "Register", "d8/d1d/a22355.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
+    [ "HandleOnEffectHit", "d8/d1d/a22355.html#a909ec44339061a114697cacee5fba5b2", null ],
+    [ "PrepareSpellScript", "d8/d1d/a22355.html#ac1bfb2b49cd335ca5961b984fadfffb8", null ],
+    [ "Register", "d8/d1d/a22355.html#aa241c97b4e895d07fe89d03edca29912", null ],
+    [ "Validate", "d8/d1d/a22355.html#aa84f4c29ca00789bb47661267549cda6", null ]
 ];

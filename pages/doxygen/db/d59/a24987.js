@@ -1,10 +1,7 @@
 var a24987 =
 [
-    [ "HandleEffectApply", "db/d59/a24987.html#ac977d07e0b054af33345538f10d80c56", null ],
-    [ "HandleEffectRemove", "db/d59/a24987.html#acd9c460acb60eae5db8874c246014147", null ],
-    [ "PrepareAuraScript", "db/d59/a24987.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
-    [ "Register", "db/d59/a24987.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
-    [ "_hasFlag", "db/d59/a24987.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
-    [ "_itemId", "db/d59/a24987.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
-    [ "_modelId", "db/d59/a24987.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
+    [ "HandlePeriodic", "db/d59/a24987.html#abc823ccb417c7ee54b275fd765c2e9a5", null ],
+    [ "PrepareAuraScript", "db/d59/a24987.html#a51d8701f84737d91cf4367967e2c9439", null ],
+    [ "Register", "db/d59/a24987.html#a57d210027c9fa2a4a7a90c4b1fd7589b", null ],
+    [ "Validate", "db/d59/a24987.html#a507e7e61eef30115812dc5ab5ad33fea", null ]
 ];

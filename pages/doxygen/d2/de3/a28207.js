@@ -1,6 +1,5 @@
 var a28207 =
 [
-    [ "go_flamesAI", "d2/de3/a28207.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "d2/de3/a28207.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "d2/de3/a28207.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "go_ethereum_prison", "d2/de3/a28207.html#a1872dab11a8470194ab35f87e217aa8a", null ],
+    [ "OnGossipHello", "d2/de3/a28207.html#a73479b0512ea778336fad4bd5cd9b909", null ]
 ];

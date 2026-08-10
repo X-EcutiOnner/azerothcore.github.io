@@ -1,12 +1,12 @@
 var a02996 =
 [
-    [ "npc_ulduar_iron_construct", "d6/dd6/a20539.html", "d6/dd6/a20539" ],
-    [ "boss_ignis", "dc/d28/a20543.html", "dc/d28/a20543" ],
-    [ "spell_ignis_scorch_aura", "dd/d3e/a20547.html", "dd/d3e/a20547" ],
-    [ "spell_ignis_grab_initial", "dd/d80/a20551.html", "dd/d80/a20551" ],
-    [ "spell_ignis_slag_pot_aura", "db/d87/a20555.html", "db/d87/a20555" ],
-    [ "spell_ignis_brittle_aura", "d1/d10/a20559.html", "d1/d10/a20559" ],
-    [ "achievement_ignis_shattered", "d2/d72/a20563.html", "d2/d72/a20563" ],
+    [ "npc_ulduar_iron_construct", "dc/d28/a20543.html", "dc/d28/a20543" ],
+    [ "boss_ignis", "dd/d3e/a20547.html", "dd/d3e/a20547" ],
+    [ "spell_ignis_scorch_aura", "dd/d80/a20551.html", "dd/d80/a20551" ],
+    [ "spell_ignis_grab_initial", "db/d87/a20555.html", "db/d87/a20555" ],
+    [ "spell_ignis_slag_pot_aura", "d1/d10/a20559.html", "d1/d10/a20559" ],
+    [ "spell_ignis_brittle_aura", "d2/d72/a20563.html", "d2/d72/a20563" ],
+    [ "achievement_ignis_shattered", "d8/d11/a20567.html", "d8/d11/a20567" ],
     [ "ACHIEV_STOKIN_THE_FURNACE_EVENT", "d3/d8b/a02996.html#a1c74f54ec8223535d573a022bf59557a", null ],
     [ "eEvents", "d3/d8b/a02996.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "d4/d43/a03143.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
@@ -660,6 +660,8 @@ var a02996 =
       [ "EMOTE_ALLIES_OF_NATURE", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31a7cadde31f78cab0aa507f770f7788b1b", null ],
       [ "EMOTE_GROUND_TREMOR", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31ad137ac9c7db7c1dc6010474297b50432", null ],
       [ "EMOTE_IRON_ROOTS", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31a3e0bdf6956d53c51cdc08651cd13b663", null ],
+      [ "EMOTE_TRIO_WITHERS", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31ac647ae044c052d81db4e869ad33e0817", null ],
+      [ "EMOTE_TRIO_REGENERATES", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31a1fcc24c539391a4925b8c139ea386478", null ],
       [ "SAY_AGGRO", "d3/d8b/a02996.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_SUMMON", "d3/d8b/a02996.html#aa80bce1d0ea05213c0d6c327126caf31acebbfa1f13b8de4f039f5d550063c7bf", null ],
       [ "SAY_SLAG_POT", "d3/d8b/a02996.html#aa80bce1d0ea05213c0d6c327126caf31af160c82585a4d6cd0c29317910e833c4", null ],

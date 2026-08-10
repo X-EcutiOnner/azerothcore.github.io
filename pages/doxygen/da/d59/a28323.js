@@ -1,6 +1,6 @@
 var a28323 =
 [
-    [ "go_soulwellAI", "d9/dec/a28327.html", "d9/dec/a28327" ],
-    [ "go_soulwell", "da/d59/a28323.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "da/d59/a28323.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "go_fel_crystalforge", "da/d59/a28323.html#aa44708a617edd51651da49918ab776e5", null ],
+    [ "OnGossipHello", "da/d59/a28323.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
+    [ "OnGossipSelect", "da/d59/a28323.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
 ];

@@ -114,8 +114,8 @@ $(document).ready(function(){initNavTree('d3/dd9/a19119.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ad910375b1559d9f806f162ce308de6af"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd9/a19119.html#ad910375b1559d9f806f162ce308de6af">ICCOrbControllerMinionSearch</a> (<a class="el" href="../../d5/d74/a09163.html">Unit</a> *owner, bool checkCasting)</td></tr>
-<tr class="separator:ad910375b1559d9f806f162ce308de6af"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4ad0fe75b994f2bf9cda7e52a2aa21cb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd9/a19119.html#a4ad0fe75b994f2bf9cda7e52a2aa21cb">ICCOrbControllerMinionSearch</a> (<a class="el" href="../../d5/d74/a09163.html">Unit</a> *owner, bool checkCasting, float range=10.0f)</td></tr>
+<tr class="separator:a4ad0fe75b994f2bf9cda7e52a2aa21cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4b7f4833f5dc780cc0c946b530bb9767"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd9/a19119.html#a4b7f4833f5dc780cc0c946b530bb9767">operator()</a> (<a class="el" href="../../de/db2/a08403.html">Creature</a> *target) const</td></tr>
 <tr class="separator:a4b7f4833f5dc780cc0c946b530bb9767"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -125,11 +125,13 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a056aa0d3240c47c65138ec4469e39953"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a46624ac7610ccc72baa93d68bf89e070"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd9/a19119.html#a46624ac7610ccc72baa93d68bf89e070">_checkCasting</a></td></tr>
 <tr class="separator:a46624ac7610ccc72baa93d68bf89e070"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2a2d14d469f39d6af0e9110266b20b6c"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd9/a19119.html#a2a2d14d469f39d6af0e9110266b20b6c">_range</a></td></tr>
+<tr class="separator:a2a2d14d469f39d6af0e9110266b20b6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad910375b1559d9f806f162ce308de6af" name="ad910375b1559d9f806f162ce308de6af"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad910375b1559d9f806f162ce308de6af">&#9670;&#160;</a></span>ICCOrbControllerMinionSearch()</h2>
+<a id="a4ad0fe75b994f2bf9cda7e52a2aa21cb" name="a4ad0fe75b994f2bf9cda7e52a2aa21cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4ad0fe75b994f2bf9cda7e52a2aa21cb">&#9670;&#160;</a></span>ICCOrbControllerMinionSearch()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -147,7 +149,13 @@ Private Attributes</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>checkCasting</em>&#160;</td>
+          <td class="paramname"><em>checkCasting</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>range</em> = <code>10.0f</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -161,9 +169,10 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1992</span>: <a class="code hl_variable" href="../../d3/dd9/a19119.html#a056aa0d3240c47c65138ec4469e39953">_owner</a>(owner), <a class="code hl_variable" href="../../d3/dd9/a19119.html#a46624ac7610ccc72baa93d68bf89e070">_checkCasting</a>(checkCasting) {}</div>
-<div class="ttc" id="aa19119_html_a056aa0d3240c47c65138ec4469e39953"><div class="ttname"><a href="../../d3/dd9/a19119.html#a056aa0d3240c47c65138ec4469e39953">ICCOrbControllerMinionSearch::_owner</a></div><div class="ttdeci">Unit * _owner</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:2014</div></div>
-<div class="ttc" id="aa19119_html_a46624ac7610ccc72baa93d68bf89e070"><div class="ttname"><a href="../../d3/dd9/a19119.html#a46624ac7610ccc72baa93d68bf89e070">ICCOrbControllerMinionSearch::_checkCasting</a></div><div class="ttdeci">bool _checkCasting</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:2015</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 2013</span>: <a class="code hl_variable" href="../../d3/dd9/a19119.html#a056aa0d3240c47c65138ec4469e39953">_owner</a>(owner), <a class="code hl_variable" href="../../d3/dd9/a19119.html#a46624ac7610ccc72baa93d68bf89e070">_checkCasting</a>(checkCasting), <a class="code hl_variable" href="../../d3/dd9/a19119.html#a2a2d14d469f39d6af0e9110266b20b6c">_range</a>(range) {}</div>
+<div class="ttc" id="aa19119_html_a056aa0d3240c47c65138ec4469e39953"><div class="ttname"><a href="../../d3/dd9/a19119.html#a056aa0d3240c47c65138ec4469e39953">ICCOrbControllerMinionSearch::_owner</a></div><div class="ttdeci">Unit * _owner</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:2035</div></div>
+<div class="ttc" id="aa19119_html_a2a2d14d469f39d6af0e9110266b20b6c"><div class="ttname"><a href="../../d3/dd9/a19119.html#a2a2d14d469f39d6af0e9110266b20b6c">ICCOrbControllerMinionSearch::_range</a></div><div class="ttdeci">float _range</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:2037</div></div>
+<div class="ttc" id="aa19119_html_a46624ac7610ccc72baa93d68bf89e070"><div class="ttname"><a href="../../d3/dd9/a19119.html#a46624ac7610ccc72baa93d68bf89e070">ICCOrbControllerMinionSearch::_checkCasting</a></div><div class="ttdeci">bool _checkCasting</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:2036</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -191,22 +200,22 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1995</span>    {</div>
-<div class="line"><span class="lineno"> 1996</span>        <span class="keywordflow">if</span> (!target-&gt;<a class="code hl_function" href="../../d5/d74/a09163.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || (<a class="code hl_variable" href="../../d3/dd9/a19119.html#a46624ac7610ccc72baa93d68bf89e070">_checkCasting</a> &amp;&amp; target-&gt;<a class="code hl_function" href="../../d5/d74/a09163.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d8/db9/a00725.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>)) || target-&gt;<a class="code hl_function" href="../../de/db2/a08403.html#a436b88db852badef5f6a10210886b7be">GetWaypointPath</a>() || <a class="code hl_variable" href="../../d3/dd9/a19119.html#a056aa0d3240c47c65138ec4469e39953">_owner</a>-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(target) &gt; 10.0f)</div>
-<div class="line"><span class="lineno"> 1997</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1998</span> </div>
-<div class="line"><span class="lineno"> 1999</span>        <span class="keywordflow">switch</span> (target-&gt;<a class="code hl_function" href="../../d6/dbd/a08779.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>())</div>
-<div class="line"><span class="lineno"> 2000</span>        {</div>
-<div class="line"><span class="lineno"> 2001</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d59/a02810.html#a23860b8d9499fb400f8921261b19efd2a73665d23dc5f2de1e4e8dcaea898c8f2">NPC_DARKFALLEN_BLOOD_KNIGHT</a>:</div>
-<div class="line"><span class="lineno"> 2002</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d59/a02810.html#a23860b8d9499fb400f8921261b19efd2af3a646e77892143d675ef6f43de6bbb9">NPC_DARKFALLEN_NOBLE</a>:</div>
-<div class="line"><span class="lineno"> 2003</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d59/a02810.html#a23860b8d9499fb400f8921261b19efd2ab86a706523c4a7eb51708828cd01a5ed">NPC_DARKFALLEN_ARCHMAGE</a>:</div>
-<div class="line"><span class="lineno"> 2004</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d59/a02810.html#a23860b8d9499fb400f8921261b19efd2a987e081c5b560dd362ec873dbefd385b">NPC_DARKFALLEN_ADVISOR</a>:</div>
-<div class="line"><span class="lineno"> 2005</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d59/a02810.html#a23860b8d9499fb400f8921261b19efd2a0ce94780202e44718e2eca58050817a7">NPC_DARKFALLEN_TACTICIAN</a>:</div>
-<div class="line"><span class="lineno"> 2006</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 2007</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno"> 2008</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 2009</span>        }</div>
-<div class="line"><span class="lineno"> 2010</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2016</span>    {</div>
+<div class="line"><span class="lineno"> 2017</span>        <span class="keywordflow">if</span> (!target-&gt;<a class="code hl_function" href="../../d5/d74/a09163.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || (<a class="code hl_variable" href="../../d3/dd9/a19119.html#a46624ac7610ccc72baa93d68bf89e070">_checkCasting</a> &amp;&amp; target-&gt;<a class="code hl_function" href="../../d5/d74/a09163.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d8/db9/a00725.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>)) || target-&gt;<a class="code hl_function" href="../../de/db2/a08403.html#a436b88db852badef5f6a10210886b7be">GetWaypointPath</a>() || <a class="code hl_variable" href="../../d3/dd9/a19119.html#a056aa0d3240c47c65138ec4469e39953">_owner</a>-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(target) &gt; <a class="code hl_variable" href="../../d3/dd9/a19119.html#a2a2d14d469f39d6af0e9110266b20b6c">_range</a>)</div>
+<div class="line"><span class="lineno"> 2018</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 2019</span> </div>
+<div class="line"><span class="lineno"> 2020</span>        <span class="keywordflow">switch</span> (target-&gt;<a class="code hl_function" href="../../d6/dbd/a08779.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>())</div>
+<div class="line"><span class="lineno"> 2021</span>        {</div>
+<div class="line"><span class="lineno"> 2022</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d59/a02810.html#a23860b8d9499fb400f8921261b19efd2a73665d23dc5f2de1e4e8dcaea898c8f2">NPC_DARKFALLEN_BLOOD_KNIGHT</a>:</div>
+<div class="line"><span class="lineno"> 2023</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d59/a02810.html#a23860b8d9499fb400f8921261b19efd2af3a646e77892143d675ef6f43de6bbb9">NPC_DARKFALLEN_NOBLE</a>:</div>
+<div class="line"><span class="lineno"> 2024</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d59/a02810.html#a23860b8d9499fb400f8921261b19efd2ab86a706523c4a7eb51708828cd01a5ed">NPC_DARKFALLEN_ARCHMAGE</a>:</div>
+<div class="line"><span class="lineno"> 2025</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d59/a02810.html#a23860b8d9499fb400f8921261b19efd2a987e081c5b560dd362ec873dbefd385b">NPC_DARKFALLEN_ADVISOR</a>:</div>
+<div class="line"><span class="lineno"> 2026</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d59/a02810.html#a23860b8d9499fb400f8921261b19efd2a0ce94780202e44718e2eca58050817a7">NPC_DARKFALLEN_TACTICIAN</a>:</div>
+<div class="line"><span class="lineno"> 2027</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 2028</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno"> 2029</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 2030</span>        }</div>
+<div class="line"><span class="lineno"> 2031</span>    }</div>
 <div class="ttc" id="aa00725_html_ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54"><div class="ttname"><a href="../../d8/db9/a00725.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a></div><div class="ttdeci">@ UNIT_STATE_CASTING</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:188</div></div>
 <div class="ttc" id="aa02810_html_a23860b8d9499fb400f8921261b19efd2a0ce94780202e44718e2eca58050817a7"><div class="ttname"><a href="../../d6/d59/a02810.html#a23860b8d9499fb400f8921261b19efd2a0ce94780202e44718e2eca58050817a7">NPC_DARKFALLEN_TACTICIAN</a></div><div class="ttdeci">@ NPC_DARKFALLEN_TACTICIAN</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.h:292</div></div>
 <div class="ttc" id="aa02810_html_a23860b8d9499fb400f8921261b19efd2a73665d23dc5f2de1e4e8dcaea898c8f2"><div class="ttname"><a href="../../d6/d59/a02810.html#a23860b8d9499fb400f8921261b19efd2a73665d23dc5f2de1e4e8dcaea898c8f2">NPC_DARKFALLEN_BLOOD_KNIGHT</a></div><div class="ttdeci">@ NPC_DARKFALLEN_BLOOD_KNIGHT</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.h:288</div></div>
@@ -216,10 +225,10 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa08403_html_a436b88db852badef5f6a10210886b7be"><div class="ttname"><a href="../../de/db2/a08403.html#a436b88db852badef5f6a10210886b7be">Creature::GetWaypointPath</a></div><div class="ttdeci">uint32 GetWaypointPath() const</div><div class="ttdef"><b>Definition:</b> Creature.h:357</div></div>
 <div class="ttc" id="aa08779_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../d6/dbd/a08779.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> Object.h:117</div></div>
 <div class="ttc" id="aa08815_html_acaa0cccbbb9cac74080c8279a571a68c"><div class="ttname"><a href="../../db/d10/a08815.html#acaa0cccbbb9cac74080c8279a571a68c">WorldObject::GetDistance</a></div><div class="ttdeci">float GetDistance(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1299</div></div>
-<div class="ttc" id="aa09163_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d5/d74/a09163.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1792</div></div>
+<div class="ttc" id="aa09163_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d5/d74/a09163.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1793</div></div>
 <div class="ttc" id="aa09163_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../d5/d74/a09163.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition:</b> Unit.h:737</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02015">_checkCasting</a>, <a class="el" href="../../#l02014">_owner</a>, <a class="el" href="../../#l01299">WorldObject::GetDistance()</a>, <a class="el" href="../../#l00117">Object::GetEntry()</a>, <a class="el" href="../../#l00357">Creature::GetWaypointPath()</a>, <a class="el" href="../../#l00737">Unit::HasUnitState()</a>, <a class="el" href="../../#l01792">Unit::IsAlive()</a>, <a class="el" href="../../#l00291">NPC_DARKFALLEN_ADVISOR</a>, <a class="el" href="../../#l00290">NPC_DARKFALLEN_ARCHMAGE</a>, <a class="el" href="../../#l00288">NPC_DARKFALLEN_BLOOD_KNIGHT</a>, <a class="el" href="../../#l00289">NPC_DARKFALLEN_NOBLE</a>, <a class="el" href="../../#l00292">NPC_DARKFALLEN_TACTICIAN</a>, and <a class="el" href="../../#l00188">UNIT_STATE_CASTING</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02036">_checkCasting</a>, <a class="el" href="../../#l02035">_owner</a>, <a class="el" href="../../#l02037">_range</a>, <a class="el" href="../../#l01299">WorldObject::GetDistance()</a>, <a class="el" href="../../#l00117">Object::GetEntry()</a>, <a class="el" href="../../#l00357">Creature::GetWaypointPath()</a>, <a class="el" href="../../#l00737">Unit::HasUnitState()</a>, <a class="el" href="../../#l01793">Unit::IsAlive()</a>, <a class="el" href="../../#l00291">NPC_DARKFALLEN_ADVISOR</a>, <a class="el" href="../../#l00290">NPC_DARKFALLEN_ARCHMAGE</a>, <a class="el" href="../../#l00288">NPC_DARKFALLEN_BLOOD_KNIGHT</a>, <a class="el" href="../../#l00289">NPC_DARKFALLEN_NOBLE</a>, <a class="el" href="../../#l00292">NPC_DARKFALLEN_TACTICIAN</a>, and <a class="el" href="../../#l00188">UNIT_STATE_CASTING</a>.</p>
 
 </div>
 </div>
@@ -244,7 +253,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01994">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02015">operator()()</a>.</p>
 
 </div>
 </div>
@@ -268,7 +277,31 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01994">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02015">operator()()</a>.</p>
+
+</div>
+</div>
+<a id="a2a2d14d469f39d6af0e9110266b20b6c" name="a2a2d14d469f39d6af0e9110266b20b6c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2a2d14d469f39d6af0e9110266b20b6c">&#9670;&#160;</a></span>_range</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float ICCOrbControllerMinionSearch::_range</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02015">operator()()</a>.</p>
 
 </div>
 </div>
@@ -278,7 +311,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/dd9/a19119.html">ICCOrbControllerMinionSearch</a></li>
-    <li class="footer">Generated on Mon Aug 3 2026 21:44:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 10 2026 21:23:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

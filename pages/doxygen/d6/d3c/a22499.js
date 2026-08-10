@@ -1,9 +1,14 @@
 var a22499 =
 [
-    [ "npc_crusade_recruitAI", "d6/d3c/a22499.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
-    [ "Reset", "d6/d3c/a22499.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
-    [ "sGossipSelect", "d6/d3c/a22499.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
-    [ "UpdateAI", "d6/d3c/a22499.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
-    [ "_events", "d6/d3c/a22499.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
-    [ "_heading", "d6/d3c/a22499.html#a6e260a6e085962d54b765bff4cb17963", null ]
+    [ "npc_finklesteinAI", "d6/d3c/a22499.html#a075481689af110f8c20cd5ca13258ba3", null ],
+    [ "ClearPlayerOnTask", "d6/d3c/a22499.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
+    [ "GetTaskAura", "d6/d3c/a22499.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
+    [ "GetTaskCounter", "d6/d3c/a22499.html#a240e8f556176b9571bd08407276402be", null ],
+    [ "GetTaskItemEntry", "d6/d3c/a22499.html#a08a3005db6d192663a835b9ee192352b", null ],
+    [ "GetTaskItemName", "d6/d3c/a22499.html#ae02bbd8282d928b21b54058816f7a90c", null ],
+    [ "IsPlayerOnTask", "d6/d3c/a22499.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
+    [ "RightClickCauldron", "d6/d3c/a22499.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
+    [ "SelectRandomCode", "d6/d3c/a22499.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
+    [ "StartNextTask", "d6/d3c/a22499.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
+    [ "questList", "d6/d3c/a22499.html#a5c3a3237579721b94dd433841b83bb02", null ]
 ];

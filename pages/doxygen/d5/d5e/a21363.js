@@ -1,8 +1,6 @@
 var a21363 =
 [
-    [ "CheckProc", "d5/d5e/a21363.html#ac955cc78dd3206816906dd06b3e006f6", null ],
-    [ "HandleProc", "d5/d5e/a21363.html#a966d23cc5714fe35d80b2964dddda536", null ],
-    [ "PrepareAuraScript", "d5/d5e/a21363.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
-    [ "Register", "d5/d5e/a21363.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
-    [ "Validate", "d5/d5e/a21363.html#a5d8e764dafd26548af8588593bf27990", null ]
+    [ "boss_ymironAI", "d1/d29/a21367.html", "d1/d29/a21367" ],
+    [ "boss_ymiron", "d5/d5e/a21363.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
+    [ "GetAI", "d5/d5e/a21363.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
 ];

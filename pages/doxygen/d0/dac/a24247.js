@@ -1,6 +1,7 @@
 var a24247 =
 [
-    [ "npc_illidari_spawnAI", "de/d15/a24251.html", "de/d15/a24251" ],
-    [ "npc_illidari_spawn", "d0/dac/a24247.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
-    [ "GetAI", "d0/dac/a24247.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
+    [ "o", "d0/dac/a24247.html#a3785e9b55ea3a7140086ce1f86232109", null ],
+    [ "x", "d0/dac/a24247.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
+    [ "y", "d0/dac/a24247.html#a10fbad67977d8dd3911eb629c1797684", null ],
+    [ "z", "d0/dac/a24247.html#a69fc2438e52f6c0de3af13900ff38166", null ]
 ];

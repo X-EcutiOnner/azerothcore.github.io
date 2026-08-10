@@ -1,14 +1,10 @@
 var a28559 =
 [
-    [ "npc_garments_of_questsAI", "d1/d67/a28559.html#a079f719ca488ed6fde2783b5db4f328b", null ],
-    [ "JustEngagedWith", "d1/d67/a28559.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
-    [ "Reset", "d1/d67/a28559.html#aaaaa3e41deae0057bd659be5c579d226", null ],
-    [ "SpellHit", "d1/d67/a28559.html#ad22195dba70ced744b319bc1ad83c083", null ],
-    [ "UpdateAI", "d1/d67/a28559.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
-    [ "WaypointReached", "d1/d67/a28559.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
-    [ "WaypointReached", "d1/d67/a28559.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "CanRun", "d1/d67/a28559.html#a93c41781e4cb037b56773bbbf36181b7", null ],
-    [ "CasterGUID", "d1/d67/a28559.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
-    [ "IsHealed", "d1/d67/a28559.html#a96db66704eabf028362d5f8b5c424712", null ],
-    [ "RunAwayTimer", "d1/d67/a28559.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
+    [ "npc_dancing_flamesAI", "d1/d67/a28559.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "d1/d67/a28559.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "d1/d67/a28559.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "d1/d67/a28559.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "d1/d67/a28559.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "d1/d67/a28559.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "d1/d67/a28559.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

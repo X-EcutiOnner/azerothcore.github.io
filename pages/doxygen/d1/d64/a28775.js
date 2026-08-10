@@ -1,7 +1,5 @@
 var a28775 =
 [
-    [ "cutPercent", "d1/d64/a28775.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "d1/d64/a28775.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "d1/d64/a28775.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "d1/d64/a28775.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "npc_bombardier_petrov", "d1/d64/a28775.html#ac0314c37918381ed6242fcfa4790461a", null ],
+    [ "OnGossipHello", "d1/d64/a28775.html#ab67c12cf53bc5bec85a0707ce35ce888", null ]
 ];

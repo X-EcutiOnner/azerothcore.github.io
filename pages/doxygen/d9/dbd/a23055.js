@@ -1,6 +1,7 @@
 var a23055 =
 [
-    [ "HandleDummy", "d9/dbd/a23055.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
-    [ "PrepareSpellScript", "d9/dbd/a23055.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
-    [ "Register", "d9/dbd/a23055.html#a972574075c86c32593982add71dc893f", null ]
+    [ "Absorb", "d9/dbd/a23055.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
+    [ "HandleEffectRemove", "d9/dbd/a23055.html#a3d4026e5208acb948c089a4bedba0de8", null ],
+    [ "PrepareAuraScript", "d9/dbd/a23055.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
+    [ "Register", "d9/dbd/a23055.html#a983cf678001efcbccc4b34a9ad919881", null ]
 ];

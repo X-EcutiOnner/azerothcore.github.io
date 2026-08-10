@@ -1,7 +1,11 @@
 var a22979 =
 [
-    [ "HandleEffectRemove", "d9/d37/a22979.html#a6adc572bb13dde9b83a44a1c27833019", null ],
-    [ "PrepareAuraScript", "d9/d37/a22979.html#a877c26735531508d1806273117f3e8bc", null ],
-    [ "Register", "d9/d37/a22979.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5", null ],
-    [ "Validate", "d9/d37/a22979.html#a8c45ba806d865f7b9d56950013bdd81c", null ]
+    [ "boss_essence_of_angerAI", "d9/d37/a22979.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "d9/d37/a22979.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "d9/d37/a22979.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "d9/d37/a22979.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "d9/d37/a22979.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "d9/d37/a22979.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "d9/d37/a22979.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "targetGUID", "d9/d37/a22979.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

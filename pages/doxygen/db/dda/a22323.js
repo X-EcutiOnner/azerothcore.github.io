@@ -1,6 +1,6 @@
 var a22323 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "db/dda/a22323.html#afd54b130725aa724b80f150f968ce09d", null ],
-    [ "MovementInform", "db/dda/a22323.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
-    [ "PassengerBoarded", "db/dda/a22323.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
+    [ "npc_freed_protodrakeAI", "d8/d3e/a22327.html", "d8/d3e/a22327" ],
+    [ "npc_freed_protodrake", "db/dda/a22323.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
+    [ "GetAI", "db/dda/a22323.html#a9680bf65cb97327396f58c297df1c8f5", null ]
 ];

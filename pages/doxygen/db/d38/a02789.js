@@ -172,6 +172,7 @@ var a02789 =
       [ "ACTION_OUTRO", "dd/dfd/a03017.html#a250372292659bed7ae290d8621f88ccfa47ec8e0c80b260c7255274aafd89ac7d", null ],
       [ "DO_DISABLE_AERIAL", "de/da4/a03005.html#a250372292659bed7ae290d8621f88ccfadca8f99832fac3e06025e419485fb1d9", null ],
       [ "DO_ENABLE_AERIAL", "de/da4/a03005.html#a250372292659bed7ae290d8621f88ccfa1b73792b6ccf93886022e4549bf4f757", null ],
+      [ "DO_DESPAWN_SUMMONS", "de/da4/a03005.html#a250372292659bed7ae290d8621f88ccfab24c6a36c5164b1d0cf040f9a668a06f", null ],
       [ "ACTION_ENTER_HARD_MODE", "dc/d94/a02999.html#a250372292659bed7ae290d8621f88ccfa3cf0b08522d8bfdb7f9d00766c1546f7", null ],
       [ "ACTION_START_PHASE_HEART", "dc/d94/a02999.html#a250372292659bed7ae290d8621f88ccfa6e33ba828ac1346c6cfeeee8fbdad76c", null ],
       [ "ACTION_DISPOSE_HEART", "dc/d94/a02999.html#a250372292659bed7ae290d8621f88ccfae7ae7b78bf6fa98402348aa084366d1d", null ],
@@ -188,6 +189,12 @@ var a02789 =
       [ "ACTION_START_INTRO", "d0/d50/a03611.html#a250372292659bed7ae290d8621f88ccfa662074617cb51c00a6119b2d0197ee66", null ],
       [ "ACTION_CANCEL_INTRO", "d0/d50/a03611.html#a250372292659bed7ae290d8621f88ccfabb3241566229f7036dfe0bed5482ec3f", null ],
       [ "ACTION_START_COMBAT", "d0/d50/a03611.html#a250372292659bed7ae290d8621f88ccfaa1b2366514ddc5e937e9a259364b0905", null ]
+    ] ],
+    [ "CrimsonHallTrashGuids", "db/d38/a02789.html#a53cdd2a2014407ecfb8257a3d7205e54", [
+      [ "GUID_DARKFALLEN_ADVISOR", "db/d38/a02789.html#a53cdd2a2014407ecfb8257a3d7205e54a465662fed3f68186581cab425e4a9864", null ],
+      [ "GUID_DARKFALLEN_ARCHMAGE", "db/d38/a02789.html#a53cdd2a2014407ecfb8257a3d7205e54ae27f17d06a5a13c96dca001eb3e05c63", null ],
+      [ "GUID_DARKFALLEN_BLOOD_KNIGHT", "db/d38/a02789.html#a53cdd2a2014407ecfb8257a3d7205e54a9d9a4d39a1a97d3d07e74be1015f038e", null ],
+      [ "GUID_DARKFALLEN_NOBLE", "db/d38/a02789.html#a53cdd2a2014407ecfb8257a3d7205e54ae53a36872f0eac52f5c3260561bd858f", null ]
     ] ],
     [ "DataTypesICC", "db/d38/a02789.html#a007f05bc51663f30a678c29f1e7e37c1", [
       [ "DATA_DAMNED_KILLS", "db/d38/a02789.html#a007f05bc51663f30a678c29f1e7e37c1a7848731b6974c0db7408c2b2ed70bb92", null ],
@@ -4162,6 +4169,8 @@ var a02789 =
       [ "EMOTE_ALLIES_OF_NATURE", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31a7cadde31f78cab0aa507f770f7788b1b", null ],
       [ "EMOTE_GROUND_TREMOR", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31ad137ac9c7db7c1dc6010474297b50432", null ],
       [ "EMOTE_IRON_ROOTS", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31a3e0bdf6956d53c51cdc08651cd13b663", null ],
+      [ "EMOTE_TRIO_WITHERS", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31ac647ae044c052d81db4e869ad33e0817", null ],
+      [ "EMOTE_TRIO_REGENERATES", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31a1fcc24c539391a4925b8c139ea386478", null ],
       [ "SAY_AGGRO", "d3/d8b/a02996.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_SUMMON", "d3/d8b/a02996.html#aa80bce1d0ea05213c0d6c327126caf31acebbfa1f13b8de4f039f5d550063c7bf", null ],
       [ "SAY_SLAG_POT", "d3/d8b/a02996.html#aa80bce1d0ea05213c0d6c327126caf31af160c82585a4d6cd0c29317910e833c4", null ],
@@ -4318,7 +4327,9 @@ var a02789 =
       [ "SAY_RIVAL_DIED", "d3/d55/a03341.html#aa80bce1d0ea05213c0d6c327126caf31a6caed795772fb9d17a04a37bc727e8be", null ]
     ] ],
     [ "AddSC_icecrown_citadel", "db/d38/a02789.html#a7f5b85629316855f1d0b3e872e130015", null ],
+    [ "CALL_FOR_HELP_RADIUS", "db/d38/a02789.html#a81e36578e597bd9fb0755cd2fcd3ffbd", null ],
     [ "DarkFallensEmotes", "db/d38/a02789.html#afe0733c2d9edfa91aaeaafa9f4dc7a10", null ],
+    [ "ORB_CONTROLLER_MINION_RANGE", "db/d38/a02789.html#a30a2362b1bded5cf46f29a0dd6e5ffa2", null ],
     [ "sesi_spells", "db/d38/a02789.html#a32363ea6863e46b9be021fd6a1bf45a4", null ],
     [ "VengefulWP", "db/d38/a02789.html#a1d016ea84659aa4d877239d20bf2f980", null ]
 ];

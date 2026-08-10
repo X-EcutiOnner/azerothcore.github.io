@@ -1,7 +1,10 @@
 var a24919 =
 [
-    [ "HandleProc", "d4/df3/a24919.html#a43704e8ddf8eb94adf27225eb02135bd", null ],
-    [ "PrepareAuraScript", "d4/df3/a24919.html#a626ebecdbb7e431af364fa9bcde38644", null ],
-    [ "Register", "d4/df3/a24919.html#ab56bed8649452b9ae7ac07bf6ee16641", null ],
-    [ "Validate", "d4/df3/a24919.html#a3699a230042bd646d459bd7dcf73e3b6", null ]
+    [ "Load", "d4/df3/a24919.html#a2c4e408e45995098b01a05815fffb34c", null ],
+    [ "OnApply", "d4/df3/a24919.html#acae1047046bb8f555d1798ca024a2650", null ],
+    [ "OnRemove", "d4/df3/a24919.html#aa01df2b86cf69508866f6e7d063c735a", null ],
+    [ "PrepareAuraScript", "d4/df3/a24919.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
+    [ "Register", "d4/df3/a24919.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
+    [ "Validate", "d4/df3/a24919.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
+    [ "_casterGUID", "d4/df3/a24919.html#a8047fb4309487c7a529047ec5148a2e3", null ]
 ];

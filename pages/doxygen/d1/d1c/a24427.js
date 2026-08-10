@@ -1,9 +1,8 @@
 var a24427 =
 [
-    [ "npc_pet_gen_toxic_wasteling", "d1/d1c/a24427.html#a550a1a9324f605b1a9fd715571f819b7", null ],
-    [ "EnterEvadeMode", "d1/d1c/a24427.html#abe25deca7fd1c319085995657d62f22a", null ],
-    [ "MovementInform", "d1/d1c/a24427.html#aec73d567c3bd178ffee3bdece83a409e", null ],
-    [ "Reset", "d1/d1c/a24427.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
-    [ "UpdateAI", "d1/d1c/a24427.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
-    [ "checkTimer", "d1/d1c/a24427.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "d1/d1c/a24427.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "d1/d1c/a24427.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "d1/d1c/a24427.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "d1/d1c/a24427.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "d1/d1c/a24427.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

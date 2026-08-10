@@ -1,7 +1,6 @@
 var a23699 =
 [
-    [ "HandleOnApply", "de/d02/a23699.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
-    [ "HandleOnRemove", "de/d02/a23699.html#aed5f87523c58d94c8f98b76c06abb140", null ],
-    [ "PrepareAuraScript", "de/d02/a23699.html#ab32413873bec92540f9e85e8013b7ea2", null ],
-    [ "Register", "de/d02/a23699.html#a0653d8688f98822580a3243a0d47c17a", null ]
+    [ "HandleEffect", "de/d02/a23699.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
+    [ "PrepareSpellScript", "de/d02/a23699.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
+    [ "Register", "de/d02/a23699.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
 ];

@@ -1,5 +1,6 @@
 var a23255 =
 [
-    [ "go_strange_pool", "d3/deb/a23255.html#aa44feb353ad1cb440e5b6707112af680", null ],
-    [ "OnGossipHello", "d3/deb/a23255.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
+    [ "HandleDummy", "d3/deb/a23255.html#a3347413822ce083085bcf1418fbdbae2", null ],
+    [ "PrepareSpellScript", "d3/deb/a23255.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
+    [ "Register", "d3/deb/a23255.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
 ];

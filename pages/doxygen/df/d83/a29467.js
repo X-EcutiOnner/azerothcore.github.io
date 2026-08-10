@@ -1,10 +1,6 @@
 var a29467 =
 [
-    [ "area_id", "df/d83/a29467.html#acbd77950bf9548d266e568640cf38458", null ],
-    [ "map_id", "df/d83/a29467.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
-    [ "virtual_map_id", "df/d83/a29467.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
-    [ "x1", "df/d83/a29467.html#a78967fef40841f705c2564a177cb36f3", null ],
-    [ "x2", "df/d83/a29467.html#a037dca812715df0b4f2551f8684b537c", null ],
-    [ "y1", "df/d83/a29467.html#a7f90073656e1cd00a88add9f8d881d11", null ],
-    [ "y2", "df/d83/a29467.html#ad8e0164952e5565488d5443f269ec79e", null ]
+    [ "categoryMask", "df/d83/a29467.html#abd8816e5dda7bda455ccd6932647c4be", null ],
+    [ "categoryType", "df/d83/a29467.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
+    [ "ID", "df/d83/a29467.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
 ];

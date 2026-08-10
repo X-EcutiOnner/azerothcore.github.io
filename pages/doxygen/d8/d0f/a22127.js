@@ -1,7 +1,6 @@
 var a22127 =
 [
-    [ "HandleDummy", "d8/d0f/a22127.html#a85874062bceced2694fff725649df892", null ],
-    [ "PrepareSpellScript", "d8/d0f/a22127.html#a47bae4bdc488480f91517465d8e1b784", null ],
-    [ "Register", "d8/d0f/a22127.html#a7131340678ca685db98e2087661321a9", null ],
-    [ "Validate", "d8/d0f/a22127.html#af1b74ceee10fc48a0b85d4a284103950", null ]
+    [ "npc_boneguard_footmanAI", "d8/d0f/a22127.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "d8/d0f/a22127.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "d8/d0f/a22127.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

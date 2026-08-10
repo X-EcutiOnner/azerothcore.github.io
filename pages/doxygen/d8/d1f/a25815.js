@@ -1,9 +1,8 @@
 var a25815 =
 [
-    [ "getMountSpellId", "d8/d1f/a25815.html#afe306ed6057050baf342ee717723764d", null ],
-    [ "OnApply", "d8/d1f/a25815.html#aa8bee986d413be60d00ac1d2111ef719", null ],
-    [ "OnRemove", "d8/d1f/a25815.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
-    [ "PrepareAuraScript", "d8/d1f/a25815.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
-    [ "Register", "d8/d1f/a25815.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
-    [ "Validate", "d8/d1f/a25815.html#a6868f6e88c9179efd921b266c83f6daf", null ]
+    [ "CheckProc", "d8/d1f/a25815.html#adbd524ef767a8b5cde13a5358969e344", null ],
+    [ "HandleProc", "d8/d1f/a25815.html#ab208e39ea63158688a6a028696b9adc5", null ],
+    [ "PrepareAuraScript", "d8/d1f/a25815.html#ad078ad76f0d0f88b9d52c88127d1aae7", null ],
+    [ "Register", "d8/d1f/a25815.html#a834868e504beece0ce5e1e1745f96f63", null ],
+    [ "Validate", "d8/d1f/a25815.html#a779b560a877ac0e731fe50c25af3d4d9", null ]
 ];

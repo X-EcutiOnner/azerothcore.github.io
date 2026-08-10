@@ -1,9 +1,7 @@
 var a28271 =
 [
-    [ "go_gilded_brazierAI", "df/d71/a28271.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
-    [ "GossipHello", "df/d71/a28271.html#afac9e217c294e72ff5f2526422e6321e", null ],
-    [ "Initialize", "df/d71/a28271.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
-    [ "UpdateAI", "df/d71/a28271.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
-    [ "_events", "df/d71/a28271.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
-    [ "_playerGUID", "df/d71/a28271.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
+    [ "go_pirate_day_musicAI", "df/d71/a28271.html#a1abe263949b7a07e5143779efcddc7eb", null ],
+    [ "UpdateAI", "df/d71/a28271.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
+    [ "_events", "df/d71/a28271.html#a233ae55a05876c665455b106ef50d57e", null ],
+    [ "rnd", "df/d71/a28271.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
 ];

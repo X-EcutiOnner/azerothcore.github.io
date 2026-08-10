@@ -1,6 +1,5 @@
 var a23019 =
 [
-    [ "ShadowOfDeathSelector", "db/d93/a23019.html#a1190094fbde74ccffd954fea742ab0ae", null ],
-    [ "operator()", "db/d93/a23019.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
-    [ "_tank", "db/d93/a23019.html#adc238645eec306e00918dbab05549fc8", null ]
+    [ "npc_ashtongue_sorcerer", "db/d93/a23019.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
+    [ "MovementInform", "db/d93/a23019.html#a56fa93f83e8a536b13667c8f780961b7", null ]
 ];

@@ -1,6 +1,8 @@
 var a29639 =
 [
-    [ "conditionsMet", "df/dcc/a29639.html#ade58814e6b27763d1bb6c1f730ef53e0", null ],
-    [ "hasConditions", "df/dcc/a29639.html#a160ac902a994fdaaa36b66dbaa4c8282", null ],
-    [ "sourceType", "df/dcc/a29639.html#abbfa5f40abb5713e15311f8259d70dc6", null ]
+    [ "auraHasCanProcFromProcs", "df/dcc/a29639.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
+    [ "isTriggered", "df/dcc/a29639.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
+    [ "procAuraSpellId", "df/dcc/a29639.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
+    [ "spellHasNotAProc", "df/dcc/a29639.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
+    [ "triggeredByAuraSpellId", "df/dcc/a29639.html#ad62562e342e1d090e3f26f7c40a35795", null ]
 ];

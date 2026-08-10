@@ -136,6 +136,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:adafce856498f47b13a8ed9438b2a00c7 inherit pub_methods_a19127"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acaf883142e1620a84f8bf29801dd860c inherit pub_methods_a19127"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db0/a19127.html#acaf883142e1620a84f8bf29801dd860c">Reset</a> () override</td></tr>
 <tr class="separator:acaf883142e1620a84f8bf29801dd860c inherit pub_methods_a19127"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a59df972ab6f5a00df0217a984f5904de inherit pub_methods_a19127"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db0/a19127.html#a59df972ab6f5a00df0217a984f5904de">JustDied</a> (<a class="el" href="../../d5/d74/a09163.html">Unit</a> *) override</td></tr>
+<tr class="separator:a59df972ab6f5a00df0217a984f5904de inherit pub_methods_a19127"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a21705f88c5a6e25709b6f0db049379bd inherit pub_methods_a19127"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db0/a19127.html#a21705f88c5a6e25709b6f0db049379bd">JustEngagedWith</a> (<a class="el" href="../../d5/d74/a09163.html">Unit</a> *) override</td></tr>
 <tr class="memdesc:a21705f88c5a6e25709b6f0db049379bd inherit pub_methods_a19127"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called for reaction when initially engaged - this happens <em>after</em> JustEnteredCombat.  <a href="../../d4/db0/a19127.html#a21705f88c5a6e25709b6f0db049379bd">More...</a><br /></td></tr>
 <tr class="separator:a21705f88c5a6e25709b6f0db049379bd inherit pub_methods_a19127"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -650,8 +652,8 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2329</span>: <a class="code hl_struct" href="../../d4/db0/a19127.html">DarkFallenAI</a>(creature) {}</div>
-<div class="ttc" id="aa19127_html"><div class="ttname"><a href="../../d4/db0/a19127.html">DarkFallenAI</a></div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:2155</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 2379</span>: <a class="code hl_struct" href="../../d4/db0/a19127.html">DarkFallenAI</a>(creature) {}</div>
+<div class="ttc" id="aa19127_html"><div class="ttname"><a href="../../d4/db0/a19127.html">DarkFallenAI</a></div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:2186</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -680,28 +682,28 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d4/db0/a19127.html#adafce856498f47b13a8ed9438b2a00c7">DarkFallenAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2332</span>    {</div>
-<div class="line"><span class="lineno"> 2333</span>        <a class="code hl_variable" href="../../d4/db0/a19127.html#a9bca7b1181e8227009d6b6403cc319e5">AttackSpellId</a> = <a class="code hl_enumvalue" href="../../db/d38/a02789.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963">SPELL_FIREBALL</a>;</div>
-<div class="line"><span class="lineno"> 2334</span>        <a class="code hl_variable" href="../../d4/db0/a19127.html#a3c91e48243ed3f35ba2951ed6e63b116">Scheduler</a>.<a class="code hl_function" href="../../da/dc6/a05919.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(1s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d3/d01/a05935.html">TaskContext</a> amplifyMagic)</div>
-<div class="line"><span class="lineno"> 2335</span>            {</div>
-<div class="line"><span class="lineno"> 2336</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d74/a09163.html">Unit</a>* target = <a class="code hl_function" href="../../df/d2f/a06551.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(SelectTargetMethod::Random, 0))</div>
-<div class="line"><span class="lineno"> 2337</span>                    <a class="code hl_function" href="../../df/d2f/a06551.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_enumvalue" href="../../db/d38/a02789.html#a5bd342133be8c2137b831460acc9298ca1f4a990d8e2da0c3c32429f5800a7c98">SPELL_AMPLIFY_MAGIC</a>);</div>
-<div class="line"><span class="lineno"> 2338</span> </div>
-<div class="line"><span class="lineno"> 2339</span>                amplifyMagic.<a class="code hl_function" href="../../d3/d01/a05935.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(15s, 24s);</div>
-<div class="line"><span class="lineno"> 2340</span>            })</div>
-<div class="line"><span class="lineno"> 2341</span>            .Schedule(10s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d3/d01/a05935.html">TaskContext</a> blastWave)</div>
-<div class="line"><span class="lineno"> 2342</span>                {</div>
-<div class="line"><span class="lineno"> 2343</span>                    <a class="code hl_function" href="../../df/d2f/a06551.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d38/a02789.html#a5bd342133be8c2137b831460acc9298ca70309c041527816c73053b7d9b387f88">SPELL_BLAST_WAVE</a>);</div>
-<div class="line"><span class="lineno"> 2344</span>                    blastWave.<a class="code hl_function" href="../../d3/d01/a05935.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(25s, 30s);</div>
-<div class="line"><span class="lineno"> 2345</span>                })</div>
-<div class="line"><span class="lineno"> 2346</span>            .Schedule(17s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d3/d01/a05935.html">TaskContext</a> polymorph)</div>
-<div class="line"><span class="lineno"> 2347</span>                {</div>
-<div class="line"><span class="lineno"> 2348</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d74/a09163.html">Unit</a>* target = <a class="code hl_function" href="../../df/d2f/a06551.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(SelectTargetMethod::Random, 0, 0.0f, <span class="keyword">true</span>, <span class="keyword">false</span>, -<a class="code hl_enumvalue" href="../../db/d38/a02789.html#a5bd342133be8c2137b831460acc9298cae5e7dc76db7aa286357183a1b529841f">SPELL_POLYMORPH</a>))</div>
-<div class="line"><span class="lineno"> 2349</span>                        <a class="code hl_function" href="../../df/d2f/a06551.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_enumvalue" href="../../db/d38/a02789.html#a5bd342133be8c2137b831460acc9298cae5e7dc76db7aa286357183a1b529841f">SPELL_POLYMORPH</a>);</div>
-<div class="line"><span class="lineno"> 2350</span> </div>
-<div class="line"><span class="lineno"> 2351</span>                    polymorph.<a class="code hl_function" href="../../d3/d01/a05935.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(25s, 35s);</div>
-<div class="line"><span class="lineno"> 2352</span>                });</div>
-<div class="line"><span class="lineno"> 2353</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2382</span>    {</div>
+<div class="line"><span class="lineno"> 2383</span>        <a class="code hl_variable" href="../../d4/db0/a19127.html#a9bca7b1181e8227009d6b6403cc319e5">AttackSpellId</a> = <a class="code hl_enumvalue" href="../../db/d38/a02789.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963">SPELL_FIREBALL</a>;</div>
+<div class="line"><span class="lineno"> 2384</span>        <a class="code hl_variable" href="../../d4/db0/a19127.html#a3c91e48243ed3f35ba2951ed6e63b116">Scheduler</a>.<a class="code hl_function" href="../../da/dc6/a05919.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(1s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d3/d01/a05935.html">TaskContext</a> amplifyMagic)</div>
+<div class="line"><span class="lineno"> 2385</span>            {</div>
+<div class="line"><span class="lineno"> 2386</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d74/a09163.html">Unit</a>* target = <a class="code hl_function" href="../../df/d2f/a06551.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(SelectTargetMethod::Random, 0))</div>
+<div class="line"><span class="lineno"> 2387</span>                    <a class="code hl_function" href="../../df/d2f/a06551.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_enumvalue" href="../../db/d38/a02789.html#a5bd342133be8c2137b831460acc9298ca1f4a990d8e2da0c3c32429f5800a7c98">SPELL_AMPLIFY_MAGIC</a>);</div>
+<div class="line"><span class="lineno"> 2388</span> </div>
+<div class="line"><span class="lineno"> 2389</span>                amplifyMagic.<a class="code hl_function" href="../../d3/d01/a05935.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(15s, 24s);</div>
+<div class="line"><span class="lineno"> 2390</span>            })</div>
+<div class="line"><span class="lineno"> 2391</span>            .Schedule(10s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d3/d01/a05935.html">TaskContext</a> blastWave)</div>
+<div class="line"><span class="lineno"> 2392</span>                {</div>
+<div class="line"><span class="lineno"> 2393</span>                    <a class="code hl_function" href="../../df/d2f/a06551.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d38/a02789.html#a5bd342133be8c2137b831460acc9298ca70309c041527816c73053b7d9b387f88">SPELL_BLAST_WAVE</a>);</div>
+<div class="line"><span class="lineno"> 2394</span>                    blastWave.<a class="code hl_function" href="../../d3/d01/a05935.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(25s, 30s);</div>
+<div class="line"><span class="lineno"> 2395</span>                })</div>
+<div class="line"><span class="lineno"> 2396</span>            .Schedule(17s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d3/d01/a05935.html">TaskContext</a> polymorph)</div>
+<div class="line"><span class="lineno"> 2397</span>                {</div>
+<div class="line"><span class="lineno"> 2398</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d74/a09163.html">Unit</a>* target = <a class="code hl_function" href="../../df/d2f/a06551.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(SelectTargetMethod::Random, 0, 0.0f, <span class="keyword">true</span>, <span class="keyword">false</span>, -<a class="code hl_enumvalue" href="../../db/d38/a02789.html#a5bd342133be8c2137b831460acc9298cae5e7dc76db7aa286357183a1b529841f">SPELL_POLYMORPH</a>))</div>
+<div class="line"><span class="lineno"> 2399</span>                        <a class="code hl_function" href="../../df/d2f/a06551.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_enumvalue" href="../../db/d38/a02789.html#a5bd342133be8c2137b831460acc9298cae5e7dc76db7aa286357183a1b529841f">SPELL_POLYMORPH</a>);</div>
+<div class="line"><span class="lineno"> 2400</span> </div>
+<div class="line"><span class="lineno"> 2401</span>                    polymorph.<a class="code hl_function" href="../../d3/d01/a05935.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(25s, 35s);</div>
+<div class="line"><span class="lineno"> 2402</span>                });</div>
+<div class="line"><span class="lineno"> 2403</span>    }</div>
 <div class="ttc" id="aa02789_html_a5bd342133be8c2137b831460acc9298ca1f4a990d8e2da0c3c32429f5800a7c98"><div class="ttname"><a href="../../db/d38/a02789.html#a5bd342133be8c2137b831460acc9298ca1f4a990d8e2da0c3c32429f5800a7c98">SPELL_AMPLIFY_MAGIC</a></div><div class="ttdeci">@ SPELL_AMPLIFY_MAGIC</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:189</div></div>
 <div class="ttc" id="aa02789_html_a5bd342133be8c2137b831460acc9298ca70309c041527816c73053b7d9b387f88"><div class="ttname"><a href="../../db/d38/a02789.html#a5bd342133be8c2137b831460acc9298ca70309c041527816c73053b7d9b387f88">SPELL_BLAST_WAVE</a></div><div class="ttdeci">@ SPELL_BLAST_WAVE</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:190</div></div>
 <div class="ttc" id="aa02789_html_a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963"><div class="ttname"><a href="../../db/d38/a02789.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963">SPELL_FIREBALL</a></div><div class="ttdeci">@ SPELL_FIREBALL</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:188</div></div>
@@ -713,10 +715,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa06551_html_ac5b181f1036962caaf140369b22e807b"><div class="ttname"><a href="../../df/d2f/a06551.html#ac5b181f1036962caaf140369b22e807b">UnitAI::SelectTarget</a></div><div class="ttdeci">Unit * SelectTarget(SelectTargetMethod targetType, uint32 position=0, float dist=0.0f, bool playerOnly=false, bool withTank=true, int32 aura=0)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:112</div></div>
 <div class="ttc" id="aa06551_html_aeebcad9b6effa45145c50f06af60b23d"><div class="ttname"><a href="../../df/d2f/a06551.html#aeebcad9b6effa45145c50f06af60b23d">UnitAI::DoCast</a></div><div class="ttdeci">SpellCastResult DoCast(uint32 spellId)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:179</div></div>
 <div class="ttc" id="aa09163_html"><div class="ttname"><a href="../../d5/d74/a09163.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:665</div></div>
-<div class="ttc" id="aa19127_html_a3c91e48243ed3f35ba2951ed6e63b116"><div class="ttname"><a href="../../d4/db0/a19127.html#a3c91e48243ed3f35ba2951ed6e63b116">DarkFallenAI::Scheduler</a></div><div class="ttdeci">TaskScheduler Scheduler</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:2236</div></div>
-<div class="ttc" id="aa19127_html_a9bca7b1181e8227009d6b6403cc319e5"><div class="ttname"><a href="../../d4/db0/a19127.html#a9bca7b1181e8227009d6b6403cc319e5">DarkFallenAI::AttackSpellId</a></div><div class="ttdeci">uint32 AttackSpellId</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:2239</div></div>
+<div class="ttc" id="aa19127_html_a3c91e48243ed3f35ba2951ed6e63b116"><div class="ttname"><a href="../../d4/db0/a19127.html#a3c91e48243ed3f35ba2951ed6e63b116">DarkFallenAI::Scheduler</a></div><div class="ttdeci">TaskScheduler Scheduler</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:2286</div></div>
+<div class="ttc" id="aa19127_html_a9bca7b1181e8227009d6b6403cc319e5"><div class="ttname"><a href="../../d4/db0/a19127.html#a9bca7b1181e8227009d6b6403cc319e5">DarkFallenAI::AttackSpellId</a></div><div class="ttdeci">uint32 AttackSpellId</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:2289</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02239">DarkFallenAI::AttackSpellId</a>, <a class="el" href="../../#l00179">UnitAI::DoCast()</a>, <a class="el" href="../../#l00394">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00494">TaskContext::Repeat()</a>, <a class="el" href="../../#l00233">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l02236">DarkFallenAI::Scheduler</a>, <a class="el" href="../../#l00112">UnitAI::SelectTarget()</a>, <a class="el" href="../../#l00189">SPELL_AMPLIFY_MAGIC</a>, <a class="el" href="../../#l00190">SPELL_BLAST_WAVE</a>, <a class="el" href="../../#l00188">SPELL_FIREBALL</a>, and <a class="el" href="../../#l00192">SPELL_POLYMORPH</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02289">DarkFallenAI::AttackSpellId</a>, <a class="el" href="../../#l00179">UnitAI::DoCast()</a>, <a class="el" href="../../#l00394">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00494">TaskContext::Repeat()</a>, <a class="el" href="../../#l00233">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l02286">DarkFallenAI::Scheduler</a>, <a class="el" href="../../#l00112">UnitAI::SelectTarget()</a>, <a class="el" href="../../#l00189">SPELL_AMPLIFY_MAGIC</a>, <a class="el" href="../../#l00190">SPELL_BLAST_WAVE</a>, <a class="el" href="../../#l00188">SPELL_FIREBALL</a>, and <a class="el" href="../../#l00192">SPELL_POLYMORPH</a>.</p>
 
 </div>
 </div>
@@ -726,7 +728,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/dd9/a19143.html">npc_darkfallen_archmage</a></li>
-    <li class="footer">Generated on Mon Aug 3 2026 21:44:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 10 2026 21:23:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

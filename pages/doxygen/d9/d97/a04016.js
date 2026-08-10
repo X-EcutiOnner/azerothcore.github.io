@@ -77,6 +77,7 @@ var a04016 =
       [ "ACTION_OUTRO", "dd/dfd/a03017.html#a250372292659bed7ae290d8621f88ccfa47ec8e0c80b260c7255274aafd89ac7d", null ],
       [ "DO_DISABLE_AERIAL", "de/da4/a03005.html#a250372292659bed7ae290d8621f88ccfadca8f99832fac3e06025e419485fb1d9", null ],
       [ "DO_ENABLE_AERIAL", "de/da4/a03005.html#a250372292659bed7ae290d8621f88ccfa1b73792b6ccf93886022e4549bf4f757", null ],
+      [ "DO_DESPAWN_SUMMONS", "de/da4/a03005.html#a250372292659bed7ae290d8621f88ccfab24c6a36c5164b1d0cf040f9a668a06f", null ],
       [ "ACTION_ENTER_HARD_MODE", "dc/d94/a02999.html#a250372292659bed7ae290d8621f88ccfa3cf0b08522d8bfdb7f9d00766c1546f7", null ],
       [ "ACTION_START_PHASE_HEART", "dc/d94/a02999.html#a250372292659bed7ae290d8621f88ccfa6e33ba828ac1346c6cfeeee8fbdad76c", null ],
       [ "ACTION_DISPOSE_HEART", "dc/d94/a02999.html#a250372292659bed7ae290d8621f88ccfae7ae7b78bf6fa98402348aa084366d1d", null ],

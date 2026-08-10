@@ -1,13 +1,8 @@
 var a24251 =
 [
-    [ "npc_illidari_spawnAI", "de/d15/a24251.html#a704c1d3e07d028b04e2bddee37039941", null ],
-    [ "JustDied", "de/d15/a24251.html#a27277d90d4a58a89386a39f4affbaee8", null ],
-    [ "JustEngagedWith", "de/d15/a24251.html#add4ea6366614e9fb86e85613bfb910ba", null ],
-    [ "Reset", "de/d15/a24251.html#a5347858d5da4f0718479b1d702125366", null ],
-    [ "UpdateAI", "de/d15/a24251.html#af392a545b3dccb7a7c89780d2818a7a7", null ],
-    [ "LordIllidanGUID", "de/d15/a24251.html#a11b411dd0b5a32a7bdd0c44242a42372", null ],
-    [ "SpellTimer1", "de/d15/a24251.html#afbf1b352275c0fd16fdf252eac9e0c4a", null ],
-    [ "SpellTimer2", "de/d15/a24251.html#a644616bab96e1bd9bbe2500bf1b14988", null ],
-    [ "SpellTimer3", "de/d15/a24251.html#a9889f9673292613dc46387862f3e8849", null ],
-    [ "Timers", "de/d15/a24251.html#a1e48e4dea7bc1ba0f3d6be2f03b6813e", null ]
+    [ "CreatureId", "de/d15/a24251.html#a127341c70f8785ceb556b1c11b23f477", null ],
+    [ "SpawnCount", "de/d15/a24251.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
+    [ "SpawnTimer", "de/d15/a24251.html#aa57ff686c5fde12269e231333d8a8bef", null ],
+    [ "UsedSpawnPoint", "de/d15/a24251.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
+    [ "YellTimer", "de/d15/a24251.html#a6346259269af7f2936f959f87288dd69", null ]
 ];

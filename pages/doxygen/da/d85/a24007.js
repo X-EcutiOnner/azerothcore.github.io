@@ -1,16 +1,6 @@
 var a24007 =
 [
-    [ "npc_nether_drakeAI", "da/d85/a24007.html#a82f2c29b380be95303e1558776ea2d88", null ],
-    [ "JustEngagedWith", "da/d85/a24007.html#a5f20faa7f7007989298009b88b3ecbc8", null ],
-    [ "MoveInLineOfSight", "da/d85/a24007.html#a9e122d4533155c926904a13e8534d32e", null ],
-    [ "MovementInform", "da/d85/a24007.html#ae1f5248397b606b7872f05cfc929ac0d", null ],
-    [ "Reset", "da/d85/a24007.html#acb03513dd67988e0961632846021a42d", null ],
-    [ "SpellHit", "da/d85/a24007.html#a40f05363f38d71954c9fb8773c382444", null ],
-    [ "UpdateAI", "da/d85/a24007.html#aa538d9d2ead26d6e085ecf62ec7d310f", null ],
-    [ "ArcaneBlast_Timer", "da/d85/a24007.html#ace872917954f4978f3568d7ddecf22ad", null ],
-    [ "IntangiblePresence_Timer", "da/d85/a24007.html#acecff3846090fa83c8fc43537d788501", null ],
-    [ "IsNihil", "da/d85/a24007.html#a37c393101e0f9b07e20cc21beb80ba44", null ],
-    [ "ManaBurn_Timer", "da/d85/a24007.html#ae6c33df878497d29d5f61234b048009d", null ],
-    [ "NihilSpeech_Phase", "da/d85/a24007.html#a3e68f0fdb59ce6d8749b5d8629b7ec0b", null ],
-    [ "NihilSpeech_Timer", "da/d85/a24007.html#a40d7584c68f5f6516eb9a7deaaad7c86", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d2/d12/a24011.html", "d2/d12/a24011" ],
+    [ "npc_deaths_door_fell_cannon_target_bunny", "da/d85/a24007.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
+    [ "GetAI", "da/d85/a24007.html#a250707096229da28024960beeb7725bf", null ]
 ];

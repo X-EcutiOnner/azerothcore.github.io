@@ -1,7 +1,7 @@
 var a22147 =
 [
-    [ "HandleScriptEffect", "d3/dba/a22147.html#ad20cf97a7dd442d5670a22095b487a01", null ],
-    [ "PrepareSpellScript", "d3/dba/a22147.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
-    [ "Register", "d3/dba/a22147.html#a996ea344ea2a3312cb8886565b80972d", null ],
-    [ "Validate", "d3/dba/a22147.html#a29bf5a9615e02281f426bf521a045567", null ]
+    [ "Absorb", "d3/dba/a22147.html#a784b48553696734abac77545df2fc045", null ],
+    [ "CalculateAmount", "d3/dba/a22147.html#a456ee99a71062f6217bda7561e4e7766", null ],
+    [ "PrepareAuraScript", "d3/dba/a22147.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
+    [ "Register", "d3/dba/a22147.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
 ];

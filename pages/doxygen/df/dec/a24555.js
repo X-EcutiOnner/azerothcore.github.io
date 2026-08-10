@@ -1,6 +1,7 @@
 var a24555 =
 [
-    [ "CheckProc", "df/dec/a24555.html#ace3662e092d02de975929741c470230d", null ],
-    [ "PrepareAuraScript", "df/dec/a24555.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
-    [ "Register", "df/dec/a24555.html#ae6432106538261827c3eac3dde1450f2", null ]
+    [ "CheckProc", "df/dec/a24555.html#abd74252153fc4fc9a4e561005ea58b3f", null ],
+    [ "HandleProc", "df/dec/a24555.html#a8ab07569658cf2fa02193691bcab14ac", null ],
+    [ "PrepareAuraScript", "df/dec/a24555.html#ae169eb2c0e194f8f34ee2a0d5fd973d3", null ],
+    [ "Register", "df/dec/a24555.html#a72d89db31c1fbd5c3b49b4c05a2d90f4", null ]
 ];

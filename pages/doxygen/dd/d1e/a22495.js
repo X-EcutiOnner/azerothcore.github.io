@@ -1,6 +1,9 @@
 var a22495 =
 [
-    [ "npc_crusade_recruitAI", "d6/d3c/a22499.html", "d6/d3c/a22499" ],
-    [ "npc_crusade_recruit", "dd/d1e/a22495.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "dd/d1e/a22495.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "npc_finklesteinAI", "d6/d3c/a22499.html", "d6/d3c/a22499" ],
+    [ "npc_finklestein", "dd/d1e/a22495.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "dd/d1e/a22495.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "dd/d1e/a22495.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "dd/d1e/a22495.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "dd/d1e/a22495.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

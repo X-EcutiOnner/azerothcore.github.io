@@ -1,9 +1,6 @@
 var a21191 =
 [
-    [ "npc_vrykul_skeleton", "dc/da1/a21191.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
-    [ "DamageTaken", "dc/da1/a21191.html#a840244c4183987e4fda533edb2ddeff2", null ],
-    [ "Reset", "dc/da1/a21191.html#af950342b2177c84c101485736855b998", null ],
-    [ "UpdateAI", "dc/da1/a21191.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
-    [ "events", "dc/da1/a21191.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
-    [ "pInstance", "dc/da1/a21191.html#a834f0162540683c20f9fa0f9e32eee33", null ]
+    [ "CheckRequirement", "dc/da1/a21191.html#ad0a1865c8f534310ec2d4c8abc698761", null ],
+    [ "PrepareSpellScript", "dc/da1/a21191.html#a06e1b98a589717bdef6444912a7ad602", null ],
+    [ "Register", "dc/da1/a21191.html#a089a8055517acd9ddc31bf1bd16cbf17", null ]
 ];

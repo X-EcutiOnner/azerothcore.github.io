@@ -1,6 +1,6 @@
 var a28203 =
 [
-    [ "go_flamesAI", "d2/de3/a28207.html", "d2/de3/a28207" ],
-    [ "go_flames", "df/d8a/a28203.html#a75d49202eaf2078b8276e59944d1ec89", null ],
-    [ "GetAI", "df/d8a/a28203.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
+    [ "go_witherbark_totem_bundleAI", "df/d8a/a28203.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "df/d8a/a28203.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "df/d8a/a28203.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

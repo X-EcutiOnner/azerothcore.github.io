@@ -1,7 +1,7 @@
 var a26531 =
 [
-    [ "CalculateAmount", "db/d7b/a26531.html#a0934aa8eaf442314aa6050d85304c15b", null ],
-    [ "CalculateSpellAmount", "db/d7b/a26531.html#a4ec8eb1000a32fe3909e0ce32f5a83cd", null ],
-    [ "PrepareAuraScript", "db/d7b/a26531.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
-    [ "Register", "db/d7b/a26531.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
+    [ "OnRemove", "db/d7b/a26531.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
+    [ "PrepareAuraScript", "db/d7b/a26531.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
+    [ "Register", "db/d7b/a26531.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
+    [ "Validate", "db/d7b/a26531.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
 ];

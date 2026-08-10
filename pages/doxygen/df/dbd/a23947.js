@@ -1,7 +1,8 @@
 var a23947 =
 [
-    [ "HandleDamage", "df/dbd/a23947.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "df/dbd/a23947.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "df/dbd/a23947.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "df/dbd/a23947.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "boss_void_reaver", "df/dbd/a23947.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
+    [ "JustDied", "df/dbd/a23947.html#a49e6f52b11177bdac07adff92c2675f5", null ],
+    [ "JustEngagedWith", "df/dbd/a23947.html#a9260d05e11f4dec6fc25432a0524706b", null ],
+    [ "KilledUnit", "df/dbd/a23947.html#adc234fc43308771a42d99049876cad1b", null ],
+    [ "Reset", "df/dbd/a23947.html#a02c36ea960de24991f879943991a93c6", null ]
 ];

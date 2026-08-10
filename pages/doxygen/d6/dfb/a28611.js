@@ -1,9 +1,7 @@
 var a28611 =
 [
-    [ "npc_fireworkAI", "d6/dfb/a28611.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "d6/dfb/a28611.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "d6/dfb/a28611.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "d6/dfb/a28611.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "d6/dfb/a28611.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "d6/dfb/a28611.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "npc_wormholeAI", "d6/dfb/a28611.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
+    [ "GetData", "d6/dfb/a28611.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
+    [ "InitializeAI", "d6/dfb/a28611.html#aa0a903014ec7243036604ffcc67e0a36", null ],
+    [ "_showUnderground", "d6/dfb/a28611.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
 ];

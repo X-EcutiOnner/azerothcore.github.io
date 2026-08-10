@@ -1,10 +1,8 @@
 var a24983 =
 [
-    [ "CalcAmount", "d4/d07/a24983.html#a182d563b0527e35ea641116a6a808aa8", null ],
-    [ "CalcPeriodic", "d4/d07/a24983.html#a542da5e81c75d56ad33152d54b5cac3a", null ],
-    [ "Load", "d4/d07/a24983.html#a45b2d3dee0d5e514d2351c3f3679e3d3", null ],
-    [ "PrepareAuraScript", "d4/d07/a24983.html#ac320eec2b8a3a7cc3820a49007710520", null ],
-    [ "Register", "d4/d07/a24983.html#a37181afac00639716ae2ce10d82ecb23", null ],
-    [ "UpdatePeriodic", "d4/d07/a24983.html#af4f971e2d5c2d2f4b1ced0e64e8c1871", null ],
-    [ "Validate", "d4/d07/a24983.html#a3a6c68e8918612745cfb35df84bf7d14", null ]
+    [ "CheckProc", "d4/d07/a24983.html#aa3b4d0bb214146b14d7a991c12f2f38d", null ],
+    [ "HandleProc", "d4/d07/a24983.html#a020b3e9890b8ef88887ec3cf35f7ca6d", null ],
+    [ "PrepareAuraScript", "d4/d07/a24983.html#aee9068453d0c16088eb120da65657903", null ],
+    [ "Register", "d4/d07/a24983.html#ad87e455c7e09c040f574140921b4e406", null ],
+    [ "Validate", "d4/d07/a24983.html#a1075a61443eba3609f4d0602fb4f1144", null ]
 ];

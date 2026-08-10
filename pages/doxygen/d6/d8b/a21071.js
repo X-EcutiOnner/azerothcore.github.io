@@ -1,6 +1,7 @@
 var a21071 =
 [
-    [ "ModSanityStacks", "d6/d8b/a21071.html#a38b8425689f91b91e23096d658b462cf", null ],
-    [ "PrepareSpellScript", "d6/d8b/a21071.html#a43362033f7422a0b9918ddd3b7e480cc", null ],
-    [ "Register", "d6/d8b/a21071.html#a6d5e27f728ee3980d33d417fb437c9c6", null ]
+    [ "OnPeriodic", "d6/d8b/a21071.html#a529e89c1ae0074370da174defc086719", null ],
+    [ "PrepareAuraScript", "d6/d8b/a21071.html#a587652095a5dfae229787a0c0ceacfbe", null ],
+    [ "Register", "d6/d8b/a21071.html#acd5551b09882d720608bdec6036dee9a", null ],
+    [ "Validate", "d6/d8b/a21071.html#aaed6604e39dd977f4e7c671052d718e8", null ]
 ];

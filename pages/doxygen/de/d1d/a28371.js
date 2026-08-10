@@ -1,6 +1,5 @@
 var a28371 =
 [
-    [ "guard_shattrath_aldorAI", "d3/d76/a28375.html", "d3/d76/a28375" ],
-    [ "guard_shattrath_aldor", "de/d1d/a28371.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "de/d1d/a28371.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "go_veil_skith_cage", "de/d1d/a28371.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
+    [ "OnGossipHello", "de/d1d/a28371.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
 ];

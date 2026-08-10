@@ -1,10 +1,10 @@
 var a21599 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "df/d32/a21599.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
-    [ "GotStinged", "df/d32/a21599.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
-    [ "JustEngagedWith", "df/d32/a21599.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
-    [ "Reset", "df/d32/a21599.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
-    [ "SpellHit", "df/d32/a21599.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
-    [ "UpdateAI", "df/d32/a21599.html#a21def23073eeec051c1c97a813e0ea84", null ],
-    [ "rebuff", "df/d32/a21599.html#ac83c25091fdd3c7876a88927b758261f", null ]
+    [ "npc_lurgglbrAI", "df/d32/a21599.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "df/d32/a21599.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "df/d32/a21599.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "df/d32/a21599.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "WaypointReached", "df/d32/a21599.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "IntroPhase", "df/d32/a21599.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "df/d32/a21599.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

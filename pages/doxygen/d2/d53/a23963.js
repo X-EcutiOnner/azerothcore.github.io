@@ -1,10 +1,7 @@
 var a23963 =
 [
-    [ "npc_raging_flames", "d2/d53/a23963.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
-    [ "EnterEvadeMode", "d2/d53/a23963.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
-    [ "FixateRandomTarget", "d2/d53/a23963.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
-    [ "InitializeAI", "d2/d53/a23963.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
-    [ "IsSummonedBy", "d2/d53/a23963.html#ae42c4329be355807af92c1c803e61500", null ],
-    [ "Reset", "d2/d53/a23963.html#a34ac2249e507784d81c4040e87a646e0", null ],
-    [ "UpdateAI", "d2/d53/a23963.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
+    [ "boss_gatewatcher_iron_hand", "d2/d53/a23963.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "d2/d53/a23963.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "d2/d53/a23963.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "d2/d53/a23963.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

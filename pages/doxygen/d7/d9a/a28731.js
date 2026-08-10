@@ -1,5 +1,7 @@
 var a28731 =
 [
-    [ "go_transport_the_iron_eagle", "d7/d9a/a28731.html#aba17edc2e3ac8e1b9996116c6f9bdc6f", null ],
-    [ "EventInform", "d7/d9a/a28731.html#af1970d07730ab0e5f688200289f48b69", null ]
+    [ "HandleDummy", "d7/d9a/a28731.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "d7/d9a/a28731.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "d7/d9a/a28731.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "d7/d9a/a28731.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

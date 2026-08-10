@@ -1,13 +1,8 @@
 var a22531 =
 [
-    [ "OPvPCapturePointEP_PWT", "d1/d66/a22531.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
-    [ "ChangeState", "d1/d66/a22531.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
-    [ "FillInitialWorldStates", "d1/d66/a22531.html#ab5faf124f53394a4a54a86a7bf5d0626", null ],
-    [ "HandlePlayerEnter", "d1/d66/a22531.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
-    [ "HandlePlayerLeave", "d1/d66/a22531.html#a5772e54263c613eee365856def5e74e6", null ],
-    [ "SendChangePhase", "d1/d66/a22531.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
-    [ "SummonFlightMaster", "d1/d66/a22531.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
-    [ "UpdateTowerState", "d1/d66/a22531.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
-    [ "m_FlightMasterSpawnedId", "d1/d66/a22531.html#afeefd804849b925e6d0a880d8efb5319", null ],
-    [ "m_TowerState", "d1/d66/a22531.html#a914dcbb37baf457750cfe9829d95d88c", null ]
+    [ "HandleApply", "d1/d66/a22531.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
+    [ "HandleRemove", "d1/d66/a22531.html#a06c7c65d973fcf348f5c929503902520", null ],
+    [ "PrepareAuraScript", "d1/d66/a22531.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
+    [ "Register", "d1/d66/a22531.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
+    [ "Validate", "d1/d66/a22531.html#a8135c492638557eec71189282e7f78a2", null ]
 ];

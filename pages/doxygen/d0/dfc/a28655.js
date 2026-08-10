@@ -1,5 +1,7 @@
 var a28655 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "d0/dfc/a28655.html#afaa929276f8b131005c9b94daa9a09f9", null ],
-    [ "OnPlayerCompleteQuest", "d0/dfc/a28655.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
+    [ "npc_venomhide_hatchlingAI", "d7/db0/a28659.html", "d7/db0/a28659" ],
+    [ "npc_venomhide_hatchling", "d0/dfc/a28655.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
+    [ "GetAI", "d0/dfc/a28655.html#a96110b752965d751ab7b466c4f67e333", null ],
+    [ "OnGossipHello", "d0/dfc/a28655.html#a404d875592b847ddb9f3250c9d954bfc", null ]
 ];

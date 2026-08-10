@@ -1,6 +1,8 @@
 var a24871 =
 [
-    [ "OnHit", "d5/daa/a24871.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
-    [ "PrepareSpellScript", "d5/daa/a24871.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
-    [ "Register", "d5/daa/a24871.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
+    [ "AfterApply", "d5/daa/a24871.html#a4d2941ebb326d603ac08f428f811c29b", null ],
+    [ "AfterRemove", "d5/daa/a24871.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
+    [ "PrepareAuraScript", "d5/daa/a24871.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
+    [ "Register", "d5/daa/a24871.html#a78e30a950b9fc08dff5072028816b8b4", null ],
+    [ "Validate", "d5/daa/a24871.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
 ];

@@ -1,7 +1,9 @@
 var a25843 =
 [
-    [ "HandleJump", "d1/d4f/a25843.html#ac70f6d53e85af1ee2591e761e21872db", null ],
-    [ "HandleScriptEffect", "d1/d4f/a25843.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
-    [ "PrepareSpellScript", "d1/d4f/a25843.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
-    [ "Register", "d1/d4f/a25843.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
+    [ "getMountSpellId", "d1/d4f/a25843.html#afe306ed6057050baf342ee717723764d", null ],
+    [ "OnApply", "d1/d4f/a25843.html#aa8bee986d413be60d00ac1d2111ef719", null ],
+    [ "OnRemove", "d1/d4f/a25843.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
+    [ "PrepareAuraScript", "d1/d4f/a25843.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
+    [ "Register", "d1/d4f/a25843.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
+    [ "Validate", "d1/d4f/a25843.html#a6868f6e88c9179efd921b266c83f6daf", null ]
 ];

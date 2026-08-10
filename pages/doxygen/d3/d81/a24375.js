@@ -1,8 +1,11 @@
 var a24375 =
 [
-    [ "npc_pet_dk_army_of_the_dead", "d3/d81/a24375.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
-    [ "CanAIAttack", "d3/d81/a24375.html#a514fe49b143f57ef87359b3060911c02", null ],
-    [ "OwnerAttacked", "d3/d81/a24375.html#ad5189df825dc917e59c9b19e4a84cded", null ],
-    [ "OwnerAttackedBy", "d3/d81/a24375.html#a01f21e7c57f4bf7f9457c72fda4e9022", null ],
-    [ "UpdateAI", "d3/d81/a24375.html#ac44836f84d172dfac90dfb3eaaeeac6a", null ]
+    [ "npc_isla_starmaneAI", "d3/d81/a24375.html#a0cb655d324ddde173dcfdee069c0f694", null ],
+    [ "JustDied", "d3/d81/a24375.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
+    [ "JustEngagedWith", "d3/d81/a24375.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
+    [ "JustRespawned", "d3/d81/a24375.html#a69b395a9b9504737109870c5e8db74c8", null ],
+    [ "UpdateEscortAI", "d3/d81/a24375.html#af4b8c80e7443bb671be253238b124910", null ],
+    [ "WaypointReached", "d3/d81/a24375.html#a5d00583afa4e811e4f3cb8400787a990", null ],
+    [ "WaypointReached", "d3/d81/a24375.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "events", "d3/d81/a24375.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
 ];

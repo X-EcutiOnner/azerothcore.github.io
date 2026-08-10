@@ -1,6 +1,6 @@
 var a24091 =
 [
-    [ "go_magtheridons_head", "dd/d40/a24091.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "dd/d40/a24091.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "dd/d40/a24091.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "npc_wounded_blood_elfAI", "d9/de2/a24095.html", "d9/de2/a24095" ],
+    [ "npc_wounded_blood_elf", "dd/d40/a24091.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "dd/d40/a24091.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

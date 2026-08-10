@@ -1,7 +1,7 @@
 var a03026 =
 [
-    [ "instance_ulduar", "dd/ddb/a21127.html", "dd/ddb/a21127" ],
-    [ "instance_ulduar::instance_ulduar_InstanceMapScript", "dc/dd5/a21131.html", "dc/dd5/a21131" ],
+    [ "instance_ulduar", "df/de9/a21143.html", "df/de9/a21143" ],
+    [ "instance_ulduar::instance_ulduar_InstanceMapScript", "d1/d6a/a21147.html", "d1/d6a/a21147" ],
     [ "AddSC_instance_ulduar", "dd/da3/a03026.html#a93e6e71a7717be3946c53d3b6093e517", null ],
     [ "boundaries", "dd/da3/a03026.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "dd/da3/a03026.html#a412286b689bd324fedd65ddd8dde8afb", null ],

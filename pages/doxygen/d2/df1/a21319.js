@@ -1,6 +1,8 @@
 var a21319 =
 [
-    [ "boss_svalaAI", "d0/d6a/a21323.html", "d0/d6a/a21323" ],
-    [ "boss_svala", "d2/df1/a21319.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
-    [ "GetAI", "d2/df1/a21319.html#a0c3b94635eca667a28496cf799efad25", null ]
+    [ "FilterTargets", "d2/df1/a21319.html#a028ef84c884536a28650ace1e56f8061", null ],
+    [ "HandleScript", "d2/df1/a21319.html#a16466b4c07c06c57493082b0e84b3c66", null ],
+    [ "PrepareSpellScript", "d2/df1/a21319.html#ad43892487ca38342a61522548b34cd2c", null ],
+    [ "Register", "d2/df1/a21319.html#a90470761baccdcf8c5430006004abf29", null ],
+    [ "Validate", "d2/df1/a21319.html#a1664dcb92887f6974e1750472c02d168", null ]
 ];

@@ -1,6 +1,7 @@
 var a22935 =
 [
-    [ "boss_essence_of_sufferingAI", "df/da8/a22939.html", "df/da8/a22939" ],
-    [ "boss_essence_of_suffering", "d0/d25/a22935.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "d0/d25/a22935.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "CheckProc", "d0/d25/a22935.html#a0968b7b32f2d2bef6035e030f544088a", null ],
+    [ "PrepareAuraScript", "d0/d25/a22935.html#ac424e41948196a6e60b790ebcf40783f", null ],
+    [ "Register", "d0/d25/a22935.html#a06bdac68e36b43ee534e937ffd974086", null ],
+    [ "Update", "d0/d25/a22935.html#af6c228840f6af96e353ba964fdd01e54", null ]
 ];

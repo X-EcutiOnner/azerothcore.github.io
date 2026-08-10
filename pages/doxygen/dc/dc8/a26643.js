@@ -1,6 +1,9 @@
 var a26643 =
 [
-    [ "CheckEffectProc", "dc/dc8/a26643.html#af7756cdb71cc2acc15c56fffc49609f4", null ],
-    [ "PrepareAuraScript", "dc/dc8/a26643.html#a1025c7edec455f647c5c37ffebdf7576", null ],
-    [ "Register", "dc/dc8/a26643.html#a282d4aced8b34e5d800e13dc8e71ef7b", null ]
+    [ "AllowT10Proc", "dc/dc8/a26643.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
+    [ "OnRemove", "dc/dc8/a26643.html#a52807f94eba44a9b574577a0b27acb22", null ],
+    [ "PrepareAuraScript", "dc/dc8/a26643.html#a430303b7df445d38da9316324359c2d6", null ],
+    [ "Register", "dc/dc8/a26643.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
+    [ "Validate", "dc/dc8/a26643.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
+    [ "_canProcT10", "dc/dc8/a26643.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
 ];

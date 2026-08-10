@@ -1,16 +1,8 @@
 var a22111 =
 [
-    [ "npc_tirions_gambit_tirionAI", "dd/d0f/a22111.html#a38959c7a5b502b5716a5c09b0f6ae8a4", null ],
-    [ "DoAction", "dd/d0f/a22111.html#a495e0762614020ef6d7b741447099326", null ],
-    [ "DoSummonAction", "dd/d0f/a22111.html#a891b31661705ed4df634059e6165d499", null ],
-    [ "JustSummoned", "dd/d0f/a22111.html#ac62ec499aba734d36249f8c00b36e2d4", null ],
-    [ "Reset", "dd/d0f/a22111.html#afb398bda1d6ee4d35527208e6c5bffee", null ],
-    [ "SetData", "dd/d0f/a22111.html#a41f24de5f824d84edb69c6b2bdca6d4e", null ],
-    [ "SummonedCreatureDespawn", "dd/d0f/a22111.html#aca05fee85997dffba6ec998b144b9495", null ],
-    [ "UpdateEscortAI", "dd/d0f/a22111.html#a0b681d6cc1566e6193f7eb143ab2bd5e", null ],
-    [ "WaypointReached", "dd/d0f/a22111.html#af5fd69b799c6227dba901f434e30c434", null ],
-    [ "WaypointReached", "dd/d0f/a22111.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_eventOver", "dd/d0f/a22111.html#ac3505c2a8d55afa351543def3e8839de", null ],
-    [ "events", "dd/d0f/a22111.html#a711c55c26187ae695644b770a358766e", null ],
-    [ "summons", "dd/d0f/a22111.html#af574a4b136ff42c597e30c83e4d463ca", null ]
+    [ "npc_llod_genericAI", "dd/d0f/a22111.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "dd/d0f/a22111.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "dd/d0f/a22111.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "dd/d0f/a22111.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "dd/d0f/a22111.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

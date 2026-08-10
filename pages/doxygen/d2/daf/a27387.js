@@ -1,6 +1,6 @@
 var a27387 =
 [
-    [ "HandleProc", "d2/daf/a27387.html#a88c2793fb6043d4d4e970a99df38681a", null ],
-    [ "PrepareAuraScript", "d2/daf/a27387.html#aa2b2e8a0b209d96828ad8c5dd84726b6", null ],
-    [ "Register", "d2/daf/a27387.html#a9e69ca6fa962ccf17c090243a91b4d51", null ]
+    [ "HandleRemove", "d2/daf/a27387.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
+    [ "PrepareAuraScript", "d2/daf/a27387.html#a132193c0c13a2f89b9b29391d524023a", null ],
+    [ "Register", "d2/daf/a27387.html#a246294a7b9a128a9ec464562846332fc", null ]
 ];

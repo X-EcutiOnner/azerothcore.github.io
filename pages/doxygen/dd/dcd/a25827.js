@@ -1,6 +1,7 @@
 var a25827 =
 [
-    [ "HandleDummyTick", "dd/dcd/a25827.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
-    [ "PrepareAuraScript", "dd/dcd/a25827.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
-    [ "Register", "dd/dcd/a25827.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
+    [ "OnDummyEffect", "dd/dcd/a25827.html#a333c11c7ee2821bcc4d74d316f55bf5a", null ],
+    [ "PrepareSpellScript", "dd/dcd/a25827.html#aa15334f23b837a005a34a12d238fc9d5", null ],
+    [ "Register", "dd/dcd/a25827.html#a1b83195bdc148434f10a6c1ba3c0af0d", null ],
+    [ "Validate", "dd/dcd/a25827.html#a359fba1475e52b24635cc8dda51cc922", null ]
 ];

@@ -1,7 +1,9 @@
 var a27507 =
 [
-    [ "HandleDispel", "df/d36/a27507.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
-    [ "PrepareAuraScript", "df/d36/a27507.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
-    [ "Register", "df/d36/a27507.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
-    [ "Validate", "df/d36/a27507.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
+    [ "CalculateAmount", "df/d36/a27507.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
+    [ "CheckProc", "df/d36/a27507.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
+    [ "HandleProc", "df/d36/a27507.html#a741570ba77f70d90b437198f63e565f3", null ],
+    [ "PrepareAuraScript", "df/d36/a27507.html#af4e49e2362994f247c119c16c013e4b3", null ],
+    [ "Register", "df/d36/a27507.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
+    [ "Validate", "df/d36/a27507.html#a939d6815bcaee9b9d2b062313aac912a", null ]
 ];

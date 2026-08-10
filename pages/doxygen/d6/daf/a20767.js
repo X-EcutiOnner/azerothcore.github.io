@@ -1,7 +1,7 @@
 var a20767 =
 [
-    [ "go_razorscale_harpoonAI", "d6/daf/a20767.html#afff12f330538843c477f75500f731ea3", null ],
-    [ "Reset", "d6/daf/a20767.html#aae5f0f7ff2b206872c02bd7da90afdc0", null ],
-    [ "UpdateAI", "d6/daf/a20767.html#a906b14e1bc6b71f95aa2fcde83846f0a", null ],
-    [ "_scheduler", "d6/daf/a20767.html#a6f6e325b1b1599f90173e8c8a68c7956", null ]
+    [ "go_razorscale_harpoonAI", "d0/d6d/a20771.html", "d0/d6d/a20771" ],
+    [ "go_razorscale_harpoon", "d6/daf/a20767.html#a68e5414333ca5ed4ec2de2da5f1756d4", null ],
+    [ "GetAI", "d6/daf/a20767.html#a89a25716733ed0f589ce50eab8466453", null ],
+    [ "OnGossipHello", "d6/daf/a20767.html#ac6ea67384010725c56daab8c4f58c7ff", null ]
 ];

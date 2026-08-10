@@ -1,6 +1,8 @@
 var a27863 =
 [
-    [ "HandleRemove", "dc/da8/a27863.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
-    [ "PrepareAuraScript", "dc/da8/a27863.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
-    [ "Register", "dc/da8/a27863.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
+    [ "CheckProc", "dc/da8/a27863.html#ae202a117ff86eee618dfdf4600746de5", null ],
+    [ "HandleProc", "dc/da8/a27863.html#a28c409af8e7a8115ce86f2a51fff1afd", null ],
+    [ "PrepareAuraScript", "dc/da8/a27863.html#a334db12ee8ed29b34269a0ca3172d7b4", null ],
+    [ "Register", "dc/da8/a27863.html#a392724c604ce325415aaa3410e18a60c", null ],
+    [ "Validate", "dc/da8/a27863.html#af0b153ca9e28a3cdc06a30ff30b46f39", null ]
 ];

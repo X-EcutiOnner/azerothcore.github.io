@@ -1,10 +1,6 @@
 var a28535 =
 [
-    [ "npc_dancing_flamesAI", "d2/ddc/a28535.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "d2/ddc/a28535.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "d2/ddc/a28535.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "d2/ddc/a28535.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "d2/ddc/a28535.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "d2/ddc/a28535.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "d2/ddc/a28535.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "spawnedCreatureEntry", "d2/ddc/a28535.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "d2/ddc/a28535.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "d2/ddc/a28535.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

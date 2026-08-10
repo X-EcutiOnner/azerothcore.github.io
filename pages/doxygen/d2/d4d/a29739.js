@@ -1,10 +1,6 @@
 var a29739 =
 [
-    [ "SetUp", "d2/d4d/a29739.html#a781aff1ceb2f4e26bcf801e9ab81bf3e", null ],
-    [ "TearDown", "d2/d4d/a29739.html#a4554349a2712a018d16de6a8ae9f50ff", null ],
-    [ "PERM_A", "d2/d4d/a29739.html#a4cf88cb08e4248c973e96009b7c5e225", null ],
-    [ "PERM_B", "d2/d4d/a29739.html#a358884a8d08637d7358803127c87c808", null ],
-    [ "PERM_C", "d2/d4d/a29739.html#a34fc88e7d7566ed4d64005535d0a3122", null ],
-    [ "rbacData", "d2/d4d/a29739.html#af35ce1e4fa3d4123358a098cb5afb2af", null ],
-    [ "ROLE_R", "d2/d4d/a29739.html#abe95477afdf283e406df55eac7f146cf", null ]
+    [ "SetUp", "d2/d4d/a29739.html#a3b073d640ac36d1a7ca92db5bc96bfde", null ],
+    [ "TearDown", "d2/d4d/a29739.html#a558a475bde12e46cc17b6246bf2dc223", null ],
+    [ "rbacData", "d2/d4d/a29739.html#a75551f5a3e94383cbc31bc1af4dbf19a", null ]
 ];

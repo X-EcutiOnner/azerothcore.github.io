@@ -1,6 +1,8 @@
 var a27063 =
 [
-    [ "HandleDummy", "db/da3/a27063.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
-    [ "PrepareSpellScript", "db/da3/a27063.html#a5efc666af2cb73c376706c20e41ace68", null ],
-    [ "Register", "db/da3/a27063.html#a46e61697212a43532e148ccb12a7d8e5", null ]
+    [ "HandleDummy", "db/da3/a27063.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "db/da3/a27063.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "db/da3/a27063.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "db/da3/a27063.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "db/da3/a27063.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

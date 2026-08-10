@@ -1,10 +1,6 @@
 var a24895 =
 [
-    [ "Load", "d4/d6f/a24895.html#a2c4e408e45995098b01a05815fffb34c", null ],
-    [ "OnApply", "d4/d6f/a24895.html#acae1047046bb8f555d1798ca024a2650", null ],
-    [ "OnRemove", "d4/d6f/a24895.html#aa01df2b86cf69508866f6e7d063c735a", null ],
-    [ "PrepareAuraScript", "d4/d6f/a24895.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
-    [ "Register", "d4/d6f/a24895.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
-    [ "Validate", "d4/d6f/a24895.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
-    [ "_casterGUID", "d4/d6f/a24895.html#a8047fb4309487c7a529047ec5148a2e3", null ]
+    [ "OnHit", "d4/d6f/a24895.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
+    [ "PrepareSpellScript", "d4/d6f/a24895.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
+    [ "Register", "d4/d6f/a24895.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
 ];

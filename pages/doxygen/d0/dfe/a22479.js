@@ -1,5 +1,6 @@
 var a22479 =
 [
-    [ "go_finklestein_cauldron", "d0/dfe/a22479.html#a8aa352319c54526069588dacd75ab883", null ],
-    [ "OnGossipHello", "d0/dfe/a22479.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
+    [ "PrepareSpellScript", "d0/dfe/a22479.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
+    [ "RecalculateDamage", "d0/dfe/a22479.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
+    [ "Register", "d0/dfe/a22479.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
 ];

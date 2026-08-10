@@ -1,6 +1,6 @@
 var a22255 =
 [
-    [ "HandleScript", "d9/d3f/a22255.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
-    [ "PrepareSpellScript", "d9/d3f/a22255.html#a5a4ce9453638d61fe52514240f0a9384", null ],
-    [ "Register", "d9/d3f/a22255.html#a889f931aaa37d3a283f4d585b384a68e", null ]
+    [ "npc_jungle_punch_targetAI", "dc/d53/a22259.html", "dc/d53/a22259" ],
+    [ "npc_jungle_punch_target", "d9/d3f/a22255.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
+    [ "GetAI", "d9/d3f/a22255.html#abb38ccb55abfe0f48f360469031c6902", null ]
 ];

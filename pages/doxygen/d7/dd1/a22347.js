@@ -1,8 +1,6 @@
 var a22347 =
 [
-    [ "spell_loosen_grip", "d7/dd1/a22347.html#ae35f230e0c66e88f59558748c80470dd", null ],
-    [ "HandleScript", "d7/dd1/a22347.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
-    [ "PrepareSpellScript", "d7/dd1/a22347.html#a219dc7d735f82d8e3b85390f0a881743", null ],
-    [ "Register", "d7/dd1/a22347.html#a8b446d8b5ab00b984272c74b06663326", null ],
-    [ "_stacksToLose", "d7/dd1/a22347.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d7/dd1/a22347.html#afd54b130725aa724b80f150f968ce09d", null ],
+    [ "MovementInform", "d7/dd1/a22347.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
+    [ "PassengerBoarded", "d7/dd1/a22347.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
 ];

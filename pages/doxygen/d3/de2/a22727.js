@@ -1,7 +1,17 @@
 var a22727 =
 [
-    [ "HandleOnHit", "d3/de2/a22727.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "d3/de2/a22727.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "d3/de2/a22727.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "d3/de2/a22727.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "boss_ambassador_hellmaw", "d3/de2/a22727.html#ae774dfa4379b7321ff194a796c9eb842", null ],
+    [ "AttackStart", "d3/de2/a22727.html#aa072ff0e9ce6e68f3ba0b4e51fb92f04", null ],
+    [ "CanAIAttack", "d3/de2/a22727.html#a35579b31dec1d0c110b459230ee129e4", null ],
+    [ "DoAction", "d3/de2/a22727.html#a3cbd58fb11fe8d297907bb40d69e4ccb", null ],
+    [ "DoMeleeAttackIfReady", "d3/de2/a22727.html#a8dd75d368f0f567561db45e1c53ad785", null ],
+    [ "InitializeAI", "d3/de2/a22727.html#a9b0170a49751def614126265240bb87c", null ],
+    [ "JustDied", "d3/de2/a22727.html#ae0e04500073a4c02c9656b4bcd63be9c", null ],
+    [ "JustEngagedWith", "d3/de2/a22727.html#a9ea9d60b8fa90a228951a38fc2f59325", null ],
+    [ "KilledUnit", "d3/de2/a22727.html#a5f7564ef25a36395cddf4e2c2dbc2dfc", null ],
+    [ "MoveInLineOfSight", "d3/de2/a22727.html#af3949b46f82863af699396729e88928b", null ],
+    [ "PathEndReached", "d3/de2/a22727.html#a46b9b96ec5e4c121d994560e85266dfe", null ],
+    [ "Reset", "d3/de2/a22727.html#a4881f868ac11eb66f3d15b44c94938bf", null ],
+    [ "UpdateAI", "d3/de2/a22727.html#a44dae5d6517e22dd2be399d08fa67a71", null ],
+    [ "isBanished", "d3/de2/a22727.html#a4805244997c42f5791400c5b1f5e6204", null ]
 ];

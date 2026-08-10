@@ -1,6 +1,7 @@
 var a21543 =
 [
-    [ "HandleEffectPeriodic", "da/d26/a21543.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
-    [ "PrepareAuraScript", "da/d26/a21543.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
-    [ "Register", "da/d26/a21543.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
+    [ "npc_azure_spellbreaker", "da/d26/a21543.html#ae884adc9619d3458d81a2029bd490893", null ],
+    [ "Reset", "da/d26/a21543.html#a32e4674bac67f1a259c68c32ef0d1358", null ],
+    [ "UpdateAI", "da/d26/a21543.html#a938a93a71490bb42158e2215d125509f", null ],
+    [ "_events", "da/d26/a21543.html#a9f526cff54cb949cc68046e7816c3c89", null ]
 ];

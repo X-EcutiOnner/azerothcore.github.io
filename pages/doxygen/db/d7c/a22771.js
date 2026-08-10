@@ -1,14 +1,11 @@
 var a22771 =
 [
-    [ "npc_maiev_illidan", "db/d7c/a22771.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
-    [ "DamageTaken", "db/d7c/a22771.html#a780cc558c483efa3293d798cc6048a33", null ],
-    [ "DoAction", "db/d7c/a22771.html#a53607a158edf8fd772908b5d7af6edf1", null ],
-    [ "IsSummonedBy", "db/d7c/a22771.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
-    [ "JustEngagedWith", "db/d7c/a22771.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
-    [ "JustExitedCombat", "db/d7c/a22771.html#a5606060b12e17edfd6ad05f4f01dd339", null ],
-    [ "Reset", "db/d7c/a22771.html#a100db757c89634a58b9382216e2791ec", null ],
-    [ "SpellHit", "db/d7c/a22771.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
-    [ "UpdateAI", "db/d7c/a22771.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
-    [ "_outroActive", "db/d7c/a22771.html#af0f1e48d3712039cb110d5a69a464009", null ],
-    [ "instance", "db/d7c/a22771.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
+    [ "boss_gurtogg_bloodboil", "db/d7c/a22771.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
+    [ "CanAIAttack", "db/d7c/a22771.html#a60e6439bab689eb88a18612b6b46c713", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "db/d7c/a22771.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
+    [ "JustDied", "db/d7c/a22771.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
+    [ "JustEngagedWith", "db/d7c/a22771.html#a0847173efbae252c2fbbaf1be17097cb", null ],
+    [ "JustSummoned", "db/d7c/a22771.html#ae718666a1da0e93cb0965c42c40b51df", null ],
+    [ "KilledUnit", "db/d7c/a22771.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
+    [ "Reset", "db/d7c/a22771.html#add25677d422b8bddcb753465451f0584", null ]
 ];

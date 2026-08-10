@@ -1,6 +1,7 @@
 var a21935 =
 [
-    [ "npc_ravenous_worgAI", "d3/d6b/a21939.html", "d3/d6b/a21939" ],
-    [ "npc_ravenous_worg", "d0/d36/a21935.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
-    [ "GetAI", "d0/d36/a21935.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
+    [ "OnRemove", "d0/d36/a21935.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "d0/d36/a21935.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "d0/d36/a21935.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "d0/d36/a21935.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

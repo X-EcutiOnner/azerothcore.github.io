@@ -1,7 +1,6 @@
 var a24043 =
 [
-    [ "HandleEffect", "d8/d59/a24043.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "d8/d59/a24043.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "d8/d59/a24043.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "d8/d59/a24043.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "npc_simon_bunnyAI", "d8/d4f/a24047.html", "d8/d4f/a24047" ],
+    [ "npc_simon_bunny", "d8/d59/a24043.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
+    [ "GetAI", "d8/d59/a24043.html#ac0c97609916321a1599c0722803a050f", null ]
 ];

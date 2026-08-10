@@ -1,5 +1,6 @@
 var a28627 =
 [
-    [ "npc_stable_masterAI", "dd/d8c/a28627.html#a5c6f9bca1004af163ddb074b606330be", null ],
-    [ "sGossipSelect", "dd/d8c/a28627.html#a09205661674dd011ffe425deaadde053", null ]
+    [ "npc_experience", "dd/d8c/a28627.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "dd/d8c/a28627.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "dd/d8c/a28627.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

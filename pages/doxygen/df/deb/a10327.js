@@ -5,6 +5,7 @@ var a10327 =
     [ "mapid", "df/deb/a10327.html#ac23de576d628ec0dde71be9a06976c83", null ],
     [ "orientation", "df/deb/a10327.html#a645082615abc236e61a409595afca3e4", null ],
     [ "phaseMask", "df/deb/a10327.html#a1d08a4a00b3ffe3eaaf260c7a447c861", null ],
+    [ "poolId", "df/deb/a10327.html#ae3790bdeab5bd664665f9a991ec15107", null ],
     [ "posX", "df/deb/a10327.html#a038b864df6fc5db9a47ae565a5e8d627", null ],
     [ "posY", "df/deb/a10327.html#a13dc41e4c6b296b6b7a0a1ca402f407b", null ],
     [ "posZ", "df/deb/a10327.html#ae911f34522832f2842ea7450c55e264c", null ],

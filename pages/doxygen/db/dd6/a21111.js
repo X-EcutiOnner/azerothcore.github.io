@@ -1,5 +1,6 @@
 var a21111 =
 [
-    [ "achievement_yogg_saron_drive_me_crazy", "db/dd6/a21111.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
-    [ "OnCheck", "db/dd6/a21111.html#a029fdd68e0643b53971efbb1056f19d8", null ]
+    [ "FilterTargets", "db/dd6/a21111.html#a8303045991c638e87c72940174f69a7f", null ],
+    [ "PrepareSpellScript", "db/dd6/a21111.html#a18fdfdfa7f90a903086902d249678565", null ],
+    [ "Register", "db/dd6/a21111.html#af8d3f834e06a543a96065102fa78bc5c", null ]
 ];

@@ -1,8 +1,7 @@
 var a27587 =
 [
-    [ "CheckProc", "d9/dab/a27587.html#ae2cab3bddee64667e242fe89cf1d97ad", null ],
-    [ "HandleProc", "d9/dab/a27587.html#afe9fa2846b939aafdd49163990c73204", null ],
-    [ "PrepareAuraScript", "d9/dab/a27587.html#a2d3bb1f075e3b18c678d23c457c8fcd1", null ],
-    [ "Register", "d9/dab/a27587.html#a03803e95a51f5668eb024aa45183f853", null ],
-    [ "Validate", "d9/dab/a27587.html#a1847090f13a6692b868469739d57ff1c", null ]
+    [ "HandleScriptEffect", "d9/dab/a27587.html#a5bbcb05b82e0953c82f2a0d96bd79eab", null ],
+    [ "PrepareSpellScript", "d9/dab/a27587.html#a7462fbeab2254046e12a262418ec0d2c", null ],
+    [ "Register", "d9/dab/a27587.html#ac14625182eb0289d8536ac322500ab45", null ],
+    [ "Validate", "d9/dab/a27587.html#a190b802f3b09655886e5bbb9980375af", null ]
 ];

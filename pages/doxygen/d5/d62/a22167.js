@@ -1,6 +1,6 @@
 var a22167 =
 [
-    [ "npc_blessed_bannerAI", "d0/d35/a22171.html", "d0/d35/a22171" ],
-    [ "npc_blessed_banner", "d5/d62/a22167.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "d5/d62/a22167.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "ChangeSummonPos", "d5/d62/a22167.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "d5/d62/a22167.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "d5/d62/a22167.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

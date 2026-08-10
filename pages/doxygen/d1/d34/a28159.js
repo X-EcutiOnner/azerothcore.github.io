@@ -1,7 +1,6 @@
 var a28159 =
 [
-    [ "HandlePeriodic", "d1/d34/a28159.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "d1/d34/a28159.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "d1/d34/a28159.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "d1/d34/a28159.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "boss_emerissAI", "db/dd3/a28163.html", "db/dd3/a28163" ],
+    [ "boss_emeriss", "d1/d34/a28159.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "d1/d34/a28159.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

@@ -250,14 +250,14 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa09591_html_a6f70e8d91a9f8e49cab8a8ef6f41a84a"><div class="ttname"><a href="../../d6/d3b/a09591.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a">MapGridManager::IsGridCreated</a></div><div class="ttdeci">bool IsGridCreated(uint16 const x, uint16 const y) const</div><div class="ttdef"><b>Definition:</b> MapGridManager.cpp:72</div></div>
 <div class="ttc" id="aa09591_html_aa2c2218a81a5d042925e5675948e242f"><div class="ttname"><a href="../../d6/d3b/a09591.html#aa2c2218a81a5d042925e5675948e242f">MapGridManager::_gridLock</a></div><div class="ttdeci">std::mutex _gridLock</div><div class="ttdef"><b>Definition:</b> MapGridManager.h:58</div></div>
 <div class="ttc" id="aa09591_html_acfac0df3926498e8a9aa581581f84e2c"><div class="ttname"><a href="../../d6/d3b/a09591.html#acfac0df3926498e8a9aa581581f84e2c">MapGridManager::_mapGrid</a></div><div class="ttdeci">std::unique_ptr&lt; MapGridType &gt; _mapGrid[MAX_NUMBER_OF_GRIDS][MAX_NUMBER_OF_GRIDS]</div><div class="ttdef"><b>Definition:</b> MapGridManager.h:59</div></div>
-<div class="ttc" id="aa10255_html"><div class="ttname"><a href="../../d6/d49/a10255.html">Map</a></div><div class="ttdef"><b>Definition:</b> Map.h:167</div></div>
-<div class="ttc" id="aa10255_html_a572290c0e52c32f1c91fd3ac9151d284"><div class="ttname"><a href="../../d6/d49/a10255.html#a572290c0e52c32f1c91fd3ac9151d284">Map::EnsureGridCreated</a></div><div class="ttdeci">void EnsureGridCreated(GridCoord const &amp;gridCoord)</div><div class="ttdef"><b>Definition:</b> Map.cpp:181</div></div>
-<div class="ttc" id="aa10255_html_a60889ddef0f3a883ec1542b5e43d6e46"><div class="ttname"><a href="../../d6/d49/a10255.html#a60889ddef0f3a883ec1542b5e43d6e46">Map::GetParent</a></div><div class="ttdeci">Map const * GetParent() const</div><div class="ttdef"><b>Definition:</b> Map.h:235</div></div>
-<div class="ttc" id="aa10255_html_ae0451da49ca7ce3b856f38870c451e44"><div class="ttname"><a href="../../d6/d49/a10255.html#ae0451da49ca7ce3b856f38870c451e44">Map::GetInstanceId</a></div><div class="ttdeci">uint32 GetInstanceId() const</div><div class="ttdef"><b>Definition:</b> Map.h:269</div></div>
+<div class="ttc" id="aa10255_html"><div class="ttname"><a href="../../d6/d49/a10255.html">Map</a></div><div class="ttdef"><b>Definition:</b> Map.h:168</div></div>
+<div class="ttc" id="aa10255_html_a572290c0e52c32f1c91fd3ac9151d284"><div class="ttname"><a href="../../d6/d49/a10255.html#a572290c0e52c32f1c91fd3ac9151d284">Map::EnsureGridCreated</a></div><div class="ttdeci">void EnsureGridCreated(GridCoord const &amp;gridCoord)</div><div class="ttdef"><b>Definition:</b> Map.cpp:183</div></div>
+<div class="ttc" id="aa10255_html_a60889ddef0f3a883ec1542b5e43d6e46"><div class="ttname"><a href="../../d6/d49/a10255.html#a60889ddef0f3a883ec1542b5e43d6e46">Map::GetParent</a></div><div class="ttdeci">Map const * GetParent() const</div><div class="ttdef"><b>Definition:</b> Map.h:236</div></div>
+<div class="ttc" id="aa10255_html_ae0451da49ca7ce3b856f38870c451e44"><div class="ttname"><a href="../../d6/d49/a10255.html#ae0451da49ca7ce3b856f38870c451e44">Map::GetInstanceId</a></div><div class="ttdeci">uint32 GetInstanceId() const</div><div class="ttdef"><b>Definition:</b> Map.h:270</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00055">_createdGridsCount</a>, <a class="el" href="../../#l00058">_gridLock</a>, <a class="el" href="../../#l00053">_map</a>, <a class="el" href="../../#l00059">_mapGrid</a>, <a class="el" href="../../#l00181">Map::EnsureGridCreated()</a>, <a class="el" href="../../#l00269">Map::GetInstanceId()</a>, <a class="el" href="../../#l00235">Map::GetParent()</a>, <a class="el" href="../../#l00072">IsGridCreated()</a>, and <a class="el" href="../../#l00009">GridTerrainLoader::LoadTerrain()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00055">_createdGridsCount</a>, <a class="el" href="../../#l00058">_gridLock</a>, <a class="el" href="../../#l00053">_map</a>, <a class="el" href="../../#l00059">_mapGrid</a>, <a class="el" href="../../#l00183">Map::EnsureGridCreated()</a>, <a class="el" href="../../#l00270">Map::GetInstanceId()</a>, <a class="el" href="../../#l00236">Map::GetParent()</a>, <a class="el" href="../../#l00072">IsGridCreated()</a>, and <a class="el" href="../../#l00009">GridTerrainLoader::LoadTerrain()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00181">Map::EnsureGridCreated()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00183">Map::EnsureGridCreated()</a>.</p>
 
 </div>
 </div>
@@ -299,7 +299,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00105">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::GetCreatedCellsCount()</a>, and <a class="el" href="../../#l00088">GetGrid()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03577">Map::GetCreatedCellsInGridCount()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03569">Map::GetCreatedCellsInGridCount()</a>.</p>
 
 </div>
 </div>
@@ -334,7 +334,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00088">GetGrid()</a>, and <a class="el" href="../../#l00024">MAX_NUMBER_OF_GRIDS</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03582">Map::GetCreatedCellsInMapCount()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03574">Map::GetCreatedCellsInMapCount()</a>.</p>
 
 </div>
 </div>
@@ -358,7 +358,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00055">_createdGridsCount</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03567">Map::GetCreatedGridsCount()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03559">Map::GetCreatedGridsCount()</a>.</p>
 
 </div>
 </div>
@@ -397,7 +397,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00059">_mapGrid</a>, and <a class="el" href="../../#l00042">IsValidGridCoordinates()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00106">GetCreatedCellsInGridCount()</a>, <a class="el" href="../../#l00115">GetCreatedCellsInMapCount()</a>, <a class="el" href="../../#l01100">Map::GetGridTerrainData()</a>, <a class="el" href="../../#l01093">Map::GetGridTerrainDataSharedPtr()</a>, <a class="el" href="../../#l00199">Map::GetMapGrid()</a>, <a class="el" href="../../#l00033">LoadGrid()</a>, and <a class="el" href="../../#l00049">UnloadGrid()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00106">GetCreatedCellsInGridCount()</a>, <a class="el" href="../../#l00115">GetCreatedCellsInMapCount()</a>, <a class="el" href="../../#l01102">Map::GetGridTerrainData()</a>, <a class="el" href="../../#l01095">Map::GetGridTerrainDataSharedPtr()</a>, <a class="el" href="../../#l00201">Map::GetMapGrid()</a>, <a class="el" href="../../#l00033">LoadGrid()</a>, and <a class="el" href="../../#l00049">UnloadGrid()</a>.</p>
 
 </div>
 </div>
@@ -421,7 +421,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00056">_loadedGridsCount</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03572">Map::GetLoadedGridsCount()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03564">Map::GetLoadedGridsCount()</a>.</p>
 
 </div>
 </div>
@@ -459,7 +459,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00059">_mapGrid</a>, and <a class="el" href="../../#l00042">IsValidGridCoordinates()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00005">CreateGrid()</a>, and <a class="el" href="../../#l00209">Map::IsGridCreated()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00005">CreateGrid()</a>, and <a class="el" href="../../#l00211">Map::IsGridCreated()</a>.</p>
 
 </div>
 </div>
@@ -497,7 +497,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00059">_mapGrid</a>, and <a class="el" href="../../#l00042">IsValidGridCoordinates()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00204">Map::IsGridLoaded()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00206">Map::IsGridLoaded()</a>.</p>
 
 </div>
 </div>
@@ -543,7 +543,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00056">_loadedGridsCount</a>, and <a class="el" href="../../#l00024">MAX_NUMBER_OF_GRIDS</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00226">Map::LoadGridsInRange()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00228">Map::LoadGridsInRange()</a>.</p>
 
 </div>
 </div>
@@ -584,7 +584,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00024">MAX_NUMBER_OF_GRIDS</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00088">GetGrid()</a>, <a class="el" href="../../#l01100">Map::GetGridTerrainData()</a>, <a class="el" href="../../#l00072">IsGridCreated()</a>, and <a class="el" href="../../#l00080">IsGridLoaded()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00088">GetGrid()</a>, <a class="el" href="../../#l01102">Map::GetGridTerrainData()</a>, <a class="el" href="../../#l00072">IsGridCreated()</a>, and <a class="el" href="../../#l00080">IsGridLoaded()</a>.</p>
 
 </div>
 </div>
@@ -631,9 +631,9 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa09587_html_a6e559b0b151dd71cac93abc137b67757"><div class="ttname"><a href="../../dd/dcb/a09587.html#a6e559b0b151dd71cac93abc137b67757">MapGrid::SetObjectDataLoaded</a></div><div class="ttdeci">void SetObjectDataLoaded()</div><div class="ttdef"><b>Definition:</b> MapGrid.h:47</div></div>
 <div class="ttc" id="aa09587_html_ab22e3c6e9432cd589cb6665169036ba8"><div class="ttname"><a href="../../dd/dcb/a09587.html#ab22e3c6e9432cd589cb6665169036ba8">MapGrid::IsObjectDataLoaded</a></div><div class="ttdeci">bool IsObjectDataLoaded() const</div><div class="ttdef"><b>Definition:</b> MapGrid.h:46</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00056">_loadedGridsCount</a>, <a class="el" href="../../#l00053">_map</a>, <a class="el" href="../../#l00088">GetGrid()</a>, <a class="el" href="../../#l00046">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::IsObjectDataLoaded()</a>, <a class="el" href="../../#l00107">GridObjectLoader::LoadAllCellsInGrid()</a>, and <a class="el" href="../../#l00047">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::SetObjectDataLoaded()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00056">_loadedGridsCount</a>, <a class="el" href="../../#l00053">_map</a>, <a class="el" href="../../#l00088">GetGrid()</a>, <a class="el" href="../../#l00046">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::IsObjectDataLoaded()</a>, <a class="el" href="../../#l00116">GridObjectLoader::LoadAllCellsInGrid()</a>, and <a class="el" href="../../#l00047">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::SetObjectDataLoaded()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00186">Map::EnsureGridLoaded()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00188">Map::EnsureGridLoaded()</a>.</p>
 
 </div>
 </div>
@@ -687,11 +687,11 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa09511_html"><div class="ttname"><a href="../../db/d96/a09511.html">GridObjectCleaner</a></div><div class="ttdef"><b>Definition:</b> GridObjectLoader.h:47</div></div>
 <div class="ttc" id="aa09515_html"><div class="ttname"><a href="../../db/d61/a09515.html">GridObjectUnloader</a></div><div class="ttdef"><b>Definition:</b> GridObjectLoader.h:55</div></div>
 <div class="ttc" id="aa09587_html_a87e9c4690a1ffee11a8d6a6fee264e7b"><div class="ttname"><a href="../../dd/dcb/a09587.html#a87e9c4690a1ffee11a8d6a6fee264e7b">MapGrid::VisitAllCells</a></div><div class="ttdeci">void VisitAllCells(TypeContainerVisitor&lt; T, TT &gt; &amp;visitor)</div><div class="ttdef"><b>Definition:</b> MapGrid.h:71</div></div>
-<div class="ttc" id="aa10255_html_acc6e018eedcd4943734d153dc4a8cb89"><div class="ttname"><a href="../../d6/d49/a10255.html#acc6e018eedcd4943734d153dc4a8cb89">Map::RemoveAllObjectsInRemoveList</a></div><div class="ttdeci">void RemoveAllObjectsInRemoveList()</div><div class="ttdef"><b>Definition:</b> Map.cpp:1803</div></div>
+<div class="ttc" id="aa10255_html_acc6e018eedcd4943734d153dc4a8cb89"><div class="ttname"><a href="../../d6/d49/a10255.html#acc6e018eedcd4943734d153dc4a8cb89">Map::RemoveAllObjectsInRemoveList</a></div><div class="ttdeci">void RemoveAllObjectsInRemoveList()</div><div class="ttdef"><b>Definition:</b> Map.cpp:1805</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00053">_map</a>, <a class="el" href="../../#l00059">_mapGrid</a>, <a class="el" href="../../#l00088">GetGrid()</a>, <a class="el" href="../../#l01803">Map::RemoveAllObjectsInRemoveList()</a>, and <a class="el" href="../../#l00071">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::VisitAllCells()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00053">_map</a>, <a class="el" href="../../#l00059">_mapGrid</a>, <a class="el" href="../../#l00088">GetGrid()</a>, <a class="el" href="../../#l01805">Map::RemoveAllObjectsInRemoveList()</a>, and <a class="el" href="../../#l00071">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::VisitAllCells()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01024">Map::UnloadGrid()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01026">Map::UnloadGrid()</a>.</p>
 
 </div>
 </div>
@@ -822,7 +822,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d3b/a09591.html">MapGridManager</a></li>
-    <li class="footer">Generated on Mon Aug 3 2026 21:44:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 10 2026 21:23:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

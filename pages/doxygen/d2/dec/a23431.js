@@ -1,13 +1,8 @@
 var a23431 =
 [
-    [ "boss_ghazan", "d2/dec/a23431.html#ae730362fcf3606c67b6b85147de98fb6", null ],
-    [ "DoAction", "d2/dec/a23431.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
-    [ "InitializeAI", "d2/dec/a23431.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
-    [ "JustEngagedWith", "d2/dec/a23431.html#ad4136f0f63d267284f36756793c0efa7", null ],
-    [ "JustReachedHome", "d2/dec/a23431.html#af9f2dd854036d5c8b9c6703499836199", null ],
-    [ "MovementInform", "d2/dec/a23431.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
-    [ "Reset", "d2/dec/a23431.html#afc9522a26060643f2f9d25a8a98691b7", null ],
-    [ "UpdateAI", "d2/dec/a23431.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
-    [ "_movedToPlatform", "d2/dec/a23431.html#aa6c0c391355ac0b698d67796efd63062", null ],
-    [ "_reachedPlatform", "d2/dec/a23431.html#af3476318b4721bd52facaf735eabb1f9", null ]
+    [ "boss_mekgineer_steamrigger", "d2/dec/a23431.html#a930dcbade7135d0c689bcc0718815547", null ],
+    [ "JustDied", "d2/dec/a23431.html#a79272c233bc0256cca62700fc7a01421", null ],
+    [ "JustEngagedWith", "d2/dec/a23431.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
+    [ "JustSummoned", "d2/dec/a23431.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
+    [ "KilledUnit", "d2/dec/a23431.html#a84374438458cb7e034f91d4b65cd22f1", null ]
 ];

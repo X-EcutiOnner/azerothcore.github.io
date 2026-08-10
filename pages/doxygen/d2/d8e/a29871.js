@@ -1,6 +1,12 @@
 var a29871 =
 [
-    [ "SetUp", "d2/d8e/a29871.html#ac7db18817aa330aedefd1f688d53219b", null ],
-    [ "TearDown", "d2/d8e/a29871.html#a0cb70a624f55509497866a1fac787800", null ],
-    [ "_previousWorld", "d2/d8e/a29871.html#afec905a799e8fe7522a2fa6756fa41d9", null ]
+    [ "TestVisibilityScript", "d2/d8e/a29871.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
+    [ "EnsureRegistered", "d2/d8e/a29871.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
+    [ "OnPlayerSetServerSideVisibility", "d2/d8e/a29871.html#a6b3701188303b644b28a52ec42bec846", null ],
+    [ "Reset", "d2/d8e/a29871.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
+    [ "CallCount", "d2/d8e/a29871.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
+    [ "Instance", "d2/d8e/a29871.html#adcf0326aa1e32db109ec920857868138", null ],
+    [ "LastPlayer", "d2/d8e/a29871.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
+    [ "LastSecurity", "d2/d8e/a29871.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
+    [ "LastType", "d2/d8e/a29871.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
 ];

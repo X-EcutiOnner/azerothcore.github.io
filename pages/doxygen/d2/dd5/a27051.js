@@ -1,6 +1,7 @@
 var a27051 =
 [
-    [ "HandleScriptEffect", "d2/dd5/a27051.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
-    [ "PrepareSpellScript", "d2/dd5/a27051.html#a0223c05b5832c64b248e82eba770f7fa", null ],
-    [ "Register", "d2/dd5/a27051.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
+    [ "if", "d2/dd5/a27051.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
+    [ "PrepareAuraScript", "d2/dd5/a27051.html#aa31810077c241e77193e378cb297b7de", null ],
+    [ "Register", "d2/dd5/a27051.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
+    [ "AuraEffectHandleModes", "d2/dd5/a27051.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
 ];

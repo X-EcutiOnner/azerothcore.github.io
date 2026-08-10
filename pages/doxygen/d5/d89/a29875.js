@@ -1,8 +1,11 @@
 var a29875 =
 [
-    [ "TestOocPlayerScript", "d5/d89/a29875.html#ad8a63387a46b252a555b5d48b0f73d55", null ],
-    [ "EnsureRegistered", "d5/d89/a29875.html#a485c732b5cc87e418e1e8b0fdb80e5b7", null ],
-    [ "OnPlayerCompleteQuest", "d5/d89/a29875.html#a7288e4227b28edebe4723c14ef56bce1", null ],
-    [ "OnPlayerLevelChanged", "d5/d89/a29875.html#a0d2fa7743649d3443f49654d55ca1558", null ],
-    [ "Instance", "d5/d89/a29875.html#a58269b1a038bfbdc8c9dafd058d16b5e", null ]
+    [ "SetUp", "d5/d89/a29875.html#a236c5547ff9855b39315642ec2e79c4e", null ],
+    [ "SimulateGmVisibleOff", "d5/d89/a29875.html#a9276b43219f395a537a0ee51ab00905c", null ],
+    [ "SimulateGmVisibleOn", "d5/d89/a29875.html#afc09b0c8806fbf445e25f8f194a8228b", null ],
+    [ "TearDown", "d5/d89/a29875.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
+    [ "originalWorld", "d5/d89/a29875.html#a8f7396466d2b20742f66e14462de96a4", null ],
+    [ "player", "d5/d89/a29875.html#a97049ae029c9354fdf3194be77f36dfa", null ],
+    [ "session", "d5/d89/a29875.html#a2f87ec522777defa8b023274b1d78c35", null ],
+    [ "worldMock", "d5/d89/a29875.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
 ];

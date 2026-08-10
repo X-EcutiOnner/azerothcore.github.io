@@ -1,6 +1,8 @@
 var a23643 =
 [
-    [ "HandleHit", "df/d90/a23643.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
-    [ "PrepareSpellScript", "df/d90/a23643.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
-    [ "Register", "df/d90/a23643.html#acb1b681f587817614c2b3684585369db", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "df/d90/a23643.html#aebc047b45cb4560a38df89db75f8efab", null ],
+    [ "Initialize", "df/d90/a23643.html#a115a36ec26e15e23be4d78250d86d814", null ],
+    [ "OnGameObjectCreate", "df/d90/a23643.html#a0639fcd867616d1f04aacde44020bb30", null ],
+    [ "SetBossState", "df/d90/a23643.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
+    [ "felIronChestGUID", "df/d90/a23643.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
 ];

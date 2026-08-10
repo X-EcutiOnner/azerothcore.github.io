@@ -1,7 +1,7 @@
 var a21059 =
 [
-    [ "OnPeriodic", "d9/d27/a21059.html#a529e89c1ae0074370da174defc086719", null ],
-    [ "PrepareAuraScript", "d9/d27/a21059.html#a587652095a5dfae229787a0c0ceacfbe", null ],
-    [ "Register", "d9/d27/a21059.html#acd5551b09882d720608bdec6036dee9a", null ],
-    [ "Validate", "d9/d27/a21059.html#aaed6604e39dd977f4e7c671052d718e8", null ]
+    [ "FilterTargets", "d9/d27/a21059.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
+    [ "HandleDummyEffect", "d9/d27/a21059.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
+    [ "PrepareSpellScript", "d9/d27/a21059.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
+    [ "Register", "d9/d27/a21059.html#a337cdb940a2001ac370768b02126d3c0", null ]
 ];

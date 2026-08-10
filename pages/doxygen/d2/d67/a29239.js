@@ -1,5 +1,4 @@
 var a29239 =
 [
-    [ "ID", "d2/d67/a29239.html#a65acb5af9a688346cbb7dc144710c768", null ],
-    [ "inventoryIcon", "d2/d67/a29239.html#a26b43ee179bd546c6e956dd797fc0842", null ]
+    [ "ratio", "d2/d67/a29239.html#ac22c096d41c6fb7ebdc824fc1ca8601b", null ]
 ];

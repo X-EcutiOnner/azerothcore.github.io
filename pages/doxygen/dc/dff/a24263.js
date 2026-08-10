@@ -1,9 +1,6 @@
 var a24263 =
 [
-    [ "npc_enraged_spiritAI", "dc/dff/a24263.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
-    [ "JustDied", "dc/dff/a24263.html#a9322622f679dbc311bd8983f5037bd2e", null ],
-    [ "JustEngagedWith", "dc/dff/a24263.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
-    [ "Reset", "dc/dff/a24263.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
-    [ "UpdateAI", "dc/dff/a24263.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
-    [ "_scheduler", "dc/dff/a24263.html#afa6825696b0622849f877b392df4b326", null ]
+    [ "npc_lord_illidan_stormrageAI", "d3/dc5/a24267.html", "d3/dc5/a24267" ],
+    [ "npc_lord_illidan_stormrage", "dc/dff/a24263.html#ad2f213749e170ec4f9903396d132f5f3", null ],
+    [ "GetAI", "dc/dff/a24263.html#a9aaedc4326b90621965dad522f4af897", null ]
 ];

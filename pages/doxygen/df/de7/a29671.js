@@ -1,22 +1,13 @@
 var a29671 =
 [
-    [ "SpellInfoBuilder", "df/de7/a29671.html#a1af4c9aaf8b9707697c1e030beee389a", null ],
-    [ "Build", "df/de7/a29671.html#ab8ba5082d8c0d5d98837e7df20229906", null ],
-    [ "BuildUnique", "df/de7/a29671.html#a96bd1eea56970fdc051fe3c494ee6396", null ],
-    [ "WithAttributes", "df/de7/a29671.html#ad08396120fbe9b27e7ae6e156b338e95", null ],
-    [ "WithAttributesEx3", "df/de7/a29671.html#ab92a2a4b9be30a760ce90467c7dfa234", null ],
-    [ "WithDmgClass", "df/de7/a29671.html#aae876b0fda0da198b04bb43cf9b8851e", null ],
-    [ "WithEffect", "df/de7/a29671.html#aec11a1d4ff5ce438e052d58bd6dbbd1f", null ],
-    [ "WithEffectBasePoints", "df/de7/a29671.html#a5a480961571af48bd8cd13aefb58248f", null ],
-    [ "WithEffectDieSides", "df/de7/a29671.html#adcf13d48e0289bce0a0de09c0ae5dbcc", null ],
-    [ "WithEffectMiscValue", "df/de7/a29671.html#ab79a3f46af60c196780e5bec6e3ece25", null ],
-    [ "WithEffectTriggerSpell", "df/de7/a29671.html#ab7e6d316ff67f1610695b89723b7e364", null ],
-    [ "WithId", "df/de7/a29671.html#a1f23f2372b8fd2e7ce8e6aad99868892", null ],
-    [ "WithProcChance", "df/de7/a29671.html#a9a82d31ff56c42ad264d1daf97c1a445", null ],
-    [ "WithProcCharges", "df/de7/a29671.html#a49152801fbf954772dfdf6c94cb91fb8", null ],
-    [ "WithProcFlags", "df/de7/a29671.html#a76fd05f8130f02bba9b159e9e09c4f52", null ],
-    [ "WithSchoolMask", "df/de7/a29671.html#adbc655e188cade9675943e2f57a4a242", null ],
-    [ "WithSpellFamilyFlags", "df/de7/a29671.html#aa4f184402512fd50c6066910787c4595", null ],
-    [ "WithSpellFamilyName", "df/de7/a29671.html#ae64bb11a8877c42ed63addc210fae8cc", null ],
-    [ "_entryHelper", "df/de7/a29671.html#a764a57f15f5383d3555b7763c0dc718b", null ]
+    [ "AuraConfig", "d9/de7/a29675.html", "d9/de7/a29675" ],
+    [ "ProcRecord", "de/ddc/a29679.html", "de/ddc/a29679" ],
+    [ "ProcChainGuardSimulator", "df/de7/a29671.html#ad729e5f44922b9b6c44c9a4d732818e7", null ],
+    [ "CanProc", "df/de7/a29671.html#a267703c4a51bf3e8020e3298c85b74b3", null ],
+    [ "GetProcDeep", "df/de7/a29671.html#afe8e4320a882c474f883347860ad4d47", null ],
+    [ "GetRecords", "df/de7/a29671.html#ae21baa9f43fb78e30dedfc6608684e9e", null ],
+    [ "SetCantProc", "df/de7/a29671.html#ab479d1a30e547ce04775abe397cfea14", null ],
+    [ "SimulateTriggerAurasProc", "df/de7/a29671.html#ab0a0af1461f0f94a87273f468bc5454d", null ],
+    [ "_procDeep", "df/de7/a29671.html#a5fd0de564b32520971082df9620d40b4", null ],
+    [ "_records", "df/de7/a29671.html#abdecfb4d1da86f5a5d4cd7c92c228617", null ]
 ];

@@ -1,6 +1,6 @@
 var a22343 =
 [
-    [ "HandleScript", "da/d30/a22343.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
-    [ "PrepareSpellScript", "da/d30/a22343.html#af0f5206d98dbc9de355abbeb03709c05", null ],
-    [ "Register", "da/d30/a22343.html#a53d9d7de4922ed6509b6036921640352", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d7/dd1/a22347.html", "d7/dd1/a22347" ],
+    [ "npc_vehicle_d16_propelled_delivery", "da/d30/a22343.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "da/d30/a22343.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

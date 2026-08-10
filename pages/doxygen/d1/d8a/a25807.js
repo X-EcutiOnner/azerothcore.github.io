@@ -1,5 +1,8 @@
 var a25807 =
 [
-    [ "PrepareSpellScript", "d1/d8a/a25807.html#acb39fd85035670fb98dcea66c29b2ff7", null ],
-    [ "Register", "d1/d8a/a25807.html#a7fe416070962ba582d59ddff70c13590", null ]
+    [ "HandleRapidFireProc", "d1/d8a/a25807.html#a174eb1d766c0ae7f59fabdefe565e1de", null ],
+    [ "HandleRapidKillingProc", "d1/d8a/a25807.html#a12f24814d41837c8ddb8a42c8e932077", null ],
+    [ "PrepareAuraScript", "d1/d8a/a25807.html#aa75ea03f718a90a49d81ff49d765c74d", null ],
+    [ "Register", "d1/d8a/a25807.html#af1d93d8ea32a74f7bb6c115f21c5c6c3", null ],
+    [ "Validate", "d1/d8a/a25807.html#a01598fbd355dfdd4517d4221ad5ae323", null ]
 ];

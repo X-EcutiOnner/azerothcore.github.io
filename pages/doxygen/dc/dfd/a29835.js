@@ -1,10 +1,7 @@
 var a29835 =
 [
-    [ "SetUp", "dc/dfd/a29835.html#a577c64b32e7d6e1055f23a9204a9dc9d", null ],
-    [ "TearDown", "dc/dfd/a29835.html#a154bc25a4e054558748b5599b56de11f", null ],
-    [ "_creatureA", "dc/dfd/a29835.html#a95e6c0f1f7a8692ec255c052b40416df", null ],
-    [ "_creatureB", "dc/dfd/a29835.html#af5d64516264eeb9f1acadeeba44b79c2", null ],
-    [ "_map", "dc/dfd/a29835.html#ada2e0d28b42465ea6f7c8de71142efd0", null ],
-    [ "_previousWorld", "dc/dfd/a29835.html#a2805a828f7a7c92845f7c712b90af381", null ],
-    [ "_worldMock", "dc/dfd/a29835.html#ab8d82db4b26a11e286ec603c63ea1613", null ]
+    [ "EnsureScriptRegistriesInitialized", "dc/dfd/a29835.html#ae5a5b6e47735560ea83b9458fb7dd7f4", null ],
+    [ "SetUp", "dc/dfd/a29835.html#a6934840a3250922d4de42044dd35211c", null ],
+    [ "TearDown", "dc/dfd/a29835.html#a8d33dfa0c7dcd81ea426e107beb4b3fa", null ],
+    [ "previousWorld_", "dc/dfd/a29835.html#adff0b9d4abad7843811c543dfd10572e", null ]
 ];

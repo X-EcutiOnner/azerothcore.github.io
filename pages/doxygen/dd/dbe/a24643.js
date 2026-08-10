@@ -1,7 +1,8 @@
 var a24643 =
 [
-    [ "HandleScriptEffect", "dd/dbe/a24643.html#afaffd667477e286700dd7e5562423452", null ],
-    [ "PrepareSpellScript", "dd/dbe/a24643.html#a9c30d4d6427cfc96b88a1427afcedb00", null ],
-    [ "Register", "dd/dbe/a24643.html#ab8b68e02d05abceeb4b7eef00092e759", null ],
-    [ "Validate", "dd/dbe/a24643.html#a553f2f26a412d2060151b4f49055b847", null ]
+    [ "HandleDamage", "dd/dbe/a24643.html#a2c5149eb0b6698240c25b63e71af0854", null ],
+    [ "PrepareSpellScript", "dd/dbe/a24643.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
+    [ "Register", "dd/dbe/a24643.html#ad29179d9159700b52b0c21a779cd060b", null ],
+    [ "Suicide", "dd/dbe/a24643.html#a981f8547eae9b317111bf9a7016510ab", null ],
+    [ "Validate", "dd/dbe/a24643.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
 ];

@@ -1,6 +1,7 @@
 var a27367 =
 [
-    [ "CheckCast", "d2/dd1/a27367.html#a97f479cccecc6f37c75b47122b47e333", null ],
-    [ "PrepareSpellScript", "d2/dd1/a27367.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
-    [ "Register", "d2/dd1/a27367.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
+    [ "HandleEffectPeriodic", "d2/dd1/a27367.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
+    [ "PrepareAuraScript", "d2/dd1/a27367.html#ae151331af09510cc91b63b65a30bdcbf", null ],
+    [ "Register", "d2/dd1/a27367.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
+    [ "Validate", "d2/dd1/a27367.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
 ];

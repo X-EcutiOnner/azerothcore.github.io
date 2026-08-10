@@ -1,6 +1,5 @@
 var a23675 =
 [
-    [ "HandleEffect", "d0/db6/a23675.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
-    [ "PrepareSpellScript", "d0/db6/a23675.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
-    [ "Register", "d0/db6/a23675.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
+    [ "go_manticron_cube", "d0/db6/a23675.html#a87d9571aea57f16d38067ebd9e22200d", null ],
+    [ "OnGossipHello", "d0/db6/a23675.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
 ];

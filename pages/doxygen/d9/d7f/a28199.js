@@ -1,9 +1,6 @@
 var a28199 =
 [
-    [ "go_tadpole_cageAI", "d9/d7f/a28199.html#a87dc192a13cecf834d49cd04451224cd", null ],
-    [ "GossipHello", "d9/d7f/a28199.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
-    [ "OnStateChanged", "d9/d7f/a28199.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
-    [ "SummonTadpoles", "d9/d7f/a28199.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
-    [ "UpdateAI", "d9/d7f/a28199.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
-    [ "requireSummon", "d9/d7f/a28199.html#a9884081855fc45776a6b12b9a68890e4", null ]
+    [ "go_witherbark_totem_bundleAI", "df/d8a/a28203.html", "df/d8a/a28203" ],
+    [ "go_witherbark_totem_bundle", "d9/d7f/a28199.html#affcdff7ec6894add0acec842028efd2e", null ],
+    [ "GetAI", "d9/d7f/a28199.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
 ];

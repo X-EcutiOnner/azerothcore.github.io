@@ -1,11 +1,9 @@
 var a21155 =
 [
-    [ "npc_ulduar_storm_tempered_keeper", "d9/d0e/a21155.html#ae4dc8352fd0ff41974a33a4500d19e74", null ],
-    [ "JustDied", "d9/d0e/a21155.html#a8051e2b824a6c0df08dafab6e25d6bc7", null ],
-    [ "JustEngagedWith", "d9/d0e/a21155.html#a1bd5ba0e92e09953bc1ecb69a61c98f1", null ],
-    [ "JustSummoned", "d9/d0e/a21155.html#a9b1f8cd15790dbd179e313546f9754bf", null ],
-    [ "Reset", "d9/d0e/a21155.html#a5bbb71bfbeb2c4e09d20a94ed7913183", null ],
-    [ "UpdateAI", "d9/d0e/a21155.html#a9f36f099f7db4c3e1a06b8d4082e58c5", null ],
-    [ "events", "d9/d0e/a21155.html#a4a79bd561fa63230a52730da20d7143c", null ],
-    [ "otherGUID", "d9/d0e/a21155.html#a4fb550c7e49ea5078ec0ab59cda2c6d8", null ]
+    [ "npc_ulduar_keeperAI", "d9/d0e/a21155.html#ac69d21f3820f2c01a80ff664c317d111", null ],
+    [ "DoAction", "d9/d0e/a21155.html#a03011d04761926d67e43c0bea5a0901f", null ],
+    [ "Reset", "d9/d0e/a21155.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
+    [ "SpellHit", "d9/d0e/a21155.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
+    [ "UpdateAI", "d9/d0e/a21155.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
+    [ "_keeper", "d9/d0e/a21155.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
 ];

@@ -1,7 +1,6 @@
 var a22431 =
 [
-    [ "HandleScript", "d2/dac/a22431.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "d2/dac/a22431.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "d2/dac/a22431.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "d2/dac/a22431.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "npc_wg_queueAI", "d2/dac/a22431.html#a3760738d61b6148042fc30bd96b88fdc", null ],
+    [ "UpdateAI", "d2/dac/a22431.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
+    [ "events", "d2/dac/a22431.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
 ];

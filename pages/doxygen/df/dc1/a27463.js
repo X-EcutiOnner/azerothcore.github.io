@@ -1,9 +1,6 @@
 var a27463 =
 [
-    [ "Absorb", "df/dc1/a27463.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
-    [ "CalculateAmount", "df/dc1/a27463.html#a820c27c2161063307a10903cbbc5c0fa", null ],
-    [ "Load", "df/dc1/a27463.html#a7b71990051faaa083110408c13b8401f", null ],
-    [ "PrepareAuraScript", "df/dc1/a27463.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
-    [ "Register", "df/dc1/a27463.html#aa443ab0eed74229883884fbced0426d7", null ],
-    [ "absorbPct", "df/dc1/a27463.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
+    [ "CheckCast", "df/dc1/a27463.html#aecbecbd753b8ed32d51971a090063ef4", null ],
+    [ "PrepareSpellScript", "df/dc1/a27463.html#a0efb319154edb2c798460de72d6a56ed", null ],
+    [ "Register", "df/dc1/a27463.html#acd6ecb0204dd369c410e465551328f56", null ]
 ];

@@ -1,8 +1,7 @@
 var a26323 =
 [
-    [ "AfterApply", "d9/d38/a26323.html#a972d3ec2a26bbf93e47f696f44ff22b0", null ],
-    [ "AfterRemove", "d9/d38/a26323.html#a29d4dbe7d36d256cf89fdde1bbabac85", null ],
-    [ "PrepareAuraScript", "d9/d38/a26323.html#a1e44672c1f47dbd8e57f7653d905e3e6", null ],
-    [ "Register", "d9/d38/a26323.html#a293ea418e290d96bbcaaed24cad663b0", null ],
-    [ "Validate", "d9/d38/a26323.html#aa67afc85c142006efad986859f14941c", null ]
+    [ "HandleDummy", "d9/d38/a26323.html#a4dde221fa768ef5c6b99c981969f35fe", null ],
+    [ "PrepareSpellScript", "d9/d38/a26323.html#a85333c5f493b70037bcc1a1d42e97e9c", null ],
+    [ "Register", "d9/d38/a26323.html#acfafbf43e12f72131e58434051dcc510", null ],
+    [ "Validate", "d9/d38/a26323.html#a73458b57dc107b3215cf5d44567d330f", null ]
 ];

@@ -1,31 +1,5 @@
 var a20803 =
 [
-    [ "boss_thorim", "de/db3/a20803.html#a9a989d4f14e9ac4cdcdd787236d52cf7", null ],
-    [ "CloseDoors", "de/db3/a20803.html#aa1d1c5dab7bc01f0e606867869070f7c", null ],
-    [ "DamageTaken", "de/db3/a20803.html#ae7a84fa6d06f15ff2dfe2688bf7ddfc5", null ],
-    [ "DisableThorim", "de/db3/a20803.html#aa34533dfb0ac3baf9e9e0d9205af9107", null ],
-    [ "DoAction", "de/db3/a20803.html#ae86485afc067a210801810a514ebad9e", null ],
-    [ "EnterEvadeMode", "de/db3/a20803.html#a8b91d4c8d381c3e37d5e5c5dc3bc32c9", null ],
-    [ "GetArenaPlayer", "de/db3/a20803.html#a86dab4fa253089b25431acb1f8488d85", null ],
-    [ "GetData", "de/db3/a20803.html#a13b72a53c8c1315013d91c453fd48fa6", null ],
-    [ "GetThorimObject", "de/db3/a20803.html#ab84b2c095b0327653469eeea890920e6", null ],
-    [ "JustEngagedWith", "de/db3/a20803.html#abd5a18fafd08c20bab594d55ba021c5b", null ],
-    [ "JustExitedCombat", "de/db3/a20803.html#a79d4f548132a2785e22cd2a3e03925be", null ],
-    [ "JustReachedHome", "de/db3/a20803.html#a900db5399abde4fea6df0e9a0be824b1", null ],
-    [ "KilledUnit", "de/db3/a20803.html#a5e9622ce3b0b198183c9fb2643aed159", null ],
-    [ "Reset", "de/db3/a20803.html#a0a967a2080a07081cfcc65ad9c230b87", null ],
-    [ "SpawnAllNPCs", "de/db3/a20803.html#aeec88f45637bae75b6a30f1adbbbd9f6", null ],
-    [ "SpawnAnArenaNPC", "de/db3/a20803.html#ab58da76a573f22716409c21667f8565e", null ],
-    [ "SpawnCommoners", "de/db3/a20803.html#af99d7d5055b6c719dd32b9116c857dee", null ],
-    [ "SpellHit", "de/db3/a20803.html#a9b7dbefb5528c1b7cfb9f71fac93095e", null ],
-    [ "SpellHitTarget", "de/db3/a20803.html#af318bd5b6948a4c06c9849aa31986fa7", null ],
-    [ "UpdateAI", "de/db3/a20803.html#a9bea04c636ab457fedda5a5794ab636d", null ],
-    [ "_encounterFinished", "de/db3/a20803.html#a14d88dc567edeea04ab6907a31a38f4c", null ],
-    [ "_hardMode", "de/db3/a20803.html#a277a614129564a2c3ff379ccd153a812", null ],
-    [ "_hitByLightning", "de/db3/a20803.html#aabd28fe1e663f4d77eee2d341e79a80c", null ],
-    [ "_isAlly", "de/db3/a20803.html#a90fe991780444777d9a72c1e25d8d077", null ],
-    [ "_isArenaEmpty", "de/db3/a20803.html#a9eddcc82c14463cba7495e96d0fc10bd", null ],
-    [ "_isHitAllowed", "de/db3/a20803.html#a0b870de38c8a4fbbb8e0eafb850e4043", null ],
-    [ "_spawnCommoners", "de/db3/a20803.html#a5a9054d91f1448196800feb4c8717dc0", null ],
-    [ "_trashCounter", "de/db3/a20803.html#a31058734b101f711ac0e567792942a3a", null ]
+    [ "achievement_iron_dwarf_medium_rare", "de/db3/a20803.html#afb3716aab7693ba0493db24999e4b1ee", null ],
+    [ "OnCheck", "de/db3/a20803.html#aabef3a345057265ac70c6cc0c98d552d", null ]
 ];

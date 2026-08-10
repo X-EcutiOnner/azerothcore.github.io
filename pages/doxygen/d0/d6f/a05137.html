@@ -181,7 +181,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">   81</span>    }</div>
 <div class="ttc" id="aa00821_html_a5c88535ec12f87cc432b1c594bf05326"><div class="ttname"><a href="../../d6/d8b/a00821.html#a5c88535ec12f87cc432b1c594bf05326">PlayerSettingVector</a></div><div class="ttdeci">std::vector&lt; PlayerSetting &gt; PlayerSettingVector</div><div class="ttdef"><b>Definition:</b> PlayerSettings.h:56</div></div>
 <div class="ttc" id="aa04706_html_ac6110b8d867b5f84f677555d07037acb"><div class="ttname"><a href="../../d4/dc3/a04706.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; PreparedResultSet &gt; PreparedQueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:45</div></div>
-<div class="ttc" id="aa04721_html_a76116b4fa282d8e35bf8f8e940b5cba7a96957242827fb6e9c0f1866bafddeef0"><div class="ttname"><a href="../../d0/dae/a04721.html#a76116b4fa282d8e35bf8f8e940b5cba7a96957242827fb6e9c0f1866bafddeef0">CHAR_SEL_CHAR_SETTINGS</a></div><div class="ttdeci">@ CHAR_SEL_CHAR_SETTINGS</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:534</div></div>
+<div class="ttc" id="aa04721_html_a76116b4fa282d8e35bf8f8e940b5cba7a96957242827fb6e9c0f1866bafddeef0"><div class="ttname"><a href="../../d0/dae/a04721.html#a76116b4fa282d8e35bf8f8e940b5cba7a96957242827fb6e9c0f1866bafddeef0">CHAR_SEL_CHAR_SETTINGS</a></div><div class="ttdeci">@ CHAR_SEL_CHAR_SETTINGS</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:536</div></div>
 <div class="ttc" id="aa04742_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d4/dc9/a04742.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
 <div class="ttc" id="aa05137_html_aeaa79bb46d98ab2f4f5f3674d52f6745"><div class="ttname"><a href="../../d0/d6f/a05137.html#aeaa79bb46d98ab2f4f5f3674d52f6745">PlayerSettingsStore::ParseSettingsData</a></div><div class="ttdeci">PlayerSettingVector ParseSettingsData(std::string const &amp;data)</div><div class="ttdef"><b>Definition:</b> PlayerSettings.cpp:30</div></div>
 <div class="ttc" id="aa06067_html"><div class="ttname"><a href="../../d7/d20/a06067.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:157</div></div>
@@ -189,7 +189,7 @@ Functions</h2></td></tr>
 <div class="ttc" id="aa06099_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../df/d93/a06099.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
 <div class="ttc" id="aa06199_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../d9/d57/a06199.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:77</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00534">CHAR_SEL_CHAR_SETTINGS</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00030">ParseSettingsData()</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00536">CHAR_SEL_CHAR_SETTINGS</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00030">ParseSettingsData()</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00083">UpdateSetting()</a>.</p>
 
@@ -269,10 +269,10 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  106</span>    stmt-&gt;<a class="code hl_function" href="../../d9/d57/a06199.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, <a class="code hl_function" href="../../d0/d6f/a05137.html#a2e2d73056f0c30ed8b22419fed1c3d6a">SerializeSettingsData</a>(settings));</div>
 <div class="line"><span class="lineno">  107</span>    <span class="keywordflow">return</span> stmt;</div>
 <div class="line"><span class="lineno">  108</span>}</div>
-<div class="ttc" id="aa04721_html_a76116b4fa282d8e35bf8f8e940b5cba7a0ab5f8934f7b51c9b64a20e368a1377f"><div class="ttname"><a href="../../d0/dae/a04721.html#a76116b4fa282d8e35bf8f8e940b5cba7a0ab5f8934f7b51c9b64a20e368a1377f">CHAR_REP_CHAR_SETTINGS</a></div><div class="ttdeci">@ CHAR_REP_CHAR_SETTINGS</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:535</div></div>
+<div class="ttc" id="aa04721_html_a76116b4fa282d8e35bf8f8e940b5cba7a0ab5f8934f7b51c9b64a20e368a1377f"><div class="ttname"><a href="../../d0/dae/a04721.html#a76116b4fa282d8e35bf8f8e940b5cba7a0ab5f8934f7b51c9b64a20e368a1377f">CHAR_REP_CHAR_SETTINGS</a></div><div class="ttdeci">@ CHAR_REP_CHAR_SETTINGS</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:537</div></div>
 <div class="ttc" id="aa05137_html_a2e2d73056f0c30ed8b22419fed1c3d6a"><div class="ttname"><a href="../../d0/d6f/a05137.html#a2e2d73056f0c30ed8b22419fed1c3d6a">PlayerSettingsStore::SerializeSettingsData</a></div><div class="ttdeci">std::string SerializeSettingsData(PlayerSettingVector const &amp;settings)</div><div class="ttdef"><b>Definition:</b> PlayerSettings.cpp:46</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00535">CHAR_REP_CHAR_SETTINGS</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00046">SerializeSettingsData()</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00537">CHAR_REP_CHAR_SETTINGS</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00046">SerializeSettingsData()</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00144">Player::_SavePlayerSettings()</a>, and <a class="el" href="../../#l00083">UpdateSetting()</a>.</p>
 
@@ -374,7 +374,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d6f/a05137.html">PlayerSettingsStore</a></li>
-    <li class="footer">Generated on Mon Aug 3 2026 21:45:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 10 2026 21:24:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

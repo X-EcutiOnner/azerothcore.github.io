@@ -1,7 +1,7 @@
 var a26335 =
 [
-    [ "AfterRemove", "df/d62/a26335.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
-    [ "PrepareAuraScript", "df/d62/a26335.html#a13f11ec412f18d805282b3810aff5e90", null ],
-    [ "Register", "df/d62/a26335.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
-    [ "Validate", "df/d62/a26335.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
+    [ "HandleDummy", "df/d62/a26335.html#a334563491c3cbb9daa9d97dad738e9e5", null ],
+    [ "PrepareSpellScript", "df/d62/a26335.html#a69fe453f3c6764c3977c539d5fc71049", null ],
+    [ "Register", "df/d62/a26335.html#af81469f371224a3180d73b3cf8cf001a", null ],
+    [ "Validate", "df/d62/a26335.html#af0ab473a4ec7f1eebb70d0f2344de8ca", null ]
 ];

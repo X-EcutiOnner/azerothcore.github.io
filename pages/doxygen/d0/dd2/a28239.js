@@ -1,7 +1,6 @@
 var a28239 =
 [
-    [ "go_brewfest_musicAI", "d0/dd2/a28239.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
-    [ "UpdateAI", "d0/dd2/a28239.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
-    [ "_currentMusicEvent", "d0/dd2/a28239.html#ad26a0309bdd4eafce4dfa310db929357", null ],
-    [ "_events", "d0/dd2/a28239.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
+    [ "go_heatAI", "d0/dd2/a28239.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
+    [ "UpdateAI", "d0/dd2/a28239.html#a2332206ee47b2cea9e4707d16ea79325", null ],
+    [ "timer", "d0/dd2/a28239.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
 ];

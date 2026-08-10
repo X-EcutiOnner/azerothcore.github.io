@@ -1,6 +1,6 @@
 var a22379 =
 [
-    [ "HandleSummon", "d9/d7e/a22379.html#a98c5df8b6c561a5aa7d766b639f3c2c8", null ],
-    [ "PrepareSpellScript", "d9/d7e/a22379.html#ab5605e1d401d7a762fc8b5a530ecd640", null ],
-    [ "Register", "d9/d7e/a22379.html#a9c9a0fd43758a6441a086860e8276cc0", null ]
+    [ "HandleDamage", "d9/d7e/a22379.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
+    [ "PrepareSpellScript", "d9/d7e/a22379.html#a23b6afe1e35edc4013767b119b8e0218", null ],
+    [ "Register", "d9/d7e/a22379.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
 ];

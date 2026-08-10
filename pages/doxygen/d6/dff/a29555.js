@@ -1,9 +1,20 @@
 var a29555 =
 [
-    [ "chargeConsumed", "d6/dff/a29555.html#a49f170e5f66cecdf6d719d1f6ac97254", null ],
-    [ "cooldownSet", "d6/dff/a29555.html#a60219087858953e3ea124b1b784516b2", null ],
-    [ "effectMask", "d6/dff/a29555.html#ae0feb161d225551bba25d466541cde84", null ],
-    [ "procChance", "d6/dff/a29555.html#a0299896836a739f2601a5ee1078f53bb", null ],
-    [ "shouldProc", "d6/dff/a29555.html#a497babcaf1a36b0abd10b4e360c231f2", null ],
-    [ "spellsCast", "d6/dff/a29555.html#a12d58d19ba4df25b8bd9dc6e1d089408", null ]
+    [ "RealmMap", "d6/dff/a29555.html#a6031c19ec935fbe535f60a1014483dbd", null ],
+    [ "RealmList", "d6/dff/a29555.html#abe7dfad5160a08a5852cb1436a06eaa9", null ],
+    [ "~RealmList", "d6/dff/a29555.html#a64bea5f38384143cc960840a8e84ef00", null ],
+    [ "Close", "d6/dff/a29555.html#a14a4d9b5383da24bc1ad9754cdfa2183", null ],
+    [ "GetBuildInfo", "d6/dff/a29555.html#a0f7136cb280d2461b1ec0d080645c6e0", null ],
+    [ "GetRealm", "d6/dff/a29555.html#a3e25e63168bcff88d021294559ccf0c5", null ],
+    [ "GetRealms", "d6/dff/a29555.html#afc2cbe2a4ee4d9870821dbe8d96e8fa4", null ],
+    [ "Initialize", "d6/dff/a29555.html#a70954d518dc4559e0aca0388f13db411", null ],
+    [ "Instance", "d6/dff/a29555.html#aea053134fe293fbd4a8801b25fbb44ca", null ],
+    [ "LoadBuildInfo", "d6/dff/a29555.html#a1f8866e57557beb7d69037a63e34428d", null ],
+    [ "UpdateRealm", "d6/dff/a29555.html#ae15cf59b00e8e8e561f266d5dd3e11ae", null ],
+    [ "UpdateRealms", "d6/dff/a29555.html#a0b4559e5538a02ccf5247839005d602e", null ],
+    [ "_builds", "d6/dff/a29555.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0", null ],
+    [ "_realms", "d6/dff/a29555.html#a41693a01cd88ea99b54dd9ca8fe6b445", null ],
+    [ "_resolver", "d6/dff/a29555.html#a1beee0fdd1a9e61f68db925f53d373a9", null ],
+    [ "_updateInterval", "d6/dff/a29555.html#ac07fe3cd4fc18169af4f63b207902e95", null ],
+    [ "_updateTimer", "d6/dff/a29555.html#a5619be8a2649680901cfd7a3608e984a", null ]
 ];

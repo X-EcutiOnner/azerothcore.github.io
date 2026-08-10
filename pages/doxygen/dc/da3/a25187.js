@@ -1,8 +1,8 @@
 var a25187 =
 [
-    [ "CheckProc", "dc/da3/a25187.html#a1ba43a41ca6909f2bd377290b1b0b12b", null ],
-    [ "HandleProc", "dc/da3/a25187.html#a9d0df8ec96c17661daaf620dd88cecd5", null ],
-    [ "PrepareAuraScript", "dc/da3/a25187.html#af474a768c441fb666163f4ebd5068393", null ],
-    [ "Register", "dc/da3/a25187.html#ae533e87550b1aedc67b67c217495286d", null ],
-    [ "Validate", "dc/da3/a25187.html#ab6e36f24dea949c8cedaaed0d5fa9517", null ]
+    [ "CheckIfCorpseNear", "dc/da3/a25187.html#afdf1bca2e23057d99962fb1000e9245e", null ],
+    [ "HandleDummy", "dc/da3/a25187.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
+    [ "PrepareSpellScript", "dc/da3/a25187.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
+    [ "Register", "dc/da3/a25187.html#a22f4c5321769384b2b708f19edea1a66", null ],
+    [ "Validate", "dc/da3/a25187.html#a855fdba79c4fa087253505ed419b9966", null ]
 ];

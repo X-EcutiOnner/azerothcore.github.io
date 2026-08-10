@@ -1,5 +1,7 @@
 var a23399 =
 [
-    [ "at_quagmirran_lair", "d1/d9d/a23399.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
-    [ "OnTrigger", "d1/d9d/a23399.html#aa0aab42516efaf842923b8a820942ac4", null ]
+    [ "HandleScriptEffect", "d1/d9d/a23399.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
+    [ "PrepareSpellScript", "d1/d9d/a23399.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
+    [ "Register", "d1/d9d/a23399.html#a14772c25b70078c0034b8de17de5b77a", null ],
+    [ "Validate", "d1/d9d/a23399.html#a8318385367bf6c6b09e0978c461f5d59", null ]
 ];

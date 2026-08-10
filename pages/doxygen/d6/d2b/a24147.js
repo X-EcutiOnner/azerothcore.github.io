@@ -1,9 +1,8 @@
 var a24147 =
 [
-    [ "npc_bessyAI", "d6/d2b/a24147.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "d6/d2b/a24147.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "d6/d2b/a24147.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "d6/d2b/a24147.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "d6/d2b/a24147.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ],
-    [ "WaypointReached", "d6/d2b/a24147.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_captain_saeedAI", "de/d91/a24151.html", "de/d91/a24151" ],
+    [ "npc_captain_saeed", "d6/d2b/a24147.html#a8a5bee9f908b10451b8d4720dff85670", null ],
+    [ "GetAI", "d6/d2b/a24147.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
+    [ "OnGossipHello", "d6/d2b/a24147.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
+    [ "OnGossipSelect", "d6/d2b/a24147.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
 ];

@@ -1,7 +1,7 @@
 var a24167 =
 [
-    [ "CheckRequirement", "d5/de6/a24167.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "d5/de6/a24167.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "d5/de6/a24167.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "d5/de6/a24167.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "npc_bessyAI", "d8/df2/a24171.html", "d8/df2/a24171" ],
+    [ "npc_bessy", "d5/de6/a24167.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d5/de6/a24167.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d5/de6/a24167.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

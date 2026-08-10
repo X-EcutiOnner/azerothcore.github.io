@@ -1,6 +1,5 @@
 var a22487 =
 [
-    [ "npc_released_offspring_harkoaAI", "d4/d4c/a22491.html", "d4/d4c/a22491" ],
-    [ "npc_released_offspring_harkoa", "dd/d44/a22487.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
-    [ "GetAI", "dd/d44/a22487.html#ae3d2a02c496be1b2606fce596625d12e", null ]
+    [ "achievement_wg_vehicular_gnomeslaughter", "dd/d44/a22487.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
+    [ "OnCheck", "dd/d44/a22487.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
 ];

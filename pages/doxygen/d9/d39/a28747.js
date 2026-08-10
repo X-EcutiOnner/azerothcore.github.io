@@ -1,5 +1,5 @@
 var a28747 =
 [
-    [ "npc_harrowmeiser", "d9/d39/a28747.html#a30a44ae739447e14ded0c0af6c73e76e", null ],
-    [ "OnGossipHello", "d9/d39/a28747.html#a3d4b6bc9a85315b0f31347068b3c5317", null ]
+    [ "npc_suns_reach_reclamation", "d9/d39/a28747.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
+    [ "OnQuestReward", "d9/d39/a28747.html#aa403d14fccda7adbec1ffeb765079c25", null ]
 ];

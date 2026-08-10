@@ -1,9 +1,10 @@
 var a20731 =
 [
-    [ "npc_expedition_trapper", "d5/dcd/a20731.html#ac924a9b9e23624de1460b0cdfe8c8a1b", null ],
-    [ "DoAction", "d5/dcd/a20731.html#a094ecbf1a719223d50c7d070989aa782", null ],
-    [ "MovementInform", "d5/dcd/a20731.html#ae2a0c15b4a7d59f4222e818d0fcf303b", null ],
-    [ "SetData", "d5/dcd/a20731.html#a11241b1513209a9964569ab29eb5dc64", null ],
-    [ "UpdateAI", "d5/dcd/a20731.html#a16a39f855263ebde21ddb03d4fe60460", null ],
-    [ "_idx", "d5/dcd/a20731.html#ae24ec016a0f29f7bcb41935e1991f9fa", null ]
+    [ "npc_expedition_defender", "d5/dcd/a20731.html#aa476e8cdb18fce94b7517caf7ec751c8", null ],
+    [ "CanAIAttack", "d5/dcd/a20731.html#aa223ec9592dcc5f8890cc7de0c8e4230", null ],
+    [ "DoAction", "d5/dcd/a20731.html#adbd3f69f46e33537786505a0bb2955d5", null ],
+    [ "MovementInform", "d5/dcd/a20731.html#acfa015071d54e353e4397c806fcab0a5", null ],
+    [ "Reset", "d5/dcd/a20731.html#ae5da35cb689ada77a00d545e0f795af7", null ],
+    [ "SetData", "d5/dcd/a20731.html#ab8d8681d244c13e51709c3ad446c8805", null ],
+    [ "_idx", "d5/dcd/a20731.html#ae50289231fcaac124f78246774dda01e", null ]
 ];

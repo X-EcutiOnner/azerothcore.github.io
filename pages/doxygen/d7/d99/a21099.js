@@ -1,7 +1,7 @@
 var a21099 =
 [
-    [ "OnApply", "d7/d99/a21099.html#a458871e0d2c1969a91ce9474b3ad87d0", null ],
-    [ "PrepareAuraScript", "d7/d99/a21099.html#a3a6b71d35bfcf681c98bb3bb4331e91c", null ],
-    [ "Register", "d7/d99/a21099.html#a4d6bb68d17bbc1b10d828b1d70155f65", null ],
-    [ "Validate", "d7/d99/a21099.html#a1ffe527d33de10a7dc8431311f4d738e", null ]
+    [ "HandleScriptEffect", "d7/d99/a21099.html#a173ee086127655cdfcca507fd5b15b2e", null ],
+    [ "PrepareSpellScript", "d7/d99/a21099.html#a005d47b18a820c35ec596b5539db94eb", null ],
+    [ "Register", "d7/d99/a21099.html#a20a0d554e80707c1517422cb747f38e8", null ],
+    [ "Validate", "d7/d99/a21099.html#a5ca44686e26def56adc2b98d88145235", null ]
 ];

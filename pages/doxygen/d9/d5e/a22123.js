@@ -1,7 +1,6 @@
 var a22123 =
 [
-    [ "Absorb", "d9/d5e/a22123.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "d9/d5e/a22123.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "d9/d5e/a22123.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "d9/d5e/a22123.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "npc_boneguard_footmanAI", "d8/d0f/a22127.html", "d8/d0f/a22127" ],
+    [ "npc_boneguard_footman", "d9/d5e/a22123.html#aba17f89b9546deff5401ad33224b2b3e", null ],
+    [ "GetAI", "d9/d5e/a22123.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
 ];

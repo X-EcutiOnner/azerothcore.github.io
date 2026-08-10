@@ -7484,6 +7484,8 @@ Enumerations</h2></td></tr>
 , <br />
 &#160;&#160;<a class="el" href="../../de/da4/a03005.html#a250372292659bed7ae290d8621f88ccfa1b73792b6ccf93886022e4549bf4f757">DO_ENABLE_AERIAL</a>
 , <br />
+&#160;&#160;<a class="el" href="../../de/da4/a03005.html#a250372292659bed7ae290d8621f88ccfab24c6a36c5164b1d0cf040f9a668a06f">DO_DESPAWN_SUMMONS</a>
+, <br />
 &#160;&#160;<a class="el" href="../../dc/d94/a02999.html#a250372292659bed7ae290d8621f88ccfa3cf0b08522d8bfdb7f9d00766c1546f7">ACTION_ENTER_HARD_MODE</a>
 , <br />
 &#160;&#160;<a class="el" href="../../dc/d94/a02999.html#a250372292659bed7ae290d8621f88ccfa6e33ba828ac1346c6cfeeee8fbdad76c">ACTION_START_PHASE_HEART</a>
@@ -7664,6 +7666,7 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a250372292659bed7ae290d8621f88ccfa47ec8e0c80b260c7255274aafd89ac7d" name="a250372292659bed7ae290d8621f88ccfa47ec8e0c80b260c7255274aafd89ac7d"></a>ACTION_OUTRO&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a250372292659bed7ae290d8621f88ccfadca8f99832fac3e06025e419485fb1d9" name="a250372292659bed7ae290d8621f88ccfadca8f99832fac3e06025e419485fb1d9"></a>DO_DISABLE_AERIAL&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a250372292659bed7ae290d8621f88ccfa1b73792b6ccf93886022e4549bf4f757" name="a250372292659bed7ae290d8621f88ccfa1b73792b6ccf93886022e4549bf4f757"></a>DO_ENABLE_AERIAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a250372292659bed7ae290d8621f88ccfab24c6a36c5164b1d0cf040f9a668a06f" name="a250372292659bed7ae290d8621f88ccfab24c6a36c5164b1d0cf040f9a668a06f"></a>DO_DESPAWN_SUMMONS&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a250372292659bed7ae290d8621f88ccfa3cf0b08522d8bfdb7f9d00766c1546f7" name="a250372292659bed7ae290d8621f88ccfa3cf0b08522d8bfdb7f9d00766c1546f7"></a>ACTION_ENTER_HARD_MODE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a250372292659bed7ae290d8621f88ccfa6e33ba828ac1346c6cfeeee8fbdad76c" name="a250372292659bed7ae290d8621f88ccfa6e33ba828ac1346c6cfeeee8fbdad76c"></a>ACTION_START_PHASE_HEART&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a250372292659bed7ae290d8621f88ccfae7ae7b78bf6fa98402348aa084366d1d" name="a250372292659bed7ae290d8621f88ccfae7ae7b78bf6fa98402348aa084366d1d"></a>ACTION_DISPOSE_HEART&#160;</td><td class="fielddoc"></td></tr>
@@ -11702,9 +11705,9 @@ Variables</h2></td></tr>
 <div class="ttc" id="aa02549_html_a8fe6a763d72d84ded23cec01c772f7adaca6c784aae46996e1ab07dce55ae4170"><div class="ttname"><a href="../../d0/df5/a02549.html#a8fe6a763d72d84ded23cec01c772f7adaca6c784aae46996e1ab07dce55ae4170">MECHANIC_SILENCE</a></div><div class="ttdeci">@ MECHANIC_SILENCE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1322</div></div>
 <div class="ttc" id="aa02549_html_a8fe6a763d72d84ded23cec01c772f7adaedfaf974478ae49d77b1d7ffd7bbafff"><div class="ttname"><a href="../../d0/df5/a02549.html#a8fe6a763d72d84ded23cec01c772f7adaedfaf974478ae49d77b1d7ffd7bbafff">MECHANIC_HORROR</a></div><div class="ttdeci">@ MECHANIC_HORROR</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1337</div></div>
 <div class="ttc" id="aa02549_html_a91d505a1e789c6ea6a338f3a3c85b6b9ab9accfd6df40410bf72e975876f34ee3"><div class="ttname"><a href="../../d0/df5/a02549.html#a91d505a1e789c6ea6a338f3a3c85b6b9ab9accfd6df40410bf72e975876f34ee3">IMMUNITY_MECHANIC</a></div><div class="ttdeci">@ IMMUNITY_MECHANIC</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1403</div></div>
-<div class="ttc" id="aa09163_html_a1afc1e413f12c5bd7bc00c926fa05833"><div class="ttname"><a href="../../d5/d74/a09163.html#a1afc1e413f12c5bd7bc00c926fa05833">Unit::ApplySpellImmune</a></div><div class="ttdeci">void ApplySpellImmune(uint32 spellId, uint32 op, uint32 type, bool apply, SpellImmuneBlockType blockType=SPELL_BLOCK_TYPE_ALL)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10448</div></div>
+<div class="ttc" id="aa09163_html_a1afc1e413f12c5bd7bc00c926fa05833"><div class="ttname"><a href="../../d5/d74/a09163.html#a1afc1e413f12c5bd7bc00c926fa05833">Unit::ApplySpellImmune</a></div><div class="ttdeci">void ApplySpellImmune(uint32 spellId, uint32 op, uint32 type, bool apply, SpellImmuneBlockType blockType=SPELL_BLOCK_TYPE_ALL)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10469</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l10448">Unit::ApplySpellImmune()</a>, <a class="el" href="../../#l01403">IMMUNITY_MECHANIC</a>, <a class="el" href="../../#l01314">MECHANIC_CHARM</a>, <a class="el" href="../../#l01315">MECHANIC_DISORIENTED</a>, <a class="el" href="../../#l01318">MECHANIC_FEAR</a>, <a class="el" href="../../#l01326">MECHANIC_FREEZE</a>, <a class="el" href="../../#l01337">MECHANIC_HORROR</a>, <a class="el" href="../../#l01339">MECHANIC_INTERRUPT</a>, <a class="el" href="../../#l01327">MECHANIC_KNOCKOUT</a>, <a class="el" href="../../#l01330">MECHANIC_POLYMORPH</a>, <a class="el" href="../../#l01322">MECHANIC_SILENCE</a>, <a class="el" href="../../#l01323">MECHANIC_SLEEP</a>, and <a class="el" href="../../#l01325">MECHANIC_STUN</a>.</p>
+<p class="reference">References <a class="el" href="../../#l10469">Unit::ApplySpellImmune()</a>, <a class="el" href="../../#l01403">IMMUNITY_MECHANIC</a>, <a class="el" href="../../#l01314">MECHANIC_CHARM</a>, <a class="el" href="../../#l01315">MECHANIC_DISORIENTED</a>, <a class="el" href="../../#l01318">MECHANIC_FEAR</a>, <a class="el" href="../../#l01326">MECHANIC_FREEZE</a>, <a class="el" href="../../#l01337">MECHANIC_HORROR</a>, <a class="el" href="../../#l01339">MECHANIC_INTERRUPT</a>, <a class="el" href="../../#l01327">MECHANIC_KNOCKOUT</a>, <a class="el" href="../../#l01330">MECHANIC_POLYMORPH</a>, <a class="el" href="../../#l01322">MECHANIC_SILENCE</a>, <a class="el" href="../../#l01323">MECHANIC_SLEEP</a>, and <a class="el" href="../../#l01325">MECHANIC_STUN</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00690">npc_cult_fanatic::npc_cult_fanaticAI::SpellHit()</a>, and <a class="el" href="../../#l00803">npc_cult_adherent::npc_cult_adherentAI::SpellHit()</a>.</p>
 
@@ -11759,7 +11762,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_49de9ff38e0063bf9846434b8d63cf58.html">IcecrownCitadel</a></li><li class="navelem"><a class="el" href="../../df/de4/a02780.html">boss_lady_deathwhisper.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 3 2026 21:44:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 10 2026 21:22:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

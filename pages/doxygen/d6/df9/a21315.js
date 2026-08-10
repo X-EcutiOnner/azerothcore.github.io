@@ -1,8 +1,8 @@
 var a21315 =
 [
-    [ "CountTargets", "d6/df9/a21315.html#aaf8528038c6b3172d4810ed773f71644", null ],
-    [ "HandleDummy", "d6/df9/a21315.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
-    [ "PrepareSpellScript", "d6/df9/a21315.html#a1f31273cb1826cd07196eacfbdc46673", null ],
-    [ "Register", "d6/df9/a21315.html#adce6a5d920ac616dc0579fcd96c49288", null ],
-    [ "_targetCount", "d6/df9/a21315.html#acfd8832cb9a197dddb034a003b318911", null ]
+    [ "FilterTargets", "d6/df9/a21315.html#a6f3d275e5ff06a6fc37f143d6394bf45", null ],
+    [ "HandleScript", "d6/df9/a21315.html#aa97e0b2f4a8e33d412501f6625ab1504", null ],
+    [ "PrepareSpellScript", "d6/df9/a21315.html#a0db5183ec1aa7f490202ac41cd00b153", null ],
+    [ "Register", "d6/df9/a21315.html#acd4b270dbe27be417892e0a4183ffa0d", null ],
+    [ "Validate", "d6/df9/a21315.html#abb3ca41a50087763d731d1f911065e14", null ]
 ];

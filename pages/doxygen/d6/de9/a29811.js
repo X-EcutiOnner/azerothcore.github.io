@@ -1,7 +1,9 @@
 var a29811 =
 [
-    [ "EnsureScriptRegistriesInitialized", "d6/de9/a29811.html#ae5a5b6e47735560ea83b9458fb7dd7f4", null ],
-    [ "SetUp", "d6/de9/a29811.html#a6934840a3250922d4de42044dd35211c", null ],
-    [ "TearDown", "d6/de9/a29811.html#a8d33dfa0c7dcd81ea426e107beb4b3fa", null ],
-    [ "previousWorld_", "d6/de9/a29811.html#adff0b9d4abad7843811c543dfd10572e", null ]
+    [ "SetUp", "d6/de9/a29811.html#a4347f48d02c94f49010af69139906e55", null ],
+    [ "TearDown", "d6/de9/a29811.html#a9bd0ab9c01db6f9fc6538c5aad454ac1", null ],
+    [ "PERM_DANGLING", "d6/de9/a29811.html#afa69b7fc315147806018e36f01971509", null ],
+    [ "PERM_VALID", "d6/de9/a29811.html#a77dfab95ef63118a33e2c2aae57c8578", null ],
+    [ "rbacData", "d6/de9/a29811.html#a30f37bd4d7e16a92551224c524cb5ca4", null ],
+    [ "ROLE_WITH_DANGLING", "d6/de9/a29811.html#aec146baa1151e73bac2686a4b6aacc06", null ]
 ];

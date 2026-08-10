@@ -1,5 +1,5 @@
 var a28019 =
 [
-    [ "achievement_everything_counts", "d6/d6a/a28019.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
-    [ "OnCheck", "d6/d6a/a28019.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
+    [ "achievement_bg_ic_resource_glut", "d6/d6a/a28019.html#ace247962dccee2601ceade593b0874d4", null ],
+    [ "OnCheck", "d6/d6a/a28019.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
 ];

@@ -1,6 +1,5 @@
 var a25431 =
 [
-    [ "OnApply", "d9/d92/a25431.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
-    [ "PrepareAuraScript", "d9/d92/a25431.html#a159ee8a9b0af729ed01f7632adb58863", null ],
-    [ "Register", "d9/d92/a25431.html#a0f33043317402119aa14e50a1eb6c227", null ]
+    [ "PrepareSpellScript", "d9/d92/a25431.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
+    [ "Register", "d9/d92/a25431.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
 ];

@@ -1,5 +1,6 @@
 var a21271 =
 [
-    [ "go_palehoof_sphere", "df/de1/a21271.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
-    [ "OnGossipHello", "df/de1/a21271.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
+    [ "npc_ravenous_furbolgAI", "d5/df0/a21275.html", "d5/df0/a21275" ],
+    [ "npc_ravenous_furbolg", "df/de1/a21271.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "df/de1/a21271.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

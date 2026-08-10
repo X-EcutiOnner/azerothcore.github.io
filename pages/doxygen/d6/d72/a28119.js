@@ -1,6 +1,6 @@
 var a28119 =
 [
-    [ "boss_lethonAI", "d0/d19/a28123.html", "d0/d19/a28123" ],
-    [ "boss_lethon", "d6/d72/a28119.html#a5d758979b061646830373de64b2b3af4", null ],
-    [ "GetAI", "d6/d72/a28119.html#a493baf37aac400635dd0409e79375a1c", null ]
+    [ "AreaTrigger_at_area_52_entrance", "d6/d72/a28119.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "d6/d72/a28119.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "d6/d72/a28119.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

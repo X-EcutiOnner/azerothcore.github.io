@@ -1,13 +1,6 @@
 var a24343 =
 [
-    [ "npc_unkor_the_ruthlessAI", "df/d7c/a24343.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
-    [ "DamageTaken", "df/d7c/a24343.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
-    [ "HasQuestActive", "df/d7c/a24343.html#ad97ea6721dcea4058167ea327dc0c515", null ],
-    [ "JustEngagedWith", "df/d7c/a24343.html#a537225016bfeba51b607d250c0a09be5", null ],
-    [ "Reset", "df/d7c/a24343.html#a14ca75417c623d6d6e5fce50521963da", null ],
-    [ "Submit", "df/d7c/a24343.html#a26872858bfb4aeda1b4af445033995db", null ],
-    [ "UpdateAI", "df/d7c/a24343.html#a744ea41d7f9450965419085a296c8df2", null ],
-    [ "PulverizeTimer", "df/d7c/a24343.html#a43324c095d4f98b97b39b5eb86c4c783", null ],
-    [ "Submitted", "df/d7c/a24343.html#a47777bb2dd47764c9cb01dc3f3e25f39", null ],
-    [ "UnfriendlyTimer", "df/d7c/a24343.html#a21559a315c812b50b74fc22dc32a2930", null ]
+    [ "HandleSendEvent", "df/d7c/a24343.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
+    [ "PrepareSpellScript", "df/d7c/a24343.html#aed8815b1d068ba04f12c7714a64af769", null ],
+    [ "Register", "df/d7c/a24343.html#aa55fa06e76b1f34e319e16984405ed20", null ]
 ];

@@ -1,6 +1,6 @@
 var a27939 =
 [
-    [ "CheckProc", "d7/d79/a27939.html#a957f8837b5613a3bfd8200ded3529c54", null ],
-    [ "PrepareAuraScript", "d7/d79/a27939.html#a37950bfd846e1c2c550a108461941a26", null ],
-    [ "Register", "d7/d79/a27939.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
+    [ "HandleScript", "d7/d79/a27939.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
+    [ "PrepareSpellScript", "d7/d79/a27939.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
+    [ "Register", "d7/d79/a27939.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
 ];

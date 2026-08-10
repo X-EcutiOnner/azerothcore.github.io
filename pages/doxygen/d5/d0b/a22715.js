@@ -1,7 +1,8 @@
 var a22715 =
 [
-    [ "npc_voidtraveler", "d5/d0b/a22715.html#a07e473c14836a0612acd52078a93f2d8", null ],
-    [ "Reset", "d5/d0b/a22715.html#a6efe0725917c92657220de2b60579289", null ],
-    [ "UpdateAI", "d5/d0b/a22715.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
-    [ "_scheduler", "d5/d0b/a22715.html#a1809494e7803103f6bc1698e780dcfbc", null ]
+    [ "FilterTargets", "d5/d0b/a22715.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "d5/d0b/a22715.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "d5/d0b/a22715.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "d5/d0b/a22715.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "d5/d0b/a22715.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

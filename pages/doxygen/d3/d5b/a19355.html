@@ -190,7 +190,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 4323</span>: <a class="code hl_class" href="../../d9/d85/a10719.html">OnlyOnceAreaTriggerScript</a>(<span class="stringliteral">&quot;at_icc_spire_frostwyrm&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 4376</span>: <a class="code hl_class" href="../../d9/d85/a10719.html">OnlyOnceAreaTriggerScript</a>(<span class="stringliteral">&quot;at_icc_spire_frostwyrm&quot;</span>) { }</div>
 <div class="ttc" id="aa10719_html"><div class="ttname"><a href="../../d9/d85/a10719.html">OnlyOnceAreaTriggerScript</a></div><div class="ttdef"><b>Definition:</b> AreaTriggerScript.h:36</div></div>
 </div><!-- fragment -->
 </div>
@@ -231,25 +231,25 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d9/d85/a10719.html#a6da93a21c84345bd77e467377810e756">OnlyOnceAreaTriggerScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 4326</span>    {</div>
-<div class="line"><span class="lineno"> 4327</span>        <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../dd/d50/a10099.html#a2ec79651907fddda63f1bbdd2e23e2c3">GetPersistentData</a>(<a class="code hl_enumvalue" href="../../d6/d59/a02810.html#ad946c964b96b8b1ffa7c95abefe65353a0ed07e0243928a9c756e5de5425aa6ef">DATA_SPIRE_FROSTWYRM</a>) != <a class="code hl_enumvalue" href="../../d4/dc4/a00617.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>)</div>
-<div class="line"><span class="lineno"> 4328</span>        {</div>
-<div class="line"><span class="lineno"> 4329</span>            player-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../dd/d50/a10099.html#a90352246c6aca70f025fe4233ac32d04">StorePersistentData</a>(<a class="code hl_enumvalue" href="../../d6/d59/a02810.html#ad946c964b96b8b1ffa7c95abefe65353a0ed07e0243928a9c756e5de5425aa6ef">DATA_SPIRE_FROSTWYRM</a>, <a class="code hl_enumvalue" href="../../d4/dc4/a00617.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>);</div>
-<div class="line"><span class="lineno"> 4330</span>            <span class="keyword">const</span> <a class="code hl_struct" href="../../d3/dcf/a08863.html">Position</a> posHordeWyrm = { -375.538879f, 2120.774658f, 242.256775f, 3.714352f };</div>
-<div class="line"><span class="lineno"> 4331</span>            <span class="keyword">const</span> <a class="code hl_struct" href="../../d3/dcf/a08863.html">Position</a> posAllianceWyrm = { -361.154358f, 2305.821289f, 244.771713f, 2.704335f };</div>
-<div class="line"><span class="lineno"> 4332</span> </div>
-<div class="line"><span class="lineno"> 4333</span>            <span class="keywordtype">bool</span> hordeSide = areaTrigger-&gt;entry == <a class="code hl_enumvalue" href="../../db/d38/a02789.html#a112547a8fcea6297592796c3d9b6bcc6ab4b5e9e3a46489f2cf55f1fc0900fd96">HORDE_AREATRIGGER</a> || areaTrigger-&gt;entry == <a class="code hl_enumvalue" href="../../db/d38/a02789.html#a112547a8fcea6297592796c3d9b6bcc6ab4b5e9e3a46489f2cf55f1fc0900fd96">HORDE_AREATRIGGER</a> + 1;</div>
-<div class="line"><span class="lineno"> 4334</span> </div>
-<div class="line"><span class="lineno"> 4335</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/db2/a08403.html">Creature</a>* frostwyrm = player-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#ac46286b3e63188d6a328d2fbf7703caf">SummonCreature</a>(<a class="code hl_enumvalue" href="../../d6/d59/a02810.html#a23860b8d9499fb400f8921261b19efd2a8d0dcdea84e4eec172b5665913c13087">NPC_SPIRE_FROSTWYRM</a>, hordeSide ? posHordeWyrm : posAllianceWyrm))</div>
-<div class="line"><span class="lineno"> 4336</span>            {</div>
-<div class="line"><span class="lineno"> 4337</span>                frostwyrm-&gt;AI()-&gt;DoAction(areaTrigger-&gt;entry);</div>
-<div class="line"><span class="lineno"> 4338</span>            }</div>
-<div class="line"><span class="lineno"> 4339</span>        }</div>
-<div class="line"><span class="lineno"> 4340</span> </div>
-<div class="line"><span class="lineno"> 4341</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 4342</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 4379</span>    {</div>
+<div class="line"><span class="lineno"> 4380</span>        <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../dd/d50/a10099.html#a2ec79651907fddda63f1bbdd2e23e2c3">GetPersistentData</a>(<a class="code hl_enumvalue" href="../../d6/d59/a02810.html#ad946c964b96b8b1ffa7c95abefe65353a0ed07e0243928a9c756e5de5425aa6ef">DATA_SPIRE_FROSTWYRM</a>) != <a class="code hl_enumvalue" href="../../d4/dc4/a00617.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>)</div>
+<div class="line"><span class="lineno"> 4381</span>        {</div>
+<div class="line"><span class="lineno"> 4382</span>            player-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../dd/d50/a10099.html#a90352246c6aca70f025fe4233ac32d04">StorePersistentData</a>(<a class="code hl_enumvalue" href="../../d6/d59/a02810.html#ad946c964b96b8b1ffa7c95abefe65353a0ed07e0243928a9c756e5de5425aa6ef">DATA_SPIRE_FROSTWYRM</a>, <a class="code hl_enumvalue" href="../../d4/dc4/a00617.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>);</div>
+<div class="line"><span class="lineno"> 4383</span>            <span class="keyword">const</span> <a class="code hl_struct" href="../../d3/dcf/a08863.html">Position</a> posHordeWyrm = { -375.538879f, 2120.774658f, 242.256775f, 3.714352f };</div>
+<div class="line"><span class="lineno"> 4384</span>            <span class="keyword">const</span> <a class="code hl_struct" href="../../d3/dcf/a08863.html">Position</a> posAllianceWyrm = { -361.154358f, 2305.821289f, 244.771713f, 2.704335f };</div>
+<div class="line"><span class="lineno"> 4385</span> </div>
+<div class="line"><span class="lineno"> 4386</span>            <span class="keywordtype">bool</span> hordeSide = areaTrigger-&gt;entry == <a class="code hl_enumvalue" href="../../db/d38/a02789.html#a112547a8fcea6297592796c3d9b6bcc6ab4b5e9e3a46489f2cf55f1fc0900fd96">HORDE_AREATRIGGER</a> || areaTrigger-&gt;entry == <a class="code hl_enumvalue" href="../../db/d38/a02789.html#a112547a8fcea6297592796c3d9b6bcc6ab4b5e9e3a46489f2cf55f1fc0900fd96">HORDE_AREATRIGGER</a> + 1;</div>
+<div class="line"><span class="lineno"> 4387</span> </div>
+<div class="line"><span class="lineno"> 4388</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/db2/a08403.html">Creature</a>* frostwyrm = player-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#ac46286b3e63188d6a328d2fbf7703caf">SummonCreature</a>(<a class="code hl_enumvalue" href="../../d6/d59/a02810.html#a23860b8d9499fb400f8921261b19efd2a8d0dcdea84e4eec172b5665913c13087">NPC_SPIRE_FROSTWYRM</a>, hordeSide ? posHordeWyrm : posAllianceWyrm))</div>
+<div class="line"><span class="lineno"> 4389</span>            {</div>
+<div class="line"><span class="lineno"> 4390</span>                frostwyrm-&gt;AI()-&gt;DoAction(areaTrigger-&gt;entry);</div>
+<div class="line"><span class="lineno"> 4391</span>            }</div>
+<div class="line"><span class="lineno"> 4392</span>        }</div>
+<div class="line"><span class="lineno"> 4393</span> </div>
+<div class="line"><span class="lineno"> 4394</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 4395</span>    }</div>
 <div class="ttc" id="aa00617_html_ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749"><div class="ttname"><a href="../../d4/dc4/a00617.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a></div><div class="ttdeci">@ DONE</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:61</div></div>
-<div class="ttc" id="aa02789_html_a112547a8fcea6297592796c3d9b6bcc6ab4b5e9e3a46489f2cf55f1fc0900fd96"><div class="ttname"><a href="../../db/d38/a02789.html#a112547a8fcea6297592796c3d9b6bcc6ab4b5e9e3a46489f2cf55f1fc0900fd96">HORDE_AREATRIGGER</a></div><div class="ttdeci">@ HORDE_AREATRIGGER</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:3619</div></div>
+<div class="ttc" id="aa02789_html_a112547a8fcea6297592796c3d9b6bcc6ab4b5e9e3a46489f2cf55f1fc0900fd96"><div class="ttname"><a href="../../db/d38/a02789.html#a112547a8fcea6297592796c3d9b6bcc6ab4b5e9e3a46489f2cf55f1fc0900fd96">HORDE_AREATRIGGER</a></div><div class="ttdeci">@ HORDE_AREATRIGGER</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:3672</div></div>
 <div class="ttc" id="aa02810_html_a23860b8d9499fb400f8921261b19efd2a8d0dcdea84e4eec172b5665913c13087"><div class="ttname"><a href="../../d6/d59/a02810.html#a23860b8d9499fb400f8921261b19efd2a8d0dcdea84e4eec172b5665913c13087">NPC_SPIRE_FROSTWYRM</a></div><div class="ttdeci">@ NPC_SPIRE_FROSTWYRM</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.h:380</div></div>
 <div class="ttc" id="aa02810_html_ad946c964b96b8b1ffa7c95abefe65353a0ed07e0243928a9c756e5de5425aa6ef"><div class="ttname"><a href="../../d6/d59/a02810.html#ad946c964b96b8b1ffa7c95abefe65353a0ed07e0243928a9c756e5de5425aa6ef">DATA_SPIRE_FROSTWYRM</a></div><div class="ttdeci">@ DATA_SPIRE_FROSTWYRM</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.h:152</div></div>
 <div class="ttc" id="aa08403_html"><div class="ttname"><a href="../../de/db2/a08403.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:47</div></div>
@@ -259,7 +259,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa10099_html_a2ec79651907fddda63f1bbdd2e23e2c3"><div class="ttname"><a href="../../dd/d50/a10099.html#a2ec79651907fddda63f1bbdd2e23e2c3">InstanceScript::GetPersistentData</a></div><div class="ttdeci">uint32 GetPersistentData(uint32 index) const</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:257</div></div>
 <div class="ttc" id="aa10099_html_a90352246c6aca70f025fe4233ac32d04"><div class="ttname"><a href="../../dd/d50/a10099.html#a90352246c6aca70f025fe4233ac32d04">InstanceScript::StorePersistentData</a></div><div class="ttdeci">void StorePersistentData(uint32 index, uint32 data)</div><div class="ttdef"><b>Definition:</b> InstanceScript.cpp:440</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00152">DATA_SPIRE_FROSTWYRM</a>, <a class="el" href="../../#l00061">DONE</a>, <a class="el" href="../../#l00424">AreaTrigger::entry</a>, <a class="el" href="../../#l01242">WorldObject::GetInstanceScript()</a>, <a class="el" href="../../#l00257">InstanceScript::GetPersistentData()</a>, <a class="el" href="../../#l03619">HORDE_AREATRIGGER</a>, <a class="el" href="../../#l00380">NPC_SPIRE_FROSTWYRM</a>, <a class="el" href="../../#l00440">InstanceScript::StorePersistentData()</a>, and <a class="el" href="../../#l02448">WorldObject::SummonCreature()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00152">DATA_SPIRE_FROSTWYRM</a>, <a class="el" href="../../#l00061">DONE</a>, <a class="el" href="../../#l00424">AreaTrigger::entry</a>, <a class="el" href="../../#l01242">WorldObject::GetInstanceScript()</a>, <a class="el" href="../../#l00257">InstanceScript::GetPersistentData()</a>, <a class="el" href="../../#l03672">HORDE_AREATRIGGER</a>, <a class="el" href="../../#l00380">NPC_SPIRE_FROSTWYRM</a>, <a class="el" href="../../#l00440">InstanceScript::StorePersistentData()</a>, and <a class="el" href="../../#l02448">WorldObject::SummonCreature()</a>.</p>
 
 </div>
 </div>
@@ -269,7 +269,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d5b/a19355.html">at_icc_spire_frostwyrm</a></li>
-    <li class="footer">Generated on Mon Aug 3 2026 21:44:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 10 2026 21:22:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

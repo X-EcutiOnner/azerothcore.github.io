@@ -1,11 +1,12 @@
 var a25451 =
 [
-    [ "spell_gen_consume", "da/dd8/a25451.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
-    [ "AfterRemove", "da/dd8/a25451.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
-    [ "HandleProc", "da/dd8/a25451.html#af69251aa0415a2148162f32dd9113917", null ],
-    [ "PrepareAuraScript", "da/dd8/a25451.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
-    [ "Register", "da/dd8/a25451.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
-    [ "Validate", "da/dd8/a25451.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
-    [ "_spellId1", "da/dd8/a25451.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
-    [ "_spellId2", "da/dd8/a25451.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
+    [ "EtherealSoulTrader", "da/dd8/a25451.html#a8fd600957c21bdd8a1c1793e36ea3953", [
+      [ "NPC_ETHEREAL_SOUL_TRADER", "da/dd8/a25451.html#a8fd600957c21bdd8a1c1793e36ea3953af260b92af2c0a22e3d0de607611f3673", null ],
+      [ "SPELL_OWNER_KILLED_INFORM", "da/dd8/a25451.html#a8fd600957c21bdd8a1c1793e36ea3953a0ece3b3d2fa217b809d77915cc6f30d2", null ],
+      [ "SPELL_STEAL_ESSENCE_VISUAL", "da/dd8/a25451.html#a8fd600957c21bdd8a1c1793e36ea3953aa4a66122509fdf013a6c6b3a5edbbba7", null ]
+    ] ],
+    [ "CheckProc", "da/dd8/a25451.html#a59752617fc790359fdb13cc88aaed15e", null ],
+    [ "HandleProc", "da/dd8/a25451.html#ab52656d4827f3fe980edd281e82debd5", null ],
+    [ "PrepareAuraScript", "da/dd8/a25451.html#a49a6a07b66e5b99c67d4fcef13aeb933", null ],
+    [ "Register", "da/dd8/a25451.html#a16d9e04ba3bc3144cd539033a5053d1a", null ]
 ];

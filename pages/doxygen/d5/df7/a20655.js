@@ -1,7 +1,13 @@
 var a20655 =
 [
-    [ "PrepareSpellScript", "d5/df7/a20655.html#afae92a0d4e41fc2fd00b1fd0b6b11a22", null ],
-    [ "PreventSummon", "d5/df7/a20655.html#a57fcc7a0e078c344e50863ba1951f244", null ],
-    [ "Register", "d5/df7/a20655.html#a3813bf7e198f5f3c146b4639fa83a067", null ],
-    [ "SetDest", "d5/df7/a20655.html#a4d49ebdf1dab3b4952e4f4c7c50ca16b", null ]
+    [ "npc_ulduar_mimiron_rocket", "d5/df7/a20655.html#abd32fde821053b6c8aa3dd83e25b6ad6", null ],
+    [ "GetGUID", "d5/df7/a20655.html#ad8415989fc73f29462ee1787508ec033", null ],
+    [ "InitializeAI", "d5/df7/a20655.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
+    [ "Reset", "d5/df7/a20655.html#a982da2f2392882a86e72de4c4769fa41", null ],
+    [ "SetGUID", "d5/df7/a20655.html#aa9945bc616b99d242a4f8ec1320f8612", null ],
+    [ "UpdateAI", "d5/df7/a20655.html#a20a914900db345aa00a9e640bc5b1baf", null ],
+    [ "_events", "d5/df7/a20655.html#a823d53f96e82b0a89a62c57d84eaad29", null ],
+    [ "_strikeTrigger", "d5/df7/a20655.html#a9da436d0769e8ae067a523bc2e4551cc", null ],
+    [ "_strikeVictim", "d5/df7/a20655.html#a550ce28cd2fe93e262633c9c686c8b7f", null ],
+    [ "_travelMs", "d5/df7/a20655.html#a2740bdfe8f7f6909e9fcdf1e800d4eb3", null ]
 ];

@@ -1,5 +1,10 @@
 var a29703 =
 [
-    [ "SetUp", "d1/df7/a29703.html#a93dbc1c1155d8e324f9020a62fffdee0", null ],
-    [ "permission", "d1/df7/a29703.html#ab69437451437743e0e5078ea2123846b", null ]
+    [ "TestMap", "d1/df7/a29703.html#aca5be96dac80e8b0cd031a689f6cad66", null ],
+    [ "~TestMap", "d1/df7/a29703.html#a7175511302d9c67cce7b870ec70551de", null ],
+    [ "EnsureDBC", "d1/df7/a29703.html#a2a117f615eafa6336e09defee91574b5", null ],
+    [ "SetIsDungeon", "d1/df7/a29703.html#afa3e639a3a6b54c4efa917008400c37b", null ],
+    [ "SetIsRaid", "d1/df7/a29703.html#ae577d4dc38ec92f11fab263d28455213", null ],
+    [ "SetMapType", "d1/df7/a29703.html#a19013737f70a4d2362f88651b4e1a4b4", null ],
+    [ "_fakeMapEntry", "d1/df7/a29703.html#afc183278ef7cd421df30ad878321f122", null ]
 ];

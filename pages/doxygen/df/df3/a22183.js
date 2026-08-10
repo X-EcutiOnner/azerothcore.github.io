@@ -1,6 +1,6 @@
 var a22183 =
 [
-    [ "PrepareSpellScript", "df/df3/a22183.html#aa26d34552b04dca1db32390e769ff4dc", null ],
-    [ "RecalculateDamage", "df/df3/a22183.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
-    [ "Register", "df/df3/a22183.html#a58d28dea272b1237cf60efb45d67765d", null ]
+    [ "npc_tournament_training_dummyAI", "d1/de0/a22187.html", "d1/de0/a22187" ],
+    [ "npc_tournament_training_dummy", "df/df3/a22183.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
+    [ "GetAI", "df/df3/a22183.html#a31257c155c3a49c69771156800cf6340", null ]
 ];

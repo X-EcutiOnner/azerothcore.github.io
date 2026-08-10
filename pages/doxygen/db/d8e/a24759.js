@@ -1,7 +1,7 @@
 var a24759 =
 [
-    [ "AfterApply", "db/d8e/a24759.html#adae232af9445638b3d54e81d414483b7", null ],
-    [ "AfterRemove", "db/d8e/a24759.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
-    [ "PrepareAuraScript", "db/d8e/a24759.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
-    [ "Register", "db/d8e/a24759.html#abff75ea597dcc017a359a5ef3ada4314", null ]
+    [ "HandleProc", "db/d8e/a24759.html#afc5208979ec0ce81e2bb88b3bd429012", null ],
+    [ "PrepareAuraScript", "db/d8e/a24759.html#a9eebffe3b716f7de63bfd6617e6ecf3b", null ],
+    [ "Register", "db/d8e/a24759.html#a1f364414b053ffc92c2a219b713e8c38", null ],
+    [ "Validate", "db/d8e/a24759.html#a12912ba28210850b8bc0b568357794af", null ]
 ];

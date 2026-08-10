@@ -1,7 +1,7 @@
 var a26283 =
 [
-    [ "HandleProc", "da/ddb/a26283.html#ac162e47e5334e15865a315b1a30fc645", null ],
-    [ "PrepareAuraScript", "da/ddb/a26283.html#a0d30a007e3f67b78197ac0cae83e2976", null ],
-    [ "Register", "da/ddb/a26283.html#aad337f75e2132940ed3cfef209e1c73b", null ],
-    [ "Validate", "da/ddb/a26283.html#afc4741f952c253924de7397d991a24ac", null ]
+    [ "CheckCast", "da/ddb/a26283.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
+    [ "HandleEffect", "da/ddb/a26283.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
+    [ "PrepareSpellScript", "da/ddb/a26283.html#aa63cb903e7c6037a6c08381334ccc126", null ],
+    [ "Register", "da/ddb/a26283.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
 ];

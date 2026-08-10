@@ -1,7 +1,7 @@
 var a21671 =
 [
-    [ "npc_warmage_violetstand", "d9/d37/a21671.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "d9/d37/a21671.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "d9/d37/a21671.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "d9/d37/a21671.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "HandleEffectHit", "d9/d37/a21671.html#a8d7dd2411c3b786e682260eb30862602", null ],
+    [ "PrepareSpellScript", "d9/d37/a21671.html#a49b6d005013e480f8161779119bc9b2d", null ],
+    [ "Register", "d9/d37/a21671.html#a017ae25fead98a5c18cdb83128085ddd", null ],
+    [ "Validate", "d9/d37/a21671.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
 ];

@@ -1,10 +1,14 @@
 var a23307 =
 [
-    [ "Spells", "d6/d13/a23307.html#a70ca1841fb1db54e6f76b96331e05cf1", [
-      [ "SPELL_GROW", "d6/d13/a23307.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
-      [ "SPELL_SPORE_CLOUD", "d6/d13/a23307.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
-    ] ],
-    [ "npc_rancid_mushroom", "d6/d13/a23307.html#a15896957b94de57de9eda5a199a05d4c", null ],
-    [ "InitializeAI", "d6/d13/a23307.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
-    [ "UpdateAI", "d6/d13/a23307.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "d6/d13/a23307.html#a3e83985648f2951ee33d440c9c98bf72", null ],
+    [ "GetData", "d6/d13/a23307.html#a9ea722d45efe2ee4eff041e480ff1c79", null ],
+    [ "Initialize", "d6/d13/a23307.html#a8a2214e169acace8578c1863daf0a04c", null ],
+    [ "OnCreatureCreate", "d6/d13/a23307.html#ae5f77169c337420852962fe7ddba3006", null ],
+    [ "OnCreatureRemove", "d6/d13/a23307.html#a921442812da891a6651ddd235d4a98f9", null ],
+    [ "OnGameObjectCreate", "d6/d13/a23307.html#a9aeb7b25aa1446fff655b4c8fd6c47ad", null ],
+    [ "SetBossState", "d6/d13/a23307.html#ad2863bc954ae25a5d96d06db0250cda3", null ],
+    [ "SetData", "d6/d13/a23307.html#af3ca65eef9902a029f5b836d0b6fd58a", null ],
+    [ "_aliveKeepersCount", "d6/d13/a23307.html#a71f3a72d3aa47b267e3b8a7d1c90b6ff", null ],
+    [ "_frenzyCount", "d6/d13/a23307.html#acdba0cea9bdbe929a30bd2f790a613f9", null ],
+    [ "_shieldGeneratorGUID", "d6/d13/a23307.html#a570b73c8ecd0e1ab6ac2889405be6ef0", null ]
 ];

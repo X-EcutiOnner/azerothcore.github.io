@@ -343,14 +343,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../df/dcb/a12015.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2889</span>    {</div>
-<div class="line"><span class="lineno"> 2890</span>        <a class="code hl_variable" href="../../db/d98/a12031.html#a7effb149f3d70abf83a46673d6e7705d">OnCast</a> += <a class="code hl_define" href="../../d2/dea/a02057.html#aa0eb707cdfb0f2fafeafd6ab32274654">SpellCastFn</a>(<a class="code hl_function" href="../../d8/da0/a19211.html#a843c9dc403404ddd2de667e57e01f00c">spell_icc_soul_missile::RelocateDest</a>);</div>
-<div class="line"><span class="lineno"> 2891</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2942</span>    {</div>
+<div class="line"><span class="lineno"> 2943</span>        <a class="code hl_variable" href="../../db/d98/a12031.html#a7effb149f3d70abf83a46673d6e7705d">OnCast</a> += <a class="code hl_define" href="../../d2/dea/a02057.html#aa0eb707cdfb0f2fafeafd6ab32274654">SpellCastFn</a>(<a class="code hl_function" href="../../d8/da0/a19211.html#a843c9dc403404ddd2de667e57e01f00c">spell_icc_soul_missile::RelocateDest</a>);</div>
+<div class="line"><span class="lineno"> 2944</span>    }</div>
 <div class="ttc" id="aa02057_html_aa0eb707cdfb0f2fafeafd6ab32274654"><div class="ttname"><a href="../../d2/dea/a02057.html#aa0eb707cdfb0f2fafeafd6ab32274654">SpellCastFn</a></div><div class="ttdeci">#define SpellCastFn(F)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:324</div></div>
 <div class="ttc" id="aa12031_html_a7effb149f3d70abf83a46673d6e7705d"><div class="ttname"><a href="../../db/d98/a12031.html#a7effb149f3d70abf83a46673d6e7705d">SpellScript::OnCast</a></div><div class="ttdeci">HookList&lt; CastHandler &gt; OnCast</div><div class="ttdef"><b>Definition:</b> SpellScript.h:321</div></div>
-<div class="ttc" id="aa19211_html_a843c9dc403404ddd2de667e57e01f00c"><div class="ttname"><a href="../../d8/da0/a19211.html#a843c9dc403404ddd2de667e57e01f00c">spell_icc_soul_missile::RelocateDest</a></div><div class="ttdeci">void RelocateDest()</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:2882</div></div>
+<div class="ttc" id="aa19211_html_a843c9dc403404ddd2de667e57e01f00c"><div class="ttname"><a href="../../d8/da0/a19211.html#a843c9dc403404ddd2de667e57e01f00c">spell_icc_soul_missile::RelocateDest</a></div><div class="ttdeci">void RelocateDest()</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.cpp:2935</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00321">SpellScript::OnCast</a>, <a class="el" href="../../#l02882">RelocateDest()</a>, and <a class="el" href="../../#l00324">SpellCastFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00321">SpellScript::OnCast</a>, <a class="el" href="../../#l02935">RelocateDest()</a>, and <a class="el" href="../../#l00324">SpellCastFn</a>.</p>
 
 </div>
 </div>
@@ -376,17 +376,17 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2883</span>    {</div>
-<div class="line"><span class="lineno"> 2884</span>        <span class="keyword">static</span> <a class="code hl_struct" href="../../d3/dcf/a08863.html">Position</a> <span class="keyword">const</span> offset = {0.0f, 0.0f, 200.0f, 0.0f};</div>
-<div class="line"><span class="lineno"> 2885</span>        <span class="keyword">const_cast&lt;</span><a class="code hl_class" href="../../d1/d83/a08879.html">WorldLocation</a>*<span class="keyword">&gt;</span>(<a class="code hl_function" href="../../db/d98/a12031.html#a127150f1d3edb4f1d217884f882b015f">GetExplTargetDest</a>())-&gt;RelocateOffset(offset);</div>
-<div class="line"><span class="lineno"> 2886</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2936</span>    {</div>
+<div class="line"><span class="lineno"> 2937</span>        <span class="keyword">static</span> <a class="code hl_struct" href="../../d3/dcf/a08863.html">Position</a> <span class="keyword">const</span> offset = {0.0f, 0.0f, 200.0f, 0.0f};</div>
+<div class="line"><span class="lineno"> 2938</span>        <span class="keyword">const_cast&lt;</span><a class="code hl_class" href="../../d1/d83/a08879.html">WorldLocation</a>*<span class="keyword">&gt;</span>(<a class="code hl_function" href="../../db/d98/a12031.html#a127150f1d3edb4f1d217884f882b015f">GetExplTargetDest</a>())-&gt;RelocateOffset(offset);</div>
+<div class="line"><span class="lineno"> 2939</span>    }</div>
 <div class="ttc" id="aa08863_html"><div class="ttname"><a href="../../d3/dcf/a08863.html">Position</a></div><div class="ttdef"><b>Definition:</b> Position.h:27</div></div>
 <div class="ttc" id="aa08879_html"><div class="ttname"><a href="../../d1/d83/a08879.html">WorldLocation</a></div><div class="ttdef"><b>Definition:</b> Position.h:256</div></div>
 <div class="ttc" id="aa12031_html_a127150f1d3edb4f1d217884f882b015f"><div class="ttname"><a href="../../db/d98/a12031.html#a127150f1d3edb4f1d217884f882b015f">SpellScript::GetExplTargetDest</a></div><div class="ttdeci">WorldLocation const * GetExplTargetDest()</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:416</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00416">SpellScript::GetExplTargetDest()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02888">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02941">Register()</a>.</p>
 
 </div>
 </div>
@@ -396,7 +396,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/da0/a19211.html">spell_icc_soul_missile</a></li>
-    <li class="footer">Generated on Mon Aug 3 2026 21:45:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 10 2026 21:24:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

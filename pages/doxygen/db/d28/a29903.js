@@ -1,6 +1,10 @@
 var a29903 =
 [
-    [ "hasAttr", "db/d28/a29903.html#aec6e687803471c9e36fb371be3994db9", null ],
-    [ "name", "db/d28/a29903.html#acb40ba3ca029314d1efd8d4499428e4b", null ],
-    [ "spellId", "db/d28/a29903.html#a6b7e7e5d028fb5c006f8785a53394535", null ]
+    [ "SetUp", "db/d28/a29903.html#a3fdec2bf96f4e567b3ed2a8103d175ec", null ],
+    [ "SimulateGlyphsForLevel", "db/d28/a29903.html#ac0b04d88968102ac5cf34be21a44eed9", null ],
+    [ "TearDown", "db/d28/a29903.html#aa381706733e71ee3d426c4e0d0c4b4e9", null ],
+    [ "originalWorld", "db/d28/a29903.html#a5e142dc81a057b4ecc3084177942b91d", null ],
+    [ "player", "db/d28/a29903.html#ac57623d8e963cdb8de2258f36c1281bd", null ],
+    [ "session", "db/d28/a29903.html#ac92bad60994d699564da54739ac0b4f0", null ],
+    [ "worldMock", "db/d28/a29903.html#af4605e78650f67c3a3af4d91e1e485c5", null ]
 ];

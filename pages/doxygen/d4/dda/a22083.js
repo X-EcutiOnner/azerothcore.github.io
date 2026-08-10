@@ -1,6 +1,7 @@
 var a22083 =
 [
-    [ "npc_llod_genericAI", "d7/d55/a22087.html", "d7/d55/a22087" ],
-    [ "npc_llod_generic", "d4/dda/a22083.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "d4/dda/a22083.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "HandleScript", "d4/dda/a22083.html#a3bdcc0fcfd8be3396b5af22152c66686", null ],
+    [ "PrepareSpellScript", "d4/dda/a22083.html#af67e8d959528633e48e56061b1790841", null ],
+    [ "Register", "d4/dda/a22083.html#af4a66003ea25b81028c05bcc0bc4dd1d", null ],
+    [ "Validate", "d4/dda/a22083.html#a007097b10ad0beeb61c1bd4117d963a3", null ]
 ];

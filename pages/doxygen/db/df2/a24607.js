@@ -1,9 +1,9 @@
 var a24607 =
 [
-    [ "CheckCast", "db/df2/a24607.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "db/df2/a24607.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "db/df2/a24607.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "db/df2/a24607.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "db/df2/a24607.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "db/df2/a24607.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "HandleAfterHit", "db/df2/a24607.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
+    [ "Load", "db/df2/a24607.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
+    [ "PrepareSpellScript", "db/df2/a24607.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
+    [ "Register", "db/df2/a24607.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
+    [ "Validate", "db/df2/a24607.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
+    [ "_executed", "db/df2/a24607.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
 ];

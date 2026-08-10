@@ -1,5 +1,5 @@
 var a28067 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "de/d15/a28067.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "de/d15/a28067.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "achievement_flirt_with_disaster_perf_check", "de/d15/a28067.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
+    [ "OnCheck", "de/d15/a28067.html#a15e620be2f37f930477ba94293dbaf63", null ]
 ];

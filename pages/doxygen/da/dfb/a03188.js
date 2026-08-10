@@ -1,6 +1,6 @@
 var a03188 =
 [
-    [ "npc_innkeeper", "d2/dc1/a28415.html", "d2/dc1/a28415" ],
+    [ "npc_innkeeper", "d4/dca/a28439.html", "d4/dca/a28439" ],
     [ "AddSC_npc_innkeeper", "da/dfb/a03188.html#a3ffce1ea6cca981888af85ba67364df9", null ],
     [ "GOSSIP_MENU", "da/dfb/a03188.html#a3115623eb3e0408aad7cd637686aaaee", null ],
     [ "GOSSIP_MENU_EVENT", "da/dfb/a03188.html#a6bb09725b9e6b10b76686a9059038e6b", null ],

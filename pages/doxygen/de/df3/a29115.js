@@ -1,10 +1,14 @@
 var a29115 =
 [
-    [ "HasFlag", "de/df3/a29115.html#abe23ca5437589a38ea57bc93a6197911", null ],
-    [ "CollisionHeight", "de/df3/a29115.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
-    [ "CollisionWidth", "de/df3/a29115.html#ab79497759cf169348b8922301fc43b2f", null ],
-    [ "Flags", "de/df3/a29115.html#a3bb96e232124771e78f8b5db53405106", null ],
-    [ "Id", "de/df3/a29115.html#aa19fec147703c7542be260c8ec5a0446", null ],
-    [ "MountHeight", "de/df3/a29115.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
-    [ "Scale", "de/df3/a29115.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
+    [ "HasFlag", "de/df3/a29115.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
+    [ "alliance", "de/df3/a29115.html#a44c3824aef4f4724c189727f12801a5b", null ],
+    [ "CinematicSequence", "de/df3/a29115.html#a33a01b1c26b21706d9898af246f2a0df", null ],
+    [ "expansion", "de/df3/a29115.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
+    [ "FactionID", "de/df3/a29115.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
+    [ "Flags", "de/df3/a29115.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
+    [ "model_f", "de/df3/a29115.html#a4807227fd863e247b18d29db0ea8236a", null ],
+    [ "model_m", "de/df3/a29115.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
+    [ "name", "de/df3/a29115.html#a4970323e45feb3f74b47420648371ab6", null ],
+    [ "RaceID", "de/df3/a29115.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
+    [ "TeamID", "de/df3/a29115.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
 ];

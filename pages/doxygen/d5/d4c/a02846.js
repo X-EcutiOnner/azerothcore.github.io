@@ -1,34 +1,35 @@
 var a02846 =
 [
-    [ "spell_q11919_q11940_drake_hunt_aura", "d3/df8/a21551.html", "d3/df8/a21551" ],
-    [ "npc_sinkhole_kill_credit", "d4/d2f/a21555.html", "d4/d2f/a21555" ],
-    [ "npc_sinkhole_kill_credit::npc_sinkhole_kill_creditAI", "d5/dbc/a21559.html", "d5/dbc/a21559" ],
-    [ "npc_khunok_the_behemoth", "d4/d31/a21563.html", "d4/d31/a21563" ],
-    [ "npc_khunok_the_behemoth::npc_khunok_the_behemothAI", "df/d2d/a21567.html", "df/d2d/a21567" ],
-    [ "npc_nerubar_victim", "d4/d04/a21571.html", "d4/d04/a21571" ],
-    [ "npc_nerubar_victim::npc_nerubar_victimAI", "d5/d92/a21575.html", "d5/d92/a21575" ],
-    [ "npc_lurgglbr", "db/d7a/a21579.html", "db/d7a/a21579" ],
-    [ "npc_lurgglbr::npc_lurgglbrAI", "d3/da3/a21583.html", "d3/da3/a21583" ],
-    [ "npc_jenny", "d5/d07/a21587.html", "d5/d07/a21587" ],
-    [ "spell_arcane_chains_character_force_cast", "d7/d10/a21591.html", "d7/d10/a21591" ],
-    [ "npc_imprisoned_beryl_sorcerer", "de/d53/a21595.html", "de/d53/a21595" ],
-    [ "npc_imprisoned_beryl_sorcerer::npc_imprisoned_beryl_sorcererAI", "df/d32/a21599.html", "df/d32/a21599" ],
-    [ "npc_mootoo_the_younger", "d5/d1a/a21603.html", "d5/d1a/a21603" ],
-    [ "npc_mootoo_the_younger::npc_mootoo_the_youngerAI", "d2/dad/a21607.html", "d2/dad/a21607" ],
-    [ "npc_bonker_togglevolt", "d0/d84/a21611.html", "d0/d84/a21611" ],
-    [ "npc_bonker_togglevolt::npc_bonker_togglevoltAI", "db/d90/a21615.html", "db/d90/a21615" ],
-    [ "npc_valiance_keep_cannoneer", "dd/db5/a21619.html", "dd/db5/a21619" ],
-    [ "npc_valiance_keep_cannoneer::npc_valiance_keep_cannoneerAI", "d7/d59/a21623.html", "d7/d59/a21623" ],
-    [ "npc_warmage_coldarra", "d8/de7/a21627.html", "d8/de7/a21627" ],
-    [ "npc_warmage_coldarra::npc_warmage_coldarraAI", "dd/d41/a21631.html", "dd/d41/a21631" ],
-    [ "npc_hidden_cultist", "db/d53/a21635.html", "db/d53/a21635" ],
-    [ "npc_hidden_cultist::npc_hidden_cultistAI", "d6/d98/a21639.html", "d6/d98/a21639" ],
-    [ "spell_q11719_bloodspore_ruination_45997", "d9/da5/a21643.html", "d9/da5/a21643" ],
-    [ "npc_bloodmage_laurith", "dd/d30/a21647.html", "dd/d30/a21647" ],
-    [ "npc_bloodmage_laurith::npc_bloodmage_laurithAI", "d4/d9c/a21651.html", "d4/d9c/a21651" ],
-    [ "spell_necropolis_beam", "db/d79/a21655.html", "db/d79/a21655" ],
-    [ "spell_soul_deflection", "d3/d2e/a21659.html", "d3/d2e/a21659" ],
-    [ "spell_bloodspore_haze", "d3/d28/a21663.html", "d3/d28/a21663" ],
+    [ "spell_q11919_q11940_drake_hunt_aura", "df/d2d/a21567.html", "df/d2d/a21567" ],
+    [ "npc_sinkhole_kill_credit", "d4/d04/a21571.html", "d4/d04/a21571" ],
+    [ "npc_sinkhole_kill_credit::npc_sinkhole_kill_creditAI", "d5/d92/a21575.html", "d5/d92/a21575" ],
+    [ "npc_khunok_the_behemoth", "db/d7a/a21579.html", "db/d7a/a21579" ],
+    [ "npc_khunok_the_behemoth::npc_khunok_the_behemothAI", "d3/da3/a21583.html", "d3/da3/a21583" ],
+    [ "npc_nerubar_victim", "d5/d07/a21587.html", "d5/d07/a21587" ],
+    [ "spell_dispel_freed_soldier_debuff", "d7/d10/a21591.html", "d7/d10/a21591" ],
+    [ "npc_lurgglbr", "de/d53/a21595.html", "de/d53/a21595" ],
+    [ "npc_lurgglbr::npc_lurgglbrAI", "df/d32/a21599.html", "df/d32/a21599" ],
+    [ "npc_jenny", "d5/d1a/a21603.html", "d5/d1a/a21603" ],
+    [ "spell_arcane_chains_character_force_cast", "d2/dad/a21607.html", "d2/dad/a21607" ],
+    [ "npc_imprisoned_beryl_sorcerer", "d0/d84/a21611.html", "d0/d84/a21611" ],
+    [ "npc_imprisoned_beryl_sorcerer::npc_imprisoned_beryl_sorcererAI", "db/d90/a21615.html", "db/d90/a21615" ],
+    [ "npc_mootoo_the_younger", "dd/db5/a21619.html", "dd/db5/a21619" ],
+    [ "npc_mootoo_the_younger::npc_mootoo_the_youngerAI", "d7/d59/a21623.html", "d7/d59/a21623" ],
+    [ "npc_valiance_keep_cannoneer", "d8/de7/a21627.html", "d8/de7/a21627" ],
+    [ "npc_valiance_keep_cannoneer::npc_valiance_keep_cannoneerAI", "dd/d41/a21631.html", "dd/d41/a21631" ],
+    [ "npc_warmage_coldarra", "db/d53/a21635.html", "db/d53/a21635" ],
+    [ "npc_warmage_coldarra::npc_warmage_coldarraAI", "d6/d98/a21639.html", "d6/d98/a21639" ],
+    [ "npc_hidden_cultist", "d9/da5/a21643.html", "d9/da5/a21643" ],
+    [ "npc_hidden_cultist::npc_hidden_cultistAI", "dd/d30/a21647.html", "dd/d30/a21647" ],
+    [ "spell_q11719_bloodspore_ruination_45997", "d4/d9c/a21651.html", "d4/d9c/a21651" ],
+    [ "npc_bloodmage_laurith", "db/d79/a21655.html", "db/d79/a21655" ],
+    [ "npc_bloodmage_laurith::npc_bloodmage_laurithAI", "d3/d2e/a21659.html", "d3/d2e/a21659" ],
+    [ "spell_necropolis_beam", "d3/d28/a21663.html", "d3/d28/a21663" ],
+    [ "spell_soul_deflection", "d3/d79/a21667.html", "d3/d79/a21667" ],
+    [ "spell_bloodspore_haze", "d9/d37/a21671.html", "d9/d37/a21671" ],
+    [ "spell_q11652_rescue_injured_soldier", "d7/d7c/a21675.html", "d7/d7c/a21675" ],
+    [ "spell_q11652_soldier_rescued", "db/d61/a21679.html", "db/d61/a21679" ],
+    [ "npc_dusk", "d2/d69/a21683.html", "d2/d69/a21683" ],
     [ "ArcaneChains", "d5/d4c/a02846.html#adbd7d551f98c6120c470065703338dae", [
       [ "SPELL_ARCANE_CHAINS_CHARACTER_FORCE_CAST", "d5/d4c/a02846.html#adbd7d551f98c6120c470065703338daea281a473ba44c139884440cbe38ad8de0", null ],
       [ "SPELL_ARCANE_CHAINS_SUMMON_CHAINED_MAGE_HUNTER", "d5/d4c/a02846.html#adbd7d551f98c6120c470065703338daeafd3d75fde3c031f9b17358271c3c919f", null ]
@@ -39,11 +40,12 @@ var a02846 =
       [ "EVENT_TALK", "d5/d4c/a02846.html#aa16fb89cb3bd6364485f6fc84fc8bb6bad8d5fcaf7b3bfdd91e6337d222c1620f", null ],
       [ "EVENT_RESET_ORIENTATION", "d5/d4c/a02846.html#aa16fb89cb3bd6364485f6fc84fc8bb6bacd74828e60a02284062d0e5c708ed414", null ]
     ] ],
-    [ "BonkerTogglevolt", "d5/d4c/a02846.html#a5fdb2729501c05d939fb1ed5c82995dd", [
-      [ "NPC_BONKER_TOGGLEVOLT", "d5/d4c/a02846.html#a5fdb2729501c05d939fb1ed5c82995dda84cc8537adb737ababc7f8f47b3f02e6", null ],
-      [ "QUEST_GET_ME_OUTA_HERE", "d5/d4c/a02846.html#a5fdb2729501c05d939fb1ed5c82995dda1bb4495229ca373b57120cbbd5bdfd42", null ],
-      [ "SAY_BONKER_1", "d5/d4c/a02846.html#a5fdb2729501c05d939fb1ed5c82995dda3300ceea0456cc026efa4f2ed6825fa0", null ],
-      [ "SAY_BONKER_2", "d5/d4c/a02846.html#a5fdb2729501c05d939fb1ed5c82995dda67f57077a8ba41787ab4dae828e1d4e5", null ]
+    [ "DuskData", "d5/d4c/a02846.html#a5c653900d72bf0403ec77511d1086d16", [
+      [ "SAY_DUSK_PHYLACTERY", "d5/d4c/a02846.html#a5c653900d72bf0403ec77511d1086d16a687259080b82f5ca335c7ad54a72cdbf", null ],
+      [ "SPELL_DAN_EJECT", "d5/d4c/a02846.html#a5c653900d72bf0403ec77511d1086d16a0b5f472a4b63dabfec252720da5291ce", null ],
+      [ "PATH_DUSK", "d5/d4c/a02846.html#a5c653900d72bf0403ec77511d1086d16aeeba02a1660ad30f11e74226f7f70352", null ],
+      [ "NODE_DUSK_EJECT", "d5/d4c/a02846.html#a5c653900d72bf0403ec77511d1086d16a5fe093eefdb490fbc0c3d1eeddda5504", null ],
+      [ "POINT_DUSK_END", "d5/d4c/a02846.html#a5c653900d72bf0403ec77511d1086d16a970039cd7ac92e9bbfa7408dbad56afc", null ]
     ] ],
     [ "eDrakeHunt", "d5/d4c/a02846.html#ac3d28f1aad6c310215f801abd4286e71", [
       [ "SPELL_DRAKE_HATCHLING_SUBDUED", "d5/d4c/a02846.html#ac3d28f1aad6c310215f801abd4286e71a47d19b0d1180cb9dabde16931af99d71", null ],
@@ -111,7 +113,9 @@ var a02846 =
       [ "SPELL_FREED_WARSONG_MAGE", "d5/d4c/a02846.html#aa544932c38ff85244b22bb2cc3ae36caa0531386612b4f0ac7e08320993ae406a", null ],
       [ "SPELL_FREED_WARSONG_SHAMAN", "d5/d4c/a02846.html#aa544932c38ff85244b22bb2cc3ae36caabe628314503fae0d0b8239758cda3f70", null ],
       [ "SPELL_FREED_WARSONG_WARRIOR", "d5/d4c/a02846.html#aa544932c38ff85244b22bb2cc3ae36caa5174ecc59fe0ab7dc99c2d89e1f3c004", null ],
-      [ "SPELL_FREED_WARSONG_PEON", "d5/d4c/a02846.html#aa544932c38ff85244b22bb2cc3ae36caa9b76c76d294db83df1cc6506ca17f21a", null ]
+      [ "SPELL_FREED_WARSONG_PEON", "d5/d4c/a02846.html#aa544932c38ff85244b22bb2cc3ae36caa9b76c76d294db83df1cc6506ca17f21a", null ],
+      [ "SPELL_FREED_SOLDIER_DEBUFF", "d5/d4c/a02846.html#aa544932c38ff85244b22bb2cc3ae36caa25ad7bb1eeabf706e9f8ec2ab78ac6d4", null ],
+      [ "MAX_FREED_SOLDIERS", "d5/d4c/a02846.html#aa544932c38ff85244b22bb2cc3ae36caa9e42b763a54b558ca4cce927281ddf6d", null ]
     ] ],
     [ "NPCs", "d5/d4c/a02846.html#a6986ec7b2d3274669934af9795f26d5c", [
       [ "NPC_EMI_SHORTFUSE", "db/d38/a04088.html#a6986ec7b2d3274669934af9795f26d5ca9e4a9c0c7e0adc0ef8c70ad7a302078a", null ],
@@ -262,6 +266,10 @@ var a02846 =
       [ "NPC_HUNGARFEN", "dd/d74/a03476.html#a6986ec7b2d3274669934af9795f26d5ca4c9741a2689d39ebbdbcdb4c62af6a51", null ],
       [ "NPC_UNDERBOG_MUSHROOM", "dd/d74/a03476.html#a6986ec7b2d3274669934af9795f26d5cae2a004a214013d7bcbb198034ba1663c", null ],
       [ "NPC_GHAZAN", "dd/d74/a03476.html#a6986ec7b2d3274669934af9795f26d5cadbdc51501c67d1a7a538089511849597", null ]
+    ] ],
+    [ "RescueInjuredSoldier", "d5/d4c/a02846.html#a037d10edadc628a819668d1423dce3d3", [
+      [ "SPELL_SOLDIER_RESCUED", "d5/d4c/a02846.html#a037d10edadc628a819668d1423dce3d3a0d90e09d08c336fc0b8ae5d148d2688d", null ],
+      [ "SPELL_SOLDIER_RESCUED_CREDIT", "d5/d4c/a02846.html#a037d10edadc628a819668d1423dce3d3a7270608394b563fe8e6e948994a96b91", null ]
     ] ],
     [ "Sinkhole", "d5/d4c/a02846.html#abd65518da8e27d236b233422d5e9a8c4", [
       [ "GO_EXPLOSIVES_CART", "d5/d4c/a02846.html#abd65518da8e27d236b233422d5e9a8c4aedd9d6ec4a17069adbcf503754f4c1c0", null ],
@@ -3544,5 +3552,5 @@ var a02846 =
       [ "GO_VALIANCE_KEEP_CANNON_2", "d5/d4c/a02846.html#a1114a9936ddd85eff9c63846bf82e00da1c990405d3a98b7a3c95ee7d2c67b9c0", null ]
     ] ],
     [ "AddSC_borean_tundra", "d5/d4c/a02846.html#abe6e80b96bfca08ba67a03a41a1107be", null ],
-    [ "nerubarVictims", "d5/d4c/a02846.html#a593edc6836aced49ac3587952f3517a7", null ]
+    [ "nerubarCaptiveSpells", "d5/d4c/a02846.html#a2cba7854daddfe3fa4c0de0fb46049b2", null ]
 ];

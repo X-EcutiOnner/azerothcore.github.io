@@ -1,8 +1,8 @@
 var a20883 =
 [
-    [ "npc_pummeller", "da/d7c/a20883.html#a0c67bf3781fde8d4580aad093bf87291", null ],
-    [ "Reset", "da/d7c/a20883.html#abdb3f0984c03780aee9dd55496fc7835", null ],
-    [ "UpdateAI", "da/d7c/a20883.html#a9d61c35dc7f86314c6beb581539fd55d", null ],
-    [ "_instance", "da/d7c/a20883.html#a12df7fb27b7bd54d0bf60c3e5faee037", null ],
-    [ "_scheduler", "da/d7c/a20883.html#abc1ba4d0e95d33fe42af1014c2e8448f", null ]
+    [ "npc_scrapbot", "da/d7c/a20883.html#a088bac1bf5cb91be8f18368c08c5414a", null ],
+    [ "Reset", "da/d7c/a20883.html#a2dca509a6e2b46674165e5559717f69c", null ],
+    [ "UpdateAI", "da/d7c/a20883.html#ade90c75baf598900adaa300cef28cb6a", null ],
+    [ "_instance", "da/d7c/a20883.html#afb8296b4d9105ee99abc534656289ae2", null ],
+    [ "_scheduler", "da/d7c/a20883.html#a4deb841588ea244e4290bb8ffb69b483", null ]
 ];

@@ -1,5 +1,7 @@
 var a28003 =
 [
-    [ "achievement_bg_ic_mowed_down", "de/de3/a28003.html#ab05387d1e14958e87123bd0fc2188445", null ],
-    [ "OnCheck", "de/de3/a28003.html#a385e09c605084900f374090e5e19c24f", null ]
+    [ "HandleDummy", "de/de3/a28003.html#a120ae48454922c30b0df0a1caf464216", null ],
+    [ "PrepareSpellScript", "de/de3/a28003.html#ad8cde850116b8d4beef798724c6e4283", null ],
+    [ "Register", "de/de3/a28003.html#a516709e073a7cc84ada03058195da728", null ],
+    [ "Validate", "de/de3/a28003.html#ad647af566f06c7e76ef573f670d514ca", null ]
 ];

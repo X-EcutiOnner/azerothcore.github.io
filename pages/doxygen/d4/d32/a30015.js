@@ -1,5 +1,6 @@
 var a30015 =
 [
-    [ "SetUp", "d4/d32/a30015.html#a2f34b980c62df0c4cbebece70acb396f", null ],
-    [ "_unit", "d4/d32/a30015.html#ab0992f0862085b81aac8ec6680c590c1", null ]
+    [ "CreateArmorProcConfig", "d4/d32/a30015.html#aae16272567352cb8730edcba3908a08f", null ],
+    [ "CreateWeaponProcConfig", "d4/d32/a30015.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
+    [ "SetUp", "d4/d32/a30015.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
 ];

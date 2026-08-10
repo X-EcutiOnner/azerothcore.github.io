@@ -1,5 +1,7 @@
 var a23663 =
 [
-    [ "spellId", "d2/d1b/a23663.html#acc63d01d5095adef28b9746c520be973", null ],
-    [ "textId", "d2/d1b/a23663.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
+    [ "HandleDummyApply", "d2/d1b/a23663.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
+    [ "HandleDummyRemove", "d2/d1b/a23663.html#a5d68d9e15600119deca7179ffe00acda", null ],
+    [ "PrepareAuraScript", "d2/d1b/a23663.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
+    [ "Register", "d2/d1b/a23663.html#a094004ccf6b4cae4d27bca639b76b899", null ]
 ];

@@ -1,5 +1,6 @@
 var a20607 =
 [
-    [ "achievement_kologarn_looks_could_kill", "de/d12/a20607.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
-    [ "OnCheck", "de/d12/a20607.html#a0e7be4fb00808fab9a231530822fc93d", null ]
+    [ "OnPeriodic", "de/d12/a20607.html#a8a12342f694499043e8ed4446fd92d36", null ],
+    [ "PrepareAuraScript", "de/d12/a20607.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
+    [ "Register", "de/d12/a20607.html#a381709d53101832de6b2161c4a33a0d4", null ]
 ];

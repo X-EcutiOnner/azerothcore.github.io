@@ -14,12 +14,12 @@ var a20343 =
     [ "SpellHit", "d6/d6c/a20343.html#a3d449abdf7cc8241bedbcfe8f9d37175", null ],
     [ "SpellHitTarget", "d6/d6c/a20343.html#a22c4097731727de032fd6db3c9cef7cf", null ],
     [ "UpdateAI", "d6/d6c/a20343.html#a1ea7d6b65ceaa7d1c485685df40682f9", null ],
+    [ "_aliveAddsCount", "d6/d6c/a20343.html#a2994fd85d4fc14c93b5dd3b6113fe80b", null ],
     [ "_backToNature", "d6/d6c/a20343.html#ab29a12f6a5ff5fd6ce579ebfceb6323c", null ],
     [ "_deforestation", "d6/d6c/a20343.html#a6c3e874ea83c564c93b6c7599e1174bd", null ],
     [ "_elderGUID", "d6/d6c/a20343.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],
     [ "_lumberjacked", "d6/d6c/a20343.html#aa35101951b2d47848b69170ab36ae414", null ],
-    [ "_respawningTrio", "d6/d6c/a20343.html#a9e0326bd0eff372fca2b5e0e310dd1da", null ],
     [ "_setPermutation", "d6/d6c/a20343.html#a987265a1775e47ac50e873c38cc1a753", null ],
     [ "_spawnedAmount", "d6/d6c/a20343.html#aafbd2fcaccdc5890f513054d6840ed55", null ],
-    [ "_trioKilled", "d6/d6c/a20343.html#ae141a7cf3554c606738774fe96a371dc", null ]
+    [ "_trioDown", "d6/d6c/a20343.html#afbf5fcebd50f968b1171c443818a3949", null ]
 ];

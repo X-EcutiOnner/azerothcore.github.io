@@ -1,5 +1,8 @@
 var a23483 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d8/d4e/a23483.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
-    [ "Initialize", "d8/d4e/a23483.html#a9c7c10020eef3db4794283c0f946d086", null ]
+    [ "boss_the_black_stalker", "d8/d4e/a23483.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "d8/d4e/a23483.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "d8/d4e/a23483.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "d8/d4e/a23483.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "d8/d4e/a23483.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

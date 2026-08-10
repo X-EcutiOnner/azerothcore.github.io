@@ -1,8 +1,6 @@
 var a28471 =
 [
-    [ "npc_franklinAI", "d3/d51/a28475.html", "d3/d51/a28475" ],
-    [ "npc_franklin", "d9/d34/a28471.html#aab059dfa69e52083892e3170c8838e0a", null ],
-    [ "GetAI", "d9/d34/a28471.html#a10933878afe9d0cc78fa1113341fd522", null ],
-    [ "OnGossipHello", "d9/d34/a28471.html#a318d512914b135800caabe0efbb1c467", null ],
-    [ "OnGossipSelect", "d9/d34/a28471.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
+    [ "npc_preciousAI", "d3/d51/a28475.html", "d3/d51/a28475" ],
+    [ "npc_precious", "d9/d34/a28471.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
+    [ "GetAI", "d9/d34/a28471.html#a754ad85c8b1942b400a47c28297bad62", null ]
 ];

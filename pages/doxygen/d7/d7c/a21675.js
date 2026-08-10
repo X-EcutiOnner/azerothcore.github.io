@@ -1,6 +1,7 @@
 var a21675 =
 [
-    [ "npc_steam_powered_auctioneerAI", "db/d61/a21679.html", "db/d61/a21679" ],
-    [ "npc_steam_powered_auctioneer", "d7/d7c/a21675.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
-    [ "GetAI", "d7/d7c/a21675.html#a39a2f0c187078c759bc4a391e0a81068", null ]
+    [ "HandleScriptEffect", "d7/d7c/a21675.html#adc89459d7b6c073b8a60e08a9e3281cf", null ],
+    [ "PrepareSpellScript", "d7/d7c/a21675.html#a8f15bf27d9e54c1ee6c84f99f1f83d48", null ],
+    [ "Register", "d7/d7c/a21675.html#a86ef787e1db46e578a10ca25ac84ba87", null ],
+    [ "Validate", "d7/d7c/a21675.html#abeb8baf7dabf2d3acea4df79535770d2", null ]
 ];

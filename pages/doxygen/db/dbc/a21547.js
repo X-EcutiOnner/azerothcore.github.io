@@ -1,7 +1,7 @@
 var a21547 =
 [
-    [ "npc_violet_hold_defense_system", "db/dbc/a21547.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "db/dbc/a21547.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "db/dbc/a21547.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ],
-    [ "_tickCount", "db/dbc/a21547.html#a4a7504069b05480428278fd09d5e59ba", null ]
+    [ "npc_azure_captain", "db/dbc/a21547.html#abbdba89267506b8dd1e93ea0e059979c", null ],
+    [ "Reset", "db/dbc/a21547.html#ae9b8cc434f2b5690f3abc55d557cbd54", null ],
+    [ "UpdateAI", "db/dbc/a21547.html#a9aacf1533414ade27973ddcc46434978", null ],
+    [ "_events", "db/dbc/a21547.html#a6a69ea3d3eb75601f723a10eab68c260", null ]
 ];

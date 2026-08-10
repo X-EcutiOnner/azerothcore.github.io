@@ -1,6 +1,6 @@
 var a22211 =
 [
-    [ "npc_vekjik", "db/d89/a22211.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "db/d89/a22211.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "db/d89/a22211.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "HandleHealPct", "db/d89/a22211.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "db/d89/a22211.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "db/d89/a22211.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

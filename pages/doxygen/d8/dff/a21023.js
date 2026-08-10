@@ -1,11 +1,11 @@
 var a21023 =
 [
-    [ "boss_yoggsaron_voice", "d8/dff/a21023.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
-    [ "DoAction", "d8/dff/a21023.html#a094522e81d1d19de660b75fb06ea4224", null ],
-    [ "Reset", "d8/dff/a21023.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
-    [ "SpellHitTarget", "d8/dff/a21023.html#aae3b82dbb871f0f297bdacf975958492", null ],
-    [ "UpdateAI", "d8/dff/a21023.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
-    [ "_current", "d8/dff/a21023.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
-    [ "_targets", "d8/dff/a21023.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
-    [ "events", "d8/dff/a21023.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
+    [ "boss_yoggsaron_llane", "d8/dff/a21023.html#a42e3d189cff0da5995401e4bc8dfffdd", null ],
+    [ "NextStep", "d8/dff/a21023.html#ab8b6446fe7d424ad7d943af915cc4b8a", null ],
+    [ "Reset", "d8/dff/a21023.html#a0df3a85717ab26ad1ac889d6fe4d8007", null ],
+    [ "Say", "d8/dff/a21023.html#a0ae3106eac830ed9f14f17e5fa1d45ec", null ],
+    [ "UpdateAI", "d8/dff/a21023.html#a58ec957cd59b944439fe514e728e2902", null ],
+    [ "_checkTimer", "d8/dff/a21023.html#a3043382e2727bc78a74acaec28697045", null ],
+    [ "_running", "d8/dff/a21023.html#ab7e1b1ed82f311b12f28f1622e6ad378", null ],
+    [ "_step", "d8/dff/a21023.html#a91a71f85bab9e4d1234964ef534e51c2", null ]
 ];

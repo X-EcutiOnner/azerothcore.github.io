@@ -1,6 +1,6 @@
 var a27447 =
 [
-    [ "HandlePeriodic", "da/d63/a27447.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
-    [ "PrepareAuraScript", "da/d63/a27447.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
-    [ "Register", "da/d63/a27447.html#ac90afe9f5d9d55faba2282a875469311", null ]
+    [ "CheckProc", "da/d63/a27447.html#ae8f06d0b6738c92a2e4a45fe0ca81cb9", null ],
+    [ "PrepareAuraScript", "da/d63/a27447.html#aafd3eba8af1edb89ded08b056f9b497c", null ],
+    [ "Register", "da/d63/a27447.html#aeb1d84b45afc05b8b9ca5cea2a50f5a4", null ]
 ];

@@ -1,6 +1,7 @@
 var a27571 =
 [
-    [ "CheckProc", "d1/d71/a27571.html#a945c4617cba249ee76045ce032f12c3c", null ],
-    [ "PrepareAuraScript", "d1/d71/a27571.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
-    [ "Register", "d1/d71/a27571.html#a912dd7ea10038103bb6d242bb7723830", null ]
+    [ "PeriodicTick", "d1/d71/a27571.html#a0093da1cb71f87bb7302bf6ccc9a255c", null ],
+    [ "PrepareAuraScript", "d1/d71/a27571.html#afd362a7dd0373e9480445a99023a5c8c", null ],
+    [ "Register", "d1/d71/a27571.html#a0332788648661d5c2665c5d1431e4ca7", null ],
+    [ "Validate", "d1/d71/a27571.html#aecb5c0c9f5258a3ce7ff18cf08f89845", null ]
 ];

@@ -1,7 +1,6 @@
 var a27971 =
 [
-    [ "HandleProc", "dc/d90/a27971.html#ae41ac4278c643bcd14ff4ab0ecc6dc46", null ],
-    [ "PrepareAuraScript", "dc/d90/a27971.html#abdb4073728e7e637a8538a238eda2f6d", null ],
-    [ "Register", "dc/d90/a27971.html#a052f2a48c2b30b5e83c95eb4aada0899", null ],
-    [ "Validate", "dc/d90/a27971.html#a04085f70b61ea7ff2073a1cd777eca1b", null ]
+    [ "HandleOnHit", "dc/d90/a27971.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "dc/d90/a27971.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "dc/d90/a27971.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

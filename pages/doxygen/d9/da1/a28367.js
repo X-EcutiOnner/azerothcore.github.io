@@ -1,10 +1,5 @@
 var a28367 =
 [
-    [ "guard_shattrath_scryerAI", "d9/da1/a28367.html#a97accbf467ca1190f8a05512b3857164", null ],
-    [ "Reset", "d9/da1/a28367.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
-    [ "UpdateAI", "d9/da1/a28367.html#ad759cca08b0093522e190ddc038e2c73", null ],
-    [ "banishTimer", "d9/da1/a28367.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
-    [ "canTeleport", "d9/da1/a28367.html#a84188b40b44deae5714466bb23bf2f0d", null ],
-    [ "exileTimer", "d9/da1/a28367.html#a97fbc3f54c23049fd91ad432cd560698", null ],
-    [ "playerGUID", "d9/da1/a28367.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
+    [ "go_massive_seaforium_charge", "d9/da1/a28367.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "d9/da1/a28367.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

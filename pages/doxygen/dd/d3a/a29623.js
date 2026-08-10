@@ -1,7 +1,15 @@
 var a29623 =
 [
-    [ "flatModifier", "dd/d3a/a29623.html#a781485dfaede63716eddba66971600e3", null ],
-    [ "hasSpellModOwner", "dd/d3a/a29623.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
-    [ "hasSpellProto", "dd/d3a/a29623.html#a96607da311b5774eeaa01674d32ab22e", null ],
-    [ "pctModifier", "dd/d3a/a29623.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
+    [ "DamageInfoStubBuilder", "dd/d3a/a29623.html#a282b4f92722f9cf12358a9f603df6902", null ],
+    [ "Build", "dd/d3a/a29623.html#ad50ac35ca7a10f0eb20383fbde4a54dc", null ],
+    [ "WithAbsorb", "dd/d3a/a29623.html#a3533bbda604c4ed6ac467f28ecb60fbe", null ],
+    [ "WithAttackType", "dd/d3a/a29623.html#a4fd9332aa42002056d3f9191cd4435d7", null ],
+    [ "WithBlock", "dd/d3a/a29623.html#a81381d471627ddd6e86678551ca4ab5b", null ],
+    [ "WithDamage", "dd/d3a/a29623.html#abf9d30cde831f2094a181a312bcfe9df", null ],
+    [ "WithHitMask", "dd/d3a/a29623.html#a161f5ea9ae33541dfcfd600fc5546b20", null ],
+    [ "WithOriginalDamage", "dd/d3a/a29623.html#a3265aa4aa273cc9ededb6c9673f6c9e3", null ],
+    [ "WithResist", "dd/d3a/a29623.html#a76827724d8b8d780dc5d136ca01e51e6", null ],
+    [ "WithSchoolMask", "dd/d3a/a29623.html#ab540fcb56c4034daea104a1b844bdb3a", null ],
+    [ "WithSpellInfo", "dd/d3a/a29623.html#a681fe7d0c7f3b4136ad4ba2a662e6393", null ],
+    [ "_stub", "dd/d3a/a29623.html#abf06c6b638dcd9489fa0e3d755433514", null ]
 ];

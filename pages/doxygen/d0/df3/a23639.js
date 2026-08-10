@@ -1,7 +1,6 @@
 var a23639 =
 [
-    [ "HandleDummyApply", "d0/df3/a23639.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
-    [ "HandleDummyRemove", "d0/df3/a23639.html#a5d68d9e15600119deca7179ffe00acda", null ],
-    [ "PrepareAuraScript", "d0/df3/a23639.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
-    [ "Register", "d0/df3/a23639.html#a094004ccf6b4cae4d27bca639b76b899", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "df/d90/a23643.html", "df/d90/a23643" ],
+    [ "instance_hellfire_ramparts", "d0/df3/a23639.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "d0/df3/a23639.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

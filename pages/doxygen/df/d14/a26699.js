@@ -1,9 +1,7 @@
 var a26699 =
 [
-    [ "Load", "df/d14/a26699.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "df/d14/a26699.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "df/d14/a26699.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "df/d14/a26699.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "df/d14/a26699.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "df/d14/a26699.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "CheckAreaTarget", "df/d14/a26699.html#a2d240518259d2452d263fc436de5056e", null ],
+    [ "PrepareAuraScript", "df/d14/a26699.html#a0b97b273f13805f027e5f5113d4a8e40", null ],
+    [ "Register", "df/d14/a26699.html#a50406feea1b2cf34ad101a3b1fd25d7c", null ],
+    [ "Validate", "df/d14/a26699.html#adfd1ccae4029680415409df737aa2533", null ]
 ];

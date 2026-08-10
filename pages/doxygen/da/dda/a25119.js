@@ -1,6 +1,6 @@
 var a25119 =
 [
-    [ "ModDest", "da/dda/a25119.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "da/dda/a25119.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "da/dda/a25119.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "CheckLevel", "da/dda/a25119.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
+    [ "PrepareSpellScript", "da/dda/a25119.html#abc2bcce83810661ab462f56594066df3", null ],
+    [ "Register", "da/dda/a25119.html#add6731563bd9a26d8f286bd29ffc8709", null ]
 ];

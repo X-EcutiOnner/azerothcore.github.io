@@ -1,8 +1,8 @@
 var a28487 =
 [
-    [ "npc_elder_clearwaterAI", "d4/d1a/a28491.html", "d4/d1a/a28491" ],
-    [ "npc_elder_clearwater", "d0/db6/a28487.html#abeee1650938a71762bb0c148ea9834d1", null ],
-    [ "GetAI", "d0/db6/a28487.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
-    [ "OnGossipHello", "d0/db6/a28487.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
-    [ "OnQuestReward", "d0/db6/a28487.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
+    [ "npc_nelsonAI", "d4/d1a/a28491.html", "d4/d1a/a28491" ],
+    [ "npc_nelson", "d0/db6/a28487.html#ada597926a6db1aa7823ddabc19945b11", null ],
+    [ "GetAI", "d0/db6/a28487.html#a75fea281fb49249345c48236bf44b1c8", null ],
+    [ "OnGossipHello", "d0/db6/a28487.html#aa693b365a15d4617f214f9c3c229bf89", null ],
+    [ "OnGossipSelect", "d0/db6/a28487.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
 ];

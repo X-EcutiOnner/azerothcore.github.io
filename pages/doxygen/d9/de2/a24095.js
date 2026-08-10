@@ -1,7 +1,10 @@
 var a24095 =
 [
-    [ "npc_maghar_captiveAI", "dd/d7d/a24099.html", "dd/d7d/a24099" ],
-    [ "npc_maghar_captive", "d9/de2/a24095.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
-    [ "GetAI", "d9/de2/a24095.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
-    [ "OnQuestAccept", "d9/de2/a24095.html#a0cd3a423866b9b5449f8efc729b69c27", null ]
+    [ "npc_wounded_blood_elfAI", "d9/de2/a24095.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "d9/de2/a24095.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "d9/de2/a24095.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "d9/de2/a24095.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "d9/de2/a24095.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "d9/de2/a24095.html#a5affcb00e28a582f8926ab2226001cd0", null ],
+    [ "WaypointReached", "d9/de2/a24095.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

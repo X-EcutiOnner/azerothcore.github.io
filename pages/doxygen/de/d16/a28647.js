@@ -1,5 +1,6 @@
 var a28647 =
 [
-    [ "npc_controller", "de/d16/a28647.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "de/d16/a28647.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "npc_stable_masterAI", "d2/d95/a28651.html", "d2/d95/a28651" ],
+    [ "npc_stable_master", "de/d16/a28647.html#ad327340f47e10bec7f077192227b0899", null ],
+    [ "GetAI", "de/d16/a28647.html#a7e34e18d2dad465eb88b0388fa830490", null ]
 ];

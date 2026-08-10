@@ -1,6 +1,5 @@
 var a28091 =
 [
-    [ "AreaTrigger_at_brewfest", "d2/d26/a28091.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
-    [ "OnTrigger", "d2/d26/a28091.html#a17e4a8d671136466c7673789e4f69a84", null ],
-    [ "_triggerTimes", "d2/d26/a28091.html#ab763765427796ad17338bcc8d63cf891", null ]
+    [ "AreaTrigger_at_legion_teleporter", "d2/d26/a28091.html#a2b648bd038f41025c19338367c696d25", null ],
+    [ "OnTrigger", "d2/d26/a28091.html#ae8239e5ad56d93627102dbd02989353d", null ]
 ];

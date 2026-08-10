@@ -1,8 +1,6 @@
 var a22303 =
 [
-    [ "npc_freed_protodrakeAI", "d3/de0/a22303.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "d3/de0/a22303.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "d3/de0/a22303.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "d3/de0/a22303.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "d3/de0/a22303.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "npc_time_lost_proto_drakeAI", "d6/d7c/a22307.html", "d6/d7c/a22307" ],
+    [ "npc_time_lost_proto_drake", "d3/de0/a22303.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "d3/de0/a22303.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

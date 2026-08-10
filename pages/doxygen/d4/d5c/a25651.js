@@ -1,10 +1,8 @@
 var a25651 =
 [
-    [ "Load", "d4/d5c/a25651.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
-    [ "OnApply", "d4/d5c/a25651.html#a83d922c434442e22482410d61aa0198f", null ],
-    [ "OnPetApply", "d4/d5c/a25651.html#a6df5e59e29cb89310a1c78bf93029545", null ],
-    [ "OnRemove", "d4/d5c/a25651.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
-    [ "PrepareAuraScript", "d4/d5c/a25651.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
-    [ "Register", "d4/d5c/a25651.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
-    [ "Validate", "d4/d5c/a25651.html#ab318472ea9f4aaa79e45f18783586eed", null ]
+    [ "HandleEffectApply", "d4/d5c/a25651.html#a4af5930ce6445088070495765c78361c", null ],
+    [ "HandleEffectRemove", "d4/d5c/a25651.html#a6073ef880b4fa786b8f97567278904d8", null ],
+    [ "Load", "d4/d5c/a25651.html#a3e27cef303df9bc16e895ab65c7764b6", null ],
+    [ "PrepareAuraScript", "d4/d5c/a25651.html#a7b40247e633e734f7152352cd22599d9", null ],
+    [ "Register", "d4/d5c/a25651.html#a833b246d44bf09fda626eff0c11f6ee8", null ]
 ];

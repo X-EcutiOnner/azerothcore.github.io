@@ -1,12 +1,9 @@
 var a24595 =
 [
-    [ "CheckTarget", "d6/df6/a24595.html#a731aa2c0a2b67b8a15cab72ea2cb961a", null ],
-    [ "CheckTargets", "d6/df6/a24595.html#a3b5bbef0c43a600387235822f3c6dbc7", null ],
-    [ "HandleCorpseExplosion", "d6/df6/a24595.html#a201de2ee86d0cf954117df0e5343ee69", null ],
-    [ "HandleDamage", "d6/df6/a24595.html#a810fc65eb5d7160366d63210bad9caea", null ],
-    [ "Load", "d6/df6/a24595.html#a00b45e2f466de39c95251c2a38f6c3bd", null ],
-    [ "PrepareSpellScript", "d6/df6/a24595.html#a4cae1673a840d8ec0d727b881a3616cf", null ],
-    [ "Register", "d6/df6/a24595.html#a9e67ea51300569a0e163cb3e427b086e", null ],
-    [ "Validate", "d6/df6/a24595.html#a93984e8b831cb4c37ec2726d44532d43", null ],
-    [ "_target", "d6/df6/a24595.html#a5028b9d3166270b2b0557943e962eade", null ]
+    [ "Absorb", "d6/df6/a24595.html#ade7f8805491a627cf3e8accdee178f3e", null ],
+    [ "CalculateAmount", "d6/df6/a24595.html#a1194d2bd96632cbc3eab58300a5f9a46", null ],
+    [ "Load", "d6/df6/a24595.html#a49277dbcc2d7cc79f29226e9b242120b", null ],
+    [ "PrepareAuraScript", "d6/df6/a24595.html#a9eb3dc519bd595b7c0193ae3519c136e", null ],
+    [ "Register", "d6/df6/a24595.html#a730528baddf2087fb1c0898ac7ad76c5", null ],
+    [ "absorbPct", "d6/df6/a24595.html#a58c03a57bdfcba203159ae38683fdf14", null ]
 ];

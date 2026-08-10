@@ -1,12 +1,9 @@
 var a29755 =
 [
-    [ "SetUp", "dc/df3/a29755.html#a58cd90b7a71da405118c094ff47fc6ca", null ],
-    [ "TearDown", "dc/df3/a29755.html#a07e717efe62018e9f8f646a81afbb567", null ],
-    [ "PERM_A", "dc/df3/a29755.html#a38613fb2c500e82fe60a520cfa67e754", null ],
-    [ "PERM_B", "dc/df3/a29755.html#a4e9d8cbc4d41fa8dfbbf600bb8188b4c", null ],
-    [ "PERM_C", "dc/df3/a29755.html#a819e1345b06cac6338459683c702d355", null ],
-    [ "PERM_MOD_1", "dc/df3/a29755.html#a4069369cc39fcca52fa6430a4778d86f", null ],
-    [ "ROLE_PLAYER", "dc/df3/a29755.html#a72830036ef06ce28131379219963c7cb", null ],
-    [ "SEC_MODERATOR", "dc/df3/a29755.html#abe3cf16e5aeaf4ca6ef0e8c989ef6917", null ],
-    [ "SEC_PLAYER", "dc/df3/a29755.html#a411050ede39af85c2846fcc154f140e3", null ]
+    [ "SetUp", "dc/df3/a29755.html#a664590f345cd02660adef326355c7ca2", null ],
+    [ "TearDown", "dc/df3/a29755.html#a366e1170be6f12739b2688c71763c8f0", null ],
+    [ "PERM_BAN", "dc/df3/a29755.html#a393626fe7635a8452e69207085037782", null ],
+    [ "PERM_KICK", "dc/df3/a29755.html#aa9b8c1e73b4828100386186637e30e90", null ],
+    [ "rbacData", "dc/df3/a29755.html#a6e7cb23ddb2dc22611255dff42c85e89", null ],
+    [ "ROLE_GM", "dc/df3/a29755.html#ac5d61d965657eccc145d01670a6f27bc", null ]
 ];

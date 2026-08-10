@@ -1,9 +1,6 @@
 var a22439 =
 [
-    [ "HandleFinish", "d2/d26/a22439.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "d2/d26/a22439.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "d2/d26/a22439.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "d2/d26/a22439.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "d2/d26/a22439.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "d2/d26/a22439.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "npc_wg_siege_machineAI", "db/d87/a22443.html", "db/d87/a22443" ],
+    [ "npc_wg_siege_machine", "d2/d26/a22439.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
+    [ "GetAI", "d2/d26/a22439.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
 ];

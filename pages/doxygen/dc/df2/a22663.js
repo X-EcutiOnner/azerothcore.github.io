@@ -1,8 +1,8 @@
 var a22663 =
 [
-    [ "boss_tavarok", "dc/df2/a22663.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
-    [ "JustDied", "dc/df2/a22663.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
-    [ "JustEngagedWith", "dc/df2/a22663.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
-    [ "KilledUnit", "dc/df2/a22663.html#a2c99df9457c548ee562fde920592ea88", null ],
-    [ "Reset", "dc/df2/a22663.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
+    [ "CalcPeriodic", "dc/df2/a22663.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
+    [ "OnRemove", "dc/df2/a22663.html#af120bb9d6a0c3d338706613540849412", null ],
+    [ "PrepareAuraScript", "dc/df2/a22663.html#ad413f14193013058e1775f80b457a81d", null ],
+    [ "Register", "dc/df2/a22663.html#aa35fc5865f108712e450661e67c384ce", null ],
+    [ "Update", "dc/df2/a22663.html#aebc61b57ed8038488ec06c14483b2099", null ]
 ];

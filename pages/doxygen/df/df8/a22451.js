@@ -1,6 +1,8 @@
 var a22451 =
 [
-    [ "HandlePeriodicDummy", "df/df8/a22451.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "df/df8/a22451.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "df/df8/a22451.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "go_wg_vehicle_teleporterAI", "df/df8/a22451.html#af84e73765b1a4d810b41613824999186", null ],
+    [ "IsFriendly", "df/df8/a22451.html#adca817c8919958db888d5e9c759ad545", null ],
+    [ "IsValidVehicle", "df/df8/a22451.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
+    [ "UpdateAI", "df/df8/a22451.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
+    [ "_checkTimer", "df/df8/a22451.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
 ];

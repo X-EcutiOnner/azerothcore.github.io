@@ -1,5 +1,6 @@
 var a23679 =
 [
-    [ "at_rp_nethekurse", "d3/dc5/a23679.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
-    [ "_OnTrigger", "d3/dc5/a23679.html#a93001d6dda7b2711f1efe100ffab5879", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "d3/d96/a23683.html", "d3/d96/a23683" ],
+    [ "instance_magtheridons_lair", "d3/dc5/a23679.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
+    [ "GetInstanceScript", "d3/dc5/a23679.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
 ];

@@ -1,7 +1,8 @@
 var a26003 =
 [
-    [ "HandleDummy", "d1/d80/a26003.html#a7a8016e1403caa0432242c5c3240f107", null ],
-    [ "PrepareSpellScript", "d1/d80/a26003.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
-    [ "Register", "d1/d80/a26003.html#abd09f5df3f31af619f24214f90791a53", null ],
-    [ "Validate", "d1/d80/a26003.html#ab14aedfdb61d54334f60e57968fcf081", null ]
+    [ "HandleProc", "d1/d80/a26003.html#ad92c7804b26bd29d135e55c8adad9093", null ],
+    [ "OnRemove", "d1/d80/a26003.html#afa8e065ed835243f3ebb95c10792adf8", null ],
+    [ "PrepareAuraScript", "d1/d80/a26003.html#a5e986f77b23fd0402089ea36f0360c79", null ],
+    [ "Register", "d1/d80/a26003.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
+    [ "Validate", "d1/d80/a26003.html#a51f81afec6ff0918530208d9de9dae24", null ]
 ];

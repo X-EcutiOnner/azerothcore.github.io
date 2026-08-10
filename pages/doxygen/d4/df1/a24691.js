@@ -1,7 +1,11 @@
 var a24691 =
 [
-    [ "HandleProc", "d4/df1/a24691.html#a1c9c503e64b8e9060e7af700aabdf30b", null ],
-    [ "PrepareAuraScript", "d4/df1/a24691.html#a9aa6b540ab7061d48290eb2a49113adf", null ],
-    [ "Register", "d4/df1/a24691.html#a142a1a5d27b714935aa5e05619e06ae3", null ],
-    [ "Validate", "d4/df1/a24691.html#a88cb3af37d3133f95355634c8bd98d61", null ]
+    [ "HandleAfterHit", "d4/df1/a24691.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
+    [ "HandleDummy", "d4/df1/a24691.html#abb3f92850fa6fff94c682b990c361fe6", null ],
+    [ "Load", "d4/df1/a24691.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
+    [ "PrepareSpellScript", "d4/df1/a24691.html#adea0e24654cd87b3aee07ce2183b9517", null ],
+    [ "Register", "d4/df1/a24691.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
+    [ "Validate", "d4/df1/a24691.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
+    [ "guid", "d4/df1/a24691.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
+    [ "multiplier", "d4/df1/a24691.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
 ];

@@ -1,7 +1,6 @@
 var a23999 =
 [
-    [ "OnPeriodic", "d1/d16/a23999.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "d1/d16/a23999.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "d1/d16/a23999.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "d1/d16/a23999.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "instance_mechanar_InstanceMapScript", "d9/d19/a24003.html", "d9/d19/a24003" ],
+    [ "instance_mechanar", "d1/d16/a23999.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
+    [ "GetInstanceScript", "d1/d16/a23999.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
 ];

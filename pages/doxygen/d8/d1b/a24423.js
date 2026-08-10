@@ -1,10 +1,7 @@
 var a24423 =
 [
-    [ "npc_pet_gen_plump_turkey", "d8/d1b/a24423.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
-    [ "MovementInform", "d8/d1b/a24423.html#af27c91388891add6d00e251bf3187743", null ],
-    [ "UpdateAI", "d8/d1b/a24423.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
-    [ "checkTimer", "d8/d1b/a24423.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
-    [ "goGUID", "d8/d1b/a24423.html#a5fa88e045430adea9e72a3744bf72780", null ],
-    [ "jumping", "d8/d1b/a24423.html#a8486512b7594f2ce759fcb580f1baf34", null ],
-    [ "jumpTimer", "d8/d1b/a24423.html#ad53a9abad41ab6a792a55b854155135d", null ]
+    [ "npc_pet_gen_target_following_bomb", "d8/d1b/a24423.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "d8/d1b/a24423.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "d8/d1b/a24423.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "d8/d1b/a24423.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

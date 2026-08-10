@@ -1,6 +1,9 @@
 var a21003 =
 [
-    [ "boss_yoggsaron_influence_tentacle", "d1/dc8/a21003.html#ac5908d64a4749303a08d352d470995dd", null ],
-    [ "DamageTaken", "d1/dc8/a21003.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
-    [ "JustDied", "d1/dc8/a21003.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
+    [ "boss_yoggsaron_keeper", "d1/dc8/a21003.html#ad2098933656371b1bf80ec3ea859c418", null ],
+    [ "Activate", "d1/dc8/a21003.html#a54edd78e856dbf519a0e2d76ae781ab8", null ],
+    [ "DoAction", "d1/dc8/a21003.html#a9e3d251810b55072458003356213ae15", null ],
+    [ "JustSummoned", "d1/dc8/a21003.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
+    [ "UpdateAI", "d1/dc8/a21003.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
+    [ "_summons", "d1/dc8/a21003.html#aa840eff5f3d8b24225046113737936b4", null ]
 ];

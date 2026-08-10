@@ -1,8 +1,8 @@
 var a27791 =
 [
-    [ "ApplyEffect", "de/d77/a27791.html#ad29ed182a00516e736bb8d1381f4ac84", null ],
-    [ "HandleEffectPeriodicUpdate", "de/d77/a27791.html#ad5319328c018dbb3ddbd58bfc08589c4", null ],
-    [ "PrepareAuraScript", "de/d77/a27791.html#a7673ff384e88fa76efa52ecb60b97d9b", null ],
-    [ "Register", "de/d77/a27791.html#ade5af0ec82bc43d89919ceaaa31bce20", null ],
-    [ "_tick_amount", "de/d77/a27791.html#a33d9f114efa50a2fdfe7a17852a474f7", null ]
+    [ "ApplyEffect", "de/d77/a27791.html#a0c303c58064236969e17d1f2df3e0556", null ],
+    [ "PrepareAuraScript", "de/d77/a27791.html#a716a483282946f840ac15d73c6e21a94", null ],
+    [ "Register", "de/d77/a27791.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
+    [ "RemoveEffect", "de/d77/a27791.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
+    [ "Validate", "de/d77/a27791.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
 ];

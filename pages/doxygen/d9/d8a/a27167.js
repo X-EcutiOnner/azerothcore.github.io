@@ -1,6 +1,6 @@
 var a27167 =
 [
-    [ "HandleDummy", "d9/d8a/a27167.html#afb85971597df327fa44271ee0c4b3d04", null ],
-    [ "PrepareSpellScript", "d9/d8a/a27167.html#a43052fedbec62cfbdbbf24fbfcbca047", null ],
-    [ "Register", "d9/d8a/a27167.html#a7a249dd2bcdccf1a19d151d041a25215", null ]
+    [ "HandleDummy", "d9/d8a/a27167.html#a39c913c3e3225a9b27d17d4ceadd3c70", null ],
+    [ "PrepareSpellScript", "d9/d8a/a27167.html#a7936186af106ae3ddeec3bc9b39ff127", null ],
+    [ "Register", "d9/d8a/a27167.html#aa8ce1f0413e19d8f6d403b220fc6749c", null ]
 ];

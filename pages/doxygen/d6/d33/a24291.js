@@ -1,6 +1,6 @@
 var a24291 =
 [
-    [ "npc_kservantAI", "de/d0c/a24295.html", "de/d0c/a24295" ],
-    [ "npc_kservant", "d6/d33/a24291.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "d6/d33/a24291.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "de/d0c/a24295.html", "de/d0c/a24295" ],
+    [ "npc_shadowmoon_tuber_node", "d6/d33/a24291.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "d6/d33/a24291.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

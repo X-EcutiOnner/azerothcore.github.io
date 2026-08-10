@@ -1,6 +1,7 @@
 var a25839 =
 [
-    [ "OnBaseRemove", "d5/da9/a25839.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "PrepareAuraScript", "d5/da9/a25839.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "d5/da9/a25839.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "CalcPeriodic", "d5/da9/a25839.html#a5847ba4daad49dca2527513055fa4429", null ],
+    [ "PrepareAuraScript", "d5/da9/a25839.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
+    [ "Register", "d5/da9/a25839.html#a08f851e5582831d5dd05878c4a55db67", null ],
+    [ "Update", "d5/da9/a25839.html#a3ab2716cbccc1311992de44e6591d966", null ]
 ];

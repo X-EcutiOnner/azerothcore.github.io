@@ -1,7 +1,7 @@
 var a27851 =
 [
-    [ "HandleApplyAura", "d2/d02/a27851.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "d2/d02/a27851.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "d2/d02/a27851.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "d2/d02/a27851.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "HandleProc", "d2/d02/a27851.html#a1ebfd477399cbac2cba33cfd90db72e6", null ],
+    [ "PrepareAuraScript", "d2/d02/a27851.html#aadbaea984fedb04e77b92174efd5e83d", null ],
+    [ "Register", "d2/d02/a27851.html#aedd1652a571275a305db70fbbe6f725c", null ],
+    [ "Validate", "d2/d02/a27851.html#a28c281aeef80409b419753f71da80f92", null ]
 ];

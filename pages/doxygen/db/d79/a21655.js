@@ -1,6 +1,6 @@
 var a21655 =
 [
-    [ "PrepareSpellScript", "db/d79/a21655.html#a072a5228690b929af3b65d771bf5f485", null ],
-    [ "Register", "db/d79/a21655.html#a87235eb9494edd94221f0380e815aa6b", null ],
-    [ "SetDest", "db/d79/a21655.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
+    [ "npc_bloodmage_laurithAI", "d3/d2e/a21659.html", "d3/d2e/a21659" ],
+    [ "npc_bloodmage_laurith", "db/d79/a21655.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
+    [ "GetAI", "db/d79/a21655.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
 ];

@@ -1,7 +1,10 @@
 var a25763 =
 [
-    [ "HandleProc", "d9/d63/a25763.html#a8e35d9e56b5d896b23844e8075c746d7", null ],
-    [ "PrepareAuraScript", "d9/d63/a25763.html#a56c8ada8651cfd024cc7514417b986d6", null ],
-    [ "Register", "d9/d63/a25763.html#a818ed2117c52a53939df5bf4d035854f", null ],
-    [ "Validate", "d9/d63/a25763.html#ad9239fbe538bdc0019c60ef461c6c8ca", null ]
+    [ "CheckPeriodicProc", "d9/d63/a25763.html#abd7673f268b80681b27a862bd8013de3", null ],
+    [ "CheckProc", "d9/d63/a25763.html#a439aa5395d222291fbd5943f853d8961", null ],
+    [ "CheckTrapProc", "d9/d63/a25763.html#a0cbe419bde5ebc30dc599bbdd99d04eb", null ],
+    [ "HandleProc", "d9/d63/a25763.html#a70fbabc5f07bfff080fe9af6f12d440e", null ],
+    [ "PrepareAuraScript", "d9/d63/a25763.html#a475320d20875b2d710ed3734b78f4645", null ],
+    [ "Register", "d9/d63/a25763.html#aca7649a87ace4e22793ca33705b1500c", null ],
+    [ "Validate", "d9/d63/a25763.html#a45630b6dc703996321286ff16a17e3e3", null ]
 ];

@@ -1,7 +1,6 @@
 var a25903 =
 [
-    [ "CheckProc", "df/dce/a25903.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
-    [ "HandleProc", "df/dce/a25903.html#a27569fe686e50246768fca4a7625fe0d", null ],
-    [ "PrepareAuraScript", "df/dce/a25903.html#a4f4eaa4aeeac9257804957671c16233f", null ],
-    [ "Register", "df/dce/a25903.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
+    [ "HandleDummy", "df/dce/a25903.html#ade4c16273ebefaeefac3bfb51c61d19a", null ],
+    [ "PrepareSpellScript", "df/dce/a25903.html#adfa89e065aa18b3e11998331c426151a", null ],
+    [ "Register", "df/dce/a25903.html#ab37569c6b2362220cbce92eb184cc6db", null ]
 ];

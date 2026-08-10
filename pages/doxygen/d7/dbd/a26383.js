@@ -1,7 +1,6 @@
 var a26383 =
 [
-    [ "HandleProc", "d7/dbd/a26383.html#a6cf02cf1ae3c9b2c24be6dd0d5c13528", null ],
-    [ "PrepareAuraScript", "d7/dbd/a26383.html#a97c9a39b38c3cd74962a1cc7102cbe70", null ],
-    [ "Register", "d7/dbd/a26383.html#a18da1331c481cd3871194f8af735b6df", null ],
-    [ "Validate", "d7/dbd/a26383.html#ab5ab7a31b40a88f147fae1e49bc4364e", null ]
+    [ "HandleStackDrop", "d7/dbd/a26383.html#a8e452c968558f3bd273b18a8055745d2", null ],
+    [ "PrepareAuraScript", "d7/dbd/a26383.html#aa18e4975db4e2831c61f38d990886676", null ],
+    [ "Register", "d7/dbd/a26383.html#a04ebc4be3fea42ca2352fd441841f76e", null ]
 ];

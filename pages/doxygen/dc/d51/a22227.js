@@ -1,10 +1,5 @@
 var a22227 =
 [
-    [ "npc_engineer_heliceAI", "dc/d51/a22227.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
-    [ "JustDied", "dc/d51/a22227.html#aba224727b86a2bfc39a47b70b424ccef", null ],
-    [ "Reset", "dc/d51/a22227.html#ade3f7f526dd8973c155aafb939db3778", null ],
-    [ "UpdateAI", "dc/d51/a22227.html#a1c333511dd6e82cd22af111e12a701c4", null ],
-    [ "WaypointReached", "dc/d51/a22227.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
-    [ "WaypointReached", "dc/d51/a22227.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "m_uiChatTimer", "dc/d51/a22227.html#aa305bc2b5711d0745650f80275204ea8", null ]
+    [ "go_pressure_valve", "dc/d51/a22227.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
+    [ "OnGossipHello", "dc/d51/a22227.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
 ];

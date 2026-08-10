@@ -739,11 +739,11 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  718</span>    player-&gt;<a class="code hl_function" href="../../d5/d74/a09163.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(player, <a class="code hl_enumvalue" href="../../d7/def/a01538.html#aa0346f3f211a62e6d5b326063d0efb64aecb99db12cb3eceeb54ca44915b03882">SPELL_WAITING_FOR_RESURRECT</a>, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  719</span>}</div>
 <div class="ttc" id="aa01538_html_aa0346f3f211a62e6d5b326063d0efb64aecb99db12cb3eceeb54ca44915b03882"><div class="ttname"><a href="../../d7/def/a01538.html#aa0346f3f211a62e6d5b326063d0efb64aecb99db12cb3eceeb54ca44915b03882">SPELL_WAITING_FOR_RESURRECT</a></div><div class="ttdeci">@ SPELL_WAITING_FOR_RESURRECT</div><div class="ttdef"><b>Definition:</b> Battleground.h:128</div></div>
-<div class="ttc" id="aa05141_html_a9ede56180a13f102ad195136eadb97ee"><div class="ttname"><a href="../../dd/dfc/a05141.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a></div><div class="ttdeci">Player * FindPlayer(ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:245</div></div>
+<div class="ttc" id="aa05141_html_a9ede56180a13f102ad195136eadb97ee"><div class="ttname"><a href="../../dd/dfc/a05141.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a></div><div class="ttdeci">Player * FindPlayer(ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:269</div></div>
 <div class="ttc" id="aa09031_html"><div class="ttname"><a href="../../d9/d85/a09031.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1086</div></div>
 <div class="ttc" id="aa09163_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../d5/d74/a09163.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:1361</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01361">Unit::CastSpell()</a>, <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, and <a class="el" href="../../#l00128">SPELL_WAITING_FOR_RESURRECT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01361">Unit::CastSpell()</a>, <a class="el" href="../../#l00269">ObjectAccessor::FindPlayer()</a>, and <a class="el" href="../../#l00128">SPELL_WAITING_FOR_RESURRECT</a>.</p>
 
 </div>
 </div>
@@ -906,7 +906,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00382">Active</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l05661">Spell::CheckCast()</a>, <a class="el" href="../../#l04116">spell_gen_mount::HandleMount()</a>, and <a class="el" href="../../#l01062">SpellArea::IsFitToRequirements()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05662">Spell::CheckCast()</a>, <a class="el" href="../../#l04143">spell_gen_mount::HandleMount()</a>, and <a class="el" href="../../#l01062">SpellArea::IsFitToRequirements()</a>.</p>
 
 </div>
 </div>
@@ -1075,7 +1075,7 @@ template&lt;typename Func &gt; </div>
 <div class="line"><span class="lineno">  466</span>                    fn(player);</div>
 <div class="line"><span class="lineno">  467</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00390">PlayersInQueue</a>, and <a class="el" href="../../#l03701">PVP_TEAMS_COUNT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00269">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00390">PlayersInQueue</a>, and <a class="el" href="../../#l03701">PVP_TEAMS_COUNT</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00533">BroadcastPacketToQueue()</a>.</p>
 
@@ -1114,7 +1114,7 @@ template&lt;typename Func &gt; </div>
 <div class="line"><span class="lineno">  476</span>    }</div>
 <div class="ttc" id="aa07571_html_a110b10b1cebb34ad116eda8c249394af"><div class="ttname"><a href="../../d0/df8/a07571.html#a110b10b1cebb34ad116eda8c249394af">Battlefield::PlayersInWar</a></div><div class="ttdeci">GuidUnorderedSet PlayersInWar[PVP_TEAMS_COUNT]</div><div class="ttdef"><b>Definition:</b> Battlefield.h:391</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00391">PlayersInWar</a>, and <a class="el" href="../../#l03701">PVP_TEAMS_COUNT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00269">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00391">PlayersInWar</a>, and <a class="el" href="../../#l03701">PVP_TEAMS_COUNT</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00538">BroadcastPacketToWar()</a>, <a class="el" href="../../#l00324">KickAfkPlayers()</a>, and <a class="el" href="../../#l00517">TeamCastSpell()</a>.</p>
 
@@ -1161,7 +1161,7 @@ template&lt;typename Func &gt; </div>
 <div class="line"><span class="lineno">  483</span>                fn(player);</div>
 <div class="line"><span class="lineno">  484</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, and <a class="el" href="../../#l00391">PlayersInWar</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00269">ObjectAccessor::FindPlayer()</a>, and <a class="el" href="../../#l00391">PlayersInWar</a>.</p>
 
 </div>
 </div>
@@ -1198,7 +1198,7 @@ template&lt;typename Func &gt; </div>
 <div class="line"><span class="lineno">  458</span>    }</div>
 <div class="ttc" id="aa07571_html_a94985e49b7ac98b2f06fc7b4158862ba"><div class="ttname"><a href="../../d0/df8/a07571.html#a94985e49b7ac98b2f06fc7b4158862ba">Battlefield::Players</a></div><div class="ttdeci">GuidUnorderedSet Players[PVP_TEAMS_COUNT]</div><div class="ttdef"><b>Definition:</b> Battlefield.h:389</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00389">Players</a>, and <a class="el" href="../../#l03701">PVP_TEAMS_COUNT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00269">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00389">Players</a>, and <a class="el" href="../../#l03701">PVP_TEAMS_COUNT</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00528">BroadcastPacketToZone()</a>, <a class="el" href="../../#l00211">InvitePlayersInZoneToQueue()</a>, <a class="el" href="../../#l00241">InvitePlayersInZoneToWar()</a>, <a class="el" href="../../#l00584">BattlefieldWG::RelocateDeadPlayers()</a>, <a class="el" href="../../#l00549">SendUpdateWorldState()</a>, and <a class="el" href="../../#l00048">BattlefieldWG::SetupBattlefield()</a>.</p>
 
@@ -1333,9 +1333,9 @@ template&lt;typename Func &gt; </div>
 <div class="line"><span class="lineno">  849</span> </div>
 <div class="line"><span class="lineno">  850</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/df8/a07571.html#ad574fd71677683547ae69e2245890647">BfMap</a>-&gt;<a class="code hl_function" href="../../d6/d49/a10255.html#af0a630f225718009751c788dbcbf5333">GetCreature</a>(guid);</div>
 <div class="line"><span class="lineno">  851</span>}</div>
-<div class="ttc" id="aa10255_html_af0a630f225718009751c788dbcbf5333"><div class="ttname"><a href="../../d6/d49/a10255.html#af0a630f225718009751c788dbcbf5333">Map::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> Map.cpp:2412</div></div>
+<div class="ttc" id="aa10255_html_af0a630f225718009751c788dbcbf5333"><div class="ttname"><a href="../../d6/d49/a10255.html#af0a630f225718009751c788dbcbf5333">Map::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> Map.cpp:2414</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00404">BfMap</a>, and <a class="el" href="../../#l02412">Map::GetCreature()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00404">BfMap</a>, and <a class="el" href="../../#l02414">Map::GetCreature()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01133">BfWGGameObjectBuilding::Damaged()</a>, <a class="el" href="../../#l00368">BattlefieldWG::OnBattleEnd()</a>, <a class="el" href="../../#l00249">BattlefieldWG::OnBattleStart()</a>, <a class="el" href="../../#l00543">SendWarning()</a>, <a class="el" href="../../#l00048">BattlefieldWG::SetupBattlefield()</a>, <a class="el" href="../../#l01326">BfWGGameObjectBuilding::UpdateCreatureAndGo()</a>, <a class="el" href="../../#l01213">BattlefieldWG::UpdateTenacity()</a>, and <a class="el" href="../../#l01351">BfWGGameObjectBuilding::UpdateTurretAttack()</a>.</p>
 
@@ -1496,9 +1496,9 @@ template&lt;typename Func &gt; </div>
 <div class="line"><span class="lineno">  857</span> </div>
 <div class="line"><span class="lineno">  858</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/df8/a07571.html#ad574fd71677683547ae69e2245890647">BfMap</a>-&gt;<a class="code hl_function" href="../../d6/d49/a10255.html#a8de10cbc5e54efeefdf7b0744ad286e2">GetGameObject</a>(guid);</div>
 <div class="line"><span class="lineno">  859</span>}</div>
-<div class="ttc" id="aa10255_html_a8de10cbc5e54efeefdf7b0744ad286e2"><div class="ttname"><a href="../../d6/d49/a10255.html#a8de10cbc5e54efeefdf7b0744ad286e2">Map::GetGameObject</a></div><div class="ttdeci">GameObject * GetGameObject(ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> Map.cpp:2417</div></div>
+<div class="ttc" id="aa10255_html_a8de10cbc5e54efeefdf7b0744ad286e2"><div class="ttname"><a href="../../d6/d49/a10255.html#a8de10cbc5e54efeefdf7b0744ad286e2">Map::GetGameObject</a></div><div class="ttdeci">GameObject * GetGameObject(ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> Map.cpp:2419</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00404">BfMap</a>, and <a class="el" href="../../#l02417">Map::GetGameObject()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00404">BfMap</a>, and <a class="el" href="../../#l02419">Map::GetGameObject()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01156">BfWGGameObjectBuilding::Destroyed()</a>, <a class="el" href="../../#l00968">BfCapturePoint::GetCapturePointGo()</a>, <a class="el" href="../../#l00365">BattlefieldWG::GetRelic()</a>, <a class="el" href="../../#l01100">BfWGGameObjectBuilding::Rebuild()</a>, and <a class="el" href="../../#l01351">BfWGGameObjectBuilding::UpdateTurretAttack()</a>.</p>
 
@@ -2209,12 +2209,12 @@ template&lt;typename Func &gt; </div>
 <div class="ttc" id="aa00725_html_affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f"><div class="ttname"><a href="../../d8/db9/a00725.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a></div><div class="ttdeci">@ UNIT_FLAG_NOT_SELECTABLE</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:282</div></div>
 <div class="ttc" id="aa08403_html_acb27b2a3a09a2a9c520fba6ba2c69c4e"><div class="ttname"><a href="../../de/db2/a08403.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">Creature::SetReactState</a></div><div class="ttdeci">void SetReactState(ReactStates state)</div><div class="ttdoc">A creature can have 3 ReactStates : Agressive, Passive, Neutral.</div><div class="ttdef"><b>Definition:</b> Creature.h:100</div></div>
 <div class="ttc" id="aa08403_html_afb2c9a581a6cb7f5e4ad66e3f5086002"><div class="ttname"><a href="../../de/db2/a08403.html#afb2c9a581a6cb7f5e4ad66e3f5086002">Creature::DisappearAndDie</a></div><div class="ttdeci">void DisappearAndDie()</div><div class="ttdef"><b>Definition:</b> Creature.cpp:361</div></div>
-<div class="ttc" id="aa09163_html_a08f6c21ed1d05cf54e8351b80e152c90"><div class="ttname"><a href="../../d5/d74/a09163.html#a08f6c21ed1d05cf54e8351b80e152c90">Unit::SetVisible</a></div><div class="ttdeci">void SetVisible(bool x)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:11085</div></div>
-<div class="ttc" id="aa09163_html_aa3f511c51aa1082be9d4777c770a3485"><div class="ttname"><a href="../../d5/d74/a09163.html#aa3f511c51aa1082be9d4777c770a3485">Unit::SetPhaseMask</a></div><div class="ttdeci">void SetPhaseMask(uint32 newPhaseMask, bool update) override</div><div class="ttdef"><b>Definition:</b> Unit.cpp:15302</div></div>
-<div class="ttc" id="aa09163_html_ad89ee22808d70fd4595cf0c1fe293447"><div class="ttname"><a href="../../d5/d74/a09163.html#ad89ee22808d70fd4595cf0c1fe293447">Unit::CombatStop</a></div><div class="ttdeci">void CombatStop(bool includingCast=false, bool mutualPvP=true)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7511</div></div>
+<div class="ttc" id="aa09163_html_a08f6c21ed1d05cf54e8351b80e152c90"><div class="ttname"><a href="../../d5/d74/a09163.html#a08f6c21ed1d05cf54e8351b80e152c90">Unit::SetVisible</a></div><div class="ttdeci">void SetVisible(bool x)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:11106</div></div>
+<div class="ttc" id="aa09163_html_aa3f511c51aa1082be9d4777c770a3485"><div class="ttname"><a href="../../d5/d74/a09163.html#aa3f511c51aa1082be9d4777c770a3485">Unit::SetPhaseMask</a></div><div class="ttdeci">void SetPhaseMask(uint32 newPhaseMask, bool update) override</div><div class="ttdef"><b>Definition:</b> Unit.cpp:15323</div></div>
+<div class="ttc" id="aa09163_html_ad89ee22808d70fd4595cf0c1fe293447"><div class="ttname"><a href="../../d5/d74/a09163.html#ad89ee22808d70fd4595cf0c1fe293447">Unit::CombatStop</a></div><div class="ttdeci">void CombatStop(bool includingCast=false, bool mutualPvP=true)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7532</div></div>
 <div class="ttc" id="aa09163_html_ad9f2d48b20f62e17abf5c1892cebe296"><div class="ttname"><a href="../../d5/d74/a09163.html#ad9f2d48b20f62e17abf5c1892cebe296">Unit::SetUnitFlag</a></div><div class="ttdeci">void SetUnitFlag(UnitFlags flags)</div><div class="ttdoc">UnitFlags available in UnitDefines.h.</div><div class="ttdef"><b>Definition:</b> Unit.h:749</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l07511">Unit::CombatStop()</a>, <a class="el" href="../../#l00361">Creature::DisappearAndDie()</a>, <a class="el" href="../../#l00567">REACT_PASSIVE</a>, <a class="el" href="../../#l15302">Unit::SetPhaseMask()</a>, <a class="el" href="../../#l00100">Creature::SetReactState()</a>, <a class="el" href="../../#l00749">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l11085">Unit::SetVisible()</a>, <a class="el" href="../../#l00258">UNIT_FLAG_NON_ATTACKABLE</a>, and <a class="el" href="../../#l00282">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l07532">Unit::CombatStop()</a>, <a class="el" href="../../#l00361">Creature::DisappearAndDie()</a>, <a class="el" href="../../#l00567">REACT_PASSIVE</a>, <a class="el" href="../../#l15323">Unit::SetPhaseMask()</a>, <a class="el" href="../../#l00100">Creature::SetReactState()</a>, <a class="el" href="../../#l00749">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l11106">Unit::SetVisible()</a>, <a class="el" href="../../#l00258">UNIT_FLAG_NON_ATTACKABLE</a>, and <a class="el" href="../../#l00282">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01133">BfWGGameObjectBuilding::Damaged()</a>, <a class="el" href="../../#l01189">BfWGGameObjectBuilding::Init()</a>, <a class="el" href="../../#l00368">BattlefieldWG::OnBattleEnd()</a>, <a class="el" href="../../#l00048">BattlefieldWG::SetupBattlefield()</a>, <a class="el" href="../../#l01326">BfWGGameObjectBuilding::UpdateCreatureAndGo()</a>, and <a class="el" href="../../#l01351">BfWGGameObjectBuilding::UpdateTurretAttack()</a>.</p>
 
@@ -2308,7 +2308,7 @@ template&lt;typename Func &gt; </div>
 <div class="line"><span class="lineno">  239</span>}</div>
 <div class="ttc" id="aa00776_html_a407d39fdbc20e1e06960539245ee6a25"><div class="ttname"><a href="../../d9/dd4/a00776.html#a407d39fdbc20e1e06960539245ee6a25">GuidUnorderedSet</a></div><div class="ttdeci">std::unordered_set&lt; ObjectGuid &gt; GuidUnorderedSet</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:261</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00358">HasWarVacancy()</a>, <a class="el" href="../../#l00259">InvitePlayerToWar()</a>, <a class="el" href="../../#l00390">PlayersInQueue</a>, and <a class="el" href="../../#l03701">PVP_TEAMS_COUNT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00269">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00358">HasWarVacancy()</a>, <a class="el" href="../../#l00259">InvitePlayerToWar()</a>, <a class="el" href="../../#l00390">PlayersInQueue</a>, and <a class="el" href="../../#l03701">PVP_TEAMS_COUNT</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00348">StartBattle()</a>.</p>
 
@@ -2684,7 +2684,7 @@ template&lt;typename Func &gt; </div>
 <div class="line"><span class="lineno">  345</span>        }</div>
 <div class="line"><span class="lineno">  346</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00234">GetZoneId()</a>, <a class="el" href="../../#l00412">KickPosition</a>, <a class="el" href="../../#l00389">Players</a>, <a class="el" href="../../#l00391">PlayersInWar</a>, and <a class="el" href="../../#l03701">PVP_TEAMS_COUNT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00269">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00234">GetZoneId()</a>, <a class="el" href="../../#l00412">KickPosition</a>, <a class="el" href="../../#l00389">Players</a>, <a class="el" href="../../#l00391">PlayersInWar</a>, and <a class="el" href="../../#l03701">PVP_TEAMS_COUNT</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00105">WorldSession::HandleBfEntryInviteResponse()</a>, <a class="el" href="../../#l00955">BattlefieldWG::OnPlayerEnterZone()</a>, and <a class="el" href="../../#l00348">StartBattle()</a>.</p>
 
@@ -3085,9 +3085,9 @@ template&lt;typename Func &gt; </div>
 <div class="line"><span class="lineno">  726</span> </div>
 <div class="line"><span class="lineno">  727</span>    player-&gt;<a class="code hl_function" href="../../d5/d74/a09163.html#aac612f06e84142d92dcfc432b5feb4ac">RemoveAurasDueToSpell</a>(<a class="code hl_enumvalue" href="../../d7/def/a01538.html#aa0346f3f211a62e6d5b326063d0efb64aecb99db12cb3eceeb54ca44915b03882">SPELL_WAITING_FOR_RESURRECT</a>);</div>
 <div class="line"><span class="lineno">  728</span>}</div>
-<div class="ttc" id="aa09163_html_aac612f06e84142d92dcfc432b5feb4ac"><div class="ttname"><a href="../../d5/d74/a09163.html#aac612f06e84142d92dcfc432b5feb4ac">Unit::RemoveAurasDueToSpell</a></div><div class="ttdeci">void RemoveAurasDueToSpell(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, uint8 reqEffMask=0, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5168</div></div>
+<div class="ttc" id="aa09163_html_aac612f06e84142d92dcfc432b5feb4ac"><div class="ttname"><a href="../../d5/d74/a09163.html#aac612f06e84142d92dcfc432b5feb4ac">Unit::RemoveAurasDueToSpell</a></div><div class="ttdeci">void RemoveAurasDueToSpell(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, uint8 reqEffMask=0, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5189</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l05168">Unit::RemoveAurasDueToSpell()</a>, and <a class="el" href="../../#l00128">SPELL_WAITING_FOR_RESURRECT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00269">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l05189">Unit::RemoveAurasDueToSpell()</a>, and <a class="el" href="../../#l00128">SPELL_WAITING_FOR_RESURRECT</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00129">HandlePlayerLeaveZone()</a>.</p>
 
@@ -3282,9 +3282,9 @@ template&lt;typename Func &gt; </div>
 <div class="fragment"><div class="line"><span class="lineno">  550</span>{</div>
 <div class="line"><span class="lineno">  551</span>    <a class="code hl_function" href="../../d0/df8/a07571.html#a32c358d94d4f70515ffbd1e77bbde9c9">ForEachPlayerInZone</a>([field, value](<a class="code hl_class" href="../../d9/d85/a09031.html">Player</a>* player) { player-&gt;<a class="code hl_function" href="../../d9/d85/a09031.html#a2a12863caf54ad9a8af56bda556d7a4b">SendUpdateWorldState</a>(field, value); });</div>
 <div class="line"><span class="lineno">  552</span>}</div>
-<div class="ttc" id="aa09031_html_a2a12863caf54ad9a8af56bda556d7a4b"><div class="ttname"><a href="../../d9/d85/a09031.html#a2a12863caf54ad9a8af56bda556d7a4b">Player::SendUpdateWorldState</a></div><div class="ttdeci">void SendUpdateWorldState(uint32 variable, uint32 value) const</div><div class="ttdef"><b>Definition:</b> PlayerUpdates.cpp:2242</div></div>
+<div class="ttc" id="aa09031_html_a2a12863caf54ad9a8af56bda556d7a4b"><div class="ttname"><a href="../../d9/d85/a09031.html#a2a12863caf54ad9a8af56bda556d7a4b">Player::SendUpdateWorldState</a></div><div class="ttdeci">void SendUpdateWorldState(uint32 variable, uint32 value) const</div><div class="ttdef"><b>Definition:</b> PlayerUpdates.cpp:2247</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00452">ForEachPlayerInZone()</a>, and <a class="el" href="../../#l02242">Player::SendUpdateWorldState()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00452">ForEachPlayerInZone()</a>, and <a class="el" href="../../#l02247">Player::SendUpdateWorldState()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01133">BfWGGameObjectBuilding::Damaged()</a>, <a class="el" href="../../#l01156">BfWGGameObjectBuilding::Destroyed()</a>, <a class="el" href="../../#l01428">WGWorkshop::GiveControlTo()</a>, and <a class="el" href="../../#l01100">BfWGGameObjectBuilding::Rebuild()</a>.</p>
 
@@ -3604,10 +3604,10 @@ template&lt;typename Func &gt; </div>
 <div class="line"><span class="lineno">  583</span>}</div>
 <div class="ttc" id="aa00707_html_a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc"><div class="ttname"><a href="../../d1/d56/a00707.html#a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc">REACT_AGGRESSIVE</a></div><div class="ttdeci">@ REACT_AGGRESSIVE</div><div class="ttdef"><b>Definition:</b> Unit.h:569</div></div>
 <div class="ttc" id="aa08403_html_a1277512afd7e270a9d0b4acd90c17550"><div class="ttname"><a href="../../de/db2/a08403.html#a1277512afd7e270a9d0b4acd90c17550">Creature::Respawn</a></div><div class="ttdeci">void Respawn(bool force=false)</div><div class="ttdef"><b>Definition:</b> Creature.cpp:2027</div></div>
-<div class="ttc" id="aa09163_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d5/d74/a09163.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1792</div></div>
+<div class="ttc" id="aa09163_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d5/d74/a09163.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1793</div></div>
 <div class="ttc" id="aa09163_html_af9a5a43c2d7940c38f8b101409666a0d"><div class="ttname"><a href="../../d5/d74/a09163.html#af9a5a43c2d7940c38f8b101409666a0d">Unit::RemoveUnitFlag</a></div><div class="ttdeci">void RemoveUnitFlag(UnitFlags flags)</div><div class="ttdoc">UnitFlags available in UnitDefines.h.</div><div class="ttdef"><b>Definition:</b> Unit.h:750</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01792">Unit::IsAlive()</a>, <a class="el" href="../../#l00569">REACT_AGGRESSIVE</a>, <a class="el" href="../../#l00567">REACT_PASSIVE</a>, <a class="el" href="../../#l00750">Unit::RemoveUnitFlag()</a>, <a class="el" href="../../#l02027">Creature::Respawn()</a>, <a class="el" href="../../#l15302">Unit::SetPhaseMask()</a>, <a class="el" href="../../#l00100">Creature::SetReactState()</a>, <a class="el" href="../../#l00749">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l11085">Unit::SetVisible()</a>, <a class="el" href="../../#l00258">UNIT_FLAG_NON_ATTACKABLE</a>, and <a class="el" href="../../#l00282">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01793">Unit::IsAlive()</a>, <a class="el" href="../../#l00569">REACT_AGGRESSIVE</a>, <a class="el" href="../../#l00567">REACT_PASSIVE</a>, <a class="el" href="../../#l00750">Unit::RemoveUnitFlag()</a>, <a class="el" href="../../#l02027">Creature::Respawn()</a>, <a class="el" href="../../#l15323">Unit::SetPhaseMask()</a>, <a class="el" href="../../#l00100">Creature::SetReactState()</a>, <a class="el" href="../../#l00749">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l11106">Unit::SetVisible()</a>, <a class="el" href="../../#l00258">UNIT_FLAG_NON_ATTACKABLE</a>, and <a class="el" href="../../#l00282">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00368">BattlefieldWG::OnBattleEnd()</a>, <a class="el" href="../../#l00249">BattlefieldWG::OnBattleStart()</a>, <a class="el" href="../../#l01326">BfWGGameObjectBuilding::UpdateCreatureAndGo()</a>, and <a class="el" href="../../#l01351">BfWGGameObjectBuilding::UpdateTurretAttack()</a>.</p>
 
@@ -3712,13 +3712,13 @@ template&lt;typename Func &gt; </div>
 <div class="ttc" id="aa08431_html_a657fbf901aa2274ec5bf817525d2c4e5"><div class="ttname"><a href="../../da/dd0/a08431.html#a657fbf901aa2274ec5bf817525d2c4e5">CreatureTemplate::speed_run</a></div><div class="ttdeci">float speed_run</div><div class="ttdef"><b>Definition:</b> CreatureData.h:202</div></div>
 <div class="ttc" id="aa08431_html_ae8109936f1c52efe487803cfab29a581"><div class="ttname"><a href="../../da/dd0/a08431.html#ae8109936f1c52efe487803cfab29a581">CreatureTemplate::speed_walk</a></div><div class="ttdeci">float speed_walk</div><div class="ttdef"><b>Definition:</b> CreatureData.h:201</div></div>
 <div class="ttc" id="aa08815_html_a7182e916128ed9d0942413c0f14315a7"><div class="ttname"><a href="../../db/d10/a08815.html#a7182e916128ed9d0942413c0f14315a7">WorldObject::setActive</a></div><div class="ttdeci">void setActive(bool isActiveObject)</div><div class="ttdef"><b>Definition:</b> Object.cpp:1086</div></div>
-<div class="ttc" id="aa09163_html_a2579e2b71959daec99048b4bcf7f6bf3"><div class="ttname"><a href="../../d5/d74/a09163.html#a2579e2b71959daec99048b4bcf7f6bf3">Unit::SetFaction</a></div><div class="ttdeci">void SetFaction(uint32 faction)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7096</div></div>
-<div class="ttc" id="aa09163_html_ab30ea03b94379b25f1d75ea879b4a61c"><div class="ttname"><a href="../../d5/d74/a09163.html#ab30ea03b94379b25f1d75ea879b4a61c">Unit::SetSpeed</a></div><div class="ttdeci">void SetSpeed(UnitMoveType mtype, float rate, bool forced=false)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:11283</div></div>
-<div class="ttc" id="aa10255_html"><div class="ttname"><a href="../../d6/d49/a10255.html">Map</a></div><div class="ttdef"><b>Definition:</b> Map.h:167</div></div>
-<div class="ttc" id="aa10255_html_a7986709c0837590129c9f4030c9e59ae"><div class="ttname"><a href="../../d6/d49/a10255.html#a7986709c0837590129c9f4030c9e59ae">Map::GenerateLowGuid</a></div><div class="ttdeci">ObjectGuid::LowType GenerateLowGuid()</div><div class="ttdef"><b>Definition:</b> Map.h:524</div></div>
-<div class="ttc" id="aa10255_html_aec8fdf932b6233dd3ee23b469d2b10a5"><div class="ttname"><a href="../../d6/d49/a10255.html#aec8fdf932b6233dd3ee23b469d2b10a5">Map::AddToMap</a></div><div class="ttdeci">bool AddToMap(T *, bool checkTransport=false)</div><div class="ttdef"><b>Definition:</b> Map.cpp:305</div></div>
+<div class="ttc" id="aa09163_html_a2579e2b71959daec99048b4bcf7f6bf3"><div class="ttname"><a href="../../d5/d74/a09163.html#a2579e2b71959daec99048b4bcf7f6bf3">Unit::SetFaction</a></div><div class="ttdeci">void SetFaction(uint32 faction)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7117</div></div>
+<div class="ttc" id="aa09163_html_ab30ea03b94379b25f1d75ea879b4a61c"><div class="ttname"><a href="../../d5/d74/a09163.html#ab30ea03b94379b25f1d75ea879b4a61c">Unit::SetSpeed</a></div><div class="ttdeci">void SetSpeed(UnitMoveType mtype, float rate, bool forced=false)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:11304</div></div>
+<div class="ttc" id="aa10255_html"><div class="ttname"><a href="../../d6/d49/a10255.html">Map</a></div><div class="ttdef"><b>Definition:</b> Map.h:168</div></div>
+<div class="ttc" id="aa10255_html_a7986709c0837590129c9f4030c9e59ae"><div class="ttname"><a href="../../d6/d49/a10255.html#a7986709c0837590129c9f4030c9e59ae">Map::GenerateLowGuid</a></div><div class="ttdeci">ObjectGuid::LowType GenerateLowGuid()</div><div class="ttdef"><b>Definition:</b> Map.h:528</div></div>
+<div class="ttc" id="aa10255_html_aec8fdf932b6233dd3ee23b469d2b10a5"><div class="ttname"><a href="../../d6/d49/a10255.html#aec8fdf932b6233dd3ee23b469d2b10a5">Map::AddToMap</a></div><div class="ttdeci">bool AddToMap(T *, bool checkTransport=false)</div><div class="ttdef"><b>Definition:</b> Map.cpp:307</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00305">Map::AddToMap()</a>, <a class="el" href="../../#l00066">BattlefieldFactions</a>, <a class="el" href="../../#l01151">Creature::Create()</a>, <a class="el" href="../../#l00524">Map::GenerateLowGuid()</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00403">MapId</a>, <a class="el" href="../../#l00357">MOVE_RUN</a>, <a class="el" href="../../#l00356">MOVE_WALK</a>, <a class="el" href="../../#l00063">PHASEMASK_NORMAL</a>, <a class="el" href="../../#l01086">WorldObject::setActive()</a>, <a class="el" href="../../#l07096">Unit::SetFaction()</a>, <a class="el" href="../../#l00347">Creature::SetHomePosition()</a>, <a class="el" href="../../#l11283">Unit::SetSpeed()</a>, <a class="el" href="../../#l00220">sMapMgr</a>, <a class="el" href="../../#l01730">sObjectMgr</a>, <a class="el" href="../../#l00202">CreatureTemplate::speed_run</a>, <a class="el" href="../../#l00201">CreatureTemplate::speed_walk</a>, <a class="el" href="../../#l00748">TEAM_ALLIANCE</a>, and <a class="el" href="../../#l00749">TEAM_HORDE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00307">Map::AddToMap()</a>, <a class="el" href="../../#l00066">BattlefieldFactions</a>, <a class="el" href="../../#l01151">Creature::Create()</a>, <a class="el" href="../../#l00528">Map::GenerateLowGuid()</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00403">MapId</a>, <a class="el" href="../../#l00357">MOVE_RUN</a>, <a class="el" href="../../#l00356">MOVE_WALK</a>, <a class="el" href="../../#l00063">PHASEMASK_NORMAL</a>, <a class="el" href="../../#l01086">WorldObject::setActive()</a>, <a class="el" href="../../#l07117">Unit::SetFaction()</a>, <a class="el" href="../../#l00347">Creature::SetHomePosition()</a>, <a class="el" href="../../#l11304">Unit::SetSpeed()</a>, <a class="el" href="../../#l00220">sMapMgr</a>, <a class="el" href="../../#l01730">sObjectMgr</a>, <a class="el" href="../../#l00202">CreatureTemplate::speed_run</a>, <a class="el" href="../../#l00201">CreatureTemplate::speed_walk</a>, <a class="el" href="../../#l00748">TEAM_ALLIANCE</a>, and <a class="el" href="../../#l00749">TEAM_HORDE</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01189">BfWGGameObjectBuilding::Init()</a>, <a class="el" href="../../#l00296">InitStalker()</a>, <a class="el" href="../../#l00048">BattlefieldWG::SetupBattlefield()</a>, and <a class="el" href="../../#l00778">SpawnCreature()</a>.</p>
 
@@ -3835,7 +3835,7 @@ template&lt;typename Func &gt; </div>
 <div class="ttc" id="aa08583_html_a5415cac4cc1b7553798c631f3b55d2d4"><div class="ttname"><a href="../../d2/d95/a08583.html#a5415cac4cc1b7553798c631f3b55d2d4">GameObject::Create</a></div><div class="ttdeci">virtual bool Create(ObjectGuid::LowType guidlow, uint32 name_id, Map *map, uint32 phaseMask, float x, float y, float z, float ang, G3D::Quat const &amp;rotation, uint32 animprogress, GOState go_state, uint32 artKit=0)</div><div class="ttdef"><b>Definition:</b> GameObject.cpp:270</div></div>
 <div class="ttc" id="aa09083_html"><div class="ttname"><a href="../../d4/d76/a09083.html">StaticTransport</a></div><div class="ttdef"><b>Definition:</b> Transport.h:120</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00305">Map::AddToMap()</a>, <a class="el" href="../../#l00270">GameObject::Create()</a>, <a class="el" href="../../#l00524">Map::GenerateLowGuid()</a>, <a class="el" href="../../#l00709">GO_STATE_READY</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00403">MapId</a>, <a class="el" href="../../#l00063">PHASEMASK_NORMAL</a>, <a class="el" href="../../#l01086">WorldObject::setActive()</a>, <a class="el" href="../../#l00220">sMapMgr</a>, and <a class="el" href="../../#l01730">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00307">Map::AddToMap()</a>, <a class="el" href="../../#l00270">GameObject::Create()</a>, <a class="el" href="../../#l00528">Map::GenerateLowGuid()</a>, <a class="el" href="../../#l00709">GO_STATE_READY</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00403">MapId</a>, <a class="el" href="../../#l00063">PHASEMASK_NORMAL</a>, <a class="el" href="../../#l01086">WorldObject::setActive()</a>, <a class="el" href="../../#l00220">sMapMgr</a>, and <a class="el" href="../../#l01730">sObjectMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01189">BfWGGameObjectBuilding::Init()</a>, <a class="el" href="../../#l00249">BattlefieldWG::OnBattleStart()</a>, and <a class="el" href="../../#l00048">BattlefieldWG::SetupBattlefield()</a>.</p>
 
@@ -3927,7 +3927,7 @@ template&lt;typename Func &gt; </div>
 <div class="ttc" id="aa07571_html_a884220e104b3c366e8b67f77a87ea282"><div class="ttname"><a href="../../d0/df8/a07571.html#a884220e104b3c366e8b67f77a87ea282">Battlefield::InvitePlayersInZoneToWar</a></div><div class="ttdeci">void InvitePlayersInZoneToWar()</div><div class="ttdoc">Invite all players in zone to join battle on battle start.</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:241</div></div>
 <div class="ttc" id="aa07571_html_aa9e2c86b9d4b44899e173327a49db2bf"><div class="ttname"><a href="../../d0/df8/a07571.html#aa9e2c86b9d4b44899e173327a49db2bf">Battlefield::KickAfkPlayers</a></div><div class="ttdeci">void KickAfkPlayers()</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:324</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00420">_scheduler</a>, <a class="el" href="../../#l00382">Active</a>, <a class="el" href="../../#l00062">BATTLEFIELD_TIMER_GROUP_WAR</a>, <a class="el" href="../../#l00401">BattleId</a>, <a class="el" href="../../#l00408">BattleTime</a>, <a class="el" href="../../#l00267">BF_LEAVE_REASON_EXITED</a>, <a class="el" href="../../#l00054">BF_START</a>, <a class="el" href="../../#l00450">DoPlaySoundToAll()</a>, <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00392">InvitedPlayers</a>, <a class="el" href="../../#l00228">InvitePlayersInQueueToWar()</a>, <a class="el" href="../../#l00241">InvitePlayersInZoneToWar()</a>, <a class="el" href="../../#l00324">KickAfkPlayers()</a>, <a class="el" href="../../#l00333">KickPlayerFromBattlefield()</a>, <a class="el" href="../../#l00395">LogoutGracePlayers</a>, <a class="el" href="../../#l00308">OnBattleStart()</a>, <a class="el" href="../../#l00391">PlayersInWar</a>, <a class="el" href="../../#l00393">PlayersWillBeKick</a>, <a class="el" href="../../#l03701">PVP_TEAMS_COUNT</a>, <a class="el" href="../../#l00494">TaskContext::Repeat()</a>, <a class="el" href="../../#l00233">TaskScheduler::Schedule()</a>, and <a class="el" href="../../d0/df8/a07571.html#a818ddb7c86e77cf2d656a18f0dcae401">SendUpdateWorldStates()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00420">_scheduler</a>, <a class="el" href="../../#l00382">Active</a>, <a class="el" href="../../#l00062">BATTLEFIELD_TIMER_GROUP_WAR</a>, <a class="el" href="../../#l00401">BattleId</a>, <a class="el" href="../../#l00408">BattleTime</a>, <a class="el" href="../../#l00267">BF_LEAVE_REASON_EXITED</a>, <a class="el" href="../../#l00054">BF_START</a>, <a class="el" href="../../#l00450">DoPlaySoundToAll()</a>, <a class="el" href="../../#l00269">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00392">InvitedPlayers</a>, <a class="el" href="../../#l00228">InvitePlayersInQueueToWar()</a>, <a class="el" href="../../#l00241">InvitePlayersInZoneToWar()</a>, <a class="el" href="../../#l00324">KickAfkPlayers()</a>, <a class="el" href="../../#l00333">KickPlayerFromBattlefield()</a>, <a class="el" href="../../#l00395">LogoutGracePlayers</a>, <a class="el" href="../../#l00308">OnBattleStart()</a>, <a class="el" href="../../#l00391">PlayersInWar</a>, <a class="el" href="../../#l00393">PlayersWillBeKick</a>, <a class="el" href="../../#l03701">PVP_TEAMS_COUNT</a>, <a class="el" href="../../#l00494">TaskContext::Repeat()</a>, <a class="el" href="../../#l00233">TaskScheduler::Schedule()</a>, and <a class="el" href="../../d0/df8/a07571.html#a818ddb7c86e77cf2d656a18f0dcae401">SendUpdateWorldStates()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00052">bf_commandscript::HandleBattlefieldStart()</a>, and <a class="el" href="../../#l00163">Update()</a>.</p>
 
@@ -4009,9 +4009,9 @@ template&lt;typename Func &gt; </div>
 <div class="line"><span class="lineno">  524</span>            player-&gt;<a class="code hl_function" href="../../d5/d74/a09163.html#a9be4ef63ee27e3e727cc3a5160d380ce">RemoveAuraFromStack</a>(<a class="code hl_typedef" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(-spellId));</div>
 <div class="line"><span class="lineno">  525</span>    });</div>
 <div class="line"><span class="lineno">  526</span>}</div>
-<div class="ttc" id="aa09163_html_a9be4ef63ee27e3e727cc3a5160d380ce"><div class="ttname"><a href="../../d5/d74/a09163.html#a9be4ef63ee27e3e727cc3a5160d380ce">Unit::RemoveAuraFromStack</a></div><div class="ttdeci">void RemoveAuraFromStack(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5184</div></div>
+<div class="ttc" id="aa09163_html_a9be4ef63ee27e3e727cc3a5160d380ce"><div class="ttname"><a href="../../d5/d74/a09163.html#a9be4ef63ee27e3e727cc3a5160d380ce">Unit::RemoveAuraFromStack</a></div><div class="ttdeci">void RemoveAuraFromStack(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5205</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01361">Unit::CastSpell()</a>, <a class="el" href="../../#l00470">ForEachPlayerInWar()</a>, and <a class="el" href="../../#l05184">Unit::RemoveAuraFromStack()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01361">Unit::CastSpell()</a>, <a class="el" href="../../#l00470">ForEachPlayerInWar()</a>, and <a class="el" href="../../#l05205">Unit::RemoveAuraFromStack()</a>.</p>
 
 </div>
 </div>
@@ -5061,7 +5061,7 @@ template&lt;typename Func &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/df8/a07571.html">Battlefield</a></li>
-    <li class="footer">Generated on Mon Aug 3 2026 21:44:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 10 2026 21:22:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,8 +1,7 @@
 var a26627 =
 [
-    [ "ApplyPermafrost", "de/df7/a26627.html#a06bb458e038b97696362681a6fd28104", null ],
-    [ "PrepareAuraScript", "de/df7/a26627.html#a3d96d6f5f798efc92572e2a52349102d", null ],
-    [ "Register", "de/df7/a26627.html#a613e5af53064357f4e8e4d6260c6856a", null ],
-    [ "RemovePermafrost", "de/df7/a26627.html#a9414746a76f53a5258cf617abefd5bd6", null ],
-    [ "Validate", "de/df7/a26627.html#addd58a0138e3cdb5cb274c8a38151a45", null ]
+    [ "HandleProc", "de/df7/a26627.html#a8ef5ced5c1078116dd4b4a1015798ccf", null ],
+    [ "PrepareAuraScript", "de/df7/a26627.html#a4dccd6d5422fa64a52103dad76c99b6b", null ],
+    [ "Register", "de/df7/a26627.html#a208025fdf008145564719bd3a0c35097", null ],
+    [ "Validate", "de/df7/a26627.html#a8bf0bbc831bbd6c476fc8f018402ec3c", null ]
 ];

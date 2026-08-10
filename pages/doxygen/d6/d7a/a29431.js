@@ -1,7 +1,5 @@
 var a29431 =
 [
-    [ "from", "d6/d7a/a29431.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
-    [ "ID", "d6/d7a/a29431.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
-    [ "price", "d6/d7a/a29431.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
-    [ "to", "d6/d7a/a29431.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
+    [ "HasMissile", "d6/d7a/a29431.html#af8f9e79164ee3c7a617f63552bb23816", null ],
+    [ "MissileModel", "d6/d7a/a29431.html#ae9ab544537448113f628c22ed8c91a27", null ]
 ];

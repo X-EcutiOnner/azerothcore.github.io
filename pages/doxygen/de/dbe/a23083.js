@@ -1,8 +1,6 @@
 var a23083 =
 [
-    [ "CalcPeriodic", "de/dbe/a23083.html#aad87c25b9b3255a4871bec39d9787299", null ],
-    [ "PrepareAuraScript", "de/dbe/a23083.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
-    [ "Register", "de/dbe/a23083.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
-    [ "Update", "de/dbe/a23083.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
-    [ "Validate", "de/dbe/a23083.html#ae4f7bfb1cd95666acada217173876352", null ]
+    [ "HandleSchoolDamage", "de/dbe/a23083.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
+    [ "PrepareSpellScript", "de/dbe/a23083.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
+    [ "Register", "de/dbe/a23083.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
 ];

@@ -1,8 +1,8 @@
 var a22427 =
 [
-    [ "go_wg_vehicle_teleporterAI", "dc/dab/a22427.html#af84e73765b1a4d810b41613824999186", null ],
-    [ "IsFriendly", "dc/dab/a22427.html#adca817c8919958db888d5e9c759ad545", null ],
-    [ "IsValidVehicle", "dc/dab/a22427.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
-    [ "UpdateAI", "dc/dab/a22427.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
-    [ "_checkTimer", "dc/dab/a22427.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
+    [ "npc_wg_queueAI", "d2/dac/a22431.html", "d2/dac/a22431" ],
+    [ "npc_wg_queue", "dc/dab/a22427.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
+    [ "GetAI", "dc/dab/a22427.html#ad2d7746a32b520d37ea826b03627de4e", null ],
+    [ "OnGossipHello", "dc/dab/a22427.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
+    [ "OnGossipSelect", "dc/dab/a22427.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
 ];

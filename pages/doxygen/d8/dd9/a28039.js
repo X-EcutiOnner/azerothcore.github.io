@@ -1,5 +1,5 @@
 var a28039 =
 [
-    [ "achievement_killed_exp_or_honor_target", "d8/dd9/a28039.html#aad432878c97af698dd1cc4019d716281", null ],
-    [ "OnCheck", "d8/dd9/a28039.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
+    [ "achievement_sickly_gazelle", "d8/dd9/a28039.html#abb613cb222c727923c4c5ce843db3a5f", null ],
+    [ "OnCheck", "d8/dd9/a28039.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
 ];

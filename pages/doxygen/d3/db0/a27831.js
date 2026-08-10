@@ -1,7 +1,8 @@
 var a27831 =
 [
-    [ "HandleProc", "d3/db0/a27831.html#a28f109c403d3bb46dd4f9c18057cfcd9", null ],
-    [ "PrepareAuraScript", "d3/db0/a27831.html#a0eb7295583f2c45c88ae266d66813b5b", null ],
-    [ "Register", "d3/db0/a27831.html#ab8848a011ec8397bc5712ced54e09432", null ],
-    [ "Validate", "d3/db0/a27831.html#ae35703b7d676fde170241dd64c3c5411", null ]
+    [ "CheckProc", "d3/db0/a27831.html#a4713f3cdce1ee793a8f2232202314ff7", null ],
+    [ "HandleProc", "d3/db0/a27831.html#ab892bc268feccba594a5b4b0be3e86f7", null ],
+    [ "PrepareAuraScript", "d3/db0/a27831.html#a92a141fcf24f63bc41f6f828f72bf277", null ],
+    [ "Register", "d3/db0/a27831.html#a93806efcc1e5976cca2eab57c9e55a7e", null ],
+    [ "Validate", "d3/db0/a27831.html#a28801b99335380a7e366e766b6aaea2c", null ]
 ];

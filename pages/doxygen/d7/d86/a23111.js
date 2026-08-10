@@ -1,6 +1,6 @@
 var a23111 =
 [
-    [ "HandleProc", "d7/d86/a23111.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "d7/d86/a23111.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "d7/d86/a23111.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "HandleEffectRemove", "d7/d86/a23111.html#a99f96034b5976615c38e13e5e55c61b6", null ],
+    [ "PrepareAuraScript", "d7/d86/a23111.html#a0515a72abd37df13606876021659b995", null ],
+    [ "Register", "d7/d86/a23111.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
 ];

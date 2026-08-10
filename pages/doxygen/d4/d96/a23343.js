@@ -1,6 +1,10 @@
 var a23343 =
 [
-    [ "HandleScript", "d4/d96/a23343.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
-    [ "PrepareSpellScript", "d4/d96/a23343.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
-    [ "Register", "d4/d96/a23343.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
+    [ "npc_frozen_core", "d4/d96/a23343.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
+    [ "DoAction", "d4/d96/a23343.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
+    [ "Initialize", "d4/d96/a23343.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
+    [ "JustDied", "d4/d96/a23343.html#a476e086b0379e0cef3a44d250b020d6a", null ],
+    [ "UpdateAI", "d4/d96/a23343.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
+    [ "_events", "d4/d96/a23343.html#a3a5efec3279644ef713722e1556a3c84", null ],
+    [ "_instance", "d4/d96/a23343.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
 ];

@@ -1,7 +1,6 @@
 var a21787 =
 [
-    [ "CheckCast", "dd/d5e/a21787.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
-    [ "HandleScript", "dd/d5e/a21787.html#a8128bb2d7588409dae73bed78d5285a7", null ],
-    [ "PrepareSpellScript", "dd/d5e/a21787.html#aee17a8a21ec5df027082c6990189dccc", null ],
-    [ "Register", "dd/d5e/a21787.html#a2a97265e102e9ce31997d99275b42973", null ]
+    [ "npc_mindless_ghoulAI", "da/d57/a21791.html", "da/d57/a21791" ],
+    [ "npc_mindless_ghoul", "dd/d5e/a21787.html#ac5bf71e719c0df04687f426a022fd65e", null ],
+    [ "GetAI", "dd/d5e/a21787.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
 ];

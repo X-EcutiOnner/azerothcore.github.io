@@ -1,6 +1,7 @@
 var a27143 =
 [
-    [ "HandleDummy", "dc/d89/a27143.html#a39c913c3e3225a9b27d17d4ceadd3c70", null ],
-    [ "PrepareSpellScript", "dc/d89/a27143.html#a7936186af106ae3ddeec3bc9b39ff127", null ],
-    [ "Register", "dc/d89/a27143.html#aa8ce1f0413e19d8f6d403b220fc6749c", null ]
+    [ "HandleEffectApply", "dc/d89/a27143.html#a475d0bab96e226853368be3b68c5a2d3", null ],
+    [ "HandleEffectRemove", "dc/d89/a27143.html#aa22a095e40789ac562a64c20d7eadb28", null ],
+    [ "PrepareAuraScript", "dc/d89/a27143.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
+    [ "Register", "dc/d89/a27143.html#a91e75a059828a30d509fd22be19048f8", null ]
 ];

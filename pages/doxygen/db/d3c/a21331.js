@@ -1,5 +1,8 @@
 var a21331 =
 [
-    [ "npc_ritual_channelerAI", "db/d3c/a21331.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "db/d3c/a21331.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "CountTargets", "db/d3c/a21331.html#aaf8528038c6b3172d4810ed773f71644", null ],
+    [ "HandleDummy", "db/d3c/a21331.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
+    [ "PrepareSpellScript", "db/d3c/a21331.html#a1f31273cb1826cd07196eacfbdc46673", null ],
+    [ "Register", "db/d3c/a21331.html#adce6a5d920ac616dc0579fcd96c49288", null ],
+    [ "_targetCount", "db/d3c/a21331.html#acfd8832cb9a197dddb034a003b318911", null ]
 ];

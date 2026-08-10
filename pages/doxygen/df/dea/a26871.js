@@ -1,6 +1,9 @@
 var a26871 =
 [
-    [ "FilterTargets", "df/dea/a26871.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
-    [ "PrepareSpellScript", "df/dea/a26871.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
-    [ "Register", "df/dea/a26871.html#a4db02c58be57a797c26b07656d1b5409", null ]
+    [ "spell_pal_improved_aura_effect", "df/dea/a26871.html#a8b413208ee8842e844e4129725e8c99e", null ],
+    [ "CheckAreaTarget", "df/dea/a26871.html#a0e61a579344eb8e91d0dd58554fc6ecb", null ],
+    [ "PrepareAuraScript", "df/dea/a26871.html#a1aa9d9c753032febf7cc86ce53ad2a99", null ],
+    [ "Register", "df/dea/a26871.html#acd92f952c3aeede5c7131fb84aa6334d", null ],
+    [ "Validate", "df/dea/a26871.html#a553e45e2963e915fb5a2e123160af83a", null ],
+    [ "_auraSpellId", "df/dea/a26871.html#a960fabe394cdf4666b637a7d65b90645", null ]
 ];

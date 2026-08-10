@@ -1,10 +1,6 @@
 var a24415 =
 [
-    [ "npc_pet_gen_imp_in_a_bottle", "d8/d81/a24415.html#aa32b7770c2719d77d46fcf6d22989284", null ],
-    [ "InitializeAI", "d8/d81/a24415.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
-    [ "UpdateAI", "d8/d81/a24415.html#a453ec855bb21a30cb72b540ff8f77035", null ],
-    [ "_data", "d8/d81/a24415.html#a982ec923536c2c33353a3673aa425b6a", null ],
-    [ "_hasParty", "d8/d81/a24415.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
-    [ "_ownerGUID", "d8/d81/a24415.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
-    [ "_talkTimer", "d8/d81/a24415.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
+    [ "achievement", "d8/d81/a24415.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "d8/d81/a24415.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "d8/d81/a24415.html#ab8c1bedac4bccf5c47eda591c9e5e9d1", null ]
 ];

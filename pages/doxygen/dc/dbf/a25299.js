@@ -1,6 +1,6 @@
 var a25299 =
 [
-    [ "HandleDummy", "dc/dbf/a25299.html#a0bcbef8a2d5978498556a217ac618fed", null ],
-    [ "PrepareSpellScript", "dc/dbf/a25299.html#a5901c22f3a10fdbd21d934f5cb8cd76d", null ],
-    [ "Register", "dc/dbf/a25299.html#a2c6d9c273a3d281dacefc20970912166", null ]
+    [ "CheckSeat", "dc/dbf/a25299.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
+    [ "PrepareSpellScript", "dc/dbf/a25299.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
+    [ "Register", "dc/dbf/a25299.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
 ];

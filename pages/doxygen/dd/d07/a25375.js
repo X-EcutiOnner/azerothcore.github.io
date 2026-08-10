@@ -1,10 +1,7 @@
 var a25375 =
 [
-    [ "spell_gen_summon_elemental", "dd/d07/a25375.html#ae2dece3ac20afe16430e741fab909fa1", null ],
-    [ "AfterApply", "dd/d07/a25375.html#a97fbc7e3f60b6aae5d9783bbd9a2415d", null ],
-    [ "AfterRemove", "dd/d07/a25375.html#aeec3688e66a7e9f0207b219e9dcdb265", null ],
-    [ "PrepareAuraScript", "dd/d07/a25375.html#a3ad6e5615bb080abae4e18673cd40b6d", null ],
-    [ "Register", "dd/d07/a25375.html#ac364e1a3c4b5a1cfd35d8dcec0a42345", null ],
-    [ "Validate", "dd/d07/a25375.html#ac2284d4f192fe402ebcf6ad75e777c2a", null ],
-    [ "_spellId", "dd/d07/a25375.html#a6ac27b65f909a8c832cf3d301c8db0ce", null ]
+    [ "PrepareSpellScript", "dd/d07/a25375.html#aad8061898087fbf5eb6527cbaa70927d", null ],
+    [ "RecalculateDamage", "dd/d07/a25375.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
+    [ "Register", "dd/d07/a25375.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
+    [ "_damagePct", "dd/d07/a25375.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
 ];

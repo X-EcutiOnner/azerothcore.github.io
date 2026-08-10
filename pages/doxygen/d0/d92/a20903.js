@@ -1,7 +1,6 @@
 var a20903 =
 [
-    [ "OnRemove", "d0/d92/a20903.html#ae99b372d0894e0c7aafc44f2a3cfac4f", null ],
-    [ "PrepareAuraScript", "d0/d92/a20903.html#ae99f88a63656d0b48ca4b85548cc736b", null ],
-    [ "Register", "d0/d92/a20903.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "Validate", "d0/d92/a20903.html#a3d351d7e9ac022ea1bd912843fe66891", null ]
+    [ "FilterTargets", "d0/d92/a20903.html#a766440359968faf85f60f987b5da8c70", null ],
+    [ "PrepareSpellScript", "d0/d92/a20903.html#a3f53d4e7fa30e53a1e05803a60c8b09b", null ],
+    [ "Register", "d0/d92/a20903.html#adbcc19da817ecdfad19543b70afd9e56", null ]
 ];

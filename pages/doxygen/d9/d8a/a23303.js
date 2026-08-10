@@ -1,7 +1,6 @@
 var a23303 =
 [
-    [ "HandleEffectRemove", "d9/d8a/a23303.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
-    [ "HandlePeriodic", "d9/d8a/a23303.html#a5137e24394fa14129c44d92c79eef117", null ],
-    [ "PrepareAuraScript", "d9/d8a/a23303.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
-    [ "Register", "d9/d8a/a23303.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "d6/d13/a23307.html", "d6/d13/a23307" ],
+    [ "instance_serpent_shrine", "d9/d8a/a23303.html#aac4fc7113307805138ba4ce4a9adff09", null ],
+    [ "GetInstanceScript", "d9/d8a/a23303.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
 ];

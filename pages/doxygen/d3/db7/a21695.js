@@ -1,13 +1,6 @@
 var a21695 =
 [
-    [ "npc_shandy_dalaranAI", "d3/db7/a21695.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
-    [ "Reset", "d3/db7/a21695.html#a38f0630d4e18cea01de343afdcb96db3", null ],
-    [ "RollTask", "d3/db7/a21695.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
-    [ "SetData", "d3/db7/a21695.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
-    [ "UpdateAI", "d3/db7/a21695.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
-    [ "_aquanosGUID", "d3/db7/a21695.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
-    [ "_canWash", "d3/db7/a21695.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
-    [ "_events", "d3/db7/a21695.html#a3fbae63669c8382097b0bcb936301945", null ],
-    [ "_lCount", "d3/db7/a21695.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
-    [ "_lSource", "d3/db7/a21695.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
+    [ "npc_steam_powered_auctioneerAI", "d6/da0/a21699.html", "d6/da0/a21699" ],
+    [ "npc_steam_powered_auctioneer", "d3/db7/a21695.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "d3/db7/a21695.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

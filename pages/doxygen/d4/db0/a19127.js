@@ -3,6 +3,7 @@ var a19127 =
     [ "DarkFallenAI", "d4/db0/a19127.html#a0be0c32a52d954700c0677d111b82694", null ],
     [ "DoAction", "d4/db0/a19127.html#a5c1ba5dde31aa4d1f2f1e5fc45eb4b48", null ],
     [ "EnterEvadeMode", "d4/db0/a19127.html#a365a5d5aa68ce35963e180f36b23ffe9", null ],
+    [ "JustDied", "d4/db0/a19127.html#a59df972ab6f5a00df0217a984f5904de", null ],
     [ "JustEngagedWith", "d4/db0/a19127.html#a21705f88c5a6e25709b6f0db049379bd", null ],
     [ "Reset", "d4/db0/a19127.html#acaf883142e1620a84f8bf29801dd860c", null ],
     [ "ScheduleSpells", "d4/db0/a19127.html#adafce856498f47b13a8ed9438b2a00c7", null ],

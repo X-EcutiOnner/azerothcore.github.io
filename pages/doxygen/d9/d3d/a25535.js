@@ -1,9 +1,6 @@
 var a25535 =
 [
-    [ "spell_gen_translocate", "d9/d3d/a25535.html#a56a3df0eba3e1521aa2898194c39e919", null ],
-    [ "HandleScript", "d9/d3d/a25535.html#a67684fb76da60fdc13dbece055dae157", null ],
-    [ "PrepareSpellScript", "d9/d3d/a25535.html#a6f0986e54ad410c2f42a7935645485ed", null ],
-    [ "Register", "d9/d3d/a25535.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
-    [ "Validate", "d9/d3d/a25535.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
-    [ "_spellId", "d9/d3d/a25535.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
+    [ "HandleDamageCalc", "d9/d3d/a25535.html#a1d0c86e476e4ef75f4e8f2ff27fdd395", null ],
+    [ "PrepareSpellScript", "d9/d3d/a25535.html#a4271f026fd9cddeb109761e9b864c381", null ],
+    [ "Register", "d9/d3d/a25535.html#a03bb4cf19328efa783600273663b609a", null ]
 ];

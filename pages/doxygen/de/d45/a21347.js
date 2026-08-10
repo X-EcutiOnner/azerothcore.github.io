@@ -1,6 +1,5 @@
 var a21347 =
 [
-    [ "boss_ymironAI", "d4/dcd/a21351.html", "d4/dcd/a21351" ],
-    [ "boss_ymiron", "de/d45/a21347.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "de/d45/a21347.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "npc_ritual_channelerAI", "de/d45/a21347.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
+    [ "AttackStart", "de/d45/a21347.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
 ];

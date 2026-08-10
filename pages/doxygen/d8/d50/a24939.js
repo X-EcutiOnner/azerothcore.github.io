@@ -1,7 +1,10 @@
 var a24939 =
 [
-    [ "HandleProc", "d8/d50/a24939.html#a537f3badee8fee83ff5b1aaa26bdf96d", null ],
-    [ "PrepareAuraScript", "d8/d50/a24939.html#ac234a738270dbe0d991e55da4d497490", null ],
-    [ "Register", "d8/d50/a24939.html#a8033ae66f1c92fdf596add2985d0a6b3", null ],
-    [ "Validate", "d8/d50/a24939.html#a039e765c38eb63116a546b9c541da949", null ]
+    [ "CheckProc", "d8/d50/a24939.html#a1afbc5f8e86e0382be43c947e88306b3", null ],
+    [ "HandleProc", "d8/d50/a24939.html#a9fbfe3fba6283362bab181fcd15611b3", null ],
+    [ "PrepareAuraScript", "d8/d50/a24939.html#aa060ed89bc5e3c80d6402c8e79baa597", null ],
+    [ "Register", "d8/d50/a24939.html#a43cc9387ce5b1665147dcfecb1476c22", null ],
+    [ "Validate", "d8/d50/a24939.html#ad167a260f9a3d1f71a5a11b0bab6161c", null ],
+    [ "_lunarProcCooldownEnd", "d8/d50/a24939.html#a9fd6d9c34dba5cb302010df4d5c560c2", null ],
+    [ "_solarProcCooldownEnd", "d8/d50/a24939.html#a6f50d14abee53eb06f50edbcc78628c4", null ]
 ];

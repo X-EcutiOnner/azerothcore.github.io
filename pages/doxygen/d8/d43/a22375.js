@@ -1,8 +1,7 @@
 var a22375 =
 [
-    [ "npc_oathbound_warder", "d8/d43/a22375.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
-    [ "AttackStart", "d8/d43/a22375.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
-    [ "InitializeAI", "d8/d43/a22375.html#a62c4c568ad615013afa46c7da84d057a", null ],
-    [ "JustEngagedWith", "d8/d43/a22375.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
-    [ "UpdateAI", "d8/d43/a22375.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
+    [ "HandleScript", "d8/d43/a22375.html#ad38771460ddf0f95783718775690d1f0", null ],
+    [ "PrepareSpellScript", "d8/d43/a22375.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
+    [ "Register", "d8/d43/a22375.html#a3ba23fd54c35c2d2866db647811c948d", null ],
+    [ "Validate", "d8/d43/a22375.html#a6a58808356785c25032c2befd429ff2b", null ]
 ];

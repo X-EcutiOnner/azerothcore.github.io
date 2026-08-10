@@ -1,6 +1,8 @@
 var a21959 =
 [
-    [ "npc_venture_co_stragglerAI", "d4/dbc/a21963.html", "d4/dbc/a21963" ],
-    [ "npc_venture_co_straggler", "d1/d67/a21959.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "d1/d67/a21959.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "npc_ravenous_worgAI", "d1/d67/a21959.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d1/d67/a21959.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d1/d67/a21959.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d1/d67/a21959.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d1/d67/a21959.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

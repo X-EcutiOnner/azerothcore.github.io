@@ -1,5 +1,8 @@
 var a28079 =
 [
-    [ "AreaTrigger_at_last_rites", "d1/dc8/a28079.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
-    [ "OnTrigger", "d1/dc8/a28079.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
+    [ "CharacterActionIpLogger", "d1/dc8/a28079.html#a39861f7348a79031a8215b435ba81059", null ],
+    [ "CharacterIPLogAction", "d1/dc8/a28079.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
+    [ "OnPlayerCreate", "d1/dc8/a28079.html#a48844efac9d9af9c6415ad49d2473688", null ],
+    [ "OnPlayerLogin", "d1/dc8/a28079.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
+    [ "OnPlayerLogout", "d1/dc8/a28079.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
 ];

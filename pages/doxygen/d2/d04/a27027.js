@@ -1,7 +1,6 @@
 var a27027 =
 [
-    [ "if", "d2/d04/a27027.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
-    [ "PrepareAuraScript", "d2/d04/a27027.html#aa31810077c241e77193e378cb297b7de", null ],
-    [ "Register", "d2/d04/a27027.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
-    [ "AuraEffectHandleModes", "d2/d04/a27027.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
+    [ "CheckCast", "d2/d04/a27027.html#a624ee45c92b37da12204dcc95dc815ca", null ],
+    [ "PrepareSpellScript", "d2/d04/a27027.html#acdbb427ed3ebe9e2b8089a5bb50489a9", null ],
+    [ "Register", "d2/d04/a27027.html#abc4e276c4759bad63b692a467f2f88f2", null ]
 ];

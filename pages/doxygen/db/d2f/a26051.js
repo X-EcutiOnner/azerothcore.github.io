@@ -1,6 +1,7 @@
 var a26051 =
 [
-    [ "HandleProc", "db/d2f/a26051.html#aa333d52d905e722554d8d61c4b9cb656", null ],
-    [ "PrepareAuraScript", "db/d2f/a26051.html#aac4320b061d627e4ffef737d2e858ef3", null ],
-    [ "Register", "db/d2f/a26051.html#ad58fea9afa6a3596437a324ec525982e", null ]
+    [ "HandleDummy", "db/d2f/a26051.html#ae1f9429b4e5b8965c65f246e03efbaf0", null ],
+    [ "PrepareSpellScript", "db/d2f/a26051.html#abde4e8528f1af9a595fb32741e397397", null ],
+    [ "Register", "db/d2f/a26051.html#a3f10fa7accb675d36560ef5bb6ccb84e", null ],
+    [ "Validate", "db/d2f/a26051.html#af1658e856195d22042de5beab1eec212", null ]
 ];

@@ -1,5 +1,7 @@
 var a27131 =
 [
-    [ "spell_q11515_fel_siphon_dummy", "d3/dbe/a27131.html#a80fa790a716d1ae950f43f9a298afd66", null ],
-    [ "GetSpellScript", "d3/dbe/a27131.html#a0d122972fc036d1f1e49c49acda58be3", null ]
+    [ "HandleEffectPeriodic", "d3/dbe/a27131.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
+    [ "PrepareAuraScript", "d3/dbe/a27131.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
+    [ "Register", "d3/dbe/a27131.html#ac3741617faacf83a707f1359aab1886e", null ],
+    [ "Validate", "d3/dbe/a27131.html#a9378252b6711cc0bec3e63efce026495", null ]
 ];

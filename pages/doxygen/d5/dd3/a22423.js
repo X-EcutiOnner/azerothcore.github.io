@@ -1,6 +1,5 @@
 var a22423 =
 [
-    [ "go_wg_vehicle_teleporterAI", "dc/dab/a22427.html", "dc/dab/a22427" ],
-    [ "go_wg_vehicle_teleporter", "d5/dd3/a22423.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
-    [ "GetAI", "d5/dd3/a22423.html#a113aaf42c095000c1a016bfe60df11e7", null ]
+    [ "npc_wg_spirit_guideAI", "d5/dd3/a22423.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
+    [ "UpdateAI", "d5/dd3/a22423.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
 ];

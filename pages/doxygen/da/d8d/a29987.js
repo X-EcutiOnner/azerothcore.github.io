@@ -1,5 +1,4 @@
 var a29987 =
 [
-    [ "SetUp", "da/d8d/a29987.html#a43a467bfcff58079e28fece9bfe3464c", null ],
-    [ "ALL_EFFECTS_MASK", "da/d8d/a29987.html#ac82c59da0a73f393dcef17d666ef65bf", null ]
+    [ "SetUp", "da/d8d/a29987.html#a7b0f5dcd90ca7fe8be7cd26746c836a6", null ]
 ];

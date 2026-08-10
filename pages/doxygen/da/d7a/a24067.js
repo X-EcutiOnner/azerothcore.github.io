@@ -1,6 +1,7 @@
 var a24067 =
 [
-    [ "npc_wounded_blood_elfAI", "dd/d96/a24071.html", "dd/d96/a24071" ],
-    [ "npc_wounded_blood_elf", "da/d7a/a24067.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "da/d7a/a24067.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "HandleEffect", "da/d7a/a24067.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "da/d7a/a24067.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "da/d7a/a24067.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "da/d7a/a24067.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

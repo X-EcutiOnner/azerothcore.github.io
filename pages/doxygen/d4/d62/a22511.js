@@ -1,6 +1,6 @@
 var a22511 =
 [
-    [ "FilterTargets", "d4/d62/a22511.html#a4d81860c41daab44851da605d38b4753", null ],
-    [ "PrepareSpellScript", "d4/d62/a22511.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
-    [ "Register", "d4/d62/a22511.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
+    [ "npc_released_offspring_harkoaAI", "d2/d11/a22515.html", "d2/d11/a22515" ],
+    [ "npc_released_offspring_harkoa", "d4/d62/a22511.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
+    [ "GetAI", "d4/d62/a22511.html#ae3d2a02c496be1b2606fce596625d12e", null ]
 ];

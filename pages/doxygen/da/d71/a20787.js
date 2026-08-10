@@ -1,7 +1,7 @@
 var a20787 =
 [
-    [ "HandleFused", "da/d71/a20787.html#ab5ea77be32486664ff6c5ff7dc01f7dd", null ],
-    [ "PrepareAuraScript", "da/d71/a20787.html#a438c63656d2a976883fa13232cc5dc6e", null ],
-    [ "Register", "da/d71/a20787.html#a17300c74645f9298d8422535a61fe077", null ],
-    [ "Validate", "da/d71/a20787.html#a55ca732a3d0e3a69f055fd915037a5f0", null ]
+    [ "HandleScript", "da/d71/a20787.html#ab2cfe77248b3e0e3d04c203635f2f4fa", null ],
+    [ "PrepareSpellScript", "da/d71/a20787.html#a07041d1278d7c12ca40e341fdf0a0b4e", null ],
+    [ "Register", "da/d71/a20787.html#af75bed8e253cb372f1bceb0ae1e54e1a", null ],
+    [ "Validate", "da/d71/a20787.html#aa2d5bae5c41f6975aecc4d951a565e81", null ]
 ];

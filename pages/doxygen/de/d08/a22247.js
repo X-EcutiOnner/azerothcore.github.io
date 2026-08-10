@@ -1,7 +1,7 @@
 var a22247 =
 [
-    [ "HandleSendEvent", "de/d08/a22247.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "de/d08/a22247.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "de/d08/a22247.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "de/d08/a22247.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "npc_engineer_heliceAI", "da/d6e/a22251.html", "da/d6e/a22251" ],
+    [ "npc_engineer_helice", "de/d08/a22247.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
+    [ "GetAI", "de/d08/a22247.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
+    [ "OnQuestAccept", "de/d08/a22247.html#abd345111463ce2ac635ad7fc6f891fb7", null ]
 ];

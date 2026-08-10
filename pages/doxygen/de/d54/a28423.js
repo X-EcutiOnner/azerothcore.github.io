@@ -1,10 +1,5 @@
 var a28423 =
 [
-    [ "npc_prof_blacksmith", "de/d54/a28423.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "de/d54/a28423.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "de/d54/a28423.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "de/d54/a28423.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "de/d54/a28423.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "de/d54/a28423.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "de/d54/a28423.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "item_captured_frog", "de/d54/a28423.html#ad41b743c98c9534453eca8cf1f367366", null ],
+    [ "OnUse", "de/d54/a28423.html#a1156467ca046a077ea494f92c488bf54", null ]
 ];

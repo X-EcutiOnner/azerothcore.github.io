@@ -1,6 +1,11 @@
 var a23339 =
 [
-    [ "go_ahune_ice_stone", "dc/d5f/a23339.html#ab7b665f01da80751ea97705c5113bde7", null ],
-    [ "GossipSelect", "dc/d5f/a23339.html#aadb4db41ed84922c0a2d0463b8616876", null ],
-    [ "_instance", "dc/d5f/a23339.html#a43651f471ac777b59fb8ba67b830cd35", null ]
+    [ "boss_ahune", "dc/d5f/a23339.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "dc/d5f/a23339.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "dc/d5f/a23339.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "dc/d5f/a23339.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "dc/d5f/a23339.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "dc/d5f/a23339.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "dc/d5f/a23339.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "dc/d5f/a23339.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

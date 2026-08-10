@@ -1,6 +1,6 @@
 var a24035 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d1/d2b/a24039.html", "d1/d2b/a24039" ],
-    [ "npc_oscillating_frequency_scanner_master_bunny", "d9/d09/a24035.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
-    [ "GetAI", "d9/d09/a24035.html#a60d55e2eda4484ceea4e475ac8653977", null ]
+    [ "npc_daranelleAI", "d1/d2b/a24039.html", "d1/d2b/a24039" ],
+    [ "npc_daranelle", "d9/d09/a24035.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
+    [ "GetAI", "d9/d09/a24035.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
 ];

@@ -1,7 +1,8 @@
 var a27787 =
 [
-    [ "CalculateAmount", "db/d05/a27787.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
-    [ "PrepareAuraScript", "db/d05/a27787.html#a20dad49a99420556f393a16525eb14b4", null ],
-    [ "Register", "db/d05/a27787.html#ad7d339ab137ebd640981f7789e1757f0", null ],
-    [ "Validate", "db/d05/a27787.html#a341acb2dd25c1db94777f7036f3338ac", null ]
+    [ "Load", "db/d05/a27787.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
+    [ "OnRemove", "db/d05/a27787.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
+    [ "PrepareAuraScript", "db/d05/a27787.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
+    [ "Register", "db/d05/a27787.html#a932760326c822f1b47df1afdec6bb9cb", null ],
+    [ "Validate", "db/d05/a27787.html#a69bcfedb7f566c572201aadc9e75df08", null ]
 ];

@@ -1,6 +1,7 @@
 var a27683 =
 [
-    [ "CheckCast", "dd/df5/a27683.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
-    [ "PrepareSpellScript", "dd/df5/a27683.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
-    [ "Register", "dd/df5/a27683.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
+    [ "HandleProc", "dd/df5/a27683.html#a5e428ae0d1d6b54494a62ca0a77820c9", null ],
+    [ "PrepareAuraScript", "dd/df5/a27683.html#a953eee0cd2f18703ce04b1579d698365", null ],
+    [ "Register", "dd/df5/a27683.html#a8552c78a1d78fae17650a24c25b87ad3", null ],
+    [ "Validate", "dd/df5/a27683.html#aadd49f63e9203d3314c5597ef72f6658", null ]
 ];

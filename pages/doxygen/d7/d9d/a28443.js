@@ -1,11 +1,10 @@
 var a28443 =
 [
-    [ "npc_artoriusAI", "d7/d9d/a28443.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
-    [ "DamageTaken", "d7/d9d/a28443.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
-    [ "DoAction", "d7/d9d/a28443.html#abbfc9ee752d97f1694dbd739719843c2", null ],
-    [ "JustEngagedWith", "d7/d9d/a28443.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
-    [ "Reset", "d7/d9d/a28443.html#a862cc52a9251e2dfe486f1152dae9500", null ],
-    [ "SpellHit", "d7/d9d/a28443.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
-    [ "UpdateAI", "d7/d9d/a28443.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
-    [ "events", "d7/d9d/a28443.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
+    [ "npc_prof_alchemy", "d7/d9d/a28443.html#a43ea842214fc507c34586d12df8f7fea", null ],
+    [ "HasAlchemySpell", "d7/d9d/a28443.html#ac9df824e0923ca86189a53ae391b43c0", null ],
+    [ "OnGossipHello", "d7/d9d/a28443.html#add760c538c7882e1ad8331b8ded74f5c", null ],
+    [ "OnGossipSelect", "d7/d9d/a28443.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
+    [ "SendActionMenu", "d7/d9d/a28443.html#a2d4c7337b40be323a384a9e755fc3145", null ],
+    [ "SendConfirmLearn", "d7/d9d/a28443.html#a548224b30494636b9ee292a533fc7b39", null ],
+    [ "SendConfirmUnlearn", "d7/d9d/a28443.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
 ];

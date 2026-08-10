@@ -1,5 +1,6 @@
 var a24027 =
 [
-    [ "go_simon_cluster", "d5/deb/a24027.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "d5/deb/a24027.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "npc_nether_drakeAI", "d8/d5e/a24031.html", "d8/d5e/a24031" ],
+    [ "npc_nether_drake", "d5/deb/a24027.html#a253ec3c91857b899ea9e2c824870b760", null ],
+    [ "GetAI", "d5/deb/a24027.html#a58d269e2c73cae07bb507162b742fe8f", null ]
 ];

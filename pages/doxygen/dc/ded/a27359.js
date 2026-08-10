@@ -1,6 +1,9 @@
 var a27359 =
 [
-    [ "DoAfterHit", "dc/ded/a27359.html#a38ede5147a11c41770c4483a70d81e5d", null ],
-    [ "PrepareSpellScript", "dc/ded/a27359.html#abcc738fc154e6be5de168fb23be806f4", null ],
-    [ "Register", "dc/ded/a27359.html#ac81d60d54a87a23bd9481934f5753de0", null ]
+    [ "Absorb", "dc/ded/a27359.html#a22b175a7a07f950b5be1aad60e096e4f", null ],
+    [ "CalculateAmount", "dc/ded/a27359.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6", null ],
+    [ "Load", "dc/ded/a27359.html#acf7851d34fa2368c9e711e8b3943c09b", null ],
+    [ "PrepareAuraScript", "dc/ded/a27359.html#ac273b669dc396561d9ec8b523659363f", null ],
+    [ "Register", "dc/ded/a27359.html#a656f4770b0f7099f5926a8063f7d740c", null ],
+    [ "absorbPct", "dc/ded/a27359.html#a31d7ca52ace4e22652403292969baf55", null ]
 ];

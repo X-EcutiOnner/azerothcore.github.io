@@ -1,5 +1,8 @@
 var a20563 =
 [
-    [ "achievement_ignis_shattered", "d2/d72/a20563.html#adbe893b0dd409eb3f10768f81f182f61", null ],
-    [ "OnCheck", "d2/d72/a20563.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
+    [ "CheckProc", "d2/d72/a20563.html#ad609f81da8229b5f8c219b3dce4e7602", null ],
+    [ "HandleProc", "d2/d72/a20563.html#aa3fae300f8738edeb5d68de2608462ab", null ],
+    [ "PrepareAuraScript", "d2/d72/a20563.html#a21c070876fa64fa8d65db71c90c73747", null ],
+    [ "Register", "d2/d72/a20563.html#a3aa412142b1809933cc9c2616f9b4ce5", null ],
+    [ "Validate", "d2/d72/a20563.html#a930130b75796d42866e0459832e7841b", null ]
 ];

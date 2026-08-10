@@ -1,7 +1,6 @@
 var a27443 =
 [
-    [ "CheckProc", "d0/de3/a27443.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
-    [ "HandleProc", "d0/de3/a27443.html#a91ee1b654a3a26e027407635a45b80b3", null ],
-    [ "PrepareAuraScript", "d0/de3/a27443.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
-    [ "Register", "d0/de3/a27443.html#ab06a732203303d5533bdc4b217640d2d", null ]
+    [ "FilterTargets", "d0/de3/a27443.html#a34ca370993295225a779ee6537295112", null ],
+    [ "PrepareSpellScript", "d0/de3/a27443.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
+    [ "Register", "d0/de3/a27443.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
 ];

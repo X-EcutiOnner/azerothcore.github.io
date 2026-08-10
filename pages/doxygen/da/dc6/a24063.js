@@ -1,9 +1,9 @@
 var a24063 =
 [
-    [ "npc_ancestral_wolfAI", "da/dc6/a24063.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "da/dc6/a24063.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "da/dc6/a24063.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "da/dc6/a24063.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "WaypointReached", "da/dc6/a24063.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "ryga", "da/dc6/a24063.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "da/dc6/a24063.html#a273d585416dc92d39d5ec3824c08504d", null ],
+    [ "IsSummonedBy", "da/dc6/a24063.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
+    [ "Reset", "da/dc6/a24063.html#a06fa50580efeab8d847a05f20956d175", null ],
+    [ "UpdateAI", "da/dc6/a24063.html#a8261a259cfbee0d3610ee441406fafcd", null ],
+    [ "playerGuid", "da/dc6/a24063.html#aab717dd49284c483759a6223dbd7e6ea", null ],
+    [ "timer", "da/dc6/a24063.html#afba1b71178c563a3db906057cd20de45", null ]
 ];

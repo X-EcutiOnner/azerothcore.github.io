@@ -1,6 +1,6 @@
 var a25991 =
 [
-    [ "FilterTargets", "d8/dda/a25991.html#abe299fbad07f800e90b1614ec661c185", null ],
-    [ "PrepareSpellScript", "d8/dda/a25991.html#a53bae2b6575436705adff74caf9225b7", null ],
-    [ "Register", "d8/dda/a25991.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
+    [ "HandleScript", "d8/dda/a25991.html#a9309c0e435240bc656b3bfde2d923a9a", null ],
+    [ "PrepareSpellScript", "d8/dda/a25991.html#a74dc9d9a57ed410b3c0d690418bfb4eb", null ],
+    [ "Register", "d8/dda/a25991.html#a8769cbce815d1f1c457979743e10535c", null ]
 ];

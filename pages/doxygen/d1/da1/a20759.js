@@ -1,10 +1,13 @@
 var a20759 =
 [
-    [ "npc_razorscale_dark_rune_sentinel", "d1/da1/a20759.html#ab05b135a3c4cc45c132b3bb38127494c", null ],
-    [ "CanAIAttack", "d1/da1/a20759.html#a99f74f401c846f56f6adf70a755e5a84", null ],
-    [ "JustEngagedWith", "d1/da1/a20759.html#afdba7ecd994d92484a75444387bffaee", null ],
-    [ "Reset", "d1/da1/a20759.html#ad83e4b28dc7562a627f9d1330c3bb2fc", null ],
-    [ "UpdateAI", "d1/da1/a20759.html#a621e7a4804a74ce74717a9b0212ab8a3", null ],
-    [ "_events", "d1/da1/a20759.html#a5dc9139c7d2897b6f1a9e9d86a5f663a", null ],
-    [ "_instance", "d1/da1/a20759.html#a83f67be54dde276f3ed5efd867450756", null ]
+    [ "npc_razorscale_dark_rune_guardian", "d1/da1/a20759.html#a539b905da508869adcc7bad601490c9f", null ],
+    [ "CanAIAttack", "d1/da1/a20759.html#a096058710ee0d02583c4402081da9f18", null ],
+    [ "GetData", "d1/da1/a20759.html#ac1bb7e2ac921fa542ec414a204117f98", null ],
+    [ "JustEngagedWith", "d1/da1/a20759.html#ac7fb0480f94e0e8ca0061947ec7fdebb", null ],
+    [ "Reset", "d1/da1/a20759.html#afd7fcb578ea65c7a060215257bcc5589", null ],
+    [ "SetData", "d1/da1/a20759.html#a7adbb5b9fa95e7ab73ac5acf81ffefdc", null ],
+    [ "UpdateAI", "d1/da1/a20759.html#ab4ab3b501994c55ce6c2a7b01b8ca70b", null ],
+    [ "_events", "d1/da1/a20759.html#a6faba05e56bdbd4453ee44f9de7dca2d", null ],
+    [ "_instance", "d1/da1/a20759.html#aa392619b8e14ec4092e78cfdfe367858", null ],
+    [ "_killed", "d1/da1/a20759.html#af9dafde2780d5be7a6e22025299dc013", null ]
 ];

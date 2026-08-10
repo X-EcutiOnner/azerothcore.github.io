@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ProcChanceTestHelper::CascadeProcConfig Struct Reference</title>
+<title>AzerothCore: IntegrationTestFixture Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,60 +105,584 @@ $(document).ready(function(){initNavTree('d7/d60/a29631.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pri-static-methods">Static Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d4/d12/a29628.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ProcChanceTestHelper::CascadeProcConfig Struct Reference</div></div>
+  <div class="headertitle"><div class="title">IntegrationTestFixture Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>Configuration for simulating cascade proc suppression.  
- <a href="../../d7/d60/a29631.html#details">More...</a></p>
-
-<p><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">IntegrationTestFixture.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for IntegrationTestFixture:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d7/d60/a29631.png" usemap="#IntegrationTestFixture_map" alt=""/>
+  <map id="IntegrationTestFixture_map" name="IntegrationTestFixture_map">
+<area href="../../dc/da2/a29939.html" alt="anonymous_namespace{FrostboltPvPTest.cpp}::FrostboltPvPTest" shape="rect" coords="0,112,474,136"/>
+<area href="../../df/d1e/a30063.html" alt="anonymous_namespace{SpellProcUnitIntegrationTest.cpp}::ProcUnitIntegrationTest" shape="rect" coords="484,112,958,136"/>
+  </map>
+</div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a38c3523c80d30ed10b8c3b5e19c083f6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d60/a29631.html#a38c3523c80d30ed10b8c3b5e19c083f6">triggeringSpellIsProcDisabled</a> = false</td></tr>
-<tr class="separator:a38c3523c80d30ed10b8c3b5e19c083f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aec81d4f80c7cb7749f860601c9e5aac8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d60/a29631.html#aec81d4f80c7cb7749f860601c9e5aac8">auraHasDisableProcAttr</a> = false</td></tr>
-<tr class="separator:aec81d4f80c7cb7749f860601c9e5aac8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:a8ae97cc2fe6cec6678fc68828bb78311"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d60/a29631.html#a8ae97cc2fe6cec6678fc68828bb78311">SetUp</a> () override</td></tr>
+<tr class="separator:a8ae97cc2fe6cec6678fc68828bb78311"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd9650e94915e9c9b2c00d0f5883012a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d60/a29631.html#abd9650e94915e9c9b2c00d0f5883012a">TearDown</a> () override</td></tr>
+<tr class="separator:abd9650e94915e9c9b2c00d0f5883012a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6419bf25da27ee490712daa877adbd72"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d7f/a29707.html">TestPlayer</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d60/a29631.html#a6419bf25da27ee490712daa877adbd72">CreateTestPlayer</a> (<a class="el" href="../../d1/d28/a08831.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> guidLow=1, std::string const &amp;name=&quot;TestPlayer&quot;, <a class="el" href="../../d4/d8c/a00035.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a> security=<a class="el" href="../../d4/d8c/a00035.html#adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0">SEC_PLAYER</a>)</td></tr>
+<tr class="separator:a6419bf25da27ee490712daa877adbd72"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a617fd4d9d90187bc2f73d4b3ae7fe2e9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dcf/a29699.html">TestCreature</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d60/a29631.html#a617fd4d9d90187bc2f73d4b3ae7fe2e9">CreateTestCreature</a> (<a class="el" href="../../d1/d28/a08831.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> guidLow, <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entry, <a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> factionId)</td></tr>
+<tr class="separator:a617fd4d9d90187bc2f73d4b3ae7fe2e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af142aa528b5add94d80218bfb87673d2"><td class="memItemLeft" align="right" valign="top">NiceMock&lt; <a class="el" href="../../db/d80/a29723.html">WorldMock</a> &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d60/a29631.html#af142aa528b5add94d80218bfb87673d2">GetWorldMock</a> ()</td></tr>
+<tr class="separator:af142aa528b5add94d80218bfb87673d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4ec7240a978801c7b0e680bd8072289"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/df7/a29703.html">TestMap</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d60/a29631.html#ae4ec7240a978801c7b0e680bd8072289">GetTestMap</a> ()</td></tr>
+<tr class="separator:ae4ec7240a978801c7b0e680bd8072289"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-static-methods" name="pri-static-methods"></a>
+Static Private Member Functions</h2></td></tr>
+<tr class="memitem:a83a02366f7bf6726e14b9f3237e2b545"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d60/a29631.html#a83a02366f7bf6726e14b9f3237e2b545">EnsureFactionTemplates</a> ()</td></tr>
+<tr class="separator:a83a02366f7bf6726e14b9f3237e2b545"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a68d71c2f6f685757f78855a65dfea247"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d4c/a12347.html">IWorld</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d60/a29631.html#a68d71c2f6f685757f78855a65dfea247">_originalWorld</a> = nullptr</td></tr>
+<tr class="separator:a68d71c2f6f685757f78855a65dfea247"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7cef42e42607cf7c562b20827a0df766"><td class="memItemLeft" align="right" valign="top">NiceMock&lt; <a class="el" href="../../db/d80/a29723.html">WorldMock</a> &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d60/a29631.html#a7cef42e42607cf7c562b20827a0df766">_worldMock</a> = nullptr</td></tr>
+<tr class="separator:a7cef42e42607cf7c562b20827a0df766"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a71376b2bd9b26c15bdc5a377c918df4f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/df7/a29703.html">TestMap</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d60/a29631.html#a71376b2bd9b26c15bdc5a377c918df4f">_testMap</a> = nullptr</td></tr>
+<tr class="separator:a71376b2bd9b26c15bdc5a377c918df4f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abebf5ed00a2531d755c905b0fca011d6"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d6/d7f/a29707.html">TestPlayer</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d60/a29631.html#abebf5ed00a2531d755c905b0fca011d6">_trackedPlayers</a></td></tr>
+<tr class="separator:abebf5ed00a2531d755c905b0fca011d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab782034dea584c12fcc6167f08cb1c2e"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../db/dcf/a29699.html">TestCreature</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d60/a29631.html#ab782034dea584c12fcc6167f08cb1c2e">_trackedCreatures</a></td></tr>
+<tr class="separator:ab782034dea584c12fcc6167f08cb1c2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a14a887c379c1bab8270e4e447d6d3710"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../da/dd0/a08431.html">CreatureTemplate</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d60/a29631.html#a14a887c379c1bab8270e4e447d6d3710">_ownedCreatureTemplates</a></td></tr>
+<tr class="separator:a14a887c379c1bab8270e4e447d6d3710"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Configuration for simulating cascade proc suppression. </p>
-<p >Models the two paths in TriggerAurasProcOnEvent that call SetCantProc():</p><ol type="1">
-<li>Outer check: triggering spell has TRIGGERED_DISALLOW_PROC_EVENTS</li>
-<li>Per-aura check: aura has SPELL_ATTR3_INSTANT_TARGET_PROCS (0x80000) </li>
-</ol>
-</div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="aec81d4f80c7cb7749f860601c9e5aac8" name="aec81d4f80c7cb7749f860601c9e5aac8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aec81d4f80c7cb7749f860601c9e5aac8">&#9670;&#160;</a></span>auraHasDisableProcAttr</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a617fd4d9d90187bc2f73d4b3ae7fe2e9" name="a617fd4d9d90187bc2f73d4b3ae7fe2e9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a617fd4d9d90187bc2f73d4b3ae7fe2e9">&#9670;&#160;</a></span>CreateTestCreature()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool ProcChanceTestHelper::CascadeProcConfig::auraHasDisableProcAttr = false</td>
+          <td class="memname"><a class="el" href="../../db/dcf/a29699.html">TestCreature</a> * IntegrationTestFixture::CreateTestCreature </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/d28/a08831.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td>
+          <td class="paramname"><em>guidLow</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>entry</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d19/a00515.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>factionId</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00038">CascadeProcSuppressionTest::MakeConfig()</a>, <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>, and <a class="el" href="../../#l00144">TEST_P()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  119</span>    {</div>
+<div class="line"><span class="lineno">  120</span>        <span class="comment">// CreatureTemplate must be heap-allocated AFTER WorldMock is installed</span></div>
+<div class="line"><span class="lineno">  121</span>        <span class="comment">// because CreatureMovementData() constructor calls sWorld-&gt;getIntConfig()</span></div>
+<div class="line"><span class="lineno">  122</span>        <span class="keyword">auto</span>* tmpl = <span class="keyword">new</span> <a class="code hl_struct" href="../../da/dd0/a08431.html">CreatureTemplate</a>();</div>
+<div class="line"><span class="lineno">  123</span>        tmpl-&gt;Entry = entry;</div>
+<div class="line"><span class="lineno">  124</span>        tmpl-&gt;faction = factionId;</div>
+<div class="line"><span class="lineno">  125</span>        tmpl-&gt;minlevel = 80;</div>
+<div class="line"><span class="lineno">  126</span>        tmpl-&gt;maxlevel = 80;</div>
+<div class="line"><span class="lineno">  127</span>        tmpl-&gt;unit_class = <a class="code hl_enumvalue" href="../../d0/df5/a02549.html#a86e4e3df7a5142175aa5df522d3346cfa679de5e410197d42cea53f371aba7f59">CLASS_WARRIOR</a>;</div>
+<div class="line"><span class="lineno">  128</span>        tmpl-&gt;DamageModifier = 1.0f;</div>
+<div class="line"><span class="lineno">  129</span>        tmpl-&gt;BaseAttackTime = 2000;</div>
+<div class="line"><span class="lineno">  130</span>        tmpl-&gt;RangeAttackTime = 2000;</div>
+<div class="line"><span class="lineno">  131</span>        tmpl-&gt;BaseVariance = 1.0f;</div>
+<div class="line"><span class="lineno">  132</span>        tmpl-&gt;RangeVariance = 1.0f;</div>
+<div class="line"><span class="lineno">  133</span>        tmpl-&gt;ModHealth = 1.0f;</div>
+<div class="line"><span class="lineno">  134</span>        <a class="code hl_variable" href="../../d7/d60/a29631.html#a14a887c379c1bab8270e4e447d6d3710">_ownedCreatureTemplates</a>.push_back(tmpl);</div>
+<div class="line"><span class="lineno">  135</span> </div>
+<div class="line"><span class="lineno">  136</span>        <span class="keyword">auto</span>* creature = <span class="keyword">new</span> <a class="code hl_class" href="../../db/dcf/a29699.html">TestCreature</a>();</div>
+<div class="line"><span class="lineno">  137</span>        creature-&gt;ForceInitValues(guidLow, entry);</div>
+<div class="line"><span class="lineno">  138</span>        creature-&gt;SetTestMap(<a class="code hl_variable" href="../../d7/d60/a29631.html#a71376b2bd9b26c15bdc5a377c918df4f">_testMap</a>);</div>
+<div class="line"><span class="lineno">  139</span>        creature-&gt;SetInWorld(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  140</span>        creature-&gt;SetAlive(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  141</span>        creature-&gt;SetPhase(1);</div>
+<div class="line"><span class="lineno">  142</span>        creature-&gt;SetFaction(factionId);</div>
+<div class="line"><span class="lineno">  143</span>        creature-&gt;SetLevel(80);</div>
+<div class="line"><span class="lineno">  144</span>        creature-&gt;SetMaxHealth(10000);</div>
+<div class="line"><span class="lineno">  145</span>        creature-&gt;SetHealth(10000);</div>
+<div class="line"><span class="lineno">  146</span>        creature-&gt;InitializeThreatManager();</div>
+<div class="line"><span class="lineno">  147</span>        <a class="code hl_variable" href="../../d7/d60/a29631.html#ab782034dea584c12fcc6167f08cb1c2e">_trackedCreatures</a>.push_back(creature);</div>
+<div class="line"><span class="lineno">  148</span> </div>
+<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">return</span> creature;</div>
+<div class="line"><span class="lineno">  150</span>    }</div>
+<div class="ttc" id="aa02549_html_a86e4e3df7a5142175aa5df522d3346cfa679de5e410197d42cea53f371aba7f59"><div class="ttname"><a href="../../d0/df5/a02549.html#a86e4e3df7a5142175aa5df522d3346cfa679de5e410197d42cea53f371aba7f59">CLASS_WARRIOR</a></div><div class="ttdeci">@ CLASS_WARRIOR</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:126</div></div>
+<div class="ttc" id="aa08431_html"><div class="ttname"><a href="../../da/dd0/a08431.html">CreatureTemplate</a></div><div class="ttdef"><b>Definition:</b> CreatureData.h:187</div></div>
+<div class="ttc" id="aa29631_html_a14a887c379c1bab8270e4e447d6d3710"><div class="ttname"><a href="../../d7/d60/a29631.html#a14a887c379c1bab8270e4e447d6d3710">IntegrationTestFixture::_ownedCreatureTemplates</a></div><div class="ttdeci">std::vector&lt; CreatureTemplate * &gt; _ownedCreatureTemplates</div><div class="ttdef"><b>Definition:</b> IntegrationTestFixture.h:189</div></div>
+<div class="ttc" id="aa29631_html_a71376b2bd9b26c15bdc5a377c918df4f"><div class="ttname"><a href="../../d7/d60/a29631.html#a71376b2bd9b26c15bdc5a377c918df4f">IntegrationTestFixture::_testMap</a></div><div class="ttdeci">TestMap * _testMap</div><div class="ttdef"><b>Definition:</b> IntegrationTestFixture.h:186</div></div>
+<div class="ttc" id="aa29631_html_ab782034dea584c12fcc6167f08cb1c2e"><div class="ttname"><a href="../../d7/d60/a29631.html#ab782034dea584c12fcc6167f08cb1c2e">IntegrationTestFixture::_trackedCreatures</a></div><div class="ttdeci">std::vector&lt; TestCreature * &gt; _trackedCreatures</div><div class="ttdef"><b>Definition:</b> IntegrationTestFixture.h:188</div></div>
+<div class="ttc" id="aa29699_html"><div class="ttname"><a href="../../db/dcf/a29699.html">TestCreature</a></div><div class="ttdef"><b>Definition:</b> TestCreature.h:36</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00189">_ownedCreatureTemplates</a>, <a class="el" href="../../#l00186">_testMap</a>, <a class="el" href="../../#l00188">_trackedCreatures</a>, and <a class="el" href="../../#l00126">CLASS_WARRIOR</a>.</p>
 
 </div>
 </div>
-<a id="a38c3523c80d30ed10b8c3b5e19c083f6" name="a38c3523c80d30ed10b8c3b5e19c083f6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a38c3523c80d30ed10b8c3b5e19c083f6">&#9670;&#160;</a></span>triggeringSpellIsProcDisabled</h2>
+<a id="a6419bf25da27ee490712daa877adbd72" name="a6419bf25da27ee490712daa877adbd72"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6419bf25da27ee490712daa877adbd72">&#9670;&#160;</a></span>CreateTestPlayer()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool ProcChanceTestHelper::CascadeProcConfig::triggeringSpellIsProcDisabled = false</td>
+          <td class="memname"><a class="el" href="../../d6/d7f/a29707.html">TestPlayer</a> * IntegrationTestFixture::CreateTestPlayer </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/d28/a08831.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td>
+          <td class="paramname"><em>guidLow</em> = <code>1</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>name</em> = <code>&quot;TestPlayer&quot;</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/d8c/a00035.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a>&#160;</td>
+          <td class="paramname"><em>security</em> = <code><a class="el" href="../../d4/d8c/a00035.html#adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0">SEC_PLAYER</a></code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  100</span>    {</div>
+<div class="line"><span class="lineno">  101</span>        <span class="keyword">auto</span>* session = <span class="keyword">new</span> <a class="code hl_class" href="../../dc/df2/a11775.html">WorldSession</a>(guidLow, std::string(name), 0, <span class="keyword">nullptr</span>, security,</div>
+<div class="line"><span class="lineno">  102</span>            <a class="code hl_enumvalue" href="../../d0/df5/a02549.html#ae11f8b7bbf107fc1f6bc24cd61f22404aeaca05b151241723cc1d4c218b8e347f">EXPANSION_WRATH_OF_THE_LICH_KING</a>, 0, <a class="code hl_enumvalue" href="../../d4/d8c/a00035.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>, 0, <span class="keyword">false</span>, <span class="keyword">false</span>, 0);</div>
+<div class="line"><span class="lineno">  103</span>        <span class="comment">// Pre-allocate RBAC data so Player&#39;s ctor (which calls</span></div>
+<div class="line"><span class="lineno">  104</span>        <span class="comment">// GetSession()-&gt;HasPermission) doesn&#39;t try to load from DB.</span></div>
+<div class="line"><span class="lineno">  105</span>        session-&gt;InitRBACDataForTest();</div>
+<div class="line"><span class="lineno">  106</span> </div>
+<div class="line"><span class="lineno">  107</span>        <span class="keyword">auto</span>* player = <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d7f/a29707.html">TestPlayer</a>(session);</div>
+<div class="line"><span class="lineno">  108</span>        player-&gt;ForceInitValues(guidLow);</div>
+<div class="line"><span class="lineno">  109</span>        session-&gt;SetPlayer(player);</div>
+<div class="line"><span class="lineno">  110</span>        player-&gt;SetSession(session);</div>
+<div class="line"><span class="lineno">  111</span>        player-&gt;SetMap(<a class="code hl_variable" href="../../d7/d60/a29631.html#a71376b2bd9b26c15bdc5a377c918df4f">_testMap</a>);</div>
+<div class="line"><span class="lineno">  112</span>        player-&gt;AddToWorld();</div>
+<div class="line"><span class="lineno">  113</span>        <a class="code hl_variable" href="../../d7/d60/a29631.html#abebf5ed00a2531d755c905b0fca011d6">_trackedPlayers</a>.push_back(player);</div>
+<div class="line"><span class="lineno">  114</span> </div>
+<div class="line"><span class="lineno">  115</span>        <span class="keywordflow">return</span> player;</div>
+<div class="line"><span class="lineno">  116</span>    }</div>
+<div class="ttc" id="aa00035_html_a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3"><div class="ttname"><a href="../../d4/d8c/a00035.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a></div><div class="ttdeci">@ LOCALE_enUS</div><div class="ttdef"><b>Definition:</b> Common.h:126</div></div>
+<div class="ttc" id="aa02549_html_ae11f8b7bbf107fc1f6bc24cd61f22404aeaca05b151241723cc1d4c218b8e347f"><div class="ttname"><a href="../../d0/df5/a02549.html#ae11f8b7bbf107fc1f6bc24cd61f22404aeaca05b151241723cc1d4c218b8e347f">EXPANSION_WRATH_OF_THE_LICH_KING</a></div><div class="ttdeci">@ EXPANSION_WRATH_OF_THE_LICH_KING</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:55</div></div>
+<div class="ttc" id="aa11775_html"><div class="ttname"><a href="../../dc/df2/a11775.html">WorldSession</a></div><div class="ttdoc">Player session in the World.</div><div class="ttdef"><b>Definition:</b> WorldSession.h:409</div></div>
+<div class="ttc" id="aa29631_html_abebf5ed00a2531d755c905b0fca011d6"><div class="ttname"><a href="../../d7/d60/a29631.html#abebf5ed00a2531d755c905b0fca011d6">IntegrationTestFixture::_trackedPlayers</a></div><div class="ttdeci">std::vector&lt; TestPlayer * &gt; _trackedPlayers</div><div class="ttdef"><b>Definition:</b> IntegrationTestFixture.h:187</div></div>
+<div class="ttc" id="aa29707_html"><div class="ttname"><a href="../../d6/d7f/a29707.html">TestPlayer</a></div><div class="ttdef"><b>Definition:</b> TestPlayer.h:24</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00186">_testMap</a>, <a class="el" href="../../#l00187">_trackedPlayers</a>, <a class="el" href="../../#l00055">EXPANSION_WRATH_OF_THE_LICH_KING</a>, and <a class="el" href="../../#l00126">LOCALE_enUS</a>.</p>
+
+</div>
+</div>
+<a id="a83a02366f7bf6726e14b9f3237e2b545" name="a83a02366f7bf6726e14b9f3237e2b545"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a83a02366f7bf6726e14b9f3237e2b545">&#9670;&#160;</a></span>EnsureFactionTemplates()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void IntegrationTestFixture::EnsureFactionTemplates </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  157</span>    {</div>
+<div class="line"><span class="lineno">  158</span>        <span class="keyword">static</span> <span class="keywordtype">bool</span> initialized = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  159</span>        <span class="keywordflow">if</span> (initialized)</div>
+<div class="line"><span class="lineno">  160</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  161</span>        initialized = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  162</span> </div>
+<div class="line"><span class="lineno">  163</span>        <span class="comment">// Faction 90001: &quot;player-like&quot; — ourMask=1 (FACTION_MASK_PLAYER), hostile to monsters (hostileMask=8)</span></div>
+<div class="line"><span class="lineno">  164</span>        <span class="keyword">auto</span>* f1 = <span class="keyword">new</span> <a class="code hl_struct" href="../../d2/d30/a29183.html">FactionTemplateEntry</a>();</div>
+<div class="line"><span class="lineno">  165</span>        std::memset(f1, 0, <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d2/d30/a29183.html">FactionTemplateEntry</a>));</div>
+<div class="line"><span class="lineno">  166</span>        f1-&gt;ID = <a class="code hl_variable" href="../../d4/d6b/a05039.html#af72a10157e381ef81a175a8ac4844d73">TEST_FACTION_HOSTILE_TO_MONSTERS</a>;</div>
+<div class="line"><span class="lineno">  167</span>        f1-&gt;faction = <a class="code hl_variable" href="../../d4/d6b/a05039.html#af72a10157e381ef81a175a8ac4844d73">TEST_FACTION_HOSTILE_TO_MONSTERS</a>;</div>
+<div class="line"><span class="lineno">  168</span>        f1-&gt;ourMask = 0x1;       <span class="comment">// FACTION_MASK_PLAYER</span></div>
+<div class="line"><span class="lineno">  169</span>        f1-&gt;friendlyMask = 0x1;  <span class="comment">// friendly to players</span></div>
+<div class="line"><span class="lineno">  170</span>        f1-&gt;hostileMask = 0x8;   <span class="comment">// hostile to monsters</span></div>
+<div class="line"><span class="lineno">  171</span>        <a class="code hl_variable" href="../../d1/da3/a02327.html#ab92b42f7bf8dc60a8d0d92aa9b1ca5a1">sFactionTemplateStore</a>.SetEntry(<a class="code hl_variable" href="../../d4/d6b/a05039.html#af72a10157e381ef81a175a8ac4844d73">TEST_FACTION_HOSTILE_TO_MONSTERS</a>, f1);</div>
+<div class="line"><span class="lineno">  172</span> </div>
+<div class="line"><span class="lineno">  173</span>        <span class="comment">// Faction 90002: &quot;monster&quot; — ourMask=8 (FACTION_MASK_MONSTER), hostile to players (hostileMask=1)</span></div>
+<div class="line"><span class="lineno">  174</span>        <span class="keyword">auto</span>* f2 = <span class="keyword">new</span> <a class="code hl_struct" href="../../d2/d30/a29183.html">FactionTemplateEntry</a>();</div>
+<div class="line"><span class="lineno">  175</span>        std::memset(f2, 0, <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d2/d30/a29183.html">FactionTemplateEntry</a>));</div>
+<div class="line"><span class="lineno">  176</span>        f2-&gt;ID = <a class="code hl_variable" href="../../d4/d6b/a05039.html#a2ba0fc21bd7fc2eb0be55b83f098c883">TEST_FACTION_HOSTILE_TO_ALL</a>;</div>
+<div class="line"><span class="lineno">  177</span>        f2-&gt;faction = <a class="code hl_variable" href="../../d4/d6b/a05039.html#a2ba0fc21bd7fc2eb0be55b83f098c883">TEST_FACTION_HOSTILE_TO_ALL</a>;</div>
+<div class="line"><span class="lineno">  178</span>        f2-&gt;ourMask = 0x8;       <span class="comment">// FACTION_MASK_MONSTER</span></div>
+<div class="line"><span class="lineno">  179</span>        f2-&gt;friendlyMask = 0x0;  <span class="comment">// friendly to none</span></div>
+<div class="line"><span class="lineno">  180</span>        f2-&gt;hostileMask = 0x1;   <span class="comment">// hostile to players</span></div>
+<div class="line"><span class="lineno">  181</span>        <a class="code hl_variable" href="../../d1/da3/a02327.html#ab92b42f7bf8dc60a8d0d92aa9b1ca5a1">sFactionTemplateStore</a>.SetEntry(<a class="code hl_variable" href="../../d4/d6b/a05039.html#a2ba0fc21bd7fc2eb0be55b83f098c883">TEST_FACTION_HOSTILE_TO_ALL</a>, f2);</div>
+<div class="line"><span class="lineno">  182</span>    }</div>
+<div class="ttc" id="aa02327_html_ab92b42f7bf8dc60a8d0d92aa9b1ca5a1"><div class="ttname"><a href="../../d1/da3/a02327.html#ab92b42f7bf8dc60a8d0d92aa9b1ca5a1">sFactionTemplateStore</a></div><div class="ttdeci">DBCStorage&lt; FactionTemplateEntry &gt; sFactionTemplateStore(FactionTemplateEntryfmt)</div></div>
+<div class="ttc" id="aa05039_html_a2ba0fc21bd7fc2eb0be55b83f098c883"><div class="ttname"><a href="../../d4/d6b/a05039.html#a2ba0fc21bd7fc2eb0be55b83f098c883">TEST_FACTION_HOSTILE_TO_ALL</a></div><div class="ttdeci">static constexpr uint32 TEST_FACTION_HOSTILE_TO_ALL</div><div class="ttdef"><b>Definition:</b> IntegrationTestFixture.h:36</div></div>
+<div class="ttc" id="aa05039_html_af72a10157e381ef81a175a8ac4844d73"><div class="ttname"><a href="../../d4/d6b/a05039.html#af72a10157e381ef81a175a8ac4844d73">TEST_FACTION_HOSTILE_TO_MONSTERS</a></div><div class="ttdeci">static constexpr uint32 TEST_FACTION_HOSTILE_TO_MONSTERS</div><div class="ttdef"><b>Definition:</b> IntegrationTestFixture.h:35</div></div>
+<div class="ttc" id="aa29183_html"><div class="ttname"><a href="../../d2/d30/a29183.html">FactionTemplateEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:939</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../d1/da3/a02327.html#ab92b42f7bf8dc60a8d0d92aa9b1ca5a1">sFactionTemplateStore</a>, <a class="el" href="../../#l00036">TEST_FACTION_HOSTILE_TO_ALL</a>, and <a class="el" href="../../#l00035">TEST_FACTION_HOSTILE_TO_MONSTERS</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00041">SetUp()</a>.</p>
+
+</div>
+</div>
+<a id="ae4ec7240a978801c7b0e680bd8072289" name="ae4ec7240a978801c7b0e680bd8072289"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4ec7240a978801c7b0e680bd8072289">&#9670;&#160;</a></span>GetTestMap()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/df7/a29703.html">TestMap</a> * IntegrationTestFixture::GetTestMap </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  153</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d60/a29631.html#a71376b2bd9b26c15bdc5a377c918df4f">_testMap</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00186">_testMap</a>.</p>
+
+</div>
+</div>
+<a id="af142aa528b5add94d80218bfb87673d2" name="af142aa528b5add94d80218bfb87673d2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af142aa528b5add94d80218bfb87673d2">&#9670;&#160;</a></span>GetWorldMock()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">NiceMock&lt; <a class="el" href="../../db/d80/a29723.html">WorldMock</a> &gt; * IntegrationTestFixture::GetWorldMock </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  152</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d60/a29631.html#a7cef42e42607cf7c562b20827a0df766">_worldMock</a>; }</div>
+<div class="ttc" id="aa29631_html_a7cef42e42607cf7c562b20827a0df766"><div class="ttname"><a href="../../d7/d60/a29631.html#a7cef42e42607cf7c562b20827a0df766">IntegrationTestFixture::_worldMock</a></div><div class="ttdeci">NiceMock&lt; WorldMock &gt; * _worldMock</div><div class="ttdef"><b>Definition:</b> IntegrationTestFixture.h:185</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00185">_worldMock</a>.</p>
+
+</div>
+</div>
+<a id="a8ae97cc2fe6cec6678fc68828bb78311" name="a8ae97cc2fe6cec6678fc68828bb78311"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8ae97cc2fe6cec6678fc68828bb78311">&#9670;&#160;</a></span>SetUp()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void IntegrationTestFixture::SetUp </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   42</span>    {</div>
+<div class="line"><span class="lineno">   43</span>        <a class="code hl_function" href="../../d1/df7/a29703.html#a2a117f615eafa6336e09defee91574b5">TestMap::EnsureDBC</a>();</div>
+<div class="line"><span class="lineno">   44</span>        <a class="code hl_function" href="../../d7/d60/a29631.html#a83a02366f7bf6726e14b9f3237e2b545">EnsureFactionTemplates</a>();</div>
+<div class="line"><span class="lineno">   45</span> </div>
+<div class="line"><span class="lineno">   46</span>        <a class="code hl_variable" href="../../d7/d60/a29631.html#a68d71c2f6f685757f78855a65dfea247">_originalWorld</a> = <a class="code hl_define" href="../../d6/de9/a05083.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.release();</div>
+<div class="line"><span class="lineno">   47</span>        <a class="code hl_variable" href="../../d7/d60/a29631.html#a7cef42e42607cf7c562b20827a0df766">_worldMock</a> = <span class="keyword">new</span> NiceMock&lt;WorldMock&gt;();</div>
+<div class="line"><span class="lineno">   48</span>        <a class="code hl_define" href="../../d6/de9/a05083.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.reset(<a class="code hl_variable" href="../../d7/d60/a29631.html#a7cef42e42607cf7c562b20827a0df766">_worldMock</a>);</div>
+<div class="line"><span class="lineno">   49</span> </div>
+<div class="line"><span class="lineno">   50</span>        <span class="keyword">static</span> std::string emptyString;</div>
+<div class="line"><span class="lineno">   51</span>        ON_CALL(*<a class="code hl_variable" href="../../d7/d60/a29631.html#a7cef42e42607cf7c562b20827a0df766">_worldMock</a>, GetDataPath()).WillByDefault(ReturnRef(emptyString));</div>
+<div class="line"><span class="lineno">   52</span>        ON_CALL(*<a class="code hl_variable" href="../../d7/d60/a29631.html#a7cef42e42607cf7c562b20827a0df766">_worldMock</a>, GetRealmName()).WillByDefault(ReturnRef(emptyString));</div>
+<div class="line"><span class="lineno">   53</span>        ON_CALL(*<a class="code hl_variable" href="../../d7/d60/a29631.html#a7cef42e42607cf7c562b20827a0df766">_worldMock</a>, GetDefaultDbcLocale()).WillByDefault(Return(<a class="code hl_enumvalue" href="../../d4/d8c/a00035.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>));</div>
+<div class="line"><span class="lineno">   54</span>        ON_CALL(*<a class="code hl_variable" href="../../d7/d60/a29631.html#a7cef42e42607cf7c562b20827a0df766">_worldMock</a>, getRate(_)).WillByDefault(Return(1.0f));</div>
+<div class="line"><span class="lineno">   55</span>        ON_CALL(*<a class="code hl_variable" href="../../d7/d60/a29631.html#a7cef42e42607cf7c562b20827a0df766">_worldMock</a>, getBoolConfig(_)).WillByDefault(Return(<span class="keyword">false</span>));</div>
+<div class="line"><span class="lineno">   56</span>        ON_CALL(*<a class="code hl_variable" href="../../d7/d60/a29631.html#a7cef42e42607cf7c562b20827a0df766">_worldMock</a>, getIntConfig(_)).WillByDefault(Return(0));</div>
+<div class="line"><span class="lineno">   57</span>        ON_CALL(*<a class="code hl_variable" href="../../d7/d60/a29631.html#a7cef42e42607cf7c562b20827a0df766">_worldMock</a>, getFloatConfig(_)).WillByDefault(Return(0.0f));</div>
+<div class="line"><span class="lineno">   58</span>        ON_CALL(*<a class="code hl_variable" href="../../d7/d60/a29631.html#a7cef42e42607cf7c562b20827a0df766">_worldMock</a>, GetPlayerSecurityLimit()).WillByDefault(Return(<a class="code hl_enumvalue" href="../../d4/d8c/a00035.html#adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0">SEC_PLAYER</a>));</div>
+<div class="line"><span class="lineno">   59</span> </div>
+<div class="line"><span class="lineno">   60</span>        <a class="code hl_variable" href="../../d7/d60/a29631.html#a71376b2bd9b26c15bdc5a377c918df4f">_testMap</a> = <span class="keyword">new</span> <a class="code hl_class" href="../../d1/df7/a29703.html">TestMap</a>();</div>
+<div class="line"><span class="lineno">   61</span>    }</div>
+<div class="ttc" id="aa00035_html_adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0"><div class="ttname"><a href="../../d4/d8c/a00035.html#adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0">SEC_PLAYER</a></div><div class="ttdeci">@ SEC_PLAYER</div><div class="ttdef"><b>Definition:</b> Common.h:57</div></div>
+<div class="ttc" id="aa05083_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d6/de9/a05083.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:318</div></div>
+<div class="ttc" id="aa29631_html_a68d71c2f6f685757f78855a65dfea247"><div class="ttname"><a href="../../d7/d60/a29631.html#a68d71c2f6f685757f78855a65dfea247">IntegrationTestFixture::_originalWorld</a></div><div class="ttdeci">IWorld * _originalWorld</div><div class="ttdef"><b>Definition:</b> IntegrationTestFixture.h:184</div></div>
+<div class="ttc" id="aa29631_html_a83a02366f7bf6726e14b9f3237e2b545"><div class="ttname"><a href="../../d7/d60/a29631.html#a83a02366f7bf6726e14b9f3237e2b545">IntegrationTestFixture::EnsureFactionTemplates</a></div><div class="ttdeci">static void EnsureFactionTemplates()</div><div class="ttdef"><b>Definition:</b> IntegrationTestFixture.h:156</div></div>
+<div class="ttc" id="aa29703_html"><div class="ttname"><a href="../../d1/df7/a29703.html">TestMap</a></div><div class="ttdef"><b>Definition:</b> TestMap.h:33</div></div>
+<div class="ttc" id="aa29703_html_a2a117f615eafa6336e09defee91574b5"><div class="ttname"><a href="../../d1/df7/a29703.html#a2a117f615eafa6336e09defee91574b5">TestMap::EnsureDBC</a></div><div class="ttdeci">static void EnsureDBC()</div><div class="ttdef"><b>Definition:</b> TestMap.cpp:41</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00184">_originalWorld</a>, <a class="el" href="../../#l00186">_testMap</a>, <a class="el" href="../../#l00185">_worldMock</a>, <a class="el" href="../../#l00041">TestMap::EnsureDBC()</a>, <a class="el" href="../../#l00156">EnsureFactionTemplates()</a>, <a class="el" href="../../#l00126">LOCALE_enUS</a>, <a class="el" href="../../#l00057">SEC_PLAYER</a>, and <a class="el" href="../../#l00318">sWorld</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00067">anonymous_namespace{FrostboltPvPTest.cpp}::FrostboltPvPTest::SetUp()</a>.</p>
+
+</div>
+</div>
+<a id="abd9650e94915e9c9b2c00d0f5883012a" name="abd9650e94915e9c9b2c00d0f5883012a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abd9650e94915e9c9b2c00d0f5883012a">&#9670;&#160;</a></span>TearDown()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void IntegrationTestFixture::TearDown </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   64</span>    {</div>
+<div class="line"><span class="lineno">   65</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span>* creature : <a class="code hl_variable" href="../../d7/d60/a29631.html#ab782034dea584c12fcc6167f08cb1c2e">_trackedCreatures</a>)</div>
+<div class="line"><span class="lineno">   66</span>        {</div>
+<div class="line"><span class="lineno">   67</span>            <span class="keywordflow">if</span> (creature-&gt;IsInWorld())</div>
+<div class="line"><span class="lineno">   68</span>                creature-&gt;RemoveFromWorld();</div>
+<div class="line"><span class="lineno">   69</span>            <span class="keyword">delete</span> creature;</div>
+<div class="line"><span class="lineno">   70</span>        }</div>
+<div class="line"><span class="lineno">   71</span>        <a class="code hl_variable" href="../../d7/d60/a29631.html#ab782034dea584c12fcc6167f08cb1c2e">_trackedCreatures</a>.clear();</div>
+<div class="line"><span class="lineno">   72</span> </div>
+<div class="line"><span class="lineno">   73</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span>* player : <a class="code hl_variable" href="../../d7/d60/a29631.html#abebf5ed00a2531d755c905b0fca011d6">_trackedPlayers</a>)</div>
+<div class="line"><span class="lineno">   74</span>        {</div>
+<div class="line"><span class="lineno">   75</span>            <span class="keywordflow">if</span> (player-&gt;IsInWorld())</div>
+<div class="line"><span class="lineno">   76</span>                player-&gt;RemoveFromWorld();</div>
+<div class="line"><span class="lineno">   77</span>        }</div>
+<div class="line"><span class="lineno">   78</span>        <a class="code hl_variable" href="../../d7/d60/a29631.html#abebf5ed00a2531d755c905b0fca011d6">_trackedPlayers</a>.clear();</div>
+<div class="line"><span class="lineno">   79</span> </div>
+<div class="line"><span class="lineno">   80</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span>* tmpl : <a class="code hl_variable" href="../../d7/d60/a29631.html#a14a887c379c1bab8270e4e447d6d3710">_ownedCreatureTemplates</a>)</div>
+<div class="line"><span class="lineno">   81</span>            <span class="keyword">delete</span> tmpl;</div>
+<div class="line"><span class="lineno">   82</span>        <a class="code hl_variable" href="../../d7/d60/a29631.html#a14a887c379c1bab8270e4e447d6d3710">_ownedCreatureTemplates</a>.clear();</div>
+<div class="line"><span class="lineno">   83</span> </div>
+<div class="line"><span class="lineno">   84</span>        <span class="keyword">delete</span> <a class="code hl_variable" href="../../d7/d60/a29631.html#a71376b2bd9b26c15bdc5a377c918df4f">_testMap</a>;</div>
+<div class="line"><span class="lineno">   85</span>        <a class="code hl_variable" href="../../d7/d60/a29631.html#a71376b2bd9b26c15bdc5a377c918df4f">_testMap</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   86</span> </div>
+<div class="line"><span class="lineno">   87</span>        <a class="code hl_class" href="../../d2/d4c/a12347.html">IWorld</a>* currentWorld = <a class="code hl_define" href="../../d6/de9/a05083.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.release();</div>
+<div class="line"><span class="lineno">   88</span>        <span class="keyword">delete</span> currentWorld;</div>
+<div class="line"><span class="lineno">   89</span>        <a class="code hl_variable" href="../../d7/d60/a29631.html#a7cef42e42607cf7c562b20827a0df766">_worldMock</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   90</span> </div>
+<div class="line"><span class="lineno">   91</span>        <a class="code hl_define" href="../../d6/de9/a05083.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.reset(<a class="code hl_variable" href="../../d7/d60/a29631.html#a68d71c2f6f685757f78855a65dfea247">_originalWorld</a>);</div>
+<div class="line"><span class="lineno">   92</span>        <a class="code hl_variable" href="../../d7/d60/a29631.html#a68d71c2f6f685757f78855a65dfea247">_originalWorld</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   93</span> </div>
+<div class="line"><span class="lineno">   94</span>        <span class="comment">// Intentional leaks of session/player to avoid database access in destructors</span></div>
+<div class="line"><span class="lineno">   95</span>    }</div>
+<div class="ttc" id="aa12347_html"><div class="ttname"><a href="../../d2/d4c/a12347.html">IWorld</a></div><div class="ttdef"><b>Definition:</b> IWorld.h:63</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00184">_originalWorld</a>, <a class="el" href="../../#l00189">_ownedCreatureTemplates</a>, <a class="el" href="../../#l00186">_testMap</a>, <a class="el" href="../../#l00188">_trackedCreatures</a>, <a class="el" href="../../#l00187">_trackedPlayers</a>, <a class="el" href="../../#l00185">_worldMock</a>, and <a class="el" href="../../#l00318">sWorld</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a68d71c2f6f685757f78855a65dfea247" name="a68d71c2f6f685757f78855a65dfea247"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a68d71c2f6f685757f78855a65dfea247">&#9670;&#160;</a></span>_originalWorld</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/d4c/a12347.html">IWorld</a>* IntegrationTestFixture::_originalWorld = nullptr</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00038">CascadeProcSuppressionTest::MakeConfig()</a>, <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>, and <a class="el" href="../../#l00144">TEST_P()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00041">SetUp()</a>, and <a class="el" href="../../#l00063">TearDown()</a>.</p>
+
+</div>
+</div>
+<a id="a14a887c379c1bab8270e4e447d6d3710" name="a14a887c379c1bab8270e4e447d6d3710"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a14a887c379c1bab8270e4e447d6d3710">&#9670;&#160;</a></span>_ownedCreatureTemplates</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;<a class="el" href="../../da/dd0/a08431.html">CreatureTemplate</a>*&gt; IntegrationTestFixture::_ownedCreatureTemplates</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00118">CreateTestCreature()</a>, and <a class="el" href="../../#l00063">TearDown()</a>.</p>
+
+</div>
+</div>
+<a id="a71376b2bd9b26c15bdc5a377c918df4f" name="a71376b2bd9b26c15bdc5a377c918df4f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a71376b2bd9b26c15bdc5a377c918df4f">&#9670;&#160;</a></span>_testMap</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/df7/a29703.html">TestMap</a>* IntegrationTestFixture::_testMap = nullptr</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00118">CreateTestCreature()</a>, <a class="el" href="../../#l00097">CreateTestPlayer()</a>, <a class="el" href="../../#l00153">GetTestMap()</a>, <a class="el" href="../../#l00041">SetUp()</a>, and <a class="el" href="../../#l00063">TearDown()</a>.</p>
+
+</div>
+</div>
+<a id="ab782034dea584c12fcc6167f08cb1c2e" name="ab782034dea584c12fcc6167f08cb1c2e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab782034dea584c12fcc6167f08cb1c2e">&#9670;&#160;</a></span>_trackedCreatures</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;<a class="el" href="../../db/dcf/a29699.html">TestCreature</a>*&gt; IntegrationTestFixture::_trackedCreatures</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00118">CreateTestCreature()</a>, and <a class="el" href="../../#l00063">TearDown()</a>.</p>
+
+</div>
+</div>
+<a id="abebf5ed00a2531d755c905b0fca011d6" name="abebf5ed00a2531d755c905b0fca011d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abebf5ed00a2531d755c905b0fca011d6">&#9670;&#160;</a></span>_trackedPlayers</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;<a class="el" href="../../d6/d7f/a29707.html">TestPlayer</a>*&gt; IntegrationTestFixture::_trackedPlayers</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00097">CreateTestPlayer()</a>, and <a class="el" href="../../#l00063">TearDown()</a>.</p>
+
+</div>
+</div>
+<a id="a7cef42e42607cf7c562b20827a0df766" name="a7cef42e42607cf7c562b20827a0df766"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7cef42e42607cf7c562b20827a0df766">&#9670;&#160;</a></span>_worldMock</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">NiceMock&lt;<a class="el" href="../../db/d80/a29723.html">WorldMock</a>&gt;* IntegrationTestFixture::_worldMock = nullptr</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00152">GetWorldMock()</a>, <a class="el" href="../../#l00041">SetUp()</a>, and <a class="el" href="../../#l00063">TearDown()</a>.</p>
 
 </div>
 </div>
@@ -167,8 +691,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/d89/a29611.html">ProcChanceTestHelper</a></li><li class="navelem"><a class="el" href="../../d7/d60/a29631.html">CascadeProcConfig</a></li>
-    <li class="footer">Generated on Mon Aug 3 2026 21:45:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/d60/a29631.html">IntegrationTestFixture</a></li>
+    <li class="footer">Generated on Mon Aug 10 2026 21:23:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

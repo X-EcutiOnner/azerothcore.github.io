@@ -1,6 +1,6 @@
 var a21491 =
 [
-    [ "instance_violet_hold_InstanceMapScript", "dd/d4b/a21495.html", "dd/d4b/a21495" ],
-    [ "instance_violet_hold", "d0/d11/a21491.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
-    [ "GetInstanceScript", "d0/d11/a21491.html#ab459840bcb0c8bcc58d20e658be0f63a", null ]
+    [ "HandleEffectPeriodic", "d0/d11/a21491.html#a508ff9e362d586497839aa29ceae1227", null ],
+    [ "PrepareAuraScript", "d0/d11/a21491.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
+    [ "Register", "d0/d11/a21491.html#a4b08cefe7d334635b70d389cc9df4901", null ]
 ];

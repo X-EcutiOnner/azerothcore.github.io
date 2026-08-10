@@ -1,6 +1,6 @@
 var a26995 =
 [
-    [ "CheckDummy", "d5/d56/a26995.html#ad2f75ba479a8523b0fffaae86204a25c", null ],
-    [ "PrepareAuraScript", "d5/d56/a26995.html#a7cd3757fddecca39b1b0bd95bb2b8e5b", null ],
-    [ "Register", "d5/d56/a26995.html#af0b1e469fec71b28ca349b9be9c6fdd7", null ]
+    [ "HandleProc", "d5/d56/a26995.html#ac81521531646341356525465bac2a816", null ],
+    [ "PrepareAuraScript", "d5/d56/a26995.html#aa57cede2bfc6354c8b95410d8fb50575", null ],
+    [ "Register", "d5/d56/a26995.html#a8daf8414ff4705741dfed0e818607741", null ]
 ];

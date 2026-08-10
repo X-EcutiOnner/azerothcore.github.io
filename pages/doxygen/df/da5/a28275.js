@@ -1,5 +1,6 @@
 var a28275 =
 [
-    [ "go_tablet_of_the_seven", "df/da5/a28275.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "df/da5/a28275.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "go_darkmoon_faire_musicAI", "da/d30/a28279.html", "da/d30/a28279" ],
+    [ "go_darkmoon_faire_music", "df/da5/a28275.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
+    [ "GetAI", "df/da5/a28275.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
 ];

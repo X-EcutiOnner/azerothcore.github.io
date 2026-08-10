@@ -1,5 +1,6 @@
 var a28395 =
 [
-    [ "item_petrov_cluster_bombs", "d9/d07/a28395.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "d9/d07/a28395.html#aeecb6a7756b4af06f46951dfb51c054f", null ]
+    [ "guard_shattrath_aldorAI", "da/d7c/a28399.html", "da/d7c/a28399" ],
+    [ "guard_shattrath_aldor", "d9/d07/a28395.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "d9/d07/a28395.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

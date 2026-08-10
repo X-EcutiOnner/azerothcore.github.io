@@ -1,7 +1,8 @@
 var a26851 =
 [
-    [ "CheckAreaTarget", "dc/dc9/a26851.html#a3c2dc43efc37be1b34cba266a478f46e", null ],
-    [ "PrepareAuraScript", "dc/dc9/a26851.html#a88c7c19e87106e1bbf6cc5a24a3bc2e4", null ],
-    [ "Register", "dc/dc9/a26851.html#a9cbc5794b1ed54fe9313cd161ec5b19f", null ],
-    [ "Validate", "dc/dc9/a26851.html#ab18a951259cc74b0ba8319f757e38eca", null ]
+    [ "HandleProc", "dc/dc9/a26851.html#a95553bc0c973be3a2e3911602e4067c8", null ],
+    [ "PrepareAuraScript", "dc/dc9/a26851.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
+    [ "Register", "dc/dc9/a26851.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
+    [ "Validate", "dc/dc9/a26851.html#aad1324e94920136258c419094cfca4c3", null ],
+    [ "_cooldownEnd", "dc/dc9/a26851.html#a4f19a965ed8ddab712633abdb761d210", null ]
 ];

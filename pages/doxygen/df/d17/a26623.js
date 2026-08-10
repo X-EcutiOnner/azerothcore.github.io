@@ -1,6 +1,7 @@
 var a26623 =
 [
-    [ "CheckProc", "df/d17/a26623.html#a0158185a5c1c3b3d1d79f93bbb9c6fa7", null ],
-    [ "PrepareAuraScript", "df/d17/a26623.html#a50084bc759ee453a3f5552ca2e039de2", null ],
-    [ "Register", "df/d17/a26623.html#ab79fcdd56767e0199b96d24d71bea452", null ]
+    [ "HandleProc", "df/d17/a26623.html#ad97c3b5df293ed8afae3e662467088c2", null ],
+    [ "PrepareAuraScript", "df/d17/a26623.html#a691f14220a619e1915636417927aaa13", null ],
+    [ "Register", "df/d17/a26623.html#a4f3c644a91dab0641ef489fd2da171a2", null ],
+    [ "Validate", "df/d17/a26623.html#a6fee4af68a8d312bcb543e0c67932cc9", null ]
 ];

@@ -1,8 +1,8 @@
 var a27015 =
 [
-    [ "HandleEffectApply", "da/ddd/a27015.html#aed959961fcd07649cd4914fcd38a3214", null ],
-    [ "if", "da/ddd/a27015.html#a1518c08cb3b5cb716b8bd01692a5160d", null ],
-    [ "PrepareAuraScript", "da/ddd/a27015.html#a42167bc6bf7992debea8582680251da4", null ],
-    [ "Register", "da/ddd/a27015.html#aa2c23abd2b90a276bd7980cadc0397a4", null ],
-    [ "AuraEffectHandleModes", "da/ddd/a27015.html#ac886dec8a2ce55af4ec58ab068c589fa", null ]
+    [ "CheckProc", "da/ddd/a27015.html#ab37749506a197a97cb3cc567cdff199c", null ],
+    [ "HandleProc", "da/ddd/a27015.html#a4af1cc19b8ccc4ce0d3bdcaa93a3cce2", null ],
+    [ "PrepareAuraScript", "da/ddd/a27015.html#a0c7c91113f0a4a289dcc5e53450a635a", null ],
+    [ "Register", "da/ddd/a27015.html#af52bd6c3d698e3e1f7144431ee5c7d69", null ],
+    [ "Validate", "da/ddd/a27015.html#aa4639d482cfda229e0a6eaa53c320ea8", null ]
 ];

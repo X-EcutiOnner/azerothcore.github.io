@@ -1,6 +1,6 @@
 var a24187 =
 [
-    [ "npc_infernal_attackerAI", "d1/d7f/a24191.html", "d1/d7f/a24191" ],
-    [ "npc_infernal_attacker", "d2/ddb/a24187.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "d2/ddb/a24187.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "HandleEffectRemove", "d2/ddb/a24187.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
+    [ "PrepareAuraScript", "d2/ddb/a24187.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
+    [ "Register", "d2/ddb/a24187.html#ac02217c103db141d75377e233e1e4242", null ]
 ];

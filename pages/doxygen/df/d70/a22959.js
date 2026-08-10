@@ -1,8 +1,6 @@
 var a22959 =
 [
-    [ "HandleEffectApply", "df/d70/a22959.html#a94993441ef94f84c85aa10c693cf34fe", null ],
-    [ "HandleEffectRemove", "df/d70/a22959.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
-    [ "PrepareAuraScript", "df/d70/a22959.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
-    [ "Register", "df/d70/a22959.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
-    [ "Validate", "df/d70/a22959.html#a964637541cd64e64b4e02c00d36abf2d", null ]
+    [ "boss_essence_of_sufferingAI", "d1/d8f/a22963.html", "d1/d8f/a22963" ],
+    [ "boss_essence_of_suffering", "df/d70/a22959.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "df/d70/a22959.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

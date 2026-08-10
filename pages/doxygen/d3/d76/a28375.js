@@ -1,10 +1,6 @@
 var a28375 =
 [
-    [ "guard_shattrath_aldorAI", "d3/d76/a28375.html#a88961dfe4100dfe207af693a1eed86ad", null ],
-    [ "Reset", "d3/d76/a28375.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
-    [ "UpdateAI", "d3/d76/a28375.html#ac87ee12d4487971b68c70f06f63eb410", null ],
-    [ "banishTimer", "d3/d76/a28375.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
-    [ "canTeleport", "d3/d76/a28375.html#af4d933b56431d2f2755d87fb05922458", null ],
-    [ "exileTimer", "d3/d76/a28375.html#a8d56205206f3e14184922f96873456ad", null ],
-    [ "playerGUID", "d3/d76/a28375.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
+    [ "go_bellsAI", "d7/dd5/a28379.html", "d7/dd5/a28379" ],
+    [ "go_bells", "d3/d76/a28375.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
+    [ "GetAI", "d3/d76/a28375.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
 ];

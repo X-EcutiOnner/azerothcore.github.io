@@ -1,6 +1,7 @@
 var a25791 =
 [
-    [ "HandleItemRemove", "d7/d2f/a25791.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
-    [ "PrepareSpellScript", "d7/d2f/a25791.html#a8b43e146724a2c8b3c495e886a79d021", null ],
-    [ "Register", "d7/d2f/a25791.html#af8b02c31b81dce516ea47d6a1235d683", null ]
+    [ "HandleProc", "d7/d2f/a25791.html#a8e35d9e56b5d896b23844e8075c746d7", null ],
+    [ "PrepareAuraScript", "d7/d2f/a25791.html#a56c8ada8651cfd024cc7514417b986d6", null ],
+    [ "Register", "d7/d2f/a25791.html#a818ed2117c52a53939df5bf4d035854f", null ],
+    [ "Validate", "d7/d2f/a25791.html#ad9239fbe538bdc0019c60ef461c6c8ca", null ]
 ];

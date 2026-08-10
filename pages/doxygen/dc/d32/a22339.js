@@ -1,9 +1,6 @@
 var a22339 =
 [
-    [ "HandlePeriodic", "dc/d32/a22339.html#a0943e7887ff935ccea21d913429e25a0", null ],
-    [ "OnRemove", "dc/d32/a22339.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
-    [ "PrepareAuraScript", "dc/d32/a22339.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
-    [ "Register", "dc/d32/a22339.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
-    [ "_tickNumber", "dc/d32/a22339.html#a3f8943e288e96f639fb805869749879b", null ],
-    [ "_warning", "dc/d32/a22339.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
+    [ "HandleScriptEffect", "dc/d32/a22339.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
+    [ "PrepareSpellScript", "dc/d32/a22339.html#afa4ad1b205bf963b4230881738baf938", null ],
+    [ "Register", "dc/d32/a22339.html#a0d8925effced854471e2fbec9c631b91", null ]
 ];

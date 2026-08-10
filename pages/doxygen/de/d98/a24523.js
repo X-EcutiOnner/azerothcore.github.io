@@ -1,6 +1,6 @@
 var a24523 =
 [
-    [ "PrepareSpellScript", "de/d98/a24523.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
-    [ "Register", "de/d98/a24523.html#a4b349a325759517c35d04202e5df9cec", null ],
-    [ "SetDest", "de/d98/a24523.html#a951f733ab2452655a3b579f8ed190fb0", null ]
+    [ "PrepareSpellScript", "de/d98/a24523.html#a2585b06bbebf291d170df58daf6fdd4e", null ],
+    [ "RecalculateDamage", "de/d98/a24523.html#a1fe9f9d4892b0ca8cb6699b555fb9268", null ],
+    [ "Register", "de/d98/a24523.html#a834484683d2d782b4f4c027091108172", null ]
 ];

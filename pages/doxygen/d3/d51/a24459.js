@@ -1,6 +1,4 @@
 var a24459 =
 [
-    [ "CheckProc", "d3/d51/a24459.html#a5c7245398c005a133576493366010e58", null ],
-    [ "PrepareAuraScript", "d3/d51/a24459.html#ac2a2d20470e7fa3df8491c7c81330a52", null ],
-    [ "Register", "d3/d51/a24459.html#a4f6bcdb58b02d351aee9efcd37af3492", null ]
+    [ "npc_pet_gen_moth", "d3/d51/a24459.html#a527b48528cce28f6b468af170e5ae45f", null ]
 ];

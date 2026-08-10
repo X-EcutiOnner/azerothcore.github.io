@@ -1,8 +1,9 @@
 var a22899 =
 [
-    [ "boss_mother_shahraz", "de/dcb/a22899.html#adba94363f74975301472d79f24894df8", null ],
-    [ "JustDied", "de/dcb/a22899.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
-    [ "JustEngagedWith", "de/dcb/a22899.html#a021c702e7eff266308fee8a4220a6ec7", null ],
-    [ "KilledUnit", "de/dcb/a22899.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
-    [ "Reset", "de/dcb/a22899.html#ab9e4162ac92e786b84b6497c37251386", null ]
+    [ "HandleAfterCast", "de/dcb/a22899.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
+    [ "HandleDummy", "de/dcb/a22899.html#ae94594e337c2e0e6864f3723df8349bf", null ],
+    [ "Load", "de/dcb/a22899.html#a301008eff6b13a43070b3916925391ae", null ],
+    [ "PrepareSpellScript", "de/dcb/a22899.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
+    [ "Register", "de/dcb/a22899.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
+    [ "_targetCount", "de/dcb/a22899.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
 ];

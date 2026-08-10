@@ -1,7 +1,7 @@
 var a24175 =
 [
-    [ "HandleEffectApply", "d4/d10/a24175.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
-    [ "HandleEffectRemove", "d4/d10/a24175.html#a96769390468dc132df62b5a0ec3a2da4", null ],
-    [ "PrepareAuraScript", "d4/d10/a24175.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
-    [ "Register", "d4/d10/a24175.html#a95905ec163c42463314a5f5bb023b4d6", null ]
+    [ "npc_maxx_a_million_escortAI", "d1/dce/a24179.html", "d1/dce/a24179" ],
+    [ "npc_maxx_a_million_escort", "d4/d10/a24175.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "d4/d10/a24175.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "d4/d10/a24175.html#aa9a3c655ed09b1264afd8e9ca6965bf5", null ]
 ];

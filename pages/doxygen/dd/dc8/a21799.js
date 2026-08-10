@@ -1,6 +1,6 @@
 var a21799 =
 [
-    [ "npc_heated_battleAI", "d1/dbe/a21803.html", "d1/dbe/a21803" ],
-    [ "npc_heated_battle", "dd/dc8/a21799.html#aceafde04a60940c1027a6e838ffdc137", null ],
-    [ "GetAI", "dd/dc8/a21799.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
+    [ "npc_injured_7th_legion_soldierAI", "dd/dc8/a21799.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
+    [ "MovementInform", "dd/dc8/a21799.html#a999bc868db485578fcc70ae7e056b778", null ],
+    [ "Reset", "dd/dc8/a21799.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
 ];

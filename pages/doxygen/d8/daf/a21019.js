@@ -1,11 +1,11 @@
 var a21019 =
 [
-    [ "boss_yoggsaron_neltharion", "d8/daf/a21019.html#ac7ef088876e15e5edc94e4bd92b7f39d", null ],
-    [ "NextStep", "d8/daf/a21019.html#ac0824d322b7e5825686e8a5c2dd4ec94", null ],
-    [ "Reset", "d8/daf/a21019.html#ab26d57690c1d2477678dc9759aefeab2", null ],
-    [ "Say", "d8/daf/a21019.html#a79d315f37b0f0beceddcae85dcb8697f", null ],
-    [ "UpdateAI", "d8/daf/a21019.html#a3728f095ee83c3ea9063b1679f1b3dc9", null ],
-    [ "_checkTimer", "d8/daf/a21019.html#a2adcf3f46d4003ae2044eda474e51983", null ],
-    [ "_running", "d8/daf/a21019.html#acd807afae6aa88c2e385765231a56a86", null ],
-    [ "_step", "d8/daf/a21019.html#a4e4265f17cbc8cfc3dbe09dca7af7939", null ]
+    [ "boss_yoggsaron_lich_king", "d8/daf/a21019.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
+    [ "NextStep", "d8/daf/a21019.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
+    [ "Reset", "d8/daf/a21019.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
+    [ "Say", "d8/daf/a21019.html#ac7687fe1253701c702cf2c17986727ec", null ],
+    [ "UpdateAI", "d8/daf/a21019.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
+    [ "_checkTimer", "d8/daf/a21019.html#a196ffc443569494bed79f623dd9cdca3", null ],
+    [ "_running", "d8/daf/a21019.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
+    [ "_step", "d8/daf/a21019.html#a97244534b8c6a69807388b620df2263f", null ]
 ];

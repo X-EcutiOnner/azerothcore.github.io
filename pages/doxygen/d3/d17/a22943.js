@@ -1,6 +1,8 @@
 var a22943 =
 [
-    [ "boss_essence_of_desireAI", "d4/d32/a22947.html", "d4/d32/a22947" ],
-    [ "boss_essence_of_desire", "d3/d17/a22943.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "d3/d17/a22943.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "FilterTargets", "d3/d17/a22943.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
+    [ "HandleDummy", "d3/d17/a22943.html#ab89ab441f022ee017548ba49d128b92e", null ],
+    [ "PrepareSpellScript", "d3/d17/a22943.html#aa8578390d7d9379328c02ceb209e94ed", null ],
+    [ "Register", "d3/d17/a22943.html#a486387d707b7ad66ecb443ab2bb60778", null ],
+    [ "Validate", "d3/d17/a22943.html#ad5d695978794d796eb7139fce1530d57", null ]
 ];

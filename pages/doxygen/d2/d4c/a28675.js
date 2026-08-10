@@ -1,6 +1,8 @@
 var a28675 =
 [
-    [ "npc_necropolis_proxy", "d2/d4c/a28675.html#a73f92ee73673172989d48064e5984db0", null ],
-    [ "SpellHit", "d2/d4c/a28675.html#a90d1ab55683a6409403e24291643cca5", null ],
-    [ "SpellHitTarget", "d2/d4c/a28675.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
+    [ "npc_traveler_mammoth_vendor", "d2/d4c/a28675.html#af3b5fc14371eb03e8259799b296967c1", null ],
+    [ "Reset", "d2/d4c/a28675.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
+    [ "UpdateAI", "d2/d4c/a28675.html#a98129bb78476ddc0b1a09593b8894fff", null ],
+    [ "_hasEjected", "d2/d4c/a28675.html#af801e9849a795358c812fddf69ec8434", null ],
+    [ "_playerGuid", "d2/d4c/a28675.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
 ];

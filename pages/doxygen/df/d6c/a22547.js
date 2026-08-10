@@ -1,9 +1,13 @@
 var a22547 =
 [
-    [ "OPvPCapturePointGH", "df/d6c/a22547.html#a6e46100e50212310af4301c492d5773e", null ],
-    [ "ChangeState", "df/d6c/a22547.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
-    [ "FillInitialWorldStates", "df/d6c/a22547.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
-    [ "HandlePlayerEnter", "df/d6c/a22547.html#afea733c44d129d9a5af78a8337d9e04a", null ],
-    [ "HandlePlayerLeave", "df/d6c/a22547.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
-    [ "SendChangePhase", "df/d6c/a22547.html#aec741b9102829bf77850dc06a49bb8da", null ]
+    [ "OPvPCapturePointEP_NPT", "df/d6c/a22547.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
+    [ "ChangeState", "df/d6c/a22547.html#a9e046ace6129ce67568ed7c15130b617", null ],
+    [ "FillInitialWorldStates", "df/d6c/a22547.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
+    [ "HandlePlayerEnter", "df/d6c/a22547.html#ace643b7f7bc793934972c61c618045eb", null ],
+    [ "HandlePlayerLeave", "df/d6c/a22547.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
+    [ "SendChangePhase", "df/d6c/a22547.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
+    [ "SummonGO", "df/d6c/a22547.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
+    [ "UpdateTowerState", "df/d6c/a22547.html#ad8cfefcc567346273914e8039b039835", null ],
+    [ "m_SummonedGOSideId", "df/d6c/a22547.html#aa034240d169c9ab7276786bb188abc70", null ],
+    [ "m_TowerState", "df/d6c/a22547.html#a703b68024362d13ceaf9012202b72e7d", null ]
 ];

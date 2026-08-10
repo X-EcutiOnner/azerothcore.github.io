@@ -1,9 +1,7 @@
 var a26703 =
 [
-    [ "CountTargets", "d6/dda/a26703.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
-    [ "HandleDummy", "d6/dda/a26703.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
-    [ "PrepareSpellScript", "d6/dda/a26703.html#adfb7e3fbb52aa349573b95c457823900", null ],
-    [ "Register", "d6/dda/a26703.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
-    [ "Validate", "d6/dda/a26703.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
-    [ "_targetCount", "d6/dda/a26703.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
+    [ "PeriodicTick", "d6/dda/a26703.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
+    [ "PrepareAuraScript", "d6/dda/a26703.html#ad332660b3b30ecb7b5c949c702574879", null ],
+    [ "Register", "d6/dda/a26703.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
+    [ "Validate", "d6/dda/a26703.html#a426b39c9733464c5d69d707d4e931f64", null ]
 ];

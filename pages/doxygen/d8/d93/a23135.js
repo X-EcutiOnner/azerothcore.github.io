@@ -1,8 +1,6 @@
 var a23135 =
 [
-    [ "CalculateAmount", "d8/d93/a23135.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
-    [ "OnPeriodic", "d8/d93/a23135.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
-    [ "PrepareAuraScript", "d8/d93/a23135.html#a1278420b279449c1c6a53b1a7b53f539", null ],
-    [ "Register", "d8/d93/a23135.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
-    [ "Validate", "d8/d93/a23135.html#a601c2db3a8e47d48b956ed102cbca104", null ]
+    [ "HandleProc", "d8/d93/a23135.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
+    [ "PrepareAuraScript", "d8/d93/a23135.html#a94b244ef26355d53c874aec6d26f3a53", null ],
+    [ "Register", "d8/d93/a23135.html#a9499d88802213ceb877e19d1651324f2", null ]
 ];

@@ -1,6 +1,7 @@
 var a22891 =
 [
-    [ "HandleScriptEffect", "d8/d51/a22891.html#aeafb2893534c8e188bbb519b6c7a0113", null ],
-    [ "PrepareSpellScript", "d8/d51/a22891.html#a6caaa93244719d7fc8c3f28280a3c1c5", null ],
-    [ "Register", "d8/d51/a22891.html#a99e2243ca4372eab1a742f8979d61334", null ]
+    [ "boss_veras_darkshadow", "d8/d51/a22891.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "d8/d51/a22891.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "d8/d51/a22891.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "d8/d51/a22891.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

@@ -598,6 +598,8 @@ var a03131 =
       [ "EMOTE_ALLIES_OF_NATURE", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31a7cadde31f78cab0aa507f770f7788b1b", null ],
       [ "EMOTE_GROUND_TREMOR", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31ad137ac9c7db7c1dc6010474297b50432", null ],
       [ "EMOTE_IRON_ROOTS", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31a3e0bdf6956d53c51cdc08651cd13b663", null ],
+      [ "EMOTE_TRIO_WITHERS", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31ac647ae044c052d81db4e869ad33e0817", null ],
+      [ "EMOTE_TRIO_REGENERATES", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31a1fcc24c539391a4925b8c139ea386478", null ],
       [ "SAY_AGGRO", "d3/d8b/a02996.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_SUMMON", "d3/d8b/a02996.html#aa80bce1d0ea05213c0d6c327126caf31acebbfa1f13b8de4f039f5d550063c7bf", null ],
       [ "SAY_SLAG_POT", "d3/d8b/a02996.html#aa80bce1d0ea05213c0d6c327126caf31af160c82585a4d6cd0c29317910e833c4", null ],

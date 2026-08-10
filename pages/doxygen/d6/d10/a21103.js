@@ -1,6 +1,6 @@
 var a21103 =
 [
-    [ "OnRemove", "d6/d10/a21103.html#a3cac25c6136b5dce491b24b7fb0ed33a", null ],
-    [ "PrepareAuraScript", "d6/d10/a21103.html#a2afc759693aa4dfbd0ac33b1b770e995", null ],
-    [ "Register", "d6/d10/a21103.html#a8fbcf904caf526f37d4a7984791d9fd0", null ]
+    [ "CheckCast", "d6/d10/a21103.html#a715a58956db4253c8adfed039833debd", null ],
+    [ "PrepareSpellScript", "d6/d10/a21103.html#a3b03178d8ab54db36a19ba5a27444917", null ],
+    [ "Register", "d6/d10/a21103.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
 ];

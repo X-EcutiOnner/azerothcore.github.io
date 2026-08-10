@@ -1,9 +1,9 @@
 var a26935 =
 [
-    [ "CheckProc", "d9/dc7/a26935.html#ac0e2bf5c1a96ce0502561bb6bcb6ad97", null ],
-    [ "HandleDispel", "d9/dc7/a26935.html#a64235032423050de10581165c57f8b0a", null ],
-    [ "HandleProc", "d9/dc7/a26935.html#ab1c1196f003f7ff0bf6f6eae5bd6de9a", null ],
-    [ "PrepareAuraScript", "d9/dc7/a26935.html#af7ba0eb96dca76a288dd034665822069", null ],
-    [ "Register", "d9/dc7/a26935.html#ababc8b42c64740655864d2834a639384", null ],
-    [ "Validate", "d9/dc7/a26935.html#a03ecf2489369cbb7a6dff555db153a96", null ]
+    [ "CheckCast", "d9/dc7/a26935.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
+    [ "HandleDummy", "d9/dc7/a26935.html#a7f79495525687fba6229f48935b2558a", null ],
+    [ "Load", "d9/dc7/a26935.html#a0c73457e44a3d64bdccee78d28893672", null ],
+    [ "PrepareSpellScript", "d9/dc7/a26935.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
+    [ "Register", "d9/dc7/a26935.html#ab9f09394ab301350a2abaefde90632fe", null ],
+    [ "Validate", "d9/dc7/a26935.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
 ];

@@ -1,8 +1,6 @@
 var a22775 =
 [
-    [ "npc_parasitic_shadowfiend", "dc/d41/a22775.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
-    [ "CanAIAttack", "dc/d41/a22775.html#ac7600aed313f1413cb9b522d60d30329", null ],
-    [ "EnterEvadeMode", "dc/d41/a22775.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
-    [ "IsSummonedBy", "dc/d41/a22775.html#a306c696d4243c4525d0a3908a212135d", null ],
-    [ "UpdateAI", "dc/d41/a22775.html#a2706a4ba7876f299b02d2e720f512af2", null ]
+    [ "FilterTargets", "dc/d41/a22775.html#abd3fafc2120b7069790dd9822cd62adc", null ],
+    [ "PrepareSpellScript", "dc/d41/a22775.html#aebc0441481a2c458fc904175df931a9e", null ],
+    [ "Register", "dc/d41/a22775.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
 ];

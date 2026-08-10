@@ -1,7 +1,7 @@
 var a22391 =
 [
-    [ "npc_wg_demolisher_engineer", "d8/d46/a22391.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d8/d46/a22391.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d8/d46/a22391.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d8/d46/a22391.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "HandleDummy", "d8/d46/a22391.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
+    [ "PrepareAuraScript", "d8/d46/a22391.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
+    [ "Register", "d8/d46/a22391.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
+    [ "Validate", "d8/d46/a22391.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
 ];

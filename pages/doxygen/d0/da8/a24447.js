@@ -1,10 +1,10 @@
 var a24447 =
 [
-    [ "npc_pet_hunter_snake_trap", "d0/da8/a24447.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "InitializeAI", "d0/da8/a24447.html#a91931c2ac0fd4981f9bf8a2f8f7db672", null ],
-    [ "JustEngagedWith", "d0/da8/a24447.html#a695af9c49daa05c787dac03c4af91645", null ],
-    [ "MoveInLineOfSight", "d0/da8/a24447.html#a099a34f12399fe24349644da3dafe7a4", null ],
-    [ "UpdateAI", "d0/da8/a24447.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_isViper", "d0/da8/a24447.html#ab49c69ca25014ef63e775b236255e4c1", null ],
-    [ "_spellTimer", "d0/da8/a24447.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "npc_pet_gen_plump_turkey", "d0/da8/a24447.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
+    [ "MovementInform", "d0/da8/a24447.html#af27c91388891add6d00e251bf3187743", null ],
+    [ "UpdateAI", "d0/da8/a24447.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
+    [ "checkTimer", "d0/da8/a24447.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
+    [ "goGUID", "d0/da8/a24447.html#a5fa88e045430adea9e72a3744bf72780", null ],
+    [ "jumping", "d0/da8/a24447.html#a8486512b7594f2ce759fcb580f1baf34", null ],
+    [ "jumpTimer", "d0/da8/a24447.html#ad53a9abad41ab6a792a55b854155135d", null ]
 ];

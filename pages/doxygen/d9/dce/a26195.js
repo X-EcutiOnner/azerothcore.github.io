@@ -1,9 +1,8 @@
 var a26195 =
 [
-    [ "OnEffectHitTargetDisarm", "d9/dce/a26195.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
-    [ "OnEffectHitTargetStun", "d9/dce/a26195.html#a5a5253b6d152b1af78de663c09451536", null ],
-    [ "OnEffectLaunchTargetDisarm", "d9/dce/a26195.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
-    [ "OnEffectLaunchTargetStun", "d9/dce/a26195.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
-    [ "PrepareSpellScript", "d9/dce/a26195.html#a113219d3376a23f8889f26f10744e7cb", null ],
-    [ "Register", "d9/dce/a26195.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
+    [ "HandleDummy", "d9/dce/a26195.html#a13b4ea32e03dec26d0cdaa9537abb3b0", null ],
+    [ "Load", "d9/dce/a26195.html#a78506404ba25b054a9ab3f7176a5d4fc", null ],
+    [ "PrepareSpellScript", "d9/dce/a26195.html#a070e83b84feb418f02327240daebede7", null ],
+    [ "Register", "d9/dce/a26195.html#a0c2965e62feb26ca764636fcd3a1f885", null ],
+    [ "Validate", "d9/dce/a26195.html#a48934cde38c6f3b18087267b616ff338", null ]
 ];

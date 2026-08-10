@@ -1,6 +1,6 @@
 var a25911 =
 [
-    [ "PrepareSpellScript", "dc/d3a/a25911.html#a3a77016a3a8314969ce41cc6483761ec", null ],
-    [ "Register", "dc/d3a/a25911.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
-    [ "SetDest", "dc/d3a/a25911.html#a724217c09faa57ec2e6dad034e8709ed", null ]
+    [ "HandleScriptEffect", "dc/d3a/a25911.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
+    [ "PrepareSpellScript", "dc/d3a/a25911.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
+    [ "Register", "dc/d3a/a25911.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
 ];

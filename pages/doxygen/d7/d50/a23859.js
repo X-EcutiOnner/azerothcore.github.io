@@ -1,5 +1,6 @@
 var a23859 =
 [
-    [ "npc_lord_sanguinar", "d7/d50/a23859.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "d7/d50/a23859.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "OnApply", "d7/d50/a23859.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "d7/d50/a23859.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "d7/d50/a23859.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

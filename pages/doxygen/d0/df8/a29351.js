@@ -1,5 +1,7 @@
 var a29351 =
 [
-    [ "ID", "d0/df8/a29351.html#a142c8a5e22234e6317ff113618559b8b", null ],
-    [ "Value", "d0/df8/a29351.html#a693631ac3ce915a1c4adf565517eacf9", null ]
+    [ "EpicPropertiesPoints", "d0/df8/a29351.html#a35dc60a15091357e03032226621340f7", null ],
+    [ "itemLevel", "d0/df8/a29351.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
+    [ "RarePropertiesPoints", "d0/df8/a29351.html#a9359171635ef3e9a0029820fad286368", null ],
+    [ "UncommonPropertiesPoints", "d0/df8/a29351.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
 ];

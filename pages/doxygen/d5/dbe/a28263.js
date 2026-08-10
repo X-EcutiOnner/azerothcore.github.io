@@ -1,6 +1,7 @@
 var a28263 =
 [
-    [ "go_midsummer_musicAI", "d5/dbe/a28263.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
-    [ "UpdateAI", "d5/dbe/a28263.html#adf185ee702e9e74f65204b90786f9eb4", null ],
-    [ "_events", "d5/dbe/a28263.html#a31e45a754930cdc3206fe2b7f754d234", null ]
+    [ "go_brewfest_musicAI", "d5/dbe/a28263.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "d5/dbe/a28263.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "d5/dbe/a28263.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "d5/dbe/a28263.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

@@ -98,7 +98,8 @@ var searchData=
   ['dumpreturn_95',['DumpReturn',['../dc/d91/a00659.html#a4471667403db9bc7532f371d28743866',1,'PlayerDump.h']]],
   ['dumptabletype_96',['DumpTableType',['../dc/d91/a00659.html#ad4739d865080bb5590831b606365e7ef',1,'PlayerDump.h']]],
   ['dungeonstatusflag_97',['DungeonStatusFlag',['../d0/df5/a02549.html#aa0a655b47be63f43fb5ad08b9ed29e46',1,'SharedDefines.h']]],
-  ['duskwitherspirepowersource_98',['DuskwitherSpirePowersource',['../d9/d4f/a03206.html#ac6b02a297c94062e319baae58b848232',1,'go_scripts.cpp']]],
-  ['dyingkodo_99',['DyingKodo',['../d7/d43/a04505.html#af45ec6fee60329d3c66726e0fa939663',1,'zone_desolace.cpp']]],
-  ['dynamicobjecttype_100',['DynamicObjectType',['../df/d9e/a00686.html#aee85c2f840289bcf773609333ee91131',1,'DynamicObject.h']]]
+  ['duskdata_98',['DuskData',['../d5/d4c/a02846.html#a5c653900d72bf0403ec77511d1086d16',1,'zone_borean_tundra.cpp']]],
+  ['duskwitherspirepowersource_99',['DuskwitherSpirePowersource',['../d9/d4f/a03206.html#ac6b02a297c94062e319baae58b848232',1,'go_scripts.cpp']]],
+  ['dyingkodo_100',['DyingKodo',['../d7/d43/a04505.html#af45ec6fee60329d3c66726e0fa939663',1,'zone_desolace.cpp']]],
+  ['dynamicobjecttype_101',['DynamicObjectType',['../df/d9e/a00686.html#aee85c2f840289bcf773609333ee91131',1,'DynamicObject.h']]]
 ];

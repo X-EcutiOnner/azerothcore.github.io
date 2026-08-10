@@ -1,6 +1,7 @@
 var a22131 =
 [
-    [ "HandleDummy", "db/d24/a22131.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "db/d24/a22131.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "db/d24/a22131.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "npc_tirions_gambit_tirionAI", "dd/d86/a22135.html", "dd/d86/a22135" ],
+    [ "npc_tirions_gambit_tirion", "db/d24/a22131.html#ad52abd46ccdd3b4409671679434c193c", null ],
+    [ "GetAI", "db/d24/a22131.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
+    [ "OnGossipSelect", "db/d24/a22131.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
 ];

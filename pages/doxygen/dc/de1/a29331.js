@@ -1,7 +1,5 @@
 var a29331 =
 [
-    [ "Id", "dc/de1/a29331.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
-    [ "MaxLevel", "dc/de1/a29331.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
-    [ "Modifier", "dc/de1/a29331.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
-    [ "StatMod", "dc/de1/a29331.html#ab639dd94c53707ca160e13f71342730d", null ]
+    [ "Id", "dc/de1/a29331.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
+    [ "PowerType", "dc/de1/a29331.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
 ];

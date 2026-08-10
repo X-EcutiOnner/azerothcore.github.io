@@ -1,8 +1,14 @@
 var a28583 =
 [
-    [ "npc_wormholeAI", "dc/d40/a28587.html", "dc/d40/a28587" ],
-    [ "npc_wormhole", "d6/d18/a28583.html#aeace4cbf665409786b86140709191cb0", null ],
-    [ "GetAI", "d6/d18/a28583.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
-    [ "OnGossipHello", "d6/d18/a28583.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
-    [ "OnGossipSelect", "d6/d18/a28583.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
+    [ "npc_garments_of_questsAI", "d6/d18/a28583.html#a079f719ca488ed6fde2783b5db4f328b", null ],
+    [ "JustEngagedWith", "d6/d18/a28583.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
+    [ "Reset", "d6/d18/a28583.html#aaaaa3e41deae0057bd659be5c579d226", null ],
+    [ "SpellHit", "d6/d18/a28583.html#ad22195dba70ced744b319bc1ad83c083", null ],
+    [ "UpdateAI", "d6/d18/a28583.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
+    [ "WaypointReached", "d6/d18/a28583.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
+    [ "WaypointReached", "d6/d18/a28583.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "CanRun", "d6/d18/a28583.html#a93c41781e4cb037b56773bbbf36181b7", null ],
+    [ "CasterGUID", "d6/d18/a28583.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
+    [ "IsHealed", "d6/d18/a28583.html#a96db66704eabf028362d5f8b5c424712", null ],
+    [ "RunAwayTimer", "d6/d18/a28583.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
 ];

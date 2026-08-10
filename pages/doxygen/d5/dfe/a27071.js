@@ -1,10 +1,9 @@
 var a27071 =
 [
-    [ "GetTarget", "d5/dfe/a27071.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
-    [ "HandleEffectPeriodicPlatform", "d5/dfe/a27071.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
-    [ "HandleEffectPeriodicSelf", "d5/dfe/a27071.html#a2272a970ca5edca6f7353beb2279c29c", null ],
-    [ "PerformKick", "d5/dfe/a27071.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
-    [ "PrepareAuraScript", "d5/dfe/a27071.html#a489f1da8f8008db8f096470f28455ef9", null ],
-    [ "Register", "d5/dfe/a27071.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
-    [ "AuraEffectHandleModes", "d5/dfe/a27071.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
+    [ "HandleAfterCast", "d5/dfe/a27071.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "d5/dfe/a27071.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "d5/dfe/a27071.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "d5/dfe/a27071.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "d5/dfe/a27071.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "d5/dfe/a27071.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

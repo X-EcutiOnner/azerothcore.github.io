@@ -1,11 +1,6 @@
 var a23131 =
 [
-    [ "boss_doomlordkazzakAI", "d7/d1f/a23131.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
-    [ "JustDied", "d7/d1f/a23131.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
-    [ "JustEngagedWith", "d7/d1f/a23131.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
-    [ "JustRespawned", "d7/d1f/a23131.html#a174912c149657f4d88446f4ac0631598", null ],
-    [ "KilledUnit", "d7/d1f/a23131.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
-    [ "Reset", "d7/d1f/a23131.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
-    [ "UpdateAI", "d7/d1f/a23131.html#a28a0a8345fcd5411491409854acef729", null ],
-    [ "_inBerserk", "d7/d1f/a23131.html#a996d17128aca96c00c8416957ebc24d0", null ]
+    [ "HandleScriptEffect", "d7/d1f/a23131.html#a2b46490b70bf93effb7379686e648618", null ],
+    [ "PrepareSpellScript", "d7/d1f/a23131.html#a5030d071372ef12663f6a75be637476e", null ],
+    [ "Register", "d7/d1f/a23131.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
 ];

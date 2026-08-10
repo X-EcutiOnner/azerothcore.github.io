@@ -1,6 +1,6 @@
 var a28623 =
 [
-    [ "npc_stable_masterAI", "dd/d8c/a28627.html", "dd/d8c/a28627" ],
-    [ "npc_stable_master", "d1/d40/a28623.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "d1/d40/a28623.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "npc_locksmith", "d1/d40/a28623.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "d1/d40/a28623.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "d1/d40/a28623.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

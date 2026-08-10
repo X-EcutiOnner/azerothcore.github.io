@@ -1,4 +1,6 @@
 var a22243 =
 [
-    [ "npc_adventurous_dwarfAI", "d4/d8a/a22243.html#af953c5fef2ea8abbf7835b0bc5cf1b23", null ]
+    [ "npc_bushwhackerAI", "d4/d8a/a22243.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "d4/d8a/a22243.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "d4/d8a/a22243.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

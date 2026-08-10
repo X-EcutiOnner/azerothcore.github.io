@@ -1,6 +1,7 @@
 var a23671 =
 [
-    [ "PrepareSpellScript", "d5/d91/a23671.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "d5/d91/a23671.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "d5/d91/a23671.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "FilterTargets", "d5/d91/a23671.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
+    [ "HandleHit", "d5/d91/a23671.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
+    [ "PrepareSpellScript", "d5/d91/a23671.html#a376618b9811b2e1ec18697431094e22f", null ],
+    [ "Register", "d5/d91/a23671.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
 ];

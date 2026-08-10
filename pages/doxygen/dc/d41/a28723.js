@@ -1,5 +1,14 @@
 var a28723 =
 [
-    [ "npc_suns_reach_reclamation", "dc/d41/a28723.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "dc/d41/a28723.html#aa403d14fccda7adbec1ffeb765079c25", null ]
+    [ "FlameshockerCheck", "de/daf/a28727.html", "de/daf/a28727" ],
+    [ "npc_pallid_horror", "dc/d41/a28723.html#ae43fa737cdc303d68f34ac2fbb356814", null ],
+    [ "CorpseRemoved", "dc/d41/a28723.html#a700af3062528a6c41f7f0985f1820b36", null ],
+    [ "InitializeAI", "dc/d41/a28723.html#a2711bdb05ad74a4d0425b4f61dcddab4", null ],
+    [ "JustDied", "dc/d41/a28723.html#a6145be6ed4a56ec8f8e923187ceea47c", null ],
+    [ "JustSummoned", "dc/d41/a28723.html#a801e04d47de8d86dcfbfa552de54cd0f", null ],
+    [ "ScheduleTasks", "dc/d41/a28723.html#aa9e851cb55238bb4cf6c1e7a9d309c20", null ],
+    [ "SummonFlameshockers", "dc/d41/a28723.html#afc2625ef0ddae00fd14d3dbf7952b0cf", null ],
+    [ "UpdateAI", "dc/d41/a28723.html#a701b52b2977017c692368a5d363dd6bd", null ],
+    [ "UpdateWeather", "dc/d41/a28723.html#ac9c5b8d4274e443f4c74b2b40aa5830f", null ],
+    [ "_summons", "dc/d41/a28723.html#a0948ef0c5971a8b6ffee2269d8bca3a6", null ]
 ];

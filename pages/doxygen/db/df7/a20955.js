@@ -1,6 +1,5 @@
 var a20955 =
 [
-    [ "x", "db/df7/a20955.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "db/df7/a20955.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "db/df7/a20955.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "achievement_nerf_gravity_bombs", "db/df7/a20955.html#a8aefe3a8836e38c9133e7baf724dc469", null ],
+    [ "OnCheck", "db/df7/a20955.html#a3a1f9dc7218dfd8345412b338e447b72", null ]
 ];

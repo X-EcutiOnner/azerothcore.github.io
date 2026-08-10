@@ -1,6 +1,6 @@
 var a24851 =
 [
-    [ "FilterTargets", "d0/de7/a24851.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
-    [ "PrepareSpellScript", "d0/de7/a24851.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
-    [ "Register", "d0/de7/a24851.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
+    [ "PrepareAuraScript", "d0/de7/a24851.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
+    [ "Register", "d0/de7/a24851.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
+    [ "UpdateAmount", "d0/de7/a24851.html#a621e73a09438f3f9cbaa232125df3b87", null ]
 ];

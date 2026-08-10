@@ -1,7 +1,7 @@
 var a27875 =
 [
-    [ "HandleDummy", "d4/d5c/a27875.html#a3af91500357eb127f813334bdf538dbd", null ],
-    [ "PrepareSpellScript", "d4/d5c/a27875.html#ae34ff5e6027efecc34fa770690df5887", null ],
-    [ "Register", "d4/d5c/a27875.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
-    [ "Validate", "d4/d5c/a27875.html#a0b107442c0b76a018cc019f776c0b785", null ]
+    [ "HandleApplyAura", "d4/d5c/a27875.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "d4/d5c/a27875.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "d4/d5c/a27875.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "d4/d5c/a27875.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

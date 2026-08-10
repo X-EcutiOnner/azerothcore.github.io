@@ -1,11 +1,8 @@
 var a21487 =
 [
-    [ "npc_vh_void_sentry", "d2/dbe/a21487.html#adeb66953fb7540aab5190b825ff98ec8", null ],
-    [ "DoAction", "d2/dbe/a21487.html#a37ed72c221f23cd653694c10d536eec4", null ],
-    [ "JustDied", "d2/dbe/a21487.html#aabf96934586d38d6f958c1571c0b3b56", null ],
-    [ "SummonedCreatureDespawn", "d2/dbe/a21487.html#aa0ac1eb51911672653ec6fd48d2ef316", null ],
-    [ "UpdateAI", "d2/dbe/a21487.html#a417af2ca21310ca105d7561e3ab21272", null ],
-    [ "_events", "d2/dbe/a21487.html#a30899a2d4d8a82b26251911dc3b48008", null ],
-    [ "_instance", "d2/dbe/a21487.html#a80dc77a2deaf0f922f3f096f40b253e1", null ],
-    [ "_summonedGuid", "d2/dbe/a21487.html#a223e85ca87d89c51d0bc02e00d591aec", null ]
+    [ "boss_moragg", "d2/dbe/a21487.html#a42d2508369286e5e635d47cce0b939f4", null ],
+    [ "EnterEvadeMode", "d2/dbe/a21487.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
+    [ "ExecuteEvent", "d2/dbe/a21487.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
+    [ "JustEngagedWith", "d2/dbe/a21487.html#a29da7214373c1919b65f3512655c8bc3", null ],
+    [ "MoveInLineOfSight", "d2/dbe/a21487.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
 ];

@@ -1,10 +1,10 @@
 var a03611 =
 [
-    [ "PeonRoleplay", "d2/d1b/a23663.html", "d2/d1b/a23663" ],
-    [ "boss_grand_warlock_nethekurse", "d5/d49/a23667.html", "d5/d49/a23667" ],
-    [ "spell_tsh_shadow_bolt", "d5/d91/a23671.html", "d5/d91/a23671" ],
-    [ "spell_target_fissures", "d0/db6/a23675.html", "d0/db6/a23675" ],
-    [ "at_rp_nethekurse", "d3/dc5/a23679.html", "d3/dc5/a23679" ],
+    [ "PeonRoleplay", "d7/d21/a23687.html", "d7/d21/a23687" ],
+    [ "boss_grand_warlock_nethekurse", "d7/d23/a23691.html", "d7/d23/a23691" ],
+    [ "spell_tsh_shadow_bolt", "da/dfd/a23695.html", "da/dfd/a23695" ],
+    [ "spell_target_fissures", "de/d02/a23699.html", "de/d02/a23699" ],
+    [ "at_rp_nethekurse", "d4/dd5/a23703.html", "d4/dd5/a23703" ],
     [ "Actions", "d0/d50/a03611.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d9/dfd/a01610.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d9/dfd/a01610.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -81,6 +81,7 @@ var a03611 =
       [ "ACTION_OUTRO", "dd/dfd/a03017.html#a250372292659bed7ae290d8621f88ccfa47ec8e0c80b260c7255274aafd89ac7d", null ],
       [ "DO_DISABLE_AERIAL", "de/da4/a03005.html#a250372292659bed7ae290d8621f88ccfadca8f99832fac3e06025e419485fb1d9", null ],
       [ "DO_ENABLE_AERIAL", "de/da4/a03005.html#a250372292659bed7ae290d8621f88ccfa1b73792b6ccf93886022e4549bf4f757", null ],
+      [ "DO_DESPAWN_SUMMONS", "de/da4/a03005.html#a250372292659bed7ae290d8621f88ccfab24c6a36c5164b1d0cf040f9a668a06f", null ],
       [ "ACTION_ENTER_HARD_MODE", "dc/d94/a02999.html#a250372292659bed7ae290d8621f88ccfa3cf0b08522d8bfdb7f9d00766c1546f7", null ],
       [ "ACTION_START_PHASE_HEART", "dc/d94/a02999.html#a250372292659bed7ae290d8621f88ccfa6e33ba828ac1346c6cfeeee8fbdad76c", null ],
       [ "ACTION_DISPOSE_HEART", "dc/d94/a02999.html#a250372292659bed7ae290d8621f88ccfae7ae7b78bf6fa98402348aa084366d1d", null ],
@@ -5476,6 +5477,8 @@ var a03611 =
       [ "EMOTE_ALLIES_OF_NATURE", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31a7cadde31f78cab0aa507f770f7788b1b", null ],
       [ "EMOTE_GROUND_TREMOR", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31ad137ac9c7db7c1dc6010474297b50432", null ],
       [ "EMOTE_IRON_ROOTS", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31a3e0bdf6956d53c51cdc08651cd13b663", null ],
+      [ "EMOTE_TRIO_WITHERS", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31ac647ae044c052d81db4e869ad33e0817", null ],
+      [ "EMOTE_TRIO_REGENERATES", "df/d3a/a03014.html#aa80bce1d0ea05213c0d6c327126caf31a1fcc24c539391a4925b8c139ea386478", null ],
       [ "SAY_AGGRO", "d3/d8b/a02996.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_SUMMON", "d3/d8b/a02996.html#aa80bce1d0ea05213c0d6c327126caf31acebbfa1f13b8de4f039f5d550063c7bf", null ],
       [ "SAY_SLAG_POT", "d3/d8b/a02996.html#aa80bce1d0ea05213c0d6c327126caf31af160c82585a4d6cd0c29317910e833c4", null ],

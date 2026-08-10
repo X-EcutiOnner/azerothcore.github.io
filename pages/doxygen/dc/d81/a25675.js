@@ -1,9 +1,7 @@
 var a25675 =
 [
-    [ "DoCheckCast", "dc/d81/a25675.html#a09c7bd66988c38cb019656842ed87366", null ],
-    [ "HandleDummy", "dc/d81/a25675.html#a183e2ac37a432ea2902b31e24a474cea", null ],
-    [ "HandleScriptEffect", "dc/d81/a25675.html#a396b1129f15056d0b22c7887f56bea99", null ],
-    [ "PrepareSpellScript", "dc/d81/a25675.html#aad4de93de822a742e02ac8d5d395d482", null ],
-    [ "Register", "dc/d81/a25675.html#a84fc18d6a2d92aefa2cc4d8095780314", null ],
-    [ "Validate", "dc/d81/a25675.html#a2565f0ad3bb988ad37dd6a60f08c995c", null ]
+    [ "HandleOnEffectApply", "dc/d81/a25675.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "dc/d81/a25675.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "dc/d81/a25675.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "dc/d81/a25675.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

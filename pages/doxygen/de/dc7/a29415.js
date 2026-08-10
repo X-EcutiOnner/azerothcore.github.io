@@ -1,9 +1,10 @@
 var a29415 =
 [
-    [ "Category", "de/dc7/a29415.html#acd933f251a1faa1f705420307136681d", null ],
-    [ "Faction", "de/dc7/a29415.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
-    [ "Flags", "de/dc7/a29415.html#a8b41ed573eae71196664a61bac83fe3e", null ],
-    [ "Id", "de/dc7/a29415.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
-    [ "Slot", "de/dc7/a29415.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
-    [ "Type", "de/dc7/a29415.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
+    [ "attackSpeed", "de/dc7/a29415.html#ab5242f7367e8799a556176178c72fc88", null ],
+    [ "creatureType", "de/dc7/a29415.html#a3dff9074b85261932ed8a8a550c5395b", null ],
+    [ "flags1", "de/dc7/a29415.html#a026745f2ce754d754858d69ee219b518", null ],
+    [ "ID", "de/dc7/a29415.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
+    [ "modelID_A", "de/dc7/a29415.html#a86dfa61342583d920b7d8496bce4b49d", null ],
+    [ "modelID_H", "de/dc7/a29415.html#a1ee597d6fd02507b682874929645e01d", null ],
+    [ "stanceSpell", "de/dc7/a29415.html#a08f54b905e905fb5a59e449f8c613c08", null ]
 ];

@@ -1,8 +1,5 @@
 var a23507 =
 [
-    [ "ApplyStun", "db/d98/a23507.html#a5a5b921dc45418485919e599e80f8ca8", null ],
-    [ "HandleScriptEffect", "db/d98/a23507.html#a32619710179250a6a0b408856a888153", null ],
-    [ "PrepareSpellScript", "db/d98/a23507.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
-    [ "Register", "db/d98/a23507.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
-    [ "Validate", "db/d98/a23507.html#a66d91a87078c663903cd836344eec867", null ]
+    [ "instance_the_underbog_InstanceMapScript", "db/d98/a23507.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
+    [ "Initialize", "db/d98/a23507.html#a9c7c10020eef3db4794283c0f946d086", null ]
 ];

@@ -1,8 +1,6 @@
 var a23943 =
 [
-    [ "boss_mechano_lord_capacitus", "de/dfb/a23943.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
-    [ "JustDied", "de/dfb/a23943.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
-    [ "JustEngagedWith", "de/dfb/a23943.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
-    [ "JustSummoned", "de/dfb/a23943.html#a9a0b2cac08002db63162f95b9476c251", null ],
-    [ "KilledUnit", "de/dfb/a23943.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
+    [ "HandleScriptEffect", "de/dfb/a23943.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
+    [ "PrepareSpellScript", "de/dfb/a23943.html#af475c0968aabaf56e8ca38950ad651f0", null ],
+    [ "Register", "de/dfb/a23943.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
 ];

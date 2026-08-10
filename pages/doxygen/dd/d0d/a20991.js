@@ -1,11 +1,9 @@
 var a20991 =
 [
-    [ "boss_yoggsaron_constrictor_tentacle", "dd/d0d/a20991.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
-    [ "DoAction", "dd/d0d/a20991.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
-    [ "GrabPlayer", "dd/d0d/a20991.html#a0ae04ac300d4f08b12f7edaa75dbe208", null ],
-    [ "IsSummonedBy", "dd/d0d/a20991.html#a404e4ab66a757b6ff4fa492219198b91", null ],
-    [ "JustDied", "dd/d0d/a20991.html#aac8f5a80248c4616074e7ef88fb10395", null ],
-    [ "PassengerBoarded", "dd/d0d/a20991.html#afdef8417bffb0a2079199060b0c26980", null ],
-    [ "SelectConstrictTarget", "dd/d0d/a20991.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
-    [ "_playerGUID", "dd/d0d/a20991.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "dd/d0d/a20991.html#a1649412beffbc87ce046a591775b02b2", null ],
+    [ "DamageTaken", "dd/d0d/a20991.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "dd/d0d/a20991.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "dd/d0d/a20991.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "dd/d0d/a20991.html#ae22a12401dc98534da1cb771468a58ce", null ],
+    [ "_diminishReady", "dd/d0d/a20991.html#af8d417c56918cf59dfe3d8429c4cf239", null ]
 ];

@@ -1,6 +1,5 @@
 var a28179 =
 [
-    [ "go_witherbark_totem_bundleAI", "d4/d82/a28179.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "d4/d82/a28179.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "d4/d82/a28179.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "MarkOfNatureTargetSelector", "d4/d82/a28179.html#ae737da5ff93360fde8c4c818f41d7853", null ],
+    [ "operator()", "d4/d82/a28179.html#a1515fd40dcccaba5947e93eabf241336", null ]
 ];

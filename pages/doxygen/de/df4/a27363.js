@@ -1,6 +1,8 @@
 var a27363 =
 [
-    [ "HandleRemove", "de/df4/a27363.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
-    [ "PrepareAuraScript", "de/df4/a27363.html#a132193c0c13a2f89b9b29391d524023a", null ],
-    [ "Register", "de/df4/a27363.html#a246294a7b9a128a9ec464562846332fc", null ]
+    [ "HandleDummy", "de/df4/a27363.html#a308880cf9c61c76de0fdee05fff2b463", null ],
+    [ "Load", "de/df4/a27363.html#acafb9d6ac4fde694dc44cbf13b7f97ad", null ],
+    [ "PrepareSpellScript", "de/df4/a27363.html#a3a2672c39f36229c0dd6cdea0fad3299", null ],
+    [ "Register", "de/df4/a27363.html#a1857b342ae34a57f079f45019645c688", null ],
+    [ "Validate", "de/df4/a27363.html#a121c30045281eab5fee4f65d38d1dfc3", null ]
 ];

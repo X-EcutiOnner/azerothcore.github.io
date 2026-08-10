@@ -1,8 +1,9 @@
 var a27487 =
 [
-    [ "Apply", "d9/de2/a27487.html#ac3145df90b6b179fece1c76da114e395", null ],
-    [ "HandleEffectPeriodic", "d9/de2/a27487.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
-    [ "PrepareAuraScript", "d9/de2/a27487.html#aa911ba0b5a13a933bf50a072799a040f", null ],
-    [ "Register", "d9/de2/a27487.html#ae0dff9b5002d3d3361d794a75645057f", null ],
-    [ "Validate", "d9/de2/a27487.html#ad81184b508474a89fbafc63594ef0ab1", null ]
+    [ "Absorb", "d9/de2/a27487.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
+    [ "CalculateAmount", "d9/de2/a27487.html#a820c27c2161063307a10903cbbc5c0fa", null ],
+    [ "Load", "d9/de2/a27487.html#a7b71990051faaa083110408c13b8401f", null ],
+    [ "PrepareAuraScript", "d9/de2/a27487.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
+    [ "Register", "d9/de2/a27487.html#aa443ab0eed74229883884fbced0426d7", null ],
+    [ "absorbPct", "d9/de2/a27487.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
 ];

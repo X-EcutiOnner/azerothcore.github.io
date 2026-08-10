@@ -1,20 +1,8 @@
 var a23659 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "d6/d9b/a23659.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
-    [ "Initialize", "d6/d9b/a23659.html#afa054fb11fe777019baa70f46bfd8212", null ],
-    [ "IsAnyChannelerAlive", "d6/d9b/a23659.html#a6cfc7ec365ab5c5d8ec9d257bca59a48", null ],
-    [ "OnCreatureCreate", "d6/d9b/a23659.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
-    [ "OnCreatureEvade", "d6/d9b/a23659.html#a3a757de295ca8b11d3bdf5452a859489", null ],
-    [ "OnCreatureRemove", "d6/d9b/a23659.html#a727d4d3bfc52391a088e86fef013617c", null ],
-    [ "OnGameObjectCreate", "d6/d9b/a23659.html#a020584d79926d170c02655c5e2841127", null ],
-    [ "OnGameObjectRemove", "d6/d9b/a23659.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
-    [ "OnUnitDeath", "d6/d9b/a23659.html#a9c5e797960f924ddb60d0730ebd2463c", null ],
-    [ "SetBossState", "d6/d9b/a23659.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
-    [ "SetData", "d6/d9b/a23659.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
-    [ "_burningAbyssalsSet", "d6/d9b/a23659.html#a9b616072e8775a10db1c10d0438eb19a", null ],
-    [ "_channelersSet", "d6/d9b/a23659.html#a7921231ff7314d1370dffc63e1815e16", null ],
-    [ "_columnSet", "d6/d9b/a23659.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
-    [ "_cubesSet", "d6/d9b/a23659.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
-    [ "_magtheridonGUID", "d6/d9b/a23659.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
-    [ "_wardersSet", "d6/d9b/a23659.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
+    [ "HandleDummyApply", "d6/d9b/a23659.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "d6/d9b/a23659.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "d6/d9b/a23659.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "d6/d9b/a23659.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "d6/d9b/a23659.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];
