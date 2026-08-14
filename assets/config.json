@@ -10,11 +10,6 @@
       "org": "azerothcore",
       "path": "/module"
     },
-    "Premium Modules": {
-      "topic": "azerothcore-module+ac-premium",
-      "org": "azerothcore",
-      "path": "/module+premium"
-    },
     "Tools": {
       "topic": "azerothcore-tools",
       "org": "azerothcore",
