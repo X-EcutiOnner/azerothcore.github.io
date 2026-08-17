@@ -1,7 +1,14 @@
 var a00683 =
 [
-    [ "canCreateExtraItems", "db/d77/a00683.html#a49687e255d65fa15dac5e6a428c5739d", null ],
-    [ "CanCreatePerfectItem", "db/d77/a00683.html#a818c557864790091814604b6d2175e52", null ],
-    [ "LoadSkillExtraItemTable", "db/d77/a00683.html#a3244d04018405bafe21acc8bc96cc743", null ],
-    [ "LoadSkillPerfectItemTable", "db/d77/a00683.html#a121df170a82be5ab5b05999a6be27b69", null ]
+    [ "SpellProcTargetResolutionTest", "df/d43/a30051.html", null ],
+    [ "ResolveProcTriggerTarget", "db/d77/a00683.html#ae0ceced3da7b46834d403b94be7bd498", null ],
+    [ "TEST_F", "db/d77/a00683.html#a94bb580a1521b12b0dc26d91b4d9e3ca", null ],
+    [ "TEST_F", "db/d77/a00683.html#adc4f7536f5fbc531ee25c5e2e8aa823c", null ],
+    [ "TEST_F", "db/d77/a00683.html#a6349a6956dcb722f54714e939b3ccb12", null ],
+    [ "TEST_F", "db/d77/a00683.html#a8d1c35ebc225b6f64d08e5748e6adbfe", null ],
+    [ "TEST_F", "db/d77/a00683.html#ac01a72b5a8b9e24ce8306b05cca87dbb", null ],
+    [ "TEST_F", "db/d77/a00683.html#adc3e9713f51dc9d0659472c769da1073", null ],
+    [ "TEST_F", "db/d77/a00683.html#a65154972e92d7ebcbd52504ba1d20322", null ],
+    [ "FAKE_ENEMY", "db/d77/a00683.html#a44641e393e88c869080a70e5d49c017c", null ],
+    [ "FAKE_ROGUE", "db/d77/a00683.html#aa56828182e47a5c051cfcc0318167b79", null ]
 ];

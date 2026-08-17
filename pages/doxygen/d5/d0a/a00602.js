@@ -1,19 +1,14 @@
 var a00602 =
 [
-    [ "AccountMgr", "de/d5b/a06307.html", "de/d5b/a06307" ],
-    [ "MAX_ACCOUNT_STR", "d5/d0a/a00602.html#a134ebf22666a6525929447b2d869d400", null ],
-    [ "MAX_EMAIL_STR", "d5/d0a/a00602.html#ad64d9bd18bac10ab1af09b042d734c64", null ],
-    [ "MAX_PASS_STR", "d5/d0a/a00602.html#a45827712253b6d66092106cef5ae724b", null ],
-    [ "sAccountMgr", "d5/d0a/a00602.html#aea3ae93168116461b6c0a7a984112175", null ],
-    [ "RBACDefaultPermissionsContainer", "d5/d0a/a00602.html#ac0b6edf00d4a9c1e3c496e98fdf865aa", null ],
-    [ "RBACPermissionsContainer", "d5/d0a/a00602.html#a1296774e1021cb68d7829832d153b2e3", null ],
-    [ "AccountOpResult", "d5/d0a/a00602.html#a0161874ada0cecbbd1fd5d31da73703e", [
-      [ "AOR_OK", "d5/d0a/a00602.html#a0161874ada0cecbbd1fd5d31da73703ea73449863bb0d97def55bd65307e97f18", null ],
-      [ "AOR_NAME_TOO_LONG", "d5/d0a/a00602.html#a0161874ada0cecbbd1fd5d31da73703eaec4fb519d9e6032adc269ca4a27c38f4", null ],
-      [ "AOR_PASS_TOO_LONG", "d5/d0a/a00602.html#a0161874ada0cecbbd1fd5d31da73703eaed91b79b9e639b8f988c5f06fcfd901c", null ],
-      [ "AOR_EMAIL_TOO_LONG", "d5/d0a/a00602.html#a0161874ada0cecbbd1fd5d31da73703eaaf639a81cbf8cf6bd685e34d73e895a1", null ],
-      [ "AOR_NAME_ALREADY_EXIST", "d5/d0a/a00602.html#a0161874ada0cecbbd1fd5d31da73703eae0b6297de7a7e8b516f5fc98a4d8750c", null ],
-      [ "AOR_NAME_NOT_EXIST", "d5/d0a/a00602.html#a0161874ada0cecbbd1fd5d31da73703ea05e659ba76ce9dd582551a24f2923b24", null ],
-      [ "AOR_DB_INTERNAL_ERROR", "d5/d0a/a00602.html#a0161874ada0cecbbd1fd5d31da73703ea368516df3522ada12ce8a39c789a687d", null ]
-    ] ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "d5/d0a/a00602.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "isHole", "d5/d0a/a00602.html#a3a7e248f31dc8d832dc118d469a98bd4", null ],
+    [ "holetab_h", "d5/d0a/a00602.html#a7424dd5c858116f845a676e31fe5ae5d", null ],
+    [ "holetab_v", "d5/d0a/a00602.html#a2b1bf69bcdb58ff1605821d486da3acb", null ],
+    [ "MCINMagic", "d5/d0a/a00602.html#a6f946547b65d321100fd6efa2966180c", null ],
+    [ "MCLQMagic", "d5/d0a/a00602.html#a35ae9924cb4e3ad0020167b89d5ea86f", null ],
+    [ "MCNKMagic", "d5/d0a/a00602.html#aa2d85d3b667d3755f6f7a993e60c574b", null ],
+    [ "MCVTMagic", "d5/d0a/a00602.html#a32010e610a970d3891ae5effca03de37", null ],
+    [ "MFBOMagic", "d5/d0a/a00602.html#a329d005a0989137286469e197dc0c812", null ],
+    [ "MH2OMagic", "d5/d0a/a00602.html#aaeaf747e4bc5c25257f9e0ef1153b5a7", null ],
+    [ "MHDRMagic", "d5/d0a/a00602.html#ac97bd684dd5bacba0e790f355a3bdddf", null ]
 ];

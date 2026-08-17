@@ -1,11 +1,21 @@
 var a01925 =
 [
-    [ "AllCommandScript", "df/d47/a10691.html", "df/d47/a10691" ],
-    [ "CommandSC", "d6/d18/a01925.html#a0c35d8c2fdd730a0360fd00502881c03", null ],
-    [ "AllCommandHook", "d6/d18/a01925.html#a57c7df35e0370887ade698d62704997b", [
-      [ "ALLCOMMANDHOOK_ON_HANDLE_DEV_COMMAND", "d6/d18/a01925.html#a57c7df35e0370887ade698d62704997bab762a34db533207a5f8f5b0db870f0b0", null ],
-      [ "ALLCOMMANDHOOK_ON_TRY_EXECUTE_COMMAND", "d6/d18/a01925.html#a57c7df35e0370887ade698d62704997bac267dc607dca6da8a2195d77a9def327", null ],
-      [ "ALLCOMMANDHOOK_ON_BEFORE_IS_INVOKER_VISIBLE", "d6/d18/a01925.html#a57c7df35e0370887ade698d62704997ba7d51819392ef067de524c06437fab836", null ],
-      [ "ALLCOMMANDHOOK_END", "d6/d18/a01925.html#a57c7df35e0370887ade698d62704997bac10a14231ce403ff1812e0ec03700812", null ]
-    ] ]
+    [ "WorldPackets::Misc::Weather", "d8/d69/a11383.html", "d8/d69/a11383" ],
+    [ "WorldPackets::Misc::LevelUpInfo", "d1/d5b/a11387.html", "d1/d5b/a11387" ],
+    [ "WorldPackets::Misc::PlayMusic", "d4/d87/a11391.html", "d4/d87/a11391" ],
+    [ "WorldPackets::Misc::PlayObjectSound", "d5/d26/a11395.html", "d5/d26/a11395" ],
+    [ "WorldPackets::Misc::Playsound", "dd/de9/a11399.html", "dd/de9/a11399" ],
+    [ "WorldPackets::Misc::MinimapPingClient", "d0/dbd/a11403.html", "d0/dbd/a11403" ],
+    [ "WorldPackets::Misc::MinimapPing", "d2/dd2/a11407.html", "d2/dd2/a11407" ],
+    [ "WorldPackets::Misc::RandomRollClient", "d6/d15/a11411.html", "d6/d15/a11411" ],
+    [ "WorldPackets::Misc::RandomRoll", "df/dd0/a11415.html", "df/dd0/a11415" ],
+    [ "WorldPackets::Misc::StartMirrorTimer", "dc/d62/a11419.html", "dc/d62/a11419" ],
+    [ "WorldPackets::Misc::PauseMirrorTimer", "d9/da8/a11423.html", "d9/da8/a11423" ],
+    [ "WorldPackets::Misc::StopMirrorTimer", "da/dfd/a11427.html", "da/dfd/a11427" ],
+    [ "WorldPackets::Misc::DurabilityDamageDeath", "d1/d63/a11431.html", "d1/d63/a11431" ],
+    [ "WorldPackets::Misc::CrossedInebriationThreshold", "d3/d67/a11435.html", "d3/d67/a11435" ],
+    [ "WorldPackets::Misc::UITime", "df/dee/a11439.html", "df/dee/a11439" ],
+    [ "WorldPackets::Misc::Complain", "d5/d80/a11443.html", "d5/d80/a11443" ],
+    [ "WorldPackets::Misc::ComplainResult", "d9/d11/a11447.html", "d9/d11/a11447" ],
+    [ "WorldPackets::Misc::PlayTimeWarning", "dd/da7/a11451.html", "dd/da7/a11451" ]
 ];

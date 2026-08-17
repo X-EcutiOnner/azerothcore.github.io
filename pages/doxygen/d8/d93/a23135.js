@@ -1,6 +1,6 @@
 var a23135 =
 [
-    [ "HandleProc", "d8/d93/a23135.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "d8/d93/a23135.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "d8/d93/a23135.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "HandleScriptEffect", "d8/d93/a23135.html#a2b46490b70bf93effb7379686e648618", null ],
+    [ "PrepareSpellScript", "d8/d93/a23135.html#a5030d071372ef12663f6a75be637476e", null ],
+    [ "Register", "d8/d93/a23135.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
 ];

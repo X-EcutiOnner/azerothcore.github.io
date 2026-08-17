@@ -1,4 +1,7 @@
 var a00815 =
 [
-    [ "operator<<", "d8/d2d/a00815.html#aa8a947319a6f00895a3c443f5cb258ad", null ]
+    [ "IsAcceptedClientBuild", "d8/d2d/a00815.html#a50a906b5a3fdca3508aee0997881a717", null ],
+    [ "IsPostBCAcceptedClientBuild", "d8/d2d/a00815.html#ad4f22daf9d88367d90d92416f470a28c", null ],
+    [ "IsPreBCAcceptedClientBuild", "d8/d2d/a00815.html#a96896fc9dad2c304f681a24776f6726b", null ],
+    [ "MAX_PRE_BC_CLIENT_BUILD", "d8/d2d/a00815.html#ac023f15b280fc65fdefefb77f2f7be7b", null ]
 ];

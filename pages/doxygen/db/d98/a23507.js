@@ -1,5 +1,6 @@
 var a23507 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "db/d98/a23507.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
-    [ "Initialize", "db/d98/a23507.html#a9c7c10020eef3db4794283c0f946d086", null ]
+    [ "instance_the_underbog_InstanceMapScript", "d8/ddf/a23511.html", "d8/ddf/a23511" ],
+    [ "instance_the_underbog", "db/d98/a23507.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
+    [ "GetInstanceScript", "db/d98/a23507.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
 ];

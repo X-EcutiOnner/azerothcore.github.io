@@ -1,5 +1,5 @@
 var a28775 =
 [
-    [ "npc_bombardier_petrov", "d1/d64/a28775.html#ac0314c37918381ed6242fcfa4790461a", null ],
-    [ "OnGossipHello", "d1/d64/a28775.html#ab67c12cf53bc5bec85a0707ce35ce888", null ]
+    [ "npc_harrowmeiser", "d1/d64/a28775.html#a30a44ae739447e14ded0c0af6c73e76e", null ],
+    [ "OnGossipHello", "d1/d64/a28775.html#a3d4b6bc9a85315b0f31347068b3c5317", null ]
 ];

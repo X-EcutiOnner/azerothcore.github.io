@@ -1,8 +1,12 @@
 var a00920 =
 [
-    [ "GameObjectScript", "de/de9/a10740.html", "de/de9/a10740" ],
-    [ "GenericGameObjectScript< AI >", "d9/dc8/a10744.html", "d9/dc8/a10744" ],
-    [ "FactoryGameObjectScript< AI, AIFactory >", "d9/dab/a10748.html", "d9/dab/a10748" ],
-    [ "RegisterGameObjectAI", "d6/d82/a00920.html#a87397a2ba2a1acd88f62793eae9aa30e", null ],
-    [ "RegisterGameObjectAIWithFactory", "d6/d82/a00920.html#a1614f98721d8a94351c4be15a72e499f", null ]
+    [ "WaypointNode", "dd/d9e/a10571.html", "dd/d9e/a10571" ],
+    [ "WaypointPath", "d2/d9a/a10575.html", "d2/d9a/a10575" ],
+    [ "WaypointMoveType", "d6/d82/a00920.html#ac26115060a1cd0169937b206edddd863", [
+      [ "WAYPOINT_MOVE_TYPE_WALK", "d6/d82/a00920.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff", null ],
+      [ "WAYPOINT_MOVE_TYPE_RUN", "d6/d82/a00920.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55", null ],
+      [ "WAYPOINT_MOVE_TYPE_LAND", "d6/d82/a00920.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa", null ],
+      [ "WAYPOINT_MOVE_TYPE_TAKEOFF", "d6/d82/a00920.html#ac26115060a1cd0169937b206edddd863a6c91e1f2cbadf7be7393f34b5de1b843", null ],
+      [ "WAYPOINT_MOVE_TYPE_MAX", "d6/d82/a00920.html#ac26115060a1cd0169937b206edddd863a32847b8584f9ff3ce07eb01923c37188", null ]
+    ] ]
 ];

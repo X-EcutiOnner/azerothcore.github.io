@@ -1,14 +1,15 @@
 var a01847 =
 [
-    [ "GroupScript", "d3/dee/a10799.html", "d3/dee/a10799" ],
-    [ "GroupHook", "d3/d19/a01847.html#a373b3fe6b402e8321892b8c1be74ab5d", [
-      [ "GROUPHOOK_ON_ADD_MEMBER", "d3/d19/a01847.html#a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681", null ],
-      [ "GROUPHOOK_ON_INVITE_MEMBER", "d3/d19/a01847.html#a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe", null ],
-      [ "GROUPHOOK_ON_REMOVE_MEMBER", "d3/d19/a01847.html#a373b3fe6b402e8321892b8c1be74ab5daee0f42175b42d95f45380c1b70c786c3", null ],
-      [ "GROUPHOOK_ON_CHANGE_LEADER", "d3/d19/a01847.html#a373b3fe6b402e8321892b8c1be74ab5da32d5ef38f2a877e2d36cdf20e9bb6d23", null ],
-      [ "GROUPHOOK_ON_DISBAND", "d3/d19/a01847.html#a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353", null ],
-      [ "GROUPHOOK_CAN_GROUP_JOIN_BATTLEGROUND_QUEUE", "d3/d19/a01847.html#a373b3fe6b402e8321892b8c1be74ab5da9b4d04fe85f908719f1412cb9b88e61c", null ],
-      [ "GROUPHOOK_ON_CREATE", "d3/d19/a01847.html#a373b3fe6b402e8321892b8c1be74ab5da0cc7b93ed018172ab0c6f191681e5f6c", null ],
-      [ "GROUPHOOK_END", "d3/d19/a01847.html#a373b3fe6b402e8321892b8c1be74ab5da71a6d6ef47c3bda7d088f579b6f3a5f2", null ]
-    ] ]
+    [ "PoolTemplateData", "d9/dd2/a10619.html", "d9/dd2/a10619" ],
+    [ "PoolObject", "d6/d28/a10623.html", "d6/d28/a10623" ],
+    [ "Pool", "df/ddc/a10627.html", null ],
+    [ "SpawnedPoolData", "de/df9/a10631.html", "de/df9/a10631" ],
+    [ "PoolGroup< T >", "d5/dfe/a10635.html", "d5/dfe/a10635" ],
+    [ "PoolMgr", "d3/d90/a10639.html", "d3/d90/a10639" ],
+    [ "sPoolMgr", "d3/d19/a01847.html#a9189dd9c6265b9e6d57104dd61a5fe85", null ],
+    [ "PooledQuestRelation", "d3/d19/a01847.html#ace9e74e256f166b08f2834044ecfba43", null ],
+    [ "PooledQuestRelationBounds", "d3/d19/a01847.html#adabd05f382474650e093706cf4ea4e35", null ],
+    [ "PooledQuestRelationBoundsNC", "d3/d19/a01847.html#a54dd98ebecf13a92dd29f7d3789d5b56", null ],
+    [ "SpawnedPoolObjects", "d3/d19/a01847.html#a0b66933f1176095f2b61e54ba580a7af", null ],
+    [ "SpawnedPoolPools", "d3/d19/a01847.html#a1f65e6bff563b294e5348c2e77919275", null ]
 ];

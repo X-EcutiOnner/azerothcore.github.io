@@ -269,6 +269,7 @@ var a09031 =
     [ "EquipNewItem", "d9/d85/a09031.html#a564781803e58ff345637b0c236fcb27f", null ],
     [ "ExecuteOrCancelSpellCastRequest", "d9/d85/a09031.html#addbc1d645a3737088f1b38dedd272aa6", null ],
     [ "FailQuest", "d9/d85/a09031.html#ac66aea564f92c5f3c38d5819a0a0b4e4", null ],
+    [ "FailQuestsOnDeath", "d9/d85/a09031.html#a79a4d9b9b304f418d4544379e9d0e124", null ],
     [ "FindEquipSlot", "d9/d85/a09031.html#a9492a485cafae3aa36d1ce6d56ebed8c", null ],
     [ "FindQuestSlot", "d9/d85/a09031.html#a3454be68dff7bb9d8ee581591cac3c95", null ],
     [ "GetAchievementMgr", "d9/d85/a09031.html#ab3a974144c3ed2c9c61feb261ec907ff", null ],

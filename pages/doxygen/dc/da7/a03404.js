@@ -1,6 +1,9 @@
 var a03404 =
 [
-    [ "instance_mana_tombs", "dd/d96/a22691.html", "dd/d96/a22691" ],
-    [ "instance_mana_tombs::instance_mana_tombs_InstanceMapScript", "d0/d50/a22695.html", "d0/d50/a22695" ],
-    [ "AddSC_instance_mana_tombs", "dc/da7/a03404.html#ab3a34e5f5a1433a62cdca43b8f13182c", null ]
+    [ "OutdoorPvP_hellfire_peninsula", "dd/d7f/a22579.html", "dd/d7f/a22579" ],
+    [ "AddSC_outdoorpvp_hp", "dc/da7/a03404.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
+    [ "HP_LANG_CAPTURE_A", "dc/da7/a03404.html#a642fe1233b764402bae812604b684442", null ],
+    [ "HP_LANG_CAPTURE_H", "dc/da7/a03404.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd", null ],
+    [ "HP_LANG_LOSE_A", "dc/da7/a03404.html#a1b9adf9c71e549e4545c2e4eabe58dd5", null ],
+    [ "HP_LANG_LOSE_H", "dc/da7/a03404.html#ad62cd8f07ac98311202494985c6ae9c8", null ]
 ];

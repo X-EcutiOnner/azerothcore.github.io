@@ -1,6 +1,8 @@
 var a22719 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "d9/db3/a22723.html", "d9/db3/a22723" ],
-    [ "instance_sethekk_halls", "d6/df1/a22719.html#ab50d296266cf377bfb34750ec36963ef", null ],
-    [ "GetInstanceScript", "d6/df1/a22719.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
+    [ "FilterTargets", "d6/df1/a22719.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "d6/df1/a22719.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "d6/df1/a22719.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "d6/df1/a22719.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "d6/df1/a22719.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

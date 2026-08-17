@@ -1,7 +1,7 @@
 var a23519 =
 [
-    [ "CalcPeriodic", "dd/d81/a23519.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
-    [ "PrepareAuraScript", "dd/d81/a23519.html#a290913502dfe3dfb42b44a964468b97c", null ],
-    [ "Register", "dd/d81/a23519.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
-    [ "Update", "dd/d81/a23519.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
+    [ "OnApply", "dd/d81/a23519.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "dd/d81/a23519.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "dd/d81/a23519.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "dd/d81/a23519.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

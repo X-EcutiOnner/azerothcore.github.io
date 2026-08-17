@@ -1,6 +1,6 @@
 var dir_6113d9d9930adc0ab9dd36cb7d5aa748 =
 [
-    [ "boss_sartharion.cpp", "d6/d41/a02930.html", "d6/d41/a02930" ],
-    [ "instance_obsidian_sanctum.cpp", "df/d5c/a02933.html", "df/d5c/a02933" ],
-    [ "obsidian_sanctum.h", "d5/dea/a02927.html", "d5/dea/a02927" ]
+    [ "boss_sartharion.cpp", "dc/d61/a03893.html", "dc/d61/a03893" ],
+    [ "instance_obsidian_sanctum.cpp", "d1/dba/a03896.html", "d1/dba/a03896" ],
+    [ "obsidian_sanctum.h", "d2/df3/a03890.html", "d2/df3/a03890" ]
 ];

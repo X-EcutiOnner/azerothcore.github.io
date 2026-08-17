@@ -1,8 +1,6 @@
 var a22307 =
 [
-    [ "npc_time_lost_proto_drakeAI", "d6/d7c/a22307.html#ab98805519233eda932c6131aca059a8b", null ],
-    [ "InitializeAI", "d6/d7c/a22307.html#a6b99780951a126a97db88e7307c1d1b9", null ],
-    [ "JustEngagedWith", "d6/d7c/a22307.html#ab95266d60769aa4099ca0f1bf678f237", null ],
-    [ "Reset", "d6/d7c/a22307.html#a418ea9621040e3c717c4e24f73539f44", null ],
-    [ "UpdateAI", "d6/d7c/a22307.html#abb28428b77beada6a378541ba11d090b", null ]
+    [ "npc_time_lost_proto_drakeAI", "d3/d63/a22311.html", "d3/d63/a22311" ],
+    [ "npc_time_lost_proto_drake", "d6/d7c/a22307.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "d6/d7c/a22307.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

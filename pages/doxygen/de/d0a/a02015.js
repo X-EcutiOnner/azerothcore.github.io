@@ -1,17 +1,6 @@
 var a02015 =
 [
-    [ "DeleteSpellFromAllPlayers", "de/d0a/a02015.html#af0dec25ac7c118b67a71a0356eb37877", null ],
-    [ "GetDiminishingReturnsGroupForSpell", "de/d0a/a02015.html#a35697cceaf39daf069d06c53e8e3cdf7", null ],
-    [ "GetDiminishingReturnsGroupType", "de/d0a/a02015.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1", null ],
-    [ "GetDiminishingReturnsLimitDuration", "de/d0a/a02015.html#a2ba27d428865ac3f87bf6f6843271d3f", null ],
-    [ "GetDiminishingReturnsMaxLevel", "de/d0a/a02015.html#ad621262d491c800fb5ddd016250dd46f", null ],
-    [ "InitTriggerAuraData", "de/d0a/a02015.html#a70fb722e03fe637ce7c9979a00725a3c", null ],
-    [ "IsDiminishingReturnsGroupDurationLimited", "de/d0a/a02015.html#a423a80c889a3456a2b55e0e9c22ad060", null ],
-    [ "IsPartOfSkillLine", "de/d0a/a02015.html#a18102741b602d3b4473f75d4f619a09b", null ],
-    [ "IsPrimaryProfessionSkill", "de/d0a/a02015.html#a09c4e23bd85fab812b67beafbbf1b7b3", null ],
-    [ "LoadPetDefaultSpells_helper", "de/d0a/a02015.html#a26626d5f5404864fcd622872f5cd8af1", null ],
-    [ "isAlwaysTriggeredAura", "de/d0a/a02015.html#a59735a3ed46ce3add4f949e4c9e041f8", null ],
-    [ "isTriggerAura", "de/d0a/a02015.html#ad51bed43268eefcceebdda05d85c6a61", null ],
-    [ "procPrepared", "de/d0a/a02015.html#a11410c456e972de7cfb44bbe17709cc4", null ],
-    [ "spellTypeMask", "de/d0a/a02015.html#aacbfece2441a495ad1e709acd28bc9b7", null ]
+    [ "WorldPackets::WorldState::InitWorldStates", "d4/de2/a11667.html", "d4/de2/a11667" ],
+    [ "WorldPackets::WorldState::InitWorldStates::WorldStateInfo", "d5/d7d/a11671.html", "d5/d7d/a11671" ],
+    [ "WorldPackets::WorldState::UpdateWorldState", "d8/d7a/a11675.html", "d8/d7a/a11675" ]
 ];

@@ -1,20 +1,16 @@
 var a00674 =
 [
-    [ "Corpse", "d4/d5f/a08399.html", "d4/d5f/a08399" ],
-    [ "CORPSE_RECLAIM_RADIUS", "d8/d73/a00674.html#a1cebf109f41dcdac8a90086696642782", null ],
-    [ "MAX_CORPSE_TYPE", "d8/d73/a00674.html#aec0512ffe7d6a8f7dd8330c334bb4fc3", null ],
-    [ "CorpseFlags", "d8/d73/a00674.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537c", [
-      [ "CORPSE_FLAG_NONE", "d8/d73/a00674.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca30260079b14373a47aef21b99e8757a2", null ],
-      [ "CORPSE_FLAG_BONES", "d8/d73/a00674.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca47ec12fa0520573d7d8ff9231ca4eb8b", null ],
-      [ "CORPSE_FLAG_UNK1", "d8/d73/a00674.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca043171119fe69fae07f3668763d40c7c", null ],
-      [ "CORPSE_FLAG_UNK2", "d8/d73/a00674.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca769ec96151b713170c051ee6236bbd5e", null ],
-      [ "CORPSE_FLAG_HIDE_HELM", "d8/d73/a00674.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca830d0cde7665a938cd48d4018ae0df79", null ],
-      [ "CORPSE_FLAG_HIDE_CLOAK", "d8/d73/a00674.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca25bc5b9c02c2cce38be9bb32c2ad335a", null ],
-      [ "CORPSE_FLAG_LOOTABLE", "d8/d73/a00674.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537caeb7f1630dc7c0b062b809e65cd4e5f80", null ]
-    ] ],
-    [ "CorpseType", "d8/d73/a00674.html#a43260eb47484e62a16a868f79646c683", [
-      [ "CORPSE_BONES", "d8/d73/a00674.html#a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356", null ],
-      [ "CORPSE_RESURRECTABLE_PVE", "d8/d73/a00674.html#a43260eb47484e62a16a868f79646c683a79e10cac636d94dc5aa8379ecce5cc78", null ],
-      [ "CORPSE_RESURRECTABLE_PVP", "d8/d73/a00674.html#a43260eb47484e62a16a868f79646c683a90cccb41a96804ac3340b13ff68241ba", null ]
-    ] ]
+    [ "CalcFullTime", "d8/d73/a00674.html#acf515241ac86050cd79d68b509c5ea29", null ],
+    [ "NewResetFormula", "d8/d73/a00674.html#aae298365d32c23f29d12e5f81b91db99", null ],
+    [ "OldResetFormula", "d8/d73/a00674.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2", null ],
+    [ "TEST", "d8/d73/a00674.html#aa46aba4f46e0c4cf1611bf2ff0b11f53", null ],
+    [ "TEST", "d8/d73/a00674.html#a9bf8b2c46faea4396f67f27c689c7d65", null ],
+    [ "TEST", "d8/d73/a00674.html#ab956bb191fe7eb20bc88e43c071e07b5", null ],
+    [ "TEST", "d8/d73/a00674.html#a819dde76e3b5bd1171dc3fb7e37c3a53", null ],
+    [ "TEST", "d8/d73/a00674.html#af1c4cf8b997d096dc906ccd5c846e90e", null ],
+    [ "TEST", "d8/d73/a00674.html#acbd23a84fa5f4c2b09dbe42a501443be", null ],
+    [ "TEST", "d8/d73/a00674.html#a1835c78c8476bbaf740ca65e27ab5c03", null ],
+    [ "TEST", "d8/d73/a00674.html#a582b8801c33d3f605c91bf0aab1f699c", null ],
+    [ "TEST", "d8/d73/a00674.html#a1abe08c7becc5f8bc2d034cf7312a1b1", null ],
+    [ "TEST", "d8/d73/a00674.html#af92bca5e60d83a245a06403f58a9360c", null ]
 ];

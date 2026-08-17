@@ -1,7 +1,7 @@
 var a25887 =
 [
-    [ "HandleScriptEffect", "df/da7/a25887.html#a3ad488a1b6115bb1ec8cfe6717d3b4cf", null ],
-    [ "Load", "df/da7/a25887.html#af89783564da25769be15e22291717f6a", null ],
-    [ "PrepareSpellScript", "df/da7/a25887.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7", null ],
-    [ "Register", "df/da7/a25887.html#addbe722d9f3727578f817789e3010bab", null ]
+    [ "CalculateDamageAmount", "df/da7/a25887.html#a2f608e8391e61434ef1b164c023854fe", null ],
+    [ "CalculateManaLeechAmount", "df/da7/a25887.html#a8a4946d1718d8045a72c92355ff38ecb", null ],
+    [ "PrepareAuraScript", "df/da7/a25887.html#a63d24d3ca4b2de1aa7f67376ded7bc59", null ],
+    [ "Register", "df/da7/a25887.html#aa6e74e89930fd3cc564c3cba86e3687e", null ]
 ];

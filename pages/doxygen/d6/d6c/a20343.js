@@ -16,10 +16,13 @@ var a20343 =
     [ "UpdateAI", "d6/d6c/a20343.html#a1ea7d6b65ceaa7d1c485685df40682f9", null ],
     [ "_aliveAddsCount", "d6/d6c/a20343.html#a2994fd85d4fc14c93b5dd3b6113fe80b", null ],
     [ "_backToNature", "d6/d6c/a20343.html#ab29a12f6a5ff5fd6ce579ebfceb6323c", null ],
+    [ "_currentSetId", "d6/d6c/a20343.html#aca780e90cf50f2c08ca2faef14bbbe86", null ],
+    [ "_currentTrioDown", "d6/d6c/a20343.html#aaae6a69564a7de262bcb8b8c55fd1c7b", null ],
     [ "_deforestation", "d6/d6c/a20343.html#a6c3e874ea83c564c93b6c7599e1174bd", null ],
     [ "_elderGUID", "d6/d6c/a20343.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],
     [ "_lumberjacked", "d6/d6c/a20343.html#aa35101951b2d47848b69170ab36ae414", null ],
     [ "_setPermutation", "d6/d6c/a20343.html#a987265a1775e47ac50e873c38cc1a753", null ],
     [ "_spawnedAmount", "d6/d6c/a20343.html#aafbd2fcaccdc5890f513054d6840ed55", null ],
-    [ "_trioDown", "d6/d6c/a20343.html#afbf5fcebd50f968b1171c443818a3949", null ]
+    [ "_trioDown", "d6/d6c/a20343.html#afbf5fcebd50f968b1171c443818a3949", null ],
+    [ "_trioWaveEndSetId", "d6/d6c/a20343.html#ae7842858d4ae9a9d4eee44c9cd86a23e", null ]
 ];

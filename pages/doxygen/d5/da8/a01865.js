@@ -1,4 +1,4 @@
 var a01865 =
 [
-    [ "BattlegroundMapScript", "db/d5e/a10739.html", "db/d5e/a10739" ]
+    [ "AH_MINIMUM_DEPOSIT", "d5/da8/a01865.html#ae6debe42dd0e5674dcf1b874cebafe98", null ]
 ];

@@ -1,6 +1,7 @@
 var a24763 =
 [
-    [ "HandleScriptEffect", "df/db6/a24763.html#ad9863535a38094779e765fe65450ce55", null ],
-    [ "PrepareSpellScript", "df/db6/a24763.html#a653061d36c204fbd0d2dc1f983864bf1", null ],
-    [ "Register", "df/db6/a24763.html#a5019887a078af86682eea3974bacf6dc", null ]
+    [ "HandleProc", "df/db6/a24763.html#afc5208979ec0ce81e2bb88b3bd429012", null ],
+    [ "PrepareAuraScript", "df/db6/a24763.html#a9eebffe3b716f7de63bfd6617e6ecf3b", null ],
+    [ "Register", "df/db6/a24763.html#a1f364414b053ffc92c2a219b713e8c38", null ],
+    [ "Validate", "df/db6/a24763.html#a12912ba28210850b8bc0b568357794af", null ]
 ];

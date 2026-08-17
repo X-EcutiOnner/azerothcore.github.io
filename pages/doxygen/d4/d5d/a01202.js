@@ -1,11 +1,6 @@
 var a01202 =
 [
-    [ "CombatReference", "d8/d73/a08235.html", "d8/d73/a08235" ],
-    [ "PvPCombatReference", "de/ded/a08239.html", "de/ded/a08239" ],
-    [ "CombatManager", "dd/da9/a08243.html", "dd/da9/a08243" ],
-    [ "EvadeState", "d4/d5d/a01202.html#a330a2d238c7c7b5390c40e53436d0d74", [
-      [ "EVADE_STATE_NONE", "d4/d5d/a01202.html#a330a2d238c7c7b5390c40e53436d0d74a742a27c0e47bf6cbe51ea3d3485e1ee6", null ],
-      [ "EVADE_STATE_COMBAT", "d4/d5d/a01202.html#a330a2d238c7c7b5390c40e53436d0d74ac6bc3b656f0875f408ad159de8e47dab", null ],
-      [ "EVADE_STATE_HOME", "d4/d5d/a01202.html#a330a2d238c7c7b5390c40e53436d0d74a7179da8d8fc2a4fb8897c5febb10b6d8", null ]
-    ] ]
+    [ "ToCloud9Sidecar", "d0/d9c/a12163.html", "d0/d9c/a12163" ],
+    [ "MAX_MAP_ID", "d4/d5d/a01202.html#a913ea4496407eed4f786059d99f61b95", null ],
+    [ "sToCloud9Sidecar", "d4/d5d/a01202.html#a269ff175e81e59511267ed3605cb45cb", null ]
 ];

@@ -1,9 +1,9 @@
 var a29911 =
 [
-    [ "SetUp", "d5/d10/a29911.html#a20b3a8161766a47ae37349f02cbe5b90", null ],
-    [ "TearDown", "d5/d10/a29911.html#a9b41e4a95a6ca160c70272dfb90b5f8a", null ],
-    [ "creatureQuestMap", "d5/d10/a29911.html#ae8b815994792f237cf6e1803b9eaa7f7", null ],
-    [ "TEST_CREATURE_ID", "d5/d10/a29911.html#a80a79959d4b5520f7acf671677a671e9", null ],
-    [ "TEST_POOL_ID", "d5/d10/a29911.html#aa81759d0539b72ad3cdda7d2231f8e63", null ],
-    [ "TEST_QUEST_ID", "d5/d10/a29911.html#a26e68107bb625d0c5b6281c7df9199be", null ]
+    [ "CountQuestOnCreature", "d5/d10/a29911.html#a4bf05b65d940e61567667d0939e177e5", null ],
+    [ "SetUp", "d5/d10/a29911.html#a4788953a58bbea222cf59662b4427e72", null ],
+    [ "SimulateReload", "d5/d10/a29911.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
+    [ "SimulateSpawn1Object", "d5/d10/a29911.html#a82c53349ba3754a75b2c1570fe413d09", null ],
+    [ "TearDown", "d5/d10/a29911.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
+    [ "creatureQuestMap", "d5/d10/a29911.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
 ];

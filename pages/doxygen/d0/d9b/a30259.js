@@ -1,17 +1,10 @@
 var a30259 =
 [
-    [ "IntermediateValues", "d0/d9b/a30259.html#adaa52f94036d068f48843be78544ea28", null ],
-    [ "~IntermediateValues", "d0/d9b/a30259.html#ae32f71ccdd0ceae28fcbf3502ae1935b", null ],
-    [ "debugWrite", "d0/d9b/a30259.html#a5f49b8fa815abb24d0b4902936478738", null ],
-    [ "debugWrite", "d0/d9b/a30259.html#a9946cab3804d9c53165d27d8960bd4c6", null ],
-    [ "debugWrite", "d0/d9b/a30259.html#a962526b1a64ecd73a1c1ddb408ec41d2", null ],
-    [ "debugWrite", "d0/d9b/a30259.html#a6affbebfb3bf252ad9c608f6b772a7a4", null ],
-    [ "debugWrite", "d0/d9b/a30259.html#ac50648c10a0154b8204722d11cdd63ed", null ],
-    [ "generateObjFile", "d0/d9b/a30259.html#a0789235bd020d359060e919a65851646", null ],
-    [ "writeIV", "d0/d9b/a30259.html#af5705f3d1e43dd4439be25e66b1c2cf3", null ],
-    [ "compactHeightfield", "d0/d9b/a30259.html#a30baa88eb8e4c1516cdd1bfef5c071b3", null ],
-    [ "contours", "d0/d9b/a30259.html#a953e628c47f2be3694fa43df091c1da8", null ],
-    [ "heightfield", "d0/d9b/a30259.html#a947a3a6873c619bfdc1a99da670a95bd", null ],
-    [ "polyMesh", "d0/d9b/a30259.html#affddc2891e1c0f4d7e3d649fd6135baf", null ],
-    [ "polyMeshDetail", "d0/d9b/a30259.html#aa4ecc0e4895fa6442a955d8d5e8146bd", null ]
+    [ "maxSimplificationError", "d0/d9b/a30259.html#a010878a247d639234d2bb8571280aca6", null ],
+    [ "vertexPerMapEdge", "d0/d9b/a30259.html#af620af11a09215f106fc6704c88fa411", null ],
+    [ "vertexPerTileEdge", "d0/d9b/a30259.html#a5a801e68fac6d59c1a236aeaf374bc9e", null ],
+    [ "walkableClimb", "d0/d9b/a30259.html#aa5f6c5daf51b6390b7146f9a8d6de7ec", null ],
+    [ "walkableHeight", "d0/d9b/a30259.html#a42b9a553cb3cd5d9c39d4cb7f0f59486", null ],
+    [ "walkableRadius", "d0/d9b/a30259.html#a43f00aacc5e1497c169d4ba908883140", null ],
+    [ "walkableSlopeAngle", "d0/d9b/a30259.html#a9792dfe730bfc437797a359896a14528", null ]
 ];

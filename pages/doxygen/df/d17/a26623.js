@@ -1,7 +1,8 @@
 var a26623 =
 [
-    [ "HandleProc", "df/d17/a26623.html#ad97c3b5df293ed8afae3e662467088c2", null ],
-    [ "PrepareAuraScript", "df/d17/a26623.html#a691f14220a619e1915636417927aaa13", null ],
-    [ "Register", "df/d17/a26623.html#a4f3c644a91dab0641ef489fd2da171a2", null ],
-    [ "Validate", "df/d17/a26623.html#a6fee4af68a8d312bcb543e0c67932cc9", null ]
+    [ "HandleProc", "df/d17/a26623.html#ab98571b7f614d66c44c25d0d2c6aa738", null ],
+    [ "PrepareAuraScript", "df/d17/a26623.html#a194c83ebc29c4522b5fc313a3ab4d1dd", null ],
+    [ "Register", "df/d17/a26623.html#a6dfd4dc774e58a8881b20a31d4c1be56", null ],
+    [ "Validate", "df/d17/a26623.html#a886d2b1a2bf2f25bde5248edcef9733d", null ],
+    [ "_critStreak", "df/d17/a26623.html#a4a8e3c9d8754844d74e72cb328c44221", null ]
 ];

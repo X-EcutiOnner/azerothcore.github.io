@@ -1,6 +1,5 @@
 var a00254 =
 [
-    [ "LinkedListElement", "d5/da0/a05575.html", "d5/da0/a05575" ],
-    [ "LinkedListHead", "de/d98/a05579.html", "de/d98/a05579" ],
-    [ "LinkedListHead::Iterator< _Ty >", "d0/d52/a05583.html", "d0/d52/a05583" ]
+    [ "DataMap", "d0/d47/a05819.html", "d0/d47/a05819" ],
+    [ "DataMap::Base", "de/d27/a05823.html", "de/d27/a05823" ]
 ];

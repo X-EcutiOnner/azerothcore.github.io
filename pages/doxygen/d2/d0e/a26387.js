@@ -1,7 +1,6 @@
 var a26387 =
 [
-    [ "HandleDummy", "d2/d0e/a26387.html#aa510199edee85bfcf6314559e9c72928", null ],
-    [ "PrepareSpellScript", "d2/d0e/a26387.html#a8d2dce1e15f87bb3f744f89b7a531c72", null ],
-    [ "Register", "d2/d0e/a26387.html#a1da7830a42eabcccba81000b7094b205", null ],
-    [ "Validate", "d2/d0e/a26387.html#ad5f88629afe87669a18a7424b8b34ba0", null ]
+    [ "HandleStackDrop", "d2/d0e/a26387.html#a8e452c968558f3bd273b18a8055745d2", null ],
+    [ "PrepareAuraScript", "d2/d0e/a26387.html#aa18e4975db4e2831c61f38d990886676", null ],
+    [ "Register", "d2/d0e/a26387.html#a04ebc4be3fea42ca2352fd441841f76e", null ]
 ];

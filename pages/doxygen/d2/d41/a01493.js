@@ -1,20 +1,20 @@
 var a01493 =
 [
-    [ "Acore::Impl::ChatCommands::ContainerTag", "d7/d3a/a08056.html", "d7/d3a/a08056" ],
-    [ "Acore::Impl::ChatCommands::tag_base< T, std::enable_if_t< std::is_base_of_v< ContainerTag, T > > >", "d0/dd0/a08060.html", "d0/dd0/a08060" ],
-    [ "Acore::ChatCommands::ExactSequence< chars >", "d4/dd9/a08064.html", "d4/dd9/a08064" ],
-    [ "Acore::ChatCommands::Tail", "dd/db6/a08068.html", "dd/db6/a08068" ],
-    [ "Acore::ChatCommands::WTail", "df/db7/a08072.html", "df/db7/a08072" ],
-    [ "Acore::ChatCommands::QuotedString", "d7/d06/a08076.html", "d7/d06/a08076" ],
-    [ "Acore::ChatCommands::AccountIdentifier", "d7/df6/a08080.html", "d7/df6/a08080" ],
-    [ "Acore::ChatCommands::PlayerIdentifier", "d9/d93/a08084.html", "d9/d93/a08084" ],
-    [ "Acore::ChatCommands::Hyperlink< linktag >", "de/d0b/a08088.html", "de/d0b/a08088" ],
-    [ "Acore::Impl::CastToVisitor< T >", "d5/d49/a08092.html", "d5/d49/a08092" ],
-    [ "Acore::ChatCommands::Variant< T1, Ts >", "d2/d6b/a08096.html", "d2/d6b/a08096" ],
-    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL", "d2/d41/a01493.html#af98497f511ab4c536bd80e08ff605c04", null ],
-    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL_CONSTRAINED", "d2/d41/a01493.html#ae9ad890da39c16320a177ed5fbdffdf1", null ],
-    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL_EXTRACT_CHAR", "d2/d41/a01493.html#a55b2f2ab9e15f11a5b44f6d616f28e8a", null ],
-    [ "EXACT_SEQUENCE", "d2/d41/a01493.html#ac61bb0d0d29d3ccc94188eb93516adf5", null ],
-    [ "format_as", "d2/d41/a01493.html#a474622d2cd7db21b03271a0f2c3237b9", null ],
-    [ "GetChar", "d2/d41/a01493.html#ab72843264c39ce4d9aa3d4d8fbd83fc4", null ]
+    [ "FormationInfo", "d8/d0e/a08483.html", "d8/d0e/a08483" ],
+    [ "FormationMgr", "d0/d81/a08487.html", "d0/d81/a08487" ],
+    [ "CreatureGroup", "dd/d5b/a08491.html", "dd/d5b/a08491" ],
+    [ "sFormationMgr", "d2/d41/a01493.html#ae80a51404625cee821a8727ed7369352", null ],
+    [ "CreatureGroupInfoType", "d2/d41/a01493.html#a2c3447bf21f430bff136da6811d93a61", null ],
+    [ "GroupAIFlags", "d2/d41/a01493.html#a3754da8cc6b209da0180cd76de20869c", [
+      [ "GROUP_AI_FLAG_MEMBER_ASSIST_LEADER", "d2/d41/a01493.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2", null ],
+      [ "GROUP_AI_FLAG_LEADER_ASSIST_MEMBER", "d2/d41/a01493.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e", null ],
+      [ "GROUP_AI_FLAG_EVADE_TOGETHER", "d2/d41/a01493.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a", null ],
+      [ "GROUP_AI_FLAG_RESPAWN_ON_EVADE", "d2/d41/a01493.html#a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6", null ],
+      [ "GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE", "d2/d41/a01493.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043", null ],
+      [ "GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE", "d2/d41/a01493.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e", null ],
+      [ "GROUP_AI_FLAG_FOLLOW_LEADER", "d2/d41/a01493.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87", null ],
+      [ "GROUP_AI_FLAG_ASSIST_MASK", "d2/d41/a01493.html#a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c", null ],
+      [ "GROUP_AI_FLAG_EVADE_MASK", "d2/d41/a01493.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd", null ],
+      [ "GROUP_AI_FLAG_SUPPORTED", "d2/d41/a01493.html#a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60", null ]
+    ] ]
 ];

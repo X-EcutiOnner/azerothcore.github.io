@@ -1,6 +1,8 @@
 var a00764 =
 [
-    [ "ObjectVisibilityContainer", "d3/d9e/a08859.html", "d3/d9e/a08859" ],
-    [ "VisiblePlayersMap", "d3/d2c/a00764.html#a52b38df575afa7eef8fb58759ee03bd8", null ],
-    [ "VisibleWorldObjectsMap", "d3/d2c/a00764.html#a6fe979433a4dd2c9023626ecc74bf6a5", null ]
+    [ "SpellProcTestEntry", "df/d91/a30059.html", "df/d91/a30059" ],
+    [ "GetAllSpellProcTestEntries", "d3/d2c/a00764.html#a39025d5b336e745566f739e9d1f68e78", null ],
+    [ "GroupByHitMask", "d3/d2c/a00764.html#a9c10a33f80d5dad16ac98bf115774ded", null ],
+    [ "GroupByProcFlags", "d3/d2c/a00764.html#a8a30ea152f1ec07a3e93549376c04b74", null ],
+    [ "GroupBySpellFamily", "d3/d2c/a00764.html#ac781b3845801dede698012d7118061a4", null ]
 ];

@@ -1,6 +1,6 @@
 var a25743 =
 [
-    [ "CheckCast", "dc/de6/a25743.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
-    [ "PrepareSpellScript", "dc/de6/a25743.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
-    [ "Register", "dc/de6/a25743.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
+    [ "HandleStackDrop", "dc/de6/a25743.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
+    [ "PrepareAuraScript", "dc/de6/a25743.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
+    [ "Register", "dc/de6/a25743.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
 ];

@@ -1,8 +1,8 @@
 var a04799 =
 [
-    [ "wdt_MPHD", "db/d11/a30211.html", "db/d11/a30211" ],
-    [ "wdt_MAIN", "d3/dac/a30219.html", "d3/dac/a30219" ],
-    [ "wdt_MAIN::adtData", "dd/df2/a30227.html", "dd/df2/a30227" ],
-    [ "WDT_file", "d1/dae/a30231.html", "d1/dae/a30231" ],
-    [ "WDT_MAP_SIZE", "d5/d6b/a04799.html#a0cf0c1d4bd3ed48612ab2a5e36b8cf10", null ]
+    [ "instance_the_botanica", "d1/dba/a23831.html", "d1/dba/a23831" ],
+    [ "instance_the_botanica::instance_the_botanica_InstanceMapScript", "d2/da6/a23835.html", "d2/da6/a23835" ],
+    [ "spell_botanica_call_of_the_falcon_aura", "dd/dbb/a23839.html", "dd/dbb/a23839" ],
+    [ "spell_botanica_shift_form_aura", "db/d0e/a23843.html", "db/d0e/a23843" ],
+    [ "AddSC_instance_the_botanica", "d5/d6b/a04799.html#a42bac8d93a9aac296390fec4cb6b94cb", null ]
 ];

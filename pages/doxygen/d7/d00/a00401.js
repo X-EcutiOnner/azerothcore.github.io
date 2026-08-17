@@ -1,5 +1,4 @@
 var a00401 =
 [
-    [ "Acore::AhoCorasick< CharT >", "dc/d27/a05799.html", "dc/d27/a05799" ],
-    [ "Acore::AhoCorasick< CharT >::Node", "d5/d41/a05803.html", "d5/d41/a05803" ]
+    [ "LockedQueue< T, StorageType >", "d2/dac/a05743.html", "d2/dac/a05743" ]
 ];

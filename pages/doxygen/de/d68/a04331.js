@@ -1,49 +1,44 @@
 var a04331 =
 [
-    [ "zm_beacon", "df/dc3/a22635.html", "df/dc3/a22635" ],
-    [ "OPvPCapturePointZM_Beacon", "d6/df5/a22639.html", "d6/df5/a22639" ],
-    [ "OPvPCapturePointZM_Graveyard", "d2/dbc/a22643.html", "d2/dbc/a22643" ],
-    [ "OutdoorPvPZM", "d8/d9f/a22647.html", "d8/d9f/a22647" ],
-    [ "OutdoorPvPZMSpells", "de/d68/a04331.html#ac31cd7a23fe2f82e25ababd3a8b700a1", [
-      [ "ZM_CAPTURE_BUFF", "de/d68/a04331.html#ac31cd7a23fe2f82e25ababd3a8b700a1a5039b0bd2a7689f857a4ecc871d5b16d", null ],
-      [ "ZM_BATTLE_STANDARD_A", "de/d68/a04331.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5", null ],
-      [ "ZM_BATTLE_STANDARD_H", "de/d68/a04331.html#ac31cd7a23fe2f82e25ababd3a8b700a1a0513ef6309adc490c793ee1dc5bc8614", null ],
-      [ "ZM_AlliancePlayerKillReward", "de/d68/a04331.html#ac31cd7a23fe2f82e25ababd3a8b700a1a53fad383bb7058d8c1a272bd6d9523a3", null ],
-      [ "ZM_HordePlayerKillReward", "de/d68/a04331.html#ac31cd7a23fe2f82e25ababd3a8b700a1a6f9de137a24ee5d457ee7e2c093b398b", null ]
-    ] ],
-    [ "ZM_BeaconType", "de/d68/a04331.html#a8493feec67db9c938c31465f24f60fe1", [
-      [ "ZM_BEACON_EAST", "de/d68/a04331.html#a8493feec67db9c938c31465f24f60fe1a034b065f7219f5b4a6d983ed694e7a80", null ],
-      [ "ZM_BEACON_WEST", "de/d68/a04331.html#a8493feec67db9c938c31465f24f60fe1a36b102e6d45f41b4db14e889ffac46e2", null ],
-      [ "ZM_NUM_BEACONS", "de/d68/a04331.html#a8493feec67db9c938c31465f24f60fe1a9e566b7b7f64cae5ea6a37a289f16ce3", null ]
-    ] ],
-    [ "Zm_GraveyardState", "de/d68/a04331.html#ad13518df9718347908929a97748d3636", [
-      [ "ZM_GRAVEYARD_N", "de/d68/a04331.html#ad13518df9718347908929a97748d3636a87f32a40b9ae4243e7977085b4dab7c0", null ],
-      [ "ZM_GRAVEYARD_A", "de/d68/a04331.html#ad13518df9718347908929a97748d3636aef470c9322dded10641afcc6a153e329", null ],
-      [ "ZM_GRAVEYARD_H", "de/d68/a04331.html#ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065", null ]
-    ] ],
-    [ "ZM_TowerStateMask", "de/d68/a04331.html#a5d44e96b24b1f1215d1b3788b212f11c", [
-      [ "ZM_TOWERSTATE_N", "de/d68/a04331.html#a5d44e96b24b1f1215d1b3788b212f11ca03d2918a6a9915b33da0f120feb7d5da", null ],
-      [ "ZM_TOWERSTATE_A", "de/d68/a04331.html#a5d44e96b24b1f1215d1b3788b212f11cab51c5d640c62f5336ec7c5a1028f73d0", null ],
-      [ "ZM_TOWERSTATE_H", "de/d68/a04331.html#a5d44e96b24b1f1215d1b3788b212f11ca206f55050d03bbc30f690c7e669e1831", null ]
-    ] ],
-    [ "ZMCreatureTypes", "de/d68/a04331.html#aa6fc4a297b329d62073dd503d4f647c5", [
-      [ "ZM_ALLIANCE_FIELD_SCOUT", "de/d68/a04331.html#aa6fc4a297b329d62073dd503d4f647c5ab0f9fb0eee307b47658f6742db0a4d82", null ],
-      [ "ZM_HORDE_FIELD_SCOUT", "de/d68/a04331.html#aa6fc4a297b329d62073dd503d4f647c5a51001197c09a749a8d042df6fc5d0d62", null ],
-      [ "ZM_CREATURE_NUM", "de/d68/a04331.html#aa6fc4a297b329d62073dd503d4f647c5a47e8909e9a6a41604775c672ec3587ae", null ]
-    ] ],
-    [ "OutdoorPvPZMBuffZones", "de/d68/a04331.html#a42debbed89bc9a37f04d7da9f1ba5362", null ],
-    [ "OutdoorPvPZMBuffZonesNum", "de/d68/a04331.html#afd164ef928ed19895648e76207433805", null ],
-    [ "ZM_AllianceFieldScout", "de/d68/a04331.html#a308db265dfb26d8d04ea2b44077d3b42", null ],
-    [ "ZM_Banner_A", "de/d68/a04331.html#a986fade5573769277e5c9e99dc243d78", null ],
-    [ "ZM_Banner_H", "de/d68/a04331.html#a5eae372f5bc43c36af04c8833002ca79", null ],
-    [ "ZM_Banner_N", "de/d68/a04331.html#a9bf0e9dee2e0ae4731dd302373e18542", null ],
-    [ "ZM_GRAVEYARD_ID", "de/d68/a04331.html#adc060a8578a0685e98f94a0d51c3613b", null ],
-    [ "ZM_GRAVEYARD_ZONE", "de/d68/a04331.html#a32c62572b4ea0ef1930cffc3e9e2c6fe", null ],
-    [ "ZM_HordeFieldScout", "de/d68/a04331.html#aa18435dfdf68c3f5ac5218ce2e4909d0", null ],
-    [ "ZMBeaconCaptureA", "de/d68/a04331.html#aefc7683d5c310d6513a4bc64e0562f24", null ],
-    [ "ZMBeaconCaptureH", "de/d68/a04331.html#a3cf4b21d832f1993b7bbef74516f4690", null ],
-    [ "ZMBeaconInfo", "de/d68/a04331.html#af392c2c0a8da38f6782ab0ed0501a448", null ],
-    [ "ZMBeaconLoseA", "de/d68/a04331.html#ace5e051bf69a2b4be978b04c832c5592", null ],
-    [ "ZMBeaconLoseH", "de/d68/a04331.html#a32e1a277d31ee3f4a23f291ccb4798e6", null ],
-    [ "ZMCapturePoints", "de/d68/a04331.html#a397f5867c1a3f99cf044124a4a621324", null ]
+    [ "FireworkShowGameobject", "d6/d85/a14855.html", "d6/d85/a14855" ],
+    [ "FireworkShowScheduleEntry", "d8/da6/a14859.html", "d8/da6/a14859" ],
+    [ "FireworkShow", "db/df1/a14863.html", "db/df1/a14863" ],
+    [ "eFireworks", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1ef", [
+      [ "GO_FIREWORK_SHOW_TYPE_1_RED", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efafbfc2514c5e6777576f0478c218599b6", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_2_RED", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efab509f3c7c1a228c449d5921991eb24fe", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_1_RED_BIG", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa202f3aa19fe8e05412d5530d9901e1aa", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_2_RED_BIG", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efad38d73c037c438c074cb764d1b6bcef2", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_1_BLUE", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa64e73e866c8b8d47e5fece07e8ae7f69", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_2_BLUE", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efacad0b27b1ad4597690afdd5a9f76493e", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_1_BLUE_BIG", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efac2360c7b4141339c3e7446732a0115af", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_2_BLUE_BIG", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa624e0f3603c4ae40b94134d2191421e4", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_1_GREEN", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa4f78b2161c527cad45d2851a92786e54", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_2_GREEN_BIG", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1eface68791945ed391faebebd1edc9ead9d", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_1_GREEN_BIG", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efaa76280fe62eb56416c6b1a95599c8e0a", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_2_GREEN", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa6eaa27ba103b2dacd7ea93222229b152", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_1_WHITE", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa20ad345d5f090a50593ad75453c86921", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_1_WHITE_BIG", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa9325caf16f5fd01b96b4a7202d11c954", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_2_WHITE", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efadacc9a35a6c947101cb66aa1bf63b840", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_2_WHITE_BIG", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa2886fea4a859cc1302b89fb5bd4894bb", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_2_PURPLE_BIG", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa1b1201d7f92af2d6b96543a7e4d84d57", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_1_YELLOW", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efac4278f6ad0be67e8a6e38428f8d1d1b2", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_1_YELLOW_BIG", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa0eaa7ffa7a231487c100494c0d4a0071", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_2_YELLOW", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa5d0d683844dcf126a16099bb8c98a7e6", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_2_YELLOW_BIG", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa6e4ef0854b7a7dc4f54c5ce29bb4e852", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_2_PURPLE", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efacc9beca607ac3622472393a21b34e710", null ],
+      [ "GO_FIREWORK_SHOW_TYPE_1_PURPLE_BIG", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa9df2eb3577191bd673390e9cb95febcb", null ],
+      [ "GO_TOASTING_GOBLET", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa6097510945f53abb088a289583e7058e", null ],
+      [ "NPC_STORMWIND_REVELER", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa4f1d578423c04b16414575365bbc4e00", null ],
+      [ "NPC_THUNDER_BLUFF_REVELER", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa14b578ff5b019a5c087624fb502d5a91", null ],
+      [ "NPC_BOOTY_BAY_REVELER", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa1090c52a9da63c5051300b8cf7f61fd5", null ],
+      [ "NPC_DARNASSUS_REVELER", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efad98d5145db42090ecdf5e6a68d3ca57b", null ],
+      [ "NPC_IRONFORGE_REVELER", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa19b63e50c89c9e9eb12fe6a22108c967", null ],
+      [ "NPC_UNDERCITY_REVELER", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa6ec14bd98619d5e959cb71a3fcf53b75", null ],
+      [ "NPC_ORGRIMMAR_REVELER", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa630143f3002e80e19936e357e05f3250", null ],
+      [ "NPC_SCRYER_REVELER", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa6feeae2411613b9320f948d76ca62d87", null ],
+      [ "NPC_ALDOR_REVELER", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa07470be1382b761cebae5516586f3e44", null ],
+      [ "NPC_DRAENEI_REVELER", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efafa0fbaac554e9b1afdb5c581e95918d8", null ],
+      [ "NPC_BLOOD_ELF_REVELER", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa9fdc19e9345d45dafd482ba9431772aa", null ],
+      [ "COUNT_REVELER_ID", "de/d68/a04331.html#ad6101dc8b1197f1113132f0abce2b1efa31fdcda6fb9f3dc253b3afc77eacbe2b", null ]
+    ] ]
 ];

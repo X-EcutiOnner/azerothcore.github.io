@@ -1,7 +1,7 @@
 var a27955 =
 [
-    [ "HandleScript", "d3/d87/a27955.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
-    [ "PrepareSpellScript", "d3/d87/a27955.html#ab363d596d2d1e030f0cc07126b40e921", null ],
-    [ "Register", "d3/d87/a27955.html#ab9041b811e80e220828d5db59b724682", null ],
-    [ "Validate", "d3/d87/a27955.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
+    [ "HandleGlyph", "d3/d87/a27955.html#a9ec1133587bb6f0d7faa1beafc8415d9", null ],
+    [ "PrepareSpellScript", "d3/d87/a27955.html#adffd8b39adef397a886a66465e09f68b", null ],
+    [ "Register", "d3/d87/a27955.html#a77ff80bffd5c3f75dd60f2d901dfd84e", null ],
+    [ "Validate", "d3/d87/a27955.html#aa8bf4fc8457d122e46d12bc6b1cc7586", null ]
 ];

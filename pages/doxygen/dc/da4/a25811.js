@@ -1,8 +1,8 @@
 var a25811 =
 [
-    [ "CheckProc", "dc/da4/a25811.html#a86e6da13f7162318e5c0a7c6f89c69c2", null ],
-    [ "HandleProc", "dc/da4/a25811.html#a4ac70c7765266f36b7689ffcc2bed15d", null ],
-    [ "PrepareAuraScript", "dc/da4/a25811.html#acc41c53bf96695dc8cc43ccaf08e4125", null ],
-    [ "Register", "dc/da4/a25811.html#a1dcd66a66f7b069fede39b57f0abbb56", null ],
-    [ "Validate", "dc/da4/a25811.html#a269711969d98851c8275e3f44a706b97", null ]
+    [ "HandleRapidFireProc", "dc/da4/a25811.html#a174eb1d766c0ae7f59fabdefe565e1de", null ],
+    [ "HandleRapidKillingProc", "dc/da4/a25811.html#a12f24814d41837c8ddb8a42c8e932077", null ],
+    [ "PrepareAuraScript", "dc/da4/a25811.html#aa75ea03f718a90a49d81ff49d765c74d", null ],
+    [ "Register", "dc/da4/a25811.html#af1d93d8ea32a74f7bb6c115f21c5c6c3", null ],
+    [ "Validate", "dc/da4/a25811.html#a01598fbd355dfdd4517d4221ad5ae323", null ]
 ];

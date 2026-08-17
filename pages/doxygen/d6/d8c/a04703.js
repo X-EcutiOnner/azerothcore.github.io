@@ -1,6 +1,7 @@
 var a04703 =
 [
-    [ "CharacterDatabase", "d6/d8c/a04703.html#af8239cd04c4137e1e621226a6d919ed4", null ],
-    [ "LoginDatabase", "d6/d8c/a04703.html#ae753c5c60b556b0cb7998e7424be5cbf", null ],
-    [ "WorldDatabase", "d6/d8c/a04703.html#af42e9d262f732792d1e81568ae38ea2e", null ]
+    [ "instance_the_slave_pens", "df/dc6/a23419.html", "df/dc6/a23419" ],
+    [ "instance_the_slave_pens::instance_the_slave_pens_InstanceMapScript", "d6/ddf/a23423.html", "d6/ddf/a23423" ],
+    [ "AddSC_instance_the_slave_pens", "d6/d8c/a04703.html#a41772e574e8da2d2009384c1f312ed92", null ],
+    [ "creatureData", "d6/d8c/a04703.html#a412286b689bd324fedd65ddd8dde8afb", null ]
 ];

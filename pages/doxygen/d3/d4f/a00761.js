@@ -1,20 +1,18 @@
 var a00761 =
 [
-    [ "UpdatefieldFlags", "d3/d4f/a00761.html#a811fc272bf3df65a461d871556356150", [
-      [ "UF_FLAG_NONE", "d3/d4f/a00761.html#a811fc272bf3df65a461d871556356150a7d1b4f7f2db6116940d9d5939501821a", null ],
-      [ "UF_FLAG_PUBLIC", "d3/d4f/a00761.html#a811fc272bf3df65a461d871556356150aa23748720df562a04ac4e80d7bd222da", null ],
-      [ "UF_FLAG_PRIVATE", "d3/d4f/a00761.html#a811fc272bf3df65a461d871556356150ac5ff327c7c75208435488e55a3008b3c", null ],
-      [ "UF_FLAG_OWNER", "d3/d4f/a00761.html#a811fc272bf3df65a461d871556356150ab1517a7b1049b7541d6de9ab69402715", null ],
-      [ "UF_FLAG_UNUSED1", "d3/d4f/a00761.html#a811fc272bf3df65a461d871556356150aeead926260fb10c5449766745fd71106", null ],
-      [ "UF_FLAG_ITEM_OWNER", "d3/d4f/a00761.html#a811fc272bf3df65a461d871556356150a590c2755c17b30efbb3bbff85036fb65", null ],
-      [ "UF_FLAG_SPECIAL_INFO", "d3/d4f/a00761.html#a811fc272bf3df65a461d871556356150a5715410f0568125f85e318a57c281cd8", null ],
-      [ "UF_FLAG_PARTY_MEMBER", "d3/d4f/a00761.html#a811fc272bf3df65a461d871556356150adabd2ae86a3e7c701374be7847446cb7", null ],
-      [ "UF_FLAG_UNUSED2", "d3/d4f/a00761.html#a811fc272bf3df65a461d871556356150a6b9db4521b5b4cc023e15610eef397e1", null ],
-      [ "UF_FLAG_DYNAMIC", "d3/d4f/a00761.html#a811fc272bf3df65a461d871556356150a3b75563c8e1c2bfbe672d128cce4b1e5", null ]
-    ] ],
-    [ "CorpseUpdateFieldFlags", "d3/d4f/a00761.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
-    [ "DynamicObjectUpdateFieldFlags", "d3/d4f/a00761.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
-    [ "GameObjectUpdateFieldFlags", "d3/d4f/a00761.html#aee13b862f51557c371d3d93341128895", null ],
-    [ "ItemUpdateFieldFlags", "d3/d4f/a00761.html#ac1cca7ecf1650663132e3e220d771adf", null ],
-    [ "UnitUpdateFieldFlags", "d3/d4f/a00761.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
+    [ "WildGrowthTickScalingTest", "db/df3/a30079.html", null ],
+    [ "CalcAllTicks", "d3/d4f/a00761.html#a7d72b7a206fea0eaa814a190c35a0e29", null ],
+    [ "CalcPct", "d3/d4f/a00761.html#a95e4d56dd3e5ff9502c8bb2627784cd5", null ],
+    [ "CalcWildGrowthTickAmount", "d3/d4f/a00761.html#addfd88f5be5daae3a078cbade7aed80e", null ],
+    [ "TEST_F", "d3/d4f/a00761.html#a9d52bfcc939885d06058fd6bf5d53c2c", null ],
+    [ "TEST_F", "d3/d4f/a00761.html#aa504cc9a356860eb165f182559c176a5", null ],
+    [ "TEST_F", "d3/d4f/a00761.html#a782bf6635bb8ed38811c7267570bbc89", null ],
+    [ "TEST_F", "d3/d4f/a00761.html#a2aa08e1fb8bf70cf536d6b6bcd66ff1d", null ],
+    [ "TEST_F", "d3/d4f/a00761.html#ad88848d6f6a3aac255bc69c9fe088035", null ],
+    [ "TEST_F", "d3/d4f/a00761.html#a5baa77f7a4dcc6d8040eab8d54e78de4", null ],
+    [ "TEST_F", "d3/d4f/a00761.html#ad78da13617963af6adeadcec4d175082", null ],
+    [ "TEST_F", "d3/d4f/a00761.html#ade248bfbf5bb17e3ab46f8d2276b3ba8", null ],
+    [ "TEST_F", "d3/d4f/a00761.html#a476b6f58d0b66ce6fce645271bac47d7", null ],
+    [ "DEFAULT_REDUCTION", "d3/d4f/a00761.html#ae0cd8a076081c01395db37925ee7e3f5", null ],
+    [ "TOTAL_TICKS", "d3/d4f/a00761.html#a7748fbc7dddd525998e933e79311736a", null ]
 ];

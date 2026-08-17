@@ -1,9 +1,12 @@
 var a04133 =
 [
-    [ "PoolTemplateItem", "de/d35/a12567.html", "de/d35/a12567" ],
-    [ "NodeGroup", "d1/d6e/a12571.html", "d1/d6e/a12571" ],
-    [ "PoolSession", "da/d90/a12575.html", "da/d90/a12575" ],
-    [ "pooltools_commandscript", "d3/dc2/a12579.html", "d3/dc2/a12579" ],
-    [ "AddSC_pooltools_commandscript", "dc/d8f/a04133.html#a8c8907ff2ae66e87142b14909a2ee941", null ],
-    [ "PoolSessions", "dc/d8f/a04133.html#ab5e275ff67266d9329307cd8a5398b14", null ]
+    [ "npc_webbed_creature", "d7/d00/a15887.html", "d7/d00/a15887" ],
+    [ "npc_webbed_creature::npc_webbed_creatureAI", "de/dd4/a15891.html", "de/dd4/a15891" ],
+    [ "WebbedCreature", "dc/d8f/a04133.html#aa14073eff8de36ab4c416f5ae7bd8cd0", [
+      [ "SPELL_FREE_WEBBED_CREATURE_HOSTILE_START", "dc/d8f/a04133.html#aa14073eff8de36ab4c416f5ae7bd8cd0a805bd712057d54d1e7aa0df25591e614", null ],
+      [ "SPELL_FREE_WEBBED_CREATURE_HOSTILE_END", "dc/d8f/a04133.html#aa14073eff8de36ab4c416f5ae7bd8cd0a8c879cd674ceba49c398aa160ab6432e", null ],
+      [ "SPELL_FREE_WEBBED_CREATURE_RESEARCHER", "dc/d8f/a04133.html#aa14073eff8de36ab4c416f5ae7bd8cd0ab537460526db8a8c87c52ee41e0e20c4", null ],
+      [ "NPC_EXPEDITION_RESEARCHER", "dc/d8f/a04133.html#aa14073eff8de36ab4c416f5ae7bd8cd0afbd11004b44bf2d153ac8e084395b3b3", null ]
+    ] ],
+    [ "AddSC_bloodmyst_isle", "dc/d8f/a04133.html#a6b9832f4bb6cfefde5bab6937fd46fae", null ]
 ];

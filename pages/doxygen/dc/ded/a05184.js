@@ -1,7 +1,7 @@
 var a05184 =
 [
-    [ "OmenOfClarityGlyphLockTest", "db/d28/a29903.html", "db/d28/a29903" ],
-    [ "TestOocPlayerScript", "dd/d90/a29899.html", "dd/d90/a29899" ],
+    [ "OmenOfClarityGlyphLockTest", "d5/dbd/a29907.html", "d5/dbd/a29907" ],
+    [ "TestOocPlayerScript", "db/d28/a29903.html", "db/d28/a29903" ],
     [ "TEST_F", "dc/ded/a05184.html#aad251365da79c581dfd771c07e08a849", null ],
     [ "TEST_F", "dc/ded/a05184.html#a4722da81a67d7591147f462b57ebd1e5", null ],
     [ "TEST_F", "dc/ded/a05184.html#a4dbab8c4aad98a9d7a180aa0900d811e", null ],

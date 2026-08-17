@@ -1,8 +1,11 @@
 var a24587 =
 [
-    [ "CheckProc", "d9/de1/a24587.html#aaba070a16ff0ba45b4062abe30c79cf5", null ],
-    [ "HandleProc", "d9/de1/a24587.html#a7682ed37759329da8e4e475e98a23161", null ],
-    [ "PrepareAuraScript", "d9/de1/a24587.html#ac4cc997ddd92e741f9f105bda4ec00b9", null ],
-    [ "Register", "d9/de1/a24587.html#a5ab16c8eb40822679739e15a2ceac715", null ],
-    [ "Validate", "d9/de1/a24587.html#a34919ab1f3b2d4e98536c3ded56cf5fc", null ]
+    [ "CalcPeriodic", "d9/de1/a24587.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
+    [ "CalculateHasteAmount", "d9/de1/a24587.html#a75d428e0b3619d53bd9436712d2e394e", null ],
+    [ "CalculateSPAmount", "d9/de1/a24587.html#a81805b43a47065281f83889d8be95c54", null ],
+    [ "CalculateStatAmount", "d9/de1/a24587.html#a763276aaa00bb6953e0b52118662e7a8", null ],
+    [ "HandleEffectApply", "d9/de1/a24587.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
+    [ "HandlePeriodic", "d9/de1/a24587.html#ab3c7d479eae88ab4a59b06610af19429", null ],
+    [ "PrepareAuraScript", "d9/de1/a24587.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
+    [ "Register", "d9/de1/a24587.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
 ];

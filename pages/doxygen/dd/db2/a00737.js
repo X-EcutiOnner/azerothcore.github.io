@@ -1,46 +1,24 @@
 var a00737 =
 [
-    [ "Object", "d6/dbd/a08779.html", "d6/dbd/a08779" ],
-    [ "MovementInfo", "dc/d09/a08787.html", "dc/d09/a08787" ],
-    [ "MovementInfo::TransportInfo", "de/d8e/a08791.html", "de/d8e/a08791" ],
-    [ "MovementInfo::JumpInfo", "d6/d72/a08795.html", "d6/d72/a08795" ],
-    [ "GridObject< T >", "d6/d41/a08799.html", "d6/d41/a08799" ],
-    [ "FlaggedValuesArray32< T_VALUES, T_FLAGS, FLAG_TYPE, ARRAY_SIZE >", "d1/d39/a08803.html", "d1/d39/a08803" ],
-    [ "MovableMapObject", "d4/d1d/a08807.html", "d4/d1d/a08807" ],
-    [ "UpdatableMapObject", "d3/d1a/a08811.html", "d3/d1a/a08811" ],
-    [ "WorldObject", "db/d10/a08815.html", "db/d10/a08815" ],
-    [ "Acore::ObjectDistanceOrderPred", "d1/dea/a08819.html", "d1/dea/a08819" ],
-    [ "UpdateDataMapType", "dd/db2/a00737.html#ac58dd2c514e262c6b68700fb72c69231", null ],
-    [ "GOSummonType", "dd/db2/a00737.html#a3f5846dbc17f13c4c2b88a15593bbfba", [
-      [ "GO_SUMMON_TIMED_OR_CORPSE_DESPAWN", "dd/db2/a00737.html#a3f5846dbc17f13c4c2b88a15593bbfbaa842fffe6e187c8821e8b7f1cdbbcaac1", null ],
-      [ "GO_SUMMON_TIMED_DESPAWN", "dd/db2/a00737.html#a3f5846dbc17f13c4c2b88a15593bbfbaa740b94fbb874c9de6553b126eeff3e50", null ]
-    ] ],
-    [ "MapObjectCellMoveState", "dd/db2/a00737.html#a1833d9b1810b160d0c00f297af237b07", [
-      [ "MAP_OBJECT_CELL_MOVE_NONE", "dd/db2/a00737.html#a1833d9b1810b160d0c00f297af237b07afb882558defaa808483ae0d24e1d12e1", null ],
-      [ "MAP_OBJECT_CELL_MOVE_ACTIVE", "dd/db2/a00737.html#a1833d9b1810b160d0c00f297af237b07acdf663aceba2a09ee27f33056500cf58", null ],
-      [ "MAP_OBJECT_CELL_MOVE_INACTIVE", "dd/db2/a00737.html#a1833d9b1810b160d0c00f297af237b07a08ca33ead1d9abd8a15f213e09e1e23a", null ]
-    ] ],
-    [ "NotifyFlags", "dd/db2/a00737.html#ae6d03ea53b22c98f9dd7e3ce829cf389", [
-      [ "NOTIFY_NONE", "dd/db2/a00737.html#ae6d03ea53b22c98f9dd7e3ce829cf389aae40b53764f8cda7335d348860245cb9", null ],
-      [ "NOTIFY_AI_RELOCATION", "dd/db2/a00737.html#ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d", null ],
-      [ "NOTIFY_VISIBILITY_CHANGED", "dd/db2/a00737.html#ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053", null ],
-      [ "NOTIFY_ALL", "dd/db2/a00737.html#ae6d03ea53b22c98f9dd7e3ce829cf389a8073de571f5d684d5b4ddd10a525322c", null ]
-    ] ],
-    [ "PhaseMasks", "dd/db2/a00737.html#a154255f23e41069883118fc4f0d23157", [
-      [ "PHASEMASK_NORMAL", "dd/db2/a00737.html#a154255f23e41069883118fc4f0d23157aa253161c3caae282ce3c6922048db060", null ],
-      [ "PHASEMASK_ANYWHERE", "dd/db2/a00737.html#a154255f23e41069883118fc4f0d23157a212ead88887027cc3575f2b07c08af57", null ]
-    ] ],
-    [ "TempSummonType", "dd/db2/a00737.html#a38c6d8d01cbe0c49b035f348f7724148", [
-      [ "TEMPSUMMON_TIMED_OR_DEAD_DESPAWN", "dd/db2/a00737.html#a38c6d8d01cbe0c49b035f348f7724148a7fcc17b9aac93c81619414e6af366e39", null ],
-      [ "TEMPSUMMON_TIMED_OR_CORPSE_DESPAWN", "dd/db2/a00737.html#a38c6d8d01cbe0c49b035f348f7724148a9d16b839c0bff9df1f7adfe701da0882", null ],
-      [ "TEMPSUMMON_TIMED_DESPAWN", "dd/db2/a00737.html#a38c6d8d01cbe0c49b035f348f7724148a68d0fa29801bfa0be2b983f167b0c0f2", null ],
-      [ "TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT", "dd/db2/a00737.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a", null ],
-      [ "TEMPSUMMON_CORPSE_DESPAWN", "dd/db2/a00737.html#a38c6d8d01cbe0c49b035f348f7724148aca87dcb32ebfdc5d2d1acd159abe8fd9", null ],
-      [ "TEMPSUMMON_CORPSE_TIMED_DESPAWN", "dd/db2/a00737.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a", null ],
-      [ "TEMPSUMMON_DEAD_DESPAWN", "dd/db2/a00737.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493", null ],
-      [ "TEMPSUMMON_MANUAL_DESPAWN", "dd/db2/a00737.html#a38c6d8d01cbe0c49b035f348f7724148a494d31263c972013b6b0e42f6c00e14a", null ],
-      [ "TEMPSUMMON_DESPAWNED", "dd/db2/a00737.html#a38c6d8d01cbe0c49b035f348f7724148ab372a9ecde35043aa67d1ee162a37687", null ],
-      [ "TEMPSUMMON_TIMED_DESPAWN_OOC_ALIVE", "dd/db2/a00737.html#a38c6d8d01cbe0c49b035f348f7724148a1e689534a035355813f5eac245564af7", null ]
-    ] ],
-    [ "HEARTBEAT_INTERVAL", "dd/db2/a00737.html#a8cd21ff3f4267aa848be64aa30c71d24", null ]
+    [ "UlduarVehicleScaleTest", "df/d17/a30075.html", null ],
+    [ "CalcUlduarVehicleScale", "dd/db2/a00737.html#acdecfc5cf74175c6a000957c02da9cc4", null ],
+    [ "CalcUlduarVehicleScaleAmount", "dd/db2/a00737.html#a7bee56888580618bb23f42cc8f9edc92", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a8418c7e94d66e6a5c9f61c9dd5deeb43", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a98ca9fe59822ecd339c6fb8329340dde", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a41d0ab57629ac19ea2d4b553a4653fe9", null ],
+    [ "TEST_F", "dd/db2/a00737.html#ae018eecb05f49542ee23caca3b50c2f0", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a6204c0ebff39e559940d5bfd14410b00", null ],
+    [ "TEST_F", "dd/db2/a00737.html#adfff5b21f8a78f9d8ddbd3dd6dc678a9", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a4fbf14b61deee8b36f80b0133f24edf3", null ],
+    [ "TEST_F", "dd/db2/a00737.html#ae58086665d96daf405bf70d388d1cae1", null ],
+    [ "TEST_F", "dd/db2/a00737.html#acdc1451df7c7bd7b2b7119df4c3751c2", null ],
+    [ "TEST_F", "dd/db2/a00737.html#af96e2f92094886a5993a36d06aa584c0", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a77f70e6e60572369f011d499de48499f", null ],
+    [ "TEST_F", "dd/db2/a00737.html#aee7adb4d2a4892c3cd902c1cd248eb11", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a6984febda90dbdc1cdda96a3cd5af830", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a691b1f51530aefd24b776a186d3edf9d", null ],
+    [ "TEST_F", "dd/db2/a00737.html#acbc00d4e2188706ec391791695b23e0c", null ],
+    [ "TEST_F", "dd/db2/a00737.html#ae17af8669e2b2e53739a593bca36f20b", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a1ae53b56b33568cec2c078a3e9e32ea6", null ],
+    [ "TEST_F", "dd/db2/a00737.html#aa79cf02be088752762c99510284dc0fa", null ]
 ];

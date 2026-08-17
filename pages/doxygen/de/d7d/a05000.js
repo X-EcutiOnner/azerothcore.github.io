@@ -1,18 +1,6 @@
 var a05000 =
 [
-    [ "WildGrowthTickScalingTest", "df/d17/a30075.html", null ],
-    [ "CalcAllTicks", "de/d7d/a05000.html#a7d72b7a206fea0eaa814a190c35a0e29", null ],
-    [ "CalcPct", "de/d7d/a05000.html#a95e4d56dd3e5ff9502c8bb2627784cd5", null ],
-    [ "CalcWildGrowthTickAmount", "de/d7d/a05000.html#addfd88f5be5daae3a078cbade7aed80e", null ],
-    [ "TEST_F", "de/d7d/a05000.html#a9d52bfcc939885d06058fd6bf5d53c2c", null ],
-    [ "TEST_F", "de/d7d/a05000.html#aa504cc9a356860eb165f182559c176a5", null ],
-    [ "TEST_F", "de/d7d/a05000.html#a782bf6635bb8ed38811c7267570bbc89", null ],
-    [ "TEST_F", "de/d7d/a05000.html#a2aa08e1fb8bf70cf536d6b6bcd66ff1d", null ],
-    [ "TEST_F", "de/d7d/a05000.html#ad88848d6f6a3aac255bc69c9fe088035", null ],
-    [ "TEST_F", "de/d7d/a05000.html#a5baa77f7a4dcc6d8040eab8d54e78de4", null ],
-    [ "TEST_F", "de/d7d/a05000.html#ad78da13617963af6adeadcec4d175082", null ],
-    [ "TEST_F", "de/d7d/a05000.html#ade248bfbf5bb17e3ab46f8d2276b3ba8", null ],
-    [ "TEST_F", "de/d7d/a05000.html#a476b6f58d0b66ce6fce645271bac47d7", null ],
-    [ "DEFAULT_REDUCTION", "de/d7d/a05000.html#ae0cd8a076081c01395db37925ee7e3f5", null ],
-    [ "TOTAL_TICKS", "de/d7d/a05000.html#a7748fbc7dddd525998e933e79311736a", null ]
+    [ "CharacterDatabase", "de/d7d/a05000.html#af8239cd04c4137e1e621226a6d919ed4", null ],
+    [ "LoginDatabase", "de/d7d/a05000.html#ae753c5c60b556b0cb7998e7424be5cbf", null ],
+    [ "WorldDatabase", "de/d7d/a05000.html#af42e9d262f732792d1e81568ae38ea2e", null ]
 ];

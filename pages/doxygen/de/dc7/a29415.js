@@ -1,10 +1,8 @@
 var a29415 =
 [
-    [ "attackSpeed", "de/dc7/a29415.html#ab5242f7367e8799a556176178c72fc88", null ],
-    [ "creatureType", "de/dc7/a29415.html#a3dff9074b85261932ed8a8a550c5395b", null ],
-    [ "flags1", "de/dc7/a29415.html#a026745f2ce754d754858d69ee219b518", null ],
-    [ "ID", "de/dc7/a29415.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
-    [ "modelID_A", "de/dc7/a29415.html#a86dfa61342583d920b7d8496bce4b49d", null ],
-    [ "modelID_H", "de/dc7/a29415.html#a1ee597d6fd02507b682874929645e01d", null ],
-    [ "stanceSpell", "de/dc7/a29415.html#a08f54b905e905fb5a59e449f8c613c08", null ]
+    [ "NoRuneCost", "de/dc7/a29415.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
+    [ "NoRunicPowerGain", "de/dc7/a29415.html#a97da075ecd116ef27fd4265bb8380667", null ],
+    [ "ID", "de/dc7/a29415.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
+    [ "RuneCost", "de/dc7/a29415.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
+    [ "runePowerGain", "de/dc7/a29415.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
 ];

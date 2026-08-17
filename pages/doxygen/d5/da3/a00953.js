@@ -1,8 +1,11 @@
 var a00953 =
 [
-    [ "WorldPackets::Query::NameQuery", "d4/d48/a11571.html", "d4/d48/a11571" ],
-    [ "WorldPackets::Query::NameQueryResponse", "d6/dda/a11575.html", "d6/dda/a11575" ],
-    [ "WorldPackets::Query::TimeQuery", "dc/d15/a11579.html", "dc/d15/a11579" ],
-    [ "WorldPackets::Query::TimeQueryResponse", "d6/d0f/a11583.html", "d6/d0f/a11583" ],
-    [ "WorldPackets::Query::CorpseMapPositionQuery", "d5/da7/a11587.html", "d5/da7/a11587" ]
+    [ "ChaseMovementGenerator< T >", "db/d13/a10483.html", "db/d13/a10483" ],
+    [ "FollowMovementGenerator< T >", "dd/d3b/a10487.html", "dd/d3b/a10487" ],
+    [ "ChaseMovementMode", "d5/da3/a00953.html#af39517224af91107d618ec9d8131101d", [
+      [ "CHASE_MODE_NORMAL", "d5/da3/a00953.html#af39517224af91107d618ec9d8131101dad82b9b74d55fa53dfd547c94f1a92cd3", null ],
+      [ "CHASE_MODE_BACKPEDAL", "d5/da3/a00953.html#af39517224af91107d618ec9d8131101da4d0b7e85b5d121658e67d6a04c5ed0bd", null ],
+      [ "CHASE_MODE_DISTANCING", "d5/da3/a00953.html#af39517224af91107d618ec9d8131101da216aafcb8ec8951233b472fa74108337", null ],
+      [ "CHASE_MODE_FANNING", "d5/da3/a00953.html#af39517224af91107d618ec9d8131101dad3363c812ead03b0c7ae11cec5dfa618", null ]
+    ] ]
 ];

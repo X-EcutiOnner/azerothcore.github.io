@@ -1,5 +1,10 @@
 var a02462 =
 [
-    [ "cast_commandscript", "dc/da0/a12344.html", "dc/da0/a12344" ],
-    [ "AddSC_cast_commandscript", "df/d89/a02462.html#a7b374923a29bdbff68b6e78d2ef4a3e0", null ]
+    [ "QEmote", "d4/db5/a10015.html", "d4/db5/a10015" ],
+    [ "GossipTextOption", "dc/dfd/a10019.html", "dc/dfd/a10019" ],
+    [ "GossipText", "de/d38/a10023.html", "de/d38/a10023" ],
+    [ "PageTextLocale", "d9/d66/a10027.html", "d9/d66/a10027" ],
+    [ "NpcTextLocale", "d4/d0e/a10031.html", "d4/d0e/a10031" ],
+    [ "MAX_GOSSIP_TEXT_EMOTES", "df/d89/a02462.html#a705783094711e028814c1c59a16c2c4f", null ],
+    [ "MAX_GOSSIP_TEXT_OPTIONS", "df/d89/a02462.html#a114c9636000e930cd1dc1ef7e444814f", null ]
 ];

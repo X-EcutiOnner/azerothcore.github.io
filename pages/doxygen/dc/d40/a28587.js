@@ -1,6 +1,14 @@
 var a28587 =
 [
-    [ "npc_guardianAI", "db/d35/a28591.html", "db/d35/a28591" ],
-    [ "npc_guardian", "dc/d40/a28587.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
-    [ "GetAI", "dc/d40/a28587.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
+    [ "npc_garments_of_questsAI", "dc/d40/a28587.html#a079f719ca488ed6fde2783b5db4f328b", null ],
+    [ "JustEngagedWith", "dc/d40/a28587.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
+    [ "Reset", "dc/d40/a28587.html#aaaaa3e41deae0057bd659be5c579d226", null ],
+    [ "SpellHit", "dc/d40/a28587.html#ad22195dba70ced744b319bc1ad83c083", null ],
+    [ "UpdateAI", "dc/d40/a28587.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
+    [ "WaypointReached", "dc/d40/a28587.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
+    [ "WaypointReached", "dc/d40/a28587.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "CanRun", "dc/d40/a28587.html#a93c41781e4cb037b56773bbbf36181b7", null ],
+    [ "CasterGUID", "dc/d40/a28587.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
+    [ "IsHealed", "dc/d40/a28587.html#a96db66704eabf028362d5f8b5c424712", null ],
+    [ "RunAwayTimer", "dc/d40/a28587.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
 ];

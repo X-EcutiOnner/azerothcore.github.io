@@ -1,21 +1,55 @@
 var a00701 =
 [
-    [ "Totem", "db/d84/a09071.html", "db/d84/a09071" ],
-    [ "EARTHBIND_TOTEM_ENTRY", "dd/d57/a00701.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
-    [ "SENTRY_TOTEM_ENTRY", "dd/d57/a00701.html#a2bd46e1df17fdee45cd35896306092fb", null ],
-    [ "TotemImmunitySpells", "dd/d57/a00701.html#a526213bf692d4f8d189a61617f4a59c9", [
-      [ "SPELL_CYCLONE", "dd/d57/a00701.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
-      [ "SPELL_STONECLAW", "dd/d57/a00701.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
-      [ "SPELL_BIND_SIGHT", "dd/d57/a00701.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
-      [ "SPELL_INTERVENE", "dd/d57/a00701.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
+    [ "anonymous_namespace{SpellImmunityTest.cpp}::EffectDesc", "d7/d29/a29955.html", "d7/d29/a29955" ],
+    [ "anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc", "d3/d73/a29959.html", "d3/d73/a29959" ],
+    [ "anonymous_namespace{SpellImmunityTest.cpp}::EffectApplyResult", "d7/d93/a29963.html", "d7/d93/a29963" ],
+    [ "AuraType", "dd/d57/a00701.html#ab3c8788e4514711f326743e17cf18f33", [
+      [ "AURA_NONE", "dd/d57/a00701.html#ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c", null ],
+      [ "AURA_MOD_DECREASE_SPEED", "dd/d57/a00701.html#ab3c8788e4514711f326743e17cf18f33a1bb3542c472e476df1856aac0f5ccf48", null ],
+      [ "AURA_PERIODIC_DAMAGE", "dd/d57/a00701.html#ab3c8788e4514711f326743e17cf18f33a6a2e2898c74255e2be848f8d851cd61b", null ],
+      [ "AURA_TRANSFORM", "dd/d57/a00701.html#ab3c8788e4514711f326743e17cf18f33a856d9e6ed0a25dd7d099adeed0e46680", null ],
+      [ "AURA_MOD_STUN", "dd/d57/a00701.html#ab3c8788e4514711f326743e17cf18f33a42c1557fe57b7d46ec7aaf73f8767ace", null ]
     ] ],
-    [ "TotemSpellIds", "dd/d57/a00701.html#a7092ec93c941969cd2cdd2291c6de0be", [
-      [ "SentryTotemSpell", "dd/d57/a00701.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
-      [ "FireTotemSpell", "dd/d57/a00701.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
+    [ "EffectType", "dd/d57/a00701.html#ad4f0bfb68d839af88604b04ff47ee09b", [
+      [ "EFFECT_NONE", "dd/d57/a00701.html#ad4f0bfb68d839af88604b04ff47ee09ba24edc96a60f35387b2a916bbd47597b9", null ],
+      [ "EFFECT_SCHOOL_DAMAGE", "dd/d57/a00701.html#ad4f0bfb68d839af88604b04ff47ee09ba8c7f6ace4b718c242badbdd606f2f326", null ],
+      [ "EFFECT_HEALTH_LEECH", "dd/d57/a00701.html#ad4f0bfb68d839af88604b04ff47ee09badf7d20f7f73744f8801a9e3722859857", null ],
+      [ "EFFECT_POWER_DRAIN", "dd/d57/a00701.html#ad4f0bfb68d839af88604b04ff47ee09ba7f780b287e075a337dec7f1eff2f7fe6", null ],
+      [ "EFFECT_POWER_BURN", "dd/d57/a00701.html#ad4f0bfb68d839af88604b04ff47ee09baa3b002d33deb9b0c599313ec88fbacbe", null ],
+      [ "EFFECT_NORMALIZED_WEAPON_DMG", "dd/d57/a00701.html#ad4f0bfb68d839af88604b04ff47ee09bad0131549c4802cb811d2fabffcb09a86", null ],
+      [ "EFFECT_WEAPON_PERCENT_DAMAGE", "dd/d57/a00701.html#ad4f0bfb68d839af88604b04ff47ee09ba789f2fcff65ef9724496bdd61374c413", null ],
+      [ "EFFECT_APPLY_AURA", "dd/d57/a00701.html#ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a", null ],
+      [ "EFFECT_DUMMY", "dd/d57/a00701.html#ad4f0bfb68d839af88604b04ff47ee09ba3beec166914f7490f010caa66eca7140", null ]
     ] ],
-    [ "TotemType", "dd/d57/a00701.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
-      [ "TOTEM_PASSIVE", "dd/d57/a00701.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
-      [ "TOTEM_ACTIVE", "dd/d57/a00701.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
-      [ "TOTEM_STATUE", "dd/d57/a00701.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
-    ] ]
+    [ "ApplyEffectsWithMovementImmunity", "dd/d57/a00701.html#a3f6167aede97490fe6c435b6e981ee31", null ],
+    [ "ComputeSpellHitResult", "dd/d57/a00701.html#a687cb216770a0868d03198480599bde5", null ],
+    [ "HasOnlyDamageEffects", "dd/d57/a00701.html#ac2464881723f07e073fd8ad85dbbaa61", null ],
+    [ "IsBlockedBySchoolImmunity", "dd/d57/a00701.html#aa9048e95a3ceb76f45272b1240af4a2c", null ],
+    [ "IsDamageEffect", "dd/d57/a00701.html#a751e7c7dd00eb27194700629d22d50c6", null ],
+    [ "IsEffectBlockedByStunImmunity", "dd/d57/a00701.html#accf0cc423cf1c4e9bf5ac0b660caed24", null ],
+    [ "IsFullyImmunedByStunImmunity", "dd/d57/a00701.html#aaa953489abf2a825aea7d2aef9f904a3", null ],
+    [ "IsStunSpell", "dd/d57/a00701.html#a95ec40b4341833086e531ed73dba7147", null ],
+    [ "MakeCycloneLikeSpell", "dd/d57/a00701.html#a6db007c75130da75c1510de68536e7fd", null ],
+    [ "MakeDamageOnlySpell", "dd/d57/a00701.html#ac9b0d1a51efd792514de07f8af0268cd", null ],
+    [ "MakeFrostboltLikeSpell", "dd/d57/a00701.html#a4ae8bc0e855177e9fb9212a0b24fa2c0", null ],
+    [ "MakeSlowOnlySpell", "dd/d57/a00701.html#ae0dcf3406441c72889d7703c788095a6", null ],
+    [ "TEST", "dd/d57/a00701.html#a33ab344e5a5a3cd55aa736f4c4076e8d", null ],
+    [ "TEST", "dd/d57/a00701.html#a0ceea3be37a3fb8d89b3ef53f31ac777", null ],
+    [ "TEST", "dd/d57/a00701.html#a7079e204a81977a4f3621da623fde93f", null ],
+    [ "TEST", "dd/d57/a00701.html#ad0300dc54f7b0fce3c749eea97288ce8", null ],
+    [ "TEST", "dd/d57/a00701.html#a98b2939a7b596ecad1bfe7fc9eea3b10", null ],
+    [ "TEST", "dd/d57/a00701.html#a93e1a99e06e23b7f476361a13f400619", null ],
+    [ "TEST", "dd/d57/a00701.html#a8a029b959e38d4926026f7dc1ba4d261", null ],
+    [ "TEST", "dd/d57/a00701.html#a113ef5bc9c956d6ddee3e2918c3ce3ab", null ],
+    [ "TEST", "dd/d57/a00701.html#a44d3aa6c1687da3b2950b5426d1a72f6", null ],
+    [ "TEST", "dd/d57/a00701.html#a101bdde4ca635021674b9c4d547289bf", null ],
+    [ "TEST", "dd/d57/a00701.html#ac84d48375a4e21b33f5c099b5ddba489", null ],
+    [ "TEST", "dd/d57/a00701.html#a29cf4cb38c8eafbe22a418f0b08cda79", null ],
+    [ "TEST", "dd/d57/a00701.html#a9a4c71f3b9310c18fcf0fb7b0c14161a", null ],
+    [ "TEST", "dd/d57/a00701.html#a385f0515f873116865149a063124ff11", null ],
+    [ "TEST", "dd/d57/a00701.html#a99d409636ad41ca419320a0f70bcb382", null ],
+    [ "TEST", "dd/d57/a00701.html#a579210bd95da263d35a859c51af21bad", null ],
+    [ "TEST", "dd/d57/a00701.html#aa825e1abd2f35f0c5dd9ebacc11325f5", null ],
+    [ "TEST", "dd/d57/a00701.html#a364c61e1fd8f2cced1b6473676301fdc", null ],
+    [ "TEST", "dd/d57/a00701.html#a48ed8d85023d0633bff5255d90e5d2be", null ]
 ];

@@ -1,4 +1,10 @@
 var a00029 =
 [
-    [ "tcp_endpoint", "d5/d16/a00029.html#a27a44b709519f6caccf33bc420c4698b", null ]
+    [ "VMAP::ModelSpawn", "dc/daf/a05399.html", "dc/daf/a05399" ],
+    [ "VMAP::ModelInstance", "d1/d5e/a05403.html", "d1/d5e/a05403" ],
+    [ "ModelFlags", "d5/d16/a00029.html#ac540ff16efadcc07eeb9d8511b94ccce", [
+      [ "MOD_M2", "d5/d16/a00029.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
+      [ "MOD_WORLDSPAWN", "d5/d16/a00029.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],
+      [ "MOD_HAS_BOUND", "d5/d16/a00029.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09", null ]
+    ] ]
 ];

@@ -1,10 +1,8 @@
 var a29903 =
 [
-    [ "SetUp", "db/d28/a29903.html#a3fdec2bf96f4e567b3ed2a8103d175ec", null ],
-    [ "SimulateGlyphsForLevel", "db/d28/a29903.html#ac0b04d88968102ac5cf34be21a44eed9", null ],
-    [ "TearDown", "db/d28/a29903.html#aa381706733e71ee3d426c4e0d0c4b4e9", null ],
-    [ "originalWorld", "db/d28/a29903.html#a5e142dc81a057b4ecc3084177942b91d", null ],
-    [ "player", "db/d28/a29903.html#ac57623d8e963cdb8de2258f36c1281bd", null ],
-    [ "session", "db/d28/a29903.html#ac92bad60994d699564da54739ac0b4f0", null ],
-    [ "worldMock", "db/d28/a29903.html#af4605e78650f67c3a3af4d91e1e485c5", null ]
+    [ "TestOocPlayerScript", "db/d28/a29903.html#ad8a63387a46b252a555b5d48b0f73d55", null ],
+    [ "EnsureRegistered", "db/d28/a29903.html#a485c732b5cc87e418e1e8b0fdb80e5b7", null ],
+    [ "OnPlayerCompleteQuest", "db/d28/a29903.html#a7288e4227b28edebe4723c14ef56bce1", null ],
+    [ "OnPlayerLevelChanged", "db/d28/a29903.html#a0d2fa7743649d3443f49654d55ca1558", null ],
+    [ "Instance", "db/d28/a29903.html#a58269b1a038bfbdc8c9dafd058d16b5e", null ]
 ];

@@ -1,6 +1,7 @@
 var a26295 =
 [
-    [ "OnRemove", "d9/d96/a26295.html#a3803e6bbdb17e9a848376481581c993d", null ],
-    [ "PrepareAuraScript", "d9/d96/a26295.html#a6f1340b824af4604e310666e89d05b7a", null ],
-    [ "Register", "d9/d96/a26295.html#a3b361a478f1c035b706ac2e17499fb37", null ]
+    [ "OnApply", "d9/d96/a26295.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
+    [ "OnRemove", "d9/d96/a26295.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
+    [ "PrepareAuraScript", "d9/d96/a26295.html#aa93b45e31c33caf3ea51a26846566b34", null ],
+    [ "Register", "d9/d96/a26295.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
 ];

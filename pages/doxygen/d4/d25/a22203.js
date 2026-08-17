@@ -1,9 +1,6 @@
 var a22203 =
 [
-    [ "npc_frostbrood_skytalonAI", "d4/d25/a22203.html#afc14c60466f9f0f1b20062758f18c00d", null ],
-    [ "IsSummonedBy", "d4/d25/a22203.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
-    [ "MovementInform", "d4/d25/a22203.html#ae763333503176eb7e8ce407868243958", null ],
-    [ "SpellHit", "d4/d25/a22203.html#a24bb49f47dcf85c95039d0495a89e126", null ],
-    [ "UpdateAI", "d4/d25/a22203.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
-    [ "events", "d4/d25/a22203.html#a8575d258d63e28626cffd7fc2160bee6", null ]
+    [ "npc_frostbrood_skytalonAI", "d9/df8/a22207.html", "d9/df8/a22207" ],
+    [ "npc_frostbrood_skytalon", "d4/d25/a22203.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
+    [ "GetAI", "d4/d25/a22203.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
 ];

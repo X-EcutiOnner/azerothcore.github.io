@@ -143,11 +143,11 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">   45</span>        std::chrono::system_clock::time_point currentTime = std::chrono::system_clock::now();</div>
 <div class="line"><span class="lineno">   46</span>        std::chrono::milliseconds interval(oneIterationInterval);</div>
 <div class="line"><span class="lineno">   47</span>        std::chrono::milliseconds timeSinceStart = std::chrono::duration_cast&lt;std::chrono::milliseconds&gt;(currentTime - <a class="code hl_variable" href="../../d4/d85/a05138.html#aaffdf4c6f140e5c339726ba9e134e6f9">transportStartDate</a>);</div>
-<div class="line"><span class="lineno">   48</span>        <a class="code hl_typedef" href="../../dc/d19/a00515.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1">int64</a> intervalsPassed = timeSinceStart.count() / oneIterationInterval;</div>
+<div class="line"><span class="lineno">   48</span>        <a class="code hl_typedef" href="../../d8/ddd/a00380.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1">int64</a> intervalsPassed = timeSinceStart.count() / oneIterationInterval;</div>
 <div class="line"><span class="lineno">   49</span>        std::chrono::system_clock::time_point nextDeparture = <a class="code hl_variable" href="../../d4/d85/a05138.html#aaffdf4c6f140e5c339726ba9e134e6f9">transportStartDate</a> + (interval * (intervalsPassed + 1));</div>
 <div class="line"><span class="lineno">   50</span>        <span class="keywordflow">return</span> nextDeparture;</div>
 <div class="line"><span class="lineno">   51</span>    }</div>
-<div class="ttc" id="aa00515_html_ad7a3bd3be7bd59e7fb6337fcbc956eb1"><div class="ttname"><a href="../../dc/d19/a00515.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1">int64</a></div><div class="ttdeci">std::int64_t int64</div><div class="ttdef"><b>Definition:</b> Define.h:102</div></div>
+<div class="ttc" id="aa00380_html_ad7a3bd3be7bd59e7fb6337fcbc956eb1"><div class="ttname"><a href="../../d8/ddd/a00380.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1">int64</a></div><div class="ttdeci">std::int64_t int64</div><div class="ttdef"><b>Definition:</b> Define.h:102</div></div>
 <div class="ttc" id="aa05138_html_aaffdf4c6f140e5c339726ba9e134e6f9"><div class="ttname"><a href="../../d4/d85/a05138.html#aaffdf4c6f140e5c339726ba9e134e6f9">anonymous_namespace{Transport.cpp}::transportStartDate</a></div><div class="ttdeci">std::chrono::system_clock::time_point const transportStartDate</div><div class="ttdef"><b>Definition:</b> Transport.cpp:40</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00040">transportStartDate</a>.</p>
@@ -191,7 +191,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d85/a05138.html">anonymous_namespace{Transport.cpp}</a></li>
-    <li class="footer">Generated on Mon Aug 10 2026 21:24:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 17 2026 21:00:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

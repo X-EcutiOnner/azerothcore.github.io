@@ -1,4 +1,5 @@
 var a00026 =
 [
-    [ "GetExpirationTime", "d6/d5b/a00026.html#a546bd84b57be90f3ceb4cfc0fb92ae1c", null ]
+    [ "BIHWrap< T, BoundsFunc >", "d4/d19/a05251.html", "d4/d19/a05251" ],
+    [ "BIHWrap< T, BoundsFunc >::MDLCallback< RayCallback >", "d5/d12/a05255.html", "d5/d12/a05255" ]
 ];

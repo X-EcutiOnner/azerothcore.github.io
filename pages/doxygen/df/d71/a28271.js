@@ -1,7 +1,6 @@
 var a28271 =
 [
-    [ "go_pirate_day_musicAI", "df/d71/a28271.html#a1abe263949b7a07e5143779efcddc7eb", null ],
-    [ "UpdateAI", "df/d71/a28271.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
-    [ "_events", "df/d71/a28271.html#a233ae55a05876c665455b106ef50d57e", null ],
-    [ "rnd", "df/d71/a28271.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
+    [ "go_pirate_day_musicAI", "df/da5/a28275.html", "df/da5/a28275" ],
+    [ "go_pirate_day_music", "df/d71/a28271.html#aa8d19102357639bd160eae9e90a87505", null ],
+    [ "GetAI", "df/d71/a28271.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
 ];

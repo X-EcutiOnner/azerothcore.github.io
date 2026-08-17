@@ -1,6 +1,7 @@
 var a05057 =
 [
-    [ "UnitStub", "d2/d1e/a29711.html", "d2/d1e/a29711" ],
-    [ "UnitStub::CastRecord", "de/d78/a29715.html", "de/d78/a29715" ],
-    [ "MockUnitStub", "da/d98/a29719.html", "da/d98/a29719" ]
+    [ "UpdateResult", "d2/df2/a06291.html", "d2/df2/a06291" ],
+    [ "UpdateFetcher", "d2/d33/a06295.html", "d2/d33/a06295" ],
+    [ "UpdateFetcher::AppliedFileEntry", "d6/d5e/a06299.html", "d6/d5e/a06299" ],
+    [ "UpdateFetcher::PathCompare", "d5/d7d/a06303.html", "d5/d7d/a06303" ]
 ];

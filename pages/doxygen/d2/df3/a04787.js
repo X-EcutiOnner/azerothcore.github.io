@@ -1,6 +1,10 @@
 var a04787 =
 [
-    [ "CONFIG_HIGH_PRIORITY", "d2/df3/a04787.html#a04727fe99a83f6b774ac1fb1b8468f3e", null ],
-    [ "CONFIG_PROCESSOR_AFFINITY", "d2/df3/a04787.html#a714853b6677573f2aa289978eee5b83f", null ],
-    [ "SetProcessPriority", "d2/df3/a04787.html#ac0ccc1e4fc992fb43f068cb8f6b3fd7b", null ]
+    [ "instance_the_eye", "d2/d1b/a23955.html", "d2/d1b/a23955" ],
+    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "dd/d92/a23959.html", "dd/d92/a23959" ],
+    [ "AddSC_instance_the_eye", "d2/df3/a04787.html#a2edbd129d024cabd379cca055dd3e341", null ],
+    [ "boundaries", "d2/df3/a04787.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d2/df3/a04787.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d2/df3/a04787.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "d2/df3/a04787.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
 ];

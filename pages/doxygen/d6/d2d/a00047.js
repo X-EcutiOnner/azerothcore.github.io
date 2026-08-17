@@ -1,5 +1,7 @@
 var a00047 =
 [
-    [ "ACORE_LINKAGE_TYPE_STR", "d6/d2d/a00047.html#a498cc8d79612cf645e7afc2ceb4174f3", null ],
-    [ "AZEROTH_PLATFORM_STR", "d6/d2d/a00047.html#af7cd76a18bc19a0ec34ac7693e406971", null ]
+    [ "GameobjectModelData", "db/de3/a05387.html", "db/de3/a05387" ],
+    [ "ModelList", "d6/d2d/a00047.html#a2f908ce58f8fea2d0606bfe603d719d1", null ],
+    [ "LoadGameObjectModelList", "d6/d2d/a00047.html#a5a80774080fc05f90c7d92213fda6788", null ],
+    [ "model_list", "d6/d2d/a00047.html#aa0a0fd13eaa3eba090a3085d41303f12", null ]
 ];

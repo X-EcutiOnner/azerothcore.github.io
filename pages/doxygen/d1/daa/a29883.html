@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: HolidayDateCalculatorTest Class Reference</title>
+<title>AzerothCore: FakeAura Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,33 +105,37 @@ $(document).ready(function(){initNavTree('d1/daa/a29883.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../df/db1/a29880.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">HolidayDateCalculatorTest Class Reference</div></div>
+  <div class="headertitle"><div class="title">FakeAura Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="dynheader">
-Inheritance diagram for HolidayDateCalculatorTest:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d1/daa/a29883.png" alt=""/>
- </div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
-Protected Member Functions</h2></td></tr>
-<tr class="memitem:a4d45a7190580f2191020d031ad0aab10"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/daa/a29883.html#a4d45a7190580f2191020d031ad0aab10">ExpectDate</a> (std::tm const &amp;date, int year, int month, int day)</td></tr>
-<tr class="separator:a4d45a7190580f2191020d031ad0aab10"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af1ee91196bfb749605bf98f4441a03a4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/daa/a29883.html#af1ee91196bfb749605bf98f4441a03a4">IsValidDate</a> (int year, int month, int day)</td></tr>
-<tr class="separator:af1ee91196bfb749605bf98f4441a03a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af80c133dce034eed150593681fba594d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/daa/a29883.html#af80c133dce034eed150593681fba594d">IsLeapYear</a> (int year)</td></tr>
-<tr class="separator:af80c133dce034eed150593681fba594d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af4587d4154c059f5e472f00f141a771a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/daa/a29883.html#af4587d4154c059f5e472f00f141a771a">NormalizeTm</a> (std::tm &amp;date)</td></tr>
-<tr class="separator:af4587d4154c059f5e472f00f141a771a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a72674203b5aa768aaec46bc824c66ad8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/daa/a29883.html#a72674203b5aa768aaec46bc824c66ad8">FakeAura</a> (uint32_t id)</td></tr>
+<tr class="separator:a72674203b5aa768aaec46bc824c66ad8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad4b4a547d5596ad39d46125ded1c0863"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/daa/a29883.html#ad4b4a547d5596ad39d46125ded1c0863">IsRemoved</a> () const</td></tr>
+<tr class="separator:ad4b4a547d5596ad39d46125ded1c0863"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af55fe68d7548abe43fbbe391163dcbf4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/daa/a29883.html#af55fe68d7548abe43fbbe391163dcbf4">IsExpired</a> () const</td></tr>
+<tr class="separator:af55fe68d7548abe43fbbe391163dcbf4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ab08e902dae2b24d869c2befe1e9a74a2"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/daa/a29883.html#ab08e902dae2b24d869c2befe1e9a74a2">spellId</a></td></tr>
+<tr class="separator:ab08e902dae2b24d869c2befe1e9a74a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ea41ca4e60c4c56228687ca6038695f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/daa/a29883.html#a0ea41ca4e60c4c56228687ca6038695f">removed</a> = false</td></tr>
+<tr class="separator:a0ea41ca4e60c4c56228687ca6038695f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9de4d15b90ea8e89a5a3dd95122f5ff9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/daa/a29883.html#a9de4d15b90ea8e89a5a3dd95122f5ff9">expired</a> = false</td></tr>
+<tr class="separator:a9de4d15b90ea8e89a5a3dd95122f5ff9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aacbde7f93cb160ed272a4b3ddd18f1ee"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/daa/a29883.html#aacbde7f93cb160ed272a4b3ddd18f1ee">updated</a> = false</td></tr>
+<tr class="separator:aacbde7f93cb160ed272a4b3ddd18f1ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a4d45a7190580f2191020d031ad0aab10" name="a4d45a7190580f2191020d031ad0aab10"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4d45a7190580f2191020d031ad0aab10">&#9670;&#160;</a></span>ExpectDate()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a72674203b5aa768aaec46bc824c66ad8" name="a72674203b5aa768aaec46bc824c66ad8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a72674203b5aa768aaec46bc824c66ad8">&#9670;&#160;</a></span>FakeAura()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -140,51 +144,27 @@ Protected Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void HolidayDateCalculatorTest::ExpectDate </td>
+          <td class="memname">FakeAura::FakeAura </td>
           <td>(</td>
-          <td class="paramtype">std::tm const &amp;&#160;</td>
-          <td class="paramname"><em>date</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
           <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>year</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>month</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>day</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   25</span>    {</div>
-<div class="line"><span class="lineno">   26</span>        EXPECT_EQ(date.tm_year + 1900, year);</div>
-<div class="line"><span class="lineno">   27</span>        EXPECT_EQ(date.tm_mon + 1, month);</div>
-<div class="line"><span class="lineno">   28</span>        EXPECT_EQ(date.tm_mday, day);</div>
-<div class="line"><span class="lineno">   29</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   32</span>: <a class="code hl_variable" href="../../d1/daa/a29883.html#ab08e902dae2b24d869c2befe1e9a74a2">spellId</a>(<span class="keywordtype">id</span>) {}</div>
+<div class="ttc" id="aa29883_html_ab08e902dae2b24d869c2befe1e9a74a2"><div class="ttname"><a href="../../d1/daa/a29883.html#ab08e902dae2b24d869c2befe1e9a74a2">FakeAura::spellId</a></div><div class="ttdeci">uint32_t spellId</div><div class="ttdef"><b>Definition:</b> FlatMultimapAuraPatternTest.cpp:27</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="af80c133dce034eed150593681fba594d" name="af80c133dce034eed150593681fba594d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af80c133dce034eed150593681fba594d">&#9670;&#160;</a></span>IsLeapYear()</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="af55fe68d7548abe43fbbe391163dcbf4" name="af55fe68d7548abe43fbbe391163dcbf4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af55fe68d7548abe43fbbe391163dcbf4">&#9670;&#160;</a></span>IsExpired()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -193,29 +173,27 @@ Protected Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool HolidayDateCalculatorTest::IsLeapYear </td>
+          <td class="memname">bool FakeAura::IsExpired </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>year</em></td><td>)</td>
-          <td></td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   52</span>    {</div>
-<div class="line"><span class="lineno">   53</span>        <span class="keywordflow">return</span> (year % 4 == 0 &amp;&amp; year % 100 != 0) || (year % 400 == 0);</div>
-<div class="line"><span class="lineno">   54</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   34</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/daa/a29883.html#a9de4d15b90ea8e89a5a3dd95122f5ff9">expired</a>; }</div>
+<div class="ttc" id="aa29883_html_a9de4d15b90ea8e89a5a3dd95122f5ff9"><div class="ttname"><a href="../../d1/daa/a29883.html#a9de4d15b90ea8e89a5a3dd95122f5ff9">FakeAura::expired</a></div><div class="ttdeci">bool expired</div><div class="ttdef"><b>Definition:</b> FlatMultimapAuraPatternTest.cpp:29</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00059">NormalizeTm()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00029">expired</a>.</p>
 
 </div>
 </div>
-<a id="af1ee91196bfb749605bf98f4441a03a4" name="af1ee91196bfb749605bf98f4441a03a4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af1ee91196bfb749605bf98f4441a03a4">&#9670;&#160;</a></span>IsValidDate()</h2>
+<a id="ad4b4a547d5596ad39d46125ded1c0863" name="ad4b4a547d5596ad39d46125ded1c0863"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad4b4a547d5596ad39d46125ded1c0863">&#9670;&#160;</a></span>IsRemoved()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -224,114 +202,85 @@ Protected Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool HolidayDateCalculatorTest::IsValidDate </td>
+          <td class="memname">bool FakeAura::IsRemoved </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>year</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>month</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>day</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   33</span>    {</div>
-<div class="line"><span class="lineno">   34</span>        <span class="keywordflow">if</span> (month &lt; 1 || month &gt; 12) <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   35</span>        <span class="keywordflow">if</span> (day &lt; 1 || day &gt; 31) <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   36</span> </div>
-<div class="line"><span class="lineno">   37</span>        <span class="comment">// Check days in month</span></div>
-<div class="line"><span class="lineno">   38</span>        <span class="keywordtype">int</span> daysInMonth[] = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};</div>
-<div class="line"><span class="lineno">   39</span> </div>
-<div class="line"><span class="lineno">   40</span>        <span class="comment">// Leap year check for February</span></div>
-<div class="line"><span class="lineno">   41</span>        <span class="keywordflow">if</span> (month == 2)</div>
-<div class="line"><span class="lineno">   42</span>        {</div>
-<div class="line"><span class="lineno">   43</span>            <span class="keywordtype">bool</span> isLeap = (year % 4 == 0 &amp;&amp; year % 100 != 0) || (year % 400 == 0);</div>
-<div class="line"><span class="lineno">   44</span>            <span class="keywordflow">if</span> (isLeap) daysInMonth[2] = 29;</div>
-<div class="line"><span class="lineno">   45</span>        }</div>
-<div class="line"><span class="lineno">   46</span> </div>
-<div class="line"><span class="lineno">   47</span>        <span class="keywordflow">return</span> day &lt;= daysInMonth[month];</div>
-<div class="line"><span class="lineno">   48</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   33</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/daa/a29883.html#a0ea41ca4e60c4c56228687ca6038695f">removed</a>; }</div>
+<div class="ttc" id="aa29883_html_a0ea41ca4e60c4c56228687ca6038695f"><div class="ttname"><a href="../../d1/daa/a29883.html#a0ea41ca4e60c4c56228687ca6038695f">FakeAura::removed</a></div><div class="ttdeci">bool removed</div><div class="ttdef"><b>Definition:</b> FlatMultimapAuraPatternTest.cpp:28</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00028">removed</a>.</p>
+
 </div>
 </div>
-<a id="af4587d4154c059f5e472f00f141a771a" name="af4587d4154c059f5e472f00f141a771a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af4587d4154c059f5e472f00f141a771a">&#9670;&#160;</a></span>NormalizeTm()</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a9de4d15b90ea8e89a5a3dd95122f5ff9" name="a9de4d15b90ea8e89a5a3dd95122f5ff9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9de4d15b90ea8e89a5a3dd95122f5ff9">&#9670;&#160;</a></span>expired</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void HolidayDateCalculatorTest::NormalizeTm </td>
-          <td>(</td>
-          <td class="paramtype">std::tm &amp;&#160;</td>
-          <td class="paramname"><em>date</em></td><td>)</td>
-          <td></td>
+          <td class="memname">bool FakeAura::expired = false</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   60</span>    {</div>
-<div class="line"><span class="lineno">   61</span>        <span class="keyword">static</span> <span class="keywordtype">int</span> <span class="keyword">const</span> table[] = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };</div>
-<div class="line"><span class="lineno">   62</span>        <span class="keyword">auto</span> daysInMonth = [&amp;](<span class="keywordtype">int</span> y, <span class="keywordtype">int</span> m)</div>
-<div class="line"><span class="lineno">   63</span>        {</div>
-<div class="line"><span class="lineno">   64</span>            <span class="keywordflow">return</span> (m == 2 &amp;&amp; <a class="code hl_function" href="../../d1/daa/a29883.html#af80c133dce034eed150593681fba594d">IsLeapYear</a>(y)) ? 29 : table[m - 1];</div>
-<div class="line"><span class="lineno">   65</span>        };</div>
-<div class="line"><span class="lineno">   66</span> </div>
-<div class="line"><span class="lineno">   67</span>        <span class="keywordtype">int</span> year = date.tm_year + 1900;</div>
-<div class="line"><span class="lineno">   68</span>        <span class="keywordtype">int</span> month = date.tm_mon + 1;</div>
-<div class="line"><span class="lineno">   69</span>        <span class="keywordtype">int</span> day = date.tm_mday;</div>
-<div class="line"><span class="lineno">   70</span> </div>
-<div class="line"><span class="lineno">   71</span>        <span class="keywordflow">while</span> (day &gt; daysInMonth(year, month))</div>
-<div class="line"><span class="lineno">   72</span>        {</div>
-<div class="line"><span class="lineno">   73</span>            day -= daysInMonth(year, month);</div>
-<div class="line"><span class="lineno">   74</span>            <span class="keywordflow">if</span> (++month &gt; 12)</div>
-<div class="line"><span class="lineno">   75</span>            {</div>
-<div class="line"><span class="lineno">   76</span>                month = 1;</div>
-<div class="line"><span class="lineno">   77</span>                ++year;</div>
-<div class="line"><span class="lineno">   78</span>            }</div>
-<div class="line"><span class="lineno">   79</span>        }</div>
-<div class="line"><span class="lineno">   80</span>        <span class="keywordflow">while</span> (day &lt; 1)</div>
-<div class="line"><span class="lineno">   81</span>        {</div>
-<div class="line"><span class="lineno">   82</span>            <span class="keywordflow">if</span> (--month &lt; 1)</div>
-<div class="line"><span class="lineno">   83</span>            {</div>
-<div class="line"><span class="lineno">   84</span>                month = 12;</div>
-<div class="line"><span class="lineno">   85</span>                --year;</div>
-<div class="line"><span class="lineno">   86</span>            }</div>
-<div class="line"><span class="lineno">   87</span>            day += daysInMonth(year, month);</div>
-<div class="line"><span class="lineno">   88</span>        }</div>
-<div class="line"><span class="lineno">   89</span> </div>
-<div class="line"><span class="lineno">   90</span>        date.tm_year = year - 1900;</div>
-<div class="line"><span class="lineno">   91</span>        date.tm_mon = month - 1;</div>
-<div class="line"><span class="lineno">   92</span>        date.tm_mday = day;</div>
-<div class="line"><span class="lineno">   93</span>    }</div>
-<div class="ttc" id="aa29883_html_af80c133dce034eed150593681fba594d"><div class="ttname"><a href="../../d1/daa/a29883.html#af80c133dce034eed150593681fba594d">HolidayDateCalculatorTest::IsLeapYear</a></div><div class="ttdeci">bool IsLeapYear(int year)</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculatorTest.cpp:51</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">IsLeapYear()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00034">IsExpired()</a>, and <a class="el" href="../../#l00167">TEST()</a>.</p>
+
+</div>
+</div>
+<a id="a0ea41ca4e60c4c56228687ca6038695f" name="a0ea41ca4e60c4c56228687ca6038695f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ea41ca4e60c4c56228687ca6038695f">&#9670;&#160;</a></span>removed</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool FakeAura::removed = false</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00033">IsRemoved()</a>.</p>
+
+</div>
+</div>
+<a id="ab08e902dae2b24d869c2befe1e9a74a2" name="ab08e902dae2b24d869c2befe1e9a74a2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab08e902dae2b24d869c2befe1e9a74a2">&#9670;&#160;</a></span>spellId</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t FakeAura::spellId</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aacbde7f93cb160ed272a4b3ddd18f1ee" name="aacbde7f93cb160ed272a4b3ddd18f1ee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aacbde7f93cb160ed272a4b3ddd18f1ee">&#9670;&#160;</a></span>updated</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool FakeAura::updated = false</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00045">TEST()</a>.</p>
 
 </div>
 </div>
@@ -340,8 +289,8 @@ Protected Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/daa/a29883.html">HolidayDateCalculatorTest</a></li>
-    <li class="footer">Generated on Mon Aug 10 2026 21:23:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d1/daa/a29883.html">FakeAura</a></li>
+    <li class="footer">Generated on Mon Aug 17 2026 20:58:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,6 @@
 var a05033 =
 [
-    [ "ProcEventInfoBuilder", "dc/dec/a29683.html", "dc/dec/a29683" ],
-    [ "SpellProcEntryBuilder", "d3/dda/a29687.html", "d3/dda/a29687" ]
+    [ "ResultIterator< T >", "da/d36/a06235.html", "da/d36/a06235" ],
+    [ "ResultSet", "db/d4f/a06239.html", "db/d4f/a06239" ],
+    [ "PreparedResultSet", "d8/de8/a06243.html", "d8/de8/a06243" ]
 ];

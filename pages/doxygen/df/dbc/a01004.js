@@ -1,5 +1,5 @@
 var a01004 =
 [
-    [ "WorldPackets::Totem::TotemDestroyed", "d6/d6a/a11659.html", "d6/d6a/a11659" ],
-    [ "WorldPackets::Totem::TotemCreated", "d3/d3f/a11663.html", "d3/d3f/a11663" ]
+    [ "GetIdleMovementGenerator", "df/dbc/a01004.html#ab03e344726a074f17f8c63d10b67fcc1", null ],
+    [ "isStatic", "df/dbc/a01004.html#a05fec3371a9aee5a6448115a645a505d", null ]
 ];

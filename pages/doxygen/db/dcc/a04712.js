@@ -1,8 +1,15 @@
 var a04712 =
 [
-    [ "PingOperation", "d0/d1b/a06091.html", "d0/d1b/a06091" ],
-    [ "DatabaseIncompatibleVersion", "db/dcc/a04712.html#a31d71bc4748fa66e040eb20dc995e12e", null ],
-    [ "DatabaseWorkerPool< CharacterDatabaseConnection >", "db/dcc/a04712.html#aa3cb93fc2ebcb628d94ae0dd8ddf8a18", null ],
-    [ "DatabaseWorkerPool< LoginDatabaseConnection >", "db/dcc/a04712.html#a8751940b74a554bf0a86046325e0c5ed", null ],
-    [ "DatabaseWorkerPool< WorldDatabaseConnection >", "db/dcc/a04712.html#a25e66781580e4e7fcbd8e8ca6ef9f13a", null ]
+    [ "boss_hydromancer_thespia", "d2/dec/a23431.html", "d2/dec/a23431" ],
+    [ "HydromancerThespia", "db/dcc/a04712.html#a3f4b673ff8add0ad1c96080f6252130d", [
+      [ "SAY_SUMMON", "db/dcc/a04712.html#a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf", null ],
+      [ "SAY_AGGRO", "db/dcc/a04712.html#a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_SLAY", "db/dcc/a04712.html#a3f4b673ff8add0ad1c96080f6252130da9e64f6e600dd42567d18006912811f75", null ],
+      [ "SAY_DEAD", "db/dcc/a04712.html#a3f4b673ff8add0ad1c96080f6252130dafeeb59e6533ea7f2f818422052e0b671", null ],
+      [ "SAY_SPELL", "db/dcc/a04712.html#a3f4b673ff8add0ad1c96080f6252130dad25383e2c00eeae2e4b15e33298d79a2", null ],
+      [ "SPELL_LIGHTNING_CLOUD", "db/dcc/a04712.html#a3f4b673ff8add0ad1c96080f6252130dae91e1d3d8c305d3f37313774206628f2", null ],
+      [ "SPELL_LUNG_BURST", "db/dcc/a04712.html#a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6", null ],
+      [ "SPELL_ENVELOPING_WINDS", "db/dcc/a04712.html#a3f4b673ff8add0ad1c96080f6252130dacf98b779c795324d47e44b043eeacf92", null ]
+    ] ],
+    [ "AddSC_boss_hydromancer_thespia", "db/dcc/a04712.html#a0a9bb9014bd5526d13141dcef207c234", null ]
 ];

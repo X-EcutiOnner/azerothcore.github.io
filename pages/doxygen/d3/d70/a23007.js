@@ -1,12 +1,7 @@
 var a23007 =
 [
-    [ "boss_shade_of_akama", "d3/d70/a23007.html#a385bf995d19652254d6ae8a447c23c37", null ],
-    [ "EnterEvadeMode", "d3/d70/a23007.html#a690f8058fb4358b98960177d76864275", null ],
-    [ "JustDied", "d3/d70/a23007.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
-    [ "MovementInform", "d3/d70/a23007.html#a345707efebd5027c01a25a563d1e6f43", null ],
-    [ "Reset", "d3/d70/a23007.html#a19a1aca1a599704612ac845001895b4f", null ],
-    [ "SpellHit", "d3/d70/a23007.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
-    [ "UpdateAI", "d3/d70/a23007.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
-    [ "channelers", "d3/d70/a23007.html#a258bbeecb517a04ab8e3bac2a753a5bd", null ],
-    [ "generators", "d3/d70/a23007.html#a94a1010bce54768ee2dca72d4f6eec34", null ]
+    [ "HandleEffectRemove", "d3/d70/a23007.html#a6adc572bb13dde9b83a44a1c27833019", null ],
+    [ "PrepareAuraScript", "d3/d70/a23007.html#a877c26735531508d1806273117f3e8bc", null ],
+    [ "Register", "d3/d70/a23007.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5", null ],
+    [ "Validate", "d3/d70/a23007.html#a8c45ba806d865f7b9d56950013bdd81c", null ]
 ];

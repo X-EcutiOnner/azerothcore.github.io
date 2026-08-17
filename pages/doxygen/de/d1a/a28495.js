@@ -1,8 +1,13 @@
 var a28495 =
 [
-    [ "npc_franklinAI", "d4/dd9/a28499.html", "d4/dd9/a28499" ],
-    [ "npc_franklin", "de/d1a/a28495.html#aab059dfa69e52083892e3170c8838e0a", null ],
-    [ "GetAI", "de/d1a/a28495.html#a10933878afe9d0cc78fa1113341fd522", null ],
-    [ "OnGossipHello", "de/d1a/a28495.html#a318d512914b135800caabe0efbb1c467", null ],
-    [ "OnGossipSelect", "de/d1a/a28495.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
+    [ "npc_nelsonAI", "de/d1a/a28495.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
+    [ "DoAction", "de/d1a/a28495.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
+    [ "JustEngagedWith", "de/d1a/a28495.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
+    [ "JustSummoned", "de/d1a/a28495.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
+    [ "Reset", "de/d1a/a28495.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
+    [ "SpellHit", "de/d1a/a28495.html#afab81d8a6077c755c186bb619944d78d", null ],
+    [ "SummonedCreatureDies", "de/d1a/a28495.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
+    [ "UpdateAI", "de/d1a/a28495.html#ac68749942f37de5f9105556fe7b904b7", null ],
+    [ "events", "de/d1a/a28495.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
+    [ "shouldDespawn", "de/d1a/a28495.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
 ];

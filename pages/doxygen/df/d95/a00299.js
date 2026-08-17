@@ -1,9 +1,10 @@
 var a00299 =
 [
-    [ "BoundsTrait< VMAP::ModelSpawn * >", "d1/dab/a05359.html", "d1/dab/a05359" ],
-    [ "VMAP::WMOLiquidHeader", "d3/dea/a05363.html", "d3/dea/a05363" ],
-    [ "CMP_OR_RETURN", "df/d95/a00299.html#abb356574335eee18efd5e1f4ed707637", null ],
-    [ "READ_OR_RETURN", "df/d95/a00299.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d", null ],
-    [ "READ_OR_RETURN_WITH_DELETE", "df/d95/a00299.html#aaf506ecfd782214a75bd609db9bef004", null ],
-    [ "readChunk", "df/d95/a00299.html#aa923966c6cf6ce644b8335506d5f1fce", null ]
+    [ "Acore::ACLogSink< T >", "db/d5e/a05891.html", "db/d5e/a05891" ],
+    [ "Acore::AsyncProcessResultImplementation", "d0/d49/a05895.html", "d0/d49/a05895" ],
+    [ "CreateChildProcess", "df/d95/a00299.html#a18bbd8a6717e647e963654123259a033", null ],
+    [ "MakeACLogSink", "df/d95/a00299.html#adcee37690522709ab4bd0b6f6e757dc5", null ],
+    [ "SearchExecutableInPath", "df/d95/a00299.html#a9de098dac5e38f8c2cdbeb1d4d706881", null ],
+    [ "StartAsyncProcess", "df/d95/a00299.html#a021f51138f5726e712f00bdddf9be729", null ],
+    [ "StartProcess", "df/d95/a00299.html#acfaf2f89a55d299aa04c494719dfedc8", null ]
 ];

@@ -1,6 +1,6 @@
 var a24059 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "da/dc6/a24063.html", "da/dc6/a24063" ],
-    [ "npc_oscillating_frequency_scanner_master_bunny", "da/dac/a24059.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
-    [ "GetAI", "da/dac/a24059.html#a60d55e2eda4484ceea4e475ac8653977", null ]
+    [ "go_apexis_relic", "da/dac/a24059.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "da/dac/a24059.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "da/dac/a24059.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

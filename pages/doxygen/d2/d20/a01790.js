@@ -1,4 +1,5 @@
 var a01790 =
 [
-    [ "ScriptRegistry< BattlegroundMapScript >", "d2/d20/a01790.html#a79e6d39d74f9bbf97afe75113cd4db80", null ]
+    [ "ArenaScore", "d3/d69/a07631.html", "d3/d69/a07631" ],
+    [ "ArenaTeamScore", "d7/df5/a07635.html", "d7/df5/a07635" ]
 ];

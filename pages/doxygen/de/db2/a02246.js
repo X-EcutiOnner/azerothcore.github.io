@@ -1,4 +1,4 @@
 var a02246 =
 [
-    [ "Movement::PacketBuilder", "d5/db0/a10511.html", "d5/db0/a10511" ]
+    [ "BattlegroundScript", "d3/d47/a10743.html", "d3/d47/a10743" ]
 ];

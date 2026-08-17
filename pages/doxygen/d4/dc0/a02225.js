@@ -1,7 +1,15 @@
 var a02225 =
 [
-    [ "Movement::FallInitializer", "d1/ddd/a10519.html", "d1/ddd/a10519" ],
-    [ "Movement::CommonInitializer", "d2/db8/a10523.html", "d2/db8/a10523" ],
-    [ "CHECK", "d4/dc0/a02225.html#a4005b3acaa5011bfc2cc027562c04dfb", null ],
-    [ "computeDuration", "d4/dc0/a02225.html#a0f9e26b66bd86bb9701c366e4f9529c3", null ]
+    [ "ArenaScript", "d8/d95/a10723.html", "d8/d95/a10723" ],
+    [ "ArenaHook", "d4/dc0/a02225.html#a93515f145fed15b3645f2240f39214ba", [
+      [ "ARENAHOOK_CAN_ADD_MEMBER", "d4/dc0/a02225.html#a93515f145fed15b3645f2240f39214baa0eec08769f1e2848ef510ae5bc1980d0", null ],
+      [ "ARENAHOOK_ON_GET_POINTS", "d4/dc0/a02225.html#a93515f145fed15b3645f2240f39214baab3934eeceaededbb59ec277bc4275588", null ],
+      [ "ARENAHOOK_CAN_SAVE_TO_DB", "d4/dc0/a02225.html#a93515f145fed15b3645f2240f39214baa707580e05d247690d89335a46d576657", null ],
+      [ "ARENAHOOK_ON_BEFORE_CHECK_WIN_CONDITION", "d4/dc0/a02225.html#a93515f145fed15b3645f2240f39214baa8f35d3e6970c95df27f631f3f5558a5e", null ],
+      [ "ARENAHOOK_ON_ARENA_START", "d4/dc0/a02225.html#a93515f145fed15b3645f2240f39214baac02079e51af3fd7c3507a8a6f88fee09", null ],
+      [ "ARENAHOOK_ON_BEFORE_TEAM_MEMBER_UPDATE", "d4/dc0/a02225.html#a93515f145fed15b3645f2240f39214baade4a09676bcc54d050070c72869f1a03", null ],
+      [ "ARENAHOOK_CAN_SAVE_ARENA_STATS_FOR_MEMBER", "d4/dc0/a02225.html#a93515f145fed15b3645f2240f39214baad43433f7b2150f062d884904a861ede7", null ],
+      [ "ARENAHOOK_ON_GET_START_PERSONAL_RATING", "d4/dc0/a02225.html#a93515f145fed15b3645f2240f39214baa9e73148fd32bc3b7d3bcaa1ca3571f68", null ],
+      [ "ARENAHOOK_END", "d4/dc0/a02225.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58", null ]
+    ] ]
 ];

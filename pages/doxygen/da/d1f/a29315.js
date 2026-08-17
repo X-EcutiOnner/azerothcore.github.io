@@ -1,4 +1,8 @@
 var a29315 =
 [
-    [ "Id", "da/d1f/a29315.html#accb2b5b3b157d344df1109115564796e", null ]
+    [ "areaTriggerText", "da/d1f/a29315.html#a32bb8c4a4defce661d108627e25b645a", null ],
+    [ "Difficulty", "da/d1f/a29315.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
+    [ "MapId", "da/d1f/a29315.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
+    [ "maxPlayers", "da/d1f/a29315.html#a7ab33229ffee11a27861439053c79831", null ],
+    [ "resetTime", "da/d1f/a29315.html#a891a741efb049b51996e1a6110efc52d", null ]
 ];

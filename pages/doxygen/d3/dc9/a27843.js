@@ -1,10 +1,8 @@
 var a27843 =
 [
-    [ "CalculateBuffer", "d3/dc9/a27843.html#a3fa1917fc77575531e485cd0228bcc00", null ],
-    [ "Detonate", "d3/dc9/a27843.html#aa005ef9fba06c26dec9998153119c90f", null ],
-    [ "HandleProc", "d3/dc9/a27843.html#a35edcf5f57dee1bbb63321cd67b200db", null ],
-    [ "OnRemove", "d3/dc9/a27843.html#ae5ea7f0286f7e4c45611874b5ef79750", null ],
-    [ "PrepareAuraScript", "d3/dc9/a27843.html#a325ad66cd69a15260e274562250c8e32", null ],
-    [ "Register", "d3/dc9/a27843.html#a2d107c9db0b3b1859cb284b741a77ef8", null ],
-    [ "Validate", "d3/dc9/a27843.html#ae7de3e43a47e6b35d0dead23ac51325e", null ]
+    [ "CheckProc", "d3/dc9/a27843.html#a88fc4939e903f4914a41cf18b34ad344", null ],
+    [ "HandleProc", "d3/dc9/a27843.html#a607054f11843147a09b202ea65f68b65", null ],
+    [ "PrepareAuraScript", "d3/dc9/a27843.html#affe76b0d20d431ba459ceb42934689fc", null ],
+    [ "Register", "d3/dc9/a27843.html#a99345afecc0612c33db996cebab99e09", null ],
+    [ "Validate", "d3/dc9/a27843.html#a9b0a80cc044d198178bd629eb8731260", null ]
 ];

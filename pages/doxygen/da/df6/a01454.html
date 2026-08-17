@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Maps/MapCollisionData.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Entities/Transport/Transport.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,41 +105,56 @@ $(document).ready(function(){initNavTree('da/df6/a01454.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a>  </div>
-  <div class="headertitle"><div class="title">MapCollisionData.h File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">Transport.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">DynamicTree.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapTree.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MMapMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">IVMapMgr.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Cell.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CellImpl.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
+<code>#include &quot;Config.h&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DBCStores.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapReference.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Vehicle.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldModel.h</a>&quot;</code><br />
+<code>#include &lt;chrono&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d7e/a10271.html">StaticVMapCollisionData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d80/a10275.html">DynamicVMapCollisionData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a10279.html">MMapData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dfb/a10283.html">MapCollisionData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:de/d11/a05095"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d11/a05095.html">VMAP</a></td></tr>
+<tr class="memitem:d4/d85/a05138"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d85/a05138.html">anonymous_namespace{Transport.cpp}</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a385e4650cdda06aa445485dc66ce13b0"><td class="memItemLeft" align="right" valign="top">std::chrono::system_clock::time_point&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d85/a05138.html#a385e4650cdda06aa445485dc66ce13b0">anonymous_namespace{Transport.cpp}::calculateNextDepartureTime</a> (int oneIterationInterval)</td></tr>
+<tr class="separator:a385e4650cdda06aa445485dc66ce13b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:afe6429daa475f408bae10dd6f2525b01"><td class="memItemLeft" align="right" valign="top">std::time_t const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d85/a05138.html#afe6429daa475f408bae10dd6f2525b01">anonymous_namespace{Transport.cpp}::startTimestamp</a> = 1689139200</td></tr>
+<tr class="separator:afe6429daa475f408bae10dd6f2525b01"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaffdf4c6f140e5c339726ba9e134e6f9"><td class="memItemLeft" align="right" valign="top">std::chrono::system_clock::time_point const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d85/a05138.html#aaffdf4c6f140e5c339726ba9e134e6f9">anonymous_namespace{Transport.cpp}::transportStartDate</a> = std::chrono::system_clock::from_time_t(startTimestamp)</td></tr>
+<tr class="separator:aaffdf4c6f140e5c339726ba9e134e6f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_4ee90c1a7d0130816a1febdd934a8090.html">Maps</a></li><li class="navelem"><a class="el" href="../../da/df6/a01454.html">MapCollisionData.h</a></li>
-    <li class="footer">Generated on Mon Aug 10 2026 21:21:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_c6a050c7db8efacb27792da37f17de7b.html">Transport</a></li><li class="navelem"><a class="el" href="../../da/df6/a01454.html">Transport.cpp</a></li>
+    <li class="footer">Generated on Mon Aug 17 2026 20:57:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

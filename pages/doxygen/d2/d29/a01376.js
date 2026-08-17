@@ -1,10 +1,10 @@
 var a01376 =
 [
-    [ "AddGossipItemFor", "d2/d29/a01376.html#a21e32e886a589c9093660b3c4c58f72c", null ],
-    [ "AddGossipItemFor", "d2/d29/a01376.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5", null ],
-    [ "AddGossipItemFor", "d2/d29/a01376.html#acd7e8e52a911742a99728cf9408e23b8", null ],
-    [ "ClearGossipMenuFor", "d2/d29/a01376.html#af077a82741577a63a075c7d40b3b3dc5", null ],
-    [ "CloseGossipMenuFor", "d2/d29/a01376.html#af8f7e54dac5ecc86e92d780c3918cb09", null ],
-    [ "SendGossipMenuFor", "d2/d29/a01376.html#ad893abf2b09592b57715ef4a3222a2b3", null ],
-    [ "SendGossipMenuFor", "d2/d29/a01376.html#ab43ecd551b53630add88fbf882236f78", null ]
+    [ "DaysInMonth", "d2/d29/a01376.html#abff9a870b94032b446650ea043e9983b", null ],
+    [ "IsLeapYear", "d2/d29/a01376.html#a1cf1f3ca105c1ba63d7f783db70d91ae", null ],
+    [ "NormalizeDate", "d2/d29/a01376.html#a867322206e11e2197b7815e7584eeaba", null ],
+    [ "sind", "d2/d29/a01376.html#a6dd118cfa29609d98e0207909b863c88", null ],
+    [ "DEG_TO_RAD", "d2/d29/a01376.html#a410b5189721a469108e809fbf4f6e601", null ],
+    [ "HolidayRules", "d2/d29/a01376.html#a629dd822786c11d06b417c4326ae30fe", null ],
+    [ "PI", "d2/d29/a01376.html#a299aabc5fc8285cbf99025330a3d0d0d", null ]
 ];

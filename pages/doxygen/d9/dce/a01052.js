@@ -1,55 +1,25 @@
 var a01052 =
 [
-    [ "WorldSession::DosProtection", "da/d0f/a11779.html", "da/d0f/a11779" ],
-    [ "GLOBAL_CACHE_MASK", "db/df6/a05082.html#gabaf56bd86a496e0886a553118d6ffb08", null ],
-    [ "NUM_ACCOUNT_DATA_TYPES", "db/df6/a05082.html#gafb353aeb5e84007c9b55aa50ba6e3ddc", null ],
-    [ "PER_CHARACTER_CACHE_MASK", "db/df6/a05082.html#ga38a03c6cd9103a9891842f233758fbe7", null ],
-    [ "AccountDataType", "db/df6/a05082.html#gadab21b8c7fecf26675a55eea7811812d", [
-      [ "GLOBAL_CONFIG_CACHE", "db/df6/a05082.html#ggadab21b8c7fecf26675a55eea7811812daada79ad8567ef8c1839bb4aa1388f59c", null ],
-      [ "PER_CHARACTER_CONFIG_CACHE", "db/df6/a05082.html#ggadab21b8c7fecf26675a55eea7811812da3199deafd9678b717f9357659ed271b0", null ],
-      [ "GLOBAL_BINDINGS_CACHE", "db/df6/a05082.html#ggadab21b8c7fecf26675a55eea7811812da580bf2ae915070c0cb1dfa2a2c470936", null ],
-      [ "PER_CHARACTER_BINDINGS_CACHE", "db/df6/a05082.html#ggadab21b8c7fecf26675a55eea7811812daaa2164f22e7a6cd3e9211bdd39c1c4e6", null ],
-      [ "GLOBAL_MACROS_CACHE", "db/df6/a05082.html#ggadab21b8c7fecf26675a55eea7811812da2bffb16258c4258924334e7231928217", null ],
-      [ "PER_CHARACTER_MACROS_CACHE", "db/df6/a05082.html#ggadab21b8c7fecf26675a55eea7811812da0d53cc3dcb154b042fe7a1b81404752c", null ],
-      [ "PER_CHARACTER_LAYOUT_CACHE", "db/df6/a05082.html#ggadab21b8c7fecf26675a55eea7811812da8db107b5c382a0630b177b9f521dd87c", null ],
-      [ "PER_CHARACTER_CHAT_CACHE", "db/df6/a05082.html#ggadab21b8c7fecf26675a55eea7811812da5dbeffe8a7f8c60877f3f41a4e813327", null ]
+    [ "SpawnGroupTemplateData", "d1/d2a/a10323.html", "d1/d2a/a10323" ],
+    [ "SpawnData", "df/deb/a10327.html", "df/deb/a10327" ],
+    [ "SpawnGroupFlags", "d9/dce/a01052.html#a4d92d9f9c1ddb3ba951f249d8c3a9567", [
+      [ "SPAWNGROUP_FLAG_NONE", "d9/dce/a01052.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a8e60132edd361c998c88ad58f487ff01", null ],
+      [ "SPAWNGROUP_FLAG_SYSTEM", "d9/dce/a01052.html#a4d92d9f9c1ddb3ba951f249d8c3a9567ac7f000051c11e8e64e44d8e559df0769", null ],
+      [ "SPAWNGROUP_FLAG_COMPATIBILITY_MODE", "d9/dce/a01052.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a425a0006a686cbb29860ce5ada6e6dc7", null ],
+      [ "SPAWNGROUP_FLAG_MANUAL_SPAWN", "d9/dce/a01052.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a417fbb81820d8e43c7975f6e101f64da", null ],
+      [ "SPAWNGROUP_FLAG_DYNAMIC_SPAWN_RATE", "d9/dce/a01052.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a08739c177a3fc0d8fefdd0952cbdb81f", null ],
+      [ "SPAWNGROUP_FLAG_ESCORTQUESTNPC", "d9/dce/a01052.html#a4d92d9f9c1ddb3ba951f249d8c3a9567aed165c7835a95c52ad8dd1f9b56719c1", null ],
+      [ "SPAWNGROUP_FLAG_ALL", "d9/dce/a01052.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a0d4be6bc9136b5fa19e8ba1146bfe5e6", null ]
     ] ],
-    [ "BFLeaveReason", "db/df6/a05082.html#gae00b3f15198199be79029b7f245cba4e", [
-      [ "BF_LEAVE_REASON_CLOSE", "db/df6/a05082.html#ggae00b3f15198199be79029b7f245cba4eaa804834f71e74d728992a144bc3a4bf7", null ],
-      [ "BF_LEAVE_REASON_EXITED", "db/df6/a05082.html#ggae00b3f15198199be79029b7f245cba4eac58152c3c20952288b738bbcd94b6e04", null ],
-      [ "BF_LEAVE_REASON_LOW_LEVEL", "db/df6/a05082.html#ggae00b3f15198199be79029b7f245cba4ea409833e268b63d87c8329740d22f8d6d", null ]
+    [ "SpawnObjectType", "d9/dce/a01052.html#aca6d138cc8cbaa4fbb8366f26ecc6178", [
+      [ "SPAWN_TYPE_CREATURE", "d9/dce/a01052.html#aca6d138cc8cbaa4fbb8366f26ecc6178a9c8e9a64f5a962ba5e1c699347c9a095", null ],
+      [ "SPAWN_TYPE_GAMEOBJECT", "d9/dce/a01052.html#aca6d138cc8cbaa4fbb8366f26ecc6178a4986d513041762627e4ec53cb8ed2fa6", null ],
+      [ "SPAWN_TYPE_MAX", "d9/dce/a01052.html#aca6d138cc8cbaa4fbb8366f26ecc6178a7fac2ccc2b6c53a62bd265c85b74278f", null ]
     ] ],
-    [ "CharterTypes", "db/df6/a05082.html#gae6a6780680157e01b09a257d84b150c7", [
-      [ "GUILD_CHARTER_TYPE", "db/df6/a05082.html#ggae6a6780680157e01b09a257d84b150c7abc99a46e1b6360a30376c4500292e27c", null ],
-      [ "ARENA_TEAM_CHARTER_2v2_TYPE", "db/df6/a05082.html#ggae6a6780680157e01b09a257d84b150c7a917d335b0e9d21fec525d5daed0c1356", null ],
-      [ "ARENA_TEAM_CHARTER_3v3_TYPE", "db/df6/a05082.html#ggae6a6780680157e01b09a257d84b150c7aed12afbbdd721e734868da792db28482", null ],
-      [ "ARENA_TEAM_CHARTER_5v5_TYPE", "db/df6/a05082.html#ggae6a6780680157e01b09a257d84b150c7afa2e8ef459ee0af6eea7b2be7ce30841", null ]
+    [ "SpawnObjectTypeMask", "d9/dce/a01052.html#a8d96153354cfa6d243ff15afdd439ab1", [
+      [ "SPAWN_TYPEMASK_CREATURE", "d9/dce/a01052.html#a8d96153354cfa6d243ff15afdd439ab1a871f80356238edfc1535510a303f4ee2", null ],
+      [ "SPAWN_TYPEMASK_GAMEOBJECT", "d9/dce/a01052.html#a8d96153354cfa6d243ff15afdd439ab1adfa26ca9fc2b3160505b0766be0da326", null ],
+      [ "SPAWN_TYPEMASK_ALL", "d9/dce/a01052.html#a8d96153354cfa6d243ff15afdd439ab1ae97f493d106f1ed915209a294b4f4108", null ]
     ] ],
-    [ "ChatRestrictionType", "db/df6/a05082.html#ga54cc6595f95ac4f430e8540afc94f13d", [
-      [ "ERR_CHAT_RESTRICTED", "db/df6/a05082.html#gga54cc6595f95ac4f430e8540afc94f13da86e568474f13bb72e15b8e92a270b1c9", null ],
-      [ "ERR_CHAT_THROTTLED", "db/df6/a05082.html#gga54cc6595f95ac4f430e8540afc94f13da34a062f33bdc742a4c6be1f28ef613e7", null ],
-      [ "ERR_USER_SQUELCHED", "db/df6/a05082.html#gga54cc6595f95ac4f430e8540afc94f13da9bbb4686187f6e5c88606f90f22b18c8", null ],
-      [ "ERR_YELL_RESTRICTED", "db/df6/a05082.html#gga54cc6595f95ac4f430e8540afc94f13da584e0c0e91185b9f8d415b89e5cbacd7", null ]
-    ] ],
-    [ "DeclinedNameResult", "db/df6/a05082.html#ga98490641bb011ba9187ee1ed5c94b406", [
-      [ "DECLINED_NAMES_RESULT_SUCCESS", "db/df6/a05082.html#gga98490641bb011ba9187ee1ed5c94b406add610d06699db29b6f69db8b69d87267", null ],
-      [ "DECLINED_NAMES_RESULT_ERROR", "db/df6/a05082.html#gga98490641bb011ba9187ee1ed5c94b406ae7ea9b45868387cbcd0f7aff13476683", null ]
-    ] ],
-    [ "PartyOperation", "db/df6/a05082.html#gaa4a0361b2172789575d5eac42ecb612a", [
-      [ "PARTY_OP_INVITE", "db/df6/a05082.html#ggaa4a0361b2172789575d5eac42ecb612aa8b30d82ca0b8d909d0445472f4003036", null ],
-      [ "PARTY_OP_UNINVITE", "db/df6/a05082.html#ggaa4a0361b2172789575d5eac42ecb612aaea450b61d9aa99430d227f2bc20ba66e", null ],
-      [ "PARTY_OP_LEAVE", "db/df6/a05082.html#ggaa4a0361b2172789575d5eac42ecb612aaf8c14598abfe7de9431f923cce924457", null ],
-      [ "PARTY_OP_SWAP", "db/df6/a05082.html#ggaa4a0361b2172789575d5eac42ecb612aac2c1d8e8f575d57bed2ae682d80c1a14", null ]
-    ] ],
-    [ "PlayTimeFlag", "db/df6/a05082.html#gab0f782c25a543ef68ccbf19bcf280d29", [
-      [ "PTF_APPROACHING_PARTIAL_PLAY_TIME", "db/df6/a05082.html#ggab0f782c25a543ef68ccbf19bcf280d29afd6689f2acd9a847caf26b96c4d3e13e", null ],
-      [ "PTF_APPROACHING_NO_PLAY_TIME", "db/df6/a05082.html#ggab0f782c25a543ef68ccbf19bcf280d29a50659081fefa503f91ce881b46598b59", null ],
-      [ "PTF_UNK_1", "db/df6/a05082.html#ggab0f782c25a543ef68ccbf19bcf280d29a67efe9768ed897824b189876a39cdf40", null ],
-      [ "PTF_UNK_2", "db/df6/a05082.html#ggab0f782c25a543ef68ccbf19bcf280d29a5ea9700b06131482b2364468e8d031d7", null ],
-      [ "PTF_UNHEALTHY_TIME", "db/df6/a05082.html#ggab0f782c25a543ef68ccbf19bcf280d29a7634120a596bc4d65246fb26c6356bdb", null ]
-    ] ],
-    [ "PLAY_TIME_LIMIT_APPROACHING_FULL", "db/df6/a05082.html#ga99d2b892339f367e4992d8c083c707d6", null ],
-    [ "PLAY_TIME_LIMIT_APPROACHING_PARTIAL", "db/df6/a05082.html#ga334dbe31e9d355426b23715e36bfbfa8", null ],
-    [ "PLAY_TIME_LIMIT_FULL", "db/df6/a05082.html#ga977e6e9ea35bcce39c27928e801d2c66", null ],
-    [ "PLAY_TIME_LIMIT_PARTIAL", "db/df6/a05082.html#ga571b1b33a44fba02cb1da26849294a9d", null ]
+    [ "SPAWNGROUP_MAP_UNSET", "d9/dce/a01052.html#a9041bb5e3b05220cb101faac61b48fd7", null ]
 ];

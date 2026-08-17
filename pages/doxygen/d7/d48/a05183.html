@@ -122,8 +122,8 @@ Functions</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >Tests for <a class="el" href="../../d5/d74/a09163.html#ae7f942c448b14628617639978bf6bd00">Unit::resetAttackTimer</a> arithmetic.</p>
 <p ><a class="el" href="../../d5/d74/a09163.html#ae7f942c448b14628617639978bf6bd00">Unit::resetAttackTimer</a> resets the swing timer after an attack lands. The timer value determines when the next attack can occur.</p>
-<p >Old (buggy) formula: int32 time = <a class="el" href="../../dc/d19/a00515.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32(GetAttackTime(type) * m_modAttackSpeedPct[type])</a>; m_attackTimer[type] = std::min(m_attackTimer[type] + time, time);</p>
-<p >New (fixed) formula: m_attackTimer[type] = <a class="el" href="../../dc/d19/a00515.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32(GetAttackTime(type) * m_modAttackSpeedPct[type])</a>;</p>
+<p >Old (buggy) formula: int32 time = <a class="el" href="../../d8/ddd/a00380.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32(GetAttackTime(type) * m_modAttackSpeedPct[type])</a>; m_attackTimer[type] = std::min(m_attackTimer[type] + time, time);</p>
+<p >New (fixed) formula: m_attackTimer[type] = <a class="el" href="../../d8/ddd/a00380.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32(GetAttackTime(type) * m_modAttackSpeedPct[type])</a>;</p>
 <p >The old formula carried forward negative timer debt, allowing burst attacks after lag spikes or parry-haste timer reductions. </p>
 </div><h2 class="groupheader">Function Documentation</h2>
 <a id="acf515241ac86050cd79d68b509c5ea29" name="acf515241ac86050cd79d68b509c5ea29"></a>
@@ -231,7 +231,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d48/a05183.html">anonymous_namespace{ResetAttackTimerTest.cpp}</a></li>
-    <li class="footer">Generated on Mon Aug 10 2026 21:24:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 17 2026 21:00:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

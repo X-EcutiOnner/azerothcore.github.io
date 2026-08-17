@@ -1,4 +1,7 @@
 var a00887 =
 [
-    [ "ScriptRegistry< SpellScriptLoader >", "d7/d92/a00887.html#aae80ff7a03e35c91f47550f388c3f3bb", null ]
+    [ "Movement::TransportPathTransform", "da/d0d/a10539.html", "da/d0d/a10539" ],
+    [ "Movement::HoverMovementTransform", "dd/d19/a10543.html", "dd/d19/a10543" ],
+    [ "Movement::MoveSplineInit", "d8/d33/a10547.html", "d8/d33/a10547" ],
+    [ "SelectSpeedType", "d7/d92/a00887.html#a1f10281929f445f6d8150dc510bf1f2f", null ]
 ];

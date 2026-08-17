@@ -1,9 +1,8 @@
 var a22335 =
 [
-    [ "HandlePeriodic", "d5/dc7/a22335.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
-    [ "Load", "d5/dc7/a22335.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
-    [ "PrepareAuraScript", "d5/dc7/a22335.html#a1057e5262d413149a023bc904a3c3751", null ],
-    [ "Register", "d5/dc7/a22335.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
-    [ "Validate", "d5/dc7/a22335.html#a85d7ac258d50f690574ad7656256cd05", null ],
-    [ "_counter", "d5/dc7/a22335.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
+    [ "npc_hyldsmeet_protodrake", "d5/dc7/a22335.html#a409a5f5eace583ef874421819c975ed8", null ],
+    [ "PassengerBoarded", "d5/dc7/a22335.html#a0067d3b394c967946e329ea25c2dc315", null ],
+    [ "UpdateAI", "d5/dc7/a22335.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
+    [ "_accessoryInstalled", "d5/dc7/a22335.html#af9a5984f66eb3a1a26e8c1640bcf7597", null ],
+    [ "_accessoryRespawnTimer", "d5/dc7/a22335.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
 ];

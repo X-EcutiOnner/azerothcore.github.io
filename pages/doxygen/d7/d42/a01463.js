@@ -1,4 +1,6 @@
 var a01463 =
 [
-    [ "SplineRawInitializer", "d6/d32/a10331.html", "d6/d32/a10331" ]
+    [ "AddItemsSetItem", "d7/d42/a01463.html#a02944420353f8ba883b80737f8e63137", null ],
+    [ "ItemCanGoIntoBag", "d7/d42/a01463.html#a0c91640134a5241ec34f91bdec13c8ec", null ],
+    [ "RemoveItemsSetItem", "d7/d42/a01463.html#a402c3dd64769702b750f96adff4b3a14", null ]
 ];

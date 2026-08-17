@@ -1,5 +1,4 @@
 var a02282 =
 [
-    [ "FleeingMovementGenerator< T >", "d8/d87/a10423.html", "d8/d87/a10423" ],
-    [ "TimedFleeingMovementGenerator", "d1/dd2/a10427.html", "d1/dd2/a10427" ]
+    [ "ScriptRegistry< AllGameObjectScript >", "d5/d49/a02282.html#a60896f2f8318a9eeba3e23357a17292f", null ]
 ];

@@ -1,7 +1,7 @@
 var a02657 =
 [
-    [ "instance_utgarde_keep", "db/d25/a21223.html", "db/d25/a21223" ],
-    [ "instance_utgarde_keep::instance_utgarde_keep_InstanceMapScript", "d0/ded/a21227.html", "d0/ded/a21227" ],
-    [ "AddSC_instance_utgarde_keep", "da/de8/a02657.html#a1691f35071d744591cc1be4a314edbec", null ],
-    [ "creatureData", "da/de8/a02657.html#a412286b689bd324fedd65ddd8dde8afb", null ]
+    [ "UpdateTime", "db/d93/a12219.html", "db/d93/a12219" ],
+    [ "WorldUpdateTime", "d2/deb/a12223.html", "d2/deb/a12223" ],
+    [ "AVG_DIFF_COUNT", "da/de8/a02657.html#ac09527fd6979f77130f2ef6be46850eb", null ],
+    [ "sWorldUpdateTime", "da/de8/a02657.html#a911ff49ac052e337a0927c080aec20b2", null ]
 ];

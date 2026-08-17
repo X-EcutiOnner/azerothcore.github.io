@@ -1,7 +1,7 @@
 var a25199 =
 [
-    [ "HandleScript", "db/d32/a25199.html#a628fbc7ef23ce8f93d132f7bf518d4d8", null ],
-    [ "PrepareSpellScript", "db/d32/a25199.html#a8e5aa0a33907c5216299734a928de2fd", null ],
-    [ "Register", "db/d32/a25199.html#a9e25da03bbbea35f13420c14c6fab0d5", null ],
-    [ "Validate", "db/d32/a25199.html#a30cc03ed0c19074dc1fde4951a061815", null ]
+    [ "HandleScript", "db/d32/a25199.html#ac1ac71413eed0c820031e1fdf554fc37", null ],
+    [ "PrepareSpellScript", "db/d32/a25199.html#a6c20014cf0822c107b155bfa3884cd58", null ],
+    [ "Register", "db/d32/a25199.html#a99bc45930aa373d9f4886a0745bddb66", null ],
+    [ "Validate", "db/d32/a25199.html#a502e364a6f5097e5f022b80606db1909", null ]
 ];

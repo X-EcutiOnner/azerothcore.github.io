@@ -1,7 +1,6 @@
 var a26671 =
 [
-    [ "CheckProc", "da/d74/a26671.html#a2052750b91de67b330a2ae6a190a5d4e", null ],
-    [ "HandleProc", "da/d74/a26671.html#a5b404a07ccb13cabf5fa6ab90db92129", null ],
-    [ "PrepareAuraScript", "da/d74/a26671.html#af16eec48ab0f469ca3cefd149bb0d925", null ],
-    [ "Register", "da/d74/a26671.html#a4f31c76184e4ae5bc03763e04cdac72e", null ]
+    [ "CheckEffectProc", "da/d74/a26671.html#af7756cdb71cc2acc15c56fffc49609f4", null ],
+    [ "PrepareAuraScript", "da/d74/a26671.html#a1025c7edec455f647c5c37ffebdf7576", null ],
+    [ "Register", "da/d74/a26671.html#a282d4aced8b34e5d800e13dc8e71ef7b", null ]
 ];

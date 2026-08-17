@@ -1,7 +1,14 @@
 var a02180 =
 [
-    [ "OutdoorPvPData", "d8/d93/a10599.html", "d8/d93/a10599" ],
-    [ "OutdoorPvPMgr", "d1/deb/a10603.html", "d1/deb/a10603" ],
-    [ "OUTDOORPVP_OBJECTIVE_UPDATE_INTERVAL", "dd/d09/a02180.html#af3942e94a2b618e59d9a607df883023b", null ],
-    [ "sOutdoorPvPMgr", "dd/d09/a02180.html#a7f16e829e6dd717c8a6a20fd1aa783cc", null ]
+    [ "AllMapScript", "d1/dea/a10707.html", "d1/dea/a10707" ],
+    [ "AllMapHook", "dd/d09/a02180.html#a78db4e64fe232d8b547270090d8e3b92", [
+      [ "ALLMAPHOOK_ON_PLAYER_ENTER_ALL", "dd/d09/a02180.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa", null ],
+      [ "ALLMAPHOOK_ON_PLAYER_LEAVE_ALL", "dd/d09/a02180.html#a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae", null ],
+      [ "ALLMAPHOOK_ON_BEFORE_CREATE_INSTANCE_SCRIPT", "dd/d09/a02180.html#a78db4e64fe232d8b547270090d8e3b92aaedb63ed509b91e62a54f71648956182", null ],
+      [ "ALLMAPHOOK_ON_DESTROY_INSTANCE", "dd/d09/a02180.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0", null ],
+      [ "ALLMAPHOOK_ON_CREATE_MAP", "dd/d09/a02180.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02", null ],
+      [ "ALLMAPHOOK_ON_DESTROY_MAP", "dd/d09/a02180.html#a78db4e64fe232d8b547270090d8e3b92a2bd9320aa3f2418da854778f1dbbc3b5", null ],
+      [ "ALLMAPHOOK_ON_MAP_UPDATE", "dd/d09/a02180.html#a78db4e64fe232d8b547270090d8e3b92a192adf70dc3f5a3873df8e56a2c3dcfb", null ],
+      [ "ALLMAPHOOK_END", "dd/d09/a02180.html#a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95", null ]
+    ] ]
 ];

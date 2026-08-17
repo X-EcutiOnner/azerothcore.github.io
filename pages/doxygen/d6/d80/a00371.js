@@ -1,8 +1,6 @@
 var a00371 =
 [
-    [ "BasicEvent", "d8/d08/a05843.html", "d8/d08/a05843" ],
-    [ "LambdaBasicEvent< T >", "d8/d07/a05847.html", "d8/d07/a05847" ],
-    [ "EventProcessor", "dd/d01/a05851.html", "dd/d01/a05851" ],
-    [ "EventList", "d6/d80/a00371.html#a393840b719db78b29da806c1237fceb0", null ],
-    [ "is_lambda_event", "d6/d80/a00371.html#a62fdca14f042b8645ab0d19029b80d9b", null ]
+    [ "IpLocationRecord", "d2/de1/a05687.html", "d2/de1/a05687" ],
+    [ "IpLocationStore", "d8/d58/a05691.html", "d8/d58/a05691" ],
+    [ "sIPLocation", "d6/d80/a00371.html#a85e62bd98f395189fea9c9514d44fc31", null ]
 ];

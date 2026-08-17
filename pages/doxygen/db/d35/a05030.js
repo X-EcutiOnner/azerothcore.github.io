@@ -1,12 +1,9 @@
 var a05030 =
 [
-    [ "BinarySpellDetectionTest", "d1/dd3/a29915.html", "d1/dd3/a29915" ],
-    [ "ShouldMarkBinary", "db/d35/a05030.html#ab2154405a408271aa60863454b0303fe", null ],
-    [ "TEST_F", "db/d35/a05030.html#ae8ecca79d16f8a89b183cf4611dad5d0", null ],
-    [ "TEST_F", "db/d35/a05030.html#afb1918ddefeb036bd6be1fbde953b78b", null ],
-    [ "TEST_F", "db/d35/a05030.html#a1dc398eff0ed30b3e1997c3b27980bed", null ],
-    [ "TEST_F", "db/d35/a05030.html#ad56defbc63a988ba5126194ff9cea5ec", null ],
-    [ "TEST_F", "db/d35/a05030.html#a54fa8a3ce4060060ece3f2a2d9e852e7", null ],
-    [ "TEST_F", "db/d35/a05030.html#aa1b8d26dc43fa9eaf1d827a0c4308dd1", null ],
-    [ "TEST_F", "db/d35/a05030.html#a4e6cbd19c7f85354ce9a5f5a9a1bafe6", null ]
+    [ "QueryCallback::QueryCallbackData", "d3/d2f/a06207.html", "d3/d2f/a06207" ],
+    [ "Construct", "db/d35/a05030.html#a0e2a26009ee3d271eeacbb20a20e930b", null ],
+    [ "ConstructActiveMember", "db/d35/a05030.html#a63276ee687270e668e7c51876ced5fb1", null ],
+    [ "Destroy", "db/d35/a05030.html#aa4339e1c31032221caeaaedac04c0b32", null ],
+    [ "DestroyActiveMember", "db/d35/a05030.html#aac0ba6a0017441eb25c4b294fde99186", null ],
+    [ "MoveFrom", "db/d35/a05030.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ]
 ];

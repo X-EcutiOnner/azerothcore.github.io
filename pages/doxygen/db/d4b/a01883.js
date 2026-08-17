@@ -1,4 +1,4 @@
 var a01883 =
 [
-    [ "ScriptRegistry< TicketScript >", "db/d4b/a01883.html#a3455c8aecfa91396c5eb215ecbce5583", null ]
+    [ "sWorldSocketMgr", "db/df6/a05082.html#ga43ae464e29649083953e305b20b3e27f", null ]
 ];

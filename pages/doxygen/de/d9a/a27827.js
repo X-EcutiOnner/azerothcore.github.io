@@ -1,6 +1,7 @@
 var a27827 =
 [
-    [ "CheckProc", "de/d9a/a27827.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
-    [ "PrepareAuraScript", "de/d9a/a27827.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
-    [ "Register", "de/d9a/a27827.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
+    [ "HandleProc", "de/d9a/a27827.html#a79bcdad48c19c0db70960552f6b4e2d3", null ],
+    [ "PrepareAuraScript", "de/d9a/a27827.html#a760f228c118e9a89a3adc2767290f6f5", null ],
+    [ "Register", "de/d9a/a27827.html#ace2673bc17210f349e47586c0e626dc5", null ],
+    [ "Validate", "de/d9a/a27827.html#acdc499d8cae2de0edcfd2c19319e0175", null ]
 ];

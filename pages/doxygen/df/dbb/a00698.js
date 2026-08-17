@@ -1,11 +1,27 @@
 var a00698 =
 [
-    [ "BanMgr", "d4/d39/a10312.html", "d4/d39/a10312" ],
-    [ "sBan", "df/dbb/a00698.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
-    [ "BanReturn", "df/dbb/a00698.html#a4dd4670ead55e2780d09a66ab39943a7", [
-      [ "BAN_SUCCESS", "df/dbb/a00698.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
-      [ "BAN_SYNTAX_ERROR", "df/dbb/a00698.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
-      [ "BAN_NOTFOUND", "df/dbb/a00698.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
-      [ "BAN_LONGER_EXISTS", "df/dbb/a00698.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
-    ] ]
+    [ "SpellProcPPMModifierTest", "d0/dc2/a30039.html", "d0/dc2/a30039" ],
+    [ "TEST_F", "df/dbb/a00698.html#aa2bec39c4b0d12991540f45313533396", null ],
+    [ "TEST_F", "df/dbb/a00698.html#aa89aed3e26b449dff635a2d80b3c6d9e", null ],
+    [ "TEST_F", "df/dbb/a00698.html#aabcf8b974f95be4625d5319f67599adf", null ],
+    [ "TEST_F", "df/dbb/a00698.html#ab826af751165cb89507993b1e67e4801", null ],
+    [ "TEST_F", "df/dbb/a00698.html#a311a78c504af8345e2c9c3a859bdfa23", null ],
+    [ "TEST_F", "df/dbb/a00698.html#a61b70ea722efdd0a5ef7fefae02d968e", null ],
+    [ "TEST_F", "df/dbb/a00698.html#a55af5ca86664564775172b5d49afe313", null ],
+    [ "TEST_F", "df/dbb/a00698.html#ad304d8058fb3117080850a71033ffc73", null ],
+    [ "TEST_F", "df/dbb/a00698.html#a54ef2e1e9f80b212b8e1d7263f2a4379", null ],
+    [ "TEST_F", "df/dbb/a00698.html#a43454c0e6317092aedad285a01c1d525", null ],
+    [ "TEST_F", "df/dbb/a00698.html#ad2e4c02c33dffa0cfac62af5424e280c", null ],
+    [ "TEST_F", "df/dbb/a00698.html#a55269899b416b9a218ee32727ea41686", null ],
+    [ "TEST_F", "df/dbb/a00698.html#afc454f21b772ee0486a0dde1104ed51f", null ],
+    [ "TEST_F", "df/dbb/a00698.html#a0dcaf713e379ac19c9953c832d8b1353", null ],
+    [ "TEST_F", "df/dbb/a00698.html#a6c5b5b7733c23575f0e7064e5eed508d", null ],
+    [ "TEST_F", "df/dbb/a00698.html#ad829d055fa5c2a97e6bc2c9b5ed8ea5e", null ],
+    [ "TEST_F", "df/dbb/a00698.html#a62a9fc158e8997b1f0ca15a5f5c41c40", null ],
+    [ "TEST_F", "df/dbb/a00698.html#aba5574eb11e7364630a7391e7b1567cf", null ],
+    [ "TEST_F", "df/dbb/a00698.html#a20a56c1828d7aac366535c1729b8df43", null ],
+    [ "TEST_F", "df/dbb/a00698.html#a7ba996e0597652071689fc2a33d2a2b3", null ],
+    [ "TEST_F", "df/dbb/a00698.html#abd7d1227159442414c5be9459d9a9c23", null ],
+    [ "TEST_F", "df/dbb/a00698.html#a137ba54ef70f0a29f8b68424e786752f", null ],
+    [ "TEST_F", "df/dbb/a00698.html#aa7d0cc368c07828252aa4d377962f0da", null ]
 ];

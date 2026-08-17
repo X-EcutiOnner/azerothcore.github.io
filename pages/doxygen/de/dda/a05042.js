@@ -1,15 +1,15 @@
 var a05042 =
 [
-    [ "ProcChanceTestHelper", "d5/d69/a29635.html", "d5/d69/a29635" ],
-    [ "ProcChanceTestHelper::TriggeredSpellConfig", "df/dcc/a29639.html", "df/dcc/a29639" ],
-    [ "ProcChanceTestHelper::ExtraAttackProcConfig", "de/d0d/a29643.html", "de/d0d/a29643" ],
-    [ "ProcChanceTestHelper::PPMModifierConfig", "db/d5b/a29647.html", "db/d5b/a29647" ],
-    [ "ProcChanceTestHelper::EquipmentConfig", "d1/df6/a29651.html", "d1/df6/a29651" ],
-    [ "ProcChanceTestHelper::CascadeProcConfig", "db/d14/a29655.html", "db/d14/a29655" ],
-    [ "ProcChanceTestHelper::TakenAutoTriggerConfig", "d2/d1a/a29659.html", "d2/d1a/a29659" ],
-    [ "ProcChanceTestHelper::ConditionsConfig", "da/d40/a29663.html", "da/d40/a29663" ],
-    [ "ProcTestScenario", "d1/dfb/a29667.html", "d1/dfb/a29667" ],
-    [ "ProcChainGuardSimulator", "df/de7/a29671.html", "df/de7/a29671" ],
-    [ "ProcChainGuardSimulator::AuraConfig", "d9/de7/a29675.html", "d9/de7/a29675" ],
-    [ "ProcChainGuardSimulator::ProcRecord", "de/ddc/a29679.html", "de/ddc/a29679" ]
+    [ "MySQLType< T >", "d1/d10/a06147.html", null ],
+    [ "MySQLType< uint8 >", "d2/dc1/a06151.html", null ],
+    [ "MySQLType< uint16 >", "de/d49/a06155.html", null ],
+    [ "MySQLType< uint32 >", "d9/d40/a06159.html", null ],
+    [ "MySQLType< uint64 >", "d3/d61/a06163.html", null ],
+    [ "MySQLType< int8 >", "da/da9/a06167.html", null ],
+    [ "MySQLType< int16 >", "d1/d90/a06171.html", null ],
+    [ "MySQLType< int32 >", "d0/dca/a06175.html", null ],
+    [ "MySQLType< int64 >", "dd/d16/a06179.html", null ],
+    [ "MySQLType< float >", "df/d46/a06183.html", null ],
+    [ "MySQLType< double >", "d0/d79/a06187.html", null ],
+    [ "ParamenterIndexAssertFail", "de/dda/a05042.html#a4c2b053ff0b94326f3c01cc7c6e61e8a", null ]
 ];

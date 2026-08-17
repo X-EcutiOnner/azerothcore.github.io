@@ -1,6 +1,7 @@
 var a01160 =
 [
-    [ "ConcatenateDungeons", "da/d20/a01160.html#aeaebe53b818ad905c96d2cc56c18b7ca", null ],
-    [ "GetRolesString", "da/d20/a01160.html#adc336ffd636b51b0052448739671d46b", null ],
-    [ "GetStateString", "da/d20/a01160.html#a9d097d73fe8f096de2098ac74022b643", null ]
+    [ "CompareThreatLessThan", "d8/da3/a08255.html", "d8/da3/a08255" ],
+    [ "ThreatManager", "d7/df3/a08259.html", "d7/df3/a08259" ],
+    [ "ThreatManager::ThreatListIterator", "dc/df8/a08263.html", "dc/df8/a08263" ],
+    [ "ThreatReference", "dc/d79/a08267.html", "dc/d79/a08267" ]
 ];

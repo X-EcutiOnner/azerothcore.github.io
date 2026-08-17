@@ -1,4 +1,6 @@
 var a01877 =
 [
-    [ "ScriptRegistry< AllSpellScript >", "d9/d63/a01877.html#a6fb50c7d667ae3d14a6d307b0862e957", null ]
+    [ "AccountPlayHistory", "dd/dbf/a11783.html", "dd/dbf/a11783" ],
+    [ "WorldSessionMgr", "dd/d27/a11787.html", "dd/d27/a11787" ],
+    [ "sWorldSessionMgr", "d9/d63/a01877.html#a57dd9797e2282d27210248275f47ab85", null ]
 ];

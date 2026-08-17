@@ -1,11 +1,5 @@
 var a28075 =
 [
-    [ "AccountActionIpLogger", "df/dc4/a28075.html#a73cad77bd83243cb10c4a1b4d7081e0b", null ],
-    [ "AccountIPLogAction", "df/dc4/a28075.html#a9c978dafb71e67b8b278806df507e34b", null ],
-    [ "OnAccountLogin", "df/dc4/a28075.html#a2952adcd73d775b924671e5a69adaccb", null ],
-    [ "OnEmailChange", "df/dc4/a28075.html#aa15d0cc4e6ed3818fa18a927074f5f0c", null ],
-    [ "OnFailedAccountLogin", "df/dc4/a28075.html#a8225c45bcb83e1ddd91a8dcd0f7da9cd", null ],
-    [ "OnFailedEmailChange", "df/dc4/a28075.html#a9fd73dc7b6954dfb4fc94a1f1288ccd2", null ],
-    [ "OnFailedPasswordChange", "df/dc4/a28075.html#a0663e15ea1a29b3daa672c8b6a25548f", null ],
-    [ "OnPasswordChange", "df/dc4/a28075.html#a4b71aa9c1790e6d4033d884a17ce0a2f", null ]
+    [ "achievement_fa_la_la_la_ogrila", "df/dc4/a28075.html#ab98a8ab33fec62936bf3c235659c1445", null ],
+    [ "OnCheck", "df/dc4/a28075.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
 ];

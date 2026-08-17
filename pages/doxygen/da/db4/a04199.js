@@ -1,6 +1,6 @@
 var a04199 =
 [
-    [ "bg_commandscript", "da/df9/a12403.html", "da/df9/a12403" ],
-    [ "AddSC_bag_commandscript", "da/db4/a04199.html#a8fa1e803122341d611168b2b62fde4e5", null ],
-    [ "itemQualityToString", "da/db4/a04199.html#af266597924b9d3f439ffc9908001d2cb", null ]
+    [ "instance_maraudon", "dc/d42/a15415.html", "dc/d42/a15415" ],
+    [ "instance_maraudon::instance_maraudon_InstanceMapScript", "de/ddd/a15419.html", "de/ddd/a15419" ],
+    [ "AddSC_instance_maraudon", "da/db4/a04199.html#a6ab7baf162a5cf99b16fb0a26d7973cb", null ]
 ];

@@ -1,4 +1,4 @@
 var a00068 =
 [
-    [ "ProducerConsumerQueue< T >", "d8/dbc/a05759.html", "d8/dbc/a05759" ]
+    [ "VMAP::VMapFactory", "d0/d45/a05315.html", "d0/d45/a05315" ]
 ];

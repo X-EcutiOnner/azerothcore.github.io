@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/BattlefieldScript.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Battlegrounds/Arena.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,81 +107,107 @@ $(document).ready(function(){initNavTree('d2/d31/a01811.html','../../'); initRes
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">BattlefieldScript.h File Reference</div></div>
+  <div class="headertitle"><div class="title">Arena.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
-<code>#include &lt;vector&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Battleground.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d53/a10735.html">BattlefieldScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d95/a07627.html">Arena</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:ad9fb0d66e6cd28e54d79830f1d725089"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089">BattlefieldHook</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235">BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE</a>
+<tr class="memitem:a407f2036481e3d9e2def3daa50546c71"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71">ArenaBroadcastTexts</a> { <br />
+&#160;&#160;<a class="el" href="../../d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854">ARENA_TEXT_START_ONE_MINUTE</a> = 15740
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE</a>
+&#160;&#160;<a class="el" href="../../d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084">ARENA_TEXT_START_THIRTY_SECONDS</a> = 15741
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6">BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR</a>
+&#160;&#160;<a class="el" href="../../d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9">ARENA_TEXT_START_FIFTEEN_SECONDS</a> = 15739
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710">BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f">BATTLEFIELDHOOK_ON_WAR_END</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089ac25d3b497f3028ed587b69de4611687e">BATTLEFIELDHOOK_ON_PLAYER_KILL</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac">BATTLEFIELDHOOK_END</a>
+&#160;&#160;<a class="el" href="../../d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd">ARENA_TEXT_START_BATTLE_HAS_BEGUN</a> = 15742
 <br />
  }</td></tr>
-<tr class="separator:ad9fb0d66e6cd28e54d79830f1d725089"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a407f2036481e3d9e2def3daa50546c71"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05b7784b7a9a1ce8e6367f6f9bb875d9"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9">ArenaSpellIds</a> { <br />
+&#160;&#160;<a class="el" href="../../d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c">SPELL_ALLIANCE_GOLD_FLAG</a> = 32724
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f">SPELL_ALLIANCE_GREEN_FLAG</a> = 32725
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0">SPELL_HORDE_GOLD_FLAG</a> = 35774
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222">SPELL_HORDE_GREEN_FLAG</a> = 35775
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd">SPELL_LAST_MAN_STANDING</a> = 26549
+<br />
+ }</td></tr>
+<tr class="separator:a05b7784b7a9a1ce8e6367f6f9bb875d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="ad9fb0d66e6cd28e54d79830f1d725089" name="ad9fb0d66e6cd28e54d79830f1d725089"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad9fb0d66e6cd28e54d79830f1d725089">&#9670;&#160;</a></span>BattlefieldHook</h2>
+<a id="a407f2036481e3d9e2def3daa50546c71" name="a407f2036481e3d9e2def3daa50546c71"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a407f2036481e3d9e2def3daa50546c71">&#9670;&#160;</a></span>ArenaBroadcastTexts</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089">BattlefieldHook</a></td>
+          <td class="memname">enum <a class="el" href="../../d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71">ArenaBroadcastTexts</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235" name="ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235"></a>BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007" name="ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007"></a>BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6" name="ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6"></a>BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab" name="ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab"></a>BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710" name="ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710"></a>BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f" name="ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f"></a>BATTLEFIELDHOOK_ON_WAR_END&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad9fb0d66e6cd28e54d79830f1d725089ac25d3b497f3028ed587b69de4611687e" name="ad9fb0d66e6cd28e54d79830f1d725089ac25d3b497f3028ed587b69de4611687e"></a>BATTLEFIELDHOOK_ON_PLAYER_KILL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac" name="ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac"></a>BATTLEFIELDHOOK_END&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854" name="a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854"></a>ARENA_TEXT_START_ONE_MINUTE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084" name="a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084"></a>ARENA_TEXT_START_THIRTY_SECONDS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9" name="a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9"></a>ARENA_TEXT_START_FIFTEEN_SECONDS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd" name="a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd"></a>ARENA_TEXT_START_BATTLE_HAS_BEGUN&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235">BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE</a>,          <span class="comment">// 0 - fires at start of HandlePlayerEnterZone, before team assignment</span></div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE</a>,          <span class="comment">// 1 - fires at end of HandlePlayerLeaveZone, after all cleanup</span></div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6">BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR</a>,            <span class="comment">// 2 - fires after player is added to the active war</span></div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR</a>,           <span class="comment">// 3 - fires after player is removed from the active war</span></div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710">BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR</a>,   <span class="comment">// 4 - fires in InvitePlayerToWar before InvitedPlayers insert</span></div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f">BATTLEFIELDHOOK_ON_WAR_END</a>,                    <span class="comment">// 5 - fires in EndBattle before OnBattleEnd(), while PlayersInWar is still populated</span></div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089ac25d3b497f3028ed587b69de4611687e">BATTLEFIELDHOOK_ON_PLAYER_KILL</a>,                <span class="comment">// 6 - fires in HandleKill for every player-kills-player event</span></div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac">BATTLEFIELDHOOK_END</a></div>
-<div class="line"><span class="lineno">   34</span>};</div>
-<div class="ttc" id="aa01811_html_ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007"><div class="ttname"><a href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE</div><div class="ttdef"><b>Definition:</b> BattlefieldScript.h:27</div></div>
-<div class="ttc" id="aa01811_html_ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235"><div class="ttname"><a href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235">BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE</div><div class="ttdef"><b>Definition:</b> BattlefieldScript.h:26</div></div>
-<div class="ttc" id="aa01811_html_ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac"><div class="ttname"><a href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac">BATTLEFIELDHOOK_END</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_END</div><div class="ttdef"><b>Definition:</b> BattlefieldScript.h:33</div></div>
-<div class="ttc" id="aa01811_html_ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab"><div class="ttname"><a href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR</div><div class="ttdef"><b>Definition:</b> BattlefieldScript.h:29</div></div>
-<div class="ttc" id="aa01811_html_ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710"><div class="ttname"><a href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710">BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR</div><div class="ttdef"><b>Definition:</b> BattlefieldScript.h:30</div></div>
-<div class="ttc" id="aa01811_html_ad9fb0d66e6cd28e54d79830f1d725089ac25d3b497f3028ed587b69de4611687e"><div class="ttname"><a href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089ac25d3b497f3028ed587b69de4611687e">BATTLEFIELDHOOK_ON_PLAYER_KILL</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_ON_PLAYER_KILL</div><div class="ttdef"><b>Definition:</b> BattlefieldScript.h:32</div></div>
-<div class="ttc" id="aa01811_html_ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6"><div class="ttname"><a href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6">BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR</div><div class="ttdef"><b>Definition:</b> BattlefieldScript.h:28</div></div>
-<div class="ttc" id="aa01811_html_ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f"><div class="ttname"><a href="../../d2/d31/a01811.html#ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f">BATTLEFIELDHOOK_ON_WAR_END</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_ON_WAR_END</div><div class="ttdef"><b>Definition:</b> BattlefieldScript.h:31</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
+<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854">ARENA_TEXT_START_ONE_MINUTE</a>             = 15740,</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084">ARENA_TEXT_START_THIRTY_SECONDS</a>         = 15741,</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9">ARENA_TEXT_START_FIFTEEN_SECONDS</a>        = 15739,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd">ARENA_TEXT_START_BATTLE_HAS_BEGUN</a>       = 15742,</div>
+<div class="line"><span class="lineno">   29</span>};</div>
+<div class="ttc" id="aa01811_html_a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854"><div class="ttname"><a href="../../d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854">ARENA_TEXT_START_ONE_MINUTE</a></div><div class="ttdeci">@ ARENA_TEXT_START_ONE_MINUTE</div><div class="ttdef"><b>Definition:</b> Arena.h:25</div></div>
+<div class="ttc" id="aa01811_html_a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084"><div class="ttname"><a href="../../d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084">ARENA_TEXT_START_THIRTY_SECONDS</a></div><div class="ttdeci">@ ARENA_TEXT_START_THIRTY_SECONDS</div><div class="ttdef"><b>Definition:</b> Arena.h:26</div></div>
+<div class="ttc" id="aa01811_html_a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd"><div class="ttname"><a href="../../d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd">ARENA_TEXT_START_BATTLE_HAS_BEGUN</a></div><div class="ttdeci">@ ARENA_TEXT_START_BATTLE_HAS_BEGUN</div><div class="ttdef"><b>Definition:</b> Arena.h:28</div></div>
+<div class="ttc" id="aa01811_html_a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9"><div class="ttname"><a href="../../d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9">ARENA_TEXT_START_FIFTEEN_SECONDS</a></div><div class="ttdeci">@ ARENA_TEXT_START_FIFTEEN_SECONDS</div><div class="ttdef"><b>Definition:</b> Arena.h:27</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a05b7784b7a9a1ce8e6367f6f9bb875d9" name="a05b7784b7a9a1ce8e6367f6f9bb875d9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a05b7784b7a9a1ce8e6367f6f9bb875d9">&#9670;&#160;</a></span>ArenaSpellIds</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9">ArenaSpellIds</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c" name="a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c"></a>SPELL_ALLIANCE_GOLD_FLAG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f" name="a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f"></a>SPELL_ALLIANCE_GREEN_FLAG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0" name="a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0"></a>SPELL_HORDE_GOLD_FLAG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222" name="a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222"></a>SPELL_HORDE_GREEN_FLAG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd" name="a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd"></a>SPELL_LAST_MAN_STANDING&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   32</span>{</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c">SPELL_ALLIANCE_GOLD_FLAG</a>                = 32724,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f">SPELL_ALLIANCE_GREEN_FLAG</a>               = 32725,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0">SPELL_HORDE_GOLD_FLAG</a>                   = 35774,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222">SPELL_HORDE_GREEN_FLAG</a>                  = 35775,</div>
+<div class="line"><span class="lineno">   37</span> </div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd">SPELL_LAST_MAN_STANDING</a>                 = 26549  <span class="comment">// Achievement Credit</span></div>
+<div class="line"><span class="lineno">   39</span>};</div>
+<div class="ttc" id="aa01811_html_a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd"><div class="ttname"><a href="../../d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd">SPELL_LAST_MAN_STANDING</a></div><div class="ttdeci">@ SPELL_LAST_MAN_STANDING</div><div class="ttdef"><b>Definition:</b> Arena.h:38</div></div>
+<div class="ttc" id="aa01811_html_a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c"><div class="ttname"><a href="../../d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c">SPELL_ALLIANCE_GOLD_FLAG</a></div><div class="ttdeci">@ SPELL_ALLIANCE_GOLD_FLAG</div><div class="ttdef"><b>Definition:</b> Arena.h:33</div></div>
+<div class="ttc" id="aa01811_html_a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0"><div class="ttname"><a href="../../d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0">SPELL_HORDE_GOLD_FLAG</a></div><div class="ttdeci">@ SPELL_HORDE_GOLD_FLAG</div><div class="ttdef"><b>Definition:</b> Arena.h:35</div></div>
+<div class="ttc" id="aa01811_html_a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222"><div class="ttname"><a href="../../d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222">SPELL_HORDE_GREEN_FLAG</a></div><div class="ttdeci">@ SPELL_HORDE_GREEN_FLAG</div><div class="ttdef"><b>Definition:</b> Arena.h:36</div></div>
+<div class="ttc" id="aa01811_html_a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f"><div class="ttname"><a href="../../d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f">SPELL_ALLIANCE_GREEN_FLAG</a></div><div class="ttdeci">@ SPELL_ALLIANCE_GREEN_FLAG</div><div class="ttdef"><b>Definition:</b> Arena.h:34</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -190,8 +216,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d2/d31/a01811.html">BattlefieldScript.h</a></li>
-    <li class="footer">Generated on Mon Aug 10 2026 21:21:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_fc52f0b797d74b4b54bfd04593b84648.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../d2/d31/a01811.html">Arena.h</a></li>
+    <li class="footer">Generated on Mon Aug 17 2026 20:57:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

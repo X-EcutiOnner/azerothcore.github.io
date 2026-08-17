@@ -1,5 +1,6 @@
 var a23443 =
 [
-    [ "go_main_chambers_access_panel", "dd/d1e/a23443.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "dd/d1e/a23443.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "HandleAfterRemove", "dd/d1e/a23443.html#a74610b06095572aa2c898cd84e0fb229", null ],
+    [ "PrepareAuraScript", "dd/d1e/a23443.html#ac0d686490ff37810e0116dea4d0b6077", null ],
+    [ "Register", "dd/d1e/a23443.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
 ];

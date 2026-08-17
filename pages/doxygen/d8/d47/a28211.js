@@ -1,5 +1,5 @@
 var a28211 =
 [
-    [ "go_ethereum_stasis", "d8/d47/a28211.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
-    [ "OnGossipHello", "d8/d47/a28211.html#ac36da8dccbebcaee605a878df3904c60", null ]
+    [ "go_ethereum_prison", "d8/d47/a28211.html#a1872dab11a8470194ab35f87e217aa8a", null ],
+    [ "OnGossipHello", "d8/d47/a28211.html#a73479b0512ea778336fad4bd5cd9b909", null ]
 ];

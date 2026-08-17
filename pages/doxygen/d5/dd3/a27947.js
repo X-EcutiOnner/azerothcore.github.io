@@ -1,12 +1,10 @@
 var a27947 =
 [
-    [ "CheckProc", "d5/dd3/a27947.html#abb43619da8154c1c9ebc9d164a2f6dc6", null ],
-    [ "HandleApply", "d5/dd3/a27947.html#aaa07858f0604965fad5c1189125a822b", null ],
-    [ "HandleProc", "d5/dd3/a27947.html#a9fd416a5f8f8a405f40c41b9ef8b734e", null ],
-    [ "HandleRemove", "d5/dd3/a27947.html#a3da984d172878110b77549b51409d7e0", null ],
-    [ "Load", "d5/dd3/a27947.html#a644aaf343b41f049f34ff7387c613bf1", null ],
-    [ "PrepareAuraScript", "d5/dd3/a27947.html#aea23ff608c74017d98edcc146d3ba35a", null ],
-    [ "Register", "d5/dd3/a27947.html#a624d09c6f1a177912a1c7cab30d89c7b", null ],
-    [ "Validate", "d5/dd3/a27947.html#a34f1b7782dbf2dcc18eb803497104a13", null ],
-    [ "_procTargetGUID", "d5/dd3/a27947.html#a88833abe90e8753336b7dc178b98f703", null ]
+    [ "CheckProc", "d5/dd3/a27947.html#a68a559c46266fc7337f7d56bb66af542", null ],
+    [ "HandleProc", "d5/dd3/a27947.html#a69cdd92cea54ec5bf11f6011578b2338", null ],
+    [ "Load", "d5/dd3/a27947.html#ad571b0d2f47cff037030d7a8184f60fd", null ],
+    [ "PrepareAuraScript", "d5/dd3/a27947.html#aa20e2911e60f3ae7a9dcceee8f96b6ef", null ],
+    [ "Register", "d5/dd3/a27947.html#a8af18925b317c717fcd6b2fae14a16e4", null ],
+    [ "Validate", "d5/dd3/a27947.html#ac0cf25901d70e37bb887b3baa38790b5", null ],
+    [ "_procTargetGUID", "d5/dd3/a27947.html#af2c6243fa93ee7aba2e7e61e1e40ea60", null ]
 ];

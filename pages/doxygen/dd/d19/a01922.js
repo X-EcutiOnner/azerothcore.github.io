@@ -1,13 +1,12 @@
 var a01922 =
 [
-    [ "PetScript", "d5/d88/a10843.html", "d5/d88/a10843" ],
-    [ "PetHook", "dd/d19/a01922.html#a2e6398af59b176e045eece50b1a5d404", [
-      [ "PETHOOK_ON_INIT_STATS_FOR_LEVEL", "dd/d19/a01922.html#a2e6398af59b176e045eece50b1a5d404a1aa219c404710f806516a47fb4a2c421", null ],
-      [ "PETHOOK_ON_CALCULATE_MAX_TALENT_POINTS_FOR_LEVEL", "dd/d19/a01922.html#a2e6398af59b176e045eece50b1a5d404af4173fac4396520c8d5f664cb15cd09a", null ],
-      [ "PETHOOK_CAN_UNLEARN_SPELL_SET", "dd/d19/a01922.html#a2e6398af59b176e045eece50b1a5d404a73a664bf8c79a8347a66639e7f4585ed", null ],
-      [ "PETHOOK_CAN_UNLEARN_SPELL_DEFAULT", "dd/d19/a01922.html#a2e6398af59b176e045eece50b1a5d404afd7165a69bf431cabc9b485460fde1ce", null ],
-      [ "PETHOOK_CAN_RESET_TALENTS", "dd/d19/a01922.html#a2e6398af59b176e045eece50b1a5d404a7c81bb255968b85119ef74e3124abe11", null ],
-      [ "PETHOOK_ON_PET_ADD_TO_WORLD", "dd/d19/a01922.html#a2e6398af59b176e045eece50b1a5d404a34b989d3a1e33e5ab31d98bf4a36ee56", null ],
-      [ "PETHOOK_END", "dd/d19/a01922.html#a2e6398af59b176e045eece50b1a5d404aa71e862274b6066ffe8af41bccdac911", null ]
-    ] ]
+    [ "WorldPackets::Pet::DismissCritter", "d8/dad/a11535.html", "d8/dad/a11535" ],
+    [ "WorldPackets::Pet::PetAbandon", "d0/d04/a11539.html", "d0/d04/a11539" ],
+    [ "WorldPackets::Pet::PetStopAttack", "db/d6b/a11543.html", "db/d6b/a11543" ],
+    [ "WorldPackets::Pet::PetSpellAutocast", "dd/dc8/a11547.html", "dd/dc8/a11547" ],
+    [ "WorldPackets::Pet::PetLearnedSpell", "d4/dc2/a11551.html", "d4/dc2/a11551" ],
+    [ "WorldPackets::Pet::PetUnlearnedSpell", "d5/d92/a11555.html", "d5/d92/a11555" ],
+    [ "WorldPackets::Pet::RequestPetInfo", "d7/d9d/a11559.html", "d7/d9d/a11559" ],
+    [ "WorldPackets::Pet::PetActionSound", "d8/dc7/a11563.html", "d8/dc7/a11563" ],
+    [ "WorldPackets::Pet::PetDismissSound", "dd/d35/a11567.html", "dd/d35/a11567" ]
 ];

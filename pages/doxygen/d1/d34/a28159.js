@@ -1,6 +1,7 @@
 var a28159 =
 [
-    [ "boss_emerissAI", "db/dd3/a28163.html", "db/dd3/a28163" ],
-    [ "boss_emeriss", "d1/d34/a28159.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "d1/d34/a28159.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "npc_spirit_shadeAI", "d1/d34/a28159.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "d1/d34/a28159.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "d1/d34/a28159.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "d1/d34/a28159.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

@@ -1,7 +1,6 @@
 var a01250 =
 [
-    [ "MMapTargetData", "d5/d0b/a09156.html", "d5/d0b/a09156" ],
-    [ "SafeUnitPointer", "d5/d43/a09160.html", "d5/d43/a09160" ],
-    [ "BuildValuesCachePosPointers", "da/d28/a09164.html", "da/d28/a09164" ],
-    [ "BuildValuesCachedBuffer", "dd/df0/a09168.html", "dd/df0/a09168" ]
+    [ "GridObjectLoader", "d5/dec/a09507.html", "d5/dec/a09507" ],
+    [ "GridObjectCleaner", "db/d96/a09511.html", "db/d96/a09511" ],
+    [ "GridObjectUnloader", "db/d61/a09515.html", "db/d61/a09515" ]
 ];

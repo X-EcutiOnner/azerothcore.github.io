@@ -1,15 +1,7 @@
 var a00902 =
 [
-    [ "TempSummonData", "d5/dca/a08519.html", "d5/dca/a08519" ],
-    [ "GameObjectSummonData", "d1/d86/a08523.html", "d1/d86/a08523" ],
-    [ "TempSummon", "d4/d06/a08527.html", "d4/d06/a08527" ],
-    [ "Minion", "d4/dbc/a08531.html", "d4/dbc/a08531" ],
-    [ "Guardian", "d1/ddc/a08535.html", "d1/ddc/a08535" ],
-    [ "Puppet", "d2/d4c/a08539.html", "d2/d4c/a08539" ],
-    [ "ForcedUnsummonDelayEvent", "d8/dc0/a08543.html", "d8/dc0/a08543" ],
-    [ "SummonerType", "d5/dd3/a00902.html#ac8a8d6d0515f6d559068f8aaae56e188", [
-      [ "SUMMONER_TYPE_CREATURE", "d5/dd3/a00902.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a", null ],
-      [ "SUMMONER_TYPE_GAMEOBJECT", "d5/dd3/a00902.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347", null ],
-      [ "SUMMONER_TYPE_MAP", "d5/dd3/a00902.html#ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270", null ]
-    ] ]
+    [ "Movement::FallInitializer", "d1/ddd/a10519.html", "d1/ddd/a10519" ],
+    [ "Movement::CommonInitializer", "d2/db8/a10523.html", "d2/db8/a10523" ],
+    [ "CHECK", "d5/dd3/a00902.html#a4005b3acaa5011bfc2cc027562c04dfb", null ],
+    [ "computeDuration", "d5/dd3/a00902.html#a0f9e26b66bd86bb9701c366e4f9529c3", null ]
 ];

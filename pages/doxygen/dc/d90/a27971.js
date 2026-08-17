@@ -1,6 +1,8 @@
 var a27971 =
 [
-    [ "HandleOnHit", "dc/d90/a27971.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "dc/d90/a27971.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "dc/d90/a27971.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "CheckProc", "dc/d90/a27971.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
+    [ "HandleEffectProc", "dc/d90/a27971.html#af01d160cb2a55124361a2dd113acd0a7", null ],
+    [ "PrepareAuraScript", "dc/d90/a27971.html#aeffb8490a7208ae6e32a505283afbc03", null ],
+    [ "Register", "dc/d90/a27971.html#a5436413d098dde4b0fa1ed2259a47779", null ],
+    [ "Validate", "dc/d90/a27971.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
 ];

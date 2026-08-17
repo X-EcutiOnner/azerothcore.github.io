@@ -1,5 +1,6 @@
 var a00839 =
 [
-    [ "RaceMgr", "d2/d92/a09051.html", "d2/d92/a09051" ],
-    [ "sRaceMgr", "df/de8/a00839.html#a01771033df72a93fd53fc0caecbb5118", null ]
+    [ "SOAPCommand", "d9/d4d/a06051.html", "d9/d4d/a06051" ],
+    [ "ACSoapThread", "df/de8/a00839.html#a6c4b2ef1ce6f27015352f0c8b7a3bf11", null ],
+    [ "process_message", "df/de8/a00839.html#abf914e30c869f88f2fafb9f656320c6a", null ]
 ];

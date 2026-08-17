@@ -1,7 +1,9 @@
 var a26875 =
 [
-    [ "CheckAreaTarget", "d4/db0/a26875.html#a3c2dc43efc37be1b34cba266a478f46e", null ],
-    [ "PrepareAuraScript", "d4/db0/a26875.html#a88c7c19e87106e1bbf6cc5a24a3bc2e4", null ],
-    [ "Register", "d4/db0/a26875.html#a9cbc5794b1ed54fe9313cd161ec5b19f", null ],
-    [ "Validate", "d4/db0/a26875.html#ab18a951259cc74b0ba8319f757e38eca", null ]
+    [ "spell_pal_improved_aura_effect", "d4/db0/a26875.html#a8b413208ee8842e844e4129725e8c99e", null ],
+    [ "CheckAreaTarget", "d4/db0/a26875.html#a0e61a579344eb8e91d0dd58554fc6ecb", null ],
+    [ "PrepareAuraScript", "d4/db0/a26875.html#a1aa9d9c753032febf7cc86ce53ad2a99", null ],
+    [ "Register", "d4/db0/a26875.html#acd92f952c3aeede5c7131fb84aa6334d", null ],
+    [ "Validate", "d4/db0/a26875.html#a553e45e2963e915fb5a2e123160af83a", null ],
+    [ "_auraSpellId", "d4/db0/a26875.html#a960fabe394cdf4666b637a7d65b90645", null ]
 ];

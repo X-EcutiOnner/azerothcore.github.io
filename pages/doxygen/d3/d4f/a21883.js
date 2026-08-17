@@ -1,6 +1,6 @@
 var a21883 =
 [
-    [ "npc_q24545_vegardAI", "d9/d23/a21887.html", "d9/d23/a21887" ],
-    [ "npc_q24545_vegard", "d3/d4f/a21883.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "d3/d4f/a21883.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "npc_q24545_vegard_dummyAI", "d3/d4f/a21883.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
+    [ "UpdateAI", "d3/d4f/a21883.html#aa31baac9ce3c4c951f93917b88390797", null ],
+    [ "done", "d3/d4f/a21883.html#a0208fbae8e6c46d0671107530279c50c", null ]
 ];

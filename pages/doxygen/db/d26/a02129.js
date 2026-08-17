@@ -1,11 +1,4 @@
 var a02129 =
 [
-    [ "AuraEffect", "d5/d84/a11772.html", "d5/d84/a11772" ],
-    [ "Acore::AbsorbAuraOrderPred", "d5/da2/a11776.html", "d5/da2/a11776" ],
-    [ "pAuraEffectHandler", "db/d26/a02129.html#a9e98d9a1c1cc41922f386b184fd7ce67", null ],
-    [ "BrewfestEntries", "db/d26/a02129.html#a4ee83f582e4ebba3a5aea9ab1a5c9354", [
-      [ "BREWFEST_KODO", "db/d26/a02129.html#a4ee83f582e4ebba3a5aea9ab1a5c9354acbc7617ce19ea8d214518ab0335275c5", null ],
-      [ "GREAT_BREWFEST_KODO", "db/d26/a02129.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a9e68ffb636426417370cc6b94b7b46aa", null ],
-      [ "FRESH_BREWFEST_HOPS", "db/d26/a02129.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a62ef26e3a60fddc8cbadbd349cb054bf", null ]
-    ] ]
+    [ "ScriptRegistry< PlayerScript >", "db/d26/a02129.html#a9c8e85c6181ce386db051bb0a0e6a533", null ]
 ];

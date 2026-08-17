@@ -1,6 +1,6 @@
 var dir_ca5ba42e50e3e5f9337c0c8d18fe983c =
 [
-    [ "boss_onyxia.cpp", "db/daf/a04412.html", "db/daf/a04412" ],
-    [ "instance_onyxias_lair.cpp", "d0/dc5/a04415.html", "d0/dc5/a04415" ],
-    [ "onyxias_lair.h", "d3/d74/a04418.html", "d3/d74/a04418" ]
+    [ "boss_onyxia.cpp", "dc/d86/a04022.html", "dc/d86/a04022" ],
+    [ "instance_onyxias_lair.cpp", "d9/d97/a04016.html", "d9/d97/a04016" ],
+    [ "onyxias_lair.h", "da/d6d/a04019.html", "da/d6d/a04019" ]
 ];

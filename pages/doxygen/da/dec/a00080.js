@@ -1,25 +1,16 @@
 var a00080 =
 [
-    [ "ABORT", "da/dec/a00080.html#a5376571bbf4cdc9782683635f366f89a", null ],
-    [ "ASSERT", "da/dec/a00080.html#af343b20373ba49a92fce523e948f2ab3", null ],
-    [ "ASSERT_NODEBUGINFO", "da/dec/a00080.html#ae4aa5b88f8a0cd841e02343e63098f7a", null ],
-    [ "ASSERT_NOTNULL", "da/dec/a00080.html#aee2b3b5656453513bc51a5979b247a67", null ],
-    [ "EXCEPTION_ASSERTION_FAILURE", "da/dec/a00080.html#adb1e581c0b1db74338cf2892218ff23f", null ],
-    [ "WPAbort", "da/dec/a00080.html#aab8761bc4b218ac84ad259cc6e0c1589", null ],
-    [ "WPAssert", "da/dec/a00080.html#a6b3632c6657f3d1633b9a9707d9ede62", null ],
-    [ "WPAssert_NODEBUGINFO", "da/dec/a00080.html#ab0566f9653ccc9fc0e174bda17fc5277", null ],
-    [ "WPError", "da/dec/a00080.html#a7d9ea9088aab1556ba6739861998001a", null ],
-    [ "WPFatal", "da/dec/a00080.html#a47d51826ca35c49a890b7bc2ad6818ea", null ],
-    [ "WPWarning", "da/dec/a00080.html#afbbc90bf1881f7811a1022e7af350b47", null ],
-    [ "Abort", "da/dec/a00080.html#a257b055b35d21943eb2a144cccd26429", null ],
-    [ "Abort", "da/dec/a00080.html#af8c8ba5d8126e10ea9f5d86e8a9e742b", null ],
-    [ "AbortHandler", "da/dec/a00080.html#ad49ea597ac6ffd8eb9ae06bab8c38b43", null ],
-    [ "Assert", "da/dec/a00080.html#aaacb53f863e011c7d879e93567268109", null ],
-    [ "Assert", "da/dec/a00080.html#a1990519ae97867f1a629699d00874fb2", null ],
-    [ "ASSERT_NOTNULL_IMPL", "da/dec/a00080.html#aa8e391e13264a7b2f29f66832263afcf", null ],
-    [ "Error", "da/dec/a00080.html#af222a0bd205c0bcecd8a7b6554137e33", null ],
-    [ "Fatal", "da/dec/a00080.html#a07aa40e12479c740872d1ad7f55acbbc", null ],
-    [ "Fatal", "da/dec/a00080.html#af4a5b364827068eb978fa1a1fff5770f", null ],
-    [ "GetDebugInfo", "da/dec/a00080.html#a4dc49effc31d570798463c106549b1cb", null ],
-    [ "Warning", "da/dec/a00080.html#ab1b23d9277c7dd8d381753ec943ad1bc", null ]
+    [ "MMAP::NavMeshDeleter", "da/d6b/a05303.html", "da/d6b/a05303" ],
+    [ "MMAP::NavMeshQueryDeleter", "d3/dac/a05307.html", "d3/dac/a05307" ],
+    [ "MMAP::MMapMgr", "d7/df8/a05311.html", "d7/df8/a05311" ],
+    [ "ManagedNavMeshQuery", "da/dec/a00080.html#aa9864ce68a669d59d8baee4cb742900b", null ],
+    [ "MMAP_LOAD_RESULT", "da/dec/a00080.html#a329271d76c3ed7ad6d255d45094b4868", [
+      [ "MMAP_LOAD_RESULT_ERROR", "da/dec/a00080.html#a329271d76c3ed7ad6d255d45094b4868a1725e868fc9dcc9ae0939b0bfcdb9d44", null ],
+      [ "MMAP_LOAD_RESULT_OK", "da/dec/a00080.html#a329271d76c3ed7ad6d255d45094b4868a9ee52933929b5bdab0f48f9efcbf451a", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "da/dec/a00080.html#a329271d76c3ed7ad6d255d45094b4868a4678f59f424bfc2185fd0e8263e07d88", null ]
+    ] ],
+    [ "dtCustomAlloc", "da/dec/a00080.html#a8c3ce5a3a39694b1e2f88333bcf5b8c7", null ],
+    [ "dtCustomFree", "da/dec/a00080.html#a2486cfb0dce2e78cd1bc4c379612e64b", null ],
+    [ "MAP_FILE_NAME_FORMAT", "da/dec/a00080.html#a1d57d156046bda88886b7488ab0b83bc", null ],
+    [ "TILE_FILE_NAME_FORMAT", "da/dec/a00080.html#a27e34ce3b8808f2aa889e5c4e623059a", null ]
 ];

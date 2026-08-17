@@ -1,6 +1,10 @@
 var a02138 =
 [
-    [ "clearAcceptTradeMode", "db/df6/a02138.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
-    [ "clearAcceptTradeMode", "db/df6/a02138.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
-    [ "setAcceptTradeMode", "db/df6/a02138.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
+    [ "GameEventScript", "db/d4a/a10779.html", "db/d4a/a10779" ],
+    [ "GameEventHook", "db/df6/a02138.html#a6f634b591917b5ff2ab57f9739afa44b", [
+      [ "GAMEEVENTHOOK_ON_START", "db/df6/a02138.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
+      [ "GAMEEVENTHOOK_ON_STOP", "db/df6/a02138.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],
+      [ "GAMEEVENTHOOK_ON_EVENT_CHECK", "db/df6/a02138.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f", null ],
+      [ "GAMEEVENTHOOK_END", "db/df6/a02138.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395", null ]
+    ] ]
 ];

@@ -1,7 +1,6 @@
 var a25335 =
 [
-    [ "HandleScript", "d2/d62/a25335.html#a8b20e2ffed94ec9438dc9b756ba76693", null ],
-    [ "PrepareSpellScript", "d2/d62/a25335.html#a9e29ea947d5415471d991a4e1cd699ac", null ],
-    [ "Register", "d2/d62/a25335.html#aa4bc27415893009581b317637599a85a", null ],
-    [ "Validate", "d2/d62/a25335.html#a77ed10819633ae2bc381023da0feb31b", null ]
+    [ "HandleEffectPeriodic", "d2/d62/a25335.html#a248ba0e88498e36355491b2b89063e17", null ],
+    [ "PrepareAuraScript", "d2/d62/a25335.html#ac9aed434fe7602ef846e9f052402620e", null ],
+    [ "Register", "d2/d62/a25335.html#a039eec910c802276b9e979253141cdee", null ]
 ];

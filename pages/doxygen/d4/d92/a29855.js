@@ -1,12 +1,11 @@
 var a29855 =
 [
-    [ "MakeBracket", "d4/d92/a29855.html#a6acf8699a62a5e6d03f1e33124f1e875", null ],
-    [ "SetIntConfig", "d4/d92/a29855.html#ac428f3bcfc8af019a114ee3859d83e9c", null ],
-    [ "SetUp", "d4/d92/a29855.html#a50880de2c8b647aa1ef2db4fe9e4c619", null ],
-    [ "SetupRealBg", "d4/d92/a29855.html#ab288107a8233cb96d9a715c9f99cd360", null ],
-    [ "SetupTemplate", "d4/d92/a29855.html#a00c21e1785ec154a2c73b317d70b49ce", null ],
-    [ "TearDown", "d4/d92/a29855.html#af04e05f17e03681ed018fe7622e3bab9", null ],
-    [ "previousWorld_", "d4/d92/a29855.html#afc7f861d24ec9258ee51ef5f76119843", null ],
-    [ "TemplateMinPlayers", "d4/d92/a29855.html#af00c207fc8284729e409df1588e9b006", null ],
-    [ "worldMock_", "d4/d92/a29855.html#a87098b65420dc95aa878a9a4b15490b5", null ]
+    [ "SetUp", "d4/d92/a29855.html#abb28ef64461635a540dad471b7b12ebc", null ],
+    [ "TearDown", "d4/d92/a29855.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
+    [ "_previousWorld", "d4/d92/a29855.html#a2633d21816e5aa3e4a649292f07a3369", null ],
+    [ "_worldMock", "d4/d92/a29855.html#ae1629c69438e29ea7be460120132b68b", null ],
+    [ "arenaTeams", "d4/d92/a29855.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
+    [ "team1", "d4/d92/a29855.html#a325d8058950e53d17e16fd90cd105776", null ],
+    [ "team2", "d4/d92/a29855.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
+    [ "team3", "d4/d92/a29855.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
 ];

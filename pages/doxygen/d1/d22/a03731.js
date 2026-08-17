@@ -1,12 +1,13 @@
 var a03731 =
 [
-    [ "instance_stratholme", "d5/dc6/a13643.html", "d5/dc6/a13643" ],
-    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "dd/d2d/a13647.html", "dd/d2d/a13647" ],
-    [ "AddSC_instance_stratholme", "d1/d22/a03731.html#add44fd9ad05267cc5db256b112db2585", null ],
-    [ "aGateTrap", "d1/d22/a03731.html#aa404f6799978911e2f0e4de3b4386c59", null ],
-    [ "aPlaguedCritters", "d1/d22/a03731.html#a4108af811b2731f9784942b89f333054", null ],
-    [ "BarthilasPos", "d1/d22/a03731.html#a3c5bc53064d7ed19146d61fbe2f25502", null ],
-    [ "BlackGuardPos", "d1/d22/a03731.html#a8ed1ccc03c022b129aa9bb9464fedd0a", null ],
-    [ "MindlessUndeadPos", "d1/d22/a03731.html#a1a89feed6c582c3bf3e51bf3a1027081", null ],
-    [ "SlaughterPos", "d1/d22/a03731.html#aec64d79cbf450b10fd485f2e559e0472", null ]
+    [ "instance_halls_of_lightning", "d3/d5e/a19983.html", "d3/d5e/a19983" ],
+    [ "instance_halls_of_lightning::instance_halls_of_lightning_InstanceMapScript", "d2/d43/a19987.html", "d2/d43/a19987" ],
+    [ "at_hol_hall_of_watchers", "d5/d96/a19991.html", "d5/d96/a19991" ],
+    [ "TitaniumHallwaySpells", "d1/d22/a03731.html#acb18ad00890035d01ae1c735f67fd0c8", [
+      [ "SPELL_FREEZE_ANIM", "d1/d22/a03731.html#acb18ad00890035d01ae1c735f67fd0c8a09463e66b152e3f856401806af0a4823", null ],
+      [ "SPELL_AWAKEN", "d1/d22/a03731.html#acb18ad00890035d01ae1c735f67fd0c8a76e1fd225869c359917096a4030f4799", null ]
+    ] ],
+    [ "AddSC_instance_halls_of_lightning", "d1/d22/a03731.html#acb5e7d848388449d05e307ed07fbcfc6", null ],
+    [ "doorData", "d1/d22/a03731.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "d1/d22/a03731.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
 ];

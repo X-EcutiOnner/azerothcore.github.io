@@ -1,8 +1,6 @@
 var a21959 =
 [
-    [ "npc_ravenous_worgAI", "d1/d67/a21959.html#a5404516869e171c84b774f2a7b8be15d", null ],
-    [ "AttackStart", "d1/d67/a21959.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
-    [ "UpdateAI", "d1/d67/a21959.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
-    [ "_attack", "d1/d67/a21959.html#a3df5c98821ba33a40e25e7b050858b96", null ],
-    [ "_pacified", "d1/d67/a21959.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
+    [ "npc_ravenous_worgAI", "d4/dbc/a21963.html", "d4/dbc/a21963" ],
+    [ "npc_ravenous_worg", "d1/d67/a21959.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "d1/d67/a21959.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

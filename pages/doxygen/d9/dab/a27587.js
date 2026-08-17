@@ -1,7 +1,7 @@
 var a27587 =
 [
-    [ "HandleScriptEffect", "d9/dab/a27587.html#a5bbcb05b82e0953c82f2a0d96bd79eab", null ],
-    [ "PrepareSpellScript", "d9/dab/a27587.html#a7462fbeab2254046e12a262418ec0d2c", null ],
-    [ "Register", "d9/dab/a27587.html#ac14625182eb0289d8536ac322500ab45", null ],
-    [ "Validate", "d9/dab/a27587.html#a190b802f3b09655886e5bbb9980375af", null ]
+    [ "AfterRemove", "d9/dab/a27587.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
+    [ "PrepareAuraScript", "d9/dab/a27587.html#af338af238305f1872275e1e5e9fdee16", null ],
+    [ "Register", "d9/dab/a27587.html#aa266e794be35b51a399b13ee2d06199d", null ],
+    [ "Validate", "d9/dab/a27587.html#af58098eb7a904e20846cf728f5adc18b", null ]
 ];

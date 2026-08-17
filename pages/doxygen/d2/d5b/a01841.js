@@ -1,11 +1,11 @@
 var a01841 =
 [
-    [ "SpellScriptLoader", "d7/d04/a10855.html", "d7/d04/a10855" ],
-    [ "GenericSpellAndAuraScriptLoader< Ts >", "df/d28/a10859.html", "df/d28/a10859" ],
-    [ "RegisterSpellAndAuraScriptPair", "d2/d5b/a01841.html#a69b21d1b83cecaba944f4e9379bc866c", null ],
-    [ "RegisterSpellAndAuraScriptPairWithArgs", "d2/d5b/a01841.html#aeffc3c8d08a35d5969c33508488e9051", null ],
-    [ "RegisterSpellScript", "d2/d5b/a01841.html#ae221e5976ab29ba14fec3b073a03670f", null ],
-    [ "RegisterSpellScriptWithArgs", "d2/d5b/a01841.html#aedecf91f4fce46852db865deae243e1f", null ],
-    [ "is_AuraScript", "d2/d5b/a01841.html#a08facc7292565931370e1cc514f726e1", null ],
-    [ "is_SpellScript", "d2/d5b/a01841.html#a2b573b538dcbf3da43ae603709d93bf2", null ]
+    [ "BanMgr", "df/db8/a10355.html", "df/db8/a10355" ],
+    [ "sBan", "d2/d5b/a01841.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
+    [ "BanReturn", "d2/d5b/a01841.html#a4dd4670ead55e2780d09a66ab39943a7", [
+      [ "BAN_SUCCESS", "d2/d5b/a01841.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
+      [ "BAN_SYNTAX_ERROR", "d2/d5b/a01841.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
+      [ "BAN_NOTFOUND", "d2/d5b/a01841.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
+      [ "BAN_LONGER_EXISTS", "d2/d5b/a01841.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
+    ] ]
 ];

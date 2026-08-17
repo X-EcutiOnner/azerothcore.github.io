@@ -1,8 +1,9 @@
 var a02369 =
 [
-    [ "CliThread", "dc/d96/a05060.html#ga2a2e263e5224262317a4728b5a4c18ac", null ],
-    [ "commandFinished", "dc/d96/a05060.html#gaf86bc63df807e80b7a14688e48340fea", null ],
-    [ "PrintCliPrefix", "dc/d96/a05060.html#ga6553c1ff0337c88fb9f9d94a97f49b9a", null ],
-    [ "utf8print", "dc/d96/a05060.html#gacf6bc075c8e41c95b5633526721136ce", null ],
-    [ "CLI_PREFIX", "dc/d96/a05060.html#ga77eabd925e8f9aa379616b264e287cea", null ]
+    [ "MapType", "df/def/a02369.html#a2a540ae6cb73c9914f0253464b155227", null ],
+    [ "Find", "df/def/a02369.html#a42d065468e6e62b7161ba0c17e1d75ea", null ],
+    [ "Insert", "df/def/a02369.html#a3ba44f9ba2a1ff4fd122944f95ef06bd", null ],
+    [ "Remove", "df/def/a02369.html#a8f833a3f02f1e431170dd5d052b0f919", null ],
+    [ "RemoveByName", "df/def/a02369.html#a9c5298580060e7a6078ffb5f4008c549", null ],
+    [ "PlayerNameMap", "df/def/a02369.html#aa8fcdd0ac947e92edddddd4e2daf61dd", null ]
 ];

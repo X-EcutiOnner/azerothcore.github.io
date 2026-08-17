@@ -1,25 +1,31 @@
 var a00752 =
 [
-    [ "UpdateData", "d4/d08/a08883.html", "d4/d08/a08883" ],
-    [ "OBJECT_UPDATE_FLAGS", "dd/d5c/a00752.html#af1fc105a57ed0bc535d17509e4ad5e9e", [
-      [ "UPDATEFLAG_NONE", "dd/d5c/a00752.html#af1fc105a57ed0bc535d17509e4ad5e9eab3f4d8eafca6e04f6b445bedda939799", null ],
-      [ "UPDATEFLAG_SELF", "dd/d5c/a00752.html#af1fc105a57ed0bc535d17509e4ad5e9eacb59b2f7a20c57e2dc11ad4a4a74195f", null ],
-      [ "UPDATEFLAG_TRANSPORT", "dd/d5c/a00752.html#af1fc105a57ed0bc535d17509e4ad5e9ea7b800b143915d7a9ea65020153cee3ca", null ],
-      [ "UPDATEFLAG_HAS_TARGET", "dd/d5c/a00752.html#af1fc105a57ed0bc535d17509e4ad5e9eae67f7342d7c369d11cfb6d50bea094dd", null ],
-      [ "UPDATEFLAG_UNKNOWN", "dd/d5c/a00752.html#af1fc105a57ed0bc535d17509e4ad5e9eab102319844f46e52393bb89975c591f7", null ],
-      [ "UPDATEFLAG_LOWGUID", "dd/d5c/a00752.html#af1fc105a57ed0bc535d17509e4ad5e9ea65f9bb0b19a3ecbc46fbe3b4573cb15b", null ],
-      [ "UPDATEFLAG_LIVING", "dd/d5c/a00752.html#af1fc105a57ed0bc535d17509e4ad5e9ea0eedb2f7b118804bb3fe89fde52d7632", null ],
-      [ "UPDATEFLAG_STATIONARY_POSITION", "dd/d5c/a00752.html#af1fc105a57ed0bc535d17509e4ad5e9ead20e13b8389c2680af0a59dc557d4ee1", null ],
-      [ "UPDATEFLAG_VEHICLE", "dd/d5c/a00752.html#af1fc105a57ed0bc535d17509e4ad5e9ea6dfc1770c97c7c1d8433e0e12ad47c51", null ],
-      [ "UPDATEFLAG_POSITION", "dd/d5c/a00752.html#af1fc105a57ed0bc535d17509e4ad5e9ea2e4269d3be94ff8f1f715c41c060222b", null ],
-      [ "UPDATEFLAG_ROTATION", "dd/d5c/a00752.html#af1fc105a57ed0bc535d17509e4ad5e9ea2a1fa785627688900bcc7bb221f1462a", null ]
-    ] ],
-    [ "OBJECT_UPDATE_TYPE", "dd/d5c/a00752.html#aa0f2952f4b375c0e91f5276ff267cbad", [
-      [ "UPDATETYPE_VALUES", "dd/d5c/a00752.html#aa0f2952f4b375c0e91f5276ff267cbada1fc033f630eab16bbf5b7ce7938d7bef", null ],
-      [ "UPDATETYPE_MOVEMENT", "dd/d5c/a00752.html#aa0f2952f4b375c0e91f5276ff267cbadac08838cdcba5218c53ea7745f5c0c370", null ],
-      [ "UPDATETYPE_CREATE_OBJECT", "dd/d5c/a00752.html#aa0f2952f4b375c0e91f5276ff267cbada4dc60011a5f19dc6c7d8ef61f9b10e20", null ],
-      [ "UPDATETYPE_CREATE_OBJECT2", "dd/d5c/a00752.html#aa0f2952f4b375c0e91f5276ff267cbadaf72ecfc1f4c6b5006f7985299cc2cd8f", null ],
-      [ "UPDATETYPE_OUT_OF_RANGE_OBJECTS", "dd/d5c/a00752.html#aa0f2952f4b375c0e91f5276ff267cbada5e1317f5c975a9e3a19c37922f49e089", null ],
-      [ "UPDATETYPE_NEAR_OBJECTS", "dd/d5c/a00752.html#aa0f2952f4b375c0e91f5276ff267cbada5017763e8c136985831c2ee1583795d5", null ]
-    ] ]
+    [ "SpellProcIntegrationTest", "d6/d2e/a30031.html", "d6/d2e/a30031" ],
+    [ "TEST_F", "dd/d5c/a00752.html#a2677d2b78a470299af367e337efabf5c", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#ac881562f8dafe0fc95cd8d8d7909ce79", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#aa064813f9fa646811ab3aeb1b0c6e23e", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#a76d4af367992ffa9da8915b0bc5ca28d", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#a582c53e48c4ab4a2d1d0a695c62c95d6", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#a6631313b640abc343b559260479040bc", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#a0f98e5578fccdc5fab8169c87314fd18", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#ab7dc82e964c4a43a5b8de72542405cbf", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#a9d6c0c00ff0c2e27e03100ab2562a155", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#adf16693434e2bdb467eec45e4cb9aca9", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#a57db0bc781c5b34c615d48beeb4fa174", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#ab8de2ca2bd2360aa03faf4c4f19b5180", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#adc9e24b4a2aa5138c4e71c8ef90c8d47", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#a938786843f128c05425e1815ea9b62e2", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#a10cac1e4cac41bbafe00d048a8d8317d", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#ae3ef055ed8d12af9f6f2066a1f8e6f1e", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#a2d0f8c29b3a0c4ed2c46f8113d98ad44", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#a06253dffeb237a28a08da59ed376fb52", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#a78bcf974c34f1de94051c541ecbd3490", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#a33dda9a05f9035d8ecb4dd3958b3ca41", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#a9981745ce0440564d4cee7e7a2573384", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#a87286abd2d627cd9a10cb7d8304f2c96", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#aef32eb9f961ac19a27290ed33e71a571", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#a745f635dd3273726daee29ade5f9cdf5", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#a8921c11f1578b950f6922adf20ae669b", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#ae9abc50c956c7d601bacf131fc3a2afe", null ],
+    [ "TEST_F", "dd/d5c/a00752.html#a4247fb6fa4c2d6498bc86e51d876dfd6", null ]
 ];

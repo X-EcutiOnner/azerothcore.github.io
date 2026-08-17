@@ -663,6 +663,7 @@ var a05121 =
       [ "RBAC_PERM_COMMAND_ACCOUNT_FLAG_LIST", "dd/db3/a05121.html#aa12620253ec88ac8516c1341cf7d8e04ad2c21dc636106c9fc30e9a8beaacc4e3", null ],
       [ "RBAC_PERM_COMMAND_ACCOUNT_FLAG_ADD", "dd/db3/a05121.html#aa12620253ec88ac8516c1341cf7d8e04ad73e07eee25980f89013a5552d2bbac4", null ],
       [ "RBAC_PERM_COMMAND_ACCOUNT_FLAG_REMOVE", "dd/db3/a05121.html#aa12620253ec88ac8516c1341cf7d8e04ad32c47667da35f0f85dcbe6919fb5b58", null ],
+      [ "RBAC_PERM_COMMAND_ACCOUNT_INFO", "dd/db3/a05121.html#aa12620253ec88ac8516c1341cf7d8e04a42ec12fa712bf10573102e94f725d5b9", null ],
       [ "RBAC_PERM_MAX", "dd/db3/a05121.html#aa12620253ec88ac8516c1341cf7d8e04a3008e1acaafec3f062b9e4303e84cead", null ]
     ] ],
     [ "GetDebugPermissionString", "dd/db3/a05121.html#ad45fe4229235a57fc4952a69ede78410", null ]

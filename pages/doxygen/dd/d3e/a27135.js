@@ -1,8 +1,7 @@
 var a27135 =
 [
-    [ "HandleDummy", "dd/d3e/a27135.html#a1afcd9c6ab96c87db8aa4899d0830899", null ],
-    [ "Load", "dd/d3e/a27135.html#a11d3cd0eccd4895f5cd9d2721bd3fd0c", null ],
-    [ "PrepareSpellScript", "dd/d3e/a27135.html#a252784bb4b438750db5ef7f905477140", null ],
-    [ "Register", "dd/d3e/a27135.html#ab93554e82cbed0c78452846c95247584", null ],
-    [ "Validate", "dd/d3e/a27135.html#a33404726f5e5986b263eb0a0beba9443", null ]
+    [ "HandleEffectPeriodic", "dd/d3e/a27135.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
+    [ "PrepareAuraScript", "dd/d3e/a27135.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
+    [ "Register", "dd/d3e/a27135.html#ac3741617faacf83a707f1359aab1886e", null ],
+    [ "Validate", "dd/d3e/a27135.html#a9378252b6711cc0bec3e63efce026495", null ]
 ];

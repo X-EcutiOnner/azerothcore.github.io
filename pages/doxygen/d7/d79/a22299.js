@@ -1,11 +1,6 @@
 var a22299 =
 [
-    [ "npc_iron_watcherAI", "d7/d79/a22299.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
-    [ "MovementInform", "d7/d79/a22299.html#aaf329f0160efa778abdebf86b1cf230b", null ],
-    [ "Reset", "d7/d79/a22299.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
-    [ "SpellHit", "d7/d79/a22299.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
-    [ "UpdateAI", "d7/d79/a22299.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
-    [ "charging", "d7/d79/a22299.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
-    [ "hpTimer", "d7/d79/a22299.html#afcbb113387345361baf0351a19e6eb1d", null ],
-    [ "spellTimer", "d7/d79/a22299.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
+    [ "npc_iron_watcherAI", "d3/de0/a22303.html", "d3/de0/a22303" ],
+    [ "npc_iron_watcher", "d7/d79/a22299.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
+    [ "GetAI", "d7/d79/a22299.html#af3b80b838e192737762ceed599b0be9a", null ]
 ];

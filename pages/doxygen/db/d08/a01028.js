@@ -1,12 +1,13 @@
 var a01028 =
 [
-    [ "WorldObjectScript", "df/d5e/a10844.html", "df/d5e/a10844" ],
-    [ "WorldObjectHook", "db/d08/a01028.html#ab8a14556853bd2637a19973d68ba6d1c", [
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_DESTROY", "db/d08/a01028.html#ab8a14556853bd2637a19973d68ba6d1ca19911e8e8d81b83808647214673201ce", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_CREATE", "db/d08/a01028.html#ab8a14556853bd2637a19973d68ba6d1caa4f7a14c3e5de3e6ace4c9a4bacc656c", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_SET_MAP", "db/d08/a01028.html#ab8a14556853bd2637a19973d68ba6d1ca06f900f1b11de87d54d283b4433d5100", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_RESET_MAP", "db/d08/a01028.html#ab8a14556853bd2637a19973d68ba6d1cac1f7c2d5eb2a8755ef8e628c8c769241", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_UPDATE", "db/d08/a01028.html#ab8a14556853bd2637a19973d68ba6d1ca7fcc241c6d7db7844d86f1d88fb06144", null ],
-      [ "WORLDOBJECTHOOK_END", "db/d08/a01028.html#ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59", null ]
-    ] ]
+    [ "AreaBoundary", "d5/d33/a10195.html", "d5/d33/a10195" ],
+    [ "AreaBoundary::DoublePosition", "d3/d45/a10199.html", "d3/d45/a10199" ],
+    [ "RectangleBoundary", "d7/df7/a10203.html", "d7/df7/a10203" ],
+    [ "CircleBoundary", "db/dd0/a10207.html", "db/dd0/a10207" ],
+    [ "EllipseBoundary", "d7/d0f/a10211.html", "d7/d0f/a10211" ],
+    [ "TriangleBoundary", "db/d6a/a10215.html", "db/d6a/a10215" ],
+    [ "ParallelogramBoundary", "dc/de0/a10219.html", "dc/de0/a10219" ],
+    [ "ZRangeBoundary", "de/db2/a10223.html", "de/db2/a10223" ],
+    [ "BoundaryUnionBoundary", "d6/d1e/a10227.html", "d6/d1e/a10227" ],
+    [ "BoundaryIntersectBoundary", "d1/db9/a10231.html", "d1/db9/a10231" ]
 ];

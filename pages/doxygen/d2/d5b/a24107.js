@@ -1,6 +1,9 @@
 var a24107 =
 [
-    [ "go_beaconAI", "de/d9a/a24111.html", "de/d9a/a24111" ],
-    [ "go_beacon", "d2/d5b/a24107.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
-    [ "GetAI", "d2/d5b/a24107.html#abd168f0c1ac9a64cece280758f3120d4", null ]
+    [ "npc_fel_guard_houndAI", "d2/d5b/a24107.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "d2/d5b/a24107.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "d2/d5b/a24107.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "d2/d5b/a24107.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "d2/d5b/a24107.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "d2/d5b/a24107.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

@@ -1,7 +1,7 @@
 var a24795 =
 [
-    [ "OnRemove", "d0/dca/a24795.html#aae9f02415a256ce01b81c3dd6fdafb33", null ],
-    [ "PrepareAuraScript", "d0/dca/a24795.html#ad27880f797137cae09381e860727e2f7", null ],
-    [ "Register", "d0/dca/a24795.html#a6c105609c1ee61a8f845018550b2e3ba", null ],
-    [ "Validate", "d0/dca/a24795.html#ac1f03d22c5fdb1c07a0e0859e08bd561", null ]
+    [ "CalculateAmount", "d0/dca/a24795.html#af51a8e22ddfe0648f08a4190d730fbda", null ],
+    [ "CheckProc", "d0/dca/a24795.html#a2f80dcd9e5922af55dee096c95079062", null ],
+    [ "PrepareAuraScript", "d0/dca/a24795.html#af54ef254d0897140255960146507e986", null ],
+    [ "Register", "d0/dca/a24795.html#ad6e4bd4390f6f88494984af792a11b90", null ]
 ];

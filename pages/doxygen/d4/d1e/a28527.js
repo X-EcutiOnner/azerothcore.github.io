@@ -1,8 +1,7 @@
 var a28527 =
 [
-    [ "npc_training_dummy", "d4/d1e/a28527.html#a7cf3b633e444d67dfaea6308e3ed2dc1", null ],
-    [ "DamageTaken", "d4/d1e/a28527.html#accd7c39cd7b22b30e654288b034f1319", null ],
-    [ "JustEnteredCombat", "d4/d1e/a28527.html#a2dad51de23663e7b0bf6bcd2ce86a290", null ],
-    [ "UpdateAI", "d4/d1e/a28527.html#abd6941fcfd3bdff557b38017bc74e83c", null ],
-    [ "_combatTimer", "d4/d1e/a28527.html#a6e2ed26a35fecc3fe6e1957c3ed47124", null ]
+    [ "npc_riggle_bassbaitAI", "d4/d1e/a28527.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "d4/d1e/a28527.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "d4/d1e/a28527.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "d4/d1e/a28527.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

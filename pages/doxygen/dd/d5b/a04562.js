@@ -1,72 +1,78 @@
 var a04562 =
 [
-    [ "npc_murkdeep", "dd/d67/a15895.html", "dd/d67/a15895" ],
-    [ "npc_murkdeep::npc_murkdeepAI", "d2/d76/a15899.html", "d2/d76/a15899" ],
-    [ "npc_kerlonian", "d7/d10/a15903.html", "d7/d10/a15903" ],
-    [ "npc_kerlonian::npc_kerlonianAI", "db/de1/a15907.html", "db/de1/a15907" ],
-    [ "npc_prospector_remtravel", "d8/d43/a15911.html", "d8/d43/a15911" ],
-    [ "npc_prospector_remtravel::npc_prospector_remtravelAI", "dc/dde/a15915.html", "dc/dde/a15915" ],
-    [ "npc_rabid_thistle_bear", "d1/d5c/a15919.html", "d1/d5c/a15919" ],
-    [ "npc_rabid_thistle_bear::npc_rabid_thistle_bearAI", "d9/da4/a15923.html", "d9/da4/a15923" ],
-    [ "npc_tharnarian", "db/de4/a15927.html", "db/de4/a15927" ],
-    [ "npc_tharnarian::npc_tharnarianAI", "d1/d5c/a15931.html", "d1/d5c/a15931" ],
-    [ "eRabidThistleBear", "dd/d5b/a04562.html#a41f52498613aa16c9300932cba880113", [
-      [ "EVENT_CHECK_FOLLOWING", "dd/d5b/a04562.html#a41f52498613aa16c9300932cba880113afc9a5167ea507996052a95d856dfd773", null ],
-      [ "NPC_RABID_THISTLE_BEAR", "dd/d5b/a04562.html#a41f52498613aa16c9300932cba880113abcc4c74b391ab174a8afb399448b9d29", null ],
-      [ "NPC_CAPTURED_RABID_THISTLE_BEAR", "dd/d5b/a04562.html#a41f52498613aa16c9300932cba880113a82376446e39e8a31814c9a9bdbb072cd", null ],
-      [ "OBJECT_BEAR_TRAP", "dd/d5b/a04562.html#a41f52498613aa16c9300932cba880113a582cc04fae035c7d569841f59fc2e7ec", null ],
-      [ "QUEST_PLAGUED_LANDS", "dd/d5b/a04562.html#a41f52498613aa16c9300932cba880113a7e08bbd5183ab9db7b82183b0e522ced", null ],
-      [ "SPELL_BEAR_CAPTURED_IN_TRAP", "dd/d5b/a04562.html#a41f52498613aa16c9300932cba880113aabd6de46cc001c141b9bb935b6d6e973", null ],
-      [ "SPELL_THARNARIUMS_HEAL", "dd/d5b/a04562.html#a41f52498613aa16c9300932cba880113a985068da63d152b57387158a48c3fb60", null ]
+    [ "spell_q10930_big_bone_worm", "d2/d62/a24331.html", "d2/d62/a24331" ],
+    [ "spell_q10930_big_bone_worm_aura", "da/dea/a24335.html", "da/dea/a24335" ],
+    [ "spell_q10929_fumping", "d3/d81/a24339.html", "d3/d81/a24339" ],
+    [ "spell_q10929_fumping_aura", "df/d7c/a24343.html", "df/d7c/a24343" ],
+    [ "spell_q10036_torgos", "d0/db6/a24347.html", "d0/db6/a24347" ],
+    [ "spell_q10923_evil_draws_near_summon", "d2/daf/a24351.html", "d2/daf/a24351" ],
+    [ "spell_q10923_evil_draws_near_periodic_aura", "d5/d06/a24355.html", "d5/d06/a24355" ],
+    [ "spell_q10923_evil_draws_near_visual", "da/d2a/a24359.html", "da/d2a/a24359" ],
+    [ "spell_q10898_skywing", "dd/d76/a24363.html", "dd/d76/a24363" ],
+    [ "npc_unkor_the_ruthless", "d0/d3d/a24367.html", "d0/d3d/a24367" ],
+    [ "npc_unkor_the_ruthless::npc_unkor_the_ruthlessAI", "d3/dbe/a24371.html", "d3/dbe/a24371" ],
+    [ "npc_isla_starmane", "d3/d81/a24375.html", "d3/d81/a24375" ],
+    [ "npc_isla_starmane::npc_isla_starmaneAI", "df/dc7/a24379.html", "df/dc7/a24379" ],
+    [ "go_skull_pile", "dd/d9b/a24383.html", "dd/d9b/a24383" ],
+    [ "go_ancient_skull_pile", "d5/d7e/a24387.html", "d5/d7e/a24387" ],
+    [ "AncientSkullPile", "dd/d5b/a04562.html#a64b23573db3082d7e53f25e57c765a39", [
+      [ "ITEM_TIME_LOST_OFFERING", "dd/d5b/a04562.html#a64b23573db3082d7e53f25e57c765a39a9518eccb8f2091e25757305c7df45735", null ],
+      [ "SPELL_SUMMON_TEROKK", "dd/d5b/a04562.html#a64b23573db3082d7e53f25e57c765a39a060ed19ca52e3aad49e15a5c676391da", null ],
+      [ "GOSSIP_MENU_ANCIENT_SKULL_PILE", "dd/d5b/a04562.html#a64b23573db3082d7e53f25e57c765a39aba1816dec6964a547d88e1fb02f60288", null ],
+      [ "GOSSIP_MENU_TEXT_ANCIENT_SKULL_PILE", "dd/d5b/a04562.html#a64b23573db3082d7e53f25e57c765a39afcc4ad64be5adf59fd88632315f6824c", null ]
     ] ],
-    [ "eTharnarian", "dd/d5b/a04562.html#a0ed292ffd1cc9307544572174ebb1c8d", [
-      [ "EVENT_POST_QUEST_ONE", "dd/d5b/a04562.html#a0ed292ffd1cc9307544572174ebb1c8da8f0c38f6926a9d2ea4c92a385b85576e", null ],
-      [ "EVENT_POST_QUEST_TWO", "dd/d5b/a04562.html#a0ed292ffd1cc9307544572174ebb1c8da8a18edfe68309d79d2422870dfeb24fa", null ],
-      [ "EVENT_POST_QUEST_THREE", "dd/d5b/a04562.html#a0ed292ffd1cc9307544572174ebb1c8daa0a2f7760b9fc9df9d7b4255b3976abe", null ],
-      [ "ITEM_THARNARIUMS_HOPE", "dd/d5b/a04562.html#a0ed292ffd1cc9307544572174ebb1c8dac5c8eb102b15e74d556b069cac6ddc25", null ],
-      [ "GUID_SCRIPT_INVOKER", "dd/d5b/a04562.html#a0ed292ffd1cc9307544572174ebb1c8da3d14f447258cd817fac5103e8c4f74f0", null ],
-      [ "SAY_BE_CLEANSED", "dd/d5b/a04562.html#a0ed292ffd1cc9307544572174ebb1c8daffaa4db0aeaf6f79c1138ddb1c41ba00", null ]
+    [ "eQ10923EvilDrawsNear", "dd/d5b/a04562.html#aac8f425764fbd137acd527c44a8217e5", [
+      [ "SPELL_DUSTIN_UNDEAD_DRAGON_VISUAL1", "dd/d5b/a04562.html#aac8f425764fbd137acd527c44a8217e5a148039a82148e121ffa2e47d4037c198", null ],
+      [ "SPELL_DUSTIN_UNDEAD_DRAGON_VISUAL2", "dd/d5b/a04562.html#aac8f425764fbd137acd527c44a8217e5a9f54f32a1b40bdd5f44006b6f874054b", null ],
+      [ "SPELL_DUSTIN_UNDEAD_DRAGON_VISUAL_AURA", "dd/d5b/a04562.html#aac8f425764fbd137acd527c44a8217e5a432569d14dc34cb8000687d2dedb8394", null ],
+      [ "NPC_AUCHENAI_DEATH_SPIRIT", "dd/d5b/a04562.html#aac8f425764fbd137acd527c44a8217e5aa58ecb32d07f194ffe4e46f4245770c4", null ]
     ] ],
-    [ "Kerlonian", "dd/d5b/a04562.html#a3338171c123af20526d919ca7eaed39b", [
-      [ "SAY_KER_START", "dd/d5b/a04562.html#a3338171c123af20526d919ca7eaed39babc3ac66a100caa89874b07646256039b", null ],
-      [ "EMOTE_KER_SLEEP", "dd/d5b/a04562.html#a3338171c123af20526d919ca7eaed39baded26e804078d12b45f712b505fbf25e", null ],
-      [ "SAY_KER_SLEEP", "dd/d5b/a04562.html#a3338171c123af20526d919ca7eaed39bab9c834eabdfaafbe7767d905507ca5ad", null ],
-      [ "SAY_KER_ALERT_1", "dd/d5b/a04562.html#a3338171c123af20526d919ca7eaed39ba36911462093829fe884e4cb6a2e127af", null ],
-      [ "SAY_KER_END", "dd/d5b/a04562.html#a3338171c123af20526d919ca7eaed39baf7e03539ce3753f881a9dd3e893b7ba3", null ],
-      [ "EMOTE_KER_AWAKEN", "dd/d5b/a04562.html#a3338171c123af20526d919ca7eaed39bac2881d53a673452d7258ee2bef83a84f", null ],
-      [ "SPELL_SLEEP_VISUAL", "dd/d5b/a04562.html#a3338171c123af20526d919ca7eaed39ba1f4283bc035f04b15b35f91f5bdbea9a", null ],
-      [ "SPELL_AWAKEN", "dd/d5b/a04562.html#a3338171c123af20526d919ca7eaed39ba76e1fd225869c359917096a4030f4799", null ],
-      [ "SPELL_BEAR_FORM", "dd/d5b/a04562.html#a3338171c123af20526d919ca7eaed39ba3061724d7785d585b14cfc45699157cf", null ],
-      [ "QUEST_SLEEPER_AWAKENED", "dd/d5b/a04562.html#a3338171c123af20526d919ca7eaed39ba702550ccecae90a75919e9f9b665d436", null ],
-      [ "NPC_LILADRIS", "dd/d5b/a04562.html#a3338171c123af20526d919ca7eaed39bab51082ac5d4aacd1d44e0406af8e5358", null ]
+    [ "fumping", "dd/d5b/a04562.html#ab162634ca3ea951211b5f98c1f38600e", [
+      [ "SPELL_SUMMON_SAND_GNOME1", "dd/d5b/a04562.html#ab162634ca3ea951211b5f98c1f38600ea58105c110347cf397ccfc57071de9e6d", null ],
+      [ "SPELL_SUMMON_SAND_GNOME3", "dd/d5b/a04562.html#ab162634ca3ea951211b5f98c1f38600eaf41287c8042d2072d6bd76e64418be4d", null ],
+      [ "SPELL_SUMMON_MATURE_BONE_SIFTER1", "dd/d5b/a04562.html#ab162634ca3ea951211b5f98c1f38600eabff566ebb7d0c47191ca8cdf21d0feba", null ],
+      [ "SPELL_SUMMON_MATURE_BONE_SIFTER3", "dd/d5b/a04562.html#ab162634ca3ea951211b5f98c1f38600eab503a39610eed1540f9d059d02ea0a9b", null ],
+      [ "SPELL_SUMMON_HAISHULUD", "dd/d5b/a04562.html#ab162634ca3ea951211b5f98c1f38600ea5b638aaec8858d63e038561f1bdd34cc", null ]
     ] ],
-    [ "murkdeep", "dd/d5b/a04562.html#a28d336f7a4c4779d0ac960ac128faf22", [
-      [ "NPC_GREYMIST_HUNTER", "dd/d5b/a04562.html#a28d336f7a4c4779d0ac960ac128faf22a7baf0aab301c57d676de1ce0f3a36839", null ],
-      [ "NPC_GREYMIST_WARRIOR", "dd/d5b/a04562.html#a28d336f7a4c4779d0ac960ac128faf22ab68a89ef67b8c9488015e04f7631d449", null ],
-      [ "NPC_GREYMIST_COASTRUNNER", "dd/d5b/a04562.html#a28d336f7a4c4779d0ac960ac128faf22a7ca2c4b7931eee3f66055780c5e0ebac", null ],
-      [ "SPELL_SUNDER_ARMOR", "dd/d5b/a04562.html#a28d336f7a4c4779d0ac960ac128faf22a99eaf912c120c7fa6d85748ebf96aebb", null ],
-      [ "SPELL_NET", "dd/d5b/a04562.html#a28d336f7a4c4779d0ac960ac128faf22ad629b7c9e5a74890e7d6a77a13a38bcf", null ],
-      [ "EVENT_SPELL_SUNDER_ARMOR", "dd/d5b/a04562.html#a28d336f7a4c4779d0ac960ac128faf22acda9c7ee6bb48504f6800c78f59f881a", null ],
-      [ "EVENT_SPELL_NET", "dd/d5b/a04562.html#a28d336f7a4c4779d0ac960ac128faf22a3390cb09d109972288a2c865f7ce297d", null ]
+    [ "IslaStarmaneData", "dd/d5b/a04562.html#ae0ce6b8c904e723fea8344c9e2a6c468", [
+      [ "SAY_PROGRESS_1", "dd/d5b/a04562.html#ae0ce6b8c904e723fea8344c9e2a6c468ac7ef023ed2cd6e71dcfa4b57f34ffb21", null ],
+      [ "SAY_PROGRESS_2", "dd/d5b/a04562.html#ae0ce6b8c904e723fea8344c9e2a6c468a967473f354dae95832b5e82733f4cced", null ],
+      [ "SAY_PROGRESS_3", "dd/d5b/a04562.html#ae0ce6b8c904e723fea8344c9e2a6c468a25cbd1006b2e610756fbd3227fb87dcc", null ],
+      [ "SAY_PROGRESS_4", "dd/d5b/a04562.html#ae0ce6b8c904e723fea8344c9e2a6c468a6b3669f06730a37dadd060c3dc0b999f", null ],
+      [ "QUEST_EFTW_H", "dd/d5b/a04562.html#ae0ce6b8c904e723fea8344c9e2a6c468a0e41f71f431fea698370ec15a6a78f71", null ],
+      [ "QUEST_EFTW_A", "dd/d5b/a04562.html#ae0ce6b8c904e723fea8344c9e2a6c468a8b79958f3e4c99d2e5db1bbb46672d43", null ],
+      [ "GO_CAGE", "dd/d5b/a04562.html#ae0ce6b8c904e723fea8344c9e2a6c468ab8d35951eed2c9e47bed2aa4da3fab8b", null ],
+      [ "SPELL_CAT", "dd/d5b/a04562.html#ae0ce6b8c904e723fea8344c9e2a6c468a60c2ade102a5c8cff3056e1998a8feb9", null ],
+      [ "EVENT_SPELL_WRATH", "dd/d5b/a04562.html#ae0ce6b8c904e723fea8344c9e2a6c468ab55c0e246afb46a9c3feb1a24b9735db", null ],
+      [ "EVENT_SPELL_MOONFIRE", "dd/d5b/a04562.html#ae0ce6b8c904e723fea8344c9e2a6c468a89249acef2d72d2d2cefbd270ca8d5e6", null ],
+      [ "EVENT_SPELL_ENTANGLING_ROOTS", "dd/d5b/a04562.html#ae0ce6b8c904e723fea8344c9e2a6c468abcfceb9776fee2423d4c06cb12c6a157", null ],
+      [ "SPELL_WRATH", "dd/d5b/a04562.html#ae0ce6b8c904e723fea8344c9e2a6c468abe500eadf9d63f2f5340e4b8a94a118f", null ],
+      [ "SPELL_MOONFIRE", "dd/d5b/a04562.html#ae0ce6b8c904e723fea8344c9e2a6c468a0ca70102f1e7ebc514c9875b92e5490b", null ],
+      [ "SPELL_ENTANGLING_ROOTS", "dd/d5b/a04562.html#ae0ce6b8c904e723fea8344c9e2a6c468a366705ee88fada6cb8aa2dab3dcd3cee", null ]
     ] ],
-    [ "Remtravel", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56", [
-      [ "SAY_REM_START", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56a62a229671a25cfaddf81e1a1cc12742d", null ],
-      [ "SAY_REM_AGGRO", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56aed18934bce8f8e8f07d934c5ade27be4", null ],
-      [ "SAY_REM_RAMP1_1", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56a563fab7afb0590de4521bbd73728998b", null ],
-      [ "SAY_REM_RAMP1_2", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56a4e8e2f5b39b89c40c050971d3767a745", null ],
-      [ "SAY_REM_BOOK", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56a965facd3db5184c90115e1a829b99cf0", null ],
-      [ "SAY_REM_TENT1_1", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56ad3345c1e7f8e714d0e9118c1c1ccdb79", null ],
-      [ "SAY_REM_TENT1_2", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56aa157db4b86b4d1de81e174d18934d2dc", null ],
-      [ "SAY_REM_MOSS", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56a538e937677e0f34b53fd87d21dede8bb", null ],
-      [ "EMOTE_REM_MOSS", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56a33b775990c585ad8d13c71081dc3b1c4", null ],
-      [ "SAY_REM_MOSS_PROGRESS", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56a1275f169479aee3e508a7c8cc63528ae", null ],
-      [ "SAY_REM_PROGRESS", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56afe4a0e889c848aa951c477b92846a808", null ],
-      [ "SAY_REM_REMEMBER", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56ac35ea1e7f866d747cbdee9f0d5bb6bac", null ],
-      [ "EMOTE_REM_END", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56a3d07e1988da097fde7e1fb3b569be5ef", null ],
-      [ "QUEST_ABSENT_MINDED_PT2", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56aef8f51392044131efa5c56c2e87b1185", null ],
-      [ "NPC_GRAVEL_SCOUT", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56aed815d857586fe880614e6b84a935d35", null ],
-      [ "NPC_GRAVEL_BONE", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56a720b19c0296bc27aa09d85fc7c020307", null ],
-      [ "NPC_GRAVEL_GEO", "dd/d5b/a04562.html#a4a231f21241510908fe1bab1745bec56a33fbb8b046204271ed26d265cbf6c9d3", null ]
+    [ "q10036Torgos", "dd/d5b/a04562.html#a2a367fc7cac7bf28a805617c33b2ccf9", [
+      [ "NPC_TORGOS", "dd/d5b/a04562.html#a2a367fc7cac7bf28a805617c33b2ccf9a5d78efaeb0f7b6c08cdd646bfbdaf2f7", null ]
     ] ],
-    [ "AddSC_darkshore", "dd/d5b/a04562.html#aea2746bdf2fc046053c962d9025651d1", null ]
+    [ "SkullPile", "dd/d5b/a04562.html#aad52625e74763db1be908eb68d6f1747", [
+      [ "QUEST_ADVERSARIAL_BLOOD", "dd/d5b/a04562.html#aad52625e74763db1be908eb68d6f1747a778fa3329cf61d166a6168c371359e29", null ],
+      [ "GOSSIP_MENU_SKULL_PILE", "dd/d5b/a04562.html#aad52625e74763db1be908eb68d6f1747a2e42b2a84bd5543395edd99e10836308", null ],
+      [ "GOSSIP_MENU_TEXT_SKULL_PILE", "dd/d5b/a04562.html#aad52625e74763db1be908eb68d6f1747a4421c9274f70eeecac8c2001d6d3c217", null ],
+      [ "GOSSIP_MENU_TEXT_SKULL_PILE_QUEST", "dd/d5b/a04562.html#aad52625e74763db1be908eb68d6f1747af25d41b2abf38359aaa4e9a6e7813985", null ],
+      [ "GOSSIP_OPTION_SUMMON_GEZZARAK_THE_HUNTRESS", "dd/d5b/a04562.html#aad52625e74763db1be908eb68d6f1747ab8d817f19c8a0ee26e791ad4a270d090", null ],
+      [ "GOSSIP_OPTION_SUMMON_DARKSCREECHER_AKKARAI", "dd/d5b/a04562.html#aad52625e74763db1be908eb68d6f1747a21b76a2a227226c67cc717f339694e90", null ],
+      [ "GOSSIP_OPTION_SUMMON_KARROG", "dd/d5b/a04562.html#aad52625e74763db1be908eb68d6f1747a8c1471c1cbdafc84aac25cc6ea9e703f", null ],
+      [ "GOSSIP_OPTION_SUMMON_VAKKIZ_THE_WINDRAGER", "dd/d5b/a04562.html#aad52625e74763db1be908eb68d6f1747ab01073d031c0a97242ef078283d2cbd6", null ],
+      [ "SPELL_SUMMON_GEZZARAK_THE_HUNTRESS", "dd/d5b/a04562.html#aad52625e74763db1be908eb68d6f1747abc3ff3d2bb8ed64fd58c4f5eb6cc4cb8", null ],
+      [ "SPELL_SUMMON_DARKSCREECHER_AKKARAI", "dd/d5b/a04562.html#aad52625e74763db1be908eb68d6f1747add0291da1877a5245c1d72118dda56cd", null ],
+      [ "SPELL_SUMMON_KARROG", "dd/d5b/a04562.html#aad52625e74763db1be908eb68d6f1747a941c2f8289835f0d4d722d36f99771d2", null ],
+      [ "SPELL_SUMMON_VAKKIZ_THE_WINDRAGER", "dd/d5b/a04562.html#aad52625e74763db1be908eb68d6f1747a5d006fae9f9d39fb5ffa345a83679bf0", null ]
+    ] ],
+    [ "UnkorTheRuthless", "dd/d5b/a04562.html#a88cc97a269783b482b7b90a366327e02", [
+      [ "SAY_SUBMIT", "dd/d5b/a04562.html#a88cc97a269783b482b7b90a366327e02ac438d344c95f2fc9bceaf8955f07a62c", null ],
+      [ "FACTION_HOSTILE", "dd/d5b/a04562.html#a88cc97a269783b482b7b90a366327e02a9f091068e93fe04fde1b2d77d34d5fcf", null ],
+      [ "QUEST_DONTKILLTHEFATONE", "dd/d5b/a04562.html#a88cc97a269783b482b7b90a366327e02ac9b055761d26e7020af8fca0ad0914e8", null ],
+      [ "SPELL_PULVERIZE", "dd/d5b/a04562.html#a88cc97a269783b482b7b90a366327e02a69dd71f7b0eefec5bcdd15cddbb128d6", null ],
+      [ "SUBMIT_DURATION", "dd/d5b/a04562.html#a88cc97a269783b482b7b90a366327e02a90adcab84495ca594eeb6530798a7afe", null ]
+    ] ],
+    [ "AddSC_terokkar_forest", "dd/d5b/a04562.html#a06eb16b2a9cfacc1641cf49759c7615e", null ]
 ];

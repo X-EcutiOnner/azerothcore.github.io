@@ -1,19 +1,12 @@
 var a00329 =
 [
-    [ "VMAP::AreaAndLiquidData", "d9/dba/a05287.html", "d9/dba/a05287" ],
-    [ "VMAP::AreaAndLiquidData::AreaInfo", "d8/dbd/a05291.html", "d8/dbd/a05291" ],
-    [ "VMAP::AreaAndLiquidData::LiquidInfo", "d1/df2/a05295.html", "d1/df2/a05295" ],
-    [ "VMAP::IVMapMgr", "db/d87/a05299.html", "db/d87/a05299" ],
-    [ "VMAP_INVALID_HEIGHT", "dd/d4e/a00329.html#aa3e862468079e7d1ca850fab429fb316", null ],
-    [ "VMAP_INVALID_HEIGHT_VALUE", "dd/d4e/a00329.html#a6d0d846568e1fbb60e05aacfa9c1c73c", null ],
-    [ "LoadResult", "dd/d4e/a00329.html#a3ca4e45c9be5012fb1af06ea12b759c2", [
-      [ "Success", "dd/d4e/a00329.html#a3ca4e45c9be5012fb1af06ea12b759c2a505a83f220c02df2f85c3810cd9ceb38", null ],
-      [ "FileNotFound", "dd/d4e/a00329.html#a3ca4e45c9be5012fb1af06ea12b759c2a2767828026039e8ba7b38973cbb701f2", null ],
-      [ "VersionMismatch", "dd/d4e/a00329.html#a3ca4e45c9be5012fb1af06ea12b759c2a2d50084f04994afa70d78b604a22dd31", null ]
-    ] ],
-    [ "VMAP_LOAD_RESULT", "dd/d4e/a00329.html#a70f18a0d29fcdc21e145ab8306987b18", [
-      [ "VMAP_LOAD_RESULT_ERROR", "dd/d4e/a00329.html#a70f18a0d29fcdc21e145ab8306987b18a514fc6255627123117d881d4968bf663", null ],
-      [ "VMAP_LOAD_RESULT_OK", "dd/d4e/a00329.html#a70f18a0d29fcdc21e145ab8306987b18a942b44b8a6db80f6d4ab19ebad17192b", null ],
-      [ "VMAP_LOAD_RESULT_IGNORED", "dd/d4e/a00329.html#a70f18a0d29fcdc21e145ab8306987b18addac30ca7168c74f716b6923498e0165", null ]
-    ] ]
+    [ "EnumFlag< T >", "d0/d5b/a05827.html", "d0/d5b/a05827" ],
+    [ "DEFINE_ENUM_FLAG", "dd/d4e/a00329.html#a9f556f9c539f21ae6fd639abe4c39c75", null ],
+    [ "IsFlag", "dd/d4e/a00329.html#a7294b75cb336d554d5ce2b75b05c37d6", null ],
+    [ "IsEnumFlag", "dd/d4e/a00329.html#ae0992e010612850442fc56bcf2d44b47", null ],
+    [ "operator&", "dd/d4e/a00329.html#a27ef39aed098304d7387af8257f7cee3", null ],
+    [ "operator&=", "dd/d4e/a00329.html#a24a78ca9e9dcd1b92829560e580c3134", null ],
+    [ "operator|", "dd/d4e/a00329.html#ac8aaa198de31cb5a3b217d0968f30a3b", null ],
+    [ "operator|=", "dd/d4e/a00329.html#a7808a2b72bed2b70553d802ed11e27c4", null ],
+    [ "operator~", "dd/d4e/a00329.html#abe3f4d2eafbceebe9ec46ffcd15cfa76", null ]
 ];

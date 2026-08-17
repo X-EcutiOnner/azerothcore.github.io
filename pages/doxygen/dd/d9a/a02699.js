@@ -1,61 +1,19 @@
 var a02699 =
 [
-    [ "npc_attracted_reef_bull", "d2/d83/a22023.html", "d2/d83/a22023" ],
-    [ "npc_attracted_reef_bull::npc_attracted_reef_bullAI", "d2/d13/a22027.html", "d2/d13/a22027" ],
-    [ "npc_plaguehound_tracker", "da/d0f/a22031.html", "da/d0f/a22031" ],
-    [ "npc_plaguehound_tracker::npc_plaguehound_trackerAI", "d5/dfa/a22035.html", "d5/dfa/a22035" ],
-    [ "npc_rodin_lightning_enabler", "d2/daf/a22039.html", "d2/daf/a22039" ],
-    [ "spell_hawk_hunting", "db/d18/a22043.html", "db/d18/a22043" ],
-    [ "spell_the_cleansing_shrine_cast", "d9/d8e/a22047.html", "d9/d8e/a22047" ],
-    [ "spell_the_cleansing_cleansing_soul", "d6/d1b/a22051.html", "d6/d1b/a22051" ],
-    [ "spell_the_cleansing_mirror_image_script_effect", "db/dfe/a22055.html", "db/dfe/a22055" ],
-    [ "spell_the_cleansing_on_death_cast_on_master", "d7/de1/a22059.html", "d7/de1/a22059" ],
-    [ "spell_q11296_rivenwood_captives", "df/d8a/a22063.html", "df/d8a/a22063" ],
-    [ "spell_sorlofs_booty_boulder_assault", "d0/d61/a22067.html", "d0/d61/a22067" ],
-    [ "spell_sorlofs_booty_boulder_assault_hit", "d9/d4e/a22071.html", "d9/d4e/a22071" ],
-    [ "npc_sorlof", "da/d67/a22075.html", "da/d67/a22075" ],
-    [ "go_sister_mercy", "d7/dac/a22079.html", "d7/dac/a22079" ],
-    [ "spell_sorlofs_booty_cannon_primer", "d4/dda/a22083.html", "d4/dda/a22083" ],
-    [ "spell_sorlofs_booty_big_gun_assault", "d7/d55/a22087.html", "d7/d55/a22087" ],
-    [ "HawkHunting", "dd/d9a/a02699.html#a096cc98a9aabe12e9a0d16fa3f6c7467", [
-      [ "SPELL_HAWK_HUNTING_ITEM", "dd/d9a/a02699.html#a096cc98a9aabe12e9a0d16fa3f6c7467a6ec995a1ccedcab945036b6b96fbfa2e", null ]
-    ] ],
-    [ "RivenwoodCaptives", "dd/d9a/a02699.html#a0406b0504bb5489bd1e1ab3bed6f8277", [
-      [ "SPELL_CAPTIVES_ON_QUEST", "dd/d9a/a02699.html#a0406b0504bb5489bd1e1ab3bed6f8277a7bfc24991745469431169752d0058a63", null ],
-      [ "SPELL_CAPTIVES_NOT_ON_QUEST", "dd/d9a/a02699.html#a0406b0504bb5489bd1e1ab3bed6f8277a37010e6e918f8e727f5afc293cf8e30a", null ],
-      [ "SPELL_SUMMON_FREED_SCOUT", "dd/d9a/a02699.html#a0406b0504bb5489bd1e1ab3bed6f8277a1ccdfe1bb552098d0947fa44fa4f968b", null ],
-      [ "SPELL_SUMMON_HOSTILE_START", "dd/d9a/a02699.html#a0406b0504bb5489bd1e1ab3bed6f8277a1885e281fc6c851167b2d24e2d127dea", null ],
-      [ "SPELL_SUMMON_HOSTILE_END", "dd/d9a/a02699.html#a0406b0504bb5489bd1e1ab3bed6f8277ad96433fe5596e69387c53a4432c0c27c", null ],
-      [ "NPC_FREED_SCOUT", "dd/d9a/a02699.html#a0406b0504bb5489bd1e1ab3bed6f8277a35332072efc4bb98475ab7ee56aa91e2", null ]
-    ] ],
-    [ "RodinLightningSpells", "dd/d9a/a02699.html#a80e7ba946308fea1c6de5c21365652f3", [
-      [ "SPELL_RODIN_LIGHTNING_START", "dd/d9a/a02699.html#a80e7ba946308fea1c6de5c21365652f3a7fbdcf0c94df64ba932ea4666d375a4c", null ],
-      [ "SPELL_RODIN_LIGHTNING_END", "dd/d9a/a02699.html#a80e7ba946308fea1c6de5c21365652f3ab99cec97c6cf09d8ae5863d97e4c1632", null ],
-      [ "NPC_RODIN", "dd/d9a/a02699.html#a80e7ba946308fea1c6de5c21365652f3adc9bd59249c9654d416ff92475586895", null ]
-    ] ],
-    [ "SorlofsBooty", "dd/d9a/a02699.html#a9b0df0995abb2c580c7117164c0fe412", [
-      [ "NPC_SORLOF", "dd/d9a/a02699.html#a9b0df0995abb2c580c7117164c0fe412a6b91d4916a28ca9e8f5f0a7e58ac782c", null ],
-      [ "NPC_THE_BIG_GUN", "dd/d9a/a02699.html#a9b0df0995abb2c580c7117164c0fe412a16440cc96fba85c5655f1feb857617eb", null ],
-      [ "SPELL_CANNON_ASSAULT", "dd/d9a/a02699.html#a9b0df0995abb2c580c7117164c0fe412a1ac403210372edba1912237a4bffab1b", null ],
-      [ "SPELL_SORLOFS_BOOTY", "dd/d9a/a02699.html#a9b0df0995abb2c580c7117164c0fe412a4a18ec19a078c73f999849b24da29998", null ],
-      [ "SPELL_BOULDER_ASSAULT_HIT", "dd/d9a/a02699.html#a9b0df0995abb2c580c7117164c0fe412a0d6d9e0cef3cc72d569e3bc33cc1643c", null ],
-      [ "SPELL_BOULDER_ASSAULT_FIRE", "dd/d9a/a02699.html#a9b0df0995abb2c580c7117164c0fe412aeb0f61cfe86d8389293c12afc462b20b", null ],
-      [ "CANNON_RANGE", "dd/d9a/a02699.html#a9b0df0995abb2c580c7117164c0fe412a2e03b8b9b60dbac5373ac9198194a032", null ],
-      [ "SORLOF_SEARCH_RANGE", "dd/d9a/a02699.html#a9b0df0995abb2c580c7117164c0fe412ae3736f36f4a37f82e18c990768aafcb7", null ],
-      [ "SORLOF_WANDER_DISTANCE", "dd/d9a/a02699.html#a9b0df0995abb2c580c7117164c0fe412a67cbee815f4640095477c5d20479eb18", null ],
-      [ "DATA_SORLOF_TAKE_PATH", "dd/d9a/a02699.html#a9b0df0995abb2c580c7117164c0fe412ae162148a53be28931e224def26605a53", null ],
-      [ "POINT_SORLOF_PATH", "dd/d9a/a02699.html#a9b0df0995abb2c580c7117164c0fe412ac678a1b17523f5492751a293a75345d7", null ],
-      [ "PATH_SORLOF_RETURN", "dd/d9a/a02699.html#a9b0df0995abb2c580c7117164c0fe412a6cac2f4cbb29c446a7057b5ac20583da", null ],
-      [ "DATA_SORLOF_SLAIN", "dd/d9a/a02699.html#a9b0df0995abb2c580c7117164c0fe412ac52adc3e8dade13f25f82240a231b639", null ]
-    ] ],
-    [ "TheCleansing", "dd/d9a/a02699.html#a72e1fc2fb7f2d445c9e22195c32dfe0c", [
-      [ "SPELL_CLEANSING_SOUL", "dd/d9a/a02699.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca85c707f1dd04c7a7bcbd939bf09f2bf1", null ],
-      [ "SPELL_SUMMON_INNER_TURMOIL", "dd/d9a/a02699.html#a72e1fc2fb7f2d445c9e22195c32dfe0cafcb3e66b7b65655d2b2ee1e97b205073", null ],
-      [ "SPELL_RECENT_MEDITATION", "dd/d9a/a02699.html#a72e1fc2fb7f2d445c9e22195c32dfe0cafd95316ce2b15dfc3e7150a2cb09a7c1", null ],
-      [ "SPELL_MIRROR_IMAGE_AURA", "dd/d9a/a02699.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca97f96c604fb7a22850a56756fe3b176a", null ],
-      [ "QUEST_THE_CLEANSING_H", "dd/d9a/a02699.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca8986a58dfd3cb3e376200de1039e6529", null ],
-      [ "QUEST_THE_CLEANSING_A", "dd/d9a/a02699.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca7b3fd5b03fd32aeda7f996691764daa7", null ]
-    ] ],
-    [ "AddSC_howling_fjord", "dd/d9a/a02699.html#a1f2f485d0649e510913e07a28b6082a5", null ],
-    [ "GetSorlofPathForShipEvent", "dd/d9a/a02699.html#a0727220183f34049d44da4f1ca096541", null ]
+    [ "AccountMgr", "de/d5b/a06307.html", "de/d5b/a06307" ],
+    [ "MAX_ACCOUNT_STR", "dd/d9a/a02699.html#a134ebf22666a6525929447b2d869d400", null ],
+    [ "MAX_EMAIL_STR", "dd/d9a/a02699.html#ad64d9bd18bac10ab1af09b042d734c64", null ],
+    [ "MAX_PASS_STR", "dd/d9a/a02699.html#a45827712253b6d66092106cef5ae724b", null ],
+    [ "sAccountMgr", "dd/d9a/a02699.html#aea3ae93168116461b6c0a7a984112175", null ],
+    [ "RBACDefaultPermissionsContainer", "dd/d9a/a02699.html#ac0b6edf00d4a9c1e3c496e98fdf865aa", null ],
+    [ "RBACPermissionsContainer", "dd/d9a/a02699.html#a1296774e1021cb68d7829832d153b2e3", null ],
+    [ "AccountOpResult", "dd/d9a/a02699.html#a0161874ada0cecbbd1fd5d31da73703e", [
+      [ "AOR_OK", "dd/d9a/a02699.html#a0161874ada0cecbbd1fd5d31da73703ea73449863bb0d97def55bd65307e97f18", null ],
+      [ "AOR_NAME_TOO_LONG", "dd/d9a/a02699.html#a0161874ada0cecbbd1fd5d31da73703eaec4fb519d9e6032adc269ca4a27c38f4", null ],
+      [ "AOR_PASS_TOO_LONG", "dd/d9a/a02699.html#a0161874ada0cecbbd1fd5d31da73703eaed91b79b9e639b8f988c5f06fcfd901c", null ],
+      [ "AOR_EMAIL_TOO_LONG", "dd/d9a/a02699.html#a0161874ada0cecbbd1fd5d31da73703eaaf639a81cbf8cf6bd685e34d73e895a1", null ],
+      [ "AOR_NAME_ALREADY_EXIST", "dd/d9a/a02699.html#a0161874ada0cecbbd1fd5d31da73703eae0b6297de7a7e8b516f5fc98a4d8750c", null ],
+      [ "AOR_NAME_NOT_EXIST", "dd/d9a/a02699.html#a0161874ada0cecbbd1fd5d31da73703ea05e659ba76ce9dd582551a24f2923b24", null ],
+      [ "AOR_DB_INTERNAL_ERROR", "dd/d9a/a02699.html#a0161874ada0cecbbd1fd5d31da73703ea368516df3522ada12ce8a39c789a687d", null ]
+    ] ]
 ];

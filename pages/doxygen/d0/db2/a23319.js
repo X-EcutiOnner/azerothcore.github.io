@@ -1,6 +1,6 @@
 var a23319 =
 [
-    [ "HandleApplyAura", "d0/db2/a23319.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "d0/db2/a23319.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "d0/db2/a23319.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "HandleEffectRemove", "d0/db2/a23319.html#ac74d25501690970c607a146eec02ab24", null ],
+    [ "PrepareAuraScript", "d0/db2/a23319.html#a858929800089fee1a06948bda1c8806f", null ],
+    [ "Register", "d0/db2/a23319.html#a003e9c77e59008ea78b3f1e9977ab5d6", null ]
 ];

@@ -1,7 +1,6 @@
 var a22383 =
 [
-    [ "OnApply", "dc/dad/a22383.html#ad026db5f19c376d9a87f7a1554502809", null ],
-    [ "OnRemove", "dc/dad/a22383.html#a0264c6f6f41da3644a803265399f1d82", null ],
-    [ "PrepareAuraScript", "dc/dad/a22383.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
-    [ "Register", "dc/dad/a22383.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
+    [ "HandleDamage", "dc/dad/a22383.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
+    [ "PrepareSpellScript", "dc/dad/a22383.html#a23b6afe1e35edc4013767b119b8e0218", null ],
+    [ "Register", "dc/dad/a22383.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
 ];

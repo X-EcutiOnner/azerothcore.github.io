@@ -1,5 +1,6 @@
 var a22539 =
 [
-    [ "OutdoorPvP_eastern_plaguelands", "d0/def/a22539.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
-    [ "GetOutdoorPvP", "d0/def/a22539.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
+    [ "FilterTargets", "d0/def/a22539.html#a4d81860c41daab44851da605d38b4753", null ],
+    [ "PrepareSpellScript", "d0/def/a22539.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
+    [ "Register", "d0/def/a22539.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
 ];

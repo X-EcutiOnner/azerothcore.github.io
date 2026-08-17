@@ -1,6 +1,11 @@
 var a22747 =
 [
-    [ "PrepareSpellScript", "da/d46/a22747.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "da/d46/a22747.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "da/d46/a22747.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "boss_murmur", "da/d46/a22747.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
+    [ "CastSuppressionOOC", "da/d46/a22747.html#aab66339a7436c3c483297b25f6859558", null ],
+    [ "DamageTaken", "da/d46/a22747.html#a6446fe6c0ae5ece0cd70c8d9dbccb0f5", null ],
+    [ "EnterEvadeMode", "da/d46/a22747.html#aa0f549c83a92302ece2323c75dd29acc", null ],
+    [ "JustEngagedWith", "da/d46/a22747.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
+    [ "Reset", "da/d46/a22747.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
+    [ "SetGUID", "da/d46/a22747.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
+    [ "ShouldCastResonance", "da/d46/a22747.html#ade07217a85655a513d7a472d24589691", null ]
 ];

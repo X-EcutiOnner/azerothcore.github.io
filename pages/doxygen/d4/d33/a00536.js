@@ -1,17 +1,24 @@
 var a00536 =
 [
-    [ "SmartAI", "d2/df3/a06616.html", "d2/df3/a06616" ],
-    [ "SmartGameObjectAI", "d2/d5b/a06620.html", "d2/d5b/a06620" ],
-    [ "DISTANCING_CONSTANT", "d4/d33/a00536.html#a9a381b0c4b9dc5403d4a93b3afb19dff", null ],
-    [ "SmartEscortState", "d4/d33/a00536.html#a0911043eb49fd7958a828a60e0537d54", [
-      [ "SMART_ESCORT_NONE", "d4/d33/a00536.html#a0911043eb49fd7958a828a60e0537d54ad51ea013b009290e4eba7f3591d0e889", null ],
-      [ "SMART_ESCORT_ESCORTING", "d4/d33/a00536.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19", null ],
-      [ "SMART_ESCORT_RETURNING", "d4/d33/a00536.html#a0911043eb49fd7958a828a60e0537d54a404e4c2ac36fc3f87779560b58af7fe8", null ],
-      [ "SMART_ESCORT_PAUSED", "d4/d33/a00536.html#a0911043eb49fd7958a828a60e0537d54a35650bf0f6f9a142acfb5b6e5cd194f7", null ]
+    [ "MMAP::MeshData", "d2/d43/a30287.html", "d2/d43/a30287" ],
+    [ "MMAP::TerrainBuilder", "d1/d57/a30291.html", "d1/d57/a30291" ],
+    [ "Grid", "d4/d33/a00536.html#a6ddcf7a168396ad1ecedfc4e5fe04c09", [
+      [ "GRID_V8", "d4/d33/a00536.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a1b3d969edeab4d39be8a3a59ebca6e0b", null ],
+      [ "GRID_V9", "d4/d33/a00536.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a90e846a47ab162703bf2dc5664a61289", null ]
     ] ],
-    [ "SmartEscortVars", "d4/d33/a00536.html#a598eb331d977fa893d589fe3e6cebfbf", [
-      [ "SMART_ESCORT_MAX_PLAYER_DIST", "d4/d33/a00536.html#a598eb331d977fa893d589fe3e6cebfbfa43349fe96bf29348a87944e39bacfdba", null ],
-      [ "SMART_MAX_AID_DIST", "d4/d33/a00536.html#a598eb331d977fa893d589fe3e6cebfbfa74a5b65862962dfdb4c72589d5191c3f", null ]
+    [ "Spot", "d4/d33/a00536.html#aa0140172b3856ff5a4e0db0227a41165", [
+      [ "TOP", "d4/d33/a00536.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1", null ],
+      [ "RIGHT", "d4/d33/a00536.html#aa0140172b3856ff5a4e0db0227a41165a7ba16840bb5803d51ebe597bc881851e", null ],
+      [ "LEFT", "d4/d33/a00536.html#aa0140172b3856ff5a4e0db0227a41165a5bf23f4bd225a5f4caadf6820404332b", null ],
+      [ "BOTTOM", "d4/d33/a00536.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04", null ],
+      [ "ENTIRE", "d4/d33/a00536.html#aa0140172b3856ff5a4e0db0227a41165a333ed540d45ff2a6bc5ac8a954e93f12", null ]
     ] ],
-    [ "AddSC_SmartScripts", "d4/d33/a00536.html#ab6012619ba76775b314475ec60f8c7d7", null ]
+    [ "GRID_PART_SIZE", "d4/d33/a00536.html#a39bc2d4fa649e77addef85b06c49b369", null ],
+    [ "GRID_SIZE", "d4/d33/a00536.html#a16e4fdf7de4239156a5a8eb83dcc9e8c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT", "d4/d33/a00536.html#a44bbf7085ddd1deacaae673ea4ec357c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT_MAX", "d4/d33/a00536.html#a26a6da9ce81eb096651bf47cb90f947f", null ],
+    [ "V8_SIZE", "d4/d33/a00536.html#a6918d13eba00db309998162fbff2fb7c", null ],
+    [ "V8_SIZE_SQ", "d4/d33/a00536.html#a94a0ee7c4f225dfc488737a7ba825bae", null ],
+    [ "V9_SIZE", "d4/d33/a00536.html#a32c90e1638c0f8693e2fc95201d2ec3f", null ],
+    [ "V9_SIZE_SQ", "d4/d33/a00536.html#a7eb8c24e8759cfd1ebd37b1efc72618b", null ]
 ];

@@ -1,5 +1,4 @@
 var a02174 =
 [
-    [ "WardenInitModuleRequest", "da/de7/a12248.html", "da/de7/a12248" ],
-    [ "WardenWin", "d1/df3/a12252.html", "d1/df3/a12252" ]
+    [ "ScriptRegistry< GlobalScript >", "d6/d6e/a02174.html#aab5e9d371cdc72eb5a60f210f00cdc34", null ]
 ];

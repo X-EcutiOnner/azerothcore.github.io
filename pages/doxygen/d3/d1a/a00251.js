@@ -1,5 +1,5 @@
 var a00251 =
 [
-    [ "FactoryHolder< T, O, Key >", "d2/d72/a05567.html", "d2/d72/a05567" ],
-    [ "Permissible< T >", "d6/d3f/a05571.html", "d6/d3f/a05571" ]
+    [ "Acore::AhoCorasick< CharT >", "dc/d27/a05799.html", "dc/d27/a05799" ],
+    [ "Acore::AhoCorasick< CharT >::Node", "d5/d41/a05803.html", "d5/d41/a05803" ]
 ];

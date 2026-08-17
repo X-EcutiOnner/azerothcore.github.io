@@ -1,4 +1,7 @@
 var a01007 =
 [
-    [ "ScriptRegistry< PlayerScript >", "d6/d8d/a01007.html#a9c8e85c6181ce386db051bb0a0e6a533", null ]
+    [ "StaticVMapCollisionData", "db/d7e/a10271.html", "db/d7e/a10271" ],
+    [ "DynamicVMapCollisionData", "d1/d80/a10275.html", "d1/d80/a10275" ],
+    [ "MMapData", "d9/dff/a10279.html", "d9/dff/a10279" ],
+    [ "MapCollisionData", "dc/dfb/a10283.html", "dc/dfb/a10283" ]
 ];

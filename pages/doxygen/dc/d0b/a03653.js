@@ -1,72 +1,61 @@
 var a03653 =
 [
-    [ "npc_cameron", "dc/d40/a13995.html", "dc/d40/a13995" ],
-    [ "npc_supervisor_raelen", "d6/d2e/a13999.html", "d6/d2e/a13999" ],
-    [ "npc_eastvale_peasent", "d2/d78/a14003.html", "d2/d78/a14003" ],
-    [ "COG_Creatures", "dc/d0b/a03653.html#a65c53b71f65b39ebdb719ba85df40c00", [
-      [ "NPC_DANA", "dc/d0b/a03653.html#a65c53b71f65b39ebdb719ba85df40c00aab1360bef063d32d66b5592222983b79", null ],
-      [ "NPC_CAMERON", "dc/d0b/a03653.html#a65c53b71f65b39ebdb719ba85df40c00a2774529c2dae7e5aa5c9dca851e92cee", null ],
-      [ "NPC_JOHN", "dc/d0b/a03653.html#a65c53b71f65b39ebdb719ba85df40c00a92ee2b12ddc8057ce39df7fc8e26cad8", null ],
-      [ "NPC_LISA", "dc/d0b/a03653.html#a65c53b71f65b39ebdb719ba85df40c00a54c1064e732d54bcc50cc2fe6c83fc00", null ],
-      [ "NPC_AARON", "dc/d0b/a03653.html#a65c53b71f65b39ebdb719ba85df40c00a1b159aa0575b48c2c155ce477231d648", null ],
-      [ "NPC_JOSE", "dc/d0b/a03653.html#a65c53b71f65b39ebdb719ba85df40c00ad461074ca1d14ce25750b36d50dff8d9", null ]
+    [ "npc_attracted_reef_bull", "d2/d13/a22027.html", "d2/d13/a22027" ],
+    [ "npc_attracted_reef_bull::npc_attracted_reef_bullAI", "da/d0f/a22031.html", "da/d0f/a22031" ],
+    [ "npc_plaguehound_tracker", "d5/dfa/a22035.html", "d5/dfa/a22035" ],
+    [ "npc_plaguehound_tracker::npc_plaguehound_trackerAI", "d2/daf/a22039.html", "d2/daf/a22039" ],
+    [ "npc_rodin_lightning_enabler", "db/d18/a22043.html", "db/d18/a22043" ],
+    [ "spell_hawk_hunting", "d9/d8e/a22047.html", "d9/d8e/a22047" ],
+    [ "spell_the_cleansing_shrine_cast", "d6/d1b/a22051.html", "d6/d1b/a22051" ],
+    [ "spell_the_cleansing_cleansing_soul", "db/dfe/a22055.html", "db/dfe/a22055" ],
+    [ "spell_the_cleansing_mirror_image_script_effect", "d7/de1/a22059.html", "d7/de1/a22059" ],
+    [ "spell_the_cleansing_on_death_cast_on_master", "df/d8a/a22063.html", "df/d8a/a22063" ],
+    [ "spell_q11296_rivenwood_captives", "d0/d61/a22067.html", "d0/d61/a22067" ],
+    [ "spell_sorlofs_booty_boulder_assault", "d9/d4e/a22071.html", "d9/d4e/a22071" ],
+    [ "spell_sorlofs_booty_boulder_assault_hit", "da/d67/a22075.html", "da/d67/a22075" ],
+    [ "npc_sorlof", "d7/dac/a22079.html", "d7/dac/a22079" ],
+    [ "go_sister_mercy", "d4/dda/a22083.html", "d4/dda/a22083" ],
+    [ "spell_sorlofs_booty_cannon_primer", "d7/d55/a22087.html", "d7/d55/a22087" ],
+    [ "spell_sorlofs_booty_big_gun_assault", "db/d95/a22091.html", "db/d95/a22091" ],
+    [ "HawkHunting", "dc/d0b/a03653.html#a096cc98a9aabe12e9a0d16fa3f6c7467", [
+      [ "SPELL_HAWK_HUNTING_ITEM", "dc/d0b/a03653.html#a096cc98a9aabe12e9a0d16fa3f6c7467a6ec995a1ccedcab945036b6b96fbfa2e", null ]
     ] ],
-    [ "COG_Events", "dc/d0b/a03653.html#ab264f1364ee8d7515c93f7604d783521", [
-      [ "EVENT_WP_START_GOLDSHIRE", "dc/d0b/a03653.html#ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f", null ],
-      [ "EVENT_WP_START_WOODS", "dc/d0b/a03653.html#ab264f1364ee8d7515c93f7604d783521a05142c4d528718117f9c7c66c066d67a", null ],
-      [ "EVENT_WP_START_HOUSE", "dc/d0b/a03653.html#ab264f1364ee8d7515c93f7604d783521ad3ea93fa2e5aa5f9c975333fa1b1ff2d", null ],
-      [ "EVENT_WP_START_LISA", "dc/d0b/a03653.html#ab264f1364ee8d7515c93f7604d783521acc6320f492dc6b0283b8c26d0c8dabc8", null ],
-      [ "EVENT_PLAY_SOUNDS", "dc/d0b/a03653.html#ab264f1364ee8d7515c93f7604d783521a9f179e3b64119e37ba2bd7197c842ab4", null ],
-      [ "EVENT_BEGIN_EVENT", "dc/d0b/a03653.html#ab264f1364ee8d7515c93f7604d783521a82d09cc2c3aa83b16da003fcf3cb98b7", null ],
-      [ "EVENT_RANDOM_MOVEMENT", "dc/d0b/a03653.html#ab264f1364ee8d7515c93f7604d783521ac6c378046d721cffff0f049904ea03d1", null ]
+    [ "RivenwoodCaptives", "dc/d0b/a03653.html#a0406b0504bb5489bd1e1ab3bed6f8277", [
+      [ "SPELL_CAPTIVES_ON_QUEST", "dc/d0b/a03653.html#a0406b0504bb5489bd1e1ab3bed6f8277a7bfc24991745469431169752d0058a63", null ],
+      [ "SPELL_CAPTIVES_NOT_ON_QUEST", "dc/d0b/a03653.html#a0406b0504bb5489bd1e1ab3bed6f8277a37010e6e918f8e727f5afc293cf8e30a", null ],
+      [ "SPELL_SUMMON_FREED_SCOUT", "dc/d0b/a03653.html#a0406b0504bb5489bd1e1ab3bed6f8277a1ccdfe1bb552098d0947fa44fa4f968b", null ],
+      [ "SPELL_SUMMON_HOSTILE_START", "dc/d0b/a03653.html#a0406b0504bb5489bd1e1ab3bed6f8277a1885e281fc6c851167b2d24e2d127dea", null ],
+      [ "SPELL_SUMMON_HOSTILE_END", "dc/d0b/a03653.html#a0406b0504bb5489bd1e1ab3bed6f8277ad96433fe5596e69387c53a4432c0c27c", null ],
+      [ "NPC_FREED_SCOUT", "dc/d0b/a03653.html#a0406b0504bb5489bd1e1ab3bed6f8277a35332072efc4bb98475ab7ee56aa91e2", null ]
     ] ],
-    [ "COG_GameEvent", "dc/d0b/a03653.html#a7f96446be0a530da18223bb22482eb13", [
-      [ "GAME_EVENT_CHILDREN_OF_GOLDSHIRE", "dc/d0b/a03653.html#a7f96446be0a530da18223bb22482eb13ae98243feecf1c9640cede7b94f8681cb", null ]
+    [ "RodinLightningSpells", "dc/d0b/a03653.html#a80e7ba946308fea1c6de5c21365652f3", [
+      [ "SPELL_RODIN_LIGHTNING_START", "dc/d0b/a03653.html#a80e7ba946308fea1c6de5c21365652f3a7fbdcf0c94df64ba932ea4666d375a4c", null ],
+      [ "SPELL_RODIN_LIGHTNING_END", "dc/d0b/a03653.html#a80e7ba946308fea1c6de5c21365652f3ab99cec97c6cf09d8ae5863d97e4c1632", null ],
+      [ "NPC_RODIN", "dc/d0b/a03653.html#a80e7ba946308fea1c6de5c21365652f3adc9bd59249c9654d416ff92475586895", null ]
     ] ],
-    [ "COG_Paths", "dc/d0b/a03653.html#a2be3c31abb125ee2f4e5db0dffba1303", [
-      [ "STORMWIND_PATH", "dc/d0b/a03653.html#a2be3c31abb125ee2f4e5db0dffba1303ad1a5074e62ba573b4ca7b603db8af713", null ],
-      [ "GOLDSHIRE_PATH", "dc/d0b/a03653.html#a2be3c31abb125ee2f4e5db0dffba1303ae667c0211d3eff5f76656bf6d0008172", null ],
-      [ "WOODS_PATH", "dc/d0b/a03653.html#a2be3c31abb125ee2f4e5db0dffba1303a3b6098ca7c08a02325e87d2e2d51e097", null ],
-      [ "HOUSE_PATH", "dc/d0b/a03653.html#a2be3c31abb125ee2f4e5db0dffba1303a613998450aaf10ae6d9eb7b70fe9b773", null ],
-      [ "LISA_PATH", "dc/d0b/a03653.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c", null ]
+    [ "SorlofsBooty", "dc/d0b/a03653.html#a9b0df0995abb2c580c7117164c0fe412", [
+      [ "NPC_SORLOF", "dc/d0b/a03653.html#a9b0df0995abb2c580c7117164c0fe412a6b91d4916a28ca9e8f5f0a7e58ac782c", null ],
+      [ "NPC_THE_BIG_GUN", "dc/d0b/a03653.html#a9b0df0995abb2c580c7117164c0fe412a16440cc96fba85c5655f1feb857617eb", null ],
+      [ "SPELL_CANNON_ASSAULT", "dc/d0b/a03653.html#a9b0df0995abb2c580c7117164c0fe412a1ac403210372edba1912237a4bffab1b", null ],
+      [ "SPELL_SORLOFS_BOOTY", "dc/d0b/a03653.html#a9b0df0995abb2c580c7117164c0fe412a4a18ec19a078c73f999849b24da29998", null ],
+      [ "SPELL_BOULDER_ASSAULT_HIT", "dc/d0b/a03653.html#a9b0df0995abb2c580c7117164c0fe412a0d6d9e0cef3cc72d569e3bc33cc1643c", null ],
+      [ "SPELL_BOULDER_ASSAULT_FIRE", "dc/d0b/a03653.html#a9b0df0995abb2c580c7117164c0fe412aeb0f61cfe86d8389293c12afc462b20b", null ],
+      [ "CANNON_RANGE", "dc/d0b/a03653.html#a9b0df0995abb2c580c7117164c0fe412a2e03b8b9b60dbac5373ac9198194a032", null ],
+      [ "SORLOF_SEARCH_RANGE", "dc/d0b/a03653.html#a9b0df0995abb2c580c7117164c0fe412ae3736f36f4a37f82e18c990768aafcb7", null ],
+      [ "SORLOF_WANDER_DISTANCE", "dc/d0b/a03653.html#a9b0df0995abb2c580c7117164c0fe412a67cbee815f4640095477c5d20479eb18", null ],
+      [ "DATA_SORLOF_TAKE_PATH", "dc/d0b/a03653.html#a9b0df0995abb2c580c7117164c0fe412ae162148a53be28931e224def26605a53", null ],
+      [ "POINT_SORLOF_PATH", "dc/d0b/a03653.html#a9b0df0995abb2c580c7117164c0fe412ac678a1b17523f5492751a293a75345d7", null ],
+      [ "PATH_SORLOF_RETURN", "dc/d0b/a03653.html#a9b0df0995abb2c580c7117164c0fe412a6cac2f4cbb29c446a7057b5ac20583da", null ],
+      [ "DATA_SORLOF_SLAIN", "dc/d0b/a03653.html#a9b0df0995abb2c580c7117164c0fe412ac52adc3e8dade13f25f82240a231b639", null ]
     ] ],
-    [ "COG_Sounds", "dc/d0b/a03653.html#a41b64d07acba30bca6797dd30accb701", [
-      [ "BANSHEE_DEATH", "dc/d0b/a03653.html#a41b64d07acba30bca6797dd30accb701a778d73a82a4986348c2f576778911c1d", null ],
-      [ "BANSHEEPREAGGRO", "dc/d0b/a03653.html#a41b64d07acba30bca6797dd30accb701a9194ea7479faaf1cd6e95b3d3ef5133e", null ],
-      [ "CTHUN_YOU_WILL_DIE", "dc/d0b/a03653.html#a41b64d07acba30bca6797dd30accb701a82970f5a7615c954b42ee1a4fc6e175c", null ],
-      [ "CTHUN_DEATH_IS_CLOSE", "dc/d0b/a03653.html#a41b64d07acba30bca6797dd30accb701a6597c2048b383d43a5ff472d715fdc05", null ],
-      [ "HUMAN_FEMALE_EMOTE_CRY", "dc/d0b/a03653.html#a41b64d07acba30bca6797dd30accb701a154e3f7a96cd9c9d13a04b5fc36ec18a", null ],
-      [ "GHOSTDEATH", "dc/d0b/a03653.html#a41b64d07acba30bca6797dd30accb701a5ad070314ff7ce37671151ab6fd1df05", null ]
+    [ "TheCleansing", "dc/d0b/a03653.html#a72e1fc2fb7f2d445c9e22195c32dfe0c", [
+      [ "SPELL_CLEANSING_SOUL", "dc/d0b/a03653.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca85c707f1dd04c7a7bcbd939bf09f2bf1", null ],
+      [ "SPELL_SUMMON_INNER_TURMOIL", "dc/d0b/a03653.html#a72e1fc2fb7f2d445c9e22195c32dfe0cafcb3e66b7b65655d2b2ee1e97b205073", null ],
+      [ "SPELL_RECENT_MEDITATION", "dc/d0b/a03653.html#a72e1fc2fb7f2d445c9e22195c32dfe0cafd95316ce2b15dfc3e7150a2cb09a7c1", null ],
+      [ "SPELL_MIRROR_IMAGE_AURA", "dc/d0b/a03653.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca97f96c604fb7a22850a56756fe3b176a", null ],
+      [ "QUEST_THE_CLEANSING_H", "dc/d0b/a03653.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca8986a58dfd3cb3e376200de1039e6529", null ],
+      [ "QUEST_THE_CLEANSING_A", "dc/d0b/a03653.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca7b3fd5b03fd32aeda7f996691764daa7", null ]
     ] ],
-    [ "EastvalePeasent", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769", [
-      [ "EVENT_MOVETORAELEN", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769a7060cdf87e903e239424f6de8b3c4e01", null ],
-      [ "EVENT_TALKTORAELEN1", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769ab389694ba3f2e68242451516333631e6", null ],
-      [ "EVENT_TALKTORAELEN2", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769aa71bff713cc0f565434450c758f74f49", null ],
-      [ "EVENT_RAELENTALK", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769a07d0b4a5d57b000f4aa7ac0f641432e0", null ],
-      [ "EVENT_TALKTORAELEN3", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769a3f3781fe8cd1b69d99d36799fe7bc343", null ],
-      [ "EVENT_TALKTORAELEN4", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769aa2b4baec842eb98eed0d720a2d1e292f", null ],
-      [ "EVENT_PATHBACK", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769a2749a3e614e97936834faf0763d89f85", null ],
-      [ "NPC_SUPERVISOR_RAELEN", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769a55dd8d60432601f01a996db6af736667", null ],
-      [ "PATH_PEASENT_0", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769ac3af8fa1b480f8ffa2f3ce8f07015d90", null ],
-      [ "PATH_PEASENT_1", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769a90bfaadda89dbdfe74e830dba63392b6", null ],
-      [ "PATH_PEASENT_2", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769a691ee393540918dfc1b592fab31778d7", null ],
-      [ "PATH_PEASENT_3", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769a94a20bb05ec932c0c58387e63ee95c7d", null ],
-      [ "PATH_PEASENT_4", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769aa40d5d29c4805d92281561d5491f42e0", null ],
-      [ "SAY_RAELEN", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769ae2a00c9eac8422904f7f4e82661114fc", null ],
-      [ "SOUND_PEASENT_GREETING_1", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769a76573a8111b11c8e5d82081211d778d2", null ],
-      [ "SOUND_PEASENT_GREETING_2", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769a78f08b9a1fa0e5891df9dedd3030107d", null ],
-      [ "SOUND_PEASENT_GREETING_3", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769ace4122d507bca6f6d027e9e5d8273942", null ],
-      [ "SOUND_PEASENT_LEAVING_1", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769a6b7ddbed101521381be4ee097e03eadf", null ],
-      [ "SOUND_PEASENT_LEAVING_2", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769a94849b28c308e34fe7c2f3cdd3b569e1", null ],
-      [ "SOUND_PEASENT_LEAVING_3", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769a11f78805bf631264c76272506c189f65", null ],
-      [ "SOUND_PEASENT_LEAVING_4", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769a0537de2a4772069d0cc2f66767b7d404", null ],
-      [ "SOUND_PEASENT_LEAVING_5", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769a4631839cb0120966d74bb95fce52c358", null ],
-      [ "SPELL_TRANSFORM_PEASENT_WITH_WOOD", "dc/d0b/a03653.html#a7e632be8f8b8da84644527621a3c2769a716c6a90c42b3ee3811ac25a342faa56", null ]
-    ] ],
-    [ "SupervisorRaelen", "dc/d0b/a03653.html#a3bd40a8e75f5b073b6027152c2acd047", [
-      [ "EVENT_FIND_PEASENTS", "dc/d0b/a03653.html#a3bd40a8e75f5b073b6027152c2acd047a05dcad03ab565112d34579d0ef216f19", null ],
-      [ "EVENT_NEXT_PEASENT", "dc/d0b/a03653.html#a3bd40a8e75f5b073b6027152c2acd047a1a939768178f2c95f03e6c1490c9e2c0", null ],
-      [ "NPC_EASTVALE_PEASENT", "dc/d0b/a03653.html#a3bd40a8e75f5b073b6027152c2acd047ab484ca934ce49cee056ba54c53003ddd", null ]
-    ] ],
-    [ "AddSC_elwynn_forest", "dc/d0b/a03653.html#aef9caff22cc5e92156da2c393ecfb531", null ]
+    [ "AddSC_howling_fjord", "dc/d0b/a03653.html#a1f2f485d0649e510913e07a28b6082a5", null ],
+    [ "GetSorlofPathForShipEvent", "dc/d0b/a03653.html#a0727220183f34049d44da4f1ca096541", null ]
 ];

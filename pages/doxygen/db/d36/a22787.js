@@ -1,19 +1,5 @@
 var a22787 =
 [
-    [ "boss_illidan_stormrage", "db/d36/a22787.html#a87e74bda2af623ba5c70911a033c6d6f", null ],
-    [ "CanAIAttack", "db/d36/a22787.html#a9607a9a09df9d07ebae0513458435b4d", null ],
-    [ "CycleBeamPos", "db/d36/a22787.html#a2044514c049262328022ac22a651fb92", null ],
-    [ "DamageTaken", "db/d36/a22787.html#ad568e3993f74ad0dd0b2f4e630fcb7f1", null ],
-    [ "DoAction", "db/d36/a22787.html#aad32a8fab5f1ca21824790d2da4d086b", null ],
-    [ "EnterEvadeMode", "db/d36/a22787.html#ab07e90f48ee9e84298b24b8e7cdb192f", null ],
-    [ "JustDied", "db/d36/a22787.html#a4d38abd8885862e31a88da4de754e35d", null ],
-    [ "JustEngagedWith", "db/d36/a22787.html#aa2d516aea252d55307c9f98212e7ee5e", null ],
-    [ "JustSummoned", "db/d36/a22787.html#a2c642790b16d864ae100b5e8f30e4e61", null ],
-    [ "KilledUnit", "db/d36/a22787.html#abf29f9607351d35953d8d0e97779c3f9", null ],
-    [ "MovementInform", "db/d36/a22787.html#acdd75f289288b3e6de4136267d490519", null ],
-    [ "Reset", "db/d36/a22787.html#aa5eb94712f886e821630535cb2970dfe", null ],
-    [ "ScheduleAbilities", "db/d36/a22787.html#af230387ddbd1b270e1be69133f4bae38", null ],
-    [ "_dying", "db/d36/a22787.html#af312452020938736624496d9f6a76d28", null ],
-    [ "_inCutscene", "db/d36/a22787.html#a715525706b44dbc53847e639f3b15d3a", null ],
-    [ "beamPosId", "db/d36/a22787.html#a6168b84bfb49781736fa2accf5225808", null ]
+    [ "ChargeTargetSelector", "db/d36/a22787.html#a064e7d9008bfc85b7c636490c7aaf714", null ],
+    [ "operator()", "db/d36/a22787.html#a596223da822f5a08281fe709cca95909", null ]
 ];

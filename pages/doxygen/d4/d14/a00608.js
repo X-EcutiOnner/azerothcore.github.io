@@ -1,4 +1,5 @@
 var a00608 =
 [
-    [ "AH_MINIMUM_DEPOSIT", "d4/d14/a00608.html#ae6debe42dd0e5674dcf1b874cebafe98", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "d4/d14/a00608.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "MverMagic", "d4/d14/a00608.html#a076cdc3e61f69e52913492840fc864cf", null ]
 ];

@@ -1,6 +1,6 @@
 var a27699 =
 [
-    [ "HandleAuraApply", "d2/d46/a27699.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "d2/d46/a27699.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "d2/d46/a27699.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "HandleSchoolDMG", "d2/d46/a27699.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
+    [ "PrepareSpellScript", "d2/d46/a27699.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
+    [ "Register", "d2/d46/a27699.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
 ];

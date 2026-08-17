@@ -1,20 +1,15 @@
 var a00890 =
 [
-    [ "FormationInfo", "d8/d0e/a08483.html", "d8/d0e/a08483" ],
-    [ "FormationMgr", "d0/d81/a08487.html", "d0/d81/a08487" ],
-    [ "CreatureGroup", "dd/d5b/a08491.html", "dd/d5b/a08491" ],
-    [ "sFormationMgr", "d7/d46/a00890.html#ae80a51404625cee821a8727ed7369352", null ],
-    [ "CreatureGroupInfoType", "d7/d46/a00890.html#a2c3447bf21f430bff136da6811d93a61", null ],
-    [ "GroupAIFlags", "d7/d46/a00890.html#a3754da8cc6b209da0180cd76de20869c", [
-      [ "GROUP_AI_FLAG_MEMBER_ASSIST_LEADER", "d7/d46/a00890.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2", null ],
-      [ "GROUP_AI_FLAG_LEADER_ASSIST_MEMBER", "d7/d46/a00890.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e", null ],
-      [ "GROUP_AI_FLAG_EVADE_TOGETHER", "d7/d46/a00890.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a", null ],
-      [ "GROUP_AI_FLAG_RESPAWN_ON_EVADE", "d7/d46/a00890.html#a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6", null ],
-      [ "GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE", "d7/d46/a00890.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043", null ],
-      [ "GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE", "d7/d46/a00890.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e", null ],
-      [ "GROUP_AI_FLAG_FOLLOW_LEADER", "d7/d46/a00890.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87", null ],
-      [ "GROUP_AI_FLAG_ASSIST_MASK", "d7/d46/a00890.html#a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c", null ],
-      [ "GROUP_AI_FLAG_EVADE_MASK", "d7/d46/a00890.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd", null ],
-      [ "GROUP_AI_FLAG_SUPPORTED", "d7/d46/a00890.html#a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60", null ]
-    ] ]
+    [ "STR", "d7/d46/a00890.html#a18d295a837ac71add5578860b55e5502", null ],
+    [ "computeFallElevation", "d7/d46/a00890.html#a87260372150c8322b45e75bfaa445f14", null ],
+    [ "computeFallTime", "d7/d46/a00890.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
+    [ "print_flags", "d7/d46/a00890.html#a189485de5eba32c5b18dbb5c579b60d9", null ],
+    [ "g_MovementFlag_names", "d7/d46/a00890.html#a2982e1b6388bf8b29797b16969b64173", null ],
+    [ "g_SplineFlag_names", "d7/d46/a00890.html#aa6a1b38cb6e1507d88f0f45a4820990b", null ],
+    [ "terminal_fallTime", "d7/d46/a00890.html#aa927e4ada20ca56ce951239357407270", null ],
+    [ "terminal_length", "d7/d46/a00890.html#a7d1eb637bb6ae4a1859504fb84872808", null ],
+    [ "terminal_safeFall_fallTime", "d7/d46/a00890.html#a2fc34c9abcc5822e12037c23c2ecbfe0", null ],
+    [ "terminal_safeFall_length", "d7/d46/a00890.html#a4e816239736800d4508c1fc14e624ddc", null ],
+    [ "terminalSafefallVelocity", "d7/d46/a00890.html#a654673c77f53f27a80309b050d44d38d", null ],
+    [ "terminalVelocity", "d7/d46/a00890.html#a98cc74e5667e1057f334f02a28abcb01", null ]
 ];

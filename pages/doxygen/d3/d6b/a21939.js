@@ -1,7 +1,7 @@
 var a21939 =
 [
-    [ "npc_emilyAI", "d2/df9/a21943.html", "d2/df9/a21943" ],
-    [ "npc_emily", "d3/d6b/a21939.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "d3/d6b/a21939.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "d3/d6b/a21939.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "OnRemove", "d3/d6b/a21939.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "d3/d6b/a21939.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "d3/d6b/a21939.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "d3/d6b/a21939.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

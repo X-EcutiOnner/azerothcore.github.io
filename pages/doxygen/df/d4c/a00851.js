@@ -1,10 +1,8 @@
 var a00851 =
 [
-    [ "TradeData", "d7/d67/a09067.html", "d7/d67/a09067" ],
-    [ "TradeSlots", "df/d4c/a00851.html#ad8fd978c4198825d89a1f02643d20c62", [
-      [ "TRADE_SLOT_COUNT", "df/d4c/a00851.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488", null ],
-      [ "TRADE_SLOT_TRADED_COUNT", "df/d4c/a00851.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79", null ],
-      [ "TRADE_SLOT_NONTRADED", "df/d4c/a00851.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f", null ],
-      [ "TRADE_SLOT_INVALID", "df/d4c/a00851.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4", null ]
-    ] ]
+    [ "CliThread", "d5/d65/a05081.html#ga2a2e263e5224262317a4728b5a4c18ac", null ],
+    [ "commandFinished", "d5/d65/a05081.html#gaf86bc63df807e80b7a14688e48340fea", null ],
+    [ "PrintCliPrefix", "d5/d65/a05081.html#ga6553c1ff0337c88fb9f9d94a97f49b9a", null ],
+    [ "utf8print", "d5/d65/a05081.html#gacf6bc075c8e41c95b5633526721136ce", null ],
+    [ "CLI_PREFIX", "d5/d65/a05081.html#ga77eabd925e8f9aa379616b264e287cea", null ]
 ];

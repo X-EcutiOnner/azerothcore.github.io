@@ -1,5 +1,8 @@
 var a24323 =
 [
-    [ "npc_shattrath_daily_quest", "de/d2b/a24323.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "de/d2b/a24323.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "npc_kservantAI", "de/d2b/a24323.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "de/d2b/a24323.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "de/d2b/a24323.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "de/d2b/a24323.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
+    [ "WaypointReached", "de/d2b/a24323.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

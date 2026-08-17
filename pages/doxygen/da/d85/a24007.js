@@ -1,6 +1,8 @@
 var a24007 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d2/d12/a24011.html", "d2/d12/a24011" ],
-    [ "npc_deaths_door_fell_cannon_target_bunny", "da/d85/a24007.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
-    [ "GetAI", "da/d85/a24007.html#a250707096229da28024960beeb7725bf", null ]
+    [ "instance_mechanar_InstanceMapScript", "da/d85/a24007.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "da/d85/a24007.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "da/d85/a24007.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "da/d85/a24007.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "da/d85/a24007.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

@@ -1,6 +1,5 @@
 var a29659 =
 [
-    [ "auraName", "d2/d1a/a29659.html#a953f930e046655ca0d8f373362d3f334", null ],
-    [ "isAlwaysTriggeredAura", "d2/d1a/a29659.html#a05786c8e0daef9a2da98f832c230d99c", null ],
-    [ "procFlags", "d2/d1a/a29659.html#aed48a1ad923118ac0a86d864e1e98519", null ]
+    [ "auraHasDisableProcAttr", "d2/d1a/a29659.html#aec81d4f80c7cb7749f860601c9e5aac8", null ],
+    [ "triggeringSpellIsProcDisabled", "d2/d1a/a29659.html#a38c3523c80d30ed10b8c3b5e19c083f6", null ]
 ];

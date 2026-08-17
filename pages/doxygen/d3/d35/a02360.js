@@ -1,5 +1,6 @@
 var a02360 =
 [
-    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data", "d3/d35/a02360.html#a650e9d2ed03f4896b697097e2116298e", null ],
-    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Key", "d3/d35/a02360.html#aba4af9417ad91ebf078cf0ff83ecf503", null ]
+    [ "AntiDosOpcodePolicy", "d0/d76/a09475.html", "d0/d76/a09475" ],
+    [ "WorldGlobals", "d7/d16/a09479.html", "d7/d16/a09479" ],
+    [ "sWorldGlobals", "d3/d35/a02360.html#abde160907db136b0b0c16309add3ae94", null ]
 ];

@@ -1,16 +1,6 @@
 var a24679 =
 [
-    [ "CheckCast", "df/d9a/a24679.html#a28e769267a83e4c499dca83a3f5708eb", null ],
-    [ "CheckReagents", "df/d9a/a24679.html#aa8a2efb4807c29aeb5bf786e05113b61", null ],
-    [ "CheckTarget", "df/d9a/a24679.html#ae339cf884f1d2f877e988ef6f6b555bf", null ],
-    [ "CheckTargets", "df/d9a/a24679.html#af1013668080685cd86ae6abb52258fb1", null ],
-    [ "ConsumeReagents", "df/d9a/a24679.html#aa5df00ed970db696b92b51566e098f3f", null ],
-    [ "GetGhoulSpellId", "df/d9a/a24679.html#a9f94b3d279c036fb4b1c5b69934e63f2", null ],
-    [ "HandleRaiseDead", "df/d9a/a24679.html#a3d1e0191d99e970f42d825632fe0f7e2", null ],
-    [ "Load", "df/d9a/a24679.html#a05ea44a20f08f9010faca13a0f4d0f39", null ],
-    [ "PrepareSpellScript", "df/d9a/a24679.html#a9565c8459a6d8cfed85c9120aca9715f", null ],
-    [ "Register", "df/d9a/a24679.html#a0ebef363de4a802b242c806517ad0fb5", null ],
-    [ "Validate", "df/d9a/a24679.html#a0ab8ee639fa83e954e964994c75451c8", null ],
-    [ "_corpse", "df/d9a/a24679.html#adbc699b3bfd33f595ea287ca833ea2d4", null ],
-    [ "_result", "df/d9a/a24679.html#aefebf79fa61b9f4d12929d54bd48389f", null ]
+    [ "RaiseDeadCheck", "df/d9a/a24679.html#abc6439e5b457f2f6e832f504167a392d", null ],
+    [ "operator()", "df/d9a/a24679.html#a9647e6afd21e7397f05349e66bea4326", null ],
+    [ "_caster", "df/d9a/a24679.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
 ];

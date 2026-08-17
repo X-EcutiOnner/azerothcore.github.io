@@ -8,5 +8,6 @@ var a10723 =
     [ "OnArenaStart", "d8/d95/a10723.html#ae67b000b16f56309da56f672a9f2b423", null ],
     [ "OnBeforeArenaCheckWinConditions", "d8/d95/a10723.html#a2b46190a3243f2306a74295975dca317", null ],
     [ "OnBeforeArenaTeamMemberUpdate", "d8/d95/a10723.html#a548ac21d5bd9be263935a298a3b5cd16", null ],
-    [ "OnGetPoints", "d8/d95/a10723.html#a13b22ad00d3742589532e6e522258834", null ]
+    [ "OnGetPoints", "d8/d95/a10723.html#a13b22ad00d3742589532e6e522258834", null ],
+    [ "OnGetStartPersonalRating", "d8/d95/a10723.html#a353e524bf3e4e8065dafd2df3aad9479", null ]
 ];

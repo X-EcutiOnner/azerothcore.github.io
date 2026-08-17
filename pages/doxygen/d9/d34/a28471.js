@@ -1,6 +1,11 @@
 var a28471 =
 [
-    [ "npc_preciousAI", "d3/d51/a28475.html", "d3/d51/a28475" ],
-    [ "npc_precious", "d9/d34/a28471.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
-    [ "GetAI", "d9/d34/a28471.html#a754ad85c8b1942b400a47c28297bad62", null ]
+    [ "npc_artoriusAI", "d9/d34/a28471.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
+    [ "DamageTaken", "d9/d34/a28471.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
+    [ "DoAction", "d9/d34/a28471.html#abbfc9ee752d97f1694dbd739719843c2", null ],
+    [ "JustEngagedWith", "d9/d34/a28471.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
+    [ "Reset", "d9/d34/a28471.html#a862cc52a9251e2dfe486f1152dae9500", null ],
+    [ "SpellHit", "d9/d34/a28471.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
+    [ "UpdateAI", "d9/d34/a28471.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
+    [ "events", "d9/d34/a28471.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
 ];

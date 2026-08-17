@@ -1,8 +1,7 @@
 var a27815 =
 [
-    [ "ApplyEffect", "d0/d30/a27815.html#ad29ed182a00516e736bb8d1381f4ac84", null ],
-    [ "HandleEffectPeriodicUpdate", "d0/d30/a27815.html#ad5319328c018dbb3ddbd58bfc08589c4", null ],
-    [ "PrepareAuraScript", "d0/d30/a27815.html#a7673ff384e88fa76efa52ecb60b97d9b", null ],
-    [ "Register", "d0/d30/a27815.html#ade5af0ec82bc43d89919ceaaa31bce20", null ],
-    [ "_tick_amount", "d0/d30/a27815.html#a33d9f114efa50a2fdfe7a17852a474f7", null ]
+    [ "CalculateAmount", "d0/d30/a27815.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
+    [ "PrepareAuraScript", "d0/d30/a27815.html#a20dad49a99420556f393a16525eb14b4", null ],
+    [ "Register", "d0/d30/a27815.html#ad7d339ab137ebd640981f7789e1757f0", null ],
+    [ "Validate", "d0/d30/a27815.html#a341acb2dd25c1db94777f7036f3338ac", null ]
 ];

@@ -1,7 +1,7 @@
 var a27647 =
 [
-    [ "HandleBonus", "d2/dfc/a27647.html#a2bf167d8561f2ef36e44fa9754f0d9a3", null ],
-    [ "PrepareAuraScript", "d2/dfc/a27647.html#aebf4afa25b50be9b99900ef830f26f04", null ],
-    [ "Register", "d2/dfc/a27647.html#ad69315b8eca4173a1e0db21cd98e9c3c", null ],
-    [ "Validate", "d2/dfc/a27647.html#aef0e4a0474718f61f89ff4c825923fc1", null ]
+    [ "HandleProc", "d2/dfc/a27647.html#a8f2bbc26b297039a02a7f1a8ce7d79e3", null ],
+    [ "PrepareAuraScript", "d2/dfc/a27647.html#aa55d2774f59d8e8435facba876521236", null ],
+    [ "Register", "d2/dfc/a27647.html#a3fb6281aa70ce55d4b020e24c747a7f3", null ],
+    [ "Validate", "d2/dfc/a27647.html#a09492d02ca945634ca8c4620debbefa8", null ]
 ];

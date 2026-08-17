@@ -1,36 +1,21 @@
 var a01445 =
 [
-    [ "Acore::Hyperlinks::AchievementLinkData", "d0/db9/a08136.html", "d0/db9/a08136" ],
-    [ "Acore::Hyperlinks::GlyphLinkData", "d6/d5c/a08140.html", "d6/d5c/a08140" ],
-    [ "Acore::Hyperlinks::ItemLinkData", "da/d5c/a08144.html", "da/d5c/a08144" ],
-    [ "Acore::Hyperlinks::QuestLinkData", "d0/db0/a08148.html", "d0/db0/a08148" ],
-    [ "Acore::Hyperlinks::TalentLinkData", "df/d16/a08152.html", "df/d16/a08152" ],
-    [ "Acore::Hyperlinks::TradeskillLinkData", "d2/de7/a08156.html", "d2/de7/a08156" ],
-    [ "Acore::Hyperlinks::LinkTags::base_tag", "d8/db5/a08160.html", "d8/db5/a08160" ],
-    [ "Acore::Hyperlinks::LinkTags::achievement", "d0/dba/a08164.html", "d0/dba/a08164" ],
-    [ "Acore::Hyperlinks::LinkTags::enchant", "d9/dae/a08168.html", "d9/dae/a08168" ],
-    [ "Acore::Hyperlinks::LinkTags::glyph", "d1/d32/a08172.html", "d1/d32/a08172" ],
-    [ "Acore::Hyperlinks::LinkTags::item", "d2/dae/a08176.html", "d2/dae/a08176" ],
-    [ "Acore::Hyperlinks::LinkTags::quest", "d7/ddf/a08180.html", "d7/ddf/a08180" ],
-    [ "Acore::Hyperlinks::LinkTags::spell", "d1/d16/a08184.html", "d1/d16/a08184" ],
-    [ "Acore::Hyperlinks::LinkTags::talent", "db/d54/a08188.html", "db/d54/a08188" ],
-    [ "Acore::Hyperlinks::LinkTags::trade", "dc/d3b/a08192.html", "dc/d3b/a08192" ],
-    [ "Acore::Hyperlinks::HyperlinkColor", "d9/da6/a08196.html", "d9/da6/a08196" ],
-    [ "Acore::Hyperlinks::HyperlinkInfo", "da/d3e/a08200.html", "da/d3e/a08200" ],
-    [ "make_base_tag", "d9/d6f/a01445.html#a73cc3b14b22adefd27d34c736cafa480", null ],
-    [ "CheckAllLinks", "d9/d6f/a01445.html#a02761d9aa335689ff1b8dc1155b2a3c6", null ],
-    [ "make_base_tag", "d9/d6f/a01445.html#a6ebb455ff3abbea4ad68bd1d7d05fd3a", null ],
-    [ "make_base_tag", "d9/d6f/a01445.html#a0803de4bbc9edad4f5bb2afc3c242dca", null ],
-    [ "make_base_tag", "d9/d6f/a01445.html#aa8156f2996632fd42a2e39b974426995", null ],
-    [ "make_base_tag", "d9/d6f/a01445.html#a321da5d63921d41c561a1460929ac730", null ],
-    [ "make_base_tag", "d9/d6f/a01445.html#afc9dbd840048c0031231bcdb7b2fcf04", null ],
-    [ "make_base_tag", "d9/d6f/a01445.html#a7083d48423b83ff39095030678b29877", null ],
-    [ "make_base_tag", "d9/d6f/a01445.html#aae3a6cd0fbf426755d93a387882ff767", null ],
-    [ "make_base_tag", "d9/d6f/a01445.html#aa0ca4a111a856da9091a377934f8de93", null ],
-    [ "make_base_tag", "d9/d6f/a01445.html#a9990339040b491e108594df755f03a6c", null ],
-    [ "make_base_tag", "d9/d6f/a01445.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec", null ],
-    [ "make_base_tag", "d9/d6f/a01445.html#a32cfa3bc188d1b731f3e9e5dcc2de664", null ],
-    [ "make_base_tag", "d9/d6f/a01445.html#ae0c637d10c728f04dc2468c15c3f8dca", null ],
-    [ "make_base_tag", "d9/d6f/a01445.html#abe0a588f1c0e66d33c8bc7a7d0a04459", null ],
-    [ "ParseSingleHyperlink", "d9/d6f/a01445.html#a2c5596879f4531eeedbe15d1e4987918", null ]
+    [ "Totem", "db/d84/a09071.html", "db/d84/a09071" ],
+    [ "EARTHBIND_TOTEM_ENTRY", "d9/d6f/a01445.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
+    [ "SENTRY_TOTEM_ENTRY", "d9/d6f/a01445.html#a2bd46e1df17fdee45cd35896306092fb", null ],
+    [ "TotemImmunitySpells", "d9/d6f/a01445.html#a526213bf692d4f8d189a61617f4a59c9", [
+      [ "SPELL_CYCLONE", "d9/d6f/a01445.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
+      [ "SPELL_STONECLAW", "d9/d6f/a01445.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
+      [ "SPELL_BIND_SIGHT", "d9/d6f/a01445.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
+      [ "SPELL_INTERVENE", "d9/d6f/a01445.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
+    ] ],
+    [ "TotemSpellIds", "d9/d6f/a01445.html#a7092ec93c941969cd2cdd2291c6de0be", [
+      [ "SentryTotemSpell", "d9/d6f/a01445.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
+      [ "FireTotemSpell", "d9/d6f/a01445.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
+    ] ],
+    [ "TotemType", "d9/d6f/a01445.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
+      [ "TOTEM_PASSIVE", "d9/d6f/a01445.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
+      [ "TOTEM_ACTIVE", "d9/d6f/a01445.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
+      [ "TOTEM_STATUE", "d9/d6f/a01445.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
+    ] ]
 ];

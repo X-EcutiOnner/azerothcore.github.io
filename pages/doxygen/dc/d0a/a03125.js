@@ -1,11 +1,6 @@
 var a03125 =
 [
-    [ "npc_announcer_toc10", "da/dd8/a17151.html", "da/dd8/a17151" ],
-    [ "MenuTexts", "dc/d0a/a03125.html#a5e87c460d493df2d4629af8c1a30fc5a", [
-      [ "MSG_TESTED", "dc/d0a/a03125.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185", null ],
-      [ "MSG_NEXT_STAGE", "dc/d0a/a03125.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80", null ],
-      [ "MSG_CRUSADERS", "dc/d0a/a03125.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d", null ],
-      [ "MSG_ANUBARAK", "dc/d0a/a03125.html#a5e87c460d493df2d4629af8c1a30fc5aad43353382c7c2b60068aa5b306b62643", null ]
-    ] ],
-    [ "AddSC_trial_of_the_crusader", "dc/d0a/a03125.html#aae8fa1928137dde06462a753ceebcca6", null ]
+    [ "instance_deadmines", "d0/d10/a13143.html", "d0/d10/a13143" ],
+    [ "instance_deadmines::instance_deadmines_InstanceMapScript", "d0/d41/a13147.html", "d0/d41/a13147" ],
+    [ "AddSC_instance_deadmines", "dc/d0a/a03125.html#a5c92c13d577422c37a1de0e3b5b4a020", null ]
 ];

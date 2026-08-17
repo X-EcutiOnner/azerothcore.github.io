@@ -1,6 +1,6 @@
 var a28231 =
 [
-    [ "go_flamesAI", "d7/d71/a28231.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "d7/d71/a28231.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "d7/d71/a28231.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "go_flamesAI", "da/d63/a28235.html", "da/d63/a28235" ],
+    [ "go_flames", "d7/d71/a28231.html#a75d49202eaf2078b8276e59944d1ec89", null ],
+    [ "GetAI", "d7/d71/a28231.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
 ];

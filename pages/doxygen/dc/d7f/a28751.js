@@ -1,5 +1,5 @@
 var a28751 =
 [
-    [ "npc_sunwell_gate", "dc/d7f/a28751.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
-    [ "OnQuestReward", "dc/d7f/a28751.html#a760f5bef0c1f45f21698b0dcdf2d2236", null ]
+    [ "npc_suns_reach_reclamation", "dc/d7f/a28751.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
+    [ "OnQuestReward", "dc/d7f/a28751.html#aa403d14fccda7adbec1ffeb765079c25", null ]
 ];

@@ -1,7 +1,10 @@
 var a04928 =
 [
-    [ "anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript", "d2/d8e/a29871.html", "d2/d8e/a29871" ],
-    [ "anonymous_namespace{GmVisibleCommandTest.cpp}::GmVisibleCommandTest", "d5/d89/a29875.html", "d5/d89/a29875" ],
-    [ "TEST_F", "db/d15/a04928.html#ab69ef1935950dc8de0cefd60510d681d", null ],
-    [ "TEST_F", "db/d15/a04928.html#af70d9dbfad6d1852aa5b7ea680a70928", null ]
+    [ "AddPetScripts", "db/d15/a04928.html#aaeb6a149e6495db19023f37a4f8bd882", null ],
+    [ "AddSC_deathknight_pet_scripts", "db/d15/a04928.html#ac6a5b089240cd6b996928b3e7f9137b3", null ],
+    [ "AddSC_generic_pet_scripts", "db/d15/a04928.html#a9852812a043673e45884dca938eff157", null ],
+    [ "AddSC_hunter_pet_scripts", "db/d15/a04928.html#ab89117a79c55f003f82b06a1878e6534", null ],
+    [ "AddSC_mage_pet_scripts", "db/d15/a04928.html#a689a4efb7777f4164aee994745a0e2d2", null ],
+    [ "AddSC_priest_pet_scripts", "db/d15/a04928.html#ac0eaa77dc1cb9a092b318e3bc3f6d5b8", null ],
+    [ "AddSC_shaman_pet_scripts", "db/d15/a04928.html#ab07e634ed761985e07d5c0e10f329231", null ]
 ];

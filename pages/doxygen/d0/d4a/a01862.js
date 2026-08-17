@@ -1,28 +1,48 @@
 var a01862 =
 [
-    [ "AllBattlegroundScript", "df/d68/a10687.html", "df/d68/a10687" ],
-    [ "BGScript", "d0/d4a/a01862.html#ae9cb670a445a9cb3089a66cdcc822d0e", null ],
-    [ "AllBattlegroundHook", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11f", [
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_START", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END_REWARD", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_UPDATE", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_ADD_PLAYER", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_BEFORE_ADD_PLAYER", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_REMOVE_PLAYER_AT_LEAVE", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE_VALIDITY", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_ADD_GROUP", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f", null ],
-      [ "ALLBATTLEGROUNDHOOK_CAN_FILL_PLAYERS_TO_BG", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7", null ],
-      [ "ALLBATTLEGROUNDHOOK_IS_CHECK_NORMAL_MATCH", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323", null ],
-      [ "ALLBATTLEGROUNDHOOK_CAN_SEND_MESSAGE_BG_QUEUE", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_JOIN_MESSAGE_ARENA_QUEUE", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_EXIT_MESSAGE_ARENA_QUEUE", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_DESTROY", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_CREATE", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_SETUP", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa6d29f964ce1202e866efd07fcf7bf49a", null ],
-      [ "ALLBATTLEGROUNDHOOK_CAN_ADD_GROUP_TO_MATCHING_POOL", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa6660e58efa109e694bdb78d120bd290a", null ],
-      [ "ALLBATTLEGROUNDHOOK_GET_PLAYER_MATCHMAKING_RATING", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fad51adb5145190199738023e77119f7fb", null ],
-      [ "ALLBATTLEGROUNDHOOK_END", "d0/d4a/a01862.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af", null ]
+    [ "AuctionEntry", "d1/d33/a07471.html", "d1/d33/a07471" ],
+    [ "AuctionHouseObject", "dd/d24/a07475.html", "dd/d24/a07475" ],
+    [ "AuctionHouseMgr", "db/d2e/a07479.html", "db/d2e/a07479" ],
+    [ "AUCTION_SEARCH_DELAY", "d0/d4a/a01862.html#a2f8bc5839b2833512daadb09efb7794d", null ],
+    [ "MAX_AUCTION_HOUSE_FACTIONS", "d0/d4a/a01862.html#a948e0dd86eca242e8907f45c5f16edac", null ],
+    [ "MAX_AUCTION_ITEMS", "d0/d4a/a01862.html#aa87bb3f5c1101ca4c260c6bb743a846e", null ],
+    [ "MAX_AUCTIONS_PER_PAGE", "d0/d4a/a01862.html#aa815dc22ea52ecef37fa9285358247c9", null ],
+    [ "MAX_GETALL_RETURN", "d0/d4a/a01862.html#aa7ea0efcb608c872aa3375218f3bf857", null ],
+    [ "MIN_AUCTION_TIME", "d0/d4a/a01862.html#a65e0ff6290b1d068de3d9be0aa323d27", null ],
+    [ "sAuctionMgr", "d0/d4a/a01862.html#ac3e168154709326e99ab24a7d1395906", null ],
+    [ "AuctionAction", "d0/d4a/a01862.html#a6f0f1b824cc940197c2bc0cd6cb1dd18", [
+      [ "AUCTION_SELL_ITEM", "d0/d4a/a01862.html#a6f0f1b824cc940197c2bc0cd6cb1dd18a47c59e2fd5e2b2cdafa124fee3f94796", null ],
+      [ "AUCTION_CANCEL", "d0/d4a/a01862.html#a6f0f1b824cc940197c2bc0cd6cb1dd18ab9f7fb48c99015aed9fd3a2a0a57c72e", null ],
+      [ "AUCTION_PLACE_BID", "d0/d4a/a01862.html#a6f0f1b824cc940197c2bc0cd6cb1dd18ab934fb55a314a6d1332d37e5fde04a80", null ]
+    ] ],
+    [ "AuctionError", "d0/d4a/a01862.html#acd1082bcecaa4487e9f32ad1d4cd5225", [
+      [ "ERR_AUCTION_OK", "d0/d4a/a01862.html#acd1082bcecaa4487e9f32ad1d4cd5225a3b16c2583b0b0097a95bc23126567b34", null ],
+      [ "ERR_AUCTION_INVENTORY", "d0/d4a/a01862.html#acd1082bcecaa4487e9f32ad1d4cd5225a4db8ce7711bbc2b9a30b6c93f63a7f98", null ],
+      [ "ERR_AUCTION_DATABASE_ERROR", "d0/d4a/a01862.html#acd1082bcecaa4487e9f32ad1d4cd5225ad9a6332f7dcf4f37c65a07880df64a8d", null ],
+      [ "ERR_AUCTION_NOT_ENOUGHT_MONEY", "d0/d4a/a01862.html#acd1082bcecaa4487e9f32ad1d4cd5225a2e3c0e26a932a0d123c74cd6c025c189", null ],
+      [ "ERR_AUCTION_ITEM_NOT_FOUND", "d0/d4a/a01862.html#acd1082bcecaa4487e9f32ad1d4cd5225aa75b2e1b0476195aeb1fe923d483a063", null ],
+      [ "ERR_AUCTION_HIGHER_BID", "d0/d4a/a01862.html#acd1082bcecaa4487e9f32ad1d4cd5225a8b1421e42296f2d0141c2e2c8dfe5bac", null ],
+      [ "ERR_AUCTION_BID_INCREMENT", "d0/d4a/a01862.html#acd1082bcecaa4487e9f32ad1d4cd5225ad31b9ca1c2b4338c2cc19ea57e81bf74", null ],
+      [ "ERR_AUCTION_BID_OWN", "d0/d4a/a01862.html#acd1082bcecaa4487e9f32ad1d4cd5225a98a5a65a2cd34419689fe5d6154bf4e9", null ],
+      [ "ERR_AUCTION_RESTRICTED_ACCOUNT", "d0/d4a/a01862.html#acd1082bcecaa4487e9f32ad1d4cd5225a5d35d3c3de8c5c8418934d758db2dc35", null ]
+    ] ],
+    [ "AuctionHouseFaction", "d0/d4a/a01862.html#af4f47e9bbd0faf17478c06dd0660bb84", [
+      [ "Alliance", "d0/d4a/a01862.html#af4f47e9bbd0faf17478c06dd0660bb84a05bd29b524f0851d42e7902d6af59bf1", null ],
+      [ "Horde", "d0/d4a/a01862.html#af4f47e9bbd0faf17478c06dd0660bb84a05d822a409e1a677e40ee5ac1db7a796", null ],
+      [ "Neutral", "d0/d4a/a01862.html#af4f47e9bbd0faf17478c06dd0660bb84ae9bb5320b3890b6747c91b5a71ae5a01", null ]
+    ] ],
+    [ "AuctionHouseId", "d0/d4a/a01862.html#a6e313ffb5943e7c756e65c142ad1a28d", [
+      [ "Alliance", "d0/d4a/a01862.html#a6e313ffb5943e7c756e65c142ad1a28da05bd29b524f0851d42e7902d6af59bf1", null ],
+      [ "Horde", "d0/d4a/a01862.html#a6e313ffb5943e7c756e65c142ad1a28da05d822a409e1a677e40ee5ac1db7a796", null ],
+      [ "Neutral", "d0/d4a/a01862.html#a6e313ffb5943e7c756e65c142ad1a28dae9bb5320b3890b6747c91b5a71ae5a01", null ]
+    ] ],
+    [ "MailAuctionAnswers", "d0/d4a/a01862.html#a098b883868639271d82defd50dad764e", [
+      [ "AUCTION_OUTBIDDED", "d0/d4a/a01862.html#a098b883868639271d82defd50dad764eafa59fd83ffed270500a83d207c19b3d0", null ],
+      [ "AUCTION_WON", "d0/d4a/a01862.html#a098b883868639271d82defd50dad764eac51a47dbc7d47d70e051386979fa22c8", null ],
+      [ "AUCTION_SUCCESSFUL", "d0/d4a/a01862.html#a098b883868639271d82defd50dad764eac212352bbd7fce3cb50b5673de71ae14", null ],
+      [ "AUCTION_EXPIRED", "d0/d4a/a01862.html#a098b883868639271d82defd50dad764ea2ef6542e060c27e5364ddca4f77b5edc", null ],
+      [ "AUCTION_CANCELLED_TO_BIDDER", "d0/d4a/a01862.html#a098b883868639271d82defd50dad764ea7a49299211b591c1b6b527754069a09c", null ],
+      [ "AUCTION_CANCELED", "d0/d4a/a01862.html#a098b883868639271d82defd50dad764eaa56d99ef4cba6dc5afc2865810f0a4c6", null ],
+      [ "AUCTION_SALE_PENDING", "d0/d4a/a01862.html#a098b883868639271d82defd50dad764ea9f1d5ad610d6e9d778e61d2f79643dd8", null ]
     ] ]
 ];

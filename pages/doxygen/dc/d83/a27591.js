@@ -1,6 +1,7 @@
 var a27591 =
 [
-    [ "HandleKnockBack", "dc/d83/a27591.html#abad9f9293260a3e99be98b43aabb321b", null ],
-    [ "PrepareSpellScript", "dc/d83/a27591.html#a65787b78165631898458264e6ee310f4", null ],
-    [ "Register", "dc/d83/a27591.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
+    [ "HandleScriptEffect", "dc/d83/a27591.html#a5bbcb05b82e0953c82f2a0d96bd79eab", null ],
+    [ "PrepareSpellScript", "dc/d83/a27591.html#a7462fbeab2254046e12a262418ec0d2c", null ],
+    [ "Register", "dc/d83/a27591.html#ac14625182eb0289d8536ac322500ab45", null ],
+    [ "Validate", "dc/d83/a27591.html#a190b802f3b09655886e5bbb9980375af", null ]
 ];

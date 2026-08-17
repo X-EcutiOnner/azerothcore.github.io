@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Asio/IpNetwork.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Collision/DynamicTree.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,41 +105,82 @@ $(document).ready(function(){initNavTree('d3/d52/a00023.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">IpNetwork.h File Reference</div></div>
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">DynamicTree.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">IpAddress.h</a>&quot;</code><br />
-<code>#include &lt;boost/asio/ip/network_v4.hpp&gt;</code><br />
-<code>#include &lt;boost/asio/ip/network_v6.hpp&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">DynamicTree.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">BoundingIntervalHierarchyWrapper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameObjectModel.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapTree.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ModelIgnoreFlags.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ModelInstance.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">RegularGrid.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Timer.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">VMapFactory.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">VMapMgr2.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldModel.h</a>&quot;</code><br />
+<code>#include &lt;G3D/AABox.h&gt;</code><br />
+<code>#include &lt;G3D/Ray.h&gt;</code><br />
+<code>#include &lt;G3D/Vector3.h&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:d3/d82/a05088"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d82/a05088.html">Acore</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d56/a05259.html">HashTrait&lt; GameObjectModel &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:dd/dbd/a05090"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dbd/a05090.html">Acore::Net</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d95/a05263.html">PositionTrait&lt; GameObjectModel &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dad/a05267.html">BoundsTrait&lt; GameObjectModel &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d07/a05271.html">DynTreeImpl</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dd1/a05275.html">DynamicTreeIntersectionCallback</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d60/a05279.html">DynamicTreeLocationInfoCallback</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:af108d05a57113d16ab9c8f3b26870be2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dbd/a05090.html#af108d05a57113d16ab9c8f3b26870be2">Acore::Net::IsInNetwork</a> (boost::asio::ip::address_v4 const &amp;networkAddress, boost::asio::ip::address_v4 const &amp;mask, boost::asio::ip::address_v4 const &amp;clientAddress)</td></tr>
-<tr class="separator:af108d05a57113d16ab9c8f3b26870be2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af75b2c10ca445dc89c53b7ed8d17eae0"><td class="memItemLeft" align="right" valign="top">boost::asio::ip::address_v4&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dbd/a05090.html#af75b2c10ca445dc89c53b7ed8d17eae0">Acore::Net::GetDefaultNetmaskV4</a> (boost::asio::ip::address_v4 const &amp;networkAddress)</td></tr>
-<tr class="separator:af75b2c10ca445dc89c53b7ed8d17eae0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2617cb1c747a45e5af4e2c32cc29d5de"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dbd/a05090.html#a2617cb1c747a45e5af4e2c32cc29d5de">Acore::Net::IsInNetwork</a> (boost::asio::ip::address_v6 const &amp;networkAddress, <a class="el" href="../../dc/d19/a00515.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> prefixLength, boost::asio::ip::address_v6 const &amp;clientAddress)</td></tr>
-<tr class="separator:a2617cb1c747a45e5af4e2c32cc29d5de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:d3/df5/a05093"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df5/a05093.html">anonymous_namespace{DynamicTree.cpp}</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a8e6e06962c0e04aa7bb4ea9a8e6f54a9"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../dc/d83/a05451.html">RegularGrid2D</a>&lt; <a class="el" href="../../d7/dd1/a05395.html">GameObjectModel</a>, <a class="el" href="../../d4/d19/a05251.html">BIHWrap</a>&lt; <a class="el" href="../../d7/dd1/a05395.html">GameObjectModel</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d52/a00023.html#a8e6e06962c0e04aa7bb4ea9a8e6f54a9">ParentTree</a></td></tr>
+<tr class="separator:a8e6e06962c0e04aa7bb4ea9a8e6f54a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a6c8b5b425bcbc0776a4dfa5dae72bf74"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df5/a05093.html#a6c8b5b425bcbc0776a4dfa5dae72bf74">anonymous_namespace{DynamicTree.cpp}::CHECK_TREE_PERIOD</a> = 200</td></tr>
+<tr class="separator:a6c8b5b425bcbc0776a4dfa5dae72bf74"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a8e6e06962c0e04aa7bb4ea9a8e6f54a9" name="a8e6e06962c0e04aa7bb4ea9a8e6f54a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8e6e06962c0e04aa7bb4ea9a8e6f54a9">&#9670;&#160;</a></span>ParentTree</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef <a class="el" href="../../dc/d83/a05451.html">RegularGrid2D</a>&lt;<a class="el" href="../../d7/dd1/a05395.html">GameObjectModel</a>, <a class="el" href="../../d4/d19/a05251.html">BIHWrap</a>&lt;<a class="el" href="../../d7/dd1/a05395.html">GameObjectModel</a>&gt; &gt; <a class="el" href="../../d3/d52/a00023.html#a8e6e06962c0e04aa7bb4ea9a8e6f54a9">ParentTree</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_fc9741c162534defc29969ffbc5109e0.html">Asio</a></li><li class="navelem"><a class="el" href="../../d3/d52/a00023.html">IpNetwork.h</a></li>
-    <li class="footer">Generated on Mon Aug 10 2026 21:21:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_34825b659a55315b272dfcc55a7a0f6a.html">Collision</a></li><li class="navelem"><a class="el" href="../../d3/d52/a00023.html">DynamicTree.cpp</a></li>
+    <li class="footer">Generated on Mon Aug 17 2026 20:57:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

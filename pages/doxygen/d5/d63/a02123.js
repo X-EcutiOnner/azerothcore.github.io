@@ -1,4 +1,4 @@
 var a02123 =
 [
-    [ "UPDATE_TARGET_MAP_INTERVAL", "d5/d63/a02123.html#a49c1eff45f8eb67e523f8593923a5df0", null ]
+    [ "ScriptRegistry< AreaTriggerScript >", "d5/d63/a02123.html#a0447158682f05ead25ae60d49a490088", null ]
 ];

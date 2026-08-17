@@ -1,12 +1,13 @@
 var a01928 =
 [
-    [ "TicketScript", "d0/da5/a10863.html", "d0/da5/a10863" ],
-    [ "TicketHook", "d1/db0/a01928.html#af2de2d4afd6c8a1968e6e4b055620b72", [
-      [ "TICKETHOOK_ON_TICKET_CREATE", "d1/db0/a01928.html#af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61", null ],
-      [ "TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE", "d1/db0/a01928.html#af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374", null ],
-      [ "TICKETHOOK_ON_TICKET_CLOSE", "d1/db0/a01928.html#af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38", null ],
-      [ "TICKETHOOK_ON_TICKET_STATUS_UPDATE", "d1/db0/a01928.html#af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825", null ],
-      [ "TICKETHOOK_ON_TICKET_RESOLVE", "d1/db0/a01928.html#af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df", null ],
-      [ "TICKETHOOK_END", "d1/db0/a01928.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222", null ]
-    ] ]
+    [ "WorldPackets::Character::ShowingCloak", "d5/df0/a10975.html", "d5/df0/a10975" ],
+    [ "WorldPackets::Character::ShowingHelm", "db/dbc/a10979.html", "db/dbc/a10979" ],
+    [ "WorldPackets::Character::LogoutRequest", "de/d56/a10983.html", "de/d56/a10983" ],
+    [ "WorldPackets::Character::LogoutResponse", "d6/de3/a10987.html", "d6/de3/a10987" ],
+    [ "WorldPackets::Character::LogoutComplete", "d9/d45/a10991.html", "d9/d45/a10991" ],
+    [ "WorldPackets::Character::LogoutCancel", "da/d04/a10995.html", "da/d04/a10995" ],
+    [ "WorldPackets::Character::LogoutCancelAck", "d5/dc6/a10999.html", "d5/dc6/a10999" ],
+    [ "WorldPackets::Character::PlayerLogout", "dc/d65/a11003.html", "dc/d65/a11003" ],
+    [ "WorldPackets::Character::PlayedTimeClient", "dc/d16/a11007.html", "dc/d16/a11007" ],
+    [ "WorldPackets::Character::PlayedTime", "d3/d4c/a11011.html", "d3/d4c/a11011" ]
 ];

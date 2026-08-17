@@ -1,6 +1,5 @@
 var a30015 =
 [
-    [ "CreateArmorProcConfig", "d4/d32/a30015.html#aae16272567352cb8730edcba3908a08f", null ],
-    [ "CreateWeaponProcConfig", "d4/d32/a30015.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
-    [ "SetUp", "d4/d32/a30015.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
+    [ "SetUp", "d4/d32/a30015.html#a43a467bfcff58079e28fece9bfe3464c", null ],
+    [ "ALL_EFFECTS_MASK", "d4/d32/a30015.html#ac82c59da0a73f393dcef17d666ef65bf", null ]
 ];

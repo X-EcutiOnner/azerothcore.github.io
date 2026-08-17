@@ -1,6 +1,8 @@
 var a23951 =
 [
-    [ "instance_the_eye_InstanceMapScript", "d2/d1b/a23955.html", "d2/d1b/a23955" ],
-    [ "instance_the_eye", "d5/d77/a23951.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
-    [ "GetInstanceScript", "d5/d77/a23951.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
+    [ "boss_void_reaver", "d5/d77/a23951.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
+    [ "JustDied", "d5/d77/a23951.html#a49e6f52b11177bdac07adff92c2675f5", null ],
+    [ "JustEngagedWith", "d5/d77/a23951.html#a9260d05e11f4dec6fc25432a0524706b", null ],
+    [ "KilledUnit", "d5/d77/a23951.html#adc234fc43308771a42d99049876cad1b", null ],
+    [ "Reset", "d5/d77/a23951.html#a02c36ea960de24991f879943991a93c6", null ]
 ];

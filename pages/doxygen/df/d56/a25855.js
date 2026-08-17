@@ -1,6 +1,5 @@
 var a25855 =
 [
-    [ "HandleDummyTick", "df/d56/a25855.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
-    [ "PrepareAuraScript", "df/d56/a25855.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
-    [ "Register", "df/d56/a25855.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
+    [ "PrepareSpellScript", "df/d56/a25855.html#adaaa520c889970d91f3f38c958efdad4", null ],
+    [ "Register", "df/d56/a25855.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
 ];

@@ -1,7 +1,6 @@
 var a27331 =
 [
-    [ "CalcPeriodic", "dc/d3a/a27331.html#af787d0c8738284e757f808e7d138bdc6", null ],
-    [ "PrepareAuraScript", "dc/d3a/a27331.html#a383db196133bbecee06fe443fdb1bc24", null ],
-    [ "Register", "dc/d3a/a27331.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
-    [ "Update", "dc/d3a/a27331.html#af3f4a7b82e099313d609df7f85f02d00", null ]
+    [ "HandlePeriodic", "dc/d3a/a27331.html#a6fdf93580d860712943bbff07e273fef", null ],
+    [ "PrepareAuraScript", "dc/d3a/a27331.html#ac64daca8467814398251ec8e590f8281", null ],
+    [ "Register", "dc/d3a/a27331.html#ad0e68442f3d12cb58781e5e2d39b49ec", null ]
 ];

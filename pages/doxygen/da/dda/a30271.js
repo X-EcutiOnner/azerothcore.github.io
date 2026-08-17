@@ -1,8 +1,10 @@
 var a30271 =
 [
-    [ "TileInfo", "da/dda/a30271.html#af1a25ded4212f141ab4f32db95709210", null ],
-    [ "m_mapId", "da/dda/a30271.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
-    [ "m_navMeshParams", "da/dda/a30271.html#a9d7c909370359edafa8a9b6a91cef354", null ],
-    [ "m_tileX", "da/dda/a30271.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
-    [ "m_tileY", "da/dda/a30271.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
+    [ "Tile", "da/dda/a30271.html#aa68e7829d0a4109a5fca036afe725756", null ],
+    [ "~Tile", "da/dda/a30271.html#aa5be25df0d267368c90c8f790b218f7a", null ],
+    [ "chf", "da/dda/a30271.html#a9cd4f4be0393e1b40d1ea83dad189a35", null ],
+    [ "cset", "da/dda/a30271.html#a8263aa243c049daa70ed537f206c6a15", null ],
+    [ "dmesh", "da/dda/a30271.html#a23efb981de3dbc2ecdbe4dafdbaa8f58", null ],
+    [ "pmesh", "da/dda/a30271.html#a00dde7c2b62890f4d78697e669f2a810", null ],
+    [ "solid", "da/dda/a30271.html#a6c263578a352c75a21570a26439d6156", null ]
 ];

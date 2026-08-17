@@ -1,7 +1,6 @@
 var a25803 =
 [
-    [ "HandleProc", "d7/d31/a25803.html#a675a17a574539f2da85a5401afc18fec", null ],
-    [ "PrepareAuraScript", "d7/d31/a25803.html#a9e5ea1da302356a41b4eff338956ab93", null ],
-    [ "Register", "d7/d31/a25803.html#a2bade504b1ab2c2869ecaf8873864d19", null ],
-    [ "Validate", "d7/d31/a25803.html#aec327c219229ae9d59cb491eef2d95d3", null ]
+    [ "CheckCast", "d7/d31/a25803.html#a1fbbba8bdc9f775963a999aa00a5a256", null ],
+    [ "PrepareSpellScript", "d7/d31/a25803.html#a481f9d36567607697c3ad5d9501bba48", null ],
+    [ "Register", "d7/d31/a25803.html#afff66ccf4f6596475f4b58c529472f26", null ]
 ];

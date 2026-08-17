@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Entities/Vehicle/Vehicle.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Commands/GmVisibleCommandTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -104,30 +104,53 @@ $(document).ready(function(){initNavTree('d3/d95/a00779.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">Vehicle.cpp File Reference</div></div>
+  <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">GmVisibleCommandTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Vehicle.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AreaDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlefieldWG.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MoveSplineInit.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">TestPlayer.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TestMap.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TemporarySummon.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
-<code>#include &lt;algorithm&gt;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldMock.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptDefines/PlayerScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<code>#include &quot;gmock/gmock.h&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
+<code>#include &lt;string&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d89/a29875.html">anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html">anonymous_namespace{GmVisibleCommandTest.cpp}::GmVisibleCommandTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:da/d1b/a05182"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a05182.html">anonymous_namespace{GmVisibleCommandTest.cpp}</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:ab69ef1935950dc8de0cefd60510d681d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a05182.html#ab69ef1935950dc8de0cefd60510d681d">anonymous_namespace{GmVisibleCommandTest.cpp}::TEST_F</a> (GmVisibleCommandTest, SetsPlayerInvisibleAndInvokesHook)</td></tr>
+<tr class="separator:ab69ef1935950dc8de0cefd60510d681d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af70d9dbfad6d1852aa5b7ea680a70928"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a05182.html#af70d9dbfad6d1852aa5b7ea680a70928">anonymous_namespace{GmVisibleCommandTest.cpp}::TEST_F</a> (GmVisibleCommandTest, SetsPlayerVisibleAndInvokesHook)</td></tr>
+<tr class="separator:af70d9dbfad6d1852aa5b7ea680a70928"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_7668c9a7a4fe0af4092e9bdba7b199c4.html">Vehicle</a></li><li class="navelem"><a class="el" href="../../d3/d95/a00779.html">Vehicle.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 10 2026 21:21:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_3bf2c71940346ae5daa53b7ea4ecf20c.html">Commands</a></li><li class="navelem"><a class="el" href="../../d3/d95/a00779.html">GmVisibleCommandTest.cpp</a></li>
+    <li class="footer">Generated on Mon Aug 17 2026 20:58:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

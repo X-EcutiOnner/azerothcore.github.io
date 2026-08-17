@@ -1,4 +1,4 @@
 var a05072 =
 [
-    [ "TestCreature", "db/dcf/a29699.html", "db/dcf/a29699" ]
+    [ "AppenderDB", "d2/def/a06271.html", "d2/def/a06271" ]
 ];

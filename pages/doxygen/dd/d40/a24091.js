@@ -1,6 +1,9 @@
 var a24091 =
 [
-    [ "npc_wounded_blood_elfAI", "d9/de2/a24095.html", "d9/de2/a24095" ],
-    [ "npc_wounded_blood_elf", "dd/d40/a24091.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "dd/d40/a24091.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "npc_ancestral_wolfAI", "dd/d40/a24091.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "dd/d40/a24091.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "dd/d40/a24091.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "dd/d40/a24091.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "WaypointReached", "dd/d40/a24091.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "ryga", "dd/d40/a24091.html#ac238214604720e298124b58c35d58e05", null ]
 ];

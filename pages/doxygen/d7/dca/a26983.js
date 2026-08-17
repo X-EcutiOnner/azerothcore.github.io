@@ -1,9 +1,8 @@
 var a26983 =
 [
-    [ "CheckProcDummy", "d7/dca/a26983.html#ae4e6d0683039ca5e8ff1877248048b3b", null ],
-    [ "CheckProcTriggerSpell", "d7/dca/a26983.html#affbff48ab9421bda51b3a5781188546d", null ],
-    [ "HandleProcDummy", "d7/dca/a26983.html#a0113a45bd4c28d1769df7b675de697ed", null ],
-    [ "PrepareAuraScript", "d7/dca/a26983.html#af7d9ac7e014bbda32275bb584f5e2660", null ],
-    [ "Register", "d7/dca/a26983.html#aa575597dab0670e768e20a3a06c6dc0a", null ],
-    [ "Validate", "d7/dca/a26983.html#a63844728796945e892985720296d0c07", null ]
+    [ "CheckProc", "d7/dca/a26983.html#ae73e9e1681eb191bb7e90a09c89b6c0d", null ],
+    [ "HandleProc", "d7/dca/a26983.html#a3e6027433902a5f8b4955c766cca51b4", null ],
+    [ "PrepareAuraScript", "d7/dca/a26983.html#a843b376abe1439d8431df9a70f40deb6", null ],
+    [ "Register", "d7/dca/a26983.html#a0dcd926eaf184ad5758f833b1c185e33", null ],
+    [ "Validate", "d7/dca/a26983.html#af13ff5845ea9121ceac37a4d93914f23", null ]
 ];

@@ -1,7 +1,7 @@
 var a26379 =
 [
-    [ "HandlePeriodicDummy", "db/d38/a26379.html#ac8ca6a69b47cb2316b93e1953e233f8f", null ],
-    [ "PrepareAuraScript", "db/d38/a26379.html#a1c85329bcafd6c327d1862feabc1eed0", null ],
-    [ "Register", "db/d38/a26379.html#a0c43d96bf2e59fd67790f327cf14d71e", null ],
-    [ "Validate", "db/d38/a26379.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5", null ]
+    [ "HandleProc", "db/d38/a26379.html#a7bf47ecb24b3427dda1980f68b41cfe8", null ],
+    [ "PrepareAuraScript", "db/d38/a26379.html#a92468411049bd05eda99e676edefcf6e", null ],
+    [ "Register", "db/d38/a26379.html#a32ca1fb3bb75fb98cb8aec38adf54325", null ],
+    [ "Validate", "db/d38/a26379.html#a9a531733a3e7426a3bf6aa50ab86f4d9", null ]
 ];

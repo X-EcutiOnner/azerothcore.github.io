@@ -1,6 +1,7 @@
 var a25535 =
 [
-    [ "HandleDamageCalc", "d9/d3d/a25535.html#a1d0c86e476e4ef75f4e8f2ff27fdd395", null ],
-    [ "PrepareSpellScript", "d9/d3d/a25535.html#a4271f026fd9cddeb109761e9b864c381", null ],
-    [ "Register", "d9/d3d/a25535.html#a03bb4cf19328efa783600273663b609a", null ]
+    [ "OnApply", "d9/d3d/a25535.html#a455a885611978a390cd4bfa76b05f82b", null ],
+    [ "PrepareAuraScript", "d9/d3d/a25535.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
+    [ "Register", "d9/d3d/a25535.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
+    [ "Validate", "d9/d3d/a25535.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
 ];

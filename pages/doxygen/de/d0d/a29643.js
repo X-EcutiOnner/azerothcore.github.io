@@ -1,6 +1,8 @@
 var a29643 =
 [
-    [ "lastExtraAttackSpell", "de/d0d/a29643.html#a0b7c47a0c1a328703648936a1da3245f", null ],
-    [ "triggeredSpellHasExtraAttacks", "de/d0d/a29643.html#ad58a8f2f91c6a32371feab14e51e8e29", null ],
-    [ "triggerSpellId", "de/d0d/a29643.html#a01a4d76e7e2bf15a3ae06926fa1189c9", null ]
+    [ "auraHasCanProcFromProcs", "de/d0d/a29643.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
+    [ "isTriggered", "de/d0d/a29643.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
+    [ "procAuraSpellId", "de/d0d/a29643.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
+    [ "spellHasNotAProc", "de/d0d/a29643.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
+    [ "triggeredByAuraSpellId", "de/d0d/a29643.html#ad62562e342e1d090e3f26f7c40a35795", null ]
 ];

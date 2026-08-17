@@ -1,8 +1,8 @@
 var dir_8af33554ddafa3432455437cc558c9c8 =
 [
-    [ "SpellAuraDefines.h", "d4/d9b/a02039.html", "d4/d9b/a02039" ],
-    [ "SpellAuraEffects.cpp", "d7/db2/a02036.html", "d7/db2/a02036" ],
-    [ "SpellAuraEffects.h", "d1/dc4/a02042.html", "d1/dc4/a02042" ],
-    [ "SpellAuras.cpp", "d1/d39/a02048.html", "d1/d39/a02048" ],
-    [ "SpellAuras.h", "d7/d13/a02045.html", "d7/d13/a02045" ]
+    [ "SpellAuraDefines.h", "d4/d99/a01634.html", "d4/d99/a01634" ],
+    [ "SpellAuraEffects.cpp", "db/d95/a01637.html", "db/d95/a01637" ],
+    [ "SpellAuraEffects.h", "d4/d49/a01643.html", "d4/d49/a01643" ],
+    [ "SpellAuras.cpp", "d0/da4/a01631.html", "d0/da4/a01631" ],
+    [ "SpellAuras.h", "de/d14/a01640.html", "de/d14/a01640" ]
 ];

@@ -1,9 +1,6 @@
 var a25563 =
 [
-    [ "spell_gen_translocate", "dd/d70/a25563.html#a56a3df0eba3e1521aa2898194c39e919", null ],
-    [ "HandleScript", "dd/d70/a25563.html#a67684fb76da60fdc13dbece055dae157", null ],
-    [ "PrepareSpellScript", "dd/d70/a25563.html#a6f0986e54ad410c2f42a7935645485ed", null ],
-    [ "Register", "dd/d70/a25563.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
-    [ "Validate", "dd/d70/a25563.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
-    [ "_spellId", "dd/d70/a25563.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
+    [ "OnProc", "dd/d70/a25563.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
+    [ "PrepareAuraScript", "dd/d70/a25563.html#a6a7b011f151ff81672221b84eb4456b8", null ],
+    [ "Register", "dd/d70/a25563.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
 ];

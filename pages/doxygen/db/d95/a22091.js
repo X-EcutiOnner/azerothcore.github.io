@@ -1,6 +1,7 @@
 var a22091 =
 [
-    [ "npc_black_knight_graveyardAI", "dd/d62/a22095.html", "dd/d62/a22095" ],
-    [ "npc_black_knight_graveyard", "db/d95/a22091.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
-    [ "GetAI", "db/d95/a22091.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
+    [ "HandleDummy", "db/d95/a22091.html#a3a0f6a1c3bad060c209e869c7c4dcd15", null ],
+    [ "PrepareSpellScript", "db/d95/a22091.html#a4649e83f5a8449d6b17dbb5b5c56cd00", null ],
+    [ "Register", "db/d95/a22091.html#a9e272ccbcda76df669b2c15e6d2de061", null ],
+    [ "Validate", "db/d95/a22091.html#aec08efe15452819d923c40030e464392", null ]
 ];

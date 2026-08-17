@@ -1,5 +1,4 @@
 var a00296 =
 [
-    [ "VMAP::MapRayCallback", "d5/d15/a05335.html", "d5/d15/a05335" ],
-    [ "VMAP::LocationInfoCallback", "dc/d54/a05339.html", "dc/d54/a05339" ]
+    [ "Optional", "db/d7b/a00296.html#aaf8f4d77efd311ec7818ab421294ef82", null ]
 ];

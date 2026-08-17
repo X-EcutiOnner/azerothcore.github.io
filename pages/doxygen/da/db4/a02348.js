@@ -1,7 +1,6 @@
 var a02348 =
 [
-    [ "IsAcceptedClientBuild", "da/db4/a02348.html#a50a906b5a3fdca3508aee0997881a717", null ],
-    [ "IsPostBCAcceptedClientBuild", "da/db4/a02348.html#ad4f22daf9d88367d90d92416f470a28c", null ],
-    [ "IsPreBCAcceptedClientBuild", "da/db4/a02348.html#a96896fc9dad2c304f681a24776f6726b", null ],
-    [ "MAX_PRE_BC_CLIENT_BUILD", "da/db4/a02348.html#ac023f15b280fc65fdefefb77f2f7be7b", null ]
+    [ "InstanceMapScript", "dd/d19/a10807.html", "dd/d19/a10807" ],
+    [ "GenericInstanceMapScript< IS >", "d7/d50/a10811.html", "d7/d50/a10811" ],
+    [ "RegisterInstanceScript", "da/db4/a02348.html#a78044a95772db069981b463451a60613", null ]
 ];

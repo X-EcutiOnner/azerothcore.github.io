@@ -1,11 +1,12 @@
 var a04580 =
 [
-    [ "instance_hyjal", "dc/db6/a15235.html", "dc/db6/a15235" ],
-    [ "instance_hyjal::instance_mount_hyjal_InstanceMapScript", "da/dd6/a15239.html", "da/dd6/a15239" ],
-    [ "AddSC_instance_mount_hyjal", "dd/db6/a04580.html#a5c7a0ad3a2ae9f82eb9c45fbf90d5b41", null ],
+    [ "instance_shadow_labyrinth", "df/d4b/a22763.html", "df/d4b/a22763" ],
+    [ "instance_shadow_labyrinth::instance_shadow_labyrinth_InstanceMapScript", "dc/d17/a22767.html", "dc/d17/a22767" ],
+    [ "spell_mark_of_malice", "db/d7c/a22771.html", "db/d7c/a22771" ],
+    [ "MarkOfMalice", "dd/db6/a04580.html#a5faa1e1ef40cd28efc7332da31667677", [
+      [ "SPELL_MARK_OF_MALICE_TRIGGERED", "dd/db6/a04580.html#a5faa1e1ef40cd28efc7332da31667677a3c3d2a42daa901d72ea35a7207267ecb", null ]
+    ] ],
+    [ "AddSC_instance_shadow_labyrinth", "dd/db6/a04580.html#ad8948ff8ccd6c3cee367ad7227308846", null ],
     [ "creatureData", "dd/db6/a04580.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "dd/db6/a04580.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "hyjalNightElfWaveTimers", "dd/db6/a04580.html#ade7b4d2fdf8cd15fa4985554885eb881", null ],
-    [ "hyjalRetreatTimers", "dd/db6/a04580.html#a254787ab3a62d90e906ded9ef63aa229", null ],
-    [ "hyjalWaveTimers", "dd/db6/a04580.html#aaad50890c4534c5b5c848a9b85f3d8fe", null ]
+    [ "doorData", "dd/db6/a04580.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

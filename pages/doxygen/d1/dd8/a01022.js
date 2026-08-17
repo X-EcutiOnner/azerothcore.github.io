@@ -1,4 +1,6 @@
 var a01022 =
 [
-    [ "ScriptRegistry< AllBattlegroundScript >", "d1/dd8/a01022.html#a4a1c5c34c42d3aaca9edc12feb3f7575", null ]
+    [ "ResetNotifier", "d4/d0f/a10235.html", "d4/d0f/a10235" ],
+    [ "MAP_INVALID_ZONE", "d1/dd8/a01022.html#ab627038bd646584995dec28f4e212525", null ],
+    [ "IsInWMOInterior", "d1/dd8/a01022.html#ad41458075af3abab316f89b325f54b7e", null ]
 ];

@@ -1,7 +1,7 @@
 var a02045 =
 [
-    [ "AuraApplication", "d2/d82/a11835.html", "d2/d82/a11835" ],
-    [ "Aura", "d1/db8/a11839.html", "d1/db8/a11839" ],
-    [ "UnitAura", "dd/d69/a11843.html", "dd/d69/a11843" ],
-    [ "DynObjAura", "dc/d83/a11847.html", "dc/d83/a11847" ]
+    [ "ScriptObject", "d9/d6d/a10907.html", "d9/d6d/a10907" ],
+    [ "UpdatableScript< TObject >", "df/d82/a10911.html", "df/d82/a10911" ],
+    [ "MapScript< TMap >", "d2/d93/a10915.html", "d2/d93/a10915" ],
+    [ "VISIBLE_RANGE", "d7/d13/a02045.html#ac7e3013df774904b0d331e5b0c6e93ad", null ]
 ];

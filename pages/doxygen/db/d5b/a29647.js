@@ -1,7 +1,6 @@
 var a29647 =
 [
-    [ "flatModifier", "db/d5b/a29647.html#a781485dfaede63716eddba66971600e3", null ],
-    [ "hasSpellModOwner", "db/d5b/a29647.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
-    [ "hasSpellProto", "db/d5b/a29647.html#a96607da311b5774eeaa01674d32ab22e", null ],
-    [ "pctModifier", "db/d5b/a29647.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
+    [ "lastExtraAttackSpell", "db/d5b/a29647.html#a0b7c47a0c1a328703648936a1da3245f", null ],
+    [ "triggeredSpellHasExtraAttacks", "db/d5b/a29647.html#ad58a8f2f91c6a32371feab14e51e8e29", null ],
+    [ "triggerSpellId", "db/d5b/a29647.html#a01a4d76e7e2bf15a3ae06926fa1189c9", null ]
 ];

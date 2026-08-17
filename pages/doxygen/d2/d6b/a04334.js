@@ -1,5 +1,6 @@
 var a04334 =
 [
-    [ "OutdoorPvP_grizzly_hills", "d1/d91/a22563.html", "d1/d91/a22563" ],
-    [ "AddSC_outdoorpvp_gh", "d2/d6b/a04334.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ]
+    [ "fireworkShowGameobjectSilvermoon", "d2/d6b/a04334.html#a6e36b6efb126a2fe4d53b641a9084409", null ],
+    [ "fireworkShowScheduleSilvermoon", "d2/d6b/a04334.html#af7d182f04e0fa03858c410b014e3f161", null ],
+    [ "fireworkShowSilvermoon", "d2/d6b/a04334.html#accc2d205eed4478e8e14ed4d88aeeb02", null ]
 ];

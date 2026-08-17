@@ -1,7 +1,7 @@
 var a22087 =
 [
-    [ "HandleDummy", "d7/d55/a22087.html#a3a0f6a1c3bad060c209e869c7c4dcd15", null ],
-    [ "PrepareSpellScript", "d7/d55/a22087.html#a4649e83f5a8449d6b17dbb5b5c56cd00", null ],
-    [ "Register", "d7/d55/a22087.html#a9e272ccbcda76df669b2c15e6d2de061", null ],
-    [ "Validate", "d7/d55/a22087.html#aec08efe15452819d923c40030e464392", null ]
+    [ "HandleScript", "d7/d55/a22087.html#a3bdcc0fcfd8be3396b5af22152c66686", null ],
+    [ "PrepareSpellScript", "d7/d55/a22087.html#af67e8d959528633e48e56061b1790841", null ],
+    [ "Register", "d7/d55/a22087.html#af4a66003ea25b81028c05bcc0bc4dd1d", null ],
+    [ "Validate", "d7/d55/a22087.html#a007097b10ad0beeb61c1bd4117d963a3", null ]
 ];

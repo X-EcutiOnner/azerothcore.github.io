@@ -12,6 +12,7 @@ var a12387 =
     [ "HandleAccountFlagAddCommand", "d6/de4/a12387.html#a7808acde3baa83c399ca6bf936065cf2", null ],
     [ "HandleAccountFlagListCommand", "d6/de4/a12387.html#a12e56ff772b3ed2997dc979203c05e48", null ],
     [ "HandleAccountFlagRemoveCommand", "d6/de4/a12387.html#afba345af5a9da1ff68c7333015730ef3", null ],
+    [ "HandleAccountInfoCommand", "d6/de4/a12387.html#aa4f1f4513e0ce2e17d1bb5aee8a28ad2", null ],
     [ "HandleAccountLockCountryCommand", "d6/de4/a12387.html#a35e6b959596f1d9a32d39af117d2b95e", null ],
     [ "HandleAccountLockIpCommand", "d6/de4/a12387.html#a14e0d3fefc18f003c0079250e5c06b18", null ],
     [ "HandleAccountOnlineListCommand", "d6/de4/a12387.html#a36cb5b885d6c0745303b386ad42541f6", null ],

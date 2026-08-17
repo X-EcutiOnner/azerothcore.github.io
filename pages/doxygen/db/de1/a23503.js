@@ -1,6 +1,7 @@
 var a23503 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "db/d98/a23507.html", "db/d98/a23507" ],
-    [ "instance_the_underbog", "db/de1/a23503.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "db/de1/a23503.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "HandleScript", "db/de1/a23503.html#a42052a416290a54d5479a402de578a73", null ],
+    [ "PrepareSpellScript", "db/de1/a23503.html#a5f6aa972879b65c0207e47435d436a33", null ],
+    [ "Register", "db/de1/a23503.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
+    [ "Validate", "db/de1/a23503.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
 ];

@@ -1,6 +1,6 @@
 var a22351 =
 [
-    [ "CheckCast", "dd/dfd/a22351.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
-    [ "PrepareSpellScript", "dd/dfd/a22351.html#ab4025d8a4acee4723dcca972bce01f45", null ],
-    [ "Register", "dd/dfd/a22351.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "dd/dfd/a22351.html#afd54b130725aa724b80f150f968ce09d", null ],
+    [ "MovementInform", "dd/dfd/a22351.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
+    [ "PassengerBoarded", "dd/dfd/a22351.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
 ];

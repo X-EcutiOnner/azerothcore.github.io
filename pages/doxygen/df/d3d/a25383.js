@@ -1,8 +1,7 @@
 var a25383 =
 [
-    [ "CheckCast", "df/d3d/a25383.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
-    [ "HandleScript", "df/d3d/a25383.html#a2c1702398e4cbdcc106679d534a27743", null ],
-    [ "PrepareSpellScript", "df/d3d/a25383.html#a613bdf7841744632c1e6de147e0352b9", null ],
-    [ "Register", "df/d3d/a25383.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
-    [ "Validate", "df/d3d/a25383.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
+    [ "HandleDummy", "df/d3d/a25383.html#a9037eddf4c9ce96c15c57e8906bd9a5f", null ],
+    [ "Load", "df/d3d/a25383.html#a738318535196b3d55e8f1b3da4f76c95", null ],
+    [ "PrepareSpellScript", "df/d3d/a25383.html#a941a097124ed9b4917faa18ff23fc366", null ],
+    [ "Register", "df/d3d/a25383.html#aaf9d269e7d052515f31b463999e92cf4", null ]
 ];

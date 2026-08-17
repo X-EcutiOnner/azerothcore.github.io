@@ -1,15 +1,13 @@
 var a02213 =
 [
-    [ "STR", "de/d8e/a02213.html#a18d295a837ac71add5578860b55e5502", null ],
-    [ "computeFallElevation", "de/d8e/a02213.html#a87260372150c8322b45e75bfaa445f14", null ],
-    [ "computeFallTime", "de/d8e/a02213.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
-    [ "print_flags", "de/d8e/a02213.html#a189485de5eba32c5b18dbb5c579b60d9", null ],
-    [ "g_MovementFlag_names", "de/d8e/a02213.html#a2982e1b6388bf8b29797b16969b64173", null ],
-    [ "g_SplineFlag_names", "de/d8e/a02213.html#aa6a1b38cb6e1507d88f0f45a4820990b", null ],
-    [ "terminal_fallTime", "de/d8e/a02213.html#aa927e4ada20ca56ce951239357407270", null ],
-    [ "terminal_length", "de/d8e/a02213.html#a7d1eb637bb6ae4a1859504fb84872808", null ],
-    [ "terminal_safeFall_fallTime", "de/d8e/a02213.html#a2fc34c9abcc5822e12037c23c2ecbfe0", null ],
-    [ "terminal_safeFall_length", "de/d8e/a02213.html#a4e816239736800d4508c1fc14e624ddc", null ],
-    [ "terminalSafefallVelocity", "de/d8e/a02213.html#a654673c77f53f27a80309b050d44d38d", null ],
-    [ "terminalVelocity", "de/d8e/a02213.html#a98cc74e5667e1057f334f02a28abcb01", null ]
+    [ "PetScript", "d5/d88/a10843.html", "d5/d88/a10843" ],
+    [ "PetHook", "de/d8e/a02213.html#a2e6398af59b176e045eece50b1a5d404", [
+      [ "PETHOOK_ON_INIT_STATS_FOR_LEVEL", "de/d8e/a02213.html#a2e6398af59b176e045eece50b1a5d404a1aa219c404710f806516a47fb4a2c421", null ],
+      [ "PETHOOK_ON_CALCULATE_MAX_TALENT_POINTS_FOR_LEVEL", "de/d8e/a02213.html#a2e6398af59b176e045eece50b1a5d404af4173fac4396520c8d5f664cb15cd09a", null ],
+      [ "PETHOOK_CAN_UNLEARN_SPELL_SET", "de/d8e/a02213.html#a2e6398af59b176e045eece50b1a5d404a73a664bf8c79a8347a66639e7f4585ed", null ],
+      [ "PETHOOK_CAN_UNLEARN_SPELL_DEFAULT", "de/d8e/a02213.html#a2e6398af59b176e045eece50b1a5d404afd7165a69bf431cabc9b485460fde1ce", null ],
+      [ "PETHOOK_CAN_RESET_TALENTS", "de/d8e/a02213.html#a2e6398af59b176e045eece50b1a5d404a7c81bb255968b85119ef74e3124abe11", null ],
+      [ "PETHOOK_ON_PET_ADD_TO_WORLD", "de/d8e/a02213.html#a2e6398af59b176e045eece50b1a5d404a34b989d3a1e33e5ab31d98bf4a36ee56", null ],
+      [ "PETHOOK_END", "de/d8e/a02213.html#a2e6398af59b176e045eece50b1a5d404aa71e862274b6066ffe8af41bccdac911", null ]
+    ] ]
 ];

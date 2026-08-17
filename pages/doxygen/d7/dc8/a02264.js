@@ -1,4 +1,4 @@
 var a02264 =
 [
-    [ "FormationMovementGenerator", "d6/d51/a10431.html", "d6/d51/a10431" ]
+    [ "ScriptRegistry< AllCreatureScript >", "d7/dc8/a02264.html#a1fdf1f4f0e165d771b9e1e9064529256", null ]
 ];

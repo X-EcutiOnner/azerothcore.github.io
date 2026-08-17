@@ -1,6 +1,7 @@
 var a25867 =
 [
-    [ "OnBaseRemove", "d3/d77/a25867.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "PrepareAuraScript", "d3/d77/a25867.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "d3/d77/a25867.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "CheckProc", "d3/d77/a25867.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
+    [ "HandleProc", "d3/d77/a25867.html#a5cf9cea911ead2f261522e55e94c745a", null ],
+    [ "PrepareAuraScript", "d3/d77/a25867.html#a3f2b20607f90ad641769eb284ddfab85", null ],
+    [ "Register", "d3/d77/a25867.html#a55557026689613e91aeabce1af442237", null ]
 ];

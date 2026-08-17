@@ -1,8 +1,14 @@
 var a02291 =
 [
-    [ "PLAYER_FLIGHT_SPEED", "dd/d3b/a02291.html#a2efde26aed42919892139c2ffb51b279", null ],
-    [ "SKIP_SPLINE_POINT_DISTANCE_SQ", "dd/d3b/a02291.html#a55b33fb4c6265551b0327903da9bff4c", null ],
-    [ "IsNodeIncludedInShortenedPath", "dd/d3b/a02291.html#a47a5affa854677472690918c4d16f998", null ],
-    [ "PositionToVector3", "dd/d3b/a02291.html#ac0d2ec1868bbb7a72904410f1efeaaca", null ],
-    [ "UpdateHomePosition", "dd/d3b/a02291.html#a2cfd2302ba925854b6edc6af49bcb40a", null ]
+    [ "GroupScript", "d3/dee/a10799.html", "d3/dee/a10799" ],
+    [ "GroupHook", "dd/d3b/a02291.html#a373b3fe6b402e8321892b8c1be74ab5d", [
+      [ "GROUPHOOK_ON_ADD_MEMBER", "dd/d3b/a02291.html#a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681", null ],
+      [ "GROUPHOOK_ON_INVITE_MEMBER", "dd/d3b/a02291.html#a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe", null ],
+      [ "GROUPHOOK_ON_REMOVE_MEMBER", "dd/d3b/a02291.html#a373b3fe6b402e8321892b8c1be74ab5daee0f42175b42d95f45380c1b70c786c3", null ],
+      [ "GROUPHOOK_ON_CHANGE_LEADER", "dd/d3b/a02291.html#a373b3fe6b402e8321892b8c1be74ab5da32d5ef38f2a877e2d36cdf20e9bb6d23", null ],
+      [ "GROUPHOOK_ON_DISBAND", "dd/d3b/a02291.html#a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353", null ],
+      [ "GROUPHOOK_CAN_GROUP_JOIN_BATTLEGROUND_QUEUE", "dd/d3b/a02291.html#a373b3fe6b402e8321892b8c1be74ab5da9b4d04fe85f908719f1412cb9b88e61c", null ],
+      [ "GROUPHOOK_ON_CREATE", "dd/d3b/a02291.html#a373b3fe6b402e8321892b8c1be74ab5da0cc7b93ed018172ab0c6f191681e5f6c", null ],
+      [ "GROUPHOOK_END", "dd/d3b/a02291.html#a373b3fe6b402e8321892b8c1be74ab5da71a6d6ef47c3bda7d088f579b6f3a5f2", null ]
+    ] ]
 ];

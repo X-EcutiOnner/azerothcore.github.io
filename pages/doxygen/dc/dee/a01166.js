@@ -1,5 +1,5 @@
 var a01166 =
 [
-    [ "GroupMgr", "dd/d44/a09908.html", "dd/d44/a09908" ],
-    [ "sGroupMgr", "dc/dee/a01166.html#a9b001b22670103435cf11551af9fa71e", null ]
+    [ "ThreatManager::Heap", "dc/db7/a08247.html", null ],
+    [ "ThreatReferenceImpl", "de/dad/a08251.html", "de/dad/a08251" ]
 ];

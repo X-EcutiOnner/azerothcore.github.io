@@ -1,7 +1,10 @@
 var a29883 =
 [
-    [ "ExpectDate", "d1/daa/a29883.html#a4d45a7190580f2191020d031ad0aab10", null ],
-    [ "IsLeapYear", "d1/daa/a29883.html#af80c133dce034eed150593681fba594d", null ],
-    [ "IsValidDate", "d1/daa/a29883.html#af1ee91196bfb749605bf98f4441a03a4", null ],
-    [ "NormalizeTm", "d1/daa/a29883.html#af4587d4154c059f5e472f00f141a771a", null ]
+    [ "FakeAura", "d1/daa/a29883.html#a72674203b5aa768aaec46bc824c66ad8", null ],
+    [ "IsExpired", "d1/daa/a29883.html#af55fe68d7548abe43fbbe391163dcbf4", null ],
+    [ "IsRemoved", "d1/daa/a29883.html#ad4b4a547d5596ad39d46125ded1c0863", null ],
+    [ "expired", "d1/daa/a29883.html#a9de4d15b90ea8e89a5a3dd95122f5ff9", null ],
+    [ "removed", "d1/daa/a29883.html#a0ea41ca4e60c4c56228687ca6038695f", null ],
+    [ "spellId", "d1/daa/a29883.html#ab08e902dae2b24d869c2befe1e9a74a2", null ],
+    [ "updated", "d1/daa/a29883.html#aacbde7f93cb160ed272a4b3ddd18f1ee", null ]
 ];

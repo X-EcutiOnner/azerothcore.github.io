@@ -1,19 +1,21 @@
 var a02888 =
 [
-    [ "LivingPoisonData", "d9/dbd/a19683.html", "d9/dbd/a19683" ],
-    [ "instance_naxxramas", "d0/d46/a19687.html", "d0/d46/a19687" ],
-    [ "npc_mr_bigglesworth", "df/d15/a19691.html", "df/d15/a19691" ],
-    [ "npc_living_poison", "de/d3f/a19695.html", "de/d3f/a19695" ],
-    [ "npc_naxxramas_trigger", "d4/dab/a19699.html", "d4/dab/a19699" ],
-    [ "at_naxxramas_hub_portal", "da/d1e/a19703.html", "da/d1e/a19703" ],
-    [ "AddSC_instance_naxxramas", "d4/d04/a02888.html#aba1e1afda4423e51a1849a33da49a334", null ],
-    [ "boundaries", "d4/d04/a02888.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "d4/d04/a02888.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d4/d04/a02888.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "d4/d04/a02888.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
-    [ "HeiganEruptionSlope", "d4/d04/a02888.html#afc813e25da4423b11b3f71a4c3434b43", null ],
-    [ "HeiganPos", "d4/d04/a02888.html#a329c88a19bf7f6ee06251fb30b96aa80", null ],
-    [ "HorsemanDataGroup", "d4/d04/a02888.html#a78f519adea6cb5310c9cf098d905aa7b", null ],
-    [ "LivingPoisonDataList", "d4/d04/a02888.html#a7adc6b584916ee1544c8ff38ab6327a9", null ],
-    [ "SapphironTeleportPos", "d4/d04/a02888.html#a4b033537221c1c9063ff056950ac6fdb", null ]
+    [ "AccountActionIpLogger", "d1/dc8/a28079.html", "d1/dc8/a28079" ],
+    [ "CharacterActionIpLogger", "d6/d7b/a28083.html", "d6/d7b/a28083" ],
+    [ "CharacterDeleteActionIpLogger", "d7/d87/a28087.html", "d7/d87/a28087" ],
+    [ "IPLoggingTypes", "d4/d04/a02888.html#a3b67d8dbf539fa5519b3e33da9d0137b", [
+      [ "ACCOUNT_LOGIN", "d4/d04/a02888.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8", null ],
+      [ "ACCOUNT_FAIL_LOGIN", "d4/d04/a02888.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f", null ],
+      [ "ACCOUNT_CHANGE_PW", "d4/d04/a02888.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059", null ],
+      [ "ACCOUNT_CHANGE_PW_FAIL", "d4/d04/a02888.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53", null ],
+      [ "ACCOUNT_CHANGE_EMAIL", "d4/d04/a02888.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c", null ],
+      [ "ACCOUNT_CHANGE_EMAIL_FAIL", "d4/d04/a02888.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30", null ],
+      [ "CHARACTER_CREATE", "d4/d04/a02888.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85", null ],
+      [ "CHARACTER_LOGIN", "d4/d04/a02888.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363", null ],
+      [ "CHARACTER_LOGOUT", "d4/d04/a02888.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607", null ],
+      [ "CHARACTER_DELETE", "d4/d04/a02888.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162", null ],
+      [ "CHARACTER_FAILED_DELETE", "d4/d04/a02888.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7", null ],
+      [ "UNKNOWN_ACTION", "d4/d04/a02888.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8", null ]
+    ] ],
+    [ "AddSC_action_ip_logger", "d4/d04/a02888.html#a530be5efb251d5ca58e97804e48ad953", null ]
 ];

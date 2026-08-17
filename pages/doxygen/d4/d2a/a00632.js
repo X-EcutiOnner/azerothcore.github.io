@@ -1,7 +1,5 @@
 var a00632 =
 [
-    [ "canCreateExtraItems", "d4/d2a/a00632.html#a49687e255d65fa15dac5e6a428c5739d", null ],
-    [ "CanCreatePerfectItem", "d4/d2a/a00632.html#a818c557864790091814604b6d2175e52", null ],
-    [ "LoadSkillExtraItemTable", "d4/d2a/a00632.html#a3244d04018405bafe21acc8bc96cc743", null ],
-    [ "LoadSkillPerfectItemTable", "d4/d2a/a00632.html#a121df170a82be5ab5b05999a6be27b69", null ]
+    [ "TestSpellEntryHelper", "d8/da4/a29695.html", "d8/da4/a29695" ],
+    [ "SpellInfoBuilder", "db/dcf/a29699.html", "db/dcf/a29699" ]
 ];

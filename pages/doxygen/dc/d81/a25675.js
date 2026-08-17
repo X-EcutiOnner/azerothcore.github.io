@@ -1,7 +1,11 @@
 var a25675 =
 [
-    [ "HandleOnEffectApply", "dc/d81/a25675.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
-    [ "HandleOnEffectRemove", "dc/d81/a25675.html#a094d788d157474a9683387d5c340538f", null ],
-    [ "PrepareAuraScript", "dc/d81/a25675.html#aad378b8c45f11af51faf9128878c01df", null ],
-    [ "Register", "dc/d81/a25675.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
+    [ "CalcPeriodic", "dc/d81/a25675.html#ab5feede17fa79c9d02fa459586eaca41", null ],
+    [ "CalculateAPAmount", "dc/d81/a25675.html#af2b1da799f1b3c0373dc6782dabbf89c", null ],
+    [ "CalculateResistanceAmount", "dc/d81/a25675.html#a51828f07b0e099c5931161f7aeebaab7", null ],
+    [ "CalculateSPAmount", "dc/d81/a25675.html#a255ed8f5158e715313e44b13f30b099f", null ],
+    [ "CalculateStatAmount", "dc/d81/a25675.html#ade1b7256d19b526a7f4b1520f6b2f663", null ],
+    [ "HandlePeriodic", "dc/d81/a25675.html#a136c8cedca7630543b8937e77571ead1", null ],
+    [ "PrepareAuraScript", "dc/d81/a25675.html#a638a2544d9216bec90c433100c0663a0", null ],
+    [ "Register", "dc/d81/a25675.html#a55605257006d8218250932357f325bb8", null ]
 ];

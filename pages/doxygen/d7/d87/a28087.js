@@ -1,5 +1,7 @@
 var a28087 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "d7/d87/a28087.html#aa2e9a01adad7e195860bbc6c55131024", null ],
-    [ "OnTrigger", "d7/d87/a28087.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
+    [ "CharacterDeleteActionIpLogger", "d7/d87/a28087.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "d7/d87/a28087.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "d7/d87/a28087.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "d7/d87/a28087.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

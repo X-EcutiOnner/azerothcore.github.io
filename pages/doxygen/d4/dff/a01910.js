@@ -1,4 +1,6 @@
 var a01910 =
 [
-    [ "ScriptRegistry< OutdoorPvPScript >", "d4/dff/a01910.html#a87dac516981f5c502b37a0500f6f7882", null ]
+    [ "WorldPackets::Packet", "d3/d97/a10927.html", "d3/d97/a10927" ],
+    [ "WorldPackets::ServerPacket", "d0/d35/a10931.html", "d0/d35/a10931" ],
+    [ "WorldPackets::ClientPacket", "db/ddc/a10935.html", "db/ddc/a10935" ]
 ];

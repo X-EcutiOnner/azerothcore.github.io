@@ -1,14 +1,49 @@
 var a03443 =
 [
-    [ "go_main_chambers_access_panel", "dd/d1e/a23443.html", "dd/d1e/a23443" ],
-    [ "instance_steam_vault", "d3/d6c/a23447.html", "d3/d6c/a23447" ],
-    [ "instance_steam_vault::instance_steam_vault_InstanceMapScript", "d0/d30/a23451.html", "d0/d30/a23451" ],
-    [ "MainChambersAccessPanelSays", "d8/df8/a03443.html#aa8d293574a308aad41f620556eb63b6a", [
-      [ "SAY_FAINT_ECHO", "d8/df8/a03443.html#aa8d293574a308aad41f620556eb63b6aadbbafef44899cd7d93e10aaa27f52992", null ],
-      [ "SAY_LOUD_RUMBLE", "d8/df8/a03443.html#aa8d293574a308aad41f620556eb63b6aa420e4ca090aea66dfe08994ddce97884", null ]
+    [ "zm_beacon", "d6/df5/a22639.html", "d6/df5/a22639" ],
+    [ "OPvPCapturePointZM_Beacon", "d2/dbc/a22643.html", "d2/dbc/a22643" ],
+    [ "OPvPCapturePointZM_Graveyard", "d8/d9f/a22647.html", "d8/d9f/a22647" ],
+    [ "OutdoorPvPZM", "d2/d4d/a22651.html", "d2/d4d/a22651" ],
+    [ "OutdoorPvPZMSpells", "d8/df8/a03443.html#ac31cd7a23fe2f82e25ababd3a8b700a1", [
+      [ "ZM_CAPTURE_BUFF", "d8/df8/a03443.html#ac31cd7a23fe2f82e25ababd3a8b700a1a5039b0bd2a7689f857a4ecc871d5b16d", null ],
+      [ "ZM_BATTLE_STANDARD_A", "d8/df8/a03443.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5", null ],
+      [ "ZM_BATTLE_STANDARD_H", "d8/df8/a03443.html#ac31cd7a23fe2f82e25ababd3a8b700a1a0513ef6309adc490c793ee1dc5bc8614", null ],
+      [ "ZM_AlliancePlayerKillReward", "d8/df8/a03443.html#ac31cd7a23fe2f82e25ababd3a8b700a1a53fad383bb7058d8c1a272bd6d9523a3", null ],
+      [ "ZM_HordePlayerKillReward", "d8/df8/a03443.html#ac31cd7a23fe2f82e25ababd3a8b700a1a6f9de137a24ee5d457ee7e2c093b398b", null ]
     ] ],
-    [ "AddSC_instance_steam_vault", "d8/df8/a03443.html#a944f7f7f41e047f2a4f82fb9af0b4829", null ],
-    [ "creatureData", "d8/df8/a03443.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "minionData", "d8/df8/a03443.html#a6720238df140a3c574a711042b7f5bd3", null ],
-    [ "objectData", "d8/df8/a03443.html#a59ddfa91084111da23b5d47482e4ff8d", null ]
+    [ "ZM_BeaconType", "d8/df8/a03443.html#a8493feec67db9c938c31465f24f60fe1", [
+      [ "ZM_BEACON_EAST", "d8/df8/a03443.html#a8493feec67db9c938c31465f24f60fe1a034b065f7219f5b4a6d983ed694e7a80", null ],
+      [ "ZM_BEACON_WEST", "d8/df8/a03443.html#a8493feec67db9c938c31465f24f60fe1a36b102e6d45f41b4db14e889ffac46e2", null ],
+      [ "ZM_NUM_BEACONS", "d8/df8/a03443.html#a8493feec67db9c938c31465f24f60fe1a9e566b7b7f64cae5ea6a37a289f16ce3", null ]
+    ] ],
+    [ "Zm_GraveyardState", "d8/df8/a03443.html#ad13518df9718347908929a97748d3636", [
+      [ "ZM_GRAVEYARD_N", "d8/df8/a03443.html#ad13518df9718347908929a97748d3636a87f32a40b9ae4243e7977085b4dab7c0", null ],
+      [ "ZM_GRAVEYARD_A", "d8/df8/a03443.html#ad13518df9718347908929a97748d3636aef470c9322dded10641afcc6a153e329", null ],
+      [ "ZM_GRAVEYARD_H", "d8/df8/a03443.html#ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065", null ]
+    ] ],
+    [ "ZM_TowerStateMask", "d8/df8/a03443.html#a5d44e96b24b1f1215d1b3788b212f11c", [
+      [ "ZM_TOWERSTATE_N", "d8/df8/a03443.html#a5d44e96b24b1f1215d1b3788b212f11ca03d2918a6a9915b33da0f120feb7d5da", null ],
+      [ "ZM_TOWERSTATE_A", "d8/df8/a03443.html#a5d44e96b24b1f1215d1b3788b212f11cab51c5d640c62f5336ec7c5a1028f73d0", null ],
+      [ "ZM_TOWERSTATE_H", "d8/df8/a03443.html#a5d44e96b24b1f1215d1b3788b212f11ca206f55050d03bbc30f690c7e669e1831", null ]
+    ] ],
+    [ "ZMCreatureTypes", "d8/df8/a03443.html#aa6fc4a297b329d62073dd503d4f647c5", [
+      [ "ZM_ALLIANCE_FIELD_SCOUT", "d8/df8/a03443.html#aa6fc4a297b329d62073dd503d4f647c5ab0f9fb0eee307b47658f6742db0a4d82", null ],
+      [ "ZM_HORDE_FIELD_SCOUT", "d8/df8/a03443.html#aa6fc4a297b329d62073dd503d4f647c5a51001197c09a749a8d042df6fc5d0d62", null ],
+      [ "ZM_CREATURE_NUM", "d8/df8/a03443.html#aa6fc4a297b329d62073dd503d4f647c5a47e8909e9a6a41604775c672ec3587ae", null ]
+    ] ],
+    [ "OutdoorPvPZMBuffZones", "d8/df8/a03443.html#a42debbed89bc9a37f04d7da9f1ba5362", null ],
+    [ "OutdoorPvPZMBuffZonesNum", "d8/df8/a03443.html#afd164ef928ed19895648e76207433805", null ],
+    [ "ZM_AllianceFieldScout", "d8/df8/a03443.html#a308db265dfb26d8d04ea2b44077d3b42", null ],
+    [ "ZM_Banner_A", "d8/df8/a03443.html#a986fade5573769277e5c9e99dc243d78", null ],
+    [ "ZM_Banner_H", "d8/df8/a03443.html#a5eae372f5bc43c36af04c8833002ca79", null ],
+    [ "ZM_Banner_N", "d8/df8/a03443.html#a9bf0e9dee2e0ae4731dd302373e18542", null ],
+    [ "ZM_GRAVEYARD_ID", "d8/df8/a03443.html#adc060a8578a0685e98f94a0d51c3613b", null ],
+    [ "ZM_GRAVEYARD_ZONE", "d8/df8/a03443.html#a32c62572b4ea0ef1930cffc3e9e2c6fe", null ],
+    [ "ZM_HordeFieldScout", "d8/df8/a03443.html#aa18435dfdf68c3f5ac5218ce2e4909d0", null ],
+    [ "ZMBeaconCaptureA", "d8/df8/a03443.html#aefc7683d5c310d6513a4bc64e0562f24", null ],
+    [ "ZMBeaconCaptureH", "d8/df8/a03443.html#a3cf4b21d832f1993b7bbef74516f4690", null ],
+    [ "ZMBeaconInfo", "d8/df8/a03443.html#af392c2c0a8da38f6782ab0ed0501a448", null ],
+    [ "ZMBeaconLoseA", "d8/df8/a03443.html#ace5e051bf69a2b4be978b04c832c5592", null ],
+    [ "ZMBeaconLoseH", "d8/df8/a03443.html#a32e1a277d31ee3f4a23f291ccb4798e6", null ],
+    [ "ZMCapturePoints", "d8/df8/a03443.html#a397f5867c1a3f99cf044124a4a621324", null ]
 ];

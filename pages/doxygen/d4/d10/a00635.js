@@ -1,7 +1,5 @@
 var a00635 =
 [
-    [ "GetExplicitDiscoverySpell", "d4/d10/a00635.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
-    [ "GetSkillDiscoverySpell", "d4/d10/a00635.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
-    [ "HasDiscoveredAllSpells", "d4/d10/a00635.html#abdf3c2fcf65212466dfb54053e35024c", null ],
-    [ "LoadSkillDiscoveryTable", "d4/d10/a00635.html#addd95f0a239a27ed32cd943aa1052019", null ]
+    [ "ProcEventInfoBuilder", "d3/dda/a29687.html", "d3/dda/a29687" ],
+    [ "SpellProcEntryBuilder", "d2/dbe/a29691.html", "d2/dbe/a29691" ]
 ];

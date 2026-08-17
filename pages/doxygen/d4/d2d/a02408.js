@@ -1,18 +1,21 @@
 var a02408 =
 [
-    [ "OutdoorPvPSI", "d6/dd9/a22404.html", "d6/dd9/a22404" ],
-    [ "OutdoorPvPSISpells", "d4/d2d/a02408.html#a62a8c4b8a007cc2da63e91f039a9b0f5", [
-      [ "SI_SILITHYST_FLAG_GO_SPELL", "d4/d2d/a02408.html#a62a8c4b8a007cc2da63e91f039a9b0f5add71e365726ced6250de08c4c883f055", null ],
-      [ "SI_SILITHYST_FLAG", "d4/d2d/a02408.html#a62a8c4b8a007cc2da63e91f039a9b0f5a1bf0ed27bacc509ec19e1648e1a9ec74", null ],
-      [ "SI_TRACES_OF_SILITHYST", "d4/d2d/a02408.html#a62a8c4b8a007cc2da63e91f039a9b0f5a8f61c4e11367451aa4b95455a9086410", null ],
-      [ "SI_CENARION_FAVOR", "d4/d2d/a02408.html#a62a8c4b8a007cc2da63e91f039a9b0f5a113a47f651228b031a6d40c36d34d2fb", null ]
+    [ "CleaningFlags", "d4/d2d/a02408.html#ad8ba5c50a4cd2d5193e35ccc83798c67", [
+      [ "CLEANING_FLAG_ACHIEVEMENT_PROGRESS", "d4/d2d/a02408.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748", null ],
+      [ "CLEANING_FLAG_SKILLS", "d4/d2d/a02408.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714", null ],
+      [ "CLEANING_FLAG_SPELLS", "d4/d2d/a02408.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564", null ],
+      [ "CLEANING_FLAG_TALENTS", "d4/d2d/a02408.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550", null ],
+      [ "CLEANING_FLAG_QUESTSTATUS", "d4/d2d/a02408.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
     ] ],
-    [ "OutdoorPvPSIBuffZones", "d4/d2d/a02408.html#a155bfb73bcc562d8eaaa4d62d52e59bc", null ],
-    [ "OutdoorPvPSIBuffZonesNum", "d4/d2d/a02408.html#aaf633cff2fc1b3449acb7753f698c4d4", null ],
-    [ "SI_AREATRIGGER_A", "d4/d2d/a02408.html#aca1406dea9e721dc32c834e8b85b2d9a", null ],
-    [ "SI_AREATRIGGER_H", "d4/d2d/a02408.html#abb17804eb9913c298a5dae804e1c7206", null ],
-    [ "SI_MAX_RESOURCES", "d4/d2d/a02408.html#a9558d0ea12ff1048686daf5bf0ff999c", null ],
-    [ "SI_SILITHYST_MOUND", "d4/d2d/a02408.html#a5a6a1265e5e65971f8d86be718ea3bb3", null ],
-    [ "SI_TURNIN_QUEST_CM_A", "d4/d2d/a02408.html#a18c47c74867642b4bd8cc166d9fe1e79", null ],
-    [ "SI_TURNIN_QUEST_CM_H", "d4/d2d/a02408.html#ad1787da9136bc956357571149e1f6b60", null ]
+    [ "AchievementProgressCheck", "d4/d2d/a02408.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
+    [ "CheckUnique", "d4/d2d/a02408.html#a4bdf9f5cb65f0bc9c5227d484cd5446f", null ],
+    [ "CleanCharacterAchievementProgress", "d4/d2d/a02408.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
+    [ "CleanCharacterQuestStatus", "d4/d2d/a02408.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
+    [ "CleanCharacterSkills", "d4/d2d/a02408.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],
+    [ "CleanCharacterSpell", "d4/d2d/a02408.html#aca5826d283031348e5d6ae6eb75ad605", null ],
+    [ "CleanCharacterTalent", "d4/d2d/a02408.html#a344f61fb209b507b775a0bbfb1315fac", null ],
+    [ "CleanDatabase", "d4/d2d/a02408.html#a357c8a07f912c6efb55a13cc9bc089b9", null ],
+    [ "SkillCheck", "d4/d2d/a02408.html#a0f72cf24646d1ece0eb793890840992d", null ],
+    [ "SpellCheck", "d4/d2d/a02408.html#a02688f57778d28a7bcc4ca6cee2074ad", null ],
+    [ "TalentCheck", "d4/d2d/a02408.html#aac707369555aa95807c11b1578ae80d2", null ]
 ];

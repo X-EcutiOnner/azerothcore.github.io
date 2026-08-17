@@ -1,16 +1,16 @@
 var a00470 =
 [
-    [ "frand", "d0/d29/a00470.html#a19bd31014583536af788a65b398e4406", null ],
-    [ "GetRng", "d0/d29/a00470.html#a8602a67daa881e92c3eb9204c88b7733", null ],
-    [ "irand", "d0/d29/a00470.html#a6ae07d2bb0593d8339e65c136f63ecc0", null ],
-    [ "rand32", "d0/d29/a00470.html#ac699324b85bb2266ea8978796967c541", null ],
-    [ "rand_chance", "d0/d29/a00470.html#a66621d09a8cc2aa9476391004fe2c427", null ],
-    [ "rand_norm", "d0/d29/a00470.html#af2f9363ceebb6f78067b4a146d1de9df", null ],
-    [ "randtime", "d0/d29/a00470.html#a9ecda65ea9686c86f47934d04d38ec69", null ],
-    [ "randtime", "d0/d29/a00470.html#a7c8533961af63b720553e868fdaabd85", null ],
-    [ "urand", "d0/d29/a00470.html#ab17def34ccbbd868dc87a16bf35acdbd", null ],
-    [ "urandms", "d0/d29/a00470.html#af901d57f29ff48f701a375e44a0f1261", null ],
-    [ "urandweighted", "d0/d29/a00470.html#a3f7e714c8fc3a6f6ccbe91d524a84f23", null ],
-    [ "engine", "d0/d29/a00470.html#a8ab11e2fa939d9f333dfa1a858e7690b", null ],
-    [ "sfmtRand", "d0/d29/a00470.html#a131ba7587aa544a7e73ff9884d6bc784", null ]
+    [ "Log", "dd/de0/a05711.html", "dd/de0/a05711" ],
+    [ "LOG_DEBUG", "d0/d29/a00470.html#a47ac782b14a7531c6232777165a1a161", null ],
+    [ "LOG_ERROR", "d0/d29/a00470.html#a43832e3fa8508deb4ce43e520005fcd9", null ],
+    [ "LOG_FATAL", "d0/d29/a00470.html#a0e09b50c268dc6897a1c70aa46de936e", null ],
+    [ "LOG_GM", "d0/d29/a00470.html#aeeb132f13796dfa459eb05386acff8fe", null ],
+    [ "LOG_INFO", "d0/d29/a00470.html#a271e427d8e8481efd5cd5f537ec9e419", null ],
+    [ "LOG_MESSAGE_BODY", "d0/d29/a00470.html#a1ce833e7403b29687774e0539da6f4b9", null ],
+    [ "LOG_TRACE", "d0/d29/a00470.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5", null ],
+    [ "LOG_WARN", "d0/d29/a00470.html#adf09840a666e1d86bcd3439105db6edc", null ],
+    [ "LOGGER_ROOT", "d0/d29/a00470.html#a6f9b401329ff7cf191e6b1801caeb441", null ],
+    [ "sLog", "d0/d29/a00470.html#ab5487500f5b4b12072043104b916d582", null ],
+    [ "AppenderCreatorFn", "d0/d29/a00470.html#a1db7ef47a6d7bf4560a30c8b7e9f6a37", null ],
+    [ "CreateAppender", "d0/d29/a00470.html#ae5d709e10423806fa5331696a9bbd657", null ]
 ];

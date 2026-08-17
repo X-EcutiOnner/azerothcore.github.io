@@ -1,7 +1,5 @@
 var a02471 =
 [
-    [ "gobject_commandscript", "de/d52/a12396.html", "de/d52/a12396" ],
-    [ "GameObjectEntry", "d1/ded/a02471.html#af6e4fdc2f36213d5f2a9fa6f335517b8", null ],
-    [ "GameObjectSpawnId", "d1/ded/a02471.html#ad5bd2a208bd6c6213df595ee7369126f", null ],
-    [ "AddSC_gobject_commandscript", "d1/ded/a02471.html#a0cc4be9c12b1a892f031cb1ff47e23d9", null ]
+    [ "AddonHandler", "d6/df5/a10003.html", "d6/df5/a10003" ],
+    [ "sAddOnHandler", "d1/ded/a02471.html#a53c18d341aaa47d117be75333e4ab43d", null ]
 ];

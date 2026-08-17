@@ -1,4 +1,4 @@
 var a00386 =
 [
-    [ "CircularBuffer< T >", "da/d30/a05811.html", "da/d30/a05811" ]
+    [ "GUARD_RETURN", "dd/df5/a00386.html#a545bfab3f5e5f49c7d68774189728da8", null ]
 ];

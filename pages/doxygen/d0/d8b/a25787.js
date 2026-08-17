@@ -1,7 +1,7 @@
 var a25787 =
 [
-    [ "HandlePeriodic", "d0/d8b/a25787.html#a990b88f97dbbcd68d0df8989414d08bc", null ],
-    [ "PrepareAuraScript", "d0/d8b/a25787.html#a4c8214e2fc72ceacc5822bfdec6e8380", null ],
-    [ "Register", "d0/d8b/a25787.html#ab2da1b1433184a0dd4c6dd93b798890c", null ],
-    [ "Validate", "d0/d8b/a25787.html#a55720e74edaf5eedf074738846ba6dd8", null ]
+    [ "HandleProc", "d0/d8b/a25787.html#a202ed9cca388b984f0dfebb64a512c47", null ],
+    [ "PrepareAuraScript", "d0/d8b/a25787.html#a133ff30c99bd6521d83e2de2361a5123", null ],
+    [ "Register", "d0/d8b/a25787.html#a6cab1853296da43b4a4cb39bedb20ffa", null ],
+    [ "Validate", "d0/d8b/a25787.html#a39b41d1560869ef9a1231fd39d0a652f", null ]
 ];

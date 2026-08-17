@@ -1,12 +1,15 @@
 var a29627 =
 [
-    [ "HealInfoStubBuilder", "dc/dea/a29627.html#a57945de96ad065451cadb47edba287c8", null ],
-    [ "Build", "dc/dea/a29627.html#a291565d223df00ce9d09c0315e803448", null ],
-    [ "WithAbsorb", "dc/dea/a29627.html#aa09160afe48114a7a3566be328f64658", null ],
-    [ "WithEffectiveHeal", "dc/dea/a29627.html#a34a359322b018cffc5f54ca999c11b11", null ],
-    [ "WithHeal", "dc/dea/a29627.html#a812e06b07eeb18c1d379409b77a80b89", null ],
-    [ "WithHitMask", "dc/dea/a29627.html#ab788ddcc209140ed3c10b02785471dcb", null ],
-    [ "WithOverheal", "dc/dea/a29627.html#a89c12c30725eb2bdc3889005a38d54eb", null ],
-    [ "WithSpellInfo", "dc/dea/a29627.html#a4dc784241fbe998437cceb953fb83e1f", null ],
-    [ "_stub", "dc/dea/a29627.html#ad0da544c651e387d8c6e9b272aa3db7b", null ]
+    [ "DamageInfoStubBuilder", "dc/dea/a29627.html#a282b4f92722f9cf12358a9f603df6902", null ],
+    [ "Build", "dc/dea/a29627.html#ad50ac35ca7a10f0eb20383fbde4a54dc", null ],
+    [ "WithAbsorb", "dc/dea/a29627.html#a3533bbda604c4ed6ac467f28ecb60fbe", null ],
+    [ "WithAttackType", "dc/dea/a29627.html#a4fd9332aa42002056d3f9191cd4435d7", null ],
+    [ "WithBlock", "dc/dea/a29627.html#a81381d471627ddd6e86678551ca4ab5b", null ],
+    [ "WithDamage", "dc/dea/a29627.html#abf9d30cde831f2094a181a312bcfe9df", null ],
+    [ "WithHitMask", "dc/dea/a29627.html#a161f5ea9ae33541dfcfd600fc5546b20", null ],
+    [ "WithOriginalDamage", "dc/dea/a29627.html#a3265aa4aa273cc9ededb6c9673f6c9e3", null ],
+    [ "WithResist", "dc/dea/a29627.html#a76827724d8b8d780dc5d136ca01e51e6", null ],
+    [ "WithSchoolMask", "dc/dea/a29627.html#ab540fcb56c4034daea104a1b844bdb3a", null ],
+    [ "WithSpellInfo", "dc/dea/a29627.html#a681fe7d0c7f3b4136ad4ba2a662e6393", null ],
+    [ "_stub", "dc/dea/a29627.html#abf06c6b638dcd9489fa0e3d755433514", null ]
 ];

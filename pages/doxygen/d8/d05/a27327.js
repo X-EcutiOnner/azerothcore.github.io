@@ -1,6 +1,6 @@
 var a27327 =
 [
-    [ "HandlePeriodic", "d8/d05/a27327.html#a6fdf93580d860712943bbff07e273fef", null ],
-    [ "PrepareAuraScript", "d8/d05/a27327.html#ac64daca8467814398251ec8e590f8281", null ],
-    [ "Register", "d8/d05/a27327.html#ad0e68442f3d12cb58781e5e2d39b49ec", null ]
+    [ "HandleSendEvent", "d8/d05/a27327.html#a8126102215aa6eedd638b89d1a6b7110", null ],
+    [ "PrepareSpellScript", "d8/d05/a27327.html#abc57ba05637e2c51bf2d1fb918a93667", null ],
+    [ "Register", "d8/d05/a27327.html#ac37abad48c398bdb22529c1a44327d34", null ]
 ];

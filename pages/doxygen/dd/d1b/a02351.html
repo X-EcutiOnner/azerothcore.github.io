@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Warden/Warden.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/AuctionHouseScript.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,181 +107,101 @@ $(document).ready(function(){initNavTree('dd/d1b/a02351.html','../../'); initRes
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">Warden.h File Reference</div></div>
+  <div class="headertitle"><div class="title">AuctionHouseScript.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ARC4.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AuthDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ByteBuffer.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WardenPayloadMgr.h</a>&quot;</code><br />
-<code>#include &lt;array&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d24/a12271.html">WardenModuleUse</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9f/a12275.html">WardenModuleTransfer</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d91/a12279.html">WardenHashRequest</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d82/a12283.html">ClientWardenModule</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df0/a12287.html">Warden</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db0/a10731.html">AuctionHouseScript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a8d0de714c4a4cf7a125c6187a7d19e51"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51">WardenOpcodes</a> { <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4">WARDEN_CMSG_MODULE_MISSING</a> = 0
+<tr class="memitem:a12159e90d998de411ceb193c223f26c9"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9">AuctionHouseHook</a> { <br />
+&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0">AUCTIONHOUSEHOOK_ON_AUCTION_ADD</a>
 , <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c">WARDEN_CMSG_MODULE_OK</a> = 1
+&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2">AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5">WARDEN_CMSG_CHEAT_CHECKS_RESULT</a> = 2
+&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff">AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f">WARDEN_CMSG_MEM_CHECKS_RESULT</a> = 3
+&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25">AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed">WARDEN_CMSG_HASH_RESULT</a> = 4
+&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc">WARDEN_CMSG_MODULE_FAILED</a> = 5
+&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30">WARDEN_SMSG_MODULE_USE</a> = 0
+&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11">WARDEN_SMSG_MODULE_CACHE</a> = 1
+&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709">WARDEN_SMSG_CHEAT_CHECKS_REQUEST</a> = 2
+&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8">WARDEN_SMSG_MODULE_INITIALIZE</a> = 3
+&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82">WARDEN_SMSG_MEM_CHECKS_REQUEST</a> = 4
+&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451">WARDEN_SMSG_HASH_REQUEST</a> = 5
+&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc">AUCTIONHOUSEHOOK_END</a>
 <br />
  }</td></tr>
-<tr class="separator:a8d0de714c4a4cf7a125c6187a7d19e51"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7598131f87414a66259189a0518ca6f2"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2">WardenCheckType</a> { <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074">MEM_CHECK</a> = 0xF3
-, <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f">PAGE_CHECK_A</a> = 0xB2
-, <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87">PAGE_CHECK_B</a> = 0xBF
-, <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b">MPQ_CHECK</a> = 0x98
-, <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a> = 139
-, <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93">DRIVER_CHECK</a> = 0x71
-, <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018">TIMING_CHECK</a> = 0x57
-, <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d">PROC_CHECK</a> = 0x7E
-, <br />
-&#160;&#160;<a class="el" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77">MODULE_CHECK</a> = 0xD9
-<br />
- }</td></tr>
-<tr class="separator:a7598131f87414a66259189a0518ca6f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a12159e90d998de411ceb193c223f26c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a7598131f87414a66259189a0518ca6f2" name="a7598131f87414a66259189a0518ca6f2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7598131f87414a66259189a0518ca6f2">&#9670;&#160;</a></span>WardenCheckType</h2>
+<a id="a12159e90d998de411ceb193c223f26c9" name="a12159e90d998de411ceb193c223f26c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a12159e90d998de411ceb193c223f26c9">&#9670;&#160;</a></span>AuctionHouseHook</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2">WardenCheckType</a></td>
+          <td class="memname">enum <a class="el" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9">AuctionHouseHook</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074" name="a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074"></a>MEM_CHECK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f" name="a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f"></a>PAGE_CHECK_A&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87" name="a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87"></a>PAGE_CHECK_B&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b" name="a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b"></a>MPQ_CHECK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada" name="a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada"></a>LUA_EVAL_CHECK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93" name="a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93"></a>DRIVER_CHECK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018" name="a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018"></a>TIMING_CHECK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d" name="a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d"></a>PROC_CHECK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77" name="a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77"></a>MODULE_CHECK&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0" name="a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0"></a>AUCTIONHOUSEHOOK_ON_AUCTION_ADD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2" name="a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2"></a>AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff" name="a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff"></a>AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25" name="a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25"></a>AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f" name="a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223" name="a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112" name="a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff" name="a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f" name="a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e" name="a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9" name="a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc" name="a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc"></a>AUCTIONHOUSEHOOK_END&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   47</span>{</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074">MEM_CHECK</a>               = 0xF3, <span class="comment">// 243: byte moduleNameIndex + uint Offset + byte Len (check to ensure memory isn&#39;t modified)</span></div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f">PAGE_CHECK_A</a>            = 0xB2, <span class="comment">// 178: uint Seed + byte[20] SHA1 + uint Addr + byte Len (scans all pages for specified hash)</span></div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87">PAGE_CHECK_B</a>            = 0xBF, <span class="comment">// 191: uint Seed + byte[20] SHA1 + uint Addr + byte Len (scans only pages starts with MZ+PE headers for specified hash)</span></div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b">MPQ_CHECK</a>               = 0x98, <span class="comment">// 152: byte fileNameIndex (check to ensure MPQ file isn&#39;t modified)</span></div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a>          = 139,  <span class="comment">// evaluate arbitrary Lua check</span></div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93">DRIVER_CHECK</a>            = 0x71, <span class="comment">// 113: uint Seed + byte[20] SHA1 + byte driverNameIndex (check to ensure driver isn&#39;t loaded)</span></div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018">TIMING_CHECK</a>            = 0x57, <span class="comment">//  87: empty (check to ensure GetTickCount() isn&#39;t detoured)</span></div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d">PROC_CHECK</a>              = 0x7E, <span class="comment">// 126: uint Seed + byte[20] SHA1 + byte moluleNameIndex + byte procNameIndex + uint Offset + byte Len (check to ensure proc isn&#39;t detoured)</span></div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77">MODULE_CHECK</a>            = 0xD9, <span class="comment">// 217: uint Seed + byte[20] SHA1 (check to ensure module isn&#39;t injected)</span></div>
-<div class="line"><span class="lineno">   57</span>};</div>
-<div class="ttc" id="aa02351_html_a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d"><div class="ttname"><a href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d">PROC_CHECK</a></div><div class="ttdeci">@ PROC_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:55</div></div>
-<div class="ttc" id="aa02351_html_a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93"><div class="ttname"><a href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93">DRIVER_CHECK</a></div><div class="ttdeci">@ DRIVER_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:53</div></div>
-<div class="ttc" id="aa02351_html_a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f"><div class="ttname"><a href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f">PAGE_CHECK_A</a></div><div class="ttdeci">@ PAGE_CHECK_A</div><div class="ttdef"><b>Definition:</b> Warden.h:49</div></div>
-<div class="ttc" id="aa02351_html_a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87"><div class="ttname"><a href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87">PAGE_CHECK_B</a></div><div class="ttdeci">@ PAGE_CHECK_B</div><div class="ttdef"><b>Definition:</b> Warden.h:50</div></div>
-<div class="ttc" id="aa02351_html_a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada"><div class="ttname"><a href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a></div><div class="ttdeci">@ LUA_EVAL_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:52</div></div>
-<div class="ttc" id="aa02351_html_a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b"><div class="ttname"><a href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b">MPQ_CHECK</a></div><div class="ttdeci">@ MPQ_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:51</div></div>
-<div class="ttc" id="aa02351_html_a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074"><div class="ttname"><a href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074">MEM_CHECK</a></div><div class="ttdeci">@ MEM_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:48</div></div>
-<div class="ttc" id="aa02351_html_a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018"><div class="ttname"><a href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018">TIMING_CHECK</a></div><div class="ttdeci">@ TIMING_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:54</div></div>
-<div class="ttc" id="aa02351_html_a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77"><div class="ttname"><a href="../../dd/d1b/a02351.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77">MODULE_CHECK</a></div><div class="ttdeci">@ MODULE_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:56</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a8d0de714c4a4cf7a125c6187a7d19e51" name="a8d0de714c4a4cf7a125c6187a7d19e51"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8d0de714c4a4cf7a125c6187a7d19e51">&#9670;&#160;</a></span>WardenOpcodes</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51">WardenOpcodes</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4" name="a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4"></a>WARDEN_CMSG_MODULE_MISSING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c" name="a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c"></a>WARDEN_CMSG_MODULE_OK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5" name="a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5"></a>WARDEN_CMSG_CHEAT_CHECKS_RESULT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f" name="a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f"></a>WARDEN_CMSG_MEM_CHECKS_RESULT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed" name="a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed"></a>WARDEN_CMSG_HASH_RESULT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc" name="a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc"></a>WARDEN_CMSG_MODULE_FAILED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30" name="a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30"></a>WARDEN_SMSG_MODULE_USE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11" name="a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11"></a>WARDEN_SMSG_MODULE_CACHE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709" name="a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709"></a>WARDEN_SMSG_CHEAT_CHECKS_REQUEST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8" name="a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8"></a>WARDEN_SMSG_MODULE_INITIALIZE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82" name="a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82"></a>WARDEN_SMSG_MEM_CHECKS_REQUEST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451" name="a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451"></a>WARDEN_SMSG_HASH_REQUEST&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   28</span>{</div>
-<div class="line"><span class="lineno">   29</span>    <span class="comment">// Client-&gt;Server</span></div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4">WARDEN_CMSG_MODULE_MISSING</a>                  = 0,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c">WARDEN_CMSG_MODULE_OK</a>                       = 1,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5">WARDEN_CMSG_CHEAT_CHECKS_RESULT</a>             = 2,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f">WARDEN_CMSG_MEM_CHECKS_RESULT</a>               = 3,        <span class="comment">// only sent if MEM_CHECK bytes doesn&#39;t match</span></div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed">WARDEN_CMSG_HASH_RESULT</a>                     = 4,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc">WARDEN_CMSG_MODULE_FAILED</a>                   = 5,        <span class="comment">// this is sent when client failed to load uploaded module due to cache fail</span></div>
-<div class="line"><span class="lineno">   36</span> </div>
-<div class="line"><span class="lineno">   37</span>    <span class="comment">// Server-&gt;Client</span></div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30">WARDEN_SMSG_MODULE_USE</a>                      = 0,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11">WARDEN_SMSG_MODULE_CACHE</a>                    = 1,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709">WARDEN_SMSG_CHEAT_CHECKS_REQUEST</a>            = 2,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8">WARDEN_SMSG_MODULE_INITIALIZE</a>               = 3,</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82">WARDEN_SMSG_MEM_CHECKS_REQUEST</a>              = 4,        <span class="comment">// byte len; while(!EOF) { byte unk(1); byte index(++); string module(can be 0); int offset; byte len; byte[] bytes_to_compare[len]; }</span></div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451">WARDEN_SMSG_HASH_REQUEST</a>                    = 5</div>
-<div class="line"><span class="lineno">   44</span>};</div>
-<div class="ttc" id="aa02351_html_a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4"><div class="ttname"><a href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4">WARDEN_CMSG_MODULE_MISSING</a></div><div class="ttdeci">@ WARDEN_CMSG_MODULE_MISSING</div><div class="ttdef"><b>Definition:</b> Warden.h:30</div></div>
-<div class="ttc" id="aa02351_html_a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82"><div class="ttname"><a href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82">WARDEN_SMSG_MEM_CHECKS_REQUEST</a></div><div class="ttdeci">@ WARDEN_SMSG_MEM_CHECKS_REQUEST</div><div class="ttdef"><b>Definition:</b> Warden.h:42</div></div>
-<div class="ttc" id="aa02351_html_a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed"><div class="ttname"><a href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed">WARDEN_CMSG_HASH_RESULT</a></div><div class="ttdeci">@ WARDEN_CMSG_HASH_RESULT</div><div class="ttdef"><b>Definition:</b> Warden.h:34</div></div>
-<div class="ttc" id="aa02351_html_a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc"><div class="ttname"><a href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc">WARDEN_CMSG_MODULE_FAILED</a></div><div class="ttdeci">@ WARDEN_CMSG_MODULE_FAILED</div><div class="ttdef"><b>Definition:</b> Warden.h:35</div></div>
-<div class="ttc" id="aa02351_html_a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451"><div class="ttname"><a href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451">WARDEN_SMSG_HASH_REQUEST</a></div><div class="ttdeci">@ WARDEN_SMSG_HASH_REQUEST</div><div class="ttdef"><b>Definition:</b> Warden.h:43</div></div>
-<div class="ttc" id="aa02351_html_a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5"><div class="ttname"><a href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5">WARDEN_CMSG_CHEAT_CHECKS_RESULT</a></div><div class="ttdeci">@ WARDEN_CMSG_CHEAT_CHECKS_RESULT</div><div class="ttdef"><b>Definition:</b> Warden.h:32</div></div>
-<div class="ttc" id="aa02351_html_a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c"><div class="ttname"><a href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c">WARDEN_CMSG_MODULE_OK</a></div><div class="ttdeci">@ WARDEN_CMSG_MODULE_OK</div><div class="ttdef"><b>Definition:</b> Warden.h:31</div></div>
-<div class="ttc" id="aa02351_html_a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11"><div class="ttname"><a href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11">WARDEN_SMSG_MODULE_CACHE</a></div><div class="ttdeci">@ WARDEN_SMSG_MODULE_CACHE</div><div class="ttdef"><b>Definition:</b> Warden.h:39</div></div>
-<div class="ttc" id="aa02351_html_a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8"><div class="ttname"><a href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8">WARDEN_SMSG_MODULE_INITIALIZE</a></div><div class="ttdeci">@ WARDEN_SMSG_MODULE_INITIALIZE</div><div class="ttdef"><b>Definition:</b> Warden.h:41</div></div>
-<div class="ttc" id="aa02351_html_a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30"><div class="ttname"><a href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30">WARDEN_SMSG_MODULE_USE</a></div><div class="ttdeci">@ WARDEN_SMSG_MODULE_USE</div><div class="ttdef"><b>Definition:</b> Warden.h:38</div></div>
-<div class="ttc" id="aa02351_html_a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f"><div class="ttname"><a href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f">WARDEN_CMSG_MEM_CHECKS_RESULT</a></div><div class="ttdeci">@ WARDEN_CMSG_MEM_CHECKS_RESULT</div><div class="ttdef"><b>Definition:</b> Warden.h:33</div></div>
-<div class="ttc" id="aa02351_html_a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709"><div class="ttname"><a href="../../dd/d1b/a02351.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709">WARDEN_SMSG_CHEAT_CHECKS_REQUEST</a></div><div class="ttdeci">@ WARDEN_SMSG_CHEAT_CHECKS_REQUEST</div><div class="ttdef"><b>Definition:</b> Warden.h:40</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0">AUCTIONHOUSEHOOK_ON_AUCTION_ADD</a>,</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2">AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE</a>,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff">AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL</a>,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25">AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE</a>,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL</a>,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL</a>,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL</a>,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL</a>,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL</a>,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL</a>,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE</a>,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc">AUCTIONHOUSEHOOK_END</a></div>
+<div class="line"><span class="lineno">   38</span>};</div>
+<div class="ttc" id="aa02351_html_a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e"><div class="ttname"><a href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:35</div></div>
+<div class="ttc" id="aa02351_html_a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f"><div class="ttname"><a href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:30</div></div>
+<div class="ttc" id="aa02351_html_a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff"><div class="ttname"><a href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff">AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:28</div></div>
+<div class="ttc" id="aa02351_html_a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0"><div class="ttname"><a href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0">AUCTIONHOUSEHOOK_ON_AUCTION_ADD</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_AUCTION_ADD</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:26</div></div>
+<div class="ttc" id="aa02351_html_a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9"><div class="ttname"><a href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:36</div></div>
+<div class="ttc" id="aa02351_html_a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2"><div class="ttname"><a href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2">AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:27</div></div>
+<div class="ttc" id="aa02351_html_a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223"><div class="ttname"><a href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:31</div></div>
+<div class="ttc" id="aa02351_html_a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff"><div class="ttname"><a href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:33</div></div>
+<div class="ttc" id="aa02351_html_a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112"><div class="ttname"><a href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:32</div></div>
+<div class="ttc" id="aa02351_html_a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f"><div class="ttname"><a href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:34</div></div>
+<div class="ttc" id="aa02351_html_a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25"><div class="ttname"><a href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25">AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:29</div></div>
+<div class="ttc" id="aa02351_html_a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc"><div class="ttname"><a href="../../dd/d1b/a02351.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc">AUCTIONHOUSEHOOK_END</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_END</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:37</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -290,8 +210,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_4b21bdf52d2a98b0776a5d7d01fdcc43.html">Warden</a></li><li class="navelem"><a class="el" href="../../dd/d1b/a02351.html">Warden.h</a></li>
-    <li class="footer">Generated on Mon Aug 10 2026 21:21:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../dd/d1b/a02351.html">AuctionHouseScript.h</a></li>
+    <li class="footer">Generated on Mon Aug 17 2026 20:57:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

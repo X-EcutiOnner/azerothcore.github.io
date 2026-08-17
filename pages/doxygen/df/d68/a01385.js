@@ -1,8 +1,10 @@
 var a01385 =
 [
-    [ "ePoints", "df/d68/a01385.html#a2604bd06487e34b78d3e50cd892f3c4d", [
-      [ "POINT_LAST_POINT", "df/d68/a01385.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
-      [ "POINT_HOME", "df/d68/a01385.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
-      [ "POINT_COMBAT_START", "d7/d1c/a01397.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
+    [ "TradeData", "d7/d67/a09067.html", "d7/d67/a09067" ],
+    [ "TradeSlots", "df/d68/a01385.html#ad8fd978c4198825d89a1f02643d20c62", [
+      [ "TRADE_SLOT_COUNT", "df/d68/a01385.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488", null ],
+      [ "TRADE_SLOT_TRADED_COUNT", "df/d68/a01385.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79", null ],
+      [ "TRADE_SLOT_NONTRADED", "df/d68/a01385.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f", null ],
+      [ "TRADE_SLOT_INVALID", "df/d68/a01385.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4", null ]
     ] ]
 ];

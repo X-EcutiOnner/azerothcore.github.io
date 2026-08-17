@@ -1,5 +1,6 @@
 var a04148 =
 [
-    [ "autobroadcast_commandscript", "df/d72/a12399.html", "df/d72/a12399" ],
-    [ "AddSC_autobroadcast_commandscript", "dc/d9e/a04148.html#a1d398e7e3a10b992b1d0a10671683d46", null ]
+    [ "instance_razorfen_kraul", "de/dad/a15475.html", "de/dad/a15475" ],
+    [ "instance_razorfen_kraul::instance_razorfen_kraul_InstanceMapScript", "d0/d5d/a15479.html", "d0/d5d/a15479" ],
+    [ "AddSC_instance_razorfen_kraul", "dc/d9e/a04148.html#a27080d618fc76ad4f3d6b9e8ad4cc3c0", null ]
 ];

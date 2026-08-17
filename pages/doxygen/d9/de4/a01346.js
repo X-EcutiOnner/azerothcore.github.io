@@ -1,12 +1,17 @@
 var a01346 =
 [
-    [ "AggressorAI", "d5/ddb/a06459.html", "d5/ddb/a06459" ],
-    [ "CombatAI", "d7/d4b/a06463.html", "d7/d4b/a06463" ],
-    [ "CasterAI", "de/d83/a06467.html", "de/d83/a06467" ],
-    [ "ArcherAI", "d8/d3d/a06471.html", "d8/d3d/a06471" ],
-    [ "TurretAI", "d8/d6f/a06475.html", "d8/d6f/a06475" ],
-    [ "VehicleAI", "d9/d53/a06479.html", "d9/d53/a06479" ],
-    [ "VEHICLE_CONDITION_CHECK_TIME", "d9/de4/a01346.html#a2842973ff947088648cd327dc9e1d379", null ],
-    [ "VEHICLE_DISMISS_TIME", "d9/de4/a01346.html#a9b232fec810abbe5eaf5536e608b6e38", null ],
-    [ "SpellVct", "d9/de4/a01346.html#aef8ccdd14344d9c395d613c21bafd91e", null ]
+    [ "Acore::Impl::ChatCommands::tag_base< T, typename >", "d7/d34/a08055.html", "d7/d34/a08055" ],
+    [ "Acore::Impl::ChatCommands::TokenizeResult", "d9/d0e/a08059.html", "d9/d0e/a08059" ],
+    [ "Acore::Impl::ChatCommands::are_all_assignable< T, Ts >", "d6/dad/a08063.html", "d6/dad/a08063" ],
+    [ "Acore::Impl::ChatCommands::are_all_assignable< void, Ts... >", "d1/d76/a08067.html", "d1/d76/a08067" ],
+    [ "Acore::Impl::ChatCommands::get_nth< index, T1, Ts >", "d6/d72/a08071.html", null ],
+    [ "Acore::Impl::ChatCommands::get_nth< 0, T1, Ts... >", "dc/d82/a08075.html", "dc/d82/a08075" ],
+    [ "Acore::Impl::ChatCommands::ChatCommandResult", "dc/d7c/a08079.html", "dc/d7c/a08079" ],
+    [ "get_nth_t", "d9/de4/a01346.html#acf7271fa50990dbd40fd90f127b9fb3b", null ],
+    [ "tag_base_t", "d9/de4/a01346.html#a61f1a636e46a7d78161298ae28844703", null ],
+    [ "FormatAcoreString", "d9/de4/a01346.html#a496bce28eb0bf0ac4b5e1c54c19193b7", null ],
+    [ "GetAcoreString", "d9/de4/a01346.html#a1106e69269315156c6019b7812547ce9", null ],
+    [ "SendErrorMessageToHandler", "d9/de4/a01346.html#aae4c9556d5cc172144fa280ca820226d", null ],
+    [ "tokenize", "d9/de4/a01346.html#aeca95018e8d551d917cf69e0764ccef7", null ],
+    [ "COMMAND_DELIMITER", "d9/de4/a01346.html#a068db55731856ca7770e1b09a4225aa2", null ]
 ];

@@ -1,14 +1,5 @@
 var a01934 =
 [
-    [ "AllMapScript", "d1/dea/a10707.html", "d1/dea/a10707" ],
-    [ "AllMapHook", "de/da9/a01934.html#a78db4e64fe232d8b547270090d8e3b92", [
-      [ "ALLMAPHOOK_ON_PLAYER_ENTER_ALL", "de/da9/a01934.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa", null ],
-      [ "ALLMAPHOOK_ON_PLAYER_LEAVE_ALL", "de/da9/a01934.html#a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae", null ],
-      [ "ALLMAPHOOK_ON_BEFORE_CREATE_INSTANCE_SCRIPT", "de/da9/a01934.html#a78db4e64fe232d8b547270090d8e3b92aaedb63ed509b91e62a54f71648956182", null ],
-      [ "ALLMAPHOOK_ON_DESTROY_INSTANCE", "de/da9/a01934.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0", null ],
-      [ "ALLMAPHOOK_ON_CREATE_MAP", "de/da9/a01934.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02", null ],
-      [ "ALLMAPHOOK_ON_DESTROY_MAP", "de/da9/a01934.html#a78db4e64fe232d8b547270090d8e3b92a2bd9320aa3f2418da854778f1dbbc3b5", null ],
-      [ "ALLMAPHOOK_ON_MAP_UPDATE", "de/da9/a01934.html#a78db4e64fe232d8b547270090d8e3b92a192adf70dc3f5a3873df8e56a2c3dcfb", null ],
-      [ "ALLMAPHOOK_END", "de/da9/a01934.html#a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95", null ]
-    ] ]
+    [ "WorldPackets::Totem::TotemDestroyed", "d6/d6a/a11659.html", "d6/d6a/a11659" ],
+    [ "WorldPackets::Totem::TotemCreated", "d3/d3f/a11663.html", "d3/d3f/a11663" ]
 ];

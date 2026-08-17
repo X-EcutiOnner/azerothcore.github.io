@@ -1,19 +1,25 @@
 var a01583 =
 [
-    [ "ArenaSeasonReward", "db/d57/a07639.html", "db/d57/a07639" ],
-    [ "ArenaSeasonRewardGroup", "df/d9c/a07643.html", "df/d9c/a07643" ],
-    [ "ArenaSeasonMgr", "d1/db5/a07647.html", "d1/db5/a07647" ],
-    [ "sArenaSeasonMgr", "d9/d1b/a01583.html#ac46c94dc4c6cf0de37233cdd42a97ccf", null ],
-    [ "ArenaSeasonRewardGroupCriteriaType", "d9/d1b/a01583.html#a983281e9aada2538d6bc53ae4dd4d266", [
-      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE", "d9/d1b/a01583.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422", null ],
-      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE", "d9/d1b/a01583.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63", null ]
+    [ "UpdateData", "d4/d08/a08883.html", "d4/d08/a08883" ],
+    [ "OBJECT_UPDATE_FLAGS", "d9/d1b/a01583.html#af1fc105a57ed0bc535d17509e4ad5e9e", [
+      [ "UPDATEFLAG_NONE", "d9/d1b/a01583.html#af1fc105a57ed0bc535d17509e4ad5e9eab3f4d8eafca6e04f6b445bedda939799", null ],
+      [ "UPDATEFLAG_SELF", "d9/d1b/a01583.html#af1fc105a57ed0bc535d17509e4ad5e9eacb59b2f7a20c57e2dc11ad4a4a74195f", null ],
+      [ "UPDATEFLAG_TRANSPORT", "d9/d1b/a01583.html#af1fc105a57ed0bc535d17509e4ad5e9ea7b800b143915d7a9ea65020153cee3ca", null ],
+      [ "UPDATEFLAG_HAS_TARGET", "d9/d1b/a01583.html#af1fc105a57ed0bc535d17509e4ad5e9eae67f7342d7c369d11cfb6d50bea094dd", null ],
+      [ "UPDATEFLAG_UNKNOWN", "d9/d1b/a01583.html#af1fc105a57ed0bc535d17509e4ad5e9eab102319844f46e52393bb89975c591f7", null ],
+      [ "UPDATEFLAG_LOWGUID", "d9/d1b/a01583.html#af1fc105a57ed0bc535d17509e4ad5e9ea65f9bb0b19a3ecbc46fbe3b4573cb15b", null ],
+      [ "UPDATEFLAG_LIVING", "d9/d1b/a01583.html#af1fc105a57ed0bc535d17509e4ad5e9ea0eedb2f7b118804bb3fe89fde52d7632", null ],
+      [ "UPDATEFLAG_STATIONARY_POSITION", "d9/d1b/a01583.html#af1fc105a57ed0bc535d17509e4ad5e9ead20e13b8389c2680af0a59dc557d4ee1", null ],
+      [ "UPDATEFLAG_VEHICLE", "d9/d1b/a01583.html#af1fc105a57ed0bc535d17509e4ad5e9ea6dfc1770c97c7c1d8433e0e12ad47c51", null ],
+      [ "UPDATEFLAG_POSITION", "d9/d1b/a01583.html#af1fc105a57ed0bc535d17509e4ad5e9ea2e4269d3be94ff8f1f715c41c060222b", null ],
+      [ "UPDATEFLAG_ROTATION", "d9/d1b/a01583.html#af1fc105a57ed0bc535d17509e4ad5e9ea2a1fa785627688900bcc7bb221f1462a", null ]
     ] ],
-    [ "ArenaSeasonRewardType", "d9/d1b/a01583.html#a89a1f93759bb943ff9ef0e4991579265", [
-      [ "ARENA_SEASON_REWARD_TYPE_ITEM", "d9/d1b/a01583.html#a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32", null ],
-      [ "ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT", "d9/d1b/a01583.html#a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444", null ]
-    ] ],
-    [ "ArenaSeasonState", "d9/d1b/a01583.html#a64f8715fead51dc9727d105bce4d0e38", [
-      [ "ARENA_SEASON_STATE_DISABLED", "d9/d1b/a01583.html#a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017", null ],
-      [ "ARENA_SEASON_STATE_IN_PROGRESS", "d9/d1b/a01583.html#a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8", null ]
+    [ "OBJECT_UPDATE_TYPE", "d9/d1b/a01583.html#aa0f2952f4b375c0e91f5276ff267cbad", [
+      [ "UPDATETYPE_VALUES", "d9/d1b/a01583.html#aa0f2952f4b375c0e91f5276ff267cbada1fc033f630eab16bbf5b7ce7938d7bef", null ],
+      [ "UPDATETYPE_MOVEMENT", "d9/d1b/a01583.html#aa0f2952f4b375c0e91f5276ff267cbadac08838cdcba5218c53ea7745f5c0c370", null ],
+      [ "UPDATETYPE_CREATE_OBJECT", "d9/d1b/a01583.html#aa0f2952f4b375c0e91f5276ff267cbada4dc60011a5f19dc6c7d8ef61f9b10e20", null ],
+      [ "UPDATETYPE_CREATE_OBJECT2", "d9/d1b/a01583.html#aa0f2952f4b375c0e91f5276ff267cbadaf72ecfc1f4c6b5006f7985299cc2cd8f", null ],
+      [ "UPDATETYPE_OUT_OF_RANGE_OBJECTS", "d9/d1b/a01583.html#aa0f2952f4b375c0e91f5276ff267cbada5e1317f5c975a9e3a19c37922f49e089", null ],
+      [ "UPDATETYPE_NEAR_OBJECTS", "d9/d1b/a01583.html#aa0f2952f4b375c0e91f5276ff267cbada5017763e8c136985831c2ee1583795d5", null ]
     ] ]
 ];

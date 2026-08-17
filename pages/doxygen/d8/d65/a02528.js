@@ -1,25 +1,49 @@
 var a02528 =
 [
-    [ "Socket< T >", "d7/dbe/a29515.html", "d7/dbe/a29515" ],
-    [ "READ_BLOCK_SIZE", "d8/d65/a02528.html#a16ba013af02b9d4400b5e47d8daa022b", null ],
-    [ "IoContextTcpSocket", "d8/d65/a02528.html#af72c5a224bc60d68d08afae3ba0cfb2f", null ],
-    [ "ProxyHeaderAddressFamilyAndProtocol", "d8/d65/a02528.html#a7ddce6d0420753babeb6258ada50eec1", [
-      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4", "d8/d65/a02528.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575", null ],
-      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6", "d8/d65/a02528.html#a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699", null ]
+    [ "DoorData", "de/d01/a10067.html", "de/d01/a10067" ],
+    [ "BossBoundaryEntry", "d6/d8f/a10071.html", "d6/d8f/a10071" ],
+    [ "BossBoundaryData", "d5/d38/a10075.html", "d5/d38/a10075" ],
+    [ "MinionData", "df/d54/a10079.html", "df/d54/a10079" ],
+    [ "ObjectData", "d0/dc9/a10083.html", "d0/dc9/a10083" ],
+    [ "BossInfo", "db/dfb/a10087.html", "db/dfb/a10087" ],
+    [ "DoorInfo", "dc/de2/a10091.html", "dc/de2/a10091" ],
+    [ "MinionInfo", "d1/dc6/a10095.html", "d1/dc6/a10095" ],
+    [ "InstanceScript", "dd/d50/a10099.html", "dd/d50/a10099" ],
+    [ "OUT_LOAD_INST_DATA", "d8/d65/a02528.html#aafbf0073420e9a897ec0f243f4793a0f", null ],
+    [ "OUT_LOAD_INST_DATA_COMPLETE", "d8/d65/a02528.html#a490e19560f068912b0e3dbd61c689b44", null ],
+    [ "OUT_LOAD_INST_DATA_FAIL", "d8/d65/a02528.html#a141fd6fe34ebbd5c3ad507db42f41b4a", null ],
+    [ "OUT_SAVE_INST_DATA", "d8/d65/a02528.html#a65ed3183971093dcebed99d1ec6d6d63", null ],
+    [ "OUT_SAVE_INST_DATA_COMPLETE", "d8/d65/a02528.html#a3a93295e3500f757163145c03e90db3d", null ],
+    [ "DoorInfoMap", "d8/d65/a02528.html#ab665e2d424a75aeb6703ccd08050676c", null ],
+    [ "DoorInfoMapBounds", "d8/d65/a02528.html#ac55e7bd9aa319ccb4e7a22a3e35c3326", null ],
+    [ "DoorSet", "d8/d65/a02528.html#a17be047bdb4b0361cdee9637ff279e9f", null ],
+    [ "MinionInfoMap", "d8/d65/a02528.html#a3b05920ad054e3f59bf988485603d2de", null ],
+    [ "MinionSet", "d8/d65/a02528.html#add004a84abc4c98dae65145dce2d17bb", null ],
+    [ "ObjectGuidMap", "d8/d65/a02528.html#a3c451c29106077a2c6f8f88facbb2c69", null ],
+    [ "ObjectInfoMap", "d8/d65/a02528.html#ac2936b863aac3fd2483eae5e234ac053", null ],
+    [ "ObjectStateMap", "d8/d65/a02528.html#a4edbb4a71661ac569a73338c83672f9d", null ],
+    [ "DoorType", "d8/d65/a02528.html#ac3549b9e861c142e11e5ad86b8b6947e", [
+      [ "DOOR_TYPE_ROOM", "d8/d65/a02528.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70", null ],
+      [ "DOOR_TYPE_PASSAGE", "d8/d65/a02528.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905", null ],
+      [ "DOOR_TYPE_SPAWN_HOLE", "d8/d65/a02528.html#ac3549b9e861c142e11e5ad86b8b6947ea05ae5ae0867f3b0c721a17ac307ff7bb", null ],
+      [ "MAX_DOOR_TYPES", "d8/d65/a02528.html#ac3549b9e861c142e11e5ad86b8b6947eac54cf58ec577ca37abba35d02ff97571", null ]
     ] ],
-    [ "ProxyHeaderReadingState", "d8/d65/a02528.html#aa514bb66fa404b5b180297bb005c3272", [
-      [ "PROXY_HEADER_READING_STATE_NOT_STARTED", "d8/d65/a02528.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c", null ],
-      [ "PROXY_HEADER_READING_STATE_STARTED", "d8/d65/a02528.html#aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98", null ],
-      [ "PROXY_HEADER_READING_STATE_FINISHED", "d8/d65/a02528.html#aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb", null ],
-      [ "PROXY_HEADER_READING_STATE_FAILED", "d8/d65/a02528.html#aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f", null ]
+    [ "EncounterFrameType", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477d", [
+      [ "ENCOUNTER_FRAME_ENGAGE", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477daf39a3442170d2b9d97b31f1aa952053a", null ],
+      [ "ENCOUNTER_FRAME_DISENGAGE", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477daade40d90f5283e0cf9f587ddbe1bcc22", null ],
+      [ "ENCOUNTER_FRAME_UPDATE_PRIORITY", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477dab466d621ed48059fed64ca588282a9bc", null ],
+      [ "ENCOUNTER_FRAME_ADD_TIMER", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477dac4db9282020e33d1fff31aeeeac8d689", null ],
+      [ "ENCOUNTER_FRAME_ENABLE_OBJECTIVE", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477da0f44e24d1a7751fed4d394719579336c", null ],
+      [ "ENCOUNTER_FRAME_UPDATE_OBJECTIVE", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477dac2613e711f746c05f27d7aa0eae3d51b", null ],
+      [ "ENCOUNTER_FRAME_DISABLE_OBJECTIVE", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477dac1903193f76dfb04f3009b98b4ddce1c", null ],
+      [ "ENCOUNTER_FRAME_REFRESH_FRAMES", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477dac4ca16adedcc16b4cac2ad580ed3e8ec", null ]
     ] ],
-    [ "SocketReadCallbackResult", "d8/d65/a02528.html#a28a77649fbf17e65bca542516efff3e3", [
-      [ "KeepReading", "d8/d65/a02528.html#a28a77649fbf17e65bca542516efff3e3a0d4c2f1850364968984f50e42be91be5", null ],
-      [ "Stop", "d8/d65/a02528.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481", null ]
-    ] ],
-    [ "SocketState", "d8/d65/a02528.html#af8f6bcfe82815814726ab4f90ea013e7", [
-      [ "Open", "d8/d65/a02528.html#af8f6bcfe82815814726ab4f90ea013e7ac3bf447eabe632720a3aa1a7ce401274", null ],
-      [ "Closing", "d8/d65/a02528.html#af8f6bcfe82815814726ab4f90ea013e7a5c8de6f894682fdb1786037b2040a26e", null ],
-      [ "Closed", "d8/d65/a02528.html#af8f6bcfe82815814726ab4f90ea013e7a03f4a47830f97377a35321051685071e", null ]
+    [ "EncounterState", "d8/d65/a02528.html#ab6cf09cd975286c705a19a75a947d438", [
+      [ "NOT_STARTED", "d8/d65/a02528.html#ab6cf09cd975286c705a19a75a947d438ae7d82dfe80ea0bd4feea8ee49ea2eab5", null ],
+      [ "IN_PROGRESS", "d8/d65/a02528.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012", null ],
+      [ "FAIL", "d8/d65/a02528.html#ab6cf09cd975286c705a19a75a947d438a936c4a5547a9360243178f726f6b2715", null ],
+      [ "DONE", "d8/d65/a02528.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749", null ],
+      [ "SPECIAL", "d8/d65/a02528.html#ab6cf09cd975286c705a19a75a947d438aaa5259d84d06214a7b0503d636790465", null ],
+      [ "TO_BE_DECIDED", "d8/d65/a02528.html#ab6cf09cd975286c705a19a75a947d438af259c60d63b511a33d9f0d1094c45958", null ]
     ] ]
 ];

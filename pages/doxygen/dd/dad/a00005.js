@@ -1,4 +1,5 @@
 var a00005 =
 [
-    [ "MMAP::IntermediateValues", "db/dae/a30028.html", "db/dae/a30028" ]
+    [ "VMAP::MapRayCallback", "d5/d15/a05335.html", "d5/d15/a05335" ],
+    [ "VMAP::LocationInfoCallback", "dc/d54/a05339.html", "dc/d54/a05339" ]
 ];

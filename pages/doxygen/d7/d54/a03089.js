@@ -1,20 +1,13 @@
 var a03089 =
 [
-    [ "instance_nexus", "dd/d40/a19815.html", "dd/d40/a19815" ],
-    [ "instance_nexus::instance_nexus_InstanceMapScript", "d0/d10/a19819.html", "d0/d10/a19819" ],
-    [ "npc_crystalline_frayer", "d3/d7b/a19823.html", "d3/d7b/a19823" ],
-    [ "eFrayer", "d7/d54/a03089.html#afccbdf6b1fcd1d08834c371ae089cd34", [
-      [ "SPELL_SUMMON_SEED_POD", "d7/d54/a03089.html#afccbdf6b1fcd1d08834c371ae089cd34a574104b14cbcd24794ab8666fa8dbd76", null ],
-      [ "SPELL_SEED_POD", "d7/d54/a03089.html#afccbdf6b1fcd1d08834c371ae089cd34ac55a6fa8082947a3cf2c03a7a6698eb7", null ],
-      [ "SPELL_AURA_OF_REGENERATION", "d7/d54/a03089.html#afccbdf6b1fcd1d08834c371ae089cd34a16a68348d55363d0fa476afad65ed165", null ],
-      [ "SPELL_CRYSTAL_BLOOM", "d7/d54/a03089.html#afccbdf6b1fcd1d08834c371ae089cd34a2628113ed0f8c81fec3cbb2dd01123f7", null ],
-      [ "SPELL_ENSNARE", "d7/d54/a03089.html#afccbdf6b1fcd1d08834c371ae089cd34aa84bf40a2daa426466ad7322a0ab325d", null ],
-      [ "SAY_EMOTE", "d7/d54/a03089.html#afccbdf6b1fcd1d08834c371ae089cd34acc21792a1861c2f9a3d4d694ee1d9f1d", null ]
+    [ "instance_sunken_temple", "de/d20/a13651.html", "de/d20/a13651" ],
+    [ "instance_sunken_temple::instance_sunken_temple_InstanceMapScript", "d5/d78/a13655.html", "d5/d78/a13655" ],
+    [ "at_malfurion_stormrage", "dd/dd9/a13659.html", "dd/dd9/a13659" ],
+    [ "spell_temple_of_atal_hakkar_hex_of_jammal_an_aura", "de/def/a13663.html", "de/def/a13663" ],
+    [ "spell_temple_of_atal_hakkar_awaken_the_soulflayer", "d8/def/a13667.html", "d8/def/a13667" ],
+    [ "MalfurionMisc", "d7/d54/a03089.html#a754fcfafd80b5a6c2ea444f49cfbc7d1", [
+      [ "QUEST_ERANIKUS_TYRANT_OF_DREAMS", "d7/d54/a03089.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d", null ],
+      [ "QUEST_THE_CHARGE_OF_DRAGONFLIGHTS", "d7/d54/a03089.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526", null ]
     ] ],
-    [ "FrayerGroups", "d7/d54/a03089.html#a29a293d010d15bea50b64ca0a6a16fb5", [
-      [ "GROUP_COMBAT", "d7/d54/a03089.html#a29a293d010d15bea50b64ca0a6a16fb5a8a276adfb1bc4c990d9fcd7622ee8b44", null ],
-      [ "GROUP_SEED_POD", "d7/d54/a03089.html#a29a293d010d15bea50b64ca0a6a16fb5acfb7ee2d22c26e537cb22506d7ae0028", null ]
-    ] ],
-    [ "AddSC_instance_nexus", "d7/d54/a03089.html#a77d0cce0724befee65efa7555f62f8f1", null ],
-    [ "doorData", "d7/d54/a03089.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "AddSC_instance_sunken_temple", "d7/d54/a03089.html#ab3f2a91fe096585f54078e8884cb25f7", null ]
 ];

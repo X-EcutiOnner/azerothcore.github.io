@@ -1,13 +1,6 @@
 var a24275 =
 [
-    [ "npc_illidari_spawnAI", "dc/d54/a24275.html#a704c1d3e07d028b04e2bddee37039941", null ],
-    [ "JustDied", "dc/d54/a24275.html#a27277d90d4a58a89386a39f4affbaee8", null ],
-    [ "JustEngagedWith", "dc/d54/a24275.html#add4ea6366614e9fb86e85613bfb910ba", null ],
-    [ "Reset", "dc/d54/a24275.html#a5347858d5da4f0718479b1d702125366", null ],
-    [ "UpdateAI", "dc/d54/a24275.html#af392a545b3dccb7a7c89780d2818a7a7", null ],
-    [ "LordIllidanGUID", "dc/d54/a24275.html#a11b411dd0b5a32a7bdd0c44242a42372", null ],
-    [ "SpellTimer1", "dc/d54/a24275.html#afbf1b352275c0fd16fdf252eac9e0c4a", null ],
-    [ "SpellTimer2", "dc/d54/a24275.html#a644616bab96e1bd9bbe2500bf1b14988", null ],
-    [ "SpellTimer3", "dc/d54/a24275.html#a9889f9673292613dc46387862f3e8849", null ],
-    [ "Timers", "dc/d54/a24275.html#a1e48e4dea7bc1ba0f3d6be2f03b6813e", null ]
+    [ "npc_illidari_spawnAI", "d6/d7f/a24279.html", "d6/d7f/a24279" ],
+    [ "npc_illidari_spawn", "dc/d54/a24275.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "dc/d54/a24275.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];
