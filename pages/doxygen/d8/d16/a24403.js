@@ -1,8 +1,8 @@
 var a24403 =
 [
-    [ "npc_pet_dk_army_of_the_dead", "d8/d16/a24403.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
-    [ "CanAIAttack", "d8/d16/a24403.html#a514fe49b143f57ef87359b3060911c02", null ],
-    [ "OwnerAttacked", "d8/d16/a24403.html#ad5189df825dc917e59c9b19e4a84cded", null ],
-    [ "OwnerAttackedBy", "d8/d16/a24403.html#a01f21e7c57f4bf7f9457c72fda4e9022", null ],
-    [ "UpdateAI", "d8/d16/a24403.html#ac44836f84d172dfac90dfb3eaaeeac6a", null ]
+    [ "npc_pet_dk_ghoul", "d8/d16/a24403.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
+    [ "IsSummonedBy", "d8/d16/a24403.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
+    [ "JustDied", "d8/d16/a24403.html#a6095e3619b470283b9875b90e2805b54", null ],
+    [ "UpdateAI", "d8/d16/a24403.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
+    [ "_summonTargetGUID", "d8/d16/a24403.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
 ];

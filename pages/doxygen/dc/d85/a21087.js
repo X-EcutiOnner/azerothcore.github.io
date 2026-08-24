@@ -1,7 +1,6 @@
 var a21087 =
 [
-    [ "HandleEffectCalcPeriodic", "dc/d85/a21087.html#af01eb94174952de52615734055b17c1a", null ],
-    [ "HandleEffectPeriodic", "dc/d85/a21087.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
-    [ "PrepareAuraScript", "dc/d85/a21087.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
-    [ "Register", "dc/d85/a21087.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
+    [ "ModSanityStacks", "dc/d85/a21087.html#a38b8425689f91b91e23096d658b462cf", null ],
+    [ "PrepareSpellScript", "dc/d85/a21087.html#a43362033f7422a0b9918ddd3b7e480cc", null ],
+    [ "Register", "dc/d85/a21087.html#a6d5e27f728ee3980d33d417fb437c9c6", null ]
 ];

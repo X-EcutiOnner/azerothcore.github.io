@@ -1,12 +1,6 @@
 var a25455 =
 [
-    [ "EtherealSoulTrader", "dc/d8f/a25455.html#a8fd600957c21bdd8a1c1793e36ea3953", [
-      [ "NPC_ETHEREAL_SOUL_TRADER", "dc/d8f/a25455.html#a8fd600957c21bdd8a1c1793e36ea3953af260b92af2c0a22e3d0de607611f3673", null ],
-      [ "SPELL_OWNER_KILLED_INFORM", "dc/d8f/a25455.html#a8fd600957c21bdd8a1c1793e36ea3953a0ece3b3d2fa217b809d77915cc6f30d2", null ],
-      [ "SPELL_STEAL_ESSENCE_VISUAL", "dc/d8f/a25455.html#a8fd600957c21bdd8a1c1793e36ea3953aa4a66122509fdf013a6c6b3a5edbbba7", null ]
-    ] ],
-    [ "CheckProc", "dc/d8f/a25455.html#a59752617fc790359fdb13cc88aaed15e", null ],
-    [ "HandleProc", "dc/d8f/a25455.html#ab52656d4827f3fe980edd281e82debd5", null ],
-    [ "PrepareAuraScript", "dc/d8f/a25455.html#a49a6a07b66e5b99c67d4fcef13aeb933", null ],
-    [ "Register", "dc/d8f/a25455.html#a16d9e04ba3bc3144cd539033a5053d1a", null ]
+    [ "PrepareSpellScript", "dc/d8f/a25455.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "dc/d8f/a25455.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "dc/d8f/a25455.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

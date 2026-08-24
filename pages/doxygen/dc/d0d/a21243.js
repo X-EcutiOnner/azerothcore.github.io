@@ -1,7 +1,8 @@
 var a21243 =
 [
-    [ "HandleOnEffectRemove", "dc/d0d/a21243.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "dc/d0d/a21243.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "dc/d0d/a21243.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "dc/d0d/a21243.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "CheckProc", "dc/d0d/a21243.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
+    [ "HandleProc", "dc/d0d/a21243.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
+    [ "PrepareAuraScript", "dc/d0d/a21243.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
+    [ "Register", "dc/d0d/a21243.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
+    [ "Validate", "dc/d0d/a21243.html#ad4176f188412053b9205820fb6183d38", null ]
 ];

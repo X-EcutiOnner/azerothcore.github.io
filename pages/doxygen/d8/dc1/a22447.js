@@ -1,7 +1,7 @@
 var a22447 =
 [
-    [ "npc_wg_siege_machineAI", "d8/dc1/a22447.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
-    [ "CanControlVehicle", "d8/dc1/a22447.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
-    [ "UpdateAI", "d8/dc1/a22447.html#a8ddd21047a857facc767a9edc0ec5408", null ],
-    [ "checkTimer", "d8/dc1/a22447.html#abf4b06eae50adeefedba02e2186ea48a", null ]
+    [ "npc_wg_quest_giver", "d8/dc1/a22447.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "d8/dc1/a22447.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "d8/dc1/a22447.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "d8/dc1/a22447.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

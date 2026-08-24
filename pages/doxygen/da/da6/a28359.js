@@ -1,5 +1,6 @@
 var a28359 =
 [
-    [ "go_dragonflayer_cage", "da/da6/a28359.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
-    [ "OnGossipHello", "da/da6/a28359.html#a542530a0b84879b21a4b9982cf4300d0", null ]
+    [ "go_soulwellAI", "da/da2/a28363.html", "da/da2/a28363" ],
+    [ "go_soulwell", "da/da6/a28359.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "da/da6/a28359.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

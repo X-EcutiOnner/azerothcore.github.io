@@ -1,5 +1,6 @@
 var a20611 =
 [
-    [ "achievement_kologarn_looks_could_kill", "db/d98/a20611.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
-    [ "OnCheck", "db/d98/a20611.html#a0e7be4fb00808fab9a231530822fc93d", null ]
+    [ "OnPeriodic", "db/d98/a20611.html#a8a12342f694499043e8ed4446fd92d36", null ],
+    [ "PrepareAuraScript", "db/d98/a20611.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
+    [ "Register", "db/d98/a20611.html#a381709d53101832de6b2161c4a33a0d4", null ]
 ];

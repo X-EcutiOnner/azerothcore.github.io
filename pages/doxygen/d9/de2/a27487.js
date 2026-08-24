@@ -1,8 +1,12 @@
 var a27487 =
 [
-    [ "FilterTargets", "d9/de2/a27487.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
-    [ "HandleDummy", "d9/de2/a27487.html#a2214b10da042a3af2fd3311872cc5286", null ],
-    [ "PrepareSpellScript", "d9/de2/a27487.html#a9959966856601f79a83931a7a7ecff91", null ],
-    [ "Register", "d9/de2/a27487.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
-    [ "Validate", "d9/de2/a27487.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
+    [ "CalcPeriodic", "d9/de2/a27487.html#a35d58947074659d2692877dfcf13e4bd", null ],
+    [ "CalculateAPAmount", "d9/de2/a27487.html#ac72434a046c28a4887971cf83d574a6e", null ],
+    [ "CalculateResistanceAmount", "d9/de2/a27487.html#a82067899470366c2cbf21bba08061ce1", null ],
+    [ "CalculateSPAmount", "d9/de2/a27487.html#a527213b389be9b1953f423ae84eb16ee", null ],
+    [ "CalculateStatAmount", "d9/de2/a27487.html#ad7185292820feb168565648133c9e2cc", null ],
+    [ "HandleEffectApply", "d9/de2/a27487.html#aa333430da4cf3303822d5f048cb9d5a4", null ],
+    [ "HandlePeriodic", "d9/de2/a27487.html#ae2bca6c841d1ba02a8a39b1a2179ac97", null ],
+    [ "PrepareAuraScript", "d9/de2/a27487.html#a671a588ae36323c11b33a45d652290de", null ],
+    [ "Register", "d9/de2/a27487.html#a8aae94d6d6a9ec1fa7d47f88874cce4f", null ]
 ];

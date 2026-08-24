@@ -1,5 +1,5 @@
 var a29963 =
 [
-    [ "damageApplied", "d7/d93/a29963.html#a69a7cfd95e3e3b43879eae37963d1e14", null ],
-    [ "slowApplied", "d7/d93/a29963.html#a2d99cc2f9c6aedfeef6e18885ff2675d", null ]
+    [ "aura", "d7/d93/a29963.html#a6a57282648f4792e6dfaf4c892be90eb", null ],
+    [ "effect", "d7/d93/a29963.html#a24ce38279cb514bab8ef9924d93b5dfc", null ]
 ];

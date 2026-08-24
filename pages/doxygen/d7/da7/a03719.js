@@ -1,9 +1,9 @@
 var a03719 =
 [
-    [ "brann_bronzebeard", "de/d34/a20051.html", "de/d34/a20051" ],
-    [ "spell_taunt_brann", "d2/d31/a20055.html", "d2/d31/a20055" ],
-    [ "spell_hos_dark_matter", "d4/dcf/a20059.html", "d4/dcf/a20059" ],
-    [ "spell_hos_dark_matter_size", "d0/dab/a20063.html", "d0/dab/a20063" ],
+    [ "brann_bronzebeard", "d2/d31/a20055.html", "d2/d31/a20055" ],
+    [ "spell_taunt_brann", "d4/dcf/a20059.html", "d4/dcf/a20059" ],
+    [ "spell_hos_dark_matter", "d0/dab/a20063.html", "d0/dab/a20063" ],
+    [ "spell_hos_dark_matter_size", "d4/d77/a20067.html", "d4/d77/a20067" ],
     [ "AbedneumTexts", "d7/da7/a03719.html#a9ef4533570e18e9822999d106551f6e9", [
       [ "SAY_ABEDNEUM_WARNING", "d7/da7/a03719.html#a9ef4533570e18e9822999d106551f6e9a64b9823adad714333f63ec91f4078306", null ],
       [ "SAY_ABEDNEUM_CRITICAL", "d7/da7/a03719.html#a9ef4533570e18e9822999d106551f6e9a55df08b2dc5eaec74ef9e3b2ab59d787", null ],

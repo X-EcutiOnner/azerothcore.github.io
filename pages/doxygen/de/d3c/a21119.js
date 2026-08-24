@@ -1,6 +1,7 @@
 var a21119 =
 [
-    [ "OnRemove", "de/d3c/a21119.html#a3cac25c6136b5dce491b24b7fb0ed33a", null ],
-    [ "PrepareAuraScript", "de/d3c/a21119.html#a2afc759693aa4dfbd0ac33b1b770e995", null ],
-    [ "Register", "de/d3c/a21119.html#a8fbcf904caf526f37d4a7984791d9fd0", null ]
+    [ "OnApply", "de/d3c/a21119.html#a458871e0d2c1969a91ce9474b3ad87d0", null ],
+    [ "PrepareAuraScript", "de/d3c/a21119.html#a3a6b71d35bfcf681c98bb3bb4331e91c", null ],
+    [ "Register", "de/d3c/a21119.html#a4d6bb68d17bbc1b10d828b1d70155f65", null ],
+    [ "Validate", "de/d3c/a21119.html#a1ffe527d33de10a7dc8431311f4d738e", null ]
 ];

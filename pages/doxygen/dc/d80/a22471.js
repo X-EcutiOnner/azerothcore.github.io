@@ -1,7 +1,6 @@
 var a22471 =
 [
-    [ "HandleScript", "dc/d80/a22471.html#a1811115f1732912bdfaeeb8272db2304", null ],
-    [ "PrepareSpellScript", "dc/d80/a22471.html#a50c24464dd88717bf78971d679715d7b", null ],
-    [ "Register", "dc/d80/a22471.html#ab48b37db40865d60d7cda3260ec15ba8", null ],
-    [ "Validate", "dc/d80/a22471.html#a0f0e4621965ea7ed7a108bca6d232ad0", null ]
+    [ "HandleSummon", "dc/d80/a22471.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
+    [ "PrepareSpellScript", "dc/d80/a22471.html#ae7f071e9d9a82892be31090385679c9f", null ],
+    [ "Register", "dc/d80/a22471.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
 ];

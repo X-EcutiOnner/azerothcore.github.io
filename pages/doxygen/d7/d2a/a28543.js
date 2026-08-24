@@ -1,6 +1,6 @@
 var a28543 =
 [
-    [ "npc_air_force_botsAI", "d8/d33/a28547.html", "d8/d33/a28547" ],
-    [ "npc_air_force_bots", "d7/d2a/a28543.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "d7/d2a/a28543.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "npc_target_dummy", "d7/d2a/a28543.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
+    [ "Reset", "d7/d2a/a28543.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
+    [ "UpdateAI", "d7/d2a/a28543.html#a32e9e139a54375b336c112deee3687cd", null ]
 ];

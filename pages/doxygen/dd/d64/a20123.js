@@ -1,6 +1,7 @@
 var a20123 =
 [
-    [ "PrepareSpellScript", "dd/d64/a20123.html#af7426e99a49f8618fc38242ded7132f1", null ],
-    [ "RecalculateDamage", "dd/d64/a20123.html#a94e70b20f2139f668227dccb623c1af6", null ],
-    [ "Register", "dd/d64/a20123.html#acd911f78780e052d88f5f47574092d62", null ]
+    [ "HandleDummyEffect", "dd/d64/a20123.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "dd/d64/a20123.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "dd/d64/a20123.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "dd/d64/a20123.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

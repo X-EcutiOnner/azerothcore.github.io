@@ -1,11 +1,6 @@
 var a23867 =
 [
-    [ "boss_high_astromancer_solarian", "d2/db0/a23867.html#a2db48cc179539f81b55188de08a7e180", null ],
-    [ "AttackStart", "d2/db0/a23867.html#acaf94134aef553447e766a5e431c8b83", null ],
-    [ "JustDied", "d2/db0/a23867.html#a510eb2e4f0770670d6767bc2545375b7", null ],
-    [ "JustEngagedWith", "d2/db0/a23867.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
-    [ "JustSummoned", "d2/db0/a23867.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
-    [ "KilledUnit", "d2/db0/a23867.html#a561a78193615575b7e43e0f21387f1b8", null ],
-    [ "Reset", "d2/db0/a23867.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
-    [ "UpdateAI", "d2/db0/a23867.html#a07a76c34a978c31212390cf10ed3e382", null ]
+    [ "HandleCast", "d2/db0/a23867.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "d2/db0/a23867.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "d2/db0/a23867.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

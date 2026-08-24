@@ -1,7 +1,7 @@
 var a03662 =
 [
-    [ "instance_ulduar", "df/de9/a21143.html", "df/de9/a21143" ],
-    [ "instance_ulduar::instance_ulduar_InstanceMapScript", "d1/d6a/a21147.html", "d1/d6a/a21147" ],
+    [ "instance_ulduar", "d1/d6a/a21147.html", "d1/d6a/a21147" ],
+    [ "instance_ulduar::instance_ulduar_InstanceMapScript", "dd/d65/a21151.html", "dd/d65/a21151" ],
     [ "AddSC_instance_ulduar", "d4/d2b/a03662.html#a93e6e71a7717be3946c53d3b6093e517", null ],
     [ "boundaries", "d4/d2b/a03662.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "d4/d2b/a03662.html#a412286b689bd324fedd65ddd8dde8afb", null ],

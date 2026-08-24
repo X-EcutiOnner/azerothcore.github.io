@@ -1,6 +1,6 @@
 var a22307 =
 [
-    [ "npc_time_lost_proto_drakeAI", "d3/d63/a22311.html", "d3/d63/a22311" ],
-    [ "npc_time_lost_proto_drake", "d6/d7c/a22307.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
-    [ "GetAI", "d6/d7c/a22307.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
+    [ "npc_iron_watcherAI", "d3/d63/a22311.html", "d3/d63/a22311" ],
+    [ "npc_iron_watcher", "d6/d7c/a22307.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
+    [ "GetAI", "d6/d7c/a22307.html#af3b80b838e192737762ceed599b0be9a", null ]
 ];

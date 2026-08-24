@@ -1,7 +1,10 @@
 var a27815 =
 [
-    [ "CalculateAmount", "d0/d30/a27815.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
-    [ "PrepareAuraScript", "d0/d30/a27815.html#a20dad49a99420556f393a16525eb14b4", null ],
-    [ "Register", "d0/d30/a27815.html#ad7d339ab137ebd640981f7789e1757f0", null ],
-    [ "Validate", "d0/d30/a27815.html#a341acb2dd25c1db94777f7036f3338ac", null ]
+    [ "CheckProc", "d0/d30/a27815.html#a257202ac9b80a67ce58d9e3491164d22", null ],
+    [ "HandleProc", "d0/d30/a27815.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
+    [ "HandleTick", "d0/d30/a27815.html#a5e436c530e5ef70bc4de4305676ed196", null ],
+    [ "PrepareAuraScript", "d0/d30/a27815.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
+    [ "Register", "d0/d30/a27815.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
+    [ "RemoveEffect", "d0/d30/a27815.html#a333ad80d8478f59713ee049f935d7885", null ],
+    [ "Validate", "d0/d30/a27815.html#aed3cb37f0230463978b210add84bd31d", null ]
 ];

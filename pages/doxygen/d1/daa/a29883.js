@@ -1,10 +1,12 @@
 var a29883 =
 [
-    [ "FakeAura", "d1/daa/a29883.html#a72674203b5aa768aaec46bc824c66ad8", null ],
-    [ "IsExpired", "d1/daa/a29883.html#af55fe68d7548abe43fbbe391163dcbf4", null ],
-    [ "IsRemoved", "d1/daa/a29883.html#ad4b4a547d5596ad39d46125ded1c0863", null ],
-    [ "expired", "d1/daa/a29883.html#a9de4d15b90ea8e89a5a3dd95122f5ff9", null ],
-    [ "removed", "d1/daa/a29883.html#a0ea41ca4e60c4c56228687ca6038695f", null ],
-    [ "spellId", "d1/daa/a29883.html#ab08e902dae2b24d869c2befe1e9a74a2", null ],
-    [ "updated", "d1/daa/a29883.html#aacbde7f93cb160ed272a4b3ddd18f1ee", null ]
+    [ "TestVisibilityScript", "d1/daa/a29883.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
+    [ "EnsureRegistered", "d1/daa/a29883.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
+    [ "OnPlayerSetServerSideVisibility", "d1/daa/a29883.html#a6b3701188303b644b28a52ec42bec846", null ],
+    [ "Reset", "d1/daa/a29883.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
+    [ "CallCount", "d1/daa/a29883.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
+    [ "Instance", "d1/daa/a29883.html#adcf0326aa1e32db109ec920857868138", null ],
+    [ "LastPlayer", "d1/daa/a29883.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
+    [ "LastSecurity", "d1/daa/a29883.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
+    [ "LastType", "d1/daa/a29883.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
 ];

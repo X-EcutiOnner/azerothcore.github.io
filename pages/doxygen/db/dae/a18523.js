@@ -1,9 +1,9 @@
 var a18523 =
 [
-    [ "AfterApply", "db/dae/a18523.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
-    [ "ExtraRemoveEffect", "db/dae/a18523.html#a9f427761fcca9029eb75d586e5876fcd", null ],
-    [ "PeriodicTick", "db/dae/a18523.html#a82430399e44001343f322b2c3b7769a5", null ],
-    [ "PrepareAuraScript", "db/dae/a18523.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
-    [ "Register", "db/dae/a18523.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
-    [ "Validate", "db/dae/a18523.html#ae20873e93fbace6272a793993fb45349", null ]
+    [ "FilterTargets", "db/dae/a18523.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
+    [ "FilterTargetsSubseq", "db/dae/a18523.html#a88a53a855e01b550fbd106ac318a891e", null ],
+    [ "PrepareSpellScript", "db/dae/a18523.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
+    [ "Register", "db/dae/a18523.html#a27e8768422b311f6db16757e167f4102", null ],
+    [ "Validate", "db/dae/a18523.html#a96ef76527449a138685830b52fa95146", null ],
+    [ "_targetList", "db/dae/a18523.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
 ];

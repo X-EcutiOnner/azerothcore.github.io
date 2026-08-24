@@ -1,12 +1,22 @@
 var a29631 =
 [
-    [ "HealInfoStubBuilder", "d7/d60/a29631.html#a57945de96ad065451cadb47edba287c8", null ],
-    [ "Build", "d7/d60/a29631.html#a291565d223df00ce9d09c0315e803448", null ],
-    [ "WithAbsorb", "d7/d60/a29631.html#aa09160afe48114a7a3566be328f64658", null ],
-    [ "WithEffectiveHeal", "d7/d60/a29631.html#a34a359322b018cffc5f54ca999c11b11", null ],
-    [ "WithHeal", "d7/d60/a29631.html#a812e06b07eeb18c1d379409b77a80b89", null ],
-    [ "WithHitMask", "d7/d60/a29631.html#ab788ddcc209140ed3c10b02785471dcb", null ],
-    [ "WithOverheal", "d7/d60/a29631.html#a89c12c30725eb2bdc3889005a38d54eb", null ],
-    [ "WithSpellInfo", "d7/d60/a29631.html#a4dc784241fbe998437cceb953fb83e1f", null ],
-    [ "_stub", "d7/d60/a29631.html#ad0da544c651e387d8c6e9b272aa3db7b", null ]
+    [ "HealInfoStub", "d7/d60/a29631.html#afa2b7c6e93b387f16e2b545adc4fa05c", null ],
+    [ "HealInfoStub", "d7/d60/a29631.html#ae011c5a0f72cd5581e661793c3ac2fdc", null ],
+    [ "~HealInfoStub", "d7/d60/a29631.html#ae599d81216cbcaa69f206ac6eca6d886", null ],
+    [ "GetAbsorb", "d7/d60/a29631.html#aae8cd0f206d4dbd78b56838cdb49dad6", null ],
+    [ "GetEffectiveHeal", "d7/d60/a29631.html#aa19e94b9523f803f2af09fb77382f3c2", null ],
+    [ "GetHeal", "d7/d60/a29631.html#abc0ad944af22920bc105b1b4c71ad467", null ],
+    [ "GetHitMask", "d7/d60/a29631.html#ac110638d1729fae0ba6594d7f092d4b0", null ],
+    [ "GetOverheal", "d7/d60/a29631.html#a5af3db6eed10c8b2cd17f0509f6085fa", null ],
+    [ "GetSpellInfo", "d7/d60/a29631.html#a05ce52ae6ea15c8043dfeae236466017", null ],
+    [ "SetAbsorb", "d7/d60/a29631.html#a5f7988705654a3b6f460ddbbecb3992b", null ],
+    [ "SetEffectiveHeal", "d7/d60/a29631.html#ad8c263f50edf324a72ca366f6caf4377", null ],
+    [ "SetHeal", "d7/d60/a29631.html#a6dede4a2256ff21fde331ae05d257718", null ],
+    [ "SetHitMask", "d7/d60/a29631.html#a4f50475819621d56efd4e359ed004483", null ],
+    [ "SetSpellInfo", "d7/d60/a29631.html#a2e5ac0bb798710d33e0ff4c29c8507a0", null ],
+    [ "_absorb", "d7/d60/a29631.html#a1b6726177d88f4da4b4fa36e96136711", null ],
+    [ "_effectiveHeal", "d7/d60/a29631.html#aab54619f78456698c646d83ac448e1e2", null ],
+    [ "_heal", "d7/d60/a29631.html#a44c86cf0c0d87d9ceb9574ced0990845", null ],
+    [ "_hitMask", "d7/d60/a29631.html#a2228ffd4334cc5adff51e67394d19de9", null ],
+    [ "_spellInfo", "d7/d60/a29631.html#a94cd95b537e2510047da23a7f9176aa6", null ]
 ];

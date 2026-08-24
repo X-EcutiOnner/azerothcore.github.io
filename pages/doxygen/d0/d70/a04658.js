@@ -1,8 +1,8 @@
 var a04658 =
 [
-    [ "boss_morogrim_tidewalker", "d0/d56/a23295.html", "d0/d56/a23295" ],
-    [ "spell_morogrim_tidewalker_watery_grave", "d5/d94/a23299.html", "d5/d94/a23299" ],
-    [ "spell_morogrim_tidewalker_water_globule_new_target", "d9/d8a/a23303.html", "d9/d8a/a23303" ],
+    [ "boss_morogrim_tidewalker", "d9/d8a/a23303.html", "d9/d8a/a23303" ],
+    [ "spell_morogrim_tidewalker_watery_grave", "d6/d13/a23307.html", "d6/d13/a23307" ],
+    [ "spell_morogrim_tidewalker_water_globule_new_target", "d1/d9f/a23311.html", "d1/d9f/a23311" ],
     [ "Spells", "d0/d70/a04658.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d5/db3/a01751.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d5/db3/a01751.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

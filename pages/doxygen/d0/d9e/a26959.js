@@ -1,6 +1,7 @@
 var a26959 =
 [
-    [ "HandleDamage", "d0/d9e/a26959.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
-    [ "PrepareSpellScript", "d0/d9e/a26959.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
-    [ "Register", "d0/d9e/a26959.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
+    [ "HandleHeal", "d0/d9e/a26959.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
+    [ "PrepareSpellScript", "d0/d9e/a26959.html#a9de9260bc1e2582138c58a708e5d899c", null ],
+    [ "Register", "d0/d9e/a26959.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
+    [ "Validate", "d0/d9e/a26959.html#aa300822cf5455404482124a6853fb314", null ]
 ];

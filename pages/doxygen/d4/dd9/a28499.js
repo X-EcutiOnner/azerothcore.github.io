@@ -1,8 +1,8 @@
 var a28499 =
 [
-    [ "npc_franklinAI", "de/ddd/a28503.html", "de/ddd/a28503" ],
-    [ "npc_franklin", "d4/dd9/a28499.html#aab059dfa69e52083892e3170c8838e0a", null ],
-    [ "GetAI", "d4/dd9/a28499.html#a10933878afe9d0cc78fa1113341fd522", null ],
-    [ "OnGossipHello", "d4/dd9/a28499.html#a318d512914b135800caabe0efbb1c467", null ],
-    [ "OnGossipSelect", "d4/dd9/a28499.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
+    [ "npc_nelsonAI", "de/ddd/a28503.html", "de/ddd/a28503" ],
+    [ "npc_nelson", "d4/dd9/a28499.html#ada597926a6db1aa7823ddabc19945b11", null ],
+    [ "GetAI", "d4/dd9/a28499.html#a75fea281fb49249345c48236bf44b1c8", null ],
+    [ "OnGossipHello", "d4/dd9/a28499.html#aa693b365a15d4617f214f9c3c229bf89", null ],
+    [ "OnGossipSelect", "d4/dd9/a28499.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
 ];

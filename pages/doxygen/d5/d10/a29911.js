@@ -1,9 +1,8 @@
 var a29911 =
 [
-    [ "CountQuestOnCreature", "d5/d10/a29911.html#a4bf05b65d940e61567667d0939e177e5", null ],
-    [ "SetUp", "d5/d10/a29911.html#a4788953a58bbea222cf59662b4427e72", null ],
-    [ "SimulateReload", "d5/d10/a29911.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
-    [ "SimulateSpawn1Object", "d5/d10/a29911.html#a82c53349ba3754a75b2c1570fe413d09", null ],
-    [ "TearDown", "d5/d10/a29911.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
-    [ "creatureQuestMap", "d5/d10/a29911.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
+    [ "TestOocPlayerScript", "d5/d10/a29911.html#ad8a63387a46b252a555b5d48b0f73d55", null ],
+    [ "EnsureRegistered", "d5/d10/a29911.html#a485c732b5cc87e418e1e8b0fdb80e5b7", null ],
+    [ "OnPlayerCompleteQuest", "d5/d10/a29911.html#a7288e4227b28edebe4723c14ef56bce1", null ],
+    [ "OnPlayerLevelChanged", "d5/d10/a29911.html#a0d2fa7743649d3443f49654d55ca1558", null ],
+    [ "Instance", "d5/d10/a29911.html#a58269b1a038bfbdc8c9dafd058d16b5e", null ]
 ];

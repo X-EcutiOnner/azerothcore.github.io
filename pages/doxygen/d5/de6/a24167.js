@@ -1,5 +1,6 @@
 var a24167 =
 [
-    [ "at_commander_dawnforge", "d5/de6/a24167.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "d5/de6/a24167.html#a240a2a8a3de913c840c0a14fa4427e7e", null ]
+    [ "npc_commander_dawnforgeAI", "d8/df2/a24171.html", "d8/df2/a24171" ],
+    [ "npc_commander_dawnforge", "d5/de6/a24167.html#ab4d430725f68f906e9c8def66b1d6646", null ],
+    [ "GetAI", "d5/de6/a24167.html#a6089b087b7c3b18659e23c677814318b", null ]
 ];

@@ -1,12 +1,6 @@
 var a19819 =
 [
-    [ "instance_nexus_InstanceMapScript", "d0/d10/a19819.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
-    [ "Initialize", "d0/d10/a19819.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
-    [ "KillAllFrayers", "d0/d10/a19819.html#a7c696467deba7a2f15d5175e3427bd20", null ],
-    [ "OnCreatureCreate", "d0/d10/a19819.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
-    [ "OnGameObjectCreate", "d0/d10/a19819.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
-    [ "OnGameObjectRemove", "d0/d10/a19819.html#ac148c67823484eee38ab6646dfb68530", null ],
-    [ "SetBossState", "d0/d10/a19819.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
-    [ "SetData", "d0/d10/a19819.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
-    [ "_frayerGUIDs", "d0/d10/a19819.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
+    [ "instance_nexus_InstanceMapScript", "d3/d7b/a19823.html", "d3/d7b/a19823" ],
+    [ "instance_nexus", "d0/d10/a19819.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
+    [ "GetInstanceScript", "d0/d10/a19819.html#a156210ba08caa0572c775dbd5851b250", null ]
 ];

@@ -1,6 +1,6 @@
 var a27039 =
 [
-    [ "CheckCast", "d3/d4a/a27039.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "d3/d4a/a27039.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "d3/d4a/a27039.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "CheckCast", "d3/d4a/a27039.html#a624ee45c92b37da12204dcc95dc815ca", null ],
+    [ "PrepareSpellScript", "d3/d4a/a27039.html#acdbb427ed3ebe9e2b8089a5bb50489a9", null ],
+    [ "Register", "d3/d4a/a27039.html#abc4e276c4759bad63b692a467f2f88f2", null ]
 ];

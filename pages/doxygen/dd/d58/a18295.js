@@ -1,7 +1,6 @@
 var a18295 =
 [
-    [ "HandleScript", "dd/d58/a18295.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "dd/d58/a18295.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "dd/d58/a18295.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "dd/d58/a18295.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "npc_putricide_mutated_abomination", "dd/d58/a18295.html#ae8aa90f98296c10cbbb54570304892ca", null ],
+    [ "AttackStart", "dd/d58/a18295.html#a4ab01c14094f37de91591ff3a81e5c23", null ],
+    [ "UpdateAI", "dd/d58/a18295.html#a84e6eed6db698c6dfa0a2e73c30c1505", null ]
 ];

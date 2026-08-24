@@ -1,6 +1,6 @@
 var a27295 =
 [
-    [ "HandleEffectPeriodic", "de/d3b/a27295.html#a29eb3f3dadd45ccab069222fc36cea09", null ],
-    [ "PrepareAuraScript", "de/d3b/a27295.html#aaa8296439ffe69eafdd1cece8ec346ad", null ],
-    [ "Register", "de/d3b/a27295.html#a0a62a0bcf39a781289e1467384ac82cb", null ]
+    [ "ModDest", "de/d3b/a27295.html#ab03387aec0a02a6b3bac1014443554b6", null ],
+    [ "PrepareSpellScript", "de/d3b/a27295.html#a53f7da301759fb18686bc73281c4a321", null ],
+    [ "Register", "de/d3b/a27295.html#a266198fbc6203517f9845ef6212ddf13", null ]
 ];

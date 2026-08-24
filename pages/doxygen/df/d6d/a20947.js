@@ -1,5 +1,6 @@
 var a20947 =
 [
-    [ "achievement_nerf_engineering", "df/d6d/a20947.html#ad8e1eadd635c7a5025e545053b52904f", null ],
-    [ "OnCheck", "df/d6d/a20947.html#aefe01bfba3347be8a01bf5a398865cb6", null ]
+    [ "HandleScript", "df/d6d/a20947.html#a679cf770e38e1fda66f8a64fff53f968", null ],
+    [ "PrepareSpellScript", "df/d6d/a20947.html#a89fe5ca5efcc45278bdd9017cfeaaf3f", null ],
+    [ "Register", "df/d6d/a20947.html#adc76a70e73cba42c0f9935b3b43d17cd", null ]
 ];

@@ -1,5 +1,7 @@
 var a22427 =
 [
-    [ "npc_wg_spirit_guideAI", "dc/dab/a22427.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
-    [ "UpdateAI", "dc/dab/a22427.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
+    [ "npc_wg_demolisher_engineer", "dc/dab/a22427.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "dc/dab/a22427.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "dc/dab/a22427.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "dc/dab/a22427.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

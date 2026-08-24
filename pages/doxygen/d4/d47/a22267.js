@@ -1,8 +1,6 @@
 var a22267 =
 [
-    [ "npc_adventurous_dwarfAI", "db/de1/a22271.html", "db/de1/a22271" ],
-    [ "npc_adventurous_dwarf", "d4/d47/a22267.html#a15c39e217907189db9be7799e696f310", null ],
-    [ "GetAI", "d4/d47/a22267.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
-    [ "OnGossipHello", "d4/d47/a22267.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
-    [ "OnGossipSelect", "d4/d47/a22267.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
+    [ "npc_jungle_punch_targetAI", "db/de1/a22271.html", "db/de1/a22271" ],
+    [ "npc_jungle_punch_target", "d4/d47/a22267.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
+    [ "GetAI", "d4/d47/a22267.html#abb38ccb55abfe0f48f360469031c6902", null ]
 ];

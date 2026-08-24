@@ -1,6 +1,7 @@
 var a23371 =
 [
-    [ "HandleScript", "db/dc2/a23371.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
-    [ "PrepareSpellScript", "db/dc2/a23371.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
-    [ "Register", "db/dc2/a23371.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
+    [ "go_ahune_ice_spear", "db/dc2/a23371.html#a22922e47b819bc60e331cffbc7c353b3", null ],
+    [ "Reset", "db/dc2/a23371.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
+    [ "UpdateAI", "db/dc2/a23371.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
+    [ "_scheduler", "db/dc2/a23371.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
 ];

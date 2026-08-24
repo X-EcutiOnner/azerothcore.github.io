@@ -1,9 +1,16 @@
 var a20251 =
 [
-    [ "npc_thorims_hammer", "db/d7e/a20251.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
-    [ "Reset", "db/d7e/a20251.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
-    [ "UpdateAI", "db/d7e/a20251.html#a006414298b31eb0cfb964916298d66ce", null ],
-    [ "_beamTimer", "db/d7e/a20251.html#adcd5af2b86d1d8f119514f799c42444b", null ],
-    [ "_finishTime", "db/d7e/a20251.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
-    [ "_removeTimer", "db/d7e/a20251.html#a7b9a2435b0953c12e693c562193d45e0", null ]
+    [ "npc_mimirons_inferno", "db/d7e/a20251.html#aedcded9302c0cb9e29475f471bd0612e", null ],
+    [ "AttackStart", "db/d7e/a20251.html#a43a03388c06ef38ab29a1b4d5bc701c6", null ],
+    [ "DoAction", "db/d7e/a20251.html#ade97188bb54f7b5a15a8a596355e4170", null ],
+    [ "JustSummoned", "db/d7e/a20251.html#a77ddb0fbd9f0c2334df122d91913300b", null ],
+    [ "MoveInLineOfSight", "db/d7e/a20251.html#acc2e756af50ebde8300c46ec6f369760", null ],
+    [ "Reset", "db/d7e/a20251.html#afbd0bcdbb24bf1dbdaacecf4b602922b", null ],
+    [ "SummonedCreatureDespawn", "db/d7e/a20251.html#a9b5176d6f1712d36283b0ebeeddee5b2", null ],
+    [ "UpdateAI", "db/d7e/a20251.html#afd800c3a1430fe19edf6fe21763b15d8", null ],
+    [ "WaypointReached", "db/d7e/a20251.html#a13cda9fcb49493477e4a4111d9858ec1", null ],
+    [ "WaypointReached", "db/d7e/a20251.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_recastTimer", "db/d7e/a20251.html#ac74ee90383d6ac140d6187c6115716ed", null ],
+    [ "_spellTimer", "db/d7e/a20251.html#a0683c956325801b63e7e31b8485f35bd", null ],
+    [ "summons", "db/d7e/a20251.html#a7a0be8291200404285277c3689c54106", null ]
 ];

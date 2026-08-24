@@ -1,13 +1,13 @@
 var a04892 =
 [
-    [ "boss_magtheridon", "d7/d2f/a23651.html", "d7/d2f/a23651" ],
-    [ "npc_target_trigger", "d6/da5/a23655.html", "d6/da5/a23655" ],
-    [ "spell_magtheridon_blaze", "d6/d9b/a23659.html", "d6/d9b/a23659" ],
-    [ "spell_magtheridon_shadow_grasp", "d2/d1b/a23663.html", "d2/d1b/a23663" ],
-    [ "spell_magtheridon_shadow_grasp_visual", "d5/d49/a23667.html", "d5/d49/a23667" ],
-    [ "spell_magtheridon_quake", "d5/d91/a23671.html", "d5/d91/a23671" ],
-    [ "spell_magtheridon_debris_target_selector", "d0/db6/a23675.html", "d0/db6/a23675" ],
-    [ "go_manticron_cube", "d3/dc5/a23679.html", "d3/dc5/a23679" ],
+    [ "boss_magtheridon", "d6/d9b/a23659.html", "d6/d9b/a23659" ],
+    [ "npc_target_trigger", "d2/d1b/a23663.html", "d2/d1b/a23663" ],
+    [ "spell_magtheridon_blaze", "d5/d49/a23667.html", "d5/d49/a23667" ],
+    [ "spell_magtheridon_shadow_grasp", "d5/d91/a23671.html", "d5/d91/a23671" ],
+    [ "spell_magtheridon_shadow_grasp_visual", "d0/db6/a23675.html", "d0/db6/a23675" ],
+    [ "spell_magtheridon_quake", "d3/dc5/a23679.html", "d3/dc5/a23679" ],
+    [ "spell_magtheridon_debris_target_selector", "d3/d96/a23683.html", "d3/d96/a23683" ],
+    [ "go_manticron_cube", "d7/d21/a23687.html", "d7/d21/a23687" ],
     [ "Emotes", "db/d9e/a04892.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "da/de5/a03170.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "da/de5/a03170.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],

@@ -1,6 +1,7 @@
 var a19511 =
 [
-    [ "boss_grobbulusAI", "d1/d99/a19515.html", "d1/d99/a19515" ],
-    [ "boss_grobbulus", "d2/df8/a19511.html#acf1b781e86e33a363b68354d34d3c015", null ],
-    [ "GetAI", "d2/df8/a19511.html#ae918614566a0b9979aef4e1aeaac394c", null ]
+    [ "FilterTargets", "d2/df8/a19511.html#a56ff062a6014099623466145a66284cc", null ],
+    [ "PrepareSpellScript", "d2/df8/a19511.html#aa14623bb948ff457e52979facf74ffab", null ],
+    [ "Register", "d2/df8/a19511.html#a9494bea35088161c9a520395d714fde1", null ],
+    [ "Validate", "d2/df8/a19511.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
 ];

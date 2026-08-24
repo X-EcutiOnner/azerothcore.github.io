@@ -1,7 +1,10 @@
 var a26879 =
 [
-    [ "CheckAreaTarget", "d2/d7a/a26879.html#a3c2dc43efc37be1b34cba266a478f46e", null ],
-    [ "PrepareAuraScript", "d2/d7a/a26879.html#a88c7c19e87106e1bbf6cc5a24a3bc2e4", null ],
-    [ "Register", "d2/d7a/a26879.html#a9cbc5794b1ed54fe9313cd161ec5b19f", null ],
-    [ "Validate", "d2/d7a/a26879.html#ab18a951259cc74b0ba8319f757e38eca", null ]
+    [ "spell_pal_improved_aura", "d2/d7a/a26879.html#a4bc4b78ce3aab5ba4b5e6a009910cf7c", null ],
+    [ "HandleEffectApply", "d2/d7a/a26879.html#a441952100c103ccdf84c58827669faac", null ],
+    [ "HandleEffectRemove", "d2/d7a/a26879.html#aad7c1d2b5722523e119ff7dbe27ceb30", null ],
+    [ "PrepareAuraScript", "d2/d7a/a26879.html#a4b35f298000b2a6cc530644018d4d7e4", null ],
+    [ "Register", "d2/d7a/a26879.html#a148b20ba206ba69d2dcd84abbf7d17af", null ],
+    [ "Validate", "d2/d7a/a26879.html#aa5450660ba559f31a815f4f2a4452fbc", null ],
+    [ "_spellId", "d2/d7a/a26879.html#a9b7b9b73a0e6cacc917aedebdf789901", null ]
 ];

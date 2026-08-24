@@ -1,7 +1,6 @@
 var a21123 =
 [
-    [ "HandleProc", "d5/db6/a21123.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "d5/db6/a21123.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "d5/db6/a21123.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "d5/db6/a21123.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "OnRemove", "d5/db6/a21123.html#a3cac25c6136b5dce491b24b7fb0ed33a", null ],
+    [ "PrepareAuraScript", "d5/db6/a21123.html#a2afc759693aa4dfbd0ac33b1b770e995", null ],
+    [ "Register", "d5/db6/a21123.html#a8fbcf904caf526f37d4a7984791d9fd0", null ]
 ];

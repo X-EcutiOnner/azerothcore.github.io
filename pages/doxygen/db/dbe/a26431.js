@@ -1,8 +1,7 @@
 var a26431 =
 [
-    [ "CheckProc", "db/dbe/a26431.html#af82895c2ed07f43c28923b61427f4ddf", null ],
-    [ "HandleProc", "db/dbe/a26431.html#ad1a13141720e0e605966c2304b0f8eb9", null ],
-    [ "PrepareAuraScript", "db/dbe/a26431.html#af3ff786badfbb56f90bc3c8865c839bb", null ],
-    [ "Register", "db/dbe/a26431.html#ac1fea3f63b5ffd742a83e8d45a26ae68", null ],
-    [ "Validate", "db/dbe/a26431.html#a980784152abf41e91b5fe5a9c2e3d5dc", null ]
+    [ "HandleProc", "db/dbe/a26431.html#aa8b3ab8c3027e9f671524a6b6e3079ed", null ],
+    [ "PrepareAuraScript", "db/dbe/a26431.html#a4f7bc2f98b11c48f52b1c0e565719e21", null ],
+    [ "Register", "db/dbe/a26431.html#ac21e7cd4db59ff255cf169c9bd93ddba", null ],
+    [ "Validate", "db/dbe/a26431.html#a82409493338c846bf34ac0b34903a5eb", null ]
 ];

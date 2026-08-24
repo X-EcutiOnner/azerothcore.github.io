@@ -1,13 +1,8 @@
 var a21719 =
 [
-    [ "npc_shandy_dalaranAI", "db/d4e/a21719.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
-    [ "Reset", "db/d4e/a21719.html#a38f0630d4e18cea01de343afdcb96db3", null ],
-    [ "RollTask", "db/d4e/a21719.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
-    [ "SetData", "db/d4e/a21719.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
-    [ "UpdateAI", "db/d4e/a21719.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
-    [ "_aquanosGUID", "db/d4e/a21719.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
-    [ "_canWash", "db/d4e/a21719.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
-    [ "_events", "db/d4e/a21719.html#a3fbae63669c8382097b0bcb936301945", null ],
-    [ "_lCount", "db/d4e/a21719.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
-    [ "_lSource", "db/d4e/a21719.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
+    [ "npc_shandy_dalaranAI", "d8/dc2/a21723.html", "d8/dc2/a21723" ],
+    [ "npc_shandy_dalaran", "db/d4e/a21719.html#a7077c769a252af8ba37b5ff5d524463e", null ],
+    [ "GetAI", "db/d4e/a21719.html#a641551a2aef739e1679912ae27ddb888", null ],
+    [ "OnGossipHello", "db/d4e/a21719.html#a91287aaba09fce091c9d826e75208f84", null ],
+    [ "OnGossipSelect", "db/d4e/a21719.html#ad005a17da187e0cfd03d2faf0099c448", null ]
 ];

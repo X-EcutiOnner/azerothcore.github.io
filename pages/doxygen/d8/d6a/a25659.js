@@ -1,6 +1,6 @@
 var a25659 =
 [
-    [ "CheckCast", "d8/d6a/a25659.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
-    [ "PrepareSpellScript", "d8/d6a/a25659.html#a0bc2de519e0c84688fad609444d28afa", null ],
-    [ "Register", "d8/d6a/a25659.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
+    [ "FilterTargets", "d8/d6a/a25659.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
+    [ "PrepareSpellScript", "d8/d6a/a25659.html#a9fb910382c89750e38cb36bed48a1597", null ],
+    [ "Register", "d8/d6a/a25659.html#a667b10129d2d23f72712be523dc93180", null ]
 ];

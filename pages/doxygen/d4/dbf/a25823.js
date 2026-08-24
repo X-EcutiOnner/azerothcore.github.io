@@ -1,6 +1,8 @@
 var a25823 =
 [
-    [ "HandleItemRemove", "d4/dbf/a25823.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
-    [ "PrepareSpellScript", "d4/dbf/a25823.html#a8b43e146724a2c8b3c495e886a79d021", null ],
-    [ "Register", "d4/dbf/a25823.html#af8b02c31b81dce516ea47d6a1235d683", null ]
+    [ "CheckProc", "d4/dbf/a25823.html#a86e6da13f7162318e5c0a7c6f89c69c2", null ],
+    [ "HandleProc", "d4/dbf/a25823.html#a4ac70c7765266f36b7689ffcc2bed15d", null ],
+    [ "PrepareAuraScript", "d4/dbf/a25823.html#acc41c53bf96695dc8cc43ccaf08e4125", null ],
+    [ "Register", "d4/dbf/a25823.html#a1dcd66a66f7b069fede39b57f0abbb56", null ],
+    [ "Validate", "d4/dbf/a25823.html#a269711969d98851c8275e3f44a706b97", null ]
 ];

@@ -1,7 +1,5 @@
 var a20363 =
 [
-    [ "boss_freya_lifebinder", "dc/d09/a20363.html#a1784d6e975192a7442cabb14f688737d", null ],
-    [ "Reset", "dc/d09/a20363.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
-    [ "UpdateAI", "dc/d09/a20363.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
-    [ "_scheduler", "dc/d09/a20363.html#a5c19f04cec9cd899feee7ce2878563cf", null ]
+    [ "boss_freya_iron_root", "dc/d09/a20363.html#af35a268c89c025d95c13ea8c87d6516e", null ],
+    [ "JustDied", "dc/d09/a20363.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ]
 ];

@@ -1,7 +1,7 @@
 var a27199 =
 [
-    [ "HandleDummy", "dc/dc7/a27199.html#aef93741620dcf29179502f88891ad0b5", null ],
-    [ "Load", "dc/dc7/a27199.html#ab8e5dcd009cca538c9921dcb9c5fe109", null ],
-    [ "PrepareSpellScript", "dc/dc7/a27199.html#ac92fd133395705e4cb3730bc96e1f787", null ],
-    [ "Register", "dc/dc7/a27199.html#a69336bea35240c0014693ae167d4124b", null ]
+    [ "HandleScript", "dc/dc7/a27199.html#a1b20a7fb4487876f305aa3a8d493ed17", null ],
+    [ "PrepareSpellScript", "dc/dc7/a27199.html#a5ac848029ef03f6779cf094f4b80dd24", null ],
+    [ "Register", "dc/dc7/a27199.html#a3d378e0eac09b00792b293b2cd7f3192", null ],
+    [ "Validate", "dc/dc7/a27199.html#a36963610ad939ec36848ff70185f47a2", null ]
 ];

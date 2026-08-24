@@ -1,8 +1,7 @@
 var a20931 =
 [
-    [ "CheckProc", "d4/d29/a20931.html#a2bbcd3aca15eb271759c2a64276bb9d3", null ],
-    [ "HandleProc", "d4/d29/a20931.html#a6761dd910808090d78c9b9ad88ba7bda", null ],
-    [ "PrepareAuraScript", "d4/d29/a20931.html#ab9f98c6a93f31b2c76ca75c8fe7c2c60", null ],
-    [ "Register", "d4/d29/a20931.html#a430a5c4d0e3f77d4d966a4bf8f629e1e", null ],
-    [ "Validate", "d4/d29/a20931.html#a683a37c787ae5797d8c68aca1af0742a", null ]
+    [ "FilterTargets", "d4/d29/a20931.html#a582691eca81b6db6d78ca925ad8fb084", null ],
+    [ "PrepareSpellScript", "d4/d29/a20931.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
+    [ "RecalculateDamage", "d4/d29/a20931.html#a02c1af0414de344056b2375488f23c01", null ],
+    [ "Register", "d4/d29/a20931.html#a1e030067944878000b731edf456d6bc8", null ]
 ];

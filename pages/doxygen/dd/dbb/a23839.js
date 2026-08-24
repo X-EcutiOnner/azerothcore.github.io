@@ -1,9 +1,6 @@
 var a23839 =
 [
-    [ "HandleEffectApply", "dd/dbb/a23839.html#ac9e030810cc1ffb3927943353bcbb764", null ],
-    [ "HandleEffectRemove", "dd/dbb/a23839.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
-    [ "Load", "dd/dbb/a23839.html#a60f41c19f5104eef82048fd1e3416abd", null ],
-    [ "PrepareAuraScript", "dd/dbb/a23839.html#a277d9865108acafac4b1a42bc5b5714b", null ],
-    [ "Register", "dd/dbb/a23839.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
-    [ "_falconSet", "dd/dbb/a23839.html#a1a20f75d251936bff7a0777831d79140", null ]
+    [ "instance_the_botanica_InstanceMapScript", "db/d0e/a23843.html", "db/d0e/a23843" ],
+    [ "instance_the_botanica", "dd/dbb/a23839.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
+    [ "GetInstanceScript", "dd/dbb/a23839.html#a335f671443ca0fb9db5956cefdf37182", null ]
 ];

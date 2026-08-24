@@ -1,9 +1,8 @@
 var a20991 =
 [
-    [ "boss_yoggsaron_crusher_tentacle", "dd/d0d/a20991.html#a1649412beffbc87ce046a591775b02b2", null ],
-    [ "DamageTaken", "dd/d0d/a20991.html#aa38dbd7050000d3aab774a7b719912f4", null ],
-    [ "DoAction", "dd/d0d/a20991.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
-    [ "Reset", "dd/d0d/a20991.html#aba082f8d2fa200eca9c52336df544221", null ],
-    [ "UpdateAI", "dd/d0d/a20991.html#ae22a12401dc98534da1cb771468a58ce", null ],
-    [ "_diminishReady", "dd/d0d/a20991.html#af8d417c56918cf59dfe3d8429c4cf239", null ]
+    [ "boss_yoggsaron_death_ray", "dd/d0d/a20991.html#a03a5a1845d217c2e59fc491f1f0a36a2", null ],
+    [ "IsSummonedBy", "dd/d0d/a20991.html#a631bb4727b876c0ce782c1d3d206ae13", null ],
+    [ "UpdateAI", "dd/d0d/a20991.html#a424f116aa76fa470cb393250e571c021", null ],
+    [ "_movementLegs", "dd/d0d/a20991.html#ac548ed487090506768236ff1519d4938", null ],
+    [ "events", "dd/d0d/a20991.html#af79f0ec03cc3eb6c803c4793842b0c71", null ]
 ];

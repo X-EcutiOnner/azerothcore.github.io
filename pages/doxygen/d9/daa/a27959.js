@@ -1,7 +1,12 @@
 var a27959 =
 [
-    [ "HandleScript", "d9/daa/a27959.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
-    [ "PrepareSpellScript", "d9/daa/a27959.html#ab363d596d2d1e030f0cc07126b40e921", null ],
-    [ "Register", "d9/daa/a27959.html#ab9041b811e80e220828d5db59b724682", null ],
-    [ "Validate", "d9/daa/a27959.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
+    [ "CheckProc", "d9/daa/a27959.html#abb43619da8154c1c9ebc9d164a2f6dc6", null ],
+    [ "HandleApply", "d9/daa/a27959.html#aaa07858f0604965fad5c1189125a822b", null ],
+    [ "HandleProc", "d9/daa/a27959.html#a9fd416a5f8f8a405f40c41b9ef8b734e", null ],
+    [ "HandleRemove", "d9/daa/a27959.html#a3da984d172878110b77549b51409d7e0", null ],
+    [ "Load", "d9/daa/a27959.html#a644aaf343b41f049f34ff7387c613bf1", null ],
+    [ "PrepareAuraScript", "d9/daa/a27959.html#aea23ff608c74017d98edcc146d3ba35a", null ],
+    [ "Register", "d9/daa/a27959.html#a624d09c6f1a177912a1c7cab30d89c7b", null ],
+    [ "Validate", "d9/daa/a27959.html#a34f1b7782dbf2dcc18eb803497104a13", null ],
+    [ "_procTargetGUID", "d9/daa/a27959.html#a88833abe90e8753336b7dc178b98f703", null ]
 ];

@@ -1,16 +1,15 @@
 var a29635 =
 [
-    [ "CreateTestCreature", "d5/d69/a29635.html#a617fd4d9d90187bc2f73d4b3ae7fe2e9", null ],
-    [ "CreateTestPlayer", "d5/d69/a29635.html#a6419bf25da27ee490712daa877adbd72", null ],
-    [ "EnsureFactionTemplates", "d5/d69/a29635.html#a83a02366f7bf6726e14b9f3237e2b545", null ],
-    [ "GetTestMap", "d5/d69/a29635.html#ae4ec7240a978801c7b0e680bd8072289", null ],
-    [ "GetWorldMock", "d5/d69/a29635.html#af142aa528b5add94d80218bfb87673d2", null ],
-    [ "SetUp", "d5/d69/a29635.html#a8ae97cc2fe6cec6678fc68828bb78311", null ],
-    [ "TearDown", "d5/d69/a29635.html#abd9650e94915e9c9b2c00d0f5883012a", null ],
-    [ "_originalWorld", "d5/d69/a29635.html#a68d71c2f6f685757f78855a65dfea247", null ],
-    [ "_ownedCreatureTemplates", "d5/d69/a29635.html#a14a887c379c1bab8270e4e447d6d3710", null ],
-    [ "_testMap", "d5/d69/a29635.html#a71376b2bd9b26c15bdc5a377c918df4f", null ],
-    [ "_trackedCreatures", "d5/d69/a29635.html#ab782034dea584c12fcc6167f08cb1c2e", null ],
-    [ "_trackedPlayers", "d5/d69/a29635.html#abebf5ed00a2531d755c905b0fca011d6", null ],
-    [ "_worldMock", "d5/d69/a29635.html#a7cef42e42607cf7c562b20827a0df766", null ]
+    [ "DamageInfoStubBuilder", "d5/d69/a29635.html#a282b4f92722f9cf12358a9f603df6902", null ],
+    [ "Build", "d5/d69/a29635.html#ad50ac35ca7a10f0eb20383fbde4a54dc", null ],
+    [ "WithAbsorb", "d5/d69/a29635.html#a3533bbda604c4ed6ac467f28ecb60fbe", null ],
+    [ "WithAttackType", "d5/d69/a29635.html#a4fd9332aa42002056d3f9191cd4435d7", null ],
+    [ "WithBlock", "d5/d69/a29635.html#a81381d471627ddd6e86678551ca4ab5b", null ],
+    [ "WithDamage", "d5/d69/a29635.html#abf9d30cde831f2094a181a312bcfe9df", null ],
+    [ "WithHitMask", "d5/d69/a29635.html#a161f5ea9ae33541dfcfd600fc5546b20", null ],
+    [ "WithOriginalDamage", "d5/d69/a29635.html#a3265aa4aa273cc9ededb6c9673f6c9e3", null ],
+    [ "WithResist", "d5/d69/a29635.html#a76827724d8b8d780dc5d136ca01e51e6", null ],
+    [ "WithSchoolMask", "d5/d69/a29635.html#ab540fcb56c4034daea104a1b844bdb3a", null ],
+    [ "WithSpellInfo", "d5/d69/a29635.html#a681fe7d0c7f3b4136ad4ba2a662e6393", null ],
+    [ "_stub", "d5/d69/a29635.html#abf06c6b638dcd9489fa0e3d755433514", null ]
 ];

@@ -1,8 +1,5 @@
 var a28083 =
 [
-    [ "CharacterActionIpLogger", "d6/d7b/a28083.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "d6/d7b/a28083.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "d6/d7b/a28083.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "d6/d7b/a28083.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "d6/d7b/a28083.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "achievement_fa_la_la_la_ogrila", "d6/d7b/a28083.html#ab98a8ab33fec62936bf3c235659c1445", null ],
+    [ "OnCheck", "d6/d7b/a28083.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
 ];

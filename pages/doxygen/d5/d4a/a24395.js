@@ -1,8 +1,6 @@
 var a24395 =
 [
-    [ "npc_pet_dk_ghoul", "d5/d4a/a24395.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
-    [ "IsSummonedBy", "d5/d4a/a24395.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
-    [ "JustDied", "d5/d4a/a24395.html#a6095e3619b470283b9875b90e2805b54", null ],
-    [ "UpdateAI", "d5/d4a/a24395.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
-    [ "_summonTargetGUID", "d5/d4a/a24395.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
+    [ "go_ancient_skull_pile", "d5/d4a/a24395.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
+    [ "OnGossipHello", "d5/d4a/a24395.html#afc258eaeb7586f0f539223c21f82ea63", null ],
+    [ "OnGossipSelect", "d5/d4a/a24395.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
 ];

@@ -1,7 +1,7 @@
 var a28607 =
 [
-    [ "npc_steam_tonkAI", "d8/d5b/a28607.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "d8/d5b/a28607.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "d8/d5b/a28607.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "d8/d5b/a28607.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "npc_sayge", "d8/d5b/a28607.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
+    [ "OnGossipHello", "d8/d5b/a28607.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
+    [ "OnGossipSelect", "d8/d5b/a28607.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
+    [ "SendAction", "d8/d5b/a28607.html#aed1988335672423d024546654aa95298", null ]
 ];

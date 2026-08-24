@@ -1,7 +1,6 @@
 var a21563 =
 [
-    [ "npc_violet_hold_defense_system", "d4/d31/a21563.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "d4/d31/a21563.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "d4/d31/a21563.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ],
-    [ "_tickCount", "d4/d31/a21563.html#a4a7504069b05480428278fd09d5e59ba", null ]
+    [ "HandleEffectPeriodic", "d4/d31/a21563.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "d4/d31/a21563.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "d4/d31/a21563.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

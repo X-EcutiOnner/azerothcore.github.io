@@ -1,6 +1,11 @@
 var a24387 =
 [
-    [ "go_ancient_skull_pile", "d5/d7e/a24387.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
-    [ "OnGossipHello", "d5/d7e/a24387.html#afc258eaeb7586f0f539223c21f82ea63", null ],
-    [ "OnGossipSelect", "d5/d7e/a24387.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
+    [ "npc_isla_starmaneAI", "d5/d7e/a24387.html#a0cb655d324ddde173dcfdee069c0f694", null ],
+    [ "JustDied", "d5/d7e/a24387.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
+    [ "JustEngagedWith", "d5/d7e/a24387.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
+    [ "JustRespawned", "d5/d7e/a24387.html#a69b395a9b9504737109870c5e8db74c8", null ],
+    [ "UpdateEscortAI", "d5/d7e/a24387.html#af4b8c80e7443bb671be253238b124910", null ],
+    [ "WaypointReached", "d5/d7e/a24387.html#a5d00583afa4e811e4f3cb8400787a990", null ],
+    [ "WaypointReached", "d5/d7e/a24387.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "events", "d5/d7e/a24387.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
 ];

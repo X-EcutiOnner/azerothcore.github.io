@@ -1,5 +1,7 @@
 var a19479 =
 [
-    [ "PrepareSpellScript", "d5/de4/a19479.html#a09b852666752f6adde3f9e5bb1f107bc", null ],
-    [ "Register", "d5/de4/a19479.html#a80c3077f8f689367276e1054a6236681", null ]
+    [ "HandleScriptEffect", "d5/de4/a19479.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
+    [ "PrepareSpellScript", "d5/de4/a19479.html#a21a3175346c9b12c02205f2d33da3b86", null ],
+    [ "Register", "d5/de4/a19479.html#af5f279ad20e9153f201262eaa7615978", null ],
+    [ "Validate", "d5/de4/a19479.html#a635ff34619767f657778016e1eb901aa", null ]
 ];

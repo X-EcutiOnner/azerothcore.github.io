@@ -1,9 +1,8 @@
 var a20935 =
 [
-    [ "OnProc", "da/df2/a20935.html#a94de5901e43000e99b478e9194d59ecd", null ],
-    [ "PrepareAuraScript", "da/df2/a20935.html#a1b4efd5e774d4bd561a30830c3be8045", null ],
-    [ "Register", "da/df2/a20935.html#acc8a07807e5c306af285cb5889ef2c41", null ],
-    [ "Validate", "da/df2/a20935.html#ad17cfc0369da547475e43bd2970cf3f2", null ],
-    [ "_lastOrbTime", "da/df2/a20935.html#a4522510d836abf625b019674c1c5281f", null ],
-    [ "OrbCooldown", "da/df2/a20935.html#a4a0204623a0db8d1474d0e72e71226eb", null ]
+    [ "CheckProc", "da/df2/a20935.html#a2bbcd3aca15eb271759c2a64276bb9d3", null ],
+    [ "HandleProc", "da/df2/a20935.html#a6761dd910808090d78c9b9ad88ba7bda", null ],
+    [ "PrepareAuraScript", "da/df2/a20935.html#ab9f98c6a93f31b2c76ca75c8fe7c2c60", null ],
+    [ "Register", "da/df2/a20935.html#a430a5c4d0e3f77d4d966a4bf8f629e1e", null ],
+    [ "Validate", "da/df2/a20935.html#a683a37c787ae5797d8c68aca1af0742a", null ]
 ];

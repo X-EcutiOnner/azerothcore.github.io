@@ -1,6 +1,6 @@
 var a23091 =
 [
-    [ "PrepareSpellScript", "d7/ddc/a23091.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
-    [ "Register", "d7/ddc/a23091.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
-    [ "RemoveSpines", "d7/ddc/a23091.html#a076b056328ba6181a6ec907f21258f9d", null ]
+    [ "HandleDummy", "d7/ddc/a23091.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
+    [ "PrepareSpellScript", "d7/ddc/a23091.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
+    [ "Register", "d7/ddc/a23091.html#a972574075c86c32593982add71dc893f", null ]
 ];

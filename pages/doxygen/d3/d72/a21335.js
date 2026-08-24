@@ -1,6 +1,8 @@
 var a21335 =
 [
-    [ "boss_svalaAI", "d0/d99/a21339.html", "d0/d99/a21339" ],
-    [ "boss_svala", "d3/d72/a21335.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
-    [ "GetAI", "d3/d72/a21335.html#a0c3b94635eca667a28496cf799efad25", null ]
+    [ "CountTargets", "d3/d72/a21335.html#aaf8528038c6b3172d4810ed773f71644", null ],
+    [ "HandleDummy", "d3/d72/a21335.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
+    [ "PrepareSpellScript", "d3/d72/a21335.html#a1f31273cb1826cd07196eacfbdc46673", null ],
+    [ "Register", "d3/d72/a21335.html#adce6a5d920ac616dc0579fcd96c49288", null ],
+    [ "_targetCount", "d3/d72/a21335.html#acfd8832cb9a197dddb034a003b318911", null ]
 ];

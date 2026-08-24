@@ -1,9 +1,11 @@
 var a21003 =
 [
-    [ "boss_yoggsaron_keeper", "d1/dc8/a21003.html#ad2098933656371b1bf80ec3ea859c418", null ],
-    [ "Activate", "d1/dc8/a21003.html#a54edd78e856dbf519a0e2d76ae781ab8", null ],
-    [ "DoAction", "d1/dc8/a21003.html#a9e3d251810b55072458003356213ae15", null ],
-    [ "JustSummoned", "d1/dc8/a21003.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
-    [ "UpdateAI", "d1/dc8/a21003.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
-    [ "_summons", "d1/dc8/a21003.html#aa840eff5f3d8b24225046113737936b4", null ]
+    [ "boss_yoggsaron_constrictor_tentacle", "d1/dc8/a21003.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
+    [ "DoAction", "d1/dc8/a21003.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
+    [ "GrabPlayer", "d1/dc8/a21003.html#a0ae04ac300d4f08b12f7edaa75dbe208", null ],
+    [ "IsSummonedBy", "d1/dc8/a21003.html#a404e4ab66a757b6ff4fa492219198b91", null ],
+    [ "JustDied", "d1/dc8/a21003.html#aac8f5a80248c4616074e7ef88fb10395", null ],
+    [ "PassengerBoarded", "d1/dc8/a21003.html#afdef8417bffb0a2079199060b0c26980", null ],
+    [ "SelectConstrictTarget", "d1/dc8/a21003.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
+    [ "_playerGUID", "d1/dc8/a21003.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
 ];

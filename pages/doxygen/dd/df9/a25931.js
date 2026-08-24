@@ -1,5 +1,6 @@
 var a25931 =
 [
-    [ "PrepareSpellScript", "dd/df9/a25931.html#a64c8a9156181a78dfcb413eedc47f0ed", null ],
-    [ "Register", "dd/df9/a25931.html#af8f8b5901a068bef3e2663809180b3e2", null ]
+    [ "HandleActivateObject", "dd/df9/a25931.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
+    [ "PrepareSpellScript", "dd/df9/a25931.html#a684079434128bacd3d8b8b71c14dc56a", null ],
+    [ "Register", "dd/df9/a25931.html#a266301f59c809c03d0ccfc48a2ace302", null ]
 ];

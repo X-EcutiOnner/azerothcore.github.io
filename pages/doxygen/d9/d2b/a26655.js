@@ -1,8 +1,9 @@
 var a26655 =
 [
-    [ "ApplyPermafrost", "d9/d2b/a26655.html#a06bb458e038b97696362681a6fd28104", null ],
-    [ "PrepareAuraScript", "d9/d2b/a26655.html#a3d96d6f5f798efc92572e2a52349102d", null ],
-    [ "Register", "d9/d2b/a26655.html#a613e5af53064357f4e8e4d6260c6856a", null ],
-    [ "RemovePermafrost", "d9/d2b/a26655.html#a9414746a76f53a5258cf617abefd5bd6", null ],
-    [ "Validate", "d9/d2b/a26655.html#addd58a0138e3cdb5cb274c8a38151a45", null ]
+    [ "AllowT10Proc", "d9/d2b/a26655.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
+    [ "OnRemove", "d9/d2b/a26655.html#a52807f94eba44a9b574577a0b27acb22", null ],
+    [ "PrepareAuraScript", "d9/d2b/a26655.html#a430303b7df445d38da9316324359c2d6", null ],
+    [ "Register", "d9/d2b/a26655.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
+    [ "Validate", "d9/d2b/a26655.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
+    [ "_canProcT10", "d9/d2b/a26655.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
 ];

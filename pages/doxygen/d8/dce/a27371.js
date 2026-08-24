@@ -1,7 +1,9 @@
 var a27371 =
 [
-    [ "HandleEffectPeriodic", "d8/dce/a27371.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
-    [ "PrepareAuraScript", "d8/dce/a27371.html#ae151331af09510cc91b63b65a30bdcbf", null ],
-    [ "Register", "d8/dce/a27371.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
-    [ "Validate", "d8/dce/a27371.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
+    [ "Absorb", "d8/dce/a27371.html#a22b175a7a07f950b5be1aad60e096e4f", null ],
+    [ "CalculateAmount", "d8/dce/a27371.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6", null ],
+    [ "Load", "d8/dce/a27371.html#acf7851d34fa2368c9e711e8b3943c09b", null ],
+    [ "PrepareAuraScript", "d8/dce/a27371.html#ac273b669dc396561d9ec8b523659363f", null ],
+    [ "Register", "d8/dce/a27371.html#a656f4770b0f7099f5926a8063f7d740c", null ],
+    [ "absorbPct", "d8/dce/a27371.html#a31d7ca52ace4e22652403292969baf55", null ]
 ];

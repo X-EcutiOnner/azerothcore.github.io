@@ -1,19 +1,15 @@
 var a21519 =
 [
-    [ "violet_hold_trashAI", "d2/dc8/a21519.html#a87011739810f39291655bc835f9995bd", null ],
-    [ "AttackStart", "d2/dc8/a21519.html#ab2d2157977ae2482217fa8ac344b30af", null ],
-    [ "ClearDoorSealAura", "d2/dc8/a21519.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
-    [ "CreatureStartAttackDoor", "d2/dc8/a21519.html#a1e64a9f7c82275969e099b5012a32924", null ],
-    [ "EnterEvadeMode", "d2/dc8/a21519.html#ab189607a468514d6c472ac40e6f3d85b", null ],
-    [ "InitializeAI", "d2/dc8/a21519.html#aef3db235b8e28b8e2728cb0f2fb59053", null ],
-    [ "JustDied", "d2/dc8/a21519.html#acd512cd3722a2edf0ca539272ded3c79", null ],
-    [ "JustEngagedWith", "d2/dc8/a21519.html#a16e7677aa9597dda938a67c51febde6c", null ],
-    [ "JustReachedHome", "d2/dc8/a21519.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
-    [ "MoveInLineOfSight", "d2/dc8/a21519.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
-    [ "UpdateAI", "d2/dc8/a21519.html#a8647797343650fcd4f6304bce3742883", null ],
-    [ "WaypointReached", "d2/dc8/a21519.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
-    [ "WaypointReached", "d2/dc8/a21519.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "Instance", "d2/dc8/a21519.html#a9ebdc7d8619de49dcd742a1c08005770", null ],
-    [ "PortalLoc", "d2/dc8/a21519.html#a17d81d130cfeff5b5ae0ee30c594f5ca", null ],
-    [ "UseAlternate", "d2/dc8/a21519.html#aa584f9f52bfc3e37a6d3a80958e51e48", null ]
+    [ "npc_vh_teleportation_portal", "d2/dc8/a21519.html#ae4ed2aebf39ab2593c07ba3098341c91", null ],
+    [ "JustDied", "d2/dc8/a21519.html#af86eefc8c9e4187e52c4dd88c41cbc38", null ],
+    [ "JustSummoned", "d2/dc8/a21519.html#ad3606d29d814232a492e9e3e85048bd7", null ],
+    [ "SummonedMobDied", "d2/dc8/a21519.html#aa58672b2022e44b90adc8bf331ee84fc", null ],
+    [ "UpdateAI", "d2/dc8/a21519.html#a3bb6021855bed917fdd2ef47f8ddca29", null ],
+    [ "_addValue", "d2/dc8/a21519.html#ad71dd5636c683cfac15423375c0dcc6d", null ],
+    [ "_events", "d2/dc8/a21519.html#a1eb415b24f794c8cbb0d01084eb09669", null ],
+    [ "_instance", "d2/dc8/a21519.html#acf09515827ae926fe83ffc87a7e35ac5", null ],
+    [ "_isKeeperOrGuardian", "d2/dc8/a21519.html#a7483553634133f980929aaeef39bd6a6", null ],
+    [ "_listOfMobs", "d2/dc8/a21519.html#a8856350d299bfb25a4e77bb8753afa14", null ],
+    [ "_spawned", "d2/dc8/a21519.html#ac89ccf4030e5dffe15d0b24b991176de", null ],
+    [ "_wave", "d2/dc8/a21519.html#a0d82b870a2f6bc0de62502f02fd8c1b4", null ]
 ];

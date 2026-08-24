@@ -1,5 +1,5 @@
 var a19151 =
 [
-    [ "npc_darkfallen_tactician", "d4/d11/a19151.html#a946ccdf41d93a3477204e303c3404c5c", null ],
-    [ "ScheduleSpells", "d4/d11/a19151.html#a26dcb830533771faf8ebc90995ea010b", null ]
+    [ "npc_darkfallen_advisor", "d4/d11/a19151.html#a99b3fd829e0a9e62a78f5e750d1a5369", null ],
+    [ "ScheduleSpells", "d4/d11/a19151.html#aab9175d674273b19071e595354bb195c", null ]
 ];

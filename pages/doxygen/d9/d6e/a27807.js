@@ -1,10 +1,6 @@
 var a27807 =
 [
-    [ "CheckProc", "d9/d6e/a27807.html#a257202ac9b80a67ce58d9e3491164d22", null ],
-    [ "HandleProc", "d9/d6e/a27807.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
-    [ "HandleTick", "d9/d6e/a27807.html#a5e436c530e5ef70bc4de4305676ed196", null ],
-    [ "PrepareAuraScript", "d9/d6e/a27807.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
-    [ "Register", "d9/d6e/a27807.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
-    [ "RemoveEffect", "d9/d6e/a27807.html#a333ad80d8478f59713ee049f935d7885", null ],
-    [ "Validate", "d9/d6e/a27807.html#aed3cb37f0230463978b210add84bd31d", null ]
+    [ "CalculateAmount", "d9/d6e/a27807.html#aa27de1a2fc517a4b796a10e780239880", null ],
+    [ "PrepareAuraScript", "d9/d6e/a27807.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
+    [ "Register", "d9/d6e/a27807.html#a5ee969ad0916a9337849c75c18f13c29", null ]
 ];

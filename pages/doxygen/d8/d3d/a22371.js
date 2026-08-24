@@ -1,6 +1,14 @@
 var a22371 =
 [
-    [ "HandleScript", "d8/d3d/a22371.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
-    [ "PrepareSpellScript", "d8/d3d/a22371.html#af0f5206d98dbc9de355abbeb03709c05", null ],
-    [ "Register", "d8/d3d/a22371.html#a53d9d7de4922ed6509b6036921640352", null ]
+    [ "npc_wild_wyrm", "d8/d3d/a22371.html#a7adb3a9f2d17c55995218219c2af13a6", null ],
+    [ "DamageTaken", "d8/d3d/a22371.html#a0ff51f46c203f3b1b8dea063463c5c4d", null ],
+    [ "DoAction", "d8/d3d/a22371.html#afdd165233995f79aa9ec82d7c2c1f258", null ],
+    [ "InitSpellsForPhase", "d8/d3d/a22371.html#adcc805b0880d95c185af4a587474c2d2", null ],
+    [ "MovementInform", "d8/d3d/a22371.html#aeaa4f0327f06ee67a63fd15b914ffac8", null ],
+    [ "PassengerBoarded", "d8/d3d/a22371.html#a362052015873c615448bec978d744c9e", null ],
+    [ "Reset", "d8/d3d/a22371.html#a2e826c49b41a389ddfbeac3d3c7933f5", null ],
+    [ "SpellHit", "d8/d3d/a22371.html#a3d12d555ab7c992ca37e826609b3cd72", null ],
+    [ "UpdateAI", "d8/d3d/a22371.html#adbbf5b93476eef2ef54f51d2523a726e", null ],
+    [ "_phase", "d8/d3d/a22371.html#a7fa0ac4d2feaf62b08c4667c8f0b7474", null ],
+    [ "_playerGuid", "d8/d3d/a22371.html#ade2cc59d0afcf5ebfd7c6fbd694e0809", null ]
 ];

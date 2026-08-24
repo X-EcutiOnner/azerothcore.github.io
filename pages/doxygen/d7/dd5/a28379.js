@@ -1,6 +1,5 @@
 var a28379 =
 [
-    [ "go_bellsAI", "dc/ddf/a28383.html", "dc/ddf/a28383" ],
-    [ "go_bells", "d7/dd5/a28379.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
-    [ "GetAI", "d7/dd5/a28379.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
+    [ "go_massive_seaforium_charge", "d7/dd5/a28379.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "d7/dd5/a28379.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

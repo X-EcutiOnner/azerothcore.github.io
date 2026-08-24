@@ -1,11 +1,10 @@
 var a23999 =
 [
-    [ "boss_pathaleon_the_calculator", "d1/d16/a23999.html#a679dc3ccc23c6def44e0f0669822e146", null ],
-    [ "CanAIAttack", "d1/d16/a23999.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
-    [ "DoAction", "d1/d16/a23999.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
-    [ "JustDied", "d1/d16/a23999.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
-    [ "JustEngagedWith", "d1/d16/a23999.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
-    [ "KilledUnit", "d1/d16/a23999.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
-    [ "Reset", "d1/d16/a23999.html#adc48067c3656bf768c3013ff266565c0", null ],
-    [ "_isEnraged", "d1/d16/a23999.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
+    [ "npc_raging_flames", "d1/d16/a23999.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
+    [ "EnterEvadeMode", "d1/d16/a23999.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
+    [ "FixateRandomTarget", "d1/d16/a23999.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
+    [ "InitializeAI", "d1/d16/a23999.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
+    [ "IsSummonedBy", "d1/d16/a23999.html#ae42c4329be355807af92c1c803e61500", null ],
+    [ "Reset", "d1/d16/a23999.html#a34ac2249e507784d81c4040e87a646e0", null ],
+    [ "UpdateAI", "d1/d16/a23999.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
 ];

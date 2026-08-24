@@ -1,10 +1,10 @@
 var a03935 =
 [
-    [ "WeeklyQuest", "d8/d2a/a19371.html", "d8/d2a/a19371" ],
-    [ "RespawnEvent", "dd/d56/a19375.html", "dd/d56/a19375" ],
-    [ "DelayedCastMincharEvent", "d9/d18/a19379.html", "d9/d18/a19379" ],
-    [ "instance_icecrown_citadel", "d9/d1d/a19383.html", "d9/d1d/a19383" ],
-    [ "instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript", "d5/dfe/a19387.html", "d5/dfe/a19387" ],
+    [ "WeeklyQuest", "dd/d56/a19375.html", "dd/d56/a19375" ],
+    [ "RespawnEvent", "d9/d18/a19379.html", "d9/d18/a19379" ],
+    [ "DelayedCastMincharEvent", "d9/d1d/a19383.html", "d9/d1d/a19383" ],
+    [ "instance_icecrown_citadel", "d5/dfe/a19387.html", "d5/dfe/a19387" ],
+    [ "instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript", "d2/d32/a19391.html", "d2/d32/a19391" ],
     [ "EventIds", "d0/ddf/a03935.html#acb64662cd19d8282959c12081cb2b4b4", [
       [ "EVENT_DRAGONSPIRE_ROOM_STORE", "d6/d19/a03242.html#acb64662cd19d8282959c12081cb2b4b4ab5e1f4a5290781237c4337916b99a96a", null ],
       [ "EVENT_DRAGONSPIRE_ROOM_CHECK", "d6/d19/a03242.html#acb64662cd19d8282959c12081cb2b4b4adeb0aa4435158cf9a960477680a6cb50", null ],

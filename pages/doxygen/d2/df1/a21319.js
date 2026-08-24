@@ -1,8 +1,8 @@
 var a21319 =
 [
-    [ "FilterTargets", "d2/df1/a21319.html#a028ef84c884536a28650ace1e56f8061", null ],
-    [ "HandleScript", "d2/df1/a21319.html#a16466b4c07c06c57493082b0e84b3c66", null ],
-    [ "PrepareSpellScript", "d2/df1/a21319.html#ad43892487ca38342a61522548b34cd2c", null ],
-    [ "Register", "d2/df1/a21319.html#a90470761baccdcf8c5430006004abf29", null ],
-    [ "Validate", "d2/df1/a21319.html#a1664dcb92887f6974e1750472c02d168", null ]
+    [ "FilterTargets", "d2/df1/a21319.html#a6f3d275e5ff06a6fc37f143d6394bf45", null ],
+    [ "HandleScript", "d2/df1/a21319.html#aa97e0b2f4a8e33d412501f6625ab1504", null ],
+    [ "PrepareSpellScript", "d2/df1/a21319.html#a0db5183ec1aa7f490202ac41cd00b153", null ],
+    [ "Register", "d2/df1/a21319.html#acd4b270dbe27be417892e0a4183ffa0d", null ],
+    [ "Validate", "d2/df1/a21319.html#abb3ca41a50087763d731d1f911065e14", null ]
 ];

@@ -1,6 +1,6 @@
 var a22355 =
 [
-    [ "CheckCast", "d8/d1d/a22355.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
-    [ "PrepareSpellScript", "d8/d1d/a22355.html#ab4025d8a4acee4723dcca972bce01f45", null ],
-    [ "Register", "d8/d1d/a22355.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "da/d6b/a22359.html", "da/d6b/a22359" ],
+    [ "npc_vehicle_d16_propelled_delivery", "d8/d1d/a22355.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "d8/d1d/a22355.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

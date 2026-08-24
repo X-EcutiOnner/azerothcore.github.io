@@ -1,9 +1,6 @@
 var a21987 =
 [
-    [ "npc_venture_co_stragglerAI", "d3/d49/a21987.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
-    [ "Reset", "d3/d49/a21987.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
-    [ "SpellHit", "d3/d49/a21987.html#ae1919454c270d10342079b60a727a306", null ],
-    [ "UpdateAI", "d3/d49/a21987.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
-    [ "_events", "d3/d49/a21987.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
-    [ "_playerGUID", "d3/d49/a21987.html#a649493944b143782d995b5bdda3714b4", null ]
+    [ "npc_venture_co_stragglerAI", "d6/d6c/a21991.html", "d6/d6c/a21991" ],
+    [ "npc_venture_co_straggler", "d3/d49/a21987.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
+    [ "GetAI", "d3/d49/a21987.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
 ];

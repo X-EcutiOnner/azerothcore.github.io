@@ -1,6 +1,7 @@
 var a24187 =
 [
-    [ "CheckCast", "d2/ddb/a24187.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "d2/ddb/a24187.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "d2/ddb/a24187.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "npc_maxx_a_million_escortAI", "d1/d7f/a24191.html", "d1/d7f/a24191" ],
+    [ "npc_maxx_a_million_escort", "d2/ddb/a24187.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "d2/ddb/a24187.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "d2/ddb/a24187.html#aa9a3c655ed09b1264afd8e9ca6965bf5", null ]
 ];

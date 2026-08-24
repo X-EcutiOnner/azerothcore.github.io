@@ -1,9 +1,9 @@
 var a20699 =
 [
-    [ "npc_ulduar_rocket_strike_trigger", "df/dbf/a20699.html#a14fc5830fe192856bd7c99f78de91070", null ],
-    [ "InitializeAI", "df/dbf/a20699.html#a50b4312f060d62e1c4e3ff144add48d8", null ],
-    [ "SetData", "df/dbf/a20699.html#a9d896f09483369fcca2a45223514f855", null ],
-    [ "SpellHitTarget", "df/dbf/a20699.html#ad4a438c5143a6de2b469baa28f0893c5", null ],
-    [ "UpdateAI", "df/dbf/a20699.html#af5e5dec908f6e0f79a7f4a508d4c4403", null ],
-    [ "_events", "df/dbf/a20699.html#acdd7bdda1ecc5d6e5c18f1306153200a", null ]
+    [ "npc_ulduar_emergency_fire_bot", "df/dbf/a20699.html#ae6e7e18bae098db633de891ab52ca0d3", null ],
+    [ "AttackStart", "df/dbf/a20699.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
+    [ "MoveInLineOfSight", "df/dbf/a20699.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
+    [ "MovementInform", "df/dbf/a20699.html#a6f7306e3da54511ddbef772044f76950", null ],
+    [ "UpdateAI", "df/dbf/a20699.html#a653df31873aca5acb86020cc1e14f4a0", null ],
+    [ "_events", "df/dbf/a20699.html#a99f051bd7a1136375103005f0615c4f2", null ]
 ];

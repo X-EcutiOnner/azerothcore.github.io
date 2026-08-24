@@ -1,7 +1,7 @@
 var a24179 =
 [
-    [ "npc_maxx_a_million_escortAI", "d7/d81/a24183.html", "d7/d81/a24183" ],
-    [ "npc_maxx_a_million_escort", "d1/dce/a24179.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "d1/dce/a24179.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "d1/dce/a24179.html#aa9a3c655ed09b1264afd8e9ca6965bf5", null ]
+    [ "npc_bessyAI", "d7/d81/a24183.html", "d7/d81/a24183" ],
+    [ "npc_bessy", "d1/dce/a24179.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d1/dce/a24179.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d1/dce/a24179.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

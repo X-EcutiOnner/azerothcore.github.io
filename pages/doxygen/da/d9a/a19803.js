@@ -1,5 +1,7 @@
 var a19803 =
 [
-    [ "achievement_split_personality", "da/d9a/a19803.html#aac29ae7c321306a663e55493987af45d", null ],
-    [ "OnCheck", "da/d9a/a19803.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
+    [ "HandlePull", "da/d9a/a19803.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
+    [ "PrepareSpellScript", "da/d9a/a19803.html#ac192245513e162a2842e47f5b0d64338", null ],
+    [ "Register", "da/d9a/a19803.html#af6c7a881c2fcf07461006fef63074e5e", null ],
+    [ "SelectTarget", "da/d9a/a19803.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
 ];

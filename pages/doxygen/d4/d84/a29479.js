@@ -1,9 +1,6 @@
 var a29479 =
 [
-    [ "TimeSeg", "d4/d84/a29479.html#a16782e722a5bada41691841fe594b7a6", null ],
-    [ "TransportEntry", "d4/d84/a29479.html#afcdb94a38d68d2ff8af225dc599db8a4", null ],
-    [ "W", "d4/d84/a29479.html#a4158a2babefbf4e148a64fe16bf113f6", null ],
-    [ "X", "d4/d84/a29479.html#a9c7cb1fd0463d1158d971db6f15431ff", null ],
-    [ "Y", "d4/d84/a29479.html#a7f0ff898e752e2e904ebee1412643df6", null ],
-    [ "Z", "d4/d84/a29479.html#a87647d71a965e80154ca36dc05421585", null ]
+    [ "categoryMask", "d4/d84/a29479.html#abd8816e5dda7bda455ccd6932647c4be", null ],
+    [ "categoryType", "d4/d84/a29479.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
+    [ "ID", "d4/d84/a29479.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
 ];

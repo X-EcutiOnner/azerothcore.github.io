@@ -1,5 +1,5 @@
 var a23895 =
 [
-    [ "npc_telonicus", "df/d4c/a23895.html#af8ba6be2d39463725bbbaf7770319a93", null ],
-    [ "ScheduleEvents", "df/d4c/a23895.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
+    [ "npc_lord_sanguinar", "df/d4c/a23895.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
+    [ "ScheduleEvents", "df/d4c/a23895.html#af9231da98547875527a519c5884cbec0", null ]
 ];

@@ -1,6 +1,6 @@
 var a03983 =
 [
-    [ "spell_utgarde_pinnacle_beast_mark", "d5/d3e/a21379.html", "d5/d3e/a21379" ],
+    [ "spell_utgarde_pinnacle_beast_mark", "d0/d4d/a21383.html", "d0/d4d/a21383" ],
     [ "UtgardeSpells", "d1/de2/a03983.html#ae8fa29243650c07aed99f9ee3cad321a", [
       [ "SPELL_BEAST_MARK_NORMAL", "d1/de2/a03983.html#ae8fa29243650c07aed99f9ee3cad321aa515971380a351ffe4dc21aefd7d9a8aa", null ],
       [ "SPELL_BEAST_MARK_DAMAGE_N", "d1/de2/a03983.html#ae8fa29243650c07aed99f9ee3cad321aa519ee30eba59f71f788bd5aaa9ea8a4f", null ],

@@ -1,6 +1,6 @@
 var a27975 =
 [
-    [ "HandleOnHit", "d0/ddc/a27975.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "d0/ddc/a27975.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "d0/ddc/a27975.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "CheckProc", "d0/ddc/a27975.html#a957f8837b5613a3bfd8200ded3529c54", null ],
+    [ "PrepareAuraScript", "d0/ddc/a27975.html#a37950bfd846e1c2c550a108461941a26", null ],
+    [ "Register", "d0/ddc/a27975.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
 ];

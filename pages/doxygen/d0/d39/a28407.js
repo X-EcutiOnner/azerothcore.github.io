@@ -1,5 +1,6 @@
 var a28407 =
 [
-    [ "item_only_for_flight", "d0/d39/a28407.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
-    [ "OnUse", "d0/d39/a28407.html#a88cdf17a85630aef703f93143ba41d4d", null ]
+    [ "guard_shattrath_aldorAI", "d1/d87/a28411.html", "d1/d87/a28411" ],
+    [ "guard_shattrath_aldor", "d0/d39/a28407.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "d0/d39/a28407.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

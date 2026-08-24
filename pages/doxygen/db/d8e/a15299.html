@@ -106,6 +106,7 @@ $(document).ready(function(){initNavTree('db/d8e/a15299.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d6/d74/a15296.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">npc_crate_helper::npc_crate_helperAI Struct Reference</div></div>
@@ -420,6 +421,15 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:aa96fa3aa7728e3ae090105bb3d10de4a inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#aa96fa3aa7728e3ae090105bb3d10de4a">GetDebugInfo</a> () const</td></tr>
 <tr class="separator:aa96fa3aa7728e3ae090105bb3d10de4a inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:ae034fd80a80a1300a10e68dc97600f2a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8e/a15299.html#ae034fd80a80a1300a10e68dc97600f2a">GetCrateId</a> () const</td></tr>
+<tr class="separator:ae034fd80a80a1300a10e68dc97600f2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a557bd9e25cba056e7f44cb5a85c026d9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8e/a15299.html#a557bd9e25cba056e7f44cb5a85c026d9">StartCitizenRP</a> (<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entry)</td></tr>
+<tr class="separator:a557bd9e25cba056e7f44cb5a85c026d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a20b659d82d9552207ad972da01ea5e2d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8e/a15299.html#a20b659d82d9552207ad972da01ea5e2d">StartCrateRP</a> ()</td></tr>
+<tr class="separator:a20b659d82d9552207ad972da01ea5e2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
 <tr class="memitem:a0e718e519af661b73ed7bcd87ffbea32"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8e/a15299.html#a0e718e519af661b73ed7bcd87ffbea32">_marked</a></td></tr>
@@ -512,16 +522,55 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1388</span>                                               : <a class="code hl_class" href="../../de/d75/a06503.html">NullCreatureAI</a>(creature)</div>
-<div class="line"><span class="lineno"> 1389</span>        {</div>
-<div class="line"><span class="lineno"> 1390</span>            <a class="code hl_variable" href="../../db/d8e/a15299.html#a0e718e519af661b73ed7bcd87ffbea32">_marked</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1391</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1425</span>                                               : <a class="code hl_class" href="../../de/d75/a06503.html">NullCreatureAI</a>(creature)</div>
+<div class="line"><span class="lineno"> 1426</span>        {</div>
+<div class="line"><span class="lineno"> 1427</span>            <a class="code hl_variable" href="../../db/d8e/a15299.html#a0e718e519af661b73ed7bcd87ffbea32">_marked</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1428</span>        }</div>
 <div class="ttc" id="aa06503_html"><div class="ttname"><a href="../../de/d75/a06503.html">NullCreatureAI</a></div><div class="ttdef"><b>Definition:</b> PassiveAI.h:56</div></div>
-<div class="ttc" id="aa15299_html_a0e718e519af661b73ed7bcd87ffbea32"><div class="ttname"><a href="../../db/d8e/a15299.html#a0e718e519af661b73ed7bcd87ffbea32">npc_crate_helper::npc_crate_helperAI::_marked</a></div><div class="ttdeci">bool _marked</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1409</div></div>
+<div class="ttc" id="aa15299_html_a0e718e519af661b73ed7bcd87ffbea32"><div class="ttname"><a href="../../db/d8e/a15299.html#a0e718e519af661b73ed7bcd87ffbea32">npc_crate_helper::npc_crate_helperAI::_marked</a></div><div class="ttdeci">bool _marked</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1490</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="ae034fd80a80a1300a10e68dc97600f2a" name="ae034fd80a80a1300a10e68dc97600f2a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae034fd80a80a1300a10e68dc97600f2a">&#9670;&#160;</a></span>GetCrateId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> npc_crate_helper::npc_crate_helperAI::GetCrateId </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1452</span>        {</div>
+<div class="line"><span class="lineno"> 1453</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/ddd/a00380.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54aa1be28aedcafe21647abca0256d21370">MAX_CRATES</a>; ++i)</div>
+<div class="line"><span class="lineno"> 1454</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(<a class="code hl_variable" href="../../df/d30/a04115.html#a27e84f60308459f0feb53e28aab8f007">CratePos</a>[i]) &lt; 10.0f)</div>
+<div class="line"><span class="lineno"> 1455</span>                    <span class="keywordflow">return</span> i;</div>
+<div class="line"><span class="lineno"> 1456</span> </div>
+<div class="line"><span class="lineno"> 1457</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54aa1be28aedcafe21647abca0256d21370">MAX_CRATES</a>;</div>
+<div class="line"><span class="lineno"> 1458</span>        }</div>
+<div class="ttc" id="aa00380_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d8/ddd/a00380.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa04115_html_a27e84f60308459f0feb53e28aab8f007"><div class="ttname"><a href="../../df/d30/a04115.html#a27e84f60308459f0feb53e28aab8f007">CratePos</a></div><div class="ttdeci">Position const CratePos[MAX_CRATES]</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1405</div></div>
+<div class="ttc" id="aa04115_html_ac63f74dcf0c00444668f338796c9ee54aa1be28aedcafe21647abca0256d21370"><div class="ttname"><a href="../../df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54aa1be28aedcafe21647abca0256d21370">MAX_CRATES</a></div><div class="ttdeci">@ MAX_CRATES</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1402</div></div>
+<div class="ttc" id="aa06563_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:71</div></div>
+<div class="ttc" id="aa08815_html_acaa0cccbbb9cac74080c8279a571a68c"><div class="ttname"><a href="../../db/d10/a08815.html#acaa0cccbbb9cac74080c8279a571a68c">WorldObject::GetDistance</a></div><div class="ttdeci">float GetDistance(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1299</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01405">CratePos</a>, and <a class="el" href="../../#l01402">MAX_CRATES</a>.</p>
+
+</div>
+</div>
 <a id="a785bb6fdb254a050a5c5e3e9df49a850" name="a785bb6fdb254a050a5c5e3e9df49a850"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a785bb6fdb254a050a5c5e3e9df49a850">&#9670;&#160;</a></span>SpellHit()</h2>
 
@@ -557,31 +606,135 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/d91/a06563.html#a6afb39c4bf86a1e882cc80fd7ec80a8f">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1394</span>        {</div>
-<div class="line"><span class="lineno"> 1395</span>            <span class="keywordflow">if</span> (spell-&gt;Id == <a class="code hl_enumvalue" href="../../d4/d7f/a04124.html#aef960871e1a997a7b3096b0424eb6204a51c6be413169b5bb9ead6206f94db6b2">SPELL_ARCANE_DISRUPTION</a> &amp;&amp; !<a class="code hl_variable" href="../../db/d8e/a15299.html#a0e718e519af661b73ed7bcd87ffbea32">_marked</a>)</div>
-<div class="line"><span class="lineno"> 1396</span>            {</div>
-<div class="line"><span class="lineno"> 1397</span>                <a class="code hl_variable" href="../../db/d8e/a15299.html#a0e718e519af661b73ed7bcd87ffbea32">_marked</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1398</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dd/d50/a10099.html">InstanceScript</a>* instance = <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno"> 1399</span>                    instance-&gt;SetData(<a class="code hl_enumvalue" href="../../d4/d7f/a04124.html#af5baa506e65b4caa6be6d1c6661dfe63a5d5fac3bf1b4c09ec46c4039855a081f">DATA_CRATE_COUNT</a>, 0);</div>
-<div class="line"><span class="lineno"> 1400</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d95/a08583.html">GameObject</a>* crate = <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#a178c5ef685f97dc9bbd486dd6cabfb63">FindNearestGameObject</a>(<a class="code hl_enumvalue" href="../../d4/d7f/a04124.html#a11b4fe9f4efc221e06a058a1b6650e3da68e6c8f231df9c1c26c4901db704f086">GO_SUSPICIOUS_CRATE</a>, 5.0f))</div>
-<div class="line"><span class="lineno"> 1401</span>                {</div>
-<div class="line"><span class="lineno"> 1402</span>                    crate-&gt;SummonGameObject(<a class="code hl_enumvalue" href="../../d4/d7f/a04124.html#a11b4fe9f4efc221e06a058a1b6650e3da1daa1a974f1ef67a24ac61e4b3bd016a">GO_PLAGUED_CRATE</a>, crate-&gt;GetPositionX(), crate-&gt;GetPositionY(), crate-&gt;GetPositionZ(), crate-&gt;GetOrientation(), 0.0f, 0.0f, 0.0f, 0.0f, <a class="code hl_variable" href="../../d7/d46/a00002.html#a219e927a5d306db9cd363487d1f94366">DAY</a>);</div>
-<div class="line"><span class="lineno"> 1403</span>                    crate-&gt;Delete();</div>
-<div class="line"><span class="lineno"> 1404</span>                }</div>
-<div class="line"><span class="lineno"> 1405</span>            }</div>
-<div class="line"><span class="lineno"> 1406</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1431</span>        {</div>
+<div class="line"><span class="lineno"> 1432</span>            <span class="keywordflow">if</span> (spell-&gt;Id == <a class="code hl_enumvalue" href="../../d4/d7f/a04124.html#aef960871e1a997a7b3096b0424eb6204a51c6be413169b5bb9ead6206f94db6b2">SPELL_ARCANE_DISRUPTION</a> &amp;&amp; !<a class="code hl_variable" href="../../db/d8e/a15299.html#a0e718e519af661b73ed7bcd87ffbea32">_marked</a>)</div>
+<div class="line"><span class="lineno"> 1433</span>            {</div>
+<div class="line"><span class="lineno"> 1434</span>                <a class="code hl_variable" href="../../db/d8e/a15299.html#a0e718e519af661b73ed7bcd87ffbea32">_marked</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1435</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dd/d50/a10099.html">InstanceScript</a>* instance = <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno"> 1436</span>                    instance-&gt;SetData(<a class="code hl_enumvalue" href="../../d4/d7f/a04124.html#af5baa506e65b4caa6be6d1c6661dfe63a5d5fac3bf1b4c09ec46c4039855a081f">DATA_CRATE_COUNT</a>, 0);</div>
+<div class="line"><span class="lineno"> 1437</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d95/a08583.html">GameObject</a>* crate = <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#a178c5ef685f97dc9bbd486dd6cabfb63">FindNearestGameObject</a>(<a class="code hl_enumvalue" href="../../d4/d7f/a04124.html#a11b4fe9f4efc221e06a058a1b6650e3da68e6c8f231df9c1c26c4901db704f086">GO_SUSPICIOUS_CRATE</a>, 5.0f))</div>
+<div class="line"><span class="lineno"> 1438</span>                {</div>
+<div class="line"><span class="lineno"> 1439</span>                    <span class="comment">// Carry over the sniffed rotation so the plagued crate sits exactly like the suspicious one it replaces</span></div>
+<div class="line"><span class="lineno"> 1440</span>                    G3D::Quat <span class="keyword">const</span>&amp; rotation = crate-&gt;GetWorldRotation();</div>
+<div class="line"><span class="lineno"> 1441</span>                    crate-&gt;SummonGameObject(<a class="code hl_enumvalue" href="../../d4/d7f/a04124.html#a11b4fe9f4efc221e06a058a1b6650e3da1daa1a974f1ef67a24ac61e4b3bd016a">GO_PLAGUED_CRATE</a>, crate-&gt;GetPositionX(), crate-&gt;GetPositionY(), crate-&gt;GetPositionZ(), crate-&gt;GetOrientation(), rotation.x, rotation.y, rotation.z, rotation.w, <a class="code hl_variable" href="../../d7/d46/a00002.html#a219e927a5d306db9cd363487d1f94366">DAY</a>);</div>
+<div class="line"><span class="lineno"> 1442</span>                    crate-&gt;Delete();</div>
+<div class="line"><span class="lineno"> 1443</span>                }</div>
+<div class="line"><span class="lineno"> 1444</span> </div>
+<div class="line"><span class="lineno"> 1445</span>                <a class="code hl_function" href="../../db/d8e/a15299.html#a20b659d82d9552207ad972da01ea5e2d">StartCrateRP</a>();</div>
+<div class="line"><span class="lineno"> 1446</span>            }</div>
+<div class="line"><span class="lineno"> 1447</span>        }</div>
 <div class="ttc" id="aa00002_html_a219e927a5d306db9cd363487d1f94366"><div class="ttname"><a href="../../d7/d46/a00002.html#a219e927a5d306db9cd363487d1f94366">DAY</a></div><div class="ttdeci">constexpr auto DAY</div><div class="ttdef"><b>Definition:</b> Common.h:49</div></div>
 <div class="ttc" id="aa04124_html_a11b4fe9f4efc221e06a058a1b6650e3da1daa1a974f1ef67a24ac61e4b3bd016a"><div class="ttname"><a href="../../d4/d7f/a04124.html#a11b4fe9f4efc221e06a058a1b6650e3da1daa1a974f1ef67a24ac61e4b3bd016a">GO_PLAGUED_CRATE</a></div><div class="ttdeci">@ GO_PLAGUED_CRATE</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.h:75</div></div>
 <div class="ttc" id="aa04124_html_a11b4fe9f4efc221e06a058a1b6650e3da68e6c8f231df9c1c26c4901db704f086"><div class="ttname"><a href="../../d4/d7f/a04124.html#a11b4fe9f4efc221e06a058a1b6650e3da68e6c8f231df9c1c26c4901db704f086">GO_SUSPICIOUS_CRATE</a></div><div class="ttdeci">@ GO_SUSPICIOUS_CRATE</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.h:74</div></div>
 <div class="ttc" id="aa04124_html_aef960871e1a997a7b3096b0424eb6204a51c6be413169b5bb9ead6206f94db6b2"><div class="ttname"><a href="../../d4/d7f/a04124.html#aef960871e1a997a7b3096b0424eb6204a51c6be413169b5bb9ead6206f94db6b2">SPELL_ARCANE_DISRUPTION</a></div><div class="ttdeci">@ SPELL_ARCANE_DISRUPTION</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.h:81</div></div>
 <div class="ttc" id="aa04124_html_af5baa506e65b4caa6be6d1c6661dfe63a5d5fac3bf1b4c09ec46c4039855a081f"><div class="ttname"><a href="../../d4/d7f/a04124.html#af5baa506e65b4caa6be6d1c6661dfe63a5d5fac3bf1b4c09ec46c4039855a081f">DATA_CRATE_COUNT</a></div><div class="ttdeci">@ DATA_CRATE_COUNT</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.h:33</div></div>
-<div class="ttc" id="aa06563_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:71</div></div>
 <div class="ttc" id="aa08583_html"><div class="ttname"><a href="../../d2/d95/a08583.html">GameObject</a></div><div class="ttdef"><b>Definition:</b> GameObject.h:120</div></div>
 <div class="ttc" id="aa08815_html_a178c5ef685f97dc9bbd486dd6cabfb63"><div class="ttname"><a href="../../db/d10/a08815.html#a178c5ef685f97dc9bbd486dd6cabfb63">WorldObject::FindNearestGameObject</a></div><div class="ttdeci">GameObject * FindNearestGameObject(uint32 entry, float range, bool onlySpawned=false) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2562</div></div>
 <div class="ttc" id="aa08815_html_a29762f86d0726e4d229df51281b9d710"><div class="ttname"><a href="../../db/d10/a08815.html#a29762f86d0726e4d229df51281b9d710">WorldObject::GetInstanceScript</a></div><div class="ttdeci">InstanceScript * GetInstanceScript() const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1242</div></div>
 <div class="ttc" id="aa10099_html"><div class="ttname"><a href="../../dd/d50/a10099.html">InstanceScript</a></div><div class="ttdef"><b>Definition:</b> InstanceScript.h:143</div></div>
+<div class="ttc" id="aa15299_html_a20b659d82d9552207ad972da01ea5e2d"><div class="ttname"><a href="../../db/d8e/a15299.html#a20b659d82d9552207ad972da01ea5e2d">npc_crate_helper::npc_crate_helperAI::StartCrateRP</a></div><div class="ttdeci">void StartCrateRP()</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1467</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00033">DATA_CRATE_COUNT</a>, <a class="el" href="../../#l00049">DAY</a>, <a class="el" href="../../#l02562">WorldObject::FindNearestGameObject()</a>, <a class="el" href="../../#l00075">GO_PLAGUED_CRATE</a>, <a class="el" href="../../#l00074">GO_SUSPICIOUS_CRATE</a>, <a class="el" href="../../#l00344">SpellInfo::Id</a>, and <a class="el" href="../../#l00081">SPELL_ARCANE_DISRUPTION</a>.</p>
+
+</div>
+</div>
+<a id="a557bd9e25cba056e7f44cb5a85c026d9" name="a557bd9e25cba056e7f44cb5a85c026d9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a557bd9e25cba056e7f44cb5a85c026d9">&#9670;&#160;</a></span>StartCitizenRP()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void npc_crate_helper::npc_crate_helperAI::StartCitizenRP </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>entry</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1461</span>        {</div>
+<div class="line"><span class="lineno"> 1462</span>            <span class="comment">// Jena wanders the furthest from her crate while waiting, at roughly 30 yards</span></div>
+<div class="line"><span class="lineno"> 1463</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/db2/a08403.html">Creature</a>* citizen = <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(entry, 40.0f))</div>
+<div class="line"><span class="lineno"> 1464</span>                citizen-&gt;AI()-&gt;DoAction(<a class="code hl_enumvalue" href="../../df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12a57f0e02aea089df59297483138b5203d">ACTION_CRATE_DISPELLED</a>);</div>
+<div class="line"><span class="lineno"> 1465</span>        }</div>
+<div class="ttc" id="aa04115_html_a030b6113afb50f9a78a678b4e3c6cd12a57f0e02aea089df59297483138b5203d"><div class="ttname"><a href="../../df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12a57f0e02aea089df59297483138b5203d">ACTION_CRATE_DISPELLED</a></div><div class="ttdeci">@ ACTION_CRATE_DISPELLED</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1392</div></div>
+<div class="ttc" id="aa08403_html"><div class="ttname"><a href="../../de/db2/a08403.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:47</div></div>
+<div class="ttc" id="aa08815_html_aa7cc61d571dbc39ca8ac6ac10ffd18ab"><div class="ttname"><a href="../../db/d10/a08815.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">WorldObject::FindNearestCreature</a></div><div class="ttdeci">Creature * FindNearestCreature(uint32 entry, float range, bool alive=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2553</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01392">ACTION_CRATE_DISPELLED</a>, and <a class="el" href="../../#l02553">WorldObject::FindNearestCreature()</a>.</p>
+
+</div>
+</div>
+<a id="a20b659d82d9552207ad972da01ea5e2d" name="a20b659d82d9552207ad972da01ea5e2d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a20b659d82d9552207ad972da01ea5e2d">&#9670;&#160;</a></span>StartCrateRP()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void npc_crate_helper::npc_crate_helperAI::StartCrateRP </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1468</span>        {</div>
+<div class="line"><span class="lineno"> 1469</span>            <span class="keywordflow">switch</span> (<a class="code hl_function" href="../../db/d8e/a15299.html#ae034fd80a80a1300a10e68dc97600f2a">GetCrateId</a>())</div>
+<div class="line"><span class="lineno"> 1470</span>            {</div>
+<div class="line"><span class="lineno"> 1471</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54a160f645e651407aab83bc23bd6ca9c69">CRATE_PERELLI</a>:</div>
+<div class="line"><span class="lineno"> 1472</span>                    <a class="code hl_function" href="../../db/d8e/a15299.html#a557bd9e25cba056e7f44cb5a85c026d9">StartCitizenRP</a>(<a class="code hl_enumvalue" href="../../df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12a886c710ed3065968ff7156befdf84c2a">NPC_SERGEANT_MORIGAN</a>);</div>
+<div class="line"><span class="lineno"> 1473</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1474</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54a80f7a31c96fb31ab50b22feb31599507">CRATE_OWENS</a>:</div>
+<div class="line"><span class="lineno"> 1475</span>                    <a class="code hl_function" href="../../db/d8e/a15299.html#a557bd9e25cba056e7f44cb5a85c026d9">StartCitizenRP</a>(<a class="code hl_enumvalue" href="../../df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12aa00b232ddb61fb5aaa569c7d5b8a2f4a">NPC_ROGER_OWENS</a>);</div>
+<div class="line"><span class="lineno"> 1476</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1477</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54a2007f6bb764e809ccad8d2f27e4cc2db">CRATE_GOSLIN</a>:</div>
+<div class="line"><span class="lineno"> 1478</span>                    <a class="code hl_function" href="../../db/d8e/a15299.html#a557bd9e25cba056e7f44cb5a85c026d9">StartCitizenRP</a>(<a class="code hl_enumvalue" href="../../df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12a3ed97095f8f1e7243440a47746e870fd">NPC_JENA_ANDERSON</a>);</div>
+<div class="line"><span class="lineno"> 1479</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1480</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54a97bb3c6f5355f89f20213e78743712b6">CRATE_MOORE</a>:</div>
+<div class="line"><span class="lineno"> 1481</span>                    <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#ac46286b3e63188d6a328d2fbf7703caf">SummonCreature</a>(<a class="code hl_enumvalue" href="../../df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12a32ba346dcd56f5546d550c325c2b3209">NPC_MALCOLM_MOORE</a>, <a class="code hl_variable" href="../../df/d30/a04115.html#a800fbf54b045f1ee5e17a93fbc0e40b6">MalcolmMoorePos</a>);</div>
+<div class="line"><span class="lineno"> 1482</span>                    <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#ac46286b3e63188d6a328d2fbf7703caf">SummonCreature</a>(<a class="code hl_enumvalue" href="../../df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12aaa9d7a3c1bddfe4f79a2f6b3203eee90">NPC_SCRUFFY</a>, <a class="code hl_variable" href="../../df/d30/a04115.html#a5afa185244098e56253610ba4da64b70">ScruffyPos</a>);</div>
+<div class="line"><span class="lineno"> 1483</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1484</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54aafb9c7594ce319cdbc3c9c211020a7ef">CRATE_BATTSON</a>:</div>
+<div class="line"><span class="lineno"> 1485</span>                    <a class="code hl_function" href="../../db/d8e/a15299.html#a557bd9e25cba056e7f44cb5a85c026d9">StartCitizenRP</a>(<a class="code hl_enumvalue" href="../../df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12a5183f3cd82a33d06551ab8d507561f96">NPC_BARTLEBY_BATTSON</a>);</div>
+<div class="line"><span class="lineno"> 1486</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1487</span>            }</div>
+<div class="line"><span class="lineno"> 1488</span>        }</div>
+<div class="ttc" id="aa04115_html_a030b6113afb50f9a78a678b4e3c6cd12a32ba346dcd56f5546d550c325c2b3209"><div class="ttname"><a href="../../df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12a32ba346dcd56f5546d550c325c2b3209">NPC_MALCOLM_MOORE</a></div><div class="ttdeci">@ NPC_MALCOLM_MOORE</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1387</div></div>
+<div class="ttc" id="aa04115_html_a030b6113afb50f9a78a678b4e3c6cd12a3ed97095f8f1e7243440a47746e870fd"><div class="ttname"><a href="../../df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12a3ed97095f8f1e7243440a47746e870fd">NPC_JENA_ANDERSON</a></div><div class="ttdeci">@ NPC_JENA_ANDERSON</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1386</div></div>
+<div class="ttc" id="aa04115_html_a030b6113afb50f9a78a678b4e3c6cd12a5183f3cd82a33d06551ab8d507561f96"><div class="ttname"><a href="../../df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12a5183f3cd82a33d06551ab8d507561f96">NPC_BARTLEBY_BATTSON</a></div><div class="ttdeci">@ NPC_BARTLEBY_BATTSON</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1390</div></div>
+<div class="ttc" id="aa04115_html_a030b6113afb50f9a78a678b4e3c6cd12a886c710ed3065968ff7156befdf84c2a"><div class="ttname"><a href="../../df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12a886c710ed3065968ff7156befdf84c2a">NPC_SERGEANT_MORIGAN</a></div><div class="ttdeci">@ NPC_SERGEANT_MORIGAN</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1385</div></div>
+<div class="ttc" id="aa04115_html_a030b6113afb50f9a78a678b4e3c6cd12aa00b232ddb61fb5aaa569c7d5b8a2f4a"><div class="ttname"><a href="../../df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12aa00b232ddb61fb5aaa569c7d5b8a2f4a">NPC_ROGER_OWENS</a></div><div class="ttdeci">@ NPC_ROGER_OWENS</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1389</div></div>
+<div class="ttc" id="aa04115_html_a030b6113afb50f9a78a678b4e3c6cd12aaa9d7a3c1bddfe4f79a2f6b3203eee90"><div class="ttname"><a href="../../df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12aaa9d7a3c1bddfe4f79a2f6b3203eee90">NPC_SCRUFFY</a></div><div class="ttdeci">@ NPC_SCRUFFY</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1388</div></div>
+<div class="ttc" id="aa04115_html_a5afa185244098e56253610ba4da64b70"><div class="ttname"><a href="../../df/d30/a04115.html#a5afa185244098e56253610ba4da64b70">ScruffyPos</a></div><div class="ttdeci">Position const ScruffyPos</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1416</div></div>
+<div class="ttc" id="aa04115_html_a800fbf54b045f1ee5e17a93fbc0e40b6"><div class="ttname"><a href="../../df/d30/a04115.html#a800fbf54b045f1ee5e17a93fbc0e40b6">MalcolmMoorePos</a></div><div class="ttdeci">Position const MalcolmMoorePos</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1415</div></div>
+<div class="ttc" id="aa04115_html_ac63f74dcf0c00444668f338796c9ee54a160f645e651407aab83bc23bd6ca9c69"><div class="ttname"><a href="../../df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54a160f645e651407aab83bc23bd6ca9c69">CRATE_PERELLI</a></div><div class="ttdeci">@ CRATE_PERELLI</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1397</div></div>
+<div class="ttc" id="aa04115_html_ac63f74dcf0c00444668f338796c9ee54a2007f6bb764e809ccad8d2f27e4cc2db"><div class="ttname"><a href="../../df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54a2007f6bb764e809ccad8d2f27e4cc2db">CRATE_GOSLIN</a></div><div class="ttdeci">@ CRATE_GOSLIN</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1399</div></div>
+<div class="ttc" id="aa04115_html_ac63f74dcf0c00444668f338796c9ee54a80f7a31c96fb31ab50b22feb31599507"><div class="ttname"><a href="../../df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54a80f7a31c96fb31ab50b22feb31599507">CRATE_OWENS</a></div><div class="ttdeci">@ CRATE_OWENS</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1398</div></div>
+<div class="ttc" id="aa04115_html_ac63f74dcf0c00444668f338796c9ee54a97bb3c6f5355f89f20213e78743712b6"><div class="ttname"><a href="../../df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54a97bb3c6f5355f89f20213e78743712b6">CRATE_MOORE</a></div><div class="ttdeci">@ CRATE_MOORE</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1400</div></div>
+<div class="ttc" id="aa04115_html_ac63f74dcf0c00444668f338796c9ee54aafb9c7594ce319cdbc3c9c211020a7ef"><div class="ttname"><a href="../../df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54aafb9c7594ce319cdbc3c9c211020a7ef">CRATE_BATTSON</a></div><div class="ttdeci">@ CRATE_BATTSON</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1401</div></div>
+<div class="ttc" id="aa08815_html_ac46286b3e63188d6a328d2fbf7703caf"><div class="ttname"><a href="../../db/d10/a08815.html#ac46286b3e63188d6a328d2fbf7703caf">WorldObject::SummonCreature</a></div><div class="ttdeci">TempSummon * SummonCreature(uint32 id, Position const &amp;pos, TempSummonType spwtype=TEMPSUMMON_MANUAL_DESPAWN, uint32 despwtime=0, uint32 vehId=0, SummonPropertiesEntry const *properties=nullptr, bool visibleBySummonerOnly=false) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2448</div></div>
+<div class="ttc" id="aa15299_html_a557bd9e25cba056e7f44cb5a85c026d9"><div class="ttname"><a href="../../db/d8e/a15299.html#a557bd9e25cba056e7f44cb5a85c026d9">npc_crate_helper::npc_crate_helperAI::StartCitizenRP</a></div><div class="ttdeci">void StartCitizenRP(uint32 entry)</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1460</div></div>
+<div class="ttc" id="aa15299_html_ae034fd80a80a1300a10e68dc97600f2a"><div class="ttname"><a href="../../db/d8e/a15299.html#ae034fd80a80a1300a10e68dc97600f2a">npc_crate_helper::npc_crate_helperAI::GetCrateId</a></div><div class="ttdeci">uint8 GetCrateId() const</div><div class="ttdef"><b>Definition:</b> culling_of_stratholme.cpp:1451</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01401">CRATE_BATTSON</a>, <a class="el" href="../../#l01399">CRATE_GOSLIN</a>, <a class="el" href="../../#l01400">CRATE_MOORE</a>, <a class="el" href="../../#l01398">CRATE_OWENS</a>, <a class="el" href="../../#l01397">CRATE_PERELLI</a>, <a class="el" href="../../#l01415">MalcolmMoorePos</a>, <a class="el" href="../../#l01390">NPC_BARTLEBY_BATTSON</a>, <a class="el" href="../../#l01386">NPC_JENA_ANDERSON</a>, <a class="el" href="../../#l01387">NPC_MALCOLM_MOORE</a>, <a class="el" href="../../#l01389">NPC_ROGER_OWENS</a>, <a class="el" href="../../#l01388">NPC_SCRUFFY</a>, <a class="el" href="../../#l01385">NPC_SERGEANT_MORIGAN</a>, and <a class="el" href="../../#l01416">ScruffyPos</a>.</p>
 
 </div>
 </div>
@@ -614,7 +767,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/db2/a15295.html">npc_crate_helper</a></li><li class="navelem"><a class="el" href="../../db/d8e/a15299.html">npc_crate_helperAI</a></li>
-    <li class="footer">Generated on Mon Aug 17 2026 20:59:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 24 2026 21:03:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,7 @@
 var a18431 =
 [
-    [ "CheckTarget", "db/df3/a18431.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "db/df3/a18431.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "db/df3/a18431.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "HandleCast", "db/df3/a18431.html#aaa3262bc782e342825d4caba2954e95d", null ],
+    [ "PrepareSpellScript", "db/df3/a18431.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
+    [ "Register", "db/df3/a18431.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
+    [ "Validate", "db/df3/a18431.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
 ];

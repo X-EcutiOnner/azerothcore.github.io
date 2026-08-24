@@ -1,7 +1,8 @@
 var a21935 =
 [
-    [ "HandleScriptEffect", "d0/d36/a21935.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
-    [ "PrepareSpellScript", "d0/d36/a21935.html#adf6593e47a5766c40e7e3859fce00f81", null ],
-    [ "Register", "d0/d36/a21935.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
-    [ "Validate", "d0/d36/a21935.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
+    [ "OnRemove", "d0/d36/a21935.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
+    [ "PrepareAuraScript", "d0/d36/a21935.html#a183b5a3b1332695e3c047bb63435389a", null ],
+    [ "Register", "d0/d36/a21935.html#aad41ab76cc0a882f272e8f79867a7015", null ],
+    [ "Validate", "d0/d36/a21935.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
+    [ "spellIds", "d0/d36/a21935.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
 ];

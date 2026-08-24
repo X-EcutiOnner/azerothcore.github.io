@@ -1,6 +1,7 @@
 var a19235 =
 [
-    [ "HandleScript", "de/d6b/a19235.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "de/d6b/a19235.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "de/d6b/a19235.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "OnRemove", "de/d6b/a19235.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
+    [ "PrepareAuraScript", "de/d6b/a19235.html#acf654e563f47df9ad033d7080f47662b", null ],
+    [ "Register", "de/d6b/a19235.html#aad4497ba7cad48b9547e8696714d8c23", null ],
+    [ "Validate", "de/d6b/a19235.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
 ];

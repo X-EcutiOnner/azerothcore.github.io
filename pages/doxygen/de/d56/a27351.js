@@ -1,9 +1,10 @@
 var a27351 =
 [
-    [ "HandleAfterHit", "de/d56/a27351.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
-    [ "HandleBeforeHit", "de/d56/a27351.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
-    [ "Load", "de/d56/a27351.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
-    [ "PrepareSpellScript", "de/d56/a27351.html#a496c27472579be3b8989868765ec19ef", null ],
-    [ "Register", "de/d56/a27351.html#a133e338413e960c442446a2a4a13b85b", null ],
-    [ "_stackAmount", "de/d56/a27351.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
+    [ "CheckProc", "de/d56/a27351.html#a5971c42af47d1cc8045a130deb218a04", null ],
+    [ "HandleProc", "de/d56/a27351.html#a45aaf5afebc2fa533240fcf8233430ed", null ],
+    [ "Load", "de/d56/a27351.html#a7664b0f67c9e3b14841ed9e30447544d", null ],
+    [ "PrepareAuraScript", "de/d56/a27351.html#a291fcf1af497d1e83a31209cd01a360d", null ],
+    [ "Register", "de/d56/a27351.html#af16d0517ad07a454145da0b92c051740", null ],
+    [ "Validate", "de/d56/a27351.html#ac768a5f4738dee9ad7d885fa6136785e", null ],
+    [ "_procTargetGUID", "de/d56/a27351.html#a13976d069846f29d2f744f3f03502787", null ]
 ];

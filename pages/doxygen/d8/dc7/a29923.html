@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: BreakableCCProcTest Class Reference</title>
+<title>AzerothCore: PoolQuestReloadFixTest Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,13 +106,14 @@ $(document).ready(function(){initNavTree('d8/dc7/a29923.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pro-methods">Protected Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#pro-static-attribs">Static Protected Attributes</a> &#124;
 <a href="../../df/db7/a29920.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">BreakableCCProcTest Class Reference</div></div>
+  <div class="headertitle"><div class="title">PoolQuestReloadFixTest Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="dynheader">
-Inheritance diagram for BreakableCCProcTest:</div>
+Inheritance diagram for PoolQuestReloadFixTest:</div>
 <div class="dyncontent">
  <div class="center">
   <img src="../../d8/dc7/a29923.png" alt=""/>
@@ -120,25 +121,29 @@ Inheritance diagram for BreakableCCProcTest:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
-<tr class="memitem:af90043fc0fe122bcbb1c60efcb56a92b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc7/a29923.html#af90043fc0fe122bcbb1c60efcb56a92b">SetUp</a> () override</td></tr>
-<tr class="separator:af90043fc0fe122bcbb1c60efcb56a92b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7c3946d9acc7dbcc36c56071e165f6d9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc7/a29923.html#a7c3946d9acc7dbcc36c56071e165f6d9">TearDown</a> () override</td></tr>
-<tr class="separator:a7c3946d9acc7dbcc36c56071e165f6d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a90bb496c51cd49d187389e714360afca"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d9a/a29599.html">AuraEffectStub</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc7/a29923.html#a90bb496c51cd49d187389e714360afca">CreateCCEffect</a> (int32_t threshold, uint32_t auraType=7)</td></tr>
-<tr class="memdesc:a90bb496c51cd49d187389e714360afca"><td class="mdescLeft">&#160;</td><td class="mdescRight">Create a CC aura effect stub with the given threshold.  <a href="../../d8/dc7/a29923.html#a90bb496c51cd49d187389e714360afca">More...</a><br /></td></tr>
-<tr class="separator:a90bb496c51cd49d187389e714360afca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a20b3a8161766a47ae37349f02cbe5b90"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc7/a29923.html#a20b3a8161766a47ae37349f02cbe5b90">SetUp</a> () override</td></tr>
+<tr class="separator:a20b3a8161766a47ae37349f02cbe5b90"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9b41e4a95a6ca160c70272dfb90b5f8a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc7/a29923.html#a9b41e4a95a6ca160c70272dfb90b5f8a">TearDown</a> () override</td></tr>
+<tr class="separator:a9b41e4a95a6ca160c70272dfb90b5f8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a2006a12966a8875132c3a2c0b905e1f8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d4c/a12347.html">IWorld</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc7/a29923.html#a2006a12966a8875132c3a2c0b905e1f8">_originalWorld</a> = nullptr</td></tr>
-<tr class="separator:a2006a12966a8875132c3a2c0b905e1f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad18ef661fd5ab748c1c2c5d193b2a7d0"><td class="memItemLeft" align="right" valign="top">NiceMock&lt; <a class="el" href="../../d5/dc4/a29727.html">WorldMock</a> &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc7/a29923.html#ad18ef661fd5ab748c1c2c5d193b2a7d0">_worldMock</a> = nullptr</td></tr>
-<tr class="separator:ad18ef661fd5ab748c1c2c5d193b2a7d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:ae8b815994792f237cf6e1803b9eaa7f7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4f/a02366.html#ae93b697a9b22d427db8d45f79d10aa34">QuestRelations</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc7/a29923.html#ae8b815994792f237cf6e1803b9eaa7f7">creatureQuestMap</a> = nullptr</td></tr>
+<tr class="separator:ae8b815994792f237cf6e1803b9eaa7f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-static-attribs" name="pro-static-attribs"></a>
+Static Protected Attributes</h2></td></tr>
+<tr class="memitem:a26e68107bb625d0c5b6281c7df9199be"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc7/a29923.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a> = 99998</td></tr>
+<tr class="separator:a26e68107bb625d0c5b6281c7df9199be"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80a79959d4b5520f7acf671677a671e9"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc7/a29923.html#a80a79959d4b5520f7acf671677a671e9">TEST_CREATURE_ID</a> = 99999</td></tr>
+<tr class="separator:a80a79959d4b5520f7acf671677a671e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa81759d0539b72ad3cdda7d2231f8e63"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc7/a29923.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a> = 99997</td></tr>
+<tr class="separator:aa81759d0539b72ad3cdda7d2231f8e63"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a90bb496c51cd49d187389e714360afca" name="a90bb496c51cd49d187389e714360afca"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a90bb496c51cd49d187389e714360afca">&#9670;&#160;</a></span>CreateCCEffect()</h2>
+<a id="a20b3a8161766a47ae37349f02cbe5b90" name="a20b3a8161766a47ae37349f02cbe5b90"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a20b3a8161766a47ae37349f02cbe5b90">&#9670;&#160;</a></span>SetUp()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -147,50 +152,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d9a/a29599.html">AuraEffectStub</a> BreakableCCProcTest::CreateCCEffect </td>
-          <td>(</td>
-          <td class="paramtype">int32_t&#160;</td>
-          <td class="paramname"><em>threshold</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>auraType</em> = <code>7</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Create a CC aura effect stub with the given threshold. </p>
-<div class="fragment"><div class="line"><span class="lineno">  120</span>    {</div>
-<div class="line"><span class="lineno">  121</span>        <a class="code hl_class" href="../../d6/d9a/a29599.html">AuraEffectStub</a> effect(0, threshold, auraType);</div>
-<div class="line"><span class="lineno">  122</span>        <span class="keywordflow">return</span> effect;</div>
-<div class="line"><span class="lineno">  123</span>    }</div>
-<div class="ttc" id="aa29599_html"><div class="ttname"><a href="../../d6/d9a/a29599.html">AuraEffectStub</a></div><div class="ttdoc">Lightweight stub for AuraEffect proc-related functionality.</div><div class="ttdef"><b>Definition:</b> AuraStub.h:34</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="af90043fc0fe122bcbb1c60efcb56a92b" name="af90043fc0fe122bcbb1c60efcb56a92b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af90043fc0fe122bcbb1c60efcb56a92b">&#9670;&#160;</a></span>SetUp()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BreakableCCProcTest::SetUp </td>
+          <td class="memname">void PoolQuestReloadFixTest::SetUp </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -202,21 +164,39 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  103</span>    {</div>
-<div class="line"><span class="lineno">  104</span>        <a class="code hl_variable" href="../../d8/dc7/a29923.html#a2006a12966a8875132c3a2c0b905e1f8">_originalWorld</a> = <a class="code hl_define" href="../../d6/de9/a05083.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.release();</div>
-<div class="line"><span class="lineno">  105</span>        <a class="code hl_variable" href="../../d8/dc7/a29923.html#ad18ef661fd5ab748c1c2c5d193b2a7d0">_worldMock</a> = <span class="keyword">new</span> NiceMock&lt;WorldMock&gt;();</div>
-<div class="line"><span class="lineno">  106</span>        <a class="code hl_define" href="../../d6/de9/a05083.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.reset(<a class="code hl_variable" href="../../d8/dc7/a29923.html#ad18ef661fd5ab748c1c2c5d193b2a7d0">_worldMock</a>);</div>
-<div class="line"><span class="lineno">  107</span>    }</div>
-<div class="ttc" id="aa05083_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d6/de9/a05083.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:318</div></div>
-<div class="ttc" id="aa29923_html_a2006a12966a8875132c3a2c0b905e1f8"><div class="ttname"><a href="../../d8/dc7/a29923.html#a2006a12966a8875132c3a2c0b905e1f8">BreakableCCProcTest::_originalWorld</a></div><div class="ttdeci">IWorld * _originalWorld</div><div class="ttdef"><b>Definition:</b> BreakableCCProcTest.cpp:126</div></div>
-<div class="ttc" id="aa29923_html_ad18ef661fd5ab748c1c2c5d193b2a7d0"><div class="ttname"><a href="../../d8/dc7/a29923.html#ad18ef661fd5ab748c1c2c5d193b2a7d0">BreakableCCProcTest::_worldMock</a></div><div class="ttdeci">NiceMock&lt; WorldMock &gt; * _worldMock</div><div class="ttdef"><b>Definition:</b> BreakableCCProcTest.cpp:127</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  221</span>    {</div>
+<div class="line"><span class="lineno">  222</span>        <a class="code hl_variable" href="../../d8/dc7/a29923.html#ae8b815994792f237cf6e1803b9eaa7f7">creatureQuestMap</a> = <a class="code hl_define" href="../../d9/d4f/a02366.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureQuestRelationMap();</div>
+<div class="line"><span class="lineno">  223</span> </div>
+<div class="line"><span class="lineno">  224</span>        <span class="comment">// Set up pool infrastructure (private members via friend access)</span></div>
+<div class="line"><span class="lineno">  225</span>        <a class="code hl_define" href="../../d3/d19/a01847.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mPoolTemplate[<a class="code hl_variable" href="../../d8/dc7/a29923.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>].MaxLimit = 1;</div>
+<div class="line"><span class="lineno">  226</span> </div>
+<div class="line"><span class="lineno">  227</span>        <span class="comment">// Create the pool group entry (Spawn1Object doesn&#39;t use pool group</span></div>
+<div class="line"><span class="lineno">  228</span>        <span class="comment">// internals, it only reads mQuestCreatureRelation)</span></div>
+<div class="line"><span class="lineno">  229</span>        <a class="code hl_define" href="../../d3/d19/a01847.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mPoolQuestGroups[<a class="code hl_variable" href="../../d8/dc7/a29923.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>].SetPoolId(<a class="code hl_variable" href="../../d8/dc7/a29923.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>);</div>
+<div class="line"><span class="lineno">  230</span> </div>
+<div class="line"><span class="lineno">  231</span>        <a class="code hl_define" href="../../d3/d19/a01847.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestSearchMap[<a class="code hl_variable" href="../../d8/dc7/a29923.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>] = <a class="code hl_variable" href="../../d8/dc7/a29923.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>;</div>
+<div class="line"><span class="lineno">  232</span> </div>
+<div class="line"><span class="lineno">  233</span>        <span class="comment">// Mark the quest as active/spawned</span></div>
+<div class="line"><span class="lineno">  234</span>        <a class="code hl_define" href="../../d3/d19/a01847.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestSpawnedData.AddSpawn&lt;<a class="code hl_class" href="../../d3/de6/a10655.html">Quest</a>&gt;(<a class="code hl_variable" href="../../d8/dc7/a29923.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>, <a class="code hl_variable" href="../../d8/dc7/a29923.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>);</div>
+<div class="line"><span class="lineno">  235</span> </div>
+<div class="line"><span class="lineno">  236</span>        <span class="comment">// Set up pool-side mapping: quest -&gt; creature</span></div>
+<div class="line"><span class="lineno">  237</span>        <a class="code hl_define" href="../../d3/d19/a01847.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestCreatureRelation.insert(</div>
+<div class="line"><span class="lineno">  238</span>            PooledQuestRelation::value_type(<a class="code hl_variable" href="../../d8/dc7/a29923.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>, <a class="code hl_variable" href="../../d8/dc7/a29923.html#a80a79959d4b5520f7acf671677a671e9">TEST_CREATURE_ID</a>));</div>
+<div class="line"><span class="lineno">  239</span>    }</div>
+<div class="ttc" id="aa01847_html_a9189dd9c6265b9e6d57104dd61a5fe85"><div class="ttname"><a href="../../d3/d19/a01847.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a></div><div class="ttdeci">#define sPoolMgr</div><div class="ttdef"><b>Definition:</b> PoolMgr.h:216</div></div>
+<div class="ttc" id="aa02366_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../d9/d4f/a02366.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1730</div></div>
+<div class="ttc" id="aa10655_html"><div class="ttname"><a href="../../d3/de6/a10655.html">Quest</a></div><div class="ttdef"><b>Definition:</b> QuestDef.h:210</div></div>
+<div class="ttc" id="aa29923_html_a26e68107bb625d0c5b6281c7df9199be"><div class="ttname"><a href="../../d8/dc7/a29923.html#a26e68107bb625d0c5b6281c7df9199be">PoolQuestReloadFixTest::TEST_QUEST_ID</a></div><div class="ttdeci">static constexpr uint32 TEST_QUEST_ID</div><div class="ttdef"><b>Definition:</b> PoolQuestReloadTest.cpp:262</div></div>
+<div class="ttc" id="aa29923_html_a80a79959d4b5520f7acf671677a671e9"><div class="ttname"><a href="../../d8/dc7/a29923.html#a80a79959d4b5520f7acf671677a671e9">PoolQuestReloadFixTest::TEST_CREATURE_ID</a></div><div class="ttdeci">static constexpr uint32 TEST_CREATURE_ID</div><div class="ttdef"><b>Definition:</b> PoolQuestReloadTest.cpp:263</div></div>
+<div class="ttc" id="aa29923_html_aa81759d0539b72ad3cdda7d2231f8e63"><div class="ttname"><a href="../../d8/dc7/a29923.html#aa81759d0539b72ad3cdda7d2231f8e63">PoolQuestReloadFixTest::TEST_POOL_ID</a></div><div class="ttdeci">static constexpr uint32 TEST_POOL_ID</div><div class="ttdef"><b>Definition:</b> PoolQuestReloadTest.cpp:264</div></div>
+<div class="ttc" id="aa29923_html_ae8b815994792f237cf6e1803b9eaa7f7"><div class="ttname"><a href="../../d8/dc7/a29923.html#ae8b815994792f237cf6e1803b9eaa7f7">PoolQuestReloadFixTest::creatureQuestMap</a></div><div class="ttdeci">QuestRelations * creatureQuestMap</div><div class="ttdef"><b>Definition:</b> PoolQuestReloadTest.cpp:266</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00126">_originalWorld</a>, <a class="el" href="../../#l00127">_worldMock</a>, and <a class="el" href="../../#l00318">sWorld</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00266">creatureQuestMap</a>, <a class="el" href="../../#l01730">sObjectMgr</a>, <a class="el" href="../../#l00216">sPoolMgr</a>, <a class="el" href="../../#l00263">TEST_CREATURE_ID</a>, <a class="el" href="../../#l00264">TEST_POOL_ID</a>, and <a class="el" href="../../#l00262">TEST_QUEST_ID</a>.</p>
 
 </div>
 </div>
-<a id="a7c3946d9acc7dbcc36c56071e165f6d9" name="a7c3946d9acc7dbcc36c56071e165f6d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7c3946d9acc7dbcc36c56071e165f6d9">&#9670;&#160;</a></span>TearDown()</h2>
+<a id="a9b41e4a95a6ca160c70272dfb90b5f8a" name="a9b41e4a95a6ca160c70272dfb90b5f8a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9b41e4a95a6ca160c70272dfb90b5f8a">&#9670;&#160;</a></span>TearDown()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -225,7 +205,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void BreakableCCProcTest::TearDown </td>
+          <td class="memname">void PoolQuestReloadFixTest::TearDown </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -237,20 +217,33 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  110</span>    {</div>
-<div class="line"><span class="lineno">  111</span>        <a class="code hl_class" href="../../d2/d4c/a12347.html">IWorld</a>* currentWorld = <a class="code hl_define" href="../../d6/de9/a05083.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.release();</div>
-<div class="line"><span class="lineno">  112</span>        <span class="keyword">delete</span> currentWorld;</div>
-<div class="line"><span class="lineno">  113</span>        <a class="code hl_define" href="../../d6/de9/a05083.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.reset(<a class="code hl_variable" href="../../d8/dc7/a29923.html#a2006a12966a8875132c3a2c0b905e1f8">_originalWorld</a>);</div>
-<div class="line"><span class="lineno">  114</span>    }</div>
-<div class="ttc" id="aa12347_html"><div class="ttname"><a href="../../d2/d4c/a12347.html">IWorld</a></div><div class="ttdef"><b>Definition:</b> IWorld.h:63</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  242</span>    {</div>
+<div class="line"><span class="lineno">  243</span>        <span class="comment">// Clean up all test state from the singletons</span></div>
+<div class="line"><span class="lineno">  244</span>        <a class="code hl_define" href="../../d3/d19/a01847.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mPoolTemplate.erase(<a class="code hl_variable" href="../../d8/dc7/a29923.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>);</div>
+<div class="line"><span class="lineno">  245</span>        <a class="code hl_define" href="../../d3/d19/a01847.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mPoolQuestGroups.erase(<a class="code hl_variable" href="../../d8/dc7/a29923.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>);</div>
+<div class="line"><span class="lineno">  246</span>        <a class="code hl_define" href="../../d3/d19/a01847.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestSearchMap.erase(<a class="code hl_variable" href="../../d8/dc7/a29923.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>);</div>
+<div class="line"><span class="lineno">  247</span>        <a class="code hl_define" href="../../d3/d19/a01847.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestSpawnedData.RemoveSpawn&lt;<a class="code hl_class" href="../../d3/de6/a10655.html">Quest</a>&gt;(<a class="code hl_variable" href="../../d8/dc7/a29923.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>, <a class="code hl_variable" href="../../d8/dc7/a29923.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>);</div>
+<div class="line"><span class="lineno">  248</span> </div>
+<div class="line"><span class="lineno">  249</span>        <span class="keyword">auto</span> range = <a class="code hl_define" href="../../d3/d19/a01847.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestCreatureRelation.equal_range(<a class="code hl_variable" href="../../d8/dc7/a29923.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>);</div>
+<div class="line"><span class="lineno">  250</span>        <a class="code hl_define" href="../../d3/d19/a01847.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestCreatureRelation.erase(range.first, range.second);</div>
+<div class="line"><span class="lineno">  251</span> </div>
+<div class="line"><span class="lineno">  252</span>        <span class="keyword">auto</span> crRange = <a class="code hl_variable" href="../../d8/dc7/a29923.html#ae8b815994792f237cf6e1803b9eaa7f7">creatureQuestMap</a>-&gt;equal_range(<a class="code hl_variable" href="../../d8/dc7/a29923.html#a80a79959d4b5520f7acf671677a671e9">TEST_CREATURE_ID</a>);</div>
+<div class="line"><span class="lineno">  253</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> it = crRange.first; it != crRange.second; )</div>
+<div class="line"><span class="lineno">  254</span>        {</div>
+<div class="line"><span class="lineno">  255</span>            <span class="keywordflow">if</span> (it-&gt;second == <a class="code hl_variable" href="../../d8/dc7/a29923.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>)</div>
+<div class="line"><span class="lineno">  256</span>                it = <a class="code hl_variable" href="../../d8/dc7/a29923.html#ae8b815994792f237cf6e1803b9eaa7f7">creatureQuestMap</a>-&gt;erase(it);</div>
+<div class="line"><span class="lineno">  257</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  258</span>                ++it;</div>
+<div class="line"><span class="lineno">  259</span>        }</div>
+<div class="line"><span class="lineno">  260</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00126">_originalWorld</a>, and <a class="el" href="../../#l00318">sWorld</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00266">creatureQuestMap</a>, <a class="el" href="../../#l00216">sPoolMgr</a>, <a class="el" href="../../#l00263">TEST_CREATURE_ID</a>, <a class="el" href="../../#l00264">TEST_POOL_ID</a>, and <a class="el" href="../../#l00262">TEST_QUEST_ID</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a2006a12966a8875132c3a2c0b905e1f8" name="a2006a12966a8875132c3a2c0b905e1f8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2006a12966a8875132c3a2c0b905e1f8">&#9670;&#160;</a></span>_originalWorld</h2>
+<a id="ae8b815994792f237cf6e1803b9eaa7f7" name="ae8b815994792f237cf6e1803b9eaa7f7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae8b815994792f237cf6e1803b9eaa7f7">&#9670;&#160;</a></span>creatureQuestMap</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -259,22 +252,22 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/d4c/a12347.html">IWorld</a>* BreakableCCProcTest::_originalWorld = nullptr</td>
+          <td class="memname"><a class="el" href="../../d9/d4f/a02366.html#ae93b697a9b22d427db8d45f79d10aa34">QuestRelations</a>* PoolQuestReloadFixTest::creatureQuestMap = nullptr</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00102">SetUp()</a>, and <a class="el" href="../../#l00109">TearDown()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00220">SetUp()</a>, and <a class="el" href="../../#l00241">TearDown()</a>.</p>
 
 </div>
 </div>
-<a id="ad18ef661fd5ab748c1c2c5d193b2a7d0" name="ad18ef661fd5ab748c1c2c5d193b2a7d0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad18ef661fd5ab748c1c2c5d193b2a7d0">&#9670;&#160;</a></span>_worldMock</h2>
+<a id="a80a79959d4b5520f7acf671677a671e9" name="a80a79959d4b5520f7acf671677a671e9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a80a79959d4b5520f7acf671677a671e9">&#9670;&#160;</a></span>TEST_CREATURE_ID</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -283,17 +276,65 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">NiceMock&lt;<a class="el" href="../../d5/dc4/a29727.html">WorldMock</a>&gt;* BreakableCCProcTest::_worldMock = nullptr</td>
+          <td class="memname">constexpr <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PoolQuestReloadFixTest::TEST_CREATURE_ID = 99999</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00102">SetUp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00220">SetUp()</a>, and <a class="el" href="../../#l00241">TearDown()</a>.</p>
+
+</div>
+</div>
+<a id="aa81759d0539b72ad3cdda7d2231f8e63" name="aa81759d0539b72ad3cdda7d2231f8e63"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa81759d0539b72ad3cdda7d2231f8e63">&#9670;&#160;</a></span>TEST_POOL_ID</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PoolQuestReloadFixTest::TEST_POOL_ID = 99997</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00220">SetUp()</a>, and <a class="el" href="../../#l00241">TearDown()</a>.</p>
+
+</div>
+</div>
+<a id="a26e68107bb625d0c5b6281c7df9199be" name="a26e68107bb625d0c5b6281c7df9199be"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a26e68107bb625d0c5b6281c7df9199be">&#9670;&#160;</a></span>TEST_QUEST_ID</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PoolQuestReloadFixTest::TEST_QUEST_ID = 99998</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00220">SetUp()</a>, and <a class="el" href="../../#l00241">TearDown()</a>.</p>
 
 </div>
 </div>
@@ -302,8 +343,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d8/dc7/a29923.html">BreakableCCProcTest</a></li>
-    <li class="footer">Generated on Mon Aug 17 2026 20:58:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d8/dc7/a29923.html">PoolQuestReloadFixTest</a></li>
+    <li class="footer">Generated on Mon Aug 24 2026 21:04:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

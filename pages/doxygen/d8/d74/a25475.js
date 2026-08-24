@@ -1,6 +1,7 @@
 var a25475 =
 [
-    [ "CheckRequirement", "d8/d74/a25475.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
-    [ "PrepareSpellScript", "d8/d74/a25475.html#aebb88f5ea803a590a099e4e6427d8276", null ],
-    [ "Register", "d8/d74/a25475.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
+    [ "OnApply", "d8/d74/a25475.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
+    [ "OnRemove", "d8/d74/a25475.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
+    [ "PrepareAuraScript", "d8/d74/a25475.html#a9a7b549e059b6bd2d22802f60e952658", null ],
+    [ "Register", "d8/d74/a25475.html#aae603735281daf02ceca157e218d5c9f", null ]
 ];

@@ -1,6 +1,9 @@
 var a20255 =
 [
-    [ "npc_pool_of_tar", "d6/dec/a20255.html#a03de46dfa133992d094ab607a49b7236", null ],
-    [ "DamageTaken", "d6/dec/a20255.html#ac72ad742cb16e27abf25fe0e88408315", null ],
-    [ "SpellHit", "d6/dec/a20255.html#a61886862df88b41bf0c6959c9a564cea", null ]
+    [ "npc_thorims_hammer", "d6/dec/a20255.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
+    [ "Reset", "d6/dec/a20255.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
+    [ "UpdateAI", "d6/dec/a20255.html#a006414298b31eb0cfb964916298d66ce", null ],
+    [ "_beamTimer", "d6/dec/a20255.html#adcd5af2b86d1d8f119514f799c42444b", null ],
+    [ "_finishTime", "d6/dec/a20255.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
+    [ "_removeTimer", "d6/dec/a20255.html#a7b9a2435b0953c12e693c562193d45e0", null ]
 ];

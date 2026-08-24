@@ -1,7 +1,6 @@
 var a24907 =
 [
-    [ "FilterTargets", "d2/df2/a24907.html#a9abf4baaba572636dba3980e5ae777c5", null ],
-    [ "Load", "d2/df2/a24907.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
-    [ "PrepareSpellScript", "d2/df2/a24907.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
-    [ "Register", "d2/df2/a24907.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
+    [ "OnHit", "d2/df2/a24907.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
+    [ "PrepareSpellScript", "d2/df2/a24907.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
+    [ "Register", "d2/df2/a24907.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
 ];

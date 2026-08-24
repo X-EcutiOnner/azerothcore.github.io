@@ -1,11 +1,11 @@
 var a21023 =
 [
-    [ "boss_yoggsaron_llane", "d8/dff/a21023.html#a42e3d189cff0da5995401e4bc8dfffdd", null ],
-    [ "NextStep", "d8/dff/a21023.html#ab8b6446fe7d424ad7d943af915cc4b8a", null ],
-    [ "Reset", "d8/dff/a21023.html#a0df3a85717ab26ad1ac889d6fe4d8007", null ],
-    [ "Say", "d8/dff/a21023.html#a0ae3106eac830ed9f14f17e5fa1d45ec", null ],
-    [ "UpdateAI", "d8/dff/a21023.html#a58ec957cd59b944439fe514e728e2902", null ],
-    [ "_checkTimer", "d8/dff/a21023.html#a3043382e2727bc78a74acaec28697045", null ],
-    [ "_running", "d8/dff/a21023.html#ab7e1b1ed82f311b12f28f1622e6ad378", null ],
-    [ "_step", "d8/dff/a21023.html#a91a71f85bab9e4d1234964ef534e51c2", null ]
+    [ "boss_yoggsaron_lich_king", "d8/dff/a21023.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
+    [ "NextStep", "d8/dff/a21023.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
+    [ "Reset", "d8/dff/a21023.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
+    [ "Say", "d8/dff/a21023.html#ac7687fe1253701c702cf2c17986727ec", null ],
+    [ "UpdateAI", "d8/dff/a21023.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
+    [ "_checkTimer", "d8/dff/a21023.html#a196ffc443569494bed79f623dd9cdca3", null ],
+    [ "_running", "d8/dff/a21023.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
+    [ "_step", "d8/dff/a21023.html#a97244534b8c6a69807388b620df2263f", null ]
 ];

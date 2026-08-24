@@ -1,11 +1,12 @@
 var a29867 =
 [
-    [ "SetUp", "d9/d19/a29867.html#a6905326495d9902c04075e1278ceee09", null ],
-    [ "TearDown", "d9/d19/a29867.html#a93922bbc8b0748ea2744da16bb9be908", null ],
-    [ "_map", "d9/d19/a29867.html#a7488073f59af18ddff83352153bce0f9", null ],
-    [ "_previousWorld", "d9/d19/a29867.html#a5098326e6ea76115910d5d87e9146106", null ],
-    [ "_snake", "d9/d19/a29867.html#a8fa5bbd89471aa9b332b27d2183b823d", null ],
-    [ "_targetA", "d9/d19/a29867.html#a57f036093e543f841c808380d3bb6708", null ],
-    [ "_targetB", "d9/d19/a29867.html#ae722aaab98cdbd47252f6b95df507679", null ],
-    [ "_worldMock", "d9/d19/a29867.html#ac4ea643a5b5a1e40790a254b2809c11b", null ]
+    [ "MakeBracket", "d9/d19/a29867.html#a6acf8699a62a5e6d03f1e33124f1e875", null ],
+    [ "SetIntConfig", "d9/d19/a29867.html#ac428f3bcfc8af019a114ee3859d83e9c", null ],
+    [ "SetUp", "d9/d19/a29867.html#a50880de2c8b647aa1ef2db4fe9e4c619", null ],
+    [ "SetupRealBg", "d9/d19/a29867.html#ab288107a8233cb96d9a715c9f99cd360", null ],
+    [ "SetupTemplate", "d9/d19/a29867.html#a00c21e1785ec154a2c73b317d70b49ce", null ],
+    [ "TearDown", "d9/d19/a29867.html#af04e05f17e03681ed018fe7622e3bab9", null ],
+    [ "previousWorld_", "d9/d19/a29867.html#afc7f861d24ec9258ee51ef5f76119843", null ],
+    [ "TemplateMinPlayers", "d9/d19/a29867.html#af00c207fc8284729e409df1588e9b006", null ],
+    [ "worldMock_", "d9/d19/a29867.html#a87098b65420dc95aa878a9a4b15490b5", null ]
 ];

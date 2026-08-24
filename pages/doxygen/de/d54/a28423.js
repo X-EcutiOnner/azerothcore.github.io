@@ -1,5 +1,5 @@
 var a28423 =
 [
-    [ "item_petrov_cluster_bombs", "de/d54/a28423.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "de/d54/a28423.html#aeecb6a7756b4af06f46951dfb51c054f", null ]
+    [ "item_mysterious_egg", "de/d54/a28423.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
+    [ "OnExpire", "de/d54/a28423.html#a5ea72284626826b75819f89b3b91c540", null ]
 ];

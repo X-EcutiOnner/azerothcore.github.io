@@ -1,8 +1,10 @@
 var a29719 =
 [
-    [ "bp0", "da/d98/a29719.html#ada8e047c960181610ff1942cbdfa2e27", null ],
-    [ "bp1", "da/d98/a29719.html#aaf81afde542db481bde1e26fcc21b945", null ],
-    [ "bp2", "da/d98/a29719.html#a36b28d1bc821bfd3970b6af0f38a9f10", null ],
-    [ "spellId", "da/d98/a29719.html#a3f8e88d4761c5247c2cb9bff94d548aa", null ],
-    [ "triggered", "da/d98/a29719.html#a0ee8feba0856c5497612e15128ba8273", null ]
+    [ "AddToWorld", "da/d98/a29719.html#a3b5a3472d4a5ca1cff7dc0dbed0b04c7", null ],
+    [ "ForceInitValues", "da/d98/a29719.html#adb765e8464642610eeebf25c5fa17edd", null ],
+    [ "Player", "da/d98/a29719.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
+    [ "RemoveFromWorld", "da/d98/a29719.html#aa69937d52e60e235f35a48e9d80d65ce", null ],
+    [ "SaveToDB", "da/d98/a29719.html#a21d71f7f913da0213b98cfe2e0d1b832", null ],
+    [ "SaveToDB", "da/d98/a29719.html#a74818d35eddf0c5ccea7693ba455cff2", null ],
+    [ "UpdateObjectVisibility", "da/d98/a29719.html#a35487432f2af544c20bc3c45f8ba1602", null ]
 ];

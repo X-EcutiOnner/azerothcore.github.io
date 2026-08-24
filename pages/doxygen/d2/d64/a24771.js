@@ -1,8 +1,7 @@
 var a24771 =
 [
-    [ "CheckProc", "d2/d64/a24771.html#a068a730173ef0dc0cf239e8b0214b6a4", null ],
-    [ "HandleProc", "d2/d64/a24771.html#a39d04711bb64ad3fa3ee8dbeb10ffbc2", null ],
-    [ "PrepareAuraScript", "d2/d64/a24771.html#a87166b872450132de96835524b5857c7", null ],
-    [ "Register", "d2/d64/a24771.html#a4a1d7e55a99295b66380a6fe1f2b4cc9", null ],
-    [ "Validate", "d2/d64/a24771.html#a8d3a6b0496c725872d8e66f804bd8c96", null ]
+    [ "HandleProc", "d2/d64/a24771.html#afc5208979ec0ce81e2bb88b3bd429012", null ],
+    [ "PrepareAuraScript", "d2/d64/a24771.html#a9eebffe3b716f7de63bfd6617e6ecf3b", null ],
+    [ "Register", "d2/d64/a24771.html#a1f364414b053ffc92c2a219b713e8c38", null ],
+    [ "Validate", "d2/d64/a24771.html#a12912ba28210850b8bc0b568357794af", null ]
 ];

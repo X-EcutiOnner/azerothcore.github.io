@@ -1,17 +1,12 @@
 var a30263 =
 [
-    [ "IntermediateValues", "d1/d49/a30263.html#adaa52f94036d068f48843be78544ea28", null ],
-    [ "~IntermediateValues", "d1/d49/a30263.html#ae32f71ccdd0ceae28fcbf3502ae1935b", null ],
-    [ "debugWrite", "d1/d49/a30263.html#a5f49b8fa815abb24d0b4902936478738", null ],
-    [ "debugWrite", "d1/d49/a30263.html#a9946cab3804d9c53165d27d8960bd4c6", null ],
-    [ "debugWrite", "d1/d49/a30263.html#a962526b1a64ecd73a1c1ddb408ec41d2", null ],
-    [ "debugWrite", "d1/d49/a30263.html#a6affbebfb3bf252ad9c608f6b772a7a4", null ],
-    [ "debugWrite", "d1/d49/a30263.html#ac50648c10a0154b8204722d11cdd63ed", null ],
-    [ "generateObjFile", "d1/d49/a30263.html#a0789235bd020d359060e919a65851646", null ],
-    [ "writeIV", "d1/d49/a30263.html#af5705f3d1e43dd4439be25e66b1c2cf3", null ],
-    [ "compactHeightfield", "d1/d49/a30263.html#a30baa88eb8e4c1516cdd1bfef5c071b3", null ],
-    [ "contours", "d1/d49/a30263.html#a953e628c47f2be3694fa43df091c1da8", null ],
-    [ "heightfield", "d1/d49/a30263.html#a947a3a6873c619bfdc1a99da670a95bd", null ],
-    [ "polyMesh", "d1/d49/a30263.html#affddc2891e1c0f4d7e3d649fd6135baf", null ],
-    [ "polyMeshDetail", "d1/d49/a30263.html#aa4ecc0e4895fa6442a955d8d5e8146bd", null ]
+    [ "cellSizeHorizontal", "d1/d49/a30263.html#a5356c03dab90621b69de7a79ed4ab195", null ],
+    [ "cellSizeVertical", "d1/d49/a30263.html#a47b5a920afa39ae27a80241d58f152a3", null ],
+    [ "tileOverrides", "d1/d49/a30263.html#a129437291e75a919e4158bf1df0f7f0a", null ],
+    [ "vertexPerMapEdge", "d1/d49/a30263.html#a9d32da8787f54a7dadb86458319e0238", null ],
+    [ "vertexPerTileEdge", "d1/d49/a30263.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
+    [ "walkableClimb", "d1/d49/a30263.html#a2bd854b374d67d53b03a7bacf0785726", null ],
+    [ "walkableHeight", "d1/d49/a30263.html#a1de27edad5c45f8033ce74352c563f52", null ],
+    [ "walkableRadius", "d1/d49/a30263.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
+    [ "walkableSlopeAngle", "d1/d49/a30263.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
 ];

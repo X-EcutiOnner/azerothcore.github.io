@@ -380,7 +380,7 @@ template&lt;class T &gt; </div>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  470</span>{</div>
-<div class="line"><span class="lineno">  471</span>    std::string configTempDir = <a class="code hl_define" href="../../d3/d6b/a31179.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;TempDir&quot;</span>, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">  471</span>    std::string configTempDir = <a class="code hl_define" href="../../df/d2f/a31187.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;TempDir&quot;</span>, <span class="stringliteral">&quot;&quot;</span>);</div>
 <div class="line"><span class="lineno">  472</span> </div>
 <div class="line"><span class="lineno">  473</span>    <span class="keyword">auto</span> tempDir = configTempDir.empty() ? std::filesystem::temp_directory_path().string() : configTempDir;</div>
 <div class="line"><span class="lineno">  474</span> </div>
@@ -456,9 +456,9 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  544</span>        <span class="comment">// remaining files and this count is the only thing left to fail the run on.</span></div>
 <div class="line"><span class="lineno">  545</span>        <a class="code hl_function" href="../../d4/d36/a06279.html#a99eb37994b14f350308d174d1c04c7fe">DBUpdaterUtil::MarkUpdateFailed</a>();</div>
 <div class="line"><span class="lineno">  546</span> </div>
-<div class="line"><span class="lineno">  547</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../d3/d6b/a31179.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;isDryRun())</div>
+<div class="line"><span class="lineno">  547</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../df/d2f/a31187.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;isDryRun())</div>
 <div class="line"><span class="lineno">  548</span>        {</div>
-<div class="line"><span class="lineno">  549</span>            <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> delay = <a class="code hl_define" href="../../d3/d6b/a31179.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(<span class="stringliteral">&quot;Updates.ExceptionShutdownDelay&quot;</span>, 10000))</div>
+<div class="line"><span class="lineno">  549</span>            <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> delay = <a class="code hl_define" href="../../df/d2f/a31187.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(<span class="stringliteral">&quot;Updates.ExceptionShutdownDelay&quot;</span>, 10000))</div>
 <div class="line"><span class="lineno">  550</span>                std::this_thread::sleep_for(<a class="code hl_typedef" href="../../d2/dc8/a00242.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>(delay));</div>
 <div class="line"><span class="lineno">  551</span> </div>
 <div class="line"><span class="lineno">  552</span>            <span class="keywordflow">throw</span> <a class="code hl_class" href="../../dd/d51/a06275.html">UpdateException</a>(<span class="stringliteral">&quot;update failed&quot;</span>);</div>
@@ -473,7 +473,7 @@ template&lt;class T &gt; </div>
 <div class="ttc" id="aa06275_html"><div class="ttname"><a href="../../dd/d51/a06275.html">UpdateException</a></div><div class="ttdef"><b>Definition:</b> DBUpdater.h:39</div></div>
 <div class="ttc" id="aa06279_html_a8ab8efffe5408f97f438e06766f65ec9"><div class="ttname"><a href="../../d4/d36/a06279.html#a8ab8efffe5408f97f438e06766f65ec9">DBUpdaterUtil::GetCorrectedMySQLExecutable</a></div><div class="ttdeci">static std::string GetCorrectedMySQLExecutable()</div><div class="ttdef"><b>Definition:</b> DBUpdater.cpp:32</div></div>
 <div class="ttc" id="aa06279_html_a99eb37994b14f350308d174d1c04c7fe"><div class="ttname"><a href="../../d4/d36/a06279.html#a99eb37994b14f350308d174d1c04c7fe">DBUpdaterUtil::MarkUpdateFailed</a></div><div class="ttdeci">static void MarkUpdateFailed()</div><div class="ttdef"><b>Definition:</b> DBUpdater.cpp:73</div></div>
-<div class="ttc" id="aa31179_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d3/d6b/a31179.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
+<div class="ttc" id="aa31187_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../df/d2f/a31187.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00073">Acore::String::AddSuffixIfNotExists()</a>, <a class="el" href="../../#l00048">MySQLConnectionInfo::database</a>, <a class="el" href="../../#l00071">DatabaseWorkerPool&lt; T &gt;::GetConnectionInfo()</a>, <a class="el" href="../../#l00032">DBUpdaterUtil::GetCorrectedMySQLExecutable()</a>, <a class="el" href="../../#l00141">LOG_FATAL</a>, <a class="el" href="../../#l00073">DBUpdaterUtil::MarkUpdateFailed()</a>, <a class="el" href="../../#l00093">sConfigMgr</a>, and <a class="el" href="../../#l00169">Acore::StartProcess()</a>.</p>
 
@@ -509,7 +509,7 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  193</span> </div>
 <div class="line"><span class="lineno">  194</span>    <span class="keywordtype">char</span> <span class="keyword">const</span>* disableInteractive = std::getenv(<span class="stringliteral">&quot;AC_DISABLE_INTERACTIVE&quot;</span>);</div>
 <div class="line"><span class="lineno">  195</span> </div>
-<div class="line"><span class="lineno">  196</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../d3/d6b/a31179.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;isDryRun() &amp;&amp; (disableInteractive == <span class="keyword">nullptr</span> || std::strcmp(disableInteractive, <span class="stringliteral">&quot;1&quot;</span>) != 0))</div>
+<div class="line"><span class="lineno">  196</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../df/d2f/a31187.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;isDryRun() &amp;&amp; (disableInteractive == <span class="keyword">nullptr</span> || std::strcmp(disableInteractive, <span class="stringliteral">&quot;1&quot;</span>) != 0))</div>
 <div class="line"><span class="lineno">  197</span>    {</div>
 <div class="line"><span class="lineno">  198</span>        std::cout &lt;&lt; <span class="stringliteral">&quot;Do you want to create it? [yes (default) / no]:&quot;</span> &lt;&lt; std::endl;</div>
 <div class="line"><span class="lineno">  199</span>        std::string answer;</div>
@@ -1294,10 +1294,10 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  289</span>    <span class="keywordflow">try</span></div>
 <div class="line"><span class="lineno">  290</span>    {</div>
 <div class="line"><span class="lineno">  291</span>        result = updateFetcher.Update(</div>
-<div class="line"><span class="lineno">  292</span>                     <a class="code hl_define" href="../../d3/d6b/a31179.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<span class="keywordtype">bool</span>&gt;(<span class="stringliteral">&quot;Updates.Redundancy&quot;</span>, <span class="keyword">true</span>),</div>
-<div class="line"><span class="lineno">  293</span>                     <a class="code hl_define" href="../../d3/d6b/a31179.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<span class="keywordtype">bool</span>&gt;(<span class="stringliteral">&quot;Updates.AllowRehash&quot;</span>, <span class="keyword">true</span>),</div>
-<div class="line"><span class="lineno">  294</span>                     <a class="code hl_define" href="../../d3/d6b/a31179.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<span class="keywordtype">bool</span>&gt;(<span class="stringliteral">&quot;Updates.ArchivedRedundancy&quot;</span>, <span class="keyword">false</span>),</div>
-<div class="line"><span class="lineno">  295</span>                     <a class="code hl_define" href="../../d3/d6b/a31179.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d8/ddd/a00380.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<span class="stringliteral">&quot;Updates.CleanDeadRefMaxCount&quot;</span>, 3));</div>
+<div class="line"><span class="lineno">  292</span>                     <a class="code hl_define" href="../../df/d2f/a31187.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<span class="keywordtype">bool</span>&gt;(<span class="stringliteral">&quot;Updates.Redundancy&quot;</span>, <span class="keyword">true</span>),</div>
+<div class="line"><span class="lineno">  293</span>                     <a class="code hl_define" href="../../df/d2f/a31187.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<span class="keywordtype">bool</span>&gt;(<span class="stringliteral">&quot;Updates.AllowRehash&quot;</span>, <span class="keyword">true</span>),</div>
+<div class="line"><span class="lineno">  294</span>                     <a class="code hl_define" href="../../df/d2f/a31187.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<span class="keywordtype">bool</span>&gt;(<span class="stringliteral">&quot;Updates.ArchivedRedundancy&quot;</span>, <span class="keyword">false</span>),</div>
+<div class="line"><span class="lineno">  295</span>                     <a class="code hl_define" href="../../df/d2f/a31187.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d8/ddd/a00380.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<span class="stringliteral">&quot;Updates.CleanDeadRefMaxCount&quot;</span>, 3));</div>
 <div class="line"><span class="lineno">  296</span>    }</div>
 <div class="line"><span class="lineno">  297</span>    <span class="keywordflow">catch</span> (<a class="code hl_class" href="../../dd/d51/a06275.html">UpdateException</a>&amp;)</div>
 <div class="line"><span class="lineno">  298</span>    {</div>
@@ -1407,10 +1407,10 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  359</span>    <span class="keywordflow">try</span></div>
 <div class="line"><span class="lineno">  360</span>    {</div>
 <div class="line"><span class="lineno">  361</span>        result = updateFetcher.Update(</div>
-<div class="line"><span class="lineno">  362</span>                     <a class="code hl_define" href="../../d3/d6b/a31179.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<span class="keywordtype">bool</span>&gt;(<span class="stringliteral">&quot;Updates.Redundancy&quot;</span>, <span class="keyword">true</span>),</div>
-<div class="line"><span class="lineno">  363</span>                     <a class="code hl_define" href="../../d3/d6b/a31179.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<span class="keywordtype">bool</span>&gt;(<span class="stringliteral">&quot;Updates.AllowRehash&quot;</span>, <span class="keyword">true</span>),</div>
-<div class="line"><span class="lineno">  364</span>                     <a class="code hl_define" href="../../d3/d6b/a31179.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<span class="keywordtype">bool</span>&gt;(<span class="stringliteral">&quot;Updates.ArchivedRedundancy&quot;</span>, <span class="keyword">false</span>),</div>
-<div class="line"><span class="lineno">  365</span>                     <a class="code hl_define" href="../../d3/d6b/a31179.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d8/ddd/a00380.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<span class="stringliteral">&quot;Updates.CleanDeadRefMaxCount&quot;</span>, 3));</div>
+<div class="line"><span class="lineno">  362</span>                     <a class="code hl_define" href="../../df/d2f/a31187.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<span class="keywordtype">bool</span>&gt;(<span class="stringliteral">&quot;Updates.Redundancy&quot;</span>, <span class="keyword">true</span>),</div>
+<div class="line"><span class="lineno">  363</span>                     <a class="code hl_define" href="../../df/d2f/a31187.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<span class="keywordtype">bool</span>&gt;(<span class="stringliteral">&quot;Updates.AllowRehash&quot;</span>, <span class="keyword">true</span>),</div>
+<div class="line"><span class="lineno">  364</span>                     <a class="code hl_define" href="../../df/d2f/a31187.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<span class="keywordtype">bool</span>&gt;(<span class="stringliteral">&quot;Updates.ArchivedRedundancy&quot;</span>, <span class="keyword">false</span>),</div>
+<div class="line"><span class="lineno">  365</span>                     <a class="code hl_define" href="../../df/d2f/a31187.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d8/ddd/a00380.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<span class="stringliteral">&quot;Updates.CleanDeadRefMaxCount&quot;</span>, 3));</div>
 <div class="line"><span class="lineno">  366</span>    }</div>
 <div class="line"><span class="lineno">  367</span>    <span class="keywordflow">catch</span> (<a class="code hl_class" href="../../dd/d51/a06275.html">UpdateException</a>&amp;)</div>
 <div class="line"><span class="lineno">  368</span>    {</div>
@@ -1430,7 +1430,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d4d/a06283.html">DBUpdater</a></li>
-    <li class="footer">Generated on Mon Aug 17 2026 20:58:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 24 2026 21:03:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

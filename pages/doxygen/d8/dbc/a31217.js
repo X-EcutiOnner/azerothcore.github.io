@@ -1,7 +1,8 @@
 var a31217 =
 [
-    [ "MPQArchive", "dc/d1b/a30175.html", "dc/d1b/a30175" ],
-    [ "MPQFile", "da/da3/a30179.html", "da/da3/a30179" ],
-    [ "ArchiveSet", "d8/dbc/a31217.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "d8/dbc/a31217.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "_ACORE_DB_IMPORT_CONFIG", "d8/dbc/a31217.html#a97392c73658eeeb49d256527b19ad90f", null ],
+    [ "GetConsoleArguments", "d8/dbc/a31217.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
+    [ "main", "d8/dbc/a31217.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
+    [ "StartDB", "d8/dbc/a31217.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
+    [ "StopDB", "d8/dbc/a31217.html#a927af1587546ee7503a3b9a18f6439c0", null ]
 ];

@@ -1,6 +1,6 @@
 var a21899 =
 [
-    [ "npc_spiritual_insightAI", "da/d98/a21899.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "da/d98/a21899.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "da/d98/a21899.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "npc_spiritual_insightAI", "d1/d0a/a21903.html", "d1/d0a/a21903" ],
+    [ "npc_spiritual_insight", "da/d98/a21899.html#afe7b9d5953462719407f03b33b8de564", null ],
+    [ "GetAI", "da/d98/a21899.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
 ];

@@ -1,6 +1,7 @@
 var a21163 =
 [
-    [ "HandleEffectPeriodic", "d7/d38/a21163.html#a35ad284954a023da2ed50d010fcf8946", null ],
-    [ "PrepareAuraScript", "d7/d38/a21163.html#a6835238f872248a76e386ded28340c81", null ],
-    [ "Register", "d7/d38/a21163.html#aba7eea4dbaff16d49f30165cdd29a3d4", null ]
+    [ "HandleEffectPeriodic", "d7/d38/a21163.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
+    [ "PrepareAuraScript", "d7/d38/a21163.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
+    [ "Register", "d7/d38/a21163.html#a74052d7da1523b3c4010465510e5fe04", null ],
+    [ "Validate", "d7/d38/a21163.html#a587a469c649877f80e8fe80062e8b5d4", null ]
 ];

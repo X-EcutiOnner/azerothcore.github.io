@@ -1,8 +1,8 @@
 var a20883 =
 [
-    [ "npc_scrapbot", "da/d7c/a20883.html#a088bac1bf5cb91be8f18368c08c5414a", null ],
-    [ "Reset", "da/d7c/a20883.html#a2dca509a6e2b46674165e5559717f69c", null ],
-    [ "UpdateAI", "da/d7c/a20883.html#ade90c75baf598900adaa300cef28cb6a", null ],
-    [ "_instance", "da/d7c/a20883.html#afb8296b4d9105ee99abc534656289ae2", null ],
-    [ "_scheduler", "da/d7c/a20883.html#a4deb841588ea244e4290bb8ffb69b483", null ]
+    [ "npc_xt002_heart", "da/d7c/a20883.html#aa4a3c9e4a66f1d6adab07282961685e9", null ],
+    [ "DoAction", "da/d7c/a20883.html#a3150ab74ea50c9de6d937b3271e782de", null ],
+    [ "JustDied", "da/d7c/a20883.html#a4f62cabc74ad43cf53f2257902982dff", null ],
+    [ "Reset", "da/d7c/a20883.html#a0b60b84d9fc0abcb44d3f432420a7865", null ],
+    [ "_instance", "da/d7c/a20883.html#a90edf95809c2d8a25b3f75526d2d3db7", null ]
 ];

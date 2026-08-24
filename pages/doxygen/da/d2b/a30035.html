@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellProcPipelineTest Class Reference</title>
+<title>AzerothCore: SpellProcCoverageStatsTest Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,11 +108,11 @@ $(document).ready(function(){initNavTree('da/d2b/a30035.html','../../'); initRes
 <a href="#pro-methods">Protected Member Functions</a> &#124;
 <a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="../../d6/dc9/a30032.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellProcPipelineTest Class Reference</div></div>
+  <div class="headertitle"><div class="title">SpellProcCoverageStatsTest Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="dynheader">
-Inheritance diagram for SpellProcPipelineTest:</div>
+Inheritance diagram for SpellProcCoverageStatsTest:</div>
 <div class="dyncontent">
  <div class="center">
   <img src="../../da/d2b/a30035.png" alt=""/>
@@ -120,18 +120,18 @@ Inheritance diagram for SpellProcPipelineTest:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
-<tr class="memitem:a00b4e88a208a6e930244a37d4257d971"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a30035.html#a00b4e88a208a6e930244a37d4257d971">SetUp</a> () override</td></tr>
-<tr class="separator:a00b4e88a208a6e930244a37d4257d971"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3619a9661686511df0868c65b9099c9f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a30035.html#a3619a9661686511df0868c65b9099c9f">SetUp</a> () override</td></tr>
+<tr class="separator:a3619a9661686511df0868c65b9099c9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
 Protected Attributes</h2></td></tr>
-<tr class="memitem:a39b6b0e42a22735909b0edf6de29d5f1"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../df/de7/a29671.html">ProcTestScenario</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a30035.html#a39b6b0e42a22735909b0edf6de29d5f1">_scenario</a></td></tr>
-<tr class="separator:a39b6b0e42a22735909b0edf6de29d5f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6f2997373f401c494a4a4fb1677b82af"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d2/d3a/a30067.html">SpellProcTestEntry</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a30035.html#a6f2997373f401c494a4a4fb1677b82af">_allEntries</a></td></tr>
+<tr class="separator:a6f2997373f401c494a4a4fb1677b82af"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a00b4e88a208a6e930244a37d4257d971" name="a00b4e88a208a6e930244a37d4257d971"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a00b4e88a208a6e930244a37d4257d971">&#9670;&#160;</a></span>SetUp()</h2>
+<a id="a3619a9661686511df0868c65b9099c9f" name="a3619a9661686511df0868c65b9099c9f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3619a9661686511df0868c65b9099c9f">&#9670;&#160;</a></span>SetUp()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -140,7 +140,7 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void SpellProcPipelineTest::SetUp </td>
+          <td class="memname">void SpellProcCoverageStatsTest::SetUp </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -152,18 +152,19 @@ Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   43</span>    {</div>
-<div class="line"><span class="lineno">   44</span>        <a class="code hl_variable" href="../../da/d2b/a30035.html#a39b6b0e42a22735909b0edf6de29d5f1">_scenario</a> = std::make_unique&lt;ProcTestScenario&gt;();</div>
-<div class="line"><span class="lineno">   45</span>    }</div>
-<div class="ttc" id="aa30035_html_a39b6b0e42a22735909b0edf6de29d5f1"><div class="ttname"><a href="../../da/d2b/a30035.html#a39b6b0e42a22735909b0edf6de29d5f1">SpellProcPipelineTest::_scenario</a></div><div class="ttdeci">std::unique_ptr&lt; ProcTestScenario &gt; _scenario</div><div class="ttdef"><b>Definition:</b> SpellProcPipelineTest.cpp:47</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  373</span>    {</div>
+<div class="line"><span class="lineno">  374</span>        <a class="code hl_variable" href="../../da/d2b/a30035.html#a6f2997373f401c494a4a4fb1677b82af">_allEntries</a> = <a class="code hl_function" href="../../d3/d2c/a00764.html#a39025d5b336e745566f739e9d1f68e78">GetAllSpellProcTestEntries</a>();</div>
+<div class="line"><span class="lineno">  375</span>    }</div>
+<div class="ttc" id="aa00764_html_a39025d5b336e745566f739e9d1f68e78"><div class="ttname"><a href="../../d3/d2c/a00764.html#a39025d5b336e745566f739e9d1f68e78">GetAllSpellProcTestEntries</a></div><div class="ttdeci">std::vector&lt; SpellProcTestEntry &gt; GetAllSpellProcTestEntries()</div><div class="ttdoc">All spell_proc entries from the database Total: 869 entries.</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:106</div></div>
+<div class="ttc" id="aa30035_html_a6f2997373f401c494a4a4fb1677b82af"><div class="ttname"><a href="../../da/d2b/a30035.html#a6f2997373f401c494a4a4fb1677b82af">SpellProcCoverageStatsTest::_allEntries</a></div><div class="ttdeci">std::vector&lt; SpellProcTestEntry &gt; _allEntries</div><div class="ttdef"><b>Definition:</b> SpellProcFullCoverageTest.cpp:377</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00047">_scenario</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00377">_allEntries</a>, and <a class="el" href="../../#l00106">GetAllSpellProcTestEntries()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a39b6b0e42a22735909b0edf6de29d5f1" name="a39b6b0e42a22735909b0edf6de29d5f1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a39b6b0e42a22735909b0edf6de29d5f1">&#9670;&#160;</a></span>_scenario</h2>
+<a id="a6f2997373f401c494a4a4fb1677b82af" name="a6f2997373f401c494a4a4fb1677b82af"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6f2997373f401c494a4a4fb1677b82af">&#9670;&#160;</a></span>_allEntries</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -172,7 +173,7 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../df/de7/a29671.html">ProcTestScenario</a>&gt; SpellProcPipelineTest::_scenario</td>
+          <td class="memname">std::vector&lt;<a class="el" href="../../d2/d3a/a30067.html">SpellProcTestEntry</a>&gt; SpellProcCoverageStatsTest::_allEntries</td>
         </tr>
       </table>
   </td>
@@ -182,7 +183,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00042">SetUp()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00372">SetUp()</a>.</p>
 
 </div>
 </div>
@@ -191,8 +192,8 @@ Protected Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/d2b/a30035.html">SpellProcPipelineTest</a></li>
-    <li class="footer">Generated on Mon Aug 17 2026 21:00:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../da/d2b/a30035.html">SpellProcCoverageStatsTest</a></li>
+    <li class="footer">Generated on Mon Aug 24 2026 21:04:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

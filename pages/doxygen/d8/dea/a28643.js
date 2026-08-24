@@ -1,6 +1,6 @@
 var a28643 =
 [
-    [ "npc_spring_rabbitAI", "de/d16/a28647.html", "de/d16/a28647" ],
-    [ "npc_spring_rabbit", "d8/dea/a28643.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "d8/dea/a28643.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "npc_fireworkAI", "de/d16/a28647.html", "de/d16/a28647" ],
+    [ "npc_firework", "d8/dea/a28643.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "d8/dea/a28643.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

@@ -1,7 +1,8 @@
 var a26599 =
 [
-    [ "CheckProc", "d6/dbe/a26599.html#a4aadc249b5c568b5317c4eb41abeb6b4", null ],
-    [ "PrepareAuraScript", "d6/dbe/a26599.html#acc3d194b3f23ecfe42c40d011c957138", null ],
-    [ "Register", "d6/dbe/a26599.html#a0b104698a7c763bee1af656e127591bd", null ],
-    [ "Validate", "d6/dbe/a26599.html#a493e63aafcbfd4279cabe91aaa21cee2", null ]
+    [ "OnRemove", "d6/dbe/a26599.html#a992c78ac4ce2a94c4f38c7a81f2a9c45", null ],
+    [ "PrepareAuraScript", "d6/dbe/a26599.html#ad06dbe9207315484cbb886fcc75bb958", null ],
+    [ "PrepareProc", "d6/dbe/a26599.html#a2f4b562be28420d25d09b81ad72af17f", null ],
+    [ "Register", "d6/dbe/a26599.html#a04d9c48f8842392a4d318677537ac248", null ],
+    [ "Validate", "d6/dbe/a26599.html#ab15a75ec708d8c683166bd73fab29701", null ]
 ];

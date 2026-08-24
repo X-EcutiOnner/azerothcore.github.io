@@ -1,6 +1,7 @@
 var a21823 =
 [
-    [ "npc_heated_battleAI", "d9/dbe/a21827.html", "d9/dbe/a21827" ],
-    [ "npc_heated_battle", "d8/d27/a21823.html#aceafde04a60940c1027a6e838ffdc137", null ],
-    [ "GetAI", "d8/d27/a21823.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
+    [ "CheckRequirement", "d8/d27/a21823.html#a41beb2c890137328734d6adb14e08302", null ],
+    [ "PrepareSpellScript", "d8/d27/a21823.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
+    [ "Register", "d8/d27/a21823.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
+    [ "SetDest", "d8/d27/a21823.html#a431a556ab73f91ed63f5983e537834a5", null ]
 ];

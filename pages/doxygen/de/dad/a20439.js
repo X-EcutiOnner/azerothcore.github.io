@@ -1,31 +1,5 @@
 var a20439 =
 [
-    [ "boss_hodir", "de/dad/a20439.html#a054fe2dcd8480d3d0b50ce2776e64194", null ],
-    [ "CanAIAttack", "de/dad/a20439.html#a6d12ec37b287d5e283f3207593435d60", null ],
-    [ "DamageTaken", "de/dad/a20439.html#a388eaf944b07001390f4f1796a8918b7", null ],
-    [ "DoAction", "de/dad/a20439.html#af12f631de82a8668d77728ccb7ace4f1", null ],
-    [ "DoHelperVictoryEmotes", "de/dad/a20439.html#a60b899abe9b1ab2c04be675d3ce54f68", null ],
-    [ "GetData", "de/dad/a20439.html#a35dd93db8580c4b8a971f129e3fd3827", null ],
-    [ "GetHardmodeChest", "de/dad/a20439.html#a4e075098d5ae6f553efcac0b76e777b5", null ],
-    [ "GetHelper", "de/dad/a20439.html#a7cdb38932e616696f96008c321f9189c", null ],
-    [ "JustEngagedWith", "de/dad/a20439.html#a9ac83d7503d1f4703ea022bdcf52fcde", null ],
-    [ "JustExitedCombat", "de/dad/a20439.html#ad75b72b5e045121ea6ba601aa2291443", null ],
-    [ "KilledUnit", "de/dad/a20439.html#a95f6ef35af40713c02c7f52b05bf9c11", null ],
-    [ "MoveInLineOfSight", "de/dad/a20439.html#afdaf742fe150b4d58a596c5be52ae00d", null ],
-    [ "Reset", "de/dad/a20439.html#a31c3693cdf73d684a5a39963ff5a4121", null ],
-    [ "SetData", "de/dad/a20439.html#abb26187af8b74a3564b1208d9d4d6518", null ],
-    [ "SmallIcicles", "de/dad/a20439.html#ac7f18efccc5bdf3802ca264b31ddc4f0", null ],
-    [ "SpawnHelpers", "de/dad/a20439.html#a33f6771817e47bda0fc2067a40258cc1", null ],
-    [ "SpellHit", "de/dad/a20439.html#a319c9a0bb8e9771b8fb89df5055628ef", null ],
-    [ "SpellHitTarget", "de/dad/a20439.html#a6196c82c6e23563f91a8b149cacbef04", null ],
-    [ "UpdateAI", "de/dad/a20439.html#a0fb16b675ef36f3453cb78adcecdf00f", null ],
-    [ "addSpawnTimer", "de/dad/a20439.html#a90af0893d62f1e71067a356de64e7fc2", null ],
-    [ "bAchievCacheRare", "de/dad/a20439.html#a9e82c04f57105550e3c21c66d98829f5", null ],
-    [ "bAchievCheese", "de/dad/a20439.html#af1faea8be0fe1468f6f313ea143501cf", null ],
-    [ "bAchievCoolestFriends", "de/dad/a20439.html#a42f8a10a8b148d9f0bfd9eb943a15f03", null ],
-    [ "bAchievGettingCold", "de/dad/a20439.html#af9d9bedc4f11ce4fe264fe77afd7e717", null ],
-    [ "berserk", "de/dad/a20439.html#a918879c9b92e410ebe14b9be24a86a11", null ],
-    [ "ENTRANCE_DOOR", "de/dad/a20439.html#aca3d3a6e9270504e480fea9e0b0e6eca", null ],
-    [ "EXIT_DOOR", "de/dad/a20439.html#a915932a765429de58135aca9568de88a", null ],
-    [ "Helpers", "de/dad/a20439.html#aa0d0e0eb72500f5c99285fcf90a727c0", null ]
+    [ "id", "de/dad/a20439.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "pos", "de/dad/a20439.html#aeca90e17f8b6f5b40f0f703ef9fe2b73", null ]
 ];

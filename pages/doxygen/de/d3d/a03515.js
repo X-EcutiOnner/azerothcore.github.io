@@ -1,12 +1,12 @@
 var a03515 =
 [
-    [ "boss_kelthuzad", "dc/d3c/a19543.html", "dc/d3c/a19543" ],
-    [ "boss_kelthuzad::boss_kelthuzadAI", "d7/daa/a19547.html", "d7/daa/a19547" ],
-    [ "boss_kelthuzad_minion", "d7/d4d/a19551.html", "d7/d4d/a19551" ],
-    [ "boss_kelthuzad_minion::boss_kelthuzad_minionAI", "d5/d6b/a19555.html", "d5/d6b/a19555" ],
-    [ "spell_kelthuzad_frost_blast", "db/d24/a19559.html", "db/d24/a19559" ],
-    [ "spell_kelthuzad_detonate_mana_aura", "dd/db5/a19563.html", "dd/db5/a19563" ],
-    [ "spell_kelthuzad_void_blast", "d5/dea/a19567.html", "d5/dea/a19567" ],
+    [ "boss_kelthuzad", "d7/daa/a19547.html", "d7/daa/a19547" ],
+    [ "boss_kelthuzad::boss_kelthuzadAI", "d7/d4d/a19551.html", "d7/d4d/a19551" ],
+    [ "boss_kelthuzad_minion", "d5/d6b/a19555.html", "d5/d6b/a19555" ],
+    [ "boss_kelthuzad_minion::boss_kelthuzad_minionAI", "db/d24/a19559.html", "db/d24/a19559" ],
+    [ "spell_kelthuzad_frost_blast", "dd/db5/a19563.html", "dd/db5/a19563" ],
+    [ "spell_kelthuzad_detonate_mana_aura", "d5/dea/a19567.html", "d5/dea/a19567" ],
+    [ "spell_kelthuzad_void_blast", "d2/d8a/a19571.html", "d2/d8a/a19571" ],
     [ "Event", "de/d3d/a03515.html#a5667b805d857c6d28f83f6038a0272d3", [
       [ "EVENT_SUMMON_SOLDIER", "de/d3d/a03515.html#a5667b805d857c6d28f83f6038a0272d3a84eac75e4274b66a6397ab6c0d0f98f7", null ],
       [ "EVENT_SUMMON_UNSTOPPABLE_ABOMINATION", "de/d3d/a03515.html#a5667b805d857c6d28f83f6038a0272d3af49aa46c23f4eecfc8d7ec8de4ce7d8d", null ],

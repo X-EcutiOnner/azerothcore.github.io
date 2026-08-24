@@ -1,7 +1,11 @@
 var a22755 =
 [
-    [ "HandleOnHit", "dc/d82/a22755.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "dc/d82/a22755.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "dc/d82/a22755.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "dc/d82/a22755.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "boss_murmur", "dc/d82/a22755.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
+    [ "CastSuppressionOOC", "dc/d82/a22755.html#aab66339a7436c3c483297b25f6859558", null ],
+    [ "DamageTaken", "dc/d82/a22755.html#a6446fe6c0ae5ece0cd70c8d9dbccb0f5", null ],
+    [ "EnterEvadeMode", "dc/d82/a22755.html#aa0f549c83a92302ece2323c75dd29acc", null ],
+    [ "JustEngagedWith", "dc/d82/a22755.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
+    [ "Reset", "dc/d82/a22755.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
+    [ "SetGUID", "dc/d82/a22755.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
+    [ "ShouldCastResonance", "dc/d82/a22755.html#ade07217a85655a513d7a472d24589691", null ]
 ];

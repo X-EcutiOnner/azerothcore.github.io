@@ -1,7 +1,7 @@
 var a23391 =
 [
-    [ "HandleScriptEffect", "db/d41/a23391.html#ad5e905710a20436f120c979c865571c9", null ],
-    [ "PrepareSpellScript", "db/d41/a23391.html#ab44aa98f47162b50f30622d67ac75395", null ],
-    [ "Register", "db/d41/a23391.html#ad4c2bf1a8556b6fb85c05d3c83494fed", null ],
-    [ "Validate", "db/d41/a23391.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2", null ]
+    [ "PeriodicTick", "db/d41/a23391.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
+    [ "PrepareAuraScript", "db/d41/a23391.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
+    [ "Register", "db/d41/a23391.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
+    [ "Validate", "db/d41/a23391.html#ade8d57db324f02734e1752f49976dc9d", null ]
 ];

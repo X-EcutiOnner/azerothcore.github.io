@@ -1,5 +1,5 @@
 var a21587 =
 [
-    [ "npc_nerubar_victim", "d5/d07/a21587.html#a218a0091d3dd5c237f49f7b2797c54d7", null ],
-    [ "JustDied", "d5/d07/a21587.html#a969b3f15d0017978e77d34131815c7e4", null ]
+    [ "npc_khunok_the_behemothAI", "d5/d07/a21587.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
+    [ "MoveInLineOfSight", "d5/d07/a21587.html#a5d54954a159da764aa7b83579e03688c", null ]
 ];

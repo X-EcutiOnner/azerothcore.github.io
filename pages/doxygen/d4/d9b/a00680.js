@@ -1,6 +1,6 @@
 var a00680 =
 [
-    [ "ArcanePotencyProcTest", "d1/d18/a29967.html", "d1/d18/a29967" ],
+    [ "ArcanePotencyProcTest", "d0/de8/a29975.html", "d0/de8/a29975" ],
     [ "BuildArcanePotencyProcEntry", "d4/d9b/a00680.html#afc51c074c8129f52f5f281f4d27c08e0", null ],
     [ "TEST_F", "d4/d9b/a00680.html#adcb3e2e59c18273567517073dba880f6", null ],
     [ "TEST_F", "d4/d9b/a00680.html#a1a5ddcb64a0c2f2bb55f53ac2405cd19", null ],

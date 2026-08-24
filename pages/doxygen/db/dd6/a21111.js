@@ -1,6 +1,6 @@
 var a21111 =
 [
-    [ "FilterTargets", "db/dd6/a21111.html#a8303045991c638e87c72940174f69a7f", null ],
-    [ "PrepareSpellScript", "db/dd6/a21111.html#a18fdfdfa7f90a903086902d249678565", null ],
-    [ "Register", "db/dd6/a21111.html#af8d3f834e06a543a96065102fa78bc5c", null ]
+    [ "HandleScript", "db/dd6/a21111.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
+    [ "PrepareSpellScript", "db/dd6/a21111.html#ab2a4155f6029850c61e84d7c180addae", null ],
+    [ "Register", "db/dd6/a21111.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
 ];

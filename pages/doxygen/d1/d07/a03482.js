@@ -1,6 +1,6 @@
 var a03482 =
 [
-    [ "boss_anubrekhan", "dc/d49/a19443.html", "dc/d49/a19443" ],
+    [ "boss_anubrekhan", "d0/df9/a19447.html", "d0/df9/a19447" ],
     [ "GuardSays", "d1/d07/a03482.html#a36f4d95de326f7b4132b469869110c12", [
       [ "EMOTE_SPAWN", "d1/d07/a03482.html#a36f4d95de326f7b4132b469869110c12ade276b5b81b86907f260bb442ccf97ed", null ],
       [ "EMOTE_SCARAB", "d1/d07/a03482.html#a36f4d95de326f7b4132b469869110c12a268b84956ae24cf9c5237ba0a2850f8f", null ]

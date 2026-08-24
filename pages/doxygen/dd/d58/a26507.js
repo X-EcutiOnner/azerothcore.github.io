@@ -1,6 +1,9 @@
 var a26507 =
 [
-    [ "CheckProc", "dd/d58/a26507.html#aa8a8c89cf55ab6796a81671d0312a481", null ],
-    [ "PrepareAuraScript", "dd/d58/a26507.html#a9c88f86a4edafda286725008ecfeab6c", null ],
-    [ "Register", "dd/d58/a26507.html#ad75f33c72dff282e4a8976c92e0b4e76", null ]
+    [ "HandleAfterCast", "dd/d58/a26507.html#afd2fbc51ac1e99789994021af36688f3", null ],
+    [ "HandleTriggerSpell", "dd/d58/a26507.html#ae140ab00101f081454b55e12a7c54440", null ],
+    [ "Load", "dd/d58/a26507.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
+    [ "PrepareSpellScript", "dd/d58/a26507.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
+    [ "Register", "dd/d58/a26507.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
+    [ "_triggerSpellId", "dd/d58/a26507.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
 ];

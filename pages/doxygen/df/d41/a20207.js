@@ -1,7 +1,6 @@
 var a20207 =
 [
-    [ "HandleScriptEffect", "df/d41/a20207.html#a96033c335117fa39e96a2dd70c44616a", null ],
-    [ "PrepareSpellScript", "df/d41/a20207.html#abf5f28d0fdb86a55b5b6f545a1fec633", null ],
-    [ "Register", "df/d41/a20207.html#a0acb0e31242fda06456081ef2937157e", null ],
-    [ "Validate", "df/d41/a20207.html#a648ce84276009cdee91c921b99193aea", null ]
+    [ "FilterTargets", "df/d41/a20207.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
+    [ "PrepareSpellScript", "df/d41/a20207.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
+    [ "Register", "df/d41/a20207.html#a4e803984a3eded2736825f631786c204", null ]
 ];

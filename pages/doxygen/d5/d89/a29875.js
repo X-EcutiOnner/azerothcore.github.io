@@ -1,12 +1,11 @@
 var a29875 =
 [
-    [ "TestVisibilityScript", "d5/d89/a29875.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
-    [ "EnsureRegistered", "d5/d89/a29875.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
-    [ "OnPlayerSetServerSideVisibility", "d5/d89/a29875.html#a6b3701188303b644b28a52ec42bec846", null ],
-    [ "Reset", "d5/d89/a29875.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
-    [ "CallCount", "d5/d89/a29875.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
-    [ "Instance", "d5/d89/a29875.html#adcf0326aa1e32db109ec920857868138", null ],
-    [ "LastPlayer", "d5/d89/a29875.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
-    [ "LastSecurity", "d5/d89/a29875.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
-    [ "LastType", "d5/d89/a29875.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
+    [ "SetUp", "d5/d89/a29875.html#a6905326495d9902c04075e1278ceee09", null ],
+    [ "TearDown", "d5/d89/a29875.html#a93922bbc8b0748ea2744da16bb9be908", null ],
+    [ "_map", "d5/d89/a29875.html#a7488073f59af18ddff83352153bce0f9", null ],
+    [ "_previousWorld", "d5/d89/a29875.html#a5098326e6ea76115910d5d87e9146106", null ],
+    [ "_snake", "d5/d89/a29875.html#a8fa5bbd89471aa9b332b27d2183b823d", null ],
+    [ "_targetA", "d5/d89/a29875.html#a57f036093e543f841c808380d3bb6708", null ],
+    [ "_targetB", "d5/d89/a29875.html#ae722aaab98cdbd47252f6b95df507679", null ],
+    [ "_worldMock", "d5/d89/a29875.html#ac4ea643a5b5a1e40790a254b2809c11b", null ]
 ];

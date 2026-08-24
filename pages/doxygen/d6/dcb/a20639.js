@@ -1,11 +1,22 @@
 var a20639 =
 [
-    [ "npc_ulduar_proximity_mine", "d6/dcb/a20639.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
-    [ "AttackStart", "d6/dcb/a20639.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
-    [ "CanAIAttack", "d6/dcb/a20639.html#a18311072271a18b279c5bf21f7da2482", null ],
-    [ "MoveInLineOfSight", "d6/dcb/a20639.html#a6a406f8098dac7038173f51e9f85a79b", null ],
-    [ "UpdateAI", "d6/dcb/a20639.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
-    [ "_exploded", "d6/dcb/a20639.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
-    [ "_timer", "d6/dcb/a20639.html#afe009de55826305826105bd29458d0eb", null ],
-    [ "_timer2", "d6/dcb/a20639.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
+    [ "npc_ulduar_aerial_command_unit", "d6/dcb/a20639.html#a7db419befea7054118ebd2b1d7835a38", null ],
+    [ "AttackStart", "d6/dcb/a20639.html#a215a0b1f8fdf50f3968289f78aa964c5", null ],
+    [ "DamageTaken", "d6/dcb/a20639.html#a63f7b08da3b96b12fb93e2366c4617b7", null ],
+    [ "DoAction", "d6/dcb/a20639.html#ac23cf431ec7b3f933631a2683329d0b5", null ],
+    [ "EnterEvadeMode", "d6/dcb/a20639.html#a5c3643f96efcfbc0272d906b083ef7a3", null ],
+    [ "JustSummoned", "d6/dcb/a20639.html#abfa255cbdd7b16a3586117fa16bb3f13", null ],
+    [ "KilledUnit", "d6/dcb/a20639.html#aeda020ce8ad0806463e2a06b9f054faf", null ],
+    [ "MoveInLineOfSight", "d6/dcb/a20639.html#a39e1f0e199f43e3c2018e49ef77cec4c", null ],
+    [ "Reset", "d6/dcb/a20639.html#a51a2ad26cba213816a207f7f69591b4a", null ],
+    [ "SetData", "d6/dcb/a20639.html#ab6fec2895372afbfed7cbba2e3a463d6", null ],
+    [ "SpellHit", "d6/dcb/a20639.html#a7dc2920a7ff1a7d8ad346626dafeb18b", null ],
+    [ "SummonedCreatureDespawn", "d6/dcb/a20639.html#a429da72273b2126452eef1e9b724b40b", null ],
+    [ "UpdateAI", "d6/dcb/a20639.html#a4ae899da49e9f03f3ea23559ccc2e561", null ],
+    [ "_events", "d6/dcb/a20639.html#a4832f888cc77613d99ff165e5bf47022", null ],
+    [ "_isDefeated", "d6/dcb/a20639.html#a8272d619675b54d454b825efdf1357e6", null ],
+    [ "_isEvading", "d6/dcb/a20639.html#a6976c445331a25cd2735e963a102157c", null ],
+    [ "_phase", "d6/dcb/a20639.html#a7947005a05430e9734db3cf14eac0d17", null ],
+    [ "_summons", "d6/dcb/a20639.html#ac961aedcde178320276eeaf0fa8a8675", null ],
+    [ "instance", "d6/dcb/a20639.html#a36f7e3b4228aca4adf092c14827fa072", null ]
 ];

@@ -1,7 +1,8 @@
 var a26155 =
 [
-    [ "HandleDummy", "df/d0c/a26155.html#aec0b2ad3b10f2ccbc755cf7278a5ed46", null ],
-    [ "PrepareSpellScript", "df/d0c/a26155.html#ac1ba0d23cbf805c234ac9d898f6bab85", null ],
-    [ "Register", "df/d0c/a26155.html#afd1588dc55730c52a922f37e60ec134a", null ],
-    [ "Validate", "df/d0c/a26155.html#aaed3ba3d986173b5941e048370d5ebe2", null ]
+    [ "HandleDummy", "df/d0c/a26155.html#ae5487bc9e4c7444468d076785af473ca", null ],
+    [ "Load", "df/d0c/a26155.html#a3bf16100687a002a0d3b95bea11dc90f", null ],
+    [ "PrepareSpellScript", "df/d0c/a26155.html#a8586b480a304f19741de62b606c9f456", null ],
+    [ "Register", "df/d0c/a26155.html#a4698eab378b8cf6d4aeb595b53a9df13", null ],
+    [ "Validate", "df/d0c/a26155.html#ab3e697ba71654bf9b67e1d1660b3a7ea", null ]
 ];

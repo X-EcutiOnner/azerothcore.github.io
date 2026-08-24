@@ -1,10 +1,12 @@
 var a23567 =
 [
-    [ "boss_blindeye_the_seer", "d5/d79/a23567.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
-    [ "JustDied", "d5/d79/a23567.html#ad70a72b18587da82d26bde8f10d63700", null ],
-    [ "JustEngagedWith", "d5/d79/a23567.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
-    [ "Reset", "d5/d79/a23567.html#aabbda75266615f64ce88ce092e68bfa4", null ],
-    [ "UpdateAI", "d5/d79/a23567.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
-    [ "_scheduler", "d5/d79/a23567.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
-    [ "instance", "d5/d79/a23567.html#a74462f26d66da3ca370825858060b1c2", null ]
+    [ "boss_olm_the_summoner", "d5/d79/a23567.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
+    [ "JustDied", "d5/d79/a23567.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
+    [ "JustEngagedWith", "d5/d79/a23567.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
+    [ "JustSummoned", "d5/d79/a23567.html#a546bede780b7d67b98ec251ae2e1b812", null ],
+    [ "Reset", "d5/d79/a23567.html#a8dcdc816276a1932612d554cff703a45", null ],
+    [ "UpdateAI", "d5/d79/a23567.html#a967f330966fdb29f26ab24e8f40d2152", null ],
+    [ "_scheduler", "d5/d79/a23567.html#a448ba3a88156e80eebad44585791ab21", null ],
+    [ "instance", "d5/d79/a23567.html#a8caabc31bb7a8548eb936c34c655df68", null ],
+    [ "summons", "d5/d79/a23567.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
 ];

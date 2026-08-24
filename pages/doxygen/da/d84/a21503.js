@@ -1,11 +1,12 @@
 var a21503 =
 [
-    [ "npc_vh_void_sentry", "da/d84/a21503.html#adeb66953fb7540aab5190b825ff98ec8", null ],
-    [ "DoAction", "da/d84/a21503.html#a37ed72c221f23cd653694c10d536eec4", null ],
-    [ "JustDied", "da/d84/a21503.html#aabf96934586d38d6f958c1571c0b3b56", null ],
-    [ "SummonedCreatureDespawn", "da/d84/a21503.html#aa0ac1eb51911672653ec6fd48d2ef316", null ],
-    [ "UpdateAI", "da/d84/a21503.html#a417af2ca21310ca105d7561e3ab21272", null ],
-    [ "_events", "da/d84/a21503.html#a30899a2d4d8a82b26251911dc3b48008", null ],
-    [ "_instance", "da/d84/a21503.html#a80dc77a2deaf0f922f3f096f40b253e1", null ],
-    [ "_summonedGuid", "da/d84/a21503.html#a223e85ca87d89c51d0bc02e00d591aec", null ]
+    [ "boss_zuramat", "da/d84/a21503.html#af033b96498fb71059701caad1fed8f8a", null ],
+    [ "EnterEvadeMode", "da/d84/a21503.html#a0d7ca9fe585e0dc87118c61ddc0dac84", null ],
+    [ "ExecuteEvent", "da/d84/a21503.html#a350f06b88af5444a0d4086434ddbe6f4", null ],
+    [ "JustDied", "da/d84/a21503.html#a1917921efc7a44c3cc3a799187c1718a", null ],
+    [ "JustEngagedWith", "da/d84/a21503.html#a4c448c8b51795943a6e746479f3ad121", null ],
+    [ "JustSummoned", "da/d84/a21503.html#a76c2de51333f57db6612effb92d07bd1", null ],
+    [ "KilledUnit", "da/d84/a21503.html#ae3f00d76928cbd6adf7882f4cccc0518", null ],
+    [ "MoveInLineOfSight", "da/d84/a21503.html#a6d46d73baf2c0b3c1706d9163564797f", null ],
+    [ "SummonedCreatureDespawn", "da/d84/a21503.html#afc8869687e9a6050cfee2c674ef7e7f1", null ]
 ];

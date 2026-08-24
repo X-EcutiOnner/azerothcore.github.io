@@ -1,7 +1,9 @@
 var a23967 =
 [
-    [ "boss_gatewatcher_iron_hand", "d1/ddc/a23967.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "d1/ddc/a23967.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "d1/ddc/a23967.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "d1/ddc/a23967.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "instance_the_eye_InstanceMapScript", "d1/ddc/a23967.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
+    [ "GetGuidData", "d1/ddc/a23967.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
+    [ "OnGameObjectCreate", "d1/ddc/a23967.html#a56c6933c2c231c228ca147107fbfc930", null ],
+    [ "BridgeWindowGUID", "d1/ddc/a23967.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
+    [ "KaelStateLeftGUID", "d1/ddc/a23967.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
+    [ "KaelStateRightGUID", "d1/ddc/a23967.html#a25ba703325800d2976eff860437f3d57", null ]
 ];

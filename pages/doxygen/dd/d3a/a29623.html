@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: HealInfoStub Class Reference</title>
+<title>AzerothCore: AuraStubBuilder Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,65 +108,50 @@ $(document).ready(function(){initNavTree('dd/d3a/a29623.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../de/df7/a29620.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">HealInfoStub Class Reference</div></div>
+  <div class="headertitle"><div class="title">AuraStubBuilder Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>Lightweight stub for <a class="el" href="../../d5/dd9/a09131.html">HealInfo</a>.  
+<p>Builder for creating <a class="el" href="../../d8/d73/a29615.html" title="Lightweight stub for Aura proc-related functionality.">AuraStub</a> instances with fluent API.  
  <a href="../../dd/d3a/a29623.html#details">More...</a></p>
 
-<p><code>#include &quot;<a class="el" href="../../">DamageHealInfoStub.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">AuraStub.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:afa2b7c6e93b387f16e2b545adc4fa05c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#afa2b7c6e93b387f16e2b545adc4fa05c">HealInfoStub</a> ()=default</td></tr>
-<tr class="separator:afa2b7c6e93b387f16e2b545adc4fa05c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae011c5a0f72cd5581e661793c3ac2fdc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#ae011c5a0f72cd5581e661793c3ac2fdc">HealInfoStub</a> (uint32_t heal, uint32_t effectiveHeal, uint32_t absorb, <a class="el" href="../../db/dc9/a11951.html">SpellInfo</a> const *spellInfo=nullptr)</td></tr>
-<tr class="separator:ae011c5a0f72cd5581e661793c3ac2fdc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae599d81216cbcaa69f206ac6eca6d886"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#ae599d81216cbcaa69f206ac6eca6d886">~HealInfoStub</a> ()=default</td></tr>
-<tr class="separator:ae599d81216cbcaa69f206ac6eca6d886"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abc0ad944af22920bc105b1b4c71ad467"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#abc0ad944af22920bc105b1b4c71ad467">GetHeal</a> () const</td></tr>
-<tr class="separator:abc0ad944af22920bc105b1b4c71ad467"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa19e94b9523f803f2af09fb77382f3c2"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#aa19e94b9523f803f2af09fb77382f3c2">GetEffectiveHeal</a> () const</td></tr>
-<tr class="separator:aa19e94b9523f803f2af09fb77382f3c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aae8cd0f206d4dbd78b56838cdb49dad6"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#aae8cd0f206d4dbd78b56838cdb49dad6">GetAbsorb</a> () const</td></tr>
-<tr class="separator:aae8cd0f206d4dbd78b56838cdb49dad6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5af3db6eed10c8b2cd17f0509f6085fa"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a5af3db6eed10c8b2cd17f0509f6085fa">GetOverheal</a> () const</td></tr>
-<tr class="separator:a5af3db6eed10c8b2cd17f0509f6085fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6dede4a2256ff21fde331ae05d257718"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a6dede4a2256ff21fde331ae05d257718">SetHeal</a> (uint32_t heal)</td></tr>
-<tr class="separator:a6dede4a2256ff21fde331ae05d257718"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad8c263f50edf324a72ca366f6caf4377"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#ad8c263f50edf324a72ca366f6caf4377">SetEffectiveHeal</a> (uint32_t effectiveHeal)</td></tr>
-<tr class="separator:ad8c263f50edf324a72ca366f6caf4377"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5f7988705654a3b6f460ddbbecb3992b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a5f7988705654a3b6f460ddbbecb3992b">SetAbsorb</a> (uint32_t absorb)</td></tr>
-<tr class="separator:a5f7988705654a3b6f460ddbbecb3992b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a05ce52ae6ea15c8043dfeae236466017"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dc9/a11951.html">SpellInfo</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a05ce52ae6ea15c8043dfeae236466017">GetSpellInfo</a> () const</td></tr>
-<tr class="separator:a05ce52ae6ea15c8043dfeae236466017"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2e5ac0bb798710d33e0ff4c29c8507a0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a2e5ac0bb798710d33e0ff4c29c8507a0">SetSpellInfo</a> (<a class="el" href="../../db/dc9/a11951.html">SpellInfo</a> const *spellInfo)</td></tr>
-<tr class="separator:a2e5ac0bb798710d33e0ff4c29c8507a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac110638d1729fae0ba6594d7f092d4b0"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#ac110638d1729fae0ba6594d7f092d4b0">GetHitMask</a> () const</td></tr>
-<tr class="separator:ac110638d1729fae0ba6594d7f092d4b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4f50475819621d56efd4e359ed004483"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a4f50475819621d56efd4e359ed004483">SetHitMask</a> (uint32_t hitMask)</td></tr>
-<tr class="separator:a4f50475819621d56efd4e359ed004483"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a534384a8763b8c95fab8158e83db2def"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a534384a8763b8c95fab8158e83db2def">AuraStubBuilder</a> ()</td></tr>
+<tr class="separator:a534384a8763b8c95fab8158e83db2def"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8dc59189364f6be82822588a47d32fd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d3a/a29623.html">AuraStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#aa8dc59189364f6be82822588a47d32fd">WithId</a> (uint32_t id)</td></tr>
+<tr class="separator:aa8dc59189364f6be82822588a47d32fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afa4a16fb9c020c568472102fff972408"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d3a/a29623.html">AuraStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#afa4a16fb9c020c568472102fff972408">WithSpellFamilyName</a> (uint32_t familyName)</td></tr>
+<tr class="separator:afa4a16fb9c020c568472102fff972408"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e11ce060ed827bfc2b72d2b26a6693b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d3a/a29623.html">AuraStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a0e11ce060ed827bfc2b72d2b26a6693b">WithCharges</a> (uint8_t charges)</td></tr>
+<tr class="separator:a0e11ce060ed827bfc2b72d2b26a6693b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac5c74952acab3c54a79e28355f423a8f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d3a/a29623.html">AuraStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#ac5c74952acab3c54a79e28355f423a8f">WithDuration</a> (int32_t duration)</td></tr>
+<tr class="separator:ac5c74952acab3c54a79e28355f423a8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a04b37ad66dde7b61695a80db00c9ab66"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d3a/a29623.html">AuraStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a04b37ad66dde7b61695a80db00c9ab66">WithStackAmount</a> (uint8_t amount)</td></tr>
+<tr class="separator:a04b37ad66dde7b61695a80db00c9ab66"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a056bd26636b67b54562306a42b3d7c3e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d3a/a29623.html">AuraStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a056bd26636b67b54562306a42b3d7c3e">WithPassive</a> (bool isPassive)</td></tr>
+<tr class="separator:a056bd26636b67b54562306a42b3d7c3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad25896a25811e0e563dcac1c46e77ff3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d3a/a29623.html">AuraStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#ad25896a25811e0e563dcac1c46e77ff3">WithEffect</a> (uint8_t effIndex, int32_t amount, uint32_t auraType=0)</td></tr>
+<tr class="separator:ad25896a25811e0e563dcac1c46e77ff3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93fd0ed97589e98446251f9b078a3f9d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d3a/a29623.html">AuraStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a93fd0ed97589e98446251f9b078a3f9d">WithPeriodicEffect</a> (uint8_t effIndex, int32_t amount, int32_t totalTicks)</td></tr>
+<tr class="separator:a93fd0ed97589e98446251f9b078a3f9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7d5b970e591a239849e42a0c444f62d4"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d8/d73/a29615.html">AuraStub</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a7d5b970e591a239849e42a0c444f62d4">Build</a> ()</td></tr>
+<tr class="separator:a7d5b970e591a239849e42a0c444f62d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d18b0c3762b471fba8cf895e9a07b50"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d73/a29615.html">AuraStub</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a6d18b0c3762b471fba8cf895e9a07b50">BuildRaw</a> ()</td></tr>
+<tr class="separator:a6d18b0c3762b471fba8cf895e9a07b50"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a44c86cf0c0d87d9ceb9574ced0990845"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a44c86cf0c0d87d9ceb9574ced0990845">_heal</a> = 0</td></tr>
-<tr class="separator:a44c86cf0c0d87d9ceb9574ced0990845"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aab54619f78456698c646d83ac448e1e2"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#aab54619f78456698c646d83ac448e1e2">_effectiveHeal</a> = 0</td></tr>
-<tr class="separator:aab54619f78456698c646d83ac448e1e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1b6726177d88f4da4b4fa36e96136711"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a1b6726177d88f4da4b4fa36e96136711">_absorb</a> = 0</td></tr>
-<tr class="separator:a1b6726177d88f4da4b4fa36e96136711"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2228ffd4334cc5adff51e67394d19de9"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a2228ffd4334cc5adff51e67394d19de9">_hitMask</a> = 0</td></tr>
-<tr class="separator:a2228ffd4334cc5adff51e67394d19de9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a94cd95b537e2510047da23a7f9176aa6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dc9/a11951.html">SpellInfo</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a94cd95b537e2510047da23a7f9176aa6">_spellInfo</a> = nullptr</td></tr>
-<tr class="separator:a94cd95b537e2510047da23a7f9176aa6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a22cc8b0309b64c1ecc482d77170a2b09"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d8/d73/a29615.html">AuraStub</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d3a/a29623.html#a22cc8b0309b64c1ecc482d77170a2b09">_stub</a></td></tr>
+<tr class="separator:a22cc8b0309b64c1ecc482d77170a2b09"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Lightweight stub for <a class="el" href="../../d5/dd9/a09131.html">HealInfo</a>. </p>
-<p >Mirrors the key fields of <a class="el" href="../../d5/dd9/a09131.html">HealInfo</a> for proc testing. </p>
+<div class="textblock"><p >Builder for creating <a class="el" href="../../d8/d73/a29615.html" title="Lightweight stub for Aura proc-related functionality.">AuraStub</a> instances with fluent API. </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="afa2b7c6e93b387f16e2b545adc4fa05c" name="afa2b7c6e93b387f16e2b545adc4fa05c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afa2b7c6e93b387f16e2b545adc4fa05c">&#9670;&#160;</a></span>HealInfoStub() <span class="overload">[1/2]</span></h2>
+<a id="a534384a8763b8c95fab8158e83db2def" name="a534384a8763b8c95fab8158e83db2def"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a534384a8763b8c95fab8158e83db2def">&#9670;&#160;</a></span>AuraStubBuilder()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -175,7 +160,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">HealInfoStub::HealInfoStub </td>
+          <td class="memname">AuraStubBuilder::AuraStubBuilder </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -183,15 +168,18 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
+<div class="fragment"><div class="line"><span class="lineno">  292</span>: <a class="code hl_variable" href="../../dd/d3a/a29623.html#a22cc8b0309b64c1ecc482d77170a2b09">_stub</a>(std::make_unique&lt;AuraStub&gt;()) {}</div>
+<div class="ttc" id="aa29623_html_a22cc8b0309b64c1ecc482d77170a2b09"><div class="ttname"><a href="../../dd/d3a/a29623.html#a22cc8b0309b64c1ecc482d77170a2b09">AuraStubBuilder::_stub</a></div><div class="ttdeci">std::unique_ptr&lt; AuraStub &gt; _stub</div><div class="ttdef"><b>Definition:</b> AuraStub.h:364</div></div>
+</div><!-- fragment -->
 </div>
 </div>
-<a id="ae011c5a0f72cd5581e661793c3ac2fdc" name="ae011c5a0f72cd5581e661793c3ac2fdc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae011c5a0f72cd5581e661793c3ac2fdc">&#9670;&#160;</a></span>HealInfoStub() <span class="overload">[2/2]</span></h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a7d5b970e591a239849e42a0c444f62d4" name="a7d5b970e591a239849e42a0c444f62d4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7d5b970e591a239849e42a0c444f62d4">&#9670;&#160;</a></span>Build()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -200,28 +188,152 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">HealInfoStub::HealInfoStub </td>
+          <td class="memname">std::unique_ptr&lt; <a class="el" href="../../d8/d73/a29615.html">AuraStub</a> &gt; AuraStubBuilder::Build </td>
           <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>heal</em>, </td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  354</span>    {</div>
+<div class="line"><span class="lineno">  355</span>        <span class="keywordflow">return</span> std::move(<a class="code hl_variable" href="../../dd/d3a/a29623.html#a22cc8b0309b64c1ecc482d77170a2b09">_stub</a>);</div>
+<div class="line"><span class="lineno">  356</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00364">_stub</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00277">TEST_F()</a>, and <a class="el" href="../../#l00193">TEST_P()</a>.</p>
+
+</div>
+</div>
+<a id="a6d18b0c3762b471fba8cf895e9a07b50" name="a6d18b0c3762b471fba8cf895e9a07b50"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6d18b0c3762b471fba8cf895e9a07b50">&#9670;&#160;</a></span>BuildRaw()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d73/a29615.html">AuraStub</a> * AuraStubBuilder::BuildRaw </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  359</span>    {</div>
+<div class="line"><span class="lineno">  360</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3a/a29623.html#a22cc8b0309b64c1ecc482d77170a2b09">_stub</a>.release();</div>
+<div class="line"><span class="lineno">  361</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00364">_stub</a>.</p>
+
+</div>
+</div>
+<a id="a0e11ce060ed827bfc2b72d2b26a6693b" name="a0e11ce060ed827bfc2b72d2b26a6693b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0e11ce060ed827bfc2b72d2b26a6693b">&#9670;&#160;</a></span>WithCharges()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d3a/a29623.html">AuraStubBuilder</a> &amp; AuraStubBuilder::WithCharges </td>
+          <td>(</td>
+          <td class="paramtype">uint8_t&#160;</td>
+          <td class="paramname"><em>charges</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  307</span>    {</div>
+<div class="line"><span class="lineno">  308</span>        <a class="code hl_variable" href="../../dd/d3a/a29623.html#a22cc8b0309b64c1ecc482d77170a2b09">_stub</a>-&gt;SetCharges(charges);</div>
+<div class="line"><span class="lineno">  309</span>        <a class="code hl_variable" href="../../dd/d3a/a29623.html#a22cc8b0309b64c1ecc482d77170a2b09">_stub</a>-&gt;SetUsingCharges(charges &gt; 0);</div>
+<div class="line"><span class="lineno">  310</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  311</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00364">_stub</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00277">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="ac5c74952acab3c54a79e28355f423a8f" name="ac5c74952acab3c54a79e28355f423a8f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac5c74952acab3c54a79e28355f423a8f">&#9670;&#160;</a></span>WithDuration()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d3a/a29623.html">AuraStubBuilder</a> &amp; AuraStubBuilder::WithDuration </td>
+          <td>(</td>
+          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramname"><em>duration</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  314</span>    {</div>
+<div class="line"><span class="lineno">  315</span>        <a class="code hl_variable" href="../../dd/d3a/a29623.html#a22cc8b0309b64c1ecc482d77170a2b09">_stub</a>-&gt;SetDuration(duration);</div>
+<div class="line"><span class="lineno">  316</span>        <a class="code hl_variable" href="../../dd/d3a/a29623.html#a22cc8b0309b64c1ecc482d77170a2b09">_stub</a>-&gt;SetMaxDuration(duration);</div>
+<div class="line"><span class="lineno">  317</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  318</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00364">_stub</a>.</p>
+
+</div>
+</div>
+<a id="ad25896a25811e0e563dcac1c46e77ff3" name="ad25896a25811e0e563dcac1c46e77ff3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad25896a25811e0e563dcac1c46e77ff3">&#9670;&#160;</a></span>WithEffect()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d3a/a29623.html">AuraStubBuilder</a> &amp; AuraStubBuilder::WithEffect </td>
+          <td>(</td>
+          <td class="paramtype">uint8_t&#160;</td>
+          <td class="paramname"><em>effIndex</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramname"><em>amount</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>effectiveHeal</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>absorb</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/dc9/a11951.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname"><em>spellInfo</em> = <code>nullptr</code>&#160;</td>
+          <td class="paramname"><em>auraType</em> = <code>0</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -235,20 +347,22 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  100</span>        : <a class="code hl_variable" href="../../dd/d3a/a29623.html#a44c86cf0c0d87d9ceb9574ced0990845">_heal</a>(heal)</div>
-<div class="line"><span class="lineno">  101</span>        , <a class="code hl_variable" href="../../dd/d3a/a29623.html#aab54619f78456698c646d83ac448e1e2">_effectiveHeal</a>(effectiveHeal)</div>
-<div class="line"><span class="lineno">  102</span>        , <a class="code hl_variable" href="../../dd/d3a/a29623.html#a1b6726177d88f4da4b4fa36e96136711">_absorb</a>(absorb)</div>
-<div class="line"><span class="lineno">  103</span>        , <a class="code hl_variable" href="../../dd/d3a/a29623.html#a94cd95b537e2510047da23a7f9176aa6">_spellInfo</a>(spellInfo)</div>
-<div class="line"><span class="lineno">  104</span>    {}</div>
-<div class="ttc" id="aa29623_html_a1b6726177d88f4da4b4fa36e96136711"><div class="ttname"><a href="../../dd/d3a/a29623.html#a1b6726177d88f4da4b4fa36e96136711">HealInfoStub::_absorb</a></div><div class="ttdeci">uint32_t _absorb</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:129</div></div>
-<div class="ttc" id="aa29623_html_a44c86cf0c0d87d9ceb9574ced0990845"><div class="ttname"><a href="../../dd/d3a/a29623.html#a44c86cf0c0d87d9ceb9574ced0990845">HealInfoStub::_heal</a></div><div class="ttdeci">uint32_t _heal</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:127</div></div>
-<div class="ttc" id="aa29623_html_a94cd95b537e2510047da23a7f9176aa6"><div class="ttname"><a href="../../dd/d3a/a29623.html#a94cd95b537e2510047da23a7f9176aa6">HealInfoStub::_spellInfo</a></div><div class="ttdeci">SpellInfo const  * _spellInfo</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:131</div></div>
-<div class="ttc" id="aa29623_html_aab54619f78456698c646d83ac448e1e2"><div class="ttname"><a href="../../dd/d3a/a29623.html#aab54619f78456698c646d83ac448e1e2">HealInfoStub::_effectiveHeal</a></div><div class="ttdeci">uint32_t _effectiveHeal</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:128</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  333</span>    {</div>
+<div class="line"><span class="lineno">  334</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d32/a29607.html">AuraEffectStub</a>* eff = <a class="code hl_variable" href="../../dd/d3a/a29623.html#a22cc8b0309b64c1ecc482d77170a2b09">_stub</a>-&gt;GetEffect(effIndex))</div>
+<div class="line"><span class="lineno">  335</span>        {</div>
+<div class="line"><span class="lineno">  336</span>            eff-&gt;SetAmount(amount);</div>
+<div class="line"><span class="lineno">  337</span>            eff-&gt;SetAuraType(auraType);</div>
+<div class="line"><span class="lineno">  338</span>        }</div>
+<div class="line"><span class="lineno">  339</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  340</span>    }</div>
+<div class="ttc" id="aa29607_html"><div class="ttname"><a href="../../d0/d32/a29607.html">AuraEffectStub</a></div><div class="ttdoc">Lightweight stub for AuraEffect proc-related functionality.</div><div class="ttdef"><b>Definition:</b> AuraStub.h:34</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00364">_stub</a>.</p>
+
 </div>
 </div>
-<a id="ae599d81216cbcaa69f206ac6eca6d886" name="ae599d81216cbcaa69f206ac6eca6d886"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae599d81216cbcaa69f206ac6eca6d886">&#9670;&#160;</a></span>~HealInfoStub()</h2>
+<a id="aa8dc59189364f6be82822588a47d32fd" name="aa8dc59189364f6be82822588a47d32fd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa8dc59189364f6be82822588a47d32fd">&#9670;&#160;</a></span>WithId()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -257,207 +371,10 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual HealInfoStub::~HealInfoStub </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="aae8cd0f206d4dbd78b56838cdb49dad6" name="aae8cd0f206d4dbd78b56838cdb49dad6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aae8cd0f206d4dbd78b56838cdb49dad6">&#9670;&#160;</a></span>GetAbsorb()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t HealInfoStub::GetAbsorb </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  111</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3a/a29623.html#a1b6726177d88f4da4b4fa36e96136711">_absorb</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00129">_absorb</a>.</p>
-
-</div>
-</div>
-<a id="aa19e94b9523f803f2af09fb77382f3c2" name="aa19e94b9523f803f2af09fb77382f3c2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa19e94b9523f803f2af09fb77382f3c2">&#9670;&#160;</a></span>GetEffectiveHeal()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t HealInfoStub::GetEffectiveHeal </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  110</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3a/a29623.html#aab54619f78456698c646d83ac448e1e2">_effectiveHeal</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00128">_effectiveHeal</a>.</p>
-
-</div>
-</div>
-<a id="abc0ad944af22920bc105b1b4c71ad467" name="abc0ad944af22920bc105b1b4c71ad467"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abc0ad944af22920bc105b1b4c71ad467">&#9670;&#160;</a></span>GetHeal()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t HealInfoStub::GetHeal </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  109</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3a/a29623.html#a44c86cf0c0d87d9ceb9574ced0990845">_heal</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00127">_heal</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00224">HealInfoStubBuilder::WithOverheal()</a>.</p>
-
-</div>
-</div>
-<a id="ac110638d1729fae0ba6594d7f092d4b0" name="ac110638d1729fae0ba6594d7f092d4b0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac110638d1729fae0ba6594d7f092d4b0">&#9670;&#160;</a></span>GetHitMask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t HealInfoStub::GetHitMask </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  123</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3a/a29623.html#a2228ffd4334cc5adff51e67394d19de9">_hitMask</a>; }</div>
-<div class="ttc" id="aa29623_html_a2228ffd4334cc5adff51e67394d19de9"><div class="ttname"><a href="../../dd/d3a/a29623.html#a2228ffd4334cc5adff51e67394d19de9">HealInfoStub::_hitMask</a></div><div class="ttdeci">uint32_t _hitMask</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:130</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00130">_hitMask</a>.</p>
-
-</div>
-</div>
-<a id="a5af3db6eed10c8b2cd17f0509f6085fa" name="a5af3db6eed10c8b2cd17f0509f6085fa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5af3db6eed10c8b2cd17f0509f6085fa">&#9670;&#160;</a></span>GetOverheal()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t HealInfoStub::GetOverheal </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  112</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3a/a29623.html#a44c86cf0c0d87d9ceb9574ced0990845">_heal</a> &gt; <a class="code hl_variable" href="../../dd/d3a/a29623.html#aab54619f78456698c646d83ac448e1e2">_effectiveHeal</a> ? <a class="code hl_variable" href="../../dd/d3a/a29623.html#a44c86cf0c0d87d9ceb9574ced0990845">_heal</a> - <a class="code hl_variable" href="../../dd/d3a/a29623.html#aab54619f78456698c646d83ac448e1e2">_effectiveHeal</a> : 0; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00128">_effectiveHeal</a>, and <a class="el" href="../../#l00127">_heal</a>.</p>
-
-</div>
-</div>
-<a id="a05ce52ae6ea15c8043dfeae236466017" name="a05ce52ae6ea15c8043dfeae236466017"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a05ce52ae6ea15c8043dfeae236466017">&#9670;&#160;</a></span>GetSpellInfo()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/dc9/a11951.html">SpellInfo</a> const  * HealInfoStub::GetSpellInfo </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  119</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d3a/a29623.html#a94cd95b537e2510047da23a7f9176aa6">_spellInfo</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00131">_spellInfo</a>.</p>
-
-</div>
-</div>
-<a id="a5f7988705654a3b6f460ddbbecb3992b" name="a5f7988705654a3b6f460ddbbecb3992b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5f7988705654a3b6f460ddbbecb3992b">&#9670;&#160;</a></span>SetAbsorb()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void HealInfoStub::SetAbsorb </td>
+          <td class="memname"><a class="el" href="../../dd/d3a/a29623.html">AuraStubBuilder</a> &amp; AuraStubBuilder::WithId </td>
           <td>(</td>
           <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>absorb</em></td><td>)</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -467,16 +384,19 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  116</span>{ <a class="code hl_variable" href="../../dd/d3a/a29623.html#a1b6726177d88f4da4b4fa36e96136711">_absorb</a> = absorb; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  295</span>    {</div>
+<div class="line"><span class="lineno">  296</span>        <a class="code hl_variable" href="../../dd/d3a/a29623.html#a22cc8b0309b64c1ecc482d77170a2b09">_stub</a>-&gt;SetId(<span class="keywordtype">id</span>);</div>
+<div class="line"><span class="lineno">  297</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  298</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00129">_absorb</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00364">_stub</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00235">HealInfoStubBuilder::WithAbsorb()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00277">TEST_F()</a>, and <a class="el" href="../../#l00193">TEST_P()</a>.</p>
 
 </div>
 </div>
-<a id="ad8c263f50edf324a72ca366f6caf4377" name="ad8c263f50edf324a72ca366f6caf4377"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad8c263f50edf324a72ca366f6caf4377">&#9670;&#160;</a></span>SetEffectiveHeal()</h2>
+<a id="a056bd26636b67b54562306a42b3d7c3e" name="a056bd26636b67b54562306a42b3d7c3e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a056bd26636b67b54562306a42b3d7c3e">&#9670;&#160;</a></span>WithPassive()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -485,10 +405,95 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void HealInfoStub::SetEffectiveHeal </td>
+          <td class="memname"><a class="el" href="../../dd/d3a/a29623.html">AuraStubBuilder</a> &amp; AuraStubBuilder::WithPassive </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>isPassive</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  327</span>    {</div>
+<div class="line"><span class="lineno">  328</span>        <a class="code hl_variable" href="../../dd/d3a/a29623.html#a22cc8b0309b64c1ecc482d77170a2b09">_stub</a>-&gt;SetPassive(isPassive);</div>
+<div class="line"><span class="lineno">  329</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  330</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00364">_stub</a>.</p>
+
+</div>
+</div>
+<a id="a93fd0ed97589e98446251f9b078a3f9d" name="a93fd0ed97589e98446251f9b078a3f9d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a93fd0ed97589e98446251f9b078a3f9d">&#9670;&#160;</a></span>WithPeriodicEffect()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d3a/a29623.html">AuraStubBuilder</a> &amp; AuraStubBuilder::WithPeriodicEffect </td>
+          <td>(</td>
+          <td class="paramtype">uint8_t&#160;</td>
+          <td class="paramname"><em>effIndex</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramname"><em>amount</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramname"><em>totalTicks</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  343</span>    {</div>
+<div class="line"><span class="lineno">  344</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d32/a29607.html">AuraEffectStub</a>* eff = <a class="code hl_variable" href="../../dd/d3a/a29623.html#a22cc8b0309b64c1ecc482d77170a2b09">_stub</a>-&gt;GetEffect(effIndex))</div>
+<div class="line"><span class="lineno">  345</span>        {</div>
+<div class="line"><span class="lineno">  346</span>            eff-&gt;SetAmount(amount);</div>
+<div class="line"><span class="lineno">  347</span>            eff-&gt;SetPeriodic(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  348</span>            eff-&gt;SetTotalTicks(totalTicks);</div>
+<div class="line"><span class="lineno">  349</span>        }</div>
+<div class="line"><span class="lineno">  350</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  351</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00364">_stub</a>.</p>
+
+</div>
+</div>
+<a id="afa4a16fb9c020c568472102fff972408" name="afa4a16fb9c020c568472102fff972408"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afa4a16fb9c020c568472102fff972408">&#9670;&#160;</a></span>WithSpellFamilyName()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d3a/a29623.html">AuraStubBuilder</a> &amp; AuraStubBuilder::WithSpellFamilyName </td>
           <td>(</td>
           <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>effectiveHeal</em></td><td>)</td>
+          <td class="paramname"><em>familyName</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -498,16 +503,17 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  115</span>{ <a class="code hl_variable" href="../../dd/d3a/a29623.html#aab54619f78456698c646d83ac448e1e2">_effectiveHeal</a> = effectiveHeal; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  301</span>    {</div>
+<div class="line"><span class="lineno">  302</span>        <a class="code hl_variable" href="../../dd/d3a/a29623.html#a22cc8b0309b64c1ecc482d77170a2b09">_stub</a>-&gt;SetSpellFamilyName(familyName);</div>
+<div class="line"><span class="lineno">  303</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  304</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00128">_effectiveHeal</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00218">HealInfoStubBuilder::WithEffectiveHeal()</a>, <a class="el" href="../../#l00211">HealInfoStubBuilder::WithHeal()</a>, <a class="el" href="../../#l00107">ProcTestContext::WithHeal()</a>, and <a class="el" href="../../#l00224">HealInfoStubBuilder::WithOverheal()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00364">_stub</a>.</p>
 
 </div>
 </div>
-<a id="a6dede4a2256ff21fde331ae05d257718" name="a6dede4a2256ff21fde331ae05d257718"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6dede4a2256ff21fde331ae05d257718">&#9670;&#160;</a></span>SetHeal()</h2>
+<a id="a04b37ad66dde7b61695a80db00c9ab66" name="a04b37ad66dde7b61695a80db00c9ab66"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a04b37ad66dde7b61695a80db00c9ab66">&#9670;&#160;</a></span>WithStackAmount()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -516,10 +522,10 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void HealInfoStub::SetHeal </td>
+          <td class="memname"><a class="el" href="../../dd/d3a/a29623.html">AuraStubBuilder</a> &amp; AuraStubBuilder::WithStackAmount </td>
           <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>heal</em></td><td>)</td>
+          <td class="paramtype">uint8_t&#160;</td>
+          <td class="paramname"><em>amount</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -529,79 +535,20 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  114</span>{ <a class="code hl_variable" href="../../dd/d3a/a29623.html#a44c86cf0c0d87d9ceb9574ced0990845">_heal</a> = heal; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  321</span>    {</div>
+<div class="line"><span class="lineno">  322</span>        <a class="code hl_variable" href="../../dd/d3a/a29623.html#a22cc8b0309b64c1ecc482d77170a2b09">_stub</a>-&gt;SetStackAmount(amount);</div>
+<div class="line"><span class="lineno">  323</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  324</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00127">_heal</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00364">_stub</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00211">HealInfoStubBuilder::WithHeal()</a>, and <a class="el" href="../../#l00107">ProcTestContext::WithHeal()</a>.</p>
-
-</div>
-</div>
-<a id="a4f50475819621d56efd4e359ed004483" name="a4f50475819621d56efd4e359ed004483"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4f50475819621d56efd4e359ed004483">&#9670;&#160;</a></span>SetHitMask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void HealInfoStub::SetHitMask </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>hitMask</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  124</span>{ <a class="code hl_variable" href="../../dd/d3a/a29623.html#a2228ffd4334cc5adff51e67394d19de9">_hitMask</a> = hitMask; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00130">_hitMask</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00114">ProcTestContext::WithCriticalHit()</a>, <a class="el" href="../../#l00247">HealInfoStubBuilder::WithHitMask()</a>, and <a class="el" href="../../#l00121">ProcTestContext::WithNormalHit()</a>.</p>
-
-</div>
-</div>
-<a id="a2e5ac0bb798710d33e0ff4c29c8507a0" name="a2e5ac0bb798710d33e0ff4c29c8507a0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2e5ac0bb798710d33e0ff4c29c8507a0">&#9670;&#160;</a></span>SetSpellInfo()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void HealInfoStub::SetSpellInfo </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/dc9/a11951.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname"><em>spellInfo</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  120</span>{ <a class="code hl_variable" href="../../dd/d3a/a29623.html#a94cd95b537e2510047da23a7f9176aa6">_spellInfo</a> = spellInfo; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00131">_spellInfo</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00241">HealInfoStubBuilder::WithSpellInfo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00298">TEST_F()</a>, and <a class="el" href="../../#l00193">TEST_P()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a1b6726177d88f4da4b4fa36e96136711" name="a1b6726177d88f4da4b4fa36e96136711"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1b6726177d88f4da4b4fa36e96136711">&#9670;&#160;</a></span>_absorb</h2>
+<a id="a22cc8b0309b64c1ecc482d77170a2b09" name="a22cc8b0309b64c1ecc482d77170a2b09"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a22cc8b0309b64c1ecc482d77170a2b09">&#9670;&#160;</a></span>_stub</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -610,7 +557,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">uint32_t HealInfoStub::_absorb = 0</td>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../d8/d73/a29615.html">AuraStub</a>&gt; AuraStubBuilder::_stub</td>
         </tr>
       </table>
   </td>
@@ -620,103 +567,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00111">GetAbsorb()</a>, and <a class="el" href="../../#l00116">SetAbsorb()</a>.</p>
-
-</div>
-</div>
-<a id="aab54619f78456698c646d83ac448e1e2" name="aab54619f78456698c646d83ac448e1e2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aab54619f78456698c646d83ac448e1e2">&#9670;&#160;</a></span>_effectiveHeal</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t HealInfoStub::_effectiveHeal = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00110">GetEffectiveHeal()</a>, <a class="el" href="../../#l00112">GetOverheal()</a>, and <a class="el" href="../../#l00115">SetEffectiveHeal()</a>.</p>
-
-</div>
-</div>
-<a id="a44c86cf0c0d87d9ceb9574ced0990845" name="a44c86cf0c0d87d9ceb9574ced0990845"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a44c86cf0c0d87d9ceb9574ced0990845">&#9670;&#160;</a></span>_heal</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t HealInfoStub::_heal = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00109">GetHeal()</a>, <a class="el" href="../../#l00112">GetOverheal()</a>, and <a class="el" href="../../#l00114">SetHeal()</a>.</p>
-
-</div>
-</div>
-<a id="a2228ffd4334cc5adff51e67394d19de9" name="a2228ffd4334cc5adff51e67394d19de9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2228ffd4334cc5adff51e67394d19de9">&#9670;&#160;</a></span>_hitMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t HealInfoStub::_hitMask = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00123">GetHitMask()</a>, and <a class="el" href="../../#l00124">SetHitMask()</a>.</p>
-
-</div>
-</div>
-<a id="a94cd95b537e2510047da23a7f9176aa6" name="a94cd95b537e2510047da23a7f9176aa6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a94cd95b537e2510047da23a7f9176aa6">&#9670;&#160;</a></span>_spellInfo</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/dc9/a11951.html">SpellInfo</a> const* HealInfoStub::_spellInfo = nullptr</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00119">GetSpellInfo()</a>, and <a class="el" href="../../#l00120">SetSpellInfo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00353">Build()</a>, <a class="el" href="../../#l00358">BuildRaw()</a>, <a class="el" href="../../#l00306">WithCharges()</a>, <a class="el" href="../../#l00313">WithDuration()</a>, <a class="el" href="../../#l00332">WithEffect()</a>, <a class="el" href="../../#l00294">WithId()</a>, <a class="el" href="../../#l00326">WithPassive()</a>, <a class="el" href="../../#l00342">WithPeriodicEffect()</a>, <a class="el" href="../../#l00300">WithSpellFamilyName()</a>, and <a class="el" href="../../#l00320">WithStackAmount()</a>.</p>
 
 </div>
 </div>
@@ -725,8 +576,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/d3a/a29623.html">HealInfoStub</a></li>
-    <li class="footer">Generated on Mon Aug 17 2026 20:59:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/d3a/a29623.html">AuraStubBuilder</a></li>
+    <li class="footer">Generated on Mon Aug 24 2026 21:03:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

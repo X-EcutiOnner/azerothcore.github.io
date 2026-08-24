@@ -1,6 +1,6 @@
 var a28635 =
 [
-    [ "npc_fireworkAI", "d2/ddb/a28639.html", "d2/ddb/a28639" ],
-    [ "npc_firework", "d8/d4a/a28635.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
-    [ "GetAI", "d8/d4a/a28635.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
+    [ "npc_locksmith", "d8/d4a/a28635.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "d8/d4a/a28635.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "d8/d4a/a28635.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

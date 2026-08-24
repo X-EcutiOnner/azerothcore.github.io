@@ -1,6 +1,8 @@
 var a27463 =
 [
-    [ "HandleAfterCast", "df/dc1/a27463.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "df/dc1/a27463.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "df/dc1/a27463.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "CheckProc", "df/dc1/a27463.html#a2e564758a050827108955f73a08e72e7", null ],
+    [ "PrepareAuraScript", "df/dc1/a27463.html#a5993871d8837b43580818fa94e1bccc2", null ],
+    [ "Register", "df/dc1/a27463.html#a24faa9992523bc87df7f5ebccfb42233", null ],
+    [ "WasUsedByMutilate", "df/dc1/a27463.html#af31c8d77307f3cf3acee06e0b159925e", null ],
+    [ "_usedByMutilate", "df/dc1/a27463.html#a3f5cde7b3af5c3a6b75d76b742cae54b", null ]
 ];

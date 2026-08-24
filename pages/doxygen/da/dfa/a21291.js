@@ -1,6 +1,5 @@
 var a21291 =
 [
-    [ "boss_skadiAI", "d1/dd0/a21295.html", "d1/dd0/a21295" ],
-    [ "boss_skadi", "da/dfa/a21291.html#a124c1c1de7ba232b3256a65547370464", null ],
-    [ "GetAI", "da/dfa/a21291.html#ac2986670096fdd69a2e584bb9fcc1bbb", null ]
+    [ "go_palehoof_sphere", "da/dfa/a21291.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
+    [ "OnGossipHello", "da/dfa/a21291.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
 ];

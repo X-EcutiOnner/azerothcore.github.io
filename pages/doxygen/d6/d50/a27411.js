@@ -1,8 +1,7 @@
 var a27411 =
 [
-    [ "AfterApply", "d6/d50/a27411.html#a3299de0703ca1e14760e9f33b124ac44", null ],
-    [ "PeriodicTick", "d6/d50/a27411.html#a34f2fd8d142083705101f8265297c20e", null ],
-    [ "PrepareAuraScript", "d6/d50/a27411.html#a79c80876d5788a20a9f686548b70fd64", null ],
-    [ "Register", "d6/d50/a27411.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
-    [ "Validate", "d6/d50/a27411.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
+    [ "HandleEffect", "d6/d50/a27411.html#ab33c9312c9ac4096140a82f381d83235", null ],
+    [ "PrepareSpellScript", "d6/d50/a27411.html#a6117d7b2720f719d801b5f6e0e719f5f", null ],
+    [ "Register", "d6/d50/a27411.html#a1f5983124756eca5666ca6adbe5a4544", null ],
+    [ "Validate", "d6/d50/a27411.html#a08f7e508b50fc44ced0b7ff04e22b333", null ]
 ];

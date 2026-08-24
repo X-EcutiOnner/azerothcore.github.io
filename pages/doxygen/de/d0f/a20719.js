@@ -1,5 +1,5 @@
 var a20719 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_13", "de/d0f/a20719.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
-    [ "OnCheck", "de/d0f/a20719.html#ac91196d094f159932ad871ffa9c0f405", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_12", "de/d0f/a20719.html#adc7f5769894c59710fa70604878b1e2c", null ],
+    [ "OnCheck", "de/d0f/a20719.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
 ];

@@ -1,6 +1,6 @@
 var a19571 =
 [
-    [ "boss_loathebAI", "d9/dc4/a19575.html", "d9/dc4/a19575" ],
-    [ "boss_loatheb", "d2/d8a/a19571.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
-    [ "GetAI", "d2/d8a/a19571.html#aca9b3a2515777f81b354c01a9727276e", null ]
+    [ "HandleAfterHit", "d2/d8a/a19571.html#a4f9ee2b8830fc812a78154f8b54a0a47", null ],
+    [ "PrepareSpellScript", "d2/d8a/a19571.html#a75d2e4bc16170348893654d53c1bb6d7", null ],
+    [ "Register", "d2/d8a/a19571.html#a5e33a371d519c2fdc8561f2ac8d9dd82", null ]
 ];

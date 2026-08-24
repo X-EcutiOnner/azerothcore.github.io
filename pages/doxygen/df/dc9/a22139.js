@@ -1,16 +1,6 @@
 var a22139 =
 [
-    [ "npc_tirions_gambit_tirionAI", "df/dc9/a22139.html#a38959c7a5b502b5716a5c09b0f6ae8a4", null ],
-    [ "DoAction", "df/dc9/a22139.html#a495e0762614020ef6d7b741447099326", null ],
-    [ "DoSummonAction", "df/dc9/a22139.html#a891b31661705ed4df634059e6165d499", null ],
-    [ "JustSummoned", "df/dc9/a22139.html#ac62ec499aba734d36249f8c00b36e2d4", null ],
-    [ "Reset", "df/dc9/a22139.html#afb398bda1d6ee4d35527208e6c5bffee", null ],
-    [ "SetData", "df/dc9/a22139.html#a41f24de5f824d84edb69c6b2bdca6d4e", null ],
-    [ "SummonedCreatureDespawn", "df/dc9/a22139.html#aca05fee85997dffba6ec998b144b9495", null ],
-    [ "UpdateEscortAI", "df/dc9/a22139.html#a0b681d6cc1566e6193f7eb143ab2bd5e", null ],
-    [ "WaypointReached", "df/dc9/a22139.html#af5fd69b799c6227dba901f434e30c434", null ],
-    [ "WaypointReached", "df/dc9/a22139.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_eventOver", "df/dc9/a22139.html#ac3505c2a8d55afa351543def3e8839de", null ],
-    [ "events", "df/dc9/a22139.html#a711c55c26187ae695644b770a358766e", null ],
-    [ "summons", "df/dc9/a22139.html#af574a4b136ff42c597e30c83e4d463ca", null ]
+    [ "npc_boneguard_footmanAI", "df/dc9/a22139.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "df/dc9/a22139.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "df/dc9/a22139.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

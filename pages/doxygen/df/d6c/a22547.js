@@ -1,13 +1,6 @@
 var a22547 =
 [
-    [ "OPvPCapturePointEP_EWT", "df/d6c/a22547.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
-    [ "ChangeState", "df/d6c/a22547.html#ac00c50b89e1218f87506778096a9d7cd", null ],
-    [ "FillInitialWorldStates", "df/d6c/a22547.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
-    [ "HandlePlayerEnter", "df/d6c/a22547.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
-    [ "HandlePlayerLeave", "df/d6c/a22547.html#a2638b24dca375420778845963e307db3", null ],
-    [ "SendChangePhase", "df/d6c/a22547.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
-    [ "SummonSupportUnitAtNorthpassTower", "df/d6c/a22547.html#ad70a8cc485072cd9af892290584062d8", null ],
-    [ "UpdateTowerState", "df/d6c/a22547.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
-    [ "m_TowerState", "df/d6c/a22547.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
-    [ "m_UnitsSummonedSideId", "df/d6c/a22547.html#a0319f0d51624df44419976e7abd1b813", null ]
+    [ "FilterTargets", "df/d6c/a22547.html#a4d81860c41daab44851da605d38b4753", null ],
+    [ "PrepareSpellScript", "df/d6c/a22547.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
+    [ "Register", "df/d6c/a22547.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
 ];

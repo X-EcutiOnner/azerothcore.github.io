@@ -1,5 +1,5 @@
 var a22495 =
 [
-    [ "achievement_wg_within_our_grasp", "dd/d1e/a22495.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "dd/d1e/a22495.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "dd/d1e/a22495.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "dd/d1e/a22495.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

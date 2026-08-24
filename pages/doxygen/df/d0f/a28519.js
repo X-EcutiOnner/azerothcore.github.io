@@ -1,12 +1,6 @@
 var a28519 =
 [
-    [ "npc_elder_clearwaterAI", "df/d0f/a28519.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
-    [ "DoAction", "df/d0f/a28519.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
-    [ "GetData", "df/d0f/a28519.html#a077c02bf06b16439225a5cf8d83babf2", null ],
-    [ "UpdateAI", "df/d0f/a28519.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
-    [ "events", "df/d0f/a28519.html#a267fec22dc3d7272cae74267d0567618", null ],
-    [ "finished", "df/d0f/a28519.html#af51d6abb8fc8b59d068156a4859a377e", null ],
-    [ "finishWarning", "df/d0f/a28519.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
-    [ "preWarning", "df/d0f/a28519.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
-    [ "startWarning", "df/d0f/a28519.html#a01545211dec4338ac44304ebc7f18a97", null ]
+    [ "npc_taxi", "df/d0f/a28519.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
+    [ "OnGossipHello", "df/d0f/a28519.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
+    [ "OnGossipSelect", "df/d0f/a28519.html#a5a7443abba8cf98a3073195177981edc", null ]
 ];

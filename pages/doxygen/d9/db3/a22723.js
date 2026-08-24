@@ -1,6 +1,10 @@
 var a22723 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "d3/de2/a22727.html", "d3/de2/a22727" ],
-    [ "instance_sethekk_halls", "d9/db3/a22723.html#ab50d296266cf377bfb34750ec36963ef", null ],
-    [ "GetInstanceScript", "d9/db3/a22723.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
+    [ "boss_talon_king_ikiss", "d9/db3/a22723.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "JustDied", "d9/db3/a22723.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "d9/db3/a22723.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "d9/db3/a22723.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "d9/db3/a22723.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "d9/db3/a22723.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "d9/db3/a22723.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

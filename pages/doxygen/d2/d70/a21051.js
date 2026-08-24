@@ -1,7 +1,9 @@
 var a21051 =
 [
-    [ "OnApply", "d2/d70/a21051.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
-    [ "OnRemove", "d2/d70/a21051.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
-    [ "PrepareAuraScript", "d2/d70/a21051.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
-    [ "Register", "d2/d70/a21051.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
+    [ "HandleOnEffectApply", "d2/d70/a21051.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
+    [ "OnPeriodic", "d2/d70/a21051.html#a49ad44eba19416743bd26252d1b40d71", null ],
+    [ "PrepareAuraScript", "d2/d70/a21051.html#ae0c475babb67cebb245d6d85b50cd694", null ],
+    [ "Register", "d2/d70/a21051.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
+    [ "Validate", "d2/d70/a21051.html#ab383a0a207aa78b7efcd400765ad0838", null ],
+    [ "_targetGUID", "d2/d70/a21051.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
 ];

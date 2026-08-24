@@ -1,8 +1,10 @@
 var a21239 =
 [
-    [ "CheckProc", "df/d93/a21239.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
-    [ "HandleProc", "df/d93/a21239.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
-    [ "PrepareAuraScript", "df/d93/a21239.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
-    [ "Register", "df/d93/a21239.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
-    [ "Validate", "df/d93/a21239.html#ad4176f188412053b9205820fb6183d38", null ]
+    [ "npc_enslaved_proto_drake", "df/d93/a21239.html#aec835fdc8b1beb270176d5341d26c265", null ],
+    [ "MovementInform", "df/d93/a21239.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
+    [ "Reset", "df/d93/a21239.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
+    [ "SetData", "df/d93/a21239.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
+    [ "UpdateAI", "df/d93/a21239.html#a252f84198df610bac44b6bd9cd80602e", null ],
+    [ "_events", "df/d93/a21239.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
+    [ "_setData", "df/d93/a21239.html#adb997badd8831dea7763eaecc93b7773", null ]
 ];

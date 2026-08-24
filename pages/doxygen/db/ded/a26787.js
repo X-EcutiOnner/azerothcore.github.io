@@ -1,7 +1,9 @@
 var a26787 =
 [
-    [ "HandleProc", "db/ded/a26787.html#a342163af13b2282b97792972da490f98", null ],
-    [ "PrepareAuraScript", "db/ded/a26787.html#a2d72ba251ca9ccfd1e2d84a23c539719", null ],
-    [ "Register", "db/ded/a26787.html#ac474d006203de8eceb93e50c6430e603", null ],
-    [ "Validate", "db/ded/a26787.html#a831d13676b4ef44f44cb17ba077b7943", null ]
+    [ "CheckCast", "db/ded/a26787.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
+    [ "HandleTriggerSpellHit", "db/ded/a26787.html#aca027bb2995456bfcedd33c06966eb88", null ],
+    [ "HandleTriggerSpellLaunch", "db/ded/a26787.html#aa67bf9f81086a3837037d67306979072", null ],
+    [ "PrepareSpellScript", "db/ded/a26787.html#a9247b5f3a376bebdcf857565b5049944", null ],
+    [ "Register", "db/ded/a26787.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
+    [ "Validate", "db/ded/a26787.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
 ];

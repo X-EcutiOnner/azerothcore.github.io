@@ -1,6 +1,6 @@
 var a28627 =
 [
-    [ "npc_locksmith", "dd/d8c/a28627.html#af959a6395ebc33109405f18f262e4ecb", null ],
-    [ "OnGossipHello", "dd/d8c/a28627.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
-    [ "OnGossipSelect", "dd/d8c/a28627.html#a62ec02e226255ff1f81895391a6494b8", null ]
+    [ "npc_pet_trainerAI", "d9/dfe/a28631.html", "d9/dfe/a28631" ],
+    [ "npc_pet_trainer", "dd/d8c/a28627.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "dd/d8c/a28627.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

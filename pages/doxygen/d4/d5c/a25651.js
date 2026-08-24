@@ -1,6 +1,7 @@
 var a25651 =
 [
-    [ "FilterTargets", "d4/d5c/a25651.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
-    [ "PrepareSpellScript", "d4/d5c/a25651.html#a9fb910382c89750e38cb36bed48a1597", null ],
-    [ "Register", "d4/d5c/a25651.html#a667b10129d2d23f72712be523dc93180", null ]
+    [ "HandleProc", "d4/d5c/a25651.html#a993331721d98f6d0b4c225a9c32708bd", null ],
+    [ "PrepareAuraScript", "d4/d5c/a25651.html#a71029016013dc48cf1e882a1fb520187", null ],
+    [ "Register", "d4/d5c/a25651.html#a4cd1dec02407065ffb25b230cf8df1c7", null ],
+    [ "Validate", "d4/d5c/a25651.html#a49174c98ea4fa6c4028c7ad771bbe204", null ]
 ];

@@ -1,8 +1,9 @@
 var a27083 =
 [
-    [ "HandleEffectRemove", "de/d9c/a27083.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
-    [ "if", "de/d9c/a27083.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
-    [ "PrepareAuraScript", "de/d9c/a27083.html#a531f51626ae4527282ad1e628911a9ea", null ],
-    [ "Register", "de/d9c/a27083.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
-    [ "AuraEffectHandleModes", "de/d9c/a27083.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
+    [ "HandleAfterCast", "de/d9c/a27083.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "de/d9c/a27083.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "de/d9c/a27083.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "de/d9c/a27083.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "de/d9c/a27083.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "de/d9c/a27083.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

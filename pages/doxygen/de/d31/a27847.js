@@ -1,10 +1,7 @@
 var a27847 =
 [
-    [ "CalculateBuffer", "de/d31/a27847.html#a3fa1917fc77575531e485cd0228bcc00", null ],
-    [ "Detonate", "de/d31/a27847.html#aa005ef9fba06c26dec9998153119c90f", null ],
-    [ "HandleProc", "de/d31/a27847.html#a35edcf5f57dee1bbb63321cd67b200db", null ],
-    [ "OnRemove", "de/d31/a27847.html#ae5ea7f0286f7e4c45611874b5ef79750", null ],
-    [ "PrepareAuraScript", "de/d31/a27847.html#a325ad66cd69a15260e274562250c8e32", null ],
-    [ "Register", "de/d31/a27847.html#a2d107c9db0b3b1859cb284b741a77ef8", null ],
-    [ "Validate", "de/d31/a27847.html#ae7de3e43a47e6b35d0dead23ac51325e", null ]
+    [ "HandleProc", "de/d31/a27847.html#a9296b52700f070af311047166f6a913b", null ],
+    [ "PrepareAuraScript", "de/d31/a27847.html#a067cc24e65f79bab10b9d1258fad3460", null ],
+    [ "Register", "de/d31/a27847.html#affbd8840159048b6ea55ab98900d38c0", null ],
+    [ "Validate", "de/d31/a27847.html#a31af0dd20daa2892f7c0a6baf2bf4485", null ]
 ];

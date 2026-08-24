@@ -1,6 +1,6 @@
 var a23711 =
 [
-    [ "boss_porung", "d6/df7/a23711.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "d6/df7/a23711.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "d6/df7/a23711.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "HandleEffect", "d6/df7/a23711.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
+    [ "PrepareSpellScript", "d6/df7/a23711.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
+    [ "Register", "d6/df7/a23711.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
 ];

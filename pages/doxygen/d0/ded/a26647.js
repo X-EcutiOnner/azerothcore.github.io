@@ -1,9 +1,8 @@
 var a26647 =
 [
-    [ "AllowT10Proc", "d0/ded/a26647.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
-    [ "OnRemove", "d0/ded/a26647.html#a52807f94eba44a9b574577a0b27acb22", null ],
-    [ "PrepareAuraScript", "d0/ded/a26647.html#a430303b7df445d38da9316324359c2d6", null ],
-    [ "Register", "d0/ded/a26647.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
-    [ "Validate", "d0/ded/a26647.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
-    [ "_canProcT10", "d0/ded/a26647.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
+    [ "CheckProc", "d0/ded/a26647.html#a180edf3dd9f3abd42ae6cd43353451fe", null ],
+    [ "HandleProc", "d0/ded/a26647.html#a9d6daf153d86cf93e35c43d05dda2459", null ],
+    [ "PrepareAuraScript", "d0/ded/a26647.html#a874672016641a737a197588ea980c2c3", null ],
+    [ "Register", "d0/ded/a26647.html#a3578470f10bb4c10868d02d62cafceac", null ],
+    [ "Validate", "d0/ded/a26647.html#a4f496a310941e40c9c841772be3e6414", null ]
 ];

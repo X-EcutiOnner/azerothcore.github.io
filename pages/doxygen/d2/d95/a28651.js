@@ -1,6 +1,6 @@
 var a28651 =
 [
-    [ "npc_stable_masterAI", "d0/dfc/a28655.html", "d0/dfc/a28655" ],
-    [ "npc_stable_master", "d2/d95/a28651.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "d2/d95/a28651.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "npc_spring_rabbitAI", "d0/dfc/a28655.html", "d0/dfc/a28655" ],
+    [ "npc_spring_rabbit", "d2/d95/a28651.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
+    [ "GetAI", "d2/d95/a28651.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
 ];

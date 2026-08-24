@@ -1,9 +1,10 @@
 var a28555 =
 [
-    [ "npc_chicken_cluckAI", "dc/d67/a28555.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "dc/d67/a28555.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "dc/d67/a28555.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "dc/d67/a28555.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "dc/d67/a28555.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "dc/d67/a28555.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "npc_air_force_botsAI", "dc/d67/a28555.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "dc/d67/a28555.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "dc/d67/a28555.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "dc/d67/a28555.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "dc/d67/a28555.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "dc/d67/a28555.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "dc/d67/a28555.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

@@ -1,8 +1,12 @@
 var a21483 =
 [
-    [ "boss_lavanthor", "d5/d36/a21483.html#ad264818ef0f539c48160de9dbebeac7f", null ],
-    [ "EnterEvadeMode", "d5/d36/a21483.html#aee499fcde639aaca7131dba9cca1d4d0", null ],
-    [ "ExecuteEvent", "d5/d36/a21483.html#a16d7cd5596c20c3663d63549b33c8b4a", null ],
-    [ "JustEngagedWith", "d5/d36/a21483.html#a4bc5fa66192daab98027539efda37bdc", null ],
-    [ "MoveInLineOfSight", "d5/d36/a21483.html#a6f68cd280561b428400a08a155f83ccb", null ]
+    [ "npc_ichor_globule", "d5/d36/a21483.html#a59443a6748d81ef27a030f8656697fc1", null ],
+    [ "AttackStart", "d5/d36/a21483.html#a1e52599fab1b7e33d958f9815f73c6eb", null ],
+    [ "JustDied", "d5/d36/a21483.html#af740ee64b1f8510b0bacba4bcfe6d418", null ],
+    [ "MoveInLineOfSight", "d5/d36/a21483.html#af14fada689a1a6a780ae44865d16e465", null ],
+    [ "Reset", "d5/d36/a21483.html#a78030360fcd39754744384cdba17fd9e", null ],
+    [ "SpellHit", "d5/d36/a21483.html#a3d1e68f4b809286d57355de7d4482ae6", null ],
+    [ "UpdateAI", "d5/d36/a21483.html#acccc54db59a18e78330011465e109439", null ],
+    [ "_events", "d5/d36/a21483.html#a221c58177666ea1eb4a6b831916297eb", null ],
+    [ "_instance", "d5/d36/a21483.html#a5d56f5468b146ab2f8905b807bb22edc", null ]
 ];

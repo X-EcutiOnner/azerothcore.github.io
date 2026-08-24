@@ -1,6 +1,6 @@
 var a04694 =
 [
-    [ "boss_quagmirran", "d3/d70/a23411.html", "d3/d70/a23411" ],
+    [ "boss_quagmirran", "df/dc6/a23419.html", "df/dc6/a23419" ],
     [ "Spells", "d8/d12/a04694.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d5/db3/a01751.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d5/db3/a01751.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

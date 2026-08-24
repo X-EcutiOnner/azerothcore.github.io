@@ -1,8 +1,9 @@
 var a26995 =
 [
-    [ "CheckProc", "d5/d56/a26995.html#a0c649a70d0413fd24f29d3f2a03d3b4b", null ],
-    [ "HandleProc", "d5/d56/a26995.html#ae9e9ef38c6cdf57eccbeafb9f8c5cac0", null ],
-    [ "PrepareAuraScript", "d5/d56/a26995.html#adc8f29fd41def510195365f40fd5340b", null ],
-    [ "Register", "d5/d56/a26995.html#add7ed115ee403870f46e25614fac3840", null ],
-    [ "Validate", "d5/d56/a26995.html#aa9e341cbf35a4a6c2f42f55a216241b8", null ]
+    [ "CheckProcDummy", "d5/d56/a26995.html#ae4e6d0683039ca5e8ff1877248048b3b", null ],
+    [ "CheckProcTriggerSpell", "d5/d56/a26995.html#affbff48ab9421bda51b3a5781188546d", null ],
+    [ "HandleProcDummy", "d5/d56/a26995.html#a0113a45bd4c28d1769df7b675de697ed", null ],
+    [ "PrepareAuraScript", "d5/d56/a26995.html#af7d9ac7e014bbda32275bb584f5e2660", null ],
+    [ "Register", "d5/d56/a26995.html#aa575597dab0670e768e20a3a06c6dc0a", null ],
+    [ "Validate", "d5/d56/a26995.html#a63844728796945e892985720296d0c07", null ]
 ];

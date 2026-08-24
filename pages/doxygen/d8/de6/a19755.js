@@ -1,7 +1,7 @@
 var a19755 =
 [
-    [ "Load", "d8/de6/a19755.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
-    [ "PrepareSpellScript", "d8/de6/a19755.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
-    [ "Register", "d8/de6/a19755.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
-    [ "SetDest", "d8/de6/a19755.html#a231a75702f4a98f51d1be45510c5d05f", null ]
+    [ "FilterTargets", "d8/de6/a19755.html#a6beccd163ab8442a1ed39c553716cb73", null ],
+    [ "Load", "d8/de6/a19755.html#a5df67c2dbd14a75435f68939240daae6", null ],
+    [ "PrepareSpellScript", "d8/de6/a19755.html#a5be9bf364ae2dece862ed1eee93f9294", null ],
+    [ "Register", "d8/de6/a19755.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e", null ]
 ];

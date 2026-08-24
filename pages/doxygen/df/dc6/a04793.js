@@ -1,7 +1,7 @@
 var a04793 =
 [
-    [ "LajTransformData", "d9/df1/a23815.html", "d9/df1/a23815" ],
-    [ "boss_laj", "d0/daa/a23819.html", "d0/daa/a23819" ],
+    [ "LajTransformData", "df/d89/a23823.html", "df/d89/a23823" ],
+    [ "boss_laj", "d6/dd1/a23827.html", "d6/dd1/a23827" ],
     [ "Misc", "df/dc6/a04793.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "d0/d84/a03281.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "d0/d84/a03281.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],

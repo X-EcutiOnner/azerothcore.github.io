@@ -1,6 +1,6 @@
 var a00737 =
 [
-    [ "UlduarVehicleScaleTest", "df/d17/a30075.html", null ],
+    [ "UlduarVehicleScaleTest", "d2/d38/a30083.html", null ],
     [ "CalcUlduarVehicleScale", "dd/db2/a00737.html#acdecfc5cf74175c6a000957c02da9cc4", null ],
     [ "CalcUlduarVehicleScaleAmount", "dd/db2/a00737.html#a7bee56888580618bb23f42cc8f9edc92", null ],
     [ "TEST_F", "dd/db2/a00737.html#a8418c7e94d66e6a5c9f61c9dd5deeb43", null ],

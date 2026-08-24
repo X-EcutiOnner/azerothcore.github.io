@@ -1,5 +1,5 @@
 var a28763 =
 [
-    [ "go_transport_the_thundercaller", "d3/d4e/a28763.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
-    [ "EventInform", "d3/d4e/a28763.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
+    [ "npc_sunwell_gate", "d3/d4e/a28763.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "d3/d4e/a28763.html#a760f5bef0c1f45f21698b0dcdf2d2236", null ]
 ];

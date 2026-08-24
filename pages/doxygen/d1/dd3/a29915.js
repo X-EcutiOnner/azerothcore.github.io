@@ -1,9 +1,10 @@
 var a29915 =
 [
-    [ "SetUp", "d1/dd3/a29915.html#a20b3a8161766a47ae37349f02cbe5b90", null ],
-    [ "TearDown", "d1/dd3/a29915.html#a9b41e4a95a6ca160c70272dfb90b5f8a", null ],
-    [ "creatureQuestMap", "d1/dd3/a29915.html#ae8b815994792f237cf6e1803b9eaa7f7", null ],
-    [ "TEST_CREATURE_ID", "d1/dd3/a29915.html#a80a79959d4b5520f7acf671677a671e9", null ],
-    [ "TEST_POOL_ID", "d1/dd3/a29915.html#aa81759d0539b72ad3cdda7d2231f8e63", null ],
-    [ "TEST_QUEST_ID", "d1/dd3/a29915.html#a26e68107bb625d0c5b6281c7df9199be", null ]
+    [ "SetUp", "d1/dd3/a29915.html#a3fdec2bf96f4e567b3ed2a8103d175ec", null ],
+    [ "SimulateGlyphsForLevel", "d1/dd3/a29915.html#ac0b04d88968102ac5cf34be21a44eed9", null ],
+    [ "TearDown", "d1/dd3/a29915.html#aa381706733e71ee3d426c4e0d0c4b4e9", null ],
+    [ "originalWorld", "d1/dd3/a29915.html#a5e142dc81a057b4ecc3084177942b91d", null ],
+    [ "player", "d1/dd3/a29915.html#ac57623d8e963cdb8de2258f36c1281bd", null ],
+    [ "session", "d1/dd3/a29915.html#ac92bad60994d699564da54739ac0b4f0", null ],
+    [ "worldMock", "d1/dd3/a29915.html#af4605e78650f67c3a3af4d91e1e485c5", null ]
 ];

@@ -1,7 +1,8 @@
 var a26359 =
 [
-    [ "HandleScript", "da/dbc/a26359.html#a899d96d5fdf1fa7c46a35b681ec90daa", null ],
-    [ "PrepareSpellScript", "da/dbc/a26359.html#a8b49884cc187b32368ac5493bc65d339", null ],
-    [ "Register", "da/dbc/a26359.html#a591928501bc5b0d4c43b04ec6fa8972d", null ],
-    [ "Validate", "da/dbc/a26359.html#aba754e86c9c87f251a1fa2dff955018e", null ]
+    [ "AfterApply", "da/dbc/a26359.html#a972d3ec2a26bbf93e47f696f44ff22b0", null ],
+    [ "AfterRemove", "da/dbc/a26359.html#a29d4dbe7d36d256cf89fdde1bbabac85", null ],
+    [ "PrepareAuraScript", "da/dbc/a26359.html#a1e44672c1f47dbd8e57f7653d905e3e6", null ],
+    [ "Register", "da/dbc/a26359.html#a293ea418e290d96bbcaaed24cad663b0", null ],
+    [ "Validate", "da/dbc/a26359.html#aa67afc85c142006efad986859f14941c", null ]
 ];

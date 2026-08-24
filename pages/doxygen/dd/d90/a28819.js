@@ -1,7 +1,5 @@
 var a28819 =
 [
-    [ "Displayid", "dd/d90/a28819.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
-    [ "ExtendedDisplayInfoID", "dd/d90/a28819.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
-    [ "ModelId", "dd/d90/a28819.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
-    [ "scale", "dd/d90/a28819.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
+    [ "ID", "dd/d90/a28819.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
+    [ "parentCategory", "dd/d90/a28819.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
 ];

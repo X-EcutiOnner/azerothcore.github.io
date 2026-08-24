@@ -239,7 +239,7 @@ Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">   89</span>        <a class="code hl_class" href="../../d9/d85/a09031.html">Player</a>* player = <a class="code hl_function" href="../../dd/dfc/a05141.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a>(member.Guid);</div>
 <div class="line"><span class="lineno">   90</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; reward : rewardGroup.achievementRewards)</div>
 <div class="line"><span class="lineno">   91</span>        {</div>
-<div class="line"><span class="lineno">   92</span>            <a class="code hl_struct" href="../../d2/d8e/a28807.html">AchievementEntry</a> <span class="keyword">const</span>* achievement = <a class="code hl_variable" href="../../d6/d0d/a01091.html#a91e667648c436939ee79c55a276fc0bf">sAchievementStore</a>.LookupEntry(reward.entry);</div>
+<div class="line"><span class="lineno">   92</span>            <a class="code hl_struct" href="../../d3/dbd/a28815.html">AchievementEntry</a> <span class="keyword">const</span>* achievement = <a class="code hl_variable" href="../../d6/d0d/a01091.html#a91e667648c436939ee79c55a276fc0bf">sAchievementStore</a>.LookupEntry(reward.entry);</div>
 <div class="line"><span class="lineno">   93</span>            <span class="keywordflow">if</span> (!achievement)</div>
 <div class="line"><span class="lineno">   94</span>                <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">   95</span> </div>
@@ -259,10 +259,10 @@ Private Member Functions</h2></td></tr>
 <div class="ttc" id="aa07687_html_a1462474b4b00ca8439f70c5efa296e92"><div class="ttname"><a href="../../de/d11/a07687.html#a1462474b4b00ca8439f70c5efa296e92">ArenaTeam::GetStats</a></div><div class="ttdeci">ArenaTeamStats const &amp; GetStats() const</div><div class="ttdef"><b>Definition:</b> ArenaTeam.h:155</div></div>
 <div class="ttc" id="aa07687_html_a5566c8f393096d66c047c50a3b512602"><div class="ttname"><a href="../../de/d11/a07687.html#a5566c8f393096d66c047c50a3b512602">ArenaTeam::GetMembers</a></div><div class="ttdeci">MemberList &amp; GetMembers()</div><div class="ttdef"><b>Definition:</b> ArenaTeam.h:173</div></div>
 <div class="ttc" id="aa09031_html"><div class="ttname"><a href="../../d9/d85/a09031.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1086</div></div>
-<div class="ttc" id="aa09031_html_a48df95c9da37d12c7ec9762af371d9b5"><div class="ttname"><a href="../../d9/d85/a09031.html#a48df95c9da37d12c7ec9762af371d9b5">Player::CompletedAchievement</a></div><div class="ttdeci">void CompletedAchievement(AchievementEntry const *entry)</div><div class="ttdef"><b>Definition:</b> Player.cpp:14254</div></div>
-<div class="ttc" id="aa28807_html"><div class="ttname"><a href="../../d2/d8e/a28807.html">AchievementEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:40</div></div>
+<div class="ttc" id="aa09031_html_a48df95c9da37d12c7ec9762af371d9b5"><div class="ttname"><a href="../../d9/d85/a09031.html#a48df95c9da37d12c7ec9762af371d9b5">Player::CompletedAchievement</a></div><div class="ttdeci">void CompletedAchievement(AchievementEntry const *entry)</div><div class="ttdef"><b>Definition:</b> Player.cpp:14255</div></div>
+<div class="ttc" id="aa28815_html"><div class="ttname"><a href="../../d3/dbd/a28815.html">AchievementEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:40</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">ArenaSeasonRewardGroup::achievementRewards</a>, <a class="el" href="../../#l14254">Player::CompletedAchievement()</a>, <a class="el" href="../../#l00269">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00173">ArenaTeam::GetMembers()</a>, <a class="el" href="../../#l00155">ArenaTeam::GetStats()</a>, <a class="el" href="../../#l00025">minPctTeamGamesForMemberToGetReward</a>, <a class="el" href="../../#l00451">sAchievementMgr</a>, <a class="el" href="../../d6/d0d/a01091.html#a91e667648c436939ee79c55a276fc0bf">sAchievementStore</a>, and <a class="el" href="../../#l00129">ArenaTeamStats::SeasonGames</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00078">ArenaSeasonRewardGroup::achievementRewards</a>, <a class="el" href="../../#l14255">Player::CompletedAchievement()</a>, <a class="el" href="../../#l00269">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00173">ArenaTeam::GetMembers()</a>, <a class="el" href="../../#l00155">ArenaTeam::GetStats()</a>, <a class="el" href="../../#l00025">minPctTeamGamesForMemberToGetReward</a>, <a class="el" href="../../#l00451">sAchievementMgr</a>, <a class="el" href="../../d6/d0d/a01091.html#a91e667648c436939ee79c55a276fc0bf">sAchievementStore</a>, and <a class="el" href="../../#l00129">ArenaTeamStats::SeasonGames</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00027">RewardTeamWithRewardGroup()</a>.</p>
 
@@ -362,7 +362,7 @@ Private Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d9a/a07655.html">ArenaSeasonTeamRewarderImpl</a></li>
-    <li class="footer">Generated on Mon Aug 17 2026 20:58:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 24 2026 21:03:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

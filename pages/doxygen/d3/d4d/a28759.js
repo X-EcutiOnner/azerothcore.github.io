@@ -1,5 +1,5 @@
 var a28759 =
 [
-    [ "go_transport_the_iron_eagle", "d3/d4d/a28759.html#aba17edc2e3ac8e1b9996116c6f9bdc6f", null ],
-    [ "EventInform", "d3/d4d/a28759.html#af1970d07730ab0e5f688200289f48b69", null ]
+    [ "npc_suns_reach_reclamation", "d3/d4d/a28759.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
+    [ "OnQuestReward", "d3/d4d/a28759.html#aa403d14fccda7adbec1ffeb765079c25", null ]
 ];

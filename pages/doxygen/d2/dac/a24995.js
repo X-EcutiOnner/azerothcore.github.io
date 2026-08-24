@@ -1,6 +1,8 @@
 var a24995 =
 [
-    [ "CalculateAmount", "d2/dac/a24995.html#af8b61cade7f9daae4b982c2a4c8b4a73", null ],
-    [ "PrepareAuraScript", "d2/dac/a24995.html#a3e1d132745f4739b8a3423cb55b0fc9d", null ],
-    [ "Register", "d2/dac/a24995.html#a642ce3a74d7163b264ed4674e14fafbc", null ]
+    [ "CheckProc", "d2/dac/a24995.html#aa3b4d0bb214146b14d7a991c12f2f38d", null ],
+    [ "HandleProc", "d2/dac/a24995.html#a020b3e9890b8ef88887ec3cf35f7ca6d", null ],
+    [ "PrepareAuraScript", "d2/dac/a24995.html#aee9068453d0c16088eb120da65657903", null ],
+    [ "Register", "d2/dac/a24995.html#ad87e455c7e09c040f574140921b4e406", null ],
+    [ "Validate", "d2/dac/a24995.html#a1075a61443eba3609f4d0602fb4f1144", null ]
 ];

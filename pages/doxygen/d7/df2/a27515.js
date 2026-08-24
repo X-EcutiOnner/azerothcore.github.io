@@ -1,8 +1,7 @@
 var a27515 =
 [
-    [ "Apply", "d7/df2/a27515.html#ac3145df90b6b179fece1c76da114e395", null ],
-    [ "HandleEffectPeriodic", "d7/df2/a27515.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
-    [ "PrepareAuraScript", "d7/df2/a27515.html#aa911ba0b5a13a933bf50a072799a040f", null ],
-    [ "Register", "d7/df2/a27515.html#ae0dff9b5002d3d3361d794a75645057f", null ],
-    [ "Validate", "d7/df2/a27515.html#ad81184b508474a89fbafc63594ef0ab1", null ]
+    [ "CalculateAmount", "d7/df2/a27515.html#adc34e5742173d039f6050d5ccc0a2cae", null ],
+    [ "PrepareAuraScript", "d7/df2/a27515.html#aa966d001c3687403dfa2b13e998ca241", null ],
+    [ "Register", "d7/df2/a27515.html#aeecb9756d4304ed2316b6d2a8f0d6ac4", null ],
+    [ "Validate", "d7/df2/a27515.html#af1eee4d8e966d66fea04173e7481b5ce", null ]
 ];

@@ -1,6 +1,9 @@
 var a28707 =
 [
-    [ "npc_necropolis_relay", "da/d68/a28707.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "da/d68/a28707.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "da/d68/a28707.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "npc_necropolis_health", "da/d68/a28707.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
+    [ "DespawnNecropolis", "da/d68/a28707.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
+    [ "JustDied", "da/d68/a28707.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
+    [ "SpellHit", "da/d68/a28707.html#ad4a9f9b166ab8107a16da918082c6625", null ],
+    [ "SpellHitTarget", "da/d68/a28707.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
+    [ "_zapCount", "da/d68/a28707.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
 ];

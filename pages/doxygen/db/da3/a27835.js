@@ -1,8 +1,7 @@
 var a27835 =
 [
-    [ "CheckProc", "db/da3/a27835.html#a4713f3cdce1ee793a8f2232202314ff7", null ],
-    [ "HandleProc", "db/da3/a27835.html#ab892bc268feccba594a5b4b0be3e86f7", null ],
-    [ "PrepareAuraScript", "db/da3/a27835.html#a92a141fcf24f63bc41f6f828f72bf277", null ],
-    [ "Register", "db/da3/a27835.html#a93806efcc1e5976cca2eab57c9e55a7e", null ],
-    [ "Validate", "db/da3/a27835.html#a28801b99335380a7e366e766b6aaea2c", null ]
+    [ "HandleProc", "db/da3/a27835.html#a79bcdad48c19c0db70960552f6b4e2d3", null ],
+    [ "PrepareAuraScript", "db/da3/a27835.html#a760f228c118e9a89a3adc2767290f6f5", null ],
+    [ "Register", "db/da3/a27835.html#ace2673bc17210f349e47586c0e626dc5", null ],
+    [ "Validate", "db/da3/a27835.html#acdc499d8cae2de0edcfd2c19319e0175", null ]
 ];

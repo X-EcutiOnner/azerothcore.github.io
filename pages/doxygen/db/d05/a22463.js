@@ -1,6 +1,8 @@
 var a22463 =
 [
-    [ "HandleSummon", "db/d05/a22463.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
-    [ "PrepareSpellScript", "db/d05/a22463.html#ae7f071e9d9a82892be31090385679c9f", null ],
-    [ "Register", "db/d05/a22463.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
+    [ "go_wg_vehicle_teleporterAI", "db/d05/a22463.html#af84e73765b1a4d810b41613824999186", null ],
+    [ "IsFriendly", "db/d05/a22463.html#adca817c8919958db888d5e9c759ad545", null ],
+    [ "IsValidVehicle", "db/d05/a22463.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
+    [ "UpdateAI", "db/d05/a22463.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
+    [ "_checkTimer", "db/d05/a22463.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
 ];

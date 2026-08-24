@@ -17,6 +17,23 @@ var a04115 =
       [ "GOSSIP_MENU_ACTION_MENU_SKIP", "df/d30/a04115.html#a57afdde1f716bba8c87448af7cad7789aa818e69319dcbcf1ab339dc85990d507", null ],
       [ "GOSSIP_MENU_ACTION_INTERFERE", "df/d30/a04115.html#a57afdde1f716bba8c87448af7cad7789af3365f8cde44ae1654753a52daad4726", null ]
     ] ],
+    [ "CrateCitizens", "df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12", [
+      [ "NPC_SERGEANT_MORIGAN", "df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12a886c710ed3065968ff7156befdf84c2a", null ],
+      [ "NPC_JENA_ANDERSON", "df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12a3ed97095f8f1e7243440a47746e870fd", null ],
+      [ "NPC_MALCOLM_MOORE", "df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12a32ba346dcd56f5546d550c325c2b3209", null ],
+      [ "NPC_SCRUFFY", "df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12aaa9d7a3c1bddfe4f79a2f6b3203eee90", null ],
+      [ "NPC_ROGER_OWENS", "df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12aa00b232ddb61fb5aaa569c7d5b8a2f4a", null ],
+      [ "NPC_BARTLEBY_BATTSON", "df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12a5183f3cd82a33d06551ab8d507561f96", null ],
+      [ "ACTION_CRATE_DISPELLED", "df/d30/a04115.html#a030b6113afb50f9a78a678b4e3c6cd12a57f0e02aea089df59297483138b5203d", null ]
+    ] ],
+    [ "CrateIds", "df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54", [
+      [ "CRATE_PERELLI", "df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54a160f645e651407aab83bc23bd6ca9c69", null ],
+      [ "CRATE_OWENS", "df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54a80f7a31c96fb31ab50b22feb31599507", null ],
+      [ "CRATE_GOSLIN", "df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54a2007f6bb764e809ccad8d2f27e4cc2db", null ],
+      [ "CRATE_MOORE", "df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54a97bb3c6f5355f89f20213e78743712b6", null ],
+      [ "CRATE_BATTSON", "df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54aafb9c7594ce319cdbc3c9c211020a7ef", null ],
+      [ "MAX_CRATES", "df/d30/a04115.html#ac63f74dcf0c00444668f338796c9ee54aa1be28aedcafe21647abca0256d21370", null ]
+    ] ],
     [ "Events", "df/d30/a04115.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d9/dc9/a03347.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d9/dc9/a03347.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -5885,6 +5902,9 @@ var a04115 =
       [ "SPELL_SUMMON_NETHER_WRAITH_4", "db/dc8/a04760.html#a5bd342133be8c2137b831460acc9298cab148123342fab6e991d3dcc39a339386", null ]
     ] ],
     [ "AddSC_culling_of_stratholme", "df/d30/a04115.html#aede95fd2791156799c384e405533f8c8", null ],
+    [ "CratePos", "df/d30/a04115.html#a27e84f60308459f0feb53e28aab8f007", null ],
+    [ "MalcolmMoorePos", "df/d30/a04115.html#a800fbf54b045f1ee5e17a93fbc0e40b6", null ],
     [ "RiftAndSpawnsLocations", "df/d30/a04115.html#a8f556ffa48b8a885796ac88b1eaecece", null ],
+    [ "ScruffyPos", "df/d30/a04115.html#a5afa185244098e56253610ba4da64b70", null ],
     [ "WavesLocations", "df/d30/a04115.html#ae00215a6d1897962dd50230182fbfe22", null ]
 ];

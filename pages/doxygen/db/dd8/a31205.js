@@ -1,7 +1,15 @@
 var a31205 =
 [
-    [ "checkDirectories", "db/dd8/a31205.html#afb6dec751b533a7d4b144f905228f5c0", null ],
-    [ "finish", "db/dd8/a31205.html#a407c8570873d5c8806fe9f174f8aa47a", null ],
-    [ "handleArgs", "db/dd8/a31205.html#ab5136576280bcec54baa2c61b85bd3c3", null ],
-    [ "main", "db/dd8/a31205.html#a3c04138a5bfe5d72780bb7e82a18e627", null ]
+    [ "GetGameTime", "db/dd8/a31205.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
+    [ "GetGameTimeMS", "db/dd8/a31205.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
+    [ "GetStartTime", "db/dd8/a31205.html#a872d34d3f9d420cfc749073c809931f9", null ],
+    [ "GetSystemTime", "db/dd8/a31205.html#a443eccf314fe436192278d425d6d8220", null ],
+    [ "GetUptime", "db/dd8/a31205.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
+    [ "Now", "db/dd8/a31205.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
+    [ "UpdateGameTimers", "db/dd8/a31205.html#a45712735241c9563a12fc3da54fb144d", null ],
+    [ "GameMSTime", "db/dd8/a31205.html#ad5fc2a056410eeac2e2717f91cb8295c", null ],
+    [ "GameTime", "db/dd8/a31205.html#a9a28ffdb4bb387919d2dd70a51080ce0", null ],
+    [ "GameTimeSteadyPoint", "db/dd8/a31205.html#a874057035d37aa57afc5064acffba119", null ],
+    [ "GameTimeSystemPoint", "db/dd8/a31205.html#aa393fef2187ebdd6aa34379b0f1504d7", null ],
+    [ "StartTime", "db/dd8/a31205.html#a78088a0637670a1ab5125a1388f7ca52", null ]
 ];

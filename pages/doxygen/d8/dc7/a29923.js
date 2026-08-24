@@ -1,8 +1,9 @@
 var a29923 =
 [
-    [ "CreateCCEffect", "d8/dc7/a29923.html#a90bb496c51cd49d187389e714360afca", null ],
-    [ "SetUp", "d8/dc7/a29923.html#af90043fc0fe122bcbb1c60efcb56a92b", null ],
-    [ "TearDown", "d8/dc7/a29923.html#a7c3946d9acc7dbcc36c56071e165f6d9", null ],
-    [ "_originalWorld", "d8/dc7/a29923.html#a2006a12966a8875132c3a2c0b905e1f8", null ],
-    [ "_worldMock", "d8/dc7/a29923.html#ad18ef661fd5ab748c1c2c5d193b2a7d0", null ]
+    [ "SetUp", "d8/dc7/a29923.html#a20b3a8161766a47ae37349f02cbe5b90", null ],
+    [ "TearDown", "d8/dc7/a29923.html#a9b41e4a95a6ca160c70272dfb90b5f8a", null ],
+    [ "creatureQuestMap", "d8/dc7/a29923.html#ae8b815994792f237cf6e1803b9eaa7f7", null ],
+    [ "TEST_CREATURE_ID", "d8/dc7/a29923.html#a80a79959d4b5520f7acf671677a671e9", null ],
+    [ "TEST_POOL_ID", "d8/dc7/a29923.html#aa81759d0539b72ad3cdda7d2231f8e63", null ],
+    [ "TEST_QUEST_ID", "d8/dc7/a29923.html#a26e68107bb625d0c5b6281c7df9199be", null ]
 ];

@@ -1,6 +1,12 @@
 var a23643 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d1/d45/a23647.html", "d1/d45/a23647" ],
-    [ "instance_hellfire_ramparts", "df/d90/a23643.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
-    [ "GetInstanceScript", "df/d90/a23643.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
+    [ "boss_watchkeeper_gargolmar", "df/d90/a23643.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
+    [ "JustDied", "df/d90/a23643.html#a39be5796b39bea913105fc48dda0d186", null ],
+    [ "JustEngagedWith", "df/d90/a23643.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
+    [ "KilledUnit", "df/d90/a23643.html#a22736c2680f41cfd3443a76cd4de9352", null ],
+    [ "MoveInLineOfSight", "df/d90/a23643.html#adec9837fdb2595ce57acffb279a7d011", null ],
+    [ "Reset", "df/d90/a23643.html#a356b7fe9071b073b74b21913e35e7408", null ],
+    [ "UpdateAI", "df/d90/a23643.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
+    [ "_hasSpoken", "df/d90/a23643.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
+    [ "_taunted", "df/d90/a23643.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
 ];

@@ -1,7 +1,12 @@
 var a20819 =
 [
-    [ "boss_thorim_trap", "d5/d87/a20819.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
-    [ "Reset", "d5/d87/a20819.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
-    [ "UpdateAI", "d5/d87/a20819.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
-    [ "_checkTimer", "d5/d87/a20819.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
+    [ "boss_thorim_lightning_orb", "d5/d87/a20819.html#a04d4de44a41e62d6c1c4c68d3064a861", null ],
+    [ "AttackStart", "d5/d87/a20819.html#a8e512ec039d93b1ceb7a2b8ee556fa56", null ],
+    [ "EnterEvadeMode", "d5/d87/a20819.html#a855df9994de0901e56ac6f84d71ab7e4", null ],
+    [ "InitWaypoint", "d5/d87/a20819.html#a46a7a73cb200d7bbaa7f38871c765254", null ],
+    [ "MoveInLineOfSight", "d5/d87/a20819.html#a3577618ff9d5bdea191d840b6c968fad", null ],
+    [ "Reset", "d5/d87/a20819.html#adeefc7cd014021305b77cc9c52102ce6", null ],
+    [ "WaypointReached", "d5/d87/a20819.html#a3948ca0a57befa16e15e0d6ab97a0cbe", null ],
+    [ "WaypointReached", "d5/d87/a20819.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "Timer", "d5/d87/a20819.html#a79c24c42364c9932199ece2775f7a7f2", null ]
 ];

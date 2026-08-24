@@ -1,12 +1,7 @@
 var a19967 =
 [
-    [ "boss_loken", "d9/d48/a19967.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
-    [ "JustDied", "d9/d48/a19967.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
-    [ "JustEngagedWith", "d9/d48/a19967.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
-    [ "KilledUnit", "d9/d48/a19967.html#a85ae3094927f7484216b44582f9a2bf6", null ],
-    [ "MoveInLineOfSight", "d9/d48/a19967.html#ac9f3115629e5595d06c213d3e04afa68", null ],
-    [ "OnAuraRemove", "d9/d48/a19967.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
-    [ "Reset", "d9/d48/a19967.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
-    [ "ScheduleTasks", "d9/d48/a19967.html#a600e211be40226679212a7078b26f3ed", null ],
-    [ "_introDone", "d9/d48/a19967.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
+    [ "OnRemove", "d9/d48/a19967.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "d9/d48/a19967.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "d9/d48/a19967.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "d9/d48/a19967.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

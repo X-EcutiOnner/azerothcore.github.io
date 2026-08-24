@@ -1,6 +1,8 @@
 var a21927 =
 [
-    [ "HandleScriptEffect", "da/dc4/a21927.html#aab68c7fac277f4da5a6cf8bf8e6256ea", null ],
-    [ "PrepareSpellScript", "da/dc4/a21927.html#a6b7f628a138ac395a8cc122902ec38b4", null ],
-    [ "Register", "da/dc4/a21927.html#aacf2bbf7b8396fd7cfbfaf34a66f9b61", null ]
+    [ "AfterApply", "da/dc4/a21927.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "da/dc4/a21927.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "da/dc4/a21927.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "da/dc4/a21927.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "da/dc4/a21927.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

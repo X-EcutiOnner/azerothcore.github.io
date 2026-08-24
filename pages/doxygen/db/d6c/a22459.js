@@ -1,7 +1,6 @@
 var a22459 =
 [
-    [ "HandleScript", "db/d6c/a22459.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "db/d6c/a22459.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "db/d6c/a22459.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "db/d6c/a22459.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "go_wg_vehicle_teleporterAI", "db/d05/a22463.html", "db/d05/a22463" ],
+    [ "go_wg_vehicle_teleporter", "db/d6c/a22459.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
+    [ "GetAI", "db/d6c/a22459.html#a113aaf42c095000c1a016bfe60df11e7", null ]
 ];

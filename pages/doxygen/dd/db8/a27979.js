@@ -1,6 +1,8 @@
 var a27979 =
 [
-    [ "AfterCheckProc", "dd/db8/a27979.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
-    [ "PrepareAuraScript", "dd/db8/a27979.html#aa184faf59edbad97ec361e66169137b9", null ],
-    [ "Register", "dd/db8/a27979.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
+    [ "CheckProc", "dd/db8/a27979.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
+    [ "HandleEffectProc", "dd/db8/a27979.html#af01d160cb2a55124361a2dd113acd0a7", null ],
+    [ "PrepareAuraScript", "dd/db8/a27979.html#aeffb8490a7208ae6e32a505283afbc03", null ],
+    [ "Register", "dd/db8/a27979.html#a5436413d098dde4b0fa1ed2259a47779", null ],
+    [ "Validate", "dd/db8/a27979.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
 ];

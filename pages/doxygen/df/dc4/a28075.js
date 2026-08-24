@@ -1,5 +1,5 @@
 var a28075 =
 [
-    [ "achievement_fa_la_la_la_ogrila", "df/dc4/a28075.html#ab98a8ab33fec62936bf3c235659c1445", null ],
-    [ "OnCheck", "df/dc4/a28075.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
+    [ "achievement_killed_exp_or_honor_target", "df/dc4/a28075.html#aad432878c97af698dd1cc4019d716281", null ],
+    [ "OnCheck", "df/dc4/a28075.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
 ];

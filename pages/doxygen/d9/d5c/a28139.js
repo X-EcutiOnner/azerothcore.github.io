@@ -1,6 +1,6 @@
 var a28139 =
 [
-    [ "boss_ysondreAI", "de/d09/a28143.html", "de/d09/a28143" ],
-    [ "boss_ysondre", "d9/d5c/a28139.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
-    [ "GetAI", "d9/d5c/a28139.html#a0da215d7bc8ee86216887e682b9335c3", null ]
+    [ "npc_dream_fogAI", "de/d09/a28143.html", "de/d09/a28143" ],
+    [ "npc_dream_fog", "d9/d5c/a28139.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "d9/d5c/a28139.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

@@ -1,10 +1,7 @@
 var a21599 =
 [
-    [ "npc_lurgglbrAI", "df/d32/a21599.html#a9239b85c65f9b405335d432f355637d5", null ],
-    [ "Reset", "df/d32/a21599.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
-    [ "UpdateAI", "df/d32/a21599.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
-    [ "WaypointReached", "df/d32/a21599.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
-    [ "WaypointReached", "df/d32/a21599.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "IntroPhase", "df/d32/a21599.html#a57e2c42cccf91765365e0b046446637a", null ],
-    [ "IntroTimer", "df/d32/a21599.html#ada9762806ae0132e37197e6fb1279866", null ]
+    [ "npc_lurgglbrAI", "d5/d1a/a21603.html", "d5/d1a/a21603" ],
+    [ "npc_lurgglbr", "df/d32/a21599.html#a7df52667e4d789391820a4c2182db8d2", null ],
+    [ "GetAI", "df/d32/a21599.html#a2795346371e7b474c53dcacb9daf2001", null ],
+    [ "OnQuestAccept", "df/d32/a21599.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
 ];

@@ -1,7 +1,7 @@
 var a03629 =
 [
-    [ "boss_urom", "d7/df7/a19851.html", "d7/df7/a19851" ],
-    [ "boss_urom::boss_uromAI", "df/de4/a19855.html", "df/de4/a19855" ],
+    [ "boss_urom", "df/de4/a19855.html", "df/de4/a19855" ],
+    [ "boss_urom::boss_uromAI", "dc/d31/a19859.html", "dc/d31/a19859" ],
     [ "Events", "d8/d33/a03629.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d9/dc9/a03347.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d9/dc9/a03347.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

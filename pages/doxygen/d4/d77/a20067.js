@@ -1,6 +1,6 @@
 var a20067 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "dc/da6/a20071.html", "dc/da6/a20071" ],
-    [ "instance_halls_of_stone", "d4/d77/a20067.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "d4/d77/a20067.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "HandleApplyTouch", "d4/d77/a20067.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "d4/d77/a20067.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "d4/d77/a20067.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

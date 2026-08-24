@@ -1,6 +1,7 @@
 var a19039 =
 [
-    [ "npc_crok_scourgebaneAI", "de/d9a/a19043.html", "de/d9a/a19043" ],
-    [ "npc_crok_scourgebane", "dd/d78/a19039.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "dd/d78/a19039.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "npc_frost_freeze_trapAI", "dd/d78/a19039.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "dd/d78/a19039.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "dd/d78/a19039.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "dd/d78/a19039.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

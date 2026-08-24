@@ -1,7 +1,7 @@
 var a21535 =
 [
-    [ "npc_azure_raider", "d7/dd8/a21535.html#a841b0fb8a0ca5ca82f3183835281d0e7", null ],
-    [ "Reset", "d7/dd8/a21535.html#a3579986a1769467cb17d3b15242e0551", null ],
-    [ "UpdateAI", "d7/dd8/a21535.html#a7aa0c785e976167ef384d7c4dac3294f", null ],
-    [ "_events", "d7/dd8/a21535.html#a8d25c785974cb8c50b55b547b982b06f", null ]
+    [ "npc_azure_mage_slayer", "d7/dd8/a21535.html#a8f537bf85f7d50dda0f3e2e9cb7bd293", null ],
+    [ "Reset", "d7/dd8/a21535.html#ad760e69d3246117726b2a2e066e6c5ce", null ],
+    [ "UpdateAI", "d7/dd8/a21535.html#a412a23b56efad90af180dee17f9f2be3", null ],
+    [ "_events", "d7/dd8/a21535.html#aadb7b09a9fbdd9ca8f04ba38e79901b3", null ]
 ];

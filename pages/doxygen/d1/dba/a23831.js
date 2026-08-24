@@ -1,6 +1,10 @@
 var a23831 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "d2/da6/a23835.html", "d2/da6/a23835" ],
-    [ "instance_the_botanica", "d1/dba/a23831.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "d1/dba/a23831.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "boss_thorngrin_the_tender", "d1/dba/a23831.html#ad960b1084fc08d2870975c7c6c44ab2b", null ],
+    [ "JustDied", "d1/dba/a23831.html#a4bc13108f7cb240fedb44ccae2b54047", null ],
+    [ "JustEngagedWith", "d1/dba/a23831.html#a647ed5b29861b719d3c4a11fd110c512", null ],
+    [ "KilledUnit", "d1/dba/a23831.html#ab3731c5b56e1c01aa5d78d84a5e60234", null ],
+    [ "MoveInLineOfSight", "d1/dba/a23831.html#a9467e59287b3e917907de82507d1a16d", null ],
+    [ "Reset", "d1/dba/a23831.html#af3f1471cbcdadfe3a86421d7232fb4b9", null ],
+    [ "_intro", "d1/dba/a23831.html#a48fc89c7e9814d90a8724ca38c5e2fe8", null ]
 ];

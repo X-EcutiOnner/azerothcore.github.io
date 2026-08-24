@@ -1,11 +1,15 @@
 var a22747 =
 [
-    [ "boss_murmur", "da/d46/a22747.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
-    [ "CastSuppressionOOC", "da/d46/a22747.html#aab66339a7436c3c483297b25f6859558", null ],
-    [ "DamageTaken", "da/d46/a22747.html#a6446fe6c0ae5ece0cd70c8d9dbccb0f5", null ],
-    [ "EnterEvadeMode", "da/d46/a22747.html#aa0f549c83a92302ece2323c75dd29acc", null ],
-    [ "JustEngagedWith", "da/d46/a22747.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
-    [ "Reset", "da/d46/a22747.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
-    [ "SetGUID", "da/d46/a22747.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
-    [ "ShouldCastResonance", "da/d46/a22747.html#ade07217a85655a513d7a472d24589691", null ]
+    [ "boss_grandmaster_vorpil", "da/d46/a22747.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
+    [ "counterVoidSpawns", "da/d46/a22747.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
+    [ "JustDied", "da/d46/a22747.html#ab492fff8a9a275c662b44eeff3300b90", null ],
+    [ "JustEngagedWith", "da/d46/a22747.html#af1e6da02cd33742efad568424cf32c4f", null ],
+    [ "JustSummoned", "da/d46/a22747.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
+    [ "KilledUnit", "da/d46/a22747.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
+    [ "MoveInLineOfSight", "da/d46/a22747.html#adb24a3d337b64f37759a3a39802d7e27", null ],
+    [ "Reset", "da/d46/a22747.html#a6471121ee02a834591b36d03fae28672", null ],
+    [ "spawnVoidTraveler", "da/d46/a22747.html#aa842bc3d88d0a3a411dcba3711809956", null ],
+    [ "summonPortals", "da/d46/a22747.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
+    [ "sayHelp", "da/d46/a22747.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
+    [ "sayIntro", "da/d46/a22747.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
 ];
