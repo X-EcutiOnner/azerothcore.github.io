@@ -1,7 +1,6 @@
 var a24179 =
 [
-    [ "npc_bessyAI", "d7/d81/a24183.html", "d7/d81/a24183" ],
-    [ "npc_bessy", "d1/dce/a24179.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "d1/dce/a24179.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "d1/dce/a24179.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "npc_commander_dawnforgeAI", "d7/d81/a24183.html", "d7/d81/a24183" ],
+    [ "npc_commander_dawnforge", "d1/dce/a24179.html#ab4d430725f68f906e9c8def66b1d6646", null ],
+    [ "GetAI", "d1/dce/a24179.html#a6089b087b7c3b18659e23c677814318b", null ]
 ];

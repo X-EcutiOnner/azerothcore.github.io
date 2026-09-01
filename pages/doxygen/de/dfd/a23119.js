@@ -1,8 +1,8 @@
 var a23119 =
 [
-    [ "CalcPeriodic", "de/dfd/a23119.html#aad87c25b9b3255a4871bec39d9787299", null ],
-    [ "PrepareAuraScript", "de/dfd/a23119.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
-    [ "Register", "de/dfd/a23119.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
-    [ "Update", "de/dfd/a23119.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
-    [ "Validate", "de/dfd/a23119.html#ae4f7bfb1cd95666acada217173876352", null ]
+    [ "instance_black_temple_InstanceMapScript", "de/dfd/a23119.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
+    [ "OnCreatureCreate", "de/dfd/a23119.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
+    [ "OnGameObjectCreate", "de/dfd/a23119.html#a564a49814ceb3b3161a6476335ab653a", null ],
+    [ "SetBossState", "de/dfd/a23119.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
+    [ "ashtongueGUIDs", "de/dfd/a23119.html#a85fa9c5231f13529a0741b0f92266c90", null ]
 ];

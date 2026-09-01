@@ -1,10 +1,10 @@
 var a03413 =
 [
-    [ "OPvPCapturePointEP_EWT", "d8/de7/a22555.html", "d8/de7/a22555" ],
-    [ "OPvPCapturePointEP_NPT", "d7/d84/a22559.html", "d7/d84/a22559" ],
-    [ "OPvPCapturePointEP_CGT", "d1/d91/a22563.html", "d1/d91/a22563" ],
-    [ "OPvPCapturePointEP_PWT", "d2/d68/a22567.html", "d2/d68/a22567" ],
-    [ "OutdoorPvPEP", "d9/de3/a22571.html", "d9/de3/a22571" ],
+    [ "OPvPCapturePointEP_EWT", "d2/d68/a22567.html", "d2/d68/a22567" ],
+    [ "OPvPCapturePointEP_NPT", "d9/de3/a22571.html", "d9/de3/a22571" ],
+    [ "OPvPCapturePointEP_CGT", "d3/db1/a22575.html", "d3/db1/a22575" ],
+    [ "OPvPCapturePointEP_PWT", "dd/d7f/a22579.html", "dd/d7f/a22579" ],
+    [ "OutdoorPvPEP", "d7/dc7/a22583.html", "d7/dc7/a22583" ],
     [ "EP_GoSummons", "d6/daa/a03413.html#a0b5226d66242870e9f2bd6067ac871da", [
       [ "EP_NPT_BUFF", "d6/daa/a03413.html#a0b5226d66242870e9f2bd6067ac871daabd6b57d3cd665b36305c0aac5f5721d0", null ],
       [ "EP_NPT_FLAGS", "d6/daa/a03413.html#a0b5226d66242870e9f2bd6067ac871daa161f6913680b58a1eabe5ebbc4893cd9", null ],

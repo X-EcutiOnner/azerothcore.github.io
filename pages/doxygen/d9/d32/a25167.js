@@ -1,6 +1,6 @@
 var a25167 =
 [
-    [ "OnPeriodic", "d9/d32/a25167.html#a5fdf44f34765d0386d5c5490620c944a", null ],
-    [ "PrepareAuraScript", "d9/d32/a25167.html#a3c3044795e183eef2c801781100b11c7", null ],
-    [ "Register", "d9/d32/a25167.html#a1221c3287c3fd7add356e84430508684", null ]
+    [ "ModDest", "d9/d32/a25167.html#a99d08536d2555390a7399a6d2fc199e6", null ],
+    [ "PrepareSpellScript", "d9/d32/a25167.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
+    [ "Register", "d9/d32/a25167.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
 ];

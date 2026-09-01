@@ -1,9 +1,8 @@
 var a21979 =
 [
-    [ "npc_wounded_skirmisher", "df/d79/a21979.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
-    [ "Initialize", "df/d79/a21979.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
-    [ "JustEngagedWith", "df/d79/a21979.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
-    [ "Reset", "df/d79/a21979.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
-    [ "SpellHit", "df/d79/a21979.html#a891e879af5da1f181c94e528c59a81f1", null ],
-    [ "UpdateAI", "df/d79/a21979.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
+    [ "npc_ravenous_worgAI", "df/d79/a21979.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "df/d79/a21979.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "df/d79/a21979.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "df/d79/a21979.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "df/d79/a21979.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

@@ -1,7 +1,9 @@
 var a22387 =
 [
-    [ "HandleScript", "d1/ded/a22387.html#ad38771460ddf0f95783718775690d1f0", null ],
-    [ "PrepareSpellScript", "d1/ded/a22387.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
-    [ "Register", "d1/ded/a22387.html#a3ba23fd54c35c2d2866db647811c948d", null ],
-    [ "Validate", "d1/ded/a22387.html#a6a58808356785c25032c2befd429ff2b", null ]
+    [ "HandlePeriodic", "d1/ded/a22387.html#a0943e7887ff935ccea21d913429e25a0", null ],
+    [ "OnRemove", "d1/ded/a22387.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
+    [ "PrepareAuraScript", "d1/ded/a22387.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
+    [ "Register", "d1/ded/a22387.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
+    [ "_tickNumber", "d1/ded/a22387.html#a3f8943e288e96f639fb805869749879b", null ],
+    [ "_warning", "d1/ded/a22387.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
 ];

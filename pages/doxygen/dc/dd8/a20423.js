@@ -1,7 +1,6 @@
 var a20423 =
 [
-    [ "HandleAfterEffectApply", "dc/dd8/a20423.html#a672526de2c71dcae79bacef88f34dc26", null ],
-    [ "PrepareAuraScript", "dc/dd8/a20423.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
-    [ "Register", "dc/dd8/a20423.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
-    [ "Validate", "dc/dd8/a20423.html#ab5833f6218760a7d9829b5d453436302", null ]
+    [ "FilterTargets", "dc/dd8/a20423.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
+    [ "PrepareSpellScript", "dc/dd8/a20423.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
+    [ "Register", "dc/dd8/a20423.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
 ];

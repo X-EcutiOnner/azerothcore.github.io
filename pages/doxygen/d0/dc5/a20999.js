@@ -1,7 +1,9 @@
 var a20999 =
 [
-    [ "boss_yoggsaron_corruptor_tentacle", "d0/dc5/a20999.html#afc092be8079630b1214c98b8896a22c3", null ],
-    [ "DoAction", "d0/dc5/a20999.html#adf9489b954cc83a26263ffffe4ef2dd5", null ],
-    [ "SelectCorruptionTarget", "d0/dc5/a20999.html#a8b868941372af612e269e013594a5c14", null ],
-    [ "UpdateAI", "d0/dc5/a20999.html#a2f8911a615d32689088a6c358ac80d3f", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "d0/dc5/a20999.html#a1649412beffbc87ce046a591775b02b2", null ],
+    [ "DamageTaken", "d0/dc5/a20999.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "d0/dc5/a20999.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "d0/dc5/a20999.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "d0/dc5/a20999.html#ae22a12401dc98534da1cb771468a58ce", null ],
+    [ "_diminishReady", "d0/dc5/a20999.html#af8d417c56918cf59dfe3d8429c4cf239", null ]
 ];

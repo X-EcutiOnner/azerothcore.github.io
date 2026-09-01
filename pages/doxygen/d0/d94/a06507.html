@@ -342,6 +342,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#abeb05f651e7b7a7235c89f576d9c5d8e">JustExitedCombat</a> ()</td></tr>
 <tr class="memdesc:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when the unit leaves combat.  <a href="../../df/d2f/a06551.html#abeb05f651e7b7a7235c89f576d9c5d8e">More...</a><br /></td></tr>
 <tr class="separator:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#abb4ce22edb0c6145426beaf14e1f0efa">OnDespawn</a> ()</td></tr>
+<tr class="memdesc:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when the unit is about to be removed from the world (despawn, grid unload, corpse disappearing, player logging out etc.)  <a href="../../df/d2f/a06551.html#abb4ce22edb0c6145426beaf14e1f0efa">More...</a><br /></td></tr>
+<tr class="separator:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#a950e9e3046791e271f3a240ea73bb211">EvadeTimerExpired</a> ()</td></tr>
 <tr class="memdesc:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when evade timer expires (target unreachable for too long)  <a href="../../df/d2f/a06551.html#a950e9e3046791e271f3a240ea73bb211">More...</a><br /></td></tr>
 <tr class="separator:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -555,10 +558,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa01544_html_ae51d2ecb71f7a5cb3882982a622c9544ab254220382db03ed44e6cea86ad4c87d"><div class="ttname"><a href="../../d6/d83/a01544.html#ae51d2ecb71f7a5cb3882982a622c9544ab254220382db03ed44e6cea86ad4c87d">UNIT_STATE_FLEEING</a></div><div class="ttdeci">@ UNIT_STATE_FLEEING</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:180</div></div>
 <div class="ttc" id="aa06563_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:71</div></div>
 <div class="ttc" id="aa06563_html_afe5dd68e11d20028510eca29d4184778"><div class="ttname"><a href="../../dd/d91/a06563.html#afe5dd68e11d20028510eca29d4184778">CreatureAI::EnterEvadeMode</a></div><div class="ttdeci">virtual void EnterEvadeMode(EvadeReason why=EVADE_REASON_OTHER)</div><div class="ttdef"><b>Definition:</b> CreatureAI.cpp:235</div></div>
-<div class="ttc" id="aa09163_html_a828f4fc42209162a104a10d1f70838d4"><div class="ttname"><a href="../../d5/d74/a09163.html#a828f4fc42209162a104a10d1f70838d4">Unit::SetControlled</a></div><div class="ttdeci">void SetControlled(bool apply, UnitState state, Unit *source=nullptr, bool isFear=false)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:14305</div></div>
+<div class="ttc" id="aa09163_html_a828f4fc42209162a104a10d1f70838d4"><div class="ttname"><a href="../../d5/d74/a09163.html#a828f4fc42209162a104a10d1f70838d4">Unit::SetControlled</a></div><div class="ttdeci">void SetControlled(bool apply, UnitState state, Unit *source=nullptr, bool isFear=false)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:14308</div></div>
 <div class="ttc" id="aa09163_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../d5/d74/a09163.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition:</b> Unit.h:737</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00235">CreatureAI::EnterEvadeMode()</a>, <a class="el" href="../../#l00737">Unit::HasUnitState()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l14305">Unit::SetControlled()</a>, and <a class="el" href="../../#l00180">UNIT_STATE_FLEEING</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00235">CreatureAI::EnterEvadeMode()</a>, <a class="el" href="../../#l00737">Unit::HasUnitState()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l14308">Unit::SetControlled()</a>, and <a class="el" href="../../#l00180">UNIT_STATE_FLEEING</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00085">MovementInform()</a>.</p>
 
@@ -598,7 +601,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   82</span>    }</div>
 <div class="line"><span class="lineno">   83</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00737">Unit::HasUnitState()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l14305">Unit::SetControlled()</a>, and <a class="el" href="../../#l00180">UNIT_STATE_FLEEING</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00737">Unit::HasUnitState()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l14308">Unit::SetControlled()</a>, and <a class="el" href="../../#l00180">UNIT_STATE_FLEEING</a>.</p>
 
 </div>
 </div>
@@ -725,7 +728,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d94/a06507.html">CritterAI</a></li>
-    <li class="footer">Generated on Mon Aug 24 2026 21:03:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Sep 1 2026 00:08:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

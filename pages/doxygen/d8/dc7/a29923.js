@@ -1,9 +1,8 @@
 var a29923 =
 [
-    [ "SetUp", "d8/dc7/a29923.html#a20b3a8161766a47ae37349f02cbe5b90", null ],
-    [ "TearDown", "d8/dc7/a29923.html#a9b41e4a95a6ca160c70272dfb90b5f8a", null ],
-    [ "creatureQuestMap", "d8/dc7/a29923.html#ae8b815994792f237cf6e1803b9eaa7f7", null ],
-    [ "TEST_CREATURE_ID", "d8/dc7/a29923.html#a80a79959d4b5520f7acf671677a671e9", null ],
-    [ "TEST_POOL_ID", "d8/dc7/a29923.html#aa81759d0539b72ad3cdda7d2231f8e63", null ],
-    [ "TEST_QUEST_ID", "d8/dc7/a29923.html#a26e68107bb625d0c5b6281c7df9199be", null ]
+    [ "TestOocPlayerScript", "d8/dc7/a29923.html#ad8a63387a46b252a555b5d48b0f73d55", null ],
+    [ "EnsureRegistered", "d8/dc7/a29923.html#a485c732b5cc87e418e1e8b0fdb80e5b7", null ],
+    [ "OnPlayerCompleteQuest", "d8/dc7/a29923.html#a7288e4227b28edebe4723c14ef56bce1", null ],
+    [ "OnPlayerLevelChanged", "d8/dc7/a29923.html#a0d2fa7743649d3443f49654d55ca1558", null ],
+    [ "Instance", "d8/dc7/a29923.html#a58269b1a038bfbdc8c9dafd058d16b5e", null ]
 ];

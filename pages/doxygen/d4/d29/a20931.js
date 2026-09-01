@@ -1,7 +1,8 @@
 var a20931 =
 [
-    [ "FilterTargets", "d4/d29/a20931.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "d4/d29/a20931.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "d4/d29/a20931.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "d4/d29/a20931.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "npc_xt_toy_pile", "d4/d29/a20931.html#a843e7d05cf62baa5c006077f8dad107d", null ],
+    [ "SpellHit", "d4/d29/a20931.html#a82af3830eaf524c587334e8eb193925f", null ],
+    [ "_lastSummonTime", "d4/d29/a20931.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
+    [ "SummonCooldown", "d4/d29/a20931.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
+    [ "SummonDistance", "d4/d29/a20931.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
 ];

@@ -1,11 +1,6 @@
 var a22975 =
 [
-    [ "boss_essence_of_sufferingAI", "d3/d65/a22975.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
-    [ "DamageTaken", "d3/d65/a22975.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
-    [ "DoAction", "d3/d65/a22975.html#a08724d74523866969b12d13846eb4c1e", null ],
-    [ "JustEngagedWith", "d3/d65/a22975.html#aa2fce36768ad6e23a955cd215ca759db", null ],
-    [ "KilledUnit", "d3/d65/a22975.html#a3699b19f23cf15115ff8c92691a6d334", null ],
-    [ "MovementInform", "d3/d65/a22975.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
-    [ "Reset", "d3/d65/a22975.html#affa55b69784d8f881598189c361c986e", null ],
-    [ "UpdateAI", "d3/d65/a22975.html#abb60432720b3720832ccc83d454a3808", null ]
+    [ "boss_reliquary_of_soulsAI", "d9/d37/a22979.html", "d9/d37/a22979" ],
+    [ "boss_reliquary_of_souls", "d3/d65/a22975.html#a0c73fc6221da0b19903e534932ca6406", null ],
+    [ "GetAI", "d3/d65/a22975.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
 ];

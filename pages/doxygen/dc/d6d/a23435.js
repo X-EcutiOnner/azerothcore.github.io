@@ -1,5 +1,6 @@
 var a23435 =
 [
-    [ "at_quagmirran_lair", "dc/d6d/a23435.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
-    [ "OnTrigger", "dc/d6d/a23435.html#aa0aab42516efaf842923b8a820942ac4", null ]
+    [ "boss_rokmar_the_crackler", "dc/d6d/a23435.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "dc/d6d/a23435.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "dc/d6d/a23435.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

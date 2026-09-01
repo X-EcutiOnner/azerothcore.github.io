@@ -1,7 +1,6 @@
 var a22183 =
 [
-    [ "HandleScriptEffect", "df/df3/a22183.html#ad20cf97a7dd442d5670a22095b487a01", null ],
-    [ "PrepareSpellScript", "df/df3/a22183.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
-    [ "Register", "df/df3/a22183.html#a996ea344ea2a3312cb8886565b80972d", null ],
-    [ "Validate", "df/df3/a22183.html#a29bf5a9615e02281f426bf521a045567", null ]
+    [ "npc_infra_green_bomber_genericAI", "d1/de0/a22187.html", "d1/de0/a22187" ],
+    [ "npc_infra_green_bomber_generic", "df/df3/a22183.html#a39134a09376c35f15e99377cd28ac6ff", null ],
+    [ "GetAI", "df/df3/a22183.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
 ];

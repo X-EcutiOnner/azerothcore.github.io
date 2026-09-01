@@ -1,8 +1,7 @@
 var a22059 =
 [
-    [ "CheckCast", "d7/de1/a22059.html#a49e425fa95e5107f38aa16e546674b7d", null ],
-    [ "HandleScript", "d7/de1/a22059.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
-    [ "PrepareSpellScript", "d7/de1/a22059.html#a9e7a1239e165131b70c437793b5371d0", null ],
-    [ "Register", "d7/de1/a22059.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
-    [ "Validate", "d7/de1/a22059.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
+    [ "npc_plaguehound_trackerAI", "d7/de1/a22059.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d7/de1/a22059.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d7/de1/a22059.html#a67c345f49572cde76d9109a1baff6788", null ],
+    [ "WaypointReached", "d7/de1/a22059.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

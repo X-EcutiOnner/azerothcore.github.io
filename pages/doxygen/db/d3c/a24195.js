@@ -1,6 +1,9 @@
 var a24195 =
 [
-    [ "CheckCast", "db/d3c/a24195.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "db/d3c/a24195.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "db/d3c/a24195.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "npc_bessyAI", "db/d3c/a24195.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "db/d3c/a24195.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "db/d3c/a24195.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "db/d3c/a24195.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "db/d3c/a24195.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ],
+    [ "WaypointReached", "db/d3c/a24195.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

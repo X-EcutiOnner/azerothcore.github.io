@@ -1,24 +1,5 @@
 var a20575 =
 [
-    [ "boss_kologarn", "d6/d12/a20575.html#a785ca1b78ef1c04b3c1d5f0b243b99d9", null ],
-    [ "AttachLeftArm", "d6/d12/a20575.html#a74183a296b722f14ff6d06751733f425", null ],
-    [ "AttachRightArm", "d6/d12/a20575.html#ab6daf2bc1350574ca3d96864fbac298a", null ],
-    [ "AttackStart", "d6/d12/a20575.html#a87285d89c60ad61b76805e7bef75c55f", null ],
-    [ "DamageTaken", "d6/d12/a20575.html#a78f85fbbf7da9a6b8dd78859ec727bf5", null ],
-    [ "DoAction", "d6/d12/a20575.html#af7bf97511705a8dabb6fe40334c3a38a", null ],
-    [ "GetData", "d6/d12/a20575.html#a1b1929673af5db04cf3b00400784b06d", null ],
-    [ "JustDied", "d6/d12/a20575.html#a519cf71d4734d9e67af10ac5516c544a", null ],
-    [ "JustEngagedWith", "d6/d12/a20575.html#a6638cf2efb62d2a2b861e78e360554f3", null ],
-    [ "JustSummoned", "d6/d12/a20575.html#a18c17d9dd89aeb8dd154b2a2dc1bd0ed", null ],
-    [ "KilledUnit", "d6/d12/a20575.html#ac311a3c891f723d82c6c848675b27c4e", null ],
-    [ "MoveInLineOfSight", "d6/d12/a20575.html#ad6fd6e129721757fca0d36e31bd7269c", null ],
-    [ "PassengerBoarded", "d6/d12/a20575.html#a14aaed01a6d1824521e4e95c751cc248", null ],
-    [ "Reset", "d6/d12/a20575.html#a56a7feee3a13fdb499e87549343aaca5", null ],
-    [ "UpdateAI", "d6/d12/a20575.html#a658921f3049414613e5b2245d6137c61", null ],
-    [ "_left", "d6/d12/a20575.html#aea5354051bd277287336c670296442b8", null ],
-    [ "_looksAchievement", "d6/d12/a20575.html#a5ecb293f05940091d3c824025d474bd3", null ],
-    [ "_right", "d6/d12/a20575.html#a955364165d45784ca506bf77d8ab7e7c", null ],
-    [ "_rubbleAchievement", "d6/d12/a20575.html#a5d7df3f5ef09e7f294759be909d9d955", null ],
-    [ "breathReady", "d6/d12/a20575.html#a4ad6f7048bf3ba0bb39294cf4a7ca118", null ],
-    [ "vehicle", "d6/d12/a20575.html#a660ae775be9cf6c5e506a31d97c720fa", null ]
+    [ "achievement_ignis_shattered", "d6/d12/a20575.html#adbe893b0dd409eb3f10768f81f182f61", null ],
+    [ "OnCheck", "d6/d12/a20575.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
 ];

@@ -1,7 +1,8 @@
 var a22075 =
 [
-    [ "HandleDummy", "da/d67/a22075.html#a2b903398db78b07e6315a582c2f0a38d", null ],
-    [ "PrepareSpellScript", "da/d67/a22075.html#ae86e65e975f464527f71f70ac8b14213", null ],
-    [ "Register", "da/d67/a22075.html#a390c378d25b5892679b0253f50c2c145", null ],
-    [ "Validate", "da/d67/a22075.html#a79170e1b6f472df2c0427e7009209228", null ]
+    [ "AfterApply", "da/d67/a22075.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
+    [ "AfterRemove", "da/d67/a22075.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
+    [ "PrepareAuraScript", "da/d67/a22075.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
+    [ "Register", "da/d67/a22075.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
+    [ "Validate", "da/d67/a22075.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
 ];

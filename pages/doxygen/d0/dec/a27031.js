@@ -1,6 +1,7 @@
 var a27031 =
 [
-    [ "CheckDummy", "d0/dec/a27031.html#ad2f75ba479a8523b0fffaae86204a25c", null ],
-    [ "PrepareAuraScript", "d0/dec/a27031.html#a7cd3757fddecca39b1b0bd95bb2b8e5b", null ],
-    [ "Register", "d0/dec/a27031.html#af0b1e469fec71b28ca349b9be9c6fdd7", null ]
+    [ "HandleProc", "d0/dec/a27031.html#a512ec25fe649e42930d64effa4f7868b", null ],
+    [ "PrepareAuraScript", "d0/dec/a27031.html#ac1c7dcf63d7c67ec5fad424531519b58", null ],
+    [ "Register", "d0/dec/a27031.html#a6118148ac0e641a6c3e4490c2cdd86c0", null ],
+    [ "Validate", "d0/dec/a27031.html#a22dea9fb57d89b1d4813722968b5429f", null ]
 ];

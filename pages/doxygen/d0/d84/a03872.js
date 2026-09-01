@@ -1,9 +1,9 @@
 var a03872 =
 [
-    [ "boss_emalon", "db/d40/a21399.html", "db/d40/a21399" ],
-    [ "boss_emalon::boss_emalonAI", "d6/d2b/a21403.html", "d6/d2b/a21403" ],
-    [ "spell_voa_overcharge_aura", "d5/d7c/a21407.html", "d5/d7c/a21407" ],
-    [ "spell_voa_lightning_nova", "d8/df5/a21411.html", "d8/df5/a21411" ],
+    [ "boss_emalon", "d8/df5/a21411.html", "d8/df5/a21411" ],
+    [ "boss_emalon::boss_emalonAI", "d6/d00/a21415.html", "d6/d00/a21415" ],
+    [ "spell_voa_overcharge_aura", "d0/db9/a21419.html", "d0/db9/a21419" ],
+    [ "spell_voa_lightning_nova", "d0/db1/a21423.html", "d0/db1/a21423" ],
     [ "Events", "d0/d84/a03872.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d9/dc9/a03347.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d9/dc9/a03347.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -1116,6 +1116,7 @@ var a03872 =
       [ "EVENT_THORIMS_HAMMER", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1ae36d8c8de56249065e0948e76530e60a", null ],
       [ "EVENT_SOUND_BEGINNING", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12", null ],
       [ "EVENT_EJECT_PLAYERS", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1a5defc9b52c1e590d7327c0a49889b674", null ],
+      [ "EVENT_CHECK_PLAYERS", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b", null ],
       [ "EVENT_TYMPANIC_TANTRUM", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a84422beac5b9e0b83ca83616c5efb4c8", null ],
       [ "EVENT_PHASE_CHECK", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a1273cef28932ef3d9134ce5be972ed10", null ],
       [ "EVENT_SEARING_LIGHT", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a1e895cbeeebafe4b8d99ff30621fe0d1", null ],

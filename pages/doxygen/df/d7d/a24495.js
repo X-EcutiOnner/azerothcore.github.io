@@ -1,6 +1,10 @@
 var a24495 =
 [
-    [ "CheckProc", "df/d7d/a24495.html#a5c7245398c005a133576493366010e58", null ],
-    [ "PrepareAuraScript", "df/d7d/a24495.html#ac2a2d20470e7fa3df8491c7c81330a52", null ],
-    [ "Register", "df/d7d/a24495.html#a4f6bcdb58b02d351aee9efcd37af3492", null ]
+    [ "npc_pet_hunter_snake_trap", "df/d7d/a24495.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
+    [ "InitializeAI", "df/d7d/a24495.html#a91931c2ac0fd4981f9bf8a2f8f7db672", null ],
+    [ "JustEngagedWith", "df/d7d/a24495.html#a695af9c49daa05c787dac03c4af91645", null ],
+    [ "MoveInLineOfSight", "df/d7d/a24495.html#a099a34f12399fe24349644da3dafe7a4", null ],
+    [ "UpdateAI", "df/d7d/a24495.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
+    [ "_isViper", "df/d7d/a24495.html#ab49c69ca25014ef63e775b236255e4c1", null ],
+    [ "_spellTimer", "df/d7d/a24495.html#ab9397451e2e8320ca77560a19baeee3f", null ]
 ];

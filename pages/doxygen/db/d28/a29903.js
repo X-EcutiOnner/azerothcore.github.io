@@ -1,6 +1,10 @@
 var a29903 =
 [
-    [ "MakeTime", "db/d28/a29903.html#aafef969ff6e16b69727166c02e2d3d70", null ],
-    [ "PackAnchor", "db/d28/a29903.html#a3650ca0f9c8030fe4bd9ca770506e105", null ],
-    [ "OCCURENCE_MIN", "db/d28/a29903.html#afcc01c96e3ec426969c1f90f7b87fe5a", null ]
+    [ "FakeAura", "db/d28/a29903.html#a72674203b5aa768aaec46bc824c66ad8", null ],
+    [ "IsExpired", "db/d28/a29903.html#af55fe68d7548abe43fbbe391163dcbf4", null ],
+    [ "IsRemoved", "db/d28/a29903.html#ad4b4a547d5596ad39d46125ded1c0863", null ],
+    [ "expired", "db/d28/a29903.html#a9de4d15b90ea8e89a5a3dd95122f5ff9", null ],
+    [ "removed", "db/d28/a29903.html#a0ea41ca4e60c4c56228687ca6038695f", null ],
+    [ "spellId", "db/d28/a29903.html#ab08e902dae2b24d869c2befe1e9a74a2", null ],
+    [ "updated", "db/d28/a29903.html#aacbde7f93cb160ed272a4b3ddd18f1ee", null ]
 ];

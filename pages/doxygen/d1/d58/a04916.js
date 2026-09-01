@@ -1,7 +1,7 @@
 var a04916 =
 [
-    [ "DeathEvent", "d2/d0d/a24499.html", "d2/d0d/a24499" ],
-    [ "npc_pet_mage_mirror_image", "d7/d95/a24503.html", "d7/d95/a24503" ],
+    [ "DeathEvent", "d7/d10/a24511.html", "d7/d10/a24511" ],
+    [ "npc_pet_mage_mirror_image", "d9/d5c/a24515.html", "d9/d5c/a24515" ],
     [ "MageSpells", "d1/d58/a04916.html#ab25cd6fd3bfda5736fd43f449c1b5124", [
       [ "SPELL_MAGE_CLONE_ME", "d1/d58/a04916.html#ab25cd6fd3bfda5736fd43f449c1b5124a490a27b1ed91b6f3f3a8cd41b5ded635", null ],
       [ "SPELL_MAGE_MASTERS_THREAT_LIST", "d1/d58/a04916.html#ab25cd6fd3bfda5736fd43f449c1b5124a73b29ac6b8c782654ff6d4e43542124f", null ],

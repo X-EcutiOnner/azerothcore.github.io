@@ -1,6 +1,6 @@
 var a21339 =
 [
-    [ "boss_svalaAI", "db/d28/a21343.html", "db/d28/a21343" ],
-    [ "boss_svala", "d0/d99/a21339.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
-    [ "GetAI", "d0/d99/a21339.html#a0c3b94635eca667a28496cf799efad25", null ]
+    [ "CanBeAppliedOn", "d0/d99/a21339.html#ad92126f58e8ac8c83449725bc29fda8b", null ],
+    [ "PrepareAuraScript", "d0/d99/a21339.html#aaa7631a3d8a5476da6e051de90f34ee4", null ],
+    [ "Register", "d0/d99/a21339.html#a9a3e0c1a86cfc1b9747810cfca76f784", null ]
 ];

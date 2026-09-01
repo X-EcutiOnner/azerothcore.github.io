@@ -342,6 +342,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#abeb05f651e7b7a7235c89f576d9c5d8e">JustExitedCombat</a> ()</td></tr>
 <tr class="memdesc:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when the unit leaves combat.  <a href="../../df/d2f/a06551.html#abeb05f651e7b7a7235c89f576d9c5d8e">More...</a><br /></td></tr>
 <tr class="separator:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#abb4ce22edb0c6145426beaf14e1f0efa">OnDespawn</a> ()</td></tr>
+<tr class="memdesc:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when the unit is about to be removed from the world (despawn, grid unload, corpse disappearing, player logging out etc.)  <a href="../../df/d2f/a06551.html#abb4ce22edb0c6145426beaf14e1f0efa">More...</a><br /></td></tr>
+<tr class="separator:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#a950e9e3046791e271f3a240ea73bb211">EvadeTimerExpired</a> ()</td></tr>
 <tr class="memdesc:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when evade timer expires (target unreachable for too long)  <a href="../../df/d2f/a06551.html#a950e9e3046791e271f3a240ea73bb211">More...</a><br /></td></tr>
 <tr class="separator:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -515,16 +518,16 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1103</span>                                        : <a class="code hl_class" href="../../de/d75/a06503.html">NullCreatureAI</a>(c)</div>
-<div class="line"><span class="lineno"> 1104</span>    {</div>
-<div class="line"><span class="lineno"> 1105</span>        <a class="code hl_variable" href="../../d8/d37/a20263.html#acb5d1f2b6590da32f36882339729c4e9">_amount</a> = 0;</div>
-<div class="line"><span class="lineno"> 1106</span>        <a class="code hl_variable" href="../../d8/d37/a20263.html#a9717b52f26045707fd852b955d29a5e6">_checkTimer</a> = 0;</div>
-<div class="line"><span class="lineno"> 1107</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1145</span>                                        : <a class="code hl_class" href="../../de/d75/a06503.html">NullCreatureAI</a>(c)</div>
+<div class="line"><span class="lineno"> 1146</span>    {</div>
+<div class="line"><span class="lineno"> 1147</span>        <a class="code hl_variable" href="../../d8/d37/a20263.html#acb5d1f2b6590da32f36882339729c4e9">_amount</a> = 0;</div>
+<div class="line"><span class="lineno"> 1148</span>        <a class="code hl_variable" href="../../d8/d37/a20263.html#a9717b52f26045707fd852b955d29a5e6">_checkTimer</a> = 0;</div>
+<div class="line"><span class="lineno"> 1149</span>    }</div>
 <div class="ttc" id="aa06503_html"><div class="ttname"><a href="../../de/d75/a06503.html">NullCreatureAI</a></div><div class="ttdef"><b>Definition:</b> PassiveAI.h:56</div></div>
-<div class="ttc" id="aa20263_html_a9717b52f26045707fd852b955d29a5e6"><div class="ttname"><a href="../../d8/d37/a20263.html#a9717b52f26045707fd852b955d29a5e6">npc_storm_beacon_spawn::_checkTimer</a></div><div class="ttdeci">uint32 _checkTimer</div><div class="ttdef"><b>Definition:</b> boss_flame_leviathan.cpp:1110</div></div>
-<div class="ttc" id="aa20263_html_acb5d1f2b6590da32f36882339729c4e9"><div class="ttname"><a href="../../d8/d37/a20263.html#acb5d1f2b6590da32f36882339729c4e9">npc_storm_beacon_spawn::_amount</a></div><div class="ttdeci">uint8 _amount</div><div class="ttdef"><b>Definition:</b> boss_flame_leviathan.cpp:1109</div></div>
+<div class="ttc" id="aa20263_html_a9717b52f26045707fd852b955d29a5e6"><div class="ttname"><a href="../../d8/d37/a20263.html#a9717b52f26045707fd852b955d29a5e6">npc_storm_beacon_spawn::_checkTimer</a></div><div class="ttdeci">uint32 _checkTimer</div><div class="ttdef"><b>Definition:</b> boss_flame_leviathan.cpp:1152</div></div>
+<div class="ttc" id="aa20263_html_acb5d1f2b6590da32f36882339729c4e9"><div class="ttname"><a href="../../d8/d37/a20263.html#acb5d1f2b6590da32f36882339729c4e9">npc_storm_beacon_spawn::_amount</a></div><div class="ttdeci">uint8 _amount</div><div class="ttdef"><b>Definition:</b> boss_flame_leviathan.cpp:1151</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01109">_amount</a>, and <a class="el" href="../../#l01110">_checkTimer</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01151">_amount</a>, and <a class="el" href="../../#l01152">_checkTimer</a>.</p>
 
 </div>
 </div>
@@ -556,24 +559,24 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../dd/d91/a06563.html#a15f691c9137273cd5c3d5ba6f0762300" title="Called for reaction when initially engaged - this happens after JustEnteredCombat.">JustEngagedWith()</a> </p>
 
 <p>Reimplemented from <a class="el" href="../../de/d75/a06503.html#ab200fcf78dee74a2ec808c01f5855236">NullCreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1113</span>    {</div>
-<div class="line"><span class="lineno"> 1114</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d8/d37/a20263.html#acb5d1f2b6590da32f36882339729c4e9">_amount</a> &lt; 40)</div>
-<div class="line"><span class="lineno"> 1115</span>        {</div>
-<div class="line"><span class="lineno"> 1116</span>            <a class="code hl_variable" href="../../d8/d37/a20263.html#a9717b52f26045707fd852b955d29a5e6">_checkTimer</a> += diff;</div>
-<div class="line"><span class="lineno"> 1117</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d8/d37/a20263.html#a9717b52f26045707fd852b955d29a5e6">_checkTimer</a> &gt;= 4000)</div>
-<div class="line"><span class="lineno"> 1118</span>            {</div>
-<div class="line"><span class="lineno"> 1119</span>                <a class="code hl_variable" href="../../d8/d37/a20263.html#a9717b52f26045707fd852b955d29a5e6">_checkTimer</a> = 0;</div>
-<div class="line"><span class="lineno"> 1120</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d74/a09163.html">Unit</a>* target = <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../de/db2/a08403.html#ad8891b07b8b211818d4284ed88e6ba10">SelectNearestTarget</a>(80.0f))</div>
-<div class="line"><span class="lineno"> 1121</span>                {</div>
-<div class="line"><span class="lineno"> 1122</span>                    ++<a class="code hl_variable" href="../../d8/d37/a20263.html#acb5d1f2b6590da32f36882339729c4e9">_amount</a>;</div>
-<div class="line"><span class="lineno"> 1123</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/db2/a08403.html">Creature</a>* cr = <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#ac46286b3e63188d6a328d2fbf7703caf">SummonCreature</a>(<a class="code hl_enumvalue" href="../../d6/dc7/a03683.html#a640f990db89b5748398cd4fd8eb97550aa0b46ff752d8fa0f7c85a54c37cefd83">NPC_DEFENDER_GENERATED</a>, <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d3/dcf/a08863.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d3/dcf/a08863.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>(), <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d3/dcf/a08863.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>() + 4, <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d3/dcf/a08863.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>(), <a class="code hl_enumvalue" href="../../d7/db6/a01556.html#a38c6d8d01cbe0c49b035f348f7724148a7fcc17b9aac93c81619414e6af366e39">TEMPSUMMON_TIMED_OR_DEAD_DESPAWN</a>, 900000))</div>
-<div class="line"><span class="lineno"> 1124</span>                        cr-&gt;AI()-&gt;AttackStart(target);</div>
-<div class="line"><span class="lineno"> 1125</span>                }</div>
-<div class="line"><span class="lineno"> 1126</span>            }</div>
-<div class="line"><span class="lineno"> 1127</span>        }</div>
-<div class="line"><span class="lineno"> 1128</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1155</span>    {</div>
+<div class="line"><span class="lineno"> 1156</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d8/d37/a20263.html#acb5d1f2b6590da32f36882339729c4e9">_amount</a> &lt; 40)</div>
+<div class="line"><span class="lineno"> 1157</span>        {</div>
+<div class="line"><span class="lineno"> 1158</span>            <a class="code hl_variable" href="../../d8/d37/a20263.html#a9717b52f26045707fd852b955d29a5e6">_checkTimer</a> += diff;</div>
+<div class="line"><span class="lineno"> 1159</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d8/d37/a20263.html#a9717b52f26045707fd852b955d29a5e6">_checkTimer</a> &gt;= 4000)</div>
+<div class="line"><span class="lineno"> 1160</span>            {</div>
+<div class="line"><span class="lineno"> 1161</span>                <a class="code hl_variable" href="../../d8/d37/a20263.html#a9717b52f26045707fd852b955d29a5e6">_checkTimer</a> = 0;</div>
+<div class="line"><span class="lineno"> 1162</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d74/a09163.html">Unit</a>* target = <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../de/db2/a08403.html#ad8891b07b8b211818d4284ed88e6ba10">SelectNearestTarget</a>(80.0f))</div>
+<div class="line"><span class="lineno"> 1163</span>                {</div>
+<div class="line"><span class="lineno"> 1164</span>                    ++<a class="code hl_variable" href="../../d8/d37/a20263.html#acb5d1f2b6590da32f36882339729c4e9">_amount</a>;</div>
+<div class="line"><span class="lineno"> 1165</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/db2/a08403.html">Creature</a>* cr = <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/d10/a08815.html#ac46286b3e63188d6a328d2fbf7703caf">SummonCreature</a>(<a class="code hl_enumvalue" href="../../df/d98/a03680.html#abfe5de1fd9db676abc952fa6839d50b2aa0b46ff752d8fa0f7c85a54c37cefd83">NPC_DEFENDER_GENERATED</a>, <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d3/dcf/a08863.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d3/dcf/a08863.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>(), <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d3/dcf/a08863.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>() + 4, <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d3/dcf/a08863.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>(), <a class="code hl_enumvalue" href="../../d7/db6/a01556.html#a38c6d8d01cbe0c49b035f348f7724148a7fcc17b9aac93c81619414e6af366e39">TEMPSUMMON_TIMED_OR_DEAD_DESPAWN</a>, 900000))</div>
+<div class="line"><span class="lineno"> 1166</span>                        cr-&gt;AI()-&gt;AttackStart(target);</div>
+<div class="line"><span class="lineno"> 1167</span>                }</div>
+<div class="line"><span class="lineno"> 1168</span>            }</div>
+<div class="line"><span class="lineno"> 1169</span>        }</div>
+<div class="line"><span class="lineno"> 1170</span>    }</div>
 <div class="ttc" id="aa01556_html_a38c6d8d01cbe0c49b035f348f7724148a7fcc17b9aac93c81619414e6af366e39"><div class="ttname"><a href="../../d7/db6/a01556.html#a38c6d8d01cbe0c49b035f348f7724148a7fcc17b9aac93c81619414e6af366e39">TEMPSUMMON_TIMED_OR_DEAD_DESPAWN</a></div><div class="ttdeci">@ TEMPSUMMON_TIMED_OR_DEAD_DESPAWN</div><div class="ttdef"><b>Definition:</b> Object.h:49</div></div>
-<div class="ttc" id="aa03683_html_a640f990db89b5748398cd4fd8eb97550aa0b46ff752d8fa0f7c85a54c37cefd83"><div class="ttname"><a href="../../d6/dc7/a03683.html#a640f990db89b5748398cd4fd8eb97550aa0b46ff752d8fa0f7c85a54c37cefd83">NPC_DEFENDER_GENERATED</a></div><div class="ttdeci">@ NPC_DEFENDER_GENERATED</div><div class="ttdef"><b>Definition:</b> boss_flame_leviathan.cpp:104</div></div>
+<div class="ttc" id="aa03680_html_abfe5de1fd9db676abc952fa6839d50b2aa0b46ff752d8fa0f7c85a54c37cefd83"><div class="ttname"><a href="../../df/d98/a03680.html#abfe5de1fd9db676abc952fa6839d50b2aa0b46ff752d8fa0f7c85a54c37cefd83">NPC_DEFENDER_GENERATED</a></div><div class="ttdeci">@ NPC_DEFENDER_GENERATED</div><div class="ttdef"><b>Definition:</b> ulduar.h:234</div></div>
 <div class="ttc" id="aa06563_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:71</div></div>
 <div class="ttc" id="aa08403_html"><div class="ttname"><a href="../../de/db2/a08403.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:47</div></div>
 <div class="ttc" id="aa08403_html_ad8891b07b8b211818d4284ed88e6ba10"><div class="ttname"><a href="../../de/db2/a08403.html#ad8891b07b8b211818d4284ed88e6ba10">Creature::SelectNearestTarget</a></div><div class="ttdeci">Unit * SelectNearestTarget(float dist=0, bool playerOnly=false) const</div><div class="ttdoc">Select nearest hostile unit within the given distance (regardless of threat list).</div><div class="ttdef"><b>Definition:</b> Creature.cpp:2427</div></div>
@@ -584,7 +587,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa08863_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../d3/dcf/a08863.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition:</b> Position.h:122</div></div>
 <div class="ttc" id="aa09163_html"><div class="ttname"><a href="../../d5/d74/a09163.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:665</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01109">_amount</a>, <a class="el" href="../../#l01110">_checkTimer</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00104">NPC_DEFENDER_GENERATED</a>, <a class="el" href="../../#l02427">Creature::SelectNearestTarget()</a>, <a class="el" href="../../#l02448">WorldObject::SummonCreature()</a>, and <a class="el" href="../../#l00049">TEMPSUMMON_TIMED_OR_DEAD_DESPAWN</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01151">_amount</a>, <a class="el" href="../../#l01152">_checkTimer</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00234">NPC_DEFENDER_GENERATED</a>, <a class="el" href="../../#l02427">Creature::SelectNearestTarget()</a>, <a class="el" href="../../#l02448">WorldObject::SummonCreature()</a>, and <a class="el" href="../../#l00049">TEMPSUMMON_TIMED_OR_DEAD_DESPAWN</a>.</p>
 
 </div>
 </div>
@@ -601,7 +604,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01103">npc_storm_beacon_spawn()</a>, and <a class="el" href="../../#l01112">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01145">npc_storm_beacon_spawn()</a>, and <a class="el" href="../../#l01154">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -617,7 +620,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01103">npc_storm_beacon_spawn()</a>, and <a class="el" href="../../#l01112">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01145">npc_storm_beacon_spawn()</a>, and <a class="el" href="../../#l01154">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -627,7 +630,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d37/a20263.html">npc_storm_beacon_spawn</a></li>
-    <li class="footer">Generated on Mon Aug 24 2026 21:04:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Sep 1 2026 00:09:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,11 @@
 var a21039 =
 [
-    [ "OnRemove", "d7/d15/a21039.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "d7/d15/a21039.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "d7/d15/a21039.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "d7/d15/a21039.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "boss_yoggsaron_voice", "d7/d15/a21039.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
+    [ "DoAction", "d7/d15/a21039.html#a094522e81d1d19de660b75fb06ea4224", null ],
+    [ "Reset", "d7/d15/a21039.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
+    [ "SpellHitTarget", "d7/d15/a21039.html#aae3b82dbb871f0f297bdacf975958492", null ],
+    [ "UpdateAI", "d7/d15/a21039.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
+    [ "_current", "d7/d15/a21039.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
+    [ "_targets", "d7/d15/a21039.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
+    [ "events", "d7/d15/a21039.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
 ];

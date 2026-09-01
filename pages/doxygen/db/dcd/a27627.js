@@ -1,7 +1,7 @@
 var a27627 =
 [
-    [ "HandleProc", "db/dcd/a27627.html#a2cb0b7d662333dc469d9062ca243d496", null ],
-    [ "PrepareAuraScript", "db/dcd/a27627.html#a2a82d54427fdc223a6b22a88eb3372e1", null ],
-    [ "Register", "db/dcd/a27627.html#af7e6f88f43af835920778f8c99775cfb", null ],
-    [ "Validate", "db/dcd/a27627.html#a734b46af5b2e9b6566f64aafbe8d4d51", null ]
+    [ "HandleProc", "db/dcd/a27627.html#aeaeacf85b822cc7427234fe469aaff7f", null ],
+    [ "PrepareAuraScript", "db/dcd/a27627.html#ac9df7bea2f626b95291c18c740968da6", null ],
+    [ "Register", "db/dcd/a27627.html#a7152aa6ab02938d981ee83875e533b32", null ],
+    [ "Validate", "db/dcd/a27627.html#a0e488d9d96e37a20887f0befc1950dd5", null ]
 ];

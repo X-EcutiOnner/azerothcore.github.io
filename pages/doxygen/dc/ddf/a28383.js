@@ -1,5 +1,6 @@
 var a28383 =
 [
-    [ "go_veil_skith_cage", "dc/ddf/a28383.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
-    [ "OnGossipHello", "dc/ddf/a28383.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
+    [ "go_amberpine_outhouse", "dc/ddf/a28383.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
+    [ "OnGossipHello", "dc/ddf/a28383.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
+    [ "OnGossipSelect", "dc/ddf/a28383.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
 ];

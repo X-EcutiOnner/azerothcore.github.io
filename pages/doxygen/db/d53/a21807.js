@@ -1,6 +1,6 @@
 var a21807 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "db/d53/a21807.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "db/d53/a21807.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "db/d53/a21807.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "npc_mindless_ghoulAI", "db/dd4/a21811.html", "db/dd4/a21811" ],
+    [ "npc_mindless_ghoul", "db/d53/a21807.html#ac5bf71e719c0df04687f426a022fd65e", null ],
+    [ "GetAI", "db/d53/a21807.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
 ];

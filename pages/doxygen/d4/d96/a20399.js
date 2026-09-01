@@ -1,18 +1,6 @@
 var a20399 =
 [
-    [ "boss_vezax", "d4/d96/a20399.html#a8e9210793b5b00d81bf5f1a3eb214f29", null ],
-    [ "DoAction", "d4/d96/a20399.html#ac7c14cfbae5d031615e7f62ded2045c1", null ],
-    [ "GetData", "d4/d96/a20399.html#addfa8398f2a1c21b7ed44547fa6e2899", null ],
-    [ "JustDied", "d4/d96/a20399.html#a1ce855485a7edaace620956cb620ed39", null ],
-    [ "JustEngagedWith", "d4/d96/a20399.html#ac22557ea0f60a04d51f016cc09d99417", null ],
-    [ "JustReachedHome", "d4/d96/a20399.html#ad57dabcfafbd2a10b1dbb39751600bb9", null ],
-    [ "KilledUnit", "d4/d96/a20399.html#ab339f12be1e9da262f6243cfe22908c2", null ],
-    [ "MoveInLineOfSight", "d4/d96/a20399.html#a79c3312d27ef44cf3aa2fb4b94e0ee0a", null ],
-    [ "Reset", "d4/d96/a20399.html#a44ceea000e547d0e56994e9075a09a52", null ],
-    [ "SpellHitTarget", "d4/d96/a20399.html#ab9288041d27b2cf2bf352085ba13ace1", null ],
-    [ "UpdateAI", "d4/d96/a20399.html#a88331ae2f7cc9625aaf36836abf244f0", null ],
-    [ "bAchievShadowdodger", "d4/d96/a20399.html#a7462985f6bd9daeec15d639fc076bbf9", null ],
-    [ "berserk", "d4/d96/a20399.html#adc5e49598b2a9c463a91da0d50dbe3dc", null ],
-    [ "hardmodeAvailable", "d4/d96/a20399.html#ae43a0164f3ac1876b6e6cd5f6f241ffb", null ],
-    [ "vaporsCount", "d4/d96/a20399.html#a6f7205d1c455cc3344025e28d4eb8ed6", null ]
+    [ "FilterTargets", "d4/d96/a20399.html#a977f0687005cdbd585be0704e5ce20d8", null ],
+    [ "PrepareSpellScript", "d4/d96/a20399.html#a96f279fbc08f23f0b7e7f807dc0ddd7a", null ],
+    [ "Register", "d4/d96/a20399.html#a1038ca2384a31671dab1d72e1232cfe1", null ]
 ];

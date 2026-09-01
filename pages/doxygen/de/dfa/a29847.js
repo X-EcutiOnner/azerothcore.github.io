@@ -1,7 +1,5 @@
 var a29847 =
 [
-    [ "EnsureScriptRegistriesInitialized", "de/dfa/a29847.html#ae5a5b6e47735560ea83b9458fb7dd7f4", null ],
-    [ "SetUp", "de/dfa/a29847.html#a6934840a3250922d4de42044dd35211c", null ],
-    [ "TearDown", "de/dfa/a29847.html#a8d33dfa0c7dcd81ea426e107beb4b3fa", null ],
-    [ "previousWorld_", "de/dfa/a29847.html#adff0b9d4abad7843811c543dfd10572e", null ]
+    [ "SetUp", "de/dfa/a29847.html#ae5842e5b3c254af015d2232902d01536", null ],
+    [ "TearDown", "de/dfa/a29847.html#a689588bbf5aef06487c9f8d729e254f4", null ]
 ];

@@ -1,7 +1,8 @@
 var a28535 =
 [
-    [ "npc_riggle_bassbaitAI", "d2/ddc/a28535.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "d2/ddc/a28535.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "d2/ddc/a28535.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "d2/ddc/a28535.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "npc_elder_clearwaterAI", "d6/d88/a28539.html", "d6/d88/a28539" ],
+    [ "npc_elder_clearwater", "d2/ddc/a28535.html#abeee1650938a71762bb0c148ea9834d1", null ],
+    [ "GetAI", "d2/ddc/a28535.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
+    [ "OnGossipHello", "d2/ddc/a28535.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
+    [ "OnQuestReward", "d2/ddc/a28535.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
 ];

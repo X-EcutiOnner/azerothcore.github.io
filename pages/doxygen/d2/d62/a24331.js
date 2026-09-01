@@ -1,8 +1,6 @@
 var a24331 =
 [
-    [ "npc_kservantAI", "d2/d62/a24331.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "d2/d62/a24331.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "d2/d62/a24331.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "d2/d62/a24331.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
-    [ "WaypointReached", "d2/d62/a24331.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "CheckRequirement", "d2/d62/a24331.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "d2/d62/a24331.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "d2/d62/a24331.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

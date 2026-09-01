@@ -1,5 +1,6 @@
 var a22191 =
 [
-    [ "npc_guardian_pavilionAI", "db/df1/a22191.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
-    [ "MoveInLineOfSight", "db/df1/a22191.html#aeae26e28be93120062d9f77c069ff32a", null ]
+    [ "ChangeSummonPos", "db/df1/a22191.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "db/df1/a22191.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "db/df1/a22191.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

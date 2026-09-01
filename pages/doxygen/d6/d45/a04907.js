@@ -1,7 +1,7 @@
 var a04907 =
 [
-    [ "boss_watchkeeper_gargolmar", "df/d90/a23643.html", "df/d90/a23643" ],
-    [ "spell_gargolmar_retalliation", "d1/d45/a23647.html", "d1/d45/a23647" ],
+    [ "boss_watchkeeper_gargolmar", "d6/da5/a23655.html", "d6/da5/a23655" ],
+    [ "spell_gargolmar_retalliation", "d6/d9b/a23659.html", "d6/d9b/a23659" ],
     [ "Misc", "d6/d45/a04907.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "d0/d84/a03281.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "d0/d84/a03281.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],

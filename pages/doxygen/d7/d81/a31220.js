@@ -1,10 +1,8 @@
 var a31220 =
 [
-    [ "anonymous_namespace{PathGenerator.cpp}::BladeEdgeArenaRope", "d3/d8a/a10459.html", "d3/d8a/a10459" ],
-    [ "GetClosestPointOnBladeEdgeArenaRope", "d7/d81/a31220.html#ad6fb8ac315aae658ae30abe0ed4b0536", null ],
-    [ "IsOutsideExpandedXYBounds", "d7/d81/a31220.html#a71f129f45def5530dd577d961f33ff75", null ],
-    [ "TrySnapToBladeEdgeArenaRope", "d7/d81/a31220.html#a7545d55edb64810e769569909d3f22cc", null ],
-    [ "BLADE_EDGE_ROPE_SNAP_DIST", "d7/d81/a31220.html#a4bd7d9d834123be5931eda51fb882654", null ],
-    [ "BLADE_EDGE_ROPE_SNAP_DIST2", "d7/d81/a31220.html#aab9750e7a18e090ee53c16bb42eb1873", null ],
-    [ "BladeEdgeArenaRopes", "d7/d81/a31220.html#a5bd7b066b349914a5d42899d3c1f7ce8", null ]
+    [ "TEST", "d7/d81/a31220.html#a60d79c395e268a6ed16df7a26967eb54", null ],
+    [ "TEST", "d7/d81/a31220.html#ac397e352523bccf0895dc53d9279feb9", null ],
+    [ "TEST", "d7/d81/a31220.html#adb3f541c0dff0e8cb644a90523d0e8a4", null ],
+    [ "TEST", "d7/d81/a31220.html#abb15bbd2249642325aba11d926db8a48", null ],
+    [ "TEST", "d7/d81/a31220.html#ac9f5df01372b26acfd33c6409e8064dc", null ]
 ];

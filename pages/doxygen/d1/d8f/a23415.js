@@ -1,9 +1,7 @@
 var a23415 =
 [
-    [ "boss_mennu_the_betrayer", "d1/d8f/a23415.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
-    [ "JustDied", "d1/d8f/a23415.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
-    [ "JustEngagedWith", "d1/d8f/a23415.html#a535b9af1677b8af50515818a18e88d27", null ],
-    [ "JustSummoned", "d1/d8f/a23415.html#a59949872270890ef794a77029074210b", null ],
-    [ "KilledUnit", "d1/d8f/a23415.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
-    [ "Reset", "d1/d8f/a23415.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
+    [ "HandleProc", "d1/d8f/a23415.html#a03b2be5894d489a6021aff2744aee0e0", null ],
+    [ "PrepareAuraScript", "d1/d8f/a23415.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
+    [ "Register", "d1/d8f/a23415.html#a804e1bc3d570d28cb2e06155054f3169", null ],
+    [ "Validate", "d1/d8f/a23415.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
 ];

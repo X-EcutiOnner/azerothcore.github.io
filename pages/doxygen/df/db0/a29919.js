@@ -1,9 +1,6 @@
 var a29919 =
 [
-    [ "CountQuestOnCreature", "df/db0/a29919.html#a4bf05b65d940e61567667d0939e177e5", null ],
-    [ "SetUp", "df/db0/a29919.html#a4788953a58bbea222cf59662b4427e72", null ],
-    [ "SimulateReload", "df/db0/a29919.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
-    [ "SimulateSpawn1Object", "df/db0/a29919.html#a82c53349ba3754a75b2c1570fe413d09", null ],
-    [ "TearDown", "df/db0/a29919.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
-    [ "creatureQuestMap", "df/db0/a29919.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
+    [ "SetUp", "df/db0/a29919.html#ac7db18817aa330aedefd1f688d53219b", null ],
+    [ "TearDown", "df/db0/a29919.html#a0cb70a624f55509497866a1fac787800", null ],
+    [ "_previousWorld", "df/db0/a29919.html#afec905a799e8fe7522a2fa6756fa41d9", null ]
 ];

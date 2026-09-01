@@ -1,6 +1,5 @@
 var a28643 =
 [
-    [ "npc_fireworkAI", "de/d16/a28647.html", "de/d16/a28647" ],
-    [ "npc_firework", "d8/dea/a28643.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
-    [ "GetAI", "d8/dea/a28643.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
+    [ "npc_pet_trainerAI", "d8/dea/a28643.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
+    [ "sGossipSelect", "d8/dea/a28643.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
 ];

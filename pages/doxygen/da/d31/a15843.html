@@ -455,6 +455,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#abeb05f651e7b7a7235c89f576d9c5d8e">JustExitedCombat</a> ()</td></tr>
 <tr class="memdesc:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when the unit leaves combat.  <a href="../../df/d2f/a06551.html#abeb05f651e7b7a7235c89f576d9c5d8e">More...</a><br /></td></tr>
 <tr class="separator:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#abb4ce22edb0c6145426beaf14e1f0efa">OnDespawn</a> ()</td></tr>
+<tr class="memdesc:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when the unit is about to be removed from the world (despawn, grid unload, corpse disappearing, player logging out etc.)  <a href="../../df/d2f/a06551.html#abb4ce22edb0c6145426beaf14e1f0efa">More...</a><br /></td></tr>
+<tr class="separator:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#a950e9e3046791e271f3a240ea73bb211">EvadeTimerExpired</a> ()</td></tr>
 <tr class="memdesc:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when evade timer expires (target unreachable for too long)  <a href="../../df/d2f/a06551.html#a950e9e3046791e271f3a240ea73bb211">More...</a><br /></td></tr>
 <tr class="separator:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -741,9 +744,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa09163_html_a6548d4bfff73fad6df63a0bd0d806e2e"><div class="ttname"><a href="../../d5/d74/a09163.html#a6548d4bfff73fad6df63a0bd0d806e2e">Unit::SetHealth</a></div><div class="ttdeci">void SetHealth(uint32 val)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:12352</div></div>
 <div class="ttc" id="aa09163_html_ac6fc3f50b72cb6f2fd8bb988d48a8dba"><div class="ttname"><a href="../../d5/d74/a09163.html#ac6fc3f50b72cb6f2fd8bb988d48a8dba">Unit::CountPctFromMaxHealth</a></div><div class="ttdeci">uint32 CountPctFromMaxHealth(int32 pct) const</div><div class="ttdef"><b>Definition:</b> Unit.h:1122</div></div>
 <div class="ttc" id="aa09163_html_ad9f2d48b20f62e17abf5c1892cebe296"><div class="ttname"><a href="../../d5/d74/a09163.html#ad9f2d48b20f62e17abf5c1892cebe296">Unit::SetUnitFlag</a></div><div class="ttdeci">void SetUnitFlag(UnitFlags flags)</div><div class="ttdoc">UnitFlags available in UnitDefines.h.</div><div class="ttdef"><b>Definition:</b> Unit.h:749</div></div>
-<div class="ttc" id="aa09163_html_aeae261b4b6d3ccacc8819ca19b4ef0cc"><div class="ttname"><a href="../../d5/d74/a09163.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">Unit::SetStandState</a></div><div class="ttdeci">void SetStandState(uint8 state)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:13126</div></div>
+<div class="ttc" id="aa09163_html_aeae261b4b6d3ccacc8819ca19b4ef0cc"><div class="ttname"><a href="../../d5/d74/a09163.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">Unit::SetStandState</a></div><div class="ttdeci">void SetStandState(uint8 state)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:13129</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01122">Unit::CountPctFromMaxHealth()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l12352">Unit::SetHealth()</a>, <a class="el" href="../../#l13126">Unit::SetStandState()</a>, <a class="el" href="../../#l00749">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l00276">UNIT_FLAG_IN_COMBAT</a>, <a class="el" href="../../#l00036">UNIT_STAND_STATE_SIT</a>, <a class="el" href="../../#l00038">UNIT_STAND_STATE_SLEEP</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01122">Unit::CountPctFromMaxHealth()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l12352">Unit::SetHealth()</a>, <a class="el" href="../../#l13129">Unit::SetStandState()</a>, <a class="el" href="../../#l00749">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l00276">UNIT_FLAG_IN_COMBAT</a>, <a class="el" href="../../#l00036">UNIT_STAND_STATE_SIT</a>, <a class="el" href="../../#l00038">UNIT_STAND_STATE_SLEEP</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
 </div>
 </div>
@@ -784,7 +787,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d28/a15839.html">npc_injured_draenei</a></li><li class="navelem"><a class="el" href="../../da/d31/a15843.html">npc_injured_draeneiAI</a></li>
-    <li class="footer">Generated on Mon Aug 24 2026 21:03:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Sep 1 2026 00:09:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,7 @@
 var a23519 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "dd/d81/a23519.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
-    [ "Initialize", "dd/d81/a23519.html#a9c7c10020eef3db4794283c0f946d086", null ]
+    [ "HandleScript", "dd/d81/a23519.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
+    [ "PrepareSpellScript", "dd/d81/a23519.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
+    [ "Register", "dd/d81/a23519.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
+    [ "Validate", "dd/d81/a23519.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
 ];

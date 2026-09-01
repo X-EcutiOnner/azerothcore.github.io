@@ -1,5 +1,7 @@
 var a28027 =
 [
-    [ "achievement_save_the_day", "d5/d99/a28027.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "d5/d99/a28027.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "HandleDummy", "d5/d99/a28027.html#a120ae48454922c30b0df0a1caf464216", null ],
+    [ "PrepareSpellScript", "d5/d99/a28027.html#ad8cde850116b8d4beef798724c6e4283", null ],
+    [ "Register", "d5/d99/a28027.html#a516709e073a7cc84ada03058195da728", null ],
+    [ "Validate", "d5/d99/a28027.html#ad647af566f06c7e76ef573f670d514ca", null ]
 ];

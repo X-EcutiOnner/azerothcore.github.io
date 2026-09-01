@@ -1,8 +1,7 @@
 var a21687 =
 [
-    [ "npc_dusk", "d7/de1/a21687.html#ab142eb266e64af625a8a38d3234ded72", null ],
-    [ "MovementInform", "d7/de1/a21687.html#a49cade56e631668c946edb6753172c87", null ],
-    [ "PassengerBoarded", "d7/de1/a21687.html#aaff19f52995db17f4dab953e2e928c68", null ],
-    [ "WaypointReached", "d7/de1/a21687.html#ac8f70426313aa6834285905e94f1d0d9", null ],
-    [ "_ejected", "d7/de1/a21687.html#a4f749f98c178a32b211bbd38b9447607", null ]
+    [ "HandleEffectHit", "d7/de1/a21687.html#a8d7dd2411c3b786e682260eb30862602", null ],
+    [ "PrepareSpellScript", "d7/de1/a21687.html#a49b6d005013e480f8161779119bc9b2d", null ],
+    [ "Register", "d7/de1/a21687.html#a017ae25fead98a5c18cdb83128085ddd", null ],
+    [ "Validate", "d7/de1/a21687.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
 ];

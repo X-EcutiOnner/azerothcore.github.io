@@ -1,6 +1,8 @@
 var a27943 =
 [
-    [ "FilterTargets", "d0/d6f/a27943.html#a6224b3193474f569d09edaf29b40c2fb", null ],
-    [ "PrepareSpellScript", "d0/d6f/a27943.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
-    [ "Register", "d0/d6f/a27943.html#a2fab1592d19331239b1ef63045389886", null ]
+    [ "HandleDamage", "d0/d6f/a27943.html#a371d3112e619453b7c92933a145bf4d2", null ],
+    [ "HandleDummy", "d0/d6f/a27943.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
+    [ "PrepareSpellScript", "d0/d6f/a27943.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
+    [ "Register", "d0/d6f/a27943.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
+    [ "Validate", "d0/d6f/a27943.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
 ];

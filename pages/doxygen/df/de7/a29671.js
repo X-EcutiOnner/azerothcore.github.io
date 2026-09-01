@@ -1,6 +1,7 @@
 var a29671 =
 [
-    [ "auraName", "df/de7/a29671.html#a953f930e046655ca0d8f373362d3f334", null ],
-    [ "isAlwaysTriggeredAura", "df/de7/a29671.html#a05786c8e0daef9a2da98f832c230d99c", null ],
-    [ "procFlags", "df/de7/a29671.html#aed48a1ad923118ac0a86d864e1e98519", null ]
+    [ "flatModifier", "df/de7/a29671.html#a781485dfaede63716eddba66971600e3", null ],
+    [ "hasSpellModOwner", "df/de7/a29671.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
+    [ "hasSpellProto", "df/de7/a29671.html#a96607da311b5774eeaa01674d32ab22e", null ],
+    [ "pctModifier", "df/de7/a29671.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
 ];

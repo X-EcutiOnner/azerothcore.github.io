@@ -1,9 +1,7 @@
 var a26883 =
 [
-    [ "spell_pal_improved_aura_effect", "d6/d3c/a26883.html#a8b413208ee8842e844e4129725e8c99e", null ],
-    [ "CheckAreaTarget", "d6/d3c/a26883.html#a0e61a579344eb8e91d0dd58554fc6ecb", null ],
-    [ "PrepareAuraScript", "d6/d3c/a26883.html#a1aa9d9c753032febf7cc86ce53ad2a99", null ],
-    [ "Register", "d6/d3c/a26883.html#acd92f952c3aeede5c7131fb84aa6334d", null ],
-    [ "Validate", "d6/d3c/a26883.html#a553e45e2963e915fb5a2e123160af83a", null ],
-    [ "_auraSpellId", "d6/d3c/a26883.html#a960fabe394cdf4666b637a7d65b90645", null ]
+    [ "HandleProc", "d6/d3c/a26883.html#af48dfc934a6be37e95c469d07691e91f", null ],
+    [ "PrepareAuraScript", "d6/d3c/a26883.html#a93147abc7cda5307a06be3d876b82eea", null ],
+    [ "Register", "d6/d3c/a26883.html#a9f4ea3a1d84491a235f55c54ad2af2d6", null ],
+    [ "Validate", "d6/d3c/a26883.html#a5c19c37e6d0271d0d38fffa945f6c707", null ]
 ];

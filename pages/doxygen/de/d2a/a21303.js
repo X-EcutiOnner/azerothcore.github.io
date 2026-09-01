@@ -1,6 +1,5 @@
 var a21303 =
 [
-    [ "boss_skadi_graufAI", "d1/d11/a21307.html", "d1/d11/a21307" ],
-    [ "boss_skadi_grauf", "de/d2a/a21303.html#a571db2d2ae21f38b7051319da0f042f6", null ],
-    [ "GetAI", "de/d2a/a21303.html#ab464e605bf001eee5517ad805066af57", null ]
+    [ "go_palehoof_sphere", "de/d2a/a21303.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
+    [ "OnGossipHello", "de/d2a/a21303.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
 ];

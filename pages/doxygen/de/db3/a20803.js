@@ -1,5 +1,6 @@
 var a20803 =
 [
-    [ "achievement_quick_shave", "de/db3/a20803.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "de/db3/a20803.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "FilterTargets", "de/db3/a20803.html#aa7fcef13b5a4ba40092f2f95842349ff", null ],
+    [ "PrepareSpellScript", "de/db3/a20803.html#a5b94fde8602f7f00342bd81dc9c8cc11", null ],
+    [ "Register", "de/db3/a20803.html#a6d990937a5fd06a877b775f719ba5a9f", null ]
 ];

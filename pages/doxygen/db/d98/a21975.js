@@ -1,7 +1,6 @@
 var a21975 =
 [
-    [ "HandleScriptEffect", "db/d98/a21975.html#a2d39a073c351860db735301b4cf9c79f", null ],
-    [ "PrepareSpellScript", "db/d98/a21975.html#a3674adaef23f1531af360a65c14efadd", null ],
-    [ "Register", "db/d98/a21975.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
-    [ "Validate", "db/d98/a21975.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
+    [ "npc_ravenous_worgAI", "df/d79/a21979.html", "df/d79/a21979" ],
+    [ "npc_ravenous_worg", "db/d98/a21975.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "db/d98/a21975.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

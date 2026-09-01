@@ -1,7 +1,6 @@
 var a21679 =
 [
-    [ "HandleScriptEffect", "db/d61/a21679.html#adc89459d7b6c073b8a60e08a9e3281cf", null ],
-    [ "PrepareSpellScript", "db/d61/a21679.html#a8f15bf27d9e54c1ee6c84f99f1f83d48", null ],
-    [ "Register", "db/d61/a21679.html#a86ef787e1db46e578a10ca25ac84ba87", null ],
-    [ "Validate", "db/d61/a21679.html#abeb8baf7dabf2d3acea4df79535770d2", null ]
+    [ "PrepareSpellScript", "db/d61/a21679.html#a072a5228690b929af3b65d771bf5f485", null ],
+    [ "Register", "db/d61/a21679.html#a87235eb9494edd94221f0380e815aa6b", null ],
+    [ "SetDest", "db/d61/a21679.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
 ];

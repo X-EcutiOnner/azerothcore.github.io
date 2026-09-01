@@ -1,11 +1,10 @@
 var a21023 =
 [
-    [ "boss_yoggsaron_lich_king", "d8/dff/a21023.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
-    [ "NextStep", "d8/dff/a21023.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
-    [ "Reset", "d8/dff/a21023.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
-    [ "Say", "d8/dff/a21023.html#ac7687fe1253701c702cf2c17986727ec", null ],
-    [ "UpdateAI", "d8/dff/a21023.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
-    [ "_checkTimer", "d8/dff/a21023.html#a196ffc443569494bed79f623dd9cdca3", null ],
-    [ "_running", "d8/dff/a21023.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
-    [ "_step", "d8/dff/a21023.html#a97244534b8c6a69807388b620df2263f", null ]
+    [ "boss_yoggsaron_immortal_guardian", "d8/dff/a21023.html#a14839f96771d185718e88a4e371b31f6", null ],
+    [ "DamageTaken", "d8/dff/a21023.html#a9bf936d6a501e53ce98786f043562a71", null ],
+    [ "Reset", "d8/dff/a21023.html#a1173d401233670a45b31040b8e5d98cb", null ],
+    [ "SpellHit", "d8/dff/a21023.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
+    [ "UpdateAI", "d8/dff/a21023.html#adaae7e2cd52951095cb82819d9874426", null ],
+    [ "_spellTimer", "d8/dff/a21023.html#a521b956c116a23523fdfceb95a42c1e2", null ],
+    [ "_visualTimer", "d8/dff/a21023.html#acb9f5de4ad41ce56f7c6d05a19783517", null ]
 ];

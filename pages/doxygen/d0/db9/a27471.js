@@ -1,6 +1,6 @@
 var a27471 =
 [
-    [ "HandleAfterCast", "d0/db9/a27471.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "d0/db9/a27471.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "d0/db9/a27471.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "CheckProc", "d0/db9/a27471.html#ae8f06d0b6738c92a2e4a45fe0ca81cb9", null ],
+    [ "PrepareAuraScript", "d0/db9/a27471.html#aafd3eba8af1edb89ded08b056f9b497c", null ],
+    [ "Register", "d0/db9/a27471.html#aeb1d84b45afc05b8b9ca5cea2a50f5a4", null ]
 ];

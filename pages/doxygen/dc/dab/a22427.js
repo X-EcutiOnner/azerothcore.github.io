@@ -1,7 +1,6 @@
 var a22427 =
 [
-    [ "npc_wg_demolisher_engineer", "dc/dab/a22427.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "dc/dab/a22427.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "dc/dab/a22427.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "dc/dab/a22427.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "HandleSummon", "dc/dab/a22427.html#a98c5df8b6c561a5aa7d766b639f3c2c8", null ],
+    [ "PrepareSpellScript", "dc/dab/a22427.html#ab5605e1d401d7a762fc8b5a530ecd640", null ],
+    [ "Register", "dc/dab/a22427.html#a9c9a0fd43758a6441a086860e8276cc0", null ]
 ];

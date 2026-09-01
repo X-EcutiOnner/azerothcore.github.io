@@ -1,18 +1,11 @@
 var a21479 =
 [
-    [ "boss_ichoron", "d7/d0f/a21479.html#abdcfe5b89cb1e2413de309a316e472f8", null ],
-    [ "DoAction", "d7/d0f/a21479.html#abe3d4e3f3c435f7cbe5b5b00c5dbb190", null ],
-    [ "DoExplodeCompleted", "d7/d0f/a21479.html#ae56fae748297a02404b984277a1dd25f", null ],
-    [ "EnterEvadeMode", "d7/d0f/a21479.html#a635d040533afa80e293ba9dbc141152a", null ],
-    [ "IchoronDoCastToAllHostilePlayers", "d7/d0f/a21479.html#aadcf249665816ada6c2efa7f30f743f0", null ],
-    [ "JustDied", "d7/d0f/a21479.html#ac85c574360da81216074b32dc9d40f74", null ],
-    [ "JustEngagedWith", "d7/d0f/a21479.html#ae5353b8cf2d14b169c6d65064d81d0e4", null ],
-    [ "JustSummoned", "d7/d0f/a21479.html#a45f9889887270ea51af6dcb1379408a9", null ],
-    [ "KilledUnit", "d7/d0f/a21479.html#a2bf779fb863f09654d51fdb37af6ed47", null ],
-    [ "MoveInLineOfSight", "d7/d0f/a21479.html#a4e323050c78bd1b95f691d0edc4fea3f", null ],
-    [ "Reset", "d7/d0f/a21479.html#aa3ea79b6cb639d659868e9ddd0e97df1", null ],
-    [ "SummonedCreatureDespawn", "d7/d0f/a21479.html#aaabedddd146e71e51db11772c635f8a2", null ],
-    [ "UpdateAI", "d7/d0f/a21479.html#a7f1902ff2071f4f1a6232d6970a0b6b0", null ],
-    [ "_isExploded", "d7/d0f/a21479.html#a23180ff62429fd94a08627f40ce5cbde", null ],
-    [ "_isFrenzy", "d7/d0f/a21479.html#a02f51f706c2183708ae29a990379e25a", null ]
+    [ "boss_cyanigosa", "d7/d0f/a21479.html#af85a0c366de8785cd89d14f7990bfb54", null ],
+    [ "EnterEvadeMode", "d7/d0f/a21479.html#aa3d989cb4c094713d6adb4305f8e6113", null ],
+    [ "ExecuteEvent", "d7/d0f/a21479.html#a694dda590c17a03534f8744838ac3176", null ],
+    [ "JustDied", "d7/d0f/a21479.html#ad70efce47f2f5d411fd42fd61ec51794", null ],
+    [ "JustEngagedWith", "d7/d0f/a21479.html#a2432aa3610747c52f6ec3de1def55f18", null ],
+    [ "KilledUnit", "d7/d0f/a21479.html#a1f2810d9f2a291576fa29a872b1f6470", null ],
+    [ "MoveInLineOfSight", "d7/d0f/a21479.html#a55645a68448a8c83b85b05c7a29f0f6a", null ],
+    [ "SpellHitTarget", "d7/d0f/a21479.html#a7b393188f0f8d192baab0eed48f0a5d3", null ]
 ];

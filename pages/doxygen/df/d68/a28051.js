@@ -1,5 +1,5 @@
 var a28051 =
 [
-    [ "achievement_sickly_gazelle", "df/d68/a28051.html#abb613cb222c727923c4c5ce843db3a5f", null ],
-    [ "OnCheck", "df/d68/a28051.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
+    [ "achievement_bg_ic_mowed_down", "df/d68/a28051.html#ab05387d1e14958e87123bd0fc2188445", null ],
+    [ "OnCheck", "df/d68/a28051.html#a385e09c605084900f374090e5e19c24f", null ]
 ];

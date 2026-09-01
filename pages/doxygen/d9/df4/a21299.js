@@ -1,19 +1,13 @@
 var a21299 =
 [
-    [ "boss_skadiAI", "d9/df4/a21299.html#a4e9708950b0dda44bd70d77ee9f9de52", null ],
-    [ "DoAction", "d9/df4/a21299.html#ac0513a8e187b3d68fd320b124930ac8b", null ],
-    [ "EnterEvadeMode", "d9/df4/a21299.html#ab6cf2f709b4888b1b4e17c6022d7091f", null ],
-    [ "JustDied", "d9/df4/a21299.html#af963eda18854869f3a73cb22f48b0230", null ],
-    [ "JustEngagedWith", "d9/df4/a21299.html#a2853d557da48decede7baa4845f5573f", null ],
-    [ "JustSummoned", "d9/df4/a21299.html#ac61c732b17b39bdbedf18742b8403c5d", null ],
-    [ "KilledUnit", "d9/df4/a21299.html#af82c5edf85466d9dd5e1dee666231687", null ],
-    [ "Reset", "d9/df4/a21299.html#a7d1287f7a3cc5703a7430a15e769cb2c", null ],
-    [ "SpawnFirstWave", "d9/df4/a21299.html#af65d4bfff98b239f96e50c868b90e08a", null ],
-    [ "UpdateAI", "d9/df4/a21299.html#a05690f147e2c2a584179c19b0a84a1b0", null ],
-    [ "_encounterStarted", "d9/df4/a21299.html#a37c907c5136097497bcb30da4c70d121", null ],
-    [ "_events", "d9/df4/a21299.html#af7fbc8d2c28052f43463897bcb846b25", null ],
-    [ "_firstWaveSummoned", "d9/df4/a21299.html#a1af2048d0d48e8670cdb4957e191f172", null ],
-    [ "_instance", "d9/df4/a21299.html#a34a422dcee2353a888deaac3bab983a4", null ],
-    [ "_phase", "d9/df4/a21299.html#a64808a1b0cee00069a69c050eeb0240e", null ],
-    [ "_summons", "d9/df4/a21299.html#ae02eac33cf9fa64a2d2e20b5e4d8a591", null ]
+    [ "npc_frenzied_worgenAI", "d9/df4/a21299.html#a3a87e1285fb40a4fe31e7e9c2916f2a8", null ],
+    [ "DoAction", "d9/df4/a21299.html#a7b7b34c2206cd1003c2abff3fb839c34", null ],
+    [ "JustDied", "d9/df4/a21299.html#a33b723baef468ef79e67aaadba1b2691", null ],
+    [ "JustEngagedWith", "d9/df4/a21299.html#a902bb6f89a2a210f2e0d18ebad7613f9", null ],
+    [ "JustReachedHome", "d9/df4/a21299.html#a9b50182cd407811d0f0aeeba378a37ee", null ],
+    [ "MoveInLineOfSight", "d9/df4/a21299.html#a3c2b76ccb6e00a24619f769f0d44ba2b", null ],
+    [ "Reset", "d9/df4/a21299.html#adccac21b6eff18db096eb79dab4a27a0", null ],
+    [ "UpdateAI", "d9/df4/a21299.html#ad83478b5946fd93e1b4fe7916342b1ee", null ],
+    [ "events", "d9/df4/a21299.html#a8619650ae4396aafbdc1533f8b174ab8", null ],
+    [ "m_pInstance", "d9/df4/a21299.html#a425720ce11714b145685f6d9c78a3dc1", null ]
 ];

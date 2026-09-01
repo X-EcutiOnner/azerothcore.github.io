@@ -1,6 +1,8 @@
 var a28543 =
 [
-    [ "npc_target_dummy", "d7/d2a/a28543.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
-    [ "Reset", "d7/d2a/a28543.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
-    [ "UpdateAI", "d7/d2a/a28543.html#a32e9e139a54375b336c112deee3687cd", null ]
+    [ "npc_riggle_bassbaitAI", "d8/d33/a28547.html", "d8/d33/a28547" ],
+    [ "npc_riggle_bassbait", "d7/d2a/a28543.html#afc4280099cda3c28c4634d649e636839", null ],
+    [ "GetAI", "d7/d2a/a28543.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
+    [ "OnGossipHello", "d7/d2a/a28543.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
+    [ "OnQuestReward", "d7/d2a/a28543.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
 ];

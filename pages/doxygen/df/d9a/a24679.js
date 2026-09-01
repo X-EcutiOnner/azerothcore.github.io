@@ -1,7 +1,8 @@
 var a24679 =
 [
-    [ "HandleScriptEffect", "df/d9a/a24679.html#afaffd667477e286700dd7e5562423452", null ],
-    [ "PrepareSpellScript", "df/d9a/a24679.html#a9c30d4d6427cfc96b88a1427afcedb00", null ],
-    [ "Register", "df/d9a/a24679.html#ab8b68e02d05abceeb4b7eef00092e759", null ],
-    [ "Validate", "df/d9a/a24679.html#a553f2f26a412d2060151b4f49055b847", null ]
+    [ "HandleEffectApply", "df/d9a/a24679.html#a88e98bcb11fb16696f789878f79c665c", null ],
+    [ "HandleEffectRemove", "df/d9a/a24679.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2", null ],
+    [ "PrepareAuraScript", "df/d9a/a24679.html#a64f9e0f3d0376342767b912e32642c6c", null ],
+    [ "Register", "df/d9a/a24679.html#a72d6639589588282ea15cfe83c9e9b76", null ],
+    [ "Validate", "df/d9a/a24679.html#ac936c92c3a24fba95505243cd3e79c21", null ]
 ];

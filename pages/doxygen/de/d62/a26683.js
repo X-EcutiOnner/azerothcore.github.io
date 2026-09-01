@@ -1,7 +1,6 @@
 var a26683 =
 [
-    [ "CheckProc", "de/d62/a26683.html#a2052750b91de67b330a2ae6a190a5d4e", null ],
-    [ "HandleProc", "de/d62/a26683.html#a5b404a07ccb13cabf5fa6ab90db92129", null ],
-    [ "PrepareAuraScript", "de/d62/a26683.html#af16eec48ab0f469ca3cefd149bb0d925", null ],
-    [ "Register", "de/d62/a26683.html#a4f31c76184e4ae5bc03763e04cdac72e", null ]
+    [ "CheckProc", "de/d62/a26683.html#a6d19e939f4145f4226f88777e37c7514", null ],
+    [ "PrepareAuraScript", "de/d62/a26683.html#a821456f72ba2f38ecc31040560ea155f", null ],
+    [ "Register", "de/d62/a26683.html#a63a0773da832d8490d952de35fe5a29d", null ]
 ];

@@ -1,7 +1,8 @@
 var a23971 =
 [
-    [ "boss_gatewatcher_gyrokill", "df/deb/a23971.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
-    [ "JustDied", "df/deb/a23971.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
-    [ "JustEngagedWith", "df/deb/a23971.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
-    [ "KilledUnit", "df/deb/a23971.html#a274355d0303d9bf5761758f175826bd1", null ]
+    [ "boss_void_reaver", "df/deb/a23971.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
+    [ "JustDied", "df/deb/a23971.html#a49e6f52b11177bdac07adff92c2675f5", null ],
+    [ "JustEngagedWith", "df/deb/a23971.html#a9260d05e11f4dec6fc25432a0524706b", null ],
+    [ "KilledUnit", "df/deb/a23971.html#adc234fc43308771a42d99049876cad1b", null ],
+    [ "Reset", "df/deb/a23971.html#a02c36ea960de24991f879943991a93c6", null ]
 ];

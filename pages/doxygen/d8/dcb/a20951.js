@@ -1,5 +1,6 @@
 var a20951 =
 [
-    [ "achievement_nerf_engineering", "d8/dcb/a20951.html#ad8e1eadd635c7a5025e545053b52904f", null ],
-    [ "OnCheck", "d8/dcb/a20951.html#aefe01bfba3347be8a01bf5a398865cb6", null ]
+    [ "HandleScript", "d8/dcb/a20951.html#a679cf770e38e1fda66f8a64fff53f968", null ],
+    [ "PrepareSpellScript", "d8/dcb/a20951.html#a89fe5ca5efcc45278bdd9017cfeaaf3f", null ],
+    [ "Register", "d8/dcb/a20951.html#adc76a70e73cba42c0f9935b3b43d17cd", null ]
 ];

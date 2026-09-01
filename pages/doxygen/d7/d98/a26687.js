@@ -1,6 +1,8 @@
 var a26687 =
 [
-    [ "FilterTargets", "d7/d98/a26687.html#aad5d183d0d7ea229cbfc11f751536624", null ],
-    [ "PrepareSpellScript", "d7/d98/a26687.html#a68ba19142ae6eb04a2547495233700df", null ],
-    [ "Register", "d7/d98/a26687.html#a22c313409438f94d29ab3e236a56c115", null ]
+    [ "CheckProc", "d7/d98/a26687.html#a05580997d10960d8a8186c42b008894f", null ],
+    [ "OnRemove", "d7/d98/a26687.html#a55cc4caf383fa643dd9df6c335937063", null ],
+    [ "PrepareAuraScript", "d7/d98/a26687.html#a19bbc19f6a8f2e59903319eb56afacea", null ],
+    [ "Register", "d7/d98/a26687.html#a2caaa38b44038e58f1715deb2af1a7ec", null ],
+    [ "Validate", "d7/d98/a26687.html#a93fe3df6878e3edb540a70871dd98e7d", null ]
 ];

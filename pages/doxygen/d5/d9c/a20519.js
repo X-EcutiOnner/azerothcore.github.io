@@ -1,6 +1,8 @@
 var a20519 =
 [
-    [ "HandleAfterEffectApply", "d5/d9c/a20519.html#af655bb31dc24a3cede08ca371f784913", null ],
-    [ "PrepareAuraScript", "d5/d9c/a20519.html#a1824853d0b369deac0745fabe2df657c", null ],
-    [ "Register", "d5/d9c/a20519.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
+    [ "HandleAfterEffectApply", "d5/d9c/a20519.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
+    [ "HandleProc", "d5/d9c/a20519.html#a2ee2121d3d55bf6067de985e8d999de2", null ],
+    [ "PrepareAuraScript", "d5/d9c/a20519.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
+    [ "Register", "d5/d9c/a20519.html#adce13201dd11c6ba83883b12ad32d1f6", null ],
+    [ "Validate", "d5/d9c/a20519.html#a30733bf8ca4d619d6eafafa78df4c0f7", null ]
 ];

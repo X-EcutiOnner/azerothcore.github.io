@@ -1,8 +1,5 @@
 var a28091 =
 [
-    [ "CharacterActionIpLogger", "d2/d26/a28091.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "d2/d26/a28091.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "d2/d26/a28091.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "d2/d26/a28091.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "d2/d26/a28091.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "achievement_flirt_with_disaster_perf_check", "d2/d26/a28091.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
+    [ "OnCheck", "d2/d26/a28091.html#a15e620be2f37f930477ba94293dbaf63", null ]
 ];

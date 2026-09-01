@@ -1,6 +1,9 @@
 var a22227 =
 [
-    [ "npc_still_at_it_triggerAI", "da/da1/a22231.html", "da/da1/a22231" ],
-    [ "npc_still_at_it_trigger", "dc/d51/a22227.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "dc/d51/a22227.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "npc_frostbrood_skytalonAI", "dc/d51/a22227.html#afc14c60466f9f0f1b20062758f18c00d", null ],
+    [ "IsSummonedBy", "dc/d51/a22227.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
+    [ "MovementInform", "dc/d51/a22227.html#ae763333503176eb7e8ce407868243958", null ],
+    [ "SpellHit", "dc/d51/a22227.html#a24bb49f47dcf85c95039d0495a89e126", null ],
+    [ "UpdateAI", "dc/d51/a22227.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
+    [ "events", "dc/d51/a22227.html#a8575d258d63e28626cffd7fc2160bee6", null ]
 ];

@@ -1,6 +1,7 @@
 var a27607 =
 [
-    [ "CheckProc", "da/d62/a27607.html#a945c4617cba249ee76045ce032f12c3c", null ],
-    [ "PrepareAuraScript", "da/d62/a27607.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
-    [ "Register", "da/d62/a27607.html#a912dd7ea10038103bb6d242bb7723830", null ]
+    [ "AfterRemove", "da/d62/a27607.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
+    [ "PrepareAuraScript", "da/d62/a27607.html#af338af238305f1872275e1e5e9fdee16", null ],
+    [ "Register", "da/d62/a27607.html#aa266e794be35b51a399b13ee2d06199d", null ],
+    [ "Validate", "da/d62/a27607.html#af58098eb7a904e20846cf728f5adc18b", null ]
 ];

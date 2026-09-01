@@ -1,7 +1,6 @@
 var a23527 =
 [
-    [ "OnApply", "df/d6a/a23527.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "df/d6a/a23527.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "df/d6a/a23527.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "df/d6a/a23527.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "instance_the_underbog_InstanceMapScript", "d9/d57/a23531.html", "d9/d57/a23531" ],
+    [ "instance_the_underbog", "df/d6a/a23527.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
+    [ "GetInstanceScript", "df/d6a/a23527.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
 ];

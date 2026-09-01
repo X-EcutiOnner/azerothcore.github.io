@@ -1,7 +1,7 @@
 var a03587 =
 [
-    [ "boss_ichoron", "d7/d0f/a21479.html", "d7/d0f/a21479" ],
-    [ "npc_ichor_globule", "d5/d36/a21483.html", "d5/d36/a21483" ],
+    [ "boss_ichoron", "d0/d11/a21491.html", "d0/d11/a21491" ],
+    [ "npc_ichor_globule", "dd/d4b/a21495.html", "dd/d4b/a21495" ],
     [ "ACTION_WATER_ELEMENT_HIT", "df/d38/a03587.html#a604a96878790aff47651e4539253d716", null ],
     [ "ACTION_WATER_ELEMENT_KILLED", "df/d38/a03587.html#a0819f535f9b98d41695eeb883e6d94a4", null ],
     [ "MAX_SPAWN_LOC", "df/d38/a03587.html#a986d752f01bfa1c34b10e82145538920", null ],

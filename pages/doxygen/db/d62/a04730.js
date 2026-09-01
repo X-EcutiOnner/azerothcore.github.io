@@ -1,6 +1,6 @@
 var a04730 =
 [
-    [ "boss_wrath_scryer_soccothrates", "d7/dfb/a23791.html", "d7/dfb/a23791" ],
+    [ "boss_wrath_scryer_soccothrates", "d4/de6/a23803.html", "d4/de6/a23803" ],
     [ "Events", "db/d62/a04730.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d9/dc9/a03347.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d9/dc9/a03347.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -1113,6 +1113,7 @@ var a04730 =
       [ "EVENT_THORIMS_HAMMER", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1ae36d8c8de56249065e0948e76530e60a", null ],
       [ "EVENT_SOUND_BEGINNING", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12", null ],
       [ "EVENT_EJECT_PLAYERS", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1a5defc9b52c1e590d7327c0a49889b674", null ],
+      [ "EVENT_CHECK_PLAYERS", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b", null ],
       [ "EVENT_TYMPANIC_TANTRUM", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a84422beac5b9e0b83ca83616c5efb4c8", null ],
       [ "EVENT_PHASE_CHECK", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a1273cef28932ef3d9134ce5be972ed10", null ],
       [ "EVENT_SEARING_LIGHT", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a1e895cbeeebafe4b8d99ff30621fe0d1", null ],

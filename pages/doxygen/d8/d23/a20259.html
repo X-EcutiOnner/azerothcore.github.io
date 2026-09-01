@@ -343,6 +343,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#abeb05f651e7b7a7235c89f576d9c5d8e">JustExitedCombat</a> ()</td></tr>
 <tr class="memdesc:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when the unit leaves combat.  <a href="../../df/d2f/a06551.html#abeb05f651e7b7a7235c89f576d9c5d8e">More...</a><br /></td></tr>
 <tr class="separator:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#abb4ce22edb0c6145426beaf14e1f0efa">OnDespawn</a> ()</td></tr>
+<tr class="memdesc:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when the unit is about to be removed from the world (despawn, grid unload, corpse disappearing, player logging out etc.)  <a href="../../df/d2f/a06551.html#abb4ce22edb0c6145426beaf14e1f0efa">More...</a><br /></td></tr>
+<tr class="separator:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#a950e9e3046791e271f3a240ea73bb211">EvadeTimerExpired</a> ()</td></tr>
 <tr class="memdesc:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when evade timer expires (target unreachable for too long)  <a href="../../df/d2f/a06551.html#a950e9e3046791e271f3a240ea73bb211">More...</a><br /></td></tr>
 <tr class="separator:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -509,9 +512,9 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1085</span>                                 : <a class="code hl_class" href="../../de/d75/a06503.html">NullCreatureAI</a>(c)</div>
-<div class="line"><span class="lineno"> 1086</span>    {</div>
-<div class="line"><span class="lineno"> 1087</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1127</span>                                 : <a class="code hl_class" href="../../de/d75/a06503.html">NullCreatureAI</a>(c)</div>
+<div class="line"><span class="lineno"> 1128</span>    {</div>
+<div class="line"><span class="lineno"> 1129</span>    }</div>
 <div class="ttc" id="aa06503_html"><div class="ttname"><a href="../../de/d75/a06503.html">NullCreatureAI</a></div><div class="ttdef"><b>Definition:</b> PassiveAI.h:56</div></div>
 </div><!-- fragment -->
 </div>
@@ -567,9 +570,9 @@ Additional Inherited Members</h2></td></tr>
 <dl class="section note"><dt>Note</dt><dd>It use for recalculation damage or special reaction at damage for attack reaction use AttackedBy called for non DOT damage in <a class="el" href="../../d5/d74/a09163.html#afe2cdf561288531d745b6a3eb7182a98">Unit::DealDamage</a> also </dd></dl>
 
 <p>Reimplemented from <a class="el" href="../../df/d2f/a06551.html#aca924c2f1f249c2dcffaaea0fa35cd91">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1090</span>    {</div>
-<div class="line"><span class="lineno"> 1091</span>        damage = 0;</div>
-<div class="line"><span class="lineno"> 1092</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1132</span>    {</div>
+<div class="line"><span class="lineno"> 1133</span>        damage = 0;</div>
+<div class="line"><span class="lineno"> 1134</span>    }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -608,17 +611,17 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/d91/a06563.html#a6afb39c4bf86a1e882cc80fd7ec80a8f">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1095</span>    {</div>
-<div class="line"><span class="lineno"> 1096</span>        <span class="keywordflow">if</span> (spellInfo-&gt;SchoolMask &amp; <a class="code hl_enumvalue" href="../../da/de8/a02852.html#aff6913cfd69489c107a071be9ec2ec8faefa51c7b6eae284cc0c22d935bd5fc03">SPELL_SCHOOL_MASK_FIRE</a> &amp;&amp; !<a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d5/d74/a09163.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../d6/dc7/a03683.html#a0b01dc061c57d5260b5013020f833e53af14cdba1aaf9fbfbd5b94c608513b872">SPELL_BLAZE</a>))</div>
-<div class="line"><span class="lineno"> 1097</span>            <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d5/d74/a09163.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>, <a class="code hl_enumvalue" href="../../d6/dc7/a03683.html#a0b01dc061c57d5260b5013020f833e53af14cdba1aaf9fbfbd5b94c608513b872">SPELL_BLAZE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 1098</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1137</span>    {</div>
+<div class="line"><span class="lineno"> 1138</span>        <span class="keywordflow">if</span> (spellInfo-&gt;SchoolMask &amp; <a class="code hl_enumvalue" href="../../da/de8/a02852.html#aff6913cfd69489c107a071be9ec2ec8faefa51c7b6eae284cc0c22d935bd5fc03">SPELL_SCHOOL_MASK_FIRE</a> &amp;&amp; !<a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d5/d74/a09163.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../d6/dc7/a03683.html#a0b01dc061c57d5260b5013020f833e53af14cdba1aaf9fbfbd5b94c608513b872">SPELL_BLAZE</a>))</div>
+<div class="line"><span class="lineno"> 1139</span>            <a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d5/d74/a09163.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">me</a>, <a class="code hl_enumvalue" href="../../d6/dc7/a03683.html#a0b01dc061c57d5260b5013020f833e53af14cdba1aaf9fbfbd5b94c608513b872">SPELL_BLAZE</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 1140</span>    }</div>
 <div class="ttc" id="aa02852_html_aff6913cfd69489c107a071be9ec2ec8faefa51c7b6eae284cc0c22d935bd5fc03"><div class="ttname"><a href="../../da/de8/a02852.html#aff6913cfd69489c107a071be9ec2ec8faefa51c7b6eae284cc0c22d935bd5fc03">SPELL_SCHOOL_MASK_FIRE</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_FIRE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:287</div></div>
-<div class="ttc" id="aa03683_html_a0b01dc061c57d5260b5013020f833e53af14cdba1aaf9fbfbd5b94c608513b872"><div class="ttname"><a href="../../d6/dc7/a03683.html#a0b01dc061c57d5260b5013020f833e53af14cdba1aaf9fbfbd5b94c608513b872">SPELL_BLAZE</a></div><div class="ttdeci">@ SPELL_BLAZE</div><div class="ttdef"><b>Definition:</b> boss_flame_leviathan.cpp:82</div></div>
+<div class="ttc" id="aa03683_html_a0b01dc061c57d5260b5013020f833e53af14cdba1aaf9fbfbd5b94c608513b872"><div class="ttname"><a href="../../d6/dc7/a03683.html#a0b01dc061c57d5260b5013020f833e53af14cdba1aaf9fbfbd5b94c608513b872">SPELL_BLAZE</a></div><div class="ttdeci">@ SPELL_BLAZE</div><div class="ttdef"><b>Definition:</b> boss_flame_leviathan.cpp:83</div></div>
 <div class="ttc" id="aa06563_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../dd/d91/a06563.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:71</div></div>
 <div class="ttc" id="aa09163_html_a69c5ac45b65cf0dede6e0ee837361f61"><div class="ttname"><a href="../../d5/d74/a09163.html#a69c5ac45b65cf0dede6e0ee837361f61">Unit::HasAura</a></div><div class="ttdeci">bool HasAura(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, ObjectGuid itemCasterGUID=ObjectGuid::Empty, uint8 reqEffMask=0) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:6017</div></div>
 <div class="ttc" id="aa09163_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../d5/d74/a09163.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:1361</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01361">Unit::CastSpell()</a>, <a class="el" href="../../#l06017">Unit::HasAura()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00416">SpellInfo::SchoolMask</a>, <a class="el" href="../../#l00082">SPELL_BLAZE</a>, and <a class="el" href="../../#l00287">SPELL_SCHOOL_MASK_FIRE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01361">Unit::CastSpell()</a>, <a class="el" href="../../#l06017">Unit::HasAura()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00416">SpellInfo::SchoolMask</a>, <a class="el" href="../../#l00083">SPELL_BLAZE</a>, and <a class="el" href="../../#l00287">SPELL_SCHOOL_MASK_FIRE</a>.</p>
 
 </div>
 </div>
@@ -628,7 +631,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d23/a20259.html">npc_pool_of_tar</a></li>
-    <li class="footer">Generated on Mon Aug 24 2026 21:04:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Sep 1 2026 00:09:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

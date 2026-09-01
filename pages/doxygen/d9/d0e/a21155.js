@@ -1,8 +1,6 @@
 var a21155 =
 [
-    [ "npc_ulduar_keeperAI", "da/d78/a21159.html", "da/d78/a21159" ],
-    [ "npc_ulduar_keeper", "d9/d0e/a21155.html#a252b781061a2e21dc961ea94f7120d59", null ],
-    [ "GetAI", "d9/d0e/a21155.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
-    [ "OnGossipHello", "d9/d0e/a21155.html#a4db12efd22c7d2a5f18144fd16543230", null ],
-    [ "OnGossipSelect", "d9/d0e/a21155.html#acf8681577117107d16d45705e4b8463f", null ]
+    [ "entry", "d9/d0e/a21155.html#aa9907022aea07d150223562376672353", null ],
+    [ "guid", "d9/d0e/a21155.html#af6bd3717f5e809607edd72ed4c9200ef", null ],
+    [ "index", "d9/d0e/a21155.html#a004f733fe69f93716e2280977be5dfb8", null ]
 ];

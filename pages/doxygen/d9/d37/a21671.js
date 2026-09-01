@@ -1,7 +1,6 @@
 var a21671 =
 [
-    [ "HandleProc", "d9/d37/a21671.html#aeb5b70614b266bac0792906bf89a5b97", null ],
-    [ "PrepareAuraScript", "d9/d37/a21671.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
-    [ "Register", "d9/d37/a21671.html#a163e0099271f21362deeb1ba1f169f3f", null ],
-    [ "Validate", "d9/d37/a21671.html#abdb889e4c6d19f756c143d7b36f82257", null ]
+    [ "npc_bloodmage_laurithAI", "d7/d7c/a21675.html", "d7/d7c/a21675" ],
+    [ "npc_bloodmage_laurith", "d9/d37/a21671.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
+    [ "GetAI", "d9/d37/a21671.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
 ];

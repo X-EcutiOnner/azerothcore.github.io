@@ -1,8 +1,8 @@
 var a25275 =
 [
-    [ "HandleScript", "de/da3/a25275.html#af7330c1b586b809c78e0bc080cb92c65", null ],
-    [ "Load", "de/da3/a25275.html#a262fc7f4bc3f1fae07f69dde765d8228", null ],
-    [ "PrepareSpellScript", "de/da3/a25275.html#af0fda52cff0361cf6c4a69957459ddf3", null ],
-    [ "Register", "de/da3/a25275.html#a41225a9f5d9304df4a02a681e8b73ff6", null ],
-    [ "Validate", "de/da3/a25275.html#a520341dc41dcce5fd9346e3f5ed6ee51", null ]
+    [ "HandleScript", "de/da3/a25275.html#a2376d12f379f75f5decfdc133c18403e", null ],
+    [ "Load", "de/da3/a25275.html#aa70bfd2e614f9bf68ad2972990f0f7f5", null ],
+    [ "PrepareSpellScript", "de/da3/a25275.html#ae4ce8cf3670a85bbaedbfcdc6cacd5b1", null ],
+    [ "Register", "de/da3/a25275.html#a0b32bf9d565d7d6f606150f70fc244a0", null ],
+    [ "Validate", "de/da3/a25275.html#a1aee8ca0cc33f949371fa5cbb4745ccd", null ]
 ];

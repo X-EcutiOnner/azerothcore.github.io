@@ -1,16 +1,15 @@
 var a20467 =
 [
-    [ "npc_ulduar_hodir_shaman", "d7/d78/a20467.html#a3277cda17d5409be3426bdaa61e092cd", null ],
-    [ "AttackStart", "d7/d78/a20467.html#a933908d61afac33002411874060c0f74", null ],
-    [ "CanAIAttack", "d7/d78/a20467.html#a8907c7300cef735a70b088de3c16cfb9", null ],
-    [ "DoAction", "d7/d78/a20467.html#ae27325cc9b794a84d82faa0f410fa844", null ],
-    [ "EnterEvadeMode", "d7/d78/a20467.html#afa6124e630cd878659172a06df68d39f", null ],
-    [ "JustDied", "d7/d78/a20467.html#a08af85d3446c86443ff5a620b159d000", null ],
-    [ "MoveInLineOfSight", "d7/d78/a20467.html#a29de52dcae485f00403dae8e28ff1395", null ],
-    [ "ScheduleAbilities", "d7/d78/a20467.html#ab9aa67f07721c0bf60e9db75b5b3e888", null ],
-    [ "SpellHit", "d7/d78/a20467.html#a02476e4ddb2287c647a2a4bd7e342150", null ],
-    [ "SpellHitTarget", "d7/d78/a20467.html#a29dcb1ff2d532fa491fcdbdfcac4fbfa", null ],
-    [ "UpdateAI", "d7/d78/a20467.html#adf8d9895cdd35712fa44e4a19de1315a", null ],
-    [ "_instance", "d7/d78/a20467.html#aa09753bc9b54ea8dcc9b61a9ace77ae3", null ],
-    [ "events", "d7/d78/a20467.html#a7e147f6f230513cfb666473c61ab4be4", null ]
+    [ "npc_ulduar_hodir_druid", "d7/d78/a20467.html#aac822cf4203af0e0173004ccc33abc21", null ],
+    [ "AttackStart", "d7/d78/a20467.html#a67884f16c32f849bc68d68256c19d21a", null ],
+    [ "CanAIAttack", "d7/d78/a20467.html#a81b0f60596e63ec618a9a9e1d8bc6c9d", null ],
+    [ "DoAction", "d7/d78/a20467.html#a54f6d2cccc7668f337c0617459db5522", null ],
+    [ "EnterEvadeMode", "d7/d78/a20467.html#a22a10571e9cfe69200fd4a8fd383e500", null ],
+    [ "JustDied", "d7/d78/a20467.html#a6cfefe7ccb156a658e8e2dad603b3fce", null ],
+    [ "MoveInLineOfSight", "d7/d78/a20467.html#aa2e3e904c5f7fee4236a9395b95ef3e9", null ],
+    [ "ScheduleAbilities", "d7/d78/a20467.html#ac8bee382634e20a49178be8b224eca2d", null ],
+    [ "SpellHit", "d7/d78/a20467.html#a1053d484f30df43fba465981cd3cfa38", null ],
+    [ "UpdateAI", "d7/d78/a20467.html#abcd580306a3abb5663bbac33f68115eb", null ],
+    [ "_instance", "d7/d78/a20467.html#add7048881ec8b0dd2c09e34813c7c353", null ],
+    [ "events", "d7/d78/a20467.html#a323184c52fcbc3e18eb74c96db716327", null ]
 ];

@@ -1,10 +1,26 @@
 var a30311 =
 [
-    [ "ADTFile", "d3/d33/a30311.html#a763f0f9c1106700987797864b2fdb006", null ],
-    [ "~ADTFile", "d3/d33/a30311.html#ad1533f5b630a70b6ff95861e64960de0", null ],
-    [ "init", "d3/d33/a30311.html#ab9ba3b1a2aac611bec5bfe4a454e4042", null ],
-    [ "_file", "d3/d33/a30311.html#a7f3071e63be08fe3288d5ab03b5b8acf", null ],
-    [ "Adtfilename", "d3/d33/a30311.html#a07c82112e26b96a87e22f1c7bec9c72e", null ],
-    [ "ModelInstanceNames", "d3/d33/a30311.html#a6601e20fed78c54bb281ad3bd0ce7800", null ],
-    [ "WmoInstanceNames", "d3/d33/a30311.html#acd96c287a01828bf3e49fb599a3b5d81", null ]
+    [ "TerrainBuilder", "d3/d33/a30311.html#ac851ab47fd43ed617fd3fdcb84287acd", null ],
+    [ "~TerrainBuilder", "d3/d33/a30311.html#a731cd606fd85b176b116512a2ccf86ee", null ],
+    [ "TerrainBuilder", "d3/d33/a30311.html#a08434e9974012ab90d0d6ff6a2bad36a", null ],
+    [ "cleanVertices", "d3/d33/a30311.html#a7a3f53367758b6effcc7899894c148de", null ],
+    [ "copyIndices", "d3/d33/a30311.html#a5f4139193ad3708e234414131aa3be55", null ],
+    [ "copyIndices", "d3/d33/a30311.html#a8d5bfc11e790aae74d7b81fb7db27061", null ],
+    [ "copyVertices", "d3/d33/a30311.html#a26207130b8e5807986b36ea148e84457", null ],
+    [ "getHeightCoord", "d3/d33/a30311.html#aecdd8a0ae2dab523925111197afe8835", null ],
+    [ "getHeightTriangle", "d3/d33/a30311.html#ab15913dd11a60078205a9fc76ce99203", null ],
+    [ "getLiquidCoord", "d3/d33/a30311.html#ae29c5c0538049382e6b75d0393a7714f", null ],
+    [ "getLiquidType", "d3/d33/a30311.html#a2d7e5ef7722ce2f78fda293af4e2d08d", null ],
+    [ "getLoopVars", "d3/d33/a30311.html#af47da985fc495b4a5fd8b32774e36b82", null ],
+    [ "isHole", "d3/d33/a30311.html#a219be095026945890d4f76163903ea2c", null ],
+    [ "loadHeightMap", "d3/d33/a30311.html#a5ddd947c48dae0acf29c952eca5ebe56", null ],
+    [ "loadMap", "d3/d33/a30311.html#ab6f3b100ee1a40173c2e77c6ee5a0da9", null ],
+    [ "loadMap", "d3/d33/a30311.html#a4071ed1464f7beb4d8567def275139e4", null ],
+    [ "loadOffMeshConnections", "d3/d33/a30311.html#ade055bfcdcedb36fca7fc35516c5586f", null ],
+    [ "loadVMap", "d3/d33/a30311.html#ae816d445265bde3c3866069bcd9e5184", null ],
+    [ "transform", "d3/d33/a30311.html#a6c25e949e12eba48d7e250ba99ce6e85", null ],
+    [ "usesLiquids", "d3/d33/a30311.html#ab869d655ea5cb7f9d32dff63ed4df779", null ],
+    [ "m_mapsPath", "d3/d33/a30311.html#a3870ff6d7c9614cadca3d9d89f3fd810", null ],
+    [ "m_skipLiquid", "d3/d33/a30311.html#aa4feec2075cdb31e940f2cf3dc0d136a", null ],
+    [ "m_vmapsPath", "d3/d33/a30311.html#ab4c289c4c91d84378e531ebbef85988f", null ]
 ];

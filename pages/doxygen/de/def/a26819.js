@@ -1,6 +1,7 @@
 var a26819 =
 [
-    [ "CheckCast", "de/def/a26819.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "de/def/a26819.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "de/def/a26819.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "HandleProc", "de/def/a26819.html#a1964ad50011e459ca449d6ff9baec189", null ],
+    [ "PrepareAuraScript", "de/def/a26819.html#a1362df471c29d59087b6dba6007ef7a1", null ],
+    [ "Register", "de/def/a26819.html#a15d6a692e8e856c2108bdf810a8f6f50", null ],
+    [ "Validate", "de/def/a26819.html#af3bce711681865628f2ee69f5e7d48a7", null ]
 ];

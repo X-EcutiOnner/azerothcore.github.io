@@ -1,9 +1,12 @@
 var a30275 =
 [
-    [ "MapTiles", "d4/d13/a30275.html#abc58d7154eab45ae26df27e2e82dac63", null ],
-    [ "MapTiles", "d4/d13/a30275.html#a406efc53593b5bceb0a491c0b7553350", null ],
-    [ "~MapTiles", "d4/d13/a30275.html#aec1baac21c06380ba71ff5e610152519", null ],
-    [ "operator==", "d4/d13/a30275.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
-    [ "m_mapId", "d4/d13/a30275.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
-    [ "m_tiles", "d4/d13/a30275.html#ab80305bb73234e35a528701d775954b5", null ]
+    [ "cellSizeHorizontal", "d4/d13/a30275.html#a5356c03dab90621b69de7a79ed4ab195", null ],
+    [ "cellSizeVertical", "d4/d13/a30275.html#a47b5a920afa39ae27a80241d58f152a3", null ],
+    [ "tileOverrides", "d4/d13/a30275.html#a129437291e75a919e4158bf1df0f7f0a", null ],
+    [ "vertexPerMapEdge", "d4/d13/a30275.html#a9d32da8787f54a7dadb86458319e0238", null ],
+    [ "vertexPerTileEdge", "d4/d13/a30275.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
+    [ "walkableClimb", "d4/d13/a30275.html#a2bd854b374d67d53b03a7bacf0785726", null ],
+    [ "walkableHeight", "d4/d13/a30275.html#a1de27edad5c45f8033ce74352c563f52", null ],
+    [ "walkableRadius", "d4/d13/a30275.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
+    [ "walkableSlopeAngle", "d4/d13/a30275.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
 ];

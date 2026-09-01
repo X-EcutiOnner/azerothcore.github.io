@@ -1,5 +1,6 @@
 var a23063 =
 [
-    [ "npc_vengeful_spirit", "d3/d3a/a23063.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
-    [ "OnCharmed", "d3/d3a/a23063.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d3/d3a/a23063.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d3/d3a/a23063.html#a2220bc31f2ef91a154a9a4eae38aa14b", null ],
+    [ "UpdateAI", "d3/d3a/a23063.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

@@ -1,6 +1,6 @@
 var a21015 =
 [
-    [ "boss_yoggsaron_influence_tentacle", "d6/da4/a21015.html#ac5908d64a4749303a08d352d470995dd", null ],
-    [ "DamageTaken", "d6/da4/a21015.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
-    [ "JustDied", "d6/da4/a21015.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
+    [ "boss_yoggsaron_descend_portal", "d6/da4/a21015.html#aa64788351819e9c7f5505c929818770d", null ],
+    [ "OnSpellClick", "d6/da4/a21015.html#af72e8c3611b5e134e39ab9695405e08e", null ],
+    [ "_instance", "d6/da4/a21015.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
 ];

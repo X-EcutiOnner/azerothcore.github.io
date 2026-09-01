@@ -1,6 +1,6 @@
 var a21859 =
 [
-    [ "SACActivateEvent", "d9/d40/a21859.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
-    [ "Execute", "d9/d40/a21859.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
-    [ "_owner", "d9/d40/a21859.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
+    [ "npc_q24545_lich_kingAI", "da/daf/a21863.html", "da/daf/a21863" ],
+    [ "npc_q24545_lich_king", "d9/d40/a21859.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
+    [ "GetAI", "d9/d40/a21859.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
 ];

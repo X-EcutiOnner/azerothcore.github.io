@@ -1,6 +1,6 @@
 var a27043 =
 [
-    [ "HandleDummyEffect", "db/de8/a27043.html#a6340c91d8419755386cb3e138cb3c171", null ],
-    [ "PrepareSpellScript", "db/de8/a27043.html#a67d08252c8b8deee312f17affb557df8", null ],
-    [ "Register", "db/de8/a27043.html#a262bb06ac1d6a55e886d1226ad7bb583", null ]
+    [ "CheckDummy", "db/de8/a27043.html#ad2f75ba479a8523b0fffaae86204a25c", null ],
+    [ "PrepareAuraScript", "db/de8/a27043.html#a7cd3757fddecca39b1b0bd95bb2b8e5b", null ],
+    [ "Register", "db/de8/a27043.html#af0b1e469fec71b28ca349b9be9c6fdd7", null ]
 ];

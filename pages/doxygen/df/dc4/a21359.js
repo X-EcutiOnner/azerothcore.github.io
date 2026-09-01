@@ -1,6 +1,6 @@
 var a21359 =
 [
-    [ "CalculateAmount", "df/dc4/a21359.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "df/dc4/a21359.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "df/dc4/a21359.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "npc_ritual_channelerAI", "d5/d5e/a21363.html", "d5/d5e/a21363" ],
+    [ "npc_ritual_channeler", "df/dc4/a21359.html#adab372002549b009e3f937ec67e49f3f", null ],
+    [ "GetAI", "df/dc4/a21359.html#aa416545438d701cbfc2567ba5ae536c8", null ]
 ];

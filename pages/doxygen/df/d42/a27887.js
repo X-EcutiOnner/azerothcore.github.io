@@ -1,7 +1,8 @@
 var a27887 =
 [
-    [ "HandleApplyAura", "df/d42/a27887.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "df/d42/a27887.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "df/d42/a27887.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "df/d42/a27887.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "CheckProc", "df/d42/a27887.html#ae202a117ff86eee618dfdf4600746de5", null ],
+    [ "HandleProc", "df/d42/a27887.html#a28c409af8e7a8115ce86f2a51fff1afd", null ],
+    [ "PrepareAuraScript", "df/d42/a27887.html#a334db12ee8ed29b34269a0ca3172d7b4", null ],
+    [ "Register", "df/d42/a27887.html#a392724c604ce325415aaa3410e18a60c", null ],
+    [ "Validate", "df/d42/a27887.html#af0b153ca9e28a3cdc06a30ff30b46f39", null ]
 ];

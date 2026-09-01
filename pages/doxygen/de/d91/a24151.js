@@ -1,16 +1,6 @@
 var a24151 =
 [
-    [ "npc_kurenai_captiveAI", "de/d91/a24151.html#ab8771e4c2cefe3d5dc3e07df2eeb7b96", null ],
-    [ "JustDied", "de/d91/a24151.html#a0778846d7d67f5d29ed3f7ef02f912f4", null ],
-    [ "JustEngagedWith", "de/d91/a24151.html#a9e36749629568d7917353bee51be08b8", null ],
-    [ "JustSummoned", "de/d91/a24151.html#a19a5190b72f78ee698d5fa2df6ac9b4b", null ],
-    [ "Reset", "de/d91/a24151.html#aea5af2579f9be13620f15b82b5cc8436", null ],
-    [ "SetGUID", "de/d91/a24151.html#a5ae293f5444f08f7ea58b3b58f4a7279", null ],
-    [ "SpellHitTarget", "de/d91/a24151.html#a1f0cb1afc62b1b29a71cc04a21c456f0", null ],
-    [ "UpdateEscortAI", "de/d91/a24151.html#a3d0dfb0df190fe1b32cacb039e611dc3", null ],
-    [ "WaypointReached", "de/d91/a24151.html#a584bfc3a62f9d856e6d918d8f8694b3e", null ],
-    [ "WaypointReached", "de/d91/a24151.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "ChainLightningTimer", "de/d91/a24151.html#a9aede5daebe0cf90ca2091a052c34282", null ],
-    [ "FrostShockTimer", "de/d91/a24151.html#a224c2df273f8d032e4302958879ce4d5", null ],
-    [ "HealTimer", "de/d91/a24151.html#a5a8d15bf6d2fd7a04818ba4535195922", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "dd/dc4/a24155.html", "dd/dc4/a24155" ],
+    [ "npc_creditmarker_visit_with_ancestors", "de/d91/a24151.html#a60f7abac7198d8504d944828dceb1ffa", null ],
+    [ "GetAI", "de/d91/a24151.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
 ];

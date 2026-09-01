@@ -123,7 +123,7 @@ $(document).ready(function(){initNavTree('dd/db2/a00737.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
@@ -134,58 +134,67 @@ Namespaces</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:acdecfc5cf74175c6a000957c02da9cc4"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale</a> (float totalAdjustedILvl)</td></tr>
+<tr class="memdesc:acdecfc5cf74175c6a000957c02da9cc4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mirrors the Ulduar vehicle scaling formula from <a class="el" href="../../d4/dce/a25327.html#a40ba021accd581745f07f2586545853c">spell_gen_vehicle_scaling_aura::CalculateAmount</a>.  <a href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">More...</a><br /></td></tr>
 <tr class="separator:acdecfc5cf74175c6a000957c02da9cc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7bee56888580618bb23f42cc8f9edc92"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount</a> (float totalAdjustedILvl)</td></tr>
-<tr class="memdesc:a7bee56888580618bb23f42cc8f9edc92"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mirrors the final int32 amount stored on the aura effect.  <a href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">More...</a><br /></td></tr>
+<tr class="memdesc:a7bee56888580618bb23f42cc8f9edc92"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mirrors the final int32 amount stored on the aura effect (a percent).  <a href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">More...</a><br /></td></tr>
 <tr class="separator:a7bee56888580618bb23f42cc8f9edc92"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a98ca9fe59822ecd339c6fb8329340dde"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a98ca9fe59822ecd339c6fb8329340dde">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, BaselineNoGear)</td></tr>
+<tr class="memitem:aa21e2162e63f4227effb0e9524258f2d"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcScaledVehicleValue</a> (float baseValue, float totalAdjustedILvl)</td></tr>
+<tr class="memdesc:aa21e2162e63f4227effb0e9524258f2d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Resulting vehicle stat after the aura: base * (1 + amount / 100).  <a href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">More...</a><br /></td></tr>
+<tr class="separator:aa21e2162e63f4227effb0e9524258f2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98ca9fe59822ecd339c6fb8329340dde"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a98ca9fe59822ecd339c6fb8329340dde">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, BaselineNoGear)</td></tr>
 <tr class="separator:a98ca9fe59822ecd339c6fb8329340dde"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adfff5b21f8a78f9d8ddbd3dd6dc678a9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#adfff5b21f8a78f9d8ddbd3dd6dc678a9">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, MinimumScalingThreshold)</td></tr>
+<tr class="memitem:adfff5b21f8a78f9d8ddbd3dd6dc678a9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#adfff5b21f8a78f9d8ddbd3dd6dc678a9">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, MinimumScalingThreshold)</td></tr>
 <tr class="separator:adfff5b21f8a78f9d8ddbd3dd6dc678a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a77f70e6e60572369f011d499de48499f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a77f70e6e60572369f011d499de48499f">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, NaxxramasEntryGear)</td></tr>
+<tr class="memitem:a77f70e6e60572369f011d499de48499f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a77f70e6e60572369f011d499de48499f">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, NaxxramasEntryGear)</td></tr>
 <tr class="separator:a77f70e6e60572369f011d499de48499f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af96e2f92094886a5993a36d06aa584c0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#af96e2f92094886a5993a36d06aa584c0">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, NaxxramasBiSGear)</td></tr>
+<tr class="memitem:af96e2f92094886a5993a36d06aa584c0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#af96e2f92094886a5993a36d06aa584c0">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, NaxxramasBiSGear)</td></tr>
 <tr class="separator:af96e2f92094886a5993a36d06aa584c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae17af8669e2b2e53739a593bca36f20b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#ae17af8669e2b2e53739a593bca36f20b">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, Ulduar10Gear)</td></tr>
+<tr class="memitem:ae17af8669e2b2e53739a593bca36f20b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#ae17af8669e2b2e53739a593bca36f20b">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, Ulduar10Gear)</td></tr>
 <tr class="separator:ae17af8669e2b2e53739a593bca36f20b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1ae53b56b33568cec2c078a3e9e32ea6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a1ae53b56b33568cec2c078a3e9e32ea6">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, Ulduar25Gear)</td></tr>
+<tr class="memitem:a1ae53b56b33568cec2c078a3e9e32ea6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a1ae53b56b33568cec2c078a3e9e32ea6">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, Ulduar25Gear)</td></tr>
 <tr class="separator:a1ae53b56b33568cec2c078a3e9e32ea6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa79cf02be088752762c99510284dc0fa"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#aa79cf02be088752762c99510284dc0fa">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, UlduarBiSGear)</td></tr>
+<tr class="memitem:aa79cf02be088752762c99510284dc0fa"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#aa79cf02be088752762c99510284dc0fa">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, UlduarBiSGear)</td></tr>
 <tr class="separator:aa79cf02be088752762c99510284dc0fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acbc00d4e2188706ec391791695b23e0c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#acbc00d4e2188706ec391791695b23e0c">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, ToCBiSGear)</td></tr>
+<tr class="memitem:acbc00d4e2188706ec391791695b23e0c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#acbc00d4e2188706ec391791695b23e0c">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, ToCBiSGear)</td></tr>
 <tr class="separator:acbc00d4e2188706ec391791695b23e0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6204c0ebff39e559940d5bfd14410b00"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a6204c0ebff39e559940d5bfd14410b00">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, ICCBiSGear)</td></tr>
+<tr class="memitem:a6204c0ebff39e559940d5bfd14410b00"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a6204c0ebff39e559940d5bfd14410b00">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, ICCBiSGear)</td></tr>
 <tr class="separator:a6204c0ebff39e559940d5bfd14410b00"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a691b1f51530aefd24b776a186d3edf9d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a691b1f51530aefd24b776a186d3edf9d">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, RSBiSGear)</td></tr>
+<tr class="memitem:a691b1f51530aefd24b776a186d3edf9d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a691b1f51530aefd24b776a186d3edf9d">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, RSBiSGear)</td></tr>
 <tr class="separator:a691b1f51530aefd24b776a186d3edf9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8418c7e94d66e6a5c9f61c9dd5deeb43"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a8418c7e94d66e6a5c9f61c9dd5deeb43">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, AllEpicNoPenalty)</td></tr>
+<tr class="memitem:a8418c7e94d66e6a5c9f61c9dd5deeb43"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a8418c7e94d66e6a5c9f61c9dd5deeb43">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, AllEpicNoPenalty)</td></tr>
 <tr class="separator:a8418c7e94d66e6a5c9f61c9dd5deeb43"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aee7adb4d2a4892c3cd902c1cd248eb11"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#aee7adb4d2a4892c3cd902c1cd248eb11">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, OneRareItemPenalty)</td></tr>
+<tr class="memitem:aee7adb4d2a4892c3cd902c1cd248eb11"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#aee7adb4d2a4892c3cd902c1cd248eb11">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, OneRareItemPenalty)</td></tr>
 <tr class="separator:aee7adb4d2a4892c3cd902c1cd248eb11"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6984febda90dbdc1cdda96a3cd5af830"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a6984febda90dbdc1cdda96a3cd5af830">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, OneUncommonItemPenalty)</td></tr>
+<tr class="memitem:a6984febda90dbdc1cdda96a3cd5af830"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a6984febda90dbdc1cdda96a3cd5af830">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, OneUncommonItemPenalty)</td></tr>
 <tr class="separator:a6984febda90dbdc1cdda96a3cd5af830"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4fbf14b61deee8b36f80b0133f24edf3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a4fbf14b61deee8b36f80b0133f24edf3">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, MixedQualityPenalty)</td></tr>
+<tr class="memitem:a4fbf14b61deee8b36f80b0133f24edf3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a4fbf14b61deee8b36f80b0133f24edf3">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, MixedQualityPenalty)</td></tr>
 <tr class="separator:a4fbf14b61deee8b36f80b0133f24edf3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a41d0ab57629ac19ea2d4b553a4653fe9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a41d0ab57629ac19ea2d4b553a4653fe9">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, FloorAtLowItemLevel)</td></tr>
+<tr class="memitem:a41d0ab57629ac19ea2d4b553a4653fe9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a41d0ab57629ac19ea2d4b553a4653fe9">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, FloorAtLowItemLevel)</td></tr>
 <tr class="separator:a41d0ab57629ac19ea2d4b553a4653fe9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae018eecb05f49542ee23caca3b50c2f0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#ae018eecb05f49542ee23caca3b50c2f0">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, FloorWithQualityPenalty)</td></tr>
+<tr class="memitem:ae018eecb05f49542ee23caca3b50c2f0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#ae018eecb05f49542ee23caca3b50c2f0">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, FloorWithQualityPenalty)</td></tr>
 <tr class="separator:ae018eecb05f49542ee23caca3b50c2f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acdc1451df7c7bd7b2b7119df4c3751c2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#acdc1451df7c7bd7b2b7119df4c3751c2">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, MonotonicWithSameQuality)</td></tr>
+<tr class="memitem:a51b639d3be67c69499ebcc4139f0107f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a51b639d3be67c69499ebcc4139f0107f">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, DemolisherHealthMatchesCsv)</td></tr>
+<tr class="separator:a51b639d3be67c69499ebcc4139f0107f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a58efc260628541882a11c0cc04c45466"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a58efc260628541882a11c0cc04c45466">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, DemolisherDoTMatchesCsv)</td></tr>
+<tr class="separator:a58efc260628541882a11c0cc04c45466"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f2bec1d8256ffb081dbbceb10dc82cf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a1f2bec1d8256ffb081dbbceb10dc82cf">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, SiegeHealthMatchesCsv)</td></tr>
+<tr class="separator:a1f2bec1d8256ffb081dbbceb10dc82cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a229410306b074e71e9bde46c25c399f6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#a229410306b074e71e9bde46c25c399f6">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, ChopperHealthMatchesCsv)</td></tr>
+<tr class="separator:a229410306b074e71e9bde46c25c399f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acdc1451df7c7bd7b2b7119df4c3751c2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#acdc1451df7c7bd7b2b7119df4c3751c2">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, MonotonicWithSameQuality)</td></tr>
 <tr class="separator:acdc1451df7c7bd7b2b7119df4c3751c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae58086665d96daf405bf70d388d1cae1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#ae58086665d96daf405bf70d388d1cae1">TEST_F</a> (<a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>, MonotonicAmountWithSameQuality)</td></tr>
+<tr class="memitem:ae58086665d96daf405bf70d388d1cae1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a00737.html#ae58086665d96daf405bf70d388d1cae1">TEST_F</a> (<a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>, MonotonicAmountWithSameQuality)</td></tr>
 <tr class="separator:ae58086665d96daf405bf70d388d1cae1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >Tests for Ulduar vehicle gear scaling formula. </p>
-<p >Formula (from <a class="el" href="../../de/d0d/a25315.html">spell_gen_vehicle_scaling_aura</a> in <a class="el" href="../../d7/d62/a04379.html">spell_generic.cpp</a>):</p>
-<p >result = (totalAdjustedILvl - 2500) / 500 amount = int32(max(0.1f, result))</p>
-<p >Where: totalAdjustedILvl = sum of GetItemLevelIncludingQuality across 15 equipped slots (excludes offhand, ranged, shirt, tabard) GetItemLevelIncludingQuality bakes in quality penalty: -26 for uncommon/below, -13 for rare; heirloom items use pLevel * 2.33f instead of base ItemLevel. floor: 0.1 when totalAdjustedILvl &lt; 2500</p>
-<p >Source data: Google Sheets "Ulduar Vehicle Scaling" <a class="el" href="../../dd/d81/a09199.html">Vehicle</a>: Salvaged Demolisher (entry 33109) </p>
+<p >Formula (from <a class="el" href="../../d4/dce/a25327.html">spell_gen_vehicle_scaling_aura</a> in <a class="el" href="../../d7/d62/a04379.html">spell_generic.cpp</a>): Vehicles: Salvaged Demolisher (33109), Salvaged Siege Engine, Salvaged Chopper </p>
 
 <p class="definition">Definition in file <a class="el" href="../../">VehicleScalingUlduarTest.cpp</a>.</p>
 </div><h2 class="groupheader">Function Documentation</h2>
 <a id="a8418c7e94d66e6a5c9f61c9dd5deeb43" name="a8418c7e94d66e6a5c9f61c9dd5deeb43"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8418c7e94d66e6a5c9f61c9dd5deeb43">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/18]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a8418c7e94d66e6a5c9f61c9dd5deeb43">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -193,7 +202,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -209,20 +218,22 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  165</span>{</div>
-<div class="line"><span class="lineno">  166</span>    <span class="comment">// 15 epic items at avg 200: totalAdjustedILvl = 15 * 200 = 3000</span></div>
-<div class="line"><span class="lineno">  167</span>    <span class="comment">// (3000 - 2500) / 500 = 1.0</span></div>
-<div class="line"><span class="lineno">  168</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3000.0f);</div>
-<div class="line"><span class="lineno">  169</span>    EXPECT_FLOAT_EQ(result, 1.0f);</div>
-<div class="line"><span class="lineno">  170</span>}</div>
-<div class="ttc" id="aa05195_html_acdecfc5cf74175c6a000957c02da9cc4"><div class="ttname"><a href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale</a></div><div class="ttdeci">float CalcUlduarVehicleScale(float totalAdjustedILvl)</div><div class="ttdef"><b>Definition:</b> VehicleScalingUlduarTest.cpp:50</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  150</span>{</div>
+<div class="line"><span class="lineno">  151</span>    <span class="comment">// 15 epic items at avg 200: totalAdjustedILvl = 15 * 200 = 3000</span></div>
+<div class="line"><span class="lineno">  152</span>    <span class="comment">// (3000 - 2500) / 500 = 1.0 -&gt; 0% baseline</span></div>
+<div class="line"><span class="lineno">  153</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3000.0f);</div>
+<div class="line"><span class="lineno">  154</span>    EXPECT_FLOAT_EQ(result, 1.0f);</div>
+<div class="line"><span class="lineno">  155</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(3000.0f), 0);</div>
+<div class="line"><span class="lineno">  156</span>}</div>
+<div class="ttc" id="aa05195_html_a7bee56888580618bb23f42cc8f9edc92"><div class="ttname"><a href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount</a></div><div class="ttdeci">int32_t CalcUlduarVehicleScaleAmount(float totalAdjustedILvl)</div><div class="ttdoc">Mirrors the final int32 amount stored on the aura effect (a percent).</div><div class="ttdef"><b>Definition:</b> VehicleScalingUlduarTest.cpp:43</div></div>
+<div class="ttc" id="aa05195_html_acdecfc5cf74175c6a000957c02da9cc4"><div class="ttname"><a href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale</a></div><div class="ttdeci">float CalcUlduarVehicleScale(float totalAdjustedILvl)</div><div class="ttdoc">Mirrors the Ulduar vehicle scaling formula from spell_gen_vehicle_scaling_aura::CalculateAmount.</div><div class="ttdef"><b>Definition:</b> VehicleScalingUlduarTest.cpp:35</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
 
 </div>
 </div>
 <a id="a98ca9fe59822ecd339c6fb8329340dde" name="a98ca9fe59822ecd339c6fb8329340dde"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a98ca9fe59822ecd339c6fb8329340dde">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/18]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a98ca9fe59822ecd339c6fb8329340dde">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -230,7 +241,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -246,21 +257,20 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   71</span>{</div>
-<div class="line"><span class="lineno">   72</span>    <span class="comment">// totalILvl = 2500 (e.g. 15 items at avg 166.67)</span></div>
-<div class="line"><span class="lineno">   73</span>    <span class="comment">// Formula gives 0. Floor at 0.1 -&gt; 0.1, int32 truncates to 0</span></div>
-<div class="line"><span class="lineno">   74</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2500.0f);</div>
-<div class="line"><span class="lineno">   75</span>    EXPECT_FLOAT_EQ(result, 0.1f);</div>
-<div class="line"><span class="lineno">   76</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2500.0f), 0);</div>
-<div class="line"><span class="lineno">   77</span>}</div>
-<div class="ttc" id="aa05195_html_a7bee56888580618bb23f42cc8f9edc92"><div class="ttname"><a href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount</a></div><div class="ttdeci">int32_t CalcUlduarVehicleScaleAmount(float totalAdjustedILvl)</div><div class="ttdoc">Mirrors the final int32 amount stored on the aura effect.</div><div class="ttdef"><b>Definition:</b> VehicleScalingUlduarTest.cpp:58</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   59</span>{</div>
+<div class="line"><span class="lineno">   60</span>    <span class="comment">// totalILvl = 2500 (e.g. 15 items at avg 166.67)</span></div>
+<div class="line"><span class="lineno">   61</span>    <span class="comment">// Raw scaling 0, floored to 0.1 -&gt; -90% (10% of base)</span></div>
+<div class="line"><span class="lineno">   62</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2500.0f);</div>
+<div class="line"><span class="lineno">   63</span>    EXPECT_FLOAT_EQ(result, 0.1f);</div>
+<div class="line"><span class="lineno">   64</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2500.0f), -90);</div>
+<div class="line"><span class="lineno">   65</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00058">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
 
 </div>
 </div>
-<a id="a41d0ab57629ac19ea2d4b553a4653fe9" name="a41d0ab57629ac19ea2d4b553a4653fe9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a41d0ab57629ac19ea2d4b553a4653fe9">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/18]</span></h2>
+<a id="a229410306b074e71e9bde46c25c399f6" name="a229410306b074e71e9bde46c25c399f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a229410306b074e71e9bde46c25c399f6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -268,7 +278,114 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ChopperHealthMatchesCsv&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  230</span>{</div>
+<div class="line"><span class="lineno">  231</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(504000.0f, 2550.0f), 50400.0f);</div>
+<div class="line"><span class="lineno">  232</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(504000.0f, 3195.0f), 700560.0f);</div>
+<div class="line"><span class="lineno">  233</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(504000.0f, 3390.0f), 897120.0f);</div>
+<div class="line"><span class="lineno">  234</span>}</div>
+<div class="ttc" id="aa05195_html_aa21e2162e63f4227effb0e9524258f2d"><div class="ttname"><a href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcScaledVehicleValue</a></div><div class="ttdeci">float CalcScaledVehicleValue(float baseValue, float totalAdjustedILvl)</div><div class="ttdoc">Resulting vehicle stat after the aura: base * (1 + amount / 100).</div><div class="ttdef"><b>Definition:</b> VehicleScalingUlduarTest.cpp:50</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcScaledVehicleValue()</a>.</p>
+
+</div>
+</div>
+<a id="a58efc260628541882a11c0cc04c45466" name="a58efc260628541882a11c0cc04c45466"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a58efc260628541882a11c0cc04c45466">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">DemolisherDoTMatchesCsv&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  217</span>{</div>
+<div class="line"><span class="lineno">  218</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(120000.0f, 3195.0f), 166800.0f);</div>
+<div class="line"><span class="lineno">  219</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(120000.0f, 3390.0f), 213600.0f);</div>
+<div class="line"><span class="lineno">  220</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcScaledVehicleValue()</a>.</p>
+
+</div>
+</div>
+<a id="a51b639d3be67c69499ebcc4139f0107f" name="a51b639d3be67c69499ebcc4139f0107f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a51b639d3be67c69499ebcc4139f0107f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">DemolisherHealthMatchesCsv&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  208</span>{</div>
+<div class="line"><span class="lineno">  209</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(630000.0f, 2550.0f), 63000.0f);</div>
+<div class="line"><span class="lineno">  210</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(630000.0f, 3000.0f), 630000.0f);</div>
+<div class="line"><span class="lineno">  211</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(630000.0f, 3195.0f), 875700.0f);</div>
+<div class="line"><span class="lineno">  212</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(630000.0f, 3390.0f), 1121400.0f);</div>
+<div class="line"><span class="lineno">  213</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(630000.0f, 3780.0f), 1612800.0f);</div>
+<div class="line"><span class="lineno">  214</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcScaledVehicleValue()</a>.</p>
+
+</div>
+</div>
+<a id="a41d0ab57629ac19ea2d4b553a4653fe9" name="a41d0ab57629ac19ea2d4b553a4653fe9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a41d0ab57629ac19ea2d4b553a4653fe9">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -284,19 +401,19 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  204</span>{</div>
-<div class="line"><span class="lineno">  205</span>    <span class="comment">// totalILvl &lt; 2500 → result would be negative, floor to 0.1</span></div>
-<div class="line"><span class="lineno">  206</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2400.0f);</div>
-<div class="line"><span class="lineno">  207</span>    EXPECT_FLOAT_EQ(result, 0.1f);</div>
-<div class="line"><span class="lineno">  208</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2400.0f), 0);</div>
-<div class="line"><span class="lineno">  209</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  191</span>{</div>
+<div class="line"><span class="lineno">  192</span>    <span class="comment">// totalILvl &lt; 2500 → result would be negative, floor to 0.1 -&gt; -90%</span></div>
+<div class="line"><span class="lineno">  193</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2400.0f);</div>
+<div class="line"><span class="lineno">  194</span>    EXPECT_FLOAT_EQ(result, 0.1f);</div>
+<div class="line"><span class="lineno">  195</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2400.0f), -90);</div>
+<div class="line"><span class="lineno">  196</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00058">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
 
 </div>
 </div>
 <a id="ae018eecb05f49542ee23caca3b50c2f0" name="ae018eecb05f49542ee23caca3b50c2f0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae018eecb05f49542ee23caca3b50c2f0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/18]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ae018eecb05f49542ee23caca3b50c2f0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -304,7 +421,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -320,20 +437,20 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  212</span>{</div>
-<div class="line"><span class="lineno">  213</span>    <span class="comment">// totalAdjustedILvl = 2400 (e.g. sum of quality-adjusted iLvl below 2500)</span></div>
-<div class="line"><span class="lineno">  214</span>    <span class="comment">// (2400 - 2500) / 500 = -0.2 → floor to 0.1</span></div>
-<div class="line"><span class="lineno">  215</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2400.0f);</div>
-<div class="line"><span class="lineno">  216</span>    EXPECT_FLOAT_EQ(result, 0.1f);</div>
-<div class="line"><span class="lineno">  217</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2400.0f), 0);</div>
-<div class="line"><span class="lineno">  218</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  199</span>{</div>
+<div class="line"><span class="lineno">  200</span>    <span class="comment">// totalAdjustedILvl = 2400 (e.g. sum of quality-adjusted iLvl below 2500)</span></div>
+<div class="line"><span class="lineno">  201</span>    <span class="comment">// (2400 - 2500) / 500 = -0.2 → floor to 0.1 -&gt; -90%</span></div>
+<div class="line"><span class="lineno">  202</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2400.0f);</div>
+<div class="line"><span class="lineno">  203</span>    EXPECT_FLOAT_EQ(result, 0.1f);</div>
+<div class="line"><span class="lineno">  204</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2400.0f), -90);</div>
+<div class="line"><span class="lineno">  205</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00058">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
 
 </div>
 </div>
 <a id="a6204c0ebff39e559940d5bfd14410b00" name="a6204c0ebff39e559940d5bfd14410b00"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6204c0ebff39e559940d5bfd14410b00">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/18]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a6204c0ebff39e559940d5bfd14410b00">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -341,7 +458,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -357,20 +474,21 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  143</span>{</div>
-<div class="line"><span class="lineno">  144</span>    <span class="comment">// totalILvl = 4162 (avg 277.5 * 15 items, ICC BiS)</span></div>
-<div class="line"><span class="lineno">  145</span>    <span class="comment">// (4162 - 2500) / 500 = 3.324</span></div>
-<div class="line"><span class="lineno">  146</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(4162.0f);</div>
-<div class="line"><span class="lineno">  147</span>    EXPECT_FLOAT_EQ(result, 3.324f);</div>
-<div class="line"><span class="lineno">  148</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(4162.0f), 3);</div>
-<div class="line"><span class="lineno">  149</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  131</span>{</div>
+<div class="line"><span class="lineno">  132</span>    <span class="comment">// totalILvl = 4162 (avg 277.5 * 15 items, ICC BiS)</span></div>
+<div class="line"><span class="lineno">  133</span>    <span class="comment">// (4162 - 2500) / 500 = 3.324 -&gt; +232%</span></div>
+<div class="line"><span class="lineno">  134</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(4162.0f);</div>
+<div class="line"><span class="lineno">  135</span>    EXPECT_FLOAT_EQ(result, 3.324f);</div>
+<div class="line"><span class="lineno">  136</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(4162.0f), 232);</div>
+<div class="line"><span class="lineno">  137</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(630000.0f, 4162.0f), 2091600.0f);</div>
+<div class="line"><span class="lineno">  138</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00058">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcScaledVehicleValue()</a>, <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
 
 </div>
 </div>
 <a id="adfff5b21f8a78f9d8ddbd3dd6dc678a9" name="adfff5b21f8a78f9d8ddbd3dd6dc678a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adfff5b21f8a78f9d8ddbd3dd6dc678a9">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/18]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#adfff5b21f8a78f9d8ddbd3dd6dc678a9">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -378,7 +496,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -394,20 +512,20 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   80</span>{</div>
-<div class="line"><span class="lineno">   81</span>    <span class="comment">// totalILvl = 2550 -&gt; (2550-2500)/500 = 0.1</span></div>
-<div class="line"><span class="lineno">   82</span>    <span class="comment">// At this threshold, floor matches formula</span></div>
-<div class="line"><span class="lineno">   83</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2550.0f);</div>
-<div class="line"><span class="lineno">   84</span>    EXPECT_FLOAT_EQ(result, 0.1f);</div>
-<div class="line"><span class="lineno">   85</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2550.0f), 0);</div>
-<div class="line"><span class="lineno">   86</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   68</span>{</div>
+<div class="line"><span class="lineno">   69</span>    <span class="comment">// totalILvl = 2550 -&gt; (2550-2500)/500 = 0.1, exactly at the floor</span></div>
+<div class="line"><span class="lineno">   70</span>    <span class="comment">// -90% = 10% of base (CSV Demolisher HP 63000)</span></div>
+<div class="line"><span class="lineno">   71</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2550.0f);</div>
+<div class="line"><span class="lineno">   72</span>    EXPECT_FLOAT_EQ(result, 0.1f);</div>
+<div class="line"><span class="lineno">   73</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2550.0f), -90);</div>
+<div class="line"><span class="lineno">   74</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00058">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
 
 </div>
 </div>
 <a id="a4fbf14b61deee8b36f80b0133f24edf3" name="a4fbf14b61deee8b36f80b0133f24edf3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4fbf14b61deee8b36f80b0133f24edf3">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/18]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a4fbf14b61deee8b36f80b0133f24edf3">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -415,7 +533,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -431,20 +549,21 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  191</span>{</div>
-<div class="line"><span class="lineno">  192</span>    <span class="comment">// 10 epic (200) + 3 rare (187) + 2 uncommon (174):</span></div>
-<div class="line"><span class="lineno">  193</span>    <span class="comment">// totalAdjustedILvl = 10*200 + 3*187 + 2*174 = 2000 + 561 + 348 = 2909</span></div>
-<div class="line"><span class="lineno">  194</span>    <span class="comment">// (2909 - 2500) / 500 = 409/500 = 0.818</span></div>
-<div class="line"><span class="lineno">  195</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2909.0f);</div>
-<div class="line"><span class="lineno">  196</span>    EXPECT_FLOAT_EQ(result, 0.818f);</div>
-<div class="line"><span class="lineno">  197</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  177</span>{</div>
+<div class="line"><span class="lineno">  178</span>    <span class="comment">// 10 epic (200) + 3 rare (187) + 2 uncommon (174):</span></div>
+<div class="line"><span class="lineno">  179</span>    <span class="comment">// totalAdjustedILvl = 10*200 + 3*187 + 2*174 = 2000 + 561 + 348 = 2909</span></div>
+<div class="line"><span class="lineno">  180</span>    <span class="comment">// (2909 - 2500) / 500 = 409/500 = 0.818 -&gt; round(-18.2) = -18%</span></div>
+<div class="line"><span class="lineno">  181</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2909.0f);</div>
+<div class="line"><span class="lineno">  182</span>    EXPECT_FLOAT_EQ(result, 0.818f);</div>
+<div class="line"><span class="lineno">  183</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2909.0f), -18);</div>
+<div class="line"><span class="lineno">  184</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
 
 </div>
 </div>
 <a id="ae58086665d96daf405bf70d388d1cae1" name="ae58086665d96daf405bf70d388d1cae1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae58086665d96daf405bf70d388d1cae1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/18]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ae58086665d96daf405bf70d388d1cae1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -452,7 +571,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -468,22 +587,22 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  236</span>{</div>
-<div class="line"><span class="lineno">  237</span>    int32_t prev = <a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2500.0f);</div>
-<div class="line"><span class="lineno">  238</span>    <span class="keywordflow">for</span> (<span class="keywordtype">float</span> totalILvl = 2510.0f; totalILvl &lt;= 4000.0f; totalILvl += 10.0f)</div>
-<div class="line"><span class="lineno">  239</span>    {</div>
-<div class="line"><span class="lineno">  240</span>        int32_t curr = <a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(totalILvl);</div>
-<div class="line"><span class="lineno">  241</span>        EXPECT_GE(curr, prev) &lt;&lt; <span class="stringliteral">&quot;Amount dropped at totalILvl=&quot;</span> &lt;&lt; totalILvl;</div>
-<div class="line"><span class="lineno">  242</span>        prev = curr;</div>
-<div class="line"><span class="lineno">  243</span>    }</div>
-<div class="line"><span class="lineno">  244</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  248</span>{</div>
+<div class="line"><span class="lineno">  249</span>    int32_t prev = <a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2500.0f);</div>
+<div class="line"><span class="lineno">  250</span>    <span class="keywordflow">for</span> (<span class="keywordtype">float</span> totalILvl = 2510.0f; totalILvl &lt;= 4000.0f; totalILvl += 10.0f)</div>
+<div class="line"><span class="lineno">  251</span>    {</div>
+<div class="line"><span class="lineno">  252</span>        int32_t curr = <a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(totalILvl);</div>
+<div class="line"><span class="lineno">  253</span>        EXPECT_GE(curr, prev) &lt;&lt; <span class="stringliteral">&quot;Amount dropped at totalILvl=&quot;</span> &lt;&lt; totalILvl;</div>
+<div class="line"><span class="lineno">  254</span>        prev = curr;</div>
+<div class="line"><span class="lineno">  255</span>    }</div>
+<div class="line"><span class="lineno">  256</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00058">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
 
 </div>
 </div>
 <a id="acdc1451df7c7bd7b2b7119df4c3751c2" name="acdc1451df7c7bd7b2b7119df4c3751c2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acdc1451df7c7bd7b2b7119df4c3751c2">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/18]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#acdc1451df7c7bd7b2b7119df4c3751c2">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -491,7 +610,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -507,22 +626,22 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  225</span>{</div>
-<div class="line"><span class="lineno">  226</span>    <span class="keywordtype">float</span> prev = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2500.0f);</div>
-<div class="line"><span class="lineno">  227</span>    <span class="keywordflow">for</span> (<span class="keywordtype">float</span> totalILvl = 2510.0f; totalILvl &lt;= 4000.0f; totalILvl += 10.0f)</div>
-<div class="line"><span class="lineno">  228</span>    {</div>
-<div class="line"><span class="lineno">  229</span>        <span class="keywordtype">float</span> curr = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(totalILvl);</div>
-<div class="line"><span class="lineno">  230</span>        EXPECT_GE(curr, prev) &lt;&lt; <span class="stringliteral">&quot;Scaling dropped at totalILvl=&quot;</span> &lt;&lt; totalILvl;</div>
-<div class="line"><span class="lineno">  231</span>        prev = curr;</div>
-<div class="line"><span class="lineno">  232</span>    }</div>
-<div class="line"><span class="lineno">  233</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  237</span>{</div>
+<div class="line"><span class="lineno">  238</span>    <span class="keywordtype">float</span> prev = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2500.0f);</div>
+<div class="line"><span class="lineno">  239</span>    <span class="keywordflow">for</span> (<span class="keywordtype">float</span> totalILvl = 2510.0f; totalILvl &lt;= 4000.0f; totalILvl += 10.0f)</div>
+<div class="line"><span class="lineno">  240</span>    {</div>
+<div class="line"><span class="lineno">  241</span>        <span class="keywordtype">float</span> curr = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(totalILvl);</div>
+<div class="line"><span class="lineno">  242</span>        EXPECT_GE(curr, prev) &lt;&lt; <span class="stringliteral">&quot;Scaling dropped at totalILvl=&quot;</span> &lt;&lt; totalILvl;</div>
+<div class="line"><span class="lineno">  243</span>        prev = curr;</div>
+<div class="line"><span class="lineno">  244</span>    }</div>
+<div class="line"><span class="lineno">  245</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>.</p>
 
 </div>
 </div>
 <a id="af96e2f92094886a5993a36d06aa584c0" name="af96e2f92094886a5993a36d06aa584c0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af96e2f92094886a5993a36d06aa584c0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/18]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#af96e2f92094886a5993a36d06aa584c0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -530,7 +649,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -546,20 +665,20 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   98</span>{</div>
-<div class="line"><span class="lineno">   99</span>    <span class="comment">// totalILvl = 3000 (avg 200 * 15 items, Naxx BiS / Ulduar entry)</span></div>
-<div class="line"><span class="lineno">  100</span>    <span class="comment">// (3000 - 2500) / 500 = 1.0</span></div>
-<div class="line"><span class="lineno">  101</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3000.0f);</div>
-<div class="line"><span class="lineno">  102</span>    EXPECT_FLOAT_EQ(result, 1.0f);</div>
-<div class="line"><span class="lineno">  103</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(3000.0f), 1);</div>
-<div class="line"><span class="lineno">  104</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   86</span>{</div>
+<div class="line"><span class="lineno">   87</span>    <span class="comment">// totalILvl = 3000 (avg 200 * 15 items, Naxx BiS / Ulduar entry)</span></div>
+<div class="line"><span class="lineno">   88</span>    <span class="comment">// (3000 - 2500) / 500 = 1.0 -&gt; 0% (baseline, no change)</span></div>
+<div class="line"><span class="lineno">   89</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3000.0f);</div>
+<div class="line"><span class="lineno">   90</span>    EXPECT_FLOAT_EQ(result, 1.0f);</div>
+<div class="line"><span class="lineno">   91</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(3000.0f), 0);</div>
+<div class="line"><span class="lineno">   92</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00058">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
 
 </div>
 </div>
 <a id="a77f70e6e60572369f011d499de48499f" name="a77f70e6e60572369f011d499de48499f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a77f70e6e60572369f011d499de48499f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/18]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a77f70e6e60572369f011d499de48499f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -567,7 +686,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -583,20 +702,20 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   89</span>{</div>
-<div class="line"><span class="lineno">   90</span>    <span class="comment">// totalILvl = 2805 (avg 187 * 15 items, typical Naxx entry)</span></div>
-<div class="line"><span class="lineno">   91</span>    <span class="comment">// (2805 - 2500) / 500 = 0.61</span></div>
-<div class="line"><span class="lineno">   92</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2805.0f);</div>
-<div class="line"><span class="lineno">   93</span>    EXPECT_FLOAT_EQ(result, 0.61f);</div>
-<div class="line"><span class="lineno">   94</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2805.0f), 0);</div>
-<div class="line"><span class="lineno">   95</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   77</span>{</div>
+<div class="line"><span class="lineno">   78</span>    <span class="comment">// totalILvl = 2805 (avg 187 * 15 items, typical Naxx entry)</span></div>
+<div class="line"><span class="lineno">   79</span>    <span class="comment">// (2805 - 2500) / 500 = 0.61 -&gt; -39%</span></div>
+<div class="line"><span class="lineno">   80</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2805.0f);</div>
+<div class="line"><span class="lineno">   81</span>    EXPECT_FLOAT_EQ(result, 0.61f);</div>
+<div class="line"><span class="lineno">   82</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2805.0f), -39);</div>
+<div class="line"><span class="lineno">   83</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00058">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
 
 </div>
 </div>
 <a id="aee7adb4d2a4892c3cd902c1cd248eb11" name="aee7adb4d2a4892c3cd902c1cd248eb11"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aee7adb4d2a4892c3cd902c1cd248eb11">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/18]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#aee7adb4d2a4892c3cd902c1cd248eb11">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -604,7 +723,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -620,20 +739,20 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  173</span>{</div>
-<div class="line"><span class="lineno">  174</span>    <span class="comment">// 14 epic (200) + 1 rare (200 - 13 = 187): totalAdjustedILvl = 14*200 + 187 = 2987</span></div>
-<div class="line"><span class="lineno">  175</span>    <span class="comment">// (2987 - 2500) / 500 = 487/500 = 0.974</span></div>
-<div class="line"><span class="lineno">  176</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2987.0f);</div>
-<div class="line"><span class="lineno">  177</span>    EXPECT_FLOAT_EQ(result, 0.974f);</div>
-<div class="line"><span class="lineno">  178</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2987.0f), 0);</div>
-<div class="line"><span class="lineno">  179</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  159</span>{</div>
+<div class="line"><span class="lineno">  160</span>    <span class="comment">// 14 epic (200) + 1 rare (200 - 13 = 187): totalAdjustedILvl = 14*200 + 187 = 2987</span></div>
+<div class="line"><span class="lineno">  161</span>    <span class="comment">// (2987 - 2500) / 500 = 487/500 = 0.974 -&gt; round(-2.6) = -3%</span></div>
+<div class="line"><span class="lineno">  162</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2987.0f);</div>
+<div class="line"><span class="lineno">  163</span>    EXPECT_FLOAT_EQ(result, 0.974f);</div>
+<div class="line"><span class="lineno">  164</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2987.0f), -3);</div>
+<div class="line"><span class="lineno">  165</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00058">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
 
 </div>
 </div>
 <a id="a6984febda90dbdc1cdda96a3cd5af830" name="a6984febda90dbdc1cdda96a3cd5af830"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6984febda90dbdc1cdda96a3cd5af830">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/18]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a6984febda90dbdc1cdda96a3cd5af830">&#9670;&#160;</a></span>TEST_F() <span class="overload">[16/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -641,7 +760,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -657,20 +776,20 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  182</span>{</div>
-<div class="line"><span class="lineno">  183</span>    <span class="comment">// 14 epic (200) + 1 uncommon (200 - 26 = 174): totalAdjustedILvl = 14*200 + 174 = 2974</span></div>
-<div class="line"><span class="lineno">  184</span>    <span class="comment">// (2974 - 2500) / 500 = 474/500 = 0.948</span></div>
-<div class="line"><span class="lineno">  185</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2974.0f);</div>
-<div class="line"><span class="lineno">  186</span>    EXPECT_FLOAT_EQ(result, 0.948f);</div>
-<div class="line"><span class="lineno">  187</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2974.0f), 0);</div>
-<div class="line"><span class="lineno">  188</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  168</span>{</div>
+<div class="line"><span class="lineno">  169</span>    <span class="comment">// 14 epic (200) + 1 uncommon (200 - 26 = 174): totalAdjustedILvl = 14*200 + 174 = 2974</span></div>
+<div class="line"><span class="lineno">  170</span>    <span class="comment">// (2974 - 2500) / 500 = 474/500 = 0.948 -&gt; round(-5.2) = -5%</span></div>
+<div class="line"><span class="lineno">  171</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2974.0f);</div>
+<div class="line"><span class="lineno">  172</span>    EXPECT_FLOAT_EQ(result, 0.948f);</div>
+<div class="line"><span class="lineno">  173</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2974.0f), -5);</div>
+<div class="line"><span class="lineno">  174</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00058">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
 
 </div>
 </div>
 <a id="a691b1f51530aefd24b776a186d3edf9d" name="a691b1f51530aefd24b776a186d3edf9d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a691b1f51530aefd24b776a186d3edf9d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/18]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a691b1f51530aefd24b776a186d3edf9d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[17/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -678,7 +797,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -694,20 +813,20 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  152</span>{</div>
-<div class="line"><span class="lineno">  153</span>    <span class="comment">// totalILvl = 4204 (avg 280.3 * 15 items, RS BiS)</span></div>
-<div class="line"><span class="lineno">  154</span>    <span class="comment">// (4204 - 2500) / 500 = 3.408</span></div>
-<div class="line"><span class="lineno">  155</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(4204.0f);</div>
-<div class="line"><span class="lineno">  156</span>    EXPECT_FLOAT_EQ(result, 3.408f);</div>
-<div class="line"><span class="lineno">  157</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(4204.0f), 3);</div>
-<div class="line"><span class="lineno">  158</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  141</span>{</div>
+<div class="line"><span class="lineno">  142</span>    <span class="comment">// totalILvl = 4204 (avg 280.3 * 15 items, RS BiS)</span></div>
+<div class="line"><span class="lineno">  143</span>    <span class="comment">// (4204 - 2500) / 500 = 3.408 -&gt; round(240.8) = +241%</span></div>
+<div class="line"><span class="lineno">  144</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(4204.0f);</div>
+<div class="line"><span class="lineno">  145</span>    EXPECT_FLOAT_EQ(result, 3.408f);</div>
+<div class="line"><span class="lineno">  146</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(4204.0f), 241);</div>
+<div class="line"><span class="lineno">  147</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00058">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
 
 </div>
 </div>
-<a id="acbc00d4e2188706ec391791695b23e0c" name="acbc00d4e2188706ec391791695b23e0c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acbc00d4e2188706ec391791695b23e0c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/18]</span></h2>
+<a id="a1f2bec1d8256ffb081dbbceb10dc82cf" name="a1f2bec1d8256ffb081dbbceb10dc82cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1f2bec1d8256ffb081dbbceb10dc82cf">&#9670;&#160;</a></span>TEST_F() <span class="overload">[18/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -715,7 +834,42 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SiegeHealthMatchesCsv&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  223</span>{</div>
+<div class="line"><span class="lineno">  224</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(1134000.0f, 2550.0f), 113400.0f);</div>
+<div class="line"><span class="lineno">  225</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(1134000.0f, 3195.0f), 1576260.0f);</div>
+<div class="line"><span class="lineno">  226</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(1134000.0f, 3390.0f), 2018520.0f);</div>
+<div class="line"><span class="lineno">  227</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcScaledVehicleValue()</a>.</p>
+
+</div>
+</div>
+<a id="acbc00d4e2188706ec391791695b23e0c" name="acbc00d4e2188706ec391791695b23e0c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acbc00d4e2188706ec391791695b23e0c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[19/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -731,20 +885,20 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
-<div class="line"><span class="lineno">  135</span>    <span class="comment">// totalILvl = 3884 (avg 258.9 * 15 items, ToGC BiS)</span></div>
-<div class="line"><span class="lineno">  136</span>    <span class="comment">// (3884 - 2500) / 500 = 2.768</span></div>
-<div class="line"><span class="lineno">  137</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3884.0f);</div>
-<div class="line"><span class="lineno">  138</span>    EXPECT_FLOAT_EQ(result, 2.768f);</div>
-<div class="line"><span class="lineno">  139</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(3884.0f), 2);</div>
-<div class="line"><span class="lineno">  140</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  122</span>{</div>
+<div class="line"><span class="lineno">  123</span>    <span class="comment">// totalILvl = 3884 (avg 258.9 * 15 items, ToGC BiS)</span></div>
+<div class="line"><span class="lineno">  124</span>    <span class="comment">// (3884 - 2500) / 500 = 2.768 -&gt; round(176.8) = +177%</span></div>
+<div class="line"><span class="lineno">  125</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3884.0f);</div>
+<div class="line"><span class="lineno">  126</span>    EXPECT_FLOAT_EQ(result, 2.768f);</div>
+<div class="line"><span class="lineno">  127</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(3884.0f), 177);</div>
+<div class="line"><span class="lineno">  128</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00058">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
 
 </div>
 </div>
 <a id="ae17af8669e2b2e53739a593bca36f20b" name="ae17af8669e2b2e53739a593bca36f20b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae17af8669e2b2e53739a593bca36f20b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[16/18]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ae17af8669e2b2e53739a593bca36f20b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[20/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -752,7 +906,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -768,20 +922,20 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  107</span>{</div>
-<div class="line"><span class="lineno">  108</span>    <span class="comment">// totalILvl = 3195 (avg 213 * 15 items, Ulduar 10)</span></div>
-<div class="line"><span class="lineno">  109</span>    <span class="comment">// (3195 - 2500) / 500 = 1.39</span></div>
-<div class="line"><span class="lineno">  110</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3195.0f);</div>
-<div class="line"><span class="lineno">  111</span>    EXPECT_FLOAT_EQ(result, 1.39f);</div>
-<div class="line"><span class="lineno">  112</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(3195.0f), 1);</div>
-<div class="line"><span class="lineno">  113</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   95</span>{</div>
+<div class="line"><span class="lineno">   96</span>    <span class="comment">// totalILvl = 3195 (avg 213 * 15 items, Ulduar 10)</span></div>
+<div class="line"><span class="lineno">   97</span>    <span class="comment">// (3195 - 2500) / 500 = 1.39 -&gt; +39%</span></div>
+<div class="line"><span class="lineno">   98</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3195.0f);</div>
+<div class="line"><span class="lineno">   99</span>    EXPECT_FLOAT_EQ(result, 1.39f);</div>
+<div class="line"><span class="lineno">  100</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(3195.0f), 39);</div>
+<div class="line"><span class="lineno">  101</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00058">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
 
 </div>
 </div>
 <a id="a1ae53b56b33568cec2c078a3e9e32ea6" name="a1ae53b56b33568cec2c078a3e9e32ea6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1ae53b56b33568cec2c078a3e9e32ea6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[17/18]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a1ae53b56b33568cec2c078a3e9e32ea6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[21/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -789,7 +943,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -805,20 +959,20 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  116</span>{</div>
-<div class="line"><span class="lineno">  117</span>    <span class="comment">// totalILvl = 3390 (avg 226 * 15 items, Ulduar 25)</span></div>
-<div class="line"><span class="lineno">  118</span>    <span class="comment">// (3390 - 2500) / 500 = 1.78</span></div>
-<div class="line"><span class="lineno">  119</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3390.0f);</div>
-<div class="line"><span class="lineno">  120</span>    EXPECT_FLOAT_EQ(result, 1.78f);</div>
-<div class="line"><span class="lineno">  121</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(3390.0f), 1);</div>
-<div class="line"><span class="lineno">  122</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  104</span>{</div>
+<div class="line"><span class="lineno">  105</span>    <span class="comment">// totalILvl = 3390 (avg 226 * 15 items, Ulduar 25)</span></div>
+<div class="line"><span class="lineno">  106</span>    <span class="comment">// (3390 - 2500) / 500 = 1.78 -&gt; +78%</span></div>
+<div class="line"><span class="lineno">  107</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3390.0f);</div>
+<div class="line"><span class="lineno">  108</span>    EXPECT_FLOAT_EQ(result, 1.78f);</div>
+<div class="line"><span class="lineno">  109</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(3390.0f), 78);</div>
+<div class="line"><span class="lineno">  110</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00058">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
 
 </div>
 </div>
 <a id="aa79cf02be088752762c99510284dc0fa" name="aa79cf02be088752762c99510284dc0fa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa79cf02be088752762c99510284dc0fa">&#9670;&#160;</a></span>TEST_F() <span class="overload">[18/18]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#aa79cf02be088752762c99510284dc0fa">&#9670;&#160;</a></span>TEST_F() <span class="overload">[22/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -826,7 +980,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d38/a30083.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d7e/a30095.html">UlduarVehicleScaleTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
@@ -842,15 +996,15 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  125</span>{</div>
-<div class="line"><span class="lineno">  126</span>    <span class="comment">// totalILvl = 3780 (avg 252 * 15 items, Ulduar BiS)</span></div>
-<div class="line"><span class="lineno">  127</span>    <span class="comment">// (3780 - 2500) / 500 = 2.56</span></div>
-<div class="line"><span class="lineno">  128</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3780.0f);</div>
-<div class="line"><span class="lineno">  129</span>    EXPECT_FLOAT_EQ(result, 2.56f);</div>
-<div class="line"><span class="lineno">  130</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(3780.0f), 2);</div>
-<div class="line"><span class="lineno">  131</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  113</span>{</div>
+<div class="line"><span class="lineno">  114</span>    <span class="comment">// totalILvl = 3780 (avg 252 * 15 items, Ulduar BiS)</span></div>
+<div class="line"><span class="lineno">  115</span>    <span class="comment">// (3780 - 2500) / 500 = 2.56 -&gt; +156%</span></div>
+<div class="line"><span class="lineno">  116</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3780.0f);</div>
+<div class="line"><span class="lineno">  117</span>    EXPECT_FLOAT_EQ(result, 2.56f);</div>
+<div class="line"><span class="lineno">  118</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(3780.0f), 156);</div>
+<div class="line"><span class="lineno">  119</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00058">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
 
 </div>
 </div>
@@ -860,7 +1014,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../dd/db2/a00737.html">VehicleScalingUlduarTest.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 24 2026 21:03:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Sep 1 2026 00:08:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

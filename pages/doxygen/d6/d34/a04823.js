@@ -1,7 +1,7 @@
 var a04823 =
 [
-    [ "boss_supremus", "df/d95/a23047.html", "df/d95/a23047" ],
-    [ "npc_supremus_punch_invisible_stalker", "da/d6a/a23051.html", "da/d6a/a23051" ],
+    [ "boss_supremus", "db/d47/a23059.html", "db/d47/a23059" ],
+    [ "npc_supremus_punch_invisible_stalker", "d3/d3a/a23063.html", "d3/d3a/a23063" ],
     [ "Supremus", "d6/d34/a04823.html#a5a2dccece1c55769858f3285c94af1ab", [
       [ "EMOTE_NEW_TARGET", "d6/d34/a04823.html#a5a2dccece1c55769858f3285c94af1abacce041f211d3aacd7153648b2b22657d", null ],
       [ "EMOTE_PUNCH_GROUND", "d6/d34/a04823.html#a5a2dccece1c55769858f3285c94af1aba18c2c02f5902d5eb449f84ea9b0dda48", null ],

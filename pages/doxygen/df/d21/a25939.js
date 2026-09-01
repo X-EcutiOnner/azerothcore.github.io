@@ -1,5 +1,6 @@
 var a25939 =
 [
-    [ "PrepareSpellScript", "df/d21/a25939.html#a64c8a9156181a78dfcb413eedc47f0ed", null ],
-    [ "Register", "df/d21/a25939.html#af8f8b5901a068bef3e2663809180b3e2", null ]
+    [ "OnRemove", "df/d21/a25939.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
+    [ "PrepareAuraScript", "df/d21/a25939.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
+    [ "Register", "df/d21/a25939.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
 ];

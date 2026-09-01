@@ -1,7 +1,7 @@
 var a21547 =
 [
-    [ "npc_azure_spellbreaker", "db/dbc/a21547.html#ae884adc9619d3458d81a2029bd490893", null ],
-    [ "Reset", "db/dbc/a21547.html#a32e4674bac67f1a259c68c32ef0d1358", null ],
-    [ "UpdateAI", "db/dbc/a21547.html#a938a93a71490bb42158e2215d125509f", null ],
-    [ "_events", "db/dbc/a21547.html#a9f526cff54cb949cc68046e7816c3c89", null ]
+    [ "npc_azure_mage_slayer", "db/dbc/a21547.html#a8f537bf85f7d50dda0f3e2e9cb7bd293", null ],
+    [ "Reset", "db/dbc/a21547.html#ad760e69d3246117726b2a2e066e6c5ce", null ],
+    [ "UpdateAI", "db/dbc/a21547.html#a412a23b56efad90af180dee17f9f2be3", null ],
+    [ "_events", "db/dbc/a21547.html#aadb7b09a9fbdd9ca8f04ba38e79901b3", null ]
 ];

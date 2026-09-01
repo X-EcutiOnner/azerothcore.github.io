@@ -1,6 +1,6 @@
 var a27455 =
 [
-    [ "FilterTargets", "d2/dc0/a27455.html#a34ca370993295225a779ee6537295112", null ],
-    [ "PrepareSpellScript", "d2/dc0/a27455.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
-    [ "Register", "d2/dc0/a27455.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
+    [ "FilterTargets", "d2/dc0/a27455.html#ac157503562ac3ef9ddba2c358595ecc5", null ],
+    [ "PrepareSpellScript", "d2/dc0/a27455.html#af41d6353088c5565b0027265c9bd4d8b", null ],
+    [ "Register", "d2/dc0/a27455.html#a95e386af9016e598e932177cb400fd8b", null ]
 ];

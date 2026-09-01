@@ -1,6 +1,7 @@
 var a27975 =
 [
-    [ "CheckProc", "d0/ddc/a27975.html#a957f8837b5613a3bfd8200ded3529c54", null ],
-    [ "PrepareAuraScript", "d0/ddc/a27975.html#a37950bfd846e1c2c550a108461941a26", null ],
-    [ "Register", "d0/ddc/a27975.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
+    [ "HandleGlyph", "d0/ddc/a27975.html#a9ec1133587bb6f0d7faa1beafc8415d9", null ],
+    [ "PrepareSpellScript", "d0/ddc/a27975.html#adffd8b39adef397a886a66465e09f68b", null ],
+    [ "Register", "d0/ddc/a27975.html#a77ff80bffd5c3f75dd60f2d901dfd84e", null ],
+    [ "Validate", "d0/ddc/a27975.html#aa8bf4fc8457d122e46d12bc6b1cc7586", null ]
 ];

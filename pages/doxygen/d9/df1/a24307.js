@@ -1,11 +1,6 @@
 var a24307 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "d9/df1/a24307.html#af24a8d5ead256d158c86379e032aa889", null ],
-    [ "Reset", "d9/df1/a24307.html#a9bcbd0b0b6b12058a8356ce274b6a597", null ],
-    [ "SetData", "d9/df1/a24307.html#aca6ad097bd7b8e5f1a0cde6bdebb23ad", null ],
-    [ "SpellHit", "d9/df1/a24307.html#a14523a24042d23efbafc7924f394dd04", null ],
-    [ "UpdateAI", "d9/df1/a24307.html#ae5cd38aa2a9cc1727141298323639660", null ],
-    [ "resetTimer", "d9/df1/a24307.html#a0d2649de651279fa6bbe3ae2f18571bb", null ],
-    [ "tapped", "d9/df1/a24307.html#af6412de701f14a7eb325e1aaf33f28cc", null ],
-    [ "tuberGUID", "d9/df1/a24307.html#a2deaa1aeed26b862e93055d90c9139d6", null ]
+    [ "npc_enraged_spiritAI", "da/df0/a24311.html", "da/df0/a24311" ],
+    [ "npc_enraged_spirit", "d9/df1/a24307.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "d9/df1/a24307.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

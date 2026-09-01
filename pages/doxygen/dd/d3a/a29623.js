@@ -1,15 +1,16 @@
 var a29623 =
 [
-    [ "AuraStubBuilder", "dd/d3a/a29623.html#a534384a8763b8c95fab8158e83db2def", null ],
-    [ "Build", "dd/d3a/a29623.html#a7d5b970e591a239849e42a0c444f62d4", null ],
-    [ "BuildRaw", "dd/d3a/a29623.html#a6d18b0c3762b471fba8cf895e9a07b50", null ],
-    [ "WithCharges", "dd/d3a/a29623.html#a0e11ce060ed827bfc2b72d2b26a6693b", null ],
-    [ "WithDuration", "dd/d3a/a29623.html#ac5c74952acab3c54a79e28355f423a8f", null ],
-    [ "WithEffect", "dd/d3a/a29623.html#ad25896a25811e0e563dcac1c46e77ff3", null ],
-    [ "WithId", "dd/d3a/a29623.html#aa8dc59189364f6be82822588a47d32fd", null ],
-    [ "WithPassive", "dd/d3a/a29623.html#a056bd26636b67b54562306a42b3d7c3e", null ],
-    [ "WithPeriodicEffect", "dd/d3a/a29623.html#a93fd0ed97589e98446251f9b078a3f9d", null ],
-    [ "WithSpellFamilyName", "dd/d3a/a29623.html#afa4a16fb9c020c568472102fff972408", null ],
-    [ "WithStackAmount", "dd/d3a/a29623.html#a04b37ad66dde7b61695a80db00c9ab66", null ],
-    [ "_stub", "dd/d3a/a29623.html#a22cc8b0309b64c1ecc482d77170a2b09", null ]
+    [ "AuraApplicationStub", "dd/d3a/a29623.html#afaa194023ae92143078166c9a142a41d", null ],
+    [ "~AuraApplicationStub", "dd/d3a/a29623.html#ada36445f6f090c6652e0567a5333bb53", null ],
+    [ "GetEffectMask", "dd/d3a/a29623.html#ad74cccf28b56c1fe88988df229319dae", null ],
+    [ "GetSlot", "dd/d3a/a29623.html#a30f0ddd6c6bbc974958a33ecee39135e", null ],
+    [ "HasEffect", "dd/d3a/a29623.html#ad4040b722b12e54aa630abfa78cdaabd", null ],
+    [ "IsPositive", "dd/d3a/a29623.html#a1bf6810ab9723ce50ddf46789d2a5045", null ],
+    [ "SetEffect", "dd/d3a/a29623.html#a97383d45b0a015579a0f315474ecfcc5", null ],
+    [ "SetEffectMask", "dd/d3a/a29623.html#a1fab3395f580b30fa7b2257cbcacd26a", null ],
+    [ "SetPositive", "dd/d3a/a29623.html#a653fb81ddfa4c7ad855d9f1fefe172f4", null ],
+    [ "SetSlot", "dd/d3a/a29623.html#a824a2ec07e911fdb02054eff2091f2ea", null ],
+    [ "_effectMask", "dd/d3a/a29623.html#a9027c5f622263c32b6f7bc4a11883ddc", null ],
+    [ "_isPositive", "dd/d3a/a29623.html#afc3220aa9f0403a987ad07cec1c42ced", null ],
+    [ "_slot", "dd/d3a/a29623.html#aa4afd58cae5bcfd203d61a1044d72d57", null ]
 ];

@@ -1,10 +1,6 @@
 var a21019 =
 [
-    [ "boss_yoggsaron_immortal_guardian", "d8/daf/a21019.html#a14839f96771d185718e88a4e371b31f6", null ],
-    [ "DamageTaken", "d8/daf/a21019.html#a9bf936d6a501e53ce98786f043562a71", null ],
-    [ "Reset", "d8/daf/a21019.html#a1173d401233670a45b31040b8e5d98cb", null ],
-    [ "SpellHit", "d8/daf/a21019.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
-    [ "UpdateAI", "d8/daf/a21019.html#adaae7e2cd52951095cb82819d9874426", null ],
-    [ "_spellTimer", "d8/daf/a21019.html#a521b956c116a23523fdfceb95a42c1e2", null ],
-    [ "_visualTimer", "d8/daf/a21019.html#acb9f5de4ad41ce56f7c6d05a19783517", null ]
+    [ "boss_yoggsaron_influence_tentacle", "d8/daf/a21019.html#ac5908d64a4749303a08d352d470995dd", null ],
+    [ "DamageTaken", "d8/daf/a21019.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
+    [ "JustDied", "d8/daf/a21019.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
 ];

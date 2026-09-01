@@ -1,6 +1,6 @@
 var a27467 =
 [
-    [ "HandleAfterCast", "d2/d69/a27467.html#aacd4954973c8157ca65958b9ec08155b", null ],
-    [ "PrepareSpellScript", "d2/d69/a27467.html#a45629d348275833930bc5180e9a347f9", null ],
-    [ "Register", "d2/d69/a27467.html#a9c43529cea77a4be86048616ebc64b2c", null ]
+    [ "FilterTargets", "d2/d69/a27467.html#a34ca370993295225a779ee6537295112", null ],
+    [ "PrepareSpellScript", "d2/d69/a27467.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
+    [ "Register", "d2/d69/a27467.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
 ];

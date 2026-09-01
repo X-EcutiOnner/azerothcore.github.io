@@ -1,7 +1,7 @@
 var a03998 =
 [
-    [ "boss_skarvald_the_constructor", "da/dc7/a21219.html", "da/dc7/a21219" ],
-    [ "boss_dalronn_the_controller", "db/d25/a21223.html", "db/d25/a21223" ],
+    [ "boss_skarvald_the_constructor", "d2/dc9/a21231.html", "d2/dc9/a21231" ],
+    [ "boss_dalronn_the_controller", "dd/de3/a21235.html", "dd/de3/a21235" ],
     [ "eEvents", "df/d58/a03998.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "db/d07/a03779.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
       [ "EVENT_CHECK_PLAYERS", "db/d07/a03779.html#a1d3512b0adb171bd0db6aad2c9e70516a6c1847babeb1b838631eee5b2af3dc2b", null ],

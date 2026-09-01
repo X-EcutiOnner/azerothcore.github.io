@@ -1,5 +1,5 @@
 var a28787 =
 [
-    [ "npc_bombardier_petrov", "d9/d58/a28787.html#ac0314c37918381ed6242fcfa4790461a", null ],
-    [ "OnGossipHello", "d9/d58/a28787.html#ab67c12cf53bc5bec85a0707ce35ce888", null ]
+    [ "go_transport_the_purple_princess", "d9/d58/a28787.html#ab0c79197964857d578036693a2c18e8a", null ],
+    [ "EventInform", "d9/d58/a28787.html#ac5b73f1bea180797169138f8e9228783", null ]
 ];

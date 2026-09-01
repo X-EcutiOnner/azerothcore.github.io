@@ -1,8 +1,10 @@
 var a21487 =
 [
-    [ "boss_lavanthor", "d2/dbe/a21487.html#ad264818ef0f539c48160de9dbebeac7f", null ],
-    [ "EnterEvadeMode", "d2/dbe/a21487.html#aee499fcde639aaca7131dba9cca1d4d0", null ],
-    [ "ExecuteEvent", "d2/dbe/a21487.html#a16d7cd5596c20c3663d63549b33c8b4a", null ],
-    [ "JustEngagedWith", "d2/dbe/a21487.html#a4bc5fa66192daab98027539efda37bdc", null ],
-    [ "MoveInLineOfSight", "d2/dbe/a21487.html#a6f68cd280561b428400a08a155f83ccb", null ]
+    [ "npc_erekem_guard", "d2/dbe/a21487.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5", null ],
+    [ "JustEngagedWith", "d2/dbe/a21487.html#a05c81c2b1ec3bb48ae3003f8d825ffc0", null ],
+    [ "MoveInLineOfSight", "d2/dbe/a21487.html#a31ea4b54a0adae7e3fee31d38af87c3e", null ],
+    [ "Reset", "d2/dbe/a21487.html#aacdc16855938d9f133b751f91b5e9402", null ],
+    [ "UpdateAI", "d2/dbe/a21487.html#ae57b5c4e61d9e9475c66b68797a51f09", null ],
+    [ "_events", "d2/dbe/a21487.html#a13829cd26d18c42213be1f6640a2b979", null ],
+    [ "_instance", "d2/dbe/a21487.html#af890899c6d5e0b67fa5b0336c5a31dfc", null ]
 ];

@@ -1,8 +1,8 @@
 var a26875 =
 [
-    [ "CheckCast", "d4/db0/a26875.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
-    [ "PrepareSpellScript", "d4/db0/a26875.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
-    [ "Register", "d4/db0/a26875.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
-    [ "TriggerDebuffs", "d4/db0/a26875.html#a1579b28071e2194625f722a29ded39b8", null ],
-    [ "Validate", "d4/db0/a26875.html#a767853d4b05e055cb32991bfe8c6516a", null ]
+    [ "HandleProc", "d4/db0/a26875.html#a95553bc0c973be3a2e3911602e4067c8", null ],
+    [ "PrepareAuraScript", "d4/db0/a26875.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
+    [ "Register", "d4/db0/a26875.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
+    [ "Validate", "d4/db0/a26875.html#aad1324e94920136258c419094cfca4c3", null ],
+    [ "_cooldownEnd", "d4/db0/a26875.html#a4f19a965ed8ddab712633abdb761d210", null ]
 ];

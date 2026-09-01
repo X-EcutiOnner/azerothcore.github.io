@@ -1,6 +1,6 @@
 var a00713 =
 [
-    [ "SpellProcCooldownTest", "d9/dd4/a30003.html", "d9/dd4/a30003" ],
+    [ "SpellProcCooldownTest", "d4/d32/a30015.html", "d4/d32/a30015" ],
     [ "TEST_F", "d1/d04/a00713.html#ac30c03da32748e0bf7f658b9eff19f67", null ],
     [ "TEST_F", "d1/d04/a00713.html#a877730b0890fd65b53503d867be13db2", null ],
     [ "TEST_F", "d1/d04/a00713.html#a46fee264bedefac5bf751dc80e5175ca", null ],

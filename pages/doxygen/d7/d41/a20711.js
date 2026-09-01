@@ -1,5 +1,6 @@
 var a20711 =
 [
-    [ "achievement_mimiron_firefighter", "d7/d41/a20711.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
-    [ "OnCheck", "d7/d41/a20711.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
+    [ "HandlePeriodic", "d7/d41/a20711.html#ab3f6a58bcea3fc75ccbac99cd911e7f8", null ],
+    [ "PrepareAuraScript", "d7/d41/a20711.html#a09d6fccb19df088780c5baa0ef656da7", null ],
+    [ "Register", "d7/d41/a20711.html#abbf60dac3d36d0833e6509aac83f2b49", null ]
 ];

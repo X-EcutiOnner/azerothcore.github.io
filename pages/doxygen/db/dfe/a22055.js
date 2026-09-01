@@ -1,7 +1,6 @@
 var a22055 =
 [
-    [ "HandleScriptEffect", "db/dfe/a22055.html#a7b0fca053f225beda41942d8fee86383", null ],
-    [ "PrepareSpellScript", "db/dfe/a22055.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
-    [ "Register", "db/dfe/a22055.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
-    [ "Validate", "db/dfe/a22055.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
+    [ "npc_plaguehound_trackerAI", "d7/de1/a22059.html", "d7/de1/a22059" ],
+    [ "npc_plaguehound_tracker", "db/dfe/a22055.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "db/dfe/a22055.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

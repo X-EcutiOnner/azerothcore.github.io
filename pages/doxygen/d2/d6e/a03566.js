@@ -1,6 +1,6 @@
 var a03566 =
 [
-    [ "boss_cyanigosa", "d5/d01/a21467.html", "d5/d01/a21467" ],
+    [ "boss_cyanigosa", "d7/d0f/a21479.html", "d7/d0f/a21479" ],
     [ "eEvents", "d2/d6e/a03566.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "db/d07/a03779.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
       [ "EVENT_CHECK_PLAYERS", "db/d07/a03779.html#a1d3512b0adb171bd0db6aad2c9e70516a6c1847babeb1b838631eee5b2af3dc2b", null ],

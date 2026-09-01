@@ -1,6 +1,6 @@
 var a26691 =
 [
-    [ "HandleRemove", "d3/dc4/a26691.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
-    [ "PrepareAuraScript", "d3/dc4/a26691.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
-    [ "Register", "d3/dc4/a26691.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
+    [ "CheckEffectProc", "d3/dc4/a26691.html#af7756cdb71cc2acc15c56fffc49609f4", null ],
+    [ "PrepareAuraScript", "d3/dc4/a26691.html#a1025c7edec455f647c5c37ffebdf7576", null ],
+    [ "Register", "d3/dc4/a26691.html#a282d4aced8b34e5d800e13dc8e71ef7b", null ]
 ];

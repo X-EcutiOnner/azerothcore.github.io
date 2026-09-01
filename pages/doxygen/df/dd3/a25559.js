@@ -1,6 +1,6 @@
 var a25559 =
 [
-    [ "HandleScript", "df/dd3/a25559.html#a3f63c080d2a74def0920cceaea18e1e2", null ],
-    [ "PrepareSpellScript", "df/dd3/a25559.html#a438c4c1763688210384b24305aeebe52", null ],
-    [ "Register", "df/dd3/a25559.html#a27b25fbbdd912505738728414b79380c", null ]
+    [ "HandleDamageCalc", "df/dd3/a25559.html#a1d0c86e476e4ef75f4e8f2ff27fdd395", null ],
+    [ "PrepareSpellScript", "df/dd3/a25559.html#a4271f026fd9cddeb109761e9b864c381", null ],
+    [ "Register", "df/dd3/a25559.html#a03bb4cf19328efa783600273663b609a", null ]
 ];

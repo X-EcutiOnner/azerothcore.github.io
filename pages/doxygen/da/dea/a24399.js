@@ -1,21 +1,11 @@
 var a24399 =
 [
-    [ "npc_pet_dk_ebon_gargoyle", "da/dea/a24399.html#af3a1bf5f8f5b594aa7cd7542b6099a95", null ],
-    [ "AttackStart", "da/dea/a24399.html#ae5408b18b589fb483095450bf1338b2f", null ],
-    [ "EnterEvadeMode", "da/dea/a24399.html#a73e70d9deaa647edd2904dae180c9cef", null ],
-    [ "FlyAway", "da/dea/a24399.html#abd2bbbff0d1752bbc2d03021b8155155", null ],
-    [ "InitializeAI", "da/dea/a24399.html#a05e7d29c738dcc280603ab12a82b819b", null ],
-    [ "JustExitedCombat", "da/dea/a24399.html#a980844a2d503761efe7e7cacef35bef1", null ],
-    [ "MovementInform", "da/dea/a24399.html#a33e0260425cf179daae147bfc1a570b4", null ],
-    [ "MySelectNextTarget", "da/dea/a24399.html#af86f48070b8c329c6a6a3f43d0156273", null ],
-    [ "RemoveTargetAura", "da/dea/a24399.html#a07a6044ab1246bc2f90309b9eb7d0223", null ],
-    [ "Reset", "da/dea/a24399.html#aa719acf874e7588ed6b73c437fb6765b", null ],
-    [ "UpdateAI", "da/dea/a24399.html#a998a0401bd975cc7d0da7fb33670a503", null ],
-    [ "_decisionTimer", "da/dea/a24399.html#a5ad13d23e35dcc1dab567ae2d8800cd6", null ],
-    [ "_despawning", "da/dea/a24399.html#abca2ddc0628899b0c5bd35210e303d00", null ],
-    [ "_despawnTimer", "da/dea/a24399.html#a8135321f4e5c01dc71e13f719e43d056", null ],
-    [ "_initialCastTimer", "da/dea/a24399.html#ae6a8edeb3ee7a2bde5af81080d536d1f", null ],
-    [ "_initialSelection", "da/dea/a24399.html#a5ce762eb57204a1b4d8f0ea49be701a7", null ],
-    [ "_selectionTimer", "da/dea/a24399.html#ad004ccbe33b4eacff3ac5b5b28709df0", null ],
-    [ "_targetGUID", "da/dea/a24399.html#a8299788ca453930977a605a2766d9e8d", null ]
+    [ "npc_isla_starmaneAI", "da/dea/a24399.html#a0cb655d324ddde173dcfdee069c0f694", null ],
+    [ "JustDied", "da/dea/a24399.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
+    [ "JustEngagedWith", "da/dea/a24399.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
+    [ "JustRespawned", "da/dea/a24399.html#a69b395a9b9504737109870c5e8db74c8", null ],
+    [ "UpdateEscortAI", "da/dea/a24399.html#af4b8c80e7443bb671be253238b124910", null ],
+    [ "WaypointReached", "da/dea/a24399.html#a5d00583afa4e811e4f3cb8400787a990", null ],
+    [ "WaypointReached", "da/dea/a24399.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "events", "da/dea/a24399.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
 ];

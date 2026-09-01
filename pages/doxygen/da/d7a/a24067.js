@@ -1,6 +1,6 @@
 var a24067 =
 [
-    [ "go_apexis_relic", "da/d7a/a24067.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
-    [ "OnGossipHello", "da/d7a/a24067.html#ae8f7167ba5b973881e32d604691dc15a", null ],
-    [ "OnGossipSelect", "da/d7a/a24067.html#a025cc7cc9c69f0eb461445170972ab52", null ]
+    [ "npc_simon_bunnyAI", "dd/d96/a24071.html", "dd/d96/a24071" ],
+    [ "npc_simon_bunny", "da/d7a/a24067.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
+    [ "GetAI", "da/d7a/a24067.html#ac0c97609916321a1599c0722803a050f", null ]
 ];

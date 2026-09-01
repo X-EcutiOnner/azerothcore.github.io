@@ -1,6 +1,6 @@
 var a20391 =
 [
-    [ "HandleScript", "d5/d37/a20391.html#a269167ff78ae3110193f7cfe4b4c0ef4", null ],
-    [ "PrepareSpellScript", "d5/d37/a20391.html#a79975a7f3e523c0feb87d3e084f98808", null ],
-    [ "Register", "d5/d37/a20391.html#aec017333dfc19701472dad3987538e69", null ]
+    [ "achievement_freya_knock_on_wood", "d5/d37/a20391.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "d5/d37/a20391.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "d5/d37/a20391.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

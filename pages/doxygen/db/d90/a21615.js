@@ -1,6 +1,10 @@
 var a21615 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "dd/db5/a21619.html", "dd/db5/a21619" ],
-    [ "npc_imprisoned_beryl_sorcerer", "db/d90/a21615.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
-    [ "GetAI", "db/d90/a21615.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
+    [ "npc_lurgglbrAI", "db/d90/a21615.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "db/d90/a21615.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "db/d90/a21615.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "db/d90/a21615.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "WaypointReached", "db/d90/a21615.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "IntroPhase", "db/d90/a21615.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "db/d90/a21615.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

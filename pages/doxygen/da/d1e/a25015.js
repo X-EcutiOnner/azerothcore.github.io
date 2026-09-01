@@ -1,6 +1,6 @@
 var a25015 =
 [
-    [ "HandleScript", "da/d1e/a25015.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
-    [ "PrepareSpellScript", "da/d1e/a25015.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
-    [ "Register", "da/d1e/a25015.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
+    [ "CalculateAmount", "da/d1e/a25015.html#af8b61cade7f9daae4b982c2a4c8b4a73", null ],
+    [ "PrepareAuraScript", "da/d1e/a25015.html#a3e1d132745f4739b8a3423cb55b0fc9d", null ],
+    [ "Register", "da/d1e/a25015.html#a642ce3a74d7163b264ed4674e14fafbc", null ]
 ];

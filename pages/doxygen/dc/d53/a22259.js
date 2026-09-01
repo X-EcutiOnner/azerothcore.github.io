@@ -1,7 +1,6 @@
 var a22259 =
 [
-    [ "npc_engineer_heliceAI", "d9/d7f/a22263.html", "d9/d7f/a22263" ],
-    [ "npc_engineer_helice", "dc/d53/a22259.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
-    [ "GetAI", "dc/d53/a22259.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
-    [ "OnQuestAccept", "dc/d53/a22259.html#abd345111463ce2ac635ad7fc6f891fb7", null ]
+    [ "npc_vekjik", "dc/d53/a22259.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "dc/d53/a22259.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "dc/d53/a22259.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

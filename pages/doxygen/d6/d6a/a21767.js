@@ -1,6 +1,6 @@
 var a21767 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "d1/d79/a21771.html", "d1/d79/a21771" ],
-    [ "npc_conversing_with_the_depths_trigger", "d6/d6a/a21767.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
-    [ "GetAI", "d6/d6a/a21767.html#a61c337bfe1efb3589cf0df91d9082236", null ]
+    [ "npc_dalaran_warriorAI", "d1/d79/a21771.html", "d1/d79/a21771" ],
+    [ "npc_dalaran_warrior", "d6/d6a/a21767.html#a13d44b85173232ddedcc35184d50549c", null ],
+    [ "GetAI", "d6/d6a/a21767.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
 ];

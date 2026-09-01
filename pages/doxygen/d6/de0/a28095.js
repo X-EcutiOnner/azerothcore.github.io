@@ -1,7 +1,5 @@
 var a28095 =
 [
-    [ "CharacterDeleteActionIpLogger", "d6/de0/a28095.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "d6/de0/a28095.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "d6/de0/a28095.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "d6/de0/a28095.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "achievement_fa_la_la_la_ogrila", "d6/de0/a28095.html#ab98a8ab33fec62936bf3c235659c1445", null ],
+    [ "OnCheck", "d6/de0/a28095.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
 ];

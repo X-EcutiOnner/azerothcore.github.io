@@ -1,6 +1,6 @@
 var a21931 =
 [
-    [ "HandleScriptEffect", "de/d4f/a21931.html#aab68c7fac277f4da5a6cf8bf8e6256ea", null ],
-    [ "PrepareSpellScript", "de/d4f/a21931.html#a6b7f628a138ac395a8cc122902ec38b4", null ],
-    [ "Register", "de/d4f/a21931.html#aacf2bbf7b8396fd7cfbfaf34a66f9b61", null ]
+    [ "npc_torturer_lecraftAI", "d0/d36/a21935.html", "d0/d36/a21935" ],
+    [ "npc_torturer_lecraft", "de/d4f/a21931.html#a789f8bdafe96d5cb01225b940a80c651", null ],
+    [ "GetAI", "de/d4f/a21931.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
 ];

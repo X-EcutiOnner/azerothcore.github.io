@@ -1,10 +1,14 @@
 var a00737 =
 [
-    [ "UlduarVehicleScaleTest", "d2/d38/a30083.html", null ],
+    [ "UlduarVehicleScaleTest", "d9/d7e/a30095.html", null ],
+    [ "CalcScaledVehicleValue", "dd/db2/a00737.html#aa21e2162e63f4227effb0e9524258f2d", null ],
     [ "CalcUlduarVehicleScale", "dd/db2/a00737.html#acdecfc5cf74175c6a000957c02da9cc4", null ],
     [ "CalcUlduarVehicleScaleAmount", "dd/db2/a00737.html#a7bee56888580618bb23f42cc8f9edc92", null ],
     [ "TEST_F", "dd/db2/a00737.html#a8418c7e94d66e6a5c9f61c9dd5deeb43", null ],
     [ "TEST_F", "dd/db2/a00737.html#a98ca9fe59822ecd339c6fb8329340dde", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a229410306b074e71e9bde46c25c399f6", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a58efc260628541882a11c0cc04c45466", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a51b639d3be67c69499ebcc4139f0107f", null ],
     [ "TEST_F", "dd/db2/a00737.html#a41d0ab57629ac19ea2d4b553a4653fe9", null ],
     [ "TEST_F", "dd/db2/a00737.html#ae018eecb05f49542ee23caca3b50c2f0", null ],
     [ "TEST_F", "dd/db2/a00737.html#a6204c0ebff39e559940d5bfd14410b00", null ],
@@ -17,6 +21,7 @@ var a00737 =
     [ "TEST_F", "dd/db2/a00737.html#aee7adb4d2a4892c3cd902c1cd248eb11", null ],
     [ "TEST_F", "dd/db2/a00737.html#a6984febda90dbdc1cdda96a3cd5af830", null ],
     [ "TEST_F", "dd/db2/a00737.html#a691b1f51530aefd24b776a186d3edf9d", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a1f2bec1d8256ffb081dbbceb10dc82cf", null ],
     [ "TEST_F", "dd/db2/a00737.html#acbc00d4e2188706ec391791695b23e0c", null ],
     [ "TEST_F", "dd/db2/a00737.html#ae17af8669e2b2e53739a593bca36f20b", null ],
     [ "TEST_F", "dd/db2/a00737.html#a1ae53b56b33568cec2c078a3e9e32ea6", null ],

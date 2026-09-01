@@ -1,7 +1,12 @@
 var a25475 =
 [
-    [ "OnApply", "d8/d74/a25475.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "d8/d74/a25475.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "d8/d74/a25475.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "d8/d74/a25475.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "EtherealSoulTrader", "d8/d74/a25475.html#a8fd600957c21bdd8a1c1793e36ea3953", [
+      [ "NPC_ETHEREAL_SOUL_TRADER", "d8/d74/a25475.html#a8fd600957c21bdd8a1c1793e36ea3953af260b92af2c0a22e3d0de607611f3673", null ],
+      [ "SPELL_OWNER_KILLED_INFORM", "d8/d74/a25475.html#a8fd600957c21bdd8a1c1793e36ea3953a0ece3b3d2fa217b809d77915cc6f30d2", null ],
+      [ "SPELL_STEAL_ESSENCE_VISUAL", "d8/d74/a25475.html#a8fd600957c21bdd8a1c1793e36ea3953aa4a66122509fdf013a6c6b3a5edbbba7", null ]
+    ] ],
+    [ "CheckProc", "d8/d74/a25475.html#a59752617fc790359fdb13cc88aaed15e", null ],
+    [ "HandleProc", "d8/d74/a25475.html#ab52656d4827f3fe980edd281e82debd5", null ],
+    [ "PrepareAuraScript", "d8/d74/a25475.html#a49a6a07b66e5b99c67d4fcef13aeb933", null ],
+    [ "Register", "d8/d74/a25475.html#a16d9e04ba3bc3144cd539033a5053d1a", null ]
 ];

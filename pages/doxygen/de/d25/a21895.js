@@ -1,8 +1,6 @@
 var a21895 =
 [
-    [ "npc_q24545_vegardAI", "de/d25/a21895.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
-    [ "JustDied", "de/d25/a21895.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
-    [ "KilledUnit", "de/d25/a21895.html#a2d78117a6c2a29f52f1905595425964a", null ],
-    [ "UpdateAI", "de/d25/a21895.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
-    [ "events", "de/d25/a21895.html#a68f48d92cc5559025e635d599c2882e3", null ]
+    [ "npc_q24545_vegard_dummyAI", "da/d98/a21899.html", "da/d98/a21899" ],
+    [ "npc_q24545_vegard_dummy", "de/d25/a21895.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "de/d25/a21895.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

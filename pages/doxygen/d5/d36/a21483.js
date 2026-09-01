@@ -1,12 +1,11 @@
 var a21483 =
 [
-    [ "npc_ichor_globule", "d5/d36/a21483.html#a59443a6748d81ef27a030f8656697fc1", null ],
-    [ "AttackStart", "d5/d36/a21483.html#a1e52599fab1b7e33d958f9815f73c6eb", null ],
-    [ "JustDied", "d5/d36/a21483.html#af740ee64b1f8510b0bacba4bcfe6d418", null ],
-    [ "MoveInLineOfSight", "d5/d36/a21483.html#af14fada689a1a6a780ae44865d16e465", null ],
-    [ "Reset", "d5/d36/a21483.html#a78030360fcd39754744384cdba17fd9e", null ],
-    [ "SpellHit", "d5/d36/a21483.html#a3d1e68f4b809286d57355de7d4482ae6", null ],
-    [ "UpdateAI", "d5/d36/a21483.html#acccc54db59a18e78330011465e109439", null ],
-    [ "_events", "d5/d36/a21483.html#a221c58177666ea1eb4a6b831916297eb", null ],
-    [ "_instance", "d5/d36/a21483.html#a5d56f5468b146ab2f8905b807bb22edc", null ]
+    [ "boss_erekem", "d5/d36/a21483.html#a32a7d3b83f201bd77423da1a98e742ae", null ],
+    [ "EnterEvadeMode", "d5/d36/a21483.html#a3d946004c120c6daec6565e7ba815fa1", null ],
+    [ "ExecuteEvent", "d5/d36/a21483.html#a24100918d900f974144f94f399e429b3", null ],
+    [ "GetChainHealTargetGuid", "d5/d36/a21483.html#a809a25ac441f1ef1c60273ac1094a3b2", null ],
+    [ "JustDied", "d5/d36/a21483.html#a23ce09bbe023ebab5dbe1bf26cd84c7a", null ],
+    [ "JustEngagedWith", "d5/d36/a21483.html#a82faaeb00a41745d331f97037e5b4800", null ],
+    [ "KilledUnit", "d5/d36/a21483.html#acaa92e69b5d4ff536d8a0a3e965a93d5", null ],
+    [ "MoveInLineOfSight", "d5/d36/a21483.html#ad89c95919671fd1ae2656ed468ee022a", null ]
 ];

@@ -1,5 +1,6 @@
 var a28763 =
 [
-    [ "npc_sunwell_gate", "d3/d4e/a28763.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
-    [ "OnQuestReward", "d3/d4e/a28763.html#a760f5bef0c1f45f21698b0dcdf2d2236", null ]
+    [ "CheckCast", "d3/d4e/a28763.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
+    [ "PrepareSpellScript", "d3/d4e/a28763.html#aa3c18907c79309a8924a98bce41e27f1", null ],
+    [ "Register", "d3/d4e/a28763.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
 ];

@@ -1,6 +1,6 @@
 var a21703 =
 [
-    [ "npc_steam_powered_auctioneerAI", "d9/dc7/a21707.html", "d9/dc7/a21707" ],
-    [ "npc_steam_powered_auctioneer", "db/dc6/a21703.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
-    [ "GetAI", "db/dc6/a21703.html#a39a2f0c187078c759bc4a391e0a81068", null ]
+    [ "HandleScriptEffect", "db/dc6/a21703.html#a6ba170146e6b66e00b98bb63baf3d710", null ],
+    [ "PrepareSpellScript", "db/dc6/a21703.html#a29f6a1a5057f1e071db855292500b99c", null ],
+    [ "Register", "db/dc6/a21703.html#a88b70634327bf5c66555149822a2e504", null ]
 ];

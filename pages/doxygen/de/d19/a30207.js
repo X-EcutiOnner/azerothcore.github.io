@@ -1,20 +1,5 @@
 var a30207 =
 [
-    [ "FileLoader", "de/d19/a30207.html#a51313b536560d1d89d8350475d2bc749", null ],
-    [ "~FileLoader", "de/d19/a30207.html#a0954776182dd01364bdb216539ce398b", null ],
-    [ "FileLoader", "de/d19/a30207.html#a51313b536560d1d89d8350475d2bc749", null ],
-    [ "~FileLoader", "de/d19/a30207.html#a0954776182dd01364bdb216539ce398b", null ],
-    [ "free", "de/d19/a30207.html#a738aeb2ebe751c9fc75013dbce30dcc4", null ],
-    [ "free", "de/d19/a30207.html#aef98564821c8e63b6d484179cda0b380", null ],
-    [ "GetData", "de/d19/a30207.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
-    [ "GetData", "de/d19/a30207.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
-    [ "GetDataSize", "de/d19/a30207.html#a2a07adb0692a51af06ccd31d449ae444", null ],
-    [ "GetDataSize", "de/d19/a30207.html#a2a07adb0692a51af06ccd31d449ae444", null ],
-    [ "loadFile", "de/d19/a30207.html#a11908109042f93ddde393e7a874683c9", null ],
-    [ "loadFile", "de/d19/a30207.html#a11908109042f93ddde393e7a874683c9", null ],
-    [ "prepareLoadedData", "de/d19/a30207.html#ab66347098d7c9ac470339c232f9b7588", null ],
-    [ "prepareLoadedData", "de/d19/a30207.html#a498a33d80768843b4ab1ff2d5ffe68d9", null ],
-    [ "data", "de/d19/a30207.html#aff1880ac2038f17f4d1f63bc9f7d9afd", null ],
-    [ "data_size", "de/d19/a30207.html#a355891fc980538e74080b9b83a95dec8", null ],
-    [ "version", "de/d19/a30207.html#a41cedec185e5909d83c8a185d1476dee", null ]
+    [ "fcc", "de/d19/a30207.html#a828a2845e666d6eb47d6d4705a663a3d", null ],
+    [ "fcc_txt", "de/d19/a30207.html#acf0f4449ab5a64822833b86b41e2487c", null ]
 ];

@@ -113,12 +113,54 @@ $(document).ready(function(){initNavTree('dc/d65/a05195.html','../../'); initRes
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:acdecfc5cf74175c6a000957c02da9cc4"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a> (float totalAdjustedILvl)</td></tr>
+<tr class="memdesc:acdecfc5cf74175c6a000957c02da9cc4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mirrors the Ulduar vehicle scaling formula from <a class="el" href="../../d4/dce/a25327.html#a40ba021accd581745f07f2586545853c">spell_gen_vehicle_scaling_aura::CalculateAmount</a>.  <a href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">More...</a><br /></td></tr>
 <tr class="separator:acdecfc5cf74175c6a000957c02da9cc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7bee56888580618bb23f42cc8f9edc92"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a> (float totalAdjustedILvl)</td></tr>
-<tr class="memdesc:a7bee56888580618bb23f42cc8f9edc92"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mirrors the final int32 amount stored on the aura effect.  <a href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">More...</a><br /></td></tr>
+<tr class="memdesc:a7bee56888580618bb23f42cc8f9edc92"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mirrors the final int32 amount stored on the aura effect (a percent).  <a href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">More...</a><br /></td></tr>
 <tr class="separator:a7bee56888580618bb23f42cc8f9edc92"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa21e2162e63f4227effb0e9524258f2d"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a> (float baseValue, float totalAdjustedILvl)</td></tr>
+<tr class="memdesc:aa21e2162e63f4227effb0e9524258f2d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Resulting vehicle stat after the aura: base * (1 + amount / 100).  <a href="../../dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d">More...</a><br /></td></tr>
+<tr class="separator:aa21e2162e63f4227effb0e9524258f2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
+<a id="aa21e2162e63f4227effb0e9524258f2d" name="aa21e2162e63f4227effb0e9524258f2d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa21e2162e63f4227effb0e9524258f2d">&#9670;&#160;</a></span>CalcScaledVehicleValue()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcScaledVehicleValue </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>baseValue</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>totalAdjustedILvl</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Resulting vehicle stat after the aura: base * (1 + amount / 100). </p>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>    {</div>
+<div class="line"><span class="lineno">   52</span>        <span class="keywordflow">return</span> baseValue * (1.0f + <a class="code hl_function" href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(totalAdjustedILvl) / 100.0f);</div>
+<div class="line"><span class="lineno">   53</span>    }</div>
+<div class="ttc" id="aa05195_html_a7bee56888580618bb23f42cc8f9edc92"><div class="ttname"><a href="../../dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount</a></div><div class="ttdeci">int32_t CalcUlduarVehicleScaleAmount(float totalAdjustedILvl)</div><div class="ttdoc">Mirrors the final int32 amount stored on the aura effect (a percent).</div><div class="ttdef"><b>Definition:</b> VehicleScalingUlduarTest.cpp:43</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00043">CalcUlduarVehicleScaleAmount()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00130">TEST_F()</a>.</p>
+
+</div>
+</div>
 <a id="acdecfc5cf74175c6a000957c02da9cc4" name="acdecfc5cf74175c6a000957c02da9cc4"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#acdecfc5cf74175c6a000957c02da9cc4">&#9670;&#160;</a></span>CalcUlduarVehicleScale()</h2>
 
@@ -134,14 +176,15 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p >Mirrors the Ulduar vehicle scaling formula from <a class="el" href="../../de/d0d/a25315.html#a40ba021accd581745f07f2586545853c">spell_gen_vehicle_scaling_aura::CalculateAmount</a>. totalAdjustedILvl is the sum of GetItemLevelIncludingQuality across equipped slots (quality penalty is already baked into each item's value). Computes the raw float result before int32 truncation. </p>
-<div class="fragment"><div class="line"><span class="lineno">   51</span>    {</div>
-<div class="line"><span class="lineno">   52</span>        <span class="keywordtype">float</span> <span class="keyword">const</span> baseILvl = 2500.0f;</div>
-<div class="line"><span class="lineno">   53</span>        <span class="keywordtype">float</span> result = (totalAdjustedILvl - baseILvl) / 5.0f / 100.0f;</div>
-<div class="line"><span class="lineno">   54</span>        <span class="keywordflow">return</span> std::max(0.1f, result);</div>
-<div class="line"><span class="lineno">   55</span>    }</div>
+
+<p>Mirrors the Ulduar vehicle scaling formula from <a class="el" href="../../d4/dce/a25327.html#a40ba021accd581745f07f2586545853c">spell_gen_vehicle_scaling_aura::CalculateAmount</a>. </p>
+<div class="fragment"><div class="line"><span class="lineno">   36</span>    {</div>
+<div class="line"><span class="lineno">   37</span>        <span class="keywordtype">float</span> <span class="keyword">const</span> baseILvl = 2500.0f;</div>
+<div class="line"><span class="lineno">   38</span>        <span class="keywordtype">float</span> result = (totalAdjustedILvl - baseILvl) / 5.0f / 100.0f;</div>
+<div class="line"><span class="lineno">   39</span>        <span class="keywordflow">return</span> std::max(0.1f, result);</div>
+<div class="line"><span class="lineno">   40</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00058">CalcUlduarVehicleScaleAmount()</a>, and <a class="el" href="../../#l00070">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00043">CalcUlduarVehicleScaleAmount()</a>, and <a class="el" href="../../#l00058">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -161,15 +204,16 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Mirrors the final int32 amount stored on the aura effect. </p>
-<div class="fragment"><div class="line"><span class="lineno">   59</span>    {</div>
-<div class="line"><span class="lineno">   60</span>        <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span>int32_t<span class="keyword">&gt;</span>(<a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(totalAdjustedILvl));</div>
-<div class="line"><span class="lineno">   61</span>    }</div>
-<div class="ttc" id="aa05195_html_acdecfc5cf74175c6a000957c02da9cc4"><div class="ttname"><a href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale</a></div><div class="ttdeci">float CalcUlduarVehicleScale(float totalAdjustedILvl)</div><div class="ttdef"><b>Definition:</b> VehicleScalingUlduarTest.cpp:50</div></div>
+<p>Mirrors the final int32 amount stored on the aura effect (a percent). </p>
+<div class="fragment"><div class="line"><span class="lineno">   44</span>    {</div>
+<div class="line"><span class="lineno">   45</span>        <span class="keywordtype">float</span> scaling = <a class="code hl_function" href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(totalAdjustedILvl);</div>
+<div class="line"><span class="lineno">   46</span>        <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span>int32_t<span class="keyword">&gt;</span>(std::round((scaling - 1.0f) * 100.0f));</div>
+<div class="line"><span class="lineno">   47</span>    }</div>
+<div class="ttc" id="aa05195_html_acdecfc5cf74175c6a000957c02da9cc4"><div class="ttname"><a href="../../dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale</a></div><div class="ttdeci">float CalcUlduarVehicleScale(float totalAdjustedILvl)</div><div class="ttdoc">Mirrors the Ulduar vehicle scaling formula from spell_gen_vehicle_scaling_aura::CalculateAmount.</div><div class="ttdef"><b>Definition:</b> VehicleScalingUlduarTest.cpp:35</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">CalcUlduarVehicleScale()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">CalcUlduarVehicleScale()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00070">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00050">CalcScaledVehicleValue()</a>, and <a class="el" href="../../#l00058">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -179,7 +223,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d65/a05195.html">anonymous_namespace{VehicleScalingUlduarTest.cpp}</a></li>
-    <li class="footer">Generated on Mon Aug 24 2026 21:04:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Sep 1 2026 00:10:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

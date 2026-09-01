@@ -1,7 +1,7 @@
 var a00710 =
 [
-    [ "ProcFlagScenario", "d2/d6f/a30007.html", "d2/d6f/a30007" ],
-    [ "SpellProcDatabaseTest", "d6/d1a/a30011.html", "d6/d1a/a30011" ],
+    [ "ProcFlagScenario", "da/d53/a30019.html", "da/d53/a30019" ],
+    [ "SpellProcDatabaseTest", "db/de0/a30023.html", "db/de0/a30023" ],
     [ "TEST_F", "d4/deb/a00710.html#a0b5b8d274c47bc86db574620f695c2b6", null ],
     [ "TEST_F", "d4/deb/a00710.html#a7e7a38efd8e5e25ff2069b885f19c281", null ],
     [ "TEST_F", "d4/deb/a00710.html#a7567757723eb6accfeedcb21c604f0df", null ],

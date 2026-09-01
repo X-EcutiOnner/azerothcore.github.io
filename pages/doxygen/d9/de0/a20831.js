@@ -1,8 +1,11 @@
 var a20831 =
 [
-    [ "boss_thorim_pillar", "d9/de0/a20831.html#aec2fc6e420499c9ce991753b912bef1e", null ],
-    [ "Reset", "d9/de0/a20831.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
-    [ "SpellHit", "d9/de0/a20831.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
-    [ "UpdateAI", "d9/de0/a20831.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
-    [ "_resetTimer", "d9/de0/a20831.html#ac9c8ef8622496593b5f91611d22120b3", null ]
+    [ "boss_thorim_sif_blizzard", "d9/de0/a20831.html#a7d4054eb43079fe13e5a7a6c85b461ec", null ],
+    [ "AttackStart", "d9/de0/a20831.html#ab41c744d8573b1f8ce5e82e798c9bd4f", null ],
+    [ "InitWaypoint", "d9/de0/a20831.html#a55424c77633aaa62e12581a818736441", null ],
+    [ "JustEngagedWith", "d9/de0/a20831.html#a019b50cc265dff0e92417482b85ccf64", null ],
+    [ "MoveInLineOfSight", "d9/de0/a20831.html#a6e5333d6a87956d2052c2212a3dcb0fa", null ],
+    [ "Reset", "d9/de0/a20831.html#a347fcc28a0bc660b9fa93fe7fc54eea0", null ],
+    [ "WaypointReached", "d9/de0/a20831.html#af69dfd0ec232c7e45d13b117988ba924", null ],
+    [ "WaypointReached", "d9/de0/a20831.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

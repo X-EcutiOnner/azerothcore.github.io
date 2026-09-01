@@ -1,10 +1,6 @@
 var a25691 =
 [
-    [ "Load", "dd/d67/a25691.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
-    [ "OnApply", "dd/d67/a25691.html#a83d922c434442e22482410d61aa0198f", null ],
-    [ "OnPetApply", "dd/d67/a25691.html#a6df5e59e29cb89310a1c78bf93029545", null ],
-    [ "OnRemove", "dd/d67/a25691.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
-    [ "PrepareAuraScript", "dd/d67/a25691.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
-    [ "Register", "dd/d67/a25691.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
-    [ "Validate", "dd/d67/a25691.html#ab318472ea9f4aaa79e45f18783586eed", null ]
+    [ "CalculateAmount", "dd/d67/a25691.html#ac0018b57967a3d3ae71aa81745032f15", null ],
+    [ "PrepareAuraScript", "dd/d67/a25691.html#ab249a493050c5527eeec8913e94cfc64", null ],
+    [ "Register", "dd/d67/a25691.html#a8f078f8370eacba197ceb2068b6a538d", null ]
 ];

@@ -1,6 +1,6 @@
 var a28139 =
 [
-    [ "npc_dream_fogAI", "de/d09/a28143.html", "de/d09/a28143" ],
-    [ "npc_dream_fog", "d9/d5c/a28139.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "d9/d5c/a28139.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "AreaTrigger_at_brewfest", "d9/d5c/a28139.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
+    [ "OnTrigger", "d9/d5c/a28139.html#a17e4a8d671136466c7673789e4f69a84", null ],
+    [ "_triggerTimes", "d9/d5c/a28139.html#ab763765427796ad17338bcc8d63cf891", null ]
 ];

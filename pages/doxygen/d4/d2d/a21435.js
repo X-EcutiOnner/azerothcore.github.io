@@ -1,6 +1,7 @@
 var a21435 =
 [
-    [ "boss_toravonAI", "db/d85/a21439.html", "db/d85/a21439" ],
-    [ "boss_toravon", "d4/d2d/a21435.html#abd30a86924bd7dd9474b5df16f3a8d8d", null ],
-    [ "GetAI", "d4/d2d/a21435.html#a6db140b1d232312300e20155830cb249", null ]
+    [ "HandleDummy", "d4/d2d/a21435.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "d4/d2d/a21435.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "d4/d2d/a21435.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "d4/d2d/a21435.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

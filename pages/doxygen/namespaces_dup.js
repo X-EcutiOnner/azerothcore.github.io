@@ -139,6 +139,7 @@ var namespaces_dup =
       [ "transportStartDate", "d4/d85/a05138.html#aaffdf4c6f140e5c339726ba9e134e6f9", null ]
     ] ],
     [ "anonymous_namespace{VehicleScalingUlduarTest.cpp}", "dc/d65/a05195.html", [
+      [ "CalcScaledVehicleValue", "dc/d65/a05195.html#aa21e2162e63f4227effb0e9524258f2d", null ],
       [ "CalcUlduarVehicleScale", "dc/d65/a05195.html#acdecfc5cf74175c6a000957c02da9cc4", null ],
       [ "CalcUlduarVehicleScaleAmount", "dc/d65/a05195.html#a7bee56888580618bb23f42cc8f9edc92", null ]
     ] ],

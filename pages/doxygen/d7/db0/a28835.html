@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: CreatureSpellDataEntry Struct Reference</title>
+<title>AzerothCore: AchievementCriteriaEntry Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,7 +107,7 @@ $(document).ready(function(){initNavTree('d7/db0/a28835.html','../../'); initRes
   <div class="summary">
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d1/da1/a28832.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">CreatureSpellDataEntry Struct Reference</div></div>
+  <div class="headertitle"><div class="title">AchievementCriteriaEntry Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
@@ -115,40 +115,2500 @@ $(document).ready(function(){initNavTree('d7/db0/a28835.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a01bcdc3543d3ff250354acf5e0724c14"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d24/a04901.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/a28835.html#a01bcdc3543d3ff250354acf5e0724c14">ID</a></td></tr>
-<tr class="separator:a01bcdc3543d3ff250354acf5e0724c14"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aabbb95c091e0b0946bcb05746b1c23f3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d24/a04901.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/a28835.html#aabbb95c091e0b0946bcb05746b1c23f3">spellId</a> [<a class="el" href="../../dc/da4/a02303.html#a84f97addb2541cd13960d71b99ac4f9c">MAX_CREATURE_SPELL_DATA_SLOT</a>]</td></tr>
-<tr class="separator:aabbb95c091e0b0946bcb05746b1c23f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7245356b86ca884aff831a970ff2979"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/a28835.html#aa7245356b86ca884aff831a970ff2979">ID</a></td></tr>
+<tr class="separator:aa7245356b86ca884aff831a970ff2979"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad8ee991ffab7388d713c438db372f199"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/a28835.html#ad8ee991ffab7388d713c438db372f199">referredAchievement</a></td></tr>
+<tr class="separator:ad8ee991ffab7388d713c438db372f199"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac7b579fe1c12c82995bdecca0af68c51"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/a28835.html#ac7b579fe1c12c82995bdecca0af68c51">requiredType</a></td></tr>
+<tr class="separator:ac7b579fe1c12c82995bdecca0af68c51"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5bc9ee96ae4c7fa0682b4a224bf1c7c8"><td class="memItemLeft" >union {</td></tr>
+<tr class="memitem:a2b899f6f40d844df800a9f5062983797"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a0e6fdab513f5b057544d8bf52be45980"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#acdbda9f5c0990a48cfe34072daf8c60f">creatureID</a></td></tr>
+<tr class="separator:a0e6fdab513f5b057544d8bf52be45980"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a91eab3751cd56bec52c9621b5dc8b556"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a9a1c29ca654f9826a081f0451bffab2f">creatureCount</a></td></tr>
+<tr class="separator:a91eab3751cd56bec52c9621b5dc8b556"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b899f6f40d844df800a9f5062983797"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#aa9393b443b47c8167a7ba843536f4169">kill_creature</a></td></tr>
+<tr class="separator:a2b899f6f40d844df800a9f5062983797"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34c93534763b71abc3c987ed378d2525"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a3e4defedc652ec62886d8cd76b83bb7d"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a3be18578202dfd58a60fe58424a248e1">bgMapID</a></td></tr>
+<tr class="separator:a3e4defedc652ec62886d8cd76b83bb7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab90443241ee766d69cbca03e7c5fadcd"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a13da6b7dab7dceaec22b5f4e6a920c57">winCount</a></td></tr>
+<tr class="separator:ab90443241ee766d69cbca03e7c5fadcd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34c93534763b71abc3c987ed378d2525"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a558e7041e65dffa2db1be498aa658ed9">win_bg</a></td></tr>
+<tr class="separator:a34c93534763b71abc3c987ed378d2525"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae1b0dc331239888ed3baf4dff08f0adb"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:afcc718b094db8062959fc44d29a6b075"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad094774e675c7100bf502872f1d1c186">unused</a></td></tr>
+<tr class="separator:afcc718b094db8062959fc44d29a6b075"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a46a7c833145eaf0c86f11dd51c40594d"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a543a0ace1bde2370314356fd6291beb0">level</a></td></tr>
+<tr class="separator:a46a7c833145eaf0c86f11dd51c40594d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae1b0dc331239888ed3baf4dff08f0adb"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#aec0b6905468e1d369dd65d5c8af4e91f">reach_level</a></td></tr>
+<tr class="separator:ae1b0dc331239888ed3baf4dff08f0adb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2fbbbbff0ac35a06b77dd89d884a2b89"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a06c89603df82aaf84fe291e16738043e"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a724b0dc64d521098716c727a42a91921">skillID</a></td></tr>
+<tr class="separator:a06c89603df82aaf84fe291e16738043e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a905641b0bdaf0728245be3d465292dc3"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a78084775fad04a69b96ac82dc4ef9c6f">skillLevel</a></td></tr>
+<tr class="separator:a905641b0bdaf0728245be3d465292dc3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2fbbbbff0ac35a06b77dd89d884a2b89"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a8a2a8f75be0fd4704c63712026fcc15d">reach_skill_level</a></td></tr>
+<tr class="separator:a2fbbbbff0ac35a06b77dd89d884a2b89"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29379268a32a5ab8f1e1fd58ba8cec3a"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a9d655ae7ee0e5c1d7db96b7db9fe2392"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ac6660196f7926a36251cbe165ea21fc9">linkedAchievement</a></td></tr>
+<tr class="separator:a9d655ae7ee0e5c1d7db96b7db9fe2392"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29379268a32a5ab8f1e1fd58ba8cec3a"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ac0abe5a9f0e4e393b53c961f0f533345">complete_achievement</a></td></tr>
+<tr class="separator:a29379268a32a5ab8f1e1fd58ba8cec3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a53c1705a5ba6587c54d5211527a2dce6"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:af8e710ee900b020018c022f6f17e681b"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad094774e675c7100bf502872f1d1c186">unused</a></td></tr>
+<tr class="separator:af8e710ee900b020018c022f6f17e681b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a35fb03b3dd0296d452e082c25f840f88"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a00e201b605e2507b85a489c9d951751f">totalQuestCount</a></td></tr>
+<tr class="separator:a35fb03b3dd0296d452e082c25f840f88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a53c1705a5ba6587c54d5211527a2dce6"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a65201890df47de502dd64148ade33a8b">complete_quest_count</a></td></tr>
+<tr class="separator:a53c1705a5ba6587c54d5211527a2dce6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af03087d844554b169bcec226451a730a"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:aadc18ed7e8cad5dafc1073f4d1b79758"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad094774e675c7100bf502872f1d1c186">unused</a></td></tr>
+<tr class="separator:aadc18ed7e8cad5dafc1073f4d1b79758"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a132e3a21d955b9af083b3bf6635146ab"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#af482c1ba2c84a5dea92eca6dbb8de357">numberOfDays</a></td></tr>
+<tr class="separator:a132e3a21d955b9af083b3bf6635146ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af03087d844554b169bcec226451a730a"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a031b28157960a3d00cf0ae0bc86fcb47">complete_daily_quest_daily</a></td></tr>
+<tr class="separator:af03087d844554b169bcec226451a730a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4972abdb6a176960c3c707badf2472e5"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a983dd2d58d4f80b982635badaf189dfc"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a4dc8098b49090f775161b15bd7db1f85">zoneID</a></td></tr>
+<tr class="separator:a983dd2d58d4f80b982635badaf189dfc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ede66e67fd50de573dc9e9bba37affd"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a6c2243a090450e5a7de532bc5ac9ee9d">questCount</a></td></tr>
+<tr class="separator:a2ede66e67fd50de573dc9e9bba37affd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4972abdb6a176960c3c707badf2472e5"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a59ba2ef7455b457b93eedc8ee1661afb">complete_quests_in_zone</a></td></tr>
+<tr class="separator:a4972abdb6a176960c3c707badf2472e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af2410a980dd94dea342ab4fe9a532f1d"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a9b6fcea24399f4c08ae203fe897b2fb6"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad094774e675c7100bf502872f1d1c186">unused</a></td></tr>
+<tr class="separator:a9b6fcea24399f4c08ae203fe897b2fb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a12455932cfb9501555aff0c2d92535bc"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a6c2243a090450e5a7de532bc5ac9ee9d">questCount</a></td></tr>
+<tr class="separator:a12455932cfb9501555aff0c2d92535bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af2410a980dd94dea342ab4fe9a532f1d"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#af0f4ebec435a01ef2f1b92896b65ba84">complete_daily_quest</a></td></tr>
+<tr class="separator:af2410a980dd94dea342ab4fe9a532f1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4cf2b4f7e237a0023064b9e12b0b9702"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:afa007d2aa1c5ea4145ac93478e65b592"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a535e41db75fae9cf5d9c82b7bb32e362">mapID</a></td></tr>
+<tr class="separator:afa007d2aa1c5ea4145ac93478e65b592"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4cf2b4f7e237a0023064b9e12b0b9702"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a7e4726e8973474d8f429db64027de725">complete_battleground</a></td></tr>
+<tr class="separator:a4cf2b4f7e237a0023064b9e12b0b9702"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7ab300a8741b83b68e8d6c5e4921f889"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ad4b1258843ba8ed4296193ebfff0b352"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a535e41db75fae9cf5d9c82b7bb32e362">mapID</a></td></tr>
+<tr class="separator:ad4b1258843ba8ed4296193ebfff0b352"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7ab300a8741b83b68e8d6c5e4921f889"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#aafe25eae855097edb18ed1a490ab1d86">death_at_map</a></td></tr>
+<tr class="separator:a7ab300a8741b83b68e8d6c5e4921f889"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4ed6cce8906f80ef78f8a75987aedfb"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ac2e790e3797f4788dc87618d48bcefd8"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a4c18878f6cdfa58cad38cf723e85a05b">manLimit</a></td></tr>
+<tr class="separator:ac2e790e3797f4788dc87618d48bcefd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4ed6cce8906f80ef78f8a75987aedfb"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a0a422b01a170413cff68bbe3c5e041b1">death_in_dungeon</a></td></tr>
+<tr class="separator:aa4ed6cce8906f80ef78f8a75987aedfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:affacd737b4b42ebcc1dae5979d10b923"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a8215e37389358697943dc40a3ce4cb3f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a6655327834ad5f1a0e418681e8906343">groupSize</a></td></tr>
+<tr class="separator:a8215e37389358697943dc40a3ce4cb3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:affacd737b4b42ebcc1dae5979d10b923"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a6303cc3e55f748646b4a1c354c350b03">complete_raid</a></td></tr>
+<tr class="separator:affacd737b4b42ebcc1dae5979d10b923"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa412c96158bcf188c23b1cfe4cd038c2"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a788ebd5baabf8ffaa85d2da7d1a58374"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a1b288c18b6f17a1ef23eef1c19c719c4">creatureEntry</a></td></tr>
+<tr class="separator:a788ebd5baabf8ffaa85d2da7d1a58374"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa412c96158bcf188c23b1cfe4cd038c2"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#afa971cc9b59e7839180f439c0b561491">killed_by_creature</a></td></tr>
+<tr class="separator:aa412c96158bcf188c23b1cfe4cd038c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b7c45ee947ea7be108462d59557dd05"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a504a2a4d38542646246b19985b6827af"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad094774e675c7100bf502872f1d1c186">unused</a></td></tr>
+<tr class="separator:a504a2a4d38542646246b19985b6827af"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a13fb030fce33d95b6a763c2f5d9aa6b5"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ae4e260f078a60fe41c734ba1ee1e37fe">fallHeight</a></td></tr>
+<tr class="separator:a13fb030fce33d95b6a763c2f5d9aa6b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b7c45ee947ea7be108462d59557dd05"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a48fce8aecf8ed692d0a8a7c643bc720c">fall_without_dying</a></td></tr>
+<tr class="separator:a1b7c45ee947ea7be108462d59557dd05"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a6845d2c71874779ecee5a31ab3d4c0"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ab850cafb20ed129905a38f05e52fc46f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a7a8253c274851b2d9341ed7072bbd56f">type</a></td></tr>
+<tr class="separator:ab850cafb20ed129905a38f05e52fc46f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a6845d2c71874779ecee5a31ab3d4c0"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ab303257d01239ec020d28862986274a0">death_from</a></td></tr>
+<tr class="separator:a0a6845d2c71874779ecee5a31ab3d4c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad7cc507d0ff1dcb84f4024965060221e"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a23da2a6813feab51f7ddcd846eb8dd88"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a9594a43be7f58269da2e2ee643ac7166">questID</a></td></tr>
+<tr class="separator:a23da2a6813feab51f7ddcd846eb8dd88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a463623f754ef6695330221004f22370f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a6c2243a090450e5a7de532bc5ac9ee9d">questCount</a></td></tr>
+<tr class="separator:a463623f754ef6695330221004f22370f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad7cc507d0ff1dcb84f4024965060221e"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a967b114edb2800a743721385de85eb0c">complete_quest</a></td></tr>
+<tr class="separator:ad7cc507d0ff1dcb84f4024965060221e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7faca790518eec3efcc4c77982c4d60c"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a11254205da34de017d080276a9eea3df"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a5bfbb78389744c184d13b69e3230dc0e">spellID</a></td></tr>
+<tr class="separator:a11254205da34de017d080276a9eea3df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af172e5764577f9d56bba55931c9be2ed"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#adbe014d9306e4474df0ea81fbd5e81f2">spellCount</a></td></tr>
+<tr class="separator:af172e5764577f9d56bba55931c9be2ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7faca790518eec3efcc4c77982c4d60c"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#aa46ec52ad883cc5ed5a66986afc2cc16">be_spell_target</a></td></tr>
+<tr class="separator:a7faca790518eec3efcc4c77982c4d60c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab2917b36280328034773a46f3f3f85b6"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a372d8435a25baa07823d12cc8c272fe6"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a5bfbb78389744c184d13b69e3230dc0e">spellID</a></td></tr>
+<tr class="separator:a372d8435a25baa07823d12cc8c272fe6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e48a72383f49de5a7ee6f5ffc6d54a2"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a8beb033ea60b355c824ac3d4988d2ab7">castCount</a></td></tr>
+<tr class="separator:a3e48a72383f49de5a7ee6f5ffc6d54a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab2917b36280328034773a46f3f3f85b6"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad8c08ab66ff8ccb421729f38d38fa559">cast_spell</a></td></tr>
+<tr class="separator:ab2917b36280328034773a46f3f3f85b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a62b0f6f2723c53d42a2900b49a5b315c"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a5a1ab04e651e4d28364d7d5d8252097d"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a2c70f735d52f50a728dfd73a3e9d2352">objectiveId</a></td></tr>
+<tr class="separator:a5a1ab04e651e4d28364d7d5d8252097d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0de689bf498c5ff5b3280e2d948f334c"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a286a05415a789d504e3f0666d9c975d9">completeCount</a></td></tr>
+<tr class="separator:a0de689bf498c5ff5b3280e2d948f334c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a62b0f6f2723c53d42a2900b49a5b315c"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a3318e4453b5c9e7afbd14499ad6de685">bg_objective</a></td></tr>
+<tr class="separator:a62b0f6f2723c53d42a2900b49a5b315c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f985829f7a72504d7afcb96410d7cb4"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a35411748a952c428311de7e836ce83d0"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#acafa6503a66452ea49f14f35031e74cf">areaID</a></td></tr>
+<tr class="separator:a35411748a952c428311de7e836ce83d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af0ba0036ad97ab6aa4732cb664bb8cd8"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#adc7dd192a39e1f2b9b0b2fbec1dfe877">killCount</a></td></tr>
+<tr class="separator:af0ba0036ad97ab6aa4732cb664bb8cd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f985829f7a72504d7afcb96410d7cb4"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a17912c4889c642df5fdb1b80feaee7a4">honorable_kill_at_area</a></td></tr>
+<tr class="separator:a3f985829f7a72504d7afcb96410d7cb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af28e800ea6616e644c4e7c4b47385a73"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a41f9a65e82849ca6d7d0eec72c74f6ca"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a535e41db75fae9cf5d9c82b7bb32e362">mapID</a></td></tr>
+<tr class="separator:a41f9a65e82849ca6d7d0eec72c74f6ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a59b2405dc29966222ce33e03f0ec805c"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a9572c91a0223a698e186b1da04aed1a0">count</a></td></tr>
+<tr class="separator:a59b2405dc29966222ce33e03f0ec805c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af28e800ea6616e644c4e7c4b47385a73"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a64d80ab6d95d8e12cf5496a54624f12d">win_arena</a></td></tr>
+<tr class="separator:af28e800ea6616e644c4e7c4b47385a73"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7fdaa9783294d1675a76c36b5398744d"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:aef2695a6ac5b02c5912f501a059ba51f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a535e41db75fae9cf5d9c82b7bb32e362">mapID</a></td></tr>
+<tr class="separator:aef2695a6ac5b02c5912f501a059ba51f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7fdaa9783294d1675a76c36b5398744d"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#af305b4f1ba81f7ee856fa4b19ccc0792">play_arena</a></td></tr>
+<tr class="separator:a7fdaa9783294d1675a76c36b5398744d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad97dc1f0fe419d40b70c62dcc46f9d8a"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ae7219901eaf8d914e0b8f7245b9662bc"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a5bfbb78389744c184d13b69e3230dc0e">spellID</a></td></tr>
+<tr class="separator:ae7219901eaf8d914e0b8f7245b9662bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad97dc1f0fe419d40b70c62dcc46f9d8a"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#abe3b2c79cb6d94b08fb719c883ec0827">learn_spell</a></td></tr>
+<tr class="separator:ad97dc1f0fe419d40b70c62dcc46f9d8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7de0f5fd07bf3f946cc995087136653a"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a36ff1cfdcff150877875802be0dc531a"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a52a564ba72bee899a94e691db188f304">itemID</a></td></tr>
+<tr class="separator:a36ff1cfdcff150877875802be0dc531a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac95411ce1e93596feba30be8abadf16c"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad1a9e33225c6e61a592509f6a8c4dbbb">itemCount</a></td></tr>
+<tr class="separator:ac95411ce1e93596feba30be8abadf16c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7de0f5fd07bf3f946cc995087136653a"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a8aede73c3d64d8df01d3e2e278329ddd">own_item</a></td></tr>
+<tr class="separator:a7de0f5fd07bf3f946cc995087136653a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0aebe23a83b7edc23e448d546190e269"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a41d5bb6c0a215708bbd50ede78e1291d"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad094774e675c7100bf502872f1d1c186">unused</a></td></tr>
+<tr class="separator:a41d5bb6c0a215708bbd50ede78e1291d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b362f5b91be89801a1fa6b2d0f7168a"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a9572c91a0223a698e186b1da04aed1a0">count</a></td></tr>
+<tr class="separator:a7b362f5b91be89801a1fa6b2d0f7168a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0aebe23a83b7edc23e448d546190e269"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#aee2f346783efe6d7b4ea5b050d1e6f35">win_rated_arena</a></td></tr>
+<tr class="separator:a0aebe23a83b7edc23e448d546190e269"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a506eee31eb30fdafa67edb8248aafdea"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a11afc93cea2cd4c67ec08f8d81ac1f74"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ae7b5772fb8e84867d5a9a333819aa6aa">teamtype</a></td></tr>
+<tr class="separator:a11afc93cea2cd4c67ec08f8d81ac1f74"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a506eee31eb30fdafa67edb8248aafdea"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a8a4075f61bb13f386c75575ee2e196e1">highest_team_rating</a></td></tr>
+<tr class="separator:a506eee31eb30fdafa67edb8248aafdea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a057cc34e433bc19f6fd573f2973974b8"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:aa319e5caa0b6d9c8b32c6bc6e29bd8f4"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ae7b5772fb8e84867d5a9a333819aa6aa">teamtype</a></td></tr>
+<tr class="separator:aa319e5caa0b6d9c8b32c6bc6e29bd8f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8bf606c9aecfeab631d2efc25c08d8c5"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a7aa1d2b19b336eb30edd40eea5ee9a93">PersonalRating</a></td></tr>
+<tr class="separator:a8bf606c9aecfeab631d2efc25c08d8c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a057cc34e433bc19f6fd573f2973974b8"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a4a60d701590bfa98a80aee2e147eeac1">highest_personal_rating</a></td></tr>
+<tr class="separator:a057cc34e433bc19f6fd573f2973974b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37160db47a734c24a165a0797e5af129"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:aaca4401d0d836ab691db0ca17a8180a1"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a724b0dc64d521098716c727a42a91921">skillID</a></td></tr>
+<tr class="separator:aaca4401d0d836ab691db0ca17a8180a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a17a9f80a3c8d061e5b83d717abb4e86f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a78084775fad04a69b96ac82dc4ef9c6f">skillLevel</a></td></tr>
+<tr class="separator:a17a9f80a3c8d061e5b83d717abb4e86f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37160db47a734c24a165a0797e5af129"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a85ade23cd347138fb08d40459aa2d86e">learn_skill_level</a></td></tr>
+<tr class="separator:a37160db47a734c24a165a0797e5af129"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ab8c7ac5472919091b57a3fc8fdb989"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a11466d357aa00b66a552b8349be1de9f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a52a564ba72bee899a94e691db188f304">itemID</a></td></tr>
+<tr class="separator:a11466d357aa00b66a552b8349be1de9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89b3447d8122cc455e1245d275eddcb9"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad1a9e33225c6e61a592509f6a8c4dbbb">itemCount</a></td></tr>
+<tr class="separator:a89b3447d8122cc455e1245d275eddcb9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ab8c7ac5472919091b57a3fc8fdb989"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a83bdf4f744c5f64835799e3d0badf33a">use_item</a></td></tr>
+<tr class="separator:a3ab8c7ac5472919091b57a3fc8fdb989"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc8f69c649fa60af21483536eb779c95"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a2b3a9d3218bd3aadf68e3011ff2f13d5"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a52a564ba72bee899a94e691db188f304">itemID</a></td></tr>
+<tr class="separator:a2b3a9d3218bd3aadf68e3011ff2f13d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeaff9777dbbbbded05ee71d7e329ba30"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad1a9e33225c6e61a592509f6a8c4dbbb">itemCount</a></td></tr>
+<tr class="separator:aeaff9777dbbbbded05ee71d7e329ba30"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc8f69c649fa60af21483536eb779c95"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ac85aa65dc2b46a2fcef9ad87f6ad20cb">loot_item</a></td></tr>
+<tr class="separator:afc8f69c649fa60af21483536eb779c95"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3270fb4696630c633c4dae11874a09b0"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a64cf72ad360dec79c4915c6304c8cece"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a12a67591c7cf625adcbf5c673aa53929">areaReference</a></td></tr>
+<tr class="separator:a64cf72ad360dec79c4915c6304c8cece"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3270fb4696630c633c4dae11874a09b0"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a5fd3fbbcb30ce292fbe586ab31191e47">explore_area</a></td></tr>
+<tr class="separator:a3270fb4696630c633c4dae11874a09b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a22b92c95e9b293eb092969b6515469ac"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a1eb775cef8a19168175e962fa66c3588"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#af9eca82a8aa556662c113bee4140e855">rank</a></td></tr>
+<tr class="separator:a1eb775cef8a19168175e962fa66c3588"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a22b92c95e9b293eb092969b6515469ac"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ab1bea26a89da1f7c9b732319d1d53d43">own_rank</a></td></tr>
+<tr class="separator:a22b92c95e9b293eb092969b6515469ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98ea5fb76bdb6ec5e1b9878787c099ad"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a6f532258d85e9a808e667a943e48628f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad094774e675c7100bf502872f1d1c186">unused</a></td></tr>
+<tr class="separator:a6f532258d85e9a808e667a943e48628f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae23881c910e1b4fbca190e7d95a285c9"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#abfecefb40cd5d19ccdc2e6c25b252ef4">numberOfSlots</a></td></tr>
+<tr class="separator:ae23881c910e1b4fbca190e7d95a285c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98ea5fb76bdb6ec5e1b9878787c099ad"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a5fd5e90d70ddf80fcf2f09fa0fa418f3">buy_bank_slot</a></td></tr>
+<tr class="separator:a98ea5fb76bdb6ec5e1b9878787c099ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abecc844b3ee477cbfa690a1d096ab4ce"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a0f0034c4de7b2cfd1daf4f4e6ff1cb55"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#af0f082b44c3591547ac5b9eade39a3d6">factionID</a></td></tr>
+<tr class="separator:a0f0034c4de7b2cfd1daf4f4e6ff1cb55"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b7a2d2f4de1b01d87b827f1ca5ef5b1"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#af9a6e7b5f1d66cbf07806f41523f88dc">reputationAmount</a></td></tr>
+<tr class="separator:a1b7a2d2f4de1b01d87b827f1ca5ef5b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abecc844b3ee477cbfa690a1d096ab4ce"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a71f1482f0711e07eb4d752e2e8d9d471">gain_reputation</a></td></tr>
+<tr class="separator:abecc844b3ee477cbfa690a1d096ab4ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1bcfcd232a762d9490cf7d63e37e0dcd"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ae157e28ca4c61f57e4c00c1d9cc04be1"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad094774e675c7100bf502872f1d1c186">unused</a></td></tr>
+<tr class="separator:ae157e28ca4c61f57e4c00c1d9cc04be1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afcb09a5955ce7dc6dd078a27eb53f35f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a30530946d9f46c848a5c77c762e83d7d">numberOfExaltedFactions</a></td></tr>
+<tr class="separator:afcb09a5955ce7dc6dd078a27eb53f35f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1bcfcd232a762d9490cf7d63e37e0dcd"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a2dd15bd2896d0b3cb787ce57972a8d03">gain_exalted_reputation</a></td></tr>
+<tr class="separator:a1bcfcd232a762d9490cf7d63e37e0dcd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2c99697537aab50c4108c10332af4e2a"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a3052793540eeb61413e02f197530c284"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad094774e675c7100bf502872f1d1c186">unused</a></td></tr>
+<tr class="separator:a3052793540eeb61413e02f197530c284"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa00c01b1b1e2d9dc103cb8aebd731af0"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a8af5b656325d76859e8ede0f40bc01b9">numberOfVisits</a></td></tr>
+<tr class="separator:aa00c01b1b1e2d9dc103cb8aebd731af0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2c99697537aab50c4108c10332af4e2a"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a9482c9b375bc63f5513a7bc43190d1d7">visit_barber</a></td></tr>
+<tr class="separator:a2c99697537aab50c4108c10332af4e2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39a1b3cb5b72e1a6e1e4a8adcdf5ee84"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ab2922c38905d1b936532d27678ed0aba"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a8cfcd1c850cc3b84c773766b69f0f935">itemSlot</a></td></tr>
+<tr class="separator:ab2922c38905d1b936532d27678ed0aba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a26356bc79c4239f3ce1c5a4f3585902b"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a9572c91a0223a698e186b1da04aed1a0">count</a></td></tr>
+<tr class="separator:a26356bc79c4239f3ce1c5a4f3585902b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39a1b3cb5b72e1a6e1e4a8adcdf5ee84"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a1633cd49bb3f6df9311e2846ebb35ad8">equip_epic_item</a></td></tr>
+<tr class="separator:a39a1b3cb5b72e1a6e1e4a8adcdf5ee84"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad4c3c2a83e25c243d4473d1e0ab9177e"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a8243919c5e6bce6acae61a883907c218"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a594e7a8528167d78fad0f93906b2fe83">rollValue</a></td></tr>
+<tr class="separator:a8243919c5e6bce6acae61a883907c218"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a13a807801df28a967eb6e046782abfa7"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a9572c91a0223a698e186b1da04aed1a0">count</a></td></tr>
+<tr class="separator:a13a807801df28a967eb6e046782abfa7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad4c3c2a83e25c243d4473d1e0ab9177e"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#aade46eeef4da6367ae73407238a95d73">roll_need_on_loot</a></td></tr>
+<tr class="separator:ad4c3c2a83e25c243d4473d1e0ab9177e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad808446d4265757bb30c0b0d342c7e51"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a39d5f393af3900ef9009277205103acd"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a594e7a8528167d78fad0f93906b2fe83">rollValue</a></td></tr>
+<tr class="separator:a39d5f393af3900ef9009277205103acd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a086faf57d6a1f05f76327ddca40fa0dd"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a9572c91a0223a698e186b1da04aed1a0">count</a></td></tr>
+<tr class="separator:a086faf57d6a1f05f76327ddca40fa0dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad808446d4265757bb30c0b0d342c7e51"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a735d0e13a21d602cc7c71987c25c0569">roll_greed_on_loot</a></td></tr>
+<tr class="separator:ad808446d4265757bb30c0b0d342c7e51"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5901b8f622e4314b041435fc640f7e5"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a4ac820d4f2a800e2e36cf25c22bc68f1"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a7ea646e66fdc79e829650d6bbcddd2c1">classID</a></td></tr>
+<tr class="separator:a4ac820d4f2a800e2e36cf25c22bc68f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1529490f14356e7ef3e5dc3c716008cc"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a9572c91a0223a698e186b1da04aed1a0">count</a></td></tr>
+<tr class="separator:a1529490f14356e7ef3e5dc3c716008cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5901b8f622e4314b041435fc640f7e5"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a0fc768ea751f542fc49a0d5ab2a3e1bd">hk_class</a></td></tr>
+<tr class="separator:aa5901b8f622e4314b041435fc640f7e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5e6998f1c720f0e5d6580b3fcd680331"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ac7c97c998a04a33f49d95cb03d3fec52"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ab6ab9a9979b301e7835806d4f804886a">raceID</a></td></tr>
+<tr class="separator:ac7c97c998a04a33f49d95cb03d3fec52"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba728fef2d082d1d06b695901fb32729"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a9572c91a0223a698e186b1da04aed1a0">count</a></td></tr>
+<tr class="separator:aba728fef2d082d1d06b695901fb32729"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5e6998f1c720f0e5d6580b3fcd680331"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a17b735cb0ab7b988a86a123a8f877f8f">hk_race</a></td></tr>
+<tr class="separator:a5e6998f1c720f0e5d6580b3fcd680331"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad833c7031bb03d36874fea49a538797b"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a0dee2e3224f088894889f21f8e7ba121"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a702d689b4096ef641b6938d1c13b167a">emoteID</a></td></tr>
+<tr class="separator:a0dee2e3224f088894889f21f8e7ba121"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9294512a0c6ec11328af2695dff602eb"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a9572c91a0223a698e186b1da04aed1a0">count</a></td></tr>
+<tr class="separator:a9294512a0c6ec11328af2695dff602eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad833c7031bb03d36874fea49a538797b"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a227425bbfcf755c2efd79cef0ad3a99f">do_emote</a></td></tr>
+<tr class="separator:ad833c7031bb03d36874fea49a538797b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a04657c4def669c9eb582c4f3a325675d"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a65a6742d47acfda3d7e93238b21a7c8d"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad094774e675c7100bf502872f1d1c186">unused</a></td></tr>
+<tr class="separator:a65a6742d47acfda3d7e93238b21a7c8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad66e4c6467f1f115e71bd5d84ec71647"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a9572c91a0223a698e186b1da04aed1a0">count</a></td></tr>
+<tr class="separator:ad66e4c6467f1f115e71bd5d84ec71647"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a04657c4def669c9eb582c4f3a325675d"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a6fdc5af84acb353cbf074387aeb3b3f6">healing_done</a></td></tr>
+<tr class="separator:a04657c4def669c9eb582c4f3a325675d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae81319d99dae853371dee3c5f625f2a0"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a13cffbac47c03507e6dc3e7cea4ed0b0"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad094774e675c7100bf502872f1d1c186">unused</a></td></tr>
+<tr class="separator:a13cffbac47c03507e6dc3e7cea4ed0b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaaff119b05808581920f98f7d2247d07"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#adc7dd192a39e1f2b9b0b2fbec1dfe877">killCount</a></td></tr>
+<tr class="separator:aaaff119b05808581920f98f7d2247d07"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae81319d99dae853371dee3c5f625f2a0"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a1c613dd5aa6d082a51568f7faab5f237">get_killing_blow</a></td></tr>
+<tr class="separator:ae81319d99dae853371dee3c5f625f2a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5165461e1c5692d497e5da76ef2d9f86"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ac0422479e872cd761805e3ba2ef3bc37"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a52a564ba72bee899a94e691db188f304">itemID</a></td></tr>
+<tr class="separator:ac0422479e872cd761805e3ba2ef3bc37"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac300442807a82b9008065120c1c757bb"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a9572c91a0223a698e186b1da04aed1a0">count</a></td></tr>
+<tr class="separator:ac300442807a82b9008065120c1c757bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5165461e1c5692d497e5da76ef2d9f86"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a6966cd64876a7260b29e3ca8bd3a5ae3">equip_item</a></td></tr>
+<tr class="separator:a5165461e1c5692d497e5da76ef2d9f86"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34d1c2444dc321f3b3ae8cf827df892f"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a60475b05cff6b1940692b7427c14d7ea"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad094774e675c7100bf502872f1d1c186">unused</a></td></tr>
+<tr class="separator:a60475b05cff6b1940692b7427c14d7ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a36b3b348f0066c989c7e4b71d5e1897f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a646c7d9937120ba64c3d28c317f29de0">goldInCopper</a></td></tr>
+<tr class="separator:a36b3b348f0066c989c7e4b71d5e1897f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34d1c2444dc321f3b3ae8cf827df892f"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a5e93f119db49f6f1bca8d10a6210390e">quest_reward_money</a></td></tr>
+<tr class="separator:a34d1c2444dc321f3b3ae8cf827df892f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a684e5689b76f12c30a2e1d44afa7c750"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a85cd6d260bd59c0fc6d4dca799cc5f2a"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad094774e675c7100bf502872f1d1c186">unused</a></td></tr>
+<tr class="separator:a85cd6d260bd59c0fc6d4dca799cc5f2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e6eec68afff308fe4096a7c944d1227"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a646c7d9937120ba64c3d28c317f29de0">goldInCopper</a></td></tr>
+<tr class="separator:a7e6eec68afff308fe4096a7c944d1227"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a684e5689b76f12c30a2e1d44afa7c750"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a5f487cbffa482075d7be5e69f32700a2">loot_money</a></td></tr>
+<tr class="separator:a684e5689b76f12c30a2e1d44afa7c750"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b90cb26abd9e50b9c18f0b82e6f46f5"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a046ca6407121e6b8f3bec63758e90e0d"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a6789ad7f6dde239ba263f56281dc1a4b">goEntry</a></td></tr>
+<tr class="separator:a046ca6407121e6b8f3bec63758e90e0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b5e300d0159a2288f77c0376cb67c70"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a0452734f5f0849ae41e0812924416c4c">useCount</a></td></tr>
+<tr class="separator:a6b5e300d0159a2288f77c0376cb67c70"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b90cb26abd9e50b9c18f0b82e6f46f5"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad9e365dd653a2c48e16a421143986122">use_gameobject</a></td></tr>
+<tr class="separator:a7b90cb26abd9e50b9c18f0b82e6f46f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abdd7b2b8491f728566c55a1bee089f8c"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ab3452d9bcda5af76cfc821c870bd43bb"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad094774e675c7100bf502872f1d1c186">unused</a></td></tr>
+<tr class="separator:ab3452d9bcda5af76cfc821c870bd43bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34ad5f6a1939524c761e75fa5c80adb0"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#adc7dd192a39e1f2b9b0b2fbec1dfe877">killCount</a></td></tr>
+<tr class="separator:a34ad5f6a1939524c761e75fa5c80adb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abdd7b2b8491f728566c55a1bee089f8c"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a455c8a646194c81bf205e2ca7057cf8b">special_pvp_kill</a></td></tr>
+<tr class="separator:abdd7b2b8491f728566c55a1bee089f8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac468541e8761a4336b1133148af8cb48"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a264c4394cd650277de64b6fa696d01dc"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a6789ad7f6dde239ba263f56281dc1a4b">goEntry</a></td></tr>
+<tr class="separator:a264c4394cd650277de64b6fa696d01dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a31564d3e8d0ccf372f2e1174be81b2e9"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a387eb4a669fcd4838921e07b2e8f7df9">lootCount</a></td></tr>
+<tr class="separator:a31564d3e8d0ccf372f2e1174be81b2e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac468541e8761a4336b1133148af8cb48"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a585afc3712d85804cff5eb445cc1008f">fish_in_gameobject</a></td></tr>
+<tr class="separator:ac468541e8761a4336b1133148af8cb48"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5aea0b71f5d24176b0b26f00f47e3baf"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a3618de5f7698e4cd9110d25c6de9f8e9"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a20ba10f6cf8874f94e18f931f97a03af">skillLine</a></td></tr>
+<tr class="separator:a3618de5f7698e4cd9110d25c6de9f8e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93cee2694c01dc70636e9e42f86fffd9"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#adbe014d9306e4474df0ea81fbd5e81f2">spellCount</a></td></tr>
+<tr class="separator:a93cee2694c01dc70636e9e42f86fffd9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5aea0b71f5d24176b0b26f00f47e3baf"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a0d8d971e7aeffcb01d9ccd7efe93a335">learn_skillline_spell</a></td></tr>
+<tr class="separator:a5aea0b71f5d24176b0b26f00f47e3baf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a185581e7a07117503b50ecdc1a8dd76b"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a8f65bca47f86835eb12141de87e2b465"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad094774e675c7100bf502872f1d1c186">unused</a></td></tr>
+<tr class="separator:a8f65bca47f86835eb12141de87e2b465"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43a18b1f195545402b6137fb95119699"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a9b2effa467a1d690841c0c5c1f0fece8">duelCount</a></td></tr>
+<tr class="separator:a43a18b1f195545402b6137fb95119699"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a185581e7a07117503b50ecdc1a8dd76b"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a0876ca5b1d04066a14ed1ba3396a9080">win_duel</a></td></tr>
+<tr class="separator:a185581e7a07117503b50ecdc1a8dd76b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49d9bbf3af69e87d2ab021a84702d27a"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a5575f1adc6b23edd108a0063f1926cca"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a7d9fbc69e81088559619ea294efd9e11">powerType</a></td></tr>
+<tr class="separator:a5575f1adc6b23edd108a0063f1926cca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49d9bbf3af69e87d2ab021a84702d27a"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a90cef21a039198edb4be9ab27f4e1906">highest_power</a></td></tr>
+<tr class="separator:a49d9bbf3af69e87d2ab021a84702d27a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7d7d698e372f27e7400404eca262af8e"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a14380330535c88eeea7f7fcdce0ac743"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#abb4f7fb6587550e17aca2b411de81687">statType</a></td></tr>
+<tr class="separator:a14380330535c88eeea7f7fcdce0ac743"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7d7d698e372f27e7400404eca262af8e"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#acd158bedb113f6eaaa186d9000bcfc48">highest_stat</a></td></tr>
+<tr class="separator:a7d7d698e372f27e7400404eca262af8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a18a467df4db28a34f25df88fffee581d"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:af2c6328e73b3122c88a4c2029d824c1c"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#adbe3793eee75fd8f9cb6050e04e7935b">spellSchool</a></td></tr>
+<tr class="separator:af2c6328e73b3122c88a4c2029d824c1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a18a467df4db28a34f25df88fffee581d"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#aac24437fa6608bf898e825a57c7ac8fd">highest_spellpower</a></td></tr>
+<tr class="separator:a18a467df4db28a34f25df88fffee581d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa41bb4eb41a7367a5e95da897f4b6f5f"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ad153960594730b001c8f8e429af6f13b"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a3542dcb007c69b7225f091847acc41ab">ratingType</a></td></tr>
+<tr class="separator:ad153960594730b001c8f8e429af6f13b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa41bb4eb41a7367a5e95da897f4b6f5f"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a3d622b576130547438d2b7eec2051adf">highest_rating</a></td></tr>
+<tr class="separator:aa41bb4eb41a7367a5e95da897f4b6f5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a899a491bf0b59ec2e1ef86efebc3e28a"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:aab979c6a2325e5ac6e4d106c1c83e490"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a7f98b0df7327ba942619ee5899202028">lootType</a></td></tr>
+<tr class="separator:aab979c6a2325e5ac6e4d106c1c83e490"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05bf87bb1701816b2a2a3957be6b26dd"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a736481216d947a3d94a8abfbbc222919">lootTypeCount</a></td></tr>
+<tr class="separator:a05bf87bb1701816b2a2a3957be6b26dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a899a491bf0b59ec2e1ef86efebc3e28a"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad5d8419fc05decb056886bef845c7f01">loot_type</a></td></tr>
+<tr class="separator:a899a491bf0b59ec2e1ef86efebc3e28a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d2da209dd523aa3eea94bf9ba2f5753"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a186701678f4a735e94e9f3831d2b7a8f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a20ba10f6cf8874f94e18f931f97a03af">skillLine</a></td></tr>
+<tr class="separator:a186701678f4a735e94e9f3831d2b7a8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a744318b28435a78bc9b924b5b394c756"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#adbe014d9306e4474df0ea81fbd5e81f2">spellCount</a></td></tr>
+<tr class="separator:a744318b28435a78bc9b924b5b394c756"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d2da209dd523aa3eea94bf9ba2f5753"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a913aeaceb7dc47abd95fd113c945c905">learn_skill_line</a></td></tr>
+<tr class="separator:a3d2da209dd523aa3eea94bf9ba2f5753"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43a93d6112640698f4cd2d11f48151c6"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a1de20a17dd7abfef821e65e167e198d1"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad094774e675c7100bf502872f1d1c186">unused</a></td></tr>
+<tr class="separator:a1de20a17dd7abfef821e65e167e198d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab1b0ee3153f6601f3d0e8f29ea0b4cfd"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#adc7dd192a39e1f2b9b0b2fbec1dfe877">killCount</a></td></tr>
+<tr class="separator:ab1b0ee3153f6601f3d0e8f29ea0b4cfd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43a93d6112640698f4cd2d11f48151c6"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a4819a0a9e90214798bfd52a22d35a368">honorable_kill</a></td></tr>
+<tr class="separator:a43a93d6112640698f4cd2d11f48151c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a598464bfe7529d5b9d99bcb942781ff8"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ae0dfb4b2b44f3fb4f0b2ae4caf08a115"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad094774e675c7100bf502872f1d1c186">unused</a></td></tr>
+<tr class="separator:ae0dfb4b2b44f3fb4f0b2ae4caf08a115"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a469593fcc5aed6fd30766194cf6b18a6"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a3cf7548ea4e54bd5b00254f97ab85d33">dungeonsComplete</a></td></tr>
+<tr class="separator:a469593fcc5aed6fd30766194cf6b18a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a598464bfe7529d5b9d99bcb942781ff8"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a652113c2bc541c013b5a475a779d3aea">use_lfg</a></td></tr>
+<tr class="separator:a598464bfe7529d5b9d99bcb942781ff8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5ab5fa5fd91cbbc88232896ab0a5ead"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a1d545a2238bdf67d1efb054d5bf58a80"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a9f86f11e7d3b807bbd614f72ed5f9560">field3</a></td></tr>
+<tr class="separator:a1d545a2238bdf67d1efb054d5bf58a80"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad56d0bd1505f10d8c0bfc55928ee9b5d"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a9572c91a0223a698e186b1da04aed1a0">count</a></td></tr>
+<tr class="separator:ad56d0bd1505f10d8c0bfc55928ee9b5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5ab5fa5fd91cbbc88232896ab0a5ead"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#a193655b47c4555b663e484ecd2d425a4">raw</a></td></tr>
+<tr class="separator:ad5ab5fa5fd91cbbc88232896ab0a5ead"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5bc9ee96ae4c7fa0682b4a224bf1c7c8"><td class="memItemLeft" valign="top">};&#160;</td><td class="memItemRight" valign="bottom"></td></tr>
+<tr class="separator:a5bc9ee96ae4c7fa0682b4a224bf1c7c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7a5ab93cc8eda3e9788c0ca8124969f"><td class="memItemLeft" >struct {</td></tr>
+<tr class="memitem:a1b41a3aa589ea6ee45c75c6025de08d5"><td class="memItemLeft" >&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ad458e4ab3bab5c3733efe2eb06eb8ca0">additionalRequirement_type</a></td></tr>
+<tr class="separator:a1b41a3aa589ea6ee45c75c6025de08d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b97244454b4501a882cef059f3d0bae"><td class="memItemLeft" >&#160;&#160;&#160;<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d7/db0/a28835.html#ac17a33237f84ba9722b22057ee44f8cc">additionalRequirement_value</a></td></tr>
+<tr class="separator:a1b97244454b4501a882cef059f3d0bae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7a5ab93cc8eda3e9788c0ca8124969f"><td class="memItemLeft" valign="top">}&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/a28835.html#aa7a5ab93cc8eda3e9788c0ca8124969f">additionalRequirements</a> [<a class="el" href="../../d3/d85/a02813.html#aac939a6398e92f385f4dbd9f118d8583">MAX_CRITERIA_REQUIREMENTS</a>]</td></tr>
+<tr class="separator:aa7a5ab93cc8eda3e9788c0ca8124969f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5cd2333daf6179cb51748d1ff916100a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/a28835.html#a5cd2333daf6179cb51748d1ff916100a">flags</a></td></tr>
+<tr class="separator:a5cd2333daf6179cb51748d1ff916100a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a351e3a8f34365cf3aabd4f368eb2ee68"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/a28835.html#a351e3a8f34365cf3aabd4f368eb2ee68">timedType</a></td></tr>
+<tr class="separator:a351e3a8f34365cf3aabd4f368eb2ee68"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abac6b773ed48c525b7600514562257b3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/a28835.html#abac6b773ed48c525b7600514562257b3">timerStartEvent</a></td></tr>
+<tr class="separator:abac6b773ed48c525b7600514562257b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a083268faa95a36a1d89bf2421791a650"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/a28835.html#a083268faa95a36a1d89bf2421791a650">timeLimit</a></td></tr>
+<tr class="separator:a083268faa95a36a1d89bf2421791a650"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a01bcdc3543d3ff250354acf5e0724c14" name="a01bcdc3543d3ff250354acf5e0724c14"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a01bcdc3543d3ff250354acf5e0724c14">&#9670;&#160;</a></span>ID</h2>
+<a id="a5bc9ee96ae4c7fa0682b4a224bf1c7c8" name="a5bc9ee96ae4c7fa0682b4a224bf1c7c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5bc9ee96ae4c7fa0682b4a224bf1c7c8">&#9670;&#160;</a></span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d24/a04901.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureSpellDataEntry::ID</td>
+          <td class="memname">union  { ... }  AchievementCriteriaEntry::@315</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="aabbb95c091e0b0946bcb05746b1c23f3" name="aabbb95c091e0b0946bcb05746b1c23f3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aabbb95c091e0b0946bcb05746b1c23f3">&#9670;&#160;</a></span>spellId</h2>
+<a id="ad458e4ab3bab5c3733efe2eb06eb8ca0" name="ad458e4ab3bab5c3733efe2eb06eb8ca0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad458e4ab3bab5c3733efe2eb06eb8ca0">&#9670;&#160;</a></span>additionalRequirement_type</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d24/a04901.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureSpellDataEntry::spellId[<a class="el" href="../../dc/da4/a02303.html#a84f97addb2541cd13960d71b99ac4f9c">MAX_CREATURE_SPELL_DATA_SLOT</a>]</td>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::additionalRequirement_type</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02731">SpellMgr::LoadPetDefaultSpells()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02457">AchievementMgr::CanUpdateCriteria()</a>, <a class="el" href="../../#l02817">AchievementGlobalMgr::LoadAchievementCriteriaData()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="ac17a33237f84ba9722b22057ee44f8cc" name="ac17a33237f84ba9722b22057ee44f8cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac17a33237f84ba9722b22057ee44f8cc">&#9670;&#160;</a></span>additionalRequirement_value</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::additionalRequirement_value</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02457">AchievementMgr::CanUpdateCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="aa7a5ab93cc8eda3e9788c0ca8124969f" name="aa7a5ab93cc8eda3e9788c0ca8124969f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa7a5ab93cc8eda3e9788c0ca8124969f">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::additionalRequirements[<a class="el" href="../../d3/d85/a02813.html#aac939a6398e92f385f4dbd9f118d8583">MAX_CRITERIA_REQUIREMENTS</a>]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02457">AchievementMgr::CanUpdateCriteria()</a>, <a class="el" href="../../#l02817">AchievementGlobalMgr::LoadAchievementCriteriaData()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="acafa6503a66452ea49f14f35031e74cf" name="acafa6503a66452ea49f14f35031e74cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acafa6503a66452ea49f14f35031e74cf">&#9670;&#160;</a></span>areaID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::areaID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a12a67591c7cf625adcbf5c673aa53929" name="a12a67591c7cf625adcbf5c673aa53929"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a12a67591c7cf625adcbf5c673aa53929">&#9670;&#160;</a></span>areaReference</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::areaReference</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<dl class="todo"><dt><b><a class="el" href="../../d1/d1f/a05078.html#_todo000246">Todo:</a></b></dt><dd>: This rank is <em>NOT</em> the index from AreaTable.dbc </dd></dl>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="aa46ec52ad883cc5ed5a66986afc2cc16" name="aa46ec52ad883cc5ed5a66986afc2cc16"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa46ec52ad883cc5ed5a66986afc2cc16">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::be_spell_target</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a3318e4453b5c9e7afbd14499ad6de685" name="a3318e4453b5c9e7afbd14499ad6de685"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3318e4453b5c9e7afbd14499ad6de685">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::bg_objective</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a3be18578202dfd58a60fe58424a248e1" name="a3be18578202dfd58a60fe58424a248e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3be18578202dfd58a60fe58424a248e1">&#9670;&#160;</a></span>bgMapID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::bgMapID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a5fd5e90d70ddf80fcf2f09fa0fa418f3" name="a5fd5e90d70ddf80fcf2f09fa0fa418f3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5fd5e90d70ddf80fcf2f09fa0fa418f3">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::buy_bank_slot</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="ad8c08ab66ff8ccb421729f38d38fa559" name="ad8c08ab66ff8ccb421729f38d38fa559"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad8c08ab66ff8ccb421729f38d38fa559">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::cast_spell</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a8beb033ea60b355c824ac3d4988d2ab7" name="a8beb033ea60b355c824ac3d4988d2ab7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8beb033ea60b355c824ac3d4988d2ab7">&#9670;&#160;</a></span>castCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::castCount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a7ea646e66fdc79e829650d6bbcddd2c1" name="a7ea646e66fdc79e829650d6bbcddd2c1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7ea646e66fdc79e829650d6bbcddd2c1">&#9670;&#160;</a></span>classID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::classID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="ac0abe5a9f0e4e393b53c961f0f533345" name="ac0abe5a9f0e4e393b53c961f0f533345"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac0abe5a9f0e4e393b53c961f0f533345">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::complete_achievement</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a7e4726e8973474d8f429db64027de725" name="a7e4726e8973474d8f429db64027de725"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7e4726e8973474d8f429db64027de725">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::complete_battleground</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="af0f4ebec435a01ef2f1b92896b65ba84" name="af0f4ebec435a01ef2f1b92896b65ba84"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af0f4ebec435a01ef2f1b92896b65ba84">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::complete_daily_quest</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a031b28157960a3d00cf0ae0bc86fcb47" name="a031b28157960a3d00cf0ae0bc86fcb47"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a031b28157960a3d00cf0ae0bc86fcb47">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::complete_daily_quest_daily</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a967b114edb2800a743721385de85eb0c" name="a967b114edb2800a743721385de85eb0c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a967b114edb2800a743721385de85eb0c">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::complete_quest</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a65201890df47de502dd64148ade33a8b" name="a65201890df47de502dd64148ade33a8b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a65201890df47de502dd64148ade33a8b">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::complete_quest_count</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a59ba2ef7455b457b93eedc8ee1661afb" name="a59ba2ef7455b457b93eedc8ee1661afb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a59ba2ef7455b457b93eedc8ee1661afb">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::complete_quests_in_zone</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a6303cc3e55f748646b4a1c354c350b03" name="a6303cc3e55f748646b4a1c354c350b03"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6303cc3e55f748646b4a1c354c350b03">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::complete_raid</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a286a05415a789d504e3f0666d9c975d9" name="a286a05415a789d504e3f0666d9c975d9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a286a05415a789d504e3f0666d9c975d9">&#9670;&#160;</a></span>completeCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::completeCount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a9572c91a0223a698e186b1da04aed1a0" name="a9572c91a0223a698e186b1da04aed1a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9572c91a0223a698e186b1da04aed1a0">&#9670;&#160;</a></span>count</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::count</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02041">AchievementMgr::IsCompletedAchievement()</a>, <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02817">AchievementGlobalMgr::LoadAchievementCriteriaData()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a9a1c29ca654f9826a081f0451bffab2f" name="a9a1c29ca654f9826a081f0451bffab2f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9a1c29ca654f9826a081f0451bffab2f">&#9670;&#160;</a></span>creatureCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::creatureCount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a1b288c18b6f17a1ef23eef1c19c719c4" name="a1b288c18b6f17a1ef23eef1c19c719c4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1b288c18b6f17a1ef23eef1c19c719c4">&#9670;&#160;</a></span>creatureEntry</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::creatureEntry</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="acdbda9f5c0990a48cfe34072daf8c60f" name="acdbda9f5c0990a48cfe34072daf8c60f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acdbda9f5c0990a48cfe34072daf8c60f">&#9670;&#160;</a></span>creatureID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::creatureID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="aafe25eae855097edb18ed1a490ab1d86" name="aafe25eae855097edb18ed1a490ab1d86"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aafe25eae855097edb18ed1a490ab1d86">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::death_at_map</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="ab303257d01239ec020d28862986274a0" name="ab303257d01239ec020d28862986274a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab303257d01239ec020d28862986274a0">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::death_from</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a0a422b01a170413cff68bbe3c5e041b1" name="a0a422b01a170413cff68bbe3c5e041b1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0a422b01a170413cff68bbe3c5e041b1">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::death_in_dungeon</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a227425bbfcf755c2efd79cef0ad3a99f" name="a227425bbfcf755c2efd79cef0ad3a99f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a227425bbfcf755c2efd79cef0ad3a99f">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::do_emote</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<dl class="todo"><dt><b><a class="el" href="../../d1/d1f/a05078.html#_todo000244">Todo:</a></b></dt><dd>: where is the information about the target stored? </dd></dl>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02817">AchievementGlobalMgr::LoadAchievementCriteriaData()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a9b2effa467a1d690841c0c5c1f0fece8" name="a9b2effa467a1d690841c0c5c1f0fece8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9b2effa467a1d690841c0c5c1f0fece8">&#9670;&#160;</a></span>duelCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::duelCount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02817">AchievementGlobalMgr::LoadAchievementCriteriaData()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a3cf7548ea4e54bd5b00254f97ab85d33" name="a3cf7548ea4e54bd5b00254f97ab85d33"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3cf7548ea4e54bd5b00254f97ab85d33">&#9670;&#160;</a></span>dungeonsComplete</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::dungeonsComplete</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a702d689b4096ef641b6938d1c13b167a" name="a702d689b4096ef641b6938d1c13b167a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a702d689b4096ef641b6938d1c13b167a">&#9670;&#160;</a></span>emoteID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::emoteID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a1633cd49bb3f6df9311e2846ebb35ad8" name="a1633cd49bb3f6df9311e2846ebb35ad8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1633cd49bb3f6df9311e2846ebb35ad8">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::equip_epic_item</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<dl class="todo"><dt><b><a class="el" href="../../d1/d1f/a05078.html#_todo000243">Todo:</a></b></dt><dd>: where is the required itemlevel stored? </dd></dl>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a6966cd64876a7260b29e3ca8bd3a5ae3" name="a6966cd64876a7260b29e3ca8bd3a5ae3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6966cd64876a7260b29e3ca8bd3a5ae3">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::equip_item</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a5fd3fbbcb30ce292fbe586ab31191e47" name="a5fd3fbbcb30ce292fbe586ab31191e47"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5fd3fbbcb30ce292fbe586ab31191e47">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::explore_area</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="af0f082b44c3591547ac5b9eade39a3d6" name="af0f082b44c3591547ac5b9eade39a3d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af0f082b44c3591547ac5b9eade39a3d6">&#9670;&#160;</a></span>factionID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::factionID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a48fce8aecf8ed692d0a8a7c643bc720c" name="a48fce8aecf8ed692d0a8a7c643bc720c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a48fce8aecf8ed692d0a8a7c643bc720c">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::fall_without_dying</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="ae4e260f078a60fe41c734ba1ee1e37fe" name="ae4e260f078a60fe41c734ba1ee1e37fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4e260f078a60fe41c734ba1ee1e37fe">&#9670;&#160;</a></span>fallHeight</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::fallHeight</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a9f86f11e7d3b807bbd614f72ed5f9560" name="a9f86f11e7d3b807bbd614f72ed5f9560"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9f86f11e7d3b807bbd614f72ed5f9560">&#9670;&#160;</a></span>field3</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::field3</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a585afc3712d85804cff5eb445cc1008f" name="a585afc3712d85804cff5eb445cc1008f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a585afc3712d85804cff5eb445cc1008f">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::fish_in_gameobject</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a5cd2333daf6179cb51748d1ff916100a" name="a5cd2333daf6179cb51748d1ff916100a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5cd2333daf6179cb51748d1ff916100a">&#9670;&#160;</a></span>flags</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::flags</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2dd15bd2896d0b3cb787ce57972a8d03" name="a2dd15bd2896d0b3cb787ce57972a8d03"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2dd15bd2896d0b3cb787ce57972a8d03">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::gain_exalted_reputation</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a71f1482f0711e07eb4d752e2e8d9d471" name="a71f1482f0711e07eb4d752e2e8d9d471"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a71f1482f0711e07eb4d752e2e8d9d471">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::gain_reputation</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a1c613dd5aa6d082a51568f7faab5f237" name="a1c613dd5aa6d082a51568f7faab5f237"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1c613dd5aa6d082a51568f7faab5f237">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::get_killing_blow</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a6789ad7f6dde239ba263f56281dc1a4b" name="a6789ad7f6dde239ba263f56281dc1a4b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6789ad7f6dde239ba263f56281dc1a4b">&#9670;&#160;</a></span>goEntry</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::goEntry</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a646c7d9937120ba64c3d28c317f29de0" name="a646c7d9937120ba64c3d28c317f29de0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a646c7d9937120ba64c3d28c317f29de0">&#9670;&#160;</a></span>goldInCopper</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::goldInCopper</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a6655327834ad5f1a0e418681e8906343" name="a6655327834ad5f1a0e418681e8906343"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6655327834ad5f1a0e418681e8906343">&#9670;&#160;</a></span>groupSize</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::groupSize</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a6fdc5af84acb353cbf074387aeb3b3f6" name="a6fdc5af84acb353cbf074387aeb3b3f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6fdc5af84acb353cbf074387aeb3b3f6">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::healing_done</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a4a60d701590bfa98a80aee2e147eeac1" name="a4a60d701590bfa98a80aee2e147eeac1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a60d701590bfa98a80aee2e147eeac1">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::highest_personal_rating</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a90cef21a039198edb4be9ab27f4e1906" name="a90cef21a039198edb4be9ab27f4e1906"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a90cef21a039198edb4be9ab27f4e1906">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::highest_power</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a3d622b576130547438d2b7eec2051adf" name="a3d622b576130547438d2b7eec2051adf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3d622b576130547438d2b7eec2051adf">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::highest_rating</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aac24437fa6608bf898e825a57c7ac8fd" name="aac24437fa6608bf898e825a57c7ac8fd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aac24437fa6608bf898e825a57c7ac8fd">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::highest_spellpower</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="acd158bedb113f6eaaa186d9000bcfc48" name="acd158bedb113f6eaaa186d9000bcfc48"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acd158bedb113f6eaaa186d9000bcfc48">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::highest_stat</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a8a4075f61bb13f386c75575ee2e196e1" name="a8a4075f61bb13f386c75575ee2e196e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8a4075f61bb13f386c75575ee2e196e1">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::highest_team_rating</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a0fc768ea751f542fc49a0d5ab2a3e1bd" name="a0fc768ea751f542fc49a0d5ab2a3e1bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0fc768ea751f542fc49a0d5ab2a3e1bd">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::hk_class</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a17b735cb0ab7b988a86a123a8f877f8f" name="a17b735cb0ab7b988a86a123a8f877f8f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a17b735cb0ab7b988a86a123a8f877f8f">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::hk_race</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a4819a0a9e90214798bfd52a22d35a368" name="a4819a0a9e90214798bfd52a22d35a368"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4819a0a9e90214798bfd52a22d35a368">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::honorable_kill</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a17912c4889c642df5fdb1b80feaee7a4" name="a17912c4889c642df5fdb1b80feaee7a4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a17912c4889c642df5fdb1b80feaee7a4">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::honorable_kill_at_area</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="aa7245356b86ca884aff831a970ff2979" name="aa7245356b86ca884aff831a970ff2979"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa7245356b86ca884aff831a970ff2979">&#9670;&#160;</a></span>ID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::ID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02457">AchievementMgr::CanUpdateCriteria()</a>, <a class="el" href="../../#l00409">AchievementGlobalMgr::GetCriteriaDataSet()</a>, <a class="el" href="../../#l02103">AchievementMgr::GetCriteriaProgress()</a>, <a class="el" href="../../#l00052">AchievementCriteriaData::IsValid()</a>, <a class="el" href="../../#l02817">AchievementGlobalMgr::LoadAchievementCriteriaData()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, <a class="el" href="../../#l02189">AchievementMgr::RemoveCriteriaProgress()</a>, <a class="el" href="../../#l00773">AchievementMgr::SendCriteriaUpdate()</a>, and <a class="el" href="../../#l02113">AchievementMgr::SetCriteriaProgress()</a>.</p>
+
+</div>
+</div>
+<a id="ad1a9e33225c6e61a592509f6a8c4dbbb" name="ad1a9e33225c6e61a592509f6a8c4dbbb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad1a9e33225c6e61a592509f6a8c4dbbb">&#9670;&#160;</a></span>itemCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::itemCount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a52a564ba72bee899a94e691db188f304" name="a52a564ba72bee899a94e691db188f304"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a52a564ba72bee899a94e691db188f304">&#9670;&#160;</a></span>itemID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::itemID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a8cfcd1c850cc3b84c773766b69f0f935" name="a8cfcd1c850cc3b84c773766b69f0f935"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8cfcd1c850cc3b84c773766b69f0f935">&#9670;&#160;</a></span>itemSlot</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::itemSlot</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="aa9393b443b47c8167a7ba843536f4169" name="aa9393b443b47c8167a7ba843536f4169"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa9393b443b47c8167a7ba843536f4169">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::kill_creature</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<dl class="todo"><dt><b><a class="el" href="../../d1/d1f/a05078.html#_todo000242">Todo:</a></b></dt><dd>: also used for player deaths.. </dd></dl>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="adc7dd192a39e1f2b9b0b2fbec1dfe877" name="adc7dd192a39e1f2b9b0b2fbec1dfe877"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adc7dd192a39e1f2b9b0b2fbec1dfe877">&#9670;&#160;</a></span>killCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::killCount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="afa971cc9b59e7839180f439c0b561491" name="afa971cc9b59e7839180f439c0b561491"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afa971cc9b59e7839180f439c0b561491">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::killed_by_creature</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a85ade23cd347138fb08d40459aa2d86e" name="a85ade23cd347138fb08d40459aa2d86e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a85ade23cd347138fb08d40459aa2d86e">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::learn_skill_level</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a913aeaceb7dc47abd95fd113c945c905" name="a913aeaceb7dc47abd95fd113c945c905"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a913aeaceb7dc47abd95fd113c945c905">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::learn_skill_line</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a0d8d971e7aeffcb01d9ccd7efe93a335" name="a0d8d971e7aeffcb01d9ccd7efe93a335"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0d8d971e7aeffcb01d9ccd7efe93a335">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::learn_skillline_spell</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="abe3b2c79cb6d94b08fb719c883ec0827" name="abe3b2c79cb6d94b08fb719c883ec0827"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abe3b2c79cb6d94b08fb719c883ec0827">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::learn_spell</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a543a0ace1bde2370314356fd6291beb0" name="a543a0ace1bde2370314356fd6291beb0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a543a0ace1bde2370314356fd6291beb0">&#9670;&#160;</a></span>level</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::level</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="ac6660196f7926a36251cbe165ea21fc9" name="ac6660196f7926a36251cbe165ea21fc9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac6660196f7926a36251cbe165ea21fc9">&#9670;&#160;</a></span>linkedAchievement</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::linkedAchievement</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="ac85aa65dc2b46a2fcef9ad87f6ad20cb" name="ac85aa65dc2b46a2fcef9ad87f6ad20cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac85aa65dc2b46a2fcef9ad87f6ad20cb">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::loot_item</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a5f487cbffa482075d7be5e69f32700a2" name="a5f487cbffa482075d7be5e69f32700a2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5f487cbffa482075d7be5e69f32700a2">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::loot_money</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="ad5d8419fc05decb056886bef845c7f01" name="ad5d8419fc05decb056886bef845c7f01"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad5d8419fc05decb056886bef845c7f01">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::loot_type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02817">AchievementGlobalMgr::LoadAchievementCriteriaData()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a387eb4a669fcd4838921e07b2e8f7df9" name="a387eb4a669fcd4838921e07b2e8f7df9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a387eb4a669fcd4838921e07b2e8f7df9">&#9670;&#160;</a></span>lootCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::lootCount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a7f98b0df7327ba942619ee5899202028" name="a7f98b0df7327ba942619ee5899202028"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7f98b0df7327ba942619ee5899202028">&#9670;&#160;</a></span>lootType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::lootType</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a736481216d947a3d94a8abfbbc222919" name="a736481216d947a3d94a8abfbbc222919"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a736481216d947a3d94a8abfbbc222919">&#9670;&#160;</a></span>lootTypeCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::lootTypeCount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02817">AchievementGlobalMgr::LoadAchievementCriteriaData()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a4c18878f6cdfa58cad38cf723e85a05b" name="a4c18878f6cdfa58cad38cf723e85a05b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4c18878f6cdfa58cad38cf723e85a05b">&#9670;&#160;</a></span>manLimit</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::manLimit</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a535e41db75fae9cf5d9c82b7bb32e362" name="a535e41db75fae9cf5d9c82b7bb32e362"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a535e41db75fae9cf5d9c82b7bb32e362">&#9670;&#160;</a></span>mapID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::mapID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="af482c1ba2c84a5dea92eca6dbb8de357" name="af482c1ba2c84a5dea92eca6dbb8de357"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af482c1ba2c84a5dea92eca6dbb8de357">&#9670;&#160;</a></span>numberOfDays</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::numberOfDays</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a30530946d9f46c848a5c77c762e83d7d" name="a30530946d9f46c848a5c77c762e83d7d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a30530946d9f46c848a5c77c762e83d7d">&#9670;&#160;</a></span>numberOfExaltedFactions</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::numberOfExaltedFactions</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="abfecefb40cd5d19ccdc2e6c25b252ef4" name="abfecefb40cd5d19ccdc2e6c25b252ef4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abfecefb40cd5d19ccdc2e6c25b252ef4">&#9670;&#160;</a></span>numberOfSlots</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::numberOfSlots</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a8af5b656325d76859e8ede0f40bc01b9" name="a8af5b656325d76859e8ede0f40bc01b9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8af5b656325d76859e8ede0f40bc01b9">&#9670;&#160;</a></span>numberOfVisits</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::numberOfVisits</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a2c70f735d52f50a728dfd73a3e9d2352" name="a2c70f735d52f50a728dfd73a3e9d2352"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2c70f735d52f50a728dfd73a3e9d2352">&#9670;&#160;</a></span>objectiveId</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::objectiveId</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a8aede73c3d64d8df01d3e2e278329ddd" name="a8aede73c3d64d8df01d3e2e278329ddd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8aede73c3d64d8df01d3e2e278329ddd">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::own_item</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="ab1bea26a89da1f7c9b732319d1d53d43" name="ab1bea26a89da1f7c9b732319d1d53d43"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab1bea26a89da1f7c9b732319d1d53d43">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::own_rank</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7aa1d2b19b336eb30edd40eea5ee9a93" name="a7aa1d2b19b336eb30edd40eea5ee9a93"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7aa1d2b19b336eb30edd40eea5ee9a93">&#9670;&#160;</a></span>PersonalRating</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::PersonalRating</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="af305b4f1ba81f7ee856fa4b19ccc0792" name="af305b4f1ba81f7ee856fa4b19ccc0792"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af305b4f1ba81f7ee856fa4b19ccc0792">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::play_arena</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7d9fbc69e81088559619ea294efd9e11" name="a7d9fbc69e81088559619ea294efd9e11"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7d9fbc69e81088559619ea294efd9e11">&#9670;&#160;</a></span>powerType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::powerType</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5e93f119db49f6f1bca8d10a6210390e" name="a5e93f119db49f6f1bca8d10a6210390e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5e93f119db49f6f1bca8d10a6210390e">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::quest_reward_money</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a6c2243a090450e5a7de532bc5ac9ee9d" name="a6c2243a090450e5a7de532bc5ac9ee9d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6c2243a090450e5a7de532bc5ac9ee9d">&#9670;&#160;</a></span>questCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::questCount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a9594a43be7f58269da2e2ee643ac7166" name="a9594a43be7f58269da2e2ee643ac7166"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9594a43be7f58269da2e2ee643ac7166">&#9670;&#160;</a></span>questID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::questID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="ab6ab9a9979b301e7835806d4f804886a" name="ab6ab9a9979b301e7835806d4f804886a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab6ab9a9979b301e7835806d4f804886a">&#9670;&#160;</a></span>raceID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::raceID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="af9eca82a8aa556662c113bee4140e855" name="af9eca82a8aa556662c113bee4140e855"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af9eca82a8aa556662c113bee4140e855">&#9670;&#160;</a></span>rank</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::rank</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<dl class="todo"><dt><b><a class="el" href="../../d1/d1f/a05078.html#_todo000247">Todo:</a></b></dt><dd>: This rank is <em>NOT</em> the index from CharTitles.dbc </dd></dl>
+
+</div>
+</div>
+<a id="a3542dcb007c69b7225f091847acc41ab" name="a3542dcb007c69b7225f091847acc41ab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3542dcb007c69b7225f091847acc41ab">&#9670;&#160;</a></span>ratingType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::ratingType</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a193655b47c4555b663e484ecd2d425a4" name="a193655b47c4555b663e484ecd2d425a4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a193655b47c4555b663e484ecd2d425a4">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::raw</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02041">AchievementMgr::IsCompletedAchievement()</a>.</p>
+
+</div>
+</div>
+<a id="aec0b6905468e1d369dd65d5c8af4e91f" name="aec0b6905468e1d369dd65d5c8af4e91f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aec0b6905468e1d369dd65d5c8af4e91f">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::reach_level</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a8a2a8f75be0fd4704c63712026fcc15d" name="a8a2a8f75be0fd4704c63712026fcc15d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8a2a8f75be0fd4704c63712026fcc15d">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::reach_skill_level</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="ad8ee991ffab7388d713c438db372f199" name="ad8ee991ffab7388d713c438db372f199"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad8ee991ffab7388d713c438db372f199">&#9670;&#160;</a></span>referredAchievement</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::referredAchievement</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02575">AchievementGlobalMgr::IsAverageCriteria()</a>, <a class="el" href="../../#l02547">AchievementGlobalMgr::IsStatisticCriteria()</a>, <a class="el" href="../../#l02817">AchievementGlobalMgr::LoadAchievementCriteriaData()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, <a class="el" href="../../#l00519">AchievementMgr::ResetAchievementCriteria()</a>, <a class="el" href="../../#l02113">AchievementMgr::SetCriteriaProgress()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="af9a6e7b5f1d66cbf07806f41523f88dc" name="af9a6e7b5f1d66cbf07806f41523f88dc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af9a6e7b5f1d66cbf07806f41523f88dc">&#9670;&#160;</a></span>reputationAmount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::reputationAmount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="ac7b579fe1c12c82995bdecca0af68c51" name="ac7b579fe1c12c82995bdecca0af68c51"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac7b579fe1c12c82995bdecca0af68c51">&#9670;&#160;</a></span>requiredType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::requiredType</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l00052">AchievementCriteriaData::IsValid()</a>, <a class="el" href="../../#l02817">AchievementGlobalMgr::LoadAchievementCriteriaData()</a>, and <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>.</p>
+
+</div>
+</div>
+<a id="a735d0e13a21d602cc7c71987c25c0569" name="a735d0e13a21d602cc7c71987c25c0569"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a735d0e13a21d602cc7c71987c25c0569">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::roll_greed_on_loot</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="aade46eeef4da6367ae73407238a95d73" name="aade46eeef4da6367ae73407238a95d73"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aade46eeef4da6367ae73407238a95d73">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::roll_need_on_loot</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a594e7a8528167d78fad0f93906b2fe83" name="a594e7a8528167d78fad0f93906b2fe83"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a594e7a8528167d78fad0f93906b2fe83">&#9670;&#160;</a></span>rollValue</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::rollValue</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a724b0dc64d521098716c727a42a91921" name="a724b0dc64d521098716c727a42a91921"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a724b0dc64d521098716c727a42a91921">&#9670;&#160;</a></span>skillID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::skillID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a78084775fad04a69b96ac82dc4ef9c6f" name="a78084775fad04a69b96ac82dc4ef9c6f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a78084775fad04a69b96ac82dc4ef9c6f">&#9670;&#160;</a></span>skillLevel</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::skillLevel</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a20ba10f6cf8874f94e18f931f97a03af" name="a20ba10f6cf8874f94e18f931f97a03af"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a20ba10f6cf8874f94e18f931f97a03af">&#9670;&#160;</a></span>skillLine</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::skillLine</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a455c8a646194c81bf205e2ca7057cf8b" name="a455c8a646194c81bf205e2ca7057cf8b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a455c8a646194c81bf205e2ca7057cf8b">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::special_pvp_kill</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<dl class="todo"><dt><b><a class="el" href="../../d1/d1f/a05078.html#_todo000245">Todo:</a></b></dt><dd>: are those special criteria stored in the dbc or do we have to add another sql table? </dd></dl>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="adbe014d9306e4474df0ea81fbd5e81f2" name="adbe014d9306e4474df0ea81fbd5e81f2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adbe014d9306e4474df0ea81fbd5e81f2">&#9670;&#160;</a></span>spellCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::spellCount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a5bfbb78389744c184d13b69e3230dc0e" name="a5bfbb78389744c184d13b69e3230dc0e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5bfbb78389744c184d13b69e3230dc0e">&#9670;&#160;</a></span>spellID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::spellID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="adbe3793eee75fd8f9cb6050e04e7935b" name="adbe3793eee75fd8f9cb6050e04e7935b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adbe3793eee75fd8f9cb6050e04e7935b">&#9670;&#160;</a></span>spellSchool</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::spellSchool</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="abb4f7fb6587550e17aca2b411de81687" name="abb4f7fb6587550e17aca2b411de81687"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abb4f7fb6587550e17aca2b411de81687">&#9670;&#160;</a></span>statType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::statType</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae7b5772fb8e84867d5a9a333819aa6aa" name="ae7b5772fb8e84867d5a9a333819aa6aa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae7b5772fb8e84867d5a9a333819aa6aa">&#9670;&#160;</a></span>teamtype</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::teamtype</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a351e3a8f34365cf3aabd4f368eb2ee68" name="a351e3a8f34365cf3aabd4f368eb2ee68"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a351e3a8f34365cf3aabd4f368eb2ee68">&#9670;&#160;</a></span>timedType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::timedType</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>.</p>
+
+</div>
+</div>
+<a id="a083268faa95a36a1d89bf2421791a650" name="a083268faa95a36a1d89bf2421791a650"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a083268faa95a36a1d89bf2421791a650">&#9670;&#160;</a></span>timeLimit</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::timeLimit</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, <a class="el" href="../../#l00623">AchievementMgr::LoadFromDB()</a>, <a class="el" href="../../#l00773">AchievementMgr::SendCriteriaUpdate()</a>, and <a class="el" href="../../#l02113">AchievementMgr::SetCriteriaProgress()</a>.</p>
+
+</div>
+</div>
+<a id="abac6b773ed48c525b7600514562257b3" name="abac6b773ed48c525b7600514562257b3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abac6b773ed48c525b7600514562257b3">&#9670;&#160;</a></span>timerStartEvent</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::timerStartEvent</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a00e201b605e2507b85a489c9d951751f" name="a00e201b605e2507b85a489c9d951751f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a00e201b605e2507b85a489c9d951751f">&#9670;&#160;</a></span>totalQuestCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::totalQuestCount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a7a8253c274851b2d9341ed7072bbd56f" name="a7a8253c274851b2d9341ed7072bbd56f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a8253c274851b2d9341ed7072bbd56f">&#9670;&#160;</a></span>type</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="ad094774e675c7100bf502872f1d1c186" name="ad094774e675c7100bf502872f1d1c186"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad094774e675c7100bf502872f1d1c186">&#9670;&#160;</a></span>unused</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::unused</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad9e365dd653a2c48e16a421143986122" name="ad9e365dd653a2c48e16a421143986122"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9e365dd653a2c48e16a421143986122">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::use_gameobject</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a83bdf4f744c5f64835799e3d0badf33a" name="a83bdf4f744c5f64835799e3d0badf33a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a83bdf4f744c5f64835799e3d0badf33a">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::use_item</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a652113c2bc541c013b5a475a779d3aea" name="a652113c2bc541c013b5a475a779d3aea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a652113c2bc541c013b5a475a779d3aea">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::use_lfg</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a0452734f5f0849ae41e0812924416c4c" name="a0452734f5f0849ae41e0812924416c4c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0452734f5f0849ae41e0812924416c4c">&#9670;&#160;</a></span>useCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::useCount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a9482c9b375bc63f5513a7bc43190d1d7" name="a9482c9b375bc63f5513a7bc43190d1d7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9482c9b375bc63f5513a7bc43190d1d7">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::visit_barber</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a64d80ab6d95d8e12cf5496a54624f12d" name="a64d80ab6d95d8e12cf5496a54624f12d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a64d80ab6d95d8e12cf5496a54624f12d">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::win_arena</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a558e7041e65dffa2db1be498aa658ed9" name="a558e7041e65dffa2db1be498aa658ed9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a558e7041e65dffa2db1be498aa658ed9">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::win_bg</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a0876ca5b1d04066a14ed1ba3396a9080" name="a0876ca5b1d04066a14ed1ba3396a9080"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0876ca5b1d04066a14ed1ba3396a9080">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::win_duel</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>, <a class="el" href="../../#l02817">AchievementGlobalMgr::LoadAchievementCriteriaData()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="aee2f346783efe6d7b4ea5b050d1e6f35" name="aee2f346783efe6d7b4ea5b050d1e6f35"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aee2f346783efe6d7b4ea5b050d1e6f35">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  AchievementCriteriaEntry::win_rated_arena</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a13da6b7dab7dceaec22b5f4e6a920c57" name="a13da6b7dab7dceaec22b5f4e6a920c57"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a13da6b7dab7dceaec22b5f4e6a920c57">&#9670;&#160;</a></span>winCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::winCount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01825">AchievementMgr::IsCompletedCriteria()</a>.</p>
+
+</div>
+</div>
+<a id="a4dc8098b49090f775161b15bd7db1f85" name="a4dc8098b49090f775161b15bd7db1f85"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4dc8098b49090f775161b15bd7db1f85">&#9670;&#160;</a></span>zoneID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AchievementCriteriaEntry::zoneID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02635">AchievementGlobalMgr::LoadAchievementCriteriaList()</a>, and <a class="el" href="../../#l00822">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
 
 </div>
 </div>
@@ -157,8 +2617,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/db0/a28835.html">CreatureSpellDataEntry</a></li>
-    <li class="footer">Generated on Mon Jun 29 2026 21:56:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/db0/a28835.html">AchievementCriteriaEntry</a></li>
+    <li class="footer">Generated on Tue Sep 1 2026 00:08:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

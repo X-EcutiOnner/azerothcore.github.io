@@ -1,10 +1,10 @@
 var a04859 =
 [
-    [ "PeonRoleplay", "de/d02/a23699.html", "de/d02/a23699" ],
-    [ "boss_grand_warlock_nethekurse", "d4/dd5/a23703.html", "d4/dd5/a23703" ],
-    [ "spell_tsh_shadow_bolt", "de/d26/a23707.html", "de/d26/a23707" ],
-    [ "spell_target_fissures", "d6/df7/a23711.html", "d6/df7/a23711" ],
-    [ "at_rp_nethekurse", "d3/db3/a23715.html", "d3/db3/a23715" ],
+    [ "PeonRoleplay", "d6/df7/a23711.html", "d6/df7/a23711" ],
+    [ "boss_grand_warlock_nethekurse", "d3/db3/a23715.html", "d3/db3/a23715" ],
+    [ "spell_tsh_shadow_bolt", "d6/db0/a23719.html", "d6/db0/a23719" ],
+    [ "spell_target_fissures", "df/d3c/a23723.html", "df/d3c/a23723" ],
+    [ "at_rp_nethekurse", "d5/d97/a23727.html", "d5/d97/a23727" ],
     [ "Actions", "da/d9f/a04859.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d5/db3/a01751.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d5/db3/a01751.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -1548,6 +1548,7 @@ var a04859 =
       [ "EVENT_THORIMS_HAMMER", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1ae36d8c8de56249065e0948e76530e60a", null ],
       [ "EVENT_SOUND_BEGINNING", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12", null ],
       [ "EVENT_EJECT_PLAYERS", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1a5defc9b52c1e590d7327c0a49889b674", null ],
+      [ "EVENT_CHECK_PLAYERS", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b", null ],
       [ "EVENT_TYMPANIC_TANTRUM", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a84422beac5b9e0b83ca83616c5efb4c8", null ],
       [ "EVENT_PHASE_CHECK", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a1273cef28932ef3d9134ce5be972ed10", null ],
       [ "EVENT_SEARING_LIGHT", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a1e895cbeeebafe4b8d99ff30621fe0d1", null ],

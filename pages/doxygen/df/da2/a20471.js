@@ -1,15 +1,16 @@
 var a20471 =
 [
-    [ "npc_ulduar_hodir_mage", "df/da2/a20471.html#a1f16ae119ae7819348b3013bac867b68", null ],
-    [ "AttackStart", "df/da2/a20471.html#aa486b501aefeb70beb325feece5ec34c", null ],
-    [ "CanAIAttack", "df/da2/a20471.html#afe11d15da8769f50db470460cf759c2d", null ],
-    [ "DoAction", "df/da2/a20471.html#abe5801b4b042dbc363dacbb3290b43e1", null ],
-    [ "EnterEvadeMode", "df/da2/a20471.html#a7c942a1ad420731a6e57ede7720d164b", null ],
-    [ "JustDied", "df/da2/a20471.html#a411b6a3b456fb216f96a9426a13e3369", null ],
-    [ "MoveInLineOfSight", "df/da2/a20471.html#aab476b5a585b30d429bdcae64a18424c", null ],
-    [ "ScheduleAbilities", "df/da2/a20471.html#add40de5492e4ec9bd19260669b4bbb22", null ],
-    [ "SpellHit", "df/da2/a20471.html#af35bcc1ee03dd8128ff0fe7329eb980d", null ],
-    [ "UpdateAI", "df/da2/a20471.html#ae9aa4904f3deaa6cae56853f8541eb40", null ],
-    [ "_instance", "df/da2/a20471.html#a75528e6ce772183e63a9a415932b05cf", null ],
-    [ "events", "df/da2/a20471.html#a8c89348ce80bc9e4ac72dec41855db8a", null ]
+    [ "npc_ulduar_hodir_shaman", "df/da2/a20471.html#a3277cda17d5409be3426bdaa61e092cd", null ],
+    [ "AttackStart", "df/da2/a20471.html#a933908d61afac33002411874060c0f74", null ],
+    [ "CanAIAttack", "df/da2/a20471.html#a8907c7300cef735a70b088de3c16cfb9", null ],
+    [ "DoAction", "df/da2/a20471.html#ae27325cc9b794a84d82faa0f410fa844", null ],
+    [ "EnterEvadeMode", "df/da2/a20471.html#afa6124e630cd878659172a06df68d39f", null ],
+    [ "JustDied", "df/da2/a20471.html#a08af85d3446c86443ff5a620b159d000", null ],
+    [ "MoveInLineOfSight", "df/da2/a20471.html#a29de52dcae485f00403dae8e28ff1395", null ],
+    [ "ScheduleAbilities", "df/da2/a20471.html#ab9aa67f07721c0bf60e9db75b5b3e888", null ],
+    [ "SpellHit", "df/da2/a20471.html#a02476e4ddb2287c647a2a4bd7e342150", null ],
+    [ "SpellHitTarget", "df/da2/a20471.html#a29dcb1ff2d532fa491fcdbdfcac4fbfa", null ],
+    [ "UpdateAI", "df/da2/a20471.html#adf8d9895cdd35712fa44e4a19de1315a", null ],
+    [ "_instance", "df/da2/a20471.html#aa09753bc9b54ea8dcc9b61a9ace77ae3", null ],
+    [ "events", "df/da2/a20471.html#a7e147f6f230513cfb666473c61ab4be4", null ]
 ];

@@ -1,6 +1,6 @@
 var a24123 =
 [
-    [ "go_beaconAI", "d4/d1c/a24123.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "d4/d1c/a24123.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "_whelpGUIDs", "d4/d1c/a24123.html#a083094ececd327c833649da6a755c635", null ]
+    [ "npc_fel_guard_houndAI", "d2/d68/a24127.html", "d2/d68/a24127" ],
+    [ "npc_fel_guard_hound", "d4/d1c/a24123.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "d4/d1c/a24123.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

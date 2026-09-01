@@ -1,6 +1,8 @@
 var a22423 =
 [
-    [ "HandleScriptEffect", "d5/dd3/a22423.html#a83626786081c8385ff23f6667c572b3c", null ],
-    [ "PrepareSpellScript", "d5/dd3/a22423.html#a43d6820c1cd94e0caa8af3f78227aa8e", null ],
-    [ "Register", "d5/dd3/a22423.html#a701eecbccff3503d9a8f2b242dba6d1b", null ]
+    [ "npc_oathbound_warder", "d5/dd3/a22423.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
+    [ "AttackStart", "d5/dd3/a22423.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
+    [ "InitializeAI", "d5/dd3/a22423.html#a62c4c568ad615013afa46c7da84d057a", null ],
+    [ "JustEngagedWith", "d5/dd3/a22423.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
+    [ "UpdateAI", "d5/dd3/a22423.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
 ];

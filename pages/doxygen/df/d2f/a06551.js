@@ -36,6 +36,7 @@ var a06551 =
     [ "OnCalculatePeriodicTickReceived", "df/d2f/a06551.html#abbffac590ddab45bf2e2085015e9d8bd", null ],
     [ "OnCalculateSpellDamageReceived", "df/d2f/a06551.html#a8460a963a07bbd44d97a51d0f7ba01f0", null ],
     [ "OnCharmed", "df/d2f/a06551.html#af09c59bb8f40f0c3470175c1123a9c55", null ],
+    [ "OnDespawn", "df/d2f/a06551.html#abb4ce22edb0c6145426beaf14e1f0efa", null ],
     [ "OnPowerUpdate", "df/d2f/a06551.html#acd90405c7067d344249fb273472d34da", null ],
     [ "Reset", "df/d2f/a06551.html#a43eb9ef68b977d98f6618d69a0d62115", null ],
     [ "SelectTarget", "df/d2f/a06551.html#aef9582ba7484d83bece81243f8005bfc", null ],

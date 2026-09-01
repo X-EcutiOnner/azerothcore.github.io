@@ -1,8 +1,9 @@
 var a29511 =
 [
-    [ "MapDifficulty", "d1/d8c/a29511.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
-    [ "MapDifficulty", "d1/d8c/a29511.html#a227aec55b5b774076882ea34f70d5d88", null ],
-    [ "hasErrorMessage", "d1/d8c/a29511.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
-    [ "maxPlayers", "d1/d8c/a29511.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
-    [ "resetTime", "d1/d8c/a29511.html#a7190131620b9eee0897ac7b4dd62949e", null ]
+    [ "adtId", "d1/d8c/a29511.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
+    [ "areaId", "d1/d8c/a29511.html#a7f652c68036429350543fc5a2cc6861e", null ],
+    [ "Flags", "d1/d8c/a29511.html#a60f9a61948d1e28587c9d1a338730f37", null ],
+    [ "groupId", "d1/d8c/a29511.html#a09052bad3028899580ffedd556672b64", null ],
+    [ "Id", "d1/d8c/a29511.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
+    [ "rootId", "d1/d8c/a29511.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
 ];

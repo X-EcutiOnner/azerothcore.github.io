@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Time/GameTime.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/TypeList.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,224 +105,84 @@ $(document).ready(function(){initNavTree('db/d00/a31208.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">GameTime.cpp File Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#concepts">Concepts</a> &#124;
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">TypeList.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
-<code>#include &quot;gtest/gtest.h&quot;</code><br />
-<code>#include &lt;thread&gt;</code><br />
+<div class="textblock"><code>#include &lt;cstddef&gt;</code><br />
+<code>#include &lt;utility&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d67/a05971.html">Acore::type_list&lt; Ts &gt;</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provide an empty tag type containing the specified <code>Ts</code>.  <a href="../../d3/d67/a05971.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d0c/a05979.html">Acore::Impl::list_size&lt; type_list&lt; Ts... &gt; &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:d3/d82/a05088"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d82/a05088.html">Acore</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:d6/da5/a05100"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/da5/a05100.html">Acore::Impl</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="concepts" name="concepts"></a>
+Concepts</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">concept &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d21/a30384.html">Acore::AnyTypeList</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Satisfied only by <a class="el" href="../../d3/d67/a05971.html" title="Provide an empty tag type containing the specified Ts.">Acore::type_list</a> specializations. <br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a60d79c395e268a6ed16df7a26967eb54"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d00/a31208.html#a60d79c395e268a6ed16df7a26967eb54">TEST</a> (GameTimeTest, Elapsed)</td></tr>
-<tr class="separator:a60d79c395e268a6ed16df7a26967eb54"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adb3f541c0dff0e8cb644a90523d0e8a4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d00/a31208.html#adb3f541c0dff0e8cb644a90523d0e8a4">TEST</a> (GameTimeTest, HasElapsedTrue)</td></tr>
-<tr class="separator:adb3f541c0dff0e8cb644a90523d0e8a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac397e352523bccf0895dc53d9279feb9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d00/a31208.html#ac397e352523bccf0895dc53d9279feb9">TEST</a> (GameTimeTest, HasElapsedFalse)</td></tr>
-<tr class="separator:ac397e352523bccf0895dc53d9279feb9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac9f5df01372b26acfd33c6409e8064dc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d00/a31208.html#ac9f5df01372b26acfd33c6409e8064dc">TEST</a> (GameTimeTest, HasElapsedWithSeconds)</td></tr>
-<tr class="separator:ac9f5df01372b26acfd33c6409e8064dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abb15bbd2249642325aba11d926db8a48"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d00/a31208.html#abb15bbd2249642325aba11d926db8a48">TEST</a> (GameTimeTest, HasElapsedWithMicroseconds)</td></tr>
-<tr class="separator:abb15bbd2249642325aba11d926db8a48"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af3502a542fe8940c5967acc190cef55a"><td class="memTemplParams" colspan="2">template&lt;typename... Ts, typename Func &gt; </td></tr>
+<tr class="memitem:af3502a542fe8940c5967acc190cef55a"><td class="memTemplItemLeft" align="right" valign="top">constexpr void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/da5/a05100.html#af3502a542fe8940c5967acc190cef55a">Acore::Impl::for_each</a> (type_list&lt; Ts... &gt;, Func &amp;&amp;f)</td></tr>
+<tr class="separator:af3502a542fe8940c5967acc190cef55a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f33370510f6a20f2c280ddb7aee8113"><td class="memTemplParams" colspan="2">template&lt;typename... Ts, typename Pred &gt; </td></tr>
+<tr class="memitem:a3f33370510f6a20f2c280ddb7aee8113"><td class="memTemplItemLeft" align="right" valign="top">constexpr std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/da5/a05100.html#a3f33370510f6a20f2c280ddb7aee8113">Acore::Impl::count_if</a> (type_list&lt; Ts... &gt;, Pred pred)</td></tr>
+<tr class="separator:a3f33370510f6a20f2c280ddb7aee8113"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af5885336c2d6f4bac05b7ab6a79d1ba9"><td class="memTemplParams" colspan="2">template&lt;typename... Ts, typename Pred &gt; </td></tr>
+<tr class="memitem:af5885336c2d6f4bac05b7ab6a79d1ba9"><td class="memTemplItemLeft" align="right" valign="top">constexpr bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/da5/a05100.html#af5885336c2d6f4bac05b7ab6a79d1ba9">Acore::Impl::any_of</a> (type_list&lt; Ts... &gt;, Pred pred)</td></tr>
+<tr class="separator:af5885336c2d6f4bac05b7ab6a79d1ba9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a63f3ebca59abc8aeb41648f6f79da7f3"><td class="memTemplParams" colspan="2">template&lt;AnyTypeList List, typename Func &gt; </td></tr>
+<tr class="memitem:a63f3ebca59abc8aeb41648f6f79da7f3"><td class="memTemplItemLeft" align="right" valign="top">constexpr void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d82/a05088.html#a63f3ebca59abc8aeb41648f6f79da7f3">Acore::for_each</a> (Func &amp;&amp;f)</td></tr>
+<tr class="memdesc:a63f3ebca59abc8aeb41648f6f79da7f3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Invoke the specified <code>f</code> once for each type in the specified <code>List</code>, in declaration order.  <a href="../../d3/d82/a05088.html#a63f3ebca59abc8aeb41648f6f79da7f3">More...</a><br /></td></tr>
+<tr class="separator:a63f3ebca59abc8aeb41648f6f79da7f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a86386611f0e1cc0f7e33cb9bc0403679"><td class="memTemplParams" colspan="2">template&lt;AnyTypeList List, typename Pred &gt; </td></tr>
+<tr class="memitem:a86386611f0e1cc0f7e33cb9bc0403679"><td class="memTemplItemLeft" align="right" valign="top">constexpr std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d82/a05088.html#a86386611f0e1cc0f7e33cb9bc0403679">Acore::count_if</a> (Pred pred)</td></tr>
+<tr class="memdesc:a86386611f0e1cc0f7e33cb9bc0403679"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return the number of types in the specified <code>List</code> for which the specified <code>pred</code> returns true.  <a href="../../d3/d82/a05088.html#a86386611f0e1cc0f7e33cb9bc0403679">More...</a><br /></td></tr>
+<tr class="separator:a86386611f0e1cc0f7e33cb9bc0403679"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a47058396f75885b2327eea9530b910d7"><td class="memTemplParams" colspan="2">template&lt;AnyTypeList List, typename Pred &gt; </td></tr>
+<tr class="memitem:a47058396f75885b2327eea9530b910d7"><td class="memTemplItemLeft" align="right" valign="top">constexpr bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d82/a05088.html#a47058396f75885b2327eea9530b910d7">Acore::any_of</a> (Pred pred)</td></tr>
+<tr class="memdesc:a47058396f75885b2327eea9530b910d7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return true if the specified <code>pred</code> returns true for any type in the specified <code>List</code>, and false otherwise.  <a href="../../d3/d82/a05088.html#a47058396f75885b2327eea9530b910d7">More...</a><br /></td></tr>
+<tr class="separator:a47058396f75885b2327eea9530b910d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:af90fd778c5d0004ab7da96e3250e1186"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:af90fd778c5d0004ab7da96e3250e1186"><td class="memTemplItemLeft" align="right" valign="top">constexpr bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/da5/a05100.html#af90fd778c5d0004ab7da96e3250e1186">Acore::Impl::is_type_list</a> = false</td></tr>
+<tr class="separator:af90fd778c5d0004ab7da96e3250e1186"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab6a868461567e901fbc55cdc2377b4ec"><td class="memTemplParams" colspan="2">template&lt;typename... Ts&gt; </td></tr>
+<tr class="memitem:ab6a868461567e901fbc55cdc2377b4ec"><td class="memTemplItemLeft" align="right" valign="top">constexpr bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/da5/a05100.html#ab6a868461567e901fbc55cdc2377b4ec">Acore::Impl::is_type_list&lt; type_list&lt; Ts... &gt; &gt;</a> = true</td></tr>
+<tr class="separator:ab6a868461567e901fbc55cdc2377b4ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c605be8d96841d40f90f900dfdae16a"><td class="memTemplParams" colspan="2">template&lt;AnyTypeList List&gt; </td></tr>
+<tr class="memitem:a9c605be8d96841d40f90f900dfdae16a"><td class="memTemplItemLeft" align="right" valign="top">constexpr std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d82/a05088.html#a9c605be8d96841d40f90f900dfdae16a">Acore::size_v</a> = Impl::list_size&lt;List&gt;::value</td></tr>
+<tr class="memdesc:a9c605be8d96841d40f90f900dfdae16a"><td class="mdescLeft">&#160;</td><td class="mdescRight">The number of types in the specified <code>List</code>.  <a href="../../d3/d82/a05088.html#a9c605be8d96841d40f90f900dfdae16a">More...</a><br /></td></tr>
+<tr class="separator:a9c605be8d96841d40f90f900dfdae16a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a60d79c395e268a6ed16df7a26967eb54" name="a60d79c395e268a6ed16df7a26967eb54"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a60d79c395e268a6ed16df7a26967eb54">&#9670;&#160;</a></span>TEST() <span class="overload">[1/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">GameTimeTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Elapsed&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_function" href="../../dc/d66/a05171.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
-<div class="line"><span class="lineno">   26</span>    <span class="keyword">auto</span> start = <a class="code hl_function" href="../../dc/d66/a05171.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a>();</div>
-<div class="line"><span class="lineno">   27</span>    std::this_thread::sleep_for(50ms);</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_function" href="../../dc/d66/a05171.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
-<div class="line"><span class="lineno">   29</span>    <span class="keyword">auto</span> elapsed = <a class="code hl_function" href="../../dc/d66/a05171.html#af9a7dcb5dfa331445f56900767b13e8b">GameTime::Elapsed</a>(start);</div>
-<div class="line"><span class="lineno">   30</span>    EXPECT_GE(elapsed, 50ms);</div>
-<div class="line"><span class="lineno">   31</span>}</div>
-<div class="ttc" id="aa05171_html_a45712735241c9563a12fc3da54fb144d"><div class="ttname"><a href="../../dc/d66/a05171.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a></div><div class="ttdeci">void UpdateGameTimers()</div><div class="ttdoc">Update all timers.</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:63</div></div>
-<div class="ttc" id="aa05171_html_ae5cc9f17fc6b8b15c678fa7a84a6e117"><div class="ttname"><a href="../../dc/d66/a05171.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a></div><div class="ttdeci">TimePoint Now()</div><div class="ttdoc">Current chrono steady_clock time point.</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:53</div></div>
-<div class="ttc" id="aa05171_html_af9a7dcb5dfa331445f56900767b13e8b"><div class="ttname"><a href="../../dc/d66/a05171.html#af9a7dcb5dfa331445f56900767b13e8b">GameTime::Elapsed</a></div><div class="ttdeci">Microseconds Elapsed(TimePoint start)</div><div class="ttdoc">Uptime since a given time point.</div><div class="ttdef"><b>Definition:</b> GameTime.h:45</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00045">GameTime::Elapsed()</a>, <a class="el" href="../../#l00053">GameTime::Now()</a>, and <a class="el" href="../../#l00063">GameTime::UpdateGameTimers()</a>.</p>
-
-</div>
-</div>
-<a id="ac397e352523bccf0895dc53d9279feb9" name="ac397e352523bccf0895dc53d9279feb9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac397e352523bccf0895dc53d9279feb9">&#9670;&#160;</a></span>TEST() <span class="overload">[2/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">GameTimeTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">HasElapsedFalse&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_function" href="../../dc/d66/a05171.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
-<div class="line"><span class="lineno">   45</span>    <span class="keyword">auto</span> start = <a class="code hl_function" href="../../dc/d66/a05171.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a>();</div>
-<div class="line"><span class="lineno">   46</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d66/a05171.html#a6acb8998bc9dae720531cb39082262f2">GameTime::HasElapsed</a>(start, 10s));</div>
-<div class="line"><span class="lineno">   47</span>}</div>
-<div class="ttc" id="aa05171_html_a6acb8998bc9dae720531cb39082262f2"><div class="ttname"><a href="../../dc/d66/a05171.html#a6acb8998bc9dae720531cb39082262f2">GameTime::HasElapsed</a></div><div class="ttdeci">bool HasElapsed(TimePoint start, T duration)</div><div class="ttdoc">Check if a duration has elapsed since a given time point.</div><div class="ttdef"><b>Definition:</b> GameTime.h:52</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00052">GameTime::HasElapsed()</a>, <a class="el" href="../../#l00053">GameTime::Now()</a>, and <a class="el" href="../../#l00063">GameTime::UpdateGameTimers()</a>.</p>
-
-</div>
-</div>
-<a id="adb3f541c0dff0e8cb644a90523d0e8a4" name="adb3f541c0dff0e8cb644a90523d0e8a4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adb3f541c0dff0e8cb644a90523d0e8a4">&#9670;&#160;</a></span>TEST() <span class="overload">[3/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">GameTimeTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">HasElapsedTrue&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_function" href="../../dc/d66/a05171.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
-<div class="line"><span class="lineno">   36</span>    <span class="keyword">auto</span> start = <a class="code hl_function" href="../../dc/d66/a05171.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a>();</div>
-<div class="line"><span class="lineno">   37</span>    std::this_thread::sleep_for(50ms);</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_function" href="../../dc/d66/a05171.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
-<div class="line"><span class="lineno">   39</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d66/a05171.html#a6acb8998bc9dae720531cb39082262f2">GameTime::HasElapsed</a>(start, 25ms));</div>
-<div class="line"><span class="lineno">   40</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00052">GameTime::HasElapsed()</a>, <a class="el" href="../../#l00053">GameTime::Now()</a>, and <a class="el" href="../../#l00063">GameTime::UpdateGameTimers()</a>.</p>
-
-</div>
-</div>
-<a id="abb15bbd2249642325aba11d926db8a48" name="abb15bbd2249642325aba11d926db8a48"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abb15bbd2249642325aba11d926db8a48">&#9670;&#160;</a></span>TEST() <span class="overload">[4/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">GameTimeTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">HasElapsedWithMicroseconds&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   57</span>{</div>
-<div class="line"><span class="lineno">   58</span>    <a class="code hl_function" href="../../dc/d66/a05171.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
-<div class="line"><span class="lineno">   59</span>    <span class="keyword">auto</span> start = <a class="code hl_function" href="../../dc/d66/a05171.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a>();</div>
-<div class="line"><span class="lineno">   60</span>    std::this_thread::sleep_for(100us);</div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_function" href="../../dc/d66/a05171.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
-<div class="line"><span class="lineno">   62</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d66/a05171.html#a6acb8998bc9dae720531cb39082262f2">GameTime::HasElapsed</a>(start, <a class="code hl_typedef" href="../../d2/dc8/a00242.html#a201a83ed0d59d2baf946daf42dac834f">Microseconds</a>(1)));</div>
-<div class="line"><span class="lineno">   63</span>}</div>
-<div class="ttc" id="aa00242_html_a201a83ed0d59d2baf946daf42dac834f"><div class="ttname"><a href="../../d2/dc8/a00242.html#a201a83ed0d59d2baf946daf42dac834f">Microseconds</a></div><div class="ttdeci">std::chrono::microseconds Microseconds</div><div class="ttdoc">Microseconds shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:24</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00052">GameTime::HasElapsed()</a>, <a class="el" href="../../#l00053">GameTime::Now()</a>, and <a class="el" href="../../#l00063">GameTime::UpdateGameTimers()</a>.</p>
-
-</div>
-</div>
-<a id="ac9f5df01372b26acfd33c6409e8064dc" name="ac9f5df01372b26acfd33c6409e8064dc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac9f5df01372b26acfd33c6409e8064dc">&#9670;&#160;</a></span>TEST() <span class="overload">[5/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">GameTimeTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">HasElapsedWithSeconds&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   50</span>{</div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_function" href="../../dc/d66/a05171.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a>();</div>
-<div class="line"><span class="lineno">   52</span>    <span class="keyword">auto</span> start = <a class="code hl_function" href="../../dc/d66/a05171.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a>();</div>
-<div class="line"><span class="lineno">   53</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d66/a05171.html#a6acb8998bc9dae720531cb39082262f2">GameTime::HasElapsed</a>(start, 1s));</div>
-<div class="line"><span class="lineno">   54</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00052">GameTime::HasElapsed()</a>, <a class="el" href="../../#l00053">GameTime::Now()</a>, and <a class="el" href="../../#l00063">GameTime::UpdateGameTimers()</a>.</p>
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_f5e4129fec19524b88796969e1224b90.html">Time</a></li><li class="navelem"><a class="el" href="../../db/d00/a31208.html">GameTime.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 24 2026 21:03:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../db/d00/a31208.html">TypeList.h</a></li>
+    <li class="footer">Generated on Tue Sep 1 2026 00:07:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,7 @@
 var a22763 =
 [
-    [ "HandleOnHit", "df/d4b/a22763.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "df/d4b/a22763.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "df/d4b/a22763.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "df/d4b/a22763.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "npc_voidtraveler", "df/d4b/a22763.html#a07e473c14836a0612acd52078a93f2d8", null ],
+    [ "Reset", "df/d4b/a22763.html#a6efe0725917c92657220de2b60579289", null ],
+    [ "UpdateAI", "df/d4b/a22763.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
+    [ "_scheduler", "df/d4b/a22763.html#a1809494e7803103f6bc1698e780dcfbc", null ]
 ];

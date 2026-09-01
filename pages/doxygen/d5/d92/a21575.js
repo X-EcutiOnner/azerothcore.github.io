@@ -1,6 +1,6 @@
 var a21575 =
 [
-    [ "npc_sinkhole_kill_creditAI", "db/d7a/a21579.html", "db/d7a/a21579" ],
-    [ "npc_sinkhole_kill_credit", "d5/d92/a21575.html#a627d01aaaa3408986f2b4d171624e680", null ],
-    [ "GetAI", "d5/d92/a21575.html#a4d734432f132bea2c4525d049fbcfa67", null ]
+    [ "HandleEffectPeriodic", "d5/d92/a21575.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "d5/d92/a21575.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "d5/d92/a21575.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

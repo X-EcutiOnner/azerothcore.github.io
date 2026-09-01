@@ -1,6 +1,6 @@
 var a21367 =
 [
-    [ "boss_ymironAI", "d3/da8/a21371.html", "d3/da8/a21371" ],
-    [ "boss_ymiron", "d1/d29/a21367.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "d1/d29/a21367.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "HandleDummyEffect", "d1/d29/a21367.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
+    [ "PrepareSpellScript", "d1/d29/a21367.html#a07376c95cb2ec41d86a24be59094d207", null ],
+    [ "Register", "d1/d29/a21367.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
 ];

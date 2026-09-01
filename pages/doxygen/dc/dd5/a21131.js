@@ -1,5 +1,7 @@
 var a21131 =
 [
-    [ "achievement_yogg_saron_drive_me_crazy", "dc/dd5/a21131.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
-    [ "OnCheck", "dc/dd5/a21131.html#a029fdd68e0643b53971efbb1056f19d8", null ]
+    [ "HandleProc", "dc/dd5/a21131.html#a1b8782a4f22522cfe224073515abdf45", null ],
+    [ "PrepareAuraScript", "dc/dd5/a21131.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
+    [ "Register", "dc/dd5/a21131.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
+    [ "Validate", "dc/dd5/a21131.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
 ];

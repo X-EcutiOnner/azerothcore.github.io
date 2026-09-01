@@ -1,11 +1,7 @@
 var a24191 =
 [
-    [ "npc_maxx_a_million_escortAI", "d1/d7f/a24191.html#ab827933527ed7b4a04b162034876ced8", null ],
-    [ "JustDied", "d1/d7f/a24191.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
-    [ "Reset", "d1/d7f/a24191.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
-    [ "UpdateAI", "d1/d7f/a24191.html#a3b022feb2303875d32ad981e84f66854", null ],
-    [ "WaypointReached", "d1/d7f/a24191.html#acd6f45abb93f3f043cd85647405a50f6", null ],
-    [ "WaypointReached", "d1/d7f/a24191.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "bTake", "d1/d7f/a24191.html#ac697fc6cbc20c7f316845ed26436049b", null ],
-    [ "uiTakeTimer", "d1/d7f/a24191.html#a5d4826dcf893f444a42dedba57460110", null ]
+    [ "npc_bessyAI", "db/d3c/a24195.html", "db/d3c/a24195" ],
+    [ "npc_bessy", "d1/d7f/a24191.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d1/d7f/a24191.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d1/d7f/a24191.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

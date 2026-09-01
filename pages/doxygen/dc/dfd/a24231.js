@@ -1,6 +1,11 @@
 var a24231 =
 [
-    [ "npc_mature_netherwing_drakeAI", "d4/de0/a24235.html", "d4/de0/a24235" ],
-    [ "npc_mature_netherwing_drake", "dc/dfd/a24231.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "dc/dfd/a24231.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "npc_invis_infernal_casterAI", "dc/dfd/a24231.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
+    [ "Reset", "dc/dfd/a24231.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
+    [ "SetData", "dc/dfd/a24231.html#aee88dc141757384f96da969fcdc20671", null ],
+    [ "SummonInfernal", "dc/dfd/a24231.html#a78d53d09e5544b3fe8301da4415d297b", null ],
+    [ "UpdateAI", "dc/dfd/a24231.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
+    [ "events", "dc/dfd/a24231.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
+    [ "ground", "dc/dfd/a24231.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
+    [ "infernalGUID", "dc/dfd/a24231.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
 ];

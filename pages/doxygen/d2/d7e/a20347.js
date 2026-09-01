@@ -1,28 +1,5 @@
 var a20347 =
 [
-    [ "boss_freya", "d2/d7e/a20347.html#a5379adaaa876662bcc6ffcd38cfc59bb", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d2/d7e/a20347.html#a195b0021b1ac0274884fb2106ee8d85d", null ],
-    [ "DamageTaken", "d2/d7e/a20347.html#a8ba5d1999e8f4ae7fb240436771d6c39", null ],
-    [ "DoAction", "d2/d7e/a20347.html#a099f983a17e002990aaecbb0995bb3b0", null ],
-    [ "GetData", "d2/d7e/a20347.html#aa648b02fb1531fd434fce9ccf62332c0", null ],
-    [ "JustEngagedWith", "d2/d7e/a20347.html#a85a00b03079df9ce9b8fa035820c959b", null ],
-    [ "JustReachedHome", "d2/d7e/a20347.html#a577c8714fef829a57533c1cfbd400dc0", null ],
-    [ "KilledUnit", "d2/d7e/a20347.html#a378a92e671be526e4f30feeb3ecf25e7", null ],
-    [ "MovementInform", "d2/d7e/a20347.html#a80b5910abe85c2f1350c5f91aabd3fa4", null ],
-    [ "Reset", "d2/d7e/a20347.html#abadf6447f33116039e82065ce44f4322", null ],
-    [ "SpawnWave", "d2/d7e/a20347.html#af1f486e8725a2710b237fe233f7fe181", null ],
-    [ "SpellHit", "d2/d7e/a20347.html#a3d449abdf7cc8241bedbcfe8f9d37175", null ],
-    [ "SpellHitTarget", "d2/d7e/a20347.html#a22c4097731727de032fd6db3c9cef7cf", null ],
-    [ "UpdateAI", "d2/d7e/a20347.html#a1ea7d6b65ceaa7d1c485685df40682f9", null ],
-    [ "_aliveAddsCount", "d2/d7e/a20347.html#a2994fd85d4fc14c93b5dd3b6113fe80b", null ],
-    [ "_backToNature", "d2/d7e/a20347.html#ab29a12f6a5ff5fd6ce579ebfceb6323c", null ],
-    [ "_currentSetId", "d2/d7e/a20347.html#aca780e90cf50f2c08ca2faef14bbbe86", null ],
-    [ "_currentTrioDown", "d2/d7e/a20347.html#aaae6a69564a7de262bcb8b8c55fd1c7b", null ],
-    [ "_deforestation", "d2/d7e/a20347.html#a6c3e874ea83c564c93b6c7599e1174bd", null ],
-    [ "_elderGUID", "d2/d7e/a20347.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],
-    [ "_lumberjacked", "d2/d7e/a20347.html#aa35101951b2d47848b69170ab36ae414", null ],
-    [ "_setPermutation", "d2/d7e/a20347.html#a987265a1775e47ac50e873c38cc1a753", null ],
-    [ "_spawnedAmount", "d2/d7e/a20347.html#aafbd2fcaccdc5890f513054d6840ed55", null ],
-    [ "_trioDown", "d2/d7e/a20347.html#afbf5fcebd50f968b1171c443818a3949", null ],
-    [ "_trioWaveEndSetId", "d2/d7e/a20347.html#ae7842858d4ae9a9d4eee44c9cd86a23e", null ]
+    [ "achievement_flame_leviathan_unbroken", "d2/d7e/a20347.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
+    [ "OnCheck", "d2/d7e/a20347.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
 ];

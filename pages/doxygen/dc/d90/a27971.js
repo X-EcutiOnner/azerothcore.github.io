@@ -1,6 +1,12 @@
 var a27971 =
 [
-    [ "HandleEffectCalcSpellMod", "dc/d90/a27971.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
-    [ "PrepareAuraScript", "dc/d90/a27971.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
-    [ "Register", "dc/d90/a27971.html#af60592a9f1e595f31814eae405d03d5a", null ]
+    [ "CheckProc", "dc/d90/a27971.html#abb43619da8154c1c9ebc9d164a2f6dc6", null ],
+    [ "HandleApply", "dc/d90/a27971.html#aaa07858f0604965fad5c1189125a822b", null ],
+    [ "HandleProc", "dc/d90/a27971.html#a9fd416a5f8f8a405f40c41b9ef8b734e", null ],
+    [ "HandleRemove", "dc/d90/a27971.html#a3da984d172878110b77549b51409d7e0", null ],
+    [ "Load", "dc/d90/a27971.html#a644aaf343b41f049f34ff7387c613bf1", null ],
+    [ "PrepareAuraScript", "dc/d90/a27971.html#aea23ff608c74017d98edcc146d3ba35a", null ],
+    [ "Register", "dc/d90/a27971.html#a624d09c6f1a177912a1c7cab30d89c7b", null ],
+    [ "Validate", "dc/d90/a27971.html#a34f1b7782dbf2dcc18eb803497104a13", null ],
+    [ "_procTargetGUID", "dc/d90/a27971.html#a88833abe90e8753336b7dc178b98f703", null ]
 ];

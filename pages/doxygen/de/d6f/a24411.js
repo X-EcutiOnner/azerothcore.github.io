@@ -1,8 +1,21 @@
 var a24411 =
 [
-    [ "npc_pet_dk_army_of_the_dead", "de/d6f/a24411.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
-    [ "CanAIAttack", "de/d6f/a24411.html#a514fe49b143f57ef87359b3060911c02", null ],
-    [ "OwnerAttacked", "de/d6f/a24411.html#ad5189df825dc917e59c9b19e4a84cded", null ],
-    [ "OwnerAttackedBy", "de/d6f/a24411.html#a01f21e7c57f4bf7f9457c72fda4e9022", null ],
-    [ "UpdateAI", "de/d6f/a24411.html#ac44836f84d172dfac90dfb3eaaeeac6a", null ]
+    [ "npc_pet_dk_ebon_gargoyle", "de/d6f/a24411.html#af3a1bf5f8f5b594aa7cd7542b6099a95", null ],
+    [ "AttackStart", "de/d6f/a24411.html#ae5408b18b589fb483095450bf1338b2f", null ],
+    [ "EnterEvadeMode", "de/d6f/a24411.html#a73e70d9deaa647edd2904dae180c9cef", null ],
+    [ "FlyAway", "de/d6f/a24411.html#abd2bbbff0d1752bbc2d03021b8155155", null ],
+    [ "InitializeAI", "de/d6f/a24411.html#a05e7d29c738dcc280603ab12a82b819b", null ],
+    [ "JustExitedCombat", "de/d6f/a24411.html#a980844a2d503761efe7e7cacef35bef1", null ],
+    [ "MovementInform", "de/d6f/a24411.html#a33e0260425cf179daae147bfc1a570b4", null ],
+    [ "MySelectNextTarget", "de/d6f/a24411.html#af86f48070b8c329c6a6a3f43d0156273", null ],
+    [ "RemoveTargetAura", "de/d6f/a24411.html#a07a6044ab1246bc2f90309b9eb7d0223", null ],
+    [ "Reset", "de/d6f/a24411.html#aa719acf874e7588ed6b73c437fb6765b", null ],
+    [ "UpdateAI", "de/d6f/a24411.html#a998a0401bd975cc7d0da7fb33670a503", null ],
+    [ "_decisionTimer", "de/d6f/a24411.html#a5ad13d23e35dcc1dab567ae2d8800cd6", null ],
+    [ "_despawning", "de/d6f/a24411.html#abca2ddc0628899b0c5bd35210e303d00", null ],
+    [ "_despawnTimer", "de/d6f/a24411.html#a8135321f4e5c01dc71e13f719e43d056", null ],
+    [ "_initialCastTimer", "de/d6f/a24411.html#ae6a8edeb3ee7a2bde5af81080d536d1f", null ],
+    [ "_initialSelection", "de/d6f/a24411.html#a5ce762eb57204a1b4d8f0ea49be701a7", null ],
+    [ "_selectionTimer", "de/d6f/a24411.html#ad004ccbe33b4eacff3ac5b5b28709df0", null ],
+    [ "_targetGUID", "de/d6f/a24411.html#a8299788ca453930977a605a2766d9e8d", null ]
 ];

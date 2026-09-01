@@ -1,15 +1,11 @@
 var a21519 =
 [
-    [ "npc_vh_teleportation_portal", "d2/dc8/a21519.html#ae4ed2aebf39ab2593c07ba3098341c91", null ],
-    [ "JustDied", "d2/dc8/a21519.html#af86eefc8c9e4187e52c4dd88c41cbc38", null ],
-    [ "JustSummoned", "d2/dc8/a21519.html#ad3606d29d814232a492e9e3e85048bd7", null ],
-    [ "SummonedMobDied", "d2/dc8/a21519.html#aa58672b2022e44b90adc8bf331ee84fc", null ],
-    [ "UpdateAI", "d2/dc8/a21519.html#a3bb6021855bed917fdd2ef47f8ddca29", null ],
-    [ "_addValue", "d2/dc8/a21519.html#ad71dd5636c683cfac15423375c0dcc6d", null ],
-    [ "_events", "d2/dc8/a21519.html#a1eb415b24f794c8cbb0d01084eb09669", null ],
-    [ "_instance", "d2/dc8/a21519.html#acf09515827ae926fe83ffc87a7e35ac5", null ],
-    [ "_isKeeperOrGuardian", "d2/dc8/a21519.html#a7483553634133f980929aaeef39bd6a6", null ],
-    [ "_listOfMobs", "d2/dc8/a21519.html#a8856350d299bfb25a4e77bb8753afa14", null ],
-    [ "_spawned", "d2/dc8/a21519.html#ac89ccf4030e5dffe15d0b24b991176de", null ],
-    [ "_wave", "d2/dc8/a21519.html#a0d82b870a2f6bc0de62502f02fd8c1b4", null ]
+    [ "npc_vh_void_sentry", "d2/dc8/a21519.html#adeb66953fb7540aab5190b825ff98ec8", null ],
+    [ "DoAction", "d2/dc8/a21519.html#a37ed72c221f23cd653694c10d536eec4", null ],
+    [ "JustDied", "d2/dc8/a21519.html#aabf96934586d38d6f958c1571c0b3b56", null ],
+    [ "SummonedCreatureDespawn", "d2/dc8/a21519.html#aa0ac1eb51911672653ec6fd48d2ef316", null ],
+    [ "UpdateAI", "d2/dc8/a21519.html#a417af2ca21310ca105d7561e3ab21272", null ],
+    [ "_events", "d2/dc8/a21519.html#a30899a2d4d8a82b26251911dc3b48008", null ],
+    [ "_instance", "d2/dc8/a21519.html#a80dc77a2deaf0f922f3f096f40b253e1", null ],
+    [ "_summonedGuid", "d2/dc8/a21519.html#a223e85ca87d89c51d0bc02e00d591aec", null ]
 ];

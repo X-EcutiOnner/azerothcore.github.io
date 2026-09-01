@@ -1,7 +1,7 @@
 var a04607 =
 [
-    [ "boss_shirrak_the_dead_watcher", "d3/d96/a22671.html", "d3/d96/a22671" ],
-    [ "spell_auchenai_possess", "d2/d91/a22675.html", "d2/d91/a22675" ],
+    [ "boss_shirrak_the_dead_watcher", "df/d3b/a22683.html", "df/d3b/a22683" ],
+    [ "spell_auchenai_possess", "d5/df3/a22687.html", "d5/df3/a22687" ],
     [ "Misc", "de/d76/a04607.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "d0/d84/a03281.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "d0/d84/a03281.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],

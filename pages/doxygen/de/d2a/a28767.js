@@ -1,5 +1,5 @@
 var a28767 =
 [
-    [ "go_transport_the_iron_eagle", "de/d2a/a28767.html#aba17edc2e3ac8e1b9996116c6f9bdc6f", null ],
-    [ "EventInform", "de/d2a/a28767.html#af1970d07730ab0e5f688200289f48b69", null ]
+    [ "ServerMailReward", "de/d2a/a28767.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnPlayerLogin", "de/d2a/a28767.html#ada945e805278d54746b6fabaf48b4546", null ]
 ];

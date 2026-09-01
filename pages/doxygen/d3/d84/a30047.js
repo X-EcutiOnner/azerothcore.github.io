@@ -1,7 +1,5 @@
 var a30047 =
 [
-    [ "SetUp", "d3/d84/a30047.html#ab58c026bc6bbcf94aaec896c654e949f", null ],
-    [ "DAGGER_SPEED", "d3/d84/a30047.html#a2e9b2005f350f0aec0a905eef5bc0bb6", null ],
-    [ "SWORD_SPEED", "d3/d84/a30047.html#ac960eb9c5e15274b63b684d8908ed68b", null ],
-    [ "TWO_HANDED_SPEED", "d3/d84/a30047.html#a7dbbfc5825a36bf3950a8dff54e0ca5a", null ]
+    [ "SetUp", "d3/d84/a30047.html#a3619a9661686511df0868c65b9099c9f", null ],
+    [ "_allEntries", "d3/d84/a30047.html#a6f2997373f401c494a4a4fb1677b82af", null ]
 ];

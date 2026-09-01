@@ -1,12 +1,7 @@
 var a25463 =
 [
-    [ "EtherealSoulTrader", "dd/df5/a25463.html#a8fd600957c21bdd8a1c1793e36ea3953", [
-      [ "NPC_ETHEREAL_SOUL_TRADER", "dd/df5/a25463.html#a8fd600957c21bdd8a1c1793e36ea3953af260b92af2c0a22e3d0de607611f3673", null ],
-      [ "SPELL_OWNER_KILLED_INFORM", "dd/df5/a25463.html#a8fd600957c21bdd8a1c1793e36ea3953a0ece3b3d2fa217b809d77915cc6f30d2", null ],
-      [ "SPELL_STEAL_ESSENCE_VISUAL", "dd/df5/a25463.html#a8fd600957c21bdd8a1c1793e36ea3953aa4a66122509fdf013a6c6b3a5edbbba7", null ]
-    ] ],
-    [ "CheckProc", "dd/df5/a25463.html#a59752617fc790359fdb13cc88aaed15e", null ],
-    [ "HandleProc", "dd/df5/a25463.html#ab52656d4827f3fe980edd281e82debd5", null ],
-    [ "PrepareAuraScript", "dd/df5/a25463.html#a49a6a07b66e5b99c67d4fcef13aeb933", null ],
-    [ "Register", "dd/df5/a25463.html#a16d9e04ba3bc3144cd539033a5053d1a", null ]
+    [ "HandleEffectPeriodic", "dd/df5/a25463.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
+    [ "PrepareAuraScript", "dd/df5/a25463.html#affc698127fe0656df25bd094c02a7e50", null ],
+    [ "Register", "dd/df5/a25463.html#a4707bfaeb86b3540920a6772e1726e26", null ],
+    [ "Validate", "dd/df5/a25463.html#aef839f163d7e623a54b163e1c27542cd", null ]
 ];

@@ -1,8 +1,8 @@
 var a03869 =
 [
-    [ "boss_archavon", "d1/d1b/a21387.html", "d1/d1b/a21387" ],
-    [ "boss_archavon::boss_archavonAI", "da/d88/a21391.html", "da/d88/a21391" ],
-    [ "spell_archavon_rock_shards", "d8/d7f/a21395.html", "d8/d7f/a21395" ],
+    [ "boss_archavon", "db/d40/a21399.html", "db/d40/a21399" ],
+    [ "boss_archavon::boss_archavonAI", "d6/d2b/a21403.html", "d6/d2b/a21403" ],
+    [ "spell_archavon_rock_shards", "d5/d7c/a21407.html", "d5/d7c/a21407" ],
     [ "Archavon", "d6/da9/a03869.html#a73a22ae082f1ae211db2530bf259e3c9", [
       [ "SPELL_ROCK_SHARDS", "d6/da9/a03869.html#a73a22ae082f1ae211db2530bf259e3c9a089c4dd82ee20529deb635e435060907", null ],
       [ "SPELL_ROCK_SHARDS_LEFT_HAND_VISUAL", "d6/da9/a03869.html#a73a22ae082f1ae211db2530bf259e3c9ac5948e58c536267987e0a82dcfba1ea7", null ],
@@ -1125,6 +1125,7 @@ var a03869 =
       [ "EVENT_THORIMS_HAMMER", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1ae36d8c8de56249065e0948e76530e60a", null ],
       [ "EVENT_SOUND_BEGINNING", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12", null ],
       [ "EVENT_EJECT_PLAYERS", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1a5defc9b52c1e590d7327c0a49889b674", null ],
+      [ "EVENT_CHECK_PLAYERS", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b", null ],
       [ "EVENT_TYMPANIC_TANTRUM", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a84422beac5b9e0b83ca83616c5efb4c8", null ],
       [ "EVENT_PHASE_CHECK", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a1273cef28932ef3d9134ce5be972ed10", null ],
       [ "EVENT_SEARING_LIGHT", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a1e895cbeeebafe4b8d99ff30621fe0d1", null ],

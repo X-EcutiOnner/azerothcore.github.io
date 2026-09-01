@@ -1,9 +1,9 @@
 var a04826 =
 [
-    [ "boss_najentus", "d5/d32/a23087.html", "d5/d32/a23087" ],
-    [ "spell_najentus_needle_spine", "d7/ddc/a23091.html", "d7/ddc/a23091" ],
-    [ "spell_najentus_hurl_spine", "df/db0/a23095.html", "df/db0/a23095" ],
-    [ "spell_najentus_remove_spines", "d6/d90/a23099.html", "d6/d90/a23099" ],
+    [ "boss_najentus", "d6/d90/a23099.html", "d6/d90/a23099" ],
+    [ "spell_najentus_needle_spine", "d3/d29/a23103.html", "d3/d29/a23103" ],
+    [ "spell_najentus_hurl_spine", "d7/d72/a23107.html", "d7/d72/a23107" ],
+    [ "spell_najentus_remove_spines", "d7/d86/a23111.html", "d7/d86/a23111" ],
     [ "Events", "d6/df5/a04826.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d9/dc9/a03347.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d9/dc9/a03347.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -1116,6 +1116,7 @@ var a04826 =
       [ "EVENT_THORIMS_HAMMER", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1ae36d8c8de56249065e0948e76530e60a", null ],
       [ "EVENT_SOUND_BEGINNING", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12", null ],
       [ "EVENT_EJECT_PLAYERS", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1a5defc9b52c1e590d7327c0a49889b674", null ],
+      [ "EVENT_CHECK_PLAYERS", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b", null ],
       [ "EVENT_TYMPANIC_TANTRUM", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a84422beac5b9e0b83ca83616c5efb4c8", null ],
       [ "EVENT_PHASE_CHECK", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a1273cef28932ef3d9134ce5be972ed10", null ],
       [ "EVENT_SEARING_LIGHT", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a1e895cbeeebafe4b8d99ff30621fe0d1", null ],

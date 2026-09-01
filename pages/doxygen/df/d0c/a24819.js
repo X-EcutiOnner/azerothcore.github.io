@@ -1,6 +1,7 @@
 var a24819 =
 [
-    [ "CheckCast", "df/d0c/a24819.html#a583e19667a83ada4cd793fbf391f9e93", null ],
-    [ "PrepareSpellScript", "df/d0c/a24819.html#ac6adda0dbe544cf2457060647c01de0f", null ],
-    [ "Register", "df/d0c/a24819.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
+    [ "OnRemove", "df/d0c/a24819.html#aae9f02415a256ce01b81c3dd6fdafb33", null ],
+    [ "PrepareAuraScript", "df/d0c/a24819.html#ad27880f797137cae09381e860727e2f7", null ],
+    [ "Register", "df/d0c/a24819.html#a6c105609c1ee61a8f845018550b2e3ba", null ],
+    [ "Validate", "df/d0c/a24819.html#ac1f03d22c5fdb1c07a0e0859e08bd561", null ]
 ];

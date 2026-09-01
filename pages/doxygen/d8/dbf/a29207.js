@@ -1,6 +1,19 @@
 var a29207 =
 [
-    [ "color", "d8/dbf/a29207.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "d8/dbf/a29207.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "d8/dbf/a29207.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "FactionRespondsToCallForHelp", "d8/dbf/a29207.html#af0d102e7e7ae480b2c61cf121bcd012a", null ],
+    [ "IsContestedGuardFaction", "d8/dbf/a29207.html#a52d5e1e5b01946a3d6d66158910e9f6d", null ],
+    [ "IsFriendlyTo", "d8/dbf/a29207.html#ac70cef62b2ec646d593d8742a3c02f08", null ],
+    [ "IsHostileTo", "d8/dbf/a29207.html#a1aadbf23c1c81a958665d96e5bf76093", null ],
+    [ "IsHostileToAlliancePlayers", "d8/dbf/a29207.html#a4d3bfc9845c9d20f2e9e42f3247e1977", null ],
+    [ "IsHostileToHordePlayers", "d8/dbf/a29207.html#a1734226996b76623df70f6fd0fe8a1c0", null ],
+    [ "IsHostileToPlayers", "d8/dbf/a29207.html#a349650c7af717e3c67392a0b9d1970e1", null ],
+    [ "IsNeutralToAll", "d8/dbf/a29207.html#a99cb471bcc9071a3c152266caa4579ae", null ],
+    [ "enemyFaction", "d8/dbf/a29207.html#ae53f6799be5ae4bf7ab047fd97a4a969", null ],
+    [ "faction", "d8/dbf/a29207.html#a2cb03ed38c15f6e6db7b556200282541", null ],
+    [ "factionFlags", "d8/dbf/a29207.html#af20e4983d34c419b4a14c60d8049d9f4", null ],
+    [ "friendFaction", "d8/dbf/a29207.html#a9c89b58067e28de89cedf2572b5e0e31", null ],
+    [ "friendlyMask", "d8/dbf/a29207.html#a6842badfb5e7e0ad3a26d250426c64b6", null ],
+    [ "hostileMask", "d8/dbf/a29207.html#ab395ab86c3e553ea4a9b1ae901c6e7cb", null ],
+    [ "ID", "d8/dbf/a29207.html#a22657898486c71df39da27b968e405d5", null ],
+    [ "ourMask", "d8/dbf/a29207.html#a822685376430441eeb85c24fd26473b0", null ]
 ];

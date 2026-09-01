@@ -1,6 +1,6 @@
 var a21455 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d7/d62/a21455.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
-    [ "JustSummoned", "d7/d62/a21455.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
-    [ "Reset", "d7/d62/a21455.html#a064ccb90afeb9b36d501850482c60bc4", null ]
+    [ "npc_frozen_orbAI", "d9/df8/a21459.html", "d9/df8/a21459" ],
+    [ "npc_frozen_orb", "d7/d62/a21455.html#ac14966722e39b2b6b3a907756701ed98", null ],
+    [ "GetAI", "d7/d62/a21455.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
 ];

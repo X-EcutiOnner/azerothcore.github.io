@@ -1,12 +1,10 @@
 var a23019 =
 [
-    [ "boss_shade_of_akama", "db/d93/a23019.html#a385bf995d19652254d6ae8a447c23c37", null ],
-    [ "EnterEvadeMode", "db/d93/a23019.html#a690f8058fb4358b98960177d76864275", null ],
-    [ "JustDied", "db/d93/a23019.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
-    [ "MovementInform", "db/d93/a23019.html#a345707efebd5027c01a25a563d1e6f43", null ],
-    [ "Reset", "db/d93/a23019.html#a19a1aca1a599704612ac845001895b4f", null ],
-    [ "SpellHit", "db/d93/a23019.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
-    [ "UpdateAI", "db/d93/a23019.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
-    [ "channelers", "db/d93/a23019.html#a258bbeecb517a04ab8e3bac2a753a5bd", null ],
-    [ "generators", "db/d93/a23019.html#a94a1010bce54768ee2dca72d4f6eec34", null ]
+    [ "CalculateAmount", "db/d93/a23019.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
+    [ "CheckProc", "db/d93/a23019.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
+    [ "HandleProc", "db/d93/a23019.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
+    [ "PrepareAuraScript", "db/d93/a23019.html#a6e066884663276dbba82e46ca5f66e59", null ],
+    [ "Register", "db/d93/a23019.html#ac4154f0746e77229e8d349021d5b9c30", null ],
+    [ "Update", "db/d93/a23019.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
+    [ "Validate", "db/d93/a23019.html#a4f10d23f63c47b408b70373623b877a8", null ]
 ];

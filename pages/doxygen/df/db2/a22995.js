@@ -1,8 +1,11 @@
 var a22995 =
 [
-    [ "HandleEffectApply", "df/db2/a22995.html#a94993441ef94f84c85aa10c693cf34fe", null ],
-    [ "HandleEffectRemove", "df/db2/a22995.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
-    [ "PrepareAuraScript", "df/db2/a22995.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
-    [ "Register", "df/db2/a22995.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
-    [ "Validate", "df/db2/a22995.html#a964637541cd64e64b4e02c00d36abf2d", null ]
+    [ "boss_essence_of_desireAI", "df/db2/a22995.html#a02f6dec07038297c15c264fb501b01ab", null ],
+    [ "DamageTaken", "df/db2/a22995.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
+    [ "DoAction", "df/db2/a22995.html#ad55459d8e75f34783c1516be05cbb97f", null ],
+    [ "JustEngagedWith", "df/db2/a22995.html#a0976078399b2190cca25aa2ae5c3c201", null ],
+    [ "KilledUnit", "df/db2/a22995.html#a07509843bd658e3fc0b02cb817da37e9", null ],
+    [ "MovementInform", "df/db2/a22995.html#ad65068c5f56db269b4dc711745f96cfb", null ],
+    [ "Reset", "df/db2/a22995.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
+    [ "UpdateAI", "df/db2/a22995.html#af348a1b996a8e7704ba55185ef79fe7d", null ]
 ];

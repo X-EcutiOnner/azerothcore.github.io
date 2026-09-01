@@ -1,6 +1,6 @@
 var a25147 =
 [
-    [ "CheckProc", "df/d0b/a25147.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
-    [ "PrepareAuraScript", "df/d0b/a25147.html#a861caa47c502c42fa84d9f9de74df024", null ],
-    [ "Register", "df/d0b/a25147.html#ab4275de186b6841a1f424863cb6c128c", null ]
+    [ "OnPeriodic", "df/d0b/a25147.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
+    [ "PrepareAuraScript", "df/d0b/a25147.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
+    [ "Register", "df/d0b/a25147.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
 ];

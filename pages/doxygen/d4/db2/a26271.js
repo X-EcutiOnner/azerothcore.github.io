@@ -1,5 +1,6 @@
 var a26271 =
 [
-    [ "PrepareSpellScript", "d4/db2/a26271.html#ac08a5b38ac3012ad31c8ecdf4ca36585", null ],
-    [ "Register", "d4/db2/a26271.html#a7d6187a7aa8f8d67efe15ffc74fa1873", null ]
+    [ "HandleEffect", "d4/db2/a26271.html#a41b46d8918b59a1617f383b3eedfe343", null ],
+    [ "PrepareSpellScript", "d4/db2/a26271.html#acfc69e6323292e6c64fbe8d2e10efcdc", null ],
+    [ "Register", "d4/db2/a26271.html#a78f1476ed28eb1e80356dbf3d32918f5", null ]
 ];

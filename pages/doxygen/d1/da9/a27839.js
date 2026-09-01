@@ -1,6 +1,8 @@
 var a27839 =
 [
-    [ "CheckProc", "d1/da9/a27839.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
-    [ "PrepareAuraScript", "d1/da9/a27839.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
-    [ "Register", "d1/da9/a27839.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
+    [ "ApplyEffect", "d1/da9/a27839.html#ad29ed182a00516e736bb8d1381f4ac84", null ],
+    [ "HandleEffectPeriodicUpdate", "d1/da9/a27839.html#ad5319328c018dbb3ddbd58bfc08589c4", null ],
+    [ "PrepareAuraScript", "d1/da9/a27839.html#a7673ff384e88fa76efa52ecb60b97d9b", null ],
+    [ "Register", "d1/da9/a27839.html#ade5af0ec82bc43d89919ceaaa31bce20", null ],
+    [ "_tick_amount", "d1/da9/a27839.html#a33d9f114efa50a2fdfe7a17852a474f7", null ]
 ];

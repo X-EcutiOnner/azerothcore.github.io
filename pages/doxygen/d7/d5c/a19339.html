@@ -364,6 +364,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#abeb05f651e7b7a7235c89f576d9c5d8e">JustExitedCombat</a> ()</td></tr>
 <tr class="memdesc:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when the unit leaves combat.  <a href="../../df/d2f/a06551.html#abeb05f651e7b7a7235c89f576d9c5d8e">More...</a><br /></td></tr>
 <tr class="separator:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#abb4ce22edb0c6145426beaf14e1f0efa">OnDespawn</a> ()</td></tr>
+<tr class="memdesc:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when the unit is about to be removed from the world (despawn, grid unload, corpse disappearing, player logging out etc.)  <a href="../../df/d2f/a06551.html#abb4ce22edb0c6145426beaf14e1f0efa">More...</a><br /></td></tr>
+<tr class="separator:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#a950e9e3046791e271f3a240ea73bb211">EvadeTimerExpired</a> ()</td></tr>
 <tr class="memdesc:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when evade timer expires (target unreachable for too long)  <a href="../../df/d2f/a06551.html#a950e9e3046791e271f3a240ea73bb211">More...</a><br /></td></tr>
 <tr class="separator:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -708,9 +711,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa06595_html_a4b10347a4407bb6351230423019d9786"><div class="ttname"><a href="../../d0/dd4/a06595.html#a4b10347a4407bb6351230423019d9786">SummonList::Summon</a></div><div class="ttdeci">void Summon(Creature const *summon)</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:88</div></div>
 <div class="ttc" id="aa08403_html_acb4a26180cdcb2266736f6aea4a695d8"><div class="ttname"><a href="../../de/db2/a08403.html#acb4a26180cdcb2266736f6aea4a695d8">Creature::SetWalk</a></div><div class="ttdeci">bool SetWalk(bool enable) override</div><div class="ttdoc">Enable or disable the creature's walk mode by removing: MOVEMENTFLAG_WALKING. Infom also the client.</div><div class="ttdef"><b>Definition:</b> Creature.cpp:3343</div></div>
 <div class="ttc" id="aa08863_html_a4e813a59345a6275e8b87b96be03e60b"><div class="ttname"><a href="../../d3/dcf/a08863.html#a4e813a59345a6275e8b87b96be03e60b">Position::GetPositionZ</a></div><div class="ttdeci">float GetPositionZ() const</div><div class="ttdef"><b>Definition:</b> Position.h:123</div></div>
-<div class="ttc" id="aa09163_html_ac218abfb8299071a00c5a65b77548ff8"><div class="ttname"><a href="../../d5/d74/a09163.html#ac218abfb8299071a00c5a65b77548ff8">Unit::SetDisableGravity</a></div><div class="ttdeci">void SetDisableGravity(bool disable)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:16505</div></div>
+<div class="ttc" id="aa09163_html_ac218abfb8299071a00c5a65b77548ff8"><div class="ttname"><a href="../../d5/d74/a09163.html#ac218abfb8299071a00c5a65b77548ff8">Unit::SetDisableGravity</a></div><div class="ttdeci">void SetDisableGravity(bool disable)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:16508</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l16505">Unit::SetDisableGravity()</a>, <a class="el" href="../../#l03343">Creature::SetWalk()</a>, <a class="el" href="../../#l00088">SummonList::Summon()</a>, and <a class="el" href="../../#l04079">summons</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l16508">Unit::SetDisableGravity()</a>, <a class="el" href="../../#l03343">Creature::SetWalk()</a>, <a class="el" href="../../#l00088">SummonList::Summon()</a>, and <a class="el" href="../../#l04079">summons</a>.</p>
 
 </div>
 </div>
@@ -1161,7 +1164,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d8c/a19335.html">npc_icc_gauntlet_controller</a></li><li class="navelem"><a class="el" href="../../d7/d5c/a19339.html">npc_icc_gauntlet_controllerAI</a></li>
-    <li class="footer">Generated on Mon Aug 24 2026 21:03:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Sep 1 2026 00:09:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,8 +1,11 @@
 var a29103 =
 [
-    [ "gender", "d2/d65/a29103.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
-    [ "hair_id", "d2/d65/a29103.html#af4646a9adb0a1dc18b34158de2116b84", null ],
-    [ "Id", "d2/d65/a29103.html#a05de87081cf628e806d6518eef1424e4", null ],
-    [ "race", "d2/d65/a29103.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
-    [ "type", "d2/d65/a29103.html#a289bb362ba13235c754647ba67be1e56", null ]
+    [ "icon", "d2/d65/a29103.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
+    [ "id", "d2/d65/a29103.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
+    [ "mapId", "d2/d65/a29103.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
+    [ "worldState", "d2/d65/a29103.html#a9d745d26316726c861cc5a242f6a4f57", null ],
+    [ "x", "d2/d65/a29103.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
+    [ "y", "d2/d65/a29103.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
+    [ "z", "d2/d65/a29103.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
+    [ "zoneId", "d2/d65/a29103.html#a0cc33089981237694ca550cba6793a3e", null ]
 ];

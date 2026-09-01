@@ -1,6 +1,6 @@
 var a26699 =
 [
-    [ "CalculateAmount", "df/d14/a26699.html#acc2c4cea16dfa30c49387ac166cef560", null ],
-    [ "PrepareAuraScript", "df/d14/a26699.html#a8d7e840994ba5034a249171dbfc016a6", null ],
-    [ "Register", "df/d14/a26699.html#a018d2a8a106a621730fcaa1d500df7b1", null ]
+    [ "FilterTargets", "df/d14/a26699.html#aad5d183d0d7ea229cbfc11f751536624", null ],
+    [ "PrepareSpellScript", "df/d14/a26699.html#a68ba19142ae6eb04a2547495233700df", null ],
+    [ "Register", "df/d14/a26699.html#a22c313409438f94d29ab3e236a56c115", null ]
 ];

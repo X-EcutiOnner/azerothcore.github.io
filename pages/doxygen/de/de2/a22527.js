@@ -1,6 +1,5 @@
 var a22527 =
 [
-    [ "npc_released_offspring_harkoaAI", "de/de2/a22527.html#ab1002f002987b6ea2366129afd48d65c", null ],
-    [ "MovementInform", "de/de2/a22527.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
-    [ "Reset", "de/de2/a22527.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
+    [ "go_finklestein_cauldron", "de/de2/a22527.html#a8aa352319c54526069588dacd75ab883", null ],
+    [ "OnGossipHello", "de/de2/a22527.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
 ];

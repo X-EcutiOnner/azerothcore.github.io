@@ -1,7 +1,6 @@
 var a28603 =
 [
-    [ "npc_guardianAI", "d8/d13/a28603.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "d8/d13/a28603.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "d8/d13/a28603.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "d8/d13/a28603.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "npc_garments_of_questsAI", "d8/d5b/a28607.html", "d8/d5b/a28607" ],
+    [ "npc_garments_of_quests", "d8/d13/a28603.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
+    [ "GetAI", "d8/d13/a28603.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
 ];

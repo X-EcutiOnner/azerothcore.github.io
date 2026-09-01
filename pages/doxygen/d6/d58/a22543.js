@@ -1,8 +1,6 @@
 var a22543 =
 [
-    [ "HandleApply", "d6/d58/a22543.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "d6/d58/a22543.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "d6/d58/a22543.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "d6/d58/a22543.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "d6/d58/a22543.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "npc_crusade_recruitAI", "df/d6c/a22547.html", "df/d6c/a22547" ],
+    [ "npc_crusade_recruit", "d6/d58/a22543.html#a6e130f153c506255ef5ece1baf006028", null ],
+    [ "GetAI", "d6/d58/a22543.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
 ];

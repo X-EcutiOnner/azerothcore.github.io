@@ -537,6 +537,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#abeb05f651e7b7a7235c89f576d9c5d8e">JustExitedCombat</a> ()</td></tr>
 <tr class="memdesc:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when the unit leaves combat.  <a href="../../df/d2f/a06551.html#abeb05f651e7b7a7235c89f576d9c5d8e">More...</a><br /></td></tr>
 <tr class="separator:abeb05f651e7b7a7235c89f576d9c5d8e inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#abb4ce22edb0c6145426beaf14e1f0efa">OnDespawn</a> ()</td></tr>
+<tr class="memdesc:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when the unit is about to be removed from the world (despawn, grid unload, corpse disappearing, player logging out etc.)  <a href="../../df/d2f/a06551.html#abb4ce22edb0c6145426beaf14e1f0efa">More...</a><br /></td></tr>
+<tr class="separator:abb4ce22edb0c6145426beaf14e1f0efa inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2f/a06551.html#a950e9e3046791e271f3a240ea73bb211">EvadeTimerExpired</a> ()</td></tr>
 <tr class="memdesc:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when evade timer expires (target unreachable for too long)  <a href="../../df/d2f/a06551.html#a950e9e3046791e271f3a240ea73bb211">More...</a><br /></td></tr>
 <tr class="separator:a950e9e3046791e271f3a240ea73bb211 inherit pub_methods_a06551"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -915,9 +918,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa03092_html_aa2e998c0f3d966c32be9106221fe957c"><div class="ttname"><a href="../../d5/d37/a03092.html#aa2e998c0f3d966c32be9106221fe957c">AmbushMoveTo</a></div><div class="ttdeci">LocationXYZ AmbushMoveTo[]</div><div class="ttdef"><b>Definition:</b> zone_hinterlands.cpp:52</div></div>
 <div class="ttc" id="aa08403_html_acb4a26180cdcb2266736f6aea4a695d8"><div class="ttname"><a href="../../de/db2/a08403.html#acb4a26180cdcb2266736f6aea4a695d8">Creature::SetWalk</a></div><div class="ttdeci">bool SetWalk(bool enable) override</div><div class="ttdoc">Enable or disable the creature's walk mode by removing: MOVEMENTFLAG_WALKING. Infom also the client.</div><div class="ttdef"><b>Definition:</b> Creature.cpp:3343</div></div>
 <div class="ttc" id="aa09163_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../d5/d74/a09163.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition:</b> Unit.h:1758</div></div>
-<div class="ttc" id="aa10395_html_a35fb18b3487e4b5f746102c7038e563f"><div class="ttname"><a href="../../dd/da9/a10395.html#a35fb18b3487e4b5f746102c7038e563f">MotionMaster::MovePoint</a></div><div class="ttdeci">void MovePoint(uint32 id, Position const &amp;pos, ForcedMovement forcedMovement=FORCED_MOVEMENT_NONE, float speed=0.f, bool generatePath=true, bool forceDestination=true, std::optional&lt; AnimTier &gt; animTier=std::nullopt)</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:240</div></div>
+<div class="ttc" id="aa10395_html_a35fb18b3487e4b5f746102c7038e563f"><div class="ttname"><a href="../../dd/da9/a10395.html#a35fb18b3487e4b5f746102c7038e563f">MotionMaster::MovePoint</a></div><div class="ttdeci">void MovePoint(uint32 id, Position const &amp;pos, ForcedMovement forcedMovement=FORCED_MOVEMENT_NONE, float speed=0.f, bool generatePath=true, bool forceDestination=true, std::optional&lt; AnimTier &gt; animTier=std::nullopt)</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:241</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00052">AmbushMoveTo</a>, <a class="el" href="../../#l01758">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00240">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l03343">Creature::SetWalk()</a>, and <a class="el" href="../../#l00209">spawnId</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00052">AmbushMoveTo</a>, <a class="el" href="../../#l01758">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00241">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l03343">Creature::SetWalk()</a>, and <a class="el" href="../../#l00209">spawnId</a>.</p>
 
 </div>
 </div>
@@ -1288,7 +1291,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/da0/a14035.html">npc_rinji</a></li><li class="navelem"><a class="el" href="../../da/dd2/a14039.html">npc_rinjiAI</a></li>
-    <li class="footer">Generated on Mon Aug 24 2026 21:04:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Sep 1 2026 00:09:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,6 @@
 var a29687 =
 [
-    [ "hasInstantTargetProcs", "d3/dda/a29687.html#a043a2884a456208d85bc3bf8d4733682", null ],
-    [ "isRemoved", "d3/dda/a29687.html#a3f593c8bba6edde580f84fcc5ce9215b", null ],
-    [ "spellId", "d3/dda/a29687.html#aee26a119051d638047018aeb93d593f6", null ]
+    [ "conditionsMet", "d3/dda/a29687.html#ade58814e6b27763d1bb6c1f730ef53e0", null ],
+    [ "hasConditions", "d3/dda/a29687.html#a160ac902a994fdaaa36b66dbaa4c8282", null ],
+    [ "sourceType", "d3/dda/a29687.html#abbfa5f40abb5713e15311f8259d70dc6", null ]
 ];

@@ -1,6 +1,8 @@
 var a29943 =
 [
-    [ "SetUp", "d0/d10/a29943.html#a17bb069a079f64ba78b640f29fb23b44", null ],
-    [ "_durationEntry", "d0/d10/a29943.html#ae835f19ae350e48fd88e4cc776d286e4", null ],
-    [ "_frostboltInfo", "d0/d10/a29943.html#adeb95c76547a934f4801bb24932b34d1", null ]
+    [ "CreateCCEffect", "d0/d10/a29943.html#a90bb496c51cd49d187389e714360afca", null ],
+    [ "SetUp", "d0/d10/a29943.html#af90043fc0fe122bcbb1c60efcb56a92b", null ],
+    [ "TearDown", "d0/d10/a29943.html#a7c3946d9acc7dbcc36c56071e165f6d9", null ],
+    [ "_originalWorld", "d0/d10/a29943.html#a2006a12966a8875132c3a2c0b905e1f8", null ],
+    [ "_worldMock", "d0/d10/a29943.html#ad18ef661fd5ab748c1c2c5d193b2a7d0", null ]
 ];

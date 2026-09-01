@@ -1,7 +1,8 @@
 var a21699 =
 [
-    [ "npc_warmage_violetstand", "d6/da0/a21699.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "d6/da0/a21699.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "d6/da0/a21699.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "d6/da0/a21699.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_dusk", "d6/da0/a21699.html#ab142eb266e64af625a8a38d3234ded72", null ],
+    [ "MovementInform", "d6/da0/a21699.html#a49cade56e631668c946edb6753172c87", null ],
+    [ "PassengerBoarded", "d6/da0/a21699.html#aaff19f52995db17f4dab953e2e928c68", null ],
+    [ "WaypointReached", "d6/da0/a21699.html#ac8f70426313aa6834285905e94f1d0d9", null ],
+    [ "_ejected", "d6/da0/a21699.html#a4f749f98c178a32b211bbd38b9447607", null ]
 ];

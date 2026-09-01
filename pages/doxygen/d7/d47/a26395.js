@@ -1,6 +1,8 @@
 var a26395 =
 [
-    [ "HandleStackDrop", "d7/d47/a26395.html#a8e452c968558f3bd273b18a8055745d2", null ],
-    [ "PrepareAuraScript", "d7/d47/a26395.html#aa18e4975db4e2831c61f38d990886676", null ],
-    [ "Register", "d7/d47/a26395.html#a04ebc4be3fea42ca2352fd441841f76e", null ]
+    [ "HandleScript", "d7/d47/a26395.html#a181434606474535b5ed8dc6ee7c2dc29", null ],
+    [ "Load", "d7/d47/a26395.html#aee35eb07631e991dc019a2b716894237", null ],
+    [ "PrepareSpellScript", "d7/d47/a26395.html#a4c28987223d55f31aa6c5f3e349b62b7", null ],
+    [ "Register", "d7/d47/a26395.html#aad5ff8b2b71e4662e8f2f15f7c9a5bcb", null ],
+    [ "Validate", "d7/d47/a26395.html#a1541ff95bfa6ddc98748381cc2cb99f6", null ]
 ];

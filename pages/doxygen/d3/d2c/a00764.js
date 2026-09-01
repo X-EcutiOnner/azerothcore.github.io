@@ -1,6 +1,6 @@
 var a00764 =
 [
-    [ "SpellProcTestEntry", "d2/d3a/a30067.html", "d2/d3a/a30067" ],
+    [ "SpellProcTestEntry", "db/df3/a30079.html", "db/df3/a30079" ],
     [ "GetAllSpellProcTestEntries", "d3/d2c/a00764.html#a39025d5b336e745566f739e9d1f68e78", null ],
     [ "GroupByHitMask", "d3/d2c/a00764.html#a9c10a33f80d5dad16ac98bf115774ded", null ],
     [ "GroupByProcFlags", "d3/d2c/a00764.html#a8a30ea152f1ec07a3e93549376c04b74", null ],

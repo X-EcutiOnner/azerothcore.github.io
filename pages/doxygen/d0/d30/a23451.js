@@ -1,6 +1,7 @@
 var a23451 =
 [
-    [ "HandleAfterRemove", "d0/d30/a23451.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "d0/d30/a23451.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "d0/d30/a23451.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "boss_hydromancer_thespia", "d0/d30/a23451.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "d0/d30/a23451.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "d0/d30/a23451.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "d0/d30/a23451.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

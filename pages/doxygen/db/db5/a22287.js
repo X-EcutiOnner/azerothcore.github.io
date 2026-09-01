@@ -1,8 +1,8 @@
 var a22287 =
 [
-    [ "CheckCast", "db/db5/a22287.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "db/db5/a22287.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "db/db5/a22287.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "db/db5/a22287.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "db/db5/a22287.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "npc_adventurous_dwarfAI", "d9/d5c/a22291.html", "d9/d5c/a22291" ],
+    [ "npc_adventurous_dwarf", "db/db5/a22287.html#a15c39e217907189db9be7799e696f310", null ],
+    [ "GetAI", "db/db5/a22287.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
+    [ "OnGossipHello", "db/db5/a22287.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
+    [ "OnGossipSelect", "db/db5/a22287.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
 ];

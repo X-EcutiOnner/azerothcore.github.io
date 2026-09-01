@@ -1,6 +1,6 @@
 var a20947 =
 [
-    [ "HandleScript", "df/d6d/a20947.html#a679cf770e38e1fda66f8a64fff53f968", null ],
-    [ "PrepareSpellScript", "df/d6d/a20947.html#a89fe5ca5efcc45278bdd9017cfeaaf3f", null ],
-    [ "Register", "df/d6d/a20947.html#adc76a70e73cba42c0f9935b3b43d17cd", null ]
+    [ "HandleScript", "df/d6d/a20947.html#aade3cab1f80d1762bfad48407f4b91cc", null ],
+    [ "PrepareSpellScript", "df/d6d/a20947.html#ab20e548d7c0a837ee4cb7198c09e53ee", null ],
+    [ "Register", "df/d6d/a20947.html#a48a0a37b8e6f799ee9035bb766fd6db2", null ]
 ];

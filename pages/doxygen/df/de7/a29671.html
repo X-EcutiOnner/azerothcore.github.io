@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ProcChanceTestHelper::TakenAutoTriggerConfig Struct Reference</title>
+<title>AzerothCore: ProcChanceTestHelper::PPMModifierConfig Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,72 +107,90 @@ $(document).ready(function(){initNavTree('df/de7/a29671.html','../../'); initRes
   <div class="summary">
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d4/dc9/a29668.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ProcChanceTestHelper::TakenAutoTriggerConfig Struct Reference</div></div>
+  <div class="headertitle"><div class="title">ProcChanceTestHelper::PPMModifierConfig Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>Configuration for simulating the TAKEN auto-trigger logic from <a class="el" href="../../d1/da9/a12011.html#aeca13d7535faa653ad4de42e2cef9c48">SpellMgr::LoadSpellProcs()</a> auto-generation.  
+<p>PPM modifier configuration for testing SPELLMOD_PROC_PER_MINUTE.  
  <a href="../../df/de7/a29671.html#details">More...</a></p>
 
 <p><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:aed48a1ad923118ac0a86d864e1e98519"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#aed48a1ad923118ac0a86d864e1e98519">procFlags</a> = 0</td></tr>
-<tr class="separator:aed48a1ad923118ac0a86d864e1e98519"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a953f930e046655ca0d8f373362d3f334"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#a953f930e046655ca0d8f373362d3f334">auraName</a> = 0</td></tr>
-<tr class="separator:a953f930e046655ca0d8f373362d3f334"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a05786c8e0daef9a2da98f832c230d99c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#a05786c8e0daef9a2da98f832c230d99c">isAlwaysTriggeredAura</a> = false</td></tr>
-<tr class="separator:a05786c8e0daef9a2da98f832c230d99c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a781485dfaede63716eddba66971600e3"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#a781485dfaede63716eddba66971600e3">flatModifier</a> = 0.0f</td></tr>
+<tr class="separator:a781485dfaede63716eddba66971600e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf5a1e1118b0dcd155529978bdc172db"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#aaf5a1e1118b0dcd155529978bdc172db">pctModifier</a> = 1.0f</td></tr>
+<tr class="separator:aaf5a1e1118b0dcd155529978bdc172db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa80132f8b5cb980a4a703810fe3fa1a4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#aa80132f8b5cb980a4a703810fe3fa1a4">hasSpellModOwner</a> = true</td></tr>
+<tr class="separator:aa80132f8b5cb980a4a703810fe3fa1a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96607da311b5774eeaa01674d32ab22e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#a96607da311b5774eeaa01674d32ab22e">hasSpellProto</a> = true</td></tr>
+<tr class="separator:a96607da311b5774eeaa01674d32ab22e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Configuration for simulating the TAKEN auto-trigger logic from <a class="el" href="../../d1/da9/a12011.html#aeca13d7535faa653ad4de42e2cef9c48">SpellMgr::LoadSpellProcs()</a> auto-generation. </p>
+<div class="textblock"><p >PPM modifier configuration for testing SPELLMOD_PROC_PER_MINUTE. </p>
 </div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a953f930e046655ca0d8f373362d3f334" name="a953f930e046655ca0d8f373362d3f334"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a953f930e046655ca0d8f373362d3f334">&#9670;&#160;</a></span>auraName</h2>
+<a id="a781485dfaede63716eddba66971600e3" name="a781485dfaede63716eddba66971600e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a781485dfaede63716eddba66971600e3">&#9670;&#160;</a></span>flatModifier</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ProcChanceTestHelper::TakenAutoTriggerConfig::auraName = 0</td>
+          <td class="memname">float ProcChanceTestHelper::PPMModifierConfig::flatModifier = 0.0f</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, and <a class="el" href="../../#l00056">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00108">TEST_F()</a>.</p>
 
 </div>
 </div>
-<a id="a05786c8e0daef9a2da98f832c230d99c" name="a05786c8e0daef9a2da98f832c230d99c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a05786c8e0daef9a2da98f832c230d99c">&#9670;&#160;</a></span>isAlwaysTriggeredAura</h2>
+<a id="aa80132f8b5cb980a4a703810fe3fa1a4" name="aa80132f8b5cb980a4a703810fe3fa1a4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa80132f8b5cb980a4a703810fe3fa1a4">&#9670;&#160;</a></span>hasSpellModOwner</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool ProcChanceTestHelper::TakenAutoTriggerConfig::isAlwaysTriggeredAura = false</td>
+          <td class="memname">bool ProcChanceTestHelper::PPMModifierConfig::hasSpellModOwner = true</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, and <a class="el" href="../../#l00056">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00246">TEST_F()</a>.</p>
 
 </div>
 </div>
-<a id="aed48a1ad923118ac0a86d864e1e98519" name="aed48a1ad923118ac0a86d864e1e98519"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aed48a1ad923118ac0a86d864e1e98519">&#9670;&#160;</a></span>procFlags</h2>
+<a id="a96607da311b5774eeaa01674d32ab22e" name="a96607da311b5774eeaa01674d32ab22e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a96607da311b5774eeaa01674d32ab22e">&#9670;&#160;</a></span>hasSpellProto</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags = 0</td>
+          <td class="memname">bool ProcChanceTestHelper::PPMModifierConfig::hasSpellProto = true</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, and <a class="el" href="../../#l00056">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00267">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="aaf5a1e1118b0dcd155529978bdc172db" name="aaf5a1e1118b0dcd155529978bdc172db"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaf5a1e1118b0dcd155529978bdc172db">&#9670;&#160;</a></span>pctModifier</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float ProcChanceTestHelper::PPMModifierConfig::pctModifier = 1.0f</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00160">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -181,8 +199,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../db/d5b/a29647.html">ProcChanceTestHelper</a></li><li class="navelem"><a class="el" href="../../df/de7/a29671.html">TakenAutoTriggerConfig</a></li>
-    <li class="footer">Generated on Mon Aug 24 2026 21:04:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d2/d1a/a29659.html">ProcChanceTestHelper</a></li><li class="navelem"><a class="el" href="../../df/de7/a29671.html">PPMModifierConfig</a></li>
+    <li class="footer">Generated on Tue Sep 1 2026 00:09:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

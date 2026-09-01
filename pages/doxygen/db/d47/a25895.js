@@ -1,7 +1,7 @@
 var a25895 =
 [
-    [ "CalculateDamageAmount", "db/d47/a25895.html#a2f608e8391e61434ef1b164c023854fe", null ],
-    [ "CalculateManaLeechAmount", "db/d47/a25895.html#a8a4946d1718d8045a72c92355ff38ecb", null ],
-    [ "PrepareAuraScript", "db/d47/a25895.html#a63d24d3ca4b2de1aa7f67376ded7bc59", null ],
-    [ "Register", "db/d47/a25895.html#aa6e74e89930fd3cc564c3cba86e3687e", null ]
+    [ "HandleJump", "db/d47/a25895.html#ac70f6d53e85af1ee2591e761e21872db", null ],
+    [ "HandleScriptEffect", "db/d47/a25895.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
+    [ "PrepareSpellScript", "db/d47/a25895.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
+    [ "Register", "db/d47/a25895.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
 ];

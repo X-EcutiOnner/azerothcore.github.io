@@ -1,6 +1,6 @@
 var a25159 =
 [
-    [ "HandleDummy", "d2/de8/a25159.html#a9f9c27bdfed0a457f7e851c8598f3625", null ],
-    [ "PrepareSpellScript", "d2/de8/a25159.html#ab666b72cd7cb0ef92ba6c417be5ac7cc", null ],
-    [ "Register", "d2/de8/a25159.html#a7b78161fda34b3dc3c844c392ce7e30e", null ]
+    [ "CheckProc", "d2/de8/a25159.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
+    [ "PrepareAuraScript", "d2/de8/a25159.html#a861caa47c502c42fa84d9f9de74df024", null ],
+    [ "Register", "d2/de8/a25159.html#ab4275de186b6841a1f424863cb6c128c", null ]
 ];

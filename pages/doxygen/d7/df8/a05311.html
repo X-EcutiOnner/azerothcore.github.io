@@ -260,7 +260,7 @@ Static Private Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   28</span>    {</div>
 <div class="line"><span class="lineno">   29</span>        <span class="comment">// load and init dtNavMesh - read parameters from file</span></div>
-<div class="line"><span class="lineno">   30</span>        std::string fileName = <a class="code hl_function" href="../../d3/d82/a05088.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(<a class="code hl_variable" href="../../db/d29/a05096.html#a1d57d156046bda88886b7488ab0b83bc">MAP_FILE_NAME_FORMAT</a>, <a class="code hl_define" href="../../df/d2f/a31187.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;DataDir&quot;</span>, <span class="stringliteral">&quot;.&quot;</span>), mapId);</div>
+<div class="line"><span class="lineno">   30</span>        std::string fileName = <a class="code hl_function" href="../../d3/d82/a05088.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(<a class="code hl_variable" href="../../db/d29/a05096.html#a1d57d156046bda88886b7488ab0b83bc">MAP_FILE_NAME_FORMAT</a>, <a class="code hl_define" href="../../d6/d9a/a31199.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;DataDir&quot;</span>, <span class="stringliteral">&quot;.&quot;</span>), mapId);</div>
 <div class="line"><span class="lineno">   31</span> </div>
 <div class="line"><span class="lineno">   32</span>        FILE* file = fopen(fileName.c_str(), <span class="stringliteral">&quot;rb&quot;</span>);</div>
 <div class="line"><span class="lineno">   33</span>        <span class="keywordflow">if</span> (!file)</div>
@@ -297,7 +297,7 @@ Static Private Member Functions</h2></td></tr>
 <div class="ttc" id="aa00470_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d0/d29/a00470.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
 <div class="ttc" id="aa05088_html_a1b97349dfcb88c6974882d7e34c55895"><div class="ttname"><a href="../../d3/d82/a05088.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatStringView fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:44</div></div>
 <div class="ttc" id="aa05096_html_a1d57d156046bda88886b7488ab0b83bc"><div class="ttname"><a href="../../db/d29/a05096.html#a1d57d156046bda88886b7488ab0b83bc">MMAP::MAP_FILE_NAME_FORMAT</a></div><div class="ttdeci">static char const  *const MAP_FILE_NAME_FORMAT</div><div class="ttdef"><b>Definition:</b> MMapMgr.h:48</div></div>
-<div class="ttc" id="aa31187_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../df/d2f/a31187.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
+<div class="ttc" id="aa31199_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d6/d9a/a31199.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00048">MMAP::MAP_FILE_NAME_FORMAT</a>, <a class="el" href="../../#l00093">sConfigMgr</a>, and <a class="el" href="../../#l00044">Acore::StringFormat()</a>.</p>
 
@@ -352,7 +352,7 @@ Static Private Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   69</span>    {</div>
 <div class="line"><span class="lineno">   70</span>        <span class="comment">// load this tile :: mmaps/MMMXXYY.mmtile</span></div>
-<div class="line"><span class="lineno">   71</span>        std::string fileName = <a class="code hl_function" href="../../d3/d82/a05088.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(<a class="code hl_variable" href="../../db/d29/a05096.html#a27e34ce3b8808f2aa889e5c4e623059a">TILE_FILE_NAME_FORMAT</a>, <a class="code hl_define" href="../../df/d2f/a31187.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;DataDir&quot;</span>, <span class="stringliteral">&quot;.&quot;</span>), mapId, x, y);</div>
+<div class="line"><span class="lineno">   71</span>        std::string fileName = <a class="code hl_function" href="../../d3/d82/a05088.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(<a class="code hl_variable" href="../../db/d29/a05096.html#a27e34ce3b8808f2aa889e5c4e623059a">TILE_FILE_NAME_FORMAT</a>, <a class="code hl_define" href="../../d6/d9a/a31199.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;DataDir&quot;</span>, <span class="stringliteral">&quot;.&quot;</span>), mapId, x, y);</div>
 <div class="line"><span class="lineno">   72</span>        FILE* file = fopen(fileName.c_str(), <span class="stringliteral">&quot;rb&quot;</span>);</div>
 <div class="line"><span class="lineno">   73</span>        <span class="keywordflow">if</span> (!file)</div>
 <div class="line"><span class="lineno">   74</span>        {</div>
@@ -463,7 +463,7 @@ Static Private Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d29/a05096.html">MMAP</a></li><li class="navelem"><a class="el" href="../../d7/df8/a05311.html">MMapMgr</a></li>
-    <li class="footer">Generated on Mon Aug 24 2026 21:04:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Sep 1 2026 00:10:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

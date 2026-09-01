@@ -1,9 +1,10 @@
 var a26183 =
 [
-    [ "CheckCast", "dc/de9/a26183.html#af92fe276563a8ca0d939d881dba8adda", null ],
-    [ "HandleDummy", "dc/de9/a26183.html#a86b4413dd25f96fb197604007171a8d1", null ],
-    [ "Load", "dc/de9/a26183.html#ab1800d2550b944dcfa9967cc0e79c5ee", null ],
-    [ "PrepareSpellScript", "dc/de9/a26183.html#a47aa868fbabee8a3988bcc93402b8cfb", null ],
-    [ "Register", "dc/de9/a26183.html#a1b4ff1b3b518a2e4bad1836de6793561", null ],
-    [ "Validate", "dc/de9/a26183.html#a8d0c2f18927e811f3d3cdee94e3623c0", null ]
+    [ "CalcPeriodic", "dc/de9/a26183.html#a6ec300503503fa6f12a48a8494d41edd", null ],
+    [ "Load", "dc/de9/a26183.html#a349827fe659ff3bee0a5dfc677c04825", null ],
+    [ "PrepareAuraScript", "dc/de9/a26183.html#a8c12c4ae3835322602347b654d96a8b7", null ],
+    [ "Register", "dc/de9/a26183.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
+    [ "Update", "dc/de9/a26183.html#afa9e6eec798c354231b5f95e260c7111", null ],
+    [ "Validate", "dc/de9/a26183.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
+    [ "_spell_id", "dc/de9/a26183.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
 ];

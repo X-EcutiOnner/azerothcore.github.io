@@ -1,12 +1,8 @@
 var a21503 =
 [
-    [ "boss_zuramat", "da/d84/a21503.html#af033b96498fb71059701caad1fed8f8a", null ],
-    [ "EnterEvadeMode", "da/d84/a21503.html#a0d7ca9fe585e0dc87118c61ddc0dac84", null ],
-    [ "ExecuteEvent", "da/d84/a21503.html#a350f06b88af5444a0d4086434ddbe6f4", null ],
-    [ "JustDied", "da/d84/a21503.html#a1917921efc7a44c3cc3a799187c1718a", null ],
-    [ "JustEngagedWith", "da/d84/a21503.html#a4c448c8b51795943a6e746479f3ad121", null ],
-    [ "JustSummoned", "da/d84/a21503.html#a76c2de51333f57db6612effb92d07bd1", null ],
-    [ "KilledUnit", "da/d84/a21503.html#ae3f00d76928cbd6adf7882f4cccc0518", null ],
-    [ "MoveInLineOfSight", "da/d84/a21503.html#a6d46d73baf2c0b3c1706d9163564797f", null ],
-    [ "SummonedCreatureDespawn", "da/d84/a21503.html#afc8869687e9a6050cfee2c674ef7e7f1", null ]
+    [ "boss_moragg", "da/d84/a21503.html#a42d2508369286e5e635d47cce0b939f4", null ],
+    [ "EnterEvadeMode", "da/d84/a21503.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
+    [ "ExecuteEvent", "da/d84/a21503.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
+    [ "JustEngagedWith", "da/d84/a21503.html#a29da7214373c1919b65f3512655c8bc3", null ],
+    [ "MoveInLineOfSight", "da/d84/a21503.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
 ];

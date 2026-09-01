@@ -1,6 +1,7 @@
 var a21955 =
 [
-    [ "npc_mrfloppyAI", "d1/d67/a21959.html", "d1/d67/a21959" ],
-    [ "npc_mrfloppy", "d3/d78/a21955.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "d3/d78/a21955.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "OnRemove", "d3/d78/a21955.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "d3/d78/a21955.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "d3/d78/a21955.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "d3/d78/a21955.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

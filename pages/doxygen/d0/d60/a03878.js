@@ -1,11 +1,11 @@
 var a03878 =
 [
-    [ "boss_toravon", "d4/d2d/a21435.html", "d4/d2d/a21435" ],
-    [ "boss_toravon::boss_toravonAI", "db/d85/a21439.html", "db/d85/a21439" ],
-    [ "npc_frozen_orb", "df/d59/a21443.html", "df/d59/a21443" ],
-    [ "npc_frozen_orb::npc_frozen_orbAI", "d4/d81/a21447.html", "d4/d81/a21447" ],
-    [ "npc_frozen_orb_stalker", "de/d81/a21451.html", "de/d81/a21451" ],
-    [ "npc_frozen_orb_stalker::npc_frozen_orb_stalkerAI", "d7/d62/a21455.html", "d7/d62/a21455" ],
+    [ "boss_toravon", "d4/d81/a21447.html", "d4/d81/a21447" ],
+    [ "boss_toravon::boss_toravonAI", "de/d81/a21451.html", "de/d81/a21451" ],
+    [ "npc_frozen_orb", "d7/d62/a21455.html", "d7/d62/a21455" ],
+    [ "npc_frozen_orb::npc_frozen_orbAI", "d9/df8/a21459.html", "d9/df8/a21459" ],
+    [ "npc_frozen_orb_stalker", "d2/dbb/a21463.html", "d2/dbb/a21463" ],
+    [ "npc_frozen_orb_stalker::npc_frozen_orb_stalkerAI", "d5/d01/a21467.html", "d5/d01/a21467" ],
     [ "Events", "d0/d60/a03878.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d9/dc9/a03347.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d9/dc9/a03347.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -1118,6 +1118,7 @@ var a03878 =
       [ "EVENT_THORIMS_HAMMER", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1ae36d8c8de56249065e0948e76530e60a", null ],
       [ "EVENT_SOUND_BEGINNING", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12", null ],
       [ "EVENT_EJECT_PLAYERS", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1a5defc9b52c1e590d7327c0a49889b674", null ],
+      [ "EVENT_CHECK_PLAYERS", "d6/dc7/a03683.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b", null ],
       [ "EVENT_TYMPANIC_TANTRUM", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a84422beac5b9e0b83ca83616c5efb4c8", null ],
       [ "EVENT_PHASE_CHECK", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a1273cef28932ef3d9134ce5be972ed10", null ],
       [ "EVENT_SEARING_LIGHT", "d7/df2/a03656.html#af60e00b78607064c5be6aa9397ea49c1a1e895cbeeebafe4b8d99ff30621fe0d1", null ],

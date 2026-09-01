@@ -1,6 +1,9 @@
 var a22927 =
 [
-    [ "HandleScriptEffect", "de/dca/a22927.html#aeafb2893534c8e188bbb519b6c7a0113", null ],
-    [ "PrepareSpellScript", "de/dca/a22927.html#a6caaa93244719d7fc8c3f28280a3c1c5", null ],
-    [ "Register", "de/dca/a22927.html#a99e2243ca4372eab1a742f8979d61334", null ]
+    [ "HandleAfterCast", "de/dca/a22927.html#a32928b579ef42f377e911ef27197ed61", null ],
+    [ "HandleDummy", "de/dca/a22927.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
+    [ "Load", "de/dca/a22927.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
+    [ "PrepareSpellScript", "de/dca/a22927.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
+    [ "Register", "de/dca/a22927.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
+    [ "_targetCount", "de/dca/a22927.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
 ];

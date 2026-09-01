@@ -1,6 +1,7 @@
 var a27395 =
 [
-    [ "DoAfterHit", "d4/d81/a27395.html#a38ede5147a11c41770c4483a70d81e5d", null ],
-    [ "PrepareSpellScript", "d4/d81/a27395.html#abcc738fc154e6be5de168fb23be806f4", null ],
-    [ "Register", "d4/d81/a27395.html#ac81d60d54a87a23bd9481934f5753de0", null ]
+    [ "CalculateAmount", "d4/d81/a27395.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
+    [ "Load", "d4/d81/a27395.html#ae2ef0eae77137c120ec61af8698677db", null ],
+    [ "PrepareAuraScript", "d4/d81/a27395.html#acaecc78c031aa436f432fd7145478de4", null ],
+    [ "Register", "d4/d81/a27395.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
 ];

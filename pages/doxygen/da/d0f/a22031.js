@@ -1,6 +1,8 @@
 var a22031 =
 [
-    [ "HandleScriptEffect", "da/d0f/a22031.html#a0d6a2eda99d95b1ee3403d8c63415800", null ],
-    [ "PrepareSpellScript", "da/d0f/a22031.html#a68920ab07d955763e8a627e6cb35638c", null ],
-    [ "Register", "da/d0f/a22031.html#a918cf6968f6eec5a4025324bd7f78747", null ]
+    [ "HandleEffectApply", "da/d0f/a22031.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "da/d0f/a22031.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "da/d0f/a22031.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "da/d0f/a22031.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "da/d0f/a22031.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

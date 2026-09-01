@@ -1,5 +1,8 @@
 var a20687 =
 [
-    [ "go_ulduar_do_not_push_this_button", "dd/d47/a20687.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "dd/d47/a20687.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "HandleEffectApply", "dd/d47/a20687.html#a9b4ef881ded9d7b1e4cbdf61af70cdeb", null ],
+    [ "HandleEffectPeriodic", "dd/d47/a20687.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "HandleEffectRemove", "dd/d47/a20687.html#a5750666947a5899d7ef46678eadb4872", null ],
+    [ "PrepareAuraScript", "dd/d47/a20687.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "dd/d47/a20687.html#a524c071390365b7dab59bc7a79b50f15", null ]
 ];

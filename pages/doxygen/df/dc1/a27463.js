@@ -1,8 +1,7 @@
 var a27463 =
 [
-    [ "CheckProc", "df/dc1/a27463.html#a2e564758a050827108955f73a08e72e7", null ],
-    [ "PrepareAuraScript", "df/dc1/a27463.html#a5993871d8837b43580818fa94e1bccc2", null ],
-    [ "Register", "df/dc1/a27463.html#a24faa9992523bc87df7f5ebccfb42233", null ],
-    [ "WasUsedByMutilate", "df/dc1/a27463.html#af31c8d77307f3cf3acee06e0b159925e", null ],
-    [ "_usedByMutilate", "df/dc1/a27463.html#a3f5cde7b3af5c3a6b75d76b742cae54b", null ]
+    [ "HandleProc", "df/dc1/a27463.html#adec7010a0de4ab9e8756d345c4adff14", null ],
+    [ "PrepareAuraScript", "df/dc1/a27463.html#a16986cb0bf0e46d44a640486580480aa", null ],
+    [ "Register", "df/dc1/a27463.html#a093cac6e19a12d01b7dba974b595502e", null ],
+    [ "Validate", "df/dc1/a27463.html#a558005f2d0ed6d42705a3e0ee940ffcc", null ]
 ];

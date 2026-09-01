@@ -1,7 +1,6 @@
 var a23439 =
 [
-    [ "boss_hydromancer_thespia", "de/d08/a23439.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "de/d08/a23439.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "de/d08/a23439.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "de/d08/a23439.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "instance_the_slave_pens_InstanceMapScript", "dd/d1e/a23443.html", "dd/d1e/a23443" ],
+    [ "instance_the_slave_pens", "de/d08/a23439.html#a765f7b66ad3bed1828524ecb143742f2", null ],
+    [ "GetInstanceScript", "de/d08/a23439.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
 ];
