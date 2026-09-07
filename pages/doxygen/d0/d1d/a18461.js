@@ -1,6 +1,7 @@
 var a18461 =
 [
-    [ "FilterTargets", "d0/d1d/a18461.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
-    [ "PrepareSpellScript", "d0/d1d/a18461.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
-    [ "Register", "d0/d1d/a18461.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
+    [ "FrostwyrmLandEvent", "d0/d1d/a18461.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
+    [ "Execute", "d0/d1d/a18461.html#a4da77796a223e6233ac6d908f7700623", null ],
+    [ "_dest", "d0/d1d/a18461.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
+    [ "_owner", "d0/d1d/a18461.html#a6336050092606ebb27a180abff55dfa2", null ]
 ];

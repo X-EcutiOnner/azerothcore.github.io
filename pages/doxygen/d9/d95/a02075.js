@@ -1,4 +1,4 @@
 var a02075 =
 [
-    [ "ScriptRegistry< AllSpellScript >", "d9/d95/a02075.html#a6fb50c7d667ae3d14a6d307b0862e957", null ]
+    [ "_modulesList", "d9/d95/a02075.html#aa8df8c5e3d2ad2852ea850d12636d578", null ]
 ];

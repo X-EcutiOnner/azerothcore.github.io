@@ -1,11 +1,7 @@
 var a20601 =
 [
-    [ "npc_ulduar_expedition_engineer", "df/d43/a20601.html#af3fe5048712bae3add6867e998c2824d", null ],
-    [ "Reset", "df/d43/a20601.html#a7bbdbdaed353d450161e470e5f656c17", null ],
-    [ "SetData", "df/d43/a20601.html#a9a714463750de3513e65174f796fb4de", null ],
-    [ "UpdateAI", "df/d43/a20601.html#a78de5d8e8194e1ae362f9eb666a55404", null ],
-    [ "fixingGUID", "df/d43/a20601.html#af8f7c3106d392a7b6697af3ffd14121f", null ],
-    [ "pInstance", "df/d43/a20601.html#a1516880c5fb17bccd95d8e3b615c4175", null ],
-    [ "timer", "df/d43/a20601.html#a57f187130777929a921e2c35b6f43559", null ],
-    [ "working", "df/d43/a20601.html#a3450381dc89cabede2ccde6feab96dad", null ]
+    [ "FilterTargetsInitial", "df/d43/a20601.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
+    [ "Load", "df/d43/a20601.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
+    [ "PrepareSpellScript", "df/d43/a20601.html#a4d1e588557fa3fa432d4015fda930877", null ],
+    [ "Register", "df/d43/a20601.html#a0428375ddb89907e7f1728757d55d052", null ]
 ];

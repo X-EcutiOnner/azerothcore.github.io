@@ -1,49 +1,49 @@
 var a02528 =
 [
-    [ "DoorData", "de/d01/a10067.html", "de/d01/a10067" ],
-    [ "BossBoundaryEntry", "d6/d8f/a10071.html", "d6/d8f/a10071" ],
-    [ "BossBoundaryData", "d5/d38/a10075.html", "d5/d38/a10075" ],
-    [ "MinionData", "df/d54/a10079.html", "df/d54/a10079" ],
-    [ "ObjectData", "d0/dc9/a10083.html", "d0/dc9/a10083" ],
-    [ "BossInfo", "db/dfb/a10087.html", "db/dfb/a10087" ],
-    [ "DoorInfo", "dc/de2/a10091.html", "dc/de2/a10091" ],
-    [ "MinionInfo", "d1/dc6/a10095.html", "d1/dc6/a10095" ],
-    [ "InstanceScript", "dd/d50/a10099.html", "dd/d50/a10099" ],
-    [ "OUT_LOAD_INST_DATA", "d8/d65/a02528.html#aafbf0073420e9a897ec0f243f4793a0f", null ],
-    [ "OUT_LOAD_INST_DATA_COMPLETE", "d8/d65/a02528.html#a490e19560f068912b0e3dbd61c689b44", null ],
-    [ "OUT_LOAD_INST_DATA_FAIL", "d8/d65/a02528.html#a141fd6fe34ebbd5c3ad507db42f41b4a", null ],
-    [ "OUT_SAVE_INST_DATA", "d8/d65/a02528.html#a65ed3183971093dcebed99d1ec6d6d63", null ],
-    [ "OUT_SAVE_INST_DATA_COMPLETE", "d8/d65/a02528.html#a3a93295e3500f757163145c03e90db3d", null ],
-    [ "DoorInfoMap", "d8/d65/a02528.html#ab665e2d424a75aeb6703ccd08050676c", null ],
-    [ "DoorInfoMapBounds", "d8/d65/a02528.html#ac55e7bd9aa319ccb4e7a22a3e35c3326", null ],
-    [ "DoorSet", "d8/d65/a02528.html#a17be047bdb4b0361cdee9637ff279e9f", null ],
-    [ "MinionInfoMap", "d8/d65/a02528.html#a3b05920ad054e3f59bf988485603d2de", null ],
-    [ "MinionSet", "d8/d65/a02528.html#add004a84abc4c98dae65145dce2d17bb", null ],
-    [ "ObjectGuidMap", "d8/d65/a02528.html#a3c451c29106077a2c6f8f88facbb2c69", null ],
-    [ "ObjectInfoMap", "d8/d65/a02528.html#ac2936b863aac3fd2483eae5e234ac053", null ],
-    [ "ObjectStateMap", "d8/d65/a02528.html#a4edbb4a71661ac569a73338c83672f9d", null ],
-    [ "DoorType", "d8/d65/a02528.html#ac3549b9e861c142e11e5ad86b8b6947e", [
-      [ "DOOR_TYPE_ROOM", "d8/d65/a02528.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70", null ],
-      [ "DOOR_TYPE_PASSAGE", "d8/d65/a02528.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905", null ],
-      [ "DOOR_TYPE_SPAWN_HOLE", "d8/d65/a02528.html#ac3549b9e861c142e11e5ad86b8b6947ea05ae5ae0867f3b0c721a17ac307ff7bb", null ],
-      [ "MAX_DOOR_TYPES", "d8/d65/a02528.html#ac3549b9e861c142e11e5ad86b8b6947eac54cf58ec577ca37abba35d02ff97571", null ]
+    [ "zm_beacon", "d7/dcb/a22669.html", "d7/dcb/a22669" ],
+    [ "OPvPCapturePointZM_Beacon", "d9/d19/a22673.html", "d9/d19/a22673" ],
+    [ "OPvPCapturePointZM_Graveyard", "d4/df5/a22677.html", "d4/df5/a22677" ],
+    [ "OutdoorPvPZM", "d5/dac/a22681.html", "d5/dac/a22681" ],
+    [ "OutdoorPvPZMSpells", "d8/d65/a02528.html#ac31cd7a23fe2f82e25ababd3a8b700a1", [
+      [ "ZM_CAPTURE_BUFF", "d8/d65/a02528.html#ac31cd7a23fe2f82e25ababd3a8b700a1a5039b0bd2a7689f857a4ecc871d5b16d", null ],
+      [ "ZM_BATTLE_STANDARD_A", "d8/d65/a02528.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5", null ],
+      [ "ZM_BATTLE_STANDARD_H", "d8/d65/a02528.html#ac31cd7a23fe2f82e25ababd3a8b700a1a0513ef6309adc490c793ee1dc5bc8614", null ],
+      [ "ZM_AlliancePlayerKillReward", "d8/d65/a02528.html#ac31cd7a23fe2f82e25ababd3a8b700a1a53fad383bb7058d8c1a272bd6d9523a3", null ],
+      [ "ZM_HordePlayerKillReward", "d8/d65/a02528.html#ac31cd7a23fe2f82e25ababd3a8b700a1a6f9de137a24ee5d457ee7e2c093b398b", null ]
     ] ],
-    [ "EncounterFrameType", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477d", [
-      [ "ENCOUNTER_FRAME_ENGAGE", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477daf39a3442170d2b9d97b31f1aa952053a", null ],
-      [ "ENCOUNTER_FRAME_DISENGAGE", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477daade40d90f5283e0cf9f587ddbe1bcc22", null ],
-      [ "ENCOUNTER_FRAME_UPDATE_PRIORITY", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477dab466d621ed48059fed64ca588282a9bc", null ],
-      [ "ENCOUNTER_FRAME_ADD_TIMER", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477dac4db9282020e33d1fff31aeeeac8d689", null ],
-      [ "ENCOUNTER_FRAME_ENABLE_OBJECTIVE", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477da0f44e24d1a7751fed4d394719579336c", null ],
-      [ "ENCOUNTER_FRAME_UPDATE_OBJECTIVE", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477dac2613e711f746c05f27d7aa0eae3d51b", null ],
-      [ "ENCOUNTER_FRAME_DISABLE_OBJECTIVE", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477dac1903193f76dfb04f3009b98b4ddce1c", null ],
-      [ "ENCOUNTER_FRAME_REFRESH_FRAMES", "d8/d65/a02528.html#a2b83b4959bad3f736ee0463c50b9477dac4ca16adedcc16b4cac2ad580ed3e8ec", null ]
+    [ "ZM_BeaconType", "d8/d65/a02528.html#a8493feec67db9c938c31465f24f60fe1", [
+      [ "ZM_BEACON_EAST", "d8/d65/a02528.html#a8493feec67db9c938c31465f24f60fe1a034b065f7219f5b4a6d983ed694e7a80", null ],
+      [ "ZM_BEACON_WEST", "d8/d65/a02528.html#a8493feec67db9c938c31465f24f60fe1a36b102e6d45f41b4db14e889ffac46e2", null ],
+      [ "ZM_NUM_BEACONS", "d8/d65/a02528.html#a8493feec67db9c938c31465f24f60fe1a9e566b7b7f64cae5ea6a37a289f16ce3", null ]
     ] ],
-    [ "EncounterState", "d8/d65/a02528.html#ab6cf09cd975286c705a19a75a947d438", [
-      [ "NOT_STARTED", "d8/d65/a02528.html#ab6cf09cd975286c705a19a75a947d438ae7d82dfe80ea0bd4feea8ee49ea2eab5", null ],
-      [ "IN_PROGRESS", "d8/d65/a02528.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012", null ],
-      [ "FAIL", "d8/d65/a02528.html#ab6cf09cd975286c705a19a75a947d438a936c4a5547a9360243178f726f6b2715", null ],
-      [ "DONE", "d8/d65/a02528.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749", null ],
-      [ "SPECIAL", "d8/d65/a02528.html#ab6cf09cd975286c705a19a75a947d438aaa5259d84d06214a7b0503d636790465", null ],
-      [ "TO_BE_DECIDED", "d8/d65/a02528.html#ab6cf09cd975286c705a19a75a947d438af259c60d63b511a33d9f0d1094c45958", null ]
-    ] ]
+    [ "Zm_GraveyardState", "d8/d65/a02528.html#ad13518df9718347908929a97748d3636", [
+      [ "ZM_GRAVEYARD_N", "d8/d65/a02528.html#ad13518df9718347908929a97748d3636a87f32a40b9ae4243e7977085b4dab7c0", null ],
+      [ "ZM_GRAVEYARD_A", "d8/d65/a02528.html#ad13518df9718347908929a97748d3636aef470c9322dded10641afcc6a153e329", null ],
+      [ "ZM_GRAVEYARD_H", "d8/d65/a02528.html#ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065", null ]
+    ] ],
+    [ "ZM_TowerStateMask", "d8/d65/a02528.html#a5d44e96b24b1f1215d1b3788b212f11c", [
+      [ "ZM_TOWERSTATE_N", "d8/d65/a02528.html#a5d44e96b24b1f1215d1b3788b212f11ca03d2918a6a9915b33da0f120feb7d5da", null ],
+      [ "ZM_TOWERSTATE_A", "d8/d65/a02528.html#a5d44e96b24b1f1215d1b3788b212f11cab51c5d640c62f5336ec7c5a1028f73d0", null ],
+      [ "ZM_TOWERSTATE_H", "d8/d65/a02528.html#a5d44e96b24b1f1215d1b3788b212f11ca206f55050d03bbc30f690c7e669e1831", null ]
+    ] ],
+    [ "ZMCreatureTypes", "d8/d65/a02528.html#aa6fc4a297b329d62073dd503d4f647c5", [
+      [ "ZM_ALLIANCE_FIELD_SCOUT", "d8/d65/a02528.html#aa6fc4a297b329d62073dd503d4f647c5ab0f9fb0eee307b47658f6742db0a4d82", null ],
+      [ "ZM_HORDE_FIELD_SCOUT", "d8/d65/a02528.html#aa6fc4a297b329d62073dd503d4f647c5a51001197c09a749a8d042df6fc5d0d62", null ],
+      [ "ZM_CREATURE_NUM", "d8/d65/a02528.html#aa6fc4a297b329d62073dd503d4f647c5a47e8909e9a6a41604775c672ec3587ae", null ]
+    ] ],
+    [ "OutdoorPvPZMBuffZones", "d8/d65/a02528.html#a42debbed89bc9a37f04d7da9f1ba5362", null ],
+    [ "OutdoorPvPZMBuffZonesNum", "d8/d65/a02528.html#afd164ef928ed19895648e76207433805", null ],
+    [ "ZM_AllianceFieldScout", "d8/d65/a02528.html#a308db265dfb26d8d04ea2b44077d3b42", null ],
+    [ "ZM_Banner_A", "d8/d65/a02528.html#a986fade5573769277e5c9e99dc243d78", null ],
+    [ "ZM_Banner_H", "d8/d65/a02528.html#a5eae372f5bc43c36af04c8833002ca79", null ],
+    [ "ZM_Banner_N", "d8/d65/a02528.html#a9bf0e9dee2e0ae4731dd302373e18542", null ],
+    [ "ZM_GRAVEYARD_ID", "d8/d65/a02528.html#adc060a8578a0685e98f94a0d51c3613b", null ],
+    [ "ZM_GRAVEYARD_ZONE", "d8/d65/a02528.html#a32c62572b4ea0ef1930cffc3e9e2c6fe", null ],
+    [ "ZM_HordeFieldScout", "d8/d65/a02528.html#aa18435dfdf68c3f5ac5218ce2e4909d0", null ],
+    [ "ZMBeaconCaptureA", "d8/d65/a02528.html#aefc7683d5c310d6513a4bc64e0562f24", null ],
+    [ "ZMBeaconCaptureH", "d8/d65/a02528.html#a3cf4b21d832f1993b7bbef74516f4690", null ],
+    [ "ZMBeaconInfo", "d8/d65/a02528.html#af392c2c0a8da38f6782ab0ed0501a448", null ],
+    [ "ZMBeaconLoseA", "d8/d65/a02528.html#ace5e051bf69a2b4be978b04c832c5592", null ],
+    [ "ZMBeaconLoseH", "d8/d65/a02528.html#a32e1a277d31ee3f4a23f291ccb4798e6", null ],
+    [ "ZMCapturePoints", "d8/d65/a02528.html#a397f5867c1a3f99cf044124a4a621324", null ]
 ];

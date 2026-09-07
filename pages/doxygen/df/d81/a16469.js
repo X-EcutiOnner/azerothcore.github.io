@@ -1,6 +1,6 @@
 var a16469 =
 [
-    [ "boss_baltharus_the_warbornAI", "df/d52/a16473.html", "df/d52/a16473" ],
-    [ "boss_baltharus_the_warborn", "df/d81/a16469.html#aababb8862273d60f140dce675131783d", null ],
-    [ "GetAI", "df/d81/a16469.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
+    [ "HandleScriptEffect", "df/d81/a16469.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "df/d81/a16469.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "df/d81/a16469.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

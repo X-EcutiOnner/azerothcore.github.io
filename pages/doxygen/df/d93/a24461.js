@@ -1,9 +1,8 @@
 var a24461 =
 [
-    [ "Absorb", "df/d93/a24461.html#ae5101c9adc7b9d09daf9c78d5e6d9d14", null ],
-    [ "CalculateAmount", "df/d93/a24461.html#a0e88abc0dfc1f0aa5c52f3602f99d45a", null ],
-    [ "Load", "df/d93/a24461.html#ab7eae0747736dea5633ef51eb0945fae", null ],
-    [ "PrepareAuraScript", "df/d93/a24461.html#a760b72149ee11ad88e290c9537b3094b", null ],
-    [ "Register", "df/d93/a24461.html#a0d25efee128ee95f9ad268b53358f376", null ],
-    [ "absorbPct", "df/d93/a24461.html#a31091ef6a0d39e1d498420a85f6c84fa", null ]
+    [ "npc_pet_gen_valkyr_guardian", "df/d93/a24461.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "df/d93/a24461.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "df/d93/a24461.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "df/d93/a24461.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "df/d93/a24461.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

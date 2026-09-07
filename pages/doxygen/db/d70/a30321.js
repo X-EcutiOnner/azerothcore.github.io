@@ -1,10 +1,9 @@
 var a30321 =
 [
-    [ "Exception", "db/d70/a30321.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "db/d70/a30321.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "Exception", "db/d70/a30321.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "db/d70/a30321.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "getMessage", "db/d70/a30321.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "getMessage", "db/d70/a30321.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "message", "db/d70/a30321.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
+    [ "Flags", "db/d70/a30321.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "db/d70/a30321.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "db/d70/a30321.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "db/d70/a30321.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "db/d70/a30321.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "db/d70/a30321.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

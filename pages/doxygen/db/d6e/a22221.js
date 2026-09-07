@@ -1,7 +1,12 @@
 var a22221 =
 [
-    [ "HandleScript", "db/d6e/a22221.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "db/d6e/a22221.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "db/d6e/a22221.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "db/d6e/a22221.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "npc_tournament_training_dummyAI", "db/d6e/a22221.html#ab84a35b5145c74f16dfbbe020dd9a73b", null ],
+    [ "DamageTaken", "db/d6e/a22221.html#a98c18794124922e6946a82a324410837", null ],
+    [ "EnterEvadeMode", "db/d6e/a22221.html#a3f31d705284b0fad2f00c9210ff06646", null ],
+    [ "MoveInLineOfSight", "db/d6e/a22221.html#a7a05c8682767f5a2d847e99eeed8e00f", null ],
+    [ "Reset", "db/d6e/a22221.html#a7339ffe52dc789f9480afca7141a169e", null ],
+    [ "SpellHit", "db/d6e/a22221.html#a5cd56075333fb59ddd8d4a48dc2eecdf", null ],
+    [ "UpdateAI", "db/d6e/a22221.html#a8bba917f0e0d67cd7a0121ab71d5a419", null ],
+    [ "events", "db/d6e/a22221.html#a77fa2ef2f15208ab8b284c71e0227fc4", null ],
+    [ "isVulnerable", "db/d6e/a22221.html#a4a4d3029a329e6eb253bc57c5f7b2a98", null ]
 ];

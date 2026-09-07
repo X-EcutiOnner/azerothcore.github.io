@@ -1,6 +1,8 @@
 var a25217 =
 [
-    [ "OnApply", "db/d27/a25217.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
-    [ "PrepareAuraScript", "db/d27/a25217.html#a159ee8a9b0af729ed01f7632adb58863", null ],
-    [ "Register", "db/d27/a25217.html#a0f33043317402119aa14e50a1eb6c227", null ]
+    [ "CheckIfCorpseNear", "db/d27/a25217.html#afdf1bca2e23057d99962fb1000e9245e", null ],
+    [ "HandleDummy", "db/d27/a25217.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
+    [ "PrepareSpellScript", "db/d27/a25217.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
+    [ "Register", "db/d27/a25217.html#a22f4c5321769384b2b708f19edea1a66", null ],
+    [ "Validate", "db/d27/a25217.html#a855fdba79c4fa087253505ed419b9966", null ]
 ];

@@ -1,8 +1,8 @@
 var a05729 =
 [
-    [ "~Runnable", "df/ddb/a05729.html#add1dc9a377ee89c32cc40c42907e5bd8", null ],
-    [ "decReference", "df/ddb/a05729.html#a69bf63c7f684de6e278de0468ed8fa06", null ],
-    [ "incReference", "df/ddb/a05729.html#a062323e141fa33ae094adbef16caf3d6", null ],
-    [ "run", "df/ddb/a05729.html#ad92d9c0459fbcc59d2b0d8fe2ed620c9", null ],
-    [ "m_refs", "df/ddb/a05729.html#ae047c0949843835f0b240484df01b7f8", null ]
+    [ "LogOperation", "df/ddb/a05729.html#a19e5e4731bd71697876110348f86d737", null ],
+    [ "~LogOperation", "df/ddb/a05729.html#aae305e293044badac1a628edd501ed35", null ],
+    [ "call", "df/ddb/a05729.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
+    [ "logger", "df/ddb/a05729.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
+    [ "msg", "df/ddb/a05729.html#a665effc48367f396f3e714f5d3d56d75", null ]
 ];

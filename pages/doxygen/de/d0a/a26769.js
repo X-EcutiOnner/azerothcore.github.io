@@ -1,8 +1,6 @@
 var a26769 =
 [
-    [ "CheckProc", "de/d0a/a26769.html#ab37749506a197a97cb3cc567cdff199c", null ],
-    [ "HandleProc", "de/d0a/a26769.html#a4af1cc19b8ccc4ce0d3bdcaa93a3cce2", null ],
-    [ "PrepareAuraScript", "de/d0a/a26769.html#a0c7c91113f0a4a289dcc5e53450a635a", null ],
-    [ "Register", "de/d0a/a26769.html#af52bd6c3d698e3e1f7144431ee5c7d69", null ],
-    [ "Validate", "de/d0a/a26769.html#aa4639d482cfda229e0a6eaa53c320ea8", null ]
+    [ "FilterTargets", "de/d0a/a26769.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21", null ],
+    [ "PrepareSpellScript", "de/d0a/a26769.html#a5992d94317d3da7400d5a9ab115e621e", null ],
+    [ "Register", "de/d0a/a26769.html#a125ce6c8dfdc6419b4409c72f74fcf85", null ]
 ];

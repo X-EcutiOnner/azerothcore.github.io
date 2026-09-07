@@ -1,7 +1,8 @@
 var a23681 =
 [
-    [ "Load", "dc/d0d/a23681.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "dc/d0d/a23681.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "dc/d0d/a23681.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "dc/d0d/a23681.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "npc_target_trigger", "dc/d0d/a23681.html#a238058ba80130c6239b7267db3247196", null ],
+    [ "Reset", "dc/d0d/a23681.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
+    [ "UpdateAI", "dc/d0d/a23681.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
+    [ "_cast", "dc/d0d/a23681.html#a4ec89ca960323f7ad135d5a425a82416", null ],
+    [ "_scheduler", "dc/d0d/a23681.html#a9b418b09e25c8f96692b4e2626339c96", null ]
 ];

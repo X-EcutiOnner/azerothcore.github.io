@@ -1,9 +1,5 @@
 var a01349 =
 [
-    [ "AchievementVisitor", "d5/d12/a07975.html", "d5/d12/a07975" ],
-    [ "GameTeleVisitor", "d5/ddf/a07979.html", "d5/ddf/a07979" ],
-    [ "ItemTemplateVisitor", "de/d8a/a07983.html", "de/d8a/a07983" ],
-    [ "SpellInfoVisitor", "de/d30/a07987.html", "de/d30/a07987" ],
-    [ "QuestVisitor", "dc/d3a/a07991.html", "dc/d3a/a07991" ],
-    [ "ChatCommandResult", "de/d6c/a01349.html#ad9c9d483b96ed400318aed8441ebe7f1", null ]
+    [ "holetab_h", "de/d6c/a01349.html#a10e90ca95e60d3244de3e68d7882433b", null ],
+    [ "holetab_v", "de/d6c/a01349.html#a54b408dce116992610ba9c141426d821", null ]
 ];

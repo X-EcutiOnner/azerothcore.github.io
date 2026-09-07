@@ -1,6 +1,6 @@
 var a14485 =
 [
-    [ "FilterTargets", "da/d31/a14485.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
-    [ "PrepareSpellScript", "da/d31/a14485.html#a0a1cbde8aff10303d91a791276a865f4", null ],
-    [ "Register", "da/d31/a14485.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
+    [ "boss_gahzranka", "da/d31/a14485.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "da/d31/a14485.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "da/d31/a14485.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

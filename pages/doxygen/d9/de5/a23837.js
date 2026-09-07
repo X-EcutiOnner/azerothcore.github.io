@@ -1,7 +1,9 @@
 var a23837 =
 [
-    [ "HandleDummy", "d9/de5/a23837.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d9/de5/a23837.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d9/de5/a23837.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d9/de5/a23837.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "boss_high_botanist_freywinn", "d9/de5/a23837.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
+    [ "JustDied", "d9/de5/a23837.html#a7b370482ea195d0305cba339ce0cbab3", null ],
+    [ "JustEngagedWith", "d9/de5/a23837.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
+    [ "KilledUnit", "d9/de5/a23837.html#a80a997e0d12c175da0a46d7362890b9c", null ],
+    [ "ResumeEncounter", "d9/de5/a23837.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
+    [ "SummonedCreatureDies", "d9/de5/a23837.html#a7f1a02d4b944191471f59ba728b6372e", null ]
 ];

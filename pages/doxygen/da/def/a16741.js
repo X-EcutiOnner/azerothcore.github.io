@@ -1,8 +1,6 @@
 var a16741 =
 [
-    [ "npc_toc5_player_vehicleAI", "da/def/a16741.html#afa00a6254b482aae5397be04860ac8ba", null ],
-    [ "BeforeSpellClick", "da/def/a16741.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
-    [ "OnCharmed", "da/def/a16741.html#ace805882a25a9d075d811714e607fa2b", null ],
-    [ "PassengerBoarded", "da/def/a16741.html#aca35804df751185193ff5865255d3687", null ],
-    [ "Reset", "da/def/a16741.html#a5439b98d544124836d2cf9762f764cea", null ]
+    [ "npc_memoryAI", "dd/d7b/a16745.html", "dd/d7b/a16745" ],
+    [ "npc_memory", "da/def/a16741.html#acebf31813025d323f9486d6575a60483", null ],
+    [ "GetAI", "da/def/a16741.html#ad8e532d029217a06d11ae39810498976", null ]
 ];

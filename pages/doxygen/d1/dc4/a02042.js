@@ -1,6 +1,10 @@
 var a02042 =
 [
-    [ "ScriptMgr", "d6/d5a/a10899.html", "d6/d5a/a10899" ],
-    [ "ScriptRegistry< TScript >", "d3/d77/a10903.html", "d3/d77/a10903" ],
-    [ "sScriptMgr", "d1/dc4/a02042.html#ae8161e629869974bc49b1cbfc73c1087", null ]
+    [ "AddGossipItemFor", "d1/dc4/a02042.html#a21e32e886a589c9093660b3c4c58f72c", null ],
+    [ "AddGossipItemFor", "d1/dc4/a02042.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5", null ],
+    [ "AddGossipItemFor", "d1/dc4/a02042.html#acd7e8e52a911742a99728cf9408e23b8", null ],
+    [ "ClearGossipMenuFor", "d1/dc4/a02042.html#af077a82741577a63a075c7d40b3b3dc5", null ],
+    [ "CloseGossipMenuFor", "d1/dc4/a02042.html#af8f7e54dac5ecc86e92d780c3918cb09", null ],
+    [ "SendGossipMenuFor", "d1/dc4/a02042.html#ad893abf2b09592b57715ef4a3222a2b3", null ],
+    [ "SendGossipMenuFor", "d1/dc4/a02042.html#ab43ecd551b53630add88fbf882236f78", null ]
 ];

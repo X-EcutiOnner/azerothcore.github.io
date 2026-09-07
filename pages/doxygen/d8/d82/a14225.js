@@ -1,10 +1,11 @@
 var a14225 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "d8/d82/a14225.html#af7d495f489979690615d091bbd9d539b", null ],
-    [ "CanAIAttack", "d8/d82/a14225.html#af332a66852c9499912d8ef4959f394f5", null ],
-    [ "InitializeAI", "d8/d82/a14225.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
-    [ "JustRespawned", "d8/d82/a14225.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
-    [ "Reset", "d8/d82/a14225.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
-    [ "UpdateAI", "d8/d82/a14225.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
-    [ "_events", "d8/d82/a14225.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
+    [ "npc_valkyr_battle_maiden", "d8/d82/a14225.html#a718f5058fd6d6f1d27b88991b91ef42e", null ],
+    [ "Reset", "d8/d82/a14225.html#a98bdd53f82cb30908485de8834106ef8", null ],
+    [ "UpdateAI", "d8/d82/a14225.html#a981237a3192d65117864daed0ac83197", null ],
+    [ "FlyBackTimer", "d8/d82/a14225.html#ab6843fb900cebc4659a98837a6d678a7", null ],
+    [ "phase", "d8/d82/a14225.html#a83cf215a2f4c8fea4c87c4dc43398298", null ],
+    [ "x", "d8/d82/a14225.html#a26087a56f66a399c4b444a7e226d82f3", null ],
+    [ "y", "d8/d82/a14225.html#a55eb219c646ecd63b99745792c1c8a03", null ],
+    [ "z", "d8/d82/a14225.html#af9781f785ebde34cab533cff9cf2b8db", null ]
 ];

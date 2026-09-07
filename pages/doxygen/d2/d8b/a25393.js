@@ -1,7 +1,11 @@
 var a25393 =
 [
-    [ "HandleProc", "d2/d8b/a25393.html#a8713f0e7fae54fc4f5ead19351bec0d8", null ],
-    [ "PrepareAuraScript", "d2/d8b/a25393.html#ac2a7ac008dca96bb8dc272118d184f3d", null ],
-    [ "Register", "d2/d8b/a25393.html#a36160ed669487cd87be364c2e37c0b0e", null ],
-    [ "Validate", "d2/d8b/a25393.html#acc97118979bfbcbb1d9fbd88e12c9650", null ]
+    [ "GetPennatSpellId", "d2/d8b/a25393.html#a1e327a79ce90cf7ebbec644ed15ff67f", null ],
+    [ "HandleApplyEffect", "d2/d8b/a25393.html#a396c05708a89758e4038b327e09c65e8", null ],
+    [ "HandleRemoveEffect", "d2/d8b/a25393.html#adf6fd3d2a36e1ff115b5c5109d37b7a4", null ],
+    [ "Load", "d2/d8b/a25393.html#afc83ecf02a1702d48fb39d60419bdbf1", null ],
+    [ "PrepareAuraScript", "d2/d8b/a25393.html#a0230d694e9325d7ac6ac6526ecb5a0e3", null ],
+    [ "Register", "d2/d8b/a25393.html#a46782a9dfb8ee2100be00afb6aa8b9a7", null ],
+    [ "Validate", "d2/d8b/a25393.html#a095b002671940f2b3504ae2646f76d5a", null ],
+    [ "_pennantSpellId", "d2/d8b/a25393.html#a092f0d88ede12dea699b39d5df04131c", null ]
 ];

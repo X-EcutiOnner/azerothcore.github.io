@@ -1,6 +1,8 @@
 var a15605 =
 [
-    [ "OnPeriodic", "dc/df9/a15605.html#a08dce8b98afadc134166a615b4496151", null ],
-    [ "PrepareAuraScript", "dc/df9/a15605.html#a9ebb34665b176e4e60f085da65183d8e", null ],
-    [ "Register", "dc/df9/a15605.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
+    [ "npc_obsidian_destroyer", "dc/df9/a15605.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "dc/df9/a15605.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "dc/df9/a15605.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "dc/df9/a15605.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "dc/df9/a15605.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

@@ -1,4 +1,8 @@
 var a22461 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "df/db9/a22461.html#a1523ad04993ce4ddf5b503355f7c856a", null ]
+    [ "npc_wg_queueAI", "dc/de7/a22465.html", "dc/de7/a22465" ],
+    [ "npc_wg_queue", "df/db9/a22461.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
+    [ "GetAI", "df/db9/a22461.html#ad2d7746a32b520d37ea826b03627de4e", null ],
+    [ "OnGossipHello", "df/db9/a22461.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
+    [ "OnGossipSelect", "df/db9/a22461.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
 ];

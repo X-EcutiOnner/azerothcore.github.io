@@ -1,6 +1,7 @@
 var a26977 =
 [
-    [ "HandleDummy", "df/ddd/a26977.html#abac8aa528d6d83748cf4cdbdaa8313f6", null ],
-    [ "PrepareSpellScript", "df/ddd/a26977.html#ae80dda98f66c1fbaa37741ffd52a1108", null ],
-    [ "Register", "df/ddd/a26977.html#a90fbc5d1b22cbc59550a430a63c08032", null ]
+    [ "HandleHeal", "df/ddd/a26977.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
+    [ "PrepareSpellScript", "df/ddd/a26977.html#a9de9260bc1e2582138c58a708e5d899c", null ],
+    [ "Register", "df/ddd/a26977.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
+    [ "Validate", "df/ddd/a26977.html#aa300822cf5455404482124a6853fb314", null ]
 ];

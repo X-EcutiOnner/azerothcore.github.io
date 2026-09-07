@@ -1,6 +1,11 @@
 var a22805 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "df/da1/a22805.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "df/da1/a22805.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
-    [ "UpdateAI", "df/da1/a22805.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "boss_gurtogg_bloodboil", "df/da1/a22805.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
+    [ "CanAIAttack", "df/da1/a22805.html#a60e6439bab689eb88a18612b6b46c713", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "df/da1/a22805.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
+    [ "JustDied", "df/da1/a22805.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
+    [ "JustEngagedWith", "df/da1/a22805.html#a0847173efbae252c2fbbaf1be17097cb", null ],
+    [ "JustSummoned", "df/da1/a22805.html#ae718666a1da0e93cb0965c42c40b51df", null ],
+    [ "KilledUnit", "df/da1/a22805.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
+    [ "Reset", "df/da1/a22805.html#add25677d422b8bddcb753465451f0584", null ]
 ];

@@ -1,6 +1,7 @@
 var a12237 =
 [
-    [ "rainChance", "d2/d9d/a05056.html#ga8c3d9f1d251a9b167c9adc99101e5612", null ],
-    [ "snowChance", "d2/d9d/a05056.html#ga474650c5237c4a7428e858775fea7b86", null ],
-    [ "stormChance", "d2/d9d/a05056.html#gaa50e5243877e8283f30ee9376b2d519e", null ]
+    [ "PlayerGuid", "d0/dbf/a12237.html#a629a600c48376d04293c225390f747ff", null ],
+    [ "PrimaryKey", "d0/dbf/a12237.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
+    [ "StoredType", "d0/dbf/a12237.html#a9bea7cf549813010b55c23417d65edc6", null ],
+    [ "TableName", "d0/dbf/a12237.html#a0f308af88812c110c490c94368bda482", null ]
 ];

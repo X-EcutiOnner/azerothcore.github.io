@@ -1,14 +1,14 @@
 var a12713 =
 [
-    [ "boss_mor_grayhoof", "d4/d2e/a12713.html#aef1001233a51ad3bb9963c540d39d79b", null ],
-    [ "CastRandomSpell", "d4/d2e/a12713.html#a00756d64d24088ebf408153fcb59ff13", null ],
-    [ "DamageTaken", "d4/d2e/a12713.html#a164a911eb9a86964a61866c05d44512f", null ],
-    [ "JustDied", "d4/d2e/a12713.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
-    [ "JustEngagedWith", "d4/d2e/a12713.html#a043f6ee099efd0d49982b2966604e65a", null ],
-    [ "Reset", "d4/d2e/a12713.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
-    [ "UpdateAI", "d4/d2e/a12713.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
-    [ "_phase", "d4/d2e/a12713.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
-    [ "_scheduler", "d4/d2e/a12713.html#ad2a897281d308475957e2636c6536fdd", null ],
-    [ "_sleepTargetGUID", "d4/d2e/a12713.html#a8baa606696dc8acf532e8badfc6c624b", null ],
-    [ "_sleepTargetThreat", "d4/d2e/a12713.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
+    [ "boss_ambassador_flamelash", "d4/d2e/a12713.html#a4eec2a22080fb99671d4596a131957b1", null ],
+    [ "DoAction", "d4/d2e/a12713.html#ae34494448f93104750da92ff20730dc1", null ],
+    [ "getValidRandomPosition", "d4/d2e/a12713.html#a4585ec9b91b506fd78f344c1e8e83697", null ],
+    [ "JustDied", "d4/d2e/a12713.html#afdf68272e1acd47a8c6e4a0c18f0b6bf", null ],
+    [ "JustEngagedWith", "d4/d2e/a12713.html#a1629ac221933d038d71c256de914121b", null ],
+    [ "Reset", "d4/d2e/a12713.html#aa6e66bf78c714fad816e654ed37801e5", null ],
+    [ "SummonSpirits", "d4/d2e/a12713.html#a2674933aca19741e3c27eee7636e6774", null ],
+    [ "TurnRunes", "d4/d2e/a12713.html#a1332d0405911dcba90420a49936502aa", null ],
+    [ "UpdateAI", "d4/d2e/a12713.html#a891ab6cb21b16f9a6bd08934bbe7257d", null ],
+    [ "_foundValidPosition", "d4/d2e/a12713.html#ac6c1674f7e6b5c9f2f4be052cdf509a1", null ],
+    [ "_validPosition", "d4/d2e/a12713.html#a2a11c3d01e99c6737c8b7459336bb021", null ]
 ];

@@ -1,8 +1,7 @@
 var a24597 =
 [
-    [ "AfterRemove", "d1/dfc/a24597.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
-    [ "HandleDispel", "d1/dfc/a24597.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
-    [ "PrepareAuraScript", "d1/dfc/a24597.html#a44e66753516d693c31dba27c9d1ad250", null ],
-    [ "Register", "d1/dfc/a24597.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
-    [ "Validate", "d1/dfc/a24597.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
+    [ "CheckProc", "d1/dfc/a24597.html#a64414347ed5e132c3268451653082821", null ],
+    [ "HandleProc", "d1/dfc/a24597.html#a8a3eab47b8214b59275aeaa8a02e4240", null ],
+    [ "PrepareAuraScript", "d1/dfc/a24597.html#a88277eeea14f7799e27a4a897e6e8c0c", null ],
+    [ "Register", "d1/dfc/a24597.html#a3ce0dcd5becd38e10e2bb6e3d2f28e89", null ]
 ];

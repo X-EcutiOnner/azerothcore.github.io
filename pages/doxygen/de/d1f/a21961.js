@@ -1,6 +1,7 @@
 var a21961 =
 [
-    [ "npc_blessed_bannerAI", "dd/d22/a21965.html", "dd/d22/a21965" ],
-    [ "npc_blessed_banner", "de/d1f/a21961.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "de/d1f/a21961.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "HandleScriptEffect", "de/d1f/a21961.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
+    [ "PrepareSpellScript", "de/d1f/a21961.html#adf6593e47a5766c40e7e3859fce00f81", null ],
+    [ "Register", "de/d1f/a21961.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
+    [ "Validate", "de/d1f/a21961.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
 ];

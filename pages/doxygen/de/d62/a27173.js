@@ -1,8 +1,7 @@
 var a27173 =
 [
-    [ "CheckProc", "de/d62/a27173.html#a019b47e139e155c0803c0ce9a3a42f82", null ],
-    [ "HandleProc", "de/d62/a27173.html#a92fff2ae3b59c3dd62e92a11312f87ae", null ],
-    [ "PrepareAuraScript", "de/d62/a27173.html#a91ef63b96918e797e677423d51f94112", null ],
-    [ "Register", "de/d62/a27173.html#a5625b3a60a607bd07d4328aa1886cfc5", null ],
-    [ "Validate", "de/d62/a27173.html#ab6178007664afc34556336ec9620cd4f", null ]
+    [ "HandleEffectApply", "de/d62/a27173.html#a475d0bab96e226853368be3b68c5a2d3", null ],
+    [ "HandleEffectRemove", "de/d62/a27173.html#aa22a095e40789ac562a64c20d7eadb28", null ],
+    [ "PrepareAuraScript", "de/d62/a27173.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
+    [ "Register", "de/d62/a27173.html#a91e75a059828a30d509fd22be19048f8", null ]
 ];

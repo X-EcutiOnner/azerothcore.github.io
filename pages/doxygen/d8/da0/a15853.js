@@ -1,11 +1,8 @@
 var a15853 =
 [
-    [ "npc_kerlonianAI", "d8/da0/a15853.html#a0f7a4566ca93a174c92fe10e904af480", null ],
-    [ "ClearSleeping", "d8/da0/a15853.html#aea2815d79da4fa006ea150f052255b9d", null ],
-    [ "MoveInLineOfSight", "d8/da0/a15853.html#a8b0a606510d278f26099a125d583377a", null ],
-    [ "Reset", "d8/da0/a15853.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
-    [ "SetSleeping", "d8/da0/a15853.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
-    [ "SpellHit", "d8/da0/a15853.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
-    [ "UpdateFollowerAI", "d8/da0/a15853.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
-    [ "FallAsleepTimer", "d8/da0/a15853.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
+    [ "npc_injured_draeneiAI", "d8/da0/a15853.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
+    [ "JustEngagedWith", "d8/da0/a15853.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
+    [ "MoveInLineOfSight", "d8/da0/a15853.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
+    [ "Reset", "d8/da0/a15853.html#adcb601f739a91ce71926791885152471", null ],
+    [ "UpdateAI", "d8/da0/a15853.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
 ];

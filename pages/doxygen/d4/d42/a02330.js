@@ -1,4 +1,5 @@
 var a02330 =
 [
-    [ "ScriptRegistry< AuctionHouseScript >", "d4/d42/a02330.html#ac2271f3a8c4323137893dfd21d8d0003", null ]
+    [ "lookup_commandscript", "d2/db7/a12517.html", "d2/db7/a12517" ],
+    [ "AddSC_lookup_commandscript", "d4/d42/a02330.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
 ];

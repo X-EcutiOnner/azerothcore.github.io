@@ -1,10 +1,10 @@
 var a25041 =
 [
-    [ "Load", "d4/dab/a25041.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
-    [ "OnApply", "d4/dab/a25041.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
-    [ "OnRemove", "d4/dab/a25041.html#a29834c598d6ef8299d54e48a3461e603", null ],
-    [ "PrepareAuraScript", "d4/dab/a25041.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
-    [ "Register", "d4/dab/a25041.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
-    [ "Validate", "d4/dab/a25041.html#aeaf16594f569af671d221234a4aa2c8b", null ],
-    [ "prevItem", "d4/dab/a25041.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
+    [ "HandleEffectApply", "d4/dab/a25041.html#ac977d07e0b054af33345538f10d80c56", null ],
+    [ "HandleEffectRemove", "d4/dab/a25041.html#acd9c460acb60eae5db8874c246014147", null ],
+    [ "PrepareAuraScript", "d4/dab/a25041.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
+    [ "Register", "d4/dab/a25041.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
+    [ "_hasFlag", "d4/dab/a25041.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
+    [ "_itemId", "d4/dab/a25041.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
+    [ "_modelId", "d4/dab/a25041.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
 ];

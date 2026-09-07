@@ -1,6 +1,9 @@
 var a13197 =
 [
-    [ "HandleHit", "db/dc0/a13197.html#ae6dbaebdc4b0248215416e8d4550d2cb", null ],
-    [ "PrepareSpellScript", "db/dc0/a13197.html#ae08237f9eb95cc8a4b53a7de50af7b91", null ],
-    [ "Register", "db/dc0/a13197.html#a84853f416eb8250dc3d863dbe22a157f", null ]
+    [ "boss_curator", "db/dc0/a13197.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
+    [ "JustDied", "db/dc0/a13197.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
+    [ "JustEngagedWith", "db/dc0/a13197.html#a848f477a101956662389cab5ffcc0727", null ],
+    [ "JustSummoned", "db/dc0/a13197.html#ac779d275e03e6ba190617d215b217ce5", null ],
+    [ "KilledUnit", "db/dc0/a13197.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
+    [ "Reset", "db/dc0/a13197.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
 ];

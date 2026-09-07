@@ -1,12 +1,7 @@
 var a12561 =
 [
-    [ "boss_balinda", "df/d14/a12561.html#a2f3ce696dbc66843cddc13196800866b", null ],
-    [ "DamageTaken", "df/d14/a12561.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
-    [ "JustDied", "df/d14/a12561.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
-    [ "JustEngagedWith", "df/d14/a12561.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
-    [ "JustSummoned", "df/d14/a12561.html#a3c2306326d2f85fbb6766352117a1f91", null ],
-    [ "Reset", "df/d14/a12561.html#a1ecfa5d743682997076a47cce44b19f5", null ],
-    [ "UpdateAI", "df/d14/a12561.html#af3506dd75baef12fd0328aed21636978", null ],
-    [ "_hasCastIceBlock", "df/d14/a12561.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
-    [ "summons", "df/d14/a12561.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
+    [ "player_commandscript", "df/d14/a12561.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
+    [ "GetCommands", "df/d14/a12561.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
+    [ "HandlePlayerLearnCommand", "df/d14/a12561.html#a6ca511bcecf73049665772cb80dbcf40", null ],
+    [ "HandlePlayerUnLearnCommand", "df/d14/a12561.html#a22fddb5da1278fe794a78a899c423bfd", null ]
 ];

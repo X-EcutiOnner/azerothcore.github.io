@@ -1,7 +1,6 @@
 var a27485 =
 [
-    [ "HandleScriptEffect", "d2/d66/a27485.html#a328c1ba6ccd98e25e477a3f784cb47ff", null ],
-    [ "PrepareSpellScript", "d2/d66/a27485.html#aa211032991d8fd11d574cb364533a515", null ],
-    [ "Register", "d2/d66/a27485.html#a13315f197f2e6975dca00b53cbc599d2", null ],
-    [ "Validate", "d2/d66/a27485.html#a3b752f07631223199ed7ac404ed1afed", null ]
+    [ "HandleAfterCast", "d2/d66/a27485.html#aacd4954973c8157ca65958b9ec08155b", null ],
+    [ "PrepareSpellScript", "d2/d66/a27485.html#a45629d348275833930bc5180e9a347f9", null ],
+    [ "Register", "d2/d66/a27485.html#a9c43529cea77a4be86048616ebc64b2c", null ]
 ];

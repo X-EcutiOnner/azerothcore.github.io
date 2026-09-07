@@ -1,6 +1,6 @@
 var a16629 =
 [
-    [ "npc_living_infernoAI", "d8/dd1/a16629.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "d8/dd1/a16629.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "d8/dd1/a16629.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "HandleForceCast", "d8/dd1/a16629.html#a975b69649aba9de341f4e52c82a3c111", null ],
+    [ "PrepareSpellScript", "d8/dd1/a16629.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
+    [ "Register", "d8/dd1/a16629.html#a794a59e5fd3bda75f30d559f422895b5", null ]
 ];

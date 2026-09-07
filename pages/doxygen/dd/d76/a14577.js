@@ -1,7 +1,6 @@
 var a14577 =
 [
-    [ "HandleApply", "dd/d76/a14577.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
-    [ "HandleRemove", "dd/d76/a14577.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
-    [ "PrepareAuraScript", "dd/d76/a14577.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
-    [ "Register", "dd/d76/a14577.html#af2343add2ed014832bd34d11519b391b", null ]
+    [ "HandleOnHit", "dd/d76/a14577.html#a76b09288d14d399735250607e2105eb3", null ],
+    [ "PrepareSpellScript", "dd/d76/a14577.html#a2270ce546ae286ffa701d094df591aa2", null ],
+    [ "Register", "dd/d76/a14577.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
 ];

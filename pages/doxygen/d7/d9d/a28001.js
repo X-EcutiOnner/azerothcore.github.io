@@ -1,7 +1,6 @@
 var a28001 =
 [
-    [ "go_bear_trapAI", "d7/d9d/a28001.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "d7/d9d/a28001.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "d7/d9d/a28001.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "d7/d9d/a28001.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "HandleOnHit", "d7/d9d/a28001.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "d7/d9d/a28001.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "d7/d9d/a28001.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

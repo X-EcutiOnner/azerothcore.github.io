@@ -1,7 +1,6 @@
 var a23729 =
 [
-    [ "boss_gatewatcher_iron_hand", "df/d0b/a23729.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "df/d0b/a23729.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "df/d0b/a23729.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "df/d0b/a23729.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "HandleEffect", "df/d0b/a23729.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
+    [ "PrepareSpellScript", "df/d0b/a23729.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
+    [ "Register", "df/d0b/a23729.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
 ];

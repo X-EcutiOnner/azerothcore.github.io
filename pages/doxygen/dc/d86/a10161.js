@@ -1,14 +1,15 @@
 var a10161 =
 [
-    [ "TriangleBoundary", "dc/d86/a10161.html#acd21a26ca6b830c4d4c6ed2b4a186a30", null ],
-    [ "IsWithinBoundaryArea", "dc/d86/a10161.html#aaebce21d60856976db921e22a871aae6", null ],
-    [ "_a", "dc/d86/a10161.html#a11a5e1e039d39205450e8fde526f23c9", null ],
-    [ "_abx", "dc/d86/a10161.html#a18ad05ab00e882af42a5dbc0cf10715b", null ],
-    [ "_aby", "dc/d86/a10161.html#a50c9a60be77846c736cf278eac263b44", null ],
-    [ "_b", "dc/d86/a10161.html#abcce62f1f187bc6e42f4534bfca855e8", null ],
-    [ "_bcx", "dc/d86/a10161.html#a043b7c018baed6b098f93b667f47baed", null ],
-    [ "_bcy", "dc/d86/a10161.html#afa03a5b23a6e0d3d4e134fe7b1599df0", null ],
-    [ "_c", "dc/d86/a10161.html#a8e037f96f40d81f6c426208efb0dcd1a", null ],
-    [ "_cax", "dc/d86/a10161.html#a7c8c6e8e40ec6249d672bb735d9fbdfa", null ],
-    [ "_cay", "dc/d86/a10161.html#acbb7a9e61dd4e6188837461821843b9a", null ]
+    [ "MailSender", "dc/d86/a10161.html#a16466924bf75ea8203ba27c0f3e6188b", null ],
+    [ "MailSender", "dc/d86/a10161.html#a735cfef6950357644d6965978dde0309", null ],
+    [ "MailSender", "dc/d86/a10161.html#a145000f5ef63627ee26a5699846e06cf", null ],
+    [ "MailSender", "dc/d86/a10161.html#a9ddda06cf5ecc55efdc4525353471c5b", null ],
+    [ "MailSender", "dc/d86/a10161.html#a7d5a5e40aa20de720f310b739f159225", null ],
+    [ "MailSender", "dc/d86/a10161.html#a12c87bb414a3e8889c95091f3b51716b", null ],
+    [ "GetMailMessageType", "dc/d86/a10161.html#a64c99a49ec01d2226b6bf740edb380fb", null ],
+    [ "GetSenderId", "dc/d86/a10161.html#a03145c3fdc5bbabc64019e63e121132b", null ],
+    [ "GetStationery", "dc/d86/a10161.html#a6a4446e52e20ad7ab4817bf024b38631", null ],
+    [ "m_messageType", "dc/d86/a10161.html#a45a312eda342d2197f15d73b47d7787b", null ],
+    [ "m_senderId", "dc/d86/a10161.html#a0954b3514cfcba4258b1b266dfd71ddb", null ],
+    [ "m_stationery", "dc/d86/a10161.html#a1bbced35b4600f9a45a421d28a33393b", null ]
 ];

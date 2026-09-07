@@ -1,7 +1,8 @@
 var a08961 =
 [
-    [ "ItemPosCount", "d5/da8/a08961.html#a43458da1fc31d827b6de726754f7901e", null ],
-    [ "isContainedIn", "d5/da8/a08961.html#a6977c544a2d39ca5872b75f27517974f", null ],
-    [ "count", "d5/da8/a08961.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
-    [ "pos", "d5/da8/a08961.html#ad8954f1a6323316510cfe0f332ee495f", null ]
+    [ "PlayerCreateInfoAction", "d5/da8/a08961.html#a50d56595c71374e132dfe9f988144e75", null ],
+    [ "PlayerCreateInfoAction", "d5/da8/a08961.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
+    [ "action", "d5/da8/a08961.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
+    [ "button", "d5/da8/a08961.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
+    [ "type", "d5/da8/a08961.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
 ];

@@ -1,8 +1,17 @@
 var a16097 =
 [
-    [ "npc_giltharesAI", "d8/dcb/a16097.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "d8/dcb/a16097.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "d8/dcb/a16097.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "d8/dcb/a16097.html#a9308c73760e50e0f3d04031b508526d1", null ],
-    [ "WaypointReached", "d8/dcb/a16097.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_anachronos_quest_triggerAI", "d8/dcb/a16097.html#aec19da0dd982c643b15dd3f9fae7338e", null ],
+    [ "CheckEventFail", "d8/dcb/a16097.html#a9cb72ea49977b65c42c80f6e53cfa021", null ],
+    [ "LiveCounter", "d8/dcb/a16097.html#aa19310d516a578dcd2d13d4298da0f58", null ],
+    [ "Reset", "d8/dcb/a16097.html#ab69245d2f874bef9796c151e5a27aaf7", null ],
+    [ "SummonNextWave", "d8/dcb/a16097.html#af2cc55a3f35a70a4a9630b4b843f8db7", null ],
+    [ "UpdateAI", "d8/dcb/a16097.html#af8aa57d58c05da9a8194bc6565d7a096", null ],
+    [ "Announced", "d8/dcb/a16097.html#a4e516705efff20a62124514ba14c8161", null ],
+    [ "AnnounceTimer", "d8/dcb/a16097.html#a7772c5b4f80b75ffe7b0641321029059", null ],
+    [ "EventStarted", "d8/dcb/a16097.html#ad70b899bedb2b338a306f45e2b4eafd4", null ],
+    [ "Failed", "d8/dcb/a16097.html#a60af9e06e872adfab6e7dbac73dfbece", null ],
+    [ "LiveCount", "d8/dcb/a16097.html#ae959e46865951c2783fe97e824180050", null ],
+    [ "PlayerGUID", "d8/dcb/a16097.html#a2c459e96b3599cda8560582a4fb4253a", null ],
+    [ "WaveCount", "d8/dcb/a16097.html#ac3a32a11e5f99d081371c49363509deb", null ],
+    [ "WaveTimer", "d8/dcb/a16097.html#a5294c9cd61713bc209a1b65f3b0a252e", null ]
 ];

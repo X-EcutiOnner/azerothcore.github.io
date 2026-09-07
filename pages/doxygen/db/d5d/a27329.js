@@ -1,7 +1,7 @@
 var a27329 =
 [
-    [ "HandleDummy", "db/d5d/a27329.html#abd35c974f5ebec4c8845c05ab4f6d309", null ],
-    [ "PrepareSpellScript", "db/d5d/a27329.html#a99deca1c5c8631342be400cb863eefb2", null ],
-    [ "Register", "db/d5d/a27329.html#aa5ecc51b030fe7280e824ade641216d3", null ],
-    [ "Validate", "db/d5d/a27329.html#a731503d3769718695d109ad71160e67a", null ]
+    [ "HandleScript", "db/d5d/a27329.html#ad22b87be8f47886650d7bf9e98eee495", null ],
+    [ "PrepareSpellScript", "db/d5d/a27329.html#a806f934cd684039425ce3fca037b0e8c", null ],
+    [ "Register", "db/d5d/a27329.html#a9bd3ea5aa5fb16aac87f6097db31e113", null ],
+    [ "Validate", "db/d5d/a27329.html#a96d189c452a969850121323faef1d9c1", null ]
 ];

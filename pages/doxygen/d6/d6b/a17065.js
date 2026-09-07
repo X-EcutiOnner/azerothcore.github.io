@@ -1,5 +1,6 @@
 var a17065 =
 [
-    [ "npc_essence_of_twin", "d6/d6b/a17065.html#a019de64e5e01e611acfda5db4c279b19", null ],
-    [ "OnGossipHello", "d6/d6b/a17065.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
+    [ "npc_snobold_vassalAI", "dc/dff/a17069.html", "dc/dff/a17069" ],
+    [ "npc_snobold_vassal", "d6/d6b/a17065.html#a243cefbc15931ebbb555936d54583314", null ],
+    [ "GetAI", "d6/d6b/a17065.html#a77976a59f600591454fac197ded613ef", null ]
 ];

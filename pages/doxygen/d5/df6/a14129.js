@@ -1,13 +1,10 @@
 var a14129 =
 [
-    [ "npc_ravenclaw_apparitionAI", "d5/df6/a14129.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
-    [ "EmoteCrowd", "d5/df6/a14129.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
-    [ "JustDied", "d5/df6/a14129.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
-    [ "JustSummoned", "d5/df6/a14129.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
-    [ "SummonCrowd", "d5/df6/a14129.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
-    [ "UpdateAI", "d5/df6/a14129.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
-    [ "events", "d5/df6/a14129.html#a27522107b5e1f54909294f800f26663f", null ],
-    [ "HasEnded", "d5/df6/a14129.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
-    [ "summons", "d5/df6/a14129.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
-    [ "TalkRNG", "d5/df6/a14129.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
+    [ "npc_tyrion_spybotAI", "d5/df6/a14129.html#aedad685279012266637d29069ead9063", null ],
+    [ "Reset", "d5/df6/a14129.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
+    [ "UpdateAI", "d5/df6/a14129.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
+    [ "WaypointReached", "d5/df6/a14129.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
+    [ "WaypointReached", "d5/df6/a14129.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "uiPhase", "d5/df6/a14129.html#af5dbb99fe18d96665efd04bd53294636", null ],
+    [ "uiTimer", "d5/df6/a14129.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
 ];

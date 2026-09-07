@@ -1,8 +1,14 @@
 var a17985 =
 [
-    [ "npc_gunship_mageAI", "d7/dc5/a17985.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
-    [ "AttackStart", "d7/dc5/a17985.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
-    [ "CanAIAttack", "d7/dc5/a17985.html#aadcb217a9df96bee02287d75a23e32c2", null ],
-    [ "MovementInform", "d7/dc5/a17985.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
-    [ "UpdateAI", "d7/dc5/a17985.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
+    [ "npc_gunshipAI", "d7/dc5/a17985.html#a75444497ffd6b7365827eea57fd946f9", null ],
+    [ "DamageTaken", "d7/dc5/a17985.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
+    [ "GetData", "d7/dc5/a17985.html#a0142bec2427c1256431e55d3f74b8948", null ],
+    [ "JustDied", "d7/dc5/a17985.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
+    [ "SetGUID", "d7/dc5/a17985.html#a7f336843c54de072cf58bc87ff08b068", null ],
+    [ "UpdateAI", "d7/dc5/a17985.html#a8bab1a755c2262e9f36f295781d30909", null ],
+    [ "_died", "d7/dc5/a17985.html#af4480427460748bccae214737469ddb7", null ],
+    [ "_instance", "d7/dc5/a17985.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
+    [ "_shipVisits", "d7/dc5/a17985.html#a6f9730b746e195a99dc11357fd0387ba", null ],
+    [ "_summonedFirstMage", "d7/dc5/a17985.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
+    [ "_teamIdInInstance", "d7/dc5/a17985.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
 ];

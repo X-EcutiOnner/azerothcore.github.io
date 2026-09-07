@@ -1,13 +1,6 @@
 var a14109 =
 [
-    [ "npc_corporal_keeshanAI", "d7/d8e/a14109.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
-    [ "Reset", "d7/d8e/a14109.html#a311488932a3de9153490d41e3fae92fb", null ],
-    [ "sQuestAccept", "d7/d8e/a14109.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
-    [ "UpdateAI", "d7/d8e/a14109.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
-    [ "WaypointReached", "d7/d8e/a14109.html#a3edc9ab54068e47f955116db70454f6c", null ],
-    [ "WaypointReached", "d7/d8e/a14109.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "mockingBlowTimer", "d7/d8e/a14109.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
-    [ "phase", "d7/d8e/a14109.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
-    [ "shieldBashTimer", "d7/d8e/a14109.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
-    [ "timer", "d7/d8e/a14109.html#a3107368f175aa7f4e8c405248ef917df", null ]
+    [ "npc_lord_gregor_lescovarAI", "d5/d42/a14113.html", "d5/d42/a14113" ],
+    [ "npc_lord_gregor_lescovar", "d7/d8e/a14109.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
+    [ "GetAI", "d7/d8e/a14109.html#a4cf39729bb687c7db3538575a799283e", null ]
 ];

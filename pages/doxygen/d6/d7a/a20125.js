@@ -1,12 +1,6 @@
 var a20125 =
 [
-    [ "npc_freya_ward", "d6/d7a/a20125.html#aeb5b3a3495622b05faf41d2ec0a82e3f", null ],
-    [ "DoAction", "d6/d7a/a20125.html#ac52ff5e24ff5361808fce4d8d1574ada", null ],
-    [ "JustSummoned", "d6/d7a/a20125.html#a71cd4c583a1f33168d12bbe473d0482e", null ],
-    [ "Reset", "d6/d7a/a20125.html#a134ff84f2cfa3a00cdd6158da6641369", null ],
-    [ "SummonedCreatureDespawn", "d6/d7a/a20125.html#a20fde559565c47f4451581e5d1a61e99", null ],
-    [ "UpdateAI", "d6/d7a/a20125.html#a62122abe02ae9351617eb3af9e36e88e", null ],
-    [ "_castTimer", "d6/d7a/a20125.html#afe313ebbc5c711183a9e623d8213ae64", null ],
-    [ "_summoned", "d6/d7a/a20125.html#aecae1e0f3b84d97cef40023a36dd4254", null ],
-    [ "summons", "d6/d7a/a20125.html#abf3d2443c9badc35097b6e5c818f1c88", null ]
+    [ "HandlePeriodic", "d6/d7a/a20125.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "d6/d7a/a20125.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "d6/d7a/a20125.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

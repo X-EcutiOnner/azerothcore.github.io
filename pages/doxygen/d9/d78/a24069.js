@@ -1,6 +1,7 @@
 var a24069 =
 [
-    [ "PrepareSpellScript", "d9/d78/a24069.html#aa858fff409e5c75d865c91cb5fbef679", null ],
-    [ "Register", "d9/d78/a24069.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
-    [ "SetDest", "d9/d78/a24069.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
+    [ "npc_daranelleAI", "d9/d78/a24069.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "d9/d78/a24069.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "d9/d78/a24069.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "d9/d78/a24069.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

@@ -1,5 +1,8 @@
 var a08465 =
 [
-    [ "QuestIcon", "d1/db8/a08465.html#ad8bbfe08780eaa68a8205e2634d211b8", null ],
-    [ "QuestId", "d1/db8/a08465.html#a522a4fcb28daec3e1a620b6f02c3d8fe", null ]
+    [ "bounding_radius", "d1/db8/a08465.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
+    [ "combat_reach", "d1/db8/a08465.html#ac271edb10093db19e4df1396053f820d", null ],
+    [ "gender", "d1/db8/a08465.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
+    [ "is_trigger", "d1/db8/a08465.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
+    [ "modelid_other_gender", "d1/db8/a08465.html#a222b3c513a64b385954ea549e67f4255", null ]
 ];

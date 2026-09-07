@@ -1,8 +1,9 @@
 var a24485 =
 [
-    [ "CheckProc", "d8/d1f/a24485.html#af8ecd189601dbbc34a1d633e1de3eed8", null ],
-    [ "HandleProc", "d8/d1f/a24485.html#a03f5428462b132c438b40575182e5081", null ],
-    [ "PrepareAuraScript", "d8/d1f/a24485.html#a301947c8053d4a4ee4de2a05f58b7505", null ],
-    [ "Register", "d8/d1f/a24485.html#a9b3793739de21b5117e4a66e2951f939", null ],
-    [ "Validate", "d8/d1f/a24485.html#acc50882146bad569108852b207d519fd", null ]
+    [ "npc_pet_gen_fetch_ball", "d8/d1f/a24485.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
+    [ "IsSummonedBy", "d8/d1f/a24485.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
+    [ "SpellHitTarget", "d8/d1f/a24485.html#a87bdded236f6584d9b71507a1253f7d0", null ],
+    [ "UpdateAI", "d8/d1f/a24485.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
+    [ "checkTimer", "d8/d1f/a24485.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
+    [ "targetGUID", "d8/d1f/a24485.html#ae474374af7c2270e218ed236d90c789c", null ]
 ];

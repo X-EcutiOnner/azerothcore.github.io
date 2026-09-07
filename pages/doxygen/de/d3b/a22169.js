@@ -1,8 +1,16 @@
 var a22169 =
 [
-    [ "npc_oathbound_warder", "de/d3b/a22169.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
-    [ "AttackStart", "de/d3b/a22169.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
-    [ "InitializeAI", "de/d3b/a22169.html#a62c4c568ad615013afa46c7da84d057a", null ],
-    [ "JustEngagedWith", "de/d3b/a22169.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
-    [ "UpdateAI", "de/d3b/a22169.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
+    [ "npc_tirions_gambit_tirionAI", "de/d3b/a22169.html#a38959c7a5b502b5716a5c09b0f6ae8a4", null ],
+    [ "DoAction", "de/d3b/a22169.html#a495e0762614020ef6d7b741447099326", null ],
+    [ "DoSummonAction", "de/d3b/a22169.html#a891b31661705ed4df634059e6165d499", null ],
+    [ "JustSummoned", "de/d3b/a22169.html#ac62ec499aba734d36249f8c00b36e2d4", null ],
+    [ "Reset", "de/d3b/a22169.html#afb398bda1d6ee4d35527208e6c5bffee", null ],
+    [ "SetData", "de/d3b/a22169.html#a41f24de5f824d84edb69c6b2bdca6d4e", null ],
+    [ "SummonedCreatureDespawn", "de/d3b/a22169.html#aca05fee85997dffba6ec998b144b9495", null ],
+    [ "UpdateEscortAI", "de/d3b/a22169.html#a0b681d6cc1566e6193f7eb143ab2bd5e", null ],
+    [ "WaypointReached", "de/d3b/a22169.html#af5fd69b799c6227dba901f434e30c434", null ],
+    [ "WaypointReached", "de/d3b/a22169.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_eventOver", "de/d3b/a22169.html#ac3505c2a8d55afa351543def3e8839de", null ],
+    [ "events", "de/d3b/a22169.html#a711c55c26187ae695644b770a358766e", null ],
+    [ "summons", "de/d3b/a22169.html#af574a4b136ff42c597e30c83e4d463ca", null ]
 ];

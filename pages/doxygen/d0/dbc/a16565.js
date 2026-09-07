@@ -1,6 +1,6 @@
 var a16565 =
 [
-    [ "HandleForceCast", "d0/dbc/a16565.html#a975b69649aba9de341f4e52c82a3c111", null ],
-    [ "PrepareSpellScript", "d0/dbc/a16565.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
-    [ "Register", "d0/dbc/a16565.html#a794a59e5fd3bda75f30d559f422895b5", null ]
+    [ "boss_general_zarithrianAI", "d9/d62/a16569.html", "d9/d62/a16569" ],
+    [ "boss_general_zarithrian", "d0/dbc/a16565.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
+    [ "GetAI", "d0/dbc/a16565.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
 ];

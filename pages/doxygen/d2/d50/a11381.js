@@ -1,12 +1,11 @@
 var a11381 =
 [
-    [ "Complain", "d2/d50/a11381.html#aa1cf8c3159d1334186b28c0abf0b5bec", null ],
-    [ "Read", "d2/d50/a11381.html#a5a5cc78c807ce5d1e455bedd283c0f4d", null ],
-    [ "ChannelId", "d2/d50/a11381.html#a134b3bc2c782494fff06b5d83a2b9f98", null ],
-    [ "Description", "d2/d50/a11381.html#a557676064707e2597a10e9b2efc9d09a", null ],
-    [ "MailIdOrMessageType", "d2/d50/a11381.html#a1dc57952838e5eccaefe64f381584f4f", null ],
-    [ "SecondsSinceMessage", "d2/d50/a11381.html#ac436590edc1d7de977edb9472100d9a2", null ],
-    [ "SpammerGuid", "d2/d50/a11381.html#a4a8b664b598624046b26953051a28718", null ],
-    [ "SpamType", "d2/d50/a11381.html#aece15ac467b310fc170844119978aa2a", null ],
-    [ "Unk1", "d2/d50/a11381.html#a7cc02360329a0b67c67fb5798d1e658d", null ]
+    [ "LFGJoin", "d2/d50/a11381.html#a50c79bdef7393907673a328bc36ff8ae", null ],
+    [ "Read", "d2/d50/a11381.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
+    [ "Achievements", "d2/d50/a11381.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
+    [ "Comment", "d2/d50/a11381.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
+    [ "Needs", "d2/d50/a11381.html#a313c16e84e2cd0b55551d16273e95917", null ],
+    [ "NoPartialClear", "d2/d50/a11381.html#aad54be871d0978034fb69a464fd5b9df", null ],
+    [ "Roles", "d2/d50/a11381.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
+    [ "Slots", "d2/d50/a11381.html#aa14a07716504723283ad80c6357cf53f", null ]
 ];

@@ -1,14 +1,12 @@
 var a10345 =
 [
-    [ "~MovementGenerator", "d2/dae/a10345.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
-    [ "Finalize", "d2/dae/a10345.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
-    [ "GetMovementGeneratorType", "d2/dae/a10345.html#a60bac341b438ea7258986f234a952324", null ],
-    [ "GetResetPosition", "d2/dae/a10345.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
-    [ "GetSplineId", "d2/dae/a10345.html#a99865a1b7cf84b02784bfa8df958585f", null ],
-    [ "Initialize", "d2/dae/a10345.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
-    [ "Pause", "d2/dae/a10345.html#a37530e5cd743faecabd21eba08dce939", null ],
-    [ "Reset", "d2/dae/a10345.html#aa6641fa1182551421fc8572afad8e083", null ],
-    [ "Resume", "d2/dae/a10345.html#a51988a8b0a45459242467e38ca46303c", null ],
-    [ "unitSpeedChanged", "d2/dae/a10345.html#a0f9c4fd52947688dcda1161924e829bb", null ],
-    [ "Update", "d2/dae/a10345.html#ae3014d8c6e728799c86134ef64737ed5", null ]
+    [ "TransportTemplate", "d2/dae/a10345.html#aef4781a37808827e3ceaffc782c3af1e", null ],
+    [ "~TransportTemplate", "d2/dae/a10345.html#afc385d824c171d13a184bc0a16121110", null ],
+    [ "accelDist", "d2/dae/a10345.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
+    [ "accelTime", "d2/dae/a10345.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
+    [ "entry", "d2/dae/a10345.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
+    [ "inInstance", "d2/dae/a10345.html#a971c84762c229b01cab656945f0c16de", null ],
+    [ "keyFrames", "d2/dae/a10345.html#ac714531f226ca06c3586cf3f6cc06808", null ],
+    [ "mapsUsed", "d2/dae/a10345.html#a93899b0648871ed8ca32dfe8394347c1", null ],
+    [ "pathTime", "d2/dae/a10345.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
 ];

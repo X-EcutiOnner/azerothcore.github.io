@@ -1,6 +1,9 @@
 var a19809 =
 [
-    [ "HandleEffectCalcAmount", "da/dc5/a19809.html#afa50ce616d36dd59c7195209074d6182", null ],
-    [ "PrepareAuraScript", "da/dc5/a19809.html#a4638b99dac7653f13d59c3928a78b3b9", null ],
-    [ "Register", "da/dc5/a19809.html#a691d5a99eec9e367c518d0244f25bd41", null ]
+    [ "HandleApply", "da/dc5/a19809.html#a29679ed64fc288dc0e85beed2971d4be", null ],
+    [ "HandleRemove", "da/dc5/a19809.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
+    [ "Load", "da/dc5/a19809.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
+    [ "PrepareAuraScript", "da/dc5/a19809.html#a2804f25643e59f3922291abcb055b641", null ],
+    [ "Register", "da/dc5/a19809.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
+    [ "Validate", "da/dc5/a19809.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
 ];

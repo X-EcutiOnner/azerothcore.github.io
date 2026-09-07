@@ -1,10 +1,6 @@
 var a11165 =
 [
-    [ "Count", "d2/dc1/a11165.html#a97b56650a40ff3d39c6281d43261f06f", null ],
-    [ "EntryType", "d2/dc1/a11165.html#a7c4db5da5d5e501172b8581e4e7bb865", null ],
-    [ "ItemID", "d2/dc1/a11165.html#a1daad03864355f94d90315fea68892d4", null ],
-    [ "Money", "d2/dc1/a11165.html#a856d32f52e85b2b7329f85b8e04ad0ee", null ],
-    [ "OtherTab", "d2/dc1/a11165.html#a359c633cc0034dc8ae8b7db69d3dd739", null ],
-    [ "PlayerGUID", "d2/dc1/a11165.html#a90e01e455d373204617b2747ca95fe04", null ],
-    [ "TimeOffset", "d2/dc1/a11165.html#a11cf13b65aafbd4dc70399362f4f87fe", null ]
+    [ "GuildPromoteMember", "d2/dc1/a11165.html#af623a381aa80e827c2c29987501626ae", null ],
+    [ "Read", "d2/dc1/a11165.html#a3350c1a8c81aa1368a254288849b462b", null ],
+    [ "Promotee", "d2/dc1/a11165.html#af8addf6e9bc45364f595582e8f285cde", null ]
 ];

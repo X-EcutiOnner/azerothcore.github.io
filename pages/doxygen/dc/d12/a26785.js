@@ -1,6 +1,6 @@
 var a26785 =
 [
-    [ "HandleDummyEffect", "dc/d12/a26785.html#a6340c91d8419755386cb3e138cb3c171", null ],
-    [ "PrepareSpellScript", "dc/d12/a26785.html#a67d08252c8b8deee312f17affb557df8", null ],
-    [ "Register", "dc/d12/a26785.html#a262bb06ac1d6a55e886d1226ad7bb583", null ]
+    [ "CalculateAmount", "dc/d12/a26785.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
+    [ "PrepareAuraScript", "dc/d12/a26785.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
+    [ "Register", "dc/d12/a26785.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
 ];

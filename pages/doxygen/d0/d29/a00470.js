@@ -1,16 +1,11 @@
 var a00470 =
 [
-    [ "Log", "dd/de0/a05711.html", "dd/de0/a05711" ],
-    [ "LOG_DEBUG", "d0/d29/a00470.html#a47ac782b14a7531c6232777165a1a161", null ],
-    [ "LOG_ERROR", "d0/d29/a00470.html#a43832e3fa8508deb4ce43e520005fcd9", null ],
-    [ "LOG_FATAL", "d0/d29/a00470.html#a0e09b50c268dc6897a1c70aa46de936e", null ],
-    [ "LOG_GM", "d0/d29/a00470.html#aeeb132f13796dfa459eb05386acff8fe", null ],
-    [ "LOG_INFO", "d0/d29/a00470.html#a271e427d8e8481efd5cd5f537ec9e419", null ],
-    [ "LOG_MESSAGE_BODY", "d0/d29/a00470.html#a1ce833e7403b29687774e0539da6f4b9", null ],
-    [ "LOG_TRACE", "d0/d29/a00470.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5", null ],
-    [ "LOG_WARN", "d0/d29/a00470.html#adf09840a666e1d86bcd3439105db6edc", null ],
-    [ "LOGGER_ROOT", "d0/d29/a00470.html#a6f9b401329ff7cf191e6b1801caeb441", null ],
-    [ "sLog", "d0/d29/a00470.html#ab5487500f5b4b12072043104b916d582", null ],
-    [ "AppenderCreatorFn", "d0/d29/a00470.html#a1db7ef47a6d7bf4560a30c8b7e9f6a37", null ],
-    [ "CreateAppender", "d0/d29/a00470.html#ae5d709e10423806fa5331696a9bbd657", null ]
+    [ "Movement::counter< T, limit >", "d3/dd9/a10521.html", "d3/dd9/a10521" ],
+    [ "UInt32Counter", "d0/d29/a00470.html#adebd21803156b193f9b8a733b6cbd3c7", null ],
+    [ "computeFallElevation", "d0/d29/a00470.html#a87260372150c8322b45e75bfaa445f14", null ],
+    [ "computeFallTime", "d0/d29/a00470.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
+    [ "MSToSec", "d0/d29/a00470.html#aefc83834e7badc5f8450322da9567bd6", null ],
+    [ "SecToMS", "d0/d29/a00470.html#a418fff34f8aed72d6d80876be5a33c58", null ],
+    [ "gravity", "d0/d29/a00470.html#a15b376933a666c7f7c4600e62d7afe91", null ],
+    [ "splineIdGen", "d0/d29/a00470.html#a5149db3325f467381006d8d5df24a2a8", null ]
 ];

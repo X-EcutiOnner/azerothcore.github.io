@@ -1,5 +1,5 @@
 var a15821 =
 [
-    [ "go_bristlelimb_cage", "d3/d80/a15821.html#ab965b9c529577a5e58639285fa35d3d7", null ],
-    [ "OnGossipHello", "d3/d80/a15821.html#a6f29e07550767c1c0610f46e4921503f", null ]
+    [ "at_battleguard_sartura", "d3/d80/a15821.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
+    [ "OnTrigger", "d3/d80/a15821.html#ae4313968b247a65c3a075b090cd3d5e9", null ]
 ];

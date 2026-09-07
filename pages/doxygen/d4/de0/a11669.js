@@ -1,5 +1,9 @@
 var a11669 =
 [
-    [ "AccountInfoQueryHolderPerRealm", "d4/de0/a11669.html#a9d821669804cd04cf121e141d94ead36", null ],
-    [ "Initialize", "d4/de0/a11669.html#a9d4e4de9a038697f61e6350f5f59713b", null ]
+    [ "TotemCreated", "d4/de0/a11669.html#a24c9e483d1edb526330311c719d750df", null ],
+    [ "Write", "d4/de0/a11669.html#a554900ae7442f00a63c983ea7ea74510", null ],
+    [ "Duration", "d4/de0/a11669.html#aff6335b86ac051bccb623124905c7180", null ],
+    [ "Slot", "d4/de0/a11669.html#a0889c816fbef728f1a0a6c530c801eac", null ],
+    [ "SpellID", "d4/de0/a11669.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
+    [ "Totem", "d4/de0/a11669.html#a684d15c5368e8065c78e9320eebb676b", null ]
 ];

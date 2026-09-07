@@ -1,7 +1,6 @@
 var a24321 =
 [
-    [ "CheckProc", "d0/d3e/a24321.html#abd74252153fc4fc9a4e561005ea58b3f", null ],
-    [ "HandleProc", "d0/d3e/a24321.html#a8ab07569658cf2fa02193691bcab14ac", null ],
-    [ "PrepareAuraScript", "d0/d3e/a24321.html#ae169eb2c0e194f8f34ee2a0d5fd973d3", null ],
-    [ "Register", "d0/d3e/a24321.html#a72d89db31c1fbd5c3b49b4c05a2d90f4", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "db/d98/a24325.html", "db/d98/a24325" ],
+    [ "npc_shadowmoon_tuber_node", "d0/d3e/a24321.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "d0/d3e/a24321.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

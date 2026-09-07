@@ -1,6 +1,7 @@
 var a11965 =
 [
-    [ "CastHandler", "d2/dc6/a11965.html#aad22cf4791a20b9cb6704712ec3d9339", null ],
-    [ "Call", "d2/dc6/a11965.html#afdbd455bd010bd93e84c334fe3987bf1", null ],
-    [ "pCastHandlerScript", "d2/dc6/a11965.html#a091c494c18bc81968a386bc5f2565905", null ]
+    [ "attributeMask", "d2/dc6/a11965.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
+    [ "customChance", "d2/dc6/a11965.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
+    [ "PPMChance", "d2/dc6/a11965.html#adb76c11f0073a2738374c98c01fda009", null ],
+    [ "procEx", "d2/dc6/a11965.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
 ];

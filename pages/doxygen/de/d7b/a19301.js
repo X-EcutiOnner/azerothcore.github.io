@@ -1,7 +1,6 @@
 var a19301 =
 [
-    [ "npc_ioc_gunship_captainAI", "de/d7b/a19301.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "de/d7b/a19301.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "de/d7b/a19301.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "de/d7b/a19301.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "npc_icc_valkyr_heraldAI", "d6/dad/a19305.html", "d6/dad/a19305" ],
+    [ "npc_icc_valkyr_herald", "de/d7b/a19301.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
+    [ "GetAI", "de/d7b/a19301.html#a7537269841d0380d2dc9e4641705acf9", null ]
 ];

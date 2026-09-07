@@ -1,8 +1,10 @@
 var a23581 =
 [
-    [ "boss_laj", "d8/d8a/a23581.html#a3c9323ab4b5530504588ea62aed2edff", null ],
-    [ "Reset", "d8/d8a/a23581.html#ace690a0662376addaa40093f3f119c31", null ],
-    [ "ScheduleTasks", "d8/d8a/a23581.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
-    [ "_lastTransform", "d8/d8a/a23581.html#a097eacaaf77a09bec087530bad587b11", null ],
-    [ "_transformContainer", "d8/d8a/a23581.html#a313e66ceeb4e359251dad65383e7f568", null ]
+    [ "boss_high_king_maulgar", "d8/d8a/a23581.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
+    [ "DoAction", "d8/d8a/a23581.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
+    [ "JustDied", "d8/d8a/a23581.html#ad235febd755745313b72394c633c3723", null ],
+    [ "JustEngagedWith", "d8/d8a/a23581.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
+    [ "KilledUnit", "d8/d8a/a23581.html#a2059016597039929103c053d6524ebf7", null ],
+    [ "Reset", "d8/d8a/a23581.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
+    [ "UpdateAI", "d8/d8a/a23581.html#ae540909dbbb3cf93e37503cd755c3001", null ]
 ];

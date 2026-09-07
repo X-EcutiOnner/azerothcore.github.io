@@ -1,12 +1,12 @@
 var a19341 =
 [
-    [ "boss_faerlinaAI", "d8/d68/a19341.html#a3a97178599b9053c23a079ed1a2ed163", null ],
-    [ "JustDied", "d8/d68/a19341.html#a7ac2e510568a9dad710beaad42db0544", null ],
-    [ "JustEngagedWith", "d8/d68/a19341.html#a830dfa4fed62b4588ea8866174d3653a", null ],
-    [ "KilledUnit", "d8/d68/a19341.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
-    [ "MoveInLineOfSight", "d8/d68/a19341.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
-    [ "Reset", "d8/d68/a19341.html#acee81492b9b751df587a3a2cdd691ab3", null ],
-    [ "SpellHit", "d8/d68/a19341.html#aa4fac163e31dcd9353238f993259d5ec", null ],
-    [ "SummonHelpers", "d8/d68/a19341.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
-    [ "_introDone", "d8/d68/a19341.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "d8/d68/a19341.html#a2e3abb6f8889b8df818e8260e6428375", null ],
+    [ "InitializeAI", "d8/d68/a19341.html#ac39bb8074ebb7106b426f507b73b368e", null ],
+    [ "JustEngagedWith", "d8/d68/a19341.html#ae69a8fd357856d0ec6a944ca8c0007ca", null ],
+    [ "MoveInLineOfSight", "d8/d68/a19341.html#a846fe2784308eb694f5f482133a33a7f", null ],
+    [ "MovementInform", "d8/d68/a19341.html#a9a5584eea4bc08f55ddfd7efe23bce2e", null ],
+    [ "Reset", "d8/d68/a19341.html#afbb260e4968865e7c4141e73a050e663", null ],
+    [ "UpdateAI", "d8/d68/a19341.html#ad63d3a91bdd677a9cdd497198860cac6", null ],
+    [ "_didWebBeam", "d8/d68/a19341.html#a8772cf938d30ddcc439d3912db578dfa", null ],
+    [ "events", "d8/d68/a19341.html#ac1b5b05f9fbaf1879c95bc7127fcb6e9", null ]
 ];

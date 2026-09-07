@@ -1,9 +1,18 @@
 var a22229 =
 [
-    [ "HandleFinish", "d9/d82/a22229.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "d9/d82/a22229.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "d9/d82/a22229.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "d9/d82/a22229.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "d9/d82/a22229.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "d9/d82/a22229.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "npc_blessed_bannerAI", "d9/d82/a22229.html#a563cd394d72a900d735f8639074deae1", null ],
+    [ "JustDied", "d9/d82/a22229.html#a06e0e0c1e673c13488bd47e130098915", null ],
+    [ "JustEngagedWith", "d9/d82/a22229.html#abfdd9e554fbbe16f6058d5cb10394a84", null ],
+    [ "JustSummoned", "d9/d82/a22229.html#a446dc0b76eb3549b0e86b02e541f6296", null ],
+    [ "MoveInLineOfSight", "d9/d82/a22229.html#a34a0a856a4a4c05954ba300d8031e374", null ],
+    [ "Reset", "d9/d82/a22229.html#a6fe7e49f2077ed549a6406592aec345e", null ],
+    [ "UpdateAI", "d9/d82/a22229.html#a8ca070c63dd48e22823ac26d11da75be", null ],
+    [ "events", "d9/d82/a22229.html#a79b7fbee1492860fe64d42928e494e3d", null ],
+    [ "guidDalfors", "d9/d82/a22229.html#a369a837b6fa57d0960f24d9ea629ed04", null ],
+    [ "guidHalof", "d9/d82/a22229.html#aef28a7624fb88e65a7f79fe34c320a29", null ],
+    [ "guidMason", "d9/d82/a22229.html#a05e6dc20409e2271de8fe4f4b3ae7bfa", null ],
+    [ "guidPriest", "d9/d82/a22229.html#a25f4056b2d7fda02885f58502f809a9c", null ],
+    [ "HalofSpawned", "d9/d82/a22229.html#a38e98094f05c09ea19a4f44771194b2e", null ],
+    [ "PhaseCount", "d9/d82/a22229.html#a983110caf86d94374a299d7268f7458c", null ],
+    [ "Summons", "d9/d82/a22229.html#a92d7543e31c5cb367379711cb767ebd6", null ]
 ];

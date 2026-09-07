@@ -1,8 +1,5 @@
 var a28133 =
 [
-    [ "go_bellsAI", "d4/d91/a28133.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "d4/d91/a28133.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "d4/d91/a28133.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "d4/d91/a28133.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "d4/d91/a28133.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "AreaTrigger_at_last_rites", "d4/d91/a28133.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
+    [ "OnTrigger", "d4/d91/a28133.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
 ];

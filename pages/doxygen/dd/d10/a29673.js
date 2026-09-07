@@ -1,7 +1,6 @@
 var a29673 =
 [
-    [ "SetUp", "dd/d10/a29673.html#a63d060f7643fc3d35eb4f0fd082f1af4", null ],
-    [ "TearDown", "dd/d10/a29673.html#a685e2dbb620ab792ed3e952cf2b5dab8", null ],
-    [ "_originalWorld", "dd/d10/a29673.html#aec7f3f7af8f936fb2419cee4be837eb7", null ],
-    [ "_worldMock", "dd/d10/a29673.html#a2d10e74ba4f778b395a48eb68a586711", null ]
+    [ "lastExtraAttackSpell", "dd/d10/a29673.html#a0b7c47a0c1a328703648936a1da3245f", null ],
+    [ "triggeredSpellHasExtraAttacks", "dd/d10/a29673.html#ad58a8f2f91c6a32371feab14e51e8e29", null ],
+    [ "triggerSpellId", "dd/d10/a29673.html#a01a4d76e7e2bf15a3ae06926fa1189c9", null ]
 ];

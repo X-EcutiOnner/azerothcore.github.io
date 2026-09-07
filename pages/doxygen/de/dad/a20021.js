@@ -1,6 +1,6 @@
 var a20021 =
 [
-    [ "PrepareSpellScript", "de/dad/a20021.html#af7426e99a49f8618fc38242ded7132f1", null ],
-    [ "RecalculateDamage", "de/dad/a20021.html#a94e70b20f2139f668227dccb623c1af6", null ],
-    [ "Register", "de/dad/a20021.html#acd911f78780e052d88f5f47574092d62", null ]
+    [ "CalculateDamage", "de/dad/a20021.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "de/dad/a20021.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "de/dad/a20021.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

@@ -1,11 +1,8 @@
 var a18745 =
 [
-    [ "npc_terenas_menethilAI", "d8/d13/a18745.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
-    [ "CanAIAttack", "d8/d13/a18745.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
-    [ "DamageTaken", "d8/d13/a18745.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
-    [ "DoAction", "d8/d13/a18745.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
-    [ "EnterEvadeMode", "d8/d13/a18745.html#ada5313b34e8c20c82ac97396e54e27df", null ],
-    [ "UpdateAI", "d8/d13/a18745.html#a6210ca6e5e954d5c66d2108359efc888", null ],
-    [ "_events", "d8/d13/a18745.html#ae61e4919b99a2b9195a389992947a125", null ],
-    [ "_instance", "d8/d13/a18745.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
+    [ "ChangeDamageAndGrow", "d8/d13/a18745.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "d8/d13/a18745.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "d8/d13/a18745.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "d8/d13/a18745.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "d8/d13/a18745.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

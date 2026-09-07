@@ -1,6 +1,8 @@
 var a16805 =
 [
-    [ "npc_nerubian_burrowerAI", "d1/dfb/a16809.html", "d1/dfb/a16809" ],
-    [ "npc_nerubian_burrower", "d2/d6f/a16805.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
-    [ "GetAI", "d2/d6f/a16805.html#a145ebac6f95f9190429b9bfa37e23312", null ]
+    [ "npc_toc5_player_vehicleAI", "d2/d6f/a16805.html#afa00a6254b482aae5397be04860ac8ba", null ],
+    [ "BeforeSpellClick", "d2/d6f/a16805.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
+    [ "OnCharmed", "d2/d6f/a16805.html#ace805882a25a9d075d811714e607fa2b", null ],
+    [ "PassengerBoarded", "d2/d6f/a16805.html#aca35804df751185193ff5865255d3687", null ],
+    [ "Reset", "d2/d6f/a16805.html#a5439b98d544124836d2cf9762f764cea", null ]
 ];

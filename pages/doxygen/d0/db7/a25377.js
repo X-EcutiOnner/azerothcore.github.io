@@ -1,7 +1,9 @@
 var a25377 =
 [
-    [ "HandleProc", "d0/db7/a25377.html#a38baf45ac31e2813316c4c22c2db59ec", null ],
-    [ "PrepareAuraScript", "d0/db7/a25377.html#a3704981effea17b2c513f139a892c37c", null ],
-    [ "Register", "d0/db7/a25377.html#a4d24566853a3a73f9ec215167f2bb401", null ],
-    [ "Validate", "d0/db7/a25377.html#a457f28f8b0bab915dd9e65534ce80b87", null ]
+    [ "PrepareAuraScript", "d0/db7/a25377.html#aebfc1dfb1ff025b0ef4a8c0062a000f1", null ],
+    [ "RefreshVisualShields", "d0/db7/a25377.html#aeefbbdd391c347b350ec7738b9825f8c", null ],
+    [ "Register", "d0/db7/a25377.html#aacd9f12cddd0c698816916d9cdf5f0ea", null ],
+    [ "RemoveDummyFromDriver", "d0/db7/a25377.html#a399641ce72b74038a4517868267bd86a", null ],
+    [ "RemoveVisualShields", "d0/db7/a25377.html#aed4bb9ec815ac4e22b952a64c8bd3b51", null ],
+    [ "Validate", "d0/db7/a25377.html#ae5799f72b7fbce82799fd730f1525948", null ]
 ];

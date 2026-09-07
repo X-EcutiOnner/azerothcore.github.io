@@ -1,6 +1,8 @@
 var a22957 =
 [
-    [ "OnPeriodic", "d5/d58/a22957.html#a769d30c78e4feaa9cc0c581af5264c02", null ],
-    [ "PrepareAuraScript", "d5/d58/a22957.html#a076e4b548de5cad64b7d81ddd8c5194f", null ],
-    [ "Register", "d5/d58/a22957.html#af1c2b7baf0ff7164cafab8f1a53bbb18", null ]
+    [ "boss_mother_shahraz", "d5/d58/a22957.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "d5/d58/a22957.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "d5/d58/a22957.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "d5/d58/a22957.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "d5/d58/a22957.html#ab9e4162ac92e786b84b6497c37251386", null ]
 ];

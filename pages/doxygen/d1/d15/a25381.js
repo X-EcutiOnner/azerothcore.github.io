@@ -1,8 +1,6 @@
 var a25381 =
 [
-    [ "CheckProc", "d1/d15/a25381.html#a15a781accded2e018cbf306e7a129eb9", null ],
-    [ "HandleProc", "d1/d15/a25381.html#ad818c89e7d351b5528e4fd8b99c65cc2", null ],
-    [ "PrepareAuraScript", "d1/d15/a25381.html#ab64670a7714248d9bfb52d96cf7a6c70", null ],
-    [ "Register", "d1/d15/a25381.html#a4ed5d197b1d62bec0fec20f8cce90b7a", null ],
-    [ "Validate", "d1/d15/a25381.html#a0185b616c63a3e9c20495b1c89ec6c68", null ]
+    [ "HandleScriptEffect", "d1/d15/a25381.html#a422a77760004d6d6fac6bacdb1d436ff", null ],
+    [ "PrepareSpellScript", "d1/d15/a25381.html#a1d7e2beafb55464f928ea5904441d698", null ],
+    [ "Register", "d1/d15/a25381.html#aeaa8321255f377b85884df25a455554f", null ]
 ];

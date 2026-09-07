@@ -1,25 +1,11 @@
 var a05509 =
 [
-    [ "Record", "d8/dc9/a05513.html", "d8/dc9/a05513" ],
-    [ "DBCFileLoader", "da/d38/a05509.html#a99ba418c63c49cf9a028626b8e282a01", null ],
-    [ "~DBCFileLoader", "da/d38/a05509.html#a2e8dd3e5d88b870ea01e0c8dbfa55acd", null ],
-    [ "DBCFileLoader", "da/d38/a05509.html#a2e75536e8df1449449b4b6fe5585074d", null ],
-    [ "AutoProduceData", "da/d38/a05509.html#af8810dd9cef9ed82036bbebb4c938521", null ],
-    [ "AutoProduceStrings", "da/d38/a05509.html#a12054e13d90636076ce04587aacf8ff6", null ],
-    [ "GetCols", "da/d38/a05509.html#a3c536a9333a06213a37c95087eaaf8e3", null ],
-    [ "GetFormatRecordSize", "da/d38/a05509.html#a990308cf88d2772db090c37a66e9f9e5", null ],
-    [ "GetNumRows", "da/d38/a05509.html#aeedb51dd9b316063a58a989b175d0bc5", null ],
-    [ "GetOffset", "da/d38/a05509.html#ae624604ad0cdae8d3eb7212630a33613", null ],
-    [ "getRecord", "da/d38/a05509.html#ac4b1c79585f63f53f6d48db235732e20", null ],
-    [ "GetRowSize", "da/d38/a05509.html#af322bc9e92472463998ca8082c5da3d6", null ],
-    [ "IsLoaded", "da/d38/a05509.html#a28bf265dafc284e9edb55fc1ed261694", null ],
-    [ "Load", "da/d38/a05509.html#a32c6a04567395f66270858c5feb57f5f", null ],
-    [ "operator=", "da/d38/a05509.html#ac2b0f30fb125b8dae385ca8330d02e8b", null ],
-    [ "data", "da/d38/a05509.html#a137152d873bfa3cb2d3860fe6001f404", null ],
-    [ "fieldCount", "da/d38/a05509.html#a920472d71232fa759bce768fdca9a1c4", null ],
-    [ "fieldsOffset", "da/d38/a05509.html#a7aa68d259f6295df3029456bde143862", null ],
-    [ "recordCount", "da/d38/a05509.html#a1a17426b679598ee27363e897b40f2bf", null ],
-    [ "recordSize", "da/d38/a05509.html#ab4f28de7c57a6e25c715bb009ed5f701", null ],
-    [ "stringSize", "da/d38/a05509.html#a0761727ba38d899f337c733873742d69", null ],
-    [ "stringTable", "da/d38/a05509.html#a5961bf01316cc14a075c1b874000e8a2", null ]
+    [ "AuthCrypt", "da/d38/a05509.html#a8c5239631bd6cf700059af31f04126a3", null ],
+    [ "DecryptRecv", "da/d38/a05509.html#a552bd409afb5fcda8a11627ccb20e4b0", null ],
+    [ "EncryptSend", "da/d38/a05509.html#a385fe62742cdbbf62725ace616a06b37", null ],
+    [ "Init", "da/d38/a05509.html#ac76e9a59dc6bcef074e3213cecb4c7b8", null ],
+    [ "IsInitialized", "da/d38/a05509.html#a911330ec40c0ca881af2f0c6fd6b0fef", null ],
+    [ "_clientDecrypt", "da/d38/a05509.html#ae67fcb84288ebd120ad71bedc52086c2", null ],
+    [ "_initialized", "da/d38/a05509.html#a99de2f8dd625cef94d70eeddefc9ac5c", null ],
+    [ "_serverEncrypt", "da/d38/a05509.html#af30b0691f7089d52c2fbd9c5b9f52e68", null ]
 ];

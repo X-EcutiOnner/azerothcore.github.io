@@ -1,6 +1,5 @@
 var a23717 =
 [
-    [ "instance_the_eye_InstanceMapScript", "d1/d01/a23721.html", "d1/d01/a23721" ],
-    [ "instance_the_eye", "dd/d47/a23717.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
-    [ "GetInstanceScript", "dd/d47/a23717.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
+    [ "spellId", "dd/d47/a23717.html#acc63d01d5095adef28b9746c520be973", null ],
+    [ "textId", "dd/d47/a23717.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
 ];

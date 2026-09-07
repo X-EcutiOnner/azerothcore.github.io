@@ -1,7 +1,6 @@
 var a21789 =
 [
-    [ "HandleAfterEffectApply", "da/dc5/a21789.html#ab54795dc49ca453db40494a694158a98", null ],
-    [ "PrepareAuraScript", "da/dc5/a21789.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
-    [ "Register", "da/dc5/a21789.html#addd4fac4cc8a93d800abacb144e3303c", null ],
-    [ "Validate", "da/dc5/a21789.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
+    [ "npc_conversing_with_the_depths_triggerAI", "d2/d02/a21793.html", "d2/d02/a21793" ],
+    [ "npc_conversing_with_the_depths_trigger", "da/dc5/a21789.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
+    [ "GetAI", "da/dc5/a21789.html#a61c337bfe1efb3589cf0df91d9082236", null ]
 ];

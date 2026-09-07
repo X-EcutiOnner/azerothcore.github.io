@@ -1,8 +1,8 @@
 var a13073 =
 [
-    [ "npc_kernobeeAI", "d8/d15/a13073.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
-    [ "SetGUID", "d8/d15/a13073.html#ab704b138670279f6d731a6bb58ac6d10", null ],
-    [ "UpdateAI", "d8/d15/a13073.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
-    [ "checkTimer", "d8/d15/a13073.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
-    [ "playerGUID", "d8/d15/a13073.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
+    [ "MajordomoAddData", "d8/d15/a13073.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
+    [ "MajordomoAddData", "d8/d15/a13073.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
+    [ "creatureEntry", "d8/d15/a13073.html#ae3a0444e88158123f4d6359328e89a1d", null ],
+    [ "guid", "d8/d15/a13073.html#a2f2b0aaace557361a21d1072f36933dc", null ],
+    [ "spawnPos", "d8/d15/a13073.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
 ];

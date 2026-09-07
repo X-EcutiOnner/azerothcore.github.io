@@ -1,11 +1,7 @@
 var a19613 =
 [
-    [ "npc_hover_disk", "d6/d76/a19613.html#af6f8ef0df4b64540f99adebdd709b00e", null ],
-    [ "AttackStart", "d6/d76/a19613.html#a3ea3d44f74f26115f0a29fad134fcfc8", null ],
-    [ "DoAction", "d6/d76/a19613.html#ae4141e5aed3cfdbf8d76ad55ce4463d9", null ],
-    [ "MoveInLineOfSight", "d6/d76/a19613.html#a0ad97e511bd01c269c04d2ccfe007f91", null ],
-    [ "MovementInform", "d6/d76/a19613.html#a9d1c7ac28f2c597864cf2c70ab0fb943", null ],
-    [ "PassengerBoarded", "d6/d76/a19613.html#ab7e712a9d5aec7c3112796316a7fe534", null ],
-    [ "UpdateAI", "d6/d76/a19613.html#add98702312084df553e24bcd4b632bb3", null ],
-    [ "events", "d6/d76/a19613.html#a073e1161eda3b714ad0d7ea96f865b6d", null ]
+    [ "OnPeriodic", "d6/d76/a19613.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
+    [ "PrepareAuraScript", "d6/d76/a19613.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
+    [ "Register", "d6/d76/a19613.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
+    [ "Validate", "d6/d76/a19613.html#a54cfed486827216817adb740efa6646e", null ]
 ];

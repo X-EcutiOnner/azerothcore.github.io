@@ -1,10 +1,6 @@
 var a15869 =
 [
-    [ "npc_rabid_thistle_bearAI", "db/d86/a15869.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
-    [ "Initialize", "db/d86/a15869.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
-    [ "Reset", "db/d86/a15869.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
-    [ "SpellHit", "db/d86/a15869.html#a62bde5a122748564cc806046bf9dcbaa", null ],
-    [ "UpdateAI", "db/d86/a15869.html#a8f6c5b873756a58760b2861bc8b86804", null ],
-    [ "_events", "db/d86/a15869.html#ad3852bf4588c453642e75fcdc544767b", null ],
-    [ "_playerGUID", "db/d86/a15869.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
+    [ "npc_death_ravagerAI", "dd/db8/a15873.html", "dd/db8/a15873" ],
+    [ "npc_death_ravager", "db/d86/a15869.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "db/d86/a15869.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

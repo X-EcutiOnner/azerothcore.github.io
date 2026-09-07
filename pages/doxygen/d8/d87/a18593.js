@@ -1,6 +1,8 @@
 var a18593 =
 [
-    [ "npc_tirion_fordringAI", "df/d39/a18597.html", "df/d39/a18597" ],
-    [ "npc_tirion_fordring_tft", "d8/d87/a18593.html#a04036d958e7ac643c9ba8d9073bca404", null ],
-    [ "GetAI", "d8/d87/a18593.html#a41dcfa415831091531cbf46e946f442d", null ]
+    [ "FilterTargets", "d8/d87/a18593.html#a14e392760361b95578bc95de10cdd8aa", null ],
+    [ "HandleForcedCast", "d8/d87/a18593.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
+    [ "PrepareSpellScript", "d8/d87/a18593.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
+    [ "Register", "d8/d87/a18593.html#ac2105e66f692c6a991ac9190b1901505", null ],
+    [ "Validate", "d8/d87/a18593.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
 ];

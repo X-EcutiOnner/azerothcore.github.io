@@ -1,8 +1,12 @@
 var a13433 =
 [
-    [ "npc_dkc1_gothikAI", "d4/dc3/a13433.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "d4/dc3/a13433.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "d4/dc3/a13433.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "d4/dc3/a13433.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "d4/dc3/a13433.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "boss_felblood_kaelthas", "d4/dc3/a13433.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
+    [ "DamageTaken", "d4/dc3/a13433.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
+    [ "DoAction", "d4/dc3/a13433.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
+    [ "GravityLapseSequence", "d4/dc3/a13433.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
+    [ "JustDied", "d4/dc3/a13433.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
+    [ "JustEngagedWith", "d4/dc3/a13433.html#a1d8806d7813d11aa61e043e420852218", null ],
+    [ "LapseAction", "d4/dc3/a13433.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
+    [ "Reset", "d4/dc3/a13433.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
+    [ "_gravityLapseCounter", "d4/dc3/a13433.html#ab4e884a341fa25a555c160f6978861fc", null ]
 ];

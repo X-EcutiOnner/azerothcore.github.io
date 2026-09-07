@@ -1,5 +1,8 @@
 var a29397 =
 [
-    [ "auraHasDisableProcAttr", "d6/d9c/a29397.html#aec81d4f80c7cb7749f860601c9e5aac8", null ],
-    [ "triggeringSpellIsProcDisabled", "d6/d9c/a29397.html#a38c3523c80d30ed10b8c3b5e19c083f6", null ]
+    [ "canLink", "d6/d9c/a29397.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
+    [ "categoryId", "d6/d9c/a29397.html#abf285e69e8e2a90626a157cb0c50d158", null ],
+    [ "id", "d6/d9c/a29397.html#a7740b26f1bde19a05b002c00eded25e3", null ],
+    [ "name", "d6/d9c/a29397.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
+    [ "spellIcon", "d6/d9c/a29397.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
 ];

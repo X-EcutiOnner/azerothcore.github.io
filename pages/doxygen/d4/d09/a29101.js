@@ -1,18 +1,14 @@
 var a29101 =
 [
-    [ "getArmorMod", "d4/d09/a29101.html#a0e56e757faf660cabe0ba4316ee17f12", null ],
-    [ "getDPSMod", "d4/d09/a29101.html#aa0718862ebfeea92ad299e04c9c622c8", null ],
-    [ "getFeralBonus", "d4/d09/a29101.html#aa54c3d1add4a1b982c05138f876fd138", null ],
-    [ "getSpellBonus", "d4/d09/a29101.html#aba240e0c9f81ca7d5f17d3631410a7b3", null ],
-    [ "getssdMultiplier", "d4/d09/a29101.html#ab0fbc14e59c3a387b21d3f4a825d3b36", null ],
-    [ "IsTwoHand", "d4/d09/a29101.html#ac83356dba956bfb0aa0a0fb0d976b60e", null ],
-    [ "armorMod", "d4/d09/a29101.html#a742f8447dca5961fb39e50de8233fa86", null ],
-    [ "armorMod2", "d4/d09/a29101.html#a36dba32ea7febb8dab627fa992de878b", null ],
-    [ "dpsMod", "d4/d09/a29101.html#ace956cab0056bcf0e116ac0884ad3575", null ],
-    [ "Id", "d4/d09/a29101.html#aebc75b8f80cb210b6af081077bd88e85", null ],
-    [ "Level", "d4/d09/a29101.html#a5758f5152401efde26edf3110c0d11e2", null ],
-    [ "spellPower", "d4/d09/a29101.html#a03804cca02fd1146dffb762bcd1274f8", null ],
-    [ "ssdMultiplier", "d4/d09/a29101.html#a7559b9045268d8050372153c8c976946", null ],
-    [ "ssdMultiplier2", "d4/d09/a29101.html#a57cdfb5465ced673edeb8c35bd7a3535", null ],
-    [ "ssdMultiplier3", "d4/d09/a29101.html#ae78f00d5ed42704a4093b5df939498d7", null ]
+    [ "IsFlyable", "d4/d09/a29101.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
+    [ "IsSanctuary", "d4/d09/a29101.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
+    [ "area_level", "d4/d09/a29101.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
+    [ "area_name", "d4/d09/a29101.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
+    [ "exploreFlag", "d4/d09/a29101.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
+    [ "flags", "d4/d09/a29101.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
+    [ "ID", "d4/d09/a29101.html#ad02bb9fce21f464e38223581074a9e21", null ],
+    [ "LiquidTypeOverride", "d4/d09/a29101.html#abe743a4b542c4356aab9d41f3fae7457", null ],
+    [ "mapid", "d4/d09/a29101.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
+    [ "team", "d4/d09/a29101.html#ae18e0efef83e663452715f6be15ecaef", null ],
+    [ "zone", "d4/d09/a29101.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
 ];

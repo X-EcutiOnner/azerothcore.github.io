@@ -1,5 +1,5 @@
 var a12549 =
 [
-    [ "npcEntry", "dc/d1d/a12549.html#a866b12ea5416f36c36bbea1a35a6a490", null ],
-    [ "spellId", "dc/d1d/a12549.html#a8c2fd26e0e9de5f9292c8b993ba9f9be", null ]
+    [ "flag", "dc/d1d/a12549.html#a6cae645736c697e2c2bf51a70c230070", null ],
+    [ "text", "dc/d1d/a12549.html#aff011cbcd136992bfe6abb4e0e4a48ac", null ]
 ];

@@ -1,5 +1,5 @@
 var a19369 =
 [
-    [ "PrepareSpellScript", "da/da4/a19369.html#a09b852666752f6adde3f9e5bb1f107bc", null ],
-    [ "Register", "da/da4/a19369.html#a80c3077f8f689367276e1054a6236681", null ]
+    [ "at_icc_spire_frostwyrm", "da/da4/a19369.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
+    [ "_OnTrigger", "da/da4/a19369.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
 ];

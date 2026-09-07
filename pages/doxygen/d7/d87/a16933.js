@@ -1,6 +1,6 @@
 var a16933 =
 [
-    [ "npc_toc_enh_shamanAI", "d9/d9d/a16937.html", "d9/d9d/a16937" ],
-    [ "npc_toc_enh_shaman", "d7/d87/a16933.html#ac328b63a988d2cd8640237b250c338a8", null ],
-    [ "GetAI", "d7/d87/a16933.html#a4501c9289a06750d8f153f89565b12f3", null ]
+    [ "npc_toc_shadow_priestAI", "d9/d9d/a16937.html", "d9/d9d/a16937" ],
+    [ "npc_toc_shadow_priest", "d7/d87/a16933.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
+    [ "GetAI", "d7/d87/a16933.html#a93b38d23759da3b7417dbb94b4a951da", null ]
 ];

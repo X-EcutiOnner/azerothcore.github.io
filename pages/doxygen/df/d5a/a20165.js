@@ -1,8 +1,6 @@
 var a20165 =
 [
-    [ "OnApply", "df/d5a/a20165.html#a5aec8606684637bbdb1e819254f5d483", null ],
-    [ "OnRemove", "df/d5a/a20165.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
-    [ "PrepareAuraScript", "df/d5a/a20165.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
-    [ "Register", "df/d5a/a20165.html#af1db6ca387cf0733ba4b9c324172d692", null ],
-    [ "Validate", "df/d5a/a20165.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
+    [ "CastRunesEvent", "df/d5a/a20165.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "df/d5a/a20165.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "df/d5a/a20165.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

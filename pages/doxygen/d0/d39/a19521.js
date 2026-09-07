@@ -1,10 +1,7 @@
 var a19521 =
 [
-    [ "boss_razuvious_minionAI", "d0/d39/a19521.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
-    [ "DoAction", "d0/d39/a19521.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
-    [ "JustEngagedWith", "d0/d39/a19521.html#ada2e7a5ac1f129572a0689afce49d310", null ],
-    [ "KilledUnit", "d0/d39/a19521.html#ab1a6f582098c9d1218551af0aae1815d", null ],
-    [ "Reset", "d0/d39/a19521.html#a170de8517a03a0e78b1e67652869fd9a", null ],
-    [ "ScheduleAttackDummy", "d0/d39/a19521.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
-    [ "UpdateAI", "d0/d39/a19521.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
+    [ "FilterTargets", "d0/d39/a19521.html#a56ff062a6014099623466145a66284cc", null ],
+    [ "PrepareSpellScript", "d0/d39/a19521.html#aa14623bb948ff457e52979facf74ffab", null ],
+    [ "Register", "d0/d39/a19521.html#a9494bea35088161c9a520395d714fde1", null ],
+    [ "Validate", "d0/d39/a19521.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
 ];

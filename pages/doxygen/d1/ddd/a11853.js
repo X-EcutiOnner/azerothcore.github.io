@@ -1,7 +1,7 @@
 var a11853 =
 [
-    [ "SpellImmune", "d1/ddd/a11853.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "d1/ddd/a11853.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "d1/ddd/a11853.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "d1/ddd/a11853.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "DynObjAura", "d1/ddd/a11853.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
+    [ "FillTargetMap", "d1/ddd/a11853.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
+    [ "Remove", "d1/ddd/a11853.html#ada3f65b4a817e2337da43da437b93a3b", null ],
+    [ "Aura::Create", "d1/ddd/a11853.html#ae2c0fdfb409846fec5e861de60797112", null ]
 ];

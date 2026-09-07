@@ -1,6 +1,7 @@
 var a29477 =
 [
-    [ "SetUp", "d0/d0d/a29477.html#abb19e39864b83953d4521914a78ed608", null ],
-    [ "TearDown", "d0/d0d/a29477.html#a72dfb16bc49f5ebc3cfc34e7058e4ac9", null ],
-    [ "rbacData", "d0/d0d/a29477.html#a96c1c7558b15f241f429f479ae36f497", null ]
+    [ "ClassMask", "d0/d0d/a29477.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
+    [ "petTalentMask", "d0/d0d/a29477.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
+    [ "tabpage", "d0/d0d/a29477.html#aa6389276582adeb4cae76c257734795c", null ],
+    [ "TalentTabID", "d0/d0d/a29477.html#ae3a71c61223b59185365819164715dc2", null ]
 ];

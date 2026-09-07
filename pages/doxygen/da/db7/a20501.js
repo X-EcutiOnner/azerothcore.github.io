@@ -1,26 +1,6 @@
 var a20501 =
 [
-    [ "boss_mimiron", "da/db7/a20501.html#acb08d1e24173014a7c443dc2eaea76ce", null ],
-    [ "AttackStart", "da/db7/a20501.html#aee739c9b16ae36af6104b54bde9cf7f7", null ],
-    [ "CloseDoorAndButton", "da/db7/a20501.html#ab5aa46f62dcb16febafb8bb081b1ec38", null ],
-    [ "EnterEvadeMode", "da/db7/a20501.html#a9f39f9afa3f561115c4f7e630364f566", null ],
-    [ "GetData", "da/db7/a20501.html#ab3aa6e8702c74ee27fa776c0a9bef77d", null ],
-    [ "JustEngagedWith", "da/db7/a20501.html#ab9ce3920c2a06deb31bcf25f1b2947a8", null ],
-    [ "JustReachedHome", "da/db7/a20501.html#a9e84d80c2e194c6d51b9d67d0c72db19", null ],
-    [ "MoveInLineOfSight", "da/db7/a20501.html#a0b1497cf1fc3cca2db670b74eb4745ee", null ],
-    [ "Reset", "da/db7/a20501.html#aec9cce9e0fcab78cfcf37e605cc6c08a", null ],
-    [ "ResetGameObjects", "da/db7/a20501.html#ac3a10be85349fc62ef14ecd937159e61", null ],
-    [ "SetData", "da/db7/a20501.html#aa9578fe08ab058a64e67935d262224ac", null ],
-    [ "SpellHit", "da/db7/a20501.html#af4e88527fb72bcbc1dc0a57b6007a461", null ],
-    [ "UpdateAI", "da/db7/a20501.html#adea87e321b4c401109ab4c37e314aca2", null ],
-    [ "_achievBombBot", "da/db7/a20501.html#a916517ab6ec6b4bfe0bcbb445312a9a0", null ],
-    [ "_achievProximityMine", "da/db7/a20501.html#a1fe4524d60414c100e0489bb77396033", null ],
-    [ "_achievRocketStrike", "da/db7/a20501.html#a406cf4b6b01e1fbd6e995173c5cade4a", null ],
-    [ "_allowedFlameSpreadTime", "da/db7/a20501.html#a34e2409dc2384851746d04301b926fdb", null ],
-    [ "_berserk", "da/db7/a20501.html#af85af0d10226de45a42a9d3317244e7a", null ],
-    [ "_changeAllowedFlameSpreadTime", "da/db7/a20501.html#a7d56123e4cc29207b53c0673084ee79e", null ],
-    [ "_hardmode", "da/db7/a20501.html#af4b21f8bb94becdd9082e39d81003a2b", null ],
-    [ "_isEvading", "da/db7/a20501.html#aa46c9828cdd36bb353ae75bea6d205b3", null ],
-    [ "_minutesTalkNum", "da/db7/a20501.html#a4dbed164732f74205cd248afbb2fb46e", null ],
-    [ "_outOfCombatTimer", "da/db7/a20501.html#a73c2e0d120706ec09638bbc20bda81b6", null ]
+    [ "FilterTargets", "da/db7/a20501.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
+    [ "PrepareSpellScript", "da/db7/a20501.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
+    [ "Register", "da/db7/a20501.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
 ];

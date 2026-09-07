@@ -1,7 +1,6 @@
 var a25909 =
 [
-    [ "HandleDummy", "dc/d1e/a25909.html#aec0b2ad3b10f2ccbc755cf7278a5ed46", null ],
-    [ "PrepareSpellScript", "dc/d1e/a25909.html#ac1ba0d23cbf805c234ac9d898f6bab85", null ],
-    [ "Register", "dc/d1e/a25909.html#afd1588dc55730c52a922f37e60ec134a", null ],
-    [ "Validate", "dc/d1e/a25909.html#aaed3ba3d986173b5941e048370d5ebe2", null ]
+    [ "CheckProc", "dc/d1e/a25909.html#a8158e7338b29b072f0c851771d0e8eee", null ],
+    [ "PrepareAuraScript", "dc/d1e/a25909.html#a44a18144e276e7bdc80c5a19f1d442e2", null ],
+    [ "Register", "dc/d1e/a25909.html#ae24336f87db322e546bd858bc50f2351", null ]
 ];

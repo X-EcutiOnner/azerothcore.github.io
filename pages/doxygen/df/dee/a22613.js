@@ -1,8 +1,10 @@
 var a22613 =
 [
-    [ "Load", "df/dee/a22613.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "df/dee/a22613.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "df/dee/a22613.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "df/dee/a22613.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "df/dee/a22613.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "OPvPCapturePointHP", "df/dee/a22613.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
+    [ "ChangeState", "df/dee/a22613.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
+    [ "FillInitialWorldStates", "df/dee/a22613.html#aa8d725422951485970d9106450fb6a38", null ],
+    [ "HandlePlayerEnter", "df/dee/a22613.html#ad9738c621df084d5a3f0070c80403642", null ],
+    [ "HandlePlayerLeave", "df/dee/a22613.html#a86e849e5387383a6c751e69350ffa07c", null ],
+    [ "SendChangePhase", "df/dee/a22613.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
+    [ "m_TowerType", "df/dee/a22613.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
 ];

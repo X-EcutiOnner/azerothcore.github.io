@@ -1,10 +1,13 @@
 var a06617 =
 [
-    [ "bvar", "d5/d07/a06617.html#aa6e8fda81f0f4b6d8f6e984616b5952d", null ],
-    [ "gob", "d5/d07/a06617.html#ad654cef8dd1ab99af027ff31c160a36d", null ],
-    [ "holder", "d5/d07/a06617.html#a46e408867f98388ecf66692438d48000", null ],
-    [ "spell", "d5/d07/a06617.html#a6678b172ab306d90b04341dcb17a132e", null ],
-    [ "unit", "d5/d07/a06617.html#a210df2cde720f8eb4c956444fb536150", null ],
-    [ "var0", "d5/d07/a06617.html#a4d90bbe920dca0d5a5be8e2a93a0af99", null ],
-    [ "var1", "d5/d07/a06617.html#a6aafd8266267ea053a538a813acccb78", null ]
+    [ "HealthCheckEventData", "d5/d07/a06617.html#a2610f9688b27212eb3470f55718c61f0", null ],
+    [ "GetDelay", "d5/d07/a06617.html#a9bab6c9834517c4260f814f258d52d5c", null ],
+    [ "HasBeenProcessed", "d5/d07/a06617.html#abe8549b1e96fc3ea7e4154cd30ff5389", null ],
+    [ "IsPending", "d5/d07/a06617.html#a367c865eb488a2a95ce7e98536ccb311", null ],
+    [ "UpdateStatus", "d5/d07/a06617.html#aae2283a58be68424fbe01c37a29e1c5e", null ],
+    [ "_allowedWhileCasting", "d5/d07/a06617.html#aff327c455fbd912579725956c99c3a2d", null ],
+    [ "_delay", "d5/d07/a06617.html#ad23fcf00ca53ef2772185b2008a84de5", null ],
+    [ "_exec", "d5/d07/a06617.html#a66c38460690d77fb021c91fa676c3a12", null ],
+    [ "_healthPct", "d5/d07/a06617.html#a420edc39ff982d55ae82207a0cfe7689", null ],
+    [ "_status", "d5/d07/a06617.html#a787509d0963c134539e4dec7525b5608", null ]
 ];

@@ -1,9 +1,15 @@
 var a09981 =
 [
-    [ "BroadcastTextID", "da/d25/a09981.html#a756f24dbee852a7fbe152c0cb082c412", null ],
-    [ "Emotes", "da/d25/a09981.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
-    [ "Language", "da/d25/a09981.html#a33bc5a0c156918b00380710aeb275d3d", null ],
-    [ "Probability", "da/d25/a09981.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
-    [ "Text_0", "da/d25/a09981.html#a046d637b91807db067c6e7050184322d", null ],
-    [ "Text_1", "da/d25/a09981.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
+    [ "LogHolder", "da/d25/a09981.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
+    [ "AddEvent", "da/d25/a09981.html#a5f6d81d9048290815053bb4aa3531d73", null ],
+    [ "CanInsert", "da/d25/a09981.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
+    [ "GetGuildId", "da/d25/a09981.html#ada98449548b389a1cd8177087e3aa5e8", null ],
+    [ "GetGuildLog", "da/d25/a09981.html#a17593c12663e8c4251f94636e511c73a", null ],
+    [ "GetGuildLog", "da/d25/a09981.html#ae43929001324d6bece4e45bc95115535", null ],
+    [ "GetNextGUID", "da/d25/a09981.html#aed00250b6a1036a91dd971af510f7750", null ],
+    [ "LoadEvent", "da/d25/a09981.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
+    [ "m_guildId", "da/d25/a09981.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
+    [ "m_log", "da/d25/a09981.html#aca25adbc1c1e9397c837a53793568b64", null ],
+    [ "m_maxRecords", "da/d25/a09981.html#a755788eaede72a131f74ae7de88c37b4", null ],
+    [ "m_nextGUID", "da/d25/a09981.html#a267cecce9b2f244235800c93a086e8e2", null ]
 ];

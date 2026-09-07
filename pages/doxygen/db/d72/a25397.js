@@ -1,7 +1,7 @@
 var a25397 =
 [
-    [ "HandleProc", "db/d72/a25397.html#a993331721d98f6d0b4c225a9c32708bd", null ],
-    [ "PrepareAuraScript", "db/d72/a25397.html#a71029016013dc48cf1e882a1fb520187", null ],
-    [ "Register", "db/d72/a25397.html#a4cd1dec02407065ffb25b230cf8df1c7", null ],
-    [ "Validate", "db/d72/a25397.html#a49174c98ea4fa6c4028c7ad771bbe204", null ]
+    [ "HandleApplyEffect", "db/d72/a25397.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
+    [ "Load", "db/d72/a25397.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
+    [ "PrepareAuraScript", "db/d72/a25397.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
+    [ "Register", "db/d72/a25397.html#aed57fbbf473b8f15fa177261e4678e96", null ]
 ];

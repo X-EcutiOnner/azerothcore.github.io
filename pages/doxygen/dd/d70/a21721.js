@@ -1,7 +1,7 @@
 var a21721 =
 [
-    [ "HandleScriptEffect", "dd/d70/a21721.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
-    [ "PrepareSpellScript", "dd/d70/a21721.html#adf6593e47a5766c40e7e3859fce00f81", null ],
-    [ "Register", "dd/d70/a21721.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
-    [ "Validate", "dd/d70/a21721.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
+    [ "npc_warmage_violetstand", "dd/d70/a21721.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "dd/d70/a21721.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "dd/d70/a21721.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "dd/d70/a21721.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

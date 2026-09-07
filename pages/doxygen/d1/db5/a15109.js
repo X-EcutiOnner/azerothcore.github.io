@@ -1,7 +1,6 @@
 var a15109 =
 [
-    [ "PeriodicTick", "d1/db5/a15109.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
-    [ "PrepareAuraScript", "d1/db5/a15109.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
-    [ "Register", "d1/db5/a15109.html#a24058b120f4fa06b89f6d582c53a365a", null ],
-    [ "Validate", "d1/db5/a15109.html#a093b09be5abde91a1487d67a7a554d30", null ]
+    [ "HandleTriggerSpell", "d1/db5/a15109.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
+    [ "PrepareSpellScript", "d1/db5/a15109.html#a76a070da8e719198463010499f595599", null ],
+    [ "Register", "d1/db5/a15109.html#ae237c4972167a5a17b59800983496a9d", null ]
 ];

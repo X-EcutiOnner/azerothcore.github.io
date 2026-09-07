@@ -1,7 +1,7 @@
 var a20917 =
 [
-    [ "OnApply", "dc/d7e/a20917.html#a458871e0d2c1969a91ce9474b3ad87d0", null ],
-    [ "PrepareAuraScript", "dc/d7e/a20917.html#a3a6b71d35bfcf681c98bb3bb4331e91c", null ],
-    [ "Register", "dc/d7e/a20917.html#a4d6bb68d17bbc1b10d828b1d70155f65", null ],
-    [ "Validate", "dc/d7e/a20917.html#a1ffe527d33de10a7dc8431311f4d738e", null ]
+    [ "npc_xt_void_zone", "dc/d7e/a20917.html#ac392b70098ff8a486d1eb42c4dcd1551", null ],
+    [ "Reset", "dc/d7e/a20917.html#a72b02a51f71370f83b58d3fdb32dccd2", null ],
+    [ "UpdateAI", "dc/d7e/a20917.html#a7b49046e49cdf6b94ed6368197daeace", null ],
+    [ "_scheduler", "dc/d7e/a20917.html#acfd9e9a23c88e74ad96a14f8fb560612", null ]
 ];

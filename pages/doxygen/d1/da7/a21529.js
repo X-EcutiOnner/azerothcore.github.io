@@ -1,6 +1,11 @@
 var a21529 =
 [
-    [ "npc_dalaran_mageAI", "d0/d13/a21533.html", "d0/d13/a21533" ],
-    [ "npc_dalaran_mage", "d1/da7/a21529.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
-    [ "GetAI", "d1/da7/a21529.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
+    [ "npc_vh_void_sentry", "d1/da7/a21529.html#adeb66953fb7540aab5190b825ff98ec8", null ],
+    [ "DoAction", "d1/da7/a21529.html#a37ed72c221f23cd653694c10d536eec4", null ],
+    [ "JustDied", "d1/da7/a21529.html#aabf96934586d38d6f958c1571c0b3b56", null ],
+    [ "SummonedCreatureDespawn", "d1/da7/a21529.html#aa0ac1eb51911672653ec6fd48d2ef316", null ],
+    [ "UpdateAI", "d1/da7/a21529.html#a417af2ca21310ca105d7561e3ab21272", null ],
+    [ "_events", "d1/da7/a21529.html#a30899a2d4d8a82b26251911dc3b48008", null ],
+    [ "_instance", "d1/da7/a21529.html#a80dc77a2deaf0f922f3f096f40b253e1", null ],
+    [ "_summonedGuid", "d1/da7/a21529.html#a223e85ca87d89c51d0bc02e00d591aec", null ]
 ];

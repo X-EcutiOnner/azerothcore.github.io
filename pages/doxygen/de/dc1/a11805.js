@@ -1,10 +1,7 @@
 var a11805 =
 [
-    [ "TriggeredByAuraSpellData", "de/dc1/a11805.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
-    [ "Init", "de/dc1/a11805.html#a782e0056967e006748318af3112c0e43", null ],
-    [ "operator bool", "de/dc1/a11805.html#a85d4782b76b060c172aaa6f914d400da", null ],
-    [ "operator!", "de/dc1/a11805.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
-    [ "effectIndex", "de/dc1/a11805.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
-    [ "spellInfo", "de/dc1/a11805.html#af58f62fb168e9da7011f7b570f08e977", null ],
-    [ "tickNumber", "de/dc1/a11805.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
+    [ "IsValidOpcode", "de/dc1/a11805.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
+    [ "IsValidSize", "de/dc1/a11805.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
+    [ "cmd", "de/dc1/a11805.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
+    [ "size", "de/dc1/a11805.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
 ];

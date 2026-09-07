@@ -1,30 +1,6 @@
 var a28257 =
 [
-    [ "NPCStaveQuestAI", "d0/df4/a28257.html#a2bd2185cd62cc725324c9cc4ab3dfcbc", null ],
-    [ "AttackedBy", "d0/df4/a28257.html#a20069078ff60d49baafe02e8c7a95973", null ],
-    [ "AttackStart", "d0/df4/a28257.html#a0b2b9c251344f27d75a01e2ebc53dd5d", null ],
-    [ "ClearLootIfUnfair", "d0/df4/a28257.html#adf1af974ba78d33dba14847d075cb40b", null ],
-    [ "EvadeOnFeignDeath", "d0/df4/a28257.html#a2f6e72696b409907a367c13f2207127b", null ],
-    [ "GetFormEntry", "d0/df4/a28257.html#a7c1442ba2f7e31b72942a61f0d0f716c", null ],
-    [ "GetGossipPlayer", "d0/df4/a28257.html#a47582d2c7207f3461057feb5e0a4c189", null ],
-    [ "InNormalForm", "d0/df4/a28257.html#a4ac102757e65c86433b7a758aeb248ba", null ],
-    [ "IsAllowedEntry", "d0/df4/a28257.html#a46f79efa1c53ff1a59ef60de50896ce7", null ],
-    [ "IsFairFight", "d0/df4/a28257.html#ab54a0fd2dad83d2bd1d179fb9639edf0", null ],
-    [ "JustDied", "d0/df4/a28257.html#a220e3c50c24ebfd33e368c159665076d", null ],
-    [ "PlayerEligibleForReward", "d0/df4/a28257.html#a073e4e3a7f303ea632dc2c4770c556d4", null ],
-    [ "PrepareForEncounter", "d0/df4/a28257.html#a5adddedf655d743566adc76e4a1a9dc6", null ],
-    [ "QuestIncomplete", "d0/df4/a28257.html#a41eb9c433d6b5afff7620fc22953e858", null ],
-    [ "ResetState", "d0/df4/a28257.html#ad134dbf9931d2d7f3d9c2b7d14fcb76c", null ],
-    [ "RevealForm", "d0/df4/a28257.html#ab1f2c4d3673ced2eec226741d73f38b0", null ],
-    [ "SetHomePosition", "d0/df4/a28257.html#a803fd42a51521c869b2e734f124eca9d", null ],
-    [ "StoreAttackerGuidValue", "d0/df4/a28257.html#af18005dd457c320709921bcdd0f7895d", null ],
-    [ "StorePlayerGUID", "d0/df4/a28257.html#aca5c4a4b283b1fdffd646807a1002e42", null ],
-    [ "UnitIsUnfair", "d0/df4/a28257.html#acb429c642b2004869c54cd4000eb2c59", null ],
-    [ "ValidThreatlist", "d0/df4/a28257.html#a4970b26483198e990dd399f876074383", null ],
-    [ "attackerGuids", "d0/df4/a28257.html#a03e24a838a78c445f55618e66f0387d4", null ],
-    [ "encounterStarted", "d0/df4/a28257.html#a22bd1b0b08fac1e91c5e07db7b93c548", null ],
-    [ "entryKeys", "d0/df4/a28257.html#a0ea30f49ac6a9f78a9c0429f2c20c4c5", null ],
-    [ "entryList", "d0/df4/a28257.html#a1a9ccd1d254bdb80b87d997d91afd6d7", null ],
-    [ "gossipPlayerGUID", "d0/df4/a28257.html#a286967eb3806c73746bcb8524ecbda24", null ],
-    [ "playerGUID", "d0/df4/a28257.html#a81644c431d107dda59c726fdbc4b671c", null ]
+    [ "go_flamesAI", "df/ddf/a28261.html", "df/ddf/a28261" ],
+    [ "go_flames", "d0/df4/a28257.html#a75d49202eaf2078b8276e59944d1ec89", null ],
+    [ "GetAI", "d0/df4/a28257.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
 ];

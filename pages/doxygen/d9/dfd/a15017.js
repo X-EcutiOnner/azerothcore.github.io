@@ -1,6 +1,7 @@
 var a15017 =
 [
-    [ "OnAuraRemove", "d9/dfd/a15017.html#ad16e8b64999771154360afad71454c07", null ],
-    [ "PrepareAuraScript", "d9/dfd/a15017.html#a70963be80861e10ecd093e40b77e7078", null ],
-    [ "Register", "d9/dfd/a15017.html#a7381cbea873fb57485e4539aa478d236", null ]
+    [ "HandleEffectApply", "d9/dfd/a15017.html#a404f2134734e1d21201033b3f26e611e", null ],
+    [ "HandleEffectPeriodic", "d9/dfd/a15017.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
+    [ "PrepareAuraScript", "d9/dfd/a15017.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
+    [ "Register", "d9/dfd/a15017.html#ad239472c15ca0c73b053d112f538ecff", null ]
 ];

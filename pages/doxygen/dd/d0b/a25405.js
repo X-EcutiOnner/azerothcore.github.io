@@ -1,6 +1,7 @@
 var a25405 =
 [
-    [ "FilterTargets", "dd/d0b/a25405.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
-    [ "PrepareSpellScript", "dd/d0b/a25405.html#a9fb910382c89750e38cb36bed48a1597", null ],
-    [ "Register", "dd/d0b/a25405.html#a667b10129d2d23f72712be523dc93180", null ]
+    [ "PrepareSpellScript", "dd/d0b/a25405.html#aad8061898087fbf5eb6527cbaa70927d", null ],
+    [ "RecalculateDamage", "dd/d0b/a25405.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
+    [ "Register", "dd/d0b/a25405.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
+    [ "_damagePct", "dd/d0b/a25405.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
 ];

@@ -1,5 +1,7 @@
 var a18509 =
 [
-    [ "at_sindragosa_lair", "d5/d99/a18509.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
-    [ "OnTrigger", "d5/d99/a18509.html#a07074bff20272042ed05be83dd818ee9", null ]
+    [ "OnRemove", "d5/d99/a18509.html#aa096174465120bde1994c85f72682be1", null ],
+    [ "PrepareAuraScript", "d5/d99/a18509.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
+    [ "Register", "d5/d99/a18509.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
+    [ "Validate", "d5/d99/a18509.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
 ];

@@ -1,8 +1,6 @@
 var a28285 =
 [
-    [ "npc_target_dummy", "d5/d8e/a28285.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
-    [ "DamageTaken", "d5/d8e/a28285.html#ae137fc2935f306807128850e9761253e", null ],
-    [ "Reset", "d5/d8e/a28285.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
-    [ "UpdateAI", "d5/d8e/a28285.html#a32e9e139a54375b336c112deee3687cd", null ],
-    [ "_deathTimer", "d5/d8e/a28285.html#a304b79f8ec2afda669b43d2e248d026a", null ]
+    [ "go_l70_etc_musicAI", "d5/d8e/a28285.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
+    [ "UpdateAI", "d5/d8e/a28285.html#a182a5a9bbe53ced25740de9a4a368469", null ],
+    [ "_events", "d5/d8e/a28285.html#aa0cda672b4491b3cfc75214038aa2132", null ]
 ];

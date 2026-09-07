@@ -1,4 +1,5 @@
 var a02300 =
 [
-    [ "ScriptRegistry< CommandScript >", "d1/d47/a02300.html#a2d714ec85ac23255244ecf61e4f48244", null ]
+    [ "cache_commandscript", "dd/dad/a12421.html", "dd/dad/a12421" ],
+    [ "AddSC_cache_commandscript", "d1/d47/a02300.html#a293f65606c1750692d4046d4fe4c4adc", null ]
 ];

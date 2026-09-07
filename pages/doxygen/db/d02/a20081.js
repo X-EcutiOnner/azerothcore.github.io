@@ -1,5 +1,6 @@
 var a20081 =
 [
-    [ "achievement_cant_do_that_while_stunned", "db/d02/a20081.html#a4d474b36f61631688ea723d2e4033574", null ],
-    [ "OnCheck", "db/d02/a20081.html#a0b108bdcab0bc412975e61247f226bf8", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "d6/dca/a20085.html", "d6/dca/a20085" ],
+    [ "instance_halls_of_stone", "db/d02/a20081.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "db/d02/a20081.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

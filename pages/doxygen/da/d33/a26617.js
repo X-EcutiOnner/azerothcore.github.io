@@ -1,11 +1,8 @@
 var a26617 =
 [
-    [ "CheckProc", "da/d33/a26617.html#aeeb075a2dcaf57b328e4196959c40390", null ],
-    [ "HandleApplyDoT", "da/d33/a26617.html#a4f832f97ae2f777c659876e20b7515a5", null ],
-    [ "HandleSeal", "da/d33/a26617.html#aca82977aa1ee943bc557a76d09dba147", null ],
-    [ "Load", "da/d33/a26617.html#a16545533c0a45b6bde0da3fbeaed75ae", null ],
-    [ "PrepareAuraScript", "da/d33/a26617.html#a9d33b5c75d975f6e7f0accdf7eb10155", null ],
-    [ "Register", "da/d33/a26617.html#a3030a2b5bb530abe673ab2cfae8351ce", null ],
-    [ "Validate", "da/d33/a26617.html#ade8e79f41a0ec1904f33b2628eac966e", null ],
-    [ "_isVengeance", "da/d33/a26617.html#a194bdf6e15ecf61533d40c0990e392a4", null ]
+    [ "OnRemove", "da/d33/a26617.html#a992c78ac4ce2a94c4f38c7a81f2a9c45", null ],
+    [ "PrepareAuraScript", "da/d33/a26617.html#ad06dbe9207315484cbb886fcc75bb958", null ],
+    [ "PrepareProc", "da/d33/a26617.html#a2f4b562be28420d25d09b81ad72af17f", null ],
+    [ "Register", "da/d33/a26617.html#a04d9c48f8842392a4d318677537ac248", null ],
+    [ "Validate", "da/d33/a26617.html#ab15a75ec708d8c683166bd73fab29701", null ]
 ];

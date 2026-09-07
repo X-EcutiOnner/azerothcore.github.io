@@ -1,6 +1,17 @@
 var a29317 =
 [
-    [ "SetUp", "df/d60/a29317.html#af04bbb2661f10d3bf442c590ebdf1a2b", null ],
-    [ "TearDown", "df/d60/a29317.html#a3bc271279472966f9dae906f9f77119b", null ],
-    [ "confFilePath", "df/d60/a29317.html#aaaccdda1669c76b94483bf2db2615d4e", null ]
+    [ "Entry", "df/d60/a29317.html#a4e8689fabe6b3ef5c495bf84fa1945b7", null ],
+    [ "Difficulty", "df/d60/a29317.html#aa85e97ced86b0d27c753ca924eba074b", null ],
+    [ "ExpansionLevel", "df/d60/a29317.html#a5bbacc248aa127b889d60b3a25b12b83", null ],
+    [ "Flags", "df/d60/a29317.html#a9481c296a064ec400b0f050097903557", null ],
+    [ "GroupID", "df/d60/a29317.html#a7a6c2971a61b171d00c885ce452601ce", null ],
+    [ "ID", "df/d60/a29317.html#ae0fdf0d9afd2f99e9b7e6094960e86e0", null ],
+    [ "MapID", "df/d60/a29317.html#a6c947b111d7d356ba02eb6fffc77f5cb", null ],
+    [ "MaxLevel", "df/d60/a29317.html#aa4fbfd45d4319c9e8319508821bf4a65", null ],
+    [ "MinLevel", "df/d60/a29317.html#a17ae5fe60486c54a3becb2b14d5953c9", null ],
+    [ "Name", "df/d60/a29317.html#a7cb21e4e996be24d531b03fea66ecd27", null ],
+    [ "TargetLevel", "df/d60/a29317.html#a2e6456d16cce98666b0ac63cebf0eb82", null ],
+    [ "TargetLevelMax", "df/d60/a29317.html#ae4a27f7bc0563f606f40d955a40fab1e", null ],
+    [ "TargetLevelMin", "df/d60/a29317.html#a7558f3dc7d695fb17bc3b64e0c381de7", null ],
+    [ "TypeID", "df/d60/a29317.html#a84a498b44063cc95ba1a3b565c44a81b", null ]
 ];

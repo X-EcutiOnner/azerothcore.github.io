@@ -1,5 +1,8 @@
 var a16193 =
 [
-    [ "go_elune_fire", "d4/dc0/a16193.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
-    [ "OnGossipHello", "d4/dc0/a16193.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
+    [ "npc_lakota_windsongAI", "d4/dc0/a16193.html#a922172a38ca75adef66a2653eda7fa98", null ],
+    [ "DoSpawnBandits", "d4/dc0/a16193.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
+    [ "Reset", "d4/dc0/a16193.html#aee7a86275f93021e0e5db249b636bcd4", null ],
+    [ "WaypointReached", "d4/dc0/a16193.html#a6435c8b1521206789131889e5fa527a6", null ],
+    [ "WaypointReached", "d4/dc0/a16193.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

@@ -1,9 +1,6 @@
 var a14045 =
 [
-    [ "npc_partygoer", "db/da7/a14045.html#af053caedfd1fa8173b875f521d279418", null ],
-    [ "Initialize", "db/da7/a14045.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
-    [ "Reset", "db/da7/a14045.html#ad1936099ec5696a2a593e5041b0360c6", null ],
-    [ "UpdateAI", "db/da7/a14045.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
-    [ "_events", "db/da7/a14045.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
-    [ "_facing", "db/da7/a14045.html#a9e934091894987ec091b03090bf733e5", null ]
+    [ "npc_rinjiAI", "d3/d05/a14049.html", "d3/d05/a14049" ],
+    [ "npc_rinji", "db/da7/a14045.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
+    [ "GetAI", "db/da7/a14045.html#a5457ac00ce0b195752640358b912af10", null ]
 ];

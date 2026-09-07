@@ -1,5 +1,6 @@
 var a20409 =
 [
-    [ "achievement_i_have_the_coolest_friends", "db/d5c/a20409.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "db/d5c/a20409.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "FilterTargets", "db/d5c/a20409.html#a977f0687005cdbd585be0704e5ce20d8", null ],
+    [ "PrepareSpellScript", "db/d5c/a20409.html#a96f279fbc08f23f0b7e7f807dc0ddd7a", null ],
+    [ "Register", "db/d5c/a20409.html#a1038ca2384a31671dab1d72e1232cfe1", null ]
 ];

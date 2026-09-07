@@ -1,8 +1,12 @@
 var a20705 =
 [
-    [ "npc_scrapbot", "d8/dcb/a20705.html#a088bac1bf5cb91be8f18368c08c5414a", null ],
-    [ "Reset", "d8/dcb/a20705.html#a2dca509a6e2b46674165e5559717f69c", null ],
-    [ "UpdateAI", "d8/dcb/a20705.html#ade90c75baf598900adaa300cef28cb6a", null ],
-    [ "_instance", "d8/dcb/a20705.html#afb8296b4d9105ee99abc534656289ae2", null ],
-    [ "_scheduler", "d8/dcb/a20705.html#a4deb841588ea244e4290bb8ffb69b483", null ]
+    [ "npc_ulduar_flames_initial", "d8/dcb/a20705.html#ac0ba4a5631f580b23be30f6d19545a1f", null ],
+    [ "DoAction", "d8/dcb/a20705.html#ae0b262371dfc00ca168afc9e4d28b133", null ],
+    [ "RemoveAll", "d8/dcb/a20705.html#a604fee1e371ffd6efe8f80c6db61318f", null ],
+    [ "RemoveFlame", "d8/dcb/a20705.html#ad676a542b40b554027fc2ab491fa083d", null ],
+    [ "SpreadFlame", "d8/dcb/a20705.html#af50c950610f5277a755d1786b596b9d7", null ],
+    [ "UpdateAI", "d8/dcb/a20705.html#a34c1ffd2bc07c2a736a7d6dc103a8afe", null ],
+    [ "_createTime", "d8/dcb/a20705.html#aa73a9fa2110bd5abdff9b509e13ce333", null ],
+    [ "_events", "d8/dcb/a20705.html#a0f99d43d373b61e9c665bd6c0d389afb", null ],
+    [ "_flameList", "d8/dcb/a20705.html#a50a26001f8bfe87a3a4f1feb544cf521", null ]
 ];

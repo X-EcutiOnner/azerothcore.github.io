@@ -1,10 +1,8 @@
 var a23109 =
 [
-    [ "npc_frozen_core", "d5/dc9/a23109.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
-    [ "DoAction", "d5/dc9/a23109.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
-    [ "Initialize", "d5/dc9/a23109.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
-    [ "JustDied", "d5/dc9/a23109.html#a476e086b0379e0cef3a44d250b020d6a", null ],
-    [ "UpdateAI", "d5/dc9/a23109.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
-    [ "_events", "d5/dc9/a23109.html#a3a5efec3279644ef713722e1556a3c84", null ],
-    [ "_instance", "d5/dc9/a23109.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
+    [ "boss_najentus", "d5/dc9/a23109.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "d5/dc9/a23109.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "d5/dc9/a23109.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "d5/dc9/a23109.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "d5/dc9/a23109.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ]
 ];

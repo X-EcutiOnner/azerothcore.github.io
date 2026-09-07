@@ -1,7 +1,7 @@
 var a25645 =
 [
-    [ "HandleScriptEffect", "d9/ddf/a25645.html#a3ad488a1b6115bb1ec8cfe6717d3b4cf", null ],
-    [ "Load", "d9/ddf/a25645.html#af89783564da25769be15e22291717f6a", null ],
-    [ "PrepareSpellScript", "d9/ddf/a25645.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7", null ],
-    [ "Register", "d9/ddf/a25645.html#addbe722d9f3727578f817789e3010bab", null ]
+    [ "HandleProc", "d9/ddf/a25645.html#a87508c28fead56ca60c947d78ff8bae2", null ],
+    [ "PrepareAuraScript", "d9/ddf/a25645.html#a514ba9c8222312bb213fcebb418d2499", null ],
+    [ "Register", "d9/ddf/a25645.html#aebe4db9304449686a544c8e4c4f26b81", null ],
+    [ "Validate", "d9/ddf/a25645.html#a9888b4bf71e8bb9e4b1c3caf74c48b31", null ]
 ];

@@ -1,7 +1,6 @@
 var a24393 =
 [
-    [ "CheckClass", "d4/d1c/a24393.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
-    [ "HandleScript", "d4/d1c/a24393.html#a4f4f7004be5629efdc48b52b6667edba", null ],
-    [ "PrepareSpellScript", "d4/d1c/a24393.html#a599ce758681c5196bd40e4c7b86635cc", null ],
-    [ "Register", "d4/d1c/a24393.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
+    [ "npc_unkor_the_ruthlessAI", "de/df5/a24397.html", "de/df5/a24397" ],
+    [ "npc_unkor_the_ruthless", "d4/d1c/a24393.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
+    [ "GetAI", "d4/d1c/a24393.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
 ];

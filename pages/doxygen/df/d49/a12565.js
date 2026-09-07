@@ -1,6 +1,6 @@
 var a12565 =
 [
-    [ "boss_drektharAI", "d3/d63/a12569.html", "d3/d63/a12569" ],
-    [ "boss_drekthar", "df/d49/a12565.html#ac9296654b10191ac9d58219ba36f57b3", null ],
-    [ "GetAI", "df/d49/a12565.html#adeacbbc81ab675260c2cac1a6c76d3fe", null ]
+    [ "player_settings_commandscript", "df/d49/a12565.html#ab8585064d4d358d7d48eed97379a3a78", null ],
+    [ "GetCommands", "df/d49/a12565.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
+    [ "HandleSettingsAnnouncerFlags", "df/d49/a12565.html#af505117caa66ed4222e52ff91c486b6e", null ]
 ];

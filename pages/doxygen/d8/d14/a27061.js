@@ -1,6 +1,6 @@
 var a27061 =
 [
-    [ "PrepareAuraScript", "d8/d14/a27061.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
-    [ "Register", "d8/d14/a27061.html#a91f4b2b8796c7efab2f622893a393619", null ],
-    [ "AuraEffectHandleModes", "d8/d14/a27061.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
+    [ "HandleDummyEffect", "d8/d14/a27061.html#a6340c91d8419755386cb3e138cb3c171", null ],
+    [ "PrepareSpellScript", "d8/d14/a27061.html#a67d08252c8b8deee312f17affb557df8", null ],
+    [ "Register", "d8/d14/a27061.html#a262bb06ac1d6a55e886d1226ad7bb583", null ]
 ];

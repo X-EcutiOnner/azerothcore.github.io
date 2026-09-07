@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/AllSpellScript.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/AI/ScriptedAI/ScriptedEscortAI.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,71 +106,51 @@ $(document).ready(function(){initNavTree('d5/d8b/a02060.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#define-members">Macros</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">AllSpellScript.h File Reference</div></div>
+  <div class="headertitle"><div class="title">ScriptedEscortAI.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
-<code>#include &lt;vector&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptSystem.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/df5/a10711.html">AllSpellScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/a06629.html">Escort_Waypoint</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/db0/a06633.html">npc_escortAI</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a743e879dd1df387001a0db3b0bf31d0e"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8b/a02060.html#a743e879dd1df387001a0db3b0bf31d0e">SpellSC</a> = <a class="el" href="../../da/df5/a10711.html">AllSpellScript</a></td></tr>
-<tr class="separator:a743e879dd1df387001a0db3b0bf31d0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:ad23dc39ce2da634e67360fab90e3b9e2"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8b/a02060.html#ad23dc39ce2da634e67360fab90e3b9e2">DEFAULT_MAX_PLAYER_DISTANCE</a>&#160;&#160;&#160;100</td></tr>
+<tr class="separator:ad23dc39ce2da634e67360fab90e3b9e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:afe0b21412f82a634ffd412b1aca51cbc"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbc">AllSpellHook</a> { <br />
-&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97">ALLSPELLHOOK_ON_CALC_MAX_DURATION</a>
+<tr class="memitem:af40ca4990501264cb0359ab6d93fb08a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8b/a02060.html#af40ca4990501264cb0359ab6d93fb08a">eEscortState</a> { <br />
+&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5">STATE_ESCORT_NONE</a> = 0x000
 , <br />
-&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24">ALLSPELLHOOK_ON_SPELL_CHECK_CAST</a>
+&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92">STATE_ESCORT_ESCORTING</a> = 0x001
 , <br />
-&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354">ALLSPELLHOOK_CAN_PREPARE</a>
+&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48">STATE_ESCORT_RETURNING</a> = 0x002
 , <br />
-&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a">ALLSPELLHOOK_CAN_SCALING_EVERYTHING</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770">ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1">ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c">ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808">ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f">ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034">ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1">ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b">ALLSPELLHOOK_ON_CAST_CANCEL</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e">ALLSPELLHOOK_ON_CAST</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058">ALLSPELLHOOK_ON_PREPARE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f">ALLSPELLHOOK_END</a>
+&#160;&#160;<a class="el" href="../../d5/d8b/a02060.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6">STATE_ESCORT_PAUSED</a> = 0x004
 <br />
  }</td></tr>
-<tr class="separator:afe0b21412f82a634ffd412b1aca51cbc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:af40ca4990501264cb0359ab6d93fb08a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="a743e879dd1df387001a0db3b0bf31d0e" name="a743e879dd1df387001a0db3b0bf31d0e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a743e879dd1df387001a0db3b0bf31d0e">&#9670;&#160;</a></span>SpellSC</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="ad23dc39ce2da634e67360fab90e3b9e2" name="ad23dc39ce2da634e67360fab90e3b9e2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad23dc39ce2da634e67360fab90e3b9e2">&#9670;&#160;</a></span>DEFAULT_MAX_PLAYER_DISTANCE</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="../../d5/d8b/a02060.html#a743e879dd1df387001a0db3b0bf31d0e">SpellSC</a> =  <a class="el" href="../../da/df5/a10711.html">AllSpellScript</a></td>
+          <td class="memname">#define DEFAULT_MAX_PLAYER_DISTANCE&#160;&#160;&#160;100</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -178,66 +158,33 @@ Enumerations</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="afe0b21412f82a634ffd412b1aca51cbc" name="afe0b21412f82a634ffd412b1aca51cbc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afe0b21412f82a634ffd412b1aca51cbc">&#9670;&#160;</a></span>AllSpellHook</h2>
+<a id="af40ca4990501264cb0359ab6d93fb08a" name="af40ca4990501264cb0359ab6d93fb08a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af40ca4990501264cb0359ab6d93fb08a">&#9670;&#160;</a></span>eEscortState</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbc">AllSpellHook</a></td>
+          <td class="memname">enum <a class="el" href="../../d5/d8b/a02060.html#af40ca4990501264cb0359ab6d93fb08a">eEscortState</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97" name="afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97"></a>ALLSPELLHOOK_ON_CALC_MAX_DURATION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24" name="afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24"></a>ALLSPELLHOOK_ON_SPELL_CHECK_CAST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354" name="afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354"></a>ALLSPELLHOOK_CAN_PREPARE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a" name="afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a"></a>ALLSPELLHOOK_CAN_SCALING_EVERYTHING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770" name="afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770"></a>ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1" name="afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1"></a>ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c" name="afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c"></a>ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808" name="afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808"></a>ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f" name="afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f"></a>ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034" name="afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034"></a>ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1" name="afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1"></a>ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b" name="afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b"></a>ALLSPELLHOOK_ON_CAST_CANCEL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e" name="afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e"></a>ALLSPELLHOOK_ON_CAST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058" name="afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058"></a>ALLSPELLHOOK_ON_PREPARE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f" name="afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f"></a>ALLSPELLHOOK_END&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5" name="af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5"></a>STATE_ESCORT_NONE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92" name="af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92"></a>STATE_ESCORT_ESCORTING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48" name="af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48"></a>STATE_ESCORT_RETURNING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6" name="af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6"></a>STATE_ESCORT_PAUSED&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97">ALLSPELLHOOK_ON_CALC_MAX_DURATION</a>,</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24">ALLSPELLHOOK_ON_SPELL_CHECK_CAST</a>,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354">ALLSPELLHOOK_CAN_PREPARE</a>,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a">ALLSPELLHOOK_CAN_SCALING_EVERYTHING</a>,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770">ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT</a>,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1">ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD</a>,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c">ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS</a>,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808">ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL</a>,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f">ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT</a>,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034">ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE</a>,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1">ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM</a>,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b">ALLSPELLHOOK_ON_CAST_CANCEL</a>,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e">ALLSPELLHOOK_ON_CAST</a>,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058">ALLSPELLHOOK_ON_PREPARE</a>,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f">ALLSPELLHOOK_END</a></div>
-<div class="line"><span class="lineno">   41</span>};</div>
-<div class="ttc" id="aa02060_html_afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97"><div class="ttname"><a href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97">ALLSPELLHOOK_ON_CALC_MAX_DURATION</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_CALC_MAX_DURATION</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:26</div></div>
-<div class="ttc" id="aa02060_html_afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c"><div class="ttname"><a href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c">ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:32</div></div>
-<div class="ttc" id="aa02060_html_afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034"><div class="ttname"><a href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034">ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:35</div></div>
-<div class="ttc" id="aa02060_html_afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24"><div class="ttname"><a href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24">ALLSPELLHOOK_ON_SPELL_CHECK_CAST</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_SPELL_CHECK_CAST</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:27</div></div>
-<div class="ttc" id="aa02060_html_afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f"><div class="ttname"><a href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f">ALLSPELLHOOK_END</a></div><div class="ttdeci">@ ALLSPELLHOOK_END</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:40</div></div>
-<div class="ttc" id="aa02060_html_afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058"><div class="ttname"><a href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058">ALLSPELLHOOK_ON_PREPARE</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_PREPARE</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:39</div></div>
-<div class="ttc" id="aa02060_html_afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1"><div class="ttname"><a href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1">ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:36</div></div>
-<div class="ttc" id="aa02060_html_afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1"><div class="ttname"><a href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1">ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:31</div></div>
-<div class="ttc" id="aa02060_html_afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b"><div class="ttname"><a href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b">ALLSPELLHOOK_ON_CAST_CANCEL</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_CAST_CANCEL</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:37</div></div>
-<div class="ttc" id="aa02060_html_afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808"><div class="ttname"><a href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808">ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:33</div></div>
-<div class="ttc" id="aa02060_html_afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354"><div class="ttname"><a href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354">ALLSPELLHOOK_CAN_PREPARE</a></div><div class="ttdeci">@ ALLSPELLHOOK_CAN_PREPARE</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:28</div></div>
-<div class="ttc" id="aa02060_html_afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f"><div class="ttname"><a href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f">ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:34</div></div>
-<div class="ttc" id="aa02060_html_afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a"><div class="ttname"><a href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a">ALLSPELLHOOK_CAN_SCALING_EVERYTHING</a></div><div class="ttdeci">@ ALLSPELLHOOK_CAN_SCALING_EVERYTHING</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:29</div></div>
-<div class="ttc" id="aa02060_html_afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e"><div class="ttname"><a href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e">ALLSPELLHOOK_ON_CAST</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_CAST</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:38</div></div>
-<div class="ttc" id="aa02060_html_afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770"><div class="ttname"><a href="../../d5/d8b/a02060.html#afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770">ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT</a></div><div class="ttdeci">@ ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:30</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   45</span>{</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5">STATE_ESCORT_NONE</a>       = 0x000,                        <span class="comment">//nothing in progress</span></div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92">STATE_ESCORT_ESCORTING</a>  = 0x001,                        <span class="comment">//escort are in progress</span></div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48">STATE_ESCORT_RETURNING</a>  = 0x002,                        <span class="comment">//escort is returning after being in combat</span></div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d5/d8b/a02060.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6">STATE_ESCORT_PAUSED</a>     = 0x004                         <span class="comment">//will not proceed with waypoints before state is removed</span></div>
+<div class="line"><span class="lineno">   50</span>};</div>
+<div class="ttc" id="aa02060_html_af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6"><div class="ttname"><a href="../../d5/d8b/a02060.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6">STATE_ESCORT_PAUSED</a></div><div class="ttdeci">@ STATE_ESCORT_PAUSED</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:49</div></div>
+<div class="ttc" id="aa02060_html_af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92"><div class="ttname"><a href="../../d5/d8b/a02060.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92">STATE_ESCORT_ESCORTING</a></div><div class="ttdeci">@ STATE_ESCORT_ESCORTING</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:47</div></div>
+<div class="ttc" id="aa02060_html_af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5"><div class="ttname"><a href="../../d5/d8b/a02060.html#af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5">STATE_ESCORT_NONE</a></div><div class="ttdeci">@ STATE_ESCORT_NONE</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:46</div></div>
+<div class="ttc" id="aa02060_html_af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48"><div class="ttname"><a href="../../d5/d8b/a02060.html#af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48">STATE_ESCORT_RETURNING</a></div><div class="ttdeci">@ STATE_ESCORT_RETURNING</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:48</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -246,8 +193,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d5/d8b/a02060.html">AllSpellScript.h</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:07:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_5e5741f7891ede41bef7ecc492194021.html">AI</a></li><li class="navelem"><a class="el" href="../../dir_1f3214457037742cde290c7511bc5bd6.html">ScriptedAI</a></li><li class="navelem"><a class="el" href="../../d5/d8b/a02060.html">ScriptedEscortAI.h</a></li>
+    <li class="footer">Generated on Mon Sep 7 2026 23:03:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,8 @@
 var a26681 =
 [
-    [ "FilterTargets", "db/d1d/a26681.html#a23c7b977f7e213322b3702367d6a28c7", null ],
-    [ "PrepareSpellScript", "db/d1d/a26681.html#a7000b2fd940c914933c486e847932b62", null ],
-    [ "Register", "db/d1d/a26681.html#a870ee08d0341f6640710a87c97a6b98b", null ]
+    [ "ApplyPermafrost", "db/d1d/a26681.html#a06bb458e038b97696362681a6fd28104", null ],
+    [ "PrepareAuraScript", "db/d1d/a26681.html#a3d96d6f5f798efc92572e2a52349102d", null ],
+    [ "Register", "db/d1d/a26681.html#a613e5af53064357f4e8e4d6260c6856a", null ],
+    [ "RemovePermafrost", "db/d1d/a26681.html#a9414746a76f53a5258cf617abefd5bd6", null ],
+    [ "Validate", "db/d1d/a26681.html#addd58a0138e3cdb5cb274c8a38151a45", null ]
 ];

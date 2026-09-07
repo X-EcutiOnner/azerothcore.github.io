@@ -1,9 +1,9 @@
 var a25109 =
 [
-    [ "PrepareAuraScript", "d3/ddc/a25109.html#aebfc1dfb1ff025b0ef4a8c0062a000f1", null ],
-    [ "RefreshVisualShields", "d3/ddc/a25109.html#aeefbbdd391c347b350ec7738b9825f8c", null ],
-    [ "Register", "d3/ddc/a25109.html#aacd9f12cddd0c698816916d9cdf5f0ea", null ],
-    [ "RemoveDummyFromDriver", "d3/ddc/a25109.html#a399641ce72b74038a4517868267bd86a", null ],
-    [ "RemoveVisualShields", "d3/ddc/a25109.html#aed4bb9ec815ac4e22b952a64c8bd3b51", null ],
-    [ "Validate", "d3/ddc/a25109.html#ae5799f72b7fbce82799fd730f1525948", null ]
+    [ "spell_gen_select_target_count", "d3/ddc/a25109.html#a65507c155a8746ff49c58c051b7868e4", null ],
+    [ "FilterTargets", "d3/ddc/a25109.html#a5de89be9ce321a0f4ac49853a700b502", null ],
+    [ "PrepareSpellScript", "d3/ddc/a25109.html#a42ddce15414dcdf495b572e0f75e9486", null ],
+    [ "Register", "d3/ddc/a25109.html#a94f86992275123e2e3989655cf077efd", null ],
+    [ "_count", "d3/ddc/a25109.html#acdf5daa848ae185b859c45a1271df68c", null ],
+    [ "_effTarget", "d3/ddc/a25109.html#a9c54508790062277c8275d2466e93fb3", null ]
 ];

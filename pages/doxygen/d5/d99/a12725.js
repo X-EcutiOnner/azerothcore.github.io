@@ -1,11 +1,11 @@
 var a12725 =
 [
-    [ "npc_blackhand_incarcerator", "d5/d99/a12725.html#af44831badd703bf8c5275c749fd61d2a", null ],
-    [ "DamageTaken", "d5/d99/a12725.html#af28b787db83769685d90cf7950d8f825", null ],
-    [ "JustEngagedWith", "d5/d99/a12725.html#a9f4ab7c404a71da418c81b37dd14a7da", null ],
-    [ "Reset", "d5/d99/a12725.html#a89befac34c050f9229961782156c7adf", null ],
-    [ "SetData", "d5/d99/a12725.html#a9716a5bcc7101e9a39280ab7afd26540", null ],
-    [ "UpdateAI", "d5/d99/a12725.html#a83bad94665e11bcb55498bad5fb055a9", null ],
-    [ "_events", "d5/d99/a12725.html#a2c980622c898df77f3ed46cae1224c2f", null ],
-    [ "_fleedForAssistance", "d5/d99/a12725.html#abb52cd563252e5d00e256faf6e3cd3d3", null ]
+    [ "boss_emperor_dagran_thaurissan", "d5/d99/a12725.html#a33efe0ee1573c4b43cdf58bdce303e5d", null ],
+    [ "JustDied", "d5/d99/a12725.html#a526a7726e2838ef4c49cca8dd6fc68c9", null ],
+    [ "JustEngagedWith", "d5/d99/a12725.html#a182564d95dc677ea33e47995638a9a58", null ],
+    [ "KilledUnit", "d5/d99/a12725.html#a7f7ae37e4abbe37f4fa46b98af3ac03a", null ],
+    [ "SetData", "d5/d99/a12725.html#a5ccda3d76afe43804c86e193afa9b80c", null ],
+    [ "UpdateAI", "d5/d99/a12725.html#ab1c7da00e8e1a20d2592ec26862867fc", null ],
+    [ "hasYelled", "d5/d99/a12725.html#aaadeb10c22c598cd10ccde83425fbf71", null ],
+    [ "SenatorYells", "d5/d99/a12725.html#ad94aef1875a5a863f78dc84a964638f9", null ]
 ];

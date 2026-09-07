@@ -1,10 +1,11 @@
 var a23201 =
 [
-    [ "boss_warlord_kalithresh", "d1/d60/a23201.html#afcf2288fbea2d5010c41344ce0247559", null ],
-    [ "JustDied", "d1/d60/a23201.html#a1947562aa9dafea371e2f2da824a3f65", null ],
-    [ "JustEngagedWith", "d1/d60/a23201.html#a2712f5c363c3929550b77ef2536b1385", null ],
-    [ "KilledUnit", "d1/d60/a23201.html#a06855288497f5335a236867ef681d3f8", null ],
-    [ "MoveInLineOfSight", "d1/d60/a23201.html#a544da19b6c3a6f159ed6b1639def1071", null ],
-    [ "Reset", "d1/d60/a23201.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
-    [ "_introDone", "d1/d60/a23201.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
+    [ "boss_doomwalker", "d1/d60/a23201.html#a47811086ff98b1a09af5300af94b6c0e", null ],
+    [ "JustDied", "d1/d60/a23201.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
+    [ "JustEngagedWith", "d1/d60/a23201.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
+    [ "KilledUnit", "d1/d60/a23201.html#a2335eb642940397f73ee2a8051624e8e", null ],
+    [ "MoveInLineOfSight", "d1/d60/a23201.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
+    [ "Reset", "d1/d60/a23201.html#aba08b227d629c9f35e59f465e29c267b", null ],
+    [ "UpdateAI", "d1/d60/a23201.html#a3105c50e512c6f709985cece619b131f", null ],
+    [ "_inEnrage", "d1/d60/a23201.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
 ];

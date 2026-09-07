@@ -1,6 +1,7 @@
 var a13393 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "dc/d3c/a13397.html", "dc/d3c/a13397" ],
-    [ "instance_magisters_terrace", "d5/dbd/a13393.html#a81e23ce04c4d765193d2d2763ef78987", null ],
-    [ "GetInstanceScript", "d5/dbd/a13393.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
+    [ "HandleDummy", "d5/dbd/a13393.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
+    [ "PrepareSpellScript", "d5/dbd/a13393.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
+    [ "Register", "d5/dbd/a13393.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
+    [ "Validate", "d5/dbd/a13393.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
 ];

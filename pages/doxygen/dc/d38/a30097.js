@@ -1,8 +1,6 @@
 var a30097 =
 [
-    [ "Color", "dc/d38/a30097.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
-    [ "NameIndex", "dc/d38/a30097.html#add893e045d13a3633fd7346457a10477", null ],
-    [ "Position", "dc/d38/a30097.html#afae9056582e71160c151de2c172bc60a", null ],
-    [ "Rotation", "dc/d38/a30097.html#a48d372bc1371fa5f94db9aa39669942a", null ],
-    [ "Scale", "dc/d38/a30097.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
+    [ "RunStatisticalTest", "dc/d38/a30097.html#a5dadc645a4cae9bf9e9ed990616118be", null ],
+    [ "SetUp", "dc/d38/a30097.html#afa15552d260ab744d178e1c1b7ed23bb", null ],
+    [ "TearDown", "dc/d38/a30097.html#a894d832a3ee006179de45e944d25a732", null ]
 ];

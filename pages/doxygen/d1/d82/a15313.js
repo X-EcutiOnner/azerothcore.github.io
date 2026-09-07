@@ -1,9 +1,6 @@
 var a15313 =
 [
-    [ "boss_chrono_lord_deja", "d1/d82/a15313.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
-    [ "JustDied", "d1/d82/a15313.html#a68eb4941364f9fac121aa3d610d45f48", null ],
-    [ "JustEngagedWith", "d1/d82/a15313.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
-    [ "KilledUnit", "d1/d82/a15313.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
-    [ "MoveInLineOfSight", "d1/d82/a15313.html#a535c0c157c60804188ad8c4413c277dd", null ],
-    [ "OwnTalk", "d1/d82/a15313.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
+    [ "npc_cos_chromie_start", "d1/d82/a15313.html#ae8f810af1e593ad16958049f6ad19616", null ],
+    [ "OnGossipSelect", "d1/d82/a15313.html#a80db05062f24dd2d5bc0bb6996cf8a30", null ],
+    [ "OnQuestAccept", "d1/d82/a15313.html#a81ff4586ca64f198748aa84e1ffd9018", null ]
 ];

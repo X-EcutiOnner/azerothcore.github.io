@@ -1,11 +1,9 @@
 var a08797 =
 [
-    [ "PackedGuid", "d3/d0d/a08797.html#a9268f8d34f24ef52369d605f94986a8d", null ],
-    [ "PackedGuid", "d3/d0d/a08797.html#a6d4559bc2a1d8c27247329c95c2b6156", null ],
-    [ "PackedGuid", "d3/d0d/a08797.html#adf388e273472f2699348c7a4361ebac4", null ],
-    [ "Set", "d3/d0d/a08797.html#aecbb8650ca713c175c30cd3ebe86b5d5", null ],
-    [ "Set", "d3/d0d/a08797.html#ae5d174d63a0b9d33b919f05760290bea", null ],
-    [ "size", "d3/d0d/a08797.html#a22ac06b7072951e84bbf69abcd7d58f6", null ],
-    [ "operator<<", "d3/d0d/a08797.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
-    [ "_packedGuid", "d3/d0d/a08797.html#aeb0e51f1667a2627aabffd6d7cb1779c", null ]
+    [ "Reset", "d3/d0d/a08797.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
+    [ "guid", "d3/d0d/a08797.html#ac115013e34f67bc1444fef4fc96c843e", null ],
+    [ "pos", "d3/d0d/a08797.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
+    [ "seat", "d3/d0d/a08797.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
+    [ "time", "d3/d0d/a08797.html#acec3991f0d19fd9f72e9837eef516057", null ],
+    [ "time2", "d3/d0d/a08797.html#a426c651d2f359847b033a4d7f278a191", null ]
 ];

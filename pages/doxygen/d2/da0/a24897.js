@@ -1,5 +1,6 @@
 var a24897 =
 [
-    [ "PrepareSpellScript", "d2/da0/a24897.html#a054677572d74a740f1c14715608f7b1b", null ],
-    [ "Register", "d2/da0/a24897.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
+    [ "CheckCast", "d2/da0/a24897.html#a8ab8394c56201264ac4f2d859dd52092", null ],
+    [ "PrepareSpellScript", "d2/da0/a24897.html#acc6d27c8d869ec80ee5794405f6c238a", null ],
+    [ "Register", "d2/da0/a24897.html#a191085bc21ce6f5ce1d5b43d6d70f069", null ]
 ];

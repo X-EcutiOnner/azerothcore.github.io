@@ -1,6 +1,5 @@
 var a14525 =
 [
-    [ "boss_mandokirAI", "db/dfa/a14529.html", "db/dfa/a14529" ],
-    [ "boss_mandokir", "d7/d0c/a14525.html#aad13c8302cef7fb4981f0d2178630def", null ],
-    [ "GetAI", "d7/d0c/a14525.html#a215842d5ab23824ec20db64e2fa4407e", null ]
+    [ "at_zulgurub_bloodfire_pit_speech", "d7/d0c/a14525.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
+    [ "_OnTrigger", "d7/d0c/a14525.html#aeb9d0e2da05a7a11ce54dbe91ca75d69", null ]
 ];

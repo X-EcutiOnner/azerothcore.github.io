@@ -1,6 +1,6 @@
 var a18257 =
 [
-    [ "FilterTargets", "d0/d8e/a18257.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
-    [ "PrepareSpellScript", "d0/d8e/a18257.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
-    [ "Register", "d0/d8e/a18257.html#a32e04a1110d651701b8eab1648c69a57", null ]
+    [ "PrepareSpellScript", "d0/d8e/a18257.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "d0/d8e/a18257.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "d0/d8e/a18257.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

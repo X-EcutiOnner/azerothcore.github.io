@@ -1,7 +1,5 @@
 var a12645 =
 [
-    [ "boss_grizzle", "dd/dd7/a12645.html#af5d864d2e06859a3c21506b8def424d0", null ],
-    [ "JustEngagedWith", "dd/dd7/a12645.html#ad925b3a8190037e1768b1c5565656be7", null ],
-    [ "UpdateAI", "dd/dd7/a12645.html#a72c28686adf331ed291585f830041041", null ],
-    [ "nextTremorTime", "dd/dd7/a12645.html#a220d7e426d7bd2034cf2dc70d0a18f26", null ]
+    [ "npcEntry", "dd/dd7/a12645.html#a866b12ea5416f36c36bbea1a35a6a490", null ],
+    [ "spellId", "dd/dd7/a12645.html#a8c2fd26e0e9de5f9292c8b993ba9f9be", null ]
 ];

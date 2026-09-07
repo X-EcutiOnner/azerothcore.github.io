@@ -1,6 +1,8 @@
 var a10901 =
 [
-    [ "GetEvent", "d1/d7c/a10901.html#aabf338a9824038abbd0934a3bef0a269", null ],
-    [ "Read", "d1/d7c/a10901.html#a344db9b28e7247dc0285a3468a789721", null ],
-    [ "EventId", "d1/d7c/a10901.html#a31de21c2af87d174d139eef870cbb5fd", null ]
+    [ "type", "d1/d7c/a10901.html#a93b2e49d8b93d48c1fcf9ce460f965d6", null ],
+    [ "EnabledHooks", "d1/d7c/a10901.html#ac0ca0ab60e350e783c1297a657e32cdc", null ],
+    [ "HasEnabledHooks", "d1/d7c/a10901.html#a8cad14090933423a3bd83b87af723810", null ],
+    [ "LegacyDbValidationCandidate", "d1/d7c/a10901.html#a1c71456b199770112365ee54f0bd28ad", null ],
+    [ "PromotedAfterDbLoad", "d1/d7c/a10901.html#a1800cba1759f5cdee36e47e3aa4ab2e8", null ]
 ];

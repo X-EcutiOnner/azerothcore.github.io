@@ -1,5 +1,6 @@
 var a15573 =
 [
-    [ "NotInStomachSelector", "da/d24/a15573.html#a766a75e73261ac8bb76c90e8befd21ad", null ],
-    [ "operator()", "da/d24/a15573.html#a189c90e585ecef8ffbcbe9227c588946", null ]
+    [ "FilterTargets", "da/d24/a15573.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
+    [ "PrepareSpellScript", "da/d24/a15573.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
+    [ "Register", "da/d24/a15573.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
 ];

@@ -1,9 +1,6 @@
 var a21001 =
 [
-    [ "npc_vrykul_skeleton", "db/d2b/a21001.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
-    [ "DamageTaken", "db/d2b/a21001.html#a840244c4183987e4fda533edb2ddeff2", null ],
-    [ "Reset", "db/d2b/a21001.html#af950342b2177c84c101485736855b998", null ],
-    [ "UpdateAI", "db/d2b/a21001.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
-    [ "events", "db/d2b/a21001.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
-    [ "pInstance", "db/d2b/a21001.html#a834f0162540683c20f9fa0f9e32eee33", null ]
+    [ "boss_yoggsaron_death_orb", "db/d2b/a21001.html#a8e967885da35381db767d941a2174a82", null ],
+    [ "IsSummonedBy", "db/d2b/a21001.html#a86965a290bf5714fe5e81577ae80775a", null ],
+    [ "JustSummoned", "db/d2b/a21001.html#a916588e3cdd0520fe5c1947a797c0042", null ]
 ];

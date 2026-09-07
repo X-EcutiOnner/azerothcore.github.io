@@ -1,6 +1,7 @@
 var a13885 =
 [
-    [ "PrepareSpellScript", "da/da3/a13885.html#a6a9436d744865971e635f23c2b331688", null ],
-    [ "Register", "da/da3/a13885.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
-    [ "SetDest", "da/da3/a13885.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
+    [ "npc_singularity", "da/da3/a13885.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "da/da3/a13885.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "da/da3/a13885.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "da/da3/a13885.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

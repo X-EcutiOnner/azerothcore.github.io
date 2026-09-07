@@ -1,10 +1,6 @@
 var a27133 =
 [
-    [ "HandleProc", "db/ddf/a27133.html#af7ed59bccd5a9db04e37753e813377b6", null ],
-    [ "OnRemove", "db/ddf/a27133.html#a7dbe609ad8ced19cfa2b5625ed2a3923", null ],
-    [ "PrepareAuraScript", "db/ddf/a27133.html#a2280ebe1a928d0962c7f67e22405db18", null ],
-    [ "Register", "db/ddf/a27133.html#a1e53dfab9d98846d404ea7f57555c941", null ],
-    [ "SetRedirectTarget", "db/ddf/a27133.html#a6ed3efbadf6936d9c2f81ab1b97595ab", null ],
-    [ "Validate", "db/ddf/a27133.html#ad371bd41e4653c0a8b729321dbc830a1", null ],
-    [ "_redirectTarget", "db/ddf/a27133.html#a9baf177530d3096f06e8f37220cfb0fa", null ]
+    [ "CheckRequirement", "db/ddf/a27133.html#acaae3858de4d56028e3cb4581a57450c", null ],
+    [ "PrepareSpellScript", "db/ddf/a27133.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
+    [ "Register", "db/ddf/a27133.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
 ];

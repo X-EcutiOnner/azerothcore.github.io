@@ -1,6 +1,5 @@
 var a26289 =
 [
-    [ "OnRemove", "dc/df3/a26289.html#ae1f257e43effcb396d57d42db3063afd", null ],
-    [ "PrepareAuraScript", "dc/df3/a26289.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
-    [ "Register", "dc/df3/a26289.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
+    [ "PrepareSpellScript", "dc/df3/a26289.html#ac08a5b38ac3012ad31c8ecdf4ca36585", null ],
+    [ "Register", "dc/df3/a26289.html#a7d6187a7aa8f8d67efe15ffc74fa1873", null ]
 ];

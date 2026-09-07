@@ -1,11 +1,9 @@
 var a28253 =
 [
-    [ "npc_franklinAI", "d7/d9d/a28253.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
-    [ "DamageTaken", "d7/d9d/a28253.html#afa494098126ce3291e234cfc2b36336f", null ],
-    [ "JustEngagedWith", "d7/d9d/a28253.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
-    [ "Reset", "d7/d9d/a28253.html#a51a260460facf06ec6bb1486f434d885", null ],
-    [ "ScheduleEncounterStart", "d7/d9d/a28253.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
-    [ "SpellHit", "d7/d9d/a28253.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
-    [ "UpdateAI", "d7/d9d/a28253.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
-    [ "events", "d7/d9d/a28253.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
+    [ "go_tadpole_cageAI", "d7/d9d/a28253.html#a87dc192a13cecf834d49cd04451224cd", null ],
+    [ "GossipHello", "d7/d9d/a28253.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
+    [ "OnStateChanged", "d7/d9d/a28253.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
+    [ "SummonTadpoles", "d7/d9d/a28253.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
+    [ "UpdateAI", "d7/d9d/a28253.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
+    [ "requireSummon", "d7/d9d/a28253.html#a9884081855fc45776a6b12b9a68890e4", null ]
 ];

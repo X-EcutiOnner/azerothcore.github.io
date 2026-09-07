@@ -1,6 +1,6 @@
 var a27049 =
 [
-    [ "HandleScript", "d8/d93/a27049.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
-    [ "PrepareSpellScript", "d8/d93/a27049.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
-    [ "Register", "d8/d93/a27049.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
+    [ "CheckDummy", "d8/d93/a27049.html#ad2f75ba479a8523b0fffaae86204a25c", null ],
+    [ "PrepareAuraScript", "d8/d93/a27049.html#a7cd3757fddecca39b1b0bd95bb2b8e5b", null ],
+    [ "Register", "d8/d93/a27049.html#af0b1e469fec71b28ca349b9be9c6fdd7", null ]
 ];

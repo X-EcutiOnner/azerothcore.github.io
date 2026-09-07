@@ -1,6 +1,8 @@
 var a27997 =
 [
-    [ "go_bear_trapAI", "d7/d9d/a28001.html", "d7/d9d/a28001" ],
-    [ "go_bear_trap", "dd/d3d/a27997.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
-    [ "GetAI", "dd/d3d/a27997.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
+    [ "CheckProc", "dd/d3d/a27997.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
+    [ "HandleEffectProc", "dd/d3d/a27997.html#af01d160cb2a55124361a2dd113acd0a7", null ],
+    [ "PrepareAuraScript", "dd/d3d/a27997.html#aeffb8490a7208ae6e32a505283afbc03", null ],
+    [ "Register", "dd/d3d/a27997.html#a5436413d098dde4b0fa1ed2259a47779", null ],
+    [ "Validate", "dd/d3d/a27997.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
 ];

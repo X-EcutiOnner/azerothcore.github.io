@@ -1,7 +1,5 @@
 var a21213 =
 [
-    [ "HandleDummy", "d8/d0b/a21213.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
-    [ "PrepareSpellScript", "d8/d0b/a21213.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
-    [ "Register", "d8/d0b/a21213.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
-    [ "Validate", "d8/d0b/a21213.html#a92f99501ee1582873586d2405b224f4f", null ]
+    [ "npc_salvaged_siege_engine", "d8/d0b/a21213.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
+    [ "BeforeSpellClick", "d8/d0b/a21213.html#aed2500b2315b5e508ea3d06a2355d023", null ]
 ];

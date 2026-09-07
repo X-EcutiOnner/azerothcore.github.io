@@ -1,5 +1,7 @@
 var a13725 =
 [
-    [ "at_sunwell_madrigosa", "d5/d7d/a13725.html#a489ddb537ef272f22bd69ced194762e7", null ],
-    [ "_OnTrigger", "d5/d7d/a13725.html#a137c231ea66d3781080a5617a2ffcc9e", null ]
+    [ "HandleScript", "d5/d7d/a13725.html#aae2f572a523431f6764f08e4719adbcf", null ],
+    [ "PrepareSpellScript", "d5/d7d/a13725.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
+    [ "Register", "d5/d7d/a13725.html#ae3b002197564318cc92242bd925d35af", null ],
+    [ "Validate", "d5/d7d/a13725.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
 ];

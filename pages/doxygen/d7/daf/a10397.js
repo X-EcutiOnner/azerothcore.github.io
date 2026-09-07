@@ -1,10 +1,9 @@
 var a10397 =
 [
-    [ "DistractMovementGenerator", "d7/daf/a10397.html#a55879290b06f4fc86a1da791c07b7afb", null ],
-    [ "Finalize", "d7/daf/a10397.html#aa4a2b943ecde8750bd764290d65872df", null ],
-    [ "GetMovementGeneratorType", "d7/daf/a10397.html#a0b30745bf1cd7b5a264e970273595592", null ],
-    [ "Initialize", "d7/daf/a10397.html#a71410ddbda2be6b34bb2276a83fea5c9", null ],
-    [ "Reset", "d7/daf/a10397.html#ad544709b2873b63b28d27ab414c280ba", null ],
-    [ "Update", "d7/daf/a10397.html#ad5a15c1507b8ab315b658351077629b3", null ],
-    [ "m_timer", "d7/daf/a10397.html#a8b520d8e97704ac39ce28c2256557b42", null ]
+    [ "ChaseAngle", "d7/daf/a10397.html#a0744c615f437514a52b5a26fb717013a", null ],
+    [ "IsAngleOkay", "d7/daf/a10397.html#aec86c653850655b723e5224ea20b0e21", null ],
+    [ "LowerBound", "d7/daf/a10397.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
+    [ "UpperBound", "d7/daf/a10397.html#a275d01ce57b23d42d4150b10c8433dee", null ],
+    [ "RelativeAngle", "d7/daf/a10397.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
+    [ "Tolerance", "d7/daf/a10397.html#a2bb42885da594380cb742c29b6518ea3", null ]
 ];

@@ -1,11 +1,8 @@
 var a12489 =
 [
-    [ "pooltools_commandscript", "df/dcf/a12489.html#a3428978e91000cbe46dd2b84a30eee2d", null ],
-    [ "GetCommands", "df/dcf/a12489.html#aebd69a3ae0a0e0833f3eaeeb637d97e6", null ],
-    [ "HandlePoolAdd", "df/dcf/a12489.html#afb113b7673dbddf804f9384fbc400d67", null ],
-    [ "HandlePoolClear", "df/dcf/a12489.html#a4bde765f2949ae2db1601e8f5a103ed2", null ],
-    [ "HandlePoolDef", "df/dcf/a12489.html#a12edd3f4697bba8e03594ceed8c6c289", null ],
-    [ "HandlePoolEnd", "df/dcf/a12489.html#a039862a0ca89201187f4e06ce792cae8", null ],
-    [ "HandlePoolRemove", "df/dcf/a12489.html#a158f83f814cba8328dcb81f02525dcdb", null ],
-    [ "HandlePoolStart", "df/dcf/a12489.html#a13629c50653c80b949bdf80485e51d59", null ]
+    [ "honor_commandscript", "df/dcf/a12489.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
+    [ "GetCommands", "df/dcf/a12489.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
+    [ "HandleHonorAddCommand", "df/dcf/a12489.html#a03caa77b436e3d513e1325badf05df33", null ],
+    [ "HandleHonorAddKillCommand", "df/dcf/a12489.html#aec79f459796d821a032477827e16308a", null ],
+    [ "HandleHonorUpdateCommand", "df/dcf/a12489.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
 ];

@@ -1,6 +1,8 @@
 var a26881 =
 [
-    [ "HandleScriptEffect", "d3/d63/a26881.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
-    [ "PrepareSpellScript", "d3/d63/a26881.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
-    [ "Register", "d3/d63/a26881.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
+    [ "HandleProc", "d3/d63/a26881.html#a95553bc0c973be3a2e3911602e4067c8", null ],
+    [ "PrepareAuraScript", "d3/d63/a26881.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
+    [ "Register", "d3/d63/a26881.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
+    [ "Validate", "d3/d63/a26881.html#aad1324e94920136258c419094cfca4c3", null ],
+    [ "_cooldownEnd", "d3/d63/a26881.html#a4f19a965ed8ddab712633abdb761d210", null ]
 ];

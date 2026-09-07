@@ -1,5 +1,6 @@
 var a12141 =
 [
-    [ "Name", "dd/d6a/a12141.html#ac16bf9d80201e270ffb1571fb2e9fb02", null ],
-    [ "Type", "dd/d6a/a12141.html#aeacac864bd23dcb7b24efc484810f592", null ]
+    [ "AuraProcHandler", "dd/d6a/a12141.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
+    [ "Call", "dd/d6a/a12141.html#abc0c3be9dee08e995c282f20900f3c46", null ],
+    [ "_HandlerScript", "dd/d6a/a12141.html#ada8d7a5659598b0092739a91ba2653bd", null ]
 ];

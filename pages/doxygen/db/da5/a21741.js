@@ -1,9 +1,8 @@
 var a21741 =
 [
-    [ "npc_mrfloppyAI", "db/da5/a21741.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
-    [ "EnterEvadeMode", "db/da5/a21741.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
-    [ "JustEngagedWith", "db/da5/a21741.html#a490bf07de00cc5c59b5f0024317d8125", null ],
-    [ "MoveInLineOfSight", "db/da5/a21741.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
-    [ "Reset", "db/da5/a21741.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
-    [ "UpdateAI", "db/da5/a21741.html#afad6db1ccd903fd18192f832a10a32f4", null ]
+    [ "npc_shandy_dalaranAI", "d8/dce/a21745.html", "d8/dce/a21745" ],
+    [ "npc_shandy_dalaran", "db/da5/a21741.html#a7077c769a252af8ba37b5ff5d524463e", null ],
+    [ "GetAI", "db/da5/a21741.html#a641551a2aef739e1679912ae27ddb888", null ],
+    [ "OnGossipHello", "db/da5/a21741.html#a91287aaba09fce091c9d826e75208f84", null ],
+    [ "OnGossipSelect", "db/da5/a21741.html#ad005a17da187e0cfd03d2faf0099c448", null ]
 ];

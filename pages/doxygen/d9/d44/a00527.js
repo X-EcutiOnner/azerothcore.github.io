@@ -1,8 +1,9 @@
 var a00527 =
 [
-    [ "SelectableAI", "db/d1f/a06544.html", "db/d1f/a06544" ],
-    [ "CreatureAIFactory< REAL_AI >", "de/d17/a06548.html", "de/d17/a06548" ],
-    [ "sCreatureAIRegistry", "d9/d44/a00527.html#a08e073e90e01d97b74e2331f15bf6122", null ],
-    [ "CreatureAICreator", "d9/d44/a00527.html#a0979444cdc957651f0b4bc9e3c24934b", null ],
-    [ "CreatureAIRegistry", "d9/d44/a00527.html#a3eebee4b886bee76d38357a472a9a5ae", null ]
+    [ "RandomMovementGenerator< T >", "da/d5a/a10485.html", "da/d5a/a10485" ],
+    [ "MAX_PATH_LENGHT_FACTOR", "d9/d44/a00527.html#a6e563601030e3152f7023ecd4fa3f3c7", null ],
+    [ "MIN_WANDER_DISTANCE_AIR", "d9/d44/a00527.html#a81b46c6e5a328cf46ead22b160a8a576", null ],
+    [ "MIN_WANDER_DISTANCE_GROUND", "d9/d44/a00527.html#a85e56933db548199999e1edb8e96836d", null ],
+    [ "RANDOM_LINKS_COUNT", "d9/d44/a00527.html#af447061c654f18b25537973f2739dad3", null ],
+    [ "RANDOM_POINTS_NUMBER", "d9/d44/a00527.html#ac0f6eaac315a81192c2307dcbac20f70", null ]
 ];

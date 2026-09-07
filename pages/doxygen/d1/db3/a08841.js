@@ -1,16 +1,11 @@
 var a08841 =
 [
-    [ "WorldLocation", "d1/db3/a08841.html#a424e67f5a820f3396ed6a02c3daa05fb", null ],
-    [ "WorldLocation", "d1/db3/a08841.html#a04d7814f5d846259c5af562ce856f468", null ],
-    [ "GetDebugInfo", "d1/db3/a08841.html#a0b3f13522d288dde484c70cbf8ef5fc5", null ],
-    [ "GetMapId", "d1/db3/a08841.html#a2682e56ae4f0ce4b517a8ba3cd2798b1", null ],
-    [ "GetWorldLocation", "d1/db3/a08841.html#a48cad9058b04a5108c4b99c7fd4d0bfe", null ],
-    [ "GetWorldLocation", "d1/db3/a08841.html#aa2623109f914fd8592f865545696d27b", null ],
-    [ "GetWorldLocation", "d1/db3/a08841.html#a75c59d33f5aac8da8eb9b8c5e2711acf", null ],
-    [ "GetWorldLocation", "d1/db3/a08841.html#aed21eb7d191b1e34ebd1456b427fbb2c", null ],
-    [ "GetWorldLocation", "d1/db3/a08841.html#abb5d3b7c89fa4a39d2486f2f943159e4", null ],
-    [ "SetMapId", "d1/db3/a08841.html#ac425c27c61ecc169fe3df61991011988", null ],
-    [ "WorldRelocate", "d1/db3/a08841.html#a7f014ec2469e93ffca3ec7bbd03b1606", null ],
-    [ "WorldRelocate", "d1/db3/a08841.html#adc762865d564319245ffc3363c080365", null ],
-    [ "m_mapId", "d1/db3/a08841.html#a88161a79f13aa3ab267096cfa8e5d0ed", null ]
+    [ "PackedGuid", "d1/db3/a08841.html#a9268f8d34f24ef52369d605f94986a8d", null ],
+    [ "PackedGuid", "d1/db3/a08841.html#a6d4559bc2a1d8c27247329c95c2b6156", null ],
+    [ "PackedGuid", "d1/db3/a08841.html#adf388e273472f2699348c7a4361ebac4", null ],
+    [ "Set", "d1/db3/a08841.html#aecbb8650ca713c175c30cd3ebe86b5d5", null ],
+    [ "Set", "d1/db3/a08841.html#ae5d174d63a0b9d33b919f05760290bea", null ],
+    [ "size", "d1/db3/a08841.html#a22ac06b7072951e84bbf69abcd7d58f6", null ],
+    [ "operator<<", "d1/db3/a08841.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
+    [ "_packedGuid", "d1/db3/a08841.html#aeb0e51f1667a2627aabffd6d7cb1779c", null ]
 ];

@@ -1,8 +1,6 @@
 var a10309 =
 [
-    [ "GetAINotifyDelay", "d0/d81/a10309.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
-    [ "GetReqMoveDistSq", "d0/d81/a10309.html#a58687646bbf83723e8ad2925ee50452c", null ],
-    [ "GetVisibilityNotifyDelay", "d0/d81/a10309.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
-    [ "Update", "d0/d81/a10309.html#aa95443d7050249a44cad2f16fa0026e5", null ],
-    [ "visibilitySettingsIndex", "d0/d81/a10309.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
+    [ "UpdateRequest", "d0/d81/a10309.html#a23b3dbcff54691b2710109a822a486a0", null ],
+    [ "~UpdateRequest", "d0/d81/a10309.html#a240bdc56685c270c597588231c3bf8f8", null ],
+    [ "call", "d0/d81/a10309.html#a8221fa415f828a4866f85f3983f7dab9", null ]
 ];

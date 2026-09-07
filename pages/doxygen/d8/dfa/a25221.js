@@ -1,7 +1,6 @@
 var a25221 =
 [
-    [ "OnApply", "d8/dfa/a25221.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "d8/dfa/a25221.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "d8/dfa/a25221.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "d8/dfa/a25221.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "HandleScript", "d8/dfa/a25221.html#aa6104370d5700e43223c7138e941ba05", null ],
+    [ "PrepareSpellScript", "d8/dfa/a25221.html#ae4177c84bf0c63aadaa7486603df04d0", null ],
+    [ "Register", "d8/dfa/a25221.html#a88a8534a1dd825a14fd6b10933986eb7", null ]
 ];

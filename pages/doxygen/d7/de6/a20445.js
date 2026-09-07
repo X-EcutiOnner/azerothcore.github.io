@@ -1,5 +1,5 @@
 var a20445 =
 [
-    [ "achievement_ignis_shattered", "d7/de6/a20445.html#adbe893b0dd409eb3f10768f81f182f61", null ],
-    [ "OnCheck", "d7/de6/a20445.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
+    [ "achievement_smell_saronite", "d7/de6/a20445.html#a42dce2aefa2561952dcf5289126035a8", null ],
+    [ "OnCheck", "d7/de6/a20445.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
 ];

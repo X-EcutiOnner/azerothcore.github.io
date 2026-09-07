@@ -1,4 +1,7 @@
 var a07965 =
 [
-    [ "TryConsume", "dd/dde/a07965.html#a2b70efed48ab12a8924e4a815c7dbee6", null ]
+    [ "CommandPermissions", "dd/dde/a07965.html#ad1242d9067778298c44501b5d5a962f8", null ],
+    [ "CommandPermissions", "dd/dde/a07965.html#a47f284c63f10b6c3479624845b696aa6", null ],
+    [ "AllowConsole", "dd/dde/a07965.html#a8b419033e8dff0307a22a32bc57a1dc8", null ],
+    [ "RequiredLevel", "dd/dde/a07965.html#a4918f2c3b1913eb76d09d859479ebbae", null ]
 ];

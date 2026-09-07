@@ -1,6 +1,6 @@
 var a18961 =
 [
-    [ "CaptainSurviveTalk", "d9/dbb/a18961.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "d9/dbb/a18961.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "d9/dbb/a18961.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "npc_blistering_zombieAI", "dd/d91/a18965.html", "dd/d91/a18965" ],
+    [ "npc_blistering_zombie", "d9/dbb/a18961.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
+    [ "GetAI", "d9/dbb/a18961.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
 ];

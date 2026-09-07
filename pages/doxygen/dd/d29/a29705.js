@@ -1,5 +1,6 @@
 var a29705 =
 [
-    [ "SetUp", "dd/d29/a29705.html#ae940d909b8f828dc9715954b469b6408", null ],
-    [ "_sim", "dd/d29/a29705.html#a5e053e184f84db65e68cd45de684cb61", null ]
+    [ "hasInstantTargetProcs", "dd/d29/a29705.html#a043a2884a456208d85bc3bf8d4733682", null ],
+    [ "isRemoved", "dd/d29/a29705.html#a3f593c8bba6edde580f84fcc5ce9215b", null ],
+    [ "spellId", "dd/d29/a29705.html#aee26a119051d638047018aeb93d593f6", null ]
 ];

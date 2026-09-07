@@ -1,6 +1,4 @@
 var a00605 =
 [
-    [ "_CRT_SECURE_NO_DEPRECATE", "d0/d1c/a00605.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "MAINMagic", "d0/d1c/a00605.html#a026039bd50ec58444fa975da328951ec", null ],
-    [ "MPHDMagic", "d0/d1c/a00605.html#aac8041bc8ca704e28f2b3054649b3752", null ]
+    [ "ScriptRegistry< SpellScriptLoader >", "d0/d1c/a00605.html#aae80ff7a03e35c91f47550f388c3f3bb", null ]
 ];

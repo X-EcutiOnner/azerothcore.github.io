@@ -1,5 +1,5 @@
 var a13397 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "dc/d3c/a13397.html#ad083ab5aa00902987e18f4e9423a705a", null ],
-    [ "ProcessEvent", "dc/d3c/a13397.html#a8dbe1537ea00412a6fa366891204d645", null ]
+    [ "textid", "dc/d3c/a13397.html#a7dac5c31d7df501f28eee3e1dec0523a", null ],
+    [ "timer", "dc/d3c/a13397.html#ab7851f383e7221c6ff2700ee345d9504", null ]
 ];

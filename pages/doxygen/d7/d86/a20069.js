@@ -1,6 +1,6 @@
 var a20069 =
 [
-    [ "HandleInstaKill", "d7/d86/a20069.html#a9371a2cc86616fd04e47939d45f01cae", null ],
-    [ "PrepareSpellScript", "d7/d86/a20069.html#a38eed301f1db3ea7ac15b626e5927500", null ],
-    [ "Register", "d7/d86/a20069.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
+    [ "HandleScript", "d7/d86/a20069.html#a992dbad02eab01824d870bdd3fca93d0", null ],
+    [ "PrepareSpellScript", "d7/d86/a20069.html#a0e6b4d1f59896a255929556baa943bdb", null ],
+    [ "Register", "d7/d86/a20069.html#a6bd2b3f20ee88fbba18ea6da6e8a23ab", null ]
 ];

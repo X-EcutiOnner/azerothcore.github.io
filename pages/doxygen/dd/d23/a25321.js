@@ -1,9 +1,6 @@
 var a25321 =
 [
-    [ "spell_gen_translocate", "dd/d23/a25321.html#a56a3df0eba3e1521aa2898194c39e919", null ],
-    [ "HandleScript", "dd/d23/a25321.html#a67684fb76da60fdc13dbece055dae157", null ],
-    [ "PrepareSpellScript", "dd/d23/a25321.html#a6f0986e54ad410c2f42a7935645485ed", null ],
-    [ "Register", "dd/d23/a25321.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
-    [ "Validate", "dd/d23/a25321.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
-    [ "_spellId", "dd/d23/a25321.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
+    [ "CalculateAmount", "dd/d23/a25321.html#a66b009487462241e573ea23f081a140a", null ],
+    [ "PrepareAuraScript", "dd/d23/a25321.html#a0eee16c77a3c3cea882b67c78826a140", null ],
+    [ "Register", "dd/d23/a25321.html#afeafc6922b0a0389fec969e3c7191dda", null ]
 ];

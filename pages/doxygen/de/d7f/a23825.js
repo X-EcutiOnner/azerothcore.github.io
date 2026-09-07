@@ -1,6 +1,8 @@
 var a23825 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "dd/d6c/a23829.html", "dd/d6c/a23829" ],
-    [ "npc_oscillating_frequency_scanner_master_bunny", "de/d7f/a23825.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
-    [ "GetAI", "de/d7f/a23825.html#a60d55e2eda4484ceea4e475ac8653977", null ]
+    [ "boss_commander_sarannis", "de/d7f/a23825.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "de/d7f/a23825.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "de/d7f/a23825.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "de/d7f/a23825.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "de/d7f/a23825.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

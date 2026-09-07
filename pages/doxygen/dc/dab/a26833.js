@@ -1,8 +1,8 @@
 var a26833 =
 [
-    [ "HandleEffectRemove", "dc/dab/a26833.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
-    [ "if", "dc/dab/a26833.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
-    [ "PrepareAuraScript", "dc/dab/a26833.html#a531f51626ae4527282ad1e628911a9ea", null ],
-    [ "Register", "dc/dab/a26833.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
-    [ "AuraEffectHandleModes", "dc/dab/a26833.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
+    [ "CheckProc", "dc/dab/a26833.html#a2e7c3b219786c4328c6f5de2b4e6b684", null ],
+    [ "HandleProc", "dc/dab/a26833.html#ac564fc88a0cfe410b7caaeed639b5258", null ],
+    [ "PrepareAuraScript", "dc/dab/a26833.html#ab8c2f9f3f3750419ad62d72e284bf3b1", null ],
+    [ "Register", "dc/dab/a26833.html#ac5bb4e949f4a7b86b41861777f86bd7a", null ],
+    [ "Validate", "dc/dab/a26833.html#af67336b40e69f72f8cd5aa1776490bad", null ]
 ];

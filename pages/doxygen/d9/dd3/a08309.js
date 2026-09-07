@@ -1,7 +1,5 @@
 var a08309 =
 [
-    [ "LfgReward", "d9/dd3/a08309.html#afe2ea037fa24064c2bf04cfc6303d903", null ],
-    [ "firstQuest", "d9/dd3/a08309.html#a28162b1e43a5309ab01ca99b45d29799", null ],
-    [ "maxLevel", "d9/dd3/a08309.html#aae6e46155dc790ed7c63f5f0b8e08395", null ],
-    [ "otherQuest", "d9/dd3/a08309.html#a96de83c64efc3009d7d5cd04a61e71b2", null ]
+    [ "number", "d9/dd3/a08309.html#af111e542d7a276e27d2b14757293bc42", null ],
+    [ "offset_elements", "d9/dd3/a08309.html#ad633b2e9afc82762c6b43675844f8fea", null ]
 ];

@@ -1,7 +1,8 @@
 var a22833 =
 [
-    [ "HandleEffectApply", "d9/d32/a22833.html#aff0dbed165d0e751db725f7eaaf76a11", null ],
-    [ "Load", "d9/d32/a22833.html#a1dfb5b2004041e7165cc9f5deb4b1e82", null ],
-    [ "PrepareAuraScript", "d9/d32/a22833.html#a3dbd01e52ed2a630f0c014f941fc1b5e", null ],
-    [ "Register", "d9/d32/a22833.html#a647f21e79e3fef72cf84439fc84e708f", null ]
+    [ "npc_parasitic_shadowfiend", "d9/d32/a22833.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
+    [ "CanAIAttack", "d9/d32/a22833.html#ac7600aed313f1413cb9b522d60d30329", null ],
+    [ "EnterEvadeMode", "d9/d32/a22833.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
+    [ "IsSummonedBy", "d9/d32/a22833.html#a306c696d4243c4525d0a3908a212135d", null ],
+    [ "UpdateAI", "d9/d32/a22833.html#a2706a4ba7876f299b02d2e720f512af2", null ]
 ];

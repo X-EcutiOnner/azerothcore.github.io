@@ -1,7 +1,7 @@
 var a27565 =
 [
-    [ "CalculateAmount", "db/d7d/a27565.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
-    [ "PrepareAuraScript", "db/d7d/a27565.html#a20dad49a99420556f393a16525eb14b4", null ],
-    [ "Register", "db/d7d/a27565.html#ad7d339ab137ebd640981f7789e1757f0", null ],
-    [ "Validate", "db/d7d/a27565.html#a341acb2dd25c1db94777f7036f3338ac", null ]
+    [ "HandleDummy", "db/d7d/a27565.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
+    [ "PrepareSpellScript", "db/d7d/a27565.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
+    [ "Register", "db/d7d/a27565.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
+    [ "Validate", "db/d7d/a27565.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
 ];

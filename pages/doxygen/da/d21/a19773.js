@@ -1,6 +1,6 @@
 var a19773 =
 [
-    [ "npc_oculus_drakeAI", "df/d8c/a19777.html", "df/d8c/a19777" ],
-    [ "npc_oculus_drake", "da/d21/a19773.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
-    [ "GetAI", "da/d21/a19773.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
+    [ "HandleScript", "da/d21/a19773.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
+    [ "PrepareSpellScript", "da/d21/a19773.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
+    [ "Register", "da/d21/a19773.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
 ];

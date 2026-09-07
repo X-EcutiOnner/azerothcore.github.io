@@ -1,8 +1,6 @@
 var a06457 =
 [
-    [ "GuardAI", "de/df0/a06457.html#ac1f0ba47d8e32c65845808170330b7af", null ],
-    [ "EnterEvadeMode", "de/df0/a06457.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
-    [ "JustDied", "de/df0/a06457.html#a96820cdcb632d3a71f9deacf4998a774", null ],
-    [ "Permissible", "de/df0/a06457.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
-    [ "Reset", "de/df0/a06457.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
+    [ "SavedAddon", "de/df0/a06457.html#a6252c2ac491d0ebd9e84556f26cfa8cd", null ],
+    [ "CRC", "de/df0/a06457.html#a7d04d21a29aa589429aab0d95172ca95", null ],
+    [ "Name", "de/df0/a06457.html#a075de88ce6e643cffb7c5bb55f7b1095", null ]
 ];

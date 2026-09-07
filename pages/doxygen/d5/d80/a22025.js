@@ -1,6 +1,7 @@
 var a22025 =
 [
-    [ "npc_jungle_punch_targetAI", "df/d39/a22029.html", "df/d39/a22029" ],
-    [ "npc_jungle_punch_target", "d5/d80/a22025.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
-    [ "GetAI", "d5/d80/a22025.html#abb38ccb55abfe0f48f360469031c6902", null ]
+    [ "HandleScript", "d5/d80/a22025.html#a95de3ae27cfd764380ab1648b49af38d", null ],
+    [ "Load", "d5/d80/a22025.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
+    [ "PrepareSpellScript", "d5/d80/a22025.html#a442138710213b9b120d8ce57b733205a", null ],
+    [ "Register", "d5/d80/a22025.html#af9d8f764a6a02737f8b559f067156df6", null ]
 ];

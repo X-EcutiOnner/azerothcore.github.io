@@ -1,5 +1,4 @@
 var a00830 =
 [
-    [ "AuthSocketMgr", "d2/d6a/a06047.html", "d2/d6a/a06047" ],
-    [ "sAuthSocketMgr", "d9/daf/a00830.html#abd297ee25e8d77bf56f22d43561d9451", null ]
+    [ "ScriptRegistry< VehicleScript >", "d9/daf/a00830.html#af505a519aaa0d7e6070eb203075ff98d", null ]
 ];

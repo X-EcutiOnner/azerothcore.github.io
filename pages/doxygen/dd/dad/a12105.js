@@ -1,8 +1,6 @@
 var a12105 =
 [
-    [ "CreatureTextId", "dd/dad/a12105.html#ae8058e922bafc69b718ca4be1be39688", null ],
-    [ "operator<", "dd/dad/a12105.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
-    [ "entry", "dd/dad/a12105.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
-    [ "textGroup", "dd/dad/a12105.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
-    [ "textId", "dd/dad/a12105.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
+    [ "EffectCalcPeriodicHandler", "dd/dad/a12105.html#a17288ee3b2951f1f2a8dc36a598b9a27", null ],
+    [ "Call", "dd/dad/a12105.html#a6a7eeb9599a10aa4ab918a2c2456a186", null ],
+    [ "pEffectHandlerScript", "dd/dad/a12105.html#a57673f457c08edfbf7fc1877aa071721", null ]
 ];

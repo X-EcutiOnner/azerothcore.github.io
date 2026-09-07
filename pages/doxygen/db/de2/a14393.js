@@ -1,8 +1,7 @@
 var a14393 =
 [
-    [ "HandleScriptEffect", "db/de2/a14393.html#af7f22d3b7ba136ec2af88656b9805168", null ],
-    [ "PrepareSpellScript", "db/de2/a14393.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
-    [ "Register", "db/de2/a14393.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
-    [ "Validate", "db/de2/a14393.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
-    [ "spells", "db/de2/a14393.html#a902fc17746af82a4c58fe599c9616ce2", null ]
+    [ "npc_zuljin_vortex", "db/de2/a14393.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "db/de2/a14393.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "db/de2/a14393.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "db/de2/a14393.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

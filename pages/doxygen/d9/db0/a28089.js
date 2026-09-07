@@ -1,5 +1,5 @@
 var a28089 =
 [
-    [ "go_arcane_prison", "d9/db0/a28089.html#ad73ac33d843027de0e516de8f90c45a0", null ],
-    [ "OnGossipHello", "d9/db0/a28089.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
+    [ "achievement_not_even_a_scratch", "d9/db0/a28089.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "d9/db0/a28089.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

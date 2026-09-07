@@ -1,9 +1,8 @@
 var a10433 =
 [
-    [ "PathMovementBase", "d2/d6a/a10433.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
-    [ "PathMovementBase", "d2/d6a/a10433.html#a953fcda0cf7764f659fc5a4a19408550", null ],
-    [ "~PathMovementBase", "d2/d6a/a10433.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
-    [ "GetCurrentNode", "d2/d6a/a10433.html#a7ceb52928f2198392980c3926516fd82", null ],
-    [ "i_currentNode", "d2/d6a/a10433.html#a5420aef90d3529881ef41362ebb29934", null ],
-    [ "i_path", "d2/d6a/a10433.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
+    [ "TimedFleeingMovementGenerator", "d2/d6a/a10433.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
+    [ "Finalize", "d2/d6a/a10433.html#a1a18f033663fa93ef0b9885aae21f766", null ],
+    [ "GetMovementGeneratorType", "d2/d6a/a10433.html#a1533d13f4e786e498353805a2a2daf85", null ],
+    [ "Update", "d2/d6a/a10433.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
+    [ "i_totalFleeTime", "d2/d6a/a10433.html#a2858047459ff675383e7b86805702369", null ]
 ];

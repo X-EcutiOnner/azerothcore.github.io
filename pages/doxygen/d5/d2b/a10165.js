@@ -1,13 +1,10 @@
 var a10165 =
 [
-    [ "ParallelogramBoundary", "d5/d2b/a10165.html#ace1e1ffbcb84343ca2641541fe000691", null ],
-    [ "IsWithinBoundaryArea", "d5/d2b/a10165.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
-    [ "_a", "d5/d2b/a10165.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
-    [ "_abx", "d5/d2b/a10165.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
-    [ "_aby", "d5/d2b/a10165.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
-    [ "_b", "d5/d2b/a10165.html#a9d5d06cc3673f89644e45e62f96510db", null ],
-    [ "_c", "d5/d2b/a10165.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
-    [ "_d", "d5/d2b/a10165.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
-    [ "_dax", "d5/d2b/a10165.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
-    [ "_day", "d5/d2b/a10165.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
+    [ "MailReceiver", "d5/d2b/a10165.html#a6fba3ff0ab3167197f569631d766ce14", null ],
+    [ "MailReceiver", "d5/d2b/a10165.html#af0b094a704463ed76b1c08bc3cab0380", null ],
+    [ "MailReceiver", "d5/d2b/a10165.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
+    [ "GetPlayer", "d5/d2b/a10165.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
+    [ "GetPlayerGUIDLow", "d5/d2b/a10165.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
+    [ "m_receiver", "d5/d2b/a10165.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
+    [ "m_receiver_lowguid", "d5/d2b/a10165.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
 ];

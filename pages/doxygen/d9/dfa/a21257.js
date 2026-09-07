@@ -1,11 +1,10 @@
 var a21257 =
 [
-    [ "boss_cyanigosa", "d9/dfa/a21257.html#af85a0c366de8785cd89d14f7990bfb54", null ],
-    [ "EnterEvadeMode", "d9/dfa/a21257.html#aa3d989cb4c094713d6adb4305f8e6113", null ],
-    [ "ExecuteEvent", "d9/dfa/a21257.html#a694dda590c17a03534f8744838ac3176", null ],
-    [ "JustDied", "d9/dfa/a21257.html#ad70efce47f2f5d411fd42fd61ec51794", null ],
-    [ "JustEngagedWith", "d9/dfa/a21257.html#a2432aa3610747c52f6ec3de1def55f18", null ],
-    [ "KilledUnit", "d9/dfa/a21257.html#a1f2810d9f2a291576fa29a872b1f6470", null ],
-    [ "MoveInLineOfSight", "d9/dfa/a21257.html#a55645a68448a8c83b85b05c7a29f0f6a", null ],
-    [ "SpellHitTarget", "d9/dfa/a21257.html#a7b393188f0f8d192baab0eed48f0a5d3", null ]
+    [ "npc_dragonflayer_forge_master", "d9/dfa/a21257.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "d9/dfa/a21257.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "d9/dfa/a21257.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "d9/dfa/a21257.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "d9/dfa/a21257.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "d9/dfa/a21257.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "d9/dfa/a21257.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

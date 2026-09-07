@@ -1,6 +1,8 @@
 var a22741 =
 [
-    [ "boss_essence_of_angerAI", "dc/ddd/a22745.html", "dc/ddd/a22745" ],
-    [ "boss_essence_of_anger", "da/dcc/a22741.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "da/dcc/a22741.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "boss_darkweaver_syth", "da/dcc/a22741.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "da/dcc/a22741.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "da/dcc/a22741.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "da/dcc/a22741.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "da/dcc/a22741.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

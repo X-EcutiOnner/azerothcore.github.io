@@ -1,19 +1,13 @@
 var a14313 =
 [
-    [ "boss_nalorakk", "d2/d2a/a14313.html#a4dd18b28685e3dac2406c4e3d8be95aa", null ],
-    [ "CheckAnyEvadeGroup", "d2/d2a/a14313.html#a2ef7e2a115b8f2292580c88ff55bb797", null ],
-    [ "CheckFullyDeadGroup", "d2/d2a/a14313.html#a0754b8a39fd26f5fb026f9460faa17aa", null ],
-    [ "GroupedAttack", "d2/d2a/a14313.html#a249f35697e422a7e7e8a583f85cc97b1", null ],
-    [ "JustDied", "d2/d2a/a14313.html#a6f79e518e3a356e0f6093afa8c438fe5", null ],
-    [ "JustEngagedWith", "d2/d2a/a14313.html#a1d3c302161e8666c0343d449727c35a9", null ],
-    [ "MoveInLineOfSight", "d2/d2a/a14313.html#a3455e91061cfb9ea03712b8006d298df", null ],
-    [ "Reset", "d2/d2a/a14313.html#a85093d79b866ceff41357dde22e06867", null ],
-    [ "ShapeShift", "d2/d2a/a14313.html#a78b12658138455ccddd9c62b6c7e26dd", null ],
-    [ "UpdateAI", "d2/d2a/a14313.html#a4cf5656619dd9339000236ed6b006c90", null ],
-    [ "_active", "d2/d2a/a14313.html#a8825e186d58b8f6bbd39976e013ee114", null ],
-    [ "_bearForm", "d2/d2a/a14313.html#aa76da1d9912aaa97242f5d27e567e895", null ],
-    [ "_introScheduler", "d2/d2a/a14313.html#ac654307d732ac59155321008418f8c90", null ],
-    [ "_phase", "d2/d2a/a14313.html#a390142234210027d37f5e4ec7cea84ae", null ],
-    [ "_ranIntro", "d2/d2a/a14313.html#a78bd5a9970ab205d9553ed5746a42066", null ],
-    [ "_waveList", "d2/d2a/a14313.html#a6093dac3b1353a047174e5aae98c13d6", null ]
+    [ "npc_daphne_stilwellAI", "d2/d2a/a14313.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
+    [ "AttackStart", "d2/d2a/a14313.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
+    [ "JustSummoned", "d2/d2a/a14313.html#ae56554d30e9de7644efab891555c57e0", null ],
+    [ "Reset", "d2/d2a/a14313.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
+    [ "SummonedCreatureDies", "d2/d2a/a14313.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
+    [ "Update", "d2/d2a/a14313.html#a4099d75c4a6bca1525781a5753ef9972", null ],
+    [ "WaypointReached", "d2/d2a/a14313.html#a1035eb0a1696730d8304593b5fb079e4", null ],
+    [ "WaypointReached", "d2/d2a/a14313.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "summons", "d2/d2a/a14313.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
+    [ "textCounter", "d2/d2a/a14313.html#a62ab24169c1b7c3028ab33303b217f63", null ]
 ];

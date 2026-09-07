@@ -1,7 +1,7 @@
 var a21105 =
 [
-    [ "HandleScript", "dc/d37/a21105.html#ac8d984ac87f51050113f7ac1a4625785", null ],
-    [ "PrepareSpellScript", "dc/d37/a21105.html#a34f6166e27cb99e424dd081ffce704a5", null ],
-    [ "Register", "dc/d37/a21105.html#a0dd5b7a8cf086ee3b5a6f30326874ee3", null ],
-    [ "Validate", "dc/d37/a21105.html#a364c96f7253fde59e1a9a59a42c4d3a5", null ]
+    [ "HandleEffectCalcPeriodic", "dc/d37/a21105.html#af01eb94174952de52615734055b17c1a", null ],
+    [ "HandleEffectPeriodic", "dc/d37/a21105.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
+    [ "PrepareAuraScript", "dc/d37/a21105.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
+    [ "Register", "dc/d37/a21105.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
 ];

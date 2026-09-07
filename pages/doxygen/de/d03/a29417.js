@@ -1,6 +1,5 @@
 var a29417 =
 [
-    [ "hasInstantTargetProcs", "de/d03/a29417.html#a043a2884a456208d85bc3bf8d4733682", null ],
-    [ "isRemoved", "de/d03/a29417.html#a3f593c8bba6edde580f84fcc5ce9215b", null ],
-    [ "spellId", "de/d03/a29417.html#aee26a119051d638047018aeb93d593f6", null ]
+    [ "CastTime", "de/d03/a29417.html#af0bf895b1a5d61974cb63230b786c55e", null ],
+    [ "ID", "de/d03/a29417.html#a41b1059fc4059bd198925861a9414497", null ]
 ];

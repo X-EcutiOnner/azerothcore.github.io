@@ -1,7 +1,7 @@
 var a15921 =
 [
-    [ "HandleDummy", "dd/d2c/a15921.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
-    [ "PrepareSpellScript", "dd/d2c/a15921.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
-    [ "Register", "dd/d2c/a15921.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
-    [ "Validate", "dd/d2c/a15921.html#a041c84fd605abd36b8f774903a5200dc", null ]
+    [ "npc_prospector_remtravelAI", "d5/dc9/a15925.html", "d5/dc9/a15925" ],
+    [ "npc_prospector_remtravel", "dd/d2c/a15921.html#aa213161fc60e615682252125f6c58f7f", null ],
+    [ "GetAI", "dd/d2c/a15921.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
+    [ "OnQuestAccept", "dd/d2c/a15921.html#a4bc2e5264a7a2184bf8d90b7d4045cc8", null ]
 ];

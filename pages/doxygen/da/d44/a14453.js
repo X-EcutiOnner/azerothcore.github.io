@@ -1,5 +1,7 @@
 var a14453 =
 [
-    [ "at_zulgurub_bridge_speech", "da/d44/a14453.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
-    [ "_OnTrigger", "da/d44/a14453.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
+    [ "HandleTriggerSpell", "da/d44/a14453.html#a66b366f4989d99a58b331e56024e4520", null ],
+    [ "PrepareAuraScript", "da/d44/a14453.html#a4b00497e095b5c43571b543252b31e58", null ],
+    [ "Register", "da/d44/a14453.html#abacee7689888bf8c5d21b534a6d71b40", null ],
+    [ "Validate", "da/d44/a14453.html#a6bef0ac760a319deed6f71fee213e885", null ]
 ];

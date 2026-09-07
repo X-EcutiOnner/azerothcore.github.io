@@ -1,4 +1,8 @@
 var a14929 =
 [
-    [ "npc_midsummer_bonfire_despawner", "df/dbc/a14929.html#aacb82b08ec0fef0f53d7e251e010abd8", null ]
+    [ "npc_hallows_end_train_fire", "df/dbc/a14929.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
+    [ "Reset", "df/dbc/a14929.html#afdda52e0adce23f56fa9d1357469a17d", null ],
+    [ "SpellHit", "df/dbc/a14929.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
+    [ "UpdateAI", "df/dbc/a14929.html#a686a565e1743c31166d8d57f67a0adce", null ],
+    [ "timer", "df/dbc/a14929.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
 ];

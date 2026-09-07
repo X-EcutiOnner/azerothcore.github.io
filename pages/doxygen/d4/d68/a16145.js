@@ -1,9 +1,7 @@
 var a16145 =
 [
-    [ "npc_pluckyAI", "d4/d68/a16145.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
-    [ "ReceiveEmote", "d4/d68/a16145.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
-    [ "Reset", "d4/d68/a16145.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
-    [ "UpdateAI", "d4/d68/a16145.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
-    [ "NormFaction", "d4/d68/a16145.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
-    [ "ResetTimer", "d4/d68/a16145.html#ac9808c21666cd17b0603e7e67a61d015", null ]
+    [ "npc_toogaAI", "da/db3/a16149.html", "da/db3/a16149" ],
+    [ "npc_tooga", "d4/d68/a16145.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "d4/d68/a16145.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "d4/d68/a16145.html#a45ae4f9be8d69553d557b33df9fbde3b", null ]
 ];

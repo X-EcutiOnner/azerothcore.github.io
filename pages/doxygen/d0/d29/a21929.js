@@ -1,6 +1,6 @@
 var a21929 =
 [
-    [ "npc_infra_green_bomber_genericAI", "de/de8/a21933.html", "de/de8/a21933" ],
-    [ "npc_infra_green_bomber_generic", "d0/d29/a21929.html#a39134a09376c35f15e99377cd28ac6ff", null ],
-    [ "GetAI", "d0/d29/a21929.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "de/de8/a21933.html", "de/de8/a21933" ],
+    [ "npc_commander_eligor_dawnbringer", "d0/d29/a21929.html#a71d919af98464d6d63f948507f3ff08c", null ],
+    [ "GetAI", "d0/d29/a21929.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
 ];

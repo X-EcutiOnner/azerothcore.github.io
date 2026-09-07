@@ -1,6 +1,11 @@
 var a23205 =
 [
-    [ "HandleAfterRemove", "db/d7d/a23205.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "db/d7d/a23205.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "db/d7d/a23205.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "boss_fathomlord_karathress", "db/d7d/a23205.html#a05c483ea61011926c260b43f6c01cac3", null ],
+    [ "DoAction", "db/d7d/a23205.html#adc5685244341e353c6dac67b0191d877", null ],
+    [ "JustDied", "db/d7d/a23205.html#a4c356359be50b626a28fab4a803386f8", null ],
+    [ "JustEngagedWith", "db/d7d/a23205.html#ae221d994f2ebb0a298288233727ea1ba", null ],
+    [ "JustReachedHome", "db/d7d/a23205.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
+    [ "JustSummoned", "db/d7d/a23205.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
+    [ "KilledUnit", "db/d7d/a23205.html#a02812a3cc7de22348058dedd107bb6d0", null ],
+    [ "Reset", "db/d7d/a23205.html#a52f76cb43a32c5f59cbc7476f0df8646", null ]
 ];

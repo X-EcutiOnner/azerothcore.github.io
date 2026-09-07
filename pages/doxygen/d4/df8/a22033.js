@@ -1,8 +1,7 @@
 var a22033 =
 [
-    [ "npc_adventurous_dwarfAI", "de/d47/a22037.html", "de/d47/a22037" ],
-    [ "npc_adventurous_dwarf", "d4/df8/a22033.html#a15c39e217907189db9be7799e696f310", null ],
-    [ "GetAI", "d4/df8/a22033.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
-    [ "OnGossipHello", "d4/df8/a22033.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
-    [ "OnGossipSelect", "d4/df8/a22033.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
+    [ "HandleDummy", "d4/df8/a22033.html#abb5726c8afa66a946eefc8767094ea9b", null ],
+    [ "PrepareSpellScript", "d4/df8/a22033.html#ab5d9f8125c75bbd8fbb2717516d3eddd", null ],
+    [ "Register", "d4/df8/a22033.html#a38efc59fcbb40469521419723a1dceb3", null ],
+    [ "Validate", "d4/df8/a22033.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e", null ]
 ];

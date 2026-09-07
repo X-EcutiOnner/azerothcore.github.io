@@ -1,6 +1,6 @@
 var a21925 =
 [
-    [ "HandleDummy", "dc/d8f/a21925.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "dc/d8f/a21925.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "dc/d8f/a21925.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "npc_spiritual_insightAI", "dc/d8f/a21925.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "dc/d8f/a21925.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "dc/d8f/a21925.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

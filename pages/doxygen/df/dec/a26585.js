@@ -1,7 +1,7 @@
 var a26585 =
 [
-    [ "HandleProc", "df/dec/a26585.html#acec80390545c0ae674aeed8155333e6b", null ],
-    [ "PrepareAuraScript", "df/dec/a26585.html#a84a503ad6d4848333640ddd347a7476a", null ],
-    [ "Register", "df/dec/a26585.html#ae79f1ce6dc1d6c0823c8da8b6086efab", null ],
-    [ "Validate", "df/dec/a26585.html#a11a4d6e297251b5611e3faa1c3c33e13", null ]
+    [ "CalculateAmount", "df/dec/a26585.html#a0934aa8eaf442314aa6050d85304c15b", null ],
+    [ "CalculateSpellAmount", "df/dec/a26585.html#a4ec8eb1000a32fe3909e0ce32f5a83cd", null ],
+    [ "PrepareAuraScript", "df/dec/a26585.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
+    [ "Register", "df/dec/a26585.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
 ];

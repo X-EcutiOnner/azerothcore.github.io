@@ -1,5 +1,5 @@
 var a28125 =
 [
-    [ "go_veil_skith_cage", "d4/d77/a28125.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
-    [ "OnGossipHello", "d4/d77/a28125.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
+    [ "AreaTrigger_at_stormwright_shelf", "d4/d77/a28125.html#a97cdf51a8992b3d9edc138351770fd75", null ],
+    [ "OnTrigger", "d4/d77/a28125.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
 ];

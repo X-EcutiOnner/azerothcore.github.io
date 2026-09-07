@@ -1,7 +1,8 @@
 var a18645 =
 [
-    [ "CheckTargetCount", "d3/d1b/a18645.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
-    [ "PrepareSpellScript", "d3/d1b/a18645.html#abd32198867e7f01b21b7de6224a597d4", null ],
-    [ "Register", "d3/d1b/a18645.html#a671bede7fbc68085cd6075f412822869", null ],
-    [ "Validate", "d3/d1b/a18645.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
+    [ "NecroticPlagueTargetCheck", "d3/d1b/a18645.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
+    [ "operator()", "d3/d1b/a18645.html#a801a176e367a9f4446fe080845477654", null ],
+    [ "_notAura1", "d3/d1b/a18645.html#a4f52417f233e1ab06210726670f719f3", null ],
+    [ "_notAura2", "d3/d1b/a18645.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
+    [ "_sourceObj", "d3/d1b/a18645.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
 ];

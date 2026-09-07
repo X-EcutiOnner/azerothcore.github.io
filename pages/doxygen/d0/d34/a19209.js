@@ -1,5 +1,7 @@
 var a19209 =
 [
-    [ "npc_icc_buff_switcher", "d0/d34/a19209.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
-    [ "OnGossipSelect", "d0/d34/a19209.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
+    [ "HandleQuestComplete", "d0/d34/a19209.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
+    [ "HandleScript", "d0/d34/a19209.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
+    [ "PrepareSpellScript", "d0/d34/a19209.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
+    [ "Register", "d0/d34/a19209.html#a3258d4517cfc758080691bab429624d7", null ]
 ];

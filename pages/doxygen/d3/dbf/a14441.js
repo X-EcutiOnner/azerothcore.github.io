@@ -1,6 +1,6 @@
 var a14441 =
 [
-    [ "boss_hakkarAI", "d0/df4/a14445.html", "d0/df4/a14445" ],
-    [ "boss_hakkar", "d3/dbf/a14441.html#a834bd1f223154fbf1be94bf43136da28", null ],
-    [ "GetAI", "d3/dbf/a14441.html#aff3a089e30dcddfde4db372104153723", null ]
+    [ "npc_eagle_trash_aggro_trigger", "d3/dbf/a14441.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "d3/dbf/a14441.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "d3/dbf/a14441.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

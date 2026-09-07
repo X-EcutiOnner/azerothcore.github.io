@@ -1,7 +1,6 @@
 var a22569 =
 [
-    [ "npc_blade_of_azzinoth", "d8/d3e/a22569.html#a55afe56313c237afe8080662b2ed2dba", null ],
-    [ "DoAction", "d8/d3e/a22569.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
-    [ "IsSummonedBy", "d8/d3e/a22569.html#af2925da1235b809ee81469fe32ab0f92", null ],
-    [ "JustSummoned", "d8/d3e/a22569.html#a501e2d1ae9af813fd9c30395e7774983", null ]
+    [ "FilterTargets", "d8/d3e/a22569.html#a4d81860c41daab44851da605d38b4753", null ],
+    [ "PrepareSpellScript", "d8/d3e/a22569.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
+    [ "Register", "d8/d3e/a22569.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
 ];

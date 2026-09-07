@@ -1,6 +1,10 @@
 var a15241 =
 [
-    [ "npc_crate_helperAI", "dd/d83/a15245.html", "dd/d83/a15245" ],
-    [ "npc_crate_helper", "d7/da5/a15241.html#ae08751928234656dcda84dd5c7e4cc37", null ],
-    [ "GetAI", "d7/da5/a15241.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
+    [ "npc_hyjal_frost_wyrm", "d7/da5/a15241.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "d7/da5/a15241.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "d7/da5/a15241.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "d7/da5/a15241.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "d7/da5/a15241.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "d7/da5/a15241.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "d7/da5/a15241.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

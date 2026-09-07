@@ -1,10 +1,7 @@
 var a24205 =
 [
-    [ "npc_pet_gen_imp_in_a_bottle", "df/d7d/a24205.html#aa32b7770c2719d77d46fcf6d22989284", null ],
-    [ "InitializeAI", "df/d7d/a24205.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
-    [ "UpdateAI", "df/d7d/a24205.html#a453ec855bb21a30cb72b540ff8f77035", null ],
-    [ "_data", "df/d7d/a24205.html#a982ec923536c2c33353a3673aa425b6a", null ],
-    [ "_hasParty", "df/d7d/a24205.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
-    [ "_ownerGUID", "df/d7d/a24205.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
-    [ "_talkTimer", "df/d7d/a24205.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
+    [ "npc_maxx_a_million_escortAI", "d7/d3c/a24209.html", "d7/d3c/a24209" ],
+    [ "npc_maxx_a_million_escort", "df/d7d/a24205.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "df/d7d/a24205.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "df/d7d/a24205.html#aa9a3c655ed09b1264afd8e9ca6965bf5", null ]
 ];

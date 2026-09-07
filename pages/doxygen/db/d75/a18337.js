@@ -1,6 +1,7 @@
 var a18337 =
 [
-    [ "npc_little_oozeAI", "d4/d06/a18341.html", "d4/d06/a18341" ],
-    [ "npc_little_ooze", "db/d75/a18337.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
-    [ "GetAI", "db/d75/a18337.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
+    [ "HandleDummy", "db/d75/a18337.html#aa61db53d7395fd45b8569e12978fed0b", null ],
+    [ "PrepareSpellScript", "db/d75/a18337.html#ab63054debe6763027ab52ad122277719", null ],
+    [ "Register", "db/d75/a18337.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
+    [ "Validate", "db/d75/a18337.html#adb7e30d10c2071de5d5070b64a10af30", null ]
 ];

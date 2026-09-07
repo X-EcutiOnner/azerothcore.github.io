@@ -1,6 +1,7 @@
 var a26685 =
 [
-    [ "HandleEffectScriptEffect", "d2/db1/a26685.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
-    [ "PrepareSpellScript", "d2/db1/a26685.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
-    [ "Register", "d2/db1/a26685.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
+    [ "PrepareSpellScript", "d2/db1/a26685.html#ade3a3f956ae8be922bd1d2204919d360", null ],
+    [ "Register", "d2/db1/a26685.html#a71d397da4a4804cf6023806c15e8bedf", null ],
+    [ "TriggerHypothermia", "d2/db1/a26685.html#af40f92afae93778e477c50ddf18c8adc", null ],
+    [ "Validate", "d2/db1/a26685.html#a1f0cef532c2bd13d94e647722f85457a", null ]
 ];

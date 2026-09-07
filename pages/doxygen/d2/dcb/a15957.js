@@ -1,6 +1,6 @@
 var a15957 =
 [
-    [ "npc_silva_filnaveth", "d2/dcb/a15957.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "d2/dcb/a15957.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "d2/dcb/a15957.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "npc_tiger_matriarch_creditAI", "da/d5b/a15961.html", "da/d5b/a15961" ],
+    [ "npc_tiger_matriarch_credit", "d2/dcb/a15957.html#a9d76e8e808c828da501551025eecd8ea", null ],
+    [ "GetAI", "d2/dcb/a15957.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
 ];

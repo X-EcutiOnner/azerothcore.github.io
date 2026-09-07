@@ -1,7 +1,11 @@
 var a23589 =
 [
-    [ "boss_warp_splinter", "d0/da0/a23589.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
-    [ "JustDied", "d0/da0/a23589.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
-    [ "JustEngagedWith", "d0/da0/a23589.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
-    [ "KilledUnit", "d0/da0/a23589.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
+    [ "boss_kiggler_the_crazed", "d0/da0/a23589.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
+    [ "AttackStart", "d0/da0/a23589.html#a47c18487637dcb911852573e3aec85a2", null ],
+    [ "JustDied", "d0/da0/a23589.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
+    [ "JustEngagedWith", "d0/da0/a23589.html#acd10951a5b148579d0bd4196cc2e686e", null ],
+    [ "Reset", "d0/da0/a23589.html#a3bd8ca2488b2db298a198038a849189e", null ],
+    [ "UpdateAI", "d0/da0/a23589.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
+    [ "_scheduler", "d0/da0/a23589.html#af041c254910df663a03fcc815db635da", null ],
+    [ "instance", "d0/da0/a23589.html#aa78db443f19814c66b977fe008de74fa", null ]
 ];

@@ -1,10 +1,16 @@
 var a04928 =
 [
-    [ "AddPetScripts", "db/d15/a04928.html#aaeb6a149e6495db19023f37a4f8bd882", null ],
-    [ "AddSC_deathknight_pet_scripts", "db/d15/a04928.html#ac6a5b089240cd6b996928b3e7f9137b3", null ],
-    [ "AddSC_generic_pet_scripts", "db/d15/a04928.html#a9852812a043673e45884dca938eff157", null ],
-    [ "AddSC_hunter_pet_scripts", "db/d15/a04928.html#ab89117a79c55f003f82b06a1878e6534", null ],
-    [ "AddSC_mage_pet_scripts", "db/d15/a04928.html#a689a4efb7777f4164aee994745a0e2d2", null ],
-    [ "AddSC_priest_pet_scripts", "db/d15/a04928.html#ac0eaa77dc1cb9a092b318e3bc3f6d5b8", null ],
-    [ "AddSC_shaman_pet_scripts", "db/d15/a04928.html#ab07e634ed761985e07d5c0e10f329231", null ]
+    [ "Acore::CheckedBufferOutputIterator< T >", "d5/d9e/a05821.html", "d5/d9e/a05821" ],
+    [ "AddressOrSelf", "db/d15/a04928.html#a31c35cb4c5901c4bdb56be356d5ab9b3", null ],
+    [ "AddressOrSelf", "db/d15/a04928.html#aa676a34e943f3ea366194be6f31da865", null ],
+    [ "EraseIf", "db/d15/a04928.html#a7821713bb3723db62da8a4d0e3711407", null ],
+    [ "MapGetValuePtr", "db/d15/a04928.html#a288324cfca487d8ecc2eab8a6014c513", null ],
+    [ "MultimapErasePair", "db/d15/a04928.html#a965e5e257e71e0d1a8c708fbd00867a7", null ],
+    [ "RandomResize", "db/d15/a04928.html#a356dc36492769fc1473e5f5214bd6a11", null ],
+    [ "RandomResize", "db/d15/a04928.html#ad8b2c621f5a22f8ae253a1c9733794b9", null ],
+    [ "RandomShuffle", "db/d15/a04928.html#a4585a27b1f592547062d7bc039cff3b4", null ],
+    [ "SelectRandomContainerElement", "db/d15/a04928.html#a8ca673d18562735d4ed20a11519b3d46", null ],
+    [ "SelectRandomContainerElementIf", "db/d15/a04928.html#a1a2b0eddd5cd5b91e5dc86ca27f0bb86", null ],
+    [ "SelectRandomWeightedContainerElement", "db/d15/a04928.html#a4e1de71c76e525a6fdf4c76b0d09c94b", null ],
+    [ "SelectRandomWeightedContainerElement", "db/d15/a04928.html#a220cb6c43559036273f478f15d047eb9", null ]
 ];

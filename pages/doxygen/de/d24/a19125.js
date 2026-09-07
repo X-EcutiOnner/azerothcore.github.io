@@ -1,6 +1,6 @@
 var a19125 =
 [
-    [ "HandleScript", "de/d24/a19125.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "de/d24/a19125.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "de/d24/a19125.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "npc_arthas_teleport_visualAI", "d4/d86/a19129.html", "d4/d86/a19129" ],
+    [ "npc_arthas_teleport_visual", "de/d24/a19125.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
+    [ "GetAI", "de/d24/a19125.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
 ];

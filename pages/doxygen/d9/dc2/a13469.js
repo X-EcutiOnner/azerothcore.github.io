@@ -1,11 +1,6 @@
 var a13469 =
 [
-    [ "npc_a_special_surpriseAI", "d9/dc2/a13469.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
-    [ "MeetQuestCondition", "d9/dc2/a13469.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
-    [ "MoveInLineOfSight", "d9/dc2/a13469.html#af0b183b951f1eba8114da1f7a1284d09", null ],
-    [ "Reset", "d9/dc2/a13469.html#a9526f6b257eade275b828d2b30328533", null ],
-    [ "UpdateAI", "d9/dc2/a13469.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
-    [ "ExecuteSpeech_Counter", "d9/dc2/a13469.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
-    [ "ExecuteSpeech_Timer", "d9/dc2/a13469.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
-    [ "PlayerGUID", "d9/dc2/a13469.html#a683cdbd0ef9d0562842aace5b440594f", null ]
+    [ "boss_garaxxas", "d9/dc2/a13469.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
+    [ "JustEngagedWith", "d9/dc2/a13469.html#aebfd7b63d714468ed69e920fb89c345d", null ],
+    [ "Reset", "d9/dc2/a13469.html#a56e6489ce49971cb066444888355626e", null ]
 ];

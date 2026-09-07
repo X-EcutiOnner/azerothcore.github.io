@@ -1,5 +1,15 @@
 var a04520 =
 [
-    [ "reset_commandscript", "da/d87/a12599.html", "da/d87/a12599" ],
-    [ "AddSC_reset_commandscript", "d3/d83/a04520.html#ae4c7679595ac3aac5f03426eb6e0e6e4", null ]
+    [ "SpellProcCooldownTest", "d0/daf/a30021.html", "d0/daf/a30021" ],
+    [ "TEST_F", "d3/d83/a04520.html#ac30c03da32748e0bf7f658b9eff19f67", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a877730b0890fd65b53503d867be13db2", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a46fee264bedefac5bf751dc80e5175ca", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a370529a902674d7c3d85a958b68f014a", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a63a215a846e19ee49b60cd43e3a95dbb", null ],
+    [ "TEST_F", "d3/d83/a04520.html#af3b499c25e76cc981b8b7c898e661285", null ],
+    [ "TEST_F", "d3/d83/a04520.html#aa2595c13ca0ad6ce6afda0196d0c86ae", null ],
+    [ "TEST_F", "d3/d83/a04520.html#afba7de9d87f646093469d0f6820b2217", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a64a32de59b301ddb3b2a8827bacd43cf", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a4828c96b86819a1f862c5c123463c3f6", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a980784573aa4ae1d2fda4349c9290425", null ]
 ];

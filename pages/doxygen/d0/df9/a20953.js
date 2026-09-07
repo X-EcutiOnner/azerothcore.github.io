@@ -1,9 +1,9 @@
 var a20953 =
 [
-    [ "npc_ulduar_keeperAI", "d0/df9/a20953.html#ac69d21f3820f2c01a80ff664c317d111", null ],
-    [ "DoAction", "d0/df9/a20953.html#a03011d04761926d67e43c0bea5a0901f", null ],
-    [ "Reset", "d0/df9/a20953.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
-    [ "SpellHit", "d0/df9/a20953.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
-    [ "UpdateAI", "d0/df9/a20953.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
-    [ "_keeper", "d0/df9/a20953.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
+    [ "OnProc", "d0/df9/a20953.html#a94de5901e43000e99b478e9194d59ecd", null ],
+    [ "PrepareAuraScript", "d0/df9/a20953.html#a1b4efd5e774d4bd561a30830c3be8045", null ],
+    [ "Register", "d0/df9/a20953.html#acc8a07807e5c306af285cb5889ef2c41", null ],
+    [ "Validate", "d0/df9/a20953.html#ad17cfc0369da547475e43bd2970cf3f2", null ],
+    [ "_lastOrbTime", "d0/df9/a20953.html#a4522510d836abf625b019674c1c5281f", null ],
+    [ "OrbCooldown", "d0/df9/a20953.html#a4a0204623a0db8d1474d0e72e71226eb", null ]
 ];

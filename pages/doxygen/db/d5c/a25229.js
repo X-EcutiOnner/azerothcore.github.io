@@ -1,6 +1,7 @@
 var a25229 =
 [
-    [ "CheckRequirement", "db/d5c/a25229.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
-    [ "PrepareSpellScript", "db/d5c/a25229.html#aebb88f5ea803a590a099e4e6427d8276", null ],
-    [ "Register", "db/d5c/a25229.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
+    [ "HandleScript", "db/d5c/a25229.html#a628fbc7ef23ce8f93d132f7bf518d4d8", null ],
+    [ "PrepareSpellScript", "db/d5c/a25229.html#a8e5aa0a33907c5216299734a928de2fd", null ],
+    [ "Register", "db/d5c/a25229.html#a9e25da03bbbea35f13420c14c6fab0d5", null ],
+    [ "Validate", "db/d5c/a25229.html#a30cc03ed0c19074dc1fde4951a061815", null ]
 ];

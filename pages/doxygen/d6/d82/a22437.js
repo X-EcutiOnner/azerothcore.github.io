@@ -1,4 +1,6 @@
 var a22437 =
 [
-    [ "instance_auchenai_crypts_InstanceMapScript", "d6/d82/a22437.html#af67e3aa61d9fe3ed3876b1bd2df9ff3c", null ]
+    [ "HandleSummon", "d6/d82/a22437.html#a98c5df8b6c561a5aa7d766b639f3c2c8", null ],
+    [ "PrepareSpellScript", "d6/d82/a22437.html#ab5605e1d401d7a762fc8b5a530ecd640", null ],
+    [ "Register", "d6/d82/a22437.html#a9c9a0fd43758a6441a086860e8276cc0", null ]
 ];

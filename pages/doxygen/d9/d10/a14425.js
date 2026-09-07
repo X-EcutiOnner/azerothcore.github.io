@@ -1,8 +1,9 @@
 var a14425 =
 [
-    [ "FilterTargets", "d9/d10/a14425.html#a3405b21202d423c649e0b8d341b42d9c", null ],
-    [ "HandleWipeThreat", "d9/d10/a14425.html#a2bbcce83bffebc509e9ec54778e82639", null ],
-    [ "PrepareSpellScript", "d9/d10/a14425.html#a59948484b528cab69c695f08b39b886d", null ],
-    [ "Register", "d9/d10/a14425.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
-    [ "_wipeThreat", "d9/d10/a14425.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
+    [ "npc_zulaman_hostageAI", "d9/d10/a14425.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
+    [ "JustDied", "d9/d10/a14425.html#af87bdebb039f1da5736408cf3aad6487", null ],
+    [ "JustEngagedWith", "d9/d10/a14425.html#af0aa229973da1a6230a854439658e9ed", null ],
+    [ "UpdateAI", "d9/d10/a14425.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
+    [ "IsLoot", "d9/d10/a14425.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
+    [ "PlayerGUID", "d9/d10/a14425.html#a49f15c5a94d005c56218d00ac6732b82", null ]
 ];

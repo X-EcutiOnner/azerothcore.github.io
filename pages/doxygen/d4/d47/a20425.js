@@ -1,18 +1,8 @@
 var a20425 =
 [
-    [ "boss_ignis", "d4/d47/a20425.html#a0e254ab7aadb175bdbeac0cffd7044f7", null ],
-    [ "DoAction", "d4/d47/a20425.html#a5b93db8acc8e938ff4784858beeb44b3", null ],
-    [ "EnterEvadeMode", "d4/d47/a20425.html#a738218ee23e2e0d1f3338f958a77aabc", null ],
-    [ "GetData", "d4/d47/a20425.html#a90c4bf03b702264356f5826030ac16de", null ],
-    [ "JustDied", "d4/d47/a20425.html#ae82a27c0483beae93d2386ff9af3377f", null ],
-    [ "JustEngagedWith", "d4/d47/a20425.html#a3abac1b16ae9f42d0349d6472f2e1071", null ],
-    [ "JustReachedHome", "d4/d47/a20425.html#a07e03344eb0f47fe9791e6273c04b3ea", null ],
-    [ "KilledUnit", "d4/d47/a20425.html#a43ab13fd49fbc98fd6c81b38cd6e6f1d", null ],
-    [ "MoveInLineOfSight", "d4/d47/a20425.html#af5873189f7e2d8c27e709d04a4cbee13", null ],
-    [ "Reset", "d4/d47/a20425.html#ab3519e58bcf9feb942412a370fa0e205", null ],
-    [ "SpellHit", "d4/d47/a20425.html#af9a8dc94e2aeead55ab824dee7a63578", null ],
-    [ "UpdateAI", "d4/d47/a20425.html#af8b0ccfce6876b85b12e51328d4ec39f", null ],
-    [ "bShattered", "d4/d47/a20425.html#a4dca823efebb77be49e52df5ce45f42e", null ],
-    [ "counter", "d4/d47/a20425.html#a5efc99a75040decc5fddb83e64cb3930", null ],
-    [ "lastShatterMSTime", "d4/d47/a20425.html#a8b1e02c682f5d14fc03f439180265407", null ]
+    [ "OnApply", "d4/d47/a20425.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "d4/d47/a20425.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "d4/d47/a20425.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "d4/d47/a20425.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "d4/d47/a20425.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

@@ -1,11 +1,7 @@
 var a13849 =
 [
-    [ "npc_kalecgos_kj", "d2/de6/a13849.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
-    [ "DoAction", "d2/de6/a13849.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
-    [ "JustSummoned", "d2/de6/a13849.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
-    [ "Reset", "d2/de6/a13849.html#ab3cd4229999bddc16fe8152acb187111", null ],
-    [ "UpdateAI", "d2/de6/a13849.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
-    [ "events", "d2/de6/a13849.html#ab5cc58e293e20172558e15fa28670633", null ],
-    [ "instance", "d2/de6/a13849.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
-    [ "summons", "d2/de6/a13849.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
+    [ "HandleScriptEffect", "d2/de6/a13849.html#ae631c634c77cc207338e3549a664969b", null ],
+    [ "PrepareSpellScript", "d2/de6/a13849.html#ac9f825f10512be5849c46460e9cdbec8", null ],
+    [ "Register", "d2/de6/a13849.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
+    [ "Validate", "d2/de6/a13849.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
 ];

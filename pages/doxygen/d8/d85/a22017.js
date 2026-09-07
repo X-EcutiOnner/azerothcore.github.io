@@ -1,7 +1,6 @@
 var a22017 =
 [
-    [ "npc_engineer_heliceAI", "d4/d04/a22021.html", "d4/d04/a22021" ],
-    [ "npc_engineer_helice", "d8/d85/a22017.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
-    [ "GetAI", "d8/d85/a22017.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
-    [ "OnQuestAccept", "d8/d85/a22017.html#ae0979d68744372d5d4669b6f014eb123", null ]
+    [ "npc_lake_frogAI", "d4/d04/a22021.html", "d4/d04/a22021" ],
+    [ "npc_lake_frog", "d8/d85/a22017.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "d8/d85/a22017.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

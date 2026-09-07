@@ -1,9 +1,9 @@
 var a26525 =
 [
-    [ "spell_pal_judgement", "d0/d1a/a26525.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
-    [ "HandleScriptEffect", "d0/d1a/a26525.html#add419a824dbebdc168d2b6dc49d07913", null ],
-    [ "PrepareSpellScript", "d0/d1a/a26525.html#a2cffed69c16a1a6189048ed52af35152", null ],
-    [ "Register", "d0/d1a/a26525.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
-    [ "Validate", "d0/d1a/a26525.html#a3971c195a279338253771675131b4802", null ],
-    [ "_spellId", "d0/d1a/a26525.html#ad49ea02800078c672747f4fdbbab1d20", null ]
+    [ "HandleAfterCast", "d0/d1a/a26525.html#afd2fbc51ac1e99789994021af36688f3", null ],
+    [ "HandleTriggerSpell", "d0/d1a/a26525.html#ae140ab00101f081454b55e12a7c54440", null ],
+    [ "Load", "d0/d1a/a26525.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
+    [ "PrepareSpellScript", "d0/d1a/a26525.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
+    [ "Register", "d0/d1a/a26525.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
+    [ "_triggerSpellId", "d0/d1a/a26525.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
 ];

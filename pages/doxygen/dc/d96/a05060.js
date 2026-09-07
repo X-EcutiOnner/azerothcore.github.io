@@ -1,6 +1,6 @@
 var a05060 =
 [
-    [ "DBUpdater< CharacterDatabaseConnection >", "dc/d96/a05060.html#a753e207671f7af3815a056247f2de3ce", null ],
-    [ "DBUpdater< LoginDatabaseConnection >", "dc/d96/a05060.html#a16a33693c8570aff221401b100547fb7", null ],
-    [ "DBUpdater< WorldDatabaseConnection >", "dc/d96/a05060.html#ace05c45d1df6cb7f16487ef1aa8bc9f7", null ]
+    [ "CONFIG_HIGH_PRIORITY", "dc/d96/a05060.html#a04727fe99a83f6b774ac1fb1b8468f3e", null ],
+    [ "CONFIG_PROCESSOR_AFFINITY", "dc/d96/a05060.html#a714853b6677573f2aa289978eee5b83f", null ],
+    [ "SetProcessPriority", "dc/d96/a05060.html#ac0ccc1e4fc992fb43f068cb8f6b3fd7b", null ]
 ];

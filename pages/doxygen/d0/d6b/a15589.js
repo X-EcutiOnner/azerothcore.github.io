@@ -1,9 +1,21 @@
 var a15589 =
 [
-    [ "npc_claw_tentacle", "d0/d6b/a15589.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
-    [ "JustDied", "d0/d6b/a15589.html#aa566b417d1b766668133dd1d6a58293f", null ],
-    [ "JustEngagedWith", "d0/d6b/a15589.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
-    [ "Reset", "d0/d6b/a15589.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
-    [ "UpdateAI", "d0/d6b/a15589.html#ae7d521445680167add653717c7ae4c86", null ],
-    [ "_portalGUID", "d0/d6b/a15589.html#ab979781a8f77267348595cfa17341bae", null ]
+    [ "npc_general_andorov", "d0/d6b/a15589.html#ac3bbdeaad9c7bb303a5de6773916dcff", null ],
+    [ "GetData", "d0/d6b/a15589.html#adf1b6a0767c3633c96d41d6a8c59e670", null ],
+    [ "InitializeAI", "d0/d6b/a15589.html#a701221e8fd8830a3586d9791fd8eca56", null ],
+    [ "JustDied", "d0/d6b/a15589.html#ae6342cc5d033bc2900594cabccaf7233", null ],
+    [ "JustEngagedWith", "d0/d6b/a15589.html#a9f1261cde233466b814b53be03406370", null ],
+    [ "JustSummoned", "d0/d6b/a15589.html#a3add3fa13ffae3cd688eaf564c3f835d", null ],
+    [ "KilledUnit", "d0/d6b/a15589.html#a728b73ed109ee6b2b45eb3f1415b4744", null ],
+    [ "MoveInLineOfSight", "d0/d6b/a15589.html#a230803b7f29829118d105ec768941ffa", null ],
+    [ "sGossipSelect", "d0/d6b/a15589.html#a38eadfe7e465c276f7496c5b51f60d03", null ],
+    [ "UpdateEscortAI", "d0/d6b/a15589.html#ab5f5af15cf76071dcce833514bb8c867", null ],
+    [ "WaypointReached", "d0/d6b/a15589.html#ab9edc924b6e5ade56e3f6443a7454eaa", null ],
+    [ "WaypointReached", "d0/d6b/a15589.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_initialAttackTimer", "d0/d6b/a15589.html#a38dd94fea45cf2c1821cb01e3d3e70d8", null ],
+    [ "_paused", "d0/d6b/a15589.html#aa0708d2c1e4829371b93697744fb10b7", null ],
+    [ "_summons", "d0/d6b/a15589.html#ac8cb94b3870f655b61a52cdb5076fc4c", null ],
+    [ "Endwaypoint", "d0/d6b/a15589.html#a6897bb1ed63743ce8b225786d63910df", null ],
+    [ "events", "d0/d6b/a15589.html#aa7eace59bc5f630cafba513f9e2ec0f8", null ],
+    [ "instance", "d0/d6b/a15589.html#ae79d42dc7fa334ace67f07651ce4720a", null ]
 ];

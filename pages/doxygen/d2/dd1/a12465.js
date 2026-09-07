@@ -1,7 +1,7 @@
 var a12465 =
 [
-    [ "player_commandscript", "d2/dd1/a12465.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
-    [ "GetCommands", "d2/dd1/a12465.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
-    [ "HandlePlayerLearnCommand", "d2/dd1/a12465.html#a6ca511bcecf73049665772cb80dbcf40", null ],
-    [ "HandlePlayerUnLearnCommand", "d2/dd1/a12465.html#a22fddb5da1278fe794a78a899c423bfd", null ]
+    [ "gear_commandscript", "d2/dd1/a12465.html#a2e37c7d761982f7185b2418ae5aa4315", null ],
+    [ "GetCommands", "d2/dd1/a12465.html#a9212aa39f13c646b1b8cf8be78cc8a6a", null ],
+    [ "HandleGearRepairCommand", "d2/dd1/a12465.html#a28cd5680f07f984326d79d91adbbfd70", null ],
+    [ "HandleGearStatsCommand", "d2/dd1/a12465.html#acca4bc7e8cae51ee2a6172b32f87aa56", null ]
 ];

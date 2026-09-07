@@ -1,12 +1,10 @@
 var a22745 =
 [
-    [ "boss_essence_of_angerAI", "dc/ddd/a22745.html#a25eed717395b4e1ca5504d2d473e2500", null ],
-    [ "DoAction", "dc/ddd/a22745.html#a81576aaf465dfc99d199aaf6a182df52", null ],
-    [ "JustDied", "dc/ddd/a22745.html#a997d75ad388e790f9863e1b15fa1c899", null ],
-    [ "JustEngagedWith", "dc/ddd/a22745.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
-    [ "KilledUnit", "dc/ddd/a22745.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
-    [ "Reset", "dc/ddd/a22745.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
-    [ "UpdateAI", "dc/ddd/a22745.html#a67e9f5a361894aa227f2a74f9222740d", null ],
-    [ "_recentlySpoken", "dc/ddd/a22745.html#a056aa8fd704d832e83735cf2a1a22888", null ],
-    [ "targetGUID", "dc/ddd/a22745.html#adc3867a4446375f1217809299f3dd9bb", null ]
+    [ "boss_talon_king_ikiss", "dc/ddd/a22745.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "JustDied", "dc/ddd/a22745.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "dc/ddd/a22745.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "dc/ddd/a22745.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "dc/ddd/a22745.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "dc/ddd/a22745.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "dc/ddd/a22745.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

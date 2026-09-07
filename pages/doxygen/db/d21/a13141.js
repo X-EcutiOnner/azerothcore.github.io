@@ -1,5 +1,6 @@
 var a13141 =
 [
-    [ "go_blackened_urn", "db/d21/a13141.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
-    [ "OnGossipHello", "db/d21/a13141.html#ab091bd54734acc65532303a391441ee2", null ]
+    [ "boss_mr_smiteAI", "d8/d6a/a13145.html", "d8/d6a/a13145" ],
+    [ "boss_mr_smite", "db/d21/a13141.html#a011d41112ef7376b71d2959f806be262", null ],
+    [ "GetAI", "db/d21/a13141.html#a619ca0aede1eb33f992328048319c4f0", null ]
 ];

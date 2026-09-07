@@ -1,7 +1,8 @@
 var a16161 =
 [
-    [ "npc_ameAI", "d7/dd2/a16165.html", "d7/dd2/a16165" ],
-    [ "npc_ame", "de/d41/a16161.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
-    [ "GetAI", "de/d41/a16161.html#a09f7688c38d56319791f7543eb32f317", null ],
-    [ "OnQuestAccept", "de/d41/a16161.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
+    [ "npc_giltharesAI", "de/d41/a16161.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "de/d41/a16161.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "de/d41/a16161.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "de/d41/a16161.html#a9308c73760e50e0f3d04031b508526d1", null ],
+    [ "WaypointReached", "de/d41/a16161.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

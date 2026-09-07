@@ -1,8 +1,17 @@
 var a13445 =
 [
-    [ "HandleDummy", "df/d50/a13445.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "df/d50/a13445.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "df/d50/a13445.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "df/d50/a13445.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "df/d50/a13445.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "boss_priestess_lackey_commonAI", "df/d50/a13445.html#acf122076823631cef5d66e03a9f607aa", null ],
+    [ "AttackStart", "df/d50/a13445.html#a6056ef3425f39208e5731b25fc94a335", null ],
+    [ "EnterEvadeMode", "df/d50/a13445.html#a6935410d7a4ce8e9dec9feed9f5351d7", null ],
+    [ "GetThreatMod", "df/d50/a13445.html#a2e0e387ae4645c9bbd4625d1469403a8", null ],
+    [ "JustDied", "df/d50/a13445.html#a8b06ee0a3e22d495a41ccf4c7009ad2d", null ],
+    [ "JustEngagedWith", "df/d50/a13445.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7", null ],
+    [ "JustSummoned", "df/d50/a13445.html#a9a7bcf641bae31827872faf7666635d5", null ],
+    [ "KilledUnit", "df/d50/a13445.html#a23aaa0a619470898dd617a18130ca17b", null ],
+    [ "RecalculateThreat", "df/d50/a13445.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2", null ],
+    [ "Reset", "df/d50/a13445.html#aa2ef03d73c43668c97205fa72414e71b", null ],
+    [ "UpdateAI", "df/d50/a13445.html#adf87bd797da345e49700265319d808cc", null ],
+    [ "aiType", "df/d50/a13445.html#a2b7ccbf195658e402ba6f276b18e3551", null ],
+    [ "instance", "df/d50/a13445.html#ac71aa86c97fe11d934f09d62c4ed8eab", null ],
+    [ "summons", "df/d50/a13445.html#a498ef73fcc7995113318c5f0b6efa23e", null ]
 ];

@@ -1,6 +1,12 @@
 var a11213 =
 [
-    [ "ResetFailedNotify", "da/dfa/a11213.html#a82e12a0f207590b6176253cf36a22d2f", null ],
-    [ "Write", "da/dfa/a11213.html#af03055514ef0e1e97f24c66d2cd94185", null ],
-    [ "MapId", "da/dfa/a11213.html#a17f065fc6d5438d74f38bde67a841be7", null ]
+    [ "Charges", "da/dfa/a11213.html#ada45d7e00efb3bf27afcf9db1ad4d813", null ],
+    [ "Count", "da/dfa/a11213.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9", null ],
+    [ "EnchantmentID", "da/dfa/a11213.html#a249a204f5d72d42f562c989b1cb92fc9", null ],
+    [ "Flags", "da/dfa/a11213.html#a3ca816132a756d3dc939877c57f6045d", null ],
+    [ "ItemID", "da/dfa/a11213.html#a5dc7e8b40834dba07c63322d80ed73ae", null ],
+    [ "RandomPropertiesID", "da/dfa/a11213.html#ad98a20548478fe99f9d6d345c5a3b732", null ],
+    [ "RandomPropertiesSeed", "da/dfa/a11213.html#ae5d493dd4798e11f02d8f02a57ba4274", null ],
+    [ "Slot", "da/dfa/a11213.html#afcc0a78c2f9a3061830679fece476a64", null ],
+    [ "SocketEnchant", "da/dfa/a11213.html#a55545d4d1b752e4f08bd05350b22892c", null ]
 ];

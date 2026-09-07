@@ -1,11 +1,9 @@
 var a22497 =
 [
-    [ "boss_blackheart_the_inciter", "db/d39/a22497.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "db/d39/a22497.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "db/d39/a22497.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "db/d39/a22497.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "db/d39/a22497.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "db/d39/a22497.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "db/d39/a22497.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "db/d39/a22497.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "HandleFinish", "db/d39/a22497.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "db/d39/a22497.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "db/d39/a22497.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "db/d39/a22497.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "db/d39/a22497.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "db/d39/a22497.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

@@ -1,12 +1,22 @@
 var a01922 =
 [
-    [ "WorldPackets::Pet::DismissCritter", "d8/dad/a11535.html", "d8/dad/a11535" ],
-    [ "WorldPackets::Pet::PetAbandon", "d0/d04/a11539.html", "d0/d04/a11539" ],
-    [ "WorldPackets::Pet::PetStopAttack", "db/d6b/a11543.html", "db/d6b/a11543" ],
-    [ "WorldPackets::Pet::PetSpellAutocast", "dd/dc8/a11547.html", "dd/dc8/a11547" ],
-    [ "WorldPackets::Pet::PetLearnedSpell", "d4/dc2/a11551.html", "d4/dc2/a11551" ],
-    [ "WorldPackets::Pet::PetUnlearnedSpell", "d5/d92/a11555.html", "d5/d92/a11555" ],
-    [ "WorldPackets::Pet::RequestPetInfo", "d7/d9d/a11559.html", "d7/d9d/a11559" ],
-    [ "WorldPackets::Pet::PetActionSound", "d8/dc7/a11563.html", "d8/dc7/a11563" ],
-    [ "WorldPackets::Pet::PetDismissSound", "dd/d35/a11567.html", "dd/d35/a11567" ]
+    [ "ServerMailCondition", "d0/de3/a10185.html", "d0/de3/a10185" ],
+    [ "ServerMailItems", "dc/d33/a10189.html", "dc/d33/a10189" ],
+    [ "ServerMail", "d2/d12/a10193.html", "d2/d12/a10193" ],
+    [ "ServerMailMgr", "df/d92/a10197.html", "df/d92/a10197" ],
+    [ "sServerMailMgr", "dd/d19/a01922.html#a6423d219eaead162b40b6021eadca0c4", null ],
+    [ "ServerMailContainer", "dd/d19/a01922.html#a9c10c94a0a8508b3af2e92d3455d063b", null ],
+    [ "ServerMailConditionType", "dd/d19/a01922.html#ab25c41bc314095f74fe678a33e086a2b", [
+      [ "Invalid", "dd/d19/a01922.html#ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b", null ],
+      [ "Level", "dd/d19/a01922.html#ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153", null ],
+      [ "PlayTime", "dd/d19/a01922.html#ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3", null ],
+      [ "Quest", "dd/d19/a01922.html#ab25c41bc314095f74fe678a33e086a2ba07bf513a88c3df282a30cb374f8a933d", null ],
+      [ "Achievement", "dd/d19/a01922.html#ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e", null ],
+      [ "Reputation", "dd/d19/a01922.html#ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092", null ],
+      [ "Faction", "dd/d19/a01922.html#ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201", null ],
+      [ "Race", "dd/d19/a01922.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879", null ],
+      [ "Class", "dd/d19/a01922.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af", null ],
+      [ "AccountFlags", "dd/d19/a01922.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225", null ]
+    ] ],
+    [ "ServerMailConditionTypePairs", "dd/d19/a01922.html#af981b509cb816fa6720cf16cceaa9081", null ]
 ];

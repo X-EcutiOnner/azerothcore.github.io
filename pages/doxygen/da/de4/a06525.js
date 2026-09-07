@@ -1,5 +1,7 @@
 var a06525 =
 [
-    [ "SimpleCharmedAI", "da/de4/a06525.html#ada8d12d7df75dca5c87c633348d1b27b", null ],
-    [ "UpdateAI", "da/de4/a06525.html#a5e2c8ae6b601b7fcc36f8c2c49bcd9a6", null ]
+    [ "ReactorAI", "da/de4/a06525.html#aaea292c46945399cf7c855e642941c2d", null ],
+    [ "MoveInLineOfSight", "da/de4/a06525.html#a224608a62a15d679863d68d7d0e32dde", null ],
+    [ "Permissible", "da/de4/a06525.html#a1b0845464b0d356be7bf38e65ab5eb19", null ],
+    [ "UpdateAI", "da/de4/a06525.html#a10c4c10d9ac942990d1a1ef9eb6603ad", null ]
 ];

@@ -1,10 +1,10 @@
 var a25309 =
 [
-    [ "CalcPeriodic", "dd/d11/a25309.html#a4c5793639ad7715b0dc52a803546e7cf", null ],
-    [ "CalculateSpiritAmount", "dd/d11/a25309.html#a5749d91e27de05f67110178f57c214e4", null ],
-    [ "HandleEffectApply", "dd/d11/a25309.html#a0de0ba95c09c87054d63974943750805", null ],
-    [ "HandlePeriodic", "dd/d11/a25309.html#a2ff4241cf4535a6cb8361b9f54d7a23c", null ],
-    [ "PrepareAuraScript", "dd/d11/a25309.html#aaa2c2fea4310cdba1739f02afa48a318", null ],
-    [ "Register", "dd/d11/a25309.html#ae9df15062a8bd776e9a5a4a5a53fac8f", null ],
-    [ "amount", "dd/d11/a25309.html#af07c7c4a2f6a4d59bee8d44b46be5552", null ]
+    [ "Load", "dd/d11/a25309.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
+    [ "OnApply", "dd/d11/a25309.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
+    [ "OnRemove", "dd/d11/a25309.html#a29834c598d6ef8299d54e48a3461e603", null ],
+    [ "PrepareAuraScript", "dd/d11/a25309.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
+    [ "Register", "dd/d11/a25309.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
+    [ "Validate", "dd/d11/a25309.html#aeaf16594f569af671d221234a4aa2c8b", null ],
+    [ "prevItem", "dd/d11/a25309.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
 ];

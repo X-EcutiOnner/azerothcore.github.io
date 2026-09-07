@@ -1,7 +1,15 @@
 var a19137 =
 [
-    [ "HandleDummyLaunch", "df/d50/a19137.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
-    [ "PrepareSpellScript", "df/d50/a19137.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
-    [ "Register", "df/d50/a19137.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
-    [ "Validate", "df/d50/a19137.html#a577166695c1479e3730a70637bc18cf1", null ]
+    [ "npc_icc_orb_controller", "df/d50/a19137.html#af78f3356f39b112ce37a17c735d5c625", null ],
+    [ "DoAction", "df/d50/a19137.html#a2c8a835fd79c247852fb49f0e9aa6649", null ],
+    [ "Reset", "df/d50/a19137.html#a2018189abc547c96b5e6cfad32b0394d", null ],
+    [ "ScheduleVisualChannel", "df/d50/a19137.html#ae387fdfb241e9954b80f8a960184fd52", null ],
+    [ "SetGUID", "df/d50/a19137.html#a03291421296f26d1074dc8624e47ee5c", null ],
+    [ "SpellHit", "df/d50/a19137.html#a1b939a16c94e04f0c0d211c7525067bf", null ],
+    [ "UpdateAI", "df/d50/a19137.html#ace711f4d706596bbc6e7e5e2a71fe7b5", null ],
+    [ "UpdateValidGuids", "df/d50/a19137.html#a4e9c20a096c6c0b6eab6499360afa580", null ],
+    [ "_isInCombat", "df/d50/a19137.html#ad01a3b4fa5235ffe760da4bad32597b0", null ],
+    [ "_isLongRepeat", "df/d50/a19137.html#a991b496578a1a527bc5852dea3d0b8b0", null ],
+    [ "_minionGuids", "df/d50/a19137.html#a75c655bb0bb9af2cded799caa5d437fa", null ],
+    [ "_scheduler", "df/d50/a19137.html#aca716eb91bed808919ac5bd415b36397", null ]
 ];

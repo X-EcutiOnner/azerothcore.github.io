@@ -1,7 +1,7 @@
 var a14245 =
 [
-    [ "npc_daphne_stilwellAI", "d1/d5d/a14249.html", "d1/d5d/a14249" ],
-    [ "npc_daphne_stilwell", "d2/d26/a14245.html#ad844c5f0409936d7068ee55271506041", null ],
-    [ "GetAI", "d2/d26/a14245.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
-    [ "OnQuestAccept", "d2/d26/a14245.html#ad7b293efc802506a825f202e34cb0f4d", null ]
+    [ "o", "d2/d26/a14245.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
+    [ "x", "d2/d26/a14245.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
+    [ "y", "d2/d26/a14245.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
+    [ "z", "d2/d26/a14245.html#abf42d988d416ebe409100c4b860d26db", null ]
 ];

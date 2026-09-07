@@ -1,8 +1,5 @@
 var a12697 =
 [
-    [ "CheckProc", "d8/d33/a12697.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "d8/d33/a12697.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "d8/d33/a12697.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "d8/d33/a12697.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "d8/d33/a12697.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "at_ring_of_law", "d8/d33/a12697.html#ad9bb44e898f90fb489b50cad0a711976", null ],
+    [ "OnTrigger", "d8/d33/a12697.html#a650536f556e248944921a09a110ef414", null ]
 ];

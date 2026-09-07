@@ -1,11 +1,21 @@
 var a13665 =
 [
-    [ "boss_baroness_anastariAI", "d8/d76/a13665.html#acf180bbe881ba1f6e49c075254759c00", null ],
-    [ "JustDied", "d8/d76/a13665.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
-    [ "JustEngagedWith", "d8/d76/a13665.html#a7329455d99045e7002abffe09112a4ea", null ],
-    [ "Reset", "d8/d76/a13665.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
-    [ "SchedulePossession", "d8/d76/a13665.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
-    [ "UpdateAI", "d8/d76/a13665.html#a962e4e3091d126682825c326af5f6922", null ],
-    [ "_possessedTargetGuid", "d8/d76/a13665.html#a36e386b847c7032b5ce95a01070518ad", null ],
-    [ "_scheduler", "d8/d76/a13665.html#aa59518627a5e64e371dbbb45cfced75f", null ]
+    [ "instance_sunken_temple_InstanceMapScript", "d8/d76/a13665.html#a7c686c287e8fedd53c2a22afd5721656", null ],
+    [ "GetData", "d8/d76/a13665.html#aa6247ca0f46a680373601bae1308b94d", null ],
+    [ "Initialize", "d8/d76/a13665.html#a31b05a8c4e90cbb17dc5d82b79d49b47", null ],
+    [ "OnCreatureCreate", "d8/d76/a13665.html#ae57762cc1a5555f0532cf630179d2840", null ],
+    [ "OnGameObjectCreate", "d8/d76/a13665.html#afce97e50bbc6d935c183b1ed21f6c993", null ],
+    [ "OnUnitDeath", "d8/d76/a13665.html#a4991152894573857021bc3b1fe632a06", null ],
+    [ "ReadSaveDataMore", "d8/d76/a13665.html#af97a2dc80ff18b4258e2137c60c5983d", null ],
+    [ "SetData", "d8/d76/a13665.html#ad87da3eb261f03d36d7520dc20d8b1b9", null ],
+    [ "Update", "d8/d76/a13665.html#aa4ffd7ee39e413c7486eea1d738be522", null ],
+    [ "WriteSaveDataMore", "d8/d76/a13665.html#a2d8da39156e465ec987c518e747f453b", null ],
+    [ "_defendersKilled", "d8/d76/a13665.html#abb53f597c52726680dd20f4946dc363b", null ],
+    [ "_dragonkinList", "d8/d76/a13665.html#a92ccf87798e87caf106e274169ef9d6e", null ],
+    [ "_encounters", "d8/d76/a13665.html#a616b3762e7400b17bb6fc1f3b0a8f2a9", null ],
+    [ "_events", "d8/d76/a13665.html#af535a80d3e92a9ff42c6d9edaa989a44", null ],
+    [ "_forcefieldGUID", "d8/d76/a13665.html#a57d520ed6f16c3f881f892e7578ad378", null ],
+    [ "_jammalanGUID", "d8/d76/a13665.html#ab51ad8cd98d085811aa2c02494de3a7c", null ],
+    [ "_shadeOfEranikusGUID", "d8/d76/a13665.html#a4550fd5b2e3dcca1e0d6ff46885ae4c0", null ],
+    [ "_statuePhase", "d8/d76/a13665.html#aaeb98dc1aad0d16142325c4d5a5cbf8e", null ]
 ];

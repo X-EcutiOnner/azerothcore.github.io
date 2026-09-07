@@ -1,6 +1,6 @@
 var a25061 =
 [
-    [ "CheckSeat", "d7/d96/a25061.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
-    [ "PrepareSpellScript", "d7/d96/a25061.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
-    [ "Register", "d7/d96/a25061.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
+    [ "CalculateAmount", "d7/d96/a25061.html#af913c896771e238ef62898f67af61cc4", null ],
+    [ "PrepareAuraScript", "d7/d96/a25061.html#a4be139ae22c20468be1930195097d98a", null ],
+    [ "Register", "d7/d96/a25061.html#a90d6446ed05f9dfedb43d689e8de0614", null ]
 ];

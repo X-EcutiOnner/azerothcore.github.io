@@ -1,6 +1,8 @@
 var a23129 =
 [
-    [ "go_ahune_ice_stone", "d5/d9f/a23129.html#ab7b665f01da80751ea97705c5113bde7", null ],
-    [ "GossipSelect", "d5/d9f/a23129.html#aadb4db41ed84922c0a2d0463b8616876", null ],
-    [ "_instance", "d5/d9f/a23129.html#a43651f471ac777b59fb8ba67b830cd35", null ]
+    [ "instance_black_temple_InstanceMapScript", "d5/d9f/a23129.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
+    [ "OnCreatureCreate", "d5/d9f/a23129.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
+    [ "OnGameObjectCreate", "d5/d9f/a23129.html#a564a49814ceb3b3161a6476335ab653a", null ],
+    [ "SetBossState", "d5/d9f/a23129.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
+    [ "ashtongueGUIDs", "d5/d9f/a23129.html#a85fa9c5231f13529a0741b0f92266c90", null ]
 ];

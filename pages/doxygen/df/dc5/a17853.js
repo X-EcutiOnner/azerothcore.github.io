@@ -1,7 +1,6 @@
 var a17853 =
 [
-    [ "npc_icc_blood_beastAI", "df/dc5/a17853.html#af52eff9f66451444c5acba6930c1bff6", null ],
-    [ "DoAction", "df/dc5/a17853.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
-    [ "UpdateAI", "df/dc5/a17853.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
-    [ "timer1", "df/dc5/a17853.html#a1074059162f818088808795119f081be", null ]
+    [ "boss_deathbringer_saurfangAI", "d0/d66/a17857.html", "d0/d66/a17857" ],
+    [ "boss_deathbringer_saurfang", "df/dc5/a17853.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "df/dc5/a17853.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

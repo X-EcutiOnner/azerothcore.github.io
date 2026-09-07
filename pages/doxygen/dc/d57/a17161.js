@@ -1,6 +1,6 @@
 var a17161 =
 [
-    [ "boss_trollgoreAI", "dc/de1/a17165.html", "dc/de1/a17165" ],
-    [ "boss_trollgore", "dc/d57/a17161.html#a95102f1fae6c667e0780b8b388fc156b", null ],
-    [ "GetAI", "dc/d57/a17161.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
+    [ "npc_announcer_toc10", "dc/d57/a17161.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
+    [ "OnGossipHello", "dc/d57/a17161.html#afcc5262e7c49b7456af146de14805a06", null ],
+    [ "OnGossipSelect", "dc/d57/a17161.html#a9a2bf1d3a215332744ca473041cc0520", null ]
 ];

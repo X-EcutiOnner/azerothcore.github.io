@@ -1,5 +1,4 @@
 var a29277 =
 [
-    [ "ByteBufferInvalidValueException", "db/dc7/a29277.html#a6ee22161167faf11555c6e6b15422cd8", null ],
-    [ "~ByteBufferInvalidValueException", "db/dc7/a29277.html#a30cc1225522916e05abf95e14805d7a3", null ]
+    [ "ratio", "db/dc7/a29277.html#a614fdab0bf0be8c91775b49d020cdc7c", null ]
 ];

@@ -1,12 +1,10 @@
 var a29521 =
 [
-    [ "SetUp", "dd/d6d/a29521.html#a58cd90b7a71da405118c094ff47fc6ca", null ],
-    [ "TearDown", "dd/d6d/a29521.html#a07e717efe62018e9f8f646a81afbb567", null ],
-    [ "PERM_A", "dd/d6d/a29521.html#a38613fb2c500e82fe60a520cfa67e754", null ],
-    [ "PERM_B", "dd/d6d/a29521.html#a4e9d8cbc4d41fa8dfbbf600bb8188b4c", null ],
-    [ "PERM_C", "dd/d6d/a29521.html#a819e1345b06cac6338459683c702d355", null ],
-    [ "PERM_MOD_1", "dd/d6d/a29521.html#a4069369cc39fcca52fa6430a4778d86f", null ],
-    [ "ROLE_PLAYER", "dd/d6d/a29521.html#a72830036ef06ce28131379219963c7cb", null ],
-    [ "SEC_MODERATOR", "dd/d6d/a29521.html#abe3cf16e5aeaf4ca6ef0e8c989ef6917", null ],
-    [ "SEC_PLAYER", "dd/d6d/a29521.html#a411050ede39af85c2846fcc154f140e3", null ]
+    [ "area_id", "dd/d6d/a29521.html#acbd77950bf9548d266e568640cf38458", null ],
+    [ "map_id", "dd/d6d/a29521.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
+    [ "virtual_map_id", "dd/d6d/a29521.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
+    [ "x1", "dd/d6d/a29521.html#a78967fef40841f705c2564a177cb36f3", null ],
+    [ "x2", "dd/d6d/a29521.html#a037dca812715df0b4f2551f8684b537c", null ],
+    [ "y1", "dd/d6d/a29521.html#a7f90073656e1cd00a88add9f8d881d11", null ],
+    [ "y2", "dd/d6d/a29521.html#ad8e0164952e5565488d5443f269ec79e", null ]
 ];

@@ -1,12 +1,5 @@
 var a20233 =
 [
-    [ "boss_freya_elder_stonebark", "d1/df6/a20233.html#ad379afe772ff29d689bc763786d28793", null ],
-    [ "DamageTaken", "d1/df6/a20233.html#a1a6b9897ffff95b29de351d02411f216", null ],
-    [ "JustDied", "d1/df6/a20233.html#a32df2ec9d4e24c6a8f7fddefc4b5e61f", null ],
-    [ "JustEngagedWith", "d1/df6/a20233.html#a363a639d65fb746cca3410427f8a1e10", null ],
-    [ "KilledUnit", "d1/df6/a20233.html#ae10b5a8a477107432cbcc93c4da9c3ec", null ],
-    [ "Reset", "d1/df6/a20233.html#ac1edb11c975123a59bc4099acdefcd0f", null ],
-    [ "UpdateAI", "d1/df6/a20233.html#a913cd147d5a88189e183d817357946e3", null ],
-    [ "_chargesCount", "d1/df6/a20233.html#adc75d1735bc32fad8cad2abf4d8712fa", null ],
-    [ "events", "d1/df6/a20233.html#a5d88a59b9c98981c3f7f049701fc76e3", null ]
+    [ "achievement_auriaya_nine_lives", "d1/df6/a20233.html#a750304bc946a7ecefec29dc18c429d3b", null ],
+    [ "OnCheck", "d1/df6/a20233.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
 ];

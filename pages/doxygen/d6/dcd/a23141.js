@@ -1,7 +1,8 @@
 var a23141 =
 [
-    [ "PeriodicTick", "d6/dcd/a23141.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
-    [ "PrepareAuraScript", "d6/dcd/a23141.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
-    [ "Register", "d6/dcd/a23141.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
-    [ "Validate", "d6/dcd/a23141.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
+    [ "CalcPeriodic", "d6/dcd/a23141.html#aad87c25b9b3255a4871bec39d9787299", null ],
+    [ "PrepareAuraScript", "d6/dcd/a23141.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
+    [ "Register", "d6/dcd/a23141.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
+    [ "Update", "d6/dcd/a23141.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
+    [ "Validate", "d6/dcd/a23141.html#ae4f7bfb1cd95666acada217173876352", null ]
 ];

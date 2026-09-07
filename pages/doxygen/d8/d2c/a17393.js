@@ -1,7 +1,8 @@
 var a17393 =
 [
-    [ "HandlePeriodicTick", "d8/d2c/a17393.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
-    [ "PrepareAuraScript", "d8/d2c/a17393.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
-    [ "Register", "d8/d2c/a17393.html#a4653ccb0d93d056adf3b14056865787c", null ],
-    [ "Validate", "d8/d2c/a17393.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
+    [ "npc_hor_raging_ghoul", "d8/d2c/a17393.html#a733d4ad92566a13ace3427aae6696bac", null ],
+    [ "JustDied", "d8/d2c/a17393.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
+    [ "Reset", "d8/d2c/a17393.html#aad6424be7dd53b59016963cefffe40e5", null ],
+    [ "UpdateAI", "d8/d2c/a17393.html#af4024393b318ca702c6652e042036b26", null ],
+    [ "leaped", "d8/d2c/a17393.html#a69dea538a87ae47de221768b6de42315", null ]
 ];

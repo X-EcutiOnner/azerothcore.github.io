@@ -1,12 +1,22 @@
 var a20653 =
 [
-    [ "boss_thorim_start_npcs", "dc/d3e/a20653.html#a3ed7da48fc86ea00124181bb943a778d", null ],
-    [ "DamageTaken", "dc/d3e/a20653.html#a4821ee0619dac4cdcd9434f57d83f0c9", null ],
-    [ "JustDied", "dc/d3e/a20653.html#af5a00c3bc633464e9fd5d02991845294", null ],
-    [ "JustEngagedWith", "dc/d3e/a20653.html#a636dd7264dd01aa5fc3c69af17425103", null ],
-    [ "Reset", "dc/d3e/a20653.html#a37092466e579fe54a1dffe2ae0a2f689", null ],
-    [ "UpdateAI", "dc/d3e/a20653.html#a7cca60ceab19727e68fcd4a3629978c4", null ],
-    [ "_isCaster", "dc/d3e/a20653.html#aa3c48c6d8d548cb39a6c7eea8f807dde", null ],
-    [ "_playerAttack", "dc/d3e/a20653.html#ab1bf0c011692377fc591610c5131d5e2", null ],
-    [ "events", "dc/d3e/a20653.html#affdeecbfa6bb62659c4a2f5ef1d1fafa", null ]
+    [ "npc_ulduar_aerial_command_unit", "dc/d3e/a20653.html#a7db419befea7054118ebd2b1d7835a38", null ],
+    [ "AttackStart", "dc/d3e/a20653.html#a215a0b1f8fdf50f3968289f78aa964c5", null ],
+    [ "DamageTaken", "dc/d3e/a20653.html#a63f7b08da3b96b12fb93e2366c4617b7", null ],
+    [ "DoAction", "dc/d3e/a20653.html#ac23cf431ec7b3f933631a2683329d0b5", null ],
+    [ "EnterEvadeMode", "dc/d3e/a20653.html#a5c3643f96efcfbc0272d906b083ef7a3", null ],
+    [ "JustSummoned", "dc/d3e/a20653.html#abfa255cbdd7b16a3586117fa16bb3f13", null ],
+    [ "KilledUnit", "dc/d3e/a20653.html#aeda020ce8ad0806463e2a06b9f054faf", null ],
+    [ "MoveInLineOfSight", "dc/d3e/a20653.html#a39e1f0e199f43e3c2018e49ef77cec4c", null ],
+    [ "Reset", "dc/d3e/a20653.html#a51a2ad26cba213816a207f7f69591b4a", null ],
+    [ "SetData", "dc/d3e/a20653.html#ab6fec2895372afbfed7cbba2e3a463d6", null ],
+    [ "SpellHit", "dc/d3e/a20653.html#a7dc2920a7ff1a7d8ad346626dafeb18b", null ],
+    [ "SummonedCreatureDespawn", "dc/d3e/a20653.html#a429da72273b2126452eef1e9b724b40b", null ],
+    [ "UpdateAI", "dc/d3e/a20653.html#a4ae899da49e9f03f3ea23559ccc2e561", null ],
+    [ "_events", "dc/d3e/a20653.html#a4832f888cc77613d99ff165e5bf47022", null ],
+    [ "_isDefeated", "dc/d3e/a20653.html#a8272d619675b54d454b825efdf1357e6", null ],
+    [ "_isEvading", "dc/d3e/a20653.html#a6976c445331a25cd2735e963a102157c", null ],
+    [ "_phase", "dc/d3e/a20653.html#a7947005a05430e9734db3cf14eac0d17", null ],
+    [ "_summons", "dc/d3e/a20653.html#ac961aedcde178320276eeaf0fa8a8675", null ],
+    [ "instance", "dc/d3e/a20653.html#a36f7e3b4228aca4adf092c14827fa072", null ]
 ];

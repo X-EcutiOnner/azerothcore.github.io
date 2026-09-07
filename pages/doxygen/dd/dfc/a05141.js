@@ -1,35 +1,21 @@
 var a05141 =
 [
-    [ "Bank", "d5/d9c/a05152.html", "d5/d9c/a05152" ],
-    [ "Calendar", "d0/d88/a05153.html", "d0/d88/a05153" ],
-    [ "Character", "d9/dcb/a05154.html", "d9/dcb/a05154" ],
-    [ "Chat", "db/d92/a05155.html", "db/d92/a05155" ],
-    [ "Combat", "d1/df0/a05157.html", "d1/df0/a05157" ],
-    [ "CombatLog", "d7/d13/a05156.html", "d7/d13/a05156" ],
-    [ "Guild", "d5/d6d/a05142.html", "d5/d6d/a05142" ],
-    [ "Instance", "da/dee/a05158.html", "da/dee/a05158" ],
-    [ "Item", "d1/d90/a05159.html", "d1/d90/a05159" ],
-    [ "LFG", "df/df0/a05160.html", "df/df0/a05160" ],
-    [ "Misc", "d9/d42/a05161.html", "d9/d42/a05161" ],
-    [ "NPC", "d1/dab/a05162.html", "d1/dab/a05162" ],
-    [ "Pet", "d9/dab/a05164.html", "d9/dab/a05164" ],
-    [ "Query", "d3/dbb/a05165.html", "d3/dbb/a05165" ],
-    [ "Quest", "d4/d69/a05166.html", "d4/d69/a05166" ],
-    [ "Strings", "d7/d05/a05163.html", "d7/d05/a05163" ],
-    [ "Totem", "df/daa/a05167.html", "df/daa/a05167" ],
-    [ "WorldState", "df/d18/a05168.html", "df/d18/a05168" ],
-    [ "Array", "d9/db3/a11518.html", "d9/db3/a11518" ],
-    [ "ClientPacket", "d4/df1/a10930.html", "d4/df1/a10930" ],
-    [ "CompactArray", "d6/d79/a11522.html", "d6/d79/a11522" ],
-    [ "IllegalHyperlinkException", "d3/d9c/a11486.html", "d3/d9c/a11486" ],
-    [ "InvalidHyperlinkException", "d2/d54/a11482.html", "d2/d54/a11482" ],
-    [ "InvalidStringValueException", "d4/d57/a11474.html", "d4/d57/a11474" ],
-    [ "InvalidUtf8ValueException", "d6/d8c/a11478.html", "d6/d8c/a11478" ],
-    [ "Packet", "d1/db8/a10922.html", "d1/db8/a10922" ],
-    [ "PacketArrayMaxCapacityException", "d5/dcb/a11514.html", "d5/dcb/a11514" ],
-    [ "ServerPacket", "d8/d6e/a10926.html", "d8/d6e/a10926" ],
-    [ "String", "d4/d97/a11510.html", "d4/d97/a11510" ],
-    [ "CheckCompactArrayMaskOverflow", "dd/dfc/a05141.html#afb4909c8c4c13b14c8eceda2e9b4246d", null ],
-    [ "operator<<", "dd/dfc/a05141.html#a82e35db0d6b671a4f4a581aac05828dc", null ],
-    [ "operator>>", "dd/dfc/a05141.html#ab21e8e534a45a2a33d69cd11562a45c6", null ]
+    [ "Spell", "d2/dad/a08553.html", "d2/dad/a08553" ],
+    [ "Trainer", "d7/d7a/a08557.html", "d7/d7a/a08557" ],
+    [ "FailReason", "dd/dfc/a05141.html#ae4935022d4e3c686a8b51cd68a4f2b66", [
+      [ "Unavailable", "dd/dfc/a05141.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f", null ],
+      [ "NotEnoughMoney", "dd/dfc/a05141.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094", null ],
+      [ "NotEnoughSkill", "dd/dfc/a05141.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264", null ]
+    ] ],
+    [ "SpellState", "dd/dfc/a05141.html#a34dc7b354e539f94e4c8a4cbd0711758", [
+      [ "Available", "dd/dfc/a05141.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b", null ],
+      [ "Unavailable", "dd/dfc/a05141.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f", null ],
+      [ "Known", "dd/dfc/a05141.html#a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd", null ]
+    ] ],
+    [ "Type", "dd/dfc/a05141.html#a636cc62a0635fc1566fb574ebe9941a9", [
+      [ "Class", "dd/dfc/a05141.html#a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af", null ],
+      [ "Mount", "dd/dfc/a05141.html#a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077", null ],
+      [ "Tradeskill", "dd/dfc/a05141.html#a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd", null ],
+      [ "Pet", "dd/dfc/a05141.html#a636cc62a0635fc1566fb574ebe9941a9a7c986af4cf8f6e55a1f846dc498ce91d", null ]
+    ] ]
 ];

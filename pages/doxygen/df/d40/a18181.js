@@ -1,7 +1,10 @@
 var a18181 =
 [
-    [ "HandleScriptEffect", "df/d40/a18181.html#abeb703f8f050677bafb8f5ce4173751a", null ],
-    [ "PrepareSpellScript", "df/d40/a18181.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
-    [ "Register", "df/d40/a18181.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
-    [ "SelectTarget", "df/d40/a18181.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
+    [ "npc_cult_fanaticAI", "df/d40/a18181.html#a766e536288b84110f88a8bd282e97932", null ],
+    [ "JustEngagedWith", "df/d40/a18181.html#a709b75f4b1519bc7c6988985a22d076f", null ],
+    [ "Reset", "df/d40/a18181.html#a772830df1d16d0463c8c00f14c337db0", null ],
+    [ "SpellHit", "df/d40/a18181.html#a17c02a83b522c9717de3d89517104e42", null ],
+    [ "UpdateAI", "df/d40/a18181.html#ac79afdab3721d78d2b7e5da360083cea", null ],
+    [ "_instance", "df/d40/a18181.html#a7448fdf85cccfcb12509b0274205bff4", null ],
+    [ "events", "df/d40/a18181.html#a9576978141062fa1babbbc5ed42483c4", null ]
 ];

@@ -1,6 +1,10 @@
 var a13973 =
 [
-    [ "instance_uldaman_InstanceMapScript", "d7/dce/a13977.html", "d7/dce/a13977" ],
-    [ "instance_uldaman", "d4/d69/a13973.html#a854807db729d15aa4a09aad051fe3bda", null ],
-    [ "GetInstanceScript", "d4/d69/a13973.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
+    [ "npc_professor_phizzlethorpeAI", "d4/d69/a13973.html#a92af4732575008c1a4f061cef0f23902", null ],
+    [ "JustEngagedWith", "d4/d69/a13973.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
+    [ "JustSummoned", "d4/d69/a13973.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
+    [ "sQuestAccept", "d4/d69/a13973.html#ad4a4bd9af581abe832933da69b18d76f", null ],
+    [ "UpdateAI", "d4/d69/a13973.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
+    [ "WaypointReached", "d4/d69/a13973.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ],
+    [ "WaypointReached", "d4/d69/a13973.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

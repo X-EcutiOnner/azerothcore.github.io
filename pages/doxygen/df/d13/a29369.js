@@ -1,12 +1,4 @@
 var a29369 =
 [
-    [ "HealInfoStubBuilder", "df/d13/a29369.html#a57945de96ad065451cadb47edba287c8", null ],
-    [ "Build", "df/d13/a29369.html#a291565d223df00ce9d09c0315e803448", null ],
-    [ "WithAbsorb", "df/d13/a29369.html#aa09160afe48114a7a3566be328f64658", null ],
-    [ "WithEffectiveHeal", "df/d13/a29369.html#a34a359322b018cffc5f54ca999c11b11", null ],
-    [ "WithHeal", "df/d13/a29369.html#a812e06b07eeb18c1d379409b77a80b89", null ],
-    [ "WithHitMask", "df/d13/a29369.html#ab788ddcc209140ed3c10b02785471dcb", null ],
-    [ "WithOverheal", "df/d13/a29369.html#a89c12c30725eb2bdc3889005a38d54eb", null ],
-    [ "WithSpellInfo", "df/d13/a29369.html#a4dc784241fbe998437cceb953fb83e1f", null ],
-    [ "_stub", "df/d13/a29369.html#ad0da544c651e387d8c6e9b272aa3db7b", null ]
+    [ "id", "df/d13/a29369.html#a61c817f16c280ee29e1c91bdb0c2fda8", null ]
 ];

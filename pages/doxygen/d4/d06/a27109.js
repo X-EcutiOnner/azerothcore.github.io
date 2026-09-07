@@ -1,9 +1,8 @@
 var a27109 =
 [
-    [ "CheckCast", "d4/d06/a27109.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
-    [ "FilterTargets", "d4/d06/a27109.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
-    [ "HandleDummy", "d4/d06/a27109.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
-    [ "PrepareSpellScript", "d4/d06/a27109.html#a9c992e732b525e29f684947398d20efb", null ],
-    [ "Register", "d4/d06/a27109.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
-    [ "Validate", "d4/d06/a27109.html#abca1e5aa46e7753588c8120090775195", null ]
+    [ "HandleEffectRemove", "d4/d06/a27109.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
+    [ "if", "d4/d06/a27109.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
+    [ "PrepareAuraScript", "d4/d06/a27109.html#a531f51626ae4527282ad1e628911a9ea", null ],
+    [ "Register", "d4/d06/a27109.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
+    [ "AuraEffectHandleModes", "d4/d06/a27109.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
 ];

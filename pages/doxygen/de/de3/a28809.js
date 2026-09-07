@@ -1,17 +1,13 @@
 var a28809 =
 [
-    [ "Entry", "de/de3/a28809.html#a4e8689fabe6b3ef5c495bf84fa1945b7", null ],
-    [ "Difficulty", "de/de3/a28809.html#aa85e97ced86b0d27c753ca924eba074b", null ],
-    [ "ExpansionLevel", "de/de3/a28809.html#a5bbacc248aa127b889d60b3a25b12b83", null ],
-    [ "Flags", "de/de3/a28809.html#a9481c296a064ec400b0f050097903557", null ],
-    [ "GroupID", "de/de3/a28809.html#a7a6c2971a61b171d00c885ce452601ce", null ],
-    [ "ID", "de/de3/a28809.html#ae0fdf0d9afd2f99e9b7e6094960e86e0", null ],
-    [ "MapID", "de/de3/a28809.html#a6c947b111d7d356ba02eb6fffc77f5cb", null ],
-    [ "MaxLevel", "de/de3/a28809.html#aa4fbfd45d4319c9e8319508821bf4a65", null ],
-    [ "MinLevel", "de/de3/a28809.html#a17ae5fe60486c54a3becb2b14d5953c9", null ],
-    [ "Name", "de/de3/a28809.html#a7cb21e4e996be24d531b03fea66ecd27", null ],
-    [ "TargetLevel", "de/de3/a28809.html#a2e6456d16cce98666b0ac63cebf0eb82", null ],
-    [ "TargetLevelMax", "de/de3/a28809.html#ae4a27f7bc0563f606f40d955a40fab1e", null ],
-    [ "TargetLevelMin", "de/de3/a28809.html#a7558f3dc7d695fb17bc3b64e0c381de7", null ],
-    [ "TypeID", "de/de3/a28809.html#a84a498b44063cc95ba1a3b565c44a81b", null ]
+    [ "DBCDatabaseLoader", "de/de3/a28809.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
+    [ "DBCDatabaseLoader", "de/de3/a28809.html#a7d93e6d37796f341edcf25062743c5b5", null ],
+    [ "CloneStringToPool", "de/de3/a28809.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
+    [ "Load", "de/de3/a28809.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
+    [ "operator=", "de/de3/a28809.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
+    [ "_dbcFormat", "de/de3/a28809.html#aa749118514d0b784ac6df295bd820d8e", null ],
+    [ "_recordSize", "de/de3/a28809.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
+    [ "_sqlIndexPos", "de/de3/a28809.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
+    [ "_sqlTableName", "de/de3/a28809.html#ab6590071edf5311ccf484d48e4fd125e", null ],
+    [ "_stringPool", "de/de3/a28809.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
 ];

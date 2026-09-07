@@ -1,5 +1,5 @@
 var a13301 =
 [
-    [ "textid", "d1/dec/a13301.html#a7dac5c31d7df501f28eee3e1dec0523a", null ],
-    [ "timer", "d1/dec/a13301.html#ab7851f383e7221c6ff2700ee345d9504", null ]
+    [ "PrepareSpellScript", "d1/dec/a13301.html#a50d6ebe961a0841e10537a434a741072", null ],
+    [ "Register", "d1/dec/a13301.html#abc2f73133448278e0bf1bc589917dfd1", null ]
 ];

@@ -1,8 +1,11 @@
 var a06257 =
 [
-    [ "UpdateResult", "d4/d62/a06257.html#af32cdf09d32607955c98353fbfa7d392", null ],
-    [ "UpdateResult", "d4/d62/a06257.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
-    [ "archived", "d4/d62/a06257.html#adee274af5f5d6981e28b3587008d690c", null ],
-    [ "recent", "d4/d62/a06257.html#aea54f4388b659def734957a47e9cca8c", null ],
-    [ "updated", "d4/d62/a06257.html#a12b3fffe01639493fc405bd5a797f463", null ]
+    [ "SQLOperation", "d4/d62/a06257.html#a0f69657715b7d24458227b22a3b40b1a", null ],
+    [ "~SQLOperation", "d4/d62/a06257.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
+    [ "SQLOperation", "d4/d62/a06257.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
+    [ "call", "d4/d62/a06257.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
+    [ "Execute", "d4/d62/a06257.html#aff1090554bc4a6fe7a33270e63416e19", null ],
+    [ "operator=", "d4/d62/a06257.html#ac31349ed45ea051540ac345bd4b814d5", null ],
+    [ "SetConnection", "d4/d62/a06257.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
+    [ "m_conn", "d4/d62/a06257.html#adf322db48064fcf4528f713f857f1b40", null ]
 ];

@@ -1,6 +1,9 @@
 var a13133 =
 [
-    [ "HandleApply", "d0/d5f/a13133.html#ac9f6f1927c9f66682892c32d4a431cc4", null ],
-    [ "PrepareAuraScript", "d0/d5f/a13133.html#ae908ad87781553cc3bed05ea510a4447", null ],
-    [ "Register", "d0/d5f/a13133.html#a391dff720ed9d2d48aa69e48e69ba8df", null ]
+    [ "HandleEffectApply", "d0/d5f/a13133.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "d0/d5f/a13133.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "d0/d5f/a13133.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "d0/d5f/a13133.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "d0/d5f/a13133.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "d0/d5f/a13133.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

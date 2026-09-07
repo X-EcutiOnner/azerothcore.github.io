@@ -1,10 +1,10 @@
 var a08501 =
 [
-    [ "Puppet", "dd/dc7/a08501.html#ab0082936291e6b7f5370656c7c9ed948", null ],
-    [ "GetOwner", "dd/dc7/a08501.html#a38760bce8e8ebf28ae0143ad2931afd5", null ],
-    [ "InitStats", "dd/dc7/a08501.html#ac5dd23d7cf6d4b4a2ba073ae1128181b", null ],
-    [ "InitSummon", "dd/dc7/a08501.html#abfc97f1d25cb1ac27b1bed6f61867fa3", null ],
-    [ "RemoveFromWorld", "dd/dc7/a08501.html#a61dcfc821c2221d1747fcb2180e03bfd", null ],
-    [ "Update", "dd/dc7/a08501.html#a5281497d7689e1dd10f89b5a9f83006f", null ],
-    [ "m_owner", "dd/dc7/a08501.html#adae18eabdba52ef8a9f7c5c8768e060c", null ]
+    [ "BoxMessage", "dd/dc7/a08501.html#a450f6063a89db2d152370bc997c844a3", null ],
+    [ "BoxMoney", "dd/dc7/a08501.html#a52a12645b55f5757cc61e9a014a71f32", null ],
+    [ "IsCoded", "dd/dc7/a08501.html#accca334730f578bd28c0e9a7fe7ec0ab", null ],
+    [ "MenuItemIcon", "dd/dc7/a08501.html#a987724c4673be20f5386f44245267bc9", null ],
+    [ "Message", "dd/dc7/a08501.html#af130b33294cd49261b3c093cf6f9542c", null ],
+    [ "OptionType", "dd/dc7/a08501.html#a3df0c5fedb028b4fcce8ad5884cc0e6f", null ],
+    [ "Sender", "dd/dc7/a08501.html#aacc07cb5c755d698fe4cb2e228185e34", null ]
 ];

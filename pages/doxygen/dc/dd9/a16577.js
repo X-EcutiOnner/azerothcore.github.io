@@ -1,10 +1,15 @@
 var a16577 =
 [
-    [ "spell_halion_damage_aoe_summon", "dc/dd9/a16577.html#a6152e7a0515076af2c7c2155506257b0", null ],
-    [ "HandleSummon", "dc/dd9/a16577.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
-    [ "PrepareSpellScript", "dc/dd9/a16577.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
-    [ "Register", "dc/dd9/a16577.html#aa1f9239a2910d53c85539abba6333893", null ],
-    [ "Validate", "dc/dd9/a16577.html#acb359257b29354b5962d9865e06137e7", null ],
-    [ "_auraSpell", "dc/dd9/a16577.html#a497a74eca703470964157639a6f372e2", null ],
-    [ "_explosionSpell", "dc/dd9/a16577.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
+    [ "npc_onyx_flamecallerAI", "dc/dd9/a16577.html#aa0633855e57f6681cfc68a8dfee9a733", null ],
+    [ "AddWaypoints", "dc/dd9/a16577.html#a308b99ee4d07ed1de0cabd94dafd5dd8", null ],
+    [ "EnterEvadeMode", "dc/dd9/a16577.html#ac29163e2e69cffbf21249eb3828b5b72", null ],
+    [ "IsSummonedBy", "dc/dd9/a16577.html#afc6c4faffd83b2fa4ddbb4ae78b622d9", null ],
+    [ "JustEngagedWith", "dc/dd9/a16577.html#a3cba2cd9a920816bee993ae2986639a0", null ],
+    [ "Reset", "dc/dd9/a16577.html#a756a44feb79eb56f443ee16995a2566d", null ],
+    [ "UpdateEscortAI", "dc/dd9/a16577.html#aab57193b332fdde2dd237a9cb15a06c1", null ],
+    [ "WaypointReached", "dc/dd9/a16577.html#a8b510bce47929e85741f5debd857de8d", null ],
+    [ "WaypointReached", "dc/dd9/a16577.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_events", "dc/dd9/a16577.html#a9280b604135308078860c20667da9819", null ],
+    [ "_instance", "dc/dd9/a16577.html#a3fb01e6a8df3b8205f494f03faf8ace8", null ],
+    [ "_lavaGoutCount", "dc/dd9/a16577.html#a1f46c988316c1870f506a66f2390e79b", null ]
 ];

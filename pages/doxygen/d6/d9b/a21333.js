@@ -1,7 +1,7 @@
 var a21333 =
 [
-    [ "npc_azure_stalker", "d6/d9b/a21333.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
-    [ "Reset", "d6/d9b/a21333.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
-    [ "UpdateAI", "d6/d9b/a21333.html#a22352aad7c55a4d454b9732469395139", null ],
-    [ "_events", "d6/d9b/a21333.html#ad83249d787d2f763ac2d01723ff305ef", null ]
+    [ "FilterTargets", "d6/d9b/a21333.html#aacfc70299b20cfef5b2feac954779f1c", null ],
+    [ "HandleDamageCalc", "d6/d9b/a21333.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
+    [ "PrepareSpellScript", "d6/d9b/a21333.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
+    [ "Register", "d6/d9b/a21333.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
 ];

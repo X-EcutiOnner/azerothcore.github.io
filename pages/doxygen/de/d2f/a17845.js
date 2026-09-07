@@ -1,5 +1,6 @@
 var a17845 =
 [
-    [ "achievement_ive_gone_and_made_a_mess", "de/d2f/a17845.html#a0e71ea3afae02176f81231e51155c038", null ],
-    [ "OnCheck", "de/d2f/a17845.html#a638cead986783523c7c35ecb9d885b11", null ]
+    [ "HandleScript", "de/d2f/a17845.html#acd11d50f398857dc2a24bd2d63e52222", null ],
+    [ "PrepareSpellScript", "de/d2f/a17845.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
+    [ "Register", "de/d2f/a17845.html#ad7f12515dc21ab6b19148370fd491629", null ]
 ];

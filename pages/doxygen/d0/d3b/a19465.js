@@ -1,15 +1,12 @@
 var a19465 =
 [
-    [ "boss_loathebAI", "d0/d3b/a19465.html#a60256114947b0e9c01f5308108485935", null ],
-    [ "IsInRoom", "d0/d3b/a19465.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
-    [ "JustDied", "d0/d3b/a19465.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
-    [ "JustEngagedWith", "d0/d3b/a19465.html#a1abcf157e05eeb634f8e857a2de35538", null ],
-    [ "JustSummoned", "d0/d3b/a19465.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
-    [ "KilledUnit", "d0/d3b/a19465.html#a4dac78bba24069050dd9df729dd58b45", null ],
-    [ "Reset", "d0/d3b/a19465.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
-    [ "SummonedCreatureDies", "d0/d3b/a19465.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
-    [ "UpdateAI", "d0/d3b/a19465.html#ab009008f892493b822e5ea5491c58525", null ],
-    [ "doomCounter", "d0/d3b/a19465.html#aed5c631ede2eea27451a74ae21221325", null ],
-    [ "events", "d0/d3b/a19465.html#adc49463bbe227f892e31716516032c64", null ],
-    [ "summons", "d0/d3b/a19465.html#a37ef117714403002afb4faa4978f136b", null ]
+    [ "boss_faerlinaAI", "d0/d3b/a19465.html#a3a97178599b9053c23a079ed1a2ed163", null ],
+    [ "JustDied", "d0/d3b/a19465.html#a7ac2e510568a9dad710beaad42db0544", null ],
+    [ "JustEngagedWith", "d0/d3b/a19465.html#a830dfa4fed62b4588ea8866174d3653a", null ],
+    [ "KilledUnit", "d0/d3b/a19465.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
+    [ "MoveInLineOfSight", "d0/d3b/a19465.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
+    [ "Reset", "d0/d3b/a19465.html#acee81492b9b751df587a3a2cdd691ab3", null ],
+    [ "SpellHit", "d0/d3b/a19465.html#aa4fac163e31dcd9353238f993259d5ec", null ],
+    [ "SummonHelpers", "d0/d3b/a19465.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
+    [ "_introDone", "d0/d3b/a19465.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
 ];

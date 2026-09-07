@@ -1,4 +1,5 @@
 var a02420 =
 [
-    [ "MOVEMENT_PACKET_TIME_DELAY", "d5/d2b/a02420.html#a69e254ae3a119a96053add6b9732296c", null ]
+    [ "server_commandscript", "d5/d90/a12613.html", "d5/d90/a12613" ],
+    [ "AddSC_server_commandscript", "d5/d2b/a02420.html#aaa97392c09b5045a6040d75b224bdf22", null ]
 ];

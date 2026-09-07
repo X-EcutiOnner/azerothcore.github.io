@@ -1,10 +1,6 @@
 var a16573 =
 [
-    [ "spell_halion_marks_aura", "df/d81/a16573.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
-    [ "BeforeDispel", "df/d81/a16573.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
-    [ "OnRemove", "df/d81/a16573.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
-    [ "PrepareAuraScript", "df/d81/a16573.html#acd5285ea5c378b31526440d263c54770", null ],
-    [ "Register", "df/d81/a16573.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
-    [ "_removeSpellId", "df/d81/a16573.html#aeef9d928c6a8739337251e144558b169", null ],
-    [ "_summonSpellId", "df/d81/a16573.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
+    [ "npc_onyx_flamecallerAI", "dc/dd9/a16577.html", "dc/dd9/a16577" ],
+    [ "npc_onyx_flamecaller", "df/d81/a16573.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
+    [ "GetAI", "df/d81/a16573.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
 ];

@@ -1,10 +1,8 @@
 var a08801 =
 [
-    [ "ObjectGuidGeneratorBase", "dc/dc6/a08801.html#a8af6741cc884915ee86b489fc970fed1", null ],
-    [ "~ObjectGuidGeneratorBase", "dc/dc6/a08801.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
-    [ "Generate", "dc/dc6/a08801.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
-    [ "GetNextAfterMaxUsed", "dc/dc6/a08801.html#abf1f20b97af8071459bd850e7106a442", null ],
-    [ "HandleCounterOverflow", "dc/dc6/a08801.html#ada7a44ac47b112491c575c38465740fc", null ],
-    [ "Set", "dc/dc6/a08801.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
-    [ "_nextGuid", "dc/dc6/a08801.html#a4a14102e019aa10f41b050054cacca22", null ]
+    [ "Reset", "dc/dc6/a08801.html#a28a5bd110553457c86d7f77e78041713", null ],
+    [ "cosAngle", "dc/dc6/a08801.html#a37f49fc816f37dff8c1947f4de7f04d5", null ],
+    [ "sinAngle", "dc/dc6/a08801.html#af2a184b7c8e7f324607a0b7468bcb8f6", null ],
+    [ "xyspeed", "dc/dc6/a08801.html#a6fada60d677d89580c3a718d42a75d17", null ],
+    [ "zspeed", "dc/dc6/a08801.html#ad0a5a36aeabc9b8d8ea27cecae30ae31", null ]
 ];

@@ -1,11 +1,6 @@
 var a26533 =
 [
-    [ "CheckCast", "d4/d30/a26533.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
-    [ "HandleMaxHealthHeal", "d4/d30/a26533.html#a019833641487ac07cb2c8740d5686a41", null ],
-    [ "HandleScript", "d4/d30/a26533.html#a35b9d69b8147ef06527b8533ef376e72", null ],
-    [ "Load", "d4/d30/a26533.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
-    [ "PrepareSpellScript", "d4/d30/a26533.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
-    [ "Register", "d4/d30/a26533.html#afd716f555ac73287bd268c6124b15b1c", null ],
-    [ "Validate", "d4/d30/a26533.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
-    [ "_manaAmount", "d4/d30/a26533.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
+    [ "CheckProc", "d4/d30/a26533.html#aa8a8c89cf55ab6796a81671d0312a481", null ],
+    [ "PrepareAuraScript", "d4/d30/a26533.html#a9c88f86a4edafda286725008ecfeab6c", null ],
+    [ "Register", "d4/d30/a26533.html#ad75f33c72dff282e4a8976c92e0b4e76", null ]
 ];

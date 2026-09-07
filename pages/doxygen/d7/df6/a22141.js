@@ -1,8 +1,6 @@
 var a22141 =
 [
-    [ "spell_loosen_grip", "d7/df6/a22141.html#ae35f230e0c66e88f59558748c80470dd", null ],
-    [ "HandleScript", "d7/df6/a22141.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
-    [ "PrepareSpellScript", "d7/df6/a22141.html#a219dc7d735f82d8e3b85390f0a881743", null ],
-    [ "Register", "d7/df6/a22141.html#a8b446d8b5ab00b984272c74b06663326", null ],
-    [ "_stacksToLose", "d7/df6/a22141.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
+    [ "npc_llod_genericAI", "db/db0/a22145.html", "db/db0/a22145" ],
+    [ "npc_llod_generic", "d7/df6/a22141.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
+    [ "GetAI", "d7/df6/a22141.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
 ];

@@ -1,8 +1,8 @@
 var a11041 =
 [
-    [ "GuildEvent", "db/d3b/a11041.html#a78be16122c01d4c68d67e050ede92006", null ],
-    [ "Write", "db/d3b/a11041.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
-    [ "Guid", "db/d3b/a11041.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
-    [ "Params", "db/d3b/a11041.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
-    [ "Type", "db/d3b/a11041.html#a961ae90991fa23bfc94a054dba357392", null ]
+    [ "SAttackStop", "db/d3b/a11041.html#ad3ca327e00c9df8d947cdda3eb2f5eb3", null ],
+    [ "Write", "db/d3b/a11041.html#ae2143b20488064400c306004ee678a89", null ],
+    [ "Attacker", "db/d3b/a11041.html#a18e66148dc50a7ea7f98a57a122285ee", null ],
+    [ "NowDead", "db/d3b/a11041.html#a25cd247bb50f752c3230ad4b5f777b2d", null ],
+    [ "Victim", "db/d3b/a11041.html#a9ca02aaaab5d223a64f8ba0cec320e8e", null ]
 ];

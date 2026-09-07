@@ -1,7 +1,6 @@
 var a23153 =
 [
-    [ "HandleScriptEffect", "d1/d21/a23153.html#ad5e905710a20436f120c979c865571c9", null ],
-    [ "PrepareSpellScript", "d1/d21/a23153.html#ab44aa98f47162b50f30622d67ac75395", null ],
-    [ "Register", "d1/d21/a23153.html#ad4c2bf1a8556b6fb85c05d3c83494fed", null ],
-    [ "Validate", "d1/d21/a23153.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2", null ]
+    [ "PrepareAuraScript", "d1/d21/a23153.html#a0dca39c324a5431d4861c1f20a34355e", null ],
+    [ "Register", "d1/d21/a23153.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
+    [ "Update", "d1/d21/a23153.html#a6201eaa3b961e838a535b80679996ada", null ]
 ];

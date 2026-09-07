@@ -1,14 +1,9 @@
 var a10057 =
 [
-    [ "LootItemStorage", "d5/d56/a10057.html#aa6ece474f05744f2ce24a9fef42734af", null ],
-    [ "~LootItemStorage", "d5/d56/a10057.html#a36faeed6ef556fd13118c4ad34e38548", null ],
-    [ "AddNewStoredLoot", "d5/d56/a10057.html#a4c463773b50ae1b312865fbf72dfed18", null ],
-    [ "instance", "d5/d56/a10057.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b", null ],
-    [ "LoadStorageFromDB", "d5/d56/a10057.html#a377c75f9d06eb246072b29d19baf2b62", null ],
-    [ "LoadStoredLoot", "d5/d56/a10057.html#ad9804f564302d6ea4db4b84a6cbb093b", null ],
-    [ "RemoveEntryFromDB", "d5/d56/a10057.html#a8ab68725c0525d162d325a2131db4c49", null ],
-    [ "RemoveStoredLoot", "d5/d56/a10057.html#a414dee93f9852a64f01f9d9bf8dc8b40", null ],
-    [ "RemoveStoredLootItem", "d5/d56/a10057.html#a6fd3f2ac820784ba51413b3781df3bcc", null ],
-    [ "RemoveStoredLootMoney", "d5/d56/a10057.html#ab22d267a6701fedf824f801e4b703f70", null ],
-    [ "lootItemStore", "d5/d56/a10057.html#a58ae52b9812e5752ba00d00a58eb56b0", null ]
+    [ "completedEncounters", "d5/d56/a10057.html#acd444d68aab9efa6aace6f3964a40206", null ],
+    [ "data", "d5/d56/a10057.html#a50d57b4d7d0ba162ae1cc53ee4c4462c", null ],
+    [ "difficulty", "d5/d56/a10057.html#a31694740b0a3af858c12c51f0659fe3c", null ],
+    [ "instanceId", "d5/d56/a10057.html#aefe57dc77cf3043b6c187fdb676d9c51", null ],
+    [ "mapId", "d5/d56/a10057.html#a14cbda11b8b949fe647a6851d15d6465", null ],
+    [ "resetTime", "d5/d56/a10057.html#af7c9d7b1fee85de40aade9576e8c49ff", null ]
 ];

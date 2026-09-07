@@ -1,11 +1,8 @@
 var a23761 =
 [
-    [ "boss_pathaleon_the_calculator", "d1/d90/a23761.html#a679dc3ccc23c6def44e0f0669822e146", null ],
-    [ "CanAIAttack", "d1/d90/a23761.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
-    [ "DoAction", "d1/d90/a23761.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
-    [ "JustDied", "d1/d90/a23761.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
-    [ "JustEngagedWith", "d1/d90/a23761.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
-    [ "KilledUnit", "d1/d90/a23761.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
-    [ "Reset", "d1/d90/a23761.html#adc48067c3656bf768c3013ff266565c0", null ],
-    [ "_isEnraged", "d1/d90/a23761.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
+    [ "npc_warchief_portal", "d1/d90/a23761.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "d1/d90/a23761.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "d1/d90/a23761.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "d1/d90/a23761.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "d1/d90/a23761.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

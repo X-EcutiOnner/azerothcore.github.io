@@ -1,8 +1,7 @@
 var a26625 =
 [
-    [ "CheckCast", "df/db3/a26625.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
-    [ "PrepareSpellScript", "df/db3/a26625.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
-    [ "Register", "df/db3/a26625.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
-    [ "TriggerDebuffs", "df/db3/a26625.html#a1579b28071e2194625f722a29ded39b8", null ],
-    [ "Validate", "df/db3/a26625.html#a767853d4b05e055cb32991bfe8c6516a", null ]
+    [ "CheckProc", "df/db3/a26625.html#a4aadc249b5c568b5317c4eb41abeb6b4", null ],
+    [ "PrepareAuraScript", "df/db3/a26625.html#acc3d194b3f23ecfe42c40d011c957138", null ],
+    [ "Register", "df/db3/a26625.html#a0b104698a7c763bee1af656e127591bd", null ],
+    [ "Validate", "df/db3/a26625.html#a493e63aafcbfd4279cabe91aaa21cee2", null ]
 ];

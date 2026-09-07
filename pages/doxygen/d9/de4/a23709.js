@@ -1,6 +1,6 @@
 var a23709 =
 [
-    [ "HandleScriptEffect", "d9/de4/a23709.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
-    [ "PrepareSpellScript", "d9/de4/a23709.html#af475c0968aabaf56e8ca38950ad651f0", null ],
-    [ "Register", "d9/de4/a23709.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "d7/df9/a23713.html", "d7/df9/a23713" ],
+    [ "instance_magtheridons_lair", "d9/de4/a23709.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
+    [ "GetInstanceScript", "d9/de4/a23709.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
 ];

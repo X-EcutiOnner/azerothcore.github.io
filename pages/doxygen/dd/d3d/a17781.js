@@ -1,6 +1,6 @@
 var a17781 =
 [
-    [ "HandleScript", "dd/d3d/a17781.html#acd11d50f398857dc2a24bd2d63e52222", null ],
-    [ "PrepareSpellScript", "dd/d3d/a17781.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
-    [ "Register", "dd/d3d/a17781.html#ad7f12515dc21ab6b19148370fd491629", null ]
+    [ "OnAbsorb", "dd/d3d/a17781.html#aa6582457cd0502ca263433d04b40b64f", null ],
+    [ "PrepareAuraScript", "dd/d3d/a17781.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
+    [ "Register", "dd/d3d/a17781.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
 ];

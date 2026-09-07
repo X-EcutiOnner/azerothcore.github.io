@@ -1,6 +1,13 @@
 var a13353 =
 [
-    [ "boss_kagani_nightstrike", "dc/dcb/a13353.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
-    [ "JustEngagedWith", "dc/dcb/a13353.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
-    [ "MovementInform", "dc/dcb/a13353.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
+    [ "boss_crone", "dc/dcb/a13353.html#a710bdf6fac05be54cf10e40cd661c837", null ],
+    [ "EnterEvadeMode", "dc/dcb/a13353.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
+    [ "JustDied", "dc/dcb/a13353.html#a545de2a25b48590d11896c41b6e94df0", null ],
+    [ "JustEngagedWith", "dc/dcb/a13353.html#a9801cd39667d1a08770820bd17beac00", null ],
+    [ "JustReachedHome", "dc/dcb/a13353.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
+    [ "KilledUnit", "dc/dcb/a13353.html#ae4d343636955589d740d1df4e21fba99", null ],
+    [ "Reset", "dc/dcb/a13353.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
+    [ "UpdateAI", "dc/dcb/a13353.html#a8bd505acd55ca5292d29c96916a461e5", null ],
+    [ "_scheduler", "dc/dcb/a13353.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
+    [ "instance", "dc/dcb/a13353.html#a3795fe3185005693ed9bba49177bb35a", null ]
 ];

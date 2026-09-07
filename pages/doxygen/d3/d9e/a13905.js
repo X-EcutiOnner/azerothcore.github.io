@@ -1,9 +1,7 @@
 var a13905 =
 [
-    [ "npc_dark_fiend", "d3/d9e/a13905.html#a8c4ebf7ba2f991df7053d40108330609", null ],
-    [ "DamageTaken", "d3/d9e/a13905.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
-    [ "Reset", "d3/d9e/a13905.html#a5622d14f84ad8e47da773852f1778d56", null ],
-    [ "UpdateAI", "d3/d9e/a13905.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
-    [ "_lastVictimGUID", "d3/d9e/a13905.html#abcccb35701f21d417e3c13709cc24281", null ],
-    [ "_spellCast", "d3/d9e/a13905.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
+    [ "PeriodicTick", "d3/d9e/a13905.html#acca46d585d06d461f735cddb6075b3b1", null ],
+    [ "PrepareAuraScript", "d3/d9e/a13905.html#abd7382ab22efd3d82c4f00745255d024", null ],
+    [ "Register", "d3/d9e/a13905.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
+    [ "Validate", "d3/d9e/a13905.html#acb31ba162452a30ff0c208829560f9fd", null ]
 ];

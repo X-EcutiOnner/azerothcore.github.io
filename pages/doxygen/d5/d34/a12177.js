@@ -1,7 +1,10 @@
 var a12177 =
 [
-    [ "Command", "d5/d34/a12177.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "d5/d34/a12177.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "d5/d34/a12177.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "d5/d34/a12177.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "CustomChatTextBuilder", "d5/d34/a12177.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "d5/d34/a12177.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "d5/d34/a12177.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "d5/d34/a12177.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "d5/d34/a12177.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "d5/d34/a12177.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "d5/d34/a12177.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

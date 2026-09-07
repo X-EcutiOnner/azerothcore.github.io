@@ -1,7 +1,7 @@
 var a22837 =
 [
-    [ "HandleOnHit", "d7/d91/a22837.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "d7/d91/a22837.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "d7/d91/a22837.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "d7/d91/a22837.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "npc_blade_of_azzinoth", "d7/d91/a22837.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d7/d91/a22837.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d7/d91/a22837.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d7/d91/a22837.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

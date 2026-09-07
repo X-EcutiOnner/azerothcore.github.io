@@ -1,6 +1,7 @@
 var a22205 =
 [
-    [ "npc_wg_siege_machineAI", "d0/d00/a22209.html", "d0/d00/a22209" ],
-    [ "npc_wg_siege_machine", "de/ddf/a22205.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
-    [ "GetAI", "de/ddf/a22205.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
+    [ "HandleScriptEffect", "de/ddf/a22205.html#ad20cf97a7dd442d5670a22095b487a01", null ],
+    [ "PrepareSpellScript", "de/ddf/a22205.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
+    [ "Register", "de/ddf/a22205.html#a996ea344ea2a3312cb8886565b80972d", null ],
+    [ "Validate", "de/ddf/a22205.html#a29bf5a9615e02281f426bf521a045567", null ]
 ];

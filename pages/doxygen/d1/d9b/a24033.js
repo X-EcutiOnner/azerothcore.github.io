@@ -1,20 +1,8 @@
 var a24033 =
 [
-    [ "npc_lord_illidan_stormrageAI", "d1/d9b/a24033.html#a3b48b42c72b51bbdb222f6cd03e50ec8", null ],
-    [ "AttackStart", "d1/d9b/a24033.html#a5f73b83a07f24403cf55de7ef485c003", null ],
-    [ "CheckEventFail", "d1/d9b/a24033.html#aef1607c2132ae78b45d4f209a4320a88", null ],
-    [ "JustEngagedWith", "d1/d9b/a24033.html#af7166b3c7401a74615cdb5c0964200f6", null ],
-    [ "LiveCounter", "d1/d9b/a24033.html#a625b2891d3f9807da7733f678ea29313", null ],
-    [ "MoveInLineOfSight", "d1/d9b/a24033.html#a5c2313ac5767339cd26196f52ff05c5f", null ],
-    [ "Reset", "d1/d9b/a24033.html#a035b85302d54adf9bd7af82cadfd0317", null ],
-    [ "SummonNextWave", "d1/d9b/a24033.html#a240ee54d49248a1700e767568fe93648", null ],
-    [ "UpdateAI", "d1/d9b/a24033.html#a9cf7d73c5f81980c08f785dc3af47dec", null ],
-    [ "Announced", "d1/d9b/a24033.html#a448ba6e2b21273b8e07b6d0a79e856e2", null ],
-    [ "AnnounceTimer", "d1/d9b/a24033.html#a7037e4b43f274f3e2ce45143c029b070", null ],
-    [ "EventStarted", "d1/d9b/a24033.html#a41b3b39d2ea0eeca4b60960f3a903ee8", null ],
-    [ "Failed", "d1/d9b/a24033.html#aba564e34f0358d6c2a3c6ae91e17bf10", null ],
-    [ "LiveCount", "d1/d9b/a24033.html#ab86239a6470a82749f96eb5515c46c59", null ],
-    [ "PlayerGUID", "d1/d9b/a24033.html#af30c5c09f0262479b8920269f7bf198a", null ],
-    [ "WaveCount", "d1/d9b/a24033.html#abdd03400f582e9477bb376e2b34e7a0e", null ],
-    [ "WaveTimer", "d1/d9b/a24033.html#ae727157e6b52817051fea075c2cb7cb1", null ]
+    [ "instance_mechanar_InstanceMapScript", "d1/d9b/a24033.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "d1/d9b/a24033.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "d1/d9b/a24033.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "d1/d9b/a24033.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "d1/d9b/a24033.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

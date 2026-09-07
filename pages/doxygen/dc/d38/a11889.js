@@ -1,7 +1,7 @@
 var a11889 =
 [
-    [ "attributeMask", "dc/d38/a11889.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
-    [ "customChance", "dc/d38/a11889.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
-    [ "PPMChance", "dc/d38/a11889.html#adb76c11f0073a2738374c98c01fda009", null ],
-    [ "procEx", "dc/d38/a11889.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
+    [ "effectMask", "dc/d38/a11889.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
+    [ "processed", "dc/d38/a11889.html#aedfa36678be863a558ecd0ecc07cc544", null ],
+    [ "targetGUID", "dc/d38/a11889.html#a619f98bf094d2667048204f733d64d0c", null ],
+    [ "timeDelay", "dc/d38/a11889.html#ab552326c0780fe62ff95b02249458492", null ]
 ];

@@ -1,7 +1,6 @@
 var a17501 =
 [
-    [ "HandleEffectPeriodic", "d2/dd6/a17501.html#a4802c810efd7dd8a9954845366398e7f", null ],
-    [ "PrepareAuraScript", "d2/dd6/a17501.html#a008166d25e7a278507e953325f40ccd5", null ],
-    [ "Register", "d2/dd6/a17501.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
-    [ "Validate", "d2/dd6/a17501.html#a3fc78060f881262c59151b6eb6a943f8", null ]
+    [ "npc_pos_tyrannus_eventsAI", "d3/dd1/a17505.html", "d3/dd1/a17505" ],
+    [ "npc_pos_tyrannus_events", "d2/dd6/a17501.html#a9e61db8b2b30e86fc5e554b3f4d51b7c", null ],
+    [ "GetAI", "d2/dd6/a17501.html#ae5863e99d77815de71c1774e908b3f65", null ]
 ];

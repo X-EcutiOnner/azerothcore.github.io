@@ -1,5 +1,6 @@
 var a24005 =
 [
-    [ "npc_karynaku", "db/dad/a24005.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
-    [ "OnQuestAccept", "db/dad/a24005.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
+    [ "HandleAfterRemove", "db/dad/a24005.html#ac9756a8f206c114ff6443331ca266184", null ],
+    [ "PrepareAuraScript", "db/dad/a24005.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
+    [ "Register", "db/dad/a24005.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
 ];

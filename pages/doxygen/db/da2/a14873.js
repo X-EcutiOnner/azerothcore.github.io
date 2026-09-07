@@ -1,13 +1,9 @@
 var a14873 =
 [
-    [ "boss_headless_horseman_head", "db/da2/a14873.html#a12343a1bb6e30681b0c82ba649bd5b8a", null ],
-    [ "DamageTaken", "db/da2/a14873.html#a73e75350937736ad7cfe725b785b3768", null ],
-    [ "GetOwner", "db/da2/a14873.html#ab72d1f1891401754ffe032ed0534882d", null ],
-    [ "Reset", "db/da2/a14873.html#a367e8b82d6d3bb08e7106c71295610f9", null ],
-    [ "SpellHit", "db/da2/a14873.html#adcd9ce9755f8dbc1391b4d2b3f5e1669", null ],
-    [ "SpellHitTarget", "db/da2/a14873.html#a0d73ba0831118d135137953f91e7c5d7", null ],
-    [ "UpdateAI", "db/da2/a14873.html#a300dec039465535914bf6879423a0962", null ],
-    [ "handled", "db/da2/a14873.html#a72c0d0c8c534fa8fdc1370203c30c3a3", null ],
-    [ "pct", "db/da2/a14873.html#a9752326bac7ecbcdfde5b12f55b20be2", null ],
-    [ "timer", "db/da2/a14873.html#ae7c669e65659459fd83f91b5e9ed1347", null ]
+    [ "entries", "db/da2/a14873.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
+    [ "entries", "db/da2/a14873.html#a953850b267eb6f599bb49d82080bdf64", null ],
+    [ "revelerId", "db/da2/a14873.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
+    [ "schedule", "db/da2/a14873.html#abf912f0df4468a233292020c71d70f78", null ],
+    [ "size", "db/da2/a14873.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
+    [ "spawns", "db/da2/a14873.html#a09a3d07fa1b5ce5026b6191d43e8682c", null ]
 ];

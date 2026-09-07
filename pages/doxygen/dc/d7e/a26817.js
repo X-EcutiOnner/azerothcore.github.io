@@ -1,8 +1,7 @@
 var a26817 =
 [
-    [ "HandleDummy", "dc/d7e/a26817.html#ae396c96647e36da357bdc70e11e3145f", null ],
-    [ "Load", "dc/d7e/a26817.html#a2b4811bf7e60361e13bc382e62173cee", null ],
-    [ "PrepareSpellScript", "dc/d7e/a26817.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
-    [ "Register", "dc/d7e/a26817.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
-    [ "count", "dc/d7e/a26817.html#a73358b2272ad12faef006b1ef633cac0", null ]
+    [ "HandleProc", "dc/d7e/a26817.html#a6d66a94a0ede604ea0f6dbf0db10cf4a", null ],
+    [ "PrepareAuraScript", "dc/d7e/a26817.html#acfecd9231847898b931aad7b270579ea", null ],
+    [ "Register", "dc/d7e/a26817.html#ace907f15156ac0ac8e88c74fdc77b96c", null ],
+    [ "Validate", "dc/d7e/a26817.html#a072b480f483c44b81f50680224ab75ef", null ]
 ];

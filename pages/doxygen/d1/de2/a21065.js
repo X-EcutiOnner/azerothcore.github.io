@@ -1,6 +1,9 @@
 var a21065 =
 [
-    [ "npc_ravenous_furbolgAI", "db/d4c/a21069.html", "db/d4c/a21069" ],
-    [ "npc_ravenous_furbolg", "d1/de2/a21065.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
-    [ "GetAI", "d1/de2/a21065.html#a284c366e6f5bd024d9627a83dd966669", null ]
+    [ "HandleOnEffectApply", "d1/de2/a21065.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
+    [ "OnPeriodic", "d1/de2/a21065.html#a49ad44eba19416743bd26252d1b40d71", null ],
+    [ "PrepareAuraScript", "d1/de2/a21065.html#ae0c475babb67cebb245d6d85b50cd694", null ],
+    [ "Register", "d1/de2/a21065.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
+    [ "Validate", "d1/de2/a21065.html#ab383a0a207aa78b7efcd400765ad0838", null ],
+    [ "_targetGUID", "d1/de2/a21065.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
 ];

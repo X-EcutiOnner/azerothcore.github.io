@@ -1,6 +1,7 @@
 var a24677 =
 [
-    [ "HandleAfterCast", "df/dd6/a24677.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
-    [ "PrepareSpellScript", "df/dd6/a24677.html#a602d7c920aa73a9c3c69222854093036", null ],
-    [ "Register", "df/dd6/a24677.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
+    [ "CalcDamage", "df/dd6/a24677.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
+    [ "PrepareSpellScript", "df/dd6/a24677.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
+    [ "Register", "df/dd6/a24677.html#a857a010e6426e931ca872f66803b99b9", null ],
+    [ "Validate", "df/dd6/a24677.html#ab64625ce305efb9dc92780c945b4fd62", null ]
 ];

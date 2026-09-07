@@ -1,8 +1,6 @@
 var a00248 =
 [
-    [ "Acore::find_type_if< Check >", "d4/df8/a05987.html", "d4/df8/a05987" ],
-    [ "Acore::find_type_if< Check, T1, Ts... >", "de/d2b/a05991.html", null ],
-    [ "Acore::dependant_false< T >", "d2/d10/a05995.html", "d2/d10/a05995" ],
-    [ "find_type_if_t", "dd/dd7/a00248.html#a7d2aaeefa69dc846a6b27937f8213fab", null ],
-    [ "dependant_false_v", "dd/dd7/a00248.html#a63263799191a40005e2214b3faf336d0", null ]
+    [ "CharacterDatabase", "dd/dd7/a00248.html#a7e7534bc66d79434bd280b77cb124eec", null ],
+    [ "LoginDatabase", "dd/dd7/a00248.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
+    [ "WorldDatabase", "dd/dd7/a00248.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
 ];

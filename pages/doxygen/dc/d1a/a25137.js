@@ -1,7 +1,7 @@
 var a25137 =
 [
-    [ "PrepareSpellScript", "dc/d1a/a25137.html#aad8061898087fbf5eb6527cbaa70927d", null ],
-    [ "RecalculateDamage", "dc/d1a/a25137.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
-    [ "Register", "dc/d1a/a25137.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
-    [ "_damagePct", "dc/d1a/a25137.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
+    [ "HandleEffectRemove", "dc/d1a/a25137.html#a3d6b6ae0bde8ae51362c95df82604d68", null ],
+    [ "PrepareAuraScript", "dc/d1a/a25137.html#aa07b231cc76afb098ac8bc92eb050c80", null ],
+    [ "Register", "dc/d1a/a25137.html#aa381143f36a6443dfb1f0d66ce81c351", null ],
+    [ "AuraEffectHandleModes", "dc/d1a/a25137.html#a97370dd3f7c3e58a719090176c397386", null ]
 ];

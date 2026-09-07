@@ -1,6 +1,6 @@
 var a21249 =
 [
-    [ "instance_vault_of_archavon_InstanceMapScript", "d5/d9b/a21253.html", "d5/d9b/a21253" ],
-    [ "instance_vault_of_archavon", "d2/dc4/a21249.html#a0be8d95ff0f3b751e6f833689e436310", null ],
-    [ "GetInstanceScript", "d2/dc4/a21249.html#abb955a8873a3a3021e164225dd1f857a", null ]
+    [ "instance_utgarde_keep_InstanceMapScript", "d5/d9b/a21253.html", "d5/d9b/a21253" ],
+    [ "instance_utgarde_keep", "d2/dc4/a21249.html#abe013e4f086f63722a6398b2b7928c80", null ],
+    [ "GetInstanceScript", "d2/dc4/a21249.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
 ];

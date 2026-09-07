@@ -1,12 +1,12 @@
 var a01988 =
 [
-    [ "WorldPackets::Instance::InstanceReset", "d7/df2/a11259.html", "d7/df2/a11259" ],
-    [ "WorldPackets::Instance::InstanceResetFailed", "df/d00/a11263.html", "df/d00/a11263" ],
-    [ "WorldPackets::Instance::SetDungeonDifficulty", "d5/d9a/a11267.html", "d5/d9a/a11267" ],
-    [ "WorldPackets::Instance::SetDungeonDifficultyClient", "d2/d2e/a11271.html", "d2/d2e/a11271" ],
-    [ "WorldPackets::Instance::ResetFailedNotify", "d2/d26/a11275.html", "d2/d26/a11275" ],
-    [ "WorldPackets::Instance::SetRaidDifficulty", "d1/da6/a11279.html", "d1/da6/a11279" ],
-    [ "WorldPackets::Instance::SetRaidDifficultyClient", "df/d7c/a11283.html", "df/d7c/a11283" ],
-    [ "WorldPackets::Instance::ResetInstances", "df/d60/a11287.html", "df/d60/a11287" ],
-    [ "WorldPackets::Instance::InstanceLockResponse", "da/dd0/a11291.html", "da/dd0/a11291" ]
+    [ "AggressorAI", "d0/de9/a06465.html", "d0/de9/a06465" ],
+    [ "CombatAI", "d6/d1b/a06469.html", "d6/d1b/a06469" ],
+    [ "CasterAI", "d9/d8c/a06473.html", "d9/d8c/a06473" ],
+    [ "ArcherAI", "df/dcb/a06477.html", "df/dcb/a06477" ],
+    [ "TurretAI", "dc/ddb/a06481.html", "dc/ddb/a06481" ],
+    [ "VehicleAI", "df/d98/a06485.html", "df/d98/a06485" ],
+    [ "VEHICLE_CONDITION_CHECK_TIME", "d5/da1/a01988.html#a2842973ff947088648cd327dc9e1d379", null ],
+    [ "VEHICLE_DISMISS_TIME", "d5/da1/a01988.html#a9b232fec810abbe5eaf5536e608b6e38", null ],
+    [ "SpellVct", "d5/da1/a01988.html#aef8ccdd14344d9c395d613c21bafd91e", null ]
 ];

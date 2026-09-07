@@ -1,6 +1,8 @@
 var a27641 =
 [
-    [ "HandleRemove", "df/d4b/a27641.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
-    [ "PrepareAuraScript", "df/d4b/a27641.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
-    [ "Register", "df/d4b/a27641.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
+    [ "CheckProc", "df/d4b/a27641.html#ae2cab3bddee64667e242fe89cf1d97ad", null ],
+    [ "HandleProc", "df/d4b/a27641.html#afe9fa2846b939aafdd49163990c73204", null ],
+    [ "PrepareAuraScript", "df/d4b/a27641.html#a2d3bb1f075e3b18c678d23c457c8fcd1", null ],
+    [ "Register", "df/d4b/a27641.html#a03803e95a51f5668eb024aa45183f853", null ],
+    [ "Validate", "df/d4b/a27641.html#a1847090f13a6692b868469739d57ff1c", null ]
 ];

@@ -1,8 +1,6 @@
 var a10953 =
 [
-    [ "PlayedTime", "dc/d78/a10953.html#abc477d90a27dc41a7c643448302464cf", null ],
-    [ "Write", "dc/d78/a10953.html#a147071f2545cd91213d6c92dab7438c7", null ],
-    [ "LevelTime", "dc/d78/a10953.html#a2bf832827f9497a59bbfac714799b4b5", null ],
-    [ "TotalTime", "dc/d78/a10953.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
-    [ "TriggerScriptEvent", "dc/d78/a10953.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
+    [ "BuyBankSlot", "dc/d78/a10953.html#a0bc11087e9359c6ac762f915b11287d8", null ],
+    [ "Read", "dc/d78/a10953.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
+    [ "Banker", "dc/d78/a10953.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
 ];

@@ -1,5 +1,6 @@
 var a29137 =
 [
-    [ "ID", "dc/d63/a29137.html#a0272b3c1130508a2681035c91ee416e6", null ],
-    [ "SpellID", "dc/d63/a29137.html#a231d22a763ddcd9f1fbdab81521dcf67", null ]
+    [ "ChannelID", "dc/d63/a29137.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
+    [ "flags", "dc/d63/a29137.html#aa77db644555e336ccbb8dd138c192425", null ],
+    [ "pattern", "dc/d63/a29137.html#ad8b550cf444d66eede00abcf2cefec22", null ]
 ];

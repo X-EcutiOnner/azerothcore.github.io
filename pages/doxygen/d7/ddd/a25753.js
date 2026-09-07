@@ -1,8 +1,9 @@
 var a25753 =
 [
-    [ "CheckProc", "d7/ddd/a25753.html#a06d76f258699bd4f78834ef33752a351", null ],
-    [ "HandleProc", "d7/ddd/a25753.html#af22f22cbc38fabe4181b853727df83f8", null ],
-    [ "PrepareAuraScript", "d7/ddd/a25753.html#adbc2bc54974837a9784cbf8b30ef2c1e", null ],
-    [ "Register", "d7/ddd/a25753.html#a8db2cf628d44fa962bb3889b20f5dfb1", null ],
-    [ "Validate", "d7/ddd/a25753.html#aa5604d45c0c11bef130d9242c4357163", null ]
+    [ "CheckIfCorpseNear", "d7/ddd/a25753.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
+    [ "HandleDummy", "d7/ddd/a25753.html#a913c0137d2a13c810bbae869cc6cf734", null ],
+    [ "Load", "d7/ddd/a25753.html#a3f36968d10bde12c7e2eda8db4145252", null ],
+    [ "PrepareSpellScript", "d7/ddd/a25753.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
+    [ "Register", "d7/ddd/a25753.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
+    [ "Validate", "d7/ddd/a25753.html#a51b075f95211025b2a7719a3ee70a6be", null ]
 ];

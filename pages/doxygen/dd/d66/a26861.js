@@ -1,5 +1,7 @@
 var a26861 =
 [
-    [ "PrepareSpellScript", "dd/d66/a26861.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
-    [ "Register", "dd/d66/a26861.html#a721430db1738b255f114483bdddef5e2", null ]
+    [ "OnProc", "dd/d66/a26861.html#a00545522da76162e837a3f9ce1f38988", null ],
+    [ "PrepareAuraScript", "dd/d66/a26861.html#ae11900dc2baee4882ffbc7fde71204e9", null ],
+    [ "Register", "dd/d66/a26861.html#aa326bd80c927ee5ffb06b5676e8d5b40", null ],
+    [ "Validate", "dd/d66/a26861.html#af5525b7097363c3357db853b46a26bd7", null ]
 ];

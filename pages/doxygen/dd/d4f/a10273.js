@@ -1,16 +1,14 @@
 var a10273 =
 [
-    [ "SpawnData", "dd/d4f/a10273.html#af108bd4f8d7080f008f1f3263e575311", null ],
-    [ "dbData", "dd/d4f/a10273.html#a32037d54d1c8dfd74e18b8b501843e93", null ],
-    [ "mapid", "dd/d4f/a10273.html#ac23de576d628ec0dde71be9a06976c83", null ],
-    [ "orientation", "dd/d4f/a10273.html#a645082615abc236e61a409595afca3e4", null ],
-    [ "phaseMask", "dd/d4f/a10273.html#a1d08a4a00b3ffe3eaaf260c7a447c861", null ],
-    [ "posX", "dd/d4f/a10273.html#a038b864df6fc5db9a47ae565a5e8d627", null ],
-    [ "posY", "dd/d4f/a10273.html#a13dc41e4c6b296b6b7a0a1ca402f407b", null ],
-    [ "posZ", "dd/d4f/a10273.html#ae911f34522832f2842ea7450c55e264c", null ],
-    [ "ScriptId", "dd/d4f/a10273.html#acb2ca11212667789bbd41a285cf708d6", null ],
-    [ "spawnGroupId", "dd/d4f/a10273.html#aa608bdbe2112f69e2c96ee45830cc3f8", null ],
-    [ "spawnId", "dd/d4f/a10273.html#a589f8c64b4d22ee6a638a4bb4674c6ca", null ],
-    [ "spawnMask", "dd/d4f/a10273.html#a236e4a809883421cb2c5d4c4d607621b", null ],
-    [ "type", "dd/d4f/a10273.html#abb2ece9629d63141de2702acd5383564", null ]
+    [ "BattlegroundMap", "dd/d4f/a10273.html#a3a9af8a69ac8d188d7fb86f2a9dda2c3", null ],
+    [ "~BattlegroundMap", "dd/d4f/a10273.html#a327d241fd7930e9b3a98ba50014d5131", null ],
+    [ "AddPlayerToMap", "dd/d4f/a10273.html#a0325279a2affc7b20a415a3b90a32fc0", null ],
+    [ "CannotEnter", "dd/d4f/a10273.html#a493a1932eee44c346d9cfb7d13789bb6", null ],
+    [ "GetBG", "dd/d4f/a10273.html#a2fcb965981bb03571f12c11cdbac54a4", null ],
+    [ "InitVisibilityDistance", "dd/d4f/a10273.html#af2d6847765d10fab527d77b26dd770ad", null ],
+    [ "RemoveAllPlayers", "dd/d4f/a10273.html#a5093cbf8005d06452eeb202513323c1e", null ],
+    [ "RemovePlayerFromMap", "dd/d4f/a10273.html#aeddb9dfae8601e95b0a93cefc12c2612", null ],
+    [ "SetBG", "dd/d4f/a10273.html#aaa9e5f830953b1a37a684ac566e9b768", null ],
+    [ "SetUnload", "dd/d4f/a10273.html#a4c03b1aa9c4c53697ad6284825a1b9c1", null ],
+    [ "m_bg", "dd/d4f/a10273.html#aa38fff695728ddedc94dd6eb6bd7bf3b", null ]
 ];

@@ -1,7 +1,7 @@
 var a13741 =
 [
-    [ "CheckCast", "de/d86/a13741.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
-    [ "PrepareSpellScript", "de/d86/a13741.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
-    [ "Register", "de/d86/a13741.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
-    [ "Validate", "de/d86/a13741.html#a9208b9c010bb9cc379c195939351aa45", null ]
+    [ "CorruptTriggers", "de/d86/a13741.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
+    [ "Execute", "de/d86/a13741.html#a9929f3518f307e0b753782967f06c6c1", null ],
+    [ "_caster", "de/d86/a13741.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
+    [ "_currentLane", "de/d86/a13741.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
 ];

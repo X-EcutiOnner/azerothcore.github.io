@@ -1,6 +1,6 @@
 var a15105 =
 [
-    [ "HandleHit", "d2/dec/a15105.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "d2/dec/a15105.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "d2/dec/a15105.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "HandleScriptEffect", "d2/dec/a15105.html#aebd700897688157ca62405c92fe58680", null ],
+    [ "PrepareSpellScript", "d2/dec/a15105.html#a09e11d1938279a2302fb8805e71c6c36", null ],
+    [ "Register", "d2/dec/a15105.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
 ];

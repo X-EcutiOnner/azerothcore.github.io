@@ -1,6 +1,6 @@
 var a19029 =
 [
-    [ "npc_captain_grondelAI", "d4/d20/a19029.html#afbc971fc03584b87229318309d51a2f5", null ],
-    [ "Reset", "d4/d20/a19029.html#a7d3878822e77fba66891e87e23bd3740", null ],
-    [ "UpdateAI", "d4/d20/a19029.html#a4af8548092b49653805224bd4c0ac0a2", null ]
+    [ "npc_highlord_tirion_fordringAI", "d8/d20/a19033.html", "d8/d20/a19033" ],
+    [ "npc_highlord_tirion_fordring_lh", "d4/d20/a19029.html#a96102a488330c54a3e3654c767e8e1a5", null ],
+    [ "GetAI", "d4/d20/a19029.html#aea42394c04c1763cffe10eb5eba09854", null ]
 ];

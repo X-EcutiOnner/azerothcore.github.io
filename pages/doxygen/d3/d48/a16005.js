@@ -1,10 +1,6 @@
 var a16005 =
 [
-    [ "CreatureId", "d3/d48/a16005.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
-    [ "DespTimer", "d3/d48/a16005.html#a0dfec745982b346ac1cd0af672be31fb", null ],
-    [ "SpawnCount", "d3/d48/a16005.html#ad5347ee83eaa00fe0721279099c48433", null ],
-    [ "SpawnTimer", "d3/d48/a16005.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
-    [ "UsedSpawnPoint", "d3/d48/a16005.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
-    [ "WaveTextId", "d3/d48/a16005.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
-    [ "YellTimer", "d3/d48/a16005.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
+    [ "npcs_riverbreeze_and_silversky", "d3/d48/a16005.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
+    [ "OnGossipHello", "d3/d48/a16005.html#a7de032322a37f929c316aadfdadda768", null ],
+    [ "OnGossipSelect", "d3/d48/a16005.html#a93c7b159dda733da5030de747bad30b5", null ]
 ];

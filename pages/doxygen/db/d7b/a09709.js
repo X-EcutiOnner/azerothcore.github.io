@@ -1,10 +1,8 @@
 var a09709 =
 [
-    [ "MostHPPercentMissingInRange", "db/d7b/a09709.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
-    [ "operator()", "db/d7b/a09709.html#ab1734490a3db95ad715756e85ecfaf77", null ],
-    [ "i_hpPct", "db/d7b/a09709.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
-    [ "i_maxHpPct", "db/d7b/a09709.html#afd12795ef0cd99e05e4e21f869582416", null ],
-    [ "i_minHpPct", "db/d7b/a09709.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
-    [ "i_obj", "db/d7b/a09709.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
-    [ "i_range", "db/d7b/a09709.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
+    [ "PlayerWorker", "db/d7b/a09709.html#ac7c16ec87b533b7b58b768cac116d7a2", null ],
+    [ "Visit", "db/d7b/a09709.html#a018b799be67c284d6ed5c7a368ef1985", null ],
+    [ "Visit", "db/d7b/a09709.html#a19c56b5bde9e57ea0152a89ac05e292b", null ],
+    [ "i_do", "db/d7b/a09709.html#ae09b42f770e895b1c283ea7ca7527b7a", null ],
+    [ "i_phaseMask", "db/d7b/a09709.html#aa23944bde7aa8e3a77f33b0a93f92c57", null ]
 ];

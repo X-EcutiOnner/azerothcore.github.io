@@ -1,6 +1,8 @@
 var a29745 =
 [
-    [ "CreateArmorProcConfig", "dc/d4b/a29745.html#aae16272567352cb8730edcba3908a08f", null ],
-    [ "CreateWeaponProcConfig", "dc/d4b/a29745.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
-    [ "SetUp", "dc/d4b/a29745.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
+    [ "bp0", "dc/d4b/a29745.html#ada8e047c960181610ff1942cbdfa2e27", null ],
+    [ "bp1", "dc/d4b/a29745.html#aaf81afde542db481bde1e26fcc21b945", null ],
+    [ "bp2", "dc/d4b/a29745.html#a36b28d1bc821bfd3970b6af0f38a9f10", null ],
+    [ "spellId", "dc/d4b/a29745.html#a3f8e88d4761c5247c2cb9bff94d548aa", null ],
+    [ "triggered", "dc/d4b/a29745.html#a0ee8feba0856c5497612e15128ba8273", null ]
 ];

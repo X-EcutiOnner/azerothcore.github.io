@@ -1,6 +1,8 @@
 var a14221 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "d8/d82/a14225.html", "d8/d82/a14225" ],
-    [ "npc_lady_sylvanas_windrunner_bfu", "d5/de1/a14221.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
-    [ "GetAI", "d5/de1/a14221.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
+    [ "HandleHit", "d5/de1/a14221.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
+    [ "PrepareSpellScript", "d5/de1/a14221.html#a53f170244b390f7035e131fb5c79cb3f", null ],
+    [ "Register", "d5/de1/a14221.html#a248124b837cf71f7d422154db4581747", null ],
+    [ "Validate", "d5/de1/a14221.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
+    [ "_emote", "d5/de1/a14221.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
 ];

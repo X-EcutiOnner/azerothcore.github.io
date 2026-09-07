@@ -1,7 +1,6 @@
 var a13909 =
 [
-    [ "npc_singularity", "da/dd0/a13909.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
-    [ "FindAndFollowTarget", "da/dd0/a13909.html#a76c21129756dec05f6f2d88cebe948c5", null ],
-    [ "Reset", "da/dd0/a13909.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
-    [ "UpdateAI", "da/dd0/a13909.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
+    [ "ChangeSummonPos", "da/dd0/a13909.html#ae24a7c8279a92f1018748a0e930736ac", null ],
+    [ "PrepareSpellScript", "da/dd0/a13909.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
+    [ "Register", "da/dd0/a13909.html#a03a1a1e5501452eacaceadd9725f2287", null ]
 ];

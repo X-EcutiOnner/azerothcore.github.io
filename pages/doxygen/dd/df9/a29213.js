@@ -1,8 +1,19 @@
 var a29213 =
 [
-    [ "TimeSeg", "dd/df9/a29213.html#ab94639ba8e26b215ebd31163967574d3", null ],
-    [ "TransportEntry", "dd/df9/a29213.html#a859d25b3c11839ad7e37facd40dc79df", null ],
-    [ "X", "dd/df9/a29213.html#a8fbd166503396e33a4ad77448bf307ea", null ],
-    [ "Y", "dd/df9/a29213.html#a67c279b26cebd8e5c81c36576b145af6", null ],
-    [ "Z", "dd/df9/a29213.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
+    [ "FactionRespondsToCallForHelp", "dd/df9/a29213.html#af0d102e7e7ae480b2c61cf121bcd012a", null ],
+    [ "IsContestedGuardFaction", "dd/df9/a29213.html#a52d5e1e5b01946a3d6d66158910e9f6d", null ],
+    [ "IsFriendlyTo", "dd/df9/a29213.html#ac70cef62b2ec646d593d8742a3c02f08", null ],
+    [ "IsHostileTo", "dd/df9/a29213.html#a1aadbf23c1c81a958665d96e5bf76093", null ],
+    [ "IsHostileToAlliancePlayers", "dd/df9/a29213.html#a4d3bfc9845c9d20f2e9e42f3247e1977", null ],
+    [ "IsHostileToHordePlayers", "dd/df9/a29213.html#a1734226996b76623df70f6fd0fe8a1c0", null ],
+    [ "IsHostileToPlayers", "dd/df9/a29213.html#a349650c7af717e3c67392a0b9d1970e1", null ],
+    [ "IsNeutralToAll", "dd/df9/a29213.html#a99cb471bcc9071a3c152266caa4579ae", null ],
+    [ "enemyFaction", "dd/df9/a29213.html#ae53f6799be5ae4bf7ab047fd97a4a969", null ],
+    [ "faction", "dd/df9/a29213.html#a2cb03ed38c15f6e6db7b556200282541", null ],
+    [ "factionFlags", "dd/df9/a29213.html#af20e4983d34c419b4a14c60d8049d9f4", null ],
+    [ "friendFaction", "dd/df9/a29213.html#a9c89b58067e28de89cedf2572b5e0e31", null ],
+    [ "friendlyMask", "dd/df9/a29213.html#a6842badfb5e7e0ad3a26d250426c64b6", null ],
+    [ "hostileMask", "dd/df9/a29213.html#ab395ab86c3e553ea4a9b1ae901c6e7cb", null ],
+    [ "ID", "dd/df9/a29213.html#a22657898486c71df39da27b968e405d5", null ],
+    [ "ourMask", "dd/df9/a29213.html#a822685376430441eeb85c24fd26473b0", null ]
 ];

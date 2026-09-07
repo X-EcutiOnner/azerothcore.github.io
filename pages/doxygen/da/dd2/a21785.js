@@ -1,7 +1,7 @@
 var a21785 =
 [
-    [ "HandleScript", "da/dd2/a21785.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "da/dd2/a21785.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "da/dd2/a21785.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "da/dd2/a21785.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "npc_cosmetic_toy_plane", "da/dd2/a21785.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "da/dd2/a21785.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "da/dd2/a21785.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "da/dd2/a21785.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

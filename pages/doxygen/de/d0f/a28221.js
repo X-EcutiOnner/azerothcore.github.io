@@ -1,11 +1,9 @@
 var a28221 =
 [
-    [ "npc_artoriusAI", "de/d0f/a28221.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
-    [ "DamageTaken", "de/d0f/a28221.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
-    [ "DoAction", "de/d0f/a28221.html#abbfc9ee752d97f1694dbd739719843c2", null ],
-    [ "JustEngagedWith", "de/d0f/a28221.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
-    [ "Reset", "de/d0f/a28221.html#a862cc52a9251e2dfe486f1152dae9500", null ],
-    [ "SpellHit", "de/d0f/a28221.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
-    [ "UpdateAI", "de/d0f/a28221.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
-    [ "events", "de/d0f/a28221.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
+    [ "ChatLogScript", "de/d0f/a28221.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerCanUseChat", "de/d0f/a28221.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
+    [ "OnPlayerCanUseChat", "de/d0f/a28221.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
+    [ "OnPlayerCanUseChat", "de/d0f/a28221.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
+    [ "OnPlayerCanUseChat", "de/d0f/a28221.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
+    [ "OnPlayerCanUseChat", "de/d0f/a28221.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
 ];

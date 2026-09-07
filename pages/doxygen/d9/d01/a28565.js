@@ -1,6 +1,6 @@
 var a28565 =
 [
-    [ "npc_pet_trainerAI", "d5/d5a/a28569.html", "d5/d5a/a28569" ],
-    [ "npc_pet_trainer", "d9/d01/a28565.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "d9/d01/a28565.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "spawnedCreatureEntry", "d9/d01/a28565.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "d9/d01/a28565.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "d9/d01/a28565.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

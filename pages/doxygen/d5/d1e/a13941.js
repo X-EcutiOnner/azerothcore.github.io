@@ -1,6 +1,6 @@
 var a13941 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "d5/d1e/a13941.html#aae99b35ff990fd7486d5b70693b6729a", null ],
-    [ "Load", "d5/d1e/a13941.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
-    [ "OnPlayerEnter", "d5/d1e/a13941.html#ab45827eaa92aea4746378b3c11fda219", null ]
+    [ "instance_the_stockade_InstanceMapScript", "d5/dfd/a13945.html", "d5/dfd/a13945" ],
+    [ "instance_the_stockade", "d5/d1e/a13941.html#a533049c10a72da4b94f9807017f28c0d", null ],
+    [ "GetInstanceScript", "d5/d1e/a13941.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
 ];

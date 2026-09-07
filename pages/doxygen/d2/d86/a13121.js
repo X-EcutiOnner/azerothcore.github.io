@@ -1,16 +1,6 @@
 var a13121 =
 [
-    [ "boss_moroes", "d2/d86/a13121.html#ae477dcfd679dd7943ddd133bb0dd89df", null ],
-    [ "CheckGuestsInRoom", "d2/d86/a13121.html#ad34daa424532003e8da616aed3df6c82", null ],
-    [ "GetRandomGuest", "d2/d86/a13121.html#a73f4b3c1a3a46261cf62143f8359b55e", null ],
-    [ "InitializeGuests", "d2/d86/a13121.html#a815ca169e0787c92c09a5803007355aa", null ],
-    [ "JustDied", "d2/d86/a13121.html#a7d425d58b1e64ef174ff92e1263de544", null ],
-    [ "JustEngagedWith", "d2/d86/a13121.html#aa0bf31d8298b4ec6ce205cefd0766194", null ],
-    [ "KilledUnit", "d2/d86/a13121.html#a3d28056a0d26d426d84363fb0c4f7e4d", null ],
-    [ "Reset", "d2/d86/a13121.html#a677f2b8375981d904183dd804f4b32b8", null ],
-    [ "UpdateAI", "d2/d86/a13121.html#aa639032a49b3e9bd4209d17e0863db32", null ],
-    [ "_activeGuests", "d2/d86/a13121.html#a651f53f476f205785d596ed9d52fdb89", null ],
-    [ "_events2", "d2/d86/a13121.html#ae1c0474e0a940a803d82d3fe6d3ff37f", null ],
-    [ "_recentlySpoken", "d2/d86/a13121.html#a6408ec64b2777dbcd322cb64af3f8c17", null ],
-    [ "_vanished", "d2/d86/a13121.html#a60d99b80815a2b2626638d6410ce64a2", null ]
+    [ "bossId", "d2/d86/a13121.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
+    [ "circleId", "d2/d86/a13121.html#aaa379e61fda2f7225ab4089757df5d24", null ],
+    [ "runeId", "d2/d86/a13121.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
 ];

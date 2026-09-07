@@ -1,17 +1,11 @@
 var a24025 =
 [
-    [ "npc_torloth_the_magnificentAI", "d3/dcd/a24025.html#ad34b85c80ebfb2332709c7ee21c053b7", null ],
-    [ "HandleAnimation", "d3/dcd/a24025.html#ab69f481e3871e5ce803ab1f389a2385c", null ],
-    [ "JustDied", "d3/dcd/a24025.html#aef9d2bcc04b8c1a54bf59f4744eba3ae", null ],
-    [ "JustEngagedWith", "d3/dcd/a24025.html#abf3fc3538e82fceaa916d4e217d6f9fd", null ],
-    [ "Reset", "d3/dcd/a24025.html#aa7944f80bb6718a65a07128be830ed94", null ],
-    [ "UpdateAI", "d3/dcd/a24025.html#ad5f7769462aa39fabb7ec5e79670cda1", null ],
-    [ "AggroTargetGUID", "d3/dcd/a24025.html#a826ecad9e9a06050a3ebc0861bf52c1e", null ],
-    [ "AnimationCount", "d3/dcd/a24025.html#afbe712b9e3dfe97417e1e621f4eff113", null ],
-    [ "AnimationTimer", "d3/dcd/a24025.html#a2485ad15002946c0c5b2ebce65221629", null ],
-    [ "LordIllidanGUID", "d3/dcd/a24025.html#ad135529fe083af2ce3e79823213d2735", null ],
-    [ "SpellTimer1", "d3/dcd/a24025.html#a991868074e39e2a4d06c37afc642a756", null ],
-    [ "SpellTimer2", "d3/dcd/a24025.html#a7da30509a017de1392cc3ba181a0dc53", null ],
-    [ "SpellTimer3", "d3/dcd/a24025.html#a0caf2b2d48c78b2eb032ff73168e2556", null ],
-    [ "Timers", "d3/dcd/a24025.html#a0eb0c24aff4cdab76d234ba17dbc4b5b", null ]
+    [ "boss_pathaleon_the_calculator", "d3/dcd/a24025.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "d3/dcd/a24025.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "d3/dcd/a24025.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "d3/dcd/a24025.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "d3/dcd/a24025.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "d3/dcd/a24025.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "d3/dcd/a24025.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "d3/dcd/a24025.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

@@ -1,8 +1,6 @@
 var a23533 =
 [
-    [ "HandleEffectApply", "d8/d7f/a23533.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
-    [ "HandleEffectRemove", "d8/d7f/a23533.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
-    [ "PrepareAuraScript", "d8/d7f/a23533.html#a438a8ba3688e0832853bae4183695494", null ],
-    [ "Register", "d8/d7f/a23533.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
-    [ "Validate", "d8/d7f/a23533.html#ab07b244e53b397bc9e9842655617a80d", null ]
+    [ "instance_the_underbog_InstanceMapScript", "da/d61/a23537.html", "da/d61/a23537" ],
+    [ "instance_the_underbog", "d8/d7f/a23533.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
+    [ "GetInstanceScript", "d8/d7f/a23533.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
 ];

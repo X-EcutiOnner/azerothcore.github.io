@@ -1,6 +1,6 @@
 var a18209 =
 [
-    [ "MalleableGooSelector", "db/d38/a18209.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
-    [ "operator()", "db/d38/a18209.html#adf73957539fdcc604f849944473e0015", null ],
-    [ "me", "db/d38/a18209.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
+    [ "HandlePeriodicTick", "db/d38/a18209.html#a29bf443cdb53b10032ba382b8ae44828", null ],
+    [ "PrepareAuraScript", "db/d38/a18209.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
+    [ "Register", "db/d38/a18209.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
 ];

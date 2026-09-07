@@ -1,6 +1,10 @@
 var a10685 =
 [
-    [ "BattlegroundScript", "d0/da7/a10685.html#a306231f1c7346a00a3f877c7cef3897b", null ],
-    [ "GetBattleground", "d0/da7/a10685.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
-    [ "IsDatabaseBound", "d0/da7/a10685.html#a35b571d570c85a861af6f949b51453cb", null ]
+    [ "AchievementScript", "d0/da7/a10685.html#ab09a80bc238814358e1397da529e9584", null ],
+    [ "CanCheckCriteria", "d0/da7/a10685.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
+    [ "IsCompletedCriteria", "d0/da7/a10685.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
+    [ "IsDatabaseBound", "d0/da7/a10685.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
+    [ "IsRealmCompleted", "d0/da7/a10685.html#abc54c295c1bcad45e21aed99e43a3713", null ],
+    [ "OnBeforeCheckCriteria", "d0/da7/a10685.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
+    [ "SetRealmCompleted", "d0/da7/a10685.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
 ];

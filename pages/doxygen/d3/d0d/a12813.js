@@ -1,6 +1,9 @@
 var a12813 =
 [
-    [ "FilterTargets", "d3/d0d/a12813.html#ac630fb5f068e4d26adb078b118994c45", null ],
-    [ "PrepareSpellScript", "d3/d0d/a12813.html#a5f4986bfad79573e65d56ff276c49914", null ],
-    [ "Register", "d3/d0d/a12813.html#aa1f5838d43871fd7908ea3b914666000", null ]
+    [ "boss_overlord_wyrmthalak", "d3/d0d/a12813.html#a412ced7f6cbb2c02b174824b57132ab3", null ],
+    [ "JustDied", "d3/d0d/a12813.html#a66f2bda1b2352c42a15be505f6d610c6", null ],
+    [ "JustEngagedWith", "d3/d0d/a12813.html#a4673b2e6c3b7143ab088b699c7f41d8a", null ],
+    [ "Reset", "d3/d0d/a12813.html#a8c4bff3d35d4ddb5c6c8994cb4ee9d67", null ],
+    [ "UpdateAI", "d3/d0d/a12813.html#afcca6360598b40df4c35bff752eee3f4", null ],
+    [ "_summoned", "d3/d0d/a12813.html#a4ccbe2c20ef1303141005a79ec418705", null ]
 ];

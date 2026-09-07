@@ -1,10 +1,9 @@
 var a14545 =
 [
-    [ "npc_vilebranch_speaker", "d9/d6b/a14545.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
-    [ "JustDied", "d9/d6b/a14545.html#aa7708f176879db3acd50399b74e4a90c", null ],
-    [ "JustEngagedWith", "d9/d6b/a14545.html#a236afb8512c2d941479f8a7c18f688a6", null ],
-    [ "Reset", "d9/d6b/a14545.html#a248195a137cb91f10a882ec12974c7c5", null ],
-    [ "UpdateAI", "d9/d6b/a14545.html#a75f263fa9241319b58bf77cbf1b75088", null ],
-    [ "_scheduler", "d9/d6b/a14545.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
-    [ "instance", "d9/d6b/a14545.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
+    [ "boss_hazzarah", "d9/d6b/a14545.html#a73ba49b91addc9c03e1692587fe66a52", null ],
+    [ "CanAIAttack", "d9/d6b/a14545.html#a9038a5b4276fda8a6865217a7c494eec", null ],
+    [ "JustEngagedWith", "d9/d6b/a14545.html#a18e382c03ff923bb851a9cd8e2541788", null ],
+    [ "JustSummoned", "d9/d6b/a14545.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
+    [ "SummonedCreatureDies", "d9/d6b/a14545.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
+    [ "UpdateAI", "d9/d6b/a14545.html#a61d92f1650a84ed9684d33879e54bd09", null ]
 ];

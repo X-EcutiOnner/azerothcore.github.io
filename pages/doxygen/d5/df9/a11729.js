@@ -1,7 +1,12 @@
 var a11729 =
 [
-    [ "IsValidOpcode", "d5/df9/a11729.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "d5/df9/a11729.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "d5/df9/a11729.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "d5/df9/a11729.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "PacketLog", "d5/df9/a11729.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
+    [ "~PacketLog", "d5/df9/a11729.html#a595a42f9aaa94d6c46d185955df801e0", null ],
+    [ "CanLogPacket", "d5/df9/a11729.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
+    [ "Initialize", "d5/df9/a11729.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
+    [ "instance", "d5/df9/a11729.html#a484418a51ca0bf150d17b23d97979bf4", null ],
+    [ "LogPacket", "d5/df9/a11729.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
+    [ "_file", "d5/df9/a11729.html#a03346a709f7586f6445e03b9a3b6af04", null ],
+    [ "_initializeFlag", "d5/df9/a11729.html#a490cafe009f7b2ecb303a76c781f8960", null ],
+    [ "_logPacketLock", "d5/df9/a11729.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
 ];

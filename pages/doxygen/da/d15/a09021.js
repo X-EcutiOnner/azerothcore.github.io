@@ -1,18 +1,13 @@
 var a09021 =
 [
-    [ "PlayerSocialMap", "da/d15/a09021.html#abfb2167fc86ea41b8cf66eebdaa95ceb", null ],
-    [ "PlayerSocial", "da/d15/a09021.html#ad505f01fad548b70cf070a86dce40278", null ],
-    [ "_checkContact", "da/d15/a09021.html#a1c94f00cd1955a8c93dea5d4e67f166a", null ],
-    [ "AddToSocialList", "da/d15/a09021.html#af7bf3dd0cddc41715d5122829aa5f281", null ],
-    [ "GetNumberOfSocialsWithFlag", "da/d15/a09021.html#ad4b6d7563aa448307c71fd01d0b748c3", null ],
-    [ "GetPlayerGUID", "da/d15/a09021.html#a253736ece6f1b1ec6617929ca92d2e77", null ],
-    [ "HasFriend", "da/d15/a09021.html#a8c5e3e13b6e912de5048c6a1d6e4003a", null ],
-    [ "HasIgnore", "da/d15/a09021.html#afdda7de77a9c5b48730b9b7fca36b080", null ],
-    [ "RemoveFromSocialList", "da/d15/a09021.html#a422b92edba3d2b3a7eaa5749dbceea4f", null ],
-    [ "SendSocialList", "da/d15/a09021.html#aa31ca078f363c5d5f6cfabcc4126fa9b", null ],
-    [ "SetFriendNote", "da/d15/a09021.html#ace28c99a43b6c9645550d0c30f8184df", null ],
-    [ "SetPlayerGUID", "da/d15/a09021.html#a1206fafb9f3ea29ee954e4f7684e0051", null ],
-    [ "SocialMgr", "da/d15/a09021.html#ac90a13e772eca1f96d98f76cfc8bf396", null ],
-    [ "m_playerGUID", "da/d15/a09021.html#accf6a40286cca75dd9d5eed8cc3c6790", null ],
-    [ "m_playerSocialMap", "da/d15/a09021.html#a608444605a276e67a868b7ceac94a954", null ]
+    [ "BGData", "da/d15/a09021.html#a91ccfa5183ef5996fb4bdf78567c09ba", null ],
+    [ "bgAfkReportedCount", "da/d15/a09021.html#ab7374e7b8fc6607dd6b4f04385e80ca3", null ],
+    [ "bgAfkReportedTimer", "da/d15/a09021.html#a51f8f4e05dc0224982af9a61d2dfae36", null ],
+    [ "bgAfkReporter", "da/d15/a09021.html#a94047ac71676b7914e058aac8a8cb0ea", null ],
+    [ "bgInstanceID", "da/d15/a09021.html#a8eff26fd78b5763501a3f5460de4e551", null ],
+    [ "bgIsRandom", "da/d15/a09021.html#a6f25dd5c9dc6afcc7964a5d0b7d1444c", null ],
+    [ "bgQueueSlot", "da/d15/a09021.html#a1c77bcf4135d994f0801558adca02f40", null ],
+    [ "bgTeamId", "da/d15/a09021.html#ac97f7cafb6ae69a12588e40328cdc0cb", null ],
+    [ "bgTypeID", "da/d15/a09021.html#a3398da6a15fd66cdd8dc172997d3786b", null ],
+    [ "isInvited", "da/d15/a09021.html#a8e23a1664eedf33b2195d2d8d5b01b82", null ]
 ];

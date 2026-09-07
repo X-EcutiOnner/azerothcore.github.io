@@ -1,7 +1,10 @@
 var a24477 =
 [
-    [ "HandleProc", "dc/d93/a24477.html#a60def76554cd5cf94d84ec1240d651dc", null ],
-    [ "PrepareAuraScript", "dc/d93/a24477.html#ae78484c4af6ddfcd6bf60df191f9db48", null ],
-    [ "Register", "dc/d93/a24477.html#a276526f7f988ce579dc67dc37eebbe87", null ],
-    [ "Validate", "dc/d93/a24477.html#a65986abd9db0dcfb70c8c8b21ff208ac", null ]
+    [ "npc_pet_gen_plump_turkey", "dc/d93/a24477.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
+    [ "MovementInform", "dc/d93/a24477.html#af27c91388891add6d00e251bf3187743", null ],
+    [ "UpdateAI", "dc/d93/a24477.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
+    [ "checkTimer", "dc/d93/a24477.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
+    [ "goGUID", "dc/d93/a24477.html#a5fa88e045430adea9e72a3744bf72780", null ],
+    [ "jumping", "dc/d93/a24477.html#a8486512b7594f2ce759fcb580f1baf34", null ],
+    [ "jumpTimer", "dc/d93/a24477.html#ad53a9abad41ab6a792a55b854155135d", null ]
 ];

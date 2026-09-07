@@ -1,6 +1,6 @@
 var a16601 =
 [
-    [ "HandlePeriodic", "d9/d1e/a16601.html#a7753587518171689f86f3f76269c1b8a", null ],
-    [ "PrepareAuraScript", "d9/d1e/a16601.html#aa73351e7200bee94b0068fb8dabfada5", null ],
-    [ "Register", "d9/d1e/a16601.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
+    [ "npc_halion_controllerAI", "d7/d27/a16605.html", "d7/d27/a16605" ],
+    [ "npc_halion_controller", "d9/d1e/a16601.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
+    [ "GetAI", "d9/d1e/a16601.html#a3c5ea3f0597c070005744ea788a05383", null ]
 ];

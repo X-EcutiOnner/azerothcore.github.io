@@ -1,8 +1,8 @@
 var a15161 =
 [
-    [ "hyjalTyrandeAI", "d2/da3/a15161.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
-    [ "JustDied", "d2/da3/a15161.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
-    [ "JustEngagedWith", "d2/da3/a15161.html#a158589b567d22c8f6e0be462bad8299d", null ],
-    [ "Reset", "d2/da3/a15161.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
-    [ "UpdateAI", "d2/da3/a15161.html#a9e825f9d87df6227b73eb965488eff8a", null ]
+    [ "npc_doomfire_spirit", "d2/da3/a15161.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
+    [ "Reset", "d2/da3/a15161.html#a0600718fad91723eba74b903583c5942", null ],
+    [ "TryTeleportInDirection", "d2/da3/a15161.html#a7fc48df636df66a006a8179fd63e2a65", null ],
+    [ "UpdateAI", "d2/da3/a15161.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
+    [ "turnConstant", "d2/da3/a15161.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
 ];

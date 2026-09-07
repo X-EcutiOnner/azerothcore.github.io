@@ -1,17 +1,10 @@
 var a12569 =
 [
-    [ "boss_drektharAI", "d3/d63/a12569.html#a4cd7f817b3dfe457cb330e73316e18d1", null ],
-    [ "AttackStart", "d3/d63/a12569.html#a058d9683179756e49aa4e243d270105c", null ],
-    [ "EnterEvadeMode", "d3/d63/a12569.html#a7f8677796d1b9dbe7021c056252278d3", null ],
-    [ "JustEngagedWith", "d3/d63/a12569.html#aea7fad4bfdc14e5526a6620ee5d3ba2e", null ],
-    [ "JustRespawned", "d3/d63/a12569.html#aef244c80a915eaf4c1e0ff1c1080b18a", null ],
-    [ "Reset", "d3/d63/a12569.html#a87e1f67ae379360bc0843d7bb3cd0acb", null ],
-    [ "UpdateAI", "d3/d63/a12569.html#a79f1f0430496d2a1759ded7cca5cdef3", null ],
-    [ "Attacked", "d3/d63/a12569.html#a6a6b5b2b00e85231441f5a8a0213e5ec", null ],
-    [ "FrenzyTimer", "d3/d63/a12569.html#afd2d5fc6b7091fb019048d32a8b3631e", null ],
-    [ "KnockdownTimer", "d3/d63/a12569.html#a235912a2cb78bd10b6b3a45c51ee0cff", null ],
-    [ "ResetTimer", "d3/d63/a12569.html#a7d7b0a8d19d540e998db3b6e189cc16d", null ],
-    [ "Whirlwind2Timer", "d3/d63/a12569.html#a788359b7f2df1794dbff643d75b2c561", null ],
-    [ "WhirlwindTimer", "d3/d63/a12569.html#aef399775e552d7e80224fbb0c2f62aff", null ],
-    [ "YellTimer", "d3/d63/a12569.html#ad45ea624603c427fa5b3e40cd6ba7f5d", null ]
+    [ "pool_commandscript", "d3/d63/a12569.html#a41308abbe25e1e50325923f62f2fa3af", null ],
+    [ "GetCommands", "d3/d63/a12569.html#a973b565473bd8f9ef5cfd61740d114b4", null ],
+    [ "GetPoolSpawns", "d3/d63/a12569.html#ac3fa702ac995b4a2767e5235747ae222", null ],
+    [ "HandlePoolInfoCommand", "d3/d63/a12569.html#aac45a4a6c51a92aa03acde1789e1a039", null ],
+    [ "HandlePoolLookupCommand", "d3/d63/a12569.html#a377a405a1dae394c6f17579c0f2751eb", null ],
+    [ "ListPoolMembers", "d3/d63/a12569.html#a63f8bf7dc197ed163cf87f9423c8f4d9", null ],
+    [ "StatusTag", "d3/d63/a12569.html#ad72421c1425d9a8cd4809b372d2c1e5b", null ]
 ];

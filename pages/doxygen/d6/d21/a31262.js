@@ -1,7 +1,13 @@
 var a31262 =
 [
-    [ "MPQArchive", "d1/d1b/a30223.html", "d1/d1b/a30223" ],
-    [ "MPQFile", "dd/df2/a30227.html", "dd/df2/a30227" ],
-    [ "ArchiveSet", "d6/d21/a31262.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "d6/d21/a31262.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "ConfigPolicy", "de/d74/a05481.html", "de/d74/a05481" ],
+    [ "ConfigMgr", "de/dc0/a05485.html", "de/dc0/a05485" ],
+    [ "ConfigException", "dd/dbd/a05489.html", "dd/dbd/a05489" ],
+    [ "sConfigMgr", "d6/d21/a31262.html#a7236988e98bdd405bf435a029b70a26f", null ],
+    [ "ConfigSeverity", "d6/d21/a31262.html#a05eaca858744a1f9f0e309e7867383e3", [
+      [ "Skip", "d6/d21/a31262.html#a05eaca858744a1f9f0e309e7867383e3a72ef2b9b6965d078e3c7f95487a82d1c", null ],
+      [ "Warn", "d6/d21/a31262.html#a05eaca858744a1f9f0e309e7867383e3a56525ae64d370c0b448ac0d60710ef17", null ],
+      [ "Error", "d6/d21/a31262.html#a05eaca858744a1f9f0e309e7867383e3a902b0d55fddef6f8d651fe1035b7d4bd", null ],
+      [ "Fatal", "d6/d21/a31262.html#a05eaca858744a1f9f0e309e7867383e3a882384ec38ce8d9582b57e70861730e4", null ]
+    ] ]
 ];

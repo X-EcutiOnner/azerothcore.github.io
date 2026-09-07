@@ -1,6 +1,6 @@
 var a22053 =
 [
-    [ "PrepareSpellScript", "dd/d2e/a22053.html#a87014fc73af805b7ad052d1f4f45d7cd", null ],
-    [ "Register", "dd/d2e/a22053.html#a306252bb3bc9af689400981b198f66e8", null ],
-    [ "SetDest", "dd/d2e/a22053.html#a0bffbc57932a2efe33a9912d608eb79d", null ]
+    [ "HandleScriptEffect", "dd/d2e/a22053.html#a0d6a2eda99d95b1ee3403d8c63415800", null ],
+    [ "PrepareSpellScript", "dd/d2e/a22053.html#a68920ab07d955763e8a627e6cb35638c", null ],
+    [ "Register", "dd/d2e/a22053.html#a918cf6968f6eec5a4025324bd7f78747", null ]
 ];

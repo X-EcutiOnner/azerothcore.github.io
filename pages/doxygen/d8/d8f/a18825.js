@@ -1,7 +1,6 @@
 var a18825 =
 [
-    [ "AuraRemoveEvent", "d8/d8f/a18825.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "d8/d8f/a18825.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "d8/d8f/a18825.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "d8/d8f/a18825.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "npc_spirit_wardenAI", "d7/d40/a18829.html", "d7/d40/a18829" ],
+    [ "npc_spirit_warden", "d8/d8f/a18825.html#ab585d20eadb7876752d731702db44293", null ],
+    [ "GetAI", "d8/d8f/a18825.html#ab33ab494d7fee64eed7c75464ce60489", null ]
 ];

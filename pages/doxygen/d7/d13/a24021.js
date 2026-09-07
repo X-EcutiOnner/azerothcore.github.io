@@ -1,6 +1,6 @@
 var a24021 =
 [
-    [ "npc_torloth_the_magnificentAI", "d3/dcd/a24025.html", "d3/dcd/a24025" ],
-    [ "npc_torloth_the_magnificent", "d7/d13/a24021.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
-    [ "GetAI", "d7/d13/a24021.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
+    [ "HandlePeriodic", "d7/d13/a24021.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
+    [ "PrepareAuraScript", "d7/d13/a24021.html#a438425f3002028a0978e0dbab580ca03", null ],
+    [ "Register", "d7/d13/a24021.html#af4b26607e8838b7bbbe8777f57601341", null ]
 ];

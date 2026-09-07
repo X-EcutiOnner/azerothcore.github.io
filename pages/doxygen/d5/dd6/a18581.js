@@ -1,8 +1,6 @@
 var a18581 =
 [
-    [ "HeightDifferenceCheck", "d5/dd6/a18581.html#aa8b61811e435cce456e5cb1d798be66e", null ],
-    [ "operator()", "d5/dd6/a18581.html#a1db203642683f85176f2a35eb3d10c34", null ],
-    [ "_baseObject", "d5/dd6/a18581.html#a7c274be02ca58429dffaee2ea34153c6", null ],
-    [ "_difference", "d5/dd6/a18581.html#af95e2bf67c8316dda982896978c45a68", null ],
-    [ "_reverse", "d5/dd6/a18581.html#a89074844d5fd8b02ed99c09ac4cc5b85", null ]
+    [ "npc_sindragosa_trashAI", "df/d77/a18585.html", "df/d77/a18585" ],
+    [ "npc_sindragosa_trash", "d5/dd6/a18581.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
+    [ "GetAI", "d5/dd6/a18581.html#ab1de715d98236a853a793d830bc601d7", null ]
 ];

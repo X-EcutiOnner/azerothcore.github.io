@@ -1,6 +1,7 @@
 var a17029 =
 [
-    [ "boss_dreadscaleAI", "d8/ded/a17033.html", "d8/ded/a17033" ],
-    [ "boss_dreadscale", "d2/d7b/a17029.html#ab3276e515419303358b0ee59bc92c12e", null ],
-    [ "GetAI", "d2/d7b/a17029.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
+    [ "HandleDispel", "d2/d7b/a17029.html#a7b24f38bbb7813826520f928b22d30aa", null ],
+    [ "PrepareAuraScript", "d2/d7b/a17029.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
+    [ "Register", "d2/d7b/a17029.html#a2bf6921550da3c13730fd98bded2c927", null ],
+    [ "Validate", "d2/d7b/a17029.html#ad8b0bb389d232c74acf106b711414fa1", null ]
 ];

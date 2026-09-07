@@ -1,14 +1,12 @@
 var a23041 =
 [
-    [ "boss_the_lurker_below", "d5/d83/a23041.html#ac76c71b6a47e1a936256d9c5901c27ab", null ],
-    [ "AttackStart", "d5/d83/a23041.html#af0f6fbe31dbcd6df4e8f1b57730e093b", null ],
-    [ "DamageTaken", "d5/d83/a23041.html#ae7c05744013753b29072ec1b5d9f2570", null ],
-    [ "DoAction", "d5/d83/a23041.html#a30e07055aa632066a75ad48f3e8109e2", null ],
-    [ "EnterEvadeMode", "d5/d83/a23041.html#a522164e819db5062225f7d5704cdaa36", null ],
-    [ "JustEngagedWith", "d5/d83/a23041.html#aa31e26b77e0c2403a338f781bf14c94b", null ],
-    [ "Reset", "d5/d83/a23041.html#ae592707182d64689e6578813b3617ee3", null ],
-    [ "SchedulerPhaseOne", "d5/d83/a23041.html#a42dd2ed36209e7be61788d054e2754b5", null ],
-    [ "SchedulerPhaseTwo", "d5/d83/a23041.html#aa910c20d3ee26d6d2e71818008eb3b5c", null ],
-    [ "SummonedCreatureDies", "d5/d83/a23041.html#a5ec68a1bc5b22e03fe485448257ad7df", null ],
-    [ "UpdateAI", "d5/d83/a23041.html#a92d854cb21b272bd09674c724b1aa862", null ]
+    [ "boss_shade_of_akama", "d5/d83/a23041.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "d5/d83/a23041.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "d5/d83/a23041.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "d5/d83/a23041.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "d5/d83/a23041.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "d5/d83/a23041.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "d5/d83/a23041.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "d5/d83/a23041.html#a258bbeecb517a04ab8e3bac2a753a5bd", null ],
+    [ "generators", "d5/d83/a23041.html#a94a1010bce54768ee2dca72d4f6eec34", null ]
 ];

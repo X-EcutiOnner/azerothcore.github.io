@@ -1,7 +1,6 @@
 var a10749 =
 [
-    [ "InstanceMapScript", "d1/d1a/a10749.html#a350d328f82cc5e7ea43f3c8779d25a67", null ],
-    [ "checkValidity", "d1/d1a/a10749.html#a221dd91e2d2f761e66d990a6cae42306", null ],
-    [ "GetInstanceScript", "d1/d1a/a10749.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
-    [ "IsDatabaseBound", "d1/d1a/a10749.html#ab77651bb427813a7e119057c3dc53ca8", null ]
+    [ "BattlegroundScript", "d1/d1a/a10749.html#a482219a4f398dbc40b33f6e8de6f98e3", null ],
+    [ "GetBattleground", "d1/d1a/a10749.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
+    [ "IsDatabaseBound", "d1/d1a/a10749.html#a35b571d570c85a861af6f949b51453cb", null ]
 ];

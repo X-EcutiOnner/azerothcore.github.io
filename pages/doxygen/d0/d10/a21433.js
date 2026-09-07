@@ -1,7 +1,6 @@
 var a21433 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d0/d10/a21433.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
-    [ "Reset", "d0/d10/a21433.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
-    [ "UpdateAI", "d0/d10/a21433.html#a75f16f2b028ca341db6e08536be06bfa", null ],
-    [ "uiTimer", "d0/d10/a21433.html#a0cf5f0413b1cded835252a38e272f835", null ]
+    [ "HandleOnHit", "d0/d10/a21433.html#aa3f90eb49ae947b5729f722750cb8711", null ],
+    [ "PrepareSpellScript", "d0/d10/a21433.html#a3b62711a0ba478d6321a93d436359939", null ],
+    [ "Register", "d0/d10/a21433.html#af7bdde31f1221d5679983a41e3eca204", null ]
 ];

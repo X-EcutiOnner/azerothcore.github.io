@@ -1,8 +1,6 @@
 var a24145 =
 [
-    [ "go_skull_pile", "d7/d3f/a24145.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "d7/d3f/a24145.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "d7/d3f/a24145.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "d7/d3f/a24145.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "d7/d3f/a24145.html#af74fcd75404c0886128401d661067394", null ]
+    [ "go_magtheridons_head", "d7/d3f/a24145.html#af5816b083f1856196bec7a75f0a995f3", null ],
+    [ "InitializeAI", "d7/d3f/a24145.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
+    [ "OnStateChanged", "d7/d3f/a24145.html#a28682d161074b71e1f2d70236ff2b897", null ]
 ];

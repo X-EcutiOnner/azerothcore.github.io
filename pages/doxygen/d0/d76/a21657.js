@@ -1,6 +1,7 @@
 var a21657 =
 [
-    [ "GhoulTargetCheck", "d0/d76/a21657.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "d0/d76/a21657.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "d0/d76/a21657.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d0/d76/a21657.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "d0/d76/a21657.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "d0/d76/a21657.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "d0/d76/a21657.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

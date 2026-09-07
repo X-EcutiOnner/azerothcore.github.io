@@ -1,6 +1,8 @@
 var a27001 =
 [
-    [ "HandleDummy", "db/d7d/a27001.html#a86ec9b4606ae92b070edd4ca863fe93e", null ],
-    [ "PrepareSpellScript", "db/d7d/a27001.html#a4411e4317053450a0ac5217d546952b2", null ],
-    [ "Register", "db/d7d/a27001.html#a9eea8631e0723555a9c328bdfc1e30b7", null ]
+    [ "AfterCheckProc", "db/d7d/a27001.html#ad817bc9b07538434956bf64ea1dd0367", null ],
+    [ "HandleProc", "db/d7d/a27001.html#af972e6ed5524dadd618d6cd907c0241b", null ],
+    [ "PrepareAuraScript", "db/d7d/a27001.html#a0fbc28d9a524b6dff6783077ecd0b3b9", null ],
+    [ "Register", "db/d7d/a27001.html#a2cab6b2b0ff567fca6530fa4d917aec1", null ],
+    [ "Validate", "db/d7d/a27001.html#aa15febbd22621da12b567fc429917bf0", null ]
 ];

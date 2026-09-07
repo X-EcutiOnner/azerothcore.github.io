@@ -1,10 +1,7 @@
 var a22345 =
 [
-    [ "OPvPCapturePointHP", "dc/dc7/a22345.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
-    [ "ChangeState", "dc/dc7/a22345.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
-    [ "FillInitialWorldStates", "dc/dc7/a22345.html#aa8d725422951485970d9106450fb6a38", null ],
-    [ "HandlePlayerEnter", "dc/dc7/a22345.html#ad9738c621df084d5a3f0070c80403642", null ],
-    [ "HandlePlayerLeave", "dc/dc7/a22345.html#a86e849e5387383a6c751e69350ffa07c", null ],
-    [ "SendChangePhase", "dc/dc7/a22345.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
-    [ "m_TowerType", "dc/dc7/a22345.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
+    [ "HandleDummy", "dc/dc7/a22345.html#a68c638c6e056cbadb101ddd025909f54", null ],
+    [ "PrepareSpellScript", "dc/dc7/a22345.html#a5a857bace5232d259145a0a095f70eec", null ],
+    [ "Register", "dc/dc7/a22345.html#af9c657e1fac6ee630af0bea337fbff62", null ],
+    [ "Validate", "dc/dc7/a22345.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
 ];

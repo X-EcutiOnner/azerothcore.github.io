@@ -1,4 +1,6 @@
 var a00518 =
 [
-    [ "main", "d5/dee/a00518.html#a0ddf1224851353fc92bfbff6f499fa97", null ]
+    [ "MAX_QUIET_DISTANCE", "d5/dee/a00518.html#a9738c927d0a0b9da431824ab69a5988a", null ],
+    [ "MIN_PATH_LENGTH", "d5/dee/a00518.html#aa1f2b73706ddb69d07dbdc87257f010f", null ],
+    [ "MIN_QUIET_DISTANCE", "d5/dee/a00518.html#ad1ba65a06a9ac4ab2293efde8be35403", null ]
 ];

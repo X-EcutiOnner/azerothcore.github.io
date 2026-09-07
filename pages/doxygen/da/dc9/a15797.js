@@ -1,12 +1,8 @@
 var a15797 =
 [
-    [ "npc_magwinAI", "da/dc9/a15797.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
-    [ "JustEngagedWith", "da/dc9/a15797.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
-    [ "Reset", "da/dc9/a15797.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
-    [ "sQuestAccept", "da/dc9/a15797.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
-    [ "UpdateEscortAI", "da/dc9/a15797.html#a34236331be8842a9e2a98036ea382e18", null ],
-    [ "WaypointReached", "da/dc9/a15797.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
-    [ "WaypointReached", "da/dc9/a15797.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_events", "da/dc9/a15797.html#a32dad2bde92efab7e0f0d16e809df665", null ],
-    [ "_player", "da/dc9/a15797.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
+    [ "npc_obsidian_eradicator", "da/dc9/a15797.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "da/dc9/a15797.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "da/dc9/a15797.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "da/dc9/a15797.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "da/dc9/a15797.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

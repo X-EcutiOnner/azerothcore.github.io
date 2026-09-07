@@ -1,6 +1,5 @@
 var a21877 =
 [
-    [ "npc_llod_genericAI", "dd/dba/a21881.html", "dd/dba/a21881" ],
-    [ "npc_llod_generic", "de/d88/a21877.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "de/d88/a21877.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "at_q24545_frostmourne_cavern", "de/d88/a21877.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
+    [ "OnTrigger", "de/d88/a21877.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
 ];

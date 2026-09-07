@@ -1,7 +1,8 @@
 var a27909 =
 [
-    [ "npc_spirit_shadeAI", "df/d45/a27909.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "df/d45/a27909.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "df/d45/a27909.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "df/d45/a27909.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "CheckProc", "df/d45/a27909.html#a8a61fbd855294e6218cfc0e2dd3706c9", null ],
+    [ "OnProc", "df/d45/a27909.html#a9217135a55d6612bf1d36b63ac09e7fb", null ],
+    [ "PrepareAuraScript", "df/d45/a27909.html#a8bf573bb900773d4669708536b0b8011", null ],
+    [ "Register", "df/d45/a27909.html#ae8ddcb6329088f904cbae3292ff92023", null ],
+    [ "Validate", "df/d45/a27909.html#a918c9334b7f20710c0d6448a33c94601", null ]
 ];

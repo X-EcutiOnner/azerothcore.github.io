@@ -1,7 +1,13 @@
 var a22589 =
 [
-    [ "HandleEffectRemove", "d7/d78/a22589.html#a09124a4351930a35e33359e95ca88580", null ],
-    [ "PrepareAuraScript", "d7/d78/a22589.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
-    [ "Register", "d7/d78/a22589.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
-    [ "Validate", "d7/d78/a22589.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
+    [ "OPvPCapturePointEP_PWT", "d7/d78/a22589.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
+    [ "ChangeState", "d7/d78/a22589.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
+    [ "FillInitialWorldStates", "d7/d78/a22589.html#ab5faf124f53394a4a54a86a7bf5d0626", null ],
+    [ "HandlePlayerEnter", "d7/d78/a22589.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
+    [ "HandlePlayerLeave", "d7/d78/a22589.html#a5772e54263c613eee365856def5e74e6", null ],
+    [ "SendChangePhase", "d7/d78/a22589.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
+    [ "SummonFlightMaster", "d7/d78/a22589.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
+    [ "UpdateTowerState", "d7/d78/a22589.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
+    [ "m_FlightMasterSpawnedId", "d7/d78/a22589.html#afeefd804849b925e6d0a880d8efb5319", null ],
+    [ "m_TowerState", "d7/d78/a22589.html#a914dcbb37baf457750cfe9829d95d88c", null ]
 ];

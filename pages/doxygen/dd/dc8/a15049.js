@@ -1,6 +1,6 @@
 var a15049 =
 [
-    [ "HandleScriptEffect", "dd/dc8/a15049.html#a3d22cc828a2aa59d45e5d648161926fd", null ],
-    [ "PrepareSpellScript", "dd/dc8/a15049.html#a0ecf5662d9cc1296ebdac82233f1fe7c", null ],
-    [ "Register", "dd/dc8/a15049.html#aee5d9189b6df318b57e919511a185a99", null ]
+    [ "HandleDummy", "dd/dc8/a15049.html#a5e0797e5af760b618b1498f405766de8", null ],
+    [ "PrepareSpellScript", "dd/dc8/a15049.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
+    [ "Register", "dd/dc8/a15049.html#a2254e486bda73e07f8327c3412c7852b", null ]
 ];

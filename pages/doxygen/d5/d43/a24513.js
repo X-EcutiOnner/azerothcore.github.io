@@ -1,7 +1,6 @@
 var a24513 =
 [
-    [ "HandleProc", "d5/d43/a24513.html#a66726023cd4e12b2766db027623aacf1", null ],
-    [ "PrepareAuraScript", "d5/d43/a24513.html#aaec1b616a6d57d5a2554ee7cc76d835d", null ],
-    [ "Register", "d5/d43/a24513.html#a12bb8475758402da599ae8fbc2f28b31", null ],
-    [ "Validate", "d5/d43/a24513.html#abba724498ed4e20d8ca028f270d0bbb4", null ]
+    [ "CheckProc", "d5/d43/a24513.html#a5c7245398c005a133576493366010e58", null ],
+    [ "PrepareAuraScript", "d5/d43/a24513.html#ac2a2d20470e7fa3df8491c7c81330a52", null ],
+    [ "Register", "d5/d43/a24513.html#a4f6bcdb58b02d351aee9efcd37af3492", null ]
 ];

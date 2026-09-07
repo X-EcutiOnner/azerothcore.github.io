@@ -1,7 +1,6 @@
 var a15073 =
 [
-    [ "HandleOnHit", "df/dee/a15073.html#ae3241486a612293b5421a523f6d854d9", null ],
-    [ "PrepareSpellScript", "df/dee/a15073.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
-    [ "Register", "df/dee/a15073.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
-    [ "Validate", "df/dee/a15073.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
+    [ "HandleDummy", "df/dee/a15073.html#aa75140309e66c28590a64e10676356da", null ],
+    [ "PrepareSpellScript", "df/dee/a15073.html#a21c4872e16c18c2918dfbea366e61df3", null ],
+    [ "Register", "df/dee/a15073.html#a841c9277224cbae878946deb288b87a1", null ]
 ];

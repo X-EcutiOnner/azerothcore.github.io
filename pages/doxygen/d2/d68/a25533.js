@@ -1,7 +1,7 @@
 var a25533 =
 [
-    [ "FilterTargets", "d2/d68/a25533.html#affede599b86e05e6475fd64a60268e8e", null ],
-    [ "Load", "d2/d68/a25533.html#a1343407ca8b571140ed2ecf5501bf378", null ],
-    [ "PrepareSpellScript", "d2/d68/a25533.html#a12ff05520225209b476b3ba8422de1c6", null ],
-    [ "Register", "d2/d68/a25533.html#ac99786385187e21fb02e65e9b9719400", null ]
+    [ "OnPeriodic", "d2/d68/a25533.html#a58f13f947b4daac98651f7fa46d7d674", null ],
+    [ "PrepareAuraScript", "d2/d68/a25533.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
+    [ "Register", "d2/d68/a25533.html#ad0c688255e340c428624de7071b5df56", null ],
+    [ "Validate", "d2/d68/a25533.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
 ];

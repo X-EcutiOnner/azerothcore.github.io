@@ -1,11 +1,12 @@
 var a21781 =
 [
-    [ "npc_lake_frogAI", "d3/d1e/a21781.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
-    [ "ReceiveEmote", "d3/d1e/a21781.html#abd58e65b6829c70818c578ed615a980b", null ],
-    [ "Reset", "d3/d1e/a21781.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
-    [ "sGossipSelect", "d3/d1e/a21781.html#a95906677ff65e004408ae65df3f49b5c", null ],
-    [ "UpdateAI", "d3/d1e/a21781.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
-    [ "_events", "d3/d1e/a21781.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
-    [ "_following", "d3/d1e/a21781.html#a0078f9134a61f0ec2465ce103523e341", null ],
-    [ "_runningScript", "d3/d1e/a21781.html#af76102ba6c9ffd80baa95623b7312980", null ]
+    [ "npc_dalaran_warriorAI", "d3/d1e/a21781.html#a0c96d8b0797a1388f9fe725753ea91bc", null ],
+    [ "Initialize", "d3/d1e/a21781.html#aa04ecd7a8f988e94ab663a7994e83dd9", null ],
+    [ "JustEngagedWith", "d3/d1e/a21781.html#ae6690f0681363784e457fbd653f5b3f9", null ],
+    [ "Reset", "d3/d1e/a21781.html#a074d116ba39d87fa85c17fbc1764c79b", null ],
+    [ "UpdateAI", "d3/d1e/a21781.html#ae2a740ecd35694b4d04c6aea7ae567fa", null ],
+    [ "Battleshout_timer", "d3/d1e/a21781.html#ae36f30f816164b60232bd849e74c3da1", null ],
+    [ "disarm_timer", "d3/d1e/a21781.html#a54f7ceb37d7e3456166f5af761c95e9e", null ],
+    [ "hamstring_timer", "d3/d1e/a21781.html#ae0e660b8c3faf70a6061260a4b90a4af", null ],
+    [ "shout_timer", "d3/d1e/a21781.html#ac91770c1e9eb31d687247450898a48ae", null ]
 ];

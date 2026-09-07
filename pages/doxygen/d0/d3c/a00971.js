@@ -1,9 +1,10 @@
 var a00971 =
 [
-    [ "GetChaseRange", "d0/d3c/a00971.html#a24fd9652d12d1ba9d62b8d6273664c55", null ],
-    [ "GetTargetSpeedInMotion", "d0/d3c/a00971.html#a56719695683e0a1fbeaeb49d31f62d74", null ],
-    [ "GetVelocity", "d0/d3c/a00971.html#a955c196fa9c96bf11e2d887d6cbac50c", null ],
-    [ "IsMutualChase", "d0/d3c/a00971.html#a53d496abdea10dead20c7e6a9cb09cd6", null ],
-    [ "IsValidPredictedPosition", "d0/d3c/a00971.html#a27995927630ed43ca4a79dff89cfb99c", null ],
-    [ "PredictPosition", "d0/d3c/a00971.html#ada5b031ff95410ba84fd734c95c68099", null ]
+    [ "DaysInMonth", "d0/d3c/a00971.html#abff9a870b94032b446650ea043e9983b", null ],
+    [ "IsLeapYear", "d0/d3c/a00971.html#a1cf1f3ca105c1ba63d7f783db70d91ae", null ],
+    [ "NormalizeDate", "d0/d3c/a00971.html#a867322206e11e2197b7815e7584eeaba", null ],
+    [ "sind", "d0/d3c/a00971.html#a6dd118cfa29609d98e0207909b863c88", null ],
+    [ "DEG_TO_RAD", "d0/d3c/a00971.html#a410b5189721a469108e809fbf4f6e601", null ],
+    [ "HolidayRules", "d0/d3c/a00971.html#a629dd822786c11d06b417c4326ae30fe", null ],
+    [ "PI", "d0/d3c/a00971.html#a299aabc5fc8285cbf99025330a3d0d0d", null ]
 ];

@@ -1,6 +1,8 @@
 var a21405 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "df/d7a/a21409.html", "df/d7a/a21409" ],
-    [ "npc_imprisoned_beryl_sorcerer", "da/de1/a21405.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
-    [ "GetAI", "da/de1/a21405.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
+    [ "CheckProc", "da/de1/a21405.html#ac955cc78dd3206816906dd06b3e006f6", null ],
+    [ "HandleProc", "da/de1/a21405.html#a966d23cc5714fe35d80b2964dddda536", null ],
+    [ "PrepareAuraScript", "da/de1/a21405.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
+    [ "Register", "da/de1/a21405.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
+    [ "Validate", "da/de1/a21405.html#a5d8e764dafd26548af8588593bf27990", null ]
 ];

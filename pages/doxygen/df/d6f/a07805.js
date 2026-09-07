@@ -1,10 +1,10 @@
 var a07805 =
 [
-    [ "BattlegroundRL", "df/d6f/a07805.html#ae2e0ccf2badc174b7f5c909f805fe669", null ],
-    [ "FillInitialWorldStates", "df/d6f/a07805.html#a410a5dbfa6fccbe802058d60eb7393d9", null ],
-    [ "HandleAreaTrigger", "df/d6f/a07805.html#ad1184e3e2f09a6665d40a75006e6f863", null ],
-    [ "HandlePlayerUnderMap", "df/d6f/a07805.html#a2d03a49dee964bcaa3421a93d0735e63", null ],
-    [ "SetupBattleground", "df/d6f/a07805.html#a3393353028ffd35eaad1d5e121654366", null ],
-    [ "StartingEventCloseDoors", "df/d6f/a07805.html#aae633887d9689898c8b73efa8257eb34", null ],
-    [ "StartingEventOpenDoors", "df/d6f/a07805.html#adb2ec6770c2b25b94f8f7dff7486d5cf", null ]
+    [ "BattlegroundEYCapturingPointStruct", "df/d6f/a07805.html#a54164bcb9e4235b15d8a5d8a27fbe41c", null ],
+    [ "DespawnNeutralObjectType", "df/d6f/a07805.html#a77b4eac66780587e6be0eb380e29c9ce", null ],
+    [ "GraveyardId", "df/d6f/a07805.html#a23524562fd9c875b29092ee7e7a4e44b", null ],
+    [ "MessageIdAlliance", "df/d6f/a07805.html#af3295d59367354a4ddaac12258e793b8", null ],
+    [ "MessageIdHorde", "df/d6f/a07805.html#a5c82eae433ee69b5bda8c96049a06422", null ],
+    [ "SpawnObjectTypeAlliance", "df/d6f/a07805.html#aeeeecdf09990c74ffc868a135854d49b", null ],
+    [ "SpawnObjectTypeHorde", "df/d6f/a07805.html#a4b25984504b15c7249d2e5866ad35962", null ]
 ];

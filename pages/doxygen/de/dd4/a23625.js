@@ -1,6 +1,7 @@
 var a23625 =
 [
-    [ "OnApply", "de/dd4/a23625.html#a472220f22165c6d21eab5f4b5f75921e", null ],
-    [ "PrepareAuraScript", "de/dd4/a23625.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
-    [ "Register", "de/dd4/a23625.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
+    [ "boss_the_maker", "de/dd4/a23625.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
+    [ "JustDied", "de/dd4/a23625.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
+    [ "JustEngagedWith", "de/dd4/a23625.html#a6b0a4442dbabde69ca9352017ee23675", null ],
+    [ "KilledUnit", "de/dd4/a23625.html#a40643ca00fe7d7029a291335e47c722a", null ]
 ];

@@ -1,6 +1,6 @@
 var a25697 =
 [
-    [ "PrepareSpellScript", "d8/db3/a25697.html#a3a77016a3a8314969ce41cc6483761ec", null ],
-    [ "Register", "d8/db3/a25697.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
-    [ "SetDest", "d8/db3/a25697.html#a724217c09faa57ec2e6dad034e8709ed", null ]
+    [ "CalculateAmount", "d8/db3/a25697.html#ac0018b57967a3d3ae71aa81745032f15", null ],
+    [ "PrepareAuraScript", "d8/db3/a25697.html#ab249a493050c5527eeec8913e94cfc64", null ],
+    [ "Register", "d8/db3/a25697.html#a8f078f8370eacba197ceb2068b6a538d", null ]
 ];

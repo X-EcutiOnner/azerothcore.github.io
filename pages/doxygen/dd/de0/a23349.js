@@ -1,5 +1,6 @@
 var a23349 =
 [
-    [ "go_broggok_lever", "dd/de0/a23349.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
-    [ "OnGossipHello", "dd/de0/a23349.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
+    [ "HandleApplyAura", "dd/de0/a23349.html#a4fde347d339f08cd01e2a47883d4b988", null ],
+    [ "PrepareSpellScript", "dd/de0/a23349.html#ab22bd56638a6adc8d111250780221cb9", null ],
+    [ "Register", "dd/de0/a23349.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
 ];

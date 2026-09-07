@@ -1,7 +1,11 @@
 var a22765 =
 [
-    [ "CalculateAmount", "df/d51/a22765.html#adad1c8a513ce8a1badbd40c291363de1", null ],
-    [ "PrepareAuraScript", "df/d51/a22765.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
-    [ "Register", "df/d51/a22765.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
-    [ "Update", "df/d51/a22765.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
+    [ "boss_blackheart_the_inciter", "df/d51/a22765.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "df/d51/a22765.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "df/d51/a22765.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "df/d51/a22765.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "df/d51/a22765.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "df/d51/a22765.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "df/d51/a22765.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "df/d51/a22765.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

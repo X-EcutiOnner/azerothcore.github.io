@@ -1,7 +1,7 @@
 var a28621 =
 [
-    [ "Class", "dc/d1c/a28621.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
-    [ "Gender", "dc/d1c/a28621.html#aba6251a7020c6e66b9fc7a21859df271", null ],
-    [ "ItemId", "dc/d1c/a28621.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
-    [ "Race", "dc/d1c/a28621.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
+    [ "npc_guardianAI", "dc/d1c/a28621.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "dc/d1c/a28621.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "dc/d1c/a28621.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "dc/d1c/a28621.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

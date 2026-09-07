@@ -1,9 +1,9 @@
 var a18821 =
 [
-    [ "DelayedCastEvent", "d5/d70/a18821.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
-    [ "Execute", "d5/d70/a18821.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "d5/d70/a18821.html#afcaeafb72df77c36b5496588c219fac4", null ],
-    [ "_originalCaster", "d5/d70/a18821.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "d5/d70/a18821.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "d5/d70/a18821.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "FilterTargets", "d5/d70/a18821.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
+    [ "Load", "d5/d70/a18821.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
+    [ "PrepareSpellScript", "d5/d70/a18821.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
+    [ "Register", "d5/d70/a18821.html#afad887fba0d97512a7a13a31977cf42d", null ],
+    [ "Validate", "d5/d70/a18821.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
+    [ "_instance", "d5/d70/a18821.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
 ];

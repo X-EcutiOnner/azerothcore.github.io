@@ -1,6 +1,29 @@
 var a04454 =
 [
-    [ "lfg_commandscript", "df/daf/a12503.html", "df/daf/a12503" ],
-    [ "AddSC_lfg_commandscript", "de/d70/a04454.html#a484938015a7f5ffa8f5b1d0e259d355b", null ],
-    [ "GetPlayerInfo", "de/d70/a04454.html#a1d2591add059e8c4daf04b9f706da765", null ]
+    [ "UlduarVehicleScaleTest", "d2/d96/a30101.html", null ],
+    [ "CalcScaledVehicleValue", "de/d70/a04454.html#aa21e2162e63f4227effb0e9524258f2d", null ],
+    [ "CalcUlduarVehicleScale", "de/d70/a04454.html#acdecfc5cf74175c6a000957c02da9cc4", null ],
+    [ "CalcUlduarVehicleScaleAmount", "de/d70/a04454.html#a7bee56888580618bb23f42cc8f9edc92", null ],
+    [ "TEST_F", "de/d70/a04454.html#a8418c7e94d66e6a5c9f61c9dd5deeb43", null ],
+    [ "TEST_F", "de/d70/a04454.html#a98ca9fe59822ecd339c6fb8329340dde", null ],
+    [ "TEST_F", "de/d70/a04454.html#a229410306b074e71e9bde46c25c399f6", null ],
+    [ "TEST_F", "de/d70/a04454.html#a58efc260628541882a11c0cc04c45466", null ],
+    [ "TEST_F", "de/d70/a04454.html#a51b639d3be67c69499ebcc4139f0107f", null ],
+    [ "TEST_F", "de/d70/a04454.html#a41d0ab57629ac19ea2d4b553a4653fe9", null ],
+    [ "TEST_F", "de/d70/a04454.html#ae018eecb05f49542ee23caca3b50c2f0", null ],
+    [ "TEST_F", "de/d70/a04454.html#a6204c0ebff39e559940d5bfd14410b00", null ],
+    [ "TEST_F", "de/d70/a04454.html#adfff5b21f8a78f9d8ddbd3dd6dc678a9", null ],
+    [ "TEST_F", "de/d70/a04454.html#a4fbf14b61deee8b36f80b0133f24edf3", null ],
+    [ "TEST_F", "de/d70/a04454.html#ae58086665d96daf405bf70d388d1cae1", null ],
+    [ "TEST_F", "de/d70/a04454.html#acdc1451df7c7bd7b2b7119df4c3751c2", null ],
+    [ "TEST_F", "de/d70/a04454.html#af96e2f92094886a5993a36d06aa584c0", null ],
+    [ "TEST_F", "de/d70/a04454.html#a77f70e6e60572369f011d499de48499f", null ],
+    [ "TEST_F", "de/d70/a04454.html#aee7adb4d2a4892c3cd902c1cd248eb11", null ],
+    [ "TEST_F", "de/d70/a04454.html#a6984febda90dbdc1cdda96a3cd5af830", null ],
+    [ "TEST_F", "de/d70/a04454.html#a691b1f51530aefd24b776a186d3edf9d", null ],
+    [ "TEST_F", "de/d70/a04454.html#a1f2bec1d8256ffb081dbbceb10dc82cf", null ],
+    [ "TEST_F", "de/d70/a04454.html#acbc00d4e2188706ec391791695b23e0c", null ],
+    [ "TEST_F", "de/d70/a04454.html#ae17af8669e2b2e53739a593bca36f20b", null ],
+    [ "TEST_F", "de/d70/a04454.html#a1ae53b56b33568cec2c078a3e9e32ea6", null ],
+    [ "TEST_F", "de/d70/a04454.html#aa79cf02be088752762c99510284dc0fa", null ]
 ];

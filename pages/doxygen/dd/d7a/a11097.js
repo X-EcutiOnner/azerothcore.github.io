@@ -1,6 +1,5 @@
 var a11097 =
 [
-    [ "GuildPromoteMember", "dd/d7a/a11097.html#af623a381aa80e827c2c29987501626ae", null ],
-    [ "Read", "dd/d7a/a11097.html#a3350c1a8c81aa1368a254288849b462b", null ],
-    [ "Promotee", "dd/d7a/a11097.html#af8addf6e9bc45364f595582e8f285cde", null ]
+    [ "GuildDeclineInvitation", "dd/d7a/a11097.html#a11a70a9974bb139e53f76c8b78944fe7", null ],
+    [ "Read", "dd/d7a/a11097.html#ad034438e18a7feddbac376a599c1e01a", null ]
 ];

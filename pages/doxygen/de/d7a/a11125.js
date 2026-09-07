@@ -1,8 +1,5 @@
 var a11125 =
 [
-    [ "GuildBankQueryTab", "de/d7a/a11125.html#a29fc27016b597f051898db7bb30214c8", null ],
-    [ "Read", "de/d7a/a11125.html#ab4e17c592b05ce041f5f52f2bc711d41", null ],
-    [ "Banker", "de/d7a/a11125.html#af21ec3aa4cf912fd5b82e6ae16459e06", null ],
-    [ "FullUpdate", "de/d7a/a11125.html#a4f9758c10f7c7294dffaa01b8e0b723f", null ],
-    [ "Tab", "de/d7a/a11125.html#a949488c1696f92cb0a081cf28bffb48f", null ]
+    [ "GuildPermissionsQuery", "de/d7a/a11125.html#a6ab30e173d26362db0065f4f9f8fa5f8", null ],
+    [ "Read", "de/d7a/a11125.html#aec20af8c3c8236627353287fe2eaa0a7", null ]
 ];

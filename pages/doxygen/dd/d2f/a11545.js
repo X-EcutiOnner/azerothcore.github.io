@@ -1,6 +1,6 @@
 var a11545 =
 [
-    [ "QuestGiverQuestInvalid", "dd/d2f/a11545.html#a7220ac375523d524f905042722522bfb", null ],
-    [ "Write", "dd/d2f/a11545.html#aed56e88c0fc568d524913c0863a45622", null ],
-    [ "FailureReason", "dd/d2f/a11545.html#a7c2cc4153399abfbaa4b2b2811d2fde2", null ]
+    [ "PetAbandon", "dd/d2f/a11545.html#aeac05969ce6bdb41a02f7ffe56126dfd", null ],
+    [ "Read", "dd/d2f/a11545.html#a58ebb244de4bd65a85f75dcc24250883", null ],
+    [ "PetGUID", "dd/d2f/a11545.html#a7175c081b7cb691ceb4729c1abc5028e", null ]
 ];

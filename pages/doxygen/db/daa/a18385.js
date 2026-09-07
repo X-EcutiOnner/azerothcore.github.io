@@ -1,6 +1,6 @@
 var a18385 =
 [
-    [ "npc_precious_iccAI", "da/d1b/a18389.html", "da/d1b/a18389" ],
-    [ "npc_precious_icc", "db/daa/a18385.html#a463eb0df1edb17e154658dac131f0898", null ],
-    [ "GetAI", "db/daa/a18385.html#aa63840c5968a089bff41dcd9c86d5849", null ]
+    [ "ExtraEffect", "db/daa/a18385.html#a10dfb36a835589208482e1c8833d8f46", null ],
+    [ "PrepareSpellScript", "db/daa/a18385.html#a972ff2bdc7d3660820e05326600be6f6", null ],
+    [ "Register", "db/daa/a18385.html#ae337e67a220b72b44878d02be33e3888", null ]
 ];

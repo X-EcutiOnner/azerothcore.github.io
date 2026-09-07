@@ -1,5 +1,8 @@
 var a21949 =
 [
-    [ "npc_guardian_pavilionAI", "d2/ddc/a21949.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
-    [ "MoveInLineOfSight", "d2/ddc/a21949.html#aeae26e28be93120062d9f77c069ff32a", null ]
+    [ "AfterApply", "d2/ddc/a21949.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "d2/ddc/a21949.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "d2/ddc/a21949.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "d2/ddc/a21949.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "d2/ddc/a21949.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

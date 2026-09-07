@@ -1,7 +1,12 @@
 var a12641 =
 [
-    [ "boss_gorosh_the_dervish", "d5/db4/a12641.html#a49b79326e3eae3f42be4955f30982ffe", null ],
-    [ "JustEngagedWith", "d5/db4/a12641.html#ad3b7ab3db30d16549cd85c471bbb190b", null ],
-    [ "UpdateAI", "d5/db4/a12641.html#adf24561c335f1023f44f76709e66bc83", null ],
-    [ "nextWhirlwindTime", "d5/db4/a12641.html#a61b57a2db3d097a0da74a502fb272339", null ]
+    [ "wp_commandscript", "d5/db4/a12641.html#a152610b5faf3ee05bb830bbf820b7162", null ],
+    [ "GetCommands", "d5/db4/a12641.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
+    [ "HandleWpAddCommand", "d5/db4/a12641.html#a345a8c5a2b449dc228433b2922caab0e", null ],
+    [ "HandleWpEventCommand", "d5/db4/a12641.html#a7b9355e52cb6870e7cdec7206f800832", null ],
+    [ "HandleWpLoadCommand", "d5/db4/a12641.html#a5849689f5cd186e8fc1f91ebd5f5a21a", null ],
+    [ "HandleWpModifyCommand", "d5/db4/a12641.html#a9a3e68e19f2324783bbe9ed9fe1c3ac6", null ],
+    [ "HandleWpReloadCommand", "d5/db4/a12641.html#ae7015c0f94ca5688210d890b636a586d", null ],
+    [ "HandleWpShowCommand", "d5/db4/a12641.html#a265f60ddec02a2f24b011ccdebefa89e", null ],
+    [ "HandleWpUnLoadCommand", "d5/db4/a12641.html#a4f0a252f625e49593ad6a03086a8c7ad", null ]
 ];

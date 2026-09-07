@@ -1,9 +1,8 @@
 var a24673 =
 [
-    [ "FilterTargets", "d6/d70/a24673.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
-    [ "PrepareSpellScript", "d6/d70/a24673.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
-    [ "Register", "d6/d70/a24673.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
-    [ "SetTargets", "d6/d70/a24673.html#ac77e95af9b08118e87e3329eab5515ea", null ],
-    [ "Validate", "d6/d70/a24673.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
-    [ "_targets", "d6/d70/a24673.html#acc66768f54c514552f0ab01274c24f17", null ]
+    [ "HandleDamage", "d6/d70/a24673.html#a2c5149eb0b6698240c25b63e71af0854", null ],
+    [ "PrepareSpellScript", "d6/d70/a24673.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
+    [ "Register", "d6/d70/a24673.html#ad29179d9159700b52b0c21a779cd060b", null ],
+    [ "Suicide", "d6/d70/a24673.html#a981f8547eae9b317111bf9a7016510ab", null ],
+    [ "Validate", "d6/d70/a24673.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
 ];

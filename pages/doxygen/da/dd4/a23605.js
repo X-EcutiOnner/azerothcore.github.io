@@ -1,10 +1,8 @@
 var a23605 =
 [
-    [ "CheckProc", "da/dd4/a23605.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
-    [ "Load", "da/dd4/a23605.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
-    [ "PrepareAuraScript", "da/dd4/a23605.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
-    [ "Register", "da/dd4/a23605.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
-    [ "_lastForm", "da/dd4/a23605.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
-    [ "_lastSchool", "da/dd4/a23605.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
-    [ "_swapTime", "da/dd4/a23605.html#af832dc200e928df3849ab7d7f93cb412", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "da/dd4/a23605.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
+    [ "GetData", "da/dd4/a23605.html#a410630dbbe00acf0b69603cfc357d503", null ],
+    [ "SetBossState", "da/dd4/a23605.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
+    [ "SetData", "da/dd4/a23605.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
+    [ "_addsKilled", "da/dd4/a23605.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
 ];

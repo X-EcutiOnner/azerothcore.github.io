@@ -1,6 +1,8 @@
 var a16201 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "d5/d2b/a16205.html", "d5/d2b/a16205" ],
-    [ "instance_zulfarrak", "d6/d4d/a16201.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "d6/d4d/a16201.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "npc_paoka_swiftmountainAI", "d6/d4d/a16201.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "d6/d4d/a16201.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "d6/d4d/a16201.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "d6/d4d/a16201.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ],
+    [ "WaypointReached", "d6/d4d/a16201.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

@@ -1,4 +1,4 @@
 var a00629 =
 [
-    [ "TestPlayer", "d0/d42/a29731.html", "d0/d42/a29731" ]
+    [ "ScriptRegistry< GameObjectScript >", "da/dd1/a00629.html#ae9014c60529a1387cccce404773fd736", null ]
 ];

@@ -1,5 +1,5 @@
 var a11001 =
 [
-    [ "GuildGetRoster", "d6/db6/a11001.html#a9beccc6ee2416633c57d2da31fdc021a", null ],
-    [ "Read", "d6/db6/a11001.html#af795ad992ec1b55d741227bd2d4a62d1", null ]
+    [ "LogoutCancel", "d6/db6/a11001.html#a179fccf74fa969e6a32492f35d6f28c8", null ],
+    [ "Read", "d6/db6/a11001.html#a9ed27bc4472b7e4e225793b4f2e5a34d", null ]
 ];

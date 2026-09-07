@@ -1,12 +1,7 @@
 var a27229 =
 [
-    [ "CalcPeriodic", "df/d3a/a27229.html#a35d58947074659d2692877dfcf13e4bd", null ],
-    [ "CalculateAPAmount", "df/d3a/a27229.html#ac72434a046c28a4887971cf83d574a6e", null ],
-    [ "CalculateResistanceAmount", "df/d3a/a27229.html#a82067899470366c2cbf21bba08061ce1", null ],
-    [ "CalculateSPAmount", "df/d3a/a27229.html#a527213b389be9b1953f423ae84eb16ee", null ],
-    [ "CalculateStatAmount", "df/d3a/a27229.html#ad7185292820feb168565648133c9e2cc", null ],
-    [ "HandleEffectApply", "df/d3a/a27229.html#aa333430da4cf3303822d5f048cb9d5a4", null ],
-    [ "HandlePeriodic", "df/d3a/a27229.html#ae2bca6c841d1ba02a8a39b1a2179ac97", null ],
-    [ "PrepareAuraScript", "df/d3a/a27229.html#a671a588ae36323c11b33a45d652290de", null ],
-    [ "Register", "df/d3a/a27229.html#a8aae94d6d6a9ec1fa7d47f88874cce4f", null ]
+    [ "HandleDummy", "df/d3a/a27229.html#a1abe1e04be6b6c410e0ff273d8aa15c9", null ],
+    [ "Load", "df/d3a/a27229.html#a249e9c3c74bcc20ea2c0d5ce63fbd88c", null ],
+    [ "PrepareSpellScript", "df/d3a/a27229.html#aeffcc8db6125a35227545911fa03a850", null ],
+    [ "Register", "df/d3a/a27229.html#a1de981482ebb05b8507b308dba7a426b", null ]
 ];

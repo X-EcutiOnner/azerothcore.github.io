@@ -1,6 +1,6 @@
 var a24573 =
 [
-    [ "CheckCast", "d1/d74/a24573.html#a583e19667a83ada4cd793fbf391f9e93", null ],
-    [ "PrepareSpellScript", "d1/d74/a24573.html#ac6adda0dbe544cf2457060647c01de0f", null ],
-    [ "Register", "d1/d74/a24573.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
+    [ "HandleSummon", "d1/d74/a24573.html#a00e265d830ea3e8a0a1952984c438071", null ],
+    [ "PrepareSpellScript", "d1/d74/a24573.html#a96df13b19964b6e89babb312465b90bc", null ],
+    [ "Register", "d1/d74/a24573.html#a5341e4ddf1b1ef94099c337114164ba8", null ]
 ];

@@ -1,7 +1,6 @@
 var a21325 =
 [
-    [ "npc_azure_mage_slayer", "de/d5e/a21325.html#a8f537bf85f7d50dda0f3e2e9cb7bd293", null ],
-    [ "Reset", "de/d5e/a21325.html#ad760e69d3246117726b2a2e066e6c5ce", null ],
-    [ "UpdateAI", "de/d5e/a21325.html#a412a23b56efad90af180dee17f9f2be3", null ],
-    [ "_events", "de/d5e/a21325.html#aadb7b09a9fbdd9ca8f04ba38e79901b3", null ]
+    [ "boss_skadi_graufAI", "df/d88/a21329.html", "df/d88/a21329" ],
+    [ "boss_skadi_grauf", "de/d5e/a21325.html#a571db2d2ae21f38b7051319da0f042f6", null ],
+    [ "GetAI", "de/d5e/a21325.html#ab464e605bf001eee5517ad805066af57", null ]
 ];

@@ -1,8 +1,6 @@
 var a18977 =
 [
-    [ "npc_rotting_frost_giantAI", "d0/dfa/a18977.html#a7b412075e17a81bf50aba63f96c16e53", null ],
-    [ "JustDied", "d0/dfa/a18977.html#a68b4e823de82fdfd31ccf765192e8768", null ],
-    [ "Reset", "d0/dfa/a18977.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
-    [ "UpdateAI", "d0/dfa/a18977.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
-    [ "_events", "d0/dfa/a18977.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
+    [ "HandleScript", "d0/dfa/a18977.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
+    [ "PrepareSpellScript", "d0/dfa/a18977.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
+    [ "Register", "d0/dfa/a18977.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
 ];

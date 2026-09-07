@@ -1,12 +1,13 @@
 var a23377 =
 [
-    [ "boss_vazruden_the_herald", "df/d93/a23377.html#a97f761b2e3477a22cdc65c68700de72c", null ],
-    [ "AttackStart", "df/d93/a23377.html#a190621f4130b913348a49d6dfe76b591", null ],
-    [ "JustSummoned", "df/d93/a23377.html#a66d8c6252e6baf88144da3af57bf65a4", null ],
-    [ "MovementInform", "df/d93/a23377.html#abd89aa3911c626864f8aada889ce99c9", null ],
-    [ "Reset", "df/d93/a23377.html#a18076b0fd12bc9a002394d5fe3aa5f81", null ],
-    [ "SetData", "df/d93/a23377.html#a7dcbec1c99fdf4f740656a8379a99080", null ],
-    [ "SummonedCreatureDespawn", "df/d93/a23377.html#a7621077082a3b53d1d21265e6dd00dce", null ],
-    [ "SummonedCreatureDies", "df/d93/a23377.html#a336feba0d88e4fccce28b2730a9aea9e", null ],
-    [ "UpdateAI", "df/d93/a23377.html#adc98e358a751fd9881589aada4baf320", null ]
+    [ "npc_ahune_bunny", "df/d93/a23377.html#ae28e0d2dbaab082488d5582b75cd8482", null ],
+    [ "DoAction", "df/d93/a23377.html#ad071787c47254f603ba7692889733202", null ],
+    [ "JustDied", "df/d93/a23377.html#a8733a3e495ebf69df4f9d1213df50170", null ],
+    [ "JustSummoned", "df/d93/a23377.html#a2c5c97b497cd15a1453bbd21d279a29b", null ],
+    [ "ResetFlameCallers", "df/d93/a23377.html#a60a74aabbf42116079081134a332a100", null ],
+    [ "UpdateAI", "df/d93/a23377.html#aa8dff40dde7820b1ce4e06c8d27e4ecb", null ],
+    [ "_events", "df/d93/a23377.html#af84154fff16cbdb15586b3b07223e010", null ],
+    [ "_instance", "df/d93/a23377.html#a9be0d062379e5a3dfa19af1eb1a4243e", null ],
+    [ "_submerged", "df/d93/a23377.html#a15fdcc2fda18e118f398ccc055f52942", null ],
+    [ "_summons", "df/d93/a23377.html#a8f9e25f0d8a66b18e887b061592c6950", null ]
 ];

@@ -1,7 +1,6 @@
 var a21481 =
 [
-    [ "npc_warmage_violetstand", "da/dbb/a21481.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "da/dbb/a21481.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "da/dbb/a21481.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "da/dbb/a21481.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "d7/d14/a21485.html", "d7/d14/a21485" ],
+    [ "instance_vault_of_archavon", "da/dbb/a21481.html#a0be8d95ff0f3b751e6f833689e436310", null ],
+    [ "GetInstanceScript", "da/dbb/a21481.html#abb955a8873a3a3021e164225dd1f857a", null ]
 ];

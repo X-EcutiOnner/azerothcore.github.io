@@ -1,5 +1,11 @@
 var a23273 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d2/d40/a23273.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
-    [ "Initialize", "d2/d40/a23273.html#a9c7c10020eef3db4794283c0f946d086", null ]
+    [ "boss_leotheras_the_blind", "d2/d40/a23273.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "d2/d40/a23273.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "d2/d40/a23273.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "d2/d40/a23273.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "d2/d40/a23273.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "d2/d40/a23273.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "d2/d40/a23273.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "d2/d40/a23273.html#a89deeb1888046d1f4756bcb6447d8f0d", null ]
 ];

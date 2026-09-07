@@ -1,6 +1,10 @@
 var a16069 =
 [
-    [ "npc_custodian_of_timeAI", "d6/d38/a16073.html", "d6/d38/a16073" ],
-    [ "npc_custodian_of_time", "dd/d1a/a16069.html#a6018b30119ce819853a3c662b3d5347e", null ],
-    [ "GetAI", "dd/d1a/a16069.html#a57217b2dab1cab110f1c59526ca13c86", null ]
+    [ "CreatureId", "dd/d1a/a16069.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
+    [ "DespTimer", "dd/d1a/a16069.html#a0dfec745982b346ac1cd0af672be31fb", null ],
+    [ "SpawnCount", "dd/d1a/a16069.html#ad5347ee83eaa00fe0721279099c48433", null ],
+    [ "SpawnTimer", "dd/d1a/a16069.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
+    [ "UsedSpawnPoint", "dd/d1a/a16069.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
+    [ "WaveTextId", "dd/d1a/a16069.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
+    [ "YellTimer", "dd/d1a/a16069.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
 ];

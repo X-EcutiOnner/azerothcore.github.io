@@ -1,6 +1,6 @@
 var a16213 =
 [
-    [ "HandleOpenLock", "dd/d9b/a16213.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
-    [ "PrepareSpellScript", "dd/d9b/a16213.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
-    [ "Register", "dd/d9b/a16213.html#a5dcac6f609ec93074ec3ce195101f592", null ]
+    [ "HandleDummy", "dd/d9b/a16213.html#a2750ae788168e7496ea2345c5535509c", null ],
+    [ "PrepareSpellScript", "dd/d9b/a16213.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
+    [ "Register", "dd/d9b/a16213.html#ab6c961d89d22761402eb4f5881cbd318", null ]
 ];

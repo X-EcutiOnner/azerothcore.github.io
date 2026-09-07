@@ -1,13 +1,8 @@
 var a29393 =
 [
-    [ "attackType", "df/d1b/a29393.html#a4715e7e37c120d791e6a32cd275b8cbd", null ],
-    [ "equippedItemClass", "df/d1b/a29393.html#aceba901b7f666b4a3806c35b6d8697ad", null ],
-    [ "equippedItemSubClassMask", "df/d1b/a29393.html#a3384bf3ae58fb0977f8fa81f84d940e2", null ],
-    [ "hasEquippedItem", "df/d1b/a29393.html#a5d7780265fe18a0657f2a68d9c737fe7", null ],
-    [ "hasNoEquipRequirementAttr", "df/d1b/a29393.html#ab754fdbbb49982e7152057341fc3e3af", null ],
-    [ "isInFeralForm", "df/d1b/a29393.html#a3d8d88f4640c3100a88efee52ecf5822", null ],
-    [ "isPassive", "df/d1b/a29393.html#ad56881b893a29dc5d6be193c6720c4e0", null ],
-    [ "isPlayer", "df/d1b/a29393.html#a7de2ea9efe7606f26e2c11d8963357d0", null ],
-    [ "itemFitsRequirements", "df/d1b/a29393.html#a760a3b39c124c3f408f0541744b6b34a", null ],
-    [ "itemIsBroken", "df/d1b/a29393.html#a3b53871ecd10bd1f6d624431b0907b90", null ]
+    [ "ClassMask", "df/d1b/a29393.html#a563ba1618ffefa5470696e37f65c70d4", null ],
+    [ "Flags", "df/d1b/a29393.html#af89c32a22f018557fe016e0784a82384", null ],
+    [ "RaceMask", "df/d1b/a29393.html#acff47bf5c075d669f95b0d229674f9bc", null ],
+    [ "SkillID", "df/d1b/a29393.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
+    [ "SkillTierID", "df/d1b/a29393.html#ab6153043461b71336e12b00957499075", null ]
 ];

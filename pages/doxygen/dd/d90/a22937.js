@@ -1,12 +1,9 @@
 var a22937 =
 [
-    [ "boss_fathomlord_karathress", "dd/d90/a22937.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "dd/d90/a22937.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "dd/d90/a22937.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "dd/d90/a22937.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "dd/d90/a22937.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "dd/d90/a22937.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "dd/d90/a22937.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "dd/d90/a22937.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
-    [ "_recentlySpoken", "dd/d90/a22937.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
+    [ "HandleAfterCast", "dd/d90/a22937.html#a32928b579ef42f377e911ef27197ed61", null ],
+    [ "HandleDummy", "dd/d90/a22937.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
+    [ "Load", "dd/d90/a22937.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
+    [ "PrepareSpellScript", "dd/d90/a22937.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
+    [ "Register", "dd/d90/a22937.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
+    [ "_targetCount", "dd/d90/a22937.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
 ];

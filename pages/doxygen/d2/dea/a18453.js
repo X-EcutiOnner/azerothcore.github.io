@@ -1,7 +1,6 @@
 var a18453 =
 [
-    [ "PeriodicTick", "d2/dea/a18453.html#a79b63e30f37df8a961b57c4b10669800", null ],
-    [ "PrepareAuraScript", "d2/dea/a18453.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
-    [ "Register", "d2/dea/a18453.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
-    [ "Validate", "d2/dea/a18453.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
+    [ "npc_precious_iccAI", "d8/def/a18457.html", "d8/def/a18457" ],
+    [ "npc_precious_icc", "d2/dea/a18453.html#a463eb0df1edb17e154658dac131f0898", null ],
+    [ "GetAI", "d2/dea/a18453.html#aa63840c5968a089bff41dcd9c86d5849", null ]
 ];

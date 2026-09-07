@@ -1,7 +1,16 @@
 var a16081 =
 [
-    [ "npc_toogaAI", "d9/d87/a16085.html", "d9/d87/a16085" ],
-    [ "npc_tooga", "dc/d96/a16081.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
-    [ "GetAI", "dc/d96/a16081.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
-    [ "OnQuestAccept", "dc/d96/a16081.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
+    [ "npc_anachronos_the_ancientAI", "dc/d96/a16081.html#aad6fbdc3cf33f2deb6dd3cc741e4aec4", null ],
+    [ "HandleAnimation", "dc/d96/a16081.html#a0bd43e2482a12cda79566f761d448109", null ],
+    [ "Reset", "dc/d96/a16081.html#a3bd2380cfd18b14aae1ae72a452299bb", null ],
+    [ "UpdateAI", "dc/d96/a16081.html#a5a55cfec1d204b6657779938e93b6be5", null ],
+    [ "AnachronosQuestTriggerGUID", "dc/d96/a16081.html#aa51b7cdfb2a37310196c81a01f89a7dd", null ],
+    [ "AnimationCount", "dc/d96/a16081.html#a504038880b7e837f63f99d477c8a0bba", null ],
+    [ "AnimationTimer", "dc/d96/a16081.html#a4ca3807429ffa2caca6199ecd66c4015", null ],
+    [ "ArygosGUID", "dc/d96/a16081.html#a4f2917c85d41d3b5015d6eed56fe9e12", null ],
+    [ "CaelestraszGUID", "dc/d96/a16081.html#adceafa1ad19ecb7df59f87b501d4622c", null ],
+    [ "eventEnd", "dc/d96/a16081.html#ad125b9eb7052449a6b75eebde7a192e0", null ],
+    [ "FandralGUID", "dc/d96/a16081.html#a157af7db82bf943c298b63d8294067ce", null ],
+    [ "MerithraGUID", "dc/d96/a16081.html#af7088f79687a4109f5701488e9019aeb", null ],
+    [ "PlayerGUID", "dc/d96/a16081.html#a7e1777ca319e4f6dafc1a035d05dabc0", null ]
 ];

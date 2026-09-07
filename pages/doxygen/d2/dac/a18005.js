@@ -1,8 +1,6 @@
 var a18005 =
 [
-    [ "HandlePeriodic", "d2/dac/a18005.html#a5ff571c616b69bb50c736622feb9ed96", null ],
-    [ "HandleRemove", "d2/dac/a18005.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
-    [ "PrepareAuraScript", "d2/dac/a18005.html#a1b140274e283dd95e28fcb773e30f965", null ],
-    [ "Register", "d2/dac/a18005.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
-    [ "Validate", "d2/dac/a18005.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
+    [ "npc_zafod_boomboxAI", "d8/d10/a18009.html", "d8/d10/a18009" ],
+    [ "npc_zafod_boombox", "d2/dac/a18005.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "d2/dac/a18005.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

@@ -1,9 +1,13 @@
 var a24397 =
 [
-    [ "CheckCast", "de/df5/a24397.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "de/df5/a24397.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "de/df5/a24397.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "de/df5/a24397.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "de/df5/a24397.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "de/df5/a24397.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "npc_unkor_the_ruthlessAI", "de/df5/a24397.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
+    [ "DamageTaken", "de/df5/a24397.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
+    [ "HasQuestActive", "de/df5/a24397.html#ad97ea6721dcea4058167ea327dc0c515", null ],
+    [ "JustEngagedWith", "de/df5/a24397.html#a537225016bfeba51b607d250c0a09be5", null ],
+    [ "Reset", "de/df5/a24397.html#a14ca75417c623d6d6e5fce50521963da", null ],
+    [ "Submit", "de/df5/a24397.html#a26872858bfb4aeda1b4af445033995db", null ],
+    [ "UpdateAI", "de/df5/a24397.html#a744ea41d7f9450965419085a296c8df2", null ],
+    [ "PulverizeTimer", "de/df5/a24397.html#a43324c095d4f98b97b39b5eb86c4c783", null ],
+    [ "Submitted", "de/df5/a24397.html#a47777bb2dd47764c9cb01dc3f3e25f39", null ],
+    [ "UnfriendlyTimer", "de/df5/a24397.html#a21559a315c812b50b74fc22dc32a2930", null ]
 ];

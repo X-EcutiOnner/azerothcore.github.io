@@ -1,5 +1,6 @@
 var a22373 =
 [
-    [ "OutdoorPvP_silithus", "da/de0/a22373.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
-    [ "GetOutdoorPvP", "da/de0/a22373.html#a126d6acc77218addd10072199ccd2470", null ]
+    [ "HandleScriptEffect", "da/de0/a22373.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
+    [ "PrepareSpellScript", "da/de0/a22373.html#afa4ad1b205bf963b4230881738baf938", null ],
+    [ "Register", "da/de0/a22373.html#a0d8925effced854471e2fbec9c631b91", null ]
 ];

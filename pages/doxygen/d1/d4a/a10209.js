@@ -1,27 +1,9 @@
 var a10209 =
 [
-    [ "InstanceMap", "d1/d4a/a10209.html#a9d50fedced3e052f133b6d34d894b0ef", null ],
-    [ "~InstanceMap", "d1/d4a/a10209.html#aac59e76c4c67bffa05b8c5994f004a18", null ],
-    [ "AddPlayerToMap", "d1/d4a/a10209.html#a068035508b2effba43d8799cdc476299", null ],
-    [ "AfterPlayerUnlinkFromMap", "d1/d4a/a10209.html#a73b2c530197b4061e3989d600be854d7", null ],
-    [ "CannotEnter", "d1/d4a/a10209.html#aa7191fa5eeb80404dde25802e64878cc", null ],
-    [ "CreateInstanceScript", "d1/d4a/a10209.html#a2711922eb268822f832ccf89740ff6cf", null ],
-    [ "GetDebugInfo", "d1/d4a/a10209.html#aceb53450ca21e22bbf414f16d7923737", null ],
-    [ "GetInstanceScript", "d1/d4a/a10209.html#adb854ceb3abc3e768ad6b8ce66703314", null ],
-    [ "GetInstanceScript", "d1/d4a/a10209.html#a190a114cdde8646edb34980afbe5920a", null ],
-    [ "GetMaxPlayers", "d1/d4a/a10209.html#a67c441657f33f6567f6b398d824cc269", null ],
-    [ "GetMaxResetDelay", "d1/d4a/a10209.html#a840632baf9432e7d29a03c3c73a54d01", null ],
-    [ "GetScriptId", "d1/d4a/a10209.html#a6f3eccbe5d67aec9aeab45a11432b9da", null ],
-    [ "GetScriptName", "d1/d4a/a10209.html#ab8eaa34f2319d5a2d40900360756a5c9", null ],
-    [ "InitVisibilityDistance", "d1/d4a/a10209.html#a6d912f1d70072b29d1d8b20a8fe2d088", null ],
-    [ "PermBindAllPlayers", "d1/d4a/a10209.html#a7995cf4ab6a86f01be96a59ec56d28c1", null ],
-    [ "RemovePlayerFromMap", "d1/d4a/a10209.html#a789efee0e05598f2eafe8a89461d51d0", null ],
-    [ "Reset", "d1/d4a/a10209.html#ad60b7ef4ef14f36245394fd7c929aad2", null ],
-    [ "SendResetWarnings", "d1/d4a/a10209.html#a5d2ade5164c7886491d29fb527864df9", null ],
-    [ "UnloadAll", "d1/d4a/a10209.html#aabfd4a995353adcd4ab0bd64b8e59b7e", null ],
-    [ "Update", "d1/d4a/a10209.html#aabae71377e431f1690fa3934b1bd2a5c", null ],
-    [ "i_script_id", "d1/d4a/a10209.html#ad86f85ab222182b0fe66a0fa19b916f6", null ],
-    [ "instance_data", "d1/d4a/a10209.html#a5e72502fd1dc9361180a46928ab7f33d", null ],
-    [ "m_resetAfterUnload", "d1/d4a/a10209.html#a0ef50638887402136d92fc045de2dfd6", null ],
-    [ "m_unloadWhenEmpty", "d1/d4a/a10209.html#a2c97ba74253c4bc5612c6290597e8bf7", null ]
+    [ "RectangleBoundary", "d1/d4a/a10209.html#af401f84700a15fa1d4fcf78358a74735", null ],
+    [ "IsWithinBoundaryArea", "d1/d4a/a10209.html#a2d6c735d080382263a401d91da37b934", null ],
+    [ "_maxX", "d1/d4a/a10209.html#a3eff421dfe942634814e7526334f1c07", null ],
+    [ "_maxY", "d1/d4a/a10209.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
+    [ "_minX", "d1/d4a/a10209.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
+    [ "_minY", "d1/d4a/a10209.html#af5a7e35d5d9ff23c722643141f01a916", null ]
 ];

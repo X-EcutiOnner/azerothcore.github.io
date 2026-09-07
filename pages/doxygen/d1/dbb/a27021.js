@@ -1,6 +1,8 @@
 var a27021 =
 [
-    [ "PrepareSpellScript", "d1/dbb/a27021.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
-    [ "Register", "d1/dbb/a27021.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
-    [ "SetDest", "d1/dbb/a27021.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
+    [ "CheckProc", "d1/dbb/a27021.html#a0c649a70d0413fd24f29d3f2a03d3b4b", null ],
+    [ "HandleProc", "d1/dbb/a27021.html#ae9e9ef38c6cdf57eccbeafb9f8c5cac0", null ],
+    [ "PrepareAuraScript", "d1/dbb/a27021.html#adc8f29fd41def510195365f40fd5340b", null ],
+    [ "Register", "d1/dbb/a27021.html#add7ed115ee403870f46e25614fac3840", null ],
+    [ "Validate", "d1/dbb/a27021.html#aa9e341cbf35a4a6c2f42f55a216241b8", null ]
 ];

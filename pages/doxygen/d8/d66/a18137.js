@@ -1,6 +1,6 @@
 var a18137 =
 [
-    [ "npc_darnavanAI", "d8/d2b/a18141.html", "d8/d2b/a18141" ],
-    [ "npc_darnavan", "d8/d66/a18137.html#ac358ca123155165395fa5f7ec02c9dab", null ],
-    [ "GetAI", "d8/d66/a18137.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
+    [ "IgbArtilleryCheck", "d8/d66/a18137.html#a78b65928551ed799cf3f446f0603c50e", null ],
+    [ "operator()", "d8/d66/a18137.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
+    [ "_entry", "d8/d66/a18137.html#a98a6a0836414da82c288e372e982f69f", null ]
 ];

@@ -1,6 +1,5 @@
 var a13473 =
 [
-    [ "npc_acherus_necromancerAI", "dc/dfe/a13477.html", "dc/dfe/a13477" ],
-    [ "npc_acherus_necromancer", "d7/dbb/a13473.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
-    [ "GetAI", "d7/dbb/a13473.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
+    [ "boss_apoko", "d7/dbb/a13473.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
+    [ "JustEngagedWith", "d7/dbb/a13473.html#a7ad52b258863bd818b3e5d1143de7629", null ]
 ];

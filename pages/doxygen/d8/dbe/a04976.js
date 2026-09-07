@@ -1,6 +1,12 @@
 var a04976 =
 [
-    [ "GetLibraryVersion", "d8/dbe/a04976.html#aefa4bd51f34aad2d1a141c00a2310092", null ],
-    [ "Library_End", "d8/dbe/a04976.html#aff44554b66bd7ef0e21f1db5beb0b81a", null ],
-    [ "Library_Init", "d8/dbe/a04976.html#a70b74137156f0a22792c3cf95c54decc", null ]
+    [ "EnumFlag< T >", "d5/de0/a05833.html", "d5/de0/a05833" ],
+    [ "DEFINE_ENUM_FLAG", "d8/dbe/a04976.html#a9f556f9c539f21ae6fd639abe4c39c75", null ],
+    [ "IsFlag", "d8/dbe/a04976.html#a7294b75cb336d554d5ce2b75b05c37d6", null ],
+    [ "IsEnumFlag", "d8/dbe/a04976.html#ae0992e010612850442fc56bcf2d44b47", null ],
+    [ "operator&", "d8/dbe/a04976.html#a27ef39aed098304d7387af8257f7cee3", null ],
+    [ "operator&=", "d8/dbe/a04976.html#a24a78ca9e9dcd1b92829560e580c3134", null ],
+    [ "operator|", "d8/dbe/a04976.html#ac8aaa198de31cb5a3b217d0968f30a3b", null ],
+    [ "operator|=", "d8/dbe/a04976.html#a7808a2b72bed2b70553d802ed11e27c4", null ],
+    [ "operator~", "d8/dbe/a04976.html#abe3f4d2eafbceebe9ec46ffcd15cfa76", null ]
 ];

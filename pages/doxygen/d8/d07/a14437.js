@@ -1,8 +1,9 @@
 var a14437 =
 [
-    [ "boss_grilekAI", "d8/d07/a14437.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
-    [ "JustEngagedWith", "d8/d07/a14437.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
-    [ "Reset", "d8/d07/a14437.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
-    [ "UpdateAI", "d8/d07/a14437.html#a19438103c9a582a7d36d805c80131e8c", null ],
-    [ "_pursuitTargetGUID", "d8/d07/a14437.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
+    [ "npc_amanishi_lookout", "d8/d07/a14437.html#adf34c160c531164a459092f45588a7be", null ],
+    [ "DoAction", "d8/d07/a14437.html#ab43e3372000af268c81e2701070e1b03", null ],
+    [ "MoveInLineOfSight", "d8/d07/a14437.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
+    [ "MovementInform", "d8/d07/a14437.html#ae9e6d22a781392107a7e50e5815c116c", null ],
+    [ "Reset", "d8/d07/a14437.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
+    [ "_instance", "d8/d07/a14437.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
 ];

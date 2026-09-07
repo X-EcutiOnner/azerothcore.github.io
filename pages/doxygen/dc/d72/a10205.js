@@ -1,7 +1,14 @@
 var a10205 =
 [
-    [ "operator<", "dc/d72/a10205.html#adb62060523d8d5b11f16f3202a157f26", null ],
-    [ "respawnTime", "dc/d72/a10205.html#aaed69c7c6f9f78ecb365e233f1ff6dab", null ],
-    [ "spawnId", "dc/d72/a10205.html#a6faeab5132f3e539848ebe29cee5a5a4", null ],
-    [ "type", "dc/d72/a10205.html#a1400b212e0889c54047225ba57e95c94", null ]
+    [ "DoublePosition", "dc/d72/a10205.html#a59190a2456f052c6ffa6e181ced94a4f", null ],
+    [ "DoublePosition", "dc/d72/a10205.html#a9900e06c36c6ebc4edd0ba45264990b8", null ],
+    [ "DoublePosition", "dc/d72/a10205.html#a543ff52f7b278f68cc36ee880932e744", null ],
+    [ "GetDoubleExactDist2dSq", "dc/d72/a10205.html#ae17b4e695ff23a8ec323405801f2013a", null ],
+    [ "GetDoublePositionX", "dc/d72/a10205.html#a7c769d1762f99150a46ceaa2b2bfa8e8", null ],
+    [ "GetDoublePositionY", "dc/d72/a10205.html#a201096c85022d54b1d9dbe9264df901f", null ],
+    [ "GetDoublePositionZ", "dc/d72/a10205.html#a01fc3985229b6bd03e6d1da95f871c17", null ],
+    [ "sync", "dc/d72/a10205.html#a75e75187d6663591a39c87bc1086aebd", null ],
+    [ "DoublePosX", "dc/d72/a10205.html#a4f9ffbbe4396f3ec26a81139f5868e2e", null ],
+    [ "DoublePosY", "dc/d72/a10205.html#a90839893f3a58a72a07177d3eee1d691", null ],
+    [ "DoublePosZ", "dc/d72/a10205.html#a19af503e9623ccaeb032bfe9f0a0ed63", null ]
 ];

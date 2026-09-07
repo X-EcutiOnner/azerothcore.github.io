@@ -1,6 +1,7 @@
 var a23517 =
 [
-    [ "npc_millhouse_manastormAI", "d3/db9/a23521.html", "d3/db9/a23521" ],
-    [ "npc_millhouse_manastorm", "d0/d71/a23517.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
-    [ "GetAI", "d0/d71/a23517.html#ac4516785f7daf544718fc201197ba977", null ]
+    [ "HandleScript", "d0/d71/a23517.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
+    [ "PrepareSpellScript", "d0/d71/a23517.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
+    [ "Register", "d0/d71/a23517.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
+    [ "Validate", "d0/d71/a23517.html#a46aca18049e02d50f57579b3fdc705bd", null ]
 ];

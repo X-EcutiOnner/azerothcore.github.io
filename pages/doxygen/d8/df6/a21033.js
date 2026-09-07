@@ -1,8 +1,10 @@
 var a21033 =
 [
-    [ "CheckProc", "d8/df6/a21033.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
-    [ "HandleProc", "d8/df6/a21033.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
-    [ "PrepareAuraScript", "d8/df6/a21033.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
-    [ "Register", "d8/df6/a21033.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
-    [ "Validate", "d8/df6/a21033.html#ad4176f188412053b9205820fb6183d38", null ]
+    [ "boss_yoggsaron_immortal_guardian", "d8/df6/a21033.html#a14839f96771d185718e88a4e371b31f6", null ],
+    [ "DamageTaken", "d8/df6/a21033.html#a9bf936d6a501e53ce98786f043562a71", null ],
+    [ "Reset", "d8/df6/a21033.html#a1173d401233670a45b31040b8e5d98cb", null ],
+    [ "SpellHit", "d8/df6/a21033.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
+    [ "UpdateAI", "d8/df6/a21033.html#adaae7e2cd52951095cb82819d9874426", null ],
+    [ "_spellTimer", "d8/df6/a21033.html#a521b956c116a23523fdfceb95a42c1e2", null ],
+    [ "_visualTimer", "d8/df6/a21033.html#acb9f5de4ad41ce56f7c6d05a19783517", null ]
 ];

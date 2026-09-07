@@ -1,8 +1,9 @@
 var a14565 =
 [
-    [ "npc_spawn_of_marli", "d2/daf/a14565.html#a1dcd5066de108203903f5767c4b375ea", null ],
-    [ "JustEngagedWith", "d2/daf/a14565.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
-    [ "Reset", "d2/daf/a14565.html#a79ef192d41af75e0dad0494776c75189", null ],
-    [ "UpdateAI", "d2/daf/a14565.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
-    [ "_scheduler", "d2/daf/a14565.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
+    [ "boss_jindo", "d2/daf/a14565.html#a9aafe0282e0b5de90ce62b3f8b3cfb14", null ],
+    [ "EnterEvadeMode", "d2/daf/a14565.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500", null ],
+    [ "JustEngagedWith", "d2/daf/a14565.html#a7f612a1e5033c5097856222cee41f2af", null ],
+    [ "JustSummoned", "d2/daf/a14565.html#ac7382289d174ec70703b76dc4e451d39", null ],
+    [ "UpdateAI", "d2/daf/a14565.html#aad8885f79fc527954102fc1b78ca8ad7", null ],
+    [ "_scheduler", "d2/daf/a14565.html#a7ddbdc4d85936fd54fced20ff31e91cd", null ]
 ];

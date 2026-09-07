@@ -1,5 +1,4 @@
 var a29237 =
 [
-    [ "areatableID", "d5/d80/a29237.html#a991f3242c87939be42d107d6908f441d", null ],
-    [ "ID", "d5/d80/a29237.html#ac57c444da58dea7227bd26e0f6b7bbff", null ]
+    [ "cost", "d5/d80/a29237.html#a624313c8b56b9755593b2f4bacd306d7", null ]
 ];

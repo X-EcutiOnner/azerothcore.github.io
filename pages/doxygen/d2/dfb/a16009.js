@@ -1,6 +1,5 @@
 var a16009 =
 [
-    [ "SpellId", "d2/dfb/a16009.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "d2/dfb/a16009.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "d2/dfb/a16009.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "at_ancient_leaf", "d2/dfb/a16009.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
+    [ "OnTrigger", "d2/dfb/a16009.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
 ];

@@ -1,9 +1,9 @@
 var a22529 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "de/d9f/a22529.html#ada5f19c96bfe623b110389ede032ef53", null ],
-    [ "GetData", "de/d9f/a22529.html#ad876ebd581c470f5a3075129076bd1fb", null ],
-    [ "Initialize", "de/d9f/a22529.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
-    [ "OnCreatureCreate", "de/d9f/a22529.html#a118b4a7a7c872327ec2868c5b0417636", null ],
-    [ "OnUnitDeath", "de/d9f/a22529.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
-    [ "_ritualistsAliveCount", "de/d9f/a22529.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
+    [ "npc_finklesteinAI", "d4/d46/a22533.html", "d4/d46/a22533" ],
+    [ "npc_finklestein", "de/d9f/a22529.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "de/d9f/a22529.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "de/d9f/a22529.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "de/d9f/a22529.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "de/d9f/a22529.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

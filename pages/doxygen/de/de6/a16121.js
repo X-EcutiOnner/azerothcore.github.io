@@ -1,13 +1,8 @@
 var a16121 =
 [
-    [ "npc_wizzlecrank_shredderAI", "de/de6/a16121.html#a055c4b426219aa3372a83d2e2021d916", null ],
-    [ "JustSummoned", "de/de6/a16121.html#a7cad21f0b3286ed75256a49c315069ce", null ],
-    [ "Reset", "de/de6/a16121.html#a86929e8a2f3433f37e4dda03e3011193", null ],
-    [ "UpdateEscortAI", "de/de6/a16121.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
-    [ "WaypointReached", "de/de6/a16121.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
-    [ "WaypointReached", "de/de6/a16121.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "WaypointStart", "de/de6/a16121.html#a00857e372e53950338ed71d672edb780", null ],
-    [ "IsPostEvent", "de/de6/a16121.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
-    [ "PostEventCount", "de/de6/a16121.html#aa5284a284c074f32cee85d29aea00f2f", null ],
-    [ "PostEventTimer", "de/de6/a16121.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
+    [ "npc_kaya_flathoofAI", "de/de6/a16121.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
+    [ "JustSummoned", "de/de6/a16121.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
+    [ "Reset", "de/de6/a16121.html#af9be00be9867622a16103bd21311327f", null ],
+    [ "WaypointReached", "de/de6/a16121.html#a8fcbb19279b925138ba96d2a450fc404", null ],
+    [ "WaypointReached", "de/de6/a16121.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

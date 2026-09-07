@@ -1,8 +1,7 @@
 var a11405 =
 [
-    [ "TrainerBuyFailed", "d6/d5e/a11405.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
-    [ "Write", "d6/d5e/a11405.html#a75c3bff5da4699fc412793caef1b75af", null ],
-    [ "SpellID", "d6/d5e/a11405.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
-    [ "TrainerFailedReason", "d6/d5e/a11405.html#a746ff497fba16adb16bbb647dff385df", null ],
-    [ "TrainerGUID", "d6/d5e/a11405.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
+    [ "Playsound", "d6/d5e/a11405.html#a955f91d0d65c64f154f99b3b9472e273", null ],
+    [ "Playsound", "d6/d5e/a11405.html#aa242d4ca729d67d7fd58dc81985f22f9", null ],
+    [ "Write", "d6/d5e/a11405.html#acb4bdd9a1613a158832115e4c18bfcd9", null ],
+    [ "SoundKitID", "d6/d5e/a11405.html#a922cb6d06285bdf9f3d89ff990c40b0a", null ]
 ];

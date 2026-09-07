@@ -1,8 +1,7 @@
 var a23417 =
 [
-    [ "npc_target_trigger", "dc/d49/a23417.html#a238058ba80130c6239b7267db3247196", null ],
-    [ "Reset", "dc/d49/a23417.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
-    [ "UpdateAI", "dc/d49/a23417.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
-    [ "_cast", "dc/d49/a23417.html#a4ec89ca960323f7ad135d5a425a82416", null ],
-    [ "_scheduler", "dc/d49/a23417.html#a9b418b09e25c8f96692b4e2626339c96", null ]
+    [ "HandleScriptEffect", "dc/d49/a23417.html#ad5e905710a20436f120c979c865571c9", null ],
+    [ "PrepareSpellScript", "dc/d49/a23417.html#ab44aa98f47162b50f30622d67ac75395", null ],
+    [ "Register", "dc/d49/a23417.html#ad4c2bf1a8556b6fb85c05d3c83494fed", null ],
+    [ "Validate", "dc/d49/a23417.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2", null ]
 ];

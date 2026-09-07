@@ -1,8 +1,9 @@
 var a12705 =
 [
-    [ "boss_highlord_omokk", "d1/d47/a12705.html#a31dd2c47b3ed33fa65d3b6a7a5cb384c", null ],
-    [ "JustDied", "d1/d47/a12705.html#a2a8931227eb65759ceebd27919976cb5", null ],
-    [ "JustEngagedWith", "d1/d47/a12705.html#a0bd4e1e0f72a0b6a8792d508c401caf8", null ],
-    [ "Reset", "d1/d47/a12705.html#ada6bf702dc1827e60b558b4fb752b789", null ],
-    [ "UpdateAI", "d1/d47/a12705.html#a131ebd1dd8d95c7d910af1b21442c861", null ]
+    [ "npc_phalanx", "d1/d47/a12705.html#a03c79151dcdc13fef4ce83957addd44a", null ],
+    [ "Reset", "d1/d47/a12705.html#a9297d5fb869eb9a65ef9143a56347a53", null ],
+    [ "UpdateAI", "d1/d47/a12705.html#aad01cc9d5ac167c21547e8b0b2bda4a7", null ],
+    [ "_fireballVolleyTimer", "d1/d47/a12705.html#a54ad76cd7e8d3be058ad3d5153e5b144", null ],
+    [ "_mightyBlowTimer", "d1/d47/a12705.html#ad59e6e32b53dbf797bc62e116ae2a12d", null ],
+    [ "_thunderClapTimer", "d1/d47/a12705.html#a3b0c33207bf5090abeb9860585c222b4", null ]
 ];

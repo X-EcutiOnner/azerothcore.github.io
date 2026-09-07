@@ -1,6 +1,5 @@
 var a21157 =
 [
-    [ "boss_ymironAI", "db/d7f/a21161.html", "db/d7f/a21161" ],
-    [ "boss_ymiron", "d5/deb/a21157.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "d5/deb/a21157.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "achievement_yogg_saron_kiss_and_make_up", "d5/deb/a21157.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
+    [ "OnCheck", "d5/deb/a21157.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
 ];

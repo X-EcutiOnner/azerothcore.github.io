@@ -1,8 +1,8 @@
 var a12593 =
 [
-    [ "brd_ironhand_guardian", "d0/d5f/a12593.html#a635a59a53948b6e252a15384d784a969", null ],
-    [ "SetData", "d0/d5f/a12593.html#a7677681c4d39ed73f4143caa66a1a5de", null ],
-    [ "UpdateAI", "d0/d5f/a12593.html#a8840ead9b577888ec2ac15d68ddffe71", null ],
-    [ "_flamesEnabled", "d0/d5f/a12593.html#a1b162039fc21a7eddddd22ed9c97e9cb", null ],
-    [ "events", "d0/d5f/a12593.html#a01047164b0728cb6d08a7f41cf092a58", null ]
+    [ "RBACCommandData", "d0/d5f/a12593.html#a05b9fb0ce4d459f4f4bf6fab258b0737", null ],
+    [ "RBACCommandData", "d0/d5f/a12593.html#ae871dc19c052c205378810f91534caf6", null ],
+    [ "~RBACCommandData", "d0/d5f/a12593.html#adf59e804b6cc4779da75f07f8e904f43", null ],
+    [ "needDelete", "d0/d5f/a12593.html#a97e567ffef62804e327d909ad4c2a385", null ],
+    [ "rbac", "d0/d5f/a12593.html#ac681f852bea86d3bd1e290c93cf5e285", null ]
 ];

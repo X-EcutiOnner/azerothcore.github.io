@@ -1,9 +1,9 @@
 var a21761 =
 [
-    [ "npc_wounded_skirmisher", "de/d8a/a21761.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
-    [ "Initialize", "de/d8a/a21761.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
-    [ "JustEngagedWith", "de/d8a/a21761.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
-    [ "Reset", "de/d8a/a21761.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
-    [ "SpellHit", "de/d8a/a21761.html#a891e879af5da1f181c94e528c59a81f1", null ],
-    [ "UpdateAI", "de/d8a/a21761.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
+    [ "npc_mageguard_dalaranAI", "de/d8a/a21761.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
+    [ "AttackStart", "de/d8a/a21761.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
+    [ "JustEngagedWith", "de/d8a/a21761.html#aac463689ae5a488ec2acb8a0310689d8", null ],
+    [ "MoveInLineOfSight", "de/d8a/a21761.html#aafb32462693e0efd9c80cf335f489754", null ],
+    [ "Reset", "de/d8a/a21761.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
+    [ "UpdateAI", "de/d8a/a21761.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
 ];

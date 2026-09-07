@@ -1,7 +1,7 @@
 var a28017 =
 [
-    [ "go_brewfest_musicAI", "da/d57/a28017.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
-    [ "UpdateAI", "da/d57/a28017.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
-    [ "_currentMusicEvent", "da/d57/a28017.html#ad26a0309bdd4eafce4dfa310db929357", null ],
-    [ "_events", "da/d57/a28017.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
+    [ "HandleProc", "da/d57/a28017.html#a41b42a2d219904cdaf2a714d97e500f7", null ],
+    [ "PrepareAuraScript", "da/d57/a28017.html#a95c26300614ecdab588ddcc256fc1fd6", null ],
+    [ "Register", "da/d57/a28017.html#afb32150ac10ad392b63f40db05433835", null ],
+    [ "Validate", "da/d57/a28017.html#ab012775206fb6011eff8fbed293319c8", null ]
 ];

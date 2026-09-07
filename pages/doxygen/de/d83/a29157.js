@@ -1,10 +1,7 @@
 var a29157 =
 [
-    [ "attackSpeed", "de/d83/a29157.html#ab5242f7367e8799a556176178c72fc88", null ],
-    [ "creatureType", "de/d83/a29157.html#a3dff9074b85261932ed8a8a550c5395b", null ],
-    [ "flags1", "de/d83/a29157.html#a026745f2ce754d754858d69ee219b518", null ],
-    [ "ID", "de/d83/a29157.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
-    [ "modelID_A", "de/d83/a29157.html#a86dfa61342583d920b7d8496bce4b49d", null ],
-    [ "modelID_H", "de/d83/a29157.html#a1ee597d6fd02507b682874929645e01d", null ],
-    [ "stanceSpell", "de/d83/a29157.html#a08f54b905e905fb5a59e449f8c613c08", null ]
+    [ "Displayid", "de/d83/a29157.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
+    [ "ExtendedDisplayInfoID", "de/d83/a29157.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
+    [ "ModelId", "de/d83/a29157.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
+    [ "scale", "de/d83/a29157.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
 ];

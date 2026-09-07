@@ -1,6 +1,6 @@
 var a22513 =
 [
-    [ "PrepareSpellScript", "d5/d05/a22513.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "d5/d05/a22513.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "d5/d05/a22513.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "PrepareSpellScript", "d5/d05/a22513.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
+    [ "RecalculateDamage", "d5/d05/a22513.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
+    [ "Register", "d5/d05/a22513.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
 ];

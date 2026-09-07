@@ -1,18 +1,9 @@
 var a12405 =
 [
-    [ "learn_commandscript", "d5/d77/a12405.html#a7ef51367ab7ab1c360390ff5552c0f51", null ],
-    [ "GetCommands", "d5/d77/a12405.html#a8c8f73f3c1d5dbddd5a3d2e89ea326d8", null ],
-    [ "HandleLearnAllCraftsCommand", "d5/d77/a12405.html#ae25064fa03d022277a368f52a17e5b70", null ],
-    [ "HandleLearnAllDefaultCommand", "d5/d77/a12405.html#a985d2a10f01808c4bff2922b1530e911", null ],
-    [ "HandleLearnAllGMCommand", "d5/d77/a12405.html#a88e28ec43968c5a8b0bfd1f190d89a98", null ],
-    [ "HandleLearnAllLangCommand", "d5/d77/a12405.html#aaf4d779b47511db72727fe44fb1bbd2d", null ],
-    [ "HandleLearnAllMyClassCommand", "d5/d77/a12405.html#a956716b7743dfc6de922b0badf40aeda", null ],
-    [ "HandleLearnAllMyPetTalentsCommand", "d5/d77/a12405.html#a2a7cc02eb4417907b50d49bab39110cf", null ],
-    [ "HandleLearnAllMyQuestSpells", "d5/d77/a12405.html#af7393dfd87f9742cfc7220896c4eeb1b", null ],
-    [ "HandleLearnAllMyTalentsCommand", "d5/d77/a12405.html#aaa19e92798ac56355a95e625ead56556", null ],
-    [ "HandleLearnAllMyTrainerSpellsCommand", "d5/d77/a12405.html#a1e08e9289a6dccde021f3712db106c64", null ],
-    [ "HandleLearnAllRecipesCommand", "d5/d77/a12405.html#a44b538a1031ad69bec762f1a791cf11f", null ],
-    [ "HandleLearnCommand", "d5/d77/a12405.html#ab59da6873596596ee84509cb0060e760", null ],
-    [ "HandleLearnSkillRecipesHelper", "d5/d77/a12405.html#ae8bd0389415fdeb70d369b694b953619", null ],
-    [ "HandleUnLearnCommand", "d5/d77/a12405.html#a2dc980af9662b3b1c783e3603732ca01", null ]
+    [ "autobroadcast_commandscript", "d5/d77/a12405.html#a00946e483860809c8b1d92e773c8eeef", null ],
+    [ "GetCommands", "d5/d77/a12405.html#a01d7689785a4267ac4bd57bfc0d269e9", null ],
+    [ "HandleAutobroadcastAddCommand", "d5/d77/a12405.html#a4217bea8d83682acbdd64a225c839227", null ],
+    [ "HandleAutobroadcastListCommand", "d5/d77/a12405.html#a0e4a07fd036d66fc5639a8e29fd45392", null ],
+    [ "HandleAutobroadcastLocaleCommand", "d5/d77/a12405.html#aaebf528b045b05b038d2a3f8801d3c85", null ],
+    [ "HandleAutobroadcastRemoveCommand", "d5/d77/a12405.html#af6445843506ac2b4c2b5c158480aab8c", null ]
 ];

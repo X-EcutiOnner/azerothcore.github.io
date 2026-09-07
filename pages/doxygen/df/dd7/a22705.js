@@ -1,9 +1,4 @@
 var a22705 =
 [
-    [ "FilterTargets", "df/dd7/a22705.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "df/dd7/a22705.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "df/dd7/a22705.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "df/dd7/a22705.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "df/dd7/a22705.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "df/dd7/a22705.html#a814083360970284a325621f45e109b5b", null ]
+    [ "instance_auchenai_crypts_InstanceMapScript", "df/dd7/a22705.html#af67e3aa61d9fe3ed3876b1bd2df9ff3c", null ]
 ];

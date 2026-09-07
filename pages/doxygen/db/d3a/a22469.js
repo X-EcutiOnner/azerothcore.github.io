@@ -1,8 +1,7 @@
 var a22469 =
 [
-    [ "npc_anzu_spirit", "db/d3a/a22469.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
-    [ "IsSummonedBy", "db/d3a/a22469.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
-    [ "Reset", "db/d3a/a22469.html#acef3f7093f93b6c227d145523cdc487a", null ],
-    [ "UpdateAI", "db/d3a/a22469.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
-    [ "_scheduler", "db/d3a/a22469.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
+    [ "npc_wg_quest_giver", "db/d3a/a22469.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "db/d3a/a22469.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "db/d3a/a22469.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "db/d3a/a22469.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

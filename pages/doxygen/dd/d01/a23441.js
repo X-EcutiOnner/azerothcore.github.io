@@ -1,5 +1,6 @@
 var a23441 =
 [
-    [ "go_manticron_cube", "dd/d01/a23441.html#a87d9571aea57f16d38067ebd9e22200d", null ],
-    [ "OnGossipHello", "dd/d01/a23441.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
+    [ "boss_rokmar_the_crackler", "dd/d01/a23441.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "dd/d01/a23441.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "dd/d01/a23441.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

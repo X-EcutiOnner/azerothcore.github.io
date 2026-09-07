@@ -1,9 +1,27 @@
 var a14213 =
 [
-    [ "npc_thrall_bfuAI", "d7/dd2/a14217.html", "d7/dd2/a14217" ],
-    [ "npc_thrall_bfu", "d7/de2/a14213.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
-    [ "GetAI", "d7/de2/a14213.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
-    [ "OnGossipHello", "d7/de2/a14213.html#a71a7108464de9245879c8a1c08932e2a", null ],
-    [ "OnGossipSelect", "d7/de2/a14213.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
-    [ "OnQuestReward", "d7/de2/a14213.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
+    [ "npc_highlord_darion_mograine", "d7/de2/a14213.html#a4cb9fe5dfd71a43ef26e507d89447eff", null ],
+    [ "DoAction", "d7/de2/a14213.html#a03dba6d9ce356bb83b3cc4b7b301c040", null ],
+    [ "FinishFight", "d7/de2/a14213.html#a252c88447aea37a91556507c3decd99d", null ],
+    [ "GetData", "d7/de2/a14213.html#ad82b05e51766c3a4c31c72c9f60596a1", null ],
+    [ "GetEntryFromSummons", "d7/de2/a14213.html#a0eb1adec635b224a8e4f041606d46856", null ],
+    [ "JustDied", "d7/de2/a14213.html#a707c15d931651ea85437c259a1a84971", null ],
+    [ "JustEngagedWith", "d7/de2/a14213.html#aa07c3ee6c928cb383ce4904f81215e52", null ],
+    [ "JustRespawned", "d7/de2/a14213.html#a918e690e583f56b614c40962e6f03584", null ],
+    [ "JustSummoned", "d7/de2/a14213.html#ad1412213e4b7798b8d57e494d2804d6f", null ],
+    [ "MovementInform", "d7/de2/a14213.html#a1b9fd81e5da9464338f31f5f8c90cdfa", null ],
+    [ "Reset", "d7/de2/a14213.html#aaff5b7f078177efc4e4bf1f7201fd7a8", null ],
+    [ "SendInitialWorldStates", "d7/de2/a14213.html#a646eff2f368a7dbd621f6a630b303436", null ],
+    [ "SendUpdateWorldState", "d7/de2/a14213.html#a3be4356e7114fdcaf343d64ff101dbcf", null ],
+    [ "sGossipHello", "d7/de2/a14213.html#aadce21a79e49b42c8bf950408f7055c7", null ],
+    [ "sGossipSelect", "d7/de2/a14213.html#a9acef8952a1963862117f2f2442d5bc4", null ],
+    [ "SummonedCreatureDies", "d7/de2/a14213.html#a97316e53810639305928a489e940a924", null ],
+    [ "UpdateAI", "d7/de2/a14213.html#a7a19ac34b9968eeb5de9881ae8754d9b", null ],
+    [ "battleStarted", "d7/de2/a14213.html#affef58a695b73f2e17b48da915125425", null ],
+    [ "defendersRemaining", "d7/de2/a14213.html#ae0cbe16959c269a86a28aeda681048e9", null ],
+    [ "events", "d7/de2/a14213.html#ac73f0fa5d4f25080e81f04832fff149e", null ],
+    [ "resetExecuted", "d7/de2/a14213.html#abce72b1d643e2468f980e554eb5bbc78", null ],
+    [ "scourgeRemaining", "d7/de2/a14213.html#a03ffe1ba56d04252ba86fb92c2a17cc3", null ],
+    [ "startTimeRemaining", "d7/de2/a14213.html#aeb08e9ca11dd9aeedbc7079182c5a534", null ],
+    [ "summons", "d7/de2/a14213.html#a7eb1df2352397d310c103021fb9cf6aa", null ]
 ];

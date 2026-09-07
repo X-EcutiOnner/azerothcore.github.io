@@ -1,6 +1,6 @@
 var a10625 =
 [
-    [ "ALEScript", "d9/d0f/a10625.html#a3949e8bd9d83297871c60778f3fe9f9e", null ],
-    [ "CanAreaTrigger", "d9/d0f/a10625.html#ad5d8f66949b0f7638dd85ccba4c569d0", null ],
-    [ "OnWeatherChange", "d9/d0f/a10625.html#a109b1cb14f602065ce4346d0370407a7", null ]
+    [ "Description", "d9/d0f/a10625.html#a1d49e1ff4533507cb64dfc8fc6790c37", null ],
+    [ "MapId", "d9/d0f/a10625.html#a252400abf9080866cdf2eebba16df4dc", null ],
+    [ "MaxLimit", "d9/d0f/a10625.html#a38ba12a67e99cabba2388a63f12a2b53", null ]
 ];

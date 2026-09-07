@@ -1,7 +1,4 @@
 var a08781 =
 [
-    [ "ObjectDistanceOrderPred", "df/d52/a08781.html#adced3fdc6d99b7506361eb7700fa4cec", null ],
-    [ "operator()", "df/d52/a08781.html#aaa5023735568f6df28a177fbd9ed866e", null ],
-    [ "m_ascending", "df/d52/a08781.html#a313cd0450096e49716bfb52f8f238bfc", null ],
-    [ "m_refObj", "df/d52/a08781.html#aec421fd45a60545bf92b7236e0d0b360", null ]
+    [ "Name", "df/d52/a08781.html#aab0b8fc04dcd6a8c551f5dfc4846b290", null ]
 ];

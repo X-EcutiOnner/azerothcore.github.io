@@ -1,8 +1,15 @@
 var a19785 =
 [
-    [ "npc_centrifuge_constructAI", "d0/dc0/a19785.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "d0/dc0/a19785.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "d0/dc0/a19785.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "d0/dc0/a19785.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "d0/dc0/a19785.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "boss_anomalus", "d0/dc0/a19785.html#aa4dd8fac7c360beb834382f624ed2246", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d0/dc0/a19785.html#ada0735330bff29a8c04706c980e6bbfc", null ],
+    [ "GetData", "d0/dc0/a19785.html#ad48aebb50cda7ee621f71803669f04c2", null ],
+    [ "JustDied", "d0/dc0/a19785.html#a41e257481921a122dba30348559e05fb", null ],
+    [ "JustEngagedWith", "d0/dc0/a19785.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
+    [ "JustSummoned", "d0/dc0/a19785.html#a3c0413f30d96268cab724856334e61ee", null ],
+    [ "Reset", "d0/dc0/a19785.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
+    [ "SetData", "d0/dc0/a19785.html#aa79ec9829862b573cd0f38f965d737e8", null ],
+    [ "UpdateAI", "d0/dc0/a19785.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
+    [ "_empowered", "d0/dc0/a19785.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
+    [ "achievement", "d0/dc0/a19785.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
+    [ "activeRifts", "d0/dc0/a19785.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
 ];

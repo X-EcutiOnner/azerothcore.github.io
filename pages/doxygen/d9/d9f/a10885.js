@@ -1,7 +1,6 @@
 var a10885 =
 [
-    [ "AutoStoreBankItem", "d9/d9f/a10885.html#a1cdb7e9c7da7e646af14ac4ac3b7e950", null ],
-    [ "Read", "d9/d9f/a10885.html#a2a482b716f537866a815085ead9cfd38", null ],
-    [ "Bag", "d9/d9f/a10885.html#a08d2992816ee94b6757c2811b54ed437", null ],
-    [ "Slot", "d9/d9f/a10885.html#aaf2cd8c1c3d67301cc40af78f138daa0", null ]
+    [ "WeatherScript", "d9/d9f/a10885.html#af0b38389d1e149a332186e10358ba74e", null ],
+    [ "IsDatabaseBound", "d9/d9f/a10885.html#a2547902149ce080711ccacb709b10e8a", null ],
+    [ "OnChange", "d9/d9f/a10885.html#a10c105f1e1bff1e9fe484e98b00cf76c", null ]
 ];

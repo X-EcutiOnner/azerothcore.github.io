@@ -1,6 +1,8 @@
 var a16529 =
 [
-    [ "boss_twilight_halionAI", "d2/d88/a16533.html", "d2/d88/a16533" ],
-    [ "boss_twilight_halion", "d6/d2f/a16529.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
-    [ "GetAI", "d6/d2f/a16529.html#a56842d74b16cbd5636649cbc643c50d8", null ]
+    [ "RestoreFight", "d6/d2f/a16529.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "RestoreFight", "d6/d2f/a16529.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "Execute", "d6/d2f/a16529.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "Execute", "d6/d2f/a16529.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "_owner", "d6/d2f/a16529.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
 ];

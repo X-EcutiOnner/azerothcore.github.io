@@ -1,7 +1,12 @@
 var a17873 =
 [
-    [ "ExtraEffect", "da/d8d/a17873.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
-    [ "PrepareAuraScript", "da/d8d/a17873.html#a53d6013e5ec473854e1537969cb31988", null ],
-    [ "Register", "da/d8d/a17873.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
-    [ "Validate", "da/d8d/a17873.html#ab14e7410cf542d9f4043800a3b86c664", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "da/d8d/a17873.html#a4313164857ebd174fe33a9a16340b332", null ],
+    [ "DoAction", "da/d8d/a17873.html#a16eeb7d0ed6c943c088285462131cd51", null ],
+    [ "MovementInform", "da/d8d/a17873.html#a9a2e367f30ee16ca55e634de8e22551e", null ],
+    [ "Reset", "da/d8d/a17873.html#ad5d5a9de05e472d24fe399b4de79a3d0", null ],
+    [ "SpellHit", "da/d8d/a17873.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
+    [ "UpdateAI", "da/d8d/a17873.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
+    [ "_events", "da/d8d/a17873.html#ae7079b335373cc06a040756328e7f714", null ],
+    [ "_guardList", "da/d8d/a17873.html#a1cbd87af34584979b37dfff8b29f9623", null ],
+    [ "_instance", "da/d8d/a17873.html#af1d8694678b10e5393c658ba0b20f47a", null ]
 ];

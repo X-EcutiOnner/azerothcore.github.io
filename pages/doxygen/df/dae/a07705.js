@@ -1,12 +1,10 @@
 var a07705 =
 [
-    [ "BGQueueRemoveEvent", "df/dae/a07705.html#ab751b728f64b2928eefb21f756539d81", null ],
-    [ "~BGQueueRemoveEvent", "df/dae/a07705.html#aab9ea24041888975439aafb246c571c3", null ],
-    [ "Abort", "df/dae/a07705.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
-    [ "Execute", "df/dae/a07705.html#a42482ff784da4b23b568888a74a0b531", null ],
-    [ "m_BgInstanceGUID", "df/dae/a07705.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
-    [ "m_BgQueueTypeId", "df/dae/a07705.html#ac059a823ae49bd0250eec15845bf153b", null ],
-    [ "m_BgTypeId", "df/dae/a07705.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
-    [ "m_PlayerGuid", "df/dae/a07705.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
-    [ "m_RemoveTime", "df/dae/a07705.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
+    [ "Battleground2ChatBuilder", "df/dae/a07705.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1", null ],
+    [ "operator()", "df/dae/a07705.html#a7c0ee21531ba43d9d2ab427d95da2ec5", null ],
+    [ "_arg1", "df/dae/a07705.html#aa6959944406804f01baa18cd898bfc41", null ],
+    [ "_arg2", "df/dae/a07705.html#aebfaeac77c40d4c7938cbdd488defc51", null ],
+    [ "_msgtype", "df/dae/a07705.html#a770d30e207e41a8f985776787d53f2cf", null ],
+    [ "_source", "df/dae/a07705.html#a8867dd698d0457688202e1a9378255d2", null ],
+    [ "_textId", "df/dae/a07705.html#a632cab30adc21c22f1a8890b1627262a", null ]
 ];

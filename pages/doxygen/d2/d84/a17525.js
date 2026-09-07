@@ -1,6 +1,6 @@
 var a17525 =
 [
-    [ "boss_drakkari_colossusAI", "de/d61/a17529.html", "de/d61/a17529" ],
-    [ "boss_drakkari_colossus", "d2/d84/a17525.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
-    [ "GetAI", "d2/d84/a17525.html#a75c6c9c56fe11342dd8aece031059e77", null ]
+    [ "npc_pos_martin_or_gorkun_secondAI", "de/d61/a17529.html", "de/d61/a17529" ],
+    [ "npc_pos_martin_or_gorkun_second", "d2/d84/a17525.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
+    [ "GetAI", "d2/d84/a17525.html#a180936e3bb98eb55d29ebd51350906c0", null ]
 ];

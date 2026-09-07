@@ -1,5 +1,6 @@
 var a20401 =
 [
-    [ "achievement_getting_cold_in_here", "d8/dab/a20401.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
-    [ "OnCheck", "d8/dab/a20401.html#aeafd382d378381f754da6ee04d382276", null ]
+    [ "achievement_freya_knock_on_wood", "d8/dab/a20401.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "d8/dab/a20401.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "d8/dab/a20401.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

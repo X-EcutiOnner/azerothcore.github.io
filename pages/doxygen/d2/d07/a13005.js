@@ -1,7 +1,7 @@
 var a13005 =
 [
-    [ "HandleScript", "d2/d07/a13005.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
-    [ "PrepareSpellScript", "d2/d07/a13005.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
-    [ "Register", "d2/d07/a13005.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
-    [ "Validate", "d2/d07/a13005.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
+    [ "HandleRemove", "d2/d07/a13005.html#a754b44b62c131e20e1be94b3407e2006", null ],
+    [ "PrepareAuraScript", "d2/d07/a13005.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
+    [ "Register", "d2/d07/a13005.html#a02cd375ec140f7614104b7e56df13430", null ],
+    [ "Validate", "d2/d07/a13005.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
 ];

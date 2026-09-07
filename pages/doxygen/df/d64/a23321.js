@@ -1,12 +1,9 @@
 var a23321 =
 [
-    [ "boss_olm_the_summoner", "df/d64/a23321.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
-    [ "JustDied", "df/d64/a23321.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
-    [ "JustEngagedWith", "df/d64/a23321.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
-    [ "JustSummoned", "df/d64/a23321.html#a546bede780b7d67b98ec251ae2e1b812", null ],
-    [ "Reset", "df/d64/a23321.html#a8dcdc816276a1932612d554cff703a45", null ],
-    [ "UpdateAI", "df/d64/a23321.html#a967f330966fdb29f26ab24e8f40d2152", null ],
-    [ "_scheduler", "df/d64/a23321.html#a448ba3a88156e80eebad44585791ab21", null ],
-    [ "instance", "df/d64/a23321.html#a8caabc31bb7a8548eb936c34c655df68", null ],
-    [ "summons", "df/d64/a23321.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
+    [ "boss_morogrim_tidewalker", "df/d64/a23321.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "df/d64/a23321.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "df/d64/a23321.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "df/d64/a23321.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "df/d64/a23321.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "df/d64/a23321.html#a78ed1d1f8c55407497a4fb679587975d", null ]
 ];

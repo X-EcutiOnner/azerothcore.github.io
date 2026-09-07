@@ -1,6 +1,5 @@
 var a25085 =
 [
-    [ "HandleDummy", "df/d0f/a25085.html#a63bc85e32a1478d03b381c61a33d0dff", null ],
-    [ "PrepareSpellScript", "df/d0f/a25085.html#adae41617f38a71ccec183f419d677cfd", null ],
-    [ "Register", "df/d0f/a25085.html#a820e8b506de36a24411ae4a1c5930417", null ]
+    [ "PrepareSpellScript", "df/d0f/a25085.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
+    [ "Register", "df/d0f/a25085.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
 ];

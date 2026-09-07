@@ -1,12 +1,10 @@
 var a15209 =
 [
-    [ "boss_mal_ganisAI", "da/d8f/a15209.html#aa8b70930372cd0729686f7c6032d3152", null ],
-    [ "DamageTaken", "da/d8f/a15209.html#a4873386266ce3b4b849377028ff746a5", null ],
-    [ "JustDied", "da/d8f/a15209.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
-    [ "JustEngagedWith", "da/d8f/a15209.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
-    [ "KilledUnit", "da/d8f/a15209.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
-    [ "Reset", "da/d8f/a15209.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
-    [ "UpdateAI", "da/d8f/a15209.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
-    [ "events", "da/d8f/a15209.html#a194c002efe244b8c94a072faf72be771", null ],
-    [ "finished", "da/d8f/a15209.html#ac4c90c814aa55781f863c958253e9df2", null ]
+    [ "hyjalJainaAI", "da/d8f/a15209.html#aa7532b691e85fd9bd467e20db39c59da", null ],
+    [ "IsSummonedBy", "da/d8f/a15209.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
+    [ "JustDied", "da/d8f/a15209.html#a605687080e5149b3f08ce8349ba9b336", null ],
+    [ "JustEngagedWith", "da/d8f/a15209.html#a187efe775b1e2a35637638507e77352e", null ],
+    [ "PathEndReached", "da/d8f/a15209.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
+    [ "Reset", "da/d8f/a15209.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
+    [ "UpdateAI", "da/d8f/a15209.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
 ];

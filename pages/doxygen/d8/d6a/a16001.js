@@ -1,6 +1,8 @@
 var a16001 =
 [
-    [ "Creature", "d8/d6a/a16001.html#a77b33f8998f85808b58052079b1cab54", null ],
-    [ "TextId", "d8/d6a/a16001.html#ad691f3cd40035e96547adf7528229119", null ],
-    [ "Timer", "d8/d6a/a16001.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
+    [ "FilterTargets", "d8/d6a/a16001.html#a47b8055fa1b28968e8323ca98613aa83", null ],
+    [ "HandleScript", "d8/d6a/a16001.html#a8f7984e510d8947a2ae4b0734409866b", null ],
+    [ "PrepareSpellScript", "d8/d6a/a16001.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
+    [ "Register", "d8/d6a/a16001.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
+    [ "Validate", "d8/d6a/a16001.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
 ];

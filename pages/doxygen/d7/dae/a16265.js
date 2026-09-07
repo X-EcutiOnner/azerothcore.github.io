@@ -1,7 +1,6 @@
 var a16265 =
 [
-    [ "HandleDummy", "d7/dae/a16265.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
-    [ "PrepareSpellScript", "d7/dae/a16265.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
-    [ "Register", "d7/dae/a16265.html#a4359ad73b513a368509a066a039ddf53", null ],
-    [ "_targetCount", "d7/dae/a16265.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
+    [ "instance_zulfarrak_InstanceMapScript", "de/df2/a16269.html", "de/df2/a16269" ],
+    [ "instance_zulfarrak", "d7/dae/a16265.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
+    [ "GetInstanceScript", "d7/dae/a16265.html#a5f092341e49848c9d321452be2193d56", null ]
 ];

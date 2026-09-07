@@ -1,6 +1,7 @@
 var a16477 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "dc/d11/a16481.html", "dc/d11/a16481" ],
-    [ "npc_baltharus_the_warborn_clone", "d9/d63/a16477.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
-    [ "GetAI", "d9/d63/a16477.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
+    [ "HandleScriptEffect", "d9/d63/a16477.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
+    [ "PrepareSpellScript", "d9/d63/a16477.html#a392c40d469c3c1e816d5dc364fde824c", null ],
+    [ "Register", "d9/d63/a16477.html#aa59c26b25ca0f440de36e450adf050a5", null ],
+    [ "Validate", "d9/d63/a16477.html#a370f83112d901f9565734b11d12858f4", null ]
 ];

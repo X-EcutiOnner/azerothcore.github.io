@@ -1,6 +1,6 @@
 var a16697 =
 [
-    [ "FilterTargets", "d8/d72/a16697.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "d8/d72/a16697.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "d8/d72/a16697.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "boss_saviana_ragefireAI", "d2/dd7/a16701.html", "d2/dd7/a16701" ],
+    [ "boss_saviana_ragefire", "d8/d72/a16697.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
+    [ "GetAI", "d8/d72/a16697.html#a0a0073d8710af066d9711636f4d5b01e", null ]
 ];

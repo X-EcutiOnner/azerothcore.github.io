@@ -1,6 +1,6 @@
 var a12069 =
 [
-    [ "EffectProcHandler", "d2/d4e/a12069.html#a613d5e85c3a7449e4f31719966dcdcc1", null ],
-    [ "Call", "d2/d4e/a12069.html#ae03d27451f687319629b3c54c5a7eed5", null ],
-    [ "_EffectHandlerScript", "d2/d4e/a12069.html#a8cb9ec4cfee59bc44063ac5cbf25844f", null ]
+    [ "ObjectTargetSelectHandler", "d2/d4e/a12069.html#abe96c3e266375ab64f8dec54a047a5b8", null ],
+    [ "Call", "d2/d4e/a12069.html#a7e18103fb5c68b2cf85f54bf7caf4b3b", null ],
+    [ "pObjectTargetSelectHandlerScript", "d2/d4e/a12069.html#a6982985537c0ddb8dd79647766c9ae70", null ]
 ];

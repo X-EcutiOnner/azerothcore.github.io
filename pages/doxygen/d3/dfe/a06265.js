@@ -1,11 +1,13 @@
 var a06265 =
 [
-    [ "AppliedFileEntry", "d3/dfe/a06265.html#ac925dd4c2f889ae84e8be8cba9a0ef06", null ],
-    [ "GetStateAsString", "d3/dfe/a06265.html#a803f0ee67f0d3944b0933cf97723b5d3", null ],
-    [ "StateConvert", "d3/dfe/a06265.html#a16274f0e9e6669be265ba75f79c4b10f", null ],
-    [ "StateConvert", "d3/dfe/a06265.html#ac35fc4abcc60015c56765ceebc6fdb8f", null ],
-    [ "hash", "d3/dfe/a06265.html#af39f798a10c2675e870d4d62f1d0a10c", null ],
-    [ "name", "d3/dfe/a06265.html#a8fc429eae6816054b5828952a5698a4c", null ],
-    [ "state", "d3/dfe/a06265.html#a7899f60d95db04e776b7ccfbc1003cfb", null ],
-    [ "timestamp", "d3/dfe/a06265.html#a13703e88b76f26858696b33a8bc8f862", null ]
+    [ "TransactionTask", "d3/dfe/a06265.html#a13573f827891ad172847dc0e466b0b9e", null ],
+    [ "~TransactionTask", "d3/dfe/a06265.html#a68bc982f025d40bbc3a7323cd8c96786", null ],
+    [ "CleanupOnFailure", "d3/dfe/a06265.html#adc2f1534bce5a7ce198eeeb510fcb533", null ],
+    [ "Execute", "d3/dfe/a06265.html#aa1c1df059d15fe2077ceea5cfb51ba22", null ],
+    [ "TryExecute", "d3/dfe/a06265.html#a28c9ca1d9d3fdc6a722dcec68e46a38f", null ],
+    [ "DatabaseWorker", "d3/dfe/a06265.html#ac8984f2167ec797d478f3a771d1c1c3f", null ],
+    [ "DatabaseWorkerPool", "d3/dfe/a06265.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
+    [ "TransactionCallback", "d3/dfe/a06265.html#ac3345f3314b133d53268f53e222cdc74", null ],
+    [ "_deadlockLock", "d3/dfe/a06265.html#a84b48dbb670dd884e9b44ea53c8b0008", null ],
+    [ "m_trans", "d3/dfe/a06265.html#a242f0cb47bc6b456b6bea9aa372df4b6", null ]
 ];

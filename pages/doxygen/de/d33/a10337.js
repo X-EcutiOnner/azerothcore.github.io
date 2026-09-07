@@ -1,9 +1,6 @@
 var a10337 =
 [
-    [ "ChaseAngle", "de/d33/a10337.html#a0744c615f437514a52b5a26fb717013a", null ],
-    [ "IsAngleOkay", "de/d33/a10337.html#aec86c653850655b723e5224ea20b0e21", null ],
-    [ "LowerBound", "de/d33/a10337.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
-    [ "UpperBound", "de/d33/a10337.html#a275d01ce57b23d42d4150b10c8433dee", null ],
-    [ "RelativeAngle", "de/d33/a10337.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
-    [ "Tolerance", "de/d33/a10337.html#a2bb42885da594380cb742c29b6518ea3", null ]
+    [ "SplineRawInitializer", "de/d33/a10337.html#a2aba4b3ca8e2312cc9e910ef4b3a5a26", null ],
+    [ "operator()", "de/d33/a10337.html#a878f8d8b2bc4b7c0e5c92d3055a437af", null ],
+    [ "_points", "de/d33/a10337.html#a3cea33c8d33407f7d2d8ea96a85a58c5", null ]
 ];

@@ -1,5 +1,6 @@
 var a20041 =
 [
-    [ "achievement_algalon_herald_of_the_titans", "de/dd3/a20041.html#a13c75b878f4669d212eeb09b55336384", null ],
-    [ "OnCheck", "de/dd3/a20041.html#a20811d7bb453b1758967c11545e630e9", null ]
+    [ "boss_sjonnir_dwarfAI", "d4/dce/a20045.html", "d4/dce/a20045" ],
+    [ "boss_sjonnir_dwarf", "de/dd3/a20041.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
+    [ "GetAI", "de/dd3/a20041.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
 ];

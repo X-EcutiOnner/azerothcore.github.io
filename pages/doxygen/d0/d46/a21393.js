@@ -1,10 +1,18 @@
 var a21393 =
 [
-    [ "npc_lurgglbrAI", "d0/d46/a21393.html#a9239b85c65f9b405335d432f355637d5", null ],
-    [ "Reset", "d0/d46/a21393.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
-    [ "UpdateAI", "d0/d46/a21393.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
-    [ "WaypointReached", "d0/d46/a21393.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
-    [ "WaypointReached", "d0/d46/a21393.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "IntroPhase", "d0/d46/a21393.html#a57e2c42cccf91765365e0b046446637a", null ],
-    [ "IntroTimer", "d0/d46/a21393.html#ada9762806ae0132e37197e6fb1279866", null ]
+    [ "boss_ymironAI", "d0/d46/a21393.html#a3a4d81b7a0f3f27f94fea60eff043696", null ],
+    [ "EnterEvadeMode", "d0/d46/a21393.html#a8fbc8526e82efea3e2eddedc421b85a2", null ],
+    [ "JustDied", "d0/d46/a21393.html#ad1da47485b8f17ea550a1b6bc943eb9a", null ],
+    [ "JustEngagedWith", "d0/d46/a21393.html#aed0cc8f034454db0046a5adce7f9d8a0", null ],
+    [ "KilledUnit", "d0/d46/a21393.html#ae1d69402520e1cf4d3a17c0ca9af35bd", null ],
+    [ "MovementInform", "d0/d46/a21393.html#a6e3c14da21d45bb7ddfba25d4487bba7", null ],
+    [ "Reset", "d0/d46/a21393.html#a2b6619a51641a82109e98fd4decd22e3", null ],
+    [ "SpellHitTarget", "d0/d46/a21393.html#a2f2782926ee9a59fc5188d02347f9ca8", null ],
+    [ "UpdateAI", "d0/d46/a21393.html#aaa447c1c6092bfc7c1d117d32b2c5673", null ],
+    [ "BoatNum", "d0/d46/a21393.html#ac5663f283d1a97fea1646c1ec230a7dc", null ],
+    [ "BoatOrder", "d0/d46/a21393.html#a319095910309b0a78d321c4d33994542", null ],
+    [ "events", "d0/d46/a21393.html#af2d8d9a2ec7ec5876c99ae909d3befd2", null ],
+    [ "pInstance", "d0/d46/a21393.html#a115529fcbc5a0c8b57152be49915d575", null ],
+    [ "summons", "d0/d46/a21393.html#aaa5d90d3940c84adebce772c594b0ee2", null ],
+    [ "summons2", "d0/d46/a21393.html#aa82280ec0e02924d653b62298ed7e471", null ]
 ];

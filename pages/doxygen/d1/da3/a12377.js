@@ -1,20 +1,9 @@
 var a12377 =
 [
-    [ "gobject_commandscript", "d1/da3/a12377.html#a664ffe7aa07b1e08156545675ae5dc69", null ],
-    [ "GetCommands", "d1/da3/a12377.html#a75124102670615a7b3a0ecd457ab631a", null ],
-    [ "HandleGameObjectActivateCommand", "d1/da3/a12377.html#a2512dfca6b1ae8a2476551a02caa202a", null ],
-    [ "HandleGameObjectAddCommand", "d1/da3/a12377.html#a23717867956cc0da99e3640d2b790346", null ],
-    [ "HandleGameObjectAddTempCommand", "d1/da3/a12377.html#a49908d7c180d778c43702563add17d2d", null ],
-    [ "HandleGameObjectDeleteCommand", "d1/da3/a12377.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
-    [ "HandleGameObjectDespawnGroupCommand", "d1/da3/a12377.html#ac9683961141c3115ac9309fa07175e64", null ],
-    [ "HandleGameObjectInfoCommand", "d1/da3/a12377.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
-    [ "HandleGameObjectLoadCommand", "d1/da3/a12377.html#a1d364680fd9c8f2be42e899e9e091676", null ],
-    [ "HandleGameObjectMoveCommand", "d1/da3/a12377.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
-    [ "HandleGameObjectNearCommand", "d1/da3/a12377.html#a156f293b3bf9c7439b62814ee8f27650", null ],
-    [ "HandleGameObjectRespawn", "d1/da3/a12377.html#aafed57aa556c8cdc0c380185b056d705", null ],
-    [ "HandleGameObjectSetPhaseCommand", "d1/da3/a12377.html#af2ac49c9fdd408be62dd4ee179c1142c", null ],
-    [ "HandleGameObjectSetStateCommand", "d1/da3/a12377.html#ae6d100f51d8b08e1576092eedc4db15f", null ],
-    [ "HandleGameObjectSpawnGroupCommand", "d1/da3/a12377.html#a9838f05a534f9d451fd935260ec46985", null ],
-    [ "HandleGameObjectTargetCommand", "d1/da3/a12377.html#a11d33046310495c0a6d883a307c95632", null ],
-    [ "HandleGameObjectTurnCommand", "d1/da3/a12377.html#a75883394613b2c3501cd48f5334199b7", null ]
+    [ "map", "d1/da3/a12377.html#a274c6d61203c24b3c680055244e1f590", null ],
+    [ "mouth", "d1/da3/a12377.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
+    [ "mouthGuid", "d1/da3/a12377.html#a2245c14e379c83bdd47165e829de2e41", null ],
+    [ "necropolisCount", "d1/da3/a12377.html#aec44e315616920ba8224be8c4831f5e9", null ],
+    [ "remainingNecropoli", "d1/da3/a12377.html#a3c18c61fcd44c32f9e0009479db85399", null ],
+    [ "zoneId", "d1/da3/a12377.html#a98e1490705f74627cf9e5483857f3f25", null ]
 ];

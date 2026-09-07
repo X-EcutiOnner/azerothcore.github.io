@@ -1,7 +1,8 @@
 var a15993 =
 [
-    [ "npc_thrall_warchiefAI", "dc/d24/a15997.html", "dc/d24/a15997" ],
-    [ "npc_thrall_warchief", "dd/d72/a15993.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
-    [ "GetAI", "dd/d72/a15993.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
-    [ "OnQuestReward", "dd/d72/a15993.html#a6576664c201d62cab1fa2f073cddee6e", null ]
+    [ "CheckRequirement", "dd/d72/a15993.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
+    [ "HandleDummy", "dd/d72/a15993.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
+    [ "PrepareSpellScript", "dd/d72/a15993.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
+    [ "Register", "dd/d72/a15993.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
+    [ "Validate", "dd/d72/a15993.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
 ];

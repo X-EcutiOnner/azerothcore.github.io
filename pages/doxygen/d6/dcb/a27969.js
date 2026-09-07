@@ -1,5 +1,6 @@
 var a27969 =
 [
-    [ "go_resonite_cask", "d6/dcb/a27969.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
-    [ "OnGossipHello", "d6/dcb/a27969.html#aae8591d53a6983886b52d404acdba293", null ]
+    [ "HandleScript", "d6/dcb/a27969.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
+    [ "PrepareSpellScript", "d6/dcb/a27969.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
+    [ "Register", "d6/dcb/a27969.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
 ];

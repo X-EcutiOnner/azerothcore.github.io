@@ -1,6 +1,5 @@
 var a14985 =
 [
-    [ "HandleDummy", "dd/d1a/a14985.html#a5e0797e5af760b618b1498f405766de8", null ],
-    [ "PrepareSpellScript", "dd/d1a/a14985.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
-    [ "Register", "dd/d1a/a14985.html#a2254e486bda73e07f8327c3412c7852b", null ]
+    [ "MidsummerPlayerScript", "dd/d1a/a14985.html#ace19c3dfaec5aa5bdfab46552a759306", null ],
+    [ "OnPlayerUpdateZone", "dd/d1a/a14985.html#af512e1744264ac69fe2b7f7ba3836760", null ]
 ];

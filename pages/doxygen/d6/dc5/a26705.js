@@ -1,8 +1,6 @@
 var a26705 =
 [
-    [ "HandleApplyEffect", "d6/dc5/a26705.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
-    [ "Load", "d6/dc5/a26705.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
-    [ "PrepareAuraScript", "d6/dc5/a26705.html#a6e212284f72320356cfa2f0c2a59999d", null ],
-    [ "Register", "d6/dc5/a26705.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
-    [ "Validate", "d6/dc5/a26705.html#a985a52f71371443454d6dd36f7fe83b2", null ]
+    [ "FilterTargets", "d6/dc5/a26705.html#aad5d183d0d7ea229cbfc11f751536624", null ],
+    [ "PrepareSpellScript", "d6/dc5/a26705.html#a68ba19142ae6eb04a2547495233700df", null ],
+    [ "Register", "d6/dc5/a26705.html#a22c313409438f94d29ab3e236a56c115", null ]
 ];

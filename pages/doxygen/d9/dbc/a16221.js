@@ -1,22 +1,13 @@
 var a16221 =
 [
-    [ "npc_sergeant_blyAI", "d9/dbc/a16221.html#a216f8b75707e25698619786b87500461", null ],
-    [ "DoAction", "d9/dbc/a16221.html#a4fb20172c48257aafe284b3934a9c357", null ],
-    [ "EnterEvadeMode", "d9/dbc/a16221.html#a2844efbb2f213401f83ab042f974974a", null ],
-    [ "InitializeAI", "d9/dbc/a16221.html#ae3abcf75a666c5bd722ca060fca4a12c", null ],
-    [ "MovementInform", "d9/dbc/a16221.html#acf32d74b4f0454f01f7313df6b35c4d3", null ],
-    [ "Reset", "d9/dbc/a16221.html#a2991ad4ecd6b236d7002c3dddd540b00", null ],
-    [ "sGossipHello", "d9/dbc/a16221.html#a342c8b5bd49e8cfd94c41a58159e4f5c", null ],
-    [ "sGossipSelect", "d9/dbc/a16221.html#a9df8eeb695736b2a182c38a69840e99f", null ],
-    [ "switchFactionIfAlive", "d9/dbc/a16221.html#a89cbd29300ca07b3366a197a7549edab", null ],
-    [ "UpdateAI", "d9/dbc/a16221.html#afdcbd6c79fb31d888c5b903deb04ad9d", null ],
-    [ "ableToPortHome", "d9/dbc/a16221.html#aa223fcf402ed5d99ea88275b357f398c", null ],
-    [ "instance", "d9/dbc/a16221.html#acf42a824739dd69d64c3b1e3eff6a944", null ],
-    [ "PlayerGUID", "d9/dbc/a16221.html#a188e306a05afa5f25271d17b4385b623", null ],
-    [ "Porthome_Timer", "d9/dbc/a16221.html#aeb17b772324aa2d985606659a2aee895", null ],
-    [ "postGossipStep", "d9/dbc/a16221.html#aca6869f05555499b210c09889d3f6684", null ],
-    [ "Revenge_Timer", "d9/dbc/a16221.html#af6263dbfa9e4cbc6f7812a10894f3dd2", null ],
-    [ "ShieldBash_Timer", "d9/dbc/a16221.html#a5ed567ac16bef8f53a66a12fbaf4573e", null ],
-    [ "startedFight", "d9/dbc/a16221.html#a7a037981d3d2a37abf0d3995283ac218", null ],
-    [ "Text_Timer", "d9/dbc/a16221.html#a97edb216194b16d273fe6098fdaba51e", null ]
+    [ "npc_cairne_bloodhoofAI", "d9/dbc/a16221.html#ac87f0d10b1886ffa24ae201fdb614441", null ],
+    [ "JustDied", "d9/dbc/a16221.html#a88bab853ee3f7445c1d5f0d4d1f3485b", null ],
+    [ "Reset", "d9/dbc/a16221.html#ab58f32a6bd1659b1a54fb056526c121a", null ],
+    [ "sGossipSelect", "d9/dbc/a16221.html#aa95b820eb4d3c6c5f1898a67c319b1a6", null ],
+    [ "UpdateAI", "d9/dbc/a16221.html#aefcbb7b2da6d1039055c27feeb1f5f9e", null ],
+    [ "_berserkerChargeTimer", "d9/dbc/a16221.html#a2efb1949abe83dadf62b5c868ae57fe2", null ],
+    [ "_cleaveTimer", "d9/dbc/a16221.html#ab1ed741e998cd7ed088cab3af378b3ca", null ],
+    [ "_mortalStrikeTimer", "d9/dbc/a16221.html#a9f33790662ce229669e5d1d6f2aac8b0", null ],
+    [ "_thunderclapTimer", "d9/dbc/a16221.html#a6bdca667875353db2badc40fd95a1ce4", null ],
+    [ "_uppercutTimer", "d9/dbc/a16221.html#a9f13acd7df900d9bdac64898b183c67d", null ]
 ];

@@ -1,7 +1,6 @@
 var a26925 =
 [
-    [ "HandleDummy", "dd/d45/a26925.html#ad2367c1fd551187b6f19f795abb15ea6", null ],
-    [ "PrepareSpellScript", "dd/d45/a26925.html#a125f7550ce826f74ac14902bc82d5021", null ],
-    [ "Register", "dd/d45/a26925.html#a35e9132e2414383caafbde699de6061d", null ],
-    [ "Validate", "dd/d45/a26925.html#a530489a10287a6dd281d518683b1a3f3", null ]
+    [ "FilterTargets", "dd/d45/a26925.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
+    [ "PrepareSpellScript", "dd/d45/a26925.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
+    [ "Register", "dd/d45/a26925.html#a4db02c58be57a797c26b07656d1b5409", null ]
 ];

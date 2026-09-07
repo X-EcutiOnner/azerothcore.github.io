@@ -1,6 +1,8 @@
 var a14421 =
 [
-    [ "boss_gahzranka", "de/dd5/a14421.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "de/dd5/a14421.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "de/dd5/a14421.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "npc_zulaman_hostageAI", "d9/d10/a14425.html", "d9/d10/a14425" ],
+    [ "npc_zulaman_hostage", "de/dd5/a14421.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "de/dd5/a14421.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "de/dd5/a14421.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "de/dd5/a14421.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

@@ -1,11 +1,12 @@
 var a20833 =
 [
-    [ "boss_yoggsaron_lich_king", "d2/d2e/a20833.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
-    [ "NextStep", "d2/d2e/a20833.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
-    [ "Reset", "d2/d2e/a20833.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
-    [ "Say", "d2/d2e/a20833.html#ac7687fe1253701c702cf2c17986727ec", null ],
-    [ "UpdateAI", "d2/d2e/a20833.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
-    [ "_checkTimer", "d2/d2e/a20833.html#a196ffc443569494bed79f623dd9cdca3", null ],
-    [ "_running", "d2/d2e/a20833.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
-    [ "_step", "d2/d2e/a20833.html#a97244534b8c6a69807388b620df2263f", null ]
+    [ "boss_thorim_lightning_orb", "d2/d2e/a20833.html#a04d4de44a41e62d6c1c4c68d3064a861", null ],
+    [ "AttackStart", "d2/d2e/a20833.html#a8e512ec039d93b1ceb7a2b8ee556fa56", null ],
+    [ "EnterEvadeMode", "d2/d2e/a20833.html#a855df9994de0901e56ac6f84d71ab7e4", null ],
+    [ "InitWaypoint", "d2/d2e/a20833.html#a46a7a73cb200d7bbaa7f38871c765254", null ],
+    [ "MoveInLineOfSight", "d2/d2e/a20833.html#a3577618ff9d5bdea191d840b6c968fad", null ],
+    [ "Reset", "d2/d2e/a20833.html#adeefc7cd014021305b77cc9c52102ce6", null ],
+    [ "WaypointReached", "d2/d2e/a20833.html#a3948ca0a57befa16e15e0d6ab97a0cbe", null ],
+    [ "WaypointReached", "d2/d2e/a20833.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "Timer", "d2/d2e/a20833.html#a79c24c42364c9932199ece2775f7a7f2", null ]
 ];

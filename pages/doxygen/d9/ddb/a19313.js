@@ -1,7 +1,6 @@
 var a19313 =
 [
-    [ "OnRemove", "d9/ddb/a19313.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "d9/ddb/a19313.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "d9/ddb/a19313.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "d9/ddb/a19313.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "npc_icc_severed_essenceAI", "dc/dea/a19317.html", "dc/dea/a19317" ],
+    [ "npc_icc_severed_essence", "d9/ddb/a19313.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
+    [ "GetAI", "d9/ddb/a19313.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
 ];

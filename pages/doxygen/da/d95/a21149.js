@@ -1,6 +1,6 @@
 var a21149 =
 [
-    [ "CalculateAmount", "da/d95/a21149.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "da/d95/a21149.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "da/d95/a21149.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "achievement_yogg_saron_darkness", "da/d95/a21149.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
+    [ "OnCheck", "da/d95/a21149.html#a809902fca87abaeb4334132763624ed6", null ],
+    [ "_keepersCount", "da/d95/a21149.html#a765ec4606bb489760ed1e15db10de1dc", null ]
 ];

@@ -1,5 +1,6 @@
 var a22257 =
 [
-    [ "achievement_wg_within_our_grasp", "d9/d60/a22257.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d9/d60/a22257.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "npc_mcmanus", "d9/d60/a22257.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
+    [ "OnGossipHello", "d9/d60/a22257.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
+    [ "OnGossipSelect", "d9/d60/a22257.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
 ];

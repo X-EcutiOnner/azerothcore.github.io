@@ -1,14 +1,10 @@
 var a15429 =
 [
-    [ "boss_ayamiss", "d3/da6/a15429.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
-    [ "DoAction", "d3/da6/a15429.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
-    [ "EnterEvadeMode", "d3/da6/a15429.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
-    [ "JustDied", "d3/da6/a15429.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
-    [ "JustEngagedWith", "d3/da6/a15429.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
-    [ "JustSummoned", "d3/da6/a15429.html#a4281f761256cd93c19aea0a76239512d", null ],
-    [ "MovementInform", "d3/da6/a15429.html#a6bc1f0767785efb5a5fb005b49338032", null ],
-    [ "Reset", "d3/da6/a15429.html#a10111f97236c2846181aa20f7d9b64fd", null ],
-    [ "ScheduleTasks", "d3/da6/a15429.html#a166238b9395a426a7333cf71a38c6c5c", null ],
-    [ "_swarmers", "d3/da6/a15429.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
-    [ "homePos", "d3/da6/a15429.html#ab098ee0f8872d1cf9d34993c01971921", null ]
+    [ "instance_maraudon_InstanceMapScript", "d3/da6/a15429.html#a9c46508320d3973006561444feae0586", null ],
+    [ "Initialize", "d3/da6/a15429.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
+    [ "OnGameObjectCreate", "d3/da6/a15429.html#a3a287b97db58c3489815f20ee0d37977", null ],
+    [ "ReadSaveDataMore", "d3/da6/a15429.html#ac2cd336874b25ad20dac104037de1df5", null ],
+    [ "SetData", "d3/da6/a15429.html#a6e90bf60a076c164e432128f7ec62fba", null ],
+    [ "WriteSaveDataMore", "d3/da6/a15429.html#a6e4072342e66689d343912de85e66b34", null ],
+    [ "_encounters", "d3/da6/a15429.html#af2e752a791d75e50001060c4a9f18173", null ]
 ];

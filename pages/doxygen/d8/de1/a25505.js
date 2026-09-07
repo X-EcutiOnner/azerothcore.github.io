@@ -1,6 +1,6 @@
 var a25505 =
 [
-    [ "CheckCast", "d8/de1/a25505.html#a7fa12be149f0cb2202142d7f44cde0a6", null ],
-    [ "PrepareSpellScript", "d8/de1/a25505.html#ad6867dad8bda358bd1479935c80b82e7", null ],
-    [ "Register", "d8/de1/a25505.html#a0ab2f1f2a87db93e54dc883c4e53d7ba", null ]
+    [ "HandleScriptEffect", "d8/de1/a25505.html#a78a131bdf6a1406604edd130c28d664b", null ],
+    [ "PrepareSpellScript", "d8/de1/a25505.html#a3b2d739227e57667a284ae4600ec1bb6", null ],
+    [ "Register", "d8/de1/a25505.html#a8a70913369aa733160366f37ff1c3470", null ]
 ];

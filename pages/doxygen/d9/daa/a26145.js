@@ -1,6 +1,7 @@
 var a26145 =
 [
-    [ "HandleStackDrop", "d9/daa/a26145.html#a8e452c968558f3bd273b18a8055745d2", null ],
-    [ "PrepareAuraScript", "d9/daa/a26145.html#aa18e4975db4e2831c61f38d990886676", null ],
-    [ "Register", "d9/daa/a26145.html#a04ebc4be3fea42ca2352fd441841f76e", null ]
+    [ "Load", "d9/daa/a26145.html#a8be944ae201f4f8406948aff78f982d9", null ],
+    [ "OnDummyEffect", "d9/daa/a26145.html#adcb707400963e549a295e115d6f3583b", null ],
+    [ "PrepareSpellScript", "d9/daa/a26145.html#a5b2175a933df10d775bc3381f515aa96", null ],
+    [ "Register", "d9/daa/a26145.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
 ];

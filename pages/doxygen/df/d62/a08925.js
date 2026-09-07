@@ -1,18 +1,7 @@
 var a08925 =
 [
-    [ "PlayerInfo", "df/d62/a08925.html#a8a26bdeb267824135b3f84baa2585baa", null ],
-    [ "action", "df/d62/a08925.html#a0f68412598a9741e9b5ce7a42c82d129", null ],
-    [ "areaId", "df/d62/a08925.html#a60d086c6e6879e6c5d8b5a24c0ae7bf8", null ],
-    [ "castSpells", "df/d62/a08925.html#a35ab273058db0828c91f01d823467e02", null ],
-    [ "customSpells", "df/d62/a08925.html#ab40e5fd724fab03afbbd38713e1dd4bf", null ],
-    [ "displayId_f", "df/d62/a08925.html#adf14854368c9351fe2fba3215194f2f9", null ],
-    [ "displayId_m", "df/d62/a08925.html#a2ce7d9aa7fc52bd9768c75b88f88b256", null ],
-    [ "item", "df/d62/a08925.html#ad76819034c64c0c691561eff683b7e57", null ],
-    [ "levelInfo", "df/d62/a08925.html#abbff546bbe2cc0ea643c41456c1f0d9f", null ],
-    [ "mapId", "df/d62/a08925.html#ad8d359374f74de40c1c591bb61976405", null ],
-    [ "orientation", "df/d62/a08925.html#a041a37c356d50860cab9f1ced33a28d0", null ],
-    [ "positionX", "df/d62/a08925.html#a55a076dc53e8c2d0b2ab11b1087ebccd", null ],
-    [ "positionY", "df/d62/a08925.html#a7314ecd469357e2eb46ed3d133a5a7a0", null ],
-    [ "positionZ", "df/d62/a08925.html#ad21a8dd3353d3f141bcc9af65e607aee", null ],
-    [ "skills", "df/d62/a08925.html#a3bec7891e115ab3cff40c3d95174981c", null ]
+    [ "IsInSpec", "df/d62/a08925.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
+    [ "Active", "df/d62/a08925.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
+    [ "specMask", "df/d62/a08925.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
+    [ "State", "df/d62/a08925.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
 ];

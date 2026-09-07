@@ -1,5 +1,6 @@
 var a22269 =
 [
-    [ "go_finklestein_cauldron", "d8/deb/a22269.html#a8aa352319c54526069588dacd75ab883", null ],
-    [ "OnGossipHello", "d8/deb/a22269.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
+    [ "npc_vekjik", "d8/deb/a22269.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "d8/deb/a22269.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "d8/deb/a22269.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

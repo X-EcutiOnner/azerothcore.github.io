@@ -1,8 +1,4 @@
 var a05829 =
 [
-    [ "result_type", "dc/d5f/a05829.html#a20f96383bade76c6185d8f20f458784e", null ],
-    [ "Instance", "dc/d5f/a05829.html#a5ff7fcb1f8d34861b0c210eddc450681", null ],
-    [ "max", "dc/d5f/a05829.html#ad5dcf280f768ebd79210caf6ecff4290", null ],
-    [ "min", "dc/d5f/a05829.html#ab153ffca65139db4084745302dd4db7f", null ],
-    [ "operator()", "dc/d5f/a05829.html#afe5f6dd94cbc6add3fd13fa3fe37b60d", null ]
+    [ "~Base", "dc/d5f/a05829.html#a124eb44dd53aa6e964e691b12bcb8d57", null ]
 ];

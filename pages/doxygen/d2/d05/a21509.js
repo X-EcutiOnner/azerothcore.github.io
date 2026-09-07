@@ -1,6 +1,8 @@
 var a21509 =
 [
-    [ "npc_archmage_landalockAI", "db/ddd/a21513.html", "db/ddd/a21513" ],
-    [ "npc_archmage_landalock", "d2/d05/a21509.html#ac7379ff07740123312af66ead64df4c6", null ],
-    [ "GetAI", "d2/d05/a21509.html#a92cfa8c2660413681297bfe12815c938", null ]
+    [ "boss_lavanthor", "d2/d05/a21509.html#ad264818ef0f539c48160de9dbebeac7f", null ],
+    [ "EnterEvadeMode", "d2/d05/a21509.html#aee499fcde639aaca7131dba9cca1d4d0", null ],
+    [ "ExecuteEvent", "d2/d05/a21509.html#a16d7cd5596c20c3663d63549b33c8b4a", null ],
+    [ "JustEngagedWith", "d2/d05/a21509.html#a4bc5fa66192daab98027539efda37bdc", null ],
+    [ "MoveInLineOfSight", "d2/d05/a21509.html#a6f68cd280561b428400a08a155f83ccb", null ]
 ];

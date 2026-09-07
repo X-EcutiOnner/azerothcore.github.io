@@ -1,8 +1,11 @@
 var a05689 =
 [
-    [ "LogOperation", "d2/d72/a05689.html#a19e5e4731bd71697876110348f86d737", null ],
-    [ "~LogOperation", "d2/d72/a05689.html#aae305e293044badac1a628edd501ed35", null ],
-    [ "call", "d2/d72/a05689.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
-    [ "logger", "d2/d72/a05689.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
-    [ "msg", "d2/d72/a05689.html#a665effc48367f396f3e714f5d3d56d75", null ]
+    [ "Decode", "d2/d72/a05689.html#a1017c0ca9db8f38832271dbe04a6c22c", null ],
+    [ "DecodedSize", "d2/d72/a05689.html#ae7f09527200686c22611e59e995a17ef", null ],
+    [ "Encode", "d2/d72/a05689.html#a9132df0434948b03df8f79b6cc48252c", null ],
+    [ "EncodedSize", "d2/d72/a05689.html#ab6808fd4c674e10ce28153394189abf5", null ],
+    [ "BITS_PER_CHAR", "d2/d72/a05689.html#a04facbd14c7d876af5154cb200d74e6b", null ],
+    [ "DECODE_ERROR", "d2/d72/a05689.html#ab52b675a0956909cdac9413443551086", null ],
+    [ "PAD_TO", "d2/d72/a05689.html#a8cec4e14ca170842d1eadf8b7b42b12b", null ],
+    [ "PADDING", "d2/d72/a05689.html#a328b2cd9dc377fb8d5b6740cde162b92", null ]
 ];

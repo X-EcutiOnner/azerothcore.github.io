@@ -1,7 +1,7 @@
 var a25541 =
 [
-    [ "HandleProc", "d1/d78/a25541.html#a202ed9cca388b984f0dfebb64a512c47", null ],
-    [ "PrepareAuraScript", "d1/d78/a25541.html#a133ff30c99bd6521d83e2de2361a5123", null ],
-    [ "Register", "d1/d78/a25541.html#a6cab1853296da43b4a4cb39bedb20ffa", null ],
-    [ "Validate", "d1/d78/a25541.html#a39b41d1560869ef9a1231fd39d0a652f", null ]
+    [ "HandleScript", "d1/d78/a25541.html#a12f4c4a85f19ceb55d274428cf2b25a4", null ],
+    [ "PrepareSpellScript", "d1/d78/a25541.html#acf1173670c35c84ae7aba29be00d31cf", null ],
+    [ "Register", "d1/d78/a25541.html#a5a2c59463a0546b6f5cd375b3671b86b", null ],
+    [ "Validate", "d1/d78/a25541.html#a437a018fd6917bee51bdbba7cf29e53d", null ]
 ];

@@ -1,8 +1,5 @@
 var a20729 =
 [
-    [ "OnPeriodic", "d8/df9/a20729.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "d8/df9/a20729.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "d8/df9/a20729.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "d8/df9/a20729.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "d8/df9/a20729.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_11", "d8/df9/a20729.html#a5d8980111e029b4c9311737f3985ab61", null ],
+    [ "OnCheck", "d8/df9/a20729.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
 ];

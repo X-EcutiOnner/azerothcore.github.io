@@ -1,10 +1,5 @@
 var a23557 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d0/d9a/a23557.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
-    [ "GetGuidData", "d0/d9a/a23557.html#aa4bedf168359eaf5332476a6de99c830", null ],
-    [ "OnGameObjectCreate", "d0/d9a/a23557.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
-    [ "SetBossState", "d0/d9a/a23557.html#a2937e4ea47af542a476bd3399ecc7233", null ],
-    [ "SetData", "d0/d9a/a23557.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
-    [ "StasisPodGUIDs", "d0/d9a/a23557.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
-    [ "WardensShieldGUID", "d0/d9a/a23557.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
+    [ "npc_invisible_tractor_beam_source", "d0/d9a/a23557.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
+    [ "IsSummonedBy", "d0/d9a/a23557.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
 ];

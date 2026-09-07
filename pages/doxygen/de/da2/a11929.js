@@ -1,7 +1,7 @@
 var a11929 =
 [
-    [ "maxvalue", "de/da2/a11929.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
-    [ "skill", "de/da2/a11929.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
-    [ "step", "de/da2/a11929.html#a1c882f7d43c65954cb99566225660312", null ],
-    [ "value", "de/da2/a11929.html#a064fece53cdaf07b072510b14200a968", null ]
+    [ "SpellImmune", "de/da2/a11929.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
+    [ "blockType", "de/da2/a11929.html#a13a353d02a7330820df170eb46e7a26d", null ],
+    [ "spellId", "de/da2/a11929.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
+    [ "type", "de/da2/a11929.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
 ];

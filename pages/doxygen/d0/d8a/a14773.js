@@ -1,13 +1,7 @@
 var a14773 =
 [
-    [ "npc_alexstraza_the_lifebinder", "d0/d8a/a14773.html#a7c30258540803bde75843cb070b6a288", null ],
-    [ "MoveInLineOfSight", "d0/d8a/a14773.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
-    [ "Reset", "d0/d8a/a14773.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
-    [ "SetData", "d0/d8a/a14773.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
-    [ "sGossipSelect", "d0/d8a/a14773.html#a642390a59ff46236dc3b429f371ea8cd", null ],
-    [ "UpdateAI", "d0/d8a/a14773.html#ad13b21d571833210b1c069b7ea8bea05", null ],
-    [ "orphanGUID", "d0/d8a/a14773.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
-    [ "phase", "d0/d8a/a14773.html#a98216e43888854ac93f22169a0e253e5", null ],
-    [ "playerGUID", "d0/d8a/a14773.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
-    [ "timer", "d0/d8a/a14773.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
+    [ "npc_direbrew_minion", "d0/d8a/a14773.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "d0/d8a/a14773.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "d0/d8a/a14773.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "d0/d8a/a14773.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

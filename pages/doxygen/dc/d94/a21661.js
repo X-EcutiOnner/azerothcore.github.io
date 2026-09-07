@@ -1,7 +1,6 @@
 var a21661 =
 [
-    [ "FilterTargets", "dc/d94/a21661.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "dc/d94/a21661.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "dc/d94/a21661.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "dc/d94/a21661.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "npc_warmage_coldarraAI", "da/d83/a21665.html", "da/d83/a21665" ],
+    [ "npc_warmage_coldarra", "dc/d94/a21661.html#a358f8ab26991798ff076ac764cd7abe2", null ],
+    [ "GetAI", "dc/d94/a21661.html#aa29181e0ad61b44eff685267f3231382", null ]
 ];

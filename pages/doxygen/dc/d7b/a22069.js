@@ -1,11 +1,7 @@
 var a22069 =
 [
-    [ "npc_iron_watcherAI", "dc/d7b/a22069.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
-    [ "MovementInform", "dc/d7b/a22069.html#aaf329f0160efa778abdebf86b1cf230b", null ],
-    [ "Reset", "dc/d7b/a22069.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
-    [ "SpellHit", "dc/d7b/a22069.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
-    [ "UpdateAI", "dc/d7b/a22069.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
-    [ "charging", "dc/d7b/a22069.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
-    [ "hpTimer", "dc/d7b/a22069.html#afcbb113387345361baf0351a19e6eb1d", null ],
-    [ "spellTimer", "dc/d7b/a22069.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
+    [ "npc_plaguehound_trackerAI", "dc/d7b/a22069.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "dc/d7b/a22069.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "dc/d7b/a22069.html#a67c345f49572cde76d9109a1baff6788", null ],
+    [ "WaypointReached", "dc/d7b/a22069.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

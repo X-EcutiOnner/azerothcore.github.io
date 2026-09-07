@@ -1,6 +1,6 @@
 var a18201 =
 [
-    [ "AbominationDespawner", "d8/d88/a18201.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
-    [ "operator()", "d8/d88/a18201.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
-    [ "_owner", "d8/d88/a18201.html#af9089e566905b885887a5714ad5b0741", null ]
+    [ "npc_darnavanAI", "d9/da1/a18205.html", "d9/da1/a18205" ],
+    [ "npc_darnavan", "d8/d88/a18201.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "d8/d88/a18201.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

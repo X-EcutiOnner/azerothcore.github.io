@@ -1,6 +1,6 @@
 var a22753 =
 [
-    [ "FilterTargets", "d5/de0/a22753.html#a04973145ed594b88afe2acc0cacb10c6", null ],
-    [ "PrepareSpellScript", "d5/de0/a22753.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
-    [ "Register", "d5/de0/a22753.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "d6/dd4/a22757.html", "d6/dd4/a22757" ],
+    [ "instance_sethekk_halls", "d5/de0/a22753.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "d5/de0/a22753.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

@@ -1,6 +1,6 @@
 var a14673 =
 [
-    [ "HandleAfterHit", "de/d33/a14673.html#a4a3122d1b69baeae76f1ae3b6818bfb5", null ],
-    [ "PrepareSpellScript", "de/d33/a14673.html#a284796ec70bdfaea9919f54da94f0021", null ],
-    [ "Register", "de/d33/a14673.html#a30dcb608c20df17de9597ece1930d59d", null ]
+    [ "boss_wushoolayAI", "de/d33/a14673.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
+    [ "JustEngagedWith", "de/d33/a14673.html#af519da543fff63a39a6fbe48f90f2f22", null ],
+    [ "UpdateAI", "de/d33/a14673.html#acfaacee2a97212eb15056c1552b9e06b", null ]
 ];

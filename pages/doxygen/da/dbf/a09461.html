@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: GridCell&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt; Class Template Reference</title>
+<title>AzerothCore: QuestPOI Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,57 +106,53 @@ $(document).ready(function(){initNavTree('da/dbf/a09461.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d2/d63/a09458.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">GridCell&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">QuestPOI Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">GridCell.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a042be8f85e83068d4bb39a0de0618146"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#a042be8f85e83068d4bb39a0de0618146">~GridCell</a> ()=default</td></tr>
-<tr class="separator:a042be8f85e83068d4bb39a0de0618146"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab64f99dd9997ff6df1f1db25a8d95d19"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_OBJECT &gt; </td></tr>
-<tr class="memitem:ab64f99dd9997ff6df1f1db25a8d95d19"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#ab64f99dd9997ff6df1f1db25a8d95d19">AddGridObject</a> (SPECIFIC_OBJECT *obj)</td></tr>
-<tr class="separator:ab64f99dd9997ff6df1f1db25a8d95d19"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa0c4e5dac57c41d8fce303fb943585a0"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr class="memitem:aa0c4e5dac57c41d8fce303fb943585a0"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#aa0c4e5dac57c41d8fce303fb943585a0">Visit</a> (<a class="el" href="../../db/d7d/a05625.html">TypeContainerVisitor</a>&lt; T, <a class="el" href="../../dc/daa/a05613.html">TypeMapContainer</a>&lt; GRID_OBJECT_TYPES &gt; &gt; &amp;visitor)</td></tr>
-<tr class="separator:aa0c4e5dac57c41d8fce303fb943585a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9a81bdbf151463b4687227df0fa39ece"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_OBJECT &gt; </td></tr>
-<tr class="memitem:a9a81bdbf151463b4687227df0fa39ece"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#a9a81bdbf151463b4687227df0fa39ece">AddFarVisibleObject</a> (SPECIFIC_OBJECT *obj)</td></tr>
-<tr class="separator:a9a81bdbf151463b4687227df0fa39ece"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8f76d2ad6abd96506d084a7e47bb8f6b"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_OBJECT &gt; </td></tr>
-<tr class="memitem:a8f76d2ad6abd96506d084a7e47bb8f6b"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#a8f76d2ad6abd96506d084a7e47bb8f6b">RemoveFarVisibleObject</a> (SPECIFIC_OBJECT *obj)</td></tr>
-<tr class="separator:a8f76d2ad6abd96506d084a7e47bb8f6b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8bc3a1bda26adb9a2e752afc0a7d56bd"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr class="memitem:a8bc3a1bda26adb9a2e752afc0a7d56bd"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#a8bc3a1bda26adb9a2e752afc0a7d56bd">Visit</a> (<a class="el" href="../../db/d7d/a05625.html">TypeContainerVisitor</a>&lt; T, <a class="el" href="../../d1/df2/a05617.html">TypeVectorContainer</a>&lt; FAR_VISIBLE_OBJECT_TYPES &gt; &gt; &amp;visitor)</td></tr>
-<tr class="separator:a8bc3a1bda26adb9a2e752afc0a7d56bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af4ce75549d1fff2042e98683119214a6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#af4ce75549d1fff2042e98683119214a6">QuestPOI</a> ()=default</td></tr>
+<tr class="separator:af4ce75549d1fff2042e98683119214a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4cf252fabc68cf11df5d44f192955a0b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#a4cf252fabc68cf11df5d44f192955a0b">QuestPOI</a> (<a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id, <a class="el" href="../../d0/d5e/a04655.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> objIndex, <a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapId, <a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaId, <a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> floorId, <a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> unk3, <a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> unk4)</td></tr>
+<tr class="separator:a4cf252fabc68cf11df5d44f192955a0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:ac5a741aebc11124aa228e5107e664335"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/daa/a05613.html">TypeMapContainer</a>&lt; GRID_OBJECT_TYPES &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#ac5a741aebc11124aa228e5107e664335">_gridObjects</a></td></tr>
-<tr class="separator:ac5a741aebc11124aa228e5107e664335"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2a331c36ea678eb0c9ca6d20b820428f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/df2/a05617.html">TypeVectorContainer</a>&lt; FAR_VISIBLE_OBJECT_TYPES &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#a2a331c36ea678eb0c9ca6d20b820428f">_farVisibleObjects</a></td></tr>
-<tr class="separator:a2a331c36ea678eb0c9ca6d20b820428f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:aace0de15249c756ba3cbd5763cbb3f98"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#aace0de15249c756ba3cbd5763cbb3f98">Id</a> {0}</td></tr>
+<tr class="separator:aace0de15249c756ba3cbd5763cbb3f98"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad80f65110beacd44e667008387e6bb70"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#ad80f65110beacd44e667008387e6bb70">ObjectiveIndex</a> {0}</td></tr>
+<tr class="separator:ad80f65110beacd44e667008387e6bb70"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a851f8e6e62373d2592173534754d757b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#a851f8e6e62373d2592173534754d757b">MapId</a> {0}</td></tr>
+<tr class="separator:a851f8e6e62373d2592173534754d757b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad81f08fa2bc5fd0ccd81d0efc42ce804"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#ad81f08fa2bc5fd0ccd81d0efc42ce804">AreaId</a> {0}</td></tr>
+<tr class="separator:ad81f08fa2bc5fd0ccd81d0efc42ce804"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1af6ed9fdb9ff429e18fb5d98a42ce45"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#a1af6ed9fdb9ff429e18fb5d98a42ce45">FloorId</a> {0}</td></tr>
+<tr class="separator:a1af6ed9fdb9ff429e18fb5d98a42ce45"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f1d8fa843c856b54ec1ca85b08d78e1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#a1f1d8fa843c856b54ec1ca85b08d78e1">Unk3</a> {0}</td></tr>
+<tr class="separator:a1f1d8fa843c856b54ec1ca85b08d78e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8089160bb8e93ea79df96b956050b70"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#aa8089160bb8e93ea79df96b956050b70">Unk4</a> {0}</td></tr>
+<tr class="separator:aa8089160bb8e93ea79df96b956050b70"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeb505cb061a00ecaa2acc749e391f207"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d4/d2c/a09457.html">QuestPOIPoint</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dbf/a09461.html#aeb505cb061a00ecaa2acc749e391f207">points</a></td></tr>
+<tr class="separator:aeb505cb061a00ecaa2acc749e391f207"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;class GRID_OBJECT_TYPES, class FAR_VISIBLE_OBJECT_TYPES&gt;<br />
-class GridCell&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a042be8f85e83068d4bb39a0de0618146" name="a042be8f85e83068d4bb39a0de0618146"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a042be8f85e83068d4bb39a0de0618146">&#9670;&#160;</a></span>~GridCell()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="af4ce75549d1fff2042e98683119214a6" name="af4ce75549d1fff2042e98683119214a6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af4ce75549d1fff2042e98683119214a6">&#9670;&#160;</a></span>QuestPOI() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class GRID_OBJECT_TYPES , class FAR_VISIBLE_OBJECT_TYPES &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/dbf/a09461.html">GridCell</a>&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::~<a class="el" href="../../da/dbf/a09461.html">GridCell</a> </td>
+          <td class="memname">QuestPOI::QuestPOI </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -171,26 +167,61 @@ template&lt;class GRID_OBJECT_TYPES , class FAR_VISIBLE_OBJECT_TYPES &gt; </div>
 
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a9a81bdbf151463b4687227df0fa39ece" name="a9a81bdbf151463b4687227df0fa39ece"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9a81bdbf151463b4687227df0fa39ece">&#9670;&#160;</a></span>AddFarVisibleObject()</h2>
+<a id="a4cf252fabc68cf11df5d44f192955a0b" name="a4cf252fabc68cf11df5d44f192955a0b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4cf252fabc68cf11df5d44f192955a0b">&#9670;&#160;</a></span>QuestPOI() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class GRID_OBJECT_TYPES , class FAR_VISIBLE_OBJECT_TYPES &gt; </div>
-<div class="memtemplate">
-template&lt;class SPECIFIC_OBJECT &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../da/dbf/a09461.html">GridCell</a>&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::AddFarVisibleObject </td>
+          <td class="memname">QuestPOI::QuestPOI </td>
           <td>(</td>
-          <td class="paramtype">SPECIFIC_OBJECT *&#160;</td>
-          <td class="paramname"><em>obj</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d5e/a04655.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>objIndex</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>mapId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>areaId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>floorId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>unk3</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>unk4</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -199,217 +230,127 @@ template&lt;class SPECIFIC_OBJECT &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   64</span>    {</div>
-<div class="line"><span class="lineno">   65</span>        <a class="code hl_variable" href="../../da/dbf/a09461.html#a2a331c36ea678eb0c9ca6d20b820428f">_farVisibleObjects</a>.template Insert&lt;SPECIFIC_OBJECT&gt;(obj);</div>
-<div class="line"><span class="lineno">   66</span>    }</div>
-<div class="ttc" id="aa09461_html_a2a331c36ea678eb0c9ca6d20b820428f"><div class="ttname"><a href="../../da/dbf/a09461.html#a2a331c36ea678eb0c9ca6d20b820428f">GridCell::_farVisibleObjects</a></div><div class="ttdeci">TypeVectorContainer&lt; FAR_VISIBLE_OBJECT_TYPES &gt; _farVisibleObjects</div><div class="ttdef"><b>Definition:</b> GridCell.h:83</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  664</span>: <a class="code hl_variable" href="../../da/dbf/a09461.html#aace0de15249c756ba3cbd5763cbb3f98">Id</a>(<span class="keywordtype">id</span>), <a class="code hl_variable" href="../../da/dbf/a09461.html#ad80f65110beacd44e667008387e6bb70">ObjectiveIndex</a>(objIndex), <a class="code hl_variable" href="../../da/dbf/a09461.html#a851f8e6e62373d2592173534754d757b">MapId</a>(mapId), <a class="code hl_variable" href="../../da/dbf/a09461.html#ad81f08fa2bc5fd0ccd81d0efc42ce804">AreaId</a>(areaId), <a class="code hl_variable" href="../../da/dbf/a09461.html#a1af6ed9fdb9ff429e18fb5d98a42ce45">FloorId</a>(floorId), <a class="code hl_variable" href="../../da/dbf/a09461.html#a1f1d8fa843c856b54ec1ca85b08d78e1">Unk3</a>(unk3), <a class="code hl_variable" href="../../da/dbf/a09461.html#aa8089160bb8e93ea79df96b956050b70">Unk4</a>(unk4) {}</div>
+<div class="ttc" id="aa09461_html_a1af6ed9fdb9ff429e18fb5d98a42ce45"><div class="ttname"><a href="../../da/dbf/a09461.html#a1af6ed9fdb9ff429e18fb5d98a42ce45">QuestPOI::FloorId</a></div><div class="ttdeci">uint32 FloorId</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:658</div></div>
+<div class="ttc" id="aa09461_html_a1f1d8fa843c856b54ec1ca85b08d78e1"><div class="ttname"><a href="../../da/dbf/a09461.html#a1f1d8fa843c856b54ec1ca85b08d78e1">QuestPOI::Unk3</a></div><div class="ttdeci">uint32 Unk3</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:659</div></div>
+<div class="ttc" id="aa09461_html_a851f8e6e62373d2592173534754d757b"><div class="ttname"><a href="../../da/dbf/a09461.html#a851f8e6e62373d2592173534754d757b">QuestPOI::MapId</a></div><div class="ttdeci">uint32 MapId</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:656</div></div>
+<div class="ttc" id="aa09461_html_aa8089160bb8e93ea79df96b956050b70"><div class="ttname"><a href="../../da/dbf/a09461.html#aa8089160bb8e93ea79df96b956050b70">QuestPOI::Unk4</a></div><div class="ttdeci">uint32 Unk4</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:660</div></div>
+<div class="ttc" id="aa09461_html_aace0de15249c756ba3cbd5763cbb3f98"><div class="ttname"><a href="../../da/dbf/a09461.html#aace0de15249c756ba3cbd5763cbb3f98">QuestPOI::Id</a></div><div class="ttdeci">uint32 Id</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:654</div></div>
+<div class="ttc" id="aa09461_html_ad80f65110beacd44e667008387e6bb70"><div class="ttname"><a href="../../da/dbf/a09461.html#ad80f65110beacd44e667008387e6bb70">QuestPOI::ObjectiveIndex</a></div><div class="ttdeci">int32 ObjectiveIndex</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:655</div></div>
+<div class="ttc" id="aa09461_html_ad81f08fa2bc5fd0ccd81d0efc42ce804"><div class="ttname"><a href="../../da/dbf/a09461.html#ad81f08fa2bc5fd0ccd81d0efc42ce804">QuestPOI::AreaId</a></div><div class="ttdeci">uint32 AreaId</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:657</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00083">GridCell&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::_farVisibleObjects</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00059">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::AddFarVisibleObject()</a>.</p>
-
-</div>
-</div>
-<a id="ab64f99dd9997ff6df1f1db25a8d95d19" name="ab64f99dd9997ff6df1f1db25a8d95d19"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab64f99dd9997ff6df1f1db25a8d95d19">&#9670;&#160;</a></span>AddGridObject()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class GRID_OBJECT_TYPES , class FAR_VISIBLE_OBJECT_TYPES &gt; </div>
-<div class="memtemplate">
-template&lt;class SPECIFIC_OBJECT &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../da/dbf/a09461.html">GridCell</a>&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::AddGridObject </td>
-          <td>(</td>
-          <td class="paramtype">SPECIFIC_OBJECT *&#160;</td>
-          <td class="paramname"><em>obj</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   50</span>    {</div>
-<div class="line"><span class="lineno">   51</span>        <a class="code hl_variable" href="../../da/dbf/a09461.html#ac5a741aebc11124aa228e5107e664335">_gridObjects</a>.template insert&lt;SPECIFIC_OBJECT&gt;(obj);</div>
-<div class="line"><span class="lineno">   52</span>        <a class="code hl_define" href="../../d6/d71/a04598.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(obj-&gt;IsInGrid());</div>
-<div class="line"><span class="lineno">   53</span>    }</div>
-<div class="ttc" id="aa04598_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d6/d71/a04598.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
-<div class="ttc" id="aa09461_html_ac5a741aebc11124aa228e5107e664335"><div class="ttname"><a href="../../da/dbf/a09461.html#ac5a741aebc11124aa228e5107e664335">GridCell::_gridObjects</a></div><div class="ttdeci">TypeMapContainer&lt; GRID_OBJECT_TYPES &gt; _gridObjects</div><div class="ttdef"><b>Definition:</b> GridCell.h:82</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00082">GridCell&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::_gridObjects</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00049">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::AddGridObject()</a>.</p>
-
-</div>
-</div>
-<a id="a8f76d2ad6abd96506d084a7e47bb8f6b" name="a8f76d2ad6abd96506d084a7e47bb8f6b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8f76d2ad6abd96506d084a7e47bb8f6b">&#9670;&#160;</a></span>RemoveFarVisibleObject()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class GRID_OBJECT_TYPES , class FAR_VISIBLE_OBJECT_TYPES &gt; </div>
-<div class="memtemplate">
-template&lt;class SPECIFIC_OBJECT &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../da/dbf/a09461.html">GridCell</a>&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::RemoveFarVisibleObject </td>
-          <td>(</td>
-          <td class="paramtype">SPECIFIC_OBJECT *&#160;</td>
-          <td class="paramname"><em>obj</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   70</span>    {</div>
-<div class="line"><span class="lineno">   71</span>        <a class="code hl_variable" href="../../da/dbf/a09461.html#a2a331c36ea678eb0c9ca6d20b820428f">_farVisibleObjects</a>.template Remove&lt;SPECIFIC_OBJECT&gt;(obj);</div>
-<div class="line"><span class="lineno">   72</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00083">GridCell&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::_farVisibleObjects</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00064">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::RemoveFarVisibleObject()</a>.</p>
-
-</div>
-</div>
-<a id="aa0c4e5dac57c41d8fce303fb943585a0" name="aa0c4e5dac57c41d8fce303fb943585a0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa0c4e5dac57c41d8fce303fb943585a0">&#9670;&#160;</a></span>Visit() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class GRID_OBJECT_TYPES , class FAR_VISIBLE_OBJECT_TYPES &gt; </div>
-<div class="memtemplate">
-template&lt;class T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../da/dbf/a09461.html">GridCell</a>&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::Visit </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d7d/a05625.html">TypeContainerVisitor</a>&lt; T, <a class="el" href="../../dc/daa/a05613.html">TypeMapContainer</a>&lt; GRID_OBJECT_TYPES &gt; &gt; &amp;&#160;</td>
-          <td class="paramname"><em>visitor</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   58</span>    {</div>
-<div class="line"><span class="lineno">   59</span>        visitor.<a class="code hl_function" href="../../db/d7d/a05625.html#af8110dd70655223f06fb08b552420a6d">Visit</a>(<a class="code hl_variable" href="../../da/dbf/a09461.html#ac5a741aebc11124aa228e5107e664335">_gridObjects</a>);</div>
-<div class="line"><span class="lineno">   60</span>    }</div>
-<div class="ttc" id="aa05625_html_af8110dd70655223f06fb08b552420a6d"><div class="ttname"><a href="../../db/d7d/a05625.html#af8110dd70655223f06fb08b552420a6d">TypeContainerVisitor::Visit</a></div><div class="ttdeci">void Visit(TYPE_CONTAINER &amp;c)</div><div class="ttdef"><b>Definition:</b> TypeContainerVisitor.h:109</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00082">GridCell&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::_gridObjects</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00087">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::VisitCell()</a>.</p>
-
-</div>
-</div>
-<a id="a8bc3a1bda26adb9a2e752afc0a7d56bd" name="a8bc3a1bda26adb9a2e752afc0a7d56bd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8bc3a1bda26adb9a2e752afc0a7d56bd">&#9670;&#160;</a></span>Visit() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class GRID_OBJECT_TYPES , class FAR_VISIBLE_OBJECT_TYPES &gt; </div>
-<div class="memtemplate">
-template&lt;class T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../da/dbf/a09461.html">GridCell</a>&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::Visit </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d7d/a05625.html">TypeContainerVisitor</a>&lt; T, <a class="el" href="../../d1/df2/a05617.html">TypeVectorContainer</a>&lt; FAR_VISIBLE_OBJECT_TYPES &gt; &gt; &amp;&#160;</td>
-          <td class="paramname"><em>visitor</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   77</span>    {</div>
-<div class="line"><span class="lineno">   78</span>        visitor.<a class="code hl_function" href="../../db/d7d/a05625.html#af8110dd70655223f06fb08b552420a6d">Visit</a>(<a class="code hl_variable" href="../../da/dbf/a09461.html#a2a331c36ea678eb0c9ca6d20b820428f">_farVisibleObjects</a>);</div>
-<div class="line"><span class="lineno">   79</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00083">GridCell&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::_farVisibleObjects</a>.</p>
-
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a2a331c36ea678eb0c9ca6d20b820428f" name="a2a331c36ea678eb0c9ca6d20b820428f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2a331c36ea678eb0c9ca6d20b820428f">&#9670;&#160;</a></span>_farVisibleObjects</h2>
+<a id="ad81f08fa2bc5fd0ccd81d0efc42ce804" name="ad81f08fa2bc5fd0ccd81d0efc42ce804"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad81f08fa2bc5fd0ccd81d0efc42ce804">&#9670;&#160;</a></span>AreaId</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class GRID_OBJECT_TYPES , class FAR_VISIBLE_OBJECT_TYPES &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/df2/a05617.html">TypeVectorContainer</a>&lt;FAR_VISIBLE_OBJECT_TYPES&gt; <a class="el" href="../../da/dbf/a09461.html">GridCell</a>&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::_farVisibleObjects</td>
+          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> QuestPOI::AreaId {0}</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00063">GridCell&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::AddFarVisibleObject()</a>, <a class="el" href="../../#l00069">GridCell&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::RemoveFarVisibleObject()</a>, and <a class="el" href="../../#l00076">GridCell&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::Visit()</a>.</p>
-
 </div>
 </div>
-<a id="ac5a741aebc11124aa228e5107e664335" name="ac5a741aebc11124aa228e5107e664335"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac5a741aebc11124aa228e5107e664335">&#9670;&#160;</a></span>_gridObjects</h2>
+<a id="a1af6ed9fdb9ff429e18fb5d98a42ce45" name="a1af6ed9fdb9ff429e18fb5d98a42ce45"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1af6ed9fdb9ff429e18fb5d98a42ce45">&#9670;&#160;</a></span>FloorId</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class GRID_OBJECT_TYPES , class FAR_VISIBLE_OBJECT_TYPES &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/daa/a05613.html">TypeMapContainer</a>&lt;GRID_OBJECT_TYPES&gt; <a class="el" href="../../da/dbf/a09461.html">GridCell</a>&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::_gridObjects</td>
+          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> QuestPOI::FloorId {0}</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00049">GridCell&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::AddGridObject()</a>, and <a class="el" href="../../#l00057">GridCell&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::Visit()</a>.</p>
+</div>
+</div>
+<a id="aace0de15249c756ba3cbd5763cbb3f98" name="aace0de15249c756ba3cbd5763cbb3f98"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aace0de15249c756ba3cbd5763cbb3f98">&#9670;&#160;</a></span>Id</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> QuestPOI::Id {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a851f8e6e62373d2592173534754d757b" name="a851f8e6e62373d2592173534754d757b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a851f8e6e62373d2592173534754d757b">&#9670;&#160;</a></span>MapId</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> QuestPOI::MapId {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad80f65110beacd44e667008387e6bb70" name="ad80f65110beacd44e667008387e6bb70"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad80f65110beacd44e667008387e6bb70">&#9670;&#160;</a></span>ObjectiveIndex</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> QuestPOI::ObjectiveIndex {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aeb505cb061a00ecaa2acc749e391f207" name="aeb505cb061a00ecaa2acc749e391f207"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeb505cb061a00ecaa2acc749e391f207">&#9670;&#160;</a></span>points</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;<a class="el" href="../../d4/d2c/a09457.html">QuestPOIPoint</a>&gt; QuestPOI::points</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a1f1d8fa843c856b54ec1ca85b08d78e1" name="a1f1d8fa843c856b54ec1ca85b08d78e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1f1d8fa843c856b54ec1ca85b08d78e1">&#9670;&#160;</a></span>Unk3</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> QuestPOI::Unk3 {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa8089160bb8e93ea79df96b956050b70" name="aa8089160bb8e93ea79df96b956050b70"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa8089160bb8e93ea79df96b956050b70">&#9670;&#160;</a></span>Unk4</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> QuestPOI::Unk4 {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -418,8 +359,8 @@ template&lt;class GRID_OBJECT_TYPES , class FAR_VISIBLE_OBJECT_TYPES &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/dbf/a09461.html">GridCell</a></li>
-    <li class="footer">Generated on Mon Jul 13 2026 21:34:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../da/dbf/a09461.html">QuestPOI</a></li>
+    <li class="footer">Generated on Mon Sep 7 2026 23:05:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

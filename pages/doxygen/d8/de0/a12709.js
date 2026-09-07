@@ -1,14 +1,13 @@
 var a12709 =
 [
-    [ "boss_lord_valthalak", "d8/de0/a12709.html#a26fd09b5f1e3429cacb90f3aaff1a105", null ],
-    [ "DamageTaken", "d8/de0/a12709.html#adf174f2b50e76a721c034a13f1946875", null ],
-    [ "IsSummonedBy", "d8/de0/a12709.html#aaa4f24a056e7a0598ff7a399802ac32c", null ],
-    [ "JustDied", "d8/de0/a12709.html#a084cc36f08a1decd2d262b7a9eb59f6b", null ],
-    [ "JustEngagedWith", "d8/de0/a12709.html#aaa9835ca1d7d81ee177202138be4bad5", null ],
-    [ "Reset", "d8/de0/a12709.html#a0494a1b6cc00b40f627a58d790424567", null ],
-    [ "StartFighting", "d8/de0/a12709.html#a3135ff2a25ee9c4286623cb570cc03f3", null ],
-    [ "StartTalking", "d8/de0/a12709.html#ace3e47ef60b3761d860677648fabdd9d", null ],
-    [ "UpdateAI", "d8/de0/a12709.html#a49a438bff5aadc58ae69b00cd2ce68d1", null ],
-    [ "_frenzy15", "d8/de0/a12709.html#acc7ba74226b04ee9a62233e473f68f7b", null ],
-    [ "_frenzy40", "d8/de0/a12709.html#a7d8cd5bedfb8c5bfc1ac4bdc0efff2bf", null ]
+    [ "npc_rocknot", "d8/de0/a12709.html#a890eaac55162130b05c7d2dba26cc872", null ],
+    [ "DoGo", "d8/de0/a12709.html#a242e871de8e19462fcab6fb9eae1039e", null ],
+    [ "Reset", "d8/de0/a12709.html#afaa1977f370fe699c75ebb83c0d291dd", null ],
+    [ "sQuestReward", "d8/de0/a12709.html#a633123eb64bd6d46ace12fd0e1853aef", null ],
+    [ "UpdateAI", "d8/de0/a12709.html#a15755c98f937784f538d547b15c2d192", null ],
+    [ "WaypointReached", "d8/de0/a12709.html#a3711cae23b14dcce2ac1938aaeb9b961", null ],
+    [ "WaypointReached", "d8/de0/a12709.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_breakDoorTimer", "d8/de0/a12709.html#a44955a4ef0e730f72848e582892380b5", null ],
+    [ "_breakKegTimer", "d8/de0/a12709.html#ad6e48e6f81521b89da9f528e079c1c90", null ],
+    [ "instance", "d8/de0/a12709.html#a71e6532128131a10aae575d1bac023d0", null ]
 ];

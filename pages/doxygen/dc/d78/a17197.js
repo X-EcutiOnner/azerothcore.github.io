@@ -1,14 +1,7 @@
 var a17197 =
 [
-    [ "boss_bronjahm", "dc/d78/a17197.html#a44666a47b298efe48c4e86b8677d9845", null ],
-    [ "DamageTaken", "dc/d78/a17197.html#ab89333e2ee43ad384bdc71ac6f83c92e", null ],
-    [ "EnterEvadeMode", "dc/d78/a17197.html#a5d515921e780974e2a70937ada8b232d", null ],
-    [ "JustDied", "dc/d78/a17197.html#ad50a7aee4ebf9d0d5d9141b96e154996", null ],
-    [ "JustEngagedWith", "dc/d78/a17197.html#a767d4a601d7f912cd71823a51b31af1f", null ],
-    [ "JustReachedHome", "dc/d78/a17197.html#af2146b1ddb8cdc3e27d1cf573fe65df0", null ],
-    [ "JustSummoned", "dc/d78/a17197.html#a47c7a8a8413b139cf2d217d33f39aa3d", null ],
-    [ "KilledUnit", "dc/d78/a17197.html#aaaf64571ce6a542be93c6efe105278e8", null ],
-    [ "Reset", "dc/d78/a17197.html#a313bd4510e18ecb529b6358d28a3dc3f", null ],
-    [ "SpellHitTarget", "dc/d78/a17197.html#a3be47710012bd75a71574f7a4c69f678", null ],
-    [ "UpdateAI", "dc/d78/a17197.html#a6d60b720210a9f196b1c006b557e7d25", null ]
+    [ "HandleScript", "dc/d78/a17197.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
+    [ "PrepareSpellScript", "dc/d78/a17197.html#a71b28156c628aacbc6cb481038c0e76c", null ],
+    [ "Register", "dc/d78/a17197.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
+    [ "Validate", "dc/d78/a17197.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
 ];

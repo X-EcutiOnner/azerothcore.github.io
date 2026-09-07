@@ -1,6 +1,6 @@
 var a14613 =
 [
-    [ "instance_zulgurub_InstanceMapScript", "d7/d65/a14617.html", "d7/d65/a14617" ],
-    [ "instance_zulgurub", "db/dae/a14613.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
-    [ "GetInstanceScript", "db/dae/a14613.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
+    [ "OnRemove", "db/dae/a14613.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
+    [ "PrepareAuraScript", "db/dae/a14613.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
+    [ "Register", "db/dae/a14613.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
 ];

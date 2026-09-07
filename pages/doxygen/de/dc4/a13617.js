@@ -1,8 +1,6 @@
 var a13617 =
 [
-    [ "npc_apothecary_baxter", "de/dc4/a13617.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
-    [ "JustDied", "de/dc4/a13617.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
-    [ "Reset", "de/dc4/a13617.html#afee5103029bd761c48cbf6a11655c44a", null ],
-    [ "UpdateAI", "de/dc4/a13617.html#ad06090f599d0fda3a88f3182c990a49f", null ],
-    [ "_scheduler", "de/dc4/a13617.html#a6d813041e055f3c2b28be7cba3acde13", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "d5/d72/a13621.html", "d5/d72/a13621" ],
+    [ "instance_shadowfang_keep", "de/dc4/a13617.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
+    [ "GetInstanceScript", "de/dc4/a13617.html#a5c076ed86470247de5b4e3733b70fa25", null ]
 ];

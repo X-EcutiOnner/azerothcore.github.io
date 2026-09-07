@@ -1,13 +1,13 @@
 var a23485 =
 [
-    [ "boss_warbringer_omrogg", "de/d72/a23485.html#a20f790595640cd41d636ad43c8837cda", null ],
-    [ "HandleHeadTalk", "de/d72/a23485.html#aaa324c065f6c2bbf75688f5910be09d1", null ],
-    [ "JustDied", "de/d72/a23485.html#a8a2abaceda580ac2ed4f1c736281828f", null ],
-    [ "JustEngagedWith", "de/d72/a23485.html#ae1710f22f8a72f661498c4fbc6d108a5", null ],
-    [ "KilledUnit", "de/d72/a23485.html#add6b54c4744be120b6b5fd53912ce1fd", null ],
-    [ "ScheduleBurningPhase", "de/d72/a23485.html#afd20a8bd1f6f083e0725d962ec747e26", null ],
-    [ "ScheduleNonBurningPhase", "de/d72/a23485.html#a176217a0767e8153d07996461ac68f60", null ],
-    [ "SetData", "de/d72/a23485.html#a4d1154d64c999316f9ae02ab76cbc870", null ],
-    [ "UpdateAI", "de/d72/a23485.html#a90369760ed0e52f1ffc6d3e7c4e39ec2", null ],
-    [ "_headTalk", "de/d72/a23485.html#ae657addceb26f4d02d734fa0790a1ae2", null ]
+    [ "boss_ghazan", "de/d72/a23485.html#ae730362fcf3606c67b6b85147de98fb6", null ],
+    [ "DoAction", "de/d72/a23485.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
+    [ "InitializeAI", "de/d72/a23485.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
+    [ "JustEngagedWith", "de/d72/a23485.html#ad4136f0f63d267284f36756793c0efa7", null ],
+    [ "JustReachedHome", "de/d72/a23485.html#af9f2dd854036d5c8b9c6703499836199", null ],
+    [ "MovementInform", "de/d72/a23485.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
+    [ "Reset", "de/d72/a23485.html#afc9522a26060643f2f9d25a8a98691b7", null ],
+    [ "UpdateAI", "de/d72/a23485.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
+    [ "_movedToPlatform", "de/d72/a23485.html#aa6c0c391355ac0b698d67796efd63062", null ],
+    [ "_reachedPlatform", "de/d72/a23485.html#af3476318b4721bd52facaf735eabb1f9", null ]
 ];

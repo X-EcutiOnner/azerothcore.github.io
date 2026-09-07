@@ -1,8 +1,7 @@
 var a24197 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "df/df0/a24197.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "df/df0/a24197.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "df/df0/a24197.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "df/df0/a24197.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "df/df0/a24197.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "npc_bessyAI", "db/d2b/a24201.html", "db/d2b/a24201" ],
+    [ "npc_bessy", "df/df0/a24197.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "df/df0/a24197.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "df/df0/a24197.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

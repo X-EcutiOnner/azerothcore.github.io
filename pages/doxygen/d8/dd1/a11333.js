@@ -1,8 +1,7 @@
 var a11333 =
 [
-    [ "PlayObjectSound", "d8/dd1/a11333.html#ab322044d36abddeb2fafbf99261bb70b", null ],
-    [ "PlayObjectSound", "d8/dd1/a11333.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
-    [ "Write", "d8/dd1/a11333.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
-    [ "SoundKitID", "d8/dd1/a11333.html#a5e794706b8793d164a1189e9a6918735", null ],
-    [ "SourceObjectGUID", "d8/dd1/a11333.html#a82b226eba66e569c1f377f529e511361", null ]
+    [ "BuybackItem", "d8/dd1/a11333.html#a05dec559746537669fcf32f52a171b44", null ],
+    [ "Read", "d8/dd1/a11333.html#aefe27701674c75f8937f72ee418a6692", null ],
+    [ "Slot", "d8/dd1/a11333.html#ac4faf4646da9a9fe7c1567527ca28a27", null ],
+    [ "VendorGuid", "d8/dd1/a11333.html#a6be9d8d3f564621780e458c4a785b709", null ]
 ];

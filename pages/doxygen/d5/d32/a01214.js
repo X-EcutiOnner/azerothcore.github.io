@@ -1,23 +1,21 @@
 var a01214 =
 [
-    [ "CreatureTextEntry", "d9/d42/a12187.html", "d9/d42/a12187" ],
-    [ "CreatureTextLocale", "de/db8/a12191.html", "de/db8/a12191" ],
-    [ "CreatureTextId", "d1/d1b/a12195.html", "d1/d1b/a12195" ],
-    [ "CreatureTextOptions", "d6/d12/a12199.html", "d6/d12/a12199" ],
-    [ "CreatureTextMgr", "dd/dbf/a12203.html", "dd/dbf/a12203" ],
-    [ "CreatureTextLocalizer< Builder >", "d3/d0c/a12207.html", "d3/d0c/a12207" ],
-    [ "sCreatureTextMgr", "d5/d32/a01214.html#a2dc428da007cefe454220dcb355a1cde", null ],
-    [ "CreatureTextGroup", "d5/d32/a01214.html#a9baeb5ff5e542c90d9058942cf0b4bbd", null ],
-    [ "CreatureTextHolder", "d5/d32/a01214.html#aad09b58ddf486cb766cdeb242824cd2d", null ],
-    [ "CreatureTextMap", "d5/d32/a01214.html#ac48698bcbe36b82577c41f42f3f23f09", null ],
-    [ "CreatureTextOptionsContainer", "d5/d32/a01214.html#a16523356dcf17205f4e4e62a26c4a609", null ],
-    [ "CreatureTextOptionsMap", "d5/d32/a01214.html#a43b3f3c87b43b80913e2a03023b5e89f", null ],
-    [ "LocaleCreatureTextMap", "d5/d32/a01214.html#ab39b2d82775a84108d19ed009bd14747", null ],
-    [ "CreatureTextRange", "d5/d32/a01214.html#adf847039afbebeda9e21210c1f4eb052", [
-      [ "TEXT_RANGE_NORMAL", "d5/d32/a01214.html#adf847039afbebeda9e21210c1f4eb052a649e811a5e8853fa24088dbb708ce9ab", null ],
-      [ "TEXT_RANGE_AREA", "d5/d32/a01214.html#adf847039afbebeda9e21210c1f4eb052a1982e7a678f4ba541ea6ecbfec493385", null ],
-      [ "TEXT_RANGE_ZONE", "d5/d32/a01214.html#adf847039afbebeda9e21210c1f4eb052a182bd5362916ba67bcf6660ce37fae0a", null ],
-      [ "TEXT_RANGE_MAP", "d5/d32/a01214.html#adf847039afbebeda9e21210c1f4eb052a90bf8cfe8ac6e4bac224bd3dd9fbc3a3", null ],
-      [ "TEXT_RANGE_WORLD", "d5/d32/a01214.html#adf847039afbebeda9e21210c1f4eb052a3a88078985d9e80a4543acf0acde52d9", null ]
+    [ "BattlegroundBE", "d6/df3/a07789.html", "d6/df3/a07789" ],
+    [ "BattlegroundBEGameObjects", "d5/d32/a01214.html#a1b0280d2208da5214e6132c85687575e", [
+      [ "BG_BE_OBJECT_TYPE_DOOR_1", "d5/d32/a01214.html#a1b0280d2208da5214e6132c85687575ea7668b0cb45bb8fcb5d169d52601f8ffc", null ],
+      [ "BG_BE_OBJECT_TYPE_DOOR_2", "d5/d32/a01214.html#a1b0280d2208da5214e6132c85687575ea4f5f05ba355663c10696918af17e7285", null ],
+      [ "BG_BE_OBJECT_TYPE_DOOR_3", "d5/d32/a01214.html#a1b0280d2208da5214e6132c85687575ea46f638ce865d69bfd79373d8105a8e83", null ],
+      [ "BG_BE_OBJECT_TYPE_DOOR_4", "d5/d32/a01214.html#a1b0280d2208da5214e6132c85687575eabd8ea2d0bde54698184bcfff07ffb6f6", null ],
+      [ "BG_BE_OBJECT_TYPE_BUFF_1", "d5/d32/a01214.html#a1b0280d2208da5214e6132c85687575ea828640a929b6a7559e1828cfdbf95f10", null ],
+      [ "BG_BE_OBJECT_TYPE_BUFF_2", "d5/d32/a01214.html#a1b0280d2208da5214e6132c85687575eac4122fbc499fb8d6ca4de47dfa6f3bab", null ]
+    ] ],
+    [ "BattlegroundBEObjectTypes", "d5/d32/a01214.html#ac30a97954fa7cc5e46429c1b15e02aa6", [
+      [ "BG_BE_OBJECT_DOOR_1", "d5/d32/a01214.html#ac30a97954fa7cc5e46429c1b15e02aa6a0df93d02d5b293963bebae8c18c3ae17", null ],
+      [ "BG_BE_OBJECT_DOOR_2", "d5/d32/a01214.html#ac30a97954fa7cc5e46429c1b15e02aa6a1bc43e32d61d4d2a6e605214b3498d0e", null ],
+      [ "BG_BE_OBJECT_DOOR_3", "d5/d32/a01214.html#ac30a97954fa7cc5e46429c1b15e02aa6a65b47239921b2cc82d549ec06684dcbb", null ],
+      [ "BG_BE_OBJECT_DOOR_4", "d5/d32/a01214.html#ac30a97954fa7cc5e46429c1b15e02aa6ac892d4ba71d39d87a754d48158edafc5", null ],
+      [ "BG_BE_OBJECT_BUFF_1", "d5/d32/a01214.html#ac30a97954fa7cc5e46429c1b15e02aa6a7467355220ec6cd486b4d31f2017b176", null ],
+      [ "BG_BE_OBJECT_BUFF_2", "d5/d32/a01214.html#ac30a97954fa7cc5e46429c1b15e02aa6ac11771a5f0517038daf7fe96e7cf00eb", null ],
+      [ "BG_BE_OBJECT_MAX", "d5/d32/a01214.html#ac30a97954fa7cc5e46429c1b15e02aa6a4f887547bcc1f47df4522c823c507d6f", null ]
     ] ]
 ];

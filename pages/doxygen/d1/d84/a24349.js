@@ -1,11 +1,8 @@
 var a24349 =
 [
-    [ "CalcPeriodic", "d1/d84/a24349.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
-    [ "CalculateHasteAmount", "d1/d84/a24349.html#a75d428e0b3619d53bd9436712d2e394e", null ],
-    [ "CalculateSPAmount", "d1/d84/a24349.html#a81805b43a47065281f83889d8be95c54", null ],
-    [ "CalculateStatAmount", "d1/d84/a24349.html#a763276aaa00bb6953e0b52118662e7a8", null ],
-    [ "HandleEffectApply", "d1/d84/a24349.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
-    [ "HandlePeriodic", "d1/d84/a24349.html#ab3c7d479eae88ab4a59b06610af19429", null ],
-    [ "PrepareAuraScript", "d1/d84/a24349.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
-    [ "Register", "d1/d84/a24349.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
+    [ "npc_kservantAI", "d1/d84/a24349.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "d1/d84/a24349.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "d1/d84/a24349.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "d1/d84/a24349.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
+    [ "WaypointReached", "d1/d84/a24349.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

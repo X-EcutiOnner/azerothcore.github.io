@@ -1,6 +1,7 @@
 var a19077 =
 [
-    [ "HandleEvent", "d3/d97/a19077.html#a7936a64a1142a47b2addfd746dccfcef", null ],
-    [ "PrepareSpellScript", "d3/d97/a19077.html#a00e2be07131c674558d0364df98849ab", null ],
-    [ "Register", "d3/d97/a19077.html#a89364583504d2eaa75473586850bc3d5", null ]
+    [ "npc_captain_arnathAI", "d3/d97/a19077.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "d3/d97/a19077.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "d3/d97/a19077.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "d3/d97/a19077.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

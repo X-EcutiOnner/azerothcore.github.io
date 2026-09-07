@@ -1,7 +1,6 @@
 var a15253 =
 [
-    [ "npc_cos_chromie_middle", "db/d9d/a15253.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "db/d9d/a15253.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "db/d9d/a15253.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "db/d9d/a15253.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "boss_epochAI", "d8/d76/a15257.html", "d8/d76/a15257" ],
+    [ "boss_epoch", "db/d9d/a15253.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
+    [ "GetAI", "db/d9d/a15253.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
 ];

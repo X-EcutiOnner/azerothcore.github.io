@@ -1,11 +1,7 @@
 var a18341 =
 [
-    [ "npc_little_oozeAI", "d4/d06/a18341.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
-    [ "EnterEvadeMode", "d4/d06/a18341.html#a0bd4bfcc8c373a449f297011289e5530", null ],
-    [ "IsSummonedBy", "d4/d06/a18341.html#afb9763ade36bd742398a8bca961c136b", null ],
-    [ "JustDied", "d4/d06/a18341.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
-    [ "UpdateAI", "d4/d06/a18341.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
-    [ "events", "d4/d06/a18341.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
-    [ "firstUpdate", "d4/d06/a18341.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
-    [ "instance", "d4/d06/a18341.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
+    [ "HandleTriggerSpell", "d4/d06/a18341.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
+    [ "OnRemove", "d4/d06/a18341.html#a238adc96e80c1890934b23dd4a2685b4", null ],
+    [ "PrepareAuraScript", "d4/d06/a18341.html#af9ce7433b620fdf1dea570561c514b3b", null ],
+    [ "Register", "d4/d06/a18341.html#ab36a001ea8cd87703e2694e0765635c0", null ]
 ];

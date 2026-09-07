@@ -1,11 +1,8 @@
 var a30109 =
 [
-    [ "material", "d7/dc6/a30109.html#a7079e8817a9684602084eb224f2540fc", null ],
-    [ "pos_x", "d7/dc6/a30109.html#ac4d971cc46506be14716124afbb5ad9c", null ],
-    [ "pos_y", "d7/dc6/a30109.html#a6cd85f2a674d732e88371ffce5e46077", null ],
-    [ "pos_z", "d7/dc6/a30109.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
-    [ "xtiles", "d7/dc6/a30109.html#aca34dfa64624cfe04c314c13bbed0062", null ],
-    [ "xverts", "d7/dc6/a30109.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
-    [ "ytiles", "d7/dc6/a30109.html#a9901a7e9828ac840bc290b0768831d66", null ],
-    [ "yverts", "d7/dc6/a30109.html#abf24042b85692cd0df05d65d734dd99e", null ]
+    [ "prepareLoadedData", "d7/dc6/a30109.html#a696cfebd8fe66840b316919519e9b319", null ],
+    [ "fcc", "d7/dc6/a30109.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
+    [ "fcc_txt", "d7/dc6/a30109.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
+    [ "height_map", "d7/dc6/a30109.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
+    [ "size", "d7/dc6/a30109.html#add2809c6e520cf4aa43807d61f973f0e", null ]
 ];

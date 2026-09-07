@@ -1,7 +1,8 @@
 var a20901 =
 [
-    [ "HandleScriptEffect", "d4/d56/a20901.html#aae469190c1edc1fe45914bad1dac4e93", null ],
-    [ "PrepareSpellScript", "d4/d56/a20901.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
-    [ "Register", "d4/d56/a20901.html#a97265071f226fbd17c37d432cf9e2350", null ],
-    [ "Validate", "d4/d56/a20901.html#aeec0bdd2e39db2da657247376ddcd195", null ]
+    [ "npc_scrapbot", "d4/d56/a20901.html#a088bac1bf5cb91be8f18368c08c5414a", null ],
+    [ "Reset", "d4/d56/a20901.html#a2dca509a6e2b46674165e5559717f69c", null ],
+    [ "UpdateAI", "d4/d56/a20901.html#ade90c75baf598900adaa300cef28cb6a", null ],
+    [ "_instance", "d4/d56/a20901.html#afb8296b4d9105ee99abc534656289ae2", null ],
+    [ "_scheduler", "d4/d56/a20901.html#a4deb841588ea244e4290bb8ffb69b483", null ]
 ];

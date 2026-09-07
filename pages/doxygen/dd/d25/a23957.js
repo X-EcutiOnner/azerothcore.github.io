@@ -1,7 +1,6 @@
 var a23957 =
 [
-    [ "CheckRequirement", "dd/d25/a23957.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "dd/d25/a23957.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "dd/d25/a23957.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "dd/d25/a23957.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "HandleScriptEffect", "dd/d25/a23957.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
+    [ "PrepareSpellScript", "dd/d25/a23957.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
+    [ "Register", "dd/d25/a23957.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
 ];

@@ -1,9 +1,5 @@
 var a20545 =
 [
-    [ "HandleEffectPeriodic", "d9/d10/a20545.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
-    [ "Load", "d9/d10/a20545.html#a60deabce505dd3993dca0e71402dc190", null ],
-    [ "PrepareAuraScript", "d9/d10/a20545.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
-    [ "Register", "d9/d10/a20545.html#a524c071390365b7dab59bc7a79b50f15", null ],
-    [ "_lastMSTime", "d9/d10/a20545.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
-    [ "_lastOrientation", "d9/d10/a20545.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
+    [ "achievement_i_could_say_that_this_cache_was_rare", "d9/d10/a20545.html#a8ec1949d92f21fe57f967e510453da3e", null ],
+    [ "OnCheck", "d9/d10/a20545.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
 ];

@@ -1,9 +1,12 @@
 var a16353 =
 [
-    [ "npc_anub_ar_crusher", "da/dcf/a16353.html#a0520d606e8f8fa6f2c1262e025ea2c1c", null ],
-    [ "DamageTaken", "da/dcf/a16353.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2", null ],
-    [ "DoEngagedWith", "da/dcf/a16353.html#a70238afe4b9ae58b99067581db6734c8", null ],
-    [ "DoEvent", "da/dcf/a16353.html#ac20630563a1869f56f538968cb8bb1ea", null ],
-    [ "JustDied", "da/dcf/a16353.html#a66dc8cb3dc096dc0aa5b464879773df7", null ],
-    [ "_hadFrenzy", "da/dcf/a16353.html#a0e3c9d35a654e82d5f845b820de2a9a1", null ]
+    [ "npc_twilight_volunteer", "da/dcf/a16353.html#a3062041fcabf972e0a3d4753363c37b3", null ],
+    [ "AttackStart", "da/dcf/a16353.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
+    [ "DoAction", "da/dcf/a16353.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
+    [ "EnterEvadeMode", "da/dcf/a16353.html#abd88e6fe0565babb92ccae17df0421d6", null ],
+    [ "MovementInform", "da/dcf/a16353.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
+    [ "UpdateAI", "da/dcf/a16353.html#a93288a45982b172c201e2442a4c91114", null ],
+    [ "events", "da/dcf/a16353.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
+    [ "isSacraficeTarget", "da/dcf/a16353.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
+    [ "pInstance", "da/dcf/a16353.html#ad58453e078520fa23238a96115e5f38f", null ]
 ];

@@ -1,6 +1,8 @@
 var a13933 =
 [
-    [ "ChangeSummonPos", "df/dc1/a13933.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "df/dc1/a13933.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "df/dc1/a13933.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "npc_sunblade_arch_mage", "df/dc1/a13933.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
+    [ "JustEngagedWith", "df/dc1/a13933.html#aadeae32d691229b7b7b531175b8a5018", null ],
+    [ "Reset", "df/dc1/a13933.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
+    [ "UpdateAI", "df/dc1/a13933.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
+    [ "scheduler", "df/dc1/a13933.html#aa6680f06651316996868907b1d28126c", null ]
 ];

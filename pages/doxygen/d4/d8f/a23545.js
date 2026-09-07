@@ -1,13 +1,7 @@
 var a23545 =
 [
-    [ "boss_wrath_scryer_soccothrates", "d4/d8f/a23545.html#a771980c1022e7699c3eb02baccb68a93", null ],
-    [ "InitializeAI", "d4/d8f/a23545.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
-    [ "JustDied", "d4/d8f/a23545.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
-    [ "JustEngagedWith", "d4/d8f/a23545.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
-    [ "KilledUnit", "d4/d8f/a23545.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
-    [ "MoveInLineOfSight", "d4/d8f/a23545.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
-    [ "Reset", "d4/d8f/a23545.html#a85435a23d36f13e348112348a26e7d12", null ],
-    [ "UpdateAI", "d4/d8f/a23545.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
-    [ "events2", "d4/d8f/a23545.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
-    [ "preFight", "d4/d8f/a23545.html#a193889ee2815b93a1c9aeee394170fc4", null ]
+    [ "OnApply", "d4/d8f/a23545.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "d4/d8f/a23545.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "d4/d8f/a23545.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "d4/d8f/a23545.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

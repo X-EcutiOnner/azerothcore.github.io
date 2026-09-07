@@ -1,9 +1,17 @@
 var a05749 =
 [
-    [ "Lock", "db/dcc/a05753.html", "db/dcc/a05753" ],
-    [ "ObjectLevelLockable", "d3/dc8/a05749.html#a56f2f2722e7f56857ef1d6e7ae52891d", null ],
-    [ "ObjectLevelLockable", "d3/dc8/a05749.html#a133cb19ac25d346ba24b8405595dd174", null ],
-    [ "operator=", "d3/dc8/a05749.html#a8ebb63f3adccf1bf121f569f1d527e17", null ],
-    [ "Lock", "d3/dc8/a05749.html#a5bf7608e05250fb524a1229bcf83ece3", null ],
-    [ "i_mtx", "d3/dc8/a05749.html#ae373bee24a50a7eda232b51769c042aa", null ]
+    [ "LockedQueue", "d3/dc8/a05749.html#a5ce001c1fba3468b513aa7e345113128", null ],
+    [ "~LockedQueue", "d3/dc8/a05749.html#a259a03cc68a36181edebe088ef669c46", null ],
+    [ "add", "d3/dc8/a05749.html#a1c63880c3df79c1b93e9e4a3b2fbbb3d", null ],
+    [ "cancel", "d3/dc8/a05749.html#ab3d04497f8a07c5c6b6208b136a297a4", null ],
+    [ "cancelled", "d3/dc8/a05749.html#af9e2adfcd3800e9e9fa858fcacf22e2e", null ],
+    [ "empty", "d3/dc8/a05749.html#a8d62ae6a4bb93f89816714ccbb519753", null ],
+    [ "next", "d3/dc8/a05749.html#ac818ec56d60e2ec059857e0aaa99f8a4", null ],
+    [ "next", "d3/dc8/a05749.html#acaade33a01794600c72efbf389fe7664", null ],
+    [ "peek", "d3/dc8/a05749.html#af1de22fd872bb07a5ad42779d2ddbac3", null ],
+    [ "pop_front", "d3/dc8/a05749.html#aa57d3a3964071fd3e0ba6b7840041c65", null ],
+    [ "readd", "d3/dc8/a05749.html#a4eb9aea8b399a2acc2dd893e83d16120", null ],
+    [ "_canceled", "d3/dc8/a05749.html#a175454f5bf20f3a312d83e2dd5fc5d7c", null ],
+    [ "_lock", "d3/dc8/a05749.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb", null ],
+    [ "_queue", "d3/dc8/a05749.html#a55ced2abb0a6dd64554597347b61ebf1", null ]
 ];

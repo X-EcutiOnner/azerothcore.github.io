@@ -1,8 +1,6 @@
 var a28677 =
 [
-    [ "DamagedDisplayId", "d3/d2b/a28677.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
-    [ "DestroyedDisplayId", "d3/d2b/a28677.html#afc891df0c9491a34f784e8f141434be5", null ],
-    [ "Id", "d3/d2b/a28677.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
-    [ "RebuildingDisplayId", "d3/d2b/a28677.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
-    [ "SmokeDisplayId", "d3/d2b/a28677.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
+    [ "npc_stable_masterAI", "df/d6a/a28681.html", "df/d6a/a28681" ],
+    [ "npc_stable_master", "d3/d2b/a28677.html#ad327340f47e10bec7f077192227b0899", null ],
+    [ "GetAI", "d3/d2b/a28677.html#a7e34e18d2dad465eb88b0388fa830490", null ]
 ];

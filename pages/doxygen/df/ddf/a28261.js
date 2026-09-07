@@ -1,6 +1,6 @@
 var a28261 =
 [
-    [ "npc_taxi", "df/ddf/a28261.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "df/ddf/a28261.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "df/ddf/a28261.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "go_flamesAI", "df/ddf/a28261.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
+    [ "UpdateAI", "df/ddf/a28261.html#a2d4c91f0bff924335881d1096c0af313", null ],
+    [ "timer", "df/ddf/a28261.html#ae53c7c6c669e982babf304f173b58b1a", null ]
 ];

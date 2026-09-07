@@ -1,6 +1,6 @@
 var a24945 =
 [
-    [ "CheckAreaTarget", "d3/da6/a24945.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
-    [ "PrepareAuraScript", "d3/da6/a24945.html#afbc45652033397067a439b45afd2e90e", null ],
-    [ "Register", "d3/da6/a24945.html#aa24679e1243470056f74249e1b26767d", null ]
+    [ "CheckProc", "d3/da6/a24945.html#a67f31710f6a3e843b9d3539710100898", null ],
+    [ "PrepareAuraScript", "d3/da6/a24945.html#ad59ef816bd24f6215cc853386859dbb4", null ],
+    [ "Register", "d3/da6/a24945.html#af499437b1af535488792f44c18ad9bf7", null ]
 ];

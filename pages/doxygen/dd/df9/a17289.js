@@ -1,8 +1,9 @@
 var a17289 =
 [
-    [ "npc_phantom_hallucination", "dd/df9/a17289.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
-    [ "EnterEvadeMode", "dd/df9/a17289.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
-    [ "JustDied", "dd/df9/a17289.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
-    [ "UpdateAI", "dd/df9/a17289.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
-    [ "numOfUpd", "dd/df9/a17289.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
+    [ "HandlePeriodicTick", "dd/df9/a17289.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "dd/df9/a17289.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "dd/df9/a17289.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "dd/df9/a17289.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "dd/df9/a17289.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "dir", "dd/df9/a17289.html#a7dd1959596e8ad1628498215249eb7a2", null ]
 ];

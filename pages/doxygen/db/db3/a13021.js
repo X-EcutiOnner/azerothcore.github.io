@@ -1,9 +1,9 @@
 var a13021 =
 [
-    [ "npc_flamewaker_priest", "db/db3/a13021.html#aa0b872053b56d11077d2dbe25c1870d1", null ],
-    [ "JustDied", "db/db3/a13021.html#a87ebaf50263847a58c238ea2b7105b84", null ],
-    [ "JustEngagedWith", "db/db3/a13021.html#a5c539171b96fd5a98ce044c5d47ef815", null ],
-    [ "Reset", "db/db3/a13021.html#a168ff12b2a915358fb59b8ff255c697e", null ],
-    [ "UpdateAI", "db/db3/a13021.html#a0fce5f31e414f6e3fd140015b0b4524c", null ],
-    [ "events", "db/db3/a13021.html#a97c419bcf7fc02bfe792ed925f7857c2", null ]
+    [ "boss_baron_geddon", "db/db3/a13021.html#a1e7cf41aff13c376dafa35a992c378d8", null ],
+    [ "DamageTaken", "db/db3/a13021.html#a2a5a0ca6e40ac736171a8b80b0e66dad", null ],
+    [ "ExecuteEvent", "db/db3/a13021.html#af81a1ef4345e55f3d537baeb0e9528f4", null ],
+    [ "JustEngagedWith", "db/db3/a13021.html#ad0e720b1ea3e92fabeea8b78a6416f3f", null ],
+    [ "Reset", "db/db3/a13021.html#aee0a2c6587a7f743491f3a3e31ed6527", null ],
+    [ "armageddonCasted", "db/db3/a13021.html#a4ea01568770a91e6734d45e3730c62cc", null ]
 ];

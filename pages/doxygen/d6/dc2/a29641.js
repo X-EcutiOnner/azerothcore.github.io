@@ -1,9 +1,15 @@
 var a29641 =
 [
-    [ "SetUp", "d6/dc2/a29641.html#a20b3a8161766a47ae37349f02cbe5b90", null ],
-    [ "TearDown", "d6/dc2/a29641.html#a9b41e4a95a6ca160c70272dfb90b5f8a", null ],
-    [ "creatureQuestMap", "d6/dc2/a29641.html#ae8b815994792f237cf6e1803b9eaa7f7", null ],
-    [ "TEST_CREATURE_ID", "d6/dc2/a29641.html#a80a79959d4b5520f7acf671677a671e9", null ],
-    [ "TEST_POOL_ID", "d6/dc2/a29641.html#aa81759d0539b72ad3cdda7d2231f8e63", null ],
-    [ "TEST_QUEST_ID", "d6/dc2/a29641.html#a26e68107bb625d0c5b6281c7df9199be", null ]
+    [ "AuraStubBuilder", "d6/dc2/a29641.html#a534384a8763b8c95fab8158e83db2def", null ],
+    [ "Build", "d6/dc2/a29641.html#a7d5b970e591a239849e42a0c444f62d4", null ],
+    [ "BuildRaw", "d6/dc2/a29641.html#a6d18b0c3762b471fba8cf895e9a07b50", null ],
+    [ "WithCharges", "d6/dc2/a29641.html#a0e11ce060ed827bfc2b72d2b26a6693b", null ],
+    [ "WithDuration", "d6/dc2/a29641.html#ac5c74952acab3c54a79e28355f423a8f", null ],
+    [ "WithEffect", "d6/dc2/a29641.html#ad25896a25811e0e563dcac1c46e77ff3", null ],
+    [ "WithId", "d6/dc2/a29641.html#aa8dc59189364f6be82822588a47d32fd", null ],
+    [ "WithPassive", "d6/dc2/a29641.html#a056bd26636b67b54562306a42b3d7c3e", null ],
+    [ "WithPeriodicEffect", "d6/dc2/a29641.html#a93fd0ed97589e98446251f9b078a3f9d", null ],
+    [ "WithSpellFamilyName", "d6/dc2/a29641.html#afa4a16fb9c020c568472102fff972408", null ],
+    [ "WithStackAmount", "d6/dc2/a29641.html#a04b37ad66dde7b61695a80db00c9ab66", null ],
+    [ "_stub", "d6/dc2/a29641.html#a22cc8b0309b64c1ecc482d77170a2b09", null ]
 ];

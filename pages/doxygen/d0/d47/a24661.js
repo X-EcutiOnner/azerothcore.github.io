@@ -1,6 +1,9 @@
 var a24661 =
 [
-    [ "OnHit", "d0/d47/a24661.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
-    [ "PrepareSpellScript", "d0/d47/a24661.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
-    [ "Register", "d0/d47/a24661.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
+    [ "CheckCast", "d0/d47/a24661.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
+    [ "EntryCheck", "d0/d47/a24661.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
+    [ "HandleBaseDummy", "d0/d47/a24661.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
+    [ "HandleDummy", "d0/d47/a24661.html#a34d9f5699f306b27830ced2129be506c", null ],
+    [ "PrepareSpellScript", "d0/d47/a24661.html#af7aff878540dd34138aa479f532611b6", null ],
+    [ "Register", "d0/d47/a24661.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
 ];

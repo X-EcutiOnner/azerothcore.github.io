@@ -1,10 +1,6 @@
 var a16989 =
 [
-    [ "npc_mistress_of_painAI", "d0/d76/a16989.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
-    [ "EnterEvadeMode", "d0/d76/a16989.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
-    [ "JustDied", "d0/d76/a16989.html#ae60f294f902a2f687446f7599d071e42", null ],
-    [ "Reset", "d0/d76/a16989.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
-    [ "SpellHit", "d0/d76/a16989.html#a077843a7ead2034da695be816de42f9e", null ],
-    [ "UpdateAI", "d0/d76/a16989.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
-    [ "events", "d0/d76/a16989.html#a941ae1faab010551db6a8e6749993357", null ]
+    [ "npc_toc_rogueAI", "dd/dd6/a16993.html", "dd/dd6/a16993" ],
+    [ "npc_toc_rogue", "d0/d76/a16989.html#a925840be9698e381358235a827c20b8a", null ],
+    [ "GetAI", "d0/d76/a16989.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
 ];

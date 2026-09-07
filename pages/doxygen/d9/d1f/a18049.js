@@ -1,9 +1,8 @@
 var a18049 =
 [
-    [ "HandleApply", "d9/d1f/a18049.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "d9/d1f/a18049.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "d9/d1f/a18049.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "d9/d1f/a18049.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "d9/d1f/a18049.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "d9/d1f/a18049.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "npc_gunship_mageAI", "d9/d1f/a18049.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
+    [ "AttackStart", "d9/d1f/a18049.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
+    [ "CanAIAttack", "d9/d1f/a18049.html#aadcb217a9df96bee02287d75a23e32c2", null ],
+    [ "MovementInform", "d9/d1f/a18049.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
+    [ "UpdateAI", "d9/d1f/a18049.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
 ];

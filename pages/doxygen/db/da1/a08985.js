@@ -1,10 +1,8 @@
 var a08985 =
 [
-    [ "TradeStatusInfo", "db/da1/a08985.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
-    [ "IsTargetResult", "db/da1/a08985.html#a10427d72e5bafd643648638a1fe7e854", null ],
-    [ "ItemLimitedByLimitCategory", "db/da1/a08985.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
-    [ "Result", "db/da1/a08985.html#ac90552353a0fb8ff175fec99bf573981", null ],
-    [ "Slot", "db/da1/a08985.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
-    [ "Status", "db/da1/a08985.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
-    [ "TraderGuid", "db/da1/a08985.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
+    [ "BaseRune", "db/da1/a08985.html#ad5a4b3afd246f5a4c071e3c4f350f132", null ],
+    [ "ConvertAura", "db/da1/a08985.html#a41c55cb4c1b3f69c6a424359f60e34e1", null ],
+    [ "Cooldown", "db/da1/a08985.html#a8eeb0f5208c29d43ab493a22f73eb0a6", null ],
+    [ "CurrentRune", "db/da1/a08985.html#a2cebb551231f0364a1751e5d1a37fcda", null ],
+    [ "GracePeriod", "db/da1/a08985.html#a3fa13f205dbaaca5bdcc7406f73b4e6a", null ]
 ];

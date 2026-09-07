@@ -1,11 +1,18 @@
 var a16369 =
 [
-    [ "spell_hadronox_summon_periodic_aura", "df/dcc/a16369.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
-    [ "HandlePeriodic", "df/dcc/a16369.html#a048695baf71d307e5aaa00e54586c9f7", null ],
-    [ "OnApply", "df/dcc/a16369.html#a4466547bc1a5259a33354f2008d6cce7", null ],
-    [ "PrepareAuraScript", "df/dcc/a16369.html#a4205560054e5baed86aecba3b98fc202", null ],
-    [ "Register", "df/dcc/a16369.html#a09efdcddaed4af2833139ca20ef94376", null ],
-    [ "Validate", "df/dcc/a16369.html#a20827683249c17625242e205bb51f9e8", null ],
-    [ "_delay", "df/dcc/a16369.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
-    [ "_spellEntry", "df/dcc/a16369.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
+    [ "boss_taldaram", "df/dcc/a16369.html#a6438d3534aca5e4a92afb3e6c6e24f73", null ],
+    [ "DamageTaken", "df/dcc/a16369.html#a2252fef717c2da047dc2d823e70660c0", null ],
+    [ "DoAction", "df/dcc/a16369.html#aee1cf0553e8c7ebebea4a83f2d7e6d5d", null ],
+    [ "InitializeAI", "df/dcc/a16369.html#a3d5b4628d6fb2db91ed073b042eefdc4", null ],
+    [ "JustDied", "df/dcc/a16369.html#a4b6c0f51fd3a2a8c00ef095eeeea785d", null ],
+    [ "JustEngagedWith", "df/dcc/a16369.html#a07e1cb5b53906f92a1f485340aa004e5", null ],
+    [ "JustSummoned", "df/dcc/a16369.html#a5ae9201a71fa665908f924647b262825", null ],
+    [ "KilledUnit", "df/dcc/a16369.html#a8fe516a08547ec03e8114b07e9c87d1f", null ],
+    [ "MovementInform", "df/dcc/a16369.html#a17ca98f742a06b1496b2216e984811d8", null ],
+    [ "OnAuraRemove", "df/dcc/a16369.html#ab8c64f75675db04f9ed8a37939e882e4", null ],
+    [ "Reset", "df/dcc/a16369.html#ae26fec572206d2f1f9acc229ee797496", null ],
+    [ "ScheduleCombatEvents", "df/dcc/a16369.html#a247e5357fcdf8da8e00bef09f3568ca3", null ],
+    [ "SpellHitTarget", "df/dcc/a16369.html#a0f228ea10a538a9ecf70b9f54d399150", null ],
+    [ "vanishDamage", "df/dcc/a16369.html#a85d8c95320e6f1f486a39043218f0350", null ],
+    [ "victimSperePos", "df/dcc/a16369.html#a06efb376b0d08207a0efce74770f21dc", null ]
 ];

@@ -1,6 +1,9 @@
 var a16521 =
 [
-    [ "boss_halionAI", "db/da9/a16525.html", "db/da9/a16525" ],
-    [ "boss_halion", "d6/df3/a16521.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
-    [ "GetAI", "d6/df3/a16521.html#a142314efb4f45ec146ab0225271d29b1", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d6/df3/a16521.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
+    [ "CheckAchievementCriteriaMeet", "d6/df3/a16521.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
+    [ "DoAction", "d6/df3/a16521.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
+    [ "GetGuidData", "d6/df3/a16521.html#a01da8216f57e19b5bf8697700089118c", null ],
+    [ "m_uiPortalGUID", "d6/df3/a16521.html#a166db22fd409d0387085053852e5ad30", null ],
+    [ "portalCount", "d6/df3/a16521.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
 ];

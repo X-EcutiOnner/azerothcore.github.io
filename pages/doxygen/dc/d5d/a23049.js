@@ -1,9 +1,12 @@
 var a23049 =
 [
-    [ "CalcPeriodic", "dc/d5d/a23049.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
-    [ "HandleEffectApply", "dc/d5d/a23049.html#adb983cc531fa666648bbdb432684ff1d", null ],
-    [ "HandleEffectRemove", "dc/d5d/a23049.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
-    [ "OnPeriodic", "dc/d5d/a23049.html#aecefab535157dbe8e42aff3b23cd685b", null ],
-    [ "PrepareAuraScript", "dc/d5d/a23049.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
-    [ "Register", "dc/d5d/a23049.html#a3771abcc829883ba0cbae9587adbe751", null ]
+    [ "npc_creature_generator_akama", "dc/d5d/a23049.html#a8e91cadea7f135ff692635e4d39923e0", null ],
+    [ "DoAction", "dc/d5d/a23049.html#a01efeecd374056da287e4a1e468472b6", null ],
+    [ "JustSummoned", "dc/d5d/a23049.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
+    [ "Reset", "dc/d5d/a23049.html#a23cf08661802f247147bb23cff30eeab", null ],
+    [ "SummonedCreatureDies", "dc/d5d/a23049.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
+    [ "UpdateAI", "dc/d5d/a23049.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
+    [ "instance", "dc/d5d/a23049.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
+    [ "spawnCounter", "dc/d5d/a23049.html#a02d8acace195438fe6e8d4705a043078", null ],
+    [ "summons", "dc/d5d/a23049.html#a3d532e607c48298ca0464ee630dd27b3", null ]
 ];

@@ -1,8 +1,11 @@
 var a16433 =
 [
-    [ "boss_sartharion_vesperon", "d6/d0c/a16433.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
-    [ "ClearInstance", "d6/d0c/a16433.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
-    [ "ExecuteEvent", "d6/d0c/a16433.html#aefc42452e75c476aef39ba0df3a03d70", null ],
-    [ "Reset", "d6/d0c/a16433.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
-    [ "SummonedCreatureDies", "d6/d0c/a16433.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
+    [ "spell_hadronox_summon_periodic_aura", "d6/d0c/a16433.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
+    [ "HandlePeriodic", "d6/d0c/a16433.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "d6/d0c/a16433.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "d6/d0c/a16433.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "d6/d0c/a16433.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "d6/d0c/a16433.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "d6/d0c/a16433.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
+    [ "_spellEntry", "d6/d0c/a16433.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

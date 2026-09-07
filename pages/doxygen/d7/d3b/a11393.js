@@ -1,11 +1,9 @@
 var a11393 =
 [
-    [ "MoneyCost", "d7/d3b/a11393.html#a8f88c27f149bf304f46b00dec2aa4a30", null ],
-    [ "PointCost", "d7/d3b/a11393.html#aebcad3f23dbca753ad970081af0a78c9", null ],
-    [ "ReqAbility", "d7/d3b/a11393.html#acc13f04eb19a4555ae1a54594f1d858b", null ],
-    [ "ReqLevel", "d7/d3b/a11393.html#a9478dc1065bc10ebc591ff8022e43993", null ],
-    [ "ReqSkillLine", "d7/d3b/a11393.html#a5267f4615e01571a4a16d17d6914981b", null ],
-    [ "ReqSkillRank", "d7/d3b/a11393.html#ae6f9640e257d83d633c48168edc658b6", null ],
-    [ "SpellID", "d7/d3b/a11393.html#accf0f9aa4c8f2130f6926235dca69476", null ],
-    [ "Usable", "d7/d3b/a11393.html#a35d7186073a231f0dd1fe5920eec175b", null ]
+    [ "LevelUpInfo", "d7/d3b/a11393.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
+    [ "Write", "d7/d3b/a11393.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
+    [ "HealthDelta", "d7/d3b/a11393.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
+    [ "Level", "d7/d3b/a11393.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
+    [ "PowerDelta", "d7/d3b/a11393.html#a697da64ac234c24fe73e68d408697ee6", null ],
+    [ "StatDelta", "d7/d3b/a11393.html#a580e4a3cd77631e960b7753542375d6d", null ]
 ];

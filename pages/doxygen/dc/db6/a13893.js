@@ -1,6 +1,7 @@
 var a13893 =
 [
-    [ "HandleEffectApply", "dc/db6/a13893.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
-    [ "PrepareAuraScript", "dc/db6/a13893.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
-    [ "Register", "dc/db6/a13893.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
+    [ "OnPeriodic", "dc/db6/a13893.html#a25e7a59384f262a36c74696a1befa01d", null ],
+    [ "PrepareAuraScript", "dc/db6/a13893.html#a9b82fde3e38054b686f9b2a110cfaa1e", null ],
+    [ "Register", "dc/db6/a13893.html#a65e469ba04d8cd2aa23d934bf2915721", null ],
+    [ "Validate", "dc/db6/a13893.html#a6843deda5be8b684c06a86920714f255", null ]
 ];

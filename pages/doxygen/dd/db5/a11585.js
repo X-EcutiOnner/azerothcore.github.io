@@ -1,6 +1,5 @@
 var a11585 =
 [
-    [ "QuestConfirmAcceptClient", "dd/db5/a11585.html#ac45767c9cf0e197e185a8936598fc9ea", null ],
-    [ "Read", "dd/db5/a11585.html#a483980152418879fd1a55db2fa4bf68a", null ],
-    [ "QuestId", "dd/db5/a11585.html#a25b4b779fdf9e642b2fe13faf03d50b1", null ]
+    [ "TimeQuery", "dd/db5/a11585.html#a90c467ab19d96b96ace5b50bad617095", null ],
+    [ "Read", "dd/db5/a11585.html#aae26e83828fc6118dea64f8861170868", null ]
 ];

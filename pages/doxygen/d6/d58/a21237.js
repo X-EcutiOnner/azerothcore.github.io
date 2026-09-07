@@ -1,8 +1,7 @@
 var a21237 =
 [
-    [ "npc_frozen_orbAI", "d6/d58/a21237.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "d6/d58/a21237.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "d6/d58/a21237.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "d6/d58/a21237.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "d6/d58/a21237.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "HandleEffectPeriodic", "d6/d58/a21237.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
+    [ "PrepareAuraScript", "d6/d58/a21237.html#a748cd347867557b5048d9ba0c112cd80", null ],
+    [ "Register", "d6/d58/a21237.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
+    [ "Validate", "d6/d58/a21237.html#afa86789ef14b1d06094705ba6cfb9205", null ]
 ];

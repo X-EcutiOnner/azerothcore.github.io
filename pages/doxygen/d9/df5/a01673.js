@@ -1,5 +1,4 @@
 var a01673 =
 [
-    [ "DispelList", "d9/df5/a01673.html#a711d5a2b2f8cbeb49153d9e33ea51bf1", null ],
-    [ "SpellEffects", "d9/df5/a01673.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
+    [ "PetLoadQueryHolder", "d6/d13/a08897.html", "d6/d13/a08897" ]
 ];

@@ -1,28 +1,6 @@
 var a18589 =
 [
-    [ "boss_the_lich_kingAI", "da/db1/a18589.html#ab8b78326fe92f51a9fe21943a3bb980c", null ],
-    [ "CanAIAttack", "da/db1/a18589.html#ae4ebbccc403bcc3621437a36f8678b93", null ],
-    [ "DamageTaken", "da/db1/a18589.html#a787f4d84930767b71b4af9e5092734c4", null ],
-    [ "DoAction", "da/db1/a18589.html#a179ff0d1381abc320efc88a4da0e1c2a", null ],
-    [ "EnterEvadeMode", "da/db1/a18589.html#a1d71569f5da22dd4046a76525bff6452", null ],
-    [ "GetData", "da/db1/a18589.html#a5b289363b4ac0b2be62a8df7deae8ed7", null ],
-    [ "JustDied", "da/db1/a18589.html#a80cfbecffa68f9fc42028ebdac0975c4", null ],
-    [ "JustEngagedWith", "da/db1/a18589.html#a401e1c529438c1ce08943ba2da8f1347", null ],
-    [ "JustSummoned", "da/db1/a18589.html#a0e1ab5732b70522e47036f067866eef3", null ],
-    [ "KilledUnit", "da/db1/a18589.html#acb8e6c03bbace5d66166c98c13a98290", null ],
-    [ "MovementInform", "da/db1/a18589.html#a4d66d60d0e129b3a873d0c91c03e02f4", null ],
-    [ "Reset", "da/db1/a18589.html#ad6653183f1dda6bfe3659a94993772ab", null ],
-    [ "SetData", "da/db1/a18589.html#a13f8561d1d131b7e57904678a64ae1de", null ],
-    [ "SpellHit", "da/db1/a18589.html#ac756adaba702219440fee3bfc2548f3c", null ],
-    [ "SpellHitTarget", "da/db1/a18589.html#a43ba267fd91585541e69e3911c0291d7", null ],
-    [ "SummonedCreatureDies", "da/db1/a18589.html#af81105d937124f49bd722ca787d31d58", null ],
-    [ "UpdateAI", "da/db1/a18589.html#a06c2609a2cff0d6b684dc197e6a29e9b", null ],
-    [ "_bFordringMustFallYell", "da/db1/a18589.html#a0e932a7e98d4e5d5fce8c35926acc185", null ],
-    [ "_bFrostmournePhase", "da/db1/a18589.html#af867d86aa20366bfbbfaf8083fe35271", null ],
-    [ "_lastTalkTimeBuff", "da/db1/a18589.html#af948b1ee8415f61e3d4fb8841c1ff9e3", null ],
-    [ "_lastTalkTimeKill", "da/db1/a18589.html#a9b94bb5efd74560dd8d653e0abfdbcf0", null ],
-    [ "_necroticPlagueStack", "da/db1/a18589.html#ad8a8a978402cc32046b67a42621d8d42", null ],
-    [ "_phase", "da/db1/a18589.html#ae069cec361b187a657a707d6613f32b7", null ],
-    [ "_positionCheckTimer", "da/db1/a18589.html#a94896994f59ab4c38479a5c97742128a", null ],
-    [ "_vileSpiritExplosions", "da/db1/a18589.html#a94f291e9cf428fe2912c666fa49360d8", null ]
+    [ "OrderWhelpTargetSelector", "da/db1/a18589.html#a5e433367ebbf88c6bb8fef9d43eafcfa", null ],
+    [ "operator()", "da/db1/a18589.html#abf98b730a2b794012c28b61ab8bb6b6c", null ],
+    [ "_owner", "da/db1/a18589.html#ae475da3cca3d6288ce7df0b84d59005e", null ]
 ];

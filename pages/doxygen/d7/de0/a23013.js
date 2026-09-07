@@ -1,13 +1,11 @@
 var a23013 =
 [
-    [ "npc_inner_demon", "d7/de0/a23013.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
-    [ "CanAIAttack", "d7/de0/a23013.html#a7498fd32b0ace832b38dc624d07478ed", null ],
-    [ "CanBeSeen", "d7/de0/a23013.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
-    [ "CanReceiveDamage", "d7/de0/a23013.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
-    [ "IsSummonedBy", "d7/de0/a23013.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
-    [ "JustDied", "d7/de0/a23013.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
-    [ "OnCalculateMeleeDamageReceived", "d7/de0/a23013.html#ae95022548b44b23ef93fae24729b5af5", null ],
-    [ "OnCalculatePeriodicTickReceived", "d7/de0/a23013.html#a546281a2257d0407d294fba1f7d3426f", null ],
-    [ "OnCalculateSpellDamageReceived", "d7/de0/a23013.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
-    [ "UpdateAI", "d7/de0/a23013.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
+    [ "boss_essence_of_angerAI", "d7/de0/a23013.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "d7/de0/a23013.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "d7/de0/a23013.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "d7/de0/a23013.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "d7/de0/a23013.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "d7/de0/a23013.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "d7/de0/a23013.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "targetGUID", "d7/de0/a23013.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

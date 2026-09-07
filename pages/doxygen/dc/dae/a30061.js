@@ -1,10 +1,5 @@
 var a30061 =
 [
-    [ "WDTFile", "dc/dae/a30061.html#a10c133d9b2f8d39cb6c2b3d8c2791b78", null ],
-    [ "~WDTFile", "dc/dae/a30061.html#a445fe73204fd378e2b63a83d9f5dca0a", null ],
-    [ "GetMap", "dc/dae/a30061.html#aa952c5bfe52a1aa851984a7e6dc963c9", null ],
-    [ "init", "dc/dae/a30061.html#a91a33f89cae35254f52e8c4f1c33e2cb", null ],
-    [ "_file", "dc/dae/a30061.html#a54ab64288144b9cf4904e67bb359e524", null ],
-    [ "_wmoNames", "dc/dae/a30061.html#a6ec4f95ff866585403670b620a42a857", null ],
-    [ "filename", "dc/dae/a30061.html#ab3dac8623598bac1152a514a00126bf6", null ]
+    [ "SetUp", "dc/dae/a30061.html#a00b4e88a208a6e930244a37d4257d971", null ],
+    [ "_scenario", "dc/dae/a30061.html#a39b6b0e42a22735909b0edf6de29d5f1", null ]
 ];

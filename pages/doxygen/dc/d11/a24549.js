@@ -1,7 +1,6 @@
 var a24549 =
 [
-    [ "AfterApply", "dc/d11/a24549.html#adae232af9445638b3d54e81d414483b7", null ],
-    [ "AfterRemove", "dc/d11/a24549.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
-    [ "PrepareAuraScript", "dc/d11/a24549.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
-    [ "Register", "dc/d11/a24549.html#abff75ea597dcc017a359a5ef3ada4314", null ]
+    [ "FilterTargets", "dc/d11/a24549.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
+    [ "PrepareSpellScript", "dc/d11/a24549.html#aea49df3f6b93223ed72c3a9875232b74", null ],
+    [ "Register", "dc/d11/a24549.html#a8f0e0b6363303def780d35415c88b4d6", null ]
 ];

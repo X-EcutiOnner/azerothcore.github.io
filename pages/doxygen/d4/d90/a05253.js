@@ -1,17 +1,18 @@
 var a05253 =
 [
-    [ "DynamicMapTree", "d4/d90/a05253.html#ae1abe2e5e0464f2cfc6b87338698983d", null ],
-    [ "~DynamicMapTree", "d4/d90/a05253.html#a6d33c22d53a1c2b8120e80c1f508cfb0", null ],
-    [ "balance", "d4/d90/a05253.html#a1af866551a1ea151551ebb856797528d", null ],
-    [ "contains", "d4/d90/a05253.html#a0d1cb7c5e805b637b392afe95ce0286a", null ],
-    [ "GetAreaAndLiquidData", "d4/d90/a05253.html#a1229eb7e83b481cb72ffc9ae4a3a28a8", null ],
-    [ "getHeight", "d4/d90/a05253.html#ac10680b14e3849bd17926cef24765d9d", null ],
-    [ "GetIntersectionTime", "d4/d90/a05253.html#a06e7f683147b9487dad5ca70f28e5aa6", null ],
-    [ "GetObjectHitPos", "d4/d90/a05253.html#ab664ac39063402dea9f587e9808a358d", null ],
-    [ "insert", "d4/d90/a05253.html#a28ccab96fd4249f15485c89501da597b", null ],
-    [ "isInLineOfSight", "d4/d90/a05253.html#a0e585c88cf1f457ad7018ad9c6a4c542", null ],
-    [ "remove", "d4/d90/a05253.html#af75f1e6b52135ca8a9b4b7cd9fb6f42e", null ],
-    [ "size", "d4/d90/a05253.html#aa97347b2172f8f80e360d6fcc132dbd9", null ],
-    [ "update", "d4/d90/a05253.html#a97597eac8b03eccf1f61a6f2b0a9e562", null ],
-    [ "impl", "d4/d90/a05253.html#a7d3a6c5c88df501d6d89e917fb44b1d0", null ]
+    [ "BuildStats", "d4/d90/a05253.html#a9a2e28e15f755a8a0b5751d62664734f", null ],
+    [ "printStats", "d4/d90/a05253.html#a77e7b7ff44c0f16fc2b5d4370c18751b", null ],
+    [ "updateBVH2", "d4/d90/a05253.html#a9f30e85b3eaa67dc38a28e3472c56de3", null ],
+    [ "updateInner", "d4/d90/a05253.html#a1a3087af9d859d25cd9d475ad8987ca3", null ],
+    [ "updateLeaf", "d4/d90/a05253.html#ae8cf4ba9eaa7dc424914483ab3fafeba", null ],
+    [ "maxDepth", "d4/d90/a05253.html#a855eb250661d80a9313b926556e12168", null ],
+    [ "maxObjects", "d4/d90/a05253.html#acd34211244a97c08193421818f326ff9", null ],
+    [ "minDepth", "d4/d90/a05253.html#a90121f1721624ae2be8b3e6860d02f23", null ],
+    [ "minObjects", "d4/d90/a05253.html#a0d3d26a62ae4aeb18fdff7d07a4b7873", null ],
+    [ "numBVH2", "d4/d90/a05253.html#a37d64390b3f004f36588c1467a446cd0", null ],
+    [ "numLeaves", "d4/d90/a05253.html#a6546dd9cc0de2cba9159f6ab2477b81f", null ],
+    [ "numLeavesN", "d4/d90/a05253.html#a208e3c10fbd61fa6d4cc6736140ddfb1", null ],
+    [ "numNodes", "d4/d90/a05253.html#afbedc638e0117b7ca5c5f1e447846717", null ],
+    [ "sumDepth", "d4/d90/a05253.html#a11cf172a3108b68efc5974b614187550", null ],
+    [ "sumObjects", "d4/d90/a05253.html#a84aa8066e8e19902aecec45607d7a93d", null ]
 ];

@@ -1,13 +1,14 @@
 var a01172 =
 [
-    [ "SkillPerfectItemEntry", "dc/dc9/a11819.html", "dc/dc9/a11819" ],
-    [ "SkillExtraItemEntry", "df/d92/a11823.html", "df/d92/a11823" ],
-    [ "SkillExtraItemMap", "d6/db6/a01172.html#a9ba2d7d2e815aee57a701990b858db7b", null ],
-    [ "SkillPerfectItemMap", "d6/db6/a01172.html#ad732be66d93ed6e8f498077f27e2766b", null ],
-    [ "canCreateExtraItems", "d6/db6/a01172.html#a49687e255d65fa15dac5e6a428c5739d", null ],
-    [ "CanCreatePerfectItem", "d6/db6/a01172.html#a818c557864790091814604b6d2175e52", null ],
-    [ "LoadSkillExtraItemTable", "d6/db6/a01172.html#a3244d04018405bafe21acc8bc96cc743", null ],
-    [ "LoadSkillPerfectItemTable", "d6/db6/a01172.html#a121df170a82be5ab5b05999a6be27b69", null ],
-    [ "SkillExtraItemStore", "d6/db6/a01172.html#acc52416c05fbae29bcbfa9f0683485cd", null ],
-    [ "SkillPerfectItemStore", "d6/db6/a01172.html#ac676f0acbf782fa2d31bd66b8eaa8260", null ]
+    [ "BattlegroundData", "dc/d48/a07721.html", "dc/d48/a07721" ],
+    [ "BattlegroundTemplate", "de/d5b/a07725.html", "de/d5b/a07725" ],
+    [ "BattlegroundMgr", "de/dba/a07729.html", "de/dba/a07729" ],
+    [ "sBattlegroundMgr", "d6/db6/a01172.html#abe50926a988d0fff4ee6ba0358c6b278", null ],
+    [ "BattlegroundClientIdsContainer", "d6/db6/a01172.html#aa4d7efc49483e1820c6d759f0f3613f2", null ],
+    [ "BattlegroundContainer", "d6/db6/a01172.html#a33858c5514cd62b25f056e4ba170de59", null ],
+    [ "BattleMastersMap", "d6/db6/a01172.html#a0167dc8561c0fb4a41f0eaa6bea38980", null ],
+    [ "BGFreeSlotQueueContainer", "d6/db6/a01172.html#a356842317f4215b2ee31abb25b4d54e7", null ],
+    [ "bgMapRef", "d6/db6/a01172.html#a91490e6276f571e959bcc65a1a7e4007", null ],
+    [ "bgRef", "d6/db6/a01172.html#a1d8c1781106a97335f700c82ac98e915", null ],
+    [ "bgTypeRef", "d6/db6/a01172.html#ab13257a97cde6f35eb3aed651e61e20c", null ]
 ];

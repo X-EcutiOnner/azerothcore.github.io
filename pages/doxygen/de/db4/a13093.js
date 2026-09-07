@@ -1,5 +1,25 @@
 var a13093 =
 [
-    [ "npc_chess_move_trigger", "de/db4/a13093.html#a6c0c37677db45ee11ebe158893d99632", null ],
-    [ "DamageTaken", "de/db4/a13093.html#af413c7af2254c1cc06462b2a62ac88db", null ]
+    [ "boss_ragnaros", "de/db4/a13093.html#af00099111c9f5a722e1a6a3fe0c9f052", null ],
+    [ "AttackStart", "de/db4/a13093.html#a89ea28d81f6d5873f6eb542beaa486cd", null ],
+    [ "DamageTaken", "de/db4/a13093.html#a8bd76b12ba287b79861ccefe6e15c175", null ],
+    [ "DoAction", "de/db4/a13093.html#a4fe9743dd23bb73cbfad3a32f19d3469", null ],
+    [ "HandleEmerge", "de/db4/a13093.html#a2d2733ff728c4e8a0855596cb4534906", null ],
+    [ "IsVictimWithinMeleeRange", "de/db4/a13093.html#a9fcad2eeaa0229ca36d685832bad2748", null ],
+    [ "JustDied", "de/db4/a13093.html#a9e159bff9d94150ad6818b1a7ca00c1b", null ],
+    [ "JustEngagedWith", "de/db4/a13093.html#af849c33822235c680660bc54385a4912", null ],
+    [ "JustSummoned", "de/db4/a13093.html#acb284dada1043f61e24fa86b9a15a728", null ],
+    [ "KilledUnit", "de/db4/a13093.html#a59a4cde9c85b2482d412c0b6b38a9b46", null ],
+    [ "Reset", "de/db4/a13093.html#ad490312c1a9db13e3220b030ca62633c", null ],
+    [ "ScheduleCombatEvents", "de/db4/a13093.html#ac8335bceae8047ac16162ad64960f628", null ],
+    [ "SetGUID", "de/db4/a13093.html#a337e354a964addda13fefb14e6c3fa64", null ],
+    [ "SummonedCreatureDies", "de/db4/a13093.html#ac631c586a97e16dea6f3d9ca228db6e3", null ],
+    [ "UpdateAI", "de/db4/a13093.html#a63d8cbda79c09c5b28824198efb61044", null ],
+    [ "_hasSubmergedOnce", "de/db4/a13093.html#a227861ee536b4b2996404965f3abd4d0", null ],
+    [ "_hasYelledMagmaBurst", "de/db4/a13093.html#a16af36d04df40bd8e324da2ed6581d89", null ],
+    [ "_isIntroDone", "de/db4/a13093.html#a1658a56a33d91c51582395d7d71c3291", null ],
+    [ "_isKnockbackEmoteAllowed", "de/db4/a13093.html#a187a798c94fcc62083db337d58c626c2", null ],
+    [ "_lavaBurstGUIDS", "de/db4/a13093.html#a9f54ebd102b2cef602ebc87e08a84f2a", null ],
+    [ "_processingMagmaBurst", "de/db4/a13093.html#a87ae4e57c8a771ec091dc5c015396060", null ],
+    [ "extraEvents", "de/db4/a13093.html#a0bd3c10d05c15fe817aa4250f5c811ac", null ]
 ];

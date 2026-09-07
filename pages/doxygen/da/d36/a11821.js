@@ -1,7 +1,8 @@
 var a11821 =
 [
-    [ "chance", "da/d36/a11821.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
-    [ "triggeredByAura", "da/d36/a11821.html#abb48d6093570ba9c5488f200544a1e83", null ],
-    [ "triggeredByEffIdx", "da/d36/a11821.html#a82d752dedab39f417af225add6af1403", null ],
-    [ "triggeredSpell", "da/d36/a11821.html#a02ac12119655f9ab82347d21cc68803a", null ]
+    [ "SkillDiscoveryEntry", "da/d36/a11821.html#a54c0f12153c6e63a37e5da44d233b271", null ],
+    [ "SkillDiscoveryEntry", "da/d36/a11821.html#a301cae078fe1943cae045e94dc3d38ad", null ],
+    [ "chance", "da/d36/a11821.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
+    [ "reqSkillValue", "da/d36/a11821.html#a61e0edc8fee1fa4045d846668d08449c", null ],
+    [ "spellId", "da/d36/a11821.html#a75ca40729917317173b2953c8f47f833", null ]
 ];

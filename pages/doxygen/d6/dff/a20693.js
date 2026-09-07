@@ -1,5 +1,7 @@
 var a20693 =
 [
-    [ "achievement_thorim_lose_your_illusion", "d6/dff/a20693.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
-    [ "OnCheck", "d6/dff/a20693.html#a322df4f30445a84085615925f74a8a6b", null ]
+    [ "HandleEffectPeriodic", "d6/dff/a20693.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "d6/dff/a20693.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "d6/dff/a20693.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "d6/dff/a20693.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

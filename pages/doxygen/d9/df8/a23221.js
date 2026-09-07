@@ -1,13 +1,13 @@
 var a23221 =
 [
-    [ "boss_ghazan", "d9/df8/a23221.html#ae730362fcf3606c67b6b85147de98fb6", null ],
-    [ "DoAction", "d9/df8/a23221.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
-    [ "InitializeAI", "d9/df8/a23221.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
-    [ "JustEngagedWith", "d9/df8/a23221.html#ad4136f0f63d267284f36756793c0efa7", null ],
-    [ "JustReachedHome", "d9/df8/a23221.html#af9f2dd854036d5c8b9c6703499836199", null ],
-    [ "MovementInform", "d9/df8/a23221.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
-    [ "Reset", "d9/df8/a23221.html#afc9522a26060643f2f9d25a8a98691b7", null ],
-    [ "UpdateAI", "d9/df8/a23221.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
-    [ "_movedToPlatform", "d9/df8/a23221.html#aa6c0c391355ac0b698d67796efd63062", null ],
-    [ "_reachedPlatform", "d9/df8/a23221.html#af3476318b4721bd52facaf735eabb1f9", null ]
+    [ "boss_fathomguard_caribdis", "d9/df8/a23221.html#a9172b9717e5137ddde7df38bb237478c", null ],
+    [ "EnterEvadeMode", "d9/df8/a23221.html#aa666a491a776b12a042ee140aedc95eb", null ],
+    [ "JustDied", "d9/df8/a23221.html#ab821365b35a48f70a11c6033fe2ca714", null ],
+    [ "JustEngagedWith", "d9/df8/a23221.html#a5503519998f51f475420ada2210f32f0", null ],
+    [ "JustSummoned", "d9/df8/a23221.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
+    [ "Reset", "d9/df8/a23221.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
+    [ "UpdateAI", "d9/df8/a23221.html#af4a544f37d178de21d84f2544f24431e", null ],
+    [ "_instance", "d9/df8/a23221.html#a73f567f2269aeca1435af82e1c6880e9", null ],
+    [ "_scheduler", "d9/df8/a23221.html#a08b01e9735e421d8d5bbc2b552217762", null ],
+    [ "_summons", "d9/df8/a23221.html#ac8b53cb81547a2423a13c997badb77e3", null ]
 ];

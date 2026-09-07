@@ -1,6 +1,10 @@
 var a19725 =
 [
-    [ "npc_oculus_unstable_sphereAI", "d0/d37/a19729.html", "d0/d37/a19729" ],
-    [ "npc_oculus_unstable_sphere", "d6/dbe/a19725.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
-    [ "GetAI", "d6/dbe/a19725.html#adda2a9e7eab03444742e85729673ab2f", null ]
+    [ "npc_power_spark", "d6/dbe/a19725.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
+    [ "DamageTaken", "d6/dbe/a19725.html#afe33d511823666929232bfd0179ee72a", null ],
+    [ "DoAction", "d6/dbe/a19725.html#ab99a859ee718d49ce59171e7e7159abc", null ],
+    [ "UpdateAI", "d6/dbe/a19725.html#ab36e75c87aa262a57be1594289284730", null ],
+    [ "_checkTimer", "d6/dbe/a19725.html#ae63f0f359037363b840fe51a797969b5", null ],
+    [ "_instance", "d6/dbe/a19725.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
+    [ "_moveTimer", "d6/dbe/a19725.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
 ];

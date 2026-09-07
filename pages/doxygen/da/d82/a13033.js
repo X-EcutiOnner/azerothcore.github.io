@@ -1,9 +1,8 @@
 var a13033 =
 [
-    [ "npc_mc_core_hound", "da/d82/a13033.html#a4768b06f344d6bbf7e3d0cef16e1b75d", null ],
-    [ "DamageTaken", "da/d82/a13033.html#a1b9cd2776b1a3f363915fc91e1e34414", null ],
-    [ "Reset", "da/d82/a13033.html#ab2bfa697f694b5b35129b361e171e2a4", null ],
-    [ "UpdateAI", "da/d82/a13033.html#a9c5081e9c622eb0679cd396caed002b9", null ],
-    [ "instance", "da/d82/a13033.html#a54da081c07184ebd5eed1ffe9a1dd8ee", null ],
-    [ "serratedBiteTimer", "da/d82/a13033.html#afbe528a9f7d2afc6d33bf11f589d9dea", null ]
+    [ "boss_garr", "da/d82/a13033.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
+    [ "JustEngagedWith", "da/d82/a13033.html#abab82d2e00b373ea1f0e444de23f4987", null ],
+    [ "Reset", "da/d82/a13033.html#a64bcae059cfa97def7e52a42d404a016", null ],
+    [ "UpdateAI", "da/d82/a13033.html#a2a412224072b47de6780ea7b8d543743", null ],
+    [ "massEruptionTimer", "da/d82/a13033.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
 ];

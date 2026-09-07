@@ -1,7 +1,6 @@
 var a17485 =
 [
-    [ "HandleEffectPeriodic", "d1/d70/a17485.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
-    [ "PrepareAuraScript", "d1/d70/a17485.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
-    [ "Register", "d1/d70/a17485.html#a5a44978cec95fef30c9ea4308bda2508", null ],
-    [ "Validate", "d1/d70/a17485.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
+    [ "npc_pos_deathwhisper_necrolyteAI", "dc/d8b/a17489.html", "dc/d8b/a17489" ],
+    [ "npc_pos_deathwhisper_necrolyte", "d1/d70/a17485.html#a0dcdb5b1dfed44f74b04663758b531a0", null ],
+    [ "GetAI", "d1/d70/a17485.html#ae765669f95f4f14b393b88bf7ecbbfd6", null ]
 ];

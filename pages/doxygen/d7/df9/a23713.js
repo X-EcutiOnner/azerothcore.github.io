@@ -1,9 +1,20 @@
 var a23713 =
 [
-    [ "boss_void_reaver", "d7/df9/a23713.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
-    [ "JustDied", "d7/df9/a23713.html#a49e6f52b11177bdac07adff92c2675f5", null ],
-    [ "JustEngagedWith", "d7/df9/a23713.html#a9260d05e11f4dec6fc25432a0524706b", null ],
-    [ "KilledUnit", "d7/df9/a23713.html#adc234fc43308771a42d99049876cad1b", null ],
-    [ "Reset", "d7/df9/a23713.html#a02c36ea960de24991f879943991a93c6", null ],
-    [ "_recentlySpoken", "d7/df9/a23713.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "d7/df9/a23713.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
+    [ "Initialize", "d7/df9/a23713.html#afa054fb11fe777019baa70f46bfd8212", null ],
+    [ "IsAnyChannelerAlive", "d7/df9/a23713.html#a6cfc7ec365ab5c5d8ec9d257bca59a48", null ],
+    [ "OnCreatureCreate", "d7/df9/a23713.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
+    [ "OnCreatureEvade", "d7/df9/a23713.html#a3a757de295ca8b11d3bdf5452a859489", null ],
+    [ "OnCreatureRemove", "d7/df9/a23713.html#a727d4d3bfc52391a088e86fef013617c", null ],
+    [ "OnGameObjectCreate", "d7/df9/a23713.html#a020584d79926d170c02655c5e2841127", null ],
+    [ "OnGameObjectRemove", "d7/df9/a23713.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
+    [ "OnUnitDeath", "d7/df9/a23713.html#a9c5e797960f924ddb60d0730ebd2463c", null ],
+    [ "SetBossState", "d7/df9/a23713.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
+    [ "SetData", "d7/df9/a23713.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
+    [ "_burningAbyssalsSet", "d7/df9/a23713.html#a9b616072e8775a10db1c10d0438eb19a", null ],
+    [ "_channelersSet", "d7/df9/a23713.html#a7921231ff7314d1370dffc63e1815e16", null ],
+    [ "_columnSet", "d7/df9/a23713.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
+    [ "_cubesSet", "d7/df9/a23713.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
+    [ "_magtheridonGUID", "d7/df9/a23713.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
+    [ "_wardersSet", "d7/df9/a23713.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
 ];

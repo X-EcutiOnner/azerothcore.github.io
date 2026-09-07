@@ -1,8 +1,7 @@
 var a22429 =
 [
-    [ "CalcPeriodic", "d2/d5b/a22429.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
-    [ "OnRemove", "d2/d5b/a22429.html#af120bb9d6a0c3d338706613540849412", null ],
-    [ "PrepareAuraScript", "d2/d5b/a22429.html#ad413f14193013058e1775f80b457a81d", null ],
-    [ "Register", "d2/d5b/a22429.html#aa35fc5865f108712e450661e67c384ce", null ],
-    [ "Update", "d2/d5b/a22429.html#aebc61b57ed8038488ec06c14483b2099", null ]
+    [ "HandleScript", "d2/d5b/a22429.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
+    [ "PrepareSpellScript", "d2/d5b/a22429.html#a8400fb2e0955444aee21b994d78b78c3", null ],
+    [ "Register", "d2/d5b/a22429.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
+    [ "Validate", "d2/d5b/a22429.html#aa9c2280cbb38db2620db9869e4959153", null ]
 ];

@@ -1,6 +1,6 @@
 var a17249 =
 [
-    [ "entry", "d8/d6d/a17249.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "d8/d6d/a17249.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "d8/d6d/a17249.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "instance_drak_tharon_keep", "d8/d6d/a17249.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
+    [ "OnGameObjectCreate", "d8/d6d/a17249.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
+    [ "OnGameObjectRemove", "d8/d6d/a17249.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
 ];

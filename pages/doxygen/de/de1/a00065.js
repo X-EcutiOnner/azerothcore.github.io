@@ -1,12 +1,24 @@
 var a00065 =
 [
-    [ "VMAP::VMapMgr2", "da/d97/a05319.html", "da/d97/a05319" ],
-    [ "FILENAMEBUFFER_SIZE", "de/de1/a00065.html#aebe91d3f560a4221b135ef03b21a485f", null ],
-    [ "MAP_FILENAME_EXTENSION2", "de/de1/a00065.html#aad39c14e5fae9fd5141df154332ae6fd", null ],
-    [ "DisableTypes", "de/de1/a00065.html#ae6fa86a61cff3bac928739b18ffb8c1b", [
-      [ "VMAP_DISABLE_AREAFLAG", "de/de1/a00065.html#ae6fa86a61cff3bac928739b18ffb8c1ba4fc4dc95e6df57c161e146d8da4b4a19", null ],
-      [ "VMAP_DISABLE_HEIGHT", "de/de1/a00065.html#ae6fa86a61cff3bac928739b18ffb8c1ba2f9e18e9b167ecc25202f607e29af926", null ],
-      [ "VMAP_DISABLE_LOS", "de/de1/a00065.html#ae6fa86a61cff3bac928739b18ffb8c1ba26f8933b26a6ce62d8bddafde8ebb108", null ],
-      [ "VMAP_DISABLE_LIQUIDSTATUS", "de/de1/a00065.html#ae6fa86a61cff3bac928739b18ffb8c1ba191004652b9fbcccb26c14ce81a94cec", null ]
-    ] ]
+    [ "MMAP::MeshData", "d7/df1/a30313.html", "d7/df1/a30313" ],
+    [ "MMAP::TerrainBuilder", "de/df9/a30317.html", "de/df9/a30317" ],
+    [ "Grid", "de/de1/a00065.html#a6ddcf7a168396ad1ecedfc4e5fe04c09", [
+      [ "GRID_V8", "de/de1/a00065.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a1b3d969edeab4d39be8a3a59ebca6e0b", null ],
+      [ "GRID_V9", "de/de1/a00065.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a90e846a47ab162703bf2dc5664a61289", null ]
+    ] ],
+    [ "Spot", "de/de1/a00065.html#aa0140172b3856ff5a4e0db0227a41165", [
+      [ "TOP", "de/de1/a00065.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1", null ],
+      [ "RIGHT", "de/de1/a00065.html#aa0140172b3856ff5a4e0db0227a41165a7ba16840bb5803d51ebe597bc881851e", null ],
+      [ "LEFT", "de/de1/a00065.html#aa0140172b3856ff5a4e0db0227a41165a5bf23f4bd225a5f4caadf6820404332b", null ],
+      [ "BOTTOM", "de/de1/a00065.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04", null ],
+      [ "ENTIRE", "de/de1/a00065.html#aa0140172b3856ff5a4e0db0227a41165a333ed540d45ff2a6bc5ac8a954e93f12", null ]
+    ] ],
+    [ "GRID_PART_SIZE", "de/de1/a00065.html#a39bc2d4fa649e77addef85b06c49b369", null ],
+    [ "GRID_SIZE", "de/de1/a00065.html#a16e4fdf7de4239156a5a8eb83dcc9e8c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT", "de/de1/a00065.html#a44bbf7085ddd1deacaae673ea4ec357c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT_MAX", "de/de1/a00065.html#a26a6da9ce81eb096651bf47cb90f947f", null ],
+    [ "V8_SIZE", "de/de1/a00065.html#a6918d13eba00db309998162fbff2fb7c", null ],
+    [ "V8_SIZE_SQ", "de/de1/a00065.html#a94a0ee7c4f225dfc488737a7ba825bae", null ],
+    [ "V9_SIZE", "de/de1/a00065.html#a32c90e1638c0f8693e2fc95201d2ec3f", null ],
+    [ "V9_SIZE_SQ", "de/de1/a00065.html#a7eb8c24e8759cfd1ebd37b1efc72618b", null ]
 ];

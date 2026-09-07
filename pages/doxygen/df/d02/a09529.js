@@ -1,16 +1,9 @@
 var a09529 =
 [
-    [ "LiquidEntryType", "df/d02/a09529.html#a025eadf79f31d447fc80efabbb2f9f22", null ],
-    [ "LiquidFlagsType", "df/d02/a09529.html#a5bd1b8c77ed4830cc558985e98aa1d01", null ],
-    [ "LiquidMapType", "df/d02/a09529.html#a554cc712f06b4a0eb9bf81c4a41b9030", null ],
-    [ "liquidEntry", "df/d02/a09529.html#a1d69fc74b38f6e596704e26e93281314", null ],
-    [ "liquidFlags", "df/d02/a09529.html#a9ebf22bb06a9254e7175083dc51af9dd", null ],
-    [ "liquidGlobalEntry", "df/d02/a09529.html#a48274eeefa423c48ff860c8ffc110a30", null ],
-    [ "liquidGlobalFlags", "df/d02/a09529.html#abdd9bfcaf91f30c3e543e632c347aa88", null ],
-    [ "liquidHeight", "df/d02/a09529.html#a40f757a6fa57ade760cf1001925a0560", null ],
-    [ "liquidLevel", "df/d02/a09529.html#a45b8bab4cc66e6e5be5ef51ad27bf1cc", null ],
-    [ "liquidMap", "df/d02/a09529.html#ae6ddffb70a92aea580bacebb5a0e4d11", null ],
-    [ "liquidOffX", "df/d02/a09529.html#a310d68fbb4d88272b7ae93492331ce4b", null ],
-    [ "liquidOffY", "df/d02/a09529.html#ae8b485a43a960a810f5951df6419bd54", null ],
-    [ "liquidWidth", "df/d02/a09529.html#afee2d2d96fc879729a070d2b5eb114e0", null ]
+    [ "GridReference", "df/d02/a09529.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
+    [ "~GridReference", "df/d02/a09529.html#afd6a4f88eb066818afde1b752600bb12", null ],
+    [ "next", "df/d02/a09529.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
+    [ "sourceObjectDestroyLink", "df/d02/a09529.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
+    [ "targetObjectBuildLink", "df/d02/a09529.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
+    [ "targetObjectDestroyLink", "df/d02/a09529.html#ac4c863d059b5c826e9597056dc7c887a", null ]
 ];

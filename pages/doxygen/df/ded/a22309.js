@@ -1,13 +1,8 @@
 var a22309 =
 [
-    [ "OPvPCapturePointEP_EWT", "df/ded/a22309.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
-    [ "ChangeState", "df/ded/a22309.html#ac00c50b89e1218f87506778096a9d7cd", null ],
-    [ "FillInitialWorldStates", "df/ded/a22309.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
-    [ "HandlePlayerEnter", "df/ded/a22309.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
-    [ "HandlePlayerLeave", "df/ded/a22309.html#a2638b24dca375420778845963e307db3", null ],
-    [ "SendChangePhase", "df/ded/a22309.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
-    [ "SummonSupportUnitAtNorthpassTower", "df/ded/a22309.html#ad70a8cc485072cd9af892290584062d8", null ],
-    [ "UpdateTowerState", "df/ded/a22309.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
-    [ "m_TowerState", "df/ded/a22309.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
-    [ "m_UnitsSummonedSideId", "df/ded/a22309.html#a0319f0d51624df44419976e7abd1b813", null ]
+    [ "CheckCast", "df/ded/a22309.html#ab1584c391ac81b8338387acc6187001f", null ],
+    [ "HandleDummy", "df/ded/a22309.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
+    [ "PrepareSpellScript", "df/ded/a22309.html#a08d9ffb7dcbe786071979166e0489336", null ],
+    [ "Register", "df/ded/a22309.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
+    [ "Validate", "df/ded/a22309.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
 ];

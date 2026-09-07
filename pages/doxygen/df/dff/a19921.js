@@ -1,5 +1,7 @@
 var a19921 =
 [
-    [ "boss_sjonnir_dwarfAI", "df/dff/a19921.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
-    [ "UpdateAI", "df/dff/a19921.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
+    [ "CalcDamage", "df/dff/a19921.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
+    [ "PrepareSpellScript", "df/dff/a19921.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
+    [ "Register", "df/dff/a19921.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
+    [ "Validate", "df/dff/a19921.html#a773c608119a84cc3f02e7b4d786f2741", null ]
 ];

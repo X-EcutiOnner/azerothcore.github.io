@@ -1,6 +1,8 @@
 var a14629 =
 [
-    [ "npc_brewfest_keg_thrower", "d1/db7/a14629.html#a29da1efd21fe6737684607e5b360ea84", null ],
-    [ "CanBeSeen", "d1/db7/a14629.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
-    [ "MoveInLineOfSight", "d1/db7/a14629.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
+    [ "npc_spawn_of_marli", "d1/db7/a14629.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "d1/db7/a14629.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "d1/db7/a14629.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "d1/db7/a14629.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "d1/db7/a14629.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

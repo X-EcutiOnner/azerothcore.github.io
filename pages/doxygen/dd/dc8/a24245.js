@@ -1,8 +1,10 @@
 var a24245 =
 [
-    [ "CheckProc", "dd/dc8/a24245.html#a746a3e24e07ef9a6ddecef80621768f0", null ],
-    [ "HandleProc", "dd/dc8/a24245.html#aa0c2bbb60940982e14ae98799fb220a6", null ],
-    [ "PrepareAuraScript", "dd/dc8/a24245.html#a0d9decd8a0901b7ab35de6af120baf34", null ],
-    [ "Register", "dd/dc8/a24245.html#aae146676b2ca0f29b1712b774b7f9148", null ],
-    [ "Validate", "dd/dc8/a24245.html#a7725ff69907bb8328c5f7dffaf941478", null ]
+    [ "npc_infernal_attackerAI", "dd/dc8/a24245.html#ae04c4e026f22bd650bb33940b923df9a", null ],
+    [ "IsSummonedBy", "dd/dc8/a24245.html#a926e6cd6772784872a905de7245007ac", null ],
+    [ "JustDied", "dd/dc8/a24245.html#a1822131520f98dd5f1dd637282f20ae3", null ],
+    [ "Reset", "dd/dc8/a24245.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
+    [ "SpellHit", "dd/dc8/a24245.html#a956f3fb1e341519817599df08afc2589", null ],
+    [ "UpdateAI", "dd/dc8/a24245.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
+    [ "casterGUID", "dd/dc8/a24245.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
 ];

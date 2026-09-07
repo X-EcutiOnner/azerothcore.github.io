@@ -1,9 +1,8 @@
 var a14373 =
 [
-    [ "npc_amanishi_lookout", "d6/dad/a14373.html#adf34c160c531164a459092f45588a7be", null ],
-    [ "DoAction", "d6/dad/a14373.html#ab43e3372000af268c81e2701070e1b03", null ],
-    [ "MoveInLineOfSight", "d6/dad/a14373.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
-    [ "MovementInform", "d6/dad/a14373.html#ae9e6d22a781392107a7e50e5815c116c", null ],
-    [ "Reset", "d6/dad/a14373.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
-    [ "_instance", "d6/dad/a14373.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
+    [ "FilterTargets", "d6/dad/a14373.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
+    [ "OnHit", "d6/dad/a14373.html#ac25886536c353f09838188362fb8ae84", null ],
+    [ "PrepareSpellScript", "d6/dad/a14373.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
+    [ "Register", "d6/dad/a14373.html#afa419365236c09914f758846978e2cbb", null ],
+    [ "Validate", "d6/dad/a14373.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
 ];

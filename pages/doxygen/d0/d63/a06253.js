@@ -1,6 +1,5 @@
 var a06253 =
 [
-    [ "DirectoryEntry", "d0/d63/a06253.html#a02538aefc1b014b60957d4c67793000f", null ],
-    [ "path", "d0/d63/a06253.html#aca34dff6659f2da63f31e12bb41cf3d0", null ],
-    [ "state", "d0/d63/a06253.html#aeddd31e8fbb23e54549e985f09c4ea96", null ]
+    [ "element", "d0/d63/a06253.html#ae5400b2932fe1a8c514c38fb6bab392f", null ],
+    [ "type", "d0/d63/a06253.html#afb3f8dc82da740b1aaae165cb6a5b218", null ]
 ];

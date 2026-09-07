@@ -1,20 +1,9 @@
 var a13129 =
 [
-    [ "boss_netherspite", "d2/d96/a13129.html#a41665f388b5abcf6d64e6f58326fe0cc", null ],
-    [ "DestroyPortals", "d2/d96/a13129.html#aef861122117f86230157dfba2aae4b84", null ],
-    [ "dist", "d2/d96/a13129.html#a01862bcde441d4873e2f01d65726b7c7", null ],
-    [ "HandleDoors", "d2/d96/a13129.html#ac5f2ddb87e93c3d85f7912132bbe5bfe", null ],
-    [ "IsBetween", "d2/d96/a13129.html#ae3d1579bd742d2ac38dc47e529c047e1", null ],
-    [ "JustDied", "d2/d96/a13129.html#abf986442648091792058cff6110bc670", null ],
-    [ "JustEngagedWith", "d2/d96/a13129.html#a49a114ce9744c1758294f56088f91348", null ],
-    [ "Reset", "d2/d96/a13129.html#a24b4282d0004fe07810f9210211a28f4", null ],
-    [ "SummonPortals", "d2/d96/a13129.html#a98bbd9ae476eba086de3f70d4b5970e2", null ],
-    [ "SwitchToBanishPhase", "d2/d96/a13129.html#ac049b2b76c796c3d7dd74e8df7fafb99", null ],
-    [ "SwitchToPortalPhase", "d2/d96/a13129.html#ae347618233c5c15f73056629512fcdfa", null ],
-    [ "UpdateAI", "d2/d96/a13129.html#a5610c1eb1e20fb09a0b4680b0170a691", null ],
-    [ "UpdatePortals", "d2/d96/a13129.html#a16a028d881ad1439f699ca9e29c8ce11", null ],
-    [ "BeamerGUID", "d2/d96/a13129.html#af0f9b48c0ef7af916d14681473681744", null ],
-    [ "BeamTarget", "d2/d96/a13129.html#a61cf090860a7866ca0222dd79b697b13", null ],
-    [ "berserk", "d2/d96/a13129.html#a3eab6bee2123d34e6d85fb519c047f00", null ],
-    [ "PortalGUID", "d2/d96/a13129.html#a98824fb7502f2774fc8e5b2c63eeaa7f", null ]
+    [ "npc_mc_core_hound", "d2/d96/a13129.html#a4768b06f344d6bbf7e3d0cef16e1b75d", null ],
+    [ "DamageTaken", "d2/d96/a13129.html#a1b9cd2776b1a3f363915fc91e1e34414", null ],
+    [ "Reset", "d2/d96/a13129.html#ab2bfa697f694b5b35129b361e171e2a4", null ],
+    [ "UpdateAI", "d2/d96/a13129.html#a9c5081e9c622eb0679cd396caed002b9", null ],
+    [ "instance", "d2/d96/a13129.html#a54da081c07184ebd5eed1ffe9a1dd8ee", null ],
+    [ "serratedBiteTimer", "d2/d96/a13129.html#afbe528a9f7d2afc6d33bf11f589d9dea", null ]
 ];

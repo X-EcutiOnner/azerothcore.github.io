@@ -1,27 +1,7 @@
 var a29325 =
 [
-    [ "ProcTestContext", "dd/de9/a29325.html#a3be4a95c438667ccdd0cbed0d606a46b", null ],
-    [ "GetActor", "dd/de9/a29325.html#aa253eaa33458abfa16562c288a23b34f", null ],
-    [ "GetActor", "dd/de9/a29325.html#ae25b85f794cc9174bc67a0a2d28fab8c", null ],
-    [ "GetAura", "dd/de9/a29325.html#a2892ee3c159c616c6b1cd9bb7d4edc21", null ],
-    [ "GetAura", "dd/de9/a29325.html#ae05f6f826284e174d8bcba0902758bd0", null ],
-    [ "GetDamageInfo", "dd/de9/a29325.html#a0ffdd8fa38d8d98fa7beee6d08a44bdb", null ],
-    [ "GetDamageInfo", "dd/de9/a29325.html#ab9821a9a36ab9c54c44726b00bde5c1c", null ],
-    [ "GetHealInfo", "dd/de9/a29325.html#acf3d0ab18a726decfb635fd0aa83d5db", null ],
-    [ "GetHealInfo", "dd/de9/a29325.html#a538e45b713a53a45d453e0ea79993e8b", null ],
-    [ "GetTarget", "dd/de9/a29325.html#a0abd60970b6588ffdc80fa4030554979", null ],
-    [ "GetTarget", "dd/de9/a29325.html#ae1ee18f20e12406a8979a611285ab7ef", null ],
-    [ "WithActorAsPlayer", "dd/de9/a29325.html#ae2a9f04d30cbb14fc1d528a58521a602", null ],
-    [ "WithAuraCharges", "dd/de9/a29325.html#a544da38ede50c01868a3e918efcad8a1", null ],
-    [ "WithAuraId", "dd/de9/a29325.html#a538af7b841e7e64d16e53e57e303b3e0", null ],
-    [ "WithAuraSpellFamily", "dd/de9/a29325.html#a43c994ff3ac8fc4d1b535beffea985bc", null ],
-    [ "WithCriticalHit", "dd/de9/a29325.html#aaf70bafc7d7fa0fc030ac2a3988c2bfe", null ],
-    [ "WithDamage", "dd/de9/a29325.html#a46b0dc60ef6bc0d433a4089c4e755d8e", null ],
-    [ "WithHeal", "dd/de9/a29325.html#a4f396c33b767cce2c538c94578dcdcbd", null ],
-    [ "WithNormalHit", "dd/de9/a29325.html#af0cf99f26f6f220bb2da889bcd139a5e", null ],
-    [ "_actor", "dd/de9/a29325.html#ac62553cbe1667cbfd695ca3bd9834184", null ],
-    [ "_aura", "dd/de9/a29325.html#aaaa64249b6f8bd281834e2b7c309ed38", null ],
-    [ "_damageInfo", "dd/de9/a29325.html#aa76666ba435170552f3b9a355bf2d0b8", null ],
-    [ "_healInfo", "dd/de9/a29325.html#aab8d47fcad592c5269991e85b3ad2cf0", null ],
-    [ "_target", "dd/de9/a29325.html#a7dcbdab19d62f509912d7067075bd82d", null ]
+    [ "Id", "dd/de9/a29325.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
+    [ "SoundBank", "dd/de9/a29325.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
+    [ "SpellId", "dd/de9/a29325.html#aa010947f5fbec6867b005b25728e720b", null ],
+    [ "Type", "dd/de9/a29325.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
 ];

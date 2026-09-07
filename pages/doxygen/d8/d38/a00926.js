@@ -1,4 +1,6 @@
 var a00926 =
 [
-    [ "ScriptRegistry< PetScript >", "d8/d38/a00926.html#a24e9b0a598349bf70ac6cf5aa4e30043", null ]
+    [ "lfg::LFGPlayerScript", "d8/d52/a08397.html", "d8/d52/a08397" ],
+    [ "lfg::LFGGroupScript", "d1/d54/a08401.html", "d1/d54/a08401" ],
+    [ "AddSC_LFGScripts", "d8/d38/a00926.html#a9624b9328e26a9f420a4a3f07e253763", null ]
 ];

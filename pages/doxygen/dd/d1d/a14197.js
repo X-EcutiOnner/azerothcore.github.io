@@ -1,7 +1,8 @@
 var a14197 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "dd/d1d/a14197.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
-    [ "Reset", "dd/d1d/a14197.html#a18de805428ce0954a5fbfffbf5975342", null ],
-    [ "UpdateAI", "dd/d1d/a14197.html#a48b191d0812bfe3212511a52ef0df817", null ],
-    [ "_events", "dd/d1d/a14197.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
+    [ "CheckCast", "dd/d1d/a14197.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
+    [ "HandleScriptEffect", "dd/d1d/a14197.html#a36bb2b95651889eaa0321a7a327e173f", null ],
+    [ "PrepareSpellScript", "dd/d1d/a14197.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
+    [ "Register", "dd/d1d/a14197.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
+    [ "Validate", "dd/d1d/a14197.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
 ];

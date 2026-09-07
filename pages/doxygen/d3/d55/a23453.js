@@ -1,5 +1,5 @@
 var a23453 =
 [
-    [ "spellId", "d3/d55/a23453.html#acc63d01d5095adef28b9746c520be973", null ],
-    [ "textId", "d3/d55/a23453.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
+    [ "at_quagmirran_lair", "d3/d55/a23453.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
+    [ "OnTrigger", "d3/d55/a23453.html#aa0aab42516efaf842923b8a820942ac4", null ]
 ];

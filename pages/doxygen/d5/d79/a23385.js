@@ -1,14 +1,7 @@
 var a23385 =
 [
-    [ "boss_vazruden", "d5/d79/a23385.html#a9908d6082a09d55dd0d8bb801784a151", null ],
-    [ "DamageTaken", "d5/d79/a23385.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
-    [ "EnterEvadeMode", "d5/d79/a23385.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
-    [ "JustDied", "d5/d79/a23385.html#a525025b41b53a577bdff1eb818191ed7", null ],
-    [ "JustEngagedWith", "d5/d79/a23385.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
-    [ "KilledUnit", "d5/d79/a23385.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
-    [ "Reset", "d5/d79/a23385.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
-    [ "UpdateAI", "d5/d79/a23385.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
-    [ "_hasSpoken", "d5/d79/a23385.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
-    [ "_nazanCalled", "d5/d79/a23385.html#a44d53934c743e9beb539681719997852", null ],
-    [ "_scheduler", "d5/d79/a23385.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
+    [ "npc_ahune_ice_spear_bunny", "d5/d79/a23385.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "d5/d79/a23385.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "d5/d79/a23385.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "d5/d79/a23385.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

@@ -1,9 +1,7 @@
 var a28633 =
 [
-    [ "CinematicSequence", "db/df2/a28633.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
-    [ "ClassID", "db/df2/a28633.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
-    [ "expansion", "db/df2/a28633.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
-    [ "name", "db/df2/a28633.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
-    [ "powerType", "db/df2/a28633.html#a74aec35dc161a7e830453b9365a6f107", null ],
-    [ "spellfamily", "db/df2/a28633.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
+    [ "npc_steam_tonkAI", "db/df2/a28633.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "db/df2/a28633.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "db/df2/a28633.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "db/df2/a28633.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

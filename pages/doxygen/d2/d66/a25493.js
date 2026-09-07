@@ -1,7 +1,7 @@
 var a25493 =
 [
-    [ "HandleProc", "d2/d66/a25493.html#a68f17c864f8b2138c73a2fea42b8a252", null ],
-    [ "PrepareAuraScript", "d2/d66/a25493.html#a3722c927cf522685c08886338433964d", null ],
-    [ "Register", "d2/d66/a25493.html#a38985baeb0c24c948747492bf1d1f546", null ],
-    [ "Validate", "d2/d66/a25493.html#ac8bdbf36f0ccfa77de664d630540957d", null ]
+    [ "OnApply", "d2/d66/a25493.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
+    [ "OnRemove", "d2/d66/a25493.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
+    [ "PrepareAuraScript", "d2/d66/a25493.html#a9a7b549e059b6bd2d22802f60e952658", null ],
+    [ "Register", "d2/d66/a25493.html#aae603735281daf02ceca157e218d5c9f", null ]
 ];

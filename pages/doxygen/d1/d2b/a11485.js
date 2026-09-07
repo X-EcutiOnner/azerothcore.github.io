@@ -1,6 +1,6 @@
 var a11485 =
 [
-    [ "PetLearnedSpell", "d1/d2b/a11485.html#a5d105cca08515b9550998f2c86b13a1a", null ],
-    [ "Write", "d1/d2b/a11485.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
-    [ "SpellID", "d1/d2b/a11485.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
+    [ "InvalidStringValueException", "d1/d2b/a11485.html#a4b5442d97f2bc8005cb20eefa6c13dc8", null ],
+    [ "GetInvalidValue", "d1/d2b/a11485.html#a5ef59243610de6d0a9db22ddb9cd7bdd", null ],
+    [ "_value", "d1/d2b/a11485.html#a8a8c86a63c34789ab7cce999455eb4bb", null ]
 ];

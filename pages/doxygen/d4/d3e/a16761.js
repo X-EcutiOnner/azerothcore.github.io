@@ -1,6 +1,6 @@
 var a16761 =
 [
-    [ "instance_trial_of_the_champion_InstanceMapScript", "d9/da8/a16765.html", "d9/da8/a16765" ],
-    [ "instance_trial_of_the_champion", "d4/d3e/a16761.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
-    [ "GetInstanceScript", "d4/d3e/a16761.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
+    [ "FilterTargets", "d4/d3e/a16761.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
+    [ "PrepareSpellScript", "d4/d3e/a16761.html#a697a52cbc50eafd2b0377621afb01557", null ],
+    [ "Register", "d4/d3e/a16761.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
 ];

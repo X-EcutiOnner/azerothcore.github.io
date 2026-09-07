@@ -1,9 +1,6 @@
 var a10253 =
 [
-    [ "MapUpdateRequest", "df/d3f/a10253.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "df/d3f/a10253.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "df/d3f/a10253.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "df/d3f/a10253.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "df/d3f/a10253.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "df/d3f/a10253.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "AllowMount", "df/d3f/a10253.html#a611108f0c1f623bb0761a174e477df22", null ],
+    [ "Parent", "df/d3f/a10253.html#a6298c3dd0c8939b1cf228727c363918e", null ],
+    [ "ScriptId", "df/d3f/a10253.html#ac9cdaf7fc486bc89b5c5d95ac13146da", null ]
 ];

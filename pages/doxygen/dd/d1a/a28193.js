@@ -1,6 +1,10 @@
 var a28193 =
 [
-    [ "npc_innkeeper", "dd/d1a/a28193.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "dd/d1a/a28193.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "dd/d1a/a28193.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "boss_emerissAI", "dd/d1a/a28193.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
+    [ "DamageTaken", "dd/d1a/a28193.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
+    [ "ExecuteEvent", "dd/d1a/a28193.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
+    [ "JustEngagedWith", "dd/d1a/a28193.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
+    [ "KilledUnit", "dd/d1a/a28193.html#ad851169bc09a362137e211dd10d30a1b", null ],
+    [ "Reset", "dd/d1a/a28193.html#a44dfb325c4e8413662052137edc710ef", null ],
+    [ "_stage", "dd/d1a/a28193.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
 ];

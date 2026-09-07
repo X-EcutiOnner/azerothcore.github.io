@@ -1,6 +1,7 @@
 var a22121 =
 [
-    [ "CheckCast", "d8/dc5/a22121.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
-    [ "PrepareSpellScript", "d8/dc5/a22121.html#ab4025d8a4acee4723dcca972bce01f45", null ],
-    [ "Register", "d8/dc5/a22121.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
+    [ "HandleDummy", "d8/dc5/a22121.html#a3a0f6a1c3bad060c209e869c7c4dcd15", null ],
+    [ "PrepareSpellScript", "d8/dc5/a22121.html#a4649e83f5a8449d6b17dbb5b5c56cd00", null ],
+    [ "Register", "d8/dc5/a22121.html#a9e272ccbcda76df669b2c15e6d2de061", null ],
+    [ "Validate", "d8/dc5/a22121.html#aec08efe15452819d923c40030e464392", null ]
 ];

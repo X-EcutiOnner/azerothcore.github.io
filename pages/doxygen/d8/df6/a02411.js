@@ -1,5 +1,5 @@
 var a02411 =
 [
-    [ "OutdoorPvP_zangarmarsh", "dd/db5/a22424.html", "dd/db5/a22424" ],
-    [ "AddSC_outdoorpvp_zm", "d8/df6/a02411.html#a3077d08865fa83f84cf956c392a9091c", null ]
+    [ "player_commandscript", "df/d14/a12561.html", "df/d14/a12561" ],
+    [ "AddSC_player_commandscript", "d8/df6/a02411.html#a3a4a77162d5b304dab9a8c8e397c3516", null ]
 ];

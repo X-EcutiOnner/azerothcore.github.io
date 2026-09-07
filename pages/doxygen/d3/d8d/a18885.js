@@ -1,7 +1,9 @@
 var a18885 =
 [
-    [ "npc_blazing_skeletonAI", "d3/d8d/a18885.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
-    [ "Reset", "d3/d8d/a18885.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
-    [ "UpdateAI", "d3/d8d/a18885.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
-    [ "_events", "d3/d8d/a18885.html#aab1b04989d5e3fc289f00bc121df193d", null ]
+    [ "DelayedCastEvent", "d3/d8d/a18885.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
+    [ "Execute", "d3/d8d/a18885.html#ae2925429b3049e44d2afd2e8b990af71", null ],
+    [ "_despawnTime", "d3/d8d/a18885.html#afcaeafb72df77c36b5496588c219fac4", null ],
+    [ "_originalCaster", "d3/d8d/a18885.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
+    [ "_spellId", "d3/d8d/a18885.html#abe28a6749101233302634ed226a289e8", null ],
+    [ "_trigger", "d3/d8d/a18885.html#a85471a151a3165cc906f3a41103c3f5d", null ]
 ];

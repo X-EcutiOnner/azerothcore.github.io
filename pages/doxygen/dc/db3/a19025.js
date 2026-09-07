@@ -1,6 +1,6 @@
 var a19025 =
 [
-    [ "npc_captain_grondelAI", "d4/d20/a19029.html", "d4/d20/a19029" ],
-    [ "npc_captain_grondel", "dc/db3/a19025.html#a54a53f8e3cde87405219c815a56d523c", null ],
-    [ "GetAI", "dc/db3/a19025.html#a2a7725e81294e80701b7742d2605ec00", null ]
+    [ "CaptainSurviveTalk", "dc/db3/a19025.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "dc/db3/a19025.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "dc/db3/a19025.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

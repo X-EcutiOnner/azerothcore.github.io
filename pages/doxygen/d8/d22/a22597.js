@@ -1,7 +1,5 @@
 var a22597 =
 [
-    [ "OnPeriodic", "d8/d22/a22597.html#aa5d2f7530277a6a4d4a85ec5d244b9bc", null ],
-    [ "PrepareAuraScript", "d8/d22/a22597.html#a973ccf17f6499bc84306a18b07fcef7b", null ],
-    [ "Register", "d8/d22/a22597.html#a07b3b1df6626a9fb657270eb1d9f386a", null ],
-    [ "Validate", "d8/d22/a22597.html#a006d67e9e82cce68930b90b00d3555a4", null ]
+    [ "OutdoorPvP_grizzly_hills", "d8/d22/a22597.html#aa020d8120c62874fb15b4623bbb714d9", null ],
+    [ "GetOutdoorPvP", "d8/d22/a22597.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
 ];

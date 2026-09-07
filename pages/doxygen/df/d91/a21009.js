@@ -1,12 +1,9 @@
 var a21009 =
 [
-    [ "boss_skarvald_the_constructor", "df/d91/a21009.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
-    [ "DoAction", "df/d91/a21009.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
-    [ "JustDied", "df/d91/a21009.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
-    [ "JustEngagedWith", "df/d91/a21009.html#a529439d257abf78f76db0043549964e6", null ],
-    [ "KilledUnit", "df/d91/a21009.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
-    [ "Reset", "df/d91/a21009.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
-    [ "UpdateAI", "df/d91/a21009.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
-    [ "events", "df/d91/a21009.html#a28837280e161f6971564a4725c97a154", null ],
-    [ "pInstance", "df/d91/a21009.html#ab5b773a9960f611a6383578a607ba258", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "df/d91/a21009.html#a1649412beffbc87ce046a591775b02b2", null ],
+    [ "DamageTaken", "df/d91/a21009.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "df/d91/a21009.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "df/d91/a21009.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "df/d91/a21009.html#ae22a12401dc98534da1cb771468a58ce", null ],
+    [ "_diminishReady", "df/d91/a21009.html#af8d417c56918cf59dfe3d8429c4cf239", null ]
 ];

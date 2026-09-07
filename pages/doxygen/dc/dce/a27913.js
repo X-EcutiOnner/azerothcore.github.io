@@ -1,6 +1,7 @@
 var a27913 =
 [
-    [ "boss_emerissAI", "d1/dc0/a27917.html", "d1/dc0/a27917" ],
-    [ "boss_emeriss", "dc/dce/a27913.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "dc/dce/a27913.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "FilterTargets", "dc/dce/a27913.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "dc/dce/a27913.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "dc/dce/a27913.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "dc/dce/a27913.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

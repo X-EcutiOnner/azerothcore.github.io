@@ -1,7 +1,6 @@
 var a19269 =
 [
-    [ "DelayedCastMincharEvent", "d3/d9f/a19269.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "d3/d9f/a19269.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "d3/d9f/a19269.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "d3/d9f/a19269.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "d5/d63/a19273.html", "d5/d63/a19273" ],
+    [ "npc_icc_skybreaker_hierophant", "d3/d9f/a19269.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
+    [ "GetAI", "d3/d9f/a19269.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
 ];

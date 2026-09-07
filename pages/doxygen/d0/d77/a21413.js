@@ -1,7 +1,11 @@
 var a21413 =
 [
-    [ "npc_mootoo_the_youngerAI", "df/dad/a21417.html", "df/dad/a21417" ],
-    [ "npc_mootoo_the_younger", "d0/d77/a21413.html#a91e10489ed6a98cfa764fd4de8448317", null ],
-    [ "GetAI", "d0/d77/a21413.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
-    [ "OnQuestAccept", "d0/d77/a21413.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
+    [ "boss_archavonAI", "d0/d77/a21413.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
+    [ "AttackStart", "d0/d77/a21413.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
+    [ "JustDied", "d0/d77/a21413.html#a3974065a80dedf3e673452e7f6f8e449", null ],
+    [ "JustEngagedWith", "d0/d77/a21413.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
+    [ "Reset", "d0/d77/a21413.html#a7d101626f39947dd54b574491a5e6d72", null ],
+    [ "UpdateAI", "d0/d77/a21413.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
+    [ "events", "d0/d77/a21413.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
+    [ "pInstance", "d0/d77/a21413.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
 ];

@@ -1,12 +1,8 @@
 var a17265 =
 [
-    [ "boss_marwyn", "da/d42/a17265.html#ad0d7ef02952d4f4a2c8ce1f5099e4bdd", null ],
-    [ "DoAction", "da/d42/a17265.html#a7bd848b407d33942f05b48b6284506bb", null ],
-    [ "EnterEvadeMode", "da/d42/a17265.html#a93849e995d62ba5a220e08157d8758fa", null ],
-    [ "JustDied", "da/d42/a17265.html#a89fd620d0e74675d671cb69cc917d024", null ],
-    [ "JustEngagedWith", "da/d42/a17265.html#a038ed3e1a8c9f3f3bc7f7eca584ad5cd", null ],
-    [ "KilledUnit", "da/d42/a17265.html#aad4dd7a1fb79c704c7e59581f938d2e9", null ],
-    [ "Reset", "da/d42/a17265.html#a0e25c5d894b7e20c6a1781410847c1fa", null ],
-    [ "UpdateAI", "da/d42/a17265.html#ae8d1b8908983af8bff1f13641472817f", null ],
-    [ "_startingFight", "da/d42/a17265.html#aee335b57c5249ecd4ce843e0f1694e80", null ]
+    [ "npc_fos_corrupted_soul_fragment", "da/d42/a17265.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
+    [ "Reset", "da/d42/a17265.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
+    [ "UpdateAI", "da/d42/a17265.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
+    [ "Instance", "da/d42/a17265.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
+    [ "Timer", "da/d42/a17265.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
 ];

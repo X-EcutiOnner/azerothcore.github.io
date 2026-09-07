@@ -1,13 +1,9 @@
 var a15201 =
 [
-    [ "boss_infinite_corruptorAI", "d7/d20/a15201.html#add36192941eaabf7f3d1d41c572783bd", null ],
-    [ "DoAction", "d7/d20/a15201.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
-    [ "JustDied", "d7/d20/a15201.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
-    [ "JustEngagedWith", "d7/d20/a15201.html#a644725505db4fc7a98c4255d0eb34616", null ],
-    [ "JustSummoned", "d7/d20/a15201.html#a2b12c03184b169a56a0e6696a107dc35", null ],
-    [ "Reset", "d7/d20/a15201.html#a4dbff495bfcda6fb715dec68616e1764", null ],
-    [ "UpdateAI", "d7/d20/a15201.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
-    [ "beamTimer", "d7/d20/a15201.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
-    [ "events", "d7/d20/a15201.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
-    [ "summons", "d7/d20/a15201.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
+    [ "boss_rage_winterchill", "d7/d20/a15201.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "d7/d20/a15201.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "d7/d20/a15201.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "d7/d20/a15201.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "d7/d20/a15201.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "d7/d20/a15201.html#aec47befdf3246710a5158780fa797fa7", null ]
 ];

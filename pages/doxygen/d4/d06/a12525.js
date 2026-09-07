@@ -1,23 +1,12 @@
 var a12525 =
 [
-    [ "spellinfo_commandscript", "d4/d06/a12525.html#ad27a2a6252ab11030b6d75d7c25ac5dd", null ],
-    [ "GetAuraTypeName", "d4/d06/a12525.html#a71fa4c95c21c3f89395756e5e7be5386", null ],
-    [ "GetCommands", "d4/d06/a12525.html#ac58355105d147793fab51cfaf3cbf3bb", null ],
-    [ "GetDispelName", "d4/d06/a12525.html#ac3061b665a5181048989626e59781087", null ],
-    [ "GetDmgClassName", "d4/d06/a12525.html#a1c529354ea7dc057e6a81b87ee15537b", null ],
-    [ "GetPowerName", "d4/d06/a12525.html#a5f46de9c615591c37d9dec1b0e8526f9", null ],
-    [ "GetPreventionTypeName", "d4/d06/a12525.html#a08e8b880e6e588b02b93ed3f475392d7", null ],
-    [ "GetSpellEffectName", "d4/d06/a12525.html#a30a9e357013fa80eb026f16ceec25dfd", null ],
-    [ "GetSpellFamilyName", "d4/d06/a12525.html#ac14dc8bce275faf9414e730668de5228", null ],
-    [ "GetTargetName", "d4/d06/a12525.html#a407c9a6e657f97cd0ba0a4413de88c0c", null ],
-    [ "HandleSpellInfoAllCommand", "d4/d06/a12525.html#a3534b8dd1f8d9686ec27b77a04b7bb29", null ],
-    [ "HandleSpellInfoAttributesCommand", "d4/d06/a12525.html#a722cffaeb5c589b4531f8359abb8d8cc", null ],
-    [ "HandleSpellInfoEffectsCommand", "d4/d06/a12525.html#a3f35730886a826735b63b76611eca844", null ],
-    [ "HandleSpellInfoTargetsCommand", "d4/d06/a12525.html#a6b741727a02b26c0b15ce23e72a0a37d", null ],
-    [ "PrintAttributes", "d4/d06/a12525.html#a5e6cbdb2d1487735dbb5920a1c9506ef", null ],
-    [ "PrintBasicInfo", "d4/d06/a12525.html#a01f5468bee731c351fe56fdb170b80d4", null ],
-    [ "PrintEffects", "d4/d06/a12525.html#af3097eebfcb538fc7a391472bc4c9d7d", null ],
-    [ "PrintGeneralInfo", "d4/d06/a12525.html#a8cfeddef3a5baba97b39e3cd22413222", null ],
-    [ "PrintSpellAttrFlags", "d4/d06/a12525.html#a1d6b177623b8fb66ea44e88282fc1052", null ],
-    [ "PrintTargets", "d4/d06/a12525.html#a92168f9a69c5e5437002234b951b7c00", null ]
+    [ "message_commandscript", "d4/d06/a12525.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
+    [ "GetCommands", "d4/d06/a12525.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
+    [ "HandleAnnounceCommand", "d4/d06/a12525.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
+    [ "HandleGMAnnounceCommand", "d4/d06/a12525.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
+    [ "HandleGMNameAnnounceCommand", "d4/d06/a12525.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
+    [ "HandleGMNotifyCommand", "d4/d06/a12525.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
+    [ "HandleNameAnnounceCommand", "d4/d06/a12525.html#a786902b70345712c6dba9f638695dd9e", null ],
+    [ "HandleNotifyCommand", "d4/d06/a12525.html#a0d53b2414931451b30abd2fe5acee1af", null ],
+    [ "HandleWhispersCommand", "d4/d06/a12525.html#a9a02c97677250136f9717968a9f47b73", null ]
 ];

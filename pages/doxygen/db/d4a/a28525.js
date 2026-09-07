@@ -1,6 +1,8 @@
 var a28525 =
 [
-    [ "X", "db/d4a/a28525.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "db/d4a/a28525.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "db/d4a/a28525.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "npc_franklinAI", "d6/dc7/a28529.html", "d6/dc7/a28529" ],
+    [ "npc_franklin", "db/d4a/a28525.html#aab059dfa69e52083892e3170c8838e0a", null ],
+    [ "GetAI", "db/d4a/a28525.html#a10933878afe9d0cc78fa1113341fd522", null ],
+    [ "OnGossipHello", "db/d4a/a28525.html#a318d512914b135800caabe0efbb1c467", null ],
+    [ "OnGossipSelect", "db/d4a/a28525.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
 ];

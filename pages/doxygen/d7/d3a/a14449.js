@@ -1,5 +1,9 @@
 var a14449 =
 [
-    [ "at_zulgurub_entrance_speech", "d7/d3a/a14449.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "d7/d3a/a14449.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
+    [ "npc_amanishi_scout", "d7/d3a/a14449.html#a74bed56c21c184e661f62c30ce6d9140", null ],
+    [ "JustEngagedWith", "d7/d3a/a14449.html#a5969fadd871094e993c4d3fe0b08054c", null ],
+    [ "Reset", "d7/d3a/a14449.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
+    [ "ScheduleCombat", "d7/d3a/a14449.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
+    [ "UpdateAI", "d7/d3a/a14449.html#a3740a4fde31e1e81edb34dde61403acc", null ],
+    [ "_drumGUID", "d7/d3a/a14449.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
 ];

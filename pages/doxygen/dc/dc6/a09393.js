@@ -1,6 +1,7 @@
 var a09393 =
 [
-    [ "faction", "dc/dc6/a09393.html#aaad6e04ef66264f040ddd91ae7f4e04b", null ],
-    [ "faction_rank", "dc/dc6/a09393.html#a1ffb9cddf950edfb17e9779691b09f07", null ],
-    [ "faction_rate", "dc/dc6/a09393.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4", null ]
+    [ "IsFitToRequirements", "dc/dc6/a09393.html#ac175634ed2eab2911c3749fa208a073a", null ],
+    [ "castFlags", "dc/dc6/a09393.html#a03cd65a460ea252818de9230cb656c1c", null ],
+    [ "spellId", "dc/dc6/a09393.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
+    [ "userType", "dc/dc6/a09393.html#adcf285572403481cb418bddebc5f4bfa", null ]
 ];

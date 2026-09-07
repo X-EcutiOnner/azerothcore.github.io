@@ -1,8 +1,8 @@
 var a19945 =
 [
-    [ "brann_bronzebeardAI", "d9/df2/a19949.html", "d9/df2/a19949" ],
-    [ "brann_bronzebeard", "d9/d1a/a19945.html#a66fd8785647896a1a5f7be041242cfd6", null ],
-    [ "GetAI", "d9/d1a/a19945.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
-    [ "OnGossipHello", "d9/d1a/a19945.html#a2714a2dde596db76706b8a86f97f82b8", null ],
-    [ "OnGossipSelect", "d9/d1a/a19945.html#a0e0068a45012e50a9f645d393bdfe163", null ]
+    [ "HandleOnEffectApply", "d9/d1a/a19945.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "d9/d1a/a19945.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "d9/d1a/a19945.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "d9/d1a/a19945.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "d9/d1a/a19945.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

@@ -1,11 +1,11 @@
 var a06237 =
 [
-    [ "AppenderDB", "d0/d93/a06237.html#af8e48076d47a06c73f6b8ae054955a83", null ],
-    [ "~AppenderDB", "d0/d93/a06237.html#a7da848083d02833acc632051a2d938bf", null ],
-    [ "_write", "d0/d93/a06237.html#af38ab76e4d3ea9ebe864582c0030c49a", null ],
-    [ "getType", "d0/d93/a06237.html#a96221ceed23435556df03c5f7ffab61e", null ],
-    [ "setRealmId", "d0/d93/a06237.html#a769ff59f4dbbff1b77398dd20c016ace", null ],
-    [ "enabled", "d0/d93/a06237.html#a55e70394d0a7f321e0cf75a9b822b482", null ],
-    [ "realmId", "d0/d93/a06237.html#a5c9bf2ae429c0903cffe9a01c03b6028", null ],
-    [ "type", "d0/d93/a06237.html#a8d9968c073ee16a8fe082254ec232ebb", null ]
+    [ "SQLQueryHolderCallback", "d0/d93/a06237.html#afc2cb6a483d17ae115e947bc88fe592b", null ],
+    [ "SQLQueryHolderCallback", "d0/d93/a06237.html#a7fddb08e9e10cdb8a437de3ee53494db", null ],
+    [ "AfterComplete", "d0/d93/a06237.html#a40f0a73f4b92bc0f7ad8659f748c7c17", null ],
+    [ "InvokeIfReady", "d0/d93/a06237.html#a7e540699d496834c0a36782fb7da03f1", null ],
+    [ "operator=", "d0/d93/a06237.html#a031861856be6b3e5f18718f3c6129f9c", null ],
+    [ "m_callback", "d0/d93/a06237.html#aa055fe02b0158a9098e6eccdc32e9ff4", null ],
+    [ "m_future", "d0/d93/a06237.html#a7dc3e5e72d47135660a29a0418e17c44", null ],
+    [ "m_holder", "d0/d93/a06237.html#a09b018fb4d8e0e67249b1117c657ecc2", null ]
 ];

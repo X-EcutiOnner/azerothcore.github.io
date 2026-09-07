@@ -1,6 +1,6 @@
 var a16609 =
 [
-    [ "PrepareSpellScript", "dd/d90/a16609.html#a743f910c3854e2c4e726e97c55fa7038", null ],
-    [ "Register", "dd/d90/a16609.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
-    [ "RemoveNotBetween", "dd/d90/a16609.html#aba462e5b8e9336a508d19606f98750b5", null ]
+    [ "npc_orb_carrierAI", "d4/dfd/a16613.html", "d4/dfd/a16613" ],
+    [ "npc_orb_carrier", "dd/d90/a16609.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
+    [ "GetAI", "dd/d90/a16609.html#ab5b7bbffc43b840c686dc889805ea401", null ]
 ];

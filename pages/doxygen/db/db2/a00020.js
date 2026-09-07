@@ -1,6 +1,6 @@
 var a00020 =
 [
-    [ "VMAP::IntersectionCallBack< TValue >", "db/d24/a05459.html", "db/d24/a05459" ],
-    [ "VMAP::MyCollisionDetection", "da/d34/a05463.html", "da/d34/a05463" ],
-    [ "IR", "db/db2/a00020.html#aa54c7fcd0c551f1db5fc34a2f6b11e74", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "db/db2/a00020.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "MAINMagic", "db/db2/a00020.html#a026039bd50ec58444fa975da328951ec", null ],
+    [ "MPHDMagic", "db/db2/a00020.html#aac8041bc8ca704e28f2b3054649b3752", null ]
 ];

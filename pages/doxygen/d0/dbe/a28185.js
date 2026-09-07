@@ -1,6 +1,7 @@
 var a28185 =
 [
-    [ "trigger_periodicAI", "dd/d8c/a28189.html", "dd/d8c/a28189" ],
-    [ "trigger_periodic", "d0/dbe/a28185.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
-    [ "GetAI", "d0/dbe/a28185.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
+    [ "npc_spirit_shadeAI", "d0/dbe/a28185.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "d0/dbe/a28185.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "d0/dbe/a28185.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "d0/dbe/a28185.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

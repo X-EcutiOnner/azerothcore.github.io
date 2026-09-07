@@ -1,8 +1,14 @@
 var a28613 =
 [
-    [ "gender", "da/d92/a28613.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
-    [ "hair_id", "da/d92/a28613.html#af4646a9adb0a1dc18b34158de2116b84", null ],
-    [ "Id", "da/d92/a28613.html#a05de87081cf628e806d6518eef1424e4", null ],
-    [ "race", "da/d92/a28613.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
-    [ "type", "da/d92/a28613.html#a289bb362ba13235c754647ba67be1e56", null ]
+    [ "npc_garments_of_questsAI", "da/d92/a28613.html#a079f719ca488ed6fde2783b5db4f328b", null ],
+    [ "JustEngagedWith", "da/d92/a28613.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
+    [ "Reset", "da/d92/a28613.html#aaaaa3e41deae0057bd659be5c579d226", null ],
+    [ "SpellHit", "da/d92/a28613.html#ad22195dba70ced744b319bc1ad83c083", null ],
+    [ "UpdateAI", "da/d92/a28613.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
+    [ "WaypointReached", "da/d92/a28613.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
+    [ "WaypointReached", "da/d92/a28613.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "CanRun", "da/d92/a28613.html#a93c41781e4cb037b56773bbbf36181b7", null ],
+    [ "CasterGUID", "da/d92/a28613.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
+    [ "IsHealed", "da/d92/a28613.html#a96db66704eabf028362d5f8b5c424712", null ],
+    [ "RunAwayTimer", "da/d92/a28613.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
 ];

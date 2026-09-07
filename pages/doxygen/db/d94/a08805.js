@@ -1,5 +1,7 @@
 var a08805 =
 [
-    [ "ObjectGuidGenerator", "db/d94/a08805.html#a1d917989d9bf681546d0e3e9b20593e0", null ],
-    [ "Generate", "db/d94/a08805.html#a43dfe501c5ec222bbd1f8687a1a103b9", null ]
+    [ "AddToGrid", "db/d94/a08805.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
+    [ "IsInGrid", "db/d94/a08805.html#a996724d21d62e478f50031faa7637cd5", null ],
+    [ "RemoveFromGrid", "db/d94/a08805.html#a29740a98fea7db66cdffd824940a2ec2", null ],
+    [ "_gridRef", "db/d94/a08805.html#aa44ba47734267ac07b733f218623f3c5", null ]
 ];

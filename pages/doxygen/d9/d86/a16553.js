@@ -1,7 +1,6 @@
 var a16553 =
 [
-    [ "HandleDummy", "d9/d86/a16553.html#ad0782bfbd977954aac6170ee9111aef6", null ],
-    [ "PrepareSpellScript", "d9/d86/a16553.html#ac456524856c4a3c4913423693a8fd50c", null ],
-    [ "Register", "d9/d86/a16553.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
-    [ "Validate", "d9/d86/a16553.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
+    [ "npc_xerestraszaAI", "d4/d81/a16557.html", "d4/d81/a16557" ],
+    [ "npc_xerestrasza", "d9/d86/a16553.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
+    [ "GetAI", "d9/d86/a16553.html#a5e0ede0054969d4787db56781dc55846", null ]
 ];

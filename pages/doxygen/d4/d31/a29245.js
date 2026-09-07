@@ -1,7 +1,4 @@
 var a29245 =
 [
-    [ "TalentSpellPos", "d4/d31/a29245.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
-    [ "TalentSpellPos", "d4/d31/a29245.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
-    [ "rank", "d4/d31/a29245.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
-    [ "talent_id", "d4/d31/a29245.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
+    [ "base", "d4/d31/a29245.html#aecccbaadaaf541b2bbdb85d8ea08d0bd", null ]
 ];

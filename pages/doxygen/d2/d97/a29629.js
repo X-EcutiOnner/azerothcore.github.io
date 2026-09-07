@@ -1,8 +1,16 @@
 var a29629 =
 [
-    [ "TestOocPlayerScript", "d2/d97/a29629.html#ad8a63387a46b252a555b5d48b0f73d55", null ],
-    [ "EnsureRegistered", "d2/d97/a29629.html#a485c732b5cc87e418e1e8b0fdb80e5b7", null ],
-    [ "OnPlayerCompleteQuest", "d2/d97/a29629.html#a7288e4227b28edebe4723c14ef56bce1", null ],
-    [ "OnPlayerLevelChanged", "d2/d97/a29629.html#a0d2fa7743649d3443f49654d55ca1558", null ],
-    [ "Instance", "d2/d97/a29629.html#a58269b1a038bfbdc8c9dafd058d16b5e", null ]
+    [ "AuraApplicationStub", "d2/d97/a29629.html#afaa194023ae92143078166c9a142a41d", null ],
+    [ "~AuraApplicationStub", "d2/d97/a29629.html#ada36445f6f090c6652e0567a5333bb53", null ],
+    [ "GetEffectMask", "d2/d97/a29629.html#ad74cccf28b56c1fe88988df229319dae", null ],
+    [ "GetSlot", "d2/d97/a29629.html#a30f0ddd6c6bbc974958a33ecee39135e", null ],
+    [ "HasEffect", "d2/d97/a29629.html#ad4040b722b12e54aa630abfa78cdaabd", null ],
+    [ "IsPositive", "d2/d97/a29629.html#a1bf6810ab9723ce50ddf46789d2a5045", null ],
+    [ "SetEffect", "d2/d97/a29629.html#a97383d45b0a015579a0f315474ecfcc5", null ],
+    [ "SetEffectMask", "d2/d97/a29629.html#a1fab3395f580b30fa7b2257cbcacd26a", null ],
+    [ "SetPositive", "d2/d97/a29629.html#a653fb81ddfa4c7ad855d9f1fefe172f4", null ],
+    [ "SetSlot", "d2/d97/a29629.html#a824a2ec07e911fdb02054eff2091f2ea", null ],
+    [ "_effectMask", "d2/d97/a29629.html#a9027c5f622263c32b6f7bc4a11883ddc", null ],
+    [ "_isPositive", "d2/d97/a29629.html#afc3220aa9f0403a987ad07cec1c42ced", null ],
+    [ "_slot", "d2/d97/a29629.html#aa4afd58cae5bcfd203d61a1044d72d57", null ]
 ];

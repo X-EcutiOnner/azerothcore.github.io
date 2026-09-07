@@ -1,7 +1,7 @@
 var a18681 =
 [
-    [ "OnPeriodic", "d0/deb/a18681.html#a9635bf496ee3098e412ba7de633250b3", null ],
-    [ "PrepareAuraScript", "d0/deb/a18681.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
-    [ "Register", "d0/deb/a18681.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
-    [ "Validate", "d0/deb/a18681.html#a5675fef373315edd34d096bb91c733b0", null ]
+    [ "HandleScript", "d0/deb/a18681.html#a0ddd74672b48fd7bf5d3b4d4b6467e4a", null ],
+    [ "PrepareSpellScript", "d0/deb/a18681.html#a598baad08c685bba54ad5306e0d521b4", null ],
+    [ "Register", "d0/deb/a18681.html#a471bac09c68708daefe6a39f283caa4c", null ],
+    [ "Validate", "d0/deb/a18681.html#a162e50b7136687aae7a8df0bb93dd8fe", null ]
 ];

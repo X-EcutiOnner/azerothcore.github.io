@@ -1,7 +1,6 @@
 var a12885 =
 [
-    [ "HandleDummy", "de/d69/a12885.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
-    [ "PrepareSpellScript", "de/d69/a12885.html#ad07165f81a7f407c716f90691ecb9817", null ],
-    [ "Register", "de/d69/a12885.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
-    [ "Validate", "de/d69/a12885.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
+    [ "near_scarshield_infiltrator", "de/d69/a12885.html#a38d2e75946c429b4d80b007f190406bc", null ],
+    [ "OnTrigger", "de/d69/a12885.html#a59c0e7bcddabbbbecb32f38434899144", null ],
+    [ "whisperedTargets", "de/d69/a12885.html#a5655e241d2551798a960cb6375c7df23", null ]
 ];

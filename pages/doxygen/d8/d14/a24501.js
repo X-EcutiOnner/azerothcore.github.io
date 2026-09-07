@@ -1,9 +1,10 @@
 var a24501 =
 [
-    [ "CheckProc", "d8/d14/a24501.html#a13245a545210eed1ddfd7c49c4a43f6b", null ],
-    [ "HandleProc", "d8/d14/a24501.html#aeec6c9e949d1edc09259a55583b3bae2", null ],
-    [ "Load", "d8/d14/a24501.html#ae3ffe29eef4f803f08ab728d959f1932", null ],
-    [ "PeriodicTick", "d8/d14/a24501.html#a1621c06bce0a28a2416385563b989cbf", null ],
-    [ "PrepareAuraScript", "d8/d14/a24501.html#a79a8c2a9ef00a9c1a2bba481e9cc522f", null ],
-    [ "Register", "d8/d14/a24501.html#ad47775cc21d4d5e0c28b68c68d595a39", null ]
+    [ "npc_pet_hunter_snake_trap", "d8/d14/a24501.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
+    [ "InitializeAI", "d8/d14/a24501.html#a91931c2ac0fd4981f9bf8a2f8f7db672", null ],
+    [ "JustEngagedWith", "d8/d14/a24501.html#a695af9c49daa05c787dac03c4af91645", null ],
+    [ "MoveInLineOfSight", "d8/d14/a24501.html#a099a34f12399fe24349644da3dafe7a4", null ],
+    [ "UpdateAI", "d8/d14/a24501.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
+    [ "_isViper", "d8/d14/a24501.html#ab49c69ca25014ef63e775b236255e4c1", null ],
+    [ "_spellTimer", "d8/d14/a24501.html#ab9397451e2e8320ca77560a19baeee3f", null ]
 ];

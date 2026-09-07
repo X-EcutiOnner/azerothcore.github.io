@@ -1,10 +1,9 @@
 var a10313 =
 [
-    [ "ID", "df/dff/a10313.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
-    [ "Map", "df/dff/a10313.html#af4e60380e8434e5b8f573d2172ddf656", null ],
-    [ "name", "df/dff/a10313.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
-    [ "wnameLow", "df/dff/a10313.html#a148ead3270ad02213204792d6063cead", null ],
-    [ "x", "df/dff/a10313.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
-    [ "y", "df/dff/a10313.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
-    [ "z", "df/dff/a10313.html#adf56d09898752230a4fa1629849ac945", null ]
+    [ "MapUpdateRequest", "df/dff/a10313.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
+    [ "call", "df/dff/a10313.html#a2cb96db357347d47596725e5c345b02f", null ],
+    [ "m_diff", "df/dff/a10313.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
+    [ "m_map", "df/dff/a10313.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
+    [ "m_updater", "df/dff/a10313.html#aeb063738175aa8ddc751290f922ffef2", null ],
+    [ "s_diff", "df/dff/a10313.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
 ];

@@ -1,7 +1,6 @@
 var a25209 =
 [
-    [ "EjectPassenger", "d2/d8d/a25209.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
-    [ "PrepareSpellScript", "d2/d8d/a25209.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
-    [ "Register", "d2/d8d/a25209.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
-    [ "Validate", "d2/d8d/a25209.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
+    [ "CheckAreaTarget", "d2/d8d/a25209.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
+    [ "PrepareAuraScript", "d2/d8d/a25209.html#afbc45652033397067a439b45afd2e90e", null ],
+    [ "Register", "d2/d8d/a25209.html#aa24679e1243470056f74249e1b26767d", null ]
 ];

@@ -1,7 +1,6 @@
 var a17841 =
 [
-    [ "FilterTargets", "d6/de2/a17841.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
-    [ "Load", "d6/de2/a17841.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
-    [ "PrepareSpellScript", "d6/de2/a17841.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
-    [ "Register", "d6/de2/a17841.html#a33342cc676adaabe5e3896fa559631b7", null ]
+    [ "FilterTargets", "d6/de2/a17841.html#a59255a2cee0f9d8a75ca183647851779", null ],
+    [ "PrepareSpellScript", "d6/de2/a17841.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
+    [ "Register", "d6/de2/a17841.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
 ];

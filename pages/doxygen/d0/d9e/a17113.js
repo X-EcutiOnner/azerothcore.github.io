@@ -1,6 +1,6 @@
 var a17113 =
 [
-    [ "HandleDummy", "d0/d9e/a17113.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
-    [ "PrepareSpellScript", "d0/d9e/a17113.html#accbf8f40b1ab123a2be81a514c94c836", null ],
-    [ "Register", "d0/d9e/a17113.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
+    [ "boss_eydisAI", "d7/d28/a17117.html", "d7/d28/a17117" ],
+    [ "boss_eydis", "d0/d9e/a17113.html#aa555f80882499bc4627e622fbb48b2a4", null ],
+    [ "GetAI", "d0/d9e/a17113.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
 ];

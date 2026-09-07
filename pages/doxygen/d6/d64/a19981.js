@@ -1,9 +1,12 @@
 var a19981 =
 [
-    [ "npc_brann_bronzebeard_algalon", "d6/d64/a19981.html#ac00755dca7e187b55516be889386c499", null ],
-    [ "DoAction", "d6/d64/a19981.html#a6d44478868a74ed7baac757258334806", null ],
-    [ "MovementInform", "d6/d64/a19981.html#a33af1a38ab2827aec38f95e57e54f589", null ],
-    [ "UpdateAI", "d6/d64/a19981.html#ad74f8f8a31431dd2eaa4279e6a8fae36", null ],
-    [ "_currentPoint", "d6/d64/a19981.html#a5403badf59f96111aefaddf78379e65f", null ],
-    [ "events", "d6/d64/a19981.html#ae63e7d3c53c3039186221c8b59c43e3e", null ]
+    [ "boss_loken", "d6/d64/a19981.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
+    [ "JustDied", "d6/d64/a19981.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
+    [ "JustEngagedWith", "d6/d64/a19981.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
+    [ "KilledUnit", "d6/d64/a19981.html#a85ae3094927f7484216b44582f9a2bf6", null ],
+    [ "MoveInLineOfSight", "d6/d64/a19981.html#ac9f3115629e5595d06c213d3e04afa68", null ],
+    [ "OnAuraRemove", "d6/d64/a19981.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
+    [ "Reset", "d6/d64/a19981.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
+    [ "ScheduleTasks", "d6/d64/a19981.html#a600e211be40226679212a7078b26f3ed", null ],
+    [ "_introDone", "d6/d64/a19981.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
 ];

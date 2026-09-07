@@ -1,8 +1,7 @@
 var a17333 =
 [
-    [ "npc_hor_risen_witch_doctor", "da/db4/a17333.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
-    [ "JustDied", "da/db4/a17333.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
-    [ "JustEngagedWith", "da/db4/a17333.html#ae612bec2e909abb2574298f4a34116f3", null ],
-    [ "Reset", "da/db4/a17333.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
-    [ "UpdateAI", "da/db4/a17333.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
+    [ "OnRemove", "da/db4/a17333.html#a4b95717cb19116b81f3eec798089abad", null ],
+    [ "PrepareAuraScript", "da/db4/a17333.html#a581645fa151531aaf7b562a8739d5616", null ],
+    [ "Register", "da/db4/a17333.html#a01304c556d79001e290707551bee7622", null ],
+    [ "Validate", "da/db4/a17333.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
 ];

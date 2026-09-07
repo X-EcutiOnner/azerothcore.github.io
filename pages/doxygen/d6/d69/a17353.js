@@ -1,7 +1,8 @@
 var a17353 =
 [
-    [ "UtherBatteredHiltEvent", "d6/d69/a17353.html#a7bb34b75a3e371260a231aea72f75b40", null ],
-    [ "Execute", "d6/d69/a17353.html#ad2eb37877155b6dbc9916338e30d0306", null ],
-    [ "_eventId", "d6/d69/a17353.html#a5045e057b2c5d468aa579751d2c799b8", null ],
-    [ "_owner", "d6/d69/a17353.html#a588974708f4a48f5a7b097a63a0c0899", null ]
+    [ "npc_phantom_hallucination", "d6/d69/a17353.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
+    [ "EnterEvadeMode", "d6/d69/a17353.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
+    [ "JustDied", "d6/d69/a17353.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
+    [ "UpdateAI", "d6/d69/a17353.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
+    [ "numOfUpd", "d6/d69/a17353.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
 ];

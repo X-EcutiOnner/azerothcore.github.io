@@ -1,15 +1,11 @@
 var a19737 =
 [
-    [ "boss_eregosAI", "d2/df0/a19737.html#a5b09dacbddd6075c2ebf4d62a387a8b6", null ],
-    [ "DamageTaken", "d2/df0/a19737.html#a7a4b4443aed576f080a56a27e15edfd4", null ],
-    [ "JustDied", "d2/df0/a19737.html#ade16be2804b857fc8e93a62d4be42380", null ],
-    [ "JustEngagedWith", "d2/df0/a19737.html#a1544782732beba5d7114c3bb70419ae1", null ],
-    [ "JustSummoned", "d2/df0/a19737.html#a33ef5a080e457f4e08e7997b467b0974", null ],
-    [ "KilledUnit", "d2/df0/a19737.html#a30ad32a4a63ae17eef4fc703a6749d38", null ],
-    [ "MoveInLineOfSight", "d2/df0/a19737.html#ac622481abb0190bdc7654b383766a9ed", null ],
-    [ "Reset", "d2/df0/a19737.html#aeec469c2c9d0ad27461478ee57c30c56", null ],
-    [ "UpdateAI", "d2/df0/a19737.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36", null ],
-    [ "events", "d2/df0/a19737.html#ae6f1f2e3146525596c3dbb646283b744", null ],
-    [ "pInstance", "d2/df0/a19737.html#abf0b366d7b0931ccc30711a33736dda8", null ],
-    [ "shiftNumber", "d2/df0/a19737.html#a16c90dba1f0a7f4cc2025e294dbac455", null ]
+    [ "npc_hover_disk", "d2/df0/a19737.html#af6f8ef0df4b64540f99adebdd709b00e", null ],
+    [ "AttackStart", "d2/df0/a19737.html#a3ea3d44f74f26115f0a29fad134fcfc8", null ],
+    [ "DoAction", "d2/df0/a19737.html#ae4141e5aed3cfdbf8d76ad55ce4463d9", null ],
+    [ "MoveInLineOfSight", "d2/df0/a19737.html#a0ad97e511bd01c269c04d2ccfe007f91", null ],
+    [ "MovementInform", "d2/df0/a19737.html#a9d1c7ac28f2c597864cf2c70ab0fb943", null ],
+    [ "PassengerBoarded", "d2/df0/a19737.html#ab7e712a9d5aec7c3112796316a7fe534", null ],
+    [ "UpdateAI", "d2/df0/a19737.html#add98702312084df553e24bcd4b632bb3", null ],
+    [ "events", "d2/df0/a19737.html#a073e1161eda3b714ad0d7ea96f865b6d", null ]
 ];

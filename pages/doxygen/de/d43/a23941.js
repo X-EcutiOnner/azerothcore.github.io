@@ -1,7 +1,6 @@
 var a23941 =
 [
-    [ "npc_maxx_a_million_escortAI", "d7/d58/a23945.html", "d7/d58/a23945" ],
-    [ "npc_maxx_a_million_escort", "de/d43/a23941.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "de/d43/a23941.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "de/d43/a23941.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "HandlePeriodic", "de/d43/a23941.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
+    [ "PrepareAuraScript", "de/d43/a23941.html#a75d72d196ded2ee109d0231d4342890a", null ],
+    [ "Register", "de/d43/a23941.html#a148013ea68bbc573bddc1c3639dba019", null ]
 ];

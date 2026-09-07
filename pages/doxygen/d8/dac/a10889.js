@@ -1,6 +1,6 @@
 var a10889 =
 [
-    [ "BuyBankSlot", "d8/dac/a10889.html#a0bc11087e9359c6ac762f915b11287d8", null ],
-    [ "Read", "d8/dac/a10889.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
-    [ "Banker", "d8/dac/a10889.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
+    [ "WorldMapScript", "d8/dac/a10889.html#a87448909610514b3a7d75f9ef5076696", null ],
+    [ "checkValidity", "d8/dac/a10889.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
+    [ "isAfterLoadScript", "d8/dac/a10889.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
 ];

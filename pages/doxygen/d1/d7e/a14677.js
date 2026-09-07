@@ -1,7 +1,6 @@
 var a14677 =
 [
-    [ "GetEmptyEntry", "d1/d7e/a14677.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "d1/d7e/a14677.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "d1/d7e/a14677.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "d1/d7e/a14677.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "instance_zulgurub_InstanceMapScript", "d8/df2/a14681.html", "d8/df2/a14681" ],
+    [ "instance_zulgurub", "d1/d7e/a14677.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
+    [ "GetInstanceScript", "d1/d7e/a14677.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
 ];

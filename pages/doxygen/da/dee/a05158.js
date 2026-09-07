@@ -1,5 +1,5 @@
 var a05158 =
 [
-    [ "SAttackStop", "d7/d9b/a11035.html", "d7/d9b/a11035" ],
-    [ "SetSheathed", "da/de2/a11031.html", "da/de2/a11031" ]
+    [ "ScriptTypeInfo", "d1/d7c/a10901.html", "d1/d7c/a10901" ],
+    [ "ScriptRegistryTypes", "da/dee/a05158.html#aeb8e82d65431497fd236110fed3408b8", null ]
 ];

@@ -1,5 +1,6 @@
 var a27769 =
 [
-    [ "achievement_save_the_day", "df/de9/a27769.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "df/de9/a27769.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "HandleScriptEffect", "df/de9/a27769.html#a3f8988017d088d08df08ba8b696b552b", null ],
+    [ "PrepareSpellScript", "df/de9/a27769.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
+    [ "Register", "df/de9/a27769.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
 ];

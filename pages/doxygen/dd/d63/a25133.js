@@ -1,6 +1,7 @@
 var a25133 =
 [
-    [ "HandleScript", "dd/d63/a25133.html#af6d3dd97d3254dbfcd6b611b26e0e61d", null ],
-    [ "PrepareSpellScript", "dd/d63/a25133.html#a59b5637aa8a29611463fbaabc6db2bb8", null ],
-    [ "Register", "dd/d63/a25133.html#a54bb0fe145f99ea484724052c8bb1227", null ]
+    [ "HandleApply", "dd/d63/a25133.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
+    [ "HandlePeriodicTimer", "dd/d63/a25133.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
+    [ "PrepareAuraScript", "dd/d63/a25133.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
+    [ "Register", "dd/d63/a25133.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
 ];

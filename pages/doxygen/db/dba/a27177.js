@@ -1,6 +1,7 @@
 var a27177 =
 [
-    [ "CheckProc", "db/dba/a27177.html#a5e48b25b15b60aa284ca61e900e0f87e", null ],
-    [ "PrepareAuraScript", "db/dba/a27177.html#a13ccd1c89767d0dcf041217466390759", null ],
-    [ "Register", "db/dba/a27177.html#a4f29ca53813534b1af20e09281288e95", null ]
+    [ "HandleDummy", "db/dba/a27177.html#abc630a0c8274f5f85901b2505ff2ae04", null ],
+    [ "PrepareSpellScript", "db/dba/a27177.html#af79cd7c2f6ed47a93dbbe17aaca6834f", null ],
+    [ "Register", "db/dba/a27177.html#a3f1808538acca2742c19f68af9a6fd56", null ],
+    [ "Validate", "db/dba/a27177.html#a475e1d5d8c70e0edd5957a1e493fd43e", null ]
 ];

@@ -1,7 +1,6 @@
 var a15477 =
 [
-    [ "go_sand_trap", "d9/dc7/a15477.html#a58d45acac672cb05988ddca78185b469", null ],
-    [ "Reset", "d9/dc7/a15477.html#a7071a3e420e9137ca133b471bc217bf3", null ],
-    [ "UpdateAI", "d9/dc7/a15477.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
-    [ "_scheduler", "d9/dc7/a15477.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
+    [ "npc_idol_room_spawnerAI", "d2/d01/a15481.html", "d2/d01/a15481" ],
+    [ "npc_idol_room_spawner", "d9/dc7/a15477.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "d9/dc7/a15477.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

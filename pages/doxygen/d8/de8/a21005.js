@@ -1,7 +1,8 @@
 var a21005 =
 [
-    [ "HandleEffectPeriodic", "d8/de8/a21005.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
-    [ "PrepareAuraScript", "d8/de8/a21005.html#a748cd347867557b5048d9ba0c112cd80", null ],
-    [ "Register", "d8/de8/a21005.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
-    [ "Validate", "d8/de8/a21005.html#afa86789ef14b1d06094705ba6cfb9205", null ]
+    [ "boss_yoggsaron_death_ray", "d8/de8/a21005.html#a03a5a1845d217c2e59fc491f1f0a36a2", null ],
+    [ "IsSummonedBy", "d8/de8/a21005.html#a631bb4727b876c0ce782c1d3d206ae13", null ],
+    [ "UpdateAI", "d8/de8/a21005.html#a424f116aa76fa470cb393250e571c021", null ],
+    [ "_movementLegs", "d8/de8/a21005.html#ac548ed487090506768236ff1519d4938", null ],
+    [ "events", "d8/de8/a21005.html#af79f0ec03cc3eb6c803c4793842b0c71", null ]
 ];

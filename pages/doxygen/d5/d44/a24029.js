@@ -1,6 +1,6 @@
 var a24029 =
 [
-    [ "npc_lord_illidan_stormrageAI", "d1/d9b/a24033.html", "d1/d9b/a24033" ],
-    [ "npc_lord_illidan_stormrage", "d5/d44/a24029.html#ad2f213749e170ec4f9903396d132f5f3", null ],
-    [ "GetAI", "d5/d44/a24029.html#a9aaedc4326b90621965dad522f4af897", null ]
+    [ "instance_mechanar_InstanceMapScript", "d1/d9b/a24033.html", "d1/d9b/a24033" ],
+    [ "instance_mechanar", "d5/d44/a24029.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
+    [ "GetInstanceScript", "d5/d44/a24029.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
 ];

@@ -1,20 +1,21 @@
 var a02438 =
 [
-    [ "Acore::Impl::ChatCommands::ContainerTag", "da/d1b/a08083.html", "da/d1b/a08083" ],
-    [ "Acore::Impl::ChatCommands::tag_base< T, std::enable_if_t< std::is_base_of_v< ContainerTag, T > > >", "d0/df3/a08087.html", "d0/df3/a08087" ],
-    [ "Acore::ChatCommands::ExactSequence< chars >", "d7/d3e/a08091.html", "d7/d3e/a08091" ],
-    [ "Acore::ChatCommands::Tail", "d2/dae/a08095.html", "d2/dae/a08095" ],
-    [ "Acore::ChatCommands::WTail", "dc/dc3/a08099.html", "dc/dc3/a08099" ],
-    [ "Acore::ChatCommands::QuotedString", "db/d47/a08103.html", "db/d47/a08103" ],
-    [ "Acore::ChatCommands::AccountIdentifier", "da/d9e/a08107.html", "da/d9e/a08107" ],
-    [ "Acore::ChatCommands::PlayerIdentifier", "d9/d69/a08111.html", "d9/d69/a08111" ],
-    [ "Acore::ChatCommands::Hyperlink< linktag >", "d6/d96/a08115.html", "d6/d96/a08115" ],
-    [ "Acore::Impl::CastToVisitor< T >", "db/de1/a08119.html", "db/de1/a08119" ],
-    [ "Acore::ChatCommands::Variant< T1, Ts >", "de/d7d/a08123.html", "de/d7d/a08123" ],
-    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL", "da/d6b/a02438.html#af98497f511ab4c536bd80e08ff605c04", null ],
-    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL_CONSTRAINED", "da/d6b/a02438.html#ae9ad890da39c16320a177ed5fbdffdf1", null ],
-    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL_EXTRACT_CHAR", "da/d6b/a02438.html#a55b2f2ab9e15f11a5b44f6d616f28e8a", null ],
-    [ "EXACT_SEQUENCE", "da/d6b/a02438.html#ac61bb0d0d29d3ccc94188eb93516adf5", null ],
-    [ "format_as", "da/d6b/a02438.html#a474622d2cd7db21b03271a0f2c3237b9", null ],
-    [ "GetChar", "da/d6b/a02438.html#ab72843264c39ce4d9aa3d4d8fbd83fc4", null ]
+    [ "item_only_for_flight", "da/db5/a28433.html", "da/db5/a28433" ],
+    [ "item_incendiary_explosives", "d4/dcb/a28437.html", "d4/dcb/a28437" ],
+    [ "item_mysterious_egg", "de/dba/a28441.html", "de/dba/a28441" ],
+    [ "item_disgusting_jar", "db/db5/a28445.html", "db/db5/a28445" ],
+    [ "item_petrov_cluster_bombs", "d9/dee/a28449.html", "d9/dee/a28449" ],
+    [ "item_captured_frog", "da/d92/a28453.html", "da/d92/a28453" ],
+    [ "item_generic_limit_chance_above_60", "d2/dd0/a28457.html", "d2/dd0/a28457" ],
+    [ "CapturedFrog", "da/d6b/a02438.html#a3a51d3f5cfd1964cbec23fcba5046cca", [
+      [ "QUEST_THE_PERFECT_SPIES", "da/d6b/a02438.html#a3a51d3f5cfd1964cbec23fcba5046ccaac3f8eeb86f6f3fe350b15b7a2d86bb04", null ],
+      [ "NPC_VANIRAS_SENTRY_TOTEM", "da/d6b/a02438.html#a3a51d3f5cfd1964cbec23fcba5046ccaac387e8b467655f50a7dbaa8bcd0de57f", null ]
+    ] ],
+    [ "OnlyForFlight", "da/d6b/a02438.html#afa5a0f3082f0a49fcc796209c7828151", [
+      [ "SPELL_ARCANE_CHARGES", "da/d6b/a02438.html#afa5a0f3082f0a49fcc796209c7828151aeefbb491736447da40481cf5a8742e2d", null ]
+    ] ],
+    [ "PetrovClusterBombs", "da/d6b/a02438.html#a5481d2bf1b9efa370833eed302f6f94c", [
+      [ "SPELL_PETROV_BOMB", "da/d6b/a02438.html#a5481d2bf1b9efa370833eed302f6f94ca52897b7254f1ac012c7e278d8dcbd8b6", null ]
+    ] ],
+    [ "AddSC_item_scripts", "da/d6b/a02438.html#a3e28ebf5a580887bb117f786689a34c6", null ]
 ];

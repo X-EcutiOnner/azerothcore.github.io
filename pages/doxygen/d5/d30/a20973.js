@@ -1,6 +1,5 @@
 var a20973 =
 [
-    [ "HandleEffectPeriodic", "d5/d30/a20973.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
-    [ "PrepareAuraScript", "d5/d30/a20973.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
-    [ "Register", "d5/d30/a20973.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
+    [ "achievement_nerf_gravity_bombs", "d5/d30/a20973.html#a8aefe3a8836e38c9133e7baf724dc469", null ],
+    [ "OnCheck", "d5/d30/a20973.html#a3a1f9dc7218dfd8345412b338e447b72", null ]
 ];

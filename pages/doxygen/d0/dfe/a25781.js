@@ -1,7 +1,8 @@
 var a25781 =
 [
-    [ "HandleProc", "d0/dfe/a25781.html#aee71de2c7f718a443dd48ed649c72a2f", null ],
-    [ "PrepareAuraScript", "d0/dfe/a25781.html#a7ba07407ce43ea4bfb03bc232ed409e3", null ],
-    [ "Register", "d0/dfe/a25781.html#ad907078d049340da77dcfd25a312e32b", null ],
-    [ "Validate", "d0/dfe/a25781.html#ad9987f6b17c9522be954a1b75aed1fc5", null ]
+    [ "OnApply", "d0/dfe/a25781.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
+    [ "OnRemove", "d0/dfe/a25781.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
+    [ "PrepareAuraScript", "d0/dfe/a25781.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
+    [ "Register", "d0/dfe/a25781.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
+    [ "Validate", "d0/dfe/a25781.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
 ];

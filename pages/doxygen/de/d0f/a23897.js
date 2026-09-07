@@ -1,7 +1,6 @@
 var a23897 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "de/d0f/a23897.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
-    [ "JustEngagedWith", "de/d0f/a23897.html#a4038d707731f64f588e307c22c859902", null ],
-    [ "MoveInLineOfSight", "de/d0f/a23897.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
-    [ "Reset", "de/d0f/a23897.html#a29132346f117ba785039057619edb9e7", null ]
+    [ "AfterRemove", "de/d0f/a23897.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
+    [ "PrepareAuraScript", "de/d0f/a23897.html#ad5871ce865820456177362c6b790778f", null ],
+    [ "Register", "de/d0f/a23897.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
 ];

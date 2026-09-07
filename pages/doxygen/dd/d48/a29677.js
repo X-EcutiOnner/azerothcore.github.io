@@ -1,7 +1,7 @@
 var a29677 =
 [
-    [ "SetUp", "dd/d48/a29677.html#a63d060f7643fc3d35eb4f0fd082f1af4", null ],
-    [ "TearDown", "dd/d48/a29677.html#a685e2dbb620ab792ed3e952cf2b5dab8", null ],
-    [ "_originalWorld", "dd/d48/a29677.html#aec7f3f7af8f936fb2419cee4be837eb7", null ],
-    [ "_worldMock", "dd/d48/a29677.html#a2d10e74ba4f778b395a48eb68a586711", null ]
+    [ "flatModifier", "dd/d48/a29677.html#a781485dfaede63716eddba66971600e3", null ],
+    [ "hasSpellModOwner", "dd/d48/a29677.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
+    [ "hasSpellProto", "dd/d48/a29677.html#a96607da311b5774eeaa01674d32ab22e", null ],
+    [ "pctModifier", "dd/d48/a29677.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
 ];

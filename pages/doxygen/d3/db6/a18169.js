@@ -1,7 +1,6 @@
 var a18169 =
 [
-    [ "npc_coldflameAI", "d3/db6/a18169.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "d3/db6/a18169.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "d3/db6/a18169.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "d3/db6/a18169.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "boss_lady_deathwhisperAI", "d2/def/a18173.html", "d2/def/a18173" ],
+    [ "boss_lady_deathwhisper", "d3/db6/a18169.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "d3/db6/a18169.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

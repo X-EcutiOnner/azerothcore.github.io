@@ -1,9 +1,7 @@
 var a18469 =
 [
-    [ "AfterApply", "d2/d2c/a18469.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
-    [ "ExtraRemoveEffect", "d2/d2c/a18469.html#a9f427761fcca9029eb75d586e5876fcd", null ],
-    [ "PeriodicTick", "d2/d2c/a18469.html#a82430399e44001343f322b2c3b7769a5", null ],
-    [ "PrepareAuraScript", "d2/d2c/a18469.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
-    [ "Register", "d2/d2c/a18469.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
-    [ "Validate", "d2/d2c/a18469.html#ae20873e93fbace6272a793993fb45349", null ]
+    [ "IceTombSummonEvent", "d2/d2c/a18469.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
+    [ "Execute", "d2/d2c/a18469.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
+    [ "_owner", "d2/d2c/a18469.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
+    [ "_sindragosaGUID", "d2/d2c/a18469.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
 ];

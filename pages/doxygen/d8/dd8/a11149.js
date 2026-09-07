@@ -1,5 +1,6 @@
 var a11149 =
 [
-    [ "Icon", "d8/dd8/a11149.html#ae47c09144b18e42aa48499de3e3fe276", null ],
-    [ "Name", "d8/dd8/a11149.html#a19c79529bbfe25701c9f8253f3e0f9d8", null ]
+    [ "GuildUpdateInfoText", "d8/dd8/a11149.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
+    [ "Read", "d8/dd8/a11149.html#a7019344fef99c5479602d7bc1176e9ee", null ],
+    [ "InfoText", "d8/dd8/a11149.html#a786802ce427465d66a4cea1365743975", null ]
 ];

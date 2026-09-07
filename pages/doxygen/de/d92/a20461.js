@@ -1,7 +1,7 @@
 var a20461 =
 [
-    [ "FilterTargetsInitial", "de/d92/a20461.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
-    [ "Load", "de/d92/a20461.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
-    [ "PrepareSpellScript", "de/d92/a20461.html#a4d1e588557fa3fa432d4015fda930877", null ],
-    [ "Register", "de/d92/a20461.html#a0428375ddb89907e7f1728757d55d052", null ]
+    [ "npc_ulduar_icicle", "de/d92/a20461.html#ac5f024031a70b4ca04ecc0a96fcbdcae", null ],
+    [ "UpdateAI", "de/d92/a20461.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
+    [ "timer1", "de/d92/a20461.html#ae277d302131abd17cef018872b12da06", null ],
+    [ "timer2", "de/d92/a20461.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
 ];

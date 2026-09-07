@@ -1,4 +1,6 @@
 var a05229 =
 [
-    [ "hashCode", "d2/d3b/a05229.html#aa8996d8155ce20464f9eea4dd4c13d57", null ]
+    [ "Resolver", "d2/d3b/a05229.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
+    [ "Resolve", "d2/d3b/a05229.html#ab190f885c84753fe65405db6fb04bf7c", null ],
+    [ "_impl", "d2/d3b/a05229.html#a08ed9183a6338606524c44f0fd5695a0", null ]
 ];

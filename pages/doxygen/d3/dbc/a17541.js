@@ -1,6 +1,6 @@
 var a17541 =
 [
-    [ "npc_living_mojoAI", "df/de5/a17545.html", "df/de5/a17545" ],
-    [ "npc_living_mojo", "d3/dbc/a17541.html#af24190023549b4ec5fa47b5959618a8a", null ],
-    [ "GetAI", "d3/dbc/a17541.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
+    [ "npc_pos_leader_secondAI", "df/de5/a17545.html", "df/de5/a17545" ],
+    [ "npc_pos_leader_second", "d3/dbc/a17541.html#ac4758674cc97eae0937264fa028e6da5", null ],
+    [ "GetAI", "d3/dbc/a17541.html#ac403cfc86247990d78c9cf4179df8b87", null ]
 ];

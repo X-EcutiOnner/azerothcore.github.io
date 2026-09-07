@@ -1,6 +1,6 @@
 var a23781 =
 [
-    [ "npc_deaths_fel_cannonAI", "dc/d66/a23785.html", "dc/d66/a23785" ],
-    [ "npc_deaths_fel_cannon", "d0/db8/a23781.html#a87ecaca75061928600b5114d3913dd26", null ],
-    [ "GetAI", "d0/db8/a23781.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
+    [ "npc_millhouse_manastormAI", "dc/d66/a23785.html", "dc/d66/a23785" ],
+    [ "npc_millhouse_manastorm", "d0/db8/a23781.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "d0/db8/a23781.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

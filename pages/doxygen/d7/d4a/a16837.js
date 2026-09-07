@@ -1,6 +1,8 @@
 var a16837 =
 [
-    [ "npc_toc_druidAI", "da/dc2/a16841.html", "da/dc2/a16841" ],
-    [ "npc_toc_druid", "d7/d4a/a16837.html#a07321d5ee164b8e47f652f9bad65216b", null ],
-    [ "GetAI", "d7/d4a/a16837.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
+    [ "npc_announcer_toc5AI", "d7/d4a/a16837.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
+    [ "DamageTaken", "d7/d4a/a16837.html#a53458483699ac026ff2cd36b5f061571", null ],
+    [ "MovementInform", "d7/d4a/a16837.html#acdcf4110b3815635ad173a70e7a1e603", null ],
+    [ "Reset", "d7/d4a/a16837.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
+    [ "UpdateAI", "d7/d4a/a16837.html#ad2c596253d67d051f497a8d77859846d", null ]
 ];

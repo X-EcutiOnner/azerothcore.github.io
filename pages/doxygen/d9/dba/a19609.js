@@ -1,8 +1,8 @@
 var a19609 =
 [
-    [ "npc_scion_of_eternity", "d9/dba/a19609.html#ac1a9111bc835a3d2cffc43b840985763", null ],
-    [ "AttackStart", "d9/dba/a19609.html#a86b5e235096ad107217f36150c618d73", null ],
-    [ "JustDied", "d9/dba/a19609.html#aff0f8d0d57afb6ef3df7b259ec5860fa", null ],
-    [ "MoveInLineOfSight", "d9/dba/a19609.html#a25424c349fc39f7b42d36ac055f91ad9", null ],
-    [ "UpdateAI", "d9/dba/a19609.html#a49be60ccd03d75cf56931b870ddf086c", null ]
+    [ "boss_maexxna_webwrapAI", "d9/dba/a19609.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
+    [ "IsSummonedBy", "d9/dba/a19609.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
+    [ "JustDied", "d9/dba/a19609.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
+    [ "UpdateAI", "d9/dba/a19609.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
+    [ "victimGUID", "d9/dba/a19609.html#a54081ebfc0df639b7e18b5f079802c92", null ]
 ];

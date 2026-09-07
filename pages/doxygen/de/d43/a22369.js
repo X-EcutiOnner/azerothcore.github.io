@@ -1,14 +1,9 @@
 var a22369 =
 [
-    [ "OutdoorPvPNA", "de/d43/a22369.html#acbdae42245c71e4274296649d8d08e9e", null ],
-    [ "FillInitialWorldStates", "de/d43/a22369.html#a49ac785929dd16bf0735b32b787763e9", null ],
-    [ "GetCapturePoint", "de/d43/a22369.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
-    [ "HandleKill", "de/d43/a22369.html#ab55683b771104878c69239314a9782f4", null ],
-    [ "HandleKillImpl", "de/d43/a22369.html#a2ede6e7dc54424d9729a094557b14792", null ],
-    [ "HandlePlayerEnterZone", "de/d43/a22369.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
-    [ "HandlePlayerLeaveZone", "de/d43/a22369.html#ae7dd540746946513cd7bf8e29296c068", null ],
-    [ "SendRemoveWorldStates", "de/d43/a22369.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
-    [ "SetupOutdoorPvP", "de/d43/a22369.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
-    [ "Update", "de/d43/a22369.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
-    [ "m_obj", "de/d43/a22369.html#a7538d64bb494644eae3cc7db03dd631f", null ]
+    [ "HandlePeriodic", "de/d43/a22369.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "de/d43/a22369.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "de/d43/a22369.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "de/d43/a22369.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "de/d43/a22369.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "de/d43/a22369.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

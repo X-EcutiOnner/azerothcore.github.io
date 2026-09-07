@@ -1,10 +1,8 @@
 var a27093 =
 [
-    [ "CheckProc", "db/d39/a27093.html#a5971c42af47d1cc8045a130deb218a04", null ],
-    [ "HandleProc", "db/d39/a27093.html#a45aaf5afebc2fa533240fcf8233430ed", null ],
-    [ "Load", "db/d39/a27093.html#a7664b0f67c9e3b14841ed9e30447544d", null ],
-    [ "PrepareAuraScript", "db/d39/a27093.html#a291fcf1af497d1e83a31209cd01a360d", null ],
-    [ "Register", "db/d39/a27093.html#af16d0517ad07a454145da0b92c051740", null ],
-    [ "Validate", "db/d39/a27093.html#ac768a5f4738dee9ad7d885fa6136785e", null ],
-    [ "_procTargetGUID", "db/d39/a27093.html#a13976d069846f29d2f744f3f03502787", null ]
+    [ "HandleDummy", "db/d39/a27093.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "db/d39/a27093.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "db/d39/a27093.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "db/d39/a27093.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "db/d39/a27093.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

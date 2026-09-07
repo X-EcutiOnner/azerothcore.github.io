@@ -1,6 +1,5 @@
 var a28077 =
 [
-    [ "go_fel_crystalforge", "d9/d4a/a28077.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "d9/d4a/a28077.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "d9/d4a/a28077.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "achievement_bg_av_perfection", "d9/d4a/a28077.html#a8a0ef996bdb1244026268922b301184c", null ],
+    [ "OnCheck", "d9/d4a/a28077.html#a17e700c17b5144b571f2aeed92a77749", null ]
 ];

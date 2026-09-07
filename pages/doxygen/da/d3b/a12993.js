@@ -1,6 +1,5 @@
 var a12993 =
 [
-    [ "HandleHit", "da/d3b/a12993.html#a5245f935c0cafd14e492214a51d85ad3", null ],
-    [ "PrepareSpellScript", "da/d3b/a12993.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
-    [ "Register", "da/d3b/a12993.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
+    [ "go_orb_of_domination", "da/d3b/a12993.html#ad1378efcf7a54adac256a44bbdfe4357", null ],
+    [ "GossipHello", "da/d3b/a12993.html#a95628cbeeb6b2af6a79546ff3661815e", null ]
 ];

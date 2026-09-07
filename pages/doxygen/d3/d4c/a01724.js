@@ -1,17 +1,25 @@
 var a01724 =
 [
-    [ "BattlegroundRL", "da/db4/a07843.html", "da/db4/a07843" ],
-    [ "BattlegroundRLObjects", "d3/d4c/a01724.html#a07ba947d37c83568823ee5313377497a", [
-      [ "BG_RL_OBJECT_TYPE_DOOR_1", "d3/d4c/a01724.html#a07ba947d37c83568823ee5313377497aa4af54ddc0fa71a41b26c859580db7fb0", null ],
-      [ "BG_RL_OBJECT_TYPE_DOOR_2", "d3/d4c/a01724.html#a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1", null ],
-      [ "BG_RL_OBJECT_TYPE_BUFF_1", "d3/d4c/a01724.html#a07ba947d37c83568823ee5313377497aaf7212d012d9018e008f475bd21bae934", null ],
-      [ "BG_RL_OBJECT_TYPE_BUFF_2", "d3/d4c/a01724.html#a07ba947d37c83568823ee5313377497aa5e706f8c7f110903f7301b47b0487921", null ]
+    [ "UpdateData", "d9/d89/a08889.html", "d9/d89/a08889" ],
+    [ "OBJECT_UPDATE_FLAGS", "d3/d4c/a01724.html#af1fc105a57ed0bc535d17509e4ad5e9e", [
+      [ "UPDATEFLAG_NONE", "d3/d4c/a01724.html#af1fc105a57ed0bc535d17509e4ad5e9eab3f4d8eafca6e04f6b445bedda939799", null ],
+      [ "UPDATEFLAG_SELF", "d3/d4c/a01724.html#af1fc105a57ed0bc535d17509e4ad5e9eacb59b2f7a20c57e2dc11ad4a4a74195f", null ],
+      [ "UPDATEFLAG_TRANSPORT", "d3/d4c/a01724.html#af1fc105a57ed0bc535d17509e4ad5e9ea7b800b143915d7a9ea65020153cee3ca", null ],
+      [ "UPDATEFLAG_HAS_TARGET", "d3/d4c/a01724.html#af1fc105a57ed0bc535d17509e4ad5e9eae67f7342d7c369d11cfb6d50bea094dd", null ],
+      [ "UPDATEFLAG_UNKNOWN", "d3/d4c/a01724.html#af1fc105a57ed0bc535d17509e4ad5e9eab102319844f46e52393bb89975c591f7", null ],
+      [ "UPDATEFLAG_LOWGUID", "d3/d4c/a01724.html#af1fc105a57ed0bc535d17509e4ad5e9ea65f9bb0b19a3ecbc46fbe3b4573cb15b", null ],
+      [ "UPDATEFLAG_LIVING", "d3/d4c/a01724.html#af1fc105a57ed0bc535d17509e4ad5e9ea0eedb2f7b118804bb3fe89fde52d7632", null ],
+      [ "UPDATEFLAG_STATIONARY_POSITION", "d3/d4c/a01724.html#af1fc105a57ed0bc535d17509e4ad5e9ead20e13b8389c2680af0a59dc557d4ee1", null ],
+      [ "UPDATEFLAG_VEHICLE", "d3/d4c/a01724.html#af1fc105a57ed0bc535d17509e4ad5e9ea6dfc1770c97c7c1d8433e0e12ad47c51", null ],
+      [ "UPDATEFLAG_POSITION", "d3/d4c/a01724.html#af1fc105a57ed0bc535d17509e4ad5e9ea2e4269d3be94ff8f1f715c41c060222b", null ],
+      [ "UPDATEFLAG_ROTATION", "d3/d4c/a01724.html#af1fc105a57ed0bc535d17509e4ad5e9ea2a1fa785627688900bcc7bb221f1462a", null ]
     ] ],
-    [ "BattlegroundRLObjectTypes", "d3/d4c/a01724.html#a5b40294f7ef8f041d61eaa6911993b24", [
-      [ "BG_RL_OBJECT_DOOR_1", "d3/d4c/a01724.html#a5b40294f7ef8f041d61eaa6911993b24ab647ed9553d4e532699cd1b551014636", null ],
-      [ "BG_RL_OBJECT_DOOR_2", "d3/d4c/a01724.html#a5b40294f7ef8f041d61eaa6911993b24a9dfe9b550ad26c408445bfe72f064058", null ],
-      [ "BG_RL_OBJECT_BUFF_1", "d3/d4c/a01724.html#a5b40294f7ef8f041d61eaa6911993b24a793477ef5d11b6f41cfb62d8c354e8d4", null ],
-      [ "BG_RL_OBJECT_BUFF_2", "d3/d4c/a01724.html#a5b40294f7ef8f041d61eaa6911993b24a670a77d5efbe30024d0ffb16acd5dfac", null ],
-      [ "BG_RL_OBJECT_MAX", "d3/d4c/a01724.html#a5b40294f7ef8f041d61eaa6911993b24a7b6737d574968476c6ecb6d1bbf03813", null ]
+    [ "OBJECT_UPDATE_TYPE", "d3/d4c/a01724.html#aa0f2952f4b375c0e91f5276ff267cbad", [
+      [ "UPDATETYPE_VALUES", "d3/d4c/a01724.html#aa0f2952f4b375c0e91f5276ff267cbada1fc033f630eab16bbf5b7ce7938d7bef", null ],
+      [ "UPDATETYPE_MOVEMENT", "d3/d4c/a01724.html#aa0f2952f4b375c0e91f5276ff267cbadac08838cdcba5218c53ea7745f5c0c370", null ],
+      [ "UPDATETYPE_CREATE_OBJECT", "d3/d4c/a01724.html#aa0f2952f4b375c0e91f5276ff267cbada4dc60011a5f19dc6c7d8ef61f9b10e20", null ],
+      [ "UPDATETYPE_CREATE_OBJECT2", "d3/d4c/a01724.html#aa0f2952f4b375c0e91f5276ff267cbadaf72ecfc1f4c6b5006f7985299cc2cd8f", null ],
+      [ "UPDATETYPE_OUT_OF_RANGE_OBJECTS", "d3/d4c/a01724.html#aa0f2952f4b375c0e91f5276ff267cbada5e1317f5c975a9e3a19c37922f49e089", null ],
+      [ "UPDATETYPE_NEAR_OBJECTS", "d3/d4c/a01724.html#aa0f2952f4b375c0e91f5276ff267cbada5017763e8c136985831c2ee1583795d5", null ]
     ] ]
 ];

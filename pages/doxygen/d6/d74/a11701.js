@@ -1,7 +1,7 @@
 var a11701 =
 [
-    [ "Player", "d6/d74/a11701.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d6/d74/a11701.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "FactionChange", "d6/d74/a11701.html#adff657ead29df26ead5e20a8ecf44e87", null ],
-    [ "Race", "d6/d74/a11701.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
+    [ "OpcodeHandler", "d3/d82/a05088.html#gad7dc8101b537abe699b18ae8de444a81", null ],
+    [ "~OpcodeHandler", "d3/d82/a05088.html#ga5400057a3d849035aedda259828a5af5", null ],
+    [ "Name", "d3/d82/a05088.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
+    [ "Status", "d3/d82/a05088.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
 ];

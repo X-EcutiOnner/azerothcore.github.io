@@ -1,10 +1,10 @@
 var a29445 =
 [
-    [ "TestMap", "d0/dd8/a29445.html#aca5be96dac80e8b0cd031a689f6cad66", null ],
-    [ "~TestMap", "d0/dd8/a29445.html#a7175511302d9c67cce7b870ec70551de", null ],
-    [ "EnsureDBC", "d0/dd8/a29445.html#a2a117f615eafa6336e09defee91574b5", null ],
-    [ "SetIsDungeon", "d0/dd8/a29445.html#afa3e639a3a6b54c4efa917008400c37b", null ],
-    [ "SetIsRaid", "d0/dd8/a29445.html#ae577d4dc38ec92f11fab263d28455213", null ],
-    [ "SetMapType", "d0/dd8/a29445.html#a19013737f70a4d2362f88651b4e1a4b4", null ],
-    [ "_fakeMapEntry", "d0/dd8/a29445.html#afc183278ef7cd421df30ad878321f122", null ]
+    [ "attackSpeed", "d0/dd8/a29445.html#ab5242f7367e8799a556176178c72fc88", null ],
+    [ "creatureType", "d0/dd8/a29445.html#a3dff9074b85261932ed8a8a550c5395b", null ],
+    [ "flags1", "d0/dd8/a29445.html#a026745f2ce754d754858d69ee219b518", null ],
+    [ "ID", "d0/dd8/a29445.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
+    [ "modelID_A", "d0/dd8/a29445.html#a86dfa61342583d920b7d8496bce4b49d", null ],
+    [ "modelID_H", "d0/dd8/a29445.html#a1ee597d6fd02507b682874929645e01d", null ],
+    [ "stanceSpell", "d0/dd8/a29445.html#a08f54b905e905fb5a59e449f8c613c08", null ]
 ];

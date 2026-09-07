@@ -1,8 +1,6 @@
 var a22193 =
 [
-    [ "npc_wg_queueAI", "dc/dac/a22197.html", "dc/dac/a22197" ],
-    [ "npc_wg_queue", "de/da2/a22193.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "de/da2/a22193.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "de/da2/a22193.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "de/da2/a22193.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "npc_infra_green_bomber_genericAI", "dc/dac/a22197.html", "dc/dac/a22197" ],
+    [ "npc_infra_green_bomber_generic", "de/da2/a22193.html#a39134a09376c35f15e99377cd28ac6ff", null ],
+    [ "GetAI", "de/da2/a22193.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
 ];

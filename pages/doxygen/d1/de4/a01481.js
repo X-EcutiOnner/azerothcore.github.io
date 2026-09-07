@@ -1,6 +1,11 @@
 var a01481 =
 [
-    [ "Bag", "da/dc6/a08731.html", "da/dc6/a08731" ],
-    [ "MAX_BAG_SIZE", "d1/de4/a01481.html#a60a065b8fab298fb24dfd8f22f657d77", null ],
-    [ "NewItemOrBag", "d1/de4/a01481.html#a6b74a54b7de3ced0e27f4128f0d95c64", null ]
+    [ "SpellEvent", "d6/d5d/a11857.html", "d6/d5d/a11857" ],
+    [ "DEBUG_TRAJ", "d1/de4/a01481.html#ac27bc73435b380df600d6da0b753a144", null ],
+    [ "GCDLimits", "d1/de4/a01481.html#aea36520bcbaa2ebe9c062b9c5d9df777", [
+      [ "MIN_GCD", "d1/de4/a01481.html#aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f", null ],
+      [ "MAX_GCD", "d1/de4/a01481.html#aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c", null ]
+    ] ],
+    [ "tangent", "d1/de4/a01481.html#a885f76b28cf9930383ddf099d75ccef1", null ],
+    [ "SpellEffects", "d1/de4/a01481.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
 ];

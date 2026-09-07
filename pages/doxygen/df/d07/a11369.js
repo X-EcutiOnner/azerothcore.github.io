@@ -1,5 +1,6 @@
 var a11369 =
 [
-    [ "DurabilityDamageDeath", "df/d07/a11369.html#a9b4350d37291b9b714be1563b28dcb43", null ],
-    [ "Write", "df/d07/a11369.html#a35a93d9abeeb029f3da080487423f495", null ]
+    [ "CancelTempEnchantment", "df/d07/a11369.html#aa70516ab1b16789cb7b705751162b70b", null ],
+    [ "Read", "df/d07/a11369.html#a2c77f79d63247d7aa321cf6bda026ffa", null ],
+    [ "EquipmentSlot", "df/d07/a11369.html#a0b06dfb31f70cc547c54723d0bf70952", null ]
 ];

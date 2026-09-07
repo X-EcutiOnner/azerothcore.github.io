@@ -1,6 +1,6 @@
 var a15721 =
 [
-    [ "HandleDummy", "dc/ddf/a15721.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
-    [ "PrepareSpellScript", "dc/ddf/a15721.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
-    [ "Register", "dc/ddf/a15721.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
+    [ "FilterTargets", "dc/ddf/a15721.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
+    [ "PrepareSpellScript", "dc/ddf/a15721.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
+    [ "Register", "dc/ddf/a15721.html#aaf7b4fba94d94331f6b35add2b836061", null ]
 ];

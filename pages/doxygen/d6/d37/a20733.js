@@ -1,6 +1,5 @@
 var a20733 =
 [
-    [ "HandleScript", "d6/d37/a20733.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
-    [ "PrepareSpellScript", "d6/d37/a20733.html#a4fd05478a145157dbd8377532033ab95", null ],
-    [ "Register", "d6/d37/a20733.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_12", "d6/d37/a20733.html#adc7f5769894c59710fa70604878b1e2c", null ],
+    [ "OnCheck", "d6/d37/a20733.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
 ];

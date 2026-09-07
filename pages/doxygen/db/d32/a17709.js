@@ -1,6 +1,6 @@
 var a17709 =
 [
-    [ "ChangeSummonPos", "db/d32/a17709.html#a2c3d69419762c7f78688a22017a8c535", null ],
-    [ "PrepareSpellScript", "db/d32/a17709.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
-    [ "Register", "db/d32/a17709.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
+    [ "boss_prince_valanarAI", "d0/d1b/a17713.html", "d0/d1b/a17713" ],
+    [ "boss_prince_valanar_icc", "db/d32/a17709.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
+    [ "GetAI", "db/d32/a17709.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
 ];

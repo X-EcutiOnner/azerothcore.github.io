@@ -1,5 +1,7 @@
 var a14461 =
 [
-    [ "at_zulgurub_bloodfire_pit_speech", "d0/db4/a14461.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
-    [ "_OnTrigger", "d0/db4/a14461.html#a8f1e477942ba9a5f653077632a98930f", null ]
+    [ "HandleEffect", "d0/db4/a14461.html#a8cda8eff109af7441d6990a236a52b80", null ],
+    [ "PrepareSpellScript", "d0/db4/a14461.html#acc2698ba702be211bef63cefa41005f4", null ],
+    [ "Register", "d0/db4/a14461.html#a5d6dccbb44a5d95055755673ad70707f", null ],
+    [ "Validate", "d0/db4/a14461.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
 ];

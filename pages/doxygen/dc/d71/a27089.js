@@ -1,6 +1,7 @@
 var a27089 =
 [
-    [ "CheckProc", "dc/d71/a27089.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
-    [ "PrepareAuraScript", "dc/d71/a27089.html#af15109e926eb717c3f3cb2f7f617428c", null ],
-    [ "Register", "dc/d71/a27089.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
+    [ "HandleEffectRemove", "dc/d71/a27089.html#a814687d3938e966f8721438e1a722f77", null ],
+    [ "PrepareAuraScript", "dc/d71/a27089.html#a2144b0602501471a4001883ce9de6db3", null ],
+    [ "Register", "dc/d71/a27089.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
+    [ "AuraEffectHandleModes", "dc/d71/a27089.html#ab291f6c6f269ec7004df39a043f49efd", null ]
 ];

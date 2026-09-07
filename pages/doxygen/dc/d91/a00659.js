@@ -1,6 +1,4 @@
 var a00659 =
 [
-    [ "IntegrationTestFixture", "db/d14/a29655.html", "db/d14/a29655" ],
-    [ "TEST_FACTION_HOSTILE_TO_ALL", "dc/d91/a00659.html#a2ba0fc21bd7fc2eb0be55b83f098c883", null ],
-    [ "TEST_FACTION_HOSTILE_TO_MONSTERS", "dc/d91/a00659.html#af72a10157e381ef81a175a8ac4844d73", null ]
+    [ "ScriptRegistry< ServerScript >", "dc/d91/a00659.html#ab647e167a3a2438bcbf1e445e37a9747", null ]
 ];

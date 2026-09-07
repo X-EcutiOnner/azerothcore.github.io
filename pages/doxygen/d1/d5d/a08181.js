@@ -1,6 +1,5 @@
 var a08181 =
 [
-    [ "value_type", "d1/d5d/a08181.html#a39c517c76f9109f1bccd27cd04ec88cd", null ],
-    [ "StoreTo", "d1/d5d/a08181.html#a5658d34ee9af224a3d19ba5d5123535e", null ],
-    [ "tag", "d1/d5d/a08181.html#a3538ae91cb7d37c3d0a6a4964f4baaf9", null ]
+    [ "Quest", "d1/d5d/a08181.html#aca1cbcd3319031b549c0ec6441b2c821", null ],
+    [ "QuestLevel", "d1/d5d/a08181.html#ad162701af62caac909ef9f57f68bf848", null ]
 ];

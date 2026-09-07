@@ -1,7 +1,7 @@
 var a27937 =
 [
-    [ "HandlePeriodic", "d8/d27/a27937.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "d8/d27/a27937.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "d8/d27/a27937.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "d8/d27/a27937.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "OnProc", "d8/d27/a27937.html#a7ab183d734c543be2866c57f1e5cc508", null ],
+    [ "PrepareAuraScript", "d8/d27/a27937.html#a31118cda9f29318f4620caf38c09522a", null ],
+    [ "Register", "d8/d27/a27937.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
+    [ "Validate", "d8/d27/a27937.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
 ];

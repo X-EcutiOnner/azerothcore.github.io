@@ -1,6 +1,5 @@
 var a13017 =
 [
-    [ "boss_sulfuron", "d7/dc3/a13017.html#a7ede84fab05e5cb008036be559c3c799", null ],
-    [ "ExecuteEvent", "d7/dc3/a13017.html#a5db50a398c704d8276566c1d74111d19", null ],
-    [ "JustEngagedWith", "d7/dc3/a13017.html#a320f58043ee525656a7c2fe94a2a4371", null ]
+    [ "at_orb_of_command", "d7/dc3/a13017.html#a1f0b196362b76e050eba66d3ce612623", null ],
+    [ "OnTrigger", "d7/dc3/a13017.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
 ];

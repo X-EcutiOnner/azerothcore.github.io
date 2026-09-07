@@ -1,6 +1,9 @@
 var a28717 =
 [
-    [ "color", "db/d0c/a28717.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "db/d0c/a28717.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "db/d0c/a28717.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "npc_herald_of_the_lich_king", "db/d0c/a28717.html#a62e373796ce4e6509692e6837cdb561f", null ],
+    [ "ChangeZoneEventStatus", "db/d0c/a28717.html#a30c44f2f62badd27b105a55527d40670", null ],
+    [ "DoAction", "db/d0c/a28717.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
+    [ "InitializeAI", "db/d0c/a28717.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
+    [ "UpdateAI", "db/d0c/a28717.html#a21a5093a46959f4b69777b63de12c557", null ],
+    [ "UpdateWeather", "db/d0c/a28717.html#a3c6d076171596c9ce472cddda18a42be", null ]
 ];

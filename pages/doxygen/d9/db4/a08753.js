@@ -1,9 +1,6 @@
 var a08753 =
 [
-    [ "Reset", "d9/db4/a08753.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
-    [ "guid", "d9/db4/a08753.html#ac115013e34f67bc1444fef4fc96c843e", null ],
-    [ "pos", "d9/db4/a08753.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
-    [ "seat", "d9/db4/a08753.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
-    [ "time", "d9/db4/a08753.html#acec3991f0d19fd9f72e9837eef516057", null ],
-    [ "time2", "d9/db4/a08753.html#a426c651d2f359847b033a4d7f278a191", null ]
+    [ "DamageMax", "d9/db4/a08753.html#afc0bd7960848f6434c182a3fadc1e256", null ],
+    [ "DamageMin", "d9/db4/a08753.html#acbab962cbc25ad032c97216feac281bb", null ],
+    [ "DamageType", "d9/db4/a08753.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
 ];

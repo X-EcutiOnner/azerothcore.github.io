@@ -1,6 +1,11 @@
 var a24109 =
 [
-    [ "HandleSendEvent", "d8/d0f/a24109.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
-    [ "PrepareSpellScript", "d8/d0f/a24109.html#aed8815b1d068ba04f12c7714a64af769", null ],
-    [ "Register", "d8/d0f/a24109.html#aa55fa06e76b1f34e319e16984405ed20", null ]
+    [ "npc_aeranasAI", "d8/d0f/a24109.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "JustReachedHome", "d8/d0f/a24109.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
+    [ "Reset", "d8/d0f/a24109.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "d8/d0f/a24109.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "_defeated", "d8/d0f/a24109.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
+    [ "envelopingWinds_Timer", "d8/d0f/a24109.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "d8/d0f/a24109.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "d8/d0f/a24109.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

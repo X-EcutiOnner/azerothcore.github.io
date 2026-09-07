@@ -1,6 +1,5 @@
 var a19705 =
 [
-    [ "instance_nexus_InstanceMapScript", "dd/d5e/a19709.html", "dd/d5e/a19709" ],
-    [ "instance_nexus", "db/d71/a19705.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
-    [ "GetInstanceScript", "db/d71/a19705.html#a156210ba08caa0572c775dbd5851b250", null ]
+    [ "npc_mr_bigglesworth", "db/d71/a19705.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
+    [ "JustDied", "db/d71/a19705.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
 ];

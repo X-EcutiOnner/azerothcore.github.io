@@ -1,6 +1,6 @@
 var a17953 =
 [
-    [ "npc_igb_ship_crewAI", "db/dc0/a17953.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "db/dc0/a17953.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "db/dc0/a17953.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "npc_stinky_iccAI", "df/d04/a17957.html", "df/d04/a17957" ],
+    [ "npc_stinky_icc", "db/dc0/a17953.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
+    [ "GetAI", "db/dc0/a17953.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
 ];

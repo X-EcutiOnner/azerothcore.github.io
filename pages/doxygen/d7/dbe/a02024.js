@@ -1,4 +1,5 @@
 var a02024 =
 [
-    [ "WorldSocketThread", "d0/dd1/a11807.html", "d0/dd1/a11807" ]
+    [ "SmartScript", "d4/d5f/a06653.html", "d4/d5f/a06653" ],
+    [ "SmartScript::SmartScriptFrame", "da/d95/a06657.html", "da/d95/a06657" ]
 ];

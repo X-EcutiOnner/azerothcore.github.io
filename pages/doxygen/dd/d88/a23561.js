@@ -1,8 +1,8 @@
 var a23561 =
 [
-    [ "boss_commander_sarannis", "dd/d88/a23561.html#ace0957feb37f864798008849be25f607", null ],
-    [ "JustDied", "dd/d88/a23561.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
-    [ "JustEngagedWith", "dd/d88/a23561.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
-    [ "KilledUnit", "dd/d88/a23561.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
-    [ "ScheduleReinforcements", "dd/d88/a23561.html#a293f0b860a66396a30c6d255eef85309", null ]
+    [ "ApplyStun", "dd/d88/a23561.html#a5a5b921dc45418485919e599e80f8ca8", null ],
+    [ "HandleScriptEffect", "dd/d88/a23561.html#a32619710179250a6a0b408856a888153", null ],
+    [ "PrepareSpellScript", "dd/d88/a23561.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
+    [ "Register", "dd/d88/a23561.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
+    [ "Validate", "dd/d88/a23561.html#a66d91a87078c663903cd836344eec867", null ]
 ];

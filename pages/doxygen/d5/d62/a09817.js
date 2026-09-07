@@ -1,8 +1,9 @@
 var a09817 =
 [
-    [ "AllGameObjectsMatchingOneEntryInRange", "d5/d62/a09817.html#ad64e96c8484be1354ad4a3c0b6754d95", null ],
-    [ "operator()", "d5/d62/a09817.html#afc81f329be9d6d8eb8bfd2ade94c5665", null ],
-    [ "m_fRange", "d5/d62/a09817.html#aa76b1a6c8a919c1e5b37c74b33859464", null ],
-    [ "m_pObject", "d5/d62/a09817.html#ac2bae147199d0b1b592a560017128c4e", null ],
-    [ "m_uiEntries", "d5/d62/a09817.html#a3eb95fd72147ab8195da44a46c2cf0e6", null ]
+    [ "NearestHostileUnitCheck", "d5/d62/a09817.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
+    [ "NearestHostileUnitCheck", "d5/d62/a09817.html#a2fe620370289850eb0362823de2072d1", null ],
+    [ "operator()", "d5/d62/a09817.html#a04c85a77d660bbc74279d1062dabc375", null ],
+    [ "i_playerOnly", "d5/d62/a09817.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
+    [ "m_range", "d5/d62/a09817.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
+    [ "me", "d5/d62/a09817.html#a67cef25e6f725ea42f0377df34d48495", null ]
 ];

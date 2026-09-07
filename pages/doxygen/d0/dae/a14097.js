@@ -1,10 +1,15 @@
 var a14097 =
 [
-    [ "npc_grand_magister_rommathAI", "d0/dae/a14097.html#a5e9404dd8bf4b513e05daac53c076314", null ],
-    [ "DoAction", "d0/dae/a14097.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
-    [ "MoveInLineOfSight", "d0/dae/a14097.html#ad35b64b37915484b133bcd185a832011", null ],
-    [ "UpdateAI", "d0/dae/a14097.html#ac687bd20f0ae66b21ce52c21561af417", null ],
-    [ "announced", "d0/dae/a14097.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
-    [ "events", "d0/dae/a14097.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
-    [ "playerGUID", "d0/dae/a14097.html#ad0ac0647feb998e837a44b0a688694e9", null ]
+    [ "npc_deathstalker_fearleia", "d0/dae/a14097.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
+    [ "JustDied", "d0/dae/a14097.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
+    [ "JustEngagedWith", "d0/dae/a14097.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
+    [ "JustSummoned", "d0/dae/a14097.html#a8ef363de7292d366eea128b55b1acaeb", null ],
+    [ "Reset", "d0/dae/a14097.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
+    [ "sQuestAccept", "d0/dae/a14097.html#a5da116182685dfac72139b40266f2884", null ],
+    [ "SummonCreatureWithRandomTarget", "d0/dae/a14097.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
+    [ "SummonedCreatureDespawn", "d0/dae/a14097.html#a36415976d5ae2034578581bdec183f33", null ],
+    [ "UpdateAI", "d0/dae/a14097.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
+    [ "_playerGUID", "d0/dae/a14097.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
+    [ "_questInProgress", "d0/dae/a14097.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
+    [ "_summons", "d0/dae/a14097.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
 ];

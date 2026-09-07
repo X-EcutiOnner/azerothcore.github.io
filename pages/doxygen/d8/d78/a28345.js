@@ -1,7 +1,5 @@
 var a28345 =
 [
-    [ "npc_guardianAI", "d8/d78/a28345.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "d8/d78/a28345.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "d8/d78/a28345.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "d8/d78/a28345.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "go_tele_to_dalaran_crystal", "d8/d78/a28345.html#ab41268b7d568e8f189338f27cd90a62c", null ],
+    [ "OnGossipHello", "d8/d78/a28345.html#a7f754a29249653ca7848494310ef1a8d", null ]
 ];

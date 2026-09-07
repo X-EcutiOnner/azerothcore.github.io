@@ -1,6 +1,7 @@
 var a23421 =
 [
-    [ "HandleScriptEffect", "d9/ddb/a23421.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
-    [ "PrepareSpellScript", "d9/ddb/a23421.html#a287bff28e57a86f0176921500de78fa9", null ],
-    [ "Register", "d9/ddb/a23421.html#ad5fb101794dfdef0c08551dd9397b965", null ]
+    [ "HandleProc", "d9/ddb/a23421.html#a03b2be5894d489a6021aff2744aee0e0", null ],
+    [ "PrepareAuraScript", "d9/ddb/a23421.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
+    [ "Register", "d9/ddb/a23421.html#a804e1bc3d570d28cb2e06155054f3169", null ],
+    [ "Validate", "d9/ddb/a23421.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
 ];

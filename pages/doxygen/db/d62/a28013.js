@@ -1,6 +1,6 @@
 var a28013 =
 [
-    [ "go_brewfest_musicAI", "da/d57/a28017.html", "da/d57/a28017" ],
-    [ "go_brewfest_music", "db/d62/a28013.html#a787963a5ee591933d62fdb52911f9a77", null ],
-    [ "GetAI", "db/d62/a28013.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
+    [ "HandleProc", "db/d62/a28013.html#a6b321d6ee3002f32b546aeaed0925183", null ],
+    [ "PrepareAuraScript", "db/d62/a28013.html#a4186315ab8fa250fd108c2de1c650f9e", null ],
+    [ "Register", "db/d62/a28013.html#a3817a49fbcac2d70ded5a39b3cce8ea7", null ]
 ];

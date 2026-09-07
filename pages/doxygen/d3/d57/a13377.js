@@ -1,5 +1,6 @@
 var a13377 =
 [
-    [ "boss_apoko", "d3/d57/a13377.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
-    [ "JustEngagedWith", "d3/d57/a13377.html#a7ad52b258863bd818b3e5d1143de7629", null ]
+    [ "instance_karazhan_InstanceMapScript", "d2/d6c/a13381.html", "d2/d6c/a13381" ],
+    [ "instance_karazhan", "d3/d57/a13377.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
+    [ "GetInstanceScript", "d3/d57/a13377.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
 ];

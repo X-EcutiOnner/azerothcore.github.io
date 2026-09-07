@@ -1,8 +1,8 @@
 var a27941 =
 [
-    [ "FilterTargets", "d3/de1/a27941.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
-    [ "HandleEffect", "d3/de1/a27941.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
-    [ "PrepareSpellScript", "d3/de1/a27941.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
-    [ "Register", "d3/de1/a27941.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
-    [ "Validate", "d3/de1/a27941.html#aabc063155fad404ffd044c9f79b88051", null ]
+    [ "HandleEffect", "d3/de1/a27941.html#a1c1a06362742abcf83e1817c468de3d3", null ],
+    [ "PrepareSpellScript", "d3/de1/a27941.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
+    [ "Register", "d3/de1/a27941.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
+    [ "SendMiss", "d3/de1/a27941.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
+    [ "Validate", "d3/de1/a27941.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
 ];

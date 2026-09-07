@@ -1,6 +1,6 @@
 var a26017 =
 [
-    [ "PrepareSpellScript", "d5/d17/a26017.html#a7099b8d28128cfea49288792ea02606c", null ],
-    [ "Register", "d5/d17/a26017.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
-    [ "UpdateTarget", "d5/d17/a26017.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
+    [ "CheckProc", "d5/d17/a26017.html#acac962ba1cb72615772fe8bc81d24f9d", null ],
+    [ "PrepareAuraScript", "d5/d17/a26017.html#aebe1c8083ba09c21125c47843b2949da", null ],
+    [ "Register", "d5/d17/a26017.html#adde6dada6b3012c2650ba9173c6616a0", null ]
 ];

@@ -1,7 +1,6 @@
 var a24517 =
 [
-    [ "HandleProc", "d7/dc7/a24517.html#a393909e3765443aa4930d8036c36b132", null ],
-    [ "PrepareAuraScript", "d7/dc7/a24517.html#aeaacd337fd8a02e7c19ead8912fc68d9", null ],
-    [ "Register", "d7/dc7/a24517.html#af37fd1db3dc6cbbe985734853ea59109", null ],
-    [ "Validate", "d7/dc7/a24517.html#a0966b67c38486fb32c3e442f388320b1", null ]
+    [ "DeathEvent", "d7/dc7/a24517.html#a2fb9a98c077d715c4648aede6597276e", null ],
+    [ "Execute", "d7/dc7/a24517.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
+    [ "_owner", "d7/dc7/a24517.html#a099d0d5ae50126f00220b3ed90907617", null ]
 ];

@@ -1,7 +1,6 @@
 var a22201 =
 [
-    [ "npc_wg_quest_giver", "db/d85/a22201.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "db/d85/a22201.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "db/d85/a22201.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "db/d85/a22201.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "ChangeSummonPos", "db/d85/a22201.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "db/d85/a22201.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "db/d85/a22201.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

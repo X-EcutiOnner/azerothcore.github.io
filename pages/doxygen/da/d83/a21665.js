@@ -1,6 +1,9 @@
 var a21665 =
 [
-    [ "npc_q24545_vegard_dummyAI", "d5/df7/a21669.html", "d5/df7/a21669" ],
-    [ "npc_q24545_vegard_dummy", "da/d83/a21665.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
-    [ "GetAI", "da/d83/a21665.html#a201d1dec206887c26e33f795a0fd0887", null ]
+    [ "npc_warmage_coldarraAI", "da/d83/a21665.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
+    [ "AttackStart", "da/d83/a21665.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
+    [ "JustEngagedWith", "da/d83/a21665.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
+    [ "Reset", "da/d83/a21665.html#adf5094ba2bee34ec793124e798d5af8f", null ],
+    [ "UpdateAI", "da/d83/a21665.html#a14b221265cc38b4061c52b687274a398", null ],
+    [ "m_uiTimer", "da/d83/a21665.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
 ];

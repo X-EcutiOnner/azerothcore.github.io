@@ -1,7 +1,6 @@
 var a20433 =
 [
-    [ "HandleScript", "d8/dc6/a20433.html#a760bb60198017605111d02af98c827b1", null ],
-    [ "PrepareSpellScript", "d8/dc6/a20433.html#a6128956f1037b62fff2e6f10ec22d956", null ],
-    [ "Register", "d8/dc6/a20433.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
-    [ "Validate", "d8/dc6/a20433.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
+    [ "FilterTargets", "d8/dc6/a20433.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
+    [ "PrepareSpellScript", "d8/dc6/a20433.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
+    [ "Register", "d8/dc6/a20433.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
 ];

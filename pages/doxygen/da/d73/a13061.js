@@ -1,6 +1,6 @@
 var a13061 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "d9/d5a/a13065.html", "d9/d5a/a13065" ],
-    [ "instance_gnomeregan", "da/d73/a13061.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "da/d73/a13061.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "boss_lucifron", "da/d73/a13061.html#a632be7d3aaa9cc2360fce6871918a4b1", null ],
+    [ "ExecuteEvent", "da/d73/a13061.html#ae392b01817d9160ef0c80387406ad6fa", null ],
+    [ "JustEngagedWith", "da/d73/a13061.html#a9ebfc9877165aaadd2ea446995f4cf99", null ]
 ];

@@ -1,5 +1,6 @@
 var a28173 =
 [
-    [ "item_petrov_cluster_bombs", "da/daf/a28173.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "da/daf/a28173.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "boss_lethonAI", "df/d23/a28177.html", "df/d23/a28177" ],
+    [ "boss_lethon", "da/daf/a28173.html#a5d758979b061646830373de64b2b3af4", null ],
+    [ "GetAI", "da/daf/a28173.html#a493baf37aac400635dd0409e79375a1c", null ]
 ];

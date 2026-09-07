@@ -1,6 +1,9 @@
 var a19297 =
 [
-    [ "npc_ioc_gunship_captainAI", "de/d7b/a19301.html", "de/d7b/a19301" ],
-    [ "npc_ioc_gunship_captain", "dd/db8/a19297.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
-    [ "GetAI", "dd/db8/a19297.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "dd/db8/a19297.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "dd/db8/a19297.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "dd/db8/a19297.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "dd/db8/a19297.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "dd/db8/a19297.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "dd/db8/a19297.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

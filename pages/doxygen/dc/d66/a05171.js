@@ -1,6 +1,12 @@
 var a05171 =
 [
-    [ "Resolver", "dc/d66/a05171.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
-    [ "Resolve", "dc/d66/a05171.html#ab190f885c84753fe65405db6fb04bf7c", null ],
-    [ "_impl", "dc/d66/a05171.html#a08ed9183a6338606524c44f0fd5695a0", null ]
+    [ "DismissCritter", "db/db1/a11541.html", "db/db1/a11541" ],
+    [ "PetAbandon", "dd/d2f/a11545.html", "dd/d2f/a11545" ],
+    [ "PetActionSound", "dc/da0/a11569.html", "dc/da0/a11569" ],
+    [ "PetDismissSound", "d6/d3d/a11573.html", "d6/d3d/a11573" ],
+    [ "PetLearnedSpell", "dc/dfa/a11557.html", "dc/dfa/a11557" ],
+    [ "PetSpellAutocast", "db/d60/a11553.html", "db/d60/a11553" ],
+    [ "PetStopAttack", "d5/d74/a11549.html", "d5/d74/a11549" ],
+    [ "PetUnlearnedSpell", "db/d54/a11561.html", "db/d54/a11561" ],
+    [ "RequestPetInfo", "d1/dd2/a11565.html", "d1/dd2/a11565" ]
 ];

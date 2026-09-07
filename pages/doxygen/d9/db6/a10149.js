@@ -1,9 +1,10 @@
 var a10149 =
 [
-    [ "RectangleBoundary", "d9/db6/a10149.html#af401f84700a15fa1d4fcf78358a74735", null ],
-    [ "IsWithinBoundaryArea", "d9/db6/a10149.html#a2d6c735d080382263a401d91da37b934", null ],
-    [ "_maxX", "d9/db6/a10149.html#a3eff421dfe942634814e7526334f1c07", null ],
-    [ "_maxY", "d9/db6/a10149.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
-    [ "_minX", "d9/db6/a10149.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
-    [ "_minY", "d9/db6/a10149.html#af5a7e35d5d9ff23c722643141f01a916", null ]
+    [ "iterator", "d9/db6/a10149.html#a9fada63aa17222fc5e216f3904affafd", null ],
+    [ "begin", "d9/db6/a10149.html#aee3a4701c5bc51f4028fe53f18675989", null ],
+    [ "end", "d9/db6/a10149.html#ad61defd77296790a6c5d0a43bacbbe4b", null ],
+    [ "getFirst", "d9/db6/a10149.html#ae47bba95a17db31a42231da948245387", null ],
+    [ "getLast", "d9/db6/a10149.html#ac03e93ac8ad6fc91ec9d2961b8904217", null ],
+    [ "rbegin", "d9/db6/a10149.html#af68f1d93a80e13976798dfed0063a1e4", null ],
+    [ "rend", "d9/db6/a10149.html#a92c30fb269bc99820b6964a99ee86d98", null ]
 ];

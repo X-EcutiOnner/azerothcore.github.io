@@ -1,22 +1,6 @@
 var a19377 =
 [
-    [ "boss_gothikAI", "d7/db3/a19377.html#a18ae481969ed0885122058b0ebf98cc8", null ],
-    [ "CheckGroupSplitted", "d7/db3/a19377.html#a1efec7ad0793812f83e808b961059875", null ],
-    [ "DamageTaken", "d7/db3/a19377.html#a40e40340002d05d97aa944c14af4030c", null ],
-    [ "IsInRoom", "d7/db3/a19377.html#a73b20994a1949731b83a3a28b70ad9d1", null ],
-    [ "JustDied", "d7/db3/a19377.html#a9c4e6647c05785664cd23fce73d8ca87", null ],
-    [ "JustEngagedWith", "d7/db3/a19377.html#aa2e622be4faa605aa7b13af333bd1a91", null ],
-    [ "JustSummoned", "d7/db3/a19377.html#a9bbe9412721e4173ef37a1dbd494c262", null ],
-    [ "KilledUnit", "d7/db3/a19377.html#adde94c95fcfe2cacee16b06f73528651", null ],
-    [ "OpenGate", "d7/db3/a19377.html#a6c2f0b49dec037f300206341bbb0f0a0", null ],
-    [ "Reset", "d7/db3/a19377.html#a31f3993b01755f45f3fe997d599a52d4", null ],
-    [ "SummonedCreatureDespawn", "d7/db3/a19377.html#a2223b2c287b2b21a7377ed49b2a65628", null ],
-    [ "SummonHelpers", "d7/db3/a19377.html#aaa751f216763deba29fde2d0aba09567", null ],
-    [ "UpdateAI", "d7/db3/a19377.html#ada9b63a61fc4c8abb60fdff30fb9487d", null ],
-    [ "events", "d7/db3/a19377.html#a756a5816615e02be0fc8308cc5088e49", null ],
-    [ "gateOpened", "d7/db3/a19377.html#ad2de325f3fde87679503664de81a911e", null ],
-    [ "lastTeleportDead", "d7/db3/a19377.html#aaec3668a6ff72ccee46148b2d9b4e3ad", null ],
-    [ "secondPhase", "d7/db3/a19377.html#a1e4526d104670d4899ef6dd5760c2437", null ],
-    [ "summons", "d7/db3/a19377.html#aa1786f68bc52722dead6d9a6c131d6cb", null ],
-    [ "waveCount", "d7/db3/a19377.html#a4ed9dfac7e4d22fcb1f8396ca1318073", null ]
+    [ "icecrown_citadel_teleport", "d7/db3/a19377.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "d7/db3/a19377.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "d7/db3/a19377.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

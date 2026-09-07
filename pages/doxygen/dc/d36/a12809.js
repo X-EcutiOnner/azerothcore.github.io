@@ -1,12 +1,14 @@
 var a12809 =
 [
-    [ "go_suppression_device", "dc/d36/a12809.html#ae8d3a5e9ca0bd621065bad9b8ee2733b", null ],
-    [ "Activate", "dc/d36/a12809.html#aab10f7c30f4c7fcf89aa295d830da56f", null ],
-    [ "Deactivate", "dc/d36/a12809.html#aaf01b7e3317e4b032e7c202ebfcb9a68", null ],
-    [ "DoAction", "dc/d36/a12809.html#a036467db9b2661e7048216b03451861b", null ],
-    [ "InitializeAI", "dc/d36/a12809.html#a6f40d8e47699b711466d8d36bdaa424c", null ],
-    [ "UpdateAI", "dc/d36/a12809.html#a00fb90b16c82f9d968cc29275c05675a", null ],
-    [ "_active", "dc/d36/a12809.html#a1accabc06137c07e9f74ea91d068672c", null ],
-    [ "_events", "dc/d36/a12809.html#a43fc9da45057e18811a0efc69e01edc8", null ],
-    [ "_instance", "dc/d36/a12809.html#a8c6b389e2df34d5f47b2599fc78ad072", null ]
+    [ "boss_mor_grayhoof", "dc/d36/a12809.html#aef1001233a51ad3bb9963c540d39d79b", null ],
+    [ "CastRandomSpell", "dc/d36/a12809.html#a00756d64d24088ebf408153fcb59ff13", null ],
+    [ "DamageTaken", "dc/d36/a12809.html#a164a911eb9a86964a61866c05d44512f", null ],
+    [ "JustDied", "dc/d36/a12809.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
+    [ "JustEngagedWith", "dc/d36/a12809.html#a043f6ee099efd0d49982b2966604e65a", null ],
+    [ "Reset", "dc/d36/a12809.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
+    [ "UpdateAI", "dc/d36/a12809.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
+    [ "_phase", "dc/d36/a12809.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
+    [ "_scheduler", "dc/d36/a12809.html#ad2a897281d308475957e2636c6536fdd", null ],
+    [ "_sleepTargetGUID", "dc/d36/a12809.html#a8baa606696dc8acf532e8badfc6c624b", null ],
+    [ "_sleepTargetThreat", "dc/d36/a12809.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
 ];

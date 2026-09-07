@@ -1,15 +1,6 @@
 var a19429 =
 [
-    [ "boss_heigan", "d2/d8c/a19429.html#a402b76bd927dd738bdbdf7faff93394c", null ],
-    [ "CheckSafetyDance", "d2/d8c/a19429.html#a378397cc91408b812c76f657a96285e1", null ],
-    [ "JustDied", "d2/d8c/a19429.html#a259c99e12b92ccb99af16949e37b5c48", null ],
-    [ "JustEngagedWith", "d2/d8c/a19429.html#a55f1fd72fefe1a47cbc9390ad7c2831d", null ],
-    [ "KilledUnit", "d2/d8c/a19429.html#a5210d37ca829ff81ca25478a0c27a8ea", null ],
-    [ "Reset", "d2/d8c/a19429.html#a11035ab423fd556ccdb1ec8f85160df3", null ],
-    [ "StartFightPhase", "d2/d8c/a19429.html#ab1ae2d814f7258aed760a1644d2de69a", null ],
-    [ "UpdateAI", "d2/d8c/a19429.html#a36c0bc5abff61b435f2a8163687b122a", null ],
-    [ "_currentPhase", "d2/d8c/a19429.html#a1065c6221b30536344e7d4d0779abd17", null ],
-    [ "_currentSection", "d2/d8c/a19429.html#adcf2448a0868ea3e900609c8e7e34154", null ],
-    [ "_eruptionScheduler", "d2/d8c/a19429.html#a53ed837f6a898551bc7daa4be8b05ee6", null ],
-    [ "_moveRight", "d2/d8c/a19429.html#a43d360ff1b8e569a5f9f894b456cb751", null ]
+    [ "boss_isle_of_conquestAI", "da/da6/a19433.html", "da/da6/a19433" ],
+    [ "boss_isle_of_conquest", "d2/d8c/a19429.html#ad4052d1b6865585d32016e1240449659", null ],
+    [ "GetAI", "d2/d8c/a19429.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
 ];

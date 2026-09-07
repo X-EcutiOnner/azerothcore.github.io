@@ -1,8 +1,13 @@
 var a14233 =
 [
-    [ "npc_the_scourge_cauldronAI", "d1/db6/a14233.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
-    [ "DoDie", "d1/db6/a14233.html#a9f720a27db2943a66b11ad6355690bf5", null ],
-    [ "JustEngagedWith", "d1/db6/a14233.html#a89954dec2f7d57d933c18822333243ac", null ],
-    [ "MoveInLineOfSight", "d1/db6/a14233.html#a256195dbe75859d72afcd0defb9ff76e", null ],
-    [ "Reset", "d1/db6/a14233.html#ab18bb2eb344f45827685786c665b1750", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d1/db6/a14233.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
+    [ "JustDied", "d1/db6/a14233.html#a410c84a1fcf50b50e6ebc340c1b58939", null ],
+    [ "JustEngagedWith", "d1/db6/a14233.html#a36324482fb264cc3cacf11c3ed542eee", null ],
+    [ "JustSummoned", "d1/db6/a14233.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
+    [ "Reset", "d1/db6/a14233.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
+    [ "SetGUID", "d1/db6/a14233.html#a10ecf7bf7551be186e1c00390eaad203", null ],
+    [ "UpdateAI", "d1/db6/a14233.html#ab704e4f3af8aa734910efd259db31407", null ],
+    [ "_events", "d1/db6/a14233.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
+    [ "LamentEvent", "d1/db6/a14233.html#ace9e901a965665e0f97cb9646af308aa", null ],
+    [ "playerGUID", "d1/db6/a14233.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
 ];

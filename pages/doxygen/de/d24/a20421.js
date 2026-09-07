@@ -1,11 +1,8 @@
 var a20421 =
 [
-    [ "npc_ulduar_iron_construct", "de/d24/a20421.html#ab44bf86ea4a50f365e37ba888d0b2f6d", null ],
-    [ "JustDied", "de/d24/a20421.html#ae102f4c7b9bc4246e0720287739e419a", null ],
-    [ "JustReachedHome", "de/d24/a20421.html#a77609f7939725001d7a31c4d92f00358", null ],
-    [ "MoveInLineOfSight", "de/d24/a20421.html#a6f8bfc52f6f8b6fbd4b8fb01bc827b8a", null ],
-    [ "Reset", "de/d24/a20421.html#a2fcec0917d5266b286cbb0995ef6ee34", null ],
-    [ "SpellHit", "de/d24/a20421.html#a0c786f44d9f255464fadb1c53b6fc004", null ],
-    [ "UpdateAI", "de/d24/a20421.html#afc56384db98a225a223c9214414508ea", null ],
-    [ "timer", "de/d24/a20421.html#a397277972454f710d7236ba36a67c977", null ]
+    [ "npc_ulduar_saronite_animus", "de/d24/a20421.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
+    [ "JustDied", "de/d24/a20421.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
+    [ "UpdateAI", "de/d24/a20421.html#afc7899752e25669b37ab04b50fb2d604", null ],
+    [ "_instance", "de/d24/a20421.html#a6f2bf52c82185365efe88941b7922504", null ],
+    [ "timer", "de/d24/a20421.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
 ];

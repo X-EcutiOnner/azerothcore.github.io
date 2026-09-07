@@ -1,6 +1,6 @@
 var a21829 =
 [
-    [ "npc_plaguehound_trackerAI", "dd/d09/a21833.html", "dd/d09/a21833" ],
-    [ "npc_plaguehound_tracker", "de/d33/a21829.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
-    [ "GetAI", "de/d33/a21829.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
+    [ "npc_injured_7th_legion_soldierAI", "de/d33/a21829.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
+    [ "MovementInform", "de/d33/a21829.html#a999bc868db485578fcc70ae7e056b778", null ],
+    [ "Reset", "de/d33/a21829.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
 ];

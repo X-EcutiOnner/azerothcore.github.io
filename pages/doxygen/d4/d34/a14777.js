@@ -1,5 +1,6 @@
 var a14777 =
 [
-    [ "at_bring_your_orphan_to", "d4/d34/a14777.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
-    [ "OnTrigger", "d4/d34/a14777.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
+    [ "npc_direbrew_antagonist", "d4/d34/a14777.html#a30fed4e6888d98af576dea8e13c510d3", null ],
+    [ "DoAction", "d4/d34/a14777.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
+    [ "JustEngagedWith", "d4/d34/a14777.html#aaf54b03d66d726901c289ff28d362787", null ]
 ];

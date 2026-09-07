@@ -1,6 +1,6 @@
 var a07621 =
 [
-    [ "ArenaSeasonRewardDistributor", "d0/dca/a07621.html#a9b60eb5be0be5c1be68b9c371c99f28c", null ],
-    [ "DistributeRewards", "d0/dca/a07621.html#a93640633dc11edda2cd1fce4f1da496b", null ],
-    [ "_rewarder", "d0/dca/a07621.html#af2801ea5d098bebac111589e1fcf7004", null ]
+    [ "attackText", "d0/dca/a07621.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
+    [ "takenText", "d0/dca/a07621.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
+    [ "worldstate", "d0/dca/a07621.html#a342ef087df4f9326952728c2192a3da3", null ]
 ];

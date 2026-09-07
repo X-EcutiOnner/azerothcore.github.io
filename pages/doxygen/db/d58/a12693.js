@@ -1,11 +1,5 @@
 var a12693 =
 [
-    [ "boss_gyth", "db/d58/a12693.html#a18fea0e0fb6c734b818bb8989b1e66c9", null ],
-    [ "EnterEvadeMode", "db/d58/a12693.html#a172ea902e3bd162bf8fe8b23e7b9dcfa", null ],
-    [ "IsSummonedBy", "db/d58/a12693.html#ad7c64e772a8959ad0e58fc13512e0088", null ],
-    [ "JustDied", "db/d58/a12693.html#a305bf5c4913f429b44592e4a7e99b8ae", null ],
-    [ "JustEngagedWith", "db/d58/a12693.html#a16de6cf7e2925fd49df6a412c6df9533", null ],
-    [ "JustSummoned", "db/d58/a12693.html#aab0152a90a341839279cb6d0e7e19eb6", null ],
-    [ "Reset", "db/d58/a12693.html#aef0345d29833b13045b374a219335018", null ],
-    [ "UpdateAI", "db/d58/a12693.html#a8829ad229ee09aea55f9603058d095e8", null ]
+    [ "amount", "db/d58/a12693.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b", null ],
+    [ "entry", "db/d58/a12693.html#ac3d4d211ebb927b1b9a376ee956e1b26", null ]
 ];

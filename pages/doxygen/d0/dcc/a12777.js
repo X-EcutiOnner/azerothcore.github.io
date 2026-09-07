@@ -1,5 +1,6 @@
 var a12777 =
 [
-    [ "at_dragonspire_hall", "d0/dcc/a12777.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
-    [ "OnTrigger", "d0/dcc/a12777.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
+    [ "RestoreAttack", "d0/dcc/a12777.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
+    [ "Execute", "d0/dcc/a12777.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
+    [ "_boss", "d0/dcc/a12777.html#a493ef909da834b0befd90f57f54fb10c", null ]
 ];

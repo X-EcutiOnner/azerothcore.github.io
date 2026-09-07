@@ -1,6 +1,8 @@
 var a22433 =
 [
-    [ "instance_auchenai_crypts_InstanceMapScript", "d6/d82/a22437.html", "d6/d82/a22437" ],
-    [ "instance_auchenai_crypts", "d2/d90/a22433.html#a8b16924167c54a9d8120bac67bc10fed", null ],
-    [ "GetInstanceScript", "d2/d90/a22433.html#a99e47df95fde07d4a6e7687634805b93", null ]
+    [ "npc_oathbound_warder", "d2/d90/a22433.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
+    [ "AttackStart", "d2/d90/a22433.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
+    [ "InitializeAI", "d2/d90/a22433.html#a62c4c568ad615013afa46c7da84d057a", null ],
+    [ "JustEngagedWith", "d2/d90/a22433.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
+    [ "UpdateAI", "d2/d90/a22433.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
 ];

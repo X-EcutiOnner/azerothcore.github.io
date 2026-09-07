@@ -1,9 +1,7 @@
 var a19193 =
 [
-    [ "npc_icc_severed_essenceAI", "d1/d8f/a19193.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "d1/d8f/a19193.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "d1/d8f/a19193.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "d1/d8f/a19193.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "d1/d8f/a19193.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "d1/d8f/a19193.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "OnApply", "d1/d8f/a19193.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
+    [ "OnRemove", "d1/d8f/a19193.html#a697a7c76f944b5df956a9de07746b7a9", null ],
+    [ "PrepareAuraScript", "d1/d8f/a19193.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
+    [ "Register", "d1/d8f/a19193.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
 ];

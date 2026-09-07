@@ -1,7 +1,5 @@
 var a20541 =
 [
-    [ "HandleEffectPeriodic", "df/d7c/a20541.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
-    [ "PrepareAuraScript", "df/d7c/a20541.html#af432e810a46e35f95bb0b3b2eaada132", null ],
-    [ "Register", "df/d7c/a20541.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
-    [ "Validate", "df/d7c/a20541.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
+    [ "achievement_getting_cold_in_here", "df/d7c/a20541.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
+    [ "OnCheck", "df/d7c/a20541.html#aeafd382d378381f754da6ee04d382276", null ]
 ];

@@ -1,12 +1,10 @@
 var a10585 =
 [
-    [ "QuestLocale", "d1/d14/a10585.html#a887d474a470ee0278fb4b465a7ad9547", null ],
-    [ "AreaDescription", "d1/d14/a10585.html#a5c6c5a8d1fb500afef514c80c9d87e4e", null ],
-    [ "CompletedText", "d1/d14/a10585.html#aad432417f836b2cbe03d3e53e4e76f14", null ],
-    [ "Details", "d1/d14/a10585.html#afd23d37c92f2b28e1c125bba0d670497", null ],
-    [ "Objectives", "d1/d14/a10585.html#ae1ecea0f255f34b547302bfc2c0b6ad4", null ],
-    [ "ObjectiveText", "d1/d14/a10585.html#ae41f7f50ab68e5783ceec37e6f8ff5b0", null ],
-    [ "OfferRewardText", "d1/d14/a10585.html#aaba6d07625232a77e3457454f7d4fa77", null ],
-    [ "RequestItemsText", "d1/d14/a10585.html#a764d2092084454844e59c484fb637017", null ],
-    [ "Title", "d1/d14/a10585.html#ab75b38241e31b9137c1d85334b3a3f30", null ]
+    [ "WaypointMgr", "d1/d14/a10585.html#a2f038884959f10348bd5b7af3abee7db", null ],
+    [ "GetPath", "d1/d14/a10585.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
+    [ "instance", "d1/d14/a10585.html#aacd2ed943503288057b3fb9a935a56e9", null ],
+    [ "Load", "d1/d14/a10585.html#a69ae451ce07f2e68be81b1a86649115d", null ],
+    [ "LoadWaypointAddons", "d1/d14/a10585.html#a84df91143dd387b5d4adc7aa8d63045e", null ],
+    [ "ReloadPath", "d1/d14/a10585.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
+    [ "_waypointStore", "d1/d14/a10585.html#a15d1c47c7e839538c354ba91775bd9e7", null ]
 ];

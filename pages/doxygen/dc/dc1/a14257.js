@@ -1,12 +1,6 @@
 var a14257 =
 [
-    [ "npc_tapoke_slim_jahnAI", "dc/dc1/a14257.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
-    [ "AttackedBy", "dc/dc1/a14257.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
-    [ "DamageTaken", "dc/dc1/a14257.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
-    [ "JustEngagedWith", "dc/dc1/a14257.html#a544b8eaee365217a4a735ed39b4607b2", null ],
-    [ "JustSummoned", "dc/dc1/a14257.html#ae468305fbe930baf0a1547f2e6de9953", null ],
-    [ "Reset", "dc/dc1/a14257.html#a5aeaa5511584d1095639e7df584019c5", null ],
-    [ "WaypointReached", "dc/dc1/a14257.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
-    [ "WaypointReached", "dc/dc1/a14257.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "IsFriendSummoned", "dc/dc1/a14257.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "dd/d64/a14261.html", "dd/d64/a14261" ],
+    [ "npc_jaina_proudmoore_bfu", "dc/dc1/a14257.html#af96c4fac318f44cf6e70817b6960999f", null ],
+    [ "GetAI", "dc/dc1/a14257.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
 ];

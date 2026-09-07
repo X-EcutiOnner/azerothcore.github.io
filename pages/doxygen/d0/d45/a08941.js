@@ -1,8 +1,9 @@
 var a08941 =
 [
-    [ "BaseRune", "d0/d45/a08941.html#ad5a4b3afd246f5a4c071e3c4f350f132", null ],
-    [ "ConvertAura", "d0/d45/a08941.html#a41c55cb4c1b3f69c6a424359f60e34e1", null ],
-    [ "Cooldown", "d0/d45/a08941.html#a8eeb0f5208c29d43ab493a22f73eb0a6", null ],
-    [ "CurrentRune", "d0/d45/a08941.html#a2cebb551231f0364a1751e5d1a37fcda", null ],
-    [ "GracePeriod", "d0/d45/a08941.html#a3fa13f205dbaaca5bdcc7406f73b4e6a", null ]
+    [ "ActionButton", "d0/d45/a08941.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
+    [ "GetAction", "d0/d45/a08941.html#a7c10f6089fab30179cfe8175b740477a", null ],
+    [ "GetType", "d0/d45/a08941.html#abe5bc143770d411cff0d8c8c425b1253", null ],
+    [ "SetActionAndType", "d0/d45/a08941.html#a29d804ed78d79f64e868e9741b37d7be", null ],
+    [ "packedData", "d0/d45/a08941.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
+    [ "uState", "d0/d45/a08941.html#a6384e73650da93c96d3b4cc42b151b63", null ]
 ];

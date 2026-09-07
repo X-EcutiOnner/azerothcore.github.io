@@ -1,17 +1,6 @@
 var a11665 =
 [
-    [ "WorldPacket", "d4/dc3/a11665.html#a6329945c46586b75f41f4f3b0410a046", null ],
-    [ "WorldPacket", "d4/dc3/a11665.html#a121222c627cfce905891be1611705a1a", null ],
-    [ "WorldPacket", "d4/dc3/a11665.html#af406fe2f357035990fd5eccf37f3fb93", null ],
-    [ "WorldPacket", "d4/dc3/a11665.html#a2880e36e172096407778fcbbdfe917bc", null ],
-    [ "WorldPacket", "d4/dc3/a11665.html#a251580581b403cc113aa743c0196ceea", null ],
-    [ "WorldPacket", "d4/dc3/a11665.html#a224a2ad18da5d8dd7a7bcbb887870243", null ],
-    [ "GetOpcode", "d4/dc3/a11665.html#a666547feae3b83bfbba424a541287239", null ],
-    [ "GetReceivedTime", "d4/dc3/a11665.html#a467aa36509adcb07f51bc8af24137c3e", null ],
-    [ "Initialize", "d4/dc3/a11665.html#a6b7d58fb0230383629fa888d3aa9dbd8", null ],
-    [ "operator=", "d4/dc3/a11665.html#ad44064a3c2c73f6289a9db539b408f50", null ],
-    [ "operator=", "d4/dc3/a11665.html#aa1196a05e7b338543b3b94188e59721f", null ],
-    [ "SetOpcode", "d4/dc3/a11665.html#acb55a3f9540c39bf88300473c29605ed", null ],
-    [ "m_opcode", "d4/dc3/a11665.html#a4ff77d8a27744f07bbab70cdc4a3ef91", null ],
-    [ "m_receivedTime", "d4/dc3/a11665.html#abb78776ad3a0f19e5e3d226666612b49", null ]
+    [ "TotemDestroyed", "d4/dc3/a11665.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
+    [ "Read", "d4/dc3/a11665.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
+    [ "Slot", "d4/dc3/a11665.html#a41eebde65aa696c2dec812da0aeab633", null ]
 ];

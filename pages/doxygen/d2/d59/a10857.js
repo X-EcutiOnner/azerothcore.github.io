@@ -1,15 +1,11 @@
 var a10857 =
 [
-    [ "MapScript", "d2/d59/a10857.html#a1932ac48acf7c937c060ee35804e79da", null ],
-    [ "checkMap", "d2/d59/a10857.html#abf3fbb90119e1ac5d13455217ac95a2f", null ],
-    [ "GetEntry", "d2/d59/a10857.html#aa2da3eeec627cb67719d774d35f03488", null ],
-    [ "OnCreate", "d2/d59/a10857.html#a8132edffb918e8b3b1131ae29a8d9e9b", null ],
-    [ "OnDestroy", "d2/d59/a10857.html#a4631768d457c2804f057c565d6e8fb7a", null ],
-    [ "OnLoadGridMap", "d2/d59/a10857.html#a77381401d4638c6149f21836f1ca6676", null ],
-    [ "OnPlayerEnter", "d2/d59/a10857.html#a9cef8253d591e729b4119312ec0b670a", null ],
-    [ "OnPlayerLeave", "d2/d59/a10857.html#a3d74ae0f2535cda31cf2d4125600f3e2", null ],
-    [ "OnUnloadGridMap", "d2/d59/a10857.html#a657bcd69e932d358e2c66daa6f571cfe", null ],
-    [ "OnUpdate", "d2/d59/a10857.html#a4e447511780a0c561e16b9e118361f63", null ],
-    [ "_mapEntry", "d2/d59/a10857.html#a280ca8d9bfa672c10d34a99db53d2959", null ],
-    [ "_mapId", "d2/d59/a10857.html#a1cbe9ae08f6e1c129df8d2277366eb1a", null ]
+    [ "ServerScript", "d2/d59/a10857.html#aba875505244ddfcea9db09dd79574128", null ],
+    [ "CanPacketReceive", "d2/d59/a10857.html#ada6045c5dcd48a011d66bd2998000d27", null ],
+    [ "CanPacketSend", "d2/d59/a10857.html#ae7d02121a95adcc53263d006bc14da2f", null ],
+    [ "OnNetworkStart", "d2/d59/a10857.html#ab51ce520816236687820d1f72bae0ed6", null ],
+    [ "OnNetworkStart", "d2/d59/a10857.html#a22b726d849ee171482ca7d6e0e1e4527", null ],
+    [ "OnNetworkStop", "d2/d59/a10857.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
+    [ "OnSocketClose", "d2/d59/a10857.html#a8386aef9c139f06732a5f36eadccec6c", null ],
+    [ "OnSocketOpen", "d2/d59/a10857.html#a22e84aee366a0010a753b7ed3403172f", null ]
 ];

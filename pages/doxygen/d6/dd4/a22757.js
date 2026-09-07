@@ -1,6 +1,5 @@
 var a22757 =
 [
-    [ "HandleEffectRemove", "d6/dd4/a22757.html#ae9baf688d8ac42c4ccbbf13f3b79e831", null ],
-    [ "PrepareAuraScript", "d6/dd4/a22757.html#a2e2668f0b5bf369ec859627e0bd8d980", null ],
-    [ "Register", "d6/dd4/a22757.html#acd7e22159d262a9888c744eecb978c09", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "d6/dd4/a22757.html#a037ee225b626b64436570680ae4e9ea0", null ],
+    [ "ProcessEvent", "d6/dd4/a22757.html#aba05b0edb57e6c42bd45593a51598365", null ]
 ];

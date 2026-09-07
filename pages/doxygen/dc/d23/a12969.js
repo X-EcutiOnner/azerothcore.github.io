@@ -1,6 +1,7 @@
 var a12969 =
 [
-    [ "boss_magmadar", "dc/d23/a12969.html#a1d7fe10f244e2975a858ee884a02ce57", null ],
-    [ "ExecuteEvent", "dc/d23/a12969.html#af846ccbb6fa4a63b7ea04474deeb7db5", null ],
-    [ "JustEngagedWith", "dc/d23/a12969.html#a4a38f37d0cbe892b7336694ef6008f2d", null ]
+    [ "HandlePeriodic", "dc/d23/a12969.html#ac2196cc9de34e286581d44d147fe9d04", null ],
+    [ "PrepareAuraScript", "dc/d23/a12969.html#a149c974371f23268d2d929b483637b14", null ],
+    [ "Register", "dc/d23/a12969.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
+    [ "Validate", "dc/d23/a12969.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
 ];

@@ -1,7 +1,5 @@
 var a12769 =
 [
-    [ "boss_warmaster_voone", "d5/d1b/a12769.html#a5dd3b0140dda8ef141c9598a427f6633", null ],
-    [ "DamageTaken", "d5/d1b/a12769.html#a48e135857ef9e7e524e07ed979f137e6", null ],
-    [ "ExecuteEvent", "d5/d1b/a12769.html#a2ff38398f38e61f91bd1aa7222867fd3", null ],
-    [ "JustEngagedWith", "d5/d1b/a12769.html#a961113ecf4c46f52001d153a60ea238a", null ]
+    [ "boss_gloomrel", "d5/d1b/a12769.html#a2fe4ce0ddf75725dcb388a346ee13af8", null ],
+    [ "sGossipSelect", "d5/d1b/a12769.html#a28b2c02b2a4195c90ce313324f056131", null ]
 ];

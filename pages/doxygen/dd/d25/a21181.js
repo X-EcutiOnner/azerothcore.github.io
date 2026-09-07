@@ -1,11 +1,9 @@
 var a21181 =
 [
-    [ "boss_archavonAI", "dd/d25/a21181.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
-    [ "AttackStart", "dd/d25/a21181.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
-    [ "JustDied", "dd/d25/a21181.html#a3974065a80dedf3e673452e7f6f8e449", null ],
-    [ "JustEngagedWith", "dd/d25/a21181.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
-    [ "Reset", "dd/d25/a21181.html#a7d101626f39947dd54b574491a5e6d72", null ],
-    [ "UpdateAI", "dd/d25/a21181.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
-    [ "events", "dd/d25/a21181.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
-    [ "pInstance", "dd/d25/a21181.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
+    [ "npc_ulduar_keeperAI", "dd/d25/a21181.html#ac69d21f3820f2c01a80ff664c317d111", null ],
+    [ "DoAction", "dd/d25/a21181.html#a03011d04761926d67e43c0bea5a0901f", null ],
+    [ "Reset", "dd/d25/a21181.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
+    [ "SpellHit", "dd/d25/a21181.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
+    [ "UpdateAI", "dd/d25/a21181.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
+    [ "_keeper", "dd/d25/a21181.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
 ];

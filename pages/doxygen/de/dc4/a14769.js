@@ -1,11 +1,10 @@
 var a14769 =
 [
-    [ "npc_the_etymidian", "de/dc4/a14769.html#af491016ac89b67947650a5ca9c379875", null ],
-    [ "MoveInLineOfSight", "de/dc4/a14769.html#adde2d86e30442eb1b47219e934e24407", null ],
-    [ "Reset", "de/dc4/a14769.html#a714edf3ba5f7a6d59242c991764effc5", null ],
-    [ "UpdateAI", "de/dc4/a14769.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
-    [ "orphanGUID", "de/dc4/a14769.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
-    [ "phase", "de/dc4/a14769.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
-    [ "playerGUID", "de/dc4/a14769.html#a7371e361c018360315e20086b0b99079", null ],
-    [ "timer", "de/dc4/a14769.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
+    [ "npc_coren_direbrew_sisters", "de/dc4/a14769.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
+    [ "GetGUID", "de/dc4/a14769.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
+    [ "JustEngagedWith", "de/dc4/a14769.html#a34e0b6af032240c152c463c221d99335", null ],
+    [ "SetGUID", "de/dc4/a14769.html#a8b25691671f4a65e990e9f39c92214ae", null ],
+    [ "UpdateAI", "de/dc4/a14769.html#a7434b08d12d3f0902d1944b75323560c", null ],
+    [ "_scheduler", "de/dc4/a14769.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
+    [ "_targetGUID", "de/dc4/a14769.html#a801a6811124a7db3a31ec492ef954b20", null ]
 ];

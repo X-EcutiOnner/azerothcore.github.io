@@ -1,5 +1,7 @@
 var a25273 =
 [
-    [ "PrepareSpellScript", "d7/da1/a25273.html#a096ce1292821f201af5f294877ee25e0", null ],
-    [ "Register", "d7/da1/a25273.html#a804d6dec38ea4e59a72ed09882dc9e95", null ]
+    [ "HandleEffectApply", "d7/da1/a25273.html#a97a639459622c9e3e995057989cf9eda", null ],
+    [ "HandleEffectRemove", "d7/da1/a25273.html#a7477bb78ffcc082c111bad4e93b9fd73", null ],
+    [ "PrepareAuraScript", "d7/da1/a25273.html#aa3c4018e18eccd8f12e4607f4bc630ec", null ],
+    [ "Register", "d7/da1/a25273.html#a40793c696a759db4920c4c34f5b9fa66", null ]
 ];

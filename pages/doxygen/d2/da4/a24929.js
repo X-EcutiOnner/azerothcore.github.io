@@ -1,6 +1,6 @@
 var a24929 =
 [
-    [ "HandleOnEffectHit", "d2/da4/a24929.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "d2/da4/a24929.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "d2/da4/a24929.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "HandleKnockBack", "d2/da4/a24929.html#ae50d143953074b83183482770046e131", null ],
+    [ "PrepareSpellScript", "d2/da4/a24929.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
+    [ "Register", "d2/da4/a24929.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
 ];

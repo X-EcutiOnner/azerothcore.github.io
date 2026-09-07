@@ -1,9 +1,7 @@
 var a16681 =
 [
-    [ "npc_memoryAI", "db/d55/a16681.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "db/d55/a16681.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "db/d55/a16681.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "db/d55/a16681.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "db/d55/a16681.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "db/d55/a16681.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "HandleDummy", "db/d55/a16681.html#a96b430cb0546fb599da22cd675660187", null ],
+    [ "PrepareSpellScript", "db/d55/a16681.html#ad0330cb78a330f05c18f33375f231fbc", null ],
+    [ "Register", "db/d55/a16681.html#a70a36683a235dec6044a8a32f20c606c", null ],
+    [ "Validate", "db/d55/a16681.html#affa7ccf869e98eacd3a153cc645d704e", null ]
 ];

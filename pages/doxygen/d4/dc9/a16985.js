@@ -1,6 +1,7 @@
 var a16985 =
 [
-    [ "npc_mistress_of_painAI", "d0/d76/a16989.html", "d0/d76/a16989" ],
-    [ "npc_mistress_of_pain", "d4/dc9/a16985.html#a0261ed835454725e0e5629c295be4330", null ],
-    [ "GetAI", "d4/dc9/a16985.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
+    [ "npc_toc_dkAI", "d4/dc9/a16985.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
+    [ "myCanCast", "d4/dc9/a16985.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
+    [ "UpdateAI", "d4/dc9/a16985.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
+    [ "events", "d4/dc9/a16985.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
 ];

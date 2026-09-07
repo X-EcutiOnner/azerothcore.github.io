@@ -1,13 +1,19 @@
 var a12613 =
 [
-    [ "npc_rocknot", "d5/d90/a12613.html#a890eaac55162130b05c7d2dba26cc872", null ],
-    [ "DoGo", "d5/d90/a12613.html#a242e871de8e19462fcab6fb9eae1039e", null ],
-    [ "Reset", "d5/d90/a12613.html#afaa1977f370fe699c75ebb83c0d291dd", null ],
-    [ "sQuestReward", "d5/d90/a12613.html#a633123eb64bd6d46ace12fd0e1853aef", null ],
-    [ "UpdateAI", "d5/d90/a12613.html#a15755c98f937784f538d547b15c2d192", null ],
-    [ "WaypointReached", "d5/d90/a12613.html#a3711cae23b14dcce2ac1938aaeb9b961", null ],
-    [ "WaypointReached", "d5/d90/a12613.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_breakDoorTimer", "d5/d90/a12613.html#a44955a4ef0e730f72848e582892380b5", null ],
-    [ "_breakKegTimer", "d5/d90/a12613.html#ad6e48e6f81521b89da9f528e079c1c90", null ],
-    [ "instance", "d5/d90/a12613.html#a71e6532128131a10aae575d1bac023d0", null ]
+    [ "server_commandscript", "d5/d90/a12613.html#a61d8b3a9f967996b533e62e94fe4c8ca", null ],
+    [ "GetCommands", "d5/d90/a12613.html#a850c21f1ece40c576d3bf622f1c3e18f", null ],
+    [ "HandleServerCorpsesCommand", "d5/d90/a12613.html#a01ae63f31c7f03f6c0006fe4583a14a3", null ],
+    [ "HandleServerDebugCommand", "d5/d90/a12613.html#ac78145cb5c0888449756e4dbb36c005f", null ],
+    [ "HandleServerExitCommand", "d5/d90/a12613.html#ab894b36baa95de647fb329fce6eed8fb", null ],
+    [ "HandleServerIdleRestartCommand", "d5/d90/a12613.html#ae18a92337d6cf8e62eafdf5f39d7b5a8", null ],
+    [ "HandleServerIdleShutDownCommand", "d5/d90/a12613.html#aa431504b2755304c4263121a7a437ce4", null ],
+    [ "HandleServerInfoCommand", "d5/d90/a12613.html#a6c63114c474f69621b013dbb57b47bf2", null ],
+    [ "HandleServerMotdCommand", "d5/d90/a12613.html#aa10d866fcb8567fbc625d2a297a116a6", null ],
+    [ "HandleServerRestartCommand", "d5/d90/a12613.html#a3ec7dd1f81f3b4b8adcb5f04f4d20f3f", null ],
+    [ "HandleServerSetClosedCommand", "d5/d90/a12613.html#a2ba489469cdb3c8da944f7d6547ae462", null ],
+    [ "HandleServerSetLogLevelCommand", "d5/d90/a12613.html#a1ce5627c1d948b5a5c86db54357de02a", null ],
+    [ "HandleServerSetMotdCommand", "d5/d90/a12613.html#a8cf2076d5e5fa3b35fddba117cd990bb", null ],
+    [ "HandleServerSetSecurityCommand", "d5/d90/a12613.html#aa2057e6a08f0bfd355aec0abf75d7c3f", null ],
+    [ "HandleServerShutDownCancelCommand", "d5/d90/a12613.html#ae64357518538c1ce4d03a8d9968b4035", null ],
+    [ "HandleServerShutDownCommand", "d5/d90/a12613.html#a514149a8d1dfc4513e0c71b69901767d", null ]
 ];

@@ -1,8 +1,11 @@
 var a24209 =
 [
-    [ "npc_pet_gen_wind_rider_cub", "d7/d3c/a24209.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
-    [ "UpdateAI", "d7/d3c/a24209.html#a534d122522d553e106e6c7729d6c55db", null ],
-    [ "checkTimer", "d7/d3c/a24209.html#a39fcfc5f5d9a630180713512db778b32", null ],
-    [ "checkTimer2", "d7/d3c/a24209.html#aabeaf7a9b5b77df540e1111950860e98", null ],
-    [ "isFlying", "d7/d3c/a24209.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
+    [ "npc_maxx_a_million_escortAI", "d7/d3c/a24209.html#ab827933527ed7b4a04b162034876ced8", null ],
+    [ "JustDied", "d7/d3c/a24209.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
+    [ "Reset", "d7/d3c/a24209.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
+    [ "UpdateAI", "d7/d3c/a24209.html#a3b022feb2303875d32ad981e84f66854", null ],
+    [ "WaypointReached", "d7/d3c/a24209.html#acd6f45abb93f3f043cd85647405a50f6", null ],
+    [ "WaypointReached", "d7/d3c/a24209.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "bTake", "d7/d3c/a24209.html#ac697fc6cbc20c7f316845ed26436049b", null ],
+    [ "uiTakeTimer", "d7/d3c/a24209.html#a5d4826dcf893f444a42dedba57460110", null ]
 ];

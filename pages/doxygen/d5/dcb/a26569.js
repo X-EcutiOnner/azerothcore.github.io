@@ -1,6 +1,7 @@
 var a26569 =
 [
-    [ "CheckCast", "d5/dcb/a26569.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "d5/dcb/a26569.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "d5/dcb/a26569.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "HandleKnockBack", "d5/dcb/a26569.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
+    [ "PrepareSpellScript", "d5/dcb/a26569.html#ab951d6403188f178f79311cead8a0a8f", null ],
+    [ "Register", "d5/dcb/a26569.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
+    [ "Validate", "d5/dcb/a26569.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
 ];

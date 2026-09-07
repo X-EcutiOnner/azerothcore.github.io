@@ -1,9 +1,16 @@
 var a12305 =
 [
-    [ "autobroadcast_commandscript", "dd/ded/a12305.html#a00946e483860809c8b1d92e773c8eeef", null ],
-    [ "GetCommands", "dd/ded/a12305.html#a01d7689785a4267ac4bd57bfc0d269e9", null ],
-    [ "HandleAutobroadcastAddCommand", "dd/ded/a12305.html#a4217bea8d83682acbdd64a225c839227", null ],
-    [ "HandleAutobroadcastListCommand", "dd/ded/a12305.html#a0e4a07fd036d66fc5639a8e29fd45392", null ],
-    [ "HandleAutobroadcastLocaleCommand", "dd/ded/a12305.html#aaebf528b045b05b038d2a3f8801d3c85", null ],
-    [ "HandleAutobroadcastRemoveCommand", "dd/ded/a12305.html#af6445843506ac2b4c2b5c158480aab8c", null ]
+    [ "CheckContainer", "dd/ded/a12305.html#a08e083224760d2bca1996da9cd9cb014", null ],
+    [ "CheckResultContainer", "dd/ded/a12305.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
+    [ "WardenCheckMgr", "dd/ded/a12305.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
+    [ "~WardenCheckMgr", "dd/ded/a12305.html#a0d89190f580435337c328da4bf2497b8", null ],
+    [ "GetMaxValidCheckId", "dd/ded/a12305.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
+    [ "GetWardenDataById", "dd/ded/a12305.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
+    [ "GetWardenResultById", "dd/ded/a12305.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
+    [ "instance", "dd/ded/a12305.html#aba9de1e123070338dc0049db8d8f0663", null ],
+    [ "LoadWardenChecks", "dd/ded/a12305.html#ad02847547a06d98c582d09992dce9d11", null ],
+    [ "LoadWardenOverrides", "dd/ded/a12305.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
+    [ "CheckIdPool", "dd/ded/a12305.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
+    [ "CheckResultStore", "dd/ded/a12305.html#a4f0224b8377827aced304b28fdefbda7", null ],
+    [ "CheckStore", "dd/ded/a12305.html#aac59e154d81b838f27c577af87b86bd1", null ]
 ];

@@ -1,8 +1,7 @@
 var a25833 =
 [
-    [ "CheckProc", "db/d2b/a25833.html#a8b3f8cf17dda2322d0e9f8f4211cbd20", null ],
-    [ "HandleProc", "db/d2b/a25833.html#ae034bd626880858c9701ed963de993c9", null ],
-    [ "isException", "db/d2b/a25833.html#aa5f4fcd1b9b710e2931460207cfc6dea", null ],
-    [ "PrepareAuraScript", "db/d2b/a25833.html#a50348fd27947f67df03bf4ddbec89cca", null ],
-    [ "Register", "db/d2b/a25833.html#aaa14b34ac54b4caee76ff72d07dd5c2d", null ]
+    [ "HandleProc", "db/d2b/a25833.html#a675a17a574539f2da85a5401afc18fec", null ],
+    [ "PrepareAuraScript", "db/d2b/a25833.html#a9e5ea1da302356a41b4eff338956ab93", null ],
+    [ "Register", "db/d2b/a25833.html#a2bade504b1ab2c2869ecaf8873864d19", null ],
+    [ "Validate", "db/d2b/a25833.html#aec327c219229ae9d59cb491eef2d95d3", null ]
 ];

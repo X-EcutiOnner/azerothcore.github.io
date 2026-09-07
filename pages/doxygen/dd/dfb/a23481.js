@@ -1,7 +1,6 @@
 var a23481 =
 [
-    [ "FilterTargets", "dd/dfb/a23481.html#a834163302ff10875227806d7d4945988", null ],
-    [ "HandleScriptEffect", "dd/dfb/a23481.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
-    [ "PrepareSpellScript", "dd/dfb/a23481.html#a079e72d57550e03956088b4be1d11422", null ],
-    [ "Register", "dd/dfb/a23481.html#abd4e0f268652652d3828ba8d350de849", null ]
+    [ "instance_steam_vault_InstanceMapScript", "dd/dfb/a23481.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "dd/dfb/a23481.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "dd/dfb/a23481.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

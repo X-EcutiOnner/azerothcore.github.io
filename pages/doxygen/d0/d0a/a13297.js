@@ -1,7 +1,6 @@
 var a13297 =
 [
-    [ "HandleDummy", "d0/d0a/a13297.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
-    [ "PrepareSpellScript", "d0/d0a/a13297.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
-    [ "Register", "d0/d0a/a13297.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
-    [ "Validate", "d0/d0a/a13297.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
+    [ "HandleCast", "d0/d0a/a13297.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
+    [ "PrepareSpellScript", "d0/d0a/a13297.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
+    [ "Register", "d0/d0a/a13297.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
 ];

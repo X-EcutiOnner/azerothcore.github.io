@@ -1,5 +1,6 @@
 var a24089 =
 [
-    [ "npc_shattrath_daily_quest", "dc/d7a/a24089.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "dc/d7a/a24089.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d3/d92/a24093.html", "d3/d92/a24093" ],
+    [ "npc_oscillating_frequency_scanner_master_bunny", "dc/d7a/a24089.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
+    [ "GetAI", "dc/d7a/a24089.html#a60d55e2eda4484ceea4e475ac8653977", null ]
 ];

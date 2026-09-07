@@ -1,6 +1,6 @@
 var a26285 =
 [
-    [ "CheckProc", "d3/d7e/a26285.html#af38c2b1c556a1fcdb1157468cd02811e", null ],
-    [ "PrepareAuraScript", "d3/d7e/a26285.html#a42b97406721d3493a378394132a55981", null ],
-    [ "Register", "d3/d7e/a26285.html#af4d514906f66af1b2f2392bcfc5e8b9c", null ]
+    [ "PrepareSpellScript", "d3/d7e/a26285.html#a7099b8d28128cfea49288792ea02606c", null ],
+    [ "Register", "d3/d7e/a26285.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
+    [ "UpdateTarget", "d3/d7e/a26285.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
 ];

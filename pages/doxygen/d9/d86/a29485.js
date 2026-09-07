@@ -1,5 +1,7 @@
 var a29485 =
 [
-    [ "SetUp", "d9/d86/a29485.html#aa33aaf63e128603a305fc5cfcd6d455a", null ],
-    [ "TearDown", "d9/d86/a29485.html#aa382128c47a08c27c9f2b0ed3958f9bf", null ]
+    [ "from", "d9/d86/a29485.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
+    [ "ID", "d9/d86/a29485.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
+    [ "price", "d9/d86/a29485.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
+    [ "to", "d9/d86/a29485.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
 ];

@@ -1,10 +1,6 @@
 var a21025 =
 [
-    [ "npc_dragonflayer_forge_master", "d2/db7/a21025.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "d2/db7/a21025.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "d2/db7/a21025.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "d2/db7/a21025.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "d2/db7/a21025.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "d2/db7/a21025.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "d2/db7/a21025.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "boss_yoggsaron_descend_portal", "d2/db7/a21025.html#aa64788351819e9c7f5505c929818770d", null ],
+    [ "OnSpellClick", "d2/db7/a21025.html#af72e8c3611b5e134e39ab9695405e08e", null ],
+    [ "_instance", "d2/db7/a21025.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
 ];

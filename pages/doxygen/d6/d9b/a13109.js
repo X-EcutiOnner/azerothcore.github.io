@@ -1,16 +1,8 @@
 var a13109 =
 [
-    [ "boss_attumen", "d6/d9b/a13109.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
-    [ "DamageTaken", "d6/d9b/a13109.html#a0b426b760d9ace05211c3383e7628022", null ],
-    [ "EnterEvadeMode", "d6/d9b/a13109.html#af00f91294c04d0fe932c922fd270c5dc", null ],
-    [ "Initialize", "d6/d9b/a13109.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],
-    [ "IsSummonedBy", "d6/d9b/a13109.html#a1fa6827c323cbda15e2a438bc376e74c", null ],
-    [ "JustDied", "d6/d9b/a13109.html#a375a95d46f8db8a53ea6420dd557855e", null ],
-    [ "JustSummoned", "d6/d9b/a13109.html#af91018e54244864ca4cd1b9d40c569df", null ],
-    [ "KilledUnit", "d6/d9b/a13109.html#ad167a1ec5ff737ad77b0c492efc022f0", null ],
-    [ "Reset", "d6/d9b/a13109.html#ab8815ed9b1068e748e43346725cd9281", null ],
-    [ "ScheduleTasks", "d6/d9b/a13109.html#ae63d0a3c7ae4ad755f091f2d31342a57", null ],
-    [ "SpellHit", "d6/d9b/a13109.html#a1181ae1d50d6c52483b0d90423997c90", null ],
-    [ "UpdateAI", "d6/d9b/a13109.html#aac982f13b35e7c37b49a4e76ace5fccd", null ],
-    [ "_phase", "d6/d9b/a13109.html#a8a668537dc5b7c01e6d9d91c67d6da72", null ]
+    [ "FilterTargets", "d6/d9b/a13109.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
+    [ "HandleScript", "d6/d9b/a13109.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
+    [ "PrepareSpellScript", "d6/d9b/a13109.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
+    [ "Register", "d6/d9b/a13109.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
+    [ "Validate", "d6/d9b/a13109.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
 ];

@@ -1,4 +1,4 @@
 var a08017 =
 [
-    [ "type", "d2/d77/a08017.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9", null ]
+    [ "TryConsume", "d2/d77/a08017.html#a8f2b6448f80a4fac69d0157c9f556dc4", null ]
 ];

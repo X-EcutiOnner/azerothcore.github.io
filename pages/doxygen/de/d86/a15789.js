@@ -1,8 +1,10 @@
 var a15789 =
 [
-    [ "npc_injured_draeneiAI", "de/d86/a15789.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
-    [ "JustEngagedWith", "de/d86/a15789.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
-    [ "MoveInLineOfSight", "de/d86/a15789.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
-    [ "Reset", "de/d86/a15789.html#adcb601f739a91ce71926791885152471", null ],
-    [ "UpdateAI", "de/d86/a15789.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
+    [ "npc_anubisath_defender", "de/d86/a15789.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
+    [ "DamageTaken", "de/d86/a15789.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
+    [ "JustDied", "de/d86/a15789.html#a225ca1b3144953bcc5890caf0d32b606", null ],
+    [ "JustEngagedWith", "de/d86/a15789.html#a6505fcae0e99cae44750f16daddc3309", null ],
+    [ "Reset", "de/d86/a15789.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
+    [ "UpdateAI", "de/d86/a15789.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
+    [ "_enraged", "de/d86/a15789.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
 ];

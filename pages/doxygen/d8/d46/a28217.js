@@ -1,8 +1,8 @@
 var a28217 =
 [
-    [ "npc_artoriusAI", "de/d0f/a28221.html", "de/d0f/a28221" ],
-    [ "npc_artorius", "d8/d46/a28217.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
-    [ "GetAI", "d8/d46/a28217.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
-    [ "OnGossipHello", "d8/d46/a28217.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
-    [ "OnGossipSelect", "d8/d46/a28217.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
+    [ "FilterTargets", "d8/d46/a28217.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
+    [ "HandleEffect", "d8/d46/a28217.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
+    [ "PrepareSpellScript", "d8/d46/a28217.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
+    [ "Register", "d8/d46/a28217.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
+    [ "Validate", "d8/d46/a28217.html#aabc063155fad404ffd044c9f79b88051", null ]
 ];

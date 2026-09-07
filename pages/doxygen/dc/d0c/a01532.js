@@ -1,10 +1,12 @@
 var a01532 =
 [
-    [ "SplineHandler", "d9/d6a/a09103.html", "d9/d6a/a09103" ],
-    [ "spellIdImmunityPredicate", "de/dda/a09107.html", "de/dda/a09107" ],
-    [ "AuraMunchingQueue", "da/dac/a09111.html", "da/dac/a09111" ],
-    [ "ApplyPercentModFloatVar", "dc/d0c/a01532.html#adcb1f2b25980bd4c71cb160030213f96", null ],
-    [ "createProcFlags", "dc/d0c/a01532.html#a7d920511c20f084098c0f68a75006159", null ],
-    [ "baseMoveSpeed", "dc/d0c/a01532.html#a2ede1cce0416c74db2d4599bab36eb57", null ],
-    [ "playerBaseMoveSpeed", "dc/d0c/a01532.html#afef08589b9944f10d66bdc1de74d0270", null ]
+    [ "Elapsed", "dc/d0c/a01532.html#af9a7dcb5dfa331445f56900767b13e8b", null ],
+    [ "GetGameTime", "dc/d0c/a01532.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
+    [ "GetGameTimeMS", "dc/d0c/a01532.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
+    [ "GetStartTime", "dc/d0c/a01532.html#a872d34d3f9d420cfc749073c809931f9", null ],
+    [ "GetSystemTime", "dc/d0c/a01532.html#a443eccf314fe436192278d425d6d8220", null ],
+    [ "GetUptime", "dc/d0c/a01532.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
+    [ "HasElapsed", "dc/d0c/a01532.html#a6acb8998bc9dae720531cb39082262f2", null ],
+    [ "Now", "dc/d0c/a01532.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
+    [ "UpdateGameTimers", "dc/d0c/a01532.html#a45712735241c9563a12fc3da54fb144d", null ]
 ];

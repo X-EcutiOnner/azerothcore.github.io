@@ -1,6 +1,6 @@
 var a17205 =
 [
-    [ "PrepareSpellScript", "d2/d8d/a17205.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "d2/d8d/a17205.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "d2/d8d/a17205.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "boss_tharon_jaAI", "d0/da9/a17209.html", "d0/da9/a17209" ],
+    [ "boss_tharon_ja", "d2/d8d/a17205.html#ac34f8f33ea75dc0107222d3720788f7a", null ],
+    [ "GetAI", "d2/d8d/a17205.html#ab24612418cb66ed0c1e64fba5ebaa50f", null ]
 ];

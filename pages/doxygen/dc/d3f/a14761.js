@@ -1,11 +1,6 @@
 var a14761 =
 [
-    [ "npc_high_oracle_soo_roo", "dc/d3f/a14761.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
-    [ "MoveInLineOfSight", "dc/d3f/a14761.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
-    [ "Reset", "dc/d3f/a14761.html#a89a60a83a46e0095045b2353e50483ed", null ],
-    [ "UpdateAI", "dc/d3f/a14761.html#ac22cfa519e478da643a51ae887f306fd", null ],
-    [ "orphanGUID", "dc/d3f/a14761.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
-    [ "phase", "dc/d3f/a14761.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
-    [ "playerGUID", "dc/d3f/a14761.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
-    [ "timer", "dc/d3f/a14761.html#aa5238d3ee361374681947de874391a1f", null ]
+    [ "CheckItem", "dc/d3f/a14761.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
+    [ "PrepareSpellScript", "dc/d3f/a14761.html#a0fa160f1218cf838444f894716cb8aed", null ],
+    [ "Register", "dc/d3f/a14761.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
 ];

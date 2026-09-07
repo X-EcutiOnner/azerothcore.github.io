@@ -1,7 +1,6 @@
 var a17769 =
 [
-    [ "OnProc", "dc/d35/a17769.html#a5b6e96abb900da33657cdbbd137138e3", null ],
-    [ "PrepareAuraScript", "dc/d35/a17769.html#a5502476536a923e77af67c4bbcf005e3", null ],
-    [ "Register", "dc/d35/a17769.html#aca08edf219504156d6157c95702bb815", null ],
-    [ "Validate", "dc/d35/a17769.html#a52b1231f37e8b3d810614365659a98b6", null ]
+    [ "HandleStackDrop", "dc/d35/a17769.html#a5c1064d764a6bfa4b3fde8bf57316e44", null ],
+    [ "PrepareAuraScript", "dc/d35/a17769.html#a294db521fc56c4fe5e50317fedd8a86d", null ],
+    [ "Register", "dc/d35/a17769.html#a45b1fd2c1896023d71a0916100376e57", null ]
 ];

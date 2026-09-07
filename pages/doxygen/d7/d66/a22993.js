@@ -1,6 +1,6 @@
 var a22993 =
 [
-    [ "HandleScriptEffect", "d7/d66/a22993.html#a62ed9bff154c5aab74e044f8f9982263", null ],
-    [ "PrepareSpellScript", "d7/d66/a22993.html#a0e87265cf22ef8b4e302b8e216123395", null ],
-    [ "Register", "d7/d66/a22993.html#a0d722447d91991462245e8b392d20e10", null ]
+    [ "boss_essence_of_sufferingAI", "dc/d75/a22997.html", "dc/d75/a22997" ],
+    [ "boss_essence_of_suffering", "d7/d66/a22993.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "d7/d66/a22993.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

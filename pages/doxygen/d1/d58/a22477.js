@@ -1,10 +1,7 @@
 var a22477 =
 [
-    [ "boss_talon_king_ikiss", "d1/d58/a22477.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
-    [ "JustDied", "d1/d58/a22477.html#ada1d993842d04453d6afad91e186a3fe", null ],
-    [ "JustEngagedWith", "d1/d58/a22477.html#a325312ce6695435fcca701720434c64f", null ],
-    [ "KilledUnit", "d1/d58/a22477.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
-    [ "MoveInLineOfSight", "d1/d58/a22477.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
-    [ "Reset", "d1/d58/a22477.html#adcb1dca375ec548499da5a7690babc21", null ],
-    [ "_spoken", "d1/d58/a22477.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
+    [ "npc_wg_siege_machineAI", "d1/d58/a22477.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "d1/d58/a22477.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "d1/d58/a22477.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "d1/d58/a22477.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

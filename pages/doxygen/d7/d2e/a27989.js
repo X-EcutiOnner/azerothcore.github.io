@@ -1,6 +1,6 @@
 var a27989 =
 [
-    [ "go_heatAI", "d8/dcb/a27993.html", "d8/dcb/a27993" ],
-    [ "go_heat", "d7/d2e/a27989.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
-    [ "GetAI", "d7/d2e/a27989.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
+    [ "HandleEffectCalcSpellMod", "d7/d2e/a27989.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "d7/d2e/a27989.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "d7/d2e/a27989.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

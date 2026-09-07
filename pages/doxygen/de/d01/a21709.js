@@ -1,8 +1,8 @@
 var a21709 =
 [
-    [ "AfterApply", "de/d01/a21709.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "de/d01/a21709.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "de/d01/a21709.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "de/d01/a21709.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "de/d01/a21709.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "npc_dusk", "de/d01/a21709.html#ab142eb266e64af625a8a38d3234ded72", null ],
+    [ "MovementInform", "de/d01/a21709.html#a49cade56e631668c946edb6753172c87", null ],
+    [ "PassengerBoarded", "de/d01/a21709.html#aaff19f52995db17f4dab953e2e928c68", null ],
+    [ "WaypointReached", "de/d01/a21709.html#ac8f70426313aa6834285905e94f1d0d9", null ],
+    [ "_ejected", "de/d01/a21709.html#a4f749f98c178a32b211bbd38b9447607", null ]
 ];

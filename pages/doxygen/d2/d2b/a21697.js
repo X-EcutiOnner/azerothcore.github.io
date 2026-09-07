@@ -1,7 +1,7 @@
 var a21697 =
 [
-    [ "HandleDummy", "d2/d2b/a21697.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
-    [ "PrepareSpellScript", "d2/d2b/a21697.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
-    [ "Register", "d2/d2b/a21697.html#a45f80e0436f93a597deb4653852df6a1", null ],
-    [ "Validate", "d2/d2b/a21697.html#ad13fdade1fb7455485bfd68687de53c5", null ]
+    [ "HandleEffectHit", "d2/d2b/a21697.html#a8d7dd2411c3b786e682260eb30862602", null ],
+    [ "PrepareSpellScript", "d2/d2b/a21697.html#a49b6d005013e480f8161779119bc9b2d", null ],
+    [ "Register", "d2/d2b/a21697.html#a017ae25fead98a5c18cdb83128085ddd", null ],
+    [ "Validate", "d2/d2b/a21697.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
 ];

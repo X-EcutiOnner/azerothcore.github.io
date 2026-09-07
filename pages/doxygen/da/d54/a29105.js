@@ -1,8 +1,6 @@
 var a29105 =
 [
-    [ "ClassMask", "da/d54/a29105.html#a563ba1618ffefa5470696e37f65c70d4", null ],
-    [ "Flags", "da/d54/a29105.html#af89c32a22f018557fe016e0784a82384", null ],
-    [ "RaceMask", "da/d54/a29105.html#acff47bf5c075d669f95b0d229674f9bc", null ],
-    [ "SkillID", "da/d54/a29105.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
-    [ "SkillTierID", "da/d54/a29105.html#ab6153043461b71336e12b00957499075", null ]
+    [ "AreaGroupId", "da/d54/a29105.html#a2868a59574e635d5f5859cfa01811151", null ],
+    [ "AreaId", "da/d54/a29105.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
+    [ "nextGroup", "da/d54/a29105.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
 ];

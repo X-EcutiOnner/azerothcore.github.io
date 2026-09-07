@@ -1,7 +1,7 @@
 var a05429 =
 [
-    [ "operator()", "d8/d5e/a05429.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
-    [ "closestEntity", "d8/d5e/a05429.html#ab377424b7edd0274f61967619700f841", null ],
-    [ "hitLocation", "d8/d5e/a05429.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
-    [ "hitNormal", "d8/d5e/a05429.html#a57f40f48c26829f7da9e48efd839d773", null ]
+    [ "WModelAreaCallback", "d8/d5e/a05429.html#aef7e8c21f6be4d6889faddda6b3be326", null ],
+    [ "operator()", "d8/d5e/a05429.html#a8024f924c258932c874c0ac3539d2755", null ],
+    [ "hit", "d8/d5e/a05429.html#a92b907262a6e2fa630148580da43c612", null ],
+    [ "prims", "d8/d5e/a05429.html#abe509366e68fff92e07c1aacb90da04f", null ]
 ];

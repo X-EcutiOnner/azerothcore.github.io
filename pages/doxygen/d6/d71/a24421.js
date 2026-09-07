@@ -1,8 +1,8 @@
 var a24421 =
 [
-    [ "HandleEffectApply", "d6/d71/a24421.html#a88e98bcb11fb16696f789878f79c665c", null ],
-    [ "HandleEffectRemove", "d6/d71/a24421.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2", null ],
-    [ "PrepareAuraScript", "d6/d71/a24421.html#a64f9e0f3d0376342767b912e32642c6c", null ],
-    [ "Register", "d6/d71/a24421.html#a72d6639589588282ea15cfe83c9e9b76", null ],
-    [ "Validate", "d6/d71/a24421.html#ac936c92c3a24fba95505243cd3e79c21", null ]
+    [ "npc_pet_dk_ghoul", "d6/d71/a24421.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
+    [ "IsSummonedBy", "d6/d71/a24421.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
+    [ "JustDied", "d6/d71/a24421.html#a6095e3619b470283b9875b90e2805b54", null ],
+    [ "UpdateAI", "d6/d71/a24421.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
+    [ "_summonTargetGUID", "d6/d71/a24421.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
 ];

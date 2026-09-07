@@ -1,7 +1,6 @@
 var a17133 =
 [
-    [ "HandleScript", "d5/db5/a17133.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
-    [ "PrepareSpellScript", "d5/db5/a17133.html#a71b28156c628aacbc6cb481038c0e76c", null ],
-    [ "Register", "d5/db5/a17133.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
-    [ "Validate", "d5/db5/a17133.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
+    [ "npc_concentrated_ballAI", "db/d60/a17137.html", "db/d60/a17137" ],
+    [ "npc_concentrated_ball", "d5/db5/a17133.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
+    [ "GetAI", "d5/db5/a17133.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
 ];

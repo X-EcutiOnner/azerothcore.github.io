@@ -1,18 +1,11 @@
 var a21045 =
 [
-    [ "boss_palehoofAI", "d7/d87/a21045.html#aa49a4e6e2f942ab0efeb83d0fe672f9f", null ],
-    [ "DoAction", "d7/d87/a21045.html#ae94606f2b382e07cd3f4b9be48b1ca2d", null ],
-    [ "JustDied", "d7/d87/a21045.html#a1484b82afc3072d1b1fc5e2c9b0204b0", null ],
-    [ "JustEngagedWith", "d7/d87/a21045.html#abd00a0b514c11d8fa3786e1e61333138", null ],
-    [ "JustReachedHome", "d7/d87/a21045.html#aae6517c4816eb9bbc5dfe245d69edd87", null ],
-    [ "KilledUnit", "d7/d87/a21045.html#abf68aba465731a0ea7de305861ad4875", null ],
-    [ "MoveInLineOfSight", "d7/d87/a21045.html#ae969093bfb3466e332c1de7e65ceeb5d", null ],
-    [ "Reset", "d7/d87/a21045.html#a61d1cedcc30fbccbebbdc768d6a18900", null ],
-    [ "UpdateAI", "d7/d87/a21045.html#ac7da92990a0d48e418115943ba7bdd51", null ],
-    [ "Counter", "d7/d87/a21045.html#a5b8c197cd3c482d5a4d5a14f9c5019e7", null ],
-    [ "events", "d7/d87/a21045.html#a18325a2a5cca9910bf7e35a21c16400b", null ],
-    [ "m_pInstance", "d7/d87/a21045.html#abffb9efc207c98a30e1bfcf7b87fdb6d", null ],
-    [ "OrbGUID", "d7/d87/a21045.html#ab75e8eea72bde1bd15fe40e347373ab4", null ],
-    [ "RandomUnfreeze", "d7/d87/a21045.html#a02d34d4cd26706e1108c99cc0b4afbba", null ],
-    [ "summons", "d7/d87/a21045.html#a098d738ccbc2764867643bf4336c04da", null ]
+    [ "boss_yoggsaron_neltharion", "d7/d87/a21045.html#ac7ef088876e15e5edc94e4bd92b7f39d", null ],
+    [ "NextStep", "d7/d87/a21045.html#ac0824d322b7e5825686e8a5c2dd4ec94", null ],
+    [ "Reset", "d7/d87/a21045.html#ab26d57690c1d2477678dc9759aefeab2", null ],
+    [ "Say", "d7/d87/a21045.html#a79d315f37b0f0beceddcae85dcb8697f", null ],
+    [ "UpdateAI", "d7/d87/a21045.html#a3728f095ee83c3ea9063b1679f1b3dc9", null ],
+    [ "_checkTimer", "d7/d87/a21045.html#a2adcf3f46d4003ae2044eda474e51983", null ],
+    [ "_running", "d7/d87/a21045.html#acd807afae6aa88c2e385765231a56a86", null ],
+    [ "_step", "d7/d87/a21045.html#a4e4265f17cbc8cfc3dbe09dca7af7939", null ]
 ];

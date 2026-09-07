@@ -1,7 +1,6 @@
 var a28357 =
 [
-    [ "npc_steam_tonkAI", "de/dd3/a28357.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "de/dd3/a28357.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "de/dd3/a28357.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "de/dd3/a28357.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "go_bashir_crystalforge", "de/dd3/a28357.html#a8b68a63933e14d82198580912fddc280", null ],
+    [ "OnGossipHello", "de/dd3/a28357.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
+    [ "OnGossipSelect", "de/dd3/a28357.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
 ];

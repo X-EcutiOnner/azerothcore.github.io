@@ -1,7 +1,20 @@
 var a20993 =
 [
-    [ "npc_frost_tomb", "d9/db8/a20993.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "d9/db8/a20993.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "d9/db8/a20993.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "d9/db8/a20993.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "boss_yoggsaron", "d9/db8/a20993.html#a28abd29c2f570dd5f6f56289a6cc5e9e", null ],
+    [ "AttackStart", "d9/db8/a20993.html#a8110dc78a8e60d25df6195107960365a", null ],
+    [ "DamageTaken", "d9/db8/a20993.html#a7b8ec3010f0137d8330c7062ffd35e86", null ],
+    [ "DoAction", "d9/db8/a20993.html#a647c5cf55081ec4d66ae75be5d471210", null ],
+    [ "GetData", "d9/db8/a20993.html#a68bb5622ddd9bd74f2eaefce3a0ac54f", null ],
+    [ "JustDied", "d9/db8/a20993.html#afa4914458cbcf03ae8e305b2d2c40131", null ],
+    [ "JustSummoned", "d9/db8/a20993.html#af641e349634bc2977fd2fe7b7edad310", null ],
+    [ "SetData", "d9/db8/a20993.html#a449d1e3b3e2bf883254b9714df4a3ac5", null ],
+    [ "SpellHit", "d9/db8/a20993.html#ab477975d288844051b22991649bdedd4", null ],
+    [ "SummonImmortalGuardian", "d9/db8/a20993.html#ad8ba569e58047dcfff8d764489f024ad", null ],
+    [ "UpdateAI", "d9/db8/a20993.html#a395114524b73f0176aa9ed331cc0683f", null ],
+    [ "_defeated", "d9/db8/a20993.html#a280278471444ecfaf6a24be36a097cbf", null ],
+    [ "_instance", "d9/db8/a20993.html#aa9878513823c8f3f71a5dd5b80ae20f4", null ],
+    [ "_thirdPhase", "d9/db8/a20993.html#a0d76e9ae977a2165d52413807897604e", null ],
+    [ "_usedInsane", "d9/db8/a20993.html#a28191094a0252d5af48f5b046013eb3e", null ],
+    [ "events", "d9/db8/a20993.html#ac27bba5841f4c50a01a8e2b434ee56cf", null ],
+    [ "summons", "d9/db8/a20993.html#a0a11e2b828a90ca1ba72d7c19804e654", null ]
 ];

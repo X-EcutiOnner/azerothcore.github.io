@@ -1,6 +1,6 @@
 var a21669 =
 [
-    [ "npc_q24545_vegard_dummyAI", "d5/df7/a21669.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
-    [ "UpdateAI", "d5/df7/a21669.html#aa31baac9ce3c4c951f93917b88390797", null ],
-    [ "done", "d5/df7/a21669.html#a0208fbae8e6c46d0671107530279c50c", null ]
+    [ "npc_hidden_cultistAI", "de/d2d/a21673.html", "de/d2d/a21673" ],
+    [ "npc_hidden_cultist", "d5/df7/a21669.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "d5/df7/a21669.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

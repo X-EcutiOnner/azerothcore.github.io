@@ -1,11 +1,6 @@
 var a07721 =
 [
-    [ "BattlegroundABScore", "dc/d48/a07721.html#ae219ecb551c89ad5a5cb22f1996a598b", null ],
-    [ "BuildObjectivesBlock", "dc/d48/a07721.html#a86ac6e9b19eaa7ed257f25f9f73c22cf", null ],
-    [ "GetAttr1", "dc/d48/a07721.html#af0f066f76f4d84e844946862ae819b4f", null ],
-    [ "GetAttr2", "dc/d48/a07721.html#a8ac00679dd8dfeef81f159b7a2b22027", null ],
-    [ "UpdateScore", "dc/d48/a07721.html#a43aaefd97c8880cbf70381282d81f7cf", null ],
-    [ "BattlegroundAB", "dc/d48/a07721.html#ad5365fcb2edd84180065badd1572ba8e", null ],
-    [ "BasesAssaulted", "dc/d48/a07721.html#a25643abf67d1ae2f8498951c11833994", null ],
-    [ "BasesDefended", "dc/d48/a07721.html#a450504481d335230b3e035d4337694be", null ]
+    [ "_Battlegrounds", "dc/d48/a07721.html#aa48f3a9d4a51e357055a0bc60ca41d7c", null ],
+    [ "_ClientBattlegroundIds", "dc/d48/a07721.html#a0526fab23b40ac1b33ce18243ad41132", null ],
+    [ "BGFreeSlotQueue", "dc/d48/a07721.html#a49fd7eb3a472894f233d309d35d509be", null ]
 ];

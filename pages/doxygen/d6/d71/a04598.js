@@ -1,12 +1,8 @@
 var a04598 =
 [
-    [ "ACScriptName", "d6/d71/a04598.html#a44e28f969fff2c33cf76b8eaaff1898c", null ],
-    [ "DataHeader", "d6/d71/a04598.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterAuchenaiCryptsCreatureAI", "d6/d71/a04598.html#abf97bec93b670890ad0eaa7d6b4bd4b9", null ],
-    [ "ACDataTypes", "d6/d71/a04598.html#aae3060cf5aa0b4d27bcbbfeee3db2856", [
-      [ "DATA_SHIRRAK_THE_DEAD_WATCHER", "d6/d71/a04598.html#aae3060cf5aa0b4d27bcbbfeee3db2856a5d80917a3a5f108f9e625372181b85fe", null ],
-      [ "DATA_EXARCH_MALADAAR", "d6/d71/a04598.html#aae3060cf5aa0b4d27bcbbfeee3db2856aa54edd3601b7953b0bf046fa8b1bd3f8", null ]
-    ] ],
-    [ "GetAuchenaiCryptsAI", "d6/d71/a04598.html#a8c9b9cbd7dca7c2e86d7ad3fe7bfd961", null ],
-    [ "EncounterCount", "d6/d71/a04598.html#a31d630c40753c29f94ceac2db5e451a8", null ]
+    [ "Acore::Impl::CryptoGenericsImpl", "dc/d02/a05525.html", "dc/d02/a05525" ],
+    [ "AEDecrypt", "d6/d71/a04598.html#a1173a93d3f38af692d24411d34829de0", null ],
+    [ "AEDecrypt", "d6/d71/a04598.html#aeb3d22d5d1d2ceeb4a752b7dccc143b0", null ],
+    [ "AEEncryptWithRandomIV", "d6/d71/a04598.html#a0057c59e47839100792e392e2d73783a", null ],
+    [ "AEEncryptWithRandomIV", "d6/d71/a04598.html#a42045f5644391c1c876f0ae1bc180f7c", null ]
 ];

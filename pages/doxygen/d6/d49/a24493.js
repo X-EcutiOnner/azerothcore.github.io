@@ -1,8 +1,8 @@
 var a24493 =
 [
-    [ "CheckProc", "d6/d49/a24493.html#a1b2746e9013ecfbbc112d74a9229719f", null ],
-    [ "HandleProc", "d6/d49/a24493.html#ad100e3d9794da0fac5802e9d059609a8", null ],
-    [ "PrepareAuraScript", "d6/d49/a24493.html#a3867a6c8278dc85b3a429652a7b5e81c", null ],
-    [ "Register", "d6/d49/a24493.html#ab38f961abbef4271df4ddce139d890df", null ],
-    [ "Validate", "d6/d49/a24493.html#ac5020d66d7fca6246a4ccbbf5c681fee", null ]
+    [ "npc_pet_darting_hatchling", "d6/d49/a24493.html#a7ae5973061068396bf382dc21e88cd44", null ],
+    [ "SpellHit", "d6/d49/a24493.html#a29ea5438bab7e606175c02165a607f9b", null ],
+    [ "UpdateAI", "d6/d49/a24493.html#a23196d05aebe5fa4a65455c55368820a", null ],
+    [ "checkTimer", "d6/d49/a24493.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
+    [ "goFast", "d6/d49/a24493.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
 ];

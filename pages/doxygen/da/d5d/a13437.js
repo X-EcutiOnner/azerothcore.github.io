@@ -1,6 +1,6 @@
 var a13437 =
 [
-    [ "HandleScriptEffect", "da/d5d/a13437.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
-    [ "PrepareSpellScript", "da/d5d/a13437.html#ad110e0dba330acde845c47501256cf5d", null ],
-    [ "Register", "da/d5d/a13437.html#ab6971aa466055a1280cd258e26645157", null ]
+    [ "HandleAfterCast", "da/d5d/a13437.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
+    [ "PrepareSpellScript", "da/d5d/a13437.html#aa0956db2d03405a54893bc30516f5839", null ],
+    [ "Register", "da/d5d/a13437.html#a45726adacf1d30b5488df54f57447c0c", null ]
 ];

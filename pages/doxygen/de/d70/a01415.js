@@ -1,22 +1,21 @@
 var a01415 =
 [
-    [ "AISpellInfoType", "d8/dd8/a06575.html", "d8/dd8/a06575" ],
-    [ "AI_DEFAULT_COOLDOWN", "de/d70/a01415.html#a41c947edd84b4f2bb45133dc7aa00cad", null ],
-    [ "AICondition", "de/d70/a01415.html#ac43b18581ae7a7b66984b1003502d5af", [
-      [ "AICOND_AGGRO", "de/d70/a01415.html#ac43b18581ae7a7b66984b1003502d5afac41d9d90387a55a0b5be34e13683f9c8", null ],
-      [ "AICOND_COMBAT", "de/d70/a01415.html#ac43b18581ae7a7b66984b1003502d5afa6be0faa08bd4f7bb7891ce5e2b7e4642", null ],
-      [ "AICOND_DIE", "de/d70/a01415.html#ac43b18581ae7a7b66984b1003502d5afaeda5ad2d2df79acf7c72e4785011cf6e", null ]
+    [ "CleaningFlags", "de/d70/a01415.html#ad8ba5c50a4cd2d5193e35ccc83798c67", [
+      [ "CLEANING_FLAG_ACHIEVEMENT_PROGRESS", "de/d70/a01415.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748", null ],
+      [ "CLEANING_FLAG_SKILLS", "de/d70/a01415.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714", null ],
+      [ "CLEANING_FLAG_SPELLS", "de/d70/a01415.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564", null ],
+      [ "CLEANING_FLAG_TALENTS", "de/d70/a01415.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550", null ],
+      [ "CLEANING_FLAG_QUESTSTATUS", "de/d70/a01415.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
     ] ],
-    [ "AITarget", "de/d70/a01415.html#a0160eb61118b5e41325297a2e1691805", [
-      [ "AITARGET_SELF", "de/d70/a01415.html#a0160eb61118b5e41325297a2e1691805a4b428b5bdc3edc7ea5f9ca4c9780e7f2", null ],
-      [ "AITARGET_VICTIM", "de/d70/a01415.html#a0160eb61118b5e41325297a2e1691805a7a53e2d219f908fcf583c5c00d5d9452", null ],
-      [ "AITARGET_ENEMY", "de/d70/a01415.html#a0160eb61118b5e41325297a2e1691805a96629d4be8c89fe161fecd4a8fc34439", null ],
-      [ "AITARGET_ALLY", "de/d70/a01415.html#a0160eb61118b5e41325297a2e1691805a0a4905e11672a2854778c1c2c8221b56", null ],
-      [ "AITARGET_BUFF", "de/d70/a01415.html#a0160eb61118b5e41325297a2e1691805a1dedb7d4847bb64f81a7760ce25670ed", null ],
-      [ "AITARGET_DEBUFF", "de/d70/a01415.html#a0160eb61118b5e41325297a2e1691805aad9b55cf2a0d16b9eb1620544f0e3654", null ]
-    ] ],
-    [ "GetAISpellInfo", "de/d70/a01415.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
-    [ "GetInstanceAI", "de/d70/a01415.html#a6650ccba23715eea545340cd3e712233", null ],
-    [ "InstanceHasScript", "de/d70/a01415.html#aad76768c8aee9ce3ac24657437adb0de", null ],
-    [ "RAND", "de/d70/a01415.html#a95d9a0c5ba0d54645670ba51c16ed33c", null ]
+    [ "AchievementProgressCheck", "de/d70/a01415.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
+    [ "CheckUnique", "de/d70/a01415.html#a4bdf9f5cb65f0bc9c5227d484cd5446f", null ],
+    [ "CleanCharacterAchievementProgress", "de/d70/a01415.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
+    [ "CleanCharacterQuestStatus", "de/d70/a01415.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
+    [ "CleanCharacterSkills", "de/d70/a01415.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],
+    [ "CleanCharacterSpell", "de/d70/a01415.html#aca5826d283031348e5d6ae6eb75ad605", null ],
+    [ "CleanCharacterTalent", "de/d70/a01415.html#a344f61fb209b507b775a0bbfb1315fac", null ],
+    [ "CleanDatabase", "de/d70/a01415.html#a357c8a07f912c6efb55a13cc9bc089b9", null ],
+    [ "SkillCheck", "de/d70/a01415.html#a0f72cf24646d1ece0eb793890840992d", null ],
+    [ "SpellCheck", "de/d70/a01415.html#a02688f57778d28a7bcc4ca6cee2074ad", null ],
+    [ "TalentCheck", "de/d70/a01415.html#aac707369555aa95807c11b1578ae80d2", null ]
 ];

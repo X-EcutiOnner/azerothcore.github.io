@@ -1,5 +1,9 @@
 var a10925 =
 [
-    [ "LogoutRequest", "d5/d93/a10925.html#ab92b0a8a5d3d076adbd465fcf24b7975", null ],
-    [ "Read", "d5/d93/a10925.html#a84701a16603f8b0f1e8dda1020ec1161", null ]
+    [ "fX", "d5/d93/a10925.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
+    [ "fY", "d5/d93/a10925.html#a9b158e247014eec0d35e465ab9469ac7", null ],
+    [ "fZ", "d5/d93/a10925.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
+    [ "uiCreatureEntry", "d5/d93/a10925.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
+    [ "uiPointId", "d5/d93/a10925.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
+    [ "uiWaitTime", "d5/d93/a10925.html#a305620aad71152c1139a88dea05a1887", null ]
 ];

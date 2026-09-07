@@ -1,6 +1,6 @@
 var a21977 =
 [
-    [ "PrepareSpellScript", "da/d85/a21977.html#aa26d34552b04dca1db32390e769ff4dc", null ],
-    [ "RecalculateDamage", "da/d85/a21977.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
-    [ "Register", "da/d85/a21977.html#a58d28dea272b1237cf60efb45d67765d", null ]
+    [ "npc_mrfloppyAI", "da/dc9/a21981.html", "da/dc9/a21981" ],
+    [ "npc_mrfloppy", "da/d85/a21977.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "da/d85/a21977.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

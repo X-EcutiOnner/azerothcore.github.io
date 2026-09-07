@@ -1,7 +1,7 @@
 var a18709 =
 [
-    [ "PrepareSpellScript", "d7/d36/a18709.html#a3283e829757b50bb52f66ee1e64033ae", null ],
-    [ "Register", "d7/d36/a18709.html#a0162c92c32210f2873686610f4f00b87", null ],
-    [ "TriggerHeal", "d7/d36/a18709.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
-    [ "Validate", "d7/d36/a18709.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
+    [ "OnRemove", "d7/d36/a18709.html#a106935d92ef6ba7909c57264e26b5522", null ],
+    [ "PrepareAuraScript", "d7/d36/a18709.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
+    [ "Register", "d7/d36/a18709.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
+    [ "Validate", "d7/d36/a18709.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
 ];

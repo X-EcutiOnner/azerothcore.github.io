@@ -1,8 +1,9 @@
 var a27245 =
 [
-    [ "ApplyDebuff", "d8/d78/a27245.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
-    [ "PrepareSpellScript", "d8/d78/a27245.html#aa37525d089348f58e3d871830caa3417", null ],
-    [ "Register", "d8/d78/a27245.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
-    [ "RemoveInvalidTargets", "d8/d78/a27245.html#a0451b75aa962065a01a5806992e01b16", null ],
-    [ "Validate", "d8/d78/a27245.html#ac69d777fdf7a2d3c527621dee256690c", null ]
+    [ "CheckCast", "d8/d78/a27245.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
+    [ "HandleActiveObject", "d8/d78/a27245.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
+    [ "HandleDummy", "d8/d78/a27245.html#a39dd06ae92d04060ee41897318a701fd", null ],
+    [ "Load", "d8/d78/a27245.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
+    [ "PrepareSpellScript", "d8/d78/a27245.html#a016e480d7b2267c9bf824c9cb029f134", null ],
+    [ "Register", "d8/d78/a27245.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
 ];

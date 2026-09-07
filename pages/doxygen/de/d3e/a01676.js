@@ -1,8 +1,9 @@
 var a01676 =
 [
-    [ "StoredLootItem", "d1/dd1/a10103.html", "d1/dd1/a10103" ],
-    [ "LootItemStorage", "d0/d6b/a10107.html", "d0/d6b/a10107" ],
-    [ "sLootItemStorage", "de/d3e/a01676.html#a06515a8a4bd76cd02aa0ab99d3d7c64e", null ],
-    [ "LootItemContainer", "de/d3e/a01676.html#a06cc23df363d1d767959d7ab5ec29ad5", null ],
-    [ "StoredLootItemList", "de/d3e/a01676.html#aa16defe92374d7db2d28958ee8fce21d", null ]
+    [ "PetSpell", "d4/dbd/a08901.html", "d4/dbd/a08901" ],
+    [ "Pet", "d6/d2d/a08905.html", "d6/d2d/a08905" ],
+    [ "AutoSpellList", "de/d3e/a01676.html#a85baf40bd776b1c20b66ba7ad78e0356", null ],
+    [ "PetSpellMap", "de/d3e/a01676.html#a5b33058abef8c309621a9029df331c0e", null ],
+    [ "HAPPINESS_LEVEL_SIZE", "de/d3e/a01676.html#a892e58d225a828ccac38c7d241365e30", null ],
+    [ "PET_LOSE_HAPPINES_INTERVAL", "de/d3e/a01676.html#aa23de8f28ae915637ac3f4f6429b59fb", null ]
 ];

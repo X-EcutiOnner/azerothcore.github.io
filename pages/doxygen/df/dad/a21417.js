@@ -1,8 +1,7 @@
 var a21417 =
 [
-    [ "npc_mootoo_the_youngerAI", "df/dad/a21417.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "df/dad/a21417.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "df/dad/a21417.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "df/dad/a21417.html#ac758a992ed0d62a272930c84d617b348", null ],
-    [ "WaypointReached", "df/dad/a21417.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "HandleScript", "df/dad/a21417.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "df/dad/a21417.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "df/dad/a21417.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "df/dad/a21417.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

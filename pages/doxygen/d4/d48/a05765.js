@@ -1,13 +1,18 @@
 var a05765 =
 [
-    [ "Node", "dc/dd8/a05769.html", "dc/dd8/a05769" ],
-    [ "StringType", "d4/d48/a05765.html#a190468425cf4a0621df5dc11462a005d", null ],
-    [ "StringViewType", "d4/d48/a05765.html#a3bffdd73d3b80a5709bab0c14d510b76", null ],
-    [ "AhoCorasick", "d4/d48/a05765.html#a4dc282eb219843ea3ec64802a0a99397", null ],
-    [ "Build", "d4/d48/a05765.html#acadbe68a1fac7c78d834e3e41e90c03c", null ],
-    [ "Clear", "d4/d48/a05765.html#a2a1f1025a714e141f17031bdcc5014ab", null ],
-    [ "ContainsAny", "d4/d48/a05765.html#adc4ef2a2b7484c5f7423c5227391166d", null ],
-    [ "Empty", "d4/d48/a05765.html#a776d8978db1f9fe958bd271d51ad7cf6", null ],
-    [ "Insert", "d4/d48/a05765.html#a1a08a72b3dcb19b69dff27f570352249", null ],
-    [ "_nodes", "d4/d48/a05765.html#a8454549daa1da98e8e0579acac2f4915", null ]
+    [ "ProducerConsumerQueue", "d4/d48/a05765.html#a79b3575e4e25204841ad6b2ca43b0b38", null ],
+    [ "Cancel", "d4/d48/a05765.html#a7e9de516e77945411ad4f8bfa161489d", null ],
+    [ "DeleteQueuedObject", "d4/d48/a05765.html#af375e232b14a288b4e514f4e1e726f06", null ],
+    [ "DeleteQueuedObject", "d4/d48/a05765.html#a10e893856377f7f7a4be62c224a2aef3", null ],
+    [ "Empty", "d4/d48/a05765.html#a1ad8d5d17442d0148b2d8d99e8c798b4", null ],
+    [ "Pop", "d4/d48/a05765.html#afe8119f67dd7d95bbcd749d7ac9404d4", null ],
+    [ "Push", "d4/d48/a05765.html#ac7598291c31b28aaf95408ffe017c85a", null ],
+    [ "Shutdown", "d4/d48/a05765.html#aff2060f9ae351caf2da543a5379911ca", null ],
+    [ "Size", "d4/d48/a05765.html#adeefabd0da1df47a9ef3ec2fc6a78b80", null ],
+    [ "WaitAndPop", "d4/d48/a05765.html#a172ef4211bcb237478ec57531c8dcc4d", null ],
+    [ "_cancel", "d4/d48/a05765.html#a54223137936cfa679327d01313adfa01", null ],
+    [ "_condition", "d4/d48/a05765.html#ace83931f4236e97f32c58067b05d35e9", null ],
+    [ "_queue", "d4/d48/a05765.html#a5fc3a20c094041e2da999c4b37d735f0", null ],
+    [ "_queueLock", "d4/d48/a05765.html#a18c7223e356b338f9ddbc17eadc6a21e", null ],
+    [ "_shutdown", "d4/d48/a05765.html#a994ad012dfe4e9cd4d76d8eb9270f0d2", null ]
 ];

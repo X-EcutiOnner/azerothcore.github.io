@@ -1,6 +1,6 @@
 var a20933 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "d9/df5/a20933.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "d9/df5/a20933.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "d9/df5/a20933.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "HandleScript", "d9/df5/a20933.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
+    [ "PrepareSpellScript", "d9/df5/a20933.html#a4fd05478a145157dbd8377532033ab95", null ],
+    [ "Register", "d9/df5/a20933.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
 ];

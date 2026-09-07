@@ -1,7 +1,7 @@
 var a11609 =
 [
-    [ "UpdateWorldState", "dd/de8/a11609.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
-    [ "Write", "dd/de8/a11609.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
-    [ "Value", "dd/de8/a11609.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
-    [ "VariableID", "dd/de8/a11609.html#aa73278b324822f509f48e6edcdaed457", null ]
+    [ "QuestGiverQuestFailed", "dd/de8/a11609.html#aec524e18a6a0fb666061bd08b17ff9cb", null ],
+    [ "Write", "dd/de8/a11609.html#a97d19e4fe5ccc50afaf91d58321d31ec", null ],
+    [ "FailureReason", "dd/de8/a11609.html#a5c4d887fd352e97c10a52bb095d8e33d", null ],
+    [ "QuestId", "dd/de8/a11609.html#a1c09d090cd3b7fc73becca4f523141f6", null ]
 ];

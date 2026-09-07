@@ -1,19 +1,14 @@
 var a00755 =
 [
-    [ "SpellProcChargeTest", "d2/d6f/a30007.html", "d2/d6f/a30007" ],
-    [ "TEST_F", "d2/ddd/a00755.html#af6b7ce5004d831afafdd960e76b497b9", null ],
-    [ "TEST_F", "d2/ddd/a00755.html#a6aad9923e77ce2183a9bfd5884fe3912", null ],
-    [ "TEST_F", "d2/ddd/a00755.html#a7502979bd6cdb7d72f8c6ce5a3e67598", null ],
-    [ "TEST_F", "d2/ddd/a00755.html#af9b31ad83d3c0000b3862f4271c5a670", null ],
-    [ "TEST_F", "d2/ddd/a00755.html#a223a5cdf49fecfa7b4b80d2a0dcf1468", null ],
-    [ "TEST_F", "d2/ddd/a00755.html#add201c56e63c8e3d4b9541d4b0ad8d1f", null ],
-    [ "TEST_F", "d2/ddd/a00755.html#a746f7ab811ea4ea58f21d77180c752b3", null ],
-    [ "TEST_F", "d2/ddd/a00755.html#a8cddad3956dbe3afd8a23e969ba46d05", null ],
-    [ "TEST_F", "d2/ddd/a00755.html#a89db4a2cf2935011d4e98ff3385c25d8", null ],
-    [ "TEST_F", "d2/ddd/a00755.html#ab8fbc8d09d454845b486266a32ec0055", null ],
-    [ "TEST_F", "d2/ddd/a00755.html#a8ae02922feb6d525efc5203b349d36d8", null ],
-    [ "TEST_F", "d2/ddd/a00755.html#ac539918ba1c029cc1ea195c532da00ad", null ],
-    [ "TEST_F", "d2/ddd/a00755.html#afdc5df5f8196781ca55254eda1bd09d0", null ],
-    [ "TEST_F", "d2/ddd/a00755.html#a03704468e16a20474afaecd9dea9019f", null ],
-    [ "TEST_F", "d2/ddd/a00755.html#a1d7c412fdf87bebbdfa8133166237d6c", null ]
+    [ "AllMapScript", "de/db0/a10713.html", "de/db0/a10713" ],
+    [ "AllMapHook", "d2/ddd/a00755.html#a78db4e64fe232d8b547270090d8e3b92", [
+      [ "ALLMAPHOOK_ON_PLAYER_ENTER_ALL", "d2/ddd/a00755.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa", null ],
+      [ "ALLMAPHOOK_ON_PLAYER_LEAVE_ALL", "d2/ddd/a00755.html#a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae", null ],
+      [ "ALLMAPHOOK_ON_BEFORE_CREATE_INSTANCE_SCRIPT", "d2/ddd/a00755.html#a78db4e64fe232d8b547270090d8e3b92aaedb63ed509b91e62a54f71648956182", null ],
+      [ "ALLMAPHOOK_ON_DESTROY_INSTANCE", "d2/ddd/a00755.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0", null ],
+      [ "ALLMAPHOOK_ON_CREATE_MAP", "d2/ddd/a00755.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02", null ],
+      [ "ALLMAPHOOK_ON_DESTROY_MAP", "d2/ddd/a00755.html#a78db4e64fe232d8b547270090d8e3b92a2bd9320aa3f2418da854778f1dbbc3b5", null ],
+      [ "ALLMAPHOOK_ON_MAP_UPDATE", "d2/ddd/a00755.html#a78db4e64fe232d8b547270090d8e3b92a192adf70dc3f5a3873df8e56a2c3dcfb", null ],
+      [ "ALLMAPHOOK_END", "d2/ddd/a00755.html#a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95", null ]
+    ] ]
 ];

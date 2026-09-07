@@ -1,6 +1,10 @@
 var a29481 =
 [
-    [ "SetUp", "df/d01/a29481.html#a3b073d640ac36d1a7ca92db5bc96bfde", null ],
-    [ "TearDown", "df/d01/a29481.html#a558a475bde12e46cc17b6246bf2dc223", null ],
-    [ "rbacData", "df/d01/a29481.html#a75551f5a3e94383cbc31bc1af4dbf19a", null ]
+    [ "ID", "df/d01/a29481.html#a090069d13cbbcc5762ecca600c506492", null ],
+    [ "map_id", "df/d01/a29481.html#a685931e2a361f9e0fc81c004c7467d19", null ],
+    [ "MountCreatureID", "df/d01/a29481.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
+    [ "name", "df/d01/a29481.html#ae00db3ea736c3a470f6f0690c178e758", null ],
+    [ "x", "df/d01/a29481.html#a7cbd40848094fa367862d653b0f7170d", null ],
+    [ "y", "df/d01/a29481.html#a9380befd45cab3104003b2487464bd71", null ],
+    [ "z", "df/d01/a29481.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
 ];

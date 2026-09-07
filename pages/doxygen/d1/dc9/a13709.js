@@ -1,8 +1,11 @@
 var a13709 =
 [
-    [ "npc_madrigosa", "d1/dc9/a13709.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
-    [ "DoAction", "d1/dc9/a13709.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
-    [ "UpdateAI", "d1/dc9/a13709.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
-    [ "events", "d1/dc9/a13709.html#a5859e4c8454371eb71740616d4763c0e", null ],
-    [ "instance", "d1/dc9/a13709.html#a09525d3bb35d1da4246bd84bbadea304", null ]
+    [ "boss_alythess", "d1/dc9/a13709.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
+    [ "AttackStart", "d1/dc9/a13709.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
+    [ "DoAction", "d1/dc9/a13709.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
+    [ "JustDied", "d1/dc9/a13709.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
+    [ "JustEngagedWith", "d1/dc9/a13709.html#ac5047ee0124864304284c1142e885158", null ],
+    [ "KilledUnit", "d1/dc9/a13709.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
+    [ "Reset", "d1/dc9/a13709.html#ab5f990d305f42a2d00e182f617175672", null ],
+    [ "_isSisterDead", "d1/dc9/a13709.html#a9f9fa0823685066b4990a17880782b9a", null ]
 ];

@@ -1,6 +1,5 @@
 var a28457 =
 [
-    [ "npc_necropolis_relay", "d2/dd0/a28457.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "d2/dd0/a28457.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "d2/dd0/a28457.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "item_generic_limit_chance_above_60", "d2/dd0/a28457.html#abc18809810f0a7668020d01c482be84b", null ],
+    [ "OnCastItemCombatSpell", "d2/dd0/a28457.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
 ];

@@ -1,6 +1,6 @@
 var a17725 =
 [
-    [ "PrepareSpellScript", "d5/d36/a17725.html#a37899f12707930d038de38bae92c9aff", null ],
-    [ "Register", "d5/d36/a17725.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
-    [ "SelectDest", "d5/d36/a17725.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
+    [ "npc_dark_nucleusAI", "d0/dc5/a17729.html", "d0/dc5/a17729" ],
+    [ "npc_dark_nucleus", "d5/d36/a17725.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
+    [ "GetAI", "d5/d36/a17725.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
 ];

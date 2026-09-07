@@ -1,7 +1,6 @@
 var a20089 =
 [
-    [ "npc_auriaya_sanctum_sentry", "d1/d16/a20089.html#ae5ed159c476c8b4569de7e2730edf447", null ],
-    [ "JustEngagedWith", "d1/d16/a20089.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
-    [ "Reset", "d1/d16/a20089.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
-    [ "UpdateAI", "d1/d16/a20089.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
+    [ "CosmicSmashDamageEvent", "d1/d16/a20089.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "d1/d16/a20089.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "d1/d16/a20089.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

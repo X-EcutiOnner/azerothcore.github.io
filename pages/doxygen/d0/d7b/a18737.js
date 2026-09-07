@@ -1,12 +1,12 @@
 var a18737 =
 [
-    [ "npc_strangulate_vehicleAI", "d0/d7b/a18737.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
-    [ "DoAction", "d0/d7b/a18737.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
-    [ "IsHeroic", "d0/d7b/a18737.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
-    [ "IsSummonedBy", "d0/d7b/a18737.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
-    [ "OnCharmed", "d0/d7b/a18737.html#a40e5537897c452d35093920ddd3669b0", null ],
-    [ "PassengerBoarded", "d0/d7b/a18737.html#a819746e13af95fa964c6da3d765a7c21", null ],
-    [ "UpdateAI", "d0/d7b/a18737.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
-    [ "_events", "d0/d7b/a18737.html#a19b493e994d246128f63d9109e87737a", null ],
-    [ "_instance", "d0/d7b/a18737.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
+    [ "npc_raging_spiritAI", "d0/d7b/a18737.html#a1c85351ae62d5f45381214373e64aec4", null ],
+    [ "AttackStart", "d0/d7b/a18737.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
+    [ "CanAIAttack", "d0/d7b/a18737.html#a64fa46f05861d8736d881aa3687f4320", null ],
+    [ "IsSummonedBy", "d0/d7b/a18737.html#a836d605f4320ba9fd49cb60d6a1e032d", null ],
+    [ "JustDied", "d0/d7b/a18737.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
+    [ "Reset", "d0/d7b/a18737.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
+    [ "UpdateAI", "d0/d7b/a18737.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
+    [ "_events", "d0/d7b/a18737.html#af5783316983b622f20d8c677f2858111", null ],
+    [ "_instance", "d0/d7b/a18737.html#aaa9b5728fcdb379849434385b3501251", null ]
 ];

@@ -1,5 +1,6 @@
 var a20625 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "de/d96/a20625.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "de/d96/a20625.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "OnPeriodic", "de/d96/a20625.html#a8a12342f694499043e8ed4446fd92d36", null ],
+    [ "PrepareAuraScript", "de/d96/a20625.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
+    [ "Register", "de/d96/a20625.html#a381709d53101832de6b2161c4a33a0d4", null ]
 ];

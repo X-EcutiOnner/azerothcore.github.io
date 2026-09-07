@@ -1,9 +1,16 @@
 var a24265 =
 [
-    [ "npc_pet_shaman_earth_elemental", "d7/d5a/a24265.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "d7/d5a/a24265.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "d7/d5a/a24265.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "d7/d5a/a24265.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "d7/d5a/a24265.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "d7/d5a/a24265.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "npc_dragonmaw_peonAI", "d7/d5a/a24265.html#a6f1255fead5357001ec85fdaa6980249", null ],
+    [ "CreditPlayer", "d7/d5a/a24265.html#a5cf28e156cab2e2066bb94bc99233a2b", null ],
+    [ "JustEngagedWith", "d7/d5a/a24265.html#abd5b37793aa2fb150c808b7dc7270763", null ],
+    [ "MovementInform", "d7/d5a/a24265.html#a0ee4038f90d54c75c48b2448dacb5724", null ],
+    [ "Reset", "d7/d5a/a24265.html#a9d876ec76b51f743c71e67749c21d939", null ],
+    [ "SpellHit", "d7/d5a/a24265.html#abe5162608ba0acd7360a630562ff5935", null ],
+    [ "UpdateAI", "d7/d5a/a24265.html#a98a045606d9e689ef25a5068b81b1ebf", null ],
+    [ "events", "d7/d5a/a24265.html#a7d6fb37d1953630aa79f8665eca0db61", null ],
+    [ "PlayerGUID", "d7/d5a/a24265.html#ad6838d98e34a32cbed42c77cdf096070", null ],
+    [ "Tapped", "d7/d5a/a24265.html#ae393f8d3cb47f38a4c4314a262826d03", null ],
+    [ "x", "d7/d5a/a24265.html#acebbfa8da88d8d683ba5ea6463f6b5f7", null ],
+    [ "y", "d7/d5a/a24265.html#ae5a1d416c712803ec0b80ae7ccf29e2d", null ],
+    [ "z", "d7/d5a/a24265.html#a7722420716c030b5abe7b760199df14d", null ]
 ];

@@ -1,9 +1,8 @@
 var a20205 =
 [
-    [ "Absorb", "d5/d35/a20205.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "d5/d35/a20205.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "d5/d35/a20205.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "d5/d35/a20205.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "d5/d35/a20205.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "d5/d35/a20205.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "npc_auriaya_sanctum_sentry", "d5/d35/a20205.html#ae5ed159c476c8b4569de7e2730edf447", null ],
+    [ "JustDied", "d5/d35/a20205.html#a553aa98a00fd8999578d71911f231bb2", null ],
+    [ "JustEngagedWith", "d5/d35/a20205.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
+    [ "Reset", "d5/d35/a20205.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
+    [ "UpdateAI", "d5/d35/a20205.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
 ];

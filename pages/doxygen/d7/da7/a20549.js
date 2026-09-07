@@ -1,5 +1,5 @@
 var a20549 =
 [
-    [ "go_ulduar_do_not_push_this_button", "d7/da7/a20549.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "d7/da7/a20549.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "achievement_i_have_the_coolest_friends", "d7/da7/a20549.html#a87fd2d5702fe33ee8b09042c66897636", null ],
+    [ "OnCheck", "d7/da7/a20549.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
 ];

@@ -1,7 +1,9 @@
 var a01766 =
 [
-    [ "instance_obsidian_sanctum", "d6/dc0/a16453.html", "d6/dc0/a16453" ],
-    [ "instance_obsidian_sanctum::instance_obsidian_sanctum_InstanceMapScript", "d4/d19/a16457.html", "d4/d19/a16457" ],
-    [ "AddSC_instance_obsidian_sanctum", "d0/d79/a01766.html#ac4abea2a912b12612a4c884df63abe00", null ],
-    [ "creatureData", "d0/d79/a01766.html#a412286b689bd324fedd65ddd8dde8afb", null ]
+    [ "DynamicObject", "d7/d47/a08561.html", "d7/d47/a08561" ],
+    [ "DynamicObjectType", "d0/d79/a01766.html#aee85c2f840289bcf773609333ee91131", [
+      [ "DYNAMIC_OBJECT_PORTAL", "d0/d79/a01766.html#aee85c2f840289bcf773609333ee91131a241a99bd67606cb106b003bab51e3a5b", null ],
+      [ "DYNAMIC_OBJECT_AREA_SPELL", "d0/d79/a01766.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546", null ],
+      [ "DYNAMIC_OBJECT_FARSIGHT_FOCUS", "d0/d79/a01766.html#aee85c2f840289bcf773609333ee91131a59fbc7f63f5d2715fbc29110f393168d", null ]
+    ] ]
 ];

@@ -1,8 +1,22 @@
 var a12701 =
 [
-    [ "boss_halycon", "d2/d37/a12701.html#a8a88f0d26b4702fd1b4f015cc1366362", null ],
-    [ "JustDied", "d2/d37/a12701.html#a48bd1245ac5b76dac543a4389a8b37be", null ],
-    [ "JustEngagedWith", "d2/d37/a12701.html#a3f6ca689777e1aa43a214e8082897db1", null ],
-    [ "Reset", "d2/d37/a12701.html#a3b972bfcac3498c921978eab1d8fec4f", null ],
-    [ "UpdateAI", "d2/d37/a12701.html#acc375743131ce5643d04ae355b6d68b4", null ]
+    [ "npc_grimstone", "d2/d37/a12701.html#a03d41532eb767f0e09982ede11f0fb80", null ],
+    [ "HandleGameObject", "d2/d37/a12701.html#a66240c764417e9d5750e3dcce8167384", null ],
+    [ "JustSummoned", "d2/d37/a12701.html#aea0c13489f4f17008b44d054b9a1cf3a", null ],
+    [ "Reset", "d2/d37/a12701.html#a4d1bc515c8302157e61f8fd4ad17b701", null ],
+    [ "SpawnWave", "d2/d37/a12701.html#a85b795cfd49343d300cdd1b1f028e141", null ],
+    [ "SummonBoss", "d2/d37/a12701.html#a5129e8d6f753fa0dc2f387bce2a76c24", null ],
+    [ "SummonedCreatureDies", "d2/d37/a12701.html#a0a55b772ca85554507ed36ba620c14c4", null ],
+    [ "UpdateEscortAI", "d2/d37/a12701.html#a848b405425ef4bb3dc20a4ec4ea081af", null ],
+    [ "updateReset", "d2/d37/a12701.html#afe73a3b9a9e7c9e24ea5ba09c23c05fa", null ],
+    [ "WaypointReached", "d2/d37/a12701.html#a4d381cecdada9577012e2c7914b7c5f9", null ],
+    [ "WaypointReached", "d2/d37/a12701.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "BossSpawnId", "d2/d37/a12701.html#a145a7bbecf4e061f44355948367f33bc", null ],
+    [ "eventPhase", "d2/d37/a12701.html#a0cb794b7343a42cc55c1be563acd4e52", null ],
+    [ "eventTimer", "d2/d37/a12701.html#aa246b08433ad44365e2bfe47a9025001", null ],
+    [ "instance", "d2/d37/a12701.html#a119ff38285b880d33266a7340ff1fe53", null ],
+    [ "MobSpawnId", "d2/d37/a12701.html#a5a54226cc0ada2095dccf93b7a18bae3", null ],
+    [ "resetTimer", "d2/d37/a12701.html#a1995b112b7e0735d0ab2d367150f05d3", null ],
+    [ "summons", "d2/d37/a12701.html#a7ed3101f9d8e81d819a7d73581952508", null ],
+    [ "theldrenEvent", "d2/d37/a12701.html#a720b408aa7e1a033c7ff28e65a505eea", null ]
 ];

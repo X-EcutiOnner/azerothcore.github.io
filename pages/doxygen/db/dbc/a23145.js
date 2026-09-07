@@ -1,7 +1,6 @@
 var a23145 =
 [
-    [ "PeriodicTick", "db/dbc/a23145.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
-    [ "PrepareAuraScript", "db/dbc/a23145.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
-    [ "Register", "db/dbc/a23145.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
-    [ "Validate", "db/dbc/a23145.html#ade8d57db324f02734e1752f49976dc9d", null ]
+    [ "HandleEffectRemove", "db/dbc/a23145.html#a99f96034b5976615c38e13e5e55c61b6", null ],
+    [ "PrepareAuraScript", "db/dbc/a23145.html#a0515a72abd37df13606876021659b995", null ],
+    [ "Register", "db/dbc/a23145.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
 ];

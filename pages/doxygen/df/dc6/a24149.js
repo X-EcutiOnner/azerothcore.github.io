@@ -1,6 +1,7 @@
 var a24149 =
 [
-    [ "go_ancient_skull_pile", "df/dc6/a24149.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
-    [ "OnGossipHello", "df/dc6/a24149.html#afc258eaeb7586f0f539223c21f82ea63", null ],
-    [ "OnGossipSelect", "df/dc6/a24149.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
+    [ "npc_maghar_captiveAI", "d3/da8/a24153.html", "d3/da8/a24153" ],
+    [ "npc_maghar_captive", "df/dc6/a24149.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
+    [ "GetAI", "df/dc6/a24149.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
+    [ "OnQuestAccept", "df/dc6/a24149.html#a0cd3a423866b9b5449f8efc729b69c27", null ]
 ];

@@ -1,6 +1,12 @@
 var a15257 =
 [
-    [ "npc_cos_stratholme_citizienAI", "df/d16/a15261.html", "df/d16/a15261" ],
-    [ "npc_cos_stratholme_citizien", "d8/d76/a15257.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "d8/d76/a15257.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "boss_epochAI", "d8/d76/a15257.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
+    [ "JustDied", "d8/d76/a15257.html#a780aa5bc86c80aaeeffad441b2873121", null ],
+    [ "JustEngagedWith", "d8/d76/a15257.html#ae742dceac5979faebb58a133e9bd91f0", null ],
+    [ "KilledUnit", "d8/d76/a15257.html#af41946feab7b86d812f706bd7abbf1bd", null ],
+    [ "Reset", "d8/d76/a15257.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
+    [ "SpellHitTarget", "d8/d76/a15257.html#ab87dfcf635a65b02be29186d2990fef3", null ],
+    [ "UpdateAI", "d8/d76/a15257.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
+    [ "events", "d8/d76/a15257.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
+    [ "warps", "d8/d76/a15257.html#a478113af1ce565c729604c6039f55551", null ]
 ];

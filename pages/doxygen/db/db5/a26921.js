@@ -1,6 +1,8 @@
 var a26921 =
 [
-    [ "HandleDummy", "db/db5/a26921.html#a39c913c3e3225a9b27d17d4ceadd3c70", null ],
-    [ "PrepareSpellScript", "db/db5/a26921.html#a7936186af106ae3ddeec3bc9b39ff127", null ],
-    [ "Register", "db/db5/a26921.html#aa8ce1f0413e19d8f6d403b220fc6749c", null ]
+    [ "CheckProc", "db/db5/a26921.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
+    [ "HandleProc", "db/db5/a26921.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
+    [ "PrepareAuraScript", "db/db5/a26921.html#a876c1bda52c99c52249444414196b1d4", null ],
+    [ "Register", "db/db5/a26921.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
+    [ "Validate", "db/db5/a26921.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
 ];

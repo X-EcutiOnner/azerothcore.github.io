@@ -1,6 +1,10 @@
 var a15909 =
 [
-    [ "npc_troll_volunteerAI", "d4/d87/a15913.html", "d4/d87/a15913" ],
-    [ "npc_troll_volunteer", "d6/dad/a15909.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
-    [ "GetAI", "d6/dad/a15909.html#aba0208b0910ace75686941c462ecca56", null ]
+    [ "npc_murkdeepAI", "d6/dad/a15909.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
+    [ "JustEngagedWith", "d6/dad/a15909.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
+    [ "Reset", "d6/dad/a15909.html#aa89316a0fe4f99630a4a129aed305e24", null ],
+    [ "UpdateAI", "d6/dad/a15909.html#aeca85a1324791d18ac825401fb8a31e8", null ],
+    [ "events", "d6/dad/a15909.html#ae3d344829aeba22ef0c5947863720390", null ],
+    [ "phase", "d6/dad/a15909.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
+    [ "spawnTimer", "d6/dad/a15909.html#a6b139fb5cc0776103934f14be15c34d1", null ]
 ];

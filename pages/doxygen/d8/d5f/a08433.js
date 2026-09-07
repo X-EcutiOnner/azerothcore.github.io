@@ -1,11 +1,10 @@
 var a08433 =
 [
-    [ "AddItem", "d8/d5f/a08433.html#a46f6533323fd15632c3f9a8b96ef6f3f", null ],
-    [ "Clear", "d8/d5f/a08433.html#a70c7400c4bc60923fd538890774445de", null ],
-    [ "Empty", "d8/d5f/a08433.html#ab55fa73ab327294de2c5f6906fc1fbdb", null ],
-    [ "FindItemCostPair", "d8/d5f/a08433.html#a61dc4394afdd3a360559ffec1655c343", null ],
-    [ "GetItem", "d8/d5f/a08433.html#aa764da5b4647c84813e3aa6b46de7593", null ],
-    [ "GetItemCount", "d8/d5f/a08433.html#ae80634592ce705c77c5aa53960f89c24", null ],
-    [ "RemoveItem", "d8/d5f/a08433.html#a974925f2979910348a0af795893b310b", null ],
-    [ "m_items", "d8/d5f/a08433.html#aa16668e54fce8fffe8651644cdef4335", null ]
+    [ "CreatureModel", "d8/d5f/a08433.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
+    [ "CreatureModel", "d8/d5f/a08433.html#a02b05bf92c3341b90173b4aa998087ba", null ],
+    [ "CreatureDisplayID", "d8/d5f/a08433.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
+    [ "DefaultInvisibleModel", "d8/d5f/a08433.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
+    [ "DefaultVisibleModel", "d8/d5f/a08433.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
+    [ "DisplayScale", "d8/d5f/a08433.html#ad842b73233b84c451710767f5e58f10a", null ],
+    [ "Probability", "d8/d5f/a08433.html#a7736d6480dca65a68afb82a830b35874", null ]
 ];

@@ -1,6 +1,7 @@
 var a24909 =
 [
-    [ "ModDest", "de/df5/a24909.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "de/df5/a24909.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "de/df5/a24909.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "FilterTargets", "de/df5/a24909.html#af6daf7022fc4cd18909056089c249c8a", null ],
+    [ "HandleDummy", "de/df5/a24909.html#ab8f8fec8c95f471a04d642fa0dcbe3e6", null ],
+    [ "PrepareSpellScript", "de/df5/a24909.html#a3ec1d43d3eb6ecca128ddda3c0f81efc", null ],
+    [ "Register", "de/df5/a24909.html#ae662a050ce4cac47b6bd0d0b0c5b1e16", null ]
 ];

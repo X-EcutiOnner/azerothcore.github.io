@@ -1,7 +1,6 @@
 var a19625 =
 [
-    [ "HandleScript", "dd/d4a/a19625.html#a8e54c3526406fcb6963667c05b5f2cce", null ],
-    [ "Load", "dd/d4a/a19625.html#a94661c7652572b1671a611b35c8f68a7", null ],
-    [ "PrepareSpellScript", "dd/d4a/a19625.html#a269f558a231a4c9af55a54c6c7090d1b", null ],
-    [ "Register", "dd/d4a/a19625.html#a09352bd458fe3dbeacea38c5104656ff", null ]
+    [ "boss_patchwerkAI", "df/d67/a19629.html", "df/d67/a19629" ],
+    [ "boss_patchwerk", "dd/d4a/a19625.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
+    [ "GetAI", "dd/d4a/a19625.html#a03f2dec61192405760958e26d998d67e", null ]
 ];

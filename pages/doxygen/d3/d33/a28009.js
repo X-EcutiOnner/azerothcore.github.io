@@ -1,6 +1,8 @@
 var a28009 =
 [
-    [ "go_l70_etc_musicAI", "d3/d33/a28009.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "d3/d33/a28009.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "d3/d33/a28009.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "CheckProc", "d3/d33/a28009.html#a77739dee36e546ff0e91a2a266a8e107", null ],
+    [ "HandleProc", "d3/d33/a28009.html#a2cde3c808e4ad060bb34c30507f210b7", null ],
+    [ "PrepareAuraScript", "d3/d33/a28009.html#a796c2a915069385cdca89cf3f7d09c82", null ],
+    [ "Register", "d3/d33/a28009.html#af144533458a912ac19c6b772114586cd", null ],
+    [ "Validate", "d3/d33/a28009.html#ac6bde14a034888642aa97de6b2d4a21d", null ]
 ];

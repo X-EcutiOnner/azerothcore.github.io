@@ -1,6 +1,7 @@
 var a18793 =
 [
-    [ "ActivateSpirit", "d9/d98/a18793.html#ae5c9f8e693a98c828e0e922870552952", null ],
-    [ "PrepareSpellScript", "d9/d98/a18793.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
-    [ "Register", "d9/d98/a18793.html#a2b1d27e93a879681098a83d17c4d686a", null ]
+    [ "CheckTargetCount", "d9/d98/a18793.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "d9/d98/a18793.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "d9/d98/a18793.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "d9/d98/a18793.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

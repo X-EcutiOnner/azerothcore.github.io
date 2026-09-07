@@ -1,6 +1,6 @@
 var a08901 =
 [
-    [ "PlayerCreateInfoItem", "d4/dbd/a08901.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
-    [ "item_amount", "d4/dbd/a08901.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
-    [ "item_id", "d4/dbd/a08901.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
+    [ "active", "d4/dbd/a08901.html#a9460571d6fc219ab8c475aab34fc9494", null ],
+    [ "state", "d4/dbd/a08901.html#a0600418cb460fdaf8093bfa609e796c8", null ],
+    [ "type", "d4/dbd/a08901.html#a4c4a7d0f299ae4e2ceb146a741057032", null ]
 ];

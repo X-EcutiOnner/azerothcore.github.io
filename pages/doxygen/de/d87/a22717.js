@@ -1,6 +1,8 @@
 var a22717 =
 [
-    [ "boss_reliquary_of_soulsAI", "d9/d3e/a22721.html", "d9/d3e/a22721" ],
-    [ "boss_reliquary_of_souls", "de/d87/a22717.html#a0c73fc6221da0b19903e534932ca6406", null ],
-    [ "GetAI", "de/d87/a22717.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
+    [ "boss_pandemonius", "de/d87/a22717.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "de/d87/a22717.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "de/d87/a22717.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "de/d87/a22717.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "de/d87/a22717.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

@@ -1,7 +1,14 @@
 var a07505 =
 [
-    [ "AuctionSearchUpdateBid", "da/d0a/a07505.html#ad7ecaf272e5cc8fe61e0b448d05b6d27", null ],
-    [ "auctionId", "da/d0a/a07505.html#a6ebbff1fcebe77ed4735483ad481fd00", null ],
-    [ "bid", "da/d0a/a07505.html#a14b7f79b2aa0b020c8c940d6b01c4efc", null ],
-    [ "bidderGuid", "da/d0a/a07505.html#a843bcff41f694075ea056d9a3c71467f", null ]
+    [ "getAll", "da/d0a/a07505.html#a736642258b38fa05f04df4f4ac9069db", null ],
+    [ "inventoryType", "da/d0a/a07505.html#a521224ce63856745ed64c39f6cbdddc4", null ],
+    [ "itemClass", "da/d0a/a07505.html#a97bc36937a55f3e9a88dabf9a4e4f0b5", null ],
+    [ "itemSubClass", "da/d0a/a07505.html#acf154bf30417c1a202ae85b4dd1adead", null ],
+    [ "levelmax", "da/d0a/a07505.html#a902d715d89a5ca66072393ccefbb1ead", null ],
+    [ "levelmin", "da/d0a/a07505.html#ac437de5977b177a586381c8665439a56", null ],
+    [ "listfrom", "da/d0a/a07505.html#a2be6266f0bbc631d476710cbe291fab1", null ],
+    [ "quality", "da/d0a/a07505.html#a1f234ab443ed5e14aafa02ec3ba5cfde", null ],
+    [ "sorting", "da/d0a/a07505.html#a6f2e07af2aafb8eb53d845acd7f5ad71", null ],
+    [ "usable", "da/d0a/a07505.html#ad81a5f3c2c58e620673539b6271ff8e9", null ],
+    [ "wsearchedname", "da/d0a/a07505.html#a0a3764bd2ad869d9fe04aaced1f271ba", null ]
 ];

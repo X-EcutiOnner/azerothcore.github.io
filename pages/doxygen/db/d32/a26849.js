@@ -1,10 +1,9 @@
 var a26849 =
 [
-    [ "GetTarget", "db/d32/a26849.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
-    [ "HandleEffectPeriodicPlatform", "db/d32/a26849.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
-    [ "HandleEffectPeriodicSelf", "db/d32/a26849.html#a2272a970ca5edca6f7353beb2279c29c", null ],
-    [ "PerformKick", "db/d32/a26849.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
-    [ "PrepareAuraScript", "db/d32/a26849.html#a489f1da8f8008db8f096470f28455ef9", null ],
-    [ "Register", "db/d32/a26849.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
-    [ "AuraEffectHandleModes", "db/d32/a26849.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
+    [ "CheckProc", "db/d32/a26849.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
+    [ "HandleProc", "db/d32/a26849.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
+    [ "PrepareAuraScript", "db/d32/a26849.html#a9585ecde57ccfa26f59174732e3132fc", null ],
+    [ "Register", "db/d32/a26849.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
+    [ "Validate", "db/d32/a26849.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
+    [ "_triggeredSpellId", "db/d32/a26849.html#a560ade778e046213f60f48364ea3800c", null ]
 ];

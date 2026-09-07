@@ -1,11 +1,21 @@
 var a00053 =
 [
-    [ "AABound", "d4/d54/a05231.html", "d4/d54/a05231" ],
-    [ "BIH", "d8/dd0/a05235.html", "d8/dd0/a05235" ],
-    [ "BIH::buildData", "d5/d5a/a05239.html", "d5/d5a/a05239" ],
-    [ "BIH::StackNode", "da/dc9/a05243.html", "da/dc9/a05243" ],
-    [ "BIH::BuildStats", "d8/da5/a05247.html", "d8/da5/a05247" ],
-    [ "MAX_STACK_SIZE", "dc/dee/a00053.html#accbb358028675c83675d8b34c386268d", null ],
-    [ "floatToRawIntBits", "dc/dee/a00053.html#ad04403146f53e198de60b6c4bec4246e", null ],
-    [ "intBitsToFloat", "dc/dee/a00053.html#a3b415e235398aa84c4f976084f8e130c", null ]
+    [ "map_fileheader", "d3/df3/a09537.html", "d3/df3/a09537" ],
+    [ "map_heightHeader", "d1/d9d/a09545.html", "d1/d9d/a09545" ],
+    [ "map_liquidHeader", "d4/dd1/a09549.html", "d4/dd1/a09549" ],
+    [ "MAP_HEIGHT_AS_INT16", "dc/dee/a00053.html#aefa74fa33f3eba2d39b407c2fd2e8aba", null ],
+    [ "MAP_HEIGHT_AS_INT8", "dc/dee/a00053.html#a15a9245a53c00f1a8a89dd2d798cea9d", null ],
+    [ "MAP_HEIGHT_NO_HEIGHT", "dc/dee/a00053.html#aa5c2437972b2be5c5ff23a7ac04e2680", null ],
+    [ "MAP_LIQUID_NO_HEIGHT", "dc/dee/a00053.html#a59daadc7c96729526e05982ec6600bb1", null ],
+    [ "MAP_LIQUID_NO_TYPE", "dc/dee/a00053.html#a42b8b790a3d284e7116bcad1c391b8f9", null ],
+    [ "MAP_LIQUID_TYPE_DARK_WATER", "dc/dee/a00053.html#a661f965d11d7da56890b64484d871441", null ],
+    [ "MAP_LIQUID_TYPE_MAGMA", "dc/dee/a00053.html#a14e2a0a2291347b0ef877bc9d70f7384", null ],
+    [ "MAP_LIQUID_TYPE_NO_WATER", "dc/dee/a00053.html#a17d4c5ea32412f0fbe04a27f63d50e13", null ],
+    [ "MAP_LIQUID_TYPE_OCEAN", "dc/dee/a00053.html#a6d257e0effb928fba7534eeee5de602d", null ],
+    [ "MAP_LIQUID_TYPE_SLIME", "dc/dee/a00053.html#aa56f76510545ed9c706b8fee3061b6cb", null ],
+    [ "MAP_LIQUID_TYPE_WATER", "dc/dee/a00053.html#a5ec110bd30ec47fcd087aaf5d572de28", null ],
+    [ "holetab_h", "dc/dee/a00053.html#abeb39e913287295598939165f99abe3b", null ],
+    [ "holetab_v", "dc/dee/a00053.html#a8c5ddef856ef804076860bb176c6d9e1", null ],
+    [ "MAP_FILE_NAME_FORMAT", "dc/dee/a00053.html#a1d57d156046bda88886b7488ab0b83bc", null ],
+    [ "MAP_VERSION_MAGIC", "dc/dee/a00053.html#aee23c8e21c084824373ce587f8fe1f04", null ]
 ];

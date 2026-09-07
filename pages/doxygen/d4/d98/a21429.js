@@ -1,6 +1,7 @@
 var a21429 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d0/d10/a21433.html", "d0/d10/a21433" ],
-    [ "npc_valiance_keep_cannoneer", "d4/d98/a21429.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
-    [ "GetAI", "d4/d98/a21429.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
+    [ "HandlePeriodicDummy", "d4/d98/a21429.html#a295f37cddccc696d450a0c4380d43c29", null ],
+    [ "PrepareAuraScript", "d4/d98/a21429.html#a9453aa189ba53de3d89bbab183927cfc", null ],
+    [ "Register", "d4/d98/a21429.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
+    [ "Validate", "d4/d98/a21429.html#a475480c072aaccde7b00cf28aedff3ec", null ]
 ];

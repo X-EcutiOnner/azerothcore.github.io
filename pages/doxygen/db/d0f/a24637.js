@@ -1,8 +1,9 @@
 var a24637 =
 [
-    [ "AfterApply", "db/d0f/a24637.html#a4d2941ebb326d603ac08f428f811c29b", null ],
-    [ "AfterRemove", "db/d0f/a24637.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
-    [ "PrepareAuraScript", "db/d0f/a24637.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
-    [ "Register", "db/d0f/a24637.html#a78e30a950b9fc08dff5072028816b8b4", null ],
-    [ "Validate", "db/d0f/a24637.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
+    [ "HandleAfterHit", "db/d0f/a24637.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
+    [ "Load", "db/d0f/a24637.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
+    [ "PrepareSpellScript", "db/d0f/a24637.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
+    [ "Register", "db/d0f/a24637.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
+    [ "Validate", "db/d0f/a24637.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
+    [ "_executed", "db/d0f/a24637.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
 ];

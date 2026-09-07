@@ -1,8 +1,5 @@
 var a18525 =
 [
-    [ "FilterTargets", "d1/de3/a18525.html#a14e392760361b95578bc95de10cdd8aa", null ],
-    [ "HandleForcedCast", "d1/de3/a18525.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
-    [ "PrepareSpellScript", "d1/de3/a18525.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
-    [ "Register", "d1/de3/a18525.html#ac2105e66f692c6a991ac9190b1901505", null ],
-    [ "Validate", "d1/de3/a18525.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
+    [ "operator()", "d1/de3/a18525.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
+    [ "operator()", "d1/de3/a18525.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
 ];

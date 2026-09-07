@@ -1,9 +1,6 @@
 var a07757 =
 [
-    [ "BattlegroundEYLosingPointStruct", "de/d72/a07757.html#ae3f19e55206e1a8097fe173a8a37aa12", null ],
-    [ "DespawnObjectTypeAlliance", "de/d72/a07757.html#a210828d05ea9948484631b7408a3bb4b", null ],
-    [ "DespawnObjectTypeHorde", "de/d72/a07757.html#a335205cb71b7055db4c01a5e562001b6", null ],
-    [ "MessageIdAlliance", "de/d72/a07757.html#afe89eccc8c21351edb4ce943d937e521", null ],
-    [ "MessageIdHorde", "de/d72/a07757.html#a8295974ee1f663dd0d22bcc4f0e0fa92", null ],
-    [ "SpawnNeutralObjectType", "de/d72/a07757.html#a57c1a6f485ea6617b5218da411cae38f", null ]
+    [ "CanAnnounce", "de/d72/a07757.html#a67afe4b43884ac1c58f054427b2ef7dd", null ],
+    [ "CanAnnounce", "de/d72/a07757.html#ab791cf85fc2e08330d3f777e1797c01c", null ],
+    [ "instance", "de/d72/a07757.html#ad76f570ce82ffcde5484e612c10c6f59", null ]
 ];

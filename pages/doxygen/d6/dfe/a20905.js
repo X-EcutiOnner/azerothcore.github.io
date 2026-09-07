@@ -1,7 +1,8 @@
 var a20905 =
 [
-    [ "HandleScriptEffect", "d6/dfe/a20905.html#a173ee086127655cdfcca507fd5b15b2e", null ],
-    [ "PrepareSpellScript", "d6/dfe/a20905.html#a005d47b18a820c35ec596b5539db94eb", null ],
-    [ "Register", "d6/dfe/a20905.html#a20a0d554e80707c1517422cb747f38e8", null ],
-    [ "Validate", "d6/dfe/a20905.html#a5ca44686e26def56adc2b98d88145235", null ]
+    [ "npc_pummeller", "d6/dfe/a20905.html#a0c67bf3781fde8d4580aad093bf87291", null ],
+    [ "Reset", "d6/dfe/a20905.html#abdb3f0984c03780aee9dd55496fc7835", null ],
+    [ "UpdateAI", "d6/dfe/a20905.html#a9d61c35dc7f86314c6beb581539fd55d", null ],
+    [ "_instance", "d6/dfe/a20905.html#a12df7fb27b7bd54d0bf60c3e5faee037", null ],
+    [ "_scheduler", "d6/dfe/a20905.html#abc1ba4d0e95d33fe42af1014c2e8448f", null ]
 ];

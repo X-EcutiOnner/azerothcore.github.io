@@ -1,10 +1,24 @@
 var a19869 =
 [
-    [ "npc_molten_golem", "da/d8e/a19869.html#a38350948396b7df97837780531f79515", null ],
-    [ "DamageTaken", "da/d8e/a19869.html#aa3521246b0c2bed18b5466879ec1d107", null ],
-    [ "DoAction", "da/d8e/a19869.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
-    [ "Reset", "da/d8e/a19869.html#a24e23d0959bcda5be05786381a35ac77", null ],
-    [ "UpdateAI", "da/d8e/a19869.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
-    [ "events", "da/d8e/a19869.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
-    [ "m_pInstance", "da/d8e/a19869.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
+    [ "boss_uromAI", "da/d8e/a19869.html#abeb96b1a52d3daf6d8df91a4ce96dfa8", null ],
+    [ "AttackStart", "da/d8e/a19869.html#ab9f197acf29e3616ef121d6c06573ccd", null ],
+    [ "EnterEvadeMode", "da/d8e/a19869.html#aaf668ef4af475ec259e909567fda5d66", null ],
+    [ "GetPhaseByCurrentPosition", "da/d8e/a19869.html#ab389d9d13a4a2fcca0498b1313093c17", null ],
+    [ "JustDied", "da/d8e/a19869.html#a2e675e9df2dbe084b27ee81a8e33ee70", null ],
+    [ "JustEngagedWith", "da/d8e/a19869.html#a02dbc09934058463d93b88268c70ca7c", null ],
+    [ "JustSummoned", "da/d8e/a19869.html#ad298bdd2619770af73265b10e77f1190", null ],
+    [ "KilledUnit", "da/d8e/a19869.html#abb34f62f4e4a7f88909b1293163b8c8e", null ],
+    [ "LeaveCombat", "da/d8e/a19869.html#adbc7a01adc7dd95894f3d175677353e3", null ],
+    [ "MoveInLineOfSight", "da/d8e/a19869.html#ad195384e0216075b7cae67875a0d7284", null ],
+    [ "Reset", "da/d8e/a19869.html#a6b8817aec3aacbedbb290c178f5b9eb0", null ],
+    [ "SpellHit", "da/d8e/a19869.html#a669ede4aef5ca1da7bcca867d7231c35", null ],
+    [ "UpdateAI", "da/d8e/a19869.html#a037de8c5598890701fcef021abd14c71", null ],
+    [ "events", "da/d8e/a19869.html#a97732ed404611bee7168e1f04722426c", null ],
+    [ "inCenter", "da/d8e/a19869.html#a8a79ebc3f12e2e9b1001f81132ef4259", null ],
+    [ "lock", "da/d8e/a19869.html#a9f8635cb44dd5ac3b148c69890cfb38f", null ],
+    [ "pInstance", "da/d8e/a19869.html#ab4ef43ca30ccf83c81245db164288794", null ],
+    [ "releaseLockTimer", "da/d8e/a19869.html#ab96273a14e3cec773d8fe79ca774ec52", null ],
+    [ "x", "da/d8e/a19869.html#a8993238ebdb4b2cc2cb92e75f705d465", null ],
+    [ "y", "da/d8e/a19869.html#ae4948d320ec32a56f514f8f01061c524", null ],
+    [ "z", "da/d8e/a19869.html#a7bd99156fdc38c22d43e46da8509e8c7", null ]
 ];

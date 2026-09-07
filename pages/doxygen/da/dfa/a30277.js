@@ -1,5 +1,7 @@
 var a30277 =
 [
-    [ "Deep", "da/dfa/a30277.html#a9efcd2f19d9701713666f1ad2285d992", null ],
-    [ "Fishable", "da/dfa/a30277.html#a929299daf6bc46aa775b9b0fa055c9e2", null ]
+    [ "walkableClimb", "da/dfa/a30277.html#af8d2e9bccb8f6bbb36065e686ea39626", null ],
+    [ "walkableHeight", "da/dfa/a30277.html#a32f39a07562c47be0a311d7959678044", null ],
+    [ "walkableRadius", "da/dfa/a30277.html#a6e708a591e7b5597e129a653e1379a1e", null ],
+    [ "walkableSlopeAngle", "da/dfa/a30277.html#a9b880e84fa1d07e414e9a9a62a20969c", null ]
 ];

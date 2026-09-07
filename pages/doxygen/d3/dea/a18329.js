@@ -1,6 +1,7 @@
 var a18329 =
 [
-    [ "boss_rotfaceAI", "d3/d5d/a18333.html", "d3/d5d/a18333" ],
-    [ "boss_rotface", "d3/dea/a18329.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
-    [ "GetAI", "d3/dea/a18329.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
+    [ "HandleExtraEffect", "d3/dea/a18329.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "d3/dea/a18329.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "d3/dea/a18329.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "d3/dea/a18329.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

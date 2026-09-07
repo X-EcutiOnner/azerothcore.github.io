@@ -1,9 +1,8 @@
 var a05653 =
 [
-    [ "IpLocationRecord", "db/d56/a05653.html#a1dba2f8a7697c7e6fd427089d556c19a", null ],
-    [ "IpLocationRecord", "db/d56/a05653.html#a10ffefef6ba7d81a23d5d29bc2ee599d", null ],
-    [ "CountryCode", "db/d56/a05653.html#a9b54a497801e9da396955893473eb7da", null ],
-    [ "CountryName", "db/d56/a05653.html#acbc8ea139970e7acbad06302d5666eb9", null ],
-    [ "IpFrom", "db/d56/a05653.html#a97d36332086a339e07b73955f23acd57", null ],
-    [ "IpTo", "db/d56/a05653.html#a844dfff114f6ce64b79c459527965bfb", null ]
+    [ "Count", "db/d56/a05653.html#a4ab8f061208d7733ee65ba768f85f513", null ],
+    [ "GetElements", "db/d56/a05653.html#af75467b56830b1447bebbf974b2747b6", null ],
+    [ "GetElements", "db/d56/a05653.html#a04e403e4e051d7885806e05a408f4329", null ],
+    [ "insert", "db/d56/a05653.html#a026880bb3378687143ed19fa7b99b41b", null ],
+    [ "i_elements", "db/d56/a05653.html#a8ef4a180d448dcba2141fc389621433d", null ]
 ];

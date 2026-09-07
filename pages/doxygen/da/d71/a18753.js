@@ -1,9 +1,6 @@
 var a18753 =
 [
-    [ "FilterTargets", "da/d71/a18753.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
-    [ "Load", "da/d71/a18753.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
-    [ "PrepareSpellScript", "da/d71/a18753.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
-    [ "Register", "da/d71/a18753.html#afad887fba0d97512a7a13a31977cf42d", null ],
-    [ "Validate", "da/d71/a18753.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
-    [ "_instance", "da/d71/a18753.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
+    [ "npc_valkyr_shadowguardAI", "df/ddc/a18757.html", "df/ddc/a18757" ],
+    [ "npc_valkyr_shadowguard", "da/d71/a18753.html#a8ee90e21499eebf240c57419454c3829", null ],
+    [ "GetAI", "da/d71/a18753.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
 ];

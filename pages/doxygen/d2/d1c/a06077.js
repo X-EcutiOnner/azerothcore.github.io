@@ -1,8 +1,6 @@
 var a06077 =
 [
-    [ "Statements", "d2/d1c/a06077.html#a6dc31cb64a22e90cc5275bf6fcaaf000", null ],
-    [ "LoginDatabaseConnection", "d2/d1c/a06077.html#aed22866380f9331ff73d4437a779206c", null ],
-    [ "LoginDatabaseConnection", "d2/d1c/a06077.html#a27fa1397706cf8b986fe0a05a82a910b", null ],
-    [ "~LoginDatabaseConnection", "d2/d1c/a06077.html#a7514a6e42889d5d75dcce2e804fff7b8", null ],
-    [ "DoPrepareStatements", "d2/d1c/a06077.html#a3f826d59e4efa55d7825f90f434ae889", null ]
+    [ "Append", "d2/d1c/a06077.html#a290b052f7cbd321c646e9e5e19484444", null ],
+    [ "Append", "d2/d1c/a06077.html#a867b7a92080104278aef5fb4975a4a52", null ],
+    [ "Append", "d2/d1c/a06077.html#aa0a81814abe26d456018c3bc9153cd4d", null ]
 ];

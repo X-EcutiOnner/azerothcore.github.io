@@ -1,6 +1,8 @@
 var a21073 =
 [
-    [ "npc_frenzied_worgenAI", "d4/d2f/a21077.html", "d4/d2f/a21077" ],
-    [ "npc_frenzied_worgen", "d3/dba/a21073.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "d3/dba/a21073.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "FilterTargets", "d3/dba/a21073.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
+    [ "HandleDummyEffect", "d3/dba/a21073.html#afbf3aab6724d12426ab0197fb9459562", null ],
+    [ "PrepareSpellScript", "d3/dba/a21073.html#a7ec441904bc100c6b15ee219617489ff", null ],
+    [ "Register", "d3/dba/a21073.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
+    [ "Validate", "d3/dba/a21073.html#a85388adbc15d449e687f9f463cce3833", null ]
 ];

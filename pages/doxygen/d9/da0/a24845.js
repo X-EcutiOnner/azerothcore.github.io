@@ -1,9 +1,9 @@
 var a24845 =
 [
-    [ "spell_gen_select_target_count", "d9/da0/a24845.html#a65507c155a8746ff49c58c051b7868e4", null ],
-    [ "FilterTargets", "d9/da0/a24845.html#a5de89be9ce321a0f4ac49853a700b502", null ],
-    [ "PrepareSpellScript", "d9/da0/a24845.html#a42ddce15414dcdf495b572e0f75e9486", null ],
-    [ "Register", "d9/da0/a24845.html#a94f86992275123e2e3989655cf077efd", null ],
-    [ "_count", "d9/da0/a24845.html#acdf5daa848ae185b859c45a1271df68c", null ],
-    [ "_effTarget", "d9/da0/a24845.html#a9c54508790062277c8275d2466e93fb3", null ]
+    [ "HandleApply", "d9/da0/a24845.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
+    [ "HandleRemove", "d9/da0/a24845.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
+    [ "PrepareAuraScript", "d9/da0/a24845.html#af2b8e669737cd4282beb6a5035f496fc", null ],
+    [ "RecalculateBaseArmor", "d9/da0/a24845.html#a693720558c7b2b22c41a49a402522014", null ],
+    [ "Register", "d9/da0/a24845.html#aff9bc58342383afe5a08be696cddedf6", null ],
+    [ "Validate", "d9/da0/a24845.html#ad712e1e05d94372defdfa4fe67e65716", null ]
 ];

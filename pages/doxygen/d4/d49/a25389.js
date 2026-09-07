@@ -1,7 +1,7 @@
 var a25389 =
 [
-    [ "HandleProc", "d4/d49/a25389.html#a8a66eb1c15d8da265deed2c8a8a9cd50", null ],
-    [ "PrepareAuraScript", "d4/d49/a25389.html#aa2fd33ce33d6882292ba8ee588743fd3", null ],
-    [ "Register", "d4/d49/a25389.html#ab09dcc534ebda11da4a2234ee82233a2", null ],
-    [ "Validate", "d4/d49/a25389.html#a33c8ed96d3d4efd8841c10af7b7bf470", null ]
+    [ "CheckIfLanceEquipped", "d4/d49/a25389.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
+    [ "PrepareSpellScript", "d4/d49/a25389.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
+    [ "Register", "d4/d49/a25389.html#a4421ceaedce16777f8f04b9c40855782", null ],
+    [ "Validate", "d4/d49/a25389.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
 ];

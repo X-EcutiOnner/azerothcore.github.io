@@ -1,6 +1,5 @@
 var a20889 =
 [
-    [ "OnRemove", "d2/d72/a20889.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
-    [ "PrepareAuraScript", "d2/d72/a20889.html#a5fb0837417b915676549370cc76c477d", null ],
-    [ "Register", "d2/d72/a20889.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
+    [ "achievement_thorim_lose_your_illusion", "d2/d72/a20889.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
+    [ "OnCheck", "d2/d72/a20889.html#a322df4f30445a84085615925f74a8a6b", null ]
 ];

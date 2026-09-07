@@ -1,4 +1,6 @@
 var a12101 =
 [
-    [ "Text", "d3/d54/a12101.html#ab4b16957cc9e845b0f763b4241ba5c89", null ]
+    [ "EffectCalcAmountHandler", "d3/d54/a12101.html#a4fe66bbf0433e80b602683a278e3a709", null ],
+    [ "Call", "d3/d54/a12101.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
+    [ "pEffectHandlerScript", "d3/d54/a12101.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
 ];

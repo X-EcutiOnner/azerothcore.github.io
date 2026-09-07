@@ -1,9 +1,11 @@
 var a21973 =
 [
-    [ "npc_frostbrood_skytalonAI", "dd/d2d/a21973.html#afc14c60466f9f0f1b20062758f18c00d", null ],
-    [ "IsSummonedBy", "dd/d2d/a21973.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
-    [ "MovementInform", "dd/d2d/a21973.html#ae763333503176eb7e8ce407868243958", null ],
-    [ "SpellHit", "dd/d2d/a21973.html#a24bb49f47dcf85c95039d0495a89e126", null ],
-    [ "UpdateAI", "dd/d2d/a21973.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
-    [ "events", "dd/d2d/a21973.html#a8575d258d63e28626cffd7fc2160bee6", null ]
+    [ "npc_emilyAI", "dd/d2d/a21973.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "dd/d2d/a21973.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "dd/d2d/a21973.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "dd/d2d/a21973.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "dd/d2d/a21973.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "WaypointReached", "dd/d2d/a21973.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_mrfloppyGUID", "dd/d2d/a21973.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "dd/d2d/a21973.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

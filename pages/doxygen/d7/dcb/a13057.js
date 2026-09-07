@@ -1,10 +1,10 @@
 var a13057 =
 [
-    [ "instance_deadmines_InstanceMapScript", "d7/dcb/a13057.html#afa12491c1b276d0d643822da562320c3", null ],
-    [ "GetSaveData", "d7/dcb/a13057.html#a775c7d564b931e157a32b0909efed859", null ],
-    [ "Initialize", "d7/dcb/a13057.html#a8b8bca7a1d7880bc53b8002934ceeb7a", null ],
-    [ "Load", "d7/dcb/a13057.html#afff7e04cc632e2d4ddb438d03e561560", null ],
-    [ "OnGameObjectCreate", "d7/dcb/a13057.html#a095202af8915f8a1d8888c045e18d6c4", null ],
-    [ "SetData", "d7/dcb/a13057.html#a8cd5bf5302b1a7221c69dd9fdc9518dc", null ],
-    [ "_encounters", "d7/dcb/a13057.html#a01d69e135cbd2dd885dfc84c98ed8be1", null ]
+    [ "npc_core_rager", "d7/dcb/a13057.html#a91aec4d96359a88ee8ac70b58353d488", null ],
+    [ "DamageTaken", "d7/dcb/a13057.html#a7ad38b40dc33a8c875f11c4143bf9786", null ],
+    [ "Reset", "d7/dcb/a13057.html#a5a565f93e2b60ee0883d740cf751c143", null ],
+    [ "UpdateAI", "d7/dcb/a13057.html#a17466612b59d94d7f2e157d2b716cfe9", null ],
+    [ "instance", "d7/dcb/a13057.html#adb63c559f01ac8da42213bb8ddaf9ce0", null ],
+    [ "mangleTimer", "d7/dcb/a13057.html#a21bb04f15b5ffbfa4ea954922cb917ab", null ],
+    [ "rangeCheckTimer", "d7/dcb/a13057.html#abac888dc4c885921540ba7107d0bd732", null ]
 ];

@@ -1,6 +1,7 @@
 var a19017 =
 [
-    [ "npc_captain_brandonAI", "de/de5/a19021.html", "de/de5/a19021" ],
-    [ "npc_captain_brandon", "db/df9/a19017.html#ad522dd280882d894b5d32e7c888f2360", null ],
-    [ "GetAI", "db/df9/a19017.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
+    [ "FrostwingVrykulSearcher", "db/df9/a19017.html#a10aa54184b42a0538dc4f325204399e9", null ],
+    [ "operator()", "db/df9/a19017.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
+    [ "_range", "db/df9/a19017.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
+    [ "_source", "db/df9/a19017.html#af5d3c93f41698e71c867336d0453d40a", null ]
 ];

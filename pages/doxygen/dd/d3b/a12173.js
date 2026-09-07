@@ -1,9 +1,12 @@
 var a12173 =
 [
-    [ "bytes", "dd/d3b/a12173.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
-    [ "bytes", "dd/d3b/a12173.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
-    [ "bytes", "dd/d3b/a12173.html#a2743b5da8366ea651923bf7f3332bc32", null ],
-    [ "ints", "dd/d3b/a12173.html#a0518eb4b0a91697500a5a370068425a8", null ],
-    [ "ints", "dd/d3b/a12173.html#a08efba5e78b64fef020453f689bcc5f0", null ],
-    [ "ints", "dd/d3b/a12173.html#a0506a09adc966923adb490153f095f84", null ]
+    [ "BroadcastTextBuilder", "dd/d3b/a12173.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
+    [ "operator()", "dd/d3b/a12173.html#a16f9719278e00013c25902846fa1be5b", null ],
+    [ "operator()", "dd/d3b/a12173.html#ac87701626dddffb6b09bf504b97c4d55", null ],
+    [ "_achievementId", "dd/d3b/a12173.html#a82de25331657b17ce0de33f2b374abda", null ],
+    [ "_gender", "dd/d3b/a12173.html#a71032b0749dd75f552107503528e8166", null ],
+    [ "_msgType", "dd/d3b/a12173.html#a232325cefa217843da5cc6db7e5d80fe", null ],
+    [ "_source", "dd/d3b/a12173.html#ab73315225b3aa36a309f45596f7089f4", null ],
+    [ "_target", "dd/d3b/a12173.html#a958b154f3c82188e9684be0f0b7dae56", null ],
+    [ "_textId", "dd/d3b/a12173.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
 ];

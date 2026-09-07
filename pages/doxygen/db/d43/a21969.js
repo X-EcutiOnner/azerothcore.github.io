@@ -1,6 +1,7 @@
 var a21969 =
 [
-    [ "npc_frostbrood_skytalonAI", "dd/d2d/a21973.html", "dd/d2d/a21973" ],
-    [ "npc_frostbrood_skytalon", "db/d43/a21969.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "db/d43/a21969.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "npc_emilyAI", "dd/d2d/a21973.html", "dd/d2d/a21973" ],
+    [ "npc_emily", "db/d43/a21969.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "db/d43/a21969.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "db/d43/a21969.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

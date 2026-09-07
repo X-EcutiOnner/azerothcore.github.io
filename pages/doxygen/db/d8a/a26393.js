@@ -1,6 +1,6 @@
 var a26393 =
 [
-    [ "CheckProc", "db/d8a/a26393.html#a4c536d65ba5325a6e63ad78bbc9bbfd6", null ],
-    [ "PrepareAuraScript", "db/d8a/a26393.html#a1dcda7de24effce7d975b714629f0e8a", null ],
-    [ "Register", "db/d8a/a26393.html#a0802e87836e910dc7007e2a2e7a888fd", null ]
+    [ "PrepareSpellScript", "db/d8a/a26393.html#a8127429829afd4b82395a821a4bea19c", null ],
+    [ "Register", "db/d8a/a26393.html#a73717914aa23764fa16c8a2965798a6a", null ],
+    [ "SecondaryEffect", "db/d8a/a26393.html#a6150d8615c7f579aadd50e28aba0d569", null ]
 ];

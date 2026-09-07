@@ -1,11 +1,16 @@
 var a17441 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "d6/de0/a17441.html#a51769d22a4cb448fae90d827e2494581", null ],
-    [ "MovementInform", "d6/de0/a17441.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
-    [ "SetData", "d6/de0/a17441.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
-    [ "UpdateAI", "d6/de0/a17441.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
-    [ "deathbringerGUID", "d6/de0/a17441.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
-    [ "events", "d6/de0/a17441.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
-    [ "killsLeft", "d6/de0/a17441.html#ac81d85e0ceb0b571373f44475baa36df", null ],
-    [ "pInstance", "d6/de0/a17441.html#a44460335986bcedf35dc295c242df6da", null ]
+    [ "boss_ickAI", "d6/de0/a17441.html#a72c90af745b63202edc36b84b3f4df12", null ],
+    [ "CanAIAttack", "d6/de0/a17441.html#afa3a7ef19f014ed9c46be4a3adc83aa3", null ],
+    [ "DamageTaken", "d6/de0/a17441.html#a96d39b533a96503d59c41c9e7cdd4ac4", null ],
+    [ "GetKrick", "d6/de0/a17441.html#a2d6192f314e76886204c7248d141260a", null ],
+    [ "JustDied", "d6/de0/a17441.html#afd7752ee19dcc6be0b28181bb4485146", null ],
+    [ "JustEngagedWith", "d6/de0/a17441.html#a27598604e65417225acd41d6f05cc717", null ],
+    [ "JustSummoned", "d6/de0/a17441.html#abf700d993e1cfaa0cc64d90903bfa842", null ],
+    [ "KilledUnit", "d6/de0/a17441.html#a618c4e704d9a90d8bf4fac2d22bda6b3", null ],
+    [ "Reset", "d6/de0/a17441.html#a9ba668208cda4dd33fd4eacb04476e2e", null ],
+    [ "SpellHitTarget", "d6/de0/a17441.html#a5d90395d45509f8aeb244f4a4743d07d", null ],
+    [ "UpdateAI", "d6/de0/a17441.html#a74bd63ac9558ecec52affaa7440360a1", null ],
+    [ "events", "d6/de0/a17441.html#aab514bb5f930d9eb545a279181632796", null ],
+    [ "pInstance", "d6/de0/a17441.html#a1ad5a6809ffe750a5538dc650a437b81", null ]
 ];

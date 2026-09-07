@@ -1,7 +1,6 @@
 var a05837 =
 [
-    [ "~SignalHandler", "d3/d07/a05837.html#a9c515cb60b156629c43d1a6fce81d58e", null ],
-    [ "handle_signal", "d3/d07/a05837.html#a56782d1718cb243bb5b0c6dc2d100042", null ],
-    [ "_handled", "d3/d07/a05837.html#a21b208a696ed4a320a7cf312006a787f", null ],
-    [ "_mutex", "d3/d07/a05837.html#a0c4d6ba642dd3877c3333b067db22db6", null ]
+    [ "operator()", "d3/d07/a05837.html#a0221f13bb39f5087bce33b6075edaf3b", null ],
+    [ "operator+=", "d3/d07/a05837.html#a685854261b2714cf924622e58a88e6b6", null ],
+    [ "functions", "d3/d07/a05837.html#aae8c666d695a517a3ad1e08afa8c355a", null ]
 ];

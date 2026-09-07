@@ -1,8 +1,5 @@
 var a20885 =
 [
-    [ "FilterTargets", "d4/dcc/a20885.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
-    [ "HandleDummyEffect", "d4/dcc/a20885.html#ab1f662fa107d176386067ffc6467d90f", null ],
-    [ "PrepareSpellScript", "d4/dcc/a20885.html#a069cc54bf009830ad781c790b4fcedad", null ],
-    [ "Register", "d4/dcc/a20885.html#ac91532151b689bde35d7120b1e9aec5b", null ],
-    [ "Validate", "d4/dcc/a20885.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "d4/dcc/a20885.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "d4/dcc/a20885.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

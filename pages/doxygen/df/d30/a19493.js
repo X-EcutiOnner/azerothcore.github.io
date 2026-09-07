@@ -1,6 +1,5 @@
 var a19493 =
 [
-    [ "boss_nothAI", "d3/dae/a19497.html", "d3/dae/a19497" ],
-    [ "boss_noth", "df/d30/a19493.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
-    [ "GetAI", "df/d30/a19493.html#a534f30792c051ab44c6c07c9347893e5", null ]
+    [ "PrepareSpellScript", "df/d30/a19493.html#a09b852666752f6adde3f9e5bb1f107bc", null ],
+    [ "Register", "df/d30/a19493.html#a80c3077f8f689367276e1054a6236681", null ]
 ];

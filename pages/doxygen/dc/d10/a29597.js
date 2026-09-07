@@ -1,10 +1,11 @@
 var a29597 =
 [
-    [ "SetUp", "dc/d10/a29597.html#a577c64b32e7d6e1055f23a9204a9dc9d", null ],
-    [ "TearDown", "dc/d10/a29597.html#a154bc25a4e054558748b5599b56de11f", null ],
-    [ "_creatureA", "dc/d10/a29597.html#a95e6c0f1f7a8692ec255c052b40416df", null ],
-    [ "_creatureB", "dc/d10/a29597.html#af5d64516264eeb9f1acadeeba44b79c2", null ],
-    [ "_map", "dc/d10/a29597.html#ada2e0d28b42465ea6f7c8de71142efd0", null ],
-    [ "_previousWorld", "dc/d10/a29597.html#a2805a828f7a7c92845f7c712b90af381", null ],
-    [ "_worldMock", "dc/d10/a29597.html#ab8d82db4b26a11e286ec603c63ea1613", null ]
+    [ "IsAvailable", "dc/d10/a29597.html#adfebd7a162ebae8396669de031c768a6", null ],
+    [ "operator bool", "dc/d10/a29597.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
+    [ "operator*", "dc/d10/a29597.html#a24733bf06b4a91abcf4945aa5303a275", null ],
+    [ "operator->", "dc/d10/a29597.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
+    [ "SecretMgr", "dc/d10/a29597.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
+    [ "lock", "dc/d10/a29597.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
+    [ "state", "dc/d10/a29597.html#a8738c28fd3c71a08c8ef3fb02b4c455b", null ],
+    [ "value", "dc/d10/a29597.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
 ];

@@ -1,9 +1,7 @@
 var a13101 =
 [
-    [ "boss_curator", "dd/d53/a13101.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
-    [ "JustDied", "dd/d53/a13101.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
-    [ "JustEngagedWith", "dd/d53/a13101.html#a848f477a101956662389cab5ffcc0727", null ],
-    [ "JustSummoned", "dd/d53/a13101.html#ac779d275e03e6ba190617d215b217ce5", null ],
-    [ "KilledUnit", "dd/d53/a13101.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
-    [ "Reset", "dd/d53/a13101.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
+    [ "HandleScript", "dd/d53/a13101.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
+    [ "PrepareSpellScript", "dd/d53/a13101.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
+    [ "Register", "dd/d53/a13101.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
+    [ "Validate", "dd/d53/a13101.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
 ];

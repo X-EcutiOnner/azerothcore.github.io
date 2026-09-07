@@ -1,11 +1,7 @@
 var a20837 =
 [
-    [ "boss_yoggsaron_llane", "de/ddc/a20837.html#a42e3d189cff0da5995401e4bc8dfffdd", null ],
-    [ "NextStep", "de/ddc/a20837.html#ab8b6446fe7d424ad7d943af915cc4b8a", null ],
-    [ "Reset", "de/ddc/a20837.html#a0df3a85717ab26ad1ac889d6fe4d8007", null ],
-    [ "Say", "de/ddc/a20837.html#a0ae3106eac830ed9f14f17e5fa1d45ec", null ],
-    [ "UpdateAI", "de/ddc/a20837.html#a58ec957cd59b944439fe514e728e2902", null ],
-    [ "_checkTimer", "de/ddc/a20837.html#a3043382e2727bc78a74acaec28697045", null ],
-    [ "_running", "de/ddc/a20837.html#ab7e1b1ed82f311b12f28f1622e6ad378", null ],
-    [ "_step", "de/ddc/a20837.html#a91a71f85bab9e4d1234964ef534e51c2", null ]
+    [ "boss_thorim_trap", "de/ddc/a20837.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
+    [ "Reset", "de/ddc/a20837.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
+    [ "UpdateAI", "de/ddc/a20837.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
+    [ "_checkTimer", "de/ddc/a20837.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
 ];

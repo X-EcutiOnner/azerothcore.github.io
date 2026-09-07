@@ -1,9 +1,8 @@
 var a09561 =
 [
-    [ "VisibleChangesNotifier", "d7/dd2/a09561.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
-    [ "Visit", "d7/dd2/a09561.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
-    [ "Visit", "d7/dd2/a09561.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
-    [ "Visit", "d7/dd2/a09561.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
-    [ "Visit", "d7/dd2/a09561.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
-    [ "i_object", "d7/dd2/a09561.html#a496b982d081957cfc288f29b99b8739d", null ]
+    [ "V8Type", "d7/dd2/a09561.html#ad1b1f07eef9dda43d6ba20d37087e1df", null ],
+    [ "V9Type", "d7/dd2/a09561.html#ac514014328ca676e610cef54710d2430", null ],
+    [ "gridIntHeightMultiplier", "d7/dd2/a09561.html#a6255362ae498172495394e1f0fad44ca", null ],
+    [ "v8", "d7/dd2/a09561.html#a3201a1f3e7307af860396ca26a78dbf9", null ],
+    [ "v9", "d7/dd2/a09561.html#ad31af604d44f964e9c502f36b6717c77", null ]
 ];

@@ -1,10 +1,11 @@
 var a16569 =
 [
-    [ "spell_halion_combustion_consumption_aura", "d9/d62/a16569.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
-    [ "AddMarkStack", "d9/d62/a16569.html#a337776c42bd6c42ecdffb508808ed070", null ],
-    [ "OnApply", "d9/d62/a16569.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
-    [ "OnRemove", "d9/d62/a16569.html#a3959dbe8bbdf2d3953daf14072614708", null ],
-    [ "PrepareAuraScript", "d9/d62/a16569.html#a334f2211429dde989b6beb6c10a71464", null ],
-    [ "Register", "d9/d62/a16569.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
-    [ "_markSpell", "d9/d62/a16569.html#a8236d9d50f267a12216d90f8041da439", null ]
+    [ "boss_general_zarithrianAI", "d9/d62/a16569.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d9/d62/a16569.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "d9/d62/a16569.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "d9/d62/a16569.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "d9/d62/a16569.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "d9/d62/a16569.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "d9/d62/a16569.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "d9/d62/a16569.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

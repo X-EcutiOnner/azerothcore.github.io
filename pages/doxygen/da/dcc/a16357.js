@@ -1,6 +1,6 @@
 var a16357 =
 [
-    [ "npc_anub_ar_crusher_champion", "da/dcc/a16357.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
-    [ "DoEngagedWith", "da/dcc/a16357.html#a2dcef4fe57880ba725dff52455a7a428", null ],
-    [ "DoEvent", "da/dcc/a16357.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
+    [ "ModDestHeight", "da/dcc/a16357.html#a8bda9327c4244af41c513528ad5c818c", null ],
+    [ "PrepareSpellScript", "da/dcc/a16357.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
+    [ "Register", "da/dcc/a16357.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
 ];

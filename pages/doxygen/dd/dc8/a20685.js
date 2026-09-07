@@ -1,6 +1,6 @@
 var a20685 =
 [
-    [ "OnPeriodic", "dd/dc8/a20685.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
-    [ "PrepareAuraScript", "dd/dc8/a20685.html#a6aa46e818199da206e6543005a7fe87f", null ],
-    [ "Register", "dd/dc8/a20685.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
+    [ "ModDest", "dd/dc8/a20685.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
+    [ "PrepareSpellScript", "dd/dc8/a20685.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
+    [ "Register", "dd/dc8/a20685.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
 ];

@@ -1,5 +1,5 @@
 var a18553 =
 [
-    [ "FrozenThroneResetWorker", "db/d3f/a18553.html#afd21e9c1449d4e391713256e197bc92b", null ],
-    [ "operator()", "db/d3f/a18553.html#a7119548d30d760ae817a87cacf712cf6", null ]
+    [ "achievement_all_you_can_eat", "db/d3f/a18553.html#a0995024862a445ea1f0ff5c82475fc64", null ],
+    [ "OnCheck", "db/d3f/a18553.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
 ];

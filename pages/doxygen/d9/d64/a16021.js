@@ -1,6 +1,6 @@
 var a16021 =
 [
-    [ "npc_qiraj_war_spawnAI", "df/d86/a16025.html", "df/d86/a16025" ],
-    [ "npc_qiraj_war_spawn", "d9/d64/a16021.html#a2afba33e9fd879ac3fea206768b14334", null ],
-    [ "GetAI", "d9/d64/a16021.html#a32339f20251c188b895c02b6cc9217e9", null ]
+    [ "npc_silva_filnaveth", "d9/d64/a16021.html#a5998381865214a7b3af7823bd2557cb0", null ],
+    [ "OnGossipHello", "d9/d64/a16021.html#a32019c17271a3f504d86cd694262fd53", null ],
+    [ "OnGossipSelect", "d9/d64/a16021.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
 ];

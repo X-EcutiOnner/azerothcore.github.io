@@ -1,8 +1,7 @@
 var a14309 =
 [
-    [ "FilterTargets", "d8/dc6/a14309.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
-    [ "OnHit", "d8/dc6/a14309.html#ac25886536c353f09838188362fb8ae84", null ],
-    [ "PrepareSpellScript", "d8/dc6/a14309.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
-    [ "Register", "d8/dc6/a14309.html#afa419365236c09914f758846978e2cbb", null ],
-    [ "Validate", "d8/dc6/a14309.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
+    [ "npc_daphne_stilwellAI", "d2/d2a/a14313.html", "d2/d2a/a14313" ],
+    [ "npc_daphne_stilwell", "d8/dc6/a14309.html#ad844c5f0409936d7068ee55271506041", null ],
+    [ "GetAI", "d8/dc6/a14309.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
+    [ "OnQuestAccept", "d8/dc6/a14309.html#a421a7eb4c1391eb82f7874b081c66a36", null ]
 ];

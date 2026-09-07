@@ -1,8 +1,6 @@
 var a19081 =
 [
-    [ "CountTargets", "d7/d71/a19081.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
-    [ "HandleScript", "d7/d71/a19081.html#af058a0c458463bdba4a4eb73aa91c113", null ],
-    [ "PrepareSpellScript", "d7/d71/a19081.html#a83b2fad7cdc189a17129e25a015952ff", null ],
-    [ "Register", "d7/d71/a19081.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
-    [ "Validate", "d7/d71/a19081.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
+    [ "npc_captain_brandonAI", "d3/d7d/a19085.html", "d3/d7d/a19085" ],
+    [ "npc_captain_brandon", "d7/d71/a19081.html#ad522dd280882d894b5d32e7c888f2360", null ],
+    [ "GetAI", "d7/d71/a19081.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
 ];

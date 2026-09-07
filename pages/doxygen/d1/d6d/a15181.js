@@ -1,6 +1,6 @@
 var a15181 =
 [
-    [ "instance_mount_hyjal_InstanceMapScript", "d4/db8/a15185.html", "d4/db8/a15185" ],
-    [ "instance_hyjal", "d1/d6d/a15181.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
-    [ "GetInstanceScript", "d1/d6d/a15181.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
+    [ "FilterTargets", "d1/d6d/a15181.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
+    [ "PrepareSpellScript", "d1/d6d/a15181.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
+    [ "Register", "d1/d6d/a15181.html#a164b8b946dc801db878603488c978adb", null ]
 ];

@@ -1,7 +1,6 @@
 var a03773 =
 [
-    [ "instance_trial_of_the_champion", "da/dd3/a16815.html", "da/dd3/a16815" ],
-    [ "instance_trial_of_the_champion::instance_trial_of_the_champion_InstanceMapScript", "d3/d64/a16819.html", "d3/d64/a16819" ],
-    [ "AddSC_instance_trial_of_the_champion", "dc/df3/a03773.html#a15e8163b6e8598d38b9f8c3b0ab9d5bd", null ],
-    [ "SpawnPosition", "dc/df3/a03773.html#a70438d12d4153aa7d510c89551abf7c9", null ]
+    [ "instance_dire_maul", "d5/d83/a15417.html", "d5/d83/a15417" ],
+    [ "instance_dire_maul::instance_dire_maul_InstanceMapScript", "d9/d7f/a15421.html", "d9/d7f/a15421" ],
+    [ "AddSC_instance_dire_maul", "dc/df3/a03773.html#a4f4fdf8ebf7b15878ba29a663b037908", null ]
 ];

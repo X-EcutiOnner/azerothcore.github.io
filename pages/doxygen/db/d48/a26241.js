@@ -1,7 +1,7 @@
 var a26241 =
 [
-    [ "HandleProc", "db/d48/a26241.html#a58e243bf7eca18d2ff1a9c72f9453f10", null ],
-    [ "PrepareAuraScript", "db/d48/a26241.html#af6ca1636d67b2d9f81a8743706ffb800", null ],
-    [ "Register", "db/d48/a26241.html#ad3e4a18ce21270eede17e29faa7dd897", null ],
-    [ "Validate", "db/d48/a26241.html#aa9b2fa0685a0936ebf7b7e6df0fd9b22", null ]
+    [ "HandleScript", "db/d48/a26241.html#aad0be226a2d294d3361c1afbf644c5e4", null ],
+    [ "PrepareSpellScript", "db/d48/a26241.html#a85dee311aab08d796a3a0c1bc9e9390d", null ],
+    [ "Register", "db/d48/a26241.html#a2b22be9826db241ecf3f99ff16c309c0", null ],
+    [ "Validate", "db/d48/a26241.html#a98df659504307fc0666fe2b1001eaa00", null ]
 ];

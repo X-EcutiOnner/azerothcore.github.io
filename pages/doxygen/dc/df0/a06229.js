@@ -1,7 +1,11 @@
 var a06229 =
 [
-    [ "TransactionWithResultTask", "dc/df0/a06229.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
-    [ "Execute", "dc/df0/a06229.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
-    [ "GetFuture", "dc/df0/a06229.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
-    [ "m_result", "dc/df0/a06229.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
+    [ "SQLQueryHolderBase", "dc/df0/a06229.html#a05946ea4a26798e5567f632cf9f66eff", null ],
+    [ "~SQLQueryHolderBase", "dc/df0/a06229.html#aa9e2407821d0c40a728337f174571fc5", null ],
+    [ "GetPreparedResult", "dc/df0/a06229.html#a402f961642eaa239ff8726ad66e78640", null ],
+    [ "SetPreparedQueryImpl", "dc/df0/a06229.html#a6657bb34fab696a26af9751ded41f1d7", null ],
+    [ "SetPreparedResult", "dc/df0/a06229.html#a34bcdec6591ce40a58667197f240fbe0", null ],
+    [ "SetSize", "dc/df0/a06229.html#a9e62f0171bd39a13348d097ee99cb17c", null ],
+    [ "SQLQueryHolderTask", "dc/df0/a06229.html#a4d6be4ca13ec7a0d213da9d1e6ec922b", null ],
+    [ "m_queries", "dc/df0/a06229.html#a432a52e6f9dc7f51cbc8f2877d0894e1", null ]
 ];

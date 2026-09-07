@@ -1,7 +1,7 @@
 var a11409 =
 [
-    [ "TrainerBuySucceeded", "d0/da2/a11409.html#ae00367a55429030c107fc8f6bb7db288", null ],
-    [ "Write", "d0/da2/a11409.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
-    [ "SpellID", "d0/da2/a11409.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
-    [ "TrainerGUID", "d0/da2/a11409.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
+    [ "MinimapPingClient", "d0/da2/a11409.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
+    [ "Read", "d0/da2/a11409.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
+    [ "MapX", "d0/da2/a11409.html#ad4ff3977c260035145d6acd00429d81e", null ],
+    [ "MapY", "d0/da2/a11409.html#abd8640cb98238f339218c3b945885c97", null ]
 ];

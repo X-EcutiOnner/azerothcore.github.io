@@ -1,8 +1,7 @@
 var a15889 =
 [
-    [ "npc_aged_dying_ancient_kodo", "df/da9/a15889.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
-    [ "JustRespawned", "df/da9/a15889.html#ab401f9002bd49b26cc0526112e715d1e", null ],
-    [ "MoveInLineOfSight", "df/da9/a15889.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
-    [ "sGossipHello", "df/da9/a15889.html#a8bd41050426cdee7da37d1370e5a7363", null ],
-    [ "SpellHit", "df/da9/a15889.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
+    [ "HandleEffectRemove", "df/da9/a15889.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
+    [ "PrepareAuraScript", "df/da9/a15889.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
+    [ "Register", "df/da9/a15889.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
+    [ "AuraEffectHandleModes", "df/da9/a15889.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
 ];

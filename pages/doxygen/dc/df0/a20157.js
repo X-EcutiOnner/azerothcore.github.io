@@ -1,8 +1,5 @@
 var a20157 =
 [
-    [ "OnApply", "dc/df0/a20157.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "dc/df0/a20157.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "dc/df0/a20157.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "dc/df0/a20157.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "dc/df0/a20157.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "achievement_algalon_herald_of_the_titans", "dc/df0/a20157.html#a13c75b878f4669d212eeb09b55336384", null ],
+    [ "OnCheck", "dc/df0/a20157.html#a20811d7bb453b1758967c11545e630e9", null ]
 ];

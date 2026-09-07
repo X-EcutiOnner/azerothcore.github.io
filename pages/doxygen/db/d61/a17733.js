@@ -1,6 +1,6 @@
 var a17733 =
 [
-    [ "VampiricBiteTargetSelector", "db/d61/a17733.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
-    [ "operator()", "db/d61/a17733.html#ac16204f50f62cb2568998d1ea137f55d", null ],
-    [ "_source", "db/d61/a17733.html#af23a69491c915909566249b109b1f0e8", null ]
+    [ "npc_ball_of_flameAI", "d3/d36/a17737.html", "d3/d36/a17737" ],
+    [ "npc_ball_of_flame", "db/d61/a17733.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
+    [ "GetAI", "db/d61/a17733.html#ac0309668f9f0ca85a644d4928966e577", null ]
 ];

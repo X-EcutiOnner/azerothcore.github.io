@@ -1,9 +1,9 @@
 var a11353 =
 [
-    [ "RandomRoll", "de/d77/a11353.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
-    [ "Write", "de/d77/a11353.html#aab5879874745603dd448a7f5084d60d4", null ],
-    [ "Max", "de/d77/a11353.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
-    [ "Min", "de/d77/a11353.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
-    [ "Result", "de/d77/a11353.html#a34fd2c1d018bb292836724671163ff07", null ],
-    [ "Roller", "de/d77/a11353.html#af02aa97826259885791d0f4afc0c1a84", null ]
+    [ "EnchantmentLog", "de/d77/a11353.html#a4427184d166b18e984dc301a6786aac3", null ],
+    [ "Write", "de/d77/a11353.html#a17752d3e862c1915f8479058a4be1eb7", null ],
+    [ "Caster", "de/d77/a11353.html#ae35a0c689357cf4b5a031f40314a7045", null ],
+    [ "EnchantId", "de/d77/a11353.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
+    [ "ItemId", "de/d77/a11353.html#ad393d5f227bb81738582572bd2601650", null ],
+    [ "Target", "de/d77/a11353.html#a9ef981f750bee2101c1f886fa2514913", null ]
 ];

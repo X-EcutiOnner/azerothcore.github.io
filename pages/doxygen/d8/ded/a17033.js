@@ -1,4 +1,6 @@
 var a17033 =
 [
-    [ "boss_dreadscaleAI", "d8/ded/a17033.html#ab0d0f8a7ec6567e8811d09721f6fa9ed", null ]
+    [ "boss_jaraxxusAI", "d3/daa/a17037.html", "d3/daa/a17037" ],
+    [ "boss_jaraxxus", "d8/ded/a17033.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
+    [ "GetAI", "d8/ded/a17033.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
 ];

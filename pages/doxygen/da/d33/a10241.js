@@ -1,12 +1,7 @@
 var a10241 =
 [
-    [ "MapReference", "da/d33/a10241.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
-    [ "~MapReference", "da/d33/a10241.html#a1e93b44871737991140718322fd1cd69", null ],
-    [ "next", "da/d33/a10241.html#a352ef695a8968a17e921861b7d6242c1", null ],
-    [ "next", "da/d33/a10241.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
-    [ "nocheck_prev", "da/d33/a10241.html#a6cfff18295cf049ff554b0f140680890", null ],
-    [ "nockeck_prev", "da/d33/a10241.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
-    [ "sourceObjectDestroyLink", "da/d33/a10241.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
-    [ "targetObjectBuildLink", "da/d33/a10241.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
-    [ "targetObjectDestroyLink", "da/d33/a10241.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
+    [ "resetNotify", "da/d33/a10241.html#a1472e21d9af04662f3574bc2c7d3890c", null ],
+    [ "Visit", "da/d33/a10241.html#adfcdcf148b002c641638ddc70d577b14", null ],
+    [ "Visit", "da/d33/a10241.html#adf95512d4304962a5740b38c32ea28a7", null ],
+    [ "Visit", "da/d33/a10241.html#a725fc2c2504eecaa15841c27b367cd55", null ]
 ];

@@ -1,9 +1,10 @@
 var a23869 =
 [
-    [ "npc_fel_guard_houndAI", "d5/dbd/a23869.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
-    [ "MovementInform", "d5/dbd/a23869.html#a127a0d7b61fde64c0ced52192f438f12", null ],
-    [ "Reset", "d5/dbd/a23869.html#ab979c3602897b1148ffd5d4a81941197", null ],
-    [ "UpdateAI", "d5/dbd/a23869.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
-    [ "checkTimer", "d5/dbd/a23869.html#ad22bb6efafb4396cd0137c1384240029", null ],
-    [ "helboarGUID", "d5/dbd/a23869.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
+    [ "CheckProc", "d5/dbd/a23869.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
+    [ "Load", "d5/dbd/a23869.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
+    [ "PrepareAuraScript", "d5/dbd/a23869.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
+    [ "Register", "d5/dbd/a23869.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
+    [ "_lastForm", "d5/dbd/a23869.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
+    [ "_lastSchool", "d5/dbd/a23869.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
+    [ "_swapTime", "d5/dbd/a23869.html#af832dc200e928df3849ab7d7f93cb412", null ]
 ];

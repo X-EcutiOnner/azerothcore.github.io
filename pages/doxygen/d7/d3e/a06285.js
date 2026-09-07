@@ -1,7 +1,9 @@
 var a06285 =
 [
-    [ "arg1", "d7/d3e/a06285.html#aa2018e5823bcf013847605847231e3c2", null ],
-    [ "arg2", "d7/d3e/a06285.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
-    [ "arg3", "d7/d3e/a06285.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
-    [ "updateType", "d7/d3e/a06285.html#a84cace2469c54d57b33abe5ca93588ca", null ]
+    [ "CheckExecutable", "d7/d3e/a06285.html#a65cf44a18a72ba92f91a667e41f9da80", null ],
+    [ "corrected_path", "d7/d3e/a06285.html#a31499b458f0ff0ec518980f51d6a242a", null ],
+    [ "failed_updates", "d7/d3e/a06285.html#a19ef6f04dc5827b04a8cdcb34329464d", null ],
+    [ "GetCorrectedMySQLExecutable", "d7/d3e/a06285.html#a8ab8efffe5408f97f438e06766f65ec9", null ],
+    [ "GetFailedUpdateCount", "d7/d3e/a06285.html#a8653546fe6b32d170da7350700c19613", null ],
+    [ "MarkUpdateFailed", "d7/d3e/a06285.html#a99eb37994b14f350308d174d1c04c7fe", null ]
 ];

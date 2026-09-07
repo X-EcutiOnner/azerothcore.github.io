@@ -1,20 +1,23 @@
 var a02780 =
 [
-    [ "WardenCheck", "d4/df7/a12291.html", "d4/df7/a12291" ],
-    [ "WardenCheckResult", "d7/d69/a12295.html", "d7/d69/a12295" ],
-    [ "WardenCheckMgr", "d8/d4c/a12299.html", "d8/d4c/a12299" ],
-    [ "sWardenCheckMgr", "df/de4/a02780.html#a367963ecc82479f8bea3aea9e235a85c", null ],
-    [ "WardenActions", "df/de4/a02780.html#acd25f1c729cc9c78338c6bc117dcd5e1", [
-      [ "WARDEN_ACTION_LOG", "df/de4/a02780.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81", null ],
-      [ "WARDEN_ACTION_KICK", "df/de4/a02780.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13", null ],
-      [ "WARDEN_ACTION_BAN", "df/de4/a02780.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0", null ]
+    [ "boss_ghazan", "de/d72/a23485.html", "de/d72/a23485" ],
+    [ "at_underbog_ghazan", "d5/d2a/a23489.html", "d5/d2a/a23489" ],
+    [ "eBlackStalker", "df/de4/a02780.html#afbee42c6927db9ad2cf9d9096eeac954", [
+      [ "SPELL_ACID_BREATH", "df/de4/a02780.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c", null ],
+      [ "SPELL_ACID_SPIT", "df/de4/a02780.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806", null ],
+      [ "SPELL_TAIL_SWEEP", "df/de4/a02780.html#afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823", null ],
+      [ "SPELL_ENRAGE", "df/de4/a02780.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "ACTION_MOVE_TO_PLATFORM", "df/de4/a02780.html#afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa", null ],
+      [ "SPELL_LEVITATE", "d7/d69/a02783.html#afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2", null ],
+      [ "SPELL_CHAIN_LIGHTNING", "d7/d69/a02783.html#afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d", null ],
+      [ "SPELL_STATIC_CHARGE", "d7/d69/a02783.html#afbee42c6927db9ad2cf9d9096eeac954ad174c0c15c17e6a55eec42eab77d89e0", null ],
+      [ "SPELL_SUMMON_SPORE_STRIDER", "d7/d69/a02783.html#afbee42c6927db9ad2cf9d9096eeac954a754dcc3138f3b4acb829bc54bc02b9ed", null ],
+      [ "SPELL_LEVITATION_PULSE", "d7/d69/a02783.html#afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1", null ],
+      [ "SPELL_SOMEONE_GRAB_ME", "d7/d69/a02783.html#afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b", null ],
+      [ "SPELL_MAGNETIC_PULL", "d7/d69/a02783.html#afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5", null ],
+      [ "SPELL_SUSPENSION_PRIMER", "d7/d69/a02783.html#afbee42c6927db9ad2cf9d9096eeac954a38589209a4f90f4db2f89b249f6840de", null ],
+      [ "SPELL_SUSPENSION", "d7/d69/a02783.html#afbee42c6927db9ad2cf9d9096eeac954a0b7462c628390d15bd33088fb3d2a6a0", null ],
+      [ "ENTRY_SPORE_STRIDER", "d7/d69/a02783.html#afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2", null ]
     ] ],
-    [ "WardenCheckTypes", "df/de4/a02780.html#ad353d1b1b229bf72b97440ac296da2f0", [
-      [ "WARDEN_CHECK_MEM_TYPE", "df/de4/a02780.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3", null ],
-      [ "WARDEN_CHECK_LUA_TYPE", "df/de4/a02780.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af", null ],
-      [ "WARDEN_CHECK_OTHER_TYPE", "df/de4/a02780.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2", null ]
-    ] ],
-    [ "MAX_WARDEN_ACTION", "df/de4/a02780.html#afa0b1cff6db4dd71ef500011182f2834", null ],
-    [ "MAX_WARDEN_CHECK_TYPES", "df/de4/a02780.html#a80604a840828219101f07100a7a48dad", null ],
-    [ "WARDEN_MAX_LUA_CHECK_LENGTH", "df/de4/a02780.html#a005df8388201fb598a4eedfeac422fbc", null ]
+    [ "AddSC_boss_ghazan", "df/de4/a02780.html#a6b7605f750dab7f676edcd83f54c249a", null ]
 ];

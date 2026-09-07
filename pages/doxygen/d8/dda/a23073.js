@@ -1,14 +1,6 @@
 var a23073 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d8/dda/a23073.html#a3e83985648f2951ee33d440c9c98bf72", null ],
-    [ "GetData", "d8/dda/a23073.html#a9ea722d45efe2ee4eff041e480ff1c79", null ],
-    [ "Initialize", "d8/dda/a23073.html#a8a2214e169acace8578c1863daf0a04c", null ],
-    [ "OnCreatureCreate", "d8/dda/a23073.html#ae5f77169c337420852962fe7ddba3006", null ],
-    [ "OnCreatureRemove", "d8/dda/a23073.html#a921442812da891a6651ddd235d4a98f9", null ],
-    [ "OnGameObjectCreate", "d8/dda/a23073.html#a9aeb7b25aa1446fff655b4c8fd6c47ad", null ],
-    [ "SetBossState", "d8/dda/a23073.html#ad2863bc954ae25a5d96d06db0250cda3", null ],
-    [ "SetData", "d8/dda/a23073.html#af3ca65eef9902a029f5b836d0b6fd58a", null ],
-    [ "_aliveKeepersCount", "d8/dda/a23073.html#a71f3a72d3aa47b267e3b8a7d1c90b6ff", null ],
-    [ "_frenzyCount", "d8/dda/a23073.html#acdba0cea9bdbe929a30bd2f790a613f9", null ],
-    [ "_shieldGeneratorGUID", "d8/dda/a23073.html#a570b73c8ecd0e1ab6ac2889405be6ef0", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d8/dda/a23073.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d8/dda/a23073.html#a2220bc31f2ef91a154a9a4eae38aa14b", null ],
+    [ "UpdateAI", "d8/dda/a23073.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

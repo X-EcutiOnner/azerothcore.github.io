@@ -1,6 +1,6 @@
 var a23857 =
 [
-    [ "npc_wounded_blood_elfAI", "df/da5/a23861.html", "df/da5/a23861" ],
-    [ "npc_wounded_blood_elf", "d6/d52/a23857.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "d6/d52/a23857.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "instance_the_botanica_InstanceMapScript", "df/da5/a23861.html", "df/da5/a23861" ],
+    [ "instance_the_botanica", "d6/d52/a23857.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
+    [ "GetInstanceScript", "d6/d52/a23857.html#a335f671443ca0fb9db5956cefdf37182", null ]
 ];

@@ -1,6 +1,8 @@
 var a21577 =
 [
-    [ "npc_mindless_ghoulAI", "d7/dba/a21581.html", "d7/dba/a21581" ],
-    [ "npc_mindless_ghoul", "d6/de8/a21577.html#ac5bf71e719c0df04687f426a022fd65e", null ],
-    [ "GetAI", "d6/de8/a21577.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
+    [ "npc_azure_sorceror", "d6/de8/a21577.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
+    [ "Reset", "d6/de8/a21577.html#af4bc0ff9b938302c399bff528dd06769", null ],
+    [ "UpdateAI", "d6/de8/a21577.html#a36675e89aab24a92589a33f88fbec2bd", null ],
+    [ "_arcaneStreamOnCooldown", "d6/de8/a21577.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
+    [ "_events", "d6/de8/a21577.html#a3bd018057b31c90afd19ac6943d44591", null ]
 ];

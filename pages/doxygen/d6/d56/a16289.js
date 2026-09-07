@@ -1,12 +1,6 @@
 var a16289 =
 [
-    [ "npc_twilight_volunteer", "d6/d56/a16289.html#a3062041fcabf972e0a3d4753363c37b3", null ],
-    [ "AttackStart", "d6/d56/a16289.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
-    [ "DoAction", "d6/d56/a16289.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
-    [ "EnterEvadeMode", "d6/d56/a16289.html#abd88e6fe0565babb92ccae17df0421d6", null ],
-    [ "MovementInform", "d6/d56/a16289.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
-    [ "UpdateAI", "d6/d56/a16289.html#a93288a45982b172c201e2442a4c91114", null ],
-    [ "events", "d6/d56/a16289.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
-    [ "isSacraficeTarget", "d6/d56/a16289.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
-    [ "pInstance", "d6/d56/a16289.html#ad58453e078520fa23238a96115e5f38f", null ]
+    [ "go_troll_cageAI", "d9/dd4/a16293.html", "d9/dd4/a16293" ],
+    [ "go_troll_cage", "d6/d56/a16289.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
+    [ "GetAI", "d6/d56/a16289.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
 ];

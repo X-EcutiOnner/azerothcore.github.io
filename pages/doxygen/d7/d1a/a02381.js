@@ -1,5 +1,5 @@
 var a02381 =
 [
-    [ "GetEnableModulesList", "d7/d1a/a02381.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7", null ],
-    [ "SetEnableModulesList", "d7/d1a/a02381.html#ac16569c9333f642e54fa7a4ec6a948e3", null ]
+    [ "guild_commandscript", "df/d5b/a12485.html", "df/d5b/a12485" ],
+    [ "AddSC_guild_commandscript", "d7/d1a/a02381.html#af4f585942ab79df7bff025b621beef86", null ]
 ];

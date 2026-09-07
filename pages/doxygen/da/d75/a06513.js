@@ -1,10 +1,9 @@
 var a06513 =
 [
-    [ "RangeSelector", "da/d75/a06513.html#a4a87b90485180ede638e2c9bd2a7e9ed", null ],
-    [ "operator()", "da/d75/a06513.html#a917f21b135f402210d21e6bb3f19b9fa", null ],
-    [ "_inLos", "da/d75/a06513.html#a9dcf455d9db8d32aaebfc46eee36e1b5", null ],
-    [ "_maxDist", "da/d75/a06513.html#a973ec93b54a839f853101ad5998c10b2", null ],
-    [ "_me", "da/d75/a06513.html#a72ad35c7de0b5d540be27d9a9d46a1d4", null ],
-    [ "_minDist", "da/d75/a06513.html#ac1ce7a7a7ad6d033972b449867a1c5bf", null ],
-    [ "_playerOnly", "da/d75/a06513.html#ac68f7dfefe2e71942a3dfff7026a7ae7", null ]
+    [ "CritterAI", "da/d75/a06513.html#aa211359ea8b80ac0ed27e9b337e333f1", null ],
+    [ "EnterEvadeMode", "da/d75/a06513.html#a989d1fc00af900320dcf27cce7f247dc", null ],
+    [ "JustEngagedWith", "da/d75/a06513.html#a2f52eb5c527895168f18ed5ddcc560a9", null ],
+    [ "MovementInform", "da/d75/a06513.html#a54c44d28e4b2b3231afeb8de343dee43", null ],
+    [ "Permissible", "da/d75/a06513.html#ae43183a24398fe3af1cb8275b9b4c6c6", null ],
+    [ "UpdateAI", "da/d75/a06513.html#af860be127a671f5448cb731aa2f701b0", null ]
 ];

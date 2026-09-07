@@ -1,6 +1,7 @@
 var a16045 =
 [
-    [ "go_wind_stoneAI", "d1/d01/a16049.html", "d1/d01/a16049" ],
-    [ "go_wind_stone", "d6/db0/a16045.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
-    [ "GetAI", "d6/db0/a16045.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
+    [ "npc_giant_spotlightAI", "d6/db0/a16045.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "d6/db0/a16045.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "d6/db0/a16045.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "d6/db0/a16045.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

@@ -1,7 +1,13 @@
 var a02051 =
 [
-    [ "anonymous_namespace{ScriptMgr.cpp}::ScriptTypeInfo< Script, EnabledHookCountValue, PromotedAfterDbLoadValue, LegacyDbValidationValue >", "d3/d6e/a10895.html", "d3/d6e/a10895" ],
-    [ "TSpellSummary", "d1/d7f/a06591.html", "d1/d7f/a06591" ],
-    [ "ScriptRegistryTypes", "d4/d2e/a02051.html#aeb8e82d65431497fd236110fed3408b8", null ],
-    [ "SpellSummary", "d4/d2e/a02051.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
+    [ "FollowerAI", "d0/d54/a06637.html", "d0/d54/a06637" ],
+    [ "eFollowState", "d4/d2e/a02051.html#a1ec9c3a60a913ecbf16778626ccf0138", [
+      [ "STATE_FOLLOW_NONE", "d4/d2e/a02051.html#a1ec9c3a60a913ecbf16778626ccf0138a8d3724990b83869077eeef397588a9ae", null ],
+      [ "STATE_FOLLOW_INPROGRESS", "d4/d2e/a02051.html#a1ec9c3a60a913ecbf16778626ccf0138aa4c302e4ec6ca00eb8d737e1b43e9e0b", null ],
+      [ "STATE_FOLLOW_RETURNING", "d4/d2e/a02051.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523", null ],
+      [ "STATE_FOLLOW_PAUSED", "d4/d2e/a02051.html#a1ec9c3a60a913ecbf16778626ccf0138ab64828a6eee48ed5f0060f66fef4dbe6", null ],
+      [ "STATE_FOLLOW_COMPLETE", "d4/d2e/a02051.html#a1ec9c3a60a913ecbf16778626ccf0138a73636e044fe9883bf259a17bc617e7c9", null ],
+      [ "STATE_FOLLOW_PREEVENT", "d4/d2e/a02051.html#a1ec9c3a60a913ecbf16778626ccf0138a5ed17b2670a724e36c47de32fa5e821b", null ],
+      [ "STATE_FOLLOW_POSTEVENT", "d4/d2e/a02051.html#a1ec9c3a60a913ecbf16778626ccf0138a77b50e5da22490d74b38dcebae6e6c6a", null ]
+    ] ]
 ];

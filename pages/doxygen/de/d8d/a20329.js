@@ -1,8 +1,6 @@
 var a20329 =
 [
-    [ "npc_ulduar_flash_freeze", "de/d8d/a20329.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
-    [ "DamageTaken", "de/d8d/a20329.html#af381d671e1b64c6135ed6c76b1eef213", null ],
-    [ "UpdateAI", "de/d8d/a20329.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
-    [ "_instance", "de/d8d/a20329.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
-    [ "timer", "de/d8d/a20329.html#a016272492e1843b09c7c8b40537a463a", null ]
+    [ "PrepareSpellScript", "de/d8d/a20329.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
+    [ "RecalculateDamage", "de/d8d/a20329.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
+    [ "Register", "de/d8d/a20329.html#af2b5382122be41a6b1ee4ab721b417da", null ]
 ];

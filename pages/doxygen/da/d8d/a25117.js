@@ -1,7 +1,6 @@
 var a25117 =
 [
-    [ "HandleScriptEffect", "da/d8d/a25117.html#a4444d5f146e875bae40edbcc8ed408cb", null ],
-    [ "PrepareSpellScript", "da/d8d/a25117.html#af4320dd6567d8c9cb2a1492095a98459", null ],
-    [ "Register", "da/d8d/a25117.html#ab9360c3a883dd5a7df9836306d9762ec", null ],
-    [ "Validate", "da/d8d/a25117.html#a51ebef5e7fff9dfaab553ecae7be732f", null ]
+    [ "CheckProc", "da/d8d/a25117.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
+    [ "PrepareAuraScript", "da/d8d/a25117.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
+    [ "Register", "da/d8d/a25117.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
 ];

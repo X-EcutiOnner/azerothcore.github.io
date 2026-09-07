@@ -1,5 +1,5 @@
 var a28061 =
 [
-    [ "go_sacred_fire_of_life", "d6/dc3/a28061.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "d6/dc3/a28061.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "achievement_bg_sa_artillery", "d6/dc3/a28061.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
+    [ "OnCheck", "d6/dc3/a28061.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
 ];

@@ -1,23 +1,20 @@
 var a01967 =
 [
-    [ "WorldPackets::Item::SplitItem", "da/df8/a11295.html", "da/df8/a11295" ],
-    [ "WorldPackets::Item::SwapInventoryItem", "d6/d6b/a11299.html", "d6/d6b/a11299" ],
-    [ "WorldPackets::Item::AutoEquipItemSlot", "d9/d33/a11303.html", "d9/d33/a11303" ],
-    [ "WorldPackets::Item::SwapItem", "d5/d49/a11307.html", "d5/d49/a11307" ],
-    [ "WorldPackets::Item::AutoEquipItem", "dd/d8b/a11311.html", "dd/d8b/a11311" ],
-    [ "WorldPackets::Item::DestroyItem", "d1/de3/a11315.html", "d1/de3/a11315" ],
-    [ "WorldPackets::Item::ReadItem", "d5/d0f/a11319.html", "d5/d0f/a11319" ],
-    [ "WorldPackets::Item::SellItem", "d4/db3/a11323.html", "d4/db3/a11323" ],
-    [ "WorldPackets::Item::BuybackItem", "d3/d22/a11327.html", "d3/d22/a11327" ],
-    [ "WorldPackets::Item::BuyItemInSlot", "da/d3a/a11331.html", "da/d3a/a11331" ],
-    [ "WorldPackets::Item::BuyItem", "de/de5/a11335.html", "de/de5/a11335" ],
-    [ "WorldPackets::Item::ListInventory", "de/d33/a11339.html", "de/d33/a11339" ],
-    [ "WorldPackets::Item::AutoStoreBagItem", "d4/d61/a11343.html", "d4/d61/a11343" ],
-    [ "WorldPackets::Item::EnchantmentLog", "d0/d73/a11347.html", "d0/d73/a11347" ],
-    [ "WorldPackets::Item::ItemEnchantTimeUpdate", "db/d78/a11351.html", "db/d78/a11351" ],
-    [ "WorldPackets::Item::WrapItem", "d6/d95/a11355.html", "d6/d95/a11355" ],
-    [ "WorldPackets::Item::SocketGems", "d1/d2f/a11359.html", "d1/d2f/a11359" ],
-    [ "WorldPackets::Item::CancelTempEnchantment", "d9/d42/a11363.html", "d9/d42/a11363" ],
-    [ "WorldPackets::Item::ItemRefundInfo", "d1/db9/a11367.html", "d1/db9/a11367" ],
-    [ "WorldPackets::Item::ItemRefund", "df/d72/a11371.html", "df/d72/a11371" ]
+    [ "PetAI", "d3/d84/a06521.html", "d3/d84/a06521" ],
+    [ "SpecialPets", "de/d46/a01967.html#a22fe79e956db2d74e141a56fef6d1cff", [
+      [ "ENTRY_IMP", "de/d46/a01967.html#a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896", null ],
+      [ "ENTRY_WATER_ELEMENTAL", "de/d46/a01967.html#a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5", null ],
+      [ "ENTRY_WATER_ELEMENTAL_PERM", "de/d46/a01967.html#a22fe79e956db2d74e141a56fef6d1cffa2cec2788a794b1b4d9559fb23d4a5a99", null ],
+      [ "IMP_FIREBOLT_RANK_1", "de/d46/a01967.html#a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c", null ],
+      [ "IMP_FIREBOLT_RANK_2", "de/d46/a01967.html#a22fe79e956db2d74e141a56fef6d1cffa641520548259a83c82be403219e71406", null ],
+      [ "IMP_FIREBOLT_RANK_3", "de/d46/a01967.html#a22fe79e956db2d74e141a56fef6d1cffad5d762472639e0c0e4c4e12facf8cab6", null ],
+      [ "IMP_FIREBOLT_RANK_4", "de/d46/a01967.html#a22fe79e956db2d74e141a56fef6d1cffa7eccd511642f2e5d0537d5059511aba7", null ],
+      [ "IMP_FIREBOLT_RANK_5", "de/d46/a01967.html#a22fe79e956db2d74e141a56fef6d1cffaf3a0d7d7c4554f335bec7b31ac1821ac", null ],
+      [ "IMP_FIREBOLT_RANK_6", "de/d46/a01967.html#a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5", null ],
+      [ "IMP_FIREBOLT_RANK_7", "de/d46/a01967.html#a22fe79e956db2d74e141a56fef6d1cffa789304c4db65564436821950d063de7a", null ],
+      [ "IMP_FIREBOLT_RANK_8", "de/d46/a01967.html#a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25", null ],
+      [ "IMP_FIREBOLT_RANK_9", "de/d46/a01967.html#a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948", null ],
+      [ "WATER_ELEMENTAL_WATERBOLT_1", "de/d46/a01967.html#a22fe79e956db2d74e141a56fef6d1cffa1afbd4a095d65be61fa03e05a1c49e1d", null ],
+      [ "WATER_ELEMENTAL_WATERBOLT_2", "de/d46/a01967.html#a22fe79e956db2d74e141a56fef6d1cffa5d7df8261631aa8076f63045a79896e1", null ]
+    ] ]
 ];

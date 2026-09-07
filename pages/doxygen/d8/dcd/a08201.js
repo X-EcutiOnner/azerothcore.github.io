@@ -1,9 +1,6 @@
 var a08201 =
 [
-    [ "PvPCombatReference", "d8/dcd/a08201.html#a1439519e8f8665e345cd1bd3d28031aa", null ],
-    [ "RefreshTimer", "d8/dcd/a08201.html#ad8d05318d995aca2196c06768695b48e", null ],
-    [ "Update", "d8/dcd/a08201.html#a88d3291f9e29fa72f610b6c2a224fa4a", null ],
-    [ "CombatManager", "d8/dcd/a08201.html#ae013513b37e5f4a92a90f8c59f9291c1", null ],
-    [ "_combatTimer", "d8/dcd/a08201.html#accd9e37fa63f110daebb0086027f8ab6", null ],
-    [ "PVP_COMBAT_TIMEOUT", "d8/dcd/a08201.html#ae7026b02e2701be7a84d6da26bd3a432", null ]
+    [ "value_type", "d8/dcd/a08201.html#abd675e353289166cc5c92524915d46af", null ],
+    [ "StoreTo", "d8/dcd/a08201.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f", null ],
+    [ "tag", "d8/dcd/a08201.html#a102ade7c095fcac914b95708958352f1", null ]
 ];

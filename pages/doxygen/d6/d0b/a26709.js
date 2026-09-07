@@ -1,6 +1,6 @@
 var a26709 =
 [
-    [ "HandleDamage", "d6/d0b/a26709.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
-    [ "PrepareSpellScript", "d6/d0b/a26709.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
-    [ "Register", "d6/d0b/a26709.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
+    [ "HandleRemove", "d6/d0b/a26709.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
+    [ "PrepareAuraScript", "d6/d0b/a26709.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
+    [ "Register", "d6/d0b/a26709.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
 ];

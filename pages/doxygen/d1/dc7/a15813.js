@@ -1,6 +1,6 @@
 var a15813 =
 [
-    [ "npc_stillpine_capitiveAI", "d6/d48/a15817.html", "d6/d48/a15817" ],
-    [ "npc_stillpine_capitive", "d1/dc7/a15813.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
-    [ "GetAI", "d1/dc7/a15813.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
+    [ "HandleDummy", "d1/dc7/a15813.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
+    [ "PrepareSpellScript", "d1/dc7/a15813.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
+    [ "Register", "d1/dc7/a15813.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
 ];

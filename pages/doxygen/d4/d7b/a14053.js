@@ -1,8 +1,7 @@
 var a14053 =
 [
-    [ "npc_ranger_lilatha", "d4/d7b/a14053.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "d4/d7b/a14053.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "d4/d7b/a14053.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "d4/d7b/a14053.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ],
-    [ "WaypointReached", "d4/d7b/a14053.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_king_magni_bronzebeard", "d4/d7b/a14053.html#af100ccf11c9d266be439318519280a9a", null ],
+    [ "JustDied", "d4/d7b/a14053.html#a3323285cc5c4cee9df001e83584b8114", null ],
+    [ "JustEngagedWith", "d4/d7b/a14053.html#a8c92169605d30c82f4699ff2b29101a6", null ],
+    [ "UpdateAI", "d4/d7b/a14053.html#ad23891becf07d991c5ffc4f89719fa04", null ]
 ];

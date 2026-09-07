@@ -1,11 +1,7 @@
 var a18633 =
 [
-    [ "AddMissingStack", "d5/d36/a18633.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
-    [ "CheckAura", "d5/d36/a18633.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
-    [ "FilterTargets", "d5/d36/a18633.html#ab6c86c3680823329d5f3aad985aa316a", null ],
-    [ "Load", "d5/d36/a18633.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
-    [ "PrepareSpellScript", "d5/d36/a18633.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
-    [ "Register", "d5/d36/a18633.html#af0e6f1fc6687de1abcc1689116150088", null ],
-    [ "_hadInitialAura", "d5/d36/a18633.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
-    [ "_hadJumpingAura", "d5/d36/a18633.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
+    [ "TriggerWickedSpirit", "d5/d36/a18633.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
+    [ "Execute", "d5/d36/a18633.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
+    [ "_counter", "d5/d36/a18633.html#a24b85a62208f881418f97b0a8cb10f27", null ],
+    [ "_owner", "d5/d36/a18633.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
 ];

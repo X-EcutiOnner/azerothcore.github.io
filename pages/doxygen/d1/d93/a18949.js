@@ -1,5 +1,7 @@
 var a18949 =
 [
-    [ "achievement_portal_jockey", "d1/d93/a18949.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
-    [ "OnCheck", "d1/d93/a18949.html#a2695b1fee353be7340f319c632a43efc", null ]
+    [ "npc_blazing_skeletonAI", "d1/d93/a18949.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
+    [ "Reset", "d1/d93/a18949.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
+    [ "UpdateAI", "d1/d93/a18949.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
+    [ "_events", "d1/d93/a18949.html#aab1b04989d5e3fc289f00bc121df193d", null ]
 ];

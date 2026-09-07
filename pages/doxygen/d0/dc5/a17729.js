@@ -1,6 +1,10 @@
 var a17729 =
 [
-    [ "PrepareSpellScript", "d0/dc5/a17729.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
-    [ "Register", "d0/dc5/a17729.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
-    [ "SetDest", "d0/dc5/a17729.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
+    [ "npc_dark_nucleusAI", "d0/dc5/a17729.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
+    [ "AttackStart", "d0/dc5/a17729.html#a3dec28dd13257b944df0c559d26a76e0", null ],
+    [ "DamageTaken", "d0/dc5/a17729.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
+    [ "JustDied", "d0/dc5/a17729.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
+    [ "Reset", "d0/dc5/a17729.html#ac84f79f84e721ab1306c8eed8658b143", null ],
+    [ "UpdateAI", "d0/dc5/a17729.html#a3a08457c34d4dd904a99a78875d6318c", null ],
+    [ "timer", "d0/dc5/a17729.html#ac5f9824276987b81aef5cfee05158049", null ]
 ];

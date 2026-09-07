@@ -1,7 +1,5 @@
 var a20869 =
 [
-    [ "FilterTargets", "d0/de0/a20869.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
-    [ "HandleDummyEffect", "d0/de0/a20869.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
-    [ "PrepareSpellScript", "d0/de0/a20869.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
-    [ "Register", "d0/de0/a20869.html#a337cdb940a2001ac370768b02126d3c0", null ]
+    [ "go_thorim_lever", "d0/de0/a20869.html#a7641a89c3c369d26753a6e97dd435802", null ],
+    [ "OnGossipHello", "d0/de0/a20869.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
 ];

@@ -1,6 +1,7 @@
 var a23693 =
 [
-    [ "HandleScriptEffect", "d1/d02/a23693.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
-    [ "PrepareSpellScript", "d1/d02/a23693.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
-    [ "Register", "d1/d02/a23693.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
+    [ "HandleDummyApply", "d1/d02/a23693.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
+    [ "HandleDummyRemove", "d1/d02/a23693.html#a5d68d9e15600119deca7179ffe00acda", null ],
+    [ "PrepareAuraScript", "d1/d02/a23693.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
+    [ "Register", "d1/d02/a23693.html#a094004ccf6b4cae4d27bca639b76b899", null ]
 ];

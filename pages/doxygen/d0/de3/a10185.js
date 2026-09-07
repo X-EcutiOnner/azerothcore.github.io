@@ -1,7 +1,8 @@
 var a10185 =
 [
-    [ "ownerGUID", "d0/de3/a10185.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
-    [ "script", "d0/de3/a10185.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
-    [ "sourceGUID", "d0/de3/a10185.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
-    [ "targetGUID", "d0/de3/a10185.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
+    [ "ServerMailCondition", "d0/de3/a10185.html#a2ee7d2f3587159c95883fe32674cb586", null ],
+    [ "CheckCondition", "d0/de3/a10185.html#a3c223658629357f05d8879555717f624", null ],
+    [ "state", "d0/de3/a10185.html#a309f739872afaf644331335b27649561", null ],
+    [ "type", "d0/de3/a10185.html#a3b318e7743ca48fcf8ba849398a06968", null ],
+    [ "value", "d0/de3/a10185.html#af709199aed99633cc70d9118ee4fd4fc", null ]
 ];

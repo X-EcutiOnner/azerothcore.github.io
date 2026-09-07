@@ -1,8 +1,6 @@
 var a19557 =
 [
-    [ "HandleAfterCast", "d6/daf/a19557.html#ac816f81a668ac3018be8f5dc4698039b", null ],
-    [ "HandleDummy", "d6/daf/a19557.html#a3009faa525c22779a0b2534b96821cfd", null ],
-    [ "PrepareSpellScript", "d6/daf/a19557.html#aca38f23f080314ab73ec2494bf877716", null ],
-    [ "Register", "d6/daf/a19557.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
-    [ "Validate", "d6/daf/a19557.html#af945e399992deb3aef5c81ad393ee50f", null ]
+    [ "boss_kelthuzadAI", "de/df2/a19561.html", "de/df2/a19561" ],
+    [ "boss_kelthuzad", "d6/daf/a19557.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
+    [ "GetAI", "d6/daf/a19557.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
 ];

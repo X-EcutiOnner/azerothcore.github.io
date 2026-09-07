@@ -1,7 +1,6 @@
 var a25849 =
 [
-    [ "HandleDummy", "df/d6a/a25849.html#a02bb860f6d077d4c295ad8b82179174d", null ],
-    [ "PrepareSpellScript", "df/d6a/a25849.html#ad9eeff5aa428dabff7f2181d2819681d", null ],
-    [ "Register", "df/d6a/a25849.html#a2c699d4d848a01a80143d6fcc01b64a8", null ],
-    [ "Validate", "df/d6a/a25849.html#a9fd765b2c48f11837dbeb4caeedc0ae1", null ]
+    [ "HandleItemRemove", "df/d6a/a25849.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
+    [ "PrepareSpellScript", "df/d6a/a25849.html#a8b43e146724a2c8b3c495e886a79d021", null ],
+    [ "Register", "df/d6a/a25849.html#af8b02c31b81dce516ea47d6a1235d683", null ]
 ];

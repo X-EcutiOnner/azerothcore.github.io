@@ -1,5 +1,8 @@
 var a23513 =
 [
-    [ "at_shattered_halls_execution", "d0/d54/a23513.html#a73f1d1f03960acd070b7996257f7a526", null ],
-    [ "OnTrigger", "d0/d54/a23513.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
+    [ "boss_the_black_stalker", "d0/d54/a23513.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "d0/d54/a23513.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "d0/d54/a23513.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "d0/d54/a23513.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "d0/d54/a23513.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

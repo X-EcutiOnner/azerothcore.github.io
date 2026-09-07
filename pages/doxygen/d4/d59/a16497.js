@@ -1,5 +1,8 @@
 var a16497 =
 [
-    [ "at_baltharus_plateau", "d4/d59/a16497.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
-    [ "OnTrigger", "d4/d59/a16497.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
+    [ "boss_sartharion_vesperon", "d4/d59/a16497.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
+    [ "ClearInstance", "d4/d59/a16497.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
+    [ "ExecuteEvent", "d4/d59/a16497.html#aefc42452e75c476aef39ba0df3a03d70", null ],
+    [ "Reset", "d4/d59/a16497.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
+    [ "SummonedCreatureDies", "d4/d59/a16497.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
 ];

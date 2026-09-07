@@ -1,8 +1,10 @@
 var a27833 =
 [
-    [ "CharacterActionIpLogger", "db/d54/a27833.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "db/d54/a27833.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "db/d54/a27833.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "db/d54/a27833.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "db/d54/a27833.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "CheckProc", "db/d54/a27833.html#a257202ac9b80a67ce58d9e3491164d22", null ],
+    [ "HandleProc", "db/d54/a27833.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
+    [ "HandleTick", "db/d54/a27833.html#a5e436c530e5ef70bc4de4305676ed196", null ],
+    [ "PrepareAuraScript", "db/d54/a27833.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
+    [ "Register", "db/d54/a27833.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
+    [ "RemoveEffect", "db/d54/a27833.html#a333ad80d8478f59713ee049f935d7885", null ],
+    [ "Validate", "db/d54/a27833.html#aed3cb37f0230463978b210add84bd31d", null ]
 ];

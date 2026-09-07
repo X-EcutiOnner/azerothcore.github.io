@@ -1,5 +1,5 @@
 var a28073 =
 [
-    [ "go_tele_to_violet_stand", "db/df8/a28073.html#a63350db1dfd400c565e30775378d48cc", null ],
-    [ "OnGossipHello", "db/df8/a28073.html#a4d075584f065501a2c3be9ef82387f43", null ]
+    [ "achievement_everything_counts", "db/df8/a28073.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
+    [ "OnCheck", "db/df8/a28073.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
 ];

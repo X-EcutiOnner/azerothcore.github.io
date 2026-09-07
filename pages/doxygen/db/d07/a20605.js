@@ -1,5 +1,6 @@
 var a20605 =
 [
-    [ "go_ulduar_working_harpoon", "db/d07/a20605.html#a9aaaa16f23f07e402f20a048fd69d347", null ],
-    [ "OnGossipHello", "db/d07/a20605.html#a164bdd0a9538293699665a821c4f25f3", null ]
+    [ "boss_kologarn_pit_kill_bunny", "db/d07/a20605.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
+    [ "Reset", "db/d07/a20605.html#afd7482896b66f040b8d57b9b6ac37059", null ],
+    [ "UpdateAI", "db/d07/a20605.html#ad863666aec3db81f73165148ffc98033", null ]
 ];

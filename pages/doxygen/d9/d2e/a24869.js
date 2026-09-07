@@ -1,7 +1,7 @@
 var a24869 =
 [
-    [ "HandleApply", "d9/d2e/a24869.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
-    [ "HandlePeriodicTimer", "d9/d2e/a24869.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
-    [ "PrepareAuraScript", "d9/d2e/a24869.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
-    [ "Register", "d9/d2e/a24869.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
+    [ "HandleProc", "d9/d2e/a24869.html#a1982ba611c17042d0bff8bac66280218", null ],
+    [ "PrepareAuraScript", "d9/d2e/a24869.html#a459fde61325e3aeb1e339670138aacce", null ],
+    [ "Register", "d9/d2e/a24869.html#a151f0e7f04a9ee01189de20686a15bc4", null ],
+    [ "Validate", "d9/d2e/a24869.html#af57da6008a6ff796487b2da68644104b", null ]
 ];

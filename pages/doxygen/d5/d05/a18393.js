@@ -1,7 +1,5 @@
 var a18393 =
 [
-    [ "FrostwyrmLandEvent", "d5/d05/a18393.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
-    [ "Execute", "d5/d05/a18393.html#a4da77796a223e6233ac6d908f7700623", null ],
-    [ "_dest", "d5/d05/a18393.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
-    [ "_owner", "d5/d05/a18393.html#a6336050092606ebb27a180abff55dfa2", null ]
+    [ "RotfaceHeightCheck", "d5/d05/a18393.html#aabdeaee465989c339fc7a3f186e20498", null ],
+    [ "operator()", "d5/d05/a18393.html#a585743e0e76c64a5caa37acab46d04d5", null ]
 ];

@@ -1,5 +1,6 @@
 var a11557 =
 [
-    [ "QuestUpdateAddItem", "dc/dfa/a11557.html#a9b4b63df9e35135e17df5d87fb7e24df", null ],
-    [ "Write", "dc/dfa/a11557.html#af60dccc05c2033f9cf855977d7f827e0", null ]
+    [ "PetLearnedSpell", "dc/dfa/a11557.html#a5d105cca08515b9550998f2c86b13a1a", null ],
+    [ "Write", "dc/dfa/a11557.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
+    [ "SpellID", "dc/dfa/a11557.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
 ];

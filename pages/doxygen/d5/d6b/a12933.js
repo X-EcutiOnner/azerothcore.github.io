@@ -1,7 +1,6 @@
 var a12933 =
 [
-    [ "HandleAfterApply", "d5/d6b/a12933.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
-    [ "HandleAfterRemove", "d5/d6b/a12933.html#a7970613f1668294f29f61c1f10a9ba37", null ],
-    [ "PrepareAuraScript", "d5/d6b/a12933.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
-    [ "Register", "d5/d6b/a12933.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
+    [ "boss_firemaw", "d5/d6b/a12933.html#a2d2be691020b8aa81f82ffab91a86e42", null ],
+    [ "JustEngagedWith", "d5/d6b/a12933.html#a63d0f449d04ad3d86f4ede9a0f9696a9", null ],
+    [ "UpdateAI", "d5/d6b/a12933.html#a13a672cc37175615068429f9a3282e07", null ]
 ];

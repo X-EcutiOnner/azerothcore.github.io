@@ -1,11 +1,18 @@
 var a28821 =
 [
-    [ "icon", "d5/deb/a28821.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
-    [ "id", "d5/deb/a28821.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
-    [ "mapId", "d5/deb/a28821.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
-    [ "worldState", "d5/deb/a28821.html#a9d745d26316726c861cc5a242f6a4f57", null ],
-    [ "x", "d5/deb/a28821.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
-    [ "y", "d5/deb/a28821.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
-    [ "z", "d5/deb/a28821.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
-    [ "zoneId", "d5/deb/a28821.html#a0cc33089981237694ca550cba6793a3e", null ]
+    [ "DBCStorageBase", "d5/deb/a28821.html#ad688053187f77a4a016274f7e46a76a3", null ],
+    [ "~DBCStorageBase", "d5/deb/a28821.html#a39d4e4f05a50b952c2f952a452beb010", null ],
+    [ "GetFieldCount", "d5/deb/a28821.html#a867375a50bcf7ec8c40b6ff7305a5e81", null ],
+    [ "GetFormat", "d5/deb/a28821.html#ab333cdbf4cb7c6f527045902256fdf2f", null ],
+    [ "Load", "d5/deb/a28821.html#a779bd666cbdc6587eab6a81e51e894d8", null ],
+    [ "Load", "d5/deb/a28821.html#a14dfcde7f1c9c63a293638009b6ce16b", null ],
+    [ "LoadFromDB", "d5/deb/a28821.html#abea56cf48880a3ae02d322b6283032b4", null ],
+    [ "LoadFromDB", "d5/deb/a28821.html#a7156af21138d19a978b9551a2ca24708", null ],
+    [ "LoadStringsFrom", "d5/deb/a28821.html#a912b4793ddc3e3ff3bc9279693373b79", null ],
+    [ "LoadStringsFrom", "d5/deb/a28821.html#a0e3e3be24e2404fad11c322190e0e337", null ],
+    [ "_dataTable", "d5/deb/a28821.html#ab13a1018e69345a3665f50d696bc7236", null ],
+    [ "_fieldCount", "d5/deb/a28821.html#aa9bebefe18610016bef2c7d087d20abe", null ],
+    [ "_fileFormat", "d5/deb/a28821.html#a3ac1c70817c9b7a351ea0e0d2e602351", null ],
+    [ "_indexTableSize", "d5/deb/a28821.html#aa17bb429de3b9df9bb6ffcbc9bf9010b", null ],
+    [ "_stringPool", "d5/deb/a28821.html#a8d571b107344a2dbde0b2cbcfa3c9b52", null ]
 ];

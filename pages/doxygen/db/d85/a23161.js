@@ -1,6 +1,8 @@
 var a23161 =
 [
-    [ "HandleScript", "db/d85/a23161.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
-    [ "PrepareSpellScript", "db/d85/a23161.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
-    [ "Register", "db/d85/a23161.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
+    [ "Absorb", "db/d85/a23161.html#a1c054ce067a620e16611cbb9e784cee1", null ],
+    [ "CalculateAmount", "db/d85/a23161.html#abd828dd3493339db9c0613e960792941", null ],
+    [ "PrepareAuraScript", "db/d85/a23161.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
+    [ "Register", "db/d85/a23161.html#a85840e7d27a7ed256c45de87f4486d45", null ],
+    [ "Update", "db/d85/a23161.html#afbf28fd4eb66899a424e0b542d561656", null ]
 ];

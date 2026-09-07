@@ -1,6 +1,6 @@
 var a18449 =
 [
-    [ "HandleSpecial", "db/d42/a18449.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "db/d42/a18449.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "db/d42/a18449.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "DespawnSelf", "db/d42/a18449.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "db/d42/a18449.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "db/d42/a18449.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

@@ -1,8 +1,7 @@
 var a22449 =
 [
-    [ "boss_pandemonius", "d8/d85/a22449.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
-    [ "JustDied", "d8/d85/a22449.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
-    [ "JustEngagedWith", "d8/d85/a22449.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
-    [ "KilledUnit", "d8/d85/a22449.html#a26a012afe8c418c8da283c7b9f983e89", null ],
-    [ "PullRoom", "d8/d85/a22449.html#a05011127290350f11cc1a333b23dbb04", null ]
+    [ "npc_wg_demolisher_engineer", "d8/d85/a22449.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d8/d85/a22449.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d8/d85/a22449.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d8/d85/a22449.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

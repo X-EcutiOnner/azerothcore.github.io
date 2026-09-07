@@ -1,19 +1,14 @@
 var a16237 =
 [
-    [ "npc_weegli_blastfuseAI", "d9/d72/a16237.html#acde6b3e037d3c297e5d1beccdbe3d03a", null ],
-    [ "AttackStart", "d9/d72/a16237.html#a5e9140b38021ed6a2808e026fd77f8f1", null ],
-    [ "DestroyDoor", "d9/d72/a16237.html#a0cf76693b1af179c9857abdccc6931ee", null ],
-    [ "InitializeAI", "d9/d72/a16237.html#a61490f8c63f8056ac9f145ed8dd789c7", null ],
-    [ "JustReachedHome", "d9/d72/a16237.html#a4a88bc4bff8b5b2f75e3dd0c25927815", null ],
-    [ "MovementInform", "d9/d72/a16237.html#a33470a45eba0cbb62b041010f6aed302", null ],
-    [ "Reset", "d9/d72/a16237.html#abec9f353a1430afae12c21273bf32197", null ],
-    [ "sGossipHello", "d9/d72/a16237.html#a3a8381fa5e5d4daf19f312166247bea5", null ],
-    [ "sGossipSelect", "d9/d72/a16237.html#a0927116dcc55a1107dce7c65d1295e2a", null ],
-    [ "UpdateAI", "d9/d72/a16237.html#a73e482ebbb1566738e6775a574500dc8", null ],
-    [ "Bomb_Timer", "d9/d72/a16237.html#af6f68e291ce7d8cf25105ac64d7eebff", null ],
-    [ "destroyingDoor", "d9/d72/a16237.html#a0c7f207666da8ad74ff9dc64b582a042", null ],
-    [ "instance", "d9/d72/a16237.html#a609616e5136cf11bc16f9bb30ba92879", null ],
-    [ "LandMine_Timer", "d9/d72/a16237.html#ad9bab1d2c7a2baf35f6f7fb2cb4a27c7", null ],
-    [ "outroStage", "d9/d72/a16237.html#a30cdbce7bddb4d1d221925de86329a41", null ],
-    [ "outroTimer", "d9/d72/a16237.html#a08ef419fbef2ec38b7bcd408f135cd29", null ]
+    [ "npc_ringoAI", "d9/d72/a16237.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
+    [ "ClearFaint", "d9/d72/a16237.html#abd24108debcafafa601958824d44abbb", null ],
+    [ "MoveInLineOfSight", "d9/d72/a16237.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
+    [ "Reset", "d9/d72/a16237.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
+    [ "SetFaint", "d9/d72/a16237.html#a09d3770aade34afe5a3a15e17cc64933", null ],
+    [ "SpellHit", "d9/d72/a16237.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
+    [ "UpdateFollowerAI", "d9/d72/a16237.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
+    [ "EndEventProgress", "d9/d72/a16237.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
+    [ "EndEventTimer", "d9/d72/a16237.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
+    [ "FaintTimer", "d9/d72/a16237.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
+    [ "SpraggleGUID", "d9/d72/a16237.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
 ];

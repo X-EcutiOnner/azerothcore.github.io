@@ -1,10 +1,8 @@
 var a21265 =
 [
-    [ "npc_erekem_guard", "d6/db6/a21265.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5", null ],
-    [ "JustEngagedWith", "d6/db6/a21265.html#a05c81c2b1ec3bb48ae3003f8d825ffc0", null ],
-    [ "MoveInLineOfSight", "d6/db6/a21265.html#a31ea4b54a0adae7e3fee31d38af87c3e", null ],
-    [ "Reset", "d6/db6/a21265.html#aacdc16855938d9f133b751f91b5e9402", null ],
-    [ "UpdateAI", "d6/db6/a21265.html#ae57b5c4e61d9e9475c66b68797a51f09", null ],
-    [ "_events", "d6/db6/a21265.html#a13829cd26d18c42213be1f6640a2b979", null ],
-    [ "_instance", "d6/db6/a21265.html#af890899c6d5e0b67fa5b0336c5a31dfc", null ]
+    [ "CheckProc", "d6/db6/a21265.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
+    [ "HandleProc", "d6/db6/a21265.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
+    [ "PrepareAuraScript", "d6/db6/a21265.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
+    [ "Register", "d6/db6/a21265.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
+    [ "Validate", "d6/db6/a21265.html#ad4176f188412053b9205820fb6183d38", null ]
 ];

@@ -1,12 +1,19 @@
 var a02111 =
 [
-    [ "TicketScript", "d0/da5/a10863.html", "d0/da5/a10863" ],
-    [ "TicketHook", "d4/d64/a02111.html#af2de2d4afd6c8a1968e6e4b055620b72", [
-      [ "TICKETHOOK_ON_TICKET_CREATE", "d4/d64/a02111.html#af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61", null ],
-      [ "TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE", "d4/d64/a02111.html#af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374", null ],
-      [ "TICKETHOOK_ON_TICKET_CLOSE", "d4/d64/a02111.html#af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38", null ],
-      [ "TICKETHOOK_ON_TICKET_STATUS_UPDATE", "d4/d64/a02111.html#af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825", null ],
-      [ "TICKETHOOK_ON_TICKET_RESOLVE", "d4/d64/a02111.html#af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df", null ],
-      [ "TICKETHOOK_END", "d4/d64/a02111.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222", null ]
+    [ "AccountMgr", "d9/da2/a06313.html", "d9/da2/a06313" ],
+    [ "MAX_ACCOUNT_STR", "d4/d64/a02111.html#a134ebf22666a6525929447b2d869d400", null ],
+    [ "MAX_EMAIL_STR", "d4/d64/a02111.html#ad64d9bd18bac10ab1af09b042d734c64", null ],
+    [ "MAX_PASS_STR", "d4/d64/a02111.html#a45827712253b6d66092106cef5ae724b", null ],
+    [ "sAccountMgr", "d4/d64/a02111.html#aea3ae93168116461b6c0a7a984112175", null ],
+    [ "RBACDefaultPermissionsContainer", "d4/d64/a02111.html#ac0b6edf00d4a9c1e3c496e98fdf865aa", null ],
+    [ "RBACPermissionsContainer", "d4/d64/a02111.html#a1296774e1021cb68d7829832d153b2e3", null ],
+    [ "AccountOpResult", "d4/d64/a02111.html#a0161874ada0cecbbd1fd5d31da73703e", [
+      [ "AOR_OK", "d4/d64/a02111.html#a0161874ada0cecbbd1fd5d31da73703ea73449863bb0d97def55bd65307e97f18", null ],
+      [ "AOR_NAME_TOO_LONG", "d4/d64/a02111.html#a0161874ada0cecbbd1fd5d31da73703eaec4fb519d9e6032adc269ca4a27c38f4", null ],
+      [ "AOR_PASS_TOO_LONG", "d4/d64/a02111.html#a0161874ada0cecbbd1fd5d31da73703eaed91b79b9e639b8f988c5f06fcfd901c", null ],
+      [ "AOR_EMAIL_TOO_LONG", "d4/d64/a02111.html#a0161874ada0cecbbd1fd5d31da73703eaaf639a81cbf8cf6bd685e34d73e895a1", null ],
+      [ "AOR_NAME_ALREADY_EXIST", "d4/d64/a02111.html#a0161874ada0cecbbd1fd5d31da73703eae0b6297de7a7e8b516f5fc98a4d8750c", null ],
+      [ "AOR_NAME_NOT_EXIST", "d4/d64/a02111.html#a0161874ada0cecbbd1fd5d31da73703ea05e659ba76ce9dd582551a24f2923b24", null ],
+      [ "AOR_DB_INTERNAL_ERROR", "d4/d64/a02111.html#a0161874ada0cecbbd1fd5d31da73703ea368516df3522ada12ce8a39c789a687d", null ]
     ] ]
 ];

@@ -1,7 +1,8 @@
 var a14909 =
 [
-    [ "HandleScript", "de/df0/a14909.html#a78899a874a645d531dd4d89f2bd5478a", null ],
-    [ "PrepareSpellScript", "de/df0/a14909.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
-    [ "Register", "de/df0/a14909.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
-    [ "Validate", "de/df0/a14909.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
+    [ "HandleDummy", "de/df0/a14909.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
+    [ "Load", "de/df0/a14909.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
+    [ "PrepareSpellScript", "de/df0/a14909.html#af1d1ad32d41d79008d650b388353346b", null ],
+    [ "Register", "de/df0/a14909.html#a53a7c4c025324b205a29f92dd48aefde", null ],
+    [ "handled", "de/df0/a14909.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
 ];

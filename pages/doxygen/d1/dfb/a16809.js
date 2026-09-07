@@ -1,10 +1,6 @@
 var a16809 =
 [
-    [ "npc_nerubian_burrowerAI", "d1/dfb/a16809.html#a7673709e7b16a6573d9c7392ba556313", null ],
-    [ "CanAIAttack", "d1/dfb/a16809.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
-    [ "JustDied", "d1/dfb/a16809.html#ab5182ad65187c472b306e2177530d7b6", null ],
-    [ "Reset", "d1/dfb/a16809.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
-    [ "SpellHitTarget", "d1/dfb/a16809.html#a64fa2c8276f7418542190e833dd72c51", null ],
-    [ "UpdateAI", "d1/dfb/a16809.html#abd2c7333625ded502a00848b09ee9a40", null ],
-    [ "events", "d1/dfb/a16809.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
+    [ "npc_toc5_grand_champion_minionAI", "d8/d14/a16813.html", "d8/d14/a16813" ],
+    [ "npc_toc5_grand_champion_minion", "d1/dfb/a16809.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
+    [ "GetAI", "d1/dfb/a16809.html#a55acf397b94ba63b1db626dc1041b28e", null ]
 ];

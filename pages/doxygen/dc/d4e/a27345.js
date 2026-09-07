@@ -1,6 +1,8 @@
 var a27345 =
 [
-    [ "HandleKnockBack", "dc/d4e/a27345.html#abad9f9293260a3e99be98b43aabb321b", null ],
-    [ "PrepareSpellScript", "dc/d4e/a27345.html#a65787b78165631898458264e6ee310f4", null ],
-    [ "Register", "dc/d4e/a27345.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
+    [ "CheckCast", "dc/d4e/a27345.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
+    [ "CheckQuest", "dc/d4e/a27345.html#abc927d932c1d5e05eab1918364d68ed5", null ],
+    [ "HandleActiveObject", "dc/d4e/a27345.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
+    [ "PrepareSpellScript", "dc/d4e/a27345.html#a96e69476965cc2466213a5371a57093a", null ],
+    [ "Register", "dc/d4e/a27345.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
 ];

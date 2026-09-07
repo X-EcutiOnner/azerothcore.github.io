@@ -1,7 +1,7 @@
 var a26053 =
 [
-    [ "OnApply", "d6/d4b/a26053.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
-    [ "OnRemove", "d6/d4b/a26053.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
-    [ "PrepareAuraScript", "d6/d4b/a26053.html#aa93b45e31c33caf3ea51a26846566b34", null ],
-    [ "Register", "d6/d4b/a26053.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
+    [ "HandleProc", "d6/d4b/a26053.html#aee71de2c7f718a443dd48ed649c72a2f", null ],
+    [ "PrepareAuraScript", "d6/d4b/a26053.html#a7ba07407ce43ea4bfb03bc232ed409e3", null ],
+    [ "Register", "d6/d4b/a26053.html#ad907078d049340da77dcfd25a312e32b", null ],
+    [ "Validate", "d6/d4b/a26053.html#ad9987f6b17c9522be954a1b75aed1fc5", null ]
 ];

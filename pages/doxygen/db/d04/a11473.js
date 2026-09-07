@@ -1,6 +1,7 @@
 var a11473 =
 [
-    [ "PetAbandon", "db/d04/a11473.html#aeac05969ce6bdb41a02f7ffe56126dfd", null ],
-    [ "Read", "db/d04/a11473.html#a58ebb244de4bd65a85f75dcc24250883", null ],
-    [ "PetGUID", "db/d04/a11473.html#a7175c081b7cb691ceb4729c1abc5028e", null ]
+    [ "TrainerBuySpell", "db/d04/a11473.html#a8afb92fb908d5efd54bcb78269069d39", null ],
+    [ "Read", "db/d04/a11473.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
+    [ "SpellID", "db/d04/a11473.html#ae342c806c8faabae54260a26659d49ea", null ],
+    [ "TrainerGUID", "db/d04/a11473.html#aca1d9dc89b96415a5065a67f7083423c", null ]
 ];

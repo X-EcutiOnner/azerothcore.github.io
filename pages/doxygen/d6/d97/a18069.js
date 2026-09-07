@@ -1,7 +1,8 @@
 var a18069 =
 [
-    [ "HandleDummy", "d6/d97/a18069.html#a6e5d70c35420384305d7faf991072b38", null ],
-    [ "PrepareSpellScript", "d6/d97/a18069.html#a64f912555853aab5693692b22eba52c4", null ],
-    [ "Register", "d6/d97/a18069.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
-    [ "Validate", "d6/d97/a18069.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
+    [ "HandlePeriodic", "d6/d97/a18069.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "d6/d97/a18069.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "d6/d97/a18069.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "d6/d97/a18069.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "d6/d97/a18069.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

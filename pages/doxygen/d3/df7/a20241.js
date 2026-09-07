@@ -1,10 +1,13 @@
 var a20241 =
 [
-    [ "boss_freya_elder_ironbranch", "d3/df7/a20241.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
-    [ "JustDied", "d3/df7/a20241.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
-    [ "JustEngagedWith", "d3/df7/a20241.html#a34d87135b8dac114a8783941dba69559", null ],
-    [ "KilledUnit", "d3/df7/a20241.html#a20b5a622ac233d1280169f54942c894f", null ],
-    [ "Reset", "d3/df7/a20241.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
-    [ "UpdateAI", "d3/df7/a20241.html#a00dade8af24a2240187fb4e52138c0d1", null ],
-    [ "events", "d3/df7/a20241.html#a8693a800da6890004f3ae82fd9898480", null ]
+    [ "boss_flame_leviathan_seat", "d3/df7/a20241.html#a2fc2adc846b2939cf633bf47b4307896", null ],
+    [ "AttackStart", "d3/df7/a20241.html#a88d8a972e5f079c0111c0f189d599e8c", null ],
+    [ "EnterEvadeMode", "d3/df7/a20241.html#ac0f5d43d4be0773fdae62d0ab433713f", null ],
+    [ "PassengerBoarded", "d3/df7/a20241.html#a490fdbcb665f37f0b40a35a6cebe77cf", null ],
+    [ "Reset", "d3/df7/a20241.html#aec34fec1a6a3857ea7895a2762bf82d0", null ],
+    [ "UpdateAI", "d3/df7/a20241.html#a303c50b5684410013f95b0202ea33c8e", null ],
+    [ "_despawnCheckTimer", "d3/df7/a20241.html#ad902023776db0a5d846168167974f694", null ],
+    [ "_pending10ManDespawn", "d3/df7/a20241.html#a147da457d02a4977439c635fb150f005", null ],
+    [ "DESPAWN_DELAY_10MAN", "d3/df7/a20241.html#a1bda734e377ce71dd3c7f1257ab89d20", null ],
+    [ "vehicle", "d3/df7/a20241.html#a9772b52283f16120dbefb5d218844c38", null ]
 ];

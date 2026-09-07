@@ -1,12 +1,8 @@
 var a21593 =
 [
-    [ "npc_wintergarde_gryphon", "da/d8f/a21593.html#ada46ecdbc8c3a33a7b3ce09296c0db72", null ],
-    [ "getVillager", "da/d8f/a21593.html#a7f20f5e124e013ad8f57ca31b9fb86d7", null ],
-    [ "IsSummonedBy", "da/d8f/a21593.html#acd7cea6226034d53b854c5ed659ff949", null ],
-    [ "JustDied", "da/d8f/a21593.html#a6c87d55ef29e14b4b8b87a0321179542", null ],
-    [ "MovementInform", "da/d8f/a21593.html#a8f2faf49533d27d971110681e050c060", null ],
-    [ "PassengerBoarded", "da/d8f/a21593.html#a16c01d26aef06358f979f59fe68c09ca", null ],
-    [ "SpellHit", "da/d8f/a21593.html#acf64143ea83321556156fde30e1a34d4", null ],
-    [ "UpdateAI", "da/d8f/a21593.html#aa161f280e7a7370696cecc27c51ee55c", null ],
-    [ "villagerGUID", "da/d8f/a21593.html#a56a7973a05061197192111ecf55ef14a", null ]
+    [ "HandleEffectRemove", "da/d8f/a21593.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "da/d8f/a21593.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "da/d8f/a21593.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "da/d8f/a21593.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "da/d8f/a21593.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

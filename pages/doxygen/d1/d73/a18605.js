@@ -1,7 +1,7 @@
 var a18605 =
 [
-    [ "HandleScript", "d1/d73/a18605.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
-    [ "PrepareSpellScript", "d1/d73/a18605.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
-    [ "Register", "d1/d73/a18605.html#ad83d563da98ad189f2198a061b1cd50f", null ],
-    [ "Validate", "d1/d73/a18605.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
+    [ "HandleInfusion", "d1/d73/a18605.html#a9f77330d81fef646dd5d5399800cba66", null ],
+    [ "PrepareSpellScript", "d1/d73/a18605.html#ae0a272902b0a9f74058c1dbe62974358", null ],
+    [ "Register", "d1/d73/a18605.html#ad759f6215e722f799156b4bdddcb7af1", null ],
+    [ "Validate", "d1/d73/a18605.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
 ];

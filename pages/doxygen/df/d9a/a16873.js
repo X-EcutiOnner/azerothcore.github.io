@@ -1,7 +1,10 @@
 var a16873 =
 [
-    [ "npc_toc_shadow_priestAI", "df/d9a/a16873.html#af13a18be542fb314c19af52f89d216b8", null ],
-    [ "myCanCast", "df/d9a/a16873.html#a83422ff3e140b57a484d98876a9a8070", null ],
-    [ "UpdateAI", "df/d9a/a16873.html#afc23ba15d3ee925212e77b5211504c2b", null ],
-    [ "events", "df/d9a/a16873.html#a31665a22920b416d7423958a3e2928ec", null ]
+    [ "npc_nerubian_burrowerAI", "df/d9a/a16873.html#a7673709e7b16a6573d9c7392ba556313", null ],
+    [ "CanAIAttack", "df/d9a/a16873.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
+    [ "JustDied", "df/d9a/a16873.html#ab5182ad65187c472b306e2177530d7b6", null ],
+    [ "Reset", "df/d9a/a16873.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
+    [ "SpellHitTarget", "df/d9a/a16873.html#a64fa2c8276f7418542190e833dd72c51", null ],
+    [ "UpdateAI", "df/d9a/a16873.html#abd2c7333625ded502a00848b09ee9a40", null ],
+    [ "events", "df/d9a/a16873.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
 ];

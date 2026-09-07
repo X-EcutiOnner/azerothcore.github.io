@@ -1,16 +1,12 @@
 var a30281 =
 [
-    [ "adt_LIQUID", "d0/d6a/a30289.html", "d0/d6a/a30289" ],
-    [ "GetLiquidAttributes", "d7/dfd/a30281.html#a343859f1c04059988ca0e4050ffac22f", null ],
-    [ "GetLiquidDepth", "d7/dfd/a30281.html#a6f620512f4feb239bc732efcfe53ae7c", null ],
-    [ "GetLiquidExistsBitmap", "d7/dfd/a30281.html#aaa9e70d67222ddcfbd890e8e3262f8e0", null ],
-    [ "GetLiquidHeight", "d7/dfd/a30281.html#a73ad976bf67c8adba2443190e6db533f", null ],
-    [ "GetLiquidInstance", "d7/dfd/a30281.html#a65b3323ff560d26302f86dcfc79eb4c3", null ],
-    [ "GetLiquidTextureCoordMap", "d7/dfd/a30281.html#a1d0cfd669f16b346e9199f6ade39cbce", null ],
-    [ "GetLiquidType", "d7/dfd/a30281.html#acd96d3f82d0ad8c3cb601097e52427b5", null ],
-    [ "prepareLoadedData", "d7/dfd/a30281.html#a05b77a8778e3d85dae8437d96a4aae8a", null ],
-    [ "fcc", "d7/dfd/a30281.html#a6c09458d5788c58dbd2f9b96448a1ff4", null ],
-    [ "fcc_txt", "d7/dfd/a30281.html#a5abe0d5184d096f87c2c0ff1f9a115dc", null ],
-    [ "liquid", "d7/dfd/a30281.html#aaaff4b98a34d81985b552fd671411450", null ],
-    [ "size", "d7/dfd/a30281.html#a2110a26debb714695e38e5ec159131f2", null ]
+    [ "cellSizeHorizontal", "d7/dfd/a30281.html#a5356c03dab90621b69de7a79ed4ab195", null ],
+    [ "cellSizeVertical", "d7/dfd/a30281.html#a47b5a920afa39ae27a80241d58f152a3", null ],
+    [ "tileOverrides", "d7/dfd/a30281.html#a129437291e75a919e4158bf1df0f7f0a", null ],
+    [ "vertexPerMapEdge", "d7/dfd/a30281.html#a9d32da8787f54a7dadb86458319e0238", null ],
+    [ "vertexPerTileEdge", "d7/dfd/a30281.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
+    [ "walkableClimb", "d7/dfd/a30281.html#a2bd854b374d67d53b03a7bacf0785726", null ],
+    [ "walkableHeight", "d7/dfd/a30281.html#a1de27edad5c45f8033ce74352c563f52", null ],
+    [ "walkableRadius", "d7/dfd/a30281.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
+    [ "walkableSlopeAngle", "d7/dfd/a30281.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
 ];

@@ -1,19 +1,8 @@
 var a16345 =
 [
-    [ "boss_hadronox", "dc/dea/a16345.html#a5f99247a1eb3ca11741c656db9f91864", null ],
-    [ "DamageTaken", "dc/dea/a16345.html#a4c74557d814776061fe6df4c234885f1", null ],
-    [ "DoAction", "dc/dea/a16345.html#a822059f4efa5e311bf3f79698ed3aa6e", null ],
-    [ "GetData", "dc/dea/a16345.html#a9666b5af984f15afd52b9a81a12fd334", null ],
-    [ "IsInCombatWithPlayer", "dc/dea/a16345.html#a00d15de04d2f63c71b762d8c05161295", null ],
-    [ "JustEngagedWith", "dc/dea/a16345.html#a0ecc876405753200c1c2fe575635ffb0", null ],
-    [ "JustSummoned", "dc/dea/a16345.html#a3a5680abcef0529dcfca6c27f42f8f61", null ],
-    [ "KilledUnit", "dc/dea/a16345.html#a721fabc47cb7416879e73e143898ddef", null ],
-    [ "MovementInform", "dc/dea/a16345.html#a5e7c5226b0fb26a3c2d75726d5323af6", null ],
-    [ "Reset", "dc/dea/a16345.html#a0d73acbe4061d48c2c5deb4203d0c9fb", null ],
-    [ "SummonCrusherPack", "dc/dea/a16345.html#ab58a7949dd4797849cf98152e541b9a9", null ],
-    [ "SummonedCreatureEvade", "dc/dea/a16345.html#a23fb17d6eb7a03e7efe0bffb28adee0c", null ],
-    [ "UpdateAI", "dc/dea/a16345.html#aef361a41c7a3db94c00b594dd82ffabd", null ],
-    [ "_crushersLeft", "dc/dea/a16345.html#a386cafa7de8fcaf6ac5d823af01fc443", null ],
-    [ "_doorsWebbed", "dc/dea/a16345.html#a1515f5161e04e97734c538d7dede2902", null ],
-    [ "_lastPlayerCombatState", "dc/dea/a16345.html#a0cd1b2eae097b327e845e5a3038c6342", null ]
+    [ "HandleScriptEffect", "dc/dea/a16345.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
+    [ "Load", "dc/dea/a16345.html#ab293f8b536957558fa8886e1f4a23e74", null ],
+    [ "PrepareSpellScript", "dc/dea/a16345.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
+    [ "Register", "dc/dea/a16345.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
+    [ "Validate", "dc/dea/a16345.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
 ];

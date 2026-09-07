@@ -1,5 +1,4 @@
 var a01856 =
 [
-    [ "GuildMgr", "dc/dfe/a09999.html", "dc/dfe/a09999" ],
-    [ "sGuildMgr", "da/d66/a01856.html#aef171903a38e30c347ff11360f682f81", null ]
+    [ "operator<<", "da/d66/a01856.html#aa8a947319a6f00895a3c443f5cb258ad", null ]
 ];

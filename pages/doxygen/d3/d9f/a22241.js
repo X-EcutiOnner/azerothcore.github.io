@@ -1,6 +1,6 @@
 var a22241 =
 [
-    [ "HandlePeriodicDummy", "d3/d9f/a22241.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "d3/d9f/a22241.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "d3/d9f/a22241.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "PrepareSpellScript", "d3/d9f/a22241.html#aa26d34552b04dca1db32390e769ff4dc", null ],
+    [ "RecalculateDamage", "d3/d9f/a22241.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
+    [ "Register", "d3/d9f/a22241.html#a58d28dea272b1237cf60efb45d67765d", null ]
 ];

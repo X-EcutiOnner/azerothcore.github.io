@@ -1,12 +1,12 @@
 var a06469 =
 [
-    [ "NullCreatureAI", "d6/d1b/a06469.html#aa9969eeb9a79559c9f2d3bd907b3fd85", null ],
-    [ "AttackStart", "d6/d1b/a06469.html#a94d4594e1f39143ea41ce00aeecec4b4", null ],
-    [ "EnterEvadeMode", "d6/d1b/a06469.html#a726edd296c16ed2414fcc1827f88238f", null ],
-    [ "JustEnteredCombat", "d6/d1b/a06469.html#ac9ccd2d260170b218acf1997a0bded97", null ],
-    [ "JustStartedThreateningMe", "d6/d1b/a06469.html#a191e098763d9b73db74f843aa77115e6", null ],
-    [ "MoveInLineOfSight", "d6/d1b/a06469.html#a12c54c92a08e81751563ec9522236b28", null ],
-    [ "OnCharmed", "d6/d1b/a06469.html#a77b274955dcfdf2d10bbc43b64330f8d", null ],
-    [ "Permissible", "d6/d1b/a06469.html#a77595426da50819a0ff0744930d19b23", null ],
-    [ "UpdateAI", "d6/d1b/a06469.html#ab200fcf78dee74a2ec808c01f5855236", null ]
+    [ "CombatAI", "d6/d1b/a06469.html#a32e63efb85155ac3deeb818a9a1ba18a", null ],
+    [ "InitializeAI", "d6/d1b/a06469.html#a70caf22165251220365d03873b3d3f17", null ],
+    [ "JustDied", "d6/d1b/a06469.html#a9176b9b9c7a5e13fb05dae636c7ef2d4", null ],
+    [ "JustEngagedWith", "d6/d1b/a06469.html#ab157082819d821cf0b0093f084111e16", null ],
+    [ "Permissible", "d6/d1b/a06469.html#aaf52e2cbeb1ea9a816b5e8d914c03edb", null ],
+    [ "Reset", "d6/d1b/a06469.html#a7a39daea9b9bd09572472ae0d8689edd", null ],
+    [ "UpdateAI", "d6/d1b/a06469.html#af12583d15ccd183f6236c1889d539b9b", null ],
+    [ "events", "d6/d1b/a06469.html#af59650830fa1abdf8eec179a12e328e7", null ],
+    [ "spells", "d6/d1b/a06469.html#ae0ecfc744e4200bbf7ea36cdd84b13c0", null ]
 ];

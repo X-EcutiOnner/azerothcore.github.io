@@ -1,6 +1,7 @@
 var a27985 =
 [
-    [ "go_flamesAI", "d0/d19/a27985.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "d0/d19/a27985.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "d0/d19/a27985.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "HandleScript", "d0/d19/a27985.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
+    [ "PrepareSpellScript", "d0/d19/a27985.html#ab363d596d2d1e030f0cc07126b40e921", null ],
+    [ "Register", "d0/d19/a27985.html#ab9041b811e80e220828d5db59b724682", null ],
+    [ "Validate", "d0/d19/a27985.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
 ];

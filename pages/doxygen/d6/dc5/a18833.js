@@ -1,6 +1,7 @@
 var a18833 =
 [
-    [ "boss_valithria_dreamwalkerAI", "d8/da7/a18837.html", "d8/da7/a18837" ],
-    [ "boss_valithria_dreamwalker", "d6/dc5/a18833.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "d6/dc5/a18833.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "HandleProc", "d6/dc5/a18833.html#af06730a865009127c7d3e5423afd4d44", null ],
+    [ "PrepareAuraScript", "d6/dc5/a18833.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
+    [ "Register", "d6/dc5/a18833.html#a6c97b787ce00491a259c575d26189f8c", null ],
+    [ "Validate", "d6/dc5/a18833.html#aed9c98e20d916359629e119d6dd2a94f", null ]
 ];

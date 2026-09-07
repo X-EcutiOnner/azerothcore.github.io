@@ -1,6 +1,6 @@
 var a27349 =
 [
-    [ "CheckProc", "d3/dee/a27349.html#a945c4617cba249ee76045ce032f12c3c", null ],
-    [ "PrepareAuraScript", "d3/dee/a27349.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
-    [ "Register", "d3/dee/a27349.html#a912dd7ea10038103bb6d242bb7723830", null ]
+    [ "HandleScript", "d3/dee/a27349.html#a54c724bd8786c894ecaa584c164c2e53", null ],
+    [ "PrepareSpellScript", "d3/dee/a27349.html#a4505b9196609ae9339fe7e5948963663", null ],
+    [ "Register", "d3/dee/a27349.html#ae293d6a2a477f716f357516781246069", null ]
 ];

@@ -1,5 +1,5 @@
 var a28117 =
 [
-    [ "go_hive_pod", "db/dae/a28117.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
-    [ "OnGossipHello", "db/dae/a28117.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "db/dae/a28117.html#aa2e9a01adad7e195860bbc6c55131024", null ],
+    [ "OnTrigger", "db/dae/a28117.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
 ];

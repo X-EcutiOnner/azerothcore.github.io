@@ -1,8 +1,6 @@
 var a18929 =
 [
-    [ "DecayPeriodicTimer", "dc/d09/a18929.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "dc/d09/a18929.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "dc/d09/a18929.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "dc/d09/a18929.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "dc/d09/a18929.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "npc_valithria_portalAI", "de/d85/a18933.html", "de/d85/a18933" ],
+    [ "npc_valithria_portal", "dc/d09/a18929.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
+    [ "GetAI", "dc/d09/a18929.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
 ];

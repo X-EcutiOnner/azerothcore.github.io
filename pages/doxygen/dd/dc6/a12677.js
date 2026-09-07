@@ -1,12 +1,6 @@
 var a12677 =
 [
-    [ "boss_doomrel", "dd/dc6/a12677.html#adc8f26522b88ada86c2ee937daa8fbd1", null ],
-    [ "EnterEvadeMode", "dd/dc6/a12677.html#a5f6c139a7be348abeda3b883c2b3f5be", null ],
-    [ "JustEngagedWith", "dd/dc6/a12677.html#a559c1619a97e50b03db6c8abc7190f91", null ],
-    [ "Reset", "dd/dc6/a12677.html#af30f3385bb1ca366f335ca3e19849704", null ],
-    [ "sGossipSelect", "dd/dc6/a12677.html#ad80c97c7d8d8cd4db466d65ecda8dd4f", null ],
-    [ "UpdateAI", "dd/dc6/a12677.html#a92cdad912f54235ab9c4cd788f17e293", null ],
-    [ "_events", "dd/dc6/a12677.html#a1687755cadc484d431497a320e9509f3", null ],
-    [ "instance", "dd/dc6/a12677.html#aa0d131530564cc40af48bc31f9f67a7d", null ],
-    [ "Voidwalkers", "dd/dc6/a12677.html#afb365d8b32d2610b3d398b6f3a1f1bc6", null ]
+    [ "boss_vanndarAI", "d0/d7a/a12681.html", "d0/d7a/a12681" ],
+    [ "boss_vanndar", "dd/dc6/a12677.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
+    [ "GetAI", "dd/dc6/a12677.html#ad1879cc6123a323ada04c49a2c691349", null ]
 ];

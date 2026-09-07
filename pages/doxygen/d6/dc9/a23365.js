@@ -1,6 +1,6 @@
 var a23365 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "d3/d93/a23369.html", "d3/d93/a23369" ],
-    [ "instance_blood_furnace", "d6/dc9/a23365.html#a925a045fa518e72c1eff02fe3c66202b", null ],
-    [ "GetInstanceScript", "d6/dc9/a23365.html#a885ba94e1777dfd6586daca304622d3d", null ]
+    [ "HandlePeriodic", "d6/dc9/a23365.html#a25c698e911ec02d9cd7f757ba87281df", null ],
+    [ "PrepareAuraScript", "d6/dc9/a23365.html#a7bf79bc5e5f509b52965f03e998db399", null ],
+    [ "Register", "d6/dc9/a23365.html#ab3eec9f591384c7c1c684651c38aa614", null ]
 ];

@@ -1,14 +1,8 @@
 var a19205 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "d1/d53/a19205.html#a4a459289a55871990abc0adc4ba8278c", null ],
-    [ "AttackStart", "d1/d53/a19205.html#a3412c5664c1c1354b615e8f798824b91", null ],
-    [ "JustReachedHome", "d1/d53/a19205.html#a161fd53eca71cb0a3b8fb8d483b7e49b", null ],
-    [ "MoveInLineOfSight", "d1/d53/a19205.html#acfbaa73491940a916f8d0a0b852bcc61", null ],
-    [ "MovementInform", "d1/d53/a19205.html#ad14a1d8cfe749d54a801a3902aa49e1d", null ],
-    [ "Reset", "d1/d53/a19205.html#aa60d5d2d534aa6e9fe7c77703bab5fce", null ],
-    [ "UpdateAI", "d1/d53/a19205.html#a8946357cad01050641bcdf51edce192f", null ],
-    [ "currPipeWP", "d1/d53/a19205.html#af8a298ccbd6f22a0a4416ed6cb082e67", null ],
-    [ "events", "d1/d53/a19205.html#aa39171910383c74583f24663d6c23f3b", null ],
-    [ "forward", "d1/d53/a19205.html#a28eb6d3f007f45b9db4eafafe71b779c", null ],
-    [ "needMove", "d1/d53/a19205.html#ae08f9c54d08b0eae5ad71d69f06a6544", null ]
+    [ "CountTargets", "d1/d53/a19205.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "d1/d53/a19205.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "d1/d53/a19205.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "d1/d53/a19205.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "d1/d53/a19205.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

@@ -1,7 +1,7 @@
 var a16993 =
 [
-    [ "HandleEffectPeriodic", "dd/dd6/a16993.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "dd/dd6/a16993.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "dd/dd6/a16993.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "dd/dd6/a16993.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "npc_toc_rogueAI", "dd/dd6/a16993.html#a34027e7d10edbfba8e046f4785e37899", null ],
+    [ "myCanCast", "dd/dd6/a16993.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
+    [ "UpdateAI", "dd/dd6/a16993.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
+    [ "events", "dd/dd6/a16993.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
 ];

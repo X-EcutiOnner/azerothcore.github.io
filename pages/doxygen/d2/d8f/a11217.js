@@ -1,8 +1,5 @@
 var a11217 =
 [
-    [ "SetRaidDifficulty", "d2/d8f/a11217.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
-    [ "Write", "d2/d8f/a11217.html#a3da812593b22ef506a9d61e16b5485d1", null ],
-    [ "Difficulty", "d2/d8f/a11217.html#a1952e2d54b77437731b693f4eace83ac", null ],
-    [ "IsInGroup", "d2/d8f/a11217.html#a8833543c4f179be97476a26152ec049b", null ],
-    [ "Unk", "d2/d8f/a11217.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
+    [ "Icon", "d2/d8f/a11217.html#ae47c09144b18e42aa48499de3e3fe276", null ],
+    [ "Name", "d2/d8f/a11217.html#a19c79529bbfe25701c9f8253f3e0f9d8", null ]
 ];

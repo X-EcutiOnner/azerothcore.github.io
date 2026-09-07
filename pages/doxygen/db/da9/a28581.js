@@ -1,6 +1,9 @@
 var a28581 =
 [
-    [ "npc_fireworkAI", "d8/dfa/a28585.html", "d8/dfa/a28585" ],
-    [ "npc_firework", "db/da9/a28581.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
-    [ "GetAI", "db/da9/a28581.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
+    [ "npc_chicken_cluckAI", "db/da9/a28581.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
+    [ "JustEngagedWith", "db/da9/a28581.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
+    [ "ReceiveEmote", "db/da9/a28581.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
+    [ "Reset", "db/da9/a28581.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
+    [ "UpdateAI", "db/da9/a28581.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
+    [ "ResetFlagTimer", "db/da9/a28581.html#a0d0507ae7a1eca369df288515856e1b5", null ]
 ];

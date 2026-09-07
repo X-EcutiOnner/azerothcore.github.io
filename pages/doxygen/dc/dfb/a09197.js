@@ -1,6 +1,13 @@
 var a09197 =
 [
-    [ "Condition", "dc/dfb/a09197.html#a78172859719e85a21c0a39e41c692cf4", null ],
-    [ "EventId", "dc/dfb/a09197.html#aa5d7e88828c9f44b5913d4593496894f", null ],
-    [ "Num", "dc/dfb/a09197.html#a7cf6141e00b1a33063409c9828773b94", null ]
+    [ "BuildValuesCachePosPointers", "dc/dfb/a09197.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
+    [ "ApplyOffset", "dc/dfb/a09197.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
+    [ "other", "dc/dfb/a09197.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
+    [ "UnitDynamicFlagsPos", "dc/dfb/a09197.html#a230385a8646ebce01faaadce648b1a61", null ],
+    [ "UnitFieldAuraStatePos", "dc/dfb/a09197.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
+    [ "UnitFieldBytes2Pos", "dc/dfb/a09197.html#aa1df8492f0a3c576b067469ee3552796", null ],
+    [ "UnitFieldDisplayPos", "dc/dfb/a09197.html#a1058d1650d656498f7dcd5139363a315", null ],
+    [ "UnitFieldFactionTemplatePos", "dc/dfb/a09197.html#a9b8eae9da685231956dca3e92b845cbb", null ],
+    [ "UnitFieldFlagsPos", "dc/dfb/a09197.html#a04e607123d1d1dde24611b573d25fedb", null ],
+    [ "UnitNPCFlagsPos", "dc/dfb/a09197.html#aa9412413e1a867d1f3857d18f4d52906", null ]
 ];

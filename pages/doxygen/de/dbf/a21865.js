@@ -1,5 +1,4 @@
 var a21865 =
 [
-    [ "npc_black_knight_graveyardAI", "de/dbf/a21865.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
-    [ "MoveInLineOfSight", "de/dbf/a21865.html#aa5c80b5759656e3865d6721161f9f005", null ]
+    [ "operator()", "de/dbf/a21865.html#a8176fb574f0eac852ed3528dcadac288", null ]
 ];

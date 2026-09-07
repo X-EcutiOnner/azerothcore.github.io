@@ -1,7 +1,7 @@
 var a22889 =
 [
-    [ "PrepareAuraScript", "da/d30/a22889.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "da/d30/a22889.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "da/d30/a22889.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "da/d30/a22889.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "HandleDummy", "da/d30/a22889.html#adb4e8218eb498d430ececfa357bc1d8a", null ],
+    [ "PrepareSpellScript", "da/d30/a22889.html#a85f582794bf8ca2c80add8d9fe35f9f5", null ],
+    [ "Register", "da/d30/a22889.html#af5926d8570de13e66aa1870184620b94", null ],
+    [ "Validate", "da/d30/a22889.html#aa2839c6dba3d0c6ecfeb19f5ff3a39d2", null ]
 ];

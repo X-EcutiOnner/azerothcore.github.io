@@ -1,16 +1,8 @@
 var a29341 =
 [
-    [ "AuraApplicationStub", "d7/d47/a29341.html#afaa194023ae92143078166c9a142a41d", null ],
-    [ "~AuraApplicationStub", "d7/d47/a29341.html#ada36445f6f090c6652e0567a5333bb53", null ],
-    [ "GetEffectMask", "d7/d47/a29341.html#ad74cccf28b56c1fe88988df229319dae", null ],
-    [ "GetSlot", "d7/d47/a29341.html#a30f0ddd6c6bbc974958a33ecee39135e", null ],
-    [ "HasEffect", "d7/d47/a29341.html#ad4040b722b12e54aa630abfa78cdaabd", null ],
-    [ "IsPositive", "d7/d47/a29341.html#a1bf6810ab9723ce50ddf46789d2a5045", null ],
-    [ "SetEffect", "d7/d47/a29341.html#a97383d45b0a015579a0f315474ecfcc5", null ],
-    [ "SetEffectMask", "d7/d47/a29341.html#a1fab3395f580b30fa7b2257cbcacd26a", null ],
-    [ "SetPositive", "d7/d47/a29341.html#a653fb81ddfa4c7ad855d9f1fefe172f4", null ],
-    [ "SetSlot", "d7/d47/a29341.html#a824a2ec07e911fdb02054eff2091f2ea", null ],
-    [ "_effectMask", "d7/d47/a29341.html#a9027c5f622263c32b6f7bc4a11883ddc", null ],
-    [ "_isPositive", "d7/d47/a29341.html#afc3220aa9f0403a987ad07cec1c42ced", null ],
-    [ "_slot", "d7/d47/a29341.html#aa4afd58cae5bcfd203d61a1044d72d57", null ]
+    [ "areaTriggerText", "d7/d47/a29341.html#a32bb8c4a4defce661d108627e25b645a", null ],
+    [ "Difficulty", "d7/d47/a29341.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
+    [ "MapId", "d7/d47/a29341.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
+    [ "maxPlayers", "d7/d47/a29341.html#a7ab33229ffee11a27861439053c79831", null ],
+    [ "resetTime", "d7/d47/a29341.html#a891a741efb049b51996e1a6110efc52d", null ]
 ];

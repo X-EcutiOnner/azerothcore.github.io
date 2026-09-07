@@ -1,6 +1,6 @@
 var a14101 =
 [
-    [ "CheckProc", "d0/d3b/a14101.html#af6d00234388ceb5d1c9acd8775c66788", null ],
-    [ "PrepareAuraScript", "d0/d3b/a14101.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
-    [ "Register", "d0/d3b/a14101.html#acad1e829a317d15e73549047ece67eda", null ]
+    [ "npc_ravenclaw_apparitionAI", "d7/d04/a14105.html", "d7/d04/a14105" ],
+    [ "npc_ravenclaw_apparition", "d0/d3b/a14101.html#a961044571250519e62d7d33633974038", null ],
+    [ "GetAI", "d0/d3b/a14101.html#a9de4a85f8318ff8b1ad30aa4c8f15765", null ]
 ];

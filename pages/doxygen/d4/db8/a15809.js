@@ -1,8 +1,8 @@
 var a15809 =
 [
-    [ "npc_death_ravagerAI", "d4/db8/a15809.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "d4/db8/a15809.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "d4/db8/a15809.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "d4/db8/a15809.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "d4/db8/a15809.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "npc_ahnqiraji_critter", "d4/db8/a15809.html#a60e2dc1c52579a410d3435126bf39684", null ],
+    [ "JustDied", "d4/db8/a15809.html#a71d3d5262bde847a18932fea89cb6648", null ],
+    [ "JustEngagedWith", "d4/db8/a15809.html#aca1df706306f9181db26cd77e5b66452", null ],
+    [ "Reset", "d4/db8/a15809.html#a645e16e9da29f6579320394201d0ada7", null ],
+    [ "UpdateAI", "d4/db8/a15809.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
 ];

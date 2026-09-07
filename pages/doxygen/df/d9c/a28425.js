@@ -1,5 +1,6 @@
 var a28425 =
 [
-    [ "npc_controller", "df/d9c/a28425.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "df/d9c/a28425.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "guard_shattrath_aldorAI", "dc/de5/a28429.html", "dc/de5/a28429" ],
+    [ "guard_shattrath_aldor", "df/d9c/a28425.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "df/d9c/a28425.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

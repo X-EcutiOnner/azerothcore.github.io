@@ -1,5 +1,6 @@
 var a12761 =
 [
-    [ "at_the_beast_room", "d8/db5/a12761.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
-    [ "OnTrigger", "d8/db5/a12761.html#a366c5e35c4030f998404886f1526ae37", null ]
+    [ "boss_high_priestess_thaurissan", "d8/db5/a12761.html#a72b25580dc84301be59d72df45a3ac87", null ],
+    [ "JustEngagedWith", "d8/db5/a12761.html#aa8ba467dd5633e96a20c634880710936", null ],
+    [ "UpdateAI", "d8/db5/a12761.html#a66612582a2362e4f07d7a2bda529af06", null ]
 ];

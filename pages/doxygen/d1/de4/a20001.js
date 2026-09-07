@@ -1,8 +1,8 @@
 var a20001 =
 [
-    [ "go_celestial_planetarium_accessAI", "d1/de4/a20001.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
-    [ "GossipHello", "d1/de4/a20001.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
-    [ "UpdateAI", "d1/de4/a20001.html#a9b2bfb74a12e3258476387fc78cde574", null ],
-    [ "_locked", "d1/de4/a20001.html#a37f83dbbb05e461d613a4c38001f785c", null ],
-    [ "events", "d1/de4/a20001.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d1/de4/a20001.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
+    [ "CheckAchievementCriteriaMeet", "d1/de4/a20001.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
+    [ "SetData", "d1/de4/a20001.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
+    [ "_bjarngrimAchievement", "d1/de4/a20001.html#aba06463eb70c68716f571951395c6e2a", null ],
+    [ "_volkhanAchievement", "d1/de4/a20001.html#a52db8081961566ef2002424f00b60189", null ]
 ];

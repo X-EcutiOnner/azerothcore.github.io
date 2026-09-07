@@ -1,7 +1,9 @@
 var a26965 =
 [
-    [ "HandleScriptEffect", "db/d6d/a26965.html#ae7bfcdf3306fe4c8532649ff7e892c57", null ],
-    [ "PrepareSpellScript", "db/d6d/a26965.html#ad2bfab00a973366af32388e40b9d2566", null ],
-    [ "Register", "db/d6d/a26965.html#acbf74d85d9d8ce8e9ce0546c90cb7efa", null ],
-    [ "Validate", "db/d6d/a26965.html#a487fa0e6b5f2682349b22737ceeae50c", null ]
+    [ "CheckCast", "db/d6d/a26965.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
+    [ "HandleDummy", "db/d6d/a26965.html#a7f79495525687fba6229f48935b2558a", null ],
+    [ "Load", "db/d6d/a26965.html#a0c73457e44a3d64bdccee78d28893672", null ],
+    [ "PrepareSpellScript", "db/d6d/a26965.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
+    [ "Register", "db/d6d/a26965.html#ab9f09394ab301350a2abaefde90632fe", null ],
+    [ "Validate", "db/d6d/a26965.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
 ];

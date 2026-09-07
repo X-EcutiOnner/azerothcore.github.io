@@ -1,5 +1,7 @@
 var a14157 =
 [
-    [ "npc_tyrion", "da/d7c/a14157.html#a85b1abd4910729c17099174def6507b1", null ],
-    [ "OnQuestAccept", "da/d7c/a14157.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
+    [ "HandleScriptEffect", "da/d7c/a14157.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
+    [ "PrepareSpellScript", "da/d7c/a14157.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
+    [ "Register", "da/d7c/a14157.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
+    [ "Validate", "da/d7c/a14157.html#a20f7416465ba1cc04426f24037e8074e", null ]
 ];

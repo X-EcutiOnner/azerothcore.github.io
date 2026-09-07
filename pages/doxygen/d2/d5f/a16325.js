@@ -1,6 +1,7 @@
 var a16325 =
 [
-    [ "HandlePeriodic", "d2/d5f/a16325.html#ad22b433005b2678bde3516a01eaaaa60", null ],
-    [ "PrepareAuraScript", "d2/d5f/a16325.html#a3711004edaef7242d9cae1f23f9b7467", null ],
-    [ "Register", "d2/d5f/a16325.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
+    [ "npc_ahnkahar_nerubian", "d2/d5f/a16325.html#ae18cdf09bae50751e266e95caf165f8e", null ],
+    [ "Reset", "d2/d5f/a16325.html#a387831015ec8e4bc65cff8c8550bb176", null ],
+    [ "UpdateAI", "d2/d5f/a16325.html#a9a773127e4f94bcdf142718355eae0e8", null ],
+    [ "uiSprintTimer", "d2/d5f/a16325.html#a27a6f57a6b145cc595896d1ad453064f", null ]
 ];

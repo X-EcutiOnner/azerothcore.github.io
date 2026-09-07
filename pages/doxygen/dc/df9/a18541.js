@@ -1,9 +1,6 @@
 var a18541 =
 [
-    [ "ShadowTrapLKTargetSelector", "dc/df9/a18541.html#a33561775948e07ac6ade2037f237441d", null ],
-    [ "operator()", "dc/df9/a18541.html#a3770329509c6ab2f16ae369ea8d72645", null ],
-    [ "_maxDist", "dc/df9/a18541.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
-    [ "_playerOnly", "dc/df9/a18541.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
-    [ "_reqLOS", "dc/df9/a18541.html#a7911be23196f59d55028affc3be23c20", null ],
-    [ "_source", "dc/df9/a18541.html#af416013aabf3b217b07228072076603d", null ]
+    [ "MysticBuffetTargetFilter", "dc/df9/a18541.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
+    [ "operator()", "dc/df9/a18541.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
+    [ "_caster", "dc/df9/a18541.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
 ];

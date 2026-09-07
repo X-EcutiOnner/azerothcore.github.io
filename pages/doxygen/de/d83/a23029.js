@@ -1,7 +1,10 @@
 var a23029 =
 [
-    [ "HandleEffectApply", "de/d83/a23029.html#a3893fffea480b47d06c4903deb051aa9", null ],
-    [ "HandleEffectRemove", "de/d83/a23029.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
-    [ "PrepareAuraScript", "de/d83/a23029.html#a246c20ab26d1490fe38afd558a7ae406", null ],
-    [ "Register", "de/d83/a23029.html#aea639a3ae0f003c6213143427f3b1d23", null ]
+    [ "CalculateAmount", "de/d83/a23029.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
+    [ "CheckProc", "de/d83/a23029.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
+    [ "HandleProc", "de/d83/a23029.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
+    [ "PrepareAuraScript", "de/d83/a23029.html#a6e066884663276dbba82e46ca5f66e59", null ],
+    [ "Register", "de/d83/a23029.html#ac4154f0746e77229e8d349021d5b9c30", null ],
+    [ "Update", "de/d83/a23029.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
+    [ "Validate", "de/d83/a23029.html#a4f10d23f63c47b408b70373623b877a8", null ]
 ];

@@ -1,10 +1,8 @@
 var a10093 =
 [
-    [ "iterator", "d1/d98/a10093.html#a9fada63aa17222fc5e216f3904affafd", null ],
-    [ "begin", "d1/d98/a10093.html#aee3a4701c5bc51f4028fe53f18675989", null ],
-    [ "end", "d1/d98/a10093.html#ad61defd77296790a6c5d0a43bacbbe4b", null ],
-    [ "getFirst", "d1/d98/a10093.html#ae47bba95a17db31a42231da948245387", null ],
-    [ "getLast", "d1/d98/a10093.html#ac03e93ac8ad6fc91ec9d2961b8904217", null ],
-    [ "rbegin", "d1/d98/a10093.html#af68f1d93a80e13976798dfed0063a1e4", null ],
-    [ "rend", "d1/d98/a10093.html#a92c30fb269bc99820b6964a99ee86d98", null ]
+    [ "BossInfo", "d1/d98/a10093.html#a455f533d647927d182176c3cceb21f42", null ],
+    [ "boundary", "d1/d98/a10093.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
+    [ "door", "d1/d98/a10093.html#a858af8825ed4fe183ee19b6f10239304", null ],
+    [ "minion", "d1/d98/a10093.html#abec1469d41f286d02c34223171373cd3", null ],
+    [ "state", "d1/d98/a10093.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
 ];

@@ -1,11 +1,9 @@
 var a12213 =
 [
-    [ "group_commandscript", "d9/dfd/a12213.html#ad2890427cfe3649b2e0fe0896693372c", null ],
-    [ "GetCommands", "d9/dfd/a12213.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
-    [ "HandleGroupDisbandCommand", "d9/dfd/a12213.html#a538539340a697e02453ddcfa669fb646", null ],
-    [ "HandleGroupJoinCommand", "d9/dfd/a12213.html#a382e8532c653464e90b45569e813ae37", null ],
-    [ "HandleGroupLeaderCommand", "d9/dfd/a12213.html#a899858a63add3c68e0e1446d29216c00", null ],
-    [ "HandleGroupListCommand", "d9/dfd/a12213.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
-    [ "HandleGroupRemoveCommand", "d9/dfd/a12213.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
-    [ "HandleGroupReviveCommand", "d9/dfd/a12213.html#a13968d61ec037aacc8070bc675290f94", null ]
+    [ "CreatureTextLocalizer", "d9/dfd/a12213.html#a799f1007b9977224d71da1451c3454e1", null ],
+    [ "~CreatureTextLocalizer", "d9/dfd/a12213.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
+    [ "operator()", "d9/dfd/a12213.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
+    [ "_builder", "d9/dfd/a12213.html#a1d8d97d3e423810d044a8155b182899d", null ],
+    [ "_msgType", "d9/dfd/a12213.html#adf9260955b0141e85ff47c66350244e2", null ],
+    [ "_packetCache", "d9/dfd/a12213.html#a660b352a1c1855f4b10a8aebef88133f", null ]
 ];

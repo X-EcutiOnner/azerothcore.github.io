@@ -1,7 +1,9 @@
 var a27013 =
 [
-    [ "HandleEffectPeriodic", "df/d2b/a27013.html#a2fab66e86d3c0207183db72ecbb6fc6c", null ],
-    [ "PrepareAuraScript", "df/d2b/a27013.html#ae0e3b459c71933c25da8136cdcddf200", null ],
-    [ "Register", "df/d2b/a27013.html#ac924ebbc893476cabab5f05120d0cd8d", null ],
-    [ "Validate", "df/d2b/a27013.html#ada327cf500aec62fdf34f9d8a4ccd6e2", null ]
+    [ "CheckProcDummy", "df/d2b/a27013.html#ae4e6d0683039ca5e8ff1877248048b3b", null ],
+    [ "CheckProcTriggerSpell", "df/d2b/a27013.html#affbff48ab9421bda51b3a5781188546d", null ],
+    [ "HandleProcDummy", "df/d2b/a27013.html#a0113a45bd4c28d1769df7b675de697ed", null ],
+    [ "PrepareAuraScript", "df/d2b/a27013.html#af7d9ac7e014bbda32275bb584f5e2660", null ],
+    [ "Register", "df/d2b/a27013.html#aa575597dab0670e768e20a3a06c6dc0a", null ],
+    [ "Validate", "df/d2b/a27013.html#a63844728796945e892985720296d0c07", null ]
 ];

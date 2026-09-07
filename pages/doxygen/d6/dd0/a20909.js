@@ -1,6 +1,10 @@
 var a20909 =
 [
-    [ "CheckCast", "d6/dd0/a20909.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "d6/dd0/a20909.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "d6/dd0/a20909.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "npc_boombot", "d6/dd0/a20909.html#a6747aef56fd6710020c8aa5b4d96e0a1", null ],
+    [ "DamageTaken", "d6/dd0/a20909.html#a9f657c3f979b1f35f1cd5129474b33f1", null ],
+    [ "Reset", "d6/dd0/a20909.html#af47d7810bfe4f4ad7185ec7167cd49bf", null ],
+    [ "UpdateAI", "d6/dd0/a20909.html#a11b997bea629230932a1e01e89a556f2", null ],
+    [ "_boomed", "d6/dd0/a20909.html#a3e08d47064301a42e71fa33f9d58a5a3", null ],
+    [ "_instance", "d6/dd0/a20909.html#aeacd93855b35591fbfc54a8c1f622621", null ],
+    [ "_scheduler", "d6/dd0/a20909.html#af45ea755ec5c6a16b2b1fde7ef0e93f8", null ]
 ];

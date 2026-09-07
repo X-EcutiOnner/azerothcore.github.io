@@ -1,6 +1,6 @@
 var a17469 =
 [
-    [ "npc_pos_freed_slaveAI", "d8/d10/a17473.html", "d8/d10/a17473" ],
-    [ "npc_pos_freed_slave", "d1/d04/a17469.html#a19fd79279646cb1c49c04056636615fc", null ],
-    [ "GetAI", "d1/d04/a17469.html#ac798c2584d48892162cc2bc779701e16", null ]
+    [ "instance_pit_of_saron_InstanceScript", "d8/d10/a17473.html", "d8/d10/a17473" ],
+    [ "instance_pit_of_saron", "d1/d04/a17469.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
+    [ "GetInstanceScript", "d1/d04/a17469.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
 ];

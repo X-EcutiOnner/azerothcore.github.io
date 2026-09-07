@@ -1,16 +1,28 @@
 var a00674 =
 [
-    [ "CalcFullTime", "d8/d73/a00674.html#acf515241ac86050cd79d68b509c5ea29", null ],
-    [ "NewResetFormula", "d8/d73/a00674.html#aae298365d32c23f29d12e5f81b91db99", null ],
-    [ "OldResetFormula", "d8/d73/a00674.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2", null ],
-    [ "TEST", "d8/d73/a00674.html#aa46aba4f46e0c4cf1611bf2ff0b11f53", null ],
-    [ "TEST", "d8/d73/a00674.html#a9bf8b2c46faea4396f67f27c689c7d65", null ],
-    [ "TEST", "d8/d73/a00674.html#ab956bb191fe7eb20bc88e43c071e07b5", null ],
-    [ "TEST", "d8/d73/a00674.html#a819dde76e3b5bd1171dc3fb7e37c3a53", null ],
-    [ "TEST", "d8/d73/a00674.html#af1c4cf8b997d096dc906ccd5c846e90e", null ],
-    [ "TEST", "d8/d73/a00674.html#acbd23a84fa5f4c2b09dbe42a501443be", null ],
-    [ "TEST", "d8/d73/a00674.html#a1835c78c8476bbaf740ca65e27ab5c03", null ],
-    [ "TEST", "d8/d73/a00674.html#a582b8801c33d3f605c91bf0aab1f699c", null ],
-    [ "TEST", "d8/d73/a00674.html#a1abe08c7becc5f8bc2d034cf7312a1b1", null ],
-    [ "TEST", "d8/d73/a00674.html#af92bca5e60d83a245a06403f58a9360c", null ]
+    [ "GlobalScript", "dc/da0/a10801.html", "dc/da0/a10801" ],
+    [ "GlobalHook", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54f", [
+      [ "GLOBALHOOK_ON_ITEM_DEL_FROM_DB", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54fa3fee3c5c76e67faee134aa5f3004fb3a", null ],
+      [ "GLOBALHOOK_ON_MIRRORIMAGE_DISPLAY_ITEM", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54fa54996842f471924462c858b424771301", null ],
+      [ "GLOBALHOOK_ON_AFTER_REF_COUNT", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54fadf7277c0c7e7daf6f206ad30076ca6b0", null ],
+      [ "GLOBALHOOK_ON_AFTER_CALCULATE_LOOT_GROUP_AMOUNT", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54fab9f74534592d5b25eac4afa022f0afb8", null ],
+      [ "GLOBALHOOK_ON_BEFORE_DROP_ADD_ITEM", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54fa0023a1c24752cf2d5bf1373304031616", null ],
+      [ "GLOBALHOOK_ON_ITEM_ROLL", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54fa1910f8cb74757454664169058b78e315", null ],
+      [ "GLOBALHOOK_ON_BEFORE_LOOT_EQUAL_CHANCED", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54fac9c482aae055a76e845712ea267cbf54", null ],
+      [ "GLOBALHOOK_ON_INITIALIZE_LOCKED_DUNGEONS", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54faff3a42ff936243662b474b34bdf3eaaf", null ],
+      [ "GLOBALHOOK_ON_AFTER_INITIALIZE_LOCKED_DUNGEONS", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54fa4a73293aee8407b7b998c4b054b1f441", null ],
+      [ "GLOBALHOOK_ON_BEFORE_UPDATE_ARENA_POINTS", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54fa5b66ed30713c1b3afbbeb93e0185721f", null ],
+      [ "GLOBALHOOK_ON_ARENA_WEEK_RESET", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54fa2acc0c2b1e365c74c5485e7da3d57ef1", null ],
+      [ "GLOBALHOOK_ON_AFTER_UPDATE_ENCOUNTER_STATE", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54fade9db726b6ebfefed02d9958ba2352d1", null ],
+      [ "GLOBALHOOK_ON_BEFORE_WORLDOBJECT_SET_PHASEMASK", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54fa46e286ea2fa14ba1003d3f921bc174b6", null ],
+      [ "GLOBALHOOK_ON_IS_AFFECTED_BY_SPELL_MOD_CHECK", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54fa47d4b00882af22c458fd791f70844d1b", null ],
+      [ "GLOBALHOOK_ON_SPELL_HEALING_BONUS_TAKEN_NEGATIVE_MODIFIERS", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54fa1efd25cc1c4e57becd0c5acf89c12857", null ],
+      [ "GLOBALHOOK_ON_LOAD_SPELL_CUSTOM_ATTR", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54fa53ea8c3814440b2cc9bc99760a365ffc", null ],
+      [ "GLOBALHOOK_ON_ALLOWED_FOR_PLAYER_LOOT_CHECK", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54faac2ab4f02438b0689dcb2fd4e4b6e689", null ],
+      [ "GLOBALHOOK_ON_ALLOWED_TO_LOOT_CONTAINER_CHECK", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54fa484cdc863db646dfef82e9bd93fab517", null ],
+      [ "GLOBALHOOK_ON_INSTANCEID_REMOVED", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54faca0b78e4f7e01f485fa13984516ad19c", null ],
+      [ "GLOBALHOOK_ON_BEFORE_SET_BOSS_STATE", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54faaa74d1171724a0c0ef83fe371e38b203", null ],
+      [ "GLOBALHOOK_AFTER_INSTANCE_GAME_OBJECT_CREATE", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54faf8f95fca3547e7cb68711a197b935872", null ],
+      [ "GLOBALHOOK_END", "d8/d73/a00674.html#a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a", null ]
+    ] ]
 ];

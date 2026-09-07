@@ -1,7 +1,6 @@
 var a19353 =
 [
-    [ "OnApply", "dd/dbd/a19353.html#a72a01dea703436b2a220a9976da60fa6", null ],
-    [ "PrepareAuraScript", "dd/dbd/a19353.html#adb17425258d4fb2c0c464236e15f32d7", null ],
-    [ "Register", "dd/dbd/a19353.html#af026c126029c68ed8b7c6c1886720e4c", null ],
-    [ "Validate", "dd/dbd/a19353.html#a5674396828adf4e80102ed2277f1e08a", null ]
+    [ "npc_icc_putricades_trapAI", "d3/d36/a19357.html", "d3/d36/a19357" ],
+    [ "npc_icc_putricades_trap", "dd/dbd/a19353.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
+    [ "GetAI", "dd/dbd/a19353.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
 ];

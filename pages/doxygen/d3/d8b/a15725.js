@@ -1,10 +1,14 @@
 var a15725 =
 [
-    [ "npc_anubisath_defender", "d3/d8b/a15725.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
-    [ "DamageTaken", "d3/d8b/a15725.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
-    [ "JustDied", "d3/d8b/a15725.html#a225ca1b3144953bcc5890caf0d32b606", null ],
-    [ "JustEngagedWith", "d3/d8b/a15725.html#a6505fcae0e99cae44750f16daddc3309", null ],
-    [ "Reset", "d3/d8b/a15725.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
-    [ "UpdateAI", "d3/d8b/a15725.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
-    [ "_enraged", "d3/d8b/a15725.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
+    [ "boss_twinemperorsAI", "d3/d8b/a15725.html#ae0857b191dbbf086533062aee5885237", null ],
+    [ "DamageTaken", "d3/d8b/a15725.html#a118151851f36de9dfc22971a965cb047", null ],
+    [ "DoAction", "d3/d8b/a15725.html#a2b5e585749b7a59663813c7a9d56c223", null ],
+    [ "EnterEvadeMode", "d3/d8b/a15725.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
+    [ "GetTwin", "d3/d8b/a15725.html#af23aa54bca9752c242e80331862ace4d", null ],
+    [ "IAmVeklor", "d3/d8b/a15725.html#acdccdde2ee573f51e1783ea493577258", null ],
+    [ "JustDied", "d3/d8b/a15725.html#a9cc74619908c2aa9f8deda2689616735", null ],
+    [ "JustEngagedWith", "d3/d8b/a15725.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
+    [ "KilledUnit", "d3/d8b/a15725.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
+    [ "UpdateAI", "d3/d8b/a15725.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
+    [ "_introDone", "d3/d8b/a15725.html#a1b4689b0c403f7246ae100e4f716b138", null ]
 ];

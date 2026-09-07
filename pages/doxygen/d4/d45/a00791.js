@@ -1,13 +1,12 @@
 var a00791 =
 [
-    [ "LowLevelsMinPlayersOverrideTest", "d0/d77/a29879.html", "d0/d77/a29879" ],
-    [ "TEST_F", "d4/d45/a00791.html#a431b03e0f6972bba583dc9d664e7cf6a", null ],
-    [ "TEST_F", "d4/d45/a00791.html#a0a11b72f26c161809fa8543c6ca426eb", null ],
-    [ "TEST_F", "d4/d45/a00791.html#aee33bf127a1cc276739e521a75da413d", null ],
-    [ "TEST_F", "d4/d45/a00791.html#a4553fd934a7bb68e593b35e5affb7690", null ],
-    [ "TEST_F", "d4/d45/a00791.html#a27d409a42694d1b4c8048c58c70b6844", null ],
-    [ "TEST_F", "d4/d45/a00791.html#adb482b5a200b3fe61127252441c22ba2", null ],
-    [ "TEST_F", "d4/d45/a00791.html#a5a24888231a3964fdb54a96e57d1c0b6", null ],
-    [ "TEST_F", "d4/d45/a00791.html#a057d44953bcc8ed91217699641b61c4d", null ],
-    [ "TEST_F", "d4/d45/a00791.html#a12219c849498f8b843727b767550dc55", null ]
+    [ "ArenaTeamScript", "de/d4d/a10733.html", "de/d4d/a10733" ],
+    [ "ArenaTeamHook", "d4/d45/a00791.html#adfb7077026efd17516d6b85637c2b218", [
+      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "d4/d45/a00791.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
+      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "d4/d45/a00791.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
+      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "d4/d45/a00791.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
+      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "d4/d45/a00791.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
+      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "d4/d45/a00791.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
+      [ "ARENATEAMHOOK_END", "d4/d45/a00791.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
+    ] ]
 ];

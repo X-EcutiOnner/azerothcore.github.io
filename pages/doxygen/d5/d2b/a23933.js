@@ -1,7 +1,6 @@
 var a23933 =
 [
-    [ "npc_bessyAI", "d0/d43/a23937.html", "d0/d43/a23937" ],
-    [ "npc_bessy", "d5/d2b/a23933.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "d5/d2b/a23933.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "d5/d2b/a23933.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "HandleScriptEffect", "d5/d2b/a23933.html#acfe80e22e6c78dba50155f7f20c0678b", null ],
+    [ "PrepareSpellScript", "d5/d2b/a23933.html#a17cb5f874343bd40c6aafaf9d627b047", null ],
+    [ "Register", "d5/d2b/a23933.html#a4bb5cfd2cc8503b3a840fc68624a33c1", null ]
 ];

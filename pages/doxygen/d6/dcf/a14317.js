@@ -1,5 +1,6 @@
 var a14317 =
 [
-    [ "entry", "d6/dcf/a14317.html#ad7431eb64907aed0a03205a37c65a735", null ],
-    [ "pos", "d6/dcf/a14317.html#ab60283e91e81c141f3b31218aa4442a3", null ]
+    [ "npc_tapoke_slim_jahnAI", "dd/db2/a14321.html", "dd/db2/a14321" ],
+    [ "npc_tapoke_slim_jahn", "d6/dcf/a14317.html#a61e36b57f8ba78c371d454efb1512579", null ],
+    [ "GetAI", "d6/dcf/a14317.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
 ];

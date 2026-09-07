@@ -1,6 +1,12 @@
 var a16061 =
 [
-    [ "npc_aquementasAI", "d8/d9d/a16065.html", "d8/d9d/a16065" ],
-    [ "npc_aquementas", "d5/df0/a16061.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
-    [ "GetAI", "d5/df0/a16061.html#a8a071b3073d69306feb84aca347a22c8", null ]
+    [ "npc_thrall_warchiefAI", "d5/df0/a16061.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
+    [ "DoAction", "d5/df0/a16061.html#a511da19703e30f6e82e59c5223bf2770", null ],
+    [ "JustDied", "d5/df0/a16061.html#a5e6da0a5f5190d7959faff60851e679a", null ],
+    [ "JustEngagedWith", "d5/df0/a16061.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
+    [ "Reset", "d5/df0/a16061.html#a920a29258228c9c2e7e0791d38b648e1", null ],
+    [ "sGossipSelect", "d5/df0/a16061.html#aaad63a0de8acfc17355b7a35de4cc164", null ],
+    [ "UpdateAI", "d5/df0/a16061.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
+    [ "ChainLightningTimer", "d5/df0/a16061.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
+    [ "ShockTimer", "d5/df0/a16061.html#aa8609f8824f68ce7259465284c01dd35", null ]
 ];

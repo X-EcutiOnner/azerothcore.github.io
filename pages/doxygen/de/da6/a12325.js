@@ -1,14 +1,19 @@
 var a12325 =
 [
-    [ "cast_commandscript", "de/da6/a12325.html#a9c657d2c5404149a45a2db748d23fc2f", null ],
-    [ "CheckSpellCastResult", "de/da6/a12325.html#a244b2d11a07fdcbb72f3207ab1e46ea5", null ],
-    [ "CheckSpellExistsAndIsValid", "de/da6/a12325.html#a14da4e4674b065c8e8f3d1946a037bda", null ],
-    [ "GetCommands", "de/da6/a12325.html#ab0890c036a8d301b382fdd1b6371f671", null ],
-    [ "GetTriggerFlags", "de/da6/a12325.html#a26e6986c45a99e6a94d7ba2d9a810aa3", null ],
-    [ "HandleCastBackCommand", "de/da6/a12325.html#a964a40278f609a5c5a0bae651484c726", null ],
-    [ "HandleCastCommand", "de/da6/a12325.html#ac28430cc0623209b891bacbb4845509b", null ],
-    [ "HandleCastDestCommand", "de/da6/a12325.html#a156ca81fba7155205dae106aa4c221d6", null ],
-    [ "HandleCastDistCommand", "de/da6/a12325.html#aabbcac8e85c6a64a647d71bb22bebede", null ],
-    [ "HandleCastSelfCommand", "de/da6/a12325.html#a69e88bb174c2518584a9ae622e2850bf", null ],
-    [ "HandleCastTargetCommad", "de/da6/a12325.html#aa72bd317a3498ef07007c1a9e81e2796", null ]
+    [ "WardenPayloadMgr", "de/da6/a12325.html#a0a90c3e8ab6d5b5698f330b997efed27", null ],
+    [ "ClearQueuedPayloads", "de/da6/a12325.html#ade67b783b6e6c7421b0d86a9143d60d9", null ],
+    [ "DequeuePayload", "de/da6/a12325.html#a0fb196873e89729eb5c3ad3238e75a6a", null ],
+    [ "GetFreePayloadId", "de/da6/a12325.html#a698b2ab4709a495f299be18b053e4014", null ],
+    [ "GetPayloadById", "de/da6/a12325.html#a9f7d7ab2c529b74b67fb363a063ffa27", null ],
+    [ "GetPayloadCountInQueue", "de/da6/a12325.html#ae3878c7264337d646f7a5d503907d7aa", null ],
+    [ "GetPayloadsInQueue", "de/da6/a12325.html#a6b8ed858cc20f8acc0266edbe84b3dfd", null ],
+    [ "QueuePayload", "de/da6/a12325.html#a36f9cf58fa5c9d34fdac860c3ae692d1", null ],
+    [ "RegisterPayload", "de/da6/a12325.html#a559720ea589f439ddc031b38c9042a96", null ],
+    [ "RegisterPayload", "de/da6/a12325.html#ae2e7a14fe433ed45e94d3e74ba43f579", null ],
+    [ "UnregisterPayload", "de/da6/a12325.html#a97d5b53d0e1fd42663ad673b31fe4fab", null ],
+    [ "CachedChecks", "de/da6/a12325.html#a65c6878274bc49b921714278d77eed56", null ],
+    [ "QueuedPayloads", "de/da6/a12325.html#a0d473fcc12806a29a6cf191ebd1ec9ff", null ],
+    [ "WardenPayloadCheckType", "de/da6/a12325.html#a5d6853734e30d11fce42dfeeb3a06c22", null ],
+    [ "WardenPayloadOffsetMax", "de/da6/a12325.html#a0a6537e719e9f8f4c371340d0d1b4db7", null ],
+    [ "WardenPayloadOffsetMin", "de/da6/a12325.html#a9f7e5a100c56a6ee9a6bd39a792b9e44", null ]
 ];

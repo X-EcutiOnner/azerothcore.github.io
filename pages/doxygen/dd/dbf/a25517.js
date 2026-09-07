@@ -1,8 +1,7 @@
 var a25517 =
 [
-    [ "HandleFinish", "dd/dbf/a25517.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "dd/dbf/a25517.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "dd/dbf/a25517.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "dd/dbf/a25517.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "dd/dbf/a25517.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "ModDest", "dd/dbf/a25517.html#afe0fb68de61a657ce6900e71973e4d77", null ],
+    [ "ModifyCookingSkill", "dd/dbf/a25517.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
+    [ "PrepareSpellScript", "dd/dbf/a25517.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
+    [ "Register", "dd/dbf/a25517.html#a6919079b43a816eb601a68c51ad39794", null ]
 ];

@@ -1,6 +1,6 @@
 var a28629 =
 [
-    [ "ChannelID", "d7/d93/a28629.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
-    [ "flags", "d7/d93/a28629.html#aa77db644555e336ccbb8dd138c192425", null ],
-    [ "pattern", "d7/d93/a28629.html#ad8b550cf444d66eede00abcf2cefec22", null ]
+    [ "npc_steam_tonkAI", "db/df2/a28633.html", "db/df2/a28633" ],
+    [ "npc_steam_tonk", "d7/d93/a28629.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "d7/d93/a28629.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

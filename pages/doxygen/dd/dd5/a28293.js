@@ -1,6 +1,7 @@
 var a28293 =
 [
-    [ "npc_air_force_botsAI", "de/da2/a28297.html", "de/da2/a28297" ],
-    [ "npc_air_force_bots", "dd/dd5/a28293.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "dd/dd5/a28293.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "go_brewfest_musicAI", "dd/dd5/a28293.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "dd/dd5/a28293.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "dd/dd5/a28293.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "dd/dd5/a28293.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

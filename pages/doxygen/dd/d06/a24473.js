@@ -1,11 +1,8 @@
 var a24473 =
 [
-    [ "CalcPeriodic", "dd/d06/a24473.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
-    [ "CalculateAPAmount", "dd/d06/a24473.html#ab23f26c3470f629f0a20f28faf272a68", null ],
-    [ "CalculateHealthAmount", "dd/d06/a24473.html#a4f827a906ac279e143ba8545545090ad", null ],
-    [ "CalculateSPAmount", "dd/d06/a24473.html#ae94493ffed217a218e21c05e002cec00", null ],
-    [ "HandleEffectApply", "dd/d06/a24473.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
-    [ "HandlePeriodic", "dd/d06/a24473.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
-    [ "PrepareAuraScript", "dd/d06/a24473.html#a5052689d815e0a0543693b39b7454deb", null ],
-    [ "Register", "dd/d06/a24473.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
+    [ "npc_pet_gen_wind_rider_cub", "dd/d06/a24473.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
+    [ "UpdateAI", "dd/d06/a24473.html#a534d122522d553e106e6c7729d6c55db", null ],
+    [ "checkTimer", "dd/d06/a24473.html#a39fcfc5f5d9a630180713512db778b32", null ],
+    [ "checkTimer2", "dd/d06/a24473.html#aabeaf7a9b5b77df540e1111950860e98", null ],
+    [ "isFlying", "dd/d06/a24473.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
 ];

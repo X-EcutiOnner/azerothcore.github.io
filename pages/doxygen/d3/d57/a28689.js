@@ -1,5 +1,6 @@
 var a28689 =
 [
-    [ "Id", "d3/d57/a28689.html#a79e4b857b811a044aed0ce33422df801", null ],
-    [ "quality_mod", "d3/d57/a28689.html#a756e7b316cc365f15f24e5e4637303a6", null ]
+    [ "npc_venomhide_hatchlingAI", "d3/d57/a28689.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d3/d57/a28689.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d3/d57/a28689.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

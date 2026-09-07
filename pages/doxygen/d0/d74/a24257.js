@@ -1,14 +1,12 @@
 var a24257 =
 [
-    [ "npc_pet_mage_mirror_image", "d0/d74/a24257.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
-    [ "EnterEvadeMode", "d0/d74/a24257.html#a858b070fb53112dc78554f0b20cd876a", null ],
-    [ "InitializeAI", "d0/d74/a24257.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
-    [ "MySelectNextTarget", "d0/d74/a24257.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
-    [ "Reset", "d0/d74/a24257.html#a79a8c153ab61c619d928ec5535e67077", null ],
-    [ "UpdateAI", "d0/d74/a24257.html#aa219b3adc38b625c6885089895b941b4", null ],
-    [ "_delayAttack", "d0/d74/a24257.html#ab65a74ef0f1e253bf9df4e4f7c6856a3", null ],
-    [ "_ebonGargoyleGUID", "d0/d74/a24257.html#a8be57d06114f108e74b850ce66722bf3", null ],
-    [ "checktarget", "d0/d74/a24257.html#a074611355768dc2072da69ed9d72242b", null ],
-    [ "dist", "d0/d74/a24257.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
-    [ "selectionTimer", "d0/d74/a24257.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
+    [ "npc_enslaved_netherwing_drake", "d0/d74/a24257.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
+    [ "_GetPlayer", "d0/d74/a24257.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
+    [ "JustDied", "d0/d74/a24257.html#acde70c9d8c675a9a9dd14695dc752184", null ],
+    [ "MovementInform", "d0/d74/a24257.html#afa030a380365daa33c156a0d6be6a6d9", null ],
+    [ "Reset", "d0/d74/a24257.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
+    [ "SpellHit", "d0/d74/a24257.html#a195794e88870a0b1ca35473f5f0378a7", null ],
+    [ "UpdateAI", "d0/d74/a24257.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
+    [ "_playerGUID", "d0/d74/a24257.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
+    [ "_tapped", "d0/d74/a24257.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
 ];

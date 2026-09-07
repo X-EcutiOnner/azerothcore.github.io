@@ -1,11 +1,6 @@
 var a12409 =
 [
-    [ "lfg_commandscript", "d7/d32/a12409.html#a90faaca821e4162e0aea40a4d98af62c", null ],
-    [ "GetCommands", "d7/d32/a12409.html#a324310f9b04675c277ceae44ea09fbaf", null ],
-    [ "HandleLfgCleanCommand", "d7/d32/a12409.html#a93db689dbdb97a0318d62409a863767e", null ],
-    [ "HandleLfgCooldownClearCommand", "d7/d32/a12409.html#a0e399ec509b9f419b7f034cc95409f7b", null ],
-    [ "HandleLfgGroupInfoCommand", "d7/d32/a12409.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
-    [ "HandleLfgOptionsCommand", "d7/d32/a12409.html#a73187a97c883d8d1bb3765943dd98c39", null ],
-    [ "HandleLfgPlayerInfoCommand", "d7/d32/a12409.html#acdf12aff45f16904df5724ab158e3b97", null ],
-    [ "HandleLfgQueueInfoCommand", "d7/d32/a12409.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
+    [ "bg_commandscript", "d7/d32/a12409.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
+    [ "GetCommands", "d7/d32/a12409.html#a911ccd6445b08c05069f7f196556c891", null ],
+    [ "HandleBagsClearCommand", "d7/d32/a12409.html#a92347e90c2f78d0dfeb41eb033366319", null ]
 ];

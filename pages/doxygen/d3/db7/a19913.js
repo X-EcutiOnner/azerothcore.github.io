@@ -1,12 +1,7 @@
 var a19913 =
 [
-    [ "boss_sjonnirAI", "d3/db7/a19913.html#a53127766553d1bee4d7331e6f4fcda05", null ],
-    [ "ActivatePipe", "d3/db7/a19913.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
-    [ "DoAction", "d3/db7/a19913.html#afb2f73908bc17c763a8028af4b499481", null ],
-    [ "JustDied", "d3/db7/a19913.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
-    [ "JustEngagedWith", "d3/db7/a19913.html#aade776baf55155bb3814129ddc2f9632", null ],
-    [ "KilledUnit", "d3/db7/a19913.html#ac79740a8c5e4263f2917647c74e995aa", null ],
-    [ "Reset", "d3/db7/a19913.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
-    [ "ScheduleTasks", "d3/db7/a19913.html#a5c3c31c5be424795e4e96291c910c73c", null ],
-    [ "SlugeCount", "d3/db7/a19913.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
+    [ "Apply", "d3/db7/a19913.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "d3/db7/a19913.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "d3/db7/a19913.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "d3/db7/a19913.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

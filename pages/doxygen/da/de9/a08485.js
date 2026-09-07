@@ -1,7 +1,7 @@
 var a08485 =
 [
-    [ "entry", "da/de9/a08485.html#ad0d74d6216c9b6cb6fbeda55fb002072", null ],
-    [ "pos", "da/de9/a08485.html#af264c1262d9fcd204a2a536847a613b1", null ],
-    [ "respawnTime", "da/de9/a08485.html#abeadd86c92a8c301626dde6943da1b9b", null ],
-    [ "rot", "da/de9/a08485.html#a776668c1b71e0cf9f3e0f0619498ae72", null ]
+    [ "CreatureSpellCooldown", "da/de9/a08485.html#a6d234a93951992640df5720a2885be3e", null ],
+    [ "CreatureSpellCooldown", "da/de9/a08485.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
+    [ "category", "da/de9/a08485.html#a27330a80d711087f1894b2ce816c33b8", null ],
+    [ "end", "da/de9/a08485.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
 ];

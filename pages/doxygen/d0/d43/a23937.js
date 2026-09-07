@@ -1,9 +1,7 @@
 var a23937 =
 [
-    [ "npc_bessyAI", "d0/d43/a23937.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "d0/d43/a23937.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "d0/d43/a23937.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "d0/d43/a23937.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "d0/d43/a23937.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ],
-    [ "WaypointReached", "d0/d43/a23937.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "HandleEffect", "d0/d43/a23937.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
+    [ "PrepareSpellScript", "d0/d43/a23937.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
+    [ "Register", "d0/d43/a23937.html#ac406946bb793125d49006e3a877c9638", null ],
+    [ "SelectTarget", "d0/d43/a23937.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
 ];

@@ -1,10 +1,6 @@
 var a28661 =
 [
-    [ "HasFlag", "d4/d39/a28661.html#abe23ca5437589a38ea57bc93a6197911", null ],
-    [ "CollisionHeight", "d4/d39/a28661.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
-    [ "CollisionWidth", "d4/d39/a28661.html#ab79497759cf169348b8922301fc43b2f", null ],
-    [ "Flags", "d4/d39/a28661.html#a3bb96e232124771e78f8b5db53405106", null ],
-    [ "Id", "d4/d39/a28661.html#aa19fec147703c7542be260c8ec5a0446", null ],
-    [ "MountHeight", "d4/d39/a28661.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
-    [ "Scale", "d4/d39/a28661.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
+    [ "npc_fireworkAI", "dd/d3d/a28665.html", "dd/d3d/a28665" ],
+    [ "npc_firework", "d4/d39/a28661.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "d4/d39/a28661.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

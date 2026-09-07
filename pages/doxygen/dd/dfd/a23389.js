@@ -1,6 +1,7 @@
 var a23389 =
 [
-    [ "HandleScriptEffect", "dd/dfd/a23389.html#adf350bccc5862252f6928faa4ae3a001", null ],
-    [ "PrepareSpellScript", "dd/dfd/a23389.html#a0d1ff479da3b8f50ed698da9f9029589", null ],
-    [ "Register", "dd/dfd/a23389.html#afaf23967ede6e120caa7758ff2d3c974", null ]
+    [ "go_ahune_ice_spear", "dd/dfd/a23389.html#a22922e47b819bc60e331cffbc7c353b3", null ],
+    [ "Reset", "dd/dfd/a23389.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
+    [ "UpdateAI", "dd/dfd/a23389.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
+    [ "_scheduler", "dd/dfd/a23389.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
 ];

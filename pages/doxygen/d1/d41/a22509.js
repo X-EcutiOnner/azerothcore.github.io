@@ -1,11 +1,6 @@
 var a22509 =
 [
-    [ "boss_murmur", "d1/d41/a22509.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
-    [ "CastSuppressionOOC", "d1/d41/a22509.html#aab66339a7436c3c483297b25f6859558", null ],
-    [ "DamageTaken", "d1/d41/a22509.html#a6446fe6c0ae5ece0cd70c8d9dbccb0f5", null ],
-    [ "EnterEvadeMode", "d1/d41/a22509.html#aa0f549c83a92302ece2323c75dd29acc", null ],
-    [ "JustEngagedWith", "d1/d41/a22509.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
-    [ "Reset", "d1/d41/a22509.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
-    [ "SetGUID", "d1/d41/a22509.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
-    [ "ShouldCastResonance", "d1/d41/a22509.html#ade07217a85655a513d7a472d24589691", null ]
+    [ "HandlePeriodicDummy", "d1/d41/a22509.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
+    [ "PrepareAuraScript", "d1/d41/a22509.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
+    [ "Register", "d1/d41/a22509.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
 ];

@@ -1,7 +1,7 @@
 var a23833 =
 [
-    [ "HandleEffect", "d0/d32/a23833.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "d0/d32/a23833.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "d0/d32/a23833.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "d0/d32/a23833.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "HandleCast", "d0/d32/a23833.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
+    [ "PrepareSpellScript", "d0/d32/a23833.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
+    [ "Register", "d0/d32/a23833.html#a6ae0573ea69573df64cd57ba84f99918", null ],
+    [ "Validate", "d0/d32/a23833.html#ab5794ca5c0863ce40194ed40e156279a", null ]
 ];

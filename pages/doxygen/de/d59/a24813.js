@@ -1,7 +1,7 @@
 var a24813 =
 [
-    [ "CheckRequirement", "de/d59/a24813.html#a6be5f335a15226db87a04548490f488d", null ],
-    [ "PrepareSpellScript", "de/d59/a24813.html#a25463eda0ce51a124e8715baf305c8f6", null ],
-    [ "Register", "de/d59/a24813.html#a8db5a5597d8f6fe4064799766fb61502", null ],
-    [ "_level", "de/d59/a24813.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
+    [ "AfterApply", "de/d59/a24813.html#adae232af9445638b3d54e81d414483b7", null ],
+    [ "AfterRemove", "de/d59/a24813.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
+    [ "PrepareAuraScript", "de/d59/a24813.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
+    [ "Register", "de/d59/a24813.html#abff75ea597dcc017a359a5ef3ada4314", null ]
 ];

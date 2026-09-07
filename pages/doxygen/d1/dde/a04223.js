@@ -1,36 +1,13 @@
 var a04223 =
 [
-    [ "npc_bunthen_plainswind", "d6/d58/a16007.html", "d6/d58/a16007" ],
-    [ "npc_silva_filnaveth", "d4/d30/a16011.html", "d4/d30/a16011" ],
-    [ "npc_clintar_spirit", "dd/d58/a16015.html", "dd/d58/a16015" ],
-    [ "npc_clintar_spirit::npc_clintar_spiritAI", "dd/da3/a16019.html", "dd/da3/a16019" ],
-    [ "npc_omen", "d6/dde/a16023.html", "d6/dde/a16023" ],
-    [ "npc_omen::npc_omenAI", "d9/ded/a16027.html", "d9/ded/a16027" ],
-    [ "npc_giant_spotlight", "de/d57/a16031.html", "de/d57/a16031" ],
-    [ "npc_giant_spotlight::npc_giant_spotlightAI", "d4/d13/a16035.html", "d4/d13/a16035" ],
-    [ "Bunthen", "d1/dde/a04223.html#adbbeebdb932cdc68f2ad2b58d4c922fb", [
-      [ "QUEST_SEA_LION_HORDE", "d1/dde/a04223.html#adbbeebdb932cdc68f2ad2b58d4c922fba19a2ff94115fefe241626f3331ce747f", null ],
-      [ "QUEST_SEA_LION_ALLY", "d1/dde/a04223.html#adbbeebdb932cdc68f2ad2b58d4c922fba9333cbca83acf867219e50edeeb6ad5a", null ],
-      [ "TAXI_PATH_ID_ALLY", "d1/dde/a04223.html#adbbeebdb932cdc68f2ad2b58d4c922fba5f9b640f23c79dda3001d48c5d714b08", null ],
-      [ "TAXI_PATH_ID_HORDE", "d1/dde/a04223.html#adbbeebdb932cdc68f2ad2b58d4c922fbaa6f489a16374ddf85329d3ee985c460b", null ]
+    [ "instance_sunken_temple", "d7/dd2/a13661.html", "d7/dd2/a13661" ],
+    [ "instance_sunken_temple::instance_sunken_temple_InstanceMapScript", "d8/d76/a13665.html", "d8/d76/a13665" ],
+    [ "at_malfurion_stormrage", "d9/d20/a13669.html", "d9/d20/a13669" ],
+    [ "spell_temple_of_atal_hakkar_hex_of_jammal_an_aura", "d2/da2/a13673.html", "d2/da2/a13673" ],
+    [ "spell_temple_of_atal_hakkar_awaken_the_soulflayer", "d2/dd9/a13677.html", "d2/dd9/a13677" ],
+    [ "MalfurionMisc", "d1/dde/a04223.html#a754fcfafd80b5a6c2ea444f49cfbc7d1", [
+      [ "QUEST_ERANIKUS_TYRANT_OF_DREAMS", "d1/dde/a04223.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d", null ],
+      [ "QUEST_THE_CHARGE_OF_DRAGONFLIGHTS", "d1/dde/a04223.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526", null ]
     ] ],
-    [ "ClintarSpirit", "d1/dde/a04223.html#af06e96ced22feb1885564950e05417a2", [
-      [ "ASPECT_RAVEN", "d1/dde/a04223.html#af06e96ced22feb1885564950e05417a2a5aa355f8770a619dd97c43a1ed6c8e7f", null ],
-      [ "CLINTAR_SPIRIT_SAY_START", "d1/dde/a04223.html#af06e96ced22feb1885564950e05417a2a4003cbd90da80c6fb02ae957c7e3e60e", null ]
-    ] ],
-    [ "Omen", "d1/dde/a04223.html#a7fb152206db70a70437b235647a95793", [
-      [ "NPC_OMEN", "d1/dde/a04223.html#a7fb152206db70a70437b235647a95793a6d34405f4268188f4709fddd135879a1", null ],
-      [ "SPELL_OMEN_CLEAVE", "d1/dde/a04223.html#a7fb152206db70a70437b235647a95793a525d07772748bd50623894654941eebb", null ],
-      [ "SPELL_OMEN_STARFALL", "d1/dde/a04223.html#a7fb152206db70a70437b235647a95793a8a65e86a799ba7daf95b45212e2d0cac", null ],
-      [ "SPELL_OMEN_SUMMON_SPOTLIGHT", "d1/dde/a04223.html#a7fb152206db70a70437b235647a95793a09afe0a7256990b201fc144424201c79", null ],
-      [ "SPELL_ELUNE_CANDLE", "d1/dde/a04223.html#a7fb152206db70a70437b235647a95793a333999af862b8d1706a4b34ced3448e6", null ],
-      [ "GO_ELUNE_TRAP_1", "d1/dde/a04223.html#a7fb152206db70a70437b235647a95793a55d48a597022d003e1e18a7cb332c3e3", null ],
-      [ "GO_ELUNE_TRAP_2", "d1/dde/a04223.html#a7fb152206db70a70437b235647a95793a70bba7030d170525f9351e8643ed8e51", null ],
-      [ "EVENT_CAST_CLEAVE", "d1/dde/a04223.html#a7fb152206db70a70437b235647a95793a9b4959d7ea485f12c7d67e5bd7672383", null ],
-      [ "EVENT_CAST_STARFALL", "d1/dde/a04223.html#a7fb152206db70a70437b235647a95793a59097ac157a655e4c9371e19a53820fc", null ],
-      [ "EVENT_DESPAWN", "d1/dde/a04223.html#a7fb152206db70a70437b235647a95793a37c22b84c74c36e2af467a6bd1047f15", null ]
-    ] ],
-    [ "AddSC_moonglade", "d1/dde/a04223.html#a849e20dbd083abdfb7fb96857fb7d89f", null ],
-    [ "AspectRavenSummon", "d1/dde/a04223.html#a8b390a1d926d93da400a7e199a1da6b6", null ],
-    [ "Clintar_spirit_WP", "d1/dde/a04223.html#adcc622dc5710ac246cbdd4f072ad52fe", null ]
+    [ "AddSC_instance_sunken_temple", "d1/dde/a04223.html#ab3f2a91fe096585f54078e8884cb25f7", null ]
 ];

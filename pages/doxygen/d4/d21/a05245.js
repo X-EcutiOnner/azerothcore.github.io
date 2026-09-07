@@ -1,9 +1,7 @@
 var a05245 =
 [
-    [ "DynamicTreeIntersectionCallback", "d4/d21/a05245.html#a77d71c68e20f4d19059317b307c27441", null ],
-    [ "didHit", "d4/d21/a05245.html#a616d15c3cce00574d604591bc8af4140", null ],
-    [ "operator()", "d4/d21/a05245.html#a9927d15de557ef58b7e4046e830f8dad", null ],
-    [ "_didHit", "d4/d21/a05245.html#a1805d508be79660d90f991e4453c2c9a", null ],
-    [ "_ignoreFlags", "d4/d21/a05245.html#a6559c66c8451c32078187a1c43b3a85e", null ],
-    [ "_phaseMask", "d4/d21/a05245.html#a52e7470145db9cc4c2369024fbf7bbb8", null ]
+    [ "indices", "d4/d21/a05245.html#a23cadbd54502fb4edc68e052e5774664", null ],
+    [ "maxPrims", "d4/d21/a05245.html#a0c46f35977fe683a19e7cb1e580a814b", null ],
+    [ "numPrims", "d4/d21/a05245.html#a623b9ee05707ecdbaa816c797e358e86", null ],
+    [ "primBound", "d4/d21/a05245.html#a3304ad5d821f178941fd44da897213de", null ]
 ];

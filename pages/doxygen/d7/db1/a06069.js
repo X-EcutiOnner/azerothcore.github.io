@@ -1,8 +1,10 @@
 var a06069 =
 [
-    [ "PassiveAI", "d7/db1/a06069.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
-    [ "AttackStart", "d7/db1/a06069.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
-    [ "MoveInLineOfSight", "d7/db1/a06069.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
-    [ "Permissible", "d7/db1/a06069.html#a2960223799a5b3baedbdd7e664604865", null ],
-    [ "UpdateAI", "d7/db1/a06069.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
+    [ "BasicStatementTask", "d7/db1/a06069.html#a11c6f1259d1d6d9c50211784636e45c4", null ],
+    [ "~BasicStatementTask", "d7/db1/a06069.html#a0db608b5bae77e5f83b0e1bf5850719f", null ],
+    [ "Execute", "d7/db1/a06069.html#a7f500736cc0ec4cddf94510927989d4d", null ],
+    [ "GetFuture", "d7/db1/a06069.html#aa574f8cc00ac956d23f93c7e96864fc9", null ],
+    [ "m_has_result", "d7/db1/a06069.html#a8bfae5e5695a6bf6bf796d95efa21e7e", null ],
+    [ "m_result", "d7/db1/a06069.html#af70bc95cbf0df481dacf034ff78d2eb8", null ],
+    [ "m_sql", "d7/db1/a06069.html#a9320235413d1c4736301070e1faeb161", null ]
 ];

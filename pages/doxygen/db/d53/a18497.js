@@ -1,6 +1,6 @@
 var a18497 =
 [
-    [ "npc_rimefangAI", "dc/d2c/a18501.html", "dc/d2c/a18501" ],
-    [ "npc_rimefang", "db/d53/a18497.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
-    [ "GetAI", "db/d53/a18497.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
+    [ "UnchainedMagicTargetSelector", "db/d53/a18497.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
+    [ "operator()", "db/d53/a18497.html#af28ce8f46154ae6152e9025775a7f84f", null ],
+    [ "_removeHealers", "db/d53/a18497.html#a35a7981ce5495cba8b3a5391e4031431", null ]
 ];

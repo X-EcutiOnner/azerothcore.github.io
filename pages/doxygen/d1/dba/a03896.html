@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Northrend/ChamberOfAspects/ObsidianSanctum/instance_obsidian_sanctum.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/EasternKingdoms/zone_wetlands.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,91 +106,104 @@ $(document).ready(function(){initNavTree('d1/dba/a03896.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">instance_obsidian_sanctum.cpp File Reference</div></div>
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">zone_wetlands.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureAIImpl.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">obsidian_sanctum.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedEscortAI.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/deb/a16507.html">instance_obsidian_sanctum</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dcf/a14317.html">npc_tapoke_slim_jahn</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc6/a16511.html">instance_obsidian_sanctum::instance_obsidian_sanctum_InstanceMapScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db2/a14321.html">npc_tapoke_slim_jahn::npc_tapoke_slim_jahnAI</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d71/a14325.html">npc_mikhail</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:ad5b3ef2d2393f509f0cbf4e70303fab9"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dba/a03896.html#ad5b3ef2d2393f509f0cbf4e70303fab9">TapokeSlim</a> { <br />
+&#160;&#160;<a class="el" href="../../d1/dba/a03896.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2">QUEST_MISSING_DIPLO_PT11</a> = 1249
+, <br />
+&#160;&#160;<a class="el" href="../../d1/dba/a03896.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576">SPELL_STEALTH</a> = 1785
+, <br />
+&#160;&#160;<a class="el" href="../../d1/dba/a03896.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779">SPELL_CALL_FRIENDS</a> = 16457
+, <br />
+&#160;&#160;<a class="el" href="../../d1/dba/a03896.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1">NPC_SLIMS_FRIEND</a> = 4971
+, <br />
+&#160;&#160;<a class="el" href="../../d1/dba/a03896.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda">NPC_TAPOKE_SLIM_JAHN</a> = 4962
+<br />
+ }</td></tr>
+<tr class="separator:ad5b3ef2d2393f509f0cbf4e70303fab9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ac4abea2a912b12612a4c884df63abe00"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dba/a03896.html#ac4abea2a912b12612a4c884df63abe00">AddSC_instance_obsidian_sanctum</a> ()</td></tr>
-<tr class="separator:ac4abea2a912b12612a4c884df63abe00"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a412286b689bd324fedd65ddd8dde8afb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dc9/a10083.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dba/a03896.html#a412286b689bd324fedd65ddd8dde8afb">creatureData</a> []</td></tr>
-<tr class="separator:a412286b689bd324fedd65ddd8dde8afb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96be3075a4a99658d93ffe3d69ba369a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dba/a03896.html#a96be3075a4a99658d93ffe3d69ba369a">AddSC_wetlands</a> ()</td></tr>
+<tr class="separator:a96be3075a4a99658d93ffe3d69ba369a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="ac4abea2a912b12612a4c884df63abe00" name="ac4abea2a912b12612a4c884df63abe00"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac4abea2a912b12612a4c884df63abe00">&#9670;&#160;</a></span>AddSC_instance_obsidian_sanctum()</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="ad5b3ef2d2393f509f0cbf4e70303fab9" name="ad5b3ef2d2393f509f0cbf4e70303fab9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad5b3ef2d2393f509f0cbf4e70303fab9">&#9670;&#160;</a></span>TapokeSlim</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_instance_obsidian_sanctum </td>
+          <td class="memname">enum <a class="el" href="../../d1/dba/a03896.html#ad5b3ef2d2393f509f0cbf4e70303fab9">TapokeSlim</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2" name="ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2"></a>QUEST_MISSING_DIPLO_PT11&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576" name="ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576"></a>SPELL_STEALTH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779" name="ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779"></a>SPELL_CALL_FRIENDS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1" name="ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1"></a>NPC_SLIMS_FRIEND&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda" name="ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda"></a>NPC_TAPOKE_SLIM_JAHN&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   28</span>{</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d1/dba/a03896.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2">QUEST_MISSING_DIPLO_PT11</a>    = 1249,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d1/dba/a03896.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576">SPELL_STEALTH</a>               = 1785,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d1/dba/a03896.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779">SPELL_CALL_FRIENDS</a>          = 16457,                    <span class="comment">//summons 1x friend</span></div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d1/dba/a03896.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1">NPC_SLIMS_FRIEND</a>            = 4971,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d1/dba/a03896.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda">NPC_TAPOKE_SLIM_JAHN</a>        = 4962</div>
+<div class="line"><span class="lineno">   34</span>};</div>
+<div class="ttc" id="aa03896_html_ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda"><div class="ttname"><a href="../../d1/dba/a03896.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda">NPC_TAPOKE_SLIM_JAHN</a></div><div class="ttdeci">@ NPC_TAPOKE_SLIM_JAHN</div><div class="ttdef"><b>Definition:</b> zone_wetlands.cpp:33</div></div>
+<div class="ttc" id="aa03896_html_ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779"><div class="ttname"><a href="../../d1/dba/a03896.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779">SPELL_CALL_FRIENDS</a></div><div class="ttdeci">@ SPELL_CALL_FRIENDS</div><div class="ttdef"><b>Definition:</b> zone_wetlands.cpp:31</div></div>
+<div class="ttc" id="aa03896_html_ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576"><div class="ttname"><a href="../../d1/dba/a03896.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576">SPELL_STEALTH</a></div><div class="ttdeci">@ SPELL_STEALTH</div><div class="ttdef"><b>Definition:</b> zone_wetlands.cpp:30</div></div>
+<div class="ttc" id="aa03896_html_ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1"><div class="ttname"><a href="../../d1/dba/a03896.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1">NPC_SLIMS_FRIEND</a></div><div class="ttdeci">@ NPC_SLIMS_FRIEND</div><div class="ttdef"><b>Definition:</b> zone_wetlands.cpp:32</div></div>
+<div class="ttc" id="aa03896_html_ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2"><div class="ttname"><a href="../../d1/dba/a03896.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2">QUEST_MISSING_DIPLO_PT11</a></div><div class="ttdeci">@ QUEST_MISSING_DIPLO_PT11</div><div class="ttdef"><b>Definition:</b> zone_wetlands.cpp:29</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a96be3075a4a99658d93ffe3d69ba369a" name="a96be3075a4a99658d93ffe3d69ba369a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a96be3075a4a99658d93ffe3d69ba369a">&#9670;&#160;</a></span>AddSC_wetlands()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_wetlands </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  186</span>{</div>
-<div class="line"><span class="lineno">  187</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d3/deb/a16507.html">instance_obsidian_sanctum</a>();</div>
-<div class="line"><span class="lineno">  188</span>}</div>
-<div class="ttc" id="aa16507_html"><div class="ttname"><a href="../../d3/deb/a16507.html">instance_obsidian_sanctum</a></div><div class="ttdef"><b>Definition:</b> instance_obsidian_sanctum.cpp:34</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  156</span>{</div>
+<div class="line"><span class="lineno">  157</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/dcf/a14317.html">npc_tapoke_slim_jahn</a>();</div>
+<div class="line"><span class="lineno">  158</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d71/a14325.html">npc_mikhail</a>();</div>
+<div class="line"><span class="lineno">  159</span>}</div>
+<div class="ttc" id="aa14317_html"><div class="ttname"><a href="../../d6/dcf/a14317.html">npc_tapoke_slim_jahn</a></div><div class="ttdef"><b>Definition:</b> zone_wetlands.cpp:37</div></div>
+<div class="ttc" id="aa14325_html"><div class="ttname"><a href="../../d1/d71/a14325.html">npc_mikhail</a></div><div class="ttdef"><b>Definition:</b> zone_wetlands.cpp:125</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00183">AddNorthrendScripts()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a412286b689bd324fedd65ddd8dde8afb" name="a412286b689bd324fedd65ddd8dde8afb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a412286b689bd324fedd65ddd8dde8afb">&#9670;&#160;</a></span>creatureData</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/dc9/a10083.html">ObjectData</a> const creatureData[]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d8/d09/a02624.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10">NPC_SARTHARION</a>, <a class="code hl_enumvalue" href="../../d2/df3/a03890.html#af5baa506e65b4caa6be6d1c6661dfe63a666020ca779618394caa87eab7d82c3c">DATA_SARTHARION</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d2/df3/a03890.html#af5baa506e65b4caa6be6d1c6661dfe63a8ca4815f4c37140fa10966428c74a623">NPC_TENEBRON</a>,   <a class="code hl_enumvalue" href="../../d2/df3/a03890.html#af5baa506e65b4caa6be6d1c6661dfe63a2e7a9e77fa184759574ad6e526197ca2">DATA_TENEBRON</a>   },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d2/df3/a03890.html#af5baa506e65b4caa6be6d1c6661dfe63a72509ccde0f82c1f684baf715e8983ac">NPC_SHADRON</a>,    <a class="code hl_enumvalue" href="../../d2/df3/a03890.html#af5baa506e65b4caa6be6d1c6661dfe63aa2f0a4a8de58142833d1f54cbfc0d4d4">DATA_SHADRON</a>    },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d2/df3/a03890.html#af5baa506e65b4caa6be6d1c6661dfe63a43836753d3e84b4f37b41a99a4a3245e">NPC_VESPERON</a>,   <a class="code hl_enumvalue" href="../../d2/df3/a03890.html#af5baa506e65b4caa6be6d1c6661dfe63a1050764ffa9f3d036267d687927c01b4">DATA_VESPERON</a>   },</div>
-<div class="line">    { 0,              0                }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa02624_html_abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10"><div class="ttname"><a href="../../d8/d09/a02624.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10">NPC_SARTHARION</a></div><div class="ttdeci">@ NPC_SARTHARION</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:587</div></div>
-<div class="ttc" id="aa03890_html_af5baa506e65b4caa6be6d1c6661dfe63a1050764ffa9f3d036267d687927c01b4"><div class="ttname"><a href="../../d2/df3/a03890.html#af5baa506e65b4caa6be6d1c6661dfe63a1050764ffa9f3d036267d687927c01b4">DATA_VESPERON</a></div><div class="ttdeci">@ DATA_VESPERON</div><div class="ttdef"><b>Definition:</b> obsidian_sanctum.h:32</div></div>
-<div class="ttc" id="aa03890_html_af5baa506e65b4caa6be6d1c6661dfe63a2e7a9e77fa184759574ad6e526197ca2"><div class="ttname"><a href="../../d2/df3/a03890.html#af5baa506e65b4caa6be6d1c6661dfe63a2e7a9e77fa184759574ad6e526197ca2">DATA_TENEBRON</a></div><div class="ttdeci">@ DATA_TENEBRON</div><div class="ttdef"><b>Definition:</b> obsidian_sanctum.h:31</div></div>
-<div class="ttc" id="aa03890_html_af5baa506e65b4caa6be6d1c6661dfe63a43836753d3e84b4f37b41a99a4a3245e"><div class="ttname"><a href="../../d2/df3/a03890.html#af5baa506e65b4caa6be6d1c6661dfe63a43836753d3e84b4f37b41a99a4a3245e">NPC_VESPERON</a></div><div class="ttdeci">@ NPC_VESPERON</div><div class="ttdef"><b>Definition:</b> obsidian_sanctum.h:44</div></div>
-<div class="ttc" id="aa03890_html_af5baa506e65b4caa6be6d1c6661dfe63a666020ca779618394caa87eab7d82c3c"><div class="ttname"><a href="../../d2/df3/a03890.html#af5baa506e65b4caa6be6d1c6661dfe63a666020ca779618394caa87eab7d82c3c">DATA_SARTHARION</a></div><div class="ttdeci">@ DATA_SARTHARION</div><div class="ttdef"><b>Definition:</b> obsidian_sanctum.h:30</div></div>
-<div class="ttc" id="aa03890_html_af5baa506e65b4caa6be6d1c6661dfe63a72509ccde0f82c1f684baf715e8983ac"><div class="ttname"><a href="../../d2/df3/a03890.html#af5baa506e65b4caa6be6d1c6661dfe63a72509ccde0f82c1f684baf715e8983ac">NPC_SHADRON</a></div><div class="ttdeci">@ NPC_SHADRON</div><div class="ttdef"><b>Definition:</b> obsidian_sanctum.h:43</div></div>
-<div class="ttc" id="aa03890_html_af5baa506e65b4caa6be6d1c6661dfe63a8ca4815f4c37140fa10966428c74a623"><div class="ttname"><a href="../../d2/df3/a03890.html#af5baa506e65b4caa6be6d1c6661dfe63a8ca4815f4c37140fa10966428c74a623">NPC_TENEBRON</a></div><div class="ttdeci">@ NPC_TENEBRON</div><div class="ttdef"><b>Definition:</b> obsidian_sanctum.h:42</div></div>
-<div class="ttc" id="aa03890_html_af5baa506e65b4caa6be6d1c6661dfe63aa2f0a4a8de58142833d1f54cbfc0d4d4"><div class="ttname"><a href="../../d2/df3/a03890.html#af5baa506e65b4caa6be6d1c6661dfe63aa2f0a4a8de58142833d1f54cbfc0d4d4">DATA_SHADRON</a></div><div class="ttdeci">@ DATA_SHADRON</div><div class="ttdef"><b>Definition:</b> obsidian_sanctum.h:33</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00045">instance_obsidian_sanctum::instance_obsidian_sanctum_InstanceMapScript::instance_obsidian_sanctum_InstanceMapScript()</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -198,8 +211,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_719d04167aa7ea3db3432ca0946ea1bc.html">ChamberOfAspects</a></li><li class="navelem"><a class="el" href="../../dir_6113d9d9930adc0ab9dd36cb7d5aa748.html">ObsidianSanctum</a></li><li class="navelem"><a class="el" href="../../d1/dba/a03896.html">instance_obsidian_sanctum.cpp</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:08:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../d1/dba/a03896.html">zone_wetlands.cpp</a></li>
+    <li class="footer">Generated on Mon Sep 7 2026 23:03:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

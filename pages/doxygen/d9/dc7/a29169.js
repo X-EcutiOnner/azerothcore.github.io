@@ -1,8 +1,10 @@
 var a29169 =
 [
-    [ "Color", "d9/dc7/a29169.html#a670fb4e2a31958f81d46047f74d9916f", null ],
-    [ "Comparator", "d9/dc7/a29169.html#ace0bdad11edd9db12e45d374da623793", null ],
-    [ "CompareColor", "d9/dc7/a29169.html#a801e2221bbb1b6aab67a57381901cf08", null ],
-    [ "ID", "d9/dc7/a29169.html#aae73769db40326d298bb1d04eef38871", null ],
-    [ "Value", "d9/dc7/a29169.html#ac314a9a6b447d386e31a286811f66538", null ]
+    [ "HasFlag", "d9/dc7/a29169.html#abe23ca5437589a38ea57bc93a6197911", null ],
+    [ "CollisionHeight", "d9/dc7/a29169.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
+    [ "CollisionWidth", "d9/dc7/a29169.html#ab79497759cf169348b8922301fc43b2f", null ],
+    [ "Flags", "d9/dc7/a29169.html#a3bb96e232124771e78f8b5db53405106", null ],
+    [ "Id", "d9/dc7/a29169.html#aa19fec147703c7542be260c8ec5a0446", null ],
+    [ "MountHeight", "d9/dc7/a29169.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
+    [ "Scale", "d9/dc7/a29169.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
 ];

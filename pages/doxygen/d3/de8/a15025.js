@@ -1,6 +1,6 @@
 var a15025 =
 [
-    [ "HandleScriptEffect", "d3/de8/a15025.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
-    [ "PrepareSpellScript", "d3/de8/a15025.html#a55115ca986d5226588d168ced7ab1f55", null ],
-    [ "Register", "d3/de8/a15025.html#ad8811bf48dfb564afcd82cf51b860255", null ]
+    [ "HandleAfterEffectApply", "d3/de8/a15025.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
+    [ "PrepareAuraScript", "d3/de8/a15025.html#a917379c33352721b5b76c1d9dac0c025", null ],
+    [ "Register", "d3/de8/a15025.html#a846d79564d76d6000c2276045775d7da", null ]
 ];

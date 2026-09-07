@@ -1,5 +1,5 @@
 var a10021 =
 [
-    [ "bossId", "d9/d84/a10021.html#af9fc7d02d16d4fb3547273428553cf05", null ],
-    [ "boundary", "d9/d84/a10021.html#a7b474c6b9225102ba08864256d07d9e6", null ]
+    [ "_Delay", "d9/d84/a10021.html#a8c4024f5818f327f29b44a26892b89a1", null ],
+    [ "_Emote", "d9/d84/a10021.html#a701c902af6f7f472511727bcc88ceeef", null ]
 ];

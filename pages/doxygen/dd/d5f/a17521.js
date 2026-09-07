@@ -1,6 +1,9 @@
 var a17521 =
 [
-    [ "entry", "dd/d5f/a17521.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "dd/d5f/a17521.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "dd/d5f/a17521.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "npc_pos_collapsing_icicleAI", "dd/d5f/a17521.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
+    [ "SpellHitTarget", "dd/d5f/a17521.html#aea107ede3b11726b3f7caae590edaf52", null ],
+    [ "UpdateAI", "dd/d5f/a17521.html#ade416a422e67ce61e8874320cce7143b", null ],
+    [ "pInstance", "dd/d5f/a17521.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
+    [ "timer1", "dd/d5f/a17521.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
+    [ "timer2", "dd/d5f/a17521.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
 ];

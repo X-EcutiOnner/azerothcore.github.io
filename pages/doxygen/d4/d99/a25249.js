@@ -1,7 +1,7 @@
 var a25249 =
 [
-    [ "HandleDamage", "d4/d99/a25249.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
-    [ "PrepareSpellScript", "d4/d99/a25249.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
-    [ "Register", "d4/d99/a25249.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
-    [ "Validate", "d4/d99/a25249.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
+    [ "HandleEffectPeriodic", "d4/d99/a25249.html#a3a2e7653276964fd36c93b41aa8f25ea", null ],
+    [ "PrepareAuraScript", "d4/d99/a25249.html#a893a539f4eeb0b9f027c5a306cc7bd53", null ],
+    [ "Register", "d4/d99/a25249.html#a36792fd068ec7444aa118ec63cf972a7", null ],
+    [ "Validate", "d4/d99/a25249.html#aa57af116294cfba007586506ba1dbeb5", null ]
 ];

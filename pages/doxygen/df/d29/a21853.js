@@ -1,7 +1,6 @@
 var a21853 =
 [
-    [ "HandleScript", "df/d29/a21853.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
-    [ "PrepareSpellScript", "df/d29/a21853.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
-    [ "Register", "df/d29/a21853.html#a9b8efef83b515f2250bda500ff741aa3", null ],
-    [ "Validate", "df/d29/a21853.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
+    [ "npc_heated_battleAI", "df/d29/a21853.html#a2b73957d7890549f4b02488c5527fcef", null ],
+    [ "DamageTaken", "df/d29/a21853.html#a8422c157214195d7166ede35c9c05d19", null ],
+    [ "Reset", "df/d29/a21853.html#a11a4f3270ff260e30da89017dad38433", null ]
 ];

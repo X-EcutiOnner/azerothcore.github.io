@@ -1,6 +1,7 @@
 var a12901 =
 [
-    [ "HandleOnHit", "d6/d0e/a12901.html#a804097903354ab3a730f0fe3eb5ec863", null ],
-    [ "PrepareSpellScript", "d6/d0e/a12901.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
-    [ "Register", "d6/d0e/a12901.html#a53bed6f1af71fd309a04bc004d07be80", null ]
+    [ "boss_broodlord", "d6/d0e/a12901.html#a3194ef765e313daaa4a0e476ec3edafa", null ],
+    [ "JustDied", "d6/d0e/a12901.html#ac3f6f747fbe61e70562f14b9aa304765", null ],
+    [ "JustEngagedWith", "d6/d0e/a12901.html#acb7214857320945a646574b0130a9585", null ],
+    [ "UpdateAI", "d6/d0e/a12901.html#a5cdb166366938797de9d691096f0f155", null ]
 ];

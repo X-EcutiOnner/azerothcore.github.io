@@ -1,9 +1,9 @@
 var a17837 =
 [
-    [ "FilterTargetsInitial", "d4/df0/a17837.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
-    [ "FilterTargetsSubsequent", "d4/df0/a17837.html#a11732039155235c287757980129d5a8e", null ],
-    [ "Load", "d4/df0/a17837.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
-    [ "PrepareSpellScript", "d4/df0/a17837.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
-    [ "Register", "d4/df0/a17837.html#a56a4e65df08a95fddde75162358155c2", null ],
-    [ "_target", "d4/df0/a17837.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
+    [ "CheckTarget", "d4/df0/a17837.html#a43fc6a16aca217ef043fa34a58391357", null ],
+    [ "HandlePresence", "d4/df0/a17837.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
+    [ "OnCast", "d4/df0/a17837.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
+    [ "PrepareSpellScript", "d4/df0/a17837.html#abe559b32aa82f19abb0a6d664b75c748", null ],
+    [ "Register", "d4/df0/a17837.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
+    [ "Validate", "d4/df0/a17837.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
 ];

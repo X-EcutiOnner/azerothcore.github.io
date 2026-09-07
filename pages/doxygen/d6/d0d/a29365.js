@@ -1,15 +1,10 @@
 var a29365 =
 [
-    [ "DamageInfoStubBuilder", "d6/d0d/a29365.html#a282b4f92722f9cf12358a9f603df6902", null ],
-    [ "Build", "d6/d0d/a29365.html#ad50ac35ca7a10f0eb20383fbde4a54dc", null ],
-    [ "WithAbsorb", "d6/d0d/a29365.html#a3533bbda604c4ed6ac467f28ecb60fbe", null ],
-    [ "WithAttackType", "d6/d0d/a29365.html#a4fd9332aa42002056d3f9191cd4435d7", null ],
-    [ "WithBlock", "d6/d0d/a29365.html#a81381d471627ddd6e86678551ca4ab5b", null ],
-    [ "WithDamage", "d6/d0d/a29365.html#abf9d30cde831f2094a181a312bcfe9df", null ],
-    [ "WithHitMask", "d6/d0d/a29365.html#a161f5ea9ae33541dfcfd600fc5546b20", null ],
-    [ "WithOriginalDamage", "d6/d0d/a29365.html#a3265aa4aa273cc9ededb6c9673f6c9e3", null ],
-    [ "WithResist", "d6/d0d/a29365.html#a76827724d8b8d780dc5d136ca01e51e6", null ],
-    [ "WithSchoolMask", "d6/d0d/a29365.html#ab540fcb56c4034daea104a1b844bdb3a", null ],
-    [ "WithSpellInfo", "d6/d0d/a29365.html#a681fe7d0c7f3b4136ad4ba2a662e6393", null ],
-    [ "_stub", "d6/d0d/a29365.html#abf06c6b638dcd9489fa0e3d755433514", null ]
+    [ "PvPDifficultyEntry", "d6/d0d/a29365.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
+    [ "GetBracketId", "d6/d0d/a29365.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
+    [ "bracketId", "d6/d0d/a29365.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
+    [ "difficulty", "d6/d0d/a29365.html#a33ac017d785a4586a78e715d97836720", null ],
+    [ "mapId", "d6/d0d/a29365.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
+    [ "maxLevel", "d6/d0d/a29365.html#a1385166568239f2118b65377df8b4b55", null ],
+    [ "minLevel", "d6/d0d/a29365.html#acd07e8d759af1b73ec7543f6e70df242", null ]
 ];

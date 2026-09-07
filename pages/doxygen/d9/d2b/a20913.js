@@ -1,6 +1,8 @@
 var a20913 =
 [
-    [ "HandleScript", "d9/d2b/a20913.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
-    [ "PrepareSpellScript", "d9/d2b/a20913.html#ab2a4155f6029850c61e84d7c180addae", null ],
-    [ "Register", "d9/d2b/a20913.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
+    [ "npc_life_spark", "d9/d2b/a20913.html#a76bbbdc610dbc433007930c7a45d03be", null ],
+    [ "JustEngagedWith", "d9/d2b/a20913.html#af4111bf747f0d5c510f72f32d42f90e3", null ],
+    [ "Reset", "d9/d2b/a20913.html#a3c5b0ee2fac3bc444cc3c58e70284b72", null ],
+    [ "UpdateAI", "d9/d2b/a20913.html#a3dffda7a220e41302b928f55995d4dce", null ],
+    [ "_scheduler", "d9/d2b/a20913.html#a7e77d71508031a75655db8aaa34d0f9d", null ]
 ];

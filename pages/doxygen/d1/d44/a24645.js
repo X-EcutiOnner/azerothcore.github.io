@@ -1,7 +1,7 @@
 var a24645 =
 [
-    [ "FilterTargets", "d1/d44/a24645.html#af6daf7022fc4cd18909056089c249c8a", null ],
-    [ "HandleDummy", "d1/d44/a24645.html#ab8f8fec8c95f471a04d642fa0dcbe3e6", null ],
-    [ "PrepareSpellScript", "d1/d44/a24645.html#a3ec1d43d3eb6ecca128ddda3c0f81efc", null ],
-    [ "Register", "d1/d44/a24645.html#ae662a050ce4cac47b6bd0d0b0c5b1e16", null ]
+    [ "CorpseExplosionCheck", "d1/d44/a24645.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
+    [ "operator()", "d1/d44/a24645.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
+    [ "_allowGhoul", "d1/d44/a24645.html#abd42a0731af969ceccdfceae722ba276", null ],
+    [ "_casterGUID", "d1/d44/a24645.html#a497df87745f452716c652e9b1be6d46f", null ]
 ];

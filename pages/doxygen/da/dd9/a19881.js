@@ -1,5 +1,6 @@
 var a19881 =
 [
-    [ "at_hol_hall_of_watchers", "da/dd9/a19881.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
-    [ "_OnTrigger", "da/dd9/a19881.html#a45e1cd4bce8c22a8c3da9b162c0eef4c", null ]
+    [ "instance_oculus_InstanceMapScript", "d6/dac/a19885.html", "d6/dac/a19885" ],
+    [ "instance_oculus", "da/dd9/a19881.html#a404205ea7106531ea57307c40b9589bb", null ],
+    [ "GetInstanceScript", "da/dd9/a19881.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
 ];

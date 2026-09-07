@@ -1,7 +1,7 @@
 var a19957 =
 [
-    [ "HandleEffectRemove", "db/d80/a19957.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "db/d80/a19957.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "db/d80/a19957.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "db/d80/a19957.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "HandleOnEffectApply", "db/d80/a19957.html#a4841f7a44f5df964c4eb9965383fd747", null ],
+    [ "PrepareAuraScript", "db/d80/a19957.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
+    [ "Register", "db/d80/a19957.html#a68fba646552678744f49d10b59704a35", null ],
+    [ "Validate", "db/d80/a19957.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
 ];

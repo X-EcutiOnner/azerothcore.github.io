@@ -1,7 +1,7 @@
 var a18441 =
 [
-    [ "OnRemove", "d0/d97/a18441.html#aa096174465120bde1994c85f72682be1", null ],
-    [ "PrepareAuraScript", "d0/d97/a18441.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
-    [ "Register", "d0/d97/a18441.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
-    [ "Validate", "d0/d97/a18441.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
+    [ "HandleCast", "d0/d97/a18441.html#aaa3262bc782e342825d4caba2954e95d", null ],
+    [ "PrepareSpellScript", "d0/d97/a18441.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
+    [ "Register", "d0/d97/a18441.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
+    [ "Validate", "d0/d97/a18441.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
 ];

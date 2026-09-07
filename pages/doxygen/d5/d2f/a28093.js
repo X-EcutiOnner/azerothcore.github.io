@@ -1,5 +1,5 @@
 var a28093 =
 [
-    [ "go_jotunheim_cage", "d5/d2f/a28093.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "d5/d2f/a28093.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "achievement_killed_exp_or_honor_target", "d5/d2f/a28093.html#aad432878c97af698dd1cc4019d716281", null ],
+    [ "OnCheck", "d5/d2f/a28093.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
 ];

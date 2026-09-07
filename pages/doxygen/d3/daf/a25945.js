@@ -1,7 +1,6 @@
 var a25945 =
 [
-    [ "HandleEnergize", "d3/daf/a25945.html#a283e713252166a863aa96530d6e7608b", null ],
-    [ "Load", "d3/daf/a25945.html#a89847e0e9435a708c5722ff928f7033f", null ],
-    [ "PrepareSpellScript", "d3/daf/a25945.html#a8847e05e6eeafd801fca5423d0689432", null ],
-    [ "Register", "d3/daf/a25945.html#ae0778ffd8cf203e22510ee91b0394303", null ]
+    [ "OnRemove", "d3/daf/a25945.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
+    [ "PrepareAuraScript", "d3/daf/a25945.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
+    [ "Register", "d3/daf/a25945.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
 ];

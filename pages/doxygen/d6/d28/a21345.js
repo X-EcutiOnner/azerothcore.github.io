@@ -1,8 +1,8 @@
 var a21345 =
 [
-    [ "npc_azure_sorceror", "d6/d28/a21345.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
-    [ "Reset", "d6/d28/a21345.html#af4bc0ff9b938302c399bff528dd06769", null ],
-    [ "UpdateAI", "d6/d28/a21345.html#a36675e89aab24a92589a33f88fbec2bd", null ],
-    [ "_arcaneStreamOnCooldown", "d6/d28/a21345.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
-    [ "_events", "d6/d28/a21345.html#a3bd018057b31c90afd19ac6943d44591", null ]
+    [ "FilterTargets", "d6/d28/a21345.html#a028ef84c884536a28650ace1e56f8061", null ],
+    [ "HandleScript", "d6/d28/a21345.html#a16466b4c07c06c57493082b0e84b3c66", null ],
+    [ "PrepareSpellScript", "d6/d28/a21345.html#ad43892487ca38342a61522548b34cd2c", null ],
+    [ "Register", "d6/d28/a21345.html#a90470761baccdcf8c5430006004abf29", null ],
+    [ "Validate", "d6/d28/a21345.html#a1664dcb92887f6974e1750472c02d168", null ]
 ];

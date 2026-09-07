@@ -1,6 +1,15 @@
 var a17629 =
 [
-    [ "boss_prince_kelesethAI", "d7/d3f/a17633.html", "d7/d3f/a17633" ],
-    [ "boss_prince_keleseth_icc", "d6/dcb/a17629.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
-    [ "GetAI", "d6/dcb/a17629.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
+    [ "boss_gal_darah", "d6/dcb/a17629.html#a036b5f96ecf5096040f16e0205e4d57c", null ],
+    [ "GetData", "d6/dcb/a17629.html#a1f8ec6a0a95b10953506e08275db7a2c", null ],
+    [ "JustDied", "d6/dcb/a17629.html#a98f53f7131155114da1eeb19f5a50daa", null ],
+    [ "JustEngagedWith", "d6/dcb/a17629.html#acf7696bdfa868808f29a90dbec4b0688", null ],
+    [ "JustReachedHome", "d6/dcb/a17629.html#aba3c2011a01d4e00b7e1c28f0c4326b9", null ],
+    [ "JustSummoned", "d6/dcb/a17629.html#a490e259cf452c417864c978510d06fd2", null ],
+    [ "KilledUnit", "d6/dcb/a17629.html#a799e52cfe029164149017ea7f963937f", null ],
+    [ "Reset", "d6/dcb/a17629.html#a712339fe4a06d6a4836f4cbb5bd01625", null ],
+    [ "ScheduleEvents", "d6/dcb/a17629.html#ad5acba3d3bc049bb5bdcb95d31ef06d6", null ],
+    [ "SpellHit", "d6/dcb/a17629.html#a3f8cbe22aa2e0d39272b5b4dbfc5f06b", null ],
+    [ "_stampedeVictim", "d6/dcb/a17629.html#a0d34c4486c4188fcc6eb75e904d52a61", null ],
+    [ "impaledList", "d6/dcb/a17629.html#a08f311b7b7cec3bc4056b7d7071bfbf0", null ]
 ];

@@ -1,6 +1,6 @@
 var a21465 =
 [
-    [ "PrepareSpellScript", "dc/d38/a21465.html#a072a5228690b929af3b65d771bf5f485", null ],
-    [ "Register", "dc/d38/a21465.html#a87235eb9494edd94221f0380e815aa6b", null ],
-    [ "SetDest", "dc/d38/a21465.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
+    [ "npc_frozen_orbAI", "da/ddd/a21469.html", "da/ddd/a21469" ],
+    [ "npc_frozen_orb", "dc/d38/a21465.html#ac14966722e39b2b6b3a907756701ed98", null ],
+    [ "GetAI", "dc/d38/a21465.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
 ];

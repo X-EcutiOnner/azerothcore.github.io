@@ -1,10 +1,6 @@
 var a27917 =
 [
-    [ "boss_emerissAI", "d1/dc0/a27917.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
-    [ "DamageTaken", "d1/dc0/a27917.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
-    [ "ExecuteEvent", "d1/dc0/a27917.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
-    [ "JustEngagedWith", "d1/dc0/a27917.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
-    [ "KilledUnit", "d1/dc0/a27917.html#ad851169bc09a362137e211dd10d30a1b", null ],
-    [ "Reset", "d1/dc0/a27917.html#a44dfb325c4e8413662052137edc710ef", null ],
-    [ "_stage", "d1/dc0/a27917.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
+    [ "HandleRemove", "d1/dc0/a27917.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
+    [ "PrepareAuraScript", "d1/dc0/a27917.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
+    [ "Register", "d1/dc0/a27917.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
 ];

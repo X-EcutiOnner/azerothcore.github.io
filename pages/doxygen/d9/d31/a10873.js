@@ -1,9 +1,9 @@
 var a10873 =
 [
-    [ "ServerPacket", "d9/d31/a10873.html#a4d2bf169dd705b886da8ff58a7ef4bd2", null ],
-    [ "Clear", "d9/d31/a10873.html#aa54f2fa66cfe4682ca56cf01f9e1296a", null ],
-    [ "GetOpcode", "d9/d31/a10873.html#a639ab6c078d7c746bcb328526df705be", null ],
-    [ "Move", "d9/d31/a10873.html#a659397042201ae571bb564872e54d2c6", null ],
-    [ "Read", "d9/d31/a10873.html#ae49aa7bce566d9f0ea3c7bbb487a119d", null ],
-    [ "ShrinkToFit", "d9/d31/a10873.html#a6fa19a94d57484aaff3498be01495258", null ]
+    [ "TransportScript", "d9/d31/a10873.html#ac328f301c960bc154ada0e5f1fed294e", null ],
+    [ "IsDatabaseBound", "d9/d31/a10873.html#a956f0d757e5d974566fa8fac0df731e5", null ],
+    [ "OnAddCreaturePassenger", "d9/d31/a10873.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
+    [ "OnAddPassenger", "d9/d31/a10873.html#a806f4829b47429900271f6dde7eaa625", null ],
+    [ "OnRelocate", "d9/d31/a10873.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
+    [ "OnRemovePassenger", "d9/d31/a10873.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
 ];

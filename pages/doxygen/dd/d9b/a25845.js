@@ -1,8 +1,8 @@
 var a25845 =
 [
-    [ "OnRemove", "dd/d9b/a25845.html#a645e869079e711a87f1a957b42a35e98", null ],
-    [ "OnStackChange", "dd/d9b/a25845.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
-    [ "PrepareAuraScript", "dd/d9b/a25845.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
-    [ "Register", "dd/d9b/a25845.html#ac86068a892255e38244c487a7456cd9f", null ],
-    [ "Validate", "dd/d9b/a25845.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
+    [ "CheckProc", "dd/d9b/a25845.html#adbd524ef767a8b5cde13a5358969e344", null ],
+    [ "HandleProc", "dd/d9b/a25845.html#ab208e39ea63158688a6a028696b9adc5", null ],
+    [ "PrepareAuraScript", "dd/d9b/a25845.html#ad078ad76f0d0f88b9d52c88127d1aae7", null ],
+    [ "Register", "dd/d9b/a25845.html#a834868e504beece0ce5e1e1745f96f63", null ],
+    [ "Validate", "dd/d9b/a25845.html#a779b560a877ac0e731fe50c25af3d4d9", null ]
 ];

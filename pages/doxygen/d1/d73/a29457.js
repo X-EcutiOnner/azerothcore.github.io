@@ -1,8 +1,8 @@
 var a29457 =
 [
-    [ "bp0", "d1/d73/a29457.html#ada8e047c960181610ff1942cbdfa2e27", null ],
-    [ "bp1", "d1/d73/a29457.html#aaf81afde542db481bde1e26fcc21b945", null ],
-    [ "bp2", "d1/d73/a29457.html#a36b28d1bc821bfd3970b6af0f38a9f10", null ],
-    [ "spellId", "d1/d73/a29457.html#a3f8e88d4761c5247c2cb9bff94d548aa", null ],
-    [ "triggered", "d1/d73/a29457.html#a0ee8feba0856c5497612e15128ba8273", null ]
+    [ "Color", "d1/d73/a29457.html#a670fb4e2a31958f81d46047f74d9916f", null ],
+    [ "Comparator", "d1/d73/a29457.html#ace0bdad11edd9db12e45d374da623793", null ],
+    [ "CompareColor", "d1/d73/a29457.html#a801e2221bbb1b6aab67a57381901cf08", null ],
+    [ "ID", "d1/d73/a29457.html#aae73769db40326d298bb1d04eef38871", null ],
+    [ "Value", "d1/d73/a29457.html#ac314a9a6b447d386e31a286811f66538", null ]
 ];

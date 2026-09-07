@@ -1,6 +1,7 @@
 var a21645 =
 [
-    [ "SACDeactivateEvent", "d8/d35/a21645.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
-    [ "Execute", "d8/d35/a21645.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
-    [ "_owner", "d8/d35/a21645.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
+    [ "npc_mootoo_the_youngerAI", "d4/d71/a21649.html", "d4/d71/a21649" ],
+    [ "npc_mootoo_the_younger", "d8/d35/a21645.html#a91e10489ed6a98cfa764fd4de8448317", null ],
+    [ "GetAI", "d8/d35/a21645.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
+    [ "OnQuestAccept", "d8/d35/a21645.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
 ];

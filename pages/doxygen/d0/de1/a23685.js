@@ -1,6 +1,6 @@
 var a23685 =
 [
-    [ "lapseTeleport", "d0/de1/a23685.html#a55c4330397214bf3a43628b3067d4634", null ],
-    [ "Execute", "d0/de1/a23685.html#a122023ed13fce2f5bb3721e459964443", null ],
-    [ "_owner", "d0/de1/a23685.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
+    [ "HandleScriptEffect", "d0/de1/a23685.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
+    [ "PrepareSpellScript", "d0/de1/a23685.html#a287bff28e57a86f0176921500de78fa9", null ],
+    [ "Register", "d0/de1/a23685.html#ad5fb101794dfdef0c08551dd9397b965", null ]
 ];

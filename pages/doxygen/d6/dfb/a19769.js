@@ -1,10 +1,7 @@
 var a19769 =
 [
-    [ "npc_oculus_drakegiverAI", "d6/dfb/a19769.html#a4bba380256a0ede70b8d90611249b444", null ],
-    [ "MovementInform", "d6/dfb/a19769.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
-    [ "UpdateAI", "d6/dfb/a19769.html#a652a8c364687d51de62356964f6f33f9", null ],
-    [ "m_pInstance", "d6/dfb/a19769.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
-    [ "moved", "d6/dfb/a19769.html#a069e202a84d99cd757862bd1a43b5562", null ],
-    [ "resetPosition", "d6/dfb/a19769.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
-    [ "timer", "d6/dfb/a19769.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
+    [ "Load", "d6/dfb/a19769.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
+    [ "PrepareSpellScript", "d6/dfb/a19769.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
+    [ "Register", "d6/dfb/a19769.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
+    [ "SetDest", "d6/dfb/a19769.html#a231a75702f4a98f51d1be45510c5d05f", null ]
 ];

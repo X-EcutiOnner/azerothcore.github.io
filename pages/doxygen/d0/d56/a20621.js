@@ -1,5 +1,6 @@
 var a20621 =
 [
-    [ "achievement_quick_shave", "d0/d56/a20621.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "d0/d56/a20621.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "FilterTargets", "d0/d56/a20621.html#ae8d940a89be9b63286911bd55dcd3844", null ],
+    [ "PrepareSpellScript", "d0/d56/a20621.html#a8f4b4d82e53c8f820b620896478681a9", null ],
+    [ "Register", "d0/d56/a20621.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
 ];

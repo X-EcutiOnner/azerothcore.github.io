@@ -1,9 +1,10 @@
 var a10457 =
 [
-    [ "counter", "d6/d0b/a10457.html#a0efb94229f4a9370dc5b256ba623385b", null ],
-    [ "getCurrent", "d6/d0b/a10457.html#afff6411c2b7f1c07d72ad26dc77d4780", null ],
-    [ "Increase", "d6/d0b/a10457.html#a463e0ba077c8398a6125e715afcd8860", null ],
-    [ "init", "d6/d0b/a10457.html#a0369662be009b781174021a2eb6b3202", null ],
-    [ "NewId", "d6/d0b/a10457.html#a06d5bc4ea248173316ed4d1ce96d6281", null ],
-    [ "m_counter", "d6/d0b/a10457.html#a297f1ba5e072e4c90b62c7242ee1b01c", null ]
+    [ "DistractMovementGenerator", "d6/d0b/a10457.html#a55879290b06f4fc86a1da791c07b7afb", null ],
+    [ "Finalize", "d6/d0b/a10457.html#aa4a2b943ecde8750bd764290d65872df", null ],
+    [ "GetMovementGeneratorType", "d6/d0b/a10457.html#a0b30745bf1cd7b5a264e970273595592", null ],
+    [ "Initialize", "d6/d0b/a10457.html#a71410ddbda2be6b34bb2276a83fea5c9", null ],
+    [ "Reset", "d6/d0b/a10457.html#ad544709b2873b63b28d27ab414c280ba", null ],
+    [ "Update", "d6/d0b/a10457.html#ad5a15c1507b8ab315b658351077629b3", null ],
+    [ "m_timer", "d6/d0b/a10457.html#a8b520d8e97704ac39ce28c2256557b42", null ]
 ];

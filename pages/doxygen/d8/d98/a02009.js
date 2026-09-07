@@ -1,59 +1,35 @@
 var a02009 =
 [
-    [ "AchievementOfflinePlayerUpdate", "dc/d49/a06319.html", "dc/d49/a06319" ],
-    [ "CriteriaProgress", "dd/d54/a06323.html", "dd/d54/a06323" ],
-    [ "AchievementCriteriaData", "d4/d7c/a06327.html", "d4/d7c/a06327" ],
-    [ "AchievementCriteriaDataSet", "dc/d3e/a06423.html", "dc/d3e/a06423" ],
-    [ "AchievementReward", "da/df2/a06427.html", "da/df2/a06427" ],
-    [ "AchievementRewardLocale", "d6/dac/a06431.html", "d6/dac/a06431" ],
-    [ "CompletedAchievementData", "da/d5b/a06435.html", "da/d5b/a06435" ],
-    [ "AchievementMgr", "d7/de4/a06439.html", "d7/de4/a06439" ],
-    [ "AchievementGlobalMgr", "da/de8/a06443.html", "da/de8/a06443" ],
-    [ "MAX_ACHIEVEMENT_CRITERIA_DATA_TYPE", "d8/d98/a02009.html#aa36806d2931b69d34909b50f40ca8c0e", null ],
-    [ "sAchievementMgr", "d8/d98/a02009.html#af422afe119839b631fd67247eddff1e6", null ],
-    [ "AchievementCriteriaDataMap", "d8/d98/a02009.html#ac16b4d5f47fe0db16d59dc67e86e42be", null ],
-    [ "AchievementCriteriaEntryList", "d8/d98/a02009.html#a7a5f365d092f508da6ae8d510f0e3117", null ],
-    [ "AchievementCriteriaListByAchievement", "d8/d98/a02009.html#ad5e4b1cd98f21804a508642d8475033f", null ],
-    [ "AchievementEntryList", "d8/d98/a02009.html#a9d70fd67a3069b6a55c0145265bffc4b", null ],
-    [ "AchievementListByReferencedId", "d8/d98/a02009.html#af3b606f4c218a7e68902cd9ff9470f5b", null ],
-    [ "AchievementRewardLocales", "d8/d98/a02009.html#a3d51ce6b9e37b72772cea78f064e5a77", null ],
-    [ "AchievementRewards", "d8/d98/a02009.html#a471572afc0467790ccff565b39f61720", null ],
-    [ "CompletedAchievementMap", "d8/d98/a02009.html#aee097fd9426b25c1101af73a551a37e1", null ],
-    [ "CriteriaProgressMap", "d8/d98/a02009.html#a649527d8ab61f39ad17fe709d2b1aabc", null ],
-    [ "AchievementCommonCategories", "d8/d98/a02009.html#ac0bc114e07c706c7192e14e80355a213", [
-      [ "ACHIEVEMENT_CATEOGRY_GENERAL", "d8/d98/a02009.html#ac0bc114e07c706c7192e14e80355a213a4c91db703d7b5c8f8756bc6136bc5207", null ],
-      [ "ACHIEVEMENT_CATEGORY_STATISTICS", "d8/d98/a02009.html#ac0bc114e07c706c7192e14e80355a213a142173b7c79b8a90cd7854fd7b03509a", null ]
+    [ "CreatureAI", "d7/da1/a06569.html", "d7/da1/a06569" ],
+    [ "TIME_INTERVAL_LOOK", "d8/d98/a02009.html#a8de08a341cdd207e19eef425c2f5f152", null ],
+    [ "VISIBILITY_RANGE", "d8/d98/a02009.html#a5548091cca58d569e4226b6915ec8cb2", null ],
+    [ "CreatureBoundary", "d8/d98/a02009.html#a7994a32cb10f6de9d90e32ef2d6c1f37", null ],
+    [ "Permitions", "d8/d98/a02009.html#adf806592547de59418c6070d69c5efb9", [
+      [ "PERMIT_BASE_NO", "d8/d98/a02009.html#adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0", null ],
+      [ "PERMIT_BASE_IDLE", "d8/d98/a02009.html#adf806592547de59418c6070d69c5efb9aa30fb6bbae2f275b7c269df6b7bac2c0", null ],
+      [ "PERMIT_BASE_REACTIVE", "d8/d98/a02009.html#adf806592547de59418c6070d69c5efb9a8781eb0d588151b618bd98b03423dc58", null ],
+      [ "PERMIT_BASE_PROACTIVE", "d8/d98/a02009.html#adf806592547de59418c6070d69c5efb9a06a019c60b174cae59e682299512d78c", null ],
+      [ "PERMIT_BASE_FACTION_SPECIFIC", "d8/d98/a02009.html#adf806592547de59418c6070d69c5efb9a9935ee057ed82483ff6a6363709db059", null ],
+      [ "PERMIT_BASE_SPECIAL", "d8/d98/a02009.html#adf806592547de59418c6070d69c5efb9a01dc7d3add2acacf44721592378df415", null ]
     ] ],
-    [ "AchievementCriteriaDataType", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0", [
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_NONE", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0ae9d5b8759c2ee53b9e210a15ad049943", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_CREATURE", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0abc70f9063061689cbf95c04df5a9a448", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_CLASS_RACE", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0a22786f73e7cc8966c60614e88f0d5cb1", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_LESS_HEALTH", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0ac6775a92c029d4c2be529461e23e4ca3", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_DEAD", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0adc76e0c15e881d6848994a911d1a8ef6", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AURA", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0a9507639d721e63f182ebd53d593d5465", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AREA", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0a19b830790eb46adb27e8a65b85eceed1", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_AURA", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0aa0b32101ef67881083e58a6a6c55c75b", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_VALUE", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0a3fd659753b9d41caa4b58c51d2cb6ea7", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_LEVEL", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0ab055e5273ac4250d273fa5592af3ed39", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_GENDER", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0a10fc4cfb0da2c0c72c12d5e6e4a1bdd6", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_SCRIPT", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0a0578b3122b1b69df3af04c2d45df266c", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_DIFFICULTY", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0a5813a09c9977d3d5f80595d529f7f420", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_PLAYER_COUNT", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0a1046e477766a7c60f4446fef1b13a6f5", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_TEAM", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0ad5967db594cc30c247c785d5c753cc18", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_DRUNK", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0a7fcb85cf04be09a3a5f1214553bf329a", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_HOLIDAY", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0a9dba74c8f01c9292cf8afa6b77be2a34", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_LOSS_TEAM_SCORE", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0aab81f29c4cb17f066e8d2bd95f37d954", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_INSTANCE_SCRIPT", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0adb7d56866cf7afe8c4145c300a06ec4c", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_EQUIPPED_ITEM", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0a77677f4d00c6fab053e7f632ef59b4e5", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_ID", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0a84b46b516fde8adcd492cb856d32e722", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_PLAYER_CLASS_RACE", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0aaa861458fcfe5aed7f8714be2b68a1db", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_NTH_BIRTHDAY", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0a003a15517532a95903cb8c6673db418f", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_KNOWN_TITLE", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0a158d186341dd9798da3921a4a6bd2fda", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_TEAMS_SCORES", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0af734713c1c6764e61fddab192904518a", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_ITEM_QUALITY", "d8/d98/a02009.html#a72f8a725cd1b257556ae7aa080f477c0af53705f7958654cf4ca99c99dd320735", null ]
+    [ "SCEquip", "d8/d98/a02009.html#a8561d766fce1bb059293efa6256c9717", [
+      [ "EQUIP_NO_CHANGE", "d8/d98/a02009.html#a8561d766fce1bb059293efa6256c9717a52eb65358cd8ffabf53e7104b78e95a2", null ],
+      [ "EQUIP_UNEQUIP", "d8/d98/a02009.html#a8561d766fce1bb059293efa6256c9717a435fadd0e5fa209afb6fd9363afbe54c", null ]
     ] ],
-    [ "AchievementOfflinePlayerUpdateType", "d8/d98/a02009.html#a9c52752c50b87261f43020b3cfaa06e6", [
-      [ "ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_COMPLETE_ACHIEVEMENT", "d8/d98/a02009.html#a9c52752c50b87261f43020b3cfaa06e6a2976d6d0cc93ac389d7683d092aff8ee", null ],
-      [ "ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_UPDATE_CRITERIA", "d8/d98/a02009.html#a9c52752c50b87261f43020b3cfaa06e6a7d91d50e1acd06739fbc20bd87c8a4a3", null ]
+    [ "SelectEffect", "d8/d98/a02009.html#a8b21f6463e7db78be55dee9160352869", [
+      [ "SELECT_EFFECT_DONTCARE", "d8/d98/a02009.html#a8b21f6463e7db78be55dee9160352869a391dc42f0a158e8fdffbc0b18d9250e9", null ],
+      [ "SELECT_EFFECT_DAMAGE", "d8/d98/a02009.html#a8b21f6463e7db78be55dee9160352869ae1b4806793cac829bda8b64d0233adae", null ],
+      [ "SELECT_EFFECT_HEALING", "d8/d98/a02009.html#a8b21f6463e7db78be55dee9160352869a7c5e00f75a32eb7e8f1a5ea2dcb7d404", null ],
+      [ "SELECT_EFFECT_AURA", "d8/d98/a02009.html#a8b21f6463e7db78be55dee9160352869a5e73a49eeb722bf496ce76b4448280e5", null ]
+    ] ],
+    [ "SelectTargetType", "d8/d98/a02009.html#a09291ebbaa06245b9f65d046a8b67621", [
+      [ "SELECT_TARGET_DONTCARE", "d8/d98/a02009.html#a09291ebbaa06245b9f65d046a8b67621a3a0e529ee20cdfb171df9e8d67f0f749", null ],
+      [ "SELECT_TARGET_SELF", "d8/d98/a02009.html#a09291ebbaa06245b9f65d046a8b67621ae0e226db3f7e8c664ce1958c8fdc8e4a", null ],
+      [ "SELECT_TARGET_SINGLE_ENEMY", "d8/d98/a02009.html#a09291ebbaa06245b9f65d046a8b67621a371e0b7a2a0f1bc7809a2651c1ee6261", null ],
+      [ "SELECT_TARGET_AOE_ENEMY", "d8/d98/a02009.html#a09291ebbaa06245b9f65d046a8b67621af8f6f83b9b85f662ac5ce0dfb463daa4", null ],
+      [ "SELECT_TARGET_ANY_ENEMY", "d8/d98/a02009.html#a09291ebbaa06245b9f65d046a8b67621a25807921690235c31bdc32b599e04508", null ],
+      [ "SELECT_TARGET_SINGLE_FRIEND", "d8/d98/a02009.html#a09291ebbaa06245b9f65d046a8b67621a316f9dbbb2b5f3bc0667436767f540cb", null ],
+      [ "SELECT_TARGET_AOE_FRIEND", "d8/d98/a02009.html#a09291ebbaa06245b9f65d046a8b67621a21f9e37e67ab22ebd4bec53351757e38", null ],
+      [ "SELECT_TARGET_ANY_FRIEND", "d8/d98/a02009.html#a09291ebbaa06245b9f65d046a8b67621a0af0a125ae9df4fecd57d759643832b3", null ]
     ] ]
 ];

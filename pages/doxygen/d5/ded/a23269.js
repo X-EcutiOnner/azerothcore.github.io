@@ -1,6 +1,6 @@
 var a23269 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d2/d40/a23273.html", "d2/d40/a23273" ],
-    [ "instance_the_underbog", "d5/ded/a23269.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "d5/ded/a23269.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "HandleEffectRemove", "d5/ded/a23269.html#ae31aae4e762b3c19e7df0c1d3a3733c3", null ],
+    [ "PrepareAuraScript", "d5/ded/a23269.html#a3758550ba42e01aff3a1e23c624a84b9", null ],
+    [ "Register", "d5/ded/a23269.html#a6fb7aec222f9282b0300b0d2f309d47e", null ]
 ];

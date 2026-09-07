@@ -1,28 +1,7 @@
 var a19977 =
 [
-    [ "boss_algalon_the_observer", "d0/d19/a19977.html#a245eb1b0814cca589e07320dea7e236b", null ],
-    [ "AttackStart", "d0/d19/a19977.html#af61dc178b3c0f5757d5dfce067b5d07f", null ],
-    [ "CallConstellations", "d0/d19/a19977.html#ad5851cc0f7fc5a7dcfd9986b6b26579a", null ],
-    [ "DamageTaken", "d0/d19/a19977.html#abbd0be74c681da6606d79a1b6a210ffa", null ],
-    [ "DoAction", "d0/d19/a19977.html#ab9deffb6af78a88e000b206632e801f9", null ],
-    [ "DoCheckHeraldOfTheTitans", "d0/d19/a19977.html#a05ae39332df494cd98c60d54211510fc", null ],
-    [ "EnterEvadeMode", "d0/d19/a19977.html#a9976bad2fdff356ae3739a90a9761798", null ],
-    [ "GetData", "d0/d19/a19977.html#ae8b810a6495b7c2fb8bba59252655b76", null ],
-    [ "IsInRoom", "d0/d19/a19977.html#ae1f987efb9b167719520ff9e560da568", null ],
-    [ "IsValidHeraldItem", "d0/d19/a19977.html#ad30f5828be9d38a9473b93ff780a196d", null ],
-    [ "JustEngagedWith", "d0/d19/a19977.html#a6b0408e45fda19e394c7f59032c9b660", null ],
-    [ "JustReachedHome", "d0/d19/a19977.html#a2ea08602c55f3bca4a6d39eb6ccb1f53", null ],
-    [ "JustSummoned", "d0/d19/a19977.html#a969adb280ab53ffec6d7b3f3fa1cb2cc", null ],
-    [ "KilledUnit", "d0/d19/a19977.html#aa1a53d920464a31a22612e5463187da0", null ],
-    [ "MovementInform", "d0/d19/a19977.html#aca6ba41d820682a7af80d5f6e492bd80", null ],
-    [ "Reset", "d0/d19/a19977.html#ad2bdc1d3cd5fbbda4cf0c504b6c024b7", null ],
-    [ "UpdateAI", "d0/d19/a19977.html#a049475d557c3d6269fa0d34210072890", null ],
-    [ "_fedOnTears", "d0/d19/a19977.html#a9523f5eb6a9465f8ffcd7c8abf2c6c87", null ],
-    [ "_fightWon", "d0/d19/a19977.html#a01a09a0b57378f01faa7c9a28c7fbe15", null ],
-    [ "_firstPull", "d0/d19/a19977.html#afff79a02e3ac0a6755e071589d3616e9", null ],
-    [ "_heraldOfTheTitans", "d0/d19/a19977.html#ace0156d62013cf93afb9eda7ce511570", null ],
-    [ "_instance", "d0/d19/a19977.html#abd66b84088263188a45f62a0ca285e22", null ],
-    [ "_phaseTwo", "d0/d19/a19977.html#aa291c5d670ba6e69fa7c6cf4cf899e41", null ],
-    [ "events", "d0/d19/a19977.html#aed6084e6c8f289905675d0c908653855", null ],
-    [ "summons", "d0/d19/a19977.html#a8f4703505b8f00327fe0405c1d7010eb", null ]
+    [ "OnRemove", "d0/d19/a19977.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "d0/d19/a19977.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "d0/d19/a19977.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "d0/d19/a19977.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

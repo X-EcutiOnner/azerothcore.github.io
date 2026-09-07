@@ -1,13 +1,16 @@
 var a00722 =
 [
-    [ "anonymous_namespace{FrostboltPvPTest.cpp}::FrostboltPvPTest", "d7/d93/a29963.html", "d7/d93/a29963" ],
-    [ "TEST_F", "db/d7c/a00722.html#a3c2cf023118b4939342706355b5e3e23", null ],
-    [ "TEST_F", "db/d7c/a00722.html#a505e9af595a807914a390aa3fe2b5a3f", null ],
-    [ "TEST_F", "db/d7c/a00722.html#a3a2bcf2a861c5ae0aa63621f4768abd6", null ],
-    [ "TEST_F", "db/d7c/a00722.html#ac1d8ca954bc5412a7a494f77aae4ed64", null ],
-    [ "TEST_F", "db/d7c/a00722.html#a1baefe138ddf5a4c83ade03ad1e71835", null ],
-    [ "FROSTBOLT_BASE_DAMAGE", "db/d7c/a00722.html#a620444164ecdf992df4d10b61454d3cf", null ],
-    [ "FROSTBOLT_DURATION_MS", "db/d7c/a00722.html#a6d55f8f70ec9e5652a08520d2533600f", null ],
-    [ "FROSTBOLT_SLOW_PCT", "db/d7c/a00722.html#a21ce900035aa8f72aef05d123f52ee4a", null ],
-    [ "FROSTBOLT_SPELL_ID", "db/d7c/a00722.html#a896c09069ad88a91db2f3b2182109078", null ]
+    [ "AccountScript", "d6/d9c/a10677.html", "d6/d9c/a10677" ],
+    [ "AccountHook", "db/d7c/a00722.html#a4b5c567266fc875ca26b1f3c273a0e3f", [
+      [ "ACCOUNTHOOK_ON_ACCOUNT_LOGIN", "db/d7c/a00722.html#a4b5c567266fc875ca26b1f3c273a0e3fa97110c19d0d3bf4985d037248fc9a520", null ],
+      [ "ACCOUNTHOOK_ON_BEFORE_ACCOUNT_DELETE", "db/d7c/a00722.html#a4b5c567266fc875ca26b1f3c273a0e3fa68eae28cd3d4824d5a1f43be23334ecb", null ],
+      [ "ACCOUNTHOOK_ON_LAST_IP_UPDATE", "db/d7c/a00722.html#a4b5c567266fc875ca26b1f3c273a0e3faef7c124ffc203147c487a3fdf3fb3993", null ],
+      [ "ACCOUNTHOOK_ON_FAILED_ACCOUNT_LOGIN", "db/d7c/a00722.html#a4b5c567266fc875ca26b1f3c273a0e3fad9e09c448ea9ea11d0dab7b19364a744", null ],
+      [ "ACCOUNTHOOK_ON_EMAIL_CHANGE", "db/d7c/a00722.html#a4b5c567266fc875ca26b1f3c273a0e3fa614cf50cd5271ecd85b56e2c96417982", null ],
+      [ "ACCOUNTHOOK_ON_FAILED_EMAIL_CHANGE", "db/d7c/a00722.html#a4b5c567266fc875ca26b1f3c273a0e3fa8d513341e8c3bd3b9ab3d56ad1854fdf", null ],
+      [ "ACCOUNTHOOK_ON_PASSWORD_CHANGE", "db/d7c/a00722.html#a4b5c567266fc875ca26b1f3c273a0e3fa1a346d78a8f0cd7fbf326655e791eec5", null ],
+      [ "ACCOUNTHOOK_ON_FAILED_PASSWORD_CHANGE", "db/d7c/a00722.html#a4b5c567266fc875ca26b1f3c273a0e3faa64f8339ee297e9e9d5591423f18f283", null ],
+      [ "ACCOUNTHOOK_CAN_ACCOUNT_CREATE_CHARACTER", "db/d7c/a00722.html#a4b5c567266fc875ca26b1f3c273a0e3fabbf594e3be51c108e40d535b8ba1baf3", null ],
+      [ "ACCOUNTHOOK_END", "db/d7c/a00722.html#a4b5c567266fc875ca26b1f3c273a0e3fafdbdba3262877bcac001a3013cdd4f5f", null ]
+    ] ]
 ];

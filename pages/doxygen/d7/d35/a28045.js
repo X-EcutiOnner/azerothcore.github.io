@@ -1,6 +1,5 @@
 var a28045 =
 [
-    [ "go_gilded_brazierAI", "dc/dd6/a28049.html", "dc/dd6/a28049" ],
-    [ "go_gilded_brazier", "d7/d35/a28045.html#a778c753a8432131601371da8849ef004", null ],
-    [ "GetAI", "d7/d35/a28045.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
+    [ "achievement_save_the_day", "d7/d35/a28045.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
+    [ "OnCheck", "d7/d35/a28045.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
 ];

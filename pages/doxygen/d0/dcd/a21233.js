@@ -1,6 +1,9 @@
 var a21233 =
 [
-    [ "npc_frozen_orbAI", "d6/d58/a21237.html", "d6/d58/a21237" ],
-    [ "npc_frozen_orb", "d0/dcd/a21233.html#ac14966722e39b2b6b3a907756701ed98", null ],
-    [ "GetAI", "d0/dcd/a21233.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
+    [ "npc_vrykul_skeleton", "d0/dcd/a21233.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
+    [ "DamageTaken", "d0/dcd/a21233.html#a840244c4183987e4fda533edb2ddeff2", null ],
+    [ "Reset", "d0/dcd/a21233.html#af950342b2177c84c101485736855b998", null ],
+    [ "UpdateAI", "d0/dcd/a21233.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
+    [ "events", "d0/dcd/a21233.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
+    [ "pInstance", "d0/dcd/a21233.html#a834f0162540683c20f9fa0f9e32eee33", null ]
 ];

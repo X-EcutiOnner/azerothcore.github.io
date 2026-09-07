@@ -1,6 +1,6 @@
 var a24301 =
 [
-    [ "HandleAfterCast", "dd/dd9/a24301.html#aaa65e67362ded5318e89272acf073bf3", null ],
-    [ "PrepareSpellScript", "dd/dd9/a24301.html#a7d0dd936965845c14e7b54846facdb89", null ],
-    [ "Register", "dd/dd9/a24301.html#ab7b767743d62d9763bea710b7552a8cf", null ]
+    [ "npc_illidari_spawnAI", "d1/d22/a24305.html", "d1/d22/a24305" ],
+    [ "npc_illidari_spawn", "dd/dd9/a24301.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "dd/dd9/a24301.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];

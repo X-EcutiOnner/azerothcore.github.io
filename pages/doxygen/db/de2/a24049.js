@@ -1,6 +1,6 @@
 var a24049 =
 [
-    [ "npc_enraged_spiritAI", "d5/d0d/a24053.html", "d5/d0d/a24053" ],
-    [ "npc_enraged_spirit", "db/de2/a24049.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
-    [ "GetAI", "db/de2/a24049.html#aa10d5f0147cf4064a49df735ac95575e", null ]
+    [ "npc_deaths_fel_cannonAI", "db/de2/a24049.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
+    [ "Reset", "db/de2/a24049.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
+    [ "UpdateAI", "db/de2/a24049.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
 ];

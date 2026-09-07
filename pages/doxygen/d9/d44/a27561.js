@@ -1,6 +1,7 @@
 var a27561 =
 [
-    [ "PrepareAuraScript", "d9/d44/a27561.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "d9/d44/a27561.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "d9/d44/a27561.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "HandleDispel", "d9/d44/a27561.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
+    [ "PrepareAuraScript", "d9/d44/a27561.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
+    [ "Register", "d9/d44/a27561.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
+    [ "Validate", "d9/d44/a27561.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
 ];

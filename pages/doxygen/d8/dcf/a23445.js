@@ -1,6 +1,6 @@
 var a23445 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "df/db8/a23449.html", "df/db8/a23449" ],
-    [ "instance_magtheridons_lair", "d8/dcf/a23445.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
-    [ "GetInstanceScript", "d8/dcf/a23445.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
+    [ "instance_the_slave_pens_InstanceMapScript", "df/db8/a23449.html", "df/db8/a23449" ],
+    [ "instance_the_slave_pens", "d8/dcf/a23445.html#a765f7b66ad3bed1828524ecb143742f2", null ],
+    [ "GetInstanceScript", "d8/dcf/a23445.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
 ];

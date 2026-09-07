@@ -1,6 +1,6 @@
 var a18297 =
 [
-    [ "OnRemove", "df/da6/a18297.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
-    [ "PrepareAuraScript", "df/da6/a18297.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
-    [ "Register", "df/da6/a18297.html#afa993cb14444989feac16c9fa2d7b8df", null ]
+    [ "npc_gas_cloudAI", "db/da4/a18301.html", "db/da4/a18301" ],
+    [ "npc_gas_cloud", "df/da6/a18297.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
+    [ "GetAI", "df/da6/a18297.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
 ];

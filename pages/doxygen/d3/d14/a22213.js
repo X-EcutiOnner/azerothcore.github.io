@@ -1,6 +1,5 @@
 var a22213 =
 [
-    [ "go_wg_vehicle_teleporterAI", "d8/dd5/a22217.html", "d8/dd5/a22217" ],
-    [ "go_wg_vehicle_teleporter", "d3/d14/a22213.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
-    [ "GetAI", "d3/d14/a22213.html#a113aaf42c095000c1a016bfe60df11e7", null ]
+    [ "npc_guardian_pavilionAI", "d3/d14/a22213.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "d3/d14/a22213.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

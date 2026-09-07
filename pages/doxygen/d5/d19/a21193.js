@@ -1,16 +1,10 @@
 var a21193 =
 [
-    [ "boss_emalonAI", "d5/d19/a21193.html#ac87b3ea34e9781f3843321ef874321fe", null ],
-    [ "AttackStart", "d5/d19/a21193.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
-    [ "JustDied", "d5/d19/a21193.html#a79a05156b690140e955a6e850ac41e5b", null ],
-    [ "JustEngagedWith", "d5/d19/a21193.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
-    [ "JustSummoned", "d5/d19/a21193.html#a895f302d336faa0c3f93854314d3b427", null ],
-    [ "Reset", "d5/d19/a21193.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
-    [ "ResetSummons", "d5/d19/a21193.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
-    [ "SpellHitTarget", "d5/d19/a21193.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
-    [ "SummonedCreatureDies", "d5/d19/a21193.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
-    [ "UpdateAI", "d5/d19/a21193.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
-    [ "events", "d5/d19/a21193.html#a78312371e28b4be3c072dc870370b577", null ],
-    [ "pInstance", "d5/d19/a21193.html#af4cc6489905f9702999cc23fd6a920c2", null ],
-    [ "summons", "d5/d19/a21193.html#a1b6ccd418114e57a0c843cc980a56243", null ]
+    [ "npc_ulduar_snow_mound", "d5/d19/a21193.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
+    [ "MoveInLineOfSight", "d5/d19/a21193.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
+    [ "UpdateAI", "d5/d19/a21193.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
+    [ "_activated", "d5/d19/a21193.html#ac48f6985d857276e0e59c2a429f5b359", null ],
+    [ "_count", "d5/d19/a21193.html#a1856c3bba24842f33720a83e1de40421", null ],
+    [ "_counter", "d5/d19/a21193.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
+    [ "_scheduler", "d5/d19/a21193.html#aafe42af9ba1402cad91326eb1037e476", null ]
 ];

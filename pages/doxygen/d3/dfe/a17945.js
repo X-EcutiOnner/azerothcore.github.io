@@ -1,5 +1,7 @@
 var a17945 =
 [
-    [ "npc_zafod_boomboxAI", "d3/dfe/a17945.html#a6540d8f5787ce1da211123721ef659f3", null ],
-    [ "sGossipSelect", "d3/dfe/a17945.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
+    [ "HandleScript", "d3/dfe/a17945.html#a276018baa590b942d90c457faea10040", null ],
+    [ "PrepareSpellScript", "d3/dfe/a17945.html#a0bdef74dbd65d938eb5eac32f6612fe1", null ],
+    [ "Register", "d3/dfe/a17945.html#a7afc131b5dd31ec6b225fdd38f0edf34", null ],
+    [ "Validate", "d3/dfe/a17945.html#a4d16e1aec2b24cd70366308f25619cf2", null ]
 ];

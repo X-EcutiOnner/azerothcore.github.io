@@ -1,6 +1,9 @@
 var a15381 =
 [
-    [ "instance_onyxias_lair_InstanceMapScript", "d3/df4/a15385.html", "d3/df4/a15385" ],
-    [ "instance_onyxias_lair", "d9/d9d/a15381.html#a1be32e45cb8af86477d300efb6e545cc", null ],
-    [ "GetInstanceScript", "d9/d9d/a15381.html#abbdc474ce17bca0cb55180661c5204a8", null ]
+    [ "boss_temporus", "d9/d9d/a15381.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
+    [ "JustDied", "d9/d9d/a15381.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
+    [ "JustEngagedWith", "d9/d9d/a15381.html#abe7f18497c1c8b31693980e98b1d1859", null ],
+    [ "KilledUnit", "d9/d9d/a15381.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
+    [ "MoveInLineOfSight", "d9/d9d/a15381.html#a18a0279036324498a9daf8c7d0296ffc", null ],
+    [ "OwnTalk", "d9/d9d/a15381.html#a99356589a048debbc308b8431259da5c", null ]
 ];

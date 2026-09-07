@@ -1,21 +1,9 @@
 var a00524 =
 [
-    [ "map_fileheader", "d7/d2b/a09531.html", "d7/d2b/a09531" ],
-    [ "map_heightHeader", "d4/d2d/a09539.html", "d4/d2d/a09539" ],
-    [ "map_liquidHeader", "d7/dfc/a09543.html", "d7/dfc/a09543" ],
-    [ "MAP_HEIGHT_AS_INT16", "d9/d24/a00524.html#aefa74fa33f3eba2d39b407c2fd2e8aba", null ],
-    [ "MAP_HEIGHT_AS_INT8", "d9/d24/a00524.html#a15a9245a53c00f1a8a89dd2d798cea9d", null ],
-    [ "MAP_HEIGHT_NO_HEIGHT", "d9/d24/a00524.html#aa5c2437972b2be5c5ff23a7ac04e2680", null ],
-    [ "MAP_LIQUID_NO_HEIGHT", "d9/d24/a00524.html#a59daadc7c96729526e05982ec6600bb1", null ],
-    [ "MAP_LIQUID_NO_TYPE", "d9/d24/a00524.html#a42b8b790a3d284e7116bcad1c391b8f9", null ],
-    [ "MAP_LIQUID_TYPE_DARK_WATER", "d9/d24/a00524.html#a661f965d11d7da56890b64484d871441", null ],
-    [ "MAP_LIQUID_TYPE_MAGMA", "d9/d24/a00524.html#a14e2a0a2291347b0ef877bc9d70f7384", null ],
-    [ "MAP_LIQUID_TYPE_NO_WATER", "d9/d24/a00524.html#a17d4c5ea32412f0fbe04a27f63d50e13", null ],
-    [ "MAP_LIQUID_TYPE_OCEAN", "d9/d24/a00524.html#a6d257e0effb928fba7534eeee5de602d", null ],
-    [ "MAP_LIQUID_TYPE_SLIME", "d9/d24/a00524.html#aa56f76510545ed9c706b8fee3061b6cb", null ],
-    [ "MAP_LIQUID_TYPE_WATER", "d9/d24/a00524.html#a5ec110bd30ec47fcd087aaf5d572de28", null ],
-    [ "holetab_h", "d9/d24/a00524.html#abeb39e913287295598939165f99abe3b", null ],
-    [ "holetab_v", "d9/d24/a00524.html#a8c5ddef856ef804076860bb176c6d9e1", null ],
-    [ "MAP_FILE_NAME_FORMAT", "d9/d24/a00524.html#a1d57d156046bda88886b7488ab0b83bc", null ],
-    [ "MAP_VERSION_MAGIC", "d9/d24/a00524.html#aee23c8e21c084824373ce587f8fe1f04", null ]
+    [ "PathMovementBase< T, P >", "d4/d40/a10497.html", "d4/d40/a10497" ],
+    [ "WaypointMovementGenerator< Creature >", "db/d43/a10505.html", "db/d43/a10505" ],
+    [ "FlightPathMovementGenerator", "d6/d1c/a10509.html", "d6/d1c/a10509" ],
+    [ "FlightPathMovementGenerator::TaxiNodeChangeInfo", "df/d4d/a10513.html", "df/d4d/a10513" ],
+    [ "FLIGHT_TRAVEL_UPDATE", "d9/d24/a00524.html#af2d292bdefbb6db76ff3201ac0c0cdd6", null ],
+    [ "TIMEDIFF_NEXT_WP", "d9/d24/a00524.html#afcff81f45a877feac68bf5bcae913560", null ]
 ];

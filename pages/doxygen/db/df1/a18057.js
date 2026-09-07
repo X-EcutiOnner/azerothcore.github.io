@@ -1,9 +1,10 @@
 var a18057 =
 [
-    [ "CalculateDamage", "db/df1/a18057.html#a6a9e90d9463825b38b69afc234b35b39", null ],
-    [ "PrepareSpellScript", "db/df1/a18057.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
-    [ "Register", "db/df1/a18057.html#a2722814a55469e5bae572766ed36309b", null ],
-    [ "RemoveEnergy", "db/df1/a18057.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
-    [ "StoreEnergy", "db/df1/a18057.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
-    [ "_energyLeft", "db/df1/a18057.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
+    [ "npc_gunship_gunnerAI", "db/df1/a18057.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
+    [ "AttackStart", "db/df1/a18057.html#ac21b90c1892c15882794384517ef9fd2", null ],
+    [ "CanAIAttack", "db/df1/a18057.html#aef351305ef34fa316809697125a3bc9a", null ],
+    [ "MovementInform", "db/df1/a18057.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
+    [ "UpdateAI", "db/df1/a18057.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
+    [ "anyValid", "db/df1/a18057.html#a00c7dc23618c60826241133a0067c1c4", null ],
+    [ "checkTimer", "db/df1/a18057.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
 ];

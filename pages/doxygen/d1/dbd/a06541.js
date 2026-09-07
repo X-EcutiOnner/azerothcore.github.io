@@ -1,9 +1,7 @@
 var a06541 =
 [
-    [ "AISpellInfoType", "d1/dbd/a06541.html#a3b6d2057522e7b79c87a16d4b9cced98", null ],
-    [ "condition", "d1/dbd/a06541.html#af357bcc7eaeaf88a107a6309c468d53d", null ],
-    [ "cooldown", "d1/dbd/a06541.html#a6ea49fdc98ece29ceee63352424e9366", null ],
-    [ "maxRange", "d1/dbd/a06541.html#ab421f918f3cb479d2d0390cd98cdeae3", null ],
-    [ "realCooldown", "d1/dbd/a06541.html#a3ee8081ca5749ef9b5991a5505104ee9", null ],
-    [ "target", "d1/dbd/a06541.html#a8f9c1d3fbbabc73f4b47ffe21e7a06c4", null ]
+    [ "SpellTargetSelector", "d1/dbd/a06541.html#a9f1f441e542500dc43c58b97729f7f51", null ],
+    [ "operator()", "d1/dbd/a06541.html#a53c27c23f2d9846903e1ff9b479a36b1", null ],
+    [ "_caster", "d1/dbd/a06541.html#ac5b0844c975a6b3ff3c14a843fd28fba", null ],
+    [ "_spellInfo", "d1/dbd/a06541.html#a309ed04630cfb92810b7f51376b3917c", null ]
 ];

@@ -1,6 +1,9 @@
 var a21685 =
 [
-    [ "npc_spiritual_insightAI", "df/df1/a21685.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "df/df1/a21685.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "df/df1/a21685.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "npc_bloodmage_laurithAI", "df/df1/a21685.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "df/df1/a21685.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "df/df1/a21685.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
+    [ "UpdateAI", "df/df1/a21685.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "df/df1/a21685.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "df/df1/a21685.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

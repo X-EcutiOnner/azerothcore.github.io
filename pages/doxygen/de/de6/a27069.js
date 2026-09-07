@@ -1,8 +1,8 @@
 var a27069 =
 [
-    [ "CheckCast", "de/de6/a27069.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
-    [ "CheckQuest", "de/de6/a27069.html#abc927d932c1d5e05eab1918364d68ed5", null ],
-    [ "HandleActiveObject", "de/de6/a27069.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
-    [ "PrepareSpellScript", "de/de6/a27069.html#a96e69476965cc2466213a5371a57093a", null ],
-    [ "Register", "de/de6/a27069.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
+    [ "HandleEffectApply", "de/de6/a27069.html#aed959961fcd07649cd4914fcd38a3214", null ],
+    [ "if", "de/de6/a27069.html#a1518c08cb3b5cb716b8bd01692a5160d", null ],
+    [ "PrepareAuraScript", "de/de6/a27069.html#a42167bc6bf7992debea8582680251da4", null ],
+    [ "Register", "de/de6/a27069.html#aa2c23abd2b90a276bd7980cadc0397a4", null ],
+    [ "AuraEffectHandleModes", "de/de6/a27069.html#ac886dec8a2ce55af4ec58ab068c589fa", null ]
 ];

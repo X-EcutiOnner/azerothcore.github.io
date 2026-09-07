@@ -1,9 +1,9 @@
 var a22841 =
 [
-    [ "boss_najentus", "d3/d0f/a22841.html#ac5d3d54a49524892fe844925d483c244", null ],
-    [ "JustDied", "d3/d0f/a22841.html#afee32dd32033c7a45068ce12e961797c", null ],
-    [ "JustEngagedWith", "d3/d0f/a22841.html#a46e3aab64c21b24ac6457acd598679ec", null ],
-    [ "KilledUnit", "d3/d0f/a22841.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
-    [ "Reset", "d3/d0f/a22841.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
-    [ "_canTalk", "d3/d0f/a22841.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
+    [ "npc_flame_of_azzinoth", "d3/d0f/a22841.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
+    [ "IsSummonedBy", "d3/d0f/a22841.html#a5254057af0371a08ea01fe91502c2a20", null ],
+    [ "JustEngagedWith", "d3/d0f/a22841.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
+    [ "JustSummoned", "d3/d0f/a22841.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
+    [ "UpdateAI", "d3/d0f/a22841.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
+    [ "_bladeGUID", "d3/d0f/a22841.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
 ];

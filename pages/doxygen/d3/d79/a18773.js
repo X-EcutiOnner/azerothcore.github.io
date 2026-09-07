@@ -1,6 +1,6 @@
 var a18773 =
 [
-    [ "npc_icc_lk_checktargetAI", "d0/d99/a18777.html", "d0/d99/a18777" ],
-    [ "npc_icc_lk_checktarget", "d3/d79/a18773.html#a3a2cc943e731e472694dcb13417090da", null ],
-    [ "GetAI", "d3/d79/a18773.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
+    [ "HandleScript", "d3/d79/a18773.html#a9489c3454830d3826cb077c95947bf2d", null ],
+    [ "PrepareSpellScript", "d3/d79/a18773.html#a19492e616ac6e69187bca4499175071e", null ],
+    [ "Register", "d3/d79/a18773.html#a3446174d3308f535c27581b63ade9e8a", null ]
 ];

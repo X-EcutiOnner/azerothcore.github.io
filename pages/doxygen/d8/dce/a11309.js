@@ -1,6 +1,7 @@
 var a11309 =
 [
-    [ "ItemRefund", "d8/dce/a11309.html#aa257d579519d45da88694ff6306395da", null ],
-    [ "Read", "d8/dce/a11309.html#a6d031070a4832bdc716f8b73629ebc8d", null ],
-    [ "ItemGuid", "d8/dce/a11309.html#ac394336b15540248770f81d748206f7b", null ]
+    [ "AutoEquipItemSlot", "d8/dce/a11309.html#aa51f40a4172ac41548ec6199bc84375d", null ],
+    [ "Read", "d8/dce/a11309.html#ade6a15026e9c461b38301edf79f367be", null ],
+    [ "DestinationSlot", "d8/dce/a11309.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
+    [ "ItemGuid", "d8/dce/a11309.html#a9d4da587061833262acff66674d3ac41", null ]
 ];

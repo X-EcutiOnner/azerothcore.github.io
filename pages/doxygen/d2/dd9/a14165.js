@@ -1,7 +1,8 @@
 var a14165 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "d8/d52/a14169.html", "d8/d52/a14169" ],
-    [ "npc_lady_sylvanas_windrunner", "d2/dd9/a14165.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
-    [ "GetAI", "d2/dd9/a14165.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
-    [ "OnQuestReward", "d2/dd9/a14165.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
+    [ "npc_dkc1_gothik", "d2/dd9/a14165.html#ac55410228faf60379873234d7322c488", null ],
+    [ "DoAction", "d2/dd9/a14165.html#aba7e9c3326400012162402d3ead2837f", null ],
+    [ "MoveInLineOfSight", "d2/dd9/a14165.html#aa409a5ecaa71388131a2be4c62d2cf85", null ],
+    [ "UpdateAI", "d2/dd9/a14165.html#a7fbe2d52d179bcc8113407054befae00", null ],
+    [ "spoken", "d2/dd9/a14165.html#a4ed4b960104211c61067b1e66752eb74", null ]
 ];

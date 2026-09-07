@@ -1,6 +1,6 @@
 var a22005 =
 [
-    [ "npc_vekjik", "d6/d05/a22005.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "d6/d05/a22005.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "d6/d05/a22005.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "CheckRequirement", "d6/d05/a22005.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
+    [ "PrepareSpellScript", "d6/d05/a22005.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
+    [ "Register", "d6/d05/a22005.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
 ];

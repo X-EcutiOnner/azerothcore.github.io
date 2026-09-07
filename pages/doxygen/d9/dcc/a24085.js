@@ -1,8 +1,6 @@
 var a24085 =
 [
-    [ "npc_kservantAI", "d9/dcc/a24085.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "d9/dcc/a24085.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "d9/dcc/a24085.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "d9/dcc/a24085.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
-    [ "WaypointReached", "d9/dcc/a24085.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "go_apexis_relic", "d9/dcc/a24085.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "d9/dcc/a24085.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "d9/dcc/a24085.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

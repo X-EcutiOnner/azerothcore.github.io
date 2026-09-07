@@ -1,6 +1,6 @@
 var a18305 =
 [
-    [ "OnRemove", "d9/d04/a18305.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
-    [ "PrepareAuraScript", "d9/d04/a18305.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
-    [ "Register", "d9/d04/a18305.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
+    [ "npc_putricide_mutated_abomination", "d9/d04/a18305.html#ae8aa90f98296c10cbbb54570304892ca", null ],
+    [ "AttackStart", "d9/d04/a18305.html#a4ab01c14094f37de91591ff3a81e5c23", null ],
+    [ "UpdateAI", "d9/d04/a18305.html#a84e6eed6db698c6dfa0a2e73c30c1505", null ]
 ];

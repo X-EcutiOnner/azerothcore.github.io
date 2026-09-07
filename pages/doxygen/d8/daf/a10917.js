@@ -1,6 +1,5 @@
 var a10917 =
 [
-    [ "ShowingCloak", "d8/daf/a10917.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
-    [ "Read", "d8/daf/a10917.html#ad72ae43efc070655aa078d9985369442", null ],
-    [ "ShowCloak", "d8/daf/a10917.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
+    [ "UpdatableScript", "d8/daf/a10917.html#a2d6cf85d1eb98438b5022804296eff11", null ],
+    [ "OnUpdate", "d8/daf/a10917.html#abf328325e08aa0d6adf36e6f70b02328", null ]
 ];

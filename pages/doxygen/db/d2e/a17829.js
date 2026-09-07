@@ -1,6 +1,8 @@
 var a17829 =
 [
-    [ "ModAuraValue", "db/d2e/a17829.html#a359453c6253beb6f729209c6d3d79af7", null ],
-    [ "PrepareSpellScript", "db/d2e/a17829.html#a4f916abef69782be10cc6be9ba0124f5", null ],
-    [ "Register", "db/d2e/a17829.html#a4a387df07c88144288c4327ce86b730a", null ]
+    [ "OnApply", "db/d2e/a17829.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "db/d2e/a17829.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "db/d2e/a17829.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "db/d2e/a17829.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "db/d2e/a17829.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

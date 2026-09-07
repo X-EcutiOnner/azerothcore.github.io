@@ -1,6 +1,8 @@
 var a22697 =
 [
-    [ "PrepareAuraScript", "de/d36/a22697.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
-    [ "Register", "de/d36/a22697.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
-    [ "Update", "de/d36/a22697.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
+    [ "CalcPeriodic", "de/d36/a22697.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
+    [ "OnRemove", "de/d36/a22697.html#af120bb9d6a0c3d338706613540849412", null ],
+    [ "PrepareAuraScript", "de/d36/a22697.html#ad413f14193013058e1775f80b457a81d", null ],
+    [ "Register", "de/d36/a22697.html#aa35fc5865f108712e450661e67c384ce", null ],
+    [ "Update", "de/d36/a22697.html#aebc61b57ed8038488ec06c14483b2099", null ]
 ];

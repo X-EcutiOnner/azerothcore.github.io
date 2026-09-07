@@ -1,14 +1,6 @@
 var a10145 =
 [
-    [ "DoublePosition", "da/d2d/a10145.html#a59190a2456f052c6ffa6e181ced94a4f", null ],
-    [ "DoublePosition", "da/d2d/a10145.html#a9900e06c36c6ebc4edd0ba45264990b8", null ],
-    [ "DoublePosition", "da/d2d/a10145.html#a543ff52f7b278f68cc36ee880932e744", null ],
-    [ "GetDoubleExactDist2dSq", "da/d2d/a10145.html#ae17b4e695ff23a8ec323405801f2013a", null ],
-    [ "GetDoublePositionX", "da/d2d/a10145.html#a7c769d1762f99150a46ceaa2b2bfa8e8", null ],
-    [ "GetDoublePositionY", "da/d2d/a10145.html#a201096c85022d54b1d9dbe9264df901f", null ],
-    [ "GetDoublePositionZ", "da/d2d/a10145.html#a01fc3985229b6bd03e6d1da95f871c17", null ],
-    [ "sync", "da/d2d/a10145.html#a75e75187d6663591a39c87bc1086aebd", null ],
-    [ "DoublePosX", "da/d2d/a10145.html#a4f9ffbbe4396f3ec26a81139f5868e2e", null ],
-    [ "DoublePosY", "da/d2d/a10145.html#a90839893f3a58a72a07177d3eee1d691", null ],
-    [ "DoublePosZ", "da/d2d/a10145.html#a19af503e9623ccaeb032bfe9f0a0ed63", null ]
+    [ "LootValidatorRef", "da/d2d/a10145.html#acce3ced73583bf8dbf04232cddd6ebd8", null ],
+    [ "sourceObjectDestroyLink", "da/d2d/a10145.html#a8833022cf1acf786c06f1580fbe11c24", null ],
+    [ "targetObjectDestroyLink", "da/d2d/a10145.html#a93baac45dcb801215c28ac0dba097eba", null ]
 ];

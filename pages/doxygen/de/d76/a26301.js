@@ -1,7 +1,6 @@
 var a26301 =
 [
-    [ "HandleKnockBack", "de/d76/a26301.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
-    [ "PrepareSpellScript", "de/d76/a26301.html#ab951d6403188f178f79311cead8a0a8f", null ],
-    [ "Register", "de/d76/a26301.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
-    [ "Validate", "de/d76/a26301.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
+    [ "OnPeriodic", "de/d76/a26301.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
+    [ "PrepareAuraScript", "de/d76/a26301.html#ad3d091510685ebc2d87aadb658cacf58", null ],
+    [ "Register", "de/d76/a26301.html#a9552ba0f4c18623b6b00ababa034942c", null ]
 ];

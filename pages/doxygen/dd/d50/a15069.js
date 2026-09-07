@@ -1,9 +1,7 @@
 var a15069 =
 [
-    [ "boss_azuregosAI", "dd/d50/a15069.html#a839ab1e096d30062d64c1c515a7462a4", null ],
-    [ "JustDied", "dd/d50/a15069.html#aea4d204173b7882d2d9acf8204410947", null ],
-    [ "JustEngagedWith", "dd/d50/a15069.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
-    [ "KilledUnit", "dd/d50/a15069.html#aeefc791e17d2a687f8beae809c44d123", null ],
-    [ "Reset", "dd/d50/a15069.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
-    [ "UpdateAI", "dd/d50/a15069.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
+    [ "GetVisualThrow", "dd/d50/a15069.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
+    [ "HandleDummy", "dd/d50/a15069.html#adca1aacf89dcf452f1c98cae97f09690", null ],
+    [ "PrepareSpellScript", "dd/d50/a15069.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
+    [ "Register", "dd/d50/a15069.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
 ];

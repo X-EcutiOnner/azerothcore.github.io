@@ -1,6 +1,7 @@
 var a24829 =
 [
-    [ "CalculateAmount", "d6/d81/a24829.html#a9e54ae3e90ee8bf0fab966a497f761b3", null ],
-    [ "PrepareAuraScript", "d6/d81/a24829.html#a51f9c0f92100c02e1fe7d127fecd902f", null ],
-    [ "Register", "d6/d81/a24829.html#a5c89e7e53a7f41665ff25d57df8f7afb", null ]
+    [ "HandleProc", "d6/d81/a24829.html#ae8764fc6c284a13f610e55933b24102e", null ],
+    [ "PrepareAuraScript", "d6/d81/a24829.html#a9ea55387324cbcecc72b82a58bcd9a48", null ],
+    [ "Register", "d6/d81/a24829.html#ae65e0a22aab9802ed869b7fb6e823d9e", null ],
+    [ "Validate", "d6/d81/a24829.html#aafa30eef7a8c8aac3699edc4afb97f19", null ]
 ];

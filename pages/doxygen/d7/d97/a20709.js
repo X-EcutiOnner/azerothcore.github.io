@@ -1,8 +1,5 @@
 var a20709 =
 [
-    [ "npc_pummeller", "d7/d97/a20709.html#a0c67bf3781fde8d4580aad093bf87291", null ],
-    [ "Reset", "d7/d97/a20709.html#abdb3f0984c03780aee9dd55496fc7835", null ],
-    [ "UpdateAI", "d7/d97/a20709.html#a9d61c35dc7f86314c6beb581539fd55d", null ],
-    [ "_instance", "d7/d97/a20709.html#a12df7fb27b7bd54d0bf60c3e5faee037", null ],
-    [ "_scheduler", "d7/d97/a20709.html#abc1ba4d0e95d33fe42af1014c2e8448f", null ]
+    [ "npc_ulduar_flames_spread", "d7/d97/a20709.html#aea2856e8ea84dfb447017a4d8b2ab088", null ],
+    [ "SpellHit", "d7/d97/a20709.html#af8cad4be1736f377721b7a0a63cfafe7", null ]
 ];

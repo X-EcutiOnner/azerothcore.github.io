@@ -1,7 +1,10 @@
 var a28421 =
 [
-    [ "npc_crashin_thrashin_robot", "da/d92/a28421.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "da/d92/a28421.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "da/d92/a28421.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "da/d92/a28421.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "guard_shattrath_scryerAI", "da/d92/a28421.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "da/d92/a28421.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "da/d92/a28421.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "da/d92/a28421.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "da/d92/a28421.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "da/d92/a28421.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "da/d92/a28421.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

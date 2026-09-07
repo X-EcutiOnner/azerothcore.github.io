@@ -1,5 +1,6 @@
 var a15033 =
 [
-    [ "achievement_pb_terokkar_turkey_time", "d8/dd2/a15033.html#a68e536379b04e060f44819c9831766c2", null ],
-    [ "OnCheck", "d8/dd2/a15033.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
+    [ "HandleAfterEffectRemove", "d8/dd2/a15033.html#acf650fe6fe65164c12fbb06b45e092c9", null ],
+    [ "PrepareAuraScript", "d8/dd2/a15033.html#a3b54e232c0502eaa03b314a05dce1835", null ],
+    [ "Register", "d8/dd2/a15033.html#a9bacd9538b1ab1cf9aa74e7675ff5b6b", null ]
 ];

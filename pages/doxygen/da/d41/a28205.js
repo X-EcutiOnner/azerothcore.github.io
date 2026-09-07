@@ -1,7 +1,7 @@
 var a28205 =
 [
-    [ "npc_prof_leather", "da/d41/a28205.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
-    [ "HasLeatherSpecialty", "da/d41/a28205.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
-    [ "OnGossipHello", "da/d41/a28205.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
-    [ "OnGossipSelect", "da/d41/a28205.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
+    [ "FilterTargets", "da/d41/a28205.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
+    [ "HandleEffect", "da/d41/a28205.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
+    [ "PrepareSpellScript", "da/d41/a28205.html#a53b5772c87574beb5b295c26fe983b76", null ],
+    [ "Register", "da/d41/a28205.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
 ];

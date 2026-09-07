@@ -1,6 +1,5 @@
 var a11173 =
 [
-    [ "GuildBankTextQuery", "d8/d76/a11173.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
-    [ "Read", "d8/d76/a11173.html#af20bd5c8e58b891028613625fb14807d", null ],
-    [ "Tab", "d8/d76/a11173.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
+    [ "GuildLeave", "d8/d76/a11173.html#a6a09ab5c50b7185a91e76f428e28f402", null ],
+    [ "Read", "d8/d76/a11173.html#a0ea07ca846a92b5357276b5868d98e5f", null ]
 ];

@@ -1,8 +1,10 @@
 var a10373 =
 [
-    [ "TimedFleeingMovementGenerator", "d2/d64/a10373.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
-    [ "Finalize", "d2/d64/a10373.html#a1a18f033663fa93ef0b9885aae21f766", null ],
-    [ "GetMovementGeneratorType", "d2/d64/a10373.html#a1533d13f4e786e498353805a2a2daf85", null ],
-    [ "Update", "d2/d64/a10373.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
-    [ "i_totalFleeTime", "d2/d64/a10373.html#a2858047459ff675383e7b86805702369", null ]
+    [ "ID", "d2/d64/a10373.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
+    [ "Map", "d2/d64/a10373.html#af4e60380e8434e5b8f573d2172ddf656", null ],
+    [ "name", "d2/d64/a10373.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
+    [ "wnameLow", "d2/d64/a10373.html#a148ead3270ad02213204792d6063cead", null ],
+    [ "x", "d2/d64/a10373.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
+    [ "y", "d2/d64/a10373.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
+    [ "z", "d2/d64/a10373.html#adf56d09898752230a4fa1629849ac945", null ]
 ];

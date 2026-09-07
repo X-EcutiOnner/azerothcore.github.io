@@ -1,18 +1,12 @@
 var a12905 =
 [
-    [ "boss_vaelastrasz", "d7/d33/a12905.html#a34f13f4de3f268c8fe034e8577186966", null ],
-    [ "BeginSpeech", "d7/d33/a12905.html#aa6bbbbe76f890112fc1d2e4cd4159346", null ],
-    [ "Initialize", "d7/d33/a12905.html#a8b3356d4fcc6c17c097890bbd98947d5", null ],
-    [ "JustEngagedWith", "d7/d33/a12905.html#ac742f8acce5060e5496f43900b1e3cc0", null ],
-    [ "JustSummoned", "d7/d33/a12905.html#a73f72d397a277301d1b5e2020f0f6146", null ],
-    [ "KilledUnit", "d7/d33/a12905.html#abff4fd6f7f15771b8fccabf4f633c067", null ],
-    [ "Reset", "d7/d33/a12905.html#ac496730fdeb5e55c125a1880626c76e4", null ],
-    [ "sGossipSelect", "d7/d33/a12905.html#ae25b1d667393f9af0f3424137d78a9d0", null ],
-    [ "UpdateAI", "d7/d33/a12905.html#a7a78dd37d5055212cc6d23dc3d831d6d", null ],
-    [ "_burningAdrenalineCast", "d7/d33/a12905.html#acb5c8baf13a39d560447f3e16f07966c", null ],
-    [ "_eventsIntro", "d7/d33/a12905.html#a7e3fb2f93d36789d1e123a73c619de23", null ],
-    [ "_introDone", "d7/d33/a12905.html#a3d0d4ee1c9a47715e22f3567783dd11e", null ],
-    [ "HasYelled", "d7/d33/a12905.html#aa73cdc2f26c0710d5d917c4f787a1793", null ],
-    [ "m_nefariusGuid", "d7/d33/a12905.html#ae1a22491288380cb50264a51e0b624f6", null ],
-    [ "PlayerGUID", "d7/d33/a12905.html#a8ba86f17a35448edd8d98f49c7d16fa6", null ]
+    [ "go_suppression_device", "d7/d33/a12905.html#ae8d3a5e9ca0bd621065bad9b8ee2733b", null ],
+    [ "Activate", "d7/d33/a12905.html#aab10f7c30f4c7fcf89aa295d830da56f", null ],
+    [ "Deactivate", "d7/d33/a12905.html#aaf01b7e3317e4b032e7c202ebfcb9a68", null ],
+    [ "DoAction", "d7/d33/a12905.html#a036467db9b2661e7048216b03451861b", null ],
+    [ "InitializeAI", "d7/d33/a12905.html#a6f40d8e47699b711466d8d36bdaa424c", null ],
+    [ "UpdateAI", "d7/d33/a12905.html#a00fb90b16c82f9d968cc29275c05675a", null ],
+    [ "_active", "d7/d33/a12905.html#a1accabc06137c07e9f74ea91d068672c", null ],
+    [ "_events", "d7/d33/a12905.html#a43fc9da45057e18811a0efc69e01edc8", null ],
+    [ "_instance", "d7/d33/a12905.html#a8c6b389e2df34d5f47b2599fc78ad072", null ]
 ];

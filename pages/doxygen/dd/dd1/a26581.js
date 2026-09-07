@@ -1,9 +1,10 @@
 var a26581 =
 [
-    [ "CheckProc", "dd/dd1/a26581.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
-    [ "HandleProc", "dd/dd1/a26581.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
-    [ "PrepareAuraScript", "dd/dd1/a26581.html#a9585ecde57ccfa26f59174732e3132fc", null ],
-    [ "Register", "dd/dd1/a26581.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
-    [ "Validate", "dd/dd1/a26581.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
-    [ "_triggeredSpellId", "dd/dd1/a26581.html#a560ade778e046213f60f48364ea3800c", null ]
+    [ "CheckProc", "dd/dd1/a26581.html#a787008462dce35eb27deda41301b146d", null ],
+    [ "HandleProc", "dd/dd1/a26581.html#a5b791c7cb8dae574fef801ce42dc6aa1", null ],
+    [ "Load", "dd/dd1/a26581.html#a9760351c28f5f9948f0b64ae2ca91c24", null ],
+    [ "PrepareAuraScript", "dd/dd1/a26581.html#ab3d5e71597c67ec0aed70f7e5d2319ac", null ],
+    [ "Register", "dd/dd1/a26581.html#aa4ef731870355dc386fcd07c5f19d090", null ],
+    [ "Validate", "dd/dd1/a26581.html#ad04864f0710262364cf40e071446d87c", null ],
+    [ "_procTargetGUID", "dd/dd1/a26581.html#a1cabf65eacb5d10d9430a3ff320bfe1d", null ]
 ];

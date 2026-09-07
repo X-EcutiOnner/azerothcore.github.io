@@ -1,9 +1,11 @@
 var a20657 =
 [
-    [ "boss_thorim_gauntlet_npcs", "d7/db7/a20657.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
-    [ "JustEngagedWith", "d7/db7/a20657.html#af10a444bada5743c837a9979726c79c9", null ],
-    [ "Reset", "d7/db7/a20657.html#a22fcffcc05f155524cadade389ec3607", null ],
-    [ "UpdateAI", "d7/db7/a20657.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
-    [ "_isCaster", "d7/db7/a20657.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
-    [ "events", "d7/db7/a20657.html#aec35e2b91841c386f083681673e15598", null ]
+    [ "npc_ulduar_proximity_mine", "d7/db7/a20657.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
+    [ "AttackStart", "d7/db7/a20657.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "d7/db7/a20657.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "d7/db7/a20657.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "d7/db7/a20657.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "_exploded", "d7/db7/a20657.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
+    [ "_timer", "d7/db7/a20657.html#afe009de55826305826105bd29458d0eb", null ],
+    [ "_timer2", "d7/db7/a20657.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
 ];

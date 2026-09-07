@@ -1,9 +1,5 @@
 var a11293 =
 [
-    [ "WrapItem", "db/d4c/a11293.html#a7de705fe4ac1b4d71a6487533f40f2aa", null ],
-    [ "Read", "db/d4c/a11293.html#adcd87a65cc32bc0096b650a705de9a55", null ],
-    [ "GiftBag", "db/d4c/a11293.html#a45ebce1daa3de00eca9ff7fb352a9063", null ],
-    [ "GiftSlot", "db/d4c/a11293.html#acd6da351e2ad9108921e2d9c7b13e82b", null ],
-    [ "ItemBag", "db/d4c/a11293.html#a577a588900d74f22cfe67a1fbe82424b", null ],
-    [ "ItemSlot", "db/d4c/a11293.html#a6a4bd31c0d4b97a019caca716a79c073", null ]
+    [ "ResetInstances", "db/d4c/a11293.html#a64d9627a48ae2bfcda68b7d04273fe18", null ],
+    [ "Read", "db/d4c/a11293.html#a7f190f2bb133fa18e46830f68695b050", null ]
 ];

@@ -1,6 +1,5 @@
 var a14133 =
 [
-    [ "npc_lord_gregor_lescovarAI", "dc/dd7/a14137.html", "dc/dd7/a14137" ],
-    [ "npc_lord_gregor_lescovar", "d6/d38/a14133.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
-    [ "GetAI", "d6/d38/a14133.html#a4cf39729bb687c7db3538575a799283e", null ]
+    [ "npc_tyrion", "d6/d38/a14133.html#a85b1abd4910729c17099174def6507b1", null ],
+    [ "OnQuestAccept", "d6/d38/a14133.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
 ];

@@ -1,9 +1,6 @@
 var a27489 =
 [
-    [ "CheckCast", "d7/dca/a27489.html#a441927e0d8d7304030440c19458eb34d", null ],
-    [ "HandleScriptEffect", "d7/dca/a27489.html#a10e9691aa15869c82fba79072a314d7e", null ],
-    [ "PrepareSpellScript", "d7/dca/a27489.html#a90b8ae945aeb85ad6e8a120501288979", null ],
-    [ "Register", "d7/dca/a27489.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
-    [ "Validate", "d7/dca/a27489.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
-    [ "iTypes", "d7/dca/a27489.html#ae852b9df34612c074eab23b025c86870", null ]
+    [ "HandleAfterCast", "d7/dca/a27489.html#a6f21938e84e45848fad74a16f1f52c48", null ],
+    [ "PrepareSpellScript", "d7/dca/a27489.html#ac7abeee05c117595696faf1ec55e11bd", null ],
+    [ "Register", "d7/dca/a27489.html#a9e90a6fa037627ac682f4ea050f557de", null ]
 ];

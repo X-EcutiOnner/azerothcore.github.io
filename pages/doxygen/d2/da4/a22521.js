@@ -1,6 +1,5 @@
 var a22521 =
 [
-    [ "PrepareSpellScript", "d2/da4/a22521.html#abd6b61e7efbed1427b7603640ac7d474", null ],
-    [ "RecalculateDamage", "d2/da4/a22521.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
-    [ "Register", "d2/da4/a22521.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
+    [ "achievement_wg_vehicular_gnomeslaughter", "d2/da4/a22521.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
+    [ "OnCheck", "d2/da4/a22521.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
 ];

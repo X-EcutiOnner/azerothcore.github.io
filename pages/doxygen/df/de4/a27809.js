@@ -1,5 +1,7 @@
 var a27809 =
 [
-    [ "achievement_tilted", "df/de4/a27809.html#a868d7b8a437434d6dc34b5000c429e66", null ],
-    [ "OnCheck", "df/de4/a27809.html#a61d3eb78450383485699532d96f79d93", null ]
+    [ "HandleRemove", "df/de4/a27809.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
+    [ "PrepareAuraScript", "df/de4/a27809.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
+    [ "Register", "df/de4/a27809.html#a338ee9c0eddd309ce2a791160059bad6", null ],
+    [ "Validate", "df/de4/a27809.html#ae8272b65a070fc959af003f701567c3c", null ]
 ];

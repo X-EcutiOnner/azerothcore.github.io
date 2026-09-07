@@ -1,8 +1,6 @@
 var a17817 =
 [
-    [ "npc_saurfang_eventAI", "d2/dbd/a17817.html#a8436a87576c92ecc0b45106683d20e93", null ],
-    [ "DoAction", "d2/dbd/a17817.html#a45201c4a5b94fad948efe1d08e63e262", null ],
-    [ "SetData", "d2/dbd/a17817.html#a7f012a54ebce5307940eb7957f028d52", null ],
-    [ "SpellHit", "d2/dbd/a17817.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
-    [ "_index", "d2/dbd/a17817.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
+    [ "FilterTargets", "d2/dbd/a17817.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
+    [ "PrepareSpellScript", "d2/dbd/a17817.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
+    [ "Register", "d2/dbd/a17817.html#add40d7731b07b30b595f76f7d4e983f4", null ]
 ];

@@ -1,7 +1,6 @@
 var a17785 =
 [
-    [ "achievement_once_bitten_twice_shy", "d9/d94/a17785.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
-    [ "OnCheck", "d9/d94/a17785.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
-    [ "_spawnMode", "d9/d94/a17785.html#a6f02f5ab07143ddff553279049714902", null ],
-    [ "_wasVampire", "d9/d94/a17785.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
+    [ "KnockIntoAir", "d9/d94/a17785.html#a1f9fb1f258613ca6657abba26969961f", null ],
+    [ "PrepareSpellScript", "d9/d94/a17785.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
+    [ "Register", "d9/d94/a17785.html#a35a7758630c1769228fedff84ad929e8", null ]
 ];

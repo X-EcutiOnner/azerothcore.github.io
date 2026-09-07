@@ -1,8 +1,7 @@
 var a11753 =
 [
-    [ "SkillExtraItemEntry", "d9/dbb/a11753.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
-    [ "SkillExtraItemEntry", "d9/dbb/a11753.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
-    [ "additionalCreateChance", "d9/dbb/a11753.html#a299d886468e9caf22f9d6ce80a64c247", null ],
-    [ "newMaxOrEntry", "d9/dbb/a11753.html#adfda967d36154b039495f0b289a5c9d1", null ],
-    [ "requiredSpecialization", "d9/dbb/a11753.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
+    [ "MapSessionFilter", "d9/dbb/a11753.html#ad11a700c36f8f45640402e96edc74b49", null ],
+    [ "~MapSessionFilter", "d9/dbb/a11753.html#a82960e741c8f64d24a764a915f14e2b8", null ],
+    [ "Process", "d9/dbb/a11753.html#a54483596fe2a5a0d30fab9a13506b375", null ],
+    [ "ProcessUnsafe", "d9/dbb/a11753.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
 ];

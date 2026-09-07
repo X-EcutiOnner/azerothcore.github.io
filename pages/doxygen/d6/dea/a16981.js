@@ -1,9 +1,6 @@
 var a16981 =
 [
-    [ "npc_fel_infernalAI", "d6/dea/a16981.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
-    [ "EnterEvadeMode", "d6/dea/a16981.html#aedec8729b9be931a74fe00d1aa649848", null ],
-    [ "JustDied", "d6/dea/a16981.html#a599786069f98231eeb7f9ca809f8e671", null ],
-    [ "Reset", "d6/dea/a16981.html#a09f408c9250467228b91ef9f6c9544f4", null ],
-    [ "UpdateAI", "d6/dea/a16981.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
-    [ "events", "d6/dea/a16981.html#acf955037c246f7b5f12cc5338b300b63", null ]
+    [ "npc_toc_dkAI", "d4/dc9/a16985.html", "d4/dc9/a16985" ],
+    [ "npc_toc_dk", "d6/dea/a16981.html#ac8b2c11f64f9cc6f4be91be1e3184b8a", null ],
+    [ "GetAI", "d6/dea/a16981.html#ac5252f0f7ab993c8187aff17dac7a795", null ]
 ];

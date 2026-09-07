@@ -1,6 +1,9 @@
 var a23433 =
 [
-    [ "HandleHit", "dc/d46/a23433.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
-    [ "PrepareSpellScript", "dc/d46/a23433.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
-    [ "Register", "dc/d46/a23433.html#acb1b681f587817614c2b3684585369db", null ]
+    [ "boss_mennu_the_betrayer", "dc/d46/a23433.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
+    [ "JustDied", "dc/d46/a23433.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
+    [ "JustEngagedWith", "dc/d46/a23433.html#a535b9af1677b8af50515818a18e88d27", null ],
+    [ "JustSummoned", "dc/d46/a23433.html#a59949872270890ef794a77029074210b", null ],
+    [ "KilledUnit", "dc/d46/a23433.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
+    [ "Reset", "dc/d46/a23433.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
 ];

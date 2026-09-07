@@ -1,12 +1,7 @@
 var a14269 =
 [
-    [ "npc_akilzon_eagle", "df/da9/a14269.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
-    [ "JustEngagedWith", "df/da9/a14269.html#aa5c3d77a1086ad90397d47f081b25476", null ],
-    [ "MoveInLineOfSight", "df/da9/a14269.html#adefd384b8a273ca52343d836a399f3cb", null ],
-    [ "MovementInform", "df/da9/a14269.html#abf69be0c32356e65e6d451c33fb389f0", null ],
-    [ "Reset", "df/da9/a14269.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
-    [ "UpdateAI", "df/da9/a14269.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
-    [ "arrived", "df/da9/a14269.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
-    [ "EagleSwoop_Timer", "df/da9/a14269.html#a37a5861ef690729e2a8bfafddce168be", null ],
-    [ "TargetGUID", "df/da9/a14269.html#a14d4f82f932569d24f6014ad39640619", null ]
+    [ "boss_blight_wormAI", "df/da9/a14269.html#af267e395fbd539f871e498dc6745c610", null ],
+    [ "Reset", "df/da9/a14269.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
+    [ "UpdateAI", "df/da9/a14269.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
+    [ "_events", "df/da9/a14269.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
 ];

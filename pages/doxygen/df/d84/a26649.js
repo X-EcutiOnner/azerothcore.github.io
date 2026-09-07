@@ -1,6 +1,8 @@
 var a26649 =
 [
-    [ "FilterTargets", "df/d84/a26649.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
-    [ "PrepareSpellScript", "df/d84/a26649.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
-    [ "Register", "df/d84/a26649.html#a4db02c58be57a797c26b07656d1b5409", null ]
+    [ "HandleProc", "df/d84/a26649.html#ab98571b7f614d66c44c25d0d2c6aa738", null ],
+    [ "PrepareAuraScript", "df/d84/a26649.html#a194c83ebc29c4522b5fc313a3ab4d1dd", null ],
+    [ "Register", "df/d84/a26649.html#a6dfd4dc774e58a8881b20a31d4c1be56", null ],
+    [ "Validate", "df/d84/a26649.html#a886d2b1a2bf2f25bde5248edcef9733d", null ],
+    [ "_critStreak", "df/d84/a26649.html#a4a8e3c9d8754844d74e72cb328c44221", null ]
 ];

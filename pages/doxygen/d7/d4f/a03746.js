@@ -1,7 +1,8 @@
 var a03746 =
 [
-    [ "instance_trial_of_the_crusader", "dc/d42/a17143.html", "dc/d42/a17143" ],
-    [ "instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript", "d1/df8/a17147.html", "d1/df8/a17147" ],
-    [ "AddSC_instance_trial_of_the_crusader", "d7/d4f/a03746.html#af823cabf441f9e6a5443da42df4fda4f", null ],
-    [ "validDedicatedInsanityItems", "d7/d4f/a03746.html#ad29a01125872f689fb9953e9b3beb8e8", null ]
+    [ "instance_temple_of_ahnqiraj", "de/d98/a15765.html", "de/d98/a15765" ],
+    [ "instance_temple_of_ahnqiraj::instance_temple_of_ahnqiraj_InstanceMapScript", "d6/d8c/a15769.html", "d6/d8c/a15769" ],
+    [ "AddSC_instance_temple_of_ahnqiraj", "d7/d4f/a03746.html#a60077e2c1e4137c99545119e5eeb1bb3", null ],
+    [ "creatureData", "d7/d4f/a03746.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d7/d4f/a03746.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

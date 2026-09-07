@@ -1,12 +1,8 @@
 var a10285 =
 [
-    [ "TransportTemplate", "d0/d60/a10285.html#aef4781a37808827e3ceaffc782c3af1e", null ],
-    [ "~TransportTemplate", "d0/d60/a10285.html#afc385d824c171d13a184bc0a16121110", null ],
-    [ "accelDist", "d0/d60/a10285.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
-    [ "accelTime", "d0/d60/a10285.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
-    [ "entry", "d0/d60/a10285.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
-    [ "inInstance", "d0/d60/a10285.html#a971c84762c229b01cab656945f0c16de", null ],
-    [ "keyFrames", "d0/d60/a10285.html#ac714531f226ca06c3586cf3f6cc06808", null ],
-    [ "mapsUsed", "d0/d60/a10285.html#a93899b0648871ed8ca32dfe8394347c1", null ],
-    [ "pathTime", "d0/d60/a10285.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
+    [ "GetNavMesh", "d0/d60/a10285.html#a81e3e8249f22accbd06f9e80aa3fccf9", null ],
+    [ "GetNavMeshQuery", "d0/d60/a10285.html#af524ac62385fdd4d4c6a4f01afafbb49", null ],
+    [ "MapCollisionData", "d0/d60/a10285.html#a472038a89678719bf8868ab0c75e394f", null ],
+    [ "_navMesh", "d0/d60/a10285.html#ae41a024489dbe5d11ba6dceed6b7442f", null ],
+    [ "_navMeshQuery", "d0/d60/a10285.html#a237375e56702f7e83c9e13e1f959cfdb", null ]
 ];

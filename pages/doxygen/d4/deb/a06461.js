@@ -1,8 +1,8 @@
 var a06461 =
 [
-    [ "PassiveAI", "d4/deb/a06461.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
-    [ "AttackStart", "d4/deb/a06461.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
-    [ "MoveInLineOfSight", "d4/deb/a06461.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
-    [ "Permissible", "d4/deb/a06461.html#a2960223799a5b3baedbdd7e664604865", null ],
-    [ "UpdateAI", "d4/deb/a06461.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
+    [ "BannedAddon", "d4/deb/a06461.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
+    [ "Id", "d4/deb/a06461.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
+    [ "NameMD5", "d4/deb/a06461.html#a67c4437044d747ff9867a71967697767", null ],
+    [ "Timestamp", "d4/deb/a06461.html#af62257c39a4ae1eba959086e981b0d19", null ],
+    [ "VersionMD5", "d4/deb/a06461.html#acb8dbe824f71363eb81504f43a126d96", null ]
 ];

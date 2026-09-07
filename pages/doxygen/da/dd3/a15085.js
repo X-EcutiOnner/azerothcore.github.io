@@ -1,6 +1,6 @@
 var a15085 =
 [
-    [ "FilterTargets", "da/dd3/a15085.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
-    [ "PrepareSpellScript", "da/dd3/a15085.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
-    [ "Register", "da/dd3/a15085.html#a6375482bd9d1fc6c6941607273c506dc", null ]
+    [ "PrepareAuraScript", "da/dd3/a15085.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
+    [ "RecalculateHook", "da/dd3/a15085.html#af3952993947dfb24381083d21a9e64cb", null ],
+    [ "Register", "da/dd3/a15085.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
 ];

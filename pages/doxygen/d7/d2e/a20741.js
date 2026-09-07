@@ -1,8 +1,27 @@
 var a20741 =
 [
-    [ "npc_xt_toy_pile", "d7/d2e/a20741.html#a843e7d05cf62baa5c006077f8dad107d", null ],
-    [ "SpellHit", "d7/d2e/a20741.html#a82af3830eaf524c587334e8eb193925f", null ],
-    [ "_lastSummonTime", "d7/d2e/a20741.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
-    [ "SummonCooldown", "d7/d2e/a20741.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
-    [ "SummonDistance", "d7/d2e/a20741.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
+    [ "boss_razorscale", "d7/d2e/a20741.html#aa60eb42c00c6d801a7b716cea40412d2", null ],
+    [ "DamageTaken", "d7/d2e/a20741.html#a7dc864d3e60c786cc8153121b39938c5", null ],
+    [ "DoAction", "d7/d2e/a20741.html#a63e951ce71137869004732cfbecc6db3", null ],
+    [ "EnterEvadeMode", "d7/d2e/a20741.html#acc55c1b00fbf1cdea8761eabe29a55d2", null ],
+    [ "GetData", "d7/d2e/a20741.html#ae32fe4aba366d47133974787a250e9ac", null ],
+    [ "HandleMusic", "d7/d2e/a20741.html#a997bbed5df4521b21b2749e47a2b8413", null ],
+    [ "Initialize", "d7/d2e/a20741.html#abe14fe0e1c1afbfb9baa6c16b54a6191", null ],
+    [ "JustDied", "d7/d2e/a20741.html#adad076aca788a317eb8085b22ae4d9ed", null ],
+    [ "JustEngagedWith", "d7/d2e/a20741.html#ae30c01218215370bab7c5a139847c9dd", null ],
+    [ "JustSummoned", "d7/d2e/a20741.html#a16cab59be86221b991f382529884b17e", null ],
+    [ "MovementInform", "d7/d2e/a20741.html#a722509fba200d997e50dc586184019ec", null ],
+    [ "Reset", "d7/d2e/a20741.html#a4fc8f1ff4490d419fd6fec0e4ed15a8b", null ],
+    [ "ScheduleAirEvents", "d7/d2e/a20741.html#a809b1ee8e83d6de04f99b723b329c434", null ],
+    [ "ScheduleGroundEvents", "d7/d2e/a20741.html#ac09d5428613218a18519c63e714c80ae", null ],
+    [ "SpellHit", "d7/d2e/a20741.html#ad92c40cfcc483717bb8ca08214c22add", null ],
+    [ "SummonedCreatureDies", "d7/d2e/a20741.html#a678ba10c9ab7af662c0a8e2dd9de6904", null ],
+    [ "SummonMinions", "d7/d2e/a20741.html#a5d059d9571a04896c27fde1b6c5db4ce", null ],
+    [ "UpdateAI", "d7/d2e/a20741.html#ab86a057182e956b50dd6a3016f6e2ffe", null ],
+    [ "_defenderCnt", "d7/d2e/a20741.html#aa8e48aff86695d3469c7600ee1899f03", null ],
+    [ "_engineersAlive", "d7/d2e/a20741.html#aaa9392649e8116370aace87b5927adb7", null ],
+    [ "_flyCount", "d7/d2e/a20741.html#a2c65bb16401d956cbdf56923ad345015", null ],
+    [ "_harpoonHits", "d7/d2e/a20741.html#a11481dd5ffe2abc73d40b0aa291c6475", null ],
+    [ "_permaGround", "d7/d2e/a20741.html#a410854c247c7b28d3a933ef496988cb8", null ],
+    [ "_trapperCnt", "d7/d2e/a20741.html#adde8b13457bb6376ec48492e689026f3", null ]
 ];

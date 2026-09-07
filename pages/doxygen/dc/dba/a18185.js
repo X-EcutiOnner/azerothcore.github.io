@@ -1,7 +1,6 @@
 var a18185 =
 [
-    [ "HandleSpikes", "dc/dba/a18185.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "dc/dba/a18185.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "dc/dba/a18185.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "dc/dba/a18185.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "npc_cult_adherentAI", "dd/d36/a18189.html", "dd/d36/a18189" ],
+    [ "npc_cult_adherent", "dc/dba/a18185.html#a74496518cf30674044a4a8a166e4c345", null ],
+    [ "GetAI", "dc/dba/a18185.html#a2bfe464c738c983b9539f9216cabd63a", null ]
 ];

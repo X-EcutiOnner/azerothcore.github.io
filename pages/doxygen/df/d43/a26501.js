@@ -1,6 +1,8 @@
 var a26501 =
 [
-    [ "FilterTargets", "df/d43/a26501.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21", null ],
-    [ "PrepareSpellScript", "df/d43/a26501.html#a5992d94317d3da7400d5a9ab115e621e", null ],
-    [ "Register", "df/d43/a26501.html#a125ce6c8dfdc6419b4409c72f74fcf85", null ]
+    [ "HandleProc", "df/d43/a26501.html#ad470545a3c3f1ffaad2d895f122522e1", null ],
+    [ "OnRemove", "df/d43/a26501.html#adc9b9b988aa1342c34a49622f54d8484", null ],
+    [ "PrepareAuraScript", "df/d43/a26501.html#ab3008bcdeb90825213d2352812ff21d5", null ],
+    [ "Register", "df/d43/a26501.html#a9ee52d89eeff45a4f9df1982da6f7d78", null ],
+    [ "Validate", "df/d43/a26501.html#a0ea66a92b78e59b50181b54ab285b9db", null ]
 ];

@@ -1,8 +1,6 @@
 var a26413 =
 [
-    [ "ApplyPermafrost", "d5/df2/a26413.html#a06bb458e038b97696362681a6fd28104", null ],
-    [ "PrepareAuraScript", "d5/df2/a26413.html#a3d96d6f5f798efc92572e2a52349102d", null ],
-    [ "Register", "d5/df2/a26413.html#a613e5af53064357f4e8e4d6260c6856a", null ],
-    [ "RemovePermafrost", "d5/df2/a26413.html#a9414746a76f53a5258cf617abefd5bd6", null ],
-    [ "Validate", "d5/df2/a26413.html#addd58a0138e3cdb5cb274c8a38151a45", null ]
+    [ "HandleStackDrop", "d5/df2/a26413.html#a8e452c968558f3bd273b18a8055745d2", null ],
+    [ "PrepareAuraScript", "d5/df2/a26413.html#aa18e4975db4e2831c61f38d990886676", null ],
+    [ "Register", "d5/df2/a26413.html#a04ebc4be3fea42ca2352fd441841f76e", null ]
 ];

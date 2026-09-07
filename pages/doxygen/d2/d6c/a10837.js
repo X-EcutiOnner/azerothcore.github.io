@@ -1,8 +1,4 @@
 var a10837 =
 [
-    [ "type", "d2/d6c/a10837.html#a93b2e49d8b93d48c1fcf9ce460f965d6", null ],
-    [ "EnabledHooks", "d2/d6c/a10837.html#ac0ca0ab60e350e783c1297a657e32cdc", null ],
-    [ "HasEnabledHooks", "d2/d6c/a10837.html#a8cad14090933423a3bd83b87af723810", null ],
-    [ "LegacyDbValidationCandidate", "d2/d6c/a10837.html#a1c71456b199770112365ee54f0bd28ad", null ],
-    [ "PromotedAfterDbLoad", "d2/d6c/a10837.html#a1800cba1759f5cdee36e47e3aa4ab2e8", null ]
+    [ "ModuleScript", "d2/d6c/a10837.html#a3a3ed7e84ec582e973bda44af6bcbe04", null ]
 ];

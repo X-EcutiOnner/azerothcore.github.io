@@ -1,9 +1,7 @@
 var a15317 =
 [
-    [ "boss_temporus", "d3/ddc/a15317.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "d3/ddc/a15317.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "d3/ddc/a15317.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "d3/ddc/a15317.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "d3/ddc/a15317.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "d3/ddc/a15317.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "npc_cos_chromie_middle", "d3/ddc/a15317.html#a1bb7229781c122d362e781d2737d0fd3", null ],
+    [ "OnGossipHello", "d3/ddc/a15317.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
+    [ "OnGossipSelect", "d3/ddc/a15317.html#a37ebdd257ef22554c81cf3c062856141", null ],
+    [ "OnQuestAccept", "d3/ddc/a15317.html#ad9e733b4dd69f58d880aebcfe06cbf96", null ]
 ];

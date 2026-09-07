@@ -1,12 +1,12 @@
 var a10741 =
 [
-    [ "GroupScript", "d4/d37/a10741.html#a0680f82522424afc364e9b94e1c6f686", null ],
-    [ "CanGroupJoinBattlegroundQueue", "d4/d37/a10741.html#a931b4a94a2f95958579b37c0af6ece03", null ],
-    [ "IsDatabaseBound", "d4/d37/a10741.html#acb561e8a2d5b3542e228a7beb8122fbf", null ],
-    [ "OnAddMember", "d4/d37/a10741.html#adb279c4c0ba60ffea994f35cd7e91ad1", null ],
-    [ "OnChangeLeader", "d4/d37/a10741.html#a64a1441fd3db3f25236691efcff4a80b", null ],
-    [ "OnCreate", "d4/d37/a10741.html#a18973a7e5f260712f032ca1129d4a0bc", null ],
-    [ "OnDisband", "d4/d37/a10741.html#a3cb94966ba1d02180fb3e7cf95000e5f", null ],
-    [ "OnInviteMember", "d4/d37/a10741.html#a2ae925dc27708fdaa4d5909b582b77a7", null ],
-    [ "OnRemoveMember", "d4/d37/a10741.html#adf640b01746ee92fed31670ee5cc8d0f", null ]
+    [ "BattlefieldScript", "d4/d37/a10741.html#a8b975d588e1b44aecebcbbb1b547d02c", null ],
+    [ "IsDatabaseBound", "d4/d37/a10741.html#a3d02622460b0fcc0ae0d5d559fe5f436", null ],
+    [ "OnBattlefieldBeforeInvitePlayerToWar", "d4/d37/a10741.html#ac0c199050fba1f6e991783bd2d2efdc2", null ],
+    [ "OnBattlefieldPlayerEnterZone", "d4/d37/a10741.html#adf7c217eadc6106b1ce3c353a411edf8", null ],
+    [ "OnBattlefieldPlayerJoinWar", "d4/d37/a10741.html#a2f2a9de94a8e8f60d04e956b4479cf16", null ],
+    [ "OnBattlefieldPlayerKill", "d4/d37/a10741.html#a835001d04260cafe35021108e2ede851", null ],
+    [ "OnBattlefieldPlayerLeaveWar", "d4/d37/a10741.html#a3e88ff9ad3772d558ab72123127a550e", null ],
+    [ "OnBattlefieldPlayerLeaveZone", "d4/d37/a10741.html#a3b274755aaded2d99bcf5e12a2f2de4c", null ],
+    [ "OnBattlefieldWarEnd", "d4/d37/a10741.html#ab4ed21627320723b18a09dbc4c7f6baa", null ]
 ];

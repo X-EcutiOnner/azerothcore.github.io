@@ -1,11 +1,7 @@
 var a14801 =
 [
-    [ "o", "db/d67/a14801.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
-    [ "rot0", "db/d67/a14801.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
-    [ "rot1", "db/d67/a14801.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
-    [ "rot2", "db/d67/a14801.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
-    [ "rot3", "db/d67/a14801.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
-    [ "x", "db/d67/a14801.html#a6e527854cf0959995d6b0133dedc94c9", null ],
-    [ "y", "db/d67/a14801.html#a7536047696bd4883237369976b503131", null ],
-    [ "z", "db/d67/a14801.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
+    [ "PeriodicTick", "db/d67/a14801.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
+    [ "PrepareAuraScript", "db/d67/a14801.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
+    [ "Register", "db/d67/a14801.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
+    [ "Validate", "db/d67/a14801.html#a68247c2afa553411fac34582e83635c9", null ]
 ];

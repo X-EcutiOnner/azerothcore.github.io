@@ -1,6 +1,7 @@
 var a16885 =
 [
-    [ "npc_toc_mageAI", "df/dd0/a16889.html", "df/dd0/a16889" ],
-    [ "npc_toc_mage", "d1/df2/a16885.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
-    [ "GetAI", "d1/df2/a16885.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
+    [ "HandleEffectPeriodic", "d1/df2/a16885.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
+    [ "PrepareAuraScript", "d1/df2/a16885.html#a4506f7d723b85c7555296f5ade11cd29", null ],
+    [ "Register", "d1/df2/a16885.html#aeac7e6abc89209e14451439cdf1d416e", null ],
+    [ "Validate", "d1/df2/a16885.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
 ];

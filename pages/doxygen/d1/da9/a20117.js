@@ -1,11 +1,8 @@
 var a20117 =
 [
-    [ "boss_flame_leviathan_defense_turret", "d1/da9/a20117.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
-    [ "CanAIAttack", "d1/da9/a20117.html#a17020dc7facabb0cacac3209277a73f7", null ],
-    [ "DamageTaken", "d1/da9/a20117.html#ac15aadce1954d827b7e833ed761faf10", null ],
-    [ "JustDied", "d1/da9/a20117.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
-    [ "KilledUnit", "d1/da9/a20117.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
-    [ "UpdateAI", "d1/da9/a20117.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
-    [ "_instance", "d1/da9/a20117.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
-    [ "_setHealth", "d1/da9/a20117.html#a413187aa01c119d088846a216f093baa", null ]
+    [ "go_celestial_planetarium_accessAI", "d1/da9/a20117.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
+    [ "GossipHello", "d1/da9/a20117.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
+    [ "UpdateAI", "d1/da9/a20117.html#a9b2bfb74a12e3258476387fc78cde574", null ],
+    [ "_locked", "d1/da9/a20117.html#a37f83dbbb05e461d613a4c38001f785c", null ],
+    [ "events", "d1/da9/a20117.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
 ];

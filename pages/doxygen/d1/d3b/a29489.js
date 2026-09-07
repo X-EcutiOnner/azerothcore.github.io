@@ -1,12 +1,13 @@
 var a29489 =
 [
-    [ "SetUp", "d1/d3b/a29489.html#a15e54f4d79771affa21c8728d4a70a35", null ],
-    [ "TearDown", "d1/d3b/a29489.html#a86941b0a70e73299beb5d68fd9d8d68b", null ],
-    [ "PERM_BAN", "d1/d3b/a29489.html#a309db6b83865b1f8afc92983ed4991fc", null ],
-    [ "PERM_KICK", "d1/d3b/a29489.html#ab224c843e5dac2fe11f8165ed37c325a", null ],
-    [ "PERM_SHUTDOWN", "d1/d3b/a29489.html#a385552a15b063d426557e5f87f6ba6b6", null ],
-    [ "PERM_TELEPORT", "d1/d3b/a29489.html#a61c556021598bc970927b3abe49cd68d", null ],
-    [ "rbacData", "d1/d3b/a29489.html#aa0772fd125f832a546a4a39305ec77c4", null ],
-    [ "ROLE_ADMIN", "d1/d3b/a29489.html#abfcb781ea0fdaf44b5e9d688c3b52abc", null ],
-    [ "ROLE_GM", "d1/d3b/a29489.html#a158724ae6a0c8c2f262f8de6b0e9b4dc", null ]
+    [ "actionFlag", "d1/d3b/a29489.html#a6257ae486eff937cf12be64f0e850ca6", null ],
+    [ "arrivalEventID", "d1/d3b/a29489.html#a1ffe17f529066091b18451a1121ce6ac", null ],
+    [ "delay", "d1/d3b/a29489.html#aef005db912b0a57ecc5d62c66d838826", null ],
+    [ "departureEventID", "d1/d3b/a29489.html#a670a033aaf0ff48676373baf9235d670", null ],
+    [ "index", "d1/d3b/a29489.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
+    [ "mapid", "d1/d3b/a29489.html#aa2c6fb8a785e297c72384043698dd401", null ],
+    [ "path", "d1/d3b/a29489.html#aa0692acbae0d4639c89ece77265d7858", null ],
+    [ "x", "d1/d3b/a29489.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
+    [ "y", "d1/d3b/a29489.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
+    [ "z", "d1/d3b/a29489.html#af48d85940d7f204091e8438427a72e2d", null ]
 ];

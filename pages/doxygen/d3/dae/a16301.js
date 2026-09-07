@@ -1,12 +1,19 @@
 var a16301 =
 [
-    [ "npc_taldaram_flamesphere", "d3/dae/a16301.html#aad7d6696b54e39c6abd27a7252353360", null ],
-    [ "DoAction", "d3/dae/a16301.html#aa79e370c1c30eccb44a46b622e2d5f2a", null ],
-    [ "IsSummonedBy", "d3/dae/a16301.html#acb232931bc181eedf4b39d5519dd45e2", null ],
-    [ "MovementInform", "d3/dae/a16301.html#a785c491b7144420cd4975e62c9a8a711", null ],
-    [ "SetVictimPos", "d3/dae/a16301.html#a51f1683806095c760d4accff9e23f8b6", null ],
-    [ "UpdateAI", "d3/dae/a16301.html#a163341c0ff0f56986e2486e06e21b4b2", null ],
-    [ "instance", "d3/dae/a16301.html#afd0ff83cb5fba1fbeb85b7d600f1b1de", null ],
-    [ "moveTimer", "d3/dae/a16301.html#afe50ac59ec441ab11745ca9461158a00", null ],
-    [ "victimPos", "d3/dae/a16301.html#ae681d84f2324faf22296dcb6e08484b0", null ]
+    [ "npc_weegli_blastfuseAI", "d3/dae/a16301.html#acde6b3e037d3c297e5d1beccdbe3d03a", null ],
+    [ "AttackStart", "d3/dae/a16301.html#a5e9140b38021ed6a2808e026fd77f8f1", null ],
+    [ "DestroyDoor", "d3/dae/a16301.html#a0cf76693b1af179c9857abdccc6931ee", null ],
+    [ "InitializeAI", "d3/dae/a16301.html#a61490f8c63f8056ac9f145ed8dd789c7", null ],
+    [ "JustReachedHome", "d3/dae/a16301.html#a4a88bc4bff8b5b2f75e3dd0c25927815", null ],
+    [ "MovementInform", "d3/dae/a16301.html#a33470a45eba0cbb62b041010f6aed302", null ],
+    [ "Reset", "d3/dae/a16301.html#abec9f353a1430afae12c21273bf32197", null ],
+    [ "sGossipHello", "d3/dae/a16301.html#a3a8381fa5e5d4daf19f312166247bea5", null ],
+    [ "sGossipSelect", "d3/dae/a16301.html#a0927116dcc55a1107dce7c65d1295e2a", null ],
+    [ "UpdateAI", "d3/dae/a16301.html#a73e482ebbb1566738e6775a574500dc8", null ],
+    [ "Bomb_Timer", "d3/dae/a16301.html#af6f68e291ce7d8cf25105ac64d7eebff", null ],
+    [ "destroyingDoor", "d3/dae/a16301.html#a0c7f207666da8ad74ff9dc64b582a042", null ],
+    [ "instance", "d3/dae/a16301.html#a609616e5136cf11bc16f9bb30ba92879", null ],
+    [ "LandMine_Timer", "d3/dae/a16301.html#ad9bab1d2c7a2baf35f6f7fb2cb4a27c7", null ],
+    [ "outroStage", "d3/dae/a16301.html#a30cdbce7bddb4d1d221925de86329a41", null ],
+    [ "outroTimer", "d3/dae/a16301.html#a08ef419fbef2ec38b7bcd408f135cd29", null ]
 ];

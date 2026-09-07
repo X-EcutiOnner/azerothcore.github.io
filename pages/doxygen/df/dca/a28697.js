@@ -1,5 +1,7 @@
 var a28697 =
 [
-    [ "Id", "df/dca/a28697.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
-    [ "textid", "df/dca/a28697.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
+    [ "npc_crashin_thrashin_robot", "df/dca/a28697.html#ad21336d212498b1c9ef5d46979d147ab", null ],
+    [ "IsSummonedBy", "df/dca/a28697.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
+    [ "UpdateAI", "df/dca/a28697.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
+    [ "_scheduler", "df/dca/a28697.html#a55778501d154d0a9e77f76054e926f85", null ]
 ];

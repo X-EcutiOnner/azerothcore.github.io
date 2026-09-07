@@ -1,5 +1,4 @@
 var a00635 =
 [
-    [ "ProcEventInfoBuilder", "d6/d7f/a29707.html", "d6/d7f/a29707" ],
-    [ "SpellProcEntryBuilder", "d2/d1e/a29711.html", "d2/d1e/a29711" ]
+    [ "ScriptRegistry< FormulaScript >", "d4/d10/a00635.html#a774b8f7659d09535a55ac9bbdcf46025", null ]
 ];

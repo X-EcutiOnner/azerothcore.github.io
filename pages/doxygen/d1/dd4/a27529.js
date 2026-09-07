@@ -1,6 +1,7 @@
 var a27529 =
 [
-    [ "HandleAfterHit", "d1/dd4/a27529.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
-    [ "PrepareSpellScript", "d1/dd4/a27529.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
-    [ "Register", "d1/dd4/a27529.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
+    [ "HandleDummy", "d1/dd4/a27529.html#a96c5064738653ce16f06634196218a88", null ],
+    [ "PrepareSpellScript", "d1/dd4/a27529.html#a2fa51a29d2c8ce74c8a4351712ccdeb9", null ],
+    [ "Register", "d1/dd4/a27529.html#a080969e035143ac8527443025dbacef2", null ],
+    [ "Validate", "d1/dd4/a27529.html#a66fd30d7cffdc7307b4c9dc821ccdf92", null ]
 ];

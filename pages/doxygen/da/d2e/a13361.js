@@ -1,5 +1,6 @@
 var a13361 =
 [
-    [ "boss_eramas_brightblaze", "da/d2e/a13361.html#a14d1528750036f27948f5de8a2b44bd3", null ],
-    [ "JustEngagedWith", "da/d2e/a13361.html#ad34613d2795f7371a43891488044392a", null ]
+    [ "npc_grandmother", "da/d2e/a13361.html#a6cffe8c574859779f6561dde0aef9666", null ],
+    [ "OnGossipHello", "da/d2e/a13361.html#ae39335d22b5fd1fc4c0f9d34e8977124", null ],
+    [ "OnGossipSelect", "da/d2e/a13361.html#a0e2b684377ed593abfbb49b730cfe9b2", null ]
 ];

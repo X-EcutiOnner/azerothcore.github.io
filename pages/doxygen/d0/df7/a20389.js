@@ -1,6 +1,14 @@
 var a20389 =
 [
-    [ "HandleAfterEffectApply", "d0/df7/a20389.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "PrepareAuraScript", "d0/df7/a20389.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "d0/df7/a20389.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
+    [ "boss_freya_summons", "d0/df7/a20389.html#a1d53e3d32307347532f96ca2b27734cb", null ],
+    [ "IsSummonedBy", "d0/df7/a20389.html#a631605e67e488590d8d96d4807d13cd2", null ],
+    [ "JustDied", "d0/df7/a20389.html#a15d9b71a31a840917b449c0094049e00", null ],
+    [ "JustEngagedWith", "d0/df7/a20389.html#a0bf2a4bc2e6f62cdec5c15d04fff2f11", null ],
+    [ "Reset", "d0/df7/a20389.html#af7e842a7bc2be806816a942026670d71", null ],
+    [ "ReviveWithAllies", "d0/df7/a20389.html#acec319d89a49da510093411f681fb950", null ],
+    [ "UpdateAI", "d0/df7/a20389.html#abc3634dce208478e82d3c9bb19d222df", null ],
+    [ "_hasDied", "d0/df7/a20389.html#a145f46cfda95e50fa30c98581a30de9e", null ],
+    [ "_isTrio", "d0/df7/a20389.html#a642a937b7d4082b5f9f0fbe4df352aba", null ],
+    [ "_setId", "d0/df7/a20389.html#a3898bc77baa92fd0031aea5bbef5eb80", null ],
+    [ "events", "d0/df7/a20389.html#a3fc5f9be80cc03bed2a83cdacfc5d7ec", null ]
 ];

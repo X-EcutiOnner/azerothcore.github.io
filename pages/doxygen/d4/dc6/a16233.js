@@ -1,6 +1,7 @@
 var a16233 =
 [
-    [ "npc_weegli_blastfuseAI", "d9/d72/a16237.html", "d9/d72/a16237" ],
-    [ "npc_weegli_blastfuse", "d4/dc6/a16233.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "d4/dc6/a16233.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "npc_ringoAI", "d9/d72/a16237.html", "d9/d72/a16237" ],
+    [ "npc_ringo", "d4/dc6/a16233.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
+    [ "GetAI", "d4/dc6/a16233.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
+    [ "OnQuestAccept", "d4/dc6/a16233.html#a9bb46a7574306da2e75dd9867ef6037a", null ]
 ];

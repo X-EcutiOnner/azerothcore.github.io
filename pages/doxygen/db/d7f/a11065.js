@@ -1,5 +1,9 @@
 var a11065 =
 [
-    [ "Flags", "db/d7f/a11065.html#af1d25fa760cdbfa907a1b6e0002f0e70", null ],
-    [ "WithdrawItemLimit", "db/d7f/a11065.html#aa7bb5355ee174f3b9dd32c659e0f7806", null ]
+    [ "GuildInfoResponse", "db/d7f/a11065.html#a256cb81ad2e08050be99c9e1061c2009", null ],
+    [ "Write", "db/d7f/a11065.html#a3222d0018c9593400d3d01258b82371e", null ],
+    [ "CreateDate", "db/d7f/a11065.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
+    [ "GuildName", "db/d7f/a11065.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
+    [ "NumAccounts", "db/d7f/a11065.html#a21b42f1654aa10f7872d87635fea66ac", null ],
+    [ "NumMembers", "db/d7f/a11065.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
 ];

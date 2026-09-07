@@ -1,5 +1,8 @@
 var a01712 =
 [
-    [ "AreaTriggerScript", "da/d86/a10715.html", "da/d86/a10715" ],
-    [ "OnlyOnceAreaTriggerScript", "d9/d85/a10719.html", "d9/d85/a10719" ]
+    [ "CorpseUpdateFieldFlags", "dc/d3e/a01712.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
+    [ "DynamicObjectUpdateFieldFlags", "dc/d3e/a01712.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
+    [ "GameObjectUpdateFieldFlags", "dc/d3e/a01712.html#aee13b862f51557c371d3d93341128895", null ],
+    [ "ItemUpdateFieldFlags", "dc/d3e/a01712.html#ac1cca7ecf1650663132e3e220d771adf", null ],
+    [ "UnitUpdateFieldFlags", "dc/d3e/a01712.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
 ];

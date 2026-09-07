@@ -1,6 +1,6 @@
 var a24073 =
 [
-    [ "CheckRequirement", "d9/dff/a24073.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
-    [ "PrepareSpellScript", "d9/dff/a24073.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
-    [ "Register", "d9/dff/a24073.html#aa4f62292b32347179a5534e4bc0417f8", null ]
+    [ "npc_simon_bunnyAI", "d5/de8/a24077.html", "d5/de8/a24077" ],
+    [ "npc_simon_bunny", "d9/dff/a24073.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
+    [ "GetAI", "d9/dff/a24073.html#ac0c97609916321a1599c0722803a050f", null ]
 ];

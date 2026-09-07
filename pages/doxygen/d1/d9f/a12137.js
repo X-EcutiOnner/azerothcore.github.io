@@ -1,7 +1,6 @@
 var a12137 =
 [
-    [ "PlayerGuid", "d1/d9f/a12137.html#a629a600c48376d04293c225390f747ff", null ],
-    [ "PrimaryKey", "d1/d9f/a12137.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
-    [ "StoredType", "d1/d9f/a12137.html#a9bea7cf549813010b55c23417d65edc6", null ],
-    [ "TableName", "d1/d9f/a12137.html#a0f308af88812c110c490c94368bda482", null ]
+    [ "AfterCheckProcHandler", "d1/d9f/a12137.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
+    [ "Call", "d1/d9f/a12137.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
+    [ "_HandlerScript", "d1/d9f/a12137.html#af5a393efc729e8588c0fc425fdfead99", null ]
 ];

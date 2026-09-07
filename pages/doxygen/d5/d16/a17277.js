@@ -1,10 +1,7 @@
 var a17277 =
 [
-    [ "npc_hor_leaderAI", "d5/d16/a17277.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
-    [ "DoAction", "d5/d16/a17277.html#a610700732a6cc197a40106adef654a62", null ],
-    [ "Reset", "d5/d16/a17277.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
-    [ "UpdateAI", "d5/d16/a17277.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
-    [ "events", "d5/d16/a17277.html#a94128223bddd84b8a678e49f3189cb75", null ],
-    [ "instance", "d5/d16/a17277.html#aaf5ee73e8d3a52c51cbc64853843ed4e", null ],
-    [ "shortver", "d5/d16/a17277.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
+    [ "HandlePeriodicTick", "d5/d16/a17277.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
+    [ "PrepareAuraScript", "d5/d16/a17277.html#a93e894c642101160dd51f30952c82d24", null ],
+    [ "Register", "d5/d16/a17277.html#a49172ede0f888e391b9b4a835475220a", null ],
+    [ "Validate", "d5/d16/a17277.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
 ];

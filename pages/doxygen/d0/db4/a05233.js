@@ -1,4 +1,4 @@
 var a05233 =
 [
-    [ "GetPosition", "d0/db4/a05233.html#a492d4a0b0071bfa4a57d4ce643a435df", null ]
+    [ "Strand", "d0/db4/a05233.html#afd0efbcfbbd1ff7ef26d7f8c476380dc", null ]
 ];

@@ -1,15 +1,17 @@
 var a22325 =
 [
-    [ "OutdoorPvPEP", "d5/de5/a22325.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
-    [ "BuffTeams", "d5/de5/a22325.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
-    [ "FillInitialWorldStates", "d5/de5/a22325.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
-    [ "HandlePlayerEnterZone", "d5/de5/a22325.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
-    [ "HandlePlayerLeaveZone", "d5/de5/a22325.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
-    [ "SendRemoveWorldStates", "d5/de5/a22325.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
-    [ "SetControlledState", "d5/de5/a22325.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
-    [ "SetupOutdoorPvP", "d5/de5/a22325.html#acecc8126180c027cb3d685231e55d873", null ],
-    [ "Update", "d5/de5/a22325.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
-    [ "EP_ControlsId", "d5/de5/a22325.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
-    [ "m_AllianceTowersControlled", "d5/de5/a22325.html#a09e5cf029656af3fc740b236596d42ee", null ],
-    [ "m_HordeTowersControlled", "d5/de5/a22325.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
+    [ "npc_frosthound", "d5/de5/a22325.html#a90dc4d1debb64354154760b52f8b1129", null ],
+    [ "AttackStart", "d5/de5/a22325.html#adf6969c7670584747e407a3bede8c928", null ],
+    [ "EnterEvadeMode", "d5/de5/a22325.html#ad0a16989c8c65eaa58deec6f885719f3", null ],
+    [ "JustDied", "d5/de5/a22325.html#a5a20cbca9da2f80c02d0697c84689c7a", null ],
+    [ "JustEngagedWith", "d5/de5/a22325.html#a8c9d22bfd32c12b3cf60f89f6856b5a5", null ],
+    [ "JustSummoned", "d5/de5/a22325.html#a93858959a06e4f1aa014fca3044949bc", null ],
+    [ "OnCharmed", "d5/de5/a22325.html#aaf081193bdae7ef30c153a3d40dcefe7", null ],
+    [ "PassengerBoarded", "d5/de5/a22325.html#a0126be35e4bbb613c9e0a1a04bef3681", null ],
+    [ "Reset", "d5/de5/a22325.html#ac2056fafcb04a827c83bc199a89a8a74", null ],
+    [ "UpdateAI", "d5/de5/a22325.html#ab163e819369b6b90b5782ab8d1cecbaf", null ],
+    [ "WaypointReached", "d5/de5/a22325.html#a9f6238bd211a1a465815c8cdd9bac1d2", null ],
+    [ "WaypointReached", "d5/de5/a22325.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_completionWaypoint", "d5/de5/a22325.html#adfeb6a7a2755ebc0d1252cedf0f54727", null ],
+    [ "_summons", "d5/de5/a22325.html#a103a499ecce73bc4505a85a21c143e73", null ]
 ];

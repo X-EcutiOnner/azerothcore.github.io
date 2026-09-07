@@ -1,7 +1,7 @@
 var a18361 =
 [
-    [ "HandleScript", "d3/de4/a18361.html#a37b261d0df2829788d8290a9194913f5", null ],
-    [ "PrepareSpellScript", "d3/de4/a18361.html#a69386dbef57322393a38eec90662135f", null ],
-    [ "Register", "d3/de4/a18361.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
-    [ "Validate", "d3/de4/a18361.html#a63c446574c700a895d7fbc5bb2b81508", null ]
+    [ "CheckRequirement", "d3/de4/a18361.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
+    [ "CheckRequirementInternal", "d3/de4/a18361.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
+    [ "PrepareSpellScript", "d3/de4/a18361.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
+    [ "Register", "d3/de4/a18361.html#a95a250aeb3a41922c529f476d39f18e4", null ]
 ];

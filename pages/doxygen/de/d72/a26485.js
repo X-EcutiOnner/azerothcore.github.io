@@ -1,9 +1,6 @@
 var a26485 =
 [
-    [ "Load", "de/d72/a26485.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "de/d72/a26485.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "de/d72/a26485.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "de/d72/a26485.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "de/d72/a26485.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "de/d72/a26485.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "CheckProc", "de/d72/a26485.html#a1642e1c445baac2be49a32797f21ca31", null ],
+    [ "PrepareAuraScript", "de/d72/a26485.html#a116d2bc302ca74ae39d98f8d5849e757", null ],
+    [ "Register", "de/d72/a26485.html#a8c0d81f8480be1853679d1f2a20ecfbb", null ]
 ];

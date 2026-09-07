@@ -1,8 +1,6 @@
 var a23425 =
 [
-    [ "HandleDummyApply", "d9/de3/a23425.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "d9/de3/a23425.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "d9/de3/a23425.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "d9/de3/a23425.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "d9/de3/a23425.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "HandleScript", "d9/de3/a23425.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
+    [ "PrepareSpellScript", "d9/de3/a23425.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
+    [ "Register", "d9/de3/a23425.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
 ];

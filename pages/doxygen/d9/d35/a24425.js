@@ -1,8 +1,5 @@
 var a24425 =
 [
-    [ "HandleEffectApply", "d9/d35/a24425.html#a9a93b47a1f24554a94e364b07f74ba55", null ],
-    [ "HandleEffectRemove", "d9/d35/a24425.html#abb7f01239b5a982ded0244d781c4d856", null ],
-    [ "PrepareAuraScript", "d9/d35/a24425.html#a9517667d1f79557b3ec2ef6fdfd1bc1b", null ],
-    [ "Register", "d9/d35/a24425.html#ae2847d4059ad2822be5703c4d0c79bdb", null ],
-    [ "Validate", "d9/d35/a24425.html#abc30fd53a7f9234755c292db533ba99c", null ]
+    [ "npc_pet_dk_risen_ally", "d9/d35/a24425.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
+    [ "OnCharmed", "d9/d35/a24425.html#ac3927becc1ed929c384b3413bfee9330", null ]
 ];

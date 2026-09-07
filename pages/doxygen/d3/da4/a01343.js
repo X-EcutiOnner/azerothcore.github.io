@@ -1,5 +1,4 @@
 var a01343 =
 [
-    [ "TotemAI", "d0/d65/a06523.html", "d0/d65/a06523" ],
-    [ "KillMagnetEvent", "db/d35/a06527.html", "db/d35/a06527" ]
+    [ "GridCell< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES >", "d3/dd1/a09505.html", "d3/dd1/a09505" ]
 ];

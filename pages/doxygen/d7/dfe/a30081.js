@@ -1,11 +1,9 @@
 var a30081 =
 [
-    [ "material", "d7/dfe/a30081.html#a7079e8817a9684602084eb224f2540fc", null ],
-    [ "pos_x", "d7/dfe/a30081.html#ac4d971cc46506be14716124afbb5ad9c", null ],
-    [ "pos_y", "d7/dfe/a30081.html#a6cd85f2a674d732e88371ffce5e46077", null ],
-    [ "pos_z", "d7/dfe/a30081.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
-    [ "xtiles", "d7/dfe/a30081.html#aca34dfa64624cfe04c314c13bbed0062", null ],
-    [ "xverts", "d7/dfe/a30081.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
-    [ "ytiles", "d7/dfe/a30081.html#a9901a7e9828ac840bc290b0768831d66", null ],
-    [ "yverts", "d7/dfe/a30081.html#abf24042b85692cd0df05d65d734dd99e", null ]
+    [ "CreateSpellInfo", "d7/dfe/a30081.html#a83fe2676ce2ae1374600de46967aeae5", null ],
+    [ "SetUp", "d7/dfe/a30081.html#abd89fcaf8f8c38b5d992a21430f9ecdb", null ],
+    [ "TearDown", "d7/dfe/a30081.html#acb5697251398888a4cc282c359cfc4ec", null ],
+    [ "_originalWorld", "d7/dfe/a30081.html#ae44f699ee1acedae6ead179c3f012594", null ],
+    [ "_spellInfos", "d7/dfe/a30081.html#ac06654664782d249c4233f79990c817b", null ],
+    [ "_worldMock", "d7/dfe/a30081.html#a98d5f98dfc4d63705920b7b164530022", null ]
 ];

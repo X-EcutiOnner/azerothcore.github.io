@@ -1,8 +1,6 @@
 var a25257 =
 [
-    [ "HandleApply", "d8/dbc/a25257.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
-    [ "OnPeriodic", "d8/dbc/a25257.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
-    [ "PrepareAuraScript", "d8/dbc/a25257.html#a344d1a92623865876174c0e88ce8ab4b", null ],
-    [ "Register", "d8/dbc/a25257.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
-    [ "Validate", "d8/dbc/a25257.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
+    [ "HandleScript", "d8/dbc/a25257.html#a913c8c461f291ccaad2f48614c0146c6", null ],
+    [ "PrepareSpellScript", "d8/dbc/a25257.html#a18913a7455cf3f158136f2d3bb415779", null ],
+    [ "Register", "d8/dbc/a25257.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
 ];

@@ -1,9 +1,6 @@
 var a28389 =
 [
-    [ "npc_fireworkAI", "dd/d77/a28389.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "dd/d77/a28389.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "dd/d77/a28389.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "dd/d77/a28389.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "dd/d77/a28389.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "dd/d77/a28389.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "go_amberpine_outhouse", "dd/d77/a28389.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
+    [ "OnGossipHello", "dd/d77/a28389.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
+    [ "OnGossipSelect", "dd/d77/a28389.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
 ];

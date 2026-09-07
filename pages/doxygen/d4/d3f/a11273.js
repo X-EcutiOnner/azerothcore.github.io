@@ -1,10 +1,8 @@
 var a11273 =
 [
-    [ "BuyItem", "d4/d3f/a11273.html#a3069d333bccadf53310ce86118b2c224", null ],
-    [ "Read", "d4/d3f/a11273.html#aeeda3c4a9200cfdc3372f1a3510f453b", null ],
-    [ "Count", "d4/d3f/a11273.html#a72fee9e84781ae2be25f9f15a2bb6de2", null ],
-    [ "Item", "d4/d3f/a11273.html#a07c03ec8db8e498b417b7dbabb9412b3", null ],
-    [ "Slot", "d4/d3f/a11273.html#a7db43e484bf82fb81ccca197c24df2d1", null ],
-    [ "Unk", "d4/d3f/a11273.html#aaf2b6aefb11379325b8cf9931abff638", null ],
-    [ "VendorGuid", "d4/d3f/a11273.html#aab9a5ff8f6f71a311e58e78b81ef7021", null ]
+    [ "SetDungeonDifficulty", "d4/d3f/a11273.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
+    [ "Write", "d4/d3f/a11273.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
+    [ "Difficulty", "d4/d3f/a11273.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
+    [ "IsInGroup", "d4/d3f/a11273.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
+    [ "Unk", "d4/d3f/a11273.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
 ];

@@ -1,7 +1,7 @@
 var a28277 =
 [
-    [ "npc_riggle_bassbaitAI", "d3/db9/a28277.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "d3/db9/a28277.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "d3/db9/a28277.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "d3/db9/a28277.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "go_bear_trapAI", "d3/db9/a28277.html#ad97484d73bcea6a84909004c099eec34", null ],
+    [ "Initialize", "d3/db9/a28277.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
+    [ "UpdateAI", "d3/db9/a28277.html#a8901922d736bb0391da5618593ced5c5", null ],
+    [ "_events", "d3/db9/a28277.html#a59f37a130326818dd922763ae9058fe7", null ]
 ];

@@ -1,9 +1,6 @@
 var a29229 =
 [
-    [ "adtId", "da/dc7/a29229.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
-    [ "areaId", "da/dc7/a29229.html#a7f652c68036429350543fc5a2cc6861e", null ],
-    [ "Flags", "da/dc7/a29229.html#a60f9a61948d1e28587c9d1a338730f37", null ],
-    [ "groupId", "da/dc7/a29229.html#a09052bad3028899580ffedd556672b64", null ],
-    [ "Id", "da/dc7/a29229.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
-    [ "rootId", "da/dc7/a29229.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
+    [ "Id", "da/dc7/a29229.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
+    [ "SpellId", "da/dc7/a29229.html#ae8c119bacf706916f331d3f316fb1347", null ],
+    [ "TypeFlags", "da/dc7/a29229.html#aae92871758e9a738a888cacf0946f16b", null ]
 ];

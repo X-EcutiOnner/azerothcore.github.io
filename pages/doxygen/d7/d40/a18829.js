@@ -1,7 +1,9 @@
 var a18829 =
 [
-    [ "ValithriaDespawner", "d7/d40/a18829.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
-    [ "Execute", "d7/d40/a18829.html#a4f8c63f52996da14078a7196cae3a00d", null ],
-    [ "operator()", "d7/d40/a18829.html#a05bae39d642f294f2ef98151d66ba382", null ],
-    [ "_creature", "d7/d40/a18829.html#a64bf6181ad867efd987edec141ca3bf0", null ]
+    [ "npc_spirit_wardenAI", "d7/d40/a18829.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "d7/d40/a18829.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "d7/d40/a18829.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "d7/d40/a18829.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "d7/d40/a18829.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "d7/d40/a18829.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

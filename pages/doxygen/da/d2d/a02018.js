@@ -1,4 +1,17 @@
 var a02018 =
 [
-    [ "GetTargetFlagMask", "da/d2d/a02018.html#adc898dfddc20010c41bb771b6d6f274e", null ]
+    [ "SmartAI", "d5/daf/a06645.html", "d5/daf/a06645" ],
+    [ "SmartGameObjectAI", "df/d4d/a06649.html", "df/d4d/a06649" ],
+    [ "DISTANCING_CONSTANT", "da/d2d/a02018.html#a9a381b0c4b9dc5403d4a93b3afb19dff", null ],
+    [ "SmartEscortState", "da/d2d/a02018.html#a0911043eb49fd7958a828a60e0537d54", [
+      [ "SMART_ESCORT_NONE", "da/d2d/a02018.html#a0911043eb49fd7958a828a60e0537d54ad51ea013b009290e4eba7f3591d0e889", null ],
+      [ "SMART_ESCORT_ESCORTING", "da/d2d/a02018.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19", null ],
+      [ "SMART_ESCORT_RETURNING", "da/d2d/a02018.html#a0911043eb49fd7958a828a60e0537d54a404e4c2ac36fc3f87779560b58af7fe8", null ],
+      [ "SMART_ESCORT_PAUSED", "da/d2d/a02018.html#a0911043eb49fd7958a828a60e0537d54a35650bf0f6f9a142acfb5b6e5cd194f7", null ]
+    ] ],
+    [ "SmartEscortVars", "da/d2d/a02018.html#a598eb331d977fa893d589fe3e6cebfbf", [
+      [ "SMART_ESCORT_MAX_PLAYER_DIST", "da/d2d/a02018.html#a598eb331d977fa893d589fe3e6cebfbfa43349fe96bf29348a87944e39bacfdba", null ],
+      [ "SMART_MAX_AID_DIST", "da/d2d/a02018.html#a598eb331d977fa893d589fe3e6cebfbfa74a5b65862962dfdb4c72589d5191c3f", null ]
+    ] ],
+    [ "AddSC_SmartScripts", "da/d2d/a02018.html#ab6012619ba76775b314475ec60f8c7d7", null ]
 ];

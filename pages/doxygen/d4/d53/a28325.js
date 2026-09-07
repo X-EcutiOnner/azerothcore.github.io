@@ -1,6 +1,9 @@
 var a28325 =
 [
-    [ "npc_injured_patientAI", "dd/d60/a28329.html", "dd/d60/a28329" ],
-    [ "npc_injured_patient", "d4/d53/a28325.html#a0b7ef214aa1b20df088dee0976c73783", null ],
-    [ "GetAI", "d4/d53/a28325.html#a0c042bb81e684f903d28d7879af99d4a", null ]
+    [ "go_gilded_brazierAI", "d4/d53/a28325.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
+    [ "GossipHello", "d4/d53/a28325.html#afac9e217c294e72ff5f2526422e6321e", null ],
+    [ "Initialize", "d4/d53/a28325.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
+    [ "UpdateAI", "d4/d53/a28325.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
+    [ "_events", "d4/d53/a28325.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
+    [ "_playerGUID", "d4/d53/a28325.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
 ];

@@ -1,9 +1,16 @@
 var a20261 =
 [
-    [ "boss_freya_nature_bomb", "d4/dc5/a20261.html#a050672942ab467557d21a930ab22827c", null ],
-    [ "Reset", "d4/dc5/a20261.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
-    [ "UpdateAI", "d4/dc5/a20261.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
-    [ "_explodeTimer", "d4/dc5/a20261.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
-    [ "_goGUID", "d4/dc5/a20261.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
-    [ "Timer", "d4/dc5/a20261.html#affadb797817ddf512209d1d71097baf3", null ]
+    [ "npc_mimirons_inferno", "d4/dc5/a20261.html#aedcded9302c0cb9e29475f471bd0612e", null ],
+    [ "AttackStart", "d4/dc5/a20261.html#a43a03388c06ef38ab29a1b4d5bc701c6", null ],
+    [ "DoAction", "d4/dc5/a20261.html#ade97188bb54f7b5a15a8a596355e4170", null ],
+    [ "JustSummoned", "d4/dc5/a20261.html#a77ddb0fbd9f0c2334df122d91913300b", null ],
+    [ "MoveInLineOfSight", "d4/dc5/a20261.html#acc2e756af50ebde8300c46ec6f369760", null ],
+    [ "Reset", "d4/dc5/a20261.html#afbd0bcdbb24bf1dbdaacecf4b602922b", null ],
+    [ "SummonedCreatureDespawn", "d4/dc5/a20261.html#a9b5176d6f1712d36283b0ebeeddee5b2", null ],
+    [ "UpdateAI", "d4/dc5/a20261.html#afd800c3a1430fe19edf6fe21763b15d8", null ],
+    [ "WaypointReached", "d4/dc5/a20261.html#a13cda9fcb49493477e4a4111d9858ec1", null ],
+    [ "WaypointReached", "d4/dc5/a20261.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_recastTimer", "d4/dc5/a20261.html#ac74ee90383d6ac140d6187c6115716ed", null ],
+    [ "_spellTimer", "d4/dc5/a20261.html#a0683c956325801b63e7e31b8485f35bd", null ],
+    [ "summons", "d4/dc5/a20261.html#a7a0be8291200404285277c3689c54106", null ]
 ];

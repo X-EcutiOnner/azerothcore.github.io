@@ -1,6 +1,6 @@
 var a16317 =
 [
-    [ "instance_ahnkahet_InstanceScript", "d1/df0/a16321.html", "d1/df0/a16321" ],
-    [ "instance_ahnkahet", "d3/d3f/a16317.html#afbe11bc040019231878cf31cc357830b", null ],
-    [ "GetInstanceScript", "d3/d3f/a16317.html#a8847099c88f11de363c45e27998f10b7", null ]
+    [ "HandleApply", "d3/d3f/a16317.html#aee4d5908035d06be2f1469a50db02e26", null ],
+    [ "PrepareAuraScript", "d3/d3f/a16317.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
+    [ "Register", "d3/d3f/a16317.html#ac83962bef84b68cef6d7937769730598", null ]
 ];

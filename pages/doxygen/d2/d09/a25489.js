@@ -1,6 +1,6 @@
 var a25489 =
 [
-    [ "OnRemove", "d2/d09/a25489.html#ac3a6d7bdc95605e3c73f8115b4a68da0", null ],
-    [ "PrepareAuraScript", "d2/d09/a25489.html#ab1e3a55a35dbbb4bd781ac8c51608e6a", null ],
-    [ "Register", "d2/d09/a25489.html#aecd068248e174c4b676ff9f43dd0856f", null ]
+    [ "OnApply", "d2/d09/a25489.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
+    [ "PrepareAuraScript", "d2/d09/a25489.html#a159ee8a9b0af729ed01f7632adb58863", null ],
+    [ "Register", "d2/d09/a25489.html#a0f33043317402119aa14e50a1eb6c227", null ]
 ];

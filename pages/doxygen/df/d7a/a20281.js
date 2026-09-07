@@ -1,7 +1,6 @@
 var a20281 =
 [
-    [ "npc_ulduar_saronite_vapors", "df/d7a/a20281.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
-    [ "IsSummonedBy", "df/d7a/a20281.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
-    [ "JustDied", "df/d7a/a20281.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
-    [ "_instance", "df/d7a/a20281.html#ad304110ff1bfc33066cd17f04cf40181", null ]
+    [ "npc_salvaged_chopper", "df/d7a/a20281.html#ad2d875ba3e7de8e44213cd8fdf383df0", null ],
+    [ "PassengerBoarded", "df/d7a/a20281.html#a12e63e4a2ce543293a398bfe3e9635ad", null ],
+    [ "SwapActionButton", "df/d7a/a20281.html#afe67864f4315ad1fa876572c840cc190", null ]
 ];

@@ -1,9 +1,9 @@
 var a20753 =
 [
-    [ "OnProc", "d9/d5a/a20753.html#a94de5901e43000e99b478e9194d59ecd", null ],
-    [ "PrepareAuraScript", "d9/d5a/a20753.html#a1b4efd5e774d4bd561a30830c3be8045", null ],
-    [ "Register", "d9/d5a/a20753.html#acc8a07807e5c306af285cb5889ef2c41", null ],
-    [ "Validate", "d9/d5a/a20753.html#ad17cfc0369da547475e43bd2970cf3f2", null ],
-    [ "_lastOrbTime", "d9/d5a/a20753.html#a4522510d836abf625b019674c1c5281f", null ],
-    [ "OrbCooldown", "d9/d5a/a20753.html#a4a0204623a0db8d1474d0e72e71226eb", null ]
+    [ "npc_expedition_trapper", "d9/d5a/a20753.html#ac924a9b9e23624de1460b0cdfe8c8a1b", null ],
+    [ "DoAction", "d9/d5a/a20753.html#a094ecbf1a719223d50c7d070989aa782", null ],
+    [ "MovementInform", "d9/d5a/a20753.html#ae2a0c15b4a7d59f4222e818d0fcf303b", null ],
+    [ "SetData", "d9/d5a/a20753.html#a11241b1513209a9964569ab29eb5dc64", null ],
+    [ "UpdateAI", "d9/d5a/a20753.html#a16a39f855263ebde21ddb03d4fe60460", null ],
+    [ "_idx", "d9/d5a/a20753.html#ae24ec016a0f29f7bcb41935e1991f9fa", null ]
 ];

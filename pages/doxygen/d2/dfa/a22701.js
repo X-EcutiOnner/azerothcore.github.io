@@ -1,7 +1,6 @@
 var a22701 =
 [
-    [ "CheckProc", "d2/dfa/a22701.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "d2/dfa/a22701.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "d2/dfa/a22701.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "d2/dfa/a22701.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "instance_auchenai_crypts_InstanceMapScript", "df/dd7/a22705.html", "df/dd7/a22705" ],
+    [ "instance_auchenai_crypts", "d2/dfa/a22701.html#a8b16924167c54a9d8120bac67bc10fed", null ],
+    [ "GetInstanceScript", "d2/dfa/a22701.html#a99e47df95fde07d4a6e7687634805b93", null ]
 ];

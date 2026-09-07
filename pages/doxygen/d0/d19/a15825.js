@@ -1,7 +1,6 @@
 var a15825 =
 [
-    [ "HandleEffectRemove", "d0/d19/a15825.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "d0/d19/a15825.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "d0/d19/a15825.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "d0/d19/a15825.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "d2/d22/a15829.html", "d2/d22/a15829" ],
+    [ "instance_wailing_caverns", "d0/d19/a15825.html#a906f59c39f59237e9eedb479dfc7d825", null ],
+    [ "GetInstanceScript", "d0/d19/a15825.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
 ];

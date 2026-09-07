@@ -1,6 +1,5 @@
 var a25865 =
 [
-    [ "CheckSinkholes", "db/d29/a25865.html#a5c363144cde9e809d97730f54873fe85", null ],
-    [ "PrepareSpellScript", "db/d29/a25865.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
-    [ "Register", "db/d29/a25865.html#a6694fbf58b776b74df0a54cd96141688", null ]
+    [ "PrepareSpellScript", "db/d29/a25865.html#acb39fd85035670fb98dcea66c29b2ff7", null ],
+    [ "Register", "db/d29/a25865.html#a7fe416070962ba582d59ddff70c13590", null ]
 ];

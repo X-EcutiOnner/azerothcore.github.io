@@ -1,7 +1,6 @@
 var a13489 =
 [
-    [ "HandleHit", "da/d1e/a13489.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
-    [ "Load", "da/d1e/a13489.html#affe2cd261752db89b1b418eb18a3370c", null ],
-    [ "PrepareSpellScript", "da/d1e/a13489.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
-    [ "Register", "da/d1e/a13489.html#aaadaf49a3757e78d69ffc32768945d16", null ]
+    [ "instance_magisters_terrace_InstanceMapScript", "d6/d4e/a13493.html", "d6/d4e/a13493" ],
+    [ "instance_magisters_terrace", "da/d1e/a13489.html#a81e23ce04c4d765193d2d2763ef78987", null ],
+    [ "GetInstanceScript", "da/d1e/a13489.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
 ];

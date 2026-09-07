@@ -1,6 +1,5 @@
 var a08953 =
 [
-    [ "SkillStatusData", "d1/d69/a08953.html#a7594ceb20110da34f3aa68ac69996b94", null ],
-    [ "pos", "d1/d69/a08953.html#a51ccb328b807f2c7fd275d843218f466", null ],
-    [ "uState", "d1/d69/a08953.html#a232801ad25897a82739916d5be4fdc22", null ]
+    [ "PlayerClassInfo", "d1/d69/a08953.html#a6a0a6db24e144593356e0505946e8f06", null ],
+    [ "levelInfo", "d1/d69/a08953.html#aa234b353361ef0017ec974ca4c8e86f1", null ]
 ];

@@ -1,6 +1,8 @@
 var a19909 =
 [
-    [ "boss_sjonnirAI", "d3/db7/a19913.html", "d3/db7/a19913" ],
-    [ "boss_sjonnir", "d9/d30/a19909.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "d9/d30/a19909.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "npc_centrifuge_constructAI", "d9/d30/a19909.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
+    [ "DamageTaken", "d9/d30/a19909.html#aa568418de267a99108698e79baa1b3f4", null ],
+    [ "JustEngagedWith", "d9/d30/a19909.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
+    [ "Reset", "d9/d30/a19909.html#a2f7750cea2f59d794c85e20b703370af", null ],
+    [ "UpdateAI", "d9/d30/a19909.html#a28316416ad6c56d83c9e878511256445", null ]
 ];

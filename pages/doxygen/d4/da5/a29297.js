@@ -1,20 +1,10 @@
 var a29297 =
 [
-    [ "RealmMap", "d4/da5/a29297.html#a6031c19ec935fbe535f60a1014483dbd", null ],
-    [ "RealmList", "d4/da5/a29297.html#abe7dfad5160a08a5852cb1436a06eaa9", null ],
-    [ "~RealmList", "d4/da5/a29297.html#a64bea5f38384143cc960840a8e84ef00", null ],
-    [ "Close", "d4/da5/a29297.html#a14a4d9b5383da24bc1ad9754cdfa2183", null ],
-    [ "GetBuildInfo", "d4/da5/a29297.html#a0f7136cb280d2461b1ec0d080645c6e0", null ],
-    [ "GetRealm", "d4/da5/a29297.html#a3e25e63168bcff88d021294559ccf0c5", null ],
-    [ "GetRealms", "d4/da5/a29297.html#afc2cbe2a4ee4d9870821dbe8d96e8fa4", null ],
-    [ "Initialize", "d4/da5/a29297.html#a70954d518dc4559e0aca0388f13db411", null ],
-    [ "Instance", "d4/da5/a29297.html#aea053134fe293fbd4a8801b25fbb44ca", null ],
-    [ "LoadBuildInfo", "d4/da5/a29297.html#a1f8866e57557beb7d69037a63e34428d", null ],
-    [ "UpdateRealm", "d4/da5/a29297.html#ae15cf59b00e8e8e561f266d5dd3e11ae", null ],
-    [ "UpdateRealms", "d4/da5/a29297.html#a0b4559e5538a02ccf5247839005d602e", null ],
-    [ "_builds", "d4/da5/a29297.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0", null ],
-    [ "_realms", "d4/da5/a29297.html#a41693a01cd88ea99b54dd9ca8fe6b445", null ],
-    [ "_resolver", "d4/da5/a29297.html#a1beee0fdd1a9e61f68db925f53d373a9", null ],
-    [ "_updateInterval", "d4/da5/a29297.html#ac07fe3cd4fc18169af4f63b207902e95", null ],
-    [ "_updateTimer", "d4/da5/a29297.html#a5619be8a2649680901cfd7a3608e984a", null ]
+    [ "ID", "d4/da5/a29297.html#a906c42770a619884f08b67e2870bff93", null ],
+    [ "reqarenapoints", "d4/da5/a29297.html#a5d45007a832d6120e29c7821c07646de", null ],
+    [ "reqarenaslot", "d4/da5/a29297.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
+    [ "reqhonorpoints", "d4/da5/a29297.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
+    [ "reqitem", "d4/da5/a29297.html#a9cba8872c909260a55dcfdf7f4726899", null ],
+    [ "reqitemcount", "d4/da5/a29297.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
+    [ "reqpersonalarenarating", "d4/da5/a29297.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
 ];

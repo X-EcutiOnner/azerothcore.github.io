@@ -1,6 +1,6 @@
 var a23881 =
 [
-    [ "go_magtheridons_head", "d0/d92/a23881.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "d0/d92/a23881.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "d0/d92/a23881.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "HandlePeriodic", "d0/d92/a23881.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "d0/d92/a23881.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "d0/d92/a23881.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

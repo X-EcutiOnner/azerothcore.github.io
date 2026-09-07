@@ -1,7 +1,12 @@
 var a22693 =
 [
-    [ "PrepareAuraScript", "d5/d77/a22693.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
-    [ "Register", "d5/d77/a22693.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
-    [ "Update", "d5/d77/a22693.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
-    [ "Validate", "d5/d77/a22693.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
+    [ "boss_shirrak_the_dead_watcher", "d5/d77/a22693.html#aaa6826de3b6563342b89544b38386d93", null ],
+    [ "EnterEvadeMode", "d5/d77/a22693.html#a23768629c4ab48954880c3c29099f432", null ],
+    [ "getStackCount", "d5/d77/a22693.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
+    [ "JustEngagedWith", "d5/d77/a22693.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
+    [ "JustSummoned", "d5/d77/a22693.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
+    [ "Reset", "d5/d77/a22693.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
+    [ "SpellHitTarget", "d5/d77/a22693.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
+    [ "UpdateAI", "d5/d77/a22693.html#a855505f949f53f979187abcb5b2f617f", null ],
+    [ "focusGUID", "d5/d77/a22693.html#a81a7eade42ef595c173d7828ce59ef88", null ]
 ];

@@ -1,5 +1,5 @@
 var a28433 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "da/db5/a28433.html#afaa929276f8b131005c9b94daa9a09f9", null ],
-    [ "OnPlayerCompleteQuest", "da/db5/a28433.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
+    [ "item_only_for_flight", "da/db5/a28433.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "da/db5/a28433.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

@@ -1,6 +1,7 @@
 var a18317 =
 [
-    [ "ExtraEffect", "d0/d3e/a18317.html#a10dfb36a835589208482e1c8833d8f46", null ],
-    [ "PrepareSpellScript", "d0/d3e/a18317.html#a972ff2bdc7d3660820e05326600be6f6", null ],
-    [ "Register", "d0/d3e/a18317.html#ae337e67a220b72b44878d02be33e3888", null ]
+    [ "HandleTriggerSpell", "d0/d3e/a18317.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "d0/d3e/a18317.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "d0/d3e/a18317.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "d0/d3e/a18317.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

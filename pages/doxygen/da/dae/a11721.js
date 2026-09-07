@@ -1,14 +1,11 @@
 var a11721 =
 [
-    [ "Account", "da/dae/a11721.html#acb9382abe66dd43176fb7af1f3020388", null ],
-    [ "AddonInfo", "da/dae/a11721.html#ad39c1b9e73d5bbbe45114e3358126d73", null ],
-    [ "BattlegroupID", "da/dae/a11721.html#aa09cd28d82e9d96d96a1ccefc4a313ca", null ],
-    [ "Build", "da/dae/a11721.html#ae4a83f8e8c81c1d797512245392fd582", null ],
-    [ "Digest", "da/dae/a11721.html#a6b795f38fb996534f502e1fa5de9e48e", null ],
-    [ "DosResponse", "da/dae/a11721.html#afe2b4146ef592a7067ddaeac449b0644", null ],
-    [ "LocalChallenge", "da/dae/a11721.html#a5c8c57127a0b1cd3cfa63503018c8ae3", null ],
-    [ "LoginServerID", "da/dae/a11721.html#a155f8107ac5a637501a169cfaf43c4b9", null ],
-    [ "LoginServerType", "da/dae/a11721.html#aea79adfcdb6acd5b6bf34fc9175cca3c", null ],
-    [ "RealmID", "da/dae/a11721.html#a944915bd95665075fdf4b6fa01de9a9f", null ],
-    [ "RegionID", "da/dae/a11721.html#a4052be051b41e931747b1956dc145d64", null ]
+    [ "OptionalData", "d9/dad/a11725.html", "d9/dad/a11725" ],
+    [ "ArrivalTicks", "da/dae/a11721.html#a8fa635d0c8f77a0e39fd66501490f6ea", null ],
+    [ "ConnectionId", "da/dae/a11721.html#abe8700ec99d55a66b22f8fbb28c833fa", null ],
+    [ "Direction", "da/dae/a11721.html#a03a38a8ceed9eb1ea5585fcfb1ab29b8", null ],
+    [ "Length", "da/dae/a11721.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc", null ],
+    [ "Opcode", "da/dae/a11721.html#a7fcc9281cd10ecf79929f9f17c855b65", null ],
+    [ "OptionalData", "da/dae/a11721.html#aa5219ee4193cccf913dabf6db5d6f57a", null ],
+    [ "OptionalDataSize", "da/dae/a11721.html#a03b79fe07bd5f0a1c254f2fb92a3ecba", null ]
 ];

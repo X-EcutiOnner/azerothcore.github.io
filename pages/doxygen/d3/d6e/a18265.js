@@ -1,11 +1,6 @@
 var a18265 =
 [
-    [ "Load", "d3/d6e/a18265.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "d3/d6e/a18265.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "d3/d6e/a18265.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "d3/d6e/a18265.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "d3/d6e/a18265.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "d3/d6e/a18265.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "d3/d6e/a18265.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "d3/d6e/a18265.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "AbominationDespawner", "d3/d6e/a18265.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "d3/d6e/a18265.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "d3/d6e/a18265.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

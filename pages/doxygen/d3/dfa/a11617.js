@@ -1,5 +1,6 @@
 var a11617 =
 [
-    [ "PacketHandler", "d3/dfa/a11617.html#a7ca20eda3de42ab35ef45c56f1d6d73e", null ],
-    [ "Call", "d3/dfa/a11617.html#a42ac77b81d5280c7f1c54991649ab501", null ]
+    [ "QuestGiverQuestInvalid", "d3/dfa/a11617.html#a7220ac375523d524f905042722522bfb", null ],
+    [ "Write", "d3/dfa/a11617.html#aed56e88c0fc568d524913c0863a45622", null ],
+    [ "FailureReason", "d3/dfa/a11617.html#a7c2cc4153399abfbaa4b2b2811d2fde2", null ]
 ];

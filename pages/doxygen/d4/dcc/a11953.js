@@ -1,7 +1,5 @@
 var a11953 =
 [
-    [ "EffectNameCheck", "d4/dcc/a11953.html#aa82307388bdda7864bb085a349b63f29", null ],
-    [ "Check", "d4/dcc/a11953.html#a729d7f07669dedec50f009a87b8f32a4", null ],
-    [ "ToString", "d4/dcc/a11953.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
-    [ "effName", "d4/dcc/a11953.html#a905224fb028ea0eab350773b7230f871", null ]
+    [ "ImplicitTargetType", "d4/dcc/a11953.html#adc4268d74a3f0b47902e16eea2fc854a", null ],
+    [ "UsedTargetObjectType", "d4/dcc/a11953.html#a7bbc11d4a7a68f9441d393c7b48f5231", null ]
 ];

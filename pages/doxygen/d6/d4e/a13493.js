@@ -1,8 +1,5 @@
 var a13493 =
 [
-    [ "CheckCast", "d6/d4e/a13493.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
-    [ "HandleScriptEffect", "d6/d4e/a13493.html#a36bb2b95651889eaa0321a7a327e173f", null ],
-    [ "PrepareSpellScript", "d6/d4e/a13493.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
-    [ "Register", "d6/d4e/a13493.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
-    [ "Validate", "d6/d4e/a13493.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
+    [ "instance_magisters_terrace_InstanceMapScript", "d6/d4e/a13493.html#ad083ab5aa00902987e18f4e9423a705a", null ],
+    [ "ProcessEvent", "d6/d4e/a13493.html#a8dbe1537ea00412a6fa366891204d645", null ]
 ];

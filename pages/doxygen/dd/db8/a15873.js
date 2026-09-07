@@ -1,7 +1,8 @@
 var a15873 =
 [
-    [ "npc_tharnarianAI", "d5/d6a/a15877.html", "d5/d6a/a15877" ],
-    [ "npc_tharnarian", "dd/db8/a15873.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
-    [ "GetAI", "dd/db8/a15873.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
-    [ "OnQuestReward", "dd/db8/a15873.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
+    [ "npc_death_ravagerAI", "dd/db8/a15873.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "dd/db8/a15873.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "dd/db8/a15873.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "dd/db8/a15873.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "dd/db8/a15873.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

@@ -1,7 +1,9 @@
 var a18537 =
 [
-    [ "HandleInfusion", "dd/d00/a18537.html#a9f77330d81fef646dd5d5399800cba66", null ],
-    [ "PrepareSpellScript", "dd/d00/a18537.html#ae0a272902b0a9f74058c1dbe62974358", null ],
-    [ "Register", "dd/d00/a18537.html#ad759f6215e722f799156b4bdddcb7af1", null ],
-    [ "Validate", "dd/d00/a18537.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
+    [ "AfterApply", "dd/d00/a18537.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
+    [ "ExtraRemoveEffect", "dd/d00/a18537.html#a9f427761fcca9029eb75d586e5876fcd", null ],
+    [ "PeriodicTick", "dd/d00/a18537.html#a82430399e44001343f322b2c3b7769a5", null ],
+    [ "PrepareAuraScript", "dd/d00/a18537.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
+    [ "Register", "dd/d00/a18537.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
+    [ "Validate", "dd/d00/a18537.html#ae20873e93fbace6272a793993fb45349", null ]
 ];

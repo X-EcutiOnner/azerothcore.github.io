@@ -1,6 +1,7 @@
 var a23701 =
 [
-    [ "FilterTargets", "da/df7/a23701.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
-    [ "PrepareSpellScript", "da/df7/a23701.html#afa186c0b0728e3462f8984189613f9a7", null ],
-    [ "Register", "da/df7/a23701.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
+    [ "FilterTargets", "da/df7/a23701.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
+    [ "HandleHit", "da/df7/a23701.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
+    [ "PrepareSpellScript", "da/df7/a23701.html#a376618b9811b2e1ec18697431094e22f", null ],
+    [ "Register", "da/df7/a23701.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
 ];

@@ -1,28 +1,7 @@
 var a01868 =
 [
-    [ "UnitScript", "d8/d9a/a10871.html", "d8/d9a/a10871" ],
-    [ "UnitHook", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26", [
-      [ "UNITHOOK_ON_HEAL", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26afb576f10646cffe0868efddf3e7aa256", null ],
-      [ "UNITHOOK_ON_DAMAGE", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26a62c0eeb1f01d869aab444cfe76e2116b", null ],
-      [ "UNITHOOK_MODIFY_PERIODIC_DAMAGE_AURAS_TICK", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26a022b3554d4b0bded731bb10590f7abde", null ],
-      [ "UNITHOOK_MODIFY_MELEE_DAMAGE", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26a740266abae12f6909df18d7f112b8bca", null ],
-      [ "UNITHOOK_MODIFY_SPELL_DAMAGE_TAKEN", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26a9d3c4b797fc29f1adc4751d2fc6f507e", null ],
-      [ "UNITHOOK_MODIFY_HEAL_RECEIVED", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26a46fbfaf61c3d0c65a02d8450baaae5cd", null ],
-      [ "UNITHOOK_ON_BEFORE_ROLL_MELEE_OUTCOME_AGAINST", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26a5d1637c534db2ba75c473d0b4c225f49", null ],
-      [ "UNITHOOK_ON_AURA_APPLY", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26ac928edfab8c8b1fc13c8f8126f5440ae", null ],
-      [ "UNITHOOK_ON_AURA_REMOVE", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26aa3501eebed0af3d2470808a30f9c1a5e", null ],
-      [ "UNITHOOK_IF_NORMAL_REACTION", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26acf1161bacf692693081683ef22f09c5c", null ],
-      [ "UNITHOOK_CAN_SET_PHASE_MASK", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26a1a63709d3c29f7cbdd99a4307bf8ed93", null ],
-      [ "UNITHOOK_IS_CUSTOM_BUILD_VALUES_UPDATE", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26ac14c60774f62f84baef5839831e875c7", null ],
-      [ "UNITHOOK_SHOULD_TRACK_VALUES_UPDATE_POS_BY_INDEX", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26ab6257ae823fecbde4bcb0c9c1cdf4762", null ],
-      [ "UNITHOOK_ON_PATCH_VALUES_UPDATE", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26a4ed2a82b73990b4ba2e1d0c317df5d82", null ],
-      [ "UNITHOOK_ON_UNIT_UPDATE", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26a2bc86ad3742f6fbc38e6030215587e6f", null ],
-      [ "UNITHOOK_ON_DISPLAYID_CHANGE", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26a1f0200b57821e6e6bad8ea268ff4a6d1", null ],
-      [ "UNITHOOK_ON_UNIT_ENTER_EVADE_MODE", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26a3cc39d8a6535a3347ce91048c9c7f27e", null ],
-      [ "UNITHOOK_ON_UNIT_ENTER_COMBAT", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26a0b91b88b22f4354b14b1864afb187957", null ],
-      [ "UNITHOOK_ON_UNIT_EXIT_COMBAT", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26a35c7d12663cd8d8c9416582413a5d8f5", null ],
-      [ "UNITHOOK_ON_UNIT_DEATH", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26aa21248825ee1e2f7e9f3eac05561ab57", null ],
-      [ "UNITHOOK_ON_UNIT_SET_SHAPESHIFT_FORM", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26a6ade1eeb61b044e91d50f1f91c14bcd6", null ],
-      [ "UNITHOOK_END", "dd/de7/a01868.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352", null ]
-    ] ]
+    [ "LoadPlayerSettings", "dd/de7/a01868.html#a070b072e62079e512137662a87d710f6", null ],
+    [ "ParseSettingsData", "dd/de7/a01868.html#aeaa79bb46d98ab2f4f5f3674d52f6745", null ],
+    [ "SerializeSettingsData", "dd/de7/a01868.html#a2e2d73056f0c30ed8b22419fed1c3d6a", null ],
+    [ "UpdateSetting", "dd/de7/a01868.html#ab725e991f09f03e0413ffe44fa807ead", null ]
 ];

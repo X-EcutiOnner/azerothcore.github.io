@@ -1,7 +1,6 @@
 var a18273 =
 [
-    [ "HandleTriggerSpell", "d8/db5/a18273.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
-    [ "OnRemove", "d8/db5/a18273.html#a238adc96e80c1890934b23dd4a2685b4", null ],
-    [ "PrepareAuraScript", "d8/db5/a18273.html#af9ce7433b620fdf1dea570561c514b3b", null ],
-    [ "Register", "d8/db5/a18273.html#ab36a001ea8cd87703e2694e0765635c0", null ]
+    [ "MalleableGooSelector", "d8/db5/a18273.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
+    [ "operator()", "d8/db5/a18273.html#adf73957539fdcc604f849944473e0015", null ],
+    [ "me", "d8/db5/a18273.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
 ];

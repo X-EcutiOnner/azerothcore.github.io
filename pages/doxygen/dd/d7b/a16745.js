@@ -1,6 +1,9 @@
 var a16745 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "de/dd8/a16749.html", "de/dd8/a16749" ],
-    [ "npc_toc5_grand_champion_minion", "dd/d7b/a16745.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
-    [ "GetAI", "dd/d7b/a16745.html#a55acf397b94ba63b1db626dc1041b28e", null ]
+    [ "npc_memoryAI", "dd/d7b/a16745.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "dd/d7b/a16745.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "dd/d7b/a16745.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "dd/d7b/a16745.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "dd/d7b/a16745.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "dd/d7b/a16745.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

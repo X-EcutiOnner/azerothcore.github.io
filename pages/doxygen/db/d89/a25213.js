@@ -1,6 +1,6 @@
 var a25213 =
 [
-    [ "HandleCast", "db/d89/a25213.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "db/d89/a25213.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "db/d89/a25213.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "HandleEffectPeriodicUpdate", "db/d89/a25213.html#a554353fede78b89bf488230254d7892b", null ],
+    [ "PrepareAuraScript", "db/d89/a25213.html#adf20aaafff83bae614ff3c614a08a54b", null ],
+    [ "Register", "db/d89/a25213.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
 ];

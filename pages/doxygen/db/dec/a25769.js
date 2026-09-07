@@ -1,6 +1,6 @@
 var a25769 =
 [
-    [ "PartyTimeEmoteEvent", "db/dec/a25769.html#a525efd58fc8465658208058e6dc5d31c", null ],
-    [ "Execute", "db/dec/a25769.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
-    [ "_player", "db/dec/a25769.html#a61ecb44828c6e4c868def8899791feb3", null ]
+    [ "HandleStackDrop", "db/dec/a25769.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
+    [ "PrepareAuraScript", "db/dec/a25769.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
+    [ "Register", "db/dec/a25769.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
 ];

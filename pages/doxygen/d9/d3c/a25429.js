@@ -1,11 +1,9 @@
 var a25429 =
 [
-    [ "CalcPeriodic", "d9/d3c/a25429.html#ab5feede17fa79c9d02fa459586eaca41", null ],
-    [ "CalculateAPAmount", "d9/d3c/a25429.html#af2b1da799f1b3c0373dc6782dabbf89c", null ],
-    [ "CalculateResistanceAmount", "d9/d3c/a25429.html#a51828f07b0e099c5931161f7aeebaab7", null ],
-    [ "CalculateSPAmount", "d9/d3c/a25429.html#a255ed8f5158e715313e44b13f30b099f", null ],
-    [ "CalculateStatAmount", "d9/d3c/a25429.html#ade1b7256d19b526a7f4b1520f6b2f663", null ],
-    [ "HandlePeriodic", "d9/d3c/a25429.html#a136c8cedca7630543b8937e77571ead1", null ],
-    [ "PrepareAuraScript", "d9/d3c/a25429.html#a638a2544d9216bec90c433100c0663a0", null ],
-    [ "Register", "d9/d3c/a25429.html#a55605257006d8218250932357f325bb8", null ]
+    [ "spell_gen_lifebloom", "d9/d3c/a25429.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
+    [ "AfterRemove", "d9/d3c/a25429.html#aea962f603e56c1bd33fccaef0c89d917", null ],
+    [ "PrepareAuraScript", "d9/d3c/a25429.html#ac11134bdc3588795ce6e256c5b02055f", null ],
+    [ "Register", "d9/d3c/a25429.html#ab4a552402ee9f90834320d6fc668cff3", null ],
+    [ "Validate", "d9/d3c/a25429.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
+    [ "_spellId", "d9/d3c/a25429.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
 ];

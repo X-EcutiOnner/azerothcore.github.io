@@ -1,10 +1,8 @@
 var a12437 =
 [
-    [ "mmaps_commandscript", "d6/d02/a12437.html#a1dbdfd26bdb685315a3012453080a56f", null ],
-    [ "GetCommands", "d6/d02/a12437.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
-    [ "HandleMmapLoadedTilesCommand", "d6/d02/a12437.html#a40d5b7e733298210c686fe89490b6f61", null ],
-    [ "HandleMmapLocCommand", "d6/d02/a12437.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
-    [ "HandleMmapPathCommand", "d6/d02/a12437.html#a2c876439ad6d9ff7523f140d97743dea", null ],
-    [ "HandleMmapStatsCommand", "d6/d02/a12437.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
-    [ "HandleMmapTestArea", "d6/d02/a12437.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
+    [ "chatfilter_commandscript", "d6/d02/a12437.html#a7b8b95f9b418496d0f9aa39af55410a3", null ],
+    [ "GetCommands", "d6/d02/a12437.html#aa7553c0fc74103773edeaac9195e4414", null ],
+    [ "HandleChatFilterAddCommand", "d6/d02/a12437.html#a8cbe0819f09b43a32e594a67010d63ee", null ],
+    [ "HandleChatFilterListCommand", "d6/d02/a12437.html#ab59bd95ca2b9319fb175c0592074f9ff", null ],
+    [ "HandleChatFilterRemoveCommand", "d6/d02/a12437.html#ad628fb21fc3bb06c6108c6c731793ad6", null ]
 ];

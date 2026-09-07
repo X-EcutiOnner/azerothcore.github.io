@@ -1,7 +1,5 @@
 var a19365 =
 [
-    [ "HandleScriptEffect", "dd/dd2/a19365.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
-    [ "PrepareSpellScript", "dd/dd2/a19365.html#a21a3175346c9b12c02205f2d33da3b86", null ],
-    [ "Register", "dd/dd2/a19365.html#af5f279ad20e9153f201262eaa7615978", null ],
-    [ "Validate", "dd/dd2/a19365.html#a635ff34619767f657778016e1eb901aa", null ]
+    [ "at_icc_putricide_trap", "dd/dd2/a19365.html#a9d4183629deada9c22750b8a34e94583", null ],
+    [ "OnTrigger", "dd/dd2/a19365.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
 ];

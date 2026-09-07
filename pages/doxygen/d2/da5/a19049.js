@@ -1,6 +1,7 @@
 var a19049 =
 [
-    [ "npc_impaling_spearAI", "db/dfa/a19053.html", "db/dfa/a19053" ],
-    [ "npc_impaling_spear", "d2/da5/a19049.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
-    [ "GetAI", "d2/da5/a19049.html#aad49164a3e7541b755c1c622b996bb9a", null ]
+    [ "npc_frost_freeze_trapAI", "d2/da5/a19049.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "d2/da5/a19049.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "d2/da5/a19049.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "d2/da5/a19049.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

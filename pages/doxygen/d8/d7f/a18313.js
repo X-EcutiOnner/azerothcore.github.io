@@ -1,8 +1,6 @@
 var a18313 =
 [
-    [ "HandleScript", "d8/d7f/a18313.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
-    [ "PrepareSpellScript", "d8/d7f/a18313.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
-    [ "Register", "d8/d7f/a18313.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
-    [ "SelectTarget", "d8/d7f/a18313.html#a36d575c6a63e94905bf435bc9d39e588", null ],
-    [ "Validate", "d8/d7f/a18313.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
+    [ "PrepareSpellScript", "d8/d7f/a18313.html#a16eadb50b6038f16ea28464d00df3381", null ],
+    [ "Register", "d8/d7f/a18313.html#ac6e304d391011863b8eff8105fab5191", null ],
+    [ "SelectDest", "d8/d7f/a18313.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
 ];

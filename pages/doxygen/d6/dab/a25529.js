@@ -1,6 +1,8 @@
 var a25529 =
 [
-    [ "CheckCast", "d6/dab/a25529.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
-    [ "PrepareSpellScript", "d6/dab/a25529.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
-    [ "Register", "d6/dab/a25529.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
+    [ "HandleApply", "d6/dab/a25529.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
+    [ "OnPeriodic", "d6/dab/a25529.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
+    [ "PrepareAuraScript", "d6/dab/a25529.html#a344d1a92623865876174c0e88ce8ab4b", null ],
+    [ "Register", "d6/dab/a25529.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
+    [ "Validate", "d6/dab/a25529.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
 ];

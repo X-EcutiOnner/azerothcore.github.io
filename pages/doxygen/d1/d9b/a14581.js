@@ -1,6 +1,7 @@
 var a14581 =
 [
-    [ "boss_renatakiAI", "dc/ddd/a14585.html", "dc/ddd/a14585" ],
-    [ "boss_renataki", "d1/d9b/a14581.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
-    [ "GetAI", "d1/d9b/a14581.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
+    [ "HandleOnHit", "d1/d9b/a14581.html#a561799e6241b1fe17cd09f17c447107b", null ],
+    [ "PrepareSpellScript", "d1/d9b/a14581.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
+    [ "Register", "d1/d9b/a14581.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
+    [ "Validate", "d1/d9b/a14581.html#adb339686c5e9dcb298712455dc8435bf", null ]
 ];

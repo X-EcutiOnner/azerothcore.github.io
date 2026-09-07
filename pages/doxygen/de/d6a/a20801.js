@@ -1,6 +1,6 @@
 var a20801 =
 [
-    [ "boss_yoggsaron_death_orb", "de/d6a/a20801.html#a8e967885da35381db767d941a2174a82", null ],
-    [ "UpdateAI", "de/d6a/a20801.html#a9557c25da8cfdc6b7e62ff9b2b78714b", null ],
-    [ "_startTimer", "de/d6a/a20801.html#a272b6b4c6c8f1f9fed933b9e1fd6f749", null ]
+    [ "HandleHit", "de/d6a/a20801.html#adbb57403c65e84ab217788ee3a9261b7", null ],
+    [ "PrepareSpellScript", "de/d6a/a20801.html#a324717ff0843627151dd23fe565a80ab", null ],
+    [ "Register", "de/d6a/a20801.html#a30c67c5c533add48412d6a9e1f6fc6b0", null ]
 ];

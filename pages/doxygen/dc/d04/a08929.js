@@ -1,10 +1,8 @@
 var a08929 =
 [
-    [ "PvPInfo", "dc/d04/a08929.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
-    [ "EndTimer", "dc/d04/a08929.html#ae06b5030552c02f30fe8386633a753df", null ],
-    [ "FFAPvPEndTimer", "dc/d04/a08929.html#a739dfc63dfe39429a44ea682d9120522", null ],
-    [ "IsHostile", "dc/d04/a08929.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
-    [ "IsInFFAPvPArea", "dc/d04/a08929.html#a8a654926248b3974587af1eb9c064d15", null ],
-    [ "IsInHostileArea", "dc/d04/a08929.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
-    [ "IsInNoPvPArea", "dc/d04/a08929.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
+    [ "IsInSpec", "dc/d04/a08929.html#a77968b5562467f85bda04b6f2f41ca29", null ],
+    [ "inSpellBook", "dc/d04/a08929.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
+    [ "specMask", "dc/d04/a08929.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
+    [ "State", "dc/d04/a08929.html#a062758af7e92f7e2263ca0a0fd329151", null ],
+    [ "talentID", "dc/d04/a08929.html#aca9b191361652002f5178179a939e41b", null ]
 ];

@@ -1,8 +1,7 @@
 var a23497 =
 [
-    [ "npc_warchief_portal", "d8/d2c/a23497.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "d8/d2c/a23497.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "d8/d2c/a23497.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "d8/d2c/a23497.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "d8/d2c/a23497.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "npc_underbog_mushroom", "d8/d2c/a23497.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "d8/d2c/a23497.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "d8/d2c/a23497.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "d8/d2c/a23497.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

@@ -1,6 +1,6 @@
 var a00962 =
 [
-    [ "PointMovementGenerator< T >", "da/db4/a10467.html", "da/db4/a10467" ],
-    [ "AssistanceMovementGenerator", "d1/d06/a10471.html", "d1/d06/a10471" ],
-    [ "EffectMovementGenerator", "d3/d82/a10475.html", "d3/d82/a10475" ]
+    [ "GameEventAIHookWorker", "db/d13/a09233.html", "db/d13/a09233" ],
+    [ "IsEventActive", "df/d88/a00962.html#ad54f33b2e05154d9c2a384ff579b9208", null ],
+    [ "IsHolidayActive", "df/d88/a00962.html#a429db26781d2673aa2f031fc1327ffaf", null ]
 ];

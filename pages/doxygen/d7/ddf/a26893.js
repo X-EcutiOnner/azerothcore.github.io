@@ -1,7 +1,8 @@
 var a26893 =
 [
-    [ "HandleDummy", "d7/ddf/a26893.html#a123ddc812fb358b7517eba60d1f90eba", null ],
-    [ "Load", "d7/ddf/a26893.html#a64ca188f58b4f34827f03ae2878deef0", null ],
-    [ "PrepareSpellScript", "d7/ddf/a26893.html#a7068dd9e6f7838d9ad7023c2d61482cc", null ],
-    [ "Register", "d7/ddf/a26893.html#aff7ea1c5c569022ece56ecdb3f434723", null ]
+    [ "CheckCast", "d7/ddf/a26893.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
+    [ "PrepareSpellScript", "d7/ddf/a26893.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
+    [ "Register", "d7/ddf/a26893.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
+    [ "TriggerDebuffs", "d7/ddf/a26893.html#a1579b28071e2194625f722a29ded39b8", null ],
+    [ "Validate", "d7/ddf/a26893.html#a767853d4b05e055cb32991bfe8c6516a", null ]
 ];

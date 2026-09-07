@@ -1,11 +1,10 @@
 var a18421 =
 [
-    [ "npc_ice_tombAI", "d8/d76/a18421.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
-    [ "DamageTaken", "d8/d76/a18421.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
-    [ "JustDied", "d8/d76/a18421.html#a237f27260aaa9176d81b67b11d063660", null ],
-    [ "SetGUID", "d8/d76/a18421.html#ac406bece1d1f1517b5837e311feef9ae", null ],
-    [ "UpdateAI", "d8/d76/a18421.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
-    [ "_asphyxiationTimer", "d8/d76/a18421.html#a6790d9c852279624a549f60bf26e1eb2", null ],
-    [ "_existenceCheckTimer", "d8/d76/a18421.html#ab3dbf40235549be89e42951d93593ea2", null ],
-    [ "_trappedPlayerGUID", "d8/d76/a18421.html#a8a7666594e59bdac449f2284387b8e2c", null ]
+    [ "FilterTargets", "d8/d76/a18421.html#aefba5226671b6217549bd34059519179", null ],
+    [ "Load", "d8/d76/a18421.html#af8a2b651782783dc29ac7266ed02c028", null ],
+    [ "NotifyTargets", "d8/d76/a18421.html#a618e98fbd5c6ae21047cc4f911099730", null ],
+    [ "PrepareSpellScript", "d8/d76/a18421.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
+    [ "Register", "d8/d76/a18421.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
+    [ "ReplaceTargets", "d8/d76/a18421.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
+    [ "_target", "d8/d76/a18421.html#a10c85fd3909e56f457d73add8021c0b7", null ]
 ];

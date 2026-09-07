@@ -1,7 +1,6 @@
 var a26269 =
 [
-    [ "CalcPeriodic", "db/d2e/a26269.html#a404e5309016cfcaa3071c0216978699e", null ],
-    [ "PrepareAuraScript", "db/d2e/a26269.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
-    [ "Register", "db/d2e/a26269.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
-    [ "AuraEffectHandleModes", "db/d2e/a26269.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
+    [ "HandleOpenObject", "db/d2e/a26269.html#ab658c13615fac1861470bb4b853e76a4", null ],
+    [ "PrepareSpellScript", "db/d2e/a26269.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
+    [ "Register", "db/d2e/a26269.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
 ];

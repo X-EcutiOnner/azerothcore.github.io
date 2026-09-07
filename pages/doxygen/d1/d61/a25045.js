@@ -1,8 +1,10 @@
 var a25045 =
 [
-    [ "AchievementCredit", "d1/d61/a25045.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "d1/d61/a25045.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "d1/d61/a25045.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "d1/d61/a25045.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "d1/d61/a25045.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "FilterTargets", "d1/d61/a25045.html#a033c63470d406ad2249c5aa223c00b2f", null ],
+    [ "HandleFinish", "d1/d61/a25045.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
+    [ "HandleScript", "d1/d61/a25045.html#a2c26838015f1b21715fc1438537e15d3", null ],
+    [ "Load", "d1/d61/a25045.html#a669aefa81d57358ef452f4c247b2ceff", null ],
+    [ "PrepareSpellScript", "d1/d61/a25045.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
+    [ "Register", "d1/d61/a25045.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
+    [ "haveTarget", "d1/d61/a25045.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
 ];

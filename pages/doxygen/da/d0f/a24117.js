@@ -1,7 +1,9 @@
 var a24117 =
 [
-    [ "HandlePeriodic", "da/d0f/a24117.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "da/d0f/a24117.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "da/d0f/a24117.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "da/d0f/a24117.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "npc_ancestral_wolfAI", "da/d0f/a24117.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "da/d0f/a24117.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "da/d0f/a24117.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "da/d0f/a24117.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "WaypointReached", "da/d0f/a24117.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "ryga", "da/d0f/a24117.html#ac238214604720e298124b58c35d58e05", null ]
 ];

@@ -1,6 +1,7 @@
 var a13593 =
 [
-    [ "npc_scholomance_occultistAI", "d6/deb/a13597.html", "d6/deb/a13597" ],
-    [ "npc_scholomance_occultist", "da/d6a/a13593.html#adf100912a15ff8edf056efa7eebd13ff", null ],
-    [ "GetAI", "da/d6a/a13593.html#a5da2b011ec4859523c1f713dc18e4d5b", null ]
+    [ "HandleAfterCast", "da/d6a/a13593.html#afa662fbe1b777047259ac6212961f7a5", null ],
+    [ "HandleScript", "da/d6a/a13593.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
+    [ "PrepareSpellScript", "da/d6a/a13593.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
+    [ "Register", "da/d6a/a13593.html#a4a898b0b096583af33f1f691a252b2ed", null ]
 ];

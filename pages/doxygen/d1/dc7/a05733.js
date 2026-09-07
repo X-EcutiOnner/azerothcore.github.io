@@ -1,17 +1,10 @@
 var a05733 =
 [
-    [ "Thread", "d1/dc7/a05733.html#a95c703fb8f2f27cb64f475a8c940864a", null ],
-    [ "Thread", "d1/dc7/a05733.html#a72d9240b0f28a378bf0e05e97918e25a", null ],
-    [ "~Thread", "d1/dc7/a05733.html#a37d9edd3a1a776cbc27dedff949c9726", null ],
-    [ "Thread", "d1/dc7/a05733.html#ae65c99228766cc135c8dad74af50120e", null ],
-    [ "currentId", "d1/dc7/a05733.html#a65c7edbd9a1a3ed492485013d1baaf8d", null ],
-    [ "destroy", "d1/dc7/a05733.html#a4ee8270c681c7faf3d3a6b8271f31796", null ],
-    [ "operator=", "d1/dc7/a05733.html#a79ab3cf5b994c65dc196e2c154fabe7a", null ],
-    [ "setPriority", "d1/dc7/a05733.html#a4dcbafab5741b819852d6702e5b09369", null ],
-    [ "Sleep", "d1/dc7/a05733.html#addc70b7462f6fe4e51e136176f05a6b8", null ],
-    [ "ThreadTask", "d1/dc7/a05733.html#a3e9a687df7ed593abc33f5e5897125e5", null ],
-    [ "wait", "d1/dc7/a05733.html#a29758de9c29e1437e234ab8d2a3e07d0", null ],
-    [ "m_iThreadId", "d1/dc7/a05733.html#a997822ac4937e995c085c0554ca48d53", null ],
-    [ "m_task", "d1/dc7/a05733.html#afa81b66db9223412b20be34f2ee1651f", null ],
-    [ "m_ThreadImp", "d1/dc7/a05733.html#ac2b69bbcfc8f20ac6aa2e517311b2861", null ]
+    [ "Category", "d1/dc7/a05733.html#a6a7956fedac99271428968ba339f464f", null ],
+    [ "Tags", "d1/dc7/a05733.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
+    [ "Text", "d1/dc7/a05733.html#ab63598f64896186fde81048550767b28", null ],
+    [ "Timestamp", "d1/dc7/a05733.html#a8248a27d920ca431493750e3f2dec48b", null ],
+    [ "Title", "d1/dc7/a05733.html#a857d2d4843480b9967334f079351292a", null ],
+    [ "Type", "d1/dc7/a05733.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
+    [ "Value", "d1/dc7/a05733.html#a09832a09e989c3851e72f4ec198f0e20", null ]
 ];

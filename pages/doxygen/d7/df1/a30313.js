@@ -1,8 +1,13 @@
 var a30313 =
 [
-    [ "ADT_file", "d7/df1/a30313.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e", null ],
-    [ "~ADT_file", "d7/df1/a30313.html#a79fe542f34b0e7bf668e7e5ff94a7ded", null ],
-    [ "free", "d7/df1/a30313.html#a8fc207b8cc83596577166a0008965dc6", null ],
-    [ "prepareLoadedData", "d7/df1/a30313.html#ac9f498cb9c8e21a1947be87904e3760b", null ],
-    [ "a_grid", "d7/df1/a30313.html#aad5263c4df4ab9d072f217ec8c19441c", null ]
+    [ "liquidTris", "d7/df1/a30313.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
+    [ "liquidType", "d7/df1/a30313.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
+    [ "liquidVerts", "d7/df1/a30313.html#a52796933ab018f27d12f625673f7f8a9", null ],
+    [ "offMeshConnectionDirs", "d7/df1/a30313.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
+    [ "offMeshConnectionRads", "d7/df1/a30313.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
+    [ "offMeshConnections", "d7/df1/a30313.html#a706feac90bb398da61296bac9d0b7176", null ],
+    [ "offMeshConnectionsAreas", "d7/df1/a30313.html#af5af113433bb2776e6735195e57ab6f7", null ],
+    [ "offMeshConnectionsFlags", "d7/df1/a30313.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
+    [ "solidTris", "d7/df1/a30313.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
+    [ "solidVerts", "d7/df1/a30313.html#a915387c2cfa7111de4a957646a2aace4", null ]
 ];

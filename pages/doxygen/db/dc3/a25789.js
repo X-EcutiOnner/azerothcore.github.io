@@ -1,7 +1,8 @@
 var a25789 =
 [
-    [ "HandleDummy", "db/dc3/a25789.html#a7a8016e1403caa0432242c5c3240f107", null ],
-    [ "PrepareSpellScript", "db/dc3/a25789.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
-    [ "Register", "db/dc3/a25789.html#abd09f5df3f31af619f24214f90791a53", null ],
-    [ "Validate", "db/dc3/a25789.html#ab14aedfdb61d54334f60e57968fcf081", null ]
+    [ "HandleFinish", "db/dc3/a25789.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
+    [ "PrepareSpellScript", "db/dc3/a25789.html#a73865997890d4f58cc09d54c2c4e5243", null ],
+    [ "Register", "db/dc3/a25789.html#a106cf5d53956b66f8f548caceda41dc8", null ],
+    [ "SelectTarget", "db/dc3/a25789.html#ab33513df20e942ba354932df5082efa8", null ],
+    [ "_target", "db/dc3/a25789.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
 ];

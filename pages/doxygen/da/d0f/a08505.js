@@ -1,6 +1,5 @@
 var a08505 =
 [
-    [ "ForcedUnsummonDelayEvent", "da/d0f/a08505.html#aadabfc349c81e02743add4307977c2fd", null ],
-    [ "Execute", "da/d0f/a08505.html#a86d7bd6f9f47ef37382b725f0d64877b", null ],
-    [ "m_owner", "da/d0f/a08505.html#a3954577354fb882ec1def262502ed2e6", null ]
+    [ "GossipActionMenuId", "da/d0f/a08505.html#a377beba97be2b81a0c2bbeb933f1927b", null ],
+    [ "GossipActionPoi", "da/d0f/a08505.html#afdaf27e370e3c84659fdc3784cafad29", null ]
 ];

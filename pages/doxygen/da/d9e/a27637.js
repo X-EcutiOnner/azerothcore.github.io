@@ -1,7 +1,8 @@
 var a27637 =
 [
-    [ "FilterTargets", "da/d9e/a27637.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
-    [ "PrepareSpellScript", "da/d9e/a27637.html#a954f00317eab544dd57e657368aab7fb", null ],
-    [ "Register", "da/d9e/a27637.html#a1804684c8685372faf2e88e56b48f5be", null ],
-    [ "Validate", "da/d9e/a27637.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
+    [ "CheckProc", "da/d9e/a27637.html#a825ef4acafa2371f27ca8ca6465610f9", null ],
+    [ "HandleProc", "da/d9e/a27637.html#a311916a7939ea2c4c2e23d6e4778aba4", null ],
+    [ "PrepareAuraScript", "da/d9e/a27637.html#a89c7a57718cdb23f7235ff2379a7a192", null ],
+    [ "Register", "da/d9e/a27637.html#abff50b0398b596898db4638fbadffa9c", null ],
+    [ "Validate", "da/d9e/a27637.html#abedd0e9efa9c595e1142f0358d135d1b", null ]
 ];

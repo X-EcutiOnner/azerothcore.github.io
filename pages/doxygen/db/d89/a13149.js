@@ -1,6 +1,6 @@
 var a13149 =
 [
-    [ "FilterTargets", "db/d89/a13149.html#adae7a812a222a60f9c89cac4ea327011", null ],
-    [ "PrepareSpellScript", "db/d89/a13149.html#a9576a48a3aa761c103f72586cd93970c", null ],
-    [ "Register", "db/d89/a13149.html#aaadad68c322eac268ea7a45f9c369c59", null ]
+    [ "instance_deadmines_InstanceMapScript", "de/de4/a13153.html", "de/de4/a13153" ],
+    [ "instance_deadmines", "db/d89/a13149.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
+    [ "GetInstanceScript", "db/d89/a13149.html#ac5cb65972d52324cedf662cc44dca626", null ]
 ];

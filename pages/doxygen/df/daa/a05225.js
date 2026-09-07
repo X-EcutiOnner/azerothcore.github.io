@@ -1,9 +1,11 @@
 var a05225 =
 [
-    [ "MDLCallback", "df/daa/a05225.html#a241899d601778892a72080cceaa96318", null ],
-    [ "operator()", "df/daa/a05225.html#a7e65ac1aebc8ac951303ee8e7cd85623", null ],
-    [ "operator()", "df/daa/a05225.html#a2130223692a9d0f8491f7ea7ae24270c", null ],
-    [ "_callback", "df/daa/a05225.html#a8eae05fc208dcc7f50147bf55c47764c", null ],
-    [ "objects", "df/daa/a05225.html#a297d43aa55ffbb4f69f8e5888c8e116f", null ],
-    [ "objects_size", "df/daa/a05225.html#a92fa352db4ba43afd590677d0ae1e5d9", null ]
+    [ "IoContext", "df/daa/a05225.html#a6ba4b629a3704fcb5d110a71f09900be", null ],
+    [ "IoContext", "df/daa/a05225.html#a8dc945d02df9d28f3dda6c17f1c91502", null ],
+    [ "get_executor", "df/daa/a05225.html#aa642c9d6e49d2396c267c6fc404b2a6b", null ],
+    [ "operator IoContextBaseNamespace::IoContextBase &", "df/daa/a05225.html#a51e3067d9ba9b0b4a557a7e586b1ef91", null ],
+    [ "operator IoContextBaseNamespace::IoContextBase const &", "df/daa/a05225.html#af4aa281948ab71b76bc8f66b735425b3", null ],
+    [ "run", "df/daa/a05225.html#a086cd2ed56d61cf1ec0dbfdec16c50fe", null ],
+    [ "stop", "df/daa/a05225.html#a1165b11f60d138d56eba43657fc299cd", null ],
+    [ "_impl", "df/daa/a05225.html#a22cdb3c45a6dbacb13f90f654bc0c65d", null ]
 ];

@@ -1,7 +1,6 @@
 var a19641 =
 [
-    [ "FilterTargets", "d6/d8e/a19641.html#a6beccd163ab8442a1ed39c553716cb73", null ],
-    [ "Load", "d6/d8e/a19641.html#a5df67c2dbd14a75435f68939240daae6", null ],
-    [ "PrepareSpellScript", "d6/d8e/a19641.html#a5be9bf364ae2dece862ed1eee93f9294", null ],
-    [ "Register", "d6/d8e/a19641.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e", null ]
+    [ "boss_razuvious_minionAI", "d9/d14/a19645.html", "d9/d14/a19645" ],
+    [ "boss_razuvious_minion", "d6/d8e/a19641.html#ae23d51c9ebfe31f624a749578d27252c", null ],
+    [ "GetAI", "d6/d8e/a19641.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
 ];

@@ -1,7 +1,6 @@
 var a18945 =
 [
-    [ "OnApply", "dc/da0/a18945.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "dc/da0/a18945.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "dc/da0/a18945.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "dc/da0/a18945.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "npc_blazing_skeletonAI", "d1/d93/a18949.html", "d1/d93/a18949" ],
+    [ "npc_blazing_skeleton", "dc/da0/a18945.html#a158720704479946048472ffe0beec492", null ],
+    [ "GetAI", "dc/da0/a18945.html#af29ea4620ebafaa4d47ec9f37758af77", null ]
 ];

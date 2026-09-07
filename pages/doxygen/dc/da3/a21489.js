@@ -1,5 +1,11 @@
 var a21489 =
 [
-    [ "npc_steam_powered_auctioneerAI", "dc/da3/a21489.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "dc/da3/a21489.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "boss_cyanigosa", "dc/da3/a21489.html#af85a0c366de8785cd89d14f7990bfb54", null ],
+    [ "EnterEvadeMode", "dc/da3/a21489.html#aa3d989cb4c094713d6adb4305f8e6113", null ],
+    [ "ExecuteEvent", "dc/da3/a21489.html#a694dda590c17a03534f8744838ac3176", null ],
+    [ "JustDied", "dc/da3/a21489.html#ad70efce47f2f5d411fd42fd61ec51794", null ],
+    [ "JustEngagedWith", "dc/da3/a21489.html#a2432aa3610747c52f6ec3de1def55f18", null ],
+    [ "KilledUnit", "dc/da3/a21489.html#a1f2810d9f2a291576fa29a872b1f6470", null ],
+    [ "MoveInLineOfSight", "dc/da3/a21489.html#a55645a68448a8c83b85b05c7a29f0f6a", null ],
+    [ "SpellHitTarget", "dc/da3/a21489.html#a7b393188f0f8d192baab0eed48f0a5d3", null ]
 ];

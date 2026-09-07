@@ -1,8 +1,7 @@
 var a15937 =
 [
-    [ "FilterTargets", "d6/d19/a15937.html#a47b8055fa1b28968e8323ca98613aa83", null ],
-    [ "HandleScript", "d6/d19/a15937.html#a8f7984e510d8947a2ae4b0734409866b", null ],
-    [ "PrepareSpellScript", "d6/d19/a15937.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
-    [ "Register", "d6/d19/a15937.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
-    [ "Validate", "d6/d19/a15937.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
+    [ "npc_tharnarianAI", "dc/db6/a15941.html", "dc/db6/a15941" ],
+    [ "npc_tharnarian", "d6/d19/a15937.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
+    [ "GetAI", "d6/d19/a15937.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
+    [ "OnQuestReward", "d6/d19/a15937.html#a88e82aa6c08fa85491c87d7a558efd9b", null ]
 ];

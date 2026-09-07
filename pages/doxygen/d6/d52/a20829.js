@@ -1,10 +1,12 @@
 var a20829 =
 [
-    [ "boss_yoggsaron_immortal_guardian", "d6/d52/a20829.html#a14839f96771d185718e88a4e371b31f6", null ],
-    [ "DamageTaken", "d6/d52/a20829.html#a9bf936d6a501e53ce98786f043562a71", null ],
-    [ "Reset", "d6/d52/a20829.html#a1173d401233670a45b31040b8e5d98cb", null ],
-    [ "SpellHit", "d6/d52/a20829.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
-    [ "UpdateAI", "d6/d52/a20829.html#adaae7e2cd52951095cb82819d9874426", null ],
-    [ "_spellTimer", "d6/d52/a20829.html#a521b956c116a23523fdfceb95a42c1e2", null ],
-    [ "_visualTimer", "d6/d52/a20829.html#acb9f5de4ad41ce56f7c6d05a19783517", null ]
+    [ "boss_thorim_sif", "d6/d52/a20829.html#a9762a5d386897bcd6d42b3c36d9fc18f", null ],
+    [ "AttackStart", "d6/d52/a20829.html#a3da2809c4e7aa0c051647be354ade759", null ],
+    [ "DoAction", "d6/d52/a20829.html#a61fec6c7b91d5f34339ebabd18b94e5d", null ],
+    [ "IsSummonedBy", "d6/d52/a20829.html#a126b546655d4438bf25d0870f5c550b8", null ],
+    [ "MoveInLineOfSight", "d6/d52/a20829.html#a5c1dfc697a84d4eb3ea6074514034343", null ],
+    [ "Reset", "d6/d52/a20829.html#a3f747b6da8db72fd61c50a24096834c2", null ],
+    [ "UpdateAI", "d6/d52/a20829.html#adbe7effa0bab5046f26f8d7df0f82a04", null ],
+    [ "_allowCast", "d6/d52/a20829.html#a6081345415b9ae3892d4f150a195908c", null ],
+    [ "events", "d6/d52/a20829.html#a5d64d273a6aefdd9359b71963271b4ee", null ]
 ];

@@ -1,9 +1,15 @@
 var a05305 =
 [
-    [ "MapRayCallback", "d5/d70/a05305.html#a1a4a654bc929dab5b5a2804c4b88389d", null ],
-    [ "didHit", "d5/d70/a05305.html#a9d9abb0a5ffff131d2c19e88c3c8b836", null ],
-    [ "operator()", "d5/d70/a05305.html#a0f218465b321da5f8289dfa815acbfd4", null ],
-    [ "flags", "d5/d70/a05305.html#a88d1e6d6fa43608bcee21a822488f061", null ],
-    [ "hit", "d5/d70/a05305.html#a6fc14ac7ae20effec9d2657a46b838fc", null ],
-    [ "prims", "d5/d70/a05305.html#a389d8ee31e0cb665bfd9084d786750c5", null ]
+    [ "IVMapMgr", "d5/d70/a05305.html#a8fcc2ababfadc1bf662c56645c04841e", null ],
+    [ "~IVMapMgr", "d5/d70/a05305.html#adbc38672af6f30bc4887d2737e6097e5", null ],
+    [ "existsMap", "d5/d70/a05305.html#ab63074f237876ebc9b93242f44c95b40", null ],
+    [ "getDirFileName", "d5/d70/a05305.html#a6fb9bd31760b72279499e5e884d12a04", null ],
+    [ "isHeightCalcEnabled", "d5/d70/a05305.html#a0a3b250f0674709fac851c6e63bedd51", null ],
+    [ "isLineOfSightCalcEnabled", "d5/d70/a05305.html#a9b88973ec447dee3a990e11f1fa74873", null ],
+    [ "isMapLoadingEnabled", "d5/d70/a05305.html#ae327405db5140e3a27fe767be8ca8a66", null ],
+    [ "processCommand", "d5/d70/a05305.html#a8697455fead0cfed30ba955c9abf934f", null ],
+    [ "setEnableHeightCalc", "d5/d70/a05305.html#a5642a08f1cbd688985314fb821525c95", null ],
+    [ "setEnableLineOfSightCalc", "d5/d70/a05305.html#a7984e19b44c6f8ce16ecea8e823a4b14", null ],
+    [ "iEnableHeightCalc", "d5/d70/a05305.html#a3ce407c232386fbe00958660457474e4", null ],
+    [ "iEnableLineOfSightCalc", "d5/d70/a05305.html#a83c2317151591bf2c72d33e19007125a", null ]
 ];

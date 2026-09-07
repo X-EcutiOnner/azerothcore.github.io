@@ -1,13 +1,17 @@
 var a17681 =
 [
-    [ "npc_kinetic_bombAI", "d1/ddc/a17681.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
-    [ "DoAction", "d1/ddc/a17681.html#a52e913b244e58f99745926d021dc0d95", null ],
-    [ "IsSummonedBy", "d1/ddc/a17681.html#a03dc3870b23105bb1d0d207adefe2541", null ],
-    [ "Reset", "d1/ddc/a17681.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
-    [ "UpdateAI", "d1/ddc/a17681.html#a1ce9bf99879796652878990a773e6a2c", null ],
-    [ "_events", "d1/ddc/a17681.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
-    [ "_groundZ", "d1/ddc/a17681.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
-    [ "_x", "d1/ddc/a17681.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
-    [ "_y", "d1/ddc/a17681.html#a5d9f4039c87e1e57234af51cd4617022", null ],
-    [ "exploded", "d1/ddc/a17681.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
+    [ "instance_gundrak_InstanceMapScript", "d1/ddc/a17681.html#aab01abeae0f8df7c74c65c689c3c9f30", null ],
+    [ "Initialize", "d1/ddc/a17681.html#a680e2b0263e64f4f0b0a71f011199202", null ],
+    [ "OnGameObjectCreate", "d1/ddc/a17681.html#a03ace9a6ac87deb8c9d1f358e67697d1", null ],
+    [ "OnGameObjectRemove", "d1/ddc/a17681.html#a816e18bd1725e9deaa9e50521ddd3c05", null ],
+    [ "OnUnitDeath", "d1/ddc/a17681.html#a2d17fee7344a23b9bf6c47ee10f1e436", null ],
+    [ "SetBossState", "d1/ddc/a17681.html#a2b703178ee848ebb7ab750d7560a7b1e", null ],
+    [ "SetData", "d1/ddc/a17681.html#a39611dead845510e26b16e8eb54114a2", null ],
+    [ "Update", "d1/ddc/a17681.html#a50b5e4d1ff3baf4698483f47828ee492", null ],
+    [ "_activateTimer", "d1/ddc/a17681.html#a4457a3506a587d7337042eb489b441dc", null ],
+    [ "_bridgeGUIDs", "d1/ddc/a17681.html#a3ed3ada72ca634b0888f182a93c9e657", null ],
+    [ "_drakkariAltarGUID", "d1/ddc/a17681.html#a8e34281d52ac3199b90e1971899db6b1", null ],
+    [ "_keysInCount", "d1/ddc/a17681.html#a9b014cab41720868f61028ef201cadaa", null ],
+    [ "_moorabiAltarGUID", "d1/ddc/a17681.html#a39875572cef853eb3d3f624366e3f93f", null ],
+    [ "_sladRanAltarGUID", "d1/ddc/a17681.html#a93b651e93e28c63272a8d06d0c521aef", null ]
 ];

@@ -1,6 +1,7 @@
 var a24101 =
 [
-    [ "PrepareSpellScript", "dd/d52/a24101.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
-    [ "Register", "dd/d52/a24101.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
-    [ "SetDest", "dd/d52/a24101.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
+    [ "HandleDummy", "dd/d52/a24101.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "dd/d52/a24101.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "dd/d52/a24101.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "dd/d52/a24101.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

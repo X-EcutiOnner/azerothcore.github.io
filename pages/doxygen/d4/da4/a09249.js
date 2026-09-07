@@ -1,4 +1,7 @@
 var a09249 =
 [
-    [ "Content", "d4/da4/a09249.html#a2258fd4a2b331369a95988cfa6b42f4c", null ]
+    [ "EquipementIdPrev", "d4/da4/a09249.html#a719c716f8914a200bfde4f5bb3275f26", null ],
+    [ "EquipmentId", "d4/da4/a09249.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
+    [ "ModelId", "d4/da4/a09249.html#ade2b2413020be410428b9fee9aa284d6", null ],
+    [ "ModelIdPrev", "d4/da4/a09249.html#a9de7aa11788b22692738b72718193057", null ]
 ];

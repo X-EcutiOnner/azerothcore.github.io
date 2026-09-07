@@ -1,9 +1,6 @@
 var a19605 =
 [
-    [ "npc_nexus_lord", "d3/ddd/a19605.html#ab66ba12059e8a028972d21afc11fb309", null ],
-    [ "AttackStart", "d3/ddd/a19605.html#aefd1ce41b00825bb81ddb6a59d835d21", null ],
-    [ "JustDied", "d3/ddd/a19605.html#ae97f816c5fcb71343d8483345723c300", null ],
-    [ "JustEngagedWith", "d3/ddd/a19605.html#a9a5c55b8c2f85908739d68c7487f629f", null ],
-    [ "UpdateAI", "d3/ddd/a19605.html#acdd7954382f0de84e90d329ec0720a6d", null ],
-    [ "timer", "d3/ddd/a19605.html#a42a9c4d7b1251357cd73a7ad2c410d82", null ]
+    [ "boss_maexxna_webwrapAI", "d9/dba/a19609.html", "d9/dba/a19609" ],
+    [ "boss_maexxna_webwrap", "d3/ddd/a19605.html#afebd8c00234fe6cdd93af8ae443bb637", null ],
+    [ "GetAI", "d3/ddd/a19605.html#a6d86d58a86b831a219ecc598044be4f3", null ]
 ];

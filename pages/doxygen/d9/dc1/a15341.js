@@ -1,5 +1,7 @@
 var a15341 =
 [
-    [ "npc_black_morass_summoned_add", "d9/dc1/a15341.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
-    [ "EnterEvadeMode", "d9/dc1/a15341.html#a437e7b72b985713d22883f3e33f30942", null ]
+    [ "boss_epoch_hunter", "d9/dc1/a15341.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "d9/dc1/a15341.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "d9/dc1/a15341.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "d9/dc1/a15341.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

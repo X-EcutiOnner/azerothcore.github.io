@@ -1,6 +1,7 @@
 var a14401 =
 [
-    [ "boss_arlokkAI", "db/def/a14405.html", "db/def/a14405" ],
-    [ "boss_arlokk", "d2/d57/a14401.html#a55bb21239e05acff18d2fb147449800e", null ],
-    [ "GetAI", "d2/d57/a14401.html#a58b8cc7a198784b48faaab1b069d397c", null ]
+    [ "HandleScript", "d2/d57/a14401.html#ac45614416a710794b3e3a5cee239e28a", null ],
+    [ "PrepareSpellScript", "d2/d57/a14401.html#a832aee6557e27bfa418957297a05bea3", null ],
+    [ "Register", "d2/d57/a14401.html#a2f5d255de09818203e498c0090bdd3fb", null ],
+    [ "Validate", "d2/d57/a14401.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
 ];

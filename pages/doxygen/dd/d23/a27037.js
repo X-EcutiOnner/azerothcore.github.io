@@ -1,6 +1,7 @@
 var a27037 =
 [
-    [ "ModDest", "dd/d23/a27037.html#ab03387aec0a02a6b3bac1014443554b6", null ],
-    [ "PrepareSpellScript", "dd/d23/a27037.html#a53f7da301759fb18686bc73281c4a321", null ],
-    [ "Register", "dd/d23/a27037.html#a266198fbc6203517f9845ef6212ddf13", null ]
+    [ "HandleProc", "dd/d23/a27037.html#a512ec25fe649e42930d64effa4f7868b", null ],
+    [ "PrepareAuraScript", "dd/d23/a27037.html#ac1c7dcf63d7c67ec5fad424531519b58", null ],
+    [ "Register", "dd/d23/a27037.html#a6118148ac0e641a6c3e4490c2cdd86c0", null ],
+    [ "Validate", "dd/d23/a27037.html#a22dea9fb57d89b1d4813722968b5429f", null ]
 ];

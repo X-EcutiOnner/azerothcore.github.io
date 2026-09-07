@@ -1,8 +1,6 @@
 var a21361 =
 [
-    [ "HandleEffectRemove", "d1/d1a/a21361.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "d1/d1a/a21361.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "d1/d1a/a21361.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "d1/d1a/a21361.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "d1/d1a/a21361.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "boss_svalaAI", "d2/dd3/a21365.html", "d2/dd3/a21365" ],
+    [ "boss_svala", "d1/d1a/a21361.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
+    [ "GetAI", "d1/d1a/a21361.html#a0c3b94635eca667a28496cf799efad25", null ]
 ];

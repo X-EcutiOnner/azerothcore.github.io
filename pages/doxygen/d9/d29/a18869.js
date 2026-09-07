@@ -1,7 +1,8 @@
 var a18869 =
 [
-    [ "npc_valithria_portalAI", "d9/d29/a18869.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "d9/d29/a18869.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "d9/d29/a18869.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "d9/d29/a18869.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "npc_lk_wicked_spiritAI", "d9/d29/a18869.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "d9/d29/a18869.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "d9/d29/a18869.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "d9/d29/a18869.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "d9/d29/a18869.html#a8b15079251b6855679d738a342126006", null ]
 ];

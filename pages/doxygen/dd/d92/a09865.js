@@ -1,6 +1,8 @@
 var a09865 =
 [
-    [ "RandomCheck", "dd/d92/a09865.html#aca7a234c6eef8876abb02af723e9485d", null ],
-    [ "operator()", "dd/d92/a09865.html#a9886987fa2b675ab404102ebe828c9f3", null ],
-    [ "_chance", "dd/d92/a09865.html#aad026a0ad4539dd5336c3a6b820e351d", null ]
+    [ "AllCreaturesOfEntryInRange", "dd/d92/a09865.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
+    [ "operator()", "dd/d92/a09865.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
+    [ "m_fRange", "dd/d92/a09865.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
+    [ "m_pObject", "dd/d92/a09865.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
+    [ "m_uiEntry", "dd/d92/a09865.html#abf653360d2ee482728fb137a37fe0512", null ]
 ];

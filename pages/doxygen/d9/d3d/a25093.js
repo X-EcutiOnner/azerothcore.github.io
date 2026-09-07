@@ -1,6 +1,6 @@
 var a25093 =
 [
-    [ "HandleEffectPeriodic", "d9/d3d/a25093.html#a248ba0e88498e36355491b2b89063e17", null ],
-    [ "PrepareAuraScript", "d9/d3d/a25093.html#ac9aed434fe7602ef846e9f052402620e", null ],
-    [ "Register", "d9/d3d/a25093.html#a039eec910c802276b9e979253141cdee", null ]
+    [ "CalculateAmount", "d9/d3d/a25093.html#a9e54ae3e90ee8bf0fab966a497f761b3", null ],
+    [ "PrepareAuraScript", "d9/d3d/a25093.html#a51f9c0f92100c02e1fe7d127fecd902f", null ],
+    [ "Register", "d9/d3d/a25093.html#a5c89e7e53a7f41665ff25d57df8f7afb", null ]
 ];

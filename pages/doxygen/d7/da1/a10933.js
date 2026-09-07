@@ -1,5 +1,12 @@
 var a10933 =
 [
-    [ "LogoutComplete", "d7/da1/a10933.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
-    [ "Write", "d7/da1/a10933.html#a0d958bc07b674ed3339833351fec7d3a", null ]
+    [ "Packet", "d7/da1/a10933.html#a316af2b7ce1ac7189fb1e57f534bad11", null ],
+    [ "~Packet", "d7/da1/a10933.html#a2ca1e6377bb2fb10bf042311e72eb5d4", null ],
+    [ "Packet", "d7/da1/a10933.html#a00213b64110a99004b3d9a6b38876cd4", null ],
+    [ "GetRawPacket", "d7/da1/a10933.html#a9d8649e1b035fe7387dcee3e0b062a5e", null ],
+    [ "GetSize", "d7/da1/a10933.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a", null ],
+    [ "operator=", "d7/da1/a10933.html#a6d2afd0d4b0d7daff11868854b7c4715", null ],
+    [ "Read", "d7/da1/a10933.html#a94afc4d66c2b5bced3063bab5a666bfd", null ],
+    [ "Write", "d7/da1/a10933.html#af7c79156d7b6cfe3142fc530f9ed262a", null ],
+    [ "_worldPacket", "d7/da1/a10933.html#ab85f1c9f20117bc5015180165c7b458a", null ]
 ];

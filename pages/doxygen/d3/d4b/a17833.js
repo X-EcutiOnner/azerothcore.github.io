@@ -1,6 +1,7 @@
 var a17833 =
 [
-    [ "PrepareAuraScript", "d3/d4b/a17833.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
-    [ "RecalculateHook", "d3/d4b/a17833.html#a829e96cabbb565922f7183adb3edf13c", null ],
-    [ "Register", "d3/d4b/a17833.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
+    [ "OnProc", "d3/d4b/a17833.html#a5b6e96abb900da33657cdbbd137138e3", null ],
+    [ "PrepareAuraScript", "d3/d4b/a17833.html#a5502476536a923e77af67c4bbcf005e3", null ],
+    [ "Register", "d3/d4b/a17833.html#aca08edf219504156d6157c95702bb815", null ],
+    [ "Validate", "d3/d4b/a17833.html#a52b1231f37e8b3d810614365659a98b6", null ]
 ];

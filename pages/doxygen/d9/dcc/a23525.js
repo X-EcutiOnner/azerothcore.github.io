@@ -1,6 +1,7 @@
 var a23525 =
 [
-    [ "npc_warden_mellicharAI", "da/d70/a23529.html", "da/d70/a23529" ],
-    [ "npc_warden_mellichar", "d9/dcc/a23525.html#aba5c3d005097430941bd40bbbb0d3562", null ],
-    [ "GetAI", "d9/dcc/a23525.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
+    [ "HandleScript", "d9/dcc/a23525.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
+    [ "PrepareSpellScript", "d9/dcc/a23525.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
+    [ "Register", "d9/dcc/a23525.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
+    [ "Validate", "d9/dcc/a23525.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
 ];

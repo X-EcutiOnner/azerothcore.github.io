@@ -1,7 +1,7 @@
 var a13573 =
 [
-    [ "HandleScript", "df/d7d/a13573.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
-    [ "PrepareSpellScript", "df/d7d/a13573.html#a034195e58f02225c172b70c3967fe3ad", null ],
-    [ "Register", "df/d7d/a13573.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
-    [ "Validate", "df/d7d/a13573.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
+    [ "boss_apothecary_hummelAI", "d9/d68/a13577.html", "d9/d68/a13577" ],
+    [ "boss_apothecary_hummel", "df/d7d/a13573.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
+    [ "GetAI", "df/d7d/a13573.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
+    [ "OnQuestReward", "df/d7d/a13573.html#ab66debe3672dcf0bce2bfb821093694b", null ]
 ];

@@ -1,11 +1,15 @@
 var a17285 =
 [
-    [ "npc_phantom_mage", "de/d7d/a17285.html#a96702110e1bd587aaa88a076773cac72", null ],
-    [ "AttackStart", "de/d7d/a17285.html#a79170c6d6aa434d291e50cd2153ee25a", null ],
-    [ "DoAction", "de/d7d/a17285.html#a8adf87e600eeab3678f369ab48b73927", null ],
-    [ "EnterEvadeMode", "de/d7d/a17285.html#a270f664ad9545f672405d051d1a8932a", null ],
-    [ "JustDied", "de/d7d/a17285.html#a9728d3deb8c8ef6ab82b76f79de20732", null ],
-    [ "JustEngagedWith", "de/d7d/a17285.html#a4cd8e7ba55317eb6ed2e0a7fbbebc80a", null ],
-    [ "Reset", "de/d7d/a17285.html#a3900181fe1328a3450e2e71bf30abbd7", null ],
-    [ "UpdateAI", "de/d7d/a17285.html#a919416fd6b52060e271e79afaaf14085", null ]
+    [ "boss_devourer_of_souls", "de/d7d/a17285.html#a8d089de7236e18003bfd484e34f77ea3", null ],
+    [ "CanAIAttack", "de/d7d/a17285.html#a6e84fb1104ce99448f2aea819fc7748f", null ],
+    [ "EnterEvadeMode", "de/d7d/a17285.html#adce881b46c1a9de4f0eee8dd2cbadff1", null ],
+    [ "GetData", "de/d7d/a17285.html#a6df46af55679a009c7f6a30d1f1185f6", null ],
+    [ "JustDied", "de/d7d/a17285.html#a8d58c994b2a0428b723bd2528c312f72", null ],
+    [ "JustEngagedWith", "de/d7d/a17285.html#a25af638ab8e5c8348e5e910cfb52a1fd", null ],
+    [ "JustSummoned", "de/d7d/a17285.html#ac985b112bf87341b4c0b132502517bfb", null ],
+    [ "KilledUnit", "de/d7d/a17285.html#ae8ba70f003d792e499b095f2030b58b1", null ],
+    [ "Reset", "de/d7d/a17285.html#a57cc2f21324c38cdc9c87adf3b425ed4", null ],
+    [ "SpellHitTarget", "de/d7d/a17285.html#ad8215797d3bbd05efd93b04ae8b3cad2", null ],
+    [ "UpdateAI", "de/d7d/a17285.html#a47b6ff4e3edad4f1d5a4974a5a84696a", null ],
+    [ "AchievementCompleted", "de/d7d/a17285.html#a7f19641d3c3496e8cf4c86e736607441", null ]
 ];

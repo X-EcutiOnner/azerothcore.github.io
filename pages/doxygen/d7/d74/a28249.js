@@ -1,8 +1,6 @@
 var a28249 =
 [
-    [ "npc_franklinAI", "d7/d9d/a28253.html", "d7/d9d/a28253" ],
-    [ "npc_franklin", "d7/d74/a28249.html#aab059dfa69e52083892e3170c8838e0a", null ],
-    [ "GetAI", "d7/d74/a28249.html#a10933878afe9d0cc78fa1113341fd522", null ],
-    [ "OnGossipHello", "d7/d74/a28249.html#a318d512914b135800caabe0efbb1c467", null ],
-    [ "OnGossipSelect", "d7/d74/a28249.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
+    [ "go_tadpole_cageAI", "d7/d9d/a28253.html", "d7/d9d/a28253" ],
+    [ "go_tadpole_cage", "d7/d74/a28249.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "d7/d74/a28249.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

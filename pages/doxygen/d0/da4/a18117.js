@@ -1,10 +1,9 @@
 var a18117 =
 [
-    [ "npc_cult_fanaticAI", "d0/da4/a18117.html#a766e536288b84110f88a8bd282e97932", null ],
-    [ "JustEngagedWith", "d0/da4/a18117.html#a709b75f4b1519bc7c6988985a22d076f", null ],
-    [ "Reset", "d0/da4/a18117.html#a772830df1d16d0463c8c00f14c337db0", null ],
-    [ "SpellHit", "d0/da4/a18117.html#a17c02a83b522c9717de3d89517104e42", null ],
-    [ "UpdateAI", "d0/da4/a18117.html#ac79afdab3721d78d2b7e5da360083cea", null ],
-    [ "_instance", "d0/da4/a18117.html#a7448fdf85cccfcb12509b0274205bff4", null ],
-    [ "events", "d0/da4/a18117.html#a9576978141062fa1babbbc5ed42483c4", null ]
+    [ "CalculatePower", "d0/da4/a18117.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "d0/da4/a18117.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "d0/da4/a18117.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "d0/da4/a18117.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "d0/da4/a18117.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "d0/da4/a18117.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

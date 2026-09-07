@@ -1,6 +1,8 @@
 var a17237 =
 [
-    [ "npc_fos_leader_secondAI", "db/df4/a17241.html", "db/df4/a17241" ],
-    [ "npc_fos_leader_second", "d8/d12/a17237.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
-    [ "GetAI", "d8/d12/a17237.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
+    [ "HandleRemove", "d8/d12/a17237.html#a362b16f69a19adae6b673bd9ead55a83", null ],
+    [ "PeriodicTick", "d8/d12/a17237.html#aa432052d61dc48066433b41b84ffbe5f", null ],
+    [ "PrepareAuraScript", "d8/d12/a17237.html#a3ffbd618820adf77b2c64a29816f5204", null ],
+    [ "Register", "d8/d12/a17237.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
+    [ "Validate", "d8/d12/a17237.html#abed6574398a7d005e95feba6b54243a1", null ]
 ];

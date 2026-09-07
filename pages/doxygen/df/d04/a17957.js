@@ -1,12 +1,9 @@
 var a17957 =
 [
-    [ "gunship_npc_AI", "df/d04/a17957.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
-    [ "EnterEvadeMode", "df/d04/a17957.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
-    [ "JustDied", "df/d04/a17957.html#ad40c976be4decd9054dad031a4caab78", null ],
-    [ "MovementInform", "df/d04/a17957.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
-    [ "SetData", "df/d04/a17957.html#acfd5e331155d7787ada33acbca73fece", null ],
-    [ "SetSlotInfo", "df/d04/a17957.html#afdfc3f9add2952f90baf24d55425670f", null ],
-    [ "Index", "df/d04/a17957.html#ae120874514cf5921136821b820a04da7", null ],
-    [ "Instance", "df/d04/a17957.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
-    [ "Slot", "df/d04/a17957.html#a59d237475ae309755d429cfac77d6630", null ]
+    [ "npc_stinky_iccAI", "df/d04/a17957.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
+    [ "JustDied", "df/d04/a17957.html#a7fa392980e2d30c935b79377df8dc694", null ],
+    [ "JustEngagedWith", "df/d04/a17957.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
+    [ "Reset", "df/d04/a17957.html#ac66e3398598576fdc889a7b56646eecf", null ],
+    [ "UpdateAI", "df/d04/a17957.html#af6e04824ea1682c529e8579a306d34ca", null ],
+    [ "events", "df/d04/a17957.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
 ];

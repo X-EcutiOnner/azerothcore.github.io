@@ -1,9 +1,7 @@
 var a29637 =
 [
-    [ "CountQuestOnCreature", "d7/d79/a29637.html#a4bf05b65d940e61567667d0939e177e5", null ],
-    [ "SetUp", "d7/d79/a29637.html#a4788953a58bbea222cf59662b4427e72", null ],
-    [ "SimulateReload", "d7/d79/a29637.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
-    [ "SimulateSpawn1Object", "d7/d79/a29637.html#a82c53349ba3754a75b2c1570fe413d09", null ],
-    [ "TearDown", "d7/d79/a29637.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
-    [ "creatureQuestMap", "d7/d79/a29637.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
+    [ "MockAuraStub", "d7/d79/a29637.html#a9f0561eabca5230f8fe27384e0deb6b8", null ],
+    [ "MOCK_METHOD", "d7/d79/a29637.html#a727233484b563f548c9f0e2d8a78b9a6", null ],
+    [ "MOCK_METHOD", "d7/d79/a29637.html#a9581f1887abbe708bc4e2da24e1996b5", null ],
+    [ "MOCK_METHOD", "d7/d79/a29637.html#abe2d675e124d5cb9115e8f726b1c7d8b", null ]
 ];

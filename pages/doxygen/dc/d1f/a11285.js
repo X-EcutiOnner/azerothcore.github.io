@@ -1,9 +1,8 @@
 var a11285 =
 [
-    [ "EnchantmentLog", "dc/d1f/a11285.html#a4427184d166b18e984dc301a6786aac3", null ],
-    [ "Write", "dc/d1f/a11285.html#a17752d3e862c1915f8479058a4be1eb7", null ],
-    [ "Caster", "dc/d1f/a11285.html#ae35a0c689357cf4b5a031f40314a7045", null ],
-    [ "EnchantId", "dc/d1f/a11285.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
-    [ "ItemId", "dc/d1f/a11285.html#ad393d5f227bb81738582572bd2601650", null ],
-    [ "Target", "dc/d1f/a11285.html#a9ef981f750bee2101c1f886fa2514913", null ]
+    [ "SetRaidDifficulty", "dc/d1f/a11285.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
+    [ "Write", "dc/d1f/a11285.html#a3da812593b22ef506a9d61e16b5485d1", null ],
+    [ "Difficulty", "dc/d1f/a11285.html#a1952e2d54b77437731b693f4eace83ac", null ],
+    [ "IsInGroup", "dc/d1f/a11285.html#a8833543c4f179be97476a26152ec049b", null ],
+    [ "Unk", "dc/d1f/a11285.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
 ];

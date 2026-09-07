@@ -1,6 +1,6 @@
 var a17717 =
 [
-    [ "OnAbsorb", "d1/dbe/a17717.html#aa6582457cd0502ca263433d04b40b64f", null ],
-    [ "PrepareAuraScript", "d1/dbe/a17717.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
-    [ "Register", "d1/dbe/a17717.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
+    [ "npc_blood_queen_lana_thelAI", "d9/d68/a17721.html", "d9/d68/a17721" ],
+    [ "npc_blood_queen_lana_thel", "d1/dbe/a17717.html#a39adef3ae54efd4433805bd8ad4719be", null ],
+    [ "GetAI", "d1/dbe/a17717.html#a02d928ac4ef1704cee2498ebe6533561", null ]
 ];

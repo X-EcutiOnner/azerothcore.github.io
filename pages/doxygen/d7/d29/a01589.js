@@ -1,15 +1,18 @@
 var a01589 =
 [
-    [ "Position", "d3/dcf/a08863.html", "d3/dcf/a08863" ],
-    [ "Position::PositionXYStreamer", "de/d06/a08867.html", "de/d06/a08867" ],
-    [ "Position::PositionXYZStreamer", "d5/df5/a08871.html", "d5/df5/a08871" ],
-    [ "Position::PositionXYZOStreamer", "d3/d35/a08875.html", "d3/d35/a08875" ],
-    [ "WorldLocation", "d1/d83/a08879.html", "d1/d83/a08879" ],
-    [ "MAPID_INVALID", "d7/d29/a01589.html#af69a1d112a89b89894dafd5da53e7490", null ],
-    [ "operator<<", "d7/d29/a01589.html#a09519787a0405fc17b028180b2da4cdd", null ],
-    [ "operator<<", "d7/d29/a01589.html#a71323635f122d24189054da615cb39e1", null ],
-    [ "operator<<", "d7/d29/a01589.html#ab63323f8a9ade40ddd90338538b5c9b5", null ],
-    [ "operator>>", "d7/d29/a01589.html#a188cc2956d39298323a99c4aa5ceede6", null ],
-    [ "operator>>", "d7/d29/a01589.html#a72e22c3226b5f361848aef2c75a6d3fb", null ],
-    [ "operator>>", "d7/d29/a01589.html#af223d782e9dcf0f80ed4009360aa0d80", null ]
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, typename >", "d5/d1a/a08001.html", null ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, std::enable_if_t< std::is_integral_v< T >||std::is_floating_point_v< T > > >", "d4/ddd/a08005.html", "d4/ddd/a08005" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::string_view, void >", "d1/d26/a08009.html", "d1/d26/a08009" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::string, void >", "dd/d9e/a08013.html", "dd/d9e/a08013" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::wstring, void >", "d2/d77/a08017.html", "d2/d77/a08017" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, std::enable_if_t< std::is_enum_v< T > > >", "da/d5d/a08021.html", "da/d5d/a08021" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, std::enable_if_t< std::is_base_of_v< ContainerTag, T > > >", "df/d1c/a08025.html", "df/d1c/a08025" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::vector< T >, void >", "db/d93/a08029.html", "db/d93/a08029" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::array< T, N >, void >", "da/df5/a08033.html", "da/df5/a08033" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< Acore::ChatCommands::Variant< Ts... > >", "d8/d04/a08037.html", "d8/d04/a08037" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< AchievementEntry const * >", "db/d5e/a08041.html", "db/d5e/a08041" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< GameTele const * >", "d8/d83/a08045.html", "d8/d83/a08045" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< ItemTemplate const * >", "d4/d18/a08049.html", "d4/d18/a08049" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< SpellInfo const * >", "d8/d92/a08053.html", "d8/d92/a08053" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< Quest const * >", "d6/d6f/a08057.html", "d6/d6f/a08057" ]
 ];

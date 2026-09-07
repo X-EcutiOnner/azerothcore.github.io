@@ -1,8 +1,8 @@
 var a17869 =
 [
-    [ "HandleHit", "da/d71/a17869.html#ace9793d64d5378ef33bf30e8d0be8bd6", null ],
-    [ "HandleScript", "da/d71/a17869.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "da/d71/a17869.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "da/d71/a17869.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "da/d71/a17869.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "da/d8d/a17873.html", "da/d8d/a17873" ],
+    [ "npc_muradin_bronzebeard_icc", "da/d71/a17869.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
+    [ "GetAI", "da/d71/a17869.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
+    [ "OnGossipHello", "da/d71/a17869.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
+    [ "OnGossipSelect", "da/d71/a17869.html#a46c4893be723a848d985ff55e28d55a2", null ]
 ];

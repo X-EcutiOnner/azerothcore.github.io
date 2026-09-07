@@ -1,6 +1,7 @@
 var a18245 =
 [
-    [ "PrepareSpellScript", "d0/d24/a18245.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "d0/d24/a18245.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "d0/d24/a18245.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "HandleScriptEffect", "d0/d24/a18245.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "d0/d24/a18245.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "d0/d24/a18245.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "d0/d24/a18245.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

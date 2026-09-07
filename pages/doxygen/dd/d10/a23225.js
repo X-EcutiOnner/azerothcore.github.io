@@ -1,5 +1,6 @@
 var a23225 =
 [
-    [ "at_underbog_ghazan", "dd/d10/a23225.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
-    [ "_OnTrigger", "dd/d10/a23225.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
+    [ "OnPeriodic", "dd/d10/a23225.html#a769d30c78e4feaa9cc0c581af5264c02", null ],
+    [ "PrepareAuraScript", "dd/d10/a23225.html#a076e4b548de5cad64b7d81ddd8c5194f", null ],
+    [ "Register", "dd/d10/a23225.html#af1c2b7baf0ff7164cafab8f1a53bbb18", null ]
 ];

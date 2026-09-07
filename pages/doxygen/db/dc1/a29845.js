@@ -1,7 +1,9 @@
 var a29845 =
 [
-    [ "asyncId", "db/dc1/a29845.html#afd18849875b4562e4a532903676ce25d", null ],
-    [ "flags", "db/dc1/a29845.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
-    [ "offsMCNK", "db/dc1/a29845.html#a063c5dc62c44038e882340221bf8228a", null ],
-    [ "size", "db/dc1/a29845.html#a47a5eeb595d53de009651ae02d2b416d", null ]
+    [ "SetUp", "db/dc1/a29845.html#aa0206c25468d92372594de8df9b9ac91", null ],
+    [ "TearDown", "db/dc1/a29845.html#ab004a4631e402c804c5cc030d3504bcf", null ],
+    [ "PERM_A", "db/dc1/a29845.html#a76b8ba9e8f97715e19f33400d5317470", null ],
+    [ "PERM_B", "db/dc1/a29845.html#aa7e5d5ee7cd27e5133328c20a8cbcab0", null ],
+    [ "ROLE_PLAYER", "db/dc1/a29845.html#a7a9fae5b7137ad90aed5b7f56b3328bf", null ],
+    [ "SEC_PLAYER", "db/dc1/a29845.html#a83a095f226d90a9990e90c0234dbb885", null ]
 ];

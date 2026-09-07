@@ -1,11 +1,9 @@
 var a07465 =
 [
-    [ "GetSkillValue", "d5/d52/a07465.html#a8f5894a5729d4c8d26376bbe1a2ac29e", null ],
-    [ "HasSpell", "d5/d52/a07465.html#a3400ad05d8423ae6878fab815521ec6f", null ],
-    [ "PlayerCanUseItem", "d5/d52/a07465.html#aee11f4f45f83664483344e3bbfba7463", null ],
-    [ "classMask", "d5/d52/a07465.html#a41a57c372871c84a572d2f3697cb18aa", null ],
-    [ "level", "d5/d52/a07465.html#a870f632b54e4638b1f5a4e93b6bd9e52", null ],
-    [ "raceMask", "d5/d52/a07465.html#a96e56943da42f1a1258fc1d716259e1a", null ],
-    [ "skills", "d5/d52/a07465.html#a55c2ad9d1cdea4913cb35deb4adc87fd", null ],
-    [ "spells", "d5/d52/a07465.html#ac83cc019ceb1752ce8d6b5a3aa3d350f", null ]
+    [ "ObjectGuidVector", "d5/d52/a07465.html#aa49ab82006c390e7110013b44c018c0f", null ],
+    [ "~ObjectGuidVector", "d5/d52/a07465.html#a07fe3304a0edffa1f17a0ce5f97d01e6", null ],
+    [ "GetObjectVector", "d5/d52/a07465.html#a94ee201dcf0750edb84cedb151e9ff22", null ],
+    [ "UpdateObjects", "d5/d52/a07465.html#a8b6dad1739f51bba936257410a968c6e", null ],
+    [ "_guidVector", "d5/d52/a07465.html#aefce0edc7881ca01ba8c8c98067e165d", null ],
+    [ "_objectVector", "d5/d52/a07465.html#a78137cb1ae9930c11f87a4a8ed5e7e26", null ]
 ];

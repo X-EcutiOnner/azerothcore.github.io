@@ -1,7 +1,6 @@
 var a15229 =
 [
-    [ "OnRemove", "d0/dc5/a15229.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
-    [ "PrepareAuraScript", "d0/dc5/a15229.html#ab082adc51983f124d0467cbff63cffb7", null ],
-    [ "Register", "d0/dc5/a15229.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
-    [ "Validate", "d0/dc5/a15229.html#a73421b82f483e73314dbb862fb0a11c7", null ]
+    [ "HandleHeal", "d0/dc5/a15229.html#a953536a9a393af9472bdd89018449df0", null ],
+    [ "PrepareSpellScript", "d0/dc5/a15229.html#a70503fc6042001a860d361f2597b7153", null ],
+    [ "Register", "d0/dc5/a15229.html#a383479896e6deb96e50b827370ccfd4d", null ]
 ];

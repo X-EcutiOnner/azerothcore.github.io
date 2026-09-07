@@ -1,6 +1,6 @@
 var a17049 =
 [
-    [ "boss_eydisAI", "d4/d79/a17053.html", "d4/d79/a17053" ],
-    [ "boss_eydis", "d5/d85/a17049.html#aa555f80882499bc4627e622fbb48b2a4", null ],
-    [ "GetAI", "d5/d85/a17049.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
+    [ "npc_mistress_of_painAI", "d4/d79/a17053.html", "d4/d79/a17053" ],
+    [ "npc_mistress_of_pain", "d5/d85/a17049.html#a0261ed835454725e0e5629c295be4330", null ],
+    [ "GetAI", "d5/d85/a17049.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
 ];

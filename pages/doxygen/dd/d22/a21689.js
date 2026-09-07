@@ -1,6 +1,6 @@
 var a21689 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "da/df7/a21693.html", "da/df7/a21693" ],
-    [ "npc_commander_eligor_dawnbringer", "dd/d22/a21689.html#a71d919af98464d6d63f948507f3ff08c", null ],
-    [ "GetAI", "dd/d22/a21689.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
+    [ "PrepareSpellScript", "dd/d22/a21689.html#a072a5228690b929af3b65d771bf5f485", null ],
+    [ "Register", "dd/d22/a21689.html#a87235eb9494edd94221f0380e815aa6b", null ],
+    [ "SetDest", "dd/d22/a21689.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
 ];

@@ -1,7 +1,7 @@
 var a25129 =
 [
-    [ "HandleApplyEffect", "dc/d7a/a25129.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
-    [ "Load", "dc/d7a/a25129.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
-    [ "PrepareAuraScript", "dc/d7a/a25129.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
-    [ "Register", "dc/d7a/a25129.html#aed57fbbf473b8f15fa177261e4678e96", null ]
+    [ "CheckProc", "dc/d7a/a25129.html#ab376febda606dba5e9f7f5639f867859", null ],
+    [ "HandleProc", "dc/d7a/a25129.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
+    [ "PrepareAuraScript", "dc/d7a/a25129.html#a7693a86824050ff5615996d0d03d0292", null ],
+    [ "Register", "dc/d7a/a25129.html#a458745913288889f687bb19a147cb0fb", null ]
 ];

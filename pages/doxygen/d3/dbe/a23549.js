@@ -1,7 +1,7 @@
 var a23549 =
 [
-    [ "boss_zereketh_the_unbound", "d3/dbe/a23549.html#abb2fc5cbe7514142160818016fda1936", null ],
-    [ "JustDied", "d3/dbe/a23549.html#ac5d96da9a33a536f2002cce11453ded3", null ],
-    [ "JustEngagedWith", "d3/dbe/a23549.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
-    [ "KilledUnit", "d3/dbe/a23549.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
+    [ "CalcPeriodic", "d3/dbe/a23549.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
+    [ "PrepareAuraScript", "d3/dbe/a23549.html#a290913502dfe3dfb42b44a964468b97c", null ],
+    [ "Register", "d3/dbe/a23549.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
+    [ "Update", "d3/dbe/a23549.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
 ];

@@ -1,9 +1,6 @@
 var a29497 =
 [
-    [ "SetUp", "db/de3/a29497.html#a664590f345cd02660adef326355c7ca2", null ],
-    [ "TearDown", "db/de3/a29497.html#a366e1170be6f12739b2688c71763c8f0", null ],
-    [ "PERM_BAN", "db/de3/a29497.html#a393626fe7635a8452e69207085037782", null ],
-    [ "PERM_KICK", "db/de3/a29497.html#aa9b8c1e73b4828100386186637e30e90", null ],
-    [ "rbacData", "db/de3/a29497.html#a6e7cb23ddb2dc22611255dff42c85e89", null ],
-    [ "ROLE_GM", "db/de3/a29497.html#ac5d61d965657eccc145d01670a6f27bc", null ]
+    [ "categoryMask", "db/de3/a29497.html#abd8816e5dda7bda455ccd6932647c4be", null ],
+    [ "categoryType", "db/de3/a29497.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
+    [ "ID", "db/de3/a29497.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
 ];

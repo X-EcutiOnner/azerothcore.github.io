@@ -1,20 +1,11 @@
 var a23369 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "d3/d93/a23369.html#adb0173cb42642836f7734d8b0fb3e98f", null ],
-    [ "ActivateCell", "d3/d93/a23369.html#abd718216778850455c758d79a5866958", null ],
-    [ "ActivatePrisoners", "d3/d93/a23369.html#a18488afb78747a35ce7e3b4b9a2468b5", null ],
-    [ "GetGuidData", "d3/d93/a23369.html#af7f6acc97bf16f4d31236dcbb2d94007", null ],
-    [ "Initialize", "d3/d93/a23369.html#a3441a24486ec686d42b7320e6f105139", null ],
-    [ "OnCreatureCreate", "d3/d93/a23369.html#ac58da5acec155e596791464c48f29773", null ],
-    [ "OnGameObjectCreate", "d3/d93/a23369.html#a3894ce1d0dff79cee2ff0df51d19e1ea", null ],
-    [ "OnUnitDeath", "d3/d93/a23369.html#a78b07bfe30c7f329046ff572f783c4b9", null ],
-    [ "PrisonerDied", "d3/d93/a23369.html#a16315f7921b1960c7720f855cdddee96", null ],
-    [ "ResetPrisoner", "d3/d93/a23369.html#a57f58c502b5fb2064307adb8c4976979", null ],
-    [ "ResetPrisoners", "d3/d93/a23369.html#ac46b0ed98e69ac0d5b8582bb21a81dc8", null ],
-    [ "ResetPrisons", "d3/d93/a23369.html#a728bbc185bb91cf024f8ff3bd878a10e", null ],
-    [ "SetBossState", "d3/d93/a23369.html#aad428e00762795d8f817d6cfa25505fe", null ],
-    [ "StorePrisoner", "d3/d93/a23369.html#ade72b3e7a2129b8a4f722990aef5ac5f", null ],
-    [ "_prisonerCounter", "d3/d93/a23369.html#a50c371edc425191f610a0e8a6b44d2ab", null ],
-    [ "_prisonersCell", "d3/d93/a23369.html#a3492a327f4c0d637fd5701f3997c1887", null ],
-    [ "_prisonGUIDs", "d3/d93/a23369.html#a9a737e495b638ec65fbd306c6aa0267c", null ]
+    [ "boss_ahune", "d3/d93/a23369.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "d3/d93/a23369.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "d3/d93/a23369.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "d3/d93/a23369.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "d3/d93/a23369.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "d3/d93/a23369.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "d3/d93/a23369.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "d3/d93/a23369.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

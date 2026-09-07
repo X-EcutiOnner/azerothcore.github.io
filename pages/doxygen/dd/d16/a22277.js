@@ -1,6 +1,6 @@
 var a22277 =
 [
-    [ "npc_released_offspring_harkoaAI", "d4/dde/a22281.html", "d4/dde/a22281" ],
-    [ "npc_released_offspring_harkoa", "dd/d16/a22277.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
-    [ "GetAI", "dd/d16/a22277.html#ae3d2a02c496be1b2606fce596625d12e", null ]
+    [ "npc_bushwhackerAI", "dd/d16/a22277.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "dd/d16/a22277.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "dd/d16/a22277.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

@@ -1,5 +1,8 @@
 var a19677 =
 [
-    [ "achievement_intense_cold", "de/dc4/a19677.html#a2377357d6bfc03e5b91354428d3da3de", null ],
-    [ "OnCheck", "de/dc4/a19677.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
+    [ "HandleDamage", "de/dc4/a19677.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
+    [ "HandleTargets", "de/dc4/a19677.html#ac36e689bad93aa17738f390680764a7e", null ],
+    [ "PrepareSpellScript", "de/dc4/a19677.html#a149db071722ce12cded16087c8eec1df", null ],
+    [ "Register", "de/dc4/a19677.html#abd073f34a414fab7ee23ee933863f1c7", null ],
+    [ "Validate", "de/dc4/a19677.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
 ];

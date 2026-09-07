@@ -1,5 +1,5 @@
 var a08829 =
 [
-    [ "PositionXYStreamer", "d0/d6b/a08829.html#a6f165ea30ccb7cdeba0c4e197b3a0e5b", null ],
-    [ "Pos", "d0/d6b/a08829.html#afb17e60540233b8861b6e967d0e44e07", null ]
+    [ "Global", "d0/d6b/a08829.html#a77d72711ba9384384f9fd789f778e8c8", null ],
+    [ "MapSpecific", "d0/d6b/a08829.html#a42e5a0249b84d4e8175a4cb65480bbcf", null ]
 ];

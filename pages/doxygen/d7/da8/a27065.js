@@ -1,6 +1,6 @@
 var a27065 =
 [
-    [ "HandleFinish", "d7/da8/a27065.html#ac4c50220d86f809644e339fc578d9b4a", null ],
-    [ "PrepareSpellScript", "d7/da8/a27065.html#a5a14594ed93150e34626a7e0edb8171b", null ],
-    [ "Register", "d7/da8/a27065.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
+    [ "CheckCast", "d7/da8/a27065.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
+    [ "PrepareSpellScript", "d7/da8/a27065.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
+    [ "Register", "d7/da8/a27065.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
 ];

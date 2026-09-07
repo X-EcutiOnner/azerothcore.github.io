@@ -1,17 +1,12 @@
 var a17865 =
 [
-    [ "boss_festergutAI", "d6/dc1/a17865.html#a7649f45cfc8bf05bf46b4e50319b4fb3", null ],
-    [ "EnterEvadeMode", "d6/dc1/a17865.html#a001e00435bb01b464573dbff8338c64a", null ],
-    [ "GetData", "d6/dc1/a17865.html#aea4509b130c9b5a8a5dd054ac8783312", null ],
-    [ "JustDied", "d6/dc1/a17865.html#abd0f4f55cfb026d0e25ff7a825d390d1", null ],
-    [ "JustEngagedWith", "d6/dc1/a17865.html#ad5538ae8933a4fd492ab45560dea785e", null ],
-    [ "JustReachedHome", "d6/dc1/a17865.html#a7e371063b84df1f8fe1df1a5bff38ca9", null ],
-    [ "KilledUnit", "d6/dc1/a17865.html#a3af6cacb219928c3c89f7ce3d980ae88", null ],
-    [ "RemoveBlight", "d6/dc1/a17865.html#a5807cd013ebe935f69bc1824386afd72", null ],
-    [ "Reset", "d6/dc1/a17865.html#aeb046d9ef4aa9b7b94aa1ee1727ab1be", null ],
-    [ "SetData", "d6/dc1/a17865.html#af8678cd7e9ddd7ef8095217e4820e7af", null ],
-    [ "UpdateAI", "d6/dc1/a17865.html#ac2b9e850d425336f2bdc6a1d9a707fa0", null ],
-    [ "_gasDummyGUID", "d6/dc1/a17865.html#a742b6ab0990d54e011ac36fde2c2cca2", null ],
-    [ "_inhaleCounter", "d6/dc1/a17865.html#aed5b7fce1ebf9f76fffa2ba682c54b4e", null ],
-    [ "_maxInoculatedStack", "d6/dc1/a17865.html#aeda8f6f959f7b7bd311aabde940a05ca", null ]
+    [ "npc_high_overlord_saurfangAI", "d6/dc1/a17865.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "d6/dc1/a17865.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "d6/dc1/a17865.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "d6/dc1/a17865.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "d6/dc1/a17865.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "d6/dc1/a17865.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "d6/dc1/a17865.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "d6/dc1/a17865.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
+    [ "_instance", "d6/dc1/a17865.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

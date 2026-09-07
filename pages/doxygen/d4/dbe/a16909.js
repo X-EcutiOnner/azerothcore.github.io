@@ -1,6 +1,6 @@
 var a16909 =
 [
-    [ "npc_toc_warriorAI", "d9/d4a/a16913.html", "d9/d4a/a16913" ],
-    [ "npc_toc_warrior", "d4/dbe/a16909.html#a3e969be07603ef59389106769010660c", null ],
-    [ "GetAI", "d4/dbe/a16909.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
+    [ "npc_toc_shamanAI", "d9/d4a/a16913.html", "d9/d4a/a16913" ],
+    [ "npc_toc_shaman", "d4/dbe/a16909.html#a26e3a539d8d918057e9f81b9ee83f17d", null ],
+    [ "GetAI", "d4/dbe/a16909.html#a7102a3aec6c229a04b617c562512bf29", null ]
 ];

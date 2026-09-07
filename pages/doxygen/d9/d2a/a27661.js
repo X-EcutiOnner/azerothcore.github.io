@@ -1,7 +1,6 @@
 var a27661 =
 [
-    [ "OnProc", "d9/d2a/a27661.html#a7ab183d734c543be2866c57f1e5cc508", null ],
-    [ "PrepareAuraScript", "d9/d2a/a27661.html#a31118cda9f29318f4620caf38c09522a", null ],
-    [ "Register", "d9/d2a/a27661.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
-    [ "Validate", "d9/d2a/a27661.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
+    [ "HandleProc", "d9/d2a/a27661.html#a933975b17f340d9f458dc95b77aa43ac", null ],
+    [ "PrepareAuraScript", "d9/d2a/a27661.html#ad9df49f481d936068ebee0d2f6179e9f", null ],
+    [ "Register", "d9/d2a/a27661.html#a54dd9a2a6646282897cabec00f092525", null ]
 ];

@@ -1,6 +1,7 @@
 var a23877 =
 [
-    [ "go_beaconAI", "de/d43/a23877.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "de/d43/a23877.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "_whelpGUIDs", "de/d43/a23877.html#a083094ececd327c833649da6a755c635", null ]
+    [ "CastQuill", "de/d43/a23877.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "de/d43/a23877.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "de/d43/a23877.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "de/d43/a23877.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

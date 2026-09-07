@@ -1,6 +1,15 @@
 var a09509 =
 [
-    [ "AreaMapType", "db/d71/a09509.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
-    [ "areaMap", "db/d71/a09509.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
-    [ "gridArea", "db/d71/a09509.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
+    [ "CoordPair", "db/d71/a09509.html#a53b5f24cfdf13b246549a0c1543924c9", null ],
+    [ "CoordPair", "db/d71/a09509.html#aa3b39d5ce384201907e01f95b6866b6e", null ],
+    [ "dec_x", "db/d71/a09509.html#a69be5b72b710722120104f0c502fbb70", null ],
+    [ "dec_y", "db/d71/a09509.html#aefa33f8766212bb71e5fd19a318142cc", null ],
+    [ "GetId", "db/d71/a09509.html#ae4f7f304faf2c2363cffe2170b4c5c97", null ],
+    [ "inc_x", "db/d71/a09509.html#aa6a4942253e87ae57e2d69a2563ddef1", null ],
+    [ "inc_y", "db/d71/a09509.html#a120946c5a8c8b49bbdf9a1ee54ded9ec", null ],
+    [ "IsCoordValid", "db/d71/a09509.html#a082960c54e2077df370f891c0534b44f", null ],
+    [ "normalize", "db/d71/a09509.html#afac8086374bfc499e3a8d74d6afc58db", null ],
+    [ "operator=", "db/d71/a09509.html#a68bbf6afd1600e9dd0c31a9c7ff38077", null ],
+    [ "x_coord", "db/d71/a09509.html#a101dd71af6a2cba18140aea2e502ef8b", null ],
+    [ "y_coord", "db/d71/a09509.html#aacae12844cc0c0d70e26b137ad28f700", null ]
 ];

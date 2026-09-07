@@ -1,5 +1,7 @@
 var a20225 =
 [
-    [ "achievement_flame_leviathan_unbroken", "de/db3/a20225.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "de/db3/a20225.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
+    [ "HandleOnHit", "de/db3/a20225.html#a3a0f411a652a5753a543f57433212425", null ],
+    [ "PrepareSpellScript", "de/db3/a20225.html#a93008907295d79e9c98747bc416b6b5a", null ],
+    [ "Register", "de/db3/a20225.html#a858cc1c717a7cadc9eac41b89738d7e1", null ],
+    [ "Validate", "de/db3/a20225.html#a56f021a02c261dfb694e57af35c0ca14", null ]
 ];

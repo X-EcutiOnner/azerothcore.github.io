@@ -1,11 +1,12 @@
 var a12653 =
 [
-    [ "boss_high_interrogator_gerstahn", "d6/db7/a12653.html#afaff4a9b18a2dc433ad9cfc73cd2cc01", null ],
-    [ "JustEngagedWith", "d6/db7/a12653.html#ae8dae4df2f6c3b935382ae4ef473c55c", null ],
-    [ "Reset", "d6/db7/a12653.html#acfc4e4c44d2eca050b2bdb558729dd6f", null ],
-    [ "UpdateAI", "d6/db7/a12653.html#a5e13ecedeb376b86c91787d4f6b51db8", null ],
-    [ "_manaBurnTimer", "d6/db7/a12653.html#a0c3eb9b1aefb055f8c97d723c536d1ab", null ],
-    [ "_psychicScreamTimer", "d6/db7/a12653.html#a48508fa92aee209ea58257a1376ab7fb", null ],
-    [ "_shadowShieldTimer", "d6/db7/a12653.html#abc4c2027036e1d79b88b29883d59565e", null ],
-    [ "_shadowWordPainTimer", "d6/db7/a12653.html#aedd3fd6f34db795625835ac12c4c9bd8", null ]
+    [ "npc_av_marshal_or_warmasterAI", "d6/db7/a12653.html#af3620678992778edbb859622e057893a", null ],
+    [ "AttackStart", "d6/db7/a12653.html#aed39eaed8648ce78349c49ee33918b93", null ],
+    [ "EnterEvadeMode", "d6/db7/a12653.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
+    [ "JustRespawned", "d6/db7/a12653.html#a460c6912063587214ba0f2e01878d827", null ],
+    [ "Reset", "d6/db7/a12653.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
+    [ "UpdateAI", "d6/db7/a12653.html#a7bf1631810c8446bc157f8ff220199b7", null ],
+    [ "_attacked", "d6/db7/a12653.html#a56d7211a3565c19b499f7de2eda6c862", null ],
+    [ "_hasAura", "d6/db7/a12653.html#a1c0049100cde1c62daf80779d1135156", null ],
+    [ "events", "d6/db7/a12653.html#a49b8e01897cd5347bbd06cac254163f4", null ]
 ];

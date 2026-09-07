@@ -1,7 +1,6 @@
 var a00464 =
 [
-    [ "EnumText", "dd/dc3/a05875.html", "dd/dc3/a05875" ],
-    [ "Acore::Impl::EnumUtilsImpl::EnumUtils< Enum >", "de/d76/a05879.html", "de/d76/a05879" ],
-    [ "EnumUtils", "df/df8/a05883.html", "df/df8/a05883" ],
-    [ "EnumUtils::Iterator< Enum >", "d9/d99/a05887.html", "d9/d99/a05887" ]
+    [ "Movement::FacingInfo", "d2/d68/a10557.html", "d2/d68/a10557" ],
+    [ "Movement::MoveSplineInitArgs", "d1/dfe/a10565.html", "d1/dfe/a10565" ],
+    [ "PointsArray", "d2/d9d/a00464.html#a86528b2e04ddf38b80888e45d6b9c37d", null ]
 ];

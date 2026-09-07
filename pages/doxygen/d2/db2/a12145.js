@@ -1,7 +1,6 @@
 var a12145 =
 [
-    [ "StringTransaction", "d2/db2/a12145.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
-    [ "Append", "d2/db2/a12145.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
-    [ "GetBuffer", "d2/db2/a12145.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
-    [ "_buf", "d2/db2/a12145.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
+    [ "EffectProcHandler", "d2/db2/a12145.html#a613d5e85c3a7449e4f31719966dcdcc1", null ],
+    [ "Call", "d2/db2/a12145.html#ae03d27451f687319629b3c54c5a7eed5", null ],
+    [ "_EffectHandlerScript", "d2/db2/a12145.html#a8cb9ec4cfee59bc44063ac5cbf25844f", null ]
 ];

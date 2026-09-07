@@ -1,8 +1,5 @@
 var a10173 =
 [
-    [ "BoundaryUnionBoundary", "d8/d41/a10173.html#a074536112fffc805dec44bd9cd602642", null ],
-    [ "~BoundaryUnionBoundary", "d8/d41/a10173.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
-    [ "IsWithinBoundaryArea", "d8/d41/a10173.html#a8dc91861fa6641008236e5a83030e0d1", null ],
-    [ "_b1", "d8/d41/a10173.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
-    [ "_b2", "d8/d41/a10173.html#ae70530673803bd2ee85bf722fe42718b", null ]
+    [ "item_guid", "d8/d41/a10173.html#a4033ef7b03b28881e28434ae796fb6ed", null ],
+    [ "item_template", "d8/d41/a10173.html#ac7e05ac4dcc5d4f94b3291d819c7c86b", null ]
 ];

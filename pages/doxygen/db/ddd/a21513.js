@@ -1,9 +1,8 @@
 var a21513 =
 [
-    [ "npc_archmage_landalockAI", "db/ddd/a21513.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
-    [ "GetImageEntry", "db/ddd/a21513.html#ae09841969253c0baf72cc235b6fa058e", null ],
-    [ "JustSummoned", "db/ddd/a21513.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
-    [ "UpdateAI", "db/ddd/a21513.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
-    [ "_summonGUID", "db/ddd/a21513.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
-    [ "_switchImageTimer", "db/ddd/a21513.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
+    [ "boss_moragg", "db/ddd/a21513.html#a42d2508369286e5e635d47cce0b939f4", null ],
+    [ "EnterEvadeMode", "db/ddd/a21513.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
+    [ "ExecuteEvent", "db/ddd/a21513.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
+    [ "JustEngagedWith", "db/ddd/a21513.html#a29da7214373c1919b65f3512655c8bc3", null ],
+    [ "MoveInLineOfSight", "db/ddd/a21513.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
 ];

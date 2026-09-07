@@ -1,6 +1,6 @@
 var a25693 =
 [
-    [ "HandleProc", "d3/d24/a25693.html#a04796308cb57993dea310e0aca051c46", null ],
-    [ "PrepareAuraScript", "d3/d24/a25693.html#a1a0291eb2ca9073b0bac8dc8c7d22550", null ],
-    [ "Register", "d3/d24/a25693.html#a191d0bcc015b92a6f2481b3b5c196cab", null ]
+    [ "PrepareAuraScript", "d3/d24/a25693.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
+    [ "Register", "d3/d24/a25693.html#abb54f08b1932e3638537656360d3aad8", null ],
+    [ "AuraEffectHandleModes", "d3/d24/a25693.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
 ];

@@ -1,6 +1,13 @@
 var a13341 =
 [
-    [ "HandleAfterCast", "d1/dc4/a13341.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
-    [ "PrepareSpellScript", "d1/dc4/a13341.html#aa0956db2d03405a54893bc30516f5839", null ],
-    [ "Register", "d1/dc4/a13341.html#a45726adacf1d30b5488df54f57447c0c", null ]
+    [ "boss_roar", "d1/dc4/a13341.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
+    [ "DoAction", "d1/dc4/a13341.html#a9a2778a803d6d41b256759b29452cc51", null ],
+    [ "EnterEvadeMode", "d1/dc4/a13341.html#a198044653632b93838c0f79c06cb7640", null ],
+    [ "JustDied", "d1/dc4/a13341.html#a3c79bea69740601ad89f0765f3af99f2", null ],
+    [ "JustEngagedWith", "d1/dc4/a13341.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
+    [ "JustReachedHome", "d1/dc4/a13341.html#a632929b026815a524bd79748e768e3fc", null ],
+    [ "KilledUnit", "d1/dc4/a13341.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
+    [ "UpdateAI", "d1/dc4/a13341.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
+    [ "_scheduler", "d1/dc4/a13341.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
+    [ "instance", "d1/dc4/a13341.html#a67df04e89c877d565753ac077aa923c7", null ]
 ];

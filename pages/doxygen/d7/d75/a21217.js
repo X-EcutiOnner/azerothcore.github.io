@@ -1,7 +1,6 @@
 var a21217 =
 [
-    [ "PrepareAuraScript", "d7/d75/a21217.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
-    [ "Register", "d7/d75/a21217.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
-    [ "TriggerFists", "d7/d75/a21217.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
-    [ "Validate", "d7/d75/a21217.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
+    [ "CheckRequirement", "d7/d75/a21217.html#ad0a1865c8f534310ec2d4c8abc698761", null ],
+    [ "PrepareSpellScript", "d7/d75/a21217.html#a06e1b98a589717bdef6444912a7ad602", null ],
+    [ "Register", "d7/d75/a21217.html#a089a8055517acd9ddc31bf1bd16cbf17", null ]
 ];

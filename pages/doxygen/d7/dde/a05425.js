@@ -1,8 +1,7 @@
 var a05425 =
 [
-    [ "ComputeCell", "d7/dde/a05425.html#a32a8b5ab15a28fb06672fcf62ac63d1e", null ],
-    [ "isValid", "d7/dde/a05425.html#afe64d87e738675f1c8cb0fa6d440029c", null ],
-    [ "operator==", "d7/dde/a05425.html#a13e8b2fcda561f185777e4d8b48da3f5", null ],
-    [ "x", "d7/dde/a05425.html#a8435f7d7b8f529dfe397ada59e3405a1", null ],
-    [ "y", "d7/dde/a05425.html#af3d5ae020727d58286ef7725958063a9", null ]
+    [ "WModelRayCallBack", "d7/dde/a05425.html#ac19908f21c5b0ab0b2ee756a14c0f9bc", null ],
+    [ "operator()", "d7/dde/a05425.html#a72cdf8414d32846375122393b9911861", null ],
+    [ "hit", "d7/dde/a05425.html#a014e322fc087c2f07617361e0bc585e3", null ],
+    [ "models", "d7/dde/a05425.html#aaad14391ed1379dc3c367e6e522b1150", null ]
 ];

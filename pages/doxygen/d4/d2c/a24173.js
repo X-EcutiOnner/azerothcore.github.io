@@ -1,6 +1,5 @@
 var a24173 =
 [
-    [ "HandleDamageCalc", "d4/d2c/a24173.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
-    [ "PrepareSpellScript", "d4/d2c/a24173.html#a183477b6269dbc705a10e60ab36c13b1", null ],
-    [ "Register", "d4/d2c/a24173.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
+    [ "go_warmaul_prison", "d4/d2c/a24173.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
+    [ "OnGossipHello", "d4/d2c/a24173.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
 ];

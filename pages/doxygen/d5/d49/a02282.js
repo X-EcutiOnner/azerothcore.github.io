@@ -1,4 +1,5 @@
 var a02282 =
 [
-    [ "ScriptRegistry< AllGameObjectScript >", "d5/d49/a02282.html#a60896f2f8318a9eeba3e23357a17292f", null ]
+    [ "arena_commandscript", "d3/d59/a12401.html", "d3/d59/a12401" ],
+    [ "AddSC_arena_commandscript", "d5/d49/a02282.html#aa94d37f012ac02e97a1021713b7dbeeb", null ]
 ];

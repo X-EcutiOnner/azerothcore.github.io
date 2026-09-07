@@ -1,6 +1,9 @@
 var a23985 =
 [
-    [ "npc_mature_netherwing_drakeAI", "de/d44/a23989.html", "de/d44/a23989" ],
-    [ "npc_mature_netherwing_drake", "d5/d74/a23985.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "d5/d74/a23985.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "instance_the_eye_InstanceMapScript", "d5/d74/a23985.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
+    [ "GetGuidData", "d5/d74/a23985.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
+    [ "OnGameObjectCreate", "d5/d74/a23985.html#a56c6933c2c231c228ca147107fbfc930", null ],
+    [ "BridgeWindowGUID", "d5/d74/a23985.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
+    [ "KaelStateLeftGUID", "d5/d74/a23985.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
+    [ "KaelStateRightGUID", "d5/d74/a23985.html#a25ba703325800d2976eff860437f3d57", null ]
 ];

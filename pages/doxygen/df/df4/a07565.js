@@ -1,8 +1,14 @@
 var a07565 =
 [
-    [ "entry", "df/df4/a07565.html#ab47ef3b15c887f46fb1bf9c88f5cc5d8", null ],
-    [ "o", "df/df4/a07565.html#af2bf42b7d1a18e7ee1125a305ee7bc79", null ],
-    [ "x", "df/df4/a07565.html#a4fb658cf54f9534e0686a8fa5b2328c7", null ],
-    [ "y", "df/df4/a07565.html#aa761c9076be145dab6d2cac773bb6e7a", null ],
-    [ "z", "df/df4/a07565.html#ac9ff501bbf00d80f5b9350a78ffbb6fb", null ]
+    [ "AutobroadcastsMap", "df/df4/a07565.html#a9064ad588e8a02d9b60974af4da1c7cf", null ],
+    [ "AutobroadcastsWeightMap", "df/df4/a07565.html#a75e5b978794a7010c8d9d3390d8690f9", null ],
+    [ "instance", "df/df4/a07565.html#aead196df7f590d43c89f179ca0bd4a68", null ],
+    [ "LoadAutobroadcasts", "df/df4/a07565.html#a48748969b122aee47d03697b6e9a2ee1", null ],
+    [ "LoadAutobroadcastsLocalized", "df/df4/a07565.html#a105fa2c33da0662785551027430d40c6", null ],
+    [ "SendAutobroadcasts", "df/df4/a07565.html#a225907be4944713af11c312185c8aea7", null ],
+    [ "SendNotificationAnnouncement", "df/df4/a07565.html#ace584bb6b66c8944e1405ec0af686d3a", null ],
+    [ "SendWorldAnnouncement", "df/df4/a07565.html#a8be8fd36f843ffd435989c99ce0f9229", null ],
+    [ "_announceType", "df/df4/a07565.html#a3889edc4001e26519d9df042a8b477fc", null ],
+    [ "_autobroadcasts", "df/df4/a07565.html#a06d42010fea307a03aac0ca4e6886f1d", null ],
+    [ "_autobroadcastsWeights", "df/df4/a07565.html#aadbd8ca926a64be4fbbe832fd633ee88", null ]
 ];

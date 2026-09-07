@@ -1,6 +1,6 @@
 var a19985 =
 [
-    [ "npc_collapsing_star", "d9/d2d/a19985.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
-    [ "DamageTaken", "d9/d2d/a19985.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
-    [ "JustSummoned", "d9/d2d/a19985.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
+    [ "CalculateDamage", "d9/d2d/a19985.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "d9/d2d/a19985.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "d9/d2d/a19985.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

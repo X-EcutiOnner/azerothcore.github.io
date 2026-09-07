@@ -1,6 +1,5 @@
 var a10089 =
 [
-    [ "LootValidatorRef", "d2/d8f/a10089.html#acce3ced73583bf8dbf04232cddd6ebd8", null ],
-    [ "sourceObjectDestroyLink", "d2/d8f/a10089.html#a8833022cf1acf786c06f1580fbe11c24", null ],
-    [ "targetObjectDestroyLink", "d2/d8f/a10089.html#a93baac45dcb801215c28ac0dba097eba", null ]
+    [ "entry", "d2/d8f/a10089.html#a1105fbea33b497bca2a290431cb0f4ca", null ],
+    [ "type", "d2/d8f/a10089.html#acaf1010ce0620ee99a2a6b2721a06b89", null ]
 ];

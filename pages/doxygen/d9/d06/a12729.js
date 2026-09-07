@@ -1,11 +1,8 @@
 var a12729 =
 [
-    [ "boss_quartermaster_zigris", "d9/d06/a12729.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
-    [ "DamageTaken", "d9/d06/a12729.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
-    [ "JustDied", "d9/d06/a12729.html#a9295bbcffd7968051a789e8dfb634e23", null ],
-    [ "JustEngagedWith", "d9/d06/a12729.html#af482c06e00e7f6c15b290115998a27a9", null ],
-    [ "Reset", "d9/d06/a12729.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
-    [ "SpellHitTarget", "d9/d06/a12729.html#a38197746cc73ada1378e6e1a5555ef79", null ],
-    [ "UpdateAI", "d9/d06/a12729.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
-    [ "_hasDrunkPotion", "d9/d06/a12729.html#a25335533bc43171687e03f1ed22d4fb3", null ]
+    [ "boss_eviscerator", "d9/d06/a12729.html#a2228d79b63df840eb4cb28117f24dcf9", null ],
+    [ "DamageTaken", "d9/d06/a12729.html#af31de4643026e44c80252e156a39bc69", null ],
+    [ "JustEngagedWith", "d9/d06/a12729.html#a14ec212beaa553f8f68e7718e29dcbd9", null ],
+    [ "UpdateAI", "d9/d06/a12729.html#af974908902d30b8144d1b734e795d6ea", null ],
+    [ "SpellShieldReady", "d9/d06/a12729.html#abeac01454b05ca88a89093b0f74c4a1f", null ]
 ];

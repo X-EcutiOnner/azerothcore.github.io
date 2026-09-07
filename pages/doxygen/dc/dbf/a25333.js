@@ -1,5 +1,7 @@
 var a25333 =
 [
-    [ "PrepareSpellScript", "dc/dbf/a25333.html#a53fe40a7d280c5fcc733d2647ef09b41", null ],
-    [ "Register", "dc/dbf/a25333.html#ae2d3eb8ff055aa66a00567af75c65138", null ]
+    [ "CalculateAmount", "dc/dbf/a25333.html#a40ba021accd581745f07f2586545853c", null ],
+    [ "Load", "dc/dbf/a25333.html#aa963b658637360305bb5f3d59eb9d061", null ],
+    [ "PrepareAuraScript", "dc/dbf/a25333.html#a8fedbff305709145a7c004787ee50402", null ],
+    [ "Register", "dc/dbf/a25333.html#ade9b6a408a1d5a83bdadd5bd2b0fbb2a", null ]
 ];

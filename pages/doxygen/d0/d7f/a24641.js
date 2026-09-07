@@ -1,6 +1,10 @@
 var a24641 =
 [
-    [ "FilterTargets", "d0/d7f/a24641.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
-    [ "PrepareSpellScript", "d0/d7f/a24641.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
-    [ "Register", "d0/d7f/a24641.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
+    [ "CheckProc", "d0/d7f/a24641.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02", null ],
+    [ "HandleProc", "d0/d7f/a24641.html#ac90b54e946baa80589cab2f66aca1f5f", null ],
+    [ "Load", "d0/d7f/a24641.html#ada85014de8a3602e83912d5e1a0165c5", null ],
+    [ "PrepareAuraScript", "d0/d7f/a24641.html#a769f2b77b2972c40e3e43e70d2ff5820", null ],
+    [ "Register", "d0/d7f/a24641.html#ab8a35292c0d4d392d9dd9db438d59cc4", null ],
+    [ "Validate", "d0/d7f/a24641.html#aba8bd9ae5ec9e92eccb04163114c4802", null ],
+    [ "_procTargetGUID", "d0/d7f/a24641.html#ac9685f00854f4cf67a1fffada0b9461b", null ]
 ];

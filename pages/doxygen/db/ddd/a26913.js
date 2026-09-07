@@ -1,7 +1,10 @@
 var a26913 =
 [
-    [ "HandleDummy", "db/ddd/a26913.html#aa9b579a8a7a23b94d9a2c8c7f932ff78", null ],
-    [ "PrepareSpellScript", "db/ddd/a26913.html#ae1dfa086c89a4180d42d231064d88602", null ],
-    [ "Register", "db/ddd/a26913.html#a256c152beadbfce6bf245779295b8758", null ],
-    [ "Validate", "db/ddd/a26913.html#acb4144be3326bcaae9c559d8e7b9d7ec", null ]
+    [ "CalculateAPAmount", "db/ddd/a26913.html#a611247fcbdaeeb416a8cfbaf1a0fc415", null ],
+    [ "CalculateResistanceAmount", "db/ddd/a26913.html#aa3fd9aa18ea2afa20c7c2298a8699812", null ],
+    [ "CalculateSPAmount", "db/ddd/a26913.html#a9ae59870127884029a938684786e67a9", null ],
+    [ "CalculateStatAmount", "db/ddd/a26913.html#a4ac5ffabf820d73d4a92a4a0628370e9", null ],
+    [ "HandleEffectApply", "db/ddd/a26913.html#aaca0801f75839ebd9568c4cd31011a1e", null ],
+    [ "PrepareAuraScript", "db/ddd/a26913.html#aa90952337607986eaf7485200a32c353", null ],
+    [ "Register", "db/ddd/a26913.html#a88520214bd87511b615965593f1b927f", null ]
 ];

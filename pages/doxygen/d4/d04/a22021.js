@@ -1,10 +1,11 @@
 var a22021 =
 [
-    [ "npc_engineer_heliceAI", "d4/d04/a22021.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
-    [ "JustDied", "d4/d04/a22021.html#aba224727b86a2bfc39a47b70b424ccef", null ],
-    [ "Reset", "d4/d04/a22021.html#ade3f7f526dd8973c155aafb939db3778", null ],
-    [ "UpdateAI", "d4/d04/a22021.html#a1c333511dd6e82cd22af111e12a701c4", null ],
-    [ "WaypointReached", "d4/d04/a22021.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
-    [ "WaypointReached", "d4/d04/a22021.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "m_uiChatTimer", "d4/d04/a22021.html#aa305bc2b5711d0745650f80275204ea8", null ]
+    [ "npc_lake_frogAI", "d4/d04/a22021.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
+    [ "ReceiveEmote", "d4/d04/a22021.html#abd58e65b6829c70818c578ed615a980b", null ],
+    [ "Reset", "d4/d04/a22021.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
+    [ "sGossipSelect", "d4/d04/a22021.html#a95906677ff65e004408ae65df3f49b5c", null ],
+    [ "UpdateAI", "d4/d04/a22021.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
+    [ "_events", "d4/d04/a22021.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
+    [ "_following", "d4/d04/a22021.html#a0078f9134a61f0ec2465ce103523e341", null ],
+    [ "_runningScript", "d4/d04/a22021.html#af76102ba6c9ffd80baa95623b7312980", null ]
 ];

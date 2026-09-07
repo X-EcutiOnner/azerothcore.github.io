@@ -1,6 +1,5 @@
 var a27137 =
 [
-    [ "DoAfterHit", "d5/d13/a27137.html#a38ede5147a11c41770c4483a70d81e5d", null ],
-    [ "PrepareSpellScript", "d5/d13/a27137.html#abcc738fc154e6be5de168fb23be806f4", null ],
-    [ "Register", "d5/d13/a27137.html#ac81d60d54a87a23bd9481934f5753de0", null ]
+    [ "PrepareSpellScript", "d5/d13/a27137.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
+    [ "Register", "d5/d13/a27137.html#a721430db1738b255f114483bdddef5e2", null ]
 ];

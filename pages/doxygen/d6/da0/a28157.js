@@ -1,5 +1,6 @@
 var a28157 =
 [
-    [ "item_only_for_flight", "d6/da0/a28157.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
-    [ "OnUse", "d6/da0/a28157.html#a88cdf17a85630aef703f93143ba41d4d", null ]
+    [ "npc_dream_fogAI", "de/d40/a28161.html", "de/d40/a28161" ],
+    [ "npc_dream_fog", "d6/da0/a28157.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "d6/da0/a28157.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

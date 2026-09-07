@@ -1,9 +1,8 @@
 var a12717 =
 [
-    [ "boss_overlord_wyrmthalak", "d9/d1d/a12717.html#a412ced7f6cbb2c02b174824b57132ab3", null ],
-    [ "JustDied", "d9/d1d/a12717.html#a66f2bda1b2352c42a15be505f6d610c6", null ],
-    [ "JustEngagedWith", "d9/d1d/a12717.html#a4673b2e6c3b7143ab088b699c7f41d8a", null ],
-    [ "Reset", "d9/d1d/a12717.html#a8c4bff3d35d4ddb5c6c8994cb4ee9d67", null ],
-    [ "UpdateAI", "d9/d1d/a12717.html#afcca6360598b40df4c35bff752eee3f4", null ],
-    [ "_summoned", "d9/d1d/a12717.html#a4ccbe2c20ef1303141005a79ec418705", null ]
+    [ "npc_burning_spirit", "d9/d1d/a12717.html#acb0a685ea9aaddd23580ebeb4a0f1e45", null ],
+    [ "EnterEvadeMode", "d9/d1d/a12717.html#a162d280d1fc53de0655c99efce81c539", null ],
+    [ "IsSummonedBy", "d9/d1d/a12717.html#a3ef47ad5f1697f3a890469412e43c452", null ],
+    [ "MovementInform", "d9/d1d/a12717.html#a4c001de653aa8b096552247f5cbf1573", null ],
+    [ "_flamelasherGUID", "d9/d1d/a12717.html#aea694b777b8437b5909bd668279837b1", null ]
 ];

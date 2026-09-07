@@ -1,14 +1,7 @@
 var a14137 =
 [
-    [ "npc_lord_gregor_lescovarAI", "dc/dd7/a14137.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
-    [ "DoGuardsDisappearAndDie", "dc/dd7/a14137.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
-    [ "EnterEvadeMode", "dc/dd7/a14137.html#a95e60614808191e4c1f909f5e38e4741", null ],
-    [ "JustEngagedWith", "dc/dd7/a14137.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
-    [ "Reset", "dc/dd7/a14137.html#a06df695e9acd96b07f4e58c9461a708c", null ],
-    [ "UpdateAI", "dc/dd7/a14137.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
-    [ "WaypointReached", "dc/dd7/a14137.html#ad91850dc72d0307e28b881717bfba6db", null ],
-    [ "WaypointReached", "dc/dd7/a14137.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "MarzonGUID", "dc/dd7/a14137.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
-    [ "uiPhase", "dc/dd7/a14137.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
-    [ "uiTimer", "dc/dd7/a14137.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
+    [ "npc_king_varian_wrynn", "dc/dd7/a14137.html#ab62609f2e468d1d173d9c9ea4c05d164", null ],
+    [ "JustDied", "dc/dd7/a14137.html#ae1b1aca3df1398a4f86f7b1deba5fd14", null ],
+    [ "OnQuestReward", "dc/dd7/a14137.html#a3f461d73130945e2287c5ea46b8bdce9", null ],
+    [ "UpdateAI", "dc/dd7/a14137.html#a37bdb5c5c286b2c34e55ef9e8e1aff77", null ]
 ];

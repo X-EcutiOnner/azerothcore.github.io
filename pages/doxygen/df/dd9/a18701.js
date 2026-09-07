@@ -1,10 +1,11 @@
 var a18701 =
 [
-    [ "HandleScript", "df/dd9/a18701.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
-    [ "Load", "df/dd9/a18701.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
-    [ "PrepareSpellScript", "df/dd9/a18701.html#afcc1efc69d73086a9ab686855911e516", null ],
-    [ "Register", "df/dd9/a18701.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
-    [ "ReplaceTarget", "df/dd9/a18701.html#a01cb7d25bef14a2266d81594544f6283", null ],
-    [ "SelectTarget", "df/dd9/a18701.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
-    [ "_target", "df/dd9/a18701.html#a3a84a9d7109845d201b395f05f66d109", null ]
+    [ "AddMissingStack", "df/dd9/a18701.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
+    [ "CheckAura", "df/dd9/a18701.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
+    [ "FilterTargets", "df/dd9/a18701.html#ab6c86c3680823329d5f3aad985aa316a", null ],
+    [ "Load", "df/dd9/a18701.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
+    [ "PrepareSpellScript", "df/dd9/a18701.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
+    [ "Register", "df/dd9/a18701.html#af0e6f1fc6687de1abcc1689116150088", null ],
+    [ "_hadInitialAura", "df/dd9/a18701.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
+    [ "_hadJumpingAura", "df/dd9/a18701.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
 ];

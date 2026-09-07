@@ -1,12 +1,6 @@
 var a12721 =
 [
-    [ "boss_pyroguard_emberseer", "d1/d8e/a12721.html#a4c1bd9e71776fa088a84009565dc527d", null ],
-    [ "JustDied", "d1/d8e/a12721.html#a6f0e58c7107563f40e864eede5a907d5", null ],
-    [ "JustEngagedWith", "d1/d8e/a12721.html#a1c9662393ea5862ee26f5242e184fd74", null ],
-    [ "OpenDoors", "d1/d8e/a12721.html#a80761b3fad5864ce80dae81d31df748c", null ],
-    [ "Reset", "d1/d8e/a12721.html#a7eda06b39dc920040e205595a0f8efa2", null ],
-    [ "SetData", "d1/d8e/a12721.html#a533c643c9b65813f48fd92ee73670fae", null ],
-    [ "SpellHit", "d1/d8e/a12721.html#aa9842818e2ab218ac175cebfc82f6adf", null ],
-    [ "UpdateAI", "d1/d8e/a12721.html#a7e12a0ef98e8c751a33e4492ae368074", null ],
-    [ "UpdateRunes", "d1/d8e/a12721.html#af80bdd2eb6200d3abbcb08b57798f1e5", null ]
+    [ "boss_anubshiah", "d1/d8e/a12721.html#aa8e436501ebf08465a9742dedb5901fc", null ],
+    [ "JustEngagedWith", "d1/d8e/a12721.html#aedd04c5765ca4360d8290fac7e7b9c55", null ],
+    [ "UpdateAI", "d1/d8e/a12721.html#a0a3cbdd6be45415723cbadb40478831a", null ]
 ];

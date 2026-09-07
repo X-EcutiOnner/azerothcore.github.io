@@ -1,6 +1,6 @@
 var a13549 =
 [
-    [ "npc_risen_guardianAI", "d8/d51/a13553.html", "d8/d51/a13553" ],
-    [ "npc_risen_guardian", "d5/dd1/a13549.html#a472274c69abe912f5781c60911204eb5", null ],
-    [ "GetAI", "d5/dd1/a13549.html#a568f57a442adcd64c8c3d2e4d5df729f", null ]
+    [ "instance_scholomance_InstanceMapScript", "d8/d51/a13553.html", "d8/d51/a13553" ],
+    [ "instance_scholomance", "d5/dd1/a13549.html#ace7a781c45623419daad6143480d8fe2", null ],
+    [ "GetInstanceScript", "d5/dd1/a13549.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
 ];

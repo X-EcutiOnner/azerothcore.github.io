@@ -1,13 +1,14 @@
 var a24041 =
 [
-    [ "npc_illidari_spawnAI", "dc/d77/a24041.html#a704c1d3e07d028b04e2bddee37039941", null ],
-    [ "JustDied", "dc/d77/a24041.html#a27277d90d4a58a89386a39f4affbaee8", null ],
-    [ "JustEngagedWith", "dc/d77/a24041.html#add4ea6366614e9fb86e85613bfb910ba", null ],
-    [ "Reset", "dc/d77/a24041.html#a5347858d5da4f0718479b1d702125366", null ],
-    [ "UpdateAI", "dc/d77/a24041.html#af392a545b3dccb7a7c89780d2818a7a7", null ],
-    [ "LordIllidanGUID", "dc/d77/a24041.html#a11b411dd0b5a32a7bdd0c44242a42372", null ],
-    [ "SpellTimer1", "dc/d77/a24041.html#afbf1b352275c0fd16fdf252eac9e0c4a", null ],
-    [ "SpellTimer2", "dc/d77/a24041.html#a644616bab96e1bd9bbe2500bf1b14988", null ],
-    [ "SpellTimer3", "dc/d77/a24041.html#a9889f9673292613dc46387862f3e8849", null ],
-    [ "Timers", "dc/d77/a24041.html#a1e48e4dea7bc1ba0f3d6be2f03b6813e", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "dc/d77/a24041.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
+    [ "Initialize", "dc/d77/a24041.html#a187340b00067f2f65a7e48845a6edaba", null ],
+    [ "JustSummoned", "dc/d77/a24041.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
+    [ "Reset", "dc/d77/a24041.html#a92a6cbe0515752440284d18bae0adf66", null ],
+    [ "SpellHit", "dc/d77/a24041.html#a517f7412208de83604d0d6806fbc0b34", null ],
+    [ "UpdateAI", "dc/d77/a24041.html#ab4fb75f1b84c2722f936387a6942028b", null ],
+    [ "CannonGUID", "dc/d77/a24041.html#a220e111467cfb6f02e996f012123e09b", null ],
+    [ "count", "dc/d77/a24041.html#ac78f94033239dcf247be9a48d0535081", null ],
+    [ "events", "dc/d77/a24041.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
+    [ "PartyTime", "dc/d77/a24041.html#a1780c656fb539be6dcd74e271cea4c53", null ],
+    [ "PlayerGUID", "dc/d77/a24041.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
 ];

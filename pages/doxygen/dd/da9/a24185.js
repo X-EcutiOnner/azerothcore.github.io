@@ -1,16 +1,6 @@
 var a24185 =
 [
-    [ "npc_pet_gen_argent_pony_bridle", "dd/da9/a24185.html#a9df25627a92b8914ab8009be099f15d4", null ],
-    [ "DoAction", "dd/da9/a24185.html#a4c08ed385886a118c165925602b1dff7", null ],
-    [ "EnterEvadeMode", "dd/da9/a24185.html#a897e72a4bf279607903bce58a5a45c6f", null ],
-    [ "GetData", "dd/da9/a24185.html#a862546ec66d8282c87169305711e4ec7", null ],
-    [ "OnGossipHello", "dd/da9/a24185.html#a35cfcfd3418295bcb1140d1b8b8266ab", null ],
-    [ "OnGossipSelect", "dd/da9/a24185.html#a36f15c2c0ec3466b492148303e828403", null ],
-    [ "Reset", "dd/da9/a24185.html#a4d885f00ea1b6b97270d41f2583bd0dc", null ],
-    [ "UpdateAI", "dd/da9/a24185.html#a1172dbd471ee8f05f25ff77dc222a61d", null ],
-    [ "_banners", "dd/da9/a24185.html#a9c89972cde36f3d2b5686485f0e2905f", null ],
-    [ "_init", "dd/da9/a24185.html#a8a7dd73d9d3af5ca00998735e45ee7e8", null ],
-    [ "_lastAura", "dd/da9/a24185.html#a4abeb86eb0179a77d47d737d67495411", null ],
-    [ "_mountTimer", "dd/da9/a24185.html#a38253b6d1e1f7fb8fc3fdccb2522a090", null ],
-    [ "_state", "dd/da9/a24185.html#ae57f97ca9a08353e8ec8ebfadbd51541", null ]
+    [ "npc_commander_dawnforgeAI", "d3/d9a/a24189.html", "d3/d9a/a24189" ],
+    [ "npc_commander_dawnforge", "dd/da9/a24185.html#ab4d430725f68f906e9c8def66b1d6646", null ],
+    [ "GetAI", "dd/da9/a24185.html#a6089b087b7c3b18659e23c677814318b", null ]
 ];

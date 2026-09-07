@@ -1,12 +1,13 @@
 var a10677 =
 [
-    [ "BattlefieldScript", "d6/d9c/a10677.html#a5d852a5ae3f62631280ca9f4b97b1734", null ],
-    [ "IsDatabaseBound", "d6/d9c/a10677.html#a3d02622460b0fcc0ae0d5d559fe5f436", null ],
-    [ "OnBattlefieldBeforeInvitePlayerToWar", "d6/d9c/a10677.html#ac0c199050fba1f6e991783bd2d2efdc2", null ],
-    [ "OnBattlefieldPlayerEnterZone", "d6/d9c/a10677.html#adf7c217eadc6106b1ce3c353a411edf8", null ],
-    [ "OnBattlefieldPlayerJoinWar", "d6/d9c/a10677.html#a2f2a9de94a8e8f60d04e956b4479cf16", null ],
-    [ "OnBattlefieldPlayerKill", "d6/d9c/a10677.html#a835001d04260cafe35021108e2ede851", null ],
-    [ "OnBattlefieldPlayerLeaveWar", "d6/d9c/a10677.html#a3e88ff9ad3772d558ab72123127a550e", null ],
-    [ "OnBattlefieldPlayerLeaveZone", "d6/d9c/a10677.html#a3b274755aaded2d99bcf5e12a2f2de4c", null ],
-    [ "OnBattlefieldWarEnd", "d6/d9c/a10677.html#ab4ed21627320723b18a09dbc4c7f6baa", null ]
+    [ "AccountScript", "d6/d9c/a10677.html#a2554f46fcf6ff81b353513916771b8d1", null ],
+    [ "CanAccountCreateCharacter", "d6/d9c/a10677.html#a6b5b94c1ac64bf8d926928d8401cd533", null ],
+    [ "OnAccountLogin", "d6/d9c/a10677.html#afbebc7186ba77b0fefe0a6d32a774601", null ],
+    [ "OnBeforeAccountDelete", "d6/d9c/a10677.html#a631f7deca08644da2613142c667618a8", null ],
+    [ "OnEmailChange", "d6/d9c/a10677.html#adf20bd20cdc97b91db664dca95f82670", null ],
+    [ "OnFailedAccountLogin", "d6/d9c/a10677.html#aae3401d74bdc9e8328a5f084462ae740", null ],
+    [ "OnFailedEmailChange", "d6/d9c/a10677.html#a23261a238db9ddd618ebb6a45aaabcbf", null ],
+    [ "OnFailedPasswordChange", "d6/d9c/a10677.html#a45d58c0f669f37b24e3dabf0ac4b2423", null ],
+    [ "OnLastIpUpdate", "d6/d9c/a10677.html#a3de6453c132bb3d76b6888b87f988d2d", null ],
+    [ "OnPasswordChange", "d6/d9c/a10677.html#aefa30b298f52d7c1a44e7648d088c3f0", null ]
 ];

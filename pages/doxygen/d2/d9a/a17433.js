@@ -1,9 +1,9 @@
 var a17433 =
 [
-    [ "npc_pos_after_first_bossAI", "d2/d9a/a17433.html#a622df71849da1e10e2b73068f0adea98", null ],
-    [ "MovementInform", "d2/d9a/a17433.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
-    [ "Reset", "d2/d9a/a17433.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
-    [ "UpdateAI", "d2/d9a/a17433.html#ac45111887fd7833a041355658dd26158", null ],
-    [ "events", "d2/d9a/a17433.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
-    [ "pInstance", "d2/d9a/a17433.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
+    [ "FilterTargets", "d2/d9a/a17433.html#aefebf504286394cf3caffa566543e4a4", null ],
+    [ "FilterTargetsNext", "d2/d9a/a17433.html#a356b6ace97d07df22a232d2287072b5e", null ],
+    [ "PrepareSpellScript", "d2/d9a/a17433.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
+    [ "Register", "d2/d9a/a17433.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
+    [ "Unload", "d2/d9a/a17433.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
+    [ "targetList", "d2/d9a/a17433.html#a3c839185938e0b67b97f652d1d15e213", null ]
 ];

@@ -1,8 +1,8 @@
 var a24653 =
 [
-    [ "AfterApply", "d3/df8/a24653.html#a9c2591beacd941893338109719c03e3f", null ],
-    [ "AfterRemove", "d3/df8/a24653.html#a0be2a66b615dd926de7073392a8e5062", null ],
-    [ "PrepareAuraScript", "d3/df8/a24653.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
-    [ "Register", "d3/df8/a24653.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
-    [ "Validate", "d3/df8/a24653.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
+    [ "CheckCast", "d3/df8/a24653.html#a94851a2b6a62138e28466317e9e88480", null ],
+    [ "HandleDummy", "d3/df8/a24653.html#a970684d219c99519512c437a8efd8d43", null ],
+    [ "PrepareSpellScript", "d3/df8/a24653.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
+    [ "Register", "d3/df8/a24653.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
+    [ "Validate", "d3/df8/a24653.html#a59cca008a97447e257bf24071301b366", null ]
 ];

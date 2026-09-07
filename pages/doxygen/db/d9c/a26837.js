@@ -1,6 +1,6 @@
 var a26837 =
 [
-    [ "HandleScriptEffect", "db/d9c/a26837.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
-    [ "PrepareSpellScript", "db/d9c/a26837.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
-    [ "Register", "db/d9c/a26837.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
+    [ "CheckCast", "db/d9c/a26837.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
+    [ "PrepareSpellScript", "db/d9c/a26837.html#a33e86d770e926247c58c00143b55c418", null ],
+    [ "Register", "db/d9c/a26837.html#a453c7fa25baf458c9a319053ca726621", null ]
 ];

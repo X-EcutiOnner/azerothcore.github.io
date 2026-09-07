@@ -1,6 +1,7 @@
 var a14201 =
 [
-    [ "boss_blight_wormAI", "d2/df0/a14205.html", "d2/df0/a14205" ],
-    [ "boss_blight_worm", "dc/d50/a14201.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "dc/d50/a14201.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "CheckCast", "dc/d50/a14201.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
+    [ "HandleScriptEffect", "dc/d50/a14201.html#af265f0bba7028f45763a7f9afea2d051", null ],
+    [ "PrepareSpellScript", "dc/d50/a14201.html#a27518fd5482e65e0324100057e747d68", null ],
+    [ "Register", "dc/d50/a14201.html#a07789d7d092eb1b6633200442466c52b", null ]
 ];

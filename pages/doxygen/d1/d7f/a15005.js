@@ -1,7 +1,8 @@
 var a15005 =
 [
-    [ "GetVisualThrow", "d1/d7f/a15005.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "d1/d7f/a15005.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "d1/d7f/a15005.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "d1/d7f/a15005.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "OnApply", "d1/d7f/a15005.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
+    [ "OnRemove", "d1/d7f/a15005.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
+    [ "PrepareAuraScript", "d1/d7f/a15005.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
+    [ "Register", "d1/d7f/a15005.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
+    [ "Validate", "d1/d7f/a15005.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
 ];

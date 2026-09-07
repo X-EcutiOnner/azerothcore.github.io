@@ -1,6 +1,6 @@
 var a24129 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d3/d1c/a24133.html", "d3/d1c/a24133" ],
-    [ "npc_unkor_the_ruthless", "de/dc5/a24129.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "de/dc5/a24129.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "npc_fel_guard_houndAI", "d3/d1c/a24133.html", "d3/d1c/a24133" ],
+    [ "npc_fel_guard_hound", "de/dc5/a24129.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "de/dc5/a24129.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

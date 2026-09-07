@@ -1,7 +1,7 @@
 var a21185 =
 [
-    [ "HandleScript", "d9/d76/a21185.html#a47b991c20c523d151893fefd9d487714", null ],
-    [ "PrepareSpellScript", "d9/d76/a21185.html#ab2db47d0a2694c0734db600e810e190d", null ],
-    [ "Register", "d9/d76/a21185.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
-    [ "Validate", "d9/d76/a21185.html#a89d601f6036fe38238767281f3427e54", null ]
+    [ "HandleEffectPeriodic", "d9/d76/a21185.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
+    [ "PrepareAuraScript", "d9/d76/a21185.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
+    [ "Register", "d9/d76/a21185.html#a74052d7da1523b3c4010465510e5fe04", null ],
+    [ "Validate", "d9/d76/a21185.html#a587a469c649877f80e8fe80062e8b5d4", null ]
 ];

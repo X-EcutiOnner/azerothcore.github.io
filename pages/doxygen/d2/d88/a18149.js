@@ -1,7 +1,7 @@
 var a18149 =
 [
-    [ "OnPeriodic", "d2/d88/a18149.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
-    [ "PrepareAuraScript", "d2/d88/a18149.html#a0e87dae1be4f69e6412129f14056eb79", null ],
-    [ "Register", "d2/d88/a18149.html#a1b26d102252bf7e0fd480076820d343f", null ],
-    [ "Validate", "d2/d88/a18149.html#a211d52aa385a874730abc43b083f2d22", null ]
+    [ "PrepareSpellScript", "d2/d88/a18149.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
+    [ "Register", "d2/d88/a18149.html#aff4f05a5a4742a408646000b7cece38c", null ],
+    [ "RemovePassengers", "d2/d88/a18149.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
+    [ "Validate", "d2/d88/a18149.html#a2a8da9d150804f979f2313f623ad7760", null ]
 ];

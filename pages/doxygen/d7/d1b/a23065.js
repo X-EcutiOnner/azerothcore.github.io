@@ -1,7 +1,6 @@
 var a23065 =
 [
-    [ "FilterTargets", "d7/d1b/a23065.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
-    [ "HandleDummy", "d7/d1b/a23065.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
-    [ "PrepareSpellScript", "d7/d1b/a23065.html#ae7714acbe0a08781e3bc297847c47870", null ],
-    [ "Register", "d7/d1b/a23065.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
+    [ "PrepareSpellScript", "d7/d1b/a23065.html#ad786920d6180b8e2829f3a56ec50c488", null ],
+    [ "Register", "d7/d1b/a23065.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
+    [ "SetDest", "d7/d1b/a23065.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
 ];

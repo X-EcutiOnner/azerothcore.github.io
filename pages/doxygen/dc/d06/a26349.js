@@ -1,8 +1,7 @@
 var a26349 =
 [
-    [ "OnRemove", "dc/d06/a26349.html#a992c78ac4ce2a94c4f38c7a81f2a9c45", null ],
-    [ "PrepareAuraScript", "dc/d06/a26349.html#ad06dbe9207315484cbb886fcc75bb958", null ],
-    [ "PrepareProc", "dc/d06/a26349.html#a2f4b562be28420d25d09b81ad72af17f", null ],
-    [ "Register", "dc/d06/a26349.html#a04d9c48f8842392a4d318677537ac248", null ],
-    [ "Validate", "dc/d06/a26349.html#ab15a75ec708d8c683166bd73fab29701", null ]
+    [ "HandleProc", "dc/d06/a26349.html#a682a80e8abf8c7dc94921389eb0a15b1", null ],
+    [ "PrepareAuraScript", "dc/d06/a26349.html#af0d99e25521ece82c1179ec033ba4216", null ],
+    [ "Register", "dc/d06/a26349.html#a6ad6a77042b9a48b5017980b2fddefce", null ],
+    [ "Validate", "dc/d06/a26349.html#a147bfdbb7339eb47989f84ed6be86862", null ]
 ];

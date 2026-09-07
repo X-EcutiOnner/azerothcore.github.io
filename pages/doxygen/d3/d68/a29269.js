@@ -1,5 +1,4 @@
 var a29269 =
 [
-    [ "ByteBufferPositionException", "d3/d68/a29269.html#a6c2e31012a8ccf20d52c6431e024a576", null ],
-    [ "~ByteBufferPositionException", "d3/d68/a29269.html#aba8b7764a5517fa3e4a26d7ced1ad38f", null ]
+    [ "ratio", "d3/d68/a29269.html#ac22c096d41c6fb7ebdc824fc1ca8601b", null ]
 ];

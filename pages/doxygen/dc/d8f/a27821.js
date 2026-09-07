@@ -1,5 +1,8 @@
 var a27821 =
 [
-    [ "achievement_flirt_with_disaster_perf_check", "dc/d8f/a27821.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
-    [ "OnCheck", "dc/d8f/a27821.html#a15e620be2f37f930477ba94293dbaf63", null ]
+    [ "ApplyEffect", "dc/d8f/a27821.html#a0c303c58064236969e17d1f2df3e0556", null ],
+    [ "PrepareAuraScript", "dc/d8f/a27821.html#a716a483282946f840ac15d73c6e21a94", null ],
+    [ "Register", "dc/d8f/a27821.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
+    [ "RemoveEffect", "dc/d8f/a27821.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
+    [ "Validate", "dc/d8f/a27821.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
 ];

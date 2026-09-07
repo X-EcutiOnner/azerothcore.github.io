@@ -1,13 +1,6 @@
 var a21153 =
 [
-    [ "MoveX", "d0/d0d/a21153.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "d0/d0d/a21153.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "d0/d0d/a21153.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "d0/d0d/a21153.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "d0/d0d/a21153.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "d0/d0d/a21153.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "d0/d0d/a21153.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "d0/d0d/a21153.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "d0/d0d/a21153.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "d0/d0d/a21153.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "achievement_yogg_saron_he_waits_dreaming", "d0/d0d/a21153.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
+    [ "OnCheck", "d0/d0d/a21153.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
+    [ "_requiredIllusion", "d0/d0d/a21153.html#aa3e107cb3be6fa02687709e07466a094", null ]
 ];

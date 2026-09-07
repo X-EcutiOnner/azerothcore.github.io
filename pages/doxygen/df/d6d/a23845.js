@@ -1,11 +1,8 @@
 var a23845 =
 [
-    [ "npc_aeranasAI", "df/d6d/a23845.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "JustReachedHome", "df/d6d/a23845.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
-    [ "Reset", "df/d6d/a23845.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "df/d6d/a23845.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "_defeated", "df/d6d/a23845.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
-    [ "envelopingWinds_Timer", "df/d6d/a23845.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "df/d6d/a23845.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "df/d6d/a23845.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "boss_laj", "df/d6d/a23845.html#a3c9323ab4b5530504588ea62aed2edff", null ],
+    [ "Reset", "df/d6d/a23845.html#ace690a0662376addaa40093f3f119c31", null ],
+    [ "ScheduleTasks", "df/d6d/a23845.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
+    [ "_lastTransform", "df/d6d/a23845.html#a097eacaaf77a09bec087530bad587b11", null ],
+    [ "_transformContainer", "df/d6d/a23845.html#a313e66ceeb4e359251dad65383e7f568", null ]
 ];

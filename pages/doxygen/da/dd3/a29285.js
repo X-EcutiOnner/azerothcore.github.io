@@ -1,7 +1,11 @@
 var a29285 =
 [
-    [ "RealmHandle", "da/dd3/a29285.html#a120fb45f2301188a843ab2e712f768e4", null ],
-    [ "RealmHandle", "da/dd3/a29285.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
-    [ "operator<", "da/dd3/a29285.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
-    [ "Realm", "da/dd3/a29285.html#a31af0d9064a295b1579fce3c80217bfd", null ]
+    [ "ClassID", "da/dd3/a29285.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
+    [ "DisplayInfoID", "da/dd3/a29285.html#a87657df2ad024245ccb2192303f76b7a", null ],
+    [ "ID", "da/dd3/a29285.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
+    [ "InventoryType", "da/dd3/a29285.html#a6dc33fc40a299b010c18a7009aff648b", null ],
+    [ "Material", "da/dd3/a29285.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
+    [ "SheatheType", "da/dd3/a29285.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
+    [ "SoundOverrideSubclassID", "da/dd3/a29285.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
+    [ "SubclassID", "da/dd3/a29285.html#ac39254716573e335caf312f635353a2e", null ]
 ];

@@ -1,7 +1,5 @@
 var a29197 =
 [
-    [ "from", "da/d07/a29197.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
-    [ "ID", "da/d07/a29197.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
-    [ "price", "da/d07/a29197.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
-    [ "to", "da/d07/a29197.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
+    [ "Id", "da/d07/a29197.html#a79e4b857b811a044aed0ce33422df801", null ],
+    [ "quality_mod", "da/d07/a29197.html#a756e7b316cc365f15f24e5e4637303a6", null ]
 ];

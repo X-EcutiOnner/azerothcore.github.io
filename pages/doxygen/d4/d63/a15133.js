@@ -1,7 +1,9 @@
 var a15133 =
 [
-    [ "OnPeriodic", "d4/d63/a15133.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
-    [ "PrepareAuraScript", "d4/d63/a15133.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
-    [ "Register", "d4/d63/a15133.html#aeb388d608830aeb3b30f707304403b41", null ],
-    [ "Validate", "d4/d63/a15133.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
+    [ "boss_azuregosAI", "d4/d63/a15133.html#a839ab1e096d30062d64c1c515a7462a4", null ],
+    [ "JustDied", "d4/d63/a15133.html#aea4d204173b7882d2d9acf8204410947", null ],
+    [ "JustEngagedWith", "d4/d63/a15133.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
+    [ "KilledUnit", "d4/d63/a15133.html#aeefc791e17d2a687f8beae809c44d123", null ],
+    [ "Reset", "d4/d63/a15133.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
+    [ "UpdateAI", "d4/d63/a15133.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
 ];

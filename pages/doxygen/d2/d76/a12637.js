@@ -1,14 +1,15 @@
 var a12637 =
 [
-    [ "boss_general_angerforge", "d2/d76/a12637.html#a0f65a3a8acdca0361f468538b4c8bb5e", null ],
-    [ "JustEngagedWith", "d2/d76/a12637.html#a5b2e7aead30ad3c07786c616c0b2f44e", null ],
-    [ "Reset", "d2/d76/a12637.html#a8f05f134eb43a6812bc2d41734d2429e", null ],
-    [ "SummonAdds", "d2/d76/a12637.html#a723891cc60b4d84b29d395e4ddffff57", null ],
-    [ "SummonMedics", "d2/d76/a12637.html#ac21b4424cdf3e5e336970e1f8d5aea98", null ],
-    [ "UpdateAI", "d2/d76/a12637.html#ae37de4567bf4a03779a87e9d650ac1ea", null ],
-    [ "_addsTimer", "d2/d76/a12637.html#a1ddffcd960d1c06ade7b6de70faeb46d", null ],
-    [ "_cleaveTimer", "d2/d76/a12637.html#a47958223deb7aa97aaf331bdffd9dd2d", null ],
-    [ "_hamStringTimer", "d2/d76/a12637.html#adaa360262079ea390077cea70e401da5", null ],
-    [ "_medics", "d2/d76/a12637.html#ac1039c144c16e70818a199d91cace370", null ],
-    [ "_mightyBlowTimer", "d2/d76/a12637.html#a7bd4ccf9648804c972dec5d7a35eaaa4", null ]
+    [ "worldstate_commandscript", "d2/d76/a12637.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
+    [ "GetCommands", "d2/d76/a12637.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
+    [ "HandleScourgeInvasionBattlesWonCommand", "d2/d76/a12637.html#a1c2167ce554327d674161b7c4f63585c", null ],
+    [ "HandleScourgeInvasionCommand", "d2/d76/a12637.html#a11aeedef82a93f8799fd788a8c492335", null ],
+    [ "HandleScourgeInvasionStartZone", "d2/d76/a12637.html#af242372bd32ed79d839af82f82423837", null ],
+    [ "HandleScourgeInvasionStateCommand", "d2/d76/a12637.html#a5ba0b973087f921dbb764037c8b36134", null ],
+    [ "HandleSunsReachReclamationCounterCommand", "d2/d76/a12637.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
+    [ "HandleSunsReachReclamationPhaseCommand", "d2/d76/a12637.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
+    [ "HandleSunsReachReclamationStatusCommand", "d2/d76/a12637.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
+    [ "HandleSunsReachReclamationSubPhaseCommand", "d2/d76/a12637.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
+    [ "HandleSunwellGateCommand", "d2/d76/a12637.html#a45b73e47c8e9b21063d02922a83e103b", null ],
+    [ "HandleSunwellGateCounterCommand", "d2/d76/a12637.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
 ];

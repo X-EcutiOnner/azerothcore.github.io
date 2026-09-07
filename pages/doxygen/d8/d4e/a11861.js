@@ -1,10 +1,12 @@
 var a11861 =
 [
-    [ "ApplyHarmfulAuraImmuneMask", "d8/d4e/a11861.html#afb005a71205a573357afae14481cf5a4", null ],
-    [ "AuraTypeImmune", "d8/d4e/a11861.html#ad585a49cd0b72b84e2146b8d6acdb2fc", null ],
-    [ "DamageSchoolMask", "d8/d4e/a11861.html#a0917b0bacb75c03a527e170ef08f0811", null ],
-    [ "DispelImmuneMask", "d8/d4e/a11861.html#a142a794d2927b25592fece914f7a40fa", null ],
-    [ "MechanicImmuneMask", "d8/d4e/a11861.html#ad001d68adbf9c985f26476dda31898ad", null ],
-    [ "SchoolImmuneMask", "d8/d4e/a11861.html#a4b4b786ef6fe3bb4247eff61416d3400", null ],
-    [ "SpellEffectImmune", "d8/d4e/a11861.html#afd9f307ea408ac6f88fae8bcde2f1ce7", null ]
+    [ "SpellDestination", "d8/d4e/a11861.html#aa91f31101de3139b2e2d2976dac94686", null ],
+    [ "SpellDestination", "d8/d4e/a11861.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
+    [ "SpellDestination", "d8/d4e/a11861.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
+    [ "SpellDestination", "d8/d4e/a11861.html#a7b8949fa80249aee8bebc56620ec746c", null ],
+    [ "Relocate", "d8/d4e/a11861.html#ab565861d5013130639013e3c4d22d712", null ],
+    [ "RelocateOffset", "d8/d4e/a11861.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
+    [ "_position", "d8/d4e/a11861.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
+    [ "_transportGUID", "d8/d4e/a11861.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
+    [ "_transportOffset", "d8/d4e/a11861.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
 ];

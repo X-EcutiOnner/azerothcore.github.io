@@ -1,7 +1,15 @@
 var a21329 =
 [
-    [ "npc_azure_raider", "df/d88/a21329.html#a841b0fb8a0ca5ca82f3183835281d0e7", null ],
-    [ "Reset", "df/d88/a21329.html#a3579986a1769467cb17d3b15242e0551", null ],
-    [ "UpdateAI", "df/d88/a21329.html#a7aa0c785e976167ef384d7c4dac3294f", null ],
-    [ "_events", "df/d88/a21329.html#a8d25c785974cb8c50b55b547b982b06f", null ]
+    [ "boss_skadi_graufAI", "df/d88/a21329.html#a852687a2fa6ed97aefa230db8ff73b72", null ],
+    [ "DoAction", "df/d88/a21329.html#a51a189e6f1f6c9c6948194d3181a7426", null ],
+    [ "JustDied", "df/d88/a21329.html#a64a4e6cd927f89c11ec55806e403588f", null ],
+    [ "MovementInform", "df/d88/a21329.html#a081fed07ce51e3bfd7a4ce051a4d79ee", null ],
+    [ "Reset", "df/d88/a21329.html#ab04a1a98da7d318ee54c4af9aaabcfae", null ],
+    [ "UpdateAI", "df/d88/a21329.html#add5671b1f9e20590e1121f8c18d064cc", null ],
+    [ "_events", "df/d88/a21329.html#a446de23b703512497888b42ff781da39", null ],
+    [ "_flyingToSide", "df/d88/a21329.html#a92b1963484d7d88f6b4904039db10c9e", null ],
+    [ "_instance", "df/d88/a21329.html#adfcccde7d61c9fa8e850e3d4678d1ad0", null ],
+    [ "_lastSide", "df/d88/a21329.html#a6b4ef194bf96b7fc8dae2b22536e31b1", null ],
+    [ "_passFreshStart", "df/d88/a21329.html#a5c49a178b6729cd555c38e106deeb0a5", null ],
+    [ "_summons", "df/d88/a21329.html#abacd3a15554571bce8f70a519ce1bb0b", null ]
 ];

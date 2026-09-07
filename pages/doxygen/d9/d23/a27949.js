@@ -1,5 +1,8 @@
 var a27949 =
 [
-    [ "go_seer_of_zebhalak", "d9/d23/a27949.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
-    [ "OnGossipHello", "d9/d23/a27949.html#a84009789ce8e8d0d7c42996fde161135", null ]
+    [ "HandleDamage", "d9/d23/a27949.html#a371d3112e619453b7c92933a145bf4d2", null ],
+    [ "HandleDummy", "d9/d23/a27949.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
+    [ "PrepareSpellScript", "d9/d23/a27949.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
+    [ "Register", "d9/d23/a27949.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
+    [ "Validate", "d9/d23/a27949.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
 ];

@@ -1,17 +1,17 @@
 var dir_d35b7636bdd4a8db0bf316c0b0a1358d =
 [
-    [ "AuraScriptTestFramework.h", "dc/df2/a00656.html", "dc/df2/a00656" ],
-    [ "AuraStub.h", "d9/d0f/a00644.html", "d9/d0f/a00644" ],
-    [ "DamageHealInfoStub.h", "d3/d8e/a00647.html", "d3/d8e/a00647" ],
-    [ "IntegrationTestFixture.h", "dc/d91/a00659.html", "dc/d91/a00659" ],
-    [ "ProcChanceTestHelper.h", "da/d36/a00650.html", "da/d36/a00650" ],
-    [ "ProcEventInfoHelper.h", "d4/d10/a00635.html", "d4/d10/a00635" ],
-    [ "SpellInfoTestHelper.h", "d4/d2a/a00632.html", "d4/d2a/a00632" ],
-    [ "TestCreature.cpp", "db/d3a/a00641.html", null ],
-    [ "TestCreature.h", "d1/daa/a00638.html", "d1/daa/a00638" ],
-    [ "TestMap.cpp", "d6/dfa/a00626.html", null ],
-    [ "TestMap.h", "de/ddd/a00653.html", "de/ddd/a00653" ],
-    [ "TestPlayer.h", "da/dd1/a00629.html", "da/dd1/a00629" ],
-    [ "UnitStub.h", "df/d6f/a00623.html", "df/d6f/a00623" ],
-    [ "WorldMock.h", "dc/d4d/a00620.html", "dc/d4d/a00620" ]
+    [ "AuraScriptTestFramework.h", "da/dce/a04397.html", "da/dce/a04397" ],
+    [ "AuraStub.h", "d6/d98/a04391.html", "d6/d98/a04391" ],
+    [ "DamageHealInfoStub.h", "db/daf/a04412.html", "db/daf/a04412" ],
+    [ "IntegrationTestFixture.h", "d4/d61/a04406.html", "d4/d61/a04406" ],
+    [ "ProcChanceTestHelper.h", "dd/df8/a04409.html", "dd/df8/a04409" ],
+    [ "ProcEventInfoHelper.h", "de/d09/a04385.html", "de/d09/a04385" ],
+    [ "SpellInfoTestHelper.h", "d0/dc5/a04415.html", "d0/dc5/a04415" ],
+    [ "TestCreature.cpp", "d3/dd8/a04403.html", null ],
+    [ "TestCreature.h", "d0/dd0/a04400.html", "d0/dd0/a04400" ],
+    [ "TestMap.cpp", "d5/d22/a04394.html", null ],
+    [ "TestMap.h", "d7/d1e/a04382.html", "d7/d1e/a04382" ],
+    [ "TestPlayer.h", "d6/d5c/a04388.html", "d6/d5c/a04388" ],
+    [ "UnitStub.h", "d7/d62/a04379.html", "d7/d62/a04379" ],
+    [ "WorldMock.h", "d0/de0/a04376.html", "d0/de0/a04376" ]
 ];

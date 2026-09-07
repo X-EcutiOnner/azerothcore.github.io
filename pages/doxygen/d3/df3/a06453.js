@@ -1,6 +1,9 @@
 var a06453 =
 [
-    [ "NullGameObjectAI", "d3/df3/a06453.html#a54f6ae6e03fbe423d895ec306fe091db", null ],
-    [ "Permissible", "d3/df3/a06453.html#a850b58bfcc5e613f31fc95e556ed7f91", null ],
-    [ "UpdateAI", "d3/df3/a06453.html#a01b2b14306c75fafe58295a30e5d01e0", null ]
+    [ "AddonInfo", "d3/df3/a06453.html#a60ea66ed93b64c9e182226954a514f53", null ],
+    [ "CRC", "d3/df3/a06453.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
+    [ "Enabled", "d3/df3/a06453.html#ace9f109c395ed84cc01ca4381222c25b", null ],
+    [ "Name", "d3/df3/a06453.html#a45692257c72286e670ab8c9c50014335", null ],
+    [ "State", "d3/df3/a06453.html#a5301b19e44d68540434574f023e62f46", null ],
+    [ "UsePublicKeyOrCRC", "d3/df3/a06453.html#a75e016fa7abee24757c89b97330a6192", null ]
 ];

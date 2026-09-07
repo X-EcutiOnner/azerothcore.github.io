@@ -1,7 +1,8 @@
 var a21917 =
 [
-    [ "Absorb", "dd/d0c/a21917.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "dd/d0c/a21917.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "dd/d0c/a21917.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "dd/d0c/a21917.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "npc_q24545_vegardAI", "dd/d0c/a21917.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "dd/d0c/a21917.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "dd/d0c/a21917.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "dd/d0c/a21917.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "dd/d0c/a21917.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

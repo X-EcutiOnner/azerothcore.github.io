@@ -1,6 +1,6 @@
 var a28149 =
 [
-    [ "guard_shattrath_aldorAI", "d2/d16/a28153.html", "d2/d16/a28153" ],
-    [ "guard_shattrath_aldor", "da/dc7/a28149.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "da/dc7/a28149.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "AreaTrigger_at_area_52_entrance", "da/dc7/a28149.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "da/dc7/a28149.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "da/dc7/a28149.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

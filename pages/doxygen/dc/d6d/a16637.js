@@ -1,11 +1,10 @@
 var a16637 =
 [
-    [ "boss_saviana_ragefireAI", "dc/d6d/a16637.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
-    [ "JustDied", "dc/d6d/a16637.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
-    [ "JustEngagedWith", "dc/d6d/a16637.html#a458eb370872c20441b5ec6ecd2c97500", null ],
-    [ "JustReachedHome", "dc/d6d/a16637.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
-    [ "KilledUnit", "dc/d6d/a16637.html#ac07513681c72d6748246cc7c349d117c", null ],
-    [ "MovementInform", "dc/d6d/a16637.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
-    [ "Reset", "dc/d6d/a16637.html#a4b7f103331c566cbf007a075161505af", null ],
-    [ "UpdateAI", "dc/d6d/a16637.html#af36ca2a359f950a10214d07aad240324", null ]
+    [ "spell_halion_marks_aura", "dc/d6d/a16637.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
+    [ "BeforeDispel", "dc/d6d/a16637.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
+    [ "OnRemove", "dc/d6d/a16637.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
+    [ "PrepareAuraScript", "dc/d6d/a16637.html#acd5285ea5c378b31526440d263c54770", null ],
+    [ "Register", "dc/d6d/a16637.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
+    [ "_removeSpellId", "dc/d6d/a16637.html#aeef9d928c6a8739337251e144558b169", null ],
+    [ "_summonSpellId", "dc/d6d/a16637.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
 ];

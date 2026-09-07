@@ -1,8 +1,8 @@
 var a22297 =
 [
-    [ "HandleApply", "dc/ddf/a22297.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "dc/ddf/a22297.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "dc/ddf/a22297.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "dc/ddf/a22297.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "dc/ddf/a22297.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "npc_adventurous_dwarfAI", "d7/d55/a22301.html", "d7/d55/a22301" ],
+    [ "npc_adventurous_dwarf", "dc/ddf/a22297.html#a15c39e217907189db9be7799e696f310", null ],
+    [ "GetAI", "dc/ddf/a22297.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
+    [ "OnGossipHello", "dc/ddf/a22297.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
+    [ "OnGossipSelect", "dc/ddf/a22297.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
 ];

@@ -1,12 +1,7 @@
 var a18141 =
 [
-    [ "npc_darnavanAI", "d8/d2b/a18141.html#ae06019c24910c873877398f29f5a1737", null ],
-    [ "JustDied", "d8/d2b/a18141.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
-    [ "JustEngagedWith", "d8/d2b/a18141.html#acbaedacea5ad19d82002c25b68623a27", null ],
-    [ "MovementInform", "d8/d2b/a18141.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
-    [ "Reset", "d8/d2b/a18141.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
-    [ "UpdateAI", "d8/d2b/a18141.html#a2b3b5e168989db21fc047acaf01413d9", null ],
-    [ "_canCharge", "d8/d2b/a18141.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
-    [ "_canShatter", "d8/d2b/a18141.html#aa7750edc8051c8ee453143491dccf122", null ],
-    [ "events", "d8/d2b/a18141.html#aa8a022ccb1367432480f72d305c752ac", null ]
+    [ "HandleScript", "d8/d2b/a18141.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "d8/d2b/a18141.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "d8/d2b/a18141.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "d8/d2b/a18141.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

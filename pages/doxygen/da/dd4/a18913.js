@@ -1,6 +1,6 @@
 var a18913 =
 [
-    [ "HandleScript", "da/dd4/a18913.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
-    [ "PrepareSpellScript", "da/dd4/a18913.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
-    [ "Register", "da/dd4/a18913.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
+    [ "npc_the_lich_king_controllerAI", "d9/d74/a18917.html", "d9/d74/a18917" ],
+    [ "npc_the_lich_king_controller", "da/dd4/a18913.html#a32b14d699737497ba7c90d8ef17557d7", null ],
+    [ "GetAI", "da/dd4/a18913.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
 ];

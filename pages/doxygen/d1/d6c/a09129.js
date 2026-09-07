@@ -1,8 +1,8 @@
 var a09129 =
 [
-    [ "PowerPctOrderPred", "d1/d6c/a09129.html#a4e765952cfbc1c83413a8f1c148b1fe4", null ],
-    [ "operator()", "d1/d6c/a09129.html#a215b641a9364c7fcb82778c98f214271", null ],
-    [ "operator()", "d1/d6c/a09129.html#a42cec64c5eaf01f8b6b7e334f57b1d4a", null ],
-    [ "_ascending", "d1/d6c/a09129.html#aed7be288f876fdd35c1cdba53626b03c", null ],
-    [ "_power", "d1/d6c/a09129.html#ad3d61a7c5c84d91bc26c99e778105b7c", null ]
+    [ "CleanDamage", "d1/d6c/a09129.html#ad25ab816a679e323c07873efbc1c2f20", null ],
+    [ "absorbed_damage", "d1/d6c/a09129.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
+    [ "attackType", "d1/d6c/a09129.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
+    [ "hitOutCome", "d1/d6c/a09129.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
+    [ "mitigated_damage", "d1/d6c/a09129.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
 ];

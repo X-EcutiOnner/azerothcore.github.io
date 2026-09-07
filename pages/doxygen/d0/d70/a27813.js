@@ -1,5 +1,7 @@
 var a27813 =
 [
-    [ "achievement_not_even_a_scratch", "d0/d70/a27813.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "d0/d70/a27813.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "HandleDispel", "d0/d70/a27813.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
+    [ "PrepareAuraScript", "d0/d70/a27813.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
+    [ "Register", "d0/d70/a27813.html#a2c67e4327fdd034978d4822311632980", null ],
+    [ "Validate", "d0/d70/a27813.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
 ];

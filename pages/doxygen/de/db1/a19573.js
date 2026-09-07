@@ -1,6 +1,7 @@
 var a19573 =
 [
-    [ "DespawnTime", "de/db1/a19573.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "de/db1/a19573.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "de/db1/a19573.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "FilterTargets", "de/db1/a19573.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "de/db1/a19573.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "de/db1/a19573.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "de/db1/a19573.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

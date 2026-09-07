@@ -1,7 +1,6 @@
 var a16041 =
 [
-    [ "DelayedWindstoneSummonEvent", "d6/dc3/a16041.html#aa97daf8cf3479395ffd6558b6699436a", null ],
-    [ "Execute", "d6/dc3/a16041.html#aa413bc8709bc543b89ffb3df42185475", null ],
-    [ "_playerGUID", "d6/dc3/a16041.html#ad83bb6d87b569f59e99abcc16517745b", null ],
-    [ "_summon", "d6/dc3/a16041.html#af9804d276da5daebab3a37f2c75301ea", null ]
+    [ "npc_giant_spotlightAI", "d6/db0/a16045.html", "d6/db0/a16045" ],
+    [ "npc_giant_spotlight", "d6/dc3/a16041.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
+    [ "GetAI", "d6/dc3/a16041.html#af002a3d0194c991c1f78c720de63cfea", null ]
 ];

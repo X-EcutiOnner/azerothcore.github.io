@@ -1,7 +1,8 @@
 var a13401 =
 [
-    [ "HandleScriptEffect", "dd/ddd/a13401.html#a1b196f3817c16fac48392981b58c1a05", null ],
-    [ "PrepareSpellScript", "dd/ddd/a13401.html#ad44566ff9a44057679e7ce8e1959776d", null ],
-    [ "Register", "dd/ddd/a13401.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
-    [ "Validate", "dd/ddd/a13401.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
+    [ "npc_barnesAI", "d1/d4d/a13405.html", "d1/d4d/a13405" ],
+    [ "npc_barnes", "dd/ddd/a13401.html#aacdc737a94397a90b48b635293fe9c80", null ],
+    [ "GetAI", "dd/ddd/a13401.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
+    [ "OnGossipHello", "dd/ddd/a13401.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
+    [ "OnGossipSelect", "dd/ddd/a13401.html#aa04d577e318f16f581f82761b6014eb5", null ]
 ];

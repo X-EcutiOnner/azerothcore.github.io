@@ -1,7 +1,13 @@
 var a25585 =
 [
-    [ "OnDummyEffect", "df/d98/a25585.html#a333c11c7ee2821bcc4d74d316f55bf5a", null ],
-    [ "PrepareSpellScript", "df/d98/a25585.html#aa15334f23b837a005a34a12d238fc9d5", null ],
-    [ "Register", "df/d98/a25585.html#a1b83195bdc148434f10a6c1ba3c0af0d", null ],
-    [ "Validate", "df/d98/a25585.html#a359fba1475e52b24635cc8dda51cc922", null ]
+    [ "CalcPeriodic", "df/d98/a25585.html#a3ac8408619d30ad092b624c2894d40bb", null ],
+    [ "CalculateExpertiseAmount", "df/d98/a25585.html#ae974eed8254bace2a758917a4b629fa9", null ],
+    [ "CalculateSpellHitAmount", "df/d98/a25585.html#ad42047dcb29d96224f6bd44064b1da32", null ],
+    [ "CalculateSpellPenAmount", "df/d98/a25585.html#a300e649beb785c4ebc84eb1b0613164e", null ],
+    [ "HandleEffectApply", "df/d98/a25585.html#ac01bc37e10b1072fb12aeb0bbfbdcc41", null ],
+    [ "HandlePeriodic", "df/d98/a25585.html#a26c15c411ff09d8107dfc360b71dbc0a", null ],
+    [ "PrepareAuraScript", "df/d98/a25585.html#a8b1230d7a14f87966ecf834fcbf83b58", null ],
+    [ "Register", "df/d98/a25585.html#a47cb8f043f8b8984615520db25696f8e", null ],
+    [ "cap", "df/d98/a25585.html#a5e168cfe5d9b620d523ea780f1e18cc7", null ],
+    [ "maxChance", "df/d98/a25585.html#a11f2c759a5587eb865560eceff5b8414", null ]
 ];

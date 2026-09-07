@@ -1,12 +1,12 @@
 var a28545 =
 [
-    [ "categoryId", "d9/d8e/a28545.html#a1de0e4302757f18c08b90b40e059737b", null ],
-    [ "count", "d9/d8e/a28545.html#a93aac150067979467f56d9919ff665a4", null ],
-    [ "flags", "d9/d8e/a28545.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
-    [ "ID", "d9/d8e/a28545.html#a843fee247948d02f7aaf04144cb37ef5", null ],
-    [ "mapID", "d9/d8e/a28545.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
-    [ "name", "d9/d8e/a28545.html#a806cfeddc475994f1b421679bd9699e6", null ],
-    [ "points", "d9/d8e/a28545.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
-    [ "refAchievement", "d9/d8e/a28545.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
-    [ "requiredFaction", "d9/d8e/a28545.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
+    [ "npc_elder_clearwaterAI", "d9/d8e/a28545.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
+    [ "DoAction", "d9/d8e/a28545.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
+    [ "GetData", "d9/d8e/a28545.html#a077c02bf06b16439225a5cf8d83babf2", null ],
+    [ "UpdateAI", "d9/d8e/a28545.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
+    [ "events", "d9/d8e/a28545.html#a267fec22dc3d7272cae74267d0567618", null ],
+    [ "finished", "d9/d8e/a28545.html#af51d6abb8fc8b59d068156a4859a377e", null ],
+    [ "finishWarning", "d9/d8e/a28545.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
+    [ "preWarning", "d9/d8e/a28545.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
+    [ "startWarning", "d9/d8e/a28545.html#a01545211dec4338ac44304ebc7f18a97", null ]
 ];

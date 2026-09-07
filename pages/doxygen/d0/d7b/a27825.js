@@ -1,5 +1,6 @@
 var a27825 =
 [
-    [ "achievement_fa_la_la_la_ogrila", "d0/d7b/a27825.html#ab98a8ab33fec62936bf3c235659c1445", null ],
-    [ "OnCheck", "d0/d7b/a27825.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
+    [ "CalculateAmount", "d0/d7b/a27825.html#aa27de1a2fc517a4b796a10e780239880", null ],
+    [ "PrepareAuraScript", "d0/d7b/a27825.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
+    [ "Register", "d0/d7b/a27825.html#a5ee969ad0916a9337849c75c18f13c29", null ]
 ];

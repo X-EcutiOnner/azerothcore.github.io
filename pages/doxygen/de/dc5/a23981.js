@@ -1,10 +1,6 @@
 var a23981 =
 [
-    [ "npc_infernal_attackerAI", "de/dc5/a23981.html#ae04c4e026f22bd650bb33940b923df9a", null ],
-    [ "IsSummonedBy", "de/dc5/a23981.html#a926e6cd6772784872a905de7245007ac", null ],
-    [ "JustDied", "de/dc5/a23981.html#a1822131520f98dd5f1dd637282f20ae3", null ],
-    [ "Reset", "de/dc5/a23981.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
-    [ "SpellHit", "de/dc5/a23981.html#a956f3fb1e341519817599df08afc2589", null ],
-    [ "UpdateAI", "de/dc5/a23981.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
-    [ "casterGUID", "de/dc5/a23981.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
+    [ "instance_the_eye_InstanceMapScript", "d5/d74/a23985.html", "d5/d74/a23985" ],
+    [ "instance_the_eye", "de/dc5/a23981.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "de/dc5/a23981.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

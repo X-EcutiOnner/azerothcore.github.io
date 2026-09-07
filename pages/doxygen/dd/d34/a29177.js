@@ -1,5 +1,4 @@
 var a29177 =
 [
-    [ "Price", "dd/d34/a29177.html#a9cf01cf0d41d49613b4ceaf1eeb1716b", null ],
-    [ "Slot", "dd/d34/a29177.html#aa53247914bda0ceca015b8b9ca117379", null ]
+    [ "ID", "dd/d34/a29177.html#a27cfc07c5aa7efe7a6f0cb62ea691f81", null ]
 ];

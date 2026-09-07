@@ -1,8 +1,11 @@
 var a11869 =
 [
-    [ "DirectionType", "d8/d81/a11869.html#a8491033c0286895c2d4d3280cfd529f0", null ],
-    [ "ObjectType", "d8/d81/a11869.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
-    [ "ReferenceType", "d8/d81/a11869.html#a44e310a789c4c5a288f07c9254ad389a", null ],
-    [ "SelectionCategory", "d8/d81/a11869.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
-    [ "SelectionCheckType", "d8/d81/a11869.html#a35c8d221b47de13408a0256598fa9d63", null ]
+    [ "SpellValue", "d8/d81/a11869.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
+    [ "AuraDuration", "d8/d81/a11869.html#af44c190ba8a8636d78f8d271656bdd02", null ],
+    [ "AuraStackAmount", "d8/d81/a11869.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
+    [ "EffectBasePoints", "d8/d81/a11869.html#a4de44adea4dc620f0871215e4d4f611d", null ],
+    [ "ForcedCritResult", "d8/d81/a11869.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
+    [ "MaxAffectedTargets", "d8/d81/a11869.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
+    [ "MiscVal", "d8/d81/a11869.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
+    [ "RadiusMod", "d8/d81/a11869.html#a135bbce8300101411e87a70467dbbd57", null ]
 ];

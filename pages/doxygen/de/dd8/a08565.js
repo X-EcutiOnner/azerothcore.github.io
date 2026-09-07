@@ -1,12 +1,13 @@
 var a08565 =
 [
-    [ "QuaternionData", "de/dd8/a08565.html#a8a582c133d5fba901470a776c7144432", null ],
-    [ "QuaternionData", "de/dd8/a08565.html#a7f68a7bf3da861de017168eef5b8c6a0", null ],
-    [ "FromEulerAnglesZYX", "de/dd8/a08565.html#a4c5f4bc5c0bd4fff3f3ad77e6fd74c09", null ],
-    [ "IsUnit", "de/dd8/a08565.html#ab0330c115f97ff6368d8e8ab9820191e", null ],
-    [ "ToEulerAnglesZYX", "de/dd8/a08565.html#a65c564f6ae82c8f1bfb8f7786b5f0b90", null ],
-    [ "w", "de/dd8/a08565.html#a1f5567b478ebb94161786c85a29ad66a", null ],
-    [ "x", "de/dd8/a08565.html#aca37b701a67eefbf72922a5e7bf98cb2", null ],
-    [ "y", "de/dd8/a08565.html#ac222999cbb4681893fe591a5afc3587d", null ],
-    [ "z", "de/dd8/a08565.html#a7418b0e143cc32169864d77870db5ad7", null ]
+    [ "GameObjectModelOwnerImpl", "de/dd8/a08565.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
+    [ "DebugVisualizeCorner", "de/dd8/a08565.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
+    [ "GetDisplayId", "de/dd8/a08565.html#a4a694456955c19e76d8c84befc02c920", null ],
+    [ "GetOrientation", "de/dd8/a08565.html#acb968e3bd921aac111a2e06f2604b040", null ],
+    [ "GetPhaseMask", "de/dd8/a08565.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
+    [ "GetPosition", "de/dd8/a08565.html#a9ba2b29d30b38895effe97637e050988", null ],
+    [ "GetScale", "de/dd8/a08565.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
+    [ "IsSpawned", "de/dd8/a08565.html#ae47eb25d16de37122042402443db6f3d", null ],
+    [ "IsTransport", "de/dd8/a08565.html#a1ca672aa490bd608de30bda7501fc03e", null ],
+    [ "_owner", "de/dd8/a08565.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
 ];

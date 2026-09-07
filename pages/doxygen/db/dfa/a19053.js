@@ -1,7 +1,6 @@
 var a19053 =
 [
-    [ "npc_impaling_spearAI", "db/dfa/a19053.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
-    [ "Reset", "db/dfa/a19053.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
-    [ "UpdateAI", "db/dfa/a19053.html#acb187a58b0ba256b4e003655ac36db34", null ],
-    [ "_vehicleCheckTimer", "db/dfa/a19053.html#a264874b9f6f0609792d4b3a325e54f59", null ]
+    [ "npc_crok_scourgebaneAI", "db/dcd/a19057.html", "db/dcd/a19057" ],
+    [ "npc_crok_scourgebane", "db/dfa/a19053.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
+    [ "GetAI", "db/dfa/a19053.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
 ];

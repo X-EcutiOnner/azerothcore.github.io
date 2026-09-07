@@ -1,5 +1,5 @@
 var a29117 =
 [
-    [ "ID", "dc/d4a/a29117.html#a142c8a5e22234e6317ff113618559b8b", null ],
-    [ "Value", "dc/d4a/a29117.html#a693631ac3ce915a1c4adf565517eacf9", null ]
+    [ "ID", "dc/d4a/a29117.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "dc/d4a/a29117.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

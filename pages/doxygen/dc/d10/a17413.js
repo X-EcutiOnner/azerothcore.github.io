@@ -1,6 +1,5 @@
 var a17413 =
 [
-    [ "npc_pos_leaderAI", "da/dc5/a17417.html", "da/dc5/a17417" ],
-    [ "npc_pos_leader", "dc/d10/a17413.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
-    [ "GetAI", "dc/d10/a17413.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
+    [ "at_hor_battered_hilt_throw", "dc/d10/a17413.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
+    [ "OnTrigger", "dc/d10/a17413.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
 ];

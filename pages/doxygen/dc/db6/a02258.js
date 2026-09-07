@@ -1,4 +1,5 @@
 var a02258 =
 [
-    [ "ScriptRegistry< WorldObjectScript >", "dc/db6/a02258.html#a2e5b964820eedff4e7b34c6c79cfca6d", null ]
+    [ "go_commandscript", "d6/db3/a12473.html", "d6/db3/a12473" ],
+    [ "AddSC_go_commandscript", "dc/db6/a02258.html#a95fcb467686a27e069827ed3775df197", null ]
 ];

@@ -1,6 +1,8 @@
 var a26821 =
 [
-    [ "HandleScriptEffect", "db/dd3/a26821.html#ab958c74ba8b40488751e5137eb0b6a66", null ],
-    [ "PrepareSpellScript", "db/dd3/a26821.html#a810fcbfe27f3c6991d1c5f599609b6f7", null ],
-    [ "Register", "db/dd3/a26821.html#a12c61c9057250f12ea50be74ba74c948", null ]
+    [ "CheckProc", "db/dd3/a26821.html#a14978c8908b7a928459c2f6ef9adfac2", null ],
+    [ "HandleProc", "db/dd3/a26821.html#ac888d49403a03aaf9a37432c3c119241", null ],
+    [ "PrepareAuraScript", "db/dd3/a26821.html#ab63e1f31dbc34dd2f44a6771631a2330", null ],
+    [ "Register", "db/dd3/a26821.html#ad88268da8fae421f76a5e644aae6b296", null ],
+    [ "Validate", "db/dd3/a26821.html#a0cdb80ee885922a9a38c0e2bea4d33af", null ]
 ];

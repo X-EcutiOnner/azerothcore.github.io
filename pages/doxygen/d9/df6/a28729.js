@@ -1,4 +1,6 @@
 var a28729 =
 [
-    [ "cost", "d9/df6/a28729.html#a624313c8b56b9755593b2f4bacd306d7", null ]
+    [ "npc_necropolis_proxy", "d9/df6/a28729.html#a73f92ee73673172989d48064e5984db0", null ],
+    [ "SpellHit", "d9/df6/a28729.html#a90d1ab55683a6409403e24291643cca5", null ],
+    [ "SpellHitTarget", "d9/df6/a28729.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
 ];

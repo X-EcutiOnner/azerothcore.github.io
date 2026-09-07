@@ -1,8 +1,6 @@
 var a26109 =
 [
-    [ "AfterApply", "d8/d21/a26109.html#a972d3ec2a26bbf93e47f696f44ff22b0", null ],
-    [ "AfterRemove", "d8/d21/a26109.html#a29d4dbe7d36d256cf89fdde1bbabac85", null ],
-    [ "PrepareAuraScript", "d8/d21/a26109.html#a1e44672c1f47dbd8e57f7653d905e3e6", null ],
-    [ "Register", "d8/d21/a26109.html#a293ea418e290d96bbcaaed24cad663b0", null ],
-    [ "Validate", "d8/d21/a26109.html#aa67afc85c142006efad986859f14941c", null ]
+    [ "HandleProc", "d8/d21/a26109.html#aa333d52d905e722554d8d61c4b9cb656", null ],
+    [ "PrepareAuraScript", "d8/d21/a26109.html#aac4320b061d627e4ffef737d2e858ef3", null ],
+    [ "Register", "d8/d21/a26109.html#ad58fea9afa6a3596437a324ec525982e", null ]
 ];

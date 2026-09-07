@@ -1,6 +1,6 @@
 var a18193 =
 [
-    [ "PrepareSpellScript", "de/d5a/a18193.html#a9041ce6139de9a48621d6898ddcca673", null ],
-    [ "RecalculateDamage", "de/d5a/a18193.html#abfb7c002577a59864fb2aa069b713c0a", null ],
-    [ "Register", "de/d5a/a18193.html#a4308449e8cbe7ed59598a837024141cb", null ]
+    [ "npc_vengeful_shadeAI", "d2/dce/a18197.html", "d2/dce/a18197" ],
+    [ "npc_vengeful_shade", "de/d5a/a18193.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
+    [ "GetAI", "de/d5a/a18193.html#afa2c672015b43d83bd55050ed020f7e5", null ]
 ];

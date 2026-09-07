@@ -1,5 +1,6 @@
 var a23929 =
 [
-    [ "at_commander_dawnforge", "d5/ded/a23929.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "d5/ded/a23929.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
+    [ "HandlePeriodic", "d5/ded/a23929.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
+    [ "PrepareAuraScript", "d5/ded/a23929.html#a2b809a60626119f6bcf595bd3581c2be", null ],
+    [ "Register", "d5/ded/a23929.html#a299f84e9c12406c79a56999a13de5c1c", null ]
 ];

@@ -1,6 +1,7 @@
 var a17405 =
 [
-    [ "instance_pit_of_saron_InstanceScript", "d2/de3/a17409.html", "d2/de3/a17409" ],
-    [ "instance_pit_of_saron", "d1/d51/a17405.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
-    [ "GetInstanceScript", "d1/d51/a17405.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
+    [ "HandleEffectPeriodic", "d1/d51/a17405.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
+    [ "PrepareAuraScript", "d1/d51/a17405.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
+    [ "Register", "d1/d51/a17405.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
+    [ "Validate", "d1/d51/a17405.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
 ];

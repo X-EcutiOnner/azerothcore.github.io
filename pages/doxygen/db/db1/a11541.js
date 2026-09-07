@@ -1,6 +1,6 @@
 var a11541 =
 [
-    [ "QuestUpdateFailedTimer", "db/db1/a11541.html#ae31656f1e3b3d145809113a8b7ce4400", null ],
-    [ "Write", "db/db1/a11541.html#a35a0b6609205c7eaa1ea6c3e4e1486ac", null ],
-    [ "QuestId", "db/db1/a11541.html#afce18ee4eea44b6c223ff2efc782d31d", null ]
+    [ "DismissCritter", "db/db1/a11541.html#a87e35583063b340f014d21cd02c54cab", null ],
+    [ "Read", "db/db1/a11541.html#a411b65505e8a332ecf9291a670dc38c4", null ],
+    [ "CritterGUID", "db/db1/a11541.html#a89c071e81c9d39c099c32c4976f15304", null ]
 ];

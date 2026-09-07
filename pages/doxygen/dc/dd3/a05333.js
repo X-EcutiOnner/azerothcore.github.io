@@ -1,11 +1,16 @@
 var a05333 =
 [
-    [ "material", "dc/dd3/a05333.html#a29addcb613bc63a100633e612d1dc2d2", null ],
-    [ "pos_x", "dc/dd3/a05333.html#a02e9d8789336d77e34bffa19adbab394", null ],
-    [ "pos_y", "dc/dd3/a05333.html#ac3162ce321a1f21e4e6fe35041e49a6a", null ],
-    [ "pos_z", "dc/dd3/a05333.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3", null ],
-    [ "xtiles", "dc/dd3/a05333.html#a94789843c68d705184e6332ac46bd69d", null ],
-    [ "xverts", "dc/dd3/a05333.html#a0548c3fdb216c115a7d3843e4fbc6de3", null ],
-    [ "ytiles", "dc/dd3/a05333.html#ac50224cdce231460c78c3e0f077b555d", null ],
-    [ "yverts", "dc/dd3/a05333.html#aa9ecb62b53af527b3bd855b8e93ba604", null ]
+    [ "operator==", "dc/dd3/a05333.html#a74f960a358074ddb87d4e1de48e11e53", null ],
+    [ "baseUnitDim", "dc/dd3/a05333.html#a49b023bc34148196590dfd5c42fe49f6", null ],
+    [ "cellSizeHorizontal", "dc/dd3/a05333.html#a37b48fdf0ff629ff18e262cf1b74604a", null ],
+    [ "cellSizeVertical", "dc/dd3/a05333.html#aa3fa9b9705e7a0b4e514f9a900ed4dcd", null ],
+    [ "maxSimplificationError", "dc/dd3/a05333.html#afbd14408be8abc7887e79b766d3fe7a5", null ],
+    [ "padding0", "dc/dd3/a05333.html#a756affcba9ba67923634b050be35e2b7", null ],
+    [ "tilesPerMapEdge", "dc/dd3/a05333.html#a620f2c8f7dae449054a0c9f7fdbb7bdd", null ],
+    [ "vertexPerMapEdge", "dc/dd3/a05333.html#a6a95c1c214c3102d2618eaf3df850232", null ],
+    [ "vertexPerTileEdge", "dc/dd3/a05333.html#a88fd7166e3555df1307ad0e1a7dfc8f6", null ],
+    [ "walkableClimb", "dc/dd3/a05333.html#a6d1d6f164c716e71d0dff034c9e8042a", null ],
+    [ "walkableHeight", "dc/dd3/a05333.html#aaaf165b5e3b8361d37837e6b93609557", null ],
+    [ "walkableRadius", "dc/dd3/a05333.html#a16440d4ea4533b065cfa8aac216c275a", null ],
+    [ "walkableSlopeAngle", "dc/dd3/a05333.html#af825b2f1f457e551a58f343864e3c100", null ]
 ];

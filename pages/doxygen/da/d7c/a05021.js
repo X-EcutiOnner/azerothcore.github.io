@@ -1,13 +1,9 @@
 var a05021 =
 [
-    [ "anonymous_namespace{FrostboltPvPTest.cpp}::FrostboltPvPTest", "dc/da2/a29939.html", "dc/da2/a29939" ],
-    [ "TEST_F", "da/d7c/a05021.html#a3c2cf023118b4939342706355b5e3e23", null ],
-    [ "TEST_F", "da/d7c/a05021.html#a505e9af595a807914a390aa3fe2b5a3f", null ],
-    [ "TEST_F", "da/d7c/a05021.html#a3a2bcf2a861c5ae0aa63621f4768abd6", null ],
-    [ "TEST_F", "da/d7c/a05021.html#ac1d8ca954bc5412a7a494f77aae4ed64", null ],
-    [ "TEST_F", "da/d7c/a05021.html#a1baefe138ddf5a4c83ade03ad1e71835", null ],
-    [ "FROSTBOLT_BASE_DAMAGE", "da/d7c/a05021.html#a620444164ecdf992df4d10b61454d3cf", null ],
-    [ "FROSTBOLT_DURATION_MS", "da/d7c/a05021.html#a6d55f8f70ec9e5652a08520d2533600f", null ],
-    [ "FROSTBOLT_SLOW_PCT", "da/d7c/a05021.html#a21ce900035aa8f72aef05d123f52ee4a", null ],
-    [ "FROSTBOLT_SPELL_ID", "da/d7c/a05021.html#a896c09069ad88a91db2f3b2182109078", null ]
+    [ "getAngle", "da/d7c/a05021.html#a5ce837ff4fb41332a25e6b0dc0f5b848", null ],
+    [ "getCircleAreaByRadius", "da/d7c/a05021.html#a18ed540c327b1fd656065d8cbfc4844f", null ],
+    [ "getCirclePerimeterByRadius", "da/d7c/a05021.html#a62641094ea3c1b9506faefa7a35ba456", null ],
+    [ "getCylinderVolume", "da/d7c/a05021.html#a95ce6760beb476a4c24ff46d3069103f", null ],
+    [ "getSlopeAngle", "da/d7c/a05021.html#a61d2d33d44f335480a833a04436620ba", null ],
+    [ "getSlopeAngleAbs", "da/d7c/a05021.html#a0b02845f56a27df498d0598d259ca5e1", null ]
 ];

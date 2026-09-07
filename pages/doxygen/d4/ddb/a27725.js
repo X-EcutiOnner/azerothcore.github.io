@@ -1,6 +1,6 @@
 var a27725 =
 [
-    [ "HandleOnHit", "d4/ddb/a27725.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "d4/ddb/a27725.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "d4/ddb/a27725.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "HandleSchoolDMG", "d4/ddb/a27725.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
+    [ "PrepareSpellScript", "d4/ddb/a27725.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
+    [ "Register", "d4/ddb/a27725.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
 ];

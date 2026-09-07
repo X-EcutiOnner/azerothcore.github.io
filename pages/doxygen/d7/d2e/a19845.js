@@ -1,12 +1,13 @@
 var a19845 =
 [
-    [ "boss_ionar", "d7/d2e/a19845.html#a323da67c3ff33d09d07cf0369600a473", null ],
-    [ "JustDied", "d7/d2e/a19845.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
-    [ "JustEngagedWith", "d7/d2e/a19845.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
-    [ "KilledUnit", "d7/d2e/a19845.html#ae6b1225147bc146066185d4d21c19f14", null ],
-    [ "Reset", "d7/d2e/a19845.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
-    [ "ScheduleEvents", "d7/d2e/a19845.html#af74dda7ad9cd156036689694b3bb9986", null ],
-    [ "SpellHit", "d7/d2e/a19845.html#a85c0ba28de5a684435246539d2106dcd", null ],
-    [ "Split", "d7/d2e/a19845.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
-    [ "UpdateAI", "d7/d2e/a19845.html#ad6fb218e743bad9fec357ea7d862744d", null ]
+    [ "boss_drakosAI", "d7/d2e/a19845.html#a75d771095897081457353be898b332c3", null ],
+    [ "JustDied", "d7/d2e/a19845.html#a7235760bd407f49802bc9e26e8f3f22c", null ],
+    [ "JustEngagedWith", "d7/d2e/a19845.html#a4bc15075d9e9a913783da482a7a167c7", null ],
+    [ "JustSummoned", "d7/d2e/a19845.html#a06e21c4e5bd1a882ada074b9595d4088", null ],
+    [ "KilledUnit", "d7/d2e/a19845.html#a4bd3e45b45660311d7510f58a1850648", null ],
+    [ "MoveInLineOfSight", "d7/d2e/a19845.html#a10b2ca39887e906e6e1e33df82afc1da", null ],
+    [ "Reset", "d7/d2e/a19845.html#a6fd78f4f45b9f2104acc481fb0f2763f", null ],
+    [ "UpdateAI", "d7/d2e/a19845.html#abf761c7cda4031c31354d8c8d42963e0", null ],
+    [ "events", "d7/d2e/a19845.html#ae86ad4fcc57cc1137411c881355f2f51", null ],
+    [ "pInstance", "d7/d2e/a19845.html#adc9461ae5334634a9140f338547688b4", null ]
 ];

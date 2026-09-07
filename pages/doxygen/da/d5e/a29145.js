@@ -1,7 +1,14 @@
 var a29145 =
 [
-    [ "ID", "da/d5e/a29145.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "da/d5e/a29145.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "da/d5e/a29145.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "da/d5e/a29145.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "HasFlag", "da/d5e/a29145.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
+    [ "alliance", "da/d5e/a29145.html#a44c3824aef4f4724c189727f12801a5b", null ],
+    [ "CinematicSequence", "da/d5e/a29145.html#a33a01b1c26b21706d9898af246f2a0df", null ],
+    [ "expansion", "da/d5e/a29145.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
+    [ "FactionID", "da/d5e/a29145.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
+    [ "Flags", "da/d5e/a29145.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
+    [ "model_f", "da/d5e/a29145.html#a4807227fd863e247b18d29db0ea8236a", null ],
+    [ "model_m", "da/d5e/a29145.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
+    [ "name", "da/d5e/a29145.html#a4970323e45feb3f74b47420648371ab6", null ],
+    [ "RaceID", "da/d5e/a29145.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
+    [ "TeamID", "da/d5e/a29145.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
 ];

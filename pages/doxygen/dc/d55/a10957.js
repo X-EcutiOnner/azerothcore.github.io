@@ -1,7 +1,6 @@
 var a10957 =
 [
-    [ "Emote", "dc/d55/a10957.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
-    [ "Write", "dc/d55/a10957.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
-    [ "EmoteID", "dc/d55/a10957.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
-    [ "Guid", "dc/d55/a10957.html#ab96a1c0933e90872f54eb0995098274a", null ]
+    [ "BuyBankSlotResult", "dc/d55/a10957.html#a93b60814becc451c38f06f9702a9e027", null ],
+    [ "Write", "dc/d55/a10957.html#a55a6609863b0d3ef966f222526268acb", null ],
+    [ "Result", "dc/d55/a10957.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
 ];

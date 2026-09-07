@@ -1,16 +1,15 @@
 var a21873 =
 [
-    [ "npc_battle_at_valhalasAI", "d5/da6/a21873.html#a2118bb3a502d2082297631e3dab298da", null ],
-    [ "EndBattle", "d5/da6/a21873.html#afe408345e99bfc27e3abf3335c72de5d", null ],
-    [ "JustReachedHome", "d5/da6/a21873.html#ac8f8ed2571587e8af65f92d0271d786c", null ],
-    [ "JustSummoned", "d5/da6/a21873.html#ac2c766dd298bf074f20968006a361036", null ],
-    [ "PrepareSummons", "d5/da6/a21873.html#a80e97ceef22290d241fa3f5894331c08", null ],
-    [ "Reset", "d5/da6/a21873.html#a303f268cbcc0e2c731c505c721c55da6", null ],
-    [ "ResetData", "d5/da6/a21873.html#a3bc670704f0e235ae4022ba796a333b9", null ],
-    [ "StartBattle", "d5/da6/a21873.html#a01dff1aba876527951d3c83ae8b240ff", null ],
-    [ "UpdateAI", "d5/da6/a21873.html#a3294ef4eb601df5156db0ba416d3aabe", null ],
-    [ "currentQuest", "d5/da6/a21873.html#a7c8a2c0710f68d617bd7edd71632c744", null ],
-    [ "events", "d5/da6/a21873.html#a74ac913100bb6ecd904f0b2f0e590271", null ],
-    [ "playerGUID", "d5/da6/a21873.html#aac5d72cbc9f07d43dc6d9b722d0626b8", null ],
-    [ "summons", "d5/da6/a21873.html#a3e894857fd5e3f4ccc5fc40c47a8cabe", null ]
+    [ "npc_q24545_lich_kingAI", "d5/da6/a21873.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
+    [ "CleanAll", "d5/da6/a21873.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
+    [ "JustSummoned", "d5/da6/a21873.html#a6049433795be30eb31e240a4939ad42f", null ],
+    [ "Reset", "d5/da6/a21873.html#aebd396de51edef790cd0b599c94f78a0", null ],
+    [ "SetData", "d5/da6/a21873.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
+    [ "SetGUID", "d5/da6/a21873.html#ac7c41ebfa7979907aea246af20bcf368", null ],
+    [ "SpellHitTarget", "d5/da6/a21873.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
+    [ "SummonedCreatureDespawn", "d5/da6/a21873.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
+    [ "UpdateAI", "d5/da6/a21873.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
+    [ "events", "d5/da6/a21873.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
+    [ "playerGUID", "d5/da6/a21873.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
+    [ "summons", "d5/da6/a21873.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
 ];

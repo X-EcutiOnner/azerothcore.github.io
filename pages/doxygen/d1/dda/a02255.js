@@ -1,11 +1,10 @@
 var a02255 =
 [
-    [ "SpellScriptLoader", "d7/d04/a10855.html", "d7/d04/a10855" ],
-    [ "GenericSpellAndAuraScriptLoader< Ts >", "df/d28/a10859.html", "df/d28/a10859" ],
-    [ "RegisterSpellAndAuraScriptPair", "d1/dda/a02255.html#a69b21d1b83cecaba944f4e9379bc866c", null ],
-    [ "RegisterSpellAndAuraScriptPairWithArgs", "d1/dda/a02255.html#aeffc3c8d08a35d5969c33508488e9051", null ],
-    [ "RegisterSpellScript", "d1/dda/a02255.html#ae221e5976ab29ba14fec3b073a03670f", null ],
-    [ "RegisterSpellScriptWithArgs", "d1/dda/a02255.html#aedecf91f4fce46852db865deae243e1f", null ],
-    [ "is_AuraScript", "d1/dda/a02255.html#a08facc7292565931370e1cc514f726e1", null ],
-    [ "is_SpellScript", "d1/dda/a02255.html#a2b573b538dcbf3da43ae603709d93bf2", null ]
+    [ "ban_commandscript", "dc/d83/a12413.html", "dc/d83/a12413" ],
+    [ "BanMode", "d1/dda/a02255.html#aee9acfaac97a86a40bad738a75eb5264", [
+      [ "BAN_ACCOUNT", "d1/dda/a02255.html#aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1", null ],
+      [ "BAN_CHARACTER", "d1/dda/a02255.html#aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79", null ],
+      [ "BAN_IP", "d1/dda/a02255.html#aee9acfaac97a86a40bad738a75eb5264ab68a6a6d80749ee19c73fc9dd4f4d74b", null ]
+    ] ],
+    [ "AddSC_ban_commandscript", "d1/dda/a02255.html#aac8ae57b7b7f9ef5cb5aa2975ef444ff", null ]
 ];

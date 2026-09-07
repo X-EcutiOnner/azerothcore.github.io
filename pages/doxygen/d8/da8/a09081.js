@@ -1,11 +1,14 @@
 var a09081 =
 [
-    [ "DispelInfo", "d8/da8/a09081.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
-    [ "GetDispeller", "d8/da8/a09081.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
-    [ "GetDispellerSpellId", "d8/da8/a09081.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
-    [ "GetRemovedCharges", "d8/da8/a09081.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
-    [ "SetRemovedCharges", "d8/da8/a09081.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
-    [ "_chargesRemoved", "d8/da8/a09081.html#a5b6105f37470acb57bbda3e14ee664be", null ],
-    [ "_dispellerSpell", "d8/da8/a09081.html#a484e6d516c5de30413e97f2c4abb5515", null ],
-    [ "_dispellerUnit", "d8/da8/a09081.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
+    [ "PassengerSet", "d8/da8/a09081.html#aa6421ebd51e84c819604e18e93729d27", null ],
+    [ "Transport", "d8/da8/a09081.html#a36928c178aa490c02aa25b4b12e2bf63", null ],
+    [ "AddPassenger", "d8/da8/a09081.html#ac5c328f816b0358a68265322219357c1", null ],
+    [ "CalculatePassengerOffset", "d8/da8/a09081.html#a327d37eef797c4197b8bba503bd8a3f8", null ],
+    [ "CalculatePassengerPosition", "d8/da8/a09081.html#ae4e716194ce5e9c466a8fe5c53ee0980", null ],
+    [ "DelayedUpdate", "d8/da8/a09081.html#aabc885fccc7a4a4d6a98f9ed8b39cd43", null ],
+    [ "GetPassengers", "d8/da8/a09081.html#a3f70c977ba2450d4244e54e4260f6ea1", null ],
+    [ "GetPathProgress", "d8/da8/a09081.html#a4ecab9f8617918aea3a26cc0feb9c021", null ],
+    [ "RemovePassenger", "d8/da8/a09081.html#a1d70745a16a1cbf3307a25ff4a53c75d", null ],
+    [ "SetPathProgress", "d8/da8/a09081.html#acb68e75a78fa196a4b514abd24c0e322", null ],
+    [ "_passengers", "d8/da8/a09081.html#adc2089495aadaab23414ecae3b2df180", null ]
 ];

@@ -1,15 +1,18 @@
 var a00773 =
 [
-    [ "SpellProcDBCValidationTest", "d0/dc6/a30027.html", "d0/dc6/a30027" ],
-    [ "SpellProcDBCValidationParamTest", "d6/d2e/a30031.html", null ],
-    [ "INSTANTIATE_TEST_SUITE_P", "d8/dba/a00773.html#ac236754bdabd912728a4ccf0d50768c1", null ],
-    [ "TEST_F", "d8/dba/a00773.html#a5d68edc629baf508a75ad0306d5a9123", null ],
-    [ "TEST_F", "d8/dba/a00773.html#aae6111f031cb367b403d6c1fae593245", null ],
-    [ "TEST_F", "d8/dba/a00773.html#a4dd4a9f2ad7b9f9c90f178e412d6853a", null ],
-    [ "TEST_F", "d8/dba/a00773.html#a3140cdc3c6be8230853a19725adce0df", null ],
-    [ "TEST_F", "d8/dba/a00773.html#a16d0dc4448f95f4d571e474baa22b657", null ],
-    [ "TEST_F", "d8/dba/a00773.html#a14eea23ad6fde730eac3ff84fdffc8ad", null ],
-    [ "TEST_F", "d8/dba/a00773.html#a67fce2ede01fc117b24ed6c0015ee5d5", null ],
-    [ "TEST_F", "d8/dba/a00773.html#a918f689a14967e97deeb88c36f959a81", null ],
-    [ "TEST_P", "d8/dba/a00773.html#a9c2b63e811e5bae6092ac12f33e514b8", null ]
+    [ "AuctionHouseScript", "d8/d5d/a10737.html", "d8/d5d/a10737" ],
+    [ "AuctionHouseHook", "d8/dba/a00773.html#a12159e90d998de411ceb193c223f26c9", [
+      [ "AUCTIONHOUSEHOOK_ON_AUCTION_ADD", "d8/dba/a00773.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0", null ],
+      [ "AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE", "d8/dba/a00773.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2", null ],
+      [ "AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL", "d8/dba/a00773.html#a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff", null ],
+      [ "AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE", "d8/dba/a00773.html#a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL", "d8/dba/a00773.html#a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL", "d8/dba/a00773.html#a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL", "d8/dba/a00773.html#a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL", "d8/dba/a00773.html#a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL", "d8/dba/a00773.html#a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL", "d8/dba/a00773.html#a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE", "d8/dba/a00773.html#a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9", null ],
+      [ "AUCTIONHOUSEHOOK_END", "d8/dba/a00773.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc", null ]
+    ] ]
 ];

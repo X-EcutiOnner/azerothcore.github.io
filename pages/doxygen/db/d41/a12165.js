@@ -1,7 +1,8 @@
 var a12165 =
 [
-    [ "PlayerDumpReader", "db/d41/a12165.html#ad630b61e298fb1ddf165481c9a14e077", null ],
-    [ "LoadDump", "db/d41/a12165.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
-    [ "LoadDumpFromFile", "db/d41/a12165.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
-    [ "LoadDumpFromString", "db/d41/a12165.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
+    [ "ToCloud9GuildHooks", "db/d41/a12165.html#af92ed08219fca9b8967779a936332bee", null ],
+    [ "~ToCloud9GuildHooks", "db/d41/a12165.html#a6352d89ded523200d4a60b91ff5c7fa4", null ],
+    [ "OnGuildMemberAdded", "db/d41/a12165.html#aea11728fdf49e5a6677051ab61d87180", null ],
+    [ "OnGuildMemberLeft", "db/d41/a12165.html#adada89524f817edcc5d2cfafb93ee6a1", null ],
+    [ "OnGuildMemberRemoved", "db/d41/a12165.html#a98d80a4bec269157bebfabbddfd60054", null ]
 ];

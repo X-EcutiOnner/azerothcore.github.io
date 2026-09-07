@@ -1,5 +1,7 @@
 var a24161 =
 [
-    [ "npc_pet_dk_risen_ally", "df/d00/a24161.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
-    [ "OnCharmed", "df/d00/a24161.html#ac3927becc1ed929c384b3413bfee9330", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "df/d00/a24161.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "df/d00/a24161.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "df/d00/a24161.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "df/d00/a24161.html#a29132346f117ba785039057619edb9e7", null ]
 ];

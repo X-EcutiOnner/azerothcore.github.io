@@ -1,6 +1,6 @@
 var a19897 =
 [
-    [ "CalculateDamage", "d5/d7f/a19897.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
-    [ "PrepareSpellScript", "d5/d7f/a19897.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
-    [ "Register", "d5/d7f/a19897.html#a02851f0b94687512a8e016bfb9b826e3", null ]
+    [ "npc_oculus_drakeAI", "de/d4c/a19901.html", "de/d4c/a19901" ],
+    [ "npc_oculus_drake", "d5/d7f/a19897.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
+    [ "GetAI", "d5/d7f/a19897.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
 ];

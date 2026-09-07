@@ -1,11 +1,6 @@
 var a23333 =
 [
-    [ "boss_krosh_firehand", "d9/d25/a23333.html#a1ef3618844f086de7875f26e7e6190f9", null ],
-    [ "AttackStart", "d9/d25/a23333.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
-    [ "JustDied", "d9/d25/a23333.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
-    [ "JustEngagedWith", "d9/d25/a23333.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
-    [ "Reset", "d9/d25/a23333.html#a989c4b762a7cdb228b245e91881d97a2", null ],
-    [ "UpdateAI", "d9/d25/a23333.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
-    [ "_scheduler", "d9/d25/a23333.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
-    [ "instance", "d9/d25/a23333.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "db/d02/a23337.html", "db/d02/a23337" ],
+    [ "instance_serpent_shrine", "d9/d25/a23333.html#aac4fc7113307805138ba4ce4a9adff09", null ],
+    [ "GetInstanceScript", "d9/d25/a23333.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
 ];

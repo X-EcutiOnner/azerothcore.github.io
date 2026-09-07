@@ -1,6 +1,5 @@
 var a02468 =
 [
-    [ "clearAcceptTradeMode", "d2/d35/a02468.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
-    [ "clearAcceptTradeMode", "d2/d35/a02468.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
-    [ "setAcceptTradeMode", "d2/d35/a02468.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
+    [ "ChatLogScript", "de/d0f/a28221.html", "de/d0f/a28221" ],
+    [ "AddSC_chat_log", "d2/d35/a02468.html#ae796ad81a78a552e5c31fcf6c5c135fa", null ]
 ];

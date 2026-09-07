@@ -1,13 +1,7 @@
 var a14537 =
 [
-    [ "npc_ohganAI", "d5/dd5/a14537.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
-    [ "JustDied", "d5/dd5/a14537.html#a89e506868e3191362545e34d21528b8f", null ],
-    [ "JustEngagedWith", "d5/dd5/a14537.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
-    [ "KilledUnit", "d5/dd5/a14537.html#a4e202eef928e54bd52160705bba5cc35", null ],
-    [ "Reset", "d5/dd5/a14537.html#ac3e1bc9dc819138741eb3b4448051547", null ],
-    [ "SetGUID", "d5/dd5/a14537.html#a575531a144c46ae3084e56e452125f16", null ],
-    [ "UpdateAI", "d5/dd5/a14537.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
-    [ "_scheduler", "d5/dd5/a14537.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
-    [ "instance", "d5/dd5/a14537.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
-    [ "reviveGUID", "d5/dd5/a14537.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
+    [ "OnRemove", "d5/dd5/a14537.html#ab909660f32a77e86fde5da35e2f69302", null ],
+    [ "PrepareAuraScript", "d5/dd5/a14537.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
+    [ "Register", "d5/dd5/a14537.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
+    [ "Validate", "d5/dd5/a14537.html#abd1254c53c04f72f848d8641affc729d", null ]
 ];

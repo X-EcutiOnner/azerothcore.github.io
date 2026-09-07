@@ -1,7 +1,7 @@
 var a16889 =
 [
-    [ "npc_toc_mageAI", "df/dd0/a16889.html#a188831088c892f68cef7498468b24899", null ],
-    [ "myCanCast", "df/dd0/a16889.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
-    [ "UpdateAI", "df/dd0/a16889.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
-    [ "events", "df/dd0/a16889.html#ab1910ce98f3d1b14e45acba22782d536", null ]
+    [ "HandleEffectPeriodic", "df/dd0/a16889.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
+    [ "PrepareAuraScript", "df/dd0/a16889.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
+    [ "Register", "df/dd0/a16889.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
+    [ "Validate", "df/dd0/a16889.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
 ];

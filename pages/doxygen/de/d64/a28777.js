@@ -1,11 +1,5 @@
 var a28777 =
 [
-    [ "ClassID", "de/d64/a28777.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
-    [ "DisplayInfoID", "de/d64/a28777.html#a87657df2ad024245ccb2192303f76b7a", null ],
-    [ "ID", "de/d64/a28777.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
-    [ "InventoryType", "de/d64/a28777.html#a6dc33fc40a299b010c18a7009aff648b", null ],
-    [ "Material", "de/d64/a28777.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
-    [ "SheatheType", "de/d64/a28777.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
-    [ "SoundOverrideSubclassID", "de/d64/a28777.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
-    [ "SubclassID", "de/d64/a28777.html#ac39254716573e335caf312f635353a2e", null ]
+    [ "npc_suns_reach_reclamation", "de/d64/a28777.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
+    [ "OnQuestReward", "de/d64/a28777.html#aa403d14fccda7adbec1ffeb765079c25", null ]
 ];

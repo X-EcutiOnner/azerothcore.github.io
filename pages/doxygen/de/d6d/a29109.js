@@ -1,8 +1,11 @@
 var a29109 =
 [
-    [ "canLink", "de/d6d/a29109.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
-    [ "categoryId", "de/d6d/a29109.html#abf285e69e8e2a90626a157cb0c50d158", null ],
-    [ "id", "de/d6d/a29109.html#a7740b26f1bde19a05b002c00eded25e3", null ],
-    [ "name", "de/d6d/a29109.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
-    [ "spellIcon", "de/d6d/a29109.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
+    [ "icon", "de/d6d/a29109.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
+    [ "id", "de/d6d/a29109.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
+    [ "mapId", "de/d6d/a29109.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
+    [ "worldState", "de/d6d/a29109.html#a9d745d26316726c861cc5a242f6a4f57", null ],
+    [ "x", "de/d6d/a29109.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
+    [ "y", "de/d6d/a29109.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
+    [ "z", "de/d6d/a29109.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
+    [ "zoneId", "de/d6d/a29109.html#a0cc33089981237694ca550cba6793a3e", null ]
 ];

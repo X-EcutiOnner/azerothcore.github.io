@@ -1,7 +1,5 @@
 var a25629 =
 [
-    [ "HandleJump", "d1/d2e/a25629.html#ac70f6d53e85af1ee2591e761e21872db", null ],
-    [ "HandleScriptEffect", "d1/d2e/a25629.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
-    [ "PrepareSpellScript", "d1/d2e/a25629.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
-    [ "Register", "d1/d2e/a25629.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
+    [ "PrepareSpellScript", "d1/d2e/a25629.html#a5dcaeafcb11c79f7f2171a5a0c47e6f5", null ],
+    [ "Register", "d1/d2e/a25629.html#a0ca6ec06108f964432f1cafc00b96313", null ]
 ];

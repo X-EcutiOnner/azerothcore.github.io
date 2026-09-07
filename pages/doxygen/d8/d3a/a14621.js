@@ -1,5 +1,6 @@
 var a14621 =
 [
-    [ "go_brazier_of_madness", "d8/d3a/a14621.html#aeb900e575be02244e62c6e5e4153c855", null ],
-    [ "GossipHello", "d8/d3a/a14621.html#aba3af326b01cd045523434aec189fd47", null ]
+    [ "LaunchHit", "d8/d3a/a14621.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
+    [ "PrepareSpellScript", "d8/d3a/a14621.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
+    [ "Register", "d8/d3a/a14621.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
 ];

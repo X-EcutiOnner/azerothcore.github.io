@@ -1,6 +1,7 @@
 var a18105 =
 [
-    [ "boss_lady_deathwhisperAI", "dd/dfd/a18109.html", "dd/dfd/a18109" ],
-    [ "boss_lady_deathwhisper", "df/df2/a18105.html#a979411cb834611b1239f3bf9058d316d", null ],
-    [ "GetAI", "df/df2/a18105.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
+    [ "FilterTargets", "df/df2/a18105.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "df/df2/a18105.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "df/df2/a18105.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "df/df2/a18105.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

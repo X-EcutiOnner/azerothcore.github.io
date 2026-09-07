@@ -1,12 +1,7 @@
 var a23993 =
 [
-    [ "npc_enslaved_netherwing_drake", "d0/d13/a23993.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
-    [ "_GetPlayer", "d0/d13/a23993.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
-    [ "JustDied", "d0/d13/a23993.html#acde70c9d8c675a9a9dd14695dc752184", null ],
-    [ "MovementInform", "d0/d13/a23993.html#afa030a380365daa33c156a0d6be6a6d9", null ],
-    [ "Reset", "d0/d13/a23993.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
-    [ "SpellHit", "d0/d13/a23993.html#a195794e88870a0b1ca35473f5f0378a7", null ],
-    [ "UpdateAI", "d0/d13/a23993.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
-    [ "_playerGUID", "d0/d13/a23993.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
-    [ "_tapped", "d0/d13/a23993.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
+    [ "boss_gatewatcher_iron_hand", "d0/d13/a23993.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "d0/d13/a23993.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "d0/d13/a23993.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "d0/d13/a23993.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

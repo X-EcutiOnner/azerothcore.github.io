@@ -1,9 +1,9 @@
 var a06473 =
 [
-    [ "CritterAI", "d9/d8c/a06473.html#aa211359ea8b80ac0ed27e9b337e333f1", null ],
-    [ "EnterEvadeMode", "d9/d8c/a06473.html#a989d1fc00af900320dcf27cce7f247dc", null ],
-    [ "JustEngagedWith", "d9/d8c/a06473.html#a2f52eb5c527895168f18ed5ddcc560a9", null ],
-    [ "MovementInform", "d9/d8c/a06473.html#a54c44d28e4b2b3231afeb8de343dee43", null ],
-    [ "Permissible", "d9/d8c/a06473.html#ae43183a24398fe3af1cb8275b9b4c6c6", null ],
-    [ "UpdateAI", "d9/d8c/a06473.html#af860be127a671f5448cb731aa2f701b0", null ]
+    [ "CasterAI", "d9/d8c/a06473.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
+    [ "AttackStart", "d9/d8c/a06473.html#a28386fd1a275c002445e5eaf90314a3d", null ],
+    [ "InitializeAI", "d9/d8c/a06473.html#a2a24cdc24b665c52363dae587572fc4d", null ],
+    [ "JustEngagedWith", "d9/d8c/a06473.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
+    [ "UpdateAI", "d9/d8c/a06473.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
+    [ "m_attackDist", "d9/d8c/a06473.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
 ];

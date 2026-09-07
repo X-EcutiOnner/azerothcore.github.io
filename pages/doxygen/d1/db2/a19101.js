@@ -1,6 +1,6 @@
 var a19101 =
 [
-    [ "PrepareSpellScript", "d1/db2/a19101.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "d1/db2/a19101.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "d1/db2/a19101.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "npc_captain_rupertAI", "d1/db2/a19101.html#ae91de64c440e71e612f34e37b90076d5", null ],
+    [ "Reset", "d1/db2/a19101.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
+    [ "UpdateAI", "d1/db2/a19101.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
 ];

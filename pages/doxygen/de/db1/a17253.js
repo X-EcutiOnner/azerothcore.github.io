@@ -1,6 +1,7 @@
 var a17253 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "d2/dc3/a17257.html", "d2/dc3/a17257" ],
-    [ "instance_forge_of_souls", "de/db1/a17253.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "de/db1/a17253.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "HandleEffectRemove", "de/db1/a17253.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "de/db1/a17253.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "de/db1/a17253.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "de/db1/a17253.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

@@ -1,11 +1,6 @@
 var a23973 =
 [
-    [ "npc_invis_infernal_casterAI", "d9/dcb/a23973.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
-    [ "Reset", "d9/dcb/a23973.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
-    [ "SetData", "d9/dcb/a23973.html#aee88dc141757384f96da969fcdc20671", null ],
-    [ "SummonInfernal", "d9/dcb/a23973.html#a78d53d09e5544b3fe8301da4415d297b", null ],
-    [ "UpdateAI", "d9/dcb/a23973.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
-    [ "events", "d9/dcb/a23973.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
-    [ "ground", "d9/dcb/a23973.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
-    [ "infernalGUID", "d9/dcb/a23973.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
+    [ "HandleScriptEffect", "d9/dcb/a23973.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
+    [ "PrepareSpellScript", "d9/dcb/a23973.html#af475c0968aabaf56e8ca38950ad651f0", null ],
+    [ "Register", "d9/dcb/a23973.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
 ];

@@ -1,6 +1,28 @@
 var a15949 =
 [
-    [ "HandleDummy", "dc/dc8/a15949.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
-    [ "PrepareSpellScript", "dc/dc8/a15949.html#adc581ed46587afcc8be3800ae79105f6", null ],
-    [ "Register", "dc/dc8/a15949.html#a7d09808ea2fdec450fcd129e996bd245", null ]
+    [ "npc_cork_gizeltonAI", "dc/dc8/a15949.html#a3f5f08b4ac364fddf14e8405cdc27b68", null ],
+    [ "CheckCaravan", "dc/dc8/a15949.html#aa0d89f971b6e210d8550e89839e28f44", null ],
+    [ "CheckPlayer", "dc/dc8/a15949.html#acd3edee41c80992ee97130eac6912c18", null ],
+    [ "EnterEvadeMode", "dc/dc8/a15949.html#ab639db8fe4637a2068d94bb5e99d88ea", null ],
+    [ "ImmuneFlagSet", "dc/dc8/a15949.html#aee85ef406a6bc0644ec2e35a4a7f22d5", null ],
+    [ "Initialize", "dc/dc8/a15949.html#a91131055a31dc828ccb2e3ba087d5062", null ],
+    [ "InitializeAI", "dc/dc8/a15949.html#a4c39fd26b4ab6bd861988c19ab3ead37", null ],
+    [ "JustDied", "dc/dc8/a15949.html#ab34fe1b0bac1a694c6e76d3cebf67172", null ],
+    [ "JustRespawned", "dc/dc8/a15949.html#a6b860a2b93654f92fb821b8907a3cc91", null ],
+    [ "RelocateSummons", "dc/dc8/a15949.html#a22d63ca89f2ebce396eb0a5a6cb69d13", null ],
+    [ "RemoveSummons", "dc/dc8/a15949.html#a53c900f7bfa720bfdfc22531ac916c5b", null ],
+    [ "SetData", "dc/dc8/a15949.html#a26576302fc0f6897d604030431651908", null ],
+    [ "SetGUID", "dc/dc8/a15949.html#a280f23ef905d43679562fc24466582f3", null ],
+    [ "SummonedCreatureDespawn", "dc/dc8/a15949.html#a4dabd8ae79a6b956264dea7ba2359e7d", null ],
+    [ "SummonedCreatureDies", "dc/dc8/a15949.html#a85cd2486bad6cda8867eba29538842e9", null ],
+    [ "SummonHelpers", "dc/dc8/a15949.html#a38986eddc806f76fdefa99de1cd46fb5", null ],
+    [ "SummonsFollow", "dc/dc8/a15949.html#a81a72db27d196b2fb6696b6466d26449", null ],
+    [ "UpdateEscortAI", "dc/dc8/a15949.html#a2c3704eaa58cc11e86a9e1eb60e3e543", null ],
+    [ "WaypointReached", "dc/dc8/a15949.html#ab9d7763f86dcbaa3bf6e2c12c5d872e7", null ],
+    [ "WaypointReached", "dc/dc8/a15949.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_faction", "dc/dc8/a15949.html#a4ff6b0e39f7cbf8ba5f4c79159a03e45", null ],
+    [ "_playerGUID", "dc/dc8/a15949.html#a94277075d53a9d9115894e3bf378d106", null ],
+    [ "events", "dc/dc8/a15949.html#a251f091e5b314341c8e5131bf38188f0", null ],
+    [ "headNorth", "dc/dc8/a15949.html#aace73f2e878ebaf30634431f9f1068ab", null ],
+    [ "summons", "dc/dc8/a15949.html#a9af9323b3bf6df4a85445d9859609c78", null ]
 ];

@@ -1,6 +1,6 @@
 var a21897 =
 [
-    [ "npc_boneguard_footmanAI", "dc/d88/a21897.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "dc/d88/a21897.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "dc/d88/a21897.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "GhoulTargetCheck", "dc/d88/a21897.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "dc/d88/a21897.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "dc/d88/a21897.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

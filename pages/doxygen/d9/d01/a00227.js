@@ -1,4 +1,9 @@
 var a00227 =
 [
-    [ "get_listen_fd", "d9/d01/a00227.html#a0564629d7b84ad2abab3b0a3a78f888e", null ]
+    [ "QueryCallback::QueryCallbackData", "d0/d8d/a06213.html", "d0/d8d/a06213" ],
+    [ "Construct", "d9/d01/a00227.html#a0e2a26009ee3d271eeacbb20a20e930b", null ],
+    [ "ConstructActiveMember", "d9/d01/a00227.html#a63276ee687270e668e7c51876ced5fb1", null ],
+    [ "Destroy", "d9/d01/a00227.html#aa4339e1c31032221caeaaedac04c0b32", null ],
+    [ "DestroyActiveMember", "d9/d01/a00227.html#aac0ba6a0017441eb25c4b294fde99186", null ],
+    [ "MoveFrom", "d9/d01/a00227.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ]
 ];

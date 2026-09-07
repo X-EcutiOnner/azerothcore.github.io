@@ -1,6 +1,14 @@
 var a21245 =
 [
-    [ "npc_frozen_orb_stalkerAI", "dc/dd5/a21245.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
-    [ "JustSummoned", "dc/dd5/a21245.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
-    [ "Reset", "dc/dd5/a21245.html#a064ccb90afeb9b36d501850482c60bc4", null ]
+    [ "boss_dalronn_the_controller", "dc/dd5/a21245.html#a57718e928fa273bba3c40a05d5888a3d", null ],
+    [ "DoAction", "dc/dd5/a21245.html#ad11e43d40a61f093b5e51482437467b8", null ],
+    [ "JustDied", "dc/dd5/a21245.html#a28a669b56392b599e124573778e33134", null ],
+    [ "JustEngagedWith", "dc/dd5/a21245.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
+    [ "JustSummoned", "dc/dd5/a21245.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
+    [ "KilledUnit", "dc/dd5/a21245.html#a96a173e30ad81c77217b0693d1d15839", null ],
+    [ "Reset", "dc/dd5/a21245.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
+    [ "UpdateAI", "dc/dd5/a21245.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
+    [ "events", "dc/dd5/a21245.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
+    [ "pInstance", "dc/dd5/a21245.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
+    [ "summons", "dc/dd5/a21245.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
 ];

@@ -1,13 +1,8 @@
 var a10613 =
 [
-    [ "AccountScript", "df/d4e/a10613.html#a3720bf412499a13ba4b41fc5c9f96b7c", null ],
-    [ "CanAccountCreateCharacter", "df/d4e/a10613.html#a6b5b94c1ac64bf8d926928d8401cd533", null ],
-    [ "OnAccountLogin", "df/d4e/a10613.html#afbebc7186ba77b0fefe0a6d32a774601", null ],
-    [ "OnBeforeAccountDelete", "df/d4e/a10613.html#a631f7deca08644da2613142c667618a8", null ],
-    [ "OnEmailChange", "df/d4e/a10613.html#adf20bd20cdc97b91db664dca95f82670", null ],
-    [ "OnFailedAccountLogin", "df/d4e/a10613.html#aae3401d74bdc9e8328a5f084462ae740", null ],
-    [ "OnFailedEmailChange", "df/d4e/a10613.html#a23261a238db9ddd618ebb6a45aaabcbf", null ],
-    [ "OnFailedPasswordChange", "df/d4e/a10613.html#a45d58c0f669f37b24e3dabf0ac4b2423", null ],
-    [ "OnLastIpUpdate", "df/d4e/a10613.html#a3de6453c132bb3d76b6888b87f988d2d", null ],
-    [ "OnPasswordChange", "df/d4e/a10613.html#aefa30b298f52d7c1a44e7648d088c3f0", null ]
+    [ "ownerGuid", "df/d4e/a10613.html#a7c66ffa9f54768a0e81f61e5bcdde014", null ],
+    [ "petitionGuid", "df/d4e/a10613.html#a1bbf412a221b76c4a20765d9a6612182", null ],
+    [ "petitionId", "df/d4e/a10613.html#afa16859ac671ff0410204ea30ebcf429", null ],
+    [ "petitionName", "df/d4e/a10613.html#a91c81356e9aa77641eaa881cd04af5af", null ],
+    [ "petitionType", "df/d4e/a10613.html#aeaf6c421d7545cf98d88b4e552dcff23", null ]
 ];

@@ -1,9 +1,6 @@
 var a17893 =
 [
-    [ "npc_stinky_iccAI", "d7/d6d/a17893.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
-    [ "JustDied", "d7/d6d/a17893.html#a7fa392980e2d30c935b79377df8dc694", null ],
-    [ "JustEngagedWith", "d7/d6d/a17893.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
-    [ "Reset", "d7/d6d/a17893.html#ac66e3398598576fdc889a7b56646eecf", null ],
-    [ "UpdateAI", "d7/d6d/a17893.html#af6e04824ea1682c529e8579a306d34ca", null ],
-    [ "events", "d7/d6d/a17893.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
+    [ "ModAuraValue", "d7/d6d/a17893.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "d7/d6d/a17893.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "d7/d6d/a17893.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

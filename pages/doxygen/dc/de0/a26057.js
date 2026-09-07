@@ -1,6 +1,7 @@
 var a26057 =
 [
-    [ "OnRemove", "dc/de0/a26057.html#a3803e6bbdb17e9a848376481581c993d", null ],
-    [ "PrepareAuraScript", "dc/de0/a26057.html#a6f1340b824af4604e310666e89d05b7a", null ],
-    [ "Register", "dc/de0/a26057.html#a3b361a478f1c035b706ac2e17499fb37", null ]
+    [ "HandleDummy", "dc/de0/a26057.html#a3f9d43d11b344e3eb02fdc088506008e", null ],
+    [ "PrepareSpellScript", "dc/de0/a26057.html#a1fb13b562c5d4f905739e193bc5292dd", null ],
+    [ "Register", "dc/de0/a26057.html#a581e04721eb9564d1300ddd78c805368", null ],
+    [ "Validate", "dc/de0/a26057.html#a18a648ebf1dbc9a11d09e457a33d0e33", null ]
 ];

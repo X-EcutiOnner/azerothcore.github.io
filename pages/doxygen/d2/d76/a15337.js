@@ -1,15 +1,14 @@
 var a15337 =
 [
-    [ "npc_time_rift", "d2/d76/a15337.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
-    [ "DoSelectSummon", "d2/d76/a15337.html#af2932c60efaea64d27d52b118b9a8095", null ],
-    [ "DoSummonAtRift", "d2/d76/a15337.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
-    [ "JustSummoned", "d2/d76/a15337.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
-    [ "Reset", "d2/d76/a15337.html#ad08ca716f120a45ee1688e03d2049aba", null ],
-    [ "SummonedCreatureDies", "d2/d76/a15337.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
-    [ "UpdateAI", "d2/d76/a15337.html#ab5924378c7978c6fae95f9861040c63d", null ],
-    [ "_events", "d2/d76/a15337.html#a12ffd459f8d63f299269da5b65f60128", null ],
-    [ "_instance", "d2/d76/a15337.html#a8eab9c3011c885321d59e2884318d0e8", null ],
-    [ "_riftKeeperGUID", "d2/d76/a15337.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
-    [ "waveMobIndex", "d2/d76/a15337.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
-    [ "waveMobs", "d2/d76/a15337.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
+    [ "boss_captain_skarloc", "d2/d76/a15337.html#a196477160ab6d07dc644ddadf756a1e0", null ],
+    [ "InitializeAI", "d2/d76/a15337.html#a1c67fb99984f666b63f8f79c6783341d", null ],
+    [ "JustDied", "d2/d76/a15337.html#aca0d536010a53efdf9270146f15f9058", null ],
+    [ "JustEngagedWith", "d2/d76/a15337.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
+    [ "JustSummoned", "d2/d76/a15337.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
+    [ "KilledUnit", "d2/d76/a15337.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
+    [ "MovementInform", "d2/d76/a15337.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
+    [ "Reset", "d2/d76/a15337.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
+    [ "UpdateAI", "d2/d76/a15337.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
+    [ "_spawnedAdds", "d2/d76/a15337.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
+    [ "summons", "d2/d76/a15337.html#a83a9e5971411de1c136cbad91f73f487", null ]
 ];

@@ -1,6 +1,7 @@
 var a16613 =
 [
-    [ "OnSummon", "d4/dfd/a16613.html#ae2766d12fb686356b46126848f356c5a", null ],
-    [ "PrepareSpellScript", "d4/dfd/a16613.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
-    [ "Register", "d4/dfd/a16613.html#a717394bfbea621ae637f9e87efddda62", null ]
+    [ "npc_orb_carrierAI", "d4/dfd/a16613.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "d4/dfd/a16613.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "d4/dfd/a16613.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "d4/dfd/a16613.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

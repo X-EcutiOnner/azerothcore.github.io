@@ -1,25 +1,12 @@
 var a02840 =
 [
-    [ "Socket< T >", "da/d48/a29539.html", "da/d48/a29539" ],
-    [ "READ_BLOCK_SIZE", "d9/d4d/a02840.html#a16ba013af02b9d4400b5e47d8daa022b", null ],
-    [ "IoContextTcpSocket", "d9/d4d/a02840.html#af72c5a224bc60d68d08afae3ba0cfb2f", null ],
-    [ "ProxyHeaderAddressFamilyAndProtocol", "d9/d4d/a02840.html#a7ddce6d0420753babeb6258ada50eec1", [
-      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4", "d9/d4d/a02840.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575", null ],
-      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6", "d9/d4d/a02840.html#a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699", null ]
+    [ "instance_shadow_labyrinth", "df/dc5/a22793.html", "df/dc5/a22793" ],
+    [ "instance_shadow_labyrinth::instance_shadow_labyrinth_InstanceMapScript", "d8/d71/a22797.html", "d8/d71/a22797" ],
+    [ "spell_mark_of_malice", "d3/d0f/a22801.html", "d3/d0f/a22801" ],
+    [ "MarkOfMalice", "d9/d4d/a02840.html#a5faa1e1ef40cd28efc7332da31667677", [
+      [ "SPELL_MARK_OF_MALICE_TRIGGERED", "d9/d4d/a02840.html#a5faa1e1ef40cd28efc7332da31667677a3c3d2a42daa901d72ea35a7207267ecb", null ]
     ] ],
-    [ "ProxyHeaderReadingState", "d9/d4d/a02840.html#aa514bb66fa404b5b180297bb005c3272", [
-      [ "PROXY_HEADER_READING_STATE_NOT_STARTED", "d9/d4d/a02840.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c", null ],
-      [ "PROXY_HEADER_READING_STATE_STARTED", "d9/d4d/a02840.html#aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98", null ],
-      [ "PROXY_HEADER_READING_STATE_FINISHED", "d9/d4d/a02840.html#aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb", null ],
-      [ "PROXY_HEADER_READING_STATE_FAILED", "d9/d4d/a02840.html#aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f", null ]
-    ] ],
-    [ "SocketReadCallbackResult", "d9/d4d/a02840.html#a28a77649fbf17e65bca542516efff3e3", [
-      [ "KeepReading", "d9/d4d/a02840.html#a28a77649fbf17e65bca542516efff3e3a0d4c2f1850364968984f50e42be91be5", null ],
-      [ "Stop", "d9/d4d/a02840.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481", null ]
-    ] ],
-    [ "SocketState", "d9/d4d/a02840.html#af8f6bcfe82815814726ab4f90ea013e7", [
-      [ "Open", "d9/d4d/a02840.html#af8f6bcfe82815814726ab4f90ea013e7ac3bf447eabe632720a3aa1a7ce401274", null ],
-      [ "Closing", "d9/d4d/a02840.html#af8f6bcfe82815814726ab4f90ea013e7a5c8de6f894682fdb1786037b2040a26e", null ],
-      [ "Closed", "d9/d4d/a02840.html#af8f6bcfe82815814726ab4f90ea013e7a03f4a47830f97377a35321051685071e", null ]
-    ] ]
+    [ "AddSC_instance_shadow_labyrinth", "d9/d4d/a02840.html#ad8948ff8ccd6c3cee367ad7227308846", null ],
+    [ "creatureData", "d9/d4d/a02840.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d9/d4d/a02840.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

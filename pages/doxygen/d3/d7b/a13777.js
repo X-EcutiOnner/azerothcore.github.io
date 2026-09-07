@@ -1,9 +1,7 @@
 var a13777 =
 [
-    [ "npc_demonic_vapor_trail", "d3/d7b/a13777.html#a5bd024ea050372e982a183da59b45904", null ],
-    [ "JustSummoned", "d3/d7b/a13777.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
-    [ "Reset", "d3/d7b/a13777.html#a9da762ab640abfaf5092034f284239af", null ],
-    [ "SpellHitTarget", "d3/d7b/a13777.html#a21e2223f58156da2fbe1803554623ecd", null ],
-    [ "UpdateAI", "d3/d7b/a13777.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
-    [ "_timer", "d3/d7b/a13777.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
+    [ "boss_kalec", "d3/d7b/a13777.html#a9c36e31c750e93840f30f001cdaca0da", null ],
+    [ "JustDied", "d3/d7b/a13777.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
+    [ "JustEngagedWith", "d3/d7b/a13777.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
+    [ "UpdateAI", "d3/d7b/a13777.html#ab55da7584fa7f545761a5bd547245747", null ]
 ];

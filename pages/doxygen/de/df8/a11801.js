@@ -1,14 +1,9 @@
 var a11801 =
 [
-    [ "alive", "de/df8/a11801.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
-    [ "crit", "de/df8/a11801.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
-    [ "damage", "de/df8/a11801.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
-    [ "damageBeforeTakenMods", "de/df8/a11801.html#a85196e5b5865856962898c18001880c7", null ],
-    [ "effectMask", "de/df8/a11801.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
-    [ "missCondition", "de/df8/a11801.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
-    [ "processed", "de/df8/a11801.html#a2de96d62297ff614fc3702bec035ce5b", null ],
-    [ "reflectResult", "de/df8/a11801.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
-    [ "scaleAura", "de/df8/a11801.html#a89bba366b26686d41288e9b2e725eb75", null ],
-    [ "targetGUID", "de/df8/a11801.html#acf55c1dd6f00c94296c592d988f959cf", null ],
-    [ "timeDelay", "de/df8/a11801.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
+    [ "EncryptableAndCompressiblePacket", "de/df8/a11801.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
+    [ "CompressIfNeeded", "de/df8/a11801.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
+    [ "NeedsCompression", "de/df8/a11801.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
+    [ "NeedsEncryption", "de/df8/a11801.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
+    [ "_encrypt", "de/df8/a11801.html#a37a68eddad23001a85a4a2f77e237810", null ],
+    [ "SocketQueueLink", "de/df8/a11801.html#a88f11ce75f439fd290bdc09156d559c2", null ]
 ];

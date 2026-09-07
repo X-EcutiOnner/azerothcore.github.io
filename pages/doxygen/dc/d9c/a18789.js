@@ -1,8 +1,9 @@
 var a18789 =
 [
-    [ "npc_lk_spirit_bombAI", "dc/d9c/a18789.html#a366fb54e68c0e603000183cd68daf6b7", null ],
-    [ "IsSummonedBy", "dc/d9c/a18789.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
-    [ "MovementInform", "dc/d9c/a18789.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
-    [ "UpdateAI", "dc/d9c/a18789.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
-    [ "timer", "dc/d9c/a18789.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
+    [ "HandleScript", "dc/d9c/a18789.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
+    [ "Load", "dc/d9c/a18789.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
+    [ "PrepareSpellScript", "dc/d9c/a18789.html#a73931c9434114749b9db648665153083", null ],
+    [ "Register", "dc/d9c/a18789.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
+    [ "SelectTarget", "dc/d9c/a18789.html#a95be527c43ceeb4801f4e494753c1b59", null ],
+    [ "_target", "dc/d9c/a18789.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
 ];

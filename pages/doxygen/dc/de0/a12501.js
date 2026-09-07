@@ -1,12 +1,10 @@
 var a12501 =
 [
-    [ "rbac_commandscript", "dc/de0/a12501.html#ad5d80b189a8ddaf6b5927c81668a7d74", null ],
-    [ "GetCommands", "dc/de0/a12501.html#a79aea8dac765cfb1a2f12264b58b4227", null ],
-    [ "GetRBACData", "dc/de0/a12501.html#a00da7ed9027950938ec869e678111502", null ],
-    [ "GetSecurityLevelName", "dc/de0/a12501.html#afcfc224e4b39db42ed6efeb5e49ecc7a", null ],
-    [ "HandleRBACListPermissionsCommand", "dc/de0/a12501.html#a80f84e8eeebfd70b4ac7bc049bf4759c", null ],
-    [ "HandleRBACPermDenyCommand", "dc/de0/a12501.html#acc074437ff26c253cf91772de9117fbf", null ],
-    [ "HandleRBACPermGrantCommand", "dc/de0/a12501.html#ad4254acff93e13b7218b086281d13676", null ],
-    [ "HandleRBACPermListCommand", "dc/de0/a12501.html#a324227f3398500ca0a5b7dd141698951", null ],
-    [ "HandleRBACPermRevokeCommand", "dc/de0/a12501.html#adf8932879f77b25833cf55dc2924ac29", null ]
+    [ "item_commandscript", "dc/de0/a12501.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
+    [ "GetCommands", "dc/de0/a12501.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
+    [ "HandleItemMoveCommand", "dc/de0/a12501.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
+    [ "HandleItemRefundCommand", "dc/de0/a12501.html#af914e33be05148062abd89c754d939c9", null ],
+    [ "HandleItemRestoreCommand", "dc/de0/a12501.html#a84c67a46c513c1aac2b9d2563d693929", null ],
+    [ "HandleItemRestoreListCommand", "dc/de0/a12501.html#a40181310f4187a71a6f5f5f600a8f468", null ],
+    [ "HasItemDeletionConfig", "dc/de0/a12501.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
 ];

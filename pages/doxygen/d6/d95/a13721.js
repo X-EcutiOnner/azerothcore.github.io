@@ -1,7 +1,6 @@
 var a13721 =
 [
-    [ "HandleScriptEffect", "d6/d95/a13721.html#a703ac8467126f5c2aee393fcf2400ffc", null ],
-    [ "PrepareSpellScript", "d6/d95/a13721.html#a17c49de5f6a37ff83126398d96b43a51", null ],
-    [ "Register", "d6/d95/a13721.html#ae205d84cdbe3fbfa519e7d1c8f2ffe16", null ],
-    [ "Validate", "d6/d95/a13721.html#a17d53f598be9fe9e9790bb96dfcb4891", null ]
+    [ "FilterTargets", "d6/d95/a13721.html#a78675c3421e0243de9e136b646c56be1", null ],
+    [ "PrepareSpellScript", "d6/d95/a13721.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
+    [ "Register", "d6/d95/a13721.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
 ];

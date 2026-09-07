@@ -1,5 +1,6 @@
 var a25193 =
 [
-    [ "PrepareSpellScript", "d2/d00/a25193.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
-    [ "Register", "d2/d00/a25193.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
+    [ "HandleOnEffectHit", "d2/d00/a25193.html#a07b15e180ee79149cad15b32b3c94359", null ],
+    [ "PrepareSpellScript", "d2/d00/a25193.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
+    [ "Register", "d2/d00/a25193.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
 ];

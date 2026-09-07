@@ -1,9 +1,7 @@
 var a23829 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "dd/d6c/a23829.html#a273d585416dc92d39d5ec3824c08504d", null ],
-    [ "IsSummonedBy", "dd/d6c/a23829.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
-    [ "Reset", "dd/d6c/a23829.html#a06fa50580efeab8d847a05f20956d175", null ],
-    [ "UpdateAI", "dd/d6c/a23829.html#a8261a259cfbee0d3610ee441406fafcd", null ],
-    [ "playerGuid", "dd/d6c/a23829.html#aab717dd49284c483759a6223dbd7e6ea", null ],
-    [ "timer", "dd/d6c/a23829.html#afba1b71178c563a3db906057cd20de45", null ]
+    [ "AfterApply", "dd/d6c/a23829.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "dd/d6c/a23829.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "dd/d6c/a23829.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "dd/d6c/a23829.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

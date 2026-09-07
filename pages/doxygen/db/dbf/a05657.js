@@ -1,9 +1,9 @@
 var a05657 =
 [
-    [ "IpLocationStore", "db/dbf/a05657.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
-    [ "~IpLocationStore", "db/dbf/a05657.html#a82360c1ce130670fde23d42135f91324", null ],
-    [ "GetLocationRecord", "db/dbf/a05657.html#a06384169031d2417a7f6bac54d3187a9", null ],
-    [ "instance", "db/dbf/a05657.html#ad740adf9b81b37cf147dc00e220b29db", null ],
-    [ "Load", "db/dbf/a05657.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
-    [ "_ipLocationStore", "db/dbf/a05657.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
+    [ "Count", "db/dbf/a05657.html#a05f606f459c905632d1452727bc93a0d", null ],
+    [ "GetElements", "db/dbf/a05657.html#a260f2bd14ae022a5810539ba87cec51e", null ],
+    [ "GetElements", "db/dbf/a05657.html#ab67e427fb3f82553e2253288e036d1ae", null ],
+    [ "Insert", "db/dbf/a05657.html#a791a9c0d1c878323960e529e0c7b66c8", null ],
+    [ "Remove", "db/dbf/a05657.html#abfb5e987b1c711d259896708887ca6d7", null ],
+    [ "i_elements", "db/dbf/a05657.html#a095f3a1caf74ca4e9e12ecca538a0cc4", null ]
 ];

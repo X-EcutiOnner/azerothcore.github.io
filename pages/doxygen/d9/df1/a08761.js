@@ -1,7 +1,10 @@
 var a08761 =
 [
-    [ "AddToGrid", "d9/df1/a08761.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
-    [ "IsInGrid", "d9/df1/a08761.html#a996724d21d62e478f50031faa7637cd5", null ],
-    [ "RemoveFromGrid", "d9/df1/a08761.html#a29740a98fea7db66cdffd824940a2ec2", null ],
-    [ "_gridRef", "d9/df1/a08761.html#aa44ba47734267ac07b733f218623f3c5", null ]
+    [ "SpellCategory", "d9/df1/a08761.html#ad170ffceb499879a4b0d638e9c922703", null ],
+    [ "SpellCategoryCooldown", "d9/df1/a08761.html#a8a33274d71b410f24f110e9a5921ff18", null ],
+    [ "SpellCharges", "d9/df1/a08761.html#a16909465a3a20dbab6e3ca2e3c807f17", null ],
+    [ "SpellCooldown", "d9/df1/a08761.html#a8ef7106595ed25ce23ca2163258d769a", null ],
+    [ "SpellId", "d9/df1/a08761.html#af6973a8a9a258a87a916bcd431c33d8d", null ],
+    [ "SpellPPMRate", "d9/df1/a08761.html#a5b208a667802e4c3766619c96d267287", null ],
+    [ "SpellTrigger", "d9/df1/a08761.html#a39657ff9e561a3c86a671f7b3c78ef98", null ]
 ];

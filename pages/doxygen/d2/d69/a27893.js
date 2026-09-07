@@ -1,9 +1,8 @@
 var a27893 =
 [
-    [ "boss_ysondreAI", "d2/d69/a27893.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc", null ],
-    [ "DamageTaken", "d2/d69/a27893.html#a99ee250e776001bb142815fc711ae75d", null ],
-    [ "ExecuteEvent", "d2/d69/a27893.html#a88e3caa536a71730c757590be1bd3de1", null ],
-    [ "JustEngagedWith", "d2/d69/a27893.html#af96597cf06d2ed71f85c7b4055793dcf", null ],
-    [ "Reset", "d2/d69/a27893.html#ac2ea95a5f8c032d7d9166d92bce51ba1", null ],
-    [ "_stage", "d2/d69/a27893.html#a5c96faa6b5e6cc350e9c53f34fe17eb1", null ]
+    [ "CheckProc", "d2/d69/a27893.html#ae202a117ff86eee618dfdf4600746de5", null ],
+    [ "HandleProc", "d2/d69/a27893.html#a28c409af8e7a8115ce86f2a51fff1afd", null ],
+    [ "PrepareAuraScript", "d2/d69/a27893.html#a334db12ee8ed29b34269a0ca3172d7b4", null ],
+    [ "Register", "d2/d69/a27893.html#a392724c604ce325415aaa3410e18a60c", null ],
+    [ "Validate", "d2/d69/a27893.html#af0b153ca9e28a3cdc06a30ff30b46f39", null ]
 ];

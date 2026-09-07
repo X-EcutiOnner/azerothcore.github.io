@@ -1,6 +1,20 @@
 var a04556 =
 [
-    [ "character_commandscript", "d8/d39/a12423.html", "d8/d39/a12423" ],
-    [ "character_commandscript::DeletedInfo", "d3/d18/a12427.html", "d3/d18/a12427" ],
-    [ "AddSC_character_commandscript", "d4/d81/a04556.html#a97f9cac12c34068d5e63b2ed28ddf9e2", null ]
+    [ "FakeAura", "d1/dd1/a29909.html", "d1/dd1/a29909" ],
+    [ "AuraMap", "d4/d81/a04556.html#a73555934eb70bd47712b17961d4b9dcb", null ],
+    [ "TEST", "d4/d81/a04556.html#a6f3a168c62225238ed8035c9b4f0f6fe", null ],
+    [ "TEST", "d4/d81/a04556.html#aceb73ef67334ec5f2c9cd1a8aa7bdda7", null ],
+    [ "TEST", "d4/d81/a04556.html#aff1194c7b9230434ca458f33bab9d293", null ],
+    [ "TEST", "d4/d81/a04556.html#ae700483a709735b15a0745f2dd8b0902", null ],
+    [ "TEST", "d4/d81/a04556.html#a63273c645d8dafd52aa8c6ef62136b56", null ],
+    [ "TEST", "d4/d81/a04556.html#aa2c0e9a9fa7b5b1f66bb71bc1b231130", null ],
+    [ "TEST", "d4/d81/a04556.html#a7c3253e83290d47148f3cd56ff0cd49a", null ],
+    [ "TEST", "d4/d81/a04556.html#a2ab2dcd69266567b9687bf967a256c4f", null ],
+    [ "TEST", "d4/d81/a04556.html#aa08c3c66e68eca77c0b90a7bc865ef4e", null ],
+    [ "TEST", "d4/d81/a04556.html#ab990e3e55613e3163cb61f4c84dac583", null ],
+    [ "TEST", "d4/d81/a04556.html#a462c439ae586e17a0f6faa911bdf05cc", null ],
+    [ "TEST", "d4/d81/a04556.html#a8e42d098fd67bc0c558126a0d1334c66", null ],
+    [ "TEST", "d4/d81/a04556.html#a18d7003dc969cf032e00f49b012fa303", null ],
+    [ "TEST", "d4/d81/a04556.html#a545c762236024232cb91afe6958adf38", null ],
+    [ "TEST", "d4/d81/a04556.html#a511d586a9f8ae8e0ba80b7a714c55164", null ]
 ];

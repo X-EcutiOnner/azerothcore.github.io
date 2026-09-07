@@ -1,6 +1,6 @@
 var a15285 =
 [
-    [ "instance_old_hillsbrad_InstanceMapScript", "d5/d11/a15289.html", "d5/d11/a15289" ],
-    [ "instance_old_hillsbrad", "d2/dca/a15285.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
-    [ "GetInstanceScript", "d2/dca/a15285.html#a1929c38b1c745b2df1ccaf462113e220", null ]
+    [ "boss_salrammAI", "d5/d11/a15289.html", "d5/d11/a15289" ],
+    [ "boss_salramm", "d2/dca/a15285.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
+    [ "GetAI", "d2/dca/a15285.html#ab6b400f0d329d4def074d012de47f53d", null ]
 ];

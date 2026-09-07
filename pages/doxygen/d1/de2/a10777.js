@@ -1,5 +1,4 @@
 var a10777 =
 [
-    [ "MovementHandlerScript", "d1/de2/a10777.html#aeeeb5fe81eebc04fc317e726782be3ab", null ],
-    [ "OnPlayerMove", "d1/de2/a10777.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
+    [ "DynamicObjectScript", "d1/de2/a10777.html#aef90c6acd4e392c12a0d5350f6aa1679", null ]
 ];

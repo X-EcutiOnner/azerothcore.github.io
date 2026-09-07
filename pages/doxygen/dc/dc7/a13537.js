@@ -1,16 +1,15 @@
 var a13537 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "dc/dc7/a13537.html#a4abdd53f735be815cb2d43497d1531e0", null ],
-    [ "GetData", "dc/dc7/a13537.html#a07d9bcc1b1daa29f31be146aaa85993c", null ],
-    [ "GetGuidData", "dc/dc7/a13537.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
-    [ "OnCreatureCreate", "dc/dc7/a13537.html#a71fcfc166f945325a4ee149645a9ccef", null ],
-    [ "OnGameObjectCreate", "dc/dc7/a13537.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
-    [ "SetData", "dc/dc7/a13537.html#aaf498d563d070d6250a182f583651777", null ],
-    [ "_ashbringerNpcGUID", "dc/dc7/a13537.html#a1abdafc284def7ab4069a17c0aeda535", null ],
-    [ "_ashencounter", "dc/dc7/a13537.html#ac6f544cf00bb6d987c9128cce9c1aa10", null ],
-    [ "_doorChapelGUID", "dc/dc7/a13537.html#a9f5070bfd7326ccaa1ebe697524a814b", null ],
-    [ "_doorHighInquisitorGUID", "dc/dc7/a13537.html#a1c9c74f06b2e1db77d5e6c75e720290c", null ],
-    [ "_encounter", "dc/dc7/a13537.html#a9d025f0d9740eaec42fe4f45971a6cf9", null ],
-    [ "_mograineGUID", "dc/dc7/a13537.html#ad34fc11ed5bd36a8f3a84f183627deb1", null ],
-    [ "_whitemaneGUID", "dc/dc7/a13537.html#af6c6214f8d506815afeeb2af4ad4a71b", null ]
+    [ "boss_kormok", "dc/dc7/a13537.html#a2bacfd366d084cae31b8cc689fb26d0b", null ],
+    [ "DamageTaken", "dc/dc7/a13537.html#a2aa7fedea09b4d0526028826be2cb360", null ],
+    [ "IsSummonedBy", "dc/dc7/a13537.html#a641bd06b5da44e04534150fc1fc6f9e0", null ],
+    [ "JustDied", "dc/dc7/a13537.html#a219bc4f5e13e58bb4a8f79cbc36b5ad7", null ],
+    [ "JustEngagedWith", "dc/dc7/a13537.html#a7fc5bb05831e5b8e22c7d59c5c71f87a", null ],
+    [ "JustSummoned", "dc/dc7/a13537.html#a49ba1031e5639c3d8fdaf9ae9884a038", null ],
+    [ "Reset", "dc/dc7/a13537.html#a70252bf1680510294f62e2c42220156e", null ],
+    [ "SummonedCreatureDespawn", "dc/dc7/a13537.html#a6f23b4b006de4b8b5fda6e0203e2f8a7", null ],
+    [ "UpdateAI", "dc/dc7/a13537.html#aea5651a98492885eb4d598714df4fd40", null ],
+    [ "_mages", "dc/dc7/a13537.html#ae0de3f9848cb9051a18ba15347af3e7a", null ],
+    [ "_scheduler", "dc/dc7/a13537.html#a540ef7a05a503a989f93d4b53daacb4b", null ],
+    [ "_summons", "dc/dc7/a13537.html#aefaac0c5af45f63faeac6bf9ef1ca7fc", null ]
 ];

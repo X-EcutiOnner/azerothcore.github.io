@@ -1,6 +1,6 @@
 var a20009 =
 [
-    [ "HandlePeriodic", "d0/d7b/a20009.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "d0/d7b/a20009.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "d0/d7b/a20009.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "boss_krystallusAI", "d1/d58/a20013.html", "d1/d58/a20013" ],
+    [ "boss_krystallus", "d0/d7b/a20009.html#a1d7453c9d67594bfdbd650fea897666a", null ],
+    [ "GetAI", "d0/d7b/a20009.html#aba14bcfa00a5d997959abd94af647bf4", null ]
 ];

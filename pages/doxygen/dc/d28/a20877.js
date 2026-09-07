@@ -1,8 +1,6 @@
 var a20877 =
 [
-    [ "Absorb", "dc/d28/a20877.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
-    [ "CalculateAmount", "dc/d28/a20877.html#afe50bf22d07e68757caffb056ad55811", null ],
-    [ "PrepareAuraScript", "dc/d28/a20877.html#afa4ef1f7faa36a521c208dde10d09437", null ],
-    [ "Register", "dc/d28/a20877.html#aae020936d42da81c445f7d296660987b", null ],
-    [ "Validate", "dc/d28/a20877.html#a5852135c5214ee3938603632b0f21917", null ]
+    [ "PrepareSpellScript", "dc/d28/a20877.html#a3c8337cc17ec735fc97f5195a1e820b6", null ],
+    [ "Register", "dc/d28/a20877.html#ae0cc2794b1d2b8de442dbf30f7da8883", null ],
+    [ "SelectPillar", "dc/d28/a20877.html#a2eaa34f9f3b3d255fc5091fb5b48f60a", null ]
 ];

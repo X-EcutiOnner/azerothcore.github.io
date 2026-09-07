@@ -1,6 +1,8 @@
 var a25053 =
 [
-    [ "CalculateAmount", "dd/d3e/a25053.html#a66b009487462241e573ea23f081a140a", null ],
-    [ "PrepareAuraScript", "dd/d3e/a25053.html#a0eee16c77a3c3cea882b67c78826a140", null ],
-    [ "Register", "dd/d3e/a25053.html#afeafc6922b0a0389fec969e3c7191dda", null ]
+    [ "HandleSchoolDMG", "dd/d3e/a25053.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
+    [ "HandleScriptEffect", "dd/d3e/a25053.html#a06f9cf29387b49f3e5950661173c77eb", null ],
+    [ "PrepareSpellScript", "dd/d3e/a25053.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
+    [ "Register", "dd/d3e/a25053.html#a9bdbf7578509976d482a26869e9068aa", null ],
+    [ "Validate", "dd/d3e/a25053.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
 ];

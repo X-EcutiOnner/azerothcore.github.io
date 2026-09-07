@@ -1,5 +1,7 @@
 var a17061 =
 [
-    [ "boss_fjolaAI", "df/dc3/a17061.html#aa46fdff841d01f28ef50aa5363082f71", null ],
-    [ "JustSummoned", "df/dc3/a17061.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
+    [ "FilterTargets", "df/dc3/a17061.html#a304da18e36ff67c34b80ab39583f8c96", null ],
+    [ "HandleScript", "df/dc3/a17061.html#adf99670bcf862288f513d2a26cbc256a", null ],
+    [ "PrepareSpellScript", "df/dc3/a17061.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
+    [ "Register", "df/dc3/a17061.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
 ];

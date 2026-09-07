@@ -1,6 +1,6 @@
 var a24913 =
 [
-    [ "HandleDummy", "d5/dd5/a24913.html#a9f9c27bdfed0a457f7e851c8598f3625", null ],
-    [ "PrepareSpellScript", "d5/dd5/a24913.html#ab666b72cd7cb0ef92ba6c417be5ac7cc", null ],
-    [ "Register", "d5/dd5/a24913.html#a7b78161fda34b3dc3c844c392ce7e30e", null ]
+    [ "CheckCast", "d5/dd5/a24913.html#aefa91f15300520de7cffad4f4ca82ccf", null ],
+    [ "PrepareSpellScript", "d5/dd5/a24913.html#a605e7b8849186c3c2df731cac743a208", null ],
+    [ "Register", "d5/dd5/a24913.html#a62533bff915db8323b53352f17c4825f", null ]
 ];

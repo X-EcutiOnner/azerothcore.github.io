@@ -1,7 +1,10 @@
 var a13161 =
 [
-    [ "npc_malchezaar_axe", "d0/d11/a13161.html#a1a5615f2def10add30e7917b770ebc74", null ],
-    [ "Initialize", "d0/d11/a13161.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
-    [ "JustEngagedWith", "d0/d11/a13161.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
-    [ "UpdateAI", "d0/d11/a13161.html#a202ba6922a426f87909eefbccd070175", null ]
+    [ "instance_gnomeregan_InstanceMapScript", "d0/d11/a13161.html#a0080fdf557ad8159a8934dce5b39a535", null ],
+    [ "OnCreatureCreate", "d0/d11/a13161.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
+    [ "OnGameObjectCreate", "d0/d11/a13161.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
+    [ "ReadSaveDataMore", "d0/d11/a13161.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
+    [ "SetData", "d0/d11/a13161.html#af800a1906c532f61f0299f8aa9359a66", null ],
+    [ "WriteSaveDataMore", "d0/d11/a13161.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
+    [ "_encounters", "d0/d11/a13161.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
 ];

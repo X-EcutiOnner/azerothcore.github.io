@@ -1,11 +1,7 @@
 var a23105 =
 [
-    [ "boss_ahune", "da/dbc/a23105.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "da/dbc/a23105.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "da/dbc/a23105.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "da/dbc/a23105.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "da/dbc/a23105.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "da/dbc/a23105.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "da/dbc/a23105.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "da/dbc/a23105.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "HandleOnHit", "da/dbc/a23105.html#a9f368396cef39ba3bd70480f11c44700", null ],
+    [ "PrepareSpellScript", "da/dbc/a23105.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
+    [ "Register", "da/dbc/a23105.html#a99f80adcebdd9726a8df51f99d415651", null ],
+    [ "Validate", "da/dbc/a23105.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
 ];

@@ -1,6 +1,5 @@
 var a08173 =
 [
-    [ "value_type", "d2/d9f/a08173.html#ac481731c1965ea0420cd7820e1e89881", null ],
-    [ "StoreTo", "d2/d9f/a08173.html#a36969f95d224ae4561d46a3ca7b20d26", null ],
-    [ "tag", "d2/d9f/a08173.html#a24d00ca0725d6b4f236bccd7cf5ecbc7", null ]
+    [ "Glyph", "d2/d9f/a08173.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
+    [ "Slot", "d2/d9f/a08173.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
 ];

@@ -1,11 +1,7 @@
 var a12381 =
 [
-    [ "group_commandscript", "dd/dea/a12381.html#ad2890427cfe3649b2e0fe0896693372c", null ],
-    [ "GetCommands", "dd/dea/a12381.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
-    [ "HandleGroupDisbandCommand", "dd/dea/a12381.html#a538539340a697e02453ddcfa669fb646", null ],
-    [ "HandleGroupJoinCommand", "dd/dea/a12381.html#a382e8532c653464e90b45569e813ae37", null ],
-    [ "HandleGroupLeaderCommand", "dd/dea/a12381.html#a899858a63add3c68e0e1446d29216c00", null ],
-    [ "HandleGroupListCommand", "dd/dea/a12381.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
-    [ "HandleGroupRemoveCommand", "dd/dea/a12381.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
-    [ "HandleGroupReviveCommand", "dd/dea/a12381.html#a13968d61ec037aacc8070bc675290f94", null ]
+    [ "map", "dd/dea/a12381.html#ab52fa79b07a9fad5b0cf8a28669a94eb", null ],
+    [ "pallid", "dd/dea/a12381.html#a0693df9090f40b7b1b8dba0003b6092e", null ],
+    [ "pallidGuid", "dd/dea/a12381.html#ae78b3d7448e8f43a993f46208039f0b1", null ],
+    [ "zoneId", "dd/dea/a12381.html#ad035d67dce95aa1ad7a1f39b1cf7b847", null ]
 ];

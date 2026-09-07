@@ -1,6 +1,7 @@
 var a16509 =
 [
-    [ "npc_onyx_flamecallerAI", "d1/d8e/a16513.html", "d1/d8e/a16513" ],
-    [ "npc_onyx_flamecaller", "d3/d78/a16509.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
-    [ "GetAI", "d3/d78/a16509.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
+    [ "HandleHit", "d3/d78/a16509.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
+    [ "PrepareSpellScript", "d3/d78/a16509.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
+    [ "Register", "d3/d78/a16509.html#af132eee38064c5123f4e01d52efb9314", null ],
+    [ "Validate", "d3/d78/a16509.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
 ];

@@ -1,6 +1,6 @@
 var a13409 =
 [
-    [ "ModDestHeight", "d9/d1a/a13409.html#ae5e63f8d6e9e3fa05a82cd5708b44527", null ],
-    [ "PrepareSpellScript", "d9/d1a/a13409.html#a7447499330dc583210b7a172265dbb69", null ],
-    [ "Register", "d9/d1a/a13409.html#a75e577bbe27b2742f6209b7d295dcafa", null ]
+    [ "npc_image_of_medivhAI", "db/d88/a13413.html", "db/d88/a13413" ],
+    [ "npc_image_of_medivh", "d9/d1a/a13409.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
+    [ "GetAI", "d9/d1a/a13409.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
 ];

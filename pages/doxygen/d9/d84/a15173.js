@@ -1,10 +1,7 @@
 var a15173 =
 [
-    [ "npc_hyjal_gargoyle", "d9/d84/a15173.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
-    [ "AttackStart", "d9/d84/a15173.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
-    [ "DoAction", "d9/d84/a15173.html#ae213c71426f438dd2b27699d7de23664", null ],
-    [ "JustEngagedWith", "d9/d84/a15173.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
-    [ "PathEndReached", "d9/d84/a15173.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
-    [ "Reset", "d9/d84/a15173.html#af314bb183bde44680eeb136d2a08c142", null ],
-    [ "UpdateAI", "d9/d84/a15173.html#ac1ca0648b08430a8bcbf99980222b684", null ]
+    [ "PeriodicTick", "d9/d84/a15173.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
+    [ "PrepareAuraScript", "d9/d84/a15173.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
+    [ "Register", "d9/d84/a15173.html#a24058b120f4fa06b89f6d582c53a365a", null ],
+    [ "Validate", "d9/d84/a15173.html#a093b09be5abde91a1487d67a7a554d30", null ]
 ];

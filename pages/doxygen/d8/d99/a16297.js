@@ -1,5 +1,6 @@
 var a16297 =
 [
-    [ "achievement_volunteer_work", "d8/d99/a16297.html#a43db6e553b370f139ac376840fdf6d70", null ],
-    [ "OnCheck", "d8/d99/a16297.html#abdbbe9165d3d72d76fe685ebce5e304d", null ]
+    [ "npc_weegli_blastfuseAI", "d3/dae/a16301.html", "d3/dae/a16301" ],
+    [ "npc_weegli_blastfuse", "d8/d99/a16297.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
+    [ "GetAI", "d8/d99/a16297.html#a701681d8771756dac20d30c2e03a1349", null ]
 ];

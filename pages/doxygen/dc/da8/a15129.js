@@ -1,6 +1,7 @@
 var a15129 =
 [
-    [ "FilterTargets", "dc/da8/a15129.html#a45b0713b2942199bf0e19752fe765aac", null ],
-    [ "PrepareSpellScript", "dc/da8/a15129.html#a7f7177d7754a99743202f69a0342f587", null ],
-    [ "Register", "dc/da8/a15129.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
+    [ "boss_azuregosAI", "d4/d63/a15133.html", "d4/d63/a15133" ],
+    [ "boss_azuregos", "dc/da8/a15129.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "dc/da8/a15129.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "dc/da8/a15129.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

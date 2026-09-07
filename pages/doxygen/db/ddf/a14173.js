@@ -1,6 +1,7 @@
 var a14173 =
 [
-    [ "npc_highborne_lamenterAI", "d9/d69/a14177.html", "d9/d69/a14177" ],
-    [ "npc_highborne_lamenter", "db/ddf/a14173.html#a40316cf73a688e34e95dd41feef8612a", null ],
-    [ "GetAI", "db/ddf/a14173.html#aad8ccb43b325b797f60a16e338458a1e", null ]
+    [ "HandleEffectApply", "db/ddf/a14173.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
+    [ "PrepareAuraScript", "db/ddf/a14173.html#a9829789fe5544429454e29d228ce0daf", null ],
+    [ "Register", "db/ddf/a14173.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
+    [ "Validate", "db/ddf/a14173.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
 ];

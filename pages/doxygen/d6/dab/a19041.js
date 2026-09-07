@@ -1,6 +1,8 @@
 var a19041 =
 [
-    [ "npc_frostwing_vrykulAI", "d1/df4/a19045.html", "d1/df4/a19045" ],
-    [ "npc_frostwing_vrykul", "d6/dab/a19041.html#ab915aa094ddebd9201a1c626e6427409", null ],
-    [ "GetAI", "d6/dab/a19041.html#a11678e59b6db9a41c7b6a575339995fd", null ]
+    [ "npc_rotting_frost_giantAI", "d6/dab/a19041.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "d6/dab/a19041.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "d6/dab/a19041.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "d6/dab/a19041.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "d6/dab/a19041.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

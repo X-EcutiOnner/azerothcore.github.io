@@ -1,9 +1,11 @@
 var a05501 =
 [
-    [ "SessionKeyGenerator", "d2/d18/a05501.html#a8fa39e01cd3ed24e13735343ad658cbb", null ],
-    [ "Generate", "d2/d18/a05501.html#a2162fde8dbb84fc165faedaafed706b5", null ],
-    [ "o0", "d2/d18/a05501.html#a1eb1aafb255ccf771b0a49dcab869297", null ],
-    [ "o0it", "d2/d18/a05501.html#a7ea5a4a796da94a2dc14570d4336c27b", null ],
-    [ "o1", "d2/d18/a05501.html#a462354aed63797a90fc228e6399cb740", null ],
-    [ "o2", "d2/d18/a05501.html#a617205c872f2163026d511809776a775", null ]
+    [ "ARC4", "d2/d18/a05501.html#ac05d4f85233abfc5cbcb87cd2a87bc5a", null ],
+    [ "~ARC4", "d2/d18/a05501.html#af3a8b63c2073120026c262a685eef8f2", null ],
+    [ "Init", "d2/d18/a05501.html#a68993c30cafb864abd5ae0c49ee8296e", null ],
+    [ "Init", "d2/d18/a05501.html#aaa9c89da159b57a897898bc31e10ecd4", null ],
+    [ "UpdateData", "d2/d18/a05501.html#ae350945f2713305e977e4a3e4fc3d5b5", null ],
+    [ "UpdateData", "d2/d18/a05501.html#a4023480221891e0d1ccd7a92aabd173c", null ],
+    [ "_cipher", "d2/d18/a05501.html#ab017c87cd73a9b5fade745799724c333", null ],
+    [ "_ctx", "d2/d18/a05501.html#a8539413b1e0344abe9545f742cc8e6df", null ]
 ];

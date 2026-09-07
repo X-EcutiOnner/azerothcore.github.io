@@ -1,8 +1,7 @@
 var a08421 =
 [
-    [ "bounding_radius", "d6/d0a/a08421.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
-    [ "combat_reach", "d6/d0a/a08421.html#ac271edb10093db19e4df1396053f820d", null ],
-    [ "gender", "d6/d0a/a08421.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
-    [ "is_trigger", "d6/d0a/a08421.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
-    [ "modelid_other_gender", "d6/d0a/a08421.html#a222b3c513a64b385954ea549e67f4255", null ]
+    [ "ForcedDespawnDelayEvent", "d6/d0a/a08421.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
+    [ "Execute", "d6/d0a/a08421.html#a735c709b269458911bd93da1902cbe25", null ],
+    [ "m_owner", "d6/d0a/a08421.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
+    [ "m_respawnTimer", "d6/d0a/a08421.html#a5db78930a1fda07f2020b23158ebb93d", null ]
 ];

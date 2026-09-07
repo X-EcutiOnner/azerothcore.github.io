@@ -1,6 +1,8 @@
 var a17397 =
 [
-    [ "boss_tyrannusAI", "df/dde/a17401.html", "df/dde/a17401" ],
-    [ "boss_tyrannus", "d5/d7d/a17397.html#a81373192ffea8817cb72b80f4629da43", null ],
-    [ "GetAI", "d5/d7d/a17397.html#ad107030de1427d070305f5dcef96c016", null ]
+    [ "npc_hor_risen_witch_doctor", "d5/d7d/a17397.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
+    [ "JustDied", "d5/d7d/a17397.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
+    [ "JustEngagedWith", "d5/d7d/a17397.html#ae612bec2e909abb2574298f4a34116f3", null ],
+    [ "Reset", "d5/d7d/a17397.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
+    [ "UpdateAI", "d5/d7d/a17397.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
 ];

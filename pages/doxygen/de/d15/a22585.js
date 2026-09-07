@@ -1,6 +1,13 @@
 var a22585 =
 [
-    [ "HandleScriptEffect", "de/d15/a22585.html#aa60961c2609184e739dea3be8ba992d5", null ],
-    [ "PrepareSpellScript", "de/d15/a22585.html#aacde592314399112786b024153389024", null ],
-    [ "Register", "de/d15/a22585.html#a3a2299da6fd73d14c7771e7a2c8a4ebd", null ]
+    [ "OPvPCapturePointEP_CGT", "de/d15/a22585.html#a82d8e9bff56eed1870b098dcf21f77cd", null ],
+    [ "ChangeState", "de/d15/a22585.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d", null ],
+    [ "FillInitialWorldStates", "de/d15/a22585.html#ae7d57fe449bb38de013b18ecf2f9f07c", null ],
+    [ "HandlePlayerEnter", "de/d15/a22585.html#a48cb29473f25ed9b469c7ff54acc9d88", null ],
+    [ "HandlePlayerLeave", "de/d15/a22585.html#ad1886046ecf8c382e1fd0e01d6394614", null ],
+    [ "LinkGraveyard", "de/d15/a22585.html#ada14179a31fb6235b7882a190dc96c40", null ],
+    [ "SendChangePhase", "de/d15/a22585.html#a30d9f8701dd6a78740f7df0d2c7ceb9d", null ],
+    [ "UpdateTowerState", "de/d15/a22585.html#a764284d6143d4879b5bc003acc52048c", null ],
+    [ "m_GraveyardSide", "de/d15/a22585.html#aaf1f8440dc891ed45857bb7d15149d9a", null ],
+    [ "m_TowerState", "de/d15/a22585.html#a6f434f86ed97f88368e3194a3bc3183b", null ]
 ];

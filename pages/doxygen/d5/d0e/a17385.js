@@ -1,8 +1,7 @@
 var a17385 =
 [
-    [ "boss_krickAI", "d5/d0e/a17385.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
-    [ "DoAction", "d5/d0e/a17385.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
-    [ "UpdateAI", "d5/d0e/a17385.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
-    [ "events", "d5/d0e/a17385.html#a75349e2fc35832e7944fa4f772380baa", null ],
-    [ "pInstance", "d5/d0e/a17385.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
+    [ "npc_hor_leader_secondAI", "d7/dd2/a17389.html", "d7/dd2/a17389" ],
+    [ "npc_hor_leader_second", "d5/d0e/a17385.html#a9fa1f38ab8a0b5d2207857b75e272ee0", null ],
+    [ "GetAI", "d5/d0e/a17385.html#af5b97ecca35501a75658919d384a18f7", null ],
+    [ "OnGossipSelect", "d5/d0e/a17385.html#a8355f7f2f8e7655c7ebc7145a847ab87", null ]
 ];

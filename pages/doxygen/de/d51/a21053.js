@@ -1,14 +1,7 @@
 var a21053 =
 [
-    [ "npc_massive_jormungarAI", "de/d51/a21053.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
-    [ "DoAction", "de/d51/a21053.html#a8084994ba056c907b2e487568fa7502a", null ],
-    [ "JustDied", "de/d51/a21053.html#a02b4e75227811250e2210f754e6e04f2", null ],
-    [ "JustEngagedWith", "de/d51/a21053.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
-    [ "JustReachedHome", "de/d51/a21053.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
-    [ "MoveInLineOfSight", "de/d51/a21053.html#a55c817111fab479c3abcfca8942f16e8", null ],
-    [ "Reset", "de/d51/a21053.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
-    [ "UpdateAI", "de/d51/a21053.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
-    [ "events", "de/d51/a21053.html#a92334b8178317a91a7d4336096d75f33", null ],
-    [ "m_pInstance", "de/d51/a21053.html#ad50a9852370798817fda318f71f27653", null ],
-    [ "summons", "de/d51/a21053.html#acfa84efc38b994706015e6d82fe1f653", null ]
+    [ "OnRemove", "de/d51/a21053.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "de/d51/a21053.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "de/d51/a21053.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "de/d51/a21053.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

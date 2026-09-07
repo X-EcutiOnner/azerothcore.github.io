@@ -1,6 +1,5 @@
 var a11209 =
 [
-    [ "SetDungeonDifficultyClient", "d6/d41/a11209.html#ae3bb2ac16b8712a3eb731913af26961c", null ],
-    [ "Read", "d6/d41/a11209.html#a6f92ee86dc73b1a51a9c4683997e6c4f", null ],
-    [ "Mode", "d6/d41/a11209.html#a3cb1f62fba1849dfb59c9b8f46fe4c27", null ]
+    [ "SocketEnchantID", "d6/d41/a11209.html#ae682a8405a5fa1c70033d190dde25d99", null ],
+    [ "SocketIndex", "d6/d41/a11209.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
 ];

@@ -1,7 +1,8 @@
 var a22041 =
 [
-    [ "HandleSendEvent", "d5/d01/a22041.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "d5/d01/a22041.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "d5/d01/a22041.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "d5/d01/a22041.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "HandleEffectApply", "d5/d01/a22041.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "d5/d01/a22041.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "d5/d01/a22041.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "d5/d01/a22041.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "d5/d01/a22041.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

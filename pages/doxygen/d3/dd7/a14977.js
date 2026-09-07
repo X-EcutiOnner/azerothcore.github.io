@@ -1,7 +1,7 @@
 var a14977 =
 [
-    [ "HandleFinish", "d3/dd7/a14977.html#a8927aaa07145b46067d5807c2048330a", null ],
-    [ "PrepareSpellScript", "d3/dd7/a14977.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
-    [ "Register", "d3/dd7/a14977.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
-    [ "Validate", "d3/dd7/a14977.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
+    [ "OnApply", "d3/dd7/a14977.html#a42148069675e663456bb5495fa5c8702", null ],
+    [ "OnPeriodic", "d3/dd7/a14977.html#ad3582b02b369e3029e20817dd19aede0", null ],
+    [ "PrepareAuraScript", "d3/dd7/a14977.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
+    [ "Register", "d3/dd7/a14977.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
 ];

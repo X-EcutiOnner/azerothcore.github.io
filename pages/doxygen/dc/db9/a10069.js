@@ -1,15 +1,8 @@
 var a10069 =
 [
-    [ "LootStoreItem", "dc/db9/a10069.html#a10250dce57b2b8103c6ac11aa1ac2f0f", null ],
-    [ "IsValid", "dc/db9/a10069.html#ae5fc113c31d96bc7ca31a5bc36ab2fcf", null ],
-    [ "Roll", "dc/db9/a10069.html#a87cc7956b131a16aee7bd5d4808193df", null ],
-    [ "chance", "dc/db9/a10069.html#a20411103b449a9176b3bc665f909f06f", null ],
-    [ "conditions", "dc/db9/a10069.html#a88812a51fb467a189f2824ad8b3198e8", null ],
-    [ "groupid", "dc/db9/a10069.html#abc6df381782d25490dff0e54bec63b3a", null ],
-    [ "itemid", "dc/db9/a10069.html#a5df1d4fde5f3358470bd16f7ad9154c1", null ],
-    [ "lootmode", "dc/db9/a10069.html#ab5f7b258bd5cfe4263acd9e0b253b166", null ],
-    [ "maxcount", "dc/db9/a10069.html#a96012059cc6affa8120ef544682781d2", null ],
-    [ "mincount", "dc/db9/a10069.html#ada6a4d427187361c6bc33bdde789e809", null ],
-    [ "needs_quest", "dc/db9/a10069.html#a5a2fe7ae48508b88bbdfc70fc4035f31", null ],
-    [ "reference", "dc/db9/a10069.html#a374a94e34095a1beb38abca43069d0b6", null ]
+    [ "InstResetEvent", "dc/db9/a10069.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
+    [ "InstResetEvent", "dc/db9/a10069.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
+    [ "difficulty", "dc/db9/a10069.html#a67afe513dd42370ac4bb385a7128a324", null ],
+    [ "mapid", "dc/db9/a10069.html#ad02e00b2782304fbd75973fe58eefd33", null ],
+    [ "type", "dc/db9/a10069.html#ad211513c7ed39269d464190398dabaed", null ]
 ];

@@ -1,7 +1,7 @@
 var a25385 =
 [
-    [ "HandleProc", "d4/d34/a25385.html#af2da4e2be8fbb73a398308a0cdc86112", null ],
-    [ "PrepareAuraScript", "d4/d34/a25385.html#af463b573b0202e74f77c46fadca3b5e0", null ],
-    [ "Register", "d4/d34/a25385.html#a6e435d0802370379fa0d1707442eaa58", null ],
-    [ "Validate", "d4/d34/a25385.html#a1fe293134b3f57386ab412357ce968e4", null ]
+    [ "HandleScriptEffect", "d4/d34/a25385.html#a4444d5f146e875bae40edbcc8ed408cb", null ],
+    [ "PrepareSpellScript", "d4/d34/a25385.html#af4320dd6567d8c9cb2a1492095a98459", null ],
+    [ "Register", "d4/d34/a25385.html#ab9360c3a883dd5a7df9836306d9762ec", null ],
+    [ "Validate", "d4/d34/a25385.html#a51ebef5e7fff9dfaab553ecae7be732f", null ]
 ];

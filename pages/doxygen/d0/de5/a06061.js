@@ -1,10 +1,10 @@
 var a06061 =
 [
-    [ "Alias", "d0/de5/a06061.html#ac885c365760ade7b0c74e5fead82a210", null ],
-    [ "Index", "d0/de5/a06061.html#ad841e71a9394fc114a35f0234ef581b6", null ],
-    [ "Name", "d0/de5/a06061.html#af8b9f87733157401cff6b0846a545fa4", null ],
-    [ "TableAlias", "d0/de5/a06061.html#aa9ca2448829defe395b479a9a4ca3c3e", null ],
-    [ "TableName", "d0/de5/a06061.html#ada6594cc2aa67c8d34bdb45e757fda8c", null ],
-    [ "Type", "d0/de5/a06061.html#a76dec8aee42dce6698e4fda0ee1e3eba", null ],
-    [ "TypeName", "d0/de5/a06061.html#aba1b90e43c4f4c545f76568cae86ad43", null ]
+    [ "FreezeDetector", "d2/d78/a05087.html#gae4bea4699ff716ee22295d12bc9f1b9b", null ],
+    [ "Handler", "d2/d78/a05087.html#gad4c4e5b291e0c6c2dc169a7dbffdfabb", null ],
+    [ "Start", "d2/d78/a05087.html#ga6a90ff702a8d363bd23334c81e2e5770", null ],
+    [ "_lastChangeMsTime", "d2/d78/a05087.html#ga0a2b971b7ea733d846be71abf7b5dc1d", null ],
+    [ "_maxCoreStuckTimeInMs", "d2/d78/a05087.html#ga54077eab38ea5d0db27f08c50fd0652e", null ],
+    [ "_timer", "d2/d78/a05087.html#ga2377cec7cca6dbb9133a3d48b4d376c3", null ],
+    [ "_worldLoopCounter", "d2/d78/a05087.html#ga0ea988a0e070d056c16d7c9f3b1035f4", null ]
 ];

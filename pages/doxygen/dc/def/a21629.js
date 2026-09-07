@@ -1,6 +1,10 @@
 var a21629 =
 [
-    [ "npc_q24545_lich_kingAI", "db/dfe/a21633.html", "db/dfe/a21633" ],
-    [ "npc_q24545_lich_king", "dc/def/a21629.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "dc/def/a21629.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "npc_jenny", "dc/def/a21629.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "dc/def/a21629.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "dc/def/a21629.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "dc/def/a21629.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "dc/def/a21629.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "dc/def/a21629.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "dc/def/a21629.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

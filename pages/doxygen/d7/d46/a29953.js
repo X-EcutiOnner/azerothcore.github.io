@@ -1,9 +1,4 @@
 var a29953 =
 [
-    [ "adtData", "d9/df6/a29961.html", "d9/df6/a29961" ],
-    [ "prepareLoadedData", "d7/d46/a29953.html#a6b755c9e341918d05105d993391429c6", null ],
-    [ "adt_list", "d7/d46/a29953.html#abe28c39e8856412c4fb182baab3218f0", null ],
-    [ "fcc", "d7/d46/a29953.html#ac8ee92a1747e31385cbfadaea16c267f", null ],
-    [ "fcc_txt", "d7/d46/a29953.html#a0657c323732de8d83b9c360c1dd03b61", null ],
-    [ "size", "d7/d46/a29953.html#a797c02773dd470a318474c7ef033ba7c", null ]
+    [ "MakeConfig", "d7/d46/a29953.html#a4497365ace6ba22681024b5d3cb745c8", null ]
 ];

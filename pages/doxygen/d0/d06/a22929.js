@@ -1,7 +1,6 @@
 var a22929 =
 [
-    [ "HandleProc", "d0/d06/a22929.html#a43892c85339867a65e992b7f17fdc61c", null ],
-    [ "PrepareAuraScript", "d0/d06/a22929.html#ab5728e2c3df5b887c26f2485575087ff", null ],
-    [ "Register", "d0/d06/a22929.html#aae9f80730de402ebbda918e0116e59a0", null ],
-    [ "Validate", "d0/d06/a22929.html#a8ef20577e375a5c7d3a66824f27bf937", null ]
+    [ "CalculateAmount", "d0/d06/a22929.html#aeeabfef0accc4e0d1f78f7422dc30a99", null ],
+    [ "PrepareAuraScript", "d0/d06/a22929.html#a5cf70fe73d01e08e78a2d00e5bc95e8e", null ],
+    [ "Register", "d0/d06/a22929.html#a0d2e97463f268892965e307628aaa931", null ]
 ];

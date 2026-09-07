@@ -1,6 +1,8 @@
 var a27481 =
 [
-    [ "HandleBanish", "de/db0/a27481.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "de/db0/a27481.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "de/db0/a27481.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "CheckProc", "de/db0/a27481.html#a2e564758a050827108955f73a08e72e7", null ],
+    [ "PrepareAuraScript", "de/db0/a27481.html#a5993871d8837b43580818fa94e1bccc2", null ],
+    [ "Register", "de/db0/a27481.html#a24faa9992523bc87df7f5ebccfb42233", null ],
+    [ "WasUsedByMutilate", "de/db0/a27481.html#af31c8d77307f3cf3acee06e0b159925e", null ],
+    [ "_usedByMutilate", "de/db0/a27481.html#a3f5cde7b3af5c3a6b75d76b742cae54b", null ]
 ];

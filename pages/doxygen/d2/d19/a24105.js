@@ -1,7 +1,6 @@
 var a24105 =
 [
-    [ "HandleEffectRemove", "d2/d19/a24105.html#a317c238b165ad331beb447ea5d0de7e1", null ],
-    [ "PrepareAuraScript", "d2/d19/a24105.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
-    [ "Register", "d2/d19/a24105.html#a13fdde1557249328306a57e159d821a7", null ],
-    [ "Validate", "d2/d19/a24105.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
+    [ "npc_aeranasAI", "d8/d0f/a24109.html", "d8/d0f/a24109" ],
+    [ "npc_aeranas", "d2/d19/a24105.html#a6ea71481ef6a223a329b805081122537", null ],
+    [ "GetAI", "d2/d19/a24105.html#a81167df6665bdca81ee13468dec19643", null ]
 ];

@@ -1,8 +1,7 @@
 var a26917 =
 [
-    [ "HandleDummy", "da/d91/a26917.html#a923fa966dc7109f7cb02c25bbd23b0ff", null ],
-    [ "Load", "da/d91/a26917.html#a5b336f402a256c80d8d3f8c5b1cbda2f", null ],
-    [ "PrepareSpellScript", "da/d91/a26917.html#a79dc24ba1f2f059d77a06b457a78fcf1", null ],
-    [ "Register", "da/d91/a26917.html#afb1c744f263b21c30a5dfd3675acb364", null ],
-    [ "Validate", "da/d91/a26917.html#acaaeacf371538cafbbb4cc7cc036280e", null ]
+    [ "FilterTargets", "da/d91/a26917.html#ad679149423fda97ad5744318520022b1", null ],
+    [ "PrepareSpellScript", "da/d91/a26917.html#ac57c48690c5ad1b907f56287aee949a4", null ],
+    [ "Register", "da/d91/a26917.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
+    [ "Validate", "da/d91/a26917.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
 ];

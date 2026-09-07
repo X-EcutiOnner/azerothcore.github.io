@@ -1,7 +1,6 @@
 var a14733 =
 [
-    [ "HandleScriptEffect", "dc/d2c/a14733.html#ae758c224878aebdde0124b5d4ec902a5", null ],
-    [ "PrepareSpellScript", "dc/d2c/a14733.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
-    [ "Register", "dc/d2c/a14733.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
-    [ "Validate", "dc/d2c/a14733.html#a56f71954e122f651c6e2ec68453e16cc", null ]
+    [ "HandleEffectApply", "dc/d2c/a14733.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
+    [ "PrepareAuraScript", "dc/d2c/a14733.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
+    [ "Register", "dc/d2c/a14733.html#a2b39daf6fe325cfa909b964da62c2571", null ]
 ];

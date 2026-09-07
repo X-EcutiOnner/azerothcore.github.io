@@ -1,15 +1,10 @@
 var a10385 =
 [
-    [ "HomeMovementGenerator", "df/d90/a10385.html#af52495a86296d288d2312bf8616108d0", null ],
-    [ "~HomeMovementGenerator", "df/d90/a10385.html#a9d889b5112f6c93a0707227fc65dd902", null ],
-    [ "_setTargetLocation", "df/d90/a10385.html#a7ac3be92303b77b640c7199ec65184dd", null ],
-    [ "DoFinalize", "df/d90/a10385.html#ab1ce2df22dba7759ca28a77532a17db1", null ],
-    [ "DoInitialize", "df/d90/a10385.html#aaa6f7b1aa064be00a726539830d6c30e", null ],
-    [ "DoReset", "df/d90/a10385.html#acfebf75bcd7cc62c1b0105eb0c5e9100", null ],
-    [ "DoUpdate", "df/d90/a10385.html#a4e3c1f79f8115312f22612a4b8c6fede", null ],
-    [ "GetMovementGeneratorType", "df/d90/a10385.html#aaa203c37c8259c8b54ad5ec70db484f1", null ],
-    [ "unitSpeedChanged", "df/d90/a10385.html#ac5078f624899e574a7b56b72e2824b9a", null ],
-    [ "_walk", "df/d90/a10385.html#a97f3cd9b1c5919ffe9ab979d8ad4e747", null ],
-    [ "arrived", "df/d90/a10385.html#aab9cd0057a625afef2d96feebd6428fb", null ],
-    [ "i_recalculateTravel", "df/d90/a10385.html#a77b40bcbada8ea43accae23ceb642628", null ]
+    [ "CreateWorldPacket", "df/d90/a10385.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
+    [ "GetMotd", "df/d90/a10385.html#ab589dd8bfad950e02ee716ea9005253f", null ],
+    [ "GetMotdPacket", "df/d90/a10385.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
+    [ "instance", "df/d90/a10385.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
+    [ "LoadMotd", "df/d90/a10385.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
+    [ "LoadMotdLocale", "df/d90/a10385.html#a21aa89787d5b0bbf69158f799122edd5", null ],
+    [ "SetMotd", "df/d90/a10385.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
 ];

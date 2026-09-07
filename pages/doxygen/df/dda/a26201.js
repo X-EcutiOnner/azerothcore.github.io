@@ -1,7 +1,9 @@
 var a26201 =
 [
-    [ "HandleProc", "df/dda/a26201.html#af93da4cc948eff04ff27c04ca7b09618", null ],
-    [ "PrepareAuraScript", "df/dda/a26201.html#af0fca07b13e84bec76ab3267e26294d5", null ],
-    [ "Register", "df/dda/a26201.html#a5cc61cee5cf11d73c895f982efb64300", null ],
-    [ "Validate", "df/dda/a26201.html#af095711e58e99eafe0047dd747b8291f", null ]
+    [ "CheckCast", "df/dda/a26201.html#af92fe276563a8ca0d939d881dba8adda", null ],
+    [ "HandleDummy", "df/dda/a26201.html#a86b4413dd25f96fb197604007171a8d1", null ],
+    [ "Load", "df/dda/a26201.html#ab1800d2550b944dcfa9967cc0e79c5ee", null ],
+    [ "PrepareSpellScript", "df/dda/a26201.html#a47aa868fbabee8a3988bcc93402b8cfb", null ],
+    [ "Register", "df/dda/a26201.html#a1b4ff1b3b518a2e4bad1836de6793561", null ],
+    [ "Validate", "df/dda/a26201.html#a8d0c2f18927e811f3d3cdee94e3623c0", null ]
 ];

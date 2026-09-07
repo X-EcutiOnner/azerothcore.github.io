@@ -1,10 +1,10 @@
 var a08933 =
 [
-    [ "DuelInfo", "d0/d23/a08933.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
-    [ "Initiator", "d0/d23/a08933.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
-    [ "IsMounted", "d0/d23/a08933.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
-    [ "Opponent", "d0/d23/a08933.html#a2765770367c839ad28f804e2df3205cb", null ],
-    [ "OutOfBoundsTime", "d0/d23/a08933.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
-    [ "StartTime", "d0/d23/a08933.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
-    [ "State", "d0/d23/a08933.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
+    [ "SpellModifier", "d0/d23/a08933.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
+    [ "mask", "d0/d23/a08933.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
+    [ "op", "d0/d23/a08933.html#a21d017f0c8d3108a0eb5f48798103356", null ],
+    [ "ownerAura", "d0/d23/a08933.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
+    [ "spellId", "d0/d23/a08933.html#a465803efab27b2ba0a49c6571b65b908", null ],
+    [ "type", "d0/d23/a08933.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
+    [ "value", "d0/d23/a08933.html#a31742662ba8112c9e9b972897a928e57", null ]
 ];

@@ -1,6 +1,9 @@
 var a17965 =
 [
-    [ "npc_gunship_boarding_leaderAI", "d7/d58/a17969.html", "d7/d58/a17969" ],
-    [ "npc_gunship_boarding_leader", "d4/db3/a17965.html#a8390eadab34a89643252f573588b140a", null ],
-    [ "GetAI", "d4/db3/a17965.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
+    [ "BattleExperienceEvent", "d4/db3/a17965.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
+    [ "Execute", "d4/db3/a17965.html#a3971962ec90f682baeae96fe6098fa97", null ],
+    [ "_creature", "d4/db3/a17965.html#a0155536d5c2be329a1f3b57c4d852098", null ],
+    [ "_level", "d4/db3/a17965.html#a22f0d7e59f579362be4576180d0977b8", null ],
+    [ "ExperiencedSpells", "d4/db3/a17965.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
+    [ "ExperiencedTimes", "d4/db3/a17965.html#af682cc246c7fdae39cc2a1e57110badc", null ]
 ];

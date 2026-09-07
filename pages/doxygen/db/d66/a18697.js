@@ -1,6 +1,7 @@
 var a18697 =
 [
-    [ "ModDest", "db/d66/a18697.html#a71638bdecb0f580dceff7858441056d8", null ],
-    [ "PrepareSpellScript", "db/d66/a18697.html#a741227928e07585b156ec716ae8b13da", null ],
-    [ "Register", "db/d66/a18697.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
+    [ "OnRemove", "db/d66/a18697.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "db/d66/a18697.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "db/d66/a18697.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "db/d66/a18697.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

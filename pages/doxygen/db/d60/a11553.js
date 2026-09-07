@@ -1,7 +1,8 @@
 var a11553 =
 [
-    [ "QuestPushResult", "db/d60/a11553.html#a71a5435a0d9dbc648a83ec90ec99215f", null ],
-    [ "Write", "db/d60/a11553.html#a90c79fdc1bf593e4d51f3d7a6e423eac", null ],
-    [ "PlayerGuid", "db/d60/a11553.html#a449c6537a692edae94f173236d0d449e", null ],
-    [ "QuestShareMessage", "db/d60/a11553.html#af80f4138f3689721f44059a9250246f0", null ]
+    [ "PetSpellAutocast", "db/d60/a11553.html#ab858647d14031a2a6109d1e923402d08", null ],
+    [ "Read", "db/d60/a11553.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
+    [ "AutocastEnabled", "db/d60/a11553.html#a3c04543dcd5382682654b3860b84c6a3", null ],
+    [ "PetGUID", "db/d60/a11553.html#aeed828abebf683078ee61204c91e28c9", null ],
+    [ "SpellID", "db/d60/a11553.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
 ];

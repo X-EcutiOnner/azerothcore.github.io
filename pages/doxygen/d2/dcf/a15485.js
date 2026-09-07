@@ -1,7 +1,6 @@
 var a15485 =
 [
-    [ "FilterTargets", "d2/dcf/a15485.html#a59e477333a54ec828a429d15b35d4936", null ],
-    [ "HandleScript", "d2/dcf/a15485.html#a983fe53aa52e53a45685055fde04a3b7", null ],
-    [ "PrepareSpellScript", "d2/dcf/a15485.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
-    [ "Register", "d2/dcf/a15485.html#a45ac61990990f16c98eaa7136297afc5", null ]
+    [ "instance_razorfen_kraul_InstanceMapScript", "d1/d6c/a15489.html", "d1/d6c/a15489" ],
+    [ "instance_razorfen_kraul", "d2/dcf/a15485.html#aedd65b901c8131a7ac21e8576734f76f", null ],
+    [ "GetInstanceScript", "d2/dcf/a15485.html#a78e77010ebb055b9530733ca25533110", null ]
 ];

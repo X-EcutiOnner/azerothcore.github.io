@@ -1,6 +1,6 @@
 var a16713 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "de/d65/a16717.html", "de/d65/a16717" ],
-    [ "npc_black_knight_skeletal_gryphon", "d2/dca/a16713.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
-    [ "GetAI", "d2/dca/a16713.html#aad244f95877a208b56a2b6544984d724", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "de/d65/a16717.html", "de/d65/a16717" ],
+    [ "instance_ruby_sanctum", "d2/dca/a16713.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
+    [ "GetInstanceScript", "d2/dca/a16713.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
 ];

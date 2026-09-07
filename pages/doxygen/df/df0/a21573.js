@@ -1,8 +1,7 @@
 var a21573 =
 [
-    [ "npc_future_youAI", "df/df0/a21573.html#a7608c050dd198e3133050e222b42f62b", null ],
-    [ "EnterEvadeMode", "df/df0/a21573.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
-    [ "MoveInLineOfSight", "df/df0/a21573.html#a35b67f9e948f5ffbde8a423190ece603", null ],
-    [ "Reset", "df/df0/a21573.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
-    [ "UpdateAI", "df/df0/a21573.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
+    [ "npc_azure_captain", "df/df0/a21573.html#abbdba89267506b8dd1e93ea0e059979c", null ],
+    [ "Reset", "df/df0/a21573.html#ae9b8cc434f2b5690f3abc55d557cbd54", null ],
+    [ "UpdateAI", "df/df0/a21573.html#a9aacf1533414ade27973ddcc46434978", null ],
+    [ "_events", "df/df0/a21573.html#a6a69ea3d3eb75601f723a10eab68c260", null ]
 ];

@@ -1,5 +1,6 @@
 var a23469 =
 [
-    [ "at_rp_nethekurse", "d1/d2f/a23469.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
-    [ "_OnTrigger", "d1/d2f/a23469.html#a93001d6dda7b2711f1efe100ffab5879", null ]
+    [ "HandleAfterRemove", "d1/d2f/a23469.html#a74610b06095572aa2c898cd84e0fb229", null ],
+    [ "PrepareAuraScript", "d1/d2f/a23469.html#ac0d686490ff37810e0116dea4d0b6077", null ],
+    [ "Register", "d1/d2f/a23469.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
 ];

@@ -1,8 +1,7 @@
 var a17233 =
 [
-    [ "npc_fos_leaderAI", "d0/d01/a17233.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "d0/d01/a17233.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "d0/d01/a17233.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "d0/d01/a17233.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "d0/d01/a17233.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "HandleScriptEffect", "d0/d01/a17233.html#a62cef31900cd61167823f3e66aa2d64b", null ],
+    [ "PrepareSpellScript", "d0/d01/a17233.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
+    [ "Register", "d0/d01/a17233.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
+    [ "Validate", "d0/d01/a17233.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
 ];

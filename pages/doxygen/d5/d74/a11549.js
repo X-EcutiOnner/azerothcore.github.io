@@ -1,8 +1,6 @@
 var a11549 =
 [
-    [ "QuestConfirmAccept", "d5/d74/a11549.html#a96504f0bcddeb3f339552d95052595c9", null ],
-    [ "Write", "d5/d74/a11549.html#add2f826fb7a8c9eed85e46a217dff0fc", null ],
-    [ "PlayerGuid", "d5/d74/a11549.html#a591f77f3c6de30ac07e62a5bedded7d5", null ],
-    [ "QuestId", "d5/d74/a11549.html#a4c857c0b173f5fd19f2a83123e8e0d44", null ],
-    [ "QuestTitle", "d5/d74/a11549.html#abf35fe4b947f0b645010009388d80bcd", null ]
+    [ "PetStopAttack", "d5/d74/a11549.html#a4a68127f3290d4f2e288600757dd3282", null ],
+    [ "Read", "d5/d74/a11549.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
+    [ "PetGUID", "d5/d74/a11549.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
 ];

@@ -1,9 +1,10 @@
 var a14657 =
 [
-    [ "HandleEffectPeriodic", "da/d63/a14657.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
-    [ "HandleEffectRemove", "da/d63/a14657.html#a96ed7366e568b70e82d622586740aa56", null ],
-    [ "Load", "da/d63/a14657.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
-    [ "PrepareAuraScript", "da/d63/a14657.html#abd1f851112a50b79e815cdd894275bab", null ],
-    [ "Register", "da/d63/a14657.html#aa3cd85aed063017c4737e7660fa81f37", null ],
-    [ "questTick", "da/d63/a14657.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
+    [ "npc_zealot_lorkhan", "da/d63/a14657.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
+    [ "JustDied", "da/d63/a14657.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
+    [ "JustEngagedWith", "da/d63/a14657.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
+    [ "Reset", "da/d63/a14657.html#abecbd4a2ea2cf3281244933fe7484239", null ],
+    [ "UpdateAI", "da/d63/a14657.html#a68c35734f8886b2c241dcbc178899206", null ],
+    [ "_scheduler", "da/d63/a14657.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
+    [ "instance", "da/d63/a14657.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
 ];

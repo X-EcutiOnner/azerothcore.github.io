@@ -1,15 +1,7 @@
 var a19477 =
 [
-    [ "boss_maexxnaAI", "d7/dcb/a19477.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
-    [ "DoCastWebWrap", "d7/dcb/a19477.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
-    [ "IsInRoom", "d7/dcb/a19477.html#a957bd38232c020611fc24dd8a6e55640", null ],
-    [ "JustDied", "d7/dcb/a19477.html#a4f0121aedeff9d44b28e888f5f3d0382", null ],
-    [ "JustEngagedWith", "d7/dcb/a19477.html#a9974fc771b3663878964aeb20914fe43", null ],
-    [ "JustSummoned", "d7/dcb/a19477.html#ab45b74b3067b42089fee804844ea41dd", null ],
-    [ "KilledUnit", "d7/dcb/a19477.html#a11cda2b905ef2381c317a01e4163be00", null ],
-    [ "Reset", "d7/dcb/a19477.html#a78385da6845ce8e3075616c24696d0cc", null ],
-    [ "UpdateAI", "d7/dcb/a19477.html#a6f0453babfa84764467970369894eb97", null ],
-    [ "events", "d7/dcb/a19477.html#a6ddb73eeb18560a08e72dd6ccc5d0c83", null ],
-    [ "summons", "d7/dcb/a19477.html#a7ea3de40dfd638db7e34c523a0461335", null ],
-    [ "wraps", "d7/dcb/a19477.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
+    [ "OnApply", "d7/dcb/a19477.html#a72a01dea703436b2a220a9976da60fa6", null ],
+    [ "PrepareAuraScript", "d7/dcb/a19477.html#adb17425258d4fb2c0c464236e15f32d7", null ],
+    [ "Register", "d7/dcb/a19477.html#af026c126029c68ed8b7c6c1886720e4c", null ],
+    [ "Validate", "d7/dcb/a19477.html#a5674396828adf4e80102ed2277f1e08a", null ]
 ];

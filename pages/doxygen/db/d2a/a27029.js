@@ -1,9 +1,7 @@
 var a27029 =
 [
-    [ "HandleKnockBack", "db/d2a/a27029.html#acaa8f445874270f34ea5b42a506671db", null ],
-    [ "HandleScript", "db/d2a/a27029.html#a29e47298601cb55c5442a3fa59bb3646", null ],
-    [ "Load", "db/d2a/a27029.html#a45700aba665b601b2c860af5a869d1af", null ],
-    [ "PrepareSpellScript", "db/d2a/a27029.html#aad1c175a2611152278d847ac59f93090", null ],
-    [ "Register", "db/d2a/a27029.html#ad790d435f422fabd128e601fb2dff103", null ],
-    [ "Validate", "db/d2a/a27029.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
+    [ "CheckProc", "db/d2a/a27029.html#adc34c24521c893499c72bc0fe8a946eb", null ],
+    [ "PrepareAuraScript", "db/d2a/a27029.html#a1e7cf41ceb818d7d234c1b998e7280be", null ],
+    [ "Register", "db/d2a/a27029.html#a60a2902196abf3239fe6b8f7defcd609", null ],
+    [ "Validate", "db/d2a/a27029.html#a13e108f88a07f0b46291cdc718022437", null ]
 ];

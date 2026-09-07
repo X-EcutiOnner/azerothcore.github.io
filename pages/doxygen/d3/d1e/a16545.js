@@ -1,6 +1,7 @@
 var a16545 =
 [
-    [ "npc_orb_carrierAI", "db/d0d/a16549.html", "db/d0d/a16549" ],
-    [ "npc_orb_carrier", "d3/d1e/a16545.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
-    [ "GetAI", "d3/d1e/a16545.html#ab5b7bbffc43b840c686dc889805ea401", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "d3/d1e/a16545.html#aed531e61508d4d404827f47c6348a5e6", null ],
+    [ "JustEngagedWith", "d3/d1e/a16545.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
+    [ "UpdateAI", "d3/d1e/a16545.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
+    [ "_events", "d3/d1e/a16545.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
 ];

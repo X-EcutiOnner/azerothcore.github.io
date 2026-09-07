@@ -1,6 +1,6 @@
 var a06493 =
 [
-    [ "KillMagnetEvent", "d9/df7/a06493.html#a1f044cb51674faebe45c0e2119601b59", null ],
-    [ "Execute", "d9/df7/a06493.html#a2905731d24060dfa7c2069b05adfa2b2", null ],
-    [ "_self", "d9/df7/a06493.html#a0fe06efbc00b38f98f2e077d7dfb1941", null ]
+    [ "NullGameObjectAI", "d9/df7/a06493.html#a54f6ae6e03fbe423d895ec306fe091db", null ],
+    [ "Permissible", "d9/df7/a06493.html#a850b58bfcc5e613f31fc95e556ed7f91", null ],
+    [ "UpdateAI", "d9/df7/a06493.html#a01b2b14306c75fafe58295a30e5d01e0", null ]
 ];

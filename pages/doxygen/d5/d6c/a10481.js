@@ -1,7 +1,11 @@
 var a10481 =
 [
-    [ "TransportPathTransform", "d5/d6c/a10481.html#af73e0369a2f0e4c2aabfde5b47b7520d", null ],
-    [ "operator()", "d5/d6c/a10481.html#ac86e405f0d39698c400d7a8d2ab10607", null ],
-    [ "_owner", "d5/d6c/a10481.html#a15428c0b9a8b11f7f63845a7d65620e8", null ],
-    [ "_transformForTransport", "d5/d6c/a10481.html#afad44bc388b7d224f7a87aed7ba2e120", null ]
+    [ "EffectMovementGenerator", "d5/d6c/a10481.html#a5b00ae06964d5c572bf2c6d14c82147e", null ],
+    [ "Finalize", "d5/d6c/a10481.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
+    [ "GetMovementGeneratorType", "d5/d6c/a10481.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
+    [ "Initialize", "d5/d6c/a10481.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
+    [ "Reset", "d5/d6c/a10481.html#a9627573a7206e12ff469e8e6e076862b", null ],
+    [ "Update", "d5/d6c/a10481.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
+    [ "i_spline", "d5/d6c/a10481.html#a35b92e440aa2af623f62d4fe8ecf216e", null ],
+    [ "m_Id", "d5/d6c/a10481.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
 ];

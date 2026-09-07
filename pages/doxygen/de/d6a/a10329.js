@@ -1,8 +1,7 @@
 var a10329 =
 [
-    [ "AbstractFollower", "de/d6a/a10329.html#a08d292896f2419dd73ae68c8e1238d4b", null ],
-    [ "~AbstractFollower", "de/d6a/a10329.html#acb394f5326ab5ea5146c79788a085647", null ],
-    [ "GetTarget", "de/d6a/a10329.html#a43f037557454528a956c379d9efb42ac", null ],
-    [ "SetTarget", "de/d6a/a10329.html#ad49748abec4bb2fe06cc8ba2699bdbd0", null ],
-    [ "_target", "de/d6a/a10329.html#aa4e43d8e60442eee41398648fd7fd45d", null ]
+    [ "flags", "de/d6a/a10329.html#a7db863994aa6692d1e2359d2c6814cd2", null ],
+    [ "groupId", "de/d6a/a10329.html#ac7efc48c61e715027a8d651fda543ada", null ],
+    [ "mapId", "de/d6a/a10329.html#ad53e068ead632ca66fbebe81e783fc52", null ],
+    [ "name", "de/d6a/a10329.html#a55368217a847f946def13b2123b22ed3", null ]
 ];

@@ -1,12 +1,11 @@
 var a12557 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "d4/db0/a12557.html#af3620678992778edbb859622e057893a", null ],
-    [ "AttackStart", "d4/db0/a12557.html#aed39eaed8648ce78349c49ee33918b93", null ],
-    [ "EnterEvadeMode", "d4/db0/a12557.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
-    [ "JustRespawned", "d4/db0/a12557.html#a460c6912063587214ba0f2e01878d827", null ],
-    [ "Reset", "d4/db0/a12557.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
-    [ "UpdateAI", "d4/db0/a12557.html#a7bf1631810c8446bc157f8ff220199b7", null ],
-    [ "_attacked", "d4/db0/a12557.html#a56d7211a3565c19b499f7de2eda6c862", null ],
-    [ "_hasAura", "d4/db0/a12557.html#a1c0049100cde1c62daf80779d1135156", null ],
-    [ "events", "d4/db0/a12557.html#a49b8e01897cd5347bbd06cac254163f4", null ]
+    [ "pet_commandscript", "d4/db0/a12557.html#a84595dcb908398e80deee0b0aa47e335", null ],
+    [ "GetCommands", "d4/db0/a12557.html#a01026a4936774d2225d10e0f6e27b08c", null ],
+    [ "HandlePetCreateCommand", "d4/db0/a12557.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
+    [ "HandlePetDeleteCommand", "d4/db0/a12557.html#a728201526e905b025aba5e6b030c288b", null ],
+    [ "HandlePetLearnCommand", "d4/db0/a12557.html#a59a2a6bd9af23fe3a775319216337bda", null ],
+    [ "HandlePetListCommand", "d4/db0/a12557.html#aeaa05b073553c0c0758ea99d982ce1cc", null ],
+    [ "HandlePetRenameCommand", "d4/db0/a12557.html#a556529bfe267eb618410b63065b7096c", null ],
+    [ "HandlePetUnlearnCommand", "d4/db0/a12557.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
 ];

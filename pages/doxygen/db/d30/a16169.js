@@ -1,7 +1,14 @@
 var a16169 =
 [
-    [ "npc_ringoAI", "d1/db1/a16173.html", "d1/db1/a16173" ],
-    [ "npc_ringo", "db/d30/a16169.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
-    [ "GetAI", "db/d30/a16169.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
-    [ "OnQuestAccept", "db/d30/a16169.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
+    [ "npc_taskmaster_fizzuleAI", "db/d30/a16169.html#ac792f91930c869ce919f8fd96b3fb076", null ],
+    [ "DoFriend", "db/d30/a16169.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
+    [ "JustEngagedWith", "db/d30/a16169.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
+    [ "ReceiveEmote", "db/d30/a16169.html#a21d0d70086f085b715a12d05fbe5d611", null ],
+    [ "Reset", "db/d30/a16169.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
+    [ "SpellHit", "db/d30/a16169.html#a4c35104935a3a6264c853a657dc42244", null ],
+    [ "UpdateAI", "db/d30/a16169.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
+    [ "factionNorm", "db/d30/a16169.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
+    [ "FlareCount", "db/d30/a16169.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
+    [ "IsFriend", "db/d30/a16169.html#ab7e6bd2e023545c73fba758267551eee", null ],
+    [ "ResetTimer", "db/d30/a16169.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
 ];

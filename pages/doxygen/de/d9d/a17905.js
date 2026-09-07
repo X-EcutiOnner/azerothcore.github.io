@@ -1,13 +1,7 @@
 var a17905 =
 [
-    [ "PassengerController", "de/d9d/a17905.html#ab834deac8dfd9a7ddd1bcb37b1e5c354", null ],
-    [ "ClearSlot", "de/d9d/a17905.html#ae10f0917fb6fd395c3bb4428cbb617cb", null ],
-    [ "ResetSlots", "de/d9d/a17905.html#a2302ac8b9fac75ba58ced41e2b5236f0", null ],
-    [ "SelectSpawnPoint", "de/d9d/a17905.html#a4a4d575417a7c7940471f21e32d48b5c", null ],
-    [ "SummonCreatures", "de/d9d/a17905.html#a287e4cafc1d3739edf90c00ad91e2c64", null ],
-    [ "_controlledSlots", "de/d9d/a17905.html#af4271e53792477394a5c1022ed8fb30f", null ],
-    [ "_respawnCooldowns", "de/d9d/a17905.html#a98a6d819ec193d5a1e96739ac507b146", null ],
-    [ "_slotInfo", "de/d9d/a17905.html#a9c8fa44394c10eb2a7fec3c4f273f448", null ],
-    [ "_spawnPoint", "de/d9d/a17905.html#ab168baee9c4d6343c7adb6978a3a56d2", null ],
-    [ "_transport", "de/d9d/a17905.html#ac2c664d3b5941c673c13f7e36aa2d974", null ]
+    [ "FilterTargets", "de/d9d/a17905.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
+    [ "Load", "de/d9d/a17905.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
+    [ "PrepareSpellScript", "de/d9d/a17905.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
+    [ "Register", "de/d9d/a17905.html#a33342cc676adaabe5e3896fa559631b7", null ]
 ];

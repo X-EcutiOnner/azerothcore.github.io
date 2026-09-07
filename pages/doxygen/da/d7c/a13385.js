@@ -1,14 +1,8 @@
 var a13385 =
 [
-    [ "boss_selin_fireheart", "da/d7c/a13385.html#ae3270a227550391fd752d3f241e5ea46", null ],
-    [ "CanAIAttack", "da/d7c/a13385.html#a36f409a006a09812452052d554d5e810", null ],
-    [ "JustDied", "da/d7c/a13385.html#a1330c499c04aee849bcbb3ebfe30eb1e", null ],
-    [ "JustEngagedWith", "da/d7c/a13385.html#ad414ec34127bffbae1b6b5f9a794f28c", null ],
-    [ "KilledUnit", "da/d7c/a13385.html#a0fc74ba75a482a67d19f4323df1f5e6c", null ],
-    [ "MovementInform", "da/d7c/a13385.html#a8072412acc5f52fdeea3b4f740021a91", null ],
-    [ "OnPowerUpdate", "da/d7c/a13385.html#a71677fbd88ab14b6fb40e3bc9897c982", null ],
-    [ "Reset", "da/d7c/a13385.html#a6d6cab76647794f971c9a6837d8fbf8c", null ],
-    [ "SelectNearestCrystal", "da/d7c/a13385.html#afe01bdf64e5f84c7aa5ee0f164ac29c0", null ],
-    [ "SpawnCrystals", "da/d7c/a13385.html#a5c874662b9bf518782b2dc824f1eb03d", null ],
-    [ "SummonedCreatureDies", "da/d7c/a13385.html#a396341d39bead723a7c6f716c08aa447", null ]
+    [ "CalcPeriodic", "da/d7c/a13385.html#a493609298c152df8216641ba2e5861cd", null ],
+    [ "PrepareAuraScript", "da/d7c/a13385.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
+    [ "Register", "da/d7c/a13385.html#a44002db5980dfc1db816cf61fd446491", null ],
+    [ "Update", "da/d7c/a13385.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
+    [ "Validate", "da/d7c/a13385.html#a060e189aaa4396681d42906b65c9196f", null ]
 ];

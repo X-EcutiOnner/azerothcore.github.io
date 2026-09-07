@@ -1,6 +1,6 @@
 var a18289 =
 [
-    [ "HandleScript", "d7/dac/a18289.html#abd766c298f8aa363d28198b6a5d7e374", null ],
-    [ "PrepareSpellScript", "d7/dac/a18289.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
-    [ "Register", "d7/dac/a18289.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
+    [ "npc_volatile_oozeAI", "df/d77/a18293.html", "df/d77/a18293" ],
+    [ "npc_volatile_ooze", "d7/dac/a18289.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "d7/dac/a18289.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

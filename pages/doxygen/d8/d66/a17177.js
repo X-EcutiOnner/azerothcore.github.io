@@ -1,6 +1,6 @@
 var a17177 =
 [
-    [ "HandleScriptEffect", "d8/d66/a17177.html#a90b13b2a093fdd430a383d7ea4126290", null ],
-    [ "PrepareSpellScript", "d8/d66/a17177.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
-    [ "Register", "d8/d66/a17177.html#a53c8d47ee21637055ad901946be1e2c2", null ]
+    [ "HandleDummy", "d8/d66/a17177.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
+    [ "PrepareSpellScript", "d8/d66/a17177.html#accbf8f40b1ab123a2be81a514c94c836", null ],
+    [ "Register", "d8/d66/a17177.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
 ];

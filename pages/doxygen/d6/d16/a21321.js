@@ -1,7 +1,19 @@
 var a21321 =
 [
-    [ "npc_azure_binder", "d6/d16/a21321.html#ae273e78765faeb3e9604b7ce89ef6e6c", null ],
-    [ "Reset", "d6/d16/a21321.html#a0a11617ac11bf6aacacc3b36ce90fdca", null ],
-    [ "UpdateAI", "d6/d16/a21321.html#add9f304212a1a10267e564cd939f3751", null ],
-    [ "_events", "d6/d16/a21321.html#a0026fdd57e09f02b46010d696bb0a5da", null ]
+    [ "boss_skadiAI", "d6/d16/a21321.html#a4e9708950b0dda44bd70d77ee9f9de52", null ],
+    [ "DoAction", "d6/d16/a21321.html#ac0513a8e187b3d68fd320b124930ac8b", null ],
+    [ "EnterEvadeMode", "d6/d16/a21321.html#ab6cf2f709b4888b1b4e17c6022d7091f", null ],
+    [ "JustDied", "d6/d16/a21321.html#af963eda18854869f3a73cb22f48b0230", null ],
+    [ "JustEngagedWith", "d6/d16/a21321.html#a2853d557da48decede7baa4845f5573f", null ],
+    [ "JustSummoned", "d6/d16/a21321.html#ac61c732b17b39bdbedf18742b8403c5d", null ],
+    [ "KilledUnit", "d6/d16/a21321.html#af82c5edf85466d9dd5e1dee666231687", null ],
+    [ "Reset", "d6/d16/a21321.html#a7d1287f7a3cc5703a7430a15e769cb2c", null ],
+    [ "SpawnFirstWave", "d6/d16/a21321.html#af65d4bfff98b239f96e50c868b90e08a", null ],
+    [ "UpdateAI", "d6/d16/a21321.html#a05690f147e2c2a584179c19b0a84a1b0", null ],
+    [ "_encounterStarted", "d6/d16/a21321.html#a37c907c5136097497bcb30da4c70d121", null ],
+    [ "_events", "d6/d16/a21321.html#af7fbc8d2c28052f43463897bcb846b25", null ],
+    [ "_firstWaveSummoned", "d6/d16/a21321.html#a1af2048d0d48e8670cdb4957e191f172", null ],
+    [ "_instance", "d6/d16/a21321.html#a34a422dcee2353a888deaac3bab983a4", null ],
+    [ "_phase", "d6/d16/a21321.html#a64808a1b0cee00069a69c050eeb0240e", null ],
+    [ "_summons", "d6/d16/a21321.html#ae02eac33cf9fa64a2d2e20b5e4d8a591", null ]
 ];

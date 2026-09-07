@@ -1,4 +1,5 @@
 var a02372 =
 [
-    [ "CliThread", "dc/d96/a05060.html#ga2a2e263e5224262317a4728b5a4c18ac", null ]
+    [ "learn_commandscript", "d2/d1c/a12505.html", "d2/d1c/a12505" ],
+    [ "AddSC_learn_commandscript", "da/d75/a02372.html#a8dd69858fd98c4630027654ecdcf92e7", null ]
 ];

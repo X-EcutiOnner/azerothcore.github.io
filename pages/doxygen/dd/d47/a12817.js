@@ -1,14 +1,12 @@
 var a12817 =
 [
-    [ "boss_chromaggus", "dd/d47/a12817.html#a2da694ece234807365ce4f22e067eb5c", null ],
-    [ "CanAIAttack", "dd/d47/a12817.html#aed1d8ef49450c5495045bd62f0f3e2e6", null ],
-    [ "Initialize", "dd/d47/a12817.html#ac8d72d4c3b265abca798c9ddc166df3b", null ],
-    [ "JustEngagedWith", "dd/d47/a12817.html#a7a9e301d17657ace82b4243814cbb52c", null ],
-    [ "PathEndReached", "dd/d47/a12817.html#a790a3e06fb4db275bb447b15bb838508", null ],
-    [ "Reset", "dd/d47/a12817.html#a003db2053b634c969499d45f7f65be6e", null ],
-    [ "SetGUID", "dd/d47/a12817.html#afec7a40681ff89c4712bc50b7bc49d6a", null ],
-    [ "UpdateAI", "dd/d47/a12817.html#abc27a22d82555fe3301708e9aaa61997", null ],
-    [ "_breathSpells", "dd/d47/a12817.html#a5d46c6903fd106fd83f8115b48d40cf9", null ],
-    [ "_playerGUID", "dd/d47/a12817.html#a3c04a19e87a122c12508e181319411a0", null ],
-    [ "Enraged", "dd/d47/a12817.html#a4c19a112decabb38f1bca7dc60d622ef", null ]
+    [ "boss_pyroguard_emberseer", "dd/d47/a12817.html#a4c1bd9e71776fa088a84009565dc527d", null ],
+    [ "JustDied", "dd/d47/a12817.html#a6f0e58c7107563f40e864eede5a907d5", null ],
+    [ "JustEngagedWith", "dd/d47/a12817.html#a1c9662393ea5862ee26f5242e184fd74", null ],
+    [ "OpenDoors", "dd/d47/a12817.html#a80761b3fad5864ce80dae81d31df748c", null ],
+    [ "Reset", "dd/d47/a12817.html#a7eda06b39dc920040e205595a0f8efa2", null ],
+    [ "SetData", "dd/d47/a12817.html#a533c643c9b65813f48fd92ee73670fae", null ],
+    [ "SpellHit", "dd/d47/a12817.html#aa9842818e2ab218ac175cebfc82f6adf", null ],
+    [ "UpdateAI", "dd/d47/a12817.html#a7e12a0ef98e8c751a33e4492ae368074", null ],
+    [ "UpdateRunes", "dd/d47/a12817.html#af80bdd2eb6200d3abbcb08b57798f1e5", null ]
 ];

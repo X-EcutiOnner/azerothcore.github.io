@@ -1,9 +1,8 @@
 var a29321 =
 [
-    [ "chargeConsumed", "da/d35/a29321.html#a49f170e5f66cecdf6d719d1f6ac97254", null ],
-    [ "cooldownSet", "da/d35/a29321.html#a60219087858953e3ea124b1b784516b2", null ],
-    [ "effectMask", "da/d35/a29321.html#ae0feb161d225551bba25d466541cde84", null ],
-    [ "procChance", "da/d35/a29321.html#a0299896836a739f2601a5ee1078f53bb", null ],
-    [ "shouldProc", "da/d35/a29321.html#a497babcaf1a36b0abd10b4e360c231f2", null ],
-    [ "spellsCast", "da/d35/a29321.html#a12d58d19ba4df25b8bd9dc6e1d089408", null ]
+    [ "Id", "da/d35/a29321.html#a6943bf760d15b3f8af4109d131652d72", null ],
+    [ "MapId", "da/d35/a29321.html#ab0cccd760636a3b42af693d6c483bed9", null ],
+    [ "X", "da/d35/a29321.html#a91183890254546efeb3162173cc60dad", null ],
+    [ "Y", "da/d35/a29321.html#a19ab4d026b45d74f006479641afbc4d3", null ],
+    [ "Z", "da/d35/a29321.html#aaa23c59f20fc96aec148b82516f30036", null ]
 ];

@@ -1,6 +1,6 @@
 var a18905 =
 [
-    [ "npc_gluttonous_abominationAI", "d0/d13/a18909.html", "d0/d13/a18909" ],
-    [ "npc_gluttonous_abomination", "db/dfb/a18905.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
-    [ "GetAI", "db/dfb/a18905.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d0/d13/a18909.html", "d0/d13/a18909" ],
+    [ "npc_green_dragon_combat_trigger", "db/dfb/a18905.html#acec675494f5e5e9609bf34b7f25cb569", null ],
+    [ "GetAI", "db/dfb/a18905.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
 ];

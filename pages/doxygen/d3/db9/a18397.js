@@ -1,7 +1,6 @@
 var a18397 =
 [
-    [ "FrostBombExplosion", "d3/db9/a18397.html#ac7d318e241e6442e8aa084b27ea50236", null ],
-    [ "Execute", "d3/db9/a18397.html#a0b6521266f18b621260286c530ff3f36", null ],
-    [ "_owner", "d3/db9/a18397.html#aa9ff39ce43c351e8815f895896fa759b", null ],
-    [ "_sindragosaGUID", "d3/db9/a18397.html#a5afc3d543c8fa457c90735f841aa161c", null ]
+    [ "boss_rotfaceAI", "d2/d7b/a18401.html", "d2/d7b/a18401" ],
+    [ "boss_rotface", "d3/db9/a18397.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "d3/db9/a18397.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

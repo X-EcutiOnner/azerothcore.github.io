@@ -1,8 +1,9 @@
 var a24937 =
 [
-    [ "Absorb", "d4/dc8/a24937.html#aecfcbafe098adddba0a73965c447558c", null ],
-    [ "Load", "d4/dc8/a24937.html#a1883cb4c86478359dd1ff8df25e2ec65", null ],
-    [ "PrepareAuraScript", "d4/dc8/a24937.html#a3a65787dd5b7c1c796b98ce79f180d4d", null ],
-    [ "Register", "d4/dc8/a24937.html#ab6bea7d62539841fa21fa8f3c8122707", null ],
-    [ "_limit", "d4/dc8/a24937.html#a5985a97749e318e3ccba4c96724d8704", null ]
+    [ "FilterTargets", "d4/dc8/a24937.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
+    [ "PrepareSpellScript", "d4/dc8/a24937.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
+    [ "Register", "d4/dc8/a24937.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
+    [ "SetTargets", "d4/dc8/a24937.html#ac77e95af9b08118e87e3329eab5515ea", null ],
+    [ "Validate", "d4/dc8/a24937.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
+    [ "_targets", "d4/dc8/a24937.html#acc66768f54c514552f0ab01274c24f17", null ]
 ];

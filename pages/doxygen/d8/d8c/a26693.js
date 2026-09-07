@@ -1,8 +1,8 @@
 var a26693 =
 [
-    [ "CalculateAmount", "d8/d8c/a26693.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
-    [ "PrepareAuraScript", "d8/d8c/a26693.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
-    [ "ReflectDamage", "d8/d8c/a26693.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
-    [ "Register", "d8/d8c/a26693.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
-    [ "Validate", "d8/d8c/a26693.html#af2936ba4a29fc8735a3cabe805c77355", null ]
+    [ "CheckProc", "d8/d8c/a26693.html#a05580997d10960d8a8186c42b008894f", null ],
+    [ "OnRemove", "d8/d8c/a26693.html#a55cc4caf383fa643dd9df6c335937063", null ],
+    [ "PrepareAuraScript", "d8/d8c/a26693.html#a19bbc19f6a8f2e59903319eb56afacea", null ],
+    [ "Register", "d8/d8c/a26693.html#a2caaa38b44038e58f1715deb2af1a7ec", null ],
+    [ "Validate", "d8/d8c/a26693.html#a93fe3df6878e3edb540a70871dd98e7d", null ]
 ];

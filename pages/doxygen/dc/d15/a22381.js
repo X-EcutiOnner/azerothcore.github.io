@@ -1,5 +1,6 @@
 var a22381 =
 [
-    [ "OutdoorPvP_terokkar_forest", "dc/d15/a22381.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
-    [ "GetOutdoorPvP", "dc/d15/a22381.html#acf268293812d7a1a233e7f1fcba1e733", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "dc/d15/a22381.html#afd54b130725aa724b80f150f968ce09d", null ],
+    [ "MovementInform", "dc/d15/a22381.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
+    [ "PassengerBoarded", "dc/d15/a22381.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
 ];

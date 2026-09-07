@@ -1,6 +1,6 @@
 var a21769 =
 [
-    [ "npc_venture_co_stragglerAI", "d3/dd4/a21773.html", "d3/dd4/a21773" ],
-    [ "npc_venture_co_straggler", "d9/dcc/a21769.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "d9/dcc/a21769.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "npc_dalaran_mageAI", "d3/dd4/a21773.html", "d3/dd4/a21773" ],
+    [ "npc_dalaran_mage", "d9/dcc/a21769.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
+    [ "GetAI", "d9/dcc/a21769.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
 ];

@@ -1,7 +1,8 @@
 var a19129 =
 [
-    [ "HandleEffectPeriodic", "d4/d86/a19129.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
-    [ "PrepareAuraScript", "d4/d86/a19129.html#af1d284c4686f739b02b350a6c0a166c2", null ],
-    [ "Register", "d4/d86/a19129.html#a006a97823ac07346771ec4ab61bd0763", null ],
-    [ "Validate", "d4/d86/a19129.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
+    [ "npc_arthas_teleport_visualAI", "d4/d86/a19129.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "d4/d86/a19129.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "d4/d86/a19129.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "d4/d86/a19129.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "d4/d86/a19129.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

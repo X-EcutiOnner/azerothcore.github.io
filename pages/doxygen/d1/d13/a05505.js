@@ -1,7 +1,10 @@
 var a05505 =
 [
-    [ "Secret", "d1/d13/a05505.html#aae38427994c1f4ddf3838c4e1f3f7e03", null ],
-    [ "GenerateToken", "d1/d13/a05505.html#a44829d44e78247991d9c3dde270cab5c", null ],
-    [ "ValidateToken", "d1/d13/a05505.html#ab6b27542814e577106ad587a5807d663", null ],
-    [ "RECOMMENDED_SECRET_LENGTH", "d1/d13/a05505.html#a885fc6c1a5bda166416f161ea202eb72", null ]
+    [ "Hash", "d1/d13/a05505.html#ae23bd592ac284f3068c36688d084c24f", null ],
+    [ "Verify", "d1/d13/a05505.html#a7a041ffc17e4d4291f81d4090f31e1fd", null ],
+    [ "DEFAULT_ITERATIONS", "d1/d13/a05505.html#a898bbe9b4ffddef1eb067915740d6100", null ],
+    [ "DEFAULT_MEMORY_COST", "d1/d13/a05505.html#a413b8cdff629f26836a776412362056d", null ],
+    [ "ENCODED_HASH_LEN", "d1/d13/a05505.html#a07dd0a8033f54177570f62a2a1a0da3d", null ],
+    [ "HASH_LEN", "d1/d13/a05505.html#a923313625297d08ff3ca9a04bbe527aa", null ],
+    [ "PARALLELISM", "d1/d13/a05505.html#a4aabf2fcc43b23c9d565ced3a2adb405", null ]
 ];

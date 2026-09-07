@@ -1,18 +1,7 @@
 var a21965 =
 [
-    [ "npc_blessed_bannerAI", "dd/d22/a21965.html#a563cd394d72a900d735f8639074deae1", null ],
-    [ "JustDied", "dd/d22/a21965.html#a06e0e0c1e673c13488bd47e130098915", null ],
-    [ "JustEngagedWith", "dd/d22/a21965.html#abfdd9e554fbbe16f6058d5cb10394a84", null ],
-    [ "JustSummoned", "dd/d22/a21965.html#a446dc0b76eb3549b0e86b02e541f6296", null ],
-    [ "MoveInLineOfSight", "dd/d22/a21965.html#a34a0a856a4a4c05954ba300d8031e374", null ],
-    [ "Reset", "dd/d22/a21965.html#a6fe7e49f2077ed549a6406592aec345e", null ],
-    [ "UpdateAI", "dd/d22/a21965.html#a8ca070c63dd48e22823ac26d11da75be", null ],
-    [ "events", "dd/d22/a21965.html#a79b7fbee1492860fe64d42928e494e3d", null ],
-    [ "guidDalfors", "dd/d22/a21965.html#a369a837b6fa57d0960f24d9ea629ed04", null ],
-    [ "guidHalof", "dd/d22/a21965.html#aef28a7624fb88e65a7f79fe34c320a29", null ],
-    [ "guidMason", "dd/d22/a21965.html#a05e6dc20409e2271de8fe4f4b3ae7bfa", null ],
-    [ "guidPriest", "dd/d22/a21965.html#a25f4056b2d7fda02885f58502f809a9c", null ],
-    [ "HalofSpawned", "dd/d22/a21965.html#a38e98094f05c09ea19a4f44771194b2e", null ],
-    [ "PhaseCount", "dd/d22/a21965.html#a983110caf86d94374a299d7268f7458c", null ],
-    [ "Summons", "dd/d22/a21965.html#a92d7543e31c5cb367379711cb767ebd6", null ]
+    [ "OnRemove", "dd/d22/a21965.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "dd/d22/a21965.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "dd/d22/a21965.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "dd/d22/a21965.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

@@ -1,9 +1,6 @@
 var a20613 =
 [
-    [ "npc_ulduar_dark_rune_watcher", "d9/dbe/a20613.html#aaddea3969eaab06df6b7e5d08f6ad626", null ],
-    [ "CanAIAttack", "d9/dbe/a20613.html#ae87ae4e671855f9e18eef6ba7f455463", null ],
-    [ "Reset", "d9/dbe/a20613.html#a66ac44c21691994b0b45c096dd7a0d56", null ],
-    [ "UpdateAI", "d9/dbe/a20613.html#a008399ff99fbf7c298485450cd3bd4e3", null ],
-    [ "timer1", "d9/dbe/a20613.html#a8e7520f4f33604ebd8177b12ca610ea3", null ],
-    [ "timer2", "d9/dbe/a20613.html#a1be016384a7fd92e96786ff6caf6c77d", null ]
+    [ "OnRemoveStun", "d9/dbe/a20613.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
+    [ "PrepareAuraScript", "d9/dbe/a20613.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
+    [ "Register", "d9/dbe/a20613.html#a3166cfcd2acdcd4460217503d4008367", null ]
 ];

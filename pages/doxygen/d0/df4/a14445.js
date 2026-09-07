@@ -1,11 +1,15 @@
 var a14445 =
 [
-    [ "boss_hakkarAI", "d0/df4/a14445.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
-    [ "ApplyHakkarPowerStacks", "d0/df4/a14445.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
-    [ "CheckInRoom", "d0/df4/a14445.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
-    [ "EnterEvadeMode", "d0/df4/a14445.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
-    [ "JustDied", "d0/df4/a14445.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
-    [ "JustEngagedWith", "d0/df4/a14445.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
-    [ "Reset", "d0/df4/a14445.html#a52db5743c09088e2e9f1aff1513960f2", null ],
-    [ "UpdateAI", "d0/df4/a14445.html#a1119212465bcf293991d7a520c6ffe42", null ]
+    [ "npc_amanishi_tempest", "d0/df4/a14445.html#a8e15b39501998e9f8c45baef0963d160", null ],
+    [ "DoAction", "d0/df4/a14445.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
+    [ "EnterEvadeMode", "d0/df4/a14445.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
+    [ "JustDied", "d0/df4/a14445.html#aadda903d17a5f4560ce2db896bd7b257", null ],
+    [ "JustEngagedWith", "d0/df4/a14445.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
+    [ "JustSummoned", "d0/df4/a14445.html#aac72fdc33051370c3cffa388f466b6be", null ],
+    [ "Reset", "d0/df4/a14445.html#aa921f85142f9103bea839bdc0330e1cc", null ],
+    [ "ScheduleEvents", "d0/df4/a14445.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
+    [ "SummonedCreatureEvade", "d0/df4/a14445.html#a61eebb122c9288c826cdf352c17e0590", null ],
+    [ "UpdateAI", "d0/df4/a14445.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
+    [ "_instance", "d0/df4/a14445.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
+    [ "_summons", "d0/df4/a14445.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
 ];

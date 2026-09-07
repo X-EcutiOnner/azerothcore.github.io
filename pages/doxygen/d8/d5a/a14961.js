@@ -1,6 +1,9 @@
 var a14961 =
 [
-    [ "HandleAfterEffectApply", "d8/d5a/a14961.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
-    [ "PrepareAuraScript", "d8/d5a/a14961.html#a917379c33352721b5b76c1d9dac0c025", null ],
-    [ "Register", "d8/d5a/a14961.html#a846d79564d76d6000c2276045775d7da", null ]
+    [ "npc_love_in_air_snivel", "d8/d5a/a14961.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
+    [ "AllowAction", "d8/d5a/a14961.html#af1097317f62bbb8f8456124001c73576", null ],
+    [ "MoveInLineOfSight", "d8/d5a/a14961.html#ae6537707109b95fad20e521d07867cdd", null ],
+    [ "Reset", "d8/d5a/a14961.html#a2385ea44d9f44735b193add4a0d0485b", null ],
+    [ "UpdateAI", "d8/d5a/a14961.html#a9e712994663e3442359d2f574ebc812c", null ],
+    [ "delay", "d8/d5a/a14961.html#a548db6245ef875ec47279246e437934c", null ]
 ];

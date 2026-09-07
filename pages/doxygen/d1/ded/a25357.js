@@ -1,5 +1,6 @@
 var a25357 =
 [
-    [ "PrepareSpellScript", "d1/ded/a25357.html#a5dcaeafcb11c79f7f2171a5a0c47e6f5", null ],
-    [ "Register", "d1/ded/a25357.html#a0ca6ec06108f964432f1cafc00b96313", null ]
+    [ "HandleDummy", "d1/ded/a25357.html#a0bcbef8a2d5978498556a217ac618fed", null ],
+    [ "PrepareSpellScript", "d1/ded/a25357.html#a5901c22f3a10fdbd21d934f5cb8cd76d", null ],
+    [ "Register", "d1/ded/a25357.html#a2c6d9c273a3d281dacefc20970912166", null ]
 ];

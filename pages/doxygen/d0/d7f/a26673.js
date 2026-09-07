@@ -1,6 +1,9 @@
 var a26673 =
 [
-    [ "HandleAfterHit", "d0/d7f/a26673.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "d0/d7f/a26673.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "d0/d7f/a26673.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "AllowT10Proc", "d0/d7f/a26673.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
+    [ "OnRemove", "d0/d7f/a26673.html#a52807f94eba44a9b574577a0b27acb22", null ],
+    [ "PrepareAuraScript", "d0/d7f/a26673.html#a430303b7df445d38da9316324359c2d6", null ],
+    [ "Register", "d0/d7f/a26673.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
+    [ "Validate", "d0/d7f/a26673.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
+    [ "_canProcT10", "d0/d7f/a26673.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
 ];

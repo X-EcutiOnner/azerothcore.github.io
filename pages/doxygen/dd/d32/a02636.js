@@ -1,8 +1,10 @@
 var a02636 =
 [
-    [ "ePoints", "dd/d32/a02636.html#a2604bd06487e34b78d3e50cd892f3c4d", [
-      [ "POINT_LAST_POINT", "dd/d32/a02636.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
-      [ "POINT_HOME", "dd/d32/a02636.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
-      [ "POINT_COMBAT_START", "d2/d80/a02645.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
-    ] ]
+    [ "instance_the_eye", "de/dc5/a23981.html", "de/dc5/a23981" ],
+    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "d5/d74/a23985.html", "d5/d74/a23985" ],
+    [ "AddSC_instance_the_eye", "dd/d32/a02636.html#a2edbd129d024cabd379cca055dd3e341", null ],
+    [ "boundaries", "dd/d32/a02636.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "dd/d32/a02636.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "dd/d32/a02636.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "dd/d32/a02636.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
 ];

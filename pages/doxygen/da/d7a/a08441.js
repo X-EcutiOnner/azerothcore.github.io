@@ -1,7 +1,19 @@
 var a08441 =
 [
-    [ "CreatureSpellCooldown", "da/d7a/a08441.html#a6d234a93951992640df5720a2885be3e", null ],
-    [ "CreatureSpellCooldown", "da/d7a/a08441.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
-    [ "category", "da/d7a/a08441.html#a27330a80d711087f1894b2ce816c33b8", null ],
-    [ "end", "da/d7a/a08441.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
+    [ "GenerateArmor", "da/d7a/a08441.html#ad197fff9ab9cd6b45ca703d656d1d930", null ],
+    [ "GenerateBaseDamage", "da/d7a/a08441.html#aa11e229aed1ba159219e6d1a291b1c80", null ],
+    [ "GenerateHealth", "da/d7a/a08441.html#ac8ec122f7d16f89b50301a636ebade6e", null ],
+    [ "GenerateMana", "da/d7a/a08441.html#aa6f523ebb8ef75db99db555547fd55d7", null ],
+    [ "GetBaseStats", "da/d7a/a08441.html#a72249bb49bbcf08708bd30fc61e2cdea", null ],
+    [ "Agility", "da/d7a/a08441.html#a22c916bab3e2833ffbb643cae7f36edd", null ],
+    [ "AttackPower", "da/d7a/a08441.html#a8108d924e4de3ba741749e9386085e4f", null ],
+    [ "BaseArmor", "da/d7a/a08441.html#a9fed8e3227aa2ad7b40579b0be615030", null ],
+    [ "BaseDamage", "da/d7a/a08441.html#a40f54b64689ca8c3d2b0de81384dbea9", null ],
+    [ "BaseHealth", "da/d7a/a08441.html#a83cee007ec623b19bb2b002d16180d2d", null ],
+    [ "BaseMana", "da/d7a/a08441.html#a204af635372cb4a2c6ede1f79579385c", null ],
+    [ "Intellect", "da/d7a/a08441.html#adb28470cabe897215c3888e72d238ddf", null ],
+    [ "RangedAttackPower", "da/d7a/a08441.html#a684901a59108e94987c23ad5085e306a", null ],
+    [ "Spirit", "da/d7a/a08441.html#ac77b82c063048b596f9ed3c74aeea63c", null ],
+    [ "Stamina", "da/d7a/a08441.html#ac8c2f3b237e17577b416b9b83abe1306", null ],
+    [ "Strength", "da/d7a/a08441.html#a9af752cb9fe9fbb64845cb7644e9b212", null ]
 ];

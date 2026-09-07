@@ -1,7 +1,6 @@
 var a12281 =
 [
-    [ "map", "de/d51/a12281.html#ab52fa79b07a9fad5b0cf8a28669a94eb", null ],
-    [ "pallid", "de/d51/a12281.html#a0693df9090f40b7b1b8dba0003b6092e", null ],
-    [ "pallidGuid", "de/d51/a12281.html#ae78b3d7448e8f43a993f46208039f0b1", null ],
-    [ "zoneId", "de/d51/a12281.html#ad035d67dce95aa1ad7a1f39b1cf7b847", null ]
+    [ "Command", "de/d51/a12281.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
+    [ "Data", "de/d51/a12281.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
+    [ "DataSize", "de/d51/a12281.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
 ];

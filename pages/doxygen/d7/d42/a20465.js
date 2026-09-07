@@ -1,6 +1,8 @@
 var a20465 =
 [
-    [ "boss_kologarn_pit_kill_bunny", "d7/d42/a20465.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
-    [ "Reset", "d7/d42/a20465.html#afd7482896b66f040b8d57b9b6ac37059", null ],
-    [ "UpdateAI", "d7/d42/a20465.html#ad863666aec3db81f73165148ffc98033", null ]
+    [ "npc_ulduar_flash_freeze", "d7/d42/a20465.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
+    [ "DamageTaken", "d7/d42/a20465.html#af381d671e1b64c6135ed6c76b1eef213", null ],
+    [ "UpdateAI", "d7/d42/a20465.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
+    [ "_instance", "d7/d42/a20465.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
+    [ "timer", "d7/d42/a20465.html#a016272492e1843b09c7c8b40537a463a", null ]
 ];

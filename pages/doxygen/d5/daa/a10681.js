@@ -1,6 +1,6 @@
 var a10681 =
 [
-    [ "BattlegroundMapScript", "d5/daa/a10681.html#a61e1c0f145064cbc6c8708824a359e4c", null ],
-    [ "checkValidity", "d5/daa/a10681.html#a90584770132eb71cffc6e25a674750ad", null ],
-    [ "isAfterLoadScript", "d5/daa/a10681.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
+    [ "AchievementCriteriaScript", "d5/daa/a10681.html#a09da24737dee882300a5e268688b94e6", null ],
+    [ "IsDatabaseBound", "d5/daa/a10681.html#a2fe9a4224304d62c5c4920dbf09aab52", null ],
+    [ "OnCheck", "d5/daa/a10681.html#a9fab6f158219db6d5a65b0b302cf285e", null ]
 ];

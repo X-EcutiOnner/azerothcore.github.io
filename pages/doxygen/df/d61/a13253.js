@@ -1,15 +1,10 @@
 var a13253 =
 [
-    [ "boss_tinhead", "df/d61/a13253.html#aa56375e9b031db15bee833375b7a4405", null ],
-    [ "DoAction", "df/d61/a13253.html#ab27d93fd2b58e3f1c9e14d5bc6c788ff", null ],
-    [ "EnterEvadeMode", "df/d61/a13253.html#ae83464d571103a67980b413325988921", null ],
-    [ "JustDied", "df/d61/a13253.html#a5a641c0e96f271540e4642b5bb4e4c9e", null ],
-    [ "JustEngagedWith", "df/d61/a13253.html#a74f51f155fdfb9ecc70245380b740d9c", null ],
-    [ "JustReachedHome", "df/d61/a13253.html#a6c930c6cb2116cf16f3e4002e333f585", null ],
-    [ "KilledUnit", "df/d61/a13253.html#ac0f281f1e4b985174f4c5c9b7fcf278d", null ],
-    [ "Reset", "df/d61/a13253.html#ac22d86f58d59c81429e45fba9393fd37", null ],
-    [ "UpdateAI", "df/d61/a13253.html#aec0d558cf82eb6bbf0d5626126b10233", null ],
-    [ "_rustCount", "df/d61/a13253.html#a48901503085fd3d4ee5624626a526ce2", null ],
-    [ "_scheduler", "df/d61/a13253.html#ababc9f32611a9ea35ef41725bce22df5", null ],
-    [ "instance", "df/d61/a13253.html#a00b2ebbb009c700e38bbffbb035b4bfa", null ]
+    [ "npc_netherspite_infernal", "df/d61/a13253.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "df/d61/a13253.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "df/d61/a13253.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "df/d61/a13253.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "df/d61/a13253.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "df/d61/a13253.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "df/d61/a13253.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

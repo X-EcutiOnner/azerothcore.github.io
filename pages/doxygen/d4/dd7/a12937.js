@@ -1,8 +1,6 @@
 var a12937 =
 [
-    [ "boss_garr", "d4/dd7/a12937.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
-    [ "JustEngagedWith", "d4/dd7/a12937.html#abab82d2e00b373ea1f0e444de23f4987", null ],
-    [ "Reset", "d4/dd7/a12937.html#a64bcae059cfa97def7e52a42d404a016", null ],
-    [ "UpdateAI", "d4/dd7/a12937.html#a2a412224072b47de6780ea7b8d543743", null ],
-    [ "massEruptionTimer", "d4/dd7/a12937.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
+    [ "boss_flamegor", "d4/dd7/a12937.html#a721c23d631d305c102117566f609f10a", null ],
+    [ "JustEngagedWith", "d4/dd7/a12937.html#aebbcd35868c64d2a0b1f660720f84575", null ],
+    [ "UpdateAI", "d4/dd7/a12937.html#a086f8bd08ba22fff7e399bf9588cbffd", null ]
 ];

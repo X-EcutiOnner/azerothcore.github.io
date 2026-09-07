@@ -1,6 +1,8 @@
 var a23765 =
 [
-    [ "instance_mechanar_InstanceMapScript", "de/d67/a23769.html", "de/d67/a23769" ],
-    [ "instance_mechanar", "d9/de6/a23765.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
-    [ "GetInstanceScript", "d9/de6/a23765.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
+    [ "FilterTargets", "d9/de6/a23765.html#ae366594b668331a19f384ceb48654c0c", null ],
+    [ "HandleOnHit", "d9/de6/a23765.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
+    [ "PrepareSpellScript", "d9/de6/a23765.html#a71aa4018d293391a73d3317c1e80951d", null ],
+    [ "Register", "d9/de6/a23765.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
+    [ "Validate", "d9/de6/a23765.html#a3747ad271dc659436ae7a8203b964554", null ]
 ];

@@ -1,6 +1,6 @@
 var a25877 =
 [
-    [ "HandleTriggerSpell", "d1/d9b/a25877.html#a2c9f565aec4c42900037dd387549df18", null ],
-    [ "PrepareAuraScript", "d1/d9b/a25877.html#a5864bbba50001cdb84b0015d08134c56", null ],
-    [ "Register", "d1/d9b/a25877.html#a5a41ac9e41201ec3defc05c324a792c9", null ]
+    [ "HandlePreventAura", "d1/d9b/a25877.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
+    [ "PrepareSpellScript", "d1/d9b/a25877.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
+    [ "Register", "d1/d9b/a25877.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
 ];

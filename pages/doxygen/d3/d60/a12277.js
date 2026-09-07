@@ -1,9 +1,7 @@
 var a12277 =
 [
-    [ "map", "d3/d60/a12277.html#a274c6d61203c24b3c680055244e1f590", null ],
-    [ "mouth", "d3/d60/a12277.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
-    [ "mouthGuid", "d3/d60/a12277.html#a2245c14e379c83bdd47165e829de2e41", null ],
-    [ "necropolisCount", "d3/d60/a12277.html#aec44e315616920ba8224be8c4831f5e9", null ],
-    [ "remainingNecropoli", "d3/d60/a12277.html#a3c18c61fcd44c32f9e0009479db85399", null ],
-    [ "zoneId", "d3/d60/a12277.html#a98e1490705f74627cf9e5483857f3f25", null ]
+    [ "Command", "d3/d60/a12277.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
+    [ "ModuleId", "d3/d60/a12277.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
+    [ "ModuleKey", "d3/d60/a12277.html#aba0f236c39186022816bd86f8e8e9093", null ],
+    [ "Size", "d3/d60/a12277.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
 ];

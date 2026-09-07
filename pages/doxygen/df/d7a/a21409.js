@@ -1,10 +1,6 @@
 var a21409 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "df/d7a/a21409.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
-    [ "GotStinged", "df/d7a/a21409.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
-    [ "JustEngagedWith", "df/d7a/a21409.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
-    [ "Reset", "df/d7a/a21409.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
-    [ "SpellHit", "df/d7a/a21409.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
-    [ "UpdateAI", "df/d7a/a21409.html#a21def23073eeec051c1c97a813e0ea84", null ],
-    [ "rebuff", "df/d7a/a21409.html#ac83c25091fdd3c7876a88927b758261f", null ]
+    [ "boss_archavonAI", "d0/d77/a21413.html", "d0/d77/a21413" ],
+    [ "boss_archavon", "df/d7a/a21409.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "df/d7a/a21409.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

@@ -1,10 +1,7 @@
 var a24369 =
 [
-    [ "Absorb", "df/d68/a24369.html#a99db0d1254ddcfa9e7afb241e73b3235", null ],
-    [ "CalculateAmount", "df/d68/a24369.html#a279a025cac490ee3647f47584b59179f", null ],
-    [ "Load", "df/d68/a24369.html#a3fededdbfca9d12e6dbd097620e104be", null ],
-    [ "PrepareAuraScript", "df/d68/a24369.html#a818875a8073491eab2508182bd941e25", null ],
-    [ "Register", "df/d68/a24369.html#a2419bff95bad81a0f63c4988f14eb3f9", null ],
-    [ "Validate", "df/d68/a24369.html#a60eb14be1b3108b7b896a27eab35569b", null ],
-    [ "absorbPct", "df/d68/a24369.html#ac51bad58076a6dfa520fd3e9ea0c76b5", null ]
+    [ "HandleEffectRemove", "df/d68/a24369.html#a317c238b165ad331beb447ea5d0de7e1", null ],
+    [ "PrepareAuraScript", "df/d68/a24369.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
+    [ "Register", "df/d68/a24369.html#a13fdde1557249328306a57e159d821a7", null ],
+    [ "Validate", "df/d68/a24369.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
 ];

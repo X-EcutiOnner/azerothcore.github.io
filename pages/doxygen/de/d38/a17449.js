@@ -1,7 +1,8 @@
 var a17449 =
 [
-    [ "npc_pos_icicle_triggerAI", "de/d38/a17449.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
-    [ "UpdateAI", "de/d38/a17449.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
-    [ "pInstance", "de/d38/a17449.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
-    [ "timer", "de/d38/a17449.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
+    [ "boss_krickAI", "de/d38/a17449.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
+    [ "DoAction", "de/d38/a17449.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
+    [ "UpdateAI", "de/d38/a17449.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
+    [ "events", "de/d38/a17449.html#a75349e2fc35832e7944fa4f772380baa", null ],
+    [ "pInstance", "de/d38/a17449.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
 ];

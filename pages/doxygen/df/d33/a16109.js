@@ -1,6 +1,6 @@
 var a16109 =
 [
-    [ "npc_twiggy_flatheadAI", "da/d8e/a16113.html", "da/d8e/a16113" ],
-    [ "npc_twiggy_flathead", "df/d33/a16109.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
-    [ "GetAI", "df/d33/a16109.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
+    [ "go_wind_stoneAI", "da/d8e/a16113.html", "da/d8e/a16113" ],
+    [ "go_wind_stone", "df/d33/a16109.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
+    [ "GetAI", "df/d33/a16109.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
 ];

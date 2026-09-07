@@ -1,6 +1,7 @@
 var a22073 =
 [
-    [ "npc_time_lost_proto_drakeAI", "d0/d6c/a22077.html", "d0/d6c/a22077" ],
-    [ "npc_time_lost_proto_drake", "da/d7d/a22073.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
-    [ "GetAI", "da/d7d/a22073.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
+    [ "npc_rodin_lightning_enabler", "da/d7d/a22073.html#ae014b208af7664acd2147663d9338583", null ],
+    [ "Reset", "da/d7d/a22073.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
+    [ "UpdateAI", "da/d7d/a22073.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
+    [ "_scheduler", "da/d7d/a22073.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
 ];

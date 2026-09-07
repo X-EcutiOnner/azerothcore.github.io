@@ -1,6 +1,13 @@
 var a12469 =
 [
-    [ "player_settings_commandscript", "d7/dfd/a12469.html#ab8585064d4d358d7d48eed97379a3a78", null ],
-    [ "GetCommands", "d7/dfd/a12469.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
-    [ "HandleSettingsAnnouncerFlags", "d7/dfd/a12469.html#af505117caa66ed4222e52ff91c486b6e", null ]
+    [ "gm_commandscript", "d7/dfd/a12469.html#a1b24112b70818778755ef9b5b062b2e8", null ],
+    [ "GetCommands", "d7/dfd/a12469.html#a17c725e18324de7aadff260c77d75c45", null ],
+    [ "HandleGMChatCommand", "d7/dfd/a12469.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
+    [ "HandleGMFlyCommand", "d7/dfd/a12469.html#a29829660f39c9bfa4190bbb118f482ba", null ],
+    [ "HandleGMListFullCommand", "d7/dfd/a12469.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
+    [ "HandleGMListIngameCommand", "d7/dfd/a12469.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
+    [ "HandleGMOffCommand", "d7/dfd/a12469.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
+    [ "HandleGMOnCommand", "d7/dfd/a12469.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
+    [ "HandleGMSpectatorCommand", "d7/dfd/a12469.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
+    [ "HandleGMVisibleCommand", "d7/dfd/a12469.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
 ];

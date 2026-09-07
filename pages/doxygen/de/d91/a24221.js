@@ -1,9 +1,7 @@
 var a24221 =
 [
-    [ "npc_pet_gen_fetch_ball", "de/d91/a24221.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
-    [ "IsSummonedBy", "de/d91/a24221.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
-    [ "SpellHitTarget", "de/d91/a24221.html#a87bdded236f6584d9b71507a1253f7d0", null ],
-    [ "UpdateAI", "de/d91/a24221.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
-    [ "checkTimer", "de/d91/a24221.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
-    [ "targetGUID", "de/d91/a24221.html#ae474374af7c2270e218ed236d90c789c", null ]
+    [ "CheckRequirement", "de/d91/a24221.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "de/d91/a24221.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "de/d91/a24221.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "de/d91/a24221.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

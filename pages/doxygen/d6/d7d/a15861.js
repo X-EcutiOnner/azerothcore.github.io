@@ -1,9 +1,12 @@
 var a15861 =
 [
-    [ "npc_prospector_remtravelAI", "d6/d7d/a15861.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
-    [ "JustEngagedWith", "d6/d7d/a15861.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
-    [ "JustSummoned", "d6/d7d/a15861.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
-    [ "Reset", "d6/d7d/a15861.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
-    [ "WaypointReached", "d6/d7d/a15861.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ],
-    [ "WaypointReached", "d6/d7d/a15861.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_magwinAI", "d6/d7d/a15861.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
+    [ "JustEngagedWith", "d6/d7d/a15861.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
+    [ "Reset", "d6/d7d/a15861.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
+    [ "sQuestAccept", "d6/d7d/a15861.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
+    [ "UpdateEscortAI", "d6/d7d/a15861.html#a34236331be8842a9e2a98036ea382e18", null ],
+    [ "WaypointReached", "d6/d7d/a15861.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
+    [ "WaypointReached", "d6/d7d/a15861.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_events", "d6/d7d/a15861.html#a32dad2bde92efab7e0f0d16e809df665", null ],
+    [ "_player", "d6/d7d/a15861.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
 ];

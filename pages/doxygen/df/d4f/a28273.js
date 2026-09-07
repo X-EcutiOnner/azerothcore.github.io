@@ -1,8 +1,6 @@
 var a28273 =
 [
-    [ "npc_riggle_bassbaitAI", "d3/db9/a28277.html", "d3/db9/a28277" ],
-    [ "npc_riggle_bassbait", "df/d4f/a28273.html#afc4280099cda3c28c4634d649e636839", null ],
-    [ "GetAI", "df/d4f/a28273.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
-    [ "OnGossipHello", "df/d4f/a28273.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
-    [ "OnQuestReward", "df/d4f/a28273.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
+    [ "go_bear_trapAI", "d3/db9/a28277.html", "d3/db9/a28277" ],
+    [ "go_bear_trap", "df/d4f/a28273.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
+    [ "GetAI", "df/d4f/a28273.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
 ];

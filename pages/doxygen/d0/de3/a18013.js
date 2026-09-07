@@ -1,6 +1,6 @@
 var a18013 =
 [
-    [ "PrepareSpellScript", "d0/de3/a18013.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "d0/de3/a18013.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "d0/de3/a18013.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "npc_igb_ship_crewAI", "d1/df2/a18017.html", "d1/df2/a18017" ],
+    [ "npc_igb_ship_crew", "d0/de3/a18013.html#a5f4380aba94766a6a75b97026998b881", null ],
+    [ "GetAI", "d0/de3/a18013.html#a48955817e21a01a726b50685b467c229", null ]
 ];

@@ -1,6 +1,8 @@
 var a10249 =
 [
-    [ "UpdateRequest", "d7/d72/a10249.html#a23b3dbcff54691b2710109a822a486a0", null ],
-    [ "~UpdateRequest", "d7/d72/a10249.html#a240bdc56685c270c597588231c3bf8f8", null ],
-    [ "call", "d7/d72/a10249.html#a8221fa415f828a4866f85f3983f7dab9", null ]
+    [ "PositionFullTerrainStatus", "d7/d72/a10249.html#ae0349ed89530b35af91b7b1862acaffe", null ],
+    [ "areaId", "d7/d72/a10249.html#ac04966fa31b30f341a937906223463d4", null ],
+    [ "floorZ", "d7/d72/a10249.html#abbd186ca681e532d567b5a221a62c02b", null ],
+    [ "liquidInfo", "d7/d72/a10249.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
+    [ "outdoors", "d7/d72/a10249.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
 ];

@@ -1,7 +1,8 @@
 var a11349 =
 [
-    [ "RandomRollClient", "de/d3e/a11349.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "de/d3e/a11349.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "de/d3e/a11349.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "de/d3e/a11349.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "AutoStoreBagItem", "de/d3e/a11349.html#a09e4b117d8789d513a0e766986340140", null ],
+    [ "Read", "de/d3e/a11349.html#a172832ec72012278b000f38d761823b4", null ],
+    [ "DestinationBag", "de/d3e/a11349.html#a7472dfd7ccd78051bc8808832f8e74cb", null ],
+    [ "SourceBag", "de/d3e/a11349.html#a27e27653e6f00869070de7354adff52d", null ],
+    [ "SourceSlot", "de/d3e/a11349.html#a517202ccb270d78289630404beb61afc", null ]
 ];

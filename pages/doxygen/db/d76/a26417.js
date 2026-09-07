@@ -1,7 +1,7 @@
 var a26417 =
 [
-    [ "PrepareSpellScript", "db/d76/a26417.html#ade3a3f956ae8be922bd1d2204919d360", null ],
-    [ "Register", "db/d76/a26417.html#a71d397da4a4804cf6023806c15e8bedf", null ],
-    [ "TriggerHypothermia", "db/d76/a26417.html#af40f92afae93778e477c50ddf18c8adc", null ],
-    [ "Validate", "db/d76/a26417.html#a1f0cef532c2bd13d94e647722f85457a", null ]
+    [ "HandleDummy", "db/d76/a26417.html#aa510199edee85bfcf6314559e9c72928", null ],
+    [ "PrepareSpellScript", "db/d76/a26417.html#a8d2dce1e15f87bb3f744f89b7a531c72", null ],
+    [ "Register", "db/d76/a26417.html#a1da7830a42eabcccba81000b7094b205", null ],
+    [ "Validate", "db/d76/a26417.html#ad5f88629afe87669a18a7424b8b34ba0", null ]
 ];

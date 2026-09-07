@@ -1,13 +1,9 @@
 var a20257 =
 [
-    [ "boss_freya_summons", "d7/df4/a20257.html#a1d53e3d32307347532f96ca2b27734cb", null ],
-    [ "DoAction", "d7/df4/a20257.html#aa8e03a2aced95f104e6714a469bf2de3", null ],
-    [ "JustDied", "d7/df4/a20257.html#a15d9b71a31a840917b449c0094049e00", null ],
-    [ "JustEngagedWith", "d7/df4/a20257.html#a0bf2a4bc2e6f62cdec5c15d04fff2f11", null ],
-    [ "Reset", "d7/df4/a20257.html#af7e842a7bc2be806816a942026670d71", null ],
-    [ "UpdateAI", "d7/df4/a20257.html#abc3634dce208478e82d3c9bb19d222df", null ],
-    [ "_hasDied", "d7/df4/a20257.html#a145f46cfda95e50fa30c98581a30de9e", null ],
-    [ "_isTrio", "d7/df4/a20257.html#a642a937b7d4082b5f9f0fbe4df352aba", null ],
-    [ "_stackCount", "d7/df4/a20257.html#af1c54be4cab9c465ae9bf04427050d7a", null ],
-    [ "events", "d7/df4/a20257.html#a3fc5f9be80cc03bed2a83cdacfc5d7ec", null ]
+    [ "npc_hodirs_fury", "d7/df4/a20257.html#abda902842d76a0a5a17196a11654f5ab", null ],
+    [ "MovementInform", "d7/df4/a20257.html#a4d82007c5b70edad74b461948629b9fb", null ],
+    [ "Reset", "d7/df4/a20257.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
+    [ "UpdateAI", "d7/df4/a20257.html#a58a8b1664bb00b930cce86e856facb8b", null ],
+    [ "_switchTargetTimer", "d7/df4/a20257.html#a9736332e6f3d163f04aa12cbd6829670", null ],
+    [ "_timeToHit", "d7/df4/a20257.html#a611d171dc27bd78d298040eabfc00e5f", null ]
 ];

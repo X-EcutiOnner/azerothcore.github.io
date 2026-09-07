@@ -1,7 +1,5 @@
 var a12873 =
 [
-    [ "HandlePeriodic", "d8/d9e/a12873.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "d8/d9e/a12873.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "d8/d9e/a12873.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "d8/d9e/a12873.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "at_dragonspire_hall", "d8/d9e/a12873.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
+    [ "OnTrigger", "d8/d9e/a12873.html#a1a7bd95653e84b7fd436d71c162c087e", null ]
 ];

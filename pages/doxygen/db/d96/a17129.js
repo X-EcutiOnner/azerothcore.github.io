@@ -1,6 +1,5 @@
 var a17129 =
 [
-    [ "HandleEffectApply", "db/d96/a17129.html#aaea2c3733dadc19072c81774468e345a", null ],
-    [ "PrepareAuraScript", "db/d96/a17129.html#a3848997e9f775add50d40342b6211ff0", null ],
-    [ "Register", "db/d96/a17129.html#a775b1cf494049ed13d149ca6318142c3", null ]
+    [ "npc_essence_of_twin", "db/d96/a17129.html#a019de64e5e01e611acfda5db4c279b19", null ],
+    [ "OnGossipHello", "db/d96/a17129.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
 ];

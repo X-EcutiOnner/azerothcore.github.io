@@ -1,6 +1,10 @@
 var a24633 =
 [
-    [ "CheckCast", "db/d60/a24633.html#a8ab8394c56201264ac4f2d859dd52092", null ],
-    [ "PrepareSpellScript", "db/d60/a24633.html#acc6d27c8d869ec80ee5794405f6c238a", null ],
-    [ "Register", "db/d60/a24633.html#a191085bc21ce6f5ce1d5b43d6d70f069", null ]
+    [ "Absorb", "db/d60/a24633.html#a99db0d1254ddcfa9e7afb241e73b3235", null ],
+    [ "CalculateAmount", "db/d60/a24633.html#a279a025cac490ee3647f47584b59179f", null ],
+    [ "Load", "db/d60/a24633.html#a3fededdbfca9d12e6dbd097620e104be", null ],
+    [ "PrepareAuraScript", "db/d60/a24633.html#a818875a8073491eab2508182bd941e25", null ],
+    [ "Register", "db/d60/a24633.html#a2419bff95bad81a0f63c4988f14eb3f9", null ],
+    [ "Validate", "db/d60/a24633.html#a60eb14be1b3108b7b896a27eab35569b", null ],
+    [ "absorbPct", "db/d60/a24633.html#ac51bad58076a6dfa520fd3e9ea0c76b5", null ]
 ];

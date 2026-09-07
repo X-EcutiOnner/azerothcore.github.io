@@ -1,5 +1,7 @@
 var a17513 =
 [
-    [ "endPosition", "db/dd9/a17513.html#a8a88b0191d28ef6af8f41db627552602", null ],
-    [ "entry", "db/dd9/a17513.html#ac4e55af666e269440953ced038c1a8de", null ]
+    [ "npc_pos_icicle_triggerAI", "db/dd9/a17513.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
+    [ "UpdateAI", "db/dd9/a17513.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
+    [ "pInstance", "db/dd9/a17513.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
+    [ "timer", "db/dd9/a17513.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
 ];

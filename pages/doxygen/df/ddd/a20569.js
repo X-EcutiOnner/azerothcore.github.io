@@ -1,5 +1,7 @@
 var a20569 =
 [
-    [ "achievement_mimiron_firefighter", "df/ddd/a20569.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
-    [ "OnCheck", "df/ddd/a20569.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
+    [ "HandleEffectPeriodic", "df/ddd/a20569.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "df/ddd/a20569.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "df/ddd/a20569.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "df/ddd/a20569.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

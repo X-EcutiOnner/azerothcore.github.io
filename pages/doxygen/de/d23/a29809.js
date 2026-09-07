@@ -1,8 +1,12 @@
 var a29809 =
 [
-    [ "prepareLoadedData", "de/d23/a29809.html#a696cfebd8fe66840b316919519e9b319", null ],
-    [ "fcc", "de/d23/a29809.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
-    [ "fcc_txt", "de/d23/a29809.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
-    [ "height_map", "de/d23/a29809.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
-    [ "size", "de/d23/a29809.html#add2809c6e520cf4aa43807d61f973f0e", null ]
+    [ "SetUp", "de/d23/a29809.html#a58cd90b7a71da405118c094ff47fc6ca", null ],
+    [ "TearDown", "de/d23/a29809.html#a07e717efe62018e9f8f646a81afbb567", null ],
+    [ "PERM_A", "de/d23/a29809.html#a38613fb2c500e82fe60a520cfa67e754", null ],
+    [ "PERM_B", "de/d23/a29809.html#a4e9d8cbc4d41fa8dfbbf600bb8188b4c", null ],
+    [ "PERM_C", "de/d23/a29809.html#a819e1345b06cac6338459683c702d355", null ],
+    [ "PERM_MOD_1", "de/d23/a29809.html#a4069369cc39fcca52fa6430a4778d86f", null ],
+    [ "ROLE_PLAYER", "de/d23/a29809.html#a72830036ef06ce28131379219963c7cb", null ],
+    [ "SEC_MODERATOR", "de/d23/a29809.html#abe3cf16e5aeaf4ca6ef0e8c989ef6917", null ],
+    [ "SEC_PLAYER", "de/d23/a29809.html#a411050ede39af85c2846fcc154f140e3", null ]
 ];

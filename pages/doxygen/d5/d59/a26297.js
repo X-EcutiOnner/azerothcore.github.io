@@ -1,5 +1,6 @@
 var a26297 =
 [
-    [ "Trigger", "d5/d59/a26297.html#aa16aba75a066e83cb56660a0e29e7453", null ],
-    [ "Validate", "d5/d59/a26297.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
+    [ "OnPeriodic", "d5/d59/a26297.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
+    [ "PrepareAuraScript", "d5/d59/a26297.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
+    [ "Register", "d5/d59/a26297.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
 ];

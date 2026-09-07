@@ -1,7 +1,8 @@
 var a29189 =
 [
-    [ "ClassMask", "d9/d2b/a29189.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
-    [ "petTalentMask", "d9/d2b/a29189.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
-    [ "tabpage", "d9/d2b/a29189.html#aa6389276582adeb4cae76c257734795c", null ],
-    [ "TalentTabID", "d9/d2b/a29189.html#ae3a71c61223b59185365819164715dc2", null ]
+    [ "difficulty", "d9/d2b/a29189.html#a2a04df701c13dc49053b09a9587a72a8", null ],
+    [ "encounterIndex", "d9/d2b/a29189.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
+    [ "encounterName", "d9/d2b/a29189.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
+    [ "id", "d9/d2b/a29189.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
+    [ "mapId", "d9/d2b/a29189.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
 ];

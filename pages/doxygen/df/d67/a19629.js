@@ -1,8 +1,10 @@
 var a19629 =
 [
-    [ "Load", "df/d67/a19629.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
-    [ "OnRemove", "df/d67/a19629.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
-    [ "PrepareAuraScript", "df/d67/a19629.html#aae6c3a215b09fd2270976190600e2cc4", null ],
-    [ "Register", "df/d67/a19629.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
-    [ "Validate", "df/d67/a19629.html#ae4ac76269793280335d76a78e5dced91", null ]
+    [ "boss_patchwerkAI", "df/d67/a19629.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "df/d67/a19629.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "df/d67/a19629.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "df/d67/a19629.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "df/d67/a19629.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "df/d67/a19629.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "df/d67/a19629.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

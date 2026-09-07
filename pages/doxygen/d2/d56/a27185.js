@@ -1,6 +1,5 @@
 var a27185 =
 [
-    [ "FilterTargets", "d2/d56/a27185.html#ac157503562ac3ef9ddba2c358595ecc5", null ],
-    [ "PrepareSpellScript", "d2/d56/a27185.html#af41d6353088c5565b0027265c9bd4d8b", null ],
-    [ "Register", "d2/d56/a27185.html#a95e386af9016e598e932177cb400fd8b", null ]
+    [ "spell_q11515_fel_siphon_dummy", "d2/d56/a27185.html#a80fa790a716d1ae950f43f9a298afd66", null ],
+    [ "GetSpellScript", "d2/d56/a27185.html#a0d122972fc036d1f1e49c49acda58be3", null ]
 ];

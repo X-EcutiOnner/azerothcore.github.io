@@ -1,7 +1,9 @@
 var a24013 =
 [
-    [ "o", "d5/db8/a24013.html#a3785e9b55ea3a7140086ce1f86232109", null ],
-    [ "x", "d5/db8/a24013.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
-    [ "y", "d5/db8/a24013.html#a10fbad67977d8dd3911eb629c1797684", null ],
-    [ "z", "d5/db8/a24013.html#a69fc2438e52f6c0de3af13900ff38166", null ]
+    [ "boss_nethermancer_sepethrea", "d5/db8/a24013.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "d5/db8/a24013.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "d5/db8/a24013.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "d5/db8/a24013.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "d5/db8/a24013.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "d5/db8/a24013.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

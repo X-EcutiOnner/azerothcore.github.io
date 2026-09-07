@@ -1,8 +1,6 @@
 var a11281 =
 [
-    [ "AutoStoreBagItem", "d7/ddc/a11281.html#a09e4b117d8789d513a0e766986340140", null ],
-    [ "Read", "d7/ddc/a11281.html#a172832ec72012278b000f38d761823b4", null ],
-    [ "DestinationBag", "d7/ddc/a11281.html#a7472dfd7ccd78051bc8808832f8e74cb", null ],
-    [ "SourceBag", "d7/ddc/a11281.html#a27e27653e6f00869070de7354adff52d", null ],
-    [ "SourceSlot", "d7/ddc/a11281.html#a517202ccb270d78289630404beb61afc", null ]
+    [ "ResetFailedNotify", "d7/ddc/a11281.html#a82e12a0f207590b6176253cf36a22d2f", null ],
+    [ "Write", "d7/ddc/a11281.html#af03055514ef0e1e97f24c66d2cd94185", null ],
+    [ "MapId", "d7/ddc/a11281.html#a17f065fc6d5438d74f38bde67a841be7", null ]
 ];

@@ -1,9 +1,8 @@
 var a26969 =
 [
-    [ "CheckCast", "df/d4c/a26969.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
-    [ "HandleActiveObject", "df/d4c/a26969.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
-    [ "HandleDummy", "df/d4c/a26969.html#a39dd06ae92d04060ee41897318a701fd", null ],
-    [ "Load", "df/d4c/a26969.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
-    [ "PrepareSpellScript", "df/d4c/a26969.html#a016e480d7b2267c9bf824c9cb029f134", null ],
-    [ "Register", "df/d4c/a26969.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
+    [ "CalculateAmount", "df/d4c/a26969.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
+    [ "PrepareAuraScript", "df/d4c/a26969.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
+    [ "ReflectDamage", "df/d4c/a26969.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
+    [ "Register", "df/d4c/a26969.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
+    [ "Validate", "df/d4c/a26969.html#af2936ba4a29fc8735a3cabe805c77355", null ]
 ];

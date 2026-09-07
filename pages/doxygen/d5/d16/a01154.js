@@ -1,4 +1,5 @@
 var a01154 =
 [
-    [ "GetAge", "d5/d16/a01154.html#a347e0449afd73dbcc6c084dbe72af6c8", null ]
+    [ "BGSpamProtect", "de/d72/a07757.html", "de/d72/a07757" ],
+    [ "sBGSpam", "d5/d16/a01154.html#ae37d7994736d43484a627d5de2af5fc1", null ]
 ];

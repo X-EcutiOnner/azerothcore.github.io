@@ -1,6 +1,6 @@
 var a15897 =
 [
-    [ "npc_tiger_matriarch_creditAI", "da/d64/a15897.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
-    [ "UpdateAI", "da/d64/a15897.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
-    [ "events", "da/d64/a15897.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
+    [ "npc_webbed_creatureAI", "d0/d55/a15901.html", "d0/d55/a15901" ],
+    [ "npc_webbed_creature", "da/d64/a15897.html#ae52152939766c411e45e827e9ab52d4f", null ],
+    [ "GetAI", "da/d64/a15897.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
 ];

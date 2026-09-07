@@ -1,6 +1,5 @@
 var a02510 =
 [
-    [ "RBACCommandData", "d6/d5a/a12512.html", "d6/d5a/a12512" ],
-    [ "rbac_commandscript", "df/d4f/a12516.html", "df/d4f/a12516" ],
-    [ "AddSC_rbac_commandscript", "dd/df4/a02510.html#ac877b170f7f12651a1d6c8252a8fc0ff", null ]
+    [ "OutdoorPvP_grizzly_hills", "d8/d22/a22597.html", "d8/d22/a22597" ],
+    [ "AddSC_outdoorpvp_gh", "dd/df4/a02510.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ]
 ];

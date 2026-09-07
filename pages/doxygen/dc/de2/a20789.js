@@ -1,8 +1,7 @@
 var a20789 =
 [
-    [ "boss_yoggsaron_guardian_of_ys", "dc/de2/a20789.html#ad66fab16b309b62895578d46e8a2e730", null ],
-    [ "JustDied", "dc/de2/a20789.html#a12ce3fef2fba8d92945249cf8920a0b4", null ],
-    [ "Reset", "dc/de2/a20789.html#ac803a9da5223db459b9ec48435e59c30", null ],
-    [ "UpdateAI", "dc/de2/a20789.html#a573576eaff2cbd4f779675e19ad53dea", null ],
-    [ "_spellTimer", "dc/de2/a20789.html#a5922d21c4606ab9a41e20948dc926cea", null ]
+    [ "go_razorscale_harpoonAI", "dc/de2/a20789.html#afff12f330538843c477f75500f731ea3", null ],
+    [ "Reset", "dc/de2/a20789.html#aae5f0f7ff2b206872c02bd7da90afdc0", null ],
+    [ "UpdateAI", "dc/de2/a20789.html#a906b14e1bc6b71f95aa2fcde83846f0a", null ],
+    [ "_scheduler", "dc/de2/a20789.html#a6f6e325b1b1599f90173e8c8a68c7956", null ]
 ];

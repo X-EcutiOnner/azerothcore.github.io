@@ -1,6 +1,8 @@
 var a24901 =
 [
-    [ "CheckProc", "dc/d0d/a24901.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
-    [ "PrepareAuraScript", "dc/d0d/a24901.html#a861caa47c502c42fa84d9f9de74df024", null ],
-    [ "Register", "dc/d0d/a24901.html#ab4275de186b6841a1f424863cb6c128c", null ]
+    [ "AfterApply", "dc/d0d/a24901.html#a4d2941ebb326d603ac08f428f811c29b", null ],
+    [ "AfterRemove", "dc/d0d/a24901.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
+    [ "PrepareAuraScript", "dc/d0d/a24901.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
+    [ "Register", "dc/d0d/a24901.html#a78e30a950b9fc08dff5072028816b8b4", null ],
+    [ "Validate", "dc/d0d/a24901.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
 ];

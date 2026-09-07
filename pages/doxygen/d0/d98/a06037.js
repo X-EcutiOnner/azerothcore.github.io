@@ -1,6 +1,8 @@
 var a06037 =
 [
-    [ "Append", "d0/d98/a06037.html#a290b052f7cbd321c646e9e5e19484444", null ],
-    [ "Append", "d0/d98/a06037.html#a867b7a92080104278aef5fb4975a4a52", null ],
-    [ "Append", "d0/d98/a06037.html#aa0a81814abe26d456018c3bc9153cd4d", null ]
+    [ "cmd", "d0/d98/a06037.html#a14df856ae931474a7c58d0e35caf6ad0", null ],
+    [ "number_of_keys", "d0/d98/a06037.html#aaa44734bb96b91894c038b3f34b4db0d", null ],
+    [ "R1", "d0/d98/a06037.html#a054648a96d1c66bae6fdb9a174e7b1e6", null ],
+    [ "R2", "d0/d98/a06037.html#a72fa4a4d0b6098fdf8e5c8f9a33f08ad", null ],
+    [ "R3", "d0/d98/a06037.html#a819a5ba3a19583fd0cfd0558cf218e54", null ]
 ];

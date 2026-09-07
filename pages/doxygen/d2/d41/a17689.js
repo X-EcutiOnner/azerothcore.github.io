@@ -1,6 +1,6 @@
 var a17689 =
 [
-    [ "AddExtraDamage", "d2/d41/a17689.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "d2/d41/a17689.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "d2/d41/a17689.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "ShockVortexExplodeEvent", "d2/d41/a17689.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "d2/d41/a17689.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "d2/d41/a17689.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

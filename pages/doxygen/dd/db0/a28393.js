@@ -1,6 +1,5 @@
 var a28393 =
 [
-    [ "npc_spring_rabbitAI", "d3/d81/a28397.html", "d3/d81/a28397" ],
-    [ "npc_spring_rabbit", "dd/db0/a28393.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "dd/db0/a28393.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "go_hive_pod", "dd/db0/a28393.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "dd/db0/a28393.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

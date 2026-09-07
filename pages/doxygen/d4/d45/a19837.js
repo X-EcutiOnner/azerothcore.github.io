@@ -1,19 +1,14 @@
 var a19837 =
 [
-    [ "boss_bjarngrim", "d4/d45/a19837.html#a1bf90864479939ba3f251c38b173e23a", null ],
-    [ "InitializeWaypoints", "d4/d45/a19837.html#a87eab2b27b48d98b94a030936722781e", null ],
-    [ "JustDied", "d4/d45/a19837.html#a5a1ea3f7825d5a90feabc2b18865e75f", null ],
-    [ "JustEngagedWith", "d4/d45/a19837.html#ad150ab7d9837861e8c4673a78978bb11", null ],
-    [ "JustRespawned", "d4/d45/a19837.html#ab698e8ea0de311b167d95c01ef1bee69", null ],
-    [ "KilledUnit", "d4/d45/a19837.html#abd4d83ebc59cac8cf97fa495d42675f8", null ],
-    [ "RemoveStanceAura", "d4/d45/a19837.html#a55a695e27192313c6cbe263a739e669e", null ],
-    [ "Reset", "d4/d45/a19837.html#a1f61ac153bb78129c89e6caba7dc7522", null ],
-    [ "RollStance", "d4/d45/a19837.html#acd511435f9d77aa4839e1c856382ea51", null ],
-    [ "UpdateEscortAI", "d4/d45/a19837.html#ab0c5aea43ef8c40c0af6a336dccd2b97", null ],
-    [ "WaypointReached", "d4/d45/a19837.html#a9706ccb196a09fe5f16efb20578f83f0", null ],
-    [ "WaypointReached", "d4/d45/a19837.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "events", "d4/d45/a19837.html#ac72b38eced65a3246b4c83a82caf44cb", null ],
-    [ "m_pInstance", "d4/d45/a19837.html#ad72abbd2eaa7d56fd1b409ffd2980d87", null ],
-    [ "m_uiStance", "d4/d45/a19837.html#aec11755c71f056c8294a8af1c1084353", null ],
-    [ "summons", "d4/d45/a19837.html#a9cacb3d985fb9e4b2501ab4b4334cdab", null ]
+    [ "npc_crystalline_frayer", "d4/d45/a19837.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
+    [ "DamageTaken", "d4/d45/a19837.html#a2580575a58353e8cb94561bafd74f502", null ],
+    [ "EnterEvadeMode", "d4/d45/a19837.html#a9240adcfe966f11c925db82add432aa5", null ],
+    [ "EnterSeedPod", "d4/d45/a19837.html#a070554a809ba40726d005fdba19a16b0", null ],
+    [ "JustEngagedWith", "d4/d45/a19837.html#a91e8c4015b9b238fd2144999bcef9362", null ],
+    [ "LeaveSeedPod", "d4/d45/a19837.html#afe6ba31b18fa65aaa15daad3101149c2", null ],
+    [ "Reset", "d4/d45/a19837.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
+    [ "UpdateAI", "d4/d45/a19837.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
+    [ "_allowDeath", "d4/d45/a19837.html#adc85054030146067d2cff47db2886a07", null ],
+    [ "_inSeedPod", "d4/d45/a19837.html#a26e0c5f780bc661796f922c52000c30a", null ],
+    [ "_scheduler", "d4/d45/a19837.html#a1faafa1c39716f7679ca0b2b2f10a641", null ]
 ];

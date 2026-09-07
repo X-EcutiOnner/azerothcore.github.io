@@ -1,8 +1,8 @@
 var a24953 =
 [
-    [ "CheckIfCorpseNear", "de/d3b/a24953.html#afdf1bca2e23057d99962fb1000e9245e", null ],
-    [ "HandleDummy", "de/d3b/a24953.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
-    [ "PrepareSpellScript", "de/d3b/a24953.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
-    [ "Register", "de/d3b/a24953.html#a22f4c5321769384b2b708f19edea1a66", null ],
-    [ "Validate", "de/d3b/a24953.html#a855fdba79c4fa087253505ed419b9966", null ]
+    [ "CheckProc", "de/d3b/a24953.html#a465402287949b12e5f4a4fe5405c32ce", null ],
+    [ "HandleProc", "de/d3b/a24953.html#a11329d2093e30e91d7582c5eb34228ab", null ],
+    [ "PrepareAuraScript", "de/d3b/a24953.html#a0c17de6a23adf74e32cf7c50b09762fc", null ],
+    [ "Register", "de/d3b/a24953.html#ade6720401687c7ad102e51572351705c", null ],
+    [ "Validate", "de/d3b/a24953.html#a71c224e13289673e5d2ed700cde6cd6a", null ]
 ];

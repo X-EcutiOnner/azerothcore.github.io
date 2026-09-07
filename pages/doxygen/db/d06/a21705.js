@@ -1,11 +1,7 @@
 var a21705 =
 [
-    [ "npc_torturer_lecraftAI", "db/d06/a21705.html#a0886d83c8ab8b7db728928ecf922031b", null ],
-    [ "JustEngagedWith", "db/d06/a21705.html#ac6fa83aa5673bd6c90e128f06e56049e", null ],
-    [ "Reset", "db/d06/a21705.html#a13177e318e7777ecb13ba71c4f10f425", null ],
-    [ "SpellHit", "db/d06/a21705.html#a837805efcb6c99de55646a232f151ae8", null ],
-    [ "UpdateAI", "db/d06/a21705.html#a45919da006b0e767ec38810a6fcbac5d", null ],
-    [ "_events", "db/d06/a21705.html#a7879e11a94c32266ed11dc352ae7e802", null ],
-    [ "_playerGUID", "db/d06/a21705.html#ab792ceb52fe5c04851f69b9c2922822d", null ],
-    [ "_textCounter", "db/d06/a21705.html#aa7560f419ca1486efb9d6c3bda3cedf1", null ]
+    [ "HandleDummy", "db/d06/a21705.html#a476c55695b54e6f6756d9f795dbeeb07", null ],
+    [ "PrepareSpellScript", "db/d06/a21705.html#ae3af1398dec6d6f5faac8e026a6966df", null ],
+    [ "Register", "db/d06/a21705.html#a693522c8a05e2d86837bf16ef2a777b4", null ],
+    [ "Validate", "db/d06/a21705.html#ae1a2cdf4819859e11d6a70104c6d431a", null ]
 ];

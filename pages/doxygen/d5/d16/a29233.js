@@ -1,10 +1,6 @@
 var a29233 =
 [
-    [ "area_id", "d5/d16/a29233.html#acbd77950bf9548d266e568640cf38458", null ],
-    [ "map_id", "d5/d16/a29233.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
-    [ "virtual_map_id", "d5/d16/a29233.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
-    [ "x1", "d5/d16/a29233.html#a78967fef40841f705c2564a177cb36f3", null ],
-    [ "x2", "d5/d16/a29233.html#a037dca812715df0b4f2551f8684b537c", null ],
-    [ "y1", "d5/d16/a29233.html#a7f90073656e1cd00a88add9f8d881d11", null ],
-    [ "y2", "d5/d16/a29233.html#ad8e0164952e5565488d5443f269ec79e", null ]
+    [ "Id", "d5/d16/a29233.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "d5/d16/a29233.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "d5/d16/a29233.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

@@ -1,6 +1,5 @@
 var a23085 =
 [
-    [ "HandleApplyAura", "db/d4b/a23085.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "db/d4b/a23085.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "db/d4b/a23085.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "npc_vengeful_spirit", "db/d4b/a23085.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
+    [ "OnCharmed", "db/d4b/a23085.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
 ];

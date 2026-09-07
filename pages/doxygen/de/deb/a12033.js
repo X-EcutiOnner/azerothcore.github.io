@@ -1,6 +1,7 @@
 var a12033 =
 [
-    [ "EffectCalcSpellModHandler", "de/deb/a12033.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
-    [ "Call", "de/deb/a12033.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
-    [ "pEffectHandlerScript", "de/deb/a12033.html#a15c0b24641cb04f31bb3d651dae59448", null ]
+    [ "EffectAuraNameCheck", "de/deb/a12033.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
+    [ "Check", "de/deb/a12033.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
+    [ "ToString", "de/deb/a12033.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
+    [ "effAurName", "de/deb/a12033.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
 ];

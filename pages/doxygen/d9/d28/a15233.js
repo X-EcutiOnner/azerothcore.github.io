@@ -1,8 +1,11 @@
 var a15233 =
 [
-    [ "npc_arthasAI", "d1/da2/a15237.html", "d1/da2/a15237" ],
-    [ "npc_arthas", "d9/d28/a15233.html#a87c280ff9861187b0a713f795e657266", null ],
-    [ "GetAI", "d9/d28/a15233.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
-    [ "OnGossipHello", "d9/d28/a15233.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
-    [ "OnGossipSelect", "d9/d28/a15233.html#aeca2f4baa3c943281c676c6498393165", null ]
+    [ "npc_hyjal_ground_trash", "d9/d28/a15233.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
+    [ "AttackStart", "d9/d28/a15233.html#a0ab86d651644dcc579585176c2b5c07e", null ],
+    [ "DoAction", "d9/d28/a15233.html#aa92481bcf993c4eda5ef271145200d77", null ],
+    [ "GetNearbyFriendlyTrashCreature", "d9/d28/a15233.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
+    [ "JustEngagedWith", "d9/d28/a15233.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
+    [ "PathEndReached", "d9/d28/a15233.html#a035610284a56e690200f978b0fd496ab", null ],
+    [ "Reset", "d9/d28/a15233.html#aa38b45f63841c049a2add0a9832268ef", null ],
+    [ "UpdateAI", "d9/d28/a15233.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
 ];

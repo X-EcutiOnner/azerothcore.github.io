@@ -1,11 +1,6 @@
 var a17281 =
 [
-    [ "npc_ghostly_priest", "da/d2c/a17281.html#a154f4a7f9cd3c4088eada04c44f66f2b", null ],
-    [ "AttackStart", "da/d2c/a17281.html#acbc2eb708773500136deebb8542d36aa", null ],
-    [ "DoAction", "da/d2c/a17281.html#a0687e1c766c89b8b90cb620a4a2bef6d", null ],
-    [ "EnterEvadeMode", "da/d2c/a17281.html#ac944330e3834bd4c65e30c595752746c", null ],
-    [ "JustDied", "da/d2c/a17281.html#ae7ef06904aa2039d3552a2a62b846042", null ],
-    [ "JustEngagedWith", "da/d2c/a17281.html#ada930b20b8f3b07f2da7bfa44025ed32", null ],
-    [ "Reset", "da/d2c/a17281.html#a3bb7596f2a15c76eeb8f2b79fab8ddf1", null ],
-    [ "UpdateAI", "da/d2c/a17281.html#a3722469ea1445f7dbaf834853a9ed654", null ]
+    [ "FilterTargets", "da/d2c/a17281.html#a36879a2920f43562bb0ff89c76d758e4", null ],
+    [ "PrepareSpellScript", "da/d2c/a17281.html#afeb95c5fe970ebc147d509981b026e98", null ],
+    [ "Register", "da/d2c/a17281.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
 ];

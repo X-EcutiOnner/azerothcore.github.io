@@ -1,8 +1,7 @@
 var a25805 =
 [
-    [ "CheckProc", "d3/deb/a25805.html#a2e83dd62bfcbe23e38b62e8299a52ee5", null ],
-    [ "HandleProc", "d3/deb/a25805.html#a1d45afc30c8dd6de0a01285778117033", null ],
-    [ "PrepareAuraScript", "d3/deb/a25805.html#ab468329029c4bc3c16475585b3451615", null ],
-    [ "Register", "d3/deb/a25805.html#a37700b8597a3945d30700c5e8b60404a", null ],
-    [ "Validate", "d3/deb/a25805.html#a30e57e0b04e16a4a232c6a18801fafa0", null ]
+    [ "FilterTargets", "d3/deb/a25805.html#affede599b86e05e6475fd64a60268e8e", null ],
+    [ "Load", "d3/deb/a25805.html#a1343407ca8b571140ed2ecf5501bf378", null ],
+    [ "PrepareSpellScript", "d3/deb/a25805.html#a12ff05520225209b476b3ba8422de1c6", null ],
+    [ "Register", "d3/deb/a25805.html#ac99786385187e21fb02e65e9b9719400", null ]
 ];

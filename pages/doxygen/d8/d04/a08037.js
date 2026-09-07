@@ -1,4 +1,7 @@
 var a08037 =
 [
-    [ "type", "d8/d04/a08037.html#adb9fbbd823ddc1a80d7d8b3063c1ec54", null ]
+    [ "V", "d8/d04/a08037.html#aab662b1ba92ab8eb76558f97191142cc", null ],
+    [ "TryAtIndex", "d8/d04/a08037.html#aeff1865d7499b0b112cc39c44fd07112", null ],
+    [ "TryConsume", "d8/d04/a08037.html#ae2a889829917ed0dd76194194efc9b13", null ],
+    [ "N", "d8/d04/a08037.html#aa2c2048ce2e64b2398eeea3f0d789245", null ]
 ];

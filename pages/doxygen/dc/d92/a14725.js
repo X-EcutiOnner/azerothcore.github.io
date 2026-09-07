@@ -1,7 +1,6 @@
 var a14725 =
 [
-    [ "HandleScriptEffect", "dc/d92/a14725.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
-    [ "PrepareSpellScript", "dc/d92/a14725.html#a3d906994c11e52e89c842189be73ddfd", null ],
-    [ "Register", "dc/d92/a14725.html#a4cdab36e2265c696207a39e16549ab13", null ],
-    [ "Validate", "dc/d92/a14725.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
+    [ "HandleEffectRemove", "dc/d92/a14725.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
+    [ "PrepareAuraScript", "dc/d92/a14725.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
+    [ "Register", "dc/d92/a14725.html#aa436788f638fedacb217ca508da5f426", null ]
 ];

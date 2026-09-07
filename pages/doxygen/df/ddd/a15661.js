@@ -1,14 +1,9 @@
 var a15661 =
 [
-    [ "boss_twinemperorsAI", "df/ddd/a15661.html#ae0857b191dbbf086533062aee5885237", null ],
-    [ "DamageTaken", "df/ddd/a15661.html#a118151851f36de9dfc22971a965cb047", null ],
-    [ "DoAction", "df/ddd/a15661.html#a2b5e585749b7a59663813c7a9d56c223", null ],
-    [ "EnterEvadeMode", "df/ddd/a15661.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
-    [ "GetTwin", "df/ddd/a15661.html#af23aa54bca9752c242e80331862ace4d", null ],
-    [ "IAmVeklor", "df/ddd/a15661.html#acdccdde2ee573f51e1783ea493577258", null ],
-    [ "JustDied", "df/ddd/a15661.html#a9cc74619908c2aa9f8deda2689616735", null ],
-    [ "JustEngagedWith", "df/ddd/a15661.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
-    [ "KilledUnit", "df/ddd/a15661.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
-    [ "UpdateAI", "df/ddd/a15661.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
-    [ "_introDone", "df/ddd/a15661.html#a1b4689b0c403f7246ae100e4f716b138", null ]
+    [ "npc_giant_eye_tentacle", "df/ddd/a15661.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
+    [ "JustDied", "df/ddd/a15661.html#a72cac50a711868256a41c543d0cef3da", null ],
+    [ "JustEngagedWith", "df/ddd/a15661.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
+    [ "Reset", "df/ddd/a15661.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
+    [ "UpdateAI", "df/ddd/a15661.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
+    [ "_portalGUID", "df/ddd/a15661.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
 ];

@@ -1,6 +1,6 @@
 var a10825 =
 [
-    [ "WorldMapScript", "d5/d11/a10825.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
-    [ "checkValidity", "d5/d11/a10825.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
-    [ "isAfterLoadScript", "d5/d11/a10825.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
+    [ "LootScript", "d5/d11/a10825.html#acb6898fdb67e5bdcf0de945da5ec667d", null ],
+    [ "IsDatabaseBound", "d5/d11/a10825.html#ad60b605eac89be48efd339127e9cb9cd", null ],
+    [ "OnLootMoney", "d5/d11/a10825.html#a56a57baead49f6815a9979b181a55375", null ]
 ];

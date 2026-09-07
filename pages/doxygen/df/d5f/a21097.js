@@ -1,15 +1,6 @@
 var a21097 =
 [
-    [ "boss_skadi_graufAI", "df/d5f/a21097.html#a852687a2fa6ed97aefa230db8ff73b72", null ],
-    [ "DoAction", "df/d5f/a21097.html#a51a189e6f1f6c9c6948194d3181a7426", null ],
-    [ "JustDied", "df/d5f/a21097.html#a64a4e6cd927f89c11ec55806e403588f", null ],
-    [ "MovementInform", "df/d5f/a21097.html#a081fed07ce51e3bfd7a4ce051a4d79ee", null ],
-    [ "Reset", "df/d5f/a21097.html#ab04a1a98da7d318ee54c4af9aaabcfae", null ],
-    [ "UpdateAI", "df/d5f/a21097.html#add5671b1f9e20590e1121f8c18d064cc", null ],
-    [ "_events", "df/d5f/a21097.html#a446de23b703512497888b42ff781da39", null ],
-    [ "_flyingToSide", "df/d5f/a21097.html#a92b1963484d7d88f6b4904039db10c9e", null ],
-    [ "_instance", "df/d5f/a21097.html#adfcccde7d61c9fa8e850e3d4678d1ad0", null ],
-    [ "_lastSide", "df/d5f/a21097.html#a6b4ef194bf96b7fc8dae2b22536e31b1", null ],
-    [ "_passFreshStart", "df/d5f/a21097.html#a5c49a178b6729cd555c38e106deeb0a5", null ],
-    [ "_summons", "df/d5f/a21097.html#abacd3a15554571bce8f70a519ce1bb0b", null ]
+    [ "OnRemove", "df/d5f/a21097.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
+    [ "PrepareAuraScript", "df/d5f/a21097.html#a5fb0837417b915676549370cc76c477d", null ],
+    [ "Register", "df/d5f/a21097.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
 ];

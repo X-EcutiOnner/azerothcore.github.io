@@ -1,6 +1,7 @@
 var a16293 =
 [
-    [ "ModDestHeight", "d9/dd4/a16293.html#a8bda9327c4244af41c513528ad5c818c", null ],
-    [ "PrepareSpellScript", "d9/dd4/a16293.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
-    [ "Register", "d9/dd4/a16293.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
+    [ "go_troll_cageAI", "d9/dd4/a16293.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
+    [ "GossipHello", "d9/dd4/a16293.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
+    [ "initBlyCrewMember", "d9/dd4/a16293.html#a6bfb77ec97367d8704885acfef801b74", null ],
+    [ "instance", "d9/dd4/a16293.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
 ];

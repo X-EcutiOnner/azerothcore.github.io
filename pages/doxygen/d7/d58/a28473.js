@@ -1,7 +1,10 @@
 var a28473 =
 [
-    [ "npc_flameshocker", "d7/d58/a28473.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
-    [ "JustDied", "d7/d58/a28473.html#aba94a5bcec75c649049d5816a53ace58", null ],
-    [ "Reset", "d7/d58/a28473.html#a13cb88e2b33df2d910fb73053684b420", null ],
-    [ "UpdateAI", "d7/d58/a28473.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
+    [ "npc_prof_alchemy", "d7/d58/a28473.html#a43ea842214fc507c34586d12df8f7fea", null ],
+    [ "HasAlchemySpell", "d7/d58/a28473.html#ac9df824e0923ca86189a53ae391b43c0", null ],
+    [ "OnGossipHello", "d7/d58/a28473.html#add760c538c7882e1ad8331b8ded74f5c", null ],
+    [ "OnGossipSelect", "d7/d58/a28473.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
+    [ "SendActionMenu", "d7/d58/a28473.html#a2d4c7337b40be323a384a9e755fc3145", null ],
+    [ "SendConfirmLearn", "d7/d58/a28473.html#a548224b30494636b9ee292a533fc7b39", null ],
+    [ "SendConfirmUnlearn", "d7/d58/a28473.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
 ];

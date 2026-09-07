@@ -1,6 +1,8 @@
 var a16969 =
 [
-    [ "boss_jaraxxusAI", "da/de0/a16973.html", "da/de0/a16973" ],
-    [ "boss_jaraxxus", "de/d10/a16969.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "de/d10/a16969.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "npc_toc_boomkinAI", "de/d10/a16969.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "de/d10/a16969.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "de/d10/a16969.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "de/d10/a16969.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "de/d10/a16969.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

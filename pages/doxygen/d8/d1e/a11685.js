@@ -1,6 +1,5 @@
 var a11685 =
 [
-    [ "WorldSessionFilter", "d8/d1e/a11685.html#aba91eb2dfd56201534743b2d458fa111", null ],
-    [ "~WorldSessionFilter", "d8/d1e/a11685.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
-    [ "Process", "d8/d1e/a11685.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
+    [ "PacketHandler", "d8/d1e/a11685.html#ae28d6ea18799c4dc90be8225fd2fad66", null ],
+    [ "Call", "d8/d1e/a11685.html#a9468be560aba807419fb7e28bf0d6a41", null ]
 ];

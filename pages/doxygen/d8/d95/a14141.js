@@ -1,6 +1,7 @@
 var a14141 =
 [
-    [ "npc_marzon_silent_bladeAI", "d9/d29/a14145.html", "d9/d29/a14145" ],
-    [ "npc_marzon_silent_blade", "d8/d95/a14141.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
-    [ "GetAI", "d8/d95/a14141.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
+    [ "HandleScriptEffect", "d8/d95/a14141.html#a1b196f3817c16fac48392981b58c1a05", null ],
+    [ "PrepareSpellScript", "d8/d95/a14141.html#ad44566ff9a44057679e7ce8e1959776d", null ],
+    [ "Register", "d8/d95/a14141.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
+    [ "Validate", "d8/d95/a14141.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
 ];

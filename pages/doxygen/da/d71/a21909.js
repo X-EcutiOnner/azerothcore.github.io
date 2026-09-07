@@ -1,7 +1,6 @@
 var a21909 =
 [
-    [ "GetSeatNumber", "da/d71/a21909.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "da/d71/a21909.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "da/d71/a21909.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "da/d71/a21909.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "npc_q24545_vegard_dummyAI", "da/d71/a21909.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
+    [ "UpdateAI", "da/d71/a21909.html#aa31baac9ce3c4c951f93917b88390797", null ],
+    [ "done", "da/d71/a21909.html#a0208fbae8e6c46d0671107530279c50c", null ]
 ];

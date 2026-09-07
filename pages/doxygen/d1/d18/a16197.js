@@ -1,6 +1,7 @@
 var a16197 =
 [
-    [ "creatureID", "d1/d18/a16197.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "d1/d18/a16197.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "d1/d18/a16197.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "npc_paoka_swiftmountainAI", "d6/d4d/a16201.html", "d6/d4d/a16201" ],
+    [ "npc_paoka_swiftmountain", "d1/d18/a16197.html#abb3f6fab7cca158c2e139159430f880a", null ],
+    [ "GetAI", "d1/d18/a16197.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
+    [ "OnQuestAccept", "d1/d18/a16197.html#a3340cca58bdad2f5681725f9ba3b6bfd", null ]
 ];

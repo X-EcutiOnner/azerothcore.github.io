@@ -1,7 +1,13 @@
 var a22581 =
 [
-    [ "HandleEffectRemove", "df/d87/a22581.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
-    [ "PrepareAuraScript", "df/d87/a22581.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
-    [ "Register", "df/d87/a22581.html#a9ee8e71020c17f593472de5a9c130753", null ],
-    [ "Validate", "df/d87/a22581.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
+    [ "OPvPCapturePointEP_NPT", "df/d87/a22581.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
+    [ "ChangeState", "df/d87/a22581.html#a9e046ace6129ce67568ed7c15130b617", null ],
+    [ "FillInitialWorldStates", "df/d87/a22581.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
+    [ "HandlePlayerEnter", "df/d87/a22581.html#ace643b7f7bc793934972c61c618045eb", null ],
+    [ "HandlePlayerLeave", "df/d87/a22581.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
+    [ "SendChangePhase", "df/d87/a22581.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
+    [ "SummonGO", "df/d87/a22581.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
+    [ "UpdateTowerState", "df/d87/a22581.html#ad8cfefcc567346273914e8039b039835", null ],
+    [ "m_SummonedGOSideId", "df/d87/a22581.html#aa034240d169c9ab7276786bb188abc70", null ],
+    [ "m_TowerState", "df/d87/a22581.html#a703b68024362d13ceaf9012202b72e7d", null ]
 ];

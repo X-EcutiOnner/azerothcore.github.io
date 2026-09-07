@@ -1,4 +1,5 @@
 var a02066 =
 [
-    [ "ScriptRegistry< OutdoorPvPScript >", "da/d14/a02066.html#a87dac516981f5c502b37a0500f6f7882", null ]
+    [ "GetAISpellInfo", "da/d14/a02066.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
+    [ "IsValidCombatTarget", "da/d14/a02066.html#a981f03ba3b8c59eb1fa9d22df158ba19", null ]
 ];

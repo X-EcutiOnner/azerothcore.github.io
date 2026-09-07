@@ -1,7 +1,12 @@
 var a14333 =
 [
-    [ "OnPeriodic", "d9/d19/a14333.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
-    [ "PrepareAuraScript", "d9/d19/a14333.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
-    [ "Register", "d9/d19/a14333.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
-    [ "Validate", "d9/d19/a14333.html#a7ed214de6769314a45540e9afdb82949", null ]
+    [ "npc_akilzon_eagle", "d9/d19/a14333.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
+    [ "JustEngagedWith", "d9/d19/a14333.html#aa5c3d77a1086ad90397d47f081b25476", null ],
+    [ "MoveInLineOfSight", "d9/d19/a14333.html#adefd384b8a273ca52343d836a399f3cb", null ],
+    [ "MovementInform", "d9/d19/a14333.html#abf69be0c32356e65e6d451c33fb389f0", null ],
+    [ "Reset", "d9/d19/a14333.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
+    [ "UpdateAI", "d9/d19/a14333.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
+    [ "arrived", "d9/d19/a14333.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
+    [ "EagleSwoop_Timer", "d9/d19/a14333.html#a37a5861ef690729e2a8bfafddce168be", null ],
+    [ "TargetGUID", "d9/d19/a14333.html#a14d4f82f932569d24f6014ad39640619", null ]
 ];

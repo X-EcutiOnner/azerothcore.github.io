@@ -1,8 +1,8 @@
 var a27541 =
 [
-    [ "Load", "df/d2f/a27541.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
-    [ "OnRemove", "df/d2f/a27541.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
-    [ "PrepareAuraScript", "df/d2f/a27541.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
-    [ "Register", "df/d2f/a27541.html#a932760326c822f1b47df1afdec6bb9cb", null ],
-    [ "Validate", "df/d2f/a27541.html#a69bcfedb7f566c572201aadc9e75df08", null ]
+    [ "Apply", "df/d2f/a27541.html#ac3145df90b6b179fece1c76da114e395", null ],
+    [ "HandleEffectPeriodic", "df/d2f/a27541.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
+    [ "PrepareAuraScript", "df/d2f/a27541.html#aa911ba0b5a13a933bf50a072799a040f", null ],
+    [ "Register", "df/d2f/a27541.html#ae0dff9b5002d3d3361d794a75645057f", null ],
+    [ "Validate", "df/d2f/a27541.html#ad81184b508474a89fbafc63594ef0ab1", null ]
 ];

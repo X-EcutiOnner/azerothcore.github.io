@@ -1,8 +1,7 @@
 var a22925 =
 [
-    [ "CalculateAmount", "d2/d75/a22925.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
-    [ "OnPeriodic", "d2/d75/a22925.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
-    [ "PrepareAuraScript", "d2/d75/a22925.html#a1278420b279449c1c6a53b1a7b53f539", null ],
-    [ "Register", "d2/d75/a22925.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
-    [ "Validate", "d2/d75/a22925.html#a601c2db3a8e47d48b956ed102cbca104", null ]
+    [ "boss_veras_darkshadow", "d2/d75/a22925.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "d2/d75/a22925.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "d2/d75/a22925.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "d2/d75/a22925.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

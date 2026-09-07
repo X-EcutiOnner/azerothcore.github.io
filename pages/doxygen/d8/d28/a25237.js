@@ -1,11 +1,7 @@
 var a25237 =
 [
-    [ "spell_gen_consume", "d8/d28/a25237.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
-    [ "AfterRemove", "d8/d28/a25237.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
-    [ "HandleProc", "d8/d28/a25237.html#af69251aa0415a2148162f32dd9113917", null ],
-    [ "PrepareAuraScript", "d8/d28/a25237.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
-    [ "Register", "d8/d28/a25237.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
-    [ "Validate", "d8/d28/a25237.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
-    [ "_spellId1", "d8/d28/a25237.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
-    [ "_spellId2", "d8/d28/a25237.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
+    [ "HandleScript", "d8/d28/a25237.html#a2e323378559d8f11cbdbcb76e86a25ca", null ],
+    [ "PrepareSpellScript", "d8/d28/a25237.html#ad511986b26dccd1be8206f01458c2b40", null ],
+    [ "Register", "d8/d28/a25237.html#aa8ea297d751913def150dc1e29d37664", null ],
+    [ "Validate", "d8/d28/a25237.html#a81222d8ac4f55175d1dc4d7c359cc331", null ]
 ];

@@ -1,15 +1,15 @@
 var a31208 =
 [
-    [ "Acore::type_list< Ts >", "d3/d67/a05971.html", null ],
-    [ "Acore::Impl::list_size< type_list< Ts... > >", "d6/d0c/a05979.html", "d6/d0c/a05979" ],
-    [ "Acore::AnyTypeList", "df/d21/a30384.html", null ],
-    [ "any_of", "db/d00/a31208.html#a47058396f75885b2327eea9530b910d7", null ],
-    [ "any_of", "db/d00/a31208.html#af5885336c2d6f4bac05b7ab6a79d1ba9", null ],
-    [ "count_if", "db/d00/a31208.html#a86386611f0e1cc0f7e33cb9bc0403679", null ],
-    [ "count_if", "db/d00/a31208.html#a3f33370510f6a20f2c280ddb7aee8113", null ],
-    [ "for_each", "db/d00/a31208.html#a63f3ebca59abc8aeb41648f6f79da7f3", null ],
-    [ "for_each", "db/d00/a31208.html#af3502a542fe8940c5967acc190cef55a", null ],
-    [ "is_type_list", "db/d00/a31208.html#af90fd778c5d0004ab7da96e3250e1186", null ],
-    [ "is_type_list< type_list< Ts... > >", "db/d00/a31208.html#ab6a868461567e901fbc55cdc2377b4ec", null ],
-    [ "size_v", "db/d00/a31208.html#a9c605be8d96841d40f90f900dfdae16a", null ]
+    [ "GetGameTime", "db/d00/a31208.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
+    [ "GetGameTimeMS", "db/d00/a31208.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
+    [ "GetStartTime", "db/d00/a31208.html#a872d34d3f9d420cfc749073c809931f9", null ],
+    [ "GetSystemTime", "db/d00/a31208.html#a443eccf314fe436192278d425d6d8220", null ],
+    [ "GetUptime", "db/d00/a31208.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
+    [ "Now", "db/d00/a31208.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
+    [ "UpdateGameTimers", "db/d00/a31208.html#a45712735241c9563a12fc3da54fb144d", null ],
+    [ "GameMSTime", "db/d00/a31208.html#ad5fc2a056410eeac2e2717f91cb8295c", null ],
+    [ "GameTime", "db/d00/a31208.html#a9a28ffdb4bb387919d2dd70a51080ce0", null ],
+    [ "GameTimeSteadyPoint", "db/d00/a31208.html#a874057035d37aa57afc5064acffba119", null ],
+    [ "GameTimeSystemPoint", "db/d00/a31208.html#aa393fef2187ebdd6aa34379b0f1504d7", null ],
+    [ "StartTime", "db/d00/a31208.html#a78088a0637670a1ab5125a1388f7ca52", null ]
 ];

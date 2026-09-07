@@ -1,12 +1,17 @@
 var a05713 =
 [
-    [ "Node", "d0/d8e/a05717.html", "d0/d8e/a05717" ],
-    [ "MPSCQueueNonIntrusive", "da/ded/a05713.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
-    [ "~MPSCQueueNonIntrusive", "da/ded/a05713.html#a599e2093215f70dc4f2f7db08965d816", null ],
-    [ "MPSCQueueNonIntrusive", "da/ded/a05713.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
-    [ "Dequeue", "da/ded/a05713.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
-    [ "Enqueue", "da/ded/a05713.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
-    [ "operator=", "da/ded/a05713.html#a75063e89049903fb5305d67ea1a02034", null ],
-    [ "_head", "da/ded/a05713.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
-    [ "_tail", "da/ded/a05713.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
+    [ "AppenderFile", "da/ded/a05713.html#a0437ef5c3d0106e52747ab57ccbf97a3", null ],
+    [ "~AppenderFile", "da/ded/a05713.html#ae61ef8a7dbc41612f94513ee0da156e1", null ],
+    [ "_write", "da/ded/a05713.html#a4c20fc9c6519eb63ca3bf74fd1d1f5b5", null ],
+    [ "CloseFile", "da/ded/a05713.html#a039659a1e8e340c9522ff99f119ff5c8", null ],
+    [ "getType", "da/ded/a05713.html#ad978ed158e068f5fa84f9f93aaf99b46", null ],
+    [ "OpenFile", "da/ded/a05713.html#af4ee583cbcd00d8d564189b0d62a1bb8", null ],
+    [ "_backup", "da/ded/a05713.html#a4e1f6ab329fa3dadf4e63584b92c456f", null ],
+    [ "_dynamicName", "da/ded/a05713.html#a13cffedf98f8554f5a947dcc065caf65", null ],
+    [ "_fileName", "da/ded/a05713.html#a53fcfcc6bf29a0e493d2ea9fdb1344fc", null ],
+    [ "_fileSize", "da/ded/a05713.html#a03a7e6402f58136a0cc34eff3985d3fb", null ],
+    [ "_logDir", "da/ded/a05713.html#a99f47e0f33b5d5f810470f45a4c885b7", null ],
+    [ "_maxFileSize", "da/ded/a05713.html#a271930a4cb21d7efdc2243b6d33d177f", null ],
+    [ "logfile", "da/ded/a05713.html#a8ce79405a7e19ae23fc4a93f70ad28b6", null ],
+    [ "type", "da/ded/a05713.html#a6ec33bdb38ab0359620e008cf4793f8c", null ]
 ];

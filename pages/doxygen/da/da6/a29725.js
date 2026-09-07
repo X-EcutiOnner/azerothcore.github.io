@@ -1,9 +1,24 @@
 var a29725 =
 [
-    [ "defaultHitMask", "da/da6/a29725.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
-    [ "defaultSpellPhaseMask", "da/da6/a29725.html#af927bd441959e8e122648de610398c65", null ],
-    [ "defaultSpellTypeMask", "da/da6/a29725.html#aa64e6ad192c41998b368b908c499574d", null ],
-    [ "name", "da/da6/a29725.html#a78f8589133427f536f15ea05672ad42f", null ],
-    [ "procFlag", "da/da6/a29725.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
-    [ "requiresSpellPhase", "da/da6/a29725.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
+    [ "SpellInfoBuilder", "da/da6/a29725.html#a1af4c9aaf8b9707697c1e030beee389a", null ],
+    [ "Build", "da/da6/a29725.html#ab8ba5082d8c0d5d98837e7df20229906", null ],
+    [ "BuildUnique", "da/da6/a29725.html#a96bd1eea56970fdc051fe3c494ee6396", null ],
+    [ "WithAttributes", "da/da6/a29725.html#ad08396120fbe9b27e7ae6e156b338e95", null ],
+    [ "WithAttributesEx", "da/da6/a29725.html#ad72634aed9f5bc6b5b577159a88767db", null ],
+    [ "WithAttributesEx3", "da/da6/a29725.html#ab92a2a4b9be30a760ce90467c7dfa234", null ],
+    [ "WithDmgClass", "da/da6/a29725.html#aae876b0fda0da198b04bb43cf9b8851e", null ],
+    [ "WithEffect", "da/da6/a29725.html#aec11a1d4ff5ce438e052d58bd6dbbd1f", null ],
+    [ "WithEffectBasePoints", "da/da6/a29725.html#a5a480961571af48bd8cd13aefb58248f", null ],
+    [ "WithEffectDieSides", "da/da6/a29725.html#adcf13d48e0289bce0a0de09c0ae5dbcc", null ],
+    [ "WithEffectImplicitTargets", "da/da6/a29725.html#a0132018ec281ff3f911e3dbd7c7d005c", null ],
+    [ "WithEffectMiscValue", "da/da6/a29725.html#ab79a3f46af60c196780e5bec6e3ece25", null ],
+    [ "WithEffectTriggerSpell", "da/da6/a29725.html#ab7e6d316ff67f1610695b89723b7e364", null ],
+    [ "WithId", "da/da6/a29725.html#a1f23f2372b8fd2e7ce8e6aad99868892", null ],
+    [ "WithProcChance", "da/da6/a29725.html#a9a82d31ff56c42ad264d1daf97c1a445", null ],
+    [ "WithProcCharges", "da/da6/a29725.html#a49152801fbf954772dfdf6c94cb91fb8", null ],
+    [ "WithProcFlags", "da/da6/a29725.html#a76fd05f8130f02bba9b159e9e09c4f52", null ],
+    [ "WithSchoolMask", "da/da6/a29725.html#adbc655e188cade9675943e2f57a4a242", null ],
+    [ "WithSpellFamilyFlags", "da/da6/a29725.html#aa4f184402512fd50c6066910787c4595", null ],
+    [ "WithSpellFamilyName", "da/da6/a29725.html#ae64bb11a8877c42ed63addc210fae8cc", null ],
+    [ "_entryHelper", "da/da6/a29725.html#a764a57f15f5383d3555b7763c0dc718b", null ]
 ];

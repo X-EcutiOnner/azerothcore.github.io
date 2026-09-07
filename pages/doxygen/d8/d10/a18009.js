@@ -1,9 +1,5 @@
 var a18009 =
 [
-    [ "CheckAreaTarget", "d8/d10/a18009.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
-    [ "HandleApply", "d8/d10/a18009.html#a9ce86d32957af07313af379b4176d0b3", null ],
-    [ "HandleRemove", "d8/d10/a18009.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
-    [ "Load", "d8/d10/a18009.html#aa10821981f3e80262850e5c46449d5d0", null ],
-    [ "PrepareAuraScript", "d8/d10/a18009.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
-    [ "Register", "d8/d10/a18009.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
+    [ "npc_zafod_boomboxAI", "d8/d10/a18009.html#a6540d8f5787ce1da211123721ef659f3", null ],
+    [ "sGossipSelect", "d8/d10/a18009.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
 ];

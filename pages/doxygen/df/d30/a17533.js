@@ -1,6 +1,6 @@
 var a17533 =
 [
-    [ "boss_drakkari_elementalAI", "dc/d29/a17537.html", "dc/d29/a17537" ],
-    [ "boss_drakkari_elemental", "df/d30/a17533.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
-    [ "GetAI", "df/d30/a17533.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
+    [ "npc_pos_freed_slaveAI", "dc/d29/a17537.html", "dc/d29/a17537" ],
+    [ "npc_pos_freed_slave", "df/d30/a17533.html#a19fd79279646cb1c49c04056636615fc", null ],
+    [ "GetAI", "df/d30/a17533.html#ac798c2584d48892162cc2bc779701e16", null ]
 ];

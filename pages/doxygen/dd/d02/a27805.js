@@ -1,5 +1,6 @@
 var a27805 =
 [
-    [ "achievement_sa_defense_of_the_ancients", "dd/d02/a27805.html#a678cffdece32710a42a92db0c092f3a5", null ],
-    [ "OnCheck", "dd/d02/a27805.html#af23e346f9b022f490b84c8081f847a2f", null ]
+    [ "HandleAfterHit", "dd/d02/a27805.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
+    [ "PrepareSpellScript", "dd/d02/a27805.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
+    [ "Register", "dd/d02/a27805.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
 ];

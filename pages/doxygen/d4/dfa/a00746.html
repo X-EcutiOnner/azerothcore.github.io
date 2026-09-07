@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcUnitIntegrationTest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/TicketScript.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,76 +105,30 @@ $(document).ready(function(){initNavTree('d4/dfa/a00746.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">SpellProcUnitIntegrationTest.cpp File Reference</div></div>
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">TicketScript.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">IntegrationTestFixture.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ProcEventInfoHelper.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellInfoTestHelper.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
-<code>#include &quot;gtest/gtest.h&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">TicketScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptMgrMacros.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d15/a30087.html">anonymous_namespace{SpellProcUnitIntegrationTest.cpp}::ProcUnitIntegrationTest</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:d4/d9d/a05193"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9d/a05193.html">anonymous_namespace{SpellProcUnitIntegrationTest.cpp}</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a3c2cf023118b4939342706355b5e3e23"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dfa/a00746.html#a3c2cf023118b4939342706355b5e3e23">TEST_F</a>(fixture,  name)&#160;&#160;&#160;void fixture##_##name()</td></tr>
-<tr class="separator:a3c2cf023118b4939342706355b5e3e23"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:ad84a5e69b6f67e38d1c68e8989c4866b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9d/a05193.html#ad84a5e69b6f67e38d1c68e8989c4866b">anonymous_namespace{SpellProcUnitIntegrationTest.cpp}::TEST_F</a> (ProcUnitIntegrationTest, CreatureAndPlayerAreHostile)</td></tr>
-<tr class="separator:ad84a5e69b6f67e38d1c68e8989c4866b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae1ef31a59c0fd17158536e77cece700f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9d/a05193.html#ae1ef31a59c0fd17158536e77cece700f">anonymous_namespace{SpellProcUnitIntegrationTest.cpp}::TEST_F</a> (ProcUnitIntegrationTest, ProcEventInfoWithRealUnits)</td></tr>
-<tr class="separator:ae1ef31a59c0fd17158536e77cece700f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a772a9c946c01ce64847b8ae7108c9212"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9d/a05193.html#a772a9c946c01ce64847b8ae7108c9212">anonymous_namespace{SpellProcUnitIntegrationTest.cpp}::TEST_F</a> (ProcUnitIntegrationTest, ProcEntryMatchesSpellInfo)</td></tr>
-<tr class="separator:a772a9c946c01ce64847b8ae7108c9212"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1929ed44e3386e34aa9bd16b20887dcc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9d/a05193.html#a1929ed44e3386e34aa9bd16b20887dcc">anonymous_namespace{SpellProcUnitIntegrationTest.cpp}::TEST_F</a> (ProcUnitIntegrationTest, MultipleCreaturesCanBeCreated)</td></tr>
-<tr class="separator:a1929ed44e3386e34aa9bd16b20887dcc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9cbe352cb80b486be5d4757e72bc1440"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9d/a05193.html#a9cbe352cb80b486be5d4757e72bc1440">anonymous_namespace{SpellProcUnitIntegrationTest.cpp}::TEST_F</a> (ProcUnitIntegrationTest, ProcOnKillWithRealUnits)</td></tr>
-<tr class="separator:a9cbe352cb80b486be5d4757e72bc1440"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af655f32c4514784ce9762bb70cc3c2c7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9d/a05193.html#af655f32c4514784ce9762bb70cc3c2c7">anonymous_namespace{SpellProcUnitIntegrationTest.cpp}::TEST_F</a> (ProcUnitIntegrationTest, CreatureHealthCanBeManipulated)</td></tr>
-<tr class="separator:af655f32c4514784ce9762bb70cc3c2c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae192d86d9338d6a40d63f550aec90a8f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9d/a05193.html#ae192d86d9338d6a40d63f550aec90a8f">anonymous_namespace{SpellProcUnitIntegrationTest.cpp}::TEST_F</a> (ProcUnitIntegrationTest, FactionHostilityIsSymmetric)</td></tr>
-<tr class="separator:ae192d86d9338d6a40d63f550aec90a8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a3455c8aecfa91396c5eb215ecbce5583"><td class="memItemLeft" align="right" valign="top">template class <a class="el" href="../../d0/d5e/a04655.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dfa/a00746.html#a3455c8aecfa91396c5eb215ecbce5583">ScriptRegistry&lt; TicketScript &gt;</a></td></tr>
+<tr class="separator:a3455c8aecfa91396c5eb215ecbce5583"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a3c2cf023118b4939342706355b5e3e23" name="a3c2cf023118b4939342706355b5e3e23"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3c2cf023118b4939342706355b5e3e23">&#9670;&#160;</a></span>TEST_F</h2>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a3455c8aecfa91396c5eb215ecbce5583" name="a3455c8aecfa91396c5eb215ecbce5583"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3455c8aecfa91396c5eb215ecbce5583">&#9670;&#160;</a></span>ScriptRegistry&lt; TicketScript &gt;</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define TEST_F</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">fixture, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">name&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td>&#160;&#160;&#160;void fixture##_##name()</td>
+          <td class="memname">template class <a class="el" href="../../d0/d5e/a04655.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> <a class="el" href="../../d9/da7/a10909.html">ScriptRegistry</a>&lt; <a class="el" href="../../d9/d8d/a10869.html">TicketScript</a> &gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -186,8 +140,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d4/dfa/a00746.html">SpellProcUnitIntegrationTest.cpp</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:08:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d4/dfa/a00746.html">TicketScript.cpp</a></li>
+    <li class="footer">Generated on Mon Sep 7 2026 23:03:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

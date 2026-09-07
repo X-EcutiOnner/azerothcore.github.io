@@ -1,10 +1,11 @@
 var a24237 =
 [
-    [ "npc_pet_hunter_snake_trap", "d2/db9/a24237.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "InitializeAI", "d2/db9/a24237.html#a91931c2ac0fd4981f9bf8a2f8f7db672", null ],
-    [ "JustEngagedWith", "d2/db9/a24237.html#a695af9c49daa05c787dac03c4af91645", null ],
-    [ "MoveInLineOfSight", "d2/db9/a24237.html#a099a34f12399fe24349644da3dafe7a4", null ],
-    [ "UpdateAI", "d2/db9/a24237.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_isViper", "d2/db9/a24237.html#ab49c69ca25014ef63e775b236255e4c1", null ],
-    [ "_spellTimer", "d2/db9/a24237.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "npc_invis_infernal_casterAI", "d2/db9/a24237.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
+    [ "Reset", "d2/db9/a24237.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
+    [ "SetData", "d2/db9/a24237.html#aee88dc141757384f96da969fcdc20671", null ],
+    [ "SummonInfernal", "d2/db9/a24237.html#a78d53d09e5544b3fe8301da4415d297b", null ],
+    [ "UpdateAI", "d2/db9/a24237.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
+    [ "events", "d2/db9/a24237.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
+    [ "ground", "d2/db9/a24237.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
+    [ "infernalGUID", "d2/db9/a24237.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
 ];

@@ -1,11 +1,7 @@
 var a23945 =
 [
-    [ "npc_maxx_a_million_escortAI", "d7/d58/a23945.html#ab827933527ed7b4a04b162034876ced8", null ],
-    [ "JustDied", "d7/d58/a23945.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
-    [ "Reset", "d7/d58/a23945.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
-    [ "UpdateAI", "d7/d58/a23945.html#a3b022feb2303875d32ad981e84f66854", null ],
-    [ "WaypointReached", "d7/d58/a23945.html#acd6f45abb93f3f043cd85647405a50f6", null ],
-    [ "WaypointReached", "d7/d58/a23945.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "bTake", "d7/d58/a23945.html#ac697fc6cbc20c7f316845ed26436049b", null ],
-    [ "uiTakeTimer", "d7/d58/a23945.html#a5d4826dcf893f444a42dedba57460110", null ]
+    [ "Load", "d7/d58/a23945.html#aba7e1a0b87607386649bb842b5058c3e", null ],
+    [ "OnRemove", "d7/d58/a23945.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
+    [ "PrepareAuraScript", "d7/d58/a23945.html#ac62b18eedbadb0b3581d772909175e96", null ],
+    [ "Register", "d7/d58/a23945.html#a17e8be131f01b2434b18740b20a08d6e", null ]
 ];

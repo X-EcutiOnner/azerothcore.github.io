@@ -1,7 +1,8 @@
 var a09869 =
 [
-    [ "PowerCheck", "d8/d61/a09869.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
-    [ "operator()", "d8/d61/a09869.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
-    [ "_equals", "d8/d61/a09869.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
-    [ "_power", "d8/d61/a09869.html#a922a57b62b4289835b539a69b0f58fa1", null ]
+    [ "AllCreaturesMatchingOneEntryInRange", "d8/d61/a09869.html#a440899ae5e52fedea316b7caa550455e", null ],
+    [ "operator()", "d8/d61/a09869.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
+    [ "m_fRange", "d8/d61/a09869.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
+    [ "m_pObject", "d8/d61/a09869.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
+    [ "m_uiEntries", "d8/d61/a09869.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
 ];

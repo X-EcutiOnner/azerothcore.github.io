@@ -1,6 +1,8 @@
 var a16385 =
 [
-    [ "boss_krik_thirAI", "d5/dc2/a16389.html", "d5/dc2/a16389" ],
-    [ "boss_krik_thir", "db/d41/a16385.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "db/d41/a16385.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "instance_ahnkahet_InstanceScript", "db/d41/a16385.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
+    [ "IsAllSpheresActivated", "db/d41/a16385.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
+    [ "OnGameObjectCreate", "db/d41/a16385.html#ad00fdc90a61e1c927323daa2149f8466", null ],
+    [ "SetData", "db/d41/a16385.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
+    [ "taldaramPlatform_GUID", "db/d41/a16385.html#a840ce69595c384be321c1167513d151e", null ]
 ];

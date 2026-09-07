@@ -1,12 +1,8 @@
 var a13337 =
 [
-    [ "boss_felblood_kaelthas", "d2/d8e/a13337.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
-    [ "DamageTaken", "d2/d8e/a13337.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
-    [ "DoAction", "d2/d8e/a13337.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
-    [ "GravityLapseSequence", "d2/d8e/a13337.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
-    [ "JustDied", "d2/d8e/a13337.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
-    [ "JustEngagedWith", "d2/d8e/a13337.html#a1d8806d7813d11aa61e043e420852218", null ],
-    [ "LapseAction", "d2/d8e/a13337.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
-    [ "Reset", "d2/d8e/a13337.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
-    [ "_gravityLapseCounter", "d2/d8e/a13337.html#ab4e884a341fa25a555c160f6978861fc", null ]
+    [ "npc_tito", "d2/d8e/a13337.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
+    [ "JustEngagedWith", "d2/d8e/a13337.html#a71335c1474e8a29edf76addacb737fa9", null ],
+    [ "UpdateAI", "d2/d8e/a13337.html#ac357c29e68d8480d94349da844efd3ad", null ],
+    [ "_scheduler", "d2/d8e/a13337.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
+    [ "instance", "d2/d8e/a13337.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
 ];

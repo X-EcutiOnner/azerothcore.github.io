@@ -1,4 +1,5 @@
 var a02327 =
 [
-    [ "ScriptRegistry< BattlefieldScript >", "d1/da3/a02327.html#a66e07787094ffe5d2156ad0768c6dd4e", null ]
+    [ "list_commandscript", "d5/d17/a12513.html", "d5/d17/a12513" ],
+    [ "AddSC_list_commandscript", "d1/da3/a02327.html#a81af00772e7a06ad952109222b1f53a3", null ]
 ];

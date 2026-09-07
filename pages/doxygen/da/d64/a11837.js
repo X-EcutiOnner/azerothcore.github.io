@@ -1,6 +1,5 @@
 var a11837 =
 [
-    [ "WorldObjectSpellConeTargetCheck", "da/d64/a11837.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
-    [ "operator()", "da/d64/a11837.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
-    [ "_coneAngle", "da/d64/a11837.html#a8f946789292320ea8b205dec5d1e1975", null ]
+    [ "AbsorbAuraOrderPred", "da/d64/a11837.html#a30283854715c90496e14d260f913f5fa", null ],
+    [ "operator()", "da/d64/a11837.html#a8f705a8b053ef6ff2e2827b4c7f9c643", null ]
 ];

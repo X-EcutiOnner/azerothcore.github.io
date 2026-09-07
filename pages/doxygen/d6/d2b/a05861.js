@@ -1,20 +1,9 @@
 var a05861 =
 [
-    [ "AsyncProcessResultImplementation", "d6/d2b/a05861.html#a1af6678b7ebf6402df0961cac5ba9ffe", null ],
-    [ "AsyncProcessResultImplementation", "d6/d2b/a05861.html#a6b2ff159a1bfcaf531d0345dbc93c2bd", null ],
-    [ "AsyncProcessResultImplementation", "d6/d2b/a05861.html#acde599a3b98f50b0432b0a067a00ecf8", null ],
-    [ "GetFutureResult", "d6/d2b/a05861.html#a202ec00d726449fea26b3ee0d5bd7025", null ],
-    [ "operator=", "d6/d2b/a05861.html#a4fb3bbb8c65e0baee35fc94cb17b1f3f", null ],
-    [ "operator=", "d6/d2b/a05861.html#a82f3834506db5ed9eda323390bbdf36a", null ],
-    [ "SetFuture", "d6/d2b/a05861.html#a1619a398624976e15c7926b57c9484bc", null ],
-    [ "StartProcess", "d6/d2b/a05861.html#a908c5a545ab501f93a8a2525bbad6317", null ],
-    [ "Terminate", "d6/d2b/a05861.html#a3ddce3d7de8eda350636f0ea8ddfde53", null ],
-    [ "args", "d6/d2b/a05861.html#a2fe2cc9a0a02e6fc8ba383ecccf18060", null ],
-    [ "executable", "d6/d2b/a05861.html#a7fbbe1d2ede5eac4f7bd814d4bfe8983", null ],
-    [ "input_file", "d6/d2b/a05861.html#a30ac6b4cb91d8f4e63f8ff0ba47f7c9c", null ],
-    [ "is_secure", "d6/d2b/a05861.html#a4a8891a13f997d26b6daf9eead76f219", null ],
-    [ "logger", "d6/d2b/a05861.html#a5d60fa7b6e4277f2dfc8d743ea756ff2", null ],
-    [ "my_child", "d6/d2b/a05861.html#a7aaa7f31e23947aca109871572875f4d", null ],
-    [ "result", "d6/d2b/a05861.html#a9a8efa6f7ad48797c28691c08b4ede9b", null ],
-    [ "was_terminated", "d6/d2b/a05861.html#a9868b0110f4db8a1d099243003c83753", null ]
+    [ "IteratorPair", "d6/d2b/a05861.html#ad2e586dfd291c34c82ec71d66e59f36c", null ],
+    [ "IteratorPair", "d6/d2b/a05861.html#a446d4e8dd1146b053987d48d0dcef59d", null ],
+    [ "IteratorPair", "d6/d2b/a05861.html#ae8b79501762f0c0ba6e2d769c56e9f8f", null ],
+    [ "begin", "d6/d2b/a05861.html#a59ff07f1663a3f98f2e10a895ab37ae4", null ],
+    [ "end", "d6/d2b/a05861.html#aa515ca48852213fb51a4d83e9d5c91d2", null ],
+    [ "_iterators", "d6/d2b/a05861.html#a9b08728bc90076dd1db392982840c31e", null ]
 ];

@@ -1,10 +1,9 @@
 var a07801 =
 [
-    [ "BattlegroundNA", "d8/dea/a07801.html#abf646e63e474ac5bb381078ffd0f286e", null ],
-    [ "FillInitialWorldStates", "d8/dea/a07801.html#af0932b648d2a4a4288409d8da360e06b", null ],
-    [ "HandleAreaTrigger", "d8/dea/a07801.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
-    [ "HandlePlayerUnderMap", "d8/dea/a07801.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
-    [ "SetupBattleground", "d8/dea/a07801.html#addc3350a283fdac24e7aa88c23a7945a", null ],
-    [ "StartingEventCloseDoors", "d8/dea/a07801.html#a316492a374884822045971f6dc3db1e2", null ],
-    [ "StartingEventOpenDoors", "d8/dea/a07801.html#a72a953c5047a434d28b98e6185173140", null ]
+    [ "BattlegroundEYLosingPointStruct", "d8/dea/a07801.html#ae3f19e55206e1a8097fe173a8a37aa12", null ],
+    [ "DespawnObjectTypeAlliance", "d8/dea/a07801.html#a210828d05ea9948484631b7408a3bb4b", null ],
+    [ "DespawnObjectTypeHorde", "d8/dea/a07801.html#a335205cb71b7055db4c01a5e562001b6", null ],
+    [ "MessageIdAlliance", "d8/dea/a07801.html#afe89eccc8c21351edb4ce943d937e521", null ],
+    [ "MessageIdHorde", "d8/dea/a07801.html#a8295974ee1f663dd0d22bcc4f0e0fa92", null ],
+    [ "SpawnNeutralObjectType", "d8/dea/a07801.html#a57c1a6f485ea6617b5218da411cae38f", null ]
 ];

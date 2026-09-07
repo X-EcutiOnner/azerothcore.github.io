@@ -1,9 +1,8 @@
 var a12801 =
 [
-    [ "npc_vaelastrasz_the_red", "d5/df6/a12801.html#a28ba5ca91e61707360c8a1f9a8550567", null ],
-    [ "IsSummonedBy", "d5/df6/a12801.html#ad5f2aeaee704c436e60bc5c5400c0f75", null ],
-    [ "UpdateAI", "d5/df6/a12801.html#a95b48026759f9e5e5f0c452a8019ef03", null ],
-    [ "_combatEnabled", "d5/df6/a12801.html#a373fe15d1e754f11db59186517783a40", null ],
-    [ "_events2", "d5/df6/a12801.html#acecc982854e9d587112e9117e7d7a3fa", null ],
-    [ "_victorGUID", "d5/df6/a12801.html#a0e5d6bd095c980a45dcfe68faf2c7b3f", null ]
+    [ "boss_highlord_omokk", "d5/df6/a12801.html#a31dd2c47b3ed33fa65d3b6a7a5cb384c", null ],
+    [ "JustDied", "d5/df6/a12801.html#a2a8931227eb65759ceebd27919976cb5", null ],
+    [ "JustEngagedWith", "d5/df6/a12801.html#a0bd4e1e0f72a0b6a8792d508c401caf8", null ],
+    [ "Reset", "d5/df6/a12801.html#ada6bf702dc1827e60b558b4fb752b789", null ],
+    [ "UpdateAI", "d5/df6/a12801.html#a131ebd1dd8d95c7d910af1b21442c861", null ]
 ];

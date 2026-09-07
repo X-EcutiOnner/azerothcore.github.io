@@ -1,11 +1,11 @@
 var a17545 =
 [
-    [ "npc_living_mojoAI", "df/de5/a17545.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
-    [ "AttackStart", "df/de5/a17545.html#ad3f73a040176cd804f9715141063d176", null ],
-    [ "DoAction", "df/de5/a17545.html#a9d942e99f358a7488d473969ab461d6f", null ],
-    [ "JustEngagedWith", "df/de5/a17545.html#adbc665cfba933007e3f630676ab75656", null ],
-    [ "MoveInLineOfSight", "df/de5/a17545.html#a7981568666269e25580ae839f1f97f09", null ],
-    [ "Reset", "df/de5/a17545.html#a139df1207438dbd3793a2fbc58c2396c", null ],
-    [ "UpdateAI", "df/de5/a17545.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
-    [ "events", "df/de5/a17545.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
+    [ "npc_pos_leader_secondAI", "df/de5/a17545.html#a2ded8591da2548921cd016d592d1f1c8", null ],
+    [ "DoAction", "df/de5/a17545.html#a941d3b42d6a0e58496b724af56fee44a", null ],
+    [ "MovementInform", "df/de5/a17545.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
+    [ "SpellHitTarget", "df/de5/a17545.html#ae630b7b225379831d15a11f66507bc6a", null ],
+    [ "UpdateAI", "df/de5/a17545.html#a640aea9ce4a47dd13d417748e533fc33", null ],
+    [ "barrierGUID", "df/de5/a17545.html#a452c096475581c12bf2f4ccb12448026", null ],
+    [ "events", "df/de5/a17545.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
+    [ "pInstance", "df/de5/a17545.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
 ];

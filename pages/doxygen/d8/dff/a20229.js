@@ -1,25 +1,5 @@
 var a20229 =
 [
-    [ "boss_freya", "d8/dff/a20229.html#a5379adaaa876662bcc6ffcd38cfc59bb", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d8/dff/a20229.html#a195b0021b1ac0274884fb2106ee8d85d", null ],
-    [ "DamageTaken", "d8/dff/a20229.html#a8ba5d1999e8f4ae7fb240436771d6c39", null ],
-    [ "DoAction", "d8/dff/a20229.html#a099f983a17e002990aaecbb0995bb3b0", null ],
-    [ "GetData", "d8/dff/a20229.html#aa648b02fb1531fd434fce9ccf62332c0", null ],
-    [ "JustEngagedWith", "d8/dff/a20229.html#a85a00b03079df9ce9b8fa035820c959b", null ],
-    [ "JustReachedHome", "d8/dff/a20229.html#a577c8714fef829a57533c1cfbd400dc0", null ],
-    [ "KilledUnit", "d8/dff/a20229.html#a378a92e671be526e4f30feeb3ecf25e7", null ],
-    [ "MovementInform", "d8/dff/a20229.html#a80b5910abe85c2f1350c5f91aabd3fa4", null ],
-    [ "Reset", "d8/dff/a20229.html#abadf6447f33116039e82065ce44f4322", null ],
-    [ "SpawnWave", "d8/dff/a20229.html#af1f486e8725a2710b237fe233f7fe181", null ],
-    [ "SpellHit", "d8/dff/a20229.html#a3d449abdf7cc8241bedbcfe8f9d37175", null ],
-    [ "SpellHitTarget", "d8/dff/a20229.html#a22c4097731727de032fd6db3c9cef7cf", null ],
-    [ "UpdateAI", "d8/dff/a20229.html#a1ea7d6b65ceaa7d1c485685df40682f9", null ],
-    [ "_backToNature", "d8/dff/a20229.html#ab29a12f6a5ff5fd6ce579ebfceb6323c", null ],
-    [ "_deforestation", "d8/dff/a20229.html#a6c3e874ea83c564c93b6c7599e1174bd", null ],
-    [ "_elderGUID", "d8/dff/a20229.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],
-    [ "_lumberjacked", "d8/dff/a20229.html#aa35101951b2d47848b69170ab36ae414", null ],
-    [ "_respawningTrio", "d8/dff/a20229.html#a9e0326bd0eff372fca2b5e0e310dd1da", null ],
-    [ "_spawnedAmount", "d8/dff/a20229.html#aafbd2fcaccdc5890f513054d6840ed55", null ],
-    [ "_trioKilled", "d8/dff/a20229.html#ae141a7cf3554c606738774fe96a371dc", null ],
-    [ "_waveNumber", "d8/dff/a20229.html#af4e2576558c3c15303245f76c6e30aa0", null ]
+    [ "achievement_auriaya_crazy_cat_lady", "d8/dff/a20229.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
+    [ "OnCheck", "d8/dff/a20229.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
 ];

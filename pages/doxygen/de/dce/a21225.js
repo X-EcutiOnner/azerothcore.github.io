@@ -1,6 +1,7 @@
 var a21225 =
 [
-    [ "boss_toravonAI", "d3/df4/a21229.html", "d3/df4/a21229" ],
-    [ "boss_toravon", "de/dce/a21225.html#abd30a86924bd7dd9474b5df16f3a8d8d", null ],
-    [ "GetAI", "de/dce/a21225.html#a6db140b1d232312300e20155830cb249", null ]
+    [ "npc_frost_tomb", "de/dce/a21225.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
+    [ "JustDied", "de/dce/a21225.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
+    [ "UpdateAI", "de/dce/a21225.html#af2122e9c8cb206151f631659c7d167da", null ],
+    [ "PrisonerGUID", "de/dce/a21225.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
 ];

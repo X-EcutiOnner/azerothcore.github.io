@@ -1,8 +1,8 @@
 var a05172 =
 [
-    [ "anonymous_namespace{WeatherMgr.cpp}", "d6/d5f/a05173.html", [
-      [ "_weatherData", "d6/d5f/a05173.html#ab7d0026c60fbd90f9833172d25e7037f", null ]
-    ] ],
-    [ "GetWeatherData", "d6/de9/a05083.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
-    [ "LoadWeatherData", "d6/de9/a05083.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ]
+    [ "CorpseMapPositionQuery", "d0/d78/a11593.html", "d0/d78/a11593" ],
+    [ "NameQuery", "d0/db4/a11577.html", "d0/db4/a11577" ],
+    [ "NameQueryResponse", "d0/d65/a11581.html", "d0/d65/a11581" ],
+    [ "TimeQuery", "dd/db5/a11585.html", "dd/db5/a11585" ],
+    [ "TimeQueryResponse", "d8/d5b/a11589.html", "d8/d5b/a11589" ]
 ];

@@ -1,7 +1,7 @@
 var a17189 =
 [
-    [ "HandleEffectRemove", "de/df3/a17189.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
-    [ "Load", "de/df3/a17189.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
-    [ "PrepareAuraScript", "de/df3/a17189.html#a97411ddf89a10a962ba74d294eb653e7", null ],
-    [ "Register", "de/df3/a17189.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
+    [ "HandleScriptEffect", "de/df3/a17189.html#a51064b3a11f453724ae0879c80eaf8df", null ],
+    [ "PrepareSpellScript", "de/df3/a17189.html#aac26002ff107e609fb7258306b430f1b", null ],
+    [ "Register", "de/df3/a17189.html#a0efef7644706940e3929ce99cd162c91", null ],
+    [ "Validate", "de/df3/a17189.html#a7110d4136337d44aa0300ec82e5a6511", null ]
 ];

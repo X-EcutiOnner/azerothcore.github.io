@@ -1,5 +1,7 @@
 var a27797 =
 [
-    [ "achievement_everything_counts", "de/db3/a27797.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
-    [ "OnCheck", "de/db3/a27797.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
+    [ "HandleTeleport", "de/db3/a27797.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "de/db3/a27797.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "de/db3/a27797.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "de/db3/a27797.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

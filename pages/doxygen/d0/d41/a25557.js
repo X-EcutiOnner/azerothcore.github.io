@@ -1,6 +1,5 @@
 var a25557 =
 [
-    [ "CheckCast", "d0/d41/a25557.html#a1fbbba8bdc9f775963a999aa00a5a256", null ],
-    [ "PrepareSpellScript", "d0/d41/a25557.html#a481f9d36567607697c3ad5d9501bba48", null ],
-    [ "Register", "d0/d41/a25557.html#afff66ccf4f6596475f4b58c529472f26", null ]
+    [ "PrepareSpellScript", "d0/d41/a25557.html#a7478d96ac24bc4b70a10bc83335c9b76", null ],
+    [ "Register", "d0/d41/a25557.html#ab3ab9557cd1969fd977a3df6f2c59d7c", null ]
 ];

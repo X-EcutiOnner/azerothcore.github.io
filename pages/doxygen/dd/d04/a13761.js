@@ -1,5 +1,8 @@
 var a13761 =
 [
-    [ "go_eredar_twins_blaze", "dd/d04/a13761.html#a19d28875d3506d337e0ecbd93169f140", null ],
-    [ "InitializeAI", "dd/d04/a13761.html#a8769ad96e4c4a2396cf4c294d8d982eb", null ]
+    [ "HandleApply", "dd/d04/a13761.html#a2e07ffc92d44757fe2b074244048dbf4", null ],
+    [ "HandleRemove", "dd/d04/a13761.html#ae0d8cb63cf62e5015daa56463524aa27", null ],
+    [ "PrepareAuraScript", "dd/d04/a13761.html#a4a59bd5c9ce7b74d29cdd6132f94c0bf", null ],
+    [ "Register", "dd/d04/a13761.html#a3b91d692ad34b7ce965887590780e146", null ],
+    [ "Validate", "dd/d04/a13761.html#aa3ee5b49e9e1009d5be34214eefd2a6d", null ]
 ];

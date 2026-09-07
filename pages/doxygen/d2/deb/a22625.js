@@ -1,8 +1,5 @@
 var a22625 =
 [
-    [ "HandleScriptEffect", "d2/deb/a22625.html#a8e5b81581fff787f691521d03fed66fc", null ],
-    [ "Load", "d2/deb/a22625.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
-    [ "PrepareSpellScript", "d2/deb/a22625.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
-    [ "Register", "d2/deb/a22625.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
-    [ "Validate", "d2/deb/a22625.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
+    [ "outdoorpvp_na_halaa_creatures", "d2/deb/a22625.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
+    [ "UpdateAI", "d2/deb/a22625.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
 ];

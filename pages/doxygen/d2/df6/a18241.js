@@ -1,7 +1,10 @@
 var a18241 =
 [
-    [ "HandleScript", "d2/df6/a18241.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "d2/df6/a18241.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "d2/df6/a18241.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "d2/df6/a18241.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "npc_bone_spikeAI", "d2/df6/a18241.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
+    [ "DoAction", "d2/df6/a18241.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
+    [ "IsSummonedBy", "d2/df6/a18241.html#af2794484ee3ebf0579ce7357d222240d", null ],
+    [ "JustDied", "d2/df6/a18241.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
+    [ "UpdateAI", "d2/df6/a18241.html#a8eff2bcc6507c65e563ed272977f224e", null ],
+    [ "events", "d2/df6/a18241.html#a6a35900435d41d0603919f29415667a5", null ],
+    [ "hasTrappedUnit", "d2/df6/a18241.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
 ];

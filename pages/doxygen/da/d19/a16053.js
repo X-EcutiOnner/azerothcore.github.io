@@ -1,7 +1,13 @@
 var a16053 =
 [
-    [ "npc_kaya_flathoofAI", "d5/d05/a16057.html", "d5/d05/a16057" ],
-    [ "npc_kaya_flathoof", "da/d19/a16053.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "da/d19/a16053.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "da/d19/a16053.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "npc_shenthulAI", "da/d19/a16053.html#ae056474022c27be5565bf018a1b56f0b", null ],
+    [ "JustEngagedWith", "da/d19/a16053.html#acb202ef530bc11ea807f580ff5dfc621", null ],
+    [ "ReceiveEmote", "da/d19/a16053.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
+    [ "Reset", "da/d19/a16053.html#af077e96eb8bf89af2d6eb79907444a17", null ],
+    [ "UpdateAI", "da/d19/a16053.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
+    [ "CanEmote", "da/d19/a16053.html#a920209c374e611e96347d209337c044f", null ],
+    [ "CanTalk", "da/d19/a16053.html#a82ea8d2ee50538135add120be7616f86", null ],
+    [ "PlayerGUID", "da/d19/a16053.html#a4b262388aca789d19231426a8cb73379", null ],
+    [ "ResetTimer", "da/d19/a16053.html#a475a141d639f0136ac943e6afb1ecd15", null ],
+    [ "SaluteTimer", "da/d19/a16053.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
 ];

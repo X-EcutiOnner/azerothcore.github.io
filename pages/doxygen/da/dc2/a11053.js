@@ -1,6 +1,7 @@
 var a11053 =
 [
-    [ "GuildEventLogQueryResults", "da/dc2/a11053.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
-    [ "Write", "da/dc2/a11053.html#aa24738cdd040a883782b50189abdf240", null ],
-    [ "Entry", "da/dc2/a11053.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
+    [ "QueryGuildInfoResponse", "da/dc2/a11053.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
+    [ "Write", "da/dc2/a11053.html#abda9452eba38e76c460f910eb3aad5fa", null ],
+    [ "GuildId", "da/dc2/a11053.html#a04eec0531238fa55a91afa11c394fbce", null ],
+    [ "Info", "da/dc2/a11053.html#a749e992a19264b259f62d403b4925abe", null ]
 ];

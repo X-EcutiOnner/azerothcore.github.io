@@ -1,6 +1,7 @@
 var a01022 =
 [
-    [ "ResetNotifier", "d4/d0f/a10235.html", "d4/d0f/a10235" ],
-    [ "MAP_INVALID_ZONE", "d1/dd8/a01022.html#ab627038bd646584995dec28f4e212525", null ],
-    [ "IsInWMOInterior", "d1/dd8/a01022.html#ad41458075af3abab316f89b325f54b7e", null ]
+    [ "WorldPackets::Calendar::GetEvent", "dc/d1f/a10965.html", "dc/d1f/a10965" ],
+    [ "WorldPackets::Calendar::GuildFilter", "d4/dd9/a10969.html", "d4/dd9/a10969" ],
+    [ "WorldPackets::Calendar::ArenaTeam", "dc/d18/a10973.html", "dc/d18/a10973" ],
+    [ "WorldPackets::Calendar::CalendarComplain", "dc/d8f/a10977.html", "dc/d8f/a10977" ]
 ];

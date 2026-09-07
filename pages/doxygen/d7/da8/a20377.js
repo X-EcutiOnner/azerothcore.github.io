@@ -1,7 +1,7 @@
 var a20377 =
 [
-    [ "HandleEffectPeriodic", "d7/da8/a20377.html#af6c50396e9b47cd909184aea80244728", null ],
-    [ "PrepareAuraScript", "d7/da8/a20377.html#aeb41825334049c8e3a39b48cbf271477", null ],
-    [ "Register", "d7/da8/a20377.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
-    [ "Validate", "d7/da8/a20377.html#a0098e4949fc75b1a2464128f4df869aa", null ]
+    [ "boss_freya_iron_root", "d7/da8/a20377.html#af35a268c89c025d95c13ea8c87d6516e", null ],
+    [ "JustDied", "d7/da8/a20377.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ],
+    [ "OnDespawn", "d7/da8/a20377.html#abd0258796a696e6665ecd51b27cc0b1e", null ],
+    [ "ReleaseRootedPlayer", "d7/da8/a20377.html#a87fe9f9e32bcc44e8692fd317ab864db", null ]
 ];

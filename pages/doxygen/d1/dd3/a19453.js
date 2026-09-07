@@ -1,7 +1,7 @@
 var a19453 =
 [
-    [ "HandleScript", "d1/dd3/a19453.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "d1/dd3/a19453.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "d1/dd3/a19453.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "d1/dd3/a19453.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "HandleScript", "d1/dd3/a19453.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
+    [ "Launch", "d1/dd3/a19453.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
+    [ "PrepareSpellScript", "d1/dd3/a19453.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
+    [ "Register", "d1/dd3/a19453.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
 ];

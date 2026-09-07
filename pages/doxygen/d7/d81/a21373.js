@@ -1,6 +1,5 @@
 var a21373 =
 [
-    [ "npc_khunok_the_behemothAI", "d7/db6/a21377.html", "d7/db6/a21377" ],
-    [ "npc_khunok_the_behemoth", "d7/d81/a21373.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "d7/d81/a21373.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "npc_ritual_channelerAI", "d7/d81/a21373.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
+    [ "AttackStart", "d7/d81/a21373.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
 ];

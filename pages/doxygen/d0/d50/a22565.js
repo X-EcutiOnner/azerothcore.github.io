@@ -1,8 +1,8 @@
 var a22565 =
 [
-    [ "npc_parasitic_shadowfiend", "d0/d50/a22565.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
-    [ "CanAIAttack", "d0/d50/a22565.html#ac7600aed313f1413cb9b522d60d30329", null ],
-    [ "EnterEvadeMode", "d0/d50/a22565.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
-    [ "IsSummonedBy", "d0/d50/a22565.html#a306c696d4243c4525d0a3908a212135d", null ],
-    [ "UpdateAI", "d0/d50/a22565.html#a2706a4ba7876f299b02d2e720f512af2", null ]
+    [ "HandleApply", "d0/d50/a22565.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
+    [ "HandleRemove", "d0/d50/a22565.html#a06c7c65d973fcf348f5c929503902520", null ],
+    [ "PrepareAuraScript", "d0/d50/a22565.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
+    [ "Register", "d0/d50/a22565.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
+    [ "Validate", "d0/d50/a22565.html#a8135c492638557eec71189282e7f78a2", null ]
 ];

@@ -1,7 +1,6 @@
 var a22793 =
 [
-    [ "HandleEffectApply", "df/dc5/a22793.html#a5857dbdb088de67cc15717dca0c5f7b5", null ],
-    [ "HandleEffectRemove", "df/dc5/a22793.html#aab0536f7f73d9e354a526f56f587fff0", null ],
-    [ "PrepareAuraScript", "df/dc5/a22793.html#a80a6b51bc6c1457edc0fb8a0089513d1", null ],
-    [ "Register", "df/dc5/a22793.html#a194ff31e6168bca23881f3804154d479", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "d8/d71/a22797.html", "d8/d71/a22797" ],
+    [ "instance_shadow_labyrinth", "df/dc5/a22793.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
+    [ "GetInstanceScript", "df/dc5/a22793.html#af9edf624413593a5cdf025dd9a1c3631", null ]
 ];

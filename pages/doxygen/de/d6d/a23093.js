@@ -1,7 +1,7 @@
 var a23093 =
 [
-    [ "HandleEffectRemove", "de/d6d/a23093.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
-    [ "HandlePeriodic", "de/d6d/a23093.html#a5137e24394fa14129c44d92c79eef117", null ],
-    [ "PrepareAuraScript", "de/d6d/a23093.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
-    [ "Register", "de/d6d/a23093.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
+    [ "CalculateAmount", "de/d6d/a23093.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
+    [ "PrepareAuraScript", "de/d6d/a23093.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
+    [ "Register", "de/d6d/a23093.html#a6d0d47536e6ef74a88c97019843d478c", null ],
+    [ "Update", "de/d6d/a23093.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
 ];

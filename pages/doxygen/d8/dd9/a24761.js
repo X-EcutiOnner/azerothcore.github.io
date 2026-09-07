@@ -1,6 +1,6 @@
 var a24761 =
 [
-    [ "HandleHeal", "d8/dd9/a24761.html#a682a496d59201774de50951ffd2c7c0d", null ],
-    [ "PrepareSpellScript", "d8/dd9/a24761.html#a10dd1c0f67ff07f8e35ba0322c934899", null ],
-    [ "Register", "d8/dd9/a24761.html#abc29f509e703f3807241b63f728a69af", null ]
+    [ "CheckProc", "d8/dd9/a24761.html#a4e1d93c20d0926d3ac93c23d9c139df6", null ],
+    [ "PrepareAuraScript", "d8/dd9/a24761.html#a2e572b677ad3b754316066f3e53edbbb", null ],
+    [ "Register", "d8/dd9/a24761.html#acecdc9e5079c49b312521a65682b602a", null ]
 ];

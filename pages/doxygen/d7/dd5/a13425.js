@@ -1,11 +1,7 @@
 var a13425 =
 [
-    [ "npc_scarlet_ghoulAI", "d7/dd5/a13425.html#a194795143717de5aa8f0ca4c4e516136", null ],
-    [ "InitializeAI", "d7/dd5/a13425.html#ad0fd204d15350332508b0c9d9decefb1", null ],
-    [ "MovementInform", "d7/dd5/a13425.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
-    [ "OwnerAttackedBy", "d7/dd5/a13425.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
-    [ "SetGUID", "d7/dd5/a13425.html#aa7f73c3a1ab4938c1037c0bdd38b6db1", null ],
-    [ "UpdateAI", "d7/dd5/a13425.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
-    [ "events", "d7/dd5/a13425.html#a105ac0982d28be590d514d2e452109c0", null ],
-    [ "gothikGUID", "d7/dd5/a13425.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
+    [ "HandleDummy", "d7/dd5/a13425.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
+    [ "PrepareSpellScript", "d7/dd5/a13425.html#a5738144c85424e11f33aada38273e24e", null ],
+    [ "Register", "d7/dd5/a13425.html#a206a4d40e082246193ba36c9080cdac1", null ],
+    [ "Validate", "d7/dd5/a13425.html#a0718461731d563d2c948848f60101d49", null ]
 ];

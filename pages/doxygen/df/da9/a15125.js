@@ -1,12 +1,15 @@
 var a15125 =
 [
-    [ "boss_kazrogal", "df/da9/a15125.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
-    [ "DoAction", "df/da9/a15125.html#a7721debceeefaeb69e71855b8e8742f8", null ],
-    [ "GetMarkRepeatTimer", "df/da9/a15125.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
-    [ "JustDied", "df/da9/a15125.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
-    [ "JustEngagedWith", "df/da9/a15125.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
-    [ "KilledUnit", "df/da9/a15125.html#ab1439114a84d85947106d979f38d12fa", null ],
-    [ "Reset", "df/da9/a15125.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
-    [ "_markCounter", "df/da9/a15125.html#a54ef8b88bf62e260e19a964d1926ef4a", null ],
-    [ "_recentlySpoken", "df/da9/a15125.html#ad7401abae1b25d58ed93cc800d75bc26", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "df/da9/a15125.html#aef8e98b85dfc93a1e9405fbbce084e3f", null ],
+    [ "Initialize", "df/da9/a15125.html#a11b698907ffea5dd1a165a35d2c23dd0", null ],
+    [ "IsFireEventDone", "df/da9/a15125.html#aadba63a6fa6025858e78712892e4a343", null ],
+    [ "OnCreatureCreate", "df/da9/a15125.html#ab5e452958bc474e60fd3f637595629c1", null ],
+    [ "OnGameObjectCreate", "df/da9/a15125.html#ae96ecf6e1b4ca99f2b3fc3ace5cbf81b", null ],
+    [ "OnUnitDeath", "df/da9/a15125.html#a163178ce8e79aa0bc082172465527173", null ],
+    [ "ReadSaveDataMore", "df/da9/a15125.html#a1b045bbe6c337e726158e64375fa9fe7", null ],
+    [ "SetData", "df/da9/a15125.html#a79fcee240fbd9190b0b66fd4bf7955d9", null ],
+    [ "WriteSaveDataMore", "df/da9/a15125.html#abaa419d432ef6d0d96487c8d9ebcb630", null ],
+    [ "_akumaiPortalGUID", "df/da9/a15125.html#a37b3647e927798d77a17f99976910b4b", null ],
+    [ "_encounters", "df/da9/a15125.html#a4cfd6047351fd144ba96627889a3e9cd", null ],
+    [ "_requiredDeaths", "df/da9/a15125.html#a3aade6e7fb756b84180876b4ba086376", null ]
 ];

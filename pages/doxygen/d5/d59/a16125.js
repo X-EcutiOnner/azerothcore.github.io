@@ -1,7 +1,6 @@
 var a16125 =
 [
-    [ "npc_lakota_windsongAI", "d0/d8c/a16129.html", "d0/d8c/a16129" ],
-    [ "npc_lakota_windsong", "d5/d59/a16125.html#a08a585ac36189ec23354c7acb26d223d", null ],
-    [ "GetAI", "d5/d59/a16125.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
-    [ "OnQuestAccept", "d5/d59/a16125.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
+    [ "npc_aquementasAI", "d0/d8c/a16129.html", "d0/d8c/a16129" ],
+    [ "npc_aquementas", "d5/d59/a16125.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "d5/d59/a16125.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

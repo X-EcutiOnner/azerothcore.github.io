@@ -1,11 +1,12 @@
 var a16505 =
 [
-    [ "boss_general_zarithrianAI", "d3/dd5/a16505.html#a4168a5883052810d137f59d3b104bc24", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d3/dd5/a16505.html#a22f6ff041e61c94df73a938162fa26f5", null ],
-    [ "JustDied", "d3/dd5/a16505.html#a49be533142c82a95a136dc2dcbf4843c", null ],
-    [ "JustEngagedWith", "d3/dd5/a16505.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
-    [ "JustSummoned", "d3/dd5/a16505.html#acb694d20b35d57a315aa4662562af210", null ],
-    [ "KilledUnit", "d3/dd5/a16505.html#ad385477740b728e63acff7c184df3c09", null ],
-    [ "Reset", "d3/dd5/a16505.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
-    [ "UpdateAI", "d3/dd5/a16505.html#a3a7e578d64a760cd38712c725eecc97d", null ]
+    [ "HandleDummy", "d3/dd5/a16505.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
+    [ "HandleSchoolDamage", "d3/dd5/a16505.html#a8372b7d176c94689b1b7fe99add7812e", null ],
+    [ "HandleSummon", "d3/dd5/a16505.html#a64ffa7d9c5cdd7fab345b2f0f8acc0f1", null ],
+    [ "Load", "d3/dd5/a16505.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
+    [ "PrepareSpellScript", "d3/dd5/a16505.html#a3fd71e2a93f99f19443640a2147b1663", null ],
+    [ "Register", "d3/dd5/a16505.html#a8278d362a4354ccf81665ce0067c9a06", null ],
+    [ "Validate", "d3/dd5/a16505.html#a414b1e1396910b87a671305ce9dcab09", null ],
+    [ "_dummyFired", "d3/dd5/a16505.html#a9642ac8cfab23040b699606874ad08ca", null ],
+    [ "_spawned", "d3/dd5/a16505.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
 ];

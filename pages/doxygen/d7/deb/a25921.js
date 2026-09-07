@@ -1,10 +1,6 @@
 var a25921 =
 [
-    [ "CalcPeriodic", "d7/deb/a25921.html#a6ec300503503fa6f12a48a8494d41edd", null ],
-    [ "Load", "d7/deb/a25921.html#a349827fe659ff3bee0a5dfc677c04825", null ],
-    [ "PrepareAuraScript", "d7/deb/a25921.html#a8c12c4ae3835322602347b654d96a8b7", null ],
-    [ "Register", "d7/deb/a25921.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
-    [ "Update", "d7/deb/a25921.html#afa9e6eec798c354231b5f95e260c7111", null ],
-    [ "Validate", "d7/deb/a25921.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
-    [ "_spell_id", "d7/deb/a25921.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
+    [ "HandleDummy", "d7/deb/a25921.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
+    [ "PrepareSpellScript", "d7/deb/a25921.html#a80b89fbd2506191b897dcf367ff11500", null ],
+    [ "Register", "d7/deb/a25921.html#a522730e5ba844728c0b3d6f423cd123a", null ]
 ];

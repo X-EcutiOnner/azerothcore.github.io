@@ -1,6 +1,9 @@
 var a20681 =
 [
-    [ "PrepareSpellScript", "db/d53/a20681.html#a3c8337cc17ec735fc97f5195a1e820b6", null ],
-    [ "Register", "db/d53/a20681.html#ae0cc2794b1d2b8de442dbf30f7da8883", null ],
-    [ "SelectPillar", "db/d53/a20681.html#a2eaa34f9f3b3d255fc5091fb5b48f60a", null ]
+    [ "npc_ulduar_bot_summon_trigger", "db/d53/a20681.html#a16d36c154b6851c0081cc05f838b0fed", null ],
+    [ "DoAction", "db/d53/a20681.html#a776782a85892d2d674773573be25bfa0", null ],
+    [ "Reset", "db/d53/a20681.html#a4ec8487028b188347cf0c9a080076fe6", null ],
+    [ "UpdateAI", "db/d53/a20681.html#a788d3eaba382e3af897678f6709a0242", null ],
+    [ "_option", "db/d53/a20681.html#a39c909b67fcdc81542470b6e96256fd5", null ],
+    [ "_timer", "db/d53/a20681.html#a2530742a19275efe92eeded4dce67567", null ]
 ];

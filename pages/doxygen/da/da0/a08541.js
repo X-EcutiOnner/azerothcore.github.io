@@ -1,10 +1,15 @@
 var a08541 =
 [
-    [ "ObjectGuidGeneratorBase", "da/da0/a08541.html#a8af6741cc884915ee86b489fc970fed1", null ],
-    [ "~ObjectGuidGeneratorBase", "da/da0/a08541.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
-    [ "Generate", "da/da0/a08541.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
-    [ "GetNextAfterMaxUsed", "da/da0/a08541.html#abf1f20b97af8071459bd850e7106a442", null ],
-    [ "HandleCounterOverflow", "da/da0/a08541.html#ada7a44ac47b112491c575c38465740fc", null ],
-    [ "Set", "da/da0/a08541.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
-    [ "_nextGuid", "da/da0/a08541.html#a4a14102e019aa10f41b050054cacca22", null ]
+    [ "Guardian", "da/da0/a08541.html#a14bd59fddfc552c4a25c6bc4ad714508", null ],
+    [ "GetDebugInfo", "da/da0/a08541.html#ace47e7d3fb3162786329cbcf1c6cab46", null ],
+    [ "InitStats", "da/da0/a08541.html#a698ac009e39a2e8461b40135b75609ef", null ],
+    [ "InitStatsForLevel", "da/da0/a08541.html#a7d0ae55d55f4c3ea35de601c2c6c6e6b", null ],
+    [ "InitSummon", "da/da0/a08541.html#a1d5ebfa5ac5754293172041dc3a2c47d", null ],
+    [ "UpdateAllStats", "da/da0/a08541.html#ae2f3d68429afb154f790d65dae6406b3", null ],
+    [ "UpdateArmor", "da/da0/a08541.html#adc8ed8497f8450ccad92f79322d9f452", null ],
+    [ "UpdateAttackPowerAndDamage", "da/da0/a08541.html#af40269c3c63fc12b21f18c67ef067a0f", null ],
+    [ "UpdateDamagePhysical", "da/da0/a08541.html#aa45ffb532a2a8075d8e4acb818c08d70", null ],
+    [ "UpdateMaxHealth", "da/da0/a08541.html#a62c41f7922bc1c2e1697a1eea65cdb72", null ],
+    [ "UpdateMaxPower", "da/da0/a08541.html#a620010832de5fc7d6d1a8545321f9dea", null ],
+    [ "UpdateStats", "da/da0/a08541.html#a6b615ed2f01623991fa45907a09cc642", null ]
 ];

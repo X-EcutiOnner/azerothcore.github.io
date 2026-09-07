@@ -1,6 +1,7 @@
 var a26929 =
 [
-    [ "HandleDummy", "d2/d5d/a26929.html#aee5967205738ebaef70e1105e8d91b2c", null ],
-    [ "PrepareSpellScript", "d2/d5d/a26929.html#a1ef5914adfd2c951a68f50658852e095", null ],
-    [ "Register", "d2/d5d/a26929.html#af42b6d5a5fbb5eb84773818594813afc", null ]
+    [ "HandleProc", "d2/d5d/a26929.html#a72463db57f87387aa3ff3175c45ca9df", null ],
+    [ "PrepareAuraScript", "d2/d5d/a26929.html#ae158b4b624b50ad984b2c5e9c16d7670", null ],
+    [ "Register", "d2/d5d/a26929.html#a2da64a27cfa5a68464f8f3a885e09751", null ],
+    [ "Validate", "d2/d5d/a26929.html#a798f51ee6333d3ebb2bbb617ea88ea2b", null ]
 ];

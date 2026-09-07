@@ -1,5 +1,7 @@
 var a10993 =
 [
-    [ "GuildGetInfo", "d3/dd7/a10993.html#a585a6a49fe9747d5044ac185f1236cf5", null ],
-    [ "Read", "d3/dd7/a10993.html#aa2b107f35fcf348fb7f84c2971c5fa00", null ]
+    [ "LogoutResponse", "d3/dd7/a10993.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
+    [ "Write", "d3/dd7/a10993.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
+    [ "Instant", "d3/dd7/a10993.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
+    [ "LogoutResult", "d3/dd7/a10993.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
 ];

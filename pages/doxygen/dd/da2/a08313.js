@@ -1,7 +1,7 @@
 var a08313 =
 [
-    [ "LfgProposalPlayer", "dd/da2/a08313.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
-    [ "accept", "dd/da2/a08313.html#acbf0ce1e12307569487096dc5ca544a6", null ],
-    [ "group", "dd/da2/a08313.html#a900f24e9caaa1569eeea93b4284139a1", null ],
-    [ "role", "dd/da2/a08313.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
+    [ "global_sequence", "dd/da2/a08313.html#afbd5f7baa1b1daf4dda4fe0cf503a97b", null ],
+    [ "interpolation_type", "dd/da2/a08313.html#ac3315ce2b2261a6fd23b0c72ea34aa5e", null ],
+    [ "timestamps", "dd/da2/a08313.html#a8bf7fdd2652275ae553b921196e68d1c", null ],
+    [ "values", "dd/da2/a08313.html#a9d4ea5dfc36b34541e5ba7350df645e1", null ]
 ];

@@ -1,5 +1,6 @@
 var a23173 =
 [
-    [ "boss_quagmirran", "da/d6a/a23173.html#a7f6289b86216b052f434a1417023e22c", null ],
-    [ "JustEngagedWith", "da/d6a/a23173.html#a28253b6653bd2e26e7f246c71a88b625", null ]
+    [ "OnPeriodic", "da/d6a/a23173.html#aef6afe014ce90711cd7628563aada2a4", null ],
+    [ "PrepareAuraScript", "da/d6a/a23173.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
+    [ "Register", "da/d6a/a23173.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
 ];

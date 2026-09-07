@@ -1,14 +1,6 @@
 var a20341 =
 [
-    [ "npc_ulduar_hodir_druid", "de/d98/a20341.html#aac822cf4203af0e0173004ccc33abc21", null ],
-    [ "AttackStart", "de/d98/a20341.html#a67884f16c32f849bc68d68256c19d21a", null ],
-    [ "CanAIAttack", "de/d98/a20341.html#a81b0f60596e63ec618a9a9e1d8bc6c9d", null ],
-    [ "EnterEvadeMode", "de/d98/a20341.html#a22a10571e9cfe69200fd4a8fd383e500", null ],
-    [ "JustDied", "de/d98/a20341.html#a6cfefe7ccb156a658e8e2dad603b3fce", null ],
-    [ "MoveInLineOfSight", "de/d98/a20341.html#aa2e3e904c5f7fee4236a9395b95ef3e9", null ],
-    [ "ScheduleAbilities", "de/d98/a20341.html#ac8bee382634e20a49178be8b224eca2d", null ],
-    [ "SpellHit", "de/d98/a20341.html#a1053d484f30df43fba465981cd3cfa38", null ],
-    [ "UpdateAI", "de/d98/a20341.html#abcd580306a3abb5663bbac33f68115eb", null ],
-    [ "_instance", "de/d98/a20341.html#add7048881ec8b0dd2c09e34813c7c353", null ],
-    [ "events", "de/d98/a20341.html#a323184c52fcbc3e18eb74c96db716327", null ]
+    [ "CheckCast", "de/d98/a20341.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "de/d98/a20341.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "de/d98/a20341.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

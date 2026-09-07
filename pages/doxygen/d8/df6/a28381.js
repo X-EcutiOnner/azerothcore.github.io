@@ -1,6 +1,5 @@
 var a28381 =
 [
-    [ "npc_experience", "d8/df6/a28381.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "d8/df6/a28381.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "d8/df6/a28381.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "go_soulwellAI", "d8/df6/a28381.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
+    [ "GossipHello", "d8/df6/a28381.html#a3df147478af8930d9b6108a183e9478f", null ]
 ];

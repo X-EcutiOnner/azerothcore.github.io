@@ -1,8 +1,6 @@
 var a26041 =
 [
-    [ "CheckQuest", "dd/d6e/a26041.html#ab7ebff0894832ac009cda89b7c28e252", null ],
-    [ "HandleDummy", "dd/d6e/a26041.html#a365df14504a54e95e7d68d22a284e441", null ],
-    [ "HandleOpenObject", "dd/d6e/a26041.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
-    [ "PrepareSpellScript", "dd/d6e/a26041.html#a479e313031a2e71473238d8f645bf2d4", null ],
-    [ "Register", "dd/d6e/a26041.html#a70f1a91e611cc2092aad44a909cd53db", null ]
+    [ "PartyTimeEmoteEvent", "dd/d6e/a26041.html#a525efd58fc8465658208058e6dc5d31c", null ],
+    [ "Execute", "dd/d6e/a26041.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
+    [ "_player", "dd/d6e/a26041.html#a61ecb44828c6e4c868def8899791feb3", null ]
 ];

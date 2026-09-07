@@ -1,6 +1,6 @@
 var a19389 =
 [
-    [ "npc_gothik_triggerAI", "df/d78/a19393.html", "df/d78/a19393" ],
-    [ "npc_gothik_trigger", "da/d14/a19389.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
-    [ "GetAI", "da/d14/a19389.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
+    [ "RespawnEvent", "da/d14/a19389.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
+    [ "Execute", "da/d14/a19389.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
+    [ "_owner", "da/d14/a19389.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
 ];

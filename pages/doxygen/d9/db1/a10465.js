@@ -1,7 +1,6 @@
 var a10465 =
 [
-    [ "CommonInitializer", "d9/db1/a10465.html#ab472ff63e0178a3414630f743d4de906", null ],
-    [ "operator()", "d9/db1/a10465.html#aba4cce84b89416f54a0a25b1702a322c", null ],
-    [ "_time", "d9/db1/a10465.html#a483d83836ccbe90a842c09f7d4906436", null ],
-    [ "velocityInv", "d9/db1/a10465.html#ac2f731afc2aae338bb8b1b616b0a39c1", null ]
+    [ "End", "d9/db1/a10465.html#afe0d737ea574b9695666c77f94d32bc6", null ],
+    [ "Sag", "d9/db1/a10465.html#aa00786202657a1f09db881ad39e9e2c4", null ],
+    [ "Start", "d9/db1/a10465.html#a6e14064080d25382a9bf5c561a5423ce", null ]
 ];

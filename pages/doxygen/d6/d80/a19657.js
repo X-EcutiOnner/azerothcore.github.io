@@ -1,6 +1,6 @@
 var a19657 =
 [
-    [ "ChargeRifts", "d6/d80/a19657.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "d6/d80/a19657.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "d6/d80/a19657.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "FilterTargets", "d6/d80/a19657.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
+    [ "PrepareSpellScript", "d6/d80/a19657.html#a452937a4e95b40366f915213ec475a84", null ],
+    [ "Register", "d6/d80/a19657.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
 ];

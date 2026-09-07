@@ -1,6 +1,4 @@
 var a22301 =
 [
-    [ "FilterTargets", "d7/d55/a22301.html#a4d81860c41daab44851da605d38b4753", null ],
-    [ "PrepareSpellScript", "d7/d55/a22301.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
-    [ "Register", "d7/d55/a22301.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
+    [ "npc_adventurous_dwarfAI", "d7/d55/a22301.html#af953c5fef2ea8abbf7835b0bc5cf1b23", null ]
 ];

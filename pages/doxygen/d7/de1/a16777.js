@@ -1,6 +1,6 @@
 var a16777 =
 [
-    [ "HideNpcEvent", "d7/de1/a16777.html#ab454295aab0f5d4586740140232e96eb", null ],
-    [ "Execute", "d7/de1/a16777.html#aecfbbbcac3fd98675913a6381c891a59", null ],
-    [ "_owner", "d7/de1/a16777.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d0/d9e/a16781.html", "d0/d9e/a16781" ],
+    [ "npc_black_knight_skeletal_gryphon", "d7/de1/a16777.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
+    [ "GetAI", "d7/de1/a16777.html#aad244f95877a208b56a2b6544984d724", null ]
 ];

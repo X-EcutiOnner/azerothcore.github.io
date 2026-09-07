@@ -1,6 +1,7 @@
 var a12013 =
 [
-    [ "EffectBase", "df/d89/a12013.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
-    [ "CheckEffect", "df/d89/a12013.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
-    [ "ToString", "df/d89/a12013.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
+    [ "CategoryRecoveryTime", "df/d89/a12013.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
+    [ "RecoveryTime", "df/d89/a12013.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
+    [ "StartRecoveryCategory", "df/d89/a12013.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
+    [ "StartRecoveryTime", "df/d89/a12013.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
 ];

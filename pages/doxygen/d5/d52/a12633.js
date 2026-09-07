@@ -1,8 +1,9 @@
 var a12633 =
 [
-    [ "boss_eviscerator", "d5/d52/a12633.html#a2228d79b63df840eb4cb28117f24dcf9", null ],
-    [ "DamageTaken", "d5/d52/a12633.html#af31de4643026e44c80252e156a39bc69", null ],
-    [ "JustEngagedWith", "d5/d52/a12633.html#a14ec212beaa553f8f68e7718e29dcbd9", null ],
-    [ "UpdateAI", "d5/d52/a12633.html#af974908902d30b8144d1b734e795d6ea", null ],
-    [ "SpellShieldReady", "d5/d52/a12633.html#abeac01454b05ca88a89093b0f74c4a1f", null ]
+    [ "titles_commandscript", "d5/d52/a12633.html#ac088fd907013150a0508b79c99f6c2f3", null ],
+    [ "GetCommands", "d5/d52/a12633.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
+    [ "HandleTitlesAddCommand", "d5/d52/a12633.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
+    [ "HandleTitlesCurrentCommand", "d5/d52/a12633.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
+    [ "HandleTitlesRemoveCommand", "d5/d52/a12633.html#a2001bcc2eddc5688d57154f9906218e4", null ],
+    [ "HandleTitlesSetMaskCommand", "d5/d52/a12633.html#a9517b10295b856779cdd067234f640c8", null ]
 ];

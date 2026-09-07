@@ -1,8 +1,6 @@
 var a15929 =
 [
-    [ "CheckRequirement", "d5/d5c/a15929.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "d5/d5c/a15929.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "d5/d5c/a15929.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "d5/d5c/a15929.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "d5/d5c/a15929.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_rabid_thistle_bearAI", "df/dad/a15933.html", "df/dad/a15933" ],
+    [ "npc_rabid_thistle_bear", "d5/d5c/a15929.html#a34b20a4ea22d74352712dee105247d56", null ],
+    [ "GetAI", "d5/d5c/a15929.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
 ];

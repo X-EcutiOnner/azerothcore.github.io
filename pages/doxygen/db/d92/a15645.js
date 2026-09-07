@@ -1,13 +1,13 @@
 var a15645 =
 [
-    [ "boss_sartura", "db/d92/a15645.html#a7faaf16a1a56badd1e65a3364d425f02", null ],
-    [ "DamageTaken", "db/d92/a15645.html#a9a404743ac8491a9efc7091259706e0f", null ],
-    [ "InitializeAI", "db/d92/a15645.html#ae86d0a6b0cd591b3bb18333195109c22", null ],
-    [ "JustDied", "db/d92/a15645.html#aceff44022b8d53da41ecfcb1e2317e01", null ],
-    [ "JustEngagedWith", "db/d92/a15645.html#ab1c024908117e8460eb89c062d3825dc", null ],
-    [ "KilledUnit", "db/d92/a15645.html#a516a75910e872718a519c2a5c9805770", null ],
-    [ "Reset", "db/d92/a15645.html#ab3514ad48f622f65d67063723601f8de", null ],
-    [ "UpdateAI", "db/d92/a15645.html#af3d093dab3f5191d5da2df36ca9c4a11", null ],
-    [ "berserked", "db/d92/a15645.html#a8ad40cee9667500cb0e9533256d216c6", null ],
-    [ "enraged", "db/d92/a15645.html#af916ff3f6468b1e48d5b1944442594e5", null ]
+    [ "boss_cthun", "db/d92/a15645.html#a287ee7b65708971e4fdfa7b814486935", null ],
+    [ "DoAction", "db/d92/a15645.html#a04ae38b67d358f1d34820b855aab3869", null ],
+    [ "JustDied", "db/d92/a15645.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
+    [ "JustEngagedWith", "db/d92/a15645.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
+    [ "Reset", "db/d92/a15645.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
+    [ "ScheduleTasks", "db/d92/a15645.html#a5a0514e56217bb3b30b22b2681542adb", null ],
+    [ "SummonedCreatureDies", "db/d92/a15645.html#a49d76bb4cf30ee66fae6114313394961", null ],
+    [ "UpdateAI", "db/d92/a15645.html#a7d2685597f1eec2459fe509e5b97681f", null ],
+    [ "_fleshTentaclesKilled", "db/d92/a15645.html#a139de83ae488c40d40a4587509cd197d", null ],
+    [ "WisperTimer", "db/d92/a15645.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
 ];

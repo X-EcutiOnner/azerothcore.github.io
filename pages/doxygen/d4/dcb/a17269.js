@@ -1,7 +1,6 @@
 var a17269 =
 [
-    [ "OnRemove", "d4/dcb/a17269.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "d4/dcb/a17269.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "d4/dcb/a17269.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "d4/dcb/a17269.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "PrepareSpellScript", "d4/dcb/a17269.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
+    [ "RecalculateDamage", "d4/dcb/a17269.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
+    [ "Register", "d4/dcb/a17269.html#a1a740e697fc84f5f035f2ec251872009", null ]
 ];

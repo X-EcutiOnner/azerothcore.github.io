@@ -1,4 +1,5 @@
 var a02321 =
 [
-    [ "ScriptRegistry< AchievementCriteriaScript >", "d2/d0a/a02321.html#a691565a1335cabfa534300dece8e65e8", null ]
+    [ "bf_commandscript", "df/ded/a12417.html", "df/ded/a12417" ],
+    [ "AddSC_bf_commandscript", "d2/d0a/a02321.html#a55cfeb06fb5af5d31e3c2627d0db8da8", null ]
 ];

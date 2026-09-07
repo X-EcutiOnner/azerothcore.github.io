@@ -1,6 +1,7 @@
 var a13557 =
 [
-    [ "boss_kirtonos_the_heraldAI", "d6/df5/a13561.html", "d6/df5/a13561" ],
-    [ "boss_kirtonos_the_herald", "dd/d41/a13557.html#a0e81153a0da7910cda4c9b6d32544318", null ],
-    [ "GetAI", "dd/d41/a13557.html#aa5e0fe2386aae52fd53ff309282db652", null ]
+    [ "HandleEffectApply", "dd/d41/a13557.html#a710536e0a3bacf173d037041e755bd82", null ],
+    [ "HandleEffectRemove", "dd/d41/a13557.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
+    [ "PrepareAuraScript", "dd/d41/a13557.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
+    [ "Register", "dd/d41/a13557.html#a9092818bdb15a12163aae633049cb7f6", null ]
 ];

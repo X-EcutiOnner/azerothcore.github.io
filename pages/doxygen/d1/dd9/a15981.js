@@ -1,7 +1,7 @@
 var a15981 =
 [
-    [ "npc_giant_spotlightAI", "d1/dd9/a15981.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "d1/dd9/a15981.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "d1/dd9/a15981.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "d1/dd9/a15981.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "HandleEffectPeriodic", "d1/dd9/a15981.html#ac47c157dbd193bc131d281666ae2097f", null ],
+    [ "PrepareAuraScript", "d1/dd9/a15981.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
+    [ "Register", "d1/dd9/a15981.html#ac3c158fdddd007d1d7986470032bfc25", null ],
+    [ "Validate", "d1/dd9/a15981.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
 ];

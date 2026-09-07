@@ -1,6 +1,12 @@
 var a16149 =
 [
-    [ "HandleDummy", "da/db3/a16149.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "da/db3/a16149.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "da/db3/a16149.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_toogaAI", "da/db3/a16149.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
+    [ "MoveInLineOfSight", "da/db3/a16149.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
+    [ "MovementInform", "da/db3/a16149.html#a9315e8ba2688903aaf5b871a7490a700", null ],
+    [ "Reset", "da/db3/a16149.html#acfedaf5cc989451a4259a65661685f66", null ],
+    [ "UpdateFollowerAI", "da/db3/a16149.html#a742791e714be1ff713ab87e7d515bd9e", null ],
+    [ "CheckSpeechTimer", "da/db3/a16149.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
+    [ "PhasePostEvent", "da/db3/a16149.html#a4996291afa64e35f3604b2a85ea03dda", null ],
+    [ "PostEventTimer", "da/db3/a16149.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
+    [ "TortaGUID", "da/db3/a16149.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
 ];

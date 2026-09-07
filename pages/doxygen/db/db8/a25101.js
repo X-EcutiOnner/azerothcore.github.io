@@ -1,6 +1,6 @@
 var a25101 =
 [
-    [ "HandleScriptEffect", "db/db8/a25101.html#a884d0f5f8bf0f3515b4fedd54dd20ebf", null ],
-    [ "PrepareSpellScript", "db/db8/a25101.html#a45151bb2eacdd642e8f11564d4ef0d65", null ],
-    [ "Register", "db/db8/a25101.html#ae01695fd336fca36a7d2569ca741fba5", null ]
+    [ "CheckAreaTarget", "db/db8/a25101.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
+    [ "PrepareAuraScript", "db/db8/a25101.html#a2b6dbd33e34357917f662000a1cd932f", null ],
+    [ "Register", "db/db8/a25101.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
 ];

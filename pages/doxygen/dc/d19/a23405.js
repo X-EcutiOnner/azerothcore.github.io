@@ -1,6 +1,7 @@
 var a23405 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "df/dff/a23409.html", "df/dff/a23409" ],
-    [ "instance_hellfire_ramparts", "dc/d19/a23405.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
-    [ "GetInstanceScript", "dc/d19/a23405.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
+    [ "PeriodicTick", "dc/d19/a23405.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
+    [ "PrepareAuraScript", "dc/d19/a23405.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
+    [ "Register", "dc/d19/a23405.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
+    [ "Validate", "dc/d19/a23405.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
 ];

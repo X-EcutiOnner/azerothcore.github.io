@@ -1,8 +1,7 @@
 var a21845 =
 [
-    [ "CheckCast", "d7/d16/a21845.html#a49e425fa95e5107f38aa16e546674b7d", null ],
-    [ "HandleScript", "d7/d16/a21845.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
-    [ "PrepareSpellScript", "d7/d16/a21845.html#a9e7a1239e165131b70c437793b5371d0", null ],
-    [ "Register", "d7/d16/a21845.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
-    [ "Validate", "d7/d16/a21845.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
+    [ "CheckRequirement", "d7/d16/a21845.html#a41beb2c890137328734d6adb14e08302", null ],
+    [ "PrepareSpellScript", "d7/d16/a21845.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
+    [ "Register", "d7/d16/a21845.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
+    [ "SetDest", "d7/d16/a21845.html#a431a556ab73f91ed63f5983e537834a5", null ]
 ];

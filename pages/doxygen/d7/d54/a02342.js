@@ -1,8 +1,5 @@
 var a02342 =
 [
-    [ "MovementHandlerScript", "de/d5c/a10835.html", "de/d5c/a10835" ],
-    [ "MovementHook", "d7/d54/a02342.html#a5763e953c65ba38409a14469a1fe2842", [
-      [ "MOVEMENTHOOK_ON_PLAYER_MOVE", "d7/d54/a02342.html#a5763e953c65ba38409a14469a1fe2842a9fb1a9d074f81a435e688f4cd7d12326", null ],
-      [ "MOVEMENTHOOK_END", "d7/d54/a02342.html#a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c", null ]
-    ] ]
+    [ "message_commandscript", "d4/d06/a12525.html", "d4/d06/a12525" ],
+    [ "AddSC_message_commandscript", "d7/d54/a02342.html#a85760eb92ac87e8dcb18c91d31f09fc0", null ]
 ];

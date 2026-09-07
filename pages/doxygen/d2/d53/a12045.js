@@ -1,6 +1,6 @@
 var a12045 =
 [
-    [ "EffectManaShieldHandler", "d2/d53/a12045.html#a234fb0f6749072f9cc6310f80b3b9583", null ],
-    [ "Call", "d2/d53/a12045.html#a30ac72ee0a22ac3e71bcb2eeda903dbc", null ],
-    [ "pEffectHandlerScript", "d2/d53/a12045.html#a1aec2af2a69a90b8038d612d9ebddc2b", null ]
+    [ "CheckCastHandler", "d2/d53/a12045.html#a8647582abeea09779e05d809cbdb0d06", null ],
+    [ "Call", "d2/d53/a12045.html#a805de70601b15de19639ca01c75ae7f7", null ],
+    [ "_checkCastHandlerScript", "d2/d53/a12045.html#af13f11d14772afbea06f0020df4bbe6c", null ]
 ];

@@ -1,7 +1,7 @@
 var a27397 =
 [
-    [ "HandleProc", "da/d17/a27397.html#a8f2bbc26b297039a02a7f1a8ce7d79e3", null ],
-    [ "PrepareAuraScript", "da/d17/a27397.html#aa55d2774f59d8e8435facba876521236", null ],
-    [ "Register", "da/d17/a27397.html#a3fb6281aa70ce55d4b020e24c747a7f3", null ],
-    [ "Validate", "da/d17/a27397.html#a09492d02ca945634ca8c4620debbefa8", null ]
+    [ "HandleEffectPeriodic", "da/d17/a27397.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
+    [ "PrepareAuraScript", "da/d17/a27397.html#ae151331af09510cc91b63b65a30bdcbf", null ],
+    [ "Register", "da/d17/a27397.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
+    [ "Validate", "da/d17/a27397.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
 ];

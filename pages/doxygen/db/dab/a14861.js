@@ -1,23 +1,13 @@
 var a14861 =
 [
-    [ "npc_hallows_end_soh", "db/dab/a14861.html#a291005972dccc45b8b1885becbd97adf", null ],
-    [ "CastFires", "db/dab/a14861.html#a157d0c0488577fd623326acd1152f329", null ],
-    [ "CompleteQuest", "db/dab/a14861.html#aa0b3e5d278155c0d4cf9941121641a8a", null ],
-    [ "DoAction", "db/dab/a14861.html#a064251bc68153949092a7df18551255a", null ],
-    [ "EnterEvadeMode", "db/dab/a14861.html#a3fca0f42de5ba24f88088e6a102f3a5a", null ],
-    [ "FinishEvent", "db/dab/a14861.html#a1472396f47ff9c3e23d966ef6ffffc30", null ],
-    [ "GetData", "db/dab/a14861.html#a89329316209863f2ad64a412a9beb2fe", null ],
-    [ "GetPosToLand", "db/dab/a14861.html#ac4eb58476c010c12319ea4b1f9e36b93", null ],
-    [ "JustDied", "db/dab/a14861.html#aff85bf850780501aa7edaa0c20a5e057", null ],
-    [ "JustEngagedWith", "db/dab/a14861.html#a3e767dccaeb84d817b6ec042c8dd1c37", null ],
-    [ "MoveInLineOfSight", "db/dab/a14861.html#a60746ec45aa7b9e9f44ab5e66cf9ccf7", null ],
-    [ "MovementInform", "db/dab/a14861.html#a744608f27f7493b99777c5e88aa704e1", null ],
-    [ "Reset", "db/dab/a14861.html#a8fad4e97f40653e0b439622e422d4845", null ],
-    [ "UpdateAI", "db/dab/a14861.html#a4df3a15e266ee421affe4e908ec589ba", null ],
-    [ "counter", "db/dab/a14861.html#ac199d3270e68f559359d6bc60c5d02f2", null ],
-    [ "events", "db/dab/a14861.html#a3f8866d8ed4587841a5fcf347ca73973", null ],
-    [ "playerCount", "db/dab/a14861.html#a81bbd839f8470b2b2aea7b8a6afd339e", null ],
-    [ "pos", "db/dab/a14861.html#af35a68aacae1fe735befbab087ffdfaf", null ],
-    [ "scheduler", "db/dab/a14861.html#a92d81c8a47ba6039dfc5a8759b30060b", null ],
-    [ "unitList", "db/dab/a14861.html#aaf7522e9948401e2e747f43e80e9b38f", null ]
+    [ "go_firework_show", "db/dab/a14861.html#a42123490a9752f2187023f3f3ae56333", null ],
+    [ "InitShow", "db/dab/a14861.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
+    [ "SpawnNextFirework", "db/dab/a14861.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
+    [ "StartShow", "db/dab/a14861.html#af637d1436655e44738b55040196533d3", null ],
+    [ "StopShow", "db/dab/a14861.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
+    [ "UpdateAI", "db/dab/a14861.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
+    [ "_curIdx", "db/dab/a14861.html#a92613337cf2473e585b98b92bdcbce92", null ],
+    [ "_scheduler", "db/dab/a14861.html#a6248d36087d8fae9cfa47f473613f886", null ],
+    [ "_show", "db/dab/a14861.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
+    [ "_showRunning", "db/dab/a14861.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
 ];

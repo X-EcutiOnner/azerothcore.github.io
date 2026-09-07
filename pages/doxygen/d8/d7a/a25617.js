@@ -1,7 +1,5 @@
 var a25617 =
 [
-    [ "HandleScriptEffect", "d8/d7a/a25617.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
-    [ "PrepareSpellScript", "d8/d7a/a25617.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
-    [ "Register", "d8/d7a/a25617.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
-    [ "SelectTarget", "d8/d7a/a25617.html#a6a59b7ce696f959b2026cf8088079e89", null ]
+    [ "PrepareSpellScript", "d8/d7a/a25617.html#aa07fade62e79ccc8ad969de44b886332", null ],
+    [ "Register", "d8/d7a/a25617.html#a1c20e492be2655e8547d36fedb29cfdc", null ]
 ];

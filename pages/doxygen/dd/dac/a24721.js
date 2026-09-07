@@ -1,7 +1,11 @@
 var a24721 =
 [
-    [ "HandleProc", "dd/dac/a24721.html#affff04bf12559312333c70672dc8407f", null ],
-    [ "PrepareAuraScript", "dd/dac/a24721.html#aa604bb8cc1fd9d94ee494c7bc96c5a5b", null ],
-    [ "Register", "dd/dac/a24721.html#ae2ee810101bd32c061c3e06dea99d7cb", null ],
-    [ "Validate", "dd/dac/a24721.html#afc60c67af40f55b7a0017e5143bb52f7", null ]
+    [ "HandleAfterHit", "dd/dac/a24721.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
+    [ "HandleDummy", "dd/dac/a24721.html#abb3f92850fa6fff94c682b990c361fe6", null ],
+    [ "Load", "dd/dac/a24721.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
+    [ "PrepareSpellScript", "dd/dac/a24721.html#adea0e24654cd87b3aee07ce2183b9517", null ],
+    [ "Register", "dd/dac/a24721.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
+    [ "Validate", "dd/dac/a24721.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
+    [ "guid", "dd/dac/a24721.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
+    [ "multiplier", "dd/dac/a24721.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
 ];

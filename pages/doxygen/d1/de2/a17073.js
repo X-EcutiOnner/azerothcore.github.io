@@ -1,9 +1,6 @@
 var a17073 =
 [
-    [ "npc_concentrated_ballAI", "d1/de2/a17073.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
-    [ "DoAction", "d1/de2/a17073.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
-    [ "MovementInform", "d1/de2/a17073.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
-    [ "MoveToNextPoint", "d1/de2/a17073.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
-    [ "UpdateAI", "d1/de2/a17073.html#a6509ff14639bca29b6877db54102d004", null ],
-    [ "despawning", "d1/de2/a17073.html#a24145c6c4c38b5a1853647d24871090d", null ]
+    [ "boss_gormokAI", "da/dac/a17077.html", "da/dac/a17077" ],
+    [ "boss_gormok", "d1/de2/a17073.html#a86ce0681be4370198c44dde5aa98a593", null ],
+    [ "GetAI", "d1/de2/a17073.html#a45cff2e7ee0525de37382cf09b116a32", null ]
 ];

@@ -1,10 +1,11 @@
 var a12493 =
 [
-    [ "quest_commandscript", "dc/d4d/a12493.html#a98804583ded14bc50d252475289dda4f", null ],
-    [ "GetCommands", "dc/d4d/a12493.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
-    [ "HandleQuestAdd", "dc/d4d/a12493.html#acd1410f224a1d69bba1321999ebf25bc", null ],
-    [ "HandleQuestComplete", "dc/d4d/a12493.html#a044c30fdaedd07060284bd37fd2e226c", null ],
-    [ "HandleQuestRemove", "dc/d4d/a12493.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
-    [ "HandleQuestReward", "dc/d4d/a12493.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ],
-    [ "HandleQuestStatus", "dc/d4d/a12493.html#adbba92d0cf47879e94710c971fd994ff", null ]
+    [ "instance_commandscript", "dc/d4d/a12493.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
+    [ "GetCommands", "dc/d4d/a12493.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
+    [ "HandleInstanceGetBossStateCommand", "dc/d4d/a12493.html#a0530ca6481073d6bafd11596546140b0", null ],
+    [ "HandleInstanceListBindsCommand", "dc/d4d/a12493.html#abf42411f9c78ce59b21b34691e3d4233", null ],
+    [ "HandleInstanceSaveDataCommand", "dc/d4d/a12493.html#a4b494a8b1de470612436fbb9fa433416", null ],
+    [ "HandleInstanceSetBossStateCommand", "dc/d4d/a12493.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
+    [ "HandleInstanceStatsCommand", "dc/d4d/a12493.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
+    [ "HandleInstanceUnbindCommand", "dc/d4d/a12493.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
 ];

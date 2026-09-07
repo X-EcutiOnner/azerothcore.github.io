@@ -1,12 +1,15 @@
 var a00458 =
 [
-    [ "EnumFlag< T >", "d0/d5b/a05827.html", "d0/d5b/a05827" ],
-    [ "DEFINE_ENUM_FLAG", "da/d65/a00458.html#a9f556f9c539f21ae6fd639abe4c39c75", null ],
-    [ "IsFlag", "da/d65/a00458.html#a7294b75cb336d554d5ce2b75b05c37d6", null ],
-    [ "IsEnumFlag", "da/d65/a00458.html#ae0992e010612850442fc56bcf2d44b47", null ],
-    [ "operator&", "da/d65/a00458.html#a27ef39aed098304d7387af8257f7cee3", null ],
-    [ "operator&=", "da/d65/a00458.html#a24a78ca9e9dcd1b92829560e580c3134", null ],
-    [ "operator|", "da/d65/a00458.html#ac8aaa198de31cb5a3b217d0968f30a3b", null ],
-    [ "operator|=", "da/d65/a00458.html#a7808a2b72bed2b70553d802ed11e27c4", null ],
-    [ "operator~", "da/d65/a00458.html#abe3f4d2eafbceebe9ec46ffcd15cfa76", null ]
+    [ "MonsterMoveType", "da/d65/a00458.html#afd3f02560404659d901713e1228d9339", [
+      [ "MonsterMoveNormal", "da/d65/a00458.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558", null ],
+      [ "MonsterMoveStop", "da/d65/a00458.html#afd3f02560404659d901713e1228d9339a6520302858321c3083951d598e05a167", null ],
+      [ "MonsterMoveFacingSpot", "da/d65/a00458.html#afd3f02560404659d901713e1228d9339a395aabd5641c37343d08506cfc4e4323", null ],
+      [ "MonsterMoveFacingTarget", "da/d65/a00458.html#afd3f02560404659d901713e1228d9339a61f5156f5db570fd9f5db194179ea7f9", null ],
+      [ "MonsterMoveFacingAngle", "da/d65/a00458.html#afd3f02560404659d901713e1228d9339ac65e2c863bd6cadc1dc72c4720e61642", null ]
+    ] ],
+    [ "operator<<", "da/d65/a00458.html#a36206fc0a1fcffec4fbb7696f2fba68a", null ],
+    [ "operator>>", "da/d65/a00458.html#ae394b26156a3fa0d1d828d30cee475b1", null ],
+    [ "WriteCatmullRomCyclicPath", "da/d65/a00458.html#a512a47e7c442a3d5260ff7ec7b4d69bb", null ],
+    [ "WriteCatmullRomPath", "da/d65/a00458.html#a04fba7015071fbd9335a9723c694e511", null ],
+    [ "WriteLinearPath", "da/d65/a00458.html#a55368980761369537a648ba735e1f71f", null ]
 ];

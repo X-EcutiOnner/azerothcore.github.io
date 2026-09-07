@@ -1,7 +1,6 @@
 var a21101 =
 [
-    [ "FilterTargets", "d3/dae/a21101.html#aacfc70299b20cfef5b2feac954779f1c", null ],
-    [ "HandleDamageCalc", "d3/dae/a21101.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
-    [ "PrepareSpellScript", "d3/dae/a21101.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
-    [ "Register", "d3/dae/a21101.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
+    [ "ModSanityStacks", "d3/dae/a21101.html#a38b8425689f91b91e23096d658b462cf", null ],
+    [ "PrepareSpellScript", "d3/dae/a21101.html#a43362033f7422a0b9918ddd3b7e480cc", null ],
+    [ "Register", "d3/dae/a21101.html#a6d5e27f728ee3980d33d417fb437c9c6", null ]
 ];

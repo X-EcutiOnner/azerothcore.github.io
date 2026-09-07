@@ -1,7 +1,8 @@
 var a15517 =
 [
-    [ "boss_rajaxx", "d9/d76/a15517.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "d9/d76/a15517.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "d9/d76/a15517.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "d9/d76/a15517.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "HandleScript", "d9/d76/a15517.html#ac58aef1b295e32c8a44852278edc18f8", null ],
+    [ "Load", "d9/d76/a15517.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
+    [ "PrepareSpellScript", "d9/d76/a15517.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
+    [ "Register", "d9/d76/a15517.html#a95f4abd67d6baf75980ff28a7518503d", null ],
+    [ "Validate", "d9/d76/a15517.html#a98271e7adb17b11e39241154a83b0d0d", null ]
 ];

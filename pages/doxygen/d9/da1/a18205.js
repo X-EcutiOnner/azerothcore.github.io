@@ -1,6 +1,12 @@
 var a18205 =
 [
-    [ "UnboundPlagueTargetSelector", "d9/da1/a18205.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "d9/da1/a18205.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "d9/da1/a18205.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "npc_darnavanAI", "d9/da1/a18205.html#ae06019c24910c873877398f29f5a1737", null ],
+    [ "JustDied", "d9/da1/a18205.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
+    [ "JustEngagedWith", "d9/da1/a18205.html#acbaedacea5ad19d82002c25b68623a27", null ],
+    [ "MovementInform", "d9/da1/a18205.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
+    [ "Reset", "d9/da1/a18205.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
+    [ "UpdateAI", "d9/da1/a18205.html#a2b3b5e168989db21fc047acaf01413d9", null ],
+    [ "_canCharge", "d9/da1/a18205.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
+    [ "_canShatter", "d9/da1/a18205.html#aa7750edc8051c8ee453143491dccf122", null ],
+    [ "events", "d9/da1/a18205.html#aa8a022ccb1367432480f72d305c752ac", null ]
 ];

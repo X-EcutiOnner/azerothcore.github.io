@@ -1,7 +1,4 @@
 var a01337 =
 [
-    [ "Acore::Impl::ChatCommands::FilteredCommandListIterator", "d6/d92/a07935.html", "d6/d92/a07935" ],
-    [ "ChatSubCommandMap", "db/dec/a01337.html#a306b7e46fd4791f088a8919720238f3d", null ],
-    [ "LogCommandUsage", "db/dec/a01337.html#a8dc2bbcf5b90559262a46829632f332e", null ],
-    [ "COMMAND_MAP", "db/dec/a01337.html#a569e79432c3876f4ac0b961e8a783003", null ]
+    [ "keyData", "d4/d7c/a12273.html", "d4/d7c/a12273" ]
 ];

@@ -1,6 +1,6 @@
 var a22545 =
 [
-    [ "HandleScriptEffect", "db/ded/a22545.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
-    [ "PrepareSpellScript", "db/ded/a22545.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
-    [ "Register", "db/ded/a22545.html#aad6959f74932db219e991efd3b3af44a", null ]
+    [ "npc_released_offspring_harkoaAI", "d5/d71/a22549.html", "d5/d71/a22549" ],
+    [ "npc_released_offspring_harkoa", "db/ded/a22545.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
+    [ "GetAI", "db/ded/a22545.html#ae3d2a02c496be1b2606fce596625d12e", null ]
 ];

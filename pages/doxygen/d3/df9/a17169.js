@@ -1,7 +1,10 @@
 var a17169 =
 [
-    [ "HandleScriptEffect", "d3/df9/a17169.html#a62cef31900cd61167823f3e66aa2d64b", null ],
-    [ "PrepareSpellScript", "d3/df9/a17169.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
-    [ "Register", "d3/df9/a17169.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
-    [ "Validate", "d3/df9/a17169.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
+    [ "boss_dredAI", "d3/df9/a17169.html#a4ad04fe31990a37fd6d3a23329350248", null ],
+    [ "GetData", "d3/df9/a17169.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
+    [ "JustEngagedWith", "d3/df9/a17169.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
+    [ "Reset", "d3/df9/a17169.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
+    [ "ScheduleTasks", "d3/df9/a17169.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
+    [ "SetData", "d3/df9/a17169.html#a884f48aabc26b054dcd303a91cb88301", null ],
+    [ "_raptorCount", "d3/df9/a17169.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
 ];

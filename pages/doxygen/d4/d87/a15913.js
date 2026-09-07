@@ -1,11 +1,7 @@
 var a15913 =
 [
-    [ "npc_troll_volunteerAI", "d4/d87/a15913.html#a7eb0c508122616a6781c8b23210e4062", null ],
-    [ "GetMountId", "d4/d87/a15913.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
-    [ "InitializeAI", "d4/d87/a15913.html#a1c758c7601624e0620778e13e8ec60a0", null ],
-    [ "MovementInform", "d4/d87/a15913.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
-    [ "Reset", "d4/d87/a15913.html#a31439533de41c2a459af2b4d3af76139", null ],
-    [ "SpellHit", "d4/d87/a15913.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
-    [ "_complete", "d4/d87/a15913.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
-    [ "_mountModel", "d4/d87/a15913.html#ae226345bd324b9c337dc96570117d82b", null ]
+    [ "npc_kerlonianAI", "df/d6a/a15917.html", "df/d6a/a15917" ],
+    [ "npc_kerlonian", "d4/d87/a15913.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
+    [ "GetAI", "d4/d87/a15913.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
+    [ "OnQuestAccept", "d4/d87/a15913.html#a353f482c843066031397b1bfaf193b5f", null ]
 ];

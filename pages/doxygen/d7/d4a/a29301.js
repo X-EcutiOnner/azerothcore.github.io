@@ -1,9 +1,6 @@
 var a29301 =
 [
-    [ "flags", "d7/d4a/a29301.html#a064de2e88c563121bbb78549a7bab868", null ],
-    [ "_flags", "d7/d4a/a29301.html#a16f1b30a57eb6703e8073ef55d988391", null ],
-    [ "bits", "d7/d4a/a29301.html#a529f1856635132646457c57f3546f4ec", null ],
-    [ "configKey", "d7/d4a/a29301.html#af14d118016b9e01612769c00f13aa2d6", null ],
-    [ "oldKey", "d7/d4a/a29301.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
-    [ "owner", "d7/d4a/a29301.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
+    [ "ID", "d7/d4a/a29301.html#a7d40e334785d96a2e57d28f87a59778a", null ],
+    [ "maxCount", "d7/d4a/a29301.html#a5edc6442e026b12dae654fa86440a11a", null ],
+    [ "mode", "d7/d4a/a29301.html#a76553ecf9f880a5e5967f818123742fd", null ]
 ];

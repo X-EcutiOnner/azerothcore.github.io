@@ -1,8 +1,12 @@
 var a12321 =
 [
-    [ "cache_commandscript", "da/d32/a12321.html#a709e1d02632aed18113c1adb52e962b5", null ],
-    [ "GetCommands", "da/d32/a12321.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
-    [ "HandleCacheDeleteCommand", "da/d32/a12321.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
-    [ "HandleCacheInfoCommand", "da/d32/a12321.html#aa9bce5578450a35909a4e481bc21867f", null ],
-    [ "HandleCacheRefreshCommand", "da/d32/a12321.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
+    [ "WardenMac", "da/d32/a12321.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
+    [ "~WardenMac", "da/d32/a12321.html#a5f3832580c73a0af34fa83669a92ceab", null ],
+    [ "GetModuleForClient", "da/d32/a12321.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
+    [ "HandleData", "da/d32/a12321.html#a024be47d39641cb0e7654b0e0999e444", null ],
+    [ "HandleHashResult", "da/d32/a12321.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
+    [ "Init", "da/d32/a12321.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
+    [ "InitializeModule", "da/d32/a12321.html#a4fceef34e83db1a357d9eadce35efdef", null ],
+    [ "RequestChecks", "da/d32/a12321.html#a2437a3a5650305b05fc22d312d0006da", null ],
+    [ "RequestHash", "da/d32/a12321.html#af031f18554c5a96b4eb39371a92b9c51", null ]
 ];

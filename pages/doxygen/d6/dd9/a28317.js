@@ -1,7 +1,6 @@
 var a28317 =
 [
-    [ "npc_doctorAI", "d3/dda/a28321.html", "d3/dda/a28321" ],
-    [ "npc_doctor", "d6/dd9/a28317.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
-    [ "GetAI", "d6/dd9/a28317.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
-    [ "OnQuestAccept", "d6/dd9/a28317.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
+    [ "go_midsummer_musicAI", "d6/dd9/a28317.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
+    [ "UpdateAI", "d6/dd9/a28317.html#adf185ee702e9e74f65204b90786f9eb4", null ],
+    [ "_events", "d6/dd9/a28317.html#a31e45a754930cdc3206fe2b7f754d234", null ]
 ];

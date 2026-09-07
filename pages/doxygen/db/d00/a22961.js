@@ -1,6 +1,7 @@
 var a22961 =
 [
-    [ "OnPeriodic", "db/d00/a22961.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
-    [ "PrepareAuraScript", "db/d00/a22961.html#ac9231c238adf7e733d55bc6098daddc0", null ],
-    [ "Register", "db/d00/a22961.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
+    [ "PrepareAuraScript", "db/d00/a22961.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
+    [ "Register", "db/d00/a22961.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
+    [ "Update", "db/d00/a22961.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
+    [ "Validate", "db/d00/a22961.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
 ];

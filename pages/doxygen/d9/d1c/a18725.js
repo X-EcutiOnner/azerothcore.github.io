@@ -1,7 +1,9 @@
 var a18725 =
 [
-    [ "CheckTargetCount", "d9/d1c/a18725.html#a44f558248f944464c773105728cffbca", null ],
-    [ "PrepareSpellScript", "d9/d1c/a18725.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
-    [ "Register", "d9/d1c/a18725.html#aeda833ca8483d337311086b9d0a14081", null ],
-    [ "Validate", "d9/d1c/a18725.html#aee84751e352dbfc12472fc15924c48fa", null ]
+    [ "npc_icc_ice_sphereAI", "d9/d1c/a18725.html#a685f45e5cd15b005646e596ff61088e8", null ],
+    [ "DoAction", "d9/d1c/a18725.html#ac056ecdd93bc716964054f38ab81014e", null ],
+    [ "SelectNewTarget", "d9/d1c/a18725.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
+    [ "UpdateAI", "d9/d1c/a18725.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
+    [ "targetGUID", "d9/d1c/a18725.html#a3e202f9bde2a202d329066f7aab8897c", null ],
+    [ "timer", "d9/d1c/a18725.html#a42842e92926e18ef2589687d81a7d0d4", null ]
 ];

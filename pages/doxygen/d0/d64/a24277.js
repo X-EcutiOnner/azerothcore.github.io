@@ -1,7 +1,7 @@
 var a24277 =
 [
-    [ "CheckCast", "d0/d64/a24277.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "d0/d64/a24277.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "d0/d64/a24277.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "d0/d64/a24277.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "o", "d0/d64/a24277.html#a3785e9b55ea3a7140086ce1f86232109", null ],
+    [ "x", "d0/d64/a24277.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
+    [ "y", "d0/d64/a24277.html#a10fbad67977d8dd3911eb629c1797684", null ],
+    [ "z", "d0/d64/a24277.html#a69fc2438e52f6c0de3af13900ff38166", null ]
 ];

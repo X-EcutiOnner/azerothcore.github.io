@@ -1,6 +1,6 @@
 var a25057 =
 [
-    [ "CheckRequirement", "da/d41/a25057.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
-    [ "PrepareSpellScript", "da/d41/a25057.html#a859ac50e6774471c232113e5c007f602", null ],
-    [ "Register", "da/d41/a25057.html#aceafb7d6cfa300011935026f4d7ac491", null ]
+    [ "PrepareSpellScript", "da/d41/a25057.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
+    [ "RecalculateDamage", "da/d41/a25057.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
+    [ "Register", "da/d41/a25057.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
 ];

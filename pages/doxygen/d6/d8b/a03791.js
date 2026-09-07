@@ -1,33 +1,25 @@
 var a03791 =
 [
-    [ "npc_pos_leader", "d9/d4c/a17467.html", "d9/d4c/a17467" ],
-    [ "npc_pos_leader::npc_pos_leaderAI", "d7/df9/a17471.html", "d7/df9/a17471" ],
-    [ "npc_pos_deathwhisper_necrolyte", "dc/d05/a17475.html", "dc/d05/a17475" ],
-    [ "npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI", "d9/d48/a17479.html", "d9/d48/a17479" ],
-    [ "npc_pos_after_first_boss", "d0/d26/a17483.html", "d0/d26/a17483" ],
-    [ "npc_pos_after_first_boss::npc_pos_after_first_bossAI", "d2/d54/a17487.html", "d2/d54/a17487" ],
-    [ "npc_pos_tyrannus_events", "d3/da3/a17491.html", "d3/da3/a17491" ],
-    [ "npc_pos_tyrannus_events::npc_pos_tyrannus_eventsAI", "df/ddc/a17495.html", "df/ddc/a17495" ],
-    [ "npc_pos_icicle_trigger", "d5/d27/a17499.html", "d5/d27/a17499" ],
-    [ "npc_pos_icicle_trigger::npc_pos_icicle_triggerAI", "da/dee/a17503.html", "da/dee/a17503" ],
-    [ "npc_pos_collapsing_icicle", "d5/dc2/a17507.html", "d5/dc2/a17507" ],
-    [ "npc_pos_collapsing_icicle::npc_pos_collapsing_icicleAI", "d4/d15/a17511.html", "d4/d15/a17511" ],
-    [ "npc_pos_martin_or_gorkun_second", "df/dd8/a17515.html", "df/dd8/a17515" ],
-    [ "npc_pos_martin_or_gorkun_second::npc_pos_martin_or_gorkun_secondAI", "d9/df3/a17519.html", "d9/df3/a17519" ],
-    [ "npc_pos_freed_slave", "d4/dc3/a17523.html", "d4/dc3/a17523" ],
-    [ "npc_pos_freed_slave::npc_pos_freed_slaveAI", "d5/de2/a17527.html", "d5/de2/a17527" ],
-    [ "npc_pos_leader_second", "d1/da7/a17531.html", "d1/da7/a17531" ],
-    [ "npc_pos_leader_second::npc_pos_leader_secondAI", "db/dc0/a17535.html", "db/dc0/a17535" ],
-    [ "spell_pos_empowered_blizzard_aura", "d5/d08/a17539.html", "d5/d08/a17539" ],
-    [ "SlaveRunEvent", "d0/d25/a17543.html", "d0/d25/a17543" ],
-    [ "spell_pos_slave_trigger_closest", "db/d3f/a17547.html", "db/d3f/a17547" ],
-    [ "spell_pos_rimefang_frost_nova", "d5/d68/a17551.html", "d5/d68/a17551" ],
-    [ "spell_pos_blight_aura", "d7/da7/a17555.html", "d7/da7/a17555" ],
-    [ "spell_pos_glacial_strike_aura", "d7/d09/a17559.html", "d7/d09/a17559" ],
-    [ "at_tyrannus_event_starter", "d4/d44/a17563.html", "d4/d44/a17563" ],
-    [ "EmpoweredBlizzard", "d6/d8b/a03791.html#a8fcef7a07939b8b584fe27646f0e409b", [
-      [ "SPELL_EMPOWERED_BLIZZARD", "d6/d8b/a03791.html#a8fcef7a07939b8b584fe27646f0e409bab466d53fed70cfde01f9b48a6bf13fab", null ]
+    [ "npc_shenthul", "d1/d01/a16049.html", "d1/d01/a16049" ],
+    [ "npc_shenthul::npc_shenthulAI", "da/d19/a16053.html", "da/d19/a16053" ],
+    [ "npc_thrall_warchief", "d5/d05/a16057.html", "d5/d05/a16057" ],
+    [ "npc_thrall_warchief::npc_thrall_warchiefAI", "d5/df0/a16061.html", "d5/df0/a16061" ],
+    [ "Shenthul", "d6/d8b/a03791.html#a032512bb2693fda342f4d77dba794fbe", [
+      [ "QUEST_SHATTERED_SALUTE", "d6/d8b/a03791.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0", null ]
     ] ],
-    [ "AddSC_pit_of_saron", "d6/d8b/a03791.html#ad9b4c5bfe589f9f6b1ea405752347585", null ],
-    [ "slaveFreePos", "d6/d8b/a03791.html#a302aeb8575da3775869e8ba2aa788da0", null ]
+    [ "ThrallWarchief", "d6/d8b/a03791.html#a1cdad3bda3b93500c342a64dce6d15d9", [
+      [ "SPELL_CHAIN_LIGHTNING", "d6/d8b/a03791.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d", null ],
+      [ "SPELL_SHOCK", "d6/d8b/a03791.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab", null ],
+      [ "QUEST_FOR_THE_HORDE", "d6/d8b/a03791.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af", null ],
+      [ "SPELL_WARCHIEF_BLESSING", "d6/d8b/a03791.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225", null ],
+      [ "NPC_HERALD_OF_THRALL", "d6/d8b/a03791.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc", null ],
+      [ "ACTION_START_TALKING", "d6/d8b/a03791.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd", null ],
+      [ "SAY_THRALL_ON_QUEST_REWARD_0", "d6/d8b/a03791.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b", null ],
+      [ "SAY_THRALL_ON_QUEST_REWARD_1", "d6/d8b/a03791.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302", null ],
+      [ "GO_UNADORNED_SPIKE", "d6/d8b/a03791.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153", null ],
+      [ "QUEST_WHAT_THE_WIND_CARRIES", "d6/d8b/a03791.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287", null ],
+      [ "QUEST_WARCHIEFS_BLESSING", "d6/d8b/a03791.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047", null ]
+    ] ],
+    [ "AddSC_orgrimmar", "d6/d8b/a03791.html#aec4388ea6d2e4bbc1d279b3a4687c4c6", null ],
+    [ "heraldOfThrallPos", "d6/d8b/a03791.html#a016aeee1d0eac9c78c522520663670f0", null ]
 ];

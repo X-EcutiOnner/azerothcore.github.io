@@ -1,5 +1,6 @@
 var a28569 =
 [
-    [ "npc_pet_trainerAI", "d5/d5a/a28569.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
-    [ "sGossipSelect", "d5/d5a/a28569.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
+    [ "npc_air_force_botsAI", "d4/d75/a28573.html", "d4/d75/a28573" ],
+    [ "npc_air_force_bots", "d5/d5a/a28569.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
+    [ "GetAI", "d5/d5a/a28569.html#ae971e34d61b0f960d8f5940f9015523d", null ]
 ];

@@ -1,11 +1,7 @@
 var a16249 =
 [
-    [ "boss_amanitar", "dd/dcd/a16249.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
-    [ "EnterEvadeMode", "dd/dcd/a16249.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
-    [ "JustDied", "dd/dcd/a16249.html#a138049712649ff414950d9d0ca05d712", null ],
-    [ "JustEngagedWith", "dd/dcd/a16249.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
-    [ "Reset", "dd/dcd/a16249.html#aab3faca4526947a72d8ca049a605f5be", null ],
-    [ "SummonedCreatureDespawn", "dd/dcd/a16249.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
-    [ "SummonMushroom", "dd/dcd/a16249.html#afc5b4942931f6020b2894b901650fc35", null ],
-    [ "_mushroomsDeque", "dd/dcd/a16249.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
+    [ "npc_ranshallaAI", "d8/d56/a16253.html", "d8/d56/a16253" ],
+    [ "npc_ranshalla", "dd/dcd/a16249.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
+    [ "GetAI", "dd/dcd/a16249.html#a1a81651366cc05d3ad6e9929160fe059", null ],
+    [ "OnQuestAccept", "dd/dcd/a16249.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
 ];

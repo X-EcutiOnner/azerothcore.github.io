@@ -1,6 +1,5 @@
 var a21613 =
 [
-    [ "npc_heated_battleAI", "d5/d23/a21613.html#a2b73957d7890549f4b02488c5527fcef", null ],
-    [ "DamageTaken", "d5/d23/a21613.html#a8422c157214195d7166ede35c9c05d19", null ],
-    [ "Reset", "d5/d23/a21613.html#a11a4f3270ff260e30da89017dad38433", null ]
+    [ "npc_nerubar_victim", "d5/d23/a21613.html#a218a0091d3dd5c237f49f7b2797c54d7", null ],
+    [ "JustDied", "d5/d23/a21613.html#a969b3f15d0017978e77d34131815c7e4", null ]
 ];

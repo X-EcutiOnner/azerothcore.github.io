@@ -1,9 +1,6 @@
 var a22289 =
 [
-    [ "npc_crusade_recruitAI", "de/dc1/a22289.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
-    [ "Reset", "de/dc1/a22289.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
-    [ "sGossipSelect", "de/dc1/a22289.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
-    [ "UpdateAI", "de/dc1/a22289.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
-    [ "_events", "de/dc1/a22289.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
-    [ "_heading", "de/dc1/a22289.html#a6e260a6e085962d54b765bff4cb17963", null ]
+    [ "npc_jungle_punch_targetAI", "d5/d61/a22293.html", "d5/d61/a22293" ],
+    [ "npc_jungle_punch_target", "de/dc1/a22289.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
+    [ "GetAI", "de/dc1/a22289.html#abb38ccb55abfe0f48f360469031c6902", null ]
 ];

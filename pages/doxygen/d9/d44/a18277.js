@@ -1,8 +1,6 @@
 var a18277 =
 [
-    [ "FilterTargets", "d9/d44/a18277.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
-    [ "HandleScript", "d9/d44/a18277.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
-    [ "PrepareSpellScript", "d9/d44/a18277.html#ae6b30b8da52141c385f985435cac99a1", null ],
-    [ "Register", "d9/d44/a18277.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
-    [ "Validate", "d9/d44/a18277.html#accff1f03fb7c0d56cb197bb18348635c", null ]
+    [ "boss_professor_putricideAI", "d6/d03/a18281.html", "d6/d03/a18281" ],
+    [ "boss_professor_putricide", "d9/d44/a18277.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "d9/d44/a18277.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

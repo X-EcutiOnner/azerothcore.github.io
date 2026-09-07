@@ -1,12 +1,13 @@
 var a23381 =
 [
-    [ "boss_nazan", "d8/da1/a23381.html#a4390d3e181c4db46e364df3302612763", null ],
-    [ "AttackStart", "d8/da1/a23381.html#a7acea69f908e7a004c2a78c103528975", null ],
-    [ "DoAction", "d8/da1/a23381.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
-    [ "EnterEvadeMode", "d8/da1/a23381.html#ab6338a7d240014e548b22044b788ce8f", null ],
-    [ "JustEngagedWith", "d8/da1/a23381.html#a4d44b759530f32207a46a608fb7d6209", null ],
-    [ "MovementInform", "d8/da1/a23381.html#ad35866322ff55263b1f8b105d2cad952", null ],
-    [ "Reset", "d8/da1/a23381.html#a5c10e932075130399a9127869f45ce1d", null ],
-    [ "UpdateAI", "d8/da1/a23381.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
-    [ "_scheduler", "d8/da1/a23381.html#a8915d84ec4ffb8dade18041d5e910018", null ]
+    [ "npc_earthen_ring_flamecaller", "d8/da1/a23381.html#ab402dd321fa0df641b674324386d7591", null ],
+    [ "DoAction", "d8/da1/a23381.html#af745c83529a34a89c430d6113703fff5", null ],
+    [ "LookOpening", "d8/da1/a23381.html#adfc752e7700a816b66b639007a1a90fa", null ],
+    [ "MovementInform", "d8/da1/a23381.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
+    [ "Reset", "d8/da1/a23381.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
+    [ "SpellHit", "d8/da1/a23381.html#ab9c5ad7e56033997042031566748ee2b", null ],
+    [ "UpdateAI", "d8/da1/a23381.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
+    [ "_events", "d8/da1/a23381.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
+    [ "_instance", "d8/da1/a23381.html#a79aa6e628a50ed485cc55513c28362dc", null ],
+    [ "_mySpot", "d8/da1/a23381.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
 ];

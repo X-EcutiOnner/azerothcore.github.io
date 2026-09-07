@@ -1,6 +1,5 @@
 var a16101 =
 [
-    [ "npc_taskmaster_fizzuleAI", "d6/d21/a16105.html", "d6/d21/a16105" ],
-    [ "npc_taskmaster_fizzule", "da/de7/a16101.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
-    [ "GetAI", "da/de7/a16101.html#a6281de7424932fe6580ffefa199498d9", null ]
+    [ "go_crystalline_tear", "da/de7/a16101.html#a9e19c6538ecd1a758f2639171321d965", null ],
+    [ "OnQuestAccept", "da/de7/a16101.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
 ];

@@ -1,7 +1,7 @@
 var a21621 =
 [
-    [ "HandleApplyEffect", "db/d1c/a21621.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "db/d1c/a21621.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "db/d1c/a21621.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "db/d1c/a21621.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "npc_lurgglbrAI", "dc/d27/a21625.html", "dc/d27/a21625" ],
+    [ "npc_lurgglbr", "db/d1c/a21621.html#a7df52667e4d789391820a4c2182db8d2", null ],
+    [ "GetAI", "db/d1c/a21621.html#a2795346371e7b474c53dcacb9daf2001", null ],
+    [ "OnQuestAccept", "db/d1c/a21621.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
 ];

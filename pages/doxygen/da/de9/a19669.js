@@ -1,7 +1,6 @@
 var a19669 =
 [
-    [ "boss_commander_stoutbeard", "da/de9/a19669.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
-    [ "JustDied", "da/de9/a19669.html#a2fd835408045715058ba476aa56cb4f7", null ],
-    [ "JustEngagedWith", "da/de9/a19669.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
-    [ "KilledUnit", "da/de9/a19669.html#acf7016c65f020dca9228bd2d2fd89299", null ]
+    [ "boss_thaddius_summonAI", "d7/d1f/a19673.html", "d7/d1f/a19673" ],
+    [ "boss_thaddius_summon", "da/de9/a19669.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
+    [ "GetAI", "da/de9/a19669.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
 ];

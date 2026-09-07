@@ -1,5 +1,6 @@
 var a15689 =
 [
-    [ "npc_toxic_slime", "d8/d70/a15689.html#a4c3a03916280342ec9aec07049de161f", null ],
-    [ "InitializeAI", "d8/d70/a15689.html#ae69f228040aaa5bc4df40a652f551992", null ]
+    [ "OnRemove", "d8/d70/a15689.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
+    [ "PrepareAuraScript", "d8/d70/a15689.html#a47849d8241ed17ad0fb541c1178b0760", null ],
+    [ "Register", "d8/d70/a15689.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
 ];

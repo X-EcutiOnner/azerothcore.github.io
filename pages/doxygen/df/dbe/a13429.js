@@ -1,6 +1,8 @@
 var a13429 =
 [
-    [ "npc_dkc1_gothikAI", "d4/dc3/a13433.html", "d4/dc3/a13433" ],
-    [ "npc_dkc1_gothik", "df/dbe/a13429.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
-    [ "GetAI", "df/dbe/a13429.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
+    [ "CheckProc", "df/dbe/a13429.html#a085f6affd2bf76fe66f9023e67725848", null ],
+    [ "HandleProc", "df/dbe/a13429.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
+    [ "PrepareAuraScript", "df/dbe/a13429.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
+    [ "Register", "df/dbe/a13429.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
+    [ "Validate", "df/dbe/a13429.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
 ];

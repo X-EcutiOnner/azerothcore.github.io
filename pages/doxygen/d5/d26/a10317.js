@@ -1,6 +1,7 @@
 var a10317 =
 [
-    [ "IsNeutralOrFriendlyToTeam", "d5/d26/a10317.html#aeeea8efaff8fe3f5044a7d5627a89cb6", null ],
-    [ "safeLocId", "d5/d26/a10317.html#a4f6003cc76b70c83fbb8301cc9d5a7ad", null ],
-    [ "teamId", "d5/d26/a10317.html#a287b04900d70f8ff8c6f6542edbd40a6", null ]
+    [ "MapPreloadRequest", "d5/d26/a10317.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
+    [ "call", "d5/d26/a10317.html#a688f4e2c5517c29c10c0810325211b50", null ],
+    [ "_mapId", "d5/d26/a10317.html#aa207469ff8369f9b5559b35404d16847", null ],
+    [ "_updater", "d5/d26/a10317.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
 ];

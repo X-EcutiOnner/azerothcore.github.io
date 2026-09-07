@@ -1,4 +1,5 @@
 var a02336 =
 [
-    [ "ScriptRegistry< UnitScript >", "d3/d9c/a02336.html#aced42ee6099fa72848b9b4aef527ebc3", null ]
+    [ "achievement_commandscript", "de/d64/a12397.html", "de/d64/a12397" ],
+    [ "AddSC_achievement_commandscript", "d3/d9c/a02336.html#afeb482a8cffe8416071764bc4e78bff2", null ]
 ];

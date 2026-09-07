@@ -1,8 +1,6 @@
 var a22473 =
 [
-    [ "boss_darkweaver_syth", "d2/ddf/a22473.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "d2/ddf/a22473.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "d2/ddf/a22473.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "d2/ddf/a22473.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "d2/ddf/a22473.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "npc_wg_siege_machineAI", "d1/d58/a22477.html", "d1/d58/a22477" ],
+    [ "npc_wg_siege_machine", "d2/ddf/a22473.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
+    [ "GetAI", "d2/ddf/a22473.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
 ];

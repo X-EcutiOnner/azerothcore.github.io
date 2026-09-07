@@ -1,7 +1,11 @@
 var a11337 =
 [
-    [ "Playsound", "d3/ddf/a11337.html#a955f91d0d65c64f154f99b3b9472e273", null ],
-    [ "Playsound", "d3/ddf/a11337.html#aa242d4ca729d67d7fd58dc81985f22f9", null ],
-    [ "Write", "d3/ddf/a11337.html#acb4bdd9a1613a158832115e4c18bfcd9", null ],
-    [ "SoundKitID", "d3/ddf/a11337.html#a922cb6d06285bdf9f3d89ff990c40b0a", null ]
+    [ "BuyItemInSlot", "d3/ddf/a11337.html#a9a15be940d8eb216614dca5055be094a", null ],
+    [ "Read", "d3/ddf/a11337.html#a2608e83a41fb44c8469d2b9196702627", null ],
+    [ "BagGuid", "d3/ddf/a11337.html#abb9a1c7ac98c1cd848e4da8faf4e3925", null ],
+    [ "BagSlot", "d3/ddf/a11337.html#abdcb3b7e8a633b59d264ff1c860ec9c9", null ],
+    [ "Count", "d3/ddf/a11337.html#a3d057f2bdafb46887a97dbba8bb5aa04", null ],
+    [ "Item", "d3/ddf/a11337.html#a1fdfad3b4dd000c0f6d6d60f30bdd981", null ],
+    [ "Slot", "d3/ddf/a11337.html#aae1dba7644a82933a801f581551479bc", null ],
+    [ "VendorGuid", "d3/ddf/a11337.html#ac65b0fc2609531c8657c4d83cf50dbfe", null ]
 ];

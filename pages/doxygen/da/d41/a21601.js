@@ -1,6 +1,10 @@
 var a21601 =
 [
-    [ "CheckCast", "da/d41/a21601.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
-    [ "PrepareSpellScript", "da/d41/a21601.html#abff433d61c798d17882292b6b0956a58", null ],
-    [ "Register", "da/d41/a21601.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
+    [ "npc_sinkhole_kill_creditAI", "da/d41/a21601.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
+    [ "Reset", "da/d41/a21601.html#a677990d64d2963ff995d9d8522c5aa81", null ],
+    [ "SpellHit", "da/d41/a21601.html#a95eaf518fb18b67820d6195cd525b017", null ],
+    [ "UpdateAI", "da/d41/a21601.html#a75611004a543bece9d3f51914547f2fe", null ],
+    [ "casterGuid", "da/d41/a21601.html#a147921788b07f5e776e03aaf15049cf0", null ],
+    [ "phase", "da/d41/a21601.html#aa45455a8d540d6f942c948cf56d11f05", null ],
+    [ "phaseTimer", "da/d41/a21601.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
 ];

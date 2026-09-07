@@ -1,7 +1,8 @@
 var a28409 =
 [
-    [ "npc_venomhide_hatchlingAI", "d2/d62/a28413.html", "d2/d62/a28413" ],
-    [ "npc_venomhide_hatchling", "d2/df6/a28409.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
-    [ "GetAI", "d2/df6/a28409.html#a96110b752965d751ab7b466c4f67e333", null ],
-    [ "OnGossipHello", "d2/df6/a28409.html#a404d875592b847ddb9f3250c9d954bfc", null ]
+    [ "go_bellsAI", "d2/df6/a28409.html#a6f22847c66a3b5faded35da799359846", null ],
+    [ "UpdateAI", "d2/df6/a28409.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
+    [ "_events", "d2/df6/a28409.html#a46c66442078cee28a76fc412746ca026", null ],
+    [ "_soundId", "d2/df6/a28409.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
+    [ "once", "d2/df6/a28409.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
 ];

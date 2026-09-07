@@ -1,7 +1,8 @@
 var a27393 =
 [
-    [ "CheckProc", "db/dfe/a27393.html#a982264a8ea20344b66269a3edd814db7", null ],
-    [ "HandleProc", "db/dfe/a27393.html#adf79a132d1ae20e27b07dc77e103fb3c", null ],
-    [ "PrepareAuraScript", "db/dfe/a27393.html#abd0ac0c324e3323140812c7d4c937e1e", null ],
-    [ "Register", "db/dfe/a27393.html#ac24fe502aa899f953b694fe3ebf46012", null ]
+    [ "HandleDummy", "db/dfe/a27393.html#a308880cf9c61c76de0fdee05fff2b463", null ],
+    [ "Load", "db/dfe/a27393.html#acafb9d6ac4fde694dc44cbf13b7f97ad", null ],
+    [ "PrepareSpellScript", "db/dfe/a27393.html#a3a2672c39f36229c0dd6cdea0fad3299", null ],
+    [ "Register", "db/dfe/a27393.html#a1857b342ae34a57f079f45019645c688", null ],
+    [ "Validate", "db/dfe/a27393.html#a121c30045281eab5fee4f65d38d1dfc3", null ]
 ];

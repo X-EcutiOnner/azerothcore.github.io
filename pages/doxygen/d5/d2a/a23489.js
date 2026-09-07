@@ -1,7 +1,5 @@
 var a23489 =
 [
-    [ "HandleOnApply", "d5/d2a/a23489.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
-    [ "HandleOnRemove", "d5/d2a/a23489.html#aed5f87523c58d94c8f98b76c06abb140", null ],
-    [ "PrepareAuraScript", "d5/d2a/a23489.html#ab32413873bec92540f9e85e8013b7ea2", null ],
-    [ "Register", "d5/d2a/a23489.html#a0653d8688f98822580a3243a0d47c17a", null ]
+    [ "at_underbog_ghazan", "d5/d2a/a23489.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
+    [ "_OnTrigger", "d5/d2a/a23489.html#a82d82a14a3d5c5125c331df126b9006a", null ]
 ];

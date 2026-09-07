@@ -1,6 +1,6 @@
 var a23949 =
 [
-    [ "CheckCast", "db/ddd/a23949.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "db/ddd/a23949.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "db/ddd/a23949.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "lapseTeleport", "db/ddd/a23949.html#a55c4330397214bf3a43628b3067d4634", null ],
+    [ "Execute", "db/ddd/a23949.html#a122023ed13fce2f5bb3721e459964443", null ],
+    [ "_owner", "db/ddd/a23949.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
 ];

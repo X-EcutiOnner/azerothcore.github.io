@@ -1,9 +1,7 @@
 var a25477 =
 [
-    [ "CheckCast", "db/d02/a25477.html#a005565dd77de97b5aa04553a1d6a0185", null ],
-    [ "HandleScript", "db/d02/a25477.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
-    [ "Load", "db/d02/a25477.html#aadfc8a873c72e31d65001ce00518ca45", null ],
-    [ "PrepareSpellScript", "db/d02/a25477.html#a169b60644259855f0614271e4769f6b9", null ],
-    [ "Register", "db/d02/a25477.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
-    [ "Validate", "db/d02/a25477.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
+    [ "EjectPassenger", "db/d02/a25477.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
+    [ "PrepareSpellScript", "db/d02/a25477.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
+    [ "Register", "db/d02/a25477.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
+    [ "Validate", "db/d02/a25477.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
 ];

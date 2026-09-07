@@ -1,6 +1,5 @@
 var a28141 =
 [
-    [ "guard_shattrath_scryerAI", "d6/dcc/a28145.html", "d6/dcc/a28145" ],
-    [ "guard_shattrath_scryer", "dd/de5/a28141.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "dd/de5/a28141.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "AreaTrigger_at_sentry_point", "dd/de5/a28141.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
+    [ "OnTrigger", "dd/de5/a28141.html#ab59fb74f4f988c208359855d2e4d9918", null ]
 ];

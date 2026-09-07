@@ -1,8 +1,10 @@
 var a26189 =
 [
-    [ "CheckProc", "d1/df2/a26189.html#af82895c2ed07f43c28923b61427f4ddf", null ],
-    [ "HandleProc", "d1/df2/a26189.html#ad1a13141720e0e605966c2304b0f8eb9", null ],
-    [ "PrepareAuraScript", "d1/df2/a26189.html#af3ff786badfbb56f90bc3c8865c839bb", null ],
-    [ "Register", "d1/df2/a26189.html#ac1fea3f63b5ffd742a83e8d45a26ae68", null ],
-    [ "Validate", "d1/df2/a26189.html#a980784152abf41e91b5fe5a9c2e3d5dc", null ]
+    [ "CalcPeriodic", "d1/df2/a26189.html#a6ec300503503fa6f12a48a8494d41edd", null ],
+    [ "Load", "d1/df2/a26189.html#a349827fe659ff3bee0a5dfc677c04825", null ],
+    [ "PrepareAuraScript", "d1/df2/a26189.html#a8c12c4ae3835322602347b654d96a8b7", null ],
+    [ "Register", "d1/df2/a26189.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
+    [ "Update", "d1/df2/a26189.html#afa9e6eec798c354231b5f95e260c7111", null ],
+    [ "Validate", "d1/df2/a26189.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
+    [ "_spell_id", "d1/df2/a26189.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
 ];

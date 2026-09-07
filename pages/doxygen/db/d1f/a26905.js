@@ -1,7 +1,7 @@
 var a26905 =
 [
-    [ "HandleDummy", "db/d1f/a26905.html#a367bd26543382ad71668fbe4f524d823", null ],
-    [ "PrepareSpellScript", "db/d1f/a26905.html#a71cde3f81fdb253d8e93a19be104e9db", null ],
-    [ "Register", "db/d1f/a26905.html#a7c73e3381592bef44d2265aff296b301", null ],
-    [ "Validate", "db/d1f/a26905.html#a03d59b6859286dbe460b348df6de63d7", null ]
+    [ "CheckAreaTarget", "db/d1f/a26905.html#a3c2dc43efc37be1b34cba266a478f46e", null ],
+    [ "PrepareAuraScript", "db/d1f/a26905.html#a88c7c19e87106e1bbf6cc5a24a3bc2e4", null ],
+    [ "Register", "db/d1f/a26905.html#a9cbc5794b1ed54fe9313cd161ec5b19f", null ],
+    [ "Validate", "db/d1f/a26905.html#ab18a951259cc74b0ba8319f757e38eca", null ]
 ];

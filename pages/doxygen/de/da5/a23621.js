@@ -1,6 +1,10 @@
 var a23621 =
 [
-    [ "HandleCast", "de/da5/a23621.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "de/da5/a23621.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "de/da5/a23621.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "boss_kelidan_the_breaker", "de/da5/a23621.html#a6774e4a0315b30266f6c55da608cd193", null ],
+    [ "ApplyImmunities", "de/da5/a23621.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
+    [ "DoAction", "de/da5/a23621.html#a3fa0117ce1079f651025116684f5e2f4", null ],
+    [ "JustDied", "de/da5/a23621.html#a4d3f0171b7889a96f19999b28e549866", null ],
+    [ "JustEngagedWith", "de/da5/a23621.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
+    [ "KilledUnit", "de/da5/a23621.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
+    [ "Reset", "de/da5/a23621.html#a46c592f6c46ea568ad368702e1640e06", null ]
 ];

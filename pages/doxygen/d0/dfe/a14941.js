@@ -1,8 +1,10 @@
 var a14941 =
 [
-    [ "OnApply", "d0/dfe/a14941.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
-    [ "OnRemove", "d0/dfe/a14941.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
-    [ "PrepareAuraScript", "d0/dfe/a14941.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
-    [ "Register", "d0/dfe/a14941.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
-    [ "Validate", "d0/dfe/a14941.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
+    [ "boss_headless_horseman_pumpkin", "d0/dfe/a14941.html#a62191ae523401ac57a947db96a245f7a", null ],
+    [ "AttackStart", "d0/dfe/a14941.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
+    [ "MoveInLineOfSight", "d0/dfe/a14941.html#a212f9803f66d297cd276ef842247776a", null ],
+    [ "Reset", "d0/dfe/a14941.html#a9d5f6922a52146b61168f1c50b378294", null ],
+    [ "SpellHit", "d0/dfe/a14941.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
+    [ "UpdateAI", "d0/dfe/a14941.html#aca53b8839bce5e180ba8583490d694c3", null ],
+    [ "timer", "d0/dfe/a14941.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
 ];

@@ -1,6 +1,7 @@
 var a25705 =
 [
-    [ "HandleSummon", "db/d1e/a25705.html#aadfea4a2238754473a8abbc487fd7f7b", null ],
-    [ "PrepareSpellScript", "db/d1e/a25705.html#a4974a3687df394d51db322210ebb5ddb", null ],
-    [ "Register", "db/d1e/a25705.html#a89146ab41d1408c18ce2bff403ae8e4e", null ]
+    [ "HandleOnEffectApply", "db/d1e/a25705.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "db/d1e/a25705.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "db/d1e/a25705.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "db/d1e/a25705.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

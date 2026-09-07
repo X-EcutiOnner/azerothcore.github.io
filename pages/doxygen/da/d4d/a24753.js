@@ -1,7 +1,7 @@
 var a24753 =
 [
-    [ "HandlePeriodic", "da/d4d/a24753.html#abc823ccb417c7ee54b275fd765c2e9a5", null ],
-    [ "PrepareAuraScript", "da/d4d/a24753.html#a51d8701f84737d91cf4367967e2c9439", null ],
-    [ "Register", "da/d4d/a24753.html#a57d210027c9fa2a4a7a90c4b1fd7589b", null ],
-    [ "Validate", "da/d4d/a24753.html#a507e7e61eef30115812dc5ab5ad33fea", null ]
+    [ "HandleProc", "da/d4d/a24753.html#a8503eadfd6d636659e66bda9bfd36d00", null ],
+    [ "PrepareAuraScript", "da/d4d/a24753.html#a9571ec1951d45eaf4e1a2e1e7851aaa6", null ],
+    [ "Register", "da/d4d/a24753.html#a73879765519b238791577db82561b548", null ],
+    [ "Validate", "da/d4d/a24753.html#abcdd9441cfc3922b70e3a4f1ece01efd", null ]
 ];

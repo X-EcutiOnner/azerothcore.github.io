@@ -1,6 +1,8 @@
 var a29529 =
 [
-    [ "SetUp", "d1/d26/a29529.html#ac4e6ae8a500400a1e133c1630f064e3b", null ],
-    [ "TearDown", "d1/d26/a29529.html#aa3c2026d7506be72d67c6d583751c550", null ],
-    [ "rbacData", "d1/d26/a29529.html#a4318e5c5d8137feb011a25c2d4a3c28a", null ]
+    [ "MapDifficulty", "d1/d26/a29529.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
+    [ "MapDifficulty", "d1/d26/a29529.html#a227aec55b5b774076882ea34f70d5d88", null ],
+    [ "hasErrorMessage", "d1/d26/a29529.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
+    [ "maxPlayers", "d1/d26/a29529.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
+    [ "resetTime", "d1/d26/a29529.html#a7190131620b9eee0897ac7b4dd62949e", null ]
 ];

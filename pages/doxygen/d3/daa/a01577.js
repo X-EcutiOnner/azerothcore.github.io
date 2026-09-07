@@ -1,8 +1,6 @@
 var a01577 =
 [
-    [ "CorpseUpdateFieldFlags", "d3/daa/a01577.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
-    [ "DynamicObjectUpdateFieldFlags", "d3/daa/a01577.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
-    [ "GameObjectUpdateFieldFlags", "d3/daa/a01577.html#aee13b862f51557c371d3d93341128895", null ],
-    [ "ItemUpdateFieldFlags", "d3/daa/a01577.html#ac1cca7ecf1650663132e3e220d771adf", null ],
-    [ "UnitUpdateFieldFlags", "d3/daa/a01577.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
+    [ "ChatHandler", "d3/d52/a07929.html", "d3/d52/a07929" ],
+    [ "CliHandler", "d6/d9b/a07933.html", "d6/d9b/a07933" ],
+    [ "AddonChannelCommandHandler", "d1/d89/a07937.html", "d1/d89/a07937" ]
 ];

@@ -1,5 +1,6 @@
 var a19113 =
 [
-    [ "at_icc_start_blood_quickening", "d4/dea/a19113.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
-    [ "OnTrigger", "d4/dea/a19113.html#a814670e127b1eace6068a553b23d00f7", null ]
+    [ "npc_impaling_spearAI", "d0/d0d/a19117.html", "d0/d0d/a19117" ],
+    [ "npc_impaling_spear", "d4/dea/a19113.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "d4/dea/a19113.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

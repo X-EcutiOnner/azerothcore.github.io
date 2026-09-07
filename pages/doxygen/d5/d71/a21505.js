@@ -1,13 +1,12 @@
 var a21505 =
 [
-    [ "npc_shandy_dalaranAI", "d5/d71/a21505.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
-    [ "Reset", "d5/d71/a21505.html#a38f0630d4e18cea01de343afdcb96db3", null ],
-    [ "RollTask", "d5/d71/a21505.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
-    [ "SetData", "d5/d71/a21505.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
-    [ "UpdateAI", "d5/d71/a21505.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
-    [ "_aquanosGUID", "d5/d71/a21505.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
-    [ "_canWash", "d5/d71/a21505.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
-    [ "_events", "d5/d71/a21505.html#a3fbae63669c8382097b0bcb936301945", null ],
-    [ "_lCount", "d5/d71/a21505.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
-    [ "_lSource", "d5/d71/a21505.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
+    [ "npc_ichor_globule", "d5/d71/a21505.html#a59443a6748d81ef27a030f8656697fc1", null ],
+    [ "AttackStart", "d5/d71/a21505.html#a1e52599fab1b7e33d958f9815f73c6eb", null ],
+    [ "JustDied", "d5/d71/a21505.html#af740ee64b1f8510b0bacba4bcfe6d418", null ],
+    [ "MoveInLineOfSight", "d5/d71/a21505.html#af14fada689a1a6a780ae44865d16e465", null ],
+    [ "Reset", "d5/d71/a21505.html#a78030360fcd39754744384cdba17fd9e", null ],
+    [ "SpellHit", "d5/d71/a21505.html#a3d1e68f4b809286d57355de7d4482ae6", null ],
+    [ "UpdateAI", "d5/d71/a21505.html#acccc54db59a18e78330011465e109439", null ],
+    [ "_events", "d5/d71/a21505.html#a221c58177666ea1eb4a6b831916297eb", null ],
+    [ "_instance", "d5/d71/a21505.html#a5d56f5468b146ab2f8905b807bb22edc", null ]
 ];

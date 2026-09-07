@@ -1,5 +1,6 @@
 var a30049 =
 [
-    [ "max", "db/d59/a30049.html#a3d87d5fa5e887282fa76a4a4b77eb097", null ],
-    [ "min", "db/d59/a30049.html#a7277258d8bdc471a007814fadf91780a", null ]
+    [ "SetUp", "db/d59/a30049.html#a1aea096e3b4fe9657c3166e0688a2407", null ],
+    [ "_entry", "db/d59/a30049.html#a36067d0031cbdbc00b1c6dcfbfe2358c", null ],
+    [ "_procEntry", "db/d59/a30049.html#affb4da9ec7478c526f07056b83bfff60", null ]
 ];

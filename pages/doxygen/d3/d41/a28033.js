@@ -1,7 +1,7 @@
 var a28033 =
 [
-    [ "go_darkmoon_faire_musicAI", "d3/d41/a28033.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
-    [ "UpdateAI", "d3/d41/a28033.html#af3d802bd852fc0483f72781edb13b5d5", null ],
-    [ "_events", "d3/d41/a28033.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
-    [ "rnd", "d3/d41/a28033.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
+    [ "HandleDummy", "d3/d41/a28033.html#a120ae48454922c30b0df0a1caf464216", null ],
+    [ "PrepareSpellScript", "d3/d41/a28033.html#ad8cde850116b8d4beef798724c6e4283", null ],
+    [ "Register", "d3/d41/a28033.html#a516709e073a7cc84ada03058195da728", null ],
+    [ "Validate", "d3/d41/a28033.html#ad647af566f06c7e76ef573f670d514ca", null ]
 ];

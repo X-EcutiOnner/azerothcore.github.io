@@ -1,10 +1,7 @@
 var a24781 =
 [
-    [ "FilterTargets", "df/dc3/a24781.html#a033c63470d406ad2249c5aa223c00b2f", null ],
-    [ "HandleFinish", "df/dc3/a24781.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
-    [ "HandleScript", "df/dc3/a24781.html#a2c26838015f1b21715fc1438537e15d3", null ],
-    [ "Load", "df/dc3/a24781.html#a669aefa81d57358ef452f4c247b2ceff", null ],
-    [ "PrepareSpellScript", "df/dc3/a24781.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
-    [ "Register", "df/dc3/a24781.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
-    [ "haveTarget", "df/dc3/a24781.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
+    [ "HandleProc", "df/dc3/a24781.html#a393909e3765443aa4930d8036c36b132", null ],
+    [ "PrepareAuraScript", "df/dc3/a24781.html#aeaacd337fd8a02e7c19ead8912fc68d9", null ],
+    [ "Register", "df/dc3/a24781.html#af37fd1db3dc6cbbe985734853ea59109", null ],
+    [ "Validate", "df/dc3/a24781.html#a0966b67c38486fb32c3e442f388320b1", null ]
 ];

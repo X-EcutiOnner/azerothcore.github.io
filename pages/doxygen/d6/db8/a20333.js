@@ -1,6 +1,8 @@
 var a20333 =
 [
-    [ "npc_ulduar_toasty_fire", "d6/db8/a20333.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
-    [ "DoAction", "d6/db8/a20333.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
-    [ "SpellHit", "d6/db8/a20333.html#ad1ac241490db52177ae13640d7ae3eec", null ]
+    [ "HandleOnEffectApply", "d6/db8/a20333.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "d6/db8/a20333.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "d6/db8/a20333.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "d6/db8/a20333.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "d6/db8/a20333.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

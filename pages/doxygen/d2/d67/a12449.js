@@ -1,5 +1,8 @@
 var a12449 =
 [
-    [ "flag", "d2/d67/a12449.html#a4ea67fc10eedfaa2e5e029e242e1c32f", null ],
-    [ "text", "d2/d67/a12449.html#a492e5e3c2373adba005034514b0a5a1e", null ]
+    [ "CreatureCountWorker", "d2/d67/a12449.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
+    [ "GetTopCreatureCount", "d2/d67/a12449.html#a5d4d009b6685dd71703f96f9945a463e", null ],
+    [ "Visit", "d2/d67/a12449.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
+    [ "Visit", "d2/d67/a12449.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
+    [ "creatureIds", "d2/d67/a12449.html#a3a6f946c40b1006164793dbaed2b3948", null ]
 ];

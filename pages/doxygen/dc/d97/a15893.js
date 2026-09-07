@@ -1,6 +1,7 @@
 var a15893 =
 [
-    [ "npc_tiger_matriarch_creditAI", "da/d64/a15897.html", "da/d64/a15897" ],
-    [ "npc_tiger_matriarch_credit", "dc/d97/a15893.html#a9d76e8e808c828da501551025eecd8ea", null ],
-    [ "GetAI", "dc/d97/a15893.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
+    [ "npc_prophet_velen", "dc/d97/a15893.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
+    [ "JustDied", "dc/d97/a15893.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
+    [ "Reset", "dc/d97/a15893.html#a5beec39fd545129d0f124bb19524f95c", null ],
+    [ "UpdateAI", "dc/d97/a15893.html#a2d016ecfedc5c7e886e7412081b54792", null ]
 ];

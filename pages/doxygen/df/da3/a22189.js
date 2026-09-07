@@ -1,5 +1,6 @@
 var a22189 =
 [
-    [ "npc_wg_spirit_guideAI", "df/da3/a22189.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
-    [ "UpdateAI", "df/da3/a22189.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
+    [ "HandleDummy", "df/da3/a22189.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
+    [ "PrepareSpellScript", "df/da3/a22189.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
+    [ "Register", "df/da3/a22189.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
 ];

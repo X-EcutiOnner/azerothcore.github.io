@@ -1,8 +1,5 @@
 var a20701 =
 [
-    [ "npc_xt002_heart", "d8/d48/a20701.html#aa4a3c9e4a66f1d6adab07282961685e9", null ],
-    [ "DoAction", "d8/d48/a20701.html#a3150ab74ea50c9de6d937b3271e782de", null ],
-    [ "JustDied", "d8/d48/a20701.html#a4f62cabc74ad43cf53f2257902982dff", null ],
-    [ "Reset", "d8/d48/a20701.html#a0b60b84d9fc0abcb44d3f432420a7865", null ],
-    [ "_instance", "d8/d48/a20701.html#a90edf95809c2d8a25b3f75526d2d3db7", null ]
+    [ "go_ulduar_do_not_push_this_button", "d8/d48/a20701.html#aa204af213a643c001161e0c2f173ee6b", null ],
+    [ "OnGossipHello", "d8/d48/a20701.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
 ];

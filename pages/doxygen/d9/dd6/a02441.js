@@ -1,5 +1,6 @@
 var a02441 =
 [
-    [ "HyperlinkDataTokenizer", "d0/d37/a08231.html", "d0/d37/a08231" ],
-    [ "HYPERLINK_DATA_DELIMITER", "d9/dd6/a02441.html#a306ae32a610f410bc85994a15699c867", null ]
+    [ "npc_suns_reach_reclamation", "de/d64/a28777.html", "de/d64/a28777" ],
+    [ "npc_sunwell_gate", "d0/dcf/a28781.html", "d0/dcf/a28781" ],
+    [ "AddSC_suns_reach_reclamation", "d9/dd6/a02441.html#ae3e186d64e39803c404f1afb2144557b", null ]
 ];

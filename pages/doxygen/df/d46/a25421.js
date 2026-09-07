@@ -1,6 +1,7 @@
 var a25421 =
 [
-    [ "PrepareAuraScript", "df/d46/a25421.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "df/d46/a25421.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "df/d46/a25421.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "HandleEffectApply", "df/d46/a25421.html#abf780eeca61aef7e44617aa0ed2ff8b8", null ],
+    [ "OnRemove", "df/d46/a25421.html#af2cfa66cd7dbc7c671efa06c497cc03e", null ],
+    [ "PrepareAuraScript", "df/d46/a25421.html#ab6c5d1fd94c763126ef77f9efd4a7116", null ],
+    [ "Register", "df/d46/a25421.html#a473189971d0a03e7305b7b9e41dc5207", null ]
 ];

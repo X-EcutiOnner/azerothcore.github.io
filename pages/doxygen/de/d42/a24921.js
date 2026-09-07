@@ -1,6 +1,7 @@
 var a24921 =
 [
-    [ "OnPeriodic", "de/d42/a24921.html#a5fdf44f34765d0386d5c5490620c944a", null ],
-    [ "PrepareAuraScript", "de/d42/a24921.html#a3c3044795e183eef2c801781100b11c7", null ],
-    [ "Register", "de/d42/a24921.html#a1221c3287c3fd7add356e84430508684", null ]
+    [ "CalculateAmount", "de/d42/a24921.html#ab705e67f7abb72a13dfd32e7a6da4561", null ],
+    [ "Load", "de/d42/a24921.html#ac87f1c7ccb9aa9985d538c9d8611c850", null ],
+    [ "PrepareAuraScript", "de/d42/a24921.html#ae4a75ef8bc755c8220b768d5ac87a728", null ],
+    [ "Register", "de/d42/a24921.html#a636331452bc95a4434f1b85e85ea6e7b", null ]
 ];

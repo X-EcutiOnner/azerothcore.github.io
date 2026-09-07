@@ -1,8 +1,6 @@
 var a24157 =
 [
-    [ "npc_pet_dk_ghoul", "d3/d9a/a24157.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
-    [ "IsSummonedBy", "d3/d9a/a24157.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
-    [ "JustDied", "d3/d9a/a24157.html#a6095e3619b470283b9875b90e2805b54", null ],
-    [ "UpdateAI", "d3/d9a/a24157.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
-    [ "_summonTargetGUID", "d3/d9a/a24157.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "df/d00/a24161.html", "df/d00/a24161" ],
+    [ "npc_creditmarker_visit_with_ancestors", "d3/d9a/a24157.html#a60f7abac7198d8504d944828dceb1ffa", null ],
+    [ "GetAI", "d3/d9a/a24157.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
 ];

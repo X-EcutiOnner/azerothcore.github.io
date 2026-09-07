@@ -1,5 +1,6 @@
 var a21081 =
 [
-    [ "go_palehoof_sphere", "d8/d75/a21081.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
-    [ "OnGossipHello", "d8/d75/a21081.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
+    [ "FilterTargets", "d8/d75/a21081.html#a7efa78a7991b7ca859c7d622f973265d", null ],
+    [ "PrepareSpellScript", "d8/d75/a21081.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
+    [ "Register", "d8/d75/a21081.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
 ];

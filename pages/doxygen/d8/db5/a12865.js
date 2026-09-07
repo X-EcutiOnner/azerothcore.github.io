@@ -1,9 +1,7 @@
 var a12865 =
 [
-    [ "FilterTargets", "d8/db5/a12865.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "d8/db5/a12865.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "d8/db5/a12865.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "d8/db5/a12865.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "d8/db5/a12865.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "d8/db5/a12865.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "boss_warmaster_voone", "d8/db5/a12865.html#a5dd3b0140dda8ef141c9598a427f6633", null ],
+    [ "DamageTaken", "d8/db5/a12865.html#a48e135857ef9e7e524e07ed979f137e6", null ],
+    [ "ExecuteEvent", "d8/db5/a12865.html#a2ff38398f38e61f91bd1aa7222867fd3", null ],
+    [ "JustEngagedWith", "d8/db5/a12865.html#a961113ecf4c46f52001d153a60ea238a", null ]
 ];

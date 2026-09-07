@@ -1,6 +1,6 @@
 var a22225 =
 [
-    [ "HandleSummon", "d6/d8a/a22225.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
-    [ "PrepareSpellScript", "d6/d8a/a22225.html#ae7f071e9d9a82892be31090385679c9f", null ],
-    [ "Register", "d6/d8a/a22225.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
+    [ "npc_blessed_bannerAI", "d9/d82/a22229.html", "d9/d82/a22229" ],
+    [ "npc_blessed_banner", "d6/d8a/a22225.html#a779a0c653088b2d206226e146a19101f", null ],
+    [ "GetAI", "d6/d8a/a22225.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
 ];

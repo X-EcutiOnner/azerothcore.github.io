@@ -1,7 +1,7 @@
 var a23901 =
 [
-    [ "npc_kurenai_captiveAI", "d2/de3/a23905.html", "d2/de3/a23905" ],
-    [ "npc_kurenai_captive", "db/d62/a23901.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
-    [ "GetAI", "db/d62/a23901.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
-    [ "OnQuestAccept", "db/d62/a23901.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
+    [ "OnApply", "db/d62/a23901.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "db/d62/a23901.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "db/d62/a23901.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "db/d62/a23901.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

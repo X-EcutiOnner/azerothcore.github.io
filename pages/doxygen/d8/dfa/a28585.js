@@ -1,9 +1,6 @@
 var a28585 =
 [
-    [ "npc_fireworkAI", "d8/dfa/a28585.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "d8/dfa/a28585.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "d8/dfa/a28585.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "d8/dfa/a28585.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "d8/dfa/a28585.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "d8/dfa/a28585.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "npc_dancing_flamesAI", "d9/dc2/a28589.html", "d9/dc2/a28589" ],
+    [ "npc_dancing_flames", "d8/dfa/a28585.html#adec0401f876ddf159f28fdda8bc4d563", null ],
+    [ "GetAI", "d8/dfa/a28585.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
 ];

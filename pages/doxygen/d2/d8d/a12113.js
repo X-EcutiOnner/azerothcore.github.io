@@ -1,9 +1,7 @@
 var a12113 =
 [
-    [ "CreatureTextLocalizer", "d2/d8d/a12113.html#a799f1007b9977224d71da1451c3454e1", null ],
-    [ "~CreatureTextLocalizer", "d2/d8d/a12113.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
-    [ "operator()", "d2/d8d/a12113.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
-    [ "_builder", "d2/d8d/a12113.html#a1d8d97d3e423810d044a8155b182899d", null ],
-    [ "_msgType", "d2/d8d/a12113.html#adf9260955b0141e85ff47c66350244e2", null ],
-    [ "_packetCache", "d2/d8d/a12113.html#a660b352a1c1855f4b10a8aebef88133f", null ]
+    [ "EffectApplyHandler", "d2/d8d/a12113.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "d2/d8d/a12113.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "d2/d8d/a12113.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "d2/d8d/a12113.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

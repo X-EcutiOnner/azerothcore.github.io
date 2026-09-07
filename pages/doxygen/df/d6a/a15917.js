@@ -1,7 +1,11 @@
 var a15917 =
 [
-    [ "HandleEffectPeriodic", "df/d6a/a15917.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "df/d6a/a15917.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "df/d6a/a15917.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "df/d6a/a15917.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "npc_kerlonianAI", "df/d6a/a15917.html#a0f7a4566ca93a174c92fe10e904af480", null ],
+    [ "ClearSleeping", "df/d6a/a15917.html#aea2815d79da4fa006ea150f052255b9d", null ],
+    [ "MoveInLineOfSight", "df/d6a/a15917.html#a8b0a606510d278f26099a125d583377a", null ],
+    [ "Reset", "df/d6a/a15917.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
+    [ "SetSleeping", "df/d6a/a15917.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
+    [ "SpellHit", "df/d6a/a15917.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
+    [ "UpdateFollowerAI", "df/d6a/a15917.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
+    [ "FallAsleepTimer", "df/d6a/a15917.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
 ];

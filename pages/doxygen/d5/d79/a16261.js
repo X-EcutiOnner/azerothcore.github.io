@@ -1,7 +1,6 @@
 var a16261 =
 [
-    [ "npc_ahnkahar_nerubian", "d5/d79/a16261.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "d5/d79/a16261.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "d5/d79/a16261.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "d5/d79/a16261.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "creatureID", "d5/d79/a16261.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "d5/d79/a16261.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "d5/d79/a16261.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

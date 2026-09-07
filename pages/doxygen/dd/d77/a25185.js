@@ -1,7 +1,6 @@
 var a25185 =
 [
-    [ "PrepareSpellScript", "dd/d77/a25185.html#a65d5717a25e371e09c44148c679dd390", null ],
-    [ "Register", "dd/d77/a25185.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
-    [ "RemoveInvalidTargets", "dd/d77/a25185.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
-    [ "Validate", "dd/d77/a25185.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
+    [ "OnPeriodic", "dd/d77/a25185.html#a5fdf44f34765d0386d5c5490620c944a", null ],
+    [ "PrepareAuraScript", "dd/d77/a25185.html#a3c3044795e183eef2c801781100b11c7", null ],
+    [ "Register", "dd/d77/a25185.html#a1221c3287c3fd7add356e84430508684", null ]
 ];

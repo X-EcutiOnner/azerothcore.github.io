@@ -1,5 +1,5 @@
 var a28053 =
 [
-    [ "go_tablet_of_the_seven", "d8/dfd/a28053.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "d8/dfd/a28053.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "achievement_bg_ic_glaive_grave", "d8/dfd/a28053.html#a97e1cead0102a120b3bd14592ea26034", null ],
+    [ "OnCheck", "d8/dfd/a28053.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
 ];

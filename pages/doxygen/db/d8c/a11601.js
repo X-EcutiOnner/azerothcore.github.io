@@ -1,10 +1,6 @@
 var a11601 =
 [
-    [ "WorldStateInfo", "d5/ddb/a11605.html", "d5/ddb/a11605" ],
-    [ "InitWorldStates", "db/d8c/a11601.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
-    [ "Write", "db/d8c/a11601.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
-    [ "AreaID", "db/d8c/a11601.html#a98ac08c68b5c004fd352f38c7084531f", null ],
-    [ "MapID", "db/d8c/a11601.html#a657c3043204c6957e8438c3c3c7068f3", null ],
-    [ "Worldstates", "db/d8c/a11601.html#a29ffba2a130f0b93d61b2025255502fb", null ],
-    [ "ZoneID", "db/d8c/a11601.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
+    [ "QuestUpdateComplete", "db/d8c/a11601.html#a1e6d102e4063facad1230b55d4048702", null ],
+    [ "Write", "db/d8c/a11601.html#a2ec714ac25e784446e8a614587bd79b3", null ],
+    [ "QuestId", "db/d8c/a11601.html#ac44a95d88d2970ee3e8bf0a8c57d578d", null ]
 ];

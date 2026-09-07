@@ -1,7 +1,10 @@
 var a15933 =
 [
-    [ "HandleDummy", "df/dad/a15933.html#a30a87266b89021caf7d05c45397f70d1", null ],
-    [ "PrepareSpellScript", "df/dad/a15933.html#a43a92b346088d710719722e8feed9634", null ],
-    [ "Register", "df/dad/a15933.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
-    [ "Validate", "df/dad/a15933.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
+    [ "npc_rabid_thistle_bearAI", "df/dad/a15933.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
+    [ "Initialize", "df/dad/a15933.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
+    [ "Reset", "df/dad/a15933.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
+    [ "SpellHit", "df/dad/a15933.html#a62bde5a122748564cc806046bf9dcbaa", null ],
+    [ "UpdateAI", "df/dad/a15933.html#a8f6c5b873756a58760b2861bc8b86804", null ],
+    [ "_events", "df/dad/a15933.html#ad3852bf4588c453642e75fcdc544767b", null ],
+    [ "_playerGUID", "df/dad/a15933.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
 ];

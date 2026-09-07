@@ -1,7 +1,6 @@
 var a21473 =
 [
-    [ "HandleEffectHit", "d6/dd0/a21473.html#a8d7dd2411c3b786e682260eb30862602", null ],
-    [ "PrepareSpellScript", "d6/dd0/a21473.html#a49b6d005013e480f8161779119bc9b2d", null ],
-    [ "Register", "d6/dd0/a21473.html#a017ae25fead98a5c18cdb83128085ddd", null ],
-    [ "Validate", "d6/dd0/a21473.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
+    [ "npc_frozen_orb_stalkerAI", "db/d08/a21477.html", "db/d08/a21477" ],
+    [ "npc_frozen_orb_stalker", "d6/dd0/a21473.html#a7f025c829106aa6668427f913d07a722", null ],
+    [ "GetAI", "d6/dd0/a21473.html#af33e27138a70286bac561113ed09f350", null ]
 ];

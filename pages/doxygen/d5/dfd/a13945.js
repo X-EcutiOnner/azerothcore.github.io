@@ -1,7 +1,4 @@
 var a13945 =
 [
-    [ "HandleAfterCast", "d5/dfd/a13945.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "d5/dfd/a13945.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "d5/dfd/a13945.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "d5/dfd/a13945.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "instance_the_stockade_InstanceMapScript", "d5/dfd/a13945.html#a255ebc2ebda65b412f46e05e332d605e", null ]
 ];

@@ -1,13 +1,6 @@
 var a16533 =
 [
-    [ "boss_twilight_halionAI", "d2/d88/a16533.html#aab05bab963d603c3cb70edfd62a84b49", null ],
-    [ "DamageTaken", "d2/d88/a16533.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
-    [ "EnterEvadeMode", "d2/d88/a16533.html#af7076251fc1fad1dc259d747934910e2", null ],
-    [ "JustDied", "d2/d88/a16533.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
-    [ "JustEngagedWith", "d2/d88/a16533.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
-    [ "KilledUnit", "d2/d88/a16533.html#ada770d51f63c841c500ffc3197a7a89f", null ],
-    [ "Reset", "d2/d88/a16533.html#a9c945841926d5b08f37c6a720dd25a14", null ],
-    [ "UpdateAI", "d2/d88/a16533.html#a6ab1d215ed077883781b0c0188282c5e", null ],
-    [ "_events", "d2/d88/a16533.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
-    [ "_instance", "d2/d88/a16533.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
+    [ "boss_baltharus_the_warbornAI", "d4/d46/a16537.html", "d4/d46/a16537" ],
+    [ "boss_baltharus_the_warborn", "d2/d88/a16533.html#aababb8862273d60f140dce675131783d", null ],
+    [ "GetAI", "d2/d88/a16533.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
 ];

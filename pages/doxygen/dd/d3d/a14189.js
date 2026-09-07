@@ -1,31 +1,25 @@
 var a14189 =
 [
-    [ "npc_varian_wrynnAI", "dd/d3d/a14189.html#a456af9e2d4eeef0d83f74121b86d2135", null ],
-    [ "EnterEvadeMode", "dd/d3d/a14189.html#a446788b34a7c79f73b3629054e7dd1dc", null ],
-    [ "JumpToNextStep", "dd/d3d/a14189.html#abbf343fb39222c312844b0ef41a32a56", null ],
-    [ "JustSummoned", "dd/d3d/a14189.html#ad8ed5358985d98734fc2820f78309a94", null ],
-    [ "Reset", "dd/d3d/a14189.html#a89e275d1a600fe3d84a306809069d0c2", null ],
-    [ "SetHoldState", "dd/d3d/a14189.html#abb90ecc6cd83ccdee1164080fc8343ea", null ],
-    [ "SpawnWave", "dd/d3d/a14189.html#ab02d388ee5ee549b4a23a12ddbca6799", null ],
-    [ "SummonedCreatureDies", "dd/d3d/a14189.html#aab3c4436f79e3293b78f5ecb0abbf604", null ],
-    [ "UpdateAI", "dd/d3d/a14189.html#abc90f62951ede3792dd2ea2d1794a040", null ],
-    [ "UpdateWorldState", "dd/d3d/a14189.html#a0f0948edb85f45cbd12faec72c23b129", null ],
-    [ "WaypointReached", "dd/d3d/a14189.html#ae8a2cbcffcfbf27d00fcfc6999b74b36", null ],
-    [ "WaypointReached", "dd/d3d/a14189.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_events", "dd/d3d/a14189.html#a93929fbbd33d7e95c95d93df87da4e32", null ],
-    [ "allianceForcesGUID", "dd/d3d/a14189.html#aaf9f3fc958530168ba4f3c86e1cf6fa4", null ],
-    [ "allianceGuardsGUID", "dd/d3d/a14189.html#aafeadcb50b34de9cb109f0293889aaf4", null ],
-    [ "blightWormGUID", "dd/d3d/a14189.html#a89790969afb35e87acbc59d9e387a709", null ],
-    [ "bStepping", "dd/d3d/a14189.html#a45677cab3e5ca17f320c4a949d4ed7f7", null ],
-    [ "generatorGUID", "dd/d3d/a14189.html#ab750f5d2e8a23dbc8bf557d6c543b3c6", null ],
-    [ "hordeForcesGUID", "dd/d3d/a14189.html#ac0c3b7e99d7b62d0966d1c3c76cf5634", null ],
-    [ "jainaGUID", "dd/d3d/a14189.html#a4bb7979acbcdbe3345289a5194dc6737", null ],
-    [ "khanokGUID", "dd/d3d/a14189.html#ab9d18b82abb4bb5c651588632bdb110f", null ],
-    [ "phaseTimer", "dd/d3d/a14189.html#afffeda9533746909712f2f4bb8606f1b", null ],
-    [ "putressGUID", "dd/d3d/a14189.html#a52dacd776aabd94f579bf947db6d138b", null ],
-    [ "step", "dd/d3d/a14189.html#ad0f9085317fba2b5f295218fd2cf3510", null ],
-    [ "summoned", "dd/d3d/a14189.html#a5213c73afd642b7a310110399850b52d", null ],
-    [ "sylvanasGUID", "dd/d3d/a14189.html#a94ea46630935a01ac146944e474a8c7d", null ],
-    [ "thrallGUID", "dd/d3d/a14189.html#ac37fc42a15732f5f71b94e31a62c41b6", null ],
-    [ "whirlwindTimer", "dd/d3d/a14189.html#a46b8bf23bd9c395358b66a9e62b719f6", null ]
+    [ "Events", "dd/d3d/a14189.html#afac1efc815f9bcd99c712750add03d03", [
+      [ "EVENT_START_RITUAL", "dd/d3d/a14189.html#afac1efc815f9bcd99c712750add03d03addf57401bf3a4a7a29cb666329c870bc", null ],
+      [ "EVENT_GHOULPLOSION", "dd/d3d/a14189.html#afac1efc815f9bcd99c712750add03d03a5f505da38dd1ec77501cd8388617acf1", null ],
+      [ "EVENT_RAISE_DEAD", "dd/d3d/a14189.html#afac1efc815f9bcd99c712750add03d03adbf5c1e1e03fbb8646814f5a1b9b1750", null ],
+      [ "EVENT_RESUME_WP", "dd/d3d/a14189.html#afac1efc815f9bcd99c712750add03d03a78d794f7871ab05a5100d939227c249d", null ]
+    ] ],
+    [ "Points", "dd/d3d/a14189.html#ada82a8d5097799a78f1c44a38e6b5050", [
+      [ "POINT_CORPSE_REACHED", "dd/d3d/a14189.html#ada82a8d5097799a78f1c44a38e6b5050a8c8a1329ee01466b4cc26f8b5542f486", null ]
+    ] ],
+    [ "Says", "dd/d3d/a14189.html#a3e29fc5682d354eab8ac5e9cbc8fd0d3", [
+      [ "SAY_GRYPHON", "dd/d3d/a14189.html#a3e29fc5682d354eab8ac5e9cbc8fd0d3a204b617281fb4bd9cb06622e9aadc2cb", null ],
+      [ "SAY_GHOUL", "dd/d3d/a14189.html#a3e29fc5682d354eab8ac5e9cbc8fd0d3a722503c3ccad9de979ea2083143d7557", null ],
+      [ "SAY_GEIST", "dd/d3d/a14189.html#a3e29fc5682d354eab8ac5e9cbc8fd0d3a4d9ac8b5eae01b8506ce301cb59391eb", null ]
+    ] ],
+    [ "npc_gothik_the_harvester", "dd/d3d/a14189.html#a7543dc4ee15b1e80a3de57f454d909e5", null ],
+    [ "MovementInform", "dd/d3d/a14189.html#a5941a60cd0f7c7358b18a060d6c1aaec", null ],
+    [ "Reset", "dd/d3d/a14189.html#a0932d0971a0c9e10236d8c13994143ee", null ],
+    [ "UpdateAI", "dd/d3d/a14189.html#a0a2e71818b3a894927ed61191c63323e", null ],
+    [ "events", "dd/d3d/a14189.html#a65d21454301a5ac4ba29fc3c1c415852", null ],
+    [ "geistGUID", "dd/d3d/a14189.html#a0360b0fbaf1a37445fb760067c493c45", null ],
+    [ "isOnRitual", "dd/d3d/a14189.html#a9093378e71150865f95d05065378c35b", null ],
+    [ "targetCorpseGUID", "dd/d3d/a14189.html#a453a6f122eb4e9a079949bf53fd76067", null ]
 ];

@@ -1,5 +1,7 @@
 var a15441 =
 [
-    [ "pathId", "d4/d0f/a15441.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
-    [ "spellId", "d4/d0f/a15441.html#af495f984d5b81baeaa61ddca127a9508", null ]
+    [ "npc_onyxian_lair_guard", "d4/d0f/a15441.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "d4/d0f/a15441.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "d4/d0f/a15441.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "d4/d0f/a15441.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

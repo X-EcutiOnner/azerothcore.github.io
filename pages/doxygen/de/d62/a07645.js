@@ -1,9 +1,7 @@
 var a07645 =
 [
-    [ "Rank", "de/d62/a07645.html#a9bcd8dc00437bcf015565eeb43263578", null ],
-    [ "Rating", "de/d62/a07645.html#ab43875cc3ae58eb636a490c2c0f5c1f6", null ],
-    [ "SeasonGames", "de/d62/a07645.html#a124c6d64f22c13707764eedd79fe1912", null ],
-    [ "SeasonWins", "de/d62/a07645.html#ad274601b85ea634524b1c00979e09465", null ],
-    [ "WeekGames", "de/d62/a07645.html#a1d0092200b2c9428e821473949cfda77", null ],
-    [ "WeekWins", "de/d62/a07645.html#a313afef901bd5a9347f2074a7ca1bfe0", null ]
+    [ "ArenaSeasonReward", "de/d62/a07645.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
+    [ "operator==", "de/d62/a07645.html#a22d6afdbc88c47d18dc840d537ae4150", null ],
+    [ "entry", "de/d62/a07645.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
+    [ "type", "de/d62/a07645.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
 ];

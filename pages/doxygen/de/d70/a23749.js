@@ -1,9 +1,13 @@
 var a23749 =
 [
-    [ "boss_nethermancer_sepethrea", "de/d70/a23749.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "de/d70/a23749.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "de/d70/a23749.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "de/d70/a23749.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "de/d70/a23749.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "de/d70/a23749.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "boss_warbringer_omrogg", "de/d70/a23749.html#a20f790595640cd41d636ad43c8837cda", null ],
+    [ "HandleHeadTalk", "de/d70/a23749.html#aaa324c065f6c2bbf75688f5910be09d1", null ],
+    [ "JustDied", "de/d70/a23749.html#a8a2abaceda580ac2ed4f1c736281828f", null ],
+    [ "JustEngagedWith", "de/d70/a23749.html#ae1710f22f8a72f661498c4fbc6d108a5", null ],
+    [ "KilledUnit", "de/d70/a23749.html#add6b54c4744be120b6b5fd53912ce1fd", null ],
+    [ "ScheduleBurningPhase", "de/d70/a23749.html#afd20a8bd1f6f083e0725d962ec747e26", null ],
+    [ "ScheduleNonBurningPhase", "de/d70/a23749.html#a176217a0767e8153d07996461ac68f60", null ],
+    [ "SetData", "de/d70/a23749.html#a4d1154d64c999316f9ae02ab76cbc870", null ],
+    [ "UpdateAI", "de/d70/a23749.html#a90369760ed0e52f1ffc6d3e7c4e39ec2", null ],
+    [ "_headTalk", "de/d70/a23749.html#ae657addceb26f4d02d734fa0790a1ae2", null ]
 ];

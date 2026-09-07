@@ -1,9 +1,7 @@
 var a18465 =
 [
-    [ "FilterTargets", "d3/dbe/a18465.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
-    [ "FilterTargetsSubseq", "d3/dbe/a18465.html#a88a53a855e01b550fbd106ac318a891e", null ],
-    [ "PrepareSpellScript", "d3/dbe/a18465.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
-    [ "Register", "d3/dbe/a18465.html#a27e8768422b311f6db16757e167f4102", null ],
-    [ "Validate", "d3/dbe/a18465.html#a96ef76527449a138685830b52fa95146", null ],
-    [ "_targetList", "d3/dbe/a18465.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
+    [ "FrostBombExplosion", "d3/dbe/a18465.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "d3/dbe/a18465.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "d3/dbe/a18465.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "d3/dbe/a18465.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

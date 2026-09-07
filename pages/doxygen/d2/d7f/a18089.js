@@ -1,9 +1,8 @@
 var a18089 =
 [
-    [ "CheckAreaTarget", "d2/d7f/a18089.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
-    [ "HandleApply", "d2/d7f/a18089.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
-    [ "Load", "d2/d7f/a18089.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
-    [ "PrepareAuraScript", "d2/d7f/a18089.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
-    [ "Register", "d2/d7f/a18089.html#a8f476129e0678149463c4b16232f6cb6", null ],
-    [ "_teamIdInInstance", "d2/d7f/a18089.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
+    [ "Load", "d2/d7f/a18089.html#ad1105149d5e42318382af6c07149d522", null ],
+    [ "PeriodicTick", "d2/d7f/a18089.html#a8e675178256746d08af50a6b75ec582e", null ],
+    [ "PrepareAuraScript", "d2/d7f/a18089.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
+    [ "Register", "d2/d7f/a18089.html#a0fa7d86214827711edd019dd3b40c667", null ],
+    [ "_tickNo", "d2/d7f/a18089.html#a418212d2daa873d69a83b4c1341a8903", null ]
 ];

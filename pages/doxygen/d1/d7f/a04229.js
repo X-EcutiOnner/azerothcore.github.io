@@ -1,31 +1,43 @@
 var a04229 =
 [
-    [ "npcs_riverbreeze_and_silversky", "df/d91/a15995.html", "df/d91/a15995" ],
-    [ "at_ancient_leaf", "d3/dee/a15999.html", "d3/dee/a15999" ],
-    [ "AncientMisc", "d1/d7f/a04229.html#adaffe09a7c2b9f9bfdc48d5068c18068", [
-      [ "QUEST_ANCIENT_LEAF", "d1/d7f/a04229.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3", null ],
-      [ "NPC_VARTRUS", "d1/d7f/a04229.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99", null ],
-      [ "NPC_STOMA", "d1/d7f/a04229.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81", null ],
-      [ "NPC_HASTAT", "d1/d7f/a04229.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04", null ],
-      [ "CREATURE_GROUP_ANCIENTS", "d1/d7f/a04229.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149", null ]
+    [ "npc_ranger_lilatha", "d6/d50/a14029.html", "d6/d50/a14029" ],
+    [ "npc_sentinel_leader", "d9/d88/a14033.html", "d9/d88/a14033" ],
+    [ "npc_sentinel_infiltrator", "d8/dc2/a14037.html", "d8/dc2/a14037" ],
+    [ "RangerLilatha", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090a", [
+      [ "SAY_START", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aa2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_PROGRESS1", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aa1a7ff39fa30eb8719e4a1d4d8eea41bd", null ],
+      [ "SAY_PROGRESS2", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aa6b66c233baa6dd334abb1b7798066894", null ],
+      [ "SAY_PROGRESS3", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aa541cce8e829316638c92542a766209b6", null ],
+      [ "SAY_END1", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aa944891a3d2f715c9e1c8f47d65f16eca", null ],
+      [ "SAY_END2", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aaa0efc3eab3d2447cc17568f7ceed8cba", null ],
+      [ "SAY_CAPTAIN_ANSWER", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aaf92ec5f68682db4db5c776edd0e207c0", null ],
+      [ "QUEST_ESCAPE_FROM_THE_CATACOMBS", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aaf838b4afb069e6a501691db32ccd1e16", null ],
+      [ "GO_CAGE", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aab8d35951eed2c9e47bed2aa4da3fab8b", null ],
+      [ "NPC_CAPTAIN_HELIOS", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aaf9140f9834cba6679a2dd4d3dccc02a8", null ],
+      [ "NPC_MUMMIFIED_HEADHUNTER", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aa981d62936965028299a53927f91db057", null ],
+      [ "NPC_SHADOWPINE_ORACLE", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aa84adb37d4c2fc9348d6fc31abfd0306a", null ]
     ] ],
-    [ "RiverbreezeAndSilversky", "d1/d7f/a04229.html#acc75d54553750c832fe50b6cb0c42427", [
-      [ "SPELL_CENARION_BEACON", "d1/d7f/a04229.html#acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49", null ],
-      [ "ITEM_CENARION_BEACON", "d1/d7f/a04229.html#acc75d54553750c832fe50b6cb0c42427a677781938bceb63690d56c2e2c445f46", null ],
-      [ "ACTION_CREATE_CENARION_BEACON", "d1/d7f/a04229.html#acc75d54553750c832fe50b6cb0c42427acc340298bf9880e22b326c208affb4a1", null ],
-      [ "NPC_ARATHANDRIS_SILVERSKY", "d1/d7f/a04229.html#acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6", null ],
-      [ "NPC_MAYBESS_RIVERBREEZE", "d1/d7f/a04229.html#acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149", null ],
-      [ "QUEST_CLEASING_FELWOOD_A", "d1/d7f/a04229.html#acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff", null ],
-      [ "QUEST_CLEASING_FELWOOD_H", "d1/d7f/a04229.html#acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f", null ],
-      [ "GOSSIP_MENU_SILVERSKY", "d1/d7f/a04229.html#acc75d54553750c832fe50b6cb0c42427a201df035f33936e3020580c82101e7f8", null ],
-      [ "GOSSIP_MENU_RIVERBREEZE", "d1/d7f/a04229.html#acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc", null ],
-      [ "GOSSIP_OPTION_BEACON", "d1/d7f/a04229.html#acc75d54553750c832fe50b6cb0c42427a0999bd0707a4dbe03c5715081af725e1", null ],
-      [ "TEXT_SILVERSKY_1", "d1/d7f/a04229.html#acc75d54553750c832fe50b6cb0c42427a3148f1367e563486599162f32be4af21", null ],
-      [ "TEXT_SILVERSKY_2", "d1/d7f/a04229.html#acc75d54553750c832fe50b6cb0c42427a62011283d742f7947270994268e055de", null ],
-      [ "TEXT_SILVERSKY_3", "d1/d7f/a04229.html#acc75d54553750c832fe50b6cb0c42427af033b1f55bfbe0ccfd66cd1df7b50289", null ],
-      [ "TEXT_RIVERBREEZE_1", "d1/d7f/a04229.html#acc75d54553750c832fe50b6cb0c42427ac53b44e51816fbef84a98123a317125e", null ],
-      [ "TEXT_RIVERBREEZE_2", "d1/d7f/a04229.html#acc75d54553750c832fe50b6cb0c42427a06658a3d493565d3f8a42555e037fa40", null ],
-      [ "TEXT_RIVERBREEZE_3", "d1/d7f/a04229.html#acc75d54553750c832fe50b6cb0c42427a1d15502f6a496af4174cb3c5960818b5", null ]
+    [ "SentinelInfiltrator", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5", [
+      [ "EMOTE_FLEE", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a9d88a2f0a0929d045f07a5386f6a4431", null ],
+      [ "EVENT_TALK2", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a5fbd3336be08db01eeeefc355f4fa541", null ],
+      [ "EVENT_QUESTION2", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a16f3686cedbbcd372b458f36b8fef69d", null ],
+      [ "EVENT_EXCLAMATION", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a235ba44e8ac06bf6c5da1072784d2736", null ],
+      [ "EVENT_SALUTE", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a20c28745aea8562e2f30166e0ceec0ea", null ],
+      [ "EVENT_GOUGE2", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a9c0323353380c86a1dd4583ba40430da", null ],
+      [ "EVENT_BACKSTAB2", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5aaf1d9b7bb592c2a5e42e3e0f3e2671cc", null ],
+      [ "NPC_SENTINEL_INFILTRATOR", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a7cb437b950b46596afc196f0864a74fe", null ],
+      [ "PATH_ONE", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a9dabcd3a092570c71edfb732f847d854", null ],
+      [ "PATH_TWO", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a5c1049e5a354a320e8c4ead179675760", null ],
+      [ "SPELL_GOUGE", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5ad29cb58b32c3fccaec3fde84e2355de6", null ]
     ] ],
-    [ "AddSC_felwood", "d1/d7f/a04229.html#a63ae28c9f250057b35a18fb585c6a2cf", null ]
+    [ "SentinelLeader", "d1/d7f/a04229.html#acb58e7629bec88c770da1efed549d96c", [
+      [ "EVENT_QUESTION", "d1/d7f/a04229.html#acb58e7629bec88c770da1efed549d96cae7206febd87cb3058c3f99ed717131a7", null ],
+      [ "EVENT_TALK", "d1/d7f/a04229.html#acb58e7629bec88c770da1efed549d96cad8d5fcaf7b3bfdd91e6337d222c1620f", null ],
+      [ "EVENT_SINISTER_STRIKE", "d1/d7f/a04229.html#acb58e7629bec88c770da1efed549d96ca23b5677e1eb390f2bbe16d2b30a05498", null ],
+      [ "EVENT_BACKSTAB", "d1/d7f/a04229.html#acb58e7629bec88c770da1efed549d96ca1c1d8055d31bb2fb8238437b243852ca", null ],
+      [ "NPC_SENTINEL_SPY", "d1/d7f/a04229.html#acb58e7629bec88c770da1efed549d96cae75b24a241dff855e6dc0e3d51e0c9e9", null ],
+      [ "SPELL_SINISTER_STRIKE", "d1/d7f/a04229.html#acb58e7629bec88c770da1efed549d96ca3217132d497cc70e674432067fd431a7", null ],
+      [ "SPELL_BACKSTAB", "d1/d7f/a04229.html#acb58e7629bec88c770da1efed549d96ca4ff7524487add866a452db82c2791b68", null ]
+    ] ],
+    [ "AddSC_ghostlands", "d1/d7f/a04229.html#a1093517f6bb08d3a1c9e52cf36b6a054", null ]
 ];

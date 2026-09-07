@@ -1,5 +1,9 @@
 var a08401 =
 [
-    [ "Name", "d1/d54/a08401.html#aa971d38e5169f2b7b610cf6cf0aec928", null ],
-    [ "Title", "d1/d54/a08401.html#a344cbaef4846d4c9c76e1d783dd2b4fc", null ]
+    [ "LFGGroupScript", "d1/d54/a08401.html#adb7730ba67910121a255a6da535d2fc2", null ],
+    [ "OnAddMember", "d1/d54/a08401.html#a43c29f1c4b0f78b203a8798e34e9bc4c", null ],
+    [ "OnChangeLeader", "d1/d54/a08401.html#a3616c537eb39fe130c8fb24d93a0ead9", null ],
+    [ "OnDisband", "d1/d54/a08401.html#a7d8d28f1919e407ed93474d970733d86", null ],
+    [ "OnInviteMember", "d1/d54/a08401.html#a25add922fa708babe08c3bdaaa0c0d92", null ],
+    [ "OnRemoveMember", "d1/d54/a08401.html#a1385adec817221a83653a6fa03e57858", null ]
 ];

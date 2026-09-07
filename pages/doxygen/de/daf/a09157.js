@@ -1,6 +1,11 @@
 var a09157 =
 [
-    [ "BuildValuesCachedBuffer", "de/daf/a09157.html#a87a3167ae060c8556700e4a137294053", null ],
-    [ "buffer", "de/daf/a09157.html#add7150533a48434b0e606add9cff04d2", null ],
-    [ "posPointers", "de/daf/a09157.html#affa098684782f15383a7df063b178cf1", null ]
+    [ "SpellPeriodicAuraLogInfo", "de/daf/a09157.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
+    [ "absorb", "de/daf/a09157.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
+    [ "auraEff", "de/daf/a09157.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
+    [ "critical", "de/daf/a09157.html#a51041b901727b4f595d2a886520626ff", null ],
+    [ "damage", "de/daf/a09157.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
+    [ "multiplier", "de/daf/a09157.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
+    [ "overDamage", "de/daf/a09157.html#a51904be3790c99bded697b2cf7c8db23", null ],
+    [ "resist", "de/daf/a09157.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
 ];

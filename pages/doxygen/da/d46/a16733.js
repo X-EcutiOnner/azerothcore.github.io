@@ -1,6 +1,6 @@
 var a16733 =
 [
-    [ "HandleSpellHit", "da/d46/a16733.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
-    [ "PrepareSpellScript", "da/d46/a16733.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
-    [ "Register", "da/d46/a16733.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
+    [ "boss_paletressAI", "d6/d8f/a16737.html", "d6/d8f/a16737" ],
+    [ "boss_paletress", "da/d46/a16733.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
+    [ "GetAI", "da/d46/a16733.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
 ];

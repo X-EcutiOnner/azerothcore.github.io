@@ -1,6 +1,10 @@
 var a23593 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "d3/d8b/a23597.html", "d3/d8b/a23597" ],
-    [ "instance_the_botanica", "de/d8b/a23593.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "de/d8b/a23593.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "boss_blindeye_the_seer", "de/d8b/a23593.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
+    [ "JustDied", "de/d8b/a23593.html#ad70a72b18587da82d26bde8f10d63700", null ],
+    [ "JustEngagedWith", "de/d8b/a23593.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
+    [ "Reset", "de/d8b/a23593.html#aabbda75266615f64ce88ce092e68bfa4", null ],
+    [ "UpdateAI", "de/d8b/a23593.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
+    [ "_scheduler", "de/d8b/a23593.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
+    [ "instance", "de/d8b/a23593.html#a74462f26d66da3ca370825858060b1c2", null ]
 ];

@@ -1,4 +1,5 @@
 var a02384 =
 [
-    [ "_modulesList", "d2/d11/a02384.html#aa8df8c5e3d2ad2852ea850d12636d578", null ]
+    [ "gm_commandscript", "d7/dfd/a12469.html", "d7/dfd/a12469" ],
+    [ "AddSC_gm_commandscript", "d2/d11/a02384.html#a65c7b128fdf4dd9807ef514c24918e7b", null ]
 ];

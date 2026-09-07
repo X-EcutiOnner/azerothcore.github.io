@@ -1,8 +1,7 @@
 var a18713 =
 [
-    [ "Load", "d5/d7e/a18713.html#add67e02f44e3658bff98faf7a9466ba3", null ],
-    [ "OnPeriodic", "d5/d7e/a18713.html#a3e523e0bb23e4aba279ba6704206bfc4", null ],
-    [ "PrepareAuraScript", "d5/d7e/a18713.html#a399fc30c23c03d3c4964ec23faed7c18", null ],
-    [ "Register", "d5/d7e/a18713.html#a4ee6fe23e45481eea16f77d8de72742e", null ],
-    [ "_is25Man", "d5/d7e/a18713.html#ab7776e2d8eff0de1176d5d5efa853c6d", null ]
+    [ "CheckTargetCount", "d5/d7e/a18713.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
+    [ "PrepareSpellScript", "d5/d7e/a18713.html#abd32198867e7f01b21b7de6224a597d4", null ],
+    [ "Register", "d5/d7e/a18713.html#a671bede7fbc68085cd6075f412822869", null ],
+    [ "Validate", "d5/d7e/a18713.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
 ];

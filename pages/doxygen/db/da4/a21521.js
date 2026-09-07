@@ -1,9 +1,12 @@
 var a21521 =
 [
-    [ "npc_mageguard_dalaranAI", "db/da4/a21521.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
-    [ "AttackStart", "db/da4/a21521.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
-    [ "JustEngagedWith", "db/da4/a21521.html#aac463689ae5a488ec2acb8a0310689d8", null ],
-    [ "MoveInLineOfSight", "db/da4/a21521.html#aafb32462693e0efd9c80cf335f489754", null ],
-    [ "Reset", "db/da4/a21521.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
-    [ "UpdateAI", "db/da4/a21521.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
+    [ "boss_xevozz", "db/da4/a21521.html#aea402ffbe689ca65e29b30899862a8bc", null ],
+    [ "EnterEvadeMode", "db/da4/a21521.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
+    [ "ExecuteEvent", "db/da4/a21521.html#af5b37fc643f2b22468a38655fce63d25", null ],
+    [ "JustDied", "db/da4/a21521.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
+    [ "JustEngagedWith", "db/da4/a21521.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
+    [ "JustSummoned", "db/da4/a21521.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
+    [ "KilledUnit", "db/da4/a21521.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
+    [ "MoveInLineOfSight", "db/da4/a21521.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
+    [ "SummonedCreatureDespawn", "db/da4/a21521.html#a1493a5acdfcca7d01446564db622239e", null ]
 ];

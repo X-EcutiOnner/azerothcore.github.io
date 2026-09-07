@@ -1,6 +1,7 @@
 var a20521 =
 [
-    [ "HandleDamage", "db/d39/a20521.html#af2578478e83eb2f6c2de32a692e9be91", null ],
-    [ "PrepareSpellScript", "db/d39/a20521.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
-    [ "Register", "db/d39/a20521.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
+    [ "HandleAfterEffectApply", "db/d39/a20521.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "db/d39/a20521.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "db/d39/a20521.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "db/d39/a20521.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

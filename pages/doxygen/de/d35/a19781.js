@@ -1,6 +1,6 @@
 var a19781 =
 [
-    [ "npc_centrifuge_constructAI", "d0/dc0/a19785.html", "d0/dc0/a19785" ],
-    [ "npc_centrifuge_construct", "de/d35/a19781.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
-    [ "GetAI", "de/d35/a19781.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
+    [ "ChargeRifts", "de/d35/a19781.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "de/d35/a19781.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "de/d35/a19781.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

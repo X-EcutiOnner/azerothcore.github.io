@@ -1,7 +1,12 @@
 var a00836 =
 [
-    [ "ACSoapThread", "d3/d13/a00836.html#a6c4b2ef1ce6f27015352f0c8b7a3bf11", null ],
-    [ "ns1__executeCommand", "d3/d13/a00836.html#af9d30c869db1c560fead6671ff96ad82", null ],
-    [ "process_message", "d3/d13/a00836.html#abf914e30c869f88f2fafb9f656320c6a", null ],
-    [ "namespaces", "d3/d13/a00836.html#aabfac0a3b8d38498bc5e1e3bc465ead6", null ]
+    [ "TicketScript", "d9/d8d/a10869.html", "d9/d8d/a10869" ],
+    [ "TicketHook", "d3/d13/a00836.html#af2de2d4afd6c8a1968e6e4b055620b72", [
+      [ "TICKETHOOK_ON_TICKET_CREATE", "d3/d13/a00836.html#af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61", null ],
+      [ "TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE", "d3/d13/a00836.html#af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374", null ],
+      [ "TICKETHOOK_ON_TICKET_CLOSE", "d3/d13/a00836.html#af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38", null ],
+      [ "TICKETHOOK_ON_TICKET_STATUS_UPDATE", "d3/d13/a00836.html#af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825", null ],
+      [ "TICKETHOOK_ON_TICKET_RESOLVE", "d3/d13/a00836.html#af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df", null ],
+      [ "TICKETHOOK_END", "d3/d13/a00836.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222", null ]
+    ] ]
 ];

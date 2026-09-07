@@ -1,6 +1,10 @@
 var a12181 =
 [
-    [ "Command", "d3/d37/a12181.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
-    [ "Data", "d3/d37/a12181.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
-    [ "DataSize", "d3/d37/a12181.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
+    [ "AcoreStringChatBuilder", "d3/d37/a12181.html#a7e280083c80fd119d365649fd4578fc9", null ],
+    [ "operator()", "d3/d37/a12181.html#a09a2a03dca2b8470cd1d1f7c8273868b", null ],
+    [ "_args", "d3/d37/a12181.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc", null ],
+    [ "_msgType", "d3/d37/a12181.html#adbabf871f33692b0ecddc8cc0fb75586", null ],
+    [ "_source", "d3/d37/a12181.html#ac5222737ea1b95b6d75afc532838f8be", null ],
+    [ "_target", "d3/d37/a12181.html#ab659b7c7bd6426a023cf8668322327b8", null ],
+    [ "_textId", "d3/d37/a12181.html#a3d29de9c5d80c3df488aa01fa380a84a", null ]
 ];

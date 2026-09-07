@@ -1,7 +1,6 @@
 var a20325 =
 [
-    [ "npc_ulduar_icicle", "dd/d10/a20325.html#ac5f024031a70b4ca04ecc0a96fcbdcae", null ],
-    [ "UpdateAI", "dd/d10/a20325.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
-    [ "timer1", "dd/d10/a20325.html#ae277d302131abd17cef018872b12da06", null ],
-    [ "timer2", "dd/d10/a20325.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
+    [ "CheckAreaTarget", "dd/d10/a20325.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "dd/d10/a20325.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "dd/d10/a20325.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

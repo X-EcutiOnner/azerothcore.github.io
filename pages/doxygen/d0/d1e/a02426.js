@@ -1,10 +1,8 @@
 var a02426 =
 [
-    [ "OutdoorPvP_nagrand", "d4/d9b/a22380.html", "d4/d9b/a22380" ],
-    [ "outdoorpvp_na_halaa_creatures", "dc/d45/a22384.html", "dc/d45/a22384" ],
-    [ "AddSC_outdoorpvp_na", "d0/d1e/a02426.html#a03015585e7619177355fefd05f85e1c7", null ],
-    [ "FlagPlayerPvP", "d0/d1e/a02426.html#ab1d33448696056a0951a0c306a511f1e", null ],
-    [ "UpdateCreatureHalaa", "d0/d1e/a02426.html#a37af66c813e135cc11bd1dc663b35697", null ],
-    [ "halaaNPCAlly", "d0/d1e/a02426.html#a3428675268608e5372767fc629259d5c", null ],
-    [ "halaaNPCHorde", "d0/d1e/a02426.html#a531a4e8a5291c048ad0f3b0fc64b29d9", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "de/da1/a28709.html", "de/da1/a28709" ],
+    [ "ApprenticeAnglerQuestEnum", "d0/d1e/a02426.html#a6d8279401bbf1ce28fa9c35fbcf1970c", [
+      [ "QUEST_APPRENTICE_ANGLER", "d0/d1e/a02426.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba", null ]
+    ] ],
+    [ "AddSC_player_scripts", "d0/d1e/a02426.html#a1f476a8466c12651b57fd55bf13b9617", null ]
 ];

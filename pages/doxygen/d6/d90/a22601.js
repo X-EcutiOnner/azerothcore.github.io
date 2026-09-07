@@ -1,6 +1,7 @@
 var a22601 =
 [
-    [ "FilterTargets", "d6/d90/a22601.html#a91b9fdebdffcae06da1882d7d46f5460", null ],
-    [ "PrepareSpellScript", "d6/d90/a22601.html#ae8f3906007580963bda33cd0e420299b", null ],
-    [ "Register", "d6/d90/a22601.html#a5e191d4fca7cc95ddec8730cc3fd8ffe", null ]
+    [ "OutdoorPvPGH", "d6/d90/a22601.html#a619492e0a1fdf75f37554a2f19268660", null ],
+    [ "HandleKill", "d6/d90/a22601.html#a78cf572faf727c302f9be496d91004e0", null ],
+    [ "SendRemoveWorldStates", "d6/d90/a22601.html#a92c7e489717072ddc34f707fbe462cb2", null ],
+    [ "SetupOutdoorPvP", "d6/d90/a22601.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
 ];

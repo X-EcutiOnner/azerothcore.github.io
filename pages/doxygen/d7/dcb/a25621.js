@@ -1,7 +1,5 @@
 var a25621 =
 [
-    [ "CheckProc", "d7/dcb/a25621.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
-    [ "HandleProc", "d7/dcb/a25621.html#a5cf9cea911ead2f261522e55e94c745a", null ],
-    [ "PrepareAuraScript", "d7/dcb/a25621.html#a3f2b20607f90ad641769eb284ddfab85", null ],
-    [ "Register", "d7/dcb/a25621.html#a55557026689613e91aeabce1af442237", null ]
+    [ "PrepareSpellScript", "d7/dcb/a25621.html#a939db3d626f3451edd605ced6d9b2ebe", null ],
+    [ "Register", "d7/dcb/a25621.html#a5b356ca08e33c8eb127bec763f105792", null ]
 ];

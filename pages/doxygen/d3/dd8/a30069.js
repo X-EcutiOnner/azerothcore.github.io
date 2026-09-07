@@ -1,8 +1,5 @@
 var a30069 =
 [
-    [ "Color", "d3/dd8/a30069.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
-    [ "NameIndex", "d3/dd8/a30069.html#add893e045d13a3633fd7346457a10477", null ],
-    [ "Position", "d3/dd8/a30069.html#afae9056582e71160c151de2c172bc60a", null ],
-    [ "Rotation", "d3/dd8/a30069.html#a48d372bc1371fa5f94db9aa39669942a", null ],
-    [ "Scale", "d3/dd8/a30069.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
+    [ "SetUp", "d3/dd8/a30069.html#a2f34b980c62df0c4cbebece70acb396f", null ],
+    [ "_unit", "d3/dd8/a30069.html#ab0992f0862085b81aac8ec6680c590c1", null ]
 ];

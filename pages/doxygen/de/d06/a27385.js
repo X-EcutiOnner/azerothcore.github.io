@@ -1,6 +1,9 @@
 var a27385 =
 [
-    [ "HandleProc", "de/d06/a27385.html#a933975b17f340d9f458dc95b77aa43ac", null ],
-    [ "PrepareAuraScript", "de/d06/a27385.html#ad9df49f481d936068ebee0d2f6179e9f", null ],
-    [ "Register", "de/d06/a27385.html#a54dd9a2a6646282897cabec00f092525", null ]
+    [ "CheckCast", "de/d06/a27385.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
+    [ "FilterTargets", "de/d06/a27385.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
+    [ "HandleDummy", "de/d06/a27385.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
+    [ "PrepareSpellScript", "de/d06/a27385.html#a9c992e732b525e29f684947398d20efb", null ],
+    [ "Register", "de/d06/a27385.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
+    [ "Validate", "de/d06/a27385.html#abca1e5aa46e7753588c8120090775195", null ]
 ];

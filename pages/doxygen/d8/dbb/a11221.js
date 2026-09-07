@@ -1,6 +1,13 @@
 var a11221 =
 [
-    [ "SetRaidDifficultyClient", "d8/dbb/a11221.html#afba49b9e3994eb461ac1b827d0c0fac7", null ],
-    [ "Read", "d8/dbb/a11221.html#a347a86f33f0c31a1c3279028d7dfc46c", null ],
-    [ "Mode", "d8/dbb/a11221.html#a445a55f5069f60a184b119c57cfedf9a", null ]
+    [ "GuildBankQueryResults", "d8/dbb/a11221.html#a8203a35b76fdc674794c5bd3c1acb9ed", null ],
+    [ "SetWithdrawalsRemaining", "d8/dbb/a11221.html#a52af0d2b4e092daf0719bdf325c51652", null ],
+    [ "Write", "d8/dbb/a11221.html#a4598c0c9d1f94c5aa0671f210e1597d4", null ],
+    [ "_withdrawalsRemainingPos", "d8/dbb/a11221.html#abe711cd2da225fdc73eabe2ad6bd3f5d", null ],
+    [ "FullUpdate", "d8/dbb/a11221.html#a42ca9b48981d7d338aecb7840c248f0f", null ],
+    [ "ItemInfo", "d8/dbb/a11221.html#ad799195b259f92aa4e71e1ee8fd99741", null ],
+    [ "Money", "d8/dbb/a11221.html#ad401eb3444f5ae50781e634e1f55eba1", null ],
+    [ "Tab", "d8/dbb/a11221.html#a72ac06ace5e7974d666e3fc3d626e3c0", null ],
+    [ "TabInfo", "d8/dbb/a11221.html#ad36f0ae1d897ef504ad9761c00db77ca", null ],
+    [ "WithdrawalsRemaining", "d8/dbb/a11221.html#a211288bde5a15f2d21df65acf087c7d0", null ]
 ];

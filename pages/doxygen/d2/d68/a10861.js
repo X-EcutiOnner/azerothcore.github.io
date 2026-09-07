@@ -1,9 +1,7 @@
 var a10861 =
 [
-    [ "fX", "d2/d68/a10861.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
-    [ "fY", "d2/d68/a10861.html#a9b158e247014eec0d35e465ab9469ac7", null ],
-    [ "fZ", "d2/d68/a10861.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
-    [ "uiCreatureEntry", "d2/d68/a10861.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
-    [ "uiPointId", "d2/d68/a10861.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
-    [ "uiWaitTime", "d2/d68/a10861.html#a305620aad71152c1139a88dea05a1887", null ]
+    [ "SpellScriptLoader", "d2/d68/a10861.html#a3b6fe2ba310f95c438b7cf941865fe46", null ],
+    [ "GetAuraScript", "d2/d68/a10861.html#a9c60850e39ffe3d151a128b12777859d", null ],
+    [ "GetSpellScript", "d2/d68/a10861.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
+    [ "IsDatabaseBound", "d2/d68/a10861.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
 ];

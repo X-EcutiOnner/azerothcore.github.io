@@ -1,7 +1,5 @@
 var a11813 =
 [
-    [ "effectMask", "d8/dfd/a11813.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
-    [ "processed", "d8/dfd/a11813.html#aedfa36678be863a558ecd0ecc07cc544", null ],
-    [ "targetGUID", "d8/dfd/a11813.html#a619f98bf094d2667048204f733d64d0c", null ],
-    [ "timeDelay", "d8/dfd/a11813.html#ab552326c0780fe62ff95b02249458492", null ]
+    [ "SocketAdded", "d8/dfd/a11813.html#a01090d6713f49dc026f77f8481b492cb", null ],
+    [ "SocketRemoved", "d8/dfd/a11813.html#a4a978f9304e4aeabfb9ce1998b8a27cc", null ]
 ];

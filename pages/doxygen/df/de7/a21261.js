@@ -1,11 +1,10 @@
 var a21261 =
 [
-    [ "boss_erekem", "df/de7/a21261.html#a32a7d3b83f201bd77423da1a98e742ae", null ],
-    [ "EnterEvadeMode", "df/de7/a21261.html#a3d946004c120c6daec6565e7ba815fa1", null ],
-    [ "ExecuteEvent", "df/de7/a21261.html#a24100918d900f974144f94f399e429b3", null ],
-    [ "GetChainHealTargetGuid", "df/de7/a21261.html#a809a25ac441f1ef1c60273ac1094a3b2", null ],
-    [ "JustDied", "df/de7/a21261.html#a23ce09bbe023ebab5dbe1bf26cd84c7a", null ],
-    [ "JustEngagedWith", "df/de7/a21261.html#a82faaeb00a41745d331f97037e5b4800", null ],
-    [ "KilledUnit", "df/de7/a21261.html#acaa92e69b5d4ff536d8a0a3e965a93d5", null ],
-    [ "MoveInLineOfSight", "df/de7/a21261.html#ad89c95919671fd1ae2656ed468ee022a", null ]
+    [ "npc_enslaved_proto_drake", "df/de7/a21261.html#aec835fdc8b1beb270176d5341d26c265", null ],
+    [ "MovementInform", "df/de7/a21261.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
+    [ "Reset", "df/de7/a21261.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
+    [ "SetData", "df/de7/a21261.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
+    [ "UpdateAI", "df/de7/a21261.html#a252f84198df610bac44b6bd9cd80602e", null ],
+    [ "_events", "df/de7/a21261.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
+    [ "_setData", "df/de7/a21261.html#adb997badd8831dea7763eaecc93b7773", null ]
 ];

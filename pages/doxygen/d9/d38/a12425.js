@@ -1,12 +1,14 @@
 var a12425 =
 [
-    [ "message_commandscript", "d9/d38/a12425.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
-    [ "GetCommands", "d9/d38/a12425.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
-    [ "HandleAnnounceCommand", "d9/d38/a12425.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
-    [ "HandleGMAnnounceCommand", "d9/d38/a12425.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
-    [ "HandleGMNameAnnounceCommand", "d9/d38/a12425.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
-    [ "HandleGMNotifyCommand", "d9/d38/a12425.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
-    [ "HandleNameAnnounceCommand", "d9/d38/a12425.html#a786902b70345712c6dba9f638695dd9e", null ],
-    [ "HandleNotifyCommand", "d9/d38/a12425.html#a0d53b2414931451b30abd2fe5acee1af", null ],
-    [ "HandleWhispersCommand", "d9/d38/a12425.html#a9a02c97677250136f9717968a9f47b73", null ]
+    [ "cast_commandscript", "d9/d38/a12425.html#a9c657d2c5404149a45a2db748d23fc2f", null ],
+    [ "CheckSpellCastResult", "d9/d38/a12425.html#a244b2d11a07fdcbb72f3207ab1e46ea5", null ],
+    [ "CheckSpellExistsAndIsValid", "d9/d38/a12425.html#a14da4e4674b065c8e8f3d1946a037bda", null ],
+    [ "GetCommands", "d9/d38/a12425.html#ab0890c036a8d301b382fdd1b6371f671", null ],
+    [ "GetTriggerFlags", "d9/d38/a12425.html#a26e6986c45a99e6a94d7ba2d9a810aa3", null ],
+    [ "HandleCastBackCommand", "d9/d38/a12425.html#a964a40278f609a5c5a0bae651484c726", null ],
+    [ "HandleCastCommand", "d9/d38/a12425.html#ac28430cc0623209b891bacbb4845509b", null ],
+    [ "HandleCastDestCommand", "d9/d38/a12425.html#a156ca81fba7155205dae106aa4c221d6", null ],
+    [ "HandleCastDistCommand", "d9/d38/a12425.html#aabbcac8e85c6a64a647d71bb22bebede", null ],
+    [ "HandleCastSelfCommand", "d9/d38/a12425.html#a69e88bb174c2518584a9ae622e2850bf", null ],
+    [ "HandleCastTargetCommad", "d9/d38/a12425.html#aa72bd317a3498ef07007c1a9e81e2796", null ]
 ];

@@ -1,6 +1,6 @@
 var a23025 =
 [
-    [ "FilterTargets", "df/dad/a23025.html#ac20676c292d87276e444bad56d71960d", null ],
-    [ "PrepareSpellScript", "df/dad/a23025.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
-    [ "Register", "df/dad/a23025.html#ae356b768872de3e87806c19bf8cccb08", null ]
+    [ "HandleEffectRemove", "df/dad/a23025.html#ae9baf688d8ac42c4ccbbf13f3b79e831", null ],
+    [ "PrepareAuraScript", "df/dad/a23025.html#a2e2668f0b5bf369ec859627e0bd8d980", null ],
+    [ "Register", "df/dad/a23025.html#acd7e22159d262a9888c744eecb978c09", null ]
 ];

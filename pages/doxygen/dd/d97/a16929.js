@@ -1,7 +1,7 @@
 var a16929 =
 [
-    [ "npc_toc_rogueAI", "dd/d97/a16929.html#a34027e7d10edbfba8e046f4785e37899", null ],
-    [ "myCanCast", "dd/d97/a16929.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
-    [ "UpdateAI", "dd/d97/a16929.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
-    [ "events", "dd/d97/a16929.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
+    [ "npc_toc_priestAI", "dd/d97/a16929.html#aa362d2136193a8738e311bba18b87c90", null ],
+    [ "myCanCast", "dd/d97/a16929.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
+    [ "UpdateAI", "dd/d97/a16929.html#ae51d2ac95320909150c673b76c9856c7", null ],
+    [ "events", "dd/d97/a16929.html#aa5be20e87351424e0e4698540fc1fef4", null ]
 ];

@@ -1,6 +1,6 @@
 var a18253 =
 [
-    [ "HandleScript", "d1/d96/a18253.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
-    [ "PrepareSpellScript", "d1/d96/a18253.html#a68c0462bd108b04621f8288328f78b18", null ],
-    [ "Register", "d1/d96/a18253.html#aedaec0afc414800bc481a434592ffb5d", null ]
+    [ "HandleScriptEffect", "d1/d96/a18253.html#ac6017cbe86b328aef00f707051c67e5f", null ],
+    [ "PrepareSpellScript", "d1/d96/a18253.html#a3e21794652b0ffea67571f9b294b4961", null ],
+    [ "Register", "d1/d96/a18253.html#a4d070dff98fed842e0a3839e918f7c5a", null ]
 ];

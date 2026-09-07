@@ -1,6 +1,6 @@
 var a20761 =
 [
-    [ "HandleScript", "db/d22/a20761.html#a679cf770e38e1fda66f8a64fff53f968", null ],
-    [ "PrepareSpellScript", "db/d22/a20761.html#a89fe5ca5efcc45278bdd9017cfeaaf3f", null ],
-    [ "Register", "db/d22/a20761.html#adc76a70e73cba42c0f9935b3b43d17cd", null ]
+    [ "npc_razorscale_spawner", "db/d22/a20761.html#afbc71f46d2ac919dae274c7581357d34", null ],
+    [ "Reset", "db/d22/a20761.html#afdfee27c6933d00f3e8d8fb1d8381e19", null ],
+    [ "UpdateAI", "db/d22/a20761.html#a0de302ea1ace44cc2f065cae130166cb", null ]
 ];

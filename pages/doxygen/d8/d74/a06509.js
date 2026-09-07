@@ -1,10 +1,12 @@
 var a06509 =
 [
-    [ "PowerUsersSelector", "d8/d74/a06509.html#aa13229f12601a551a34628b92c0eddf3", null ],
-    [ "operator()", "d8/d74/a06509.html#ac93e678f198787fd6691e0bb8d63d6e3", null ],
-    [ "_dist", "d8/d74/a06509.html#a1c63646bffb486c51ca07e0f8a70dd59", null ],
-    [ "_me", "d8/d74/a06509.html#a7f6dda10c26982d9633fae57b64af7ef", null ],
-    [ "_playerOnly", "d8/d74/a06509.html#aea809984a6dd46c22f414e44c9794309", null ],
-    [ "_power", "d8/d74/a06509.html#a9a518903606768e505e7230fe9344bbf", null ],
-    [ "_withTank", "d8/d74/a06509.html#a0b682b6d926ced8eecff642a4bb51756", null ]
+    [ "NullCreatureAI", "d8/d74/a06509.html#aa9969eeb9a79559c9f2d3bd907b3fd85", null ],
+    [ "AttackStart", "d8/d74/a06509.html#a94d4594e1f39143ea41ce00aeecec4b4", null ],
+    [ "EnterEvadeMode", "d8/d74/a06509.html#a726edd296c16ed2414fcc1827f88238f", null ],
+    [ "JustEnteredCombat", "d8/d74/a06509.html#ac9ccd2d260170b218acf1997a0bded97", null ],
+    [ "JustStartedThreateningMe", "d8/d74/a06509.html#a191e098763d9b73db74f843aa77115e6", null ],
+    [ "MoveInLineOfSight", "d8/d74/a06509.html#a12c54c92a08e81751563ec9522236b28", null ],
+    [ "OnCharmed", "d8/d74/a06509.html#a77b274955dcfdf2d10bbc43b64330f8d", null ],
+    [ "Permissible", "d8/d74/a06509.html#a77595426da50819a0ff0744930d19b23", null ],
+    [ "UpdateAI", "d8/d74/a06509.html#ab200fcf78dee74a2ec808c01f5855236", null ]
 ];

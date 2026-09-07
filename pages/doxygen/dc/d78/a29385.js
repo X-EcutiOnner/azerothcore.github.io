@@ -1,6 +1,7 @@
 var a29385 =
 [
-    [ "lastExtraAttackSpell", "dc/d78/a29385.html#a0b7c47a0c1a328703648936a1da3245f", null ],
-    [ "triggeredSpellHasExtraAttacks", "dc/d78/a29385.html#ad58a8f2f91c6a32371feab14e51e8e29", null ],
-    [ "triggerSpellId", "dc/d78/a29385.html#a01a4d76e7e2bf15a3ae06926fa1189c9", null ]
+    [ "Id", "dc/d78/a29385.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
+    [ "MaxLevel", "dc/d78/a29385.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
+    [ "Modifier", "dc/d78/a29385.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
+    [ "StatMod", "dc/d78/a29385.html#ab639dd94c53707ca160e13f71342730d", null ]
 ];

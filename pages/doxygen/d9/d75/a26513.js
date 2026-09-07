@@ -1,6 +1,7 @@
 var a26513 =
 [
-    [ "CheckTarget", "d9/d75/a26513.html#af1dae4f351ccaa7bc9b2ea315f0752c5", null ],
-    [ "PrepareSpellScript", "d9/d75/a26513.html#a8f4075c80c7dcaa16f71bc1b396d005f", null ],
-    [ "Register", "d9/d75/a26513.html#af4a27df3090a45ebd5db29c58e9ea47f", null ]
+    [ "HandleProc", "d9/d75/a26513.html#a00864fa29b0f4e01f0ec3b007ba56913", null ],
+    [ "PrepareAuraScript", "d9/d75/a26513.html#a83020e052309f9905adde86bac3ef925", null ],
+    [ "Register", "d9/d75/a26513.html#a7d0a5ebb4f9f9742694967bf23a76ba8", null ],
+    [ "Validate", "d9/d75/a26513.html#ac296ca5433b5bf1fc0d8c3401e43d912", null ]
 ];

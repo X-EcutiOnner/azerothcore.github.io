@@ -1,8 +1,6 @@
 var a14845 =
 [
-    [ "HandleDummy", "d6/d47/a14845.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
-    [ "Load", "d6/d47/a14845.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
-    [ "PrepareSpellScript", "d6/d47/a14845.html#af1d1ad32d41d79008d650b388353346b", null ],
-    [ "Register", "d6/d47/a14845.html#a53a7c4c025324b205a29f92dd48aefde", null ],
-    [ "handled", "d6/d47/a14845.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
+    [ "npc_cw_area_triggerAI", "d5/d02/a14849.html", "d5/d02/a14849" ],
+    [ "npc_cw_area_trigger", "d6/d47/a14845.html#a11af64ac4ab078566bf8f68a36781939", null ],
+    [ "GetAI", "d6/d47/a14845.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
 ];

@@ -1,8 +1,7 @@
 var a23197 =
 [
-    [ "boss_mekgineer_steamrigger", "d1/d70/a23197.html#a930dcbade7135d0c689bcc0718815547", null ],
-    [ "JustDied", "d1/d70/a23197.html#a79272c233bc0256cca62700fc7a01421", null ],
-    [ "JustEngagedWith", "d1/d70/a23197.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
-    [ "JustSummoned", "d1/d70/a23197.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
-    [ "KilledUnit", "d1/d70/a23197.html#a84374438458cb7e034f91d4b65cd22f1", null ]
+    [ "HandleProc", "d1/d70/a23197.html#a43892c85339867a65e992b7f17fdc61c", null ],
+    [ "PrepareAuraScript", "d1/d70/a23197.html#ab5728e2c3df5b887c26f2485575087ff", null ],
+    [ "Register", "d1/d70/a23197.html#aae9f80730de402ebbda918e0116e59a0", null ],
+    [ "Validate", "d1/d70/a23197.html#a8ef20577e375a5c7d3a66824f27bf937", null ]
 ];

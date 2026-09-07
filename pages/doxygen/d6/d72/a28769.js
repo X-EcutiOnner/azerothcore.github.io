@@ -1,4 +1,6 @@
 var a28769 =
 [
-    [ "ratio", "d6/d72/a28769.html#a614fdab0bf0be8c91775b49d020cdc7c", null ]
+    [ "CheckCast", "d6/d72/a28769.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
+    [ "PrepareSpellScript", "d6/d72/a28769.html#aa3c18907c79309a8924a98bce41e27f1", null ],
+    [ "Register", "d6/d72/a28769.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
 ];

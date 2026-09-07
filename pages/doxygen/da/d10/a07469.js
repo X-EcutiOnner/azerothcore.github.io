@@ -1,8 +1,9 @@
 var a07469 =
 [
-    [ "faction", "da/d10/a07469.html#acb80e9b49dda9771679b871cf862d876", null ],
-    [ "loc_idx", "da/d10/a07469.html#ac88c2c37d92c9e4a8502a870a580fa01", null ],
-    [ "locdbc_idx", "da/d10/a07469.html#a572c98b3437aff883f68d0eea4b26eb6", null ],
-    [ "playerGuid", "da/d10/a07469.html#a6aaee409b729275b9089d7db5145ba58", null ],
-    [ "usablePlayerInfo", "da/d10/a07469.html#a0a2be15a1a7c4d84fe53930c15571157", null ]
+    [ "SmartWaypointMgr", "da/d10/a07469.html#ad9168edcc4fd16260178d4a9277f71ba", null ],
+    [ "~SmartWaypointMgr", "da/d10/a07469.html#a7299029b0e2063740fd2fe9d9b218749", null ],
+    [ "GetPath", "da/d10/a07469.html#ab3fb0cb109b9bf28ee09173f4340c351", null ],
+    [ "instance", "da/d10/a07469.html#a7ae477d4d210d938e167453d9085e520", null ],
+    [ "LoadFromDB", "da/d10/a07469.html#a9b5cdb29d31e7de0a407f600aef482af", null ],
+    [ "waypoint_map", "da/d10/a07469.html#ac34eb4bd79106db2574cce0208a785e5", null ]
 ];

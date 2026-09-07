@@ -1,5 +1,6 @@
 var a20417 =
 [
-    [ "achievement_staying_buffed_all_winter_25", "d1/d6c/a20417.html#a91f0ab3bada837cff6414350b98a27a3", null ],
-    [ "OnCheck", "d1/d6c/a20417.html#a36591082184bc8466e124bad9a910545", null ]
+    [ "npc_ulduar_saronite_vapors", "d1/d6c/a20417.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
+    [ "JustDied", "d1/d6c/a20417.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
+    [ "_instance", "d1/d6c/a20417.html#ad304110ff1bfc33066cd17f04cf40181", null ]
 ];

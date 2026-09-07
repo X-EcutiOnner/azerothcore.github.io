@@ -1,12 +1,24 @@
 var a08521 =
 [
-    [ "GameObjectModelOwnerImpl", "d8/dec/a08521.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
-    [ "DebugVisualizeCorner", "d8/dec/a08521.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
-    [ "GetDisplayId", "d8/dec/a08521.html#a4a694456955c19e76d8c84befc02c920", null ],
-    [ "GetOrientation", "d8/dec/a08521.html#acb968e3bd921aac111a2e06f2604b040", null ],
-    [ "GetPhaseMask", "d8/dec/a08521.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
-    [ "GetPosition", "d8/dec/a08521.html#a9ba2b29d30b38895effe97637e050988", null ],
-    [ "GetScale", "d8/dec/a08521.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
-    [ "IsSpawned", "d8/dec/a08521.html#ae47eb25d16de37122042402443db6f3d", null ],
-    [ "_owner", "d8/dec/a08521.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
+    [ "PlayerMenu", "d8/dec/a08521.html#a690175d52d57aa33ec8fac8c1f25972a", null ],
+    [ "~PlayerMenu", "d8/dec/a08521.html#a764418c67a206ddfb783ea2f8a755bcc", null ],
+    [ "ClearMenus", "d8/dec/a08521.html#a64e6ddbdb6e894f56578339efa62e752", null ],
+    [ "Empty", "d8/dec/a08521.html#a7b8937a48631f9dab1ab117ea9e3dfaf", null ],
+    [ "GetGossipMenu", "d8/dec/a08521.html#acc519746fa45290cde3967dc5f604158", null ],
+    [ "GetGossipOptionAction", "d8/dec/a08521.html#afe2b7121b08000226986315ab2da007c", null ],
+    [ "GetGossipOptionSender", "d8/dec/a08521.html#ab85bfb274849b70e5e49d9dfdd9ea414", null ],
+    [ "GetQuestMenu", "d8/dec/a08521.html#a6129e728a42a0d74e462073ba7219eb1", null ],
+    [ "IsGossipOptionCoded", "d8/dec/a08521.html#a74e2796d83f1643a98aa8107d496ca22", null ],
+    [ "SendCloseGossip", "d8/dec/a08521.html#a1071f28b7138ecbd7e94d95175059ba1", null ],
+    [ "SendGossipMenu", "d8/dec/a08521.html#a78a00a19e9e55fe5582dd70183b01e8b", null ],
+    [ "SendPointOfInterest", "d8/dec/a08521.html#a192c3c40d28b331851fb36a8c936bde3", null ],
+    [ "SendQuestGiverOfferReward", "d8/dec/a08521.html#afc3d8fc9f8fd2f20ea0068b101d90f91", null ],
+    [ "SendQuestGiverQuestDetails", "d8/dec/a08521.html#a3961687838852446af0db40d6458fb41", null ],
+    [ "SendQuestGiverQuestList", "d8/dec/a08521.html#a1995bf53009911627fbbcb20049a1fbf", null ],
+    [ "SendQuestGiverRequestItems", "d8/dec/a08521.html#a61a5f8d9b8b9c4baa511028884011f89", null ],
+    [ "SendQuestGiverStatus", "d8/dec/a08521.html#a873a174b6ef46140ff8d8acf0c683ffb", null ],
+    [ "SendQuestQueryResponse", "d8/dec/a08521.html#a950ed922c39040db8a1fe16588c7c65a", null ],
+    [ "_gossipMenu", "d8/dec/a08521.html#a7a31b60fd003326c8f975675168efd10", null ],
+    [ "_questMenu", "d8/dec/a08521.html#a1d1d9ec0ac5fea6b1905390f0719073a", null ],
+    [ "_session", "d8/dec/a08521.html#aa55a3dbe879c3d0166ba7a8deda0d6e0", null ]
 ];

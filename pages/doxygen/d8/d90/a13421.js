@@ -1,6 +1,6 @@
 var a13421 =
 [
-    [ "npc_scarlet_ghoulAI", "d7/dd5/a13425.html", "d7/dd5/a13425" ],
-    [ "npc_scarlet_ghoul", "d8/d90/a13421.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
-    [ "GetAI", "d8/d90/a13421.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
+    [ "HandleProc", "d8/d90/a13421.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "d8/d90/a13421.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "d8/d90/a13421.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

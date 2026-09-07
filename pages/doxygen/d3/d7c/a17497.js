@@ -1,6 +1,9 @@
 var a17497 =
 [
-    [ "HandleDummy", "d3/d7c/a17497.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
-    [ "PrepareSpellScript", "d3/d7c/a17497.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
-    [ "Register", "d3/d7c/a17497.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
+    [ "npc_pos_after_first_bossAI", "d3/d7c/a17497.html#a622df71849da1e10e2b73068f0adea98", null ],
+    [ "MovementInform", "d3/d7c/a17497.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
+    [ "Reset", "d3/d7c/a17497.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
+    [ "UpdateAI", "d3/d7c/a17497.html#ac45111887fd7833a041355658dd26158", null ],
+    [ "events", "d3/d7c/a17497.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
+    [ "pInstance", "d3/d7c/a17497.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
 ];

@@ -1,7 +1,17 @@
 var a19069 =
 [
-    [ "OnApply", "dc/de6/a19069.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
-    [ "OnRemove", "dc/de6/a19069.html#a697a7c76f944b5df956a9de07746b7a9", null ],
-    [ "PrepareAuraScript", "dc/de6/a19069.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
-    [ "Register", "dc/de6/a19069.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
+    [ "npc_argent_captainAI", "dc/de6/a19069.html#a4e9d65fa7c870c98d79ff30ae262385d", null ],
+    [ "CanAIAttack", "dc/de6/a19069.html#a542075fcf2d487dedc6f11672e3507ba", null ],
+    [ "DoAction", "dc/de6/a19069.html#a77f0b2d41d631f3ff7a3ea8d13716de1", null ],
+    [ "EnterEvadeMode", "dc/de6/a19069.html#afaebff86ad9be5835c2e289625c07d16", null ],
+    [ "JustDied", "dc/de6/a19069.html#a7f132fa843ba292cc89a64c77ce48bc4", null ],
+    [ "JustEngagedWith", "dc/de6/a19069.html#a43818e75274cad597fd883f75119d63c", null ],
+    [ "KilledUnit", "dc/de6/a19069.html#abc2dbc233082f9d7626759fbcccb34a2", null ],
+    [ "Reset", "dc/de6/a19069.html#a0709350a6841b6008935c050a1db7784", null ],
+    [ "SpellHit", "dc/de6/a19069.html#a8aee635d2739564281b5af04955e4d4a", null ],
+    [ "Events", "dc/de6/a19069.html#a1cffce3d371bef959d76270608247def", null ],
+    [ "FollowAngle", "dc/de6/a19069.html#a059c34261439fc80b0bff9d62b537489", null ],
+    [ "FollowDist", "dc/de6/a19069.html#a4fde069032f7c6578f7f518b45f141d2", null ],
+    [ "instance", "dc/de6/a19069.html#a131f11a8a67e3eb60759c699fc2cec1b", null ],
+    [ "IsUndead", "dc/de6/a19069.html#a9eaf5d2c9e52650c28b8f7feef0e681c", null ]
 ];

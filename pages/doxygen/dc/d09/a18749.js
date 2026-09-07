@@ -1,7 +1,7 @@
 var a18749 =
 [
-    [ "CalculateBonus", "dc/d09/a18749.html#ae149a739150cb7eb9fb67f19130c0510", null ],
-    [ "OnPeriodic", "dc/d09/a18749.html#a19697bd65a325870becc1c30d7deff36", null ],
-    [ "PrepareAuraScript", "dc/d09/a18749.html#a77c272d4a26323c421e4b264f79d5b66", null ],
-    [ "Register", "dc/d09/a18749.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
+    [ "OnPeriodic", "dc/d09/a18749.html#a9635bf496ee3098e412ba7de633250b3", null ],
+    [ "PrepareAuraScript", "dc/d09/a18749.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
+    [ "Register", "dc/d09/a18749.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
+    [ "Validate", "dc/d09/a18749.html#a5675fef373315edd34d096bb91c733b0", null ]
 ];

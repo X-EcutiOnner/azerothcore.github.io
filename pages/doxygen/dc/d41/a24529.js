@@ -1,6 +1,9 @@
 var a24529 =
 [
-    [ "HandleScriptEffect", "dc/d41/a24529.html#ad9863535a38094779e765fe65450ce55", null ],
-    [ "PrepareSpellScript", "dc/d41/a24529.html#a653061d36c204fbd0d2dc1f983864bf1", null ],
-    [ "Register", "dc/d41/a24529.html#a5019887a078af86682eea3974bacf6dc", null ]
+    [ "npc_pet_shaman_earth_elemental", "dc/d41/a24529.html#a07f3792cb3b5264d209f1b4726867773", null ],
+    [ "InitializeAI", "dc/d41/a24529.html#a8bbca6686ae324a50cd1598125280446", null ],
+    [ "JustEngagedWith", "dc/d41/a24529.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
+    [ "UpdateAI", "dc/d41/a24529.html#ab28951b483cab31bf5672fc74e7323e1", null ],
+    [ "_events", "dc/d41/a24529.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
+    [ "_initAttack", "dc/d41/a24529.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
 ];

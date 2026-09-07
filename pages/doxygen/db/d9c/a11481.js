@@ -1,8 +1,7 @@
 var a11481 =
 [
-    [ "PetSpellAutocast", "db/d9c/a11481.html#ab858647d14031a2a6109d1e923402d08", null ],
-    [ "Read", "db/d9c/a11481.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
-    [ "AutocastEnabled", "db/d9c/a11481.html#a3c04543dcd5382682654b3860b84c6a3", null ],
-    [ "PetGUID", "db/d9c/a11481.html#aeed828abebf683078ee61204c91e28c9", null ],
-    [ "SpellID", "db/d9c/a11481.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
+    [ "TrainerBuySucceeded", "db/d9c/a11481.html#ae00367a55429030c107fc8f6bb7db288", null ],
+    [ "Write", "db/d9c/a11481.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
+    [ "SpellID", "db/d9c/a11481.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
+    [ "TrainerGUID", "db/d9c/a11481.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
 ];

@@ -1,9 +1,9 @@
 var a06433 =
 [
-    [ "CasterAI", "dc/d99/a06433.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
-    [ "AttackStart", "dc/d99/a06433.html#a28386fd1a275c002445e5eaf90314a3d", null ],
-    [ "InitializeAI", "dc/d99/a06433.html#a2a24cdc24b665c52363dae587572fc4d", null ],
-    [ "JustEngagedWith", "dc/d99/a06433.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
-    [ "UpdateAI", "dc/d99/a06433.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
-    [ "m_attackDist", "dc/d99/a06433.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
+    [ "itemId", "dc/d99/a06433.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
+    [ "mailTemplate", "dc/d99/a06433.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
+    [ "sender", "dc/d99/a06433.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
+    [ "subject", "dc/d99/a06433.html#a45644f308278529f822080f8274180d8", null ],
+    [ "text", "dc/d99/a06433.html#a4d57dcb4d130552f5bf756308d79307c", null ],
+    [ "titleId", "dc/d99/a06433.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
 ];

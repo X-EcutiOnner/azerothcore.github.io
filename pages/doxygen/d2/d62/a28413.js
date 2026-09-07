@@ -1,6 +1,5 @@
 var a28413 =
 [
-    [ "npc_venomhide_hatchlingAI", "d2/d62/a28413.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "d2/d62/a28413.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "d2/d62/a28413.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "go_duskwither_spire_power_source", "d2/d62/a28413.html#aab69de16e8b744af2671e2ed882ee94a", null ],
+    [ "OnGossipHello", "d2/d62/a28413.html#a2c7fd017e7985b99bff187119157a041", null ]
 ];

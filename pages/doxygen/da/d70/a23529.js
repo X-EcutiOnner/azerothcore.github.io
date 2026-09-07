@@ -1,14 +1,7 @@
 var a23529 =
 [
-    [ "npc_warden_mellicharAI", "da/d70/a23529.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
-    [ "AttackStart", "da/d70/a23529.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
-    [ "DamageTaken", "da/d70/a23529.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
-    [ "JustDied", "da/d70/a23529.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
-    [ "JustEngagedWith", "da/d70/a23529.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
-    [ "JustSummoned", "da/d70/a23529.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
-    [ "MoveInLineOfSight", "da/d70/a23529.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
-    [ "Reset", "da/d70/a23529.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
-    [ "SetData", "da/d70/a23529.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
-    [ "SummonedCreatureDies", "da/d70/a23529.html#a58e1011986be65725d4db3d782bc72ac", null ],
-    [ "UpdateAI", "da/d70/a23529.html#a944cff5367213d561a7e6df5faf2a216", null ]
+    [ "HandleScript", "da/d70/a23529.html#a42052a416290a54d5479a402de578a73", null ],
+    [ "PrepareSpellScript", "da/d70/a23529.html#a5f6aa972879b65c0207e47435d436a33", null ],
+    [ "Register", "da/d70/a23529.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
+    [ "Validate", "da/d70/a23529.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
 ];

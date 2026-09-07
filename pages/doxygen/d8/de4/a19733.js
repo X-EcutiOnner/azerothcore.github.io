@@ -1,6 +1,8 @@
 var a19733 =
 [
-    [ "boss_eregosAI", "d2/df0/a19737.html", "d2/df0/a19737" ],
-    [ "boss_eregos", "d8/de4/a19733.html#a105820f29aa1391d77a56e024c4b5637", null ],
-    [ "GetAI", "d8/de4/a19733.html#aee43f0dfee70ab9618c560a27504cb02", null ]
+    [ "npc_scion_of_eternity", "d8/de4/a19733.html#ac1a9111bc835a3d2cffc43b840985763", null ],
+    [ "AttackStart", "d8/de4/a19733.html#a86b5e235096ad107217f36150c618d73", null ],
+    [ "JustDied", "d8/de4/a19733.html#aff0f8d0d57afb6ef3df7b259ec5860fa", null ],
+    [ "MoveInLineOfSight", "d8/de4/a19733.html#a25424c349fc39f7b42d36ac055f91ad9", null ],
+    [ "UpdateAI", "d8/de4/a19733.html#a49be60ccd03d75cf56931b870ddf086c", null ]
 ];

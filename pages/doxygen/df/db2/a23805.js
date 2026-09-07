@@ -1,7 +1,10 @@
 var a23805 =
 [
-    [ "npc_daranelleAI", "df/db2/a23805.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "df/db2/a23805.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "df/db2/a23805.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "df/db2/a23805.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "boss_harbinger_skyriss", "df/db2/a23805.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "df/db2/a23805.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "df/db2/a23805.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "df/db2/a23805.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "df/db2/a23805.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "df/db2/a23805.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "df/db2/a23805.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

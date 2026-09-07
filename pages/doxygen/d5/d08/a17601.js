@@ -1,11 +1,10 @@
 var a17601 =
 [
-    [ "boss_slad_ranAI", "d5/d08/a17601.html#ad85e2fd51d67739026a96bc757bc7801", null ],
-    [ "GetData", "d5/d08/a17601.html#a58e1188a418acdc1f327e7df90c5c122", null ],
-    [ "JustDied", "d5/d08/a17601.html#a636ca76497c33a5175986e80bbcda44a", null ],
-    [ "JustEngagedWith", "d5/d08/a17601.html#ac30b38805d0421b1be509c7d5609c648", null ],
-    [ "KilledUnit", "d5/d08/a17601.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
-    [ "Reset", "d5/d08/a17601.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
-    [ "SetData", "d5/d08/a17601.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
-    [ "_achievement", "d5/d08/a17601.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
+    [ "boss_drakkari_elementalAI", "d5/d08/a17601.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
+    [ "DoAction", "d5/d08/a17601.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
+    [ "JustDied", "d5/d08/a17601.html#aec2878e51a12749914e3a30c0ddea900", null ],
+    [ "JustEngagedWith", "d5/d08/a17601.html#a75cbf6a164ab4337f86b600541c563f2", null ],
+    [ "Reset", "d5/d08/a17601.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
+    [ "UpdateAI", "d5/d08/a17601.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
+    [ "events", "d5/d08/a17601.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
 ];

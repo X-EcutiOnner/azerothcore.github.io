@@ -1,5 +1,5 @@
 var a01037 =
 [
-    [ "MapMgr", "d1/d86/a10291.html", "d1/d86/a10291" ],
-    [ "sMapMgr", "d2/d41/a01037.html#a9132749f8376c48b0ca7212eb3293905", null ]
+    [ "WorldPackets::LFG::LFGJoin", "d2/d50/a11381.html", "d2/d50/a11381" ],
+    [ "WorldPackets::LFG::LFGLeave", "d9/dab/a11385.html", "d9/dab/a11385" ]
 ];

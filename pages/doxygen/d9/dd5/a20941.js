@@ -1,6 +1,8 @@
 var a20941 =
 [
-    [ "instance_ulduar_InstanceMapScript", "d8/d80/a20945.html", "d8/d80/a20945" ],
-    [ "instance_ulduar", "d9/dd5/a20941.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "d9/dd5/a20941.html#ae263428f4229c75b22f990dabe6b3c06", null ]
+    [ "npc_xt_toy_pile", "d9/dd5/a20941.html#a843e7d05cf62baa5c006077f8dad107d", null ],
+    [ "SpellHit", "d9/dd5/a20941.html#a82af3830eaf524c587334e8eb193925f", null ],
+    [ "_lastSummonTime", "d9/dd5/a20941.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
+    [ "SummonCooldown", "d9/dd5/a20941.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
+    [ "SummonDistance", "d9/dd5/a20941.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
 ];

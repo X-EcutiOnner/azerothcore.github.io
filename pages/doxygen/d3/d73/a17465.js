@@ -1,13 +1,13 @@
 var a17465 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "d3/d73/a17465.html#a2b8f5479565297c95ecdc4882e7d27ae", null ],
-    [ "DoAction", "d3/d73/a17465.html#aa1df5c0f5612a9fc9a4e78fb901dc8e7", null ],
-    [ "JustSummoned", "d3/d73/a17465.html#acdfc5d370da977ab69752016368cc9b0", null ],
-    [ "MovementInform", "d3/d73/a17465.html#a95c033e4e2ca224be09ce993f4e7996d", null ],
-    [ "SummonedCreatureDespawn", "d3/d73/a17465.html#af31de5c7f901baf4d8c62964fee8ead8", null ],
-    [ "UpdateAI", "d3/d73/a17465.html#ad22fbcd52404c1e9c1fc71f3bc6b7525", null ],
-    [ "events", "d3/d73/a17465.html#a44045ae5151625a4d7aacb69e9c934e5", null ],
-    [ "i", "d3/d73/a17465.html#aa185914ee8a2352e4d233f1fc4800390", null ],
-    [ "pInstance", "d3/d73/a17465.html#ac38febd0bce9338346d0c1aa6ba50de3", null ],
-    [ "summons", "d3/d73/a17465.html#ad0f2097f168ea5983e3eece24cb82bfa", null ]
+    [ "boss_tyrannusAI", "d3/d73/a17465.html#a753de14d2cecaaed2c7b24e09397b008", null ],
+    [ "CanAIAttack", "d3/d73/a17465.html#a0cb60f308637cbd152faf274b3e5f636", null ],
+    [ "DoAction", "d3/d73/a17465.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
+    [ "EnterEvadeMode", "d3/d73/a17465.html#a9d18bab323c676020dede77a498a5b77", null ],
+    [ "JustDied", "d3/d73/a17465.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
+    [ "KilledUnit", "d3/d73/a17465.html#abf7c8909143dac641c00cca160bef964", null ],
+    [ "Reset", "d3/d73/a17465.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
+    [ "UpdateAI", "d3/d73/a17465.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
+    [ "events", "d3/d73/a17465.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
+    [ "pInstance", "d3/d73/a17465.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
 ];

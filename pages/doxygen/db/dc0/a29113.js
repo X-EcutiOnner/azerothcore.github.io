@@ -1,13 +1,7 @@
 var a29113 =
 [
-    [ "AcquireMethod", "db/dc0/a29113.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
-    [ "ClassMask", "db/dc0/a29113.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
-    [ "ID", "db/dc0/a29113.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
-    [ "MinSkillLineRank", "db/dc0/a29113.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
-    [ "RaceMask", "db/dc0/a29113.html#acfd38780584b90ca40a1e1cd59605832", null ],
-    [ "SkillLine", "db/dc0/a29113.html#a0050dcf5c82f785dfc93079debe54a13", null ],
-    [ "Spell", "db/dc0/a29113.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
-    [ "SupercededBySpell", "db/dc0/a29113.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
-    [ "TrivialSkillLineRankHigh", "db/dc0/a29113.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
-    [ "TrivialSkillLineRankLow", "db/dc0/a29113.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
+    [ "cutPercent", "db/dc0/a29113.html#a8581a6a5198dab10680f477a477a7c80", null ],
+    [ "depositPercent", "db/dc0/a29113.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
+    [ "faction", "db/dc0/a29113.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
+    [ "houseId", "db/dc0/a29113.html#a1bf77c1b14731def0e3de44143df2eed", null ]
 ];

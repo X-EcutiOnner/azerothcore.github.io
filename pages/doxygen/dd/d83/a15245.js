@@ -1,6 +1,6 @@
 var a15245 =
 [
-    [ "npc_crate_helperAI", "dd/d83/a15245.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "dd/d83/a15245.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "dd/d83/a15245.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "instance_mount_hyjal_InstanceMapScript", "d4/d18/a15249.html", "d4/d18/a15249" ],
+    [ "instance_hyjal", "dd/d83/a15245.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
+    [ "GetInstanceScript", "dd/d83/a15245.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
 ];

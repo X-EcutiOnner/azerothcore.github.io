@@ -1,5 +1,6 @@
 var a20977 =
 [
-    [ "AreaTrigger_at_celestial_planetarium_enterance", "d1/df2/a20977.html#ae1503a754a05a77991d9955a2fb74265", null ],
-    [ "OnTrigger", "d1/df2/a20977.html#aa7aa93e00170313de251af4e562c422c", null ]
+    [ "x", "d1/df2/a20977.html#ae4223168378b602a0a96dbb424a22be4", null ],
+    [ "y", "d1/df2/a20977.html#a30f361d8104e4de44541d75945105963", null ],
+    [ "z", "d1/df2/a20977.html#ae68a79519c35302b89976ac29bb77e26", null ]
 ];

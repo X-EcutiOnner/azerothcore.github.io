@@ -1,5 +1,7 @@
 var a11573 =
 [
-    [ "QuestGiverQuestAutoLaunch", "d6/d3d/a11573.html#a802f7bba88a650bc577cfc1fa29cb016", null ],
-    [ "Read", "d6/d3d/a11573.html#a8e5d0c7821d7055fd7ad9f3f83589f57", null ]
+    [ "PetDismissSound", "d6/d3d/a11573.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
+    [ "Write", "d6/d3d/a11573.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
+    [ "ModelId", "d6/d3d/a11573.html#aba65e6547adde55978ce7b2abb779d51", null ],
+    [ "ModelPosition", "d6/d3d/a11573.html#a06e6bff9d70996ba890c31ea74363dad", null ]
 ];

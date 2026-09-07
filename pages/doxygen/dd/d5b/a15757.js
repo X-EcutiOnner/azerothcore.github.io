@@ -1,5 +1,6 @@
 var a15757 =
 [
-    [ "at_battleguard_sartura", "dd/d5b/a15757.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
-    [ "OnTrigger", "dd/d5b/a15757.html#a6a7b9f210ce0c2844b4f2412c0fe440e", null ]
+    [ "HandleOnHit", "dd/d5b/a15757.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
+    [ "PrepareSpellScript", "dd/d5b/a15757.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
+    [ "Register", "dd/d5b/a15757.html#a1e608d67914c0071a913d96d70c625d6", null ]
 ];

@@ -1,10 +1,10 @@
 var a20597 =
 [
-    [ "npc_ulduar_harpoonfirestate", "d5/d2d/a20597.html#a2456fbee16367a524f26873da99247e8", null ],
-    [ "GetData", "d5/d2d/a20597.html#a83ba5a0cc62ba15cf671d49fccf75f7d", null ],
-    [ "GetHarpoonGunIdForThisHFS", "d5/d2d/a20597.html#ae8e0613e67ee4e17157a05910c1551c8", null ],
-    [ "Reset", "d5/d2d/a20597.html#aba0f9525ef9e3eddbc4a78164c2f8ffd", null ],
-    [ "SetData", "d5/d2d/a20597.html#a338c6cb2be0e05726f372344fdc2b436", null ],
-    [ "pInstance", "d5/d2d/a20597.html#aee0914001b38be87976cd44b6bbaf276", null ],
-    [ "repairPoints", "d5/d2d/a20597.html#a64bf7ba3b4930eb141b66075b772e64d", null ]
+    [ "boss_kologarn_eyebeam", "d5/d2d/a20597.html#ae51ea98b22b3a0734347825b3a0346be", null ],
+    [ "DamageDealt", "d5/d2d/a20597.html#ab5dfd2cd38ee64a2cd94d8dec28ccc0d", null ],
+    [ "IsSummonedBy", "d5/d2d/a20597.html#a1640ef2ca2a58803786a6c675191676c", null ],
+    [ "UpdateAI", "d5/d2d/a20597.html#a7c64f096f0c9eb4c1bb9f63a0cf907a3", null ],
+    [ "_damaged", "d5/d2d/a20597.html#a62d025ceaa080f78e587ee08c6f780ef", null ],
+    [ "_instance", "d5/d2d/a20597.html#a600467b5bb551022d7e0b12ce739b672", null ],
+    [ "_timer", "d5/d2d/a20597.html#a0d324467d4d02d7bd204f66fcadc52ea", null ]
 ];

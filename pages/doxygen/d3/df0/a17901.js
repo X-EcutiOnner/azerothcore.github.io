@@ -1,9 +1,9 @@
 var a17901 =
 [
-    [ "BattleExperienceEvent", "d3/df0/a17901.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
-    [ "Execute", "d3/df0/a17901.html#a3971962ec90f682baeae96fe6098fa97", null ],
-    [ "_creature", "d3/df0/a17901.html#a0155536d5c2be329a1f3b57c4d852098", null ],
-    [ "_level", "d3/df0/a17901.html#a22f0d7e59f579362be4576180d0977b8", null ],
-    [ "ExperiencedSpells", "d3/df0/a17901.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
-    [ "ExperiencedTimes", "d3/df0/a17901.html#af682cc246c7fdae39cc2a1e57110badc", null ]
+    [ "FilterTargetsInitial", "d3/df0/a17901.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
+    [ "FilterTargetsSubsequent", "d3/df0/a17901.html#a11732039155235c287757980129d5a8e", null ],
+    [ "Load", "d3/df0/a17901.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
+    [ "PrepareSpellScript", "d3/df0/a17901.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
+    [ "Register", "d3/df0/a17901.html#a56a4e65df08a95fddde75162358155c2", null ],
+    [ "_target", "d3/df0/a17901.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
 ];

@@ -1,8 +1,8 @@
 var a26309 =
 [
-    [ "Absorb", "dc/d74/a26309.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
-    [ "CalculateAmount", "dc/d74/a26309.html#a20d5b4776ebeb859b0641af640e41d80", null ],
-    [ "PrepareAuraScript", "dc/d74/a26309.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
-    [ "Register", "dc/d74/a26309.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
-    [ "Validate", "dc/d74/a26309.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
+    [ "CheckQuest", "dc/d74/a26309.html#ab7ebff0894832ac009cda89b7c28e252", null ],
+    [ "HandleDummy", "dc/d74/a26309.html#a365df14504a54e95e7d68d22a284e441", null ],
+    [ "HandleOpenObject", "dc/d74/a26309.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
+    [ "PrepareSpellScript", "dc/d74/a26309.html#a479e313031a2e71473238d8f645bf2d4", null ],
+    [ "Register", "dc/d74/a26309.html#a70f1a91e611cc2092aad44a909cd53db", null ]
 ];

@@ -1,7 +1,13 @@
 var a17745 =
 [
-    [ "PeriodicTick", "d5/d94/a17745.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
-    [ "PrepareAuraScript", "d5/d94/a17745.html#ac1abcbe62887678adad0194fdf27825a", null ],
-    [ "Register", "d5/d94/a17745.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
-    [ "Validate", "d5/d94/a17745.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
+    [ "npc_kinetic_bombAI", "d5/d94/a17745.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
+    [ "DoAction", "d5/d94/a17745.html#a52e913b244e58f99745926d021dc0d95", null ],
+    [ "IsSummonedBy", "d5/d94/a17745.html#a03dc3870b23105bb1d0d207adefe2541", null ],
+    [ "Reset", "d5/d94/a17745.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
+    [ "UpdateAI", "d5/d94/a17745.html#a1ce9bf99879796652878990a773e6a2c", null ],
+    [ "_events", "d5/d94/a17745.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
+    [ "_groundZ", "d5/d94/a17745.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
+    [ "_x", "d5/d94/a17745.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
+    [ "_y", "d5/d94/a17745.html#a5d9f4039c87e1e57234af51cd4617022", null ],
+    [ "exploded", "d5/d94/a17745.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
 ];

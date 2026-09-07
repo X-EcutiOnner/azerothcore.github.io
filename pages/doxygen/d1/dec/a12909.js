@@ -1,7 +1,6 @@
 var a12909 =
 [
-    [ "HandleRemove", "d1/dec/a12909.html#a754b44b62c131e20e1be94b3407e2006", null ],
-    [ "PrepareAuraScript", "d1/dec/a12909.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
-    [ "Register", "d1/dec/a12909.html#a02cd375ec140f7614104b7e56df13430", null ],
-    [ "Validate", "d1/dec/a12909.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
+    [ "FilterTargets", "d1/dec/a12909.html#ac630fb5f068e4d26adb078b118994c45", null ],
+    [ "PrepareSpellScript", "d1/dec/a12909.html#a5f4986bfad79573e65d56ff276c49914", null ],
+    [ "Register", "d1/dec/a12909.html#aa1f5838d43871fd7908ea3b914666000", null ]
 ];

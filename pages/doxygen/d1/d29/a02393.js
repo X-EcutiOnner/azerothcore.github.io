@@ -1,5 +1,5 @@
 var a02393 =
 [
-    [ "CanRollOnItem", "d1/d29/a02393.html#afbaf3417177da71d9f3c8be9eab09c2b", null ],
-    [ "SendRollWonItemViaMail", "d1/d29/a02393.html#a499748359465da566bbe2a1e833d9b93", null ]
+    [ "gear_commandscript", "d2/dd1/a12465.html", "d2/dd1/a12465" ],
+    [ "AddSC_gear_commandscript", "d1/d29/a02393.html#a8f5ae2609cea7d63d76141e1a5feaf27", null ]
 ];

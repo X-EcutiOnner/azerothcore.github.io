@@ -1,9 +1,7 @@
 var a24053 =
 [
-    [ "npc_enraged_spiritAI", "d5/d0d/a24053.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
-    [ "JustDied", "d5/d0d/a24053.html#a9322622f679dbc311bd8983f5037bd2e", null ],
-    [ "JustEngagedWith", "d5/d0d/a24053.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
-    [ "Reset", "d5/d0d/a24053.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
-    [ "UpdateAI", "d5/d0d/a24053.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
-    [ "_scheduler", "d5/d0d/a24053.html#afa6825696b0622849f877b392df4b326", null ]
+    [ "OnPeriodic", "d5/d0d/a24053.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "d5/d0d/a24053.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "d5/d0d/a24053.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "d5/d0d/a24053.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

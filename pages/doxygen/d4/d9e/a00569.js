@@ -1,22 +1,10 @@
 var a00569 =
 [
-    [ "WMO::MODS", "d3/dda/a30359.html", "d3/dda/a30359" ],
-    [ "WMO::MODD", "d6/d98/a30363.html", "d6/d98/a30363" ],
-    [ "WMODoodadData", "d4/d9a/a30367.html", "d4/d9a/a30367" ],
-    [ "WMORoot", "d3/d71/a30371.html", "d3/d71/a30371" ],
-    [ "WMOLiquidHeader", "df/d25/a30375.html", "df/d25/a30375" ],
-    [ "WMOLiquidVert", "dd/de1/a30379.html", "dd/de1/a30379" ],
-    [ "WMOGroup", "db/d62/a30383.html", "db/d62/a30383" ],
-    [ "MopyFlags", "d4/d9e/a00569.html#a0673ad4a8399eb24693f8694a261e3da", [
-      [ "WHO_MATERIAL_UNK01", "d4/d9e/a00569.html#a0673ad4a8399eb24693f8694a261e3daa4887238124bff7f472762f37b14f084b", null ],
-      [ "WMO_MATERIAL_NOCAMCOLLIDE", "d4/d9e/a00569.html#a0673ad4a8399eb24693f8694a261e3daae8fbdf74c986d20ec35a1bc8540ab5f6", null ],
-      [ "WMO_MATERIAL_DETAIL", "d4/d9e/a00569.html#a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20", null ],
-      [ "WMO_MATERIAL_COLLISION", "d4/d9e/a00569.html#a0673ad4a8399eb24693f8694a261e3daa26cd74a7fba8ff77edd7fcad4b174192", null ],
-      [ "WMO_MATERIAL_HINT", "d4/d9e/a00569.html#a0673ad4a8399eb24693f8694a261e3daaeda4c860284ded0a951980ea981503f2", null ],
-      [ "WMO_MATERIAL_RENDER", "d4/d9e/a00569.html#a0673ad4a8399eb24693f8694a261e3daa79016e869a8c491c5e7c762416645edc", null ],
-      [ "WMO_MATERIAL_WALL_SURFACE", "d4/d9e/a00569.html#a0673ad4a8399eb24693f8694a261e3daaa806842158937b60f3b6af093b50497a", null ],
-      [ "WMO_MATERIAL_COLLIDE_HIT", "d4/d9e/a00569.html#a0673ad4a8399eb24693f8694a261e3daad1b64a17d5df9a320ad54ab47e9c0885", null ]
-    ] ],
-    [ "Extract", "d4/d9e/a00569.html#a9148b3ef5b412564a285737b0bd104dd", null ],
-    [ "fixCoords", "d4/d9e/a00569.html#aac8f4a449b4a5d07be9ff66ee59a6f6c", null ]
+    [ "CALL_ENABLED_BOOLEAN_HOOKS", "d4/d9e/a00569.html#a6ed5893c246e1f2c46b3d33ef8729a64", null ],
+    [ "CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE", "d4/d9e/a00569.html#a370083225ad9db5b05a730ce4fb26d2f", null ],
+    [ "CALL_ENABLED_HOOKS", "d4/d9e/a00569.html#a9662d12a9f13490594165729108aa0b1", null ],
+    [ "ExecuteScript", "d4/d9e/a00569.html#a80951f767a7c77417a671490893db073", null ],
+    [ "GetReturnAIScript", "d4/d9e/a00569.html#aceff01aa3f5ab68a0253704ef30041df", null ],
+    [ "IsValidBoolScript", "d4/d9e/a00569.html#a9dedac0cb410c9d87f0470ffd0eb6c66", null ],
+    [ "ReturnValidBool", "d4/d9e/a00569.html#a670fda94f7e41c38816a1e12f9efec7c", null ]
 ];

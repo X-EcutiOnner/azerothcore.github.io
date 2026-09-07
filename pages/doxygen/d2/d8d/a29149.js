@@ -1,7 +1,8 @@
 var a29149 =
 [
-    [ "Flags", "d2/d8d/a29149.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "d2/d8d/a29149.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "d2/d8d/a29149.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "d2/d8d/a29149.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "ID", "d2/d8d/a29149.html#a36958c346c8554d9ab1cfb73ac583818", null ],
+    [ "Model", "d2/d8d/a29149.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
+    [ "Origin", "d2/d8d/a29149.html#a684c69add50ee545ee606ae456a93336", null ],
+    [ "OriginFacing", "d2/d8d/a29149.html#a460723250353c7720cd87677991283cf", null ],
+    [ "SoundID", "d2/d8d/a29149.html#aa56be05c7ab4015738e049d75ff365c6", null ]
 ];

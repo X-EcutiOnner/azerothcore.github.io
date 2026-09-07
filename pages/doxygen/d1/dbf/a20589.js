@@ -1,8 +1,24 @@
 var a20589 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "db/d14/a20593.html", "db/d14/a20593" ],
-    [ "npc_ulduar_expedition_commander", "d1/dbf/a20589.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
-    [ "GetAI", "d1/dbf/a20589.html#aa888a3634a643a103075d44c8f52d28a", null ],
-    [ "OnGossipHello", "d1/dbf/a20589.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
-    [ "OnGossipSelect", "d1/dbf/a20589.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
+    [ "boss_kologarn", "d1/dbf/a20589.html#a785ca1b78ef1c04b3c1d5f0b243b99d9", null ],
+    [ "AttachLeftArm", "d1/dbf/a20589.html#a74183a296b722f14ff6d06751733f425", null ],
+    [ "AttachRightArm", "d1/dbf/a20589.html#ab6daf2bc1350574ca3d96864fbac298a", null ],
+    [ "AttackStart", "d1/dbf/a20589.html#a87285d89c60ad61b76805e7bef75c55f", null ],
+    [ "DamageTaken", "d1/dbf/a20589.html#a78f85fbbf7da9a6b8dd78859ec727bf5", null ],
+    [ "DoAction", "d1/dbf/a20589.html#af7bf97511705a8dabb6fe40334c3a38a", null ],
+    [ "GetData", "d1/dbf/a20589.html#a1b1929673af5db04cf3b00400784b06d", null ],
+    [ "JustDied", "d1/dbf/a20589.html#a519cf71d4734d9e67af10ac5516c544a", null ],
+    [ "JustEngagedWith", "d1/dbf/a20589.html#a6638cf2efb62d2a2b861e78e360554f3", null ],
+    [ "JustSummoned", "d1/dbf/a20589.html#a18c17d9dd89aeb8dd154b2a2dc1bd0ed", null ],
+    [ "KilledUnit", "d1/dbf/a20589.html#ac311a3c891f723d82c6c848675b27c4e", null ],
+    [ "MoveInLineOfSight", "d1/dbf/a20589.html#ad6fd6e129721757fca0d36e31bd7269c", null ],
+    [ "PassengerBoarded", "d1/dbf/a20589.html#a14aaed01a6d1824521e4e95c751cc248", null ],
+    [ "Reset", "d1/dbf/a20589.html#a56a7feee3a13fdb499e87549343aaca5", null ],
+    [ "UpdateAI", "d1/dbf/a20589.html#a658921f3049414613e5b2245d6137c61", null ],
+    [ "_left", "d1/dbf/a20589.html#aea5354051bd277287336c670296442b8", null ],
+    [ "_looksAchievement", "d1/dbf/a20589.html#a5ecb293f05940091d3c824025d474bd3", null ],
+    [ "_right", "d1/dbf/a20589.html#a955364165d45784ca506bf77d8ab7e7c", null ],
+    [ "_rubbleAchievement", "d1/dbf/a20589.html#a5d7df3f5ef09e7f294759be909d9d955", null ],
+    [ "breathReady", "d1/dbf/a20589.html#a4ad6f7048bf3ba0bb39294cf4a7ca118", null ],
+    [ "vehicle", "d1/dbf/a20589.html#a660ae775be9cf6c5e506a31d97c720fa", null ]
 ];

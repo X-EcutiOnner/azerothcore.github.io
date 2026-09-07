@@ -1,10 +1,10 @@
 var a10669 =
 [
-    [ "ArenaTeamScript", "da/d12/a10669.html#ab86543c6ce76ff21e4306c799b99c896", null ],
-    [ "IsDatabaseBound", "da/d12/a10669.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
-    [ "OnGetArenaPoints", "da/d12/a10669.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
-    [ "OnGetSlotByType", "da/d12/a10669.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
-    [ "OnQueueIdToArenaType", "da/d12/a10669.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
-    [ "OnSetArenaMaxPlayersPerTeam", "da/d12/a10669.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
-    [ "OnTypeIDToQueueID", "da/d12/a10669.html#abcdd905b695f926e503db610d80ada3c", null ]
+    [ "Flags", "da/d12/a10669.html#abf9c2701e766951e5a211bf6bf85b175", null ],
+    [ "ID", "da/d12/a10669.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
+    [ "needSave", "da/d12/a10669.html#aae888b1bf10f654ee212f3d687c111e9", null ],
+    [ "needSend", "da/d12/a10669.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
+    [ "ReputationListID", "da/d12/a10669.html#a052caeeae1ecdca831097591e0fddaf6", null ],
+    [ "roundedUp", "da/d12/a10669.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
+    [ "Standing", "da/d12/a10669.html#ae87da6cada559e11a9607e194013d671", null ]
 ];

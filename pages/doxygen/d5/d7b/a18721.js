@@ -1,9 +1,6 @@
 var a18721 =
 [
-    [ "HandleScript", "d5/d7b/a18721.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
-    [ "Load", "d5/d7b/a18721.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
-    [ "PrepareSpellScript", "d5/d7b/a18721.html#a73931c9434114749b9db648665153083", null ],
-    [ "Register", "d5/d7b/a18721.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
-    [ "SelectTarget", "d5/d7b/a18721.html#a95be527c43ceeb4801f4e494753c1b59", null ],
-    [ "_target", "d5/d7b/a18721.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
+    [ "npc_icc_ice_sphereAI", "d9/d1c/a18725.html", "d9/d1c/a18725" ],
+    [ "npc_icc_ice_sphere", "d5/d7b/a18721.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
+    [ "GetAI", "d5/d7b/a18721.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
 ];

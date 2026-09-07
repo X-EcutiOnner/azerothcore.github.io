@@ -1,6 +1,10 @@
 var a14661 =
 [
-    [ "HandleEffectRemove", "d9/d50/a14661.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
-    [ "PrepareAuraScript", "d9/d50/a14661.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
-    [ "Register", "d9/d50/a14661.html#aa436788f638fedacb217ca508da5f426", null ]
+    [ "npc_zealot_zath", "d9/d50/a14661.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
+    [ "JustDied", "d9/d50/a14661.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
+    [ "JustEngagedWith", "d9/d50/a14661.html#a25e059f40de51d880f4ec209ff4dd924", null ],
+    [ "Reset", "d9/d50/a14661.html#abc4e40afd644f2c89444f3fe475817c0", null ],
+    [ "UpdateAI", "d9/d50/a14661.html#a467ce2437ec112b42f864ef412c0c976", null ],
+    [ "_scheduler", "d9/d50/a14661.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
+    [ "instance", "d9/d50/a14661.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
 ];

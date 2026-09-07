@@ -1,13 +1,8 @@
 var a17401 =
 [
-    [ "boss_tyrannusAI", "df/dde/a17401.html#a753de14d2cecaaed2c7b24e09397b008", null ],
-    [ "CanAIAttack", "df/dde/a17401.html#a0cb60f308637cbd152faf274b3e5f636", null ],
-    [ "DoAction", "df/dde/a17401.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
-    [ "EnterEvadeMode", "df/dde/a17401.html#a9d18bab323c676020dede77a498a5b77", null ],
-    [ "JustDied", "df/dde/a17401.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
-    [ "KilledUnit", "df/dde/a17401.html#abf7c8909143dac641c00cca160bef964", null ],
-    [ "Reset", "df/dde/a17401.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
-    [ "UpdateAI", "df/dde/a17401.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
-    [ "events", "df/dde/a17401.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
-    [ "pInstance", "df/dde/a17401.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
+    [ "npc_hor_lumbering_abomination", "df/dde/a17401.html#a08ae4bc9025a4bfbe91d39d256e34060", null ],
+    [ "JustDied", "df/dde/a17401.html#ae8fca8b5f86fe5cba1b4de2aaac6cf61", null ],
+    [ "JustEngagedWith", "df/dde/a17401.html#a5380771abba095749e1e0b30fe070a73", null ],
+    [ "Reset", "df/dde/a17401.html#afd56b698fac5f7f13e718d645608213f", null ],
+    [ "UpdateAI", "df/dde/a17401.html#a79e99c86f54a4fc7cbcf98e2a08e62ed", null ]
 ];

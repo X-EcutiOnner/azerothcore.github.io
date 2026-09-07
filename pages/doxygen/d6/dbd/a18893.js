@@ -1,8 +1,7 @@
 var a18893 =
 [
-    [ "npc_suppresserAI", "d6/dbd/a18893.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
-    [ "AttackStart", "d6/dbd/a18893.html#ae36105de1df1dd9841332d9a8e7799be", null ],
-    [ "IsSummonedBy", "d6/dbd/a18893.html#a35ec340b2d02a14707fc353428b1298d", null ],
-    [ "UpdateAI", "d6/dbd/a18893.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
-    [ "_instance", "d6/dbd/a18893.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
+    [ "ValithriaDespawner", "d6/dbd/a18893.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "d6/dbd/a18893.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "d6/dbd/a18893.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "d6/dbd/a18893.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

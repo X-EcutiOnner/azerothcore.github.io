@@ -1,10 +1,7 @@
 var a28213 =
 [
-    [ "go_evil_book_for_dummies", "de/d25/a28213.html#a69f599910bce0070c6b1af547c459b72", null ],
-    [ "HasLeatherSpecialty", "de/d25/a28213.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
-    [ "OnGossipHello", "de/d25/a28213.html#aeb29351e2faf135298419488eb16cc7e", null ],
-    [ "OnGossipSelect", "de/d25/a28213.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
-    [ "SendActionMenu", "de/d25/a28213.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
-    [ "SendConfirmLearn", "de/d25/a28213.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
-    [ "SendConfirmUnlearn", "de/d25/a28213.html#af9c10b0423327d8644020e8f5e26a603", null ]
+    [ "HandlePeriodic", "de/d25/a28213.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "de/d25/a28213.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "de/d25/a28213.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "de/d25/a28213.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];
